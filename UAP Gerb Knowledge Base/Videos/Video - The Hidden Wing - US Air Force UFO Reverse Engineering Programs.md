@@ -10,427 +10,102 @@ tags:
   - uap-gerb
 ---
 
-## Summary
-## Summary
+## Overview
 
-"The Hidden Wing" presents a detailed investigative thesis arguing that the U.S. Air Force operates clandestine UAP legacy programs — including crash retrieval, storage, and reverse engineering of non-human technologies — through a layered organizational structure centered on SAF/AQ (Assistant Secretary of the Air Force for Acquisition, Technology and Logistics), the Rapid Capabilities Office (RCO), Air Force Materiel Command (AFMC), and sensitive activities offices such as SAF/AHA and SAF/AAZ, with the Under Secretary of Defense for Intelligence and Security (USD I&S) and the National Security Council theorized as overarching authorities. The presenter argues these programs operate not without oversight, but through stripped, compartmentalized channels — including waived Unacknowledged Special Access Programs — that minimize congressional visibility, with the RCO identified as a key acquisition vehicle and JSOC Tier 1 units such as Delta Force and SEAL Team 6 identified as the direct-action force for UAP crash retrievals. Key named figures include Randall G. Walden (RCO director), Russell E. Wiler (alleged Air Force UAP portfolio gatekeeper identified via character-count analysis of a redacted Christopher Mellon Signal exchange), Ronald Moltry and Sean Kirkpatrick (accused of establishing AARO as a whistleblower honeypot), and Lt. Gen. Shipton (former SAF/AQ military deputy overseeing $60+ billion in annual programs). Supporting witness testimony includes whistleblower Dylan Borland's 2012 sighting of a triangular craft with apparent electro-optic cloaking over Langley AFB, a contractor's report of a disc-shaped craft at Dugway Proving Ground, and a retired Air Force officer's claim of serving on an alien reproduction vehicle test and evaluation program at the Edwards AFB 412th Test Wing.
+"The Hidden Wing" is an investigative video by UAP Gerb arguing that the U.S. Air Force operates clandestine UAP legacy programs — including crash retrieval, storage, and reverse engineering of non-human technologies — through a layered organizational structure centered on [[SAFAQ]], the [[Rapid Capabilities Office (RCO)]], [[Air Force Materiel Command (AFMC)]], and sensitive activities offices including SAF/AHA and SAF/AAZ. The presenter challenges portrayals of the legacy program structure found in the documentary "Age of Disclosure," arguing that simplified organizational narratives were designed to deflect responsibility rather than accurately represent the actual chain of command. The video's central thesis — the so-called [[Hidden Wing]] — posits that a secret Air Force program portfolio operates within the test and evaluation infrastructure at the Western Ranges, conducting T&E on recovered non-human vehicles, [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]], and derivative airframes.
 
-## People
-- [[Luisa Lzando]] — Cited for outlining a legacy program structure the speaker disagrees with
-- [[Eric Davis]] — Co-outlined the legacy program structure criticized by the speaker
-- [[Shan Kirkpatrick]] — Mentioned as part of counter-intelligence and oversight structures related to UAP legacy programs
-- [[Eric H. Wang]] — Described as a 'little-known character' with ties to AFRL and Air Force legacy programs; referred to as 'illustrious' and somewhat famous in UAP research circles
-- [[Delaney]] — Worked for multiple contractors accused of UFO legacy programs before his government role
-- [[Susie Payton]] — Served under George W. Bush; previously worked at Martin Marietta and Lockheed Martin in advanced technology roles
-- [[John J. Welch Jr.]] — Had career at LTV Aerospace, a contractor linked to CIA and EMP weapon accusations
-- [[Ed]] — Referenced as having relevant background to SAF/AQ activities
-- [[Randall G. Walden]] — Identified as a key figure in Air Force acquisition who the narrator suggests should be questioned about UFO legacy program operations
-- [[Shipton]] — Served as military deputy in the office of the assistant secretary of the air force for ATNL; responsible for R&D, test, production, and modernization of Air Force programs worth over $60 billion annually; theorized to be connected to UAP legacy programs
-- [[Catherine Austin Fitts]] — Referenced for her work on unaccounted government spending, used to support claims that UAP legacy programs may cost hundreds of billions to trillions of dollars
-- [[Ronald S. Moltry]] — Allegedly helped establish AARO and install Sean Kirkpatrick as its director; accused of deleting job history to obscure connections to legacy UFO programs
-- [[Sean Kirkpatrick]] — Accused of lying, deceiving, and interfering against whistleblowers; allegedly later joined Oak Ridge National Lab FFRDC as CTO for defense and intelligence programs
-- [[Dylan Borland]] — Testified to witnessing a large triangular craft with electro-optic cloaking over Langley Air Force Base around 2012
-- [[Chris Mellon]] — Released partially redacted screenshots of a Signal exchange about UFO crash retrieval programs on Twitter in April 2024
-- [[Lou Alzando]] — Associated with Melon and described as part of a faction pushing for limited UFO transparency
-- [[Mary Sturivant]] — Alleged to be a former SSCI colleague of Melon whom Melon may be protecting
-- [[David Grush]] — Referenced as a brave individual who has come forward to reveal UAP management and security structures
-- [[Alex Catz]] — Performed analysis to decipher the redacted name of the alleged Air Force gatekeeper for the UFO crash retrieval portfolio
-- [[Russell E. Wiler]] — Identified by Alex Catz as the likely redacted Air Force gatekeeper for the UAP crash retrieval portfolio
-- [[Russell Wiler]] — Name consists of 12 characters, matching a derived character count from a redacted signal exchange analyzed by 'Cats'
-- [[William Mccclure]] — Name analyzed for character count match with redacted signal exchange; goes by Bill Mccclure on LinkedIn
-- [[MS]] — Claimed to have encountered a disc-shaped craft in a hangar at Dugway's Avery area, seemingly being dismantled
-- [[William E. McClure]] — Also theorized as a potential Air Force gatekeeper referenced in the Christopher Mellon signal exchange
-- [[Don Dunlop]] — Identified as a key figure connecting special access program oversight to major test facilities
-- [[Eric Henry Wang]] — Identified as a key historical figure in UFO legacy program discussions, worked in the research and development directorate at Wright Patterson and Kirtland Air Force Base
-- [[Terry Phillips]] — Named as one of three key things the presenter hopes viewers learned from the video, connected to test and evaluation programs at the Western Ranges
-- [[Alexander Vulcanowski]] — Mentioned as the speaker's favorite athlete with an upcoming fight before January 31st
-- [[Fouche]] — Mentioned as someone the speaker could have discussed in the context of Air Force legacy programs but chose not to focus on
+## The Hidden Wing Program
 
-## Organizations
-- [[Lockheed Martin]] — Cited as a defense industrial base contractor used to protect UAP programs from FOIA
-- [[Northrop Grumman]] — Cited as a defense contractor potentially involved in UAP legacy programs
-- [[Raytheon]] — Listed among defense industrial base contractors engaged with UAP programs
-- [[MITRE Corporation]] — Identified as an FFRDC hypothesized to be part of legacy program structure
-- [[Aerospace Corporation]] — Identified as an FFRDC serving long-term science and technology needs of program sponsors
-- [[RAND Corporation]] — Identified as an FFRDC hypothesized to act as arbiter of information within legacy program pyramid
-- [[Sandia National Laboratories]] — Listed as a DOE/NNSA national lab involved in legacy program R&D
-- [[Los Alamos National Laboratory]] — Listed as a DOE/NNSA national lab involved in legacy program R&D
-- [[Oak Ridge National Laboratory]] — Listed as a DOE/NNSA national lab involved in legacy program R&D
-- [[DARPA Security and Intelligence Directorate]] — Cited as a program protection office within legacy program structure
-- [[Air Force Office of Special Investigations]] — Mentioned as part of the oversight and security architecture around UAP legacy programs
-- [[Department of Energy Office of Intelligence and Counterintelligence]] — Cited as part of the protective structure of UAP legacy programs
-- [[NRO (National Reconnaissance Office)]] — Investigated by the speaker for involvement in UAP legacy programs, believed to be grossly misrepresented in Age of Disclosure
-- [[Central Intelligence Agency Directorate of Science and Technology]] — Outlined in Age of Disclosure as being at the top of the legacy program structure
-- [[US Air Force]] — Central subject of investigation regarding modern 21st-century UAP legacy program operations
-- [[Department of Energy]] — Listed as one of four institutions involved in legacy programs per Age of Disclosure documentary
-- [[Department of Air Force (DAFF)]] — Overarching entity encompassing the Air Force and Space Force, led by the Secretary of the Air Force; analyzed for potential legacy UAP program structure
-- [[Headquarters of the Air Force (HAF)]] — Top military leadership supporting the Secretary of the Air Force; identified as a key component for isolating Air Force legacy program efforts
-- [[SAFAQ]] — Oversees Air Force R&D, acquisition, and sustainment with a $60B+ annual budget; identified as a likely office of primary responsibility for programs involving non-human technologies
-- [[Air Force Research Laboratory]] — Primary R&D arm of the Air Force under Air Force Materiel Command; commander appointed by SAF/AQ; linked to Dr. Eric H. Wang and legacy programs
-- [[Air Force Materiel Command (AFMC)]] — Major command (MAJCOM) under which AFRL operates; relevant to Air Force science and technology programs
-- [[Department of Defense]] — Referenced in context of congressional oversight of Special Access Programs under Title 10 US Code Section 119
-- [[CIA Directorate of Science and Technology]] — Cited as a comparable example of an internal directorate supporting classified programs, analogous to SAF/AQ's role in the Air Force
-- [[NRO (National Reconnaissance Office)]] — Referenced as subject of prior research by the speaker; used as a model for analyzing Air Force organizational structure
-- [[National Security Council]] — Mentioned in context of USD A&S supporting NRO and NSC programs
-- [[Space Force]] — Part of the Department of the Air Force alongside the Air Force
-- [[SAFAQL (Special Programs)]] — Directorate under SECAF ATNL that manages classified SAP advanced technology development programs for the Air Force
-- [[SAFAQR (Science, Technology and Engineering)]] — Serves as Air Force Science and Technology Executive; coordinates with SAF/AQL on RDT&E SAPs and new technologies
-- [[SAFAQX (Acquisition Integration)]] — Directorate within SAF/AQ believed to engage with UFO legacy programs
-- [[Martin Marietta]] — Defense contractor accused of UFO legacy program involvement; Susie Payton worked there before its merger with Lockheed
-- [[BDM International]] — Contractor purchased by Northrop Grumman; Delaney worked there; accused of UFO legacy program involvement
-- [[SIC]] — Defense contractor with accused history of UFO legacy programs; multiple SECAF ATNL officials have ties to it
-- [[TRW]] — Defense contractor listed among companies with UFO legacy program accusations linked to former SECAF ATNL officials
-- [[LTV Aerospace]] — Former defense contractor that became CIA shell company E Systems; accused of designing EMP weapons to shoot down UFOs
-- [[E Systems]] — CIA shell company formed from LTV Aerospace; connected to EMP weapons research targeting UFOs
-- [[General Dynamics]] — Defense contractor listed among companies with UFO legacy program ties to former SECAF ATNL officials
-- [[Office of the Secretary of Defense (OSD)]] — SAF/AQR represents the Air Force S&T program to OSD; partners with SAF/AQ on programs
-- [[Under Secretary of Defense for Acquisition and Sustainment (USD A&S)]] — Identified as integral administrator to NRO UFO legacy programs; partners with SAF/AQ
-- [[NRO (National Reconnaissance Office)]] — Referenced in connection with UFO legacy programs and LTV Aerospace EMP weapon accusations
-- [[SAFAQR (Special Programs Directorate)]] — Integrates special access programs and non-SAP RDT&E planning, directs advanced technology development, coordinates with SAF/AQL
-- [[SAFAQL (Science, Technology and Engineering Directorate)]] — Coordinates with SAF/AQR on Air Force RDT&E SAPs and monitors new technologies
-- [[SAFAQX (Acquisition Integration Directorate)]] — Develops and implements plans, policies and procedures for Air Force acquisition management; provides administrative and management support to clandestine RDT&E SAPs
-- [[SAFAQ]] — Parent office overseeing AQR, AQL, and AQX; suspected of involvement in UFO legacy program operations through its subcomponents
-- [[Department of the Air Force Rapid Capabilities Office (RCO)]] — Accelerates development, acquisition, and fielding of critical combat capabilities; operates with a short and narrow chain of command, suspected vehicle for UFO legacy program operations outside standard oversight
-- [[Office of the Under Secretary of Defense for Acquisition and Sustainment (USD A&S)]] — Chairs the board of directors that directs the RCO; previously linked to UFO legacy program gatekeepers in the narrator's prior research
-- [[Office of the Under Secretary of Defense for Research and Engineering]] — Member of the RCO board of directors alongside USD A&S and senior Air Force leadership
-- [[SAFAQ]] — Office of the Assistant Secretary of the Air Force for Acquisition; Shipton served as military deputy here from August 2022 to December 2023
-- [[SAFAHA]] — Air Force Sensitive Activities directorate under the Administrative Assistant to the Secretary of the Air Force; serves as OPR for sensitive activities including those under classified DoD directive S-5210.36
-- [[SAFAAZ]] — Security, special programs oversight, and information protection office; sister department to SAF/AHA under the Administrative Assistant to the Secretary of the Air Force
-- [[Office of the Under Secretary of Defense for Intelligence and Security (USDINS)]] — High-level OSD directorate covering intelligence, counterintelligence, security, and sensitive activities; exercises oversight over DIA, NGA, NRO, and NSA; theorized to be integral to NSC-led UAP legacy programs
-- [[National Program Special Management Staff (NPMS)]] — Coordinates National Security Council SAPs with the DoD and Intelligence Community; falls under USD/INS and its sensitive activities and special programs division
-- [[Special Access Program Central Office (SAPCO)]] — Office overseeing DoD Special Access Programs; referenced as important to UAP legacy programs
-- [[Special Access Program Oversight Committee]] — Committee overseeing special access programs; referenced as important to UAP legacy programs
-- [[Defense Intelligence Agency]] — Intelligence agency under oversight of USD/INS
-- [[NGA]] — Intelligence agency under oversight of USD/INS
-- [[NSA]] — Intelligence agency under oversight of USD/INS
-- [[Office of the Director of National Intelligence (ODNI)]] — USD/INS director serves a dual-hatted role as Director of Defense Intelligence under ODNI
-- [[AARO]] — Created July 20, 2022; accused of serving as a honeypot for UFO whistleblowers under USD I&S oversight
-- [[USD I&S (Under Secretary of Defense for Intelligence and Security)]] — Alleged to play an integral role in NSC-led UFO legacy programs and govern SAF/AH sensitive activities
-- [[National Security Council (NSC)]] — Alleged to heavily feature USD I&S involvement in UFO legacy programs
-- [[Oak Ridge National Laboratory FFRDC]] — Sean Kirkpatrick allegedly joined as CTO for defense and intelligence programs; rumors of recovered UFO systems analysis conducted there
-- [[Battelle Memorial Institute]] — Manages Oak Ridge National Lab FFRDC; both Moltry and Kirkpatrick allegedly deleted this from their public CVs
-- [[Better Angels Society]] — Moltry served as a board member; owned by the Carlyle Group
-- [[Carlyle Group]] — Owns the Better Angels Society, of which Moltry was a board member
-- [[SOCOM]] — Theorized to be a combatant command that uses SAF/AH sensitive activities for UFO crash retrievals on foreign soil
-- [[NGA]] — Theorized as a combat support agency providing ISR for UFO crash retrieval operations
-- [[Air Combat Command]] — Theorized to coordinate with SAF/AH to harness asymmetrical warfare advantages using derivative UFO technologies
-- [[SAFAH (Sensitive Activities)]] — Alleged to coordinate with NPMS and USD I&S for NSC crash retrieval and reverse engineering programs; governed by classified USD I&S directives
-- [[NPMS (National Programs Management Staff)]] — Alleged to be an integral role within USD I&S overseeing UFO legacy programs
-- [[AATIP (Advanced Aerospace Threat Identification Program)]] — Described as a fake cover program that Melon and Alzando were involved with
-- [[Senate Select Committee on Intelligence]] — Body where Melon and Mary Sturivant allegedly served as colleagues
-- [[CIA]] — Mary Sturivant described as a career CIA officer
-- [[Defense Intelligence Senior Executive Service]] — Russell E. Wiler is identified as a member of this body
-- [[Office of the Administrative Assistant to the Secretary of the Air Force]] — Russell E. Wiler served as director of the Sensitive Activities Office within this office
-- [[Office of Competitive Activities]] — Russell E. Wiler moved to serve as director of plans and effects here starting in 2024
-- [[Department of the Air Force]] — Overarching organization discussed in relation to UAP program oversight structures
-- [[Office of the Director of Test and Evaluation (AFTTE)]] — Senior test executive for Air Force and Space Force; argued to oversee reverse engineering of nonhuman technologies
-- [[412th Test Wing]] — Air Force MRTFB at Edwards Air Force Base; alleged to house derivative technologies/ARV program
-- [[388th Range Squadron]] — Operates radars and stations around Dugway Proving Ground including near alleged underground base at Granite Peak
-- [[West Desert Test Center (WDTC)]] — Army MRTFB sharing Dugway Proving Ground with the Utah Test and Training Range
-- [[Sandia National Laboratories]] — Discussed in relation to Nevada Test and Training Range and UAP legacy programs
-- [[Department of Energy]] — Manages the Tonopah Test Range, a premier classified weapons testing facility connected to UAP lore
-- [[Aphotech (AFOTEC - Air Force Operational Test and Evaluation Center)]] — Independent operational test and evaluation organization theorized to support operations involving technologies of unknown origin at major Air Force test ranges
-- [[SAFAQ]] — Top-level Air Force acquisition office theorized to oversee UFO legacy programs through subordinate directorates
-- [[SAFAQL (Air Force Special Programs)]] — Directorate under SAF/AQ managing the deepest special access programs
-- [[Rapid Capabilities Office (RCO)]] — Theorized as the execution arm for legacy program acquisition, operating efficiently and securely with near-limitless fund access
-- [[SAFAAH (Sensitive Activities)]] — Office within Administrative Assistant to the Secretary of the Air Force involved in sensitive program oversight
-- [[SAFAAZ (SecuritySpecial Programs OversightInfo Protection)]] — Office theorized to play a gatekeeper role in Air Force UFO legacy program security
-- [[Air Force Office of Special Investigations]] — Federal law enforcement agency within the Air Force handling counterintelligence and criminal investigations, theorized to engage with the UFO legacy portfolio
-- [[Special Access Program Central Office (SAPCO)]] — Manages special access programs; its former director Don Dunlop also served at Edwards 412 Test Wing
-- [[Air Combat Command]] — Stationed at Langley Air Force Base; hypothesized to be testing alien reproduction vehicles or man-made triangular airframes with cloaking systems
-- [[Air Mobility Command]] — Provides global air mobility via airlift and aerial refueling; suspected of transporting recovered or downed UFOs via C-130s or C-5 Galaxies
-- [[Air Force Special Operations Command]] — Provides Air Force special forces units to SOCOM; linked to UAP crash retrieval operations through JSOC
-- [[Air Force Material Command]] — The Air Force's largest command responsible for the full lifecycle of Air Force systems; considered the most critical target in UAP legacy program research
-- [[JSOC (Joint Special Operations Command)]] — Repeatedly labeled as the direct action and boots-on-ground military force for UFO crash retrieval operations
-- [[SOCOM]] — Parent command to JSOC; Air Force Special Operations Command provides units to this organization
-- [[160th Special Operations Aviation Regiment]] — Known as the Nightstalkers; believed to engage with UFO crash retrievals, especially for troop and craft transport in CH-47/MH-47 helicopters
-- [[24th Special Tactics Squadron]] — Air Force component of JSOC; an anonymous whistleblower claimed a 24th STS veteran's troop chief operated within UFO retrieval teams and recovered an egg-shaped craft
-- [[Army Intelligence Support Activity]] — Also known as ISA; a Tier 1 unit within JSOC
-- [[Army Ranger Regimental Reconnaissance Company]] — Also known as RRC; a Tier 1 unit within JSOC
-- [[Delta Force]] — US Army Tier 1 unit; part of JSOC which is linked to UAP crash retrieval operations
-- [[Navy SEAL Team 6]] — Also known as Devgroup; a Tier 1 unit within JSOC linked to UAP crash retrieval operations
-- [[Air Force Research Laboratory]] — Handles discovery and development under AFMC, headquartered at Wright Patterson Air Force Base, Ohio
-- [[Air Force Test Center]] — Conducts developmental and follow-on testing and evaluation of manned and unmanned aircraft; formerly known as the Air Force Flight Test Center, based at Edwards AFB
-- [[Air Force Life Cycle Management Center]] — Handles life cycle management under AFMC, based at Wright Patterson Air Force Base
-- [[Air Force Sustainment Center]] — Handles sustainment and logistics under AFMC, based at Tinker Air Force Base, Oklahoma
-- [[Air Force Installation and Mission Support Center]] — Handles installation and mission support under AFMC, based at Joint Base San Antonio, Texas
-- [[Air Force Weapons Center]] — Handles nuclear systems management under AFMC, based at Kirtland Air Force Base, New Mexico
-- [[Edwards 412th Test Wing]] — Plans, conducts, analyzes, and reports on all flight and ground testing of aircraft and weapon systems at Edwards AFB; alleged site of reverse engineering programs involving nonhuman craft
-- [[Air Force Test Pilot School]] — Trains the Air Force's top pilots, navigators, and engineers in flight testing; pilots of alleged reverse-engineered vehicles reportedly trained here
-- [[Air Force Special Weapons Center (AFSWC)]] — Historical organization within which Eric Henry Wang operated; its Office of Primary Responsibility transferred to the Air Force Research Lab when dissolved in 1976
-- [[Air Research and Development Command (ARDC)]] — Major command to which AFSWC was transferred as a subordinate
-- [[Air Force Systems Command (AFSC)]] — Successor command that absorbed ARDC functions and later merged with Air Force Logistics Command in 1992 to form Air Force Material Command
-- [[Air Force Logistics Command]] — Merged with Air Force Systems Command in 1992 to form Air Force Material Command
-- [[Air Force Research Laboratory]] — Received the Office of Primary Responsibility from AFSWC in 1976; has major presence at Edwards, Kirtland, and Wright Patterson Air Force Bases
-- [[SAF AQ]] — Secretary of the Air Force Acquisition office; identified as a key compartment in the UAP legacy program structure
-- [[RCO]] — Rapid Capabilities Office; identified as part of the Air Force's involvement in UAP legacy programs
-- [[AFOSIPJ]] — Air Force Office of Special Investigations element described as legally obliged to neutralize insider and outsider threats to classified programs
-- [[FBI]] — Referenced as having elements working within the AFOSIPJ cadre relevant to UAP programs
-- [[NRO (National Reconnaissance Office)]] — Subject of previous legacy program analysis by the speaker
-- [[US Navy]] — Subject of previous legacy program analysis by the speaker
-- [[Northrop Grumman]] — Subject of previous legacy program analysis by the speaker
-- [[Air Force]] — Primary subject of the speaker's current thesis on legacy program structure
+The presenter argues that if programs focused on the recovery, storage, exploitation, and derivation of non-human technologies exist within the Air Force, [[SAFAQ]] (Office of the Assistant Secretary of the Air Force for Acquisition, Technology and Logistics) would be one of the primary offices of responsibility. Three directorates beneath it are identified as likely involved: [[SAFAQL (Special Programs)]], which manages the deepest classified SAP advanced technology development programs; [[SAFAQR (Science, Technology and Engineering)]], which serves as Air Force Science and Technology Executive and coordinates with AQL on RDT&E SAPs; and [[SAFAQX (Acquisition Integration)]], alleged to provide administrative support to clandestine RDT&E SAPs.
 
-## Concepts
-- [[FOIA Bypass via Contractors]] — UAP programs are structured through private contractors rather than government agencies to avoid Freedom of Information Act disclosure requirements.
-- [[Parallel Stripped Oversight Channels]] — Legacy UAP programs are believed to operate not without oversight but through parallel, compartmentalized oversight channels that minimize read-in personnel.
-- [[FFRDC (Federally Funded Research and Development Centers)]] — Government-owned, contractor-operated institutions hypothesized to serve as subject matter experts and R&D assets within UAP legacy program structures.
-- [[Legacy Program Pyramid Structure]] — A hierarchical model proposed by the speaker to describe the layered structure of UAP legacy programs from government to contractors to FFRDCs.
-- [[SAP (Special Access Program)]] — Highly classified government programs with restricted access, cited as a key security mechanism in UAP legacy program structure.
-- [[USAP (Unacknowledged Special Access Program)]] — A subset of SAPs whose existence is not officially acknowledged, referenced in the context of UAP program secrecy.
-- [[Carve-out Contracts]] — Contracting mechanisms that bypass standard oversight channels to enable clandestine program operations.
-- [[UAP Crash Retrieval and Reverse Engineering]] — Claims that the US Air Force and other entities have retrieved and reverse-engineered non-human craft, a central topic of investigation.
-- [[TO Programs (Technology OffspringPrograms)]] — Referenced as programs within legacy UAP structure that SAP security specialists and corporate directors have prior knowledge of.
-- [[Defense Industrial Base]] — The network of defense contractors whose authoritative channels are allegedly bypassed to support clandestine UAP mission directives.
-- [[Special Access Programs (SAPs)]] — Highly classified government programs with restricted access; congressional oversight governed by 10 US Code Section 119, with provisions for the Secretary of Defense to waive reporting requirements.
-- [[WaivedBigoted Unacknowledged SAPs]] — A category of SAP where even the program's existence is concealed; the Gang of Eight must at minimum be notified when such programs are created.
-- [[Gang of Eight Notification]] — Legal requirement under public law that the top congressional leaders be informed when a waived or bigoted unacknowledged SAP is created.
-- [[UFO Legacy Program Pyramid]] — A conceptual framework developed by the speaker to map the organizational hierarchy responsible for UAP-related legacy programs within the US government.
-- [[Air Force Legacy Programs]] — Classified or unacknowledged Air Force programs potentially related to UAP recovery, storage, exploitation, and derivation of non-human technologies.
-- [[Unsanctioned Advanced Technology Programs]] — Programs in the advanced technology space believed to operate above or outside of congressional oversight.
-- [[Office of Primary Responsibility (OPR)]] — The designated organizational office responsible for managing a specific program or area; SAF/AQ identified as a likely OPR for non-human technology programs.
-- [[Non-Human Technologies]] — Technologies believed to be of non-human origin; the speaker speculates SAF/AQ would oversee programs related to their recovery, storage, exploitation, and derivation.
-- [[Title 10 US Code Section 119]] — Federal law governing congressional oversight of Special Access Programs within the Department of Defense.
-- [[Technology Executive Officer (TEO)]] — A role within the Air Force where AFRL's commander is appointed by SAF/AQ for select programs, linking acquisition and research functions.
-- [[UFO Legacy Programs]] — Classified government or contractor programs allegedly involving recovered or studied unidentified aerial phenomena; multiple defense contractors are accused of participating.
-- [[RDT&E (Research, Development, Test and Evaluation)]] — Government process for developing and testing new technologies; used by SAF/AQL and SAF/AQR for advanced air, space, and cyber capabilities.
-- [[Technology Transfer Vessels]] — Mechanisms used to transfer or potentially conceal funding and materials related to advanced programs; suspected of being used to hide UFO-related budgets.
-- [[Compartments within Compartments]] — Analytical framework describing nested layers of classified programs and organizational structures within government and defense sectors.
-- [[Electromagnetic Pulse (EMP) Weapons]] — Weapons allegedly designed by LTV Aerospace to shoot down UFOs, as referenced in NRO-related research.
-- [[Revolving Door]] — Pattern of personnel moving between defense contractors and senior government acquisition positions, potentially enabling continuity of classified programs.
-- [[Technology Executive Officers (TUOs)]] — Officials from AFRL who interface with SAF/AQR on all Air Force Science and Technology programs.
-- [[Unacknowledged Special Access Programs (USAPs)]] — A subset of SAPs whose existence is not officially acknowledged. Referenced as part of the most clandestine science and technology projects in the Air Force.
-- [[Technologies of Unknown Origin]] — A term used to describe recovered non-human or unidentified technology. Suspected to be the focus of deep RDT&E SAPs managed by SAF/AQR and SAF/AQL.
-- [[Stripped Oversight Channels]] — Refers to oversight mechanisms for UFO legacy programs that minimize congressional and executive scrutiny while maintaining internal program control.
-- [[Continuous Process Improvement]] — A function of SAF/AQX involving near-term and long-term strategic and tactical changes to Air Force acquisition processes.
-- [[Gray Area Acquisition]] — The concept that the RCO can package SAF/AQ involvement in legacy programs in a way that operates outside standard congressional and Air Force oversight frameworks.
-- [[Program Executive Officer (PEO)]] — A senior acquisition official responsible for overseeing the development and fielding of specific defense programs.
-- [[Senior Executive Service (SES)]] — A corps of senior civilian leaders in the U.S. federal government. Randall G. Walden is identified as a member in his role at the RCO.
-- [[Reverse Engineering of Nonhuman Vehicles]] — Theorized classified Air Force program involving RDT&E of non-human origin craft; estimated to cost hundreds of billions to low trillions of dollars.
-- [[Sensitive Activities]] — A classified category of DoD operations defined under DoD directive S-5210.36; managed by SAF/AHA as the Air Force OPR.
-- [[Dual-Hatted Role]] — A single individual simultaneously holding two distinct official positions; USD/INS director also serves as Director of Defense Intelligence under ODNI.
-- [[UAP Legacy Programs]] — Theorized long-running classified government programs related to unidentified aerial phenomena, potentially costing trillions of dollars.
-- [[Whistleblower Honeypot]] — Theory that AARO was deliberately designed to identify and neutralize UAP whistleblowers rather than genuinely investigate UAP.
-- [[Electro-optic Cloaking System]] — A described visual phenomenon on a triangular craft that appeared like flowing lava on the exterior, theorized to be an active camouflage technology.
-- [[Crash Retrieval Programs]] — Alleged classified programs for recovering downed UAP craft, potentially conducted on foreign soil using special operations forces.
-- [[Reverse Engineering]] — Alleged classified programs to analyze and adapt recovered UAP technology for US military applications.
-- [[Derivative Technologies]] — Technologies adapted for US airframes that are theorized to be derived from reverse-engineered UAP systems.
-- [[FFRDC (Federally Funded Research and Development Center)]] — Government-sponsored research entities; Oak Ridge National Lab is one such center, alleged to be involved in UAP science and technology analysis.
-- [[SAFAQL (Special Programs)]] — A classified DoD special programs designation mentioned in the context of sensitive activities and UAP program oversight.
-- [[Asymmetrical Warfare]] — Military strategy leveraging unconventional advantages; theorized that derivative UAP technologies could be deployed for this purpose.
-- [[Active Camouflage]] — A hypothetical technology that could explain how a triangular craft appeared to manifest around a light source, as speculated by the witness.
-- [[UAP Crash Retrieval Portfolio]] — A classified collection of programs and materials related to recovered unidentified aerial phenomena, allegedly managed under a strict security and management structure.
-- [[Gatekeeper (Air Force UAP)]] — An alleged senior Air Force official responsible for controlling access to and information about the UAP crash retrieval portfolio.
-- [[Sensitive Activities Office (SAFAA)]] — An office within the Air Force headquarters allegedly connected to UAP oversight, where Russell E. Wiler served as director from 2009 to 2024.
-- [[OzonePetrichor Smell After UAP Encounter]] — A witness reported smelling a strong thunderstorm-like odor and feeling static electricity immediately after a triangular UAP departed, consistent with other reported UAP encounters.
-- [[Triangular UAP]] — An equilateral triangular craft reported by the witness, one to two stories thick, with four lights and a gold plasma-like fluid on its surface.
-- [[Limited Transparency]] — A strategy allegedly pursued by Melon, Alzando, and their faction to release only partial information about UAP programs.
-- [[Major Range and Test Facility Bases (MRTFBs)]] — 23 DoD-designated critical testing installations across the US; argued to be central to UAP legacy program operations.
-- [[Derivative Technologies  Alien Reproduction Vehicle (ARV) Program]] — Alleged program involving reverse engineering or replication of nonhuman craft, said to operate across Air Force MRTFBs including Edwards and NTR.
-- [[Reverse Engineering of Nonhuman Technologies]] — Hypothesis that AFTTE's test and evaluation mandate includes programs to reverse engineer recovered nonhuman craft or materials.
-- [[Program Protection Strategies]] — Security measures implied by certain personnel designations (e.g., SCS2 label) to safeguard sensitive programs.
-- [[SCS2 Label]] — A former designation associated with a named individual, argued to satisfy conditions for involvement in a sensitive UAP-related gatekeeper role.
-- [[Deep Underground Military Base (DUMB)]] — Alleged underground facility at Dugway's Granite Peak, associated with UAP program activities and surrounded by 388th Range Squadron infrastructure.
-- [[Technologies of Unknown Origin (TUOTN)]] — Non-human or unidentified technologies theorized to be retrieved, stored, exploited, and tested within Air Force legacy programs.
-- [[Reverse Engineered Airframes]] — Aircraft or craft theorized to be derived from non-human technology and tested at major Air Force test ranges.
-- [[Waived Unacknowledged Special Access Programs (USAPs)]] — Highly classified programs exempt from congressional oversight, theorized to house UFO legacy operations.
-- [[Foreign Material Program (FMP)]] — Air Force program managing foreign materials; theorized to potentially include materials of non-human origin.
-- [[Federally Funded Research and Development Centers (FFRDCs)]] — Government-sponsored independent research organizations; noted to lack true independence when dealing with waived unacknowledged special access programs.
-- [[Bigoted Programs]] — Highly restricted programs where access is strictly limited to specific individuals, used to maintain compartmentalization of legacy operations.
-- [[Bigot List]] — A highly restricted access list controlling who is read into classified programs such as Technology of Unknown Origins (TUO) programs.
-- [[Technology of Unknown Origins (TUO)]] — A classification term used for programs related to recovered or studied UAP technology of non-human or unidentified origin.
-- [[Alien Reproduction Vehicle (ARV)]] — A hypothesized man-made craft built using reverse-engineered extraterrestrial technology; suspected to have been observed at Langley AFB.
-- [[UFO Crash Retrieval Operations]] — Clandestine military operations allegedly conducted by Tier 1 units to recover crashed, downed, or found unidentified aerial phenomena worldwide.
-- [[Legacy Programs]] — Long-standing highly classified government or military programs suspected of involvement with recovered UAP technology or materials.
-- [[Matchcom]] — Term used in context suggesting major Air Force commands potentially involved in legacy UAP-related programs.
-- [[Tier 1 Units]] — The most elite and highly classified special forces units in the US military, including Delta Force and SEAL Team 6, believed to be involved in UAP retrieval.
-- [[Hypersonics]] — Advanced aerospace technology capable of traveling at hypersonic speeds; developed and tested under AFMC.
-- [[Alien Reproduction Vehicle (ARV)]] — Term used by witness Ed to describe craft allegedly reverse engineered from nonhuman technology and tested at Edwards AFB under a T&E program.
-- [[Reverse Engineering of Nonhuman Aircraft]] — The claimed process by which UFO legacy programs within the Air Force adapt recovered nonhuman aerospace vehicles for human use, allegedly conducted under AFMC.
-- [[RDT&E]] — Research, Development, Test, and Evaluation; a core mission area of AFMC and a key term in the investigation into UAP-related programs.
-- [[Major Range and Test Facility Base (MRTFB)]] — Facilities like the Edwards 412th used for comprehensive flight and ground testing; alleged to be utilized in UFO legacy reverse engineering programs.
-- [[Hidden Wing Thesis]] — The presenter's hypothesis that a secret or undisclosed military wing exists operating within the test and evaluation program at the Western Ranges.
-- [[Compartmentalization]] — The use of classified compartments within Air Force directorates to restrict knowledge of special programs, cited as a key mechanism for maintaining secrecy around UAP programs.
-- [[DoDIC Admin Layer]] — The second layer of the presenter's UFO legacy program pyramid, representing Department of Defense and Intelligence Community administrative entities like the US Air Force.
-- [[Major Commands (MAGCOMs)]] — The ten major commands of the US Air Force, of which Air Force Material Command is identified as most relevant to UAP legacy program research.
-- [[MRTFBs]] — Major Range and Test Facility Bases; referenced as part of the Air Force's test and evaluation infrastructure connected to UAP programs.
-- [[Western Ranges]] — US military testing ranges on the western United States where the presenter's hidden wing thesis is centered.
-- [[Blue Book]] — Likely referring to Project Blue Book, the U.S. Air Force's official UFO investigation program; mentioned as a topic the speaker chose not to focus on.
-- [[National Security Risk]] — The threshold by which information may be withheld or suppressed from UAP-related programs if deemed a severe enough threat.
+The [[Rapid Capabilities Office (RCO)]] is identified as the likely execution arm for legacy program acquisition. The RCO operates with a short and narrow chain of command, reports to a board chaired by the [[Under Secretary of Defense for Acquisition and Sustainment (USD A&S)]], and can accelerate the development, acquisition, and fielding of critical capabilities in ways that bypass standard congressional and Air Force oversight — making it, according to the presenter, a vehicle for engaging with UFO legacy programs while minimizing read-in personnel.
 
-## Events & Dates
-- [[Age of Disclosure Documentary Release]] — Documentary in which Luisa Lzando and Eric Davis outlined a legacy program structure the speaker considers an oversimplification and falsity.
-- [[NRO UAP Legacy Program Investigation]] — The speaker conducted a prior investigation into the National Reconnaissance Office's involvement in UAP legacy programs before turning focus to the US Air Force.
-- [[Congressional Oversight Waiver of SAPs]] — The Secretary of Defense has legal authority to waive congressional reporting on certain Special Access Programs, with only the Gang of Eight required to be notified.
-- [[Susie Payton tenure as SECAF ATNL]] — Payton served as Assistant Secretary of the Air Force for Acquisition, Technology and Logistics under George W. Bush
-- [[Susie Payton at Martin MariettaLockheed Martin]] — Payton worked as senior site systems integration manager and later manager of advanced technology at Lockheed Martin
-- [[Northrop Grumman acquisition of BDM]] — Northrop Grumman purchased BDM (Bradock Dunn and Macdonald), a contractor where Delaney worked
-- [[NRO and USD A&S Relationship Investigation]] — A prior video by the narrator exploring connections between UFO legacy program gatekeepers and the NRO and USD A&S (formerly USDT), referenced as context for why the RCO's reporting chain is significant.
-- [[Shipton's tenure as Military Deputy SAFAQ]] — LTG Shipton served as military deputy in the office of the assistant secretary of the air force for ATNL, overseeing programs worth over $60 billion annually.
-- [[Establishment of DoD Directive S-5210.36]] — Classified DoD directive titled 'Provision of DoD Sensitive Support to DoD Components and Other Departments and Agencies of the US Government' was established.
-- [[SAFAHA Mission Directive Publication]] — A 2014 HAF mission directive with SAF/AHA as OPR described the office's role in addressing sensitive activities and operational concepts.
-- [[Creation of AARO]] — USD I&S Ronald Moltry announced the creation of AARO and installed Sean Kirkpatrick as its director.
-- [[Dylan Borland Triangular Craft Sighting]] — Whistleblower Dylan Borland witnessed a large triangular craft with unusual flight characteristics and apparent electro-optic cloaking over Langley Air Force Base while stationed there.
-- [[Sean Kirkpatrick Joins Oak Ridge FFRDC]] — Following his work with AARO, Kirkpatrick allegedly joined Oak Ridge National Lab FFRDC as CTO for defense and intelligence programs; the job posting was later deleted.
-- [[Christopher Melon Twitter Release of Signal Screenshots]] — Melon released partially redacted screenshots of a Signal exchange with an unknown individual discussing UFO crash retrieval programs.
-- [[Kingman, Arizona UAP CrashLanding]] — An alleged UAP landing or crash in Kingman, Arizona, described as a real instance of a recovered nonhuman intelligence craft that the unknown individual claimed their group was working on.
-- [[Secret Air Force Memo on UAP Cover]] — A still-classified memo allegedly written by a Secretary of the Air Force in the 1950s that remains in effect to maintain secrecy around UAPs.
-- [[Witness Triangle UAP Sighting]] — A witness on night shift at a military flight line observed a triangular UAP that stopped 100 feet in front of and above them, causing their phone to overheat and freeze before the craft shot upward silently.
-- [[Signal Exchange Between Unknown Individual and Melon]] — An unknown individual communicated with Melon about making massive progress accessing the UFO crash retrieval portfolio and deciphering its management and security structure.
-- [[Russell E. Wiler Retirement from Army]] — Wiler retired after a 36-year Army career and transitioned to civilian roles within the Air Force.
-- [[Witness MS Encounter at Dugway Proving Ground]] — Contractor MS claimed to discover a seamless, flawless disc-shaped craft in a hangar at Dugway's Avery area, partially dismantled
-- [[NRO UFO Crash Retrieval Operations at NTR]] — A source claimed to operate within an NRO-led UFO crash retrieval team based out of the Nevada Test and Training Range
-- [[Christopher Mellon Signal Exchange]] — A communication exchange referencing an Air Force gatekeeper, possibly Russell Wiler or William McClure, related to UFO legacy program oversight.
-- [[Triangular Airframe Observation at Langley]] — Dylan Borland witnessed a triangular airframe with black metallic paint and apparent electro-optic cloaking over a NASA hangar at Langley Air Force Base
-- [[Egg-Shaped Craft Recovery]] — An anonymous 24th STS veteran whistleblower claimed his troop chief participated in a UFO retrieval team that recovered a bizarre egg-shaped craft
-- [[Creation of the Parachute, Computer Mouse, and GPS]] — Cited as examples of AFMC turning imagination into reality, illustrating its historical role in technological innovation.
-- [[AFMC FY2025 Budget Allocation]] — AFMC commanded a budget portfolio of $82.9 billion in fiscal year 2025, divided across operations, maintenance, contracting, and other categories.
-- [[Merger of AFSC and Air Force Logistics Command]] — Air Force Systems Command and Air Force Logistics Command merged to form Air Force Material Command.
-- [[Dissolution of AFSWC as AFSC subordinate]] — The Air Force Special Weapons Center was dissolved, and its Office of Primary Responsibility transferred to the Air Force Research Lab.
-- [[Roswell Incident]] — Referenced in connection with the former Air Material Command and its deep roots in UFO legacy program history.
+[[Air Force Materiel Command (AFMC)]] is identified as the single most critical investigative target within the Air Force, commanding a budget portfolio of $82.9 billion in FY2025. Under AFMC, the [[Edwards 412th Test Wing]] at [[Edwards Air Force Base]] is alleged to house derivative technology and [[Alien Reproduction Vehicle (ARV)|ARV]] programs. The [[Office of the Director of Test and Evaluation (AFTTE)]] is argued to oversee reverse engineering of nonhuman technologies as part of its test and evaluation mandate across the 23 [[Major Range and Test Facility Bases (MRTFBs)]].
 
-## Operations
-- [[UFO Crash Retrieval Operations (Theoretical)]] — Theorized sensitive activities conducted by SOCOM on foreign soil with ISR support from NGA, coordinated through SAF/AH under classified USD I&S directives.
-- [[AATIP (Advanced Aerospace Threat Identification Program)]] — Described as a fake cover program allegedly used by Melon and Alzando to obscure real UAP-related intelligence activities.
-- [[UFO Legacy Program Operations]] — Alleged long-running programs involving UAP retrieval, reverse engineering, and testing, argued to be housed within MRTFB installations
-- [[UFO Crash Retrieval Operations (JSOC)]] — Alleged clandestine direct action missions conducted by JSOC Tier 1 units to retrieve crashed or downed UFOs worldwide, with the 160th SOAR's first battalion suspected of providing helicopter transport
-- [[T&E Program on Alien Reproduction Vehicles]] — Alleged test and evaluation program at Edwards 412th Test Wing in which witness Ed claimed to have served, focused on manned and unmanned reverse-engineered nonhuman craft.
+Historically, the presenter traces a line of organizational inheritance through the [[Air Force Special Weapons Center (AFSWC)]], which was dissolved in 1976 with its Office of Primary Responsibility transferred to the [[Air Force Research Laboratory]], to present-day AFRL — cited as a key node in the alleged legacy structure.
 
-## Locations
-- [[Pentagon]] — Location where Ed and others worked in Air Force acquisition; central to SAF/AQ activities
-- [[Langley Air Force Base]] — Location where Dylan Borland witnessed a triangular craft; headquarters of Air Combat Command (ACC).
-- [[Oak Ridge National Laboratory]] — Site of alleged recovered UFO systems analysis; managed by Battelle Memorial Institute; Sean Kirkpatrick allegedly joined as CTO.
-- [[Kingman, Arizona]] — Site of an alleged 1953 UAP landing or crash retrieval, described as one of the most credible crash retrieval cases.
-- [[Arlington, Virginia]] — Location of the Air Force headquarters where Russell E. Wiler served as director of the Sensitive Activities Office.
-- [[Military Flight Line (unnamed base)]] — Location where the witness observed and was approached by a triangular UAP during a night shift.
-- [[Dugway Proving Ground]] — Army/Air Force test facility in Utah; site of alleged disc craft encounter by witness MS and alleged deep underground base at Granite Peak
-- [[Edwards Air Force Base]] — California MRTFB home of the 412th Test Wing; alleged hub of derivative technologies/ARV program
-- [[Nevada Test and Training Range (NTR)]] — Air Force MRTFB near Nellis AFB; alleged site of NRO crash retrieval team operations and connected to ARV program
-- [[Hill Air Force Base]] — Utah; primary airfield under the Utah Test and Training Range (UTTR), home of the 388th Range Squadron
-- [[Utah Test and Training Range (UTTR)]] — Air Force MRTFB encompassing over 5 million acres, shares Dugway Proving Ground with Army WDTC
-- [[Area 51]] — Classified installation within the NTR; allegedly occupied by the Edwards 412th Test Wing
-- [[Tonopah Test Range]] — DOE premier classified weapons testing range within the NTR, connected to UAP legacy program lore
-- [[Nevada National Security Site (formerly Nevada Test Site)]] — Housed within the NTR; discussed in relation to UAP program infrastructure
-- [[Granite Peak, Dugway]] — Alleged location of a deep underground military base associated with UAP program activities
-- [[Kirtland Air Force Base, New Mexico]] — Home of Aphotech and Sandia National Labs; considered a key node in the UFO legacy program infrastructure.
-- [[Eglin Air Force Base]] — Location of one of Aphotech's four major detachments outside Sandia.
-- [[Hill Air Force Base, Utah (UTR)]] — Location of one of Aphotech's major detachments; part of the Utah Test Range complex.
-- [[Nellis Air Force Base (NTR)]] — Location of an Aphotech detachment within the Nevada Test Range; associated with advanced and legacy program testing.
-- [[Nevada Test Range (NTR)]] — Major Air Force test range associated with Aphotech operations and theorized legacy program activities.
-- [[Utah Test Range (UTR)]] — Major Air Force test range associated with Aphotech operations and theorized legacy program activities.
-- [[Wright Patterson Air Force Base]] — Headquarters of AFMC and the Air Force Research Laboratory; previously alleged in the narrator's other videos to house recovered biologics and recovered technical vehicles.
-- [[Tinker Air Force Base]] — Home of the Air Force Sustainment Center under AFMC, located in Oklahoma.
-- [[Joint Base San Antonio]] — Home of the Air Force Installation and Mission Support Center under AFMC, located in Texas.
-- [[Kirtland Air Force Base]] — Home of the Air Force Weapons Center handling nuclear systems management under AFMC, located in New Mexico.
-- [[Roswell]] — Referenced in connection with the former Air Material Command and its historical ties to UFO legacy program discussions.
+## Air Force Organizational Structure
+
+The presenter maps a layered bureaucratic structure alleged to govern UAP legacy programs:
+
+- **Top tier**: The [[National Security Council (NSC)]] and [[Office of the Under Secretary of Defense for Intelligence and Security (USDINS)]] (USD I&S). The [[National Program Special Management Staff (NPMS)]] director is theorized as one of the most highly cleared individuals in the DoD, coordinating NSC SAPs with the DoD and intelligence community.
+- **Air Force acquisition tier**: [[SAFAQ]] oversees programs worth over $60 billion annually. [[Randall G. Walden]], as RCO Director and PEO, is identified as a key figure. A former Military Deputy of SAF/AQ (August 2022 to December 2023) oversaw $60+ billion in R&D, test, production, and modernization programs.
+- **Sensitive activities**: [[SAFAHA]] (SAF/AH Sensitive Activities) serves as the Air Force's single enterprise OPR for sensitive activities under classified DoD directive S-5210.36. [[SAFAAZ]] handles security and special programs oversight. Both offices fall under the Administrative Assistant to the Secretary of the Air Force.
+- **Enforcement layer**: [[AARO]] is alleged to have been established as a whistleblower honeypot under USD I&S oversight. The [[Air Force Office of Special Investigations]] and related elements are legally obliged to neutralize insider and outsider threats to classified programs.
+
+Eight of fourteen former SECAF ATNL officials examined by the presenter had corporate histories featuring contractors accused of UAP legacy program involvement, including [[Lockheed Martin]], [[Northrop Grumman]], TRW, [[LTV Aerospace]], and [[General Dynamics]]. [[Susie Payton]], who served as SECAF ATNL under George W. Bush, previously worked at Martin Marietta and Lockheed Martin in advanced technology roles.
+
+## Key Figures
+
+- **[[Randall G. Walden]]**: RCO Director and Program Executive Officer, member of the Senior Executive Service. The presenter calls on the current presidential administration to question Walden directly about UFO legacy program operations.
+- **[[Russell E. Wiler]]**: Alleged Air Force gatekeeper for the UAP crash retrieval portfolio. Served as Director of the Sensitive Activities Office (SAF/AA) from 2009 to 2024, then moved to Director of Plans and Effects at the [[Office of Competitive Activities]]. Member of the Defense Intelligence Senior Executive Service.
+- **[[Ronald S. Moltry]]**: Former USD I&S who allegedly helped establish [[AARO]] on July 20, 2022, and installed [[Sean Kirkpatrick]] as its director. Accused of deleting references to [[Battelle Memorial Institute]] and [[Oak Ridge National Laboratory FFRDC]] from his public CV.
+- **[[Sean Kirkpatrick]]**: Former AARO Director. Accused of lying, deception, and active interference against UAP whistleblowers. Allegedly joined Oak Ridge National Lab FFRDC as CTO for defense and intelligence programs following his AARO tenure, with the job posting later removed.
+- **[[Eric H. Wang]]**: Described as a key historical figure in UFO legacy program discussions, with ties to the [[Air Force Research Laboratory]] at Wright Patterson and Kirtland Air Force Bases and involvement in the AFSWC research and development directorate. Connected by prior witnesses to the 1953 Kingman, Arizona crash retrieval.
+- **[[Dylan Borland]]**: Military whistleblower who testified to observing a large triangular craft with apparent electro-optic cloaking over [[Langley Air Force Base]] around 2012.
+- **[[Chris Mellon]]**: Former government official who released partially redacted Signal message screenshots in April 2024 revealing an exchange about progress accessing the UFO crash retrieval portfolio.
+
+## Witness Accounts
+
+**Dylan Borland (Langley AFB, ~2012):** Borland testified to witnessing a large, equilateral triangular craft with black metallic flake paint and a gold, lava-like plasma fluid flowing over its surface while stationed at [[Langley Air Force Base]]. The craft exhibited unusual, silent flight and appeared to employ an electro-optic cloaking system. It was observed hovering over a NASA hangar. Borland reported feeling static electricity and smelling a strong thunderstorm-like odor after the craft departed.
+
+**Witness MS (Dugway Proving Ground):** A contractor identified as MS claimed to have encountered a seamless, flawless disc-shaped craft in a hangar in the Avery area of [[Dugway Proving Ground]], appearing to be in the process of being dismantled. Dugway's Granite Peak is alleged to contain a deep underground military base surrounded by [[388th Range Squadron]] radar and sensor infrastructure.
+
+**Witness "Ed" (Edwards AFB, 412th Test Wing):** A retired Air Force officer identified as "Ed" claimed to have served on an [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicle]] test and evaluation program at the [[Edwards 412th Test Wing]], involving both manned and unmanned reverse-engineered nonhuman craft. Pilots of alleged reverse-engineered vehicles were reportedly trained at the [[Air Force Test Pilot School]].
+
+**Anonymous 24th STS Veteran:** An anonymous whistleblower claimed that a veteran of the [[24th Special Tactics Squadron]] had served as a troop chief who participated in a UFO retrieval team that recovered a bizarre egg-shaped craft.
+
+**NRO Source:** A source claimed to operate within an NRO-led UFO crash retrieval team based out of the [[Nevada Test and Training Range (NTR)]].
+
+## The AARO Controversy
+
+The presenter alleges that [[AARO]] was deliberately designed not as a genuine investigative body but as a whistleblower honeypot — a mechanism to identify and neutralize individuals with knowledge of UAP legacy programs. [[Ronald S. Moltry]], as USD I&S, announced AARO's creation on July 20, 2022, and installed [[Sean Kirkpatrick]] as its first director. Kirkpatrick is accused of lying, deception, and active interference against whistleblowers seeking to expose these programs.
+
+Both Moltry and Kirkpatrick are alleged to have deleted references to the [[Battelle Memorial Institute]] and [[Oak Ridge National Laboratory FFRDC]] from their public professional biographies. Oak Ridge National Laboratory FFRDC, managed by Battelle, is rumored to be involved in recovered UFO systems analysis. Kirkpatrick allegedly subsequently joined Oak Ridge as CTO for defense and intelligence programs — a job posting that was later deleted.
+
+Classified DoD directives governing SAF/AH sensitive activities are alleged to trace back to classified presidential executive orders from the Truman and Eisenhower administrations, suggesting the bureaucratic infrastructure for concealing UAP programs predates AARO by decades.
+
+## The Redacted Signal Exchange
+
+In April 2024, [[Chris Mellon]] released partially redacted screenshots of a Signal messaging exchange with an unknown individual who claimed their group had made massive progress accessing the UAP crash retrieval portfolio and had deciphered its management structure, security control system, and ownership. The unknown individual referenced the 1953 [[Kingman, Arizona]] landing as one of the recovered non-human craft their group was working on, and cited a still-classified memo written by a Secretary of the Air Force in the 1950s as remaining in effect to maintain the cover on UAPs.
+
+A redacted name in the exchange — identified by researcher [[Alex Catz]] through character-count analysis as likely being [[Russell E. Wiler]] (12 characters matching the derived count) — is alleged to represent the senior Air Force official serving as gatekeeper for the UAP crash retrieval portfolio. [[William E. McClure]] was identified as an alternative candidate also satisfying the 12-character condition. Wiler's role as Director of the Sensitive Activities Office (SAF/AA) from 2009 to 2024 is cited as consistent with such a gatekeeper function.
+
+The presenter alleges that [[Chris Mellon]], [[Lou Alzando]], and an associated faction — potentially stemming from the NSC itself — have pursued a strategy of limited transparency, releasing only partial information about UAP programs while protecting certain individuals, possibly including former Senate Select Committee on Intelligence colleague [[Mary Sturivant]], described as a career CIA officer and Lockheed Martin executive.
 
 ## Key Claims
-- Defense contractors like Lockheed Martin and Northrop Grumman are used to shield UAP programs from FOIA requests.
-- Most UFO legacy programs operate through parallel stripped oversight channels rather than without oversight.
-- FFRDCs such as MITRE, Aerospace Corporation, and RAND are hypothesized to be key nodes in the UAP legacy program pyramid structure.
-- Most individuals within defense contractors working on UFO programs do not know what they are actually working on.
-- SAP security specialists and corporate directors for special programs are the ones who actually possess prior knowledge of TO programs.
-- The Age of Disclosure documentary's portrayal of the legacy program as singular and monolithic is a catastrophic oversimplification.
-- The NRO's role in UAP legacy programs was grossly oversimplified and misrepresented in the Age of Disclosure documentary.
-- The speaker believes the legacy program structure outlined in Age of Disclosure was constructed to deflect responsibility rather than accurately represent it.
-- The investigation aims to unmask modern 21st-century US Air Force UAP legacy program structure.
-- The speaker has direct knowledge or reason to believe there are advanced technology programs that are unsanctioned and above congressional oversight.
-- 10 US Code Section 119 allows the Secretary of Defense to waive congressional reporting on Special Access Programs, with the Gang of Eight to be notified at minimum.
-- SAF/AQ oversees Air Force R&D and acquisition activities totaling an annual budget in excess of $60 billion across more than 550 acquisition programs.
-- SAF/AQ appoints the commander of AFRL as a technology executive officer for select programs, creating a close working relationship between the two entities.
-- If programs exist focused on the recovery, storage, exploitation, and derivation of non-human technologies, SAF/AQ would likely be one of the offices of primary responsibility.
-- Dr. Eric H. Wang has significant ties to AFRL that will be detailed later in the speaker's ongoing research project.
-- Analyzing the Air Force organizational pyramid, similar to analyzing the NRO, can reveal where legacy UAP programs are hidden within the chain of command.
-- The speaker was briefed on the preponderance of defense department space and aerospace programs as a result of previous government work.
-- Eight of fourteen former SECAF ATNL officials have corporate histories featuring contractors accused of UFO legacy programs, including Lockheed Martin, SIC, Northrop Grumman, TRW, LTV, E Systems, Aerospace Corporation, and General Dynamics.
-- Delaney worked for BDM, SIC, and other contractors accused of UFO legacy programs before serving as Assistant Secretary of the Air Force for ATNL.
-- SAF/AQL manages classified SAP advanced technology development and monitors new technologies in coordination with SAF/AQR.
-- SAF/AQR and SAF/AQL coordinate on Air Force RDT&E SAPs and together monitor new technologies, suggesting potential joint involvement in UFO-related programs.
-- The USD A&S, identified as an integral administrator to NRO UFO legacy programs, partners with SAF/AQ.
-- LTV Aerospace allegedly designed electromagnetic pulse weapons intended to shoot down UFOs before becoming CIA shell company E Systems.
-- The National Security Council may utilize USD A&S and SAF/AQ partnerships for clandestine UFO-related purposes and use technology transfer vessels to hide related materials and budgets.
-- SAF/AQL, SAF/AQR, and SAF/AQX are directorates within SAF/AQ believed to engage with UFO legacy programs.
-- SAF/AQR and SAF/AQL coordinate on Air Force RDT&E SAPs and together monitor new technologies, suspected to include programs focused on recovery and exploitation of technologies of unknown origin.
-- The Department of the Air Force's Rapid Capabilities Office (RCO) serves as a vehicle allowing Air Force acquisition to engage with UFO legacy programs while bypassing congressional reporting and standard bureaucratic oversight.
-- The RCO operates with a short and narrow chain of command and reports to a board chaired by the Under Secretary of Defense for Acquisition and Sustainment.
-- UFO legacy programs operate not without oversight, but under stripped oversight channels that minimize read-in personnel and maximize compartmentalization.
-- The RCO can allow the Air Force to operate UFO legacy programs outside of congressional oversight, Air Force oversight, and oversight by temporary executive branch employees such as presidents.
-- The RCO's current director and PEO, Randall G. Walden, is someone the narrator encourages the current presidential administration to interrogate regarding UFO legacy program operations.
-- The RCO portfolio includes high-priority programs such as the B-21 Raider and the X-37B orbital test vehicle.
-- SAF/AQ and its subcomponents deal with the most highly secretive and clandestine science and technology projects relegated to SAPs and USAPs in the entire Air Force.
-- LTG Shipton was responsible for Air Force R&D, test, production, and modernization programs worth over $60 billion annually and may be connected to UAP legacy programs.
-- The total Air Force program requirements for RDT&E and reverse engineering of nonhuman vehicles may reach into the hundreds of billions to low trillions of dollars.
-- SAF/AHA serves as the Air Force's single enterprise OPR for sensitive activities as defined under classified DoD directive S-5210.36.
-- The USD/INS director holds a dual-hatted role as Director of Defense Intelligence under the ODNI.
-- The NPMS director is theorized to be one of the most cleared individuals in the entire DoD, surpassing even the SAPCO director.
-- The NPMS director coordinates National Security Council SAPs with the DoD and Intelligence Community and resides within USD/INS.
-- USD/INS is theorized to be one of the most critical lynchpins in NSC-led UAP legacy programs.
-- The director of NPMS is theorized to be one of the most integral 'above board' roles in NSC-led UAP programs.
-- UFO legacy programs out of the National Security Council heavily feature involvement from the USD I&S, with the Director of NPMS playing an integral role.
-- Ronald Moltry helped establish AARO on July 20, 2022, and installed Sean Kirkpatrick as its director.
-- AARO allegedly served as a honeypot to identify and neutralize UAP whistleblowers.
-- Sean Kirkpatrick is accused of lying, deception, and interference against whistleblowers to protect UFO legacy programs.
-- Both Moltry and Kirkpatrick deleted references to Battelle Memorial Institute and Oak Ridge National Lab from their public CVs.
-- Oak Ridge National Laboratory FFRDC, managed by Battelle, is rumored to be involved in recovered UFO systems analysis.
-- Classified DoD directives governing SAF/AH sensitive activities can allegedly be traced back to classified presidential executive orders under Truman and Eisenhower.
-- SAF/AH is theorized to coordinate with SOCOM for UFO crash retrievals on foreign soil, with ISR provided by the NGA.
-- Air Combat Command is theorized to use SAF/AH to coordinate the deployment of derivative UAP technologies for asymmetrical warfare.
-- Whistleblower Dylan Borland testified to observing a triangular craft with electro-optic cloaking that appeared like flowing lava over Langley Air Force Base around 2012.
-- Sean Kirkpatrick categorically denied seeing convincing evidence of intact spacecraft kept by the US government.
-- A witness observed an equilateral triangular UAP approximately 100 feet in front of and above them, which caused their phone to overheat and freeze before silently shooting upward.
-- Christopher Melon released partially redacted Signal screenshots in April 2024 showing an exchange about progress in accessing the UFO crash retrieval portfolio.
-- An unknown individual communicating with Melon claimed their group was working on the recovered UAP from the 1953 Kingman, Arizona landing.
-- A still-classified memo written by a Secretary of the Air Force in the 1950s allegedly remains in effect to maintain the cover on UAPs.
-- Researcher Alex Catz identified Russell E. Wiler as the likely redacted Air Force gatekeeper for the UAP crash retrieval portfolio based on character count analysis.
-- Russell E. Wiler served as director of the Sensitive Activities Office within the Air Force from 2009 to 2024.
-- Melon, Alzando, and their faction, possibly stemming from the NSC itself, have pushed for only limited transparency regarding UAP information.
-- Mary Sturivant, a career CIA officer and Lockheed Martin VP, is alleged to be a former SSCI colleague whom Melon may be protecting.
-- The unknown individual claimed their group had deciphered the management structure, security control system, and ownership of the crash retrieval portfolio.
-- The triangular UAP's surface was described as black metallic flake with a gold, lava-like plasma fluid flowing over and around it.
-- The 12-character name 'Russell Wiler' matches a character count derived by 'Cats' from a redacted signal exchange related to a UAP program.
-- Bill E. Mccclure also satisfies the 12-character condition from the redacted signal exchange, making him a candidate for the redacted individual.
-- AFTTE (Air Force Test and Evaluation) is argued to oversee reverse engineering and derivation of nonhuman technologies as part of its test and evaluation mandate.
-- 23 Major Range and Test Facility Bases (MRTFBs) are argued to be central to UFO legacy program operations.
-- Witness MS, a contractor at Dugway Proving Ground, claims to have encountered a seamless, flawless disc-shaped craft being dismantled in a hangar.
-- A source claimed to operate within an NRO-led UFO crash retrieval team based out of the Nevada Test and Training Range during the 2000s.
-- Retired Air Force officer 'Ed' stated he operated within a derivative technologies/ARV program housed within the Edwards 412th Test Wing MRTFB, operating across Edwards, the NTR, and other western range installations.
-- Area 51 is allegedly occupied by the Edwards 412th Test Wing.
-- UFO legacy programs do not operate without oversight but function within extremely strict, compartmentalized channels reading in only critical directorates.
-- Legacy program acquisition is theorized to be executed through the Rapid Capabilities Office (RCO) with near-limitless access to funds.
-- SAF/AQ, AFT/E, and SAF/AA are recommended search areas for the current administration to locate Air Force UFO legacy programs.
-- Elements of Aphotech likely support test and evaluation operations involving technologies of unknown origin and reverse-engineered airframes at major test facility bases.
-- Russell E. Wiler or William E. McClure may be the SCES2 Air Force gatekeeper referenced in the Christopher Mellon signal exchange.
-- Don Dunlop, former SAPCO director, also served as commander of the Edwards 412 Test Wing, connecting SAP oversight to major test ranges.
-- Air Force Foreign Material Programs may encompass materials of non-human origin.
-- True independence does not exist for federally funded research and development centers when dealing with waived unacknowledged special access programs.
-- Air Mobility Command is suspected of having transported recovered or downed UFOs using C-130 or C-5 Galaxy aircraft.
-- Dylan Borland observed a triangular airframe with black metallic flight paint and an electro-optic cloaking system over a NASA hangar at Langley Air Force Base.
-- The observed triangular craft at Langley may have been an alien reproduction vehicle or man-made craft being tested by Air Combat Command.
-- JSOC has repeatedly been identified as the direct action and boots-on-ground military force for UFO crash retrieval operations.
-- The 160th Special Operations Aviation Regiment's first battalion is believed to engage in UAP crash retrievals, transporting troops and possibly craft in CH-47 or MH-47 helicopters.
-- An anonymous whistleblower who was a 24th STS veteran claimed his troop chief operated within UFO retrieval teams and recovered an egg-shaped craft.
-- Air Force Material Command is considered the most critical command target in understanding UAP legacy programs due to its role managing the full lifecycle of Air Force systems.
-- Select parallel Tier 1 units may exist under their own umbrella authority specifically dedicated to the retrieval of crashed, downed, or found UFOs worldwide.
-- At least four major Air Force commands are suspected of having personnel or assets read into Technology of Unknown Origins legacy programs.
-- Witness Ed, a retired Air Force officer, claims to have personally served on a T&E program at the Edwards 412th Test Wing focused on alien reproduction vehicles and derivative technologies.
-- The pilots of manned reverse-engineered nonhuman craft allegedly tested at Edwards AFB were trained at the Air Force Test Pilot School.
-- The narrator believes with strong conviction that UFO legacy programs within the Air Force utilize the AFTC, TPS, and AFRL under AFMC to reverse engineer and adapt nonhuman aircraft for human use.
-- AFMC commands an $82.9 billion budget portfolio for fiscal year 2025, making it the Air Force's largest MAJCOM by funding.
-- Wright Patterson Air Force Base has been previously alleged by the narrator to house recovered biologics and recovered technical vehicles.
-- Air Force Material Command is the most deeply rooted major command in prior UFO legacy program discussion, tracing back to figures like Eric Henry Wang and the Air Force Special Weapons Center.
-- The Air Force Special Weapons Center's Office of Primary Responsibility transferred to the Air Force Research Lab when AFSWC was dissolved in 1976.
-- Air Force Systems Command and Air Force Logistics Command merged in 1992 to form Air Force Material Command.
-- The US Air Force functions as a DoD/IC administrative layer in the presenter's UFO legacy program pyramid, with layers hidden within layers.
-- AFOSIPJ elements are legally obligated to neutralize insider and outsider threats to classified programs if deemed a severe enough national security risk.
-- The presenter is highly confident in the existence of a hidden wing operating within the test and evaluation program at the Western Ranges.
-- There may have been prior attempts to reveal the hidden wing to the public in recent years.
-- Compartments like AQL, SAF A, and AFOSIPJ help explain how the US government could maintain secrecy around UAP legacy programs.
-- The Air Force Research Lab maintains a major presence at Edwards, Kirtland, and Wright Patterson Air Force Bases.
-- Terry Phillips is identified as a key name viewers should take away from the video in relation to UAP legacy programs.
-- The speaker has developed a framework for the Air Force legacy program structure that they believe is accurate and will age well over time.
-- Information related to UAP programs may be suppressed if deemed a severe enough national security risk.
-- The speaker has previously produced legacy program analyses on the NRO, Navy, Northrup Grumman, and SIC.
-- The speaker's current project took years of research before they had confidence to publish their thesis on Air Force legacy programs.
 
----
-*Source: [YouTube](https://www.youtube.com/watch?v=-IXSZe4xVv4)*
+- The Air Force allegedly operates clandestine UAP legacy programs through a layered organizational structure centered on SAF/AQ, the RCO, and AFMC.
+- UFO legacy programs are alleged to operate not without oversight, but under stripped, compartmentalized oversight channels that minimize congressional visibility.
+- [[Waived Unacknowledged Special Access Programs (USAPs)]] are cited as the likely legal vehicle housing UAP legacy operations, with the Gang of Eight required to be notified at minimum under 10 US Code Section 119.
+- The RCO is alleged to allow the Air Force to operate UFO legacy programs outside of standard congressional, Air Force, and executive branch oversight.
+- Eight of fourteen former SECAF ATNL officials had corporate histories at contractors accused of UAP legacy program involvement.
+- [[AARO]] was allegedly designed as a honeypot to identify and neutralize UAP whistleblowers rather than to genuinely investigate UAP phenomena.
+- [[Russell E. Wiler]] is alleged to be the Air Force gatekeeper for the UAP crash retrieval portfolio.
+- A still-classified Air Force memo from the 1950s allegedly remains in effect concealing UAP information.
+- The total cost of UFO legacy program operations — including RDT&E and reverse engineering — may reach into the hundreds of billions to low trillions of dollars.
+- [[JSOC (Joint Special Operations Command)]] Tier 1 units, including [[Delta Force]] and [[Navy SEAL Team 6]], are alleged to serve as the direct-action force for UAP crash retrievals, with the [[160th Special Operations Aviation Regiment]] providing transportation.
+
+## Sources
+
+- [YouTube](https://www.youtube.com/watch?v=-IXSZe4xVv4) — UAP Gerb
+
+## Related Pages
+
+- [[Hidden Wing]]
+- [[SAFAQ]]
+- [[Rapid Capabilities Office (RCO)]]
+- [[Air Force Materiel Command (AFMC)]]
+- [[AARO]]
+- [[Randall G. Walden]]
+- [[Russell E. Wiler]]
+- [[Sean Kirkpatrick]]
+- [[Ronald S. Moltry]]
+- [[Dylan Borland]]
+- [[Chris Mellon]]
+- [[Eric H. Wang]]
+- [[Waived Unacknowledged Special Access Programs (USAPs)]]
+- [[Alien Reproduction Vehicle (ARV)]]
+- [[Edwards Air Force Base]]
+- [[Langley Air Force Base]]
+- [[Dugway Proving Ground]]

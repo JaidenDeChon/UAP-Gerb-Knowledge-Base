@@ -4,7 +4,10 @@ tags:
   - concept
 ---
 
-Long-standing clandestine government and contractor programs involving retrieval, storage, and exploitation of non-human intelligence and craft. Described as having rigid chains of command and oversight.
+"Legacy Programs" is a term used in UAP research to describe long-running, clandestine government and contractor programs alleged to involve the retrieval, storage, reverse engineering, and exploitation of recovered non-human intelligence craft and related materials. The term "legacy" connotes programs that originated decades ago — potentially as early as the late 1940s following alleged crash retrievals — and have been sustained across successive administrations through compartmentalized funding, personnel continuity, and institutional structures designed to insulate them from standard oversight. These programs are described as having rigid chains of command, strict need-to-know compartmentalization, and self-sustaining bureaucratic mechanisms that allow them to persist independent of political transitions or publicly acknowledged intelligence community reorganizations.
 
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+The alleged legacy program structure involves both government entities and private defense contractors, with the contractor role becoming increasingly dominant over time. [[Northrop Grumman]], [[TRW]], [[Lockheed Martin]], and associated organizations are most frequently cited in alleged connection to legacy program custodianship. Funding is alleged to flow through mechanisms including [[Independent Research and Development (IRAD)]] overcharging, misappropriation of funds from acknowledged programs, back-channeled [[Special Access Programs (SAPs)]], and National Reconnaissance Office carryover appropriations. [[David Grusch]]'s congressional testimony characterized legacy programs as operating entirely outside lawful Congressional oversight, constituting what he described as an illegal unacknowledged special access program structure.
+
+## Sources
+
+- [[Video - Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2]]

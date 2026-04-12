@@ -1,11 +1,12 @@
 ---
 name: "Mary K. Sturivant"
-role: "Lockheed Martin VP of Government Affairs and VP of Intelligence Joint and Science and Technology Programs"
+role: "Alternate spelling — see Mary K. Sturdivant"
 tags:
   - person
 ---
 
-Introduced as possible co-conspirator in blocking UFO material transfer; served 2006–2011
+This is an alternate spelling of the name as it appeared in some source documents. See [[Mary K. Sturdivant]] for the full article.
 
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+## Sources
+
+- [[Video - National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers]]
