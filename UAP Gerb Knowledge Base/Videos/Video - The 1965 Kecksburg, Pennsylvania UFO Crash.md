@@ -1,0 +1,310 @@
+---
+title: "The 1965 Kecksburg, Pennsylvania UFO Crash"
+date: NA
+video_id: rgBTMzFd-hg
+url: https://www.youtube.com/watch?v=rgBTMzFd-hg
+channel: UAP Gerb
+duration_seconds: 0
+tags:
+  - video
+  - uap-gerb
+---
+
+## Summary
+## Summary
+
+This video presents a detailed investigative deep dive into the December 9, 1965 UFO crash incident in Kecksburg, Pennsylvania, drawing on decades of research by UFO investigators Leonard Stringfield and Stan Gordon, as well as testimony from numerous civilian eyewitnesses. Multiple independent witnesses, including volunteer fireman Jim Romansky and civilian Bill "Bully" Bush, described a large metallic acorn- or bell-shaped object with hieroglyphic-like markings embedded in the woods, which was allegedly recovered and transported by military personnel to Lockborne AFB and then Wright-Patterson AFB under a cover-up that included media censorship, witness intimidation, and the confiscation of news tapes. The video disputes the official Project Blue Book conclusion that the object was a meteor, citing NASA's own confirmation that the Soviet spacecraft Cosmos 96 had decayed over Canada approximately 13 hours before the event, NASA Chief Scientist Nicholas Johnson's determination that no man-made object landed in Pennsylvania that evening, and a 2007 legal settlement forcing NASA to release previously withheld documents — files that were ultimately reported lost since 1987. Additional claims include trucker witness "Myron" allegedly observing the bell-shaped craft at Wright-Patterson along with a non-human body exhibiting lizard-like skin and three fingers, and the identification of Dr. Eric Walker as a key figure potentially linking the Kecksburg retrieval to broader covert UAP programs including Majestic 12.
+
+## People
+- [[Leonard Stringfield]] — Documented accounts of a Blue Beret special forces unit involved in UFO crash retrievals and cited multiple witnesses and case studies
+- [[Jeff Morse]] — Told Stringfield between 1985 and 1987 about an incident at Fort Maguire Air Force Base involving a non-human entity shot by US forces
+- [[John Murphy]] — Key investigator and journalist who arrived at the Kecksburg crash site and produced a radio documentary titled 'Object in the Woods' that was later heavily censored
+- [[Carl Mets]] — Arrived at the Kecksburg crash scene and upon returning told Murphy to get information from the Army
+- [[Curtis LeMay]] — Credited with creating the Strategic Air Command Elite Guard in 1956, which wore blue fatigues and blue berets
+- [[Stan Gordon]] — Investigated the Kecksburg incident, received notarized documents claiming USG elements confiscated news tapes, interviewed key witnesses including Jim Romansky
+- [[Jim Romansky]] — First-hand witness to the Kecksburg crash site; described a large metallic acorn-shaped object with hieroglyphic-like markings; first approached Stan Gordon in 1987
+- [[Montel Williams]] — Jim Romansky appeared on the Montel Williams show in 1993 to discuss his Kecksburg testimony
+- [[Bill Bully Bush]] — Independent witness who observed the object descending and walked to the crash site, describing an acorn-shaped metallic object with strange writing
+- [[Bill Bully Bush]] — Sole witness to describe a sulfuric smell at the Kecksburg crash site; observed the object belly-land and described its markings
+- [[Jerry Betters]] — Witnessed a military roadblock and an acorn-shaped object being hauled away on a flatbed truck near Kecksburg in 1965
+- [[David Newhouse]] — Claims to have had a military rifle pointed at him while near the Kecksburg crash site
+- [[Bill Weaver]] — Observed four men in moon suits exit a light-colored box truck heading toward the Kecksburg crash area
+- [[Mike Slater]] — Was told by an Army officer to misdirect curious crash seekers away from the Kecksburg site
+- [[Romansky]] — Described as ordering firemen to leave the Kecksburg crash site
+- [[James Oberg]] — Maintained the Kecksburg object was a Soviet capsule, possibly a Venus probe, recovered secretly for its heat shielding technology
+- [[Jim Mae]] — Got within 75 yards of the crashed object but did not get a clear view
+- [[Leslie Keen]] — Hosted a May 2000 conference on the Kecksburg crash case and took legal action against NASA for stonewalling files; also wrote the 2017 New York Times article on Pentagon UAP videos
+- [[Nicholas Johnson]] — Analyzed orbital data of Cosmos 96 and determined it could not have landed in Kecksburg; stated no man-made object came down over Pennsylvania on December 9, 1965
+- [[Glenn Seaborg]] — Mentioned as a significant attendee at meetings potentially related to UAP programs
+- [[Myron]] — Claimed to have delivered special glazed bricks to Wright-Patterson AFB and observed the Kecksburg bell-shaped object inside a warehouse
+- [[JS]] — Accompanied Myron on the brick delivery to Wright-Patterson AFB
+- [[Brian Thompson]] — Interviewed Myron on videotape at his home on behalf of Leonard Stringfield
+- [[Uncle]] — Spoke to Stringfield through an intermediary, claiming Kecksburg involved a crashed spy plane and cautioning about disinformation
+- [[Lyndon B. Johnson]] — Hosted meetings at his Texas residence the day after the Kecksburg crash, possibly for briefings on the incident
+- [[RB]] — Mentioned as having guarded a hamburger-shaped saucer in 1963 where a science team failed to gain entry, referenced for comparison
+- [[Joel]] — Entered the woods to investigate the crash zone, observed military personnel, a general striking the object, and a hatch opening with unusual limbs visible inside
+- [[Leslie Keane]] — Involved in attempts to obtain Kecksburg documentation through FOIA or similar efforts
+- [[Eric Walker]] — Mentioned as a focus of the investigation into the Kecksburg case
+- [[Clifford Stone]] — Testified at the 2001 NPC conference under Steven Greer; made claims affirming the Kecksburg incident but carries controversy
+- [[Steven Greer]] — Organized the 2001 NPC conference where Clifford Stone testified
+- [[Nick Cook]] — Author of 'The Hunt for Zero Point,' covering Nazi advanced technology connections to UAP
+- [[UAP Gerb]] — Host of the video presenting the deep dive into the 1965 Kecksburg Pennsylvania UFO crash
+- [[Eric A. Walker]] — Described as a lynchpin to the UAP phenomenon; claimed involvement in the Kecksburg case and knowledge of Majestic 12; connected to the UARC at Penn State University
+- [[Robert Sarbacher]] — Referenced as having correctly identified Eric Walker as a crucial member in UFO crash retrieval efforts
+- [[Grant Cameron]] — Compiled extensive files on the Kecksburg case referenced throughout the investigation
+- [[Don Sebastian]] — Claimed to have observed military operations at the Kecksburg scene and heard a loud scream from the forest, a detail not corroborated by other witnesses
+- [[Robert Willingham]] — Referenced for comparison with Myron; initially denied seeing bodies in the 1955 Del Rio case then changed his account around 2008-2012
+- [[Noah Torres]] — Wrote a book around the time Robert Willingham changed his testimony regarding the Del Rio case
+- [[Johnson]] — Named as a witness in a UAP retrieval case discussed in the transcript
+- [[Walker]] — Named as a witness in the same UAP retrieval case alongside Johnson
+
+## Organizations
+- [[Blue Berets]] — Alleged rapid reaction Special Forces unit capable of operating secretly to recover downed or crashed UFOs, mentioned by Stringfield
+- [[USAF 1041 Security Police Squadron]] — Air Force unit that operated 1965-1967 and made blue berets famous through Operation Safeside in Vietnam
+- [[Strategic Air Command (SAC)]] — US Air Force command under which the SAC Elite Guard was created in 1956, tasked with base security and wearing blue berets
+- [[WHJB]] — Greensburg Pennsylvania radio station where John Murphy worked and produced the censored documentary about the Kecksburg crash
+- [[US Army]] — Referenced by state police and investigators as the authority to contact regarding the Kecksburg crash, with personnel observed at the state police barracks
+- [[US Air Force]] — Had personnel present at the Kecksburg incident scene and at state police barracks following the crash
+- [[State Police]] — Cooperated with the investigation; witnesses reported fear of reprisals from state police
+- [[US Government]] — Alleged to have sent elements that confiscated news tapes of eyewitness accounts and suppressed broadcasts
+- [[United States Marine Corps]] — Branch where Romansky's daughter served; she was required to sign a statement regarding Kecksburg
+- [[US Air Force]] — Branch where Romansky's son served; he was barred from requesting duty at Wright-Patterson AFB due to his father's involvement
+- [[Unsolved Mysteries]] — TV program that featured a report on the Kecksburg incident including community witness accounts
+- [[Project Blue Book]] — Officially concluded the Kecksburg object was a meteor and declared recovered material was chaff
+- [[Wright Patterson Air Force Base]] — Received fragmented material from the Kecksburg object sent by Blue Book for analysis
+- [[NASA]] — Issued a 1965 press release clarifying that Cosmos 96 had decayed over Canada hours before the Kecksburg event
+- [[US Space Command]] — Provided FOIA documents to Stan Gordon regarding the Kecksburg event
+- [[NRA]] — Referenced by David Newhouse to establish his familiarity with firearms
+- [[Naval Surveillance Center]] — Provided FOIA documents corroborating Cosmos 96's entry over Canada on December 9, 1965
+- [[NASA Johnson Space Center]] — Home institution of Nicholas Johnson, who analyzed orbital debris data related to the Kecksburg crash
+- [[Coalition of Freedom of Information (CFI)]] — Worked with Leslie Keen to take legal action against NASA for withholding Kecksburg-related documents
+- [[National Archives]] — Informed NASA that Kecksburg-related files had been marked as lost since 1987
+- [[Joint Chiefs of Staff (JCS)]] — Attended meetings at Johnson's Texas residence the day after the Kecksburg crash
+- [[Lockborne Air Force Base]] — Witness claimed the Kecksburg object was transported there on December 10, 1965 before being moved to Wright-Patterson
+- [[Wright Patterson Air Force Base]] — Alleged destination of the Kecksburg craft after Lockborne; Myron delivered bricks there and observed the object
+- [[US Navy]] — Sent a representative to select bricks for a protective structure around the Kecksburg object; personnel at Wright-Patterson were Navy by insignia
+- [[Atomic Energy Commission]] — Glenn Seaborg served as its chairman from 1961 to 1971 and was present at meetings of significance to UAP programs
+- [[US Army]] — Personnel observed at the Kecksburg crash site, including a general who struck the object with a probe
+- [[US Air Force]] — Personnel observed entering the Kecksburg crash area alongside Army and civilian-clothed men
+- [[CFI (Center for UFO Inquiry or similar)]] — Referenced alongside Leslie Keane in attempts to obtain Kecksburg documentation
+- [[Uncle Sam (U.S. Government)]] — Witness stated the government warned him to stay silent about what he saw in 1965, threatening imprisonment or death
+- [[Blue Book]] — Official USAF project that classified the Kecksburg crash as a meteor; the 662 radar squadron was involved
+- [[662 Radar Squadron]] — Involved in the Blue Book investigation of the Kecksburg incident, including discovery of chaff alongside the alleged meteor
+- [[University Affiliated Research Center (UARC) at Penn State University]] — Connected to Dr. Eric Walker and the Army Research Laboratory (ARL); noted as having potential relevance to UAP research
+
+## Concepts
+- [[Blue Beret Rapid Reaction Unit]] — An alleged elite Special Forces unit described by Stringfield as housed at military bases in a constant state of readiness to recover downed or crashed UFOs using diversionary tactics.
+- [[UFO Crash Retrieval]] — The alleged military process of recovering crashed unidentified aerial objects and their occupants, documented extensively by Leonard Stringfield.
+- [[Media Censorship of UAP Events]] — The alleged suppression or alteration of news coverage related to UAP incidents, evidenced by Murphy's radio documentary being heavily edited and witnesses withdrawing testimony due to fear of Army reprisals.
+- [[Non-Human Entity]] — A term used by Jeff Morse to describe a being shot to death by US forces at Fort Maguire Air Force Base, referenced in Stringfield's research.
+- [[Big Head]] — Slang term used by a Blue Beret member recalled by Stringfield's contact 'Cam' to describe the recovery of an alien being from a crashed craft.
+- [[Bell or Acorn-Shaped Craft]] — The crashed object at Kecksburg was described by multiple witnesses as a large metallic acorn or bell shape, 10-12 ft in length and 8-10 ft in diameter.
+- [[Hieroglyphic-like Markings]] — The object bore strange markings described as characters of broken and straight lines, dots, rectangles, and circles, likened to Egyptian hieroglyphics but confirmed not to be Russian or Polish.
+- [[Witness Suppression]] — Multiple witnesses withdrew their testimonies or refused to go public due to fear of reprisals from the US Army or State Police.
+- [[Soviet Space Capsule Theory]] — A competing explanation for the Kecksburg object suggesting it was a Soviet space capsule, with the markings interpreted as Cyrillic Russian.
+- [[Liquid Metal Mold Construction]] — Jim Romansky, a seasoned machinist, noted the object appeared to have been made from a liquid metal mold with no seams, rivets, doors, or windows.
+- [[Bell or Acorn-Shaped Craft]] — Description given by Bill Bully Bush of the Kecksburg object, metallic, embedded in the ground about a foot to a foot and a half deep.
+- [[Strange writing on UFO]] — Both Romansky and Bully Bush noted unidentified writing on the object, described as not resembling Polish or Russian script.
+- [[Military cover-up]] — Witnesses and their family members were ordered to stay silent; family members in the military were required to sign non-disclosure statements about Kecksburg.
+- [[Sulfuric smell]] — Bully Bush described a rotten egg smell at the crash site, suggesting a sulfuric odor associated with the landed object.
+- [[Blue arcing light]] — Bully Bush observed blue arcing light emanating from the object at intervals after it had landed.
+- [[Military rapid response]] — Military personnel in full uniform arrived at the Kecksburg site within 15 minutes of civilian first responders, despite the nearest base being ~45 miles away.
+- [[SulfuricRotten Egg Smell]] — A strong sulfuric odor reported by witness Bully Bush at the Kecksburg crash site, similar to an ammonia smell reported in the 1997 Varginha Brazil case.
+- [[Hieroglyphic Markings]] — Strange writing or symbols observed on the back of the crashed object by multiple civilian witnesses at Kecksburg.
+- [[Chaff]] — Material dropped by aircraft to confuse radar; Blue Book's official classification of debris recovered from the Kecksburg site.
+- [[Bell or Acorn-Shaped Craft]] — The shape described by multiple Kecksburg witnesses for the downed object, roughly larger than a Volkswagen with a domed top.
+- [[Military Roadblock]] — A military checkpoint set up near the Kecksburg crash site to prevent civilians from approaching, with soldiers armed with rifles.
+- [[FOIA Requests]] — Freedom of Information Act requests used by Stan Gordon to obtain documents from US Space Command and other agencies regarding the Kecksburg event.
+- [[Cosmos 96]] — A Soviet spacecraft suggested by early skeptics as the explanation for the Kecksburg object, but ruled out by NASA and subsequent analysis.
+- [[Moon Suits]] — Protective suits reportedly worn by men observed exiting a box truck near the Kecksburg crash area, as described by witness Bill Weaver.
+- [[FOIA (Freedom of Information Act) Requests]] — Legal mechanism used by researchers like Stan Gordon and Leslie Keen to obtain government documents related to the Kecksburg incident.
+- [[Orbital Debris Analysis]] — Scientific analysis of spacecraft orbital data used by Nicholas Johnson to rule out Cosmos 96 and other man-made objects as the Kecksburg crash source.
+- [[Heat Shield Technology]] — The primary intelligence interest in recovered Soviet spacecraft; analysis could reveal ICBM warhead size and composition.
+- [[Bell or Acorn-Shaped Craft]] — A reported shape of UAP associated with crash retrieval cases, described as distinct from saucers, Tic Tacs, or triangles and possibly remotely operated drones.
+- [[Crash Retrieval]] — The alleged recovery of crashed UAP or foreign spacecraft, associated with programs like Moondust, UFO, and Bluefly during the Cold War.
+- [[Kecksburg UFO Crash (Kbur)]] — A 1965 crash event in Kecksburg, Pennsylvania involving a bell-shaped object approximately 10–12 feet tall with a dull copper/bronze color, alleged to have been retrieved by the military.
+- [[Double Glazed Lead-Lined Protective Structure]] — A specially engineered brick enclosure allegedly constructed around the Kecksburg object at Wright-Patterson AFB to protect against radiation.
+- [[Disinformation in UAP Research]] — The deliberate spread of false information within UAP research circles, noted by the insider 'Uncle' as a concern in the Kecksburg case.
+- [[UAP Material Impenetrability]] — The alleged inability to gain entry into the Kecksburg craft using acetylene torches, diamond-headed drill bits, or acid, suggesting exotic material composition.
+- [[Alien Biological Structures]] — A claim made by the insider 'Uncle' referencing an understanding of non-human biological forms, connected to broader UAP research.
+- [[UAP Retrieval]] — The alleged recovery of unidentified craft by government or military personnel, including attempts to gain entry and handling of potential occupants.
+- [[Alien Body Recovery]] — Claims of non-human bodies found at UAP crash sites, in this case a 4-5 ft tall entity with lizard-like skin and three fingers observed at Wright-Patterson.
+- [[Material Resistance]] — The alleged inability to penetrate recovered UAP craft using conventional tools such as acetylene torches, diamond drill bits, and acid.
+- [[Security Intimidation]] — Witnesses being warned by guards to forget what they saw, used to enforce secrecy around alleged UAP retrievals.
+- [[Non-human entity description]] — A witness described a body approximately 4 to 4.5 feet tall, weighing about 80 lbs, with dark green or brownish lizard-like skin and three fingers on the left hand.
+- [[Witness intimidation and silencing]] — Witnesses reported being threatened by the U.S. government with imprisonment or death if they disclosed what they saw at the Kecksburg crash.
+- [[Die Glocke (Nazi Bell)]] — An alleged Nazi wonder weapon said to be the same shape as the Kecksburg object and the Liberty Bell, referenced as a potential connection to the crash.
+- [[Moon suits  Hazmat-style protective gear]] — White coverall suits worn by men observed at the crash site, suggesting a need for biological or radiological protection when handling the object.
+- [[Craft hatch opening]] — A witness described a hatch on the metallic object swinging from right to left accompanied by a whirling hissing sound, with what appeared to be fingers and an unusually long arm visible inside.
+- [[Blue Berets]] — A specialized military unit alleged to function as a rapid reaction force for domestic or foreign crash retrieval efforts; considered a crucial aspect of the Kecksburg investigation
+- [[Majestic 12]] — An alleged secret government committee; Eric Walker claimed knowledge of it in the context of UFO crash retrievals
+- [[Bell or Acorn-Shaped Craft]] — The UAP described by multiple Kecksburg witnesses as liberty bell-shaped, off-white/yellow-bronze, covered in hieroglyph-like writings, and appearing to be made from a single piece of metal
+- [[Witness Testimony Evolution]] — The phenomenon where witnesses add or change key details over time, such as body claims; discussed in context of Myron and Robert Willingham
+- [[Witness Testimony]] — Accounts from individuals who observed or had knowledge of the UAP event, cited as key evidence in the case.
+
+## Events & Dates
+- [[Kecksburg UFO Crash]] — An object reportedly crashed in the woods near Kecksburg, Pennsylvania, witnessed by multiple residents including a mother who saw a fiery object and blue smoke rising on impact
+- [[Object in the Woods Radio Documentary]] — John Murphy produced a radio documentary about the Kecksburg crash that was subsequently heavily censored, with a disclaimer denying government influence and witnesses withdrawing due to fear of Army reprisals
+- [[Fort Maguire Non-Human Entity Incident]] — Jeff Morse told Stringfield about an incident at Fort Maguire Air Force Base in which a non-human entity was shot to death by US forces
+- [[Creation of SAC Elite Guard]] — General Curtis LeMay created the Strategic Air Command Elite Guard, which wore blue fatigues and blue berets and operated as air police until 1966
+- [[Operation Safeside]] — USAF operation in Vietnam where the 1041 Security Police Squadron deployed highly trained combat security police in blue berets to defend air bases from raids
+- [[Kecksburg UFO Incident]] — A large object crashed into the woods near Kecksburg, Pennsylvania, witnessed by numerous people; an acorn-shaped metallic object was found half-buried in the ground.
+- [[Army Removal of Object]] — Witnesses reported that the object was transported out of the Kecksburg woods in the early morning of December 10th by army trucks covered with a tarp.
+- [[Jim Romansky Approaches Stan Gordon]] — Jim Romansky came forward to share his eyewitness testimony about the Kecksburg crash site, having previously feared ridicule for years.
+- [[Jim Romansky on Montel Williams Show]] — Romansky appeared on the Montel Williams show to discuss his Kecksburg experience and how it affected his children's time in the US armed services.
+- [[John Murphy's Wife's Claim]] — John Murphy's wife claimed he had told her he entered the Kecksburg woods and witnessed a strange metallic object on the ground before his death.
+- [[John Murphy Hit-and-Run Death]] — John Murphy died in a hit-and-run incident shortly after the Kecksburg event; he never publicly claimed to have entered the woods.
+- [[Montel Williams Show Testimony]] — Jim Romansky gave passionate testimony about the Kecksburg incident and its impact on his family's military service on the Montel Williams Show.
+- [[Varginha Brazil UFO Case]] — Referenced for comparison due to a similarly reported strong ammonia smell at the scene
+- [[Cosmos 96 Decay]] — Soviet spacecraft Cosmos 96 decayed and landed in Canada approximately 13 hours before the Kecksburg event, ruling it out as the cause
+- [[Fireball Sighting]] — A fireball observed by Jerry Betters and others near Kecksburg that agitated animals and prompted civilian investigation
+- [[Blue Book Material Analysis]] — Fragmented material from the Kecksburg object was sent to Wright Patterson AFB and declared to be chaff by Project Blue Book
+- [[Cosmos 96 Atmospheric Entry]] — Soviet spacecraft Cosmos 96 entered the atmosphere at approximately 3:18 a.m. EST over Canada, ruling it out as the Kecksburg object
+- [[Leslie Keen's Kecksburg Conference]] — Conference titled 'Combating Media Ridicule and Searching for Evidence on the 1965 Kecksburg Crash Case' where Keen discussed Nicholas Johnson's findings
+- [[NASA Kecksburg FOIA Settlement]] — Leslie Keen and CFI won a legal settlement requiring NASA to provide hundreds of never-before-seen Kecksburg documents and pay all legal fees
+- [[NASA Document Search Completion]] — NASA completed its search for Kecksburg documents, posting 20 pages of Moondust documents with no direct relation to Kecksburg
+- [[Kecksburg Files Transferred to National Archives]] — NASA sent its Kecksburg files to the National Archives approximately 2 years after the incident
+- [[Kecksburg Files Marked as Lost]] — The National Archives informed NASA that the Kecksburg-related files had been marked as lost since 1987
+- [[2017 New York Times UAP Article]] — Leslie Keen co-authored the article that brought Pentagon UAP videos and the AATIP program to public attention
+- [[Transport of Kecksburg Object to Lockborne AFB]] — A witness claimed to have guarded the object at Lockborne AFB early morning after it was transported from Pennsylvania
+- [[Transport of Kecksburg Object to Wright-Patterson AFB]] — The object allegedly stayed only briefly at Lockborne before being moved to Wright-Patterson AFB
+- [[Brick Delivery to Wright-Patterson AFB]] — Myron and his cousin JS delivered special double-glazed engineered bricks to Wright-Patterson 2–3 days after the crash, allegedly to build a radiation-shielding enclosure
+- [[Unsolved Mysteries Kecksburg Broadcast]] — A 1990 Unsolved Mysteries episode on Kecksburg prompted witnesses including Myron to come forward
+- [[Stringfield Status Report 3 Amassing the Evidence]] — Leonard Stringfield published a status report including testimony from the insider 'Uncle' regarding Kecksburg and other crash cases
+- [[Johnson Texas Residence Meetings]] — Meetings held at President Johnson's Texas residence the day after the Kecksburg crash, potentially for briefings on the incident
+- [[Myron's Delivery to Wright-Patterson]] — Myron and JS delivered glazed bricks to Wright-Patterson and allegedly witnessed a Bell-shaped craft and alien body in a warehouse.
+- [[Stringfield Interview of Myron]] — Leonard Stringfield interviewed Myron about his 1965 experiences at Wright-Patterson.
+- [[Stringfield Interview of JS]] — Stringfield interviewed JS between March 30 and April 1, 1991, during which JS confirmed seeing a Bell-shaped craft on a lowboy trailer.
+- [[Myron Interview with Stan Gordon]] — Myron, in poor health, met with Stan Gordon for a documentary and disclosed seeing a body with lizard-like skin on a workbench near the Bell-shaped craft.
+- [[2003 Annual Crash Retrieval Conference]] — Stan Gordon discussed rumors of two small bodies found at the Kecksburg crash site in 1965.
+- [[Joel's Witness Interview with Stan Gordon]] — Joel contacted Stan Gordon and met with him in late 2002 to share his account of entering the woods at the Kecksburg crash site
+- [[2001 NPC Conference]] — A press conference organized by Steven Greer where Clifford Stone testified about the Kecksburg incident
+- [[Montel Williams Show Appearance]] — Jim Romansky discussed the Kecksburg crash on the Montel Williams television show, considered a notable interview by the video's narrator
+- [[Stan Gordon's 1993 Kecksburg Documentary]] — A documentary produced by Stan Gordon covering the Kecksburg UFO crash case
+- [[Montel Williams Show Appearance by Jim Romansky]] — Jim Romansky discussed the Kecksburg case and how his children faced issues related to his experience
+- [[Myron's 1993 Stan Gordon Documentary Interview]] — Myron first discussed the topic of bodies at the Kecksburg crash site, citing fear as the reason he had omitted it previously
+- [[NASA Document Loss]] — NASA reportedly lost official documents related to the Kecksburg incident
+- [[Del Rio UFO Case]] — Referenced for comparison; witness Robert Willingham initially denied seeing bodies then later changed his account
+- [[Lyndon B. Johnson Meeting Schedule]] — Johnson's meetings the day after the Kecksburg incident were noted as potentially significant in connection with Dr. Eric Walker
+
+## Operations
+- [[Operation Safeside]] — US Air Force operation from 1965 to 1967 deploying the 1041 Security Police Squadron in blue berets as active defense units to repel raids on air bases in Vietnam
+- [[Project Moondust]] — Cold War-era US program tasked with recovering descended foreign space vehicles; files related to Kecksburg were associated with this program
+- [[Project UFO]] — A companion program to Moondust and Bluefly involved in recovering foreign space vehicles during the Cold War
+- [[Project Bluefly]] — Cold War-era program alongside Moondust and UFO tasked with recovering descended foreign space vehicles
+- [[Project Corona]] — US spy satellite program that dropped film canisters over the US for retrieval; considered and eliminated as a candidate explanation for the Kecksburg object by Nicholas Johnson
+- [[Kecksburg The Untold Story]] — A documentary produced by Stan Gordon investigating the Kecksburg UAP incident, during which Myron provided new testimony about an alien body.
+- [[Kecksburg Military Recovery Operation]] — Alleged military retrieval of a crashed object in Kecksburg woods, observed by witnesses including Don Sebastian who reported military personnel securing the scene
+
+## Locations
+- [[Kecksburg, Pennsylvania]] — Site of the alleged December 9, 1965 UFO crash in the woods, the central focus of this case study
+- [[Greensburg, Pennsylvania]] — Nearby town where WHJB radio station was located and where state police barracks was observed to have Army and Air Force personnel
+- [[Lockbourne Air Force Base, Columbus, Ohio]] — A SAC base mentioned as relevant to the Kecksburg case; a witness later claimed to have briefly guarded the crashed UAP at this location
+- [[Fort Maguire Air Force Base]] — Location where Jeff Morse claimed a non-human entity was shot to death by US forces, as told to Stringfield
+- [[University of Dade City, Florida]] — Location where Leonard Stringfield met a former Blue Beret member during a lecture and discussed the unit's makeup and functions
+- [[Strategic Air Command Headquarters]] — Location secured by the SAC Elite Guard blue beret units from 1956 to 1966
+- [[Gettysburg area]] — A woman from this area recorded testimony about the Kecksburg object but later withdrew out of fear of trouble.
+- [[Luraville area]] — Area where Bill Bully Bush observed the object hesitate before turning northeast toward Kecksburg.
+- [[Meteor Road]] — Hill top location near Kecksburg where Bully Bush went to observe the object's descent and subsequent crash.
+- [[Wright Patterson Air Force Base]] — Air Force base that Romansky claimed houses the recovered UFO; his son was reportedly barred from requesting duty there.
+- [[Pittsburgh, Pennsylvania]] — Location of the nearest known military base to Kecksburg, approximately 45 miles to the west.
+- [[Murrysville, Pennsylvania]] — Town near Kecksburg where witness Jerry Betters lived at the time of the incident
+- [[Wright Patterson Air Force Base]] — Location where fragmented material from the Kecksburg object was sent for analysis
+- [[Canada]] — Where NASA confirmed Cosmos 96 had decayed and landed, ruling it out as the Kecksburg object
+- [[Houston, Texas]] — Location from which James Oberg was interviewed about the Kecksburg sighting
+- [[NASA Johnson Space Center]] — Institution where Nicholas Johnson, chief scientist for orbital debris, conducted his analysis of the Kecksburg incident
+- [[Lockborne Air Force Base, Columbus, Ohio]] — First alleged military destination for the Kecksburg object after retrieval from Pennsylvania
+- [[Wright-Patterson Air Force Base, Ohio]] — Alleged final destination for the Kecksburg object, where it was reportedly housed and studied
+- [[Johnson's Texas Residence]] — Location of high-level meetings the day after the Kecksburg crash involving JCS and other significant figures
+- [[Fort Riley]] — Mentioned as a contested UFO crash case by the insider 'Uncle', who claimed it was a genuine crash
+- [[Johannesburg, South Africa]] — Mentioned as another contested UFO crash case claimed to be genuine by the insider 'Uncle'
+- [[Maple Street]] — Street near Wright-Patterson Air Force Base mentioned by Myron as part of the route taken to the old WWII training center where the craft was stored.
+- [[The crash woodscrash zone]] — The wooded area where the object came down; witnesses entered to observe military activity and the craft
+- [[Kecksburg]] — Site of the alleged 1965 UAP crash; the primary focus of the investigation
+- [[Fort McGuire-Dix]] — Mentioned by Leonard Stringfield's alleged Blue Beret insider in relation to a UAP-related incident
+- [[Penn State University]] — Home of a University Affiliated Research Center (UARC) connected to Dr. Eric Walker and the Army Research Laboratory
+
+## Key Claims
+- Leonard Stringfield documented the existence of a covert Blue Beret Special Forces unit tasked with rapidly recovering crashed UFOs using diversionary tactics.
+- A former Blue Beret member told Stringfield that a fellow unit member had participated in the recovery of an alien being referred to as a 'big head' from a crashed craft.
+- Jeff Morse, a self-described former Blue Beret, told Stringfield between 1985 and 1987 that a non-human entity was shot to death by US forces at Fort Maguire Air Force Base.
+- State police fire marshal Carl Mets directed journalist John Murphy to 'get your information from the Army' after investigating the Kecksburg crash site.
+- John Murphy observed Army and Air Force men swarming the state police barracks in Greensburg following the Kecksburg crash.
+- Murphy's radio documentary 'Object in the Woods' was heavily censored after men reportedly approached him at the WHJB station, and multiple witnesses withdrew their testimony citing fear of Army reprisals.
+- The Blue Beret tradition in the US Air Force traces back to 1956 and General Curtis LeMay's creation of the Strategic Air Command Elite Guard.
+- Lockbourne Air Force Base in Columbus, Ohio is alleged to have been a location where the recovered Kecksburg UAP was briefly guarded by a witness.
+- Multiple witnesses withdrew their testimonies about the Kecksburg incident due to fear of reprisals from the US Army and State Police.
+- Stan Gordon received notarized documents from station employees claiming US government elements were confiscating news tapes of eyewitness accounts.
+- John Murphy's wife stated in 2003 that he had entered the Kecksburg woods and witnessed a strange metallic object on the ground.
+- The object at Kecksburg was transported out of the woods in the early morning of December 10, 1965, by army trucks covered with a tarp.
+- Eyewitness Jim Romansky described the Kecksburg object as a large metallic acorn or bell shape with no seams, rivets, doors, or windows.
+- The object bore hieroglyphic-like markings that Romansky, familiar with Russian and Polish, confirmed were not Russian Cyrillic.
+- Romansky, a seasoned machinist, stated the object appeared to be made from a liquid metal mold and was a bronze-gold color unlike any metal he had seen.
+- The object measured approximately 10-12 feet in length and 8-10 feet in diameter with a raised ring bumper around its base.
+- The object descended at a 30-degree angle, breaking tree limbs and leaving a 25-foot-long trench upon impact with no signs of fire.
+- Military personnel arrived at the Kecksburg crash site within 15 minutes of civilian first responders despite the nearest base being 45 miles away.
+- Jim Romansky's daughter was required to sign a statement in the Marine Corps saying she would never request information about Kecksburg because her father's name appeared in a computer.
+- Jim Romansky's son in the Air Force was barred from requesting duty at Wright-Patterson Air Force Base due to his father's witness status at Kecksburg.
+- Bill Bully Bush independently described the same crash site location as Romansky, with no known prior interaction between the two witnesses.
+- Bill Bully Bush described the crashed object as a metallic acorn-shaped craft embedded in the ground, featuring strange writing and emitting blue arcing light.
+- Bill Bully Bush observed the object make a figure-eight maneuver before descending, suggesting controlled flight rather than a meteorite trajectory.
+- A strong rotten egg (sulfuric) smell was reported at the Kecksburg crash site by Bill Bully Bush.
+- Romansky claimed the object's writing did not resemble Polish or Russian script.
+- The military took over a nearby farmhouse as a command post during the Kecksburg incident.
+- Witness Bully Bush is the only known witness to report a sulfuric rotten egg smell at the Kecksburg crash site.
+- Witness Jerry Betters observed an acorn-shaped object covered by a tarp being hauled away on a military flatbed truck from Kecksburg.
+- Multiple civilian witnesses at Kecksburg claim they were held at gunpoint by military personnel and ordered to leave the area.
+- Project Blue Book officially classified the Kecksburg object as a meteor and the recovered material as radar chaff.
+- NASA's 1965 press release confirmed that Cosmos 96 could not have been the Kecksburg object, as it decayed over Canada 13 hours prior.
+- Stan Gordon concluded through FOIA documents from the US Space Command that Cosmos 96 was not responsible for the Kecksburg event.
+- Multiple civilian witnesses independently described an acorn or bell-shaped craft with hieroglyphic-style writing on its exterior.
+- The trajectory and speed of the Kecksburg object were not consistent with meteor travel, contradicting Blue Book's conclusion.
+- NASA's 1965 press release stated Cosmos 96 had decayed and landed in Canada approximately 13 hours before the Kecksburg event.
+- US Space Command and Naval Surveillance Center documents verified Cosmos 96 entered the atmosphere at 3:18 a.m. EST over Canada on December 9, 1965.
+- James Oberg argued the Kecksburg object may have been a Soviet Venus probe recovered secretly for its heat shield technology to analyze Soviet ICBM warhead capabilities.
+- Nicholas Johnson determined it was impossible that Cosmos 96 or any man-made object landed in Pennsylvania at 5:00 p.m. on December 9, 1965.
+- Nicholas Johnson also eliminated Project Corona as a possible explanation for the Kecksburg object.
+- Leslie Keen and CFI won a legal settlement in October 2007 requiring NASA to provide hundreds of previously unseen Kecksburg documents.
+- NASA's Kecksburg files were sent to the National Archives in 1967 and were reported as lost since 1987.
+- Crashed UAP craft are described as almost always being egg or bell-shaped and are theorized to be smaller, remotely operated drones.
+- A witness claiming to be an Air Force Security team member at Lockborne AFB stated he guarded the Kecksburg object on the morning of December 10, 1965.
+- The Kecksburg object was allegedly transported from Lockborne AFB to Wright-Patterson AFB on December 10, 1965.
+- Myron, a trucker, claimed to have delivered special double-glazed engineered bricks to Wright-Patterson AFB 2–3 days after the Kecksburg crash to build a radiation-shielding structure around the object.
+- Myron allegedly peered into a warehouse at Wright-Patterson and observed a bell-shaped, metallic, copper/bronze-colored object approximately 10 feet tall surrounded by scaffolding and partially covered by parachute silks.
+- Personnel at the warehouse attempted to gain entry into the Kecksburg object using acetylene torches, diamond-headed drill bits, and acid, all of which failed.
+- The insider known as 'Uncle' told Stringfield that the Kecksburg case involved a crashed spy plane, not a UAP.
+- Leonard Stringfield investigated the Kecksburg case for over a decade while maintaining a balanced view, noting both pro and con testimony.
+- The US Navy, not the Air Force, was reportedly in charge of handling and securing the Kecksburg object at Wright-Patterson AFB.
+- Meetings at President Johnson's Texas residence the day after the Kecksburg crash may signify a day of briefings on the retrieved object.
+- Glenn Seaborg, as Atomic Energy Chairman, may have had significant connections to UAP-related programs.
+- Myron claims to have seen a Bell-shaped craft approximately 14 ft tall and 10-12 ft wide with writing around its collar at Wright-Patterson Air Force Base in December 1965.
+- Attempts to gain entry to the recovered craft using an acetylene torch, diamond drill bits, and acid all failed.
+- Myron testified in 1998 that he saw a body covered by a white sheet on a workbench near the craft, with a left hand visible showing lizard-like skin and only three fingers.
+- The alleged body was estimated to be 4 to 4.5 feet tall, weigh approximately 80 pounds, and have dark green or brownish lizard-like skin.
+- JS, Myron's cousin, independently confirmed seeing a Bell-shaped craft on a lowboy trailer under a tarp the day before his joint delivery with Myron.
+- Stan Gordon stated in 2003 that rumors of two small bodies being found at the Kecksburg crash site existed but lacked evidentiary support.
+- A guard at Wright-Patterson threatened Myron, telling him to forget what he had seen or he would be locked up.
+- A witness described a non-human body approximately 4 to 4.5 feet tall with dark green or brownish lizard-like skin and three fingers on the left hand.
+- A witness stated the U.S. government threatened witnesses with imprisonment or death if they disclosed what they saw at the Kecksburg crash in 1965.
+- Witness Joel observed an Army general strike the crashed metallic object with a probe, after which a hatch opened accompanied by a whirling hissing sound and an unusually long arm was briefly visible inside.
+- Bill Weaver observed men in moon suits carry a 4-to-5-foot square box on a stretcher toward the crashed object before being ordered to leave by military personnel.
+- The Kecksburg object is alleged to be the same shape as the Nazi Die Glocke wonder weapon and the Liberty Bell.
+- Clifford Stone testified at the 2001 NPC conference affirming the Kecksburg incident but is considered a controversial figure.
+- Multiple witnesses reported extensive military presence at the Kecksburg crash site, including Army, Air Force, and men in civilian clothing and suits.
+- Jim Romansky is considered one of the most credible and passionate eyewitnesses of the Kecksburg case.
+- The Blue Berets may function as a rapid reaction unit for domestic or foreign UAP crash retrieval efforts.
+- Dr. Eric Walker is viewed as a lynchpin figure in the UAP phenomenon, with claimed involvement in both Kecksburg and Majestic 12.
+- The UARC at Penn State University's Army Research Laboratory has potential connections to UAP research through Dr. Eric Walker.
+- Lyndon B. Johnson's meeting schedule the day after the Kecksburg incident is considered potentially significant.
+- Myron initially omitted mention of bodies due to fear, only revealing this detail in a 1993 Stan Gordon documentary.
+- Don Sebastian reported hearing a loud scream from the forest during military operations at the Kecksburg scene, a detail uncorroborated by other witnesses.
+- The Kecksburg craft was described by multiple witnesses as bell-shaped, off-white/yellow-bronze, covered in hieroglyph-like markings, and appearing to be cast from a single piece of metal.
+- The official Blue Book explanation of a meteor is disputed, partly due to chaff being discovered alongside the alleged meteor.
+- NASA lost official documents related to the Kecksburg case in 1987.
+- The investigator believes Kecksburg represents a legitimate UAP retrieval case based on accumulated witness testimony and circumstantial evidence.
+- The presenter believes the discussed case is a legitimate UAP retrieval based on substantial witness testimony.
+- Official documents supporting the UAP retrieval case are scarce because NASA allegedly lost them in 1987.
+- Multiple witnesses, including Johnson and Walker, provided testimony related to the UAP retrieval case.
+
+---
+*Source: [YouTube](https://www.youtube.com/watch?v=rgBTMzFd-hg)*

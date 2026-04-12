@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "-\"MOC\" -\"Template\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Concepts  ",
+      "color": {
+        "a": 1,
+        "rgb": 14734418
+      }
+    },
+    {
+      "query": "path:Events  ",
+      "color": {
+        "a": 1,
+        "rgb": 12210912
+      }
+    },
+    {
+      "query": "path:Locations  ",
+      "color": {
+        "a": 1,
+        "rgb": 8496189
+      }
+    },
+    {
+      "query": "path:Operations  ",
+      "color": {
+        "a": 1,
+        "rgb": 4587330
+      }
+    },
+    {
+      "query": "path:Organizations  ",
+      "color": {
+        "a": 1,
+        "rgb": 6125300
+      }
+    },
+    {
+      "query": "path:People  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Videos  ",
+      "color": {
+        "a": 1,
+        "rgb": 6908265
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.9,
+  "nodeSizeMultiplier": 1.87901475694444,
+  "lineSizeMultiplier": 2.77096788194444,
+  "collapse-forces": true,
+  "centerStrength": 0.364496527777778,
+  "repelStrength": 10.4131944444444,
+  "linkStrength": 0.746006944444445,
+  "linkDistance": 69,
+  "scale": 0.1173954274079724,
+  "close": false
+}

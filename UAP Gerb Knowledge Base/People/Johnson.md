@@ -1,0 +1,11 @@
+---
+name: "Johnson"
+role: "Witness"
+tags:
+  - person
+---
+
+Named as a witness in a UAP retrieval case discussed in the transcript
+
+## Appearances
+*(Populated automatically via Obsidian backlinks from [[Videos]])*

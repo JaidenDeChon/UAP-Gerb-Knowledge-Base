@@ -1,0 +1,401 @@
+---
+title: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers"
+date: NA
+video_id: GM1Qx9vuo2c
+url: https://www.youtube.com/watch?v=GM1Qx9vuo2c
+channel: UAP Gerb
+duration_seconds: 0
+tags:
+  - video
+  - uap-gerb
+---
+
+## Summary
+The video, hosted by a UAP researcher named Gerb, presents a detailed argument that the National Reconnaissance Office (NRO) is a central and largely overlooked institution within alleged US UFO legacy programs, functioning as both a surveillance asset through programs like NRO Sentient and the Immaculate Constellation (IMCON) USAP, and as a possible umbrella authority directing UFO crash retrieval operations using tier 1 military assets. The host draws on multiple witness accounts—including USMC Lance Corporal Jonathan Wagant's 1997 Peru crash retrieval testimony, a new anonymous witness claiming 21st-century crash retrieval missions based at the Nevada National Security Site, and Colonel Steve Wilson's pre-death disclosures—to argue that recovered craft are oblong, non-human in origin, and retrieved by specialized task forces with DOE and Delta-tier personnel. The video also examines the alleged 2011 blocking of the Kona Blue technology transfer from Lockheed Martin by CIA DS&T Deputy Director Glenn Gaffney and identifies Mary K. Sturdivant as a possible co-conspirator, while profiling Admiral Bobby Ray Inman as a key UFO legacy program gatekeeper who in 1989 directed NASA's Bob Echler to CIA DS&T Deputy Director Everett Heinman regarding recovered craft in operational condition. The host directly disputes the Age of Disclosure documentary's claim of a single CIA DS&T-controlled legacy program, arguing instead for numerous siloed programs with the NRO at their core, supported by FFRDCs, GOCO facilities, and defense contractors such as Lockheed Martin and Northrop Grumman.
+
+## People
+- [[Dwight D. Eisenhower]] — Called in top science advisers and CIA director to establish the NRO after the U2 shootdown incident in 1960
+- [[Alan Dulles]] — Involved in establishing the National Reconnaissance Office following the U2 spy plane shootdown
+- [[Joseph V. Cherik]] — First co-director of the NRO upon its inception
+- [[Richard Bissell Jr.]] — First co-director of the NRO; allegedly confirmed the 1933 Magenta, Italy UFO crash and briefed Harold Malmgren on otherworldly technologies
+- [[Harold Malmgren]] — Claimed Richard Bissell confirmed the 1933 Magenta UFO crash and briefed him on otherworldly technologies; cited as a deep UFO legacy program member
+- [[Matthew Brown]] — Brown authored the Immaculate Constellation report and referenced NRO Sentient as a key intelligence resource
+- [[Marco Rubio]] — Co-established congressional inquiries in 2017 to investigate UFOs and UFO legacy programs
+- [[Kirsten Gillibrand]] — Co-established congressional inquiries in 2017 to investigate UFOs and UFO legacy programs
+- [[David Grusch]] — Testified about reviewing overhead imagery from NGA and other platforms of unexplained phenomena; declined to discuss crash site imagery in open session
+- [[Jim Shell]] — Posted on LinkedIn in 2025 alleging a security control system was supplanting US Space Force and Space Command authority, with a connection to UAP activity
+- [[Christopher Sharp]] — Authored a September 2024 article on UFO transparency legislation and UAP crash retrieval team programs; initially redacted agency names fearing reprisals
+- [[Jonathan Wagant]] — Testified in 1997 about encountering a large egg-shaped UFO crash during Operation Laser Strike in Peru
+- [[Christopher Sharp]] — Author of an article referenced by the narrator regarding UFO crash retrieval operations
+- [[Steve Wilson]] — Claimed involvement with Majestic 12, UFO retrieval programs, and witnessed non-human craft at Area S4; testimony collected in 1996/1997 before his death
+- [[Richard Boland]] — Primarily collected Colonel Wilson's testimony; holds Wilson's alleged military documents and photos
+- [[Kevin Randall]] — Wrote multiple pieces questioning the credibility and legitimacy of Colonel Steve Wilson
+- [[Albert Bruce Collins]] — Referenced in connection with nesting doll design detail found in egg-shaped craft crash reports
+- [[Edgar Fuché]] — Disclosed knowledge of the alien reproduction vehicle TR3B in 1998, describing a circular plasma field accelerator ring and magnetic field disruptor
+- [[Congressman Brown]] — A staff member from his office confirmed an exhibit featuring three hovering discs referred to as alien reproduction vehicles
+- [[Borland]] — Witnessed a triangular craft up close, described its appearance and behavior in detail; suggested AARO has answers about its origin
+- [[Edgar Fuche]] — Accused Teledyne Ryan of working on the TR3B; considered more credible than Colonel Steve Wilson by the narrator
+- [[Bobby Ray Inman]] — Accused UFO legacy program gatekeeper; told Bob Echler that Everett Heinman would be best person to ask about recovered UFO vehicles
+- [[Bob Echler]] — Had a 1989 telephone call with Admiral Inman regarding recovered UFO vehicles and technological research
+- [[Everett Heinman]] — Identified by Inman as best person to ask about recovered UFO vehicles; denied knowledge of UFOs in 1989 meeting but gave ambiguous response in 2022
+- [[Lord Hill Norton]] — Provided contact connection to Admiral Inman for UFO inquiry
+- [[Glenn Gaffney]] — Allegedly blocked transfer of UFO materials from Lockheed Martin to the AATIP/Kona Blue program
+- [[Jim Ryder]] — Possibly aided Glenn Gaffney and Robert Cardillo in blocking UFO materials transfer under Kona Blue PAP
+- [[Mary K. Sturivant]] — Introduced as possible co-conspirator in blocking UFO material transfer; served 2006–2011
+- [[Robert Cardillo]] — Possibly involved in blockage of UFO materials from Lockheed to AATIP/Kona Blue program
+- [[Mary K. Sturdivant]] — Identified as a possible co-conspirator in blocking the Kona Blue technology transfer in 2011
+- [[Chris Mellon]] — Worked closely with Sturdivant at SSCI; was asked to question her about the transfer but declined
+- [[Gerb]] — Host of the channel producing this analysis; reached 100,000 subscribers during production
+- [[Xander Jones]] — Created exclusive music tracks for the video and runs the Dreamland Motel channel; covered the 4chan whistleblower
+- [[Dan Cleary]] — Associated with the 'Others From Another Mother' podcast; mentioned as a friend of the channel
+- [[Rob Jones]] — Friend of the channel host; participated in a live discussion about the Age of Disclosure documentary
+- [[Kermit]] — Friend of the channel host; participated in a live discussion about the Age of Disclosure documentary
+- [[Luis Elizondo]] — Participated in the Age of Disclosure documentary and outlined a legacy program structure the host disputes
+- [[Eric Davis]] — Participated in the Age of Disclosure documentary; claimed CIA DS&T controls UFO legacy programs and that contractors were given back materials in 1989
+- [[Dick Cheney]] — Cited as an example of the type of person who may sit at the top of the legacy program hierarchy with access across siloed programs
+- [[Thomas Wilson]] — Allegedly stonewalled when attempting to access UFO legacy programs, as described in the Wilson Davis notes
+- [[Kaminsky]] — Named as a possible high-level UFO legacy program gatekeeper with NRO connections
+- [[Myerix]] — Named as a possible high-level UFO legacy program gatekeeper with NRO connections
+- [[Doug Wolf]] — Named as a possible high-level UFO legacy program gatekeeper with NRO connections
+
+## Organizations
+- [[NRO (National Reconnaissance Office)]] — Joint DoD and Intelligence Community agency responsible for US reconnaissance satellites and intelligence gathering from space
+- [[CIA]] — Co-founded the NRO alongside the US Air Force; CIA deputy director appointed as NRO Deputy Director
+- [[US Air Force]] — Co-founder of the NRO; Secretary of Defense appoints the NRO Director
+- [[Naval Research Laboratory]] — Worked with the NRO to launch the Poppy Reconnaissance Satellites in 1962
+- [[National Underwater Reconnaissance Office]] — Referenced as a parallel example of turf battles between CIA and Navy over control of a classified reconnaissance agency
+- [[Institute for Defense Analysis]] — FFRDC organization associated with Harold Malmgren
+- [[NRO (National Reconnaissance Office)]] — Primary US agency for space-based imagery; operates NRO Sentient and believed to be involved in both UFO legacy programs and IMCON
+- [[CIA Directorate of Science and Technology]] — Cited as participating in UFO legacy programs at an administrative level
+- [[CIA Directorate of Digital Innovations]] — Cited as likely unaware of UFO legacy programs involving other CIA directorates, illustrating compartmentalization
+- [[160th Special Operations Aviation Regiment]] — First Battalion cited as involved in UFO crash retrievals, while other battalions are unaware
+- [[JOPC (Joint Overhead Persistent Infrared Center)]] — Provides OPIR sensors; NRO is a part of this center, implying NRO recorded UAP events
+- [[Department of Defense]] — Referenced as housing elements involved in UFO legacy programs and IMCON
+- [[FFRDC (Federally Funded Research and Development Centers)]] — Cited as part of the infrastructure supporting UFO legacy programs
+- [[NGA]] — Processes, exploits, and disseminates overhead imagery; Grusch reviewed UAP-related imagery there
+- [[US Space Force]] — Alleged to have its direction and authority supplanted by an unauthorized security control system per Jim Shell's complaint
+- [[US Space Command]] — Alleged to have its space domain awareness mission interfered with by an unauthorized security control system
+- [[Liberation Times]] — Media outlet that published Christopher Sharp's reporting on UAP transparency legislation and crash retrieval programs
+- [[Air Force Space Command]] — Jim Shell served as chief scientist; relevant to unauthorized interference in space domain awareness
+- [[160th Special Operations Aviation Regiment]] — Helicopter transport unit for special forces, believed to utilize rapid reaction teams for crash retrieval operations using CH47s and MH47s
+- [[Department of Energy]] — Personnel in DOE-embroidered jackets and mop gear were observed at the Peru UFO crash site securing debris
+- [[National Nuclear Security Administration]] — Semi-autonomous DOE subordinate agency created in 2000, believed to operate direct response scientific teams for crashed UFOs
+- [[Nuclear Emergency Support Team (NEST)]] — DOE premier response unit for radiological threats, believed to be involved in UFO crash retrieval operations
+- [[NRO (National Reconnaissance Office)]] — Alleged focal point of UFO crash retrieval operations according to new witness testimony
+- [[Sandia National Laboratories]] — Referenced in relation to atomic energy commission classification standards used to gatekeep UFO legacy programs
+- [[Office of Secure Transportation (OST)]] — Believed to be utilized for UFO material transport between secure facilities
+- [[NSA Special Response Teams (SRTs)]] — DOE/NSA units believed to be used for UFO retrieval missions alongside NEST
+- [[7th Army]] — Possibly the origin of the men in black fatigues who intercepted Marines at the Peru crash site
+- [[Majestic 12]] — Alleged secret group Colonel Wilson claimed to be assigned to in 1963, tasked with UFO surveillance, interdictions, retrievals, and analysis
+- [[Delta Force]] — Colonel Wilson allegedly underwent special training with Delta Force as part of MJ12-related duties
+- [[First Special Forces Air Command]] — Unit Colonel Wilson was assigned to as part of his MJ12-related duties
+- [[CIA]] — Men with CIA credentials allegedly reassigned Wilson to Area S4 around 1972
+- [[OGA]] — Referenced in context of the crash retrieval operation deployment
+- [[Department of Defense]] — Parent organization referenced in context of UAP legacy programs and use of advanced aerospace platforms
+- [[Sandia National Laboratories]] — Cited by Fuché as having developed a reverse-engineered magnetic field disruptor
+- [[Lawrence Livermore National Laboratory]] — Cited alongside Sandia as having developed reverse-engineered MFD technology related to TR3B
+- [[Lockheed Martin]] — Referenced as having radar cross-section facilities built primarily underground to protect from Soviet and American intelligence
+- [[Northrop Grumman]] — Referenced alongside Lockheed as having underground radar cross-section facilities for advanced black projects
+- [[AARO]] — Borland suggested AARO has answers regarding the origin of the triangular craft he observed
+- [[NSA]] — Suspected by narrator of operating the triangular craft observed by Borland for ISR purposes
+- [[NRO (National Reconnaissance Office)]] — Alleged operator of reverse engineered anti-gravity vehicles including the XH Shark, per Colonel Steve Wilson
+- [[Teledyne Ryan]] — Contractor accused of working on TR3B and allegedly building the XH7D anti-gravity vehicle; later purchased by Northrop Grumman
+- [[Northrop Grumman]] — Purchased Teledyne Ryan; suspected by narrator of involvement in UFO legacy program operations
+- [[DARPA]] — Referenced in context of program protection strategies including the Security and Intelligence Directive (SID) safeguarding sensitive R&D programs
+- [[DARPA Security and Intelligence Directive (SID)]] — Program protection mechanism that safeguards DARPA's high-risk R&D involving sensitive technologies critical to national security
+- [[DARPA Mission Support Office (MSO)]] — Works alongside SID to protect DARPA programs against insider threats, espionage, and foreign influence
+- [[Delta]] — Alleged NRO direct action team assigned anti-gravity helicopters for UFO crash retrieval operations per Colonel Steve Wilson
+- [[CIA]] — Possessor of UFO-related programs and gatekeeping entity; Directorate of Science and Technology involved in UFO legacy programs
+- [[NSA]] — Inman served as director; part of his intelligence career relevant to UFO legacy program oversight
+- [[National Underwater Reconnaissance Office]] — Secretly created in 1969 to consolidate reconnaissance between CIA and Navy; still classified; Inman served as director
+- [[Lockheed Martin]] — Alleged possessor of UFO/non-human materials; subject of Kona Blue transfer attempt blocked by CIA
+- [[Wackenhut Services]] — Inman served as board member; associated with his intelligence and security network
+- [[NASA]] — Bob Echler served as NASA mission specialist and conducted UFO-related inquiry with Inman
+- [[CIA Directorate of Science and Technology]] — Division tied to Glenn Gaffney and Sturdivant's early career; implicated in blocking the technology transfer
+- [[CIA Directorate of Intelligence Technology Transfer Assessment Center]] — Where Sturdivant began her CIA career in 1985, analyzing Soviet acquisition of Western dual-use technology
+- [[CIA Counterintelligence Center]] — Another CIA unit where Sturdivant worked before moving to the SSCI
+- [[Senate Select Committee on Intelligence]] — Sturdivant served here for 8 years evaluating military programs and serving as budget director
+- [[National Security Council (NSC)]] — Sturdivant served as Special Assistant to the President and Senior Director for Intelligence Programs under George W. Bush
+- [[BDM International]] — Sturdivant worked here before government service, conducting defense research and working on technology transfer
+- [[MITRE Corporation]] — Mentioned as one of the entities connected to NRO gatekeepers in the researcher's analysis
+- [[CIA Directorate of Science and Technology]] — CIA Directorate of Science and Technology; claimed in Age of Disclosure to be the controlling body of UFO legacy programs, which the host disputes
+- [[Air Force]] — Listed in the Age of Disclosure outline as one of three branches; host disputes its role via special forces units in crash retrievals
+- [[Raytheon]] — Major defense contractor listed as part of the defense industrial base in the host's legacy program outline
+- [[SAIC]] — Contractor mentioned as part of the legacy program structure below FFRDCs and defense primes
+- [[Dreamland Motel]] — YouTube channel run by Xander Jones; covers UAP topics including the 4chan whistleblower
+- [[Defense Intelligence Agency]] — Thomas Wilson served as deputy director; connected to UAP legacy program access disputes
+- [[Senate Select Committee on Intelligence]] — Allegedly investigated NRO financials between 1992 and 1995 following declassification
+- [[Government Accountability Office]] — Allegedly investigated NRO financials in conjunction with SSCI between 1992 and 1995
+
+## Concepts
+- [[IMINT (Imagery Intelligence)]] — Intelligence gathered through imagery, including aerial photography and satellite reconnaissance; a core capability of the NRO.
+- [[SIGINT (Signals Intelligence)]] — Intelligence gathered by intercepting signals, such as radar emissions; collected by NRO platforms like the Poppy satellites.
+- [[ELINT (Electronic Intelligence)]] — A subset of signals intelligence focused on electronic emissions; gathered by NRO assets from the Soviet Union.
+- [[Synthetic Aperture Radar]] — Radar imaging technology used to collect the world's first radar imagery from orbit via the NRO's Quill satellite in 1964.
+- [[Keyhole Program]] — NRO code word for their photo reconnaissance satellite program, including the KH-11 Kenon satellite launched in 1976.
+- [[Near Real-Time Photo Transfer]] — Technology achieved in 1976 allowing surveillance photography to be electronically transmitted to Earth rather than physically recovered.
+- [[UFO Legacy Program]] — Alleged deep, classified program involving recovery and study of UAP/UFO technology, referenced in connection with Richard Bissell and Harold Malmgren.
+- [[Immaculate Constellation (IMCON)]] — A US Special Access Program established in 2017 to surveil nonhuman craft and derivative technologies including alien reproduction vehicles; considered a reactionary program, not a legacy UFO program.
+- [[NRO Sentient]] — An NRO AI-driven intelligence collection and analysis program; development began in 2010 with core buildout in 2016, believed to be heavily relied upon by IMCON.
+- [[UFO Legacy Programs]] — Long-standing classified programs estimated to have existed for at least 80 years, siloed since at least 1947, focused on retrieving, storing, and exploiting technologies of unknown origin.
+- [[Alien Reproduction Vehicle (ARV)]] — Derivative technologies reverse-engineered or based on nonhuman craft, referenced as targets of IMCON surveillance.
+- [[Compartmentalization]] — The practice of siloing access to classified programs so that personnel within the same agency are unaware of other programs, illustrated by IMCON and UFO legacy program structures.
+- [[USAP (Unacknowledged Special Access Program)]] — Highly classified programs with restricted access and oversight; both IMCON and UFO legacy programs are described as USAPs.
+- [[OPIR (Overhead Persistent Infrared)]] — Space-based sensor systems used for persistent surveillance; cited as the collection platform that recorded a large disc UAP over Indo-Pacific Command.
+- [[Tasked vs. Non-Tasked NRO Satellite Constellations]] — Both intentionally directed and incidentally collecting NRO satellites are cited as primary sources for IMCON intelligence.
+- [[Feudalistic Dominance]] — Described as the expressed purpose of UFO legacy programs, seeking asymmetrical warfare advantages through exploitation of unknown technologies.
+- [[Overhead Collection]] — Intelligence gathered from satellites and aerial platforms; Grusch reviewed such imagery at NGA that he could not explain
+- [[Crash Retrieval Teams]] — Specialized rapid reaction teams allegedly dedicated to recovering downed UAPs worldwide, potentially managed by UFO legacy programs
+- [[Alien Reproduction Vehicle (ARV)]] — Derivative technologies allegedly reverse-engineered from UAPs; believed to be used in live ISR missions
+- [[NRO Sentient Program]] — An NRO overhead intelligence collection system alleged to potentially capture UAP crash site imagery
+- [[Security Control System]] — An alleged unauthorized system within US national security space that Jim Shell claims is supplanting Space Force and Space Command authority
+- [[Space Domain Awareness]] — The mission of tracking and monitoring objects in orbital space; alleged to be interfered with by an unauthorized control system
+- [[ISR (Intelligence, Surveillance, and Reconnaissance)]] — Intelligence-gathering missions; the NRO is believed to potentially use ARVs for live ISR operations
+- [[Congressional Oversight]] — Legislative oversight mechanisms; Grusch expressed confusion as to why UAP imagery data has been withheld from Congress
+- [[Rapid Reaction Teams]] — Military units believed to be deployed quickly to UFO crash sites for retrieval and securing of debris and personnel transport.
+- [[Mission-Oriented Protective Posture (MOPP Gear)]] — Protective equipment including gas masks and rubber suits worn by personnel at the Peru crash site, suggesting radiological or chemical hazard protocols.
+- [[Transcl Classified Foreign Nuclear Information]] — An atomic energy commission classification standard identified as a method used to gatekeep UFO legacy program information from declassification.
+- [[Special Nuclear Material]] — A classification category believed to be used to keep UFO-related materials and data outside traditional oversight and declassification channels.
+- [[Foreign Intelligence Information (FII)]] — Non-contract foreign intelligence information classification used alongside other standards to protect UFO legacy program data.
+- [[UFO Crash Retrieval Rapid Reaction Team]] — An alleged specialized team operating during the 21st century tasked with responding to UFO crashes, securing debris, and conducting initial CBR risk assessment.
+- [[CBR Risk Assessment]] — Chemical, Biological, and Radiological risk assessment conducted at UFO crash sites as part of retrieval operations.
+- [[Delta Detachment]] — A company-sized element of parallel tier 1 units, 20-40 personnel, alleged to be first on scene to secure UFO crash areas dressed in all black.
+- [[Light Absorption]] — A physical property observed on the alleged craft in Peru; the object did not cast a shadow despite direct sunlight and appeared to absorb light rather than reflect it.
+- [[Crash Retrieval Task Force]] — A clandestine task force comprised of tier 1 military assets, operating outside traditional IC or DoD oversight, specifically tasked with UFO crash retrievals.
+- [[Nesting Doll Design]] — A structural feature reportedly found inside recovered egg-shaped craft, where layers of objects exist one inside another, described as ubiquitous across multiple crash retrieval accounts.
+- [[Umbrella Authority]] — A supra-organizational authority allegedly directing the crash retrieval task force, siloed from traditional oversight channels, possibly the NRO.
+- [[Blunt Impact Crash Site]] — A crash site pattern described as showing only blunt impact trauma with no fire or explosion damage, likened to a large bowling ball dropped from space.
+- [[Soupy Air Effect]] — A reported phenomenon near crash sites described as the air feeling like the space between two magnets, noted by the crew chief.
+- [[Oblong Sphere Craft]] — A recovered craft roughly the size of a sedan, oblong and spherical in shape, fractured possibly from impact, with a nesting doll internal structure.
+- [[DD214]] — Military separation document; Colonel Wilson's alleged DD214 was reprinted by Boland but without photographic evidence, leaving his service record unverified.
+- [[Alien Reproduction Vehicle (ARV)]] — Copycat or derivative technical vehicles based on non-human technology, also nicknamed the 'flux liner' due to use of high voltage electricity; some reportedly hovered without visible support.
+- [[Flux Liner]] — Nickname for alien reproduction vehicles that reportedly use high voltage electricity as a propulsion or levitation mechanism.
+- [[TR3B]] — A reported secret US aerospace vehicle alleged by Edgar Fuché to be a reverse-engineered alien reproduction vehicle featuring a circular plasma field accelerator ring and magnetic field disruptor.
+- [[Magnetic Field Disruptor (MFD)]] — A reverse-engineered device allegedly developed by Sandia and Livermore Laboratories, described as part of the TR3B's propulsion system surrounding a rotatable crew compartment.
+- [[Full Spectrum Dominance]] — Military concept of achieving superiority across all domains; cited as the goal of mastering non-human technologies for warfare.
+- [[Deep Underground Military Bases (DUMBs)]] — Numerous underground facilities across the continental US built partly to hide sensitive black projects from Soviet and domestic ISR capabilities.
+- [[RDT&E]] — Research, Development, Testing and Evaluation stage; referenced as the likely current phase of alien reproduction vehicle programs.
+- [[Non-Human Technology]] — Technology of unknown or non-human origin allegedly retrieved and studied by legacy UAP programs for potential military adaptation.
+- [[Intelligence Surveillance and Reconnaissance (ISR)]] — Intelligence-gathering activities from space or air; central to the NRO's mission and proposed application of ARV platforms.
+- [[Immaculate Constellation]] — A referenced UAP-related document or program involving adversarial equilateral triangle craft observed over INDOPACOM.
+- [[Sentient]] — Referenced alongside Immaculate Constellation as a valuable ISR platform supporting the NRO's space-based intelligence mission.
+- [[Secret Cold War over Non-Human Technology]] — Alleged ongoing covert competition between the US, Russia, and China to master and weaponize recovered non-human technology.
+- [[Legacy Programs]] — Longstanding covert UAP-related programs within the US government alleged to control retrieved craft and exotic technologies.
+- [[Crash Retrieval]] — The act of recovering downed UAP craft, potentially in denied or adversarial regions before foreign nations can access them.
+- [[Active Camouflage]] — A suspected technology that may explain how the triangular craft appeared around a light source; narrator believes it is derived from nonhuman intelligence.
+- [[Alien Reproduction Vehicle (ARV)]] — A hypothetical human-built craft that reverse engineers and adapts technologies recovered from nonhuman craft.
+- [[Anti-Gravity Vehicle]] — Alleged craft built using exotic recovered technologies, such as the XH7D, capable of flight without conventional propulsion.
+- [[Special Access Programs  Unacknowledged Special Access Programs  Controlled Access Programs]] — Classified US government program tiers used to conceal sensitive activities, including alleged UFO retrieval and reverse engineering programs.
+- [[Mother of Pearl Effect]] — A visual phenomenon used to describe the shimmering green and purple field observed around the craft during the Peru crash retrieval.
+- [[Technological Surprise]] — DARPA's stated primary mission goal of creating unexpected technological advantages for US national security.
+- [[Recovered Non-Human Craft]] — Claims that the US government possesses multiple non-human craft in operational condition, not crashed vehicles, suggesting possible gifting or acquisition.
+- [[Kona Blue]] — A program/PAP allegedly related to transferring recovered non-human materials from Lockheed Martin to government research programs; considered a critical paper trail.
+- [[National Secrecy Laws]] — Legal framework cited as covering UFO-related information, preventing disclosure of recovered craft and related programs.
+- [[Technological Research on Recovered Craft]] — The concept of making recovered UFO vehicles available for scientific and technological research outside of military control.
+- [[Deep Sea Mining Cover Operation]] — The Glomar Explorer's stated mission of deep sea mining was a cover for recovering a Soviet submarine, illustrating CIA covert operational methods.
+- [[Kona Blue Technology Transfer]] — An attempted transfer of allegedly recovered non-human materials that was reportedly thwarted in 2010/2011, allegedly blocked by CIA DS&T Deputy Director Glenn Gaffney.
+- [[NRO Gatekeepers]] — A research project identifying 13 individuals with NRO, CIA, and related agency connections believed to be involved in controlling UAP legacy program access.
+- [[Dual-Use Technology]] — Technology with both civilian and military applications; Sturdivant analyzed Soviet acquisition of Western dual-use technology early in her CIA career.
+- [[Recovered Non-Human Materials]] — Alleged physical materials of non-human origin that are the subject of UAP legacy program research and the focus of the Kona Blue saga.
+- [[Once Agency Always Agency]] — The assertion that former CIA officers retain loyalty and obligations to the agency even after leaving for other roles, used to explain Sturdivant's alleged conflict of interest.
+- [[Siloed Programs]] — The concept that UFO legacy programs operate independently with their own oversight channels, administrators, and access restrictions rather than under one unified authority
+- [[FFRDC (Federally Funded Research and Development Centers)]] — Government-affiliated research entities the host considers critical intermediaries in the legacy program structure
+- [[GOCO (Government-Owned, Contractor-Operated)]] — Facilities owned by the government but operated by contractors; the host views these as a critical piece of legacy programs providing non-traditional oversight
+- [[Non-Traditional Oversight Channels]] — The host's argument that legacy programs are not unmonitored but rather use unconventional oversight structures distinct from standard congressional or inspector general oversight
+- [[Crash Retrievals]] — Operations to recover downed UAP craft; the host disputes that Air Force special forces units are the primary actors in these operations
+- [[TR-3B]] — Alleged classified triangular aircraft associated with UAP lore; referenced as the title of an exclusive music track made for the video
+- [[Rogue Programs]] — Legacy programs that may have lost internal government control after 1989 and potentially operated independently within corporations without proper oversight
+- [[Tier 1 Units]] — Elite special operations military units alleged to be involved in UAP retrieval operations under a separate siloed authority
+- [[Legacy Program Hierarchy]] — The host's proposed pyramid structure of UAP program control, from a top-level rotating authority figure down through administrators, FFRDCs, and defense contractors
+- [[Carryover Funds]] — A method described as misappropriation where unspent fiscal year funds are rolled over to the same or different projects the following year.
+- [[Wilson Davis Notes]] — A document describing Vice Admiral Thomas Wilson being stonewalled from accessing UFO legacy programs; speaker believes the core facts are true.
+- [[Legacy Program Gatekeepers]] — High-level personnel who control access to classified UFO-related programs, alleged to have direct ties to the NRO.
+
+## Events & Dates
+- [[U2 Spy Plane Shootdown]] — Soviet Union shot down a US U2 spy plane, creating a national embarrassment and directly prompting President Eisenhower to establish the NRO.
+- [[NRO Founding]] — National Reconnaissance Office established to consolidate Air Force and CIA reconnaissance activities under one central office.
+- [[NRO Settles into Joint DoDIC Role]] — By 1962 the NRO established its modern structure with the Director appointed by the Secretary of Defense and Deputy Director by the CIA.
+- [[Poppy Reconnaissance Satellites Launch]] — NRO worked with Naval Research Laboratory to launch Poppy SIGINT satellites that detected Russian radar signals.
+- [[First Radar Imagery from Orbit]] — NRO gathered the world's first radar imagery from orbit using synthetic aperture radar via a satellite codenamed Quill.
+- [[KH-11 Kenon Satellite Launch]] — NRO launched the KH-11 Kenon satellite, enabling near real-time electronic transmission of high-resolution surveillance photography to Earth.
+- [[Corona Program Declassification]] — The top secret Corona spy satellite program was declassified, revealing its role in high-resolution reconnaissance from 1960 onward.
+- [[1933 Magenta UFO CrashRetrieval]] — Alleged UFO crash in Magenta, Italy, which Richard Bissell reportedly confirmed to Harold Malmgren as real.
+- [[Establishment of Immaculate Constellation (IMCON)]] — IMCON was established as a reactionary US Special Access Program to monitor nonhuman craft and derivative technologies
+- [[NRO Sentient Core Buildout]] — The core infrastructure of NRO Sentient was built out in 2016, closely preceding the establishment of IMCON
+- [[NRO Sentient Development Begins]] — Development of the NRO Sentient AI collection program began in 2010
+- [[Congressional UFO Inquiries Established]] — Senators Marco Rubio and Kirsten Gillibrand established congressional inquiries to investigate UFOs and UFO legacy programs
+- [[UFO Legacy Programs Siloed]] — UFO legacy programs are said to have been compartmentalized and siloed since at least 1947
+- [[Large Disc UAP Recorded over Indo-Pacific Command]] — A space-based OPIR platform recorded a saucer-shaped craft 210-420 ft in diameter using clouds as concealment over INDOPACOM; the craft reversed direction upon apparently detecting observation
+- [[David Grusch Congressional Testimony]] — Grusch testified before Congress about reviewing unexplained overhead imagery at NGA and declined to discuss crash site imagery in open session
+- [[Jim Shell LinkedIn Post – Time to Speak Up]] — Shell publicly alleged an unauthorized security control system was interfering with US Space Force and Space Command missions and connected it to UAP activity
+- [[Christopher Sharp Liberation Times Article]] — Article on failed UFO transparency legislation and UAP crash retrieval programs; initially redacted agency names then reposted with slight alterations
+- [[Grusch departure from NGA]] — Grusch left NGA in April, marking his information cutoff date for knowledge of UAP imagery collected there
+- [[Jonathan Wagant UFO Crash Testimony]] — USMC Lance Corporal Jonathan Wagant testified about encountering a large egg-shaped UFO embedded in rock during Operation Laser Strike in Peru
+- [[Peru UFO Crash Incident]] — Marines during Operation Laser Strike encountered a crashed egg-shaped UFO; they were held at gunpoint by men in black fatigues while DOE personnel in MOPP gear secured the site
+- [[New Witness Testimony Contact]] — Narrator made contact with an individual claiming to have served on a UFO crash retrieval rapid reaction team during the 21st century, allegedly based at the Nevada National Security Site
+- [[UFO Crash Retrieval Operation (Konis)]] — A classified operation involving tier 1 military assets at Konis, confirmed by the running chief as a crash retrieval of an object 'not one of ours.'
+- [[Colonel Wilson Assignment to Majestic 12]] — Wilson claimed to be assigned to Majestic 12 as a captain in a tactical fighter squadron out of Wright Patterson Air Force Base.
+- [[Colonel Wilson Reassignment to Area S4]] — Wilson was allegedly reassigned from First Special Forces Air Command at Vandenberg AFB to Area S4 near Papoose Lake by men with CIA credentials.
+- [[Collection of Wilson's Testimony]] — UFO researcher Richard Boland collected Colonel Wilson's disclosures in 1996/1997 shortly before Wilson's death.
+- [[Egg-Shaped Craft Crash in CentralSouth America]] — A witness encountered a crashed egg-shaped craft in Central or South America, reporting only blunt impact trauma at the site, consistent with other retrieval accounts.
+- [[Edgar Fuché Disclosure of TR3B]] — Master Sergeant Edgar Fuché publicly disclosed alleged knowledge of the TR3B alien reproduction vehicle and reverse-engineered magnetic field disruptor technology.
+- [[Exhibit Featuring Three Hovering Discs]] — A staff member in Congressman Brown's office confirmed an exhibit displaying three discs hovering off the floor without visible support, referred to as alien reproduction vehicles.
+- [[Borland's Triangular Craft Sighting]] — Borland observed a large equilateral triangular craft approximately 100 feet in front and above him; it had black metallic paint, a gold plasma-like field, and four lights before shooting upward silently.
+- [[Peru UFO Crash Retrieval]] — Lance Corporal Jonathan Wagant allegedly observed the crash retrieval of a large egg-shaped craft in Peru that had a shimmering green and purple field around its skin.
+- [[Inman-Echler Telephone Call]] — Admiral Inman told NASA's Bob Echler that CIA DS&T Deputy Director Everett Heinman was the best person to ask about recovered UFO vehicles being made available for research
+- [[Heinman-Echler Meeting at CIA Langley]] — Heinman denied any knowledge of UFOs or UFO legacy programs during the meeting
+- [[RGH_UFOs Contact with Heinman]] — Twitter user RGH_UFOs contacted Heinman about Inman's comments; Heinman did not deny knowledge but said he was far removed from that area of work
+- [[NURO Creation]] — National Underwater Reconnaissance Office secretly created to consolidate CIA and Navy reconnaissance efforts
+- [[Glomar Explorer Operation  Soviet Submarine K-129 Recovery]] — One of NURO's first operations; CIA used the Glomar Explorer to covertly recover wreckage of Soviet submarine K-129 from the ocean floor
+- [[Inman Appointment as Director of Naval Intelligence]] — Inman became Director of Naval Intelligence and simultaneously served as Director of NURO
+- [[Kona Blue Technology Transfer Attempt]] — An attempted transfer of recovered non-human materials that was allegedly blocked by CIA DS&T Deputy Director Glenn Gaffney, possibly with Sturdivant's involvement.
+- [[Sturdivant Joins CIA]] — Mary Sturdivant began her CIA career at the Directorate of Intelligence's Technology Transfer Assessment Center.
+- [[Sturdivant Appointed to NSC]] — Appointed as Special Assistant to the President and Senior Director for Intelligence Programs under George W. Bush.
+- [[Sturdivant Serves as NRO Deputy Director]] — Named NRO Deputy Director for National Support, serving from 2004 to 2006.
+- [[Sturdivant Joins Lockheed Martin]] — Sturdivant became Lockheed Martin VP of Government Affairs from 2006 to 2011, then VP of Intelligence, Joint, and Science and Technology Programs.
+- [[Channel Reaches 100,000 Subscribers]] — The YouTube channel hosted by Gerb reached 100,000 subscribers during the production of this video.
+- [[David Grusch Goes Public]] — David Grusch publicly disclosed information about UAP legacy programs, which the channel creator cites as a mission he aims to contribute to.
+- [[Age of Disclosure Documentary Release]] — A UAP documentary released on 21st November featuring Luis Elizondo and Eric Davis outlining legacy program structures that the host disputes
+- [[September Hearings]] — UAP-related congressional or public hearings attended by the channel host and associates including Xander Jones
+- [[1989 Legacy Program Contractor Handback]] — Eric Davis claimed that in 1989, contractors were instructed to return UAP materials and program elements to the US government due to lack of progress
+- [[NRO Declassification]] — The National Reconnaissance Office was publicly declassified, triggering congressional financial investigations.
+- [[NRO Financial Scandal]] — NRO was found to have a 300-400% cost overrun on its headquarters and billions in improper carryover funds.
+- [[SSCI and GAO Investigation of NRO Finances]] — Senate Select Committee on Intelligence and GAO investigated NRO financials, potentially uncovering UAP-related programs.
+- [[Wilson Davis Meeting]] — Vice Admiral Thomas Wilson was allegedly stonewalled when attempting to access UFO legacy programs, as documented in the Wilson Davis notes.
+
+## Operations
+- [[Corona Program]] — Top secret spy satellite project launched in 1960 that photographed denied airspace on film and physically ejected capsules for mid-air recovery by US assets; declassified in 1995.
+- [[A12 Oxcart ISR Missions]] — The NRO operated the A12 Oxcart in 1962 as the successor to the U2 for intelligence, surveillance, and reconnaissance missions.
+- [[Poppy Reconnaissance Satellite Program]] — SIGINT satellite program launched in 1962 in partnership with the Naval Research Laboratory to detect Soviet radar signals.
+- [[Project Quill]] — NRO satellite program that collected the world's first radar imagery from orbit using synthetic aperture radar by 1964.
+- [[Immaculate Constellation (IMCON)]] — A USAP collection mission established in 2017 to gather imagery intelligence on nonhuman craft and alien reproduction vehicles using NRO satellite assets and OPIR systems
+- [[UFO Crash Retrievals (160th SOAR 1st Battalion)]] — The first battalion of the 160th Special Operations Aviation Regiment is cited as involved in UFO crash retrieval operations, unknown to other battalions
+- [[Corona]] — Historical NRO overhead satellite reconnaissance program cited as an early collection system potentially used to monitor UAP activity
+- [[NRO Sentient]] — NRO overhead intelligence collection program alleged to potentially capture UAP crash site imagery and feed data to legacy UAP programs
+- [[Operation Laser Strike]] — Aerial counter-narcotics program conducted in Peru during which Lance Corporal Jonathan Wagant encountered an egg-shaped UFO crash site
+- [[Crash Retrieval Task Force Operations]] — A covert task force of tier 1 assets conducted at least three crash retrieval operations; in two, the crew chief did not know what was recovered; in the third, an oblong sphere was retrieved.
+- [[Immaculate Constellation]] — A UAP-related program or document referencing adversarial equilateral triangle craft observed over the Indo-Pacific Command region.
+- [[UFO Crash Retrieval Operations (NRODelta)]] — Alleged operations conducted by the NRO's direct action team Delta using XH7D anti-gravity helicopters to retrieve crashed UFOs, per Colonel Steve Wilson.
+- [[Glomar Explorer Operation]] — CIA and NURO covert operation in 1972 to recover Soviet submarine K-129 from the ocean floor, disguised as a deep sea mining mission
+- [[Kona Blue PAP]] — Alleged program to transfer recovered non-human materials from Lockheed Martin's OAP to government/AATIP research; reportedly blocked by CIA DS&T Deputy Director Glenn Gaffney
+- [[Kona Blue]] — An alleged program or initiative involving the transfer of recovered non-human materials, the attempted transfer of which was reportedly blocked in 2011 by CIA officials.
+- [[NRO Gatekeepers Project]] — A research project by the channel creator identifying 13 individuals connected to the NRO and related agencies believed to be gatekeepers of UAP legacy programs.
+- [[UFOUAP Crash Retrievals]] — Alleged paramilitary operations using Tier 1 military assets to retrieve downed UAP craft; the host argues these fall under a siloed umbrella authority, not specifically JSOC or Air Force special forces
+
+## Locations
+- [[Magenta, Italy]] — Site of an alleged 1933 UFO crash confirmed by Richard Bissell to Harold Malmgren.
+- [[Soviet Union]] — Primary adversary and target of NRO reconnaissance operations during the Cold War.
+- [[Indo-Pacific Command (INDOPACOM)]] — Location where a large disc-shaped UAP was recorded using cloud cover as concealment by a space-based OPIR platform
+- [[Peru]] — Location of the alleged 1997 UFO crash encountered by USMC personnel during Operation Laser Strike
+- [[Nevada National Security Site (Nevada Test Site)]] — Alleged base of operations for the UFO crash retrieval rapid reaction team described by the new witness
+- [[Konis]] — Location where C130s transported personnel during the UFO crash retrieval operation.
+- [[Virginia]] — Home location of the troop chief, who had been there less than one week before appearing unexpectedly at the operation.
+- [[Area S4]] — Underground facility near Papoose Lake south of Area 51 where Colonel Wilson allegedly witnessed eight kinds of non-human craft on the 30th underground floor.
+- [[Papoose Lake]] — Located south of Area 51, site of the alleged Area S4 underground facility.
+- [[Wright Patterson Air Force Base]] — Base where Colonel Wilson was stationed in 1963 when allegedly assigned to Majestic 12.
+- [[Vandenberg Air Force Base]] — Location of First Special Forces Air Command where Wilson was stationed before reassignment to Area S4.
+- [[Central or South America]] — Region where a witness reportedly encountered a crashed egg-shaped craft with only blunt impact damage.
+- [[Continental United States]] — Location of numerous deep underground military bases built to conceal advanced and exotic black projects from Soviet ISR capabilities.
+- [[Langley]] — Narrator references Langley as a possible origin point for the triangular craft observed by Borland, potentially linking it to CIA operations.
+- [[CIA Headquarters, Langley, Virginia]] — Site of the August 1989 meeting between Heinman and Echler regarding UFO legacy programs
+- [[United Kingdom]] — Location of Admiral Lord Hill Norton, who facilitated contact with Inman
+
+## Key Claims
+- The NRO was founded to consolidate reconnaissance activities between the US Air Force and the CIA following the 1960 U2 spy plane shootdown.
+- Richard Bissell Jr., first co-director of the NRO, allegedly confirmed the validity of the 1933 Magenta, Italy UFO crash to Harold Malmgren.
+- Harold Malmgren claimed Richard Bissell briefed him on otherworldly technologies and that the US had offensively downed UFOs in maritime settings.
+- The author believes Harold Malmgren was likely a CIA officer himself, which explains inconsistencies in his work history.
+- The NRO's Corona program, declassified in 1995, was a top secret spy satellite project that physically ejected film capsules for mid-air recovery.
+- In 1976, the NRO achieved near real-time electronic photo transfer from orbit with the launch of the KH-11 Kenon satellite.
+- The NRO gathered the world's first radar imagery from orbit in 1964 using a satellite codenamed Quill equipped with synthetic aperture radar.
+- The intelligence community has found ways to fund itself beyond what is visible in official budgets, according to Harold Malmgren's account of Bissell's statements.
+- Immaculate Constellation (IMCON) is a reactionary USAP established in 2017, not a UFO legacy program, designed to surveil nonhuman craft and alien reproduction vehicles.
+- IMCON relies heavily on NRO Sentient, an AI-driven intelligence collection program whose core buildout occurred in 2016.
+- UFO legacy programs have existed for at least 80 years and have been siloed since at least 1947, operating with parallel oversight and likely trillions of dollars in funding.
+- IMCON was also established as a countermeasure to assess the technological maturity of UFO legacy program assets, both foreign and domestic.
+- The NRO is believed to be involved in both UFO legacy programs and IMCON, but through separate, siloed personnel groups that do not interact.
+- A space-based OPIR platform recorded a saucer-shaped craft between 210 and 420 feet in diameter over INDOPACOM that appeared to detect it was being observed and reversed direction back into cloud cover.
+- The 160th SOAR first battalion is involved in UFO crash retrievals while other battalions within the same regiment are unaware of this involvement.
+- IMCON intelligence consists primarily of high-quality imagery intelligence with collateral data on both UFOs and alien reproduction vehicles sourced from NRO satellite constellations.
+- The CIA's Directorate of Science and Technology participates in UFO legacy programs while the Directorate of Digital Innovations is likely unaware of such programs, demonstrating compartmentalization.
+- The establishment of IMCON likely parallels the 2017 congressional inquiries by Senators Rubio and Gillibrand into UFOs and UFO legacy programs.
+- David Grusch reviewed overhead imagery from NGA and other strategic and tactical platforms depicting phenomena he could not explain, even with a physics degree.
+- Grusch declined to discuss in open session whether overhead imagery captures UAP crash sites.
+- Grusch and the narrator assert that UAP data and imagery has been improperly withheld from congressional oversight.
+- IMCON was established in 2017 as a reactionary program and is distinct from UFO legacy programs that have operated since the 1940s–1950s.
+- The narrator believes UAP crash site imagery from NRO/NGA platforms has historically been siphoned off to UFO legacy programs rather than shared with IMCON.
+- Jim Shell alleged with high confidence that a security control system is supplanting US Space Force and Space Command authority and interfering with space domain awareness missions.
+- Jim Shell alleged with medium confidence that funds have been misappropriated and that there is a connection to UAP activity.
+- The narrator believes the NRO is likely the first US agency equipped with derivative alien technology or ARVs for live ISR missions.
+- The narrator claims to have spoken with a firsthand witness who served on a UAP retrieval team with multiple missions.
+- Multiple UAP programs are alleged to be orchestrated by the CIA's Directorate of Science and Technology.
+- The 160th Special Operations Aviation Regiment (Nightstalkers) utilizes CH47s and MH47s to transport crash retrieval personnel and recover UFO vehicles.
+- In 1997, USMC Lance Corporal Jonathan Wagant encountered a large egg-shaped UFO crash in Peru during Operation Laser Strike.
+- The crashed UFO observed by Wagant absorbed light and cast no shadow despite direct sunlight.
+- Men in black fatigues with no insignia intercepted Marines at the Peru crash site and held them at gunpoint while DOE personnel in MOPP gear secured the area.
+- The DOE's Nuclear Emergency Support Team (NEST) is believed to be the direct response scientific unit for UFO crash retrieval.
+- Atomic energy commission classification standards including transcl classified foreign nuclear information and special nuclear material are used to keep UFO legacy program data from declassification.
+- A new witness claims to have served on a UFO crash retrieval rapid reaction team during the 21st century based at the Nevada National Security Site.
+- The alleged crash retrieval team included a Delta detachment of 20-40 tier 1 personnel who secured crash sites before other teams deployed.
+- The NRO is alleged to be the actual focal point of UFO crash retrieval operations according to the new witness testimony.
+- A crash retrieval task force comprised of tier 1 military assets operates outside traditional IC and DoD oversight channels.
+- The chief running the OGA deployment admitted the operation was a crash retrieval of an object that was 'not one of ours.'
+- The recovered craft was an oblong sphere roughly the size of a sedan with a nesting doll internal design.
+- The crash site showed only blunt impact damage with no fire, described as similar to a large bowling ball dropped from space.
+- The air near the crash site was described as 'soupy,' like the space between two magnets.
+- Upon retirement, the crew chief was told by his task force superior that retrieved assets were of unknown origin and confirmed not human-made.
+- The National Reconnaissance Office is alleged to be the umbrella authority directing the UFO crash retrieval task force.
+- Colonel Wilson claimed to have been assigned to Majestic 12 in 1963 and later witnessed eight kinds of non-human craft at Area S4.
+- The nesting doll structural feature of egg-shaped craft is reportedly consistent across multiple crash retrieval accounts.
+- Colonel Wilson's claimed 40-year DoD and IC background has not been definitively proven due to lack of verifiable documentation.
+- The National Reconnaissance Office is proposed as a vanguard agency to deploy alien reproduction vehicles or derivative non-human technologies.
+- A staff member in Congressman Brown's office confirmed an exhibit featuring three discs hovering without visible support, referred to as alien reproduction vehicles or flux liners.
+- David Grusch stated there is a secret cold war between the US and adversaries Russia and China to master non-human technology for full spectrum warfare dominance.
+- Deep underground military bases across the US were built partly to hide advanced exotic projects from Soviet ISR capabilities.
+- Edgar Fuché claimed in 1998 that Sandia and Livermore Laboratories developed a reverse-engineered magnetic field disruptor as part of the TR3B vehicle.
+- Alien reproduction vehicles may possess capabilities including no radar or visual signature, extreme acceleration, and ability to operate in atmosphere, underwater, and microgravity.
+- The secrecy surrounding UFO legacy programs is driven by feudalistic dominance and the pursuit of asymmetric warfare advantages.
+- Obtuse secrecy around non-human technology is described by Grusch as putting the US in a dangerous position if an adversary makes a breakthrough first.
+- Borland witnessed a large equilateral triangular craft that hovered 100 feet in front of and above him, caused his phone to overheat and freeze, and shot upward silently after its center light flashed.
+- Borland stated that knowing what he now knows, the answer to the craft's origin can only be given in a SCIF, and directed questioners to AARO for answers.
+- The narrator believes the triangular craft is a human-constructed airframe likely inspired by or harnessing nonhuman propulsion principles, but that its electrooptic cloaking system was derived from nonhuman intelligence.
+- The gold, lava-like plasma field observed on top of Borland's triangular craft is believed by the narrator to be a byproduct of an active camouflage or electrooptic cloaking system.
+- The narrator draws a parallel between the flowing field on Borland's craft and the shimmering green and purple field observed by Jonathan Wagant on an egg-shaped craft during a 1997 Peru crash retrieval.
+- Colonel Steve Wilson claimed that Teledyne Ryan built an anti-gravity vehicle called the XH7D (XH Shark) based on recovered exotic technologies, assigned to the NRO for crash retrieval operations.
+- The narrator suspects the CIA, NSA, and NRO operated the triangular craft observed by Borland for ISR purposes.
+- DARPA's Security and Intelligence Directive (SID) and Mission Support Office (MSO) are identified as program protection mechanisms used to maintain secrecy around sensitive technologies including alleged UFO legacy programs.
+- Admiral Bobby Ray Inman told NASA mission specialist Bob Echler in 1989 that the US government possessed recovered UFO hardware in operational condition.
+- Everett Heinman, CIA DS&T Deputy Director, was identified by Inman as the best person to ask about recovered UFO vehicles being made available for technological research.
+- Heinman denied knowledge of UFOs in a 1989 CIA meeting but gave an ambiguous non-denial response when contacted in 2022.
+- Bobby Ray Inman secretly directed the National Underwater Reconnaissance Office (NURO), a still-classified agency created in 1969.
+- CIA DS&T Deputy Director Glenn Gaffney allegedly blocked the transfer of Lockheed Martin UFO/non-human materials to the Kona Blue program.
+- The recovered non-human craft held by the US government were reportedly in operational condition, suggesting they were not crash retrievals but possibly gifted or acquired intact.
+- Kona Blue is described as one of the most critical paper trails of recovered non-human materials in existence.
+- Mary K. Sturivant, Lockheed Martin VP, is identified as a possible co-conspirator in blocking UFO material transfers.
+- The Glomar Explorer's deep sea mining operation was a cover story for the covert recovery of Soviet submarine K-129 by CIA and NURO.
+- The Kona Blue saga is described as one of the most critical paper trails of recovered non-human materials in existence.
+- CIA DS&T Deputy Director Glenn Gaffney allegedly blocked the Kona Blue technology transfer at the behest of the CIA.
+- Mary Sturdivant is identified as a possible co-conspirator in blocking the 2011 Kona Blue technology transfer.
+- Sturdivant's online presence largely disappears after she joined Lockheed Martin, suggesting deliberate obscuring of her activities.
+- Sturdivant likely had a conflict of interest in the transfer due to her deep ties to the CIA's Directorate of Science and Technology.
+- 13 individuals connected to the NRO and related agencies have been identified as highly likely current or former members of legacy programs.
+- Christopher Mellon worked closely with Sturdivant at the SSCI but declined to assist in questioning her about the transfer.
+- The channel creator claims to have received death threats and intimidation as a result of his UAP research activities.
+- The channel creator's stated goal is to uncover UAP legacy programs and contribute to the mission initiated by David Grusch in 2023.
+- The Age of Disclosure documentary's claim that there is one singular UFO legacy program originating from the CIA DS&T is described by the host as a purposeful misdirection and an egregious lie.
+- The host argues there are numerous siloed UFO legacy programs, each with their own oversight channels and program administrators, rather than a single unified program.
+- The NRO is identified by the host as a critical agency integral to UFO legacy programs that was conveniently omitted from the Age of Disclosure outline.
+- The host proposes a pyramid hierarchy for legacy programs with a rotating top-level authority figure (like the late Dick Cheney) who has access across multiple siloed programs.
+- FFRDCs (Federally Funded Research and Development Centers) and GOCO institutions are described as critical components of the legacy program structure with non-traditional oversight roles.
+- Eric Davis stated that in 1989, contractors were supposed to return UAP materials to the US government, but the Age of Disclosure also suggests corporations primarily run these programs, which the host sees as contradictory.
+- The host believes a loss of internal control over some legacy programs in 1989 may have led to rogue corporate programs, specifically implicating Lockheed Martin and Northrop Grumman.
+- Paramilitary UAP retrieval teams use Tier 1 military units under their own siloed umbrella authority, not specifically under JSOC or Air Force special forces command.
+- There is not just one UFO legacy program; multiple legacy programs exist.
+- The NRO has a very deep hand in UFO legacy programs.
+- The Wilson Davis notes are fundamentally true: Vice Admiral Thomas Wilson was stonewalled from accessing UFO legacy programs.
+- The NRO was caught with billions of dollars in carryover funds, a method of misappropriation of funds.
+- High-level UFO legacy program gatekeepers, including Kaminsky, Myerix, and Doug Wolf, have direct ties to the NRO.
+- An audit between 1992 and 1995 by the SSCI and GAO into NRO finances may have nearly unveiled UAP-related programs.
+
+---
+*Source: [YouTube](https://www.youtube.com/watch?v=GM1Qx9vuo2c)*
