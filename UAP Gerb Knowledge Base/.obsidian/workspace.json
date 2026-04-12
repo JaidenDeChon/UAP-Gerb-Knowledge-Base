@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6f295a9f646b4269",
+        "id": "e57aa55284226e06",
         "type": "tabs",
         "children": [
           {
-            "id": "3a6abaf0231805f3",
+            "id": "9d7388eae0b5139c",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -178,8 +178,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "3a6abaf0231805f3",
+  "active": "9d7388eae0b5139c",
   "lastOpenFiles": [
+    "Concepts/Atomic Energy Act of 1954.md",
     "People/Sean Kirkpatrick.md",
     "Videos/Video - The Hidden Wing - US Air Force UFO Reverse Engineering Programs.md",
     "Concepts/Crash Retrieval.md",
@@ -205,7 +206,6 @@
     "Locations/Fort Riley, Kansas.md",
     "Operations/Project Horizon.md",
     "Events/Channel One-Year Anniversary.md",
-    "Events/Trudeau's Retirement.md",
     "_templates",
     "Locations",
     "Operations",

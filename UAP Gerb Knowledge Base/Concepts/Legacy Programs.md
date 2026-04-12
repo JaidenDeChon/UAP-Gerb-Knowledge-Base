@@ -8,6 +8,9 @@ tags:
 
 The alleged legacy program structure involves both government entities and private defense contractors, with the contractor role becoming increasingly dominant over time. [[Northrop Grumman]], [[TRW]], [[Lockheed Martin]], and associated organizations are most frequently cited in alleged connection to legacy program custodianship. Funding is alleged to flow through mechanisms including [[Independent Research and Development (IRAD)]] overcharging, misappropriation of funds from acknowledged programs, back-channeled [[Special Access Programs (SAPs)]], and National Reconnaissance Office carryover appropriations. [[David Grusch]]'s congressional testimony characterized legacy programs as operating entirely outside lawful Congressional oversight, constituting what he described as an illegal unacknowledged special access program structure.
 
+The [[Department of Energy]] and its subordinate institutions represent a distinct tier of the alleged legacy program structure. The DOE's unique classification authority under the [[Atomic Energy Act of 1954]] — which creates a "Restricted Data" category beyond presidential executive order and FOIA reach — is argued to make DOE-hosted programs structurally more insulated from oversight than equivalent programs at the CIA or DoD. The [[Office of Intelligence and Counterintelligence]] (OICI) is specifically alleged to run UAP legacy program operations at DOE [[Federally Funded Research and Development Centers (FFRDCs)|FFRDCs]], including [[Sandia National Laboratories]] and [[Oak Ridge National Laboratory]].
+
 ## Sources
 
 - [[Video - Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2]]
+- [[Video - Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
