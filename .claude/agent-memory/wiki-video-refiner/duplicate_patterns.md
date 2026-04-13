@@ -48,6 +48,15 @@ Speech-to-text transcription generates variant spellings of proper nouns, which 
 - FLYBY video: "Lou Elizondo" → consolidated into "Luis Elizondo" (nickname vs. full name pattern)
 - FLYBY video: "Lieutenant Jacobs" + "Bob Jacobs" → consolidated into "Robert Jacobs" (rank/nickname vs. full name)
 - FLYBY video: "Senate Intelligence Committee" → consolidated into "Senate Select Committee on Intelligence" (shortened vs. formal name)
+- Lockheed Martin video: "Jim Ryder" → consolidated into "James T. Ryder" (informal vs. full name)
+- Herrera Insights video: "Dr. Steven Greer" → consolidated into "Steven Greer" (with honorific vs. without)
+- Herrera Insights video: "Shawn Kirkpatrick" / "Shan Kirkpatrick" → consolidated into "Sean Kirkpatrick" (speech-to-text vowel variants)
+- Herrera Insights video: "Denver" → consolidated into "USS Denver" (missing ship prefix)
+- Herrera Insights video: "The Daily Mail" → consolidated into "Daily Mail" (article prefix variant)
+- Herrera Whistleblower video: "Joey.md" → consolidated into "Joey Is Not My Name" (short name vs. full handle)
+- Herrera Whistleblower video: "Unknown InsiderOperative.md" → consolidated into "The Insider" (generic vs. specific name)
+- Herrera Whistleblower video: "Carl Nell" / "Nell" / "Colonel Nell" → consolidated into "Karl Nell" (name spelling + rank prefix + bare surname variants)
+- Herrera Whistleblower video: Duplicate directory "Michael Herrera UFO Whistleblower (ft. Joeyisnotmyname)" (without dash) deleted — canonical is with dash
 - FLYBY video: "McMinnville UFO Photos" → consolidated into "McMinnville UFO Photographs" (trivial word variation)
 - FLYBY video: Found 14+ SAP duplicate pages — systemic issue flagged for dedicated cleanup
 - METAPOD video: "Lou Elizondo" → already consolidated (caught by FLYBY agent first)

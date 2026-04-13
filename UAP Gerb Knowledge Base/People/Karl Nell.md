@@ -19,3 +19,4 @@ Nell has been associated with the [[Sol Foundation]], an organization bridging s
 
 - [[Video - Alien Reproduction Vehicle - the Testimony of Mark McCandlish]]
 - [[Video - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure]]
+- [[Video - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)]]

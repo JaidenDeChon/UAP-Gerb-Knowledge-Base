@@ -11,8 +11,13 @@ David Grusch is a former U.S. intelligence officer who served at the National Ge
 
 In sworn congressional testimony, Grusch alleged that UAP legacy programs are funded through misappropriation of funds and [[Independent Research and Development (IRAD)]] overcharging by defense contractors, identifying these as the primary mechanisms by which clandestine programs persist outside standard oversight. He specifically noted that the post-9/11 reallocation of defense funds to overseas contingency operations created conditions under which contractors could use IRAD to fund UAP-related work with minimal oversight. Representative Moskowitz directly questioned Grusch about misappropriation mechanisms during the 2023 hearings. Grusch also alleged that [[Northrop Grumman]] is among the contractors involved in UAP legacy program activities, and that personnel networks connecting corporate and government roles have sustained these programs across decades.
 
+## Whistleblower Network
+
+Grusch has been in contact with other UAP whistleblowers including [[Michael Herrera]], who confirmed speaking with Grusch as part of broader disclosure coordination efforts. This suggests Grusch maintains an active role in connecting whistleblowers and facilitating information sharing within the UAP disclosure community even after his public congressional testimony.
+
 ## Sources
 
 - [[Video - Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2]]
 - [[Video - National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers]]
 - [[Video - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs]]
+- [[Video - Michael Herrera - Insights into UAP Encounter and Black Program Insiders]]

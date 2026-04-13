@@ -78,6 +78,29 @@ type: project
 - **AATIP** — FLYBY video (Elizondo statements), METAPOD video (five observables framework); NOTE: had triplicates across Organizations/, Operations/, Concepts/ — consolidated into Operations/
 - **Project Moondust** — Global Air Force video (Peru UFO intercept DOD briefing), other videos
 - **Foo Fighters** — Global Air Force video (source added), referenced in multiple videos
+
+- **Lockheed Martin** — Lockheed Martin video (primary — comprehensive rewrite), referenced in Sandia, Northrop/TRW, Hidden Wing, ARV videos
+- **James T. Ryder** — Lockheed Martin video (primary); NOTE: "Jim Ryder" was a duplicate — deleted
+- **Glenn Gaffney** — Lockheed Martin video (primary — CIA DS&T blocking Kona Blue)
+- **Mary K. Sturdivant** — Lockheed Martin video (primary — CIA/Lockheed dual role)
+- **Robert Cardillo** — Lockheed Martin video (primary — DNI blocking Kona Blue, Paraton connection)
+- **Ben Rich** — Lockheed Martin video (major expansion — UCLA lecture details), ARV TR-3B video, Northrop/Lockheed videos
+- **Kona Blue** — Lockheed Martin video (primary — comprehensive program documentation)
+- **Tonopah Test Range** — Lockheed Martin video (primary — Lockheed management, Site 4), DUMBs video
+
+- **Michael Herrera** — Herrera Insights video (primary — full encounter details), Herrera Whistleblower video (Joey investigation, Blue/Black Group)
+- **Sean Kirkpatrick** — Herrera Insights video (AARO misrepresentation claims); NOTE: "Shawn Kirkpatrick" and "Shan Kirkpatrick" were duplicates — deleted
+- **Steven Greer** — Herrera Insights video (involvement), Peru Crash video, ARV TR-3B video; NOTE: "Dr. Steven Greer" was a duplicate — deleted
+- **Pink Assets** — Herrera Insights video (primary — human trafficking/experimentation revelation)
+- **Joey Is Not My Name** — Herrera Whistleblower video (primary — Reddit investigator); NOTE: "Joey.md" was a duplicate — deleted
+- **The Insider** — Herrera Whistleblower video (primary — alleged program insider); NOTE: "Unknown InsiderOperative.md" was a duplicate — deleted
+- **Karl Nell** — Herrera Whistleblower video (source added), ARV McCandlish video, SOL Foundation video; NOTE: "Carl Nell", "Nell.md", "Colonel Nell.md" were duplicates — deleted
+- **Blue Group** — Herrera Whistleblower video (primary — congressional oversight framework)
+- **Black Group** — Herrera Whistleblower video (primary — deep state UAP programs)
+- **AARO Historical Report Volume 1** — Herrera Whistleblower video (primary — misrepresentation analysis)
+- **Sentinels of Ether** — Herrera Whistleblower video (primary — created from scratch, The Insider's book project)
+- **Psionic Abilities (P3)** — Herrera Whistleblower video (primary — recruitment program)
+- **David Grusch** — Herrera Insights video (whistleblower network connection), multiple other videos
 - **George F. Gorman / Gorman Dogfight** — Global Air Force video (primary)
 - **Oscar Santa Maria Hueras / La Joya Airbase UFO Intercept** — Global Air Force video (primary)
 - **Pori Airport UFO Incident** — Global Air Force video (primary — Tarmo Tukia, Juhani Korhonen)
