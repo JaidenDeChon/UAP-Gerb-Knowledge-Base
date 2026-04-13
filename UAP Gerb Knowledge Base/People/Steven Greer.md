@@ -13,4 +13,5 @@ Greer was instrumental in first bringing the testimony of [[Jonathan Wagant]] to
 
 ## Sources
 
+- [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
 - [[Video - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt]]

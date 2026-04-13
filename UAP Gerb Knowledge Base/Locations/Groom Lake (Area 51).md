@@ -1,10 +1,6 @@
 ---
 name: "Groom Lake (Area 51)"
-tags:
-  - location
+redirect_to: "[[Area 51]]"
 ---
 
-Referenced as the broader area near where TR3B activities allegedly took place.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+This page has been consolidated with [[Area 51]].

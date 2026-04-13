@@ -19,4 +19,5 @@ Stringfield's methodology of collecting and preserving witness testimony — oft
 
 ## Sources
 
+- [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
 - [[Video - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt]]

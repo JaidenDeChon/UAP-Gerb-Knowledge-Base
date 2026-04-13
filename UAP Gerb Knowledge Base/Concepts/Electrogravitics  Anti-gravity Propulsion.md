@@ -1,10 +1,6 @@
 ---
 name: "Electrogravitics  Anti-gravity Propulsion"
-tags:
-  - concept
+redirect_to: "[[Electrogravitics]]"
 ---
 
-Non-conventional propulsion system claimed to be used by ARVs, involving no rockets or jets but instead electromagnetic or gravitational manipulation
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+This page has been consolidated with [[Electrogravitics]].

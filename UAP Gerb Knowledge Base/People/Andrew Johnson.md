@@ -1,11 +1,12 @@
 ---
 name: "Andrew Johnson"
-role: "Author / UFO researcher"
+role: "UFO researcher; author of Secret Space Program"
 tags:
   - person
 ---
 
-Conducted numerous interviews with Fouche and spoke highly of him, in contrast to critics like Jeremy Rys and David Hamilton
+Andrew Johnson is a British UFO researcher and author who conducted numerous in-depth interviews with [[Edgar Fouché]] and became one of his strongest public defenders. In contrast to critics [[Jeremy Rys]] and [[David Hilton]], Johnson spoke highly of Fouché's character and the credibility of his [[TR-3B]] disclosures. Johnson participated in the group email organized by Hilton in 2013 to discuss allegations against Fouché and maintained his supportive position throughout the controversy.
 
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+## Sources
+
+- [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]

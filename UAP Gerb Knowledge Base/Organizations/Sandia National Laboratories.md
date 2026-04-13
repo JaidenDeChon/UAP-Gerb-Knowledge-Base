@@ -31,5 +31,6 @@ The laboratory's dual status as a government-funded yet privately managed FFRDC 
 
 ## Sources
 
+- [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
 - [[Video - Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
 - [[Video - National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers]]

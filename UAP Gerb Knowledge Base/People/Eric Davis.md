@@ -1,11 +1,14 @@
 ---
 name: "Eric Davis"
-role: "Scientist/Researcher, contributor to Age of Disclosure documentary"
+role: "Physicist; UAP researcher; subject of the Wilson-Davis memo"
 tags:
   - person
 ---
 
-Co-outlined the legacy program structure criticized by the speaker
+Dr. Eric Davis is an American physicist and UAP researcher best known for his role in the Wilson-Davis memo, a document purporting to record a conversation between Davis and Vice Admiral [[Thomas Wilson]] regarding access to a classified UFO crash retrieval and reverse engineering program. The memo has become one of the most significant documents in modern UAP disclosure discourse.
 
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+Davis co-outlined the legacy program structure that has been critiqued and analyzed by UAP researchers. In the context of the [[TR-3B]] investigation, UAP Gerb identified Davis as a key figure, noting an upcoming interview with him and stating his insights from the Wilson-Davis memo would implicate the [[CIA]] Directorate of Science and Technology, with support from agencies such as the [[NRO (National Reconnaissance Office)|NRO]], the National Underwater Reconnaissance Office, the [[NGA (National Geospatial-Intelligence Agency)|National Geospatial-Intelligence Agency]], and likely the [[NSA]], as leading teams behind UFO crash retrievals.
+
+## Sources
+
+- [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]

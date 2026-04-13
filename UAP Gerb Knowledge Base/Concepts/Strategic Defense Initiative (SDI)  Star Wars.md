@@ -1,10 +1,6 @@
 ---
 name: "Strategic Defense Initiative (SDI)  Star Wars"
-tags:
-  - concept
+redirect_to: "[[Strategic Defense Initiative (SDI)]]"
 ---
 
-Proposed missile defense system under President Reagan intended to protect the US from ballistic nuclear missile attacks using space-based and other defensive technologies.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+This page has been consolidated with [[Strategic Defense Initiative (SDI)]].

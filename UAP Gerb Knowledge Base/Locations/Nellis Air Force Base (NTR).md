@@ -1,10 +1,6 @@
 ---
 name: "Nellis Air Force Base (NTR)"
-tags:
-  - location
+redirect_to: "[[Nellis Air Force Base]]"
 ---
 
-Location of an Aphotech detachment within the Nevada Test Range; associated with advanced and legacy program testing.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+This page has been consolidated with [[Nellis Air Force Base]].

@@ -1,10 +1,6 @@
 ---
 name: "Helendale Radar Cross-Section Facility"
-tags:
-  - location
+redirect_to: "[[Helendale]]"
 ---
 
-A Lockheed facility alleged to house a subterranean installation dedicated to the study and storage of recovered UFOs.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+This page has been consolidated with [[Helendale]].

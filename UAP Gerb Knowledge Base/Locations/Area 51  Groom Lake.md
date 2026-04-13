@@ -1,10 +1,6 @@
 ---
 name: "Area 51  Groom Lake"
-tags:
-  - location
+redirect_to: "[[Area 51]]"
 ---
 
-Secret US military installation associated with Skunk Works black programs and advanced aircraft development
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+This page has been consolidated with [[Area 51]].

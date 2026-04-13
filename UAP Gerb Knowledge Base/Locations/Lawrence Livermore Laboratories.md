@@ -1,10 +1,8 @@
 ---
 name: "Lawrence Livermore Laboratories"
+redirect_to: "[[Lawrence Livermore National Laboratory]]"
 tags:
   - location
 ---
 
-Alleged co-site for development of reverse engineered MFD gravity disruption technology.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+This page has been consolidated with [[Lawrence Livermore National Laboratory]].

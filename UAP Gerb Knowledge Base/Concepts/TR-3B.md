@@ -26,6 +26,19 @@ The craft described by [[Rodrik Castle]] during the 1997 [[Hunter Warrior Advanc
 
 The TR-3B has been referenced under several variant designations including TR-3B Astra (Advanced Stealth Technology Reconnaissance Aircraft), TR-3B Black Manta, and in connection with the [[XF-131 Super Sentinel]]. [[Sal Pais]]'s 2017 patents for inertial mass reduction craft out of Patuxent River Naval Air Station feature a triangular design with a large concave center reminiscent of the TR-3B's MFD.
 
+## "Aurora" and "Astra" Designations
+
+Fouché described the TR-3B under the designation TR-3B Astra (Advanced Stealth Technology Reconnaissance Aircraft), linking it to the broader [[Aurora Program]] — a rumored family of classified aircraft developed under the [[Strategic Defense Initiative (SDI)]]. The "Aurora" name was inadvertently revealed in a 1985 Pentagon budget document listing it as a line item with a $2.3 billion allocation. Fouché claimed the Aurora program encompassed both the TR-3B and the SR-75 Penetrator, a high-altitude Mach 5+ spy plane.
+
+## Navigation and Control
+
+The cockpit of the TR-3B is described as featuring a red trackball sphere used for navigation — a detail independently corroborated by [[Brad Sorenson]]'s description of the [[Alien Reproduction Vehicle (ARV)]] control system and by [[Tom DeLonge]]'s novel *Locust* (co-authored with [[AJ Hartley]]), in which a triangular craft is navigated via a similar red trackball. DeLonge's adviser [[Eric Schrock]] allegedly provided factual UAP information for the novel series.
+
+## 1992 Relocation
+
+Sources of the master sergeant ([[Edgar Fouché]]) claimed that as of 1992, the Air Force conducted a contingency plan due to growing public attention on [[Area 51]]. This plan relocated the majority of exotic aircraft platforms to facilities in Utah (likely [[Dugway Proving Grounds]]), Colorado, Alaska, Greenland, Diego Garcia, and locations south of Area 51.
+
 ## Sources
 
+- [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
 - [[Video - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE]]

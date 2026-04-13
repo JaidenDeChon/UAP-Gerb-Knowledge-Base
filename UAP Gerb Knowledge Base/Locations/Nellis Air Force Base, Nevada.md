@@ -1,10 +1,6 @@
 ---
 name: "Nellis Air Force Base, Nevada"
-tags:
-  - location
+redirect_to: "[[Nellis Air Force Base]]"
 ---
 
-Ed served here for 3 years as part of his USAF career
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+This page has been consolidated with [[Nellis Air Force Base]].

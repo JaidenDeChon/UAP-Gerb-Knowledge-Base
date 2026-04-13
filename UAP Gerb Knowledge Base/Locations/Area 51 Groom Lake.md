@@ -1,10 +1,6 @@
 ---
 name: "Area 51 Groom Lake"
-tags:
-  - location
+redirect_to: "[[Area 51]]"
 ---
 
-Secretive facility that extensively uses the Nevada Test and Training Range; relevant to ARV flight testing theory
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+This page has been consolidated with [[Area 51]].

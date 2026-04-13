@@ -28,6 +28,10 @@ Speech-to-text transcription generates variant spellings of proper nouns, which 
 - Update MOC files when applicable
 - The "NSA Special Response Teams (SRTs)" page was actually about DOE SRTs — renamed during Castle video processing
 - Peru Crash video: "Joe Staulia" was a speech-to-text variant of "Joseph Stafula" — required `mv` rename + full rewrite
+- ARV TR-3B video: Area 51 had 6 variant pages (Area 51 Groom Lake, Area 51 (Groom Lake), Area 51  Groom Lake, Groom Lake (Area 51), plus canonical); Brad Sorenson had 3 variants (Brad, Brad Sorensen, Brad S); Edwards AFB had 2 variants (Edwards Air Force Base, California; Edwards 412th Test Wing); Helendale had 2 variants; Nellis AFB had 2 variants; Papoose Lake had 2 variants; Electrogravitics had 3 variant concept pages; SDI had 1 variant
+- ARV TR-3B video: Lawrence Livermore had duplicate across Locations/ and Organizations/ directories — same entity, different category folders
+- ARV TR-3B video: Belgian UFO Wave existed in Concepts/ but should be in Events/ — created redirect in Concepts/ pointing to Events/ canonical
+- ARV TR-3B video: TREATS.md renamed to TREAT.md (correct acronym: Tactical Reconnaissance Engineering Assessment Team, not plural)
 - Peru Crash video: "Staff Sergeant Montgre" was a variant of "Staff Sergeant Montil" — redirect stub
 - Event/Operation classification conflicts: "Operation Laser Strike" existed in both Events/ and Operations/ — Events/ version redirected to Operations/ canonical page
 - Some event pages are created as duplicates of incident pages (e.g., "Crash Site Retrieval Mission" and "Jonathan Wagant UFO Crash Retrieval Encounter" both duplicated "Peru UFO Crash Incident")

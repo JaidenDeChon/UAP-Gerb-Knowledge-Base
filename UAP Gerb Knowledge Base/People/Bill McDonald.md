@@ -17,6 +17,11 @@ The resulting drawings depict a large triangular vehicle consistent with other a
 
 McDonald's research into the XF-131 Super Sentinel intersects with facilities identified by UAP Gerb as connected to UFO legacy programs, including the [[Lockheed Martin]] Helendale radar cross-section measurement range and the Northrop Grumman Tehachapi Mountain facility — both located in the Antelope Valley region near Edwards Air Force Base.
 
+## The X-Files Connection
+
+Fox Network contracted McDonald's Tehachapi Triangle illustration — depicting the XF-131 Super Sentinel based on testimony from real [[Northrop Grumman]] and [[Lockheed Martin]] engineers — for use in the first regular season episode of *The X-Files*, titled "Deep Throat." [[Chris Carter]], the show's creator, used McDonald's design as the basis for a computer render of the triangular craft featured in the episode. The storyline of "Deep Throat" — involving a USAF base with missing test pilots, a triangular craft, and government cover-up — closely paralleled the real claims described to McDonald by his sources.
+
 ## Sources
 
+- [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
 - [[Video - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE]]
