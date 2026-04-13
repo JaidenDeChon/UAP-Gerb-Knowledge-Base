@@ -1,10 +1,6 @@
 ---
 name: "Hunter Warrior"
-tags:
-  - operation
+redirect_to: "[[Hunter Warrior Advanced Warfighting Experiment]]"
 ---
 
-US Marine military exercise during which the triangle UAP incident and black operator encounter reportedly occurred
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+This page has been consolidated with [[Hunter Warrior Advanced Warfighting Experiment]].

@@ -1,11 +1,6 @@
 ---
 name: "Mr. Castle"
-role: "UAP witness/whistleblower"
-tags:
-  - person
+redirect_to: "[[Rodrik Castle]]"
 ---
 
-Guest being interviewed; praised for courage in coming forward with information
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+This page has been consolidated with [[Rodrik Castle]].

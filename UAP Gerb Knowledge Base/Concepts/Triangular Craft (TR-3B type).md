@@ -1,10 +1,6 @@
 ---
 name: "Triangular Craft (TR-3B type)"
-tags:
-  - concept
+redirect_to: "[[TR-3B]]"
 ---
 
-An enormous equilateral triangular craft approximately 300 ft in length, hovering silently 150-200 ft in the air with no sound, seams, rivets, or exhaust ports.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+This page has been consolidated with [[TR-3B]].

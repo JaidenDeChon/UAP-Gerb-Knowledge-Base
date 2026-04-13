@@ -1,11 +1,6 @@
 ---
 name: "David Grush"
-role: "UAP whistleblower"
-tags:
-  - person
+redirect_to: "[[David Grusch]]"
 ---
 
-Referenced as a brave individual who has come forward to reveal UAP management and security structures
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+This page has been consolidated with [[David Grusch]].

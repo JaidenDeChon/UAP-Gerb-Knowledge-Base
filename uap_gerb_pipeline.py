@@ -28,8 +28,8 @@ Usage:
 Storage notes:
     - Raw transcripts are NEVER written to disk. They live in RAM only and are
       discarded immediately after extraction for each video.
-    - Each processed video produces roughly 3–8 KB of markdown (video note +
-      entity stubs). A 200-video channel ≈ 2–5 MB total — well under 1% of
+    - Each processed video produces roughly 3-8 KB of markdown (video note +
+      entity stubs). A 200-video channel ≈ 2-5 MB total — well under 1% of
       typical M1 Air storage.
     - The processed log (.processed_videos.json) is a few KB regardless of
       channel size.

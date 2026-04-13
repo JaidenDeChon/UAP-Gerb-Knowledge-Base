@@ -1,10 +1,6 @@
 ---
 name: "TR-3B Astra"
-tags:
-  - concept
+redirect_to: "[[TR-3B]]"
 ---
 
-Alleged classified triangular craft within the Aurora program; code name Astra stands for Advanced Stealth Technology Reconnaissance Aircraft; allegedly gravity-resistant and reverse-engineered.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+This page has been consolidated with [[TR-3B]].

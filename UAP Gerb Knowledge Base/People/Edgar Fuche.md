@@ -1,11 +1,6 @@
 ---
 name: "Edgar Fuche"
-role: "Master Sergeant, UAP whistleblower"
-tags:
-  - person
+redirect_to: "[[Edgar Fouche]]"
 ---
 
-Accused Teledyne Ryan of working on the TR3B; considered more credible than Colonel Steve Wilson by the narrator
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+This page has been consolidated with [[Edgar Fouche]].

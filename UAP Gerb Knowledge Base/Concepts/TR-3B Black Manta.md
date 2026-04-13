@@ -1,10 +1,6 @@
 ---
 name: "TR-3B Black Manta"
-tags:
-  - concept
+redirect_to: "[[TR-3B]]"
 ---
 
-Alleged triangular craft reportedly constructed by Northrop Grumman, associated with anti-gravity technology
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+This page has been consolidated with [[TR-3B]].

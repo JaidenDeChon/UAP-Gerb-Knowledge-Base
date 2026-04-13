@@ -1,11 +1,6 @@
 ---
 name: "Jeremy Corbel"
-role: "UFO investigator/filmmaker"
-tags:
-  - person
+redirect_to: "[[Jeremy Corbell]]"
 ---
 
-Released a video in 2023 of a supposed triangle UFO over 29 Palms
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+This page has been consolidated with [[Jeremy Corbell]].

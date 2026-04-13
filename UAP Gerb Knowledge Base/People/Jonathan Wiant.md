@@ -1,11 +1,6 @@
 ---
 name: "Jonathan Wiant"
-role: "USMC veteran and UAP whistleblower"
-tags:
-  - person
+redirect_to: "[[Jonathan Wagant]]"
 ---
 
-Mentioned alongside Michael Herrera as one of two whistleblowers who encountered UAP during military service in the USMC
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+This page has been consolidated with [[Jonathan Wagant]].

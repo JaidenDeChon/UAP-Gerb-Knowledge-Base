@@ -1,11 +1,6 @@
 ---
 name: "Salvador Pais"
-role: "Researcher/Inventor"
-tags:
-  - person
+redirect_to: "[[Sal Pais]]"
 ---
 
-Referenced in connection with the Off-World Technologies Division and related research
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+This page has been consolidated with [[Sal Pais]].

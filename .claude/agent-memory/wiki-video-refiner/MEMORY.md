@@ -1,0 +1,3 @@
+- [Wiki Conventions](wiki_conventions.md) — File naming, redirect stubs, frontmatter patterns, and MOC structure
+- [Duplicate Patterns](duplicate_patterns.md) — Common duplicate types found in the vault and resolution approaches
+- [Entity Cross-References](entity_cross_references.md) — Recurring entities that span multiple videos

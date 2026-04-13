@@ -4,7 +4,27 @@ tags:
   - concept
 ---
 
-A triangular craft distinct from the TR-3B due to its pyramid-shaped top and unique underside lighting; associated with the 1999 Kirby, England sighting.
+The XF-131 Super Sentinel is an alleged US Air Force experimental designation for a triangular craft in the [[TR-3B]] family of purported alien reproduction vehicles. The designation was disclosed by [[Edgar Fouche]] and corroborated through the forensic illustrations of [[Bill McDonald]], who produced detailed technical drawings based on firsthand testimony from aerospace engineers.
 
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+## Design and Characteristics
+
+The XF-131 Super Sentinel is described as a large triangular vehicle with design features distinguishing it from the standard TR-3B configuration. Notable characteristics include a pyramid-shaped upper fuselage profile (as opposed to the flatter planform of the base TR-3B), distinctive underside lighting arrays, and a central [[Magnetic Field Disruptor (MFD)]] ring consistent with the TR-3B's alleged propulsion architecture. The "XF" prefix in US military designation conventions indicates an experimental fighter-category vehicle.
+
+## Bill McDonald's Forensic Illustrations
+
+Bill McDonald, a forensic illustrator, produced the most widely circulated technical depictions of the XF-131 Super Sentinel based on a meeting at a Denny's restaurant with four aerospace engineers who claimed direct involvement in the craft's development. The engineers provided detailed verbal descriptions of the vehicle's design, propulsion systems, and operational characteristics, which McDonald translated into precise technical drawings using the same methodology employed in law enforcement composite imaging. These illustrations have become significant reference materials in UAP research.
+
+## Connected Facilities
+
+The XF-131 Super Sentinel's development is linked to facilities in the Antelope Valley region of Southern California, including:
+- **[[Lockheed Martin]] Helendale** — A radar cross-section measurement facility north of Victorville
+- **Northrop Grumman Tehachapi Mountain** — Underground facility in the Tehachapi Mountains
+- **[[Edwards Air Force Base]]** — Home of the [[Air Force Test Center]] and 412th Test Wing
+
+## 1999 Kirby, England Sighting
+
+A 1999 sighting near Kirby, England, is associated with the XF-131 Super Sentinel variant, described by the witness as a triangular craft with a distinctive pyramid-shaped top and unique underside illumination pattern — features consistent with the XF-131 designation rather than the standard TR-3B profile.
+
+## Sources
+
+- [[Video - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE]]

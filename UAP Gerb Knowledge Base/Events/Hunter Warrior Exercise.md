@@ -1,10 +1,6 @@
 ---
 name: "Hunter Warrior Exercise"
-tags:
-  - event
+redirect_to: "[[Hunter Warrior Advanced Warfighting Experiment]]"
 ---
 
-US Marine military exercise during which Castle and other Marines encountered a triangle UAP and black operators
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+This page has been consolidated with [[Hunter Warrior Advanced Warfighting Experiment]].

@@ -1,11 +1,6 @@
 ---
 name: "Ed Fuche"
-role: "Alleged whistleblower/witness"
-tags:
-  - person
+redirect_to: "[[Edgar Fouche]]"
 ---
 
-Claimed secondhand knowledge of the TR-3B craft through associates Gerald, Bud, Doc, and others; had three personal sightings not under program operations; has since passed away
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+This page has been consolidated with [[Edgar Fouche]].

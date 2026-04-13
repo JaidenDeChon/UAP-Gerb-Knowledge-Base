@@ -1,10 +1,6 @@
 ---
 name: "Immaculate Constellation"
-tags:
-  - concept
+redirect_to: "[[Immaculate Constellation (IMCON)]]"
 ---
 
-A referenced UAP-related document or program involving adversarial equilateral triangle craft observed over INDOPACOM.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+This page has been consolidated with [[Immaculate Constellation (IMCON)]].

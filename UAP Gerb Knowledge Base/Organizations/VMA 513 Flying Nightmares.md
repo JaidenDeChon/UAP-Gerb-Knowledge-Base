@@ -1,11 +1,6 @@
 ---
 name: "VMA 513 Flying Nightmares"
-org_type: "military"
-tags:
-  - organization
+redirect_to: "[[VMA-513]]"
 ---
 
-Harrier jet squadron to which Rodrik Castle and his team were attached during the Hunter Warrior experiment
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+This page has been consolidated with [[VMA-513]].

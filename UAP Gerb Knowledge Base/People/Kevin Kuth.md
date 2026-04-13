@@ -1,11 +1,6 @@
 ---
 name: "Kevin Kuth"
-role: "Researcher/scientist"
-tags:
-  - person
+redirect_to: "[[Kevin Knuth]]"
 ---
 
-Referenced in connection with his 2023 Sol Foundation presentation discussing vehicle malfunctions in the presence of UFOs
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+This page has been consolidated with [[Kevin Knuth]].

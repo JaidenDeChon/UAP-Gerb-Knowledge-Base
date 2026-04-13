@@ -1,11 +1,6 @@
 ---
 name: "Mike Herrera"
-role: "UAP witness/researcher"
-tags:
-  - person
+redirect_to: "[[Michael Herrera]]"
 ---
 
-Mentioned in context of P3 assets and technology that interacts with human consciousness
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+This page has been consolidated with [[Michael Herrera]].

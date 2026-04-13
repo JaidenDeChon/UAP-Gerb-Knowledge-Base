@@ -14,3 +14,4 @@ In 1989, Inman received a telephone inquiry from NASA mission specialist [[Bob E
 ## Sources
 
 - [[Video - National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers]]
+- [[Video - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE]]

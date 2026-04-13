@@ -1,11 +1,6 @@
 ---
 name: "Operation Laser Strike"
-date: 1996/1997
-tags:
-  - event
+redirect_to: "[[Operation Laser Strike]]"
 ---
 
-Classified US military operation during which Wagant claims to have encountered a crashed egg-shaped craft in Peru
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+This page has been consolidated with [[Operation Laser Strike]] in the Operations directory.
