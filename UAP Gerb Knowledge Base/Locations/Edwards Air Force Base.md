@@ -16,7 +16,12 @@ Edwards AFB is identified by the presenter of "The Hidden Wing" as the alleged p
 
 The base's proximity to [[Helendale]] (Lockheed's radar cross-section range), USAF [[Air Force Plant 42|Plant 42]] in Palmdale, and the Northrop Grumman [[Tehachapi, California|Tehachapi]] Mountain facility positions Edwards at the center of a cluster of alleged reverse engineering locations in the Antelope Valley region.
 
+## Underground Facilities
+
+Multiple informants compiled by [[Bill Hamilton]] described underground storage of extraterrestrial discs at Edwards and specifically a command center beneath Haystack Butte (the eastern test facilities area). [[Michael Wolf]] also claimed to have heard that live extraterrestrials were kept at a facility under Haystack Butte. The Air Force Research Laboratory's Aerospace Systems Directorate facilities are built into and around Haystack Butte, and rocket propulsion laboratory silos are located on Lumen Ridge — consistent with pre-existing infrastructure that could accommodate deeper underground expansion. The Edwards/NTTR underground network is referenced by witness "Ed," and forms the core of the alleged southwestern DUMB complex centered on the Antelope Valley.
+
 ## Sources
 
 - [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
 - [[Video - The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
+- [[Video - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs]]

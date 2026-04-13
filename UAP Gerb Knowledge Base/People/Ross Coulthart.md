@@ -13,6 +13,11 @@ Coulthart has conducted numerous interviews with military and intelligence perso
 
 Coulthart has also reported on the broader infrastructure of UAP secrecy, including the roles of defense contractors and intelligence agencies in maintaining classification of recovered materials and reverse-engineering programs.
 
+## Vetting of Bob Fish
+
+Coulthart has confirmed that he vetted [[Bob Fish]], the former USG contractor who disclosed information about [[Defense Support Program (DSP)]] satellites tracking [[Fast Walkers]]. This vetting lends credibility to Fish's claims about DSP satellites collecting data on objects entering and leaving Earth's atmosphere from deep space.
+
 ## Sources
 
+- [[Video - FASTWALKERS – UFOs Outside Earth]]
 - [[Video - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE]]

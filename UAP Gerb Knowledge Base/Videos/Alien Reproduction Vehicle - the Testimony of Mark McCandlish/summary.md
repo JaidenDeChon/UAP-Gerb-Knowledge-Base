@@ -15,7 +15,7 @@ The video, hosted by UAP researcher "UAP Gerb," presents a deep-dive investigati
 
 ## People
 - [[Mark McCandlish]] — Key witness and illustrator who documented the Alien Reproduction Vehicle/flux liner, worked for US Air Force, Rockwell International, Boeing, Lockheed Martin; appeared at Steven Greer's 2001 National Press Club panel
-- [[Brad Sorensen]] — Alleged eyewitness who attended a classified air show near Norton Air Force Base in 1988 and reportedly witnessed three saucer-shaped craft (ARVs); gave a long-form interview in 1990 about the experience
+- [[Brad Sorenson]] — Alleged eyewitness who attended a classified air show near Norton Air Force Base in 1988 and reportedly witnessed three saucer-shaped craft (ARVs); gave a long-form interview in 1990 about the experience
 - [[Michael Shellenberger]] — Published a groundbreaking article in October 2024 introducing a new UAP whistleblower's testimony and mentioning the term 'Alien Reproduction Vehicle' in the context of the Immaculate Constellation program
 - [[Steven Greer]] — Organized the 2001 National Press Club panel where McCandlish discussed his ARV line art design
 - [[James Allen]] — Referenced in connection with mysterious deaths surrounding the ARV/McCandlish conspiracy narrative
@@ -26,17 +26,13 @@ The video, hosted by UAP researcher "UAP Gerb," presents a deep-dive investigati
 - [[T. Townsend Brown]] — Associated with the Biefeld-Brown effect, converting electrostatic energy into propulsion
 - [[William B. Scott]] — Interviewed Brad on December 3, 1990 and published some of Mark's sketches
 - [[Frank Carlucci]] — Mentioned as the gentleman Brad was passed off as an aide for to gain access to the restricted hangar
-- [[Brad]] — Was unofficially brought into a classified hangar showing exotic aircraft including ARVs; gave a detailed interview to Bill Scott on December 3rd, 1990
-- [[Bill Scott]] — Interviewed Brad on December 3rd 1990 about his experience at a classified air show featuring exotic and alien reproduction vehicles
-- [[Mark]] — His drawings of the ARV were confirmed by Brad to be highly accurate; also discussed gravity manipulation propulsion systems
 - [[Alan Cranston]] — Confirmed to be present at the classified aerospace exhibit by witness Brad
 - [[Einstein]] — Referenced in discussion of mass increase approaching speed of light and Zero Point Energy interaction
 - [[Amy]] — Was lecturing on anti-gravity experiments and black projects before her suspicious death
-- [[Brad Sorensen]] — Claimed firsthand knowledge of the ARV craft and its origins; gave a 1990 interview with Bill Scott describing the craft in detail
 - [[Robert D. Morning Star]] — Claimed Mark McCandlish was set to testify to elements of the Senate on UAP in June 2021
 - [[Rick Price]] — Spoke with McCandlish on the day of his death; McCandlish told him he would call later
 - [[Marco Rubio]] — McCandlish was reportedly in contact with Rubio prior to planned Senate testimony on UAP
-- [[Mark Mandel]] — Described ARV craft construction and secret space program; reportedly was set to testify before Congress in June 2021 before his passing
+- [[Mark McCandlish]] — Described ARV craft construction and secret space program; reportedly was set to testify before Congress in June 2021 before his passing
 - [[Edgar Fouche]] — Associated with TR-3B craft stories and secret space program claims
 - [[Corey Goode]] — Made claims about a '20 and back' secret space program involving extraterrestrials; reportedly detailed lies under oath
 
@@ -45,7 +41,7 @@ The video, hosted by UAP researcher "UAP Gerb," presents a deep-dive investigati
 - [[Rockwell International]] — One of McCandlish's aerospace industry clients
 - [[Boeing]] — One of McCandlish's aerospace industry clients
 - [[Lockheed Martin]] — One of McCandlish's aerospace industry clients
-- [[Aviation Week]] — Respected publication that McCandlish worked for
+- [[Aviation Week and Space Technology]] — Respected publication that McCandlish worked for; Bill Scott of AW&ST interviewed Brad Sorenson in December 1990
 - [[Popular Science]] — Publication McCandlish was doing design work for when he dropped out of the 1988 Norton AFB air show
 - [[US Military]] — Hosted a classified exhibit of alien reproduction vehicles attended by top military brass and politicians
 - [[Aviation Week and Space Technology]] — Respected aerospace publication that featured Mark McCandlish's sketches and reached out to Brad for comment

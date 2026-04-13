@@ -17,3 +17,4 @@ Electrogravitics is distinct from the [[Magnetic Field Disruptor (MFD)]] technol
 ## Sources
 
 - [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
+- [[Video - Alien Reproduction Vehicle - the Testimony of Mark McCandlish]]

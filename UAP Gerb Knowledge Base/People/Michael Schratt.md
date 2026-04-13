@@ -14,3 +14,4 @@ Schratt co-authored work with Benkert that included the extraction of eyewitness
 ## Sources
 
 - [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
+- [[Video - Alien Reproduction Vehicle - the Testimony of Mark McCandlish]]

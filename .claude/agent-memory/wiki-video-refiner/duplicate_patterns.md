@@ -35,3 +35,13 @@ Speech-to-text transcription generates variant spellings of proper nouns, which 
 - Peru Crash video: "Staff Sergeant Montgre" was a variant of "Staff Sergeant Montil" — redirect stub
 - Event/Operation classification conflicts: "Operation Laser Strike" existed in both Events/ and Operations/ — Events/ version redirected to Operations/ canonical page
 - Some event pages are created as duplicates of incident pages (e.g., "Crash Site Retrieval Mission" and "Jonathan Wagant UFO Crash Retrieval Encounter" both duplicated "Peru UFO Crash Incident")
+- ARV McCandlish video: "Mark Mandel" and "Mark Mandish" were both speech-to-text variants of "Mark McCandlish" — deleted both stubs; canonical is Mark McCandlish.md
+- ARV McCandlish video: "Aviation Week" in Organizations was duplicate of "Aviation Week and Space Technology" — deleted stub
+- ARV McCandlish video: "USAF Plant 42" existed in both Organizations/ (stub) and Locations/ (stub) — both deleted; canonical is Locations/Air Force Plant 42.md
+- ARV McCandlish video: "Air Force Plant 42, Palmdale, California" in Locations was stub duplicate of "Air Force Plant 42" — deleted
+- ARV McCandlish video: Immaculate Constellation existed in Operations/ as two pages and Concepts/ — deleted both Operations/ stubs; canonical is Concepts/Immaculate Constellation (IMCON).md
+- DUMBs video: "Richard Solder" in People/ was speech-to-text variant of "Richard Sauder" — deleted stub, canonical is Richard Sauder.md
+- DUMBs video: DUMB concept pages had 5 variants: "Deep Underground Military Bases (DUMBs)" (canonical), "Deep Underground Military Base (DUMB)", "DUMB (Deep Underground Military Base)", "DUMBs (Deep Underground Military Bases)", "Underground Facilities (DUMBs)" — deleted all 4 variants
+- DUMBs video: Tunnel Boring Machine had 2 pages: "Tunnel Boring Machine (TBM)" (canonical) and "Tunnel Boring Machines" — deleted stub
+- DUMBs video: Maglev had 2 pages: "Maglev Underground Transportation" (canonical) and "Maglev Underground Train Systems" — deleted stub
+- DUMBs video: Subterranean Facility had 3 pages: "Subterranean Facility (STIF)" (canonical), "STIFF (Subterranean Facility)", "Subterranean Facility" — deleted 2 stubs

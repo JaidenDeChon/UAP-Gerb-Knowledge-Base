@@ -455,7 +455,6 @@ tags:
 - [[ISR (Intelligence, Surveillance, and Reconnaissance)]]
 - [[ISR Probing]]
 - [[Immaculate Constellation (IMCON)]]
-- [[Immaculate Constellation]]
 - [[Independent Research and Development (IRAD)]]
 - [[Indigo Children]]
 - [[Industrial Security (INDС) Personnel]]

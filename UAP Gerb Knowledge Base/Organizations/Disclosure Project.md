@@ -5,7 +5,16 @@ tags:
   - organization
 ---
 
-Organization that prodded Mark McCandlish to name his sources, leading to unwanted attention on Brad
+The Disclosure Project is a nonprofit research organization founded by Dr. [[Steven Greer]] in 1993, dedicated to compelling the US government to declassify information about UAP, extraterrestrial intelligence, and advanced energy technologies. The organization is most notable for its May 9, 2001 event at the [[National Press Club]] in Washington, D.C., at which over 20 credentialed military, government, and intelligence witnesses testified publicly about UAP encounters and alleged cover-up activities.
 
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+## 2001 National Press Club Event
+
+The 2001 National Press Club event attracted significant media attention and featured testimony from dozens of witnesses with credentials including military officers, intelligence analysts, and government scientists. Among the participants was aerospace illustrator [[Mark McCandlish]], who presented his technical cutaway blueprint of the [[Alien Reproduction Vehicle (ARV)|ARV Flux Liner]] and discussed his investigation into the craft.
+
+## McCandlish and Brad Sorenson
+
+A significant and regretted consequence of the Disclosure Project's involvement with McCandlish was its pressure on him to publicly name his primary source, [[Brad Sorenson]]. McCandlish described being "prodded by people in the Disclosure Project to name names," which he did — a decision he stated he was "almost coerced" into by Greer and which he deeply regretted, as it brought sustained unwanted attention and career damage to Sorenson. McCandlish later stated: "Not being a journalist, not having a background in journalism, I didn't really know... that this could be potentially very harmful to the individuals who had been the original source of the material."
+
+## Sources
+
+- [[Video - Alien Reproduction Vehicle - the Testimony of Mark McCandlish]]

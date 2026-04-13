@@ -15,10 +15,9 @@ The video, hosted by UAP Gerb, investigates the alleged existence of a clandesti
 
 ## People
 - [[Lloyd A. Dua]] — Gave a 1989 speech titled 'Underground Facilities for Defense: Experience and Lessons' acknowledging classified underground military construction projects
-- [[Richard Solder]] — Authored three books on underground and underwater military bases used as primary reference material in this investigation
+- [[Richard Sauder]] — Authored three books on underground and underwater military bases used as primary reference material in this investigation; spoke with the narrator for 2-3 hours, agreed to appear on a future project; also spoke with Bill Hamilton about his DUMB network map
 - [[David Grusch]] — Referenced for his characterization of clandestine non-human technology programs as a 'multi-decade secret Cold War'
 - [[UAP Gerb]] — Host of the channel conducting investigation into deep underground military bases and UFO legacy programs
-- [[Richard Sauder]] — Has written books on DUMBs, spoke with the narrator for 2-3 hours, agreed to appear on a future project; also spoke with Bill Hamilton about his DUMB network map
 - [[Bill Hamilton]] — Had a network of informants who told him about underground installations and facilities; possessed a network map of DUMBs
 - [[Leonard Stringfield]] — Cited as a source of testimony supporting the existence of DUMB facilities engaged in UAP legacy programs
 - [[Bob Lazar]] — Mentioned in connection with S4 facility claims; considered controversial and not included in the main investigation

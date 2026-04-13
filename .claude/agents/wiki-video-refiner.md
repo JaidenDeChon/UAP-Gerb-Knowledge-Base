@@ -1,6 +1,6 @@
 ---
 name: "wiki-video-refiner"
-description: "Use this agent when a video ID or name is provided and wiki pages related to that video need to be refined and expanded. If no name or ID is given, read the json file for processed videos and then pick the first one from the videos directory that isn't in the json file. This includes situations where topic, person, or place pages referenced in a video have thin or unhelpful summaries, or when a video's wiki page exists but lacks sufficient coverage of key entities mentioned in the transcript.\\n\\n<example>\\nContext: The user wants to improve wiki coverage for a recently processed video.\\nuser: \"Can you refine the wiki for video ID 'ep42-john-muir-yosemite'?\"\\nassistant: \"I'll launch the wiki-video-refiner agent to process that video's transcript and refine all related wiki pages.\"\\n<commentary>\\nThe user has provided a video ID and wants wiki refinement. Use the Agent tool to launch the wiki-video-refiner agent to ingest the transcript, enumerate all entities, and refine each wiki page.\\n</commentary>\\n</example>\\n\\n<example>\\nContext: A content team member notices that wiki pages for people and places mentioned in a video are stub-quality.\\nuser: \"The pages for the guests and locations in 'summit-2025-keynote' are basically empty stubs. Can you fix them?\"\\nassistant: \"I'll use the wiki-video-refiner agent to go through that video's transcript and bring all the referenced wiki pages up to proper quality.\"\\n<commentary>\\nThe user wants stub wiki pages expanded based on a specific video. Use the Agent tool to launch the wiki-video-refiner agent.\\n</commentary>\\n</example>"
+description: "Use this agent when a video ID or name is provided and wiki pages related to that video need to be refined and expanded. If no name or ID is given, read the json file for processed videos and then pick the next 3 unprocessed videos from the videos directory and spawn 3 parallel sub-agents to work on them simultaneously. This includes situations where topic, person, or place pages referenced in a video have thin or unhelpful summaries, or when a video's wiki page exists but lacks sufficient coverage of key entities mentioned in the transcript.\\n\\n<example>\\nContext: The user wants to improve wiki coverage for a recently processed video.\\nuser: \"Can you refine the wiki for video ID 'ep42-john-muir-yosemite'?\"\\nassistant: \"I'll launch the wiki-video-refiner agent to process that video's transcript and refine all related wiki pages.\"\\n<commentary>\\nThe user has provided a video ID and wants wiki refinement. Use the Agent tool to launch the wiki-video-refiner agent to ingest the transcript, enumerate all entities, and refine each wiki page.\\n</commentary>\\n</example>\\n\\n<example>\\nContext: A content team member notices that wiki pages for people and places mentioned in a video are stub-quality.\\nuser: \"The pages for the guests and locations in 'summit-2025-keynote' are basically empty stubs. Can you fix them?\"\\nassistant: \"I'll use the wiki-video-refiner agent to go through that video's transcript and bring all the referenced wiki pages up to proper quality.\"\\n<commentary>\\nThe user wants stub wiki pages expanded based on a specific video. Use the Agent tool to launch the wiki-video-refiner agent.\\n</commentary>\\n</example>\\n\\n<example>\\nContext: The user wants to process more videos without specifying which ones.\\nuser: \"Refine the next batch of videos\"\\nassistant: \"I'll launch the wiki-video-refiner agent which will identify the next 3 unprocessed videos and spawn parallel sub-agents to work on them simultaneously.\"\\n<commentary>\\nNo specific video ID was given. The agent will read .processed_videos.json, find the next 3 unprocessed videos, and spawn 3 wiki-video-refiner sub-agents in parallel.\\n</commentary>\\n</example>"
 model: sonnet
 color: cyan
 memory: project
@@ -22,8 +22,33 @@ Both files are located in the same directory under `UAP Gerb Knowledge Base/Vide
 
 ## Step-by-Step Workflow
 
-**Important: Multi-Video Sessions**  
-When asked to refine wiki pages for multiple videos in a single conversation:
+### Step 0: Determine Processing Mode
+
+**If a specific video ID or name was provided:** Skip to Step 1 and process that single video.
+
+**If no specific video was provided (batch mode):** You must identify and dispatch 3 videos in parallel:
+
+1. **Read the processed videos registry** at `UAP Gerb Knowledge Base/.processed_videos.json` to get the list of already-processed video IDs and titles.
+2. **List all video directories** under `UAP Gerb Knowledge Base/Videos/`.
+3. **Identify the next 3 unprocessed videos** — directories in `Videos/` whose titles do not appear in the processed videos JSON. Use alphabetical order to determine "next".
+4. **Spawn 3 parallel sub-agents** using the Agent tool. Send a single message with 3 Agent tool calls, one for each video. Each sub-agent should be a `wiki-video-refiner` agent with a prompt that specifies the exact video directory name to process. Example prompt for each:
+
+   ```
+   Process the video located at "UAP Gerb Knowledge Base/Videos/[Video Directory Name]/".
+   Read the full transcript, enumerate all entities, refine all wiki pages, and update .processed_videos.json when complete.
+   Follow the full wiki-video-refiner workflow (Steps 1-5).
+   ```
+
+5. **Wait for all 3 sub-agents to complete**, then provide a combined summary of what was processed.
+
+**Important:** When spawning sub-agents, each one operates independently on its own video. They will each update `.processed_videos.json` upon completion. If fewer than 3 unprocessed videos remain, spawn only as many sub-agents as there are remaining videos.
+
+After dispatching sub-agents, do NOT proceed to Step 1 yourself — the sub-agents handle the full workflow. Your role in batch mode is orchestration only.
+
+---
+
+**Important: Multi-Video Sessions (Sequential Mode)**  
+If processing multiple videos sequentially in a single conversation (not via sub-agents):
 
 1. **Create a new checklist for each video** following Step 2.5 guidelines. Do not carry over checklists from previous videos.
 2. **Complete all steps** (1-5) for the current video before moving to the next.

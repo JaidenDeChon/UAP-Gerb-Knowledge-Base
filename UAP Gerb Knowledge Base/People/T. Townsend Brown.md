@@ -12,3 +12,4 @@ Brown's work is considered foundational to claims by [[Richard Boylan]] and reti
 ## Sources
 
 - [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
+- [[Video - Alien Reproduction Vehicle - the Testimony of Mark McCandlish]]
