@@ -15,17 +15,17 @@ The video, hosted by UAP Gerb, analyzes a 20-second piece of UFO footage uploade
 
 ## People
 - [[Danny Lampkin]] — Uploaded the flyby UFO footage to YouTube on May 14, 2008 with minimal description
-- [[Lou Elizondo]] — Stated in a GQ 2021 interview that there is more compelling UAP footage in government possession not yet seen by the public, including a 23-minute video and one showing a UAP 50 feet from a cockpit
+- [[Luis Elizondo]] — Stated in a GQ 2021 interview that there is more compelling UAP footage in government possession not yet seen by the public, including a 23-minute video and one showing a UAP 50 feet from a cockpit
 - [[Chris Mellon]] — Stated on Joe Rogan Experience that he had seen footage of a UAP right next to a pilot
 - [[UAP Gerb]] — Host analyzing the flyby UFO footage for authenticity
-- [[Lieutenant Jacobs]] — Described a saucer-shaped craft in his Warhead shootdown footage, which appears similar to the craft in the flyby footage
+- [[Robert Jacobs]] — Described a saucer-shaped craft in his Warhead shootdown footage, which appears similar to the craft in the flyby footage
 - [[K Shakoya]] — Allegedly contributed to an internal UAP-related report in 2020
 
 ## Organizations
 - [[AATIP (Advanced Aerospace Threat Identification Program)]] — Advanced Aerospace Threat Identification Program, formerly directed by Lou Elizondo
 - [[NASA]] — Operates an F-18 variant with an interior-mounted camcorder behind the pilot seat, considered a possible source platform for the flyby footage
 - [[US Navy]] — Filmed a spherical UAP going into water in 2019, referenced for audio comparison with the flyby footage
-- [[Senate Intelligence Committee]] — Christopher Mellon served as staff director; relevant to his credibility regarding UAP footage claims
+- [[Senate Select Committee on Intelligence]] — Christopher Mellon served as staff director; relevant to his credibility regarding UAP footage claims
 - [[UAP Task Force]] — Government task force active from 2017 to 2022 potentially associated with the alleged internal report
 
 ## Concepts
@@ -44,7 +44,7 @@ The video, hosted by UAP Gerb, analyzes a 20-second piece of UFO footage uploade
 - [[Lou Elizondo GQ Interview]] — Elizondo stated the Gimbal, Go Fast, and Pentagon UFO videos are among the least compelling UAP footage and that more significant footage exists in government possession.
 - [[Christopher Mellon Joe Rogan Experience Appearance]] — Mellon stated he had seen footage of a UAP positioned right next to a pilot.
 - [[US Navy Spherical UAP Water Entry Video]] — Filmed by the US Navy and posted by Jeremy Corbell, showing a spherical UAP going into water; its ambient audio was compared to the flyby footage audio.
-- [[McMinnville UFO Photos]] — Famous UFO photographs depicting a saucer-shaped craft with a top protrusion, noted as visually similar to the craft in the flyby footage.
+- [[McMinnville UFO Photographs]] — Famous UFO photographs depicting a saucer-shaped craft with a top protrusion, noted as visually similar to the craft in the flyby footage.
 - [[Lieutenant Jacobs Warhead Shootdown Footage]] — Footage described by Lieutenant Jacobs featuring a saucer-shaped craft nearly identical to the one in the flyby footage.
 - [[K Shakoya Report Contribution]] — K Shakoya allegedly contributed to a UAP-related internal report, possibly produced by the UAP Task Force.
 - [[UAP Task Force Operation Period]] — The UAP Task Force was reportedly active from 2017 to 2022, during which the alleged internal report may have been produced.

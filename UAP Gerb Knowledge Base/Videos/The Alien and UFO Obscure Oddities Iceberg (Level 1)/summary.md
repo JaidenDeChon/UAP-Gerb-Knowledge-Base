@@ -33,7 +33,7 @@ This video presents a survey-style overview of UFO and alien-related topics orga
 - [[Fife Symington]] — Personally witnessed the Phoenix Lights and attempted an official inquiry that was denied; later wrote an editorial for CNN about his experience
 - [[Jeremy Corbell]] — Referenced in connection with Palm Spring UFO footage from 2023
 - [[David Icke]] — Proposed the Reptilian theory in his 1999 book 'The Big Secret'
-- [[Lou Elizondo]] — Credited with efforts to release the Pentagon UFO videos
+- [[Luis Elizondo]] — Credited with efforts to release the Pentagon UFO videos
 - [[Chris Mellon]] — Worked alongside Lou Elizondo to release the Pentagon UAP videos
 - [[Leslie Kean]] — Published the Pentagon UFO videos story via the New York Times
 - [[Ralph Blumenthal]] — Co-published the Pentagon UFO videos story via the New York Times

@@ -5,7 +5,11 @@ tags:
   - organization
 ---
 
-One of the US Air Force UFO investigation programs, ran from 1949 to 1969
+Project Grudge was the second official United States Air Force investigation into unidentified flying objects (UFOs), succeeding [[Project Sign]] and preceding [[Project Blue Book]]. The program was directed by Captain [[Edward J. Ruppelt]], who also went on to direct Project Blue Book. Project Grudge continued the Air Force's official investigation of UFO reports during the late 1940s and early 1950s, though it represented a shift toward more skeptical analysis compared to Project Sign's initial openness to the phenomenon.
+
+## Sources
+
+- [[Video - Global Air Force UFO Encounters You've Probably Never Heard of]]
 
 ## Appearances
 *(Populated automatically via Obsidian backlinks from [[Videos]])*

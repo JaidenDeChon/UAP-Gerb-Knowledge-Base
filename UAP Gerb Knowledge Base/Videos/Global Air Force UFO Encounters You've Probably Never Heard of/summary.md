@@ -22,11 +22,11 @@ The video examines a series of historical military pilot UFO encounters from mul
 - [[Juhani Korhonen]] — Second pilot who observed the disc-shaped objects during the Pori Airport incident, confirming their anomalous shape and speed
 - [[Nathan Twining]] — His assertion that flying discs were real and not fictitious led to the creation of Project Sign
 - [[Oscar Santa Maria Hueras]] — Ordered to intercept a UFO near La Joya Airbase on April 11, 1980; fired 64 30mm shells at the object with no effect and chased it for 84 km
-- [[Jau Corona]] — Second pilot who observed and confirmed the anomalous disc-shaped objects reported by Tua over Finland
+- [[Juhani Korhonen]] — Second pilot who observed and confirmed the anomalous disc-shaped objects reported by Tua over Finland
 - [[Magdaleno Castanon]] — Stated that military jets chased the lights during the 2004 Mexico UFO incident and believed the objects were aware of being pursued
 - [[Michael Shermer]] — Suggested the 2004 Mexico UFO lights were burnoff flares from an offshore oil platform in the Gulf of Mexico
 - [[Graham Hancock]] — Referenced as having debated Michael Shermer on The Joe Rogan Experience
-- [[Gorman]] — Referenced in the 'Gorman dogfight' case discussed in the video
+- [[George F. Gorman]] — Referenced in the 'Gorman dogfight' case discussed in the video
 
 ## Organizations
 - [[Project Sign]] — USAF project created to investigate UFO reports; investigated the Gorman dogfight and checked his P-51 for radiation
@@ -56,7 +56,7 @@ The video examines a series of historical military pilot UFO encounters from mul
 - [[Radar Corroboration]] — Ground-based radar confirming the presence and speed of UAP, as seen in the Finnish case where radar 200 km away detected the objects.
 - [[Material Imperviousness]] — The observed inability of conventional weaponry, such as 30mm cannon fire, to damage or affect UAP.
 - [[Restricted Airspace Violation]] — UAP entering protected or restricted military airspace without authorization, prompting military response.
-- [[Operation Moondust]] — A DOD program referenced in connection with the briefing that documented the 1980 Peru UFO incident and the 1968 Nepal crash disc case.
+- [[Project Moondust]] — A DOD program referenced in connection with the briefing that documented the 1980 Peru UFO incident and the 1968 Nepal crash disc case.
 - [[Prosaic Explanation]] — A conventional or mundane explanation for a UAP sighting, as opposed to an extraordinary one.
 - [[Radar Detection]] — The use of radar systems to detect and track unidentified aerial objects, referenced in the Mexico 2004 case where 3 of 11 objects were radar-confirmed.
 
@@ -64,15 +64,15 @@ The video examines a series of historical military pilot UFO encounters from mul
 - [[Gorman Dogfight]] — Second Lieutenant George F. Gorman pursued an unidentified ball of light over Fargo, North Dakota in his P-51 Mustang for approximately 27 minutes; the object outmaneuvered and outpaced his aircraft.
 - [[2004 Nimitz UAP Encounter (Tic Tac)]] — Commander David Fravor encountered an unidentified Tic Tac-shaped object off the coast of San Diego, a widely known UAP case.
 - [[Pori Airport UFO Incident]] — Finnish Defense Force pilots Tarmo Tukia and a second pilot observed seven disc-shaped pale yellow objects that accelerated away at great speed; radar 200 km away in Vaasa also detected the objects. This is the only UFO incident officially acknowledged by the Finnish Air Force.
-- [[Finnish UFO Sighting]] — Pilot Tua observed seven disc-shaped pale yellow objects that accelerated away at high speed against a 180 km/h headwind; radar in Vasa detected them at an estimated 3,218 m/s
+- [[Finnish UFO Sighting]] — Pilot Tua observed seven disc-shaped pale yellow objects that accelerated away at high speed against a 180 km/h headwind; radar in Vaasa detected them at an estimated 3,218 m/s
 - [[La Joya Airbase UFO Intercept]] — Lieutenant Oscar Santa Maria Hueras was scrambled in a Sukhoi-22 to intercept a silvery orb-like object; fired 64 30mm shells with no effect and chased it for 84 km before running low on fuel
 - [[Mexico UFO Incident]] — Mexican Air Force filmed 11 UAP using infrared equipment over the state of Campeche during an anti-drug trafficking patrol; three objects appeared on radar
 - [[1968 Nepal Crash Disc]] — Referenced in the DOD Joint Chiefs briefing alongside the 1980 Peru case under Operation Moondust coverage
-- [[2004 Mexico UFO Sightings]] — A case involving 11 objects, three of which were detected on radar; possible flare explanation considered but not confirmed.
+- [[Mexico UFO Incident]] — A case involving 11 objects, three of which were detected on radar; possible flare explanation considered but not confirmed.
 - [[Finnish UFO Case]] — A UAP sighting case involving pilot testimony that the presenter leans toward explaining as a genuine UFO encounter.
 
 ## Operations
-- [[Operation Moondust]] — A DOD program referenced in a Joint Chiefs briefing that documented multiple UAP-related incidents including the 1980 Peru intercept and the 1968 Nepal crash disc
+- [[Project Moondust]] — A DOD program referenced in a Joint Chiefs briefing that documented multiple UAP-related incidents including the 1980 Peru intercept and the 1968 Nepal crash disc
 
 ## Locations
 - [[Fargo, North Dakota, USA]] — Location of the Gorman dogfight on October 1, 1948
@@ -81,7 +81,7 @@ The video examines a series of historical military pilot UFO encounters from mul
 - [[Pori Airport]] — Finnish airport where the April 12, 1969 UAP incident occurred during a Fouga Magister jet training mission
 - [[Vaasa, Finland]] — Town approximately 200 km from Pori where radar detected the seven anomalous objects after they rapidly departed
 - [[La Joya Airbase, Arequipa, Peru]] — Site of the 1980 UAP intercept by Lieutenant Hueras
-- [[Vasa, Finland]] — Location of radar station 200 km away that detected seven UAP objects after they rapidly accelerated
+- [[Vaasa, Finland]] — Location of radar station 200 km away that detected seven UAP objects after they rapidly accelerated
 - [[Campeche, Mexico]] — Southern Mexican state where the Mexican Air Force filmed 11 UAP in 2004
 - [[Gulf of Mexico]] — Location of offshore oil platforms suggested by skeptics as the prosaic explanation for the 2004 Mexico UFO lights
 - [[Mexico]] — Location of the 2004 UFO sighting involving 11 objects and radar detection; described as a famous case that receives little attention in the United States.

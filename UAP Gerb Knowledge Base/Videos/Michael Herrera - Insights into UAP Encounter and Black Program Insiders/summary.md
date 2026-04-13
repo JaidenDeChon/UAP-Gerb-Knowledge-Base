@@ -61,7 +61,7 @@ The video features an extended interview with Michael Herrera, a USMC veteran an
 - [[Secret Service]] — Referenced as a comparison for the appearance of reinforced/up-armored trucks seen at the scene
 - [[Denver]] — Referenced as arriving on the 9th, approximately 9-10 days after an earthquake, in connection with the operation
 - [[Indonesian Military]] — Possibly present at the LZ during the incident in Indonesia near the earthquake disaster area
-- [[Senate Intelligence Committee]] — Members reportedly asked the witness to have fellow Marines provide anonymous testimony about the incident
+- [[Senate Select Committee on Intelligence]] — Members reportedly asked the witness to have fellow Marines provide anonymous testimony about the incident
 - [[AARO]] — Names of the fellow Marines involved were reportedly provided to Pentagon AARO
 - [[The Daily Mail]] — Published an article featuring text messages from a fellow Marine saying 'leave me out of that'
 - [[US Navy]] — Naval vessel hosting the Marines during the deployment to Indonesia

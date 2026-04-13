@@ -38,7 +38,7 @@ This video features an in-depth interview with UAP researcher Ryan S. Wood exami
 - [[Donald Menzel]] — Referenced in handwritten comments on the Bowen manuscript, asking what he was doing in relation to UFO topics
 - [[Timothy Cooper]] — Obtained the Bowen manuscript via FOIA in 1999 with top secret markings and handwritten comments
 - [[Stanton Friedman]] — Author of 'Top Secret Magic,' referenced for authentication of Eisenhower briefing document and other Majestic documents
-- [[Lou Elizondo]] — Referenced in relation to statements about underwater bases and a 1950 crash near La Indio and Guerra
+- [[Luis Elizondo]] — Referenced in relation to statements about underwater bases and a 1950 crash near La Indio and Guerra
 
 ## Organizations
 - [[Majestic 12]] — Secret group established September 24, 1947 tasked with recovering and studying extraterrestrial craft, technology, and entities
@@ -139,7 +139,7 @@ This video features an in-depth interview with UAP researcher Ryan S. Wood exami
 - [[MJ-12 Covert Retrieval Operations]] — Operations carried out by MJ-12 in collusion with the CIA, both domestically and abroad, to recover extraterrestrial craft, technology, and entities.
 - [[Blue Fly]] — Crash retrieval operation mentioned by Robert Wood alongside Blue Team designations in the context of MJ-12 recovery teams
 - [[Contingency Plan MJ-1 19494 P78]] — MJ-12 plan for public disclosure of extraterrestrial information, referenced in the Special Operations Manual's section on unusual conditions
-- [[Operation Moondust]] — A military program whose officers were ostensibly the source of classified UAP documents sent to Tim Cooper via mailbox drops.
+- [[Project Moondust]] — A military program whose officers were ostensibly the source of classified UAP documents sent to Tim Cooper via mailbox drops.
 - [[MJ-12 Program]] — Described by Alexander as a real but super-secret program unrelated to UFOs; its true purpose remains classified according to him.
 
 ## Locations

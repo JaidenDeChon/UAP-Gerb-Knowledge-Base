@@ -17,6 +17,10 @@ This disclosure indicated that Project Blue Book — which publicly presented UF
 
 Project Blue Book officially concluded in 1969 with the Condon Report, which found that UFO study had no scientific merit. However, the existence of parallel NORAD tracking and the subsequent development of the [[Fast Walkers]] designation suggest that classified UFO monitoring continued long after Blue Book's closure, simply under different organizational structures and classification protocols.
 
+## Director Succession
+
+Captain [[Edward J. Ruppelt]] served as director of Project Blue Book (as well as its predecessors [[Project Sign]] and [[Project Grudge]]), and wrote about the [[Gorman Dogfight]] as one of three classic UFO incidents in 1948 that "proved to Air Force intelligence specialists that UFOs were real."
+
 ## Additional References
 
 Project Blue Book documents were reportedly found scattered inside the [[Tejon Ranch facility]]. The program classified the [[Kecksburg crash]] as a meteor, with involvement from the 662 radar squadron.
@@ -24,3 +28,7 @@ Project Blue Book documents were reportedly found scattered inside the [[Tejon R
 ## Sources
 
 - [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Video - Global Air Force UFO Encounters You've Probably Never Heard of]]
+
+## Appearances
+*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -16,7 +16,7 @@ tags:
 The video, hosted by YouTube creator UAP Gerb, provides a comprehensive historical survey of Unidentified Submerged Object (USO) sightings spanning from Christopher Columbus's era through the late 20th century, drawing on maritime logs, military records, and Project Blue Book files. Key cases examined include the 1879 HMS Vulture sighting of two counter-rotating luminous wheel-shaped objects in the Persian Gulf, the 1887 SS Siberian fireball emergence off Newfoundland, the 1902 Fort Salisbury encounter with a ~200-meter cigar-shaped object submerging in the Gulf of Guinea, and multiple mid-20th century cases where Blue Book explanations — such as meteor, flare, and satellite decay — are argued to be inadequate. The video also highlights that of 258 ship-based Blue Book sightings, only a small number qualified as credible USO reports, a gap the creator attributes to suppressive reporting directives OPNAV 3820 and JANAP 146C. UAP Gerb concludes that the volume and consistency of credible historical USO reports, particularly the recurring "maritime light wheel" phenomenon across the Eastern Hemisphere, suggests the oceans may be central to understanding the broader UAP phenomenon.
 
 ## People
-- [[Lou Elizondo]] — Referenced in relation to a diving team encounter with a USO intercepting missile data
+- [[Luis Elizondo]] — Referenced in relation to a diving team encounter with a USO intercepting missile data
 - [[UAP Gerb]] — Host and narrator of the video analyzing USO sightings throughout history
 - [[AF Perry]] — Hypothesized that USO sightings could be experiments conducted by oil search teams
 - [[Frederick Walter]] — Observed five gray oblong objects rise from the sea in Port Augusta, South Australia in 1947

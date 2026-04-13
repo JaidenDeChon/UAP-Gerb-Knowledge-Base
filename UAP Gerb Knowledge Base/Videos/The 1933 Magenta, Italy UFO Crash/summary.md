@@ -15,7 +15,7 @@ The video examines the alleged 1933 UFO crash retrieval near Magenta, Italy, fra
 
 ## People
 - [[David Grusch]] — Referenced as making direct statements about the 1933 Magenta Italy UFO crash retrieval being the first NHI craft recovered by US forces
-- [[Lou Elizondo]] — Also cited as making direct statements about the first NHI craft being recovered from fascist Italy
+- [[Luis Elizondo]] — Also cited as making direct statements about the first NHI craft being recovered from fascist Italy
 - [[Benito Mussolini]] — Headed the secret RS-33 group established to examine the recovered craft; initially believed it to be from France, Britain, or Germany
 - [[Galeazzo Ciano]] — Member of the top secret RS-33 group examining the recovered craft
 - [[Italo Balbo]] — Member of the RS-33 group involved in examining the recovered craft

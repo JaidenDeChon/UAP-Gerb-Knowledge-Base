@@ -45,3 +45,12 @@ Speech-to-text transcription generates variant spellings of proper nouns, which 
 - DUMBs video: Tunnel Boring Machine had 2 pages: "Tunnel Boring Machine (TBM)" (canonical) and "Tunnel Boring Machines" — deleted stub
 - DUMBs video: Maglev had 2 pages: "Maglev Underground Transportation" (canonical) and "Maglev Underground Train Systems" — deleted stub
 - DUMBs video: Subterranean Facility had 3 pages: "Subterranean Facility (STIF)" (canonical), "STIFF (Subterranean Facility)", "Subterranean Facility" — deleted 2 stubs
+- FLYBY video: "Lou Elizondo" → consolidated into "Luis Elizondo" (nickname vs. full name pattern)
+- FLYBY video: "Lieutenant Jacobs" + "Bob Jacobs" → consolidated into "Robert Jacobs" (rank/nickname vs. full name)
+- FLYBY video: "Senate Intelligence Committee" → consolidated into "Senate Select Committee on Intelligence" (shortened vs. formal name)
+- FLYBY video: "McMinnville UFO Photos" → consolidated into "McMinnville UFO Photographs" (trivial word variation)
+- FLYBY video: Found 14+ SAP duplicate pages — systemic issue flagged for dedicated cleanup
+- METAPOD video: "Lou Elizondo" → already consolidated (caught by FLYBY agent first)
+- METAPOD video: AATIP had triplicates across Organizations/, Operations/, Concepts/ — consolidated into Operations/ canonical
+- METAPOD video: "UAP Characteristics (AATIP)" → consolidated into "Five UAP Characteristics (AATIP)" (more descriptive name)
+- Global Air Force video: "Vasa, Finland" → consolidated into "Vaasa, Finland" (correct modern Finnish spelling)

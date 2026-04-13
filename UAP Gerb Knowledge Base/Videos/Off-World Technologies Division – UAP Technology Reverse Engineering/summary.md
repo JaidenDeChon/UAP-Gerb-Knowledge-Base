@@ -26,7 +26,7 @@ The video, presented by YouTube creator UAP Gerb, centers on the first-hand test
 - [[Daniel Sheehan]] — Attorney for Luis Elizondo who made notable claims in 2021 related to UAP iconography
 - [[Jimmy Carter]] — Allegedly ordered Sheehan to scour classified portions of Project Blue Book in 1977
 - [[Steven Lovekin]] — His testimony was referenced in connection with classified programs parallel to Project Blue Book
-- [[Lou Elizondo]] — Notable figure in UAP disclosure; RA chose not to contact him after his experience
+- [[Luis Elizondo]] — Notable figure in UAP disclosure; RA chose not to contact him after his experience
 - [[David Grusch]] — Notable figure in UAP disclosure; RA chose not to contact him after his experience
 - [[Chris Mellon]] — Notable figure in UAP disclosure; RA chose not to contact him after his experience
 - [[Jesse Michaels]] — Recommended for his video about electrogravitics and the scientist who built UFOs for the CIA

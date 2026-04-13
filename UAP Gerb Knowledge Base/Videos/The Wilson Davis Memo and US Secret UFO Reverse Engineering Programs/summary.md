@@ -22,7 +22,7 @@ This video examines the Wilson-Davis memo and its implications for alleged U.S. 
 - [[Edgar Mitchell]] — Confirmed the 1997 meeting before his death; notes found in his estate after death further corroborated the memo
 - [[Steven Greer]] — Present at the 1997 meeting with Wilson, Miller, Mitchell, and Hughes
 - [[Dia Hughes]] — Requested the 1997 meeting and needed the briefing expedited; present at the Wilson meeting
-- [[Lou Elizondo]] — Has confirmed the Wilson-Davis memo's authenticity and spoke about AATIP discovering a black UAP program within the DoD
+- [[Luis Elizondo]] — Has confirmed the Wilson-Davis memo's authenticity and spoke about AATIP discovering a black UAP program within the DoD
 - [[Chris Mellon]] — Has attested to the Wilson-Davis memo's authenticity; narrator spoke to him directly about it
 - [[Joe Murgia]] — Interviewed Will Miller about the Wilson-Davis memo and the 1997 meeting
 - [[Billy Cox]] — Wrote an article containing quotes from Wilson that were referenced in the analysis

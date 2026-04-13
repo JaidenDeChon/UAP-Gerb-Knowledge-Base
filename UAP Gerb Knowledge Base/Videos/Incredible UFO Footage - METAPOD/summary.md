@@ -18,7 +18,7 @@ The video, presented by UAP content creator UAP Gerp, provides an in-depth analy
 - [[Modesto]] — Claims to have filmed the Metapod UFO near El Escorial, Spain on September 6, 2015 and emailed the footage to UFO VNI
 - [[Mo]] — Accompanied Modesto during the sighting and reportedly saw something moving inside the UFO
 - [[UAP Gerp]] — YouTube analyst presenting and analyzing the Metapod footage
-- [[Lou Elizondo]] — Referenced for AATIP's five characteristics of UAP used to evaluate the Metapod craft
+- [[Luis Elizondo]] — Referenced for AATIP's five characteristics of UAP used to evaluate the Metapod craft
 - [[Mick West]] — His website Metabunk is referenced regarding jitter analysis of the craft footage
 - [[UVM bky]] — Translated the audio in the Metapod footage
 - [[NV bky]] — Noted that the audio appears to have been processed with a noise reduction filter

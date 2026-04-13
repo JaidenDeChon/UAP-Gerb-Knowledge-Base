@@ -423,7 +423,7 @@ tags:
 - [[Vandenberg Air Force Base]]
 - [[Varese, Italy]]
 - [[Varginha, Brazil]]
-- [[Vasa, Finland]]
+- [[Vaasa, Finland]]
 - [[Vatican]]
 - [[Venezuela]]
 - [[Vietnam]]

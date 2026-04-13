@@ -69,6 +69,19 @@ type: project
 - **Catherine Austin Fitts** — DUMBs video (primary — $21 trillion black budget finding), multiple videos (financial context)
 - **John B. Alexander** — DUMBs video (primary — Advanced Theoretical Physics Conference)
 
+- **Luis Elizondo** — FLYBY video (GQ interview, AATIP five characteristics), METAPOD video (AATIP framework), multiple other videos; NOTE: "Lou Elizondo" was a duplicate — consolidated into Luis Elizondo.md
+- **Chris Mellon** — FLYBY video (Joe Rogan close-proximity footage statement), METAPOD video, multiple other videos
+- **Robert Jacobs** — FLYBY video (primary — Big Sur warhead shootdown, craft morphology); NOTE: "Lieutenant Jacobs" and "Bob Jacobs" were duplicates — consolidated into Robert Jacobs.md
+- **McMinnville UFO Photographs** — FLYBY video (craft morphology comparison with flyby footage); NOTE: "McMinnville UFO Photos" was a duplicate — consolidated
+- **Mick West** — METAPOD video (primary — debunking analysis, Metabunk)
+- **Bob Lazar** — FLYBY video (belly-towards-destination flight dynamics), Peru Crash video, multiple others
+- **AATIP** — FLYBY video (Elizondo statements), METAPOD video (five observables framework); NOTE: had triplicates across Organizations/, Operations/, Concepts/ — consolidated into Operations/
+- **Project Moondust** — Global Air Force video (Peru UFO intercept DOD briefing), other videos
+- **Foo Fighters** — Global Air Force video (source added), referenced in multiple videos
+- **George F. Gorman / Gorman Dogfight** — Global Air Force video (primary)
+- **Oscar Santa Maria Hueras / La Joya Airbase UFO Intercept** — Global Air Force video (primary)
+- **Pori Airport UFO Incident** — Global Air Force video (primary — Tarmo Tukia, Juhani Korhonen)
+
 **Why:** Tracking these prevents re-doing work and ensures Sources sections are cumulative across videos.
 
 **How to apply:** When processing a new video, check if entities already have substantial pages from prior video processing. If so, only add the new video as a source and make targeted additions rather than full rewrites.

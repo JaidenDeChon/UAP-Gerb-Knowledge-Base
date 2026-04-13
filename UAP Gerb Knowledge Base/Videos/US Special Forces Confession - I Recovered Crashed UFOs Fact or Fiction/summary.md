@@ -15,7 +15,7 @@ The video analyzes testimony from an anonymous UAP whistleblower who claims to h
 
 ## People
 - [[Robert Salas]] — Associated with UAP interactions at Malmstrom Air Force Base involving nuclear arms
-- [[Bob Jacobs]] — Testified about UAP interest in dummy ICBM flights
+- [[Robert Jacobs]] — Testified about UAP interest in dummy ICBM flights
 - [[Leonard Stringfield]] — Received testimony from witness 'Ka' about 1954 crash retrieval; authored UFO crash retrieval status reports
 - [[David Grusch]] — Referenced regarding UAP program compartmentalization, dead pilots recovered from craft, and public disclosure approach
 - [[Steven Greer]] — Mentioned in connection with a redacted witness list relevant to UAP crash retrievals

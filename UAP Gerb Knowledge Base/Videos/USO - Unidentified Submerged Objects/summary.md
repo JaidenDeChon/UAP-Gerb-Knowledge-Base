@@ -15,7 +15,7 @@ The video provides a comprehensive overview of Unidentified Submerged Objects (U
 
 ## People
 - [[Galet]] — Authored a paper elevating USO/UAP study to national research priorities and framed the scientific and security implications
-- [[Lou Elizondo]] — Discussed a military USO encounter in a 2022 interview involving a helicopter crew recovering a cruise missile
+- [[Luis Elizondo]] — Discussed a military USO encounter in a 2022 interview involving a helicopter crew recovering a cruise missile
 - [[Terry Virts]] — Interviewed Lou Elizondo in 2022 about military USO encounters
 - [[David Fraver]] — Referenced in connection with a UAP/USO encounter involving a missile being pulled underwater
 - [[John Bowman]] — Witnessed a Tic Tac shaped USO from the flight deck of USS Carl Vinson off the coast of Haiti in 2010
@@ -43,7 +43,7 @@ The video provides a comprehensive overview of Unidentified Submerged Objects (U
 - [[Air-Water Interface Crossing]] — The ability of observed UAP/USOs to enter and exit bodies of water without significant deceleration, considered physically impossible for known human-made technology.
 - [[Puerto Rican Trench]] — The second deepest part of the ocean, located near Puerto Rico, referenced in the context of a USO encounter during a Navy cruise missile recovery operation.
 - [[USO (Unidentified Submerged Object)]] — Unidentified objects observed entering, exiting, or operating underwater, analogous to UAP but in aquatic environments
-- [[Tic Tac UAP]] — A descriptor for UAP shaped like a Tic Tac candy, white and oblong, associated with multiple Navy sightings
+- [[Tic Tac UFO]] — A descriptor for UAP shaped like a Tic Tac candy, white and oblong, associated with multiple Navy sightings
 - [[Fata Morgana]] — A complex optical mirage appearing above the horizon, proposed by some as an explanation for the USS Trepang images
 - [[Photo Tampering  Enhancement]] — The alteration or enhancement of photographs for print publication, relevant to evaluating the authenticity of the USS Trepang images
 - [[Project Blue Book]] — US Air Force program that investigated UFO reports; mentioned as a source for officially reported USO cases

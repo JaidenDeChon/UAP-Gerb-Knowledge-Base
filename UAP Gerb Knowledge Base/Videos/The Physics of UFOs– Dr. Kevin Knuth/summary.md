@@ -30,7 +30,7 @@ The video, hosted by UAP Gerb, examines the physical characteristics of UAP thro
 - [[David Barnett]] — Referenced in connection with a USO case
 - [[James McCampbell]] — Associated with the 1983 McCampbell case involving electric field effects on car engines near UFOs
 - [[Kevin Knuth]] — Presented a paper estimating flight characteristics of anomalous unidentified aerial vehicles, including analysis of UAP cases like the Nimitz Tic Tac
-- [[Lou Elizondo]] — Referenced for his characterization of anomalous craft and their properties
+- [[Luis Elizondo]] — Referenced for his characterization of anomalous craft and their properties
 - [[UAP Gerb]] — Host and narrator of the video discussing Kevin Knuth's research
 
 ## Organizations

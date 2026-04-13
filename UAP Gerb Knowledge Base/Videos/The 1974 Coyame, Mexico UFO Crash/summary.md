@@ -23,7 +23,7 @@ The video examines the 1974 Coyame, Chihuahua, Mexico UFO crash, in which US Air
 - [[Elaine Douglas]] — Received anonymously mailed paper copies of the Denb report and shared the original documents with Stringfield
 - [[JS]] — Listed as the sender of the Denb report memo dated 23 March 1992 addressed to all Denb team members
 - [[Nick Redfern]] — Received anonymously mailed copies of the tenet/coyam report
-- [[Lou Elizondo]] — Cited as source confirming unknown UAP programs were operating in the 1980s
+- [[Luis Elizondo]] — Cited as source confirming unknown UAP programs were operating in the 1980s
 - [[Jesus Alberto]] — The narrator intends to contact him on social media to request release of a video related to the Coyame incident
 - [[Mercy]] — Wikipedia editor who added names related to the Coyame case; connected to Torres and Uriarte around 2011
 - [[Ryan Wood]] — Referenced as considering a particular MJ-12 document to be the most crucial piece besides crash retrievals

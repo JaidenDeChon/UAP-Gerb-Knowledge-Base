@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "02e058583905d630",
+        "id": "aebf4117691fe0a7",
         "type": "tabs",
         "children": [
           {
-            "id": "78dd551be4c063b0",
+            "id": "64c015e83448eae7",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -179,8 +179,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "78dd551be4c063b0",
+  "active": "64c015e83448eae7",
   "lastOpenFiles": [
+    "Concepts/AWACS (Airborne Warning and Control System).md",
+    "Concepts/NATO Brevity Language.md",
+    "Organizations/US Army Medical Research Institute of Chemical Defense.md",
+    "Organizations/DHS (Department of Homeland Security).md",
+    "Organizations/ONI (Office of Naval Intelligence).md",
+    "People/S. McCaron.md",
+    "People/M. Harmon.md",
+    "People/Hillary S. McCaron.md",
     "Events/1984 DSP Indian Ocean Detection.md",
     "People/Lawrence Fawcett.md",
     "People/Kristen B. Zimmerman.md",
@@ -199,14 +207,6 @@
     "Operations/Project Second Story.md",
     "People/Ryan W Harris.md",
     "Concepts/Insectoid Beings.md",
-    "People/Brad Sparks.md",
-    "People/Lawrence Faucet.md",
-    "People/Barry J. Greenwood.md",
-    "Concepts/Project Twinkle.md",
-    "Concepts/Hottel Memo.md",
-    "People/Richard P. Oszx.md",
-    "People/Bradley R. Townson.md",
-    "People/Kit Green.md",
     "_templates",
     "Locations",
     "Operations",
