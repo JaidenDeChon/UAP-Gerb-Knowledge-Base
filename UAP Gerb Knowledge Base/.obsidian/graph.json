@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "-\"MOC\" -\"Template\"",
+  "collapse-filter": false,
+  "search": "-\"MOC\" -\"Template\" -\"summary\" -\"transcript\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -63,10 +63,10 @@
   "nodeSizeMultiplier": 1.87901475694444,
   "lineSizeMultiplier": 2.77096788194444,
   "collapse-forces": false,
-  "centerStrength": 0.344661458333333,
+  "centerStrength": 0.0778211805555556,
   "repelStrength": 15.5286458333333,
-  "linkStrength": 0.746006944444445,
-  "linkDistance": 69,
-  "scale": 0.04667061963717196,
+  "linkStrength": 0.580642361111111,
+  "linkDistance": 220,
+  "scale": 0.027458254968549846,
   "close": false
 }

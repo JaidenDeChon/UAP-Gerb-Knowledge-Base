@@ -41,7 +41,6 @@ tags:
 - [[Glomar Explorer Operation]]
 - [[Hidden Wing]]
 - [[Hunter Warrior Advanced Warfighting Experiment]]
-- [[Hunter Warrior]]
 - [[Immaculate Constellation (IMCON)]]
 - [[Immaculate Constellation]]
 - [[Indonesia Humanitarian Relief Mission]]

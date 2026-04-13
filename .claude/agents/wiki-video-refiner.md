@@ -128,14 +128,9 @@ When you have **high confidence** or have received **user approval** to consolid
    - Preserve any unique details from the duplicate
    - Resolve any conflicts by noting both versions if they meaningfully differ
    - Update the Sources section to include all sources from both pages
-3. **Delete or redirect**: If your tools allow page deletion, delete the redundant page. Otherwise, replace its content with a redirect stub:
-   ```markdown
-   ---
-   name: "[Duplicate Entity Name]"
-   redirect_to: "[[Canonical Entity Name]]"
-   ---
-   
-   This page has been consolidated with [[Canonical Entity Name]].
+3. **Delete the duplicate**: Delete the redundant page entirely. Do NOT create redirect stubs — they clutter the vault and Obsidian does not support redirects natively. Use a terminal `rm` command to delete the file.
+   ```bash
+   rm "path/to/Duplicate Entity Name.md"
    ```
 4. **Update links**: Search for any wikilinks pointing to the duplicate page and update them to point to the canonical page
 5. **Log consolidation**: In your completion summary (Step 5), note which pages were consolidated and why

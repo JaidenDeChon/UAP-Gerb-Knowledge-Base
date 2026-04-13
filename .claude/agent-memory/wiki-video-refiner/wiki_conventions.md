@@ -16,7 +16,7 @@ type: reference
 - Locations: `name`, `location_type` (facility|site|base|region), `tags: [location]`
 - Concepts: `name`, `tags: [concept]`
 - Events: `name`, `date`, `tags: [event]`
-- Redirects: `name`, `redirect_to: "[[Target Page]]"` — body is "This page has been consolidated with [[Target Page]]."
+- Redirects: Do NOT create redirect stubs. Delete duplicate pages entirely with `rm`. Obsidian does not support redirects natively and they clutter the vault.
 
 ## MOC Updates
 - When renaming pages, update the corresponding MOC file (e.g., Organizations MOC.md) to match the new wikilink

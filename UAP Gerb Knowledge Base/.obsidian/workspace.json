@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e57aa55284226e06",
+        "id": "b582e8712d2aeead",
         "type": "tabs",
         "children": [
           {
-            "id": "9d7388eae0b5139c",
+            "id": "78c417e16b469d48",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -178,14 +178,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "9d7388eae0b5139c",
+  "active": "78c417e16b469d48",
   "lastOpenFiles": [
+    "People/Jonathan Waant.md",
+    "People/Jonathan Wagant.md",
+    "Operations/Hunter Warrior Advanced Warfighting Experiment.md",
+    "Operations/Hunter Warrior.md",
+    "Events/Hunter Warrior Exercise.md",
+    "Events/Hunter Warrior Advanced Warfighting Experiment.md",
+    "People/Untitled.md",
+    "People/Uncle.md",
     "Concepts/Atomic Energy Act of 1954.md",
     "People/Sean Kirkpatrick.md",
     "Videos/Video - The Hidden Wing - US Air Force UFO Reverse Engineering Programs.md",
     "Concepts/Crash Retrieval.md",
     "People/Steven Greer.md",
-    "People/Untitled.md",
     "People/Tom DeLonge.md",
     "People/Amy.md",
     "Home.md",
@@ -199,13 +206,6 @@
     "Locations/White Sands Proving Grounds.md",
     "Locations/Alamogordo, New Mexico.md",
     "Locations/San Augustine, New Mexico.md",
-    "Locations/Walter Reed Army Medical Center.md",
-    "Locations/Kecksburg.md",
-    "Locations/Route 40.md",
-    "Locations/Walter Reed Hospital.md",
-    "Locations/Fort Riley, Kansas.md",
-    "Operations/Project Horizon.md",
-    "Events/Channel One-Year Anniversary.md",
     "_templates",
     "Locations",
     "Operations",

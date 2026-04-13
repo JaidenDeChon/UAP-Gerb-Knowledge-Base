@@ -347,7 +347,6 @@ tags:
 - [[Hottel Memo]]
 - [[Hungary Crop Bending Method Discovery]]
 - [[Hunter Warrior Advanced Warfighting Experiment]]
-- [[Hunter Warrior Exercise]]
 - [[Hynek told he has no need to know by Rumsfeld]]
 - [[In-Person Meeting with NOC Operative]]
 - [[Inclement Weather Reporting Cover]]

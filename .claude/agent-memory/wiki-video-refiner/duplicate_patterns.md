@@ -24,7 +24,7 @@ Speech-to-text transcription generates variant spellings of proper nouns, which 
 ## Resolution
 - Identify canonical page (most content OR correct spelling)
 - Merge unique content into canonical
-- Replace duplicates with redirect stubs (frontmatter redirect_to + one-line body)
+- Delete duplicates entirely with `rm` — do NOT create redirect stubs (they clutter the vault; Obsidian has no native redirect support)
 - Update MOC files when applicable
 - The "NSA Special Response Teams (SRTs)" page was actually about DOE SRTs — renamed during Castle video processing
 - Peru Crash video: "Joe Staulia" was a speech-to-text variant of "Joseph Stafula" — required `mv` rename + full rewrite
