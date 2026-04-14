@@ -60,7 +60,7 @@ The video, hosted by UAP researcher "UAP Gerb," presents a deep-dive investigati
 - [[Holocron Engineering]] — Gravity modification R&D company for which Amy lectured about historical anti-gravity experiments
 - [[U.S. Senate]] — Body to which McCandlish was reportedly set to testify on UAP in June 2021
 - [[US Congress]] — Mark Mandel was reportedly set to testify before Congressional and Senate elements in June 2021
-- [[Soul Foundation]] — Hosting hearings on November 13th that the narrator plans to attend
+- [[Sol Foundation]] — Hosting hearings on November 13th that the narrator plans to attend
 
 ## Concepts
 - [[Alien Reproduction Vehicle (ARV)]] — A vehicle allegedly constructed from nonhuman technology, operated by private aerospace companies or the US government; also nicknamed the 'flux liner' due to its use of high-voltage electricity.

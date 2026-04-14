@@ -407,7 +407,7 @@ tags:
 - [[Skunk Works]]
 - [[Skywatchers]]
 - [[Sol Foundation]]
-- [[Soul Foundation]]
+- [[Sol Foundation]]
 - [[Soviet Union]]
 - [[Space Dynamics Laboratory]]
 - [[Space Force]]

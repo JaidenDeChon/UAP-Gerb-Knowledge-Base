@@ -13,6 +13,12 @@ On January 6, 1967, Hynek participated in a discussion at [[Goddard Space Flight
 
 This revelation confirmed that while Project Blue Book was publicly presenting UFO investigation as a largely dismissive scientific exercise, NORAD — the military command responsible for aerospace warning and control — was conducting parallel and far more serious tracking and analysis of unidentified objects in North American airspace. The implication was that the US military had continuous surveillance data on UFOs from defense tracking systems that was never fully disclosed to Project Blue Book investigators or the public.
 
+## Disclosure of Parallel Classified Programs
+
+Hynek additionally stated that alongside Project Blue Book, other classified programs were going on studying UFOs. This confirmed what Captain [[Edward J. Ruppelt]] had disclosed on April 24, 1952: that programs parallel to the official UFO investigations were "conducting a more complete investigation." One of these parallel programs was later confirmed to be [[Project Moondust]], a classified Air Force crash retrieval program operating under the [[USAF 1127th Field Activities Group]] from at least 1961 through the mid-1990s.
+
+Hynek's acknowledgment of parallel programs suggests he was aware that Project Blue Book functioned primarily as a public-facing information management operation, while classified programs handled actual UFO collection, crash retrieval, and technical analysis activities.
+
 ## Evolution as a Researcher
 
 Hynek famously developed the "Close Encounters" classification system (CE-I, CE-II, CE-III) that became the standard framework for categorizing UFO encounters. He later founded the Center for UFO Studies (CUFOS) and advocated for serious scientific study of the phenomenon.
@@ -23,4 +29,5 @@ Hynek's 1967 statement about NORAD tracking remains one of the most important di
 
 ## Sources
 
+- [[Video - MOON DUST - The Pentagon's Secret UFO Programs]]
 - [[Video - FASTWALKERS – UFOs Outside Earth]]

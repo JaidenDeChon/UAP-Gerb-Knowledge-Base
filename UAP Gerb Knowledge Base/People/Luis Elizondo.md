@@ -31,8 +31,19 @@ Elizondo is alleged to have participated in an Obama-era initiative alongside [[
 
 Elizondo has referenced knowledge of underwater UAP bases and a 1950 crash incident near La Indio and Guerra, though details of these claims remain underspecified in available sources.
 
+## 1933 Magenta, Italy UFO Crash
+
+In an interview, Elizondo made statements corroborating the [[1933 Magenta UFO Crash/Retrieval|1933 Magenta, Italy UFO crash/retrieval]] case, stating:
+
+> "Roswell may not have been the first event. There's been some reporting internationally as well that there have been some crashed vehicles and they were obtained by local authorities and there was some scientific study done on them. I want to be very careful not to go too far down the rabbit hole, but I've seen personally some documentation that's very compelling from a particular foreign country where they had a recovery of a vehicle and there they had some countries conducting scientific analysis on it, and after World War II, allegedly, parts of that vehicle were brought to the United States."
+
+When the interviewer suggested Italy, Elizondo confirmed: "Yeah, it was Italy. That's as it was explained to me. I saw some documentation that has been validated, that was from Mussolini himself. It's authentic, it's been proven to be authentic, the documentation."
+
+This statement directly validates the authenticity of the documents provided to researcher [[Roberto Pinotti]] and supports [[David Grusch]]'s public testimony about the Magenta retrieval being the first NHI craft recovered by the United States (via transfer from Italian to U.S. possession).
+
 ## Sources
 
+- [[Video - The 1933 Magenta, Italy UFO Crash]]
 - [[Video - Incredible UFO Footage - METAPOD]]
 - [[Video - Incredible UFO Footage - FLYBY]]
 

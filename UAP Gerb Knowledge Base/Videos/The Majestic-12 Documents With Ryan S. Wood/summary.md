@@ -137,7 +137,7 @@ This video features an in-depth interview with UAP researcher Ryan S. Wood exami
 
 ## Operations
 - [[MJ-12 Covert Retrieval Operations]] — Operations carried out by MJ-12 in collusion with the CIA, both domestically and abroad, to recover extraterrestrial craft, technology, and entities.
-- [[Blue Fly]] — Crash retrieval operation mentioned by Robert Wood alongside Blue Team designations in the context of MJ-12 recovery teams
+- [[Operation Bluefly]] — Crash retrieval operation mentioned by Robert Wood alongside Blue Team designations in the context of MJ-12 recovery teams
 - [[Contingency Plan MJ-1 19494 P78]] — MJ-12 plan for public disclosure of extraterrestrial information, referenced in the Special Operations Manual's section on unusual conditions
 - [[Project Moondust]] — A military program whose officers were ostensibly the source of classified UAP documents sent to Tim Cooper via mailbox drops.
 - [[MJ-12 Program]] — Described by Alexander as a real but super-secret program unrelated to UFOs; its true purpose remains classified according to him.

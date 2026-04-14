@@ -44,7 +44,7 @@ tags:
 - [[Bermuda Triangle]]
 - [[Big Sur, California]]
 - [[Bole, Ireland]]
-- [[Bolivia (Bolivian border)]]
+- [[Bolivia]]
 - [[Bolivia]]
 - [[Boscombe Down]]
 - [[Boulder, Colorado]]

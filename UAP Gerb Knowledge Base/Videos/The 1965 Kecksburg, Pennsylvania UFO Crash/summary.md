@@ -191,7 +191,7 @@ This video presents a detailed investigative deep dive into the December 9, 1965
 - [[Operation Safeside]] — US Air Force operation from 1965 to 1967 deploying the 1041 Security Police Squadron in blue berets as active defense units to repel raids on air bases in Vietnam
 - [[Project Moondust]] — Cold War-era US program tasked with recovering descended foreign space vehicles; files related to Kecksburg were associated with this program
 - [[Project UFO]] — A companion program to Moondust and Bluefly involved in recovering foreign space vehicles during the Cold War
-- [[Project Bluefly]] — Cold War-era program alongside Moondust and UFO tasked with recovering descended foreign space vehicles
+- [[Operation Bluefly]] — Cold War-era program alongside Moondust and UFO tasked with recovering descended foreign space vehicles
 - [[Project Corona]] — US spy satellite program that dropped film canisters over the US for retrieval; considered and eliminated as a candidate explanation for the Kecksburg object by Nicholas Johnson
 - [[Kecksburg The Untold Story]] — A documentary produced by Stan Gordon investigating the Kecksburg UAP incident, during which Myron provided new testimony about an alien body.
 - [[Kecksburg Military Recovery Operation]] — Alleged military retrieval of a crashed object in Kecksburg woods, observed by witnesses including Don Sebastian who reported military personnel securing the scene

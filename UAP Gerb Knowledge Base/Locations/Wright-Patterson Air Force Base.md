@@ -11,7 +11,16 @@ Wright-Patterson Air Force Base is a United States Air Force installation locate
 
 Wright-Patterson has deep historical ties to official US government UFO investigation programs. The base was home to the Air Research and Development Command and Air Materiel Command during the early years of UFO investigation, and has been repeatedly named in testimony and documents as a key site for UAP legacy program operations.
 
-The base is alleged in multiple sources to house recovered non-human biologics and recovered technical vehicles from UFO crashes. The most famous alleged storage location is the "[[Wright Patterson Blue Room|Blue Room]]" — a secure facility rumored to contain recovered UFO materials. In 1981, Senator [[Barry Goldwater]] wrote to UFO researcher [[Lee Graham]] regarding his attempts to access the Blue Room.
+The base is alleged in multiple sources to house recovered non-human biologics and recovered technical vehicles from UFO crashes. The most famous alleged storage location is the "[[Wright Patterson Blue Room|Blue Room]]" — a secure facility rumored to contain recovered UFO materials. In 1981, Senator [[Barry Goldwater]] wrote to UFO researcher [[Lee Graham]] detailing his attempts to access the Blue Room. Goldwater stated he had asked Wright-Patterson officials directly to see "the room where it was stored" and was "laughed off" and told "never to ask again" — a remarkable denial given his rank as Major General and chairmanship of the Senate Intelligence Committee.
+
+## Connection to Project Moondust
+
+Wright-Patterson served as a primary recipient of materials collected under [[Project Moondust]], the classified Air Force program that investigated and retrieved UFOs and foreign space vehicles from at least 1961 through the mid-1990s. Multiple Moon Dust cables and memos were addressed to the Foreign Technology Division at Wright-Patterson, including:
+
+- **1968 Nepal Circular Disc**: Moon Dust cable sent to DIA, the [[USAF 1127th Field Activities Group|1127th USAF Field Activities Group]], and Wright-Patterson regarding a crashed circular metal disc in Nepal
+- **1976 Canada Metal Fragments**: Moon Dust requested photos of metal fragments "of particular interest" to the USAF Foreign Technology Division at Wright-Patterson and the [[CIA Office of Weapons Intelligence]]
+
+The persistent routing of Moon Dust materials to Wright-Patterson reinforces the base's role as a central collection and analysis hub for anomalous aerospace objects.
 
 ## Office of Special Studies
 
@@ -31,4 +40,5 @@ Wright-Patterson continues to serve as a major center for Air Force research and
 
 ## Sources
 
+- [[Video - MOON DUST - The Pentagon's Secret UFO Programs]]
 - [[Video - FASTWALKERS – UFOs Outside Earth]]

@@ -36,18 +36,18 @@ This video examines the testimony of USAF Colonel Robert Willingham, who claims 
 - [[Non-Human Intelligence (NHI)]] — Entities that are not human, referenced in context of bodies allegedly observed at the crash site by Willingham.
 - [[Shape Memory Alloy]] — A material associated with Roswell crash debris, distinct from the material Willingham claims to have retrieved.
 - [[Witness Credibility Inconsistency]] — Discrepancies between Willingham's written accounts and later interviews, particularly regarding whether he saw non-human bodies.
-- [[Project Moon Dust]] — A US government project tasked with recovering foreign space vehicles and UFOs, cited as evidence of official UAP material recovery efforts.
+- [[Project Moondust]] — A US government project tasked with recovering foreign space vehicles and UFOs, cited as evidence of official UAP material recovery efforts.
 
 ## Events & Dates
 - [[Willingham UAP Crash Site Visit]] — Willingham and Perkins landed near a crash site in Mexico, observed debris and Mexican soldiers, and Willingham retrieved a small metal fragment
 - [[Willingham Material Submission and Disappearance]] — Willingham submitted a fragment to the USMC Metallurgy Lab in Hagerstown, Maryland; the lab later denied any record of the material or the receiving officer
 - [[Jeff Rense Interview with Willingham]] — Willingham stated he saw non-human bodies at the crash site, contradicting his earlier written account
 - [[Noah Torres 2023 Presentation]] — Author Noah Torres presented on the Willingham case and mentioned bodies, raising credibility concerns
-- [[1978 Bolivia UFO Crash Retrieval]] — Bolivian authorities alerted American military to inspect a downed UFO, cited as a parallel to the Willingham case
+- [[1978 Bolivia UFO Crash]] — Bolivian authorities alerted American military to inspect a downed UFO, cited as a parallel to the Willingham case
 - [[1966 CIA Memo on UFO Material]] — CIA memo discussing exploitation of a metallic fragment from a UFO recovered in the Congo
 
 ## Operations
-- [[Project Moon Dust]] — US government operation tasked with recovering foreign space vehicles and UFOs, cited as documented evidence of UAP material retrieval programs
+- [[Project Moondust]] — US government operation tasked with recovering foreign space vehicles and UFOs, cited as documented evidence of UAP material retrieval programs
 
 ## Locations
 - [[Mexico]] — Location of the alleged UAP crash site visited by Willingham and Perkins

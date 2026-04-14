@@ -1,10 +1,10 @@
 ---
-name: "Off-World Technology"
+name: "Off-World Technologies"
 tags:
   - concept
 ---
 
-Term used to describe non-human or extraterrestrial technology allegedly observed by RA in an underground division at NSWC Crane.
+Term used by a guide at NSWC Crane to describe technology allegedly not of human origin, stored in a specialized underground division.
 
 ## Appearances
 *(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -67,7 +67,7 @@ The video examines a series of historical military pilot UFO encounters from mul
 - [[Finnish UFO Sighting]] — Pilot Tua observed seven disc-shaped pale yellow objects that accelerated away at high speed against a 180 km/h headwind; radar in Vaasa detected them at an estimated 3,218 m/s
 - [[La Joya Airbase UFO Intercept]] — Lieutenant Oscar Santa Maria Hueras was scrambled in a Sukhoi-22 to intercept a silvery orb-like object; fired 64 30mm shells with no effect and chased it for 84 km before running low on fuel
 - [[Mexico UFO Incident]] — Mexican Air Force filmed 11 UAP using infrared equipment over the state of Campeche during an anti-drug trafficking patrol; three objects appeared on radar
-- [[1968 Nepal Crash Disc]] — Referenced in the DOD Joint Chiefs briefing alongside the 1980 Peru case under Operation Moondust coverage
+- [[1968 Nepal Circular Disc Crash]] — Referenced in the DOD Joint Chiefs briefing alongside the 1980 Peru case under Operation Moondust coverage
 - [[Mexico UFO Incident]] — A case involving 11 objects, three of which were detected on radar; possible flare explanation considered but not confirmed.
 - [[Finnish UFO Case]] — A UAP sighting case involving pilot testimony that the presenter leans toward explaining as a genuine UFO encounter.
 

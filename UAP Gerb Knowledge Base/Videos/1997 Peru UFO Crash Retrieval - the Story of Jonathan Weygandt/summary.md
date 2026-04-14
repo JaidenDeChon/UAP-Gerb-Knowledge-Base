@@ -268,7 +268,7 @@ This video presents a comprehensive investigative analysis of Jonathan Weygandt'
 - [[USAF Detachment 5, Ikitos]] — US Air Force detachment near Ikitos, Peru; theorized as Wagant's stationed location during Laser Strike
 - [[Camp Polk, Louisiana]] — US Army base where the 1953 egg-shaped craft crash and retrieval incident involving HJ took place
 - [[Cherry Point, North Carolina]] — Home station of the MAC G28 Marines who deployed to Operation Laser Strike
-- [[Bolivia (Bolivian border)]] — Wagant described his Yousef radar base as near the Bolivian border, though the narrator believes he likely meant near the Colombian and Brazilian borders
+- [[Bolivia]] — Wagant described his Yousef radar base as near the Bolivian border, though the narrator believes he likely meant near the Colombian and Brazilian borders
 - [[ITOS]] — A location near the Colombian and Brazilian borders that the narrator believes Wagant likely meant when referencing his radar base location
 - [[Fort Detrick]] — US Army installation roughly 40 miles from Washington DC, implicated in holding UAP biologics; home to Battel Memorial Institute's NBAC FFRDC.
 - [[Dugway Proving Ground]] — Utah facility previously implicated alongside Fort Detrick in holding UAP biologics.
