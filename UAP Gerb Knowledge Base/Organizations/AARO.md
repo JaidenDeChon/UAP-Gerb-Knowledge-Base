@@ -19,7 +19,20 @@ Most controversially, Herrera alleges that **AARO's Historical Report Volume 1 d
 
 This alleged misrepresentation pattern aligns with broader accusations that AARO under Kirkpatrick's leadership actively undermined whistleblower testimony rather than conducting good-faith investigations.
 
+## Sand Corp Contract and Structural Whistleblower Suppression
+
+In 2022, the DOD awarded a $1.9 million contract to [[Sand Corp]] for "AARO Support Services." Sand Corp specializes not in UAP analysis or scientific investigation but in **preventing leaks and stopping whistleblowers**. [[Ronald S. Moltry]]'s office (Under Secretary of Defense for Intelligence and Security) was involved in securing this contract. UAP researchers and commentators including UAP Gerb characterize this as the most structurally damning evidence that AARO was designed as a disinformation front and whistleblower suppression mechanism rather than a legitimate investigative office.
+
+## DOD IG Report: No Overarching UAP Policy
+
+An official press release from the DOD Office of the Inspector General stated: "DOD has no overarching UAP policy and lacks assurance that National Security and flight safety threats to the United States from UAP have been identified and mitigated." This finding directly contradicts AARO's stated mission and Kirkpatrick's public claims of rigorous, science-driven investigation.
+
+## Witnesses Briefed Kirkpatrick; Received No Follow-Up
+
+Contrary to Kirkpatrick's stated position that no UAP witnesses had brought evidence to AARO, [[Chris Mellon]] publicly stated he personally introduced Kirkpatrick to [[Luis Elizondo]], [[Eric Davis]], and [[Hal Puthoff]], each of whom spent hours briefing Kirkpatrick in a classified setting and received zero follow-up. Elizondo similarly stated that "many people" he knew personally had provided detailed information to AARO on the record. [[David Grusch]] has also stated he attempted to approach AARO but received no response.
+
 ## Sources
 
 - [[Video - The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
 - [[Video - Michael Herrera - Insights into UAP Encounter and Black Program Insiders]]
+- [[Video - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies]]

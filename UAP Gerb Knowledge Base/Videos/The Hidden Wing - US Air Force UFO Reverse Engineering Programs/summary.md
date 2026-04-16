@@ -41,7 +41,7 @@ Eight of fourteen former SECAF ATNL officials examined by the presenter had corp
 - **[[Russell E. Wiler]]**: Alleged Air Force gatekeeper for the UAP crash retrieval portfolio. Served as Director of the Sensitive Activities Office (SAF/AA) from 2009 to 2024, then moved to Director of Plans and Effects at the [[Office of Competitive Activities]]. Member of the Defense Intelligence Senior Executive Service.
 - **[[Ronald S. Moltry]]**: Former USD I&S who allegedly helped establish [[AARO]] on July 20, 2022, and installed [[Sean Kirkpatrick]] as its director. Accused of deleting references to [[Battelle Memorial Institute]] and [[Oak Ridge National Laboratory FFRDC]] from his public CV.
 - **[[Sean Kirkpatrick]]**: Former AARO Director. Accused of lying, deception, and active interference against UAP whistleblowers. Allegedly joined Oak Ridge National Lab FFRDC as CTO for defense and intelligence programs following his AARO tenure, with the job posting later removed.
-- **[[Eric H. Wang]]**: Described as a key historical figure in UFO legacy program discussions, with ties to the [[Air Force Research Laboratory]] at Wright Patterson and Kirtland Air Force Bases and involvement in the AFSWC research and development directorate. Connected by prior witnesses to the 1953 Kingman, Arizona crash retrieval.
+- **[[Eric Henry Wang]]**: Described as a key historical figure in UFO legacy program discussions, with ties to the [[Air Force Research Laboratory]] at Wright Patterson and Kirtland Air Force Bases and involvement in the AFSWC research and development directorate. Connected by prior witnesses to the 1953 Kingman, Arizona crash retrieval.
 - **[[Dylan Borland]]**: Military whistleblower who testified to observing a large triangular craft with apparent electro-optic cloaking over [[Langley Air Force Base]] around 2012.
 - **[[Chris Mellon]]**: Former government official who released partially redacted Signal message screenshots in April 2024 revealing an exchange about progress accessing the UFO crash retrieval portfolio.
 
@@ -103,7 +103,7 @@ The presenter alleges that [[Chris Mellon]], [[Lou Alzando]], and an associated 
 - [[Ronald S. Moltry]]
 - [[Dylan Borland]]
 - [[Chris Mellon]]
-- [[Eric H. Wang]]
+- [[Eric Henry Wang]]
 - [[Waived Unacknowledged Special Access Programs (USAPs)]]
 - [[Alien Reproduction Vehicle (ARV)]]
 - [[Edwards Air Force Base]]

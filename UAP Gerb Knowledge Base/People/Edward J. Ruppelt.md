@@ -31,6 +31,7 @@ Ruppelt specifically highlighted the October 1, 1948 [[Gorman Dogfight]] over [[
 
 - [[Video - MOON DUST - The Pentagon's Secret UFO Programs]]
 - [[Video - Global Air Force UFO Encounters You've Probably Never Heard of]]
+- [[Video - The Origin of the UFO Stigma]]
 
 ## Appearances
 *(Populated automatically via Obsidian backlinks from [[Videos]])*

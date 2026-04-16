@@ -31,6 +31,7 @@ Following the Condon Report's publication, the US Air Force terminated [[Project
 ## Sources
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
+- [[Video - The Origin of the UFO Stigma]]
 
 ## Appearances
 *(Populated automatically via Obsidian backlinks from [[Videos]])*

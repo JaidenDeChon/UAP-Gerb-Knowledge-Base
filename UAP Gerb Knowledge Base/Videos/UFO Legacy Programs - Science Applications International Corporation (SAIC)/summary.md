@@ -19,7 +19,7 @@ This video examines alleged connections between Science Applications Internation
 - [[R. Cooper]] — Named as a high-level executive within SIC relevant to UFO legacy program oversight
 - [[Samuel S. Visner]] — Named as a high-level SIC executive with ties to intelligence community
 - [[Sean Kirkpatrick]] — Accused of distorting, downplaying, and lying to senators about UAP investigation results; alleged gatekeeper for UFO legacy programs
-- [[Ronald Moltry]] — Accused of conflict of interest as he recommended formation of AARO and sat on Battelle's board; associate of Kirkpatrick
+- [[Ronald S. Moltry]] — Accused of conflict of interest as he recommended formation of AARO and sat on Battelle's board; associate of Kirkpatrick
 - [[Michael Herrera]] — His official AARO memorandum for record contradicted how his testimony was portrayed in the AARO historical report
 - [[Ed]] — Refused to testify to AARO under Kirkpatrick, claiming Kirkpatrick is an insider meant to suppress UAP information
 - [[Marco Rubio]] — Briefed by Kirkpatrick on AARO investigation results; allegedly misled

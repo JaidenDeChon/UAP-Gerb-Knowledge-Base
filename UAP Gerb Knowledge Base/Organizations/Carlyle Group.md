@@ -27,7 +27,7 @@ Carlyle also acquired the electronics division of [[General Dynamics]] and inves
 
 ## UAP Program Connections
 
-UAP Gerb has assessed the Carlyle Group as "highly suspect" of deep involvement in UAP programs. Additionally, [[Ronald Mátry]], the Under Secretary of Defense for Intelligence and Security who oversaw [[AARO]] and its director [[Sean Kirkpatrick]] and played a central role in public UAP denial at the 2022 Congressional hearings, was a board member of iCapital (a Carlyle-invested group) and served on the board of the Better Angels Society, funded by Carlyle founder David Rubenstein.
+UAP Gerb has assessed the Carlyle Group as "highly suspect" of deep involvement in UAP programs. Additionally, [[Ronald S. Moltry]], the Under Secretary of Defense for Intelligence and Security who oversaw [[AARO]] and its director [[Sean Kirkpatrick]] and played a central role in public UAP denial at the 2022 Congressional hearings, was a board member of iCapital (a Carlyle-invested group) and served on the board of the Better Angels Society, funded by Carlyle founder David Rubenstein.
 
 ## Sources
 

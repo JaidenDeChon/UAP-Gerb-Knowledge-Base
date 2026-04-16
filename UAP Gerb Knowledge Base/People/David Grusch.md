@@ -25,9 +25,14 @@ This testimony marked the first time a credentialed U.S. intelligence whistleblo
 
 Grusch has been in contact with other UAP whistleblowers including [[Michael Herrera]], who confirmed speaking with Grusch as part of broader disclosure coordination efforts. This suggests Grusch maintains an active role in connecting whistleblowers and facilitating information sharing within the UAP disclosure community even after his public congressional testimony.
 
+## Attempts to Contact AARO
+
+Grusch has publicly stated that he attempted to approach [[AARO]] and its director [[Sean Kirkpatrick]] but received no response. This directly contradicts [[Sean Kirkpatrick]]'s claim in his *Scientific American* op-ed that no whistleblowers elected to contact AARO. Grusch and Kirkpatrick differ in a significant respect: Grusch has testified before Congress under oath; Kirkpatrick has not.
+
 ## Sources
 
 - [[Video - The 1933 Magenta, Italy UFO Crash]]
+- [[Video - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies]]
 - [[Video - Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2]]
 - [[Video - National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers]]
 - [[Video - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs]]

@@ -34,3 +34,4 @@ The Robertson Panel's report was partially declassified in the 1970s. Subsequent
 - [[Video - The 1953 Kingman, Arizona UFO Crash]]
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
 - [[Video - The Origin of the UFO Stigma]]
+- [[Video - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies]]
