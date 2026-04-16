@@ -21,6 +21,7 @@ Subsequent analyses have produced mixed results, with some investigators claimin
 
 ## Sources
 
+- [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
 - [[Video - Incredible UFO Footage - FLYBY]]
 
 ## Appearances
