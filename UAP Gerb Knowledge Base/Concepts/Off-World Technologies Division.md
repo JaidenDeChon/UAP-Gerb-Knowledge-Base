@@ -51,7 +51,7 @@ According to [[RA]]'s testimony, at least two pieces of alleged non-human techno
 - **Size**: Approximately basketball-sized
 - **Appearance**: Seamless metallic construction with surface appearing "almost liquid but clearly metallic"
 - **Behavior**: Appeared to levitate or be repelled off its podium by an unknown force
-- **Surface quality**: Described as having a mother-of-pearl-like effect similar to the crashed UAP observed by [[Jonathan Wagant]] in Peru, 1997
+- **Surface quality**: Described as having a mother-of-pearl-like effect similar to the crashed UAP observed by [[Jonathan Weygandt]] in Peru, 1997
 - **Structural feature**: Indentation on top approximately the size of a hand (though RA acknowledged this could be human interpretation)
 - **Consciousness interaction**: Staff stated the sphere responds to some individuals but not others, possibly based on DNA or consciousness type
 

@@ -14,7 +14,7 @@ The concept appears across multiple alleged retrieval cases:
 
 - **1953 [[Camp Polk, Louisiana]] Incident** — Witness [[HJ]] described three living occupants of an egg-shaped craft who walked as if they had no knees, bending only at the hips, in tight-fitting metallic green uniforms. One occupant made strange noises while looking at a dead companion on a stretcher.
 
-- **1997 [[Peru UFO Crash Incident]]** — [[Jonathan Wagant]] described an arm hanging limply from a hatch and reported telepathic contact from tall gray-type entities requesting help — suggesting more advanced cognitive function than the drone-like beings described in other cases, raising the possibility that different types of biological occupants (ranging from near-autonomous to fully sentient) may operate different craft.
+- **1997 [[Peru UFO Crash Incident]]** — [[Jonathan Weygandt]] described an arm hanging limply from a hatch and reported telepathic contact from tall gray-type entities requesting help — suggesting more advanced cognitive function than the drone-like beings described in other cases, raising the possibility that different types of biological occupants (ranging from near-autonomous to fully sentient) may operate different craft.
 
 ## Sources
 

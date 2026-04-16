@@ -5,7 +5,7 @@ tags:
   - event
 ---
 
-The Peru UFO Crash Incident refers to an alleged encounter between US Marine Corps personnel and a crashed non-human craft during [[Operation Laser Strike]], a classified US counter-narcotics operation in [[Peru]], between March and April 1997. The primary witness is USMC Lance Corporal [[Jonathan Wagant]], whose testimony constitutes one of the most detailed firsthand accounts of a UAP crash retrieval in the historical record.
+The Peru UFO Crash Incident refers to an alleged encounter between US Marine Corps personnel and a crashed non-human craft during [[Operation Laser Strike]], a classified US counter-narcotics operation in [[Peru]], between March and April 1997. The primary witness is USMC Lance Corporal [[Jonathan Weygandt]], whose testimony constitutes one of the most detailed firsthand accounts of a UAP crash retrieval in the historical record.
 
 ## The Crash
 

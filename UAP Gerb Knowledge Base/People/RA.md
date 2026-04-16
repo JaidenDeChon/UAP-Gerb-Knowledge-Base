@@ -51,7 +51,7 @@ RA observed a basketball-sized sphere displayed on a podium in what appeared to 
 - **Seamless construction** with no visible joints, welds, or manufacturing marks
 - **Surface appearance** described as "almost liquid but clearly metallic" — unlike any known human-made material
 - **Apparent levitation** or repulsion off its podium, as if held by an unknown force
-- **Surface quality** reminiscent of the "mother of pearl effect" reported by [[Jonathan Wagant]] from the 1997 Peru UAP crash
+- **Surface quality** reminiscent of the "mother of pearl effect" reported by [[Jonathan Weygandt]] from the 1997 Peru UAP crash
 - **Indentation** on top approximately the size of a hand, though RA acknowledged this could be a human interpretation
 - **Consciousness interaction**: Staff stated the sphere responds to some individuals but not others, possibly based on DNA or consciousness type
 

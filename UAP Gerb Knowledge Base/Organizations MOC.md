@@ -391,7 +391,7 @@ tags:
 - [[SAIC]]
 - [[SETI]]
 - [[SIAI-Marchetti Aircraft Company]]
-- [[SIC]]
+- [[SAIC]]
 - [[SOCOM]]
 - [[San Francisco Chronicle]]
 - [[Sand Corp]]

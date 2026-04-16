@@ -30,7 +30,7 @@ Out of approximately 10 soldiers in the training class, only RA and one other so
 
 A private contractor guide — likely an SAIC employee based on contractor demographics at Crane — casually referred to the area as the "off-world technologies division," a phrase that induced immediate ontological shock in both soldiers. In a viewing room setup apparently designed for observation access, two pieces of alleged non-human technology were displayed:
 
-**The Seamless Metallic Sphere**: A basketball-sized object with no visible joints, welds, or manufacturing marks. Its surface appeared almost liquid yet clearly metallic, exhibiting what RA compared to the "mother of pearl effect" described by [[Jonathan Wagant]] from the [[1997 Peru UFO Crash]]. The sphere appeared to float or be repelled off its podium by an unknown force, and featured an indentation on top roughly the size of a hand. Staff informed RA that both objects interacted with human consciousness — responding to some individuals and not others, possibly based on DNA or consciousness type.
+**The Seamless Metallic Sphere**: A basketball-sized object with no visible joints, welds, or manufacturing marks. Its surface appeared almost liquid yet clearly metallic, exhibiting what RA compared to the "mother of pearl effect" described by [[Jonathan Weygandt]] from the [[1997 Peru UFO Crash]]. The sphere appeared to float or be repelled off its podium by an unknown force, and featured an indentation on top roughly the size of a hand. Staff informed RA that both objects interacted with human consciousness — responding to some individuals and not others, possibly based on DNA or consciousness type.
 
 **The Gauntlet/Weapon System**: A device resembling a gauntlet or arm-worn tablet, identified as a weapon system because it had discharged an energy pulse during recovery, injuring at least one person. Most significantly, the device projected hieroglyphic-like symbols with no visible projection mechanism — causing RA to speculate the characters were being displayed directly into his mind. These symbols closely matched those described by [[Daniel Sheehan]] from classified Blue Book photographs.
 
@@ -112,7 +112,7 @@ The video situates RA's account within a longer tradition of military reverse en
 
 ## Related Pages
 
-- **People**: [[RA]], [[Philip J. Corso]], [[Daniel Sheehan]], [[Denise McKenzie]], [[Gary Nolan]], [[Martin]], [[Jason Sans]], [[Luis Elizondo]], [[David Grusch]], [[Steven Greer]], [[Jimmy Carter]], [[Salvador Pais]], [[Jonathan Wagant]]
+- **People**: [[RA]], [[Philip J. Corso]], [[Daniel Sheehan]], [[Denise McKenzie]], [[Gary Nolan]], [[Martin]], [[Jason Sans]], [[Luis Elizondo]], [[David Grusch]], [[Steven Greer]], [[Jimmy Carter]], [[Salvador Pais]], [[Jonathan Weygandt]]
 - **Organizations**: [[Naval Surface Warfare Center Crane]], [[Off-World Technologies Division]], [[SAIC]], [[Project Blue Book]], [[AARO]], [[First Special Forces Airborne Command]], [[Interplanetary Phenomenon Unit]]
 - **Locations**: [[Area 51]], [[Crane, Indiana]], [[Spitsbergen, Norway]], [[Naval Air Station Pax River]]
 - **Concepts**: [[Consciousness-Interactive Technology]], [[Reverse Engineering]], [[Black Budget Funding]], [[NHI Symbolism]], [[Ontological Shock]], [[Remote Viewing]], [[Electrogravitics]]

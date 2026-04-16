@@ -27,7 +27,14 @@ TRW — later absorbed by Northrop Grumman along with BDM — had been involved 
 
 BDM was acquired by TRW, which was itself later purchased by Northrop Grumman. UAP Gerb identifies this acquisition chain as significant: key personnel and program knowledge from BDM's classified work would have transitioned into TRW and then Northrop Grumman, contributing to what UAP Gerb characterizes as Northrop Grumman's central role in current UFO legacy programs.
 
+## Rear Admiral Sumner Shapiro and the ET Vehicles Disclosure
+
+[[Rear Admiral Sumner Shapiro]] — former Director of Naval Intelligence — served as a BDM International board member. In 1989, Shapiro told NASA mission specialist [[Robert Oechsler]] (an introduction arranged by [[Bobby Ray Inman]], then SAIC board member and former NSA Director) that factions within the US possessed extraterrestrial vehicles and that he had personally studied one at close quarters. Shapiro described teams disassembling the craft, packing them up, and shipping them to different facilities, noting the craft featured unique interlocking components requiring disassembly in an exact sequence.
+
+The presence of a Director of Naval Intelligence on BDM's board at the time of this disclosure connects BDM institutionally to the highest levels of US Naval intelligence awareness of non-human technology. UAP Gerb notes that Northrop Grumman maintains a major corporate presence near BDM's former headquarters in Tyson Corner, Virginia.
+
 ## Sources
 
 - [[Video - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs]]
 - [[Video - Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2]]
+- [[Video - UFO Legacy Programs - Northrop Grumman]]

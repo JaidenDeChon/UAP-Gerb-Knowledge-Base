@@ -19,7 +19,7 @@ NAMRU installations are inherently multicultural environments, hosting researche
 
 ## Theorized Role in the Peru UFO Crash Incident
 
-UAP Gerb theorizes that NAMRU South in [[Iquitos, Peru]] served as the holding and quarantine site where [[Jonathan Wagant]] was taken after being exposed to an unknown viscous liquid leaking from a crashed [[Egg-shaped UAP|non-human craft]] during the 1997 [[Peru UFO Crash Incident]]. Several factors support this theory:
+UAP Gerb theorizes that NAMRU South in [[Iquitos, Peru]] served as the holding and quarantine site where [[Jonathan Weygandt]] was taken after being exposed to an unknown viscous liquid leaking from a crashed [[Egg-shaped UAP|non-human craft]] during the 1997 [[Peru UFO Crash Incident]]. Several factors support this theory:
 
 - NAMRU South is located in Iquitos, within driving distance of the theorized radar station (USAF Detachment 5) where Wagant was based
 - Wagant described the holding location as featuring permanent structures — not makeshift forward operating bases — consistent with an established research facility

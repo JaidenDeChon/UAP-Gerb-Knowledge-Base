@@ -17,7 +17,7 @@ The 7th Special Forces Group has an extensive history of foreign internal defens
 
 ## Alleged UAP Involvement
 
-UAP Gerb theorizes that 7th Special Forces Group personnel already deployed to northern Peru for [[Operation Laser Strike]] served as the armed enforcement arm of the [[Department of Energy]] [[NEST (Nuclear Emergency Support Team)|NEST]] crash retrieval team that secured the 1997 [[Peru UFO Crash Incident|Peru UFO crash site]]. [[Jonathan Wagant]] described the armed operators as older men in their late 30s and 40s wearing all-black fatigues without insignia, speaking with American dialects, who arrived at the crash site before the CH-47 helicopters carrying the DOE scientific team. Their described appearance, behavior, equipment (MP5s, Glocks, shotguns, M16s), and pre-positioning in the region are consistent with an Army Special Forces detachment.
+UAP Gerb theorizes that 7th Special Forces Group personnel already deployed to northern Peru for [[Operation Laser Strike]] served as the armed enforcement arm of the [[Department of Energy]] [[NEST (Nuclear Emergency Support Team)|NEST]] crash retrieval team that secured the 1997 [[Peru UFO Crash Incident|Peru UFO crash site]]. [[Jonathan Weygandt]] described the armed operators as older men in their late 30s and 40s wearing all-black fatigues without insignia, speaking with American dialects, who arrived at the crash site before the CH-47 helicopters carrying the DOE scientific team. Their described appearance, behavior, equipment (MP5s, Glocks, shotguns, M16s), and pre-positioning in the region are consistent with an Army Special Forces detachment.
 
 ## Sources
 

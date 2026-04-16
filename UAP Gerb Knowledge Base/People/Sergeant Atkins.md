@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Sergeant Atkins is a former United States Marine Corps non-commissioned officer who served with [[MAC G28|Air Control Group 28]] during [[Operation Laser Strike]] in [[Peru]] in 1997. Together with [[Sergeant Allen]] and [[Jonathan Wagant]], Atkins was among the first Marines to observe a crashed [[Egg-shaped UAP|egg-shaped craft]] in the Peruvian jungle.
+Sergeant Atkins is a former United States Marine Corps non-commissioned officer who served with [[MAC G28|Air Control Group 28]] during [[Operation Laser Strike]] in [[Peru]] in 1997. Together with [[Sergeant Allen]] and [[Jonathan Weygandt]], Atkins was among the first Marines to observe a crashed [[Egg-shaped UAP|egg-shaped craft]] in the Peruvian jungle.
 
 ## Role in the Peru Incident
 

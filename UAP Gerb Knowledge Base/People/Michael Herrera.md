@@ -118,7 +118,7 @@ Herrera states he has been in contact with David Grusch and has successfully con
 
 Herrera's account shares striking similarities with other UAP encounter testimonies documented by UAP Gerb:
 
-- **Unmarked armed operators**: Like [[Rodrik Castle]] and [[Jonathan Wagant]], Herrera encountered personnel in all-black or unmarked gear who were not identifiable as conventional military — consistent with UAP Gerb's theory that these were [[Wackenhut Corporation|Wackenhut]]-trained [[DOE Special Response Teams|DOE Special Response Teams (SRTs)]]
+- **Unmarked armed operators**: Like [[Rodrik Castle]] and [[Jonathan Weygandt]], Herrera encountered personnel in all-black or unmarked gear who were not identifiable as conventional military — consistent with UAP Gerb's theory that these were [[Wackenhut Corporation|Wackenhut]]-trained [[DOE Special Response Teams|DOE Special Response Teams (SRTs)]]
 - **Detention and intimidation**: All three witnesses were detained, debriefed, and warned against disclosure
 - **Anthrax booster**: Following his encounter, Herrera received an anthrax booster shot — the same post-encounter medical protocol administered to Castle and Wagant, which UAP Gerb theorizes may be connected to proximity to nuclear-powered craft or materials associated with the [[Atomic Energy Act of 1954]]
 - **Active-duty Marines**: All three witnesses were active-duty Marines at the time of their encounters

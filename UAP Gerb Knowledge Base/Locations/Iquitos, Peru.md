@@ -11,7 +11,7 @@ Iquitos is a major city in northeastern Peru, situated on the Amazon River and a
 
 Three significant US installations operated at or near Iquitos during [[Operation Laser Strike]]:
 
-- **USAF Radar Detachment 5** — An enigmatic radar installation with virtually no public documentation from the 1990s onward. UAP Gerb theorizes this was [[Jonathan Wagant]]'s base of operations, based on distance from Lima (630+ miles, consistent with Wagant's described multi-hour C-130 flight with one stop), the installation's role tracking narcotics traffic from Bolivia, and the classified nature of the site (a contacted Marine refused to discuss operational details, citing active classification)
+- **USAF Radar Detachment 5** — An enigmatic radar installation with virtually no public documentation from the 1990s onward. UAP Gerb theorizes this was [[Jonathan Weygandt]]'s base of operations, based on distance from Lima (630+ miles, consistent with Wagant's described multi-hour C-130 flight with one stop), the installation's role tracking narcotics traffic from Bolivia, and the classified nature of the site (a contacted Marine refused to discuss operational details, citing active classification)
 - **MARFORLAND Riverine Training Team** — A [[US Marine Forces South]] unit stationed at Iquitos for riverine operations under [[US SOUTHCOM]], also training with Peruvian military forces
 - **[[NAMRU (Naval Medical Research Unit)|NAMRU-6 (NAMRU South)]]** — A US Navy biomedical research laboratory with offices in both Lima and Iquitos, conducting research on infectious diseases and biodefense
 

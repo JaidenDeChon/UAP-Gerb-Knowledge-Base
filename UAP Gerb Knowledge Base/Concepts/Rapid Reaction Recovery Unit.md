@@ -23,7 +23,7 @@ The concept appears across numerous alleged incidents:
 - **1953 Kingman, Arizona** — A rapid response USAF unit was reportedly first on scene
 - **1965 Kecksburg, Pennsylvania** — USAF "Blue Berets" were allegedly on-site within hours, with witnesses reporting men in "moon suits" carrying equipment to the crash site
 - **1974 Coyame, Mexico** — The CIA mobilized a rapid recovery unit from Fort Bliss, Texas, arriving in four unmarked helicopters (UH-1 Hueys and CH-53 Super Stallions) with hazmat equipment
-- **1997 Peru** — [[Jonathan Wagant]] described a [[NEST (Nuclear Emergency Support Team)|NEST]] team deploying within approximately 8–9 hours, deploying via CH-47 Chinooks with approximately 30 personnel in biological containment gear
+- **1997 Peru** — [[Jonathan Weygandt]] described a [[NEST (Nuclear Emergency Support Team)|NEST]] team deploying within approximately 8–9 hours, deploying via CH-47 Chinooks with approximately 30 personnel in biological containment gear
 - **Blue Boys** — Rapid retrieval and transport helicopter units documented by researcher [[Leonard Stringfield]]
 
 The consistent deployment timelines across these cases suggest pre-existing protocols and potentially pre-positioned assets dedicated to crash retrieval. In the Peru case, UAP Gerb calculated that the NEST team could have deployed from [[Sandia National Laboratories]] to [[Iquitos, Peru]] in approximately 8 hours of total travel time.

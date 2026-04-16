@@ -9,7 +9,7 @@ The National Nuclear Security Administration (NNSA) is a semi-autonomous agency 
 
 ## Alleged UAP Involvement
 
-The NNSA and its subordinate organizations are alleged to play multiple roles in UAP crash retrieval operations. NEST is alleged to provide radiological assessment teams at UAP crash sites — consistent with the MOPP-gear-wearing DOE personnel observed at the alleged 1997 Peru crash by [[Jonathan Wagant]]. The NNSA's [[Office of Secure Transportation (OST)]] is alleged to be utilized for transporting recovered UAP materials between secure facilities. Sandia National Laboratories and Lawrence Livermore National Laboratory are also cited in connection with reverse engineering of allegedly recovered non-human technologies, including the magnetic field disruptor components claimed to underlie the TR-3B alien reproduction vehicle program.
+The NNSA and its subordinate organizations are alleged to play multiple roles in UAP crash retrieval operations. NEST is alleged to provide radiological assessment teams at UAP crash sites — consistent with the MOPP-gear-wearing DOE personnel observed at the alleged 1997 Peru crash by [[Jonathan Weygandt]]. The NNSA's [[Office of Secure Transportation (OST)]] is alleged to be utilized for transporting recovered UAP materials between secure facilities. Sandia National Laboratories and Lawrence Livermore National Laboratory are also cited in connection with reverse engineering of allegedly recovered non-human technologies, including the magnetic field disruptor components claimed to underlie the TR-3B alien reproduction vehicle program.
 
 ## Sources
 

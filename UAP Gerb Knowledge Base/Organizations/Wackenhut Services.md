@@ -30,7 +30,7 @@ UAP Gerb theorizes that the clandestine armed team encountered by [[Rodrik Castl
 - Wackenhut's established role providing security at UFO legacy program sites
 - SRT's continental US authority and ability to classify operations under the [[Atomic Energy Act of 1954]] as transclassified foreign nuclear information
 
-Similarly, the crash retrieval team that detained [[Jonathan Wagant]] in Peru in 1997 may have involved Wackenhut-trained DOE SRTs, given that Wackenhut had established forward operating bases in Peru in the late 1980s and early 1990s.
+Similarly, the crash retrieval team that detained [[Jonathan Weygandt]] in Peru in 1997 may have involved Wackenhut-trained DOE SRTs, given that Wackenhut had established forward operating bases in Peru in the late 1980s and early 1990s.
 
 Wackenhut is also notable in UFO lore for its perimeter security at Area 51, where its guards famously caught [[Bob Lazar]] and friends who attempted to observe test flights of the "sports model" UFO from nearby Bureau of Land Management lands.
 

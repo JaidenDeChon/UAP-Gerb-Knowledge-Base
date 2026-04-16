@@ -41,7 +41,7 @@ Castle's Humvee failed to start for approximately five minutes after the craft d
 
 ### Post-Encounter Events
 
-The following day, Castle and his team were called to medical and given an anthrax booster, despite having already received the anthrax vaccine approximately a year prior. The booster was administered only to the Marines who witnessed the incident, accompanied by an armed guard. Notably, [[Michael Herrera]] and [[Jonathan Wagant]] — two other Marines with similar UAP encounters — also reported receiving anthrax boosters immediately following their respective incidents.
+The following day, Castle and his team were called to medical and given an anthrax booster, despite having already received the anthrax vaccine approximately a year prior. The booster was administered only to the Marines who witnessed the incident, accompanied by an armed guard. Notably, [[Michael Herrera]] and [[Jonathan Weygandt]] — two other Marines with similar UAP encounters — also reported receiving anthrax boosters immediately following their respective incidents.
 
 ## Wackenhut Recruitment
 

@@ -8,7 +8,7 @@ The Aquatic Species Theory is a hypothesis within UAP research proposing that ce
 
 ## Evidence from the Peru Crash
 
-The theory gained significant detail through the 1997 [[Peru UFO Crash Incident]] testimony of [[Jonathan Wagant]]. Wagant described a crashed [[Egg-shaped UAP|egg-shaped craft]] that was leaking large quantities of a clear liquid with the viscosity of maple syrup, much of it pouring from a half-open hatch where a non-human occupant's arm was visible. In conversation with UAP Gerb, Wagant theorized that the craft may have been filled with water, functioning as a closed aquatic environment — essentially an aquarium — for whatever species piloted it. The gill-like vents running along the craft's exterior further suggest a design influence from aquatic biology.
+The theory gained significant detail through the 1997 [[Peru UFO Crash Incident]] testimony of [[Jonathan Weygandt]]. Wagant described a crashed [[Egg-shaped UAP|egg-shaped craft]] that was leaking large quantities of a clear liquid with the viscosity of maple syrup, much of it pouring from a half-open hatch where a non-human occupant's arm was visible. In conversation with UAP Gerb, Wagant theorized that the craft may have been filled with water, functioning as a closed aquatic environment — essentially an aquarium — for whatever species piloted it. The gill-like vents running along the craft's exterior further suggest a design influence from aquatic biology.
 
 Wagant's observations raise the possibility that distinct from remote-controlled or consciousness-operated craft, some UAP may serve as habitation vessels for beings that require an aquatic environment for survival, with the craft's interior maintained as a pressurized fluid environment.
 

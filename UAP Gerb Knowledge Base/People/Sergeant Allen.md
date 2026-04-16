@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Sergeant Allen is a former United States Marine Corps non-commissioned officer who served with [[MAC G28|Air Control Group 28]] during [[Operation Laser Strike]] in [[Peru]] in 1997. Along with [[Sergeant Atkins]], Allen was one of the first Marines to observe a crashed [[Egg-shaped UAP|egg-shaped craft]] embedded in a cliff face in the Peruvian jungle — an incident later testified to publicly by [[Jonathan Wagant]].
+Sergeant Allen is a former United States Marine Corps non-commissioned officer who served with [[MAC G28|Air Control Group 28]] during [[Operation Laser Strike]] in [[Peru]] in 1997. Along with [[Sergeant Atkins]], Allen was one of the first Marines to observe a crashed [[Egg-shaped UAP|egg-shaped craft]] embedded in a cliff face in the Peruvian jungle — an incident later testified to publicly by [[Jonathan Weygandt]].
 
 ## Role in the Peru Incident
 

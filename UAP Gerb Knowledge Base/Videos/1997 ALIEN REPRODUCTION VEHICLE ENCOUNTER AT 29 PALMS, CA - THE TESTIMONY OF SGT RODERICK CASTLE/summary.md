@@ -25,7 +25,7 @@ This video presents the testimony of Rodrik Castle, a US Marine and VMA-513 tech
 - [[Kevin Kuth]] — Referenced in connection with his 2023 Sol Foundation presentation discussing vehicle malfunctions in the presence of UFOs
 - [[Richard Dreyfuss]] — Referenced for his role in Close Encounters of the Third Kind depicting vehicle interference near a UFO
 - [[Michael Herrera]] — Reported encountering black operators near a 300-foot diameter octagonal alien reproduction vehicle and received an anthrax booster afterward
-- [[Jonathan Wagant]] — Reported encountering black operators near a crashed nonhuman UFO and received an anthrax booster afterward
+- [[Jonathan Weygandt]] — Reported encountering black operators near a crashed nonhuman UFO and received an anthrax booster afterward
 - [[Mccell]] — Identified several automobile interference types caused by UFOs in 1983, including engine disruption and failure
 - [[Robert Spain]] — Authored a 1995 report proposing naval carrier tactical aviation support for ground troops, relevant to Hunter Warrior planning
 - [[J. Johnson]] — Directed Vice Admiral Spain's operational examination of sea-based aerial fire support

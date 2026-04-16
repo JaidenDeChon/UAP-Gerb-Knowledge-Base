@@ -18,7 +18,7 @@ Laser Strike succeeded [[Operation Green Clover]] (1996), a similar but smaller-
 
 ## UAP Connection
 
-Operation Laser Strike became significant to UAP research through the testimony of USMC Lance Corporal [[Jonathan Wagant]], who was deployed to Peru with [[MAC G28]] to perform perimeter security for radar installations. Wagant reported that USAF personnel at his radar installation discussed aircraft flying in and out of the atmosphere at Mach 10-plus speeds — objects that would stop instantaneously and reverse direction. An Air Force colonel confiscated radar log books tracking these anomalous signatures on at least three or four occasions.
+Operation Laser Strike became significant to UAP research through the testimony of USMC Lance Corporal [[Jonathan Weygandt]], who was deployed to Peru with [[MAC G28]] to perform perimeter security for radar installations. Wagant reported that USAF personnel at his radar installation discussed aircraft flying in and out of the atmosphere at Mach 10-plus speeds — objects that would stop instantaneously and reverse direction. An Air Force colonel confiscated radar log books tracking these anomalous signatures on at least three or four occasions.
 
 Between March and April 1997, Wagant and fellow Marines were sent to secure what was reported as a downed aircraft, where they instead encountered a massive [[Egg-shaped UAP|egg-shaped craft]] embedded in a cliff face. A [[NEST (Nuclear Emergency Support Team)|DOE NEST]] retrieval team in CH-47 helicopters arrived shortly after, detained the Marines, and conducted a full crash recovery operation. This incident represents one of the most detailed firsthand accounts of a UAP crash retrieval by active-duty US military personnel.
 

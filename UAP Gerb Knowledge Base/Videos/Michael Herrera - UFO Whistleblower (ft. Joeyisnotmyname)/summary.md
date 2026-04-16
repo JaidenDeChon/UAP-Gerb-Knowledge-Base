@@ -10,67 +10,61 @@ tags:
   - uap-gerb
 ---
 
-## Summary
+## Overview
 
-The video examines the UAP whistleblower case of USMC veteran Michael Herrera, who claims to have witnessed a 300-foot octagonal craft hovering in a jungle clearing in Indonesia in 2009 during a humanitarian relief mission following the Sumatra earthquake, and who alleges his team was threatened by unidentified armed personnel with American gear and no unit insignias before the craft instantaneously departed. Reddit investigator "Joey Is Not My Name" is featured as a key figure who conducted open-source research corroborating verifiable details of Herrera's account — including the USS Denver's sole assignment to the West Coast of Indonesia, the 31st Marine Expeditionary Unit's presence, and the use of CH-53 Super Stallion helicopters — and who also claims to have independently verified, using objective data such as flight records, that Herrera was subsequently taken to a secure facility by an anonymous program insider connected through Steven Greer. The insider allegedly disclosed that a clandestine "Black Group," operating without congressional oversight since the 1940s, has reverse-engineered non-human intelligence craft, developed EMP-like weapons for crash retrievals, and recruits individuals with psionic abilities, while also reportedly writing a book titled *Sentinels of Ether* that intentionally embeds classified information within fiction as a strategy to probe government pre-publication review. The video additionally raises concerns about AARO's Historical Report Volume 1 allegedly misrepresenting Herrera's testimony, cautions that the insider's disclosures may constitute deliberate disinformation analogous to the CIA's campaign against Paul Benowitz, and argues that Herrera's testimony should be evaluated independently of his association with Steven Greer.
+This video re-examines [[Michael Herrera]]'s 2009 Indonesia encounter and focuses on whether the verifiable military context around his account supports taking his testimony seriously. The host presents Herrera's narrative as an unproven but specific claim: during a humanitarian mission tied to the [[2009 Sumatra Earthquake and Tsunami]], Herrera's Marine team allegedly observed a large octagonal craft, encountered armed men in unmarked black gear, and was threatened into silence.
 
-## People
-- [[Michael Herrera]] — Claims to have encountered a UAP in Indonesia in 2009 during a humanitarian mission; testified at Steven Greer's National Press Club event
-- [[Jonathan Wiant]] — Mentioned alongside Michael Herrera as one of two whistleblowers who encountered UAP during military service in the USMC
-- [[Joey Is Not My Name]] — Investigated Michael Herrera's case deeply, established a relationship with Herrera, and claims to have found evidence corroborating Herrera's UAP encounter and meeting with an insider
-- [[Steven Greer]] — Hosted the National Press Club event where Michael Herrera first publicly told his UAP encounter story
-- [[The Insider]] — Met with Michael after being introduced through Dr. Greer; reportedly disclosed sensitive leaks about the UAP craft and their use
-- [[Paul Benowitz]] — Referenced as a historical example of someone driven to insanity in 1989 by CIA-fed disinformation about extraterrestrials
-- [[Tom DeLonge]] — Referenced as author of 'Secret Machines,' a book that blends truth and fiction, used as comparison to The Insider's book
-- [[David Grusch]] — Referenced as currently going through DOPSR review for an op-ed to avoid divulging classified information
-- [[Nathan]] — Speaks against Michael Herrera's account and provided a photograph allegedly showing Herrera on a helicopter without rifles
-- [[Sean Kirkpatrick]] — Allegedly was present in the room when Michael Herrera testified to AARO
-- [[Jonathan Waant]] — Had similar experiences to Michael Herrera, including encounters with apparent paramilitary operatives; wore DOE rain jackets
-- [[Chris Leto]] — One of the people Joey connected with Michael Herrera for an interview
-- [[Karl Nell]] — Mentioned as a potential future avenue for whistleblowers to come forward
+The episode's central evidentiary argument comes from researcher [[Joey Is Not My Name]], who says he corroborated operational details through open-source records, including the role of [[USS Denver]], the presence of the [[31st Marine Expeditionary Unit]], and CH-53 logistics around [[Padang]]. Joey also says he verified that Herrera was later transported to a secure facility to meet an anonymous insider connected through [[Steven Greer]].
 
-## Organizations
-- [[United States Marine Corps]] — Michael Herrera's unit was deployed to Indonesia for humanitarian relief after the 2009 Sumatra earthquake and tsunami
-- [[US Air Force]] — Mentioned as part of the relief effort in Indonesia in 2009; an Air Force Colonel allegedly ordered Marines to stop carrying rifles during the deployment
-- [[US 7th Fleet]] — The USS Denver was the only ship from the 7th Fleet routed to the West Coast of Indonesia during the relief mission
-- [[Second Battalion Fifth Marines]] — Michael Herrera's unit during the 2009 Indonesia mission
-- [[31st Marine Expeditionary Unit]] — Confirmed to have been present at the humanitarian operation in Indonesia in 2009
-- [[USS Denver]] — The sole ship assigned to support Indonesian military efforts during the 2009 operation; Michael's team flew back to it after the encounter
-- [[National Press Club]] — Venue where Michael made his first public appearance on Steven Greer's panel, where he first encountered the Insider
-- [[Blue Group]] — One of two groups within the USG studying UAP; has proper congressional oversight, includes programs like AARO, AATIP, and Project Blue Book
-- [[Black Group]] — Secret organization founded in the 1940s to reverse engineer non-human intelligence (NHI) tech; lacks congressional oversight and mirrors descriptions in the Wilson Davis memo
-- [[CIA]] — Referenced in connection with the Paul Benowitz disinformation campaign in 1989
-- [[Defense Office of Pre-publication and Security Review]] — Known as DOPSR; reviews publications by government/military personnel to prevent disclosure of classified information
-- [[Department of Defense]] — Referenced as the entity The Insider is attempting to manipulate through strategic publication of classified-adjacent information
-- [[AARO]] — Published the AARO Historical Report Volume 1, which allegedly misrepresented Michael Herrera's testimony
-- [[Department of Energy]] — Suspected affiliation of paramilitary personnel encountered by Jonathan Waant, identified by DOE rain jackets
+The video treats insider disclosures with caution. It presents claims about a split between a congressionally overseen [[Blue Group]] and an unacknowledged [[Black Group]], alleged crash retrieval methods, and a claimed use of [[Psionic Abilities (P3)]], while repeatedly noting that these insider claims are not independently proven.
+
+The episode also argues that [[AARO Historical Report Volume 1]] mischaracterized Herrera's account. It distinguishes between disagreements over insider material and the separate question of whether Herrera's original 2009 observation is credible on its own terms.
+
+## 2009 Indonesia Encounter Narrative
+
+According to Herrera's account as presented in the video, a six-Marine element moved from a hasty landing zone to high ground and then approached a jungle clearing after observing an anomalous object. Herrera describes a large rotating craft with an octagonal profile, color-shifting exterior, low hum, and no conventional propulsion signature.
+
+The team allegedly encountered armed personnel with American accents and equipment but no visible insignia. Herrera says his team was disarmed, searched, and warned not to discuss what they had seen. He further claims the group observed trucks and containerized cargo interacting with a platform beneath the craft before rapid departure.
+
+The account includes a post-incident debrief and a claimed [[Non-Disclosure Agreement (NDA)]] warning. The video emphasizes that this remains testimonial evidence, while contextual details of the broader mission are treated as more verifiable.
+
+## Joey's Corroboration and Dead-Man-Switch Dynamics
+
+Joey describes an investigation strategy focused on falsifiable details first: unit presence, ship routing, helicopter type, and relief-operation reporting. He states that this review did not prove a UAP sighting but did support the operational backdrop Herrera described.
+
+The video also presents a recorded pre-meeting call in which Herrera expresses concern before meeting the insider. Joey frames his role during this period as a de facto [[Dead Man Switch]] contact in case Herrera disappeared, and says later verification of travel data and location indicators convinced him the secure-facility meeting occurred.
+
+## Insider Claims, Disclosure Strategy, and Disinformation Risk
+
+The insider narrative presented in the video includes claims that the [[Black Group]] has conducted long-running reverse-engineering efforts, developed [[EMP-like Weaponry]], and run [[Crash Retrieval Program|crash retrieval]] operations. The same narrative alleges recruitment of people with [[Psionic Abilities (P3)]] to interface with non-human technology.
+
+A major controversy centers on the manuscript for [[Sentinels of Ether]], reportedly used by the insider as part of a "4D chess" strategy with [[Defense Office of Pre-publication and Security Review]]. The host and Joey both treat this as potentially informative but also potentially manipulative.
+
+The video explicitly raises the possibility of a modern disinformation dynamic analogous to the [[Paul Benowitz]] case, arguing that insider contact could be either genuine internal dissent or a controlled narrative operation.
+
+## AARO Reporting Dispute
+
+The episode argues that [[AARO Historical Report Volume 1]] summarized Herrera's testimony inaccurately, particularly on whether he identified the operators as U.S. Special Forces and whether he described the craft as extraterrestrial rather than potentially reverse-engineered. Joey suggests the mismatch could reflect poor note-taking, deliberate framing, or both.
+
+The host treats this dispute as significant because it affects how whistleblower testimony enters the official record and how future witnesses evaluate institutional channels.
+
+## Key Claims
+
+- Herrera claims he witnessed a large octagonal craft and an armed, unmarked security element during a 2009 relief operation in Indonesia.
+- Joey reports that open-source records corroborate mission context details (ship routing, unit presence, helicopter usage), while not independently proving a UAP sighting.
+- Joey claims objective travel and timing data support that Herrera met an insider at a secure facility after public disclosure.
+- Insider disclosures describe a two-track structure: an overseen [[Blue Group]] and a covert [[Black Group]] operating without congressional accountability.
+- The video treats insider statements about [[EMP-like Weaponry]], [[Crash Retrieval Program|crash retrieval]], and [[Psionic Abilities (P3)]] as unverified claims rather than established facts.
+- The host contends [[AARO Historical Report Volume 1]] misrepresented material elements of Herrera's testimony.
+
+## Sources
+
+- [YouTube](https://www.youtube.com/watch?v=6DyTfIV87Ck) — UAP Gerb
 
 ## Related Pages
 
-### Key Concepts
-- [[Rogue Military Force]]
-- [[Octagonal Craft]]
-- [[Non-Disclosure Agreement (NDA)]]
-- [[Dead Man Switch]]
-- [[NHI Tech Reverse Engineering]]
-- [[EMP-like Weaponry]]
-- [[Psionic Abilities (P3)]]
-- [[Crash Retrieval Program]]
-- [[Wilson Davis Memo]]
-- [[4D Chess on DOPSR]]
-- [[Whistleblower Testimony]]
-- [[Reverse-Engineered Craft]]
-- [[Insider Paramilitary Group]]
-
-### Events
-- [[2009 Sumatra Earthquake and Tsunami]]
-- [[Michael Herrera UAP Encounter in Indonesia]]
-- [[Steven Greer National Press Club Event]]
-- [[AARO Historical Report Volume 1 Release]]
-
-### Locations
-- [[Indonesia]]
-- [[Padang]]
-- [[USS Denver]]
-- [[Sumatra]]
-- [[Okinawa]]
+- **People**: [[Michael Herrera]], [[Joey Is Not My Name]], [[Steven Greer]], [[Jonathan Weygandt]], [[Sean Kirkpatrick]], [[Paul Benowitz]], [[Tom DeLonge]], [[David Grusch]], [[Karl Nell]]
+- **Organizations**: [[AARO]], [[Blue Group]], [[Black Group]], [[31st Marine Expeditionary Unit]], [[Second Battalion Fifth Marines]], [[US 7th Fleet]], [[USS Denver]], [[Defense Office of Pre-publication and Security Review]], [[Department of Energy]]
+- **Locations**: [[Indonesia]], [[Padang]], [[Sumatra]], [[Okinawa]]
+- **Events**: [[2009 Sumatra Earthquake and Tsunami]], [[Michael Herrera UAP Encounter in Indonesia]], [[AARO Historical Report Volume 1 Release]]
+- **Concepts**: [[Non-Disclosure Agreement (NDA)]], [[Dead Man Switch]], [[EMP-like Weaponry]], [[Crash Retrieval Program]], [[Psionic Abilities (P3)]], [[Wilson Davis Memo]], [[Sentinels of Ether]], [[4D Chess on DOPSR]]

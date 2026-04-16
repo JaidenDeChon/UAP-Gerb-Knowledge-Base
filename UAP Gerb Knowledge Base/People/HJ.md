@@ -13,7 +13,7 @@ According to HJ, at approximately 7 p.m. during routine duty maneuvers, his plat
 
 ## The Craft
 
-The ovoid craft was as wide as a three-bedroom single-story ranch house (estimated 35–70 feet, comparable to [[Jonathan Wagant]]'s 20-meter estimate). It had no windows or lights and was surrounded by a fin-like protrusion on its equator that was still rotating — a detail strikingly similar to the sweeping band of light Wagant observed circling his [[Egg-shaped UAP|egg-shaped craft]] in Peru in 1997. The ground around the craft was badly burned, reduced to a powdery substance like crushed brick, and HJ could still feel heat emanating from the vehicle.
+The ovoid craft was as wide as a three-bedroom single-story ranch house (estimated 35–70 feet, comparable to [[Jonathan Weygandt]]'s 20-meter estimate). It had no windows or lights and was surrounded by a fin-like protrusion on its equator that was still rotating — a detail strikingly similar to the sweeping band of light Wagant observed circling his [[Egg-shaped UAP|egg-shaped craft]] in Peru in 1997. The ground around the craft was badly burned, reduced to a powdery substance like crushed brick, and HJ could still feel heat emanating from the vehicle.
 
 ## The Occupants
 

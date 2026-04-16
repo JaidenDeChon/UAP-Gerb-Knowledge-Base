@@ -87,7 +87,7 @@ The video identifies several programs alongside Moondust as part of a broader cl
 - [[Natalio Ruiz]]
 - [[Colonel Robert Simmons]]
 - [[Major Jesse Haaste]]
-- [[Admiral Thomas Wilson]]
+- [[Thomas Wilson]]
 - [[David Grusch]]
 - [[Operation Bluefly]]
 - [[Operation Zodiac]]

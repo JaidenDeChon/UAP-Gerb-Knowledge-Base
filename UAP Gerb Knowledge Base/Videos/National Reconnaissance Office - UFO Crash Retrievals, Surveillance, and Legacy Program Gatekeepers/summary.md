@@ -93,7 +93,7 @@ Echler subsequently met with Heinman at CIA Langley. Heinman denied any knowledg
 - [[Bobby Ray Inman]]
 - [[Glenn Gaffney]]
 - [[Mary K. Sturdivant]]
-- [[Jonathan Wagant]]
+- [[Jonathan Weygandt]]
 - [[Bob Echler]]
 - [[Everett Heinman]]
 - [[Nevada National Security Site (Nevada Test Site)]]

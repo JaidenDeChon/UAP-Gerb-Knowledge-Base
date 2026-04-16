@@ -10,7 +10,7 @@ Psionics refers to the theoretical or alleged use of mental or consciousness-bas
 
 The concept appears in testimony spanning over seven decades:
 
-- **[[Jonathan Wagant]] (2000)** — During the 1997 [[Peru UFO Crash Incident]], Wagant reported feeling a telepathic presence from occupants of a crashed [[Egg-shaped UAP|egg-shaped craft]]. He described the sensation as being like an AM radio station turned to static at high volume, and felt the beings projecting thoughts that they meant no harm and were requesting help. Wagant also experienced projected mental images of the beings' appearance (tall gray-type entities, 8–10 feet, with elongated oblong heads). This led Wagant to believe the craft was controlled via consciousness. Since the event, Wagant has experienced recurring mental intrusions including dreams of the entities.
+- **[[Jonathan Weygandt]] (2000)** — During the 1997 [[Peru UFO Crash Incident]], Wagant reported feeling a telepathic presence from occupants of a crashed [[Egg-shaped UAP|egg-shaped craft]]. He described the sensation as being like an AM radio station turned to static at high volume, and felt the beings projecting thoughts that they meant no harm and were requesting help. Wagant also experienced projected mental images of the beings' appearance (tall gray-type entities, 8–10 feet, with elongated oblong heads). This led Wagant to believe the craft was controlled via consciousness. Since the event, Wagant has experienced recurring mental intrusions including dreams of the entities.
 
 - **[[Philip J. Corso]] (1950s era)** — Corso described UAP controlled via consciousness, headband transceivers, or unique non-mechanical control mechanisms dating back to the 1950s.
 

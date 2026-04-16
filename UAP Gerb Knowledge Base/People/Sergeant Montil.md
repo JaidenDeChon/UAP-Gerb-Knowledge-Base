@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Staff Sergeant Montil (also rendered as "Montgre" in some transcriptions) is a former United States Marine Corps staff sergeant who served with [[MAC G28|Air Control Group 28]] during [[Operation Laser Strike]] in [[Peru]] in 1997. Montil was directly named by witness [[Jonathan Wagant]] as having knowledge of the crashed aircraft that precipitated the incident.
+Staff Sergeant Montil (also rendered as "Montgre" in some transcriptions) is a former United States Marine Corps staff sergeant who served with [[MAC G28|Air Control Group 28]] during [[Operation Laser Strike]] in [[Peru]] in 1997. Montil was directly named by witness [[Jonathan Weygandt]] as having knowledge of the crashed aircraft that precipitated the incident.
 
 ## Role in the Peru Incident
 
