@@ -24,7 +24,7 @@ Kirkpatrick's op-ed opens with the Carl Sagan quote "extraordinary claims requir
 
 - **Intentional terminology substitution**: Kirkpatrick consistently uses "alien" or "extraterrestrial" rather than the legally precise term "non-human intelligence (NHI)" — the phrasing used in the 2024 NDAA under [[Chuck Schumer]] and in the Congressional Record. The presenter argues this is deliberate language manipulation to sidestep the legal framework established by Congress.
 - **Emotional appeal and credentialism**: Kirkpatrick portrays himself and his staff as diligent scientists beleaguered by conspiracy theorists, positioning critics including [[David Grusch]] as unsubstantiated.
-- **False "2008 conspiracy" framing**: Kirkpatrick's op-ed attributes the entire reverse engineering narrative to a conspiracy originating in 2008, centered on a small group: [[Luis Elizondo]], former Senator [[Harry Reid]], physicist [[Hal Puthoff]], physicist [[Eric Davis]], and former Deputy Assistant Secretary of Defense [[Chris Mellon]] — all connected to [[AATIP (Advanced Aerospace Threat Identification Program)]]. The presenter rebuts this by noting that documented UAP crash retrieval evidence extends back to the 1940s (e.g., [[Jesse Marcel Senior]] at Roswell, [[Project Moon Dust]] in the 1960s, the [[Wilson-Davis Memo]]).
+- **False "2008 conspiracy" framing**: Kirkpatrick's op-ed attributes the entire reverse engineering narrative to a conspiracy originating in 2008, centered on a small group: [[Luis Elizondo]], former Senator [[Harry Reid]], physicist [[Hal Puthoff]], physicist [[Eric Davis]], and former Deputy Assistant Secretary of Defense [[Chris Mellon]] — all connected to [[AATIP (Advanced Aerospace Threat Identification Program)]]. The presenter rebuts this by noting that documented UAP crash retrieval evidence extends back to the 1940s (e.g., [[Jesse Marcel]] at Roswell, [[Project Moon Dust]] in the 1960s, the [[Wilson-Davis Memo]]).
 - **Misrepresentation of congressional engagement**: The presenter notes that if the UAP matter were merely a 2008-era conspiracy, it would not explain why UAP transparency is a bipartisan issue, why the 2024 NDAA references non-human intelligence and legacy programs "dozens of times," or why the [[Atomic Energy Act of 1954]] is cited in connection with misclassified UAP records.
 
 ## Whistleblower Access Claims Contradicted
@@ -75,7 +75,7 @@ The presenter quotes attendee Anthony Miller's LinkedIn account of Kirkpatrick's
 
 ## Related Pages
 
-- **People**: [[Sean Kirkpatrick]], [[David Grusch]], [[Luis Elizondo]], [[Chris Mellon]], [[Ronald S. Moltry]], [[Hal Puthoff]], [[Eric Davis]], [[Harry Reid]], [[Ryan Graves]], [[Ross Coulthart]], [[Jesse Marcel Senior]]
+- **People**: [[Sean Kirkpatrick]], [[David Grusch]], [[Luis Elizondo]], [[Chris Mellon]], [[Ronald S. Moltry]], [[Hal Puthoff]], [[Eric Davis]], [[Harry Reid]], [[Ryan Graves]], [[Ross Coulthart]], [[Jesse Marcel]]
 - **Organizations**: [[AARO]], [[Sand Corp]], [[Battelle Memorial Institute]], [[Oak Ridge National Laboratory]], [[AATIP (Advanced Aerospace Threat Identification Program)]]
 - **Concepts**: [[Disinformation]], [[Robertson Panel]], [[Non-Human Intelligence (NHI)]], [[Special Access Programs (SAPs)]], [[Wilson-Davis Memo]], [[Atomic Energy Act of 1954]], [[Project Moon Dust]]
 - **Events**: [[2024 NDAA UAP Provisions]]

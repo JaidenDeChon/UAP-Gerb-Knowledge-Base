@@ -246,7 +246,7 @@ tags:
 - [[MAC G28]]
 - [[MARFORLAND Riverine Training Team]]
 - [[MITRE Corporation]]
-- [[MJ12]]
+- [[Majestic 12]]
 - [[MPC Flight Recreations]]
 - [[MUFON]]
 - [[Majestic 12]]

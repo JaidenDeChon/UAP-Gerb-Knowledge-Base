@@ -276,7 +276,7 @@ tags:
 - [[Jeremy Corbell]]
 - [[Jeremy Rys]]
 - [[Jerry Betters]]
-- [[Jesse Marcel Senior]]
+- [[Jesse Marcel]]
 - [[Jesse Marcel]]
 - [[Jesse Michaels]]
 - [[Jesus Alberto]]

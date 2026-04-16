@@ -1,11 +1,30 @@
 ---
 name: "Walter Haut"
-role: "UFO whistleblower"
+role: "Lieutenant; Roswell Army Air Field public information officer"
 tags:
   - person
 ---
 
-Discussed in relation to the 1947 Roswell incident; considered a key whistleblower by the host
+Lieutenant Walter Haut was the public information officer at Roswell Army Air Field in July 1947. He is one of the most important Roswell witnesses because he issued the original military press release stating that a "flying disc" had been recovered, then later signed affidavits describing a rapid shift to the weather balloon cover story.
+
+## Role In The Roswell Information Cycle
+
+On July 8, 1947, Haut distributed a press statement, reportedly dictated by Colonel William Blanchard, that announced recovery of a flying disc. The release was transmitted to local media and briefly became international news before General Roger Ramey's office replaced the narrative with a weather balloon explanation.
+
+Haut later stated that the retraction did not match what senior officers at Roswell believed had been recovered. His account is frequently cited alongside testimony from Jesse Marcel and Thomas J. DuBose as evidence of deliberate public misdirection.
+
+## Affidavits And Later Testimony
+
+Haut signed a 1993 affidavit confirming his role in issuing the original release and documenting the immediate reversal. A second affidavit, prepared in 2002 and released after his death, expanded his claims and described observations tied to guarded recovery activity and unusual recovered material.
+
+## Significance
+
+Haut's testimony matters because he was not a distant commentator. He was the officer directly tasked with delivering the official message to the press at the moment the Roswell story was formed and then suppressed.
+
+## Sources
+
+- [[Video - UFO Whistleblowers Vol.1]]
+- [[Video - The 1953 Kingman, Arizona UFO Crash]]
 
 ## Appearances
 *(Populated automatically via Obsidian backlinks from [[Videos]])*
