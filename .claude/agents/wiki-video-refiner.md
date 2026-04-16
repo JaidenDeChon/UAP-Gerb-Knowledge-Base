@@ -79,7 +79,11 @@ From your transcript notes, compile a list of significant entities: people, orga
 - A city mentioned only as a passing geographic reference → probably not
 - A generic noun or common term → no
 
-Check whether each entity already has a wiki page. Search the relevant directories (`People/`, `Organizations/`, etc.) and also check for name variants (e.g., "Dr. John Smith" vs "John Smith", acronyms vs full names).
+**Check for existing pages and variants:**
+- Search the relevant directories (`People/`, `Organizations/`, etc.) for each entity
+- **Always check for name variants:** "Dr. John Smith" vs "John Smith", "NATO" vs "North Atlantic Treaty Organization", alternate spellings, punctuation differences
+- Use `grep_search` with flexible patterns (e.g., regex with case-insensitive flags) to find potential matches
+- If you find an existing page (including stubs), note it for Step 4 — don't create a duplicate
 
 ### Step 4: Refine Each Entity's Wiki Page
 
@@ -107,11 +111,28 @@ For every entity on your list:
 
 **Tone**: Encyclopedic. Third person. Present tense for definitions, past tense for historical events. Neutral even when covering controversial claims — distinguish between "X claimed..." and established fact.
 
-### Step 5: Handle Duplicates
+### Step 5: Handle Duplicates and Remove Stubs
 
 If you discover multiple pages for the same entity (name variants, acronym vs. full name, spelling differences):
-- **Obviously the same entity**: merge content into the better-named page, delete the duplicate with `rm`, update any wikilinks pointing to the old name.
-- **Ambiguous**: note it in your completion summary for the user to decide. Do not merge without confidence.
+
+**Duplicates that are obviously the same entity:**
+1. Identify which page has the most complete, substantive content
+2. If one is a stub (1-3 vague sentences, minimal information) and the other has real content: **delete the stub immediately** with `rm`
+3. If both have content: merge into the better-named or more complete page, then delete the duplicate
+4. After deletion, search for and update any wikilinks pointing to the removed page(s) to reference the canonical page
+5. List all deleted duplicates in your completion summary
+
+**Stray stubs made redundant:**
+- When creating or updating an entity page, search for potential duplicates before and after writing
+- If you find a stub that duplicates your new/updated page, **remove it immediately**
+- Common duplicate patterns to check: name variants (e.g., "Dr. Smith" vs "Smith"), acronyms vs. full names, alternate spellings, punctuation differences (e.g., "McDonald" vs "MacDonald")
+- Use `grep_search` or `file_search` to find potential variants before creating new pages
+
+**Ambiguous cases:**
+- If genuinely uncertain whether two pages refer to the same entity, note it in your completion summary for the user to decide
+- Do not merge or delete without confidence
+
+**Critical:** Do NOT leave behind stub duplicates. Every entity should have exactly one canonical page.
 
 ### Step 6: Mark as Processed
 
@@ -132,7 +153,9 @@ Report:
 - Which video was processed
 - What was done to the video's wiki page (rewrite, expansion, no change)
 - List of entities processed and what action was taken on each (created, expanded, minor edit, no change)
-- Any duplicates merged or flagged
+- All duplicate stub files that were deleted (with file paths)
+- Any duplicates merged or flagged as ambiguous
+- Any wikilinks updated to point to canonical pages
 - Any entities you couldn't create a page for and why
 
 ---

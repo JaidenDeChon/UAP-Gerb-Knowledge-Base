@@ -1,11 +1,14 @@
 ---
 name: "Ed Doll"
-role: "Legacy program operations expert"
+role: "AEC physicist and project director; alleged UAP retrieval coordinator"
 tags:
   - person
 ---
 
-Alleged to have performed UFO retrieval and reverse engineering for Joint Atomic Energy Commission and DoD task forces, then continued at TRW Systems Group 1955-1977
+"Ed Doll" is the informal name for [[Edward Bushnell Doll]], physicist and project director for [[Operation Upshot-Knothole]] at the [[Nevada Proving Ground]] in 1953. In [[Arthur Stansel Jr.]]'s account of the [[1953 Kingman, Arizona Crash Retrieval]], Doll is the individual who telephoned Stansel on the evening of May 20, 1953, to inform him of the next day's special assignment.
 
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+All substantive biographical information is documented under [[Edward Bushnell Doll]].
+
+## Sources
+
+- [[Video - The 1953 Kingman, Arizona UFO Crash]]

@@ -1,11 +1,14 @@
 ---
 name: "Fritz Warner"
-role: "USAF project engineer / AEC contractor (pseudonym)"
+role: "Pseudonym used by Arthur Stansel Jr."
 tags:
   - person
 ---
 
-Key witness who claimed to have investigated the 1953 Kingman UFO crash as part of Operation Upshot-Knothole; signed a sworn affidavit about his experience
+"Fritz Warner" is the pseudonym under which [[Arthur Stansel Jr.]] publicly disclosed his account of the [[1953 Kingman, Arizona Crash Retrieval]]. Stansel borrowed the name from a real German rocket engineer when he came forward to UFO researcher [[Raymond Fowler]] in 1973, signing a sworn affidavit under this name. Fowler later confirmed and published Stansel's real identity.
 
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+All substantive information about this individual is documented under [[Arthur Stansel Jr.]]
+
+## Sources
+
+- [[Video - The 1953 Kingman, Arizona UFO Crash]]

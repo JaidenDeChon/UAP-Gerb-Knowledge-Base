@@ -10,8 +10,45 @@ tags:
   - uap-gerb
 ---
 
-## Summary
-The video examines the alleged 1953 Kingman, Arizona UFO crash, centering on the testimony of Fritz Warner (a pseudonym), an AEC project engineer who claimed he was among 16 specialists covertly transported on May 21, 1953 to investigate a 30-foot oval craft that had impacted the desert floor, with a dead 4-foot humanoid occupant found nearby in a guarded tent. Warner signed a sworn affidavit witnessed by UFO researcher Raymond Fowler, whose 1973 public revelation of the case predated the widely known Roswell disclosure by five years. The video also presents corroborating testimony from whistleblower Bill Uhouse, who claimed to have worked on a flying disc simulator derived from the recovered Kingman craft at Link Aviation, and notes that a separate pilot witness approached researcher Leonard Stringfield in 1997 with a consistent account of recovered non-human biologics. Debunking theories proposing the craft was a secretly tested USAF aircraft carrying chimpanzees in suits are addressed and assessed as inadequate to explain the reported physical characteristics of the craft, including its resistance to deformation at an estimated 1,200 mph impact speed.
+## Overview
+
+The 1953 Kingman, Arizona UFO crash is one of the most credibly documented alleged crash retrievals in UAP research, notable for a witnessed sworn affidavit, independently verifiable witness credentials, and corroborating testimony from a second defense-contractor whistleblower. On the night of May 20–21, 1953, a team of 16 specialists from the [[Atomic Energy Commission]] — assembled under the framework of [[Operation Upshot-Knothole]], a nuclear weapons test series at the [[Nevada Proving Ground]] — were transported under military escort to investigate a downed craft near [[Kingman, Arizona]]. The primary witness, [[Arthur Stansel Jr.]] (initially disclosing under the pseudonym [[Fritz Warner]]), described a 30-foot oval craft made of brushed aluminum-like material, sunken 20 inches into the desert floor with no structural damage despite an estimated impact speed of 1,200 mph, and a single 4-foot humanoid occupant in a silvery metallic suit found dead in a guarded tent. [[Raymond Fowler]] published the sworn affidavit in 1973 — five years before [[Jesse Marcel]] publicly revealed his role in the Roswell cover-up — making it one of the earliest documented crash retrieval disclosures on record.
+
+Corroborating testimony came separately from [[Bill Uhouse]], a verified 14-year Marine Corps veteran and mechanical engineer who claimed that a representative from [[Link Aviation]] recruited him to help build a flying disc simulator based on the recovered Kingman craft, which became operational between 1963 and 1964. Uhouse stated the craft was taken to [[Area 51]] (Groom Lake) and the dead occupants transported to [[Los Alamos National Laboratory]]. A third witness, approached by researcher [[Leonard Stringfield]] in 1997, independently described occupants matching Stansel's account: approximately 4 feet tall, brown skin, and silvery metallic suits. The case is contextualized within the broader [[UFO-Nuclear Connection]], Stansel's supervisor at Wright-Patterson being the alleged reverse-engineering director [[Eric Henry Wang]], and the post-crash issuance of USAF Regulation 200-2, which stove-piped UFO reporting away from public oversight.
+
+## The Primary Account: Arthur Stansel Jr.
+
+[[Arthur Stansel Jr.]] was an engineer at [[Wright-Patterson Air Force Base]] serving under the Air Material Command's Installation Division within the Office of Special Studies, headed by Dr. [[Eric Henry Wang]]. His credentials are independently verifiable: he served in the D-Day landings of World War II, worked on aspects of the [[Manhattan Project]], and spent 16 years on the Apollo program. His presence at the [[Nevada Proving Ground]] during [[Operation Upshot-Knothole]] in 1953 — where his assigned role was measuring blast effects on structures — is confirmed through declassified DOD documents.
+
+On May 20, 1953, Stansel received a phone call from [[Ed Doll]], physicist and project director for Operation Upshot-Knothole, informing him of a special assignment the following day. He reported to [[Indian Springs Air Force Base]], surrendered his valuables to military police, was flown to Phoenix, and transported by blacked-out bus for approximately four hours. Two high-intensity spotlights illuminated the crash site, which was ringed by armed guards.
+
+Stansel's account, sworn into affidavit on June 7, 1973, with Raymond Fowler as witness, described the craft as follows: oval in shape, approximately 30 feet in diameter with convex upper and lower surfaces meeting at a rimmed lip with slots; constructed of dull silver metal resembling brushed aluminum; an entrance hatch measuring roughly 3.5 feet tall and 1.5 feet wide had been lowered open on the leading end; a soft light was visible inside, possibly installed by recovery personnel. The craft had impacted 20 inches into the desert sand, had no landing gear, and — strikingly — showed no structural damage: no dents, marks, or scratches. Stansel estimated the impact velocity at approximately 1,200 mph using blast-effects calculation methods from his engineering work. A colleague who had briefly looked inside described two swivel-like seats, an oval cabin, and anomalous instrument displays. In a guarded tent adjacent to the craft lay the single dead occupant: a humanoid approximately 4 feet tall, dark brown complexion, two eyes, nostrils, two ears, small round mouth, clothed in a silvery metallic suit and skull cap with no facial covering or helmet.
+
+All 16 AEC specialists were sworn to secrecy by an Air Force Colonel and instructed to write their reports longhand only — no typing or reproduction. Raymond Fowler later confirmed Stansel's true identity as Arthur G. Stansel Jr. Researcher [[Richard Gild Jr.]] independently verified Stansel's credentials in a published Medium article, confirming employment at Wright-Patterson and involvement in nuclear testing programs. Stansel also worked directly under Dr. [[Eric Henry Wang]], who is alleged by researchers to have been a key figure in UAP material exploitation dating back to the [[1948 Aztec UFO Crash Retrieval]].
+
+## Corroborating Testimony: Bill Uhouse
+
+[[Bill Uhouse]] was a 14-year U.S. Marine Corps veteran, retiring at the rank of Captain, who subsequently worked as a mechanical engineer and defense contractor in exotic experimental aircraft programs at [[Wright-Patterson Air Force Base]]. His military service record is independently confirmed: a 1949 newspaper clipping records his reenlistment; a 1953 *Evening Times* article confirms eight years of USMC service, tours in Korea, and his role in the Second Engineers Battalion.
+
+Uhouse disclosed through [[Steven Greer]]'s [[Disclosure Project]] in October 2001, claiming that a representative from [[Link Aviation]] — a simulator manufacturer — invited him to build flight simulators including an F-102, a B-47, and eventually a flying disc simulator. The disc simulator, Uhouse stated, was modeled on the craft recovered at [[Kingman, Arizona]] in 1953, which he described as approximately 30 meters in diameter (notably larger than Stansel's 30-foot estimate). The recovered craft was taken to [[Area 51]] and the dead occupants to [[Los Alamos National Laboratory]]. The simulator became operational between 1963 and 1964. Uhouse also referenced a recovered extraterrestrial humanoid codenamed [[J-Rod]]. [[Richard Gild Jr.]]'s investigation confirmed Uhouse's military background and defense contractor work, lending credibility to his account despite the controversial platform through which he disclosed.
+
+## Additional Witnesses and a False Claimant
+
+[[Leonard Stringfield]] was approached after a 1997 lecture at Lunken Airport in Cincinnati, Ohio, by a pilot who claimed to have been present at the Kingman crash site in 1953. The pilot described the recovered biologics in terms consistent with Stansel's account: approximately 4 feet tall, large eyes, brown-skinned face, silvery metallic suits. In 1994, a separate individual codenamed JLD made similar claims to Stringfield but died shortly afterward, preventing further documentation.
+
+One claimant, [[Judy Wolcott]], told researcher [[Don Schmidt]] that her husband, a Vietnam-era military officer, had written to her about witnessing the Kingman UAP crash retrieval. Wolcott's account was subsequently exposed as fabricated by author [[Nick Redfern]], who found multiple inconsistencies in her story — her husband had not died in Vietnam as claimed, and her own daughter confirmed she frequently invented stories. Whether the fabrication was self-motivated or represented deliberate disinformation remains unknown.
+
+## Nuclear Context and Institutional Cover
+
+The Kingman crash occurred at the peak of [[Operation Upshot-Knothole]], during which 11 nuclear warheads were detonated at [[Nevada Proving Ground]]. Researchers including UAP Gerb note the consistent pattern of UAP activity near active nuclear test and weapons facilities — a pattern corroborated independently by [[Robert Jacobs]] and [[Robert Salas]] at [[Malmstrom Air Force Base]]. The AEC's organizational infrastructure was already in place to handle unusual recoveries through need-to-know security structures and the Atomic Energy Act's broad classification authority.
+
+Three months after the crash, the USAF issued [[USAF Regulation 200-2]], requiring all UFO reports be forwarded directly to Air Force Intelligence rather than [[Project Blue Book]], the official public-facing investigation. This policy effectively stove-piped credible sighting reports away from Congress and the public. The [[Robertson Panel]] had been convened in January 1953 — four months before Kingman — to reduce public UFO interest and quell public engagement with the UAP phenomenon. The 2024 NDAA Schumer-drafted UAP legislation specifically identifies the [[1954 Atomic Energy Act]] as a tool used by DOD legacy programs to classify UAP materials as "trans-classified foreign nuclear material," shielding them from declassification review.
+
+Stansel's supervisor, Dr. [[Eric Henry Wang]], an Austrian-born director of the Department of Special Studies at Wright-Patterson, had allegedly been involved in UAP exploitation since at least 1949. Wang relocated his department to [[Kirtland Air Force Base]] around the time of Operation Upshot-Knothole; records on him are scarce. Wang was known to be a close associate of [[Victor Schauberger]], an [[Operation Paperclip]] scientist who had developed concepts for flying discs for the Nazis. Wang allegedly led reverse engineering efforts under Kissinger. His possible associate [[Vannevar Bush]], who had connections to the Office of Naval Research and the Research and Development Board, also maintained ties to early UAP program discussions.
+
+## Debunking Theory
+
+The primary alternative explanation proposed is that Kingman involved a USAF aircraft remotely flown through nuclear clouds with chimpanzees in suits — an experiment to study biological effects of nuclear exposure. UAP Gerb assesses this theory as inadequate: it does not account for Stansel's engineering-based finding of zero structural deformation at 1,200 mph impact, a physical characteristic incompatible with any conventional aircraft materials of the 1953 era.
 
 ## People
 - [[Fritz Warner]] — Key witness who claimed to have investigated the 1953 Kingman UFO crash as part of Operation Upshot-Knothole; signed a sworn affidavit about his experience
@@ -75,44 +112,29 @@ The video examines the alleged 1953 Kingman, Arizona UFO crash, centering on the
 - [[Operation Upshot-Knothole]] — A series of 11 nuclear weapons test shots conducted in early 1953 at the Nevada Proving Ground, orchestrated by the Atomic Energy Commission to prepare the US military for atomic combat; involved 18,000–21,000 DOD personnel
 
 ## Locations
-- [[Kingman, Arizona]] — Small town situated between Huapi Valley and the Ceriat Mountain Range; alleged site of the 1953 UFO crash
-- [[Huapi Valley]] — Valley adjacent to Kingman, Arizona, near the alleged crash site
-- [[Ceriat Mountain Range]] — Mountain range near Kingman, Arizona, bordering the area of the alleged crash
-- [[Frenchman Flat]] — Location at the Nevada Proving Ground where Fritz Warner was working on May 20th 1953 before being summoned for the Kingman assignment
-- [[Indian Springs Air Force Base]] — Location where Fritz Warner and other AEC specialists were assembled before being flown to Phoenix en route to the Kingman crash site
-- [[Nevada Proving Ground]] — Site of Operation Upshot-Knothole nuclear tests in 1953
-- [[Wright Patterson Air Force Base]] — Air Force base in Ohio associated with Fritz Warner and frequently cited in UAP retrieval lore
-- [[Phoenix, Arizona]] — Intermediate transit point where AEC specialists were flown before being bused to the Kingman crash site
-- [[Roswell, New Mexico]] — Referenced as the most famous alleged UAP crash retrieval, used as a point of comparison to the Kingman case
-- [[Nevada Test Range]] — Location where 11 nuclear warheads were detonated in 1953, near where UFO activity was reported
-- [[Malmstrom Air Force Base]] — Base associated with Lieutenant Robert Jacobs and Robert Salis and UFO-nuclear incidents
-- [[Area 51  Groom Lake]] — Alleged location where the recovered Kingman crash disc was taken for study
-- [[Los Alamos]] — Alleged location where dead pilots recovered from the Kingman crash were taken, associated with the Atomic Energy Commission
-- [[Wright Patterson Air Force Base]] — Location where Bill Uhouse conducted flight testing of exotic experimental aircraft
-- [[Cincinnati, Ohio  Lunken Airport]] — Location where Leonard Stringfield was approached by a pilot witness after a 1997 lecture
-- [[Arizona]] — The state associated with the Kingman crash case; the host invites locals with additional knowledge to share information.
-
 ## Key Claims
-- On May 21st 1953, Fritz Warner (pseudonym) and 15 other AEC specialists were covertly transported to investigate a crashed oval craft near Kingman, Arizona.
-- The crashed craft was approximately 30 feet in diameter, constructed of brushed aluminum-like metal, and showed no structural damage despite impacting 20 inches into the sand.
-- A dead humanoid occupant approximately 4 feet tall with dark brown skin and a silvery metallic suit was found in a guarded tent near the crash site.
-- Fritz Warner estimated the craft had been traveling at approximately 1,200 mph at the time of impact.
-- All 16 AEC specialists were sworn to secrecy and ordered to write reports longhand without typing or reproduction.
-- The Kingman crash story was publicly revealed in 1973, five years before the Roswell story became widely known.
-- The craft had an open hatch door approximately 3.5 feet high and 1.5 feet wide and contained two swivel seats and anomalous instrumentation.
-- Fritz Warner signed a sworn affidavit witnessed by Raymond Fowler attesting to his role in the Kingman crash investigation.
-- Bill Uhouse claims to have worked as a pilot and design engineer on a flying disc simulator based on a craft recovered from the 1953 Kingman, Arizona UFO crash.
-- The flying disc simulator allegedly became operational around 1958 and was based on a 30-meter recovered craft.
-- According to Uhouse, the recovered Kingman craft was taken to Area 51 and the dead pilots were taken to Los Alamos.
-- Bill Uhouse's USMC service history has been partially verified through newspaper records from 1949 and 1953.
-- Uhouse was invited by a representative of Link Aviation to help build simulators including the F-102, B-47, and a flying disc simulator.
-- A pilot approached Leonard Stringfield in 1997 claiming to have witnessed the Kingman crash and describing recovered biologics as approximately 4 feet tall with large eyes, brown skin, and silvery metallic suits.
-- Judy Wolcott's claims about her husband witnessing the Kingman crash were exposed as fabricated by author Nick Redfern, with her own daughter confirming she often lied.
-- UFO activity near nuclear test sites is described as an established and recurring phenomenon, referencing the testimony of Lieutenant Robert Jacobs and Robert Salis at Malmstrom Air Force Base.
-- One debunking theory suggests the Kingman crash involved USAF secretly testing aircraft with chimpanzees in suits flown through nuclear clouds, which the narrator finds insufficient to explain the evidence.
-- One debunking theory for the Kingman crash suggests the USAF was secretly testing aircraft flown through nuclear clouds with chimpanzees in suits as biological test subjects.
-- The alleged Kingman craft showed resistance to deformation at 1200 mph, which the debunking theory fails to adequately explain.
-- Witnesses or reports associated with the Kingman case described occupants wearing silvery metallic suits.
 
----
-*Source: [YouTube](https://www.youtube.com/watch?v=41V4Pf_8oo4)*
+- On May 21, 1953, [[Arthur Stansel Jr.]] and 15 other AEC specialists were transported under military escort, via blacked-out bus, to investigate a crashed unknown craft near [[Kingman, Arizona]].
+- The craft was oval, approximately 30 feet in diameter, constructed of brushed aluminum-like metal, and showed zero structural damage despite impacting 20 inches into desert sand.
+- A single dead humanoid occupant — approximately 4 feet tall, dark brown skin, silvery metallic suit and skull cap — was found in a guarded tent adjacent to the craft.
+- Stansel estimated the craft's impact velocity at approximately 1,200 mph based on engineering calculations from his blast-effects work at [[Operation Upshot-Knothole]].
+- All 16 AEC specialists were sworn to secrecy and ordered to record findings longhand only — no typed or reproduced copies permitted.
+- [[Raymond Fowler]] published Stansel's sworn affidavit in 1973 — five years before [[Jesse Marcel]] publicly revealed the Roswell cover-up.
+- [[Bill Uhouse]]'s military service was independently verified; he claimed the Kingman craft was the physical basis for a flying disc simulator built in the late 1950s and operational by 1963–1964.
+- According to Uhouse, the recovered craft was transported to [[Area 51]] and the dead occupants to [[Los Alamos National Laboratory]], consistent with AEC infrastructure.
+- A pilot independently approached [[Leonard Stringfield]] in 1997 and described the Kingman biologics in terms matching Stansel's account — approximately 4 feet tall, large eyes, brown skin, silvery suits.
+- [[Judy Wolcott]]'s claims about a husband-witness were exposed as fabricated by [[Nick Redfern]]; her own daughter confirmed she frequently invented stories.
+- USAF Regulation 200-2, issued three months after the Kingman crash, re-routed all UFO reports to Air Force Intelligence rather than [[Project Blue Book]], stove-piping crash retrieval information from public oversight.
+- The [[1954 Atomic Energy Act]] has been cited in the 2024 NDAA as a classification tool used by DOD legacy programs to shield UAP materials from declassification.
+
+## Sources
+
+- [YouTube](https://www.youtube.com/watch?v=41V4Pf_8oo4) — UAP Gerb
+
+## Related Pages
+
+- **People**: [[Arthur Stansel Jr.]], [[Fritz Warner]], [[Bill Uhouse]], [[Raymond Fowler]], [[Ed Doll]], [[Eric Henry Wang]], [[Leonard Stringfield]], [[Richard Gild Jr.]], [[Jesse Marcel]], [[Stanton Friedman]], [[Steven Greer]], [[Don Schmidt]], [[Nick Redfern]], [[Judy Wolcott]], [[Robert Jacobs]], [[Robert Salas]]
+- **Organizations**: [[Atomic Energy Commission]], [[US Air Force]], [[Wright-Patterson Air Force Base]], [[Link Aviation]], [[Disclosure Project]]
+- **Events**: [[Operation Upshot-Knothole]], [[1953 Kingman, Arizona Crash Retrieval]], [[Jesse Marcel Roswell Disclosure]]
+- **Locations**: [[Kingman, Arizona]], [[Indian Springs Air Force Base]], [[Nevada Proving Ground]], [[Area 51]], [[Los Alamos National Laboratory]]
+- **Concepts**: [[Crash Retrieval]], [[J-Rod]], [[Non-human Biological Entity]], [[Flying Disc Simulator]], [[UFO-Nuclear Connection]]

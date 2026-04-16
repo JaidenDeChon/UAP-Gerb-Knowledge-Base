@@ -43,7 +43,7 @@ The video, hosted by UAP Gerb, investigates Northrop Grumman's alleged involveme
 - [[Reverse Engineering]] — The process by which defense contractors allegedly studied and replicated non-human craft and materials to develop usable technology.
 - [[Waved Unacknowledged Special Access Programs (USAPs)]] — Highly classified government programs shielded from standard oversight, allegedly used to protect UAP-related research and material exploitation.
 - [[Alien Reproduction Vehicle (ARV)]] — A reportedly reverse-engineered craft based on non-human technology, discussed by Brad Sorenson and attributed to Lockheed Martin.
-- [[TR3B]] — A triangular craft allegedly reverse-engineered from non-human technology, discussed by USAF Master Sergeant Edgar Fuche.
+- [[TR-3B]] — A triangular craft allegedly reverse-engineered from non-human technology, discussed by USAF Master Sergeant Edgar Fuche.
 - [[C4ISR]] — Command, Control, Communications, Computers, Intelligence, Surveillance and Reconnaissance — the military's electronic nervous system; the host suspects select C4ISR programs engage in deep-sixed waved USAPs.
 - [[Non-Human Intelligence (NHI) Materials]] — Physical materials allegedly of non-human origin recovered by the US government and distributed to defense contractors for analysis and exploitation.
 - [[UAP Legacy Programs]] — Long-running classified programs within the US government and defense industry focused on the study, exploitation, and reverse engineering of UAP-related materials and craft.

@@ -29,8 +29,13 @@ Within UAP research, Sandia National Laboratories is frequently cited as a centr
 
 The laboratory's dual status as a government-funded yet privately managed FFRDC is viewed by researchers as providing institutional and legal ambiguity that is structurally useful for maintaining compartmented programs outside traditional oversight channels.
 
+### El Indio Material Recovery (1950)
+
+The alleged [[Majestic 12]] Eisenhower Briefing Document describes a December 6, 1950 UAP impact between [[El Indio, Texas]] and Guerrero, Mexico, in which a craft traveling at extreme velocity was nearly obliterated. The document states that recovered materials were transported to the "Atomic Energy Commission's Sandia facility" for study. If accurate, this places the El Indio debris at Sandia during the period of [[AT&T]]'s management of the laboratory (1949–1993). [[Steven Greer]]'s Disclosure Project archives include two redacted witness entries describing ET/NHI technology transfers specifically to AT&T, lending circumstantial support to the chain of custody implied by the document. Sandia's management was subsequently transferred to [[Lockheed Martin]] in 1993.
+
 ## Sources
 
 - [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
 - [[Video - Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
 - [[Video - National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers]]
+- [[Video - The 1950s Del Rio, Texas UFO Crashes]]

@@ -30,9 +30,27 @@ In 1949, Dr. [[Eric Wang]] headed the Office of Special Studies at Wright-Patter
 
 Wright-Patterson has been named as the alleged destination for recovered materials from multiple UFO crash incidents:
 
-- **[[1965 Kecksburg, Pennsylvania UFO Crash|Kecksburg Incident]]**: The [[Kecksburg, Pennsylvania]] object was reportedly transported to Wright-Patterson after initial handling at Lockbourne Air Force Base. Witness Myron delivered bricks to the base and allegedly observed the object.
+### 1965 Kecksburg, Pennsylvania UFO Crash
 
-- **NAMRU D Installation**: The base houses a NAMRU D (Naval Medical Research Unit) installation historically associated with UAP biological research.
+The [[1965 Kecksburg UFO Crash|Kecksburg object]] was reportedly transported to Wright-Patterson two to three days after the December 9, 1965 crash retrieval. Multiple witnesses provided detailed testimony about the object's storage and examination at the base:
+
+**Witness [[Myron]]**, a trucker who delivered specialty radiation-shielding bricks to Wright-Patterson with his cousin "JS" on December 11 or 12, 1965, provided one of the most detailed accounts. Myron claimed he peered into a warehouse at Wright-Patterson and observed:
+
+- A **bell-shaped metallic object approximately 10 feet tall** surrounded by metal scaffolding
+- The object was covered in charred residue and matched witness descriptions from the Kecksburg crash site
+- Personnel in white coveralls and rubberized protective gear, wearing Navy insignia (not Air Force)
+- A worker using an **acetylene torch** attempting to gain entry to the craft. The worker told Myron that **all attempts to penetrate the hull had failed** — acetylene torches, diamond-tipped drill bits, and acid made no progress. The worker added: "If there are bodies inside, they might be too hot for the mortician to handle."
+- An armed guard discovered Myron observing the scene and warned: **"Forget what you've seen or we'll lock you up and throw away the keys."**
+
+In a 1998 interview, Myron added that he had also seen a **small non-human body on a workbench** near the craft, approximately 4 to 4.5 feet tall with a three-fingered hand covered in dark green or brownish "lizard-like" skin visible beneath a white sterile sheet.
+
+Myron's cousin "JS" corroborated the brick delivery and confirmed seeing the object **the day before Myron did**, sitting upright under a tarp on a lowboy trailer. JS described it as shaped like the Liberty Bell, 8 to 10 feet tall and wide, guarded by armed personnel and men in fatigue suits.
+
+[[Leonard Stringfield]], who extensively interviewed Myron on videotape with the assistance of medical researcher Dr. [[Brian Thompson]], stated: **"I feel convinced of Myron's sincerity."** Stringfield and Pennsylvania researcher [[Stan Gordon]] worked together investigating the Kecksburg case for over a decade.
+
+The Kecksburg object was allegedly first transported to [[Lockbourne Air Force Base]] (now Rickenbacker Air National Guard Base) before being moved to Wright-Patterson for examination and storage. Wright-Patterson has repeatedly been named as the final destination for high-priority UAP retrieval cases due to its Foreign Technology Division and alleged secure storage facilities such as the [[Wright Patterson Blue Room|Blue Room]].
+
+**NAMRU D Installation**: The base houses a NAMRU D (Naval Medical Research Unit) installation historically associated with UAP biological research.
 
 ## Current Role
 

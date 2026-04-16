@@ -18,7 +18,7 @@ This video examines the Wilson-Davis memo and its implications for alleged U.S. 
 ## People
 - [[Will Miller]] — Confirmed the 1997 meeting with Wilson, Mitchell, Greer, and Hughes; discussed bigot lists and USAPs; expressed belief in US possession of operational craft
 - [[Eric Davis]] — Recipient of letter from Miller; associated with the Wilson-Davis memo; sources close to him confirmed memo's authenticity
-- [[Thomas Wilson]] — Central figure in Wilson-Davis memo; allegedly stonewalled in attempts to access a classified UAP reverse engineering program; flatly denies the meeting
+- [[Admiral Thomas Wilson]] — Central figure in Wilson-Davis memo; allegedly stonewalled in attempts to access a classified UAP reverse engineering program; flatly denies the meeting
 - [[Edgar Mitchell]] — Confirmed the 1997 meeting before his death; notes found in his estate after death further corroborated the memo
 - [[Steven Greer]] — Present at the 1997 meeting with Wilson, Miller, Mitchell, and Hughes
 - [[Dia Hughes]] — Requested the 1997 meeting and needed the briefing expedited; present at the Wilson meeting

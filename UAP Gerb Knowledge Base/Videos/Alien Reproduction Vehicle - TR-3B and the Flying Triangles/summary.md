@@ -43,7 +43,7 @@ The video, hosted by UAP Gerb, provides a comprehensive examination of alleged h
 - [[Eric Davis]] — Mentioned as subject of an upcoming interview by UAP Gerb
 - [[Jesse Michaels]] — UAP Gerb appeared on a show with Jesse Michaels
 - [[UAP Gerb]] — Host and narrator of the video discussing flying triangles and alien reproduction vehicles
-- [[Stubblebine]] — Referenced in connection with INSCOM and a possible Men in Black-style program called TREATS
+- [[Albert Stubblebine]] — Referenced in connection with INSCOM and a possible Men in Black-style program called TREATS
 - [[Ed Fuche]] — Claimed secondhand knowledge of the TR-3B craft through associates Gerald, Bud, Doc, and others; had three personal sightings not under program operations; has since passed away
 - [[Gerald]] — One of Fuche's sources of TR-3B information; died shortly after his first meeting with Fuche
 - [[Moulder]] — Referenced in context of an episode involving Air Force test pilots and triangle craft reverse engineered from Roswell technology

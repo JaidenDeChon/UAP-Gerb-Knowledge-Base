@@ -134,7 +134,7 @@ The video, hosted by UAP researcher "UAP Gerb," presents a deep-dive investigati
 - [[Death of James Allen]] — Filmmaker died approximately one month before his documentary was set to release; pathology allegedly showed radioisotope poisoning
 - [[Brad Sorensen 1990 Interview]] — Interview conducted by Bill Scott of Aviation Week and Space Technology in which Sorensen described the ARV craft in detail
 - [[Steven Greer 2001 NPC Event]] — Press conference at which McCandlish was interviewed about UFO technology in a segment titled 'Blueprint for a UFO'
-- [[McCandlish Planned Senate Testimony]] — McCandlish was reportedly scheduled to testify to Senate elements on UAP but died in April 2021 before this occurred
+- [[Mark Mandel Planned Congressional Testimony]] — McCandlish was reportedly scheduled to testify to Senate elements on UAP but died in April 2021 before this occurred
 - [[ARV Technology Acquisition (Alleged)]] — Brad Sorensen allegedly claimed those controlling the ARV obtained the original craft or technology from non-human beings in 1947
 - [[Mark Mandel Planned Congressional Testimony]] — Mark Mandel was reportedly set to testify before Congressional and Senate elements; he passed away before this could occur.
 - [[Soul Foundation Hearings]] — Hearings scheduled for November 13th that the narrator plans to attend for live coverage.

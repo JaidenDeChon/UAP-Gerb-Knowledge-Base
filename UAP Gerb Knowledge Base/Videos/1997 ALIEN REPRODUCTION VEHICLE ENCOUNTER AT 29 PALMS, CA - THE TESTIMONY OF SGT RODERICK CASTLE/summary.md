@@ -107,7 +107,7 @@ This video presents the testimony of Rodrik Castle, a US Marine and VMA-513 tech
 - [[Air Training Ranges for UFO Legacy Program Operations]] — Training ranges such as FTRC and Nevada Test and Training Range theorized to be used for flight testing of reproduction vehicles
 - [[Blue Assets]] — Conventional or acknowledged military assets referenced in context of back-channel reporting of ARV data to the Navy
 - [[Special Mission Units]] — Units theorized to have participated in Hunter Warrior through NAWDC and NAS Lemoore to practice ARV-related operations
-- [[TR3B]] — A classified pitch-black triangular stealth reconnaissance craft allegedly using reverse-engineered nonhuman propulsion technology, capable of Mach 9 and near-indefinite loiter time.
+- [[TR-3B]] — A classified pitch-black triangular stealth reconnaissance craft allegedly using reverse-engineered nonhuman propulsion technology, capable of Mach 9 and near-indefinite loiter time.
 - [[Magnetic Field Disruptor (MFD)]] — A circular plasma field accelerator ring using mercury-based superconducting plasma to reduce the mass of surrounding objects by 89%, neutralizing gravitational effects.
 - [[Gravity Warping Propulsion]] — A propulsion concept allegedly reverse engineered from nonhuman technology that disrupts and reduces the effect of gravity on mass.
 - [[Superconducting Plasma]] — Mercury-based plasma pressurized and accelerated to create superconductivity used in the MFD gravity reduction system.

@@ -38,7 +38,7 @@ This video features an in-depth interview with UAP researcher Ryan S. Wood exami
 - [[Donald Menzel]] — Referenced in handwritten comments on the Bowen manuscript, asking what he was doing in relation to UFO topics
 - [[Timothy Cooper]] — Obtained the Bowen manuscript via FOIA in 1999 with top secret markings and handwritten comments
 - [[Stanton Friedman]] — Author of 'Top Secret Magic,' referenced for authentication of Eisenhower briefing document and other Majestic documents
-- [[Luis Elizondo]] — Referenced in relation to statements about underwater bases and a 1950 crash near La Indio and Guerra
+- [[Luis Elizondo]] — Referenced in relation to statements about underwater bases and a 1950 crash near [[El Indio, Texas]]
 
 ## Organizations
 - [[Majestic 12]] — Secret group established September 24, 1947 tasked with recovering and studying extraterrestrial craft, technology, and entities
@@ -133,7 +133,7 @@ This video features an in-depth interview with UAP researcher Ryan S. Wood exami
 - [[Bowen Manuscript FOIA Recovery]] — Timothy Cooper obtained the Bowen manuscript via FOIA request, finding it stamped top secret magic with handwritten marginalia attributed to Vannevar Bush.
 - [[1974 Coyame, Mexico UFO Crash Retrieval]] — A UFO crash retrieval case near Coyame referenced in previous research, connected to Majestic annual reports and IPU report.
 - [[1955 Del Rio Texas Crash]] — A UFO crash case near Del Rio, Texas referenced in connection with the Eisenhower briefing document.
-- [[1950 Crash near La Indio and Guerra]] — A crash event listed in the Eisenhower briefing document and also referenced by Lou Elizondo.
+- [[1950 Crash near El Indio, Texas]] — A crash event listed in the Eisenhower briefing document and also referenced by Lou Elizondo.
 
 ## Operations
 - [[MJ-12 Covert Retrieval Operations]] — Operations carried out by MJ-12 in collusion with the CIA, both domestically and abroad, to recover extraterrestrial craft, technology, and entities.
@@ -160,7 +160,7 @@ This video features an in-depth interview with UAP researcher Ryan S. Wood exami
 - [[New Mexico]] — Referenced through the period-accurate abbreviation 'N.Mex' in SOM 1-01 as evidence of document authenticity.
 - [[Coyame]] — Site of a 1974 UFO crash retrieval case referenced in Majestic documents research
 - [[Del Rio, Texas]] — Site of a 1955 UFO crash case referenced in connection with Majestic documents
-- [[La Indio and Guerra]] — Location of a 1950 UFO crash listed in the Eisenhower briefing document and referenced by Lou Elizondo
+- [[El Indio, Texas]] — Location of a 1950 UFO crash listed in the Eisenhower briefing document and referenced by Lou Elizondo
 
 ## Key Claims
 - Robert Wood authenticated the MJ-12 Special Operations Manual based on typographic details including raised Z characters, correct fonts, indentations, M-dash usage, and period-appropriate capitalization.
