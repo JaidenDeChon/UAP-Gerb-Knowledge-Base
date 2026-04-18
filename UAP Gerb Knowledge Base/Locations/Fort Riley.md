@@ -5,6 +5,3 @@ tags:
 ---
 
 Location where Corso allegedly observed a non-human biological entity in 1947.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

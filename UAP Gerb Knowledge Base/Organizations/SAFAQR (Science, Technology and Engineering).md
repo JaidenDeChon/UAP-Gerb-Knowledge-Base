@@ -6,6 +6,3 @@ tags:
 ---
 
 Serves as Air Force Science and Technology Executive; coordinates with SAF/AQL on RDT&E SAPs and new technologies
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

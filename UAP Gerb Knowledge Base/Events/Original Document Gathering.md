@@ -6,6 +6,3 @@ tags:
 ---
 
 A now-deceased person gathered facts from two eyewitness accounts and illegally copied documentation about the coyam incident.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

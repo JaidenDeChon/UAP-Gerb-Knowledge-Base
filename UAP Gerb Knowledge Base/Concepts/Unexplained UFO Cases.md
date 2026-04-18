@@ -5,6 +5,3 @@ tags:
 ---
 
 25-30% of cases submitted to the Condon Committee could not be explained, a finding allegedly buried in the committee's summary.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

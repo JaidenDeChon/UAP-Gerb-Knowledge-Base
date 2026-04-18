@@ -6,6 +6,3 @@ tags:
 ---
 
 Air Force oversight mechanism that was allegedly bypassed when UFO legacy programs were moved under SAF/AA
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

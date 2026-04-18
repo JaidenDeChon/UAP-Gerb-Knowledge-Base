@@ -6,6 +6,3 @@ tags:
 ---
 
 Theorized by researcher as the special forces unit in black camouflage who arrived on scene first before the CH-47s
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

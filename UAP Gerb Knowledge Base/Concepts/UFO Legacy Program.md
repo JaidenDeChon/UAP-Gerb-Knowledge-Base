@@ -5,6 +5,3 @@ tags:
 ---
 
 Alleged deep, classified program involving recovery and study of UAP/UFO technology, referenced in connection with Richard Bissell and Harold Malmgren.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

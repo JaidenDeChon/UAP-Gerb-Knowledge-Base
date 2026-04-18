@@ -29,6 +29,3 @@ Disinformation has appeared in multiple contexts within UAP history:
 - [[Video - The Majestic-12 Documents With Ryan S. Wood]]
 - [[Video - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)]]
 - [[Video - The 1965 Kecksburg, Pennsylvania UFO Crash]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

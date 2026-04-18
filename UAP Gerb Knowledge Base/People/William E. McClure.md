@@ -6,6 +6,3 @@ tags:
 ---
 
 Also theorized as a potential Air Force gatekeeper referenced in the Christopher Mellon signal exchange
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

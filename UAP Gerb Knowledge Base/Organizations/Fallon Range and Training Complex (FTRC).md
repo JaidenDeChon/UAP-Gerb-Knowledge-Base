@@ -6,6 +6,3 @@ tags:
 ---
 
 Enormous training range north of Nevada Test Site, run by NAWDC, used by Area 51 Groom Lake
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

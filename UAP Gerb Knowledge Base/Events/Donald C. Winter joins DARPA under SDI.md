@@ -6,6 +6,3 @@ tags:
 ---
 
 Winter joined DARPA during the 1980s as part of Reagan's Strategic Defense Initiative while employed at TRW.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

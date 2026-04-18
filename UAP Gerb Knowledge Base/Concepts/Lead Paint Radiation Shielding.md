@@ -5,6 +5,3 @@ tags:
 ---
 
 The ARV's lead paint coating appeared to serve as protection for the crew from x-ray radiation.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 Meetings held at President Johnson's Texas residence the day after the Kecksburg crash, potentially for briefings on the incident
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

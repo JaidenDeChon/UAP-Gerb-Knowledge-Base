@@ -46,9 +46,9 @@ tags:
 - [[Anti-Gravity]]
 - [[Anti-gravity Technology]]
 - [[Anunnaki]]
-- [[Applied Engineering]]
+- Applied Engineering
 - [[Aquatic Species Theory]]
-- [[Article 15]]
+- Article 15
 - [[Asteroid Belt Resource Retrieval]]
 - [[Asymmetrical Warfare]]
 - [[Atmospheric Extinction]]
@@ -57,16 +57,16 @@ tags:
 - [[Audio Waveform Analysis]]
 - [[Aurora Craft]]
 - [[Aurora Program]]
-- [[Authenticity Research]]
+- Authenticity Research
 - [[Automobile Interference]]
 - [[Avatars  Biological Robots]]
 - [[Avionics Jamming]]
 - [[Aztec UFO Case]]
 - [[BATS (Biometrics Automated Toolset System)]]
-- [[BDUs (Battle Dress Uniform)]]
+- BDUs (Battle Dress Uniform)
 - [[Back Contamination]]
 - [[Back-channeled Funds]]
-- [[Bad Optics]]
+- Bad Optics
 - [[Ball Control Scheme]]
 - [[Ball lightning]]
 - [[Ballistic Panspermia]]
@@ -119,7 +119,7 @@ tags:
 - [[Blue Room]]
 - [[Blue arcing light]]
 - [[Blunt Impact Crash Site]]
-- [[Bogey]]
+- Bogey
 - [[Brain Wave Aircraft Control]]
 - [[Breakaway Civilization]]
 - [[Breakaway Programs]]
@@ -130,7 +130,7 @@ tags:
 - [[C4ISR]]
 - [[CBR Risk Assessment]]
 - [[CGI Analysis]]
-- [[Camouflage Pattern Matching]]
+- Camouflage Pattern Matching
 - [[Capacitor Array]]
 - [[Capacitor Plates]]
 - [[Carbon Nanotube Conductive Structure]]
@@ -142,25 +142,25 @@ tags:
 - [[Carve-out Contracts]]
 - [[Catastrophic Disclosure]]
 - [[Cease and Desist Contact]]
-- [[Censored Evidence]]
-- [[Chaff]]
+- Censored Evidence
+- Chaff
 - [[Chain of Command (Ship-based)]]
 - [[Chipping]]
 - [[Cigar-Shaped or Tic-Tac Craft]]
 - [[Classification Restrictions]]
 - [[Classified Parallel Programs to Blue Book]]
-- [[Clean Room]]
+- Clean Room
 - [[Cloned Beings]]
 - [[Color-Coded Security Badges]]
-- [[Combat Loading Group]]
+- Combat Loading Group
 - [[Coming Forward]]
 - [[Commuter Compartmentalization]]
 - [[Compartmentalization  Stove-piping]]
 - [[Compartmentalization]]
 - [[Compartments within Compartments]]
 - [[Complementary Field Propulsion]]
-- [[Condition Three]]
-- [[Conflict of Interest]]
+- Condition Three
+- Conflict of Interest
 - [[Congressional Oversight]]
 - [[Congressional and Presidential Oversight Loss]]
 - [[Conical Propulsion Structure]]
@@ -172,7 +172,7 @@ tags:
 - [[Containment Breach]]
 - [[Contingency Plan MJ-1 19494 P78]]
 - [[Continuity of Government (COG)]]
-- [[Continuous Process Improvement]]
+- Continuous Process Improvement
 - [[Continuous Wave Missile Radar Lock]]
 - [[Controlled Access Programs (CAP)]]
 - [[Controlled Disclosure]]
@@ -203,10 +203,10 @@ tags:
 - [[Crashed Craft Recovery]]
 - [[Crimes Against Humanity]]
 - [[Crop Circles]]
-- [[Crowd Control in Disaster Relief]]
+- Crowd Control in Disaster Relief
 - [[Cutler-Twining Memo]]
 - [[Cylindrical object in shipping container]]
-- [[DD214]]
+- DD214
 - [[DENB Team]]
 - [[DOE Intelligence Agency (OICI)]]
 - [[DOE NEST Team]]
@@ -217,7 +217,7 @@ tags:
 - [[DUMB (Deep Underground Military Base)]]
 - [[DUMBs (Deep Underground Military Bases)]]
 - [[Dark Forest Theory]]
-- [[Dawn of a New Age]]
+- Dawn of a New Age
 - [[Dead Man Switch]]
 - [[Dead Reckoning  Timeline Reconstruction]]
 - [[Debunk Panel]]
@@ -234,7 +234,7 @@ tags:
 - [[Defense Industrial Base]]
 - [[Delta Detachment]]
 - [[Denb Report]]
-- [[Depleted Uranium Shells]]
+- Depleted Uranium Shells
 - [[Derivative Technologies  Alien Reproduction Vehicle (ARV) Program]]
 - [[Derivative Technologies of Unknown Origin]]
 - [[Derivative Technologies]]
@@ -260,7 +260,7 @@ tags:
 - [[DoDIC Admin Layer]]
 - [[Document Authentication]]
 - [[Document Control Page]]
-- [[Document Trail]]
+- Document Trail
 - [[Domestic Information Operation]]
 - [[Doodlebug]]
 - [[Double Glazed Lead-Lined Protective Structure]]
@@ -269,7 +269,7 @@ tags:
 - [[Dual-Hatted Roles]]
 - [[Dual-Use Technology]]
 - [[Dulce Base]]
-- [[Dump Pouch]]
+- Dump Pouch
 - [[Dust Disturbance Absence]]
 - [[Dyson Sphere]]
 - [[Dysonian SETI (CTI)]]
@@ -300,13 +300,13 @@ tags:
 - [[Embedded Spherical Lights]]
 - [[Emergency Landing Due to UFO]]
 - [[Eminent Domain (UAP context)]]
-- [[Encrypted Communication Platform]]
+- Encrypted Communication Platform
 - [[Energetic DischargeWeapon System]]
 - [[Energy Deposition Problem]]
 - [[Enforcement Arm of Political Corruption]]
 - [[Error in the Equations]]
-- [[Establishing Trust]]
-- [[Ethical Tug of War]]
+- Establishing Trust
+- Ethical Tug of War
 - [[Europe-US Default Agreement]]
 - [[Explosively Pumped Electromagnetic Pulse Weapon]]
 - [[Extrasensory Perception (ESP)]]
@@ -317,7 +317,7 @@ tags:
 - [[Extraterrestrial Biological Organisms (EBOs)]]
 - [[Extraterrestrial Bodies Recovery]]
 - [[Extraterrestrial Classification Table]]
-- [[Extraterrestrial Life]]
+- Extraterrestrial Life
 - [[Extraterrestrial Officers]]
 - [[Extraterrestrial Parasite or Virus]]
 - [[Extraterrestrial Reactor]]
@@ -331,7 +331,7 @@ tags:
 - [[FOIA Document Retrieval]]
 - [[FOIA Evasion via Terminology]]
 - [[FOIA Requests]]
-- [[Fabian Socialism]]
+- Fabian Socialism
 - [[Fabrication Hypothesis]]
 - [[Factions - Good vs Bad]]
 - [[Factions within the Program]]
@@ -340,11 +340,11 @@ tags:
 - [[Fast Walker]]
 - [[Fast Walkers]]
 - [[Faster-Than-Light Travel]]
-- [[Fata Morgana]]
+- Fata Morgana
 - [[Fauna-Disguised Drones]]
 - [[Federally Funded Research and Development Centers (FFRDCs)]]
 - [[Fermi Paradox]]
-- [[Feudalistic Dominance]]
+- Feudalistic Dominance
 - [[File UFO 3263]]
 - [[Five Characteristics of UAP]]
 - [[Five UAP Characteristics (AATIP)]]
@@ -367,7 +367,7 @@ tags:
 - [[Foreign Technology Division]]
 - [[Forensic Document Analysis]]
 - [[Forward Contamination]]
-- [[Forward Deployment]]
+- Forward Deployment
 - [[Frame of Reference Effect]]
 - [[Free Energy Systems]]
 - [[Free Energy Technology]]
@@ -385,7 +385,7 @@ tags:
 - [[Gatekeeper (Air Force UAP)]]
 - [[Gatekeeper]]
 - [[GauntletTablet Device]]
-- [[Generation Two Star]]
+- Generation Two Star
 - [[Gentex MBU-23P Pilot Respirator Mask]]
 - [[Geoglyphs]]
 - [[Ghost Building]]
@@ -409,15 +409,15 @@ tags:
 - [[Great Pumpkin]]
 - [[HOTL Printing Press Artifact]]
 - [[Harassment of Witnesses]]
-- [[Hasty LZ (Landing Zone)]]
-- [[Hasty LZ]]
-- [[Hasty Landing Zone (LZ)]]
+- Hasty LZ (Landing Zone)
+- Hasty LZ
+- Hasty Landing Zone (LZ)
 - [[Hawk MIM-23 Missile Battery]]
 - [[Hawk Missile Battery (MIM-23)]]
 - [[Hazard Support System]]
 - [[Heat Exchanger Propulsion]]
-- [[Heat Shield Technology]]
-- [[Helicopter Landing Zone (LZ)]]
+- Heat Shield Technology
+- Helicopter Landing Zone (LZ)
 - [[Helicopter Tracking via Radar]]
 - [[Hidden Wing Thesis]]
 - [[Hidden Wing]]
@@ -439,7 +439,7 @@ tags:
 - [[Hudson Valley UFO Flap]]
 - [[Human Trafficking in UAP Context]]
 - [[Human-made vs. Non-human Tic Tacs]]
-- [[Humanitarian Mission Security]]
+- Humanitarian Mission Security
 - [[Hunter Air Concept]]
 - [[Hypersonic UAP Speed]]
 - [[Hypersonic Velocity Without Signatures]]
@@ -477,7 +477,7 @@ tags:
 - [[Internal Rail System]]
 - [[Interplanetary Contamination]]
 - [[Interplanetary Hypothesis]]
-- [[Interstate Transportation of Stolen Property]]
+- Interstate Transportation of Stolen Property
 - [[Interstellar Travel Technology]]
 - [[Interstellar Travel]]
 - [[Inverse Intelligence]]
@@ -492,10 +492,10 @@ tags:
 - [[Kingman Crash Debunking Theory]]
 - [[Kona Blue Technology Transfer]]
 - [[Kona Blue]]
-- [[LZ (Landing Zone)]]
+- LZ (Landing Zone)
 - [[Lam]]
 - [[Landing Zone (LZ)]]
-- [[Landing Zone Analysis]]
+- Landing Zone Analysis
 - [[Laser Tracking Strikes]]
 - [[Lead Paint Radiation Shielding]]
 - [[Legacy Program Gatekeepers]]
@@ -509,7 +509,7 @@ tags:
 - [[Level Five Proximity Badge]]
 - [[Light Absorption]]
 - [[Light Rail System (Underground)]]
-- [[Limited Transparency]]
+- Limited Transparency
 - [[Liquid Metal Mold Construction]]
 - [[Lithopanspermia]]
 - [[Little Green Men]]
@@ -517,7 +517,7 @@ tags:
 - [[Low Observability]]
 - [[Low Temperature Plasma]]
 - [[Luminous WavesPulsations]]
-- [[M203 Grenade Launcher]]
+- M203 Grenade Launcher
 - [[MIM-23 Hawk Missile]]
 - [[MJ-12 (Majestic 12)]]
 - [[MJ-12 Document Authentication]]
@@ -559,7 +559,7 @@ tags:
 - [[Matte Black Stealth Surface]]
 - [[Maxwell's Equations Error]]
 - [[Media Censorship of UAP Events]]
-- [[Memorandum for Record]]
+- Memorandum for Record
 - [[Memory SuppressionFuzzing]]
 - [[Men in Black]]
 - [[Mercury-Based Plasma System]]
@@ -576,10 +576,10 @@ tags:
 - [[Missile Chaff Decoy]]
 - [[Missing Time  Psychological Trauma]]
 - [[Missing Time]]
-- [[Mission Volunteers in Sticks]]
+- Mission Volunteers in Sticks
 - [[Mission-Oriented Protective Posture (MOPP) Gear]]
 - [[Mission-Oriented Protective Posture (MOPP) Gear]]
-- [[Mixing Truth and Fiction]]
+- Mixing Truth and Fiction
 - [[Moon Suits]]
 - [[Moon suits  Hazmat-style protective gear]]
 - [[Moondust Officer]]
@@ -660,8 +660,8 @@ tags:
 - [[Nonhuman Material Transfer]]
 - [[Nonlinear Battlefield]]
 - [[Nosbed Tactic]]
-- [[Nuclear Fission]]
-- [[Nuclear Fusion]]
+- Nuclear Fission
+- Nuclear Fusion
 - [[Nuclear ICBM Shutdown]]
 - [[Nuclear Security Enterprise (NSE)]]
 - [[Nuclear Subterrene]]
@@ -679,33 +679,33 @@ tags:
 - [[Off-World Technology]]
 - [[Office of Primary Responsibility (OPR)]]
 - [[Office of Special Studies]]
-- [[Officer's Chow Detail]]
+- Officer's Chow Detail
 - [[Onboard Biologics]]
 - [[Once Agency Always Agency]]
 - [[Ontological Shock]]
 - [[Ooid Cross-Section]]
 - [[Ooid or Teardrop-Shaped Craft]]
-- [[Open Source Research]]
+- Open Source Research
 - [[Open-Source Corroboration]]
-- [[Opportunism in UFO Research]]
+- Opportunism in UFO Research
 - [[Orbital Altitude Entry]]
 - [[Orbital Debris Analysis]]
 - [[Organic Craft Appearance]]
-- [[Outside Activities]]
+- Outside Activities
 - [[Overhead Collection]]
 - [[Overseas Contingency Operations]]
 - [[OvoidTeardrop Craft]]
-- [[Oxygen Supply Cylinders]]
+- Oxygen Supply Cylinders
 - [[OzonePetrichor Smell After UAP Encounter]]
-- [[PTSD-Driven Alcoholism]]
+- PTSD-Driven Alcoholism
 - [[Pangalactic Entanglement]]
 - [[Panspermia]]
 - [[Parallel Stripped Oversight Channels]]
 - [[Passive Night Vision Technology]]
-- [[Pelican Cases]]
+- Pelican Cases
 - [[Pelican casesweapons crates]]
 - [[Pentagon UFO Videos]]
-- [[Personnel Transport Mission]]
+- Personnel Transport Mission
 - [[Phased Array Radar Tracking]]
 - [[Photo Tampering  Enhancement]]
 - [[Pink Assets]]
@@ -713,7 +713,7 @@ tags:
 - [[Polaris Subprogram]]
 - [[Port Side Wing View]]
 - [[Porthole Mirror Effect]]
-- [[Post Duty Officer]]
+- Post Duty Officer
 - [[Post-Disclosure Positioning]]
 - [[Post-Disclosure World]]
 - [[Pro-Disclosure Insiders]]
@@ -755,7 +755,7 @@ tags:
 - [[Radar Tracking of UAPs]]
 - [[Radial Arm]]
 - [[Radiation Testing of Aircraft]]
-- [[Radio Silence]]
+- Radio Silence
 - [[Radiobiological Warfare Laboratories]]
 - [[Radioisotope Poisoning]]
 - [[Raelism]]
@@ -797,15 +797,15 @@ tags:
 - [[Revolving Door]]
 - [[Rogue Military Force]]
 - [[Rogue Programs]]
-- [[Roman à clef]]
+- Roman à clef
 - [[Roswell Before Roswell]]
 - [[Roswell File]]
 - [[Roswell I-Beam]]
 - [[S4]]
 - [[SAFAQL (Special Programs)]]
 - [[SAP (Special Access Program)]]
-- [[SAW Drum Pouches]]
-- [[SAW Gunner]]
+- SAW Drum Pouches
+- SAW Gunner
 - [[SCS2 Label]]
 - [[SERE Training (Level C)]]
 - [[SIGINT (Signals Intelligence)]]
@@ -817,7 +817,7 @@ tags:
 - [[STIFF (Subterranean Facility)]]
 - [[Sand Dollar]]
 - [[Satellite Imagery as Evidence]]
-- [[Scramjet Technology]]
+- Scramjet Technology
 - [[Seamless Craft Hull]]
 - [[Seamless Metallic Sphere]]
 - [[Second-Generation Recording]]
@@ -827,7 +827,7 @@ tags:
 - [[Security Catcher Mitt]]
 - [[Security Control System]]
 - [[Security Intimidation]]
-- [[Security Mission]]
+- Security Mission
 - [[Security Oath]]
 - [[Security Oaths]]
 - [[Senior Executive Service (SES)]]
@@ -861,14 +861,14 @@ tags:
 - [[Special Nuclear Material]]
 - [[Special Operations Manual]]
 - [[Special Use Airspace R2501C]]
-- [[Speculative Evolution]]
+- Speculative Evolution
 - [[Sphere Drones]]
 - [[Sports Model]]
 - [[Staged Dereliction]]
-- [[Standoff distance]]
+- Standoff distance
 - [[Star Map]]
 - [[Stepped Descent]]
-- [[Stick Organization]]
+- Stick Organization
 - [[Stigma Suppression of UAP Testimony]]
 - [[Stovepiping]]
 - [[Strange writing on UFO]]
@@ -885,7 +885,7 @@ tags:
 - [[Superconducting Plasma]]
 - [[Suppression of UAP Evidence]]
 - [[Suspicious Deaths in UAP Research]]
-- [[Sworn Affidavit]]
+- Sworn Affidavit
 - [[Synthetic Aperture Radar]]
 - [[Synthetic Vision System]]
 - [[TNO (Temporarily Non-attributed Object)]]
@@ -900,9 +900,9 @@ tags:
 - [[TR-3B]]
 - [[TREATS]]
 - [[TSSCI Clearance]]
-- [[Tactical Elevated Position]]
+- Tactical Elevated Position
 - [[Tactical Reconnaissance (TR) Line]]
-- [[Tardigrades on the Moon]]
+- Tardigrades on the Moon
 - [[Targeted Retaliation  Suppression]]
 - [[Tasked vs. Non-Tasked NRO Satellite Constellations]]
 - [[Techno-Signatures]]
@@ -927,9 +927,9 @@ tags:
 - [[Tesla Coil Electromagnetic Fields]]
 - [[The Day After Roswell]]
 - [[The Elohim]]
-- [[The Great Filter]]
+- [[Great Filter]]
 - [[The Hidden Wing]]
-- [[Three-Round Burst  Semi-Automatic Fire]]
+- Three-Round Burst  Semi-Automatic Fire
 - [[Tic Tac UFO]]
 - [[Tier 1 Units]]
 - [[Title 10 US Code Section 119]]
@@ -954,11 +954,11 @@ tags:
 - [[Truman-Forrestal Memo]]
 - [[Tunnel Boring Machine (TBM)]]
 - [[Tunnel Boring Machines]]
-- [[Type 1 Civilization]]
-- [[Type 2 Civilization]]
-- [[Type 3 Civilization]]
-- [[Type I Civilization]]
-- [[Type II Civilization]]
+- Type 1 Civilization
+- Type 2 Civilization
+- Type 3 Civilization
+- Type I Civilization
+- Type II Civilization
 - [[UAP (Unidentified Aerial Phenomena)]]
 - [[UAP Acoustic Signature]]
 - [[UAP Aerial Maneuverability]]
@@ -1045,24 +1045,24 @@ tags:
 - [[University Affiliated Research Center (UARC)]]
 - [[University Affiliated Research Centers (UARCs)]]
 - [[University Affiliated Research Centers (URCs)]]
-- [[Unknown Unknowns]]
+- Unknown Unknowns
 - [[Unmarked Black Operators]]
 - [[Unsanctioned Advanced Technology Programs]]
 - [[Unwitting Testing on Military Personnel]]
-- [[Up-armored vehicles]]
+- Up-armored vehicles
 - [[VTOL Hovering]]
 - [[VTOLSTOVL Technology]]
-- [[Vantablack]]
+- Vantablack
 - [[Variable Stable Rotation]]
 - [[Vehicle Electromagnetic Interference]]
 - [[Vertex orb lights]]
-- [[Vertical Takeoff and Landing (VTOL)]]
+- Vertical Takeoff and Landing (VTOL)
 - [[WINPAC]]
 - [[Waived PAP (Program Acquisition Plan)]]
 - [[Waived Unacknowledged Special Access Programs (USAPs)]]
 - [[WaivedBigoted Unacknowledged SAPs]]
-- [[Ward Room Briefing]]
-- [[Wardroom Briefing]]
+- Ward Room Briefing
+- Wardroom Briefing
 - [[Watch Committee]]
 - [[Waved Unacknowledged Special Access Programs (USAPs)]]
 - [[Weapons strippingcheck]]

@@ -5,6 +5,3 @@ tags:
 ---
 
 The observed craft allegedly changed color from a light matte gray to a dark matte black across its entire surface before takeoff.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

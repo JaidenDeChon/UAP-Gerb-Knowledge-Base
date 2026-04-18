@@ -16,6 +16,3 @@ The lack of verifiable information about Harmon, along with similar absence of p
 ## Sources
 
 - [[Video - Incredible UFO Footage - FLYBY]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 Office within Administrative Assistant to the Secretary of the Air Force involved in sensitive program oversight
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 Alleged to have kept recovered non-human biologics on ice at Patterson Air Force Base
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -5,6 +5,3 @@ tags:
 ---
 
 Large magnetic fields from UAPs can rotate the polarization of light, observable as rings in photographs taken with polarizing filters
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

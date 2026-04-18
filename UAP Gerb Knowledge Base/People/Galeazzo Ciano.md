@@ -24,6 +24,3 @@ Ciano was executed by firing squad in January 1944 following his involvement in 
 ## Sources
 
 - [[Video - The 1933 Magenta, Italy UFO Crash]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

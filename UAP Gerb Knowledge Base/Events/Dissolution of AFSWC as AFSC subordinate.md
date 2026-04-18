@@ -6,6 +6,3 @@ tags:
 ---
 
 The Air Force Special Weapons Center was dissolved, and its Office of Primary Responsibility transferred to the Air Force Research Lab.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

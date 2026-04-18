@@ -81,6 +81,3 @@ UAP researcher [[Rob Jones]], in his paper "Sub Rosa," presents a theory that af
 - [[Video - Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
 - November 2024 House Oversight UAP Hearing Record (Representative Tim Burchett document submission)
 - AARO Declassified Kona Blue Slide Deck
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

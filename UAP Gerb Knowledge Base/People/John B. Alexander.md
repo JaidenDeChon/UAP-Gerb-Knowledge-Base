@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Colonel John B. Alexander is a retired U.S. Army officer who served in special operations and intelligence roles, becoming a prominent figure in government-affiliated UAP research during the 1980s and 1990s. He is best known for spearheading the classified "Advanced Theoretical Physics Working Group" and authoring *UFOs: Myths, Conspiracies, and Realities*. Alexander was one of several individuals privy to [[Philip J. Corso]]'s original manuscript *[[Dawn of a New Age]]* before Corso's death in 1998 and has provided both critical analysis and partial corroboration of Corso's testimony.
+Colonel John B. Alexander is a retired U.S. Army officer who served in special operations and intelligence roles, becoming a prominent figure in government-affiliated UAP research during the 1980s and 1990s. He is best known for spearheading the classified "Advanced Theoretical Physics Working Group" and authoring *UFOs: Myths, Conspiracies, and Realities*. Alexander was one of several individuals privy to [[Philip J. Corso]]'s original manuscript *Dawn of a New Age* before Corso's death in 1998 and has provided both critical analysis and partial corroboration of Corso's testimony.
 
 ## Advanced Theoretical Physics Conference
 
@@ -39,3 +39,4 @@ Alexander wrote to Lockheed Skunk Works director [[Ben Rich]] on July 10, 1986, 
 
 - [[Video - Philip J. Corso - US Army UFO Technology Research & Development]]
 - [[Video - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs]]
+- [[Video - UFOs in the Private Sector - Lockheed Martin]]

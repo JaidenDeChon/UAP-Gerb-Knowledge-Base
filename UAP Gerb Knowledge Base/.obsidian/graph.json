@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "-\"MOC\" -\"Template\" -\"summary\" -\"transcript\"",
   "showTags": false,
   "showAttachments": false,
@@ -60,13 +60,13 @@
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -1.9,
-  "nodeSizeMultiplier": 1.87901475694444,
-  "lineSizeMultiplier": 2.77096788194444,
+  "nodeSizeMultiplier": 2.090625,
+  "lineSizeMultiplier": 0.628068576388889,
   "collapse-forces": false,
-  "centerStrength": 0.0778211805555556,
-  "repelStrength": 15.5286458333333,
-  "linkStrength": 0.580642361111111,
-  "linkDistance": 220,
-  "scale": 0.009034193705209803,
+  "centerStrength": 0.0885416666666667,
+  "repelStrength": 17.078125,
+  "linkStrength": 0.351171875,
+  "linkDistance": 412,
+  "scale": 0.01745973686346806,
   "close": true
 }

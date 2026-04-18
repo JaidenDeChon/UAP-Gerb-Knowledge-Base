@@ -12,6 +12,3 @@ Referenced alongside CIA in connection to the officer who warned about threats
 Possibly involved in an OAP-L-like program that may have been the intended recipient of Lockheed Martin UAP materials
 
 James Clapper served as DIA Director and allegedly managed crash retrieval issues from this role
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

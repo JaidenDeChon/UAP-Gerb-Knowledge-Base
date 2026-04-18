@@ -5,6 +5,3 @@ tags:
 ---
 
 A newly published academic paper suggesting some UAP may be plasma-based pre-life forms.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

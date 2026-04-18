@@ -11,6 +11,3 @@ The Army and Navy Research and Development Board was a US Department of Defense 
 
 - [[Video - Global Air Force UFO Encounters You've Probably Never Heard of]]
 - [[Video - The Origin of the UFO Stigma]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

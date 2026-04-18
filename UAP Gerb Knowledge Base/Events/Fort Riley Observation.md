@@ -6,6 +6,3 @@ tags:
 ---
 
 Corso reportedly observed something at Fort Riley in 1947 that he later matched to autopsy reports he read, connecting his early experience to the EBE analysis.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

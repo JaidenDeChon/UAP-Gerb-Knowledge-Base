@@ -6,6 +6,3 @@ tags:
 ---
 
 Cited as part of the infrastructure supporting UFO legacy programs
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

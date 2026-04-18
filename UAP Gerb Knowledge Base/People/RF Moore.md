@@ -6,6 +6,3 @@ tags:
 ---
 
 Encountered a USO off Cape Race, Newfoundland in 1887
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -31,6 +31,3 @@ The Trinidade case is referenced by [[Kevin Knuth]] in his academic presentation
 ## Sources
 
 - [[Video - The Physics of UFOs– Dr. Kevin Knuth]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

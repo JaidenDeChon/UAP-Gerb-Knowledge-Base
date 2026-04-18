@@ -5,6 +5,3 @@ tags:
 ---
 
 Naval Air Station Patuxent River; referenced in connection with Off-World Technologies Division research
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

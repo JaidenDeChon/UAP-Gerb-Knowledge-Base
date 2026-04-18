@@ -6,6 +6,3 @@ tags:
 ---
 
 Joel contacted Stan Gordon and met with him in late 2002 to share his account of entering the woods at the Kecksburg crash site
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

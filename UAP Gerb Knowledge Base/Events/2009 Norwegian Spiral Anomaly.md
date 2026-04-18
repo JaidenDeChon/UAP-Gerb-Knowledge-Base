@@ -20,6 +20,3 @@ The explanation was widely accepted by scientists and skeptics. The timing and l
 ## Sources
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

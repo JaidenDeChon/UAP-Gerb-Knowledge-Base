@@ -6,6 +6,3 @@ tags:
 ---
 
 US research program under which SDI contracts were awarded; alleged to have back-channeled funds to UFO legacy programs
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

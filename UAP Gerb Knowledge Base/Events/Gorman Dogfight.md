@@ -22,6 +22,3 @@ Project Sign ultimately concluded Gorman had chased either a lit weather balloon
 ## Sources
 
 - [[Video - Global Air Force UFO Encounters You've Probably Never Heard of]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

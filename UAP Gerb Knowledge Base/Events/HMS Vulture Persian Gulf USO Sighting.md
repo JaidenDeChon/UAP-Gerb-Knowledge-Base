@@ -6,6 +6,3 @@ tags:
 ---
 
 JE Pringle reported luminous pulsations and two revolving wheel-shaped objects in the Persian Gulf
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

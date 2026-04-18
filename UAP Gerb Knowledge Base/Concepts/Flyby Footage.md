@@ -33,6 +33,3 @@ The footage's quality and dramatic nature have led to skepticism, with some dism
 ## Sources
 
 - [[Video - Incredible UFO Footage - FLYBY]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

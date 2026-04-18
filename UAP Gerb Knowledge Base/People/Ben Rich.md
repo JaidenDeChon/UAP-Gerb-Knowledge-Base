@@ -48,6 +48,4 @@ However, the consistency of the accounts from multiple independent witnesses (Ke
 
 - [[Video - Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
 - [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+- [[Video - UFOs in the Private Sector - Lockheed Martin]]

@@ -25,6 +25,11 @@ A recurring theme in UAP research is the direct proximity of the Roswell inciden
 
 The geographic concentration of the world's most sensitive nuclear programs in the New Mexico–Tennessee–Nevada corridor, and the timing of the crash just two years after the Trinity test and one year after the [[Atomic Energy Act of 1946]] established civilian nuclear oversight, has led researchers to argue that the nuclear establishment was structurally positioned to absorb and classify any recovered anomalous materials under the Act's broad "Restricted Data" provisions — placing them outside normal oversight from the outset.
 
+## Battelle Material Analysis Connection
+
+UAP Gerb's video on [[Battelle Memorial Institute]] argues that debris from the 1947 Roswell crash — specifically the anomalous metallic material described by [[Jesse Marcel]] — was subsequently shipped to [[Wright-Patterson Air Force Base]] and there contracted to Battelle for material analysis in 1949. Battelle's classified research on [[Nitinol (Nickel-Titanium Alloy)]] under contract 33-38-3736, performed years before nitinol's official public discovery in 1961, is cited as the primary documentary evidence of this chain. Battelle senior engineer [[EJ Center]] privately disclosed in the late 1950s that he had studied "parts retrieved from a flying saucer" during his Battelle tenure.
+
 ## Sources
 
 - [[Video - Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
+- [[Video - UFOs in the Private Sector - Battelle Memorial Institute]]

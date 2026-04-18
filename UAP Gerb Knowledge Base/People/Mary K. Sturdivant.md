@@ -83,6 +83,3 @@ Sturdivant is recognized in the National Reconnaissance Office's "Leaders of the
 
 - [[Video - Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
 - [[Video - National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

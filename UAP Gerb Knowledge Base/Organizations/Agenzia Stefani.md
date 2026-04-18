@@ -43,6 +43,3 @@ The Stefani model of rapid, centralized media control and coordinated cover stor
 ## Sources
 
 - [[Video - The 1933 Magenta, Italy UFO Crash]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

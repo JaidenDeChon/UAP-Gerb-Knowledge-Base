@@ -77,7 +77,7 @@ The video, hosted by UAP Gerb, provides a comprehensive examination of alleged h
 - [[Internal Mass Reduction]] — A theoretical effect where an object's effective mass is reduced through gravitational or electromagnetic field disruption, enabling extreme performance.
 - [[Pulse Detonation Engine]] — A type of propulsion system reportedly used on the TR-3A craft, utilizing rapid detonation cycles for thrust.
 - [[Complementary Field Propulsion]] — A propulsion method reportedly used on TR-3A variants for high-speed flight, potentially involving electrogravitic principles.
-- [[Roman à clef]] — A literary device where fictional narratives are based on real events or people, used to describe the approach in Tom DeLonge's Secret Machines.
+- Roman à clef — A literary device where fictional narratives are based on real events or people, used to describe the approach in Tom DeLonge's Secret Machines.
 - [[Reverse Engineered UAP Technology]] — The alleged practice of back-engineering non-human craft technology to develop advanced aerospace systems like the TR-3B.
 - [[Multimode Thruster]] — Propulsion units on the TR-3B capable of operating in atmosphere, upper atmosphere, and orbit using different fuel combinations.
 - [[TR-3B Astra (Locust)]] — Alleged reverse-engineered black triangle craft described as utilizing unconventional control systems and physics-defying flight characteristics including no sound, torque, g-force, or inertia.
@@ -86,7 +86,7 @@ The video, hosted by UAP Gerb, provides a comprehensive examination of alleged h
 - [[Mercury-Based Plasma System]] — Alleged propulsion technology claimed to be used in the TR-3B, criticized by Jeremy Rys as lacking technical validity.
 - [[Nazi Bell Device]] — A purported Nazi advanced technology project; critics claimed Fouche blended its story with Belgian UFO sightings to fabricate a more believable TR-3B narrative.
 - [[Belgian UFO Wave]] — A series of triangular UFO sightings over Belgium, referenced by critics as source material Fouche allegedly borrowed to construct his TR-3B story.
-- [[PTSD-Driven Alcoholism]] — Condition alleged by Jeremy Rys to explain Fouche's reportedly deceitful and manipulative behavior.
+- PTSD-Driven Alcoholism — Condition alleged by Jeremy Rys to explain Fouche's reportedly deceitful and manipulative behavior.
 - [[Secret Space Program]] — A concept/field of research related to alleged covert government space and aerospace programs, referenced in the context of Andrew Johnson's work.
 - [[TR-3B]] — Alleged classified triangular aircraft associated with Edgar Fouche; subject of debate over authenticity of related documents and testimony.
 - [[Alien Reproduction Vehicle (ARV)]] — Concept of human-built craft reverse-engineered from non-human intelligence technology, potentially utilizing advanced propulsion systems.

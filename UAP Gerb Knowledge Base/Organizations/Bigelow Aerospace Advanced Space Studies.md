@@ -6,6 +6,3 @@ tags:
 ---
 
 Received DIA contracts under AAWSAP; was the intended recipient of Lockheed's nonhuman material transfer
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

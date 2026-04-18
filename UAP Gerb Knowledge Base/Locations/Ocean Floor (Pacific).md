@@ -5,6 +5,3 @@ tags:
 ---
 
 Site of NURO undersea reconnaissance activities including imagery collection and the K-129 wreckage recovery.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 A witness named Castle observed a large triangular craft from the underside during the first half of March 1997, describing features consistent with the TR3B.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

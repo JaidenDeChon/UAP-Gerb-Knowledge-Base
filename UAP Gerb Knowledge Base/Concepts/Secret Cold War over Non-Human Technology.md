@@ -5,6 +5,3 @@ tags:
 ---
 
 Alleged ongoing covert competition between the US, Russia, and China to master and weaponize recovered non-human technology.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

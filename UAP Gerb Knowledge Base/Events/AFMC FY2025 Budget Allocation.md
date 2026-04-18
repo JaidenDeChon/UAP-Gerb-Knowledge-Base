@@ -6,6 +6,3 @@ tags:
 ---
 
 AFMC commanded a budget portfolio of $82.9 billion in fiscal year 2025, divided across operations, maintenance, contracting, and other categories.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

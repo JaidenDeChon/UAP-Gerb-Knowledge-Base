@@ -22,6 +22,3 @@ In 1991, Bower and Chorley came forward to the British press, demonstrating thei
 ## Sources
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

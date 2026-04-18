@@ -6,6 +6,3 @@ tags:
 ---
 
 Consolidated into NAWDC in 1996; based at Fallon, Nevada
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

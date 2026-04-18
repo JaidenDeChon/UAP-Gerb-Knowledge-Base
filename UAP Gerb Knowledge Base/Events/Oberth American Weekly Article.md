@@ -6,6 +6,3 @@ tags:
 ---
 
 Oberth publicly stated his thesis that flying saucers are real spaceships from another solar system possibly investigating Earth for centuries.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

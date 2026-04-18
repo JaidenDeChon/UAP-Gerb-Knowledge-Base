@@ -6,6 +6,3 @@ tags:
 ---
 
 Co-critic of Edgar Fouche alongside Jeremy Rys, questioned the authenticity of Fouche's claims and documents
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

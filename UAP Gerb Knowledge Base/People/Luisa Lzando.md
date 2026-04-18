@@ -6,6 +6,3 @@ tags:
 ---
 
 Cited for outlining a legacy program structure the speaker disagrees with
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

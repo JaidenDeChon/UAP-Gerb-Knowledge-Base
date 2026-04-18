@@ -6,6 +6,3 @@ tags:
 ---
 
 Stansel's own diary records receiving a call from Dr. Doll about a 'special job' the day before the Kingman crash site visit
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 Luis Elizondo's attorney Daniel Sheehan made notable public claims, referenced in connection with UAP iconography similar to what RA observed.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

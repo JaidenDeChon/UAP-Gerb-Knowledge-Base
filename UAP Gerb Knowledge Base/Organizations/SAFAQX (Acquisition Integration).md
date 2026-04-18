@@ -6,6 +6,3 @@ tags:
 ---
 
 Directorate within SAF/AQ believed to engage with UFO legacy programs
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -5,6 +5,3 @@ tags:
 ---
 
 A speculative physical hypothesis listed under UAP origin taxonomy suggesting quantum entanglement operating at galactic scales.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

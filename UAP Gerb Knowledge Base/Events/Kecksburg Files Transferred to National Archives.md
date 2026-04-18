@@ -6,6 +6,3 @@ tags:
 ---
 
 NASA sent its Kecksburg files to the National Archives approximately 2 years after the incident
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

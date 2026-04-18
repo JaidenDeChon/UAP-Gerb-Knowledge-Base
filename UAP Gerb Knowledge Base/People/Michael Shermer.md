@@ -16,6 +16,3 @@ The video presentation notes that Shermer is known in the ancient history commun
 ## Sources
 
 - [[Video - Global Air Force UFO Encounters You've Probably Never Heard of]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

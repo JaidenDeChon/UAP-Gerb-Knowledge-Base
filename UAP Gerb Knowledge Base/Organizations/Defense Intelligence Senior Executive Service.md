@@ -6,6 +6,3 @@ tags:
 ---
 
 Russell E. Wiler is identified as a member of this body
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 Told Steinman that Wang's personal papers were confiscated by military intelligence upon his death
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

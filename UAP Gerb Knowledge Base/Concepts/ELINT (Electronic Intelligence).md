@@ -5,6 +5,3 @@ tags:
 ---
 
 A subset of signals intelligence focused on electronic emissions; gathered by NRO assets from the Soviet Union.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

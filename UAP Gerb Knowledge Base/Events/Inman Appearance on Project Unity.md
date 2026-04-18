@@ -6,6 +6,3 @@ tags:
 ---
 
 Inman claimed he found plausible explanations for virtually all UAP sightings during his active service.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

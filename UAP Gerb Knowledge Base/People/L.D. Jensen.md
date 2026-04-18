@@ -22,6 +22,3 @@ Project Sign's eventual conclusion that Gorman had chased either a lit weather b
 ## Sources
 
 - [[Video - Global Air Force UFO Encounters You've Probably Never Heard of]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

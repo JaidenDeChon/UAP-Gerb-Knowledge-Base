@@ -6,6 +6,3 @@ tags:
 ---
 
 Told Stringfield between 1985 and 1987 about an incident at Fort Maguire Air Force Base involving a non-human entity shot by US forces
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

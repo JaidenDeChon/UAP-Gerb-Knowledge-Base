@@ -5,6 +5,3 @@ tags:
 ---
 
 The unusual flight profile of the tracked object, descending in level steps rather than a smooth arc, used to rule out a meteor explanation.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

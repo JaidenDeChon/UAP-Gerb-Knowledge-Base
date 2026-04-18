@@ -6,6 +6,3 @@ tags:
 ---
 
 Sean Kirkpatrick allegedly joined as CTO for defense and intelligence programs; rumors of recovered UFO systems analysis conducted there
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

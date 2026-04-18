@@ -6,6 +6,3 @@ tags:
 ---
 
 Davis described the informal process by which researchers are brought into UAP legacy program networks through trust-building, contracts, and informal SKIFF briefings.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

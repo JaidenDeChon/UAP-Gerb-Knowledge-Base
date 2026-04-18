@@ -46,6 +46,3 @@ This statement directly validates the authenticity of the documents provided to 
 - [[Video - The 1933 Magenta, Italy UFO Crash]]
 - [[Video - Incredible UFO Footage - METAPOD]]
 - [[Video - Incredible UFO Footage - FLYBY]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

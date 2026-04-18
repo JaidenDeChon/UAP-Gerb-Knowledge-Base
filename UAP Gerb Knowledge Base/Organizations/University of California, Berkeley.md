@@ -6,6 +6,3 @@ tags:
 ---
 
 Location where Collins claimed to have observed a UAP on a flatbed trailer in 1947
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

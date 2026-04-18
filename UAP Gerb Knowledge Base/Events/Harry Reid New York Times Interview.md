@@ -6,6 +6,3 @@ tags:
 ---
 
 Former Senate Majority Leader Harry Reid stated he was told for decades that Lockheed had retrieved UAP materials and was denied Pentagon approval to view them.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

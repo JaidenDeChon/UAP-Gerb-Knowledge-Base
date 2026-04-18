@@ -5,6 +5,3 @@ tags:
 ---
 
 Specific area within TTR managed with extra secrecy; workers required to commute via Janet Airlines; alleged by private sources to be directly involved in UFO operations
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

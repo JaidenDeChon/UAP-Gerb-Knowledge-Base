@@ -37,6 +37,3 @@ The use of standard tactical communications procedures for a UAP encounter sugge
 ## Sources
 
 - [[Video - Incredible UFO Footage - FLYBY]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

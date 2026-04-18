@@ -5,6 +5,3 @@ tags:
 ---
 
 Alleged propulsion technology claimed to be used in the TR-3B, criticized by Jeremy Rys as lacking technical validity.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

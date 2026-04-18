@@ -6,6 +6,3 @@ tags:
 ---
 
 Leonard Stringfield published a status report including testimony from the insider 'Uncle' regarding Kecksburg and other crash cases
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

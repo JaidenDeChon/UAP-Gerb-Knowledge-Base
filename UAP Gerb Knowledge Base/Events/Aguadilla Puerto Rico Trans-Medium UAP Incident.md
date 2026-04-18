@@ -6,6 +6,3 @@ tags:
 ---
 
 A UAP filmed by US Customs and Border Protection thermal imaging entered and exited the Atlantic Ocean, reached underwater speeds of 95 mph, and split into two parts; authorities concluded no known technology has these capabilities.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

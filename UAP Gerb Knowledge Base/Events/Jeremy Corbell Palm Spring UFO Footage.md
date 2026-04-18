@@ -6,6 +6,3 @@ tags:
 ---
 
 UFO footage from Palm Springs referenced as a possible case where a flare explanation may be valid.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

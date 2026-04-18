@@ -6,6 +6,3 @@ tags:
 ---
 
 Claimed to possess a diary from Newton but never produced material evidence; his source was revealed to be Newton's nephew
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

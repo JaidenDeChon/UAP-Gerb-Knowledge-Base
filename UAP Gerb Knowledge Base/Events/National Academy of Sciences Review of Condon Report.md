@@ -6,6 +6,3 @@ tags:
 ---
 
 NAS endorsed Condon's work and methodology, agreeing there should be no further formal UFO investigation
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

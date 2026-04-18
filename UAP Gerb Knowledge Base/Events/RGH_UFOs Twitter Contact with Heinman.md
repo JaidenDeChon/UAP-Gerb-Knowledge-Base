@@ -6,6 +6,3 @@ tags:
 ---
 
 Twitter user RGH_UFOs contacted Heinman about Inman's comments; Heinman did not deny involvement but offered to answer questions and then went silent.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

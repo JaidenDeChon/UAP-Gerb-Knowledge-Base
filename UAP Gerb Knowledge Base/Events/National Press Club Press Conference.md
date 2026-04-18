@@ -6,6 +6,3 @@ tags:
 ---
 
 A press conference in Washington DC where the witness made public statements about their UAP experiences.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

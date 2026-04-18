@@ -25,6 +25,3 @@ This unified institutional response effectively ruled UFO research out of bounds
 ## Sources
 
 - [[Video - The Origin of the UFO Stigma]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

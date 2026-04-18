@@ -6,6 +6,3 @@ tags:
 ---
 
 Chairs the board of directors that directs the RCO; previously linked to UFO legacy program gatekeepers in the narrator's prior research
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -5,6 +5,3 @@ tags:
 ---
 
 UFOs demonstrating instant acceleration, sudden stops, and altitude changes that exceed known aircraft capabilities.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

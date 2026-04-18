@@ -6,6 +6,3 @@ tags:
 ---
 
 Classified DoD directive titled 'Provision of DoD Sensitive Support to DoD Components and Other Departments and Agencies of the US Government' was established.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

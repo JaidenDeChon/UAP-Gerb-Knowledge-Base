@@ -5,6 +5,3 @@ tags:
 ---
 
 Reference to individuals being implanted with trackable chips; the NOC used a chip-detection device during the meeting.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

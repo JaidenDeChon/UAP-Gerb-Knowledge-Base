@@ -20,6 +20,3 @@ Documents circulating since the 1980s, known as the [[Majestic-12]] documents or
 ## Sources
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

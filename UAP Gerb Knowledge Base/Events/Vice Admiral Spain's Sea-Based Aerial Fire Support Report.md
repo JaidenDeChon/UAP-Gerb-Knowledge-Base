@@ -6,6 +6,3 @@ tags:
 ---
 
 Vice Admiral Robert Spain authored a report proposing naval carrier tactical aviation involvement in supporting troops ashore in a nonlinear battlefield
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

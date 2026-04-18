@@ -6,6 +6,3 @@ tags:
 ---
 
 Newspapers and magazines reported severe lightning storms and hailstorms in the Magenta area as apparent disinformation to explain the UAP event.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

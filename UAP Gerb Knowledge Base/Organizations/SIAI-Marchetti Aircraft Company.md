@@ -31,6 +31,3 @@ SIAI-Marchetti continued operations after World War II, eventually being absorbe
 ## Sources
 
 - [[Video - The 1933 Magenta, Italy UFO Crash]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

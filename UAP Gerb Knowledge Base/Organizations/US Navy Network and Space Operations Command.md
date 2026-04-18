@@ -6,6 +6,3 @@ tags:
 ---
 
 Referenced as operating the alleged secret Solar Warden space program
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

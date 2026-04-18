@@ -5,6 +5,3 @@ tags:
 ---
 
 Military protective equipment including gas masks and rubber suits worn by retrieval personnel at the crash site.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

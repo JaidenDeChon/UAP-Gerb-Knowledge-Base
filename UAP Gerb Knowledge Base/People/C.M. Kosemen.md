@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-C.M. Kosemen (also known as "Nemo Ramjet") is a Turkish author, paleoartist, and speculative biologist best known for *All Tomorrows: A Billion Year Chronicle of the Myriad Species and Varying Fortunes of Man* (2006), a landmark work of [[Speculative Evolution]] that chronicles a hypothetical billion-year future of post-human evolutionary divergence. A professional paleoartist and collaborator with academic paleontologists, Kosemen is internationally recognized in both the scientific illustration and speculative biology communities.
+C.M. Kosemen (also known as "Nemo Ramjet") is a Turkish author, paleoartist, and speculative biologist best known for *All Tomorrows: A Billion Year Chronicle of the Myriad Species and Varying Fortunes of Man* (2006), a landmark work of Speculative Evolution that chronicles a hypothetical billion-year future of post-human evolutionary divergence. A professional paleoartist and collaborator with academic paleontologists, Kosemen is internationally recognized in both the scientific illustration and speculative biology communities.
 
 ## All Tomorrows
 
@@ -15,7 +15,7 @@ C.M. Kosemen (also known as "Nemo Ramjet") is a Turkish author, paleoartist, and
 - Exploring the philosophical implications of radical posthuman divergence, including sapience, memory, cultural continuity, and what it means to be human across geological time.
 - Functioning as both hard science fiction and a meditation on extinction, survival, and identity.
 
-The work is frequently cited as a standout example of the [[Speculative Evolution]] genre and is recommended by UAP Gerb as an entry point for thinking seriously about what extraterrestrial biology might look like.
+The work is frequently cited as a standout example of the Speculative Evolution genre and is recommended by UAP Gerb as an entry point for thinking seriously about what extraterrestrial biology might look like.
 
 ## Other Work
 
@@ -24,6 +24,3 @@ Kosemen has collaborated with paleontologist Darren Naish on books reassessing t
 ## Sources
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

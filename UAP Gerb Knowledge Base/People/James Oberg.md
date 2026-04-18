@@ -6,6 +6,3 @@ tags:
 ---
 
 Maintained the Kecksburg object was a Soviet capsule, possibly a Venus probe, recovered secretly for its heat shielding technology
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

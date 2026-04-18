@@ -6,6 +6,3 @@ tags:
 ---
 
 Name consists of 12 characters, matching a derived character count from a redacted signal exchange analyzed by 'Cats'
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

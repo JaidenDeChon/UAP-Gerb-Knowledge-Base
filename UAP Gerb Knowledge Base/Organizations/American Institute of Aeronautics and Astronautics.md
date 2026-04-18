@@ -16,6 +16,3 @@ The AIAA's endorsement was particularly significant given its membership base of
 ## Sources
 
 - [[Video - The Origin of the UFO Stigma]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

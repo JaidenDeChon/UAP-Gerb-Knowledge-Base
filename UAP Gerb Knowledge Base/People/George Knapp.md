@@ -17,6 +17,3 @@ Knapp also conducted a long-form interview with [[Philip J. Corso]] that was lat
 
 - [[Video - The 1950s Del Rio, Texas UFO Crashes]]
 - [[Video - Philip J. Corso - US Army UFO Technology Research & Development]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

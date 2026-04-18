@@ -6,6 +6,3 @@ tags:
 ---
 
 Integrates special access programs and non-SAP RDT&E planning, directs advanced technology development, coordinates with SAF/AQL
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -5,6 +5,3 @@ tags:
 ---
 
 Individuals within the legacy UAP program structure who actively block or control access to UAP-related materials and information.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

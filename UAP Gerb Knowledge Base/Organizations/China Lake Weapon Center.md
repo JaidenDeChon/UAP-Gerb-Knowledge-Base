@@ -6,6 +6,3 @@ tags:
 ---
 
 Referenced as a DOD installation steeped in UFO lore
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -41,6 +41,3 @@ The UAP Caucus operates with the following stated objectives:
 ## Sources
 
 - [[Video - MOON DUST - The Pentagon's Secret UFO Programs]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

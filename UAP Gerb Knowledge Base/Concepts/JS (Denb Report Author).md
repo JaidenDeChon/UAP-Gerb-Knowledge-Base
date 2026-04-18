@@ -73,6 +73,3 @@ The identity and intent of JS remain among the most significant unresolved myste
 ## Sources
 
 - [[Video - The 1974 Coyame, Mexico UFO Crash]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

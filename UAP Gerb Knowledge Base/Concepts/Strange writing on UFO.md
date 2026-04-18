@@ -5,6 +5,3 @@ tags:
 ---
 
 Both Romansky and Bully Bush noted unidentified writing on the object, described as not resembling Polish or Russian script.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

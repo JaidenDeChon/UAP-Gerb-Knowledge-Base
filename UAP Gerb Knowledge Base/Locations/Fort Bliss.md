@@ -34,6 +34,3 @@ Fort Bliss's proximity to the US-Mexico border (approximately 40 miles from Coya
 - [[Video - The 1974 Coyame, Mexico UFO Crash]]
 - [[Video - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt]]
 - [[Video - Philip J. Corso - US Army UFO Technology Research & Development]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

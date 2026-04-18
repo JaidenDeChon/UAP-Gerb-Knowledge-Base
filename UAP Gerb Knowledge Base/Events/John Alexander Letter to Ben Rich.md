@@ -6,6 +6,3 @@ tags:
 ---
 
 John Alexander wrote to Ben Rich proposing two categories of UFOs; Rich replied confirming he was a believer in both categories.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

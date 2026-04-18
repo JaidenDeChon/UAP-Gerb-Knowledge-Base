@@ -16,6 +16,3 @@ The involvement of a medical research institute specializing in defense against 
 ## Sources
 
 - [[Video - Incredible UFO Footage - FLYBY]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

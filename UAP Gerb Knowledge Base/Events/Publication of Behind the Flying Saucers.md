@@ -6,6 +6,3 @@ tags:
 ---
 
 Frank Scully's book on the Aztec crash was released, prompting multiple US agencies to track leads and leaks.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 One of Fuche's sources of TR-3B information; died shortly after his first meeting with Fuche
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

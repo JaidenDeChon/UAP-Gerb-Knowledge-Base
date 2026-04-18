@@ -6,6 +6,3 @@ tags:
 ---
 
 Inman served on its board of trustees; site of 2021 interview where NURO was discussed
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

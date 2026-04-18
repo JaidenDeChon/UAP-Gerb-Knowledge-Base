@@ -6,6 +6,3 @@ tags:
 ---
 
 Referenced in context of the crash retrieval operation deployment
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

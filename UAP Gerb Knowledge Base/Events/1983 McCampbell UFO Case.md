@@ -6,6 +6,3 @@ tags:
 ---
 
 A UFO case in which electric fields strong enough to short out spark plugs (3×10⁶ V/m) were associated with car engine failures
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

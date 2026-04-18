@@ -19,6 +19,3 @@ Evelyn Trent's observation established the sighting narrative that accompanied t
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
 - [[Video - Incredible UFO Footage - FLYBY]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

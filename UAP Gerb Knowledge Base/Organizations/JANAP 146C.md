@@ -6,6 +6,3 @@ tags:
 ---
 
 Cited alongside OPNAV 3820 as restricting UFO/USO reporting and documentation in Blue Book
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

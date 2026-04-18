@@ -6,6 +6,3 @@ tags:
 ---
 
 Part of phase zero narrative shaping around UAP; helped legitimize UAP as a serious topic for public and government discussion.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

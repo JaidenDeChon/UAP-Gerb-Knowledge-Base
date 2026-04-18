@@ -6,6 +6,3 @@ tags:
 ---
 
 Oversees the Hidden Wing programs conducting test and evaluation on recovered non-human vehicles and derivative craft
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

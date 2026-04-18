@@ -5,6 +5,3 @@ tags:
 ---
 
 Contracting mechanisms that bypass standard oversight channels to enable clandestine program operations.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

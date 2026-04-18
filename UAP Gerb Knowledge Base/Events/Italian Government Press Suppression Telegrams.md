@@ -6,6 +6,3 @@ tags:
 ---
 
 Three classified telegrams sent by the Stefani agency ordering absolute press silence, labeling the craft a meteor, and threatening maximum penalties for journalists
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

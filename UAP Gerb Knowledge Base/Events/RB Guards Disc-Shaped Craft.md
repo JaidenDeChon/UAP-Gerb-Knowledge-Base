@@ -6,6 +6,3 @@ tags:
 ---
 
 Whistleblower RB claimed he served as a guard for two weeks over a disc-shaped craft of unknown origin at an undisclosed military base.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

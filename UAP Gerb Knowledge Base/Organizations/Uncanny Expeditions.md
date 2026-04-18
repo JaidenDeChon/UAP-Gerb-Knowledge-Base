@@ -6,6 +6,3 @@ tags:
 ---
 
 Channel run by Anders that investigated and documented the Tejon Ranch facility sale and physical site
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

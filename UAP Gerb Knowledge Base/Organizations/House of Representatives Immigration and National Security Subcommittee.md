@@ -6,6 +6,3 @@ tags:
 ---
 
 Prospective position for which Corso underwent a 1964-65 FBI background check
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

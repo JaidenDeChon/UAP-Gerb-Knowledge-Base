@@ -16,6 +16,3 @@ Drager, [[Robert Willingham]], and the film crew met together with the general. 
 ## Sources
 
 - [[Video - The 1950s Del Rio, Texas UFO Crashes]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

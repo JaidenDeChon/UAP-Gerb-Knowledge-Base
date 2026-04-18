@@ -86,49 +86,49 @@ The video features an extended interview with Michael Herrera, a USMC veteran an
 - [[UAP Encounter]] — An unidentified aerial phenomenon observed by Herrera and his team in Indonesia in 2009, described as a large craft partially visible above the tree line that changed colors and eventually took off.
 - [[Nosbed Tactic]] — A tactical formation using interlocking fields of fire from two sides converging on a target; described by the narrator as used by the unknown operators at the site.
 - [[UAP Acoustic Signature]] — The craft encountered emitted a low hum described as similar to a guitar amplifier or transformer, otherwise operating silently.
-- [[Three-Round Burst  Semi-Automatic Fire]] — The narrator's unit was equipped with weapons limited to three-round burst or semi-automatic, contrasted with the possible full-auto capability of the opposing force.
-- [[Dump Pouch]] — A military accessory pouch worn on the body; the narrator used his to carry a camera/recording device during the encounter.
+- Three-Round Burst  Semi-Automatic Fire — The narrator's unit was equipped with weapons limited to three-round burst or semi-automatic, contrasted with the possible full-auto capability of the opposing force.
+- Dump Pouch — A military accessory pouch worn on the body; the narrator used his to carry a camera/recording device during the encounter.
 - [[BATS (Biometrics Automated Toolset System)]] — A biometric and tracking system used by the military; the witness states the encountered entities attempted to use a similar system to scan military IDs.
 - [[OctagonalPyramid-shaped Craft]] — A dark, roughly octagonal craft described by the witness with a pyramid-like top, scale-pattern surface, corner vents, and colored lights (red, yellow, green, blue) that activated on takeoff.
 - [[Light Absorption]] — The witness describes the craft as absorbing light rather than reflecting it, making it appear as the darkest object he had ever seen.
 - [[Craft Platform]] — A raised, angled undercarriage or platform beneath the craft, roughly the same length as the craft itself, with pointed features.
-- [[SAW Drum Pouches]] — Military equipment used to carry ammunition drums and magazines, referenced in the context of the witness's loadout during the encounter.
+- SAW Drum Pouches — Military equipment used to carry ammunition drums and magazines, referenced in the context of the witness's loadout during the encounter.
 - [[Craft Color Change]] — The observed craft allegedly changed color from a light matte gray to a dark matte black across its entire surface before takeoff.
 - [[Elevating Platform]] — A platform associated with the craft reportedly raised upward slowly before the craft departed, lifting off the ground approximately 10 feet.
-- [[Pelican Cases]] — Hard-shell transport cases used to carry weapons or sensitive equipment, observed in truck beds associated with the craft transport operation.
+- Pelican Cases — Hard-shell transport cases used to carry weapons or sensitive equipment, observed in truck beds associated with the craft transport operation.
 - [[Trion Configuration]] — A standardized shipping container configuration; the witness identified the containers on the trailers as resembling this setup, with cylinders on the front later identified as oxygen supply.
-- [[Oxygen Supply Cylinders]] — Cylinders mounted on the front of shipping containers attached to the trailers; initially hypothesized to be humidity control but later identified as oxygen supply, suggesting the containers may have housed living beings.
+- Oxygen Supply Cylinders — Cylinders mounted on the front of shipping containers attached to the trailers; initially hypothesized to be humidity control but later identified as oxygen supply, suggesting the containers may have housed living beings.
 - [[Night Vision Equipment]] — The trucks appeared to have side-mounted attachments resembling military Humvee night vision mounts, suggesting the operation was conducted at night.
-- [[Up-armored vehicles]] — Trucks described as reinforced and bullet-resistant, similar to Secret Service vehicles, used to transport containers and weapons cases.
+- Up-armored vehicles — Trucks described as reinforced and bullet-resistant, similar to Secret Service vehicles, used to transport containers and weapons cases.
 - [[Compartmentalization]] — The witness notes that information about the operation is compartmentalized, meaning individuals involved only know their specific role or task.
 - [[Weapons strippingcheck]] — A procedure where operators had their magazines and weapons removed by an opposing security team at the scene.
 - [[Pelican casesweapons crates]] — Closed, hard-sided cases resembling weapons cases found on each of the four black trucks observed at the scene.
 - [[Cylindrical object in shipping container]] — A black cylinder spanning the full width of a black shipping container, initially hypothesized by the witness to be humidity control equipment.
 - [[Recruiting in Disaster-Stricken Areas]] — A claimed covert operation in which personnel were allegedly recruited in disaster zones; the witness speculates this may have been ongoing before the earthquake.
-- [[LZ (Landing Zone)]] — Designated area for helicopter landings; the location where the witness's team was dropped off and later extracted during the incident.
-- [[Combat Loading Group]] — A Marine unit or attachment assigned to a naval ship responsible for loading Marine equipment; mentioned as a possible assignment for the unknown Gunnery Sergeant.
+- LZ (Landing Zone) — Designated area for helicopter landings; the location where the witness's team was dropped off and later extracted during the incident.
+- Combat Loading Group — A Marine unit or attachment assigned to a naval ship responsible for loading Marine equipment; mentioned as a possible assignment for the unknown Gunnery Sergeant.
 - [[Red Patch Marines]] — Marines assigned to ships identified by red patches on their covers and uniforms; the unknown Gunnery Sergeant did not appear to have these markings.
-- [[Mission Volunteers in Sticks]] — Marines were organized into random groups called 'sticks' for the mission, not selected based on skill set or chain of command.
+- Mission Volunteers in Sticks — Marines were organized into random groups called 'sticks' for the mission, not selected based on skill set or chain of command.
 - [[Witness Reluctance]] — Fellow Marines involved in the incident are unwilling to come forward or speak publicly, fearing consequences.
-- [[Stick Organization]] — Military grouping method where personnel are randomly assigned to small units called 'sticks' rather than selected by skill set.
-- [[Officer's Chow Detail]] — A duty assignment aboard ship where enlisted personnel assist with setup and cleaning for officers' meals, typically treated as an 8-hour shift.
-- [[Forward Deployment]] — Early deployment of selected personnel to a staging location, in this case Japan, weeks before the main element deploys.
+- Stick Organization — Military grouping method where personnel are randomly assigned to small units called 'sticks' rather than selected by skill set.
+- Officer's Chow Detail — A duty assignment aboard ship where enlisted personnel assist with setup and cleaning for officers' meals, typically treated as an 8-hour shift.
+- Forward Deployment — Early deployment of selected personnel to a staging location, in this case Japan, weeks before the main element deploys.
 - [[Chain of Command (Ship-based)]] — On ship, Marines report to a separate logistics-based chain of command distinct from their normal platoon or squad leadership.
-- [[Wardroom Briefing]] — A briefing held in the ship's wardroom where a female USMC major solicited volunteers and showed pictures of Obama and family members.
-- [[Ward Room Briefing]] — A smaller, officer-designated dining and meeting room on a naval vessel used for mission briefings; described as similar to a cafeteria but more intimate.
-- [[SAW Gunner]] — A military role involving operation of the Squad Automatic Weapon (SAW), a belt-fed automatic machine gun; the witness's primary assigned role.
+- Wardroom Briefing — A briefing held in the ship's wardroom where a female USMC major solicited volunteers and showed pictures of Obama and family members.
+- Ward Room Briefing — A smaller, officer-designated dining and meeting room on a naval vessel used for mission briefings; described as similar to a cafeteria but more intimate.
+- SAW Gunner — A military role involving operation of the Squad Automatic Weapon (SAW), a belt-fed automatic machine gun; the witness's primary assigned role.
 - [[Super Stallion Heavy Lift Helicopter]] — Large military helicopters (CH-53 Super Stallions) aboard the ship, tasked with delivering supplies to remote villages blocked off by landslides.
-- [[M203 Grenade Launcher]] — An underslung grenade launcher attached to an M16 rifle; issued to the witness when he was new to Golf Company as a way to identify team leaders as targets.
-- [[Security Mission]] — The mission described involved providing security for supply deliveries to remote villages in a region identified as the second largest terrorist capital in the world.
-- [[Humanitarian Mission Security]] — The use of armed personnel during humanitarian relief operations to manage crowd control and protect helicopters from being mobbed by desperate civilians.
-- [[Crowd Control in Disaster Relief]] — A key concern during helicopter cargo deliveries in disaster zones where large numbers of desperate civilians may rush aircraft.
-- [[Bad Optics]] — A concern raised about Marines arriving with rifles at the operation site, reportedly leading to them being sent back to the ship.
-- [[Helicopter Landing Zone (LZ)]] — The area where Marines were inserted by helicopter, described as having thick vegetation and hills.
-- [[Personnel Transport Mission]] — The helicopter flights described were strictly for moving personnel, with no supplies loaded.
+- M203 Grenade Launcher — An underslung grenade launcher attached to an M16 rifle; issued to the witness when he was new to Golf Company as a way to identify team leaders as targets.
+- Security Mission — The mission described involved providing security for supply deliveries to remote villages in a region identified as the second largest terrorist capital in the world.
+- Humanitarian Mission Security — The use of armed personnel during humanitarian relief operations to manage crowd control and protect helicopters from being mobbed by desperate civilians.
+- Crowd Control in Disaster Relief — A key concern during helicopter cargo deliveries in disaster zones where large numbers of desperate civilians may rush aircraft.
+- Bad Optics — A concern raised about Marines arriving with rifles at the operation site, reportedly leading to them being sent back to the ship.
+- Helicopter Landing Zone (LZ) — The area where Marines were inserted by helicopter, described as having thick vegetation and hills.
+- Personnel Transport Mission — The helicopter flights described were strictly for moving personnel, with no supplies loaded.
 - [[360 Security Formation]] — Standard military procedure where troops form a perimeter around a helicopter after landing to provide security before it departs.
-- [[Hasty LZ (Landing Zone)]] — An improvised or quickly chosen landing zone, not formally pre-planned or secured, used when a more deliberate option isn't available.
-- [[Condition Three]] — A weapons readiness state where a magazine is inserted but no round is chambered and the weapon is on safe.
-- [[Tactical Elevated Position]] — Military doctrine of occupying high ground to gain visual advantage and defensive positioning over surrounding terrain.
+- Hasty LZ (Landing Zone) — An improvised or quickly chosen landing zone, not formally pre-planned or secured, used when a more deliberate option isn't available.
+- Condition Three — A weapons readiness state where a magazine is inserted but no round is chambered and the weapon is on safe.
+- Tactical Elevated Position — Military doctrine of occupying high ground to gain visual advantage and defensive positioning over surrounding terrain.
 - [[Cargo Net Helicopter Transport]] — Method of transporting supplies externally beneath a helicopter using a cargo net or hook, as opposed to internal storage.
 - [[Landing Zone (LZ)]] — A designated area for helicopter landing during military operations; described as an open grassy area in tropical terrain.
 - [[Disinformation Agent]] — A person who spreads false or misleading information; discussed in context of whether Paul's account could be fabricated or planted.
@@ -138,23 +138,23 @@ The video features an extended interview with Michael Herrera, a USMC veteran an
 - [[Purposeful Omission  Misrepresentation]] — The witness claims AARO's historical report volume one falsely attributed statements to them they never made, suggesting deliberate distortion of testimony.
 - [[Satellite Imagery as Evidence]] — AARO claimed access to satellite imagery of the incident location but never followed up with the witness to review it despite over a year passing.
 - [[No Rotor Wash]] — The observed craft produced no disturbance to surrounding vegetation, distinguishing it from conventional helicopters or aircraft and marking it as anomalous.
-- [[Memorandum for Record]] — A written document summarizing witness testimony provided to AARO, which witnesses could review and sign to certify accuracy.
+- Memorandum for Record — A written document summarizing witness testimony provided to AARO, which witnesses could review and sign to certify accuracy.
 - [[Non-Disclosure Agreement (NDA)]] — Legal document signed by the witness restricting disclosure of specific details such as location and identities of others present during AARO testimony.
 - [[Historical Report Volume One]] — AARO's official historical report that the witness claims misrepresented his testimony, falsely attributing statements about extraterrestrial vehicles and US Special Forces.
 - [[NDA (Non-Disclosure Agreement)]] — Agreement signed by the subject and others that threatened their life if they disclosed information about UAP-related operations.
 - [[Whistleblower Protections]] — Recently passed legal protections that effectively rendered certain NDAs illegal, providing a safety net for those coming forward with UAP-related information.
 - [[Insiders]] — Multiple individuals working within an organization related to UAP who have been providing the subject with information and details about their experiences.
-- [[Camouflage Pattern Matching]] — A method used to try to identify the subject in a photograph by matching the camouflage pattern to another known photo; the subject disputes this as inconclusive.
+- Camouflage Pattern Matching — A method used to try to identify the subject in a photograph by matching the camouflage pattern to another known photo; the subject disputes this as inconclusive.
 - [[Insider Contact]] — A person claiming insider knowledge of UAP programs who reached out to the witness to confirm and clarify what they witnessed.
 - [[Biological Equipment in UAP Programs]] — Claim that humans are being used as 'biological equipment' in covert programs, allegedly under false pretenses and heavy drugging.
 - [[UAP Disclosure]] — The broader effort to make classified or hidden information about UAPs available to the public.
 - [[Harassment of Witnesses]] — The speaker describes ongoing harassment they interpret as confirmation that they are exposing sensitive information.
 - [[Human Trafficking in UAP Context]] — The claim that crates thought to contain drugs were actually transporting people, connected to covert UAP-related programs.
 - [[Helicopter Tracking via Radar]] — A method used to verify the movements of individuals by tracking helicopter flight data on radar, used to corroborate meeting locations and timing.
-- [[Encrypted Communication Platform]] — A high-tech encrypted messaging app, described as not being Signal, used by an insider to communicate sensitive information to Dr. Greer.
+- Encrypted Communication Platform — A high-tech encrypted messaging app, described as not being Signal, used by an insider to communicate sensitive information to Dr. Greer.
 - [[Non-Official Cover (NOC)]] — A CIA term for operatives who work without the protection of official diplomatic cover, making their affiliation deniable.
 - [[Chipping]] — Reference to individuals being implanted with trackable chips; the NOC used a chip-detection device during the meeting.
-- [[Establishing Trust]] — The in-person meeting was arranged to build trust between the witness and the NOC operative, including the gesture of providing a sidearm.
+- Establishing Trust — The in-person meeting was arranged to build trust between the witness and the NOC operative, including the gesture of providing a sidearm.
 - [[Factions within the Program]] — The idea that UAP-related secret programs contain internal divisions, some favoring disclosure and oversight, others engaged in cover-ups and alleged murders.
 - [[Pro-Disclosure Insiders]] — Longtime participants in UAP programs who support some level of public disclosure and restoring Congressional oversight, but fear loss of pension and family security.
 - [[Sheepdog Operative]] — A term used to describe insiders who identify as protectors of innocent people and patriots while eliminating perceived bad actors.
@@ -175,7 +175,7 @@ The video features an extended interview with Michael Herrera, a USMC veteran an
 - [[Pink Assets]] — Alleged insider term for human beings used as biological assets or subjects within classified UAP-related programs without consent.
 - [[Free Energy]] — The speaker references the possibility that suppressed energy technologies derived from UAP programs could eliminate utility costs if disclosed.
 - [[Non-Human Intelligence (NHI)]] — Entities associated with UAP craft; insiders allegedly struggle to distinguish NHI craft from human-made reverse-engineered versions.
-- [[Ethical Tug of War]] — Internal moral conflict among program insiders about whether to disclose classified UAP information to the public.
+- Ethical Tug of War — Internal moral conflict among program insiders about whether to disclose classified UAP information to the public.
 - [[Disclosure]] — The process of revealing hidden UAP/NHI information to the public; speaker emphasizes it must be evidence-based, not testimony-based.
 - [[Muddying the Waters]] — The practice of known individuals coming forward with misleading or false UAP claims, complicating legitimate disclosure efforts.
 - [[Whistleblower]] — Someone who reveals hidden or classified information; Michael identifies himself in this role regarding UAP/NHI.

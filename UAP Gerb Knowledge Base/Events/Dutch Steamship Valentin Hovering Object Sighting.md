@@ -6,6 +6,3 @@ tags:
 ---
 
 Captain Brier, the first and second mates, and first engineer observed a horizontal rapidly-turning wheel-like object hovering above the South China Sea.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

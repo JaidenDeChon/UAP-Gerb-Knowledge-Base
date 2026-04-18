@@ -5,6 +5,3 @@ tags:
 ---
 
 Brad Sorenson sketched and described the ARV exhibit to Mark McCandlish the week following his attendance.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

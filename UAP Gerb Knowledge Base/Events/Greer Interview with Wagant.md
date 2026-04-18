@@ -6,6 +6,3 @@ tags:
 ---
 
 Steven Greer conducted an interview with Wagant from which the detail about a four-fingered arm hanging from a hatch was allegedly removed.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

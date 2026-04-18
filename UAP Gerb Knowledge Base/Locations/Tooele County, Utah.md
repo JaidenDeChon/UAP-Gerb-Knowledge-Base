@@ -5,6 +5,3 @@ tags:
 ---
 
 County in Utah where Dugway Proving Ground is situated.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

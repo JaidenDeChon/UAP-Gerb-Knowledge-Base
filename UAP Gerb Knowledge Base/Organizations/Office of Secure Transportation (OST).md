@@ -6,6 +6,3 @@ tags:
 ---
 
 Believed to be utilized for UFO material transport between secure facilities
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

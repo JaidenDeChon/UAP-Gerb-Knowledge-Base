@@ -6,6 +6,3 @@ tags:
 ---
 
 Captain RF Moore observed an enormous fireball rise from the sea 10 nautical miles off Cape Race, Newfoundland
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 A hang glider over Texas appeared to observe the Metapod; narrator notes some doubt due to inconsistent front-facing view.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

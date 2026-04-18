@@ -5,6 +5,3 @@ tags:
 ---
 
 The content creator appeared on these podcasts, resulting in approximately 20,000 new channel viewers
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

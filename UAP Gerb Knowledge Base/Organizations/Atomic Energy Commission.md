@@ -17,10 +17,14 @@ The AEC's involvement may have been driven by observations of UFOs near nuclear 
 
 The AEC was historically connected to [[Avery Technical Center]] through radiobiological warfare laboratory studies, indicating its broader involvement in classified military research programs beyond its public nuclear energy mission.
 
+## Restricted Classification and UAP Material Concealment
+
+The AEC's "restricted" classification standard — a private-sector classification tier distinct from standard government Secret or SAP designations — was used to classify [[Battelle Memorial Institute]]'s 1949 research on [[Nitinol (Nickel-Titanium Alloy)]] performed for [[Wright-Patterson Air Force Base]]. Under this standard, access was limited to need-to-know personnel within the contractor, and was inaccessible even to individuals holding government Special Access Program clearances. The 1949 Battelle nitinol research was not declassified until 2010.
+
+[[David Grusch]] has cited the AEC's 1954 Atomic Energy Act — and related trans-classified "nuclear foreign material" designations — as one of the primary legal mechanisms used to keep UAP-related materials and programs outside the reach of congressional oversight. Battelle's use of the AEC restricted classification for UAP-related material research is an early documented example of this practice.
+
 ## Sources
 
 - [[Video - Global Air Force UFO Encounters You've Probably Never Heard of]]
 - [[Video - The Origin of the UFO Stigma]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+- [[Video - UFOs in the Private Sector - Battelle Memorial Institute]]

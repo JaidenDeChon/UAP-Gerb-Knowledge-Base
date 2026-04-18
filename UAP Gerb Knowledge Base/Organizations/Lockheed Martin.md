@@ -121,6 +121,4 @@ In [[Jacques Vallee]]'s *Hidden Science 5*, Vallee alongside [[Kit Green]], [[Ha
 
 - [[Video - Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
 - [[Video - FASTWALKERS – UFOs Outside Earth]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+- [[Video - UFOs in the Private Sector - Lockheed Martin]]

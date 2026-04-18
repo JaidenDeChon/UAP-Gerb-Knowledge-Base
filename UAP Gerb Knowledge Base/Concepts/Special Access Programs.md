@@ -5,6 +5,3 @@ tags:
 ---
 
 Highly classified government programs; alleged to involve UAP-related knowledge and testing of reverse-engineered non-human technology.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

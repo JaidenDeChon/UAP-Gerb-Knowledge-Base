@@ -6,6 +6,3 @@ tags:
 ---
 
 Senior test executive for Air Force and Space Force; argued to oversee reverse engineering of nonhuman technologies
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

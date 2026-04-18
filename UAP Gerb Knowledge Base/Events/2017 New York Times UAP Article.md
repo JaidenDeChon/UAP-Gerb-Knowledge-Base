@@ -6,6 +6,3 @@ tags:
 ---
 
 Leslie Keen co-authored the article that brought Pentagon UAP videos and the AATIP program to public attention
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

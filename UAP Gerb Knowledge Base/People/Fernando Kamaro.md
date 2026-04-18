@@ -26,6 +26,3 @@ Kamaro's experience during the [[Manises UFO Incident]] is frequently compared t
 ## Sources
 
 - [[Video - The First Commercial Flight Grounded Due to UFOs]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

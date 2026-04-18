@@ -16,6 +16,3 @@ DHS's inclusion in this alleged UAP analysis effort, if authentic, would represe
 ## Sources
 
 - [[Video - Incredible UFO Footage - FLYBY]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

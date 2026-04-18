@@ -6,6 +6,3 @@ tags:
 ---
 
 Recipient of General Twining's letter asserting flying discs are real
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

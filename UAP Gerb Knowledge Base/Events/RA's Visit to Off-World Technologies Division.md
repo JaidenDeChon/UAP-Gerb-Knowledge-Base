@@ -5,6 +5,3 @@ tags:
 ---
 
 RA, a trained Green Beret, was led by a private contractor guide into an underground division at NSWC Crane where two alleged non-human technology objects were displayed.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -16,6 +16,3 @@ However, Jung's own 1959 book on UFOs was more nuanced. Rather than dismissing U
 ## Sources
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

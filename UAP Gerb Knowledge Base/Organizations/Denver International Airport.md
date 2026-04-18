@@ -6,6 +6,3 @@ tags:
 ---
 
 Referenced as a location that has leaned into reptilian conspiracy theories with relevant posters
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

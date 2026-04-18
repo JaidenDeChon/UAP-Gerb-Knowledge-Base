@@ -6,6 +6,3 @@ tags:
 ---
 
 SAF/AQR represents the Air Force S&T program to OSD; partners with SAF/AQ on programs
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

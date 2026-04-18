@@ -6,6 +6,3 @@ tags:
 ---
 
 Theorized by the presenter to be the anonymous UAP whistleblower; enlisted 1965, commissioned 1969, retired 2004; allegedly showed classified UAP-derived cloaking technology to a BAE Systems employee
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

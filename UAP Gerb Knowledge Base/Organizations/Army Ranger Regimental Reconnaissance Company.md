@@ -6,6 +6,3 @@ tags:
 ---
 
 Also known as RRC; a Tier 1 unit within JSOC
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

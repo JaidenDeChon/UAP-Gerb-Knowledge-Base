@@ -5,6 +5,3 @@ tags:
 ---
 
 Legacy UAP programs are believed to operate not without oversight but through parallel, compartmentalized oversight channels that minimize read-in personnel.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

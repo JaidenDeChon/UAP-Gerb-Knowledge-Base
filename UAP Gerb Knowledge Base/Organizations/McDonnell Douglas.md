@@ -6,6 +6,3 @@ tags:
 ---
 
 Named as one of the aerospace defense contractors alleged to hold UAP crash materials in custody
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

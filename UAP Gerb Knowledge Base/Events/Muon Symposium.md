@@ -6,6 +6,3 @@ tags:
 ---
 
 Event where Bill Moore admitted on stage to working with intelligence agencies
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

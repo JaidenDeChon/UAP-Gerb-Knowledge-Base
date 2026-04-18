@@ -6,6 +6,3 @@ tags:
 ---
 
 EJ Center stated he had worked on parts of a flying saucer while at Battelle, after leaving in 1958.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

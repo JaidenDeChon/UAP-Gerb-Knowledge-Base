@@ -6,6 +6,3 @@ tags:
 ---
 
 Contractor mentioned in relation to the ditto area near Avery
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 Repository where contractors submitted IRAD summaries; used to track reported vs. unreported IRAD spending
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

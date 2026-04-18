@@ -9,7 +9,7 @@ William J. "Bill" Burns (also published as William Birnes) was the co-author of 
 
 ## The Day After Roswell Controversy
 
-According to [[Philip Corso Jr.]], Corso's son, the published version of *The Day After Roswell* contained so many inaccuracies and additions that Corso Sr. went through the book highlighting everything he did not say or did not like, giving up halfway through due to frustration. Corso Sr. was furious with the final product during his lifetime. Corso Jr. stated he originally had no plans to release his father's manuscript *[[Dawn of a New Age]]* but did so specifically to correct the mistakes in the bestselling book that had angered his father.
+According to [[Philip Corso Jr.]], Corso's son, the published version of *The Day After Roswell* contained so many inaccuracies and additions that Corso Sr. went through the book highlighting everything he did not say or did not like, giving up halfway through due to frustration. Corso Sr. was furious with the final product during his lifetime. Corso Jr. stated he originally had no plans to release his father's manuscript *Dawn of a New Age* but did so specifically to correct the mistakes in the bestselling book that had angered his father.
 
 Multiple individuals privy to Corso's original manuscript before his death, including Colonel [[John B. Alexander]], remarked on sensational details featured in *The Day After Roswell* that were completely absent from the manuscript. Examples include:
 

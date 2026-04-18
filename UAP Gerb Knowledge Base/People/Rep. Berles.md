@@ -6,6 +6,3 @@ tags:
 ---
 
 Mentioned as a potential congressional contact to present Castle's testimony and thesis to
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

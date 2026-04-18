@@ -5,6 +5,3 @@ tags:
 ---
 
 Wagant stumbled upon a crash site and retrieval operation, leading to his detention and interrogation
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

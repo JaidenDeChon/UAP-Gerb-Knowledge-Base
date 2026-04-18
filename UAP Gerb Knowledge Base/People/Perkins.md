@@ -14,6 +14,3 @@ Perkins' identity was withheld during Willingham's lifetime and was only reveale
 ## Sources
 
 - [[Video - The 1950s Del Rio, Texas UFO Crashes]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

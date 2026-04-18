@@ -6,6 +6,3 @@ tags:
 ---
 
 Alleged to be an integral role within USD I&S overseeing UFO legacy programs
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

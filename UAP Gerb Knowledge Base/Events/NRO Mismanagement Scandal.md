@@ -6,6 +6,3 @@ tags:
 ---
 
 Rampant mismanagement of funds including carryover appropriations at the National Reconnaissance Office in the early 1990s, alleged to connect to legacy UFO program funding.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

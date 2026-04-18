@@ -5,6 +5,3 @@ tags:
 ---
 
 Ben Rich allegedly suggested there was an error in foundational physics equations, suspected to relate to electromagnetic theory.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

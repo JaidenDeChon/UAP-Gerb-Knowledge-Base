@@ -6,6 +6,3 @@ tags:
 ---
 
 Director and two government agent assistants were present when Jacobs viewed the UFO footage and confiscated the film
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -16,6 +16,3 @@ The shuttering of Project Sign immediately preceded the formation of [[Project G
 ## Sources
 
 - [[Video - The Origin of the UFO Stigma]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

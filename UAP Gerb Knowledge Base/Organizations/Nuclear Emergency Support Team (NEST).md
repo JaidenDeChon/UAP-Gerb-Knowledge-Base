@@ -6,6 +6,3 @@ tags:
 ---
 
 DOE premier response unit for radiological threats, believed to be involved in UFO crash retrieval operations
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

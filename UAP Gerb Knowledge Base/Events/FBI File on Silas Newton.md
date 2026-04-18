@@ -6,6 +6,3 @@ tags:
 ---
 
 FBI file reported Newton had substantial income, good character, no record of lawsuits or bankruptcy, and no indication of espionage activities.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

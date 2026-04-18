@@ -5,6 +5,3 @@ tags:
 ---
 
 A speculative physical concept listed in UAP origin taxonomy, details not elaborated in the transcript.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

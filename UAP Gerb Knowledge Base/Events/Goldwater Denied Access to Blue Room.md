@@ -5,6 +5,3 @@ tags:
 ---
 
 Senator Barry Goldwater requested access to classified UFO materials at Wright-Patterson and was angrily refused by General Curtis LeMay.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

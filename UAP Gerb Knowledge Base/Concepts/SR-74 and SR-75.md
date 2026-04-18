@@ -5,6 +5,3 @@ tags:
 ---
 
 Alleged concept aircraft in the Strategic Reconnaissance line that Fouche claimed were in development while he worked in defense.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

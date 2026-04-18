@@ -15,6 +15,3 @@ The crashed object at Kecksburg was described by multiple witnesses as a large m
 The UAP described by multiple Kecksburg witnesses as liberty bell-shaped, off-white/yellow-bronze, covered in hieroglyph-like writings, and appearing to be made from a single piece of metal
 
 Description of the craft allegedly recovered near Magenta in 1933, referred to as 'delock' or a bell-shaped saucer-type UAP.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

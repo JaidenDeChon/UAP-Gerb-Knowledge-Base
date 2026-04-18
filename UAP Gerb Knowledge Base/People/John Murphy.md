@@ -42,6 +42,3 @@ Murphy's censored documentary and his widow's revelation that he witnessed the o
 - [[Video - The 1965 Kecksburg, Pennsylvania UFO Crash]]
 - John Murphy's "Object in the Woods" radio documentary (censored version, 1965)
 - Stan Gordon, *Kecksburg: The Untold Story* (1998)
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

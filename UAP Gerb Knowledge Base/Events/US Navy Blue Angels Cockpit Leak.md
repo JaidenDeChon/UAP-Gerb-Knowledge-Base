@@ -6,6 +6,3 @@ tags:
 ---
 
 Alleged leaked frames from a US Navy Blue Angel cockpit recording showing a UFO descending from clouds resembling the Metapod.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

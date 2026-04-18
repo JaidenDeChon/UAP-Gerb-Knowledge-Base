@@ -33,6 +33,3 @@ Aviation Week and Space Technology magazine promoted the explanation that the cr
 ## Sources
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

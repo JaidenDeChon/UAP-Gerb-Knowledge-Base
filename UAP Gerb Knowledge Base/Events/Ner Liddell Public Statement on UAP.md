@@ -6,6 +6,3 @@ tags:
 ---
 
 Office of Naval Research physicist publicly dismissed all UAP reports as mirages or balloons in a magazine article.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

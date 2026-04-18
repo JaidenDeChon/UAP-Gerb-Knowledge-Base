@@ -20,6 +20,3 @@ The Spanish Parliament's dismissal of the Manises case represents a pattern seen
 ## Sources
 
 - [[Video - The First Commercial Flight Grounded Due to UFOs]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

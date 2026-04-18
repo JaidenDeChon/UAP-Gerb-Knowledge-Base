@@ -10,6 +10,3 @@ An unknown bell-shaped craft crashed or landed near Magenta, west of Milan, Ital
 Alleged UFO crash in Magenta, Italy, which Richard Bissell reportedly confirmed to Harold Malmgren as real.
 
 An unknown craft allegedly crashed or landed near Magenta, Italy, and was subsequently retrieved by Italian authorities under Mussolini.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

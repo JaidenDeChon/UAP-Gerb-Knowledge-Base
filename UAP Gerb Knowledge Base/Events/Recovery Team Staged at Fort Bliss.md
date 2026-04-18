@@ -6,6 +6,3 @@ tags:
 ---
 
 By 2100 hours on 26 August 1974, a CIA recovery team with helicopters had assembled and staged at Fort Bliss, Texas.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

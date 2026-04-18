@@ -13,6 +13,11 @@ Cherry Point was the home station of [[Jonathan Weygandt]] and his unit within M
 
 MAC G28 Marines from Cherry Point verifiably deployed to Operation Laser Strike, as confirmed by Defense Technical Information Center documentation.
 
+## Connection to the RB Whistleblower Account
+
+Cherry Point was also the departure point cited by anonymous Marine whistleblower "[[RB]]" in his account of a classified assignment in December 1963. RB stated that he boarded a windowless plane at Cherry Point and was flown approximately three hours to an undisclosed location where he spent two weeks guarding a recovered disc-shaped craft of non-human origin. The three-hour flight radius from Cherry Point is consistent with multiple potential sites including [[Wright-Patterson Air Force Base]], Ohio.
+
 ## Sources
 
 - [[Video - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt]]
+- [[Video - UFO Whistleblowers Vol.2]]

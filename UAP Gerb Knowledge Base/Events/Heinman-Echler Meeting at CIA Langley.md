@@ -6,6 +6,3 @@ tags:
 ---
 
 Heinman denied any knowledge of UFOs or UFO legacy programs during the meeting
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

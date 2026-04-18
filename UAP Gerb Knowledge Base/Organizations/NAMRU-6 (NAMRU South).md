@@ -6,6 +6,3 @@ tags:
 ---
 
 Navy Medical Research Unit located in Iquitos, Peru; one of three significant US installations at the location
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

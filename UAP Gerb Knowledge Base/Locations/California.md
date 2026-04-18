@@ -5,6 +5,3 @@ tags:
 ---
 
 Location where a source states they were sent after leaving the Air Force to establish cover as an independent contractor related to UAP subject matter.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

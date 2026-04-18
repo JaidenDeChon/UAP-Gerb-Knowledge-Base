@@ -30,6 +30,3 @@ Pinotti's publication of these documents established the Magenta case as possess
 ## Sources
 
 - [[Video - The 1933 Magenta, Italy UFO Crash]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

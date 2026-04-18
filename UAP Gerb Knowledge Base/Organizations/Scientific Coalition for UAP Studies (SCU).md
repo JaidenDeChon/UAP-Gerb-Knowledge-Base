@@ -6,6 +6,3 @@ tags:
 ---
 
 Performed analysis on USO footage showing craft entering water at approximately 100 mph and continuing at similar speed
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

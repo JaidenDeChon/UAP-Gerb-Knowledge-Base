@@ -16,6 +16,3 @@ The RS-33 was led politically by [[Benito Mussolini]], [[Galeazzo Ciano]], and B
 ## Sources
 
 - [[Video - The 1933 Magenta, Italy UFO Crash]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

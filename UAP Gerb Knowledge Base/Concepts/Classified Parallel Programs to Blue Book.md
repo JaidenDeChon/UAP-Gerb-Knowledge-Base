@@ -5,6 +5,3 @@ tags:
 ---
 
 Secret UAP investigation programs alleged to have run alongside the official Project Blue Book.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

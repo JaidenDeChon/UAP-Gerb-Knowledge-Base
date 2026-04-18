@@ -5,6 +5,3 @@ tags:
 ---
 
 A highly secretive US installation in Iquitos, Peru, tasked with radar surveillance and tracking Bolivian narcotics traffic routes
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

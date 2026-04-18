@@ -6,6 +6,3 @@ tags:
 ---
 
 Met the host at November hearings and informed him about the Project Gravitar documentary
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

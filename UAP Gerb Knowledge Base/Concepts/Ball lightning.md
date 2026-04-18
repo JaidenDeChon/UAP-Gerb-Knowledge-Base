@@ -5,6 +5,3 @@ tags:
 ---
 
 A rare electrical phenomenon sometimes cited to explain USO fireballs, though no documented cases of ball lightning exiting the sea are noted.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

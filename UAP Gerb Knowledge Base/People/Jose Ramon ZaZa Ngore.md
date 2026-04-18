@@ -12,6 +12,3 @@ Zarazua Ingore supported Captain Javier's decision to abort the flight path and 
 ## Sources
 
 - [[Video - The First Commercial Flight Grounded Due to UFOs]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

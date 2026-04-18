@@ -5,6 +5,3 @@ tags:
 ---
 
 Location of General LeMay's alleged close encounter with a UFO near an F-89J Scorpion aircraft.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

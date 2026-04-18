@@ -6,6 +6,3 @@ tags:
 ---
 
 Worked with the NRO to launch the Poppy Reconnaissance Satellites in 1962
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

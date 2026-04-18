@@ -6,6 +6,3 @@ tags:
 ---
 
 Identified by Fitts as responsible for obfuscation of DoD funds at HUD; later merged with Leidos in 2015
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 Doug Bower and Dave Chorley took credit for creating the initial wave of crop circles using planks of wood, rope, and baseball caps.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

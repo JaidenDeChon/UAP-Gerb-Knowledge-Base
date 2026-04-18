@@ -39,6 +39,3 @@ The case represents a type of sighting increasingly rare in the modern era—a d
 ## Sources
 
 - [[Video - The Physics of UFOs– Dr. Kevin Knuth]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

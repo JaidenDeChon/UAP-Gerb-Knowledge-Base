@@ -6,6 +6,3 @@ tags:
 ---
 
 Russell E. Wiler moved to serve as director of plans and effects here starting in 2024
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

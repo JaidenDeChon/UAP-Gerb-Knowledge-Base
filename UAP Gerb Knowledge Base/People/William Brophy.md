@@ -18,6 +18,3 @@ The core [[1933 Magenta UFO Crash/Retrieval]] case rests on physical documents t
 ## Sources
 
 - [[Video - The 1933 Magenta, Italy UFO Crash]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

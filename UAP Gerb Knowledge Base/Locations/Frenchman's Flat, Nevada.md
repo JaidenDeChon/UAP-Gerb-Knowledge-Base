@@ -15,6 +15,3 @@ The facility's remote desert location, heavy military security, and presence of 
 ## Sources
 
 - [[Video - The 1953 Kingman, Arizona UFO Crash]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

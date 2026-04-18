@@ -21,6 +21,3 @@ Within that narrative, German seizure of facilities is presented as a possible r
 ## Sources
 
 - [[Video - The 1933 Magenta, Italy UFO Crash]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

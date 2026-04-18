@@ -5,6 +5,3 @@ tags:
 ---
 
 Venue where the speaker had dinner and drinks with UAP researchers including Dr. Greer and Michael Stratt during NPC 2023.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

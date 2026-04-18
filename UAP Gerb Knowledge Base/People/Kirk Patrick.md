@@ -6,6 +6,3 @@ tags:
 ---
 
 Was present in the skiff during the witness's testimony to AARO
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 US Marine Forces unit stationed at Iquitos, Peru, relevant to the operational context of the incident
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

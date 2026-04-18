@@ -6,6 +6,3 @@ tags:
 ---
 
 Office from which a witness claims to have read transcripts of Kirkpatrick's senate briefings
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

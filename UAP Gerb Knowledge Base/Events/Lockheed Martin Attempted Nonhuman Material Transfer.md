@@ -6,6 +6,3 @@ tags:
 ---
 
 Lockheed Martin allegedly attempted twice to divest itself of recovered UFO materials, including possibly a craft hull, to Bigelow Aerospace Advanced Space Studies under the AAWSAP program; stonewalled by CIA DS&T.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

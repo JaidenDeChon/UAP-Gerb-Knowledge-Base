@@ -79,6 +79,10 @@ In 1994, a separate individual, codenamed JLD, made similar claims about the Kin
 
 Leonard Stringfield's meticulous documentation of crash retrieval testimony created a foundation for the field that researchers continue to build upon. His work on the Kecksburg case, in particular, demonstrates his commitment to preserving witness accounts, cross-referencing testimony, and maintaining intellectual honesty even when confronted with contradictory information. His collaboration with Stan Gordon produced one of the most credible and thoroughly researched alleged UAP retrieval cases in history.
 
+## The RB Case
+
+In *UFO Crash/Retrieval Status Report 5*, Stringfield published a brief account titled "Marine Guards a Disc-Shaped Vehicle, 1963," based on information provided by UFO researcher [[Michael Johnstone]], who arranged contact between Stringfield and the anonymous source known as "[[RB]]." RB was a former Marine Corporal who claimed in December 1963 to have guarded a 40-foot disc-shaped craft of non-human origin at an undisclosed military base. Stringfield's notes preserved correspondence between himself and Johnstone documenting the full account. After Stringfield's death, [[Michael Schratt]] was granted access to these personal archives at MUFON in Cincinnati and published a more complete reconstruction of the case, interviewing Johnstone in 2015. Stringfield also compiled a series of letters from Senator [[Barry Goldwater]] regarding his attempts to access a classified UFO storage facility at [[Wright-Patterson Air Force Base]] — letters that contextually support the RB account.
+
 ## Sources
 
 - [[Video - The 1965 Kecksburg, Pennsylvania UFO Crash]]
@@ -86,4 +90,5 @@ Leonard Stringfield's meticulous documentation of crash retrieval testimony crea
 - [[Video - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt]]
 - [[Video - Alien Reproduction Vehicle - the Testimony of Mark McCandlish]]
 - [[Video - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs]]
+- [[Video - UFO Whistleblowers Vol.2]]
 - Leonard Stringfield, *UFO Crash Retrievals: The Inner Sanctum* series

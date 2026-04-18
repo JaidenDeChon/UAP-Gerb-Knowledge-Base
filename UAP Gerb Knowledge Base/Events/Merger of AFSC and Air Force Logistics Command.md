@@ -6,6 +6,3 @@ tags:
 ---
 
 Air Force Systems Command and Air Force Logistics Command merged to form Air Force Material Command.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

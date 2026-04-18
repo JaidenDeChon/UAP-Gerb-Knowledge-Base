@@ -5,6 +5,3 @@ tags:
 ---
 
 Mentioned by Leonard Stringfield's alleged Blue Beret insider in relation to a UAP-related incident
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -5,6 +5,3 @@ tags:
 ---
 
 Filmmaker died approximately one month before his documentary was set to release; pathology allegedly showed radioisotope poisoning
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

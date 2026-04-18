@@ -5,6 +5,3 @@ tags:
 ---
 
 Army and DOD project intended to build a moon base; cancelled when NASA was founded in 1958.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

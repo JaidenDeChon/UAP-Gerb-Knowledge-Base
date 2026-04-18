@@ -6,6 +6,3 @@ tags:
 ---
 
 A flying saucer allegedly landed at Holloman AFB and occupants exited the craft to interact with USAF personnel.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

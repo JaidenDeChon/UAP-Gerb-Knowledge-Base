@@ -5,6 +5,3 @@ tags:
 ---
 
 Alleged clandestine UAP-related program operations conducted at facilities like Tejon and Helendale
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

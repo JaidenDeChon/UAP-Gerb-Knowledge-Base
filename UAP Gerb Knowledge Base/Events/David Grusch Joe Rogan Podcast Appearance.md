@@ -5,6 +5,3 @@ tags:
 ---
 
 UAP whistleblower David Grusch mentioned Lockheed by name in connection with UFO legacy programs during a high-profile podcast interview.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

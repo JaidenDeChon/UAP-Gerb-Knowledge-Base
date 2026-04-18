@@ -6,6 +6,3 @@ tags:
 ---
 
 The speaker gave a presentation hypothesizing that drugs were involved in their UAP experience; afterward Dr. Greer showed them the insider's encrypted text message.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

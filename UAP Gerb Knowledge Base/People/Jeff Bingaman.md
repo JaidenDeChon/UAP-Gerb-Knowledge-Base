@@ -33,6 +33,3 @@ Despite successfully forcing the Air Force to acknowledge Moon Dust, Bingaman's 
 ## Sources
 
 - [[Video - MOON DUST - The Pentagon's Secret UFO Programs]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

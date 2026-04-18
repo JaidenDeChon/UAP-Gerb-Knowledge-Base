@@ -6,6 +6,3 @@ tags:
 ---
 
 Eyewitness who traveled to Hart Canyon Road in 1948 after being told of a brush fire near oil drip tanks
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

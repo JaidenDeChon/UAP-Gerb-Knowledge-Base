@@ -5,6 +5,3 @@ tags:
 ---
 
 First alleged military destination for the Kecksburg object after retrieval from Pennsylvania
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

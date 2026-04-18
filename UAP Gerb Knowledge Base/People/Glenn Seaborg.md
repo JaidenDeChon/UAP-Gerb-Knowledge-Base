@@ -6,6 +6,3 @@ tags:
 ---
 
 Mentioned as a significant attendee at meetings potentially related to UAP programs
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

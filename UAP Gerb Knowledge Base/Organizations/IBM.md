@@ -6,6 +6,3 @@ tags:
 ---
 
 Identified by Fitts as one of the IT/accounting systems providers involved in obfuscation of DoD funds at HUD
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

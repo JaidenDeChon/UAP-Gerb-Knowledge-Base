@@ -6,6 +6,3 @@ tags:
 ---
 
 Named by Wagant as personnel at Ikitos Detachment 5; contacted by researcher
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

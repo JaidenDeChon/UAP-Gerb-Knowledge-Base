@@ -6,6 +6,3 @@ tags:
 ---
 
 Elizondo stated the Gimbal, Go Fast, and Pentagon UFO videos are among the least compelling UAP footage and that more significant footage exists in government possession.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

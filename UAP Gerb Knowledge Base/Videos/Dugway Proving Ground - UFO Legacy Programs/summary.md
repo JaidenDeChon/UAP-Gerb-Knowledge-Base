@@ -85,7 +85,7 @@ The video, hosted by UAP researcher "UAP Gerb," presents an investigation into D
 - [[UFO Legacy Programs]] — Alleged secret government programs related to UAP/UFO research and technology; the investigation aims to identify specific buildings and military units operating such programs at Dugway Proving Ground.
 - [[Level Five Proximity Badge]] — A non-security-clearance access credential held by the witness that allowed entry to numerous facilities across Dugway Proving Ground for contractor work.
 - [[Ghost Building]] — A nickname for a building at Avery Technical Center that has no numbers or insignia, described by the witness; believed to be significant to UAP Legacy program investigations.
-- [[Clean Room]] — The witness describes the incident location as a clean room of sorts, possibly referencing a controlled-environment facility at Avery Technical Center.
+- Clean Room — The witness describes the incident location as a clean room of sorts, possibly referencing a controlled-environment facility at Avery Technical Center.
 - [[Internal Rail System]] — Avery Technical Center reportedly employs an internal rail system for transporting radioactive materials; considered significant evidence in the investigation.
 - [[Radiobiological Warfare Laboratories]] — Historical facilities at Avery Technical Center used for radiological studies and handling of radioactive materials for the Atomic Energy Commission.
 - [[Underground Facility]] — A large facility believed to exist beneath the surface of the Utah site (Dugway Proving Ground), suggested by witness testimony and other evidence.

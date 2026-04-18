@@ -6,6 +6,3 @@ tags:
 ---
 
 Venue where Carl Nell participated in discussions on consciousness
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

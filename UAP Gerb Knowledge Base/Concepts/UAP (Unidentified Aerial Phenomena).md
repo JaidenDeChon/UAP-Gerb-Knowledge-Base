@@ -5,6 +5,3 @@ tags:
 ---
 
 A broad term for aerial observations that cannot be immediately identified; distinguished in this context from ARVs, which are more specifically defined.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

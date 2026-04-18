@@ -6,6 +6,3 @@ tags:
 ---
 
 Content creator physically entered Tejon campus, filmed interiors, and noted the facility was suspiciously clean with spent bullet casings but no other signs of civilian presence
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

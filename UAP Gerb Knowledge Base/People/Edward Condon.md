@@ -26,6 +26,3 @@ The report received near-universal praise from major scientific institutions and
 ## Sources
 
 - [[Video - The Origin of the UFO Stigma]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

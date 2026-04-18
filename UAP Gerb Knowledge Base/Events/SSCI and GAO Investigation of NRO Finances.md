@@ -6,6 +6,3 @@ tags:
 ---
 
 Senate Select Committee on Intelligence and GAO investigated NRO financials, potentially uncovering UAP-related programs.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

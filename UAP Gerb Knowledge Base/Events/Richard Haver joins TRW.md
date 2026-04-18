@@ -6,6 +6,3 @@ tags:
 ---
 
 Haver transitioned from government intelligence roles to TRW and subsequently Northrop Grumman.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -5,6 +5,3 @@ tags:
 ---
 
 The unknown entities methodically disarmed the soldiers, removed their magazines, and scanned their military IDs using a device described as thinner and more advanced than contemporary smartphones or BlackBerrys.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

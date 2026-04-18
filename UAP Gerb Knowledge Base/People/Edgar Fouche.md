@@ -53,3 +53,4 @@ The craft described by [[Rodrik Castle]] during the 1997 [[Hunter Warrior Advanc
 
 - [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
 - [[Video - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE]]
+- [[Video - UFOs in the Private Sector - Lockheed Martin]]

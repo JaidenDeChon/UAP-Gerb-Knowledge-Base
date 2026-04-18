@@ -6,6 +6,3 @@ tags:
 ---
 
 Associated with the 'Others From Another Mother' podcast; mentioned as a friend of the channel
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

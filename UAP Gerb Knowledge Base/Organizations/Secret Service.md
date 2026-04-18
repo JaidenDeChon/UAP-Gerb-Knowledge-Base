@@ -6,6 +6,3 @@ tags:
 ---
 
 Referenced as a comparison for the appearance of reinforced/up-armored trucks seen at the scene
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

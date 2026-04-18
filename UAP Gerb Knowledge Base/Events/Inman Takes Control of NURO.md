@@ -6,6 +6,3 @@ tags:
 ---
 
 Admiral Bobby Ray Inman assumed directorship of the classified National Underwater Reconnaissance Program.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

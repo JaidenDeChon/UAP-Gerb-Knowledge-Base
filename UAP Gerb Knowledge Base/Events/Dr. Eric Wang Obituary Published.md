@@ -6,6 +6,3 @@ tags:
 ---
 
 An obituary in the April 1961 edition of Mechanical Engineering magazine provided rare public information about Wang's background and career.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

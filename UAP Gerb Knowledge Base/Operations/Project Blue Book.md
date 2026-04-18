@@ -40,6 +40,3 @@ Blue Book's case files were eventually declassified and are publicly available. 
 - [[Video - The Origin of the UFO Stigma]]
 - [[Video - MOON DUST - The Pentagon's Secret UFO Programs]]
 - [[Video - Global Air Force UFO Encounters You've Probably Never Heard of]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

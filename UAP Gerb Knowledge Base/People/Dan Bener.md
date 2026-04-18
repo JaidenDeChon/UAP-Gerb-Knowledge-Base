@@ -6,6 +6,3 @@ tags:
 ---
 
 Co-authored work with Michael Schratt, received startling remarks from Hilton via Skype in June 2012, staunch supporter of Fouche
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

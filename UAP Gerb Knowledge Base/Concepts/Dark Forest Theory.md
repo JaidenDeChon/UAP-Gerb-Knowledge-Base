@@ -23,6 +23,3 @@ The theory complements the [[Fermi Paradox]] as both a logical explanation for c
 ## Sources
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

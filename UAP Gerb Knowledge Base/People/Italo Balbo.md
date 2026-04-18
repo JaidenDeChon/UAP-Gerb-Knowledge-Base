@@ -20,6 +20,3 @@ Balbo died in June 1940 when his aircraft was shot down by Italian anti-aircraft
 ## Sources
 
 - [[Video - The 1933 Magenta, Italy UFO Crash]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

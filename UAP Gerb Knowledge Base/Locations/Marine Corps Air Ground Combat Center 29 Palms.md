@@ -5,6 +5,3 @@ tags:
 ---
 
 Southern California base where the Hunter Warrior Advanced Warfighting Experiment was conducted and near which the UAP encounter took place.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

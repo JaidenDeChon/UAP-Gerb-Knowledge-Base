@@ -5,6 +5,3 @@ tags:
 ---
 
 A SAC base mentioned as relevant to the Kecksburg case; a witness later claimed to have briefly guarded the crashed UAP at this location
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

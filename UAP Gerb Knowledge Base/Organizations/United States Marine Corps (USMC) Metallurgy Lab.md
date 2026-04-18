@@ -6,6 +6,3 @@ tags:
 ---
 
 Received the retrieved material fragment from Willingham; later denied any record of the tests or the receiving major
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

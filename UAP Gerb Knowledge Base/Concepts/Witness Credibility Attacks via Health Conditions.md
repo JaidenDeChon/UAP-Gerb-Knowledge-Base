@@ -5,6 +5,3 @@ tags:
 ---
 
 A tactic noted in the transcript where whistleblowers are dismissed by citing mental or medical health conditions rather than addressing their claims.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

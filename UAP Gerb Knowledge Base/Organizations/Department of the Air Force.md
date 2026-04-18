@@ -6,6 +6,3 @@ tags:
 ---
 
 Overarching organization discussed in relation to UAP program oversight structures
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

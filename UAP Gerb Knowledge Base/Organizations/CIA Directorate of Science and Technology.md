@@ -12,6 +12,3 @@ CIA Directorate of Science and Technology; claimed in Age of Disclosure to be th
 Allegedly involved in blocking the 2011 transfer of UAP materials from Lockheed Martin
 
 Deputy Director of DS&T identified as a significant role within the UFO legacy program structure
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

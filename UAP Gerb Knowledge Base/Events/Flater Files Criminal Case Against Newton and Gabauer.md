@@ -6,6 +6,3 @@ tags:
 ---
 
 Charges filed in Denver magistrate court for interstate transportation of stolen property and worthless machinery.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

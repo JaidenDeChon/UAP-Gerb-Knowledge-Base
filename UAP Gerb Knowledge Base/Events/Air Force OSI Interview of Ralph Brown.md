@@ -6,6 +6,3 @@ tags:
 ---
 
 An Air Force Office of Special Investigations document recorded an interview with Master Sergeant Ralph Brown regarding UFO-related materials.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

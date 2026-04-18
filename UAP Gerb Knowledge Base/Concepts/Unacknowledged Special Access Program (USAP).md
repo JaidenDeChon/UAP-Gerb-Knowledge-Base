@@ -5,6 +5,3 @@ tags:
 ---
 
 A classified government program not officially acknowledged; Immaculate Constellation is described as one such program.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -5,6 +5,3 @@ tags:
 ---
 
 Theorized classified Air Force program involving RDT&E of non-human origin craft; estimated to cost hundreds of billions to low trillions of dollars.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

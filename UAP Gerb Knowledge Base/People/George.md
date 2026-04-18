@@ -6,6 +6,3 @@ tags:
 ---
 
 Claimed to be stationed at Walker Air Force Base in 1948 and stated the Aztec retrieval was coordinated out of Walker AFB
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

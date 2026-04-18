@@ -6,6 +6,3 @@ tags:
 ---
 
 Received original sketches of the retrieval from the naval lieutenant colonel and was connected with Mark
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

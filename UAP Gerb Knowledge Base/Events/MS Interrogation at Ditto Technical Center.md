@@ -5,6 +5,3 @@ tags:
 ---
 
 MS was taken by guards to the Garrison building at Ditto Technical Center and interrogated for 6 hours by two men in black suits
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

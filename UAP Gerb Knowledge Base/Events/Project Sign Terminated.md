@@ -6,6 +6,3 @@ tags:
 ---
 
 Shut down by General Hoyt Vandenberg citing lack of proof
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

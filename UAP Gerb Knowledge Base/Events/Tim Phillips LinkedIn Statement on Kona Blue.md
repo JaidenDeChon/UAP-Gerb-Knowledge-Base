@@ -6,6 +6,3 @@ tags:
 ---
 
 Former AARO deputy director publicly claimed Kona Blue was created as a home for 'paranormal UFO crap' and disputed whistleblower claims
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

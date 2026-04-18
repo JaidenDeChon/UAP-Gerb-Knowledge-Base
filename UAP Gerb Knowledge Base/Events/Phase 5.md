@@ -5,6 +5,3 @@ tags:
 ---
 
 An indefinite timeline phase seeking an interactive approach with UAP and potentially integrating NHI and NHI technology with Earth civilization.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

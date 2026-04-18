@@ -6,6 +6,3 @@ tags:
 ---
 
 Press conference at which McCandlish was interviewed about UFO technology in a segment titled 'Blueprint for a UFO'
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 Company that acquired the Tejon property from EDF Power Solutions, operating under Keyhole Wind LLC
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 NRO gathered the world's first radar imagery from orbit using synthetic aperture radar via a satellite codenamed Quill.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

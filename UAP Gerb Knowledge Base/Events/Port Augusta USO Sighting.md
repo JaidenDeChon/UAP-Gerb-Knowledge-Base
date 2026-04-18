@@ -6,6 +6,3 @@ tags:
 ---
 
 Frederick Walter, Emma Flav, and two railroad workers observed five gray oblong or egg-shaped objects rise from the sea in South Australia
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

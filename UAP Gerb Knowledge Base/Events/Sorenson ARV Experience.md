@@ -6,6 +6,3 @@ tags:
 ---
 
 Brad Sorenson allegedly flew to Air Force Plant 42 to view a special exhibit that included aircraft he was not cleared to see, believed to include ARVs
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

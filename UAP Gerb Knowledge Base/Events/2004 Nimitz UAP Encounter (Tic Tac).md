@@ -22,6 +22,3 @@ The Tic Tac UAP descended from 28,000 ft to sea level in ~78 seconds, experienci
 Commander David Fravor encountered an unidentified Tic Tac-shaped object off the coast of San Diego, a widely known UAP case.
 
 The well-known Tic Tac UAP encounter associated with the USS Nimitz, referenced as a famous case predating the 1991 USO encounter
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

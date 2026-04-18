@@ -27,6 +27,3 @@ The broader concept of a galactic governing body is regarded as plausible by som
 ## Sources
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

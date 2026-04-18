@@ -6,6 +6,3 @@ tags:
 ---
 
 Steven Greer first noted plans to meet with witness AB (later identified as Elaine Boder) who was traveling from France with a high-profile French astronaut.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -18,6 +18,3 @@ NASA personnel have occasionally been referenced in UAP research contexts. Bob E
 ## Sources
 
 - [[Video - Incredible UFO Footage - FLYBY]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

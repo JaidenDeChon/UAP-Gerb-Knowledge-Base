@@ -6,6 +6,3 @@ tags:
 ---
 
 The speaker's first in-person meeting with Dr. Steven Greer, where the speaker shared their personal UAP experience hoping to compare notes.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

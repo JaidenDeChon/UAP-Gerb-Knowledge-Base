@@ -6,6 +6,3 @@ tags:
 ---
 
 AARO allegedly contracted Sand Corp, described as a company built to plug whistleblower leaks
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

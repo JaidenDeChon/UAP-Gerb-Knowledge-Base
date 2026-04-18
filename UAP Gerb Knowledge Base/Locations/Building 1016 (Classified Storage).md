@@ -5,6 +5,3 @@ tags:
 ---
 
 Classified storage facility identified in the Avery environmental assessment document.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

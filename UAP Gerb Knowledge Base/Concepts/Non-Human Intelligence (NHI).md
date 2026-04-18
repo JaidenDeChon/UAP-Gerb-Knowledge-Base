@@ -27,6 +27,3 @@ Because the term carries fewer assumptions, it is now standard in many policy an
 ## Sources
 
 - [[Video - The 1933 Magenta, Italy UFO Crash]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

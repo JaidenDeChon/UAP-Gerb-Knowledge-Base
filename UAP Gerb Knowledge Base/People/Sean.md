@@ -6,6 +6,3 @@ tags:
 ---
 
 Accused of lying about attending a 2018 Skinwalker Ranch briefing and spreading false information
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

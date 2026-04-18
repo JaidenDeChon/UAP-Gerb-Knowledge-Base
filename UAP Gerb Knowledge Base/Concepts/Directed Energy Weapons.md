@@ -5,6 +5,3 @@ tags:
 ---
 
 Weapons such as lasers, particle beams, and X-ray lasers developed under SDI, alleged to have been tested offensively against UAPs.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

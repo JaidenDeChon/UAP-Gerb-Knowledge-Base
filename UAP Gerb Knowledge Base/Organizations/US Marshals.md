@@ -6,6 +6,3 @@ tags:
 ---
 
 Mentioned as having jurisdiction everywhere and potentially able to execute enforcement actions related to UAP-related law violations
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

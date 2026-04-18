@@ -6,6 +6,3 @@ tags:
 ---
 
 Recorded phone call in which Inman directed NASA's Bob Echler to CIA DS&T Deputy Director Everett Heinman regarding recovered UAP vehicles.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

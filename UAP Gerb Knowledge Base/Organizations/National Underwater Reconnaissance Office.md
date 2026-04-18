@@ -14,6 +14,3 @@ Classified black program focused on undersea reconnaissance and technology acqui
 Operated submarines Halibut and Seawolf used to transport top secret equipment and industry specialists for clandestine undersea missions
 
 Secretly created in 1969 to consolidate reconnaissance between CIA and Navy; still classified; Inman served as director
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

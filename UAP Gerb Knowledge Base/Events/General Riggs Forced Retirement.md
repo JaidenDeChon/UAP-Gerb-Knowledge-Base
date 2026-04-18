@@ -6,6 +6,3 @@ tags:
 ---
 
 John M. Riggs was forced to retire in 2004-2005, allegedly following an investigation tied to showing classified UAP-derived cloaking technology to a BAE Systems employee.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

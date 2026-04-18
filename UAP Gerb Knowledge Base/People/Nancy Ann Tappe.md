@@ -20,6 +20,3 @@ The inclusion of Indigo Children in UAP iceberg discussions is tenuous. Some pro
 ## Sources
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

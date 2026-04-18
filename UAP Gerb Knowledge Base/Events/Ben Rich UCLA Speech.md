@@ -6,6 +6,3 @@ tags:
 ---
 
 Ben Rich allegedly stated Lockheed already had means for interstellar travel and technology to 'take ET home,' confirmed by Tom Keller and John Haren
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

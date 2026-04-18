@@ -6,6 +6,3 @@ tags:
 ---
 
 Observed vast shafts of revolving light on the sea surface in the Persian Gulf on April 4, 1901
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

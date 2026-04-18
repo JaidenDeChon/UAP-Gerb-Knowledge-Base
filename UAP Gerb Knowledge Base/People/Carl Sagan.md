@@ -20,6 +20,3 @@ Sagan maintained throughout his career that the possibility of extraterrestrial 
 ## Sources
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 Fitts identified $21 trillion in unauthorized spending across DoD and HUD between 1995 and 2015.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

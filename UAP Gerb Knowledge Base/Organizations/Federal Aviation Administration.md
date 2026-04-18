@@ -6,6 +6,3 @@ tags:
 ---
 
 Designated the airspace of the UAP incident as R2501C special use airspace
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

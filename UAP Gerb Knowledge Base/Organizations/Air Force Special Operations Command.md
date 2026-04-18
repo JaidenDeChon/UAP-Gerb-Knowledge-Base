@@ -6,6 +6,3 @@ tags:
 ---
 
 Provides Air Force special forces units to SOCOM; linked to UAP crash retrieval operations through JSOC
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

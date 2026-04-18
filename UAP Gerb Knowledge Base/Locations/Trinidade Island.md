@@ -5,6 +5,3 @@ tags:
 ---
 
 Island 600 miles off the Brazilian mainland where the 1958 UFO photographs were taken.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

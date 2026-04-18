@@ -6,6 +6,3 @@ tags:
 ---
 
 Unit the witness and his platoon belonged to; several members died in Vietnam and Cambodia following UAP encounter
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

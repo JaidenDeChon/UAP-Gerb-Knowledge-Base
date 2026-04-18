@@ -6,6 +6,3 @@ tags:
 ---
 
 FBI conducted a background check on Corso for his prospective position on the House immigration and national security subcommittee
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

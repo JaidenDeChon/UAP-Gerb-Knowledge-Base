@@ -5,6 +5,3 @@ tags:
 ---
 
 Alleged physical materials of non-human origin that are the subject of UAP legacy program research and the focus of the Kona Blue saga.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

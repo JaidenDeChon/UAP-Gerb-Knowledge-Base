@@ -6,6 +6,3 @@ tags:
 ---
 
 Described as conducting the mission briefing aboard the ship; memorable to the witness due to her appearance
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

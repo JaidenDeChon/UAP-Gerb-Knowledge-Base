@@ -6,6 +6,3 @@ tags:
 ---
 
 Pilot C Adams and cameraman Les Hendy observed cigar-shaped and smaller objects near Frasier Island that submerged without disturbing the water surface
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

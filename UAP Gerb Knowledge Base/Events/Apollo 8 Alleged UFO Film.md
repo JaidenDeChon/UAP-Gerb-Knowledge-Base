@@ -6,6 +6,3 @@ tags:
 ---
 
 Frank Borman allegedly filmed six UFOs descending onto the moon surface during the Apollo 8 mission.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

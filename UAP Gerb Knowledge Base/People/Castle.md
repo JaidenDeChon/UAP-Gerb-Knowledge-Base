@@ -6,6 +6,3 @@ tags:
 ---
 
 Primary witness who encountered a large triangular craft and armed unmarked operators near Emerson dry lake bed
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

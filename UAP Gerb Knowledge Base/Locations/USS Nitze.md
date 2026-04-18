@@ -20,6 +20,3 @@ If the flyby footage's screen recording was indeed created aboard the USS Nitze,
 ## Sources
 
 - [[Video - Incredible UFO Footage - FLYBY]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 First-person account of a military operation involving helicopter transport to a hasty LZ, providing security on a slope
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

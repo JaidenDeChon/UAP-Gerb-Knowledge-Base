@@ -6,6 +6,3 @@ tags:
 ---
 
 Referenced in context of UAP Legacy programs at Dugway Proving Ground
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

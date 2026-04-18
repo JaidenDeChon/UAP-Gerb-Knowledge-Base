@@ -6,6 +6,3 @@ tags:
 ---
 
 Wagant deliberately confessed to using banned substances to obtain a discharge after being tormented by the experience
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 Northrop Grumman purchased 1,415 acres of Tejon Ranch land on which the RCS facility was located
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

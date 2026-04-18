@@ -6,6 +6,3 @@ tags:
 ---
 
 Claude Vorilhon founded the UFO religion Raelism in France in the 1970s.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

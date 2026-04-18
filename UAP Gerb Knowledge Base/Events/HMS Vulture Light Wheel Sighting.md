@@ -6,6 +6,3 @@ tags:
 ---
 
 Officer Pringle observed luminous waves and two revolving wheel-shaped objects east and west of the HMS Vulture in the Persian Gulf.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

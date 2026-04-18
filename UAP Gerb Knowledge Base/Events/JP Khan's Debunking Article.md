@@ -6,6 +6,3 @@ tags:
 ---
 
 San Francisco Chronicle writer JP Khan published a piece labeling the Aztec crash a hoax and implicating Newton and Gabau in oil fraud.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

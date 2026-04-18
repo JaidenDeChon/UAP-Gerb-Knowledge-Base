@@ -5,6 +5,3 @@ tags:
 ---
 
 Historical reports of large, spoke-like rotating wheels of light observed on or beneath ocean surfaces, documented across multiple centuries and locations.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

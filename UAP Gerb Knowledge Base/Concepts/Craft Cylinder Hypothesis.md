@@ -5,6 +5,3 @@ tags:
 ---
 
 A cylinder on the front of the craft was hypothesized to be for oxygen, vacuum sealing, or smuggling; the insider claimed it was used to transport people.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

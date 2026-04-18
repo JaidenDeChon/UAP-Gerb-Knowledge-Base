@@ -6,6 +6,3 @@ tags:
 ---
 
 UFO sightings and photographs were reportedly taken in the Hoia Baciu Forest in Romania during the 1960s.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

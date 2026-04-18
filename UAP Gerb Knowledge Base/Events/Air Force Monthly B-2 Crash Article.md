@@ -6,6 +6,3 @@ tags:
 ---
 
 Publication discussing the unusual crash landing at Boscombe Down and speculating the craft was a TR-3A or TR-3B flying triangle.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

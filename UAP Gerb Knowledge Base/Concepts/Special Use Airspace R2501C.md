@@ -5,6 +5,3 @@ tags:
 ---
 
 A designated restricted FAA airspace zone where the UAP encounter took place, near Emerson Dry Lake northwest of 29 Palms.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

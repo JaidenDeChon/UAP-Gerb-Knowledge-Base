@@ -6,6 +6,3 @@ tags:
 ---
 
 Thousands of reports of mysterious airship sightings across the United States from 1896 to 1897
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

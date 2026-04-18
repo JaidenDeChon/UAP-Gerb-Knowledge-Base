@@ -6,6 +6,3 @@ tags:
 ---
 
 Captain Lebman observed a blinding milky white light beneath the waves that followed the ship for half an hour during a voyage to Singapore
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

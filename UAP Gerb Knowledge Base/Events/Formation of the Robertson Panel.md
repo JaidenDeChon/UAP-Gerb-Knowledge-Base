@@ -6,6 +6,3 @@ tags:
 ---
 
 Formed by the CIA in response to the 1952 Washington DC UFO incidents, with a stated goal of reducing public interest and mystery surrounding UFOs.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

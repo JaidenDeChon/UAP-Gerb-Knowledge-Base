@@ -6,6 +6,3 @@ tags:
 ---
 
 Contract providing mission engineering and integration support for maneuver engagement and surveillance section of Crane.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

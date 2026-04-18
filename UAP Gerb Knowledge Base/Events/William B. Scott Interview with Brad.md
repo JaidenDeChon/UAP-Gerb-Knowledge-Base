@@ -6,6 +6,3 @@ tags:
 ---
 
 Aviation Week editor Bill Scott interviewed Brad about experimental and strange craft described by Mark McCandlish.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

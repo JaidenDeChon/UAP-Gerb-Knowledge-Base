@@ -22,6 +22,3 @@ This alleged Vatican involvement aligns with documented instances of Pope Pius X
 ## Sources
 
 - [[Video - The 1933 Magenta, Italy UFO Crash]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

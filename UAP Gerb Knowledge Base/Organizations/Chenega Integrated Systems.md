@@ -6,6 +6,3 @@ tags:
 ---
 
 Contracted security provider used at Dugway Proving Ground
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

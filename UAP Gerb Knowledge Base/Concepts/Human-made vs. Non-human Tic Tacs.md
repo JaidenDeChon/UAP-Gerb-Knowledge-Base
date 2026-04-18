@@ -5,6 +5,3 @@ tags:
 ---
 
 Theory that both human-engineered and non-human origin Tic Tac craft exist simultaneously
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

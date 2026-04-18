@@ -6,6 +6,3 @@ tags:
 ---
 
 Trains the Air Force's top pilots, navigators, and engineers in flight testing; pilots of alleged reverse-engineered vehicles reportedly trained here
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

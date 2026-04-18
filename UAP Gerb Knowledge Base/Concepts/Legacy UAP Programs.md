@@ -5,6 +5,3 @@ tags:
 ---
 
 Long-standing classified government and contractor programs related to UAP research and reverse engineering, described as compartmentalized and stove-piped.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

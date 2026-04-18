@@ -50,6 +50,3 @@ Multiple competing theories circulate regarding what Grays are, assuming their r
 ## Sources
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

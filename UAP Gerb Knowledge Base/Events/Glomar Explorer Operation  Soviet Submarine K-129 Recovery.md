@@ -6,6 +6,3 @@ tags:
 ---
 
 One of NURO's first operations; CIA used the Glomar Explorer to covertly recover wreckage of Soviet submarine K-129 from the ocean floor
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

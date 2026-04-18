@@ -6,6 +6,3 @@ tags:
 ---
 
 Alleged to play an integral role in NSC-led UFO legacy programs and govern SAF/AH sensitive activities
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

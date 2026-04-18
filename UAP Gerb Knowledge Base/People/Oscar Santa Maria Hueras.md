@@ -30,6 +30,3 @@ The incident led to an official DOD investigation, and Hueras's account was docu
 ## Sources
 
 - [[Video - Global Air Force UFO Encounters You've Probably Never Heard of]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

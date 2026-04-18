@@ -16,6 +16,3 @@ Quintanilla also appeared on the hearing panel alongside Secretary of the Air Fo
 ## Sources
 
 - [[Video - The Origin of the UFO Stigma]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

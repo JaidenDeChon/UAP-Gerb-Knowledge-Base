@@ -6,6 +6,3 @@ tags:
 ---
 
 Corbel released footage of a supposed triangle UFO over 29 Palms, debated as either a craft or a group of flares.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

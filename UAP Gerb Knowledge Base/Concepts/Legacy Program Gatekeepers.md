@@ -5,6 +5,3 @@ tags:
 ---
 
 High-level personnel who control access to classified UFO-related programs, alleged to have direct ties to the NRO.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

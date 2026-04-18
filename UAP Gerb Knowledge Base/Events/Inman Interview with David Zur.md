@@ -6,6 +6,3 @@ tags:
 ---
 
 Inman publicly discussed NURO during an interview with the Caltech Heritage Project director.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

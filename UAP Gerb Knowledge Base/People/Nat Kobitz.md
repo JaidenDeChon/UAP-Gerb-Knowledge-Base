@@ -6,6 +6,3 @@ tags:
 ---
 
 Told Ross Coulthart he was read into a Navy UFO crash retrieval and reverse engineering program
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

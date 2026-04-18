@@ -5,6 +5,3 @@ tags:
 ---
 
 A proposed large-scale government-led scientific initiative to seriously address the UAP phenomenon, analogous to the original Manhattan Project.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

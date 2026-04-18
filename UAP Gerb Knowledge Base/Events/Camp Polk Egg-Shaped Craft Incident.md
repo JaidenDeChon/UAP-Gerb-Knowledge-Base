@@ -6,6 +6,3 @@ tags:
 ---
 
 Private HJ and his unit observed an egg-shaped craft crash land near Camp Polk, Louisiana; special detachments recovered the craft and three living occupants plus one body on a stretcher
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

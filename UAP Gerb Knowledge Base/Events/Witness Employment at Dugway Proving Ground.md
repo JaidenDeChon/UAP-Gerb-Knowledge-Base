@@ -6,6 +6,3 @@ tags:
 ---
 
 The witness began working for C Martin at Dugway Proving Ground as a maintenance painter and sign technician; approximately four months in, he was tasked with electrical meter reading that led him to observe unusual facilities.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

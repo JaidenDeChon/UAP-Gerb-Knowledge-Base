@@ -6,6 +6,3 @@ tags:
 ---
 
 Accompanied pilot C Adams and reported the Frasier Island USO sighting
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

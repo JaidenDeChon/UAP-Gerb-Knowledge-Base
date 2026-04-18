@@ -5,6 +5,3 @@ tags:
 ---
 
 Location near which the HMNZS Southland USO case occurred, noted for similar non-interaction with water
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

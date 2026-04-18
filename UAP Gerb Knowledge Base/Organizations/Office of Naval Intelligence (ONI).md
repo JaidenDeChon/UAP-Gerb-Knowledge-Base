@@ -6,6 +6,3 @@ tags:
 ---
 
 Richard Haver and Stephanie O'Sullivan both held senior roles there; alleged connection to UFO legacy programs
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

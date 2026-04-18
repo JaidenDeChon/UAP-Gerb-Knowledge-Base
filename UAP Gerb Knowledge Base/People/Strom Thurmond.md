@@ -13,7 +13,7 @@ Thurmond originally wrote a foreword for *The Day After Roswell*, praising Corso
 
 When Thurmond learned that the book was actually about Roswell, extraterrestrial biological entities, and seeding alien technology into American industry, he angrily retracted his statements and withdrew the foreword. This led to an early reprint of the book without Thurmond's endorsement.
 
-While Corso's original manuscript *[[Dawn of a New Age]]* makes mention of Corso's relationship with Thurmond, no such advocacy or foreword by the senator was ever referenced in the manuscript itself — suggesting the foreword was arranged by co-author [[Bill Burns]] or the publisher without Corso's full oversight or Thurmond's complete understanding of the book's content.
+While Corso's original manuscript *Dawn of a New Age* makes mention of Corso's relationship with Thurmond, no such advocacy or foreword by the senator was ever referenced in the manuscript itself — suggesting the foreword was arranged by co-author [[Bill Burns]] or the publisher without Corso's full oversight or Thurmond's complete understanding of the book's content.
 
 ## Relationship with Corso
 

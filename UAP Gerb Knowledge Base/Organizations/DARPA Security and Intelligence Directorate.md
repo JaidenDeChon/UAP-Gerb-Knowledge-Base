@@ -6,6 +6,3 @@ tags:
 ---
 
 Cited as a program protection office within legacy program structure
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

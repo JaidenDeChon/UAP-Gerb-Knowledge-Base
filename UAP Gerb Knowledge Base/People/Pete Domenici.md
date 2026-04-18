@@ -45,6 +45,3 @@ Domenici's experience with Moon Dust document requests illustrates the limits of
 ## Sources
 
 - [[Video - MOON DUST - The Pentagon's Secret UFO Programs]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 Alleged target of a disinformation campaign involving the SOM 1-01 manual according to Alexander's claim
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

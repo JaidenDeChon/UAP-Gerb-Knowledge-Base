@@ -56,6 +56,3 @@ The existence and operating procedures of RS-33 are confirmed by authenticated f
 ## Sources
 
 - [[Video - The 1933 Magenta, Italy UFO Crash]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

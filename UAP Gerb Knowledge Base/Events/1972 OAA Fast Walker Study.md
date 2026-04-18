@@ -6,6 +6,3 @@ tags:
 ---
 
 A study analyzing fast Walker data from ballistic missile entry warning satellites; referenced in a later study and noted an inability to determine range to fast Walker targets
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

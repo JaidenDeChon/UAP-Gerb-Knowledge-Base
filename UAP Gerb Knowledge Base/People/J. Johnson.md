@@ -6,6 +6,3 @@ tags:
 ---
 
 Directed Vice Admiral Spain's operational examination of sea-based aerial fire support
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

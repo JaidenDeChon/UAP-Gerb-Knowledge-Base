@@ -40,6 +40,3 @@ The Bolivia case represents one of the few documented instances where Moon Dust 
 ## Sources
 
 - [[Video - MOON DUST - The Pentagon's Secret UFO Programs]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

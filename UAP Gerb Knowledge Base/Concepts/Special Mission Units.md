@@ -5,6 +5,3 @@ tags:
 ---
 
 Units theorized to have participated in Hunter Warrior through NAWDC and NAS Lemoore to practice ARV-related operations
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

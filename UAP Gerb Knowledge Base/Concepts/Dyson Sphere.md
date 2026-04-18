@@ -28,6 +28,3 @@ The Dyson Sphere concept is foundational to [[Dysonian SETI (CTI)]] — a search
 ## Sources
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

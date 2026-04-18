@@ -76,6 +76,3 @@ The case is frequently referred to as "Mexico's Roswell" and represents one of t
 ## Sources
 
 - [[Video - The 1974 Coyame, Mexico UFO Crash]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

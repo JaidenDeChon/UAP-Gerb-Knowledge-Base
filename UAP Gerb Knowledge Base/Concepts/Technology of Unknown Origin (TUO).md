@@ -5,6 +5,3 @@ tags:
 ---
 
 Materials or technology associated with UAP that lack prosaic attribution or known means of human manufacturing.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

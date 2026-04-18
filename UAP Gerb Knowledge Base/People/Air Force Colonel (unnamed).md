@@ -6,6 +6,3 @@ tags:
 ---
 
 Rumored to have confronted early-arriving Marines for carrying rifles and sent them back to the ship due to bad optics
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

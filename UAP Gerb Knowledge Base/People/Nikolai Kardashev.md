@@ -24,6 +24,3 @@ Kardashev spent most of his career at the Lebedev Physical Institute and later a
 ## Sources
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

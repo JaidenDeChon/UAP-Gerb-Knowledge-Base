@@ -6,6 +6,3 @@ tags:
 ---
 
 Hynek discussed at Goddard Space Flight Center that NORAD has been tracking UFOs since 1957 and that all continental US military UFO cases in Blue Book are NORAD cases
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

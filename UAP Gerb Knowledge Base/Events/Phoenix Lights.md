@@ -30,6 +30,3 @@ The Phoenix Lights case is notable for governorship-level witness testimony, the
 ## Sources
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

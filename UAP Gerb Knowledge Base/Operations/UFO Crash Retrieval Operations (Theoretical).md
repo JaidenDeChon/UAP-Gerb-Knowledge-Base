@@ -5,6 +5,3 @@ tags:
 ---
 
 Theorized sensitive activities conducted by SOCOM on foreign soil with ISR support from NGA, coordinated through SAF/AH under classified USD I&S directives.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

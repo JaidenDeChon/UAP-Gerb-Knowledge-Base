@@ -5,6 +5,3 @@ tags:
 ---
 
 US military testing ranges on the western United States where the presenter's hidden wing thesis is centered.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

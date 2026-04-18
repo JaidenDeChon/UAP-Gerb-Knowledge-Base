@@ -5,6 +5,3 @@ tags:
 ---
 
 The theory that the criminal prosecution of Newton and GeBauer was retaliation for leaking information about the Aztec UFO crash
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

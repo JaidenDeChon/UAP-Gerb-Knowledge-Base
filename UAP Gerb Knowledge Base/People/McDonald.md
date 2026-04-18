@@ -6,6 +6,3 @@ tags:
 ---
 
 Identified the Lockheed Martin Helendale plant as a hidden test location and described the Tehachapi Triangle craft; contracted by Fox Network for X-Files render
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

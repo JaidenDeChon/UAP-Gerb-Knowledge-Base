@@ -6,6 +6,3 @@ tags:
 ---
 
 Coordinates with SAF/AQR on Air Force RDT&E SAPs and monitors new technologies
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

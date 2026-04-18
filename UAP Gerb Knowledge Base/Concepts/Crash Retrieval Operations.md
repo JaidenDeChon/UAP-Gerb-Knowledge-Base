@@ -5,6 +5,3 @@ tags:
 ---
 
 Military or government operations to recover downed UAP craft and any occupants or materials.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 David Grusch cited this period as the impetus for private contractors using IRAD to develop their own near-independent UAP programs.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

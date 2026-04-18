@@ -43,6 +43,3 @@ The Aurora crash occurred during the height of the [[Mystery Airship Craze]] —
 ## Sources
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

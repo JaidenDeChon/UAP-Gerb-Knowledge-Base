@@ -6,6 +6,3 @@ tags:
 ---
 
 Arrived at the crash scene and warned oil workers to get away from the disc
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

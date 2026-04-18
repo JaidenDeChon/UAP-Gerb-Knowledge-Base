@@ -6,6 +6,3 @@ tags:
 ---
 
 Holds patents for inertial mass reduction craft featuring a triangle with a large concave center, associated with Pax River, filed around 2017
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

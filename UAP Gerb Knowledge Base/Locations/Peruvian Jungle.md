@@ -5,6 +5,3 @@ tags:
 ---
 
 Location where the alleged UFO crash retrieval encounter took place during Operation Laser Strike in 1997.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

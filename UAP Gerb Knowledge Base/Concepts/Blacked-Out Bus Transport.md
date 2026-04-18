@@ -5,6 +5,3 @@ tags:
 ---
 
 A security measure used to transport witnesses to the Kingman crash site with curtained and papered windows to obscure their destination.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

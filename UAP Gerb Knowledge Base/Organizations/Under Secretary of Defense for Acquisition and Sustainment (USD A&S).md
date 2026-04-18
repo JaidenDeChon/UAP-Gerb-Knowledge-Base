@@ -6,6 +6,3 @@ tags:
 ---
 
 Identified as integral administrator to NRO UFO legacy programs; partners with SAF/AQ
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -20,6 +20,3 @@ Additionally, [[Edgar Fuché]] named Teledyne Ryan as one of the primary contrac
 ## Sources
 
 - [[Video - UFO Legacy Programs - Northrop Grumman]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

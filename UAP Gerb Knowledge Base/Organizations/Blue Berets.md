@@ -68,6 +68,3 @@ However, the speed and scale of the military response at Kecksburg, combined wit
 
 - Leonard Stringfield, *Crash Retrievals of the Third Kind* and *UFO Crash Retrieval: The Inner Sanctum* series
 - [[Video - The 1965 Kecksburg, Pennsylvania UFO Crash]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

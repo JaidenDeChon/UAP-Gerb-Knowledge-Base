@@ -5,6 +5,3 @@ tags:
 ---
 
 Wagant reported sensing or perceiving non-human beings calling out for help from the downed craft, a detail that profoundly affected him psychologically.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

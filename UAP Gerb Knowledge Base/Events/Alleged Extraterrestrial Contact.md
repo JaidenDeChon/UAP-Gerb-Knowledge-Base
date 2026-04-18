@@ -6,6 +6,3 @@ tags:
 ---
 
 Exhibit personnel referenced a 1947 contact in which extraterrestrials reportedly told humanity they had no right to use nuclear weapons; described as a cease and desist communication.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 Jonathan Wagant and fellow Marines encountered a craft and non-human entities, then were intercepted, detained at gunpoint, and stripped of gear by unknown operators arriving in CH47 helicopters
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -5,6 +5,3 @@ tags:
 ---
 
 Non-human craft and materials allegedly retrieved and studied within legacy programs.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

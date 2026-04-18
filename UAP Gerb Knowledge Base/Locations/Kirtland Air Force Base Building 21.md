@@ -5,6 +5,3 @@ tags:
 ---
 
 Designated destination for media, electronic recordings, maps, and charts recovered from crash sites
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

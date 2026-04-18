@@ -6,6 +6,3 @@ tags:
 ---
 
 Directorate under SAF/AQ managing the deepest special access programs
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

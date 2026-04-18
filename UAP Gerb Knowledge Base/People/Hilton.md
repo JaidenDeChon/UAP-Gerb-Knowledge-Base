@@ -6,6 +6,3 @@ tags:
 ---
 
 Conducted interviews with Edgar Fouche, later claimed Fouche lied about everything, and made controversial statements about working for a monitoring agency
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

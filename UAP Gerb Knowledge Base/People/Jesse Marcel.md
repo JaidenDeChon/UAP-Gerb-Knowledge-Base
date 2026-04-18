@@ -21,10 +21,12 @@ In 1978, UFO researcher Stanton Friedman interviewed Marcel, who broke his silen
 
 Marcel is cited as an example of the broader government pattern of silencing military witnesses to UAP-related events. Men in military uniform — rather than the suit-clad [[Men in Black]] of UFO folklore — prevented Marcel and other Roswell witnesses from freely discussing what they observed, paralleling the suppression experienced by [[Robert Jacobs]] and others.
 
+## Connection to Battelle Nitinol Research
+
+Marcel's description of anomalous debris — exceedingly light metallic foil that returned to its original shape after being deformed — corresponds to the material properties of [[Nitinol (Nickel-Titanium Alloy)]], a shape-memory alloy not officially discovered until 1961. [[Battelle Memorial Institute]] was contracted by [[Wright-Patterson Air Force Base]] in 1949 to analyze a nickel-titanium shape-memory alloy. UAP researchers argue that Marcel's description of the Roswell debris, combined with the material's transport to Wright-Patterson and Battelle's 1949 classified contract research on the same type of alloy, constitutes a traceable chain from crash retrieval to private-sector material analysis.
+
 ## Sources
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
 - [[Video - The 1953 Kingman, Arizona UFO Crash]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+- [[Video - UFOs in the Private Sector - Battelle Memorial Institute]]

@@ -6,6 +6,3 @@ tags:
 ---
 
 Provided FOIA documents corroborating Cosmos 96's entry over Canada on December 9, 1965
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

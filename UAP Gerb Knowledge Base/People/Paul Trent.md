@@ -21,6 +21,3 @@ Trent's photographs, taken with a standard consumer camera, remain significant p
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
 - [[Video - Incredible UFO Footage - FLYBY]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

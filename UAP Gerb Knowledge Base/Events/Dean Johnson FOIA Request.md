@@ -5,6 +5,3 @@ tags:
 ---
 
 Referenced alongside the AARO report as a significant recent UAP-related development.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

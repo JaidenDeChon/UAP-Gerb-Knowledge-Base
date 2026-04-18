@@ -5,6 +5,3 @@ tags:
 ---
 
 Claim that individuals, and sometimes their families, have been killed to maintain secrecy around UAP programs.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

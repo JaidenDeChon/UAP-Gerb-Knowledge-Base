@@ -6,6 +6,3 @@ tags:
 ---
 
 Person to whom the subject sent a photograph that was published in the Daily Mail
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 Inman appointed to Caltech's board of trustees on behalf of JPL, NASA, and Congress.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

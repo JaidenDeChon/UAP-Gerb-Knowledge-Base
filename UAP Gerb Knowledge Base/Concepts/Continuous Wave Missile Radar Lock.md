@@ -5,6 +5,3 @@ tags:
 ---
 
 The onboard alert system warned pilot Kamaro he was being actively locked on by a continuous wave missile radar, apparently from the UFO.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -32,6 +32,3 @@ The 1952 Washington DC incidents represent a direct chain of causation from docu
 ## Sources
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

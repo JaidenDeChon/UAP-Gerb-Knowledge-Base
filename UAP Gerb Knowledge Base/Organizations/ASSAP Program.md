@@ -6,6 +6,3 @@ tags:
 ---
 
 Referenced in context of a 2008 failed attempt by Lockheed Martin to divest recovered NHI materials
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

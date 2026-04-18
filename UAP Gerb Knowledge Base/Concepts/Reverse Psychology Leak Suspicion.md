@@ -5,6 +5,3 @@ tags:
 ---
 
 Joey's concern that Michael may have been feeding him sensitive information under the guise of confidentiality in order to get it publicly leaked.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

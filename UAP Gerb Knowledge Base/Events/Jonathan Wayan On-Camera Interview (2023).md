@@ -6,6 +6,3 @@ tags:
 ---
 
 Wayan participated in new exclusive on-camera conversations, the first significant new disclosure since 2000.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 Shortly after reports of a circular craft on the ground emerged, Mexican military imposed radio silence on all search communications.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

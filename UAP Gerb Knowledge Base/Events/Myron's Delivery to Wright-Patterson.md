@@ -6,6 +6,3 @@ tags:
 ---
 
 Myron and JS delivered glazed bricks to Wright-Patterson and allegedly witnessed a Bell-shaped craft and alien body in a warehouse.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

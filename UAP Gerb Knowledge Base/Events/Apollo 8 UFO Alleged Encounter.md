@@ -6,6 +6,3 @@ tags:
 ---
 
 Claims exist, connected to Steven Greer, of an Apollo 8 film depicting UFOs descending onto the moon's surface; possibly related to Harland Bentley's claims.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

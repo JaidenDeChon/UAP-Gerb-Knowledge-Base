@@ -6,6 +6,3 @@ tags:
 ---
 
 Public report detailing DPG's economic contributions, workforce, and partner agencies.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

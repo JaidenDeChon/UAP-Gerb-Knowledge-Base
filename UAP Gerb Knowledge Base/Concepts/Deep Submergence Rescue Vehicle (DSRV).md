@@ -5,6 +5,3 @@ tags:
 ---
 
 Clandestine submersibles developed under the DSSP capable of deep sea retrieval operations, with acknowledged units named Mystic and Avalon.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

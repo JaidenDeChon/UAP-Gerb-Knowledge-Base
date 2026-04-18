@@ -46,6 +46,3 @@ Bush's description of controlled flight maneuvers and the sulfuric odor add impo
 
 - [[Video - The 1965 Kecksburg, Pennsylvania UFO Crash]]
 - Stan Gordon, *Kecksburg: The Untold Story* (1998)
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

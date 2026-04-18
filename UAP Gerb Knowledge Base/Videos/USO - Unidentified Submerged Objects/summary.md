@@ -39,12 +39,12 @@ The video provides a comprehensive overview of Unidentified Submerged Objects (U
 ## Concepts
 - [[Unidentified Submerged Object (USO)]] — Unidentified objects observed operating underwater or transitioning between air and water, treated as a counterpart to UAP in maritime contexts.
 - [[Trans-Medium Vehicle]] — Objects capable of operating across multiple mediums such as air, water, and space; defined as such in congressional legislation regarding UAP.
-- [[Unknown Unknowns]] — A concept used by Galet to describe undiscovered phenomena associated with UAP and USOs that current science has not yet identified or categorized.
+- Unknown Unknowns — A concept used by Galet to describe undiscovered phenomena associated with UAP and USOs that current science has not yet identified or categorized.
 - [[Air-Water Interface Crossing]] — The ability of observed UAP/USOs to enter and exit bodies of water without significant deceleration, considered physically impossible for known human-made technology.
 - [[Puerto Rican Trench]] — The second deepest part of the ocean, located near Puerto Rico, referenced in the context of a USO encounter during a Navy cruise missile recovery operation.
 - [[USO (Unidentified Submerged Object)]] — Unidentified objects observed entering, exiting, or operating underwater, analogous to UAP but in aquatic environments
 - [[Tic Tac UFO]] — A descriptor for UAP shaped like a Tic Tac candy, white and oblong, associated with multiple Navy sightings
-- [[Fata Morgana]] — A complex optical mirage appearing above the horizon, proposed by some as an explanation for the USS Trepang images
+- Fata Morgana — A complex optical mirage appearing above the horizon, proposed by some as an explanation for the USS Trepang images
 - [[Photo Tampering  Enhancement]] — The alteration or enhancement of photographs for print publication, relevant to evaluating the authenticity of the USS Trepang images
 - [[Project Blue Book]] — US Air Force program that investigated UFO reports; mentioned as a source for officially reported USO cases
 - [[Security Oaths]] — Military or government secrecy agreements that may prevent witnesses from disclosing UAP encounters

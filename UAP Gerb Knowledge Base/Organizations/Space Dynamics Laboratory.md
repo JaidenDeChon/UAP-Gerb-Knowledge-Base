@@ -6,6 +6,3 @@ tags:
 ---
 
 University Affiliated Research Center operated by Utah State University for the Missile Defense Agency, present at Dugway
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

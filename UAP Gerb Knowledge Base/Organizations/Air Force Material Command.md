@@ -6,6 +6,3 @@ tags:
 ---
 
 The Air Force's largest command responsible for the full lifecycle of Air Force systems; considered the most critical target in UAP legacy program research
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

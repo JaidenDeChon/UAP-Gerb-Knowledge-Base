@@ -6,6 +6,3 @@ tags:
 ---
 
 Created in 1958 to consolidate all Army research and development under one department, headed by Lieutenant General Trudeau
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -10,6 +10,3 @@ Project Grudge was the second official United States Air Force investigation int
 ## Sources
 
 - [[Video - Global Air Force UFO Encounters You've Probably Never Heard of]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

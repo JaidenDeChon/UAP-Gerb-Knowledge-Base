@@ -6,6 +6,3 @@ tags:
 ---
 
 Brown authored the Immaculate Constellation report and referenced NRO Sentient as a key intelligence resource
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

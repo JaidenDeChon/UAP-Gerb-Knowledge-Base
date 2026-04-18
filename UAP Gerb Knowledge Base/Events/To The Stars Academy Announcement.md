@@ -6,6 +6,3 @@ tags:
 ---
 
 Tom DeLonge appeared on Joe Rogan episode 1 discussing the inception of TTSA and its advisory team
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -5,6 +5,3 @@ tags:
 ---
 
 An advanced aeronautics concept mentioned by Lockheed, suggesting structures that conduct information through the material itself rather than separate wiring.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

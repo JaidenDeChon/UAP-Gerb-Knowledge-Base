@@ -5,6 +5,3 @@ tags:
 ---
 
 A mission in which Marines provided security for heavy lift helicopter supply deliveries to remote villages, reportedly in a Muslim-dominant region identified as a major terrorist hotspot.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

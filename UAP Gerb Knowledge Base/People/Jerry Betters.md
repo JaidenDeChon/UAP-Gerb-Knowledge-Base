@@ -23,6 +23,3 @@ Betters represents one of the few witnesses who observed the object *after* it h
 
 - [[Video - The 1965 Kecksburg, Pennsylvania UFO Crash]]
 - Stan Gordon, *Kecksburg: The Untold Story* (1998)
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

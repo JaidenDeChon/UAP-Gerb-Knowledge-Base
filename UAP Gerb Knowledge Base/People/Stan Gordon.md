@@ -49,6 +49,3 @@ Gordon's work ensured that witness testimony — particularly that of [[Jim Roma
 - [[Video - The 1965 Kecksburg, Pennsylvania UFO Crash]]
 - Stan Gordon, *Kecksburg: The Untold Story* (1998)
 - Leonard Stringfield, *UFO Crash Retrievals: The Inner Sanctum* series
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

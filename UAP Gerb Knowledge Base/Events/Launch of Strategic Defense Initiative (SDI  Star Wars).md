@@ -6,6 +6,3 @@ tags:
 ---
 
 US missile defense research program launched by President Reagan; alleged to have served as a funding vehicle for UFO legacy programs via back-channeled contracts.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

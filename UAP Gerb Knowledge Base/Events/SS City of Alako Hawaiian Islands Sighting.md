@@ -6,6 +6,3 @@ tags:
 ---
 
 Three witnesses observed a bright object streak across the water, emit three flashes, and submerge; Blue Book labeled it a meteor.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 Captain and crew of the British India Company steamer Patna observed two enormous luminous rotating wheels on each side of the ship in the Persian Gulf.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

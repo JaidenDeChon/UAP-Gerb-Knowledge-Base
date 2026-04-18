@@ -6,6 +6,3 @@ tags:
 ---
 
 Referenced in connection with special forces presence in the region
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

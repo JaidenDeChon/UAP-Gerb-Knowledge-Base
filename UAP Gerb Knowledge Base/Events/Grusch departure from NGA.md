@@ -6,6 +6,3 @@ tags:
 ---
 
 Grusch left NGA in April, marking his information cutoff date for knowledge of UAP imagery collected there
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

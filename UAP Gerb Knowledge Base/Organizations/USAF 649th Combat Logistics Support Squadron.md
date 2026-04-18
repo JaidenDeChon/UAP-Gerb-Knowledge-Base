@@ -6,6 +6,3 @@ tags:
 ---
 
 Unit associated with personnel named in connection with Ikitos Detachment 5
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

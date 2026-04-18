@@ -6,6 +6,3 @@ tags:
 ---
 
 Interviewed Lou Elizondo in 2022 about military USO encounters
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

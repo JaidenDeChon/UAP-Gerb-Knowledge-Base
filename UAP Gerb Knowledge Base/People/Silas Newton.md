@@ -38,6 +38,3 @@ Newton maintained he was not the originator of the Aztec story but merely repeat
 ## Sources
 
 - [[Video - The 1948 Aztec, New Mexico UFO Crash Retrieval]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

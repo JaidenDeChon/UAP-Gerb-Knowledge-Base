@@ -29,6 +29,3 @@ The inclusion of Indigo Children in UFO and alien iceberg discussions typically 
 ## Sources
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

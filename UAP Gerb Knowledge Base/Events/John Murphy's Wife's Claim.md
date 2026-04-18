@@ -6,6 +6,3 @@ tags:
 ---
 
 John Murphy's wife claimed he had told her he entered the Kecksburg woods and witnessed a strange metallic object on the ground before his death.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

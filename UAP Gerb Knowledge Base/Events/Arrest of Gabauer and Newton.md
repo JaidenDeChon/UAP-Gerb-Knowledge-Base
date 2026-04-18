@@ -6,6 +6,3 @@ tags:
 ---
 
 Leo Gabauer was arrested in Phoenix and Silas Newton in Los Angeles on charges including interstate transportation of stolen property and worthless machinery.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

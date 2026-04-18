@@ -6,6 +6,3 @@ tags:
 ---
 
 Named as a possible high-level UFO legacy program gatekeeper with NRO connections
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -10,6 +10,3 @@ The Finnish Air Force (Ilmavoimat) is the aerial warfare branch of the [[Finnish
 ## Sources
 
 - [[Video - Global Air Force UFO Encounters You've Probably Never Heard of]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

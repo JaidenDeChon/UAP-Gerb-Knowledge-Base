@@ -54,6 +54,3 @@ Johnson's documented interest in UFOs as a Senator, his meetings the day after K
 - [[Video - The 1965 Kecksburg, Pennsylvania UFO Crash]]
 - Grant Cameron, Kecksburg case files and LBJ meeting schedules
 - Lou Elizondo, *Imminent* (2024)
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

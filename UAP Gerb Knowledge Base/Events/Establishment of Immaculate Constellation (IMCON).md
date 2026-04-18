@@ -6,6 +6,3 @@ tags:
 ---
 
 IMCON was established as a reactionary US Special Access Program to monitor nonhuman craft and derivative technologies
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 A press conference organized by Steven Greer where Clifford Stone testified about the Kecksburg incident
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

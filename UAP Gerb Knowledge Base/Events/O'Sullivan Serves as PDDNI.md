@@ -6,6 +6,3 @@ tags:
 ---
 
 O'Sullivan served as Principal Deputy Director of National Intelligence managing day-to-day IC operations from 2011 to 2017 under Clapper.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

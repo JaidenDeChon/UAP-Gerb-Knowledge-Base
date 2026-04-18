@@ -6,6 +6,3 @@ tags:
 ---
 
 Former DoD agency 2002-2008 where Luis Elizondo worked; one of the largest employers of private contractors in the intelligence community
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

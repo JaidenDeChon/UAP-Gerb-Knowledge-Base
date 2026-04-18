@@ -5,6 +5,3 @@ tags:
 ---
 
 An alleged Majestic 12 document purportedly written in 1952 detailing special operations procedures related to UAP recovery.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

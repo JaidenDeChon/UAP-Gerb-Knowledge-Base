@@ -6,6 +6,3 @@ tags:
 ---
 
 Corso allegedly saw a non-human biological entity at Fort Riley, described as having a different physiology from the one encountered at White Sands.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

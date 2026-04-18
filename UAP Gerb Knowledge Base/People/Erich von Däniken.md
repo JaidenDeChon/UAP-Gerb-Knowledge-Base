@@ -32,6 +32,3 @@ Despite academic rejection, von Däniken's work had an enormous cultural footpri
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

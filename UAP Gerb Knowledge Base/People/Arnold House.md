@@ -29,6 +29,3 @@ House stated he learned from his contacts:
 ## Sources
 
 - [[Video - UFO Legacy Programs - Northrop Grumman]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 A fireball observed by Jerry Betters and others near Kecksburg that agitated animals and prompted civilian investigation
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

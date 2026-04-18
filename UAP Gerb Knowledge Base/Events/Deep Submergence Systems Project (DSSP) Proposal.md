@@ -6,6 +6,3 @@ tags:
 ---
 
 A proposal for six DSRV and DSSV units; only DSRV units 1 (Mystic) and 2 (Avalon) were officially built.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

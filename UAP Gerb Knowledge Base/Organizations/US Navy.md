@@ -20,6 +20,3 @@ The [[Flyby Footage]] has been analyzed for potential connection to Navy operati
 ## Sources
 
 - [[Video - Incredible UFO Footage - FLYBY]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

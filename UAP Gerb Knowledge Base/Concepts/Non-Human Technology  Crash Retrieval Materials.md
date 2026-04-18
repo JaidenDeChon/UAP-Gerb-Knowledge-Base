@@ -5,6 +5,3 @@ tags:
 ---
 
 Physical materials allegedly recovered from UAP crash sites, held by contractors like Lockheed since the 1950s and described as beyond human comprehension.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 Referenced for commentary that UAP phenomena gets stranger the more it is studied
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

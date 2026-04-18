@@ -58,7 +58,7 @@ The primary alternative explanation proposed is that Kingman involved a USAF air
 - [[Ed Doll]] — Telephoned Fritz Warner on May 20th 1953 to inform him of a special assignment the following day
 - [[UAP Gerb]] — Host presenting and analyzing the Kingman UFO crash case
 - [[Robert Jacobs]] — Witness to UFO activity near nuclear test sites, referenced in connection to UFOs and nukes
-- [[Robert Salis]] — Witness to UFO activity near nuclear test sites alongside Robert Jacobs
+- [[Robert Salas]] — Witness to UFO activity near nuclear test sites alongside Robert Jacobs
 - [[Bill Uhouse]] — Whistleblower claiming to have worked on a flying disc simulator based on the Kingman crash craft
 - [[Steven Greer]] — Platformed Bill Uhouse and other whistleblowers through the Disclosure Project
 - [[Richard Gild Jr.]] — Conducted investigation that helped verify Bill Uhouse's military credentials
@@ -80,7 +80,7 @@ The primary alternative explanation proposed is that Kingman involved a USAF air
 ## Concepts
 - [[Crash Retrieval]] — The alleged recovery of crashed unidentified aerial objects and associated biological entities by government or military personnel.
 - [[UAP Mass Wave of 1952–1954]] — A documented period of significantly increased UAP sightings over the United States and globally, during which the Kingman incident allegedly occurred.
-- [[Sworn Affidavit]] — A legally witnessed written statement used to document Fritz Warner's testimony about the Kingman crash, providing a formal paper trail.
+- Sworn Affidavit — A legally witnessed written statement used to document Fritz Warner's testimony about the Kingman crash, providing a formal paper trail.
 - [[Non-human Biological Entity]] — A 4-foot tall humanoid with dark brown skin and a silvery metallic suit allegedly found dead near the Kingman crash site.
 - [[Brushed Aluminum-like Metal]] — The material described by Fritz Warner as comprising the crashed craft, notable for showing no damage despite high-speed impact.
 - [[Blacked-out Windows  Need-to-know Secrecy]] — Security measures used during transport of AEC specialists to the Kingman site, preventing them from knowing the location.

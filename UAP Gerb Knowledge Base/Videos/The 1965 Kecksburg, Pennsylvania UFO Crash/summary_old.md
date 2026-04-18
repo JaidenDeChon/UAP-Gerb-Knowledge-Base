@@ -237,7 +237,7 @@ The inability to penetrate the Kecksburg craft's hull using torches, drills, and
 - [[Military rapid response]] — Military personnel in full uniform arrived at the Kecksburg site within 15 minutes of civilian first responders, despite the nearest base being ~45 miles away.
 - [[SulfuricRotten Egg Smell]] — A strong sulfuric odor reported by witness Bully Bush at the Kecksburg crash site, similar to an ammonia smell reported in the 1997 Varginha Brazil case.
 - [[Hieroglyphic Markings]] — Strange writing or symbols observed on the back of the crashed object by multiple civilian witnesses at Kecksburg.
-- [[Chaff]] — Material dropped by aircraft to confuse radar; Blue Book's official classification of debris recovered from the Kecksburg site.
+- Chaff — Material dropped by aircraft to confuse radar; Blue Book's official classification of debris recovered from the Kecksburg site.
 - [[Bell or Acorn-Shaped Craft]] — The shape described by multiple Kecksburg witnesses for the downed object, roughly larger than a Volkswagen with a domed top.
 - [[Military Roadblock]] — A military checkpoint set up near the Kecksburg crash site to prevent civilians from approaching, with soldiers armed with rifles.
 - [[FOIA Requests]] — Freedom of Information Act requests used by Stan Gordon to obtain documents from US Space Command and other agencies regarding the Kecksburg event.
@@ -245,7 +245,7 @@ The inability to penetrate the Kecksburg craft's hull using torches, drills, and
 - [[Moon Suits]] — Protective suits reportedly worn by men observed exiting a box truck near the Kecksburg crash area, as described by witness Bill Weaver.
 - [[FOIA (Freedom of Information Act) Requests]] — Legal mechanism used by researchers like Stan Gordon and Leslie Keen to obtain government documents related to the Kecksburg incident.
 - [[Orbital Debris Analysis]] — Scientific analysis of spacecraft orbital data used by Nicholas Johnson to rule out Cosmos 96 and other man-made objects as the Kecksburg crash source.
-- [[Heat Shield Technology]] — The primary intelligence interest in recovered Soviet spacecraft; analysis could reveal ICBM warhead size and composition.
+- Heat Shield Technology — The primary intelligence interest in recovered Soviet spacecraft; analysis could reveal ICBM warhead size and composition.
 - [[Bell or Acorn-Shaped Craft]] — A reported shape of UAP associated with crash retrieval cases, described as distinct from saucers, Tic Tacs, or triangles and possibly remotely operated drones.
 - [[Crash Retrieval]] — The alleged recovery of crashed UAP or foreign spacecraft, associated with programs like Moondust, UFO, and Bluefly during the Cold War.
 - [[Kecksburg UFO Crash (Kbur)]] — A 1965 crash event in Kecksburg, Pennsylvania involving a bell-shaped object approximately 10–12 feet tall with a dull copper/bronze color, alleged to have been retrieved by the military.

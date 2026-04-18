@@ -5,6 +5,3 @@ tags:
 ---
 
 Referenced by Robert Wood as the current name for crash retrieval operations facility at Wright Patterson
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -37,6 +37,3 @@ The Men in Black became a staple of UFO folklore through books, films, and telev
 ## Sources
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

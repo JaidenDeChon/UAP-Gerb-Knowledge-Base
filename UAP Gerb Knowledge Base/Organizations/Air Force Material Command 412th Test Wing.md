@@ -6,6 +6,3 @@ tags:
 ---
 
 Oversees Edwards AFB's test pilot school, which trains pilots on experimental aerospace platforms
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

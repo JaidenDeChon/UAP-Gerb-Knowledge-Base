@@ -6,6 +6,3 @@ tags:
 ---
 
 Commander Ari Harris observed a milky white circular object in the sky off the Malabar Coast of India.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

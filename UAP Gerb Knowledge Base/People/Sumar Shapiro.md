@@ -18,6 +18,3 @@ Shapiro's account is significant for several reasons. His Naval intelligence sen
 ## Sources
 
 - [[Video - UFO Legacy Programs - Northrop Grumman]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

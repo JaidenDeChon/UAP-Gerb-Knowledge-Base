@@ -6,6 +6,3 @@ tags:
 ---
 
 Air Force MRTFB at Edwards Air Force Base; alleged to house derivative technologies/ARV program
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

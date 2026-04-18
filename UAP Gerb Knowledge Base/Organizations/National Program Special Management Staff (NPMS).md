@@ -6,6 +6,3 @@ tags:
 ---
 
 Coordinates National Security Council SAPs with the DoD and Intelligence Community; falls under USD/INS and its sensitive activities and special programs division
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

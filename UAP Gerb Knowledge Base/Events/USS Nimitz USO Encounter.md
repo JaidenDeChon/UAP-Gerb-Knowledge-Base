@@ -6,6 +6,3 @@ tags:
 ---
 
 Petty Officer Kevin Thomas claimed to witness a large black triangle approximately 1 km in length rise from the ocean and shoot vertically into the sky
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 Ryder served as VP of Lockheed Martin Space Systems Company and head of the Advanced Technology Center from 2004 to 2011.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

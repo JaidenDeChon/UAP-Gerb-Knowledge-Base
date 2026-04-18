@@ -5,6 +5,3 @@ tags:
 ---
 
 Speculated staging location for a dedicated South American UAP retrieval team.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

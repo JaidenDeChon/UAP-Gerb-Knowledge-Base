@@ -6,6 +6,3 @@ tags:
 ---
 
 Produced a 1953 document interviewing Master Sergeant Ralph Brown about flying saucers at Wright-Patterson
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

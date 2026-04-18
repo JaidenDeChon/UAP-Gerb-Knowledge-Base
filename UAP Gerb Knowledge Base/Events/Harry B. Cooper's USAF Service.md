@@ -6,6 +6,3 @@ tags:
 ---
 
 Cooper served at Ent Air Force Base from September 30, 1957 to June 1, 1963, photographing UFOs and printing classified documents.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

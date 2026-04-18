@@ -34,6 +34,3 @@ The Guy Hottel Memo is cited as early documentary evidence that the FBI was rece
 ## Sources
 
 - [[Video - The 1950s Del Rio, Texas UFO Crashes]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

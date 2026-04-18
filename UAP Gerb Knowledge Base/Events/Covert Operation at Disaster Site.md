@@ -6,6 +6,3 @@ tags:
 ---
 
 A covert operation involving black up-armored trucks, cylindrical containers, and armed personnel occurred approximately 9-10 days after the earthquake
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

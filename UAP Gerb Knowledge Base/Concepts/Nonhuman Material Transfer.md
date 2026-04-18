@@ -5,6 +5,3 @@ tags:
 ---
 
 The alleged process of transferring recovered nonhuman craft or materials between contractors or to government-sponsored programs via a prospective Special Access Program.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

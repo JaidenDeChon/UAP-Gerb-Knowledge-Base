@@ -6,6 +6,3 @@ tags:
 ---
 
 Newspaper clipping confirms William G. Uhouse's reenlistment with the Marine Corps
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -47,6 +47,3 @@ Zodiac likely operated in the "Classified Tier," conducting field operations whi
 ## Sources
 
 - [[Video - MOON DUST - The Pentagon's Secret UFO Programs]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 Home institution of Nicholas Johnson, who analyzed orbital debris data related to the Kecksburg crash
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

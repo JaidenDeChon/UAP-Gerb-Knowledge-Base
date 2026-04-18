@@ -6,6 +6,3 @@ tags:
 ---
 
 Described as ordering firemen to leave the Kecksburg crash site
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 Analyzed UAP flight characteristics including Tic Tac acceleration and power output calculations
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -27,6 +27,3 @@ The US 6th Fleet explanation represents a common pattern in UFO case explanation
 ## Sources
 
 - [[Video - The First Commercial Flight Grounded Due to UFOs]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

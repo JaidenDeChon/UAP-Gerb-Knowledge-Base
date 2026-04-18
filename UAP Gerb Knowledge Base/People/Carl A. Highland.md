@@ -28,6 +28,3 @@ Researcher Richard Ogden independently arrived at Highland as a candidate for "D
 ## Sources
 
 - [[Video - The 1948 Aztec, New Mexico UFO Crash Retrieval]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

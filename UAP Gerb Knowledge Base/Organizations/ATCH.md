@@ -6,6 +6,3 @@ tags:
 ---
 
 Believed to have had scientists present around the craft during the dismantling observation
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

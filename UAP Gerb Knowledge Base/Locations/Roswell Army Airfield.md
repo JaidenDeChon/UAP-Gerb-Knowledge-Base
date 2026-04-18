@@ -18,6 +18,3 @@ In July 1947, reports of unusual debris from Foster Ranch moved through Roswell 
 
 - [[Video - UFO Whistleblowers Vol.1]]
 - [[Video - The 1948 Aztec, New Mexico UFO Crash Retrieval]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

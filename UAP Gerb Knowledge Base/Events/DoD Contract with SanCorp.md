@@ -6,6 +6,3 @@ tags:
 ---
 
 AARO under Kirkpatrick engaged SanCorp, a company specializing in plugging whistleblower leaks.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

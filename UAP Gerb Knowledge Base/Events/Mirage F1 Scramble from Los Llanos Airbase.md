@@ -6,6 +6,3 @@ tags:
 ---
 
 Pilot Fernando Kamaro was dispatched at 0400 hours to intercept and identify the UFOs; he pursued objects for nearly an hour and a half before returning due to low fuel.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

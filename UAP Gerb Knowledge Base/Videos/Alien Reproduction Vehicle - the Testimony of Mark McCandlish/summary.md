@@ -84,11 +84,11 @@ The video, hosted by UAP researcher "UAP Gerb," presents a deep-dive investigati
 - [[Pulse Detonation Engines]] — Secondary propulsion system used by the Aurora craft to accelerate to speeds of Mach 6–8 after internal fuselage engines lifted it into the air.
 - [[Aurora Craft]] — Unmanned elongated football-shaped aircraft approximately 100–110 ft in length with dual propulsion; officials claimed it could strike every major Soviet city within 80 minutes.
 - [[Black Budget Projects]] — Classified military programs funded through non-transparent appropriations; the exhibit was intended to attract investors and secure billions in funding for such programs.
-- [[Depleted Uranium Shells]] — Munitions discussed during the classified air show alongside VTOL craft demonstrations.
-- [[Vertical Takeoff and Landing (VTOL)]] — Aircraft capability demonstrated at the exhibit; the V-22 Osprey was among the VTOL craft present.
+- Depleted Uranium Shells — Munitions discussed during the classified air show alongside VTOL craft demonstrations.
+- Vertical Takeoff and Landing (VTOL) — Aircraft capability demonstrated at the exhibit; the V-22 Osprey was among the VTOL craft present.
 - [[Capacitor Plates]] — Components of the ARV propulsion system used to store and allocate power for gravity-based travel.
 - [[Cease and Desist Contact]] — Alleged communication from extraterrestrial beings in 1947 warning humanity to stop using nuclear weapons, referenced by exhibit personnel when explaining ARV origins.
-- [[Scramjet Technology]] — Advanced jet propulsion technology; Mark referenced its components to design a high-speed aircraft concept
+- Scramjet Technology — Advanced jet propulsion technology; Mark referenced its components to design a high-speed aircraft concept
 - [[TR-3B Black Manta]] — Alleged triangular craft reportedly constructed by Northrop Grumman, associated with anti-gravity technology
 - [[Great Pumpkin]] — Alleged anti-gravity disc reportedly developed at Northrop Grumman's Advanced Concepts and Technologies Division in Palmdale
 - [[Tesla Coil Electromagnetic Fields]] — The ARV allegedly generated three distinct electromagnetic fields via Tesla coil primary windings, center windings, and a low-temperature plasma ring

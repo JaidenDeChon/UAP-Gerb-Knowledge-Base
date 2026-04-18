@@ -28,6 +28,3 @@ The OSS is a documented historical institution, but the specific claim that it r
 ## Sources
 
 - [[Video - The 1933 Magenta, Italy UFO Crash]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

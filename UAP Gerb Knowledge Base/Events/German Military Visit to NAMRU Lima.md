@@ -6,6 +6,3 @@ tags:
 ---
 
 Example cited to illustrate the multinational presence at NAMRU's Lima location
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

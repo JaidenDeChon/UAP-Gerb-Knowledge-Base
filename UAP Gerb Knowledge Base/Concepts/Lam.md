@@ -23,6 +23,3 @@ Crowley's subsequent magical successors, particularly Jack Parsons and L. Ron Hu
 ## Sources
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

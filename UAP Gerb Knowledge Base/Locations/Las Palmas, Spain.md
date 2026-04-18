@@ -5,6 +5,3 @@ tags:
 ---
 
 Intended destination of TAE flight JK 297.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

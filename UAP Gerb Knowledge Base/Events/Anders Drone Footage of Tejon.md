@@ -6,6 +6,3 @@ tags:
 ---
 
 Anders of Uncanny Expeditions obtained drone footage of Tejon RCS runways and pylons without entering the main campus
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

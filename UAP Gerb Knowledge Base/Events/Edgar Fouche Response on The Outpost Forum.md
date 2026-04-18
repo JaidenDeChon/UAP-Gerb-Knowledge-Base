@@ -6,6 +6,3 @@ tags:
 ---
 
 Fouche responded to Hilton's accusations, defending his documents against claims of small inconsistencies.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 Catherine Austin Fitts published this paper outlining illegal diversion of national wealth into secret military R&D channels.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

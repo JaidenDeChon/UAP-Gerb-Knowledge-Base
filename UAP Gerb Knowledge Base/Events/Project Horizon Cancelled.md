@@ -6,6 +6,3 @@ tags:
 ---
 
 Army and DOD project to build a moon base, killed when NASA was founded.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

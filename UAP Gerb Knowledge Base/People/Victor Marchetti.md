@@ -6,6 +6,3 @@ tags:
 ---
 
 Quoted referencing 'little gray men' whose ships crashed or were shot down being kept on ice by the Air Force
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

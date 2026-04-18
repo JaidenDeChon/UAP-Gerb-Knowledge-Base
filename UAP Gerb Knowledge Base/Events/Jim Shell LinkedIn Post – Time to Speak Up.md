@@ -6,6 +6,3 @@ tags:
 ---
 
 Shell publicly alleged an unauthorized security control system was interfering with US Space Force and Space Command missions and connected it to UAP activity
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

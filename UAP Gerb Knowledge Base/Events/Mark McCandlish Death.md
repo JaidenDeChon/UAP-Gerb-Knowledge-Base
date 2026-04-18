@@ -6,6 +6,3 @@ tags:
 ---
 
 Mark McCandlish died in a controversial and allegedly self-inflicted gunshot wound; Brad implied his disclosures got him killed.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

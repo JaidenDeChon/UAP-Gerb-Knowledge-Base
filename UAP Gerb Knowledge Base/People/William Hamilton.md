@@ -23,6 +23,3 @@ Hamilton drew serious early research attention to the Antelope Valley region of 
 ## Sources
 
 - [[Video - UFO Legacy Programs - Northrop Grumman]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

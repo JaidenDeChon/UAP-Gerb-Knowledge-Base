@@ -19,6 +19,3 @@ Because of its established aeronautical footprint, Varese appears in UAP account
 ## Sources
 
 - [[Video - The 1933 Magenta, Italy UFO Crash]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

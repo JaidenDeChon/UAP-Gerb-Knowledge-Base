@@ -6,6 +6,3 @@ tags:
 ---
 
 Major funder of West Desert Test Center; also connected to specific contractors of interest at Dugway and the witness's story
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

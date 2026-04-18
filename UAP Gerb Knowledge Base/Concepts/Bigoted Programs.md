@@ -5,6 +5,3 @@ tags:
 ---
 
 Highly restricted programs where access is strictly limited to specific individuals, used to maintain compartmentalization of legacy operations.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

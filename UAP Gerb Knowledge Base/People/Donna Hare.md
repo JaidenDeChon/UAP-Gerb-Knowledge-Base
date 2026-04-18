@@ -18,6 +18,3 @@ Her account directly informed [[Gary McKinnon]]'s decision to target Building 8 
 ## Sources
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

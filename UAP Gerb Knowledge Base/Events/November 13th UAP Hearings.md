@@ -6,6 +6,3 @@ tags:
 ---
 
 Hearings the speaker plans to attend and provide live coverage from
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

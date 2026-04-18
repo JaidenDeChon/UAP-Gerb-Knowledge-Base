@@ -6,6 +6,3 @@ tags:
 ---
 
 Acquired by Northrop Grumman in 2018, integrated into the NGIS sector
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

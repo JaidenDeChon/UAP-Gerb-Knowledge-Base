@@ -31,6 +31,3 @@ In UAP research circles, SETI is criticized for its institutional tendency to ig
 ## Sources
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

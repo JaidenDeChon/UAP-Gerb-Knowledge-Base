@@ -5,6 +5,3 @@ tags:
 ---
 
 The encounter took place in Iraq, where the Marine technicians were deployed.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

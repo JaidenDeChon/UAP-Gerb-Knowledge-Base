@@ -6,6 +6,3 @@ tags:
 ---
 
 Event where McCandlish presented his line art design of the Alien Reproduction Vehicle/flux liner to a public audience.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

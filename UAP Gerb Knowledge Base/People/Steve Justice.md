@@ -6,6 +6,3 @@ tags:
 ---
 
 Joined TTSA after retiring from Lockheed Skunk Works, announced plans to build advanced aerospace technology
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

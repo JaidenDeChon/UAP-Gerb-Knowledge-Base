@@ -6,6 +6,3 @@ tags:
 ---
 
 Co-interrogated Kohler alongside Special Agent Hansen
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

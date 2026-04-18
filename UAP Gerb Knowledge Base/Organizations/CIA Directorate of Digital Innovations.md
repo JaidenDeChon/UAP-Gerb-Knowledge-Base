@@ -6,6 +6,3 @@ tags:
 ---
 
 Cited as likely unaware of UFO legacy programs involving other CIA directorates, illustrating compartmentalization
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

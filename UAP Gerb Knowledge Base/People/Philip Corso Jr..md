@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Philip Corso Jr. is the son of retired U.S. Army Lieutenant Colonel [[Philip J. Corso]]. He released his father's original unfiltered manuscript *[[Dawn of a New Age]]* in Italy in 2003 and in the United States in 2011, years after his father's death in 1998, specifically to correct inaccuracies and embellishments in the bestselling book *[[The Day After Roswell]]* that had made Corso Sr. furious during his lifetime.
+Philip Corso Jr. is the son of retired U.S. Army Lieutenant Colonel [[Philip J. Corso]]. He released his father's original unfiltered manuscript *Dawn of a New Age* in Italy in 2003 and in the United States in 2011, years after his father's death in 1998, specifically to correct inaccuracies and embellishments in the bestselling book *[[The Day After Roswell]]* that had made Corso Sr. furious during his lifetime.
 
 ## Release of Dawn of a New Age
 

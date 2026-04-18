@@ -5,6 +5,3 @@ tags:
 ---
 
 Technologies believed to be of non-human origin; the speaker speculates SAF/AQ would oversee programs related to their recovery, storage, exploitation, and derivation.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

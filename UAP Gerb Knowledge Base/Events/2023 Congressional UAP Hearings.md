@@ -6,6 +6,3 @@ tags:
 ---
 
 Referenced as a modern milestone in UAP disclosure, preceded by Corso's earlier whistleblowing decades prior
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

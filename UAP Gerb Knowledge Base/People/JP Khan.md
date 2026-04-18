@@ -6,6 +6,3 @@ tags:
 ---
 
 Published a 1952 debunking piece that effectively labeled the Aztec crash a hoax and discredited Newton and Scully
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

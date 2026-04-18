@@ -6,6 +6,3 @@ tags:
 ---
 
 Referenced as an organization whose member served as a logistics coordinator for crash retrieval
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

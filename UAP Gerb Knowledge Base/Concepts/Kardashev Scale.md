@@ -33,6 +33,3 @@ The Kardashev Scale is relevant to UAP research because it provides a framework 
 ## Sources
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

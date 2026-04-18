@@ -6,6 +6,3 @@ tags:
 ---
 
 Group Corso was connected with, referenced in context of discrediting his technology claims
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

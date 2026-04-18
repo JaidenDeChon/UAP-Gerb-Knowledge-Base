@@ -6,6 +6,3 @@ tags:
 ---
 
 Another CIA unit where Sturdivant worked before moving to the SSCI
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 Devastating natural disaster that prompted a US humanitarian relief mission to Indonesia, during which Herrera claims to have encountered a UAP
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -26,6 +26,3 @@ Case's report classified the investigation as inconclusive but explicitly declin
 ## Sources
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

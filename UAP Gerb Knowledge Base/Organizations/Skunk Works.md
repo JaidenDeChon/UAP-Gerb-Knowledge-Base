@@ -6,6 +6,3 @@ tags:
 ---
 
 Lockheed Martin's Advanced Development Projects department, associated with highly classified UAP-related research and development
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

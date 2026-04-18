@@ -34,6 +34,3 @@ Without release of the material, the existence and content of the video cannot b
 ## Sources
 
 - [[Video - The 1974 Coyame, Mexico UFO Crash]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

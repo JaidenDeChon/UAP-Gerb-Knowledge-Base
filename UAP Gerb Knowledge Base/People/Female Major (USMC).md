@@ -6,6 +6,3 @@ tags:
 ---
 
 Briefed volunteers in the wardroom, showed pictures of Obama and his family members during the briefing
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

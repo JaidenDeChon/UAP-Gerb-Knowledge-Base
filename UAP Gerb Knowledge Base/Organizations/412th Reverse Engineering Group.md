@@ -6,6 +6,3 @@ tags:
 ---
 
 Alleged group at Edwards and Nellis implicated in ARV reverse engineering programs
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

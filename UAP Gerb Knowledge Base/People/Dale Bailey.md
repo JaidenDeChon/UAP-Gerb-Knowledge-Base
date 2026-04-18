@@ -6,6 +6,3 @@ tags:
 ---
 
 Alleges he saw the SOM 1-01 manual while assisting in destruction of classified UFO material for an admiral in 1976
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

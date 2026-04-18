@@ -6,6 +6,3 @@ tags:
 ---
 
 USAF Colonel Eddie Anderson confirmed in a FOIA response that materials related to the Blue Room, including film, were destroyed on this date.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

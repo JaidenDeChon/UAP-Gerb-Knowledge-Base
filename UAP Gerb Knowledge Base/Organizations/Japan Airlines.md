@@ -6,6 +6,3 @@ tags:
 ---
 
 Crew witnessed and reported a large UFO encounter on November 17, 1986
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

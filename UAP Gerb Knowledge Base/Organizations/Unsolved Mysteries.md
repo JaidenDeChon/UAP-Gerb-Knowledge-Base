@@ -6,6 +6,3 @@ tags:
 ---
 
 TV program that featured a report on the Kecksburg incident including community witness accounts
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

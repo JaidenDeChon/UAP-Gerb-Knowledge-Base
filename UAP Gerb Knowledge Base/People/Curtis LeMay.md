@@ -35,10 +35,11 @@ LeMay was succeeded by General [[John P. McConnell]] in February 1965. Notably, 
 
 General LeMay's role in creating the blue-bereted SAC Elite Guard, his denial of Blue Room access, and his tenure as Air Force Chief of Staff during critical UAP incidents position him as a central figure in the institutional management of UFO secrecy. His actions suggest he wielded significant authority over access to retrieved materials and was directly involved in compartmentalizing UAP-related information even from senior Congressional and military figures.
 
+## James Conley Air Force Base Incident
+
+The July 1999 MUFON UFO Journal cites an incident in which LeMay was present at James Conley Air Force Base during a close encounter between an F-89J Scorpion aircraft and a 30-foot UFO with four blue-white lights. After a near collision, the object departed vertically and disappeared at 990,000 feet altitude. LeMay's presence at the scene of a documented UFO encounter further reinforces his connection to the institutional management of these incidents.
+
 ## Sources
 
 - [[Video - The 1965 Kecksburg, Pennsylvania UFO Crash]]
-- Senator Barry Goldwater interviews on Wright-Patterson denial
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+- [[Video - UFO Whistleblowers Vol.2]]

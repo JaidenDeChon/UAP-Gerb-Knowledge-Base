@@ -5,6 +5,3 @@ tags:
 ---
 
 Speculated area of study for a DOD chemist, involving analysis of the brushed metal and seamless materials of the observed craft.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

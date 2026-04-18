@@ -6,6 +6,3 @@ tags:
 ---
 
 Corso claimed to have received a file containing field reports, autopsy reports, and technical debris related to the 1947 Roswell crash.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

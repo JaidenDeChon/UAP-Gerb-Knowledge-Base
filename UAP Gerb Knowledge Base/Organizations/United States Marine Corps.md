@@ -14,6 +14,3 @@ Castle and multiple other Marines were present during the triangular craft encou
 Jonathan Wayan's branch of service; Marines Atkins, Allen, and Montgre all had long careers there
 
 Branch Wagant served in; also relevant to Hawk missile battery usage history
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

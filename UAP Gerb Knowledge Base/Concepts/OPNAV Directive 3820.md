@@ -5,6 +5,3 @@ tags:
 ---
 
 A 1952 US Navy directive restricting the sharing of Navy UFO sightings to only specific authorized intelligence entities.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

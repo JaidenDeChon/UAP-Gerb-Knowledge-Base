@@ -20,6 +20,3 @@ The combination of multiple pilot eyewitnesses and independent radar corroborati
 ## Sources
 
 - [[Video - Global Air Force UFO Encounters You've Probably Never Heard of]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

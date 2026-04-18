@@ -5,6 +5,3 @@ tags:
 ---
 
 Alleged transition of UFO program management from government agencies to corporations, described as happening during or after Eisenhower's presidency.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

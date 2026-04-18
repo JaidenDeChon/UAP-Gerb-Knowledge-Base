@@ -23,6 +23,3 @@ UFO researcher [[Todd Zechel]] reportedly obtained a declassified USAF document 
 ## Sources
 
 - [[Video - The 1950s Del Rio, Texas UFO Crashes]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

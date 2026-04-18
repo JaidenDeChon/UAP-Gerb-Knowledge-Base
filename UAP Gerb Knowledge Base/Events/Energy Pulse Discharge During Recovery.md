@@ -5,6 +5,3 @@ tags:
 ---
 
 A recovered weapon-technology device discharged an energy pulse during its recovery, reportedly injuring at least one person.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

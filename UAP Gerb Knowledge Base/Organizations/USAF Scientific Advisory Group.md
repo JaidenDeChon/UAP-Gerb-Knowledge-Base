@@ -10,6 +10,3 @@ The USAF Scientific Advisory Group was a body of civilian scientific consultants
 ## Sources
 
 - [[Video - The Origin of the UFO Stigma]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 Contract to support NSWC Crane's hypersonic advanced concepts; article link was pulled from SAIC's site around June 2024.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

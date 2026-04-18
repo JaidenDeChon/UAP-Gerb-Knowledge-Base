@@ -5,6 +5,3 @@ tags:
 ---
 
 A recovered device described as weapon technology due to it having discharged an energy pulse during recovery, injuring personnel.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

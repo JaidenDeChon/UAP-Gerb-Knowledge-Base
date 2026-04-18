@@ -16,6 +16,3 @@ Like the other researchers named in the alleged leaked document, exhaustive sear
 ## Sources
 
 - [[Video - Incredible UFO Footage - FLYBY]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

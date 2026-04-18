@@ -16,6 +16,3 @@ The authenticity of the document remains unverified, and as the presenter notes,
 ## Sources
 
 - [[Video - Incredible UFO Footage - FLYBY]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

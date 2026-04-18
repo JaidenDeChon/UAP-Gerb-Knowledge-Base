@@ -6,6 +6,3 @@ tags:
 ---
 
 Alleged eyewitness to a 1991 undersea retrieval of an anomalous object in the North Atlantic near Aberdeen, Scotland
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

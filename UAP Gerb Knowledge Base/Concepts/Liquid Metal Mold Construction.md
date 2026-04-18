@@ -5,6 +5,3 @@ tags:
 ---
 
 Jim Romansky, a seasoned machinist, noted the object appeared to have been made from a liquid metal mold with no seams, rivets, doors, or windows.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 Wiler retired after a 36-year Army career and transitioned to civilian roles within the Air Force.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

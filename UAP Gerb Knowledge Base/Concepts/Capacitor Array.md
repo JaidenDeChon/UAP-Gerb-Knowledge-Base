@@ -5,6 +5,3 @@ tags:
 ---
 
 Large energy storage component estimated at roughly 14 inches thick, part of the ARV's propulsion system.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

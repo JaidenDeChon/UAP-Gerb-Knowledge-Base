@@ -16,6 +16,3 @@ Her account directly contradicts the eyewitness testimonies gathered by [[MUFON]
 ## Sources
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

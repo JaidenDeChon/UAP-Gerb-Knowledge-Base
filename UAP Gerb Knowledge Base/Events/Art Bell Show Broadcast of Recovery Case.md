@@ -6,6 +6,3 @@ tags:
 ---
 
 Mark stated on the show that as of 2002, no known aircraft matched the description of the recovered craft.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

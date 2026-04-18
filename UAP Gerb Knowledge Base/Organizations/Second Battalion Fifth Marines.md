@@ -6,6 +6,3 @@ tags:
 ---
 
 Michael Herrera's unit during the 2009 Indonesia mission
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

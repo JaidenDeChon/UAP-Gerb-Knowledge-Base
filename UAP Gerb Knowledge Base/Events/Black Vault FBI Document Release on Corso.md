@@ -6,6 +6,3 @@ tags:
 ---
 
 John Greenewald published FBI documents on Corso; none discussed UFOs or his Army foreign technology duties
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

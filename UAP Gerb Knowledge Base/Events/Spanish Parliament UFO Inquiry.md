@@ -6,6 +6,3 @@ tags:
 ---
 
 The Manises incident reached the Spanish Parliament after representatives demanded an official explanation; the sighting was officially dismissed as optical illusions.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

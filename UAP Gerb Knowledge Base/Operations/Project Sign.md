@@ -30,6 +30,3 @@ Project Sign's findings, brief as they were, established an institutional record
 ## Sources
 
 - [[Video - The Origin of the UFO Stigma]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

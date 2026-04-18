@@ -35,6 +35,3 @@ The town itself is historically uncontroversial, but the assertion of a large-sc
 ## Sources
 
 - [[Video - The 1948 Aztec, New Mexico UFO Crash Retrieval]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

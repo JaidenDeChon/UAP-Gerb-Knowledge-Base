@@ -6,6 +6,3 @@ tags:
 ---
 
 Ronald Mátry and Sean Kirkpatrick publicly stated they had found no evidence of crashed UFOs of extraterrestrial or interdimensional origin.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

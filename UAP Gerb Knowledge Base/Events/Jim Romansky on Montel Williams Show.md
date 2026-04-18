@@ -6,6 +6,3 @@ tags:
 ---
 
 Romansky appeared on the Montel Williams show to discuss his Kecksburg experience and how it affected his children's time in the US armed services.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

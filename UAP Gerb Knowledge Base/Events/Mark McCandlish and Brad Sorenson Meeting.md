@@ -6,6 +6,3 @@ tags:
 ---
 
 Mark and Brad met to discuss the flux liner/ARV, with Brad relaying details of the craft's components and propulsion system.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

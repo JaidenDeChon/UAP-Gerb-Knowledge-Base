@@ -10,6 +10,3 @@ Alleged to operate a clandestine facility beneath the Sugar Grove Naval Communic
 One of three agencies alleged to manage the TR3B program
 
 Intelligence agency under oversight of USD/INS
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

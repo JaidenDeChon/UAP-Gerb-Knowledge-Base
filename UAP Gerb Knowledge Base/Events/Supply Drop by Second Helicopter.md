@@ -5,6 +5,3 @@ tags:
 ---
 
 A second helicopter dropped a cargo net with supplies at a different location on the LZ during the incident timeline
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

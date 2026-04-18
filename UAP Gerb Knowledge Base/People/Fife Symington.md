@@ -28,6 +28,3 @@ Symington's willingness to speak publicly about his sighting, despite the politi
 ## Sources
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

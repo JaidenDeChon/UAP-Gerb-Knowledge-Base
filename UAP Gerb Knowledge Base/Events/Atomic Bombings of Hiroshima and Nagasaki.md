@@ -6,6 +6,3 @@ tags:
 ---
 
 Referenced as part of humanity's early harnessing of nuclear fission, potentially attracting extraterrestrial attention.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

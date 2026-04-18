@@ -6,6 +6,3 @@ tags:
 ---
 
 Alleged to have sent elements that confiscated news tapes of eyewitness accounts and suppressed broadcasts
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

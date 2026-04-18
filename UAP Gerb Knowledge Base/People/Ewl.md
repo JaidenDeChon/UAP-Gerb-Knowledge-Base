@@ -6,6 +6,3 @@ tags:
 ---
 
 Private investigators attempted to locate family members; believed to be buried in Florida
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

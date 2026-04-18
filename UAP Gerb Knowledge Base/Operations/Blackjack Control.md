@@ -5,6 +5,3 @@ tags:
 ---
 
 Referenced alongside Blackjack Team in the alleged 1991 NRO document; exact nature and role unclear, requiring further investigation.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

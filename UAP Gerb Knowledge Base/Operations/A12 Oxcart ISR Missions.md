@@ -5,6 +5,3 @@ tags:
 ---
 
 The NRO operated the A12 Oxcart in 1962 as the successor to the U2 for intelligence, surveillance, and reconnaissance missions.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

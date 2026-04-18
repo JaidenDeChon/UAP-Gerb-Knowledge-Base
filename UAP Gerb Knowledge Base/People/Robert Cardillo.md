@@ -54,6 +54,3 @@ If Jones's Paraton theory is accurate, Cardillo's career arc from blocking a gov
 
 - [[Video - Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
 - Rob Jones, "Sub Rosa" (analysis of Veritas Capital/Paraton connection)
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

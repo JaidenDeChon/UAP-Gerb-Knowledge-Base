@@ -6,6 +6,3 @@ tags:
 ---
 
 Alleged to heavily feature USD I&S involvement in UFO legacy programs
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

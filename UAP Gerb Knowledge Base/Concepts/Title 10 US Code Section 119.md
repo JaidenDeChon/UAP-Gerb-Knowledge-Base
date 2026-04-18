@@ -5,6 +5,3 @@ tags:
 ---
 
 Federal law governing congressional oversight of Special Access Programs within the Department of Defense.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

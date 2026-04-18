@@ -6,6 +6,3 @@ tags:
 ---
 
 Used to look up military personnel serial numbers and files to identify document signatories
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 Payton served as Assistant Secretary of the Air Force for Acquisition, Technology and Logistics under George W. Bush
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

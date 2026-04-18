@@ -5,6 +5,3 @@ tags:
 ---
 
 A claimed covert operation in which personnel were allegedly recruited in disaster zones; the witness speculates this may have been ongoing before the earthquake.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

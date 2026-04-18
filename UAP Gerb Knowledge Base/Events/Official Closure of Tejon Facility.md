@@ -6,6 +6,3 @@ tags:
 ---
 
 Tejon RCS facility was officially closed, allegedly due to interference from nearby photovoltaic and wind farm installations
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

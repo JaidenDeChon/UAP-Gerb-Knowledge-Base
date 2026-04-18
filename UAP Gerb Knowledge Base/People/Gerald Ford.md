@@ -16,6 +16,3 @@ On the day of the hearing, Ford explicitly noted the ridicule he received for ar
 ## Sources
 
 - [[Video - The Origin of the UFO Stigma]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

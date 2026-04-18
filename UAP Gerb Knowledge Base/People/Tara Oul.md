@@ -6,6 +6,3 @@ tags:
 ---
 
 Was approached to set up the Kona Blue PAP according to declassified documents
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

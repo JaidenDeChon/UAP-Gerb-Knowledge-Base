@@ -30,6 +30,3 @@ AT&T's management of Sandia concluded in 1993, when [[Lockheed Martin]] assumed 
 ## Sources
 
 - [[Video - The 1950s Del Rio, Texas UFO Crashes]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

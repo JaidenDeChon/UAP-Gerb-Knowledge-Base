@@ -5,6 +5,3 @@ tags:
 ---
 
 Mentioned as part of an eastern network of DUMBs.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

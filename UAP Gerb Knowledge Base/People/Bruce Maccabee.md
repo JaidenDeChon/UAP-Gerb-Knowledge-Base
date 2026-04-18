@@ -6,6 +6,3 @@ tags:
 ---
 
 Analyzed original photographs from the Canadian Air Force 1953 UFO sighting to measure luminosity levels
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

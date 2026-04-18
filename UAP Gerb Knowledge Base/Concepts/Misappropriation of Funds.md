@@ -5,6 +5,3 @@ tags:
 ---
 
 A claimed funding mechanism for UFO legacy programs where money allocated to one program is secretly redirected to another.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

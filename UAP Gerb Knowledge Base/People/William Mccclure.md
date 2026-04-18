@@ -6,6 +6,3 @@ tags:
 ---
 
 Name analyzed for character count match with redacted signal exchange; goes by Bill Mccclure on LinkedIn
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

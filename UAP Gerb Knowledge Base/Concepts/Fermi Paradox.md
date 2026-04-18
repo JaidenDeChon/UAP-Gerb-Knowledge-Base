@@ -35,6 +35,4 @@ The Fermi Paradox is criticized in UAP research circles for assuming the absence
 ## Sources
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+- [[Video - UFOs and Nuclear Weapons - A Fascinating Connection]]

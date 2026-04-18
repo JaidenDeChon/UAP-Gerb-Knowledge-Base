@@ -6,6 +6,3 @@ tags:
 ---
 
 The fictional/semi-fictional event described in 'Sentinels of Ether,' involving a black team wiping out a JSOC team and transporting humans in shipping containers to a mountain base
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

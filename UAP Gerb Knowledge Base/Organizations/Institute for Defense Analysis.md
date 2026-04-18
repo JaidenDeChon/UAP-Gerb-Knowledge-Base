@@ -6,6 +6,3 @@ tags:
 ---
 
 FFRDC organization associated with Harold Malmgren
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 Testimony by Jake Barber and Skywatchers in 2025 discussed psionics in connection with UAP, echoing Wagant's earlier 2000 account
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

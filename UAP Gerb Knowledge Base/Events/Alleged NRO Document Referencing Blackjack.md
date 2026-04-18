@@ -6,6 +6,3 @@ tags:
 ---
 
 An alleged NRO document from 1991 referenced Blackjack Team and Blackjack Control, noted as requiring further research.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

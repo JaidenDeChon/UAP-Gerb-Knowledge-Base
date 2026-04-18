@@ -6,6 +6,3 @@ tags:
 ---
 
 Referenced as the division associated with the recovered technology RA was shown underground
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

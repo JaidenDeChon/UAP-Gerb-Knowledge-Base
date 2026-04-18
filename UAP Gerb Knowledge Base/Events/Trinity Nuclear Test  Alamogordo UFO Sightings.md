@@ -6,6 +6,3 @@ tags:
 ---
 
 Corso allegedly witnessed UFOs during pre-bomb nuclear experiments at Alamogordo, New Mexico, though the narrator notes Corso's own manuscript places his close encounter in 1957-1958, not 1945.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

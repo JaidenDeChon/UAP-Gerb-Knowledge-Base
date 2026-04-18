@@ -6,6 +6,3 @@ tags:
 ---
 
 LTG Shipton served as military deputy in the office of the assistant secretary of the air force for ATNL, overseeing programs worth over $60 billion annually.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

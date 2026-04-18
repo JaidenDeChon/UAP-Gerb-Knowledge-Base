@@ -6,6 +6,3 @@ tags:
 ---
 
 A two-day event held June 10-12 prior to the National Press Club appearance, where the witness participated in disclosure activities.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

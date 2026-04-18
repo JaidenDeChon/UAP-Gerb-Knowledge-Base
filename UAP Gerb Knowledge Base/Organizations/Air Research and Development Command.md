@@ -6,6 +6,3 @@ tags:
 ---
 
 Former US Air Force major command; Stansel was employed as an engineer under its mechanical branch out of Wright-Patterson AFB
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

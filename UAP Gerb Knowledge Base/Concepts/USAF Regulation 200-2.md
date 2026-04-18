@@ -27,6 +27,3 @@ Within those narratives, the regulation is treated as a prototype for later comp
 ## Sources
 
 - [[Video - The 1933 Magenta, Italy UFO Crash]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

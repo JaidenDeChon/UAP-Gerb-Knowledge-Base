@@ -5,6 +5,3 @@ tags:
 ---
 
 The Insider requested an in-person meeting with Michael, facilitated through Dr. Greer, at an alleged secure facility
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

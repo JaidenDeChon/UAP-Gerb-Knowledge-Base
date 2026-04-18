@@ -6,6 +6,3 @@ tags:
 ---
 
 39 members of the Heaven's Gate cult died believing a UFO trailing the Hale-Bopp Comet was the only means to evacuate Earth.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

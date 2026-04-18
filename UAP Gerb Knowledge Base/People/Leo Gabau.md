@@ -75,6 +75,3 @@ It was not until the 1980s,with William Steinman's investigative work and the la
 - [[Doodlebug]]
 - [[Magnetic Anomaly Detection (MAD) & Doodlebugs]]
 - [[Behind the Flying Saucers]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

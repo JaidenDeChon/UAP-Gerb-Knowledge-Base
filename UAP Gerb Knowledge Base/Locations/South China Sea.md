@@ -5,6 +5,3 @@ tags:
 ---
 
 Location where Captain Brier and crew observed a hovering wheel-like object in 1910.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 A pilot and stewardess on a National Airlines flight observed erratic moving lights during the July 26, 1952 event
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

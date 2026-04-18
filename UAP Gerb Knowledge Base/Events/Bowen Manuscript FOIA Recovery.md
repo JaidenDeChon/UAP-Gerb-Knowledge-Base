@@ -6,6 +6,3 @@ tags:
 ---
 
 Timothy Cooper obtained the Bowen manuscript via FOIA request, finding it stamped top secret magic with handwritten marginalia attributed to Vannevar Bush.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 Alleged to have been the intended 'disclosure president' in an Obama-era UAP information strategy
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

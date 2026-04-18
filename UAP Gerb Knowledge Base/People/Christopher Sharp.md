@@ -20,6 +20,3 @@ Sharp authored a September 2024 article on UFO transparency legislation and UAP 
 ## Sources
 
 - [[Video - The 1933 Magenta, Italy UFO Crash]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

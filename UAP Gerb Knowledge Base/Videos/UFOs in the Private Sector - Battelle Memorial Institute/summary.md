@@ -10,57 +10,61 @@ tags:
   - uap-gerb
 ---
 
-## Summary
-## Summary
+## Overview
 
-The video investigates the alleged role of the Battelle Memorial Institute in U.S. government UAP secrecy, arguing that the research organization has been involved in studying recovered extraterrestrial materials — including nitinol, a nickel-titanium alloy purportedly recovered from the Roswell crash — as far back as 1949, when scientist EJ Center worked there on such materials before claiming in 1994 to have handled parts of a flying saucer. The video draws a direct line from Battelle's early UAP involvement to the modern era through Ronald Máty, the Under Secretary of Defense for Intelligence and Security, who has served on Battelle's advisory board since 2016 and allegedly attempted to scrub this association from public records. The video further alleges that Máty, who oversaw AARO director Sean Kirkpatrick, co-held a December 16, 2022 press conference denying any evidence of crashed extraterrestrial craft while simultaneously awarding a $1.9 million DoD contract to Sand Corp — a firm specializing in leak prevention and whistleblower suppression. The overall argument presented is that Battelle and connected officials have exercised sustained influence over the U.S. government's UAP narrative, actively suppressing evidence and silencing whistleblowers such as David Grusch.
+This video investigates the role of [[Battelle Memorial Institute]] — a private nonprofit applied sciences organization — in the U.S. government's UAP secrecy apparatus. UAP Gerb argues that Battelle has been a key private sector participant in UFO crash retrieval analysis, disinformation, and narrative control from at least 1949 through the present day. Unlike most UAP contractors, Battelle occupies a unique position: it manages multiple Department of Energy national laboratories including [[Los Alamos National Laboratory]], Oak Ridge, and the National Renewable Energy Laboratory, giving it institutional access to classified nuclear-adjacent science programs that are structurally insulated from congressional oversight.
 
-## People
-- [[Ronald S. Moltry]] — Oversaw AARO and Kirkpatrick, awarded contract to Sand Corp, held press conference denying UFO crash recoveries, and is a board member of Battelle since 2016
-- [[Sean Kirkpatrick]] — Described as a modern-day disinformation agent; reported to Ronald Mátry; co-held press conference denying UFO evidence
-- [[David Grusch]] — Referenced in connection with a list of 'Hostile Witnesses' that likely includes Ronald Mátry
-- [[EJ Center]] — Worked at Battelle in 1949 studying nickel-titanium alloys; claimed in 1994 to have worked on parts of a flying saucer after leaving Battelle in 1958
-- [[Jacques Vallée]] — Suggested Battelle's relevance alongside Fox in the context of UFO investigations
-- [[Alexander Vulcanowski]] — Mentioned briefly as the speaker's favorite fighter; not UAP-relevant
+The video's central evidentiary thread runs through [[Nitinol (Nickel-Titanium Alloy)]] — a shape-memory metal that was not officially discovered until 1961 — and documents that Battelle was performing classified analysis on this exact alloy under [[Wright-Patterson Air Force Base]] contract as early as 1949. The presenter argues this research stemmed directly from material recovered in the 1947 Roswell crash and was conducted by Battelle senior chemical engineer [[EJ Center]], who later (in a 1994 [[Mutual UFO Network]] report) told his daughter he had been "responsible for a project which required him to study Parts retrieved from a flying saucer."
 
-## Organizations
-- [[Battelle Memorial Institute]] — Deeply involved in UFO investigations for the US government and Air Force; studied recovered UFO materials including nitinol; has board connections to Ronald Mátry
-- [[AARO]] — All-domain Anomaly Resolution Office; directed by Kirkpatrick and overseen by Mátry; reported no evidence of extraterrestrial craft
-- [[Sand Corp]] — Awarded a $1.9 million contract by AARO and DoD in 2022 for support services; specializes in preventing leaks and stopping whistleblowers
-- [[Department of Defense]] — Awarded contract to Sand Corp; oversight body for AARO and UAP-related investigations
-- [[Lockheed Martin]] — Mentioned as another organization with dirty hands in UFO secrecy; future video planned
-- [[Carlyle Group]] — Mentioned alongside Battelle and Lockheed Martin as involved in UFO secrecy; future video planned
-- [[POGO.org]] — Documented Ronald Mátry's advisory board membership at Battelle and preserved screenshots before he scrubbed the information
+A second major strand connects Battelle to active modern suppression of the UAP narrative through [[Ronald S. Moltry]], the Under Secretary of Defense for Intelligence and Security. Moltry has served on Battelle's advisory board since 2016, oversaw [[AARO]] director [[Sean Kirkpatrick]], jointly held a December 2022 press conference denying any evidence of crashed extraterrestrial craft, and was responsible for awarding [[Sand Corp]] — a whistleblower suppression contractor — a $1.9 million AARO support contract. Moltry allegedly attempted to remove evidence of his Battelle board membership from his LinkedIn profile, but the association was preserved in screenshots by POGO.org. The overall thesis is that Battelle has exercised sustained, bipartite influence over the UFO issue: conducting real analysis of recovered materials while simultaneously managing public perception to deny their existence.
 
-## Concepts
-- [[Nitinol (Nickel-Titanium Alloy)]] — A shape-memory alloy studied by Battelle; alleged to have been recovered from the Roswell crash and researched by EJ Center.
-- [[Disinformation  UAP Narrative Control]] — The claim that figures like Kirkpatrick and Mátry, along with organizations like Battelle and Sand Corp, actively suppress or downplay UAP evidence.
-- [[Extraterrestrial Biological Organisms (EBOs)]] — Alleged biological entities recovered from crashed craft; referenced by an unverified online leaker claiming to be a biologist at Battelle.
-- [[Whistleblower Suppression]] — Sand Corp's stated specialization in preventing leaks; tied to the DoD contract awarded in 2022.
-- [[Crash Retrieval Program]] — The alleged secret government program to recover and study crashed extraterrestrial craft and materials.
+## Project Stork and UFO Investigation (1952–1955)
 
-## Events & Dates
-- [[AARODoD Press Conference Denying UFO Crash Recoveries]] — Ronald Mátry and Sean Kirkpatrick publicly stated they had found no evidence of crashed UFOs of extraterrestrial or interdimensional origin.
-- [[Sand Corp Contract Award]] — AARO and the DoD awarded Sand Corp a $1.9 million contract for support services specializing in leak prevention and whistleblower suppression.
-- [[EJ Center's Work at Battelle]] — EJ Center worked at Battelle studying nickel-titanium alloys allegedly recovered from the Roswell crash; declassified in 2010.
-- [[Ohio Auditor General Report on EJ Center]] — EJ Center stated he had worked on parts of a flying saucer while at Battelle, after leaving in 1958.
-- [[Ronald Mátry Joins Battelle Board]] — Mátry became an advisory board member at Battelle, later attempting to scrub this from public records including LinkedIn.
-- [[Battelle Biologist Leak]] — An anonymous online leaker claimed to be a biologist at Battelle working on extraterrestrial biological organisms and provided taxonomic information on alleged retrieved aliens; unverified.
+The earliest documented link between Battelle and official UAP work is [[Project Stork]], a machine-indexing system for official UFO sighting reports commissioned by the [[Air Force Technical Intelligence Center]] (ATIC) in 1952. A January 1953 memo from Battelle's Dr. [[Howard C. Cross]] proposed that Project Stork "assist the Air Force in reassuring the public that everything is well under control with respect to the UFO problem." The memo was classified Secret and referenced Captain [[Edward J. Ruppelt]], then director of [[Project Blue Book]].
 
-## Operations
-_None identified_
+Project Stork ran parallel to Blue Book and was separate from official investigative panels. Dr. [[J. Allen Hynek]] attempted to testify about it at the [[Robertson Panel]] in January 1953. Seven Project Stork status reports were recovered through the efforts of the Computer UFO Network (CUFON). On May 5, 1955, Battelle and ATIC jointly published Special Report 14 — a comprehensive analysis of 3,200 UFO sightings concluding that UFOs are not aircraft "beyond human scientific knowledge" because no physical matter had ever been recovered from any sighting. This conclusion, the presenter argues, directly contradicts Battelle's own 1949 classified nitinol research.
 
-## Locations
-- [[Roswell, New Mexico]] — Alleged crash site; nitinol studied at Battelle is believed to have been recovered from this incident.
+## The Nitinol Connection (1949)
+
+In 1949, Battelle was contracted by [[Wright-Patterson Air Force Base]] to perform analysis on shape-memory titanium alloys under contract number 33-38-3736. The resulting progress reports — covering September 1 through October 21, 1949 — focused heavily on nitinol, a nickel-titanium alloy. Nitinol was not officially discovered (in the public scientific record) until 1961, by Dr. William J. Buehler at the Naval Ordnance Laboratory. The 1949 Battelle research was classified under the [[Atomic Energy Commission]]'s "restricted" classification standard — a private-sector classification tier that prevents access even by individuals holding Special Access Program clearances, a structural feature cited by [[David Grusch]] as one mechanism for keeping UAP materials outside congressional reach. The research was not declassified until 2010.
+
+Nitinol possesses two remarkable properties central to UAP material recovery claims: superelasticity (extreme deformation resistance with full shape recovery) and shape memory (thermally-triggered return to original form). These characteristics closely match the debris described by [[Jesse Marcel]] — the first military officer to inspect the [[Roswell, New Mexico]] debris field — who reported an exceedingly light metallic foil that retained its shape after deformation. Marcel was ordered by General Roger Ramey to pose with substitute weather balloon debris for press photographs, suppressing public knowledge of the actual material.
+
+## EJ Center's Testimony
+
+Subsection "Analytical Methods for Titanium Based Alloys" in Battelle's 1949 progress report was authored in part by EJ Center — senior research chemical engineer Elroy John Center, who worked at Battelle from 1939 to 1957. In a 1992 interview with [[Irene Scott]] of the [[Mutual UFO Network]] (published in the 1994 "Ohio UFO Crash Connection and Other Stories" in the MUFON Journal), a man who had dated Center's daughter in the late 1950s reported that Center told him he "was responsible for a project which required him to study Parts retrieved from a flying saucer." The report specifically places this account in the context of the Roswell I-beam — one of the debris items found by [[Jesse Marcel]] that bore hieroglyphic-style markings.
+
+The presenter notes the timing anomaly: EJ Center made this disclosure in 1958, well after leaving Battelle but years before the 1994 publication — and more than a decade before the 1949 nitinol research was declassified in 2010. The connection between Center's verbal account and the declassified documentation of his actual 1949 work on the same material could not have been fabricated post-hoc by MUFON, lending the account additional credibility.
+
+## Jacques Vallée and James Fox Identification
+
+On the December 4, 2020 episode of The Joe Rogan Experience (JRE #1574), computer scientist and UFO researcher [[Jacques Vallee]] referenced a private contractor holding UFO materials but declined to name the organization. Filmmaker [[James Fox]] intervened to identify the organization indirectly by referencing its connection to the 1953 [[Robertson Panel]] — which points to Battelle Memorial Institute, the sole contractor conducting the parallel Project Stork investigation at that time.
+
+## Battelle, AARO, and Modern Suppression
+
+[[Ronald S. Moltry]], as Under Secretary of Defense for Intelligence and Security, was the senior official to whom both AARO and [[Sean Kirkpatrick]] reported. Moltry's office oversaw the December 2022 [[Sand Corp]] contract award ($1.9 million for "AARO Support Services"), with Sand Corp specializing in preventing leaks and stopping whistleblowers. On December 16, 2022, Moltry and Kirkpatrick jointly held a public press conference asserting they had found no evidence of crashed UFOs of extraterrestrial or extra-dimensional origin.
+
+POGO.org documented Moltry's Battelle advisory board membership (since 2016) and preserved screenshots of the record before Moltry removed it from his LinkedIn profile. [[David Grusch]] has identified Moltry as among the likely "Hostile Witnesses" blocking UAP disclosure. The presenter frames Moltry's attempted erasure of his Battelle connection as evidence of awareness that the association was compromising in the context of UAP oversight.
 
 ## Key Claims
-- Ronald Mátry, Under Secretary of Defense for Intelligence and Security, has been a Battelle advisory board member since 2016 and attempted to scrub this from public records.
-- AARO and the DoD awarded Sand Corp a $1.9 million contract in 2022 for services specializing in leak prevention and stopping whistleblowers, overseen by Ronald Mátry.
-- Battelle studied nitinol, a nickel-titanium alloy allegedly recovered from the Roswell crash, as early as 1949.
-- EJ Center, who worked at Battelle in 1949, claimed in 1994 to have worked on parts of a flying saucer.
-- Ronald Mátry and Sean Kirkpatrick held a press conference on December 16, 2022, denying any evidence of crashed UFOs of extraterrestrial origin.
-- Battelle has maintained influence over the US government's UAP narrative from early investigations through the modern AARO era.
-- An anonymous online leaker in 2023 claimed to be a Battelle biologist working on extraterrestrial biological organisms, but the claim lacks supporting evidence.
 
----
-*Source: [YouTube](https://www.youtube.com/watch?v=tISTJRPOqFo)*
+- Battelle Memorial Institute has been involved in official UFO investigation since at least 1952 through the classified [[Project Stork]] program, which ran parallel to [[Project Blue Book]].
+- Battelle's 1955 Special Report 14 concluded no physical UFO material had ever been recovered — a conclusion that directly contradicts the organization's own 1949 classified research on nitinol for Wright-Patterson AFB.
+- Battelle conducted classified research on [[Nitinol (Nickel-Titanium Alloy)]] — a shape-memory alloy not officially discovered until 1961 — in 1949, suggesting the material was sourced from crash retrieval rather than indigenous scientific discovery.
+- [[EJ Center]], a Battelle senior chemical engineer who worked on the 1949 nitinol study, disclosed to an acquaintance in 1958 that he had studied "parts retrieved from a flying saucer."
+- The 1949 nitinol research was classified under an [[Atomic Energy Commission]] "restricted" standard that prevented access even by cleared SAP holders, and was not declassified until 2010.
+- [[Jacques Vallee]] and [[James Fox]] implicitly identified Battelle as the private contractor holding UFO materials during Joe Rogan Experience episode 1574 (December 4, 2020).
+- [[Ronald S. Moltry]], who oversaw AARO and Kirkpatrick and held a press conference denying crash recoveries, has served on Battelle's advisory board since 2016 and attempted to suppress evidence of this association.
+- The $1.9 million [[Sand Corp]] contract awarded to AARO in 2022 — for whistleblower suppression services — was overseen by Moltry's USD I&S office.
+
+## Sources
+
+- [YouTube](https://www.youtube.com/watch?v=tISTJRPOqFo) — UAP Gerb
+
+## Related Pages
+
+- **People**: [[EJ Center]], [[Howard C. Cross]], [[Ronald S. Moltry]], [[Sean Kirkpatrick]], [[David Grusch]], [[Jacques Vallee]], [[James Fox]], [[Jesse Marcel]], [[Mac Brazel]], [[J. Allen Hynek]], [[Edward J. Ruppelt]], [[Irene Scott]]
+- **Organizations**: [[Battelle Memorial Institute]], [[Sand Corp]], [[AARO]], [[Air Force Technical Intelligence Center]], [[Atomic Energy Commission]], [[Mutual UFO Network]]
+- **Locations**: [[Roswell, New Mexico]], [[Wright-Patterson Air Force Base]], [[Los Alamos National Laboratory]]
+- **Concepts**: [[Nitinol (Nickel-Titanium Alloy)]], [[Shape Memory Alloy]], [[Robertson Panel]]
+- **Operations**: [[Project Stork]], [[Project Blue Book]]

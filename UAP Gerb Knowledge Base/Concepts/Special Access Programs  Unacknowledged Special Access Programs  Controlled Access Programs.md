@@ -5,6 +5,3 @@ tags:
 ---
 
 Classified US government program tiers used to conceal sensitive activities, including alleged UFO retrieval and reverse engineering programs.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

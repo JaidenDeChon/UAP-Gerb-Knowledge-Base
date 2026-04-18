@@ -22,6 +22,3 @@ The craft remained in Italian possession throughout the fascist regime, allegedl
 ## Sources
 
 - [[Video - The 1933 Magenta, Italy UFO Crash]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

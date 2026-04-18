@@ -6,6 +6,3 @@ tags:
 ---
 
 Worked for multiple contractors accused of UFO legacy programs before his government role
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -5,6 +5,3 @@ tags:
 ---
 
 Clandestine military or government programs allegedly operating off the books using cash transactions and analog computers to avoid oversight
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

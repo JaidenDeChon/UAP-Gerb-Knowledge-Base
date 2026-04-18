@@ -6,6 +6,3 @@ tags:
 ---
 
 Witnesses allegedly involved in UFO crash retrievals began coming forward with testimony implicating senior DOD/IC and TRW figures.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

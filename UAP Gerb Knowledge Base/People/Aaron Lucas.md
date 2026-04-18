@@ -6,6 +6,3 @@ tags:
 ---
 
 Mentioned alongside Gabbard as current ODNI leadership not believed embedded in legacy programs
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

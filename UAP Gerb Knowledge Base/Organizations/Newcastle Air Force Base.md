@@ -6,6 +6,3 @@ tags:
 ---
 
 Base in Delaware from which jets were scrambled to investigate the 1952 Washington DC UFO sightings
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

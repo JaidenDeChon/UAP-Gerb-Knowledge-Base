@@ -6,6 +6,3 @@ tags:
 ---
 
 Newspaper reported the alleged Aurora crash, describing a deceased non-human pilot and a craft made of unknown metal
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

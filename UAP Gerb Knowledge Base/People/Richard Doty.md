@@ -6,6 +6,3 @@ tags:
 ---
 
 Theorized alongside Bill Moore to have fabricated majestic documents
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

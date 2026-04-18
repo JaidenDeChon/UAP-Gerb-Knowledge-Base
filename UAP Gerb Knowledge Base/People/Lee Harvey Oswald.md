@@ -6,6 +6,3 @@ tags:
 ---
 
 Corso spread claims that Oswald was an FBI informant, which the FBI investigated
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

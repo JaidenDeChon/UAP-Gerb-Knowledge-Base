@@ -16,6 +16,3 @@ It remains unclear whether the "S. McCaron" also listed in the document is a sep
 ## Sources
 
 - [[Video - Incredible UFO Footage - FLYBY]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

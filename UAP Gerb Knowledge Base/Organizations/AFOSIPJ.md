@@ -6,6 +6,3 @@ tags:
 ---
 
 Air Force Office of Special Investigations element described as legally obliged to neutralize insider and outsider threats to classified programs
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -5,6 +5,3 @@ tags:
 ---
 
 RA and one other TS/SCI-cleared soldier were escorted through multiple checkpoints and an elevator deep underground to an advanced, labeled facility described as strikingly modern compared to the surface buildings.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

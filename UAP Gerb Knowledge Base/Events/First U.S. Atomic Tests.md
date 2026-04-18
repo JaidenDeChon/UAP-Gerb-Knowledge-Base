@@ -6,6 +6,3 @@ tags:
 ---
 
 Early American nuclear weapons tests referenced as a potential trigger for increased UAP interest in humanity.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

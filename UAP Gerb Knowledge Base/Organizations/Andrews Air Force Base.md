@@ -6,6 +6,3 @@ tags:
 ---
 
 Radar center that tracked unidentified objects during the July 26, 1952 UFO incident over Washington DC
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

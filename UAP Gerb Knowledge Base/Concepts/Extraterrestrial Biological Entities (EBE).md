@@ -5,6 +5,3 @@ tags:
 ---
 
 Term used in classified documents for non-human living entities; Psalm 101 states 'loss of EBE life is acceptable.'
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

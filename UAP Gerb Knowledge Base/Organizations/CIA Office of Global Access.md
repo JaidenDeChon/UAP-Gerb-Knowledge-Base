@@ -38,6 +38,3 @@ This model is consistent with patterns observed in the [[1974 Coyame, Mexico UFO
 
 - [[Video - The 1974 Coyame, Mexico UFO Crash]]
 - [[Video - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -123,6 +123,3 @@ Private sources report Tonopah as a location where **"quite a bit of the interes
 - [[Video - Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
 - Richard Dolan 2021 leaked UAP Task Force report information
 - Historical DOE and Sandia National Laboratories documentation
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

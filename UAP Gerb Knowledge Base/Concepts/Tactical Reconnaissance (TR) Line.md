@@ -5,6 +5,3 @@ tags:
 ---
 
 Series of classified reconnaissance craft allegedly including TR-3A, TR-3B, and TR-3E, analogous to the SR (Strategic Reconnaissance) line.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

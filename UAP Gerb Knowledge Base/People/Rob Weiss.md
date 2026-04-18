@@ -6,6 +6,3 @@ tags:
 ---
 
 Associated with To The Stars Academy
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

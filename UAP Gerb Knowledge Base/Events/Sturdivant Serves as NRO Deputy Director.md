@@ -6,6 +6,3 @@ tags:
 ---
 
 Named NRO Deputy Director for National Support, serving from 2004 to 2006.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

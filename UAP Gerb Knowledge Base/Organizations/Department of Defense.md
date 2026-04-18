@@ -18,6 +18,3 @@ Parent organization referenced in context of UAP legacy programs and use of adva
 Parent institution of AARO; referenced in context of intelligence community deception regarding UAPs
 
 Senior figures within DOD/IC accused of involvement in UFO legacy programs
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

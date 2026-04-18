@@ -5,6 +5,3 @@ tags:
 ---
 
 Technology used by a survey vessel to detect and image an anomalous object resting on the seafloor in the North Atlantic.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

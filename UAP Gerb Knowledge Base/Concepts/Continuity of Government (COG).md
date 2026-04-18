@@ -5,6 +5,3 @@ tags:
 ---
 
 Government programs and facilities designed to ensure governmental survival during catastrophic events, some of which involve deep underground installations.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

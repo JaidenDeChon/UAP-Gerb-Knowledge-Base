@@ -6,6 +6,3 @@ tags:
 ---
 
 Willingham stated he saw non-human bodies at the crash site, contradicting his earlier written account
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

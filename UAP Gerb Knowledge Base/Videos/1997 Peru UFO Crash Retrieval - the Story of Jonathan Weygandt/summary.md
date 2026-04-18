@@ -126,7 +126,7 @@ This video presents a comprehensive investigative analysis of Jonathan Weygandt'
 - [[Gill-like Vents]] — Large vents on the side of the crashed craft described by Wagant as similar to fish gills, speculated to be propulsion-related.
 - [[Psionics]] — The concept of controlling craft or communicating via thought or consciousness; discussed in 2025 UAP testimony and allegedly evidenced as early as 2000 in Wagant's account
 - [[Consciousness-Controlled Craft]] — The idea that UAP are controlled via thought or consciousness rather than conventional mechanical interfaces, referenced back to 1950s testimonies
-- [[BDUs (Battle Dress Uniform)]] — Military fatigues; the unknown operators wore all-black BDUs with no insignia or identification
+- BDUs (Battle Dress Uniform) — Military fatigues; the unknown operators wore all-black BDUs with no insignia or identification
 - [[Non-Human Intelligence Projection]] — The entities reportedly projected thoughts or mental imagery to communicate their intentions and appearance to Wagant
 - [[Secrecy Agreements  NDAs]] — Standard security forms Wagant was forced to sign asserting he saw nothing; backed by death threats.
 - [[Witness Intimidation]] — Clandestine operators threatened Wagant and his family with death to secure his silence about the retrieval.
@@ -141,7 +141,7 @@ This video presents a comprehensive investigative analysis of Jonathan Weygandt'
 - [[Blue Boys]] — Rapid retrieval and transport helicopter units referenced by Leonard Stringfield in connection with UFO crash recoveries.
 - [[Deep Submergence Rescue Vehicle]] — Referenced in connection with Project Sand Dollar as an example of rapid deployable recovery assets, deployable anywhere in the world within 72 hours.
 - [[Containment Breach]] — A scenario in which toxic materials, gas, or liquid from a downed UAP are released, requiring hazmat response; documented in the Coyame, Mexico case.
-- [[Hasty Landing Zone (LZ)]] — An improvised or quickly established landing area for helicopters, used by the recovery team arriving at the Peruvian crash site.
+- Hasty Landing Zone (LZ) — An improvised or quickly established landing area for helicopters, used by the recovery team arriving at the Peruvian crash site.
 - [[Rapid Reaction Retrieval Team]] — A pre-positioned or rapidly deployed team of DOE personnel and armed soldiers that secured the UAP crash site within 15-20 minutes of Marines arriving.
 - [[DSP Satellite Advanced Warning]] — The hypothesis that NRO-managed Defense Support Program satellites detected the crash and gave the retrieval team approximately one hour of advance notice.
 - [[Narcotics Traffic Monitoring]] — The stated mission of the radar detachment in Iquitos was tracking drug transport routes from Bolivia through northern Peru.
@@ -176,7 +176,7 @@ This video presents a comprehensive investigative analysis of Jonathan Weygandt'
 - [[Witness Memory Degradation]] — The natural loss of specific details over time by a witness to a traumatic or extraordinary event, noted as affecting Wayan's recall after 30 years.
 - [[Underground Facilities]] — Speculation that NAMRU or a nearby location had underground facilities where Wayan was held.
 - [[Dedicated Retrieval Team]] — A theorized specialized military unit, possibly JSOC-affiliated, pre-positioned in South America to respond to UAP retrieval events.
-- [[Open Source Research]] — The content creator commits to making all research and projects freely available without paywalls or gatekeeping.
+- Open Source Research — The content creator commits to making all research and projects freely available without paywalls or gatekeeping.
 - [[Disclosure]] — Reference to the broader UAP/UFO disclosure movement, with the creator expressing desire to help push for transparency on the subject.
 
 ## Events & Dates

@@ -44,6 +44,3 @@ Dr. James T. Ryder passed away suddenly in 2018. His death followed his 2017-201
 ## Sources
 
 - [[Video - Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

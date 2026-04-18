@@ -6,6 +6,3 @@ tags:
 ---
 
 Jonathan Wagant first described Operation Laser Strike and the Peru UAP encounter to Steven Greer
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

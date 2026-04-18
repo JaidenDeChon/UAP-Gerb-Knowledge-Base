@@ -5,6 +5,3 @@ tags:
 ---
 
 Physical materials allegedly of non-human origin recovered by the US government and distributed to defense contractors for analysis and exploitation.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

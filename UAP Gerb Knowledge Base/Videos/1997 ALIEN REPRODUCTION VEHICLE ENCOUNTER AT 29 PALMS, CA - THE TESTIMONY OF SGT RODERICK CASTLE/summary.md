@@ -113,7 +113,7 @@ This video presents the testimony of Rodrik Castle, a US Marine and VMA-513 tech
 - [[Superconducting Plasma]] — Mercury-based plasma pressurized and accelerated to create superconductivity used in the MFD gravity reduction system.
 - [[Flux Liner]] — An alleged 1988 craft described as a copycat saucer with nonhuman zero-point propulsion systems but crude conventional interior components.
 - [[ALV (Anti-GravityLevitation Vehicle)]] — Described as a large-scale Tesla coil-based system designed to negate gravity and inertia, with off-the-shelf navigation and life support systems.
-- [[Vantablack]] — A material or coating described as blacker than black with extremely low reflectivity, allegedly used on the TR3B's surface.
+- Vantablack — A material or coating described as blacker than black with extremely low reflectivity, allegedly used on the TR3B's surface.
 - [[Multi-Mode Propulsion System]] — TR3B's propulsion system capable of operating in atmosphere via nuclear reactor thrust, in upper atmosphere via hydrogen propulsion, and in orbit via combined hydrogen-oxygen propulsion.
 - [[FFRDC (Federally Funded Research and Development Center)]] — Designation for Sandia and Lawrence Livermore Labs, indicating their government-funded research status.
 - [[ECMECCM]] — Electronic Countermeasures and Electronic Counter-Countermeasures systems reportedly installed on the TR3B.

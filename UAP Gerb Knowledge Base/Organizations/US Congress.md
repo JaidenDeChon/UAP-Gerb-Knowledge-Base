@@ -12,6 +12,3 @@ Referenced as the body to which insiders want to restore oversight of UAP progra
 Mark Mandel was reportedly set to testify before Congressional and Senate elements in June 2021
 
 Body to which Grusch testified about biologics; also where General Riggs worked during his military career
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

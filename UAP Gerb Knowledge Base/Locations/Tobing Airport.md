@@ -5,6 +5,3 @@ tags:
 ---
 
 The airport (no longer named Tobing) where Marines landed via helicopter during the operation; described as having blue roofs.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

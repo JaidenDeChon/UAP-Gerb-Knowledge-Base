@@ -5,6 +5,3 @@ tags:
 ---
 
 A CH-53 helicopter arrived at the LZ after the Gunnery Sergeant's radio communication and extracted the witness's team from the area.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

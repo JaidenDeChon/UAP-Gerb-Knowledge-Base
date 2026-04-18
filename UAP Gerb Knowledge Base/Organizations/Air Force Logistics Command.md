@@ -6,6 +6,3 @@ tags:
 ---
 
 Merged with Air Force Systems Command in 1992 to form Air Force Material Command
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

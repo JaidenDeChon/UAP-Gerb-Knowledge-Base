@@ -5,6 +5,3 @@ tags:
 ---
 
 Described as flying under the radar in public awareness, this is considered Spain's most well-known UFO incident, details of which were presented in a short documentary.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

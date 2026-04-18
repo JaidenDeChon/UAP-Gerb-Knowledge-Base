@@ -6,6 +6,3 @@ tags:
 ---
 
 Barry Goldwater attempted to gain access to the classified UFO information room at Wright Patterson Air Force Base and was denied.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

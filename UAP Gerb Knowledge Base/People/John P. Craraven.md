@@ -6,6 +6,3 @@ tags:
 ---
 
 Discussed classified operations performed by DSRV teams; referenced in context of clandestine DSRV usage
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

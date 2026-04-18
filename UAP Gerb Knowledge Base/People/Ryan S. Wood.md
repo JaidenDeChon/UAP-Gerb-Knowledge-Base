@@ -38,6 +38,4 @@ In *Magic Eyes Only*, Wood rates the [[1974 Coyame, Mexico UFO Crash Retrieval]]
 - [[Video - The 1974 Coyame, Mexico UFO Crash]]
 - [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
 - [[Video - The Majestic-12 Documents With Ryan S. Wood]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
+- [[Video - UFO Whistleblowers Vol.2]] (recommended by UAP Gerb for crash retrieval research)

@@ -5,6 +5,3 @@ tags:
 ---
 
 CIA and NURO covert operation in 1972 to recover Soviet submarine K-129 from the ocean floor, disguised as a deep sea mining mission
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

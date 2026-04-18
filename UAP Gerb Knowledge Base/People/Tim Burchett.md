@@ -41,6 +41,3 @@ Representative Burchett's willingness to publicly advocate for UAP transparency 
 ## Sources
 
 - [[Video - MOON DUST - The Pentagon's Secret UFO Programs]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

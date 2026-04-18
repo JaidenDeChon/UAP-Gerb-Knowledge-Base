@@ -5,6 +5,3 @@ tags:
 ---
 
 Bully Bush described a rotten egg smell at the crash site, suggesting a sulfuric odor associated with the landed object.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

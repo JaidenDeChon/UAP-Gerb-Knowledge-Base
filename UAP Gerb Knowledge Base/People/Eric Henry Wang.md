@@ -31,6 +31,3 @@ An individual known only as "MW" told Steinman that upon Wang's death, all of hi
 
 - [[Video - The 1948 Aztec, New Mexico UFO Crash Retrieval]]
 - [[Video - The 1953 Kingman, Arizona UFO Crash]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

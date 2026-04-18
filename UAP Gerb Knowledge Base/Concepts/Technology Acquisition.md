@@ -5,6 +5,3 @@ tags:
 ---
 
 NURO's role in obtaining cutting-edge technological capabilities for intelligence purposes, including potentially UAP-related hardware.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

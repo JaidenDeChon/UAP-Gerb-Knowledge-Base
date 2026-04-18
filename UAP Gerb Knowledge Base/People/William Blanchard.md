@@ -16,6 +16,3 @@ Blanchard's position and authority at Roswell place him at the decision point be
 ## Sources
 
 - [[Video - UFO Whistleblowers Vol.1]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

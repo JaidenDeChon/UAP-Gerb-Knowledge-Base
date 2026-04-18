@@ -6,6 +6,3 @@ tags:
 ---
 
 Identified alongside ONI as leading US Navy UFO legacy programs
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

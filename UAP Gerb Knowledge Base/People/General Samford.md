@@ -17,6 +17,3 @@ The nuanced position Samford articulated — acknowledging credible unknowns whi
 
 - [[Video - The Origin of the UFO Stigma]]
 - [[Video - The 1950s Del Rio, Texas UFO Crashes]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

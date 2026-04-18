@@ -6,6 +6,3 @@ tags:
 ---
 
 Received original scans of the USS Trepang images, allegedly sent from the French magazine Top Secret
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

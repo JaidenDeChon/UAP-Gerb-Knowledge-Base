@@ -6,6 +6,3 @@ tags:
 ---
 
 Cited as a whistleblower with concurring testimony on UAP-related events
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

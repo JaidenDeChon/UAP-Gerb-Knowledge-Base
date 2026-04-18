@@ -6,6 +6,3 @@ tags:
 ---
 
 Referenced in connection with a research funding announcement related to NSWC Crane programs
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

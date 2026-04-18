@@ -18,6 +18,3 @@ The panel's final recommendation was that all national security agencies should 
 ## Sources
 
 - [[Video - The Origin of the UFO Stigma]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

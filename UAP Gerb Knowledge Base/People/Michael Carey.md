@@ -6,6 +6,3 @@ tags:
 ---
 
 Listed as an advisor to To The Stars Academy
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

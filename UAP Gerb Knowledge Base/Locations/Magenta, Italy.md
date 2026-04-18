@@ -27,6 +27,3 @@ The location itself is historically uncontroversial, but the assertion that a no
 ## Sources
 
 - [[Video - The 1933 Magenta, Italy UFO Crash]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

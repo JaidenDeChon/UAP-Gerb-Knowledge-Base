@@ -12,6 +12,3 @@ Rodriguez's initial observation occurred while the Super Caravelle was cruising 
 ## Sources
 
 - [[Video - The First Commercial Flight Grounded Due to UFOs]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

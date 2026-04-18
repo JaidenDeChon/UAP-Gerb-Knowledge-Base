@@ -29,9 +29,14 @@ The Robertson Panel convened in January 1953, just four months before the allege
 
 The Robertson Panel's report was partially declassified in the 1970s. Subsequent FOIA releases and congressional inquiries revealed the extent to which the panel's recommendations were implemented through Pentagon public affairs operations, Air Force debunking efforts, and intelligence community monitoring of civilian UFO organizations. The panel's influence is regarded by UAP historians as foundational to the decades-long suppression of serious scientific engagement with the phenomenon.
 
+## Battelle Memorial Institute Involvement
+
+The [[Robertson Panel]] convened in January 1953 during the same period that [[Battelle Memorial Institute]] was conducting [[Project Stork]] — a parallel, classified UFO investigation program commissioned by [[Air Force Technical Intelligence Center]]. Dr. [[J. Allen Hynek]] attempted to reference Project Stork during his testimony at the panel. Because Battelle was the only contractor running a parallel classified UFO investigation at the time of the Robertson Panel, UAP researchers use the panel as a chronological reference point to identify Battelle when the organization is described indirectly. This identification method was used on the December 4, 2020 Joe Rogan Experience episode (#1574) when filmmaker [[James Fox]] implicitly named Battelle in response to [[Jacques Vallee]]'s reference to a private contractor holding UFO materials.
+
 ## Sources
 
 - [[Video - The 1953 Kingman, Arizona UFO Crash]]
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
 - [[Video - The Origin of the UFO Stigma]]
 - [[Video - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies]]
+- [[Video - UFOs in the Private Sector - Battelle Memorial Institute]]

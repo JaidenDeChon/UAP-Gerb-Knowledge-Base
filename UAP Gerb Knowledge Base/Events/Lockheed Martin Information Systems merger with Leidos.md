@@ -6,6 +6,3 @@ tags:
 ---
 
 Lockheed Martin's IT division, implicated in HUD fund obfuscation, merged with Leidos.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

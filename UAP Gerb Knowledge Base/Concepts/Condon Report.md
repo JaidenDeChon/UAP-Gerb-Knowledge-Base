@@ -32,6 +32,3 @@ The RB-47 encounter is structurally and geographically parallel to [[Robert Will
 
 - [[Video - The 1950s Del Rio, Texas UFO Crashes]]
 - [[Video - The Origin of the UFO Stigma]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

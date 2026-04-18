@@ -6,6 +6,3 @@ tags:
 ---
 
 Founded in 1958, clashed often with Army R&D during the reorganization period
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

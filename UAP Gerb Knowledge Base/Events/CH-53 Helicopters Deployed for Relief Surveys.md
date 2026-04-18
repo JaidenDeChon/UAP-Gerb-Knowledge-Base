@@ -6,6 +6,3 @@ tags:
 ---
 
 CH-53 helicopters came aboard on the morning of October 9th and were immediately used to get survey teams to the countryside to identify cargo drop locations.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

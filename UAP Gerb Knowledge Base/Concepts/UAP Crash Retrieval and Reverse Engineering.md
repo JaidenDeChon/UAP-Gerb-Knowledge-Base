@@ -5,6 +5,3 @@ tags:
 ---
 
 Claims that the US Air Force and other entities have retrieved and reverse-engineered non-human craft, a central topic of investigation.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

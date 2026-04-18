@@ -6,6 +6,3 @@ tags:
 ---
 
 A 2014 HAF mission directive with SAF/AHA as OPR described the office's role in addressing sensitive activities and operational concepts.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

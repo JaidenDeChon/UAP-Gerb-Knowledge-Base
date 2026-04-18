@@ -16,6 +16,3 @@ This chain — Inman to Shapiro to Oechsler — represents one of the few docume
 ## Sources
 
 - [[Video - UFO Legacy Programs - Northrop Grumman]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

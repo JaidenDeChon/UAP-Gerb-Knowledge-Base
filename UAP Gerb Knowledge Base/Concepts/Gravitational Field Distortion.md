@@ -5,6 +5,3 @@ tags:
 ---
 
 Herman Oberth's proposed propulsion mechanism for UFOs, suggesting they fly by distorting the gravitational field.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

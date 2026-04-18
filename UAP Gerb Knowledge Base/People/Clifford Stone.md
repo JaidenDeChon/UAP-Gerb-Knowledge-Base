@@ -6,6 +6,3 @@ tags:
 ---
 
 Testified at the 2001 NPC conference under Steven Greer; made claims affirming the Kecksburg incident but carries controversy
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -15,9 +15,14 @@ Greer was instrumental in first bringing the testimony of [[Jonathan Weygandt]] 
 
 Greer was instrumental in facilitating contact between Michael Herrera and sources within classified UAP programs. Referred to as 'Dr. G' or 'Dr. Gri' in communications, Greer communicated with an insider source about Herrera's 2009 Indonesia sighting and helped arrange contact. At the June 2023 NPC event, Greer pulled Herrera aside after his presentation and showed him an encrypted text message from a CIA Non-Official Cover operative who claimed to know what Herrera had witnessed. Greer also helped set up Herrera's Daily Mail interview with Josh Boswell prior to the National Press Club press conference.
 
+## Connection to the Apollo 8 Film Allegation
+
+Greer's Disclosure Project witness archive includes a redacted entry numbered 101179 describing an individual who claimed to have seen an uncut [[NASA]] film depicting six UFOs descending onto the lunar surface, allegedly filmed by astronaut [[Frank Borman]] during the Apollo 8 mission in 1968. Greer's 2009 emails and handwritten notes, reviewed by UAP Gerb, identify this source as traveling from France and planning to meet with Greer in April 2009, accompanied by a high-profile French astronaut. UAP Gerb identified the source as [[Elaine Boder]], at that time president of the French national aeronautical and astronautical Association UAP division. By early March 2009, Greer's emails reference Boder — designated "Source One" — as the courier delivering UAP briefing documents to French President [[Nicholas Sarkozy]]. UAP Gerb was unable to find any independent documentation of the alleged Apollo 8 UFO film as of the video's production date.
+
 ## Sources
 
 - [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
 - [[Video - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt]]
 - [[Video - Michael Herrera - Insights into UAP Encounter and Black Program Insiders]]
 - [[Video - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)]]
+- [[Video - UFO Whistleblowers Vol.2]]

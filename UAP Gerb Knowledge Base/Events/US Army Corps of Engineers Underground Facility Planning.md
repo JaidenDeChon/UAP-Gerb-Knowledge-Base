@@ -6,6 +6,3 @@ tags:
 ---
 
 Post-1961 is cited as when the Army Corps of Engineers seriously began investigating massive underground installations up to 8,000 ft deep.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

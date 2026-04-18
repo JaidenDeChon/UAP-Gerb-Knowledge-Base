@@ -5,6 +5,3 @@ tags:
 ---
 
 Military base near where the St. Clair triangular craft sighting occurred in 2000.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

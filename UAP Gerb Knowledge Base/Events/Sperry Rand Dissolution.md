@@ -5,6 +5,3 @@ tags:
 ---
 
 When Sperry Rand became defunct, its departments were absorbed by Northrop Grumman, Lockheed, and others, creating ties to legacy UAP program history.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

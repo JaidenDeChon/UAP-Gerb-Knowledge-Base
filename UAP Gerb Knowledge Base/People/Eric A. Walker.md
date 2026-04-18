@@ -103,6 +103,3 @@ His cryptic comments to [[William Steinman]] represent one of the clearest confi
 - [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
 - [[Video - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group]]
 - [[Video - UFO Legacy Programs - Northrop Grumman]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

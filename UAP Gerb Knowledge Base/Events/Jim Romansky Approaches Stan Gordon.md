@@ -6,6 +6,3 @@ tags:
 ---
 
 Jim Romansky came forward to share his eyewitness testimony about the Kecksburg crash site, having previously feared ridicule for years.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -5,6 +5,3 @@ tags:
 ---
 
 Home of Aphotech and Sandia National Labs; considered a key node in the UFO legacy program infrastructure.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

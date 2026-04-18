@@ -15,6 +15,3 @@ The city's significance in this context is logistical rather than evidentiary: i
 ## Sources
 
 - [[Video - The 1933 Magenta, Italy UFO Crash]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

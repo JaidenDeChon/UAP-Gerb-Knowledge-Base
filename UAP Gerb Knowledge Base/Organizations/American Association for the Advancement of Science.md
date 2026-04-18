@@ -16,6 +16,3 @@ The AAAS endorsement ensured that the Condon Report's recommendations — includ
 ## Sources
 
 - [[Video - The Origin of the UFO Stigma]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

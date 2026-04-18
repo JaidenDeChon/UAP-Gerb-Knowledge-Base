@@ -6,6 +6,3 @@ tags:
 ---
 
 The Tejon facility officially closed in 2011, though accounts suggest clandestine operations may have continued afterward.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 Named as a high-level SIC executive with ties to intelligence community
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

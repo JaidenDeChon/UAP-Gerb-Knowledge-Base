@@ -6,6 +6,3 @@ tags:
 ---
 
 Quoted referring to NSA Crane as 'the Pentagon's best-kept secret'
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

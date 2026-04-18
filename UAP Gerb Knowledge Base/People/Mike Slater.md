@@ -6,6 +6,3 @@ tags:
 ---
 
 Was told by an Army officer to misdirect curious crash seekers away from the Kecksburg site
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

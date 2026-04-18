@@ -6,6 +6,3 @@ tags:
 ---
 
 Michael Herrera witnessed a UFO, an experience that is considered independently valid regardless of the Insider's credibility.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

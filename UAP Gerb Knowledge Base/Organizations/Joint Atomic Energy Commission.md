@@ -6,6 +6,3 @@ tags:
 ---
 
 Alleged to have operated UFO retrieval and reverse engineering task forces involving Ed Doll
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

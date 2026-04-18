@@ -5,6 +5,3 @@ tags:
 ---
 
 A witness described a hatch on the metallic object swinging from right to left accompanied by a whirling hissing sound, with what appeared to be fingers and an unusually long arm visible inside.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

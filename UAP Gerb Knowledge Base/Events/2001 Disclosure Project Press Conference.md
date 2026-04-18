@@ -6,6 +6,3 @@ tags:
 ---
 
 Greer presented a document claiming the US possesses classified energy generation and anti-gravity propulsion systems derived from off-world technology
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

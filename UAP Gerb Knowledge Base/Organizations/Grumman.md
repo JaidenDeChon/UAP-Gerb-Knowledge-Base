@@ -6,6 +6,3 @@ tags:
 ---
 
 Cited as conducting aboveboard maglev research in the 1990s, implying possible prior clandestine electromagnetic research
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

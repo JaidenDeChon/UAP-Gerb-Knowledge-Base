@@ -6,6 +6,3 @@ tags:
 ---
 
 A podcast episode discussed the concept of classic Gray aliens being biological androids, predating mainstream UAP disclosure discussions.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

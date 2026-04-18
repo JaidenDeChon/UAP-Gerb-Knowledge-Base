@@ -5,6 +5,3 @@ tags:
 ---
 
 A theory held by the witness and program that the entire UAP phenomenon may have been fabricated or staged for human observers.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

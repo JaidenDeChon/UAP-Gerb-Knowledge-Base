@@ -6,6 +6,3 @@ tags:
 ---
 
 Suspected base of operations in Iquitos, Peru; believed to be the radar installation where Wagant was stationed
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

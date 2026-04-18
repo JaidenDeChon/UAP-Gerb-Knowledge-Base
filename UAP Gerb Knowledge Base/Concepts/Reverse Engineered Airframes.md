@@ -5,6 +5,3 @@ tags:
 ---
 
 Aircraft or craft theorized to be derived from non-human technology and tested at major Air Force test ranges.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

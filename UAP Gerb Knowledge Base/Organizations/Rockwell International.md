@@ -6,6 +6,3 @@ tags:
 ---
 
 One of McCandlish's aerospace industry clients
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

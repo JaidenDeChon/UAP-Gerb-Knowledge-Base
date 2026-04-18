@@ -6,6 +6,3 @@ tags:
 ---
 
 Air Force unit that operated 1965-1967 and made blue berets famous through Operation Safeside in Vietnam
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

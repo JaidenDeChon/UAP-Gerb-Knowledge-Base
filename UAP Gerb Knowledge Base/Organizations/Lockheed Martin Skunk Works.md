@@ -14,6 +14,3 @@ Advanced aerospace development division of Lockheed Martin; alleged by some to h
 Referenced in Secret Machines as connected to the Astra/TR-3B craft program
 
 Accused for decades of designing and constructing alien reproduction vehicles; alleged to be a key node in UFO legacy program operations out of Helendale and Air Force Plant 42
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

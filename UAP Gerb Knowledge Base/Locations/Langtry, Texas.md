@@ -17,6 +17,3 @@ The Langtry site is distinct from the [[El Indio, Texas]] location associated wi
 ## Sources
 
 - [[Video - The 1950s Del Rio, Texas UFO Crashes]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 Referenced as a recipient entity in discussions of crash retrieval material transfers
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

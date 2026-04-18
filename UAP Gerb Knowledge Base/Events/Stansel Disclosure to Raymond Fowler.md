@@ -6,6 +6,3 @@ tags:
 ---
 
 Arthur Stansel Jr. disclosed his Kingman crash encounter to UFO researcher Raymond Fowler and signed an affidavit under the pseudonym Fritz Werner
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -5,6 +5,3 @@ tags:
 ---
 
 Tunnel entrance identified in the Avery environmental assessment document, potentially relevant to underground base investigation.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

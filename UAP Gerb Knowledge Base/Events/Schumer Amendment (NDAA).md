@@ -6,6 +6,3 @@ tags:
 ---
 
 Legislative amendment addressing UAP records, eminent domain of UAP materials, NHI definitions, and disclosure frameworks. Part of the modern UAP disclosure landscape following earlier whistleblower testimony. The amendment was later described as watered down and gutted by adversaries to pro-disclosure efforts.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

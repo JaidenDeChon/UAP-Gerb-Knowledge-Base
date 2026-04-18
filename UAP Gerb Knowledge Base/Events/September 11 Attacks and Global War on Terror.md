@@ -6,6 +6,3 @@ tags:
 ---
 
 Triggered a significant increase in defense spending and contractor IRAD activity in the years that followed.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

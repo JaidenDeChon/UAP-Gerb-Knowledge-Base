@@ -6,6 +6,3 @@ tags:
 ---
 
 The Black Group was allegedly founded in the 1940s to reverse engineer non-human intelligence technology.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

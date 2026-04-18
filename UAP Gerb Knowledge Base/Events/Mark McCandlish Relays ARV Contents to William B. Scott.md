@@ -6,6 +6,3 @@ tags:
 ---
 
 Two years after meeting Brad, Mark relayed the contents of the restricted air show to Aviation Week's senior editor.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

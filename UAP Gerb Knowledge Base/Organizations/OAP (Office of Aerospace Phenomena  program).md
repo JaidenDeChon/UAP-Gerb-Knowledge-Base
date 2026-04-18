@@ -6,6 +6,3 @@ tags:
 ---
 
 Government UAP program that Davis worked closely with, involved in the Lockheed Martin material transfer.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -32,6 +32,3 @@ Moskowitz's participation in UAP oversight reflects broader Congressional concer
 ## Sources
 
 - [[Video - MOON DUST - The Pentagon's Secret UFO Programs]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 Development of the NRO Sentient AI collection program began in 2010
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

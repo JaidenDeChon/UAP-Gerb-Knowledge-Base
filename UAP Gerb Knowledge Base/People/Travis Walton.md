@@ -30,6 +30,3 @@ His story was adapted into the 1993 feature film *Fire in the Sky*, directed by 
 ## Sources
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

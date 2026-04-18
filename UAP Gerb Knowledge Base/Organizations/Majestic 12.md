@@ -105,6 +105,3 @@ In [[Video - The 1933 Magenta, Italy UFO Crash]], UAP Gerb argues that [[RS-33 (
 - [[Video - The 1933 Magenta, Italy UFO Crash]]
 - [[Video - The 1950s Del Rio, Texas UFO Crashes]]
 - [[Video - The Majestic-12 Documents With Ryan S. Wood]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

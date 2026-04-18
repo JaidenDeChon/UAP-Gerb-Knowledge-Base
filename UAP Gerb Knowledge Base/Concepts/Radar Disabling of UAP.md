@@ -5,6 +5,3 @@ tags:
 ---
 
 Claim that military radar at White Sands Proving Grounds disabled or interfered with a UAP craft, causing it to land.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -5,6 +5,3 @@ tags:
 ---
 
 Where NASA confirmed Cosmos 96 had decayed and landed, ruling it out as the Kecksburg object
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

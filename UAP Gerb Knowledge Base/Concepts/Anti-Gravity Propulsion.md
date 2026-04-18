@@ -5,6 +5,3 @@ tags:
 ---
 
 Technology allegedly associated with the TR-3B and ARV craft, explored in black projects and R&D programs
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

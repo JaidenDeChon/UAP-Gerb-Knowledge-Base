@@ -36,6 +36,3 @@ Representative Luna's involvement in the UAP Caucus represents bipartisan Congre
 ## Sources
 
 - [[Video - MOON DUST - The Pentagon's Secret UFO Programs]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

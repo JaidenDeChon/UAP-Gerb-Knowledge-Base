@@ -35,6 +35,3 @@ The organizational connections between Operation Upshot-Knothole personnel and s
 ## Sources
 
 - [[Video - The 1953 Kingman, Arizona UFO Crash]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

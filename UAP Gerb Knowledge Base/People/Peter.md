@@ -6,6 +6,3 @@ tags:
 ---
 
 Mentioned for substantiating the credibility of civilian UFO witnesses
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

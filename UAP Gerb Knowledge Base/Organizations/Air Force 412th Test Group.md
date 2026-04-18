@@ -6,6 +6,3 @@ tags:
 ---
 
 Alleged to be involved in legacy programs operating ARV craft including triangles
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

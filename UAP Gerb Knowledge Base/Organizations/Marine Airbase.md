@@ -6,6 +6,3 @@ tags:
 ---
 
 Personnel witnessed strange moving lights in the sky near the airstrip during the 1979 Spanish UFO incident
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

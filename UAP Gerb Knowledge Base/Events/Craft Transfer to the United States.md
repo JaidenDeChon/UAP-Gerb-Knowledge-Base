@@ -6,6 +6,3 @@ tags:
 ---
 
 At the end of 1944 or after the war, the retrieved craft was allegedly brought from Italy to the United States.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

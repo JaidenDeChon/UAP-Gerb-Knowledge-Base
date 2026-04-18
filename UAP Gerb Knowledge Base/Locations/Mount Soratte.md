@@ -23,6 +23,3 @@ The video treats this segment as plausible but not fully documented, noting the 
 ## Sources
 
 - [[Video - The 1933 Magenta, Italy UFO Crash]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

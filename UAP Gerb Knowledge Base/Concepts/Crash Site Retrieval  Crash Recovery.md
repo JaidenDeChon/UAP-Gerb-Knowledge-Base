@@ -5,6 +5,3 @@ tags:
 ---
 
 Military personnel were deployed to locate and secure the site of a downed unidentified craft, framed initially as a possibly friendly aircraft.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

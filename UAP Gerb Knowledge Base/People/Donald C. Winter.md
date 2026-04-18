@@ -6,6 +6,3 @@ tags:
 ---
 
 Joined TRW in 1972, worked with DARPA under Reagan's Strategic Defense Initiative, transitioned to Northrop Grumman post-acquisition; cited as potentially connected to UFO legacy programs
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

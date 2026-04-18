@@ -6,6 +6,3 @@ tags:
 ---
 
 CIA memo discussing exploitation of a metallic fragment from a UFO recovered in the Congo
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

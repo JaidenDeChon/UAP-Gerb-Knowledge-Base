@@ -40,6 +40,3 @@ McCampbell's quantification of required field strengths helps distinguish betwee
 ## Sources
 
 - [[Video - The Physics of UFOs– Dr. Kevin Knuth]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

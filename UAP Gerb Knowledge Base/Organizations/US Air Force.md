@@ -16,6 +16,3 @@ Connected to TR-3B program and the Boscombe Down crash retrieval
 An Air Force colonel allegedly confiscated radar tracking log books containing data on anomalous aerial objects
 
 USAF crew swarmed the acorn-shaped craft within 15 minutes; also involved in the alleged 1957 Holloman AFB landing
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

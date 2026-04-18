@@ -6,6 +6,3 @@ tags:
 ---
 
 Steven Greer coordinated the transmission of UAP briefing documents to French President Nicholas Sarkozy via Source One Elaine Boder.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 Senior leadership including Clapper and O'Sullivan alleged to have managed UFO legacy programs from within this office
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

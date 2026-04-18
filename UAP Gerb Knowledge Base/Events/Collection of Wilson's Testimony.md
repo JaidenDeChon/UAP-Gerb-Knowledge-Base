@@ -6,6 +6,3 @@ tags:
 ---
 
 UFO researcher Richard Boland collected Colonel Wilson's disclosures in 1996/1997 shortly before Wilson's death.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

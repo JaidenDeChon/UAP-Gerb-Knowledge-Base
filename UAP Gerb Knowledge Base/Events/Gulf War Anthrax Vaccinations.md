@@ -6,6 +6,3 @@ tags:
 ---
 
 From 1991 to 1997, only select troops were given anthrax vaccines, making Castle's post-encounter booster anomalous
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

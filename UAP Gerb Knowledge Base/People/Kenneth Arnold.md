@@ -6,6 +6,3 @@ tags:
 ---
 
 Associated with the 1946 saucer sightings that are referenced as an early UFO event
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

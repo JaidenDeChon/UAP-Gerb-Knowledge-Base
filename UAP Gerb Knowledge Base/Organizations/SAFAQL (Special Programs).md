@@ -6,6 +6,3 @@ tags:
 ---
 
 Directorate under SECAF ATNL that manages classified SAP advanced technology development programs for the Air Force
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

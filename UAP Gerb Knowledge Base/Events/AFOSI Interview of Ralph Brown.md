@@ -6,6 +6,3 @@ tags:
 ---
 
 Master Sergeant Ralph Brown informed Captain Plandowski that Wright-Patterson possessed three flying saucers and alien bodies.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

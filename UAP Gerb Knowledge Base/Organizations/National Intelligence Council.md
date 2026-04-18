@@ -6,6 +6,3 @@ tags:
 ---
 
 Richard Haver served as chief of staff beginning 1998
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

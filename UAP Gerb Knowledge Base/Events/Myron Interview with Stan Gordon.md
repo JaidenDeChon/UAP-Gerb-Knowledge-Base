@@ -6,6 +6,3 @@ tags:
 ---
 
 Myron, in poor health, met with Stan Gordon for a documentary and disclosed seeing a body with lizard-like skin on a workbench near the Bell-shaped craft.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

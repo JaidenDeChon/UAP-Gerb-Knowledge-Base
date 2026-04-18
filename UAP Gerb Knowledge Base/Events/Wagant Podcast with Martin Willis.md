@@ -6,6 +6,3 @@ tags:
 ---
 
 Wagant made a second public appearance discussing his encounter but reportedly explored little new ground.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

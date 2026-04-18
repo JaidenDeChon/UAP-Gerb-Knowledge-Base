@@ -25,6 +25,3 @@ Haut's testimony matters because he was not a distant commentator. He was the of
 
 - [[Video - UFO Whistleblowers Vol.1]]
 - [[Video - The 1953 Kingman, Arizona UFO Crash]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

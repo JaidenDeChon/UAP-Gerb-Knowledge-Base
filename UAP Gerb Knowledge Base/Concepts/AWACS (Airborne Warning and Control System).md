@@ -30,6 +30,3 @@ If the alleged communications log is authentic, it demonstrates that at least on
 ## Sources
 
 - [[Video - Incredible UFO Footage - FLYBY]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

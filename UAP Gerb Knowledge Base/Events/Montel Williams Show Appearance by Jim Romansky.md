@@ -5,6 +5,3 @@ tags:
 ---
 
 Jim Romansky discussed the Kecksburg case and how his children faced issues related to his experience
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

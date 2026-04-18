@@ -22,6 +22,3 @@ Kecksburg is surrounded by wooded terrain, which provided some cover for the cra
 
 - [[Video - The 1965 Kecksburg, Pennsylvania UFO Crash]]
 - Stan Gordon, *Kecksburg: The Untold Story* (1998)
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 An unnamed individual codenamed JLD made similar claims about the Kingman crash to Stringfield but died shortly after
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

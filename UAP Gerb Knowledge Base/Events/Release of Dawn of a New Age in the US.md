@@ -6,6 +6,3 @@ tags:
 ---
 
 The manuscript was released in the United States after Corso's death, prompted by his son to correct inaccuracies in 'The Day After Roswell'
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -6,6 +6,3 @@ tags:
 ---
 
 Payton worked as senior site systems integration manager and later manager of advanced technology at Lockheed Martin
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

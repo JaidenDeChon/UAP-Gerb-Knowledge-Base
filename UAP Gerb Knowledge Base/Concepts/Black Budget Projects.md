@@ -5,6 +5,3 @@ tags:
 ---
 
 Classified military programs funded through non-transparent appropriations; the exhibit was intended to attract investors and secure billions in funding for such programs.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

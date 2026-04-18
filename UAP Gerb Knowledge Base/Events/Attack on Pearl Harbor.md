@@ -6,6 +6,3 @@ tags:
 ---
 
 Referenced as the event that heightened US war nerves leading up to the Battle of Los Angeles.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -23,8 +23,15 @@ These connections link Moltry to the same private equity network that, under [[F
 
 At the 2022 Congressional UAP hearings, Moltry and [[Sean Kirkpatrick]] jointly denied the existence of UAP crash recoveries and reverse engineering programs. UAP researchers have characterized these denials as coordinated institutional disinformation. Moltry's USD I&S office was also involved in awarding the 2022 [[Sand Corp]] contract to AARO — a firm specializing in whistleblower suppression — which critics cite as evidence that AARO was designed to neutralize disclosures rather than investigate UAP.
 
+## Battelle Memorial Institute Advisory Board
+
+Moltry has been a member of [[Battelle Memorial Institute]]'s advisory board since 2016. Battelle is alleged by UAP researchers to have conducted classified analysis on recovered extraterrestrial materials — including [[Nitinol (Nickel-Titanium Alloy)]] — since at least 1949, and to have been the private contractor implicitly identified by [[Jacques Vallee]] and [[James Fox]] as holding UFO materials during a December 2020 Joe Rogan Experience episode. Moltry's simultaneous service on the Battelle advisory board and as the senior official overseeing AARO is cited as a foundational conflict of interest within the UAP oversight apparatus.
+
+Moltry attempted to remove his Battelle advisory board membership from his public LinkedIn profile. The association was preserved in screenshots by POGO.org before the deletion, and was cited by UAP Gerb as evidence that Moltry was aware the Battelle connection was problematic in the context of his UAP-related oversight role.
+
 ## Sources
 
 - [[Video - The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
 - [[Video - Alien Reproduction Vehicle - the Testimony of Mark McCandlish]]
 - [[Video - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies]]
+- [[Video - UFOs in the Private Sector - Battelle Memorial Institute]]

@@ -5,6 +5,3 @@ tags:
 ---
 
 Associated location referenced in connection with Sal Pais's inertial mass reduction craft patents
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

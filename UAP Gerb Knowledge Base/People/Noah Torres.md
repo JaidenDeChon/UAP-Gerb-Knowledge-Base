@@ -27,6 +27,3 @@ Torres co-authored *The Other Roswell: UFO Crash on the Texas Border* (2008) wit
 
 - [[Video - The 1974 Coyame, Mexico UFO Crash]]
 - [[Video - The 1950s Del Rio, Texas UFO Crashes]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

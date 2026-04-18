@@ -6,6 +6,3 @@ tags:
 ---
 
 VP Dick Cheney handpicked Haver to head the administration's intelligence transition team in the early 2000s.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

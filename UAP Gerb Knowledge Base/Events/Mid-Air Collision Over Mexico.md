@@ -6,6 +6,3 @@ tags:
 ---
 
 A civilian aircraft departing El Paso International for Mexico City apparently collided mid-air with an unknown disc-shaped craft over Mexico.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

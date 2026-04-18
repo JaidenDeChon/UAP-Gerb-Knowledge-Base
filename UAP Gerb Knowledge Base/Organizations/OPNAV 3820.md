@@ -6,6 +6,3 @@ tags:
 ---
 
 Cited as a reason why Blue Book files contain limited USO information
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

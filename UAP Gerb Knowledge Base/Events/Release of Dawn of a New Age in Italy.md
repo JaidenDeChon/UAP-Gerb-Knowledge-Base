@@ -6,6 +6,3 @@ tags:
 ---
 
 Corso's original manuscript was first released in Italy, providing an unfiltered account of his claims separate from the co-written bestseller
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

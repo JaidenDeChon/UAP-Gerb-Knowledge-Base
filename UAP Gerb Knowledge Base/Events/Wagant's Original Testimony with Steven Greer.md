@@ -6,6 +6,3 @@ tags:
 ---
 
 Wagant first publicly disclosed his encounter via tape testimony recorded with Steven Greer, which was later published with edits.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

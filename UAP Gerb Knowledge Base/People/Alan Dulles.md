@@ -6,6 +6,3 @@ tags:
 ---
 
 Involved in establishing the National Reconnaissance Office following the U2 spy plane shootdown
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

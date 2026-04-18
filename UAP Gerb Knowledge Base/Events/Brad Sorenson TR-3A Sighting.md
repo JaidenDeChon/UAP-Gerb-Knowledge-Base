@@ -6,6 +6,3 @@ tags:
 ---
 
 Brad Sorenson reportedly witnessed a TR-3A unmanned craft utilizing pulse detonation engines.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

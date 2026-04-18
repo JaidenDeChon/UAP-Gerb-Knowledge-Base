@@ -6,6 +6,3 @@ tags:
 ---
 
 Handles nuclear systems management under AFMC, based at Kirtland Air Force Base, New Mexico
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

@@ -5,6 +5,3 @@ tags:
 ---
 
 A theory that AARO was deliberately designed to identify and neutralize UAP legacy program whistleblowers rather than genuinely investigate UAP.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

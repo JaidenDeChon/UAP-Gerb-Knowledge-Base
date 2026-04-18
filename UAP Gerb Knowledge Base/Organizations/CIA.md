@@ -24,6 +24,3 @@ The CIA was instrumental in the creation of the [[National Reconnaissance Office
 - [[Video - The 1953 Kingman, Arizona UFO Crash]]
 - [[Video - National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers]]
 - [[Video - Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

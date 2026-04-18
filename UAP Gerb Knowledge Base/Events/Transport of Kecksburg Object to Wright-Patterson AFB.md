@@ -6,6 +6,3 @@ tags:
 ---
 
 The object allegedly stayed only briefly at Lockborne before being moved to Wright-Patterson AFB
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

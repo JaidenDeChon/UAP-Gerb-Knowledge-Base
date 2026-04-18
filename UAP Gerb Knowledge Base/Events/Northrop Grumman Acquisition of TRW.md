@@ -6,6 +6,3 @@ tags:
 ---
 
 Northrop Grumman purchased TRW, after which Northrop's IRAD spending exploded from ~331 million to over 500 million dollars annually.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

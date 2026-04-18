@@ -6,6 +6,3 @@ tags:
 ---
 
 Produced official Upshot Knothole documents listing Stansel as personnel within the Special Study Section
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

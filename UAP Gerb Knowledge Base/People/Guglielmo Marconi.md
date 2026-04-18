@@ -24,6 +24,3 @@ Marconi died in July 1937 in Rome, four years after the alleged Magenta recovery
 ## Sources
 
 - [[Video - The 1933 Magenta, Italy UFO Crash]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

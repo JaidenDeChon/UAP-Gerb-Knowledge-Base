@@ -6,6 +6,3 @@ tags:
 ---
 
 Involved in the Blue Book investigation of the Kecksburg incident, including discovery of chaff alongside the alleged meteor
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

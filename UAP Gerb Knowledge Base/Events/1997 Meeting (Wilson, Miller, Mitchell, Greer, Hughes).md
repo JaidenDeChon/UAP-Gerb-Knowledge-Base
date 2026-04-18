@@ -6,6 +6,3 @@ tags:
 ---
 
 A meeting at which Admiral Wilson was briefed on UAP-related matters at Miller's request; confirmed by Miller and the Wilson-Davis memo.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

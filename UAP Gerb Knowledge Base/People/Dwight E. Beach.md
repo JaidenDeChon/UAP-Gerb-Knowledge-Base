@@ -6,6 +6,3 @@ tags:
 ---
 
 Mentioned as successor to Trudeau upon his retirement in 1962, in command of US Army R&D
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

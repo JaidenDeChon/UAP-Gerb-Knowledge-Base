@@ -6,6 +6,3 @@ tags:
 ---
 
 Catalyzed rapid US military expansion including chemical and biological warfare capabilities, leading to Dugway's founding.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

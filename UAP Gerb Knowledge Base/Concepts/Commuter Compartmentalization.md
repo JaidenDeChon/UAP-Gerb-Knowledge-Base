@@ -5,6 +5,3 @@ tags:
 ---
 
 Security practice of requiring Site 4 employees to use Janet Airlines rather than live locally, indicating heightened secrecy above standard TTR protocols
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

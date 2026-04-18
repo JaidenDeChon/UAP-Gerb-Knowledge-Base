@@ -24,6 +24,3 @@ The loss of Douglas's document archive upon her death highlights the fragility o
 ## Sources
 
 - [[Video - The 1974 Coyame, Mexico UFO Crash]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

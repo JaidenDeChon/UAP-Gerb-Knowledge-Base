@@ -6,6 +6,3 @@ tags:
 ---
 
 Identified by Fitts as one of the contractors involved in obfuscation of DoD funds at HUD
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

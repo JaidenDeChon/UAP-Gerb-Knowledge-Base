@@ -6,6 +6,3 @@ tags:
 ---
 
 Event where Michael Herrera first publicly disclosed his UAP encounter; featured multiple whistleblower testimonies
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

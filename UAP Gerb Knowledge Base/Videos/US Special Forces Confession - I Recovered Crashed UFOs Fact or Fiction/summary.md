@@ -47,7 +47,7 @@ The video analyzes testimony from an anonymous UAP whistleblower who claims to h
 - [[Non-Human Intelligence (NHI) Bodies]] — Alleged biological remains of non-human entities recovered from crashed UAP craft.
 - [[Disinformation]] — Sophisticated disinformation programs allegedly used to suppress UAP information, confirmed by the witness.
 - [[UAP Stigma]] — The deliberate suppression and ridicule of UAP topics to prevent public discussion, discussed in separate videos by the narrator.
-- [[Article 15]] — A mechanism giving military commanders authority to punish minor infractions, used to coerce soldiers into UAP programs.
+- Article 15 — A mechanism giving military commanders authority to punish minor infractions, used to coerce soldiers into UAP programs.
 - [[Biological Androids]] — Non-human entities recovered from UAP crashes described as drone-like beings with crude digestive systems, believed to be artificially created biological crew members rather than naturally evolved life forms.
 - [[Avatars  Biological Robots]] — Gary Nolan's and the intelligence community's hypothesis that most observed NHI are not the true intelligence but intermediary biological constructs sent to interact with humans.
 - [[Non-Destructive and Destructive Access]] — Methods by which crash retrieval teams accessed the interiors of recovered craft, with some craft opening on their own and others requiring forced entry.
@@ -65,7 +65,7 @@ The video analyzes testimony from an anonymous UAP whistleblower who claims to h
 - [[Rapid Reaction Unit]] — A military unit referenced by the whistleblower as part of his Vietnam-era service, potentially involving helicopter operations and perimeter security.
 
 ## Events & Dates
-- [[Malmstrom Air Force Base UAP Incident]] — Robert Salas reported UAP interaction with nuclear arms at Malmstrom AFB.
+- [[Malmstrom Air Force Base UFO Incident]] — Robert Salas reported UAP interaction with nuclear arms at Malmstrom AFB.
 - [[Kingman Arizona UAP Crash]] — Alleged crash occurring during Operation Upshot-Knothole nuclear testing, suggesting UAP interest in nuclear technology.
 - [[1954 Roswell Area Crash Retrieval]] — Witness 'Ka' and a USAF crew were dispatched from Roswell AFB to a site 25-30 miles northwest where a metallic saucer was found crashed; NHI bodies were present.
 - [[Vietnam Era UAP Crash and Program Induction]] — Witness and platoon observed an egg-shaped UAP crash in Vietnam between October and December 1968; five platoon members later died in combat.

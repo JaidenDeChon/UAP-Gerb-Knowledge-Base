@@ -6,6 +6,3 @@ tags:
 ---
 
 Claimed to have attended Ben Rich's 1993 UCLA lecture and recounted Rich's statements about ET and interstellar travel
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

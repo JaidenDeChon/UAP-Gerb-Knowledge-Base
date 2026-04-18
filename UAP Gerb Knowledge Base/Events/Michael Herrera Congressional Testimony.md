@@ -6,6 +6,3 @@ tags:
 ---
 
 Michael Herrera gave closed-door testimony to Congress describing a UAP encounter involving fellow Marines.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

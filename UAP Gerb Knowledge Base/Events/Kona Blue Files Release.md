@@ -5,6 +5,3 @@ tags:
 ---
 
 Declassified or leaked files related to a program called Kona Blue were released; the presenter plans to review and report on them.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

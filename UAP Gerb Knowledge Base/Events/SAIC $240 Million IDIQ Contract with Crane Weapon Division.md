@@ -6,6 +6,3 @@ tags:
 ---
 
 Contract to support Crane's weapon division instrumentation platform; link disappeared from SAIC's site around January 2024.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

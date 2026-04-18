@@ -6,6 +6,3 @@ tags:
 ---
 
 Successor command that absorbed ARDC functions and later merged with Air Force Logistics Command in 1992 to form Air Force Material Command
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

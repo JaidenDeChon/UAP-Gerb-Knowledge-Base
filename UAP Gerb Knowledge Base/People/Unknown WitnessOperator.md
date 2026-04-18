@@ -6,6 +6,3 @@ tags:
 ---
 
 Describes encountering black trucks, shipping containers with cylinders, and being weapons-checked near an unidentified craft
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

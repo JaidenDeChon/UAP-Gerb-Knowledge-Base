@@ -6,6 +6,3 @@ tags:
 ---
 
 Northrop Grumman merged NGIS and space technologies into the modern-day Space Systems division.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

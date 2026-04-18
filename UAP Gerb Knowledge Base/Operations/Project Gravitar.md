@@ -5,6 +5,3 @@ tags:
 ---
 
 A documentary project by Luigi Vendatilli focusing on Bob Lazar's case, emphasizing full identified names, reduced drama, and a photorealistic recreation of S4
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

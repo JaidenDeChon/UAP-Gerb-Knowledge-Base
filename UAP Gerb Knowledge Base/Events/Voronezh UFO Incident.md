@@ -30,6 +30,3 @@ The case remains in an ambiguous evidential status: the children's accounts were
 ## Sources
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

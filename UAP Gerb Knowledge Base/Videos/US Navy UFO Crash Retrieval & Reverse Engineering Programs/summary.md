@@ -23,7 +23,7 @@ This video examines alleged U.S. Navy involvement in UAP crash retrieval and rev
 - [[Bob Echler]] — Had a 1989 telephone call with Inman regarding recovered UAP vehicles and technological research
 - [[Everett Heinman]] — Recommended by Inman to Echler as a contact regarding recovered vehicles for technological research
 - [[Lord Hill Norton]] — Helped facilitate contact between a researcher and Admiral Inman regarding UAP
-- [[Heinman]] — Connected to UFO legacy programs through his roles at CIA DS&T and NRO; managed Pine Gap facility in Australia
+- [[Everett Heinman]] — Connected to UFO legacy programs through his roles at CIA DS&T and NRO; managed Pine Gap facility in Australia (see also entry above)
 - [[Sumar Shapiro]] — Told Echler that factions within the US possess extraterrestrial vehicles he had studied at close quarters
 - [[Nat Kobitz]] — Told Ross Coulthart he was read into a Navy UFO crash retrieval and reverse engineering program
 - [[Ross Coulthart]] — Was contacted by Nat Kobitz who disclosed being read into a classified UAP retrieval program

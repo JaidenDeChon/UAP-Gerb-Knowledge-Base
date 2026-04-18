@@ -12,6 +12,3 @@ Oversees Air Force R&D, acquisition, and sustainment with a $60B+ annual budget;
 Top-level Air Force acquisition office theorized to oversee UFO legacy programs through subordinate directorates
 
 Parent office overseeing AQR, AQL, and AQX; suspected of involvement in UFO legacy program operations through its subcomponents
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

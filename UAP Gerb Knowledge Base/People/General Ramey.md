@@ -22,6 +22,3 @@ Ramey co-issued a press release with General Samford following the major 1952 UF
 ## Sources
 
 - [[Video - The 1950s Del Rio, Texas UFO Crashes]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

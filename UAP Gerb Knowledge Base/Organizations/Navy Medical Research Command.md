@@ -6,6 +6,3 @@ tags:
 ---
 
 Parent command overseeing NAMRU installations conducting biomedical research for Navy and Marine Corps
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

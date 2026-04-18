@@ -5,6 +5,3 @@ tags:
 ---
 
 At 3-4 a.m., Lance Corporal Sergeant Atkins, Sergeant Allen, and multiple Marines in Humvees departed after being informed of a crashed aircraft around 11 p.m. to midnight
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

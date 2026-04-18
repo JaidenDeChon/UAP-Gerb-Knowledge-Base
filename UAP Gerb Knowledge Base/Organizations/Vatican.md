@@ -17,6 +17,3 @@ According to UAP researchers and whistleblower testimony from [[David Grusch]] a
 
 **Technologies of Unknown Origin (1949):**  
 The Vatican was alleged by Collins to be one of the agencies aware of or involved in technologies of unknown origin research around 1949.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

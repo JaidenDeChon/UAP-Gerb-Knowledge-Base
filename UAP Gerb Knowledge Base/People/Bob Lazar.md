@@ -14,6 +14,3 @@ Lazar described recovered alien craft as flying at an angle with their "belly to
 ## Sources
 
 - [[Video - Incredible UFO Footage - FLYBY]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

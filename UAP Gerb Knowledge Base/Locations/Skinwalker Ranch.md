@@ -5,6 +5,3 @@ tags:
 ---
 
 Site of a 2018 briefing that a media figure (Sean) falsely denied attending.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

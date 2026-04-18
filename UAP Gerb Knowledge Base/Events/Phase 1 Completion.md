@@ -6,6 +6,3 @@ tags:
 ---
 
 Targeted end date for Phase 1 of the UAP disclosure roadmap, focused on achieving government acceptance.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

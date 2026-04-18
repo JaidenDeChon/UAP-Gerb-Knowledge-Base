@@ -6,6 +6,3 @@ tags:
 ---
 
 Collins died on 30 December 1990, shortly after being interviewed by Tim Cooper.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

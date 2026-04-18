@@ -6,6 +6,3 @@ tags:
 ---
 
 Multiple police officers near Scott Air Force Base reported a massive elongated black triangle with white corner lights and multicolored illumination.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

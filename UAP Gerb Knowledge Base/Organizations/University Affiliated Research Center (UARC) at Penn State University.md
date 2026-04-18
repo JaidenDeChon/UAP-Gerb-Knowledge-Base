@@ -6,6 +6,3 @@ tags:
 ---
 
 Connected to Dr. Eric Walker and the Army Research Laboratory (ARL); noted as having potential relevance to UAP research
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

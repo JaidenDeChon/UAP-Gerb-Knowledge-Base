@@ -6,6 +6,3 @@ tags:
 ---
 
 Navy yeoman Dale Bailey alleges he saw the SOM 1-01 manual while assisting in the destruction of classified UFO material for an admiral.
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*

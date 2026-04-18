@@ -19,6 +19,3 @@ In the case of the flyby footage, the second-generation nature has been cited bo
 ## Sources
 
 - [[Video - Incredible UFO Footage - FLYBY]]
-
-## Appearances
-*(Populated automatically via Obsidian backlinks from [[Videos]])*
