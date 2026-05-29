@@ -1,8 +1,0 @@
----
-name: "US Government"
-org_type: "govt"
-tags:
-  - organization
----
-
-Alleged to have sent elements that confiscated news tapes of eyewitness accounts and suppressed broadcasts

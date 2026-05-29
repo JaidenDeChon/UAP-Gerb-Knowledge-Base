@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "-\"MOC\" -\"Template\" -\"summary\" -\"transcript\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Concepts  ",
@@ -57,16 +57,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -1.9,
-  "nodeSizeMultiplier": 2.090625,
-  "lineSizeMultiplier": 0.628068576388889,
+  "nodeSizeMultiplier": 2.990234375,
+  "lineSizeMultiplier": 0.628493923611111,
   "collapse-forces": false,
-  "centerStrength": 0.0885416666666667,
-  "repelStrength": 17.078125,
-  "linkStrength": 0.351171875,
-  "linkDistance": 412,
-  "scale": 0.01745973686346806,
+  "centerStrength": 0.195442708333333,
+  "repelStrength": 11.3229166666667,
+  "linkStrength": 0.110763888888889,
+  "linkDistance": 184,
+  "scale": 0.0422662164797198,
   "close": true
 }
