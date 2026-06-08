@@ -15,16 +15,22 @@ All paths below are relative to this root.
 
 ---
 
-## Phase 1: Read and Partition the CSV
+## Phase 1: Read, Deduplicate, and Partition the CSV
 
 1. Read `UAP Gerb Knowledge Base/stub_entries.csv`. Skip the header row.
 2. Extract the first 30 data rows. Record the exact `name`, `folder`, and `file_path` for each.
-3. Divide into three batches:
+3. **Duplicate detection — run before dispatch:**
+   - Normalize each name: lowercase, strip punctuation, collapse whitespace.
+   - Group entries whose normalized names are identical or differ only by minor variants (e.g. "Roswell Incident" vs "The Roswell Incident", or the same `file_path` appearing twice).
+   - For each duplicate group: keep the entry with the longest `file_path` stem (usually the most-specific title). Mark the others as **pre-batch duplicates**.
+   - For each pre-batch duplicate: delete the file with `rm` if it exists, note the deletion, and add its `file_path` to a running `extra_deletions` set that will be removed from the CSV in Phase 3.
+   - Continue with only the deduplicated rows.
+4. Divide the deduplicated rows into three batches:
    - **Batch A**: rows 1–10
    - **Batch B**: rows 11–20
    - **Batch C**: rows 21–30
 
-If fewer than 30 rows remain, divide what's available as evenly as possible.
+If fewer than 30 rows remain after deduplication, divide what's available as evenly as possible.
 
 ---
 
@@ -91,6 +97,15 @@ When in doubt and the entity has any specific identifying information at all, **
 
 ### Step 5: If Improving
 
+**Before writing, check for existing duplicates on disk:**
+- Grep the folder (and neighbors) for the entity name and close variants.
+- If a substantively similar page already exists at a *different path* (same entity, different file name or location):
+  - Merge the better content into the single file you will keep (prefer the one with the more canonical name).
+  - Delete the weaker duplicate file with `rm`.
+  - Add the deleted file's `file_path` (relative to the vault root, as it would appear in the CSV) to your report's **extra_deletions** list. The orchestrator will strip it from the CSV.
+  - Continue improving only the surviving file.
+- If your entry's own file does not exist on disk (was already deleted by a prior step), skip the improve step and report it as deleted.
+
 Rewrite the page to meet the full quality standard. Every improved page must have:
 
 ```markdown
@@ -135,6 +150,16 @@ For each of your 10 entries, report:
 - Action: **deleted** (with reason) or **improved** (with brief summary of what changed)
 - Key repo sources used
 
+At the end of your report, include a dedicated section:
+
+```
+EXTRA_DELETIONS:
+- Folder/Some Duplicate File.md
+- Folder/Another Duplicate.md
+```
+
+List every file you deleted that was **not** in your original 10-entry list (i.e., duplicates you found and removed during Step 5, or the weaker copy from a merge). If none, write `EXTRA_DELETIONS: none`. The orchestrator reads this section to ensure those paths are also removed from the CSV.
+
 ---
 
 *(End of Worker Instructions)*
@@ -143,7 +168,14 @@ For each of your 10 entries, report:
 
 ## Phase 3: Safe CSV Deletion
 
-After all 3 workers return, delete the processed rows from the CSV using Python's `csv` module with content-based matching by `file_path`. Never match by line number.
+After all 3 workers return:
+
+1. **Collect all paths to remove** — this is a union of:
+   - Every `file_path` from the original 30 entries dispatched to workers (both deleted and improved — all processed entries leave the queue).
+   - Every path from the `extra_deletions` set you built in Phase 1 (pre-batch duplicates you deleted yourself).
+   - Every path listed under `EXTRA_DELETIONS:` in each worker's report (on-disk duplicates workers found and deleted).
+
+2. **Remove those rows from the CSV** using Python's `csv` module with content-based matching by `file_path`. Never match by line number.
 
 Run this from the repo root (`/Users/jaiden/Library/Repos/UAP-Gerb-Knowledge-Base`):
 
@@ -152,37 +184,42 @@ import csv
 
 csv_path = "UAP Gerb Knowledge Base/stub_entries.csv"
 
-# Populate this set with the file_path value of every entry processed
-# (both deleted and improved — all 30 should be removed from the queue)
-processed_paths = {
+# Union of: all 30 dispatched file_paths + Phase-1 pre-batch duplicates
+# + every path from EXTRA_DELETIONS sections in worker reports
+to_remove = {
     "Folder/Example Entry.md",
-    # ... all 30 file_path values
+    # ... all dispatched + extra paths
 }
 
 with open(csv_path, "r", newline="", encoding="utf-8") as f:
     reader = csv.DictReader(f)
     fieldnames = reader.fieldnames
-    remaining = [row for row in reader if row["file_path"] not in processed_paths]
+    rows = list(reader)
+
+remaining = [row for row in rows if row["file_path"] not in to_remove]
+removed = len(rows) - len(remaining)
 
 with open(csv_path, "w", newline="", encoding="utf-8") as f:
     writer = csv.DictWriter(f, fieldnames=fieldnames)
     writer.writeheader()
     writer.writerows(remaining)
 
-print(f"Removed {30 - len(remaining) + len(remaining)} rows processed. {len(remaining)} rows remain.")
+print(f"Removed {removed} rows. {len(remaining)} rows remain.")
 ```
 
-**Why this is safe:** Workers never touch the CSV. Deletion runs once after all work is complete. Rows are matched by unique `file_path` content — not line numbers that shift — so the operation is correct even if the file changed during processing.
+**Why this is safe:** Workers never touch the CSV. Deletion runs once after all work is complete. Rows are matched by unique `file_path` content — not line numbers that shift — so the operation is idempotent and correct even if extra paths don't appear in the CSV (they are silently skipped).
 
 ---
 
 ## Phase 4: Summarize
 
 Report:
-- All 30 entries, grouped by batch (A / B / C)
+- All dispatched entries, grouped by batch (A / B / C)
 - Action for each: deleted (with reason) or improved (brief description)
+- Pre-batch duplicates caught and deleted in Phase 1 (if any)
+- Extra duplicates deleted by workers (if any), with their file paths
 - Total deleted vs. improved
-- Rows removed from CSV and rows remaining
+- Total rows removed from CSV (dispatched + pre-batch + extra duplicates) and rows remaining
 
 ---
 
@@ -190,7 +227,9 @@ Report:
 
 - **If fewer than 30 rows remain:** divide what's available evenly across workers; adjust batch sizes.
 - **Very little repo coverage for an entity:** if you cannot find it in any transcript or wiki page, apply the deletion criteria strictly. A stub with a specific proper name but zero repo coverage can be kept as a minimal stub — but only if the name itself is specific enough to be unambiguous.
-- **Two entries are the same entity:** note the overlap. Merge into one page, delete the duplicate file, and remove both CSV rows.
+- **Two entries in the batch are the same entity:** caught in Phase 1. Delete the weaker file, add to `extra_deletions`, dispatch only the survivor.
+- **A worker finds a duplicate outside the batch:** worker deletes the weaker file and reports it under `EXTRA_DELETIONS:`. Orchestrator adds it to `to_remove` in Phase 3.
+- **An extra-deletion path is not in the CSV:** that's fine — the Python script skips paths not found in `to_remove`, so no error occurs.
 - **If the CSV cannot be found at `UAP Gerb Knowledge Base/stub_entries.csv`:** stop and ask the user for the correct path.
 
 ---

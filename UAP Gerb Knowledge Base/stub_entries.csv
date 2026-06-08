@@ -1,34 +1,4 @@
 name,folder,body_chars,file_path
-"1997 Meeting (Wilson, Miller, Mitchell, Greer, Hughes)",Events,138,"Events/1997 Meeting (Wilson, Miller, Mitchell, Greer, Hughes).md"
-"Fallon, Nevada",Locations,129,"Locations/Fallon, Nevada.md"
-"Lancaster, New Hampshire",Locations,119,"Locations/Lancaster, New Hampshire.md"
-"Alamogordo, New Mexico",Locations,87,"Locations/Alamogordo, New Mexico.md"
-"Albuquerque, New Mexico",Locations,151,"Locations/Albuquerque, New Mexico.md"
-"Cedar Hill, New Mexico",Locations,104,"Locations/Cedar Hill, New Mexico.md"
-"Cuba, New Mexico",Locations,92,"Locations/Cuba, New Mexico.md"
-"Kirtland Air Force Base, New Mexico",Locations,108,"Locations/Kirtland Air Force Base, New Mexico.md"
-"Roswell, New Mexico",Locations,111,"Locations/Roswell, New Mexico.md"
-"San Augustine, New Mexico",Locations,126,"Locations/San Augustine, New Mexico.md"
-"Croton Falls Reservoir, New York",Locations,89,"Locations/Croton Falls Reservoir, New York.md"
-"Cape Race, Newfoundland",Locations,69,"Locations/Cape Race, Newfoundland.md"
-"Cherry Point, North Carolina",Locations,76,"Locations/Cherry Point, North Carolina.md"
-"Fargo, North Dakota, USA",Locations,142,"Locations/Fargo, North Dakota, USA.md"
-"Minot Air Force Base, North Dakota",Locations,91,"Locations/Minot Air Force Base, North Dakota.md"
-"Crash Site, Northern Peru",Locations,110,"Locations/Crash Site, Northern Peru.md"
-"Spitsbergen, Norway",Locations,153,"Locations/Spitsbergen, Norway.md"
-"Shag Harbour, Nova Scotia",Locations,120,"Locations/Shag Harbour, Nova Scotia.md"
-"Shelburne Harbor, Nova Scotia",Locations,116,"Locations/Shelburne Harbor, Nova Scotia.md"
-"Cincinnati, Ohio",Locations,92,"Locations/Cincinnati, Ohio.md"
-"McMinnville, Oregon",Locations,95,"Locations/McMinnville, Oregon.md"
-"Howard Air Force Base, Panama",Locations,80,"Locations/Howard Air Force Base, Panama.md"
-"1965 Kecksburg, Pennsylvania Crash Retrieval",Events,151,"Events/1965 Kecksburg, Pennsylvania Crash Retrieval.md"
-"Greensburg, Pennsylvania",Locations,132,"Locations/Greensburg, Pennsylvania.md"
-"Murrysville, Pennsylvania",Locations,83,"Locations/Murrysville, Pennsylvania.md"
-"Pittsburgh, Pennsylvania",Locations,95,"Locations/Pittsburgh, Pennsylvania.md"
-"Bukulpa, Peru",Locations,127,"Locations/Bukulpa, Peru.md"
-"Ikitos, Peru",Locations,119,"Locations/Ikitos, Peru.md"
-"Lima, Peru",Locations,90,"Locations/Lima, Peru.md"
-"Aguadilla, Puerto Rico",Locations,131,"Locations/Aguadilla, Puerto Rico.md"
 "Aberdeen, Scotland",Locations,110,"Locations/Aberdeen, Scotland.md"
 "Johannesburg, South Africa",Locations,92,"Locations/Johannesburg, South Africa.md"
 "Port Augusta, South Australia",Locations,78,"Locations/Port Augusta, South Australia.md"
@@ -58,7 +28,6 @@ name,folder,body_chars,file_path
 "Mad, Wisconsin",Locations,89,"Locations/Mad, Wisconsin.md"
 Magnetohydrodynamics (MHD),Concepts,80,Concepts/Magnetohydrodynamics (MHD).md
 Non-Human Intelligence (NHI) Bodies,Concepts,84,Concepts/Non-Human Intelligence (NHI) Bodies.md
-Technologies of Unknown Origin,Concepts,87,Concepts/Technologies of Unknown Origin.md
 J-Rod,Concepts,88,Concepts/J-Rod.md
 Lithopanspermia,Concepts,88,Concepts/Lithopanspermia.md
 Faster-Than-Light Travel,Concepts,89,Concepts/Faster-Than-Light Travel.md
@@ -68,24 +37,19 @@ Silent Flying Triangles,Concepts,91,Concepts/Silent Flying Triangles.md
 Geoglyphs,Concepts,94,Concepts/Geoglyphs.md
 Remote Viewing,Concepts,94,Concepts/Remote Viewing.md
 Underground Facilities,Concepts,94,Concepts/Underground Facilities.md
-Crash Retrieval Operations,Concepts,95,Concepts/Crash Retrieval Operations.md
 Forward Contamination,Concepts,96,Concepts/Forward Contamination.md
 Classified Parallel Programs to Blue Book,Concepts,97,Concepts/Classified Parallel Programs to Blue Book.md
 Lead Paint Radiation Shielding,Concepts,97,Concepts/Lead Paint Radiation Shielding.md
-UAP Disclosure,Concepts,97,Concepts/UAP Disclosure.md
 National Intelligence Estimate on UAP,Concepts,98,Concepts/National Intelligence Estimate on UAP.md
 Phased Array Radar Tracking,Concepts,98,Concepts/Phased Array Radar Tracking.md
 Project Blue Beam,Concepts,98,Concepts/Project Blue Beam.md
 Technology Executive Officers (TUOs),Concepts,98,Concepts/Technology Executive Officers (TUOs).md
 Blue arcing light,Concepts,99,Concepts/Blue arcing light.md
-Controlled Disclosure,Concepts,99,Concepts/Controlled Disclosure.md
 Capacitor Plates,Concepts,100,Concepts/Capacitor Plates.md
 Material Exploitation,Concepts,101,Concepts/Material Exploitation.md
 Material Imperviousness,Concepts,101,Concepts/Material Imperviousness.md
-Non-Human Technology Exploitation,Concepts,101,Concepts/Non-Human Technology Exploitation.md
 Western Range UFO Legacy Program,Concepts,101,Concepts/Western Range UFO Legacy Program.md
 Cutler-Twining Memo,Concepts,102,Concepts/Cutler-Twining Memo.md
-Non-Human Derived Technologies,Concepts,102,Concepts/Non-Human Derived Technologies.md
 NRO Sentient Program,Concepts,102,Concepts/NRO Sentient Program.md
 Secrecy Agreements  NDAs,Concepts,102,Concepts/Secrecy Agreements  NDAs.md
 Electromagnetic Interference,Concepts,103,Concepts/Electromagnetic Interference.md
@@ -94,8 +58,6 @@ Fauna-Disguised Drones,Concepts,103,Concepts/Fauna-Disguised Drones.md
 Electromagnetic Pulse (EMP) Weapons,Concepts,104,Concepts/Electromagnetic Pulse (EMP) Weapons.md
 UAP Classification Level,Concepts,104,Concepts/UAP Classification Level.md
 Distance Recursion,Concepts,105,Concepts/Distance Recursion.md
-University Affiliated Research Centers (URCs),Concepts,105,Concepts/University Affiliated Research Centers (URCs).md
-Carve-out Contracts,Concepts,106,Concepts/Carve-out Contracts.md
 Deep Submergent Systems Project,Concepts,106,Concepts/Deep Submergent Systems Project.md
 Foreign Adversarial Technology,Concepts,106,Concepts/Foreign Adversarial Technology.md
 Honeycomb Skin Construction,Concepts,106,Concepts/Honeycomb Skin Construction.md
@@ -117,36 +79,25 @@ Trans-Medium Objects,Concepts,109,Concepts/Trans-Medium Objects.md
 UARCs (University Affiliated Research Centers),Concepts,109,Concepts/UARCs (University Affiliated Research Centers).md
 Directed Panspermia,Concepts,110,Concepts/Directed Panspermia.md
 Magnetic or Repulsive Levitation,Concepts,110,Concepts/Magnetic or Repulsive Levitation.md
-Reverse Engineering,Concepts,110,Concepts/Reverse Engineering.md
 Ballistic Panspermia,Concepts,111,Concepts/Ballistic Panspermia.md
 Career Suppression of UFO Disclosure,Concepts,111,Concepts/Career Suppression of UFO Disclosure.md
-Foreign Material Program (FMP),Concepts,111,Concepts/Foreign Material Program (FMP).md
 Pulse Detonation Engine,Concepts,111,Concepts/Pulse Detonation Engine.md
 Sports Model,Concepts,111,Concepts/Sports Model.md
 Technological Surprise,Concepts,111,Concepts/Technological Surprise.md
 Western Ranges,Concepts,111,Concepts/Western Ranges.md
 Extraterrestrial Biological Entity (EBE),Concepts,112,Concepts/Extraterrestrial Biological Entity (EBE).md
-Recovered Non-Human Craft and Biologics,Concepts,112,Concepts/Recovered Non-Human Craft and Biologics.md
-Reverse Engineered Airframes,Concepts,112,Concepts/Reverse Engineered Airframes.md
 UAP Overwatch,Concepts,112,Concepts/UAP Overwatch.md
 Weapons strippingcheck,Concepts,112,Concepts/Weapons strippingcheck.md
 Back Contamination,Concepts,113,Concepts/Back Contamination.md
 ELINT (Electronic Intelligence),Concepts,113,Concepts/ELINT (Electronic Intelligence).md
-Global Air Force UFO Encounters,Concepts,113,Concepts/Global Air Force UFO Encounters.md
 ISR Probing,Concepts,113,Concepts/ISR Probing.md
 Murder to Protect UAP Secrets,Concepts,113,Concepts/Murder to Protect UAP Secrets.md
-NHI Materials,Concepts,113,Concepts/NHI Materials.md
 OvoidTeardrop Craft,Concepts,113,Concepts/OvoidTeardrop Craft.md
 Pelican casesweapons crates,Concepts,113,Concepts/Pelican casesweapons crates.md
 Technologies of Unknown Origin (TUO),Concepts,113,Concepts/Technologies of Unknown Origin (TUO).md
-UAP Iceberg Series,Concepts,113,Concepts/UAP Iceberg Series.md
 Low Temperature Plasma,Concepts,114,Concepts/Low Temperature Plasma.md
 Majestic 12 Special Operations Manual,Concepts,114,Concepts/Majestic 12 Special Operations Manual.md
-Non-Disclosure Agreement (NDA),Concepts,114,Concepts/Non-Disclosure Agreement (NDA).md
 RCS Testing (Radar Cross-Section Testing),Concepts,114,Concepts/RCS Testing (Radar Cross-Section Testing).md
-Security Intimidation,Concepts,114,Concepts/Security Intimidation.md
-Technology of Unknown Origin (TUO),Concepts,114,Concepts/Technology of Unknown Origin (TUO).md
-Crash Retrieval Programs,Concepts,115,Concepts/Crash Retrieval Programs.md
 Derivative Technologies of Unknown Origin,Concepts,115,Concepts/Derivative Technologies of Unknown Origin.md
 Gang of Eight,Concepts,115,Concepts/Gang of Eight.md
 Hypersonic Velocity Without Signatures,Concepts,115,Concepts/Hypersonic Velocity Without Signatures.md
@@ -154,7 +105,6 @@ Interdimensional Travel,Concepts,115,Concepts/Interdimensional Travel.md
 Luminous WavesPulsations,Concepts,115,Concepts/Luminous WavesPulsations.md
 Metal of Unknown Composition,Concepts,115,Concepts/Metal of Unknown Composition.md
 MOPP Gear (Mission-Oriented Protective Posture),Concepts,115,Concepts/MOPP Gear (Mission-Oriented Protective Posture).md
-NHI Quid Pro Quo,Concepts,115,Concepts/NHI Quid Pro Quo.md
 QuarantineHolding Protocol,Concepts,115,Concepts/QuarantineHolding Protocol.md
 Ball Control Scheme,Concepts,116,Concepts/Ball Control Scheme.md
 Biological Isolation Protocol,Concepts,116,Concepts/Biological Isolation Protocol.md
@@ -180,16 +130,13 @@ Anomalous Signatures,Concepts,119,Concepts/Anomalous Signatures.md
 Blue Book Unidentified Classification,Concepts,119,Concepts/Blue Book Unidentified Classification.md
 Eminent Domain (UAP context),Concepts,119,Concepts/Eminent Domain (UAP context).md
 Extrasensory Perception (ESP),Concepts,119,Concepts/Extrasensory Perception (ESP).md
-Harassment of Witnesses,Concepts,119,Concepts/Harassment of Witnesses.md
 Interstellar Travel,Concepts,119,Concepts/Interstellar Travel.md
 Keyhole Program,Concepts,119,Concepts/Keyhole Program.md
-Legacy Program Operations,Concepts,119,Concepts/Legacy Program Operations.md
 Light Rail System (Underground),Concepts,119,Concepts/Light Rail System (Underground).md
 Maritime UFO and USO Research,Concepts,119,Concepts/Maritime UFO and USO Research.md
 Non-Authorized Transfer of Authority Funds,Concepts,119,Concepts/Non-Authorized Transfer of Authority Funds.md
 Non-Human Intelligence Projection,Concepts,119,Concepts/Non-Human Intelligence Projection.md
 Porthole Mirror Effect,Concepts,119,Concepts/Porthole Mirror Effect.md
-Program Insider,Concepts,119,Concepts/Program Insider.md
 Radar Disabling of UAP,Concepts,119,Concepts/Radar Disabling of UAP.md
 Roswell Before Roswell,Concepts,119,Concepts/Roswell Before Roswell.md
 SOM 1-01 Manual (Psalm 101),Concepts,119,Concepts/SOM 1-01 Manual (Psalm 101).md
@@ -201,9 +148,7 @@ Free Energy Technology,Concepts,120,Concepts/Free Energy Technology.md
 Major Range and Test Facility Bases (MRTFBs),Concepts,120,Concepts/Major Range and Test Facility Bases (MRTFBs).md
 Mercury-Based Plasma System,Concepts,120,Concepts/Mercury-Based Plasma System.md
 Radar Cross-Section Facility,Concepts,120,Concepts/Radar Cross-Section Facility.md
-Reverse Engineered Technology,Concepts,120,Concepts/Reverse Engineered Technology.md
 Siloed Military Programs,Concepts,120,Concepts/Siloed Military Programs.md
-Special Access Program (SAP),Concepts,120,Concepts/Special Access Program (SAP).md
 Superconducting Plasma,Concepts,120,Concepts/Superconducting Plasma.md
 Undersea Reconnaissance,Concepts,120,Concepts/Undersea Reconnaissance.md
 Biological and Chemical Weapons Testing,Concepts,121,Concepts/Biological and Chemical Weapons Testing.md
@@ -234,15 +179,12 @@ National Secrecy Laws,Concepts,123,Concepts/National Secrecy Laws.md
 Non-human Biological Entity,Concepts,123,Concepts/Non-human Biological Entity.md
 OPNAV Directive 3820,Concepts,123,Concepts/OPNAV Directive 3820.md
 Overhead Collection,Concepts,123,Concepts/Overhead Collection.md
-Reverse Engineered UAP Technology,Concepts,123,Concepts/Reverse Engineered UAP Technology.md
 Side Scan Sonar,Concepts,123,Concepts/Side Scan Sonar.md
 Stovepiping,Concepts,123,Concepts/Stovepiping.md
-UAP SAP Federation,Concepts,123,Concepts/UAP SAP Federation.md
 Blacked-out Windows  Need-to-know Secrecy,Concepts,124,Concepts/Blacked-out Windows  Need-to-know Secrecy.md
 Cargo Net Helicopter Transport,Concepts,124,Concepts/Cargo Net Helicopter Transport.md
 Controlled Access Programs (CAP),Concepts,124,Concepts/Controlled Access Programs (CAP).md
 Deep Six Clandestine UAP Operations,Concepts,124,Concepts/Deep Six Clandestine UAP Operations.md
-Disclosure Advocacy,Concepts,124,Concepts/Disclosure Advocacy.md
 File UFO 3263,Concepts,124,Concepts/File UFO 3263.md
 G-force estimation for UAP,Concepts,124,Concepts/G-force estimation for UAP.md
 Hot Lead Press,Concepts,124,Concepts/Hot Lead Press.md
@@ -251,19 +193,14 @@ Special Use Airspace R2501C,Concepts,124,Concepts/Special Use Airspace R2501C.md
 Staged Dereliction,Concepts,124,Concepts/Staged Dereliction.md
 Synthetic Aperture Radar,Concepts,124,Concepts/Synthetic Aperture Radar.md
 Top Secret MAGIC Eyes Only,Concepts,124,Concepts/Top Secret MAGIC Eyes Only.md
-University Affiliated Research Centers (UARCs),Concepts,124,Concepts/University Affiliated Research Centers (UARCs).md
-Whistleblower vetting,Concepts,124,Concepts/Whistleblower vetting.md
 Biological Bullets,Concepts,125,Concepts/Biological Bullets.md
-Extraterrestrial Bodies Recovery,Concepts,125,Concepts/Extraterrestrial Bodies Recovery.md
 Human Trafficking in UAP Context,Concepts,125,Concepts/Human Trafficking in UAP Context.md
 IDIQ Contracts (Indefinite Delivery Indefinite Quantity),Concepts,125,Concepts/IDIQ Contracts (Indefinite Delivery Indefinite Quantity).md
 Little Green Men,Concepts,125,Concepts/Little Green Men.md
-Major Range Test Facility Bases (MRTFB),Concepts,125,Concepts/Major Range Test Facility Bases (MRTFB).md
 Matte Black Stealth Surface,Concepts,125,Concepts/Matte Black Stealth Surface.md
 Misappropriation of Funds,Concepts,125,Concepts/Misappropriation of Funds.md
 Program Protection Strategies,Concepts,125,Concepts/Program Protection Strategies.md
 Tasked vs. Non-Tasked NRO Satellite Constellations,Concepts,125,Concepts/Tasked vs. Non-Tasked NRO Satellite Constellations.md
-Technology of Unknown Origins (TUO),Concepts,125,Concepts/Technology of Unknown Origins (TUO).md
 Transmedium UAPUSO,Concepts,125,Concepts/Transmedium UAPUSO.md
 UAP Denial by Naval Officials,Concepts,125,Concepts/UAP Denial by Naval Officials.md
 Dual-Hatted Roles,Concepts,126,Concepts/Dual-Hatted Roles.md
@@ -274,9 +211,6 @@ Intelligence Surveillance and Reconnaissance (ISR),Concepts,126,Concepts/Intelli
 Interstellar Travel Technology,Concepts,126,Concepts/Interstellar Travel Technology.md
 Narcotics Traffic Monitoring,Concepts,126,Concepts/Narcotics Traffic Monitoring.md
 National Security Risk,Concepts,126,Concepts/National Security Risk.md
-Non-Human Craft and Remains,Concepts,126,Concepts/Non-Human Craft and Remains.md
-Non-Human Intelligence (NHI) Craft,Concepts,126,Concepts/Non-Human Intelligence (NHI) Craft.md
-Non-human Technology Acquisition,Concepts,126,Concepts/Non-human Technology Acquisition.md
 Psalm 101 (Special Operations 1 Majestic 12 Manual),Concepts,126,Concepts/Psalm 101 (Special Operations 1 Majestic 12 Manual).md
 Replica Artifacts,Concepts,126,Concepts/Replica Artifacts.md
 Secret Cold War over Non-Human Technology,Concepts,126,Concepts/Secret Cold War over Non-Human Technology.md
@@ -300,17 +234,12 @@ UAP Hardware Possession,Concepts,127,Concepts/UAP Hardware Possession.md
 Aztec UFO Case,Concepts,128,Concepts/Aztec UFO Case.md
 Bio Protection Suits,Concepts,128,Concepts/Bio Protection Suits.md
 Biodefense Research,Concepts,128,Concepts/Biodefense Research.md
-BiologicalChemical Contamination from UAP,Concepts,128,Concepts/BiologicalChemical Contamination from UAP.md
 Chain of Command (Ship-based),Concepts,128,Concepts/Chain of Command (Ship-based).md
 Complementary Field Propulsion,Concepts,128,Concepts/Complementary Field Propulsion.md
-Crash Retrieval and Reverse Engineering,Concepts,128,Concepts/Crash Retrieval and Reverse Engineering.md
 FLIR Footage,Concepts,128,Concepts/FLIR Footage.md
 Flux Liner,Concepts,128,Concepts/Flux Liner.md
 Golden Age of Army R&D,Concepts,128,Concepts/Golden Age of Army R&D.md
-Insider Contact,Concepts,128,Concepts/Insider Contact.md
-Non-Human Intelligence,Concepts,128,Concepts/Non-Human Intelligence.md
 Open-Source Corroboration,Concepts,128,Concepts/Open-Source Corroboration.md
-Reverse Engineering of UAP,Concepts,128,Concepts/Reverse Engineering of UAP.md
 Telepathic Communication,Concepts,128,Concepts/Telepathic Communication.md
 UAP Color Transition,Concepts,128,Concepts/UAP Color Transition.md
 Zeta Reticuli Star System,Concepts,128,Concepts/Zeta Reticuli Star System.md
@@ -323,7 +252,6 @@ Gill-like Vents,Concepts,129,Concepts/Gill-like Vents.md
 IMINT (Imagery Intelligence),Concepts,129,Concepts/IMINT (Imagery Intelligence).md
 Metapod Footage,Concepts,129,Concepts/Metapod Footage.md
 No Shadow Casting,Concepts,129,Concepts/No Shadow Casting.md
-Rapid Reaction Teams,Concepts,129,Concepts/Rapid Reaction Teams.md
 Sentient,Concepts,129,Concepts/Sentient.md
 SERE Training (Level C),Concepts,129,Concepts/SERE Training (Level C).md
 Transmedium UAP,Concepts,129,Concepts/Transmedium UAP.md
@@ -339,8 +267,6 @@ Missing Time  Psychological Trauma,Concepts,130,Concepts/Missing Time  Psycholog
 Multimode Thruster,Concepts,130,Concepts/Multimode Thruster.md
 Pangalactic Entanglement,Concepts,130,Concepts/Pangalactic Entanglement.md
 Reaction Testing  Gauging Military Response,Concepts,130,Concepts/Reaction Testing  Gauging Military Response.md
-Reverse Engineering of Nonhuman Technologies,Concepts,130,Concepts/Reverse Engineering of Nonhuman Technologies.md
-SAP (Special Access Program),Concepts,130,Concepts/SAP (Special Access Program).md
 Soupy Air Effect,Concepts,130,Concepts/Soupy Air Effect.md
 Space Domain Awareness,Concepts,130,Concepts/Space Domain Awareness.md
 Targeted Retaliation  Suppression,Concepts,130,Concepts/Targeted Retaliation  Suppression.md
@@ -349,9 +275,7 @@ UAP Acoustic Signature,Concepts,130,Concepts/UAP Acoustic Signature.md
 UAP Debunking,Concepts,130,Concepts/UAP Debunking.md
 Unexplained UFO Cases,Concepts,130,Concepts/Unexplained UFO Cases.md
 Witness Suppression,Concepts,130,Concepts/Witness Suppression.md
-Black Budget Operations,Concepts,131,Concepts/Black Budget Operations.md
 Craft Platform,Concepts,131,Concepts/Craft Platform.md
-Crash Retrieval Protocol,Concepts,131,Concepts/Crash Retrieval Protocol.md
 Foreign Materials Program,Concepts,131,Concepts/Foreign Materials Program.md
 Hidden in Plain Sight,Concepts,131,Concepts/Hidden in Plain Sight.md
 Irat Soul Source Contracts,Concepts,131,Concepts/Irat Soul Source Contracts.md
@@ -363,12 +287,10 @@ Non-Human Intelligence Technology,Concepts,131,Concepts/Non-Human Intelligence T
 Port Side Wing View,Concepts,131,Concepts/Port Side Wing View.md
 Radial Arm,Concepts,131,Concepts/Radial Arm.md
 SR-74 and SR-75,Concepts,131,Concepts/SR-74 and SR-75.md
-Technologies of Unknown Origin (TUOTN),Concepts,131,Concepts/Technologies of Unknown Origin (TUOTN).md
 TO Programs (Technology OffspringPrograms),Concepts,131,Concepts/TO Programs (Technology OffspringPrograms).md
 Transluminal Velocity Craft,Concepts,131,Concepts/Transluminal Velocity Craft.md
 Witness Credibility Inconsistency,Concepts,131,Concepts/Witness Credibility Inconsistency.md
 360 Security Formation,Concepts,132,Concepts/360 Security Formation.md
-Alien Biological Structures,Concepts,132,Concepts/Alien Biological Structures.md
 Biological Equipment in UAP Programs,Concepts,132,Concepts/Biological Equipment in UAP Programs.md
 Craft Color Change,Concepts,132,Concepts/Craft Color Change.md
 Energetic DischargeWeapon System,Concepts,132,Concepts/Energetic DischargeWeapon System.md
@@ -377,10 +299,6 @@ High Strangeness,Concepts,132,Concepts/High Strangeness.md
 Mach 17 Speed,Concepts,132,Concepts/Mach 17 Speed.md
 Military Roadblock,Concepts,132,Concepts/Military Roadblock.md
 Relativistic Interstellar Travel,Concepts,132,Concepts/Relativistic Interstellar Travel.md
-UFO Encounter (Pilot),Concepts,132,Concepts/UFO Encounter (Pilot).md
-University Affiliated Research Center (UARC),Concepts,132,Concepts/University Affiliated Research Center (UARC).md
-Whistleblower Protection,Concepts,132,Concepts/Whistleblower Protection.md
-Whistleblower Risk,Concepts,132,Concepts/Whistleblower Risk.md
 Whistleblower Suppression,Concepts,132,Concepts/Whistleblower Suppression.md
 Blocked Epistemology,Concepts,133,Concepts/Blocked Epistemology.md
 Classification Restrictions,Concepts,133,Concepts/Classification Restrictions.md
@@ -389,10 +307,8 @@ Gatekeeper (Air Force UAP),Concepts,133,Concepts/Gatekeeper (Air Force UAP).md
 Gravity Warping Propulsion,Concepts,133,Concepts/Gravity Warping Propulsion.md
 Hypnotic Regression,Concepts,133,Concepts/Hypnotic Regression.md
 IRAD (Independent Research and Development),Concepts,133,Concepts/IRAD (Independent Research and Development).md
-Non-Human Technology,Concepts,133,Concepts/Non-Human Technology.md
 Radar Return  Radar Echo,Concepts,133,Concepts/Radar Return  Radar Echo.md
 Sheepdog Operative,Concepts,133,Concepts/Sheepdog Operative.md
-Crash Retrieval Teams,Concepts,134,Concepts/Crash Retrieval Teams.md
 Dedicated Retrieval Team,Concepts,134,Concepts/Dedicated Retrieval Team.md
 Great Flood,Concepts,134,Concepts/Great Flood.md
 Interplanetary Contamination,Concepts,134,Concepts/Interplanetary Contamination.md
@@ -404,13 +320,9 @@ Internal Inertial Dampening,Concepts,135,Concepts/Internal Inertial Dampening.md
 Photo Tampering  Enhancement,Concepts,135,Concepts/Photo Tampering  Enhancement.md
 Top Cover,Concepts,135,Concepts/Top Cover.md
 UAP-Induced Cognitive Effects,Concepts,135,Concepts/UAP-Induced Cognitive Effects.md
-UFO YouTube Channel,Concepts,135,Concepts/UFO YouTube Channel.md
-Unacknowledged Programs,Concepts,135,Concepts/Unacknowledged Programs.md
 Asymmetrical Warfare,Concepts,136,Concepts/Asymmetrical Warfare.md
 Black Reverse Engineering Program,Concepts,136,Concepts/Black Reverse Engineering Program.md
-Carve-Out Programs,Concepts,136,Concepts/Carve-Out Programs.md
 Consciousness Interaction,Concepts,136,Concepts/Consciousness Interaction.md
-Disclosure,Concepts,136,Concepts/Disclosure.md
 Extraterrestrial Classification Table,Concepts,136,Concepts/Extraterrestrial Classification Table.md
 Faraday Effect in UAP Photography,Concepts,136,Concepts/Faraday Effect in UAP Photography.md
 FOIA (Freedom of Information Act) Requests,Concepts,136,Concepts/FOIA (Freedom of Information Act) Requests.md
@@ -422,30 +334,22 @@ Agency Liaison,Concepts,137,Concepts/Agency Liaison.md
 Dead Reckoning  Timeline Reconstruction,Concepts,137,Concepts/Dead Reckoning  Timeline Reconstruction.md
 RDT&E,Concepts,137,Concepts/RDT&E.md
 Recovered Non-Human Materials,Concepts,137,Concepts/Recovered Non-Human Materials.md
-Special Access Programs,Concepts,137,Concepts/Special Access Programs.md
 Technology Acquisition,Concepts,137,Concepts/Technology Acquisition.md
-UFO Authenticity Analysis,Concepts,137,Concepts/UFO Authenticity Analysis.md
 UFO Iceberg,Concepts,137,Concepts/UFO Iceberg.md
 Variable Stable Rotation,Concepts,137,Concepts/Variable Stable Rotation.md
 Anchors (UAP Recovery Protocol),Concepts,138,Concepts/Anchors (UAP Recovery Protocol).md
-Coming Forward,Concepts,138,Concepts/Coming Forward.md
-Crash Retrievals,Concepts,138,Concepts/Crash Retrievals.md
 Crashed Craft Recovery,Concepts,138,Concepts/Crashed Craft Recovery.md
 Flying Saucer Magnetic Propulsion,Concepts,138,Concepts/Flying Saucer Magnetic Propulsion.md
 Holographic Universe,Concepts,138,Concepts/Holographic Universe.md
 IDIQ Contract,Concepts,138,Concepts/IDIQ Contract.md
 Material Resistance,Concepts,138,Concepts/Material Resistance.md
 Moon Suits,Concepts,138,Concepts/Moon Suits.md
-MRTFBs,Concepts,138,Concepts/MRTFBs.md
 Multinational Recovery Teams,Concepts,138,Concepts/Multinational Recovery Teams.md
 Obfuscation by Aerospace Corporations,Concepts,138,Concepts/Obfuscation by Aerospace Corporations.md
 Onboard Biologics,Concepts,138,Concepts/Onboard Biologics.md
 Radar Interference Theory,Concepts,138,Concepts/Radar Interference Theory.md
-UAP Craft Retrieval,Concepts,138,Concepts/UAP Craft Retrieval.md
-UAP Crash Retrieval and Reverse Engineering,Concepts,138,Concepts/UAP Crash Retrieval and Reverse Engineering.md
 Wright Patterson Blue Room,Concepts,138,Concepts/Wright Patterson Blue Room.md
 Blacked-Out Bus Transport,Concepts,139,Concepts/Blacked-Out Bus Transport.md
-Compartments within Compartments,Concepts,139,Concepts/Compartments within Compartments.md
 Continuous Wave Missile Radar Lock,Concepts,139,Concepts/Continuous Wave Missile Radar Lock.md
 Deep Submergence Systems Project (DSSP),Concepts,139,Concepts/Deep Submergence Systems Project (DSSP).md
 Directed Energy Weapon  Discombobulator,Concepts,139,Concepts/Directed Energy Weapon  Discombobulator.md
@@ -456,7 +360,6 @@ Gang of Eight Notification,Concepts,139,Concepts/Gang of Eight Notification.md
 Hoax Labeling,Concepts,139,Concepts/Hoax Labeling.md
 Man-Made vs Extraterrestrial UFO Categories,Concepts,139,Concepts/Man-Made vs Extraterrestrial UFO Categories.md
 Near Real-Time Photo Transfer,Concepts,139,Concepts/Near Real-Time Photo Transfer.md
-NHI Tech Reverse Engineering,Concepts,139,Concepts/NHI Tech Reverse Engineering.md
 Radar Tracking of UAPs,Concepts,139,Concepts/Radar Tracking of UAPs.md
 Automobile Interference,Concepts,140,Concepts/Automobile Interference.md
 Carryover Appropriations (Forward Funding),Concepts,140,Concepts/Carryover Appropriations (Forward Funding).md
@@ -471,7 +374,6 @@ Alien Abduction,Concepts,141,Concepts/Alien Abduction.md
 Anti-gravity Technology,Concepts,141,Concepts/Anti-gravity Technology.md
 Biological Drones,Concepts,141,Concepts/Biological Drones.md
 Craft Retrieval Coordination,Concepts,141,Concepts/Craft Retrieval Coordination.md
-Crimes Against Humanity,Concepts,141,Concepts/Crimes Against Humanity.md
 Defense Industrial Base,Concepts,141,Concepts/Defense Industrial Base.md
 Electric Sun Hypothesis,Concepts,141,Concepts/Electric Sun Hypothesis.md
 Extraterrestrial Biological Organisms (EBOs),Concepts,141,Concepts/Extraterrestrial Biological Organisms (EBOs).md
@@ -482,21 +384,16 @@ Tehachapi Triangle,Concepts,141,Concepts/Tehachapi Triangle.md
 The Elohim,Concepts,141,Concepts/The Elohim.md
 Trade Up Strategy,Concepts,141,Concepts/Trade Up Strategy.md
 UAP Recovery Operation,Concepts,141,Concepts/UAP Recovery Operation.md
-UAP Whistleblower Vetting,Concepts,141,Concepts/UAP Whistleblower Vetting.md
-Undersea Craft Retrieval,Concepts,141,Concepts/Undersea Craft Retrieval.md
 Above Top Secret Classification,Concepts,142,Concepts/Above Top Secret Classification.md
 Carryover Funds,Concepts,142,Concepts/Carryover Funds.md
 Deep Submergence Rescue Vehicle (DSRV),Concepts,142,Concepts/Deep Submergence Rescue Vehicle (DSRV).md
 Document Authentication,Concepts,142,Concepts/Document Authentication.md
 DOE Intelligence Agency (OICI),Concepts,142,Concepts/DOE Intelligence Agency (OICI).md
-Program Protection,Concepts,142,Concepts/Program Protection.md
 Stepped Descent,Concepts,142,Concepts/Stepped Descent.md
 Witness Testimony Evolution,Concepts,142,Concepts/Witness Testimony Evolution.md
-Black Budget Programs,Concepts,143,Concepts/Black Budget Programs.md
 CGI Analysis,Concepts,143,Concepts/CGI Analysis.md
 Dulce Base,Concepts,143,Concepts/Dulce Base.md
 Elevating Platform,Concepts,143,Concepts/Elevating Platform.md
-FFRDCs  URCs,Concepts,143,Concepts/FFRDCs  URCs.md
 GravitationalDimensional Travel,Concepts,143,Concepts/GravitationalDimensional Travel.md
 HOTL Printing Press Artifact,Concepts,143,Concepts/HOTL Printing Press Artifact.md
 Nuclearradiation signature,Concepts,143,Concepts/Nuclearradiation signature.md
@@ -514,33 +411,27 @@ GOCO (Government-Owned Contractor-Operated),Concepts,144,Concepts/GOCO (Governme
 Gray Beards,Concepts,144,Concepts/Gray Beards.md
 Major Commands (MAGCOMs),Concepts,144,Concepts/Major Commands (MAGCOMs).md
 Non-Human Entity,Concepts,144,Concepts/Non-Human Entity.md
-Reverse Engineering Programs,Concepts,144,Concepts/Reverse Engineering Programs.md
 Reverse-Engineered Craft,Concepts,144,Concepts/Reverse-Engineered Craft.md
 Sensitive Activities Office (SAFAA),Concepts,144,Concepts/Sensitive Activities Office (SAFAA).md
 Special Access Programs  Unacknowledged Special Access Programs  Controlled Access Programs,Concepts,144,Concepts/Special Access Programs  Unacknowledged Special Access Programs  Controlled Access Programs.md
 Star Map,Concepts,144,Concepts/Star Map.md
 UFO Crash Retrieval,Concepts,144,Concepts/UFO Crash Retrieval.md
 Unmarked Black Operators,Concepts,144,Concepts/Unmarked Black Operators.md
-USAP (Unacknowledged Special Access Program),Concepts,144,Concepts/USAP (Unacknowledged Special Access Program).md
 VTOL Hovering,Concepts,144,Concepts/VTOL Hovering.md
 Wormhole NavigationInterstellar Travel,Concepts,144,Concepts/Wormhole NavigationInterstellar Travel.md
 Big Head,Concepts,145,Concepts/Big Head.md
-Black Budget,Concepts,145,Concepts/Black Budget.md
 Counter Intelligence  Program Protection Strategy,Concepts,145,Concepts/Counter Intelligence  Program Protection Strategy.md
 Cylindrical object in shipping container,Concepts,145,Concepts/Cylindrical object in shipping container.md
 Delta Detachment,Concepts,145,Concepts/Delta Detachment.md
 Instantaneous Acceleration,Concepts,145,Concepts/Instantaneous Acceleration.md
 Legacy Program Pyramid Structure,Concepts,145,Concepts/Legacy Program Pyramid Structure.md
-NHI (Non-Human Intelligence),Concepts,145,Concepts/NHI (Non-Human Intelligence).md
 Orbital Altitude Entry,Concepts,145,Concepts/Orbital Altitude Entry.md
 Six Observables,Concepts,145,Concepts/Six Observables.md
 Trans-Medium Vehicle,Concepts,145,Concepts/Trans-Medium Vehicle.md
 20 and Back,Concepts,146,Concepts/20 and Back.md
 Air Defense Alert,Concepts,146,Concepts/Air Defense Alert.md
 Bigoted Programs,Concepts,146,Concepts/Bigoted Programs.md
-Crash Site Retrieval  Crash Recovery,Concepts,146,Concepts/Crash Site Retrieval  Crash Recovery.md
 Embedded Spherical Lights,Concepts,146,Concepts/Embedded Spherical Lights.md
-Free Energy,Concepts,146,Concepts/Free Energy.md
 Honeypot Program,Concepts,146,Concepts/Honeypot Program.md
 Post-Disclosure World,Concepts,146,Concepts/Post-Disclosure World.md
 Triangular UAP,Concepts,146,Concepts/Triangular UAP.md
@@ -555,7 +446,6 @@ Special Nuclear Material,Concepts,147,Concepts/Special Nuclear Material.md
 Super Stallion Heavy Lift Helicopter,Concepts,147,Concepts/Super Stallion Heavy Lift Helicopter.md
 Synthetic Vision System,Concepts,147,Concepts/Synthetic Vision System.md
 Transcl Classified Foreign Nuclear Information,Concepts,147,Concepts/Transcl Classified Foreign Nuclear Information.md
-UFO Crash Retrieval Operations,Concepts,147,Concepts/UFO Crash Retrieval Operations.md
 Waved Unacknowledged Special Access Programs (USAPs),Concepts,147,Concepts/Waved Unacknowledged Special Access Programs (USAPs).md
 ALV (Anti-GravityLevitation Vehicle),Concepts,148,Concepts/ALV (Anti-GravityLevitation Vehicle).md
 ANSLQ-32 (Slick 32),Concepts,148,Concepts/ANSLQ-32 (Slick 32).md
@@ -577,11 +467,9 @@ Umbrella Authority,Concepts,148,Concepts/Umbrella Authority.md
 Unwitting Testing on Military Personnel,Concepts,148,Concepts/Unwitting Testing on Military Personnel.md
 Whistleblower Testimony Dismissal,Concepts,148,Concepts/Whistleblower Testimony Dismissal.md
 Deep Sea Mining Cover Operation,Concepts,149,Concepts/Deep Sea Mining Cover Operation.md
-FOIA Requests,Concepts,149,Concepts/FOIA Requests.md
 Helicopter Tracking via Radar,Concepts,149,Concepts/Helicopter Tracking via Radar.md
 Memory SuppressionFuzzing,Concepts,149,Concepts/Memory SuppressionFuzzing.md
 Waived PAP (Program Acquisition Plan),Concepts,149,Concepts/Waived PAP (Program Acquisition Plan).md
-Witness Credibility and Belief,Concepts,149,Concepts/Witness Credibility and Belief.md
 Biological Contamination,Concepts,150,Concepts/Biological Contamination.md
 Cigar-Shaped or Tic-Tac Craft,Concepts,150,Concepts/Cigar-Shaped or Tic-Tac Craft.md
 Deep Submergence Search Vehicle (DSSV),Concepts,150,Concepts/Deep Submergence Search Vehicle (DSSV).md
@@ -589,13 +477,9 @@ Disc-shaped UAP,Concepts,150,Concepts/Disc-shaped UAP.md
 FOIA Bypass via Contractors,Concepts,150,Concepts/FOIA Bypass via Contractors.md
 Free Energy Systems,Concepts,150,Concepts/Free Energy Systems.md
 Hidden Wing Thesis,Concepts,150,Concepts/Hidden Wing Thesis.md
-NHI Symbolism  Language,Concepts,150,Concepts/NHI Symbolism  Language.md
 Organic Craft Appearance,Concepts,150,Concepts/Organic Craft Appearance.md
-Special Access Programs (SAP),Concepts,150,Concepts/Special Access Programs (SAP).md
-UFO Legacy Programs,Concepts,150,Concepts/UFO Legacy Programs.md
 USO (Unidentified Submerged Objects),Concepts,150,Concepts/USO (Unidentified Submerged Objects).md
 Witness Memory Degradation,Concepts,150,Concepts/Witness Memory Degradation.md
-Air Force Legacy Programs,Concepts,151,Concepts/Air Force Legacy Programs.md
 Black Programs  Special Access Programs,Concepts,151,Concepts/Black Programs  Special Access Programs.md
 Containment Breach,Concepts,151,Concepts/Containment Breach.md
 Doodlebug,Concepts,151,Concepts/Doodlebug.md
@@ -604,7 +488,6 @@ Hawk Missile Battery (MIM-23),Concepts,151,Concepts/Hawk Missile Battery (MIM-23
 Inertial Mass Reduction,Concepts,151,Concepts/Inertial Mass Reduction.md
 Legacy Program Member Amnesty,Concepts,151,Concepts/Legacy Program Member Amnesty.md
 Night Vision Equipment,Concepts,151,Concepts/Night Vision Equipment.md
-Non-Human Intelligence (NHI) Materials,Concepts,151,Concepts/Non-Human Intelligence (NHI) Materials.md
 Non-Human Vehicles,Concepts,151,Concepts/Non-Human Vehicles.md
 Oblong Sphere Craft,Concepts,151,Concepts/Oblong Sphere Craft.md
 Octagonal Craft,Concepts,151,Concepts/Octagonal Craft.md
@@ -614,14 +497,11 @@ Reverse Engineering of Nonhuman Vehicles,Concepts,151,Concepts/Reverse Engineeri
 Roswell I-Beam,Concepts,151,Concepts/Roswell I-Beam.md
 Stripped Oversight Channels,Concepts,151,Concepts/Stripped Oversight Channels.md
 Tesla Coil Electromagnetic Fields,Concepts,151,Concepts/Tesla Coil Electromagnetic Fields.md
-UAP Retrieval,Concepts,151,Concepts/UAP Retrieval.md
-UAP Whistleblowers,Concepts,151,Concepts/UAP Whistleblowers.md
 Biological Effects Testing in Nuclear Clouds,Concepts,152,Concepts/Biological Effects Testing in Nuclear Clouds.md
 Debunk Panel,Concepts,152,Concepts/Debunk Panel.md
 Deep Submergence Rescue Vehicle,Concepts,152,Concepts/Deep Submergence Rescue Vehicle.md
 Insider Paramilitary Group,Concepts,152,Concepts/Insider Paramilitary Group.md
 Instrumentation Jamming,Concepts,152,Concepts/Instrumentation Jamming.md
-Major Range and Test Facility Base (MRTFB),Concepts,152,Concepts/Major Range and Test Facility Base (MRTFB).md
 Need-to-Know Access,Concepts,152,Concepts/Need-to-Know Access.md
 Nonlinear Battlefield,Concepts,152,Concepts/Nonlinear Battlefield.md
 UAP Legacy Programs,Concepts,152,Concepts/UAP Legacy Programs.md
@@ -635,19 +515,16 @@ Future Humans Theory,Concepts,153,Concepts/Future Humans Theory.md
 Gravity Control Craft,Concepts,153,Concepts/Gravity Control Craft.md
 Infrared UAP Detection,Concepts,153,Concepts/Infrared UAP Detection.md
 Missing Time,Concepts,153,Concepts/Missing Time.md
-NDA (Non-Disclosure Agreement),Concepts,153,Concepts/NDA (Non-Disclosure Agreement).md
 OPIR (Overhead Persistent Infrared),Concepts,153,Concepts/OPIR (Overhead Persistent Infrared).md
 Orbital Debris Analysis,Concepts,153,Concepts/Orbital Debris Analysis.md
 Rapid Reaction Retrieval Team,Concepts,153,Concepts/Rapid Reaction Retrieval Team.md
 Rapid Reaction Unit,Concepts,153,Concepts/Rapid Reaction Unit.md
-Technologies of Unknown Origin (TUOs),Concepts,153,Concepts/Technologies of Unknown Origin (TUOs).md
 UAP Mass Wave of 1952–1954,Concepts,153,Concepts/UAP Mass Wave of 1952–1954.md
 UFO Legacy Program,Concepts,153,Concepts/UFO Legacy Program.md
 3D Terrain Modeling for UAP Analysis,Concepts,154,Concepts/3D Terrain Modeling for UAP Analysis.md
 Black Operators  Unidentified Security Personnel,Concepts,154,Concepts/Black Operators  Unidentified Security Personnel.md
 Blunt Impact Crash Site,Concepts,154,Concepts/Blunt Impact Crash Site.md
 Dual-Hatted Role,Concepts,154,Concepts/Dual-Hatted Role.md
-Need-to-Know Compartmentalization,Concepts,154,Concepts/Need-to-Know Compartmentalization.md
 Radar Detection,Concepts,154,Concepts/Radar Detection.md
 Red Team Designation,Concepts,154,Concepts/Red Team Designation.md
 UFO Material Exploitation Programs,Concepts,154,Concepts/UFO Material Exploitation Programs.md
@@ -668,17 +545,11 @@ Single Occupant Observation Craft,Concepts,155,Concepts/Single Occupant Observat
 SulfuricRotten Egg Smell,Concepts,155,Concepts/SulfuricRotten Egg Smell.md
 The Day After Roswell,Concepts,155,Concepts/The Day After Roswell.md
 The Hidden Wing,Concepts,155,Concepts/The Hidden Wing.md
-UAP (Unidentified Aerial Phenomena),Concepts,155,Concepts/UAP (Unidentified Aerial Phenomena).md
-UAP Legacy Program,Concepts,155,Concepts/UAP Legacy Program.md
-UAP Material Analysis,Concepts,155,Concepts/UAP Material Analysis.md
-UFO Legacy Program Pyramid,Concepts,155,Concepts/UFO Legacy Program Pyramid.md
 Black Triangle UAP,Concepts,156,Concepts/Black Triangle UAP.md
 Commuter Compartmentalization,Concepts,156,Concepts/Commuter Compartmentalization.md
 Craft Cylinder Hypothesis,Concepts,156,Concepts/Craft Cylinder Hypothesis.md
 DSP Data Analysis,Concepts,156,Concepts/DSP Data Analysis.md
-Insider information,Concepts,156,Concepts/Insider information.md
 Level Five Proximity Badge,Concepts,156,Concepts/Level Five Proximity Badge.md
-Reverse Psychology (in UAP disclosure context),Concepts,156,Concepts/Reverse Psychology (in UAP disclosure context).md
 Reverse-Engineered Non-Human Technology,Concepts,156,Concepts/Reverse-Engineered Non-Human Technology.md
 SKIFF (Sensitive Compartmented Information Facility),Concepts,156,Concepts/SKIFF (Sensitive Compartmented Information Facility).md
 Advanced Drone Technology Mistaken for UAP,Concepts,157,Concepts/Advanced Drone Technology Mistaken for UAP.md
@@ -694,14 +565,11 @@ Security Catcher Mitt,Concepts,157,Concepts/Security Catcher Mitt.md
 Sole Source Contracts,Concepts,157,Concepts/Sole Source Contracts.md
 Technology Transfer Vessels,Concepts,157,Concepts/Technology Transfer Vessels.md
 Alien Body Recovery,Concepts,158,Concepts/Alien Body Recovery.md
-Insiders,Concepts,158,Concepts/Insiders.md
-Legacy UAP Programs,Concepts,158,Concepts/Legacy UAP Programs.md
 Morphing of Legacy Programs,Concepts,158,Concepts/Morphing of Legacy Programs.md
 Non-interaction with fluid,Concepts,158,Concepts/Non-interaction with fluid.md
 Purposeful Omission  Misrepresentation,Concepts,158,Concepts/Purposeful Omission  Misrepresentation.md
 Recovered Non-Human Craft,Concepts,158,Concepts/Recovered Non-Human Craft.md
 Revolving Door,Concepts,158,Concepts/Revolving Door.md
-UAP Taxonomy,Concepts,158,Concepts/UAP Taxonomy.md
 WINPAC,Concepts,158,Concepts/WINPAC.md
 Consciousness-Craft Integration,Concepts,159,Concepts/Consciousness-Craft Integration.md
 Continuity of Government (COG),Concepts,159,Concepts/Continuity of Government (COG).md
@@ -710,18 +578,14 @@ Parallel Stripped Oversight Channels,Concepts,159,Concepts/Parallel Stripped Ove
 Puerto Rican Trench,Concepts,159,Concepts/Puerto Rican Trench.md
 Rogue Programs,Concepts,159,Concepts/Rogue Programs.md
 TrackballRed Sphere Control Mechanism,Concepts,159,Concepts/TrackballRed Sphere Control Mechanism.md
-Unacknowledged Special Access Programs (USAPs),Concepts,159,Concepts/Unacknowledged Special Access Programs (USAPs).md
 Carbon Nanotube Conductive Structure,Concepts,160,Concepts/Carbon Nanotube Conductive Structure.md
 Enforcement Arm of Political Corruption,Concepts,160,Concepts/Enforcement Arm of Political Corruption.md
-Factions within the Program,Concepts,160,Concepts/Factions within the Program.md
 Heat Exchanger Propulsion,Concepts,160,Concepts/Heat Exchanger Propulsion.md
 No Rotor Wash,Concepts,160,Concepts/No Rotor Wash.md
 Office of Primary Responsibility (OPR),Concepts,160,Concepts/Office of Primary Responsibility (OPR).md
 Tier 1 Units,Concepts,160,Concepts/Tier 1 Units.md
-Crash Retrieval Task Force,Concepts,161,Concepts/Crash Retrieval Task Force.md
 Hawk MIM-23 Missile Battery,Concepts,161,Concepts/Hawk MIM-23 Missile Battery.md
 Internal Rail System,Concepts,161,Concepts/Internal Rail System.md
-Legacy Program,Concepts,161,Concepts/Legacy Program.md
 Majestic 12 Psalm 101,Concepts,161,Concepts/Majestic 12 Psalm 101.md
 Military cover-up,Concepts,161,Concepts/Military cover-up.md
 Military rapid response,Concepts,161,Concepts/Military rapid response.md
@@ -748,14 +612,11 @@ Recruiting in Disaster-Stricken Areas,Concepts,164,Concepts/Recruiting in Disast
 Signals Intelligence (SIGINT),Concepts,164,Concepts/Signals Intelligence (SIGINT).md
 UAP Deep Space Origin,Concepts,164,Concepts/UAP Deep Space Origin.md
 Dispersed Non-Contiguous Battlefield,Concepts,165,Concepts/Dispersed Non-Contiguous Battlefield.md
-Need to Know,Concepts,165,Concepts/Need to Know.md
-Reverse Engineering of Non-Human Technology,Concepts,165,Concepts/Reverse Engineering of Non-Human Technology.md
 Gray Area Acquisition,Concepts,166,Concepts/Gray Area Acquisition.md
 Non-human entity description,Concepts,166,Concepts/Non-human entity description.md
 Atmospheric Re-entry and Rapid Maneuver,Concepts,167,Concepts/Atmospheric Re-entry and Rapid Maneuver.md
 Electromagnetic Interference (EMI) from UAPs,Concepts,167,Concepts/Electromagnetic Interference (EMI) from UAPs.md
 Explosively Pumped Electromagnetic Pulse Weapon,Concepts,167,Concepts/Explosively Pumped Electromagnetic Pulse Weapon.md
-Legacy Program Hierarchy,Concepts,167,Concepts/Legacy Program Hierarchy.md
 Nosbed Tactic,Concepts,167,Concepts/Nosbed Tactic.md
 Ontological Shock,Concepts,167,Concepts/Ontological Shock.md
 USO (Unidentified Submerged Object),Concepts,167,Concepts/USO (Unidentified Submerged Object).md
@@ -767,7 +628,6 @@ Pro-Disclosure Insiders,Concepts,168,Concepts/Pro-Disclosure Insiders.md
 Cease and Desist Contact,Concepts,169,Concepts/Cease and Desist Contact.md
 Error in the Equations,Concepts,169,Concepts/Error in the Equations.md
 Extraterrestrial Biological Entity Type 1 (EBE-1),Concepts,169,Concepts/Extraterrestrial Biological Entity Type 1 (EBE-1).md
-Non-Human Technologies,Concepts,169,Concepts/Non-Human Technologies.md
 Prosaic Attribution,Concepts,169,Concepts/Prosaic Attribution.md
 Atmospheric Extinction,Concepts,170,Concepts/Atmospheric Extinction.md
 Compartmentalization  Stove-piping,Concepts,170,Concepts/Compartmentalization  Stove-piping.md
@@ -775,26 +635,20 @@ Industrial Security (INDС) Personnel,Concepts,170,Concepts/Industrial Security 
 Kona Blue Technology Transfer,Concepts,170,Concepts/Kona Blue Technology Transfer.md
 Light Absorption,Concepts,170,Concepts/Light Absorption.md
 Need-to-Know Principle,Concepts,170,Concepts/Need-to-Know Principle.md
-Whistleblower Testimony,Concepts,170,Concepts/Whistleblower Testimony.md
-Non-Human Intelligence (NHI) Technology,Concepts,171,Concepts/Non-Human Intelligence (NHI) Technology.md
 Overseas Contingency Operations,Concepts,171,Concepts/Overseas Contingency Operations.md
-UAP Crash Retrieval Portfolio,Concepts,171,Concepts/UAP Crash Retrieval Portfolio.md
 Electronic Warfare,Concepts,172,Concepts/Electronic Warfare.md
 MJ-12 Document Authentication,Concepts,172,Concepts/MJ-12 Document Authentication.md
 NHI SymbolismLanguage,Concepts,172,Concepts/NHI SymbolismLanguage.md
 TR-3A,Concepts,172,Concepts/TR-3A.md
 UAP Disclosure Phases,Concepts,172,Concepts/UAP Disclosure Phases.md
-Black Budget Projects,Concepts,173,Concepts/Black Budget Projects.md
 Nonhuman Material Transfer,Concepts,173,Concepts/Nonhuman Material Transfer.md
 UFOB Identification Guide,Concepts,173,Concepts/UFOB Identification Guide.md
 Black Triangle Craft,Concepts,174,Concepts/Black Triangle Craft.md
 DoDIC Admin Layer,Concepts,174,Concepts/DoDIC Admin Layer.md
 Gray Aliens,Concepts,174,Concepts/Gray Aliens.md
 UAP-Derived Cloaking Technology,Concepts,174,Concepts/UAP-Derived Cloaking Technology.md
-USAP (Unacknowledged Special Access Programs),Concepts,174,Concepts/USAP (Unacknowledged Special Access Programs).md
 Breakaway Civilization,Concepts,175,Concepts/Breakaway Civilization.md
 Historical Report Volume One,Concepts,175,Concepts/Historical Report Volume One.md
-Siloed Programs,Concepts,175,Concepts/Siloed Programs.md
 UAP Dark Ages,Concepts,175,Concepts/UAP Dark Ages.md
 Man-made UAP,Concepts,176,Concepts/Man-made UAP.md
 Psalm 101 Document,Concepts,176,Concepts/Psalm 101 Document.md
@@ -802,7 +656,6 @@ Whistleblower Repercussions,Concepts,176,Concepts/Whistleblower Repercussions.md
 Ghost Building,Concepts,177,Concepts/Ghost Building.md
 Five Characteristics of UAP,Concepts,178,Concepts/Five Characteristics of UAP.md
 Special Operations Manual,Concepts,178,Concepts/Special Operations Manual.md
-UAP Crash Retrieval,Concepts,178,Concepts/UAP Crash Retrieval.md
 UFO Program Breakaway from Oversight,Concepts,178,Concepts/UFO Program Breakaway from Oversight.md
 Whistleblower Protection Statute,Concepts,178,Concepts/Whistleblower Protection Statute.md
 Alien Invasion,Concepts,179,Concepts/Alien Invasion.md
@@ -810,7 +663,6 @@ Compartmentalization,Concepts,179,Concepts/Compartmentalization.md
 Factions - Good vs Bad,Concepts,179,Concepts/Factions - Good vs Bad.md
 Frame of Reference Effect,Concepts,179,Concepts/Frame of Reference Effect.md
 Avatars  Biological Robots,Concepts,180,Concepts/Avatars  Biological Robots.md
-NHI Taxonomy,Concepts,180,Concepts/NHI Taxonomy.md
 Non-Human Intelligence (NHI) Agreements,Concepts,180,Concepts/Non-Human Intelligence (NHI) Agreements.md
 Once Agency Always Agency,Concepts,180,Concepts/Once Agency Always Agency.md
 Social Network Influence Patents,Concepts,180,Concepts/Social Network Influence Patents.md
@@ -838,7 +690,6 @@ Ambassador (Lead Doctor Protocol),Concepts,192,Concepts/Ambassador (Lead Doctor 
 18 Bravo Weapons Sergeant,Concepts,193,Concepts/18 Bravo Weapons Sergeant.md
 OctagonalPyramid-shaped Craft,Concepts,193,Concepts/OctagonalPyramid-shaped Craft.md
 Trion Configuration,Concepts,193,Concepts/Trion Configuration.md
-Whistleblower Credibility Assessment,Concepts,193,Concepts/Whistleblower Credibility Assessment.md
 Radiation Testing of Aircraft,Concepts,194,Concepts/Radiation Testing of Aircraft.md
 Ballistic vs. Controlled Trajectory,Concepts,196,Concepts/Ballistic vs. Controlled Trajectory.md
 Craft hatch opening,Concepts,196,Concepts/Craft hatch opening.md
@@ -848,9 +699,7 @@ Hierarchy of Being,Concepts,197,Concepts/Hierarchy of Being.md
 Black Equilateral Triangle UAP,Concepts,198,Concepts/Black Equilateral Triangle UAP.md
 UAP Encounter,Concepts,200,Concepts/UAP Encounter.md
 Project Sign Terminated,Events,59,Events/Project Sign Terminated.md
-November 13th UAP Hearings,Events,69,Events/November 13th UAP Hearings.md
 NRO Sentient Development Begins,Events,69,Events/NRO Sentient Development Begins.md
-UAP Congressional Hearings,Events,69,Events/UAP Congressional Hearings.md
 Death of Philip J. Corso,Events,73,Events/Death of Philip J. Corso.md
 Founding of Raelism,Events,74,Events/Founding of Raelism.md
 Project Blue Book Terminated,Events,74,Events/Project Blue Book Terminated.md
@@ -868,7 +717,6 @@ Bill Uhouse USMC Reenlistment,Events,84,Events/Bill Uhouse USMC Reenlistment.md
 Inman Appointed to Caltech Board,Events,86,Events/Inman Appointed to Caltech Board.md
 Dean Johnson FOIA Request,Events,87,Events/Dean Johnson FOIA Request.md
 Stringfield Interview of Myron,Events,87,Events/Stringfield Interview of Myron.md
-Japan Cargo Airlines UAP Incident,Events,88,Events/Japan Cargo Airlines UAP Incident.md
 Lockheed Martin Information Systems merger with Leidos,Events,88,Events/Lockheed Martin Information Systems merger with Leidos.md
 US Army Dugway Proving Ground Mission and Capabilities Overview Report,Events,88,Events/US Army Dugway Proving Ground Mission and Capabilities Overview Report.md
 Grusch Initial Public Disclosure on Domestic Information Operations,Events,89,Events/Grusch Initial Public Disclosure on Domestic Information Operations.md
@@ -876,7 +724,6 @@ Corso's Claimed UFO Radar Observations,Events,90,Events/Corso's Claimed UFO Rada
 Wagant Outreach to Greer's Team,Events,90,Events/Wagant Outreach to Greer's Team.md
 1966 CIA Memo on UFO Material,Events,91,Events/1966 CIA Memo on UFO Material.md
 Inman Appointment as Director of Naval Intelligence,Events,91,Events/Inman Appointment as Director of Naval Intelligence.md
-UFO Legacy Programs Siloed,Events,92,Events/UFO Legacy Programs Siloed.md
 2003 Annual Crash Retrieval Conference,Events,93,Events/2003 Annual Crash Retrieval Conference.md
 Project Grudge Officially Terminated,Events,94,Events/Project Grudge Officially Terminated.md
 AARO contracts with Sand Corp,Events,95,Events/AARO contracts with Sand Corp.md
@@ -897,13 +744,11 @@ Eisenhower Briefing,Events,99,Events/Eisenhower Briefing.md
 Hiroshima and Nagasaki Bombings,Events,99,Events/Hiroshima and Nagasaki Bombings.md
 Nevada Nuclear Test Detonations,Events,99,Events/Nevada Nuclear Test Detonations.md
 Project Sign Established,Events,99,Events/Project Sign Established.md
-Total Disclosure Podcast Appearance,Events,99,Events/Total Disclosure Podcast Appearance.md
 Unsolved Mysteries Kecksburg Broadcast,Events,99,Events/Unsolved Mysteries Kecksburg Broadcast.md
 Wagant Initial Outreach to Steven Greer,Events,99,Events/Wagant Initial Outreach to Steven Greer.md
 Bowen Manuscript Submission,Events,100,Events/Bowen Manuscript Submission.md
 Etna Pegue Time Magazine Interview,Events,100,Events/Etna Pegue Time Magazine Interview.md
 HMS Vulture Persian Gulf USO Sighting,Events,100,Events/HMS Vulture Persian Gulf USO Sighting.md
-Phase 3 Completion,Events,100,Events/Phase 3 Completion.md
 Russell E. Wiler Retirement from Army,Events,100,Events/Russell E. Wiler Retirement from Army.md
 Sorenson ARV Incident,Events,100,Events/Sorenson ARV Incident.md
 To The Stars Academy Announcement,Events,100,Events/To The Stars Academy Announcement.md
@@ -916,13 +761,8 @@ Goldwater Letter to Lee Graham,Events,102,Events/Goldwater Letter to Lee Graham.
 Hawk Missile Battery Phase-Out (USMC),Events,102,Events/Hawk Missile Battery Phase-Out (USMC).md
 Merger of AFSC and Air Force Logistics Command,Events,102,Events/Merger of AFSC and Air Force Logistics Command.md
 Michael B. Johnstone Interviews RB,Events,102,Events/Michael B. Johnstone Interviews RB.md
-Michael's First Public Appearance on Greer's National Press Club Panel,Events,102,Events/Michael's First Public Appearance on Greer's National Press Club Panel.md
 Ohio Auditor General Report on EJ Center,Events,102,Events/Ohio Auditor General Report on EJ Center.md
-Danny Jones and Chris Ramsey Podcast Appearances,Events,103,Events/Danny Jones and Chris Ramsey Podcast Appearances.md
-Japan Airlines UAP Incident,Events,103,Events/Japan Airlines UAP Incident.md
 Los Paradas  Parachutes of Myu Footage,Events,103,Events/Los Paradas  Parachutes of Myu Footage.md
-Montel Williams Show Appearance by Jim Romansky,Events,103,Events/Montel Williams Show Appearance by Jim Romansky.md
-UAP Crash Retrieval Witnessed by Wagant,Events,103,Events/UAP Crash Retrieval Witnessed by Wagant.md
 Death of Elaine Douglas,Events,104,Events/Death of Elaine Douglas.md
 Jeff Rense Interview with Willingham,Events,104,Events/Jeff Rense Interview with Willingham.md
 Lockheed Martin ASSAP Divestiture Attempt,Events,104,Events/Lockheed Martin ASSAP Divestiture Attempt.md
@@ -935,7 +775,6 @@ Deep Submergence Systems Project (DSSP) Proposal,Events,106,Events/Deep Submerge
 Inman Appearance on Project Unity,Events,106,Events/Inman Appearance on Project Unity.md
 National Academy of Sciences Review of Condon Report,Events,106,Events/National Academy of Sciences Review of Condon Report.md
 Notes and Documents Received by DENB Group,Events,106,Events/Notes and Documents Received by DENB Group.md
-Phase 1 Completion,Events,106,Events/Phase 1 Completion.md
 Black Group Founding,Events,107,Events/Black Group Founding.md
 Eisenhower Meeting with Extraterrestrials at Holloman Air Force Base,Events,107,Events/Eisenhower Meeting with Extraterrestrials at Holloman Air Force Base.md
 Hoia Baciu Forest UFO Sightings,Events,107,Events/Hoia Baciu Forest UFO Sightings.md
@@ -973,11 +812,9 @@ Wilbert B. Smith Memo,Events,111,Events/Wilbert B. Smith Memo.md
 2017 New York Times UAP Article,Events,112,Events/2017 New York Times UAP Article.md
 First U.S. Atomic Tests,Events,112,Events/First U.S. Atomic Tests.md
 Kenneth Arnold Saucer Sightings,Events,112,Events/Kenneth Arnold Saucer Sightings.md
-Senator Goldwater denied Blue Room access,Events,112,Events/Senator Goldwater denied Blue Room access.md
 SS Siberian USO Encounter,Events,112,Events/SS Siberian USO Encounter.md
 Thurmond Foreword Withdrawal,Events,112,Events/Thurmond Foreword Withdrawal.md
 UFO Material Exploitation Program Shutdown,Events,112,Events/UFO Material Exploitation Program Shutdown.md
-Congressional Hearings,Events,113,Events/Congressional Hearings.md
 Craft Transfer to the United States,Events,113,Events/Craft Transfer to the United States.md
 Dick Cheney Departure,Events,113,Events/Dick Cheney Departure.md
 Gemini 7 UFO Sighting,Events,113,Events/Gemini 7 UFO Sighting.md
@@ -985,7 +822,6 @@ Jesse Marcel Roswell Disclosure,Events,113,Events/Jesse Marcel Roswell Disclosur
 K-129 Soviet Wreckage Recovery,Events,113,Events/K-129 Soviet Wreckage Recovery.md
 Ken Farley Deathbed Disclosure,Events,113,Events/Ken Farley Deathbed Disclosure.md
 Monterrey Witch (La Bruja) Sighting,Events,113,Events/Monterrey Witch (La Bruja) Sighting.md
-September Hearings,Events,113,Events/September Hearings.md
 Wagant's Interrogation and Detention,Events,113,Events/Wagant's Interrogation and Detention.md
 Alleged Holloman Air Force Base Landing,Events,114,Events/Alleged Holloman Air Force Base Landing.md
 Collection of Wilson's Testimony,Events,114,Events/Collection of Wilson's Testimony.md
@@ -997,7 +833,6 @@ Herman Oberth Flying Saucer Lecture,Events,115,Events/Herman Oberth Flying Sauce
 Jeremy Corbel Triangle UFO Video Release,Events,115,Events/Jeremy Corbel Triangle UFO Video Release.md
 Kirkpatrick Patents Filed,Events,115,Events/Kirkpatrick Patents Filed.md
 Shag Harbour Incident,Events,115,Events/Shag Harbour Incident.md
-South America UAP Crashes,Events,115,Events/South America UAP Crashes.md
 Varginha Incident,Events,115,Events/Varginha Incident.md
 Wagant Sequestered at Original Base,Events,115,Events/Wagant Sequestered at Original Base.md
 Crash Retrieval Incident,Events,116,Events/Crash Retrieval Incident.md
@@ -1021,7 +856,6 @@ Finnish UFO Case,Events,118,Events/Finnish UFO Case.md
 Mark McCandlish Relays ARV Contents to William B. Scott,Events,118,Events/Mark McCandlish Relays ARV Contents to William B. Scott.md
 Recovery Team Staged at Fort Bliss,Events,118,Events/Recovery Team Staged at Fort Bliss.md
 Sandia National Laboratories Establishment,Events,118,Events/Sandia National Laboratories Establishment.md
-Supply Drop by Second Helicopter,Events,118,Events/Supply Drop by Second Helicopter.md
 Susie Payton at Martin MariettaLockheed Martin,Events,118,Events/Susie Payton at Martin MariettaLockheed Martin.md
 Susie Payton tenure as SECAF ATNL,Events,118,Events/Susie Payton tenure as SECAF ATNL.md
 Anders Drone Footage of Tejon,Events,119,Events/Anders Drone Footage of Tejon.md
@@ -1031,7 +865,6 @@ JLD Approaches Stringfield,Events,119,Events/JLD Approaches Stringfield.md
 Jonathan Wayan on Martin Willis Show,Events,119,Events/Jonathan Wayan on Martin Willis Show.md
 Michael's Meeting with the Program Insider,Events,119,Events/Michael's Meeting with the Program Insider.md
 Alleged UFO Recovery in Hawaii,Events,120,Events/Alleged UFO Recovery in Hawaii.md
-CameraVideo Documentation,Events,120,Events/CameraVideo Documentation.md
 Establishment of Immaculate Constellation (IMCON),Events,120,Events/Establishment of Immaculate Constellation (IMCON).md
 NRO UFO Crash Retrieval Operations at NTR,Events,120,Events/NRO UFO Crash Retrieval Operations at NTR.md
 Transport of Kecksburg Object to Lockborne AFB,Events,120,Events/Transport of Kecksburg Object to Lockborne AFB.md
@@ -1049,7 +882,6 @@ Portuguese Forum Post,Events,122,Events/Portuguese Forum Post.md
 Restricted Air Show Hangar Viewing,Events,122,Events/Restricted Air Show Hangar Viewing.md
 SAIC $351 Million Contract with NSWC Crane,Events,122,Events/SAIC $351 Million Contract with NSWC Crane.md
 UC Berkeley UAP Observation,Events,122,Events/UC Berkeley UAP Observation.md
-Craft Takeoff with Colored Lights,Events,123,Events/Craft Takeoff with Colored Lights.md
 Eisenhower Briefing Document,Events,123,Events/Eisenhower Briefing Document.md
 HMNZS Power Drain Incident,Events,123,Events/HMNZS Power Drain Incident.md
 Project Blue Book Initiated,Events,123,Events/Project Blue Book Initiated.md
@@ -1102,7 +934,6 @@ Original Document Gathering,Events,128,Events/Original Document Gathering.md
 RB Photographs the Craft,Events,128,Events/RB Photographs the Craft.md
 US Navy Blue Angels Cockpit Leak,Events,128,Events/US Navy Blue Angels Cockpit Leak.md
 Bill Uhouse Evening Times Article,Events,129,Events/Bill Uhouse Evening Times Article.md
-Green Room Encounter,Events,129,Events/Green Room Encounter.md
 Grusch Congressional Testimony on Biologics,Events,129,Events/Grusch Congressional Testimony on Biologics.md
 Joel's Witness Interview with Stan Gordon,Events,129,Events/Joel's Witness Interview with Stan Gordon.md
 John Alexander's Vietnam Service,Events,129,Events/John Alexander's Vietnam Service.md
@@ -1129,12 +960,10 @@ Indian Spacecraft Moon Crash,Events,131,Events/Indian Spacecraft Moon Crash.md
 Jake Barber Testimony on Psionics,Events,131,Events/Jake Barber Testimony on Psionics.md
 Johnson Texas Residence Meetings,Events,131,Events/Johnson Texas Residence Meetings.md
 Post-Encounter Anthrax Booster - Castle,Events,131,Events/Post-Encounter Anthrax Booster - Castle.md
-Pre-NPC Events,Events,131,Events/Pre-NPC Events.md
 Witness MS Encounter at Dugway Proving Ground,Events,131,Events/Witness MS Encounter at Dugway Proving Ground.md
 1983 McCampbell UFO Case,Events,132,Events/1983 McCampbell UFO Case.md
 Alleged Missing Air Force RDT&E Funds,Events,132,Events/Alleged Missing Air Force RDT&E Funds.md
 FBI Background Check on Corso,Events,132,Events/FBI Background Check on Corso.md
-Goldwater's Attempt to Access Wright Patterson Blue Room,Events,132,Events/Goldwater's Attempt to Access Wright Patterson Blue Room.md
 Harry B. Cooper's USAF Service,Events,132,Events/Harry B. Cooper's USAF Service.md
 Jason Sans Twitter Disclosure,Events,132,Events/Jason Sans Twitter Disclosure.md
 John Murphy Hit-and-Run Death,Events,132,Events/John Murphy Hit-and-Run Death.md
@@ -1154,7 +983,6 @@ Michael Herrera Testimony to AARO,Events,133,Events/Michael Herrera Testimony to
 Myron's Delivery to Wright-Patterson,Events,133,Events/Myron's Delivery to Wright-Patterson.md
 WikiLeaks Clinton Campaign Email Release,Events,133,Events/WikiLeaks Clinton Campaign Email Release.md
 Wikipedia Page Alterations for Coyame Incident,Events,133,Events/Wikipedia Page Alterations for Coyame Incident.md
-Barry Goldwater Denied Access to Blue Room,Events,134,Events/Barry Goldwater Denied Access to Blue Room.md
 Bill Uhouse Disclosure Project Testimony,Events,134,Events/Bill Uhouse Disclosure Project Testimony.md
 Corona Program Declassification,Events,134,Events/Corona Program Declassification.md
 Cosmos 96 Atmospheric Entry,Events,134,Events/Cosmos 96 Atmospheric Entry.md
@@ -1179,7 +1007,6 @@ Christopher Melon Twitter Release of Signal Screenshots,Events,136,Events/Christ
 Cosmos 96 Decay,Events,136,Events/Cosmos 96 Decay.md
 IrelandUK UAP Crash,Events,136,Events/IrelandUK UAP Crash.md
 Michael Herrera Visit to Secure Facility,Events,136,Events/Michael Herrera Visit to Secure Facility.md
-National Press Club Testimony,Events,136,Events/National Press Club Testimony.md
 Solomon Andrews Aereon Test Flights,Events,136,Events/Solomon Andrews Aereon Test Flights.md
 Anunnaki Departure from Earth,Events,137,Events/Anunnaki Departure from Earth.md
 David Grusch Congressional Sworn Testimony,Events,137,Events/David Grusch Congressional Sworn Testimony.md
@@ -1199,7 +1026,6 @@ Fort Salisbury USO Sighting,Events,138,Events/Fort Salisbury USO Sighting.md
 Glomar Explorer Operation  Soviet Submarine K-129 Recovery,Events,138,Events/Glomar Explorer Operation  Soviet Submarine K-129 Recovery.md
 Japan Tsunami DSRV Email,Events,138,Events/Japan Tsunami DSRV Email.md
 Jim Romansky Approaches Stan Gordon,Events,138,Events/Jim Romansky Approaches Stan Gordon.md
-NPPC Testimony,Events,138,Events/NPPC Testimony.md
 NRO Settles into Joint DoDIC Role,Events,138,Events/NRO Settles into Joint DoDIC Role.md
 Scott Ramsay Interview with George,Events,138,Events/Scott Ramsay Interview with George.md
 Stringfield Interview of JS,Events,138,Events/Stringfield Interview of JS.md
@@ -1209,19 +1035,15 @@ David Grusch Joe Rogan Podcast Appearance,Events,139,Events/David Grusch Joe Rog
 Flyby UFO Footage Posted on UFO Chronicles,Events,139,Events/Flyby UFO Footage Posted on UFO Chronicles.md
 Goldwater Denied Access to Blue Room,Events,139,Events/Goldwater Denied Access to Blue Room.md
 Initial Lockheed Martin Material Divestiture Attempt,Events,139,Events/Initial Lockheed Martin Material Divestiture Attempt.md
-Montel Williams Show Appearance,Events,139,Events/Montel Williams Show Appearance.md
 MS Contact with GP,Events,139,Events/MS Contact with GP.md
 New Testimony Received by Dr. Greer,Events,139,Events/New Testimony Received by Dr. Greer.md
 SAFAHA Mission Directive Publication,Events,139,Events/SAFAHA Mission Directive Publication.md
 2018 Skinwalker Ranch Briefing,Events,140,Events/2018 Skinwalker Ranch Briefing.md
-Conversation at Subic Bay,Events,140,Events/Conversation at Subic Bay.md
 Grusch Story Break,Events,140,Events/Grusch Story Break.md
-Initial Reddit Post,Events,140,Events/Initial Reddit Post.md
 Manhattan Project Soviet Penetration,Events,140,Events/Manhattan Project Soviet Penetration.md
 Mysterious Universe Podcast Episode on Biological Androids,Events,140,Events/Mysterious Universe Podcast Episode on Biological Androids.md
 O'Sullivan Serves as PDDNI,Events,140,Events/O'Sullivan Serves as PDDNI.md
 Port Augusta USO Sighting,Events,140,Events/Port Augusta USO Sighting.md
-Speaker's Initial Coming Forward,Events,140,Events/Speaker's Initial Coming Forward.md
 Christopher Sharp 2021 Article,Events,141,Events/Christopher Sharp 2021 Article.md
 Greer Interview with Wagant,Events,141,Events/Greer Interview with Wagant.md
 Inman-Echler Phone Call,Events,141,Events/Inman-Echler Phone Call.md
@@ -1253,7 +1075,6 @@ Release of Corso's Sworn Affidavit,Events,143,Events/Release of Corso's Sworn Af
 U2 Spy Plane Shootdown,Events,143,Events/U2 Spy Plane Shootdown.md
 UAP Craft Recoveries in Vietnam,Events,143,Events/UAP Craft Recoveries in Vietnam.md
 Vietnam Era UAP Crash and Program Induction,Events,143,Events/Vietnam Era UAP Crash and Program Induction.md
-Witness Testimony to AARO,Events,143,Events/Witness Testimony to AARO.md
 Air Force OSI Interview of Ralph Brown,Events,144,Events/Air Force OSI Interview of Ralph Brown.md
 Blue Room Film Destruction,Events,144,Events/Blue Room Film Destruction.md
 Daniel Sheehan's Startling Claims,Events,144,Events/Daniel Sheehan's Startling Claims.md
@@ -1278,7 +1099,6 @@ Dugway Rise to Prominence as Area 51 Successor,Events,146,Events/Dugway Rise to 
 FBI File on Silas Newton,Events,146,Events/FBI File on Silas Newton.md
 Goldwater UFO Interview,Events,146,Events/Goldwater UFO Interview.md
 Meeting Between Michael Herrera and The Insider,Events,146,Events/Meeting Between Michael Herrera and The Insider.md
-Montel Williams Show Testimony,Events,146,Events/Montel Williams Show Testimony.md
 Tom Keller MUFON Article,Events,146,Events/Tom Keller MUFON Article.md
 Willingham UAP Crash Site Visit,Events,146,Events/Willingham UAP Crash Site Visit.md
 Christopher Mellon Signal Exchange,Events,147,Events/Christopher Mellon Signal Exchange.md
@@ -1287,11 +1107,8 @@ Ed assigned to Edwards AFB Test Pilot School,Events,147,Events/Ed assigned to Ed
 Inclement Weather Reporting Cover,Events,147,Events/Inclement Weather Reporting Cover.md
 John Murphy's Wife's Claim,Events,147,Events/John Murphy's Wife's Claim.md
 Lockheed Martin Material Transfer (OSAP Transfer),Events,147,Events/Lockheed Martin Material Transfer (OSAP Transfer).md
-Meeting with Insider,Events,147,Events/Meeting with Insider.md
-Phase 5,Events,147,Events/Phase 5.md
 RGH_UFOs Contact with Heinman,Events,147,Events/RGH_UFOs Contact with Heinman.md
 TenetCoyam Report Appears on Message Boards,Events,147,Events/TenetCoyam Report Appears on Message Boards.md
-UAP Observation Mission,Events,147,Events/UAP Observation Mission.md
 AFMC FY2025 Budget Allocation,Events,148,Events/AFMC FY2025 Budget Allocation.md
 Betty Hill Hypnosis Sessions,Events,148,Events/Betty Hill Hypnosis Sessions.md
 Bluegill Triple Prime US Navy UFO Recovery,Events,148,Events/Bluegill Triple Prime US Navy UFO Recovery.md
@@ -1310,10 +1127,8 @@ John Dusza YouTube Video Release,Events,149,Events/John Dusza YouTube Video Rele
 Longest Sustained Fusion Reaction (China),Events,149,Events/Longest Sustained Fusion Reaction (China).md
 NASA Founded  Army R&D Reorganization,Events,149,Events/NASA Founded  Army R&D Reorganization.md
 Project Blue Book Operation,Events,149,Events/Project Blue Book Operation.md
-2 AM Text Message,Events,150,Events/2 AM Text Message.md
 AIAA Official Statement on UFOs,Events,150,Events/AIAA Official Statement on UFOs.md
 Fort Riley Entity Encounter,Events,150,Events/Fort Riley Entity Encounter.md
-Forward Deployment to Japan,Events,150,Events/Forward Deployment to Japan.md
 MS Witnesses Craft Dismantling,Events,150,Events/MS Witnesses Craft Dismantling.md
 US Air Defense Radar Detection,Events,150,Events/US Air Defense Radar Detection.md
 Ben Rich UCLA Speech,Events,151,Events/Ben Rich UCLA Speech.md
@@ -1330,7 +1145,6 @@ RGH_UFOs Twitter Contact with Heinman,Events,152,Events/RGH_UFOs Twitter Contact
 Sperry Rand Dissolution,Events,152,Events/Sperry Rand Dissolution.md
 St. Clair Illinois Triangular Craft Sighting,Events,152,Events/St. Clair Illinois Triangular Craft Sighting.md
 UFO Program Transfer to Corporate Control,Events,152,Events/UFO Program Transfer to Corporate Control.md
-Wardroom Volunteer Briefing,Events,152,Events/Wardroom Volunteer Briefing.md
 2001 Disclosure Project Press Conference,Events,153,Events/2001 Disclosure Project Press Conference.md
 Army Removal of Object,Events,153,Events/Army Removal of Object.md
 Arrival of Science Team with DOE Insignia,Events,153,Events/Arrival of Science Team with DOE Insignia.md
@@ -1363,9 +1177,7 @@ Acorn-Shaped Craft Discovery near Edwards AFB,Events,157,Events/Acorn-Shaped Cra
 Bowen Manuscript FOIA Recovery,Events,157,Events/Bowen Manuscript FOIA Recovery.md
 Marine Helicopter Insertion to LZ,Events,157,Events/Marine Helicopter Insertion to LZ.md
 DOD Independent Research and Development Program Report,Events,158,Events/DOD Independent Research and Development Program Report.md
-Insider Meeting Helicopter Tracking,Events,158,Events/Insider Meeting Helicopter Tracking.md
 Willingham Material Submission and Disappearance,Events,158,Events/Willingham Material Submission and Disappearance.md
-Apollo 8 UFO Alleged Encounter,Events,159,Events/Apollo 8 UFO Alleged Encounter.md
 Fort Pulk UAP Crash Retrieval,Events,159,Events/Fort Pulk UAP Crash Retrieval.md
 Greer and Source Meeting Planning,Events,159,Events/Greer and Source Meeting Planning.md
 Publication of Kevin Knuth's UAP Flight Characteristics Paper,Events,159,Events/Publication of Kevin Knuth's UAP Flight Characteristics Paper.md
@@ -1382,23 +1194,18 @@ Shipton's tenure as Military Deputy SAFAQ,Events,160,Events/Shipton's tenure as 
 Valentin Archeletta Sighting,Events,160,Events/Valentin Archeletta Sighting.md
 Establishment of DoD Directive S-5210.36,Events,161,Events/Establishment of DoD Directive S-5210.36.md
 Glenn Gaffney Interview,Events,161,Events/Glenn Gaffney Interview.md
-Group email discussion on Fouche,Events,161,Events/Group email discussion on Fouche.md
 Hilton's Group Email About Fouche,Events,161,Events/Hilton's Group Email About Fouche.md
 Fort Riley Observation,Events,162,Events/Fort Riley Observation.md
 Haim Eshed Galactic Federation Interview,Events,162,Events/Haim Eshed Galactic Federation Interview.md
 Harry Reid New York Times Interview,Events,162,Events/Harry Reid New York Times Interview.md
-Meeting with Insider Operative,Events,162,Events/Meeting with Insider Operative.md
-Witness Read Into UAP Program,Events,162,Events/Witness Read Into UAP Program.md
 1954 Roswell Area Crash Retrieval,Events,163,Events/1954 Roswell Area Crash Retrieval.md
 AARO Interview with Witness,Events,163,Events/AARO Interview with Witness.md
 Ben Rich's Deathbed Conversation with James Goodall,Events,163,Events/Ben Rich's Deathbed Conversation with James Goodall.md
 Classified ARV Exhibit,Events,163,Events/Classified ARV Exhibit.md
 Denb Report Posting,Events,163,Events/Denb Report Posting.md
 Directed Energy Incident Near Tejon,Events,163,Events/Directed Energy Incident Near Tejon.md
-In-Person Meeting with NOC Operative,Events,163,Events/In-Person Meeting with NOC Operative.md
 Mad Wisconsin Triangular Craft Sighting,Events,163,Events/Mad Wisconsin Triangular Craft Sighting.md
 Trinidade Island UFO Photographs,Events,163,Events/Trinidade Island UFO Photographs.md
-Underground Facility Visit,Events,163,Events/Underground Facility Visit.md
 USN-CIA Submarine Balloon Launch Test,Events,163,Events/USN-CIA Submarine Balloon Launch Test.md
 Aldridge becomes CEO of Aerospace Corporation,Events,164,Events/Aldridge becomes CEO of Aerospace Corporation.md
 Barney Hill Hypnosis Sessions,Events,164,Events/Barney Hill Hypnosis Sessions.md
@@ -1418,7 +1225,6 @@ Trial of Newton and GeBauer,Events,166,Events/Trial of Newton and GeBauer.md
 Daily Mail Photo Release,Events,167,Events/Daily Mail Photo Release.md
 Death of Mexican Recovery Team,Events,167,Events/Death of Mexican Recovery Team.md
 Italian Government Press Suppression Telegrams,Events,167,Events/Italian Government Press Suppression Telegrams.md
-Speaker's Presentation at NPC 2023,Events,167,Events/Speaker's Presentation at NPC 2023.md
 CIFA Operations,Events,168,Events/CIFA Operations.md
 Congressional Oversight Waiver of SAPs,Events,168,Events/Congressional Oversight Waiver of SAPs.md
 Missile Retrieval USO Incident,Events,168,Events/Missile Retrieval USO Incident.md
@@ -1484,7 +1290,6 @@ Marines Detained at Gunpoint,Events,182,Events/Marines Detained at Gunpoint.md
 Newton's Magnetic Research in the Mojave Desert,Events,183,Events/Newton's Magnetic Research in the Mojave Desert.md
 NPC 2023 Conference,Events,183,Events/NPC 2023 Conference.md
 Paramilitary Black Program Event in Mexico,Events,183,Events/Paramilitary Black Program Event in Mexico.md
-2009 Operation Witnessed by Speaker,Events,184,Events/2009 Operation Witnessed by Speaker.md
 Nat Kobitz Contact with Ross Coulthart,Events,184,Events/Nat Kobitz Contact with Ross Coulthart.md
 Peru-Ecuador Border Dispute,Events,184,Events/Peru-Ecuador Border Dispute.md
 1987 HMNZS Southland USO Incident,Events,185,Events/1987 HMNZS Southland USO Incident.md
@@ -1525,7 +1330,6 @@ Northern Norway and Sweden,Locations,64,Locations/Northern Norway and Sweden.md
 Huapi Valley,Locations,66,Locations/Huapi Valley.md
 Building 1012 (Photo Operations and Maintenance),Locations,69,Locations/Building 1012 (Photo Operations and Maintenance).md
 Eglin Air Force Base,Locations,70,Locations/Eglin Air Force Base.md
-Machu Picchu,Locations,70,Locations/Machu Picchu.md
 Persian Gulf,Locations,71,Locations/Persian Gulf.md
 Colorado,Locations,72,Locations/Colorado.md
 United Kingdom,Locations,74,Locations/United Kingdom.md
@@ -1553,7 +1357,6 @@ Vancouver,Locations,86,Locations/Vancouver.md
 Las Navas Del Marquez,Locations,87,Locations/Las Navas Del Marquez.md
 Strait of Malacca,Locations,87,Locations/Strait of Malacca.md
 University of Colorado Boulder,Locations,87,Locations/University of Colorado Boulder.md
-Alpha Draconis Star System,Locations,88,Locations/Alpha Draconis Star System.md
 Building 1016 (Classified Storage),Locations,88,Locations/Building 1016 (Classified Storage).md
 Garrison Building,Locations,88,Locations/Garrison Building.md
 Trinidade Island,Locations,88,Locations/Trinidade Island.md
@@ -1579,7 +1382,6 @@ Tonopah Test Range,Locations,99,Locations/Tonopah Test Range.md
 Van Horn and Kent,Locations,99,Locations/Van Horn and Kent.md
 Andoas Laser Strike Site,Locations,100,Locations/Andoas Laser Strike Site.md
 Luraville area,Locations,100,Locations/Luraville area.md
-Milky Way Galaxy,Locations,100,Locations/Milky Way Galaxy.md
 Pax River (Patuxent River Naval Air Station),Locations,100,Locations/Pax River (Patuxent River Naval Air Station).md
 Peru,Locations,100,Locations/Peru.md
 Pyramids of Giza,Locations,100,Locations/Pyramids of Giza.md
@@ -1605,7 +1407,6 @@ Ascension Island,Locations,106,Locations/Ascension Island.md
 Mexico City,Locations,106,Locations/Mexico City.md
 Mexico,Locations,106,Locations/Mexico.md
 Pax River,Locations,106,Locations/Pax River.md
-The crash woodscrash zone,Locations,106,Locations/The crash woodscrash zone.md
 Patterson Air Force Base Blue Lab,Locations,107,Locations/Patterson Air Force Base Blue Lab.md
 Syria,Locations,107,Locations/Syria.md
 Jan Mayen Island,Locations,108,Locations/Jan Mayen Island.md
@@ -1616,7 +1417,6 @@ Fort Maguire Air Force Base,Locations,109,Locations/Fort Maguire Air Force Base.
 Meteor Road,Locations,110,Locations/Meteor Road.md
 Moon,Locations,110,Locations/Moon.md
 Southeast of Tokyo,Locations,110,Locations/Southeast of Tokyo.md
-Japan,Locations,111,Locations/Japan.md
 Johnson's Texas Residence,Locations,111,Locations/Johnson's Texas Residence.md
 Ocean Floor (Pacific),Locations,111,Locations/Ocean Floor (Pacific).md
 Eastern Hemisphere,Locations,113,Locations/Eastern Hemisphere.md
@@ -1639,19 +1439,15 @@ Penn State University,Locations,118,Locations/Penn State University.md
 Davis Mountains,Locations,119,Locations/Davis Mountains.md
 Cardia (near Esom Brera Refinery),Locations,120,Locations/Cardia (near Esom Brera Refinery).md
 North Atlantic Ocean,Locations,120,Locations/North Atlantic Ocean.md
-Tropical Terrain LZ,Locations,120,Locations/Tropical Terrain LZ.md
 Johnson Space Center Building 8,Locations,121,Locations/Johnson Space Center Building 8.md
 RomeVatican,Locations,121,Locations/RomeVatican.md
 Virginia,Locations,121,Locations/Virginia.md
 Roswell Air Force Base,Locations,122,Locations/Roswell Air Force Base.md
 Sandia Laboratory Complex,Locations,122,Locations/Sandia Laboratory Complex.md
 Underground Interrogation Facility,Locations,122,Locations/Underground Interrogation Facility.md
-Hotel (NPC 2023),Locations,124,Locations/Hotel (NPC 2023).md
-Jungle Gorge  Ridge,Locations,124,Locations/Jungle Gorge  Ridge.md
 Los Alamos,Locations,126,Locations/Los Alamos.md
 France,Locations,127,Locations/France.md
 Indian Ocean,Locations,127,Locations/Indian Ocean.md
-Naval Vessel (Ship),Locations,127,Locations/Naval Vessel (Ship).md
 Northern Peru,Locations,127,Locations/Northern Peru.md
 Antarctica,Locations,128,Locations/Antarctica.md
 Tobing Airport,Locations,128,Locations/Tobing Airport.md
@@ -1667,7 +1463,6 @@ Arctic Circle  Blue Nose Arctic Circle,Locations,134,Locations/Arctic Circle  Bl
 Okinawa,Locations,134,Locations/Okinawa.md
 Continental United States,Locations,136,Locations/Continental United States.md
 Hiroshima and Nagasaki,Locations,136,Locations/Hiroshima and Nagasaki.md
-Quonset Hut,Locations,136,Locations/Quonset Hut.md
 Western Texas,Locations,136,Locations/Western Texas.md
 Subic Bay,Locations,138,Locations/Subic Bay.md
 Vietnam,Locations,138,Locations/Vietnam.md
@@ -1677,7 +1472,6 @@ American Southwest,Locations,140,Locations/American Southwest.md
 Bunker Serade,Locations,140,Locations/Bunker Serade.md
 CAD Akuna,Locations,141,Locations/CAD Akuna.md
 Dry Lake Bed,Locations,141,Locations/Dry Lake Bed.md
-ITOS,Locations,141,Locations/ITOS.md
 Marine Corps Air Ground Combat Center 29 Palms,Locations,142,Locations/Marine Corps Air Ground Combat Center 29 Palms.md
 Wright Patterson Air Force Base Blue Room,Locations,143,Locations/Wright Patterson Air Force Base Blue Room.md
 Fort Detrick,Locations,144,Locations/Fort Detrick.md
@@ -1687,10 +1481,8 @@ Bermuda Triangle,Locations,148,Locations/Bermuda Triangle.md
 Seafloor recovery site,Locations,148,Locations/Seafloor recovery site.md
 Nevada Test Site,Locations,149,Locations/Nevada Test Site.md
 Route 40,Locations,149,Locations/Route 40.md
-Clearing at Bottom of Hill,Locations,151,Locations/Clearing at Bottom of Hill.md
 Landing Zone (Indonesia),Locations,151,Locations/Landing Zone (Indonesia).md
 Maple Street,Locations,151,Locations/Maple Street.md
-Secure Facility  Black Site,Locations,151,Locations/Secure Facility  Black Site.md
 Hart Canyon Road,Locations,152,Locations/Hart Canyon Road.md
 California,Locations,154,Locations/California.md
 Chow Hall,Locations,154,Locations/Chow Hall.md
@@ -1709,14 +1501,12 @@ Paris,Locations,177,Locations/Paris.md
 Caribbean Island  Puerto Rican Trench,Locations,179,Locations/Caribbean Island  Puerto Rican Trench.md
 Classified Hangar  Exhibit,Locations,189,Locations/Classified Hangar  Exhibit.md
 Ireland  United Kingdom,Locations,191,Locations/Ireland  United Kingdom.md
-Underground Facility (unnamed),Locations,191,Locations/Underground Facility (unnamed).md
 Area 51 S4,Locations,198,Locations/Area 51 S4.md
 Project Horizon,Operations,94,Operations/Project Horizon.md
 Joint Special Operations (referenced contract),Operations,109,Operations/Joint Special Operations (referenced contract).md
 Project UFO,Operations,111,Operations/Project UFO.md
 Operation Paperclip,Operations,114,Operations/Operation Paperclip.md
 Long Range Broad Agency Announcement for NSWC Crane,Operations,115,Operations/Long Range Broad Agency Announcement for NSWC Crane.md
-NRO Project,Operations,116,Operations/NRO Project.md
 Glomar Explorer Operation (K-129 Recovery),Operations,117,Operations/Glomar Explorer Operation (K-129 Recovery).md
 Crash Retrieval Operation,Operations,118,Operations/Crash Retrieval Operation.md
 Project Quill,Operations,121,Operations/Project Quill.md
@@ -1731,12 +1521,8 @@ Western Range UFO Legacy Program Operations,Operations,130,Operations/Western Ra
 MJ-12 Program,Operations,132,Operations/MJ-12 Program.md
 Reverse Engineering of Anomalous Craft,Operations,132,Operations/Reverse Engineering of Anomalous Craft.md
 USF Radar Detachment 5 Operations,Operations,132,Operations/USF Radar Detachment 5 Operations.md
-Glomar Explorer Operation,Operations,134,Operations/Glomar Explorer Operation.md
 USAF UFO Program,Operations,134,Operations/USAF UFO Program.md
 Blackjack Control,Operations,135,Operations/Blackjack Control.md
-Corona,Operations,135,Operations/Corona.md
-Crash Retrieval Duty,Operations,135,Operations/Crash Retrieval Duty.md
-UFO Legacy Program Operations,Operations,137,Operations/UFO Legacy Program Operations.md
 Blackjack Team,Operations,138,Operations/Blackjack Team.md
 CH-47 Crash Site Retrieval,Operations,138,Operations/CH-47 Crash Site Retrieval.md
 Project Aquarius,Operations,140,Operations/Project Aquarius.md
@@ -1745,7 +1531,6 @@ TAE Flight JK 297,Operations,142,Operations/TAE Flight JK 297.md
 Contingency Plan MJ-1 19494 P78,Operations,143,Operations/Contingency Plan MJ-1 19494 P78.md
 Kecksburg The Untold Story,Operations,144,Operations/Kecksburg The Untold Story.md
 SAFAA Outside Activities,Operations,145,Operations/SAFAA Outside Activities.md
-Unspecified UAP-Related Operation,Operations,147,Operations/Unspecified UAP-Related Operation.md
 National Underwater Reconnaissance Program (NURO),Operations,149,Operations/National Underwater Reconnaissance Program (NURO).md
 MJ-12 Covert Retrieval Operations,Operations,151,Operations/MJ-12 Covert Retrieval Operations.md
 Indonesia Military UAP Operation,Operations,152,Operations/Indonesia Military UAP Operation.md
@@ -1757,13 +1542,11 @@ UFO Crash Retrievals (160th SOAR 1st Battalion),Operations,155,Operations/UFO Cr
 US Army Non-Human Technology Adaptation Program,Operations,155,Operations/US Army Non-Human Technology Adaptation Program.md
 UFO Crash Retrieval Operations (NRODelta),Operations,156,Operations/UFO Crash Retrieval Operations (NRODelta).md
 UAP Reverse Engineering Black Program,Operations,157,Operations/UAP Reverse Engineering Black Program.md
-UFO Crash Retrieval Operations (Theoretical),Operations,158,Operations/UFO Crash Retrieval Operations (Theoretical).md
 Missile Test 1802 Data Recovery,Operations,159,Operations/Missile Test 1802 Data Recovery.md
 American Recovery Team Operation (Coyame),Operations,161,Operations/American Recovery Team Operation (Coyame).md
 Project Gravitar,Operations,161,Operations/Project Gravitar.md
 NRO Gatekeepers Project,Operations,163,Operations/NRO Gatekeepers Project.md
 Black Budget Closed-Loop Programs,Operations,164,Operations/Black Budget Closed-Loop Programs.md
-Unnamed Military Operation,Operations,164,Operations/Unnamed Military Operation.md
 Kecksburg Military Recovery Operation,Operations,165,Operations/Kecksburg Military Recovery Operation.md
 Aztec Craft Retrieval,Operations,170,Operations/Aztec Craft Retrieval.md
 Lockheed Martin UAP Material Transfer,Operations,170,Operations/Lockheed Martin UAP Material Transfer.md
@@ -1772,13 +1555,9 @@ Covert Recruiting Operation (Disaster Zone),Operations,171,Operations/Covert Rec
 Secret Space Program,Operations,171,Operations/Secret Space Program.md
 Edetoise Bar Sting Operation,Operations,172,Operations/Edetoise Bar Sting Operation.md
 F-117A Senior Trend,Operations,172,Operations/F-117A Senior Trend.md
-Unnamed 2009 Operation,Operations,172,Operations/Unnamed 2009 Operation.md
 Crash Site Retrieval Operation,Operations,174,Operations/Crash Site Retrieval Operation.md
 Sand Dollar,Operations,174,Operations/Sand Dollar.md
 T&E Program on Alien Reproduction Vehicles,Operations,174,Operations/T&E Program on Alien Reproduction Vehicles.md
-UAP Reverse Engineering Program,Operations,174,Operations/UAP Reverse Engineering Program.md
-Unnamed HumanitarianRetrieval Operation,Operations,174,Operations/Unnamed HumanitarianRetrieval Operation.md
-Crash Retrieval Program,Operations,175,Operations/Crash Retrieval Program.md
 UAP Legacy Programs at Dugway,Operations,175,Operations/UAP Legacy Programs at Dugway.md
 US-Canadian Joint Minesweeping Exercise,Operations,176,Operations/US-Canadian Joint Minesweeping Exercise.md
 Kona Blue PAP,Operations,177,Operations/Kona Blue PAP.md
@@ -1792,9 +1571,7 @@ Corona Program,Operations,182,Operations/Corona Program.md
 Bureau of Reclamation Clandestine Tunneling,Operations,184,Operations/Bureau of Reclamation Clandestine Tunneling.md
 Triangular Craft Recovery Operation,Operations,185,Operations/Triangular Craft Recovery Operation.md
 Unspecified MilitaryUAP Operation with Nathan,Operations,185,Operations/Unspecified MilitaryUAP Operation with Nathan.md
-Indonesia Humanitarian Relief Mission,Operations,188,Operations/Indonesia Humanitarian Relief Mission.md
 Project Sand Dollar,Operations,190,Operations/Project Sand Dollar.md
-Remote Village Supply Security Operation,Operations,190,Operations/Remote Village Supply Security Operation.md
 Crash Retrieval Task Force Operations,Operations,193,Operations/Crash Retrieval Task Force Operations.md
 AAWSAP (Advanced Aerospace Weapon Systems Applications Program),Operations,194,Operations/AAWSAP (Advanced Aerospace Weapon Systems Applications Program).md
 Indonesian Humanitarian Mission 2009,Operations,200,Operations/Indonesian Humanitarian Mission 2009.md
@@ -1839,11 +1616,9 @@ Japan Airlines,Organizations,72,Organizations/Japan Airlines.md
 University of Maryland,Organizations,73,Organizations/University of Maryland.md
 Top Secret Magazine,Organizations,74,Organizations/Top Secret Magazine.md
 Naval Research Laboratory,Organizations,75,Organizations/Naval Research Laboratory.md
-Event Horizon,Organizations,76,Organizations/Event Horizon.md
 Federal Aviation Administration,Organizations,76,Organizations/Federal Aviation Administration.md
 Office of the Chief of Naval Operations (OPNAV),Organizations,76,Organizations/Office of the Chief of Naval Operations (OPNAV).md
 Tejon Ranch Company,Organizations,76,Organizations/Tejon Ranch Company.md
-Air Force,Organizations,77,Organizations/Air Force.md
 USAF 649th Combat Logistics Support Squadron,Organizations,77,Organizations/USAF 649th Combat Logistics Support Squadron.md
 NPMS (National Programs Management Staff),Organizations,78,Organizations/NPMS (National Programs Management Staff).md
 Office of Secure Transportation (OST),Organizations,78,Organizations/Office of Secure Transportation (OST).md
@@ -1862,7 +1637,6 @@ Air Force 412th Test Group,Organizations,83,Organizations/Air Force 412th Test G
 Air Force Flight Test Center (AFFTC),Organizations,83,Organizations/Air Force Flight Test Center (AFFTC).md
 Central Intelligence Agency Directorate of Science and Technology,Organizations,83,Organizations/Central Intelligence Agency Directorate of Science and Technology.md
 CIA Directorate of Operations,Organizations,83,Organizations/CIA Directorate of Operations.md
-Mysterious Universe,Organizations,83,Organizations/Mysterious Universe.md
 412th Reverse Engineering Group,Organizations,84,Organizations/412th Reverse Engineering Group.md
 Air Force Life Cycle Management Center,Organizations,84,Organizations/Air Force Life Cycle Management Center.md
 Department of the Air Force,Organizations,84,Organizations/Department of the Air Force.md
@@ -1885,16 +1659,12 @@ National Library of Australia,Organizations,88,Organizations/National Library of
 Office of Competitive Activities,Organizations,88,Organizations/Office of Competitive Activities.md
 Office of the Under Secretary of Defense for Research and Engineering,Organizations,88,Organizations/Office of the Under Secretary of Defense for Research and Engineering.md
 RCA,Organizations,88,Organizations/RCA.md
-Reddit,Organizations,88,Organizations/Reddit.md
 Eisenhower Library,Organizations,89,Organizations/Eisenhower Library.md
-Intelligence Agencies,Organizations,89,Organizations/Intelligence Agencies.md
 Naval Surveillance Center,Organizations,89,Organizations/Naval Surveillance Center.md
 Project Unity,Organizations,89,Organizations/Project Unity.md
 Air Force 554th Range Squadron,Organizations,90,Organizations/Air Force 554th Range Squadron.md
 Battel Memorial Institute,Organizations,90,Organizations/Battel Memorial Institute.md
-Dreamland Motel,Organizations,90,Organizations/Dreamland Motel.md
 General Dynamics,Organizations,90,Organizations/General Dynamics.md
-MPC Flight Recreations,Organizations,90,Organizations/MPC Flight Recreations.md
 DynCorp,Organizations,91,Organizations/DynCorp.md
 Office of the Administrative Assistant to the Secretary of the Air Force,Organizations,91,Organizations/Office of the Administrative Assistant to the Secretary of the Air Force.md
 San Francisco Chronicle,Organizations,91,Organizations/San Francisco Chronicle.md
@@ -1925,7 +1695,6 @@ Edwards 412th Test Wing,Organizations,95,Organizations/Edwards 412th Test Wing.m
 Indonesian Military,Organizations,95,Organizations/Indonesian Military.md
 Under Secretary of Defense for Intelligence and Security (USDI),Organizations,95,Organizations/Under Secretary of Defense for Intelligence and Security (USDI).md
 US Army Ammunition Activity,Organizations,95,Organizations/US Army Ammunition Activity.md
-Infographics Team,Organizations,96,Organizations/Infographics Team.md
 US CENTCOM CFLCC,Organizations,96,Organizations/US CENTCOM CFLCC.md
 412th Test Wing,Organizations,97,Organizations/412th Test Wing.md
 7th Army,Organizations,97,Organizations/7th Army.md
@@ -1986,14 +1755,11 @@ Mexican Army,Organizations,107,Organizations/Mexican Army.md
 OAP (Office of Aerospace Phenomena  program),Organizations,107,Organizations/OAP (Office of Aerospace Phenomena  program).md
 University of Cincinnati,Organizations,107,Organizations/University of Cincinnati.md
 US Air Defense,Organizations,107,Organizations/US Air Defense.md
-US Military,Organizations,107,Organizations/US Military.md
 Bermuda Biological Station (BIOS),Organizations,108,Organizations/Bermuda Biological Station (BIOS).md
 CIA Directorate of Intelligence Technology Transfer Assessment Center,Organizations,108,Organizations/CIA Directorate of Intelligence Technology Transfer Assessment Center.md
 Defense Technical Information Center,Organizations,108,Organizations/Defense Technical Information Center.md
 SAFAAZ,Organizations,108,Organizations/SAFAAZ.md
 US Air Force Office of Special Investigations (AFOSI),Organizations,108,Organizations/US Air Force Office of Special Investigations (AFOSI).md
-US Government,Organizations,108,Organizations/US Government.md
-Marine Airbase,Organizations,109,Organizations/Marine Airbase.md
 Wright Air Development Center,Organizations,109,Organizations/Wright Air Development Center.md
 AFOSI,Organizations,111,Organizations/AFOSI.md
 ATIP,Organizations,111,Organizations/ATIP.md
@@ -2005,14 +1771,10 @@ Mexican Military,Organizations,112,Organizations/Mexican Military.md
 NAMRU-6 (NAMRU South),Organizations,112,Organizations/NAMRU-6 (NAMRU South).md
 Office of Naval Intelligence (ONI),Organizations,112,Organizations/Office of Naval Intelligence (ONI).md
 Paraton,Organizations,112,Organizations/Paraton.md
-Private Corporations,Organizations,113,Organizations/Private Corporations.md
 US Special Forces Detachment 5,Organizations,113,Organizations/US Special Forces Detachment 5.md
-Denver,Organizations,114,Organizations/Denver.md
 Department of Homeland Security (DHS) Science and Technology,Organizations,114,Organizations/Department of Homeland Security (DHS) Science and Technology.md
-Intelligence Community,Organizations,114,Organizations/Intelligence Community.md
 Office of the Chief of Research and Development (OCRD),Organizations,114,Organizations/Office of the Chief of Research and Development (OCRD).md
 SAFAAH (Sensitive Activities),Organizations,114,Organizations/SAFAAH (Sensitive Activities).md
-Unspecified Monitoring Agency,Organizations,114,Organizations/Unspecified Monitoring Agency.md
 Walker Air Force Base,Organizations,114,Organizations/Walker Air Force Base.md
 Air Material Command,Organizations,115,Organizations/Air Material Command.md
 BAE Systems,Organizations,115,Organizations/BAE Systems.md
@@ -2031,7 +1793,6 @@ SAFAQL (Special Programs),Organizations,117,Organizations/SAFAQL (Special Progra
 US 7th Fleet,Organizations,117,Organizations/US 7th Fleet.md
 Office of the Chief of Army Research and Development,Organizations,118,Organizations/Office of the Chief of Army Research and Development.md
 SAFAA,Organizations,118,Organizations/SAFAA.md
-Uncle Sam (U.S. Government),Organizations,118,Organizations/Uncle Sam (U.S. Government).md
 Air Force Test and Evaluation (AFTEE),Organizations,119,Organizations/Air Force Test and Evaluation (AFTEE).md
 Defense Office of Pre-publication and Security Review,Organizations,119,Organizations/Defense Office of Pre-publication and Security Review.md
 Office of the Chief Scientist,Organizations,119,Organizations/Office of the Chief Scientist.md
@@ -2072,7 +1833,6 @@ Carter Administration,Organizations,128,Organizations/Carter Administration.md
 WHJB,Organizations,128,Organizations/WHJB.md
 Inspector General,Organizations,130,Organizations/Inspector General.md
 SAFAQR (Special Programs Directorate),Organizations,130,Organizations/SAFAQR (Special Programs Directorate).md
-United States Government,Organizations,130,Organizations/United States Government.md
 DARPA Security and Intelligence Directive (SID),Organizations,131,Organizations/DARPA Security and Intelligence Directive (SID).md
 DARPA,Organizations,131,Organizations/DARPA.md
 Skunk Works,Organizations,132,Organizations/Skunk Works.md
@@ -2095,7 +1855,6 @@ AFOSIPJ,Organizations,147,Organizations/AFOSIPJ.md
 Highland Research and Exploration Company,Organizations,147,Organizations/Highland Research and Exploration Company.md
 Air Force Test Pilot School,Organizations,151,Organizations/Air Force Test Pilot School.md
 Department of Air Force (DAFF),Organizations,155,Organizations/Department of Air Force (DAFF).md
-Air Force Material Command,Organizations,157,Organizations/Air Force Material Command.md
 Aphotech (AFOTEC - Air Force Operational Test and Evaluation Center),Organizations,162,Organizations/Aphotech (AFOTEC - Air Force Operational Test and Evaluation Center).md
 National Program Special Management Staff (NPMS),Organizations,164,Organizations/National Program Special Management Staff (NPMS).md
 Royal Canadian Navy,Organizations,164,Organizations/Royal Canadian Navy.md
@@ -2109,18 +1868,15 @@ US Space Command,Organizations,181,Organizations/US Space Command.md
 North Dakota National Guard,Organizations,197,Organizations/North Dakota National Guard.md
 Special Access Program Central Office (SAPCO),Organizations,197,Organizations/Special Access Program Central Office (SAPCO).md
 Rob Weiss,People,38,People/Rob Weiss.md
-UVM bky,People,45,People/UVM bky.md
 Michael Carey,People,46,People/Michael Carey.md
 Neil McCasland,People,46,People/Neil McCasland.md
 Joseph V. Cherik,People,49,People/Joseph V. Cherik.md
 Harry Reid,People,52,People/Harry Reid.md
-Anger,People,55,People/Anger.md
 RF Moore,People,55,People/RF Moore.md
 Ronald Reagan,People,57,People/Ronald Reagan.md
 Hansen,People,58,People/Hansen.md
 Scully's widow,People,58,People/Scully's widow.md
 Lord Hill Norton,People,62,People/Lord Hill Norton.md
-Michael Dempsey,People,63,People/Michael Dempsey.md
 Ner Liddell,People,63,People/Ner Liddell.md
 Terachi,People,63,People/Terachi.md
 Terry Virts,People,64,People/Terry Virts.md
@@ -2128,32 +1884,22 @@ Wim van Utri,People,64,People/Wim van Utri.md
 JS,People,65,People/JS.md
 Kirk Patrick,People,65,People/Kirk Patrick.md
 Romansky,People,65,People/Romansky.md
-Diego Lopez,People,66,People/Diego Lopez.md
 Ralph Blumenthal,People,67,People/Ralph Blumenthal.md
 Joe Donley,People,68,People/Joe Donley.md
 Richard Doty,People,70,People/Richard Doty.md
-Don Myrick,People,71,People/Don Myrick.md
 Doug Wolf,People,71,People/Doug Wolf.md
-Doug,People,71,People/Doug.md
 George Lugan,People,71,People/George Lugan.md
 Luigi Vendatilli,People,71,People/Luigi Vendatilli.md
-Michael Stratt,People,71,People/Michael Stratt.md
 Chris Leto,People,72,People/Chris Leto.md
 Colonel Miller,People,72,People/Colonel Miller.md
 Elizabeth Warren,People,72,People/Elizabeth Warren.md
 Jim Mae,People,72,People/Jim Mae.md
-Johnson,People,72,People/Johnson.md
 Les Hendy,People,72,People/Les Hendy.md
-Peter,People,72,People/Peter.md
-Bill Nye,People,73,People/Bill Nye.md
 Samuel S. Visner,People,73,People/Samuel S. Visner.md
-Graham Hancock,People,74,People/Graham Hancock.md
 Joe Murgia,People,74,People/Joe Murgia.md
 John Blitch,People,74,People/John Blitch.md
 Thomas Castello,People,74,People/Thomas Castello.md
 Timothy Galedet,People,74,People/Timothy Galedet.md
-Luisa Lzando,People,75,People/Luisa Lzando.md
-Robin Kermit,People,75,People/Robin Kermit.md
 David Zur,People,76,People/David Zur.md
 Michael Galikowski,People,76,People/Michael Galikowski.md
 Brian Thompson,People,77,People/Brian Thompson.md
@@ -2165,21 +1911,14 @@ Randall Rothman,People,78,People/Randall Rothman.md
 Robert Macau,People,78,People/Robert Macau.md
 Captain Evans,People,79,People/Captain Evans.md
 Penot,People,79,People/Penot.md
-Sully Erna,People,79,People/Sully Erna.md
 C Adams,People,80,People/C Adams.md
 Phil Schneider,People,80,People/Phil Schneider.md
 Sergeant RS,People,80,People/Sergeant RS.md
 Tara Oul,People,80,People/Tara Oul.md
-Andrews,People,81,People/Andrews.md
-Dempsey,People,81,People/Dempsey.md
-Divine,People,81,People/Divine.md
-Freestone,People,81,People/Freestone.md
-Pete Mitchell,People,81,People/Pete Mitchell.md
 Lee Harvey Oswald,People,82,People/Lee Harvey Oswald.md
 Josh Bosworth,People,83,People/Josh Bosworth.md
 Kaminsky,People,83,People/Kaminsky.md
 Myerix,People,83,People/Myerix.md
-NV bky,People,83,People/NV bky.md
 AF Perry,People,84,People/AF Perry.md
 Danny Lampkin,People,84,People/Danny Lampkin.md
 Harry B. Cooper,People,84,People/Harry B. Cooper.md
@@ -2195,37 +1934,28 @@ Steve Mario,People,85,People/Steve Mario.md
 LD McLofflin,People,86,People/LD McLofflin.md
 RH Curtsman,People,86,People/RH Curtsman.md
 Christopher Columbus,People,87,People/Christopher Columbus.md
-Courtney,People,87,People/Courtney.md
 David Newhouse,People,88,People/David Newhouse.md
 Grant Cameron,People,88,People/Grant Cameron.md
 Herman Flater,People,88,People/Herman Flater.md
 J. Johnson,People,88,People/J. Johnson.md
 Josh Boswell,People,88,People/Josh Boswell.md
-Unknown Narrator,People,88,People/Unknown Narrator.md
-Danny Jones,People,89,People/Danny Jones.md
 Russ Cart,People,89,People/Russ Cart.md
-Dan Bish,People,90,People/Dan Bish.md
 Dwight E. Beach,People,90,People/Dwight E. Beach.md
 Kevin Randall,People,90,People/Kevin Randall.md
 Robert Bigelow,People,90,People/Robert Bigelow.md
 Sten Grønnestad,People,90,People/Sten Grønnestad.md
-Chris Ramsay,People,91,People/Chris Ramsay.md
 Delaney,People,91,People/Delaney.md
 James Clerk Maxwell,People,91,People/James Clerk Maxwell.md
 Jeremy Corbell,People,91,People/Jeremy Corbell.md
 Ari Harris,People,92,People/Ari Harris.md
 Ewl,People,92,People/Ewl.md
-Gerb,People,92,People/Gerb.md
 Kirsten Gillibrand,People,92,People/Kirsten Gillibrand.md
 Pringle,People,92,People/Pringle.md
-Rep. Berles,People,92,People/Rep. Berles.md
 Captain Brier,People,93,People/Captain Brier.md
 Dia Hughes,People,93,People/Dia Hughes.md
 Kevin Thomas,People,93,People/Kevin Thomas.md
 Linda Moulton Howe,People,93,People/Linda Moulton Howe.md
 Mike Slater,People,93,People/Mike Slater.md
-Tulsi Gabbard,People,93,People/Tulsi Gabbard.md
-Allen,People,94,People/Allen.md
 Frederick Walter,People,94,People/Frederick Walter.md
 Gerald,People,94,People/Gerald.md
 Montel Williams,People,94,People/Montel Williams.md
@@ -2240,19 +1970,15 @@ Scott Ramsay,People,96,People/Scott Ramsay.md
 Aaron Lucas,People,97,People/Aaron Lucas.md
 Captain Hosan,People,97,People/Captain Hosan.md
 Don Dunlop,People,97,People/Don Dunlop.md
-Michael,People,97,People/Michael.md
 Nat Kobitz,People,97,People/Nat Kobitz.md
 Alan Dulles,People,98,People/Alan Dulles.md
 Emma Flav,People,98,People/Emma Flav.md
-Kevin,People,98,People/Kevin.md
 Mrs. Knight,People,98,People/Mrs. Knight.md
 Timothy Cooper,People,98,People/Timothy Cooper.md
-UAP Gerb,People,98,People/UAP Gerb.md
 Dick Cheney,People,99,People/Dick Cheney.md
 Hillary Clinton,People,99,People/Hillary Clinton.md
 James Lacatski,People,99,People/James Lacatski.md
 Peter Gon,People,99,People/Peter Gon.md
-Sean,People,99,People/Sean.md
 Bill Ferguson,People,100,People/Bill Ferguson.md
 Captain Gabe,People,100,People/Captain Gabe.md
 MW,People,100,People/MW.md
@@ -2260,16 +1986,9 @@ Valentin Archeletta,People,100,People/Valentin Archeletta.md
 Richard Boland,People,102,People/Richard Boland.md
 Alex Mirea,People,103,People/Alex Mirea.md
 John Bowman,People,103,People/John Bowman.md
-Kermit,People,103,People/Kermit.md
-Rob Jones,People,103,People/Rob Jones.md
-Air Force Lieutenant Colonel (unnamed),People,104,People/Air Force Lieutenant Colonel (unnamed).md
 Bill Weaver,People,104,People/Bill Weaver.md
-Steve,People,104,People/Steve.md
-Unknown Squad Leader,People,104,People/Unknown Squad Leader.md
-Female Major (USMC),People,105,People/Female Major (USMC).md
 Kohler,People,105,People/Kohler.md
 Martin,People,105,People/Martin.md
-Richard Dreyfuss,People,105,People/Richard Dreyfuss.md
 William E. McClure,People,105,People/William E. McClure.md
 Bruce Maccabee,People,106,People/Bruce Maccabee.md
 Doug Noland,People,106,People/Doug Noland.md
@@ -2282,7 +2001,6 @@ Captain Lebman,People,107,People/Captain Lebman.md
 Marine Archaeologist,People,109,People/Marine Archaeologist.md
 David Hamilton,People,110,People/David Hamilton.md
 Dwight D. Eisenhower,People,110,People/Dwight D. Eisenhower.md
-Female Major,People,110,People/Female Major.md
 Steve Justice,People,110,People/Steve Justice.md
 Matthew Brown,People,111,People/Matthew Brown.md
 Victor Marchetti,People,111,People/Victor Marchetti.md
@@ -2291,8 +2009,6 @@ Castle,People,113,People/Castle.md
 Jim Lacatsky,People,113,People/Jim Lacatsky.md
 Tom Keller,People,113,People/Tom Keller.md
 Edgar Mitchell,People,114,People/Edgar Mitchell.md
-Gunnery Sergeant (unnamed),People,114,People/Gunnery Sergeant (unnamed).md
-Leslie,People,114,People/Leslie.md
 Mccell,People,114,People/Mccell.md
 Tucker Carlson,People,114,People/Tucker Carlson.md
 JP Khan,People,116,People/JP Khan.md
@@ -2305,11 +2021,9 @@ Mark,People,118,People/Mark.md
 Russell Wiler,People,119,People/Russell Wiler.md
 Air Force Colonel (unnamed),People,120,People/Air Force Colonel (unnamed).md
 John Haren,People,120,People/John Haren.md
-Brandon,People,121,People/Brandon.md
 Charles Kruac,People,121,People/Charles Kruac.md
 Ryan,People,121,People/Ryan.md
 Lieutenant Whitting,People,122,People/Lieutenant Whitting.md
-Unknown Marine Witness,People,122,People/Unknown Marine Witness.md
 George,People,123,People/George.md
 Montgre,People,123,People/Montgre.md
 Alex Catz,People,124,People/Alex Catz.md
@@ -2317,28 +2031,22 @@ Frank Flock,People,124,People/Frank Flock.md
 Galet,People,126,People/Galet.md
 Clifford Stone,People,127,People/Clifford Stone.md
 Congressman Brown,People,127,People/Congressman Brown.md
-Unknown WitnessOperator,People,127,People/Unknown WitnessOperator.md
-Allan,People,128,People/Allan.md
 John Craraven,People,128,People/John Craraven.md
 Dan Bener,People,131,People/Dan Bener.md
 Larry Maguire,People,131,People/Larry Maguire.md
-Moulder,People,131,People/Moulder.md
 Uncle,People,131,People/Uncle.md
 James Oberg,People,132,People/James Oberg.md
 Borland,People,133,People/Borland.md
 Danny Sheehan,People,133,People/Danny Sheehan.md
 Bill Scott,People,134,People/Bill Scott.md
-Dodie,People,136,People/Dodie.md
 Jeff Morse,People,136,People/Jeff Morse.md
 Dr. Epigoni,People,138,People/Dr. Epigoni.md
 Michael Colart,People,138,People/Michael Colart.md
-Unknown Insider(s),People,138,People/Unknown Insider(s).md
 Manuel Sandoval,People,139,People/Manuel Sandoval.md
 Matt,People,139,People/Matt.md
 Vernon Bowen,People,139,People/Vernon Bowen.md
 Walden,People,139,People/Walden.md
 Wasteland by Wednesday,People,139,People/Wasteland by Wednesday.md
-Jason Sans,People,140,People/Jason Sans.md
 Paul Benowitz,People,142,People/Paul Benowitz.md
 Air Force Colonel,People,143,People/Air Force Colonel.md
 Dean Renal Sacket,People,144,People/Dean Renal Sacket.md
@@ -2349,7 +2057,6 @@ Don Sebastian,People,155,People/Don Sebastian.md
 Hilton,People,157,People/Hilton.md
 Jim Shell,People,157,People/Jim Shell.md
 Tim Phillips,People,158,People/Tim Phillips.md
-Paul,People,160,People/Paul.md
 McDonald,People,163,People/McDonald.md
 Bob Wood,People,164,People/Bob Wood.md
 Joel,People,164,People/Joel.md
