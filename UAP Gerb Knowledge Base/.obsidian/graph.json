@@ -53,7 +53,7 @@
       "query": "path:Videos  ",
       "color": {
         "a": 1,
-        "rgb": 6908265
+        "rgb": 5723991
       }
     }
   ],
@@ -68,5 +68,5 @@
   "linkStrength": 0.110763888888889,
   "linkDistance": 184,
   "scale": 0.03486181749872733,
-  "close": true
+  "close": false
 }
