@@ -1,0 +1,3 @@
+- [UAP KB Project Context](project_kb_context.md) — KB format, scope, session 1 pruning summary (207 files deleted, 2026-05-28)
+- [Pruning Calibration Rules](feedback_pruning_calibration.md) — Deletion/retention rules calibrated for single-sentence stub format; cluster patterns found
+- [People Article Rules](feedback_people_rules.md) — Specific rules for People folder: fictional/anonymous/pop-culture = delete; specific event/role/action = keep

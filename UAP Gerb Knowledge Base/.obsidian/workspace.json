@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6931c8a29af5c815",
+        "id": "6d35128a0ab4d3e3",
         "type": "tabs",
         "children": [
           {
-            "id": "14190ef97f5b4dc9",
+            "id": "1585331e47191443",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -179,8 +179,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "14190ef97f5b4dc9",
+  "active": "1585331e47191443",
   "lastOpenFiles": [
+    "Operations/Project Moondust.md",
+    "Concepts/Ballistic Panspermia.md",
     "Events/1953 Kingman, Arizona Crash Retrieval.md",
     "People/Bob Lazar.md",
     "People/Bill Nye.md",
@@ -205,8 +207,6 @@
     "People/NV bky.md",
     "People/Lee Harvey Oswald.md",
     "People/Ewl.md",
-    "Locations/Wright-Patterson Air Force Base.md",
-    "Organizations/Joint Chiefs of Staff (JCS).md",
     "stub_entries.csv",
     "_templates",
     "Locations",
