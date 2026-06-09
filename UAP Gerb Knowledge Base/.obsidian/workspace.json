@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6d35128a0ab4d3e3",
+        "id": "df837eeb868d7757",
         "type": "tabs",
         "children": [
           {
-            "id": "1585331e47191443",
+            "id": "b7d7fa1717753a91",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5,
-    "collapsed": true
+    "width": 287.5
   },
   "right": {
     "id": "23a6330fa23f115b",
@@ -179,34 +178,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "1585331e47191443",
+  "active": "b7d7fa1717753a91",
   "lastOpenFiles": [
+    "Video - The 1953 Kingman, Arizona UFO Crash.md",
+    "Untitled.md",
+    "Home.md",
+    "MOCs/Videos MOC.md",
+    "MOCs",
+    "MOCs/Operations MOC.md",
+    "MOCs/Concepts MOC.md",
     "Operations/Project Moondust.md",
     "Concepts/Ballistic Panspermia.md",
     "Events/1953 Kingman, Arizona Crash Retrieval.md",
     "People/Bob Lazar.md",
     "People/Bill Nye.md",
     "Concepts/Alien Reproduction Vehicle (ARV).md",
-    "Video - The 1953 Kingman, Arizona UFO Crash.md",
     "Operations/Project Blue Book.md",
     "Events/Ajax Missile Crash UFO Encounter.md",
     "Concepts/Waved Unacknowledged Special Access Programs (USAPs).md",
     "Concepts/Continuous Wave Missile Radar Lock.md",
-    "Untitled.md",
     "People/William E. McClure.md",
     "Organizations/Delta.md",
     "People/Christopher Columbus.md",
     "People/Unknown Squad Leader.md",
     "Locations/Pine Gap, Australia.md",
-    "Locations MOC.md",
+    "MOCs/Locations MOC.md",
     "Concepts/TR-3B.md",
     "People/UVM bky.md",
     "People/Sully Erna.md",
     "People/Richard Dreyfuss.md",
-    "People/Pete Mitchell.md",
-    "People/NV bky.md",
-    "People/Lee Harvey Oswald.md",
-    "People/Ewl.md",
     "stub_entries.csv",
     "_templates",
     "Locations",

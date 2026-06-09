@@ -79,19 +79,19 @@
   },
   "additionalProperties": {},
   "backupGraphOptions": {
-    "collapse-filter": false,
-    "search": "-\"MOC\" -\"Template\" -\"summary\" -\"transcript\"",
+    "collapse-filter": true,
+    "search": "-\"Template\" -\"summary\" -\"transcript\" -\"README\" -\"Home\"",
     "showTags": false,
     "showAttachments": false,
     "hideUnresolved": false,
     "showOrphans": true,
-    "collapse-color-groups": false,
+    "collapse-color-groups": true,
     "colorGroups": [
       {
-        "query": "path:Concepts  ",
+        "query": "path:MOCs",
         "color": {
           "a": 1,
-          "rgb": 14734418
+          "rgb": 6184542
         }
       },
       {
@@ -133,7 +133,14 @@
         "query": "path:Videos  ",
         "color": {
           "a": 1,
-          "rgb": 6908265
+          "rgb": 5723991
+        }
+      },
+      {
+        "query": "path:Concepts ",
+        "color": {
+          "a": 1,
+          "rgb": 14274664
         }
       }
     ],
@@ -144,11 +151,11 @@
     "lineSizeMultiplier": 0.628493923611111,
     "collapse-forces": false,
     "centerStrength": 0.195442708333333,
-    "repelStrength": 11.3229166666667,
-    "linkStrength": 0.110763888888889,
-    "linkDistance": 184,
-    "scale": 0.03486181749872733,
-    "close": true
+    "repelStrength": 14.3689236111111,
+    "linkStrength": 0.367925347222222,
+    "linkDistance": 168,
+    "scale": 0.03013497332642479,
+    "close": false
   },
   "openInNewTab": false,
   "canonicalizePropertiesWithDataview": true,
