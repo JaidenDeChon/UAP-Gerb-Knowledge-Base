@@ -23,4 +23,4 @@ The Frasier Island case is one of a cluster of mid-20th-century maritime sightin
 
 ## Sources
 
-- [[Video - USO Case Book Unidentified Submerged Objects Throughout History]]
+- [[Video - USO Case Book - Unidentified Submerged Objects Throughout History]]

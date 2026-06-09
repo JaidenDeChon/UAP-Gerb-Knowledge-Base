@@ -18,4 +18,4 @@ The Malabar Coast stretches roughly from Goa in the north to the southern tip of
 
 ## Sources
 
-- [[Video - USO Case Book Unidentified Submerged Objects Throughout History]]
+- [[Video - USO Case Book - Unidentified Submerged Objects Throughout History]]

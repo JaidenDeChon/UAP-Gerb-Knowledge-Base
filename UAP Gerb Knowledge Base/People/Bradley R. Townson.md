@@ -24,7 +24,7 @@ However, the paper confirmed several critical facts:
 
 ## Significance
 
-Townson's 2008 paper represents official US Air Force acknowledgment — published through a military research institution — that satellites routinely detect objects that cannot be explained as atmospheric phenomena, meteors, or known spacecraft. The paper was among the limited documents released to [[John Greenwald]] in response to FOIA requests, demonstrating that even non-classified research on Fast Walkers confirms their existence while avoiding disclosure of specific detection events or data.
+Townson's 2008 paper represents official US Air Force acknowledgment — published through a military research institution — that satellites routinely detect objects that cannot be explained as atmospheric phenomena, meteors, or known spacecraft. The paper was among the limited documents released to [[John Greenewald]] in response to FOIA requests, demonstrating that even non-classified research on Fast Walkers confirms their existence while avoiding disclosure of specific detection events or data.
 
 ## Sources
 

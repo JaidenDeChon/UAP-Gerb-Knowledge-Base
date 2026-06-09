@@ -19,7 +19,7 @@ This email represents one of the few documented instances of UAP-related informa
 
 ## Significance for UAP Disclosure
 
-The WikiLeaks publication of the Fish-Podesta email bypassed traditional classification and FOIA restrictions, providing public evidence of claims about satellite-based UFO tracking that the government has consistently refused to disclose through official channels. [[John Greenwald]]'s repeated FOIA denials from [[NORAD]], [[US Northern Command]], and [[US Space Force]] on Fast Walker data stand in contrast to the information revealed through the WikiLeaks leak.
+The WikiLeaks publication of the Fish-Podesta email bypassed traditional classification and FOIA restrictions, providing public evidence of claims about satellite-based UFO tracking that the government has consistently refused to disclose through official channels. [[John Greenewald]]'s repeated FOIA denials from [[NORAD]], [[US Northern Command]], and [[US Space Force]] on Fast Walker data stand in contrast to the information revealed through the WikiLeaks leak.
 
 ## Sources
 

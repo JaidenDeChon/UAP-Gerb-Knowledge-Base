@@ -23,10 +23,19 @@ No public documentation of Von Neumann's involvement in UAP-related work has bee
 
 Von Neumann's name does not appear frequently in UAP testimony, but his alleged involvement is consistent with the broader pattern described by multiple sources: that the most senior American scientists of the World War II and early Cold War era — individuals with Manhattan Project credentials and proximity to President Truman — were read into crash retrieval programs. The trio of Bush,Von Neumann, and Oppenheimer represents the apex of American wartime scientific leadership.
 
+## Universal Constructor Theory and the Fabrication Hypothesis
+
+Von Neumann's 1940s theoretical work on self-replicating automata — the universal constructor — has been independently invoked within UAP research as a possible explanation for the origin of recovered craft and biological occupants. An anonymous whistleblower analyzed by UAP Gerb in the video "'US Special Forces Confession - I Recovered Crashed UFOs': Fact or Fiction?" describes the program's internal working hypothesis that both craft and biologics may be manufactured by an automated self-replicating system elsewhere in the solar system — a concept the whistleblower's program colleagues recognized as matching Von Neumann's theoretical framework.
+
+Von Neumann's universal constructor theory describes how a civilization constrained to sub-light-speed travel could colonize a galaxy by deploying self-replicating robotic systems that reproduce using locally available materials. Such a system, once established — for example, in an asteroid belt or outer solar system — could manufacture craft and biological crew indefinitely and dispatch them to target planets without any living intelligence needing to make the journey.
+
+The anonymous whistleblower states the program tasked [[NASA]] with searching for heat signatures that such a manufacturing facility would emit if located within the solar system. The witness acknowledges uncertainty about whether the facility was ever found: "I don't know if they ever found anything though." This application of Von Neumann's theory to the UAP phenomenon — referred to by UAP Gerb as the [[Fabrication Hypothesis]] — represents an extension of his theoretical legacy into the domain of non-human intelligence research.
+
 ## Death and Legacy
 
-Von Neumann died of cancer in February 1957 at age 53. His contributions to computer science, game theory, and nuclear strategy remain foundational. His alleged work analyzing recovered UAP materials — if confirmed — would represent one of the most significant and highly classified chapters of his career, concealed from public knowledge for decades.
+Von Neumann died of cancer in February 1957 at age 53. His contributions to computer science, game theory, and nuclear strategy remain foundational. His alleged work analyzing recovered UAP materials — if confirmed — would represent one of the most significant and highly classified chapters of his career, concealed from public knowledge for decades. His universal constructor theory continues to be cited by UAP researchers as a framework for understanding how non-human technological systems might operate without requiring biological operators to travel interstellar distances.
 
 ## Sources
 
 - [[Video - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group]]
+- [[Video - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction]]

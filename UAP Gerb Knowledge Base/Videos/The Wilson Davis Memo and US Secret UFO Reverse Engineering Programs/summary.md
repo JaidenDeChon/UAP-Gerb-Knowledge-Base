@@ -100,7 +100,7 @@ The memo was entered into the official U.S. Congressional Record in 2022, lendin
 
 ## Related Pages
 
-**People**: [[James Rigny]], [[Will Miller]], [[Eric Davis]], [[Thomas Wilson]], [[Edgar Mitchell]], [[Steven Greer]], [[Dia Hughes]], [[Oak Shannon]], [[Lou Elizondo]], [[Chris Mellon]], [[Joe Murgia]], [[Billy Cox]], [[David Grusch]], [[Gordon Cooper]], [[Eugene Cernan]], [[James Irwin]], [[Victor Afanasyev]], [[Hal Puthoff]], [[Richard Dolan]], [[Ross Coulthart]], [[Bryce Zabel]], [[Steven Greenstreet]], [[John Greenwald]], [[George Knapp]], [[General Marshall Ward]], [[Bill Perry]], [[Jacques Gansler]], [[Paul Kaminski]], [[John Deutsch]]
+**People**: [[James Rigny]], [[Will Miller]], [[Eric Davis]], [[Thomas Wilson]], [[Edgar Mitchell]], [[Steven Greer]], [[Dia Hughes]], [[Oak Shannon]], [[Lou Elizondo]], [[Chris Mellon]], [[Joe Murgia]], [[Billy Cox]], [[David Grusch]], [[Gordon Cooper]], [[Eugene Cernan]], [[James Irwin]], [[Victor Afanasyev]], [[Hal Puthoff]], [[Richard Dolan]], [[Ross Coulthart]], [[Bryce Zabel]], [[Steven Greenstreet]], [[John Greenewald]], [[George Knapp]], [[General Marshall Ward]], [[Bill Perry]], [[Jacques Gansler]], [[Paul Kaminski]], [[John Deutsch]]
 
 **Organizations**: [[Defense Intelligence Agency]], [[AATIP (Advanced Aerospace Threat Identification Program)]], [[EarthTech International]], [[OUSD(AT) (Office of the Under Secretary of Defense for Acquisition and Technology)]], [[SAPOC (Special Access Program Oversight Committee)]], [[National Security Council]], [[EG&G]], [[Lockheed Martin]]
 

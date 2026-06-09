@@ -17,6 +17,12 @@ A 17-year-old Army private witnessed an ovoid craft as wide as a three-bedroom h
 ### 1947 UC Berkeley Sighting ([[Albert Bruce Collins]])
 Collins claimed to observe an oval craft "like an egg with the shell cracked" on a flatbed trailer at the University of California, Berkeley. It featured honeycomb skin construction, a central shiny sphere, and a seam running along its edge. Dimensions were 30–40 feet in diameter.
 
+### 1968 Vietnam Crash ([[Vietnam Era UAP Crash and Program Induction]])
+An anonymous whistleblower serving with the [[First Cavalry Division LRRP]] — Company E, 52nd Infantry — describes an egg-shaped object appearing overhead emitting a bright red-orange glow before crashing into the Vietnamese jungle along the Cambodia border in late 1968. The craft was dull gray and metallic, appearing to have been formed from a single piece of material with no seams, bolts, or fasteners — a description that closely matches the seamless construction described in multiple other accounts. This crash event led directly to the witness's subsequent induction into the classified crash retrieval program.
+
+### Area 51 Intact Specimen ([[Eric Taber]])
+Taber's AARO testimony describes his great-uncle — a security contractor at Area 51 — disclosing that an egg-shaped UAP was found intact in the Nevada desert and stored at the base. The egg was found undamaged, consistent with the witness's observation that not all eggs arrive via crash; some appear to have been deliberately placed or "donated."
+
 ### Jake Barber Testimony
 [[Jake Barber]] described a smaller SUV-sized smooth white egg recovered in a more recent alleged retrieval, as discussed in the context of [[Psionics]] and consciousness-controlled craft.
 
@@ -33,3 +39,5 @@ Across cases, egg-shaped craft share recurring physical properties:
 ## Sources
 
 - [[Video - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt]]
+- [[Video - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction]]
+- [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]

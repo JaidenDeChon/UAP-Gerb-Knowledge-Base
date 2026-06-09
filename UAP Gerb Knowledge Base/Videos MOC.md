@@ -53,6 +53,6 @@ tags:
 - [[Video - UFOs in the Private Sector - Battelle Memorial Institute]]
 - [[Video - UFOs in the Private Sector - Lockheed Martin]]
 - [[Video - US Navy UFO Crash Retrieval & Reverse Engineering Programs]]
-- [[Video - US Special Forces Confession - I Recovered Crashed UFOs Fact or Fiction]]
+- [[Video - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction]]
 - [[Video - USO - Unidentified Submerged Objects]]
-- [[Video - USO Case Book Unidentified Submerged Objects Throughout History]]
+- [[Video - USO Case Book - Unidentified Submerged Objects Throughout History]]

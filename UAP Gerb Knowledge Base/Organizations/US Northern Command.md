@@ -13,7 +13,7 @@ US Northern Command serves as the parent command for [[NORAD]] (North American A
 
 ## 2013 FOIA Denial to John Greenwald
 
-In 2013, [[John Greenwald]] of [[The Black Vault]] submitted a FOIA request to US Northern Command seeking documentation on Fast Walkers — objects detected by [[Defense Support Program (DSP)]] satellites entering or leaving Earth's atmosphere. NORTHCOM responded that Fast Walker documentation is **"currently and properly classified"** under Executive Order 13526, stating such information is **"considered critical to National Defense or foreign policy and is thus controlled by the US government."**
+In 2013, [[John Greenewald]] of [[The Black Vault]] submitted a FOIA request to US Northern Command seeking documentation on Fast Walkers — objects detected by [[Defense Support Program (DSP)]] satellites entering or leaving Earth's atmosphere. NORTHCOM responded that Fast Walker documentation is **"currently and properly classified"** under Executive Order 13526, stating such information is **"considered critical to National Defense or foreign policy and is thus controlled by the US government."**
 
 Despite the classification denial, NORTHCOM did release two unclassified research papers:
 1. "Orbit Determination of Sunlit Illuminated Objects Detected by Overhead Platforms" (1989) by [[Richard P. Oszx]]

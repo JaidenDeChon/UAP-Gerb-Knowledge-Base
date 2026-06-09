@@ -132,7 +132,7 @@ The [[Woods Hole Oceanographic Institution]] (WHOI) is named by Sharp as providi
 
 ## Related Pages
 
-- **People**: [[Bobby Ray Inman]], [[Sumar Shapiro]], [[Everett Heinman]], [[Bob Echler]], [[Nat Kobitz]], [[John P. Craraven]], [[Leonard Stringfield]], [[Christopher Sharp]], [[Ross Coulthart]], [[Daniel Sheehan]], [[Timothy Galedet]], [[Ner Liddell]], [[Art Bell]]
+- **People**: [[Bobby Ray Inman]], [[Sumar Shapiro]], [[Everett Heinman]], [[Bob Echler]], [[Nat Kobitz]], [[John P. Craraven]], [[Leonard Stringfield]], [[Christopher Sharp]], [[Ross Coulthart]], [[Daniel Sheehan]], [[Rear Admiral Timothy Gallaudet]], [[Ner Liddell]], [[Art Bell]]
 - **Organizations**: [[National Underwater Reconnaissance Office]], [[Office of Naval Research]], [[Woods Hole Oceanographic Institution]], [[CIA Directorate of Science and Technology]], [[Naval Surface Warfare Center Crane]], [[SAIC]], [[Lockheed Martin]], [[BDM International]]
 - **Operations**: [[Sand Dollar]], [[Glomar Explorer Operation (K-129 Recovery)]], [[Project Palladium]], [[Deep Submergence Systems Project (DSSP)]]
 - **Concepts**: [[Deep Submergence Rescue Vehicle (DSRV)]], [[Deep Submergence Search Vehicle (DSSV)]], [[Unidentified Submerged Object (USO)]], [[Special Access Programs (SAPs)]], [[Federally Funded Research and Development Centers (FFRDCs)]]

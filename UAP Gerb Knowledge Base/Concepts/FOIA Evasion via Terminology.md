@@ -14,7 +14,7 @@ According to the FASTWALKERS video, this distinction is **crucial** because "dur
 
 ## Pattern of Denials Using Terminological Distinction
 
-[[John Greenwald]] of [[The Black Vault]] received denials from:
+[[John Greenewald]] of [[The Black Vault]] received denials from:
 - **[[US Space Force]]** (2023): Cited FOIA Exception One (national security) for Fast Walker information
 - **[[US Northern Command]]/[[NORAD]]** (2013): Stated Fast Walker data is "critical to National Defense"
 

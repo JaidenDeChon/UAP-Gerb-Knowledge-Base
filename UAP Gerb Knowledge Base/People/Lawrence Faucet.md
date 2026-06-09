@@ -17,7 +17,7 @@ Faucet and [[Barry J. Greenwood]] conducted extensive FOIA research into [[NORAD
 
 ## Pattern of Denial
 
-The work of Faucet and Greenwood established the baseline pattern of government agencies using classification protocols and cost barriers to prevent disclosure of UFO tracking data — a pattern that continues through [[John Greenwald]]'s more recent FOIA denials from [[US Space Force]] and [[US Northern Command]].
+The work of Faucet and Greenwood established the baseline pattern of government agencies using classification protocols and cost barriers to prevent disclosure of UFO tracking data — a pattern that continues through [[John Greenewald]]'s more recent FOIA denials from [[US Space Force]] and [[US Northern Command]].
 
 ## Significance
 

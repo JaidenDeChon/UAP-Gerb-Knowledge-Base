@@ -21,4 +21,4 @@ The encounter also predates the reporting suppression mechanisms such as [[OPNAV
 
 ## Sources
 
-- [[Video - USO Case Book Unidentified Submerged Objects Throughout History]]
+- [[Video - USO Case Book - Unidentified Submerged Objects Throughout History]]

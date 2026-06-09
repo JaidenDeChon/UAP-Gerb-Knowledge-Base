@@ -18,7 +18,7 @@ The SCI component means that even among those with Top Secret clearance, only in
 
 ## Significance for UAP Secrecy
 
-The TS/SCI protection of DSP Fast Walker data explains why FOIA requests from [[John Greenwald]], [[Barry J. Greenwood]], and others have been categorically denied. The information is not just classified — it's compartmented into specific SCI programs that fall under the most restrictive disclosure protocols available under Executive Order 13526.
+The TS/SCI protection of DSP Fast Walker data explains why FOIA requests from [[John Greenewald]], [[Barry J. Greenwood]], and others have been categorically denied. The information is not just classified — it's compartmented into specific SCI programs that fall under the most restrictive disclosure protocols available under Executive Order 13526.
 
 Fish's testimony that cleared DSP personnel openly discussed Fast Walker detections among themselves (within the TS/SCI-protected facility) suggests the phenomenon is well-known and regularly observed within these compartmented programs, even as public disclosure remains impossible through official channels.
 

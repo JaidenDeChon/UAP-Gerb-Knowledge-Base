@@ -12,7 +12,7 @@ Dr. Eric Davis is an American astrophysicist and UAP researcher best known for h
 
 Davis is an accomplished physicist with extensive ties to the Department of Defense and the former [[AATIP (Advanced Aerospace Threat Identification Program)|Advanced Aerospace Threat Identification Program]] (AATIP). He served as Chief Science Officer within the esteemed [[EarthTech|EarthTech International]] and has been featured on papers regarding advanced propulsion and cutting-edge physics concepts.
 
-In 2018, journalist [[George Knapp]] leaked reports of 38 studies commissioned by AATIP within the DoD, later confirmed by [[John Greenwald]] of The Black Vault through a 2019 Freedom of Information Act request. Among the studies were research proposals titled "Traversible Wormholes, Stargates and Negative Energy," "Anti-Gravity for Aerospace Applications," and "Concepts for Extracting Energy from the Quantum Vacuum"—all authored by Eric Davis. These papers demonstrate Davis has been on the cutting edge of advanced scientific topics with potential applications to UAP propulsion and physics.
+In 2018, journalist [[George Knapp]] leaked reports of 38 studies commissioned by AATIP within the DoD, later confirmed by [[John Greenewald]] of The Black Vault through a 2019 Freedom of Information Act request. Among the studies were research proposals titled "Traversible Wormholes, Stargates and Negative Energy," "Anti-Gravity for Aerospace Applications," and "Concepts for Extracting Energy from the Quantum Vacuum"—all authored by Eric Davis. These papers demonstrate Davis has been on the cutting edge of advanced scientific topics with potential applications to UAP propulsion and physics.
 
 ## Investigation of Crash Retrieval Programs
 

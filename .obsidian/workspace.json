@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9db1813d9b4e6009",
+        "id": "78540d3823b68ace",
         "type": "tabs",
         "children": [
           {
-            "id": "d56d2b5f756eec93",
+            "id": "0a9049c976246792",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -70,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,11 +160,52 @@
             }
           }
         ]
+      },
+      {
+        "id": "00ceefc84951a57c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0c639200cf9a1f7",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.299354400437957,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,8 +218,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "d56d2b5f756eec93",
+  "active": "0a9049c976246792",
   "lastOpenFiles": [
+    "UAP Gerb Knowledge Base/Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/transcript.md",
+    "UAP Gerb Knowledge Base/Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/summary_old.md",
+    "UAP Gerb Knowledge Base/Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/summary.md",
+    "UAP Gerb Knowledge Base/Events MOC.md",
+    "UAP Gerb Knowledge Base/Operations/Project Blue Book.md",
+    "UAP Gerb Knowledge Base/Events/Corso's Claimed Encounter with Non-Human Intelligence.md",
+    "UAP Gerb Knowledge Base/People/Philip J. Corso.md",
+    "UAP Gerb Knowledge Base/People/Philip Corso Jr..md",
+    "UAP Gerb Knowledge Base/Concepts/Project Moon Dust.md",
+    "UAP Gerb Knowledge Base/Events/1953 Kingman, Arizona Crash Retrieval.md",
+    "UAP Gerb Knowledge Base/Organizations/Lockheed Martin.md",
+    "UAP Gerb Knowledge Base/Organizations/National Oceanic and Atmospheric Administration (NOAA).md",
+    "UAP Gerb Knowledge Base/Concepts/OPNAV 3820.md",
+    "UAP Gerb Knowledge Base/Concepts/JANAP 146c.md",
+    "UAP Gerb Knowledge Base/Operations/Project Interloper.md",
+    "UAP Gerb Knowledge Base/People/Dewey Fett.md",
+    "UAP Gerb Knowledge Base/People/Mark Dantonio.md",
+    "UAP Gerb Knowledge Base/People/Rear Admiral Timothy Gallaudet.md",
+    "UAP Gerb Knowledge Base/Operations/Operation Menu.md",
     "SETUP.md",
     "UAP Gerb Knowledge Base/Operations/Project Palladium.md",
     "UAP Gerb Knowledge Base/Concepts MOC.md",

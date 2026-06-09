@@ -22,7 +22,7 @@ Ground-based sensors typically cannot track Slow Walkers, just as they cannot tr
 
 ## FOIA Denials
 
-All FOIA requests for Slow Walker data have been denied alongside Fast Walker requests. [[John Greenwald]]'s requests specifically sought information on both designations, and received blanket denials citing Executive Order 13526 and national security concerns.
+All FOIA requests for Slow Walker data have been denied alongside Fast Walker requests. [[John Greenewald]]'s requests specifically sought information on both designations, and received blanket denials citing Executive Order 13526 and national security concerns.
 
 The terminological distinction between "UFO/UAP" (atmospheric) and "Fast/Slow Walker" (space-transiting) allows agencies to maintain classification even as some atmospheric UAP information has been disclosed under pressure.
 

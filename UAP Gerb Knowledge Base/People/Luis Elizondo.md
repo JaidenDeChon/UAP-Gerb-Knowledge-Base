@@ -41,8 +41,13 @@ When the interviewer suggested Italy, Elizondo confirmed: "Yeah, it was Italy. T
 
 This statement directly validates the authenticity of the documents provided to researcher [[Roberto Pinotti]] and supports [[David Grusch]]'s public testimony about the Magenta retrieval being the first NHI craft recovered by the United States (via transfer from Italian to U.S. possession).
 
+## Caribbean USO Account
+
+In a 2022 interview with NASA astronaut [[Terry Virts]], Elizondo described a military USO encounter involving a Navy helicopter crew conducting routine cruise missile recovery operations near a Caribbean island above the [[Puerto Rico Trench]]. During consecutive monthly recovery missions, the crew encountered a large dark circular object — approximately the size of a small island — rising from approximately 22,000 feet below the surface. On the second occasion, the object appeared as a Navy frogman was on a rope preparing to attach to the recovered missile; the crew executed an emergency ascent and departure while the object pulled the missile back into the depths. Elizondo noted that subsequent inquiry to a senior naval figure about "the fast mover program" produced implicit confirmation of the program's existence. See [[Caribbean Island Cruise Missile Recovery USO Encounter]].
+
 ## Sources
 
-- [[Video - The 1933 Magenta, Italy UFO Crash]]
-- [[Video - Incredible UFO Footage - METAPOD]]
-- [[Video - Incredible UFO Footage - FLYBY]]
+- [[The 1933 Magenta, Italy UFO Crash]]
+- [[Incredible UFO Footage - METAPOD]]
+- [[Incredible UFO Footage - FLYBY]]
+- [[USO - Unidentified Submerged Objects]]

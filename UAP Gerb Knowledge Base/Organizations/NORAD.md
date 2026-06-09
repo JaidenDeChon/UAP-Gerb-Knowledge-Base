@@ -34,7 +34,7 @@ NORAD has consistently refused to disclose UFO/Fast Walker tracking data:
 
 ### 2013 Request by John Greenwald
 
-[[John Greenwald]] of [[The Black Vault]] submitted a FOIA request for Fast Walker documentation. US Northern Command (NORAD's parent command) responded that Fast Walker data is "currently and properly classified" under Executive Order 13526 as "critical to National Defense or foreign policy."
+[[John Greenewald]] of [[The Black Vault]] submitted a FOIA request for Fast Walker documentation. US Northern Command (NORAD's parent command) responded that Fast Walker data is "currently and properly classified" under Executive Order 13526 as "critical to National Defense or foreign policy."
 
 However, NORTHCOM did release two unclassified research papers confirming that DSP satellites have been detecting Fast Walkers since 1972.
 

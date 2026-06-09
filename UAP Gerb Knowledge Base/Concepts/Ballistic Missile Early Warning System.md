@@ -38,7 +38,7 @@ Data from ballistic missile early warning satellites flows directly to [[NORAD]]
 
 ## Classification of Fast Walker Data
 
-While the existence and general capabilities of ballistic missile early warning systems are publicly acknowledged, the specific detection records — particularly Fast Walker detections — remain highly classified. [[John Greenwald]]'s FOIA requests were repeatedly denied under Executive Order 13526, indicating Fast Walker data is treated as among the most sensitive information collected by these systems.
+While the existence and general capabilities of ballistic missile early warning systems are publicly acknowledged, the specific detection records — particularly Fast Walker detections — remain highly classified. [[John Greenewald]]'s FOIA requests were repeatedly denied under Executive Order 13526, indicating Fast Walker data is treated as among the most sensitive information collected by these systems.
 
 ## Significance
 

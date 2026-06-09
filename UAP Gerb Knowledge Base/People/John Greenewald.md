@@ -1,6 +1,6 @@
 ---
 name: "John Greenewald"
-role: "Researcher and founder of The Black Vault"
+role: "Researcher and founder of The Black Vault; FOIA specialist"
 tags:
   - person
 ---
@@ -28,15 +28,20 @@ These papers confirmed that DSP satellites had been detecting and cataloging Fas
 
 In late 2023, Greenewald submitted a similar FOIA request to [[US Space Force]], which had absorbed oversight of space surveillance operations including DSP. Space Force issued a **full denial** under FOIA Exception One, citing classification in the interest of national defense and foreign policy. The Space Force provided **no documents** and gave a decisive and final response to the request.
 
+## USS Trepang Photograph Analysis
+
+Greenewald engaged with the disputed [[USS Trepang UAPUSO Photography|USS Trepang photographs]] from 1971 — a set of images purportedly showing triangle, cigar-shaped, and egg-shaped UAP interacting with the Arctic Ocean near [[Jan Mayen Island]]. Researcher [[Wim van Utri]] identified signs of photographic tampering in one of the most prominent images. Greenewald argued that the presence of tampering in a single image does not invalidate the remaining photographs, noting that publications routinely enhance images for print and that differences in aspect ratio between the original image and the magazine version are consistent with standard print enhancement rather than deliberate falsification.
+
+## Philip J. Corso FBI Documents
+
+Greenewald released FBI documents obtained through The Black Vault in July 2024 relating to a 1964–65 background check of [[Philip J. Corso]]. These documents characterized Corso negatively — one document attributed to another government agency described Corso as "a parasite who has never produced any intelligence through his own efforts." No FBI documents discussed Corso's Foreign Technology Division duties or UAP, and all files were cross-references rather than primary investigatory files. UAP Gerb cited these documents as counterpoints to Corso's claims while noting the FBI characterization does not directly address the specifics of his military career.
+
 ## Significance
 
-Greenewald's systematic FOIA campaign has publicly documented the consistent pattern of government classification and denial surrounding space-based UFO detection. His work has established the official record that:
-- The US military has been tracking objects entering/leaving Earth's atmosphere since at least 1972
-- This tracking data remains among the most heavily classified UAP-related information
-- The term "Fast Walker" is used specifically to evade FOIA requests for "UFO" or "UAP" data
-
-By making FOIA responses and released documents publicly accessible through The Black Vault, Greenewald has provided researchers with concrete evidence of decades-long patterns of UFO program secrecy that would otherwise remain hidden from public view.
+Greenewald's systematic FOIA campaign has publicly documented the consistent pattern of government classification and denial surrounding space-based UFO detection. His work has established on the official record that the US military has been tracking objects entering and leaving Earth's atmosphere since at least 1972, that this data is among the most heavily classified UAP-related information held by the government, and that the term "Fast Walker" has functionally served as a classification shield against FOIA requests that use the terms "UFO" or "UAP."
 
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[FASTWALKERS – UFOs Outside Earth]]
+- [[Philip J. Corso - US Army UFO Technology Research & Development]]
+- [[USO - Unidentified Submerged Objects]]

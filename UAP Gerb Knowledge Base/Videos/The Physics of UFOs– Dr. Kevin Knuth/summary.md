@@ -229,7 +229,7 @@ The video concludes by emphasizing that cases analyzed by Knuth span from pre-Wo
 - [[USAF Regulation 200-2]] — Implemented in 1953 to restrict UFO reporting and prevent disclosure to Project Blue Book, Congress, and the public.
 - [[G-Force Tolerance]] — Humans can survive up to 16 Gs briefly; F-35 wings rip off at ~13 Gs; ballistic missiles fail at ~100 Gs, contextualizing UAP acceleration as far beyond known limits.
 - [[Mother of Pearl Effect]] — Skin texture described on a crashed egg-shaped craft, compared to the Minot AFB UFO skin described as molten lava.
-- [[Transmedium UAPUSO]] — Unidentified craft capable of operating in both air and water without apparent loss of speed or interaction with the medium
+- [[Trans-Medium Vehicle]] — Unidentified craft capable of operating in both air and water without apparent loss of speed or interaction with the medium
 - [[Hypersonic UAP Speed]] — UAPs tracked at hypersonic speeds without producing sonic booms or fireballs, contradicting conventional physics expectations
 - [[Energy Deposition Problem]] — UAPs that undergo extreme acceleration and deceleration do not release the expected energy output, such as explosions equivalent to 250 Tomahawk cruise missiles
 - [[Relativistic Interstellar Travel]] — The extreme accelerations of UAPs could bring craft to high percentages of the speed of light, making interstellar travel feasible

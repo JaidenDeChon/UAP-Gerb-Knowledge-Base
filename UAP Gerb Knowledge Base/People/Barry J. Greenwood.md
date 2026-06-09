@@ -22,7 +22,7 @@ Three years after the initial request, Greenwood and Faucet submitted a follow-u
 
 Greenwood's documentation establishes that NORAD possessed extensive UAP tracking data as early as the 1970s — data so voluminous that processing it would require over 100,000 man-hours. This aligns with [[J. Allen Hynek]]'s 1967 statement that NORAD had been tracking UFOs since 1957 and that all continental US military UFO cases in [[Project Blue Book]] were designated as NORAD cases.
 
-The pattern of NORAD using cost barriers to prevent disclosure — documented by Greenwood in 1979 and continuing through [[John Greenwald]]'s 2013 and 2023 denials — demonstrates a consistent decades-long policy of preventing public access to space-based and ground-based UFO tracking records.
+The pattern of NORAD using cost barriers to prevent disclosure — documented by Greenwood in 1979 and continuing through [[John Greenewald]]'s 2013 and 2023 denials — demonstrates a consistent decades-long policy of preventing public access to space-based and ground-based UFO tracking records.
 
 ## Sources
 

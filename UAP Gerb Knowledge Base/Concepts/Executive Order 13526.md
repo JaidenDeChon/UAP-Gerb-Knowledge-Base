@@ -16,7 +16,7 @@ The order allows classification of information that could reasonably be expected
 
 ### 2013 US Northern Command Denial
 
-[[US Northern Command]]/[[NORAD]] told [[John Greenwald]] that Fast Walker documentation is "currently and properly classified" under Executive Order 13526, stating it is "considered critical to National Defense or foreign policy and is thus controlled by the US government."
+[[US Northern Command]]/[[NORAD]] told [[John Greenewald]] that Fast Walker documentation is "currently and properly classified" under Executive Order 13526, stating it is "considered critical to National Defense or foreign policy and is thus controlled by the US government."
 
 ### 2023 US Space Force Denial
 

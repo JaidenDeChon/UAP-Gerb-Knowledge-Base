@@ -35,7 +35,7 @@ The 2014 DSP fact sheet notes that "researchers at the [[Aerospace Corporation]]
 
 ## Classification and FOIA Denials
 
-All requests for DSP data related to [[Fast Walkers]] have been denied under Executive Order 13526, which protects information "critical to National Defense or foreign policy." [[John Greenwald]] of [[The Black Vault]] has been repeatedly denied access to Fast Walker data by both [[US Space Force]] and [[US Northern Command]]/[[NORAD]], with agencies citing national security exceptions.
+All requests for DSP data related to [[Fast Walkers]] have been denied under Executive Order 13526, which protects information "critical to National Defense or foreign policy." [[John Greenewald]] of [[The Black Vault]] has been repeatedly denied access to Fast Walker data by both [[US Space Force]] and [[US Northern Command]]/[[NORAD]], with agencies citing national security exceptions.
 
 ## Sources
 

@@ -113,9 +113,16 @@ His willingness to publicly discuss these findings — despite potential profess
 - Could brain imaging be used to pre-screen personnel for compatibility with recovered technology?
 - What is the relationship between Nolan's academic research and potential classified government programs studying the same phenomena?
 
+## Biological Android and Avatar Hypothesis
+
+In public statements and interviews, Dr. Nolan has advanced the hypothesis that most observed UAP occupants are not the primary intelligence responsible for the phenomenon but rather biological intermediaries — avatars or biological robots dispatched to interact with humans in lieu of the intelligence itself. His stated reasoning: "If you're an intelligence, are you going to go down on a planet with a bunch of angry monkeys who might kill you? No. You'll send some intermediary. And what kind of intermediary are you going to send? You're going to send something that maybe almost looks like them, but isn't them."
+
+Nolan characterizes this view as the current working hypothesis within the intelligence community, and it aligns precisely with the anonymous whistleblower's account analyzed in "'US Special Forces Confession - I Recovered Crashed UFOs': Fact or Fiction?" The whistleblower describes program colleagues concluding that the biological entities recovered from crash sites were biological androids or drones — manufactured beings with crude digestive systems, limited autonomous behavior, and a lifespan of only a few days after recovery — rather than naturally evolved life forms.
+
 ## Sources
 
 - [[Video - Off-World Technologies Division – UAP Technology Reverse Engineering]]
+- [[Video - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction]]
 - Numerous public presentations and interviews on UAP biological effects
 
 ## Related Pages

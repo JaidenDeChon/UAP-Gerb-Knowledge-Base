@@ -19,7 +19,12 @@ In his book *Hidden Science 5*, which documents his journals from the 2000s to 2
 
 On December 4, 2020, during Joe Rogan Experience episode #1574 alongside documentary filmmaker [[James Fox]], Vallée referenced a private contractor that helps control the UFO phenomenon through intelligence agencies and holds recovered UFO materials. Vallée stated he was unwilling to name the organization. Fox then indirectly identified the organization by referencing its involvement with the January 1953 [[Robertson Panel]] — a pointer consistent specifically with [[Battelle Memorial Institute]], which was the contractor running the parallel [[Project Stork]] investigation at the time. UAP Gerb cited this episode (beginning approximately one hour and forty-two minutes in) as corroboration of the Battelle material recovery hypothesis.
 
+## USO and Norton Air Force Base (1985)
+
+In his journal collection *Forbidden Science: Pacific Heights*, Vallée records a 1985 claim from a source at NARCAT (the National Aviation Reporting Center on Anomalous Phenomena) that a large collection of UFO and USO files were being stored at [[Norton Air Force Base]]. This reference places USO file storage at Norton alongside other UAP material that has been associated with the facility by other researchers, including [[Steven Greer]] in his alleged 1996 congressional briefing.
+
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
-- [[Video - UFOs in the Private Sector - Battelle Memorial Institute]]
+- [[FASTWALKERS – UFOs Outside Earth]]
+- [[UFOs in the Private Sector - Battelle Memorial Institute]]
+- [[USO - Unidentified Submerged Objects]]

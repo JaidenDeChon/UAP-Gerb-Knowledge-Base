@@ -15,7 +15,7 @@ Space Force's Peterson Space Force Base in Colorado Springs serves as [[NORAD]]'
 
 ## FOIA Denials on Fast Walker Data
 
-In late 2023, Space Force issued a decisive final denial to [[John Greenwald]]'s FOIA request for Fast Walker information. The denial cited **FOIA Exception One**, covering information "to be kept secret in the interest of National Defense or foreign policy."
+In late 2023, Space Force issued a decisive final denial to [[John Greenewald]]'s FOIA request for Fast Walker information. The denial cited **FOIA Exception One**, covering information "to be kept secret in the interest of National Defense or foreign policy."
 
 This 2023 denial followed a decade of similar refusals by Space Force's predecessor organizations, establishing that Fast Walker data remains among the most highly classified information held by US military space commands.
 

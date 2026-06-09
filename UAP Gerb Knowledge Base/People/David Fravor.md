@@ -11,6 +11,11 @@ Commander David Fravor (USN, Ret.) is a retired United States Navy fighter pilot
 
 Fravor's account of the Tic Tac's performance — no visible propulsion, no flight control surfaces, hypersonic acceleration from a hover — matches the general characteristics attributed to [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]]. Investigative journalist [[Ross Coulthart]] has reported claims that the Tic Tac originated from [[Lockheed Martin|Lockheed Martin Skunk Works]], a claim also echoed by [[Steven Greer]]. UAP Gerb notes that in the context of the Castle video, the Nimitz encounter occurred within the same Southern California military operating area network (the [[R2508 Complex]] and adjacent Warning Areas) where [[TR-3B]]-type vehicles have been reported.
 
+## USO Dimension of the Tic Tac Encounter
+
+UAP Gerb's video on USO history cites Fravor's 2004 Tic Tac encounter as significant not only for the aerial UAP itself but for evidence of a submerged counterpart. During the encounter, the Tic Tac was observed hovering above churning ocean water, which pilots interpreted as potentially indicating a larger submerged object disturbing the surface from below. [[Rear Admiral Timothy Gallaudet]] cites this detail in his 2024 white paper *Beneath the Surface* as evidence that the Tic Tac encounter was simultaneously a USO encounter, not merely an aerial one.
+
 ## Sources
 
-- [[Video - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE]]
+- [[1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE]]
+- [[USO - Unidentified Submerged Objects]]
