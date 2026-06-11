@@ -46,7 +46,7 @@ NURO has employed several specialized vessels for clandestine undersea operation
 
 ## Role in Alleged UFO and USO Retrieval
 
-Christopher Sharp of *Liberation Times* named NURO as a participant in undersea craft retrieval programs in a September 2024 article. Sharp's reporting — which he initially redacted and then restored due to threats — described NURO as coordinating with the CIA's Directorate of Operations and Directorate of Science and Technology, the US Navy, SOCOM, and the [[Woods Hole Oceanographic Institution]] for the retrieval of objects from beneath the oceans.
+[[Christopher Sharp]] of *Liberation Times* named NURO as a participant in undersea craft retrieval programs in a September 2024 article. Sharp's reporting — which he initially redacted and then restored due to threats — described NURO as coordinating with the CIA's Directorate of Operations and Directorate of Science and Technology, the US Navy, SOCOM, and the [[Woods Hole Oceanographic Institution]] for the retrieval of objects from beneath the oceans.
 
 [[Bobby Ray Inman]] characterized NURO's mission as encompassing "imagery of the ocean floors, looking for anything which might be desirable from an intelligence point of view" — language UAP researchers interpret as broad enough to include non-human craft. Inman's separate private disclosures in 1989 — referring NASA mission specialist [[Bob Echler]] to CIA DS&T Deputy Director [[Everett Heinman]] as the right contact for questions about recovered craft — are treated as connecting the NURO director directly to the CIA DS&T's alleged management of recovered non-human vehicles.
 

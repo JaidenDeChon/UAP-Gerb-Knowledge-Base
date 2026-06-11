@@ -11,7 +11,7 @@ Lieutenant Walter Haut was the public information officer at Roswell Army Air Fi
 
 On July 8, 1947, Haut distributed a press statement, reportedly dictated by Colonel William Blanchard, that announced recovery of a flying disc. The release was transmitted to local media and briefly became international news before General Roger Ramey's office replaced the narrative with a weather balloon explanation.
 
-Haut later stated that the retraction did not match what senior officers at Roswell believed had been recovered. His account is frequently cited alongside testimony from Jesse Marcel and Thomas J. DuBose as evidence of deliberate public misdirection.
+Haut later stated that the retraction did not match what senior officers at Roswell believed had been recovered. His account is frequently cited alongside testimony from Jesse Marcel and Thomas J. DuBose as evidence of deliberate public misdirection. [[Arthur McQuitty]], managing editor of the Roswell Morning Dispatch, later signed an affidavit confirming receipt of Haut's original press release followed by a retraction call from military authorities — providing civilian newsroom corroboration of the rapid information reversal.
 
 ## Affidavits And Later Testimony
 

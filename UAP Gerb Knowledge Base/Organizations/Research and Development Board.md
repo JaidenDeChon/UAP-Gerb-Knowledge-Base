@@ -52,6 +52,13 @@ The R&D Board was eventually reorganized and its functions absorbed into other D
 
 The board's legacy in UAP research rests on the testimony of insiders like Sarbacher and Walker, who decades later confirmed that the board had indeed overseen a compartmented program to study recovered non-human technology. The fact that the board was chaired by Vannevar Bush—the architect of the Manhattan Project's predecessor, the Office of Scientific Research and Development—underscores the seriousness with which the UAP question was treated at the highest levels of US defense science.
 
+## Role in the Manhattan Project 2.0
+
+UAP Gerb's investigation into the Manhattan Project 2.0 identifies the RDB as the probable "tip of the spear" for the scientific and administrative management of UFO crash retrieval operations from 1947 to 1953. The RDB's mandate under the 1947 National Security Act — to prepare a complete and integrated program of military research and development, advise on trends in scientific research relating to national security, recommend measures of coordination among military departments, and formulate policy for the National Military Establishment in connection with research and development matters involving outside agencies — positioned it as the ideal institutional home for the Manhattan Project 2.0's scientific apparatus.
+
+The RDB was reorganized in 1953 into the Assistant Secretary of Defense for Research and Development, which now exists as the Under Secretary of Defense for Research and Engineering (USDR&E) — a position the host identifies as continuing to be involved in UFO legacy activities alongside the Under Secretary of Defense for Acquisition and Sustainment (USDANS) and the Under Secretary of Defense for Intelligence and Security (USDINS).
+
 ## Sources
 
 - [[Video - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group]]
+- [[Video - The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1]]

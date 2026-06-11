@@ -32,6 +32,17 @@ Bush's chairmanship of NACA — the precursor to NASA — further embedded him i
 
 Bush's prominence in UAP lore stems not from any direct public statement he made about the subject, but from the convergent testimony of independent insiders — Sarbacher, Walker, and others — who consistently name him as the central scientific authority overseeing the earliest classified US UAP programs. His documented institutional position at the head of the Defense Research and Development Board during the exact period when multiple alleged crash recoveries occurred (1947–1952) makes his alleged involvement structurally plausible.
 
+## Role in the Manhattan Project 2.0 Security Architecture
+
+UAP Gerb's investigation into the Manhattan Project 2.0 identifies Bush as the single most pivotal figure in constructing the security architecture of early UFO legacy programs. As OSRD director and RDB chairman, Bush simultaneously built US military-scientific infrastructure and held the nation's most sensitive nuclear secrets. His establishment of the OSRD's self-censorship and publication control system — the informal practice of treating nuclear physics data as inherently secret, later formalized as "restricted data" in the 1946 Atomic Energy Act — is identified as the direct precursor to the classification system protecting UFO legacy programs.
+
+Bush's invention of the FFRDC/GOCO institutional model — government-owned, contractor-operated research labs that attract top scientific talent while retaining strict government control over materials and deliverables — is described as a core architectural feature of the Manhattan Project 2.0, incarnated in Atomic Energy Commission national labs like [[Sandia National Laboratories]], [[Los Alamos National Laboratory]], and [[Oak Ridge National Laboratory]]. Today, compartmented military GOCO contracts for science and RDT&E exist because of foundational work by Bush.
+
+Bush's Research and Development Board (RDB, 1947–1953) is identified as the probable scientific administration hub for crash retrieval and analysis during that period, before it was reorganized into the Assistant Secretary of Defense for Research and Development — the office that now exists as the Under Secretary of Defense for Research and Engineering.
+
+Within the Manhattan Project itself, Bush served as a critical member of the Top Policy Group — the tiny civilian-political oversight body (Roosevelt/Truman, Henry Wallace, Henry Stimson, [[George C. Marshall]], Bush, and James Conant) — analogous to the UFO control groups established under Truman and Eisenhower within the National Security Council.
+
 ## Sources
 
 - [[Video - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group]]
+- [[Video - The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1]]

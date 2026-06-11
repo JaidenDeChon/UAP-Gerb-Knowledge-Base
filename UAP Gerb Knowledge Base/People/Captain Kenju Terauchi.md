@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Captan Kenju Terauchi was the pilot of Japan Airlines cargo flight 1628 who, on November 17, 1986, reported observing a massive unidentified craft and two smaller luminous objects shadow his Boeing 747-200F for 31 consecutive minutes at 35,000 feet over Alaska. His encounter — corroborated by two crew members and confirmed by FAA radar — is considered one of the most credible and well-documented aviation UAP incidents on record.
+Captain Kenju Terauchi was the pilot of Japan Airlines cargo flight 1628 who, on November 17, 1986, reported observing a massive unidentified craft and two smaller luminous objects shadow his Boeing 747-200F for 31 consecutive minutes at 35,000 feet over Alaska. His encounter — corroborated by two crew members and confirmed by FAA radar — is considered one of the most credible and well-documented aviation UAP incidents on record.
 
 ## The Encounter
 

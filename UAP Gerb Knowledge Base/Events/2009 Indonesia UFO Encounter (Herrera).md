@@ -9,7 +9,7 @@ The 2009 Indonesia UFO Encounter refers to an incident in which [[USMC]] Riflema
 
 ## Mission Context
 
-In October 2009, 20-year-old Herrera was deployed aboard the [[USS Denver]] as part of a humanitarian relief operation following a major earthquake in Indonesia. While assigned to officer's chow detail, Herrera and other Marines were briefed by a female USMC major for a security mission. The briefing included photographs of Barack Obama as a child alongside references to his time in Indonesia.
+In October 2009, 20-year-old Herrera was deployed aboard the [[USS Denver]] as part of a humanitarian relief operation following a major earthquake in Indonesia. While assigned to officer's chow detail, Herrera and other Marines were briefed by a female USMC major for a security mission. The briefing included photographs of [[Barack Obama]] as a child alongside references to his time in Indonesia.
 
 Herrera and his team were issued M16 rifles (Herrera typically carried a SAW) and transported via CH-53 Super Stallion helicopter first to Tobing Airport, then onward to a hasty landing zone in heavily vegetated terrain. The mission was described as providing security for supply deliveries to remote villages in a region characterized as the "second-largest terrorist capital in the world." However, Herrera's team was dropped at an LZ with no other personnel present, no radio communications, and no clear extraction timeline—highly unusual circumstances for a routine security detail.
 

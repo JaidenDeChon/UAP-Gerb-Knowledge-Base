@@ -1,5 +1,6 @@
 ---
 name: "Boyd Bushman"
+role: "Senior Research Scientist, Lockheed Martin Special Programs Division; UAP whistleblower"
 tags:
   - person
 ---

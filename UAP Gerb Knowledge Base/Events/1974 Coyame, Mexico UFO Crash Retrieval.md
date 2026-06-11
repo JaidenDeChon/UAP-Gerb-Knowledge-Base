@@ -68,6 +68,7 @@ The Coyame case is notable for:
 - The use of unmarked helicopters, bio-protection suits, and high explosives to sanitize the site
 - Corroboration from [[Leonard Stringfield]], who independently heard of a US cross-border retrieval in Chihuahua in the late 1970s
 - Its listing by the [[UAP Caucus]] as a case to bring before Congress
+- A corroborating newspaper article from *El Heraldo de Chihuahua* (October 27, 1974) located by Mexican UFO researcher [[Alfonso Salazar]], reporting the death of a group of Mexican soldiers in what was described as a "military transport" crash — two months after the alleged incident
 - Its references in [[MJ-12 Documents]] research and [[IPU]] summary reports
 - Parallels with the [[1997 Peru UFO Crash Retrieval]] involving [[Jonathan Weygandt]]
 

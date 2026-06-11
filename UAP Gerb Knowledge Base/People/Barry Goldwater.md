@@ -36,7 +36,7 @@ The video "UFO Whistleblowers [Vol.2]" presents four specific documentary source
 - **1975 public interview**: Goldwater states on the record: "I think the government does know. I can't back that up, but I think that at Wright-Patterson field, if you could get into certain places, you'd find out what the Air Force and the government knows about UFOs."
 - **October 19, 1981 letter to Lee Graham**: Goldwater states he knows of no one with access to the Blue Room, is unaware of anything being relocated, and describes the subject as "impossible to get anything on" due to its classification level.
 
-Goldwater described his direct approach to General LeMay as a phone call, during which LeMay grew angry and told him, "Don't ever ask me that question again." The March 1975 letter makes the unusual and significant claim that these materials are classified "Above Top Secret" — a category that, in the early 1960s context, would indicate an unacknowledged special access program beyond normal Congressional oversight.
+Goldwater described his direct approach to General [[Curtis LeMay]] as a phone call, during which LeMay grew angry and told him, "Don't ever ask me that question again." The March 1975 letter makes the unusual and significant claim that these materials are classified "Above Top Secret" — a category that, in the early 1960s context, would indicate an unacknowledged special access program beyond normal Congressional oversight.
 
 ## Sources
 

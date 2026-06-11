@@ -41,5 +41,3 @@ His work parallels and complements [[Kevin Knuth]]'s physics-based UAP analysis,
 ## Sources
 
 - [[Video - The Physics of UFOs– Dr. Kevin Knuth]]
-- Various public lectures and media appearances by Avi Loeb
-- Galileo Project official announcements

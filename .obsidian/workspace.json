@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "78540d3823b68ace",
+        "id": "5525cde58305a324",
         "type": "tabs",
         "children": [
           {
-            "id": "0a9049c976246792",
+            "id": "0587d3aaa9971505",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -49,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:nitinol",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e39ee66b9c259c8c",
@@ -158,54 +161,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          }
-        ]
-      },
-      {
-        "id": "00ceefc84951a57c",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "b0c639200cf9a1f7",
+            "id": "7a9328c2564d32ba",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.299354400437957,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "ghostty-terminal",
+              "state": {},
+              "icon": "terminal",
+              "title": "Ghostty"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 385.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,39 +187,43 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "ghostty-terminal:Open terminal": false
     }
   },
-  "active": "0a9049c976246792",
+  "active": "0587d3aaa9971505",
   "lastOpenFiles": [
+    "OctagonalPyramid-shaped Craft.md",
+    "UAP Gerb Knowledge Base/Events/Aztec UFO Crash and Recovery.md",
+    "UAP Gerb Knowledge Base/Locations/Arlington, Virginia.md",
+    "UAP Gerb Knowledge Base/Events/Joey's Reddit Post - Verifying Michael Herrera's UAP Encounter Part One.md",
+    "UAP Gerb Knowledge Base/Locations/Houston, Texas.md",
+    "UAP Gerb Knowledge Base/Concepts/Bigot List.md",
+    "UAP Gerb Knowledge Base/Organizations/Battelle Memorial Institute.md",
+    "UAP Gerb Knowledge Base/Concepts/Nitinol (Nickel-Titanium Alloy).md",
+    "UAP Gerb Knowledge Base/Operations/Project Moondust.md",
+    "orphans.csv",
+    "UAP Gerb Knowledge Base/Home.md",
+    "UAP Gerb Knowledge Base/People/David Grusch.md",
+    "UAP Gerb Knowledge Base/Operations/Project Blue Book.md",
+    "UAP Gerb Knowledge Base/MOCs/Videos MOC.md",
+    "UAP Gerb Knowledge Base/MOCs/Concepts MOC.md",
+    "UAP Gerb Knowledge Base/MOCs/Operations MOC.md",
+    "UAP Gerb Knowledge Base/MOCs/Events MOC.md",
+    "UAP Gerb Knowledge Base/MOCs/People MOC.md",
+    "UAP Gerb Knowledge Base/MOCs/Organizations MOC.md",
+    "UAP Gerb Knowledge Base/MOCs/Locations MOC.md",
+    "UAP Gerb Knowledge Base/MOCs",
     "UAP Gerb Knowledge Base/Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/transcript.md",
     "UAP Gerb Knowledge Base/Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/summary_old.md",
     "UAP Gerb Knowledge Base/Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/summary.md",
     "UAP Gerb Knowledge Base/Events MOC.md",
-    "UAP Gerb Knowledge Base/Operations/Project Blue Book.md",
     "UAP Gerb Knowledge Base/Events/Corso's Claimed Encounter with Non-Human Intelligence.md",
     "UAP Gerb Knowledge Base/People/Philip J. Corso.md",
     "UAP Gerb Knowledge Base/People/Philip Corso Jr..md",
-    "UAP Gerb Knowledge Base/Concepts/Project Moon Dust.md",
-    "UAP Gerb Knowledge Base/Events/1953 Kingman, Arizona Crash Retrieval.md",
-    "UAP Gerb Knowledge Base/Organizations/Lockheed Martin.md",
-    "UAP Gerb Knowledge Base/Organizations/National Oceanic and Atmospheric Administration (NOAA).md",
-    "UAP Gerb Knowledge Base/Concepts/OPNAV 3820.md",
-    "UAP Gerb Knowledge Base/Concepts/JANAP 146c.md",
-    "UAP Gerb Knowledge Base/Operations/Project Interloper.md",
-    "UAP Gerb Knowledge Base/People/Dewey Fett.md",
-    "UAP Gerb Knowledge Base/People/Mark Dantonio.md",
-    "UAP Gerb Knowledge Base/People/Rear Admiral Timothy Gallaudet.md",
-    "UAP Gerb Knowledge Base/Operations/Operation Menu.md",
-    "SETUP.md",
-    "UAP Gerb Knowledge Base/Operations/Project Palladium.md",
-    "UAP Gerb Knowledge Base/Concepts MOC.md",
-    "UAP Gerb Knowledge Base/Organizations/Woods Hole Oceanographic Institution.md",
     "UAP Gerb Knowledge Base/Locations/Cincinnati, Ohio.md.tmp.74951.66df42bf1f54",
     "UAP Gerb Knowledge Base/Locations/Kirtland Air Force Base, New Mexico.md.tmp.74951.efaae8d69634",
     "UAP Gerb Knowledge Base/Locations/Hagerstown, Maryland.md.tmp.32822.4129630b0c69",
-    "search_results.txt",
-    "UAP Gerb Knowledge Base/Video - The 1953 Kingman, Arizona UFO Crash.md",
-    "UAP Gerb Knowledge Base/Untitled.md"
+    "search_results.txt"
   ]
 }

@@ -28,6 +28,15 @@ Perry's role is significant for several reasons:
 
 Perry's position as Secretary of Defense from 1994-1997 places him at the center of the period when the crash retrieval program's protection mechanisms were formalized, though the program itself predated his tenure based on the [[Bigot List]] dates (1990-1993) shown to Wilson.
 
+## SAPOC Reorganization and the Cementing of the Great Schism
+
+UAP Gerb's investigation into the Manhattan Project 2.0 identifies Perry's 1994 actions as the decisive event cementing the permanent fragmentation of the centralized UFO legacy program structure. Perry, serving as Deputy Secretary of Defense before being elevated to Secretary, reorganized the Special Access Program Oversight Committee (SAPOC), greatly expanding the SAP Central Office (SAPCO) and establishing the Senior Review Group (SRG). This reorganization effectively transitioned legacy program oversight into a quasi-government and industry control panel of slightly more than two dozen individuals.
+
+In UAP Gerb's analysis, 1994 represents "the last year that legacy programs had any semblance of centralized leadership." After Perry's SAPOC reorganization, the UFO legacy program portfolio was "fully scattered into the wind." The Wilson-Davis notes' reference to the gatekeeping structure having been "formed out of necessity to protect themselves after a near disaster in the past" — and to a specific audit investigation that "nearly outed" the program — is interpreted as referring to the cascade of events in the early 1980s (Yellow Fruit, mid-decade audits) that made the 1994 Perry reorganization both necessary and final.
+
+The dual role Perry appears to play — simultaneously organizing the 1994 oversight structure and then advising Wilson in 1997 on where to look for crash retrieval records within that same structure — raises questions about the degree to which Perry understood he was directing Wilson toward a program whose gatekeepers would deny Wilson access.
+
 ## Sources
 
 - [[Video - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs]]
+- [[Video - The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1]]

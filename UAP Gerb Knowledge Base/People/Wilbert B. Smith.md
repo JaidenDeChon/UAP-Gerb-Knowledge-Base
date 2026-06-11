@@ -22,7 +22,7 @@ In 1950, Smith visited Washington, DC, where he met with [[Robert Sarbacher]], a
 
 Smith's 1950 memo to the Controller of Telecommunications cited these disclosures as justification for Canada to establish its own UFO investigation. He also referenced having read Frank Scully's 1950 book *Behind the Flying Saucers*, which Sarbacher reportedly told him was "fundamentally correct" in its account of recovered craft — a statement that lent indirect credibility to the controversial [[Aztec UFO Case]] described in that book.
 
-Historian Arthur Bray later uncovered both the 1950 Department of Transport memo and Smith's handwritten meeting notes from Sarbacher's estate, providing documentary verification of what Smith claimed to have been told.
+Historian [[Arthur Bray]] later uncovered both the 1950 Department of Transport memo and Smith's handwritten meeting notes from Sarbacher's estate, providing documentary verification of what Smith claimed to have been told.
 
 ## Project Magnet and Project Second Story
 

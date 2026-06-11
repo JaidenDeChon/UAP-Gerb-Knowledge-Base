@@ -17,6 +17,15 @@ Within UAP research, Groves is alleged to have been an **on-site individual conn
 
 Some UAP researchers also note that if [[J. Robert Oppenheimer]] was read into early UAP programs (as claimed by [[David Grusch]]), it would be implausible that Groves — Oppenheimer's direct superior and the architect of the entire nuclear security apparatus — was not similarly briefed.
 
+## Manhattan Project Security Architecture
+
+In the context of UAP legacy program research, Groves' contributions to the Manhattan Project's security apparatus are as significant as his operational management. Groves implemented the first modern tiered compartmentation system — granting personnel access only to the specific information required for their task regardless of clearance level — and pioneered the use of a streamlined, minimal chain of command (reporting directly to the Secretary of War and Army Chief of Staff [[George C. Marshall]]) that bypassed standard bureaucratic acquisition channels. He also weaponized organizational architecture for secrecy, operating the entire program through the deliberately mundane Manhattan Engineer District (MED) — an Army Corps of Engineers cover entity whose name bore no relationship to nuclear weapons.
+
+Both [[David Grusch]] and UAP Gerb's investigative framework hold that these Groves-pioneered techniques were directly transplanted onto UFO crash retrieval programs beginning in 1947 — the compartmentation model, the short chain of command, and the use of mundane organizational covers now visible in structures like the Air Force Rapid Capabilities Office and the Administrative Assistant to the Secretary of the Air Force.
+
+Groves additionally oversaw the Alsos Missions — a Manhattan Project intelligence operation to physically secure Nazi atomic scientists, materials, and facilities, staffed by T-Forces (lightly armed, extremely mobile teams) that operated entirely outside standard military intelligence channels. UAP Gerb identifies the Alsos Missions as the direct historical blueprint for modern UFO rapid-reaction crash retrieval teams.
+
 ## Sources
 
 - [[Video - Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
+- [[Video - The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1]]

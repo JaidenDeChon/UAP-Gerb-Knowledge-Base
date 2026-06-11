@@ -7,9 +7,9 @@ tags:
 
 Bill Hamilton (died prior to 2024) was an American UFO researcher widely credited as the first person to publicly define and produce an image of the Alien Reproduction Vehicle (ARV) concept. He served as a key facilitator who connected crucial witnesses — including [[Mark McCandlish]] and [[Bill Uhouse]] — to researcher [[Steven Greer]], and compiled some of the earliest systematic documentation of alleged underground UAP facilities in the American Southwest. His 1992 book *Cosmic Top Secret* remains a foundational reference in DUMB and ARV research.
 
-## ARV Research
+## ARV Research and *Cosmic Top Secret*
 
-Hamilton coined the term "Alien Reproduction Vehicle" and produced the first public conceptual image of the craft based on his own informants, predating Brad Sorenson's testimony at Norton AFB and McCandlish's subsequent detailed diagram. His early work on ARVs established the terminology and visual framework that later researchers built upon.
+Hamilton coined the term "Alien Reproduction Vehicle" and produced the first public conceptual image of the craft based on his own informants, predating [[Brad Sorenson]]'s testimony at Norton AFB and [[Mark McCandlish]]'s subsequent detailed diagram. His early work on ARVs established the terminology and visual framework that later researchers built upon. His 1992 book *Cosmic Top Secret* — described by UAP Gerb as "the most underappreciated book in all of UFOlogy" — contains what is likely the first published use of the term "ARV" (though Hamilton initially rendered the acronym as "alien replicated vehicle"). Hamilton spoke with [[William B. Scott]] of [[Aviation Week and Space Technology]] to discuss the Sorenson fluxliner testimony in the early 1990s, then passed both Sorenson and forensic illustrator [[Bill McDonald]] to [[Steven Greer]], who featured them at the 2001 Disclosure Project event.
 
 ## Underground Base Investigation and the Antelope Valley Network
 
@@ -34,3 +34,4 @@ Hamilton's most significant contribution to underground base research is a map o
 - [[Video - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs]]
 - [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
 - [[Video - Alien Reproduction Vehicle - the Testimony of Mark McCandlish]]
+- [[Video - UFO Legacy Programs - Northrop Grumman]]

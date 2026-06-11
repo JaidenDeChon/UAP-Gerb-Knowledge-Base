@@ -37,6 +37,15 @@ Two documents allegedly from the IPU appear in the Majestic Documents collection
 
 These documents were provided to researcher Timothy Cooper by Thomas Cantwell between 1993-1996, predating [[William Steinman]]'s published theories but mirroring many of his conclusions.
 
+## Special Engineer Detachment (SED) Personnel
+
+An alleged IPU report dated July 22, 1947 mentions Colonel Sherman V. Hausbrook of the Armed Forces Special Weapons Project (AFSWP) ordering a "special radiobiological team, accompanied by a SED and a security detail from Sandia National Labs" to secure the immediate area surrounding the Roswell crash site. Colonel Hausbrook was a real Army colonel who worked closely with [[Leslie Groves]] and helped flesh out the AFSWP. The Special Engineer Detachment (SED) was a genuine Manhattan Project artifact — an Army unit designation for military personnel with scientific and technical backgrounds assigned to work on the atomic program at sites including Los Alamos, Z Division at Sandia Base, and Oak Ridge. The alleged IPU report's reference to SEDs operating on a UFO crash retrieval is consistent with the Manhattan Project 2.0 framework, in which UFO programs directly borrowed organizational structures from the atomic program.
+
+## George C. Marshall's Alleged Leadership
+
+UAP Gerb's investigation — drawing on research by Ryan S. Wood and the late Robert Wood — presents the theory that the IPU's real leadership was [[George C. Marshall]] himself, compartmented within a subordinate G-2 (assistant chief of staff for intelligence) office to remove him from the formal chain of command. This interpretation is structurally consistent with Marshall's known practice during the Manhattan Project of using his G-2 to conduct covert intelligence missions (the Alsos Missions), and with the IPU's alleged function as a rapid-reaction crash retrieval apparatus operating outside normal military intelligence channels — precisely the architecture Marshall developed for the Alsos Missions.
+
 ## Sources
 
 - [[Video - The 1948 Aztec, New Mexico UFO Crash Retrieval]]
+- [[Video - The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1]]

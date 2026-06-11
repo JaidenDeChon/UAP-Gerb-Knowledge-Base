@@ -22,7 +22,7 @@ In 1950, Wilbert B. Smith — a senior Canadian government radio engineer — me
 3. Their mode of operation is unknown, but a small group headed by [[Vannevar Bush]] is actively studying them.
 4. The entire matter is considered by US authorities to be of tremendous significance.
 
-Smith used these disclosures as the basis for a 1950 memo to the Canadian Department of Transport's Controller of Telecommunications, which directly led to Canada's establishment of two official UAP investigations: [[Project Magnet]] and [[Project Second Story]]. Historian Arthur Bray later uncovered both the Department of Transport memo and Smith's handwritten meeting notes from Sarbacher's estate, providing documentary corroboration of the meeting.
+Smith used these disclosures as the basis for a 1950 memo to the Canadian Department of Transport's Controller of Telecommunications, which directly led to Canada's establishment of two official UAP investigations: [[Project Magnet]] and [[Project Second Story]]. Historian [[Arthur Bray]] later uncovered both the Department of Transport memo and Smith's handwritten meeting notes from Sarbacher's estate, providing documentary corroboration of the meeting.
 
 ## The 1983 Steinman Letter
 

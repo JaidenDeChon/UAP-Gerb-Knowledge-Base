@@ -1,22 +1,72 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-\"Template\" -\"summary\" -\"transcript\" -\"README\" -\"Home\" -\"CLAUDE\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:MOCs",
+      "color": {
+        "a": 1,
+        "rgb": 6908265
+      }
+    },
+    {
+      "query": "path:Events  ",
+      "color": {
+        "a": 1,
+        "rgb": 12210912
+      }
+    },
+    {
+      "query": "path:Locations  ",
+      "color": {
+        "a": 1,
+        "rgb": 8496189
+      }
+    },
+    {
+      "query": "path:Operations  ",
+      "color": {
+        "a": 1,
+        "rgb": 4587330
+      }
+    },
+    {
+      "query": "path:Organizations  ",
+      "color": {
+        "a": 1,
+        "rgb": 6125300
+      }
+    },
+    {
+      "query": "path:People  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Videos",
+      "color": {
+        "a": 1,
+        "rgb": 14669154
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -1.9,
+  "nodeSizeMultiplier": 1.92559027777778,
+  "lineSizeMultiplier": 0.628493923611111,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.07178017609053267,
+  "centerStrength": 0.0784722222222222,
+  "repelStrength": 16.3715277777778,
+  "linkStrength": 0.633420138888889,
+  "linkDistance": 129,
+  "scale": 0.012383678950353421,
   "close": true
 }

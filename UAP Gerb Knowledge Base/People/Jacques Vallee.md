@@ -23,8 +23,13 @@ On December 4, 2020, during Joe Rogan Experience episode #1574 alongside documen
 
 In his journal collection *Forbidden Science: Pacific Heights*, Vallée records a 1985 claim from a source at NARCAT (the National Aviation Reporting Center on Anomalous Phenomena) that a large collection of UFO and USO files were being stored at [[Norton Air Force Base]]. This reference places USO file storage at Norton alongside other UAP material that has been associated with the facility by other researchers, including [[Steven Greer]] in his alleged 1996 congressional briefing.
 
+## UFO Chronicles of the Soviet Union
+
+Vallée's book *UFO Chronicles of the Soviet Union: A Cosmic Samizdat* documents Soviet UFO and USO cases, including material on the [[Soviet Submarine Repair Ship Vulga Sighting]] of October 7, 1977. The book is cited as a source for the aftermath of that case — specifically pages 29–30 — which describe [[Fleet Admiral Nikolai Smirnov]]'s mandatory UFO reporting directive for Soviet hydrographic and reconnaissance ships, authorized by naval officer and researcher [[Vladimir Azhazha]]. The term "cosmic samizdat" in the subtitle is a reference to the Soviet underground self-publishing tradition (*samizdat*), positioning Soviet UFO research as inherently dissident activity under a state apparatus that suppressed the subject. UAP Gerb cites this work alongside *Russia's USO Secrets* by [[Paul Stonehill]] and [[Philip Mantle]] as the primary Western documentary sources for Soviet USO cases.
+
 ## Sources
 
 - [[FASTWALKERS – UFOs Outside Earth]]
 - [[UFOs in the Private Sector - Battelle Memorial Institute]]
 - [[USO - Unidentified Submerged Objects]]
+- [[USO Case Book - Unidentified Submerged Objects Throughout History]]

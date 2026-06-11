@@ -100,8 +100,17 @@ Majestic documents provide context for numerous crash retrieval cases:
 
 In [[Video - The 1933 Magenta, Italy UFO Crash]], UAP Gerb argues that [[RS-33 (Gabinetto RS 33)]] in fascist Italy functioned as a structural precursor to what Majestic 12 became in the United States, based on similar patterns of centralized authority over anomalous craft reporting, exclusion of outside scientific review, and controlled public narratives for suppression.
 
+## The NSC 5412 Committee Connection
+
+UAP Gerb's investigation into the Manhattan Project 2.0 security architecture theorizes that Eisenhower, shortly upon taking office, effectively hid the UFO control group (MAJ-12 or its successor naming convention) within the National Security Council by establishing the NSC 5412 Committee on March 15, 1954. The 5412 Committee was formally an interdepartmental body to review and approve covert US operations and to define covert operations for US policy purposes. Original membership consisted of the Deputy Under Secretary of State, Deputy Secretary of Defense, the President's Special Assistant for National Security Affairs, and the CIA Director as action officer.
+
+The Eisenhower Briefing Document names Gordon Gray as an original MJ-12 member (at the time Truman's Assistant Secretary of the Army). Notably, from 1958 to 1961, Gray also served as Eisenhower's National Security Advisor — a member of the 5412 Committee — providing a direct personnel link between the alleged MAJ-12 and the 5412 structure.
+
+The 5412 Committee's informal meetings — which, like all NSC informal meetings with members of relevant expertise, can be held off the books and go unrecorded — provided the UFO control group a mechanism to operate without formal documentation, effectively creating a self-perpetuating structure that could transcend presidential oversight. This group evolved through Nixon's 303 Committee and subsequent iterations before fracturing during the 1980s SAP reform era.
+
 ## Sources
 
 - [[Video - The 1933 Magenta, Italy UFO Crash]]
 - [[Video - The 1950s Del Rio, Texas UFO Crashes]]
 - [[Video - The Majestic-12 Documents With Ryan S. Wood]]
+- [[Video - The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1]]

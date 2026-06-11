@@ -31,6 +31,13 @@ Oppenheimer's 1954 security clearance revocation remains one of the most controv
 
 Oppenheimer's alleged involvement in UAP crash retrieval analysis, as testified by Sarbacher, is consistent with his profile: he was among the most trusted and capable scientists in the early Cold War US government, with access to the highest levels of classification and a proven ability to manage extraordinarily sensitive programs. No public documentation confirms his participation in UAP-related work, but Sarbacher's testimony — given decades after the fact with no apparent motive to fabricate — lends significant weight to the claim.
 
+## Clearance Revocation and UAP Implications
+
+UAP Gerb raises the speculative question of whether Oppenheimer's 1954 security clearance revocation — officially attributed to prewar communist associations, orchestrated through a kangaroo court masterminded by AEC chairman Lewis Strauss — may have had a parallel dimension related to the UFO legacy program. Specifically, if Oppenheimer had operated on the Manhattan Project 2.0 in the 1940s and early 1950s, it is possible he voiced concerns — as he did in the atomic program — that total compartmentalization and secrecy hindered scientific progress and "rightful human understanding." The same frustrations Oppenheimer publicly expressed about Groves' secrecy apparatus within the Manhattan Project may have applied to whatever he encountered in the UFO program. This remains speculative; no documentary evidence supports the theory.
+
+[[David Grusch]] has been asked which deceased person he would most want to question. Grusch named both Sarbacher and Oppenheimer, asking what their "thought process was in the '40s and '50s squirreling this away" — a statement implying Grusch accepts Oppenheimer's involvement as established. Grusch also noted that the same individuals involved in the Manhattan Project "overlaid the same ecosystem of secrecy" onto the UFO issue.
+
 ## Sources
 
 - [[Video - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group]]
+- [[Video - The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1]]
