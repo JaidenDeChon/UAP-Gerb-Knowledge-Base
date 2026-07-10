@@ -1,9 +1,29 @@
-import { readdirSync } from 'node:fs'
+import { existsSync, readdirSync } from 'node:fs'
+import { resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import slugify from 'slugify'
+// Type-only — erased at runtime, so this stays importable from a plain Node/Vite
+// (config-load) context. Relative rather than the `#shared` alias because the
+// node/config tsconfig project has no `#shared` path mapping.
+import type { Category } from '../shared/types/wiki'
 
-/** The Obsidian vault, one level up from the Nuxt app. */
-export const VAULT_DIR = fileURLToPath(new URL('../../UAP Gerb Knowledge Base', import.meta.url))
+/**
+ * The Obsidian vault, one level up from the Nuxt rootDir.
+ *
+ * Config-time (jiti) gets a real `import.meta.url`, but the Nitro runtime bundle
+ * does not, so `new URL('../../…', import.meta.url)` collapses to a bad relative
+ * path there. Resolve against the rootDir (cwd) first and fall back to the
+ * module-relative path, picking whichever actually exists on disk.
+ */
+function resolveVaultDir(): string {
+  const candidates = [
+    resolve(process.cwd(), '../UAP Gerb Knowledge Base'),
+    fileURLToPath(new URL('../../UAP Gerb Knowledge Base', import.meta.url)),
+  ]
+  return candidates.find(existsSync) ?? candidates[0]!
+}
+
+export const VAULT_DIR = resolveVaultDir()
 
 /** Route prefix the `wiki` collection is mounted under. */
 export const WIKI_PREFIX = '/wiki'
@@ -128,7 +148,10 @@ export function resolveWikiTarget(target: string, index = buildVaultIndex()): st
   return index.byFoldedName.get(fold(clean))
 }
 
-const WIKILINK_RE = /(!?)\[\[([^\]\n|#]+)(#[^\]\n|]+)?(?:\|([^\]\n]+))?\]\]/g
+/** Matches an Obsidian wikilink. **Global — stateful.** Clone it or reset
+ * `lastIndex` before reusing it for a fresh scan. Groups: 1 embed `!`,
+ * 2 target, 3 `#anchor`, 4 `|alias`. */
+export const WIKILINK_RE = /(!?)\[\[([^\]\n|#]+)(#[^\]\n|]+)?(?:\|([^\]\n]+))?\]\]/g
 
 /**
  * Rewrite `[[wikilinks]]` into markdown links before @nuxt/content parses the file.
@@ -143,4 +166,26 @@ export function replaceWikiLinks(body: string, index = buildVaultIndex()): strin
     const hash = anchor ? `#${slugify(anchor.slice(1), { lower: true })}` : ''
     return `[${label}](<${path}${hash}>)`
   })
+}
+
+/* ------------------------------------------------- additive vault helpers -- */
+
+/** The set of top-level folders that are real categories (everything else -> Root). */
+const TOP_FOLDERS = new Set(FOLDER_PRIORITY)
+
+/** Every note in the vault as a vault-relative stem, e.g. `People/AJ Hartley`,
+ * `Videos/Some Title/summary`, `Home`. Excludes `_templates/` and dotfiles. */
+export function walkVault(): string[] {
+  return walk(VAULT_DIR)
+}
+
+/** The route path a stem maps to — identical to the hrefs @nuxt/content registers. */
+export function stemToPath(stem: string): string {
+  return generatePath(stem)
+}
+
+/** Top-level vault folder a stem belongs to; `Root` for the vault's Home note. */
+export function categoryOf(stem: string): Category {
+  const top = stem.split('/')[0]!
+  return TOP_FOLDERS.has(top) ? (top as Category) : 'Root'
 }

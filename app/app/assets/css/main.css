@@ -1,124 +1,356 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
-
 @import "tailwindcss";
 @import "tw-animate-css";
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,400..800;1,14..32,400..600&family=Chakra+Petch:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap");
 
-@custom-variant dark (&:is(.dark *));
+/* Dark utilities respond to data-theme, never a .dark class. Both dark-family
+   themes (dark + dim) opt in. */
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *, [data-theme="dim"], [data-theme="dim"] *));
 
-@theme inline {
-  --font-heading: var(--font-sans);
-  --color-sidebar-ring: var(--sidebar-ring);
-  --color-sidebar-border: var(--sidebar-border);
-  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
-  --color-sidebar-accent: var(--sidebar-accent);
-  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
-  --color-sidebar-primary: var(--sidebar-primary);
-  --color-sidebar-foreground: var(--sidebar-foreground);
-  --color-sidebar: var(--sidebar);
-  --color-chart-5: var(--chart-5);
-  --color-chart-4: var(--chart-4);
-  --color-chart-3: var(--chart-3);
-  --color-chart-2: var(--chart-2);
-  --color-chart-1: var(--chart-1);
-  --color-ring: var(--ring);
-  --color-input: var(--input);
-  --color-border: var(--border);
-  --color-destructive: var(--destructive);
-  --color-accent-foreground: var(--accent-foreground);
-  --color-accent: var(--accent);
-  --color-muted-foreground: var(--muted-foreground);
-  --color-muted: var(--muted);
-  --color-secondary-foreground: var(--secondary-foreground);
-  --color-secondary: var(--secondary);
-  --color-primary-foreground: var(--primary-foreground);
-  --color-primary: var(--primary);
-  --color-popover-foreground: var(--popover-foreground);
-  --color-popover: var(--popover);
-  --color-card-foreground: var(--card-foreground);
-  --color-card: var(--card);
-  --color-foreground: var(--foreground);
-  --color-background: var(--background);
-  --radius-sm: calc(var(--radius) - 4px);
-  --radius-md: calc(var(--radius) - 2px);
-  --radius-lg: var(--radius);
-  --radius-xl: calc(var(--radius) + 4px);
-}
-
+/* ============================================================
+   Raw scales + the four themes (verbatim from ds/tokens.css)
+   ============================================================ */
 :root {
-  --radius: 0.625rem;
-  --background: oklch(1 0 0);
-  --foreground: oklch(0.145 0 0);
-  --card: oklch(1 0 0);
-  --card-foreground: oklch(0.145 0 0);
-  --popover: oklch(1 0 0);
-  --popover-foreground: oklch(0.145 0 0);
-  --primary: oklch(0.205 0 0);
-  --primary-foreground: oklch(0.985 0 0);
-  --secondary: oklch(0.97 0 0);
-  --secondary-foreground: oklch(0.205 0 0);
-  --muted: oklch(0.97 0 0);
-  --muted-foreground: oklch(0.556 0 0);
-  --accent: oklch(0.97 0 0);
-  --accent-foreground: oklch(0.205 0 0);
-  --destructive: oklch(0.577 0.245 27.325);
-  --border: oklch(0.922 0 0);
-  --input: oklch(0.922 0 0);
-  --ring: oklch(0.708 0 0);
-  --chart-1: oklch(0.646 0.222 41.116);
-  --chart-2: oklch(0.6 0.118 184.704);
-  --chart-3: oklch(0.398 0.07 227.392);
-  --chart-4: oklch(0.828 0.189 84.429);
-  --chart-5: oklch(0.769 0.188 70.08);
-  --sidebar: oklch(0.985 0 0);
-  --sidebar-foreground: oklch(0.145 0 0);
-  --sidebar-primary: oklch(0.205 0 0);
-  --sidebar-primary-foreground: oklch(0.985 0 0);
-  --sidebar-accent: oklch(0.97 0 0);
-  --sidebar-accent-foreground: oklch(0.205 0 0);
-  --sidebar-border: oklch(0.922 0 0);
-  --sidebar-ring: oklch(0.708 0 0);
+  /* --- raw slate scale --- */
+  --slate-50: 210 40% 98%;
+  --slate-100: 210 40% 96.1%;
+  --slate-200: 214.3 31.8% 91.4%;
+  --slate-300: 213 27% 84%;
+  --slate-400: 215 20.2% 65.1%;
+  --slate-500: 215.4 16.3% 46.9%;
+  --slate-600: 215.3 19.3% 34.5%;
+  --slate-700: 215.3 25% 26.7%;
+  --slate-800: 217.2 32.6% 17.5%;
+  --slate-900: 222.2 47.4% 11.2%;
+  --slate-950: 222.2 84% 4.9%;
+
+  /* --- raw green scale (primary accent family) --- */
+  --green-400: 141.9 69.2% 58%;
+  --green-500: 142.1 70.6% 45.3%;
+  --green-600: 142.1 76.2% 36.3%;
+  --green-700: 142.4 71.8% 29.2%;
 }
 
-.dark {
-  --background: oklch(0.145 0 0);
-  --foreground: oklch(0.985 0 0);
-  --card: oklch(0.205 0 0);
-  --card-foreground: oklch(0.985 0 0);
-  --popover: oklch(0.205 0 0);
-  --popover-foreground: oklch(0.985 0 0);
-  --primary: oklch(0.922 0 0);
-  --primary-foreground: oklch(0.205 0 0);
-  --secondary: oklch(0.269 0 0);
-  --secondary-foreground: oklch(0.985 0 0);
-  --muted: oklch(0.269 0 0);
-  --muted-foreground: oklch(0.708 0 0);
-  --accent: oklch(0.269 0 0);
-  --accent-foreground: oklch(0.985 0 0);
-  --destructive: oklch(0.704 0.191 22.216);
-  --border: oklch(1 0 0 / 10%);
-  --input: oklch(1 0 0 / 15%);
-  --ring: oklch(0.556 0 0);
-  --chart-1: oklch(0.488 0.243 264.376);
-  --chart-2: oklch(0.696 0.17 162.48);
-  --chart-3: oklch(0.769 0.188 70.08);
-  --chart-4: oklch(0.627 0.265 303.9);
-  --chart-5: oklch(0.645 0.246 16.439);
-  --sidebar: oklch(0.205 0 0);
-  --sidebar-foreground: oklch(0.985 0 0);
-  --sidebar-primary: oklch(0.488 0.243 264.376);
-  --sidebar-primary-foreground: oklch(0.985 0 0);
-  --sidebar-accent: oklch(0.269 0 0);
-  --sidebar-accent-foreground: oklch(0.985 0 0);
-  --sidebar-border: oklch(1 0 0 / 10%);
-  --sidebar-ring: oklch(0.556 0 0);
+/* ============ THEME: LIGHT (default, high contrast) ============ */
+:root,
+[data-theme="light"] {
+  --background: 0 0% 100%;
+  --foreground: 222.2 84% 4.9%;
+  --card: 0 0% 100%;
+  --card-foreground: 222.2 84% 4.9%;
+  --popover: 0 0% 100%;
+  --popover-foreground: 222.2 84% 4.9%;
+  --primary: 142.1 76.2% 36.3%;
+  --primary-foreground: 355.7 100% 97.3%;
+  --secondary: 210 40% 96.1%;
+  --secondary-foreground: 222.2 47.4% 11.2%;
+  --muted: 210 40% 96.1%;
+  --muted-foreground: 215.4 16.3% 46.9%;
+  --accent: 210 40% 96.1%;
+  --accent-foreground: 222.2 47.4% 11.2%;
+  --destructive: 0 84.2% 60.2%;
+  --destructive-foreground: 210 40% 98%;
+  --border: 214.3 31.8% 91.4%;
+  --input: 214.3 31.8% 91.4%;
+  --ring: 142.1 76.2% 36.3%;
+  --graph-node: 142.1 76.2% 36.3%;
+  --graph-edge: 215.4 16.3% 46.9%;
+  --overlay: 222.2 47% 8%;
+  --overlay-opacity: 0.45;
 }
 
+/* ============ THEME: DARK (darkest, near-black neutral) ============ */
+.dark,
+[data-theme="dark"] {
+  --background: 0 0% 4%;
+  --foreground: 0 0% 98%;
+  --card: 0 0% 4%;
+  --card-foreground: 0 0% 98%;
+  --popover: 0 0% 6%;
+  --popover-foreground: 0 0% 98%;
+  --primary: 142.1 70.6% 45.3%;
+  --primary-foreground: 144.9 80.4% 10%;
+  --secondary: 0 0% 15%;
+  --secondary-foreground: 0 0% 98%;
+  --muted: 0 0% 15%;
+  --muted-foreground: 0 0% 64%;
+  --accent: 0 0% 15%;
+  --accent-foreground: 0 0% 98%;
+  --destructive: 0 62.8% 40%;
+  --destructive-foreground: 0 0% 98%;
+  --border: 0 0% 15%;
+  --input: 0 0% 15%;
+  --ring: 142.4 71.8% 40%;
+  --graph-node: 142.1 70.6% 45.3%;
+  --graph-edge: 0 0% 45%;
+  --overlay: 0 0% 0%;
+  --overlay-opacity: 0.7;
+}
+
+/* ============ THEME: DIM (less-dark dark, neutral very-dark gray) ============ */
+[data-theme="dim"] {
+  --background: 0 0% 11%;
+  --foreground: 0 0% 91%;
+  --card: 0 0% 14%;
+  --card-foreground: 0 0% 91%;
+  --popover: 0 0% 14%;
+  --popover-foreground: 0 0% 91%;
+  --primary: 142 64% 47%;
+  --primary-foreground: 145 80% 8%;
+  --secondary: 0 0% 20%;
+  --secondary-foreground: 0 0% 91%;
+  --muted: 0 0% 20%;
+  --muted-foreground: 0 0% 63%;
+  --accent: 0 0% 20%;
+  --accent-foreground: 0 0% 91%;
+  --destructive: 0 55% 45%;
+  --destructive-foreground: 0 0% 98%;
+  --border: 0 0% 22%;
+  --input: 0 0% 22%;
+  --ring: 142 55% 40%;
+  --graph-node: 142 64% 47%;
+  --graph-edge: 0 0% 50%;
+  --overlay: 0 0% 0%;
+  --overlay-opacity: 0.6;
+}
+
+/* ============ THEME: SEPIA (less-light light, warm paper) ============ */
+[data-theme="sepia"] {
+  --background: 40 38% 94%;
+  --foreground: 28 25% 18%;
+  --card: 40 42% 96%;
+  --card-foreground: 28 25% 18%;
+  --popover: 40 42% 96%;
+  --popover-foreground: 28 25% 18%;
+  --primary: 142 55% 32%;
+  --primary-foreground: 40 42% 96%;
+  --secondary: 38 30% 88%;
+  --secondary-foreground: 28 25% 22%;
+  --muted: 38 30% 88%;
+  --muted-foreground: 30 14% 42%;
+  --accent: 38 30% 88%;
+  --accent-foreground: 28 25% 22%;
+  --destructive: 5 65% 45%;
+  --destructive-foreground: 40 42% 96%;
+  --border: 36 22% 82%;
+  --input: 36 22% 82%;
+  --ring: 142 55% 32%;
+  --graph-node: 142 55% 32%;
+  --graph-edge: 30 14% 50%;
+  --overlay: 28 30% 14%;
+  --overlay-opacity: 0.4;
+}
+
+/* ============================================================
+   Semantic color → token mapping. `inline` substitutes
+   hsl(var(--token)) at the USE site, so bg-primary re-resolves
+   inside any data-theme subtree (this is what powers the live
+   theme-preview tiles).
+   ============================================================ */
+@theme inline {
+  --color-background: hsl(var(--background));
+  --color-foreground: hsl(var(--foreground));
+  --color-card: hsl(var(--card));
+  --color-card-foreground: hsl(var(--card-foreground));
+  --color-popover: hsl(var(--popover));
+  --color-popover-foreground: hsl(var(--popover-foreground));
+  --color-primary: hsl(var(--primary));
+  --color-primary-foreground: hsl(var(--primary-foreground));
+  --color-secondary: hsl(var(--secondary));
+  --color-secondary-foreground: hsl(var(--secondary-foreground));
+  --color-muted: hsl(var(--muted));
+  --color-muted-foreground: hsl(var(--muted-foreground));
+  --color-accent: hsl(var(--accent));
+  --color-accent-foreground: hsl(var(--accent-foreground));
+  --color-destructive: hsl(var(--destructive));
+  --color-destructive-foreground: hsl(var(--destructive-foreground));
+  --color-border: hsl(var(--border));
+  --color-input: hsl(var(--input));
+  --color-ring: hsl(var(--ring));
+  --color-graph-node: hsl(var(--graph-node));
+  --color-graph-edge: hsl(var(--graph-edge));
+  --color-overlay: hsl(var(--overlay));
+}
+
+/* ============================================================
+   Non-color design tokens. Static (NOT inline) so `rounded-md`
+   and `var(--radius-md)` reference the same declared value.
+   ============================================================ */
+@theme {
+  --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  --font-display: "Chakra Petch", "Inter", var(--font-sans);
+  --font-mono: "JetBrains Mono", "Menlo", ui-monospace, SFMono-Regular, monospace;
+
+  --radius-sm: 2px;
+  --radius-md: 3px;
+  --radius-lg: 4px;
+  --radius-xl: 6px;
+
+  --shadow-xs: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-sm: 0 1px 3px 0 rgba(0, 0, 0, 0.09), 0 1px 2px -1px rgba(0, 0, 0, 0.09);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.09), 0 2px 4px -2px rgba(0, 0, 0, 0.09);
+  --shadow-lg: 0 10px 15px -3px rgba(15, 23, 42, 0.12), 0 4px 6px -4px rgba(15, 23, 42, 0.12);
+  --shadow-popover: 0 4px 6px -1px rgba(0, 0, 0, 0.09), 0 2px 4px -2px rgba(0, 0, 0, 0.09);
+
+  --ease-standard: cubic-bezier(0.4, 0, 0.2, 1);
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --duration-fast: 120ms;
+  --duration-base: 180ms;
+  --duration-slow: 280ms;
+
+  /* Override Tailwind's type scale so its utilities equal the DS scale and
+     var(--text-sm) stays 14px (same namespace — this resolves the collision). */
+  --text-xs: 12px;
+  --text-xs--line-height: 16px;
+  --text-sm: 14px;
+  --text-sm--line-height: 20px;
+  --text-base: 16px;
+  --text-base--line-height: 28px;
+
+  /* Sidebar folder disclosure (reka-ui collapsible). */
+  --animate-collapse-down: collapse-down var(--duration-base) var(--ease-standard);
+  --animate-collapse-up: collapse-up var(--duration-base) var(--ease-standard);
+  @keyframes collapse-down {
+    from { height: 0; }
+    to { height: var(--reka-collapsible-content-height); }
+  }
+  @keyframes collapse-up {
+    from { height: var(--reka-collapsible-content-height); }
+    to { height: 0; }
+  }
+}
+
+/* ============================================================
+   Aliases so the DS's own variable spellings keep resolving in
+   <style> blocks. @theme owns --text-xs / --text-sm / --radius-*,
+   so those are intentionally absent here.
+   ============================================================ */
+:root {
+  --radius: 3px;
+
+  --dur-fast: var(--duration-fast);
+  --dur-base: var(--duration-base);
+  --dur-slow: var(--duration-slow);
+
+  --text-display-2xl: 88px;  --lh-display-2xl: 84px;  --ls-display-2xl: -0.02em;
+  --text-display-xl: 64px;   --lh-display-xl:  62px;  --ls-display-xl:  -0.016em;
+  --text-display-lg: 48px;   --lh-display-lg:  48px;  --ls-display-lg:  -0.012em;
+
+  --text-h1: 48px;  --lh-h1: 48px;  --ls-h1: -0.012em;  --fw-h1: 800;
+  --text-h2: 30px;  --lh-h2: 36px;  --ls-h2: -0.007em;  --fw-h2: 600;
+  --text-h3: 24px;  --lh-h3: 32px;  --ls-h3: -0.006em;  --fw-h3: 600;
+  --text-h4: 20px;  --lh-h4: 28px;  --ls-h4: -0.005em;  --fw-h4: 600;
+
+  --text-lead: 20px;       --lh-lead: 28px;
+  --text-large: 18px;      --lh-large: 28px;
+  --text-body: 16px;       --lh-body: 28px;
+  --text-blockquote: 16px; --lh-blockquote: 24px;
+  --text-small: 14px;      --lh-small: 14px;
+  --text-subtle: 14px;     --lh-subtle: 20px;
+  --text-code: 14px;       --lh-code: 20px;
+  --lh-sm: 20px;
+  --lh-xs: 16px;
+
+  --space-1: 4px;  --space-2: 8px;  --space-3: 12px;  --space-4: 16px;
+  --space-5: 20px; --space-6: 24px; --space-8: 32px;  --space-10: 40px;
+  --space-12: 48px; --space-16: 64px;
+
+  --ring-width: 2px;
+  --ring-offset: 2px;
+}
+
+/* ============================================================
+   Base layer (from ds/tokens.css base.css). One deliberate
+   change: the global `a` rule tints inherit instead of primary,
+   so sidebar rows and nav links don't turn green; the DS link
+   treatment is scoped to prose + wiki links only.
+   ============================================================ */
 @layer base {
-  * {
-    @apply border-border outline-ring/50;
-  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  html, body, #__nuxt { height: 100%; }
   body {
-    @apply bg-background text-foreground;
+    margin: 0;
+    font-family: var(--font-sans);
+    font-size: var(--text-body);
+    line-height: var(--lh-body);
+    background-color: hsl(var(--background));
+    color: hsl(var(--foreground));
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
   }
+  h1, h2, h3, h4, h5, h6 { margin: 0; font-family: var(--font-display); }
+  p { margin: 0; }
+
+  a { color: inherit; text-decoration: none; }
+  .prose-ufo a,
+  a[data-wiki-link] {
+    color: hsl(var(--primary));
+    text-decoration: none;
+    transition: color var(--dur-fast) var(--ease-standard),
+      opacity var(--dur-fast) var(--ease-standard);
+  }
+  .prose-ufo a:hover,
+  a[data-wiki-link]:hover {
+    color: hsl(var(--primary));
+    opacity: 0.8;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
+  ::selection { background: hsl(var(--primary) / 0.28); color: hsl(var(--foreground)); }
+
+  /* thin, theme-aware scrollbars */
+  * { scrollbar-width: thin; scrollbar-color: hsl(var(--border)) transparent; }
+  *::-webkit-scrollbar { width: 10px; height: 10px; }
+  *::-webkit-scrollbar-thumb {
+    background: hsl(var(--border));
+    border-radius: 9999px;
+    border: 2px solid transparent;
+    background-clip: content-box;
+  }
+  *::-webkit-scrollbar-thumb:hover {
+    background: hsl(var(--muted-foreground) / 0.5);
+    background-clip: content-box;
+  }
+
+  :focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 var(--ring-offset) hsl(var(--background)),
+      0 0 0 calc(var(--ring-offset) + var(--ring-width)) hsl(var(--ring));
+  }
+}
+
+/* ============================================================
+   Prose + motion keyframes (unlayered, per spec: these outrank
+   utility classes on rendered markdown).
+   ============================================================ */
+.prose-ufo h1,
+.prose-ufo h2,
+.prose-ufo h3,
+.prose-ufo h4 {
+  font-family: var(--font-display);
+  color: hsl(var(--foreground));
+  text-wrap: balance;
+}
+.prose-ufo h1 { font-size: var(--text-h1); line-height: var(--lh-h1); letter-spacing: var(--ls-h1); font-weight: var(--fw-h1); }
+.prose-ufo h2 { font-size: var(--text-h2); line-height: var(--lh-h2); letter-spacing: var(--ls-h2); font-weight: var(--fw-h2); }
+.prose-ufo h3 { font-size: var(--text-h3); line-height: var(--lh-h3); letter-spacing: var(--ls-h3); font-weight: var(--fw-h3); }
+.prose-ufo h4 { font-size: var(--text-h4); line-height: var(--lh-h4); letter-spacing: var(--ls-h4); font-weight: var(--fw-h4); }
+.prose-ufo p {
+  font-family: var(--font-sans);
+  font-size: var(--text-body); line-height: var(--lh-body);
+  color: hsl(var(--foreground));
+  text-wrap: pretty;
+}
+.prose-ufo code, .prose-ufo pre { font-family: var(--font-mono); }
+
+@keyframes ds-fade-in { from { opacity: 0; } to { opacity: 1; } }
+@keyframes ds-dialog-in {
+  from { opacity: 0; transform: translate(-50%, -48%) scale(0.97); }
+  to { opacity: 1; transform: translate(-50%, -50%) scale(1); }
+}
+@keyframes ds-pop-in {
+  from { opacity: 0; transform: translateY(-4px) scale(0.98); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
 }

@@ -1,60 +1,60 @@
 <script setup lang="ts">
-const sections = ['People', 'Organizations', 'Concepts', 'Events', 'Locations', 'Operations']
+import type { Category, GraphNode } from '#shared/types/wiki'
+import { CATEGORY_ORDER } from '#shared/types/wiki'
 
-const { data } = await useAsyncData('wiki:index', async () => {
-  const [mocs, notes] = await Promise.all([
-    queryCollection('wiki').where('stem', 'LIKE', 'MOCs/%').select('path', 'title').all(),
-    queryCollection('wiki').select('path', 'title', 'stem').all(),
-  ])
+usePageTitle().value = ''
+useHead({ title: '' })
 
-  const bySection = sections.map(section => ({
-    section,
-    notes: notes.filter(n => n.stem.startsWith(`${section}/`)).slice(0, 8),
-    total: notes.filter(n => n.stem.startsWith(`${section}/`)).length,
-  }))
+const { data: graph } = useGraph()
 
-  return { mocs, bySection, total: notes.length }
+const tally = computed<{ category: Category, count: number }[]>(() => {
+  const counts = new Map<Category, number>()
+  for (const node of graph.value?.nodes ?? []) {
+    counts.set(node.c, (counts.get(node.c) ?? 0) + 1)
+  }
+  return CATEGORY_ORDER
+    .filter(category => counts.has(category))
+    .map(category => ({ category, count: counts.get(category) ?? 0 }))
 })
 
-useHead({ title: 'UAP Gerb Knowledge Base' })
+function onSelect(node: GraphNode): void {
+  navigateTo(node.p)
+}
 </script>
 
 <template>
-  <main class="mx-auto max-w-3xl px-6 py-12">
-    <h1 class="text-3xl font-bold tracking-tight">UAP Gerb Knowledge Base</h1>
-    <p class="mt-2 text-muted-foreground">
-      {{ data?.total }} notes from the Obsidian vault, rendered with Nuxt Content.
-    </p>
+  <div class="absolute inset-0">
+    <GraphMap class="absolute inset-0" :active-path="null" :minimized="false" @select="onSelect" />
 
-    <p class="mt-6">
-      <NuxtLink to="/wiki/home" class="text-blue-600 underline underline-offset-2 dark:text-blue-400">
-        Open the vault home note →
-      </NuxtLink>
-    </p>
+    <div
+      class="pointer-events-none absolute left-5 top-5 z-20 max-w-[calc(100vw-40px)] select-none rounded-lg border border-border bg-background/70 px-4 py-3.5 backdrop-blur-sm"
+    >
+      <div class="flex items-center gap-2.5">
+        <span class="grid size-[30px] shrink-0 place-items-center rounded-full border-2 border-primary">
+          <span class="size-2.5 rounded-full bg-primary shadow-[0_0_10px_hsl(var(--primary))]" />
+        </span>
+        <span class="font-display text-lg font-bold uppercase tracking-[0.1em] text-foreground">
+          UAPG<span class="text-primary">DB</span>
+        </span>
+      </div>
 
-    <section v-if="data?.mocs.length" class="mt-10">
-      <h2 class="mb-3 text-lg font-semibold">Maps of Content</h2>
-      <ul class="grid gap-1 sm:grid-cols-2">
-        <li v-for="moc in data.mocs" :key="moc.path">
-          <NuxtLink :to="moc.path" class="text-blue-600 hover:underline dark:text-blue-400">
-            {{ moc.title }}
-          </NuxtLink>
-        </li>
-      </ul>
-    </section>
+      <p class="mt-1.5 font-sans text-sm text-muted-foreground">
+        UAP Gerb Knowledge Base
+      </p>
 
-    <section v-for="group in data?.bySection" :key="group.section" class="mt-10">
-      <h2 class="mb-3 text-lg font-semibold">
-        {{ group.section }}
-        <span class="ml-1 text-sm font-normal text-muted-foreground">({{ group.total }})</span>
-      </h2>
-      <ul class="grid gap-1 sm:grid-cols-2">
-        <li v-for="note in group.notes" :key="note.path">
-          <NuxtLink :to="note.path" class="text-blue-600 hover:underline dark:text-blue-400">
-            {{ note.title }}
-          </NuxtLink>
-        </li>
-      </ul>
-    </section>
-  </main>
+      <dl
+        v-if="tally.length"
+        class="mt-4 grid w-[196px] grid-cols-[1fr_auto] gap-x-4 gap-y-1 font-mono text-[11px] leading-4"
+      >
+        <template v-for="entry in tally" :key="entry.category">
+          <dt class="uppercase tracking-[0.08em] text-muted-foreground">
+            {{ entry.category }}
+          </dt>
+          <dd class="text-right font-semibold tabular-nums text-foreground">
+            {{ entry.count }}
+          </dd>
+        </template>
+      </dl>
+    </div>
+  </div>
 </template>

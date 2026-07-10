@@ -1,74 +1,126 @@
 <script setup lang="ts">
+import type { Category } from '#shared/types/wiki'
+import type { WikiPage } from '@/utils/content'
+import { ChevronRight } from '@lucide/vue'
+import { Badge } from '@/components/ui/badge'
+import { Separator } from '@/components/ui/separator'
+
+definePageMeta({ key: route => route.path })
+
 const route = useRoute()
 
 const { data: page } = await useAsyncData(`wiki:${route.path}`, () =>
-  queryCollection('wiki').path(route.path).first(),
-)
+  queryCollection('wiki').path(route.path).first())
 
 if (!page.value) {
   throw createError({ statusCode: 404, statusMessage: 'Note not found', fatal: true })
 }
 
+usePageTitle().value = page.value.title
 useHead({ title: page.value.title })
+
+const category = computed<Category>(() =>
+  page.value ? categoryFromStem(page.value.stem) : 'Root')
+const isTranscript = computed(() => page.value?.stem.endsWith('/transcript') ?? false)
+const videoTitle = computed(() => (page.value ? videoTitleFromStem(page.value.stem) : null))
+
+const tags = computed<string[]>(() => page.value?.tags ?? [])
+const shownTags = computed(() => tags.value.slice(0, 6))
+const extraTags = computed(() => Math.max(0, tags.value.length - 6))
+
+const article = computed<{ lead: string, doc: WikiPage | null }>(() => {
+  if (!page.value) return { lead: '', doc: null }
+  const { lead, value } = splitLead(page.value.body, page.value.description)
+  return { lead, doc: { ...page.value, body: { ...page.value.body, value } } }
+})
 </script>
 
 <template>
-  <main v-if="page" class="mx-auto max-w-3xl px-6 py-12">
-    <NuxtLink to="/" class="text-sm text-muted-foreground hover:underline">← Index</NuxtLink>
+  <article v-if="page" class="mx-auto max-w-[760px] px-8 pb-32 pt-10">
+    <nav class="mb-5 flex items-center gap-2 font-sans text-[13px] text-muted-foreground">
+      <NuxtLink to="/" class="transition-colors hover:text-foreground">
+        Map
+      </NuxtLink>
+      <ChevronRight class="size-3.5 shrink-0 opacity-60" />
+      <span>{{ category }}</span>
+      <template v-if="isTranscript && videoTitle">
+        <ChevronRight class="size-3.5 shrink-0 opacity-60" />
+        <span class="truncate">{{ videoTitle }}</span>
+      </template>
+    </nav>
 
-    <header class="mt-6 mb-8 border-b pb-6">
-      <h1 class="text-3xl font-bold tracking-tight">{{ page.title }}</h1>
-      <p v-if="page.role" class="mt-2 text-muted-foreground">{{ page.role }}</p>
-      <ul v-if="page.tags?.length" class="mt-4 flex flex-wrap gap-2">
-        <li
-          v-for="tag in page.tags"
-          :key="tag"
-          class="rounded-full border px-2.5 py-0.5 text-xs text-muted-foreground"
-        >
-          {{ tag }}
-        </li>
-      </ul>
-    </header>
+    <div class="mb-3.5 flex flex-wrap gap-2">
+      <Badge>{{ category }}</Badge>
+      <Badge v-for="tag in shownTags" :key="tag" variant="outline">
+        {{ tag }}
+      </Badge>
+      <Badge v-if="extraTags > 0" variant="outline">
+        +{{ extraTags }}
+      </Badge>
+    </div>
 
-    <ContentRenderer :value="page" class="wiki-prose" />
-  </main>
+    <h1 class="mb-4 font-display text-[clamp(32px,5vw,56px)] font-extrabold uppercase leading-none tracking-[-0.02em] text-foreground">
+      {{ page.title }}
+    </h1>
+
+    <p v-if="article.lead" class="mb-7 font-sans text-[20px] leading-[30px] text-muted-foreground">
+      {{ article.lead }}
+    </p>
+
+    <WikiFactTable :page="page" />
+
+    <ContentRenderer v-if="article.doc" :value="article.doc" class="prose-ufo wiki-prose" />
+
+    <Separator class="my-8" />
+
+    <WikiLinkedEntries :path="route.path" />
+  </article>
 </template>
 
 <style scoped>
 @reference "../../assets/css/main.css";
 
 .wiki-prose :deep(h2) {
-  @apply mt-10 mb-3 border-b pb-2 text-2xl font-semibold;
+  @apply mb-4 mt-12 border-b border-border pb-2 font-display text-[30px] font-semibold leading-9 tracking-[-0.007em] text-foreground;
 }
 .wiki-prose :deep(h3) {
-  @apply mt-8 mb-2 text-xl font-semibold;
+  @apply mb-3 mt-10 font-display text-[24px] font-semibold leading-8 tracking-[-0.006em] text-foreground;
+}
+.wiki-prose :deep(h4) {
+  @apply mb-2 mt-8 font-display text-[20px] font-semibold leading-7 tracking-[-0.005em] text-foreground;
 }
 .wiki-prose :deep(p) {
-  @apply my-4 leading-7;
-}
-.wiki-prose :deep(a) {
-  @apply text-blue-600 underline underline-offset-2 hover:text-blue-500 dark:text-blue-400;
+  @apply my-5 text-[16px] leading-7 text-foreground;
 }
 .wiki-prose :deep(ul) {
-  @apply my-4 list-disc space-y-1 pl-6;
+  @apply my-5 list-disc space-y-1.5 pl-6;
 }
 .wiki-prose :deep(ol) {
-  @apply my-4 list-decimal space-y-1 pl-6;
+  @apply my-5 list-decimal space-y-1.5 pl-6;
+}
+.wiki-prose :deep(li) {
+  @apply text-[16px] leading-7 text-foreground;
 }
 .wiki-prose :deep(blockquote) {
-  @apply my-4 border-l-4 pl-4 italic text-muted-foreground;
+  @apply my-6 border-l-4 border-border pl-4 italic text-muted-foreground;
 }
 .wiki-prose :deep(hr) {
-  @apply my-8 border-t;
+  @apply my-8 border-t border-border;
 }
 .wiki-prose :deep(code) {
-  @apply rounded bg-muted px-1 py-0.5 text-sm;
+  @apply rounded-sm bg-muted px-1 py-0.5 font-mono text-sm;
+}
+.wiki-prose :deep(strong) {
+  @apply font-semibold text-foreground;
 }
 .wiki-prose :deep(table) {
   @apply my-6 w-full border-collapse text-sm;
 }
 .wiki-prose :deep(th),
 .wiki-prose :deep(td) {
-  @apply border px-3 py-2 text-left;
+  @apply border border-border px-3 py-2 text-left align-top;
+}
+.wiki-prose :deep(th) {
+  @apply bg-muted/40 font-medium text-muted-foreground;
 }
 </style>
