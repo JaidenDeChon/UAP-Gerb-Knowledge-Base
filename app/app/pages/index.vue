@@ -1,60 +1,59 @@
 <script setup lang="ts">
-import type { Category, GraphNode } from '#shared/types/wiki'
-import { CATEGORY_ORDER } from '#shared/types/wiki'
+import type { WikiPage } from '@/utils/content'
+
+// The vault's Home note lives at /wiki/home; render it here so it lands on the
+// app root. The map moved to /map.
+const { data: page } = await useAsyncData('wiki:home', () =>
+  queryCollection('wiki').path('/wiki/home').first())
 
 usePageTitle().value = ''
-useHead({ title: '' })
+useHead({ title: 'UAP Gerb Knowledge Base' })
 
-const { data: graph } = useGraph()
-
-const tally = computed<{ category: Category, count: number }[]>(() => {
-  const counts = new Map<Category, number>()
-  for (const node of graph.value?.nodes ?? []) {
-    counts.set(node.c, (counts.get(node.c) ?? 0) + 1)
-  }
-  return CATEGORY_ORDER
-    .filter(category => counts.has(category))
-    .map(category => ({ category, count: counts.get(category) ?? 0 }))
+// Drop the leading `# H1` (the page renders its own title) and keep the rest of
+// the body — the intro paragraphs and the Maps of Content list.
+const doc = computed<WikiPage | null>(() => {
+  if (!page.value) return null
+  const value = [...(page.value.body?.value ?? [])]
+  if (Array.isArray(value[0]) && value[0][0] === 'h1') value.shift()
+  return { ...page.value, body: { ...page.value.body, value } }
 })
-
-function onSelect(node: GraphNode): void {
-  navigateTo(node.p)
-}
 </script>
 
 <template>
-  <div class="absolute inset-0">
-    <GraphMap class="absolute inset-0" :active-path="null" :minimized="false" @select="onSelect" />
+  <div class="mx-auto max-w-[760px] px-8 pb-32 pt-10">
+    <h1 class="mb-6 font-display text-[clamp(32px,5vw,56px)] font-extrabold uppercase leading-none tracking-[-0.02em] text-foreground">
+      UAP Gerb Knowledge Base
+    </h1>
 
-    <div
-      class="pointer-events-none absolute left-5 top-5 z-20 max-w-[calc(100vw-40px)] select-none rounded-lg border border-border/50 bg-background/70 px-4 py-3.5 backdrop-blur-sm"
-    >
-      <div class="flex items-center gap-2.5">
-        <span class="grid size-[30px] shrink-0 place-items-center rounded-full border-2 border-primary">
-          <span class="size-2.5 rounded-full bg-primary shadow-[0_0_10px_hsl(var(--primary))]" />
-        </span>
-        <span class="font-display text-lg font-bold uppercase tracking-[0.1em] text-foreground">
-          UAPG<span class="text-primary">DB</span>
-        </span>
-      </div>
-
-      <p class="mt-1.5 font-sans text-sm text-muted-foreground">
-        UAP Gerb Knowledge Base
-      </p>
-
-      <dl
-        v-if="tally.length"
-        class="mt-4 grid w-[196px] grid-cols-[1fr_auto] gap-x-4 gap-y-1 font-mono text-[11px] leading-4"
-      >
-        <template v-for="entry in tally" :key="entry.category">
-          <dt class="uppercase tracking-[0.08em] text-muted-foreground">
-            {{ entry.category }}
-          </dt>
-          <dd class="text-right font-semibold tabular-nums text-foreground">
-            {{ entry.count }}
-          </dd>
-        </template>
-      </dl>
-    </div>
+    <ContentRenderer v-if="doc" :value="doc" class="prose-ufo wiki-prose" />
   </div>
 </template>
+
+<style scoped>
+@reference "../assets/css/main.css";
+
+.wiki-prose :deep(h2) {
+  @apply mb-4 mt-12 border-b border-border pb-2 font-display text-[30px] font-semibold leading-9 tracking-[-0.007em] text-foreground;
+}
+.wiki-prose :deep(h3) {
+  @apply mb-3 mt-10 font-display text-[24px] font-semibold leading-8 tracking-[-0.006em] text-foreground;
+}
+.wiki-prose :deep(p) {
+  @apply my-5 text-[16px] leading-7 text-foreground;
+}
+.wiki-prose :deep(ul) {
+  @apply my-5 list-disc space-y-1.5 pl-6;
+}
+.wiki-prose :deep(ol) {
+  @apply my-5 list-decimal space-y-1.5 pl-6;
+}
+.wiki-prose :deep(li) {
+  @apply text-[16px] leading-7 text-foreground;
+}
+.wiki-prose :deep(hr) {
+  @apply my-8 border-t border-border;
+}
+.wiki-prose :deep(strong) {
+  @apply font-semibold text-foreground;
+}
+</style>

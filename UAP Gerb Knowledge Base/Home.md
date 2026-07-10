@@ -7,7 +7,9 @@ tags:
 
 # UAP Gerb Knowledge Base
 
-This vault contains extracted knowledge from the [UAP Gerb YouTube channel](https://www.youtube.com/@UAPGerb).
+This wiki contains extracted knowledge from the [UAP Gerb YouTube channel](https://www.youtube.com/@UAPGerb).
+
+Head to the [Site Map](/map) to visualize the data in this wiki.
 
 ## Maps of Content
 
@@ -18,6 +20,3 @@ This vault contains extracted knowledge from the [UAP Gerb YouTube channel](http
 - [[Events MOC]] — Historical and recent events
 - [[Operations MOC]] — Named government / military operations
 - [[Locations MOC]] — Places, facilities, regions
-
----
-*Last updated by pipeline: auto-generated*
