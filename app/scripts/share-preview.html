@@ -146,26 +146,6 @@
   }
   #tagline .dot-sep { color: var(--primary); padding: 0 10px; }
 
-  /* ---- HUD (recycles GraphMap's mono status line) ---- */
-  .hud {
-    position: absolute;
-    bottom: 40px;
-    z-index: 4;
-    font-family: "JetBrains Mono", monospace;
-    font-weight: 500;
-    font-size: 17px;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    color: var(--muted);
-  }
-  #hud-center {
-    left: 50%;
-    transform: translateX(-50%);
-    padding-left: 0.1em; /* optically re-center the tracked text */
-    white-space: nowrap;
-  }
-  .hud .lit { color: var(--primary); }
-
   /* Thin framing rule, echoing the app's soft chrome borders. */
   #frame {
     position: absolute;
@@ -202,8 +182,6 @@
         Topics<span class="dot-sep">·</span>People<span class="dot-sep">·</span>Places<span class="dot-sep">·</span>Events from the UAP Gerb channel
       </div>
     </div>
-
-    <div id="hud-center" class="hud">DISCLOSURE <span class="lit">·</span> ARCHIVED</div>
   </div>
 
   <script>
