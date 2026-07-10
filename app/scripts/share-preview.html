@@ -158,8 +158,12 @@
     text-transform: uppercase;
     color: var(--muted);
   }
-  #hud-left { left: 48px; }
-  #hud-right { right: 48px; }
+  #hud-center {
+    left: 50%;
+    transform: translateX(-50%);
+    padding-left: 0.1em; /* optically re-center the tracked text */
+    white-space: nowrap;
+  }
   .hud .lit { color: var(--primary); }
 
   /* Thin framing rule, echoing the app's soft chrome borders. */
@@ -199,8 +203,7 @@
       </div>
     </div>
 
-    <div id="hud-left" class="hud"><span class="lit">1,092</span> NODES INDEXED</div>
-    <div id="hud-right" class="hud">DISCLOSURE <span class="lit">·</span> ARCHIVED</div>
+    <div id="hud-center" class="hud">DISCLOSURE <span class="lit">·</span> ARCHIVED</div>
   </div>
 
   <script>
