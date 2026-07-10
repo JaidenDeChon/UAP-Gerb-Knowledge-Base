@@ -13,7 +13,7 @@ Kona Blue was designed as a prospective PAP (Program Acquisition Plan) to establ
 - Receive recovered UAP craft materials and possibly complete craft from [[Lockheed Martin]]
 - Operate under [[Department of Homeland Security]] Science and Technology oversight to avoid traditional DoD/IC gatekeeping structures
 - Provide Senator Harry Reid and Congressional intelligence committees visibility into UAP material custody
-- Enable [[Bigelow Aerospace Advanced Space Studies]] (BASS) to conduct research and analysis on the transferred materials under [[AW SAP]] contract
+- Enable [[Bigelow Aerospace Advanced Space Studies]] (BASS) to conduct research and analysis on the transferred materials under [[AAWSAP]] contract
 - Maintain waived USAP security protocols to protect sources, methods, and the materials themselves
 
 The program's name "Kona Blue" appears to follow standard DoD/IC cryptonym convention for compartmented programs.

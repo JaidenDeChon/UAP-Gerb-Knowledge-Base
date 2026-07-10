@@ -24,6 +24,11 @@ In the [[Wilson-Davis Memo]], Vice Admiral [[Thomas Wilson]]—then Deputy Direc
 
 Despite Wilson's position as Deputy Director of DIA with statutory oversight and regulatory authority over all DoD special access programs (both acknowledged and unacknowledged), he was denied access because he was not on the bigot list. The [[Watch Committee]] overseeing the program informed Wilson that special criteria established after a near-exposure incident determined bigot list membership, and Wilson did not meet those undisclosed criteria.
 
+## "Bigoted" as a SAP Control Marking
+
+UAP Gerb's *Special Access Required Vol.2* cites [[David Grusch]]'s description, from his Judicial Watch interview, of a "bigoted, waived Special Access Program" as one of the most restrictive SAP configurations possible — a waived SAP (meaning limited congressional reporting) with the additional informal control marking "bigoted," meaning access is restricted "by name" via a bigot list, similar in function to the control marking **NOFORN** (not releasable to foreign nationals) used on other legacy-related programs.
+
 ## Sources
 
 - [[Video - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs]]
+- [[Video - Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2]]

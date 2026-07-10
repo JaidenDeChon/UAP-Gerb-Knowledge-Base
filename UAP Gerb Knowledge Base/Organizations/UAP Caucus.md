@@ -13,7 +13,7 @@ As of 2024, the UAP Caucus included the following Congressional representatives:
 
 - Representative [[Tim Burchett]] (R-TN)
 - Representative [[Anna Paulina Luna]] (R-FL)
-- Representative [[Eric Burleson]] (R-MO)
+- Representative [[Eric Burlison]] (R-MO)
 - Representative [[Jared Moskowitz]] (D-FL)
 
 The caucus represents bipartisan interest in UAP transparency and oversight of alleged legacy programs.

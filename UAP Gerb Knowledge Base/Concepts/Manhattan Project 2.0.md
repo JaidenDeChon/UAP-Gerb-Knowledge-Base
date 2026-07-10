@@ -44,6 +44,11 @@ The schism was cemented in 1994 under Deputy Secretary of Defense [[Bill Perry]]
 
 The modern legacy structure, far removed from the Manhattan Project 2.0, is described by UAP Gerb as a scattered set of fiefdoms — siloed programs within elements of the DoD, intelligence community, and defense industrial base, operating without centralized coordination or shared objectives. Northrop Grumman's alleged use of independent research and development (IRAD) funds around 2005–2006 to establish contractor-led breakaway UFO exploitation projects that became unaccountable to original government handlers further accelerated the fragmentation. The result is significant brain drain, redundancy, and a program portfolio in which even senior graybeards within one silo may not be aware of redundant programs in adjacent silos.
 
+## Part Two: Modern Legacy Program Secrecy
+
+UAP Gerb's follow-up investigation, *Special Access Required Vol.2*, picks up where the Manhattan Project 2.0's "great schism" left off, shifting focus to the specific legal and bureaucratic mechanisms — [[Special Access Programs (SAPs)]], [[Content-Only Special Access Program|content-only SAPs]], and [[Covert Action Program (50 U.S. Code § 3093)|non-covert action designations]] — that the presenter argues allow the fragmented, post-1994 legacy program structure to remain hidden from Congress and the executive branch today. See [[Legacy Program Onion Model]] for the full modern secrecy framework.
+
 ## Sources
 
 - [[Video - The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1]]
+- [[Video - Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2]]

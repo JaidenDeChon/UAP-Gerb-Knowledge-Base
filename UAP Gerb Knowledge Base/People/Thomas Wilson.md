@@ -16,7 +16,7 @@ Wilson was an accomplished and decorated officer in the U.S. Navy, receiving num
 
 In April 1997, at the request of retired Navy Commander [[Will Miller]], Wilson attended a briefing in a Pentagon conference room where [[Steven Greer]] presented information about UFOs, Roswell, and crashed UFOs to Wilson, Miller, Apollo 14 astronaut [[Edgar Mitchell]], and [[Dia Hughes]]. Following the conference, Miller and Wilson spoke privately, leaving Wilson intrigued to investigate further.
 
-Wilson subsequently launched a 45-day investigation from April to June 1997, advised by General [[Marshall Ward]] and Secretary of Defense [[Bill Perry]] to examine records in [[OUSD(AT) (Office of the Under Secretary of Defense for Acquisition and Technology)|OUSD(AT)]]—the Office of the Under Secretary of Defense for Acquisition and Technology. Both Ward and Perry informed Wilson of a "special project records group not belonging to usual special access programs"—a special subset of unacknowledged carve-outs and waived programs organized in 1994 by Perry himself.
+Wilson subsequently launched a 45-day investigation from April to June 1997, advised by General [[Marshal Ward]] and Secretary of Defense [[Bill Perry]] to examine records in [[OUSD(AT) (Office of the Under Secretary of Defense for Acquisition and Technology)|OUSD(AT)]]—the Office of the Under Secretary of Defense for Acquisition and Technology. Both Ward and Perry informed Wilson of a "special project records group not belonging to usual special access programs"—a special subset of unacknowledged carve-outs and waived programs organized in 1994 by Perry himself.
 
 ## Discovery of the Program
 

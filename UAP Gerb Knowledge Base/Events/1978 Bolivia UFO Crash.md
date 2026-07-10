@@ -39,7 +39,7 @@ The cutoff in documentation may indicate:
 
 ## UAP Caucus Investigation
 
-The [[UAP Caucus]] — a bipartisan Congressional group including Representatives [[Tim Burchett]], [[Anna Paulina Luna]], [[Eric Burleson]], and [[Jared Moskowitz]] — has brought the Bolivia crash to official Congressional attention as documentary evidence of US government involvement in foreign UFO crash retrieval operations.
+The [[UAP Caucus]] — a bipartisan Congressional group including Representatives [[Tim Burchett]], [[Anna Paulina Luna]], [[Eric Burlison]], and [[Jared Moskowitz]] — has brought the Bolivia crash to official Congressional attention as documentary evidence of US government involvement in foreign UFO crash retrieval operations.
 
 ## Significance
 

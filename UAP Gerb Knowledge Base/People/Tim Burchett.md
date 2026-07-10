@@ -9,7 +9,7 @@ Tim Burchett serves as a United States Representative from Tennessee's 2nd congr
 
 ## UAP Caucus Leadership
 
-As a founding member of the [[UAP Caucus]] alongside Representatives [[Anna Paulina Luna]], [[Eric Burleson]], and [[Jared Moskowitz]], Burchett has worked to:
+As a founding member of the [[UAP Caucus]] alongside Representatives [[Anna Paulina Luna]], [[Eric Burlison]], and [[Jared Moskowitz]], Burchett has worked to:
 
 - Bring historical UFO crash retrieval events (including the [[1978 Bolivia UFO Crash]]) to Congressional investigation
 - Support legislative efforts for UAP declassification through National Defense Authorization Act (NDAA) provisions

@@ -32,7 +32,7 @@ The presentation further argues that SAIC-adjacent career paths and board-level 
 
 ## Wilson-Davis and SAP Governance Narrative
 
-The video revisits the [[Wilson-Davis Memo]] and proposes SAIC as a plausible contractor candidate in the memo's account of restricted-access reverse-engineering activity. It highlights repeated appearances of SAIC-linked names in discussion of DoD SAP governance, including [[John M. Deutsch]], [[William A. Owens]], and associated acquisition-era officials.
+The video revisits the [[Wilson-Davis Memo]] and proposes SAIC as a plausible contractor candidate in the memo's account of restricted-access reverse-engineering activity. It highlights repeated appearances of SAIC-linked names in discussion of DoD SAP governance, including [[John Deutsch]], [[William A. Owens]], and associated acquisition-era officials.
 
 It also emphasizes [[Will Miller]]'s role in linking senior officials and researchers around the 1997 to 2002 period. The video's interpretation is that governance reforms in the 1990s hardened compartmentation and reduced practical oversight even for senior cleared personnel.
 
@@ -65,6 +65,6 @@ The video then returns to [[Naval Surface Warfare Center Crane]], arguing SAIC's
 
 ## Related Pages
 
-- **People**: [[J. Robert Beyster]], [[Sean Kirkpatrick]], [[Ronald S. Moltry]], [[Michael Herrera]], [[Thomas Wilson]], [[Will Miller]], [[John M. Deutsch]], [[William A. Owens]], [[Catherine Austin Fitts]], [[Denise McKenzie]], [[Randy Anderson]], [[Bobby Ray Inman]], [[Donald M. Kerr]]
+- **People**: [[J. Robert Beyster]], [[Sean Kirkpatrick]], [[Ronald S. Moltry]], [[Michael Herrera]], [[Thomas Wilson]], [[Will Miller]], [[John Deutsch]], [[William A. Owens]], [[Catherine Austin Fitts]], [[Denise McKenzie]], [[Randy Anderson]], [[Bobby Ray Inman]], [[Donald M. Kerr]]
 - **Organizations**: [[SAIC]], [[AARO]], [[Sand Corp]], [[Battelle Memorial Institute]], [[MITRE Corporation]], [[Naval Surface Warfare Center Crane]], [[EG&G]], [[Decision Science Applications, Inc. (DSAI)]], [[L3 Communications]], [[Leidos]], [[NSA]], [[NRO (National Reconnaissance Office)]]
 - **Concepts**: [[UFO Legacy Programs]], [[Black Budget]], [[Independent Research and Development (IRAD)]], [[Strategic Defense Initiative (SDI)]], [[Project Stargate]], [[AARO Historical Report Volume 1]], [[Wilson-Davis Memo]], [[Off-World Technologies Division]]

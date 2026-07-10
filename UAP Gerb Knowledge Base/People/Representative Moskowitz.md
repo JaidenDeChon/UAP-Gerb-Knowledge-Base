@@ -13,7 +13,7 @@ During sworn testimony from whistleblower [[David Grusch]] in 2023, Representati
 
 ## UAP Caucus Membership
 
-As a member of the [[UAP Caucus]] alongside Representatives [[Tim Burchett]], [[Anna Paulina Luna]], and [[Eric Burleson]], Moskowitz has worked to:
+As a member of the [[UAP Caucus]] alongside Representatives [[Tim Burchett]], [[Anna Paulina Luna]], and [[Eric Burlison]], Moskowitz has worked to:
 
 - Bring historical UFO crash retrieval events (including the [[1978 Bolivia UFO Crash]]) to Congressional attention
 - Support legislative efforts for UAP declassification through NDAA provisions

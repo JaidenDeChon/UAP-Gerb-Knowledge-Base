@@ -1,11 +1,11 @@
 ---
-name: "Shipton"
-role: "Lieutenant General, AFMC and SAF/AQ senior official"
+name: "Donna D. Shipton"
+role: "Lieutenant General; Commander, Air Force Life Cycle Management Center (2024–present); former Military Deputy, SAF/AQ"
 tags:
   - person
 ---
 
-Shipton is a U.S. Air Force Lieutenant General who served as Military Deputy in the Office of the Assistant Secretary of the Air Force for Acquisition, Technology and Logistics (SAF/ATNL), a senior acquisition role carrying responsibility for research and development, test, production, and modernization of Air Force programs totaling over $60 billion annually. Shipton also held senior positions within [[Air Force Materiel Command (AFMC)]]. In UAP legacy program research, Shipton is theorized to be among the senior Air Force officials with potential read-in status to classified programs involving non-human technology — given that the SAF/ATNL military deputy role sits directly within the acquisition chain that researchers argue oversees the [[Hidden Wing]] portfolio.
+Donna D. Shipton is a U.S. Air Force Lieutenant General who has served as Commander of the [[Air Force Life Cycle Management Center (AFLCMC)|Air Force Life Cycle Management Center]] (AFLCMC) since early 2024 — becoming AFLCMC's first female commander — after previously serving from 2022 to 2023 as Military Deputy in the Office of the Assistant Secretary of the Air Force for Acquisition, Technology and Logistics (SAF/AQ, also rendered SAF/ATNL), a senior acquisition role carrying responsibility for research and development, test, production, and modernization of Air Force programs totaling over $60 billion annually. Shipton has also held senior positions within [[Air Force Materiel Command (AFMC)]] and, earlier in her career, with the Space Force element at the [[NRO (National Reconnaissance Office)]]. In UAP legacy program research, Shipton is theorized to be among the senior Air Force officials with potential read-in status to classified programs involving non-human technology — given that both the SAF/AQ military deputy role and the AFLCMC commander role sit directly within the acquisition chain that researchers argue oversees the [[Hidden Wing]] portfolio.
 
 ## Role and Responsibilities
 

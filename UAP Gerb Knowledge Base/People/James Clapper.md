@@ -19,7 +19,12 @@ Within the NSC-held program portfolio, Clapper is alleged to have provided "top 
 
 The disappearance of meaningful centralized oversight after Clapper's 2017 departure is one of the key factors UAP Gerb identifies as leaving the current legacy program landscape ungoverned: as of approximately 2026, fewer than two dozen individuals alive at any given time have any idea of the total breadth of siloed UFO programs.
 
+## ATIP and the National Program Special Management Staff
+
+UAP Gerb's *Special Access Required Vol.2* names Clapper as the specific official the presenter believes gave "top cover" for [[AATIP (Advanced Aerospace Threat Identification Program)|ATIP]] — which the video argues was, in reality, an unfunded informal working group rather than a genuine DIA program, distinct from the separately funded [[AAWSAP]]. The presenter connects this to [[Luis Elizondo]]'s self-described 2013–2017 role as director of the [[National Program Special Management Staff (NPMS)]], a staff function under the Under Secretary of Defense for Intelligence and Security (USD I&S) — Clapper's former office — arguing Elizondo's proximity to Clapper via NPMS gave him access to National Security Council-controlled Special Access Programs beyond what his public ATIP-era persona has acknowledged.
+
 ## Sources
 
 - [[Video - Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2]]
 - [[Video - The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1]]
+- [[Video - Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2]]

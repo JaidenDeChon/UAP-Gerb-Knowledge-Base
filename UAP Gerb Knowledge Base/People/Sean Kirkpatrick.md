@@ -29,10 +29,15 @@ Kirkpatrick stated he departed AARO "willingly" in late 2023, but investigative 
 
 ## George Mason University Oversight
 
-At a public reception at George Mason University in Arlington, Virginia — described as Kirkpatrick's last public event as AARO director — attendee Anthony Miller reported via LinkedIn that Pentagon spokesperson **Susan Gough** never left Kirkpatrick's side for the full hour of the event. Miller described Kirkpatrick visibly pausing and looking to Gough for confirmation before answering audience questions, characterizing his responses as "rife with double speak, patronizing dismissal, word play and semantics."
+At a public reception at George Mason University in Arlington, Virginia — described as Kirkpatrick's last public event as AARO director — attendee Anthony Miller reported via LinkedIn that Pentagon spokesperson [[Susan Gough]] never left Kirkpatrick's side for the full hour of the event. Miller described Kirkpatrick visibly pausing and looking to Gough for confirmation before answering audience questions, characterizing his responses as "rife with double speak, patronizing dismissal, word play and semantics."
+
+## Yankee Blue and the Wall Street Journal Article
+
+UAP Gerb's *Special Access Required Vol.2* accuses Kirkpatrick of promoting the claim, reported in a *Wall Street Journal* article titled "Pentagon Disinformation Fueled America's UFO Mythology," that the entire impetus for UFO reverse-engineering claims traces to an illegal Air Force hazing ritual called "Yankee Blue." The presenter alleges Kirkpatrick privately told podcasters, off-record, that each branch of the armed forces had its own Yankee Blue equivalent — a detail the presenter states was never mentioned in the *Journal* article. Journalist [[Steven Greenstreet]] subsequently obtained and published a copy of the Yankee Blue document, which the presenter states features inaccurate security control markings. [[David Grusch]], responding to the Yankee Blue narrative in his Judicial Watch interview, stated he was well aware of hazing activities from his own career but that the individuals he brought forward to the Intelligence Community Inspector General were not confused by hazing programs, and that the actual code words he provided investigators were not the Yankee Blue names circulated in media reports.
 
 ## Sources
 
 - [[Video - The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
 - [[Video - Michael Herrera - Insights into UAP Encounter and Black Program Insiders]]
 - [[Video - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies]]
+- [[Video - Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2]]

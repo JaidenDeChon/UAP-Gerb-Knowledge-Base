@@ -1,0 +1,15 @@
+---
+name: "Content-Only Special Access Program"
+tags:
+  - concept
+---
+
+A content-only Special Access Program is a budgetary and administrative designation — not a protection level like acknowledged, unacknowledged, or waived — applied to a [[Special Access Programs (SAPs)|Special Access Program]] (SAP) that holds only critical program information (CPI) rather than a full program with a dedicated funding line, major resource allocation, or independent budgetary authority. Because a content-only SAP is nominally unfunded, with its costs instead absorbed into ordinary Department of Defense, armed-service, or intelligence-community budgets, it carries no reporting requirements under either 10 U.S. Code § 119 (governing DoD SAPs) or [[Covert Action Program (50 U.S. Code § 3093)|50 U.S. Code § 3093]] (governing covert action programs). The designation is referenced in official DoD documentation including Air Force Instruction 16-701, which describes it as "a descriptive term used to describe a SAP or any sub element that contains information only and either has no funding associated with it or its funding is managed as part of the Air Force corporate budget process," and DoD Instruction 5205.11, which describes a content-only SAP as one that "protects discrete critical program information."
+
+## Alleged UAP Program Application
+
+UAP Gerb's *Special Access Required Vol.2* identifies the content-only designation as the central mechanism, in its view, that allows legacy UFO programs to operate entirely outside statutory congressional oversight. The video's argument, built on statements by [[David Grusch]] in his Judicial Watch interview, holds that legacy UFO activities originated as covert action programs under the National Security Council's 5412 Committee and its successors, and were therefore inherently subject to Gang of Eight/Gang of Four reporting requirements under 50 U.S. Code § 3093. By designating such a program **non-covert action** — converting it into a White House-controlled SAP that falls into a legal gray area between Title 10 and Title 50 — and additionally structuring it as **content-only**, the presenter argues legacy programs waive all statutory carve-out and reporting obligations simultaneously. Under this structure, actual retrieval, exploitation, and storage activity is not conducted within the content-only SAP itself but is merely "attributable to" it, with the true operational work and its funding dispersed across other programs, umbrella compartments, and budget lines — a structure the presenter connects to alleged "haircuts" taken across unrelated programs, misuse of independent research and development (IRAD) funds, and self-funding cutout companies. The presenter connects this theory directly to Vice Admiral [[Thomas Wilson]]'s 1997 discovery, described in the [[Wilson-Davis Memo]], of a records group containing "zero budget info."
+
+## Sources
+
+- [[Video - Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2]]

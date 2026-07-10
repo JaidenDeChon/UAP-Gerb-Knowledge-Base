@@ -10,7 +10,7 @@ William J. "Bill" Perry served as U.S. Secretary of Defense from 1994 to 1997 un
 
 ## Role in the 1997 Wilson Investigation
 
-When Vice Admiral Thomas Wilson—then Deputy Director of the Defense Intelligence Agency—launched his investigation into UFO crash retrieval programs in April 1997, he was advised by both General [[Marshall Ward]] and Secretary of Defense Bill Perry to go through records group files in [[OUSD(AT) (Office of the Under Secretary of Defense for Acquisition and Technology)|OUSD(AT)]]—the Office of the Under Secretary of Defense for Acquisition and Technology.
+When Vice Admiral Thomas Wilson—then Deputy Director of the Defense Intelligence Agency—launched his investigation into UFO crash retrieval programs in April 1997, he was advised by both General [[Marshal Ward]] and Secretary of Defense Bill Perry to go through records group files in [[OUSD(AT) (Office of the Under Secretary of Defense for Acquisition and Technology)|OUSD(AT)]]—the Office of the Under Secretary of Defense for Acquisition and Technology.
 
 According to the Wilson-Davis memo, both Ward and Perry told Wilson of a **"special project records group not belonging to usual special access programs"**—a special subset of the unacknowledged carve-outs and waived programs not belonging to usual SAP divisions, **organized in 1994 by Perry himself**.
 

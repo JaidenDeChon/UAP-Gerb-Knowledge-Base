@@ -38,7 +38,7 @@ The first mention of Moondust appears in a 1961 US Air Force document titled **A
 
 On May 6, 1978, at 4:15 PM, thousands of people near El Taire, Bolivia witnessed a cylindrical object crash into a mountainside, creating a sonic boom heard up to 150 miles away. Bolivian Army Corporal [[Natalio Ruiz]] described it as "a gigantic wine container emitting a trace of white smoke." Bolivian military discovered a "dull metallic cylinder 12 feet long with a few dents."
 
-US Secretary of State [[Cyrus Vance]] wrote that "appropriate government agencies have been contacted" — the agency was Moondust. Colonel [[Robert Simmons]] and Major [[Jesse Haaste]] were deployed. The documentary trail ends without confirmation of retrieval. The case was brought to modern Congressional attention by the [[UAP Caucus]], including Representatives [[Tim Burchett]], [[Anna Paulina Luna]], [[Eric Burleson]], and [[Representative Moskowitz|Jared Moskowitz]].
+US Secretary of State [[Cyrus Vance]] wrote that "appropriate government agencies have been contacted" — the agency was Moondust. Colonel [[Robert Simmons]] and Major [[Jesse Haaste]] were deployed. The documentary trail ends without confirmation of retrieval. The case was brought to modern Congressional attention by the [[UAP Caucus]], including Representatives [[Tim Burchett]], [[Anna Paulina Luna]], [[Eric Burlison]], and [[Representative Moskowitz|Jared Moskowitz]].
 
 ## Wright-Patterson Air Force Base Connection
 
@@ -95,7 +95,7 @@ The video identifies several programs alongside Moondust as part of a broader cl
 - [[UAP Caucus]]
 - [[Tim Burchett]]
 - [[Anna Paulina Luna]]
-- [[Eric Burleson]]
+- [[Eric Burlison]]
 - [[Representative Moskowitz|Jared Moskowitz]]
 - [[Project Blue Book]]
 - [[Project Grudge]]

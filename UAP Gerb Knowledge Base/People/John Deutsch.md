@@ -1,12 +1,12 @@
 ---
 name: "John Deutsch"
-role: "Chairman of SAPOC Senior Review Group; former CIA Director"
+role: "Deputy Secretary of Defense (1994–1995); Director of Central Intelligence (1995–1996); former Under Secretary of Defense for Acquisition and Technology; Chairman of SAPOC Senior Review Group"
 tags:
   - person
   - government
 ---
 
-John Deutsch served as Chairman of the [[SAPOC (Special Access Program Oversight Committee)|SAPOC]] Senior Review Group at the Pentagon and previously served as Director of the CIA from 1995 to 1996. According to the [[Wilson-Davis Memo]], Deutsch directly threatened Vice Admiral [[Thomas Wilson]]'s career advancement when Wilson complained about being denied access to a crash retrieval program in 1997.
+John Deutsch (frequently rendered "John M. Deutsch" in UAP Gerb's videos) is a senior U.S. national security official who held a rapid succession of top-level defense and intelligence posts in the early-to-mid 1990s: Under Secretary of Defense for Acquisition and Technology (1993–1994), Deputy Secretary of Defense (1994–1995), and Director of Central Intelligence (1995–1996). In UAP research, he is cited both for chairing the [[SAPOC (Special Access Program Oversight Committee)|SAPOC]] Senior Review Group at the Pentagon and, separately, for his historical association with [[SAIC]] — used by UAP Gerb to argue that personnel movement between contractor leadership and top government oversight roles is a recurring structural feature of alleged legacy-program gatekeeping. According to the [[Wilson-Davis Memo]], Deutsch directly threatened Vice Admiral [[Thomas Wilson]]'s career advancement when Wilson complained about being denied access to a crash retrieval program in 1997.
 
 ## Threats Against Wilson
 
@@ -28,6 +28,16 @@ Deutsch's threat is significant for several reasons:
 
 Wilson apparently heeded the threat—he did eventually become Director of the DIA (1999-2002), suggesting he dropped his attempts to gain access as ordered.
 
+## SAP Governance Role
+
+UAP Gerb's *Special Access Required Vol.2* names Deutsch, alongside [[Bill Perry]], as one of the historical chairs of the [[Special Access Programs (SAPs)|SAPOC]] Senior Review Group (SRG) — the body established in 1994 to serve as the primary gatekeeping structure for access to the most sensitive DoD Special Access Programs, including those the presenter alleges are connected to the UFO legacy program portfolio.
+
+## SAIC Connection
+
+UAP Gerb's video on [[SAIC]] cites Deutsch's historical association with the company, using the overlap between his acquisition-era Pentagon oversight roles and later private-sector defense ties to argue that personnel movement between contractor leadership and top government oversight roles is a recurring structural feature in alleged legacy-program gatekeeping.
+
 ## Sources
 
 - [[Video - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs]]
+- [[Video - UFO Legacy Programs - Science Applications International Corporation (SAIC)]]
+- [[Video - Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2]]
