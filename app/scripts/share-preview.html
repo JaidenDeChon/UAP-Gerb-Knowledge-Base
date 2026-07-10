@@ -1,0 +1,285 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<!--
+  Social share preview (Open Graph / Twitter) for the UAP Gerb Knowledge Base.
+  Rendered to public/img/share-preview.png at 1200x630 with scripts/render-share-preview.mjs.
+  Recycles the site's design motifs verbatim: near-black canvas (dark theme
+  --background 0 0% 4%), green primary accent (--primary 142 71% 45%),
+  the knowledge-graph field map (green nodes + faint edges), the brand
+  ring+dot lockup, Chakra Petch display wordmark, and a JetBrains Mono HUD.
+-->
+<style>
+  @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Chakra+Petch:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap");
+
+  :root {
+    --background: #0a0a0a;      /* dark theme --background 0 0% 4% */
+    --primary: #22c55e;        /* dark theme --primary 142.1 70.6% 45.3% */
+    --graph-node: #22c55e;
+    --graph-edge: #737373;     /* dark theme --graph-edge 0 0% 45% */
+    --foreground: #fafafa;     /* --foreground 0 0% 98% */
+    --muted: #a3a3a3;          /* --muted-foreground 0 0% 64% */
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html, body { background: var(--background); }
+
+  #card {
+    position: relative;
+    width: 1200px;
+    height: 630px;
+    overflow: hidden;
+    background: var(--background);
+    font-family: "Inter", sans-serif;
+    color: var(--foreground);
+  }
+
+  /* ---- background field map (the site's graph motif) ---- */
+  #graph {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+  }
+  #graph .edge { stroke: var(--graph-edge); stroke-width: 1; }
+  #graph .node { fill: var(--graph-node); }
+
+  /* Center glow so the brand sits on a clean, luminous core. */
+  #glow {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 1000px;
+    height: 1000px;
+    transform: translate(-50%, -50%);
+    background: radial-gradient(
+      circle at center,
+      rgba(34, 197, 94, 0.22) 0%,
+      rgba(34, 197, 94, 0.08) 22%,
+      rgba(10, 10, 10, 0.86) 46%,
+      rgba(10, 10, 10, 0.98) 60%
+    );
+  }
+
+  /* Corner vignette to keep the frame grounded. */
+  #vignette {
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(
+      130% 120% at 50% 50%,
+      transparent 55%,
+      rgba(10, 10, 10, 0.85) 100%
+    );
+  }
+
+  /* Faint concentric radar rings — a subtle UAP / detection cue. */
+  #rings {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0.5;
+  }
+  #rings circle { fill: none; stroke: rgba(34, 197, 94, 0.14); stroke-width: 1; }
+
+  /* ---- brand lockup ---- */
+  #content {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    z-index: 3;
+  }
+
+  #ring {
+    display: grid;
+    place-items: center;
+    width: 84px;
+    height: 84px;
+    border: 4px solid var(--primary);
+    border-radius: 9999px;
+    margin-bottom: 34px;
+  }
+  #ring .dot {
+    width: 28px;
+    height: 28px;
+    border-radius: 9999px;
+    background: var(--primary);
+    box-shadow: 0 0 28px 4px var(--primary);
+  }
+
+  #title {
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 700;
+    font-size: 104px;
+    line-height: 0.92;
+    letter-spacing: -0.01em;
+    text-transform: uppercase;
+    color: var(--foreground);
+  }
+
+  #subtitle {
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 1;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--foreground);
+    margin-top: 20px;
+    padding-left: 0.22em; /* optically re-center the tracked text */
+  }
+  #subtitle .accent { color: var(--primary); }
+
+  #tagline {
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size: 23px;
+    letter-spacing: 0.01em;
+    color: var(--muted);
+    margin-top: 30px;
+  }
+  #tagline .dot-sep { color: var(--primary); padding: 0 10px; }
+
+  /* ---- HUD (recycles GraphMap's mono status line) ---- */
+  .hud {
+    position: absolute;
+    bottom: 40px;
+    z-index: 4;
+    font-family: "JetBrains Mono", monospace;
+    font-weight: 500;
+    font-size: 17px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  #hud-center {
+    left: 50%;
+    transform: translateX(-50%);
+    padding-left: 0.1em; /* optically re-center the tracked text */
+    white-space: nowrap;
+  }
+  .hud .lit { color: var(--primary); }
+
+  /* Thin framing rule, echoing the app's soft chrome borders. */
+  #frame {
+    position: absolute;
+    inset: 22px;
+    border: 1px solid rgba(115, 115, 115, 0.22);
+    border-radius: 6px;
+    z-index: 2;
+    pointer-events: none;
+  }
+</style>
+</head>
+<body>
+  <div id="card">
+    <svg id="graph" viewBox="0 0 1200 630" preserveAspectRatio="xMidYMid slice">
+      <g id="edges"></g>
+      <g id="nodes"></g>
+    </svg>
+
+    <svg id="rings" width="1180" height="1180" viewBox="0 0 1180 1180">
+      <circle cx="590" cy="590" r="230" />
+      <circle cx="590" cy="590" r="360" />
+      <circle cx="590" cy="590" r="500" />
+    </svg>
+
+    <div id="glow"></div>
+    <div id="vignette"></div>
+    <div id="frame"></div>
+
+    <div id="content">
+      <div id="ring"><div class="dot"></div></div>
+      <div id="title">UAP Gerb</div>
+      <div id="subtitle">Knowledge <span class="accent">Base</span></div>
+      <div id="tagline">
+        Topics<span class="dot-sep">·</span>People<span class="dot-sep">·</span>Places<span class="dot-sep">·</span>Events from the UAP Gerb channel
+      </div>
+    </div>
+
+    <div id="hud-center" class="hud">DISCLOSURE <span class="lit">·</span> ARCHIVED</div>
+  </div>
+
+  <script>
+    // Deterministic node cloud so the field map renders identically every build.
+    // Mulberry32 seeded PRNG — no Math.random, no run-to-run drift.
+    function mulberry32(a) {
+      return function () {
+        a |= 0; a = (a + 0x6D2B79F5) | 0;
+        let t = Math.imul(a ^ (a >>> 15), 1 | a);
+        t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+        return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+      };
+    }
+
+    const rnd = mulberry32(0x5A17);
+    const W = 1200, H = 630;
+    const N = 150;
+    const nodes = [];
+
+    // Bias points toward the edges/corners: a soft central exclusion so the
+    // wordmark keeps a clean core, denser constellation around it.
+    for (let i = 0; i < N; i++) {
+      let x, y, d;
+      let tries = 0;
+      do {
+        x = rnd() * W;
+        y = rnd() * H;
+        const dx = (x - W / 2) / (W / 2);
+        const dy = (y - H / 2) / (H / 2);
+        d = Math.sqrt(dx * dx + dy * dy);
+        tries++;
+      } while (d < 0.42 && rnd() > d * 0.6 && tries < 8);
+      // degree drives radius, exactly like radiusOf() in GraphMap.
+      const deg = Math.floor(rnd() * 9);
+      nodes.push({ x, y, deg, edgeDim: Math.min(1, 0.25 + d) });
+    }
+
+    // Connect each node to a few nearest neighbours -> organic web.
+    const edgesG = document.getElementById('edges');
+    const seen = new Set();
+    for (let i = 0; i < N; i++) {
+      const near = nodes
+        .map((n, j) => ({ j, dist: Math.hypot(n.x - nodes[i].x, n.y - nodes[i].y) }))
+        .filter((o) => o.j !== i)
+        .sort((a, b) => a.dist - b.dist)
+        .slice(0, 2 + (nodes[i].deg % 2));
+      for (const { j, dist } of near) {
+        if (dist > 200) continue;
+        const key = i < j ? i + '-' + j : j + '-' + i;
+        if (seen.has(key)) continue;
+        seen.add(key);
+        const line = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+        line.setAttribute('x1', nodes[i].x.toFixed(1));
+        line.setAttribute('y1', nodes[i].y.toFixed(1));
+        line.setAttribute('x2', nodes[j].x.toFixed(1));
+        line.setAttribute('y2', nodes[j].y.toFixed(1));
+        line.setAttribute('class', 'edge');
+        // Edges fade toward the luminous center; brighter near the rim.
+        line.setAttribute('stroke-opacity', (0.10 + 0.24 * Math.min(nodes[i].edgeDim, nodes[j].edgeDim)).toFixed(2));
+        edgesG.appendChild(line);
+      }
+    }
+
+    const nodesG = document.getElementById('nodes');
+    for (const n of nodes) {
+      const c = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+      const r = Math.max(2, Math.min(7, 2.4 + Math.sqrt(n.deg) * 1.15));
+      c.setAttribute('cx', n.x.toFixed(1));
+      c.setAttribute('cy', n.y.toFixed(1));
+      c.setAttribute('r', r.toFixed(1));
+      c.setAttribute('class', 'node');
+      c.setAttribute('fill-opacity', (0.30 + 0.6 * n.edgeDim).toFixed(2));
+      nodesG.appendChild(c);
+    }
+
+    window.__READY__ = true;
+  </script>
+</body>
+</html>
