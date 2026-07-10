@@ -38,10 +38,11 @@ const shownBack = computed(() => (showAllBack.value ? backlinks.value : backlink
           as-child
           variant="outline"
           size="sm"
+          class="min-w-0 max-w-full"
         >
-          <NuxtLink :to="ref.path">
-            <FileText class="size-3.5" />
-            {{ ref.title }}
+          <NuxtLink :to="ref.path" :title="ref.title">
+            <FileText class="size-3.5 shrink-0" />
+            <span class="min-w-0 truncate">{{ ref.title }}</span>
           </NuxtLink>
         </Button>
       </div>
@@ -67,10 +68,11 @@ const shownBack = computed(() => (showAllBack.value ? backlinks.value : backlink
           as-child
           variant="outline"
           size="sm"
+          class="min-w-0 max-w-full"
         >
-          <NuxtLink :to="ref.path">
-            <CornerUpLeft class="size-3.5" />
-            {{ ref.title }}
+          <NuxtLink :to="ref.path" :title="ref.title">
+            <CornerUpLeft class="size-3.5 shrink-0" />
+            <span class="min-w-0 truncate">{{ ref.title }}</span>
           </NuxtLink>
         </Button>
       </div>
