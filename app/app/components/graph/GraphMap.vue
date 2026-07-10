@@ -154,6 +154,15 @@ const nodesGeom = computed(() => {
 
 const focused = computed(() => focusIndex.value != null)
 
+// The full map draws all ~6.3k edges at once; across a spread-out field they
+// stack into a solid wash at the design's 0.4, so fade them to a faint substrate
+// and let the green focus edges carry connectivity on hover. The docked mini-map
+// shows only a handful of edges, so it keeps them legible.
+const baseEdgeOpacity = computed(() => {
+  const base = scene.value.nodes.length > 120 ? 0.16 : 0.4
+  return focused.value ? base * 0.45 : base
+})
+
 // The full edge set, drawn once and kept mounted. Its `d` is independent of the
 // focus, so hovering never re-serialises the ~6.3k-segment path — only its
 // stroke-opacity toggles (0.4 → 0.15) to dim the non-incident edges.
@@ -440,7 +449,7 @@ const ariaLabel = computed(() =>
   <div
     ref="containerRef"
     class="relative overflow-hidden"
-    :class="minimized ? 'rounded-lg border border-border shadow-lg' : ''"
+    :class="minimized ? 'rounded-lg border border-border/50 shadow-lg' : ''"
     :style="rootStyle"
   >
     <!-- dotted grid + surface; pans and zooms with the view -->
@@ -463,7 +472,7 @@ const ariaLabel = computed(() =>
           class="g-edge pointer-events-none stroke-graph-edge"
           fill="none"
           stroke-width="1"
-          :stroke-opacity="focused ? 0.15 : 0.4"
+          :stroke-opacity="baseEdgeOpacity"
           vector-effect="non-scaling-stroke"
           :d="baseEdgePath"
         />
