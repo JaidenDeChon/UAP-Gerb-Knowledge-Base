@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { LocateFixed, Maximize2 } from '@lucide/vue'
+import { LocateFixed } from '@lucide/vue'
 import type { GraphEdge, GraphNode } from '#shared/types/wiki'
 import type { Bounds } from '~/utils/graph'
 import { buildAdjacency, clamp, fitView, localSubgraph, relax } from '~/utils/graph'
@@ -124,15 +124,9 @@ const pts = computed(() => {
 
 const groupTransform = computed(() => `translate(${pan.value.x} ${pan.value.y})`)
 
-const gridStyle = computed(() => {
-  const s = 24 * k.value
-  return {
-    backgroundColor: 'hsl(var(--background))',
-    backgroundImage: 'radial-gradient(hsl(var(--border) / 0.6) 1px, transparent 1px)',
-    backgroundSize: `${s}px ${s}px`,
-    backgroundPosition: `${pan.value.x}px ${pan.value.y}px`,
-  }
-})
+const gridStyle = computed(() => ({
+  backgroundColor: 'hsl(var(--background))',
+}))
 
 function radiusOf(degree: number, emphasized: boolean): number {
   return clamp(3 + Math.sqrt(degree) * 1.15, 3, 14) + (emphasized ? 3 : 0)
@@ -408,9 +402,9 @@ function resetView(): void {
   fitToScene()
 }
 
-function openFullMap(): void {
-  navigateTo('/')
-}
+// The docked mini-map re-fits when its container is resized (so the drag-to-resize
+// handle reflows the graph) as long as the user hasn't panned it themselves.
+defineExpose({ resetView })
 
 /* ------------------------------------------------------------- lifecycle -- */
 
@@ -449,10 +443,9 @@ const ariaLabel = computed(() =>
   <div
     ref="containerRef"
     class="relative overflow-hidden"
-    :class="minimized ? 'rounded-lg border border-border/50 shadow-lg' : ''"
     :style="rootStyle"
   >
-    <!-- dotted grid + surface; pans and zooms with the view -->
+    <!-- flat surface; the docked assembly owns the border and rounding -->
     <div class="pointer-events-none absolute inset-0" :style="gridStyle" />
 
     <svg
@@ -522,32 +515,20 @@ const ariaLabel = computed(() =>
       <span class="font-mono text-xs tracking-[0.1em] text-muted-foreground">LOADING MAP…</span>
     </div>
 
-    <!-- HUD -->
-    <template v-if="showGraph">
-      <div v-if="!minimized" class="pointer-events-none absolute inset-0">
-        <span
-          class="absolute bottom-4 left-4 font-mono text-xs tracking-[0.06em] text-muted-foreground"
-        >{{ payload!.nodes.length }} NODES · {{ payload!.edges.length }} LINKS</span>
-        <button
-          type="button"
-          class="g-btn pointer-events-auto absolute right-4 top-4 inline-flex h-9 w-9 items-center justify-center rounded-md text-muted-foreground hover:bg-accent hover:text-foreground"
-          aria-label="Reset the view"
-          @click="resetView"
-        >
-          <LocateFixed :size="16" />
-        </button>
-      </div>
-
+    <!-- HUD — the full map only; the docked mini-map's chrome lives in its frame. -->
+    <div v-if="showGraph && !minimized" class="pointer-events-none absolute inset-0">
+      <span
+        class="absolute bottom-4 left-4 font-mono text-xs tracking-[0.06em] text-muted-foreground"
+      >{{ payload!.nodes.length }} NODES · {{ payload!.edges.length }} LINKS</span>
       <button
-        v-else
         type="button"
-        class="g-btn pointer-events-auto absolute right-2 top-2 inline-flex h-7 w-7 items-center justify-center rounded-md text-muted-foreground hover:bg-accent hover:text-foreground"
-        aria-label="Open the full map"
-        @click="openFullMap"
+        class="g-btn pointer-events-auto absolute right-4 top-4 inline-flex h-9 w-9 items-center justify-center rounded-md text-muted-foreground hover:bg-accent hover:text-foreground"
+        aria-label="Reset the view"
+        @click="resetView"
       >
-        <Maximize2 :size="15" />
+        <LocateFixed :size="16" />
       </button>
-    </template>
+    </div>
   </div>
 </template>
 

@@ -56,8 +56,8 @@ const article = computed<{ lead: string, doc: WikiPage | null }>(() => {
 <template>
   <article v-if="page" class="mx-auto max-w-[760px] px-8 pb-32 pt-10">
     <nav class="mb-5 flex items-center gap-2 font-sans text-[13px] text-muted-foreground">
-      <NuxtLink to="/" class="transition-colors hover:text-foreground">
-        Map
+      <NuxtLink to="/map" class="transition-colors hover:text-foreground">
+        Site map
       </NuxtLink>
       <ChevronRight class="size-3.5 shrink-0 opacity-60" />
       <span>{{ category }}</span>

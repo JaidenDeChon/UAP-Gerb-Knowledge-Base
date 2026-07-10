@@ -1,14 +1,9 @@
 <script setup lang="ts">
-import { computed } from 'vue'
 import { Menu, Search } from '@lucide/vue'
 import { Button } from '@/components/ui/button'
 
-const route = useRoute()
-const pageTitle = usePageTitle()
 const sidebarOpen = useSidebarOpen()
 const commandOpen = useCommandOpen()
-
-const title = computed(() => pageTitle.value || (route.path === '/' ? 'Field Map' : ''))
 </script>
 
 <template>
@@ -26,15 +21,10 @@ const title = computed(() => pageTitle.value || (route.path === '/' ? 'Field Map
     </Button>
 
     <!-- Not an <h1>: the article below already owns the page's heading, and two
-         of them would leave a screen reader with an ambiguous document outline. -->
-    <span class="min-w-0 flex-1 truncate font-display text-[15px] font-semibold tracking-[0.02em] text-foreground">
-      <!-- Pages set the title during their async setup, which resolves after this
-           ancestor renders on the server. Client-render the resolved title while
-           keeping the route-derived fallback SSR-safe, so there's no mismatch. -->
-      <ClientOnly>
-        {{ title }}
-        <template #fallback>{{ route.path === '/' ? 'Field Map' : '' }}</template>
-      </ClientOnly>
+         of them would leave a screen reader with an ambiguous document outline.
+         The wordmark is static — it names the site, not the current page. -->
+    <span class="min-w-0 flex-1 truncate font-display text-[15px] font-semibold tracking-[0.08em] text-foreground">
+      UAP Gerb Knowledge Base
     </span>
 
     <Button

@@ -59,6 +59,15 @@ function folderIcon(item: TreeFolder): Component {
   return item.id.startsWith('Videos/') ? Clapperboard : Folder
 }
 
+// The `MOCs` folder reads as an acronym; spell it out in the sidebar.
+const FOLDER_LABEL: Record<string, string> = {
+  MOCs: 'Maps of Content',
+}
+
+function folderLabel(item: TreeFolder): string {
+  return FOLDER_LABEL[item.id] ?? item.name
+}
+
 // Ancestors of the active route, derived at render time so SSR and the client's
 // first render agree (a watcher would run before async tree data resolves on the
 // server, expanding nothing there, then expand on the client — a hydration
@@ -147,7 +156,7 @@ if (isRoot) {
         >
           <span class="text-primary opacity-70">//</span>
           <component :is="sectionIcon(item)" class="size-3.5 shrink-0" />
-          <span class="flex-1 truncate text-left">{{ item.name }}</span>
+          <span class="flex-1 truncate text-left">{{ folderLabel(item) }}</span>
           <span class="font-mono text-[10px] font-semibold tracking-[0.06em] text-muted-foreground">{{ item.count }}</span>
           <ChevronRight
             class="size-3.5 shrink-0 text-muted-foreground transition-transform duration-base ease-standard"

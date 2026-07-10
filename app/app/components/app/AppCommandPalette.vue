@@ -10,6 +10,7 @@ import {
   Compass,
   Crosshair,
   FileText,
+  House,
   MapPin,
   Radar,
   Users,
@@ -150,7 +151,7 @@ const groups = computed<Group[]>(() => {
 // our own visibility never disagree (which would leave an empty group heading).
 const showMap = computed(() => {
   const q = fold(query.value)
-  return q === '' || 'field map (all entries)'.includes(q)
+  return q === '' || 'home'.includes(q) || 'site map (all entries)'.includes(q)
 })
 
 const isEmpty = computed(
@@ -192,8 +193,12 @@ function go(path: string): void {
 
       <CommandGroup v-if="showMap" heading="Navigate">
         <CommandItem value="/" @select="go('/')">
+          <House />
+          <span class="flex-1 truncate">Home</span>
+        </CommandItem>
+        <CommandItem value="/map" @select="go('/map')">
           <Radar />
-          <span class="flex-1 truncate">Field Map (all entries)</span>
+          <span class="flex-1 truncate">Site map (all entries)</span>
         </CommandItem>
       </CommandGroup>
 
