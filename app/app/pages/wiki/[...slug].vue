@@ -24,7 +24,25 @@ const category = computed<Category>(() =>
 const isTranscript = computed(() => page.value?.stem.endsWith('/transcript') ?? false)
 const videoTitle = computed(() => (page.value ? videoTitleFromStem(page.value.stem) : null))
 
-const tags = computed<string[]>(() => page.value?.tags ?? [])
+// A note's folder already renders as the green category badge, so its frontmatter
+// self-tag — `person` on a People note, `video` on a Videos note, and so on — is
+// pure duplication in this view. Hide it. The vault keeps the tag for Obsidian,
+// which has no folder-derived badge and groups notes by exactly these tags.
+const CATEGORY_SELF_TAG: Partial<Record<Category, string>> = {
+  People: 'person',
+  Organizations: 'organization',
+  Locations: 'location',
+  Concepts: 'concept',
+  Events: 'event',
+  Videos: 'video',
+  Operations: 'operation',
+  MOCs: 'moc',
+}
+
+const tags = computed<string[]>(() => {
+  const selfTag = CATEGORY_SELF_TAG[category.value]
+  return (page.value?.tags ?? []).filter(tag => tag.toLowerCase() !== selfTag)
+})
 const shownTags = computed(() => tags.value.slice(0, 6))
 const extraTags = computed(() => Math.max(0, tags.value.length - 6))
 
