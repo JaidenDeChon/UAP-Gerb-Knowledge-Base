@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5525cde58305a324",
+        "id": "47094002a4108ca6",
         "type": "tabs",
         "children": [
           {
-            "id": "0587d3aaa9971505",
+            "id": "5106c2bc3984babf",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -72,13 +70,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 238.5
   },
   "right": {
     "id": "e39ee66b9c259c8c",
@@ -161,23 +157,14 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "7a9328c2564d32ba",
-            "type": "leaf",
-            "state": {
-              "type": "ghostty-terminal",
-              "state": {},
-              "icon": "terminal",
-              "title": "Ghostty"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 1044.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,8 +178,10 @@
       "ghostty-terminal:Open terminal": false
     }
   },
-  "active": "0587d3aaa9971505",
+  "active": "5106c2bc3984babf",
   "lastOpenFiles": [
+    "UAP Gerb Knowledge Base/Concepts/Nitinol (Nickel-Titanium Alloy).md",
+    "UAP Gerb Knowledge Base/MOCs/Events MOC.md",
     "OctagonalPyramid-shaped Craft.md",
     "UAP Gerb Knowledge Base/Events/Aztec UFO Crash and Recovery.md",
     "UAP Gerb Knowledge Base/Locations/Arlington, Virginia.md",
@@ -200,7 +189,6 @@
     "UAP Gerb Knowledge Base/Locations/Houston, Texas.md",
     "UAP Gerb Knowledge Base/Concepts/Bigot List.md",
     "UAP Gerb Knowledge Base/Organizations/Battelle Memorial Institute.md",
-    "UAP Gerb Knowledge Base/Concepts/Nitinol (Nickel-Titanium Alloy).md",
     "UAP Gerb Knowledge Base/Operations/Project Moondust.md",
     "orphans.csv",
     "UAP Gerb Knowledge Base/Home.md",
@@ -209,7 +197,6 @@
     "UAP Gerb Knowledge Base/MOCs/Videos MOC.md",
     "UAP Gerb Knowledge Base/MOCs/Concepts MOC.md",
     "UAP Gerb Knowledge Base/MOCs/Operations MOC.md",
-    "UAP Gerb Knowledge Base/MOCs/Events MOC.md",
     "UAP Gerb Knowledge Base/MOCs/People MOC.md",
     "UAP Gerb Knowledge Base/MOCs/Organizations MOC.md",
     "UAP Gerb Knowledge Base/MOCs/Locations MOC.md",
