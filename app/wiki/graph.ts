@@ -185,12 +185,31 @@ function computeBounds(nodes: GraphNode[]): GraphPayload['bounds'] {
 
 const IDEAL = 55 // ideal edge length (k)
 const CUTOFF = IDEAL * 3 // repulsion range == grid cell size
-const ITERS = 520
-const T0 = 120 // starting max displacement per step
+const ITERS = 600
+const T0 = 140 // starting max displacement per step
 const TMIN = 2
-const CENTER_GRAVITY = 0.01
+const CENTER_GRAVITY = 0.006
 const R_INNER = 200
 const R_OUTER = 1600
+// Soft containment: gravity stays weak near the middle so the core spreads
+// freely, but past R_SOFT a quadratic inward force reins in the leaves that
+// hub-damping would otherwise fling off-canvas — without it the bounding box is
+// dominated by a few far stragglers and the fitted map wastes half the frame.
+const R_SOFT = 620
+const BOUNDARY = 0.02
+// Isolated notes (the unlinked transcripts, degree 0) feel no springs, so with
+// uniform gravity they repel each other into a far ring that inflates the bbox
+// and shrinks the fitted map. Pull low-degree nodes toward the centre harder so
+// they nestle among the cloud; hubs (high degree) are barely affected.
+const ISO_PULL = 7
+// Both the homepage and the docked mini-map fit-to-view, so scaling the whole
+// layout up changes nothing on screen — only the *relative* spacing of dense vs
+// sparse regions does. A hub with 246 incident springs otherwise crushes its
+// neighbourhood into the central blob; damping each spring by the larger
+// endpoint degree lets sibling repulsion open those neighbourhoods out, which is
+// what actually spreads the map. 0 = raw FR (one tight hairball); 1 = full
+// normalisation (stars fly apart). 0.75 opens the core while keeping clusters legible.
+const HUB_DAMPING = 0.9
 
 function layout(nodes: GraphNode[], edges: GraphEdge[], stems: string[]): { xs: number[], ys: number[] } {
   const n = nodes.length
@@ -214,14 +233,24 @@ function layout(nodes: GraphNode[], edges: GraphEdge[], stems: string[]): { xs: 
     ys[i] = Math.sin(angle) * radius
   }
 
-  // Flatten edges into typed arrays for the spring pass.
+  // Flatten edges into typed arrays for the spring pass, plus a per-edge spring
+  // weight that damps springs attached to a hub (see HUB_DAMPING).
   const edgeCount = edges.length
   const edgeA = new Int32Array(edgeCount)
   const edgeB = new Int32Array(edgeCount)
+  const edgeW = new Float64Array(edgeCount)
   for (let e = 0; e < edgeCount; e++) {
-    edgeA[e] = edges[e]![0]
-    edgeB[e] = edges[e]![1]
+    const a = edges[e]![0]
+    const b = edges[e]![1]
+    edgeA[e] = a
+    edgeB[e] = b
+    const hub = Math.max(nodes[a]!.d, nodes[b]!.d, 1)
+    edgeW[e] = 1 / hub ** HUB_DAMPING
   }
+
+  // Per-node gravity multiplier: low-degree nodes are pulled in harder.
+  const gmul = new Float64Array(n)
+  for (let i = 0; i < n; i++) gmul[i] = 1 + ISO_PULL / (nodes[i]!.d + 1)
 
   const dispX = new Float64Array(n)
   const dispY = new Float64Array(n)
@@ -321,7 +350,7 @@ function layout(nodes: GraphNode[], edges: GraphEdge[], stems: string[]): { xs: 
         dist2 = 0.02
       }
       const dist = Math.sqrt(dist2)
-      const force = dist2 / IDEAL
+      const force = (dist2 / IDEAL) * edgeW[e]!
       const fx = (dx / dist) * force
       const fy = (dy / dist) * force
       dispX[a]! -= fx
@@ -330,11 +359,21 @@ function layout(nodes: GraphNode[], edges: GraphEdge[], stems: string[]): { xs: 
       dispY[b]! += fy
     }
 
-    // Weak pull toward the centroid, then move, clamped by the cooling temperature.
+    // Weak linear pull toward the centre, plus a quadratic soft wall past R_SOFT,
+    // then move, clamped by the cooling temperature.
     const temp = T0 * (1 - iter / ITERS) + TMIN
     for (let i = 0; i < n; i++) {
-      const dx = dispX[i]! - xs[i]! * CENTER_GRAVITY
-      const dy = dispY[i]! - ys[i]! * CENTER_GRAVITY
+      const g = CENTER_GRAVITY * gmul[i]!
+      let gx = xs[i]! * g
+      let gy = ys[i]! * g
+      const r = Math.sqrt(xs[i]! * xs[i]! + ys[i]! * ys[i]!)
+      if (r > R_SOFT) {
+        const over = (r - R_SOFT) * BOUNDARY
+        gx += (xs[i]! / r) * over
+        gy += (ys[i]! / r) * over
+      }
+      const dx = dispX[i]! - gx
+      const dy = dispY[i]! - gy
       const d = Math.sqrt(dx * dx + dy * dy)
       if (d < 1e-9) continue
       const scale = Math.min(d, temp) / d
@@ -343,6 +382,15 @@ function layout(nodes: GraphNode[], edges: GraphEdge[], stems: string[]): { xs: 
     }
   }
 
+  // GraphMap draws nodes at a FIXED pixel radius (radiusOf, not scaled by zoom),
+  // so a uniformly-scaled layout overlaps exactly the same after fit-to-view —
+  // the spring/repulsion balance alone leaves the dense core a pile of touching
+  // discs. Separate them explicitly: push any pair closer than their combined
+  // render radii (× SEP_K, in layout units) apart. Collision only fires in packed
+  // regions, so it inflates the core relative to the sparse rim, which is exactly
+  // what buys each core node more screen area once the map is fitted.
+  deoverlap(xs, ys, nodes)
+
   const outX = new Array<number>(n)
   const outY = new Array<number>(n)
   for (let i = 0; i < n; i++) {
@@ -350,6 +398,103 @@ function layout(nodes: GraphNode[], edges: GraphEdge[], stems: string[]): { xs: 
     outY[i] = Math.round(ys[i]! * 10) / 10
   }
   return { xs: outX, ys: outY }
+}
+
+// Node separation as a multiple of its on-screen render radius. GraphMap draws
+// r = clamp(3 + sqrt(deg)*1.15, 3, 14) px; SEP_K scales that into the layout-unit
+// keep-apart distance. Higher = airier map, fewer nodes per screenful.
+const SEP_K = 6.5
+const SEP_SWEEPS = 280
+const SEP_STRENGTH = 0.7
+
+/** The GraphMap render radius, in px — mirrored here so separation tracks it. */
+function renderRadius(degree: number): number {
+  const r = 3 + Math.sqrt(degree) * 1.15
+  return r < 3 ? 3 : r > 14 ? 14 : r
+}
+
+/**
+ * Iteratively push apart any two nodes closer than SEP_K × (their combined render
+ * radii). A uniform grid keeps it O(n) per sweep; the cell size is the largest
+ * possible keep-apart distance so a 3×3 neighbourhood always covers every clash.
+ */
+function deoverlap(xs: Float64Array, ys: Float64Array, nodes: GraphNode[]): void {
+  const n = nodes.length
+  const sep = new Float64Array(n)
+  let maxSep = 1
+  for (let i = 0; i < n; i++) {
+    sep[i] = renderRadius(nodes[i]!.d) * SEP_K
+    if (sep[i]! > maxSep) maxSep = sep[i]!
+  }
+  const cell = maxSep * 2
+  const cellX = new Int32Array(n)
+  const cellY = new Int32Array(n)
+  const cellId = new Int32Array(n)
+  const order = new Int32Array(n)
+
+  for (let sweep = 0; sweep < SEP_SWEEPS; sweep++) {
+    let minCX = Infinity
+    let minCY = Infinity
+    let maxCX = -Infinity
+    let maxCY = -Infinity
+    for (let i = 0; i < n; i++) {
+      const cx = Math.floor(xs[i]! / cell)
+      const cy = Math.floor(ys[i]! / cell)
+      cellX[i] = cx
+      cellY[i] = cy
+      if (cx < minCX) minCX = cx
+      if (cx > maxCX) maxCX = cx
+      if (cy < minCY) minCY = cy
+      if (cy > maxCY) maxCY = cy
+    }
+    const cols = maxCX - minCX + 1
+    const cellCount = cols * (maxCY - minCY + 1)
+    const starts = new Int32Array(cellCount + 1)
+    for (let i = 0; i < n; i++) {
+      const c = (cellY[i]! - minCY) * cols + (cellX[i]! - minCX)
+      cellId[i] = c
+      starts[c + 1]!++
+    }
+    for (let c = 1; c <= cellCount; c++) starts[c]! += starts[c - 1]!
+    const cursor = starts.slice(0, cellCount)
+    for (let i = 0; i < n; i++) order[cursor[cellId[i]!]!++] = i
+
+    for (let i = 0; i < n; i++) {
+      const cx = cellX[i]!
+      const cy = cellY[i]!
+      const gxLo = cx - 1 < minCX ? minCX : cx - 1
+      const gxHi = cx + 1 > maxCX ? maxCX : cx + 1
+      const gyLo = cy - 1 < minCY ? minCY : cy - 1
+      const gyHi = cy + 1 > maxCY ? maxCY : cy + 1
+      for (let gy = gyLo; gy <= gyHi; gy++) {
+        const rowBase = (gy - minCY) * cols - minCX
+        for (let gx = gxLo; gx <= gxHi; gx++) {
+          const end = starts[rowBase + gx + 1]!
+          for (let p = starts[rowBase + gx]!; p < end; p++) {
+            const j = order[p]!
+            if (j <= i) continue
+            let dx = xs[i]! - xs[j]!
+            let dy = ys[i]! - ys[j]!
+            let d = Math.sqrt(dx * dx + dy * dy)
+            const minD = sep[i]! + sep[j]!
+            if (d >= minD) continue
+            if (d < 1e-6) {
+              dx = ((i % 13) - 6) * 0.1 + 0.05
+              dy = ((j % 11) - 5) * 0.1 + 0.05
+              d = Math.sqrt(dx * dx + dy * dy)
+            }
+            const push = ((minD - d) * 0.5 * SEP_STRENGTH) / d
+            const px = dx * push
+            const py = dy * push
+            xs[i]! += px
+            ys[i]! += py
+            xs[j]! -= px
+            ys[j]! -= py
+          }
+        }
+      }
+    }
+  }
 }
 
 /** FNV-1a — a stable integer hash of a stem, seeding the PRNG. */
@@ -377,10 +522,16 @@ function mulberry32(seed: number): () => number {
 // Resolved against the rootDir (cwd) so it points at `<rootDir>/.data` in both
 // the config-load and Nitro-runtime contexts (see VAULT_DIR in ./vault).
 const CACHE_DIR = resolve(process.cwd(), '.data')
-const CACHE_FILE = resolve(CACHE_DIR, 'graph-layout.v1.json')
+const CACHE_FILE = resolve(CACHE_DIR, 'graph-layout.v2.json')
+
+// Folded into the cache key so any change to the force-layout tuning recomputes
+// instead of silently serving a layout produced by the old parameters.
+const LAYOUT_SIGNATURE = [IDEAL, CUTOFF, ITERS, T0, TMIN, CENTER_GRAVITY, R_INNER, R_OUTER, HUB_DAMPING, R_SOFT, BOUNDARY, ISO_PULL, SEP_K, SEP_SWEEPS, SEP_STRENGTH].join(',')
 
 function cacheKey(stems: string[], edges: GraphEdge[]): string {
   const h = createHash('sha1')
+  h.update(LAYOUT_SIGNATURE)
+  h.update('|')
   h.update(stems.join('\n'))
   h.update('|')
   h.update(edges.map(e => `${e[0]},${e[1]}`).join(';'))

@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import type { GraphNode } from '#shared/types/wiki'
-import { computed, watch } from 'vue'
+import { computed, ref, watch } from 'vue'
 
 const route = useRoute()
 const sidebarOpen = useSidebarOpen()
@@ -10,6 +10,16 @@ const isHome = computed(() => route.path === '/')
 // Close the mobile drawer whenever navigation happens.
 watch(() => route.path, () => {
   sidebarOpen.value = false
+})
+
+// The page scrolls inside <main>, not the window, so Nuxt's built-in scroll
+// restoration (which targets the window) can't reset it — a new entry would open
+// wherever the previous one was scrolled to. Reset the container to the top once
+// the incoming page has rendered. page:finish fires after the new page mounts,
+// so the scroll lands on the freshly swapped content, not the outgoing page.
+const mainRef = ref<HTMLElement | null>(null)
+useNuxtApp().hook('page:finish', () => {
+  mainRef.value?.scrollTo({ top: 0 })
 })
 
 function onSelect(node: GraphNode): void {
@@ -26,6 +36,7 @@ function onSelect(node: GraphNode): void {
       <AppTopBar />
 
       <main
+        ref="mainRef"
         class="relative min-h-0 flex-1"
         :class="isHome ? 'overflow-hidden' : 'overflow-y-auto'"
       >

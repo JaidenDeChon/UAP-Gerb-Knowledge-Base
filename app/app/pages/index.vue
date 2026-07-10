@@ -27,7 +27,7 @@ function onSelect(node: GraphNode): void {
     <GraphMap class="absolute inset-0" :active-path="null" :minimized="false" @select="onSelect" />
 
     <div
-      class="pointer-events-none absolute left-5 top-5 z-20 max-w-[calc(100vw-40px)] select-none rounded-lg border border-border bg-background/70 px-4 py-3.5 backdrop-blur-sm"
+      class="pointer-events-none absolute left-5 top-5 z-20 max-w-[calc(100vw-40px)] select-none rounded-lg border border-border/50 bg-background/70 px-4 py-3.5 backdrop-blur-sm"
     >
       <div class="flex items-center gap-2.5">
         <span class="grid size-[30px] shrink-0 place-items-center rounded-full border-2 border-primary">

@@ -1,6 +1,11 @@
+/* MUST stay first. A CSS @import is only honoured while it precedes every other
+   rule; the Tailwind Vite plugin inlines `@import "tailwindcss"` into thousands
+   of rules at build time, so a font @import placed after it lands mid-stylesheet
+   and the browser silently drops it — which fell every face back to a system
+   font (the display face read as .SF NS, not Chakra Petch). */
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,400..800;1,14..32,400..600&family=Chakra+Petch:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap");
 @import "tailwindcss";
 @import "tw-animate-css";
-@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,400..800;1,14..32,400..600&family=Chakra+Petch:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap");
 
 /* Dark utilities respond to data-theme, never a .dark class. Both dark-family
    themes (dark + dim) opt in. */

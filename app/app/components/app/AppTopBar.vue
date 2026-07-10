@@ -13,7 +13,7 @@ const title = computed(() => pageTitle.value || (route.path === '/' ? 'Field Map
 
 <template>
   <header
-    class="sticky top-0 z-40 flex h-14 shrink-0 items-center gap-3 border-b bg-background/80 px-4 backdrop-blur-[8px]"
+    class="sticky top-0 z-40 flex h-14 shrink-0 items-center gap-3 border-b border-border/50 bg-background/80 px-4 backdrop-blur-[8px]"
   >
     <Button
       class="ufo-menu-btn"
@@ -40,7 +40,7 @@ const title = computed(() => pageTitle.value || (route.path === '/' ? 'Field Map
     <Button
       variant="outline"
       size="sm"
-      class="text-muted-foreground"
+      class="border-border/50 text-muted-foreground"
       aria-label="Search entries"
       @click="commandOpen = true"
     >

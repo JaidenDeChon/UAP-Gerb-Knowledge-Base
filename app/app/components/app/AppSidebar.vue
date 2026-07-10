@@ -8,7 +8,7 @@ const isHome = computed(() => route.path === '/')
 </script>
 
 <template>
-  <aside class="flex h-full w-[280px] shrink-0 flex-col border-r bg-card">
+  <aside class="flex h-full w-[280px] shrink-0 flex-col border-r border-border/50 bg-card">
     <div class="px-4 pb-3 pt-4">
       <AppBrand />
     </div>
@@ -28,13 +28,13 @@ const isHome = computed(() => route.path === '/')
       </NuxtLink>
     </div>
 
-    <Separator />
+    <Separator class="bg-border/50" />
 
     <div class="min-h-0 flex-1 overflow-y-auto px-3 py-2">
       <AppSidebarTree />
     </div>
 
-    <div class="border-t p-3">
+    <div class="border-t border-border/50 p-3">
       <div class="mb-2 font-sans text-[11px] font-semibold uppercase tracking-[0.04em] text-muted-foreground">
         Appearance
       </div>
