@@ -9,8 +9,9 @@ const route = useRoute()
 const sidebarOpen = useSidebarOpen()
 const localMapEnabled = useLocalMapEnabled()
 
-// The full-screen graph lives at /map; everything else scrolls its content.
-const isMap = computed(() => route.path === '/map')
+// The full-screen graph lives at /map (and its renderer test routes under
+// /map/*); everything else scrolls its content.
+const isMap = computed(() => route.path === '/map' || route.path.startsWith('/map/'))
 
 // The docked local map is an article aid — show it on wiki pages when enabled.
 const showLocalMap = computed(() => localMapEnabled.value && route.path.startsWith('/wiki'))
