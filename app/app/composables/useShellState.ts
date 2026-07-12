@@ -17,17 +17,3 @@ export function useSidebarOpen() {
 export function useCommandOpen() {
   return useState<boolean>('shell:command', () => false)
 }
-
-/**
- * User preference: show the docked local map on article pages. Persisted so the
- * choice survives reloads. Toggled from the sidebar's Appearance section and by
- * the local map's own close button.
- */
-export function useLocalMapEnabled() {
-  return useCookie<boolean>('uapgdb-local-map', {
-    default: () => true,
-    sameSite: 'lax',
-    maxAge: 60 * 60 * 24 * 365,
-    watch: true,
-  })
-}

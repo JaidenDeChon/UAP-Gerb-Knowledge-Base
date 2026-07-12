@@ -1,29 +1,24 @@
 <script setup lang="ts">
 import type { GraphNode } from '#shared/types/wiki'
-import { Maximize2, X } from '@lucide/vue'
+import { Maximize2 } from '@lucide/vue'
 import { buttonVariants } from '@/components/ui/button'
 import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from '@/components/ui/dialog'
 
 /**
  * The article's local map, in the content flow: the current note's
- * neighbourhood in the knowledge graph, rendered beneath the article body and
- * above the linked-entries section. Square on phones, 3:2 from tablet width
- * up. Replaces the old floating/draggable dock.
+ * neighbourhood in the knowledge graph, rendered right above the article
+ * body. Square on phones, 3:2 from tablet width up.
  *
  * Hidden entirely when the note isn't in the graph (e.g. video transcripts):
  * GraphMap would otherwise fall back to rendering the whole site map inside
- * the widget. The user preference from the sidebar ("Show local map on
- * articles") gates it too, and the header's × writes that same preference.
+ * the widget.
  */
 const props = defineProps<{ path: string }>()
 
-const localMapEnabled = useLocalMapEnabled()
 const { data: graph } = useGraph()
 
-const inGraph = computed(() =>
+const show = computed(() =>
   graph.value?.nodes.some(n => n.p === props.path) ?? false)
-
-const show = computed(() => localMapEnabled.value && inGraph.value)
 
 const dialogOpen = ref(false)
 
@@ -44,24 +39,14 @@ function onDialogSelect(node: GraphNode): void {
         <span class="font-mono text-[11px] font-semibold uppercase tracking-[0.08em] text-muted-foreground">
           Local map
         </span>
-        <div class="flex items-center gap-0.5">
-          <button
-            type="button"
-            class="inline-flex size-6 items-center justify-center rounded-md text-muted-foreground hover:bg-accent hover:text-foreground"
-            aria-label="Expand the local map"
-            @click="dialogOpen = true"
-          >
-            <Maximize2 :size="13" />
-          </button>
-          <button
-            type="button"
-            class="inline-flex size-6 items-center justify-center rounded-md text-muted-foreground hover:bg-accent hover:text-foreground"
-            aria-label="Hide the local map on articles"
-            @click="localMapEnabled = false"
-          >
-            <X :size="14" />
-          </button>
-        </div>
+        <button
+          type="button"
+          class="inline-flex size-6 items-center justify-center rounded-md text-muted-foreground hover:bg-accent hover:text-foreground"
+          aria-label="Expand the local map"
+          @click="dialogOpen = true"
+        >
+          <Maximize2 :size="13" />
+        </button>
       </div>
 
       <div class="relative aspect-square md:aspect-[3/2]">

@@ -87,11 +87,11 @@ const article = computed<{ lead: string, doc: WikiPage | null }>(() => {
 
     <WikiFactTable :page="page" />
 
+    <WikiLocalMap :path="route.path" />
+
     <ContentRenderer v-if="article.doc" :value="article.doc" class="prose-ufo wiki-prose" />
 
     <Separator class="my-8" />
-
-    <WikiLocalMap :path="route.path" />
 
     <WikiLinkedEntries :path="route.path" />
   </article>
