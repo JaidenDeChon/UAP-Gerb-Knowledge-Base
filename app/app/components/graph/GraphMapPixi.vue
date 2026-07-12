@@ -16,16 +16,14 @@ import { CATEGORY_COLOR_VAR, CATEGORY_LEGEND_ORDER, nodeRadius, pickNode, readCa
  * that anchor. Collision keeps nodes apart, so the graph settles into loose
  * per-type clusters that together fill the available space. The camera keeps
  * fitting the view to the live layout only during the initial settle (and
- * explicit restarts); once it cools — or the user pans, zooms, or grabs a
- * node — the camera holds still, so physics-slider tweaks visibly reshape the
- * layout in place.
+ * explicit restarts); once it cools — or the user pans or zooms — the camera
+ * holds still, so physics-slider tweaks visibly reshape the layout in place.
  *
  * Stability: the springs are the reason earlier versions shook. d3's default
  * link strength is `1/min(deg)` — a hub–leaf link gets strength 1, so hundreds
  * of stiff springs yank leaves into a hub while charge throws them back out.
- * Links are damped by the *larger* endpoint degree instead, velocity decay is
- * raised, and dragging uses the alphaTarget pattern rather than re-spiking
- * alpha every pointermove.
+ * Links are damped by the *larger* endpoint degree instead, and velocity
+ * decay is raised.
  *
  * Nodes are sprites sharing one circle texture (a single instanced batch on
  * the GPU) tinted per category; edges are one Graphics mesh (retained while
@@ -126,16 +124,9 @@ let hoverPos: { x: number, y: number } | null = null
 
 /* ---------------------------------------------------- pointer interaction -- */
 
-// Node dragging (physics only) is resolved before the camera sees the event;
-// anything that misses a node falls through to pan/zoom/tap as usual. The drag
-// owns exactly one pointer (dragPointerId) — every other pointer keeps routing
-// to the camera, otherwise a second finger's up would be swallowed here and
-// leak a phantom entry in the camera's pointer map.
-let dragIndex: number | null = null
-let dragPointerId: number | null = null
-let dragTravel = 0
-let dragLastX = 0
-let dragLastY = 0
+// Dragging is maneuvering only: every pointer routes to the camera (pan,
+// pinch, tap). Nodes can't be grabbed or repositioned — they respond to taps
+// and hovers alone.
 
 /**
  * Touch has no hover, so a tap stands in for it: the first tap on a node pins
@@ -181,11 +172,6 @@ const camera = useMapCamera(containerRef, {
   },
 })
 
-function localPoint(e: PointerEvent): { x: number, y: number } {
-  const rect = containerRef.value?.getBoundingClientRect()
-  return rect ? { x: e.clientX - rect.left, y: e.clientY - rect.top } : { x: e.clientX, y: e.clientY }
-}
-
 function hitTest(sx: number, sy: number): number | null {
   const p = payload.value
   if (!p) return null
@@ -196,66 +182,9 @@ function hitTest(sx: number, sy: number): number | null {
 function onPointerDown(e: PointerEvent): void {
   lastPointerType = e.pointerType
   // A stale mouse hoverPos would immediately override the pin a touch tap is
-  // about to set (hybrid devices) — the camera clears it for pointers it sees,
-  // but the node-drag branch below returns before the camera ever does.
+  // about to set (hybrid devices).
   if (e.pointerType !== 'mouse') hoverPos = null
-  if (dragIndex == null && physicsOn.value && sim && (e.pointerType !== 'mouse' || e.button === 0)) {
-    const { x, y } = localPoint(e)
-    const i = hitTest(x, y)
-    if (i != null) {
-      dragIndex = i
-      dragPointerId = e.pointerId
-      dragTravel = 0
-      dragLastX = e.clientX
-      dragLastY = e.clientY
-      ;(e.currentTarget as Element).setPointerCapture(e.pointerId)
-      // Grabbing a node ends the auto-fit phase: the camera must hold still
-      // under the user's hand from here on.
-      camera.userAdjusted.value = true
-      sim.alphaTarget(0.15)
-      sim.alpha(Math.max(sim.alpha(), 0.3))
-      dirty = true
-      return
-    }
-  }
   camera.handlers.onPointerDown(e)
-}
-
-function onPointerMove(e: PointerEvent): void {
-  if (dragIndex != null && e.pointerId === dragPointerId && sim) {
-    dragTravel += Math.abs(e.clientX - dragLastX) + Math.abs(e.clientY - dragLastY)
-    dragLastX = e.clientX
-    dragLastY = e.clientY
-    const { x, y } = localPoint(e)
-    const node = simNodes![dragIndex]!
-    // Subtract any hover-spread display offset so the node's *displayed*
-    // position lands under the cursor, not offset from it.
-    node.fx = (x - camera.pan.value.x) / camera.k.value - (offX[dragIndex] ?? 0)
-    node.fy = (y - camera.pan.value.y) / camera.k.value - (offY[dragIndex] ?? 0)
-    dirty = true
-    return
-  }
-  camera.handlers.onPointerMove(e)
-}
-
-function onPointerUp(e: PointerEvent): void {
-  if (dragIndex != null && e.pointerId === dragPointerId) {
-    const i = dragIndex
-    dragIndex = null
-    dragPointerId = null
-    const node = simNodes?.[i]
-    if (node) {
-      node.fx = null
-      node.fy = null
-    }
-    sim?.alphaTarget(0)
-    const el = e.currentTarget as Element
-    if (el.hasPointerCapture(e.pointerId)) el.releasePointerCapture(e.pointerId)
-    // A cancelled pointer (OS gesture stole it) must not read as a tap.
-    if (dragTravel < 5 && e.type !== 'pointercancel') nodeTapped(i)
-    return
-  }
-  camera.handlers.onPointerUp(e)
 }
 
 /** Pointer is over an overlay card — whatever node was hovered (or touch-pinned) no longer is. */
@@ -1130,7 +1059,7 @@ function update(ticker?: any): void {
     // user takes the camera (see autoFit). The fit GLIDES toward its target
     // rather than snapping every frame — during the staged grow-in the bounds
     // expand in steps, and a hard per-frame fit read as zoom jumps.
-    if (autoFit && !camera.userAdjusted.value && dragIndex == null) {
+    if (autoFit && !camera.userAdjusted.value) {
       camera.fitTo(currentBounds(), FIT_PAD, 1 - 0.92 ** (ticker?.deltaTime ?? 1))
     }
   }
@@ -1379,9 +1308,9 @@ onBeforeUnmount(() => {
     role="application"
     aria-label="Knowledge graph rendered with Pixi.js WebGL"
     @pointerdown="onPointerDown"
-    @pointermove="onPointerMove"
-    @pointerup="onPointerUp"
-    @pointercancel="onPointerUp"
+    @pointermove="camera.handlers.onPointerMove"
+    @pointerup="camera.handlers.onPointerUp"
+    @pointercancel="camera.handlers.onPointerUp"
     @pointerleave="camera.handlers.onPointerLeave"
     @wheel.prevent="camera.handlers.onWheel"
   >
@@ -1516,7 +1445,7 @@ onBeforeUnmount(() => {
           </span>
         </button>
         <p class="mt-1 font-sans text-[11px] leading-4 text-muted-foreground">
-          {{ physicsOn ? 'Live d3-force layout, clustered by type — drag nodes to stir it.' : 'Layout frozen in place — turn physics on to stir it.' }}
+          {{ physicsOn ? 'Live d3-force layout, clustered by type — tune it with the sliders.' : 'Layout frozen in place — turn physics on to stir it.' }}
         </p>
 
         <div class="mt-3 flex flex-col gap-2.5" :class="physicsOn ? '' : 'pointer-events-none opacity-40'">
