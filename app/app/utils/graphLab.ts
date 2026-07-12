@@ -80,21 +80,21 @@ export const CATEGORY_COLOR_VAR: Record<Category, string> = {
 
 /** Light-theme values, doubling as SSR/no-canvas fallbacks. */
 const CATEGORY_FALLBACK: Record<Category, string> = {
-  Root: '#008300',
-  MOCs: '#008300',
-  People: '#2a78d6',
-  Organizations: '#eda100',
-  Operations: '#e34948',
-  Events: '#4a3aa7',
-  Locations: '#1baf7a',
+  Root: '#697586',
+  MOCs: '#697586',
+  People: '#cb564d',
+  Organizations: '#3158d8',
+  Operations: '#238b87',
+  Events: '#7439c6',
+  Locations: '#6d8722',
   Concepts: '#e87ba4',
-  Videos: '#eb6834',
+  Videos: '#b7bbc2',
 }
 
 /**
- * Legend display order. Not CATEGORY_ORDER: this sequence is the one validated
- * for color-vision-deficiency separation of *adjacent* swatches (the palette's
- * slot order), so neighbouring legend rows never carry confusable hues.
+ * Legend display order (also the order the cluster anchors are laid out in) —
+ * kept apart from CATEGORY_ORDER so hue-similar rows/clusters can be spaced
+ * away from each other.
  */
 export const CATEGORY_LEGEND_ORDER: Category[] = [
   'People',
