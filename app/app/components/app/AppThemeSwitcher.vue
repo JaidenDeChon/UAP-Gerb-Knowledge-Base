@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import type { Component } from 'vue'
 import { computed, ref } from 'vue'
-import { BookOpen, Check, ChevronsUpDown, CloudMoon, Moon, Sun } from '@lucide/vue'
+import { Check, ChevronsUpDown, CloudMoon, CloudSun, Moon, Sun } from '@lucide/vue'
 import { Button } from '@/components/ui/button'
 import { Popover, PopoverContent, PopoverTrigger } from '@/components/ui/popover'
 import { THEMES, useTheme, type ThemeId } from '~/composables/useTheme'
@@ -15,7 +15,7 @@ const open = ref(false)
 
 const THEME_ICON: Record<ThemeId, Component> = {
   light: Sun,
-  sepia: BookOpen,
+  sepia: CloudSun,
   dim: CloudMoon,
   dark: Moon,
 }

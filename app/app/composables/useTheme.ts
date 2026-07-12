@@ -14,7 +14,7 @@ export interface ThemeMeta {
 // the theme cookie and matched by the [data-theme] CSS selectors.
 export const THEMES: readonly ThemeMeta[] = [
   { id: 'light', label: 'White Light', icon: 'sun' },
-  { id: 'sepia', label: 'Majestic', icon: 'book-open' },
+  { id: 'sepia', label: 'Majestic', icon: 'cloud-sun' },
   { id: 'dim', label: 'Night Ops', icon: 'cloud-moon' },
   { id: 'dark', label: 'Black Program', icon: 'moon' },
 ]

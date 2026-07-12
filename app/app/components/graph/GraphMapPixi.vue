@@ -577,8 +577,6 @@ function stepBuild(deltaMS: number): void {
     activeNodes.push(simNodes[i])
     sprites[i]!.visible = true
     sprites[i]!.alpha = 0
-    rings[i]!.visible = true
-    rings[i]!.alpha = 0
     fadingNodes.add(i)
     for (const e of incident[i] ?? []) {
       const l = linkObjs[e]!
@@ -835,8 +833,6 @@ function settleStatic(): void {
   for (let i = 0; i < n; i++) {
     sprites[i]!.visible = true
     sprites[i]!.alpha = 1
-    rings[i]!.visible = true
-    rings[i]!.alpha = 1
   }
   sim.nodes(activeNodes)
   sim.force('link').links(activeLinks)
@@ -969,9 +965,11 @@ function buildSceneIfReady(): void {
   neighbourPlates.value = []
   for (let i = 0; i < p.nodes.length; i++) {
     const n = p.nodes[i]!
+    // The ring exists only as the hover/pin halo — hidden until focused.
     const ring = new PIXI.Sprite(circleTex)
     ring.anchor.set(0.5)
     ring.position.set(n.x, n.y)
+    ring.visible = false
     ringLayer.addChild(ring)
     rings[i] = ring
 
@@ -1145,10 +1143,14 @@ function update(ticker?: any): void {
       s.scale.set((r * 2) / 128 / k)
       s.alpha = dimmed && !lit ? 0.28 : 1
       s.tint = nodeTint[i] ?? palette.node
+      // Rings render only as the focus halo — nodes carry no resting border.
       const ring = rings[i]!
-      ring.scale.set(((r + 2) * 2) / 128 / k)
-      ring.alpha = dimmed && !lit ? 0.28 : 1
-      ring.tint = i === focus ? palette.primary : palette.background
+      ring.visible = i === focus
+      if (i === focus) {
+        ring.scale.set(((r + 2) * 2) / 128 / k)
+        ring.alpha = 1
+        ring.tint = palette.primary
+      }
     }
   }
 
@@ -1160,7 +1162,6 @@ function update(ticker?: any): void {
       const f = Math.min(1, fadeA[i]! + dms / FADE_MS)
       fadeA[i] = f
       sprites[i]!.alpha = f
-      rings[i]!.alpha = f
       if (f >= 1) fadingNodes.delete(i)
     }
   }
