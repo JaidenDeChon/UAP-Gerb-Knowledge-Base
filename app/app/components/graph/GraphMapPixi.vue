@@ -129,32 +129,33 @@ let hoverPos: { x: number, y: number } | null = null
 // and hovers alone.
 
 /**
- * Touch has no hover, so a tap stands in for it: the first tap on a node pins
- * the hover state open (fan + name plates) so it can be read; a tap on empty
- * map clears it; tapping the pinned node again — or one of its fanned
- * neighbours, only while pinned — follows the link like a mouse click would.
- * Mouse taps keep their one-click-navigates behavior.
+ * One interaction model for mouse and touch:
+ *
+ * - Hovering a node highlights it and its links in place — neighbours light
+ *   up and show their labels at their true positions, nothing moves. The
+ *   hover ends the moment the pointer leaves the node (no grace zone).
+ * - Clicking/tapping a node PINS it: the neighbourhood fans out into rings
+ *   with name plates (`pinned`). Clicking the pinned node again — or one of
+ *   its fanned neighbours — follows the link; clicking a different node moves
+ *   the pin there; clicking blank map closes it.
  */
-let pinnedFocus: number | null = null
-let lastPointerType = 'mouse'
+const pinned = shallowRef<number | null>(null)
+/** Pointer currently over a node — drives the cursor, even while pinned. */
+const overNode = shallowRef(false)
 
 function setPin(i: number | null): void {
-  if (pinnedFocus === i) return
-  pinnedFocus = i
+  if (pinned.value === i) return
+  pinned.value = i
   focusDirty = true
   dirty = true
 }
 
 function nodeTapped(i: number | null): void {
-  if (lastPointerType === 'mouse') {
-    if (i != null && payload.value) emit('select', payload.value.nodes[i]!)
-    return
-  }
   if (i == null) {
     setPin(null)
     return
   }
-  if (pinnedFocus != null && (i === pinnedFocus || activeNeighbours(pinnedFocus).includes(i))) {
+  if (pinned.value != null && (i === pinned.value || activeNeighbours(pinned.value).includes(i))) {
     if (payload.value) emit('select', payload.value.nodes[i]!)
     return
   }
@@ -179,18 +180,9 @@ function hitTest(sx: number, sy: number): number | null {
   return pickDisplayed(src, sx, sy)
 }
 
-function onPointerDown(e: PointerEvent): void {
-  lastPointerType = e.pointerType
-  // A stale mouse hoverPos would immediately override the pin a touch tap is
-  // about to set (hybrid devices).
-  if (e.pointerType !== 'mouse') hoverPos = null
-  camera.handlers.onPointerDown(e)
-}
-
-/** Pointer is over an overlay card — whatever node was hovered (or touch-pinned) no longer is. */
+/** Pointer is over an overlay card — plain hover ends; a pin stays put. */
 function clearNodeHover(): void {
   hoverPos = null
-  pinnedFocus = null
   focusDirty = true
   dirty = true
 }
@@ -270,7 +262,9 @@ let spreadAng = new Float64Array(0)
 /** Nodes with a non-zero offset or target — the only ones touched per frame. */
 const spreadActive = new Set<number>()
 let spreadSettled = true
-let spreadRadiusPx = 0 // outermost ring in screen px — the hover grace zone
+let spreadRadiusPx = 0 // outermost ring in screen px
+/** True while the pinned fan-out is displayed (plates, spread offsets). */
+let spreadMode = false
 
 /** HTML title panel for the hovered node (replaces its Pixi label). */
 const hoverPanelRef = ref<HTMLElement | null>(null)
@@ -320,56 +314,25 @@ function pickDisplayed(src: any[], sx: number, sy: number): number | null {
   return best
 }
 
-// Hover grace: once a node is fanned open, the hover survives only close to
-// the focus node itself, or along the corridor to each fanned neighbour (a
-// capsule from the focus to just past the neighbour, covering its name
-// plate). The old grace zone — a disc out to the outermost spread ring — kept
-// the hover alive across the whole neighbourhood's empty space, long after
-// the pointer had visibly left it.
-const GRACE_CORE = 44 // px beyond the focus node's radius
-const GRACE_HALF = 38 // capsule half-width around each corridor
-const GRACE_PLATE = 92 // px the corridor extends past a neighbour, under its plate
-
-/** The retained focus if the pointer is still within the grace shape, else null. */
-function graceFocus(src: any[]): number | null {
-  if (focus == null || hoverPos == null || spreadRadiusPx <= 0) return null
-  const { x: px, y: py } = camera.pan.value
-  const k = camera.k.value
-  const nf = src[focus]!
-  const fx = px + (nf.x + offX[focus]!) * k
-  const fy = py + (nf.y + offY[focus]!) * k
-  const dx0 = hoverPos.x - fx
-  const dy0 = hoverPos.y - fy
-  const core = nodeRadius(payload.value!.nodes[focus]!.d) + 3 + GRACE_CORE
-  if (dx0 * dx0 + dy0 * dy0 <= core * core) return focus
-
-  for (const j of activeNeighbours(focus)) {
-    const nj = src[j]!
-    const ex = px + (nj.x + offX[j]!) * k + Math.cos(spreadAng[j]!) * GRACE_PLATE - fx
-    const ey = py + (nj.y + offY[j]!) * k + Math.sin(spreadAng[j]!) * GRACE_PLATE - fy
-    const len2 = ex * ex + ey * ey
-    const t = len2 > 0 ? Math.max(0, Math.min(1, (dx0 * ex + dy0 * ey) / len2)) : 0
-    const ddx = dx0 - ex * t
-    const ddy = dy0 - ey * t
-    if (ddx * ddx + ddy * ddy <= GRACE_HALF * GRACE_HALF) return focus
-  }
-  return null
-}
-
-/**
- * Compute each neighbour's spread target around the hovered node. Slots are
- * built ring by ring (capacity grows with circumference, quotas spread
- * proportionally so the outer ring isn't left nearly empty), then sorted by
- * angle and matched to the neighbours sorted by their true bearing — the
- * cyclic order is preserved, so the fan-out neither crosses nor travels far.
- */
-function setSpreadTargets(src: any[]): void {
+/** Send every active spread offset home; the lerp retracts the fan. */
+function clearSpreadTargets(): void {
   for (const i of spreadActive) {
     tgtX[i] = 0
     tgtY[i] = 0
   }
   spreadRadiusPx = 0
   spreadSettled = false
+}
+
+/**
+ * Compute each neighbour's spread target around the pinned node. Slots are
+ * built ring by ring (capacity grows with circumference, quotas spread
+ * proportionally so the outer ring isn't left nearly empty), then sorted by
+ * angle and matched to the neighbours sorted by their true bearing — the
+ * cyclic order is preserved, so the fan-out neither crosses nor travels far.
+ */
+function setSpreadTargets(src: any[]): void {
+  clearSpreadTargets()
   if (focus == null) return
   const nbrs = activeNeighbours(focus)
   const n = nbrs.length
@@ -446,10 +409,10 @@ function activeNeighbours(i: number): number[] {
   return nbrs.filter(j => activeFlag[j])
 }
 
-/** Rebuild the neighbour-plate list for the current focus. */
+/** Rebuild the neighbour-plate list — plates exist only in the pinned fan. */
 function syncPlates(): void {
   const p = payload.value
-  if (!p || focus == null) {
+  if (!p || focus == null || !spreadMode) {
     neighbourPlates.value = []
     return
   }
@@ -562,8 +525,8 @@ function beginBuild(): void {
   sim.force('link').links(activeLinks)
   sim.alpha(0.5)
   building = true
-  // A pinned hover can't survive a rebuild — its neighbourhood is regrowing.
-  pinnedFocus = null
+  // A pinned fan can't survive a rebuild — its neighbourhood is regrowing.
+  pinned.value = null
 }
 
 /** Move one per-frame batch of nodes (and their completed links) into the sim. */
@@ -1079,22 +1042,19 @@ function update(ticker?: any): void {
   world.scale.set(k)
 
   {
-    let next: number | null
-    if (hoverPos) {
-      // A live mouse hover takes over from (and clears) any touch pin.
-      pinnedFocus = null
-      next = pickDisplayed(src, hoverPos.x, hoverPos.y)
-      // The grace corridors keep the hover alive while the pointer travels
-      // out to a fanned neighbour (see graceFocus).
-      if (next == null) next = graceFocus(src)
-    }
-    else {
-      next = pinnedFocus // a touch-pinned hover persists with no pointer down
-    }
-    if (next !== focus) {
+    // The pin owns the focus while set; plain hover otherwise. Hover has no
+    // grace zone — leaving the node ends it — and the fan-out (spread mode)
+    // exists only while pinned.
+    const hoverHit = hoverPos ? pickDisplayed(src, hoverPos.x, hoverPos.y) : null
+    overNode.value = hoverHit != null
+    const next = pinned.value ?? hoverHit
+    const mode = pinned.value != null
+    if (next !== focus || mode !== spreadMode) {
       focus = next
+      spreadMode = mode
       focusDirty = true
-      setSpreadTargets(src)
+      if (spreadMode) setSpreadTargets(src)
+      else clearSpreadTargets()
       syncPlates()
     }
   }
@@ -1191,17 +1151,19 @@ function update(ticker?: any): void {
   const staged = physicsOn.value && activeFlag.length === p.nodes.length
   for (let i = 0; i < p.nodes.length; i++) {
     const existing = labels[i]
-    // The hovered node and its fanned neighbours use HTML name plates instead
-    // of Pixi labels while the hover is active. Nodes the staged build hasn't
-    // added yet have nothing to label.
-    if (i === focus || (focus != null && neighbours!.has(i)) || (staged && !activeFlag[i])) {
+    const focusish = focus != null && (i === focus || neighbours!.has(i))
+    // In the pinned fan the focus neighbourhood uses HTML name plates instead
+    // of Pixi labels. Nodes the staged build hasn't added yet have nothing to
+    // label.
+    if ((spreadMode && focusish) || (staged && !activeFlag[i])) {
       if (existing) existing.visible = false
       continue
     }
-    let show = false
+    // Plain hover reveals the neighbourhood's labels in place at any zoom.
+    let show = focusish
     const nx = src[i]!.x + offX[i]!
     const ny = src[i]!.y + offY[i]!
-    if (zoomLabels) {
+    if (!show && zoomLabels) {
       const sx = px + nx * k
       const sy = py + ny * k
       show = sx >= -margin && sx <= w + margin && sy >= -margin && sy <= h + margin
@@ -1217,10 +1179,10 @@ function update(ticker?: any): void {
     t.position.set(nx, ny + (r + 2) / k)
   }
 
-  // The blurred HTML title panel tracks the hovered node's screen position;
-  // v-show (via hoverIndex) owns its visibility.
+  // The blurred HTML title panel tracks the pinned node's screen position;
+  // v-show (via `pinned`) owns its visibility.
   const panel = hoverPanelRef.value
-  if (panel && focus != null) {
+  if (panel && focus != null && spreadMode) {
     const nf = src[focus]!
     const pr = nodeRadius(p.nodes[focus]!.d) + 3
     panel.style.transform = `translate(${px + nf.x * k}px, ${py + nf.y * k + pr + 7}px) translateX(-50%)`
@@ -1305,10 +1267,10 @@ onBeforeUnmount(() => {
   <div
     ref="containerRef"
     class="relative h-full w-full overflow-hidden bg-background"
-    :style="{ cursor: camera.grabbing.value ? 'grabbing' : hoverIndex != null ? 'pointer' : 'grab', touchAction: 'none' }"
+    :style="{ cursor: camera.grabbing.value ? 'grabbing' : overNode ? 'pointer' : 'grab', touchAction: 'none' }"
     role="application"
     aria-label="Knowledge graph rendered with Pixi.js WebGL"
-    @pointerdown="onPointerDown"
+    @pointerdown="camera.handlers.onPointerDown"
     @pointermove="camera.handlers.onPointerMove"
     @pointerup="camera.handlers.onPointerUp"
     @pointercancel="camera.handlers.onPointerUp"
@@ -1336,7 +1298,7 @@ onBeforeUnmount(() => {
     <!-- Hovered node's title — HTML so it can sit on a blurred panel; positioned
          imperatively (style.transform) from the render loop every frame. -->
     <div
-      v-show="hoverIndex != null"
+      v-show="pinned != null"
       ref="hoverPanelRef"
       class="pointer-events-none absolute left-0 top-0 z-10 select-none whitespace-nowrap rounded-lg border border-border/50 bg-background/60 px-2.5 py-1 backdrop-blur-xl"
       style="will-change: transform"
