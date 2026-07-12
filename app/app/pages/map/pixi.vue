@@ -22,8 +22,8 @@ function onSelect(node: GraphNode): void {
 
     <GraphMapLabHud
       title="Pixi.js WebGL"
-      engine="Home-brew renderer on Pixi.js v8 — the engine Obsidian's graph view uses"
-      hint="Static layout, GPU-rendered: nodes are one instanced sprite batch, edges one retained mesh. Hover to highlight, click to open."
+      engine="Home-brew renderer on Pixi.js v8 + d3-force — Obsidian's combination (WebGL + live physics)"
+      hint="Use the panel to toggle physics vs the baked layout and tune the simulation. With physics on, drag nodes to stir it. Hover to highlight, click to open."
     />
   </div>
 </template>

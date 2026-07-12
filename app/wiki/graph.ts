@@ -46,11 +46,21 @@ export function buildLinkMap(): Map<string, DirectedLinks> {
 
 /* --------------------------------------------------------------- building -- */
 
+/**
+ * Video transcripts stay out of the knowledge graph: they're raw caption
+ * dumps, not curated notes, and as (mostly) unlinked degree-0 nodes they only
+ * pad the map with noise. They remain in the sidebar tree and readable as
+ * pages — this filter is scoped to the graph payload and its link sidecars.
+ */
+function isTranscript(stem: string): boolean {
+  return stem.startsWith('Videos/') && stem.endsWith('/transcript')
+}
+
 function build(): GraphIndex {
   const index = buildVaultIndex()
   // Sorted so the node order — and therefore the layout cache key — is stable
   // regardless of the filesystem's readdir order.
-  const stems = walkVault().slice().sort()
+  const stems = walkVault().filter(stem => !isTranscript(stem)).sort()
 
   const nodes: GraphNode[] = stems.map((stem, i) => ({
     i,
@@ -197,10 +207,10 @@ const R_OUTER = 1600
 // dominated by a few far stragglers and the fitted map wastes half the frame.
 const R_SOFT = 620
 const BOUNDARY = 0.02
-// Isolated notes (the unlinked transcripts, degree 0) feel no springs, so with
-// uniform gravity they repel each other into a far ring that inflates the bbox
-// and shrinks the fitted map. Pull low-degree nodes toward the centre harder so
-// they nestle among the cloud; hubs (high degree) are barely affected.
+// Isolated notes (degree 0 — stubs nothing links to yet) feel no springs, so
+// with uniform gravity they repel each other into a far ring that inflates the
+// bbox and shrinks the fitted map. Pull low-degree nodes toward the centre
+// harder so they nestle among the cloud; hubs (high degree) are barely affected.
 const ISO_PULL = 7
 // Both the homepage and the docked mini-map fit-to-view, so scaling the whole
 // layout up changes nothing on screen — only the *relative* spacing of dense vs
