@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import type { Category, GraphEdge, GraphNode, GraphPayload } from '#shared/types/wiki'
-import { RotateCcw } from '@lucide/vue'
+import { Key, RotateCcw, Wrench, X } from '@lucide/vue'
 import { buildAdjacency } from '~/utils/graph'
 import { CATEGORY_COLOR_VAR, CATEGORY_LEGEND_ORDER, nodeRadius, pickNode, readCategoryColors, readGraphPalette, type GraphPalette } from '~/utils/graphLab'
 
@@ -106,6 +106,17 @@ const labelsOn = shallowRef(true)
 /** Hovered legend row — dims every node outside that category. */
 const catFocus = shallowRef<Category | null>(null)
 
+// The overlay cards collapse to icon buttons (key above wrench, top right).
+// They start open where there's room and closed on phone-sized screens;
+// initialized in onMounted — the overlays are v-if="ready", so no SSR concern.
+const controlsOpen = shallowRef(true)
+const legendOpen = shallowRef(true)
+
+function closeLegend(): void {
+  legendOpen.value = false
+  catFocus.value = null
+}
+
 let dirty = true
 let kDirty = true
 let focusDirty = true
@@ -125,10 +136,42 @@ let dragTravel = 0
 let dragLastX = 0
 let dragLastY = 0
 
+/**
+ * Touch has no hover, so a tap stands in for it: the first tap on a node pins
+ * the hover state open (fan + name plates) so it can be read; a tap on empty
+ * map clears it; tapping the pinned node again — or one of its fanned
+ * neighbours, only while pinned — follows the link like a mouse click would.
+ * Mouse taps keep their one-click-navigates behavior.
+ */
+let pinnedFocus: number | null = null
+let lastPointerType = 'mouse'
+
+function setPin(i: number | null): void {
+  if (pinnedFocus === i) return
+  pinnedFocus = i
+  focusDirty = true
+  dirty = true
+}
+
+function nodeTapped(i: number | null): void {
+  if (lastPointerType === 'mouse') {
+    if (i != null && payload.value) emit('select', payload.value.nodes[i]!)
+    return
+  }
+  if (i == null) {
+    setPin(null)
+    return
+  }
+  if (pinnedFocus != null && (i === pinnedFocus || activeNeighbours(pinnedFocus).includes(i))) {
+    if (payload.value) emit('select', payload.value.nodes[i]!)
+    return
+  }
+  setPin(i)
+}
+
 const camera = useMapCamera(containerRef, {
   onTap(x, y) {
-    const i = hitTest(x, y)
-    if (i != null && payload.value) emit('select', payload.value.nodes[i]!)
+    nodeTapped(hitTest(x, y))
   },
   onHover(pos) {
     hoverPos = pos
@@ -150,6 +193,11 @@ function hitTest(sx: number, sy: number): number | null {
 }
 
 function onPointerDown(e: PointerEvent): void {
+  lastPointerType = e.pointerType
+  // A stale mouse hoverPos would immediately override the pin a touch tap is
+  // about to set (hybrid devices) — the camera clears it for pointers it sees,
+  // but the node-drag branch below returns before the camera ever does.
+  if (e.pointerType !== 'mouse') hoverPos = null
   if (dragIndex == null && physicsOn.value && sim && (e.pointerType !== 'mouse' || e.button === 0)) {
     const { x, y } = localPoint(e)
     const i = hitTest(x, y)
@@ -203,15 +251,16 @@ function onPointerUp(e: PointerEvent): void {
     const el = e.currentTarget as Element
     if (el.hasPointerCapture(e.pointerId)) el.releasePointerCapture(e.pointerId)
     // A cancelled pointer (OS gesture stole it) must not read as a tap.
-    if (dragTravel < 5 && e.type !== 'pointercancel' && payload.value) emit('select', payload.value.nodes[i]!)
+    if (dragTravel < 5 && e.type !== 'pointercancel') nodeTapped(i)
     return
   }
   camera.handlers.onPointerUp(e)
 }
 
-/** Pointer is over an overlay card — whatever node was hovered no longer is. */
+/** Pointer is over an overlay card — whatever node was hovered (or touch-pinned) no longer is. */
 function clearNodeHover(): void {
   hoverPos = null
+  pinnedFocus = null
   focusDirty = true
   dirty = true
 }
@@ -339,6 +388,42 @@ function pickDisplayed(src: any[], sx: number, sy: number): number | null {
     }
   }
   return best
+}
+
+// Hover grace: once a node is fanned open, the hover survives only close to
+// the focus node itself, or along the corridor to each fanned neighbour (a
+// capsule from the focus to just past the neighbour, covering its name
+// plate). The old grace zone — a disc out to the outermost spread ring — kept
+// the hover alive across the whole neighbourhood's empty space, long after
+// the pointer had visibly left it.
+const GRACE_CORE = 44 // px beyond the focus node's radius
+const GRACE_HALF = 38 // capsule half-width around each corridor
+const GRACE_PLATE = 92 // px the corridor extends past a neighbour, under its plate
+
+/** The retained focus if the pointer is still within the grace shape, else null. */
+function graceFocus(src: any[]): number | null {
+  if (focus == null || hoverPos == null || spreadRadiusPx <= 0) return null
+  const { x: px, y: py } = camera.pan.value
+  const k = camera.k.value
+  const nf = src[focus]!
+  const fx = px + (nf.x + offX[focus]!) * k
+  const fy = py + (nf.y + offY[focus]!) * k
+  const dx0 = hoverPos.x - fx
+  const dy0 = hoverPos.y - fy
+  const core = nodeRadius(payload.value!.nodes[focus]!.d) + 3 + GRACE_CORE
+  if (dx0 * dx0 + dy0 * dy0 <= core * core) return focus
+
+  for (const j of activeNeighbours(focus)) {
+    const nj = src[j]!
+    const ex = px + (nj.x + offX[j]!) * k + Math.cos(spreadAng[j]!) * GRACE_PLATE - fx
+    const ey = py + (nj.y + offY[j]!) * k + Math.sin(spreadAng[j]!) * GRACE_PLATE - fy
+    const len2 = ex * ex + ey * ey
+    const t = len2 > 0 ? Math.max(0, Math.min(1, (dx0 * ex + dy0 * ey) / len2)) : 0
+    const ddx = dx0 - ex * t
+    const ddy = dy0 - ey * t
+    if (ddx * ddx + ddy * ddy <= GRACE_HALF * GRACE_HALF) return focus
+  }
+  return null
 }
 
 /**
@@ -544,6 +629,8 @@ function beginBuild(): void {
   sim.force('link').links(activeLinks)
   sim.alpha(0.5)
   building = true
+  // A pinned hover can't survive a rebuild — its neighbourhood is regrowing.
+  pinnedFocus = null
 }
 
 /** Move one per-frame batch of nodes (and their completed links) into the sim. */
@@ -1024,16 +1111,18 @@ function update(ticker?: any): void {
   world.position.set(px, py)
   world.scale.set(k)
 
-  if (hoverPos) {
-    let next = pickDisplayed(src, hoverPos.x, hoverPos.y)
-    // Empty space inside the spread rings keeps the hover alive, so the
-    // pointer can travel out to a fanned neighbour without collapsing it.
-    if (next == null && focus != null && spreadRadiusPx > 0) {
-      const nf = src[focus]!
-      const gx = px + nf.x * k - hoverPos.x
-      const gy = py + nf.y * k - hoverPos.y
-      const grace = spreadRadiusPx + 40
-      if (gx * gx + gy * gy <= grace * grace) next = focus
+  {
+    let next: number | null
+    if (hoverPos) {
+      // A live mouse hover takes over from (and clears) any touch pin.
+      pinnedFocus = null
+      next = pickDisplayed(src, hoverPos.x, hoverPos.y)
+      // The grace corridors keep the hover alive while the pointer travels
+      // out to a fanned neighbour (see graceFocus).
+      if (next == null) next = graceFocus(src)
+    }
+    else {
+      next = pinnedFocus // a touch-pinned hover persists with no pointer down
     }
     if (next !== focus) {
       focus = next
@@ -1041,12 +1130,6 @@ function update(ticker?: any): void {
       setSpreadTargets(src)
       syncPlates()
     }
-  }
-  else if (focus != null) {
-    focus = null
-    focusDirty = true
-    setSpreadTargets(src)
-    syncPlates()
   }
   hoverIndex.value = focus
 
@@ -1224,6 +1307,11 @@ watch(theme, async () => {
 })
 
 onMounted(() => {
+  // Phone-sized screens start with both overlay cards collapsed to their
+  // icon buttons — open panels would cover most of the map.
+  const small = window.innerWidth <= 900
+  controlsOpen.value = !small
+  legendOpen.value = !small
   palette = readGraphPalette()
   catColors = readCategoryColors()
   initPixi()
@@ -1286,155 +1374,198 @@ onBeforeUnmount(() => {
       <span class="font-sans text-xs font-medium text-foreground">{{ hoverTitle }}</span>
     </div>
 
-    <!-- Simulation controls — Obsidian-style graph settings for this variant. -->
+    <!-- Overlay stack, top right: the key (legend) above the map controls.
+         Each card collapses to an icon button — key and wrench respectively. -->
     <div
       v-if="ready"
-      class="absolute right-4 top-4 z-20 w-[216px] select-none rounded-lg border border-border/50 bg-background/60 p-3 backdrop-blur-xl"
+      class="absolute right-4 top-4 z-20 flex max-h-[calc(100%-2rem)] select-none flex-col items-end gap-2 overflow-y-auto overscroll-contain"
       @pointerdown.stop
       @pointermove.stop
       @pointerup.stop
       @pointerenter="clearNodeHover"
       @wheel.stop
     >
+      <!-- Key / category legend — hover a row to spotlight that type. -->
       <button
+        v-if="!legendOpen"
         type="button"
-        role="switch"
-        :aria-checked="physicsOn"
-        class="flex w-full items-center justify-between gap-2 rounded-sm py-0.5 text-left"
-        @click="physicsOn = !physicsOn"
+        aria-label="Show the map key"
+        class="inline-flex size-9 shrink-0 items-center justify-center rounded-lg border border-border/50 bg-background/60 text-muted-foreground backdrop-blur-xl transition-colors duration-fast ease-standard hover:bg-accent hover:text-foreground"
+        @click="legendOpen = true"
       >
-        <span class="font-mono text-[11px] font-semibold uppercase tracking-[0.1em] text-muted-foreground">Physics</span>
-        <span
-          class="relative inline-flex h-5 w-9 shrink-0 items-center rounded-sm transition-colors duration-fast ease-standard"
-          :class="physicsOn ? 'bg-primary' : 'bg-input'"
-        >
-          <span
-            class="inline-block size-4 rounded-sm bg-background shadow-sm transition-transform duration-fast ease-standard"
-            :class="physicsOn ? 'translate-x-[18px]' : 'translate-x-0.5'"
-          />
-        </span>
+        <Key :size="15" />
       </button>
-      <p class="mt-1 font-sans text-[11px] leading-4 text-muted-foreground">
-        {{ physicsOn ? 'Live d3-force layout, clustered by type — drag nodes to stir it.' : 'Precomputed (baked) layout.' }}
-      </p>
-
-      <div class="mt-3 flex flex-col gap-2.5" :class="physicsOn ? '' : 'pointer-events-none opacity-40'">
-        <label class="block">
-          <span class="flex items-center justify-between font-mono text-[10px] uppercase tracking-[0.08em] text-muted-foreground">
-            Repel force <span class="tabular-nums text-foreground">{{ repel }}</span>
+      <div
+        v-else
+        class="w-[216px] shrink-0 rounded-lg border border-border/50 bg-background/60 p-2.5 backdrop-blur-xl"
+        @pointerleave="catFocus = null"
+      >
+        <div class="mb-1 flex items-center justify-between pl-1">
+          <span class="font-mono text-[10px] font-semibold uppercase tracking-[0.1em] text-muted-foreground">
+            Node types
           </span>
-          <input
-            v-model.number="repel"
-            type="range"
-            min="0"
-            max="2000"
-            step="25"
-            class="mt-1 w-full"
-            :style="{ accentColor: 'hsl(var(--primary))' }"
+          <button
+            type="button"
+            aria-label="Close the map key"
+            class="-mr-0.5 inline-flex size-6 items-center justify-center rounded-md text-muted-foreground hover:bg-accent hover:text-foreground"
+            @click="closeLegend"
           >
-        </label>
-        <label class="block">
-          <span class="flex items-center justify-between font-mono text-[10px] uppercase tracking-[0.08em] text-muted-foreground">
-            Link distance <span class="tabular-nums text-foreground">{{ linkDist }}</span>
-          </span>
-          <input
-            v-model.number="linkDist"
-            type="range"
-            min="10"
-            max="1000"
-            step="10"
-            class="mt-1 w-full"
-            :style="{ accentColor: 'hsl(var(--primary))' }"
+            <X :size="13" />
+          </button>
+        </div>
+        <ul class="flex flex-col gap-px">
+          <li
+            v-for="entry in legend"
+            :key="entry.c"
+            class="flex cursor-default items-center gap-2 rounded-sm px-1 py-0.5 font-mono text-[11px] leading-4 transition-colors duration-fast ease-standard hover:bg-accent/60"
+            @pointerenter="catFocus = entry.c"
           >
-        </label>
-        <label class="block">
-          <span class="flex items-center justify-between font-mono text-[10px] uppercase tracking-[0.08em] text-muted-foreground">
-            Cluster pull <span class="tabular-nums text-foreground">{{ clusterPull.toFixed(2) }}</span>
-          </span>
-          <input
-            v-model.number="clusterPull"
-            type="range"
-            min="0"
-            max="0.6"
-            step="0.02"
-            class="mt-1 w-full"
-            :style="{ accentColor: 'hsl(var(--primary))' }"
-          >
-        </label>
-        <label class="block">
-          <span class="flex items-center justify-between font-mono text-[10px] uppercase tracking-[0.08em] text-muted-foreground">
-            Node spacing <span class="tabular-nums text-foreground">{{ spacing }}</span>
-          </span>
-          <input
-            v-model.number="spacing"
-            type="range"
-            min="0"
-            max="90"
-            step="3"
-            class="mt-1 w-full"
-            :style="{ accentColor: 'hsl(var(--primary))' }"
-          >
-        </label>
+            <span
+              class="size-2.5 shrink-0 rounded-full"
+              :style="{ background: `hsl(var(${entry.cssVar}))` }"
+            />
+            <span class="uppercase tracking-[0.08em] text-muted-foreground">{{ entry.c }}</span>
+            <span class="ml-auto pl-4 text-right font-semibold tabular-nums text-foreground">{{ entry.count }}</span>
+          </li>
+        </ul>
       </div>
 
+      <!-- Simulation controls — Obsidian-style graph settings. -->
       <button
+        v-if="!controlsOpen"
         type="button"
-        role="switch"
-        :aria-checked="labelsOn"
-        class="mt-3 flex w-full items-center justify-between gap-2 rounded-sm py-0.5 text-left"
-        @click="labelsOn = !labelsOn"
+        aria-label="Show the map controls"
+        class="inline-flex size-9 shrink-0 items-center justify-center rounded-lg border border-border/50 bg-background/60 text-muted-foreground backdrop-blur-xl transition-colors duration-fast ease-standard hover:bg-accent hover:text-foreground"
+        @click="controlsOpen = true"
       >
-        <span class="font-mono text-[11px] font-semibold uppercase tracking-[0.1em] text-muted-foreground">Zoom labels</span>
-        <span
-          class="relative inline-flex h-5 w-9 shrink-0 items-center rounded-sm transition-colors duration-fast ease-standard"
-          :class="labelsOn ? 'bg-primary' : 'bg-input'"
+        <Wrench :size="15" />
+      </button>
+      <div
+        v-else
+        class="w-[216px] shrink-0 rounded-lg border border-border/50 bg-background/60 p-3 backdrop-blur-xl"
+      >
+        <div class="mb-2 flex items-center justify-between">
+          <span class="font-mono text-[10px] font-semibold uppercase tracking-[0.1em] text-muted-foreground">
+            Map controls
+          </span>
+          <button
+            type="button"
+            aria-label="Close the map controls"
+            class="-mr-1 inline-flex size-6 items-center justify-center rounded-md text-muted-foreground hover:bg-accent hover:text-foreground"
+            @click="controlsOpen = false"
+          >
+            <X :size="13" />
+          </button>
+        </div>
+        <button
+          type="button"
+          role="switch"
+          :aria-checked="physicsOn"
+          class="flex w-full items-center justify-between gap-2 rounded-sm py-0.5 text-left"
+          @click="physicsOn = !physicsOn"
         >
+          <span class="font-mono text-[11px] font-semibold uppercase tracking-[0.1em] text-muted-foreground">Physics</span>
           <span
-            class="inline-block size-4 rounded-sm bg-background shadow-sm transition-transform duration-fast ease-standard"
-            :class="labelsOn ? 'translate-x-[18px]' : 'translate-x-0.5'"
-          />
-        </span>
-      </button>
+            class="relative inline-flex h-5 w-9 shrink-0 items-center rounded-sm transition-colors duration-fast ease-standard"
+            :class="physicsOn ? 'bg-primary' : 'bg-input'"
+          >
+            <span
+              class="inline-block size-4 rounded-sm bg-background shadow-sm transition-transform duration-fast ease-standard"
+              :class="physicsOn ? 'translate-x-[18px]' : 'translate-x-0.5'"
+            />
+          </span>
+        </button>
+        <p class="mt-1 font-sans text-[11px] leading-4 text-muted-foreground">
+          {{ physicsOn ? 'Live d3-force layout, clustered by type — drag nodes to stir it.' : 'Precomputed (baked) layout.' }}
+        </p>
 
-      <button
-        type="button"
-        class="mt-3 inline-flex w-full items-center justify-center gap-1.5 rounded-md border border-border/50 py-1.5 font-mono text-[11px] font-semibold uppercase tracking-[0.08em] text-muted-foreground transition-colors duration-fast ease-standard hover:bg-accent hover:text-foreground"
-        @click="resetLayout"
-      >
-        <RotateCcw :size="12" />
-        Reset layout
-      </button>
-    </div>
+        <div class="mt-3 flex flex-col gap-2.5" :class="physicsOn ? '' : 'pointer-events-none opacity-40'">
+          <label class="block">
+            <span class="flex items-center justify-between font-mono text-[10px] uppercase tracking-[0.08em] text-muted-foreground">
+              Repel force <span class="tabular-nums text-foreground">{{ repel }}</span>
+            </span>
+            <input
+              v-model.number="repel"
+              type="range"
+              min="0"
+              max="2000"
+              step="25"
+              class="mt-1 w-full"
+              :style="{ accentColor: 'hsl(var(--primary))' }"
+            >
+          </label>
+          <label class="block">
+            <span class="flex items-center justify-between font-mono text-[10px] uppercase tracking-[0.08em] text-muted-foreground">
+              Link distance <span class="tabular-nums text-foreground">{{ linkDist }}</span>
+            </span>
+            <input
+              v-model.number="linkDist"
+              type="range"
+              min="10"
+              max="1000"
+              step="10"
+              class="mt-1 w-full"
+              :style="{ accentColor: 'hsl(var(--primary))' }"
+            >
+          </label>
+          <label class="block">
+            <span class="flex items-center justify-between font-mono text-[10px] uppercase tracking-[0.08em] text-muted-foreground">
+              Cluster pull <span class="tabular-nums text-foreground">{{ clusterPull.toFixed(2) }}</span>
+            </span>
+            <input
+              v-model.number="clusterPull"
+              type="range"
+              min="0"
+              max="0.6"
+              step="0.02"
+              class="mt-1 w-full"
+              :style="{ accentColor: 'hsl(var(--primary))' }"
+            >
+          </label>
+          <label class="block">
+            <span class="flex items-center justify-between font-mono text-[10px] uppercase tracking-[0.08em] text-muted-foreground">
+              Node spacing <span class="tabular-nums text-foreground">{{ spacing }}</span>
+            </span>
+            <input
+              v-model.number="spacing"
+              type="range"
+              min="0"
+              max="90"
+              step="3"
+              class="mt-1 w-full"
+              :style="{ accentColor: 'hsl(var(--primary))' }"
+            >
+          </label>
+        </div>
 
-    <!-- Category legend — hover a row to spotlight that type on the map. -->
-    <div
-      v-if="ready"
-      class="absolute bottom-4 left-4 z-20 select-none rounded-lg border border-border/50 bg-background/60 p-2.5 backdrop-blur-xl"
-      @pointerdown.stop
-      @pointermove.stop
-      @pointerup.stop
-      @pointerenter="clearNodeHover"
-      @pointerleave="catFocus = null"
-      @wheel.stop
-    >
-      <div class="mb-1 px-1 font-mono text-[10px] font-semibold uppercase tracking-[0.1em] text-muted-foreground">
-        Node types
+        <button
+          type="button"
+          role="switch"
+          :aria-checked="labelsOn"
+          class="mt-3 flex w-full items-center justify-between gap-2 rounded-sm py-0.5 text-left"
+          @click="labelsOn = !labelsOn"
+        >
+          <span class="font-mono text-[11px] font-semibold uppercase tracking-[0.1em] text-muted-foreground">Zoom labels</span>
+          <span
+            class="relative inline-flex h-5 w-9 shrink-0 items-center rounded-sm transition-colors duration-fast ease-standard"
+            :class="labelsOn ? 'bg-primary' : 'bg-input'"
+          >
+            <span
+              class="inline-block size-4 rounded-sm bg-background shadow-sm transition-transform duration-fast ease-standard"
+              :class="labelsOn ? 'translate-x-[18px]' : 'translate-x-0.5'"
+            />
+          </span>
+        </button>
+
+        <button
+          type="button"
+          class="mt-3 inline-flex w-full items-center justify-center gap-1.5 rounded-md border border-border/50 py-1.5 font-mono text-[11px] font-semibold uppercase tracking-[0.08em] text-muted-foreground transition-colors duration-fast ease-standard hover:bg-accent hover:text-foreground"
+          @click="resetLayout"
+        >
+          <RotateCcw :size="12" />
+          Reset layout
+        </button>
       </div>
-      <ul class="flex flex-col gap-px">
-        <li
-          v-for="entry in legend"
-          :key="entry.c"
-          class="flex cursor-default items-center gap-2 rounded-sm px-1 py-0.5 font-mono text-[11px] leading-4 transition-colors duration-fast ease-standard hover:bg-accent/60"
-          @pointerenter="catFocus = entry.c"
-        >
-          <span
-            class="size-2.5 shrink-0 rounded-full"
-            :style="{ background: `hsl(var(${entry.cssVar}))` }"
-          />
-          <span class="uppercase tracking-[0.08em] text-muted-foreground">{{ entry.c }}</span>
-          <span class="ml-auto pl-4 text-right font-semibold tabular-nums text-foreground">{{ entry.count }}</span>
-        </li>
-      </ul>
     </div>
   </div>
 </template>
