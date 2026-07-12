@@ -86,7 +86,6 @@ function select(id: ThemeId): void {
 
           <span class="block px-3.5 py-3">
             <span class="block font-display text-[14px] font-bold tracking-[-0.01em]">{{ t.label }}</span>
-            <span class="mt-0.5 block font-sans text-[11px] font-normal text-muted-foreground">{{ t.subtitle }}</span>
           </span>
 
           <span class="mt-auto flex flex-col gap-2 px-3.5 pb-3.5">

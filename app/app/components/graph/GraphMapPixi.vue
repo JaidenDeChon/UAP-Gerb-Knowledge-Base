@@ -1,20 +1,23 @@
 <script setup lang="ts">
-import type { Category, GraphNode, GraphPayload } from '#shared/types/wiki'
+import type { Category, GraphEdge, GraphNode, GraphPayload } from '#shared/types/wiki'
 import { RotateCcw } from '@lucide/vue'
 import { buildAdjacency } from '~/utils/graph'
 import { CATEGORY_COLOR_VAR, CATEGORY_LEGEND_ORDER, nodeRadius, pickNode, readCategoryColors, readGraphPalette, type GraphPalette } from '~/utils/graphLab'
 
 /**
- * Map-lab variant: WebGL rendering through Pixi.js — the same engine
- * Obsidian's graph view is built on — plus a live d3-force simulation.
+ * The site map (`/map`): a home-brew renderer on Pixi.js v8 + d3-force —
+ * Obsidian's own combination (WebGL rendering + a live physics simulation),
+ * built on the same WebGL engine Obsidian's graph view uses.
  *
  * Layout model: instead of one central gravity well (which collapsed the whole
  * graph into a dense core), every category gets an anchor point spread around
  * an ellipse shaped like the container, and its nodes are pulled gently toward
  * that anchor. Collision keeps nodes apart, so the graph settles into loose
  * per-type clusters that together fill the available space. The camera keeps
- * fitting the view to the live layout while it settles, until the user pans,
- * zooms, or grabs a node.
+ * fitting the view to the live layout only during the initial settle (and
+ * explicit restarts); once it cools — or the user pans, zooms, or grabs a
+ * node — the camera holds still, so physics-slider tweaks visibly reshape the
+ * layout in place.
  *
  * Stability: the springs are the reason earlier versions shook. d3's default
  * link strength is `1/min(deg)` — a hub–leaf link gets strength 1, so hundreds
@@ -33,7 +36,57 @@ import { CATEGORY_COLOR_VAR, CATEGORY_LEGEND_ORDER, nodeRadius, pickNode, readCa
 
 const emit = defineEmits<{ select: [node: GraphNode] }>()
 
-const { data: payload } = useGraph()
+const { data: rawPayload } = useGraph()
+
+/**
+ * MOC notes (and `Root`, the lone Home note sharing their color/cluster slot)
+ * are pure navigation hubs, not content — hundreds of incident edges each,
+ * which would otherwise dominate the layout. Stripped for this map only; the
+ * shared `useGraph` payload is left untouched for other consumers.
+ *
+ * Reindexes nodes so `i` matches array position (edges/adjacency rely on
+ * that), remaps/drops edges accordingly, recomputes each node's degree from
+ * the surviving edges (stale degrees would missize radius/collision/springs),
+ * and recomputes `bounds` from the surviving baked positions.
+ */
+function excludeMocs(p: GraphPayload): GraphPayload {
+  const oldToNew = new Map<number, number>()
+  const nodes: GraphNode[] = []
+  for (const n of p.nodes) {
+    if (n.c === 'MOCs' || n.c === 'Root') continue
+    oldToNew.set(n.i, nodes.length)
+    nodes.push({ i: nodes.length, l: n.l, p: n.p, c: n.c, d: 0, x: n.x, y: n.y })
+  }
+
+  const edges: GraphEdge[] = []
+  for (const [a, b] of p.edges) {
+    const na = oldToNew.get(a)
+    const nb = oldToNew.get(b)
+    if (na == null || nb == null) continue
+    edges.push([na, nb])
+    nodes[na]!.d++
+    nodes[nb]!.d++
+  }
+
+  let minX = Infinity
+  let minY = Infinity
+  let maxX = -Infinity
+  let maxY = -Infinity
+  for (const n of nodes) {
+    if (n.x < minX) minX = n.x
+    if (n.y < minY) minY = n.y
+    if (n.x > maxX) maxX = n.x
+    if (n.y > maxY) maxY = n.y
+  }
+  const bounds = nodes.length ? { minX, minY, maxX, maxY } : { minX: 0, minY: 0, maxX: 0, maxY: 0 }
+
+  return { nodes, edges, bounds }
+}
+
+const payload = computed<GraphPayload | null>(() => {
+  const p = rawPayload.value
+  return p ? excludeMocs(p) : null
+})
 
 const containerRef = ref<HTMLElement | null>(null)
 const hoverIndex = shallowRef<number | null>(null)
@@ -91,7 +144,7 @@ function hitTest(sx: number, sy: number): number | null {
   const p = payload.value
   if (!p) return null
   const src: any = physicsOn.value && simNodes ? simNodes : p.nodes
-  return pickNode(src, camera.pan.value, camera.k.value, sx, sy)
+  return pickDisplayed(src, sx, sy)
 }
 
 function onPointerDown(e: PointerEvent): void {
@@ -124,8 +177,10 @@ function onPointerMove(e: PointerEvent): void {
     dragLastY = e.clientY
     const { x, y } = localPoint(e)
     const node = simNodes![dragIndex]!
-    node.fx = (x - camera.pan.value.x) / camera.k.value
-    node.fy = (y - camera.pan.value.y) / camera.k.value
+    // Subtract any hover-spread display offset so the node's *displayed*
+    // position lands under the cursor, not offset from it.
+    node.fx = (x - camera.pan.value.x) / camera.k.value - (offX[dragIndex] ?? 0)
+    node.fy = (y - camera.pan.value.y) / camera.k.value - (offY[dragIndex] ?? 0)
     dirty = true
     return
   }
@@ -216,9 +271,161 @@ let disposed = false
 let builtFor: GraphPayload | null = null
 let focus: number | null = null
 
+/* ------------------------------------------------------------ hover spread -- */
+
+// Display-only offsets that fan the hovered node's neighbours into evenly
+// spaced rings so their labels stay legible. The d3 simulation never sees
+// these: sprites, labels, focus edges and picking add them on top of the true
+// positions, and they lerp back to zero when the hover ends, so the physics
+// layout returns exactly to where it was.
+const SPREAD_ARC = 92 // px of ring arc reserved per neighbour label, minimum
+const SPREAD_GAP = 78 // px between successive rings
+let offX = new Float64Array(0)
+let offY = new Float64Array(0)
+let tgtX = new Float64Array(0)
+let tgtY = new Float64Array(0)
+/** Spread slot bearing per node — its label anchors radially outward along it. */
+let spreadAng = new Float64Array(0)
+/** Nodes with a non-zero offset or target — the only ones touched per frame. */
+const spreadActive = new Set<number>()
+let spreadSettled = true
+let spreadRadiusPx = 0 // outermost ring in screen px — the hover grace zone
+
+/** HTML title panel for the hovered node (replaces its Pixi label). */
+const hoverPanelRef = ref<HTMLElement | null>(null)
+const hoverTitle = computed(() => {
+  const p = payload.value
+  return p && hoverIndex.value != null ? p.nodes[hoverIndex.value]!.l : ''
+})
+
+/** `pickNode`, but against the displayed (spread-offset) positions. */
+function pickDisplayed(src: any[], sx: number, sy: number): number | null {
+  if (!spreadActive.size) return pickNode(src, camera.pan.value, camera.k.value, sx, sy)
+  const { x: px, y: py } = camera.pan.value
+  const k = camera.k.value
+  let best: number | null = null
+  let bestDist = Infinity
+  for (let i = 0; i < src.length; i++) {
+    const n = src[i]!
+    const dx = px + (n.x + offX[i]!) * k - sx
+    const dy = py + (n.y + offY[i]!) * k - sy
+    const r = nodeRadius(n.d) + 4
+    const d2 = dx * dx + dy * dy
+    if (d2 <= r * r && d2 < bestDist) {
+      bestDist = d2
+      best = i
+    }
+  }
+  return best
+}
+
+/**
+ * Compute each neighbour's spread target around the hovered node. Slots are
+ * built ring by ring (capacity grows with circumference, quotas spread
+ * proportionally so the outer ring isn't left nearly empty), then sorted by
+ * angle and matched to the neighbours sorted by their true bearing — the
+ * cyclic order is preserved, so the fan-out neither crosses nor travels far.
+ */
+function setSpreadTargets(src: any[]): void {
+  for (const i of spreadActive) {
+    tgtX[i] = 0
+    tgtY[i] = 0
+  }
+  spreadRadiusPx = 0
+  spreadSettled = false
+  if (focus == null) return
+  const nbrs = adjacency.value[focus] ?? []
+  const n = nbrs.length
+  if (!n) return
+  const f = src[focus]!
+  const k = camera.k.value
+
+  const order = nbrs
+    .map(j => ({ j, a: Math.atan2(src[j]!.y - f.y, src[j]!.x - f.x) }))
+    .sort((u, v) => u.a - v.a)
+
+  // Slot arc adapts to this neighbourhood's label widths (~5.6 px/char at
+  // font 11). Adjacent slots in a ring are also staggered half a gap radially,
+  // so only every *second* slot shares a radius — half the mean width plus
+  // padding is enough arc.
+  let chars = 0
+  const pn = payload.value!.nodes
+  for (const j of nbrs) chars += Math.min(pn[j]!.l.length, 40)
+  const arc = Math.max(SPREAD_ARC, Math.min(170, ((chars / n) * 5.6) / 2 + 34))
+
+  const r0 = Math.max(84, Math.min(130, (n * arc) / (2 * Math.PI)))
+  const ringR: number[] = []
+  let cap = 0
+  for (let m = 0; cap < n; m++) {
+    const r = r0 + m * SPREAD_GAP
+    ringR.push(r)
+    cap += Math.max(1, Math.floor((2 * Math.PI * r) / arc))
+  }
+  const totalR = ringR.reduce((s, r) => s + r, 0)
+  const slots: { a: number, r: number }[] = []
+  let assigned = 0
+  ringR.forEach((r, m) => {
+    const q = m === ringR.length - 1
+      ? n - assigned
+      : Math.min(n - assigned, Math.round((n * r) / totalR))
+    assigned += q
+    // Rings are offset half a slot from each other, and alternate slots
+    // within a ring bump out half a gap, so no two nearby labels share both
+    // a bearing and a radius.
+    for (let s = 0; s < q; s++) {
+      slots.push({ a: -Math.PI + ((s + (m % 2) * 0.5) / q) * 2 * Math.PI, r: r + (s % 2) * (SPREAD_GAP * 0.45) })
+    }
+  })
+  slots.sort((u, v) => u.a - v.a)
+
+  // Rotate the whole arrangement by the circular mean of (bearing − slot) so
+  // the fan opens from where the neighbours already sit.
+  let cx = 0
+  let cy = 0
+  for (let j = 0; j < n; j++) {
+    const d = order[j]!.a - slots[j]!.a
+    cx += Math.cos(d)
+    cy += Math.sin(d)
+  }
+  const delta = Math.atan2(cy, cx)
+
+  for (let j = 0; j < n; j++) {
+    const i = order[j]!.j
+    const slot = slots[j]!
+    const a = slot.a + delta
+    const rg = slot.r / k // ring radii are screen px; offsets live in graph units
+    tgtX[i] = f.x + Math.cos(a) * rg - src[i]!.x
+    tgtY[i] = f.y + Math.sin(a) * rg - src[i]!.y
+    spreadAng[i] = a
+    spreadActive.add(i)
+    if (slot.r > spreadRadiusPx) spreadRadiusPx = slot.r
+  }
+}
+
+/** Lerp offsets toward their targets; snap when within half a screen px. */
+function stepSpread(dt: number): void {
+  const ease = 1 - 0.85 ** dt
+  const snap = 0.5 / camera.k.value
+  let settled = true
+  for (const i of spreadActive) {
+    const dx = tgtX[i]! - offX[i]!
+    const dy = tgtY[i]! - offY[i]!
+    if (dx * dx + dy * dy <= snap * snap) {
+      offX[i] = tgtX[i]!
+      offY[i] = tgtY[i]!
+    }
+    else {
+      offX[i] = offX[i]! + dx * ease
+      offY[i] = offY[i]! + dy * ease
+      settled = false
+    }
+  }
+  spreadSettled = settled
+}
+
 /* --------------------------------------------------------------- physics -- */
 
-const CHARGE_RANGE = 350 // px reach of node-node repulsion — local spacing, not global collapse
+const CHARGE_RANGE = 350 // px reach of node-node repulsion at the default repel — local spacing, not global collapse
 const VELOCITY_DECAY = 0.55 // > d3's 0.4 default; damps the spring oscillation
 const ALPHA_DECAY = 0.02
 const HUB_EXP = 0.75 // spring damping exponent by larger endpoint degree
@@ -229,6 +436,15 @@ const FIT_PAD = 56 // px margin the auto-fit keeps around the layout
 
 let d3: any = null
 let sim: any = null
+/**
+ * Auto-fit serves the *initial* settle (and explicit restarts — Reset layout,
+ * physics toggle) only. Once the simulation cools, or the user takes the
+ * camera, it latches off: slider reheats and resizes then play out under a
+ * stationary camera, so the layout visibly expands/contracts in place instead
+ * of being renormalized away by a per-frame re-fit (nodes render at a fixed
+ * screen radius, so a re-fit cancels any near-uniform scale change).
+ */
+let autoFit = true
 // Same shape pickNode expects (x, y, d) plus the category driving the cluster
 // forces; d3-force adds vx/vy/fx/fy in place.
 let simNodes: { i: number, x: number, y: number, d: number, c: Category, fx?: number | null, fy?: number | null }[] | null = null
@@ -319,8 +535,22 @@ function seedSimulation(): void {
 // screen. Scaling the keep-apart distance by the render radius (the baked
 // layout's SEP_K trick, gentler here) buys hubs screen room proportional to
 // their size.
+//
+// The spacing slider multiplies the *whole* keep-apart radius rather than
+// adding a small pad — collision is the binding constraint at equilibrium, so
+// a multiplier is what actually changes the packing density. The default (12)
+// maps to 1× (the tuned look); 0 lets nodes pile nearly on top of each other;
+// 30 more than doubles every contact distance.
 function collideRadius(n: { d: number }): number {
-  return nodeRadius(n.d) * 2.2 + spacing.value
+  return (nodeRadius(n.d) * 2.2 + 12) * (0.25 + 0.75 * (spacing.value / 12))
+}
+
+// Charge's reach grows with the repel slider: a fixed distanceMax lets collide
+// win at equilibrium no matter the strength, so high repel must also push
+// *past* the collide contact shell to visibly loosen the packing. Default
+// (120) keeps the tuned 350 px reach.
+function chargeDistMax(): number {
+  return CHARGE_RANGE * (0.5 + repel.value / 240)
 }
 
 function anchorX(n: { c: Category }): number {
@@ -345,7 +575,7 @@ function buildSimulation(p: GraphPayload): void {
     return { source, target, s: hub * (aliasCat(a.c) === aliasCat(b.c) ? 1 : CROSS_CAT_DAMP) }
   })
   sim = d3.forceSimulation(simNodes)
-    .force('charge', d3.forceManyBody().strength(-repel.value).theta(0.9).distanceMax(CHARGE_RANGE))
+    .force('charge', d3.forceManyBody().strength(-repel.value).theta(0.9).distanceMax(chargeDistMax()))
     .force('link', d3.forceLink(links).distance(linkDist.value).strength((l: any) => l.s))
     .force('collide', d3.forceCollide().radius(collideRadius).strength(0.8).iterations(2))
     .force('cx', d3.forceX(anchorX).strength(clusterPull.value))
@@ -360,7 +590,7 @@ function buildSimulation(p: GraphPayload): void {
 function reheat(alpha: number): void {
   if (!sim || !payload.value) return
   computeClusters(payload.value)
-  sim.force('charge').strength(-repel.value)
+  sim.force('charge').strength(-repel.value).distanceMax(chargeDistMax())
   sim.force('link').distance(linkDist.value)
   sim.force('collide').radius(collideRadius)
   sim.force('cx').x(anchorX).strength(clusterPull.value)
@@ -396,6 +626,7 @@ function restartSimulation(): void {
   seedSimulation()
   sim.alphaTarget(0)
   sim.alpha(0.9)
+  autoFit = true // fresh layout: the camera frames the settle again
   camera.fitTo(currentBounds(), FIT_PAD)
   geomDirty = true
   focusDirty = true
@@ -504,6 +735,15 @@ function buildSceneIfReady(): void {
   sprites = new Array(p.nodes.length)
   rings = new Array(p.nodes.length)
   labels = new Array(p.nodes.length).fill(null)
+  offX = new Float64Array(p.nodes.length)
+  offY = new Float64Array(p.nodes.length)
+  tgtX = new Float64Array(p.nodes.length)
+  tgtY = new Float64Array(p.nodes.length)
+  spreadAng = new Float64Array(p.nodes.length)
+  spreadActive.clear()
+  spreadSettled = true
+  spreadRadiusPx = 0
+  focus = null
   for (let i = 0; i < p.nodes.length; i++) {
     const n = p.nodes[i]!
     const ring = new PIXI.Sprite(circleTex)
@@ -519,13 +759,16 @@ function buildSceneIfReady(): void {
     sprites[i] = s
   }
 
-  // Focus edges live in screen space on the stage, rebuilt per focus change.
+  // Focus edges live in screen space on the stage, rebuilt per focus change —
+  // slotted BELOW `world` so node/neighbour labels always paint above them.
+  focusG?.destroy()
   focusG = new PIXI.Graphics()
-  app.stage.addChild(focusG)
+  app.stage.addChildAt(focusG, 0)
 
   computeClusters(p)
   buildSimulation(p)
   applyPalette()
+  autoFit = true
   camera.fitTo(physicsOn.value ? currentBounds() : p.bounds, FIT_PAD)
   kDirty = true
   focusDirty = true
@@ -572,7 +815,7 @@ function rebuildEdges(src: { x: number, y: number }[]): void {
 }
 
 /** One pass per frame while anything is dirty or the simulation is hot. */
-function update(): void {
+function update(ticker?: any): void {
   const p = payload.value
   if (!p || !world) return
 
@@ -581,11 +824,20 @@ function update(): void {
     sim.tick()
     geomDirty = true
     dirty = true
-    // Keep the settling layout in frame until the user takes the camera.
-    if (!camera.userAdjusted.value && dragIndex == null) {
+    // Keep the settling layout in frame until the settle completes or the
+    // user takes the camera (see autoFit).
+    if (autoFit && !camera.userAdjusted.value && dragIndex == null) {
       camera.fitTo(currentBounds(), FIT_PAD)
     }
   }
+  else {
+    // The settle is over; later reheats (slider tweaks) keep the camera still.
+    autoFit = false
+  }
+  // Spread offsets in flight: keep frames coming (alongside the hot/dirty
+  // gates) without touching the simulation.
+  const animating = spreadActive.size > 0 && !spreadSettled
+  if (animating) dirty = true
   if (!dirty) return
   dirty = false
 
@@ -596,15 +848,26 @@ function update(): void {
   world.scale.set(k)
 
   if (hoverPos) {
-    const next = pickNode(src, camera.pan.value, camera.k.value, hoverPos.x, hoverPos.y)
+    let next = pickDisplayed(src, hoverPos.x, hoverPos.y)
+    // Empty space inside the spread rings keeps the hover alive, so the
+    // pointer can travel out to a fanned neighbour without collapsing it.
+    if (next == null && focus != null && spreadRadiusPx > 0) {
+      const nf = src[focus]!
+      const gx = px + nf.x * k - hoverPos.x
+      const gy = py + nf.y * k - hoverPos.y
+      const grace = spreadRadiusPx + 40
+      if (gx * gx + gy * gy <= grace * grace) next = focus
+    }
     if (next !== focus) {
       focus = next
       focusDirty = true
+      setSpreadTargets(src)
     }
   }
   else if (focus != null) {
     focus = null
     focusDirty = true
+    setSpreadTargets(src)
   }
   hoverIndex.value = focus
 
@@ -619,6 +882,21 @@ function update(): void {
       rings[i]!.position.set(src[i]!.x, src[i]!.y)
     }
     rebuildEdges(src)
+  }
+
+  // Spread offsets ride on top of the true positions (the dim edge mesh keeps
+  // true positions — it's near-invisible while a hover is active). Applied
+  // after the geomDirty pass so a hot sim doesn't stomp the offsets.
+  if (spreadActive.size) {
+    if (!spreadSettled) stepSpread(ticker?.deltaTime ?? 1)
+    for (const i of spreadActive) {
+      const x = src[i]!.x + offX[i]!
+      const y = src[i]!.y + offY[i]!
+      sprites[i]!.position.set(x, y)
+      rings[i]!.position.set(x, y)
+      // Snapped home with no target left: the node is back exactly.
+      if (offX[i] === 0 && offY[i] === 0 && tgtX[i] === 0 && tgtY[i] === 0) spreadActive.delete(i)
+    }
   }
 
   // Counter-scale so nodes hold their screen-px radius at any zoom, matching
@@ -643,8 +921,8 @@ function update(): void {
     }
   }
 
-  // Focus edges, screen space.
-  if (focusDirty || hot) {
+  // Focus edges, screen space, following the DISPLAYED (spread) positions.
+  if (focusDirty || hot || animating) {
     focusDirty = false
     focusG.clear()
     if (focus != null) {
@@ -653,7 +931,7 @@ function update(): void {
       const fy = py + nf.y * k
       for (const j of adjacency.value[focus] ?? []) {
         const nj = src[j]!
-        focusG.moveTo(fx, fy).lineTo(px + nj.x * k, py + nj.y * k)
+        focusG.moveTo(fx, fy).lineTo(px + (nj.x + offX[j]!) * k, py + (nj.y + offY[j]!) * k)
       }
       focusG.stroke({ width: 1.6, color: palette.primary, alpha: 0.9 })
     }
@@ -666,23 +944,51 @@ function update(): void {
   const margin = 80
   const zoomLabels = labelsOn.value && k >= 0.9
   for (let i = 0; i < p.nodes.length; i++) {
-    const isFocusish = focus != null && (i === focus || neighbours!.has(i))
+    const existing = labels[i]
+    // The hovered node's own title moves to the HTML panel.
+    if (i === focus) {
+      if (existing) existing.visible = false
+      continue
+    }
+    const isFocusish = focus != null && neighbours!.has(i)
     let show = isFocusish
+    const nx = src[i]!.x + offX[i]!
+    const ny = src[i]!.y + offY[i]!
     if (!show && zoomLabels) {
-      const sx = px + src[i]!.x * k
-      const sy = py + src[i]!.y * k
+      const sx = px + nx * k
+      const sy = py + ny * k
       show = sx >= -margin && sx <= w + margin && sy >= -margin && sy <= h + margin
     }
-    const existing = labels[i]
     if (!show) {
       if (existing) existing.visible = false
       continue
     }
     const t = labelFor(i)
     t.visible = true
-    const r = nodeRadius(p.nodes[i]!.d) + (i === focus ? 3 : 0)
+    const r = nodeRadius(p.nodes[i]!.d)
     t.scale.set(1 / k)
-    t.position.set(src[i]!.x, src[i]!.y + (r + 2) / k)
+    if (isFocusish) {
+      // Anchor the label to extend radially outward from the fan: side labels
+      // grow sideways, top/bottom labels stack away — labels on different
+      // rings at the same bearing can't overlap.
+      const ca = Math.cos(spreadAng[i]!)
+      const sa = Math.sin(spreadAng[i]!)
+      t.anchor.set(0.5 - ca * 0.5, 0.5 - sa * 0.5)
+      t.position.set(nx + (ca * (r + 4)) / k, ny + (sa * (r + 4)) / k)
+    }
+    else {
+      t.anchor.set(0.5, 0)
+      t.position.set(nx, ny + (r + 2) / k)
+    }
+  }
+
+  // The blurred HTML title panel tracks the hovered node's screen position;
+  // v-show (via hoverIndex) owns its visibility.
+  const panel = hoverPanelRef.value
+  if (panel && focus != null) {
+    const nf = src[focus]!
+    const pr = nodeRadius(p.nodes[focus]!.d) + 3
+    panel.style.transform = `translate(${px + nf.x * k}px, ${py + nf.y * k + pr + 7}px) translateX(-50%)`
   }
 }
 
@@ -691,16 +997,17 @@ function update(): void {
 watch(payload, () => buildSceneIfReady())
 
 // The camera's ResizeObserver reassigns size as a fresh object every callback,
-// so compare dimensions before reacting. Once the user has taken the camera,
-// a resize changes nothing: re-anchoring the clusters then would drag the
-// layout out from under their pinned view.
+// so compare dimensions before reacting. Once the settle completes or the user
+// takes the camera, a resize changes nothing: re-anchoring the clusters and
+// re-fitting then would drag the layout out from under the settled view.
+// (Physics-off is the static baked layout — refitting that on resize is safe.)
 let lastW = 0
 let lastH = 0
 watch(() => camera.size.value, ({ w, h }) => {
   if (w === lastW && h === lastH) return
   lastW = w
   lastH = h
-  if (payload.value && w > 0 && h > 0 && !camera.userAdjusted.value) {
+  if (payload.value && w > 0 && h > 0 && !camera.userAdjusted.value && (autoFit || !physicsOn.value)) {
     if (physicsOn.value && sim) reheat(0.3) // anchors follow the new aspect
     camera.fitTo(physicsOn.value ? currentBounds() : payload.value.bounds, FIT_PAD)
   }
@@ -754,10 +1061,21 @@ onBeforeUnmount(() => {
       <span class="font-mono text-xs tracking-[0.1em] text-muted-foreground">LOADING MAP…</span>
     </div>
 
+    <!-- Hovered node's title — HTML so it can sit on a blurred panel; positioned
+         imperatively (style.transform) from the render loop every frame. -->
+    <div
+      v-show="hoverIndex != null"
+      ref="hoverPanelRef"
+      class="pointer-events-none absolute left-0 top-0 z-10 select-none whitespace-nowrap rounded-lg border border-border/50 bg-background/60 px-2.5 py-1 backdrop-blur-xl"
+      style="will-change: transform"
+    >
+      <span class="font-sans text-xs text-foreground">{{ hoverTitle }}</span>
+    </div>
+
     <!-- Simulation controls — Obsidian-style graph settings for this variant. -->
     <div
       v-if="ready"
-      class="absolute right-4 top-4 z-20 w-[216px] select-none rounded-lg border border-border/50 bg-background/70 p-3 backdrop-blur-sm"
+      class="absolute right-4 top-4 z-20 w-[216px] select-none rounded-lg border border-border/50 bg-background/60 p-3 backdrop-blur-xl"
       @pointerdown.stop
       @pointermove.stop
       @pointerup.stop
@@ -877,7 +1195,7 @@ onBeforeUnmount(() => {
     <!-- Category legend — hover a row to spotlight that type on the map. -->
     <div
       v-if="ready"
-      class="absolute bottom-4 left-4 z-20 select-none rounded-lg border border-border/50 bg-background/70 p-2.5 backdrop-blur-sm"
+      class="absolute bottom-4 left-4 z-20 select-none rounded-lg border border-border/50 bg-background/60 p-2.5 backdrop-blur-xl"
       @pointerdown.stop
       @pointermove.stop
       @pointerup.stop
@@ -892,15 +1210,15 @@ onBeforeUnmount(() => {
         <li
           v-for="entry in legend"
           :key="entry.c"
-          class="flex cursor-default items-center gap-2 rounded-sm px-1 py-0.5 transition-colors duration-fast ease-standard hover:bg-accent/60"
+          class="flex cursor-default items-center gap-2 rounded-sm px-1 py-0.5 font-mono text-[11px] leading-4 transition-colors duration-fast ease-standard hover:bg-accent/60"
           @pointerenter="catFocus = entry.c"
         >
           <span
             class="size-2.5 shrink-0 rounded-full"
             :style="{ background: `hsl(var(${entry.cssVar}))` }"
           />
-          <span class="font-sans text-[11px] text-foreground">{{ entry.c }}</span>
-          <span class="ml-auto pl-3 font-mono text-[10px] tabular-nums text-muted-foreground">{{ entry.count }}</span>
+          <span class="uppercase tracking-[0.08em] text-muted-foreground">{{ entry.c }}</span>
+          <span class="ml-auto pl-4 text-right font-semibold tabular-nums text-foreground">{{ entry.count }}</span>
         </li>
       </ul>
     </div>

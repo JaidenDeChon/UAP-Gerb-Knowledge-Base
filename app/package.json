@@ -11,7 +11,6 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "@cosmos.gl/graph": "^3.2.0",
     "@lucide/vue": "^1.24.0",
     "@nuxt/content": "3.15.0",
     "@tanstack/vue-table": "^8.21.3",
@@ -25,7 +24,6 @@
     "nuxt": "^4.4.8",
     "pixi.js": "^8.19.0",
     "reka-ui": "^2.10.1",
-    "sigma": "^3.0.3",
     "slugify": "1.6.9",
     "tailwind-merge": "^3.6.0",
     "vue": "^3.5.39",

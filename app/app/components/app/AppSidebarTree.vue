@@ -11,7 +11,9 @@ import {
   Crosshair,
   FileText,
   Folder,
+  House,
   MapPin,
+  Radar,
   Users,
 } from '@lucide/vue'
 import {
@@ -88,6 +90,18 @@ function isActive(path: string): boolean {
   return route.path === path
 }
 
+// The tree's leading `Home` (`/`) and `Site map` (`/map`) rows are app-wide nav,
+// not vault content — styled like the mono `//` category headers below them
+// rather than the plain note-row treatment used for actual wiki pages.
+const NAV_ICON: Record<string, Component> = {
+  '/': House,
+  '/map': Radar,
+}
+
+function navIcon(path: string): Component | undefined {
+  return NAV_ICON[path]
+}
+
 function setOpen(id: string, value: boolean): void {
   expanded.value[id] = value
   if (value)
@@ -129,9 +143,22 @@ if (isRoot) {
 <template>
   <div class="flex flex-col gap-0.5">
     <template v-for="item in entries" :key="item.type === 'folder' ? item.id : item.path">
+      <!-- App-wide nav row (Home / Site map): mono `//` treatment, like the
+           category headers below, instead of the plain note-row style. -->
+      <NuxtLink
+        v-if="item.type === 'note' && depth === 0 && navIcon(item.path)"
+        :to="item.path"
+        class="flex w-full items-center gap-1.5 px-3 pb-1 pt-2.5 font-mono text-[11px] font-semibold uppercase tracking-[0.1em] transition-colors hover:text-foreground"
+        :class="isActive(item.path) ? 'text-foreground' : 'text-muted-foreground'"
+      >
+        <span class="text-primary opacity-70">//</span>
+        <component :is="navIcon(item.path)" class="size-3.5 shrink-0" />
+        <span class="flex-1 truncate text-left">{{ item.name }}</span>
+      </NuxtLink>
+
       <!-- Note row -->
       <NuxtLink
-        v-if="item.type === 'note'"
+        v-else-if="item.type === 'note'"
         :to="item.path"
         class="group relative flex w-full items-center gap-2.5 rounded-sm py-[7px] pr-3 font-sans text-sm transition-colors duration-fast ease-standard"
         :class="isActive(item.path) ? 'bg-accent font-semibold text-accent-foreground' : 'text-foreground hover:bg-accent'"
