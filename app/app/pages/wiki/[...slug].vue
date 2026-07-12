@@ -91,6 +91,8 @@ const article = computed<{ lead: string, doc: WikiPage | null }>(() => {
 
     <Separator class="my-8" />
 
+    <WikiLocalMap :path="route.path" />
+
     <WikiLinkedEntries :path="route.path" />
   </article>
 </template>
