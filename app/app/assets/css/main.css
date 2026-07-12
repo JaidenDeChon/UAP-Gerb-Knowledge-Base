@@ -59,6 +59,16 @@
   --ring: 142.1 76.2% 36.3%;
   --graph-node: 142.1 76.2% 36.3%;
   --graph-edge: 215.4 16.3% 46.9%;
+  /* Per-category node colors for the graph map. CVD-validated as a set on the
+     light surface (dataviz six-checks); dark themes carry their own steps. */
+  --graph-cat-people: 212.8 67.7% 50.2%;
+  --graph-cat-locations: 158.5 73.3% 39.6%;
+  --graph-cat-orgs: 40.8 100% 46.5%;
+  --graph-cat-mocs: 120 100% 25.7%;
+  --graph-cat-events: 248.8 48.4% 44.1%;
+  --graph-cat-ops: 0.4 73.5% 58.6%;
+  --graph-cat-concepts: 337.4 70.3% 69.6%;
+  --graph-cat-videos: 17 82.1% 56.3%;
   --overlay: 222.2 47% 8%;
   --overlay-opacity: 0.45;
 }
@@ -87,6 +97,18 @@
   --ring: 142.4 71.8% 40%;
   --graph-node: 142.1 70.6% 45.3%;
   --graph-edge: 0 0% 45%;
+  --graph-cat-people: 212.8 76.8% 56.1%;
+  --graph-cat-locations: 159.2 72.7% 35.9%;
+  --graph-cat-orgs: 39.7 100% 39.4%;
+  /* Deliberately NOT brightened for dark: the green slot's darkness is what
+     separates it from the amber under protanopia (brighter greens drop that
+     ΔE from 10.3 to <4, failing the palette validator). It still clears 3:1
+     on this surface. */
+  --graph-cat-mocs: 120 100% 25.7%;
+  --graph-cat-events: 246.6 69.4% 71.8%;
+  --graph-cat-ops: 0 71.8% 65.3%;
+  --graph-cat-concepts: 338.2 61.1% 57.6%;
+  --graph-cat-videos: 17.1 70.2% 50%;
   --overlay: 0 0% 0%;
   --overlay-opacity: 0.7;
 }
@@ -114,6 +136,14 @@
   --ring: 142 55% 40%;
   --graph-node: 142 64% 47%;
   --graph-edge: 0 0% 50%;
+  --graph-cat-people: 212.8 76.8% 56.1%;
+  --graph-cat-locations: 159.2 72.7% 35.9%;
+  --graph-cat-orgs: 39.7 100% 39.4%;
+  --graph-cat-mocs: 120 100% 25.7%;
+  --graph-cat-events: 246.6 69.4% 71.8%;
+  --graph-cat-ops: 0 71.8% 65.3%;
+  --graph-cat-concepts: 338.2 61.1% 57.6%;
+  --graph-cat-videos: 17.1 70.2% 50%;
   --overlay: 0 0% 0%;
   --overlay-opacity: 0.6;
 }
@@ -141,6 +171,14 @@
   --ring: 142 55% 32%;
   --graph-node: 142 55% 32%;
   --graph-edge: 30 14% 50%;
+  --graph-cat-people: 212.8 67.7% 50.2%;
+  --graph-cat-locations: 158.5 73.3% 39.6%;
+  --graph-cat-orgs: 40.8 100% 46.5%;
+  --graph-cat-mocs: 120 100% 25.7%;
+  --graph-cat-events: 248.8 48.4% 44.1%;
+  --graph-cat-ops: 0.4 73.5% 58.6%;
+  --graph-cat-concepts: 337.4 70.3% 69.6%;
+  --graph-cat-videos: 17 82.1% 56.3%;
   --overlay: 28 30% 14%;
   --overlay-opacity: 0.4;
 }

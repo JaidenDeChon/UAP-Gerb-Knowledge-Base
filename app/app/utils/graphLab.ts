@@ -1,4 +1,4 @@
-import type { GraphNode } from '#shared/types/wiki'
+import type { Category, GraphNode } from '#shared/types/wiki'
 import { clamp } from '~/utils/graph'
 
 /**
@@ -33,18 +33,23 @@ const FALLBACK: GraphPalette = {
  * A 2D context normalises any CSS color assigned to `fillStyle` back to hex,
  * which spares us a hand-rolled HSL→RGB conversion. Client-only.
  */
-export function readGraphPalette(): GraphPalette {
+function makeCssResolver(): ((name: string, fallback: string) => string) | null {
   const style = getComputedStyle(document.documentElement)
   const ctx = document.createElement('canvas').getContext('2d')
-  if (!ctx) return FALLBACK
+  if (!ctx) return null
 
-  const resolve = (name: string, fallback: string): string => {
+  return (name: string, fallback: string): string => {
     const triplet = style.getPropertyValue(name).trim()
     if (!triplet) return fallback
     ctx.fillStyle = fallback
     ctx.fillStyle = `hsl(${triplet})`
     return typeof ctx.fillStyle === 'string' ? ctx.fillStyle : fallback
   }
+}
+
+export function readGraphPalette(): GraphPalette {
+  const resolve = makeCssResolver()
+  if (!resolve) return FALLBACK
 
   return {
     background: resolve('--background', FALLBACK.background),
@@ -53,6 +58,65 @@ export function readGraphPalette(): GraphPalette {
     primary: resolve('--primary', FALLBACK.primary),
     foreground: resolve('--foreground', FALLBACK.foreground),
   }
+}
+
+/* ------------------------------------------------------- category colors -- */
+
+/**
+ * Theme variable per category (see main.css). `Root` is the lone Home note —
+ * it rides with MOCs rather than spending a 9th hue on one node.
+ */
+export const CATEGORY_COLOR_VAR: Record<Category, string> = {
+  Root: '--graph-cat-mocs',
+  MOCs: '--graph-cat-mocs',
+  People: '--graph-cat-people',
+  Organizations: '--graph-cat-orgs',
+  Operations: '--graph-cat-ops',
+  Events: '--graph-cat-events',
+  Locations: '--graph-cat-locations',
+  Concepts: '--graph-cat-concepts',
+  Videos: '--graph-cat-videos',
+}
+
+/** Light-theme values, doubling as SSR/no-canvas fallbacks. */
+const CATEGORY_FALLBACK: Record<Category, string> = {
+  Root: '#008300',
+  MOCs: '#008300',
+  People: '#2a78d6',
+  Organizations: '#eda100',
+  Operations: '#e34948',
+  Events: '#4a3aa7',
+  Locations: '#1baf7a',
+  Concepts: '#e87ba4',
+  Videos: '#eb6834',
+}
+
+/**
+ * Legend display order. Not CATEGORY_ORDER: this sequence is the one validated
+ * for color-vision-deficiency separation of *adjacent* swatches (the palette's
+ * slot order), so neighbouring legend rows never carry confusable hues.
+ */
+export const CATEGORY_LEGEND_ORDER: Category[] = [
+  'People',
+  'Locations',
+  'Organizations',
+  'MOCs',
+  'Events',
+  'Operations',
+  'Concepts',
+  'Videos',
+]
+
+/** Resolve every category's node color from the active theme. Client-only. */
+export function readCategoryColors(): Record<Category, string> {
+  const resolve = makeCssResolver()
+  if (!resolve) return { ...CATEGORY_FALLBACK }
+
+  const out = {} as Record<Category, string>
+  for (const c of Object.keys(CATEGORY_COLOR_VAR) as Category[]) {
+    out[c] = resolve(CATEGORY_COLOR_VAR[c], CATEGORY_FALLBACK[c])
+  }
+  return out
 }
 
 /** `#rrggbb` → `#rrggbbaa`. */

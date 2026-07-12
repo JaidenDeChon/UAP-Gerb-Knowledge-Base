@@ -23,7 +23,7 @@ function onSelect(node: GraphNode): void {
     <GraphMapLabHud
       title="Pixi.js WebGL"
       engine="Home-brew renderer on Pixi.js v8 + d3-force — Obsidian's combination (WebGL + live physics)"
-      hint="Use the panel to toggle physics vs the baked layout and tune the simulation. With physics on, drag nodes to stir it. Hover to highlight, click to open."
+      hint="Nodes are colored and clustered by type — hover the legend to spotlight one. Use the panel to tune the simulation; drag nodes to stir it. Hover to highlight, click to open."
     />
   </div>
 </template>
