@@ -1,6 +1,6 @@
 import type { Ref } from 'vue'
 import type { Bounds } from '~/utils/graph'
-import { clamp, fitView } from '~/utils/graph'
+import { clamp, fitView, MAX_ZOOM, MIN_ZOOM } from '~/utils/graph'
 
 export interface MapCameraCallbacks {
   /** A click that wasn't a drag, in container-local px. */
@@ -105,7 +105,7 @@ export function useMapCamera(containerRef: Ref<HTMLElement | null>, cb: MapCamer
       const mx = (pts[0].x + pts[1].x) / 2 - ox
       const my = (pts[0].y + pts[1].y) / 2 - oy
       const dist = Math.max(1, Math.hypot(pts[0].x - pts[1].x, pts[0].y - pts[1].y))
-      const next = clamp(pinchK0 * (dist / pinchDist0), 0.15, 4)
+      const next = clamp(pinchK0 * (dist / pinchDist0), MIN_ZOOM, MAX_ZOOM)
       pan.value = { x: mx - pinchGX * next, y: my - pinchGY * next }
       k.value = next
       userAdjusted.value = true
@@ -171,7 +171,7 @@ export function useMapCamera(containerRef: Ref<HTMLElement | null>, cb: MapCamer
     wheelRaf = requestAnimationFrame(() => {
       wheelRaf = 0
       const cur = k.value
-      const next = clamp(cur * pendingFactor, 0.15, 4)
+      const next = clamp(cur * pendingFactor, MIN_ZOOM, MAX_ZOOM)
       pendingFactor = 1
       if (next === cur) return
       const gx = (wheelX - pan.value.x) / cur
@@ -184,12 +184,23 @@ export function useMapCamera(containerRef: Ref<HTMLElement | null>, cb: MapCamer
 
   /* ------------------------------------------------------------ fit + size -- */
 
-  function fitTo(bounds: Bounds, padding = 40): void {
+  /**
+   * Frame `bounds`. `ease` < 1 moves only that fraction of the way toward the
+   * fit — callers re-fitting every frame (the map's settle) pass a small ease
+   * so the camera glides instead of snapping as the bounds change.
+   */
+  function fitTo(bounds: Bounds, padding = 40, ease = 1): void {
     const { w, h } = size.value
     if (w <= 0 || h <= 0) return
     const v = fitView(bounds, w, h, padding)
-    pan.value = { x: v.x, y: v.y }
-    k.value = v.k
+    if (ease < 1) {
+      pan.value = { x: pan.value.x + (v.x - pan.value.x) * ease, y: pan.value.y + (v.y - pan.value.y) * ease }
+      k.value += (v.k - k.value) * ease
+    }
+    else {
+      pan.value = { x: v.x, y: v.y }
+      k.value = v.k
+    }
     userAdjusted.value = false
   }
 

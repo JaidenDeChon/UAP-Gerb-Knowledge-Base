@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import type { Category, GraphEdge, GraphNode, GraphPayload } from '#shared/types/wiki'
 import { Key, RotateCcw, Wrench, X } from '@lucide/vue'
+import { useLocalStorage } from '@vueuse/core'
 import { buildAdjacency } from '~/utils/graph'
 import { CATEGORY_COLOR_VAR, CATEGORY_LEGEND_ORDER, nodeRadius, pickNode, readCategoryColors, readGraphPalette, type GraphPalette } from '~/utils/graphLab'
 
@@ -47,7 +48,8 @@ const { data: rawPayload } = useGraph()
  * Reindexes nodes so `i` matches array position (edges/adjacency rely on
  * that), remaps/drops edges accordingly, recomputes each node's degree from
  * the surviving edges (stale degrees would missize radius/collision/springs),
- * and recomputes `bounds` from the surviving baked positions.
+ * and recomputes `bounds` from the surviving baked positions (a fit fallback
+ * until the simulation exists).
  */
 function excludeMocs(p: GraphPayload): GraphPayload {
   const oldToNew = new Map<number, number>()
@@ -94,14 +96,13 @@ const ready = shallowRef(false)
 
 /* ----------------------------------------------------------- lab controls -- */
 
-// Defaults sit where the old ranges maxed out — the map reads best fully
-// spread — and the ranges extend ~3× past them so there's real room above.
-const physicsOn = shallowRef(true)
-const repel = shallowRef(700)
-const linkDist = shallowRef(350)
-const clusterPull = shallowRef(0.22)
-const spacing = shallowRef(34)
-const labelsOn = shallowRef(true)
+// Persisted per browser: the panel settings survive refreshes and return
+// visits. The component only ever runs client-side (ClientOnly), and
+// useLocalStorage keeps the ref and the stored value in sync both ways.
+const physicsOn = useLocalStorage('uapgdb-map:physics', true)
+const clusterPull = useLocalStorage('uapgdb-map:cluster-pull', 0.4)
+const spacing = useLocalStorage('uapgdb-map:node-spacing', 69)
+const labelsOn = useLocalStorage('uapgdb-map:zoom-labels', true)
 
 /** Hovered legend row — dims every node outside that category. */
 const catFocus = shallowRef<Category | null>(null)
@@ -188,7 +189,7 @@ function localPoint(e: PointerEvent): { x: number, y: number } {
 function hitTest(sx: number, sy: number): number | null {
   const p = payload.value
   if (!p) return null
-  const src: any = physicsOn.value && simNodes ? simNodes : p.nodes
+  const src: any = simNodes ?? p.nodes
   return pickDisplayed(src, sx, sy)
 }
 
@@ -549,7 +550,7 @@ function stepSpread(dt: number): void {
 
 /* --------------------------------------------------------------- physics -- */
 
-const CHARGE_RANGE = 350 // px reach of node-node repulsion at the default repel — local spacing, not global collapse
+const CHARGE_RANGE = 350 // base px reach of node-node repulsion (see REPEL_RANGE)
 const VELOCITY_DECAY = 0.55 // > d3's 0.4 default; damps the spring oscillation
 const ALPHA_DECAY = 0.02
 const HUB_EXP = 0.75 // spring damping exponent by larger endpoint degree
@@ -558,6 +559,9 @@ const HUB_EXP = 0.75 // spring damping exponent by larger endpoint degree
 // no-op. Intra-category links get a real floor; cross-category links keep only
 // a fraction of it so the connective tissue can't drag clusters together.
 const LINK_MIN = 0.18
+// Fixed spring rest length. This had a slider, but between the collision
+// shell and the anchor scatter its visible effect never justified the knob.
+const LINK_DIST = 350
 const CROSS_CAT_DAMP = 0.45 // extra spring damping when a link crosses categories
 const PACKING = 0.55 // assumed disc packing efficiency when sizing clusters
 const RING_SHARE = 0.62 // anchor ring radius as a share of the packed-graph radius
@@ -783,13 +787,12 @@ function collideRadius(n: { d: number }): number {
   return (nodeRadius(n.d) * 2.2 + 12) * (0.25 + 0.75 * (spacing.value / 12))
 }
 
-// Charge's reach grows with the repel slider: a fixed distanceMax lets collide
-// win at equilibrium no matter the strength, so high repel must also push
-// *past* the collide contact shell to visibly loosen the packing (the default
-// 700 reaches ~1200 px).
-function chargeDistMax(): number {
-  return CHARGE_RANGE * (0.5 + repel.value / 240)
-}
+// Fixed charge. This had a slider too, but like link distance its settled
+// result was near-identical across the whole range — collision and cluster
+// pull own the equilibrium. The reach must extend well past the collide
+// contact shell or charge can't loosen the packing at all.
+const REPEL = 700
+const REPEL_RANGE = CHARGE_RANGE * (0.5 + REPEL / 240) // ~1200 px
 
 function anchorX(n: { i: number, c: Category }): number {
   const cl = clusters.get(aliasCat(n.c))
@@ -826,8 +829,8 @@ function buildSimulation(p: GraphPayload): void {
   // stepBuild). The id accessor resolves links by payload index, so link
   // registration is independent of activation order.
   sim = d3.forceSimulation([])
-    .force('charge', d3.forceManyBody().strength(-repel.value).theta(0.9).distanceMax(chargeDistMax()))
-    .force('link', d3.forceLink([]).id((nd: any) => nd.i).distance(linkDist.value).strength((l: any) => l.s))
+    .force('charge', d3.forceManyBody().strength(-REPEL).theta(0.9).distanceMax(REPEL_RANGE))
+    .force('link', d3.forceLink([]).id((nd: any) => nd.i).distance(LINK_DIST).strength((l: any) => l.s))
     .force('collide', d3.forceCollide().radius(collideRadius).strength(0.8).iterations(2))
     .force('cx', d3.forceX(anchorX).strength(clusterPull.value))
     .force('cy', d3.forceY(anchorY).strength(clusterPull.value))
@@ -840,8 +843,8 @@ function buildSimulation(p: GraphPayload): void {
 function reheat(alpha: number): void {
   if (!sim || !payload.value) return
   computeClusters(payload.value)
-  sim.force('charge').strength(-repel.value).distanceMax(chargeDistMax())
-  sim.force('link').distance(linkDist.value)
+  sim.force('charge').strength(-REPEL).distanceMax(REPEL_RANGE)
+  sim.force('link').distance(LINK_DIST)
   sim.force('collide').radius(collideRadius)
   sim.force('cx').x(anchorX).strength(clusterPull.value)
   sim.force('cy').y(anchorY).strength(clusterPull.value)
@@ -849,12 +852,12 @@ function reheat(alpha: number): void {
   dirty = true
 }
 
-watch([repel, linkDist, clusterPull, spacing], () => reheat(0.5))
+watch([clusterPull, spacing], () => reheat(0.5))
 
 /** Bounding box of whatever layout is currently on screen. */
 function currentBounds(): GraphPayload['bounds'] {
   const p = payload.value!
-  const src: { x: number, y: number }[] = physicsOn.value && simNodes ? simNodes : p.nodes
+  const src: { x: number, y: number }[] = simNodes ?? p.nodes
   if (!src.length) return p.bounds
   let minX = Infinity
   let minY = Infinity
@@ -883,24 +886,54 @@ function restartSimulation(): void {
   dirty = true
 }
 
+/**
+ * The physics-off layout is the SAME clustered equilibrium as the live one —
+ * the whole graph is registered at once and relaxed synchronously, then the
+ * simulation is parked (the render loop only ticks while physics is on).
+ * ~150 ticks from near-equilibrium seeds settle in well under a second.
+ */
+const STATIC_TICKS = 150
+function settleStatic(): void {
+  const p = payload.value
+  if (!p || !sim || !simNodes) return
+  building = false
+  fadingNodes.clear()
+  const n = simNodes.length
+  activeFlag = new Uint8Array(n).fill(1)
+  fadeA = new Float32Array(n).fill(1)
+  activeNodes = simNodes.slice()
+  activeLinks = linkObjs.slice()
+  for (let i = 0; i < n; i++) {
+    sprites[i]!.visible = true
+    sprites[i]!.alpha = 1
+    rings[i]!.visible = true
+    rings[i]!.alpha = 1
+  }
+  sim.nodes(activeNodes)
+  sim.force('link').links(activeLinks)
+  sim.alpha(0.5)
+  for (let t = 0; t < STATIC_TICKS && sim.alpha() > 0.025; t++) sim.tick()
+  sim.alpha(0) // parked
+  geomDirty = true
+  focusDirty = true
+  dirty = true
+}
+
 watch(physicsOn, (on) => {
   const p = payload.value
   if (!p) return
   if (on) {
     restartSimulation()
   }
+  else if (building) {
+    // Mid-build freeze: nodes not yet simulated are still piled on their
+    // seeds, so finish the layout synchronously instead of showing the pile.
+    settleStatic()
+  }
   else {
-    // The baked layout is complete by definition — cancel any in-flight
-    // staged build and show everything.
-    building = false
+    // Fully settled — freezing is free; hold the layout and camera as they are.
+    sim?.alpha(0)
     fadingNodes.clear()
-    for (let i = 0; i < p.nodes.length; i++) {
-      if (sprites[i]) sprites[i].visible = true
-      if (rings[i]) rings[i].visible = true
-    }
-    camera.fitTo(p.bounds)
-    geomDirty = true
-    focusDirty = true
     dirty = true
   }
 })
@@ -916,8 +949,10 @@ function resetLayout(): void {
     restartSimulation()
   }
   else {
-    camera.fitTo(p.bounds)
-    dirty = true
+    reheat(0)
+    seedSimulation()
+    settleStatic()
+    camera.fitTo(currentBounds(), FIT_PAD)
   }
 }
 
@@ -1027,9 +1062,12 @@ function buildSceneIfReady(): void {
   computeClusters(p)
   buildSimulation(p)
   applyPalette()
+  // Physics on: the staged grow-in. Physics off (persisted): the same
+  // clustered layout, settled synchronously and shown at once.
   if (physicsOn.value) beginBuild()
+  else settleStatic()
   autoFit = true
-  camera.fitTo(physicsOn.value ? currentBounds() : p.bounds, FIT_PAD)
+  camera.fitTo(currentBounds(), FIT_PAD)
   kDirty = true
   focusDirty = true
   geomDirty = true
@@ -1089,9 +1127,11 @@ function update(ticker?: any): void {
     geomDirty = true
     dirty = true
     // Keep the settling layout in frame until the settle completes or the
-    // user takes the camera (see autoFit).
+    // user takes the camera (see autoFit). The fit GLIDES toward its target
+    // rather than snapping every frame — during the staged grow-in the bounds
+    // expand in steps, and a hard per-frame fit read as zoom jumps.
     if (autoFit && !camera.userAdjusted.value && dragIndex == null) {
-      camera.fitTo(currentBounds(), FIT_PAD)
+      camera.fitTo(currentBounds(), FIT_PAD, 1 - 0.92 ** (ticker?.deltaTime ?? 1))
     }
   }
   else {
@@ -1105,7 +1145,7 @@ function update(ticker?: any): void {
   if (!dirty) return
   dirty = false
 
-  const src: any[] = physicsOn.value && simNodes ? simNodes : (p.nodes as any[])
+  const src: any[] = (simNodes as any[]) ?? (p.nodes as any[])
   const { x: px, y: py } = camera.pan.value
   const k = camera.k.value
   world.position.set(px, py)
@@ -1283,7 +1323,7 @@ watch(payload, () => buildSceneIfReady())
 // so compare dimensions before reacting. Once the settle completes or the user
 // takes the camera, a resize changes nothing: re-anchoring the clusters and
 // re-fitting then would drag the layout out from under the settled view.
-// (Physics-off is the static baked layout — refitting that on resize is safe.)
+// (Physics-off is a frozen snapshot — refitting it on resize is safe.)
 let lastW = 0
 let lastH = 0
 watch(() => camera.size.value, ({ w, h }) => {
@@ -1292,7 +1332,7 @@ watch(() => camera.size.value, ({ w, h }) => {
   lastH = h
   if (payload.value && w > 0 && h > 0 && !camera.userAdjusted.value && (autoFit || !physicsOn.value)) {
     if (physicsOn.value && sim) reheat(0.3) // anchors follow the new aspect
-    camera.fitTo(physicsOn.value ? currentBounds() : payload.value.bounds, FIT_PAD)
+    camera.fitTo(currentBounds(), FIT_PAD)
   }
   kDirty = true
   dirty = true
@@ -1476,38 +1516,10 @@ onBeforeUnmount(() => {
           </span>
         </button>
         <p class="mt-1 font-sans text-[11px] leading-4 text-muted-foreground">
-          {{ physicsOn ? 'Live d3-force layout, clustered by type — drag nodes to stir it.' : 'Precomputed (baked) layout.' }}
+          {{ physicsOn ? 'Live d3-force layout, clustered by type — drag nodes to stir it.' : 'Layout frozen in place — turn physics on to stir it.' }}
         </p>
 
         <div class="mt-3 flex flex-col gap-2.5" :class="physicsOn ? '' : 'pointer-events-none opacity-40'">
-          <label class="block">
-            <span class="flex items-center justify-between font-mono text-[10px] uppercase tracking-[0.08em] text-muted-foreground">
-              Repel force <span class="tabular-nums text-foreground">{{ repel }}</span>
-            </span>
-            <input
-              v-model.number="repel"
-              type="range"
-              min="0"
-              max="2000"
-              step="25"
-              class="mt-1 w-full"
-              :style="{ accentColor: 'hsl(var(--primary))' }"
-            >
-          </label>
-          <label class="block">
-            <span class="flex items-center justify-between font-mono text-[10px] uppercase tracking-[0.08em] text-muted-foreground">
-              Link distance <span class="tabular-nums text-foreground">{{ linkDist }}</span>
-            </span>
-            <input
-              v-model.number="linkDist"
-              type="range"
-              min="10"
-              max="1000"
-              step="10"
-              class="mt-1 w-full"
-              :style="{ accentColor: 'hsl(var(--primary))' }"
-            >
-          </label>
           <label class="block">
             <span class="flex items-center justify-between font-mono text-[10px] uppercase tracking-[0.08em] text-muted-foreground">
               Cluster pull <span class="tabular-nums text-foreground">{{ clusterPull.toFixed(2) }}</span>

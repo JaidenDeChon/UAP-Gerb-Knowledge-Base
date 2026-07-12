@@ -13,9 +13,9 @@ export interface ThemeMeta {
 // deep-state jargon for the dark pair. Ids stay stable: they're persisted in
 // the theme cookie and matched by the [data-theme] CSS selectors.
 export const THEMES: readonly ThemeMeta[] = [
-  { id: 'light', label: 'Daylight Disc', icon: 'sun' },
+  { id: 'light', label: 'White Light', icon: 'sun' },
   { id: 'sepia', label: 'Majestic', icon: 'book-open' },
-  { id: 'dim', label: 'Nocturnal Lights', icon: 'cloud-moon' },
+  { id: 'dim', label: 'Night Ops', icon: 'cloud-moon' },
   { id: 'dark', label: 'Black Program', icon: 'moon' },
 ]
 

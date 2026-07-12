@@ -13,6 +13,10 @@ export function clamp(v: number, lo: number, hi: number): number {
   return v < lo ? lo : v > hi ? hi : v
 }
 
+/** Interactive zoom range shared by the map camera and fit-to-view. */
+export const MIN_ZOOM = 0.05
+export const MAX_ZOOM = 4
+
 /**
  * Undirected adjacency list indexed by node. `edges` reference nodes by index;
  * out-of-range endpoints are skipped so a subgraph's edges are safe to pass.
@@ -184,7 +188,7 @@ export function fitView(bounds: Bounds, w: number, h: number, padding: number): 
   const bh = Math.max(bounds.maxY - bounds.minY, 1e-6)
   const availW = Math.max(w - padding * 2, 1)
   const availH = Math.max(h - padding * 2, 1)
-  const k = clamp(Math.min(availW / bw, availH / bh), 0.15, 4)
+  const k = clamp(Math.min(availW / bw, availH / bh), MIN_ZOOM, MAX_ZOOM)
   const cx = (bounds.minX + bounds.maxX) / 2
   const cy = (bounds.minY + bounds.maxY) / 2
   return { x: w / 2 - cx * k, y: h / 2 - cy * k, k }
