@@ -94,11 +94,13 @@ const ready = shallowRef(false)
 
 /* ----------------------------------------------------------- lab controls -- */
 
+// Defaults sit where the old ranges maxed out — the map reads best fully
+// spread — and the ranges extend ~3× past them so there's real room above.
 const physicsOn = shallowRef(true)
-const repel = shallowRef(120)
-const linkDist = shallowRef(50)
-const clusterPull = shallowRef(0.08)
-const spacing = shallowRef(12)
+const repel = shallowRef(700)
+const linkDist = shallowRef(350)
+const clusterPull = shallowRef(0.22)
+const spacing = shallowRef(34)
 const labelsOn = shallowRef(true)
 
 /** Hovered legend row — dims every node outside that category. */
@@ -298,14 +300,34 @@ const hoverTitle = computed(() => {
   return p && hoverIndex.value != null ? p.nodes[hoverIndex.value]!.l : ''
 })
 
-/** `pickNode`, but against the displayed (spread-offset) positions. */
+/**
+ * Matching name plates for the fanned neighbours (replace their Pixi labels
+ * while a hover is active). The list is reactive (rebuilt per focus change);
+ * positions are imperative — the render loop writes each plate's transform,
+ * anchored radially outward along its spread bearing like the old BitmapText.
+ */
+const neighbourPlates = shallowRef<{ i: number, l: string }[]>([])
+const plateEls = new Map<number, HTMLElement>()
+function setPlateRef(i: number) {
+  return (el: unknown) => {
+    if (el) plateEls.set(i, el as HTMLElement)
+    else plateEls.delete(i)
+  }
+}
+
+/**
+ * `pickNode`, but against the displayed (spread-offset) positions, skipping
+ * nodes the staged build hasn't added yet.
+ */
 function pickDisplayed(src: any[], sx: number, sy: number): number | null {
-  if (!spreadActive.size) return pickNode(src, camera.pan.value, camera.k.value, sx, sy)
+  const staged = physicsOn.value && activeFlag.length === src.length
+  if (!spreadActive.size && !staged) return pickNode(src, camera.pan.value, camera.k.value, sx, sy)
   const { x: px, y: py } = camera.pan.value
   const k = camera.k.value
   let best: number | null = null
   let bestDist = Infinity
   for (let i = 0; i < src.length; i++) {
+    if (staged && !activeFlag[i]) continue
     const n = src[i]!
     const dx = px + (n.x + offX[i]!) * k - sx
     const dy = py + (n.y + offY[i]!) * k - sy
@@ -334,7 +356,7 @@ function setSpreadTargets(src: any[]): void {
   spreadRadiusPx = 0
   spreadSettled = false
   if (focus == null) return
-  const nbrs = adjacency.value[focus] ?? []
+  const nbrs = activeNeighbours(focus)
   const n = nbrs.length
   if (!n) return
   const f = src[focus]!
@@ -402,6 +424,23 @@ function setSpreadTargets(src: any[]): void {
   }
 }
 
+/** The focus node's neighbours, minus any the staged build hasn't added yet. */
+function activeNeighbours(i: number): number[] {
+  const nbrs = adjacency.value[i] ?? []
+  if (!physicsOn.value || activeFlag.length !== (payload.value?.nodes.length ?? 0)) return nbrs
+  return nbrs.filter(j => activeFlag[j])
+}
+
+/** Rebuild the neighbour-plate list for the current focus. */
+function syncPlates(): void {
+  const p = payload.value
+  if (!p || focus == null) {
+    neighbourPlates.value = []
+    return
+  }
+  neighbourPlates.value = activeNeighbours(focus).map(j => ({ i: j, l: p.nodes[j]!.l }))
+}
+
 /** Lerp offsets toward their targets; snap when within half a screen px. */
 function stepSpread(dt: number): void {
   const ease = 1 - 0.85 ** dt
@@ -429,13 +468,109 @@ const CHARGE_RANGE = 350 // px reach of node-node repulsion at the default repel
 const VELOCITY_DECAY = 0.55 // > d3's 0.4 default; damps the spring oscillation
 const ALPHA_DECAY = 0.02
 const HUB_EXP = 0.75 // spring damping exponent by larger endpoint degree
+// Hub damping alone leaves most springs too weak to beat collision (a link to
+// a degree-30 node lands near 0.08), which made the link-distance slider a
+// no-op. Intra-category links get a real floor; cross-category links keep only
+// a fraction of it so the connective tissue can't drag clusters together.
+const LINK_MIN = 0.18
 const CROSS_CAT_DAMP = 0.45 // extra spring damping when a link crosses categories
 const PACKING = 0.55 // assumed disc packing efficiency when sizing clusters
 const RING_SHARE = 0.62 // anchor ring radius as a share of the packed-graph radius
 const FIT_PAD = 56 // px margin the auto-fit keeps around the layout
+// Per-node anchor scatter. Pulling a whole category toward one shared point
+// packs its weakly-linked nodes into concentric shells around that point —
+// the "rings of unrelated nodes" artifact. Instead every node gets a personal
+// gravity target on the cluster's disc (deterministic hash of its index), so
+// the interior settles as an organic cloud. 0 = point anchor, 1 = targets
+// spread across the full cluster radius.
+const SCATTER = 0.85
 
 let d3: any = null
 let sim: any = null
+
+/* ------------------------------------------------------------ staged build -- */
+
+// The graph doesn't appear all at once: nodes join the live simulation in
+// per-frame batches (fading in as they land) until the whole graph is in.
+// Solving 1k nodes' constraints from a cold start is what made the first
+// seconds a twitchy mess — grown incrementally from near-equilibrium seeds,
+// the layout stays calm the whole way (this is also how Obsidian's graph
+// reads on open). Membership is re-registered with d3 per batch: re-running
+// the forces' initialize over the active slice is O(n+m) and trivially cheap.
+const BUILD_MS = 3800 // wall-clock target for the full grow-in
+const FADE_MS = 450 // per-node fade-in once added
+let building = false
+let addOrder: number[] = [] // deterministic shuffle — every cluster grows at once
+let activeCursor = 0
+let activeFlag = new Uint8Array(0)
+let activeNodes: any[] = [] // the slice d3 currently simulates
+let activeLinks: any[] = [] // links with both endpoints active
+let incident: number[][] = [] // payload edge indices per node
+let linkObjs: any[] = [] // one object per payload edge, registered as it completes
+let fadeA = new Float32Array(0)
+const fadingNodes = new Set<number>()
+
+function beginBuild(): void {
+  const p = payload.value
+  if (!p || !simNodes || !sim) return
+  const n = simNodes.length
+  activeFlag = new Uint8Array(n)
+  fadeA = new Float32Array(n)
+  activeNodes = []
+  activeLinks = []
+  fadingNodes.clear()
+  activeCursor = 0
+  // mulberry32 shuffle, fixed seed: same grow-in order every load.
+  addOrder = Array.from({ length: n }, (_, i) => i)
+  let a = 0x2545F491
+  const rand = (): number => {
+    a = (a + 0x6D2B79F5) | 0
+    let t = Math.imul(a ^ (a >>> 15), 1 | a)
+    t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296
+  }
+  for (let i = n - 1; i > 0; i--) {
+    const j = Math.floor(rand() * (i + 1))
+    const tmp = addOrder[i]!
+    addOrder[i] = addOrder[j]!
+    addOrder[j] = tmp
+  }
+  for (let i = 0; i < n; i++) {
+    sprites[i]!.visible = false
+    rings[i]!.visible = false
+    if (labels[i]) labels[i].visible = false
+  }
+  sim.nodes(activeNodes)
+  sim.force('link').links(activeLinks)
+  sim.alpha(0.5)
+  building = true
+}
+
+/** Move one per-frame batch of nodes (and their completed links) into the sim. */
+function stepBuild(deltaMS: number): void {
+  if (!building || !simNodes) return
+  const n = simNodes.length
+  const add = Math.max(1, Math.round((n * deltaMS) / BUILD_MS))
+  for (let b = 0; b < add && activeCursor < n; b++) {
+    const i = addOrder[activeCursor++]!
+    activeFlag[i] = 1
+    activeNodes.push(simNodes[i])
+    sprites[i]!.visible = true
+    sprites[i]!.alpha = 0
+    rings[i]!.visible = true
+    rings[i]!.alpha = 0
+    fadingNodes.add(i)
+    for (const e of incident[i] ?? []) {
+      const l = linkObjs[e]!
+      if (activeFlag[l.a === i ? l.b : l.a]) activeLinks.push(l)
+    }
+  }
+  sim.nodes(activeNodes)
+  sim.force('link').links(activeLinks)
+  // Held warm for the whole grow-in; decays to a freeze once complete.
+  sim.alpha(Math.max(sim.alpha(), 0.35))
+  if (activeCursor >= n) building = false
+}
 /**
  * Auto-fit serves the *initial* settle (and explicit restarts — Reset layout,
  * physics toggle) only. Once the simulation cools, or the user takes the
@@ -507,24 +642,40 @@ function computeClusters(p: GraphPayload): void {
   })
 }
 
+/** Unit-disc scatter coordinates per node — see SCATTER. */
+let scatX = new Float64Array(0)
+let scatY = new Float64Array(0)
+
+function computeScatter(n: number): void {
+  if (scatX.length === n) return
+  scatX = new Float64Array(n)
+  scatY = new Float64Array(n)
+  for (let i = 0; i < n; i++) {
+    // mulberry32 keyed by index: stable across reloads, no Math.random.
+    let a = (Math.imul(i + 1, 0x9E3779B9) ^ 0x6D2B79F5) >>> 0
+    const next = (): number => {
+      a = (a + 0x6D2B79F5) | 0
+      let t = Math.imul(a ^ (a >>> 15), 1 | a)
+      t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t
+      return ((t ^ (t >>> 14)) >>> 0) / 4294967296
+    }
+    const angle = next() * Math.PI * 2
+    const rad = Math.sqrt(next()) // uniform over the disc
+    scatX[i] = Math.cos(angle) * rad
+    scatY[i] = Math.sin(angle) * rad
+  }
+}
+
 /**
- * Deterministic seed: each cluster's nodes on a golden-angle spiral around its
- * anchor — already evenly spread, so the simulation relaxes instead of
- * untangling a cross-graph swirl.
+ * Deterministic seed: every node starts at its own scattered gravity target,
+ * so the layout begins near equilibrium and relaxes instead of untangling a
+ * cross-graph swirl.
  */
 function seedSimulation(): void {
   if (!simNodes) return
-  const placed = new Map<Category, number>()
   for (const n of simNodes) {
-    const c = aliasCat(n.c)
-    const cluster = clusters.get(c)
-    if (!cluster) continue
-    const j = placed.get(c) ?? 0
-    placed.set(c, j + 1)
-    const r = cluster.r * Math.sqrt((j + 0.5) / cluster.count)
-    const angle = j * 2.39996323 // golden angle
-    n.x = cluster.x + Math.cos(angle) * r
-    n.y = cluster.y + Math.sin(angle) * r
+    n.x = anchorX(n)
+    n.y = anchorY(n)
     ;(n as any).vx = 0
     ;(n as any).vy = 0
   }
@@ -538,51 +689,63 @@ function seedSimulation(): void {
 //
 // The spacing slider multiplies the *whole* keep-apart radius rather than
 // adding a small pad — collision is the binding constraint at equilibrium, so
-// a multiplier is what actually changes the packing density. The default (12)
-// maps to 1× (the tuned look); 0 lets nodes pile nearly on top of each other;
-// 30 more than doubles every contact distance.
+// a multiplier is what actually changes the packing density. Slider 12 maps
+// to 1× the base radius; 0 lets nodes pile nearly on top of each other; the
+// default (34) runs ~2.4×; 90 is a near-empty six-fold spread.
 function collideRadius(n: { d: number }): number {
   return (nodeRadius(n.d) * 2.2 + 12) * (0.25 + 0.75 * (spacing.value / 12))
 }
 
 // Charge's reach grows with the repel slider: a fixed distanceMax lets collide
 // win at equilibrium no matter the strength, so high repel must also push
-// *past* the collide contact shell to visibly loosen the packing. Default
-// (120) keeps the tuned 350 px reach.
+// *past* the collide contact shell to visibly loosen the packing (the default
+// 700 reaches ~1200 px).
 function chargeDistMax(): number {
   return CHARGE_RANGE * (0.5 + repel.value / 240)
 }
 
-function anchorX(n: { c: Category }): number {
-  return clusters.get(aliasCat(n.c))?.x ?? 0
+function anchorX(n: { i: number, c: Category }): number {
+  const cl = clusters.get(aliasCat(n.c))
+  return cl ? cl.x + scatX[n.i]! * cl.r * SCATTER : 0
 }
 
-function anchorY(n: { c: Category }): number {
-  return clusters.get(aliasCat(n.c))?.y ?? 0
+function anchorY(n: { i: number, c: Category }): number {
+  const cl = clusters.get(aliasCat(n.c))
+  return cl ? cl.y + scatY[n.i]! * cl.r * SCATTER : 0
 }
 
 function buildSimulation(p: GraphPayload): void {
+  computeScatter(p.nodes.length)
   simNodes = p.nodes.map(n => ({ i: n.i, x: n.x, y: n.y, d: n.d, c: n.c }))
   // Spring strength damped by the larger endpoint degree (precomputed — no
-  // dependence on d3's link-resolution order). A 200-link hub barely tugs its
-  // leaves; a 1–1 link is a firm spring. Links that cross categories are
-  // damped further so the connective tissue between clusters doesn't drag
-  // everything into a mixed central pool.
-  const links = p.edges.map(([source, target]) => {
+  // dependence on d3's link-resolution order), then floored (see LINK_MIN) so
+  // every link keeps enough tension for the link-distance slider to matter.
+  // Links that cross categories keep only a fraction of the floor so the
+  // connective tissue between clusters doesn't drag them into a central pool.
+  // `a`/`b` keep the payload indices: d3 rewrites source/target to node
+  // objects on registration, and the staged build needs the raw endpoints.
+  linkObjs = p.edges.map(([source, target]) => {
     const a = p.nodes[source]!
     const b = p.nodes[target]!
-    const hub = Math.min(1, 1 / Math.max(a.d, b.d, 1) ** HUB_EXP)
-    return { source, target, s: hub * (aliasCat(a.c) === aliasCat(b.c) ? 1 : CROSS_CAT_DAMP) }
+    const hub = Math.max(LINK_MIN, Math.min(1, 1 / Math.max(a.d, b.d, 1) ** HUB_EXP))
+    return { source, target, a: source, b: target, s: hub * (aliasCat(a.c) === aliasCat(b.c) ? 1 : CROSS_CAT_DAMP) }
   })
-  sim = d3.forceSimulation(simNodes)
+  incident = Array.from({ length: p.nodes.length }, () => [])
+  p.edges.forEach(([a, b], e) => {
+    incident[a]!.push(e)
+    incident[b]!.push(e)
+  })
+  // The sim starts EMPTY — the staged build grows its membership (see
+  // stepBuild). The id accessor resolves links by payload index, so link
+  // registration is independent of activation order.
+  sim = d3.forceSimulation([])
     .force('charge', d3.forceManyBody().strength(-repel.value).theta(0.9).distanceMax(chargeDistMax()))
-    .force('link', d3.forceLink(links).distance(linkDist.value).strength((l: any) => l.s))
+    .force('link', d3.forceLink([]).id((nd: any) => nd.i).distance(linkDist.value).strength((l: any) => l.s))
     .force('collide', d3.forceCollide().radius(collideRadius).strength(0.8).iterations(2))
     .force('cx', d3.forceX(anchorX).strength(clusterPull.value))
     .force('cy', d3.forceY(anchorY).strength(clusterPull.value))
     .velocityDecay(VELOCITY_DECAY)
     .alphaDecay(ALPHA_DECAY)
-    .alpha(0.9)
     .stop() // ticked manually from the render loop
   seedSimulation()
 }
@@ -625,7 +788,7 @@ function restartSimulation(): void {
   reheat(0) // recompute anchors AND push them into the cached force accessors
   seedSimulation()
   sim.alphaTarget(0)
-  sim.alpha(0.9)
+  beginBuild() // fresh layout grows back in, node by node
   autoFit = true // fresh layout: the camera frames the settle again
   camera.fitTo(currentBounds(), FIT_PAD)
   geomDirty = true
@@ -640,6 +803,14 @@ watch(physicsOn, (on) => {
     restartSimulation()
   }
   else {
+    // The baked layout is complete by definition — cancel any in-flight
+    // staged build and show everything.
+    building = false
+    fadingNodes.clear()
+    for (let i = 0; i < p.nodes.length; i++) {
+      if (sprites[i]) sprites[i].visible = true
+      if (rings[i]) rings[i].visible = true
+    }
     camera.fitTo(p.bounds)
     geomDirty = true
     focusDirty = true
@@ -744,6 +915,7 @@ function buildSceneIfReady(): void {
   spreadSettled = true
   spreadRadiusPx = 0
   focus = null
+  neighbourPlates.value = []
   for (let i = 0; i < p.nodes.length; i++) {
     const n = p.nodes[i]!
     const ring = new PIXI.Sprite(circleTex)
@@ -768,6 +940,7 @@ function buildSceneIfReady(): void {
   computeClusters(p)
   buildSimulation(p)
   applyPalette()
+  if (physicsOn.value) beginBuild()
   autoFit = true
   camera.fitTo(physicsOn.value ? currentBounds() : p.bounds, FIT_PAD)
   kDirty = true
@@ -803,8 +976,10 @@ function labelFor(i: number): any {
 
 function rebuildEdges(src: { x: number, y: number }[]): void {
   const p = payload.value!
+  const staged = physicsOn.value && activeFlag.length === src.length
   edgesG.clear()
   for (const [a, b] of p.edges) {
+    if (staged && (!activeFlag[a] || !activeFlag[b])) continue
     const na = src[a]
     const nb = src[b]
     if (!na || !nb) continue
@@ -818,6 +993,8 @@ function rebuildEdges(src: { x: number, y: number }[]): void {
 function update(ticker?: any): void {
   const p = payload.value
   if (!p || !world) return
+
+  if (building && physicsOn.value && sim) stepBuild(ticker?.deltaMS ?? 16.7)
 
   const hot = physicsOn.value && sim && sim.alpha() > 0.02
   if (hot) {
@@ -834,9 +1011,9 @@ function update(ticker?: any): void {
     // The settle is over; later reheats (slider tweaks) keep the camera still.
     autoFit = false
   }
-  // Spread offsets in flight: keep frames coming (alongside the hot/dirty
-  // gates) without touching the simulation.
-  const animating = spreadActive.size > 0 && !spreadSettled
+  // Spread offsets or fade-ins in flight: keep frames coming (alongside the
+  // hot/dirty gates) without touching the simulation.
+  const animating = (spreadActive.size > 0 && !spreadSettled) || fadingNodes.size > 0 || building
   if (animating) dirty = true
   if (!dirty) return
   dirty = false
@@ -862,12 +1039,14 @@ function update(ticker?: any): void {
       focus = next
       focusDirty = true
       setSpreadTargets(src)
+      syncPlates()
     }
   }
   else if (focus != null) {
     focus = null
     focusDirty = true
     setSpreadTargets(src)
+    syncPlates()
   }
   hoverIndex.value = focus
 
@@ -921,6 +1100,19 @@ function update(ticker?: any): void {
     }
   }
 
+  // Fade-ins override the alpha the pass above assigned, so this runs after
+  // it. Only nodes still mid-fade are touched.
+  if (fadingNodes.size) {
+    const dms = ticker?.deltaMS ?? 16.7
+    for (const i of fadingNodes) {
+      const f = Math.min(1, fadeA[i]! + dms / FADE_MS)
+      fadeA[i] = f
+      sprites[i]!.alpha = f
+      rings[i]!.alpha = f
+      if (f >= 1) fadingNodes.delete(i)
+    }
+  }
+
   // Focus edges, screen space, following the DISPLAYED (spread) positions.
   if (focusDirty || hot || animating) {
     focusDirty = false
@@ -929,7 +1121,7 @@ function update(ticker?: any): void {
       const nf = src[focus]!
       const fx = px + nf.x * k
       const fy = py + nf.y * k
-      for (const j of adjacency.value[focus] ?? []) {
+      for (const j of activeNeighbours(focus)) {
         const nj = src[j]!
         focusG.moveTo(fx, fy).lineTo(px + (nj.x + offX[j]!) * k, py + (nj.y + offY[j]!) * k)
       }
@@ -943,18 +1135,20 @@ function update(ticker?: any): void {
   const { w, h } = camera.size.value
   const margin = 80
   const zoomLabels = labelsOn.value && k >= 0.9
+  const staged = physicsOn.value && activeFlag.length === p.nodes.length
   for (let i = 0; i < p.nodes.length; i++) {
     const existing = labels[i]
-    // The hovered node's own title moves to the HTML panel.
-    if (i === focus) {
+    // The hovered node and its fanned neighbours use HTML name plates instead
+    // of Pixi labels while the hover is active. Nodes the staged build hasn't
+    // added yet have nothing to label.
+    if (i === focus || (focus != null && neighbours!.has(i)) || (staged && !activeFlag[i])) {
       if (existing) existing.visible = false
       continue
     }
-    const isFocusish = focus != null && neighbours!.has(i)
-    let show = isFocusish
+    let show = false
     const nx = src[i]!.x + offX[i]!
     const ny = src[i]!.y + offY[i]!
-    if (!show && zoomLabels) {
+    if (zoomLabels) {
       const sx = px + nx * k
       const sy = py + ny * k
       show = sx >= -margin && sx <= w + margin && sy >= -margin && sy <= h + margin
@@ -967,19 +1161,7 @@ function update(ticker?: any): void {
     t.visible = true
     const r = nodeRadius(p.nodes[i]!.d)
     t.scale.set(1 / k)
-    if (isFocusish) {
-      // Anchor the label to extend radially outward from the fan: side labels
-      // grow sideways, top/bottom labels stack away — labels on different
-      // rings at the same bearing can't overlap.
-      const ca = Math.cos(spreadAng[i]!)
-      const sa = Math.sin(spreadAng[i]!)
-      t.anchor.set(0.5 - ca * 0.5, 0.5 - sa * 0.5)
-      t.position.set(nx + (ca * (r + 4)) / k, ny + (sa * (r + 4)) / k)
-    }
-    else {
-      t.anchor.set(0.5, 0)
-      t.position.set(nx, ny + (r + 2) / k)
-    }
+    t.position.set(nx, ny + (r + 2) / k)
   }
 
   // The blurred HTML title panel tracks the hovered node's screen position;
@@ -989,6 +1171,24 @@ function update(ticker?: any): void {
     const nf = src[focus]!
     const pr = nodeRadius(p.nodes[focus]!.d) + 3
     panel.style.transform = `translate(${px + nf.x * k}px, ${py + nf.y * k + pr + 7}px) translateX(-50%)`
+  }
+
+  // Neighbour plates track their fanned (displayed) positions, anchored to
+  // extend radially outward along the spread bearing — the CSS %-translate is
+  // the Pixi anchor trick, so side plates grow sideways and stacked rings at
+  // the same bearing can't overlap.
+  if (focus != null) {
+    for (const { i } of neighbourPlates.value) {
+      const el = plateEls.get(i)
+      if (!el) continue
+      const ca = Math.cos(spreadAng[i]!)
+      const sa = Math.sin(spreadAng[i]!)
+      const r = nodeRadius(p.nodes[i]!.d) + 5
+      const sx = px + (src[i]!.x + offX[i]!) * k + ca * r
+      const sy = py + (src[i]!.y + offY[i]!) * k + sa * r
+      el.style.transform = `translate(${sx}px, ${sy}px) translate(${ca * 50 - 50}%, ${sa * 50 - 50}%)`
+      el.style.opacity = '1'
+    }
   }
 }
 
@@ -1061,6 +1261,20 @@ onBeforeUnmount(() => {
       <span class="font-mono text-xs tracking-[0.1em] text-muted-foreground">LOADING MAP…</span>
     </div>
 
+    <!-- Name plates for the fanned neighbours — same panel treatment as the
+         hovered node's title; positioned imperatively from the render loop.
+         They start transparent so a freshly mounted plate never flashes at the
+         origin before its first transform lands. -->
+    <div
+      v-for="plate in neighbourPlates"
+      :key="plate.i"
+      :ref="setPlateRef(plate.i)"
+      class="pointer-events-none absolute left-0 top-0 z-10 select-none whitespace-nowrap rounded-md border border-border/50 bg-background/60 px-2 py-0.5 backdrop-blur-xl"
+      style="will-change: transform; opacity: 0"
+    >
+      <span class="font-sans text-[11px] text-foreground">{{ plate.l }}</span>
+    </div>
+
     <!-- Hovered node's title — HTML so it can sit on a blurred panel; positioned
          imperatively (style.transform) from the render loop every frame. -->
     <div
@@ -1069,7 +1283,7 @@ onBeforeUnmount(() => {
       class="pointer-events-none absolute left-0 top-0 z-10 select-none whitespace-nowrap rounded-lg border border-border/50 bg-background/60 px-2.5 py-1 backdrop-blur-xl"
       style="will-change: transform"
     >
-      <span class="font-sans text-xs text-foreground">{{ hoverTitle }}</span>
+      <span class="font-sans text-xs font-medium text-foreground">{{ hoverTitle }}</span>
     </div>
 
     <!-- Simulation controls — Obsidian-style graph settings for this variant. -->
@@ -1113,8 +1327,8 @@ onBeforeUnmount(() => {
             v-model.number="repel"
             type="range"
             min="0"
-            max="400"
-            step="10"
+            max="2000"
+            step="25"
             class="mt-1 w-full"
             :style="{ accentColor: 'hsl(var(--primary))' }"
           >
@@ -1127,8 +1341,8 @@ onBeforeUnmount(() => {
             v-model.number="linkDist"
             type="range"
             min="10"
-            max="150"
-            step="5"
+            max="1000"
+            step="10"
             class="mt-1 w-full"
             :style="{ accentColor: 'hsl(var(--primary))' }"
           >
@@ -1141,8 +1355,8 @@ onBeforeUnmount(() => {
             v-model.number="clusterPull"
             type="range"
             min="0"
-            max="0.2"
-            step="0.01"
+            max="0.6"
+            step="0.02"
             class="mt-1 w-full"
             :style="{ accentColor: 'hsl(var(--primary))' }"
           >
@@ -1155,8 +1369,8 @@ onBeforeUnmount(() => {
             v-model.number="spacing"
             type="range"
             min="0"
-            max="30"
-            step="1"
+            max="90"
+            step="3"
             class="mt-1 w-full"
             :style="{ accentColor: 'hsl(var(--primary))' }"
           >
