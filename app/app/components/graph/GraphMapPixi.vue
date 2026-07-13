@@ -283,6 +283,8 @@ let spreadSettled = true
 let spreadRadiusPx = 0 // outermost ring in screen px
 /** True while the pinned fan-out is displayed (plates, spread offsets). */
 let spreadMode = false
+/** Camera scale the fan was last solved at (plates don't scale with zoom). */
+let lastSpreadK = 1
 /** Nodes lifted into the crisp pin layer (the pinned node + its fan). */
 let pinMembers: number[] = []
 /** Same members as a set — the only hover/click targets while pinned. */
@@ -423,56 +425,98 @@ function setSpreadTargets(src: any[]): void {
     if (slot.r > spreadRadiusPx) spreadRadiusPx = slot.r
   }
 
-  // The ring slots space *labels*; big-radius discs on adjacent (staggered)
-  // rings can still collide, leaving some nodes unclickable under others.
-  // Relax the fanned targets in screen px until no two discs — including the
-  // focus disc — overlap, then refresh each bearing so plates keep anchoring
-  // radially outward from wherever the node actually ended up.
-  const PAD = 12 // finger-friendly clearance between fanned discs
+  // Separate the fan as full FOOTPRINTS, not discs: a member's clickable
+  // area is its disc PLUS its name plate (anchored radially outward), and
+  // plates are far wider than discs — the label-arc slotting alone left them
+  // stacked over each other and over nodes. Every sweep re-derives each
+  // member's bearing from its current position, builds the union box of disc
+  // + plate (the focus gets its disc + the title panel below), and pushes
+  // overlapping pairs apart along the axis of least penetration. The focus
+  // never moves; everything yields around it.
+  const PAD = 10 // clearance between footprints
+  const CHAR_W = 6.2 // ~avg glyph width of the 11px plate font, erring wide
   const posX = new Float64Array(n + 1)
   const posY = new Float64Array(n + 1)
   const rad = new Float64Array(n + 1)
+  const pw = new Float64Array(n + 1) // plate / panel box width
+  const ph = new Float64Array(n + 1)
   posX[0] = f.x * k
   posY[0] = f.y * k
   rad[0] = nodeRadius(pn[focus]!.d) + 3
+  pw[0] = Math.min(pn[focus]!.l.length, 60) * 6.2 + 22 // title panel, 12px font
+  ph[0] = 28
   for (let j = 0; j < n; j++) {
     const i = nbrs[j]!
     posX[j + 1] = (src[i]!.x + tgtX[i]!) * k
     posY[j + 1] = (src[i]!.y + tgtY[i]!) * k
     rad[j + 1] = nodeRadius(pn[i]!.d)
+    pw[j + 1] = Math.min(pn[i]!.l.length, 60) * CHAR_W + 18
+    ph[j + 1] = 22
   }
-  for (let sweep = 0; sweep < 40; sweep++) {
+
+  // Union box (minX, minY, maxX, maxY) of member m's disc and its plate at
+  // m's current bearing — mirroring how the render loop anchors the plates.
+  const box = (m: number, out: Float64Array): void => {
+    const r = rad[m]!
+    let cx: number
+    let cy: number
+    if (m === 0) {
+      cx = posX[0]!
+      cy = posY[0]! + r + 7 + ph[0]! / 2 // panel sits centred below the disc
+    }
+    else {
+      const dx = posX[m]! - posX[0]!
+      const dy = posY[m]! - posY[0]!
+      const d = Math.hypot(dx, dy) || 1
+      const ca = dx / d
+      const sa = dy / d
+      cx = posX[m]! + ca * (r + 5) + (ca * pw[m]!) / 2
+      cy = posY[m]! + sa * (r + 5) + (sa * ph[m]!) / 2
+    }
+    out[0] = Math.min(posX[m]! - r, cx - pw[m]! / 2)
+    out[1] = Math.min(posY[m]! - r, cy - ph[m]! / 2)
+    out[2] = Math.max(posX[m]! + r, cx + pw[m]! / 2)
+    out[3] = Math.max(posY[m]! + r, cy + ph[m]! / 2)
+  }
+
+  const ba = new Float64Array(4)
+  const bb = new Float64Array(4)
+  for (let sweep = 0; sweep < 60; sweep++) {
     let clashed = false
     for (let a = 0; a <= n; a++) {
+      box(a, ba)
       for (let b = a + 1; b <= n; b++) {
-        let dx = posX[b]! - posX[a]!
-        let dy = posY[b]! - posY[a]!
-        let d2 = dx * dx + dy * dy
-        const minD = rad[a]! + rad[b]! + PAD
-        if (d2 >= minD * minD) continue
-        if (d2 < 1e-6) {
-          dx = (((a * 13 + b) % 7) - 3) || 1
-          dy = (((b * 11 + a) % 5) - 2) || 1
-          d2 = dx * dx + dy * dy
-        }
-        const d = Math.sqrt(d2)
-        const push = (minD - d) / d
+        box(b, bb)
+        const ox = Math.min(ba[2]!, bb[2]!) - Math.max(ba[0]!, bb[0]!) + PAD
+        const oy = Math.min(ba[3]!, bb[3]!) - Math.max(ba[1]!, bb[1]!) + PAD
+        if (ox <= 0 || oy <= 0) continue
         clashed = true
-        if (a === 0) {
-          // The focus node never moves — everything yields around it.
-          posX[b]! += dx * push
-          posY[b]! += dy * push
+        if (ox < oy) {
+          const sign = bb[0]! + bb[2]! >= ba[0]! + ba[2]! ? 1 : -1
+          if (a === 0) {
+            posX[b]! += ox * sign
+          }
+          else {
+            posX[a]! -= (ox / 2) * sign
+            posX[b]! += (ox / 2) * sign
+          }
         }
         else {
-          posX[a]! -= dx * push * 0.5
-          posY[a]! -= dy * push * 0.5
-          posX[b]! += dx * push * 0.5
-          posY[b]! += dy * push * 0.5
+          const sign = bb[1]! + bb[3]! >= ba[1]! + ba[3]! ? 1 : -1
+          if (a === 0) {
+            posY[b]! += oy * sign
+          }
+          else {
+            posY[a]! -= (oy / 2) * sign
+            posY[b]! += (oy / 2) * sign
+          }
         }
+        box(a, ba)
       }
     }
     if (!clashed) break
   }
+
   for (let j = 0; j < n; j++) {
     const i = nbrs[j]!
     tgtX[i] = posX[j + 1]! / k - src[i]!.x
@@ -483,6 +527,7 @@ function setSpreadTargets(src: any[]): void {
     const dist = Math.sqrt(dx * dx + dy * dy)
     if (dist > spreadRadiusPx) spreadRadiusPx = dist
   }
+  lastSpreadK = k
 }
 
 /** The focus node's neighbours, minus any the staged build hasn't added yet. */
@@ -1180,6 +1225,11 @@ function update(ticker?: any): void {
       if (spreadMode) setSpreadTargets(src)
       else clearSpreadTargets()
       syncPlates()
+    }
+    else if (spreadMode && focus != null && Math.abs(k / lastSpreadK - 1) > 0.15) {
+      // Plates and radii are screen-px and don't scale with the camera — a
+      // significant zoom while pinned re-solves the fan for the new scale.
+      setSpreadTargets(src)
     }
   }
   hoverIndex.value = focus
