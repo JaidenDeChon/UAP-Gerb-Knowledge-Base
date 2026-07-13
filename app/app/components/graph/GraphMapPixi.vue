@@ -194,6 +194,9 @@ function clearNodeHover(): void {
 
 watch([camera.pan, camera.k], ([, k], [, prevK]) => {
   if (k !== prevK) kDirty = true
+  // The fan edges are drawn in screen space — repaint them with every pan
+  // frame so they stay glued to their nodes mid-gesture, not just at the end.
+  focusDirty = true
   dirty = true
 })
 
@@ -234,6 +237,11 @@ let nodeLayer: any = null
 /** Screen-space layer above the blurred world: holds the pinned fan, crisp. */
 let pinLayer: any = null
 let blurFilter: any = null
+// The backdrop blur eases in on pin and out on unpin; the filter detaches
+// once it fades to zero so the idle map pays no filter cost.
+const BLUR_STRENGTH = 6
+let blurCurrent = 0
+let blurTarget = 0
 let edgesG: any = null
 let focusG: any = null
 let sprites: any[] = []
@@ -414,6 +422,67 @@ function setSpreadTargets(src: any[]): void {
     spreadActive.add(i)
     if (slot.r > spreadRadiusPx) spreadRadiusPx = slot.r
   }
+
+  // The ring slots space *labels*; big-radius discs on adjacent (staggered)
+  // rings can still collide, leaving some nodes unclickable under others.
+  // Relax the fanned targets in screen px until no two discs — including the
+  // focus disc — overlap, then refresh each bearing so plates keep anchoring
+  // radially outward from wherever the node actually ended up.
+  const PAD = 12 // finger-friendly clearance between fanned discs
+  const posX = new Float64Array(n + 1)
+  const posY = new Float64Array(n + 1)
+  const rad = new Float64Array(n + 1)
+  posX[0] = f.x * k
+  posY[0] = f.y * k
+  rad[0] = nodeRadius(pn[focus]!.d) + 3
+  for (let j = 0; j < n; j++) {
+    const i = nbrs[j]!
+    posX[j + 1] = (src[i]!.x + tgtX[i]!) * k
+    posY[j + 1] = (src[i]!.y + tgtY[i]!) * k
+    rad[j + 1] = nodeRadius(pn[i]!.d)
+  }
+  for (let sweep = 0; sweep < 40; sweep++) {
+    let clashed = false
+    for (let a = 0; a <= n; a++) {
+      for (let b = a + 1; b <= n; b++) {
+        let dx = posX[b]! - posX[a]!
+        let dy = posY[b]! - posY[a]!
+        let d2 = dx * dx + dy * dy
+        const minD = rad[a]! + rad[b]! + PAD
+        if (d2 >= minD * minD) continue
+        if (d2 < 1e-6) {
+          dx = (((a * 13 + b) % 7) - 3) || 1
+          dy = (((b * 11 + a) % 5) - 2) || 1
+          d2 = dx * dx + dy * dy
+        }
+        const d = Math.sqrt(d2)
+        const push = (minD - d) / d
+        clashed = true
+        if (a === 0) {
+          // The focus node never moves — everything yields around it.
+          posX[b]! += dx * push
+          posY[b]! += dy * push
+        }
+        else {
+          posX[a]! -= dx * push * 0.5
+          posY[a]! -= dy * push * 0.5
+          posX[b]! += dx * push * 0.5
+          posY[b]! += dy * push * 0.5
+        }
+      }
+    }
+    if (!clashed) break
+  }
+  for (let j = 0; j < n; j++) {
+    const i = nbrs[j]!
+    tgtX[i] = posX[j + 1]! / k - src[i]!.x
+    tgtY[i] = posY[j + 1]! / k - src[i]!.y
+    const dx = posX[j + 1]! - posX[0]!
+    const dy = posY[j + 1]! - posY[0]!
+    spreadAng[i] = Math.atan2(dy, dx)
+    const dist = Math.sqrt(dx * dx + dy * dy)
+    if (dist > spreadRadiusPx) spreadRadiusPx = dist
+  }
 }
 
 /** The focus node's neighbours, minus any the staged build hasn't added yet. */
@@ -426,7 +495,7 @@ function activeNeighbours(i: number): number[] {
 /** Rebuild the neighbour-plate list — plates exist only in the pinned fan. */
 function syncPlates(): void {
   const p = payload.value
-  if (!p || focus == null || !spreadMode) {
+  if (!p || focus == null) {
     neighbourPlates.value = []
     return
   }
@@ -972,7 +1041,7 @@ function buildSceneIfReady(): void {
   app.stage.addChild(pinLayer)
   pinMembers = []
   pinSet = null
-  blurFilter ??= new PIXI.BlurFilter({ strength: 6, quality: 4 })
+  blurFilter ??= new PIXI.BlurFilter({ strength: 0, quality: 4 })
 
   computeClusters(p)
   buildSimulation(p)
@@ -1055,7 +1124,7 @@ function update(ticker?: any): void {
   }
   // Spread offsets or fade-ins in flight: keep frames coming (alongside the
   // hot/dirty gates) without touching the simulation.
-  const animating = (spreadActive.size > 0 && !spreadSettled) || fadingNodes.size > 0 || building
+  const animating = (spreadActive.size > 0 && !spreadSettled) || fadingNodes.size > 0 || building || blurCurrent !== blurTarget
   if (animating) dirty = true
   if (!dirty) return
   dirty = false
@@ -1096,13 +1165,16 @@ function update(ticker?: any): void {
         // No filterArea: Pixi sizes the filter pass from the world's bounds
         // clipped to the screen. (filterArea is LOCAL-space in v8 — a screen
         // rect there crops the world to a patch.)
-        world.filters = [blurFilter]
+        if (!world.filters) world.filters = [blurFilter]
+        blurTarget = BLUR_STRENGTH
         app.stage.setChildIndex(focusG, 1) // fan edges above the blurred field
       }
       else {
         pinMembers = []
         pinSet = null
-        world.filters = null
+        // The filter stays attached while the blur eases back to zero; the
+        // animation step below detaches it once it lands.
+        blurTarget = 0
         app.stage.setChildIndex(focusG, 0) // hover edges back under the nodes
       }
       if (spreadMode) setSpreadTargets(src)
@@ -1166,6 +1238,16 @@ function update(ticker?: any): void {
     }
   }
 
+  // Backdrop blur ease — runs while entering or leaving the pinned state,
+  // detaching the filter entirely once it lands back at zero.
+  if (blurCurrent !== blurTarget) {
+    const ease = 1 - 0.85 ** (ticker?.deltaTime ?? 1)
+    blurCurrent += (blurTarget - blurCurrent) * ease
+    if (Math.abs(blurCurrent - blurTarget) < 0.05) blurCurrent = blurTarget
+    blurFilter.strength = blurCurrent
+    if (blurCurrent === 0 && blurTarget === 0 && world.filters) world.filters = null
+  }
+
   // Fade-ins override the alpha the pass above assigned, so this runs after
   // it. Only nodes still mid-fade are touched.
   if (fadingNodes.size) {
@@ -1204,18 +1286,17 @@ function update(ticker?: any): void {
   for (let i = 0; i < p.nodes.length; i++) {
     const existing = labels[i]
     const focusish = focus != null && (i === focus || neighbours!.has(i))
-    // In the pinned fan the focus neighbourhood uses HTML name plates instead
-    // of Pixi labels. Nodes the staged build hasn't added yet have nothing to
-    // label.
-    if ((spreadMode && focusish) || (staged && !activeFlag[i])) {
+    // The focus neighbourhood always uses the HTML name plates (hover and
+    // pinned states share that UI), never Pixi labels. Nodes the staged build
+    // hasn't added yet have nothing to label.
+    if (focusish || (staged && !activeFlag[i])) {
       if (existing) existing.visible = false
       continue
     }
-    // Plain hover reveals the neighbourhood's labels in place at any zoom.
-    let show = focusish
+    let show = false
     const nx = src[i]!.x + offX[i]!
     const ny = src[i]!.y + offY[i]!
-    if (!show && zoomLabels) {
+    if (zoomLabels) {
       const sx = px + nx * k
       const sy = py + ny * k
       show = sx >= -margin && sx <= w + margin && sy >= -margin && sy <= h + margin
@@ -1231,29 +1312,37 @@ function update(ticker?: any): void {
     t.position.set(nx, ny + (r + 2) / k)
   }
 
-  // The blurred HTML title panel tracks the pinned node's screen position;
-  // v-show (via `pinned`) owns its visibility.
+  // The blurred HTML title panel tracks the focused node's screen position
+  // in both states; v-show (via `hoverIndex`) owns its visibility.
   const panel = hoverPanelRef.value
-  if (panel && focus != null && spreadMode) {
+  if (panel && focus != null) {
     const nf = src[focus]!
     const pr = nodeRadius(p.nodes[focus]!.d) + 3
     panel.style.transform = `translate(${px + nf.x * k}px, ${py + nf.y * k + pr + 7}px) translateX(-50%)`
   }
 
-  // Neighbour plates track their fanned (displayed) positions, anchored to
-  // extend radially outward along the spread bearing — the CSS %-translate is
-  // the Pixi anchor trick, so side plates grow sideways and stacked rings at
-  // the same bearing can't overlap.
+  // Neighbour plates: while pinned they track their fanned positions,
+  // anchored to extend radially outward along the spread bearing (the CSS
+  // %-translate is the Pixi anchor trick, so side plates grow sideways and
+  // stacked rings at the same bearing can't overlap). On plain hover the same
+  // plates sit centred under their nodes' true positions.
   if (focus != null) {
     for (const { i } of neighbourPlates.value) {
       const el = plateEls.get(i)
       if (!el) continue
-      const ca = Math.cos(spreadAng[i]!)
-      const sa = Math.sin(spreadAng[i]!)
-      const r = nodeRadius(p.nodes[i]!.d) + 5
-      const sx = px + (src[i]!.x + offX[i]!) * k + ca * r
-      const sy = py + (src[i]!.y + offY[i]!) * k + sa * r
-      el.style.transform = `translate(${sx}px, ${sy}px) translate(${ca * 50 - 50}%, ${sa * 50 - 50}%)`
+      const r = nodeRadius(p.nodes[i]!.d)
+      if (spreadMode) {
+        const ca = Math.cos(spreadAng[i]!)
+        const sa = Math.sin(spreadAng[i]!)
+        const sx = px + (src[i]!.x + offX[i]!) * k + ca * (r + 5)
+        const sy = py + (src[i]!.y + offY[i]!) * k + sa * (r + 5)
+        el.style.transform = `translate(${sx}px, ${sy}px) translate(${ca * 50 - 50}%, ${sa * 50 - 50}%)`
+      }
+      else {
+        const sx = px + (src[i]!.x + offX[i]!) * k
+        const sy = py + (src[i]!.y + offY[i]!) * k + r + 4
+        el.style.transform = `translate(${sx}px, ${sy}px) translateX(-50%)`
+      }
       el.style.opacity = '1'
     }
   }
@@ -1350,7 +1439,7 @@ onBeforeUnmount(() => {
     <!-- Hovered node's title — HTML so it can sit on a blurred panel; positioned
          imperatively (style.transform) from the render loop every frame. -->
     <div
-      v-show="pinned != null"
+      v-show="hoverIndex != null"
       ref="hoverPanelRef"
       class="pointer-events-none absolute left-0 top-0 z-10 select-none whitespace-nowrap rounded-lg border border-border/50 bg-background/60 px-2.5 py-1 backdrop-blur-xl"
       style="will-change: transform"
