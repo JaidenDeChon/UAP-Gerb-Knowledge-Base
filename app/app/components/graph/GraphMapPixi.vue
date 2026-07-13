@@ -194,6 +194,9 @@ function clearNodeHover(): void {
 
 watch([camera.pan, camera.k], ([, k], [, prevK]) => {
   if (k !== prevK) kDirty = true
+  // The fan edges are drawn in screen space — repaint them with every pan
+  // frame so they stay glued to their nodes mid-gesture, not just at the end.
+  focusDirty = true
   dirty = true
 })
 
@@ -234,6 +237,11 @@ let nodeLayer: any = null
 /** Screen-space layer above the blurred world: holds the pinned fan, crisp. */
 let pinLayer: any = null
 let blurFilter: any = null
+// The backdrop blur eases in on pin and out on unpin; the filter detaches
+// once it fades to zero so the idle map pays no filter cost.
+const BLUR_STRENGTH = 6
+let blurCurrent = 0
+let blurTarget = 0
 let edgesG: any = null
 let focusG: any = null
 let sprites: any[] = []
@@ -275,6 +283,8 @@ let spreadSettled = true
 let spreadRadiusPx = 0 // outermost ring in screen px
 /** True while the pinned fan-out is displayed (plates, spread offsets). */
 let spreadMode = false
+/** Camera scale the fan was last solved at (plates don't scale with zoom). */
+let lastSpreadK = 1
 /** Nodes lifted into the crisp pin layer (the pinned node + its fan). */
 let pinMembers: number[] = []
 /** Same members as a set — the only hover/click targets while pinned. */
@@ -414,6 +424,110 @@ function setSpreadTargets(src: any[]): void {
     spreadActive.add(i)
     if (slot.r > spreadRadiusPx) spreadRadiusPx = slot.r
   }
+
+  // Separate the fan as full FOOTPRINTS, not discs: a member's clickable
+  // area is its disc PLUS its name plate (anchored radially outward), and
+  // plates are far wider than discs — the label-arc slotting alone left them
+  // stacked over each other and over nodes. Every sweep re-derives each
+  // member's bearing from its current position, builds the union box of disc
+  // + plate (the focus gets its disc + the title panel below), and pushes
+  // overlapping pairs apart along the axis of least penetration. The focus
+  // never moves; everything yields around it.
+  const PAD = 10 // clearance between footprints
+  const CHAR_W = 6.2 // ~avg glyph width of the 11px plate font, erring wide
+  const posX = new Float64Array(n + 1)
+  const posY = new Float64Array(n + 1)
+  const rad = new Float64Array(n + 1)
+  const pw = new Float64Array(n + 1) // plate / panel box width
+  const ph = new Float64Array(n + 1)
+  posX[0] = f.x * k
+  posY[0] = f.y * k
+  rad[0] = nodeRadius(pn[focus]!.d) + 3
+  pw[0] = Math.min(pn[focus]!.l.length, 60) * 6.2 + 22 // title panel, 12px font
+  ph[0] = 28
+  for (let j = 0; j < n; j++) {
+    const i = nbrs[j]!
+    posX[j + 1] = (src[i]!.x + tgtX[i]!) * k
+    posY[j + 1] = (src[i]!.y + tgtY[i]!) * k
+    rad[j + 1] = nodeRadius(pn[i]!.d)
+    pw[j + 1] = Math.min(pn[i]!.l.length, 60) * CHAR_W + 18
+    ph[j + 1] = 22
+  }
+
+  // Union box (minX, minY, maxX, maxY) of member m's disc and its plate at
+  // m's current bearing — mirroring how the render loop anchors the plates.
+  const box = (m: number, out: Float64Array): void => {
+    const r = rad[m]!
+    let cx: number
+    let cy: number
+    if (m === 0) {
+      cx = posX[0]!
+      cy = posY[0]! + r + 7 + ph[0]! / 2 // panel sits centred below the disc
+    }
+    else {
+      const dx = posX[m]! - posX[0]!
+      const dy = posY[m]! - posY[0]!
+      const d = Math.hypot(dx, dy) || 1
+      const ca = dx / d
+      const sa = dy / d
+      cx = posX[m]! + ca * (r + 5) + (ca * pw[m]!) / 2
+      cy = posY[m]! + sa * (r + 5) + (sa * ph[m]!) / 2
+    }
+    out[0] = Math.min(posX[m]! - r, cx - pw[m]! / 2)
+    out[1] = Math.min(posY[m]! - r, cy - ph[m]! / 2)
+    out[2] = Math.max(posX[m]! + r, cx + pw[m]! / 2)
+    out[3] = Math.max(posY[m]! + r, cy + ph[m]! / 2)
+  }
+
+  const ba = new Float64Array(4)
+  const bb = new Float64Array(4)
+  for (let sweep = 0; sweep < 60; sweep++) {
+    let clashed = false
+    for (let a = 0; a <= n; a++) {
+      box(a, ba)
+      for (let b = a + 1; b <= n; b++) {
+        box(b, bb)
+        const ox = Math.min(ba[2]!, bb[2]!) - Math.max(ba[0]!, bb[0]!) + PAD
+        const oy = Math.min(ba[3]!, bb[3]!) - Math.max(ba[1]!, bb[1]!) + PAD
+        if (ox <= 0 || oy <= 0) continue
+        clashed = true
+        if (ox < oy) {
+          const sign = bb[0]! + bb[2]! >= ba[0]! + ba[2]! ? 1 : -1
+          if (a === 0) {
+            posX[b]! += ox * sign
+          }
+          else {
+            posX[a]! -= (ox / 2) * sign
+            posX[b]! += (ox / 2) * sign
+          }
+        }
+        else {
+          const sign = bb[1]! + bb[3]! >= ba[1]! + ba[3]! ? 1 : -1
+          if (a === 0) {
+            posY[b]! += oy * sign
+          }
+          else {
+            posY[a]! -= (oy / 2) * sign
+            posY[b]! += (oy / 2) * sign
+          }
+        }
+        box(a, ba)
+      }
+    }
+    if (!clashed) break
+  }
+
+  for (let j = 0; j < n; j++) {
+    const i = nbrs[j]!
+    tgtX[i] = posX[j + 1]! / k - src[i]!.x
+    tgtY[i] = posY[j + 1]! / k - src[i]!.y
+    const dx = posX[j + 1]! - posX[0]!
+    const dy = posY[j + 1]! - posY[0]!
+    spreadAng[i] = Math.atan2(dy, dx)
+    const dist = Math.sqrt(dx * dx + dy * dy)
+    if (dist > spreadRadiusPx) spreadRadiusPx = dist
+  }
+  lastSpreadK = k
 }
 
 /** The focus node's neighbours, minus any the staged build hasn't added yet. */
@@ -426,7 +540,7 @@ function activeNeighbours(i: number): number[] {
 /** Rebuild the neighbour-plate list — plates exist only in the pinned fan. */
 function syncPlates(): void {
   const p = payload.value
-  if (!p || focus == null || !spreadMode) {
+  if (!p || focus == null) {
     neighbourPlates.value = []
     return
   }
@@ -972,7 +1086,7 @@ function buildSceneIfReady(): void {
   app.stage.addChild(pinLayer)
   pinMembers = []
   pinSet = null
-  blurFilter ??= new PIXI.BlurFilter({ strength: 6, quality: 4 })
+  blurFilter ??= new PIXI.BlurFilter({ strength: 0, quality: 4 })
 
   computeClusters(p)
   buildSimulation(p)
@@ -1055,7 +1169,7 @@ function update(ticker?: any): void {
   }
   // Spread offsets or fade-ins in flight: keep frames coming (alongside the
   // hot/dirty gates) without touching the simulation.
-  const animating = (spreadActive.size > 0 && !spreadSettled) || fadingNodes.size > 0 || building
+  const animating = (spreadActive.size > 0 && !spreadSettled) || fadingNodes.size > 0 || building || blurCurrent !== blurTarget
   if (animating) dirty = true
   if (!dirty) return
   dirty = false
@@ -1096,18 +1210,26 @@ function update(ticker?: any): void {
         // No filterArea: Pixi sizes the filter pass from the world's bounds
         // clipped to the screen. (filterArea is LOCAL-space in v8 — a screen
         // rect there crops the world to a patch.)
-        world.filters = [blurFilter]
+        if (!world.filters) world.filters = [blurFilter]
+        blurTarget = BLUR_STRENGTH
         app.stage.setChildIndex(focusG, 1) // fan edges above the blurred field
       }
       else {
         pinMembers = []
         pinSet = null
-        world.filters = null
+        // The filter stays attached while the blur eases back to zero; the
+        // animation step below detaches it once it lands.
+        blurTarget = 0
         app.stage.setChildIndex(focusG, 0) // hover edges back under the nodes
       }
       if (spreadMode) setSpreadTargets(src)
       else clearSpreadTargets()
       syncPlates()
+    }
+    else if (spreadMode && focus != null && Math.abs(k / lastSpreadK - 1) > 0.15) {
+      // Plates and radii are screen-px and don't scale with the camera — a
+      // significant zoom while pinned re-solves the fan for the new scale.
+      setSpreadTargets(src)
     }
   }
   hoverIndex.value = focus
@@ -1166,6 +1288,16 @@ function update(ticker?: any): void {
     }
   }
 
+  // Backdrop blur ease — runs while entering or leaving the pinned state,
+  // detaching the filter entirely once it lands back at zero.
+  if (blurCurrent !== blurTarget) {
+    const ease = 1 - 0.85 ** (ticker?.deltaTime ?? 1)
+    blurCurrent += (blurTarget - blurCurrent) * ease
+    if (Math.abs(blurCurrent - blurTarget) < 0.05) blurCurrent = blurTarget
+    blurFilter.strength = blurCurrent
+    if (blurCurrent === 0 && blurTarget === 0 && world.filters) world.filters = null
+  }
+
   // Fade-ins override the alpha the pass above assigned, so this runs after
   // it. Only nodes still mid-fade are touched.
   if (fadingNodes.size) {
@@ -1204,18 +1336,17 @@ function update(ticker?: any): void {
   for (let i = 0; i < p.nodes.length; i++) {
     const existing = labels[i]
     const focusish = focus != null && (i === focus || neighbours!.has(i))
-    // In the pinned fan the focus neighbourhood uses HTML name plates instead
-    // of Pixi labels. Nodes the staged build hasn't added yet have nothing to
-    // label.
-    if ((spreadMode && focusish) || (staged && !activeFlag[i])) {
+    // The focus neighbourhood always uses the HTML name plates (hover and
+    // pinned states share that UI), never Pixi labels. Nodes the staged build
+    // hasn't added yet have nothing to label.
+    if (focusish || (staged && !activeFlag[i])) {
       if (existing) existing.visible = false
       continue
     }
-    // Plain hover reveals the neighbourhood's labels in place at any zoom.
-    let show = focusish
+    let show = false
     const nx = src[i]!.x + offX[i]!
     const ny = src[i]!.y + offY[i]!
-    if (!show && zoomLabels) {
+    if (zoomLabels) {
       const sx = px + nx * k
       const sy = py + ny * k
       show = sx >= -margin && sx <= w + margin && sy >= -margin && sy <= h + margin
@@ -1231,29 +1362,37 @@ function update(ticker?: any): void {
     t.position.set(nx, ny + (r + 2) / k)
   }
 
-  // The blurred HTML title panel tracks the pinned node's screen position;
-  // v-show (via `pinned`) owns its visibility.
+  // The blurred HTML title panel tracks the focused node's screen position
+  // in both states; v-show (via `hoverIndex`) owns its visibility.
   const panel = hoverPanelRef.value
-  if (panel && focus != null && spreadMode) {
+  if (panel && focus != null) {
     const nf = src[focus]!
     const pr = nodeRadius(p.nodes[focus]!.d) + 3
     panel.style.transform = `translate(${px + nf.x * k}px, ${py + nf.y * k + pr + 7}px) translateX(-50%)`
   }
 
-  // Neighbour plates track their fanned (displayed) positions, anchored to
-  // extend radially outward along the spread bearing — the CSS %-translate is
-  // the Pixi anchor trick, so side plates grow sideways and stacked rings at
-  // the same bearing can't overlap.
+  // Neighbour plates: while pinned they track their fanned positions,
+  // anchored to extend radially outward along the spread bearing (the CSS
+  // %-translate is the Pixi anchor trick, so side plates grow sideways and
+  // stacked rings at the same bearing can't overlap). On plain hover the same
+  // plates sit centred under their nodes' true positions.
   if (focus != null) {
     for (const { i } of neighbourPlates.value) {
       const el = plateEls.get(i)
       if (!el) continue
-      const ca = Math.cos(spreadAng[i]!)
-      const sa = Math.sin(spreadAng[i]!)
-      const r = nodeRadius(p.nodes[i]!.d) + 5
-      const sx = px + (src[i]!.x + offX[i]!) * k + ca * r
-      const sy = py + (src[i]!.y + offY[i]!) * k + sa * r
-      el.style.transform = `translate(${sx}px, ${sy}px) translate(${ca * 50 - 50}%, ${sa * 50 - 50}%)`
+      const r = nodeRadius(p.nodes[i]!.d)
+      if (spreadMode) {
+        const ca = Math.cos(spreadAng[i]!)
+        const sa = Math.sin(spreadAng[i]!)
+        const sx = px + (src[i]!.x + offX[i]!) * k + ca * (r + 5)
+        const sy = py + (src[i]!.y + offY[i]!) * k + sa * (r + 5)
+        el.style.transform = `translate(${sx}px, ${sy}px) translate(${ca * 50 - 50}%, ${sa * 50 - 50}%)`
+      }
+      else {
+        const sx = px + (src[i]!.x + offX[i]!) * k
+        const sy = py + (src[i]!.y + offY[i]!) * k + r + 4
+        el.style.transform = `translate(${sx}px, ${sy}px) translateX(-50%)`
+      }
       el.style.opacity = '1'
     }
   }
@@ -1350,7 +1489,7 @@ onBeforeUnmount(() => {
     <!-- Hovered node's title — HTML so it can sit on a blurred panel; positioned
          imperatively (style.transform) from the render loop every frame. -->
     <div
-      v-show="pinned != null"
+      v-show="hoverIndex != null"
       ref="hoverPanelRef"
       class="pointer-events-none absolute left-0 top-0 z-10 select-none whitespace-nowrap rounded-lg border border-border/50 bg-background/60 px-2.5 py-1 backdrop-blur-xl"
       style="will-change: transform"
