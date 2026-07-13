@@ -77,7 +77,10 @@ const article = computed<{ lead: string, doc: WikiPage | null }>(() => {
       </Badge>
     </div>
 
-    <h1 class="mb-4 font-display text-[clamp(32px,5vw,56px)] font-extrabold uppercase leading-none tracking-[-0.02em] text-foreground">
+    <!-- Uppercase display type carries no ascender/descender variety to open the
+         line up, so it wants positive tracking, not the tight setting a mixed-case
+         title would take. -->
+    <h1 class="mb-4 font-display text-[clamp(32px,5vw,56px)] font-extrabold uppercase leading-none tracking-[0.02em] text-foreground">
       {{ page.title }}
     </h1>
 
@@ -100,14 +103,17 @@ const article = computed<{ lead: string, doc: WikiPage | null }>(() => {
 <style scoped>
 @reference "../../assets/css/main.css";
 
+/* Tracking comes from the --ls-h* tokens rather than a copy of their values: it
+   was duplicated here AND in main.css, so retuning the tokens moved the prose
+   headings and left the article's own headings behind. */
 .wiki-prose :deep(h2) {
-  @apply mb-4 mt-12 border-b border-border pb-2 font-display text-[30px] font-semibold leading-9 tracking-[-0.007em] text-foreground;
+  @apply mb-4 mt-12 border-b border-border pb-2 font-display text-[30px] font-semibold leading-9 tracking-[var(--ls-h2)] text-foreground;
 }
 .wiki-prose :deep(h3) {
-  @apply mb-3 mt-10 font-display text-[24px] font-semibold leading-8 tracking-[-0.006em] text-foreground;
+  @apply mb-3 mt-10 font-display text-[24px] font-semibold leading-8 tracking-[var(--ls-h3)] text-foreground;
 }
 .wiki-prose :deep(h4) {
-  @apply mb-2 mt-8 font-display text-[20px] font-semibold leading-7 tracking-[-0.005em] text-foreground;
+  @apply mb-2 mt-8 font-display text-[20px] font-semibold leading-7 tracking-[var(--ls-h4)] text-foreground;
 }
 .wiki-prose :deep(p) {
   @apply my-5 text-[16px] leading-7 text-foreground;

@@ -32,7 +32,7 @@ function backToMap(): void {
     </div>
 
     <div class="flex flex-col items-center gap-3">
-      <p class="font-display text-[clamp(72px,16vw,128px)] font-extrabold uppercase leading-none tracking-[-0.02em] text-foreground">
+      <p class="font-display text-[clamp(72px,16vw,128px)] font-extrabold uppercase leading-none tracking-[0.02em] text-foreground">
         {{ code }}
       </p>
       <p class="max-w-md font-sans text-lg text-muted-foreground">

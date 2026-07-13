@@ -21,7 +21,7 @@ const doc = computed<WikiPage | null>(() => {
 
 <template>
   <div class="mx-auto max-w-[760px] px-8 pb-32 pt-10">
-    <h1 class="mb-6 font-display text-[clamp(32px,5vw,56px)] font-extrabold uppercase leading-none tracking-[-0.02em] text-foreground">
+    <h1 class="mb-6 font-display text-[clamp(32px,5vw,56px)] font-extrabold uppercase leading-none tracking-[0.02em] text-foreground">
       UAP Gerb Knowledge Base
     </h1>
 
@@ -32,11 +32,12 @@ const doc = computed<WikiPage | null>(() => {
 <style scoped>
 @reference "../assets/css/main.css";
 
+/* Tracking from the --ls-h* tokens — see the note in wiki/[...slug].vue. */
 .wiki-prose :deep(h2) {
-  @apply mb-4 mt-12 border-b border-border pb-2 font-display text-[30px] font-semibold leading-9 tracking-[-0.007em] text-foreground;
+  @apply mb-4 mt-12 border-b border-border pb-2 font-display text-[30px] font-semibold leading-9 tracking-[var(--ls-h2)] text-foreground;
 }
 .wiki-prose :deep(h3) {
-  @apply mb-3 mt-10 font-display text-[24px] font-semibold leading-8 tracking-[-0.006em] text-foreground;
+  @apply mb-3 mt-10 font-display text-[24px] font-semibold leading-8 tracking-[var(--ls-h3)] text-foreground;
 }
 .wiki-prose :deep(p) {
   @apply my-5 text-[16px] leading-7 text-foreground;

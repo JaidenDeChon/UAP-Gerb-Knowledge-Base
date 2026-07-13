@@ -2,15 +2,21 @@
 import { LocateFixed } from '@lucide/vue'
 import type { GraphEdge, GraphNode } from '#shared/types/wiki'
 import type { Bounds } from '~/utils/graph'
-import { buildAdjacency, clamp, fitView, localSubgraph, relax } from '~/utils/graph'
+import { buildAdjacency, clamp, fanLayout, fitView, LOCAL_MAX_NODES, localSubgraph } from '~/utils/graph'
 
 const props = withDefaults(defineProps<{
   activePath?: string | null
   minimized?: boolean
+  /**
+   * Draw the note's WHOLE 1-hop ring instead of the docked map's 18-node budget.
+   * For the expanded dialog, which has the room the inline widget doesn't.
+   */
+  full?: boolean
   height?: number | string
 }>(), {
   activePath: null,
   minimized: false,
+  full: false,
 })
 
 const emit = defineEmits<{ select: [node: GraphNode] }>()
@@ -24,54 +30,68 @@ interface Scene {
   edges: GraphEdge[]
   bounds: Bounds
   local: boolean
+  /** Plate bearing per node index — the fan's, so plates anchor radially out. */
+  ang: Float64Array
 }
 
 const EMPTY_BOUNDS: Bounds = { minX: 0, minY: 0, maxX: 0, maxY: 0 }
+const NO_ANG = new Float64Array(0)
 
-function boundsOf(nodes: { x: number, y: number }[]): Bounds {
-  if (nodes.length === 0) return EMPTY_BOUNDS
-  let minX = Infinity
-  let minY = Infinity
-  let maxX = -Infinity
-  let maxY = -Infinity
-  for (const n of nodes) {
-    if (n.x < minX) minX = n.x
-    if (n.y < minY) minY = n.y
-    if (n.x > maxX) maxX = n.x
-    if (n.y > maxY) maxY = n.y
-  }
-  return { minX, minY, maxX, maxY }
-}
-
-// Docked + an active note → the relaxed local neighbourhood. Otherwise the whole
+// Docked + an active note → the note's neighbourhood, fanned. Otherwise the whole
 // precomputed graph. Recomputes only on payload / activePath / minimized changes
-// (never on hover, pan or zoom), so the force pass runs at most once per nav.
+// (never on hover, pan or zoom), so the fan solves at most once per nav.
+//
+// The local map IS the site map's selected state: its note is permanently the
+// pinned node, so it uses the same `fanLayout` and the same name plates. The one
+// difference is scale. The site map solves the fan at the live camera scale and
+// keeps its plates at a fixed screen size; here the whole arrangement — plates
+// included — is scaled to fit the frame, so a 246-link fan (~1800px across, far
+// wider than any dialog) is never cropped and its plates can never collide.
 const scene = computed<Scene>(() => {
   const p = payload.value
-  if (!p) return { nodes: [], edges: [], bounds: EMPTY_BOUNDS, local: false }
+  if (!p) return { nodes: [], edges: [], bounds: EMPTY_BOUNDS, local: false, ang: NO_ANG }
 
   if (props.minimized && props.activePath) {
     const idx = p.nodes.findIndex(n => n.p === props.activePath)
     if (idx >= 0) {
-      const sub = localSubgraph(p, idx, { maxNodes: 18 })
-      sub.nodes.forEach((n, i) => {
-        if (i === 0) {
-          n.x = 0
-          n.y = 0
-        }
-        else {
-          const a = i * 2.399963 // golden angle — even, deterministic seed ring
-          const rr = 40 + i * 5
-          n.x = Math.cos(a) * rr
-          n.y = Math.sin(a) * rr
-        }
+      // `full` budgets the note plus its entire ring — exactly, on purpose. An
+      // unbounded budget would leave headroom after the ring and let the 2-hop
+      // pass keep expanding, pulling in most of the graph; spending it to the
+      // last slot skips that pass and leaves the ring, whole.
+      //
+      // Never below the docked budget, though: a note with 7 links would then
+      // draw 7 neighbours where the inline map draws 18 (it has slack left for
+      // the 2-hop ring), and expanding a map is a strange way to see less.
+      const maxNodes = props.full
+        ? Math.max(LOCAL_MAX_NODES, 1 + (p.nodes[idx]!.d ?? 0))
+        : LOCAL_MAX_NODES
+      const sub = localSubgraph(p, idx, { maxNodes })
+      // localSubgraph puts the active note at index 0 and hands back copies, so
+      // rewriting positions here can't disturb the shared payload.
+      const f = sub.nodes[0]!
+      const members = sub.nodes.slice(1)
+      // Members keep their TRUE relative positions going in — that's what the fan
+      // reads bearings from, so it opens where the neighbours already sit.
+      const fan = fanLayout(
+        { x: 0, y: 0, r: radiusOf(f.d, false), label: f.l },
+        members.map(m => ({ x: m.x - f.x, y: m.y - f.y, r: radiusOf(m.d, false), label: m.l })),
+      )
+      const ang = new Float64Array(sub.nodes.length)
+      f.x = 0
+      f.y = 0
+      members.forEach((m, j) => {
+        const pl = fan.members[j]!
+        m.x = pl.x
+        m.y = pl.y
+        ang[j + 1] = pl.ang
       })
-      relax(sub.nodes, sub.edges, 120)
-      return { nodes: sub.nodes, edges: sub.edges, bounds: boundsOf(sub.nodes), local: true }
+      // fanLayout's bounds already box every plate, so the fit leaves room for
+      // the labels rather than clipping them at the frame edge.
+      return { nodes: sub.nodes, edges: sub.edges, bounds: fan.bounds, local: true, ang }
     }
   }
 
-  return { nodes: p.nodes, edges: p.edges, bounds: p.bounds, local: false }
+  return { nodes: p.nodes, edges: p.edges, bounds: p.bounds, local: false, ang: NO_ANG }
 })
 
 // path → canonical payload node, so `select` always emits a real GraphNode
@@ -213,20 +233,9 @@ const labelsRender = computed(() => {
     out.push({ i, x: p[i]!.x, y: p[i]!.y + r + 13, text: ns[i]!.l, focused: i === f })
   }
 
-  if (s.local) {
-    // 300x220 fits about a dozen names before they collide. Beyond that, name
-    // only the note you're on and reveal the rest on hover, the way Obsidian's
-    // local-graph pane does.
-    if (act != null) add(act)
-    if (ns.length <= 12) {
-      for (let i = 0; i < ns.length; i++) add(i)
-    }
-    else if (hov != null) {
-      add(hov)
-      nb.forEach(add)
-    }
-    return out
-  }
+  // The local map names every node, on the fan's HTML plates (see `plates`) —
+  // the same treatment the site map's pinned state uses. No SVG text there.
+  if (s.local) return out
 
   if (f != null) {
     add(f)
@@ -242,6 +251,60 @@ const labelsRender = computed(() => {
   return out
 })
 
+/* ----------------------------------------------------------------- plates -- */
+
+/**
+ * The fan's name plates — the same UI as the site map's pinned state: the focus
+ * gets a title panel centred under its disc, every neighbour a plate anchored
+ * radially outward along its fan bearing.
+ *
+ * `scale(k)` is what lets the fan fit. `fanLayout` separates footprints in plate
+ * space, so scaling the plate by exactly the same k as its position keeps the
+ * whole arrangement proportional — plates that don't overlap at scale 1 cannot
+ * overlap at any other scale. (The site map instead pins plates to a fixed
+ * screen size and re-solves the fan whenever the zoom moves.)
+ *
+ * transform-origin is 0 0, so the transforms compose predictably: the trailing
+ * %-translate is the anchor (a plate pointing left has its right edge on the
+ * node), and it scales with everything else.
+ */
+const plates = computed(() => {
+  const s = scene.value
+  if (!s.local) return []
+  const { x: px, y: py } = pan.value
+  const z = k.value
+  const out: { i: number, l: string, style: string }[] = []
+  for (let i = 1; i < s.nodes.length; i++) {
+    const n = s.nodes[i]!
+    const a = s.ang[i]!
+    const ca = Math.cos(a)
+    const sa = Math.sin(a)
+    const r = radiusOf(n.d, false)
+    const sx = px + (n.x + ca * (r + 5)) * z
+    const sy = py + (n.y + sa * (r + 5)) * z
+    out.push({
+      i,
+      l: n.l,
+      style: `transform: translate(${sx.toFixed(1)}px, ${sy.toFixed(1)}px) scale(${z.toFixed(3)}) translate(${(ca * 50 - 50).toFixed(1)}%, ${(sa * 50 - 50).toFixed(1)}%)`,
+    })
+  }
+  return out
+})
+
+/** The focused note's title panel, centred below its disc (fanLayout boxes it there). */
+const titlePanel = computed<{ l: string, style: string } | null>(() => {
+  const s = scene.value
+  const f = s.nodes[0]
+  if (!s.local || !f) return null
+  const z = k.value
+  const sx = pan.value.x + f.x * z
+  const sy = pan.value.y + (f.y + radiusOf(f.d, false) + 3 + 7) * z
+  return {
+    l: f.l,
+    style: `transform: translate(${sx.toFixed(1)}px, ${sy.toFixed(1)}px) scale(${z.toFixed(3)}) translate(-50%, 0)`,
+  }
+})
+
 const showGraph = computed(() => !!payload.value && size.value.w > 0 && scene.value.nodes.length > 0)
 
 /* -------------------------------------------------------------------- fit -- */
@@ -251,8 +314,18 @@ function fitToScene(): void {
   const { w, h } = size.value
   if (w <= 0 || h <= 0 || s.nodes.length === 0) return
   const v = fitView(s.bounds, w, h, props.minimized ? 24 : 40)
-  pan.value = { x: v.x, y: v.y }
-  k.value = v.k
+  let { x, y, k: z } = v
+  // The fan is authored at 1:1 — its ring gaps and plate sizes ARE the intended
+  // px. Fitting is only ever allowed to shrink it: a small neighbourhood would
+  // otherwise be magnified to fill the frame, which just blows the plates up.
+  // Big fans still scale down to fit (that's the whole point).
+  if (s.local && z > 1) {
+    z = 1
+    x = w / 2 - ((s.bounds.minX + s.bounds.maxX) / 2) * z
+    y = h / 2 - ((s.bounds.minY + s.bounds.maxY) / 2) * z
+  }
+  pan.value = { x, y }
+  k.value = z
   hasUserAdjusted = false
 }
 
@@ -513,6 +586,35 @@ const ariaLabel = computed(() =>
     <div v-else class="absolute inset-0 grid place-items-center">
       <span class="font-mono text-xs tracking-[0.1em] text-muted-foreground">LOADING MAP…</span>
     </div>
+
+    <!-- The fan's name plates — same treatment as the site map's pinned state.
+         HTML, not SVG, so they get the bordered/blurred panel; positioned (and
+         scaled) from `plates` / `titlePanel`. Must sit AFTER the v-if/v-else pair
+         above, or it would capture the skeleton's `v-else`. -->
+    <template v-if="showGraph && scene.local">
+      <!-- `leading-4` / `leading-[18px]` are load-bearing, not styling: they pin the
+           plate's box to the height fanLayout separates against (PLATE_H 22 =
+           16 + 4 padding + 2 border; PANEL_H 28 = 18 + 8 + 2). Unlike the site map,
+           these plates render inside the article's prose, and were inheriting its
+           ~28px line-height — 36px tall against a modelled 22, so the fan packed
+           them as if they were two-thirds their real size and they collided. -->
+      <div
+        v-for="plate in plates"
+        :key="plate.i"
+        class="pointer-events-none absolute left-0 top-0 z-10 origin-top-left select-none whitespace-nowrap rounded-md border border-border/50 bg-background/60 px-2 py-0.5 leading-4 backdrop-blur-xl"
+        :style="plate.style"
+      >
+        <span class="font-sans text-[11px] leading-4 text-foreground">{{ plate.l }}</span>
+      </div>
+
+      <div
+        v-if="titlePanel"
+        class="pointer-events-none absolute left-0 top-0 z-10 origin-top-left select-none whitespace-nowrap rounded-lg border border-border/50 bg-background/60 px-2.5 py-1 leading-[18px] backdrop-blur-xl"
+        :style="titlePanel.style"
+      >
+        <span class="font-sans text-xs font-medium leading-[18px] text-foreground">{{ titlePanel.l }}</span>
+      </div>
+    </template>
 
     <!-- HUD — the full map only; the docked mini-map's chrome lives in its frame. -->
     <div v-if="showGraph && !minimized" class="pointer-events-none absolute inset-0">

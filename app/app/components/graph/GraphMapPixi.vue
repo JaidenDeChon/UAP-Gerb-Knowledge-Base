@@ -2,7 +2,7 @@
 import type { Category, GraphEdge, GraphNode, GraphPayload } from '#shared/types/wiki'
 import { Key, RotateCcw, Wrench, X } from '@lucide/vue'
 import { useLocalStorage } from '@vueuse/core'
-import { buildAdjacency } from '~/utils/graph'
+import { buildAdjacency, fanLayout } from '~/utils/graph'
 import { CATEGORY_COLOR_VAR, CATEGORY_LEGEND_ORDER, nodeRadius, pickNode, readCategoryColors, readGraphPalette, type GraphPalette } from '~/utils/graphLab'
 
 /**
@@ -268,9 +268,8 @@ let focus: number | null = null
 // spaced rings so their labels stay legible. The d3 simulation never sees
 // these: sprites, labels, focus edges and picking add them on top of the true
 // positions, and they lerp back to zero when the hover ends, so the physics
-// layout returns exactly to where it was.
-const SPREAD_ARC = 92 // px of ring arc reserved per neighbour label, minimum
-const SPREAD_GAP = 78 // px between successive rings
+// layout returns exactly to where it was. The ring geometry itself lives in
+// `fanLayout` (utils/graph), shared with the local map.
 let offX = new Float64Array(0)
 let offY = new Float64Array(0)
 let tgtX = new Float64Array(0)
@@ -349,11 +348,11 @@ function clearSpreadTargets(): void {
 }
 
 /**
- * Compute each neighbour's spread target around the pinned node. Slots are
- * built ring by ring (capacity grows with circumference, quotas spread
- * proportionally so the outer ring isn't left nearly empty), then sorted by
- * angle and matched to the neighbours sorted by their true bearing — the
- * cyclic order is preserved, so the fan-out neither crosses nor travels far.
+ * Compute each neighbour's spread target around the pinned node. The geometry
+ * lives in `fanLayout` (utils/graph), shared with the local map so the two
+ * can't drift; this solves it at the live camera scale — plates here don't
+ * scale with zoom, so the fan is re-solved when k moves (see the update loop) —
+ * and converts the result back into graph-unit offsets.
  */
 function setSpreadTargets(src: any[]): void {
   clearSpreadTargets()
@@ -363,168 +362,22 @@ function setSpreadTargets(src: any[]): void {
   if (!n) return
   const f = src[focus]!
   const k = camera.k.value
-
-  const order = nbrs
-    .map(j => ({ j, a: Math.atan2(src[j]!.y - f.y, src[j]!.x - f.x) }))
-    .sort((u, v) => u.a - v.a)
-
-  // Slot arc adapts to this neighbourhood's label widths (~5.6 px/char at
-  // font 11). Adjacent slots in a ring are also staggered half a gap radially,
-  // so only every *second* slot shares a radius — half the mean width plus
-  // padding is enough arc.
-  let chars = 0
   const pn = payload.value!.nodes
-  for (const j of nbrs) chars += Math.min(pn[j]!.l.length, 40)
-  const arc = Math.max(SPREAD_ARC, Math.min(170, ((chars / n) * 5.6) / 2 + 34))
 
-  const r0 = Math.max(84, Math.min(130, (n * arc) / (2 * Math.PI)))
-  const ringR: number[] = []
-  let cap = 0
-  for (let m = 0; cap < n; m++) {
-    const r = r0 + m * SPREAD_GAP
-    ringR.push(r)
-    cap += Math.max(1, Math.floor((2 * Math.PI * r) / arc))
-  }
-  const totalR = ringR.reduce((s, r) => s + r, 0)
-  const slots: { a: number, r: number }[] = []
-  let assigned = 0
-  ringR.forEach((r, m) => {
-    const q = m === ringR.length - 1
-      ? n - assigned
-      : Math.min(n - assigned, Math.round((n * r) / totalR))
-    assigned += q
-    // Rings are offset half a slot from each other, and alternate slots
-    // within a ring bump out half a gap, so no two nearby labels share both
-    // a bearing and a radius.
-    for (let s = 0; s < q; s++) {
-      slots.push({ a: -Math.PI + ((s + (m % 2) * 0.5) / q) * 2 * Math.PI, r: r + (s % 2) * (SPREAD_GAP * 0.45) })
-    }
-  })
-  slots.sort((u, v) => u.a - v.a)
-
-  // Rotate the whole arrangement by the circular mean of (bearing − slot) so
-  // the fan opens from where the neighbours already sit.
-  let cx = 0
-  let cy = 0
-  for (let j = 0; j < n; j++) {
-    const d = order[j]!.a - slots[j]!.a
-    cx += Math.cos(d)
-    cy += Math.sin(d)
-  }
-  const delta = Math.atan2(cy, cx)
+  const { members } = fanLayout(
+    { x: f.x * k, y: f.y * k, r: nodeRadius(pn[focus]!.d), label: pn[focus]!.l },
+    nbrs.map(i => ({ x: src[i]!.x * k, y: src[i]!.y * k, r: nodeRadius(pn[i]!.d), label: pn[i]!.l })),
+  )
 
   for (let j = 0; j < n; j++) {
-    const i = order[j]!.j
-    const slot = slots[j]!
-    const a = slot.a + delta
-    const rg = slot.r / k // ring radii are screen px; offsets live in graph units
-    tgtX[i] = f.x + Math.cos(a) * rg - src[i]!.x
-    tgtY[i] = f.y + Math.sin(a) * rg - src[i]!.y
-    spreadAng[i] = a
+    const i = nbrs[j]!
+    const m = members[j]!
+    // Ring radii are screen px; offsets live in graph units.
+    tgtX[i] = m.x / k - src[i]!.x
+    tgtY[i] = m.y / k - src[i]!.y
+    spreadAng[i] = m.ang
     spreadActive.add(i)
-    if (slot.r > spreadRadiusPx) spreadRadiusPx = slot.r
-  }
-
-  // Separate the fan as full FOOTPRINTS, not discs: a member's clickable
-  // area is its disc PLUS its name plate (anchored radially outward), and
-  // plates are far wider than discs — the label-arc slotting alone left them
-  // stacked over each other and over nodes. Every sweep re-derives each
-  // member's bearing from its current position, builds the union box of disc
-  // + plate (the focus gets its disc + the title panel below), and pushes
-  // overlapping pairs apart along the axis of least penetration. The focus
-  // never moves; everything yields around it.
-  const PAD = 10 // clearance between footprints
-  const CHAR_W = 6.2 // ~avg glyph width of the 11px plate font, erring wide
-  const posX = new Float64Array(n + 1)
-  const posY = new Float64Array(n + 1)
-  const rad = new Float64Array(n + 1)
-  const pw = new Float64Array(n + 1) // plate / panel box width
-  const ph = new Float64Array(n + 1)
-  posX[0] = f.x * k
-  posY[0] = f.y * k
-  rad[0] = nodeRadius(pn[focus]!.d) + 3
-  pw[0] = Math.min(pn[focus]!.l.length, 60) * 6.2 + 22 // title panel, 12px font
-  ph[0] = 28
-  for (let j = 0; j < n; j++) {
-    const i = nbrs[j]!
-    posX[j + 1] = (src[i]!.x + tgtX[i]!) * k
-    posY[j + 1] = (src[i]!.y + tgtY[i]!) * k
-    rad[j + 1] = nodeRadius(pn[i]!.d)
-    pw[j + 1] = Math.min(pn[i]!.l.length, 60) * CHAR_W + 18
-    ph[j + 1] = 22
-  }
-
-  // Union box (minX, minY, maxX, maxY) of member m's disc and its plate at
-  // m's current bearing — mirroring how the render loop anchors the plates.
-  const box = (m: number, out: Float64Array): void => {
-    const r = rad[m]!
-    let cx: number
-    let cy: number
-    if (m === 0) {
-      cx = posX[0]!
-      cy = posY[0]! + r + 7 + ph[0]! / 2 // panel sits centred below the disc
-    }
-    else {
-      const dx = posX[m]! - posX[0]!
-      const dy = posY[m]! - posY[0]!
-      const d = Math.hypot(dx, dy) || 1
-      const ca = dx / d
-      const sa = dy / d
-      cx = posX[m]! + ca * (r + 5) + (ca * pw[m]!) / 2
-      cy = posY[m]! + sa * (r + 5) + (sa * ph[m]!) / 2
-    }
-    out[0] = Math.min(posX[m]! - r, cx - pw[m]! / 2)
-    out[1] = Math.min(posY[m]! - r, cy - ph[m]! / 2)
-    out[2] = Math.max(posX[m]! + r, cx + pw[m]! / 2)
-    out[3] = Math.max(posY[m]! + r, cy + ph[m]! / 2)
-  }
-
-  const ba = new Float64Array(4)
-  const bb = new Float64Array(4)
-  for (let sweep = 0; sweep < 60; sweep++) {
-    let clashed = false
-    for (let a = 0; a <= n; a++) {
-      box(a, ba)
-      for (let b = a + 1; b <= n; b++) {
-        box(b, bb)
-        const ox = Math.min(ba[2]!, bb[2]!) - Math.max(ba[0]!, bb[0]!) + PAD
-        const oy = Math.min(ba[3]!, bb[3]!) - Math.max(ba[1]!, bb[1]!) + PAD
-        if (ox <= 0 || oy <= 0) continue
-        clashed = true
-        if (ox < oy) {
-          const sign = bb[0]! + bb[2]! >= ba[0]! + ba[2]! ? 1 : -1
-          if (a === 0) {
-            posX[b]! += ox * sign
-          }
-          else {
-            posX[a]! -= (ox / 2) * sign
-            posX[b]! += (ox / 2) * sign
-          }
-        }
-        else {
-          const sign = bb[1]! + bb[3]! >= ba[1]! + ba[3]! ? 1 : -1
-          if (a === 0) {
-            posY[b]! += oy * sign
-          }
-          else {
-            posY[a]! -= (oy / 2) * sign
-            posY[b]! += (oy / 2) * sign
-          }
-        }
-        box(a, ba)
-      }
-    }
-    if (!clashed) break
-  }
-
-  for (let j = 0; j < n; j++) {
-    const i = nbrs[j]!
-    tgtX[i] = posX[j + 1]! / k - src[i]!.x
-    tgtY[i] = posY[j + 1]! / k - src[i]!.y
-    const dx = posX[j + 1]! - posX[0]!
-    const dy = posY[j + 1]! - posY[0]!
-    spreadAng[i] = Math.atan2(dy, dx)
-    const dist = Math.sqrt(dx * dx + dy * dy)
+    const dist = Math.hypot(m.x - f.x * k, m.y - f.y * k)
     if (dist > spreadRadiusPx) spreadRadiusPx = dist
   }
   lastSpreadK = k

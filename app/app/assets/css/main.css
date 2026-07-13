@@ -278,10 +278,12 @@
   --text-display-xl: 64px;   --lh-display-xl:  62px;  --ls-display-xl:  -0.016em;
   --text-display-lg: 48px;   --lh-display-lg:  48px;  --ls-display-lg:  -0.012em;
 
-  --text-h1: 48px;  --lh-h1: 48px;  --ls-h1: -0.012em;  --fw-h1: 800;
-  --text-h2: 30px;  --lh-h2: 36px;  --ls-h2: -0.007em;  --fw-h2: 600;
-  --text-h3: 24px;  --lh-h3: 32px;  --ls-h3: -0.006em;  --fw-h3: 600;
-  --text-h4: 20px;  --lh-h4: 28px;  --ls-h4: -0.005em;  --fw-h4: 600;
+  /* Tracking runs positive, and loosens as the type gets smaller — Chakra Petch
+     is a narrow display face, so the optical gaps close up fast below h1. */
+  --text-h1: 48px;  --lh-h1: 48px;  --ls-h1: 0.006em;  --fw-h1: 800;
+  --text-h2: 30px;  --lh-h2: 36px;  --ls-h2: 0.012em;  --fw-h2: 600;
+  --text-h3: 24px;  --lh-h3: 32px;  --ls-h3: 0.014em;  --fw-h3: 600;
+  --text-h4: 20px;  --lh-h4: 28px;  --ls-h4: 0.016em;  --fw-h4: 600;
 
   --text-lead: 20px;       --lh-lead: 28px;
   --text-large: 18px;      --lh-large: 28px;
