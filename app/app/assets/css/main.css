@@ -59,6 +59,19 @@
   --ring: 142.1 76.2% 36.3%;
   --graph-node: 142.1 76.2% 36.3%;
   --graph-edge: 215.4 16.3% 46.9%;
+  /* Per-category node colors for the graph map: soft red people, olive
+     locations, royal-blue orgs, gray MOCs, purple events, teal ops, pink
+     concepts, white videos. Each theme adapts lightness to its surface —
+     "white" videos render as silver on the light surfaces, where true white
+     would vanish into the background. */
+  --graph-cat-people: 4 55% 55%;
+  --graph-cat-locations: 75 60% 33%;
+  --graph-cat-orgs: 226 68% 52%;
+  --graph-cat-mocs: 215 12% 47%;
+  --graph-cat-events: 265 55% 50%;
+  --graph-cat-ops: 178 60% 34%;
+  --graph-cat-concepts: 337.4 70.3% 69.6%;
+  --graph-cat-videos: 220 8% 74%;
   --overlay: 222.2 47% 8%;
   --overlay-opacity: 0.45;
 }
@@ -87,6 +100,14 @@
   --ring: 142.4 71.8% 40%;
   --graph-node: 142.1 70.6% 45.3%;
   --graph-edge: 0 0% 45%;
+  --graph-cat-people: 4 65% 66%;
+  --graph-cat-locations: 72 42% 55%;
+  --graph-cat-orgs: 226 78% 66%;
+  --graph-cat-mocs: 215 9% 62%;
+  --graph-cat-events: 265 70% 70%;
+  --graph-cat-ops: 178 55% 50%;
+  --graph-cat-concepts: 338.2 61.1% 57.6%;
+  --graph-cat-videos: 0 0% 96%;
   --overlay: 0 0% 0%;
   --overlay-opacity: 0.7;
 }
@@ -114,6 +135,14 @@
   --ring: 142 55% 40%;
   --graph-node: 142 64% 47%;
   --graph-edge: 0 0% 50%;
+  --graph-cat-people: 4 58% 63%;
+  --graph-cat-locations: 72 38% 52%;
+  --graph-cat-orgs: 226 68% 63%;
+  --graph-cat-mocs: 215 9% 60%;
+  --graph-cat-events: 265 60% 67%;
+  --graph-cat-ops: 178 48% 48%;
+  --graph-cat-concepts: 338.2 61.1% 57.6%;
+  --graph-cat-videos: 0 0% 90%;
   --overlay: 0 0% 0%;
   --overlay-opacity: 0.6;
 }
@@ -141,6 +170,14 @@
   --ring: 142 55% 32%;
   --graph-node: 142 55% 32%;
   --graph-edge: 30 14% 50%;
+  --graph-cat-people: 4 50% 50%;
+  --graph-cat-locations: 75 55% 31%;
+  --graph-cat-orgs: 226 60% 48%;
+  --graph-cat-mocs: 215 12% 44%;
+  --graph-cat-events: 265 48% 47%;
+  --graph-cat-ops: 178 55% 31%;
+  --graph-cat-concepts: 337.4 70.3% 69.6%;
+  --graph-cat-videos: 40 12% 70%;
   --overlay: 28 30% 14%;
   --overlay-opacity: 0.4;
 }

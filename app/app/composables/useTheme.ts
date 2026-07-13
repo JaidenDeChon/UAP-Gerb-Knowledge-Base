@@ -5,16 +5,18 @@ export type ThemeId = 'light' | 'sepia' | 'dim' | 'dark'
 export interface ThemeMeta {
   id: ThemeId
   label: string
-  subtitle: string
   /** Lucide kebab name. */
   icon: string
 }
 
+// Labels riff on UAP lore — Hynek's sighting classes for the two lit themes,
+// deep-state jargon for the dark pair. Ids stay stable: they're persisted in
+// the theme cookie and matched by the [data-theme] CSS selectors.
 export const THEMES: readonly ThemeMeta[] = [
-  { id: 'light', label: 'Light', subtitle: 'default · high contrast', icon: 'sun' },
-  { id: 'sepia', label: 'Sepia', subtitle: 'less-light · warm paper', icon: 'book-open' },
-  { id: 'dim', label: 'Dim', subtitle: 'less-dark · softened', icon: 'cloud-moon' },
-  { id: 'dark', label: 'Dark', subtitle: 'high contrast', icon: 'moon' },
+  { id: 'light', label: 'White Light', icon: 'sun' },
+  { id: 'sepia', label: 'Majestic', icon: 'cloud-sun' },
+  { id: 'dim', label: 'Night Ops', icon: 'cloud-moon' },
+  { id: 'dark', label: 'Black Program', icon: 'moon' },
 ]
 
 const DARK_THEMES: ReadonlySet<ThemeId> = new Set<ThemeId>(['dark', 'dim'])

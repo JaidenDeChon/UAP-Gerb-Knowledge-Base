@@ -1,6 +1,6 @@
 import tailwindcss from '@tailwindcss/vite'
 import { bakeWikiDataModule } from './wiki/bake'
-import { replaceWikiLinks } from './wiki/vault'
+import { replaceObsidianCallouts, replaceWikiLinks } from './wiki/vault'
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
@@ -36,10 +36,11 @@ export default defineNuxtConfig({
     componentDir: '@/components/ui'
   },
   hooks: {
-    // Obsidian's [[wikilinks]] aren't markdown, so rewrite them to real links before parsing.
+    // Obsidian's [[wikilinks]] and `> [!type]` callouts aren't markdown, so
+    // rewrite both into things @nuxt/content understands before parsing.
     'content:file:beforeParse'(ctx) {
       if (ctx.collection.name !== 'wiki') return
-      ctx.file.body = replaceWikiLinks(String(ctx.file.body))
+      ctx.file.body = replaceObsidianCallouts(replaceWikiLinks(String(ctx.file.body)))
     },
   },
 })

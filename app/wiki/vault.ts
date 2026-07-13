@@ -168,6 +168,41 @@ export function replaceWikiLinks(body: string, index = buildVaultIndex()): strin
   })
 }
 
+/** `> [!type] Title` — the head line of an Obsidian callout blockquote. */
+const CALLOUT_HEAD_RE = /^>\s*\[!([a-z]+)\][+-]?\s?(.*)$/i
+
+/**
+ * Rewrite Obsidian callout blockquotes into `::wiki-callout` MDC blocks before
+ * @nuxt/content parses the file, so the web app renders them as styled callout
+ * components (see components/content/WikiCallout.vue) instead of quoted text
+ * with a literal `[!info]` marker. Runs after replaceWikiLinks — the two
+ * rewrites don't overlap, so order is a convention, not a requirement.
+ */
+export function replaceObsidianCallouts(body: string): string {
+  const lines = body.split('\n')
+  const out: string[] = []
+  for (let i = 0; i < lines.length; i++) {
+    const head = lines[i]!.match(CALLOUT_HEAD_RE)
+    if (!head) {
+      out.push(lines[i]!)
+      continue
+    }
+    const type = head[1]!.toLowerCase()
+    const title = (head[2] ?? '').trim().replace(/"/g, '\\"')
+    const content: string[] = []
+    let j = i + 1
+    while (j < lines.length && /^>( |$)/.test(lines[j]!)) {
+      content.push(lines[j]!.replace(/^> ?/, ''))
+      j++
+    }
+    out.push(`::wiki-callout{type="${type}"${title ? ` title="${title}"` : ''}}`)
+    out.push(...content)
+    out.push('::')
+    i = j - 1
+  }
+  return out.join('\n')
+}
+
 /* ------------------------------------------------- additive vault helpers -- */
 
 /** The set of top-level folders that are real categories (everything else -> Root). */

@@ -11,10 +11,14 @@
             "id": "5106c2bc3984babf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "UAP Gerb Knowledge Base/Operations/Project Heaven.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Project Heaven"
             }
           }
         ]
@@ -180,6 +184,7 @@
   },
   "active": "5106c2bc3984babf",
   "lastOpenFiles": [
+    "UAP Gerb Knowledge Base/Operations/Project Grudge.md",
     "UAP Gerb Knowledge Base/Concepts/Nitinol (Nickel-Titanium Alloy).md",
     "UAP Gerb Knowledge Base/MOCs/Events MOC.md",
     "OctagonalPyramid-shaped Craft.md",
@@ -207,7 +212,6 @@
     "UAP Gerb Knowledge Base/Events MOC.md",
     "UAP Gerb Knowledge Base/Events/Corso's Claimed Encounter with Non-Human Intelligence.md",
     "UAP Gerb Knowledge Base/People/Philip J. Corso.md",
-    "UAP Gerb Knowledge Base/People/Philip Corso Jr..md",
     "UAP Gerb Knowledge Base/Locations/Cincinnati, Ohio.md.tmp.74951.66df42bf1f54",
     "UAP Gerb Knowledge Base/Locations/Kirtland Air Force Base, New Mexico.md.tmp.74951.efaae8d69634",
     "UAP Gerb Knowledge Base/Locations/Hagerstown, Maryland.md.tmp.32822.4129630b0c69",

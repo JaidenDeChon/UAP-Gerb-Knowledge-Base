@@ -482,7 +482,7 @@ const ariaLabel = computed(() =>
           <circle
             v-for="n in nodesGeom"
             :key="n.i"
-            class="g-node cursor-pointer stroke-background"
+            class="g-node cursor-pointer"
             :class="[
               (n.i === hoverIndex || n.i === activeSceneIndex) ? 'fill-primary' : 'fill-graph-node',
               focusIndex != null && (n.i === focusIndex || neighbourSet.has(n.i)) ? 'is-lit' : '',
@@ -491,7 +491,6 @@ const ariaLabel = computed(() =>
             :cx="n.cx"
             :cy="n.cy"
             :r="(n.i === hoverIndex || n.i === activeSceneIndex) ? n.r + 3 : n.r"
-            stroke-width="2"
           />
         </g>
 

@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import type { Component } from 'vue'
 import { computed, ref } from 'vue'
-import { BookOpen, Check, ChevronsUpDown, CloudMoon, Moon, Sun } from '@lucide/vue'
+import { Check, ChevronsUpDown, CloudMoon, CloudSun, Moon, Sun } from '@lucide/vue'
 import { Button } from '@/components/ui/button'
 import { Popover, PopoverContent, PopoverTrigger } from '@/components/ui/popover'
 import { THEMES, useTheme, type ThemeId } from '~/composables/useTheme'
@@ -15,7 +15,7 @@ const open = ref(false)
 
 const THEME_ICON: Record<ThemeId, Component> = {
   light: Sun,
-  sepia: BookOpen,
+  sepia: CloudSun,
   dim: CloudMoon,
   dark: Moon,
 }
@@ -86,7 +86,6 @@ function select(id: ThemeId): void {
 
           <span class="block px-3.5 py-3">
             <span class="block font-display text-[14px] font-bold tracking-[-0.01em]">{{ t.label }}</span>
-            <span class="mt-0.5 block font-sans text-[11px] font-normal text-muted-foreground">{{ t.subtitle }}</span>
           </span>
 
           <span class="mt-auto flex flex-col gap-2 px-3.5 pb-3.5">
