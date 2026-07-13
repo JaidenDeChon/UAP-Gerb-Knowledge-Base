@@ -573,6 +573,16 @@ function stepSpread(dt: number): void {
 const CHARGE_RANGE = 350 // base px reach of node-node repulsion (see REPEL_RANGE)
 const VELOCITY_DECAY = 0.55 // > d3's 0.4 default; damps the spring oscillation
 const ALPHA_DECAY = 0.02
+// Cutting the sim at a fixed alpha froze the layout mid-drift: alpha scales the
+// FORCES, but velocity is carried state, so nodes still had real momentum at the
+// threshold (the fastest was still travelling ~46px/frame), and the auto-fit
+// glide — gated on the same flag — was cut with the camera short of its target.
+// Instead the tail is a glide-out: through the cooling band the damping ramps
+// from its running value toward a near-total stop, so the graph bleeds off its
+// momentum and coasts to rest with nothing left to spend.
+const ALPHA_COOL = 0.07 // alpha at which the glide-out begins
+const ALPHA_PARK = 0.005 // alpha at which the sim parks (was a hard cut at 0.02)
+const COOL_DECAY = 0.96 // velocity decay at the far end of the glide-out
 const HUB_EXP = 0.75 // spring damping exponent by larger endpoint degree
 // Hub damping alone leaves most springs too weak to beat collision (a link to
 // a degree-30 node lands near 0.08), which made the link-distance slider a
@@ -927,6 +937,9 @@ function settleStatic(): void {
   }
   sim.nodes(activeNodes)
   sim.force('link').links(activeLinks)
+  // Freezing mid-glide can leave the cooled damping behind, which would stall
+  // this synchronous relax well short of equilibrium.
+  sim.velocityDecay(VELOCITY_DECAY)
   sim.alpha(0.5)
   for (let t = 0; t < STATIC_TICKS && sim.alpha() > 0.025; t++) sim.tick()
   sim.alpha(0) // parked
@@ -1150,8 +1163,14 @@ function update(ticker?: any): void {
 
   if (building && physicsOn.value && sim) stepBuild(ticker?.deltaMS ?? 16.7)
 
-  const hot = physicsOn.value && sim && sim.alpha() > 0.02
+  const hot = physicsOn.value && sim && sim.alpha() > ALPHA_PARK
   if (hot) {
+    // Damping is re-derived from alpha every tick rather than latched, so a
+    // reheat (slider, drag, restart) lifts alpha back out of the band and gets
+    // the running velocityDecay again with no explicit reset.
+    const a = sim.alpha()
+    const t = a >= ALPHA_COOL ? 0 : (ALPHA_COOL - a) / (ALPHA_COOL - ALPHA_PARK)
+    sim.velocityDecay(VELOCITY_DECAY + (COOL_DECAY - VELOCITY_DECAY) * t * t)
     sim.tick()
     geomDirty = true
     dirty = true
@@ -1166,6 +1185,13 @@ function update(ticker?: any): void {
   else {
     // The settle is over; later reheats (slider tweaks) keep the camera still.
     autoFit = false
+    // Park on the frame the glide-out ends, and hand the running damping back to
+    // whoever ticks next (settleStatic relaxes the graph synchronously, and the
+    // glide's damping would stall it well short of equilibrium).
+    if (physicsOn.value && sim && sim.alpha() > 0) {
+      sim.alpha(0)
+      sim.velocityDecay(VELOCITY_DECAY)
+    }
   }
   // Spread offsets or fade-ins in flight: keep frames coming (alongside the
   // hot/dirty gates) without touching the simulation.
