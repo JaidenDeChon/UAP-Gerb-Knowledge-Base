@@ -135,9 +135,10 @@ let hoverPos: { x: number, y: number } | null = null
  *   up and show their labels at their true positions, nothing moves. The
  *   hover ends the moment the pointer leaves the node (no grace zone).
  * - Clicking/tapping a node PINS it: the neighbourhood fans out into rings
- *   with name plates (`pinned`). Clicking the pinned node again — or one of
- *   its fanned neighbours — follows the link; clicking a different node moves
- *   the pin there; clicking blank map closes it.
+ *   with name plates (`pinned`) while the rest of the map blurs behind it —
+ *   present, but inert. Clicking the pinned node again — or one of its fanned
+ *   neighbours — follows the link; clicking anywhere else (blank space or the
+ *   blurred field) closes it.
  */
 const pinned = shallowRef<number | null>(null)
 /** Pointer currently over a node — drives the cursor, even while pinned. */
@@ -151,15 +152,19 @@ function setPin(i: number | null): void {
 }
 
 function nodeTapped(i: number | null): void {
-  if (i == null) {
-    setPin(null)
+  if (pinned.value != null) {
+    // While pinned, only the pinned node and its fanned neighbours are live
+    // targets. Everything else — blank space or a blurred background node —
+    // closes the pin; nothing can be hit through the backdrop.
+    if (i != null && (i === pinned.value || activeNeighbours(pinned.value).includes(i))) {
+      if (payload.value) emit('select', payload.value.nodes[i]!)
+    }
+    else {
+      setPin(null)
+    }
     return
   }
-  if (pinned.value != null && (i === pinned.value || activeNeighbours(pinned.value).includes(i))) {
-    if (payload.value) emit('select', payload.value.nodes[i]!)
-    return
-  }
-  setPin(i)
+  if (i != null) setPin(i)
 }
 
 const camera = useMapCamera(containerRef, {
@@ -224,6 +229,11 @@ watch(catFocus, () => {
 let PIXI: any = null
 let app: any = null
 let world: any = null
+let ringLayer: any = null
+let nodeLayer: any = null
+/** Screen-space layer above the blurred world: holds the pinned fan, crisp. */
+let pinLayer: any = null
+let blurFilter: any = null
 let edgesG: any = null
 let focusG: any = null
 let sprites: any[] = []
@@ -265,6 +275,10 @@ let spreadSettled = true
 let spreadRadiusPx = 0 // outermost ring in screen px
 /** True while the pinned fan-out is displayed (plates, spread offsets). */
 let spreadMode = false
+/** Nodes lifted into the crisp pin layer (the pinned node + its fan). */
+let pinMembers: number[] = []
+/** Same members as a set — the only hover/click targets while pinned. */
+let pinSet: Set<number> | null = null
 
 /** HTML title panel for the hovered node (replaces its Pixi label). */
 const hoverPanelRef = ref<HTMLElement | null>(null)
@@ -908,8 +922,8 @@ function buildSceneIfReady(): void {
   const circleTex = app.renderer.generateTexture({ target: template, antialias: true })
   template.destroy()
 
-  const ringLayer = new PIXI.Container()
-  const nodeLayer = new PIXI.Container()
+  ringLayer = new PIXI.Container()
+  nodeLayer = new PIXI.Container()
   labelLayer = new PIXI.Container()
   world.addChild(ringLayer, nodeLayer, labelLayer)
 
@@ -944,10 +958,21 @@ function buildSceneIfReady(): void {
   }
 
   // Focus edges live in screen space on the stage, rebuilt per focus change —
-  // slotted BELOW `world` so node/neighbour labels always paint above them.
+  // slotted BELOW `world` while hovering so nodes paint above them; raised
+  // above the blurred world while a pin is open (see the mode switch in
+  // update()).
   focusG?.destroy()
   focusG = new PIXI.Graphics()
   app.stage.addChildAt(focusG, 0)
+
+  // The pin layer mirrors the world's transform and sits above it, outside
+  // the blur, so the pinned fan stays crisp over the blurred field.
+  pinLayer?.destroy()
+  pinLayer = new PIXI.Container()
+  app.stage.addChild(pinLayer)
+  pinMembers = []
+  pinSet = null
+  blurFilter ??= new PIXI.BlurFilter({ strength: 6, quality: 4 })
 
   computeClusters(p)
   buildSimulation(p)
@@ -1040,19 +1065,46 @@ function update(ticker?: any): void {
   const k = camera.k.value
   world.position.set(px, py)
   world.scale.set(k)
+  pinLayer.position.set(px, py)
+  pinLayer.scale.set(k)
 
   {
     // The pin owns the focus while set; plain hover otherwise. Hover has no
     // grace zone — leaving the node ends it — and the fan-out (spread mode)
-    // exists only while pinned.
+    // exists only while pinned. While pinned, only the fan's members are
+    // hover/click targets — the blurred field behind is inert.
     const hoverHit = hoverPos ? pickDisplayed(src, hoverPos.x, hoverPos.y) : null
-    overNode.value = hoverHit != null
+    overNode.value = hoverHit != null && (pinSet == null || pinSet.has(hoverHit))
     const next = pinned.value ?? hoverHit
     const mode = pinned.value != null
     if (next !== focus || mode !== spreadMode) {
       focus = next
       spreadMode = mode
       focusDirty = true
+      // Hand the previous fan's members back to the world before building the
+      // next fan (or none) — then lift the new members into the crisp layer
+      // and blur the world underneath them.
+      for (const i of pinMembers) {
+        ringLayer.addChild(rings[i]!)
+        nodeLayer.addChild(sprites[i]!)
+      }
+      if (spreadMode && focus != null) {
+        pinMembers = [focus, ...activeNeighbours(focus)]
+        pinSet = new Set(pinMembers)
+        for (const i of pinMembers) pinLayer.addChild(rings[i]!)
+        for (const i of pinMembers) pinLayer.addChild(sprites[i]!)
+        // No filterArea: Pixi sizes the filter pass from the world's bounds
+        // clipped to the screen. (filterArea is LOCAL-space in v8 — a screen
+        // rect there crops the world to a patch.)
+        world.filters = [blurFilter]
+        app.stage.setChildIndex(focusG, 1) // fan edges above the blurred field
+      }
+      else {
+        pinMembers = []
+        pinSet = null
+        world.filters = null
+        app.stage.setChildIndex(focusG, 0) // hover edges back under the nodes
+      }
       if (spreadMode) setSpreadTargets(src)
       else clearSpreadTargets()
       syncPlates()
