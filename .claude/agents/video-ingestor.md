@@ -114,7 +114,11 @@ print(f"WROTE {len(text)} transcript chars to {OUT}/transcript.md")
 PY
 ```
 
-If the package is not installed: `python3 -m pip install --break-system-packages youtube-transcript-api`. If the fetch fails with an IP block (`IpBlocked`/`RequestBlocked`), retry with the repo's cookies by passing an authenticated session — `import requests, http.cookiejar as cj; s = requests.Session(); s.cookies = cj.MozillaCookieJar("cookies.txt"); s.cookies.load(); api = YouTubeTranscriptApi(http_client=s)` — and repeat the fetch. If it still fails (captions genuinely disabled), report it and **stop**. Do not write an empty or partial transcript and do not proceed to build wiki pages: a video with no full transcript cannot be ingested faithfully.
+If the package is not installed: `python3 -m pip install --break-system-packages youtube-transcript-api`.
+
+If the fetch fails with an IP block (`IpBlocked`/`RequestBlocked`), **report it and stop.** Do not attempt a cookie-authenticated retry: `youtube-transcript-api` no longer supports cookie auth, and the repo no longer ships a `cookies.txt`. This failure is expected on datacenter IPs — it reproduces reliably on GitHub Actions runners, where `yt-dlp` channel listing still succeeds but caption fetching is blocked. The library's only supported workaround is a residential proxy (`WebshareProxyConfig` or `GenericProxyConfig` from `youtube_transcript_api.proxies`); use it only if proxy credentials are configured in the environment.
+
+If the fetch fails for any other reason (captions genuinely disabled), likewise report it and **stop**. Do not write an empty or partial transcript and do not proceed to build wiki pages: a video with no full transcript cannot be ingested faithfully.
 
 3. **Verify the stored transcript is complete** before doing anything else. Confirm the printed `WROTE N chars` count is plausible for the video length (a multi-minute video should be thousands to tens-of-thousands of characters), and that `transcript.md` ends mid-sentence only if the captions genuinely do. Read the last ~20 lines of the written file to confirm the transcript reaches the end of the video rather than cutting off early. If it looks truncated, re-fetch — never patch a partial transcript by hand.
 

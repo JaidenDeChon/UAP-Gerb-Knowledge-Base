@@ -1,8 +1,10 @@
 name: Curate orphan articles
 
+# Manual only — deliberately not scheduled. There are ~918 orphans queued, and
+# working that backlog down unattended, 30 at a time, would churn the vault
+# faster than the results can be reviewed. Curation is better driven by hand
+# (locally, or by dispatching this) when there's appetite to review the output.
 on:
-  schedule:
-    - cron: '0 6 * * 1'   # weekly, Monday 06:00 UTC
   workflow_dispatch: {}
 
 # Shares the vault-write group with ingest-video.yml — see the note there.
