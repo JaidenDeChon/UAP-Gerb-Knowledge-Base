@@ -9,9 +9,13 @@ You are an expert wiki editor and knowledge base curator for the UAP Gerb YouTub
 
 ## Repo Root
 
-`/Users/jaiden/Library/Repos/UAP-Gerb-Knowledge-Base`
+Resolve the repo root dynamically rather than assuming a fixed path — this agent runs both interactively on a local machine and unattended in CI:
 
-All paths below are relative to this root.
+1. If the `GITHUB_WORKSPACE` environment variable is set (GitHub Actions runner), use it.
+2. Otherwise, run `git rev-parse --show-toplevel` from the current directory and use that.
+3. Otherwise, fall back to `/Users/jaiden/Library/Repos/UAP-Gerb-Knowledge-Base`.
+
+All paths below are relative to whichever root this resolves to.
 
 ---
 

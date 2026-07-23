@@ -1,0 +1,34 @@
+name: Curate orphan articles
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'   # weekly, Monday 06:00 UTC
+  workflow_dispatch: {}
+
+jobs:
+  curate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: "Use the article-curator agent to process the next batch of orphan entries."
+          allowed_tools: "Bash,Read,Edit,Write"
+
+      - name: Commit and push any changes
+        run: |
+          git config user.name "uap-gerb-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add "UAP Gerb Knowledge Base" .claude/agent-memory orphans.csv 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "Auto-curate: orphan article pass"
+          git push
+
+# TODO: site rebuild/redeploy is not wired in yet.
+# The Nuxt app in app/ bakes the wiki content into the server bundle at build time,
+# not request time — so pushing new markdown alone does not update the live site.
+# Once hosting is confirmed, either verify that this push triggers the platform's own
+# build-on-push, or add an explicit rebuild step here (e.g. `bun run build` + restart).
