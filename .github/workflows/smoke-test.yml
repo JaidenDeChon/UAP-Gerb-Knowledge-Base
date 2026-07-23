@@ -1,0 +1,89 @@
+####################################################################
+# TEMPORARY — DELETE BEFORE MERGING PR #6.
+#
+# Dry run of the ingest pipeline on this branch, so it can be observed
+# before anything is trusted on main. Deliberately cannot write:
+#   - `permissions: contents: read` (no push token)
+#   - no commit/push step; it prints git status/diff instead
+#
+# The ingest agent is a no-op today (51 live videos, 51 processed), so
+# this exercises auth, the tool allowlist, agent resolution, and YouTube
+# reachability from a GitHub runner without touching the vault.
+####################################################################
+name: SMOKE TEST (temporary)
+
+on:
+  push:
+    branches: [ci/scheduled-agent-workflows]
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install video/transcript tooling
+        run: pip install yt-dlp youtube-transcript-api
+
+      # The big unknown: GitHub runners use datacenter IPs, which YouTube
+      # bot-checks far more aggressively than a home connection. Non-fatal —
+      # we want the diagnosis, not a red X.
+      - name: Probe — can yt-dlp reach the channel from this runner?
+        continue-on-error: true
+        run: |
+          echo "::group::yt-dlp channel listing"
+          yt-dlp --flat-playlist --print "%(id)s|%(title)s" \
+            "https://www.youtube.com/@UAPGerb/videos" > /tmp/live.txt 2>/tmp/live.err \
+            && echo "OK — $(wc -l < /tmp/live.txt) videos listed" \
+            || { echo "FAILED — stderr follows:"; cat /tmp/live.err; }
+          echo "::endgroup::"
+
+      - name: Probe — can the transcript API fetch captions from this runner?
+        continue-on-error: true
+        run: |
+          python3 - <<'PY'
+          from youtube_transcript_api import YouTubeTranscriptApi
+          try:
+              fetched = YouTubeTranscriptApi().fetch("B7JP0uX0GwY", languages=["en", "en-US", "en-GB"])
+              text = " ".join(seg.text for seg in fetched)
+              print(f"OK — fetched {len(text)} chars")
+          except Exception as e:
+              print(f"FAILED — {type(e).__name__}: {e}")
+          PY
+
+      # Same prompt and claude_args as the real ingest workflow, so this is
+      # representative of what the scheduled run will do.
+      - uses: anthropics/claude-code-action@v1
+        continue-on-error: true
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: "Use the video-ingestor agent to process any new video."
+          claude_args: |
+            --allowedTools "Bash,Read,Write,Edit,Glob,Grep,Task,WebSearch,WebFetch,TodoWrite"
+            --max-turns 400
+
+      # Replaces the commit/push step. Shows what the run *would* have
+      # committed, without committing it.
+      - name: Report what changed (nothing is pushed)
+        if: always()
+        run: |
+          echo "::group::git status"
+          git status --porcelain || true
+          echo "::endgroup::"
+          echo "::group::git diff --stat"
+          git diff --stat || true
+          echo "::endgroup::"
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "RESULT: no changes — expected, the vault is caught up (51/51)."
+          else
+            echo "RESULT: the agent modified files. Review the diff above before merging."
+          fi
