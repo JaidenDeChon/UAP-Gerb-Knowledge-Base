@@ -12,13 +12,19 @@
 ####################################################################
 name: SMOKE TEST (temporary)
 
+# NOT `push`: claude-code-action rejects it ("Unsupported event type"). It accepts
+# nine events — issues, issue_comment, pull_request, pull_request_review,
+# pull_request_review_comment, workflow_dispatch, repository_dispatch, schedule,
+# workflow_run. `workflow_dispatch` only works once a file is on the default
+# branch, so on this branch `pull_request` is the way to fire it pre-merge.
 on:
-  push:
-    branches: [ci/scheduled-agent-workflows]
+  pull_request:
+    types: [opened, synchronize]
   workflow_dispatch: {}
 
 permissions:
   contents: read
+  pull-requests: write
 
 jobs:
   smoke:
