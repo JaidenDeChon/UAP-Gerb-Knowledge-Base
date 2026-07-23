@@ -2,36 +2,68 @@ name: Ingest new videos
 
 on:
   schedule:
-    - cron: '0 * * * *'   # hourly
+    - cron: '0 5 * * *'   # daily, 05:00 UTC
   workflow_dispatch: {}
+
+# Both this and curate-articles.yml write to the vault and push to main. They
+# share one concurrency group so they can never run at the same time and race
+# each other's pushes. Queued rather than cancelled — a half-finished ingest is
+# worse than a late one.
+concurrency:
+  group: vault-write
+  cancel-in-progress: false
 
 jobs:
   ingest:
     runs-on: ubuntu-latest
+    timeout-minutes: 120
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Full history so the pre-push rebase below has a real base to work from.
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
 
       - name: Install video/transcript tooling
-        run: pip install --break-system-packages yt-dlp youtube-transcript-api
+        run: pip install yt-dlp youtube-transcript-api
 
       - uses: anthropics/claude-code-action@v1
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           prompt: "Use the video-ingestor agent to process any new video."
-          allowed_tools: "Bash,Read,Edit,Write"
+          # v1 has no `allowed_tools` input — tool config goes through claude_args.
+          # Bash is denied by default and the agent is built on it (yt-dlp, python3,
+          # grep, git). WebSearch/WebFetch back the agent's entity-verification step.
+          # --max-turns defaults to 10; a real ingest touches ~50+ files, so a low
+          # cap would strand the vault half-written.
+          claude_args: |
+            --allowedTools "Bash,Read,Write,Edit,Glob,Grep,Task,WebSearch,WebFetch,TodoWrite"
+            --max-turns 400
 
       - name: Commit and push any changes
         run: |
+          set -euo pipefail
           git config user.name "uap-gerb-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add "UAP Gerb Knowledge Base" .claude/agent-memory orphans.csv 2>/dev/null || true
-          git diff --cached --quiet || git commit -m "Auto-ingest: new video"
-          git push
+          git add -A "UAP Gerb Knowledge Base" .claude/agent-memory orphans.csv
+          if git diff --cached --quiet; then
+            echo "No vault changes — nothing to commit."
+            exit 0
+          fi
+          git commit -m "Auto-ingest: new video"
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
 
-# TODO: site rebuild/redeploy is not wired in yet.
-# The Nuxt app in app/ bakes the wiki content into the server bundle at build time,
-# not request time — so pushing new markdown alone does not update the live site.
-# Once hosting is confirmed, either verify that this push triggers the platform's own
-# build-on-push, or add an explicit rebuild step here (e.g. `bun run build` + restart).
+# Site rebuild: no step needed here. The Nuxt app in app/ bakes vault content into
+# the server bundle at build time, so new markdown only reaches the live site on a
+# rebuild — but the Netlify site is linked to this repo and builds on push to main.
+# That build is triggered by Netlify's own webhook, not GitHub Actions, so the
+# "pushes made with GITHUB_TOKEN don't trigger workflows" restriction does not apply.
+# If a content-only push ever stops rebuilding, check for a Netlify `ignore` command
+# scoped to app/ — that is the setting that would skip vault-only changes.
