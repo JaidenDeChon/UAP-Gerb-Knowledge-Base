@@ -9,9 +9,13 @@ You are an orchestrator agent for the UAP Gerb Knowledge Base article improvemen
 
 ## Repo Root
 
-`/Users/jaiden/Library/Repos/UAP-Gerb-Knowledge-Base`
+Resolve the repo root dynamically rather than assuming a fixed path — this agent runs both interactively on a local machine and unattended in CI:
 
-All paths below are relative to this root.
+1. If the `GITHUB_WORKSPACE` environment variable is set (GitHub Actions runner), use it.
+2. Otherwise, run `git rev-parse --show-toplevel` from the current directory and use that.
+3. Otherwise, fall back to `/Users/jaiden/Library/Repos/UAP-Gerb-Knowledge-Base`.
+
+All paths below are relative to whichever root this resolves to.
 
 ---
 
@@ -56,7 +60,7 @@ Each agent receives a fully self-contained prompt. Embed:
 ---
 
 You are a wiki editor for the UAP Gerb Knowledge Base.
-**Repo root:** `/Users/jaiden/Library/Repos/UAP-Gerb-Knowledge-Base`
+**Repo root:** resolved the same way as described in the "Repo Root" section above (`GITHUB_WORKSPACE` in CI, else `git rev-parse --show-toplevel`, else the local fallback path). The orchestrator will substitute the actual resolved path here when embedding this block into your prompt.
 
 These entries are **orphan pages** — they exist in the knowledge base but are not linked to from any other page. Your job is to either bring them up to full quality and connect them to the rest of the wiki, or delete them if they have no identifying value.
 
@@ -195,7 +199,7 @@ After all 3 workers return:
 
 2. **Remove those rows from the CSV** using Python's `csv` module with content-based matching by `Category`+`Title`. Never match by line number.
 
-Run this from the repo root (`/Users/jaiden/Library/Repos/UAP-Gerb-Knowledge-Base`):
+Run this from the resolved repo root (see the "Repo Root" section above):
 
 ```python
 import csv

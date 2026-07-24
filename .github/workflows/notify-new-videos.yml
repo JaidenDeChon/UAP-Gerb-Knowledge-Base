@@ -1,0 +1,111 @@
+####################################################################
+# Watches the channel and opens an issue when a video needs ingesting.
+#
+# It deliberately does NOT ingest. Caption fetching is IP-blocked from
+# GitHub-hosted runners (youtube-transcript-api raises RequestBlocked;
+# cookie auth is no longer supported by the library, and residential
+# proxies cost money). Channel *listing* via yt-dlp works fine from a
+# runner, so discovery is automated and the ingest itself stays local,
+# where it already works.
+#
+# At ~44 days between uploads, this fires a handful of times a year.
+####################################################################
+name: Notify on new videos
+
+on:
+  schedule:
+    - cron: '0 5 * * *'   # daily, 05:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install yt-dlp
+        run: pip install yt-dlp
+
+      # Channel order is newest-first; reversed so issues get opened in the
+      # order the backlog should be worked. upload_date is unreliable in
+      # --flat-playlist mode, so channel order is the source of truth for age.
+      - name: Find videos not yet in .processed_videos.json
+        id: find
+        run: |
+          set -euo pipefail
+          yt-dlp --flat-playlist --print "%(id)s|%(title)s" \
+            "https://www.youtube.com/@UAPGerb/videos" > /tmp/live.txt
+          echo "Listed $(wc -l < /tmp/live.txt) live videos."
+
+          python3 - <<'PY'
+          import json, os, pathlib
+
+          processed = set(json.loads(
+              pathlib.Path("UAP Gerb Knowledge Base/.processed_videos.json").read_text()
+          ))
+          rows = [l.rstrip("\n") for l in open("/tmp/live.txt") if l.strip()]
+          rows.reverse()  # oldest-first
+
+          pending = [r for r in rows if r.split("|", 1)[0] not in processed]
+          pathlib.Path("/tmp/pending.txt").write_text("\n".join(pending))
+
+          print(f"{len(processed)} processed, {len(rows)} live, {len(pending)} pending.")
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+              f.write(f"count={len(pending)}\n")
+          PY
+
+      - name: Open an issue for each pending video
+        if: steps.find.outputs.count != '0'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          while IFS='|' read -r id title; do
+            [ -n "$id" ] || continue
+
+            # --state all: if an issue for this video was opened and closed
+            # without ingesting, don't reopen it every morning.
+            existing=$(gh issue list --state all --search "$id" \
+              --json number --jq 'length')
+            if [ "$existing" != "0" ]; then
+              echo "Issue already exists for $id — skipping."
+              continue
+            fi
+
+            # Body built with printf rather than a heredoc: a heredoc
+            # terminator has to sit at column 0, which would close this YAML
+            # block scalar early.
+            {
+              printf 'A new video is live on the channel and is not yet in `.processed_videos.json`.\n\n'
+              printf -- '- **Title:** %s\n' "$title"
+              printf -- '- **Video ID:** `%s`\n' "$id"
+              printf -- '- **URL:** https://www.youtube.com/watch?v=%s\n\n' "$id"
+              printf '## Ingest it locally\n\n'
+              printf 'Caption fetching is IP-blocked from GitHub runners, so this cannot be\n'
+              printf 'automated here. From a local checkout:\n\n'
+              printf '```\nclaude "Use the video-ingestor agent to process any new video."\n```\n\n'
+              printf 'Close this issue once the video is ingested and pushed.\n'
+            } > /tmp/body.md
+
+            gh issue create \
+              --title "New video to ingest: $title" \
+              --body-file /tmp/body.md
+            echo "Opened issue for $id."
+          done < /tmp/pending.txt
+
+      - name: Report
+        run: |
+          if [ "${{ steps.find.outputs.count }}" = "0" ]; then
+            echo "Caught up — nothing to ingest."
+          else
+            echo "${{ steps.find.outputs.count }} video(s) pending; issues are open."
+          fi
