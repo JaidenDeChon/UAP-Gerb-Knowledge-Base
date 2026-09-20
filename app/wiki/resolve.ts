@@ -9,9 +9,15 @@ function rank(category: string): number {
 
 /**
  * Lowercased label -> node, plus diacritic-folded aliases under the same map.
- * When two notes share a label, the higher-priority folder wins — the same rule
- * `resolveWikiTarget` applies to a bare `[[wikilink]]`, so a plain name in YAML
- * and a wikilink to that name always land on the same page.
+ *
+ * When two notes share an *exact* label, the higher-priority folder wins —
+ * the same rule `resolveWikiTarget` applies to a bare `[[wikilink]]`, so a
+ * plain name in YAML and a wikilink to that name land on the same page. Ties
+ * on a *folded* key (the diacritic-insensitive fallback only) are NOT
+ * rank-broken the same way: the second pass below only fills keys the first
+ * pass left empty (`if (!index.has(key))`), so `offer()`'s rank comparison
+ * never actually runs for a folded key — whichever node reaches it first,
+ * in `nodes` array order, keeps the slot.
  */
 export function buildLabelIndex(nodes: GraphNode[]): Map<string, GraphNode> {
   const index = new Map<string, GraphNode>()
