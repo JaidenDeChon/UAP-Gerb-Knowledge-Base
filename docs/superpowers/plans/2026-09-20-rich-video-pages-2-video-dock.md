@@ -1,5 +1,12 @@
 # Rich Video Pages, Part 2: Video Dock + Cues — Implementation Plan
 
+> **HISTORICAL — do not code against this.** This plan records intent *before*
+> implementation. `scripts/derive_cues.py` and `WikiCue.vue` as shipped have
+> diverged from the code embedded below, and this plan's `clampRect` contained
+> a real containment bug that was fixed during execution. The live reference
+> for the dock and cues is **`docs/wiki-components.md`**; the source is the
+> authority above both.
+
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
 **Goal:** Add an app-global, draggable, resizable YouTube dock that keeps playing across navigation, plus timestamp cues that seek it from anywhere on a wiki page.

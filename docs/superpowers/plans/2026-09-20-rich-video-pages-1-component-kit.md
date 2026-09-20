@@ -1,5 +1,11 @@
 # Rich Video Pages, Part 1: Resolver + Component Kit — Implementation Plan
 
+> **HISTORICAL — do not code against this.** This plan records intent *before*
+> implementation. Seven defects in these two plans were found while executing
+> them, and several code blocks below have since diverged from what shipped.
+> The live reference for the component kit is **`docs/wiki-components.md`**;
+> the source is the authority above both.
+
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
 **Goal:** Build the MDC component kit (timeline, org chart, stat strip, roster, layout primitives) and the entity-name resolver that feeds it, then apply the kit to the pilot page.
