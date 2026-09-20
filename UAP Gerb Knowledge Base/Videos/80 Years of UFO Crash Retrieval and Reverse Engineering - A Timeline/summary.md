@@ -468,7 +468,7 @@ The video traces the alleged golden-era chain of custody from the National Secur
 root:
   name: CIA
   label: NSC covert-activities executive agent
-  note: "Named the executive for covert operations under NSC 5412 (1954); the video treats CIA as the through-line institution connecting the alleged Majestic 12 steering group to the modern DS&T gatekeeper role."
+  note: "Shown here as the video's through-line institution and the NSC 5412 Committee's named executor for covert operations -- this position reflects institutional proximity, not a claimed CIA chain of command over Majestic 12, which the video places under the 5412 Committee's Special Group rather than under CIA directly."
   children:
     - name: Majestic 12
       label: Alleged UFO steering group
