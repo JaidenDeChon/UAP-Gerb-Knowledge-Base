@@ -78,6 +78,12 @@
     "match": "And there is so much more to chew on in my MITER project, like MITER's USO monitoring in the Bahamas, which I reckon tra"
   },
   {
+    "t": 3630,
+    "label": "CIA Directorate of Science and Technology founded",
+    "confidence": "high",
+    "match": "Moving forward to 1963, we now celebrate the founding of the CIAs Directorate of Science and Technology or DS&T, which was formed to Centralize Research and Developments and Technical Intelligence Col"
+  },
+  {
     "t": 3672,
     "label": "NSC memorandum 303 renames the control group the '303 Committee'",
     "confidence": "high",
@@ -86,7 +92,7 @@
   {
     "t": 3741,
     "label": "Deep Submergence Systems Project and Project Sand Dollar",
-    "confidence": "low",
+    "confidence": "high",
     "match": "earlier version of my onion theory that states even highly cleared individuals within top secret unagnowledged classifie"
   },
   {
@@ -150,12 +156,6 @@
     "match": "a several hour sic project that I do highly recommend. But for a tangible evolution of SEIC possibly taking the SAI rese"
   },
   {
-    "t": 6040,
-    "label": "Air Force 'Go Public' campaign conceived and killed",
-    "confidence": "high",
-    "match": "fiscal year 2025 alone. Headquartered out of the infamous Wright Patterson Air Force Base. I'm sure you didn't think we'"
-  },
-  {
     "t": 6127,
     "label": "Air Force Materiel Command formed",
     "confidence": "high",
@@ -164,7 +164,7 @@
   {
     "t": 6323,
     "label": "Defense industrial consolidation begins (the 'Last Supper')",
-    "confidence": "low",
+    "confidence": "high",
     "match": "each defense sector would survive upcoming budget cuts. From 1993 to 1997, major defense contractors in the US shrank fr"
   },
   {
@@ -216,16 +216,16 @@
     "match": "operandi. January of 2009 saw the departure of the last great leader to rule the legacy programs with an iron fist. The "
   },
   {
+    "t": 7554,
+    "label": "Air Force 'Go Public' campaign conceived and killed",
+    "confidence": "high",
+    "match": "But a dire entry that I am quite familiar with but have not talked about too much publicly occurred in 2009 to 2012 within the air force... conceived and killed of an Air Force Go public campaign."
+  },
+  {
     "t": 7602,
     "label": "MITRE briefing embargo begins",
     "confidence": "high",
     "match": "airframes that actually came from nonhuman technical vehicles. I am unsure why this go public campaign was conceived of "
-  },
-  {
-    "t": 7668,
-    "label": "CIA Directorate of Science and Technology founded",
-    "confidence": "high",
-    "match": "FFRDC's. And now on to one I know everybody loves. In the same year of 2011, we have the Kona Blue perspective special a"
   },
   {
     "t": 7668,

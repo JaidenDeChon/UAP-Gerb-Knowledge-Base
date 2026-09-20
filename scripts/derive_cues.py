@@ -2,8 +2,14 @@
 """Derive timeline cue timestamps by matching chronology entries to captions.
 
 Timestamps are approximate by construction: captions are a rolling transcript,
-not a chapter list. Entries scoring below CONFIDENCE_FLOOR are marked
-"confidence": "low" so the UI can present them as approximate rather than exact.
+not a chapter list. This script can only score candidate windows by shared
+distinctive tokens — that score is useful for ranking candidates, but it is
+NOT evidence that the window is actually correct (a window can outscore the
+right one purely on an incidental phrase match). So every cue this script
+emits is written with "confidence": "low", regardless of score. "high" is
+reserved for cues a human has since read against the live caption track and
+confirmed word-for-word; that promotion happens by hand, after this script
+runs, never automatically here.
 """
 import argparse, json, re, sys
 from youtube_transcript_api import YouTubeTranscriptApi
@@ -14,7 +20,6 @@ STOP = {
     'her','its','their','they','he','she','we','you','i','but','or','not','are',
 }
 WINDOW_SECONDS = 45
-CONFIDENCE_FLOOR = 0.34
 
 def tokens(text):
     """Distinctive tokens: capitalised words and four-digit years, lowercased."""
@@ -71,15 +76,18 @@ def main():
         cues.append({
             't': int(best_t),
             'label': row['title'],
-            'confidence': 'high' if best_score >= CONFIDENCE_FLOOR else 'low',
+            # Always "low" here: a token-overlap score is a ranking signal,
+            # not proof the window is correct. "high" is applied only by a
+            # human who has read this cue's caption window and confirmed it.
+            # best_score (unused past this point) still gates nothing else.
+            'confidence': 'low',
             'match': best_text[:120],
         })
 
     cues.sort(key=lambda c: c['t'])
     with open(args.out, 'w', encoding='utf-8') as f:
         json.dump(cues, f, indent=2, ensure_ascii=False)
-    high = sum(1 for c in cues if c['confidence'] == 'high')
-    print(f'wrote {len(cues)} cues ({high} high confidence) to {args.out}', file=sys.stderr)
+    print(f'wrote {len(cues)} cues (all "low" confidence pending hand-verification) to {args.out}', file=sys.stderr)
 
 if __name__ == '__main__':
     main()
