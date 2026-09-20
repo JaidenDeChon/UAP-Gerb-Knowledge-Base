@@ -1,11 +1,14 @@
 <script setup lang="ts">
 import type { TocLink } from '@/utils/content'
-import { tocLinks } from '@/utils/content'
+import { hasTocRail, tocLinks } from '@/utils/content'
 
 const props = defineProps<{ toc?: { links?: TocLink[] } | null }>()
 
 /** h2 and h3 only — deeper levels make the rail noisier than the page. */
 const links = computed<TocLink[]>(() => tocLinks(props.toc))
+/** Single source of truth for "does a rail exist" — shared with the page,
+ *  which uses it to decide whether to reserve this component's layout column. */
+const hasRail = computed(() => hasTocRail(props.toc))
 
 const activeId = ref<string | null>(null)
 let observer: IntersectionObserver | null = null
@@ -46,7 +49,7 @@ onBeforeUnmount(() => observer?.disconnect())
 </script>
 
 <template>
-  <nav v-if="links.length >= 3" class="ufo-toc" aria-label="On this page">
+  <nav v-if="hasRail" class="ufo-toc" aria-label="On this page">
     <div class="mb-2.5 font-mono text-[10px] font-semibold uppercase tracking-[0.1em] text-muted-foreground">
       On this page
     </div>

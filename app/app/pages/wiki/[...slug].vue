@@ -4,7 +4,7 @@ import type { WikiPage } from '@/utils/content'
 import { ChevronRight } from '@lucide/vue'
 import { Badge } from '@/components/ui/badge'
 import { Separator } from '@/components/ui/separator'
-import { tocLinks } from '@/utils/content'
+import { hasTocRail } from '@/utils/content'
 
 definePageMeta({ key: route => route.path })
 
@@ -59,7 +59,7 @@ const article = computed<{ lead: string, doc: WikiPage | null }>(() => {
 // centre for no reason. Deciding "does a rail exist" up here, from the same
 // TOC data the rail itself flattens, lets the layout skip reserving that
 // column rather than reserving it and rendering it empty.
-const hasRail = computed(() => tocLinks(page.value?.body?.toc).length >= 3)
+const hasRail = computed(() => hasTocRail(page.value?.body?.toc))
 
 // Below xl the rail never shows (see the <aside>'s `hidden xl:block`), so the
 // single-column width only needs to react to `hasRail` — the breakpoint
