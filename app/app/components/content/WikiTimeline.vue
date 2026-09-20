@@ -148,15 +148,8 @@ const { refs } = useWikiResolve(() => props.events.flatMap(e => e.entities ?? []
 
 <template>
   <div v-if="props.events.length" class="my-8">
-    <!-- Filters. Sticky so the controls stay reachable while reading a long
-         chronology. The blur/translucency matches AppTopBar and the dialog
-         overlays rather than inventing a third treatment; z-20 keeps it under
-         both the top bar and the video dock (both z-40). The negative inline
-         margin lets the bar's background bleed to the article's edges while
-         its contents stay on the text measure. -->
-    <div
-      class="ufo-filter-bar sticky top-0 z-20 -mx-4 mb-6 flex flex-wrap items-center gap-1.5 border-b border-border/50 bg-background/80 px-4 py-3 backdrop-blur-[8px]"
-    >
+    <!-- Filters -->
+    <div class="mb-6 flex flex-wrap items-center gap-1.5">
       <button
         type="button"
         class="ufo-chip" :class="{ 'is-on': active === null }"
@@ -310,11 +303,29 @@ const { refs } = useWikiResolve(() => props.events.flatMap(e => e.entities ?? []
 
 /* -- era headings -- oversized numerals + a full-width rule, so scanning
    by decade needs no reading, just a glance down the left edge. */
+/* Each era is its own <section>, so pinning its heading gives the familiar
+   section-header behaviour for free: the year stays with you while you read
+   that decade, then the next decade's heading pushes it out of the way. No
+   JS, no scroll listener — sticky containment does all of it.
+
+   Translucency and blur match AppTopBar and the dialog overlays rather than
+   introducing a third treatment. The inline negative margin lets that
+   backdrop bleed to the article's edges while the numeral stays on the text
+   measure. z-10 sits above the entry cards and below the top bar and video
+   dock (both z-40). */
 .ufo-era-head {
+  position: sticky;
+  top: 0;
+  z-index: 10;
   display: flex;
   align-items: baseline;
   gap: 16px;
+  margin-inline: -16px;
   margin-bottom: 16px;
+  padding: 10px 16px;
+  background: hsl(var(--background) / 0.8);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
 }
 .ufo-era-num {
   flex: none;
