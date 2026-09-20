@@ -34,6 +34,27 @@ export function videoTitleFromStem(stem: string): string | null {
   return i >= 0 && parts[i + 1] ? parts[i + 1]! : null
 }
 
+/** One entry in `page.body.toc.links` (from `@nuxt/content`'s TOC generator). */
+export interface TocLink { id: string, text: string, depth: number, children?: TocLink[] }
+
+/**
+ * Flattens a note's TOC to h2/h3 entries only — deeper levels make a rail
+ * noisier than the page it's navigating. Shared by `WikiTocRail` (which
+ * renders the list) and the wiki page (which uses its length to decide
+ * whether the rail's layout column should exist at all — see
+ * `app/pages/wiki/[...slug].vue`).
+ */
+export function tocLinks(toc?: { links?: TocLink[] } | null): TocLink[] {
+  const out: TocLink[] = []
+  for (const link of toc?.links ?? []) {
+    out.push(link)
+    for (const child of link.children ?? []) {
+      if (child.depth <= 3) out.push(child)
+    }
+  }
+  return out
+}
+
 /* --------------------------------------------------- body AST helpers ----- */
 // @nuxt/content bodies are minimark trees: `{ type, value: MinimalNode[] }`,
 // where a node is a text string or `[tag, props, ...children]`.

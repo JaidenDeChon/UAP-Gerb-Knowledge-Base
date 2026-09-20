@@ -4,6 +4,7 @@ import type { WikiPage } from '@/utils/content'
 import { ChevronRight } from '@lucide/vue'
 import { Badge } from '@/components/ui/badge'
 import { Separator } from '@/components/ui/separator'
+import { tocLinks } from '@/utils/content'
 
 definePageMeta({ key: route => route.path })
 
@@ -51,53 +52,77 @@ const article = computed<{ lead: string, doc: WikiPage | null }>(() => {
   const { lead, value } = splitLead(page.value.body, page.value.description)
   return { lead, doc: { ...page.value, body: { ...page.value.body, value } } }
 })
+
+// WikiTocRail renders nothing under 3 headings, but its column still costs
+// 200px + the row gap if the <aside> around it is unconditional — on the
+// short notes that make up most of this vault, that pushes the article off
+// centre for no reason. Deciding "does a rail exist" up here, from the same
+// TOC data the rail itself flattens, lets the layout skip reserving that
+// column rather than reserving it and rendering it empty.
+const hasRail = computed(() => tocLinks(page.value?.body?.toc).length >= 3)
+
+// Below xl the rail never shows (see the <aside>'s `hidden xl:block`), so the
+// single-column width only needs to react to `hasRail` — the breakpoint
+// itself is handled by the aside being absent from the flow entirely.
+const wrapperClass = computed(() => hasRail.value
+  ? 'mx-auto flex max-w-[1180px] items-start gap-10 px-8'
+  : 'mx-auto max-w-[760px] px-8')
+const articleClass = computed(() => hasRail.value
+  ? 'min-w-0 max-w-[760px] flex-1 pb-32 pt-10'
+  : 'pb-32 pt-10')
 </script>
 
 <template>
-  <article v-if="page" class="mx-auto max-w-[760px] px-8 pb-32 pt-10">
-    <nav class="mb-5 flex items-center gap-2 font-sans text-[13px] text-muted-foreground">
-      <NuxtLink to="/map" class="transition-colors hover:text-foreground">
-        Site map
-      </NuxtLink>
-      <ChevronRight class="size-3.5 shrink-0 opacity-60" />
-      <span>{{ category }}</span>
-      <template v-if="isTranscript && videoTitle">
+  <div v-if="page" :class="wrapperClass">
+    <article :class="articleClass">
+      <nav class="mb-5 flex items-center gap-2 font-sans text-[13px] text-muted-foreground">
+        <NuxtLink to="/map" class="transition-colors hover:text-foreground">
+          Site map
+        </NuxtLink>
         <ChevronRight class="size-3.5 shrink-0 opacity-60" />
-        <span class="truncate">{{ videoTitle }}</span>
-      </template>
-    </nav>
+        <span>{{ category }}</span>
+        <template v-if="isTranscript && videoTitle">
+          <ChevronRight class="size-3.5 shrink-0 opacity-60" />
+          <span class="truncate">{{ videoTitle }}</span>
+        </template>
+      </nav>
 
-    <div class="mb-3.5 flex flex-wrap gap-2">
-      <Badge>{{ category }}</Badge>
-      <Badge v-for="tag in shownTags" :key="tag" variant="outline">
-        {{ tag }}
-      </Badge>
-      <Badge v-if="extraTags > 0" variant="outline">
-        +{{ extraTags }}
-      </Badge>
-    </div>
+      <div class="mb-3.5 flex flex-wrap gap-2">
+        <Badge>{{ category }}</Badge>
+        <Badge v-for="tag in shownTags" :key="tag" variant="outline">
+          {{ tag }}
+        </Badge>
+        <Badge v-if="extraTags > 0" variant="outline">
+          +{{ extraTags }}
+        </Badge>
+      </div>
 
-    <!-- Uppercase display type carries no ascender/descender variety to open the
-         line up, so it wants positive tracking, not the tight setting a mixed-case
-         title would take. -->
-    <h1 class="mb-4 font-display text-[clamp(32px,5vw,56px)] font-extrabold uppercase leading-none tracking-[0.02em] text-foreground">
-      {{ page.title }}
-    </h1>
+      <!-- Uppercase display type carries no ascender/descender variety to open the
+           line up, so it wants positive tracking, not the tight setting a mixed-case
+           title would take. -->
+      <h1 class="mb-4 font-display text-[clamp(32px,5vw,56px)] font-extrabold uppercase leading-none tracking-[0.02em] text-foreground">
+        {{ page.title }}
+      </h1>
 
-    <p v-if="article.lead" class="mb-7 font-sans text-[20px] leading-[30px] text-muted-foreground">
-      {{ article.lead }}
-    </p>
+      <p v-if="article.lead" class="mb-7 font-sans text-[20px] leading-[30px] text-muted-foreground">
+        {{ article.lead }}
+      </p>
 
-    <WikiFactTable :page="page" />
+      <WikiFactTable :page="page" />
 
-    <WikiLocalMap :path="route.path" />
+      <WikiLocalMap :path="route.path" />
 
-    <ContentRenderer v-if="article.doc" :value="article.doc" class="prose-ufo wiki-prose" />
+      <ContentRenderer v-if="article.doc" :value="article.doc" class="prose-ufo wiki-prose" />
 
-    <Separator class="my-8" />
+      <Separator class="my-8" />
 
-    <WikiLinkedEntries :path="route.path" />
-  </article>
+      <WikiLinkedEntries :path="route.path" />
+    </article>
+
+    <aside v-if="hasRail" class="hidden w-[200px] shrink-0 pt-10 xl:block">
+      <WikiTocRail :toc="page.body?.toc" />
+    </aside>
+  </div>
 </template>
 
 <style scoped>
