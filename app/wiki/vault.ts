@@ -32,7 +32,7 @@ export const WIKI_PREFIX = '/wiki'
  * When a bare `[[Name]]` matches files in several folders, the earlier folder wins.
  * Anything unlisted sorts last.
  */
-const FOLDER_PRIORITY = [
+export const FOLDER_PRIORITY = [
   'People',
   'Organizations',
   'Operations',
@@ -82,7 +82,7 @@ function folderRank(stem: string): number {
 }
 
 /** Lowercase and strip diacritics, so `Edgar Fouché` still finds `Edgar Fouche.md`. */
-function fold(name: string): string {
+export function fold(name: string): string {
   return name.normalize('NFD').replace(/\p{Diacritic}/gu, '').toLowerCase()
 }
 
