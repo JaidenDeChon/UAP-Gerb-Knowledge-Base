@@ -148,8 +148,15 @@ const { refs } = useWikiResolve(() => props.events.flatMap(e => e.entities ?? []
 
 <template>
   <div v-if="props.events.length" class="my-8">
-    <!-- Filters -->
-    <div class="mb-6 flex flex-wrap items-center gap-1.5">
+    <!-- Filters. Sticky so the controls stay reachable while reading a long
+         chronology. The blur/translucency matches AppTopBar and the dialog
+         overlays rather than inventing a third treatment; z-20 keeps it under
+         both the top bar and the video dock (both z-40). The negative inline
+         margin lets the bar's background bleed to the article's edges while
+         its contents stay on the text measure. -->
+    <div
+      class="ufo-filter-bar sticky top-0 z-20 -mx-4 mb-6 flex flex-wrap items-center gap-1.5 border-b border-border/50 bg-background/80 px-4 py-3 backdrop-blur-[8px]"
+    >
       <button
         type="button"
         class="ufo-chip" :class="{ 'is-on': active === null }"

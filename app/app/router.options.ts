@@ -15,7 +15,7 @@ import { onRouteArrived, scrollHashIntoView } from './composables/useScrollResto
  * so it has no hook for "leaving" a route.
  */
 export default <RouterConfig>{
-  scrollBehavior(to, _from, savedPosition) {
+  scrollBehavior(to, from, savedPosition) {
     if (to.hash) {
       // TOC rail links: jump the target heading into view rather than
       // restoring/resetting the container's own scroll.
@@ -26,7 +26,20 @@ export default <RouterConfig>{
 
     // savedPosition is set only when Vue Router determines this navigation
     // is a POP — that's the router's decision, not a guess made here.
-    onRouteArrived(Boolean(savedPosition))
+    if (savedPosition) {
+      onRouteArrived(true)
+      return false
+    }
+
+    // Same path, different query: the reader hasn't gone anywhere, they've
+    // changed a control that keeps its state in the URL (the timeline's
+    // category/major filters use `router.replace` for exactly that). Treating
+    // it as arrival would fire the PUSH branch below and throw them back to
+    // the top mid-read. Leave the container where it is — and don't touch
+    // `currentKey`, since `replace` reuses the same history entry.
+    if (to.path === from.path) return false
+
+    onRouteArrived(false)
     return false
   },
 }
