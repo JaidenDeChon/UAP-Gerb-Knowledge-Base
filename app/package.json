@@ -9,7 +9,8 @@
     "preview": "nuxt preview",
     "share-preview": "node scripts/render-share-preview.mjs",
     "postinstall": "nuxt prepare",
-    "test": "vitest run"
+    "test": "vitest run",
+    "typecheck": "vue-tsc --noEmit"
   },
   "dependencies": {
     "@lucide/vue": "^1.24.0",
