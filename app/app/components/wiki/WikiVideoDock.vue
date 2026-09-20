@@ -12,7 +12,14 @@ import { clampRect, persistDock } from '@/composables/useVideoDock'
 const dock = useVideoDock()
 
 const handle = ref<HTMLElement | null>(null)
-const mount = ref<HTMLElement | null>(null)
+// The scoped wrapper that owns the 16:9 box. `new YT.Player(el, ...)` REPLACES
+// `el` with YouTube's own <iframe> — the iframe inherits el's class but NOT
+// Vue's scoped data-v- attribute, so scoped CSS (including `:deep()`) can only
+// ever target it through an ancestor that survives the replacement. `stage`
+// is that surviving ancestor; the actual mount node passed to YT.Player is
+// created fresh imperatively on every call (see mountPlayer), never reused
+// via a template ref, since the previous one may already be gone.
+const stage = ref<HTMLElement | null>(null)
 
 const isMobile = ref(false)
 function syncViewport(): void {
@@ -48,6 +55,19 @@ function startResize(event: PointerEvent): void {
   const startX = event.clientX
   const startW = dock.rect.value.w
 
+  // Without pointer capture, releasing outside the viewport never delivers a
+  // `pointerup` to window, so `up()` never runs: `resizing` gets stuck true
+  // and this listener pair leaks (stacking another pair on the next resize).
+  // Capturing on the grip re-targets pointer events to it regardless of
+  // where the cursor ends up, guaranteeing pointerup still bubbles to window.
+  const grip = event.currentTarget as Element
+  try {
+    grip.setPointerCapture(event.pointerId)
+  }
+  catch {
+    // Capture is a robustness measure, not a hard requirement — proceed uncaptured.
+  }
+
   function move(e: PointerEvent): void {
     if (!resizing) return
     dock.rect.value = clampRect(
@@ -57,6 +77,12 @@ function startResize(event: PointerEvent): void {
   }
   function up(): void {
     resizing = false
+    try {
+      grip.releasePointerCapture(event.pointerId)
+    }
+    catch {
+      // Already released (e.g. the grip left the DOM mid-resize) — fine.
+    }
     window.removeEventListener('pointermove', move)
     window.removeEventListener('pointerup', up)
     persistDock(dock.rect.value, dock.minimised.value)
@@ -88,10 +114,18 @@ function loadApi(): Promise<void> {
 async function mountPlayer(id: string): Promise<void> {
   await loadApi()
   await nextTick()
-  if (!mount.value) return
+  if (!stage.value) return
   player?.destroy()
+  player = null
+  // Fresh mount node every time: `stage` is the scoped wrapper Vue owns and
+  // re-renders safely, but YT.Player replaces whatever element it's given
+  // with its own <iframe> — reusing a template ref to that element would
+  // hand YT.Player an already-detached node on a second open.
+  stage.value.replaceChildren()
+  const mountEl = document.createElement('div')
+  stage.value.appendChild(mountEl)
   const YT = (window as unknown as { YT: any }).YT
-  player = new YT.Player(mount.value, {
+  player = new YT.Player(mountEl, {
     videoId: id,
     playerVars: { rel: 0, modestbranding: 1, playsinline: 1 },
     events: {
@@ -183,7 +217,7 @@ const style = computed(() => isMobile.value
       </header>
 
       <div v-show="!dock.minimised.value" class="ufo-dock-body">
-        <div ref="mount" class="ufo-dock-mount" />
+        <div ref="stage" class="ufo-dock-stage" />
         <span
           v-if="!isMobile"
           class="ufo-dock-grip"
@@ -243,8 +277,18 @@ const style = computed(() => isMobile.value
 }
 
 .ufo-dock-body { position: relative; }
-.ufo-dock-mount { aspect-ratio: 16 / 9; width: 100%; }
-.ufo-dock-mount :deep(iframe) { display: block; width: 100%; height: 100%; border: 0; }
+/* This wrapper — not its child — is what YouTube's iframe never replaces, so
+   it's the only element that can reliably size it. See the `stage` ref
+   comment in <script>. */
+.ufo-dock-stage { position: relative; aspect-ratio: 16 / 9; width: 100%; }
+.ufo-dock-stage :deep(iframe) {
+  position: absolute;
+  inset: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
 
 .ufo-dock-grip {
   position: absolute;
