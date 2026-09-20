@@ -13,6 +13,11 @@ An alleged leaked classified document that surfaced online in 2021-2022 lists DH
 
 DHS's inclusion in this alleged UAP analysis effort, if authentic, would represent a significant expansion of the agency's portfolio beyond its traditional homeland security focus and suggests potential concern about UAP as a domestic security or border integrity issue.
 
+## Role in the Proposed Kona Blue Transfer
+
+UAP Gerb's *80 Years of UFO Crash Retrieval and Reverse Engineering* identifies DHS's Science and Technology Directorate as the facilitating body for [[Kona Blue]], a proposed prospective special access program (PSAP) intended to serve as the vessel through which [[Lockheed Martin]] — under [[Lockheed Martin Space Systems]] vice president [[James T. Ryder]] — would have divested recovered UAP materials to [[Bigelow Aerospace Advanced Space Studies]]. The video states that DHS personnel involved in the effort ran into resistance from legacy program gatekeepers while attempting to gain access on Kona Blue's behalf, and that the technology transfer agreement was ultimately thwarted by [[CIA Directorate of Science and Technology]] officials [[Glenn Gaffney]] and [[Mary K. Sturdivant|Mary Sturdivant]] before Kona Blue could be formally approved as a special access program.
+
 ## Sources
 
 - [[Video - Incredible UFO Footage - FLYBY]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

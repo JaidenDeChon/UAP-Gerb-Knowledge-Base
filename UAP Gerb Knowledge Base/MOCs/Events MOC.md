@@ -68,8 +68,6 @@ tags:
 - [[Norton Air Force Base Air Show]]
 - [[Object in the Woods Radio Documentary]]
 - [[Operation Laser Strike]]
-- [[Operation Upshot Knothole]]
-- [[Operation Upshot-Knothole]]
 - [[Persian Gulf USO Flap]]
 - [[Peru UFO Crash Incident]]
 - [[Phoenix Lights]]

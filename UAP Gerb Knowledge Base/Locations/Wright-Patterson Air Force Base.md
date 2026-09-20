@@ -7,6 +7,12 @@ tags:
 
 Wright-Patterson Air Force Base is a United States Air Force installation located near Dayton, Ohio. It serves as the headquarters of the Air Force Materiel Command (AFMC) and houses the Air Force Research Laboratory (AFRL). The base was formed in 1948 through the merger of Wright Field and Patterson Field, and has been historically associated with UAP research, crash retrieval operations, and alleged storage of recovered non-human materials.
 
+Wright-Patterson also serves as headquarters for the [[National Air and Space Intelligence Center (NASIC)]], the Air Force's foreign air, space, missile, and cyberspace threat intelligence production center, formally established in 2003 as successor to the Foreign Technology Division.
+
+## Air Force Materiel Command Headquarters
+
+Air Force Materiel Command was formed in July 1992 from the merger of Air Force Logistics Command (AFLC) and Air Force Systems Command (AFSC), and is headquartered at Wright-Patterson. UAP Gerb's "80 Years of UFO Crash Retrieval and Reverse Engineering" timeline video describes AFMC as the Air Force's largest major command by funding — commanding an $82.9 billion budget portfolio in fiscal year 2025 — and argues that every organizational precursor building the modern-day AFMC lineage (Air Materiel Command, Air Research and Development Command, and Air Force Systems Command) was heavily involved in alleged UFO-related activities, with AFMC's Air Force Research Laboratory (AFRL, headquartered at Wright-Patterson) and Air Force Life Cycle Management Center (AFLCMC, also at Wright-Patterson) identified as critical modern legacy program components alongside its Air Force Test Center (AFTC), headquartered at [[Edwards Air Force Base]]. The presenter identifies Edwards and Wright-Patterson as the Air Force's "two most critical legacy program locations."
+
 ## Historical UAP Connection
 
 Wright-Patterson has deep historical ties to official US government UFO investigation programs. The base was home to the Air Research and Development Command and Air Materiel Command during the early years of UFO investigation, and has been repeatedly named in testimony and documents as a key site for UAP legacy program operations.
@@ -60,3 +66,4 @@ Wright-Patterson continues to serve as a major center for Air Force research and
 
 - [[Video - MOON DUST - The Pentagon's Secret UFO Programs]]
 - [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

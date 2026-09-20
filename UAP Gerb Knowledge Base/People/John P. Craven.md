@@ -9,7 +9,7 @@ Dr. John P. Craven was an American engineer and oceanographer who served as the 
 
 ## Deep Submergence Systems Project
 
-Craven established the DSSP to develop technologies enabling the Navy to perform deep ocean engineering — search, rescue, salvage, and recovery — at substantially greater depths than previously possible. Products of the DSSP include Deep Submergence Rescue Vehicles (DSRVs) — specifically the Lockheed Martin Mystic and Avalon — designed to rescue stranded submarines. A companion vehicle, the never-built-on-an-acknowledged-basis Deep Submergence Search Vehicle (DSSV), was designed with substantially deeper operational depths and expanded salvage/recovery capabilities.
+Craven was tasked with spearheading the DSSP in 1964, under [[Lyndon B. Johnson]]'s administration (the same year the legacy program control body was renamed the "303 Committee"), to develop technologies enabling the Navy to perform deep ocean engineering — search, rescue, salvage, and recovery — at substantially greater depths than previously possible. UAP Gerb's broader legacy-program timeline places Craven's briefing on [[Project Sanddollar|Project Sand Dollar]] the following year, 1965. Products of the DSSP include Deep Submergence Rescue Vehicles (DSRVs) — specifically the Lockheed Martin Mystic and Avalon — designed to rescue stranded submarines. A companion vehicle, the never-built-on-an-acknowledged-basis Deep Submergence Search Vehicle (DSSV), was designed with substantially deeper operational depths and expanded salvage/recovery capabilities.
 
 Witnesses have described these or similar vessels being sent on clandestine missions beyond their acknowledged purposes. One case involves a 1991 incident off Aberdeen, Scotland, in which a crew member of a DSRV or DSSV claimed to have participated in the retrieval of an exotic triangular craft with glyphic writing from the ocean floor.
 
@@ -29,3 +29,4 @@ This description constitutes one of the earliest and most credible independent a
 
 - [[Video - The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1]]
 - [[Video - US Navy UFO Crash Retrieval & Reverse Engineering Programs]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

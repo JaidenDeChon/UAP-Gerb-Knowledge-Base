@@ -56,9 +56,9 @@ The conversation continued across three additional phone calls over the next two
 
 Walker's tone suggested he was under a lifetime security oath but frustrated by it, and he indicated that whatever happened in those years was real but beyond his ability to discuss.
 
-## Interviews with Dr. Henry Victorian (1990)
+## Interviews with Henry Azadehdel (1990)
 
-In 1990, Walker participated in a series of three recorded phone calls with researcher Dr. Henry Victorian (pseudonym for Armen Victorian). Key admissions and statements from these sessions include:
+In 1990, Walker participated in a series of three recorded phone calls with researcher Dr. Armen (Henry) Azadehdel, who also published under the pen name "Armen Victorian." Key admissions and statements from these sessions include:
 
 - **First interview**: Discussion of the 1978 Bolivia UFO crash and the possibility of insect-like occupants being recovered — consistent with Sarbacher's description.
 - **Second interview**: Walker confirmed MJ-12 exists but stated that the documents are likely forgeries. He made the cryptic statement: **"A couple of people are capable of handling this issue. Unless your mind and ability is like Einstein's or likewise, I do not think you can achieve anything."** On the question of ESP and psychic perception: "How good is your Sixth Sense? How much do you know about ESP? Unless you know about it and how to use it, you would not be taken in. Only a few know about it." This statement is often cited as suggesting that UAP knowledge transmission or contact involved non-standard cognitive dimensions.
@@ -103,3 +103,4 @@ His cryptic comments to [[William Steinman]] represent one of the clearest confi
 - [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
 - [[Video - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group]]
 - [[Video - UFO Legacy Programs - Northrop Grumman]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

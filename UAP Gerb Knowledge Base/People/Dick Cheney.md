@@ -15,8 +15,9 @@ Cheney's combination of roles across multiple administrations — as Secretary o
 
 ## Post-Cheney Leadership Vacuum
 
-Following Cheney's departure from government in January 2009, UAP Gerb identifies [[James Clapper]] — as Director of National Intelligence from 2010 to 2017 — as the "closest thing to a Cheney-esque centralized oversight figure," but notes Clapper operated with significantly diminished authority compared to Cheney. After Clapper's 2017 departure, no comparable figure is identified as holding centralized authority. As of approximately 2026, UAP Gerb estimates that slightly over two dozen individuals alive at any given time have any idea of the total breadth of siloed UFO programs, with no single individual holding effective centralized leadership over the complete portfolio.
+Following Cheney's departure from government in January 2009 — a moment UAP Gerb frames as "the departure of the last great leader to rule the legacy programs with an iron fist" — UAP Gerb identifies [[James Clapper]] — as Director of National Intelligence from 2010 to 2017 — as the "closest thing to a Cheney-esque centralized oversight figure," but notes Clapper operated in a "severely diminished capacity" compared to Cheney, over only the remnants of the National Security Council's UFO legacy program portfolio. UAP Gerb characterizes Clapper's tenure as being run alongside "his goons": Principal Deputy Director of National Intelligence [[Stephanie O'Sullivan]], Deputy Director of National Intelligence for Intelligence Integration Michael Dempsey, and DNRO [[Betty Sapp]]. After Clapper's 2017 departure, no comparable figure is identified as holding centralized authority. As of approximately 2026, UAP Gerb estimates that slightly over two dozen individuals alive at any given time have any idea of the total breadth of siloed UFO programs, with no single individual holding effective centralized leadership over the complete portfolio.
 
 ## Sources
 
 - [[Video - The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

@@ -22,7 +22,6 @@ tags:
 - [[Operation Desert Storm]]
 - [[Operation Laser Strike]]
 - [[Project Moondust]]
-- [[Operation Upshot Knothole]]
 - [[Operation Upshot-Knothole]]
 - [[Project Blue Book]]
 - [[Project Corona]]

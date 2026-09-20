@@ -17,6 +17,8 @@ The incidents prompted the CIA to convene the [[Robertson Panel]] in January 195
 
 Documents circulating since the 1980s, known as the [[Majestic-12]] documents or MJ-12 papers, purport to show that Truman authorized the formation of a secret panel called "Majestic-12" to manage information about recovered extraterrestrial craft and biological material following the 1947 Roswell incident. These documents remain contested: some researchers treat them as authentic or partially authentic; others argue they are fabrications. The alleged Truman authorization memorandum is a central exhibit in this debate.
 
+UAP Gerb's broader legacy-program timeline ties the alleged Majestic 12 body specifically to Truman's June 1948 National Security Council Directive 10/2 ("Office of Special Projects"), which established CIA authority to conduct covert operations through the Office of Policy Coordination (renamed the CIA's Office of Special Projects that September). The video frames Majestic 12 as having been established under NSC 10/2's covert-activities oversight structure, and credits Truman with having "laid the groundwork" for the UFO control group apparatus, even as it credits [[Dwight D. Eisenhower]] with completing the bulk of the group's formal organization.
+
 ## National Security Act of 1947 and UFO Legacy Program Foundations
 
 UAP Gerb's investigation into the Manhattan Project 2.0 identifies Truman as one of the two presidents most responsible for establishing the foundational legal and administrative framework of the UFO legacy program. The National Security Act of 1947, signed by Truman, created the National Security Council, the Central Intelligence Agency, the independent US Air Force, and the Research and Development Board — all identified as foundational institutions within the UFO legacy program structure.
@@ -29,3 +31,4 @@ Truman's relationship to the Manhattan Project was unusual: as a senator, he had
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
 - [[Video - The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

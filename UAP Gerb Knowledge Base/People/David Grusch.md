@@ -21,6 +21,14 @@ When Coulthart asked directly, "Let me be very clear about this: you're saying t
 
 This testimony marked the first time a credentialed U.S. intelligence whistleblower publicly confirmed the Magenta case and explicitly connected the [[Vatican]] and [[Pope Pius XII]] to the craft's transfer from Mussolini's Italy to American possession via [[Office of Strategic Services (OSS)]] agents.
 
+## 1994 Records Destruction ("Shred Party")
+
+On the Judicial Watch podcast, Grusch stated that the CIA and other agencies conducted a major burn-back and "shred party" in 1994 to erase as many physical legacy-program records as possible. UAP Gerb's broader legacy-program timeline places this alongside an alleged 1994 shift of program control out of National Security Council oversight entirely, into an informal 27-person quasi-industry-and-government control group, coinciding with Secretary of Defense [[Bill Perry]]'s tightening of Special Access Program controls — a shift the video attributes to concern over President Clinton's disclosure instincts. UAP Gerb frames this destruction effort as a direct parallel to the Air Force's earlier, similarly unauthorized destruction of Roswell Army Airfield's July 1947 outgoing message traffic, later surfaced by the 1995 [[Steven Schiff]] GAO probe.
+
+## 2023 Congressional Testimony: Recovered Craft and Vehicle Morphologies
+
+In his July 2023 congressional testimony and subsequent interviews (including a Dr. Phil appearance), Grusch stated the crash retrieval program has likely collected between 25 and 100 recovered UFOs. He described the recovered vehicles as spanning multiple distinct morphologies — saucers, a "sunfish" or boot-heel-shaped craft, boomerangs, crescent-moon-shaped craft, tic tacs, and eggs — some displaying more advanced technology than others, with "similarities in operation and technology" across the set, in Grusch's own words. He has tied this inventory to a decades-long "subrosa cold war" with peer adversaries conducted for asymmetric warfare advantage.
+
 ## Whistleblower Network
 
 Grusch has been in contact with other UAP whistleblowers including [[Michael Herrera]], who confirmed speaking with Grusch as part of broader disclosure coordination efforts. This suggests Grusch maintains an active role in connecting whistleblowers and facilitating information sharing within the UAP disclosure community even after his public congressional testimony.
@@ -53,3 +61,4 @@ Grusch worked with Representative [[Eric Burlison]] to send a detailed legal int
 - [[Video - Michael Herrera - Insights into UAP Encounter and Black Program Insiders]]
 - [[Video - Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2]]
 - [[Video - The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

@@ -3,13 +3,6 @@ name: "Lockheed Martin"
 org_type: "private/defense contractor"
 tags:
   - organization
----
-
----
-name: "Lockheed Martin"
-org_type: "private/defense contractor"
-tags:
-  - organization
   - defense-contractor
 ---
 
@@ -40,6 +33,8 @@ Lockheed Martin operates in four primary divisions:
 - 1993: **Acquired management contracts for [[Sandia National Laboratories]]** — a DOE FFRDC repeatedly implicated in UAP material exploitation
 
 The 1995 merger consolidated two corporations with decades of alleged separate UFO program involvement under single management.
+
+UAP Gerb's *80 Years of UFO Crash Retrieval and Reverse Engineering* situates the Lockheed–Martin Marietta merger within what it terms the defense industrial base "Last Supper": in July 1993, Secretary of Defense Les Aspin and Deputy Secretary of Defense William Perry told U.S. prime defense contractors that only a handful in each defense sector would survive the post–Cold War drawdown in defense spending. From 1993 to 1997, major U.S. defense contractors shrank from 51 to five — the "big five" of Lockheed Martin, [[Boeing]], [[Northrop Grumman]], Raytheon, and General Dynamics — through a wave of mergers and acquisitions that the video argues also served to consolidate and further compartmentalize whichever alleged UFO legacy program activity each predecessor company held.
 
 ## Skunk Works and [[Air Force Plant 42]]
 
@@ -122,3 +117,4 @@ In [[Jacques Vallee]]'s *Hidden Science 5*, Vallee alongside [[Kit Green]], [[Ha
 - [[Video - Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
 - [[Video - FASTWALKERS – UFOs Outside Earth]]
 - [[Video - UFOs in the Private Sector - Lockheed Martin]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

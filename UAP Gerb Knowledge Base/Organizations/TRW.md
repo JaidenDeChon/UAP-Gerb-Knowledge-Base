@@ -23,9 +23,10 @@ In 2003, Northrop Grumman settled a US government lawsuit for $111 million stemm
 
 [[Dr. Eric Davis]] stated in interview that only one FFRDC — which he identified only as a TRW spin-off from 1960 (i.e., [[The Aerospace Corporation]]) — had been the "principal investigator" in UAP programs for roughly 29 years before transitioning. This statement, combined with Walker's chairmanship and the BDM acquisition, positions TRW as the central corporate node in UAP legacy operations from the late 1950s through 2002.
 
-Following the 2002 acquisition by [[Northrop Grumman]], all TRW assets, programs, and personnel networks are alleged to have transferred to Northrop Grumman's control.
+Following the 2002 acquisition by [[Northrop Grumman]], all TRW assets, programs, and personnel networks are alleged to have transferred to Northrop Grumman's control. UAP Gerb's *80 Years of UFO Crash Retrieval and Reverse Engineering* specifically identifies [[Edward Bushnell Doll|Ed Doll]]'s TRW Systems Group as having contained an alleged "special projects division," which the video argues was absorbed into Northrop Grumman's Mission Systems sector alongside the rest of TRW Systems Group following the 2002 acquisition.
 
 ## Sources
 - [[Video - UFO Legacy Programs - Northrop Grumman]]
 
 - [[Video - Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

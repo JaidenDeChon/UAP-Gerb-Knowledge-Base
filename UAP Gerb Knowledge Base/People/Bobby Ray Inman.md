@@ -15,7 +15,7 @@ Inman stated he was exposed to the Glomar Explorer's activities in Hawaii during
 
 ## 1989 Disclosures to Bob Echler
 
-In 1989, Inman received a telephone inquiry from NASA mission specialist [[Bob Echler]], facilitated by British Admiral Lord Hill Norton, regarding the possibility of making recovered UFO vehicles available for civilian scientific research. Inman confirmed the existence of such vehicles and stated that ten years earlier the answer to their availability for outside research would have been "no," but that the situation might be evolving. He directed Echler to CIA DS&T Deputy Director [[Everett Heinman]] as "the best person to ask" — a specific institutional referral UAP researchers treat as evidence of Inman's knowledge of how recovered craft programs were managed within the CIA.
+In October 1989, Inman received a telephone inquiry from NASA mission specialist [[Bob Echler]], facilitated by British Admiral Lord Hill Norton, regarding the possibility of making recovered UFO vehicles available for civilian scientific research. Inman confirmed the existence of such vehicles and stated that ten years earlier the answer to their availability for outside research would have been "no," but that the situation might be evolving. He directed Echler to CIA DS&T Deputy Director [[Everett Heinman]] as "the best person to ask" — a specific institutional referral UAP researchers treat as evidence of Inman's knowledge of how recovered craft programs were managed within the CIA.
 
 A follow-up call from Inman's office warned Echler that he would be "breaching confidence and/or violation of the secrecy laws" by discussing Inman's involvement. A portion of the original 1989 phone call between Inman and Echler is available as recorded audio.
 
@@ -30,3 +30,4 @@ In 2022, Inman appeared on the *Project Unity* program and publicly claimed he h
 - [[US Navy UFO Crash Retrieval & Reverse Engineering Programs]]
 - [[National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers]]
 - [[1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

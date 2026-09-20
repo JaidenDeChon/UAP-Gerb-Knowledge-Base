@@ -11,9 +11,9 @@ Wang's career has been deliberately obscured in public records, with minimal bio
 
 ## Professional Background
 
-After earning his degrees and teaching in Cincinnati, Ohio, Wang began work on secret government projects in 1949 at Wright Development Center. According to his April 1961 obituary in *Mechanical Engineering* magazine, Wang worked as a consultant to Wright Air Development Center on aerodynamic metallurgical design for the structure division and served on staff at the University of Cincinnati.
+After earning his degrees and teaching in Cincinnati, Ohio, Wang began work on secret government projects in 1949 at Wright Development Center. According to his April 1961 obituary in *Mechanical Engineering* magazine, Wang worked as a consultant to Wright Air Development Center on aerodynamic metallurgical design for the structure division and served on staff at the University of Cincinnati. UAP Gerb's research into Wang's role during the [[1953 Kingman, Arizona Crash Retrieval]] identifies his 1949–1956 title more specifically as chief of the special studies office at [[Wright-Patterson Air Force Base]], operating under Air Research and Development Command (ARDC) — the precursor to Air Force Systems Command — within the research directorate of the Air Force Special Weapons Center (AFSWC), a former Air Force Major Command specializing in atomic, nuclear, and other unconventional weaponry.
 
-In 1956, Wang's department was moved to [[Sandia National Laboratories]] at [[Kirtland Air Force Base]], where he remained until his death in 1961.
+In 1956, Wang's department was moved to [[Sandia National Laboratories|Sandia Laboratory Complex]] at [[Kirtland Air Force Base]], where he remained until his death. This page follows Wang's April 1961 *Mechanical Engineering* obituary in placing his death in 1961; UAP Gerb's 2026 timeline video states instead that he died in 1960 at age 54. Both accounts agree he died young, at age 54, shortly after relocating to Kirtland.
 
 ## Connection to Aztec and Kingman
 
@@ -31,3 +31,4 @@ An individual known only as "MW" told Steinman that upon Wang's death, all of hi
 
 - [[Video - The 1948 Aztec, New Mexico UFO Crash Retrieval]]
 - [[Video - The 1953 Kingman, Arizona UFO Crash]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

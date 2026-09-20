@@ -9,6 +9,10 @@ tags:
 
 ## Interest in UFOs
 
+### The 303 Committee (June 1964)
+
+UAP Gerb's broader legacy-program timeline identifies June 1964's National Security Council memorandum 303 — signed under Johnson — as the point at which the covert-activities "Special Group" established under [[Dwight D. Eisenhower]]'s NSC 5412 Committee was renamed the "303 Committee." The video treats this as primarily a bookkeeping change rather than a structural one, but uses it to track the alleged Majestic 12 control body's continuity from the Eisenhower administration through Johnson and into the following Nixon administration (see [[Richard Nixon]]).
+
 ### As U.S. Senator
 
 During his time in the U.S. Senate, Johnson publicly called for the establishment of a military subcommittee to report UFO sightings directly to him. He corresponded with ufologist [[Major Donald Keyhoe]], thanking Keyhoe for providing documented evidence on UFO cases. This early interest suggests Johnson viewed the subject as a matter of national security rather than fringe speculation.
@@ -52,5 +56,6 @@ Johnson's documented interest in UFOs as a Senator, his meetings the day after K
 ## Sources
 
 - [[Video - The 1965 Kecksburg, Pennsylvania UFO Crash]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
 - Grant Cameron, Kecksburg case files and LBJ meeting schedules
 - Lou Elizondo, *Imminent* (2024)

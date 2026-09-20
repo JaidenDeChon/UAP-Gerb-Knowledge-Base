@@ -19,7 +19,7 @@ Several specific connections between AFSWP personnel and alleged UFO crash retri
 
 **1948 Aztec:** J. Andrew Kisner, a former New Mexico State Representative who conducted extensive interviews with legacy program firsthand sources in the early 1990s, stated that early UFO legacy program operations featured military support from Air Material Command and the AFSWP at Sandia Base.
 
-**1953 Kingman:** [[Edward Bushnell Doll]] — a TRW senior executive vice president and Manhattan Project veteran (specifically Project Alberta) — was sent to Operation Upshot Knothole nuclear tests in 1953 as chairman of the Stanford Research Institute under a joint DoD and Atomic Energy Commission task force overseen by the AFSWP. [[Arthur Stansel Jr.]] accused Doll of coordinating personnel and logistics surrounding the 1953 Kingman, Arizona UFO crash retrieval.
+**1953 Kingman:** [[Edward Bushnell Doll]] — a TRW senior executive vice president and Manhattan Project veteran (specifically Project Alberta) — was sent to [[Operation Upshot-Knothole]] nuclear tests in 1953 as chairman of the Stanford Research Institute under a joint DoD and Atomic Energy Commission task force overseen by the AFSWP. UAP Gerb's *80 Years of UFO Crash Retrieval and Reverse Engineering* specifies that Doll served as technical director for two major special weapons programs for the AFSWP during Operation Upshot-Knothole. [[Arthur Stansel Jr.]] accused Doll of coordinating personnel and logistics surrounding the 1953 Kingman, Arizona UFO crash retrieval, writing in his diary that Doll was "directly in charge of the UFO crash retrieval."
 
 **Contentious IPU Documents:** AFSWP personnel and organizational structure appear in multiple alleged IPU documents that claim to document early UFO crash retrieval coordination.
 
@@ -31,3 +31,4 @@ The AFSWP evolved through several successor organizations and is now represented
 
 - [[Video - The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1]]
 - [[Video - Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

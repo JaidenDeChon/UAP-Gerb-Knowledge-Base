@@ -30,6 +30,10 @@ The presenter argues that the Hidden Wing operates through a specific chain of i
 
 [[Russell E. Wiler]], who directed the Air Force Sensitive Activities Office (SAF/AA) from 2009 to 2024, is alleged to have served as gatekeeper for the crash retrieval portfolio — the individual managing access to the program's management structure, security control system, and ownership records. [[Randall G. Walden]] as RCO Director is identified as a key acquisition-side figure. Eight of fourteen former SECAF ATNL (Assistant to the Secretary of the Air Force for Acquisition, Technology, and Logistics) officials examined had corporate histories at contractors — including [[Lockheed Martin]], [[Northrop Grumman]], and TRW — alleged to be involved in UFO legacy program work.
 
+## The 2009–2012 "Go Public" Campaign
+
+UAP Gerb's "80 Years of UFO Crash Retrieval and Reverse Engineering" timeline video alleges that between 2009 and 2012, an Air Force "Go Public" disclosure campaign was conceived and ultimately killed within the Hidden Wing, based at the [[Air Force Test Center]] out of [[Edwards 412th Test Wing]], under the direction of a two-star general. The campaign would reportedly have publicly disclosed some of the exotic derivative and reverse-engineered airframes matured on the Western Ranges, while omitting any direct acknowledgment that the underlying technology or influence behind them originated from non-human technical vehicles. The presenter states he is uncertain why the campaign was conceived in the first place or why it was killed in 2012, and notes that 2011 — within this same window — also saw an additional clampdown in legacy program information control, including a briefing embargo within [[MITRE Corporation|MITRE]] that left newcomers to its legacy program work unaware of the program's history or non-human origin.
+
 ## Legal Vehicle
 
 The presenter argues that [[Waived Unacknowledged Special Access Programs (USAPs)]] are the most likely legal vehicle housing Hidden Wing operations. Under 10 U.S. Code Section 119, the "Gang of Eight" congressional leaders are required to be notified of such programs at minimum. The presenter contends that UFO legacy programs operate not outside all oversight, but under stripped and compartmentalized oversight channels that minimize congressional visibility while maintaining a thin legal basis for continued concealment.
@@ -37,3 +41,4 @@ The presenter argues that [[Waived Unacknowledged Special Access Programs (USAPs
 ## Sources
 
 - [[Video - The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

@@ -72,6 +72,14 @@ Kona Blue represents the most well-documented instance of an attempted formal UA
 
 The program's blocking by [[Glenn Gaffney]] and [[Robert Cardillo]] is cited as evidence that elements of the IC actively work to prevent oversight and maintain the legacy program status quo.
 
+## Theorized Link to the 1953 Kingman Crash
+
+UAP Gerb's *80 Years of UFO Crash Retrieval and Reverse Engineering* advances a specific theory connecting the Kona Blue materials to the [[1953 Kingman, Arizona Crash Retrieval|1953 Kingman, Arizona crash]]. The video states it has "heard credible rumors and indirect confirmation from Hal Puthoff" that the Kona Blue technology transfer agreement materials consisted of some of the Kingman wreckage, raising the possibility that there may have been as many as three separate Kingman crashes. When the presenter raised this theory directly with [[Hal Puthoff]], Puthoff reportedly gave "a bit of a cheeky look and refused to comment further" — a non-denial the video treats as increasing its confidence that the Kona Blue materials originated from the 1953 Kingman retrieval, potentially tracing custody of that wreckage from 1953 through to Lockheed Martin's 2010s divestment attempt.
+
+## Eric Davis's Account of the Materials-Only Program
+
+The same video relays [[Eric Davis]]'s detailed characterization, given in a podcast appearance with Thirdeye Drops and Michael Phillip, of the specific compartmented program under [[James T. Ryder]] connected to Kona Blue. According to Davis, this locked program dealt strictly with materials and metallurgy — not, according to Davis, with power/propulsion systems, airframes, biologics, or anything beyond material sampling and analysis. Davis stated he has long wondered why no successful derivation or [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicle]] has ever been successfully leveraged from recovered UAP materials, offering disinformation, partial information, and institutional hubris as possible explanations without settling on one. The video separately notes that primary Kingman witness [[Arthur Stansel Jr.]] estimated the crashed craft impacted the ground at over 1,000 mph while experiencing little to no damage or deformation — consistent, in the video's assessment, with an exceedingly difficult material set for Lockheed engineers to analyze.
+
 ## Possible Alternate Disposition: Veritas Capital Transaction
 
 UAP researcher [[Rob Jones]], in his paper "Sub Rosa," presents a theory that after the Kona Blue blocking, Lockheed may have successfully divested the materials through a complex corporate transaction. In 2010, [[Veritas Capital]] acquired Lockheed Martin's Enterprise Integration Group (EIG) — a unit deeply involved in highly classified systems engineering for US intelligence agencies — for $815 million cash. Jones theorizes this transaction may have included the transfer of UAP materials to what eventually became [[Paraton]] (after multiple mergers and rebrandings under Veritas Capital). Robert Cardillo's 2019 joining of Paraton's advisory board potentially supports this theory.
@@ -81,3 +89,4 @@ UAP researcher [[Rob Jones]], in his paper "Sub Rosa," presents a theory that af
 - [[Video - Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
 - November 2024 House Oversight UAP Hearing Record (Representative Tim Burchett document submission)
 - AARO Declassified Kona Blue Slide Deck
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

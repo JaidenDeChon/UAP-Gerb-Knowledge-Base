@@ -8,6 +8,10 @@ tags:
 
 William J. "Bill" Perry served as U.S. Secretary of Defense from 1994 to 1997 under President Bill Clinton. According to the [[Wilson-Davis Memo]], Perry personally organized the special project records group containing the crash retrieval program in 1994 and advised Vice Admiral [[Thomas Wilson]] to examine those records during Wilson's 1997 investigation.
 
+## The 1993 "Last Supper"
+
+In July 1993, while serving as Deputy Secretary of Defense under Secretary of Defense Les Aspin, Perry told the leaders of the United States' prime defense contractors that, amid post-Cold War defense spending cuts, only a handful of contractors in each defense sector would survive the coming consolidation. This meeting became known within the defense industry as the "Last Supper." Between 1993 and 1997, the number of major US defense contractors shrank from 51 to five — the "Big Five" of [[Lockheed Martin]], Raytheon, [[Northrop Grumman]], General Dynamics, and Boeing — through a wave of mergers and acquisitions that included Lockheed's 1995 merger with Martin Marietta, Boeing's 1996–1997 acquisitions of Rockwell and McDonnell Douglas, and Northrop Grumman's acquisition of Ryan Aeronautical. UAP Gerb identifies several contractors alleged to have had involvement in UFO legacy programs as having been absorbed into the Big Five during this consolidation.
+
 ## Role in the 1997 Wilson Investigation
 
 When Vice Admiral Thomas Wilson—then Deputy Director of the Defense Intelligence Agency—launched his investigation into UFO crash retrieval programs in April 1997, he was advised by both General [[Marshal Ward]] and Secretary of Defense Bill Perry to go through records group files in [[OUSD(AT) (Office of the Under Secretary of Defense for Acquisition and Technology)|OUSD(AT)]]—the Office of the Under Secretary of Defense for Acquisition and Technology.
@@ -40,3 +44,4 @@ The dual role Perry appears to play — simultaneously organizing the 1994 overs
 
 - [[Video - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs]]
 - [[Video - The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

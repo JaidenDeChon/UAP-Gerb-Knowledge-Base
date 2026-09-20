@@ -5,7 +5,7 @@ tags:
   - event
 ---
 
-The 1953 Kingman, Arizona Crash Retrieval refers to the alleged recovery of an unidentified oval craft near [[Kingman, Arizona]] on May 21, 1953. It is among the earliest alleged crash retrievals in UAP research to be backed by a notarized sworn affidavit, and its primary witness — [[Arthur Stansel Jr.]] — has verifiable professional credentials distinguishing him from more contested figures in the disclosure literature.
+The 1953 Kingman, Arizona Crash Retrieval refers to the alleged recovery of an unidentified oval craft near [[Kingman, Arizona]] on May 21, 1953. It is among the earliest alleged crash retrievals in UAP research to be backed by a notarized sworn affidavit, and its primary witness — [[Arthur Stansel Jr.]] — has verifiable professional credentials distinguishing him from more contested figures in the disclosure literature. UAP Gerb's "80 Years of UFO Crash Retrieval and Reverse Engineering" timeline video argues the Kingman case rivals both [[Roswell Crash|Roswell]] and the [[1933 Magenta UFO CrashRetrieval|1933 Magenta, Italy crash]] as the most impactful UFO crash retrieval in history, reasoning that — much like a dye tracer injected into a vein — following Kingman's personnel and institutional threads allows researchers to trace individuals and offices central to the alleged golden-era legacy program apparatus, and ultimately to trace custody of the craft wreckage forward into the 21st century.
 
 ## The Incident
 
@@ -25,6 +25,8 @@ In 1997, researcher [[Leonard Stringfield]] was approached at Lunken Airport in 
 
 [[Edward Bushnell Doll]], the AEC official who coordinated the Stansel assignment, subsequently joined [[TRW]] Systems Group (approximately 1955–1977). The Kingman event is cited in UAP legacy program research as a founding data point in the chain of non-human craft exploitation passing from AEC-connected personnel through TRW and ultimately to [[Northrop Grumman]] following TRW's 2002 acquisition. A blocked material transfer from [[Lockheed Martin]] to the [[AAWSAP]] program has also been connected by researchers to Kingman-era recovered materials.
 
+The 80 Years timeline video connects this custody chain specifically to the [[Kona Blue]] prospective special access program: citing "credible rumors and indirect confirmation" from [[Hal Puthoff]], the presenter alleges that the Kona Blue material transfer or technology transfer agreement from Lockheed Martin consisted at least partly of Kingman wreckage — with the further speculation that there may actually have been three separate Kingman-area crashes. If accurate, this would place traceable custody of Kingman-derived material as late as the 2010s.
+
 Stansel's supervisor at [[Wright-Patterson Air Force Base]], Dr. [[Eric Henry Wang]], is independently alleged to have been a key UAP reverse-engineering director dating from the [[1948 Aztec UFO Crash Retrieval]] forward.
 
 Three months after the Kingman crash, the USAF issued Regulation 200-2, diverting UFO reports to Air Force Intelligence rather than [[Project Blue Book]].
@@ -33,3 +35,4 @@ Three months after the Kingman crash, the USAF issued Regulation 200-2, divertin
 
 - [[Video - The 1953 Kingman, Arizona UFO Crash]]
 - [[Video - Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

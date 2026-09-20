@@ -46,6 +46,12 @@ In June 2018, Davis was interviewed by journalist George Knapp on *Coast to Coas
 
 Davis co-outlined the legacy program structure that has been critiqued and analyzed by UAP researchers. In the context of the [[TR-3B]] investigation, UAP Gerb identified Davis as a key figure, noting his insights from the Wilson-Davis memo would implicate the [[CIA]] Directorate of Science and Technology, with support from agencies such as the [[NRO (National Reconnaissance Office)|NRO]], the National Underwater Reconnaissance Office, the [[NGA (National Geospatial-Intelligence Agency)|National Geospatial-Intelligence Agency]], and likely the [[NSA]], as leading teams behind UFO crash retrievals.
 
+## Comments on the Kona Blue / James Ryder Materials Program
+
+Davis has separately discussed the compartmented [[Lockheed Martin]] program associated with the late [[James T. Ryder]] and the attempted [[Kona Blue]] material transfer. Davis stated that the specific locked program under Ryder dealt strictly with materials and metallurgy — reverse-engineering only specific metals, alloys, and metamaterials — rather than with intact craft or propulsion and power systems, and that the effort had been largely fruitless at replication at scale. According to UAP Gerb, engineers working within this compartmented program were reportedly not told the true origin of the materials they were studying.
+
+Davis has also stated that, to his knowledge, no successful derivation — let alone a functioning alien reproduction vehicle (ARV) — has ever been successfully leveraged from recovered UFO materials, a claim UAP Gerb's host has publicly disputed as inconsistent with the host's own research into decades of alleged reverse-engineering efforts.
+
 ## Aerospace Corporation Research
 
 Davis, alongside [[Jacques Vallee]], [[Hal Puthoff]], [[Kit Green]], and Kristen B. Zimmerman, identified [[The Aerospace Corporation]] as one of the suspected legacy private corporations engaged in covert UAP research. This research consortium's analysis—documented in Vallee's *Hidden Science 5*—provides additional context for the corporation's documented work with [[Defense Support Program (DSP)]] satellites and [[Fast Walkers]] detection systems.
@@ -56,3 +62,4 @@ Davis, alongside [[Jacques Vallee]], [[Hal Puthoff]], [[Kit Green]], and Kristen
 - [[Video - FASTWALKERS – UFOs Outside Earth]]
 - [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
 - [[Video - The 1950s Del Rio, Texas UFO Crashes]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
