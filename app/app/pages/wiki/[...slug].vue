@@ -90,7 +90,7 @@ const articleClass = computed(() => hasRail.value
       </nav>
 
       <div class="mb-3.5 flex flex-wrap gap-2">
-        <Badge>{{ category }}</Badge>
+        <Badge class="ufo-category-badge">{{ category }}</Badge>
         <Badge v-for="tag in shownTags" :key="tag" variant="outline">
           {{ tag }}
         </Badge>
@@ -175,5 +175,27 @@ const articleClass = computed(() => hasRail.value
 }
 .wiki-prose :deep(th) {
   @apply bg-muted/40 font-medium text-muted-foreground;
+}
+
+/*
+ * The page-header category badge (`<Badge>{{ category }}</Badge>` above) is
+ * the only default-variant (bg-primary/text-primary-foreground) `<Badge>` in
+ * the app (every other usage passes `variant="outline"`) -- confirmed via
+ * `grep -rn "<Badge" app/`. Measured directly with proper compositing
+ * (bg-primary is fully opaque, so no alpha compositing needed, just the flat
+ * WCAG ratio): the shared --primary-foreground token clears 4.5:1 against
+ * --primary in `dark` (6.54:1), `dim`, and `sepia` (4.69:1), but only reaches
+ * 3.00:1 in `light` -- --primary-foreground's near-white value (355.7 100%
+ * 97.3%) is too light for light theme's --primary green (142.1 76.2% 36.3%,
+ * a mid-lightness colour close to dark theme's own primary; even a switch to
+ * pure white only reaches ~3.3:1 against it). Retuning --primary-foreground
+ * itself would also move every default-variant Button (and Input) sitewide,
+ * which is out of scope for a video-page restyle pass -- see also the
+ * "Open mini-player" button's identical 3.00:1 in light, flagged but left
+ * unfixed in the report. So this ONE badge gets a scoped, light-theme-only
+ * override instead; dark/dim/sepia keep the shared token's default colour.
+ */
+:where([data-theme="light"]) .ufo-category-badge {
+  color: hsl(var(--foreground));
 }
 </style>

@@ -225,7 +225,7 @@ const { refs } = useWikiResolve(() => props.events.flatMap(e => e.entities ?? []
             }"
           >
             <div class="flex items-center gap-2">
-              <span class="font-mono text-[11px] uppercase tracking-[0.06em] text-muted-foreground">
+              <span class="ufo-entry-date font-mono text-[11px] uppercase tracking-[0.06em]">
                 {{ formatDate(event.date) }}
               </span>
               <WikiCue
@@ -367,8 +367,25 @@ const { refs } = useWikiResolve(() => props.events.flatMap(e => e.entities ?? []
   font-weight: 700;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: hsl(var(--muted-foreground));
+  color: hsl(var(--foreground));
   background: hsl(var(--foreground) / 0.05);
+}
+
+/*
+ * Date label and .ufo-major-badge text: `--foreground`, NOT
+ * `--muted-foreground`. Measured directly in a live browser with the theme
+ * driven by the actual `uapgdb-theme` cookie (not a manually-set `data-theme`
+ * attribute, which Vue's own binding fights) and proper compositing: on this
+ * card's `--entry-surface` tint, `--muted-foreground` fails 4.5:1 for every
+ * one of the 6 timeline categories in `light` (3.83-4.19:1) and `sepia`
+ * (worst `.ufo-major-badge` case measured 3.45:1) -- the identical gap found
+ * and fixed in WikiRoster/OrgChartNode (see those files): `timelineSurface`'s
+ * >= 4.5:1 guarantee only ever covered `--foreground`. `--foreground` is used
+ * instead; the date/badge stay visually secondary by size (11px/9px, smallest
+ * text on the card) rather than by colour.
+ */
+.ufo-entry-date {
+  color: hsl(var(--foreground));
 }
 
 @media (prefers-reduced-motion: reduce) {
