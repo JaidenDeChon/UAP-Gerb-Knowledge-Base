@@ -61,14 +61,16 @@ const article = computed<{ lead: string, doc: WikiPage | null }>(() => {
 // column rather than reserving it and rendering it empty.
 const hasRail = computed(() => hasTocRail(page.value?.body?.toc))
 
-// Below xl the rail never shows (see the <aside>'s `hidden xl:block`), so the
-// single-column width only needs to react to `hasRail` — the breakpoint
-// itself is handled by the aside being absent from the flow entirely.
+// The <aside> is `hidden xl:block`, but leaving the flow doesn't re-centre a
+// flex-row wrapper on its own — below xl the wrapper must stay byte-identical
+// to the no-rail layout (`mx-auto max-w-[760px] px-8`), so the rail-only
+// classes are gated behind `xl:` and only take effect once the aside itself
+// is visible.
 const wrapperClass = computed(() => hasRail.value
-  ? 'mx-auto flex max-w-[1180px] items-start gap-10 px-8'
+  ? 'mx-auto max-w-[760px] px-8 xl:flex xl:max-w-[1180px] xl:items-start xl:gap-10'
   : 'mx-auto max-w-[760px] px-8')
 const articleClass = computed(() => hasRail.value
-  ? 'min-w-0 max-w-[760px] flex-1 pb-32 pt-10'
+  ? 'pb-32 pt-10 xl:min-w-0 xl:max-w-[760px] xl:flex-1'
   : 'pb-32 pt-10')
 </script>
 
