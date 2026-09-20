@@ -35,13 +35,17 @@ USO reports span a broad chronological and geographic range. Key documentary sou
 - **Australian government files**: The Royal Australian Air Force began formally logging unusual aerial and maritime sightings in the early 1960s, with instrument-disrupting events near Groote Island in 1964 and similar cases through 1967.
 - **Pre-twentieth-century maritime records**: The [[Maritime Light Wheel]] phenomenon documents repeated encounters with rotating luminous wheel structures in the Eastern Hemisphere from 1873 through at least 1910, preserved in admiralty logs, hydrographic bureau records, and scientific publications.
 
+## The MITRE "Tic Tac Factory"
+
+UAP Gerb alleges that the [[MITRE Corporation]] has, since at least several decades ago, served as R&D lead on a Navy-administered Waived Unacknowledged Special Access Program monitoring, tracking, and tasking for intercept an enormous USO stationed in the Atlantic Ocean near the Bahamas — nicknamed the "[[Tic Tac Factory]]" for its alleged behavior of deploying and recovering smaller tic-tac-shaped and other subordinate craft. See [[Tic Tac Factory]] for full detail, including corroborating testimony from an anonymous 2023 4chan account and Commander [[David Fravor]]'s 2004 USS Nimitz encounter.
+
 ## Significance in UAP Research
 
 UAP researchers and government officials have argued that USOs may represent the most significant observational category within the broader UAP phenomenon. Because water covers approximately 71% of Earth's surface and the ocean floor is among the least surveilled environments on the planet, it constitutes an ideal operational domain for craft that do not wish to be detected. [[Rear Admiral Timothy Gallaudet]] has publicly argued — including in his 2024 white paper *Beneath the Surface* — that confirmed trans-medium vehicles would constitute discoveries of scientific and strategic importance surpassing anything in recorded history. [[Kevin Knuth]] at the [[Sol Foundation]] has discussed the electromagnetic and propulsion physics implied by craft capable of operating in both atmospheric and aquatic environments without changing flight profile.
 
 ## Related Pages
 
-- **Concepts**: [[Trans-Medium Vehicle]], [[Maritime Light Wheel]], [[OPNAV 3820]], [[JANAP 146C]], [[Fast Walkers]]
+- **Concepts**: [[Trans-Medium Vehicle]], [[Maritime Light Wheel]], [[OPNAV 3820]], [[JANAP 146C]], [[Fast Walkers]], [[Tic Tac Factory]]
 - **Organizations**: [[Project Blue Book]], [[Project Sign]], [[Project Grudge]]
 - **People**: [[Rear Admiral Timothy Gallaudet]], [[Paul Stonehill]], [[Philip Mantle]], [[Fleet Admiral Nikolai Smirnov]], [[Vladimir Azhazha]], [[Felix Zigel]], [[Kevin Knuth]]
 - **Events**: [[MV Marala North Atlantic Sighting]], [[SS City of Alako Hawaiian Islands Sighting]], [[Ascension Island USO Sighting]], [[SS Morgantown Victory Sighting]], [[Soviet Submarine Repair Ship Vulga Sighting]], [[Kamchatka Lake USO Sighting (1970)]], [[Soviet Ship Nooget USO Sighting]], [[Persian Gulf USO Flap]], [[Maritime Light Wheel Sightings]]
@@ -50,3 +54,4 @@ UAP researchers and government officials have argued that USOs may represent the
 
 - [[USO Case Book - Unidentified Submerged Objects Throughout History]]
 - [[USO - Unidentified Submerged Objects]]
+- [[Video - The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]

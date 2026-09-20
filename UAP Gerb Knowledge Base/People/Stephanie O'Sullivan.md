@@ -11,6 +11,11 @@ Stephanie O'Sullivan served as Principal Deputy Director of National Intelligenc
 
 O'Sullivan is alleged to have co-managed UAP legacy programs alongside [[James Clapper]], with her prior TRW employment and CIA DS&T role providing the alleged need-to-know access required for such responsibilities. According to testimony cited in the video, O'Sullivan and Clapper are claimed to have held informal dual-hatted roles managing UFO crash retrieval programs simultaneously with their official ODNI positions. She is also alleged to have participated in an Obama-era initiative, alongside Clapper and [[Luis Elizondo]], that positioned [[Hillary Clinton]] as a potential disclosure president.
 
+## MITRE Timing Coincidence
+
+UAP Gerb's investigation into [[MITRE Corporation|MITRE]] notes that O'Sullivan's tenure as Principal Deputy Director of National Intelligence (2011–2017) under [[James Clapper]] precisely brackets a period UAP Gerb alleges saw a major security clampdown at MITRE: a 2011 restriction on historical briefings for new legacy program personnel, followed by MITRE's alleged 2017 loss of control over a Navy-administered UFO technology reverse-engineering program. UAP Gerb characterizes this overlap as unlikely to be coincidental, describing O'Sullivan as one of a small number of senior officials — alongside Clapper and [[Susan Gordon]] — who held Principal Deputy DNI-level positions during the exact window MITRE's alleged legacy program clampdown occurred.
+
 ## Sources
 
 - [[Video - Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2]]
+- [[Video - The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]

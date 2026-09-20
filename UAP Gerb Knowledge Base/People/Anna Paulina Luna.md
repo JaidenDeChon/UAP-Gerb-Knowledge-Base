@@ -29,6 +29,10 @@ Luna's participation in UAP oversight reflects Congressional concern about:
 
 Luna has supported efforts to mandate transparency regarding historical UAP programs such as [[Project Moondust]], which operated from at least 1961 through the mid-1990s conducting UFO crash retrieval operations. The UAP Caucus has highlighted Moon Dust as documentary evidence that the US government has maintained active UFO collection capabilities extending beyond the publicly acknowledged [[Project Blue Book]] era.
 
+## Naval Whistleblower Meeting
+
+Luna has been described, alongside fellow UAP Caucus member [[Eric Burlison]], as having met with a whistleblower from a "nautical source" regarding underwater activity — a meeting Burlison described as requiring a full day of travel and reminiscent, in the whistleblower's description, of the film *The Abyss*. UAP Gerb connects this account to its own reporting on an alleged [[MITRE Corporation|MITRE]]-administered USO monitoring program, nicknamed the "[[Tic Tac Factory]]," operating in the Atlantic Ocean.
+
 ## Significance
 
 Representative Luna's involvement in the UAP Caucus represents bipartisan Congressional interest in UFO transparency. Her willingness to engage publicly with UAP issues helps legitimize the topic and provides political cover for whistleblowers and researchers advocating for disclosure.
@@ -36,3 +40,4 @@ Representative Luna's involvement in the UAP Caucus represents bipartisan Congre
 ## Sources
 
 - [[Video - MOON DUST - The Pentagon's Secret UFO Programs]]
+- [[Video - The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]

@@ -39,6 +39,10 @@ Grusch further stated that legacy programs have used misappropriation of funds �
 
 On the subject of retaliation, Grusch described what he and UAP Gerb term "administrative terrorism": after his 2023 public testimony, he stated that "manufactured allegations" were made against him from a security and personal-conduct perspective, that his former NGA chief of staff had a clearance revocation attempt made against him, and that his former boss at the [[NRO (National Reconnaissance Office)|NRO]] had his clearance revoked. Grusch stated he has been seeking FOIA-related documents on his own reprisal case since 2022 and has been denied under a law-enforcement-records exemption, forcing him to consider litigation against the relevant agencies.
 
+## MITRE Interrogative Letter and Reverse-Engineering Quote
+
+Grusch worked with Representative [[Eric Burlison]] to send a detailed legal interrogative letter — more than ten pages — to [[MITRE Corporation]], demanding preservation of records related to two alleged Navy-administered special access programs UAP Gerb attributes to MITRE: a decades-old UFO technology reverse-engineering program and a USO-monitoring program nicknamed the "[[Tic Tac Factory]]." UAP Gerb cites Grusch's own public description of the reverse-engineering program as directly consistent with its MITRE findings: "This whole program in a nutshell... it is a reverse engineering program to garner some kind of insight... not a lot of the things that we've learned from it are like directly ripped off the technology we found, but it has inspired other innovations that made its way into other US classified programs." Grusch has also publicly named former Principal Deputy Director of National Intelligence [[Stephanie O'Sullivan]] alongside [[James Clapper]] as officials who were "well aware of the crash retrieval issue" and who "placed people in critical roles to manage this issue" both publicly and non-publicly.
+
 ## Sources
 
 - [[Video - The 1933 Magenta, Italy UFO Crash]]
@@ -48,3 +52,4 @@ On the subject of retaliation, Grusch described what he and UAP Gerb term "admin
 - [[Video - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs]]
 - [[Video - Michael Herrera - Insights into UAP Encounter and Black Program Insiders]]
 - [[Video - Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2]]
+- [[Video - The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]

@@ -96,7 +96,7 @@ tags:
 - [[Minot Air Force Base, North Dakota]]
 - [[Murrysville, Pennsylvania]]
 - [[NAMRU South, Lima, Peru]]
-- [[Naval Surface Warfare Center Crane, Indiana]]
+- [[Naval Surface Warfare Center Crane]]
 - [[Nazca Desert, Peru]]
 - [[Nellis Air Force Base]]
 - [[Nevada National Security Site (Nevada Test Site)]]

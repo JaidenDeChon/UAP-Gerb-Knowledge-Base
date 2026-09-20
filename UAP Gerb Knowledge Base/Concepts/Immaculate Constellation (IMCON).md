@@ -12,7 +12,12 @@ The timing of IMCON's establishment — shortly after the 2016 core buildout of 
 
 On November 13, 2024, during the fall UAP hearings, the Immaculate Constellation report was released to Congress and the American public. The report's historical data, tracking back to 2009, described a large equilateral triangle appearing directly over intelligence-collecting vessels, captured by Indo-Pacific Command (INDOPACOM). The triangle hovered and rotated slowly 500 to 1,000 meters above the ocean, with three bright points visible at each bottom corner. At least some of the triangles — among the rarest UAP configurations reported in the IMCON report — have been confirmed by the USAP to be ARV (alien reproduction vehicles), the same term used by program members to label the flux liner saucer observed by [[Brad Sorenson]] at the 1988 Norton Air Force Base show. Representative Eric Burlison confirmed to UAP Gerb he had heard the term ARV previously from within the UFO community.
 
+## Possible Connection to MITRE's Reverse-Engineering Portfolio
+
+UAP Gerb's investigation into [[MITRE Corporation|MITRE]] speculatively connects IMCON's 2017 establishment to an alleged loss of MITRE's control over a Navy-administered UFO technology reverse-engineering program that same year, theorizing that [[James Clapper]] may have sought to fold MITRE's reverse-engineered assets into the National Security Council's broader crash-retrieval and surveillance portfolio for improved situational awareness. UAP Gerb characterizes this connection as unconfirmed but consistent with IMCON's timing relative to both MITRE's alleged 2017 leadership transition and [[NRO Sentient]]'s roughly contemporaneous 2010–2011 origins.
+
 ## Sources
 
 - [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
+- [[Video - The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]
 - [[Video - National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers]]

@@ -13,7 +13,12 @@ According to the video, Phillips is alleged to be the head of a dedicated securi
 
 UAP Gerb's *Special Access Required Vol.2* reiterates this allegation, stating the presenter is aware of "specific instances" in which Phillips, prior to his 2021 retirement from federal service, acted as "an enforcer for the UFO activity administrative structure, leveraging administrative terrorism and much worse against prospective whistleblowers," and alleges Phillips has continued similar work at Northrop Grumman.
 
+## MITRE Counterintelligence Support
+
+UAP Gerb's investigation into the [[MITRE Corporation]] states that AFOSI's Office of Special Projects, historically headed by Phillips, provided counterintelligence support for MITRE's alleged UFO technology reverse-engineering and USO-monitoring legacy activities, and notes that the office maintains permanent locations both within [[Crystal City, Virginia]] and at [[Hanscom Air Force Base, Massachusetts|Hanscom Air Force Base]] — the base where MITRE opened its first program office.
+
 ## Sources
 
 - [[Video - Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2]]
 - [[Video - Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2]]
+- [[Video - The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]

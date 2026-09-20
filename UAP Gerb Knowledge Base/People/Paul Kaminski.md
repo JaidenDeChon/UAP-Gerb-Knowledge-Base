@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Paul G. Kaminski is a former senior U.S. defense acquisition official who served as Under Secretary of Defense for Acquisition and Technology from October 3, 1994, to May 16, 1997 — the office referred to in UAP research as "Ostat" or "OUSD(AT)," and the specific office Vice Admiral [[Thomas Wilson]] investigated in 1997 according to the [[Wilson-Davis Memo]]. Kaminski holds an aeronautics doctorate and degrees from the U.S. Air Force Academy, MIT, and Stanford. He served as a permanent member of the Special Access Program Oversight Committee (SAPOC) in his OUSD(AT) capacity, and has more recently served on the board of directors of [[MITRE Corporation]], as well as the boards of Axient and Johns Hopkins Applied Physics Laboratory.
+Paul G. Kaminski is a former senior U.S. defense acquisition official who served as Under Secretary of Defense for Acquisition and Technology from October 3, 1994, to May 16, 1997 — the office referred to in UAP research as "Ostat" or "OUSD(AT)," and the specific office Vice Admiral [[Thomas Wilson]] investigated in 1997 according to the [[Wilson-Davis Memo]]. Kaminski holds an aeronautics doctorate and degrees from the U.S. Air Force Academy, MIT, and Stanford. He served as a permanent member of the Special Access Program Oversight Committee (SAPOC) in his OUSD(AT) capacity, and has more recently served on the board of directors of [[MITRE Corporation]] from 2017 to 2025, as well as the boards of Axient and Johns Hopkins Applied Physics Laboratory.
 
 ## Role in UAP Programs
 

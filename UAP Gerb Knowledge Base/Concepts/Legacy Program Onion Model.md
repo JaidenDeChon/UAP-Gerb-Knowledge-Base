@@ -30,6 +30,10 @@ The innermost layer contains the beating heart of UFO legacy activities: the phy
 
 **Funding and financial concealment:** *Special Access Required Vol.2* describes a further, more minor set of secrecy layers concerning how legacy programs are financed outside normal budgetary visibility — including alleged misuse of independent research and development (IRAD) funds, budget "haircuts" taken across unrelated programs and diverted through agencies such as the U.S. Forest Service and Bureau of Land Management, and self-funding cutout companies historically including [[E-Systems]] and the BSI consulting front used in the [[Yellow Fruit]] program.
 
+## MITRE as an Alleged Originating Template
+
+UAP Gerb's investigation into the [[MITRE Corporation]] cites a source who directly characterized MITRE's internal security architecture as the literal origin of the onion model later adopted throughout the wider legacy program apparatus, describing it as "the model for all legacy security personnel." MITRE's alleged apparatus includes a "hidden" Special Security Office — parallel to and separate from its acknowledged SSO — staffed with program security officers reportedly operating under nonofficial cover (NOC), personnel instructed to describe themselves as "lollipop manufacturers" if questioned during an audit, and program funding allegedly skimmed from acknowledged MITRE and Navy projects rather than carried on any visible budget line. UAP Gerb connects this compartmentation model to the "seventh veil" analogy attributed to Navy Special Projects Office chief scientist [[John P. Craven]], under which no individual — cleared or not — can be certain whether they have reached a program's innermost layer or are simply working a cover program in service of another cover program.
+
 ## Historical Evolution
 
 The onion model in its earliest form (1947–1950s) featured a compact, unified structure with strong centralized control at the core. The Manhattan Project 2.0's control group, hidden within the NSC 5412 Committee, represented a powerful and coherent center capable of directing all layers. Over subsequent decades, regulatory pressure, audit near-misses, and organizational fragmentation caused layers to multiply and the core to weaken. By 1994, the control-group core had been replaced by the SAPOC Senior Review Group — a quasi-government and industry panel of approximately two dozen individuals with no centralized executive authority. By 2009, even this vestigial center had lost its most effective leadership figure.
@@ -38,3 +42,4 @@ The onion model in its earliest form (1947–1950s) featured a compact, unified 
 
 - [[Video - The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1]]
 - [[Video - Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2]]
+- [[Video - The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]

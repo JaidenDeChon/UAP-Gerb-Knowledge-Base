@@ -37,6 +37,10 @@ The Foreign Technology Division operated in extreme secrecy. According to Corso,
 
 Corso stated that the Army treated the threat posed by non-human intelligence similar to the Soviet threat under a "fig leaf policy" — where both Soviets and NHI threatened existence but were not considered outright enemies. Acts of concern included abduction phenomena, animal mutilation, spying on atomic installations, hindering missile and space equipment testing, hampering military deterrent capabilities, halting exploration of the moon and Mars, causing aircraft crashes with military casualties, and tampering with human and animal genomes.
 
+## Army Research Office and Parallel MITRE Founding
+
+UAP Gerb notes that Trudeau's Office of the Chief of Research and Development (OCRD) also created the Army Research Office (ARO) in the spring of 1958 — the same season the [[U.S. Army Foreign Technology Division]] was established and, coincidentally, only months before the founding of the [[MITRE Corporation]] by the Air Force and Navy. ARO directly coordinated with Navy and Air Force research and development. UAP Gerb frames this as evidence that, in the same narrow window following the ten-year anniversary of the 1947 [[Roswell Crash]], the Army pursued an aggressive, in-house technology-seeding program under Trudeau and [[Philip J. Corso]] while the Air Force and Navy pursued a comparatively more conservative, centralized approach through the newly formed MITRE Corporation.
+
 ## Retirement and Briefing of President Bush
 
 Trudeau retired in 1962 and was succeeded by four-star General [[Dwight E. Beach]] in command of U.S. Army R&D. The [[U.S. Army Foreign Technology Division]] appears to have been dissolved or drastically reorganized shortly after Trudeau's retirement, with no public records of the division existing beyond institutional references in Corso's military documents.
