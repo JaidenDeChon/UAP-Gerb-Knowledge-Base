@@ -35,3 +35,36 @@ tags:
 
 ---
 *Source: [YouTube]({{url}})*
+
+<!--
+Rich wiki components are available for this note (web app only — Obsidian
+shows the raw `::` markup, which is expected). Full reference:
+docs/wiki-components.md. Entity names below must be PLAIN page titles, never
+[[wikilinks]] — a wikilink inside this YAML gets corrupted before the page
+renders.
+
+::wiki-stat-strip
+---
+stats:
+  - value: 42
+    label: Some metric
+    hint: Optional context
+  - value: "1h30m"
+    label: Runtime
+---
+::
+
+::wiki-timeline
+---
+events:
+  - date: "1947-07"
+    title: Example event title
+    summary: Optional one- or two-sentence summary.
+    category: event
+    entities:
+      - Some Person Name
+      - Some Organization Name
+    significance: major
+---
+::
+-->
