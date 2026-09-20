@@ -83,12 +83,25 @@ onBeforeUnmount(() => observer?.disconnect())
   font-family: var(--font-sans);
   font-size: 13px;
   line-height: 18px;
+  font-weight: 500;
   color: hsl(var(--muted-foreground));
-  transition: color var(--dur-fast) var(--ease-standard);
+  transition: color var(--dur-fast) var(--ease-standard),
+    border-color var(--dur-fast) var(--ease-standard),
+    font-weight var(--dur-fast) var(--ease-standard);
 }
 .ufo-toc-link:hover { color: hsl(var(--foreground)); }
+/* Active marker: --primary colour + border, plus a non-colour weight bump so
+   the active section still reads under greyscale/colour-blind viewing
+   (same principle as the timeline filter chips' active state). */
 .ufo-toc-link.is-active {
   border-inline-start-color: hsl(var(--primary));
   color: hsl(var(--primary));
+  font-weight: 700;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ufo-toc-link {
+    transition: none;
+  }
 }
 </style>

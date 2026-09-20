@@ -381,6 +381,15 @@ Every `name` in the whole tree is resolved in a single batched request
 (`useWikiResolve`), so the chart doesn't fan out one network call per node.
 Scrolls horizontally on overflow rather than shrinking.
 
+Each node's box surface is tinted by its own resolved category
+(`categorySurface`), and the connector lines it draws down to its children
+pick up the same node's `categoryBorder`. The box's own 1px outline stays
+neutral (`hsl(var(--border))`), not category-coloured — a category-tinted
+border against that same category's tinted surface was measured to collapse
+below 1.6:1 for Videos in light/sepia, so the outline is kept as a plain
+hairline and the category reads through the surface tint plus the
+`WikiEntityLink` dot beside the node's name instead.
+
 ### `::wiki-stat-strip`
 
 Source: `app/app/components/content/WikiStatStrip.vue`
@@ -411,8 +420,9 @@ Nothing renders if `stats` is empty.
 
 Source: `app/app/components/content/WikiRoster.vue`
 
-A grid of person/entity cards with a category-coloured left spine — 1 column
-on mobile, 2 columns at `sm:` and up.
+A grid of person/entity cards, whole-card tinted with the entity's category
+surface plus a category-coloured left spine — 1 column on mobile, 2 columns
+at `sm:` and up.
 
 Props:
 

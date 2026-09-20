@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import type { NoteRef } from '#shared/types/wiki'
+import { categoryBorder, categorySurface } from '@/utils/category'
 
 export interface OrgNode {
   name: string
@@ -11,10 +12,31 @@ export interface OrgNode {
 const props = defineProps<{ node: OrgNode, refs: Map<string, NoteRef> }>()
 
 const children = computed(() => props.node.children ?? [])
+
+/*
+ * This node's own resolved category (vault `Category` domain, via
+ * useWikiResolve -- NOT the timeline-event-category domain). Every
+ * `<table class="ufo-org">` instance below -- one per node, recursively --
+ * sets its OWN --node-* custom properties from its OWN category, so the box
+ * for this node AND the connector lines this node draws down to its
+ * children are tinted by this node, not by an ancestor's colour. A child
+ * cell renders its own nested WikiOrgChartNode/<table>, which sets its own
+ * vars afresh, so tints never leak between siblings or generations.
+ */
+const category = computed(() => props.refs.get(props.node.name.trim())?.category)
+const nodeBorder = computed(() => categoryBorder(category.value))
+const nodeSurface = computed(() => categorySurface(category.value))
 </script>
 
 <template>
-  <table class="ufo-org" role="presentation">
+  <table
+    class="ufo-org"
+    role="presentation"
+    :style="{
+      '--node-border': nodeBorder,
+      '--node-surface': nodeSurface,
+    }"
+  >
     <tbody>
       <tr>
         <td :colspan="Math.max(children.length * 2, 2)" class="ufo-org-cell">
@@ -96,18 +118,45 @@ const children = computed(() => props.node.children ?? [])
   max-width: 220px;
   margin: 0 8px;
   padding: 8px 12px;
+  /* Neutral border, NOT var(--node-border): measured directly, a
+     categoryBorder() edge (0.85 alpha) against this same node's own
+     categorySurface() fill (0.14 alpha, same hue) collapses to as low as
+     1.56-1.59:1 for Videos in light/sepia -- worse than either alone,
+     because both are blends toward the same colour. WikiRoster hit the
+     identical compounding and settled on the same fix: keep the box's own
+     outline neutral (matches WikiTimeline's box-border-neutral /
+     rule-coloured split) and let the surface tint + the WikiEntityLink dot
+     beside the name carry the category identity. */
   border: 1px solid hsl(var(--border));
   border-radius: var(--radius-lg);
-  background: hsl(var(--card));
+  /* categorySurface() -- verified >= 4.5:1 for --foreground/--muted-foreground
+     text across all 8 categories x 4 themes, same guarantee WikiRoster and
+     WikiTimeline rely on. Unresolved names fall back to a neutral
+     muted-foreground tint (see categorySurface's own fallback). */
+  background: var(--node-surface);
   text-align: center;
 }
+/*
+ * Kicker/note colour: `--foreground`, NOT `--muted-foreground`. Measured
+ * directly (composite categorySurface's 0.14-alpha tint over --card, then
+ * check --muted-foreground against THAT box background, not plain --card):
+ * it fails 4.5:1 for every one of the 8 categories in `light` (3.83-4.38:1)
+ * and `sepia` (3.86-4.40:1), plus `videos` in `dim` (4.07:1) -- the same gap
+ * found and fixed in WikiRoster (see that file's style-block comment).
+ * categorySurface's >= 4.5:1 guarantee (category.ts) only ever covered
+ * `--foreground`; tinting the whole box here is a new use this task
+ * introduces, so `--muted-foreground` text on it is unverified and, as
+ * measured, unsafe. `--foreground` is used instead, kept visually secondary
+ * by size/weight (10px mono kicker, 12px note vs. the 15px name) rather
+ * than by colour.
+ */
 .ufo-org-kicker {
   font-family: var(--font-mono);
   font-size: 10px;
   font-weight: 600;
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  color: hsl(var(--muted-foreground));
+  color: hsl(var(--foreground));
   margin-bottom: 2px;
 }
 .ufo-org-name {
@@ -121,7 +170,7 @@ const children = computed(() => props.node.children ?? [])
   font-family: var(--font-sans);
   font-size: 12px;
   line-height: 16px;
-  color: hsl(var(--muted-foreground));
+  color: hsl(var(--foreground));
 }
 
 /* Connectors. Fixed-height rows so the geometry never depends on content.
@@ -136,22 +185,27 @@ const children = computed(() => props.node.children ?? [])
    there is no same-origin specificity fight. */
 .ufo-org-lines.ufo-org-lines td { padding: 0; height: 14px; }
 
+/* Connector colour: var(--node-border) -- this node's own categoryBorder(),
+   set on the <table> root above -- rather than a flat hsl(var(--border)).
+   The lines a node draws down to its children read as "belonging" to that
+   node, a subtle tint rather than a loud one since these are 1px hairlines.
+   Geometry (widths/heights/nth-child selection) is unchanged from before. */
 .ufo-org-down.ufo-org-down { text-align: center; border: 0; }
 .ufo-org-stem {
   width: 1px;
   height: 14px;
   margin-inline: auto;
-  background: hsl(var(--border));
+  background: var(--node-border);
 }
 
 .ufo-org-rail.ufo-org-rail {
   border: 0;
-  border-top: 1px solid hsl(var(--border));
+  border-top: 1px solid var(--node-border);
 }
 /* Trim the rail so it stops at the outermost children rather than overhanging. */
 .ufo-org-rail.is-first { border-top-color: transparent; }
 .ufo-org-rail.is-last { border-top-color: transparent; }
-.ufo-org-rail:not(.is-first):not(.is-last) { border-top-color: hsl(var(--border)); }
+.ufo-org-rail:not(.is-first):not(.is-last) { border-top-color: var(--node-border); }
 
 /* Vertical stem into each child. Each child contributes exactly two cells to
    this row (an "a" half then a "b" half); the boundary between them is that
@@ -163,6 +217,6 @@ const children = computed(() => props.node.children ?? [])
    `.ufo-org-rail.ufo-org-rail` above (both two classes + the scope
    attribute); declared after it, so the tie resolves in its favour. */
 .ufo-org-rail:nth-child(odd) {
-  border-right: 1px solid hsl(var(--border));
+  border-right: 1px solid var(--node-border);
 }
 </style>

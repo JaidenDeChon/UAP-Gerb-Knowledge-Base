@@ -12,12 +12,12 @@ const props = withDefaults(
   >
     <header
       v-if="props.title"
-      class="border-b px-4 py-2.5"
+      class="border-b px-4 py-2"
       :class="props.tone === 'accent'
         ? 'border-primary/60 bg-primary/10 text-primary'
         : 'border-border bg-muted/40 text-muted-foreground'"
     >
-      <span class="font-mono text-[11px] font-semibold uppercase tracking-[0.08em]">
+      <span class="font-mono text-[11px] font-bold uppercase tracking-[0.09em]">
         {{ props.title }}
       </span>
     </header>

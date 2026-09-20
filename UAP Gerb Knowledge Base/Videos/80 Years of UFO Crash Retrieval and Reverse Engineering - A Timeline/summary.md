@@ -504,7 +504,7 @@ The 21st century brings an accelerating series of consolidations and near-exposu
 
 The video closes with David Grusch's July 2023 congressional testimony as the definitive modern "estimate of the situation," crediting Grusch with publicly confirming the programs' existence, their Manhattan Project lineage, and a reported inventory of 25-100 recovered craft across multiple vehicle morphologies. The host closes by characterizing 2023-onward as a possible new era and by explicitly disclaiming coverage of non-human contact protocols or negotiated agreements as outside the channel's scope.
 
-## Program Structure
+## Program Structure :wiki-info[Boxes are tinted by the entity's own category (People/Organizations/etc.), matching the colour legend used elsewhere on this page; the connecting lines pick up the same tint from the node they descend from. **This chart shows institutional proximity, not a claimed chain of command** -- CIA is shown here as the video's through-line institution and the NSC 5412 Committee's named executor for covert operations, not as claiming direct authority over Majestic 12, which the video places under the 5412 Committee's Special Group rather than under CIA directly.]{label="How to read this chart"}
 
 The video traces the alleged golden-era chain of custody from the National Security Council's covert-activities oversight (exercised through the CIA as its executive agent) down through the steering group folded into the 5412 Committee, alongside the CIA's own reverse-engineering directorate and its FFRDC partners.
 
@@ -513,7 +513,7 @@ The video traces the alleged golden-era chain of custody from the National Secur
 root:
   name: CIA
   label: NSC covert-activities executive agent
-  note: "Shown here as the video's through-line institution and the NSC 5412 Committee's named executor for covert operations -- this position reflects institutional proximity, not a claimed CIA chain of command over Majestic 12, which the video places under the 5412 Committee's Special Group rather than under CIA directly."
+  note: "The video's through-line institution and the 5412 Committee's named executor for covert operations."
   children:
     - name: Majestic 12
       label: Alleged UFO steering group

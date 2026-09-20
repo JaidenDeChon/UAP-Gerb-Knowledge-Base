@@ -245,8 +245,8 @@ const style = computed(() => isMobile.value
 .ufo-dock-bar {
   display: flex;
   align-items: center;
-  gap: 6px;
-  padding: 5px 6px 5px 10px;
+  gap: 4px;
+  padding: 4px 4px 4px 10px;
   border-bottom: 1px solid hsl(var(--border));
   background: hsl(var(--card));
   cursor: grab;
@@ -263,20 +263,39 @@ const style = computed(() => isMobile.value
   white-space: nowrap;
   font-family: var(--font-mono);
   font-size: 10px;
-  font-weight: 600;
-  letter-spacing: 0.08em;
+  font-weight: 700;
+  letter-spacing: 0.07em;
   text-transform: uppercase;
   color: hsl(var(--muted-foreground));
 }
 .ufo-dock-btn {
   display: inline-flex;
-  padding: 3px;
+  align-items: center;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
+  padding: 0;
   border-radius: var(--radius-sm);
   color: hsl(var(--muted-foreground));
+  transition: background-color var(--dur-fast) var(--ease-standard),
+    color var(--dur-fast) var(--ease-standard),
+    transform var(--dur-fast) var(--ease-standard);
 }
 .ufo-dock-btn:hover {
   background: hsl(var(--accent));
   color: hsl(var(--foreground));
+}
+.ufo-dock-btn:active {
+  transform: scale(0.92);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ufo-dock-btn {
+    transition: none;
+  }
+  .ufo-dock-btn:active {
+    transform: none;
+  }
 }
 
 .ufo-dock-body { position: relative; }
