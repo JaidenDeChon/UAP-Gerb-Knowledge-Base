@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { timelineTintFor } from '@/utils/category'
+import { timelineBorder, timelineMark, timelineSurface, timelineSurfaceHover } from '@/utils/category'
 
 interface TimelineEvent {
   date: string
@@ -149,7 +149,7 @@ const { refs } = useWikiResolve(() => props.events.flatMap(e => e.entities ?? []
 <template>
   <div v-if="props.events.length" class="my-8">
     <!-- Filters -->
-    <div class="mb-5 flex flex-wrap items-center gap-1.5">
+    <div class="mb-6 flex flex-wrap items-center gap-1.5">
       <button
         type="button"
         class="ufo-chip" :class="{ 'is-on': active === null }"
@@ -162,12 +162,17 @@ const { refs } = useWikiResolve(() => props.events.flatMap(e => e.entities ?? []
         v-for="category in categories"
         :key="category"
         type="button"
-        class="ufo-chip"
+        class="ufo-chip ufo-chip--cat"
         :class="{ 'is-on': active === category }"
         :aria-pressed="active === category"
-        :style="{ '--chip': timelineTintFor(category) }"
+        :style="{
+          '--chip-mark': timelineMark(category),
+          '--chip-border': timelineBorder(category),
+          '--chip-surface': timelineSurface(category),
+        }"
         @click="active = active === category ? null : category"
       >
+        <span class="ufo-chip-dot" aria-hidden="true" />
         {{ category }}
       </button>
       <span class="mx-1 h-4 w-px bg-border" aria-hidden="true" />
@@ -188,102 +193,191 @@ const { refs } = useWikiResolve(() => props.events.flatMap(e => e.entities ?? []
       No entries match these filters.
     </p>
 
-    <section v-for="era in eras" :key="era.label" class="mb-8 last:mb-0">
-      <h3 class="mb-3 font-display text-[20px] font-bold uppercase tracking-[0.04em] text-muted-foreground">
-        {{ era.label }}
-      </h3>
+    <!--
+      No enter/leave list animation here: both a per-item `TransitionGroup`
+      and a list-level keyed `<Transition mode="out-in">` were tried and
+      each left the rendered list stuck out of sync with the reactive
+      `eras`/`visible` filter state (stale duplicate entries in one case,
+      the previous filter's entries never leaving in the other) — Vue's
+      enter/leave tracking doesn't hold up reliably against this
+      double-computed (filter -> era-group) re-render. Filtering swaps
+      instantly instead; the hover lift on entry cards and press feedback
+      on cues (below) carry the motion budget for this component.
+    -->
+    <div>
+      <section v-for="era in eras" :key="era.label" class="ufo-era mb-10 last:mb-0">
+        <div class="ufo-era-head">
+          <span class="ufo-era-num">{{ era.label }}</span>
+          <span class="ufo-era-rule" aria-hidden="true" />
+        </div>
 
-      <ol class="ufo-rail">
-        <li
-          v-for="(event, i) in era.events"
-          :key="`${event.date}-${i}`"
-          class="ufo-rail-item"
-          :class="{ 'is-major': event.significance === 'major' }"
-        >
-          <span class="ufo-dot" :style="{ background: timelineTintFor(event.category) }" aria-hidden="true" />
-          <div class="flex items-center gap-2">
-            <span class="font-mono text-[11px] uppercase tracking-[0.06em] text-muted-foreground">
-              {{ formatDate(event.date) }}
-            </span>
-            <WikiCue
-              v-if="typeof event.cue === 'number' && props.video"
-              :t="event.cue"
-              :video="props.video"
-              :approx="event.cueApprox"
-              :video-title="props.videoTitle"
-              :entry-title="event.title"
-            />
-          </div>
-          <h4 class="mt-0.5 font-display text-[17px] font-semibold leading-6 text-foreground">
-            {{ event.title }}
-          </h4>
-          <p v-if="event.summary" class="mt-1 font-sans text-[14px] leading-6 text-foreground">
-            {{ event.summary }}
-          </p>
-          <div v-if="event.entities?.length" class="mt-1.5 flex flex-wrap gap-x-2.5 gap-y-1 text-[13px]">
-            <WikiEntityLink
-              v-for="name in event.entities"
-              :key="name"
-              :name="name"
-              :ref-data="refs.get(name.trim())"
-            />
-          </div>
-        </li>
-      </ol>
-    </section>
+        <ol class="ufo-rail">
+          <li
+            v-for="(event, i) in era.events"
+            :key="`${event.date}-${event.title}-${i}`"
+            class="ufo-entry"
+            :class="{ 'is-major': event.significance === 'major' }"
+            :style="{
+              '--entry-mark': timelineMark(event.category),
+              '--entry-border': timelineBorder(event.category),
+              '--entry-surface': timelineSurface(event.category),
+              '--entry-surface-hover': timelineSurfaceHover(event.category),
+            }"
+          >
+            <div class="flex items-center gap-2">
+              <span class="font-mono text-[11px] uppercase tracking-[0.06em] text-muted-foreground">
+                {{ formatDate(event.date) }}
+              </span>
+              <WikiCue
+                v-if="typeof event.cue === 'number' && props.video"
+                :t="event.cue"
+                :video="props.video"
+                :approx="event.cueApprox"
+                :video-title="props.videoTitle"
+                :entry-title="event.title"
+              />
+              <span v-if="event.significance === 'major'" class="ufo-major-badge">Major</span>
+            </div>
+            <h4
+              class="mt-1 font-display leading-6 text-foreground"
+              :class="event.significance === 'major' ? 'text-[19px] font-bold' : 'text-[17px] font-semibold'"
+            >
+              {{ event.title }}
+            </h4>
+            <p v-if="event.summary" class="mt-1 font-sans text-[14px] leading-6 text-foreground">
+              {{ event.summary }}
+            </p>
+            <div v-if="event.entities?.length" class="mt-2 flex flex-wrap gap-x-3 gap-y-1 text-[13px]">
+              <WikiEntityLink
+                v-for="name in event.entities"
+                :key="name"
+                :name="name"
+                :ref-data="refs.get(name.trim())"
+              />
+            </div>
+          </li>
+        </ol>
+      </section>
+    </div>
   </div>
 </template>
 
 <style scoped>
 @reference "../../assets/css/main.css";
 
+/* -- filter chips -- the bar doubles as the category legend --
+ * Text colour is always `--foreground`/`--muted-foreground`, never the
+ * category mark itself (that pattern is exactly what fails 4.5:1 for
+ * Concepts/Videos in light+sepia — see WikiEntityLink). Category comes
+ * through the dot swatch plus, when active, the border/surface tint —
+ * both are >= 3:1 non-text uses, not body text. The active cue keeps a
+ * NON-colour signal too (font-weight + underline, a prior review finding). */
 .ufo-chip {
-  @apply rounded-sm border border-border px-2 py-1 font-mono text-[10px] font-semibold uppercase tracking-[0.08em] text-muted-foreground;
+  @apply inline-flex items-center gap-1.5 rounded-sm border border-border px-2 py-1 font-mono text-[10px] font-semibold uppercase tracking-[0.08em] text-muted-foreground;
   transition: color var(--dur-fast) var(--ease-standard),
-    border-color var(--dur-fast) var(--ease-standard);
+    border-color var(--dur-fast) var(--ease-standard),
+    background-color var(--dur-fast) var(--ease-standard);
 }
 .ufo-chip:hover { @apply text-foreground; }
 .ufo-chip.is-on {
-  border-color: var(--chip, hsl(var(--primary)));
-  color: var(--chip, hsl(var(--primary)));
+  border-color: hsl(var(--primary));
+  color: hsl(var(--foreground));
+  background: hsl(var(--primary) / 0.1);
   /* Non-colour cue so active state survives greyscale/colour-blind viewing (WCAG 1.4.1). */
   font-weight: 800;
   text-decoration: underline;
   text-underline-offset: 2px;
 }
+.ufo-chip--cat.is-on {
+  border-color: var(--chip-border);
+  background: var(--chip-surface);
+}
+.ufo-chip-dot {
+  flex: none;
+  width: 7px;
+  height: 7px;
+  border-radius: 9999px;
+  background: var(--chip-mark);
+  border: 1px solid hsl(var(--border));
+}
 
+/* -- era headings -- oversized numerals + a full-width rule, so scanning
+   by decade needs no reading, just a glance down the left edge. */
+.ufo-era-head {
+  display: flex;
+  align-items: baseline;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+.ufo-era-num {
+  flex: none;
+  font-family: var(--font-display);
+  font-size: clamp(28px, 4vw, 42px);
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.01em;
+  color: hsl(var(--foreground));
+}
+.ufo-era-rule {
+  flex: 1 1 auto;
+  height: 1px;
+  background: hsl(var(--border));
+  transform: translateY(-0.35em);
+}
+
+/* -- entry cards -- category-tinted surface + coloured left rule, replacing
+   the old dot-on-a-line rail. */
 .ufo-rail {
-  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
   margin: 0;
-  padding: 0 0 0 22px;
+  padding: 0;
   list-style: none;
 }
-.ufo-rail::before {
-  content: '';
-  position: absolute;
-  inset-block: 6px 6px;
-  left: 4px;
-  width: 1px;
-  background: hsl(var(--border));
-}
-.ufo-rail-item {
+.ufo-entry {
   position: relative;
-  padding-block: 0 18px;
+  border: 1px solid hsl(var(--border));
+  border-left: 4px solid var(--entry-border);
+  border-radius: var(--radius-lg);
+  background: var(--entry-surface);
+  padding: 12px 16px 14px;
+  transition: background-color var(--dur-base) var(--ease-standard),
+    border-color var(--dur-base) var(--ease-standard),
+    box-shadow var(--dur-base) var(--ease-standard),
+    transform var(--dur-base) var(--ease-standard);
 }
-.ufo-rail-item:last-child { padding-bottom: 0; }
+.ufo-entry:hover {
+  background: var(--entry-surface-hover);
+  box-shadow: 0 4px 14px hsl(0 0% 0% / 0.08);
+  transform: translateY(-2px);
+}
+.ufo-entry.is-major {
+  border-left-width: 6px;
+}
 
-.ufo-dot {
-  position: absolute;
-  left: -22px;
-  top: 5px;
-  width: 9px;
-  height: 9px;
-  border-radius: 9999px;
-  box-shadow: 0 0 0 3px hsl(var(--background));
+.ufo-major-badge {
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid hsl(var(--border));
+  border-radius: var(--radius-sm);
+  padding: 0 5px;
+  font-family: var(--font-mono);
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: hsl(var(--muted-foreground));
+  background: hsl(var(--foreground) / 0.05);
 }
-.ufo-rail-item.is-major .ufo-dot {
-  width: 11px;
-  height: 11px;
-  left: -23px;
+
+@media (prefers-reduced-motion: reduce) {
+  .ufo-entry {
+    transition: none;
+  }
+  .ufo-entry:hover {
+    transform: none;
+    box-shadow: none;
+  }
 }
 </style>

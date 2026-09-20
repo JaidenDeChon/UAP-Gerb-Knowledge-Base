@@ -36,7 +36,7 @@ The video's central thesis is that the security and compartmentalization archite
 
 Throughout, the host frames each era with an "estimate of the situation" -- a credible contemporaneous witness statement used as a calibration point -- including [[Wilbert B. Smith]] and [[Robert Sarbacher]] (1950), [[Bobby Ray Inman]] and [[Bob Echler]] (1989), [[Andrew Kissner]] (1994), and David Grusch (2023). The video explicitly acknowledges its own limits, noting the host's expertise is confined to crash retrieval and legacy program structure, and that topics like alleged non-human intelligence contact protocols or negotiated agreements are deliberately excluded.
 
-## Chronology
+## Chronology :wiki-info[Entries are colour-tinted by category, and the filter chips above the list double as the legend -- each chip's dot matches its category's colour. Timestamps (the small play-glyph buttons) jump the embedded player to that moment in the video; a "~" marks an approximate cue.]{label="How to read this timeline"}
 
 ::wiki-timeline{video="o4czWtSxGig" video-title="80 Years of UFO Crash Retrieval"}
 ---

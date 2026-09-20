@@ -89,22 +89,47 @@ function go(): void {
 .ufo-cue {
   display: inline-flex;
   align-items: center;
-  gap: 3px;
-  padding: 1px 5px;
+  gap: 4px;
+  padding: 2px 7px 2px 6px;
   border: 1px solid hsl(var(--border));
   border-radius: var(--radius-sm);
+  background: hsl(var(--primary) / 0.08);
   font-family: var(--font-mono);
   font-size: 11px;
+  font-weight: 600;
   line-height: 16px;
-  color: hsl(var(--muted-foreground));
+  color: hsl(var(--foreground));
   vertical-align: baseline;
+  cursor: pointer;
   transition: color var(--dur-fast) var(--ease-standard),
-    border-color var(--dur-fast) var(--ease-standard);
+    border-color var(--dur-fast) var(--ease-standard),
+    background-color var(--dur-fast) var(--ease-standard),
+    transform var(--dur-fast) var(--ease-standard);
+}
+.ufo-cue :deep(svg) {
+  color: hsl(var(--primary));
+  transition: color var(--dur-fast) var(--ease-standard);
 }
 .ufo-cue:hover {
   border-color: hsl(var(--primary));
   color: hsl(var(--primary));
+  background: hsl(var(--primary) / 0.16);
+  transform: translateY(-1px);
+}
+.ufo-cue:active {
+  transform: translateY(0);
+  background: hsl(var(--primary) / 0.24);
+}
+.ufo-cue:focus-visible {
+  outline: 2px solid hsl(var(--ring));
+  outline-offset: 2px;
 }
 /* Approximate cues read as a hint, not a promise. */
 .ufo-cue.is-approx { border-style: dashed; }
+
+@media (prefers-reduced-motion: reduce) {
+  .ufo-cue { transition: color var(--dur-fast) var(--ease-standard), border-color var(--dur-fast) var(--ease-standard), background-color var(--dur-fast) var(--ease-standard); }
+  .ufo-cue:hover,
+  .ufo-cue:active { transform: none; }
+}
 </style>
