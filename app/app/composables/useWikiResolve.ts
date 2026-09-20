@@ -66,7 +66,13 @@ export function useWikiResolve(names: MaybeRefOrGetter<string[]>) {
       const settled = await Promise.allSettled(
         chunks.map(chunk =>
           $fetch<(NoteRef | null)[]>('/api/resolve', {
-            query: { names: chunk.join(',') },
+            // Repeated `name=` params, not a comma-joined string — a vault
+            // page name can itself contain a comma (e.g. "Crane, Indiana"),
+            // which would otherwise split into extra, unresolvable entries
+            // and shift every result after it out of position. $fetch (via
+            // ufo's withQuery) serialises an array query value as repeated
+            // params, matching what the route expects.
+            query: { name: chunk },
           }),
         ),
       )
