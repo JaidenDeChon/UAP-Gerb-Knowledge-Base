@@ -8,11 +8,13 @@ interface TimelineEvent {
   category?: string
   entities?: string[]
   significance?: string
+  cue?: number
+  cueApprox?: boolean
 }
 
 const props = withDefaults(
-  defineProps<{ events?: TimelineEvent[], eraSize?: number | string }>(),
-  { events: () => [], eraSize: 10 },
+  defineProps<{ events?: TimelineEvent[], eraSize?: number | string, video?: string }>(),
+  { events: () => [], eraSize: 10, video: '' },
 )
 
 /**
@@ -156,8 +158,16 @@ const { refs } = useWikiResolve(() => props.events.flatMap(e => e.entities ?? []
           :class="{ 'is-major': event.significance === 'major' }"
         >
           <span class="ufo-dot" :style="{ background: timelineTintFor(event.category) }" aria-hidden="true" />
-          <div class="font-mono text-[11px] uppercase tracking-[0.06em] text-muted-foreground">
-            {{ formatDate(event.date) }}
+          <div class="flex items-center gap-2">
+            <span class="font-mono text-[11px] uppercase tracking-[0.06em] text-muted-foreground">
+              {{ formatDate(event.date) }}
+            </span>
+            <WikiCue
+              v-if="typeof event.cue === 'number'"
+              :t="event.cue"
+              :video="props.video"
+              :approx="event.cueApprox"
+            />
           </div>
           <h4 class="mt-0.5 font-display text-[17px] font-semibold leading-6 text-foreground">
             {{ event.title }}
