@@ -13,8 +13,14 @@ interface TimelineEvent {
 }
 
 const props = withDefaults(
-  defineProps<{ events?: TimelineEvent[], eraSize?: number | string, video?: string }>(),
-  { events: () => [], eraSize: 10, video: '' },
+  defineProps<{
+    events?: TimelineEvent[]
+    eraSize?: number | string
+    video?: string
+    /** The video's own title (for the dock header), not any one entry's title. */
+    videoTitle?: string
+  }>(),
+  { events: () => [], eraSize: 10, video: '', videoTitle: '' },
 )
 
 /**
@@ -163,10 +169,12 @@ const { refs } = useWikiResolve(() => props.events.flatMap(e => e.entities ?? []
               {{ formatDate(event.date) }}
             </span>
             <WikiCue
-              v-if="typeof event.cue === 'number'"
+              v-if="typeof event.cue === 'number' && props.video"
               :t="event.cue"
               :video="props.video"
               :approx="event.cueApprox"
+              :video-title="props.videoTitle"
+              :entry-title="event.title"
             />
           </div>
           <h4 class="mt-0.5 font-display text-[17px] font-semibold leading-6 text-foreground">

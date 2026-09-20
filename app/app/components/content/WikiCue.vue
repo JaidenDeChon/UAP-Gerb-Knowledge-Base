@@ -2,8 +2,16 @@
 import { Play } from '@lucide/vue'
 
 const props = withDefaults(
-  defineProps<{ t?: number | string, video?: string, approx?: boolean | string }>(),
-  { t: 0, video: '', approx: false },
+  defineProps<{
+    t?: number | string
+    video?: string
+    approx?: boolean | string
+    /** The video's own title, e.g. for the dock header. Not the timeline entry's title. */
+    videoTitle?: string
+    /** The timeline entry this cue belongs to, folded into the accessible name when known. */
+    entryTitle?: string
+  }>(),
+  { t: 0, video: '', approx: false, videoTitle: '', entryTitle: '' },
 )
 
 const dock = useVideoDock()
@@ -25,14 +33,38 @@ const label = computed(() => {
 const isApprox = computed(() => props.approx === true || props.approx === 'true')
 
 /**
+ * The button's text content ("16:27") would otherwise win as the accessible
+ * name over `title` — screen readers announce a bare timestamp with no verb
+ * and no context. Build a real name from the same label plus, when known,
+ * the timeline entry it belongs to.
+ */
+const ariaLabel = computed(() => {
+  const base = `Jump to ${label.value} in the video`
+  return props.entryTitle ? `${base} (${props.entryTitle})` : base
+})
+
+/**
  * If the dock has no video loaded, or a different one, open() at this
  * timestamp — that both loads the video and seeks in one step. Otherwise
  * the right video is already current, so just seek (seek() also
  * un-minimises/reopens a closed-but-loaded dock).
+ *
+ * A title is always passed to open(): the dock is app-global and its title
+ * would otherwise stay whatever the previously-open video's title was.
+ * Falling back to the video ID keeps that honest even if this page never
+ * supplied a proper title, rather than silently carrying over a stale one.
  */
 function go(): void {
-  if (props.video && dock.videoId.value !== props.video) {
-    dock.open({ videoId: props.video, at: seconds.value })
+  if (!props.video) {
+    // No video resolvable — nothing to open or seek. WikiTimeline already
+    // avoids rendering this button in that case; this guard covers direct
+    // `::wiki-cue` use without a `video` attribute, so a click is a no-op
+    // with a hint rather than a silent dead click.
+    if (import.meta.dev) console.warn('[WikiCue] no `video` resolved — click ignored')
+    return
+  }
+  if (dock.videoId.value !== props.video) {
+    dock.open({ videoId: props.video, at: seconds.value, title: props.videoTitle || props.video })
     return
   }
   dock.seek(seconds.value)
@@ -45,6 +77,7 @@ function go(): void {
     class="ufo-cue"
     :class="{ 'is-approx': isApprox }"
     :title="isApprox ? 'Approximate timestamp' : 'Jump to this moment'"
+    :aria-label="ariaLabel"
     @click="go"
   >
     <Play class="size-2.5" />
