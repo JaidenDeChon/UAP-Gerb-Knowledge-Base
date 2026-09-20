@@ -11,14 +11,10 @@ const dock = useVideoDock()
 </script>
 
 <template>
-  <div v-if="props.video" class="my-6 flex items-center gap-3 rounded-lg border border-border bg-muted/30 px-4 py-3">
+  <div v-if="props.video" class="my-6 inline-flex rounded-lg border border-border bg-muted/30 px-4 py-3">
     <Button size="sm" @click="dock.open({ videoId: props.video, title: props.title })">
       <Play class="size-3.5" />
-      Watch here
+      Open mini-player
     </Button>
-    <p class="font-sans text-[13px] leading-5 text-muted-foreground">
-      Opens a player you can move and resize. It keeps playing as you browse the wiki,
-      and timestamps on this page jump straight to the moment.
-    </p>
   </div>
 </template>

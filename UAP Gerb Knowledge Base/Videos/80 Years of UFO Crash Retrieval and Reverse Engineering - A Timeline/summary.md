@@ -38,8 +38,6 @@ Throughout, the host frames each era with an "estimate of the situation" -- a cr
 
 ## Chronology
 
-Every timestamp below was checked by hand against the video's caption track.
-
 ::wiki-timeline{video="o4czWtSxGig" video-title="80 Years of UFO Crash Retrieval"}
 ---
 events:
