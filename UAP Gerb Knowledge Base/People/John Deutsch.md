@@ -28,6 +28,10 @@ Deutsch's threat is significant for several reasons:
 
 Wilson apparently heeded the threat—he did eventually become Director of the DIA (1999-2002), suggesting he dropped his attempts to gain access as ordered.
 
+## MITRE Board Membership
+
+UAP Gerb's investigation into the [[MITRE Corporation]] states that Deutsch served on MITRE's board of directors both before and during his tenure as Under Secretary of Defense for Acquisition and Technology and later Secretary of Defense — a period during which he simultaneously chaired the SAPOC Senior Review Group. UAP Gerb cites this overlap as a further example of senior officials with formal SAP gatekeeping authority holding concurrent leadership positions at MITRE.
+
 ## SAP Governance Role
 
 UAP Gerb's *Special Access Required Vol.2* names Deutsch, alongside [[Bill Perry]], as one of the historical chairs of the [[Special Access Programs (SAPs)|SAPOC]] Senior Review Group (SRG) — the body established in 1994 to serve as the primary gatekeeping structure for access to the most sensitive DoD Special Access Programs, including those the presenter alleges are connected to the UFO legacy program portfolio.

@@ -19,7 +19,7 @@ UAP Gerb's research into SAIC identified several specific connections to alleged
 
 **Wilson-Davis Memo Context:** The [[Wilson-Davis Memo]] — an alleged account of a senior government official being denied access to a restricted reverse-engineering program — names a contractor operating a Special Access Program with UAP-related materials. UAP Gerb has proposed SAIC as a plausible candidate within that memo's described contractor landscape, citing SAIC-adjacent career paths and board-level overlap among former DoD SAP governance officials.
 
-**Naval Surface Warfare Center Crane:** SAIC maintained a large contract footprint at [[Naval Surface Warfare Center Crane, Indiana|Naval Surface Warfare Center Crane]], a facility cited by witness [[Randy Anderson]] as the site of an alleged Off-World Technologies Division. UAP Gerb argued this contract presence aligns structurally with Anderson's account of controlled access to unusual technology demonstrations at Crane.
+**Naval Surface Warfare Center Crane:** SAIC maintained a large contract footprint at [[Naval Surface Warfare Center Crane|Naval Surface Warfare Center Crane]], a facility cited by witness [[Randy Anderson]] as the site of an alleged Off-World Technologies Division. UAP Gerb argued this contract presence aligns structurally with Anderson's account of controlled access to unusual technology demonstrations at Crane.
 
 **AARO and Gatekeeping Allegations:** The video argues that [[Sean Kirkpatrick]]'s tenure at [[AARO]] reflected institutional minimization of whistleblower testimony, and that SAIC-adjacent career networks contributed to an information-management rather than disclosure posture within the office.
 

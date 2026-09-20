@@ -42,7 +42,12 @@ Bush's Research and Development Board (RDB, 1947–1953) is identified as the pr
 
 Within the Manhattan Project itself, Bush served as a critical member of the Top Policy Group — the tiny civilian-political oversight body (Roosevelt/Truman, Henry Wallace, Henry Stimson, [[George C. Marshall]], Bush, and James Conant) — analogous to the UFO control groups established under Truman and Eisenhower within the National Security Council.
 
+## Grandfather of MITRE
+
+UAP Gerb's investigation into the [[MITRE Corporation]] describes Bush as MITRE's institutional "grandfather": Bush established the MIT Radiation Laboratory in 1940, which aided World War II microwave radar development until 1945 and reopened in 1951 as [[MIT Lincoln Laboratory]], an FFRDC sponsored by the Department of Defense. MIT Lincoln Laboratory in turn spun off MITRE in 1958 to lead systems engineering for the SAGE air defense program, staffing the new organization largely with Lincoln Laboratory research personnel. UAP Gerb further speculates that some of MITRE's alleged reverse-engineering work may trace back to Bush's Office of Scientific Research and Development (OSRD) anti-submarine warfare and sonar detection research during World War II, potentially connecting to later Navy-sponsored technology exploitation programs.
+
 ## Sources
 
 - [[Video - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group]]
 - [[Video - The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1]]
+- [[Video - The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]

@@ -11,6 +11,10 @@ Ronald S. Moltry served as the Under Secretary of Defense for Intelligence and S
 
 Moltry is accused by the presenter of "The Hidden Wing" of deliberately establishing [[AARO]] not as a genuine UAP investigative body but as a whistleblower honeypot — a mechanism designed to identify and neutralize individuals with knowledge of UAP legacy programs. He is further alleged to have deleted references to [[Battelle Memorial Institute]] and [[Oak Ridge National Laboratory FFRDC]] from his public professional biography; both organizations are rumored to be involved in the analysis of recovered non-human vehicle systems. The presenter cites Moltry's USD I&S role as placing him at the apex of the classified oversight chain for any such legacy programs operating through [[SAFAHA]] sensitive activities channels.
 
+## Role in Establishing Arrow/AARO and MITRE Connection
+
+UAP Gerb's investigation into [[MITRE Corporation|MITRE]] identifies Moltry as having "played a major role in establishing Arrow [AARO] and provided oversight and direction to Arrow in its early years," alongside his good friend and AARO's first director, [[Sean Kirkpatrick]]. UAP Gerb notes that Moltry has removed MITRE from his own public curriculum vitae — a detail the channel cites, in parallel with Moltry's separately documented removal of his [[Battelle Memorial Institute]] advisory board membership from public view, as evidence of a broader pattern of senior officials obscuring institutional ties relevant to UAP legacy program oversight.
+
 ## Connections to the Carlyle Group
 
 Moltry has notable ties to the [[Carlyle Group]], a private equity firm with extensive defense industry investments and a former ownership stake in [[EG&G]]:

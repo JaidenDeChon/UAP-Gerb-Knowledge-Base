@@ -23,6 +23,10 @@ In the same op-ed, Kirkpatrick claimed that no UAP witnesses or whistleblowers h
 
 Kirkpatrick consistently substitutes the terms "alien" or "extraterrestrial" for the legally precise "non-human intelligence (NHI)" — the term used in the 2024 NDAA and the Congressional Record under [[Chuck Schumer]] — which critics argue is a deliberate strategy to avoid legally binding terminology. He also drew comparisons between alleged UAP encounters (including [[Ryan Graves]]'s documented "cube within a sphere" sightings) and Chinese ball drones — a dismissal UAP researchers compare to the [[Robertson Panel]]'s use of weather balloons and swamp gas explanations.
 
+## Nonlinear Solutions and MITRE Subcontracting
+
+UAP Gerb's investigation into [[MITRE Corporation|MITRE]] notes that Nonlinear Solutions — the LLC Kirkpatrick registered shortly after leaving AARO — is now subcontracting under MITRE in connection with work for U.S. Space Command, and that Kirkpatrick's former USD I&S superior [[Ronald S. Moltry]], who established Kirkpatrick's AARO directorship, has separately removed MITRE from his public curriculum vitae.
+
 ## Post-AARO Connections and Departure
 
 Kirkpatrick stated he departed AARO "willingly" in late 2023, but investigative journalist [[Ross Coulthart]] reported that, as of October 16, 2023, Kirkpatrick had registered an LLC called **Nonlinear Solutions** at a North Carolina address he and his wife had owned since 2017. Simultaneously, he was registered with the DOE's [[Oak Ridge National Laboratory]] — managed by [[Battelle Memorial Institute]] — in a defense and intelligence capacity. Both organizations have been separately alleged by UAP researchers to be involved in recovered non-human craft analysis. The circumstances raise conflict-of-interest questions about the independence of his AARO leadership.

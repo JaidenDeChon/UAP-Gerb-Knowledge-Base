@@ -4,7 +4,7 @@ tags:
   - location
 ---
 
-**Crane, Indiana** is a small town in Martin County, Indiana, best known as the home of the [[Naval Surface Warfare Center Crane Division]] (NSWC Crane). The site was selected during World War II for munitions stockpiling specifically because of its landlocked, geographically isolated location — considered difficult to target in a strike on the continental United States. It is of significant interest in UAP research due to its alleged association with the [[Off-World Technologies Division]], a name used to describe what a credible military witness claims is an underground reverse engineering program.
+**Crane, Indiana** is a small town in Martin County, Indiana, best known as the home of the [[Naval Surface Warfare Center Crane]] (NSWC Crane). The site was selected during World War II for munitions stockpiling specifically because of its landlocked, geographically isolated location — considered difficult to target in a strike on the continental United States. It is of significant interest in UAP research due to its alleged association with the [[Off-World Technologies Division]], a name used to describe what a credible military witness claims is an underground reverse engineering program.
 
 ## UAP Significance
 
@@ -16,7 +16,7 @@ The town's proximity to and dependence on NSWC Crane makes it a key geographic a
 
 ## Related Facilities
 
-- **[[Naval Surface Warfare Center Crane, Indiana]]** — Primary federal laboratory and alleged site of the Off-World Technologies Division
+- **[[Naval Surface Warfare Center Crane]]** — Primary federal laboratory and alleged site of the Off-World Technologies Division
 
 ## Sources
 

@@ -29,7 +29,7 @@ Multiple researchers and witnesses allege that a subset of DUMBs across the Amer
 - [[Leonard Stringfield]] documented testimony from as early as 1974 alleging underground facilities at Fort Hood, Texas, and Wright-Patterson Air Force Base housing recovered UAP craft and non-human biologics.
 - [[Bill Hamilton]] compiled firsthand testimony from the late 1980s through the 1990s identifying an interconnected network of UAP-focused underground facilities in California's [[Antelope Valley]], including facilities under [[Tehachapi, California|Tehachapi (the "Anthill")]], Helendale, and Edwards AFB.
 - Witness MS, cited by UAP Gerb, described a subterranean facility at [[Dugway Proving Ground]] accessed via an elevator shaft concealed in a small surface building.
-- [[Randy Anderson]] described an off-world technologies division at [[Naval Surface Warfare Center Crane, Indiana|NSWC Crane]], housed underground.
+- [[Randy Anderson]] described an off-world technologies division at [[Naval Surface Warfare Center Crane|NSWC Crane]], housed underground.
 - UAP Gerb has reported speaking with nearly half a dozen former military personnel who have traveled to STIFs (Subterranean Facilities) across the country, including one Army officer who described traveling via underground rail from Texas to [[White Sands Missile Range]].
 
 ## Subterranean Facility (STIF) Terminology

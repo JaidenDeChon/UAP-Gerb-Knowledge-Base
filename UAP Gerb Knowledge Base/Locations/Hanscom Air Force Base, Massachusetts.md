@@ -12,6 +12,10 @@ Witness "Ed" (Witness 11063 in [[Steven Greer]]'s Disclosure Project archive) is
 
 This phase of Ed's career is distinguished from his subsequent Edwards posting as involving terrestrial systems rather than direct non-human technology testing. The Hanscom period serves as part of the broader professional biography that positions Ed credibly as an Air Force officer with legitimate access to sensitive aerospace programs, preceding his alleged read-in to the reverse engineering programs at Edwards.
 
+## MITRE's First Program Office
+
+UAP Gerb's investigation into the [[MITRE Corporation]] identifies Hanscom as the base where MITRE opened its first program office following its 1958 founding, reflecting the organization's close working relationship with MIT Lincoln Laboratory during the SAGE era. UAP Gerb also notes that the [[Air Force Office of Special Investigations]]' Office of Special Projects (AFOSI/PJ) — alleged to have historically provided counterintelligence support for MITRE's legacy program activity — maintains a permanent office at Hanscom, alongside its office in [[Crystal City, Virginia]].
+
 ## Institutional Context
 
 Hanscom's electronics and systems research mission — and its close ties to MIT Lincoln Laboratory — make it a plausible staging ground for personnel who would later move into more sensitive reverse engineering programs. Air Force Research Laboratory partnerships and specialized test and evaluation roles at Hanscom fit within the broader ecosystem of Western Range facilities and personnel pipelines described in UAP Gerb's analysis of the Hidden Wing program structure.
@@ -19,3 +23,4 @@ Hanscom's electronics and systems research mission — and its close ties to MIT
 ## Sources
 
 - [[Video - UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2]]
+- [[Video - The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]
