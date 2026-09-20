@@ -56,7 +56,15 @@ jobs:
           rows.reverse()  # oldest-first
 
           pending = [r for r in rows if r.split("|", 1)[0] not in processed]
-          pathlib.Path("/tmp/pending.txt").write_text("\n".join(pending))
+
+          # Newline-terminate every row, including the last. The `while read`
+          # loop that consumes this file discards a trailing line with no
+          # newline, which silently skipped the newest pending video on every
+          # run. An empty list still yields an empty file, so the loop is a
+          # no-op when there is nothing pending.
+          pathlib.Path("/tmp/pending.txt").write_text(
+              "".join(r + "\n" for r in pending)
+          )
 
           print(f"{len(processed)} processed, {len(rows)} live, {len(pending)} pending.")
           with open(os.environ["GITHUB_OUTPUT"], "a") as f:
