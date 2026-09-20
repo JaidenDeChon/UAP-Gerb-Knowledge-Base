@@ -1,5 +1,5 @@
 import type { GraphNode } from '../shared/types/wiki'
-import { fold, FOLDER_PRIORITY } from './vault'
+import { fold, FOLDER_PRIORITY } from './naming'
 
 /** Rank a node's category against FOLDER_PRIORITY; unlisted sorts last. */
 function rank(category: string): number {
