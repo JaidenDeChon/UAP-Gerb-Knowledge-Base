@@ -15,6 +15,8 @@ Marconi was an outspoken advocate for the possibility of extraterrestrial intell
 
 Marconi is believed to have been possibly involved in the [[RS-33 (Gabinetto RS 33)]], the top-secret Italian government group established in June 1933 to examine the craft recovered near [[Magenta, Italy]]. According to accounts provided to researcher [[Roberto Pinotti]], Marconi initially resisted [[Benito Mussolini]]'s assessment that the craft was of terrestrial origin (French, British, or German). Instead, Marconi reportedly believed the object to be extraterrestrial in nature — a position consistent with his documented interest in the possibility of non-human intelligence.
 
+UAP Gerb's broader legacy-program timeline states that RS-33 was "spearheaded" by Marconi, citing confirmation from both his daughter and grandson that he worked on the real RS-33 and was "absolutely convinced that extraterrestrials existed." The same video notes that, according to Marconi's family, it may actually have been [[Enrico Fermi]] who spearheaded RS-33, with Marconi as a participant rather than its leader.
+
 His potential involvement in RS-33 would have provided the group with expertise in electromagnetic phenomena and radio technology, possibly to analyze any signals or propulsion characteristics of the recovered craft. The group's scientific arm included confirmed member astronomer [[Gino Cecchini]], while political oversight came from Mussolini, Foreign Minister [[Galeazzo Ciano]], and Air Marshal [[Italo Balbo]].
 
 ## Death
@@ -24,3 +26,4 @@ Marconi died in July 1937 in Rome, four years after the alleged Magenta recovery
 ## Sources
 
 - [[Video - The 1933 Magenta, Italy UFO Crash]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

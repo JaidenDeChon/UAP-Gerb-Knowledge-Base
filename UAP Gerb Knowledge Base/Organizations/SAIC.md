@@ -72,6 +72,10 @@ SAIC's involvement in UAP-related work appears to span decades, with connections
 - Crash retrieval logistics and material analysis
 - Classified propulsion research including electrogravitics
 
+## 1991 Takeover of Stargate's SCI Research Portfolio
+
+UAP Gerb's *80 Years of UFO Crash Retrieval and Reverse Engineering* dates SAIC's absorption of the government's Special Compartmented Information (SCI) research initiatives — remote viewing, telekinesis, and related anomalous mental phenomena work conducted under [[Project Stargate]] — to 1991, rather than to the program's later 1995 official termination. The video states it agrees with [[David Grusch]]'s assessment that UAP legacy programs and SCI research were linked, and speculates that SAIC's 1991 takeover may have been intended to apply a more consciousness-related approach toward recovered non-human intelligence technology, potentially connecting to the alleged consciousness-interactive technology described by [[RA]] at the [[Off-World Technologies Division]] within [[Naval Surface Warfare Center Crane]].
+
 ## Consciousness Research and Psionic Programs
 
 SAIC conducted extensive research into human consciousness phenomena, remote viewing, and psychokinesis — fields directly relevant to [[RA]]'s testimony that the technology at Crane "interacted with consciousness" and responded differently to different individuals.
@@ -146,6 +150,7 @@ Based on [[RA]]'s testimony and investigative analysis:
 - [[Video - Off-World Technologies Division – UAP Technology Reverse Engineering]]
 - [[Video - Wilson-Davis Memo and US Secret UFO Reverse Engineering Programs]] (implied)
 - [[Video - Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]] (implied)
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
 
 ## Related Pages
 

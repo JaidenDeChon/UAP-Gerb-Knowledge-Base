@@ -17,6 +17,8 @@ The Act's most significant feature from a national security and oversight perspe
 
 A related category, **Transclassified Foreign Nuclear Information** (TFNI), covers information originally classified by foreign governments that pertains to nuclear programs and is incorporated into U.S. classified holdings.
 
+President Eisenhower signed the Act into law on August 30, 1954. In UAP Gerb's macro-timeline treatment of the "UFO Legacy Programs," this signing is treated as arguably the single most consequential moment in the entire history of the alleged secrecy apparatus, functioning as the primary legal container that has enabled the concealment of UFO-related material from the federal government's own executive-order classification system since that date.
+
 ## Significance in UAP Research
 
 The Atomic Energy Act's Restricted Data provisions are a recurring focus in UAP research because they represent one of the only statutory mechanisms capable of placing government programs and materials beyond the reach of both presidential oversight and standard congressional access. Researchers argue that materials from alleged UAP crash retrievals — particularly those exhibiting anomalous radiological properties or involving nuclear-adjacent technologies — could have been absorbed into DOE classification under the Act's "born classified" provisions from the late 1940s onward, effectively creating an oversight gap that has persisted for decades.
@@ -39,3 +41,4 @@ A key practical implication — emphasized in UAP Gerb's investigation — is th
 
 - [[Video - Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
 - [[Video - The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

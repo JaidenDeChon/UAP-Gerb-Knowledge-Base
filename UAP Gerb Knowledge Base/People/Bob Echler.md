@@ -13,7 +13,7 @@ Echler's inquiry was facilitated by Admiral Lord Hill Norton, a former Chief of 
 
 ## 1989 Phone Call with Bobby Ray Inman
 
-In 1989, Echler placed a telephone call to Admiral [[Bobby Ray Inman]], then retired from his roles as Director of Naval Intelligence, Director of the NSA, Deputy Director of the CIA, and Director of the classified [[National Underwater Reconnaissance Office]] (NURO). Echler asked whether recovered UFO vehicles might ever become available for technological research outside military channels.
+In October 1989, Echler placed a telephone call to Admiral [[Bobby Ray Inman]], then retired from his roles as Director of Naval Intelligence, Director of the NSA, Deputy Director of the CIA, and Director of the classified [[National Underwater Reconnaissance Office]] (NURO). Echler asked whether recovered UFO vehicles might ever become available for technological research outside military channels.
 
 Inman's response confirmed the existence of recovered vehicles: he stated that ten years earlier the answer to their availability would have been "no," but acknowledged the situation might be evolving. He directed Echler to CIA DS&T Deputy Director [[Everett Heinman]] as "the best person to ask" about recovered craft — a specific institutional referral UAP researchers treat as evidence that Inman understood the CIA DS&T as the managing authority for recovered craft programs.
 
@@ -38,3 +38,4 @@ Echler additionally claimed that the Navy conducted EMP (electromagnetic pulse) 
 - [[US Navy UFO Crash Retrieval & Reverse Engineering Programs]]
 - [[National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers]]
 - Timothy Good (relayed Echler's account of the second Shapiro meeting)
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

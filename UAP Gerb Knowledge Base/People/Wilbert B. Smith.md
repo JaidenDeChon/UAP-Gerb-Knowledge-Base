@@ -22,7 +22,7 @@ In 1950, Smith visited Washington, DC, where he met with [[Robert Sarbacher]], a
 
 Smith's 1950 memo to the Controller of Telecommunications cited these disclosures as justification for Canada to establish its own UFO investigation. He also referenced having read Frank Scully's 1950 book *Behind the Flying Saucers*, which Sarbacher reportedly told him was "fundamentally correct" in its account of recovered craft — a statement that lent indirect credibility to the controversial [[Aztec UFO Case]] described in that book.
 
-Historian [[Arthur Bray]] later uncovered both the 1950 Department of Transport memo and Smith's handwritten meeting notes from Sarbacher's estate, providing documentary verification of what Smith claimed to have been told.
+Historian [[Arthur Bray]] later uncovered both the 1950 Department of Transport memo and Smith's handwritten meeting notes from Sarbacher's estate, providing documentary verification of what Smith claimed to have been told. The memo itself was classified top secret until 15 September 1969; UAP Gerb notes its declassification was likely an accidental downgrade rather than a deliberate release. [[Arthur Bray]] and [[Stanton Friedman]] jointly obtained a copy of the document in 1978.
 
 ## Project Magnet and Project Second Story
 
@@ -44,3 +44,4 @@ Wilbert B. Smith represents a rare case in UAP research: a credentialed governme
 ## Sources
 
 - [[Video - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

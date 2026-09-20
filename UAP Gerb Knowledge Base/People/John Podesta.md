@@ -15,6 +15,10 @@ Fish's email stated that "one of the government programs that collects hard data
 
 The email represented a rare on-the-record claim from a cleared contractor with direct access to DSP personnel, sent to one of the most senior political figures in the United States. The fact that it was preserved in campaign communications and later disclosed via WikiLeaks made it one of the few documented instances of UAP-related information being shared at the highest levels of US political leadership.
 
+## Alleged "Disclosure President" Effort
+
+UAP Gerb connects Podesta to an alleged effort, run alongside the [[AATIP (Advanced Aerospace Threat Identification Program)|AATIP]]-era National Security Council activities reportedly given "top cover" by DNI [[James Clapper]], to position [[Hillary Clinton]] as a "disclosure president" in the event she won the 2016 presidential election. UAP Gerb describes this effort as connected to [[To The Stars Academy]], alongside Podesta, an unnamed general, Lockheed Skunk Works personnel, and possibly current or former intelligence agency officials.
+
 ## To The Stars Academy
 
 Podesta is listed as an advisor to To The Stars Academy of Arts & Science, the organization founded by Tom DeLonge that played a role in bringing Navy UAP encounter footage to public attention.
@@ -22,3 +26,4 @@ Podesta is listed as an advisor to To The Stars Academy of Arts & Science, the o
 ## Sources
 
 - [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

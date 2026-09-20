@@ -10,6 +10,8 @@ Edwards Air Force Base is a United States Air Force installation located in the 
 
 Edwards AFB is identified by the presenter of "The Hidden Wing" as the alleged primary site for test and evaluation of [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles (ARVs)]] and derivative non-human airframes under the alleged [[Hidden Wing]] program portfolio. Witness "Ed," a retired Air Force officer, claimed to have served on an ARV T&E program at the [[Edwards 412th Test Wing]] involving both manned and unmanned reverse-engineered craft, with pilots trained at the [[Air Force Test Pilot School]]. Edwards is also alleged to be the destination for non-human and derivative craft transported from [[Air Force Plant 42]] for advanced test and evaluation activities.
 
+UAP Gerb's "80 Years of UFO Crash Retrieval and Reverse Engineering" timeline video describes Edwards as "the test and evaluation hub" for piloting alleged NHI craft, ARVs, and derivative airframes, and traces this role through the full lineage of Air Force Materiel Command (AFMC) precursor organizations — Air Materiel Command, Air Research and Development Command, and Air Force Systems Command — each of which is alleged to have maintained a major presence at Edwards through the flight-test chain, culminating in AFMC's modern-day Air Force Test Center (AFTC) and Air Force Research Laboratory (AFRL) elements operating out of the [[Edwards 412th Test Wing]] major range and test facility base (MRTFB). The presenter identifies Edwards and [[Wright-Patterson Air Force Base]] as the Air Force's two most critical legacy program locations.
+
 ## Connection to TR-3B and Edgar Fouché
 
 [[Edgar Fouché]] was recruited to [[Area 51]] Groom Lake out of his station at Edwards Air Force Based Jet Propulsion Laboratory, which he claimed also housed deep underground facilities. Fouché was assigned to Detachment 3 AFTC (Air Force Flight Test Center), the Edwards detachment that runs operations at Area 51. One of Fouché's five key sources, "Doc," was an SR-71 spy pilot and USAF test pilot at Edwards. Fouché claimed to have observed triangular [[TR-3B]] prototypes one night in 1975 high in the atmosphere over Edwards, as well as in 1976 within the southern Nellis range and in 1979 at Groom Lake.
@@ -25,3 +27,4 @@ Multiple informants compiled by [[Bill Hamilton]] described underground storage 
 - [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
 - [[Video - The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
 - [[Video - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

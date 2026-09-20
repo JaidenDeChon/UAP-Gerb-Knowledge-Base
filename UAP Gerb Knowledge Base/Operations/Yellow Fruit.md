@@ -31,6 +31,9 @@ Yellow Fruit's exposure, combined with Reagan's 1982 Executive Order 12356 endin
 
 This process of fragmentation continued through 1994, when [[Bill Perry]]'s reorganization of the SAPOC permanently transitioned legacy program oversight into a quasi-government and industry panel, completing the dismemberment of the centralized [[Manhattan Project 2.0]].
 
+UAP Gerb's *80 Years of UFO Crash Retrieval and Reverse Engineering* reiterates this framing within its broader timeline, again citing the 1983 Yellow Fruit USAP scandal — with its staged retirements, non-official covers, cutout funding, and exclusion of the Joint Chiefs of Staff — as directly comparable in structure to the UFO legacy programs, and as part of the same 1982–1985 wave of oversight reforms (alongside EO 12356 and NSD 159) that forced legacy programs to bury deeper into secrecy.
+
 ## Sources
 
 - [[Video - The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

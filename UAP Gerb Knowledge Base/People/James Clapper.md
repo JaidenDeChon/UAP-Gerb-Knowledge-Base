@@ -9,7 +9,7 @@ James Clapper is a retired U.S. Air Force Lieutenant General who held several of
 
 ## Role in UAP Programs
 
-[[David Grusch]] and other sources cited in UAP research allege that Clapper is the closest singular controlling figure of UAP legacy programs since [[Dick Cheney]] departed government in 2009. Clapper is alleged to have managed crash retrieval and reverse engineering programs across his multiple tours at DIA, USDI, and ODNI, holding dual-hatted informal authority over these programs beyond his official portfolio. He allegedly recruited [[Stephanie O'Sullivan]] specifically to serve as Principal Deputy DNI, in part to ensure continuity of legacy program management within the ODNI. An Obama-era initiative allegedly involving Clapper, O'Sullivan, and [[Luis Elizondo]] reportedly sought to position [[Hillary Clinton]] as a potential disclosure president in the event of her 2016 election victory.
+[[David Grusch]] and other sources cited in UAP research allege that Clapper is the closest singular controlling figure of UAP legacy programs since [[Dick Cheney]] departed government in 2009. Clapper is alleged to have managed crash retrieval and reverse engineering programs across his multiple tours at DIA, USDI, and ODNI, holding dual-hatted informal authority over these programs beyond his official portfolio. He allegedly recruited [[Stephanie O'Sullivan]] specifically to serve as Principal Deputy DNI, in part to ensure continuity of legacy program management within the ODNI. UAP Gerb additionally names Deputy Director of National Intelligence for Intelligence Integration Michael Dempsey, alongside O'Sullivan and NRO Director [[Betty Sapp]], as part of the diminished leadership structure that managed the remnants of the legacy program portfolio under Clapper following [[Dick Cheney]]'s January 2009 departure from government. An Obama-era initiative allegedly involving Clapper, O'Sullivan, and [[Luis Elizondo]] reportedly sought to position [[Hillary Clinton]] as a potential disclosure president in the event of her 2016 election victory.
 
 ## Grusch's Direct Testimony
 
@@ -32,3 +32,4 @@ UAP Gerb's *Special Access Required Vol.2* names Clapper as the specific officia
 - [[Video - Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2]]
 - [[Video - The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1]]
 - [[Video - Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

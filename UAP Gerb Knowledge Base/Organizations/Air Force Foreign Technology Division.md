@@ -25,6 +25,9 @@ FTD's location at [[Wright-Patterson Air Force Base]] connected it to decades of
 
 FTD underwent several reorganizations and name changes over the decades, eventually being absorbed into the Air Force National Air and Space Intelligence Center (NASIC), which continues similar foreign technology analysis missions today.
 
+UAP Gerb's *80 Years of UFO Crash Retrieval and Reverse Engineering* identifies FTD's 1961 formation, out of Air Force Systems Command, as the formalization of the Foreign Material Program (FMP) — encompassing foreign material acquisition (FMA) and foreign material exploitation (FME) — itself administered under the Defense Intelligence Agency's Directorate of Science and Technology. The video distinguishes this Air Force FTD explicitly from the separate [[U.S. Army Foreign Technology Division]] that Lieutenant Colonel [[Philip J. Corso]] served under, and identifies FTD as the direct institutional precursor to [[National Air and Space Intelligence Center (NASIC)]], formally established in February 2003.
+
 ## Sources
 
 - [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

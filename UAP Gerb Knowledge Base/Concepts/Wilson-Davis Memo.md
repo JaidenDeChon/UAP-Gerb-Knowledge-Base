@@ -63,6 +63,10 @@ Davis concluded the meeting by promising to keep it private for personal use onl
 
 **Chris Mellon** confirmed the memo's authenticity in a website post, writing the memo "provided specific information lending credence to sensational reports that an official US government program is actively seeking to exploit recovered technology that was fashioned by some other species or perhaps advanced AI machines."
 
+## UAP Gerb's Assessment of Scope
+
+In the "80 Years of UFO Crash Retrieval and Reverse Engineering" timeline video, the presenter offers a specific theory on the scope of what Wilson actually encountered: rather than the entire UFO legacy program portfolio, Wilson is assessed to have come "toe-to-toe" with one specific legacy program activity, likely falling under the cognizant authority of the modern-day Under Secretary of Defense for Acquisition and Sustainment (USD A&S) and probably involving the Air Force and an unnamed aerospace contractor — speculated to be [[TRW]]. This assessment is grounded in the memo's own wording: the Watch Committee allegedly told Wilson the activity involved "something recovered years ago in the past" with "technological hardware recovered" — phrasing the presenter notes is singular and therefore does not comport with [[David Grusch]]'s later claim of 25 to 100 recovered craft. The video also reiterates several summary points drawn from the memo: the programs existed in a special subset of carve-out waived unacknowledged SAPs; they were safeguarded from inside access by the "Watch Committee" and the SAPOC Senior Review Group; and the Bigot List at the time featured no White House, presidential, or Congressional names, consistent with the 1994 Perry-era reorganization.
+
 ## Significance to UAP Disclosure
 
 The Wilson-Davis Memo is frequently cited as evidence of:
@@ -78,3 +82,4 @@ The memo's entry into the U.S. Congressional Record in 2022 lent institutional w
 
 - [[Video - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs]]
 - [[Video - The 1950s Del Rio, Texas UFO Crashes]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

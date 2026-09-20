@@ -12,6 +12,8 @@ The Advanced Aerospace Threat Identification Program (AATIP, also rendered ATIP)
 
 UAP Gerb's *Special Access Required Vol.2* takes a specific position on this dispute, arguing that ATIP was in fact nothing more than an unfunded, informal working group — not a real program with its own appropriations or administrative structure — and that AAWSAP, not ATIP, was the genuinely DIA-funded program. The video alleges ATIP instead functioned as a National Security Council cover vehicle championed by [[James Clapper]], allowing officials to discuss aspects of the alleged legacy program apparatus "outside" that apparatus's usual secrecy, and connects Elizondo's use of the ATIP platform to his separate, self-described 2013–2017 role as director of the [[National Program Special Management Staff (NPMS)]] under Clapper's former USD(I&S) office. [[Luis Elizondo]] has publicly described conducting his UAP investigation work "together" with [[Jay Stratton]] and a wider team during this period.
 
+UAP Gerb's *80 Years of UFO Crash Retrieval and Reverse Engineering* states that AATIP operated roughly from 2009 to 2017 (elsewhere in the same video described as beginning in 2012) partly as cover for several National Security Council activities with top cover blessed by [[James Clapper]] for what the video characterizes as a partial-disclosure initiative. The video alleges this effort resulted in attempts, involving [[John Podesta]], to position Hillary Clinton as a "disclosure president," as well as in the formation of [[To The Stars Academy]] alongside Podesta, a general referred to as "McAlant," Lockheed [[Lockheed Martin Skunk Works|Skunk Works]] personnel, and possibly additional intelligence agency figures. The video describes the alleged effort as seeking to conduct psychological operations, coordinate narratives, and disseminate partial information on the UAP topic, with "equity protection" — safeguarding program secrecy from both the American public and the wider US government — as its underlying purpose, while stating it does not know with confidence why this effort was undertaken.
+
 ## Five Observables Framework
 
 Under Elizondo's leadership, AATIP developed a framework for identifying and categorizing anomalous aerial phenomena based on five observable characteristics that distinguish UAP from conventional aircraft:
@@ -43,3 +45,4 @@ AATIP's work laid the groundwork for subsequent official UAP investigations, inc
 - [[Video - Incredible UFO Footage - FLYBY]]
 - [[Video - Incredible UFO Footage - METAPOD]]
 - [[Video - Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

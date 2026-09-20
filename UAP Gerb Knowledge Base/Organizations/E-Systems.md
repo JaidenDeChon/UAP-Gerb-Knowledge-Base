@@ -11,6 +11,9 @@ E-Systems, Inc. was a major U.S. defense-electronics contractor that originated 
 
 UAP Gerb's *Special Access Required Vol.2* cites E-Systems (via its LTV Aerospace lineage) as an example of a "self-fund cutout" company — a private entity the video alleges legacy UFO programs have historically used to route funding and personnel outside standard government budgetary and oversight channels, drawing a structural parallel to Lieutenant Colonel Duncan's use of the private consulting firm BSI to provide cover for the [[Yellow Fruit]] program discussed in Part One of the series.
 
+UAP Gerb's *80 Years of UFO Crash Retrieval and Reverse Engineering* situates Raytheon's 1995 acquisition of E-Systems — described in that video as "the former LTV Aerospace and a CIA cutout shell company" — within the broader defense industrial base "Last Supper" consolidation of 1993–1997, in which the number of major US defense contractors shrank from 51 to five following Secretary of Defense Les Aspin and Deputy Secretary William Perry's 1993 warning to industry.
+
 ## Sources
 
 - [[Video - Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

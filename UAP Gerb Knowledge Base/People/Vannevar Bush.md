@@ -23,6 +23,7 @@ Bush appears in multiple independent lines of UAP testimony and documentation:
 - **Sarbacher's 1983 Steinman Letter**: Sarbacher confirmed in writing that Bush was "definitely involved" in crash retrieval efforts, alongside [[John Von Neumann]] and [[J. Robert Oppenheimer]].
 - **Eric Walker's Confirmation (1990)**: During recorded interviews with Dr. Henry Victorian, [[Eric Walker]] confirmed Bush's involvement in the UFO program.
 - **Majestic 12 Documents**: The "Briefing Document: Operation Majestic 12" specifically names Bush as a member of the team tasked by President Truman to investigate crashed UAP. Researchers note that the origin of the MJ-12 concept can be traced partly to Bush's creation of the Joint Research and Development Board, which consisted of twelve members — potentially the structural basis for a group of twelve authorized UAP insiders.
+- **Andrew Kissner's Estimate of the Situation (1994)**: Former New Mexico state representative [[Andrew Kissner]], who privately interviewed legacy program sources through 1994, stated that starting in 1947 collected UFOs recovered from Roswell and White Sands were processed and analyzed by teams operating under Bush — an independent line of testimony UAP Gerb says lines up with Sarbacher's disclosures to Smith.
 
 ## National Advisory Committee for Aeronautics (NACA)
 
@@ -51,3 +52,4 @@ UAP Gerb's investigation into the [[MITRE Corporation]] describes Bush as MITRE'
 - [[Video - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group]]
 - [[Video - The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1]]
 - [[Video - The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

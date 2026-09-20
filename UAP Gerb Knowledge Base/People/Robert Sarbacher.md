@@ -9,7 +9,7 @@ Dr. Robert Irving Sarbacher was an American physicist, graduate of Harvard Unive
 
 ## Background and Career
 
-Sarbacher founded and served as the Dean of the Washington Institute of Technology and was a scientific consultant to the US Marine Corps. His principal area of research was the remote control of rockets. He served as a member of the DoD's joint Research and Development Board under the chairmanship of [[Vannevar Bush]], whose board Sarbacher described as the institutional home for a small group conducting classified UFO analysis.
+Sarbacher founded and served as the Dean of the Washington Institute of Technology and was a scientific consultant to the US Marine Corps. He also taught at Harvard, the Illinois Institute of Technology, and Radcliffe, and served as dean of the graduate school and chairman of the graduate council at the Georgia Institute of Technology. His principal area of research was the remote control of rockets. He served as a member of the DoD's joint Research and Development Board under the chairmanship of [[Vannevar Bush]], whose board Sarbacher described as the institutional home for a small group conducting classified UFO analysis.
 
 His son, Robert Sarbacher Jr., later told researcher D.M. Duncan (who located him near the time of Sarbacher's death in 1987) that his father spoke sparingly about UFOs, but confirmed he knew they were real "for the obvious reason that they would be going 600 mph and then make a 90-degree turn in midair without slowing down, separated from all inertia and gravity." According to the son, Sarbacher was called upon to develop a missile equipped with cameras — similar to those on the V-2 rockets — capable of tracking UAP at speed, as conventional aircraft were too slow to pursue them.
 
@@ -55,3 +55,4 @@ Sarbacher's testimony is considered among the most credible early government ins
 ## Sources
 
 - [[Video - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

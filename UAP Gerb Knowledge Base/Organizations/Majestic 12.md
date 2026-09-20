@@ -106,7 +106,13 @@ UAP Gerb's investigation into the Manhattan Project 2.0 security architecture th
 
 The Eisenhower Briefing Document names Gordon Gray as an original MJ-12 member (at the time Truman's Assistant Secretary of the Army). Notably, from 1958 to 1961, Gray also served as Eisenhower's National Security Advisor — a member of the 5412 Committee — providing a direct personnel link between the alleged MAJ-12 and the 5412 structure.
 
-The 5412 Committee's informal meetings — which, like all NSC informal meetings with members of relevant expertise, can be held off the books and go unrecorded — provided the UFO control group a mechanism to operate without formal documentation, effectively creating a self-perpetuating structure that could transcend presidential oversight. This group evolved through Nixon's 303 Committee and subsequent iterations before fracturing during the 1980s SAP reform era.
+The 5412 Committee's informal meetings — which, like all NSC informal meetings with members of relevant expertise, can be held off the books and go unrecorded — provided the UFO control group a mechanism to operate without formal documentation, effectively creating a self-perpetuating structure that could transcend presidential oversight. This group evolved through the 303 Committee and subsequent iterations before fracturing during the 1980s SAP reform era.
+
+## Renaming to the 303 Committee (1964)
+
+UAP Gerb's *80 Years of UFO Crash Retrieval and Reverse Engineering* traces a specific administrative continuation of the hidden MJ-12 steering group through National Security Action Memorandum (NSAM) 303, issued in June 1964 under President Lyndon B. Johnson. NSAM 303 renamed the 5412 Committee's Special Group the "303 Committee," a change the video characterizes as "little more than a name change" for bookkeeping purposes rather than a substantive reorganization — with the renamed body continuing to house the alleged MJ-12 function within the National Security Council's covert activities oversight structure into the subsequent Nixon administration.
+
+The video frames this full administrative lineage — MJ-12 hidden within NSC 10/2 (1947), absorbed into the 5412 Committee's Special Group (1954), renamed the 303 Committee via NSAM 303 (1964) — as remaining essentially intact through the "golden era" of the legacy programs, only fracturing and becoming genuinely difficult to trace during the Cold War reorganization period the video dates from 1978 to 1994, when centralized legacy leadership is alleged to have progressively lost control over program offices, assets, materials, and records.
 
 ## Sources
 
@@ -114,3 +120,4 @@ The 5412 Committee's informal meetings — which, like all NSC informal meetings
 - [[Video - The 1950s Del Rio, Texas UFO Crashes]]
 - [[Video - The Majestic-12 Documents With Ryan S. Wood]]
 - [[Video - The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

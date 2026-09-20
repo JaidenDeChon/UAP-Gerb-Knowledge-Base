@@ -27,6 +27,12 @@ The craft had impacted approximately 20 inches into the desert sand, bore no lan
 
 The 16 AEC specialists were sworn to secrecy by an Air Force Colonel and instructed to record findings longhand only — no typed or reproduced documents were permitted. Stansel wrote his report and was returned to Phoenix.
 
+Separately from his 1973 affidavit, Stansel's personal diary from his time as a technical-director subordinate on Operation Upshot-Knothole's Armed Forces Special Weapons Project (AFSWP) assignments recorded a direct reference to the crash retrieval and to [[Edward Bushnell Doll|Dr. Doll]]:
+
+> "Dr. Dah was directly in charge of the UFO crash retrieval. Spent most of the day on Frenchman's Flat surveying cubicles and supervising welding of plate girder bridge sensor which cracked after last shot. Drank brew and Eve read funny call from Dr. Dah about 1000. I'm going on a special job tomorrow."
+
+("Dah" is the auto-caption rendering of Doll's name used by UAP Gerb when quoting this diary entry.) The diary entry independently corroborates Stansel's affidavit naming [[Edward Bushnell Doll]] as the individual who coordinated his assignment to the Kingman crash site, and Dr. [[Eric Henry Wang]] as the scientific lead for studying the recovered disc.
+
 ## Researcher Investigation
 
 [[Richard Gild Jr.]] conducted archival research that confirmed Stansel's professional background — his employment at Wright-Patterson, his AEC contract work, and his involvement in nuclear testing programs — through records including a Medium article Gild published. This independent verification distinguishes Stansel from more contested figures in UAP disclosure who lack verifiable biographical records.
@@ -39,3 +45,4 @@ The significance of Stansel's posting under Dr. [[Eric Henry Wang]] at the Offic
 
 - [[Video - The 1953 Kingman, Arizona UFO Crash]]
 - [[Video - Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2]]
+- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
