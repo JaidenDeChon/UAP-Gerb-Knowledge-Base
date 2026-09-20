@@ -15,7 +15,11 @@ const props = withDefaults(
   { events: () => [], eraSize: 10 },
 )
 
-/** Leading 4-digit year, or null for a vague date like "c. 1980s". */
+/**
+ * Leading 4-digit year, including for `c.`-prefixed circa dates (e.g.
+ * "c. 1980s" -> 1980, so it groups into the 1980s era, not a catch-all).
+ * Null only when no year can be parsed at all (e.g. "Unknown").
+ */
 function yearOf(date: string): number | null {
   const m = /^\s*(?:c\.\s*)?(\d{4})/.exec(date)
   return m ? Number(m[1]) : null
@@ -104,6 +108,7 @@ const { refs } = useWikiResolve(() => props.events.flatMap(e => e.entities ?? []
       <button
         type="button"
         class="ufo-chip" :class="{ 'is-on': active === null }"
+        :aria-pressed="active === null"
         @click="active = null"
       >
         All
@@ -114,6 +119,7 @@ const { refs } = useWikiResolve(() => props.events.flatMap(e => e.entities ?? []
         type="button"
         class="ufo-chip"
         :class="{ 'is-on': active === category }"
+        :aria-pressed="active === category"
         :style="{ '--chip': timelineTintFor(category) }"
         @click="active = active === category ? null : category"
       >
@@ -123,6 +129,7 @@ const { refs } = useWikiResolve(() => props.events.flatMap(e => e.entities ?? []
       <button
         type="button"
         class="ufo-chip" :class="{ 'is-on': majorOnly }"
+        :aria-pressed="majorOnly"
         @click="majorOnly = !majorOnly"
       >
         Major only
@@ -184,6 +191,10 @@ const { refs } = useWikiResolve(() => props.events.flatMap(e => e.entities ?? []
 .ufo-chip.is-on {
   border-color: var(--chip, hsl(var(--primary)));
   color: var(--chip, hsl(var(--primary)));
+  /* Non-colour cue so active state survives greyscale/colour-blind viewing (WCAG 1.4.1). */
+  font-weight: 800;
+  text-decoration: underline;
+  text-underline-offset: 2px;
 }
 
 .ufo-rail {
