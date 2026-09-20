@@ -33,5 +33,35 @@ describe('clampRect', () => {
   it('never shrinks below the 240px minimum width', () => {
     const r = clampRect({ x: 0, y: 0, w: 100, h: 56 }, 1440, 900)
     expect(r.w).toBe(240)
+    expect(r.h).toBe(135)
+  })
+
+  it('binds on height for a normal viewport, preserving 16:9', () => {
+    const r = clampRect({ x: 0, y: 0, w: 1000, h: 563 }, 1200, 300)
+    expect(r.y + r.h).toBeLessThanOrEqual(300)
+    expect(Math.abs(r.w / r.h - 16 / 9)).toBeLessThan(0.02)
+  })
+
+  it('returns the minimum-size rect at the origin for a zero-height viewport', () => {
+    const r = clampRect({ x: 40, y: 40, w: 360, h: 203 }, 1440, 0)
+    expect(r).toEqual({ x: 0, y: 0, w: 240, h: 135 })
+    expect(Number.isFinite(r.w)).toBe(true)
+    expect(Number.isFinite(r.h)).toBe(true)
+    expect(r.w).toBeGreaterThan(0)
+    expect(r.h).toBeGreaterThan(0)
+  })
+
+  it('returns the minimum-size rect at the origin for a zero-width viewport', () => {
+    const r = clampRect({ x: 40, y: 40, w: 360, h: 203 }, 0, 900)
+    expect(r).toEqual({ x: 0, y: 0, w: 240, h: 135 })
+    expect(Number.isFinite(r.w)).toBe(true)
+    expect(Number.isFinite(r.h)).toBe(true)
+    expect(r.w).toBeGreaterThan(0)
+    expect(r.h).toBeGreaterThan(0)
+  })
+
+  it('shrinks below the 240px preference when the viewport itself is narrower', () => {
+    const r = clampRect({ x: 0, y: 0, w: 384, h: 216 }, 200, 400)
+    expect(r.x + r.w).toBeLessThanOrEqual(200)
   })
 })

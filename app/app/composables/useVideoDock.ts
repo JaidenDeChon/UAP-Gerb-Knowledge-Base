@@ -12,14 +12,30 @@ export const DEFAULT_RECT: DockRect = { x: 24, y: 24, w: 384, h: Math.round(384 
  * Geometry is persisted across sessions, so a rect saved on a large display can
  * come back on a small one — without this the dock would open offscreen and be
  * unreachable. Pure, so it is unit-tested without a DOM.
+ *
+ * Fully-inside is the contract and wins unconditionally: the 240px minimum
+ * width is a preference, not a hard floor. When the viewport genuinely can't
+ * fit 240px, the rect shrinks below it rather than overflowing. A degenerate
+ * viewport (non-finite, zero, or negative width/height — reachable if this
+ * runs while the layout is hidden or backgrounded) returns the minimum-size
+ * rect at the origin rather than collapsing to 0x0, which would persist as
+ * its own unreachable trap; `hydrate()` re-clamps once a real viewport exists.
  */
 export function clampRect(rect: DockRect, vw: number, vh: number): DockRect {
-  let w = Math.max(MIN_W, Math.min(rect.w, vw))
-  let h = Math.round(w / RATIO)
-  if (h > vh) {
-    h = Math.max(Math.round(MIN_W / RATIO), vh)
-    w = Math.round(h * RATIO)
+  if (!Number.isFinite(vw) || !Number.isFinite(vh) || vw <= 0 || vh <= 0) {
+    return { x: 0, y: 0, w: MIN_W, h: Math.round(MIN_W / RATIO) }
   }
+
+  // Fit width first, preferring the minimum width but never exceeding the viewport.
+  let w = Math.min(vw, Math.max(MIN_W, rect.w))
+  let h = Math.round(w / RATIO)
+
+  // If the width-derived height overflows, bind on height instead and re-derive width.
+  if (h > vh) {
+    h = vh
+    w = Math.min(vw, Math.round(h * RATIO))
+  }
+
   const x = Math.max(0, Math.min(rect.x, Math.max(0, vw - w)))
   const y = Math.max(0, Math.min(rect.y, Math.max(0, vh - h)))
   return { x, y, w, h }
@@ -97,8 +113,20 @@ export function useVideoDock() {
     }
   }
 
+  /**
+   * Read and clear the pending seek atomically. This is the intended way for
+   * the player to consume it: returning-then-nulling in one step means a
+   * re-firing watcher can't re-apply a stale seek, and a value that's already
+   * been taken is never silently lost or reapplied.
+   */
+  function takePendingSeek(): number | null {
+    const value = pendingSeek.value
+    pendingSeek.value = null
+    return value
+  }
+
   return {
     videoId, title, visible, minimised, rect, pendingSeek,
-    hydrate, open, close, toggleMinimise, seek,
+    hydrate, open, close, toggleMinimise, seek, takePendingSeek,
   }
 }
