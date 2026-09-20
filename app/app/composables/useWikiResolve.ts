@@ -8,6 +8,32 @@ import type { MaybeRefOrGetter } from 'vue'
  */
 const CHUNK_SIZE = 200
 
+/** Splits `list` into ordered, contiguous chunks of at most `size` items.
+ * Pure — no Nuxt runtime involved — so it's unit-tested directly. */
+export function chunkNames(list: string[], size = CHUNK_SIZE): string[][] {
+  const chunks: string[][] = []
+  for (let i = 0; i < list.length; i += size) {
+    chunks.push(list.slice(i, i + size))
+  }
+  return chunks
+}
+
+/**
+ * Flattens each chunk's settled `/api/resolve` result back into one array,
+ * positionally aligned with the original (pre-chunking) name list — chunk 0's
+ * results first, then chunk 1's, and so on, exactly the order `chunkNames`
+ * sliced them from. A rejected chunk degrades to `null` for just its own
+ * names rather than dropping every link on the page. Pure, like `chunkNames`.
+ */
+export function mergeChunkResults(
+  chunks: string[][],
+  settled: PromiseSettledResult<(NoteRef | null)[]>[],
+): (NoteRef | null)[] {
+  return settled.flatMap((result, i) =>
+    result.status === 'fulfilled' ? result.value : chunks[i]!.map(() => null),
+  )
+}
+
 /**
  * Resolve plain page names (as written in an MDC block's YAML) to note refs.
  *
@@ -35,10 +61,7 @@ export function useWikiResolve(names: MaybeRefOrGetter<string[]>) {
     async (): Promise<(NoteRef | null)[]> => {
       if (!list.value.length) return []
 
-      const chunks: string[][] = []
-      for (let i = 0; i < list.value.length; i += CHUNK_SIZE) {
-        chunks.push(list.value.slice(i, i + CHUNK_SIZE))
-      }
+      const chunks = chunkNames(list.value)
 
       const settled = await Promise.allSettled(
         chunks.map(chunk =>
@@ -48,12 +71,7 @@ export function useWikiResolve(names: MaybeRefOrGetter<string[]>) {
         ),
       )
 
-      // Concatenate in chunk order so the result stays positionally aligned
-      // with `list`. A chunk that fails degrades to nulls for just its own
-      // names, rather than dropping every link on the page.
-      return settled.flatMap((result, i) =>
-        result.status === 'fulfilled' ? result.value : chunks[i]!.map(() => null),
-      )
+      return mergeChunkResults(chunks, settled)
     },
     { watch: [list], default: () => [] },
   )
