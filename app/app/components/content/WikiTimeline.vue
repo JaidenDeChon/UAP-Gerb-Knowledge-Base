@@ -75,11 +75,48 @@ const sortedEvents = computed<TimelineEvent[]>(() =>
     })
     .map(({ event }) => event))
 
-/* -- filters -- */
+/* -- filters --
+ *
+ * Persisted in the URL query (?cat=…&major=1) rather than local refs alone,
+ * so navigating away and back (which remounts this component) restores the
+ * same filtered view instead of resetting it. router.replace, not push —
+ * toggling a chip must not add history entries the reader has to click back
+ * through. Params are omitted entirely at the default (no category, major
+ * off) so a clean page keeps a clean URL.
+ *
+ * Limitation: the query keys ('cat', 'major') are global to the page, not
+ * scoped per instance. A page with two <WikiTimeline>s would have them
+ * fight over the same keys. The vault currently has exactly one
+ * ::wiki-timeline per page (the pilot page), so this hasn't been an issue —
+ * scoping the keys (e.g. by a `timelineId` prop) would be the fix if a
+ * second timeline is ever added to one page.
+ */
 const categories = computed(() =>
   [...new Set(props.events.map(e => e.category).filter(Boolean))].sort() as string[])
-const active = ref<string | null>(null)
-const majorOnly = ref(false)
+
+const route = useRoute()
+const router = useRouter()
+
+function queryString(key: string): string | null {
+  const raw = route.query[key]
+  const value = Array.isArray(raw) ? raw[0] : raw
+  return typeof value === 'string' && value ? value : null
+}
+
+const active = ref<string | null>(queryString('cat'))
+const majorOnly = ref(queryString('major') === '1')
+
+function syncFiltersToQuery(): void {
+  const query = { ...route.query }
+  if (active.value) query.cat = active.value
+  else delete query.cat
+  if (majorOnly.value) query.major = '1'
+  else delete query.major
+  router.replace({ query })
+}
+
+watch(active, syncFiltersToQuery)
+watch(majorOnly, syncFiltersToQuery)
 
 const visible = computed(() => sortedEvents.value.filter((e) => {
   if (active.value && e.category !== active.value) return false
