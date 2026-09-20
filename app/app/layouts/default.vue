@@ -42,6 +42,7 @@ useNuxtApp().hook('page:finish', () => {
     </div>
 
     <AppCommandPalette />
+    <WikiVideoDock />
   </div>
 </template>
 
