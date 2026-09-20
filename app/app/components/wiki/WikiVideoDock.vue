@@ -232,7 +232,10 @@ const style = computed(() => isMobile.value
 <style scoped>
 .ufo-dock {
   position: fixed;
-  z-index: 70;
+  /* Below the command palette's overlay/content (z-50, app/components/ui/dialog/*)
+     and the mobile sidebar drawer + scrim (z-60/z-50, app/layouts/default.vue) so
+     neither surface gets covered by (or stays clickable through) a docked player. */
+  z-index: 40;
   overflow: hidden;
   border: 1px solid hsl(var(--border));
   border-radius: var(--radius-lg);
