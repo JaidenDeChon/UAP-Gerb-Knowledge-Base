@@ -692,9 +692,18 @@ into a seam between windows). Each chronology row is reduced to a set of
 "distinctive tokens" — capitalised words (minus a small stopword list) plus
 any four-digit `18xx`/`19xx`/`20xx` year, pulled from its `title`, `summary`,
 `entities`, and `date` — and matched against the same token extraction run
-over every window. The window with the highest `hit / len(want)` overlap
-wins; a row that produces no tokens at all (e.g. no title/summary/entities/
-year worth extracting) is skipped rather than assigned an arbitrary window.
+over every window. **`entities` is not run through that same extraction,
+though:** each entity string is added as-is, lowercased whole, not split into
+capitalised-word tokens. A single-word entity (`"Roswell"` → `"roswell"`)
+still matches a window token fine, but a multi-word entity (`"David Grusch"`
+→ `"david grusch"`) becomes one token containing a space, which can never
+equal any of the single-word tokens extracted from a caption window — so a
+cue relying solely on a multi-word entity to match will never score a hit.
+Keep `title`/`summary` phrased so the distinguishing words appear there too;
+don't rely on `entities` alone. The window with the highest `hit /
+len(want)` overlap wins; a row that produces no tokens at all (e.g. no
+title/summary/entities/year worth extracting) is skipped rather than
+assigned an arbitrary window.
 Output rows are `{ t: number, label: string, confidence: "low", match:
 string }`, sorted ascending by `t`, where `label` is copied from the row's
 `title` (this is the join key used when merging into a note's timeline YAML,
