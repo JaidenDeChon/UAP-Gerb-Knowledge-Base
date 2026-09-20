@@ -64,14 +64,31 @@ const children = computed(() => props.node.children ?? [])
 </template>
 
 <style scoped>
-.ufo-org {
+/* This chart only ever renders inside the wiki article's `.wiki-prose`
+   scope (`app/pages/wiki/[...slug].vue`), which styles every real markdown
+   `<table>`/`<th>`/`<td>` with a 1px border, horizontal padding, left
+   alignment and 100% width — exactly the "visible grid" this component
+   must not inherit. Those rules compile to `.wiki-prose[data-v-page] table`
+   / `...th` / `...td`: two class-level selectors (the class plus that
+   page's own scoped-CSS attribute) and one element-level selector, i.e.
+   specificity (0,2,1). A plain scoped rule here on the same element type
+   (e.g. `.ufo-org-cell[data-v-node]`) only reaches (0,2,0) — two
+   class-level, zero element-level — and loses outright at the element-level
+   tier. Every rule below that resets or re-applies a border/padding/width
+   on this component's own `<table>`/`<td>` elements repeats its class once
+   (`.ufo-org-cell.ufo-org-cell`) to push the class-level count to 3, which
+   beats (0,2,1) unconditionally regardless of element count or stylesheet
+   load order. No `!important`, and `[...slug].vue` is untouched. */
+.ufo-org.ufo-org {
   border-collapse: collapse;
   margin-inline: auto;
+  width: auto;
 }
-.ufo-org-cell {
+.ufo-org-cell.ufo-org-cell {
   text-align: center;
   vertical-align: top;
   padding: 0;
+  border: 0;
 }
 .ufo-org-box {
   display: inline-block;
@@ -107,10 +124,19 @@ const children = computed(() => props.node.children ?? [])
   color: hsl(var(--muted-foreground));
 }
 
-/* Connectors. Fixed-height rows so the geometry never depends on content. */
-.ufo-org-lines td { padding: 0; height: 14px; }
+/* Connectors. Fixed-height rows so the geometry never depends on content.
+   Padding/height only here — border is deliberately NOT reset by this
+   shared descendant selector: `.ufo-org-lines.ufo-org-lines td` compiles to
+   (0,3,1) (two classes on the tr compound, plus the scope attribute on the
+   td compound, plus the td element), which would out-rank a same-tier
+   `.ufo-org-rail.ufo-org-rail` re-add at (0,3,0) — a single compound only
+   ever gets the scope attribute once — and silently zero out the rail's
+   own border-top again. Each cell type owns its full border story in its
+   own rule instead (see `.ufo-org-down` and `.ufo-org-rail` below), so
+   there is no same-origin specificity fight. */
+.ufo-org-lines.ufo-org-lines td { padding: 0; height: 14px; }
 
-.ufo-org-down { text-align: center; }
+.ufo-org-down.ufo-org-down { text-align: center; border: 0; }
 .ufo-org-stem {
   width: 1px;
   height: 14px;
@@ -118,7 +144,8 @@ const children = computed(() => props.node.children ?? [])
   background: hsl(var(--border));
 }
 
-.ufo-org-rail {
+.ufo-org-rail.ufo-org-rail {
+  border: 0;
   border-top: 1px solid hsl(var(--border));
 }
 /* Trim the rail so it stops at the outermost children rather than overhanging. */
@@ -132,7 +159,9 @@ const children = computed(() => props.node.children ?? [])
    cell directly below. nth-child(odd) picks out every "a" half — i.e. one
    stem per child — regardless of child count, so it covers 1, 2, 3+ children
    alike, including the single-child case where the horizontal rail above is
-   fully transparent and this is the only connector. */
+   fully transparent and this is the only connector. Its specificity ties
+   `.ufo-org-rail.ufo-org-rail` above (both two classes + the scope
+   attribute); declared after it, so the tie resolves in its favour. */
 .ufo-org-rail:nth-child(odd) {
   border-right: 1px solid hsl(var(--border));
 }
