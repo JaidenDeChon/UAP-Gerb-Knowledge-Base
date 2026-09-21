@@ -10,15 +10,39 @@ definePageMeta({ key: route => route.path })
 
 const route = useRoute()
 
-const { data: page } = await useAsyncData(`wiki:${route.path}`, () =>
-  queryCollection('wiki').path(route.path).first())
+// `lazy` so a client-side hop paints the skeleton at once instead of freezing
+// on the old page: @nuxt/content answers browser queries out of a sqlite-wasm
+// database it downloads on first use, which costs seconds on the first hop.
+// The server still blocks — `useAsyncData` awaits through `onServerPrefetch`
+// regardless of `lazy` — so the initial HTML is the finished article.
+const result = useAsyncData(`wiki:${route.path}`, () =>
+  queryCollection('wiki').path(route.path).first(), { lazy: true })
 
-if (!page.value) {
-  throw createError({ statusCode: 404, statusMessage: 'Note not found', fatal: true })
+const { data: page, status } = result
+
+if (import.meta.server) {
+  await result
+  if (!page.value) {
+    throw createError({ statusCode: 404, statusMessage: 'Note not found', fatal: true })
+  }
 }
 
-usePageTitle().value = page.value.title
-useHead({ title: page.value.title })
+// Client-side the query resolves after navigation, so the missing-note case is
+// a settled-with-nothing watcher rather than a throw in setup. SSR watchers
+// don't re-run, which is why the server keeps the throw above.
+if (import.meta.client) {
+  watch(status, (value) => {
+    if (value === 'success' && !page.value) {
+      showError({ statusCode: 404, statusMessage: 'Note not found' })
+    }
+  })
+}
+
+const pageTitle = usePageTitle()
+watchEffect(() => {
+  if (page.value) pageTitle.value = page.value.title
+})
+useHead({ title: () => page.value?.title })
 
 const category = computed<Category>(() =>
   page.value ? categoryFromStem(page.value.stem) : 'Root')
@@ -75,7 +99,9 @@ const articleClass = computed(() => hasRail.value
 </script>
 
 <template>
-  <div v-if="page" :class="wrapperClass">
+  <WikiPageSkeleton v-if="!page" />
+
+  <div v-else :class="wrapperClass">
     <article :class="articleClass">
       <nav class="mb-5 flex items-center gap-2 font-sans text-[13px] text-muted-foreground">
         <NuxtLink to="/map" class="transition-colors hover:text-foreground">

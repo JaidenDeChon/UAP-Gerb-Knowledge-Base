@@ -1,5 +1,6 @@
 import tailwindcss from '@tailwindcss/vite'
 import { bakeWikiDataModule } from './wiki/bake'
+import { cleanTocLabels } from './wiki/toc'
 import { replaceObsidianCallouts, replaceWikiLinks } from './wiki/vault'
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
@@ -41,6 +42,12 @@ export default defineNuxtConfig({
     'content:file:beforeParse'(ctx) {
       if (ctx.collection.name !== 'wiki') return
       ctx.file.body = replaceObsidianCallouts(replaceWikiLinks(String(ctx.file.body)))
+    },
+    // A heading carrying an MDC component gets that component's body text
+    // flattened into its TOC entry — see ./wiki/toc.ts.
+    'content:file:afterParse'(ctx) {
+      if (ctx.collection.name !== 'wiki') return
+      cleanTocLabels(ctx.content?.body)
     },
   },
 })

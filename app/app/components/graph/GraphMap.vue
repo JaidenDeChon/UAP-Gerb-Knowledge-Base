@@ -37,6 +37,11 @@ interface Scene {
 const EMPTY_BOUNDS: Bounds = { minX: 0, minY: 0, maxX: 0, maxY: 0 }
 const NO_ANG = new Float64Array(0)
 
+// Tighter than the site map's MIN_ZOOM: a fan authored at 1:1 in a 3:2 widget
+// has nothing left to read below this. Shared by wheel and pinch.
+const ZOOM_MIN = 0.15
+const ZOOM_MAX = 4
+
 // Docked + an active note → the note's neighbourhood, fanned. Otherwise the whole
 // precomputed graph. Recomputes only on payload / activePath / minimized changes
 // (never on hover, pan or zoom), so the fan solves at most once per nav.
@@ -357,8 +362,10 @@ function nodeIndexFromEvent(e: Event): number | null {
   return null
 }
 
-let dragging = false
-let pointerId = -1
+// Every pointer currently down, keyed by id — one pans, two pinch. A scalar
+// `pointerId` was enough while only panning existed, but the second finger of a
+// pinch overwrote it, so a spread dragged the map sideways and never zoomed.
+const pointers = new Map<number, { x: number, y: number }>()
 let lastX = 0
 let lastY = 0
 let travel = 0
@@ -367,20 +374,96 @@ let pendingDx = 0
 let pendingDy = 0
 let panRaf = 0
 
+// Pinch state, captured at the moment the second finger lands: the graph point
+// under the midpoint is held still while `k` follows the spread ratio.
+let pinching = false
+let pinchRaf = 0
+let pinchDist0 = 0
+let pinchK0 = 1
+let pinchGX = 0
+let pinchGY = 0
+
+/** The two oldest live pointers — Map preserves insertion order. */
+function twoPointers(): [{ x: number, y: number }, { x: number, y: number }] | null {
+  if (pointers.size < 2) return null
+  const it = pointers.values()
+  return [it.next().value!, it.next().value!]
+}
+
+/** Pinch midpoint in container-local px, or null if it can't be measured. */
+function pinchMidpoint(): { x: number, y: number, dist: number } | null {
+  const pts = twoPointers()
+  const rect = containerRef.value?.getBoundingClientRect()
+  if (!pts || !rect) return null
+  return {
+    x: (pts[0].x + pts[1].x) / 2 - rect.left,
+    y: (pts[0].y + pts[1].y) / 2 - rect.top,
+    dist: Math.max(1, Math.hypot(pts[0].x - pts[1].x, pts[0].y - pts[1].y)),
+  }
+}
+
+function beginPinch(): void {
+  const m = pinchMidpoint()
+  if (!m) return
+  // Drop any pan the first finger left queued, or its rAF would slide the map
+  // out from under the pinch on the next frame.
+  if (panRaf) cancelAnimationFrame(panRaf)
+  panRaf = 0
+  pendingDx = 0
+  pendingDy = 0
+  pinchDist0 = m.dist
+  pinchK0 = k.value
+  pinchGX = (m.x - pan.value.x) / k.value
+  pinchGY = (m.y - pan.value.y) / k.value
+  pinching = true
+}
+
+// Recomputed from the live finger positions rather than accumulated deltas, so
+// coalescing to one commit per frame can't drift.
+function queuePinch(): void {
+  if (pinchRaf) return
+  pinchRaf = requestAnimationFrame(() => {
+    pinchRaf = 0
+    const m = pinchMidpoint()
+    if (!pinching || !m) return
+    const next = clamp(pinchK0 * (m.dist / pinchDist0), ZOOM_MIN, ZOOM_MAX)
+    pan.value = { x: m.x - pinchGX * next, y: m.y - pinchGY * next }
+    k.value = next
+    hasUserAdjusted = true
+  })
+}
+
 function onPointerDown(e: PointerEvent): void {
-  if (e.button !== 0) return
-  dragging = true
-  pointerId = e.pointerId
-  lastX = e.clientX
-  lastY = e.clientY
-  travel = 0
-  downNode = nodeIndexFromEvent(e)
-  grabbing.value = true
+  if (e.pointerType === 'mouse' && e.button !== 0) return
+  pointers.set(e.pointerId, { x: e.clientX, y: e.clientY })
   ;(e.currentTarget as SVGSVGElement).setPointerCapture(e.pointerId)
+  if (pointers.size === 2) {
+    beginPinch()
+    travel = Infinity // a pinch is never a tap
+    downNode = null
+  }
+  else if (pointers.size === 1) {
+    lastX = e.clientX
+    lastY = e.clientY
+    travel = 0
+    downNode = nodeIndexFromEvent(e)
+    grabbing.value = true
+  }
 }
 
 function onPointerMove(e: PointerEvent): void {
-  if (!dragging || e.pointerId !== pointerId) return
+  const entry = pointers.get(e.pointerId)
+  if (!entry) return
+  entry.x = e.clientX
+  entry.y = e.clientY
+
+  if (pinching) {
+    queuePinch()
+    return
+  }
+
+  // Only the first finger down pans; a third one during a pinch is ignored.
+  if (e.pointerId !== pointers.keys().next().value) return
   const dx = e.clientX - lastX
   const dy = e.clientY - lastY
   lastX = e.clientX
@@ -399,16 +482,24 @@ function onPointerMove(e: PointerEvent): void {
 }
 
 function onPointerUp(e: PointerEvent): void {
-  if (e.pointerId !== pointerId) return
-  dragging = false
-  grabbing.value = false
+  if (!pointers.delete(e.pointerId)) return
   const el = e.currentTarget as SVGSVGElement
   if (el.hasPointerCapture(e.pointerId)) el.releasePointerCapture(e.pointerId)
-  if (travel < 5 && downNode != null) {
-    const node = scene.value.nodes[downNode]
-    if (node) emit('select', pathToNode.value.get(node.p) ?? node)
+  if (pointers.size < 2) pinching = false
+  if (pointers.size === 1) {
+    // Hand the pan back to the finger still down, without a jump.
+    const rest = pointers.values().next().value!
+    lastX = rest.x
+    lastY = rest.y
   }
-  downNode = null
+  if (pointers.size === 0) {
+    grabbing.value = false
+    if (travel < 5 && downNode != null) {
+      const node = scene.value.nodes[downNode]
+      if (node) emit('select', pathToNode.value.get(node.p) ?? node)
+    }
+    downNode = null
+  }
 }
 
 let wheelRaf = 0
@@ -422,12 +513,18 @@ function onWheel(e: WheelEvent): void {
   if (!rect) return
   wheelX = e.clientX - rect.left
   wheelY = e.clientY - rect.top
-  pendingFactor *= e.deltaY < 0 ? 1.1 : 0.9
+  // A trackpad pinch reaches the page as ctrl+wheel, one event per few pixels
+  // of spread — a flat 10% step each time runs to the clamp in a heartbeat. Its
+  // delta is proportional to the gesture, so follow that instead, bounded so a
+  // ctrl+wheel notch from a mouse (|deltaY| ~100) stays a single sane step.
+  pendingFactor *= e.ctrlKey
+    ? clamp(Math.exp(-e.deltaY * 0.01), 0.5, 2)
+    : e.deltaY < 0 ? 1.1 : 0.9
   if (wheelRaf) return
   wheelRaf = requestAnimationFrame(() => {
     wheelRaf = 0
     const cur = k.value
-    const next = clamp(cur * pendingFactor, 0.15, 4)
+    const next = clamp(cur * pendingFactor, ZOOM_MIN, ZOOM_MAX)
     pendingFactor = 1
     if (next === cur) return
     const gx = (wheelX - pan.value.x) / cur
@@ -498,6 +595,7 @@ onBeforeUnmount(() => {
   ro?.disconnect()
   ro = null
   if (panRaf) cancelAnimationFrame(panRaf)
+  if (pinchRaf) cancelAnimationFrame(pinchRaf)
   if (wheelRaf) cancelAnimationFrame(wheelRaf)
   if (hoverRaf) cancelAnimationFrame(hoverRaf)
 })

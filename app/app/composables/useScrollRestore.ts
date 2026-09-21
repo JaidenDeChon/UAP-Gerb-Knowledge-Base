@@ -64,6 +64,16 @@ export function saveOutgoingScroll(): void {
 }
 
 /**
+ * Record that we've arrived on a new history entry, without moving the
+ * container. For the hash branch, which has already scrolled the target into
+ * view and only needs the bookkeeping — `onRouteArrived` would undo that
+ * scroll on its way to the same assignment.
+ */
+export function markRouteArrived(): void {
+  currentKey = historyKey()
+}
+
+/**
  * Called from `scrollBehavior` once the destination route has rendered.
  * `isPop` restores the container to that entry's saved scrollTop (falling
  * back to 0 if this entry was never visited before); otherwise it resets to

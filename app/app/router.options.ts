@@ -1,5 +1,5 @@
 import type { RouterConfig } from '@nuxt/schema'
-import { onRouteArrived, scrollHashIntoView } from './composables/useScrollRestore'
+import { markRouteArrived, onRouteArrived, scrollHashIntoView } from './composables/useScrollRestore'
 
 /**
  * The reader's content scrolls inside `<main>`, not the window (see
@@ -18,9 +18,12 @@ export default <RouterConfig>{
   scrollBehavior(to, from, savedPosition) {
     if (to.hash) {
       // TOC rail links: jump the target heading into view rather than
-      // restoring/resetting the container's own scroll.
+      // restoring/resetting the container's own scroll. `markRouteArrived`,
+      // not `onRouteArrived` — the latter resets the container to the top,
+      // which landed on the heading and then snapped straight back, so every
+      // rail link only ever changed the URL.
       scrollHashIntoView(to.hash)
-      onRouteArrived(false)
+      markRouteArrived()
       return false
     }
 

@@ -4,7 +4,7 @@ import { hasTocRail, tocLinks } from '@/utils/content'
 
 const props = defineProps<{ toc?: { links?: TocLink[] } | null }>()
 
-/** h2 and h3 only — deeper levels make the rail noisier than the page. */
+/** The note's h2 spine — see `tocLinks` for why nothing deeper is listed. */
 const links = computed<TocLink[]>(() => tocLinks(props.toc))
 /** Single source of truth for "does a rail exist" — shared with the page,
  *  which uses it to decide whether to reserve this component's layout column. */
@@ -59,7 +59,6 @@ onBeforeUnmount(() => observer?.disconnect())
           :href="`#${link.id}`"
           class="ufo-toc-link"
           :class="{ 'is-active': activeId === link.id }"
-          :style="{ paddingInlineStart: `${(link.depth - 2) * 10 + 10}px` }"
         >
           {{ link.text }}
         </a>
@@ -80,6 +79,7 @@ onBeforeUnmount(() => observer?.disconnect())
   margin-inline-start: -1px;
   border-inline-start: 1px solid transparent;
   padding-block: 3px;
+  padding-inline-start: 10px;
   font-family: var(--font-sans);
   font-size: 13px;
   line-height: 18px;
