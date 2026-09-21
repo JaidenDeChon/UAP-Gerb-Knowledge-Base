@@ -687,10 +687,14 @@ referenced from note bodies.
 The title card rendered by `app/app/pages/wiki/[...slug].vue` on every video
 **summary** note (any `Videos/*/summary` with a `video_id`), in place of the
 plain breadcrumb/badges/H1/lead/fact table. Behind the title sits a live
-field of connected nodes (`WikiNodeField.vue`, below), under two scrims in
-`--background` that keep the title column on the page colour in every
-theme, plus HUD frame corners, a HUD row (channel, runtime, id) and Play /
-Transcript / YouTube actions. There is deliberately no thumbnail: the
+field of connected nodes (`WikiNodeField.vue`, below), fading into the page
+along the bottom edge; the text is set on a page-colour panel that hangs off
+the text column itself (`.ufo-hero-content::before`), so the fade sits just
+past the column's real right edge in both page layouts (left-set under the
+TOC rail, centred below `xl`) rather than at a fixed fraction of the hero.
+On phones the field is a band above the text instead. Then HUD frame
+corners, a HUD row (channel, runtime, id) and Play / Transcript / YouTube
+actions. There is deliberately no thumbnail: the
 channel's thumbnails carry their own large text, which competes with the
 title. On those pages the local map moves to the end of the article, the
 prose `h2`s gain chapter numbers (CSS counters), and a 2px reading-progress
@@ -704,7 +708,9 @@ Nodes drift, any two within `linkDistance` are joined by a line whose
 opacity falls off with distance, the pointer draws links to nodes within
 `grabDistance`, and a tenth of the nodes are glowing hubs. Colours are read
 from the theme tokens (`--primary` for nodes, `--graph-edge` for links) and
-re-read when the theme changes, so it never carries a literal colour. It
+re-read when `data-theme` changes on `<html>` (a `MutationObserver` on the
+attribute, which lands a task after the theme ref changes), so it never
+carries a literal colour. It
 draws one static frame under `prefers-reduced-motion: reduce`, pauses while
 off-screen or in a background tab, and renders nothing on the server. Props:
 `density` (nodes per 10,000 px², total clamped to 24–140), `linkDistance`,

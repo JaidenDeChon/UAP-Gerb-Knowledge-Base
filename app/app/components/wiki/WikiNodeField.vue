@@ -43,15 +43,19 @@ let frame = 0
 let lastTs = 0
 let onScreen = true
 let reduced = false
+/** Pointer in canvas space, resolved once per frame from `pointerClient`. */
 let pointer: { x: number, y: number } | null = null
+/** Last pointer position in viewport space; the move handler stores this and nothing else. */
+let pointerClient: { x: number, y: number } | null = null
 let colors = { node: '142 70% 45%', edge: '0 0% 45%' }
 
 let resizeObserver: ResizeObserver | null = null
 let intersection: IntersectionObserver | null = null
+let themeObserver: MutationObserver | null = null
 let motionQuery: MediaQueryList | null = null
+let dprQuery: MediaQueryList | null = null
+/** The nearest ancestor that receives pointer events; the stage and canvas do not. */
 let parent: HTMLElement | null = null
-
-const { theme } = useTheme()
 
 function clamp(n: number, lo: number, hi: number): number {
   return Math.min(hi, Math.max(lo, n))
@@ -188,12 +192,23 @@ function running(): boolean {
   return frame !== 0
 }
 
+/** One layout read per frame, and only while the pointer is over the hero — never inside the move handler. */
+function resolvePointer(): void {
+  if (!pointerClient || !canvas.value) {
+    pointer = null
+    return
+  }
+  const rect = canvas.value.getBoundingClientRect()
+  pointer = { x: pointerClient.x - rect.left, y: pointerClient.y - rect.top }
+}
+
 function loop(ts: number): void {
   frame = 0
   if (!onScreen || reduced || document.hidden) return
   const dt = lastTs ? clamp((ts - lastTs) / (1000 / 60), 0, 3) : 1
   lastTs = ts
   step(dt)
+  resolvePointer()
   draw()
   frame = requestAnimationFrame(loop)
 }
@@ -210,11 +225,11 @@ function stop(): void {
 }
 
 function onPointerMove(event: PointerEvent): void {
-  if (!canvas.value || reduced) return
-  const rect = canvas.value.getBoundingClientRect()
-  pointer = { x: event.clientX - rect.left, y: event.clientY - rect.top }
+  if (reduced) return
+  pointerClient = { x: event.clientX, y: event.clientY }
 }
 function onPointerLeave(): void {
+  pointerClient = null
   pointer = null
 }
 function onVisibility(): void {
@@ -225,6 +240,7 @@ function onMotionChange(): void {
   reduced = !!motionQuery?.matches
   if (reduced) {
     stop()
+    pointerClient = null
     pointer = null
     draw()
   }
@@ -232,13 +248,34 @@ function onMotionChange(): void {
     start()
   }
 }
+/**
+ * The ResizeObserver only sees the CSS box, so a window dragged to a display
+ * with a different pixel ratio would keep a stale backing store and blur.
+ * A media query for the *current* ratio fires the moment it stops matching.
+ */
+function watchDpr(): void {
+  dprQuery?.removeEventListener('change', onDprChange)
+  dprQuery = window.matchMedia(`(resolution: ${window.devicePixelRatio}dppx)`)
+  dprQuery.addEventListener('change', onDprChange)
+}
+function onDprChange(): void {
+  resize()
+  watchDpr()
+}
 
 onMounted(() => {
   const el = canvas.value
   if (!el) return
   ctx = el.getContext('2d')
   if (!ctx) return
-  parent = el.parentElement
+
+  // The stage the canvas sits in is `pointer-events: none` so the hero's
+  // buttons stay clickable, which also means no pointer event ever targets
+  // or bubbles through it. Climb to the first ancestor that is hit-testable
+  // (the hero section) and listen there.
+  let target: HTMLElement | null = el.parentElement
+  while (target && getComputedStyle(target).pointerEvents === 'none') target = target.parentElement
+  parent = target
 
   motionQuery = window.matchMedia('(prefers-reduced-motion: reduce)')
   reduced = motionQuery.matches
@@ -247,6 +284,17 @@ onMounted(() => {
   readColors()
   resize()
   draw()
+  watchDpr()
+
+  // Re-read the tokens once the new theme has landed on <html>. The theme
+  // ref changes first and unhead patches `data-theme` a task later, so a
+  // watcher on the ref (even after nextTick) would still read the old
+  // theme's colours; the attribute is what the token selectors key on.
+  themeObserver = new MutationObserver(() => {
+    readColors()
+    if (!running()) draw()
+  })
+  themeObserver.observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] })
 
   resizeObserver = new ResizeObserver(resize)
   resizeObserver.observe(el)
@@ -266,19 +314,13 @@ onMounted(() => {
   start()
 })
 
-watch(theme, () => {
-  // The token values only exist after the new data-theme attribute lands.
-  nextTick(() => {
-    readColors()
-    if (!running()) draw()
-  })
-})
-
 onBeforeUnmount(() => {
   stop()
   resizeObserver?.disconnect()
   intersection?.disconnect()
+  themeObserver?.disconnect()
   motionQuery?.removeEventListener('change', onMotionChange)
+  dprQuery?.removeEventListener('change', onDprChange)
   document.removeEventListener('visibilitychange', onVisibility)
   parent?.removeEventListener('pointermove', onPointerMove)
   parent?.removeEventListener('pointerleave', onPointerLeave)

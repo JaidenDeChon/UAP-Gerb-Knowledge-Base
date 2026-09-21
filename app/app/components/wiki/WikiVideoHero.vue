@@ -14,9 +14,10 @@ import { formatClock } from '@/utils/timeline'
  *
  * Layers, back to front: the page background; a live field of connected
  * nodes (`WikiNodeField`, the knowledge-graph motif animated, in the theme's
- * own tokens); two scrims in `--background` that keep the text column on the
- * page colour so the title and lead never sit on the pattern; HUD frame
- * corners; the content. No thumbnail: the channel's thumbnails carry their
+ * own tokens); a scrim that fades the field out along the bottom edge; HUD
+ * frame corners; the content, on a page-colour panel that hangs off the text
+ * column itself so the title and lead never sit on the pattern whichever
+ * layout the page is in. No thumbnail: the channel's thumbnails carry their
  * own large text, which fought the title the moment a reader tried to read
  * either.
  */
@@ -73,7 +74,6 @@ function play(): void {
          keep the text column readable and fade the field into the page. -->
     <div class="ufo-hero-stage" aria-hidden="true">
       <WikiNodeField />
-      <div class="ufo-hero-scrim ufo-hero-scrim--x" />
       <div class="ufo-hero-scrim ufo-hero-scrim--y" />
     </div>
 
@@ -163,7 +163,7 @@ function play(): void {
   background: hsl(var(--background));
 }
 
-/* -- the stage: the node field plus the scrims that keep text on the page colour -- */
+/* -- the stage: the node field plus the bottom scrim -- */
 .ufo-hero-stage {
   position: absolute;
   inset: 0;
@@ -172,12 +172,6 @@ function play(): void {
 .ufo-hero-scrim {
   position: absolute;
   inset: 0;
-}
-/* Solid across the text column (the centred 760px measure of a rail-less
-   page runs to ~65% of the hero at 1440px), then open, so the field reads on
-   the right and only faintly under the lead. */
-.ufo-hero-scrim--x {
-  background: linear-gradient(to right, hsl(var(--background)) 0%, hsl(var(--background)) 30%, hsl(var(--background) / 0.7) 48%, hsl(var(--background) / 0) 68%);
 }
 /* Fade into the page along the bottom edge so the hero has no hard floor. */
 .ufo-hero-scrim--y {
@@ -204,8 +198,26 @@ function play(): void {
   z-index: 2;
 }
 .ufo-hero-content {
+  position: relative;
   padding-block: 40px 44px;
   max-width: 62ch;
+}
+/* The page-colour panel that keeps the text on the page. It hangs off the
+   text column itself rather than the hero, so the fade sits just past the
+   column's real right edge in every layout: the rail layout sets the column
+   at the left (text ends ~57% across a 1160px hero), the centred 760px
+   measure below `xl` runs to ~80%. The last 100px of the longest lines sit
+   on ≥0.72 background; the field is fully open 220px past the column. */
+.ufo-hero-content::before {
+  content: '';
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  bottom: 0;
+  left: -100vw;
+  right: -220px;
+  pointer-events: none;
+  background: linear-gradient(to right, hsl(var(--background)) 0, hsl(var(--background)) calc(100% - 320px), hsl(var(--background) / 0.72) calc(100% - 220px), hsl(var(--background) / 0) 100%);
 }
 .ufo-hero-title {
   max-width: 16ch;
@@ -251,14 +263,16 @@ function play(): void {
 
 /* -- mobile: the field is a band above the text, never behind it -- */
 @media (max-width: 900px) {
-  .ufo-hero-scrim--x {
-    background: none;
+  .ufo-hero-content::before {
+    display: none;
   }
+  /* Full page colour by 184px; the breadcrumb, the smallest text in the
+     hero, starts at 188px so nothing is set on the fade. */
   .ufo-hero-scrim--y {
-    background: linear-gradient(to bottom, hsl(var(--background) / 0) 0px, hsl(var(--background) / 0) 120px, hsl(var(--background)) 215px, hsl(var(--background)) 100%);
+    background: linear-gradient(to bottom, hsl(var(--background) / 0) 0px, hsl(var(--background) / 0) 128px, hsl(var(--background)) 184px, hsl(var(--background)) 100%);
   }
   .ufo-hero-content {
-    padding-block: 168px 32px;
+    padding-block: 188px 32px;
     max-width: none;
   }
   .ufo-hero-title {
