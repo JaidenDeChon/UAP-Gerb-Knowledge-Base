@@ -34,6 +34,47 @@ export function videoTitleFromStem(stem: string): string | null {
   return i >= 0 && parts[i + 1] ? parts[i + 1]! : null
 }
 
+/** One entry in `page.body.toc.links` (from `@nuxt/content`'s TOC generator). */
+export interface TocLink { id: string, text: string, depth: number, children?: TocLink[] }
+
+/**
+ * Flattens a note's TOC to h2/h3 entries only — deeper levels make a rail
+ * noisier than the page it's navigating. Shared by `WikiTocRail` (which
+ * renders the list) and the wiki page (which uses its length to decide
+ * whether the rail's layout column should exist at all — see
+ * `app/pages/wiki/[...slug].vue`).
+ */
+export function tocLinks(toc?: { links?: TocLink[] } | null): TocLink[] {
+  const out: TocLink[] = []
+  for (const link of toc?.links ?? []) {
+    out.push(link)
+    for (const child of link.children ?? []) {
+      if (child.depth <= 3) out.push(child)
+    }
+  }
+  return out
+}
+
+/**
+ * Below this many headings, `WikiTocRail` renders nothing — a rail navigating
+ * one or two sections is noise, not a table of contents. Kept private: the
+ * page and the component both need to agree on whether a rail exists, so
+ * neither gets to know the number — they call `hasTocRail()` instead.
+ */
+const MIN_TOC_LINKS = 3
+
+/**
+ * Whether a note has enough headings for `WikiTocRail` to render anything.
+ * The wiki page uses this to decide whether to reserve the rail's layout
+ * column at all — see `app/pages/wiki/[...slug].vue`. Reserving the column
+ * for a rail that turns out empty leaves an off-centre gutter on every short
+ * note, so this must be the single source of truth the component's own
+ * `v-if` agrees with, not a second copy of the threshold.
+ */
+export function hasTocRail(toc?: { links?: TocLink[] } | null): boolean {
+  return tocLinks(toc).length >= MIN_TOC_LINKS
+}
+
 /* --------------------------------------------------- body AST helpers ----- */
 // @nuxt/content bodies are minimark trees: `{ type, value: MinimalNode[] }`,
 // where a node is a text string or `[tag, props, ...children]`.

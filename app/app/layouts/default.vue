@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, ref, watch } from 'vue'
+import { computed, onMounted, ref, watch } from 'vue'
 
 const route = useRoute()
 const sidebarOpen = useSidebarOpen()
@@ -13,14 +13,20 @@ watch(() => route.path, () => {
   sidebarOpen.value = false
 })
 
-// The page scrolls inside <main>, not the window, so Nuxt's built-in scroll
-// restoration (which targets the window) can't reset it — a new entry would open
-// wherever the previous one was scrolled to. Reset the container to the top once
-// the incoming page has rendered. page:finish fires after the new page mounts,
-// so the scroll lands on the freshly swapped content, not the outgoing page.
+// The page scrolls inside <main>, not the window, so scroll
+// restoration/reset on navigation is handled through router.options.ts's
+// scrollBehavior (the router's official extension point) rather than an
+// ad-hoc page:finish hook — that lets POP (back/forward) restore where the
+// reader was, while PUSH still lands at the top. This layout only hands the
+// container over to that machinery and captures its scroll on the way out
+// of each route, since router.options.ts has no "leaving" hook of its own.
 const mainRef = ref<HTMLElement | null>(null)
-useNuxtApp().hook('page:finish', () => {
-  mainRef.value?.scrollTo({ top: 0 })
+const router = useRouter()
+onMounted(() => {
+  registerScrollContainer(mainRef.value)
+})
+router.beforeEach(() => {
+  saveOutgoingScroll()
 })
 </script>
 
@@ -42,6 +48,7 @@ useNuxtApp().hook('page:finish', () => {
     </div>
 
     <AppCommandPalette />
+    <WikiVideoDock />
   </div>
 </template>
 

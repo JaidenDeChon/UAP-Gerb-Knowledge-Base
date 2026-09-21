@@ -44,7 +44,15 @@
   --card-foreground: 222.2 84% 4.9%;
   --popover: 0 0% 100%;
   --popover-foreground: 222.2 84% 4.9%;
-  --primary: 142.1 76.2% 36.3%;
+  /* Lightness is 28%, not the 36.3% this scale would otherwise suggest, because
+     --primary is the link colour for all prose body text (see `.prose-ufo a` and
+     `a[data-wiki-link]` below). At 36.3% it measured 3.29:1 against a white
+     --card — under the 4.5:1 WCAG AA floor for normal text. Hue and saturation
+     are unchanged, so it reads as the same brand green.
+     At 28% it measures 5.18:1 on white, and --primary-foreground on it reaches
+     4.72:1, which also clears AA for white-on-green buttons (3.00:1 before).
+     The dark, dim and sepia themes already cleared 4.5:1 and are untouched. */
+  --primary: 142.1 76.2% 28%;
   --primary-foreground: 355.7 100% 97.3%;
   --secondary: 210 40% 96.1%;
   --secondary-foreground: 222.2 47.4% 11.2%;

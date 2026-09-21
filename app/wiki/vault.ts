@@ -6,6 +6,7 @@ import slugify from 'slugify'
 // (config-load) context. Relative rather than the `#shared` alias because the
 // node/config tsconfig project has no `#shared` path mapping.
 import type { Category } from '../shared/types/wiki'
+import { fold, FOLDER_PRIORITY } from './naming'
 
 /**
  * The Obsidian vault, one level up from the Nuxt rootDir.
@@ -27,21 +28,6 @@ export const VAULT_DIR = resolveVaultDir()
 
 /** Route prefix the `wiki` collection is mounted under. */
 export const WIKI_PREFIX = '/wiki'
-
-/**
- * When a bare `[[Name]]` matches files in several folders, the earlier folder wins.
- * Anything unlisted sorts last.
- */
-const FOLDER_PRIORITY = [
-  'People',
-  'Organizations',
-  'Operations',
-  'Events',
-  'Locations',
-  'Concepts',
-  'MOCs',
-  'Videos',
-]
 
 const IGNORED_DIRS = new Set(['_templates', 'node_modules'])
 
@@ -79,11 +65,6 @@ function walk(dir: string, base = ''): string[] {
 function folderRank(stem: string): number {
   const rank = FOLDER_PRIORITY.indexOf(stem.split('/')[0]!)
   return rank === -1 ? FOLDER_PRIORITY.length : rank
-}
-
-/** Lowercase and strip diacritics, so `Edgar Fouché` still finds `Edgar Fouche.md`. */
-function fold(name: string): string {
-  return name.normalize('NFD').replace(/\p{Diacritic}/gu, '').toLowerCase()
 }
 
 export interface VaultIndex {

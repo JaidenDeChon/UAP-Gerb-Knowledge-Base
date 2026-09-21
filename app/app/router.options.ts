@@ -1,0 +1,45 @@
+import type { RouterConfig } from '@nuxt/schema'
+import { onRouteArrived, scrollHashIntoView } from './composables/useScrollRestore'
+
+/**
+ * The reader's content scrolls inside `<main>`, not the window (see
+ * layouts/default.vue), so Vue Router's built-in scrollBehavior — which
+ * always computes positions against `window`/`document.documentElement` —
+ * can't restore it. This override makes the same POP/PUSH/hash decision
+ * Vue Router already knows how to make, using `savedPosition` (non-null
+ * only on a POP, i.e. browser back/forward), but hands the actual scrolling
+ * off to useScrollRestore, which operates on the container directly.
+ *
+ * The container's scroll is *captured* on the way out by a `router.beforeEach`
+ * guard the layout registers on mount — this file only ever runs on arrival,
+ * so it has no hook for "leaving" a route.
+ */
+export default <RouterConfig>{
+  scrollBehavior(to, from, savedPosition) {
+    if (to.hash) {
+      // TOC rail links: jump the target heading into view rather than
+      // restoring/resetting the container's own scroll.
+      scrollHashIntoView(to.hash)
+      onRouteArrived(false)
+      return false
+    }
+
+    // savedPosition is set only when Vue Router determines this navigation
+    // is a POP — that's the router's decision, not a guess made here.
+    if (savedPosition) {
+      onRouteArrived(true)
+      return false
+    }
+
+    // Same path, different query: the reader hasn't gone anywhere, they've
+    // changed a control that keeps its state in the URL (the timeline's
+    // category/major filters use `router.replace` for exactly that). Treating
+    // it as arrival would fire the PUSH branch below and throw them back to
+    // the top mid-read. Leave the container where it is — and don't touch
+    // `currentKey`, since `replace` reuses the same history entry.
+    if (to.path === from.path) return false
+
+    onRouteArrived(false)
+    return false
+  },
+}

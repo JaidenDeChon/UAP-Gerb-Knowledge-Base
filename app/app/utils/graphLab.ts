@@ -1,4 +1,5 @@
 import type { Category, GraphNode } from '#shared/types/wiki'
+import { CATEGORY_VAR } from '~/utils/category'
 import { clamp } from '~/utils/graph'
 
 /**
@@ -65,18 +66,13 @@ export function readGraphPalette(): GraphPalette {
 /**
  * Theme variable per category (see main.css). `Root` is the lone Home note —
  * it rides with MOCs rather than spending a 9th hue on one node.
+ *
+ * Re-exported from `~/utils/category`'s `CATEGORY_VAR` under this file's own
+ * established name rather than redefined — the two maps were previously
+ * character-for-character duplicates of each other, exactly the drift trap
+ * a single canonical map is meant to prevent.
  */
-export const CATEGORY_COLOR_VAR: Record<Category, string> = {
-  Root: '--graph-cat-mocs',
-  MOCs: '--graph-cat-mocs',
-  People: '--graph-cat-people',
-  Organizations: '--graph-cat-orgs',
-  Operations: '--graph-cat-ops',
-  Events: '--graph-cat-events',
-  Locations: '--graph-cat-locations',
-  Concepts: '--graph-cat-concepts',
-  Videos: '--graph-cat-videos',
-}
+export const CATEGORY_COLOR_VAR: Record<Category, string> = CATEGORY_VAR
 
 /** Light-theme values, doubling as SSR/no-canvas fallbacks. */
 const CATEGORY_FALLBACK: Record<Category, string> = {
