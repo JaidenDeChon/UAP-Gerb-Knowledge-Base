@@ -77,6 +77,15 @@ export function useVideoDock() {
   /** Set by cues, consumed by the player once the IFrame API is ready. Last wins. */
   const pendingSeek = useState<number | null>('dock:seek', () => null)
 
+  /**
+   * Playback position (seconds) and whether the player is currently playing.
+   * Written only by `WikiVideoDock` (from the IFrame API's state-change event
+   * plus a 1s poll while playing); read by anything that wants to follow the
+   * video — e.g. the timeline's "now discussing" marker. Never persisted.
+   */
+  const currentTime = useState<number>('dock:time', () => 0)
+  const playing = useState<boolean>('dock:playing', () => false)
+
   /** Restore geometry from localStorage, clamped to the current viewport. */
   function hydrate(): void {
     const stored = readStored()
@@ -97,6 +106,8 @@ export function useVideoDock() {
     visible.value = false
     videoId.value = null
     pendingSeek.value = null
+    currentTime.value = 0
+    playing.value = false
   }
 
   function toggleMinimise(): void {
@@ -126,7 +137,7 @@ export function useVideoDock() {
   }
 
   return {
-    videoId, title, visible, minimised, rect, pendingSeek,
+    videoId, title, visible, minimised, rect, pendingSeek, currentTime, playing,
     hydrate, open, close, toggleMinimise, seek, takePendingSeek,
   }
 }

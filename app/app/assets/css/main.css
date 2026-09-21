@@ -408,6 +408,30 @@
 }
 
 /* ============================================================
+   Reveal-on-scroll (see plugins/reveal.ts). The hidden state is
+   only ever applied client-side after mount; under reduced motion
+   the directive never adds it at all, and this block makes sure
+   nothing stays hidden even if it did.
+   ============================================================ */
+.ufo-reveal {
+  opacity: 0;
+  transform: translateY(14px);
+  transition: opacity 520ms var(--ease-out) var(--reveal-delay, 0ms),
+    transform 520ms var(--ease-out) var(--reveal-delay, 0ms);
+}
+.ufo-reveal.is-in {
+  opacity: 1;
+  transform: none;
+}
+@media (prefers-reduced-motion: reduce) {
+  .ufo-reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
+
+/* ============================================================
    Loading skeletons. Shared because two routes paint one while
    @nuxt/content warms its client-side database — see
    `WikiPageSkeleton.vue`.
