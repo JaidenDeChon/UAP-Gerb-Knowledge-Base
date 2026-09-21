@@ -180,6 +180,14 @@ describe('chapterize', () => {
     expect(chapters.map(c => [c.label, c.ordinal])).toEqual([['Golden', 1], ['Modern', 3]])
   })
 
+  it('files a year in a gap between eras under the era it follows, keeping date order', () => {
+    const gapped = [{ label: 'A', from: 1947, to: 1970 }, { label: 'B', from: 1978, to: 1993 }]
+    const input = [{ date: '1972', title: 'x' }, { date: '1975', title: 'gap' }, { date: '1978', title: 'y' }, { date: '1990', title: 'z' }]
+    const chapters = chapterize(input, gapped)
+    expect(chapters.map(c => [c.label, c.events.map(e => e.title)])).toEqual([['A', ['x', 'gap']], ['B', ['y', 'z']]])
+    expect(chapters.flatMap(c => c.events)).toEqual(input)
+  })
+
   it('emits an after-chapter for events past a closed final era', () => {
     const closed = [{ label: 'Only', from: 1947, to: 1978 }]
     const chapters = chapterize([{ date: '1990', title: 'late' }], closed)

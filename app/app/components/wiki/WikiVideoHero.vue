@@ -66,6 +66,7 @@ const HQ = (id: string) => `https://i.ytimg.com/vi/${id}/hqdefault.jpg`
 const src = ref(videoId.value ? MAXRES(videoId.value) : '')
 const loaded = ref(false)
 const broken = ref(false)
+const imgEl = ref<HTMLImageElement | null>(null)
 
 watch(videoId, (id) => {
   src.value = id ? MAXRES(id) : ''
@@ -73,8 +74,7 @@ watch(videoId, (id) => {
   broken.value = false
 })
 
-function onLoad(event: Event): void {
-  const img = event.target as HTMLImageElement
+function settle(img: HTMLImageElement): void {
   // YouTube answers a missing maxresdefault with HTTP 200 and a 120×90 grey
   // placeholder, never a 404 — so "loaded but tiny" is the miss signal.
   if (img.naturalWidth < 640 && src.value === MAXRES(videoId.value)) {
@@ -83,6 +83,9 @@ function onLoad(event: Event): void {
   }
   loaded.value = true
 }
+function onLoad(event: Event): void {
+  settle(event.target as HTMLImageElement)
+}
 function onError(): void {
   if (src.value === MAXRES(videoId.value)) {
     src.value = HQ(videoId.value)
@@ -90,6 +93,18 @@ function onError(): void {
   }
   broken.value = true
 }
+
+// The <img> is in the server HTML with fetchpriority=high, so on a hard load
+// the browser can finish (or fail) the fetch before hydration attaches the
+// listeners above — and a `load` that already fired is never delivered. Read
+// the element's settled state once on mount so a cached thumbnail still fades
+// in and a missing one still falls back.
+onMounted(() => {
+  const img = imgEl.value
+  if (!img || !img.complete) return
+  if (img.naturalWidth > 0) settle(img)
+  else onError()
+})
 
 /* --------------------------------------------------------------- field -- */
 
@@ -133,6 +148,7 @@ function play(): void {
     <div class="ufo-hero-plate" aria-hidden="true">
       <img
         v-if="src && !broken"
+        ref="imgEl"
         :src="src"
         alt=""
         decoding="async"
@@ -251,10 +267,14 @@ function play(): void {
 }
 
 /* -- plate -- */
+/* No z-index here on purpose: a stacking context is an isolated group, and
+   the image's mix-blend-mode would then blend against the plate's own
+   (transparent) backdrop instead of the page colour — `multiply` would
+   silently become `normal`. The ornament/column layers above use z-index 1/2
+   and still paint over this z-auto plate in tree order. */
 .ufo-hero-plate {
   position: absolute;
   inset: 0 0 0 42%;
-  z-index: 0;
   pointer-events: none;
 }
 .ufo-hero-img {
@@ -281,8 +301,11 @@ function play(): void {
   position: absolute;
   inset: 0;
 }
+/* Solid until well past the centred 760px column of a rail-less page (its
+   text runs to ~65% of the hero at 1440px), so the lead and HUD never sit on
+   a half-faded photo. */
 .ufo-hero-scrim--x {
-  background: linear-gradient(to right, hsl(var(--background)) 0%, hsl(var(--background)) 22%, hsl(var(--background) / 0.55) 46%, hsl(var(--background) / 0) 72%);
+  background: linear-gradient(to right, hsl(var(--background)) 0%, hsl(var(--background)) 40%, hsl(var(--background) / 0.6) 58%, hsl(var(--background) / 0) 80%);
 }
 .ufo-hero-scrim--y {
   background: linear-gradient(to top, hsl(var(--background)) 0%, hsl(var(--background) / 0.6) 22%, hsl(var(--background) / 0) 58%);

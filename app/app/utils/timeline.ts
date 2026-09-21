@@ -316,7 +316,15 @@ export function chapterize<T extends TimelineEvent>(
   for (const event of sorted) {
     const year = yearOf(event.date)
     const forced = event.era ? byKey.get(event.era) : undefined
-    const era = forced ?? eraOf(year, ordered)
+    let era = forced ?? eraOf(year, ordered)
+    // A year that falls in a gap between two closed eras (1975 with eras
+    // ending 1970 and starting 1978) still reads under the era it follows;
+    // filing it "after the last era" would also put it out of date order.
+    if (!era && year !== null && year >= first.from) {
+      const preceding = ordered.filter(e => e.from <= year).at(-1)
+      if (preceding && preceding !== last) era = preceding
+      else if (preceding === last && (typeof last.to !== 'number' || year <= last.to)) era = last
+    }
     if (era) {
       push(eraKey(era), event)
     }

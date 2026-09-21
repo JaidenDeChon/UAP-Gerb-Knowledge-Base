@@ -148,13 +148,19 @@ function isVisible(event: TimelineEvent): boolean {
   return true
 }
 
-/** The entries the reader can scroll through, in reading order. */
-const visible = computed<Indexed[]>(() => sorted.value.filter(isVisible))
-
 /* -- chapters: the video's eras, or decades -- */
 const chapters = computed<Chapter<Indexed>[]>(() =>
-  chapterize(visible.value, props.eras, decade.value))
+  chapterize(sorted.value.filter(isVisible), props.eras, decade.value))
 const eraCount = computed(() => props.eras.length)
+
+/**
+ * The entries the reader can scroll through, in DOM order — derived from
+ * the chapters rather than from the sorted list directly, so the scroll
+ * cursor's index (which counts `.ufo-entry` elements) can never disagree
+ * with the list it is looked up in, whatever chapterize does with an edge
+ * case.
+ */
+const visible = computed<Indexed[]>(() => chapters.value.flatMap(c => c.events))
 
 function chapterRange(chapter: Chapter<Indexed>): string {
   if (chapter.kind === 'decade') return ''
@@ -303,27 +309,29 @@ function positionOf(sortedIndex: number): number {
   return visible.value.findIndex(e => e.index === sortedIndex)
 }
 
-watch(nowIndex, (idx) => {
-  if (!follow.value || idx < 0) return
+function followTo(idx: number): void {
+  if (idx < 0) return
   const pos = positionOf(idx)
   if (pos >= 0) cursor.scrollToIndex(pos, reduced.value ? 'auto' : 'smooth')
+}
+watch(nowIndex, (idx) => {
+  if (follow.value) followTo(idx)
+})
+// Switching Follow on goes to the current entry at once, not at the next cue.
+watch(follow, (on) => {
+  if (on) followTo(nowIndex.value)
 })
 watch(() => clock.isThisVideo.value, (isThis) => {
   if (!isThis) follow.value = false
 })
 
 /* -- jumps from the ruler -- */
-async function jump(sortedIndex: number): Promise<void> {
-  let pos = positionOf(sortedIndex)
-  if (pos < 0) {
-    // Hidden by a filter: clear the filters, let the list re-render, then go.
-    active.value = null
-    majorOnly.value = false
-    await nextTick()
-    cursor.refreshNow()
-    pos = positionOf(sortedIndex)
-    if (pos < 0) return
-  }
+function jump(sortedIndex: number): void {
+  const pos = positionOf(sortedIndex)
+  // An entry hidden by the current filter is not a jump target (its tick is
+  // dimmed and inert); the ruler click already lands on the nearest visible
+  // one. Never clear a reader's filters behind their back.
+  if (pos < 0) return
   cursor.scrollToIndex(pos, reduced.value ? 'auto' : 'smooth')
 }
 

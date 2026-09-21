@@ -2,6 +2,7 @@
 import type { AxisTick, EraBand, TimeScale } from '@/utils/timeline'
 import { Crosshair, Info, Radio, SlidersHorizontal } from '@lucide/vue'
 import { Popover, PopoverContent, PopoverTrigger } from '@/components/ui/popover'
+import { getScrollContainer } from '@/composables/useScrollRestore'
 
 /**
  * The timeline's pinned instrument (auto-imported as `WikiTimelineChronometer`
@@ -89,9 +90,15 @@ let observer: IntersectionObserver | null = null
 
 onMounted(() => {
   if (!sentinel.value || typeof IntersectionObserver === 'undefined') return
+  // Observe against the scrolling <main>, not the viewport: <main> starts
+  // below the 56px top bar and clips the sentinel at its own edge, so a
+  // viewport-rooted observer would see the sentinel leave at top ≈ 55px and
+  // conclude "not pinned" for a slow scroll while a fast one crossed 0.
+  const root = getScrollContainer() ?? sentinel.value.closest('main') ?? null
   observer = new IntersectionObserver(([entry]) => {
-    pinned.value = !!entry && !entry.isIntersecting && entry.boundingClientRect.top < 0
-  }, { threshold: 0 })
+    pinned.value = !!entry && !entry.isIntersecting
+      && entry.boundingClientRect.top < (entry.rootBounds?.top ?? 0)
+  }, { root, threshold: 0 })
   observer.observe(sentinel.value)
 })
 onBeforeUnmount(() => {
@@ -119,7 +126,12 @@ function nearestMark(pct: number): RulerMark | null {
   return best
 }
 
-function onRulerPointer(event: PointerEvent): void {
+/**
+ * A click (not pointerdown): the bar is the topmost strip on a phone, and a
+ * vertical swipe that starts on it must scroll the page, not teleport it to
+ * whatever tick happened to be under the thumb.
+ */
+function onRulerClick(event: MouseEvent): void {
   if (!ruler.value) return
   const rect = ruler.value.getBoundingClientRect()
   if (rect.width <= 0) return
@@ -203,10 +215,11 @@ const kicker = computed(() => (props.eraOrdinal > 0 && props.eraCount > 0
     :style="{ '--cursor': `${cursorPct}%`, '--now': nowPct === null ? '0%' : `${nowPct}%` }"
   >
     <div class="ufo-chrono-row">
+      <!-- No transition on the digits: the year is interpolated as the reader
+           scrolls, so it changes every few frames, and an out-in swap would
+           leave the readout blank for most of a continuous scroll. -->
       <div class="ufo-chrono-year" aria-hidden="true">
-        <Transition name="ufo-roll" mode="out-in">
-          <span :key="year ?? 'none'" class="ufo-chrono-year-digits">{{ year ?? '—' }}</span>
-        </Transition>
+        <span class="ufo-chrono-year-digits">{{ year ?? '—' }}</span>
       </div>
 
       <div class="ufo-chrono-era">
@@ -215,10 +228,13 @@ const kicker = computed(() => (props.eraOrdinal > 0 && props.eraCount > 0
         <span v-if="eraRange" class="ufo-chrono-era-range">{{ eraRange }}</span>
       </div>
 
-      <div v-if="hasVideo" class="ufo-chrono-now" aria-live="polite" aria-atomic="true">
+      <div v-if="hasVideo" class="ufo-chrono-now">
         <span class="ufo-chrono-live-dot" aria-hidden="true" />
-        <span class="ufo-chrono-now-clock">{{ nowClock }}</span>
-        <span class="ufo-chrono-now-title">{{ nowIndex >= 0 ? nowTitle : (playing ? 'Before the first entry' : 'Paused') }}</span>
+        <span class="ufo-chrono-now-clock" aria-hidden="true">{{ nowClock }}</span>
+        <span class="ufo-chrono-now-title" aria-hidden="true">{{ nowIndex >= 0 ? nowTitle : (playing ? 'Before the first entry' : 'Paused') }}</span>
+        <!-- The spoken version changes only when the host reaches a new entry —
+             never once a second with the clock. -->
+        <span class="sr-only" aria-live="polite" aria-atomic="true">{{ nowIndex >= 0 ? `Now discussing ${nowTitle}` : '' }}</span>
       </div>
 
       <div class="ufo-chrono-actions">
@@ -282,7 +298,7 @@ const kicker = computed(() => (props.eraOrdinal > 0 && props.eraCount > 0
       :aria-valuemax="Math.max(0, visibleMarks.length - 1)"
       :aria-valuenow="sliderNow"
       :aria-valuetext="sliderText"
-      @pointerdown="onRulerPointer"
+      @click="onRulerClick"
       @keydown="onRulerKey"
     >
       <div
@@ -319,10 +335,14 @@ const kicker = computed(() => (props.eraOrdinal > 0 && props.eraCount > 0
 
       <div class="ufo-ruler-fill" aria-hidden="true" />
 
-      <button
+      <!-- Spans, not buttons: `role="slider"` makes its children presentational,
+           so buttons here would be stripped from the accessibility tree anyway.
+           The slider's own keys and the ruler click (nearest visible entry)
+           are the operable paths; these carry the hover title and a shortcut
+           click. Hidden (filtered-out) marks are not targets at all. -->
+      <span
         v-for="m in marks"
         :key="m.index"
-        type="button"
         class="ufo-ruler-mark"
         :class="[
           `is-${m.significance || 'notable'}`,
@@ -334,11 +354,9 @@ const kicker = computed(() => (props.eraOrdinal > 0 && props.eraCount > 0
           },
         ]"
         :style="{ left: `${m.pct}%`, '--mark': m.mark, '--lane': m.lane }"
-        :title="`${m.date} · ${m.title}`"
-        :aria-label="`${m.date}: ${m.title}${m.hidden ? ' (hidden by filter)' : ''} — jump to entry`"
-        tabindex="-1"
-        @pointerdown.stop
-        @click.stop="emit('jump', m.index)"
+        :title="m.hidden ? undefined : `${m.date} · ${m.title}`"
+        aria-hidden="true"
+        @click.stop="!m.hidden && emit('jump', m.index)"
       />
 
       <div class="ufo-ruler-cursor" aria-hidden="true" />
@@ -393,18 +411,6 @@ const kicker = computed(() => (props.eraOrdinal > 0 && props.eraCount > 0
 }
 .ufo-chrono-year-digits {
   display: inline-block;
-}
-.ufo-roll-enter-active,
-.ufo-roll-leave-active {
-  transition: transform var(--dur-fast) var(--ease-out), opacity var(--dur-fast) var(--ease-out);
-}
-.ufo-roll-enter-from {
-  transform: translateY(60%);
-  opacity: 0;
-}
-.ufo-roll-leave-to {
-  transform: translateY(-60%);
-  opacity: 0;
 }
 
 .ufo-chrono-era {
@@ -567,7 +573,10 @@ const kicker = computed(() => (props.eraOrdinal > 0 && props.eraCount > 0
   font-weight: 600;
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  color: hsl(var(--muted-foreground));
+  /* --foreground, not --muted-foreground: on the tinted bands the muted
+     token measures 3.9–4.0:1 in light and sepia. Secondary by size instead. */
+  color: hsl(var(--foreground));
+  opacity: 0.85;
   white-space: nowrap;
 }
 
@@ -641,14 +650,15 @@ const kicker = computed(() => (props.eraOrdinal > 0 && props.eraCount > 0
   position: absolute;
   bottom: var(--baseline);
   z-index: 1;
+  display: block;
   width: 18px;
   height: calc(var(--h) + var(--lane) * 7px + 4px);
-  padding: 0;
-  border: 0;
-  background: transparent;
   transform: translateX(-50%);
   cursor: pointer;
   --h: 10px;
+}
+.ufo-ruler-mark.is-hidden {
+  pointer-events: none;
 }
 .ufo-ruler-mark::before {
   content: '';
@@ -749,6 +759,13 @@ const kicker = computed(() => (props.eraOrdinal > 0 && props.eraCount > 0
   .ufo-chrono-now-title {
     display: none;
   }
+  .ufo-chrono-now {
+    flex: 1 1 48px;
+    overflow: hidden;
+  }
+  .ufo-chrono-era {
+    flex: 0 1 auto;
+  }
   .ufo-chrono-btn > span:not(.ufo-chrono-count) {
     display: none;
   }
@@ -776,8 +793,6 @@ const kicker = computed(() => (props.eraOrdinal > 0 && props.eraCount > 0
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .ufo-roll-enter-active,
-  .ufo-roll-leave-active,
   .ufo-ruler-playhead,
   .ufo-ruler-mark::before,
   .ufo-ruler-band {

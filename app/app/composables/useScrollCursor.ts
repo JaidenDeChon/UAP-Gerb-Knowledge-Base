@@ -44,16 +44,29 @@ export function useScrollCursor(listRoot: Ref<HTMLElement | null>, opts: ScrollC
   let resizeObserver: ResizeObserver | null = null
   const userScrollHandlers = new Set<() => void>()
 
+  /**
+   * An element's top in the container's scroll space, from the offsetParent
+   * chain — layout position, not the transformed box. `getBoundingClientRect`
+   * would include the reveal directive's resting `translateY(14px)` on every
+   * below-the-fold entry and record them all 14px low.
+   */
+  function layoutTop(el: HTMLElement): number {
+    let y = 0
+    let node: HTMLElement | null = el
+    while (node && node !== container) {
+      y += node.offsetTop
+      node = node.offsetParent as HTMLElement | null
+    }
+    return y
+  }
+
   function measure(): void {
     measureFrame = 0
     if (!container || !listRoot.value) return
-    const containerTop = container.getBoundingClientRect().top
-    const scrollTop = container.scrollTop
     const items = listRoot.value.querySelectorAll<HTMLElement>(opts.itemSelector)
-    offsets = Array.from(items, el => el.getBoundingClientRect().top - containerTop + scrollTop)
-    const rootRect = listRoot.value.getBoundingClientRect()
-    listTop = rootRect.top - containerTop + scrollTop
-    listBottom = listTop + rootRect.height
+    offsets = Array.from(items, layoutTop)
+    listTop = layoutTop(listRoot.value)
+    listBottom = listTop + listRoot.value.offsetHeight
     compute()
   }
 
@@ -70,7 +83,13 @@ export function useScrollCursor(listRoot: Ref<HTMLElement | null>, opts: ScrollC
     if (p !== progress.value) progress.value = p
   }
 
+  // A scroll the composable did not start itself — scrollbar drag, a TOC or
+  // anchor link, browser find — counts as the reader moving. `scrollToIndex`
+  // opens a short window in which the container's own scroll events are
+  // expected and not reported as the reader's.
+  let programmaticUntil = 0
   function onScroll(): void {
+    if (performance.now() > programmaticUntil) emitUserScroll()
     if (!frame) frame = requestAnimationFrame(compute)
   }
 
@@ -92,6 +111,7 @@ export function useScrollCursor(listRoot: Ref<HTMLElement | null>, opts: ScrollC
     if (!container) return
     const top = offsets[i]
     if (top === undefined) return
+    programmaticUntil = performance.now() + (behavior === 'smooth' ? 1500 : 200)
     container.scrollTo({ top: Math.max(0, top - (opts.stickyOffset?.() ?? 0) - 12), behavior })
   }
 
@@ -100,7 +120,15 @@ export function useScrollCursor(listRoot: Ref<HTMLElement | null>, opts: ScrollC
     for (const handler of userScrollHandlers) handler()
   }
   function onKeydown(event: KeyboardEvent): void {
-    if (SCROLL_KEYS.has(event.key)) emitUserScroll()
+    if (!SCROLL_KEYS.has(event.key)) return
+    // Keys typed into a field (the command palette, say) or aimed at something
+    // outside the container scroll nothing here.
+    const target = event.target as HTMLElement | null
+    if (target && target !== document.body) {
+      if (target.closest('input, textarea, select, [contenteditable="true"]')) return
+      if (container && !container.contains(target)) return
+    }
+    emitUserScroll()
   }
 
   /** Subscribe to reader-initiated scrolling. Returns an unsubscribe. */

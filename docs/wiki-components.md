@@ -348,7 +348,8 @@ Behaviour worth knowing:
   present in `events` (deduplicated, sorted) — there's no separate list to
   maintain. A "Major only" toggle is always shown. Filters hide entries from
   the list but only *dim* their ticks on the ruler, so the shape of the whole
-  span never changes; clicking a dimmed tick clears the filters and jumps.
+  span never changes; a dimmed tick is inert, and a ruler click lands on the
+  nearest *visible* entry — filters are never cleared behind the reader's back.
 - Ruler geometry is pure and server-rendered: `timeScale` snaps the axis to
   5-year edges around the earliest/latest event or era, `fractionalYear`
   places a tick by month, `assignLanes` stacks anything closer than ~1.6% of

@@ -37,7 +37,7 @@ Throughout, the host frames each era with an "estimate of the situation" -- a cr
 
 ::wiki-timeline{video="o4czWtSxGig" video-title="80 Years of UFO Crash Retrieval"}
 ---
-help: "The bar pinned above the entries is a ninety-year ruler. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump. The white marker is where you are reading; once the video is playing, the green marker is where the host is. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page. Timestamps jump the mini-player to that moment; a ~ marks an approximate cue."
+help: "The bar pinned above the entries is a ninety-year ruler. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line capped with a downward arrow is where the host is. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Timestamps jump the mini-player to that moment; a ~ marks an approximate cue."
 eras:
   - id: prologue
     label: "Prologue"
