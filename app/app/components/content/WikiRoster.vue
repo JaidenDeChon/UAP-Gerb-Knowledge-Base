@@ -1,4 +1,18 @@
 <script setup lang="ts">
+import type { Component } from 'vue'
+import {
+  Atom,
+  Building2,
+  CalendarClock,
+  Clapperboard,
+  Compass,
+  Crosshair,
+  FileText,
+  House,
+  MapPin,
+  Users,
+} from '@lucide/vue'
+import { CATEGORY_ICON, type Category } from '#shared/types/wiki'
 import { categoryMark, categorySurface } from '@/utils/category'
 
 interface Entry { name: string, role?: string, note?: string }
@@ -9,6 +23,24 @@ const { refs } = useWikiResolve(() => props.entries.map(e => e.name))
 
 function categoryOf(name: string): string {
   return refs.value.get(name.trim())?.category ?? 'Unlinked'
+}
+
+/** Mirrors the sidebar/command-palette's own `ICONS` map (see `AppSidebarTree.vue`). */
+const ICONS: Record<string, Component> = {
+  'house': House,
+  'compass': Compass,
+  'users': Users,
+  'building-2': Building2,
+  'crosshair': Crosshair,
+  'calendar-clock': CalendarClock,
+  'map-pin': MapPin,
+  'atom': Atom,
+  'clapperboard': Clapperboard,
+}
+
+function iconFor(name: string): Component {
+  const category = refs.value.get(name.trim())?.category as Category | undefined
+  return category ? (ICONS[CATEGORY_ICON[category]] ?? FileText) : FileText
 }
 </script>
 
@@ -26,7 +58,9 @@ function categoryOf(name: string): string {
       <!-- Category spine, on top of the surface tint below. -->
       <span class="ufo-roster-spine absolute inset-y-0 left-0 w-[3px]" aria-hidden="true" />
       <div class="flex items-center gap-1.5">
-        <span class="ufo-roster-dot" aria-hidden="true" />
+        <span class="ufo-roster-icon-wrap" aria-hidden="true">
+          <component :is="iconFor(entry.name)" class="ufo-roster-icon" />
+        </span>
         <span class="ufo-roster-cat font-mono text-[10px] font-semibold uppercase tracking-[0.1em]">
           {{ categoryOf(entry.name) }}
         </span>
@@ -97,14 +131,23 @@ function categoryOf(name: string): string {
 .ufo-roster-spine {
   background: var(--card-mark);
 }
-.ufo-roster-dot {
-  display: inline-block;
+/* Icon + hairline ring, same reasoning as WikiTimeline's `.ufo-entry-cat-icon-wrap`
+   and WikiEntityLink's dot: a neutral `--border` ring keeps the mark's shape
+   legible even for hues that can't clear 3:1 against the card on their own. */
+.ufo-roster-icon-wrap {
+  display: inline-flex;
   flex: none;
-  width: 7px;
-  height: 7px;
-  border-radius: 9999px;
-  background: var(--card-mark);
+  align-items: center;
+  justify-content: center;
+  width: 15px;
+  height: 15px;
+  border-radius: var(--radius-sm);
   border: 1px solid hsl(var(--border));
+}
+.ufo-roster-icon {
+  width: 10px;
+  height: 10px;
+  color: var(--card-mark);
 }
 .ufo-roster-cat,
 .ufo-roster-role {

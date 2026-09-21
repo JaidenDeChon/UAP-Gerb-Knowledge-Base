@@ -45,7 +45,16 @@ const nodeSurface = computed(() => categorySurface(category.value))
               {{ props.node.label }}
             </div>
             <div class="ufo-org-name">
-              <WikiEntityLink :name="props.node.name" :ref-data="props.refs.get(props.node.name.trim())" />
+              <!-- `variant="inline"` — see WikiEntityLink's own prop doc. This
+                   node's box is already tinted by this same entity's category
+                   (`--node-surface`/`--node-border` above); the small
+                   132-220px box has no room for a second, redundant
+                   colour-coded pill without reading as clutter. -->
+              <WikiEntityLink
+                :name="props.node.name"
+                :ref-data="props.refs.get(props.node.name.trim())"
+                variant="inline"
+              />
             </div>
             <div v-if="props.node.note" class="ufo-org-note">
               {{ props.node.note }}

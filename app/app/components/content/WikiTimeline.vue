@@ -1,5 +1,37 @@
 <script setup lang="ts">
-import { timelineBorder, timelineMark, timelineSurface, timelineSurfaceHover } from '@/utils/category'
+import type { Component } from 'vue'
+import {
+  Building2,
+  CalendarClock,
+  Compass,
+  Crosshair,
+  FileText,
+  Scale,
+  Users,
+} from '@lucide/vue'
+import {
+  timelineBorder,
+  timelineIconName,
+  timelineLabel,
+  timelineMark,
+  timelineSurface,
+  timelineSurfaceHover,
+} from '@/utils/category'
+
+/** Glyph names `timelineIconName` can return -> the lucide component. */
+const ICONS: Record<string, Component> = {
+  'calendar-clock': CalendarClock,
+  'crosshair': Crosshair,
+  'users': Users,
+  'building-2': Building2,
+  'file-text': FileText,
+  'scale': Scale,
+  'compass': Compass,
+}
+
+function categoryIcon(category?: string): Component {
+  return ICONS[timelineIconName(category)] ?? Compass
+}
 
 interface TimelineEvent {
   date: string
@@ -224,7 +256,17 @@ const { refs } = useWikiResolve(() => props.events.flatMap(e => e.entities ?? []
               '--entry-surface-hover': timelineSurfaceHover(event.category),
             }"
           >
-            <div class="flex items-center gap-2">
+            <!-- Category marker: icon + one-word label, full-strength mark colour
+                 with a neutral hairline so its shape reads even for hues that
+                 can't clear 3:1 against the card. This IS the legend — no
+                 prose explainer needed. -->
+            <div class="ufo-entry-cat">
+              <span class="ufo-entry-cat-icon-wrap" aria-hidden="true">
+                <component :is="categoryIcon(event.category)" class="ufo-entry-cat-icon" />
+              </span>
+              <span class="ufo-entry-cat-label">{{ timelineLabel(event.category) }}</span>
+            </div>
+            <div class="mt-1 flex items-center gap-2">
               <span class="ufo-entry-date font-mono text-[11px] uppercase tracking-[0.06em]">
                 {{ formatDate(event.date) }}
               </span>
@@ -403,6 +445,42 @@ const { refs } = useWikiResolve(() => props.events.flatMap(e => e.entities ?? []
  * text on the card) rather than by colour.
  */
 .ufo-entry-date {
+  color: hsl(var(--foreground));
+}
+
+/* -- category marker: icon + one-word label, the card's own legend. --
+ * Icon colour is `--entry-mark` (full-strength timelineMark), same as the
+ * dot marks elsewhere; the wrap's neutral 1px `--border` hairline keeps the
+ * glyph's shape visible even where the mark itself can't clear 3:1 against
+ * the card (the videos/light+sepia case category.ts documents), same
+ * reasoning as WikiEntityLink's dot ring. The label text is `--foreground`,
+ * never the mark colour, for the same 4.5:1 reasons as `.ufo-entry-date`. */
+.ufo-entry-cat {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+.ufo-entry-cat-icon-wrap {
+  display: inline-flex;
+  flex: none;
+  align-items: center;
+  justify-content: center;
+  width: 15px;
+  height: 15px;
+  border-radius: var(--radius-sm);
+  border: 1px solid hsl(var(--border));
+}
+.ufo-entry-cat-icon {
+  width: 10px;
+  height: 10px;
+  color: var(--entry-mark);
+}
+.ufo-entry-cat-label {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
   color: hsl(var(--foreground));
 }
 

@@ -51,6 +51,42 @@ export function timelineTintFor(category?: string): string {
   return `hsl(var(${TIMELINE_TINT[category ?? ''] ?? '--graph-cat-mocs'}))`
 }
 
+/**
+ * Timeline event category -> lucide glyph name, for the small icon+label
+ * category marker on timeline entry cards. Mirrors `CATEGORY_ICON` (in
+ * `#shared/types/wiki`) where the domains line up, so e.g. a "person" entry
+ * here uses the same glyph a vault People note uses elsewhere in the app.
+ * Falls back to MOCs' `compass`, matching `timelineTintFor`'s own fallback.
+ */
+export const TIMELINE_ICON: Record<string, string> = {
+  event: 'calendar-clock',
+  program: 'crosshair',
+  person: 'users',
+  organization: 'building-2',
+  document: 'file-text',
+  policy: 'scale',
+}
+
+/** Timeline event category -> its one-word display label, for the card marker. */
+export const TIMELINE_LABEL: Record<string, string> = {
+  event: 'Event',
+  program: 'Program',
+  person: 'Person',
+  organization: 'Organization',
+  document: 'Document',
+  policy: 'Policy',
+}
+
+/** Resolve a timeline event category to its lucide glyph name. */
+export function timelineIconName(category?: string): string {
+  return TIMELINE_ICON[category ?? ''] ?? 'compass'
+}
+
+/** Resolve a timeline event category to its one-word display label. */
+export function timelineLabel(category?: string): string {
+  return TIMELINE_LABEL[category ?? ''] ?? 'Policy'
+}
+
 /* ============================================================
    Full-strength marks vs. low-alpha surfaces
    ------------------------------------------------------------
