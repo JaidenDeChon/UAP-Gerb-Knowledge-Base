@@ -118,6 +118,9 @@ const circle = ([x, y, r]: [number, number, number]) =>
 const hubPath = circle(NODES[0]!)
 const nodePath = NODES.slice(1).map(circle).join('')
 
+/** Long titles (the vault has 70-character ones) step the display size down a notch. */
+const longTitle = computed(() => props.title.length > 48)
+
 function play(): void {
   if (!videoId.value) return
   dock.open({ videoId: videoId.value, title: props.title })
@@ -188,7 +191,8 @@ function play(): void {
 
         <h1
           id="page-title"
-          class="ufo-hero-title mt-4 font-display text-[clamp(32px,5vw,56px)] font-extrabold uppercase leading-none tracking-[0.02em] text-foreground"
+          class="ufo-hero-title mt-4 font-display font-extrabold uppercase leading-none tracking-[0.02em] text-foreground"
+          :class="{ 'is-long': longTitle }"
         >
           {{ title }}
         </h1>
@@ -353,7 +357,12 @@ function play(): void {
 }
 .ufo-hero-title {
   max-width: 16ch;
+  font-size: clamp(32px, 5vw, 56px);
   text-wrap: balance;
+}
+.ufo-hero-title.is-long {
+  max-width: 22ch;
+  font-size: clamp(26px, 3.6vw, 42px);
 }
 .ufo-hero-lead {
   max-width: 54ch;
