@@ -707,7 +707,7 @@ from the theme tokens (`--primary` for nodes, `--graph-edge` for links) and
 re-read when the theme changes, so it never carries a literal colour. It
 draws one static frame under `prefers-reduced-motion: reduce`, pauses while
 off-screen or in a background tab, and renders nothing on the server. Props:
-`density` (nodes per 10,000 px², total clamped to 24–120), `linkDistance`,
+`density` (nodes per 10,000 px², total clamped to 24–140), `linkDistance`,
 `grabDistance` (0 disables), `speed`. Hand-rolled rather than a particles
 library so the effect stays inside the token system at zero bundle cost.
 

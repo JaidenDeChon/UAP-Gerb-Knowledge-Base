@@ -18,7 +18,7 @@
  */
 const props = withDefaults(
   defineProps<{
-    /** Nodes per 10,000 css px²; the total is clamped to [24, 120]. */
+    /** Nodes per 10,000 css px²; the total is clamped to [24, 140]. */
     density?: number
     /** Longest link, in css px. */
     linkDistance?: number
@@ -27,7 +27,7 @@ const props = withDefaults(
     /** Drift speed multiplier. */
     speed?: number
   }>(),
-  { density: 0.7, linkDistance: 130, grabDistance: 180, speed: 1 },
+  { density: 1.15, linkDistance: 150, grabDistance: 180, speed: 1 },
 )
 
 interface Node { x: number, y: number, vx: number, vy: number, r: number, hub: boolean }
@@ -72,7 +72,7 @@ function hsl(triplet: string, alpha: number): string {
 
 /** Grow or shrink the population to match the area, keeping existing nodes in place. */
 function seed(): void {
-  const target = clamp(Math.round((w * h / 10000) * props.density), 24, 120)
+  const target = clamp(Math.round((w * h / 10000) * props.density), 24, 140)
   while (nodes.length > target) nodes.pop()
   while (nodes.length < target) {
     const angle = Math.random() * Math.PI * 2
@@ -83,7 +83,7 @@ function seed(): void {
       y: Math.random() * h,
       vx: Math.cos(angle) * v,
       vy: Math.sin(angle) * v,
-      r: hub ? 3 + Math.random() * 1.5 : 1.2 + Math.random() * 1.4,
+      r: hub ? 3.2 + Math.random() * 1.4 : 1.5 + Math.random() * 1.5,
       hub,
     })
   }
@@ -140,7 +140,7 @@ function draw(): void {
       const d2 = dx * dx + dy * dy
       if (d2 > R2) continue
       const t = 1 - Math.sqrt(d2) / R
-      ctx.strokeStyle = hsl(colors.edge, 0.08 + t * 0.42)
+      ctx.strokeStyle = hsl(colors.edge, 0.1 + t * 0.45)
       ctx.beginPath()
       ctx.moveTo(a.x, a.y)
       ctx.lineTo(b.x, b.y)
