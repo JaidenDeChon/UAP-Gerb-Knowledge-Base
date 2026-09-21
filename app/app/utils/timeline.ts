@@ -15,16 +15,34 @@ export interface TimelineEvent {
   /** Seconds into the page's video where this entry is discussed. */
   cue?: number
   cueApprox?: boolean
+  /**
+   * Force this entry into the era with this `id` (or `label`) when its year
+   * alone is ambiguous — e.g. two 1994 entries where one closes an era and
+   * the next opens the following one.
+   */
+  era?: string
 }
 
 /** An authored era: a labelled span of years the video itself frames. */
 export interface TimelineEra {
+  /** Optional key `TimelineEvent.era` can point at; falls back to `label`. */
+  id?: string
   label: string
   from: number
   /** Inclusive end year; omit for "to the present" (the scale's max year). */
   to?: number
   /** One-line description shown under the era's chapter heading. */
   summary?: string
+  /** The video's "estimate of the situation" for this era, if it names one. */
+  estimate?: string
+  /** Id of a heading elsewhere on the page that analyses this era. */
+  anchor?: string
+}
+
+/** A single labelled year on the axis that marks a turning point without opening an era. */
+export interface TimelineHinge {
+  year: number
+  label: string
 }
 
 /**
@@ -218,4 +236,175 @@ export function formatClock(totalSeconds: number): string {
   const sec = s % 60
   const pad = (n: number) => String(n).padStart(2, '0')
   return h > 0 ? `${h}:${pad(m)}:${pad(sec)}` : `${m}:${pad(sec)}`
+}
+
+/* ------------------------------------------------------------ chapters -- */
+
+export type ChapterKind = 'era' | 'before' | 'after' | 'decade' | 'undated'
+
+export interface Chapter<T extends TimelineEvent = TimelineEvent> {
+  key: string
+  kind: ChapterKind
+  label: string
+  from: number | null
+  to: number | null
+  summary?: string
+  estimate?: string
+  anchor?: string
+  /** 1-based position among the era chapters, for the "ERA 02 / 04" kicker. */
+  ordinal: number
+  events: T[]
+}
+
+function eraKey(era: TimelineEra): string {
+  return era.id ?? era.label
+}
+
+/**
+ * Group already-sorted events into reading chapters. With authored eras,
+ * each event lands in the era `eraOf` picks for its year — or the one its own
+ * `era` field names — with automatic "before the first era" / "after the
+ * last era" chapters around them and a trailing "Undated" chapter. With no
+ * eras the fallback is one chapter per `decade`-sized bucket, so a page that
+ * never authored eras renders exactly as it always has. Only chapters that
+ * hold at least one event are returned.
+ */
+export function chapterize<T extends TimelineEvent>(
+  sorted: T[],
+  eras: TimelineEra[],
+  decade = 10,
+): Chapter<T>[] {
+  if (!eras.length) {
+    const out: Chapter<T>[] = []
+    let current: Chapter<T> | null = null
+    for (const event of sorted) {
+      const year = yearOf(event.date)
+      const label = year === null ? 'Undated' : `${Math.floor(year / decade) * decade}s`
+      if (!current || current.label !== label) {
+        current = {
+          key: label,
+          kind: year === null ? 'undated' : 'decade',
+          label,
+          from: year === null ? null : Math.floor(year / decade) * decade,
+          to: year === null ? null : Math.floor(year / decade) * decade + decade - 1,
+          ordinal: out.length + 1,
+          events: [],
+        }
+        out.push(current)
+      }
+      current.events.push(event)
+    }
+    return out
+  }
+
+  const ordered = [...eras].sort((a, b) => a.from - b.from)
+  const byKey = new Map<string, TimelineEra>()
+  for (const era of ordered) {
+    byKey.set(eraKey(era), era)
+    byKey.set(era.label, era)
+  }
+  const first = ordered[0]!
+  const last = ordered[ordered.length - 1]!
+
+  const buckets = new Map<string, T[]>()
+  const push = (key: string, event: T) => {
+    const list = buckets.get(key)
+    if (list) list.push(event)
+    else buckets.set(key, [event])
+  }
+
+  for (const event of sorted) {
+    const year = yearOf(event.date)
+    const forced = event.era ? byKey.get(event.era) : undefined
+    const era = forced ?? eraOf(year, ordered)
+    if (era) {
+      push(eraKey(era), event)
+    }
+    else if (year === null) {
+      push('__undated', event)
+    }
+    else if (year < first.from) {
+      push('__before', event)
+    }
+    else {
+      push('__after', event)
+    }
+  }
+
+  const out: Chapter<T>[] = []
+  const before = buckets.get('__before')
+  if (before) {
+    out.push({ key: '__before', kind: 'before', label: `Before ${first.label}`, from: null, to: first.from - 1, ordinal: 0, events: before })
+  }
+  let ordinal = 0
+  for (const era of ordered) {
+    const events = buckets.get(eraKey(era))
+    ordinal += 1
+    if (!events) continue
+    out.push({
+      key: eraKey(era),
+      kind: 'era',
+      label: era.label,
+      from: era.from,
+      to: typeof era.to === 'number' ? era.to : null,
+      summary: era.summary,
+      estimate: era.estimate,
+      anchor: era.anchor,
+      ordinal,
+      events,
+    })
+  }
+  const after = buckets.get('__after')
+  if (after) {
+    out.push({ key: '__after', kind: 'after', label: `After ${last.label}`, from: (last.to ?? last.from) + 1, to: null, ordinal: 0, events: after })
+  }
+  const undated = buckets.get('__undated')
+  if (undated) {
+    out.push({ key: '__undated', kind: 'undated', label: 'Undated', from: null, to: null, ordinal: 0, events: undated })
+  }
+  return out
+}
+
+/* -------------------------------------------------------- reading cursor -- */
+
+export interface Cursor {
+  /** Index of the last entry whose top sits at or above the reading line; -1 with no entries. */
+  index: number
+  /** 0–1, how far the reading line has travelled from that entry toward the next. */
+  t: number
+}
+
+/**
+ * Where the reader is: the last entry whose offset is at or above `y`, plus
+ * the fraction of the way to the next entry, so a cursor drawn from this
+ * glides across gaps instead of jumping. Before the first entry the cursor
+ * sits on entry 0 at t = 0; past the last it sits on the last at t = 0.
+ * `offsets` must be ascending.
+ */
+export function cursorFor(y: number, offsets: number[]): Cursor {
+  if (!offsets.length) return { index: -1, t: 0 }
+  let lo = 0
+  let hi = offsets.length - 1
+  let index = -1
+  while (lo <= hi) {
+    const mid = (lo + hi) >> 1
+    if (offsets[mid]! <= y) {
+      index = mid
+      lo = mid + 1
+    }
+    else {
+      hi = mid - 1
+    }
+  }
+  if (index < 0) return { index: 0, t: 0 }
+  const here = offsets[index]!
+  const next = offsets[index + 1]
+  if (next === undefined || next <= here) return { index, t: 0 }
+  return { index, t: Math.min(1, Math.max(0, (y - here) / (next - here))) }
+}
+
+/** Linear interpolation, clamped to [a, b] by t in [0, 1]. */
+export function lerp(a: number, b: number, t: number): number {
+  const k = Math.min(1, Math.max(0, t))
+  return a + (b - a) * k
 }

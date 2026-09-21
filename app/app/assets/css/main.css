@@ -191,6 +191,41 @@
 }
 
 /* ============================================================
+   Video hero treatment (components/wiki/WikiVideoHero.vue). The
+   thumbnail is texture behind the title card, never the subject:
+   desaturated and printed into the page surface — `multiply` on
+   the two paper themes so it sits *in* the paper, `normal` on the
+   dark pair where the green field is the brand image. The title
+   column always sits on ≥ .92 alpha of --background (see the
+   component's scrims), so text contrast is the page's own.
+   ============================================================ */
+:root,
+[data-theme="light"] {
+  --hero-img-opacity: 0.58;
+  --hero-img-filter: grayscale(0.6) contrast(1.05) brightness(1.02);
+  --hero-img-blend: multiply;
+  --hero-field-opacity: 0.45;
+}
+[data-theme="sepia"] {
+  --hero-img-opacity: 0.5;
+  --hero-img-filter: grayscale(0.7) sepia(0.35) contrast(1.04);
+  --hero-img-blend: multiply;
+  --hero-field-opacity: 0.4;
+}
+[data-theme="dim"] {
+  --hero-img-opacity: 0.6;
+  --hero-img-filter: grayscale(0.45) brightness(0.85);
+  --hero-img-blend: normal;
+  --hero-field-opacity: 0.65;
+}
+[data-theme="dark"] {
+  --hero-img-opacity: 0.66;
+  --hero-img-filter: grayscale(0.45) brightness(0.8) contrast(1.1);
+  --hero-img-blend: normal;
+  --hero-field-opacity: 0.8;
+}
+
+/* ============================================================
    Semantic color → token mapping. `inline` substitutes
    hsl(var(--token)) at the USE site, so bg-primary re-resolves
    inside any data-theme subtree (this is what powers the live
@@ -398,6 +433,17 @@
 .prose-ufo code, .prose-ufo pre { font-family: var(--font-mono); }
 
 @keyframes ds-fade-in { from { opacity: 0; } to { opacity: 1; } }
+/* The one thing on a page allowed to pulse: a "live" dot, and only while a
+   video is actually playing (timeline playhead, hero readout). */
+@keyframes ufo-live-pulse {
+  0%, 100% { opacity: 1; box-shadow: 0 0 6px hsl(var(--primary) / 0.7); }
+  50% { opacity: 0.55; box-shadow: 0 0 12px hsl(var(--primary) / 0.35); }
+}
+/* Radar sweep for the hero rings: a slow, single-direction rotation. */
+@keyframes ufo-radar-sweep {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
 @keyframes ds-dialog-in {
   from { opacity: 0; transform: translate(-50%, -48%) scale(0.97); }
   to { opacity: 1; transform: translate(-50%, -50%) scale(1); }

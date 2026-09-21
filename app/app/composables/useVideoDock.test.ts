@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { clampRect } from './useVideoDock'
+import { clampRect, defaultRect } from './useVideoDock'
 
 describe('clampRect', () => {
   it('leaves a rect that already fits untouched', () => {
@@ -63,5 +63,22 @@ describe('clampRect', () => {
   it('shrinks below the 240px preference when the viewport itself is narrower', () => {
     const r = clampRect({ x: 0, y: 0, w: 384, h: 216 }, 200, 400)
     expect(r.x + r.w).toBeLessThanOrEqual(200)
+  })
+})
+
+describe('defaultRect', () => {
+  it('opens a first-time dock in the bottom-right corner with a 24px margin', () => {
+    const r = defaultRect(1440, 900)
+    expect(r.w).toBe(384)
+    expect(r.x + r.w).toBe(1440 - 24)
+    expect(r.y + r.h).toBe(900 - 24)
+  })
+
+  it('still fits a viewport too small for the margin', () => {
+    const r = defaultRect(320, 400)
+    expect(r.x).toBeGreaterThanOrEqual(0)
+    expect(r.y).toBeGreaterThanOrEqual(0)
+    expect(r.x + r.w).toBeLessThanOrEqual(320)
+    expect(r.y + r.h).toBeLessThanOrEqual(400)
   })
 })

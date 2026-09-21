@@ -2,11 +2,14 @@ import { describe, expect, it } from 'vitest'
 import {
   assignLanes,
   axisTicks,
+  chapterize,
+  cursorFor,
   eraBands,
   eraOf,
   formatClock,
   formatDate,
   fractionalYear,
+  lerp,
   nowPlayingIndex,
   sortEvents,
   timeScale,
@@ -143,5 +146,67 @@ describe('formatClock', () => {
     expect(formatClock(987)).toBe('16:27')
     expect(formatClock(3792)).toBe('1:03:12')
     expect(formatClock(-4)).toBe('0:00')
+  })
+})
+
+describe('chapterize', () => {
+  const eras = [
+    { id: 'golden', label: 'Golden', from: 1947, to: 1978 },
+    { id: 'cold', label: 'Cold War', from: 1978, to: 1994 },
+    { id: 'modern', label: 'Modern', from: 1994 },
+  ]
+  const events = [
+    { date: '1933', title: 'prologue' },
+    { date: '1947', title: 'roswell' },
+    { date: '1978', title: 'eo12036' },
+    { date: '1994', title: 'kissner', era: 'cold' },
+    { date: '1994', title: 'group' },
+    { date: 'Unknown', title: 'undated' },
+  ]
+
+  it('groups by era with automatic before/undated chapters and honours an era override', () => {
+    const chapters = chapterize(events, eras)
+    expect(chapters.map(c => [c.kind, c.label, c.events.map(e => e.title)])).toEqual([
+      ['before', 'Before Golden', ['prologue']],
+      ['era', 'Golden', ['roswell']],
+      ['era', 'Cold War', ['eo12036', 'kissner']],
+      ['era', 'Modern', ['group']],
+      ['undated', 'Undated', ['undated']],
+    ])
+  })
+
+  it('numbers era chapters by their authored order, skipping empty eras without renumbering', () => {
+    const chapters = chapterize([{ date: '1950', title: 'a' }, { date: '2000', title: 'b' }], eras)
+    expect(chapters.map(c => [c.label, c.ordinal])).toEqual([['Golden', 1], ['Modern', 3]])
+  })
+
+  it('emits an after-chapter for events past a closed final era', () => {
+    const closed = [{ label: 'Only', from: 1947, to: 1978 }]
+    const chapters = chapterize([{ date: '1990', title: 'late' }], closed)
+    expect(chapters[0]!.kind).toBe('after')
+    expect(chapters[0]!.from).toBe(1979)
+  })
+
+  it('falls back to decade chapters with no eras', () => {
+    const chapters = chapterize([{ date: '1947', title: 'a' }, { date: '1948', title: 'b' }, { date: '1955', title: 'c' }], [])
+    expect(chapters.map(c => [c.kind, c.label, c.events.length])).toEqual([['decade', '1940s', 2], ['decade', '1950s', 1]])
+  })
+})
+
+describe('cursorFor / lerp', () => {
+  const offsets = [100, 300, 600]
+  it('finds the entry under the reading line and the fraction toward the next', () => {
+    expect(cursorFor(100, offsets)).toEqual({ index: 0, t: 0 })
+    expect(cursorFor(200, offsets)).toEqual({ index: 0, t: 0.5 })
+    expect(cursorFor(450, offsets)).toEqual({ index: 1, t: 0.5 })
+  })
+  it('clamps before the first and after the last entry', () => {
+    expect(cursorFor(10, offsets)).toEqual({ index: 0, t: 0 })
+    expect(cursorFor(9999, offsets)).toEqual({ index: 2, t: 0 })
+    expect(cursorFor(5, [])).toEqual({ index: -1, t: 0 })
+  })
+  it('lerps with a clamped t', () => {
+    expect(lerp(1947, 1957, 0.5)).toBe(1952)
+    expect(lerp(1947, 1957, 2)).toBe(1957)
   })
 })

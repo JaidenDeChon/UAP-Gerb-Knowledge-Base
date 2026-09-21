@@ -25,9 +25,6 @@ stats:
 ---
 ::
 
-::wiki-watch{video="o4czWtSxGig" title="80 Years of UFO Crash Retrieval"}
-::
-
 ## Overview
 
 This video is UAP Gerb's macro-level synthesis of the channel's entire body of research: a single chronological timeline of the [[UFO Legacy Program Framework|UFO Legacy Programs]] apparatus from an alleged 1933 crash retrieval in fascist Italy through 2026. Rather than deep-diving one program, contractor, or crash, the video steps back to identify roughly forty milestones it argues define how a once-unified US government effort to retrieve, store, exploit, and reverse-engineer non-human technical vehicles fractured over eight decades into a "flat hierarchy" of siloed, loosely accountable programs. The host organizes the timeline into three eras: the **Golden Era** (1947-1978), a period of unified, centralized control under a National Security Council "control group"; the **Cold War Reorganization** (1978-1994), during which oversight reforms and scandals forced the program to disperse and hide inside cover offices and contractor "breakaway" activities; and the **Modern Era** (1994-present), characterized by an informal 27-person quasi-industry-and-government control group, catastrophic loss of institutional knowledge, and open factionalism.
@@ -36,10 +33,40 @@ The video's central thesis is that the security and compartmentalization archite
 
 Throughout, the host frames each era with an "estimate of the situation" -- a credible contemporaneous witness statement used as a calibration point -- including [[Wilbert B. Smith]] and [[Robert Sarbacher]] (1950), [[Bobby Ray Inman]] and [[Bob Echler]] (1989), [[Andrew Kissner]] (1994), and David Grusch (2023). The video explicitly acknowledges its own limits, noting the host's expertise is confined to crash retrieval and legacy program structure, and that topics like alleged non-human intelligence contact protocols or negotiated agreements are deliberately excluded.
 
-## Chronology :wiki-info[Entries are colour-tinted by category, and the filter chips above the list double as the legend -- each chip's dot matches its category's colour. Timestamps (the small play-glyph buttons) jump the embedded player to that moment in the video; a "~" marks an approximate cue.]{label="How to read this timeline"}
+## Chronology
 
 ::wiki-timeline{video="o4czWtSxGig" video-title="80 Years of UFO Crash Retrieval"}
 ---
+help: "The bar pinned above the entries is a ninety-year ruler. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump. The white marker is where you are reading; once the video is playing, the green marker is where the host is. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page. Timestamps jump the mini-player to that moment; a ~ marks an approximate cue."
+eras:
+  - id: prologue
+    label: "Prologue"
+    from: 1933
+    to: 1946
+    summary: "An alleged crash retrieval in fascist Italy fourteen years before Roswell, shelved through the war -- the outlier the video addresses before its timeline proper begins."
+  - id: golden
+    label: "The Golden Era"
+    from: 1947
+    to: 1977
+    summary: "Roswell to Carter: a unified, centralised effort under a National Security Council control group, run on the Manhattan Project's security architecture."
+    estimate: "Wilbert B. Smith and Robert Sarbacher, 1950"
+    anchor: "the-golden-era-1947-1978"
+  - id: coldwar
+    label: "The Cold War Reorganization"
+    from: 1978
+    to: 1993
+    summary: "Oversight reforms and scandals force the programs to disperse into cover offices and contractor 'breakaway' activities."
+    estimate: "Bobby Ray Inman and Bob Echler, 1989; Andrew Kissner, 1994"
+    anchor: "the-cold-war-reorganization-1978-1994"
+  - id: modern
+    label: "The Modern Era"
+    from: 1994
+    summary: "An informal 27-person quasi-industry control group, catastrophic loss of institutional knowledge, open factionalism -- and, in 2023, a possible new era."
+    estimate: "David Grusch, 2023"
+    anchor: "the-modern-era-1994-present"
+hinges:
+  - year: 2023
+    label: "Grusch testimony"
 events:
   - date: "1933-06"
     title: "Magenta, Italy UFO crash retrieval"
@@ -328,6 +355,7 @@ events:
       - "E-Systems"
   - date: "1994"
     title: "J. Andrew Kissner's estimate of the situation"
+    era: coldwar
     cue: 6392
     summary: "Former New Mexico state representative J. Andrew Kissner compiled a statement, based on years of private interviews with military, intelligence, and industry personnel, describing UFO crash-retrieval and reverse-engineering activity from the 1947 Roswell/White Sands recoveries through 1994; it was presented publicly by researcher Linda Moulton Howe in 2004."
     category: document

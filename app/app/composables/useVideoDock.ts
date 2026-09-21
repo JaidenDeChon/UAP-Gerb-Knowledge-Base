@@ -7,6 +7,17 @@ const STORAGE_KEY = 'ufo:dock'
 export const DEFAULT_RECT: DockRect = { x: 24, y: 24, w: 384, h: Math.round(384 / RATIO) }
 
 /**
+ * Where a dock with no remembered geometry first opens: the bottom-right
+ * corner, clear of the sidebar, the top bar and — on a video page — the
+ * timeline's chronometer pinned at the top of the article. Pure, so it is
+ * unit-tested beside `clampRect`.
+ */
+export function defaultRect(vw: number, vh: number): DockRect {
+  const { w, h } = DEFAULT_RECT
+  return clampRect({ x: vw - w - 24, y: vh - h - 24, w, h }, vw, vh)
+}
+
+/**
  * Force a rect fully inside a viewport, preserving 16:9.
  *
  * Geometry is persisted across sessions, so a rect saved on a large display can
@@ -89,7 +100,10 @@ export function useVideoDock() {
   /** Restore geometry from localStorage, clamped to the current viewport. */
   function hydrate(): void {
     const stored = readStored()
-    const merged = { ...DEFAULT_RECT, ...stored }
+    const remembered = typeof stored.x === 'number' && typeof stored.y === 'number'
+    const merged = remembered
+      ? { ...DEFAULT_RECT, ...stored }
+      : { ...defaultRect(window.innerWidth, window.innerHeight), ...stored }
     rect.value = clampRect(merged, window.innerWidth, window.innerHeight)
     if (typeof stored.minimised === 'boolean') minimised.value = stored.minimised
   }

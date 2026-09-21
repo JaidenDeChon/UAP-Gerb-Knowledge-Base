@@ -18,6 +18,8 @@ import type { DirectiveBinding, ObjectDirective } from 'vue'
  */
 
 interface RevealOptions { delay?: number }
+/** `v-reveal="false"` opts an element out — e.g. a list re-rendered after a filter change. */
+type RevealValue = RevealOptions | false | undefined
 
 const HIDDEN = 'ufo-reveal'
 const SHOWN = 'is-in'
@@ -65,12 +67,13 @@ function flush(): void {
   })
 }
 
-function options(binding: DirectiveBinding<RevealOptions | undefined>): RevealOptions {
+function options(binding: DirectiveBinding<RevealValue>): RevealOptions {
   return binding.value && typeof binding.value === 'object' ? binding.value : {}
 }
 
-const reveal: ObjectDirective<HTMLElement, RevealOptions | undefined> = {
+const reveal: ObjectDirective<HTMLElement, RevealValue> = {
   mounted(el, binding) {
+    if (binding.value === false) return
     if (reducedMotion() || typeof IntersectionObserver === 'undefined') return
     pending.push({ el, delay: options(binding).delay ?? 0 })
     if (!frame) frame = requestAnimationFrame(flush)
