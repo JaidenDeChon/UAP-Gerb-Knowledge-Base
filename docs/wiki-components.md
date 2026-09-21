@@ -686,18 +686,30 @@ referenced from note bodies.
 
 The title card rendered by `app/app/pages/wiki/[...slug].vue` on every video
 **summary** note (any `Videos/*/summary` with a `video_id`), in place of the
-plain breadcrumb/badges/H1/lead/fact table. It draws the video's own YouTube
-thumbnail (`i.ytimg.com/vi/<id>/maxresdefault.jpg`, falling back to
-`hqdefault.jpg` — YouTube answers a missing maxres with a 120×90 placeholder
-and HTTP 200, so the fallback keys on `naturalWidth`) as a treated plate on
-the right, behind two scrims in `--background` that keep the title column on
-the page colour in every theme (`--hero-img-*` per theme in `main.css`), plus
-the app's radar-ring/graph-field ornament, a HUD row (channel, runtime, id)
-and Play / Transcript / YouTube actions. It is designed to look finished with
-no image at all. On those pages the local map moves to the end of the
-article, the prose `h2`s gain chapter numbers (CSS counters), and a 2px
-reading-progress line (`WikiReadingProgress.vue`) pins to the top of `<main>`.
-Transcript pages stay plain.
+plain breadcrumb/badges/H1/lead/fact table. Behind the title sits a live
+field of connected nodes (`WikiNodeField.vue`, below), under two scrims in
+`--background` that keep the title column on the page colour in every
+theme, plus HUD frame corners, a HUD row (channel, runtime, id) and Play /
+Transcript / YouTube actions. There is deliberately no thumbnail: the
+channel's thumbnails carry their own large text, which competes with the
+title. On those pages the local map moves to the end of the article, the
+prose `h2`s gain chapter numbers (CSS counters), and a 2px reading-progress
+line (`WikiReadingProgress.vue`) pins to the top of `<main>`. Transcript
+pages stay plain.
+
+### `app/app/components/wiki/WikiNodeField.vue`
+
+The animated connected-nodes field: a 2D canvas that fills its parent.
+Nodes drift, any two within `linkDistance` are joined by a line whose
+opacity falls off with distance, the pointer draws links to nodes within
+`grabDistance`, and a tenth of the nodes are glowing hubs. Colours are read
+from the theme tokens (`--primary` for nodes, `--graph-edge` for links) and
+re-read when the theme changes, so it never carries a literal colour. It
+draws one static frame under `prefers-reduced-motion: reduce`, pauses while
+off-screen or in a background tab, and renders nothing on the server. Props:
+`density` (nodes per 10,000 px², total clamped to 24–120), `linkDistance`,
+`grabDistance` (0 disables), `speed`. Hand-rolled rather than a particles
+library so the effect stays inside the token system at zero bundle cost.
 
 ### `app/app/composables/useVideoClock.ts`
 
