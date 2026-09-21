@@ -158,3 +158,14 @@ export function splitLead(
 
   return { lead: '', value }
 }
+
+/**
+ * Split a body at its first `<h2>`: the nodes before it, and that heading
+ * onwards. The Home note carries its intro and its Maps of Content list in one
+ * body, and the home page slots the featured entry between the two.
+ */
+export function splitAtFirstH2(body: unknown): { intro: MinimalNode[], rest: MinimalNode[] } {
+  const nodes = bodyNodes(body)
+  const at = nodes.findIndex(node => isElement(node) && node[0] === 'h2')
+  return at < 0 ? { intro: nodes, rest: [] } : { intro: nodes.slice(0, at), rest: nodes.slice(at) }
+}
