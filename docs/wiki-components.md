@@ -106,6 +106,21 @@ If you ever build another table-based component, use this same pattern
 border/padding/width on its `<table>`/`<td>`) rather than reaching for
 `!important`.
 
+The page's prose rules for `h3`, `h4`, `p`, `ul`, `ol` and `li` are scoped
+to **classless** elements (`:deep(p:not([class]))` and so on): markdown
+never carries a class, a component's own markup always should. Give every
+heading, paragraph and list a component renders a class, or the page's
+margins and type scale leak into it — that is exactly how the old timeline
+grew list numbers ("1.", "2.") beside its cards.
+
+### 4b. `position: sticky` only holds within its parent
+
+The timeline's chronometer is a direct child of the timeline's root, not
+wrapped in a `<div>` of its own: a sticky element stops sticking the moment
+its parent scrolls out, so a wrapper only as tall as the bar gives it nothing
+to stick inside. Same rule for anything else that pins: put it directly in
+the element that spans the region it should stay visible over.
+
 ### 5. A third-party library that replaces your mount element strips Vue's scoped-style attribute
 
 `WikiVideoDock.vue` hands a plain DOM node to the YouTube IFrame API:
@@ -161,6 +176,15 @@ live in a part of the layout that navigation never touches.
 `WikiVideoDock`'s own `v-if="dock.visible.value && dock.videoId.value"`
 controls whether it's *visible* — that's a separate concern from whether
 it's *mounted*, and only the layout placement guarantees the latter.
+
+### 6b. A component inside a heading no longer pollutes its anchor
+
+`## Chronology :wiki-info[…]` used to get an id slugged from the whole
+heading, aside included (300+ characters). `app/wiki/toc.ts` now re-slugs
+such headings from their own words (`#chronology`) at parse time, on the
+heading node and the TOC link together, skipping any slug that would collide
+with another heading. Plain headings keep exactly the id `@nuxt/content`
+generated.
 
 ### 7. Cue buttons need an explicit `aria-label`
 
@@ -224,16 +248,62 @@ kebab-cased by Nuxt Content — e.g. `WikiTimeline.vue` → `::wiki-timeline`.
 
 Source: `app/app/components/content/WikiTimeline.vue`
 
-Filterable, era-grouped chronology with a rail/dot visual.
+A chronology read as an instrument. Above the entries a **chronometer**
+(`app/app/components/wiki/TimelineChronometer.vue`, auto-imported as
+`WikiTimelineChronometer`) pins to the top of the scrolling `<main>` for the
+whole block: the year under the reader's eye (interpolated as they scroll),
+the era it belongs to, and — while the page's video is playing in the dock —
+the entry the host is discussing, over a proportional **ruler** of the whole
+span (era bands, one tick per entry coloured by category and sized by
+significance, same-year clusters stacked into lanes, decade ticks, a white
+reading cursor that glides, a green video playhead that snaps between cues).
+Beneath it the entries stay vertical, grouped into the eras the video frames
+(or decades when none are authored), beside a spine that fills in as the
+reader passes each node.
+
+Controls on the chronometer: click anywhere on the ruler (or a tick) to
+scroll to the nearest entry; the ruler is a keyboard `slider` (←/→ step,
+PageUp/PageDown ±5, Home/End, Enter = Sync); **Sync** seeks the video to the
+entry being read; **Follow** (only while the dock holds this page's video)
+lets the video scroll the page to each entry as it is discussed, and switches
+itself off the moment the reader scrolls; the filter button opens the
+category / "Major only" chips in a popover; the (i) button shows `help`.
 
 Props:
 
 | Prop | Type | Default | Notes |
 |---|---|---|---|
 | `events` | `TimelineEvent[]` | `[]` | YAML body. See schema below |
-| `eraSize` | `number \| string` | `10` | YAML body. Decade-bucket size, e.g. `10` groups into "1940s"/"1950s"; invalid/non-positive values fall back to `10` |
-| `video` | `string` | `''` | Attribute, e.g. `video="o4czWtSxGig"`. A YouTube video ID. Gates the per-entry cue chip: a `WikiCue` only renders for an event when **both** `event.cue` is a number **and** this prop is set — an entry with `cue` but no video-level `video` renders no chip at all |
-| `videoTitle` | `string` | `''` | Attribute, written kebab-case as `video-title` (standard Vue prop↔attribute casing). The video's own title, e.g. for the dock header — **not** any one entry's own title. Forwarded to every rendered `WikiCue` as `video-title` |
+| `eras` | `TimelineEra[]` | `[]` | YAML body. The video's own eras — bands on the ruler and chapter headings in the list. See schema below. With none, entries group by `eraSize`-year decades exactly as before |
+| `hinges` | `{ year, label }[]` | `[]` | YAML body. Single labelled years drawn as dashed markers on the ruler (a turning point that opens no era) |
+| `help` | `string` | `''` | YAML body. Plain-text "how to read this" copy behind the chronometer's (i) button. Prefer this over a `:wiki-info` in the `## Chronology` heading |
+| `eraSize` | `number \| string` | `10` | YAML body. Decade-bucket size used only when `eras` is empty; invalid/non-positive values fall back to `10` |
+| `video` | `string` | `''` | Attribute, e.g. `video="o4czWtSxGig"`. A YouTube video ID. Gates the per-entry cue chip, Sync, Follow and the playhead: a `WikiCue` only renders for an event when **both** `event.cue` is a number **and** this prop is set |
+| `videoTitle` | `string` | `''` | Attribute, written kebab-case as `video-title`. The video's own title, e.g. for the dock header — **not** any one entry's own title. Forwarded to every rendered `WikiCue` as `video-title` |
+
+`TimelineEra` schema (YAML body):
+
+```yaml
+eras:
+  - id: golden               # optional key an event's `era:` can point at (falls back to label)
+    label: "The Golden Era"  # required
+    from: 1947               # required
+    to: 1977                 # optional, inclusive; omit for "to the present"
+    summary: "Unified, centralised control under an NSC control group."   # optional
+    estimate: "Wilbert B. Smith and Robert Sarbacher, 1950"                 # optional
+    anchor: "the-golden-era-1947-1978"   # optional heading id for a "Read the analysis" link
+hinges:
+  - year: 2023
+    label: "Grusch testimony"
+```
+
+Era membership is by year (`eraOf`: the *last* era whose `from` is at or
+before the event's year, so a boundary year belongs to the era that starts
+there). Events before the first era form an automatic "Prologue" chapter,
+events after a closed last era a "Coda", undated ones "Undated". An event can
+force its chapter with `era: <id>` — the pilot uses this once, because both
+1994 entries share a year while one closes the Cold War era and the other
+opens the Modern one.
 
 `TimelineEvent` schema (YAML body):
 
@@ -260,6 +330,8 @@ events:
                                # Renders the chip with a leading `~` and a
                                # dashed border. Omit (or false) for a
                                # hand-verified ("high") cue
+    era: golden               # optional — force this entry into the era with
+                               # this `id`/`label` when its year is ambiguous
 ```
 
 Behaviour worth knowing:
@@ -274,7 +346,21 @@ Behaviour worth knowing:
   circa date like `"c. 1980s"` groups by `1980`, not into a catch-all.
 - Category filter chips are auto-derived from whatever `category` values are
   present in `events` (deduplicated, sorted) — there's no separate list to
-  maintain. A "Major only" toggle is always shown.
+  maintain. A "Major only" toggle is always shown. Filters hide entries from
+  the list but only *dim* their ticks on the ruler, so the shape of the whole
+  span never changes; a dimmed tick is inert, and a ruler click lands on the
+  nearest *visible* entry — filters are never cleared behind the reader's back.
+- Ruler geometry is pure and server-rendered: `timeScale` snaps the axis to
+  5-year edges around the earliest/latest event or era, `fractionalYear`
+  places a tick by month, `assignLanes` stacks anything closer than ~1.6% of
+  the axis. All of it lives in `app/app/utils/timeline.ts` with unit tests.
+- "Now discussing" resolves in **cue order**, not date order (`nowPlayingIndex`:
+  the entry with the greatest `cue` at or before the player's time). The
+  pilot's host cross-cuts — the 2002 Northrop/TRW entry is cued inside the
+  1953 Kingman segment — so the playhead is allowed to leap backwards on the
+  axis. That is the video's structure, not a bug; do not "fix" it.
+- Entry cards fade/rise in on first view (`v-reveal`), once: a filter change
+  re-renders the list without re-hiding it.
 - `date` formatting: `"1947-07-08"` → `"8 Jul 1947"`, `"1947-07"` →
   `"Jul 1947"`; anything else (including `"c. 1980s"` or `"Unknown"`) passes
   through unchanged.
@@ -283,11 +369,11 @@ Behaviour worth knowing:
 
 Source: `app/app/components/content/WikiWatch.vue`
 
-A small call-to-action strip that opens the video dock. This is the intended
-entry point for "just start watching" a video — nothing else opens the dock
-from a cold page load, so a page with `::wiki-cue`/`cue`-bearing timeline
-entries but no `::wiki-watch` block has no way to open the player except by
-clicking one of those cues.
+A small call-to-action strip that opens the video dock, for use mid-article.
+Every video **summary** page already gets a play button in its hero (see
+`WikiVideoHero` under "Supporting utilities"), so this block is optional
+there; it remains the entry point on any page whose frontmatter carries no
+`video_id`.
 
 Props (attribute syntax, not a YAML body):
 
@@ -596,6 +682,57 @@ The sticky "On this page" navigation rail rendered by
 Not an MDC component — it's wired into the page template directly, not
 referenced from note bodies.
 
+### `app/app/components/wiki/WikiVideoHero.vue`
+
+The title card rendered by `app/app/pages/wiki/[...slug].vue` on every video
+**summary** note (any `Videos/*/summary` with a `video_id`), in place of the
+plain breadcrumb/badges/H1/lead/fact table. Behind the title sits a live
+field of connected nodes (`WikiNodeField.vue`, below), fading into the page
+along the bottom edge; the text is set on a page-colour panel that hangs off
+the text column itself (`.ufo-hero-content::before`), so the fade sits just
+past the column's real right edge in both page layouts (left-set under the
+TOC rail, centred below `xl`) rather than at a fixed fraction of the hero.
+On phones the field is a band above the text instead. Then HUD frame
+corners, a HUD row (channel, runtime, id) and Play / Transcript / YouTube
+actions. There is deliberately no thumbnail: the
+channel's thumbnails carry their own large text, which competes with the
+title. On those pages the local map moves to the end of the article, the
+prose `h2`s gain chapter numbers (CSS counters), and a 2px reading-progress
+line (`WikiReadingProgress.vue`) pins to the top of `<main>`. Transcript
+pages stay plain.
+
+### `app/app/components/wiki/WikiNodeField.vue`
+
+The animated connected-nodes field: a 2D canvas that fills its parent.
+Nodes drift, any two within `linkDistance` are joined by a line whose
+opacity falls off with distance, the pointer draws links to nodes within
+`grabDistance`, and a tenth of the nodes are glowing hubs. Colours are read
+from the theme tokens (`--primary` for nodes, `--graph-edge` for links) and
+re-read when `data-theme` changes on `<html>` (a `MutationObserver` on the
+attribute, which lands a task after the theme ref changes), so it never
+carries a literal colour. It
+draws one static frame under `prefers-reduced-motion: reduce`, pauses while
+off-screen or in a background tab, and renders nothing on the server. Props:
+`density` (nodes per 10,000 px², total clamped to 24–140), `linkDistance`,
+`grabDistance` (0 disables), `speed`. Hand-rolled rather than a particles
+library so the effect stays inside the token system at zero bundle cost.
+
+### `app/app/composables/useVideoClock.ts`
+
+`useVideoClock(videoId)` → `{ isThisVideo, playing, time }`: the dock's
+playback state scoped to one video, so a timeline only follows *its* video.
+`time` is `null` unless the dock currently holds that exact id.
+
+### `app/app/composables/useScrollCursor.ts`
+
+`useScrollCursor(listRoot, { itemSelector, readingLine, stickyOffset })` →
+`{ index, t, progress, refresh, refreshNow, scrollToIndex, onUserScroll }`.
+Caches entry offsets in one batched read (mount, list resize, `refresh()`)
+and turns the container's passive `scroll` event into one rAF of arithmetic:
+which entry sits at the reading line and how far along toward the next.
+`onUserScroll` fires only on wheel/touch/scroll-key input — the signal
+Follow mode uses to hand control back to the reader.
+
 ### `app/app/composables/useVideoDock.ts`
 
 The app-global video dock's shared state and behaviour, consumed by
@@ -611,6 +748,8 @@ ever one dock — and returns:
 | `minimised` | `Ref<boolean>` | Open but collapsed to just the header bar |
 | `rect` | `Ref<DockRect>` | `{ x, y, w, h }` — current position/size |
 | `pendingSeek` | `Ref<number \| null>` | A queued seek not yet applied to the player; see below |
+| `currentTime` | `Ref<number>` | Playback position in whole seconds. Written only by `WikiVideoDock` (one sample on every player state change, plus a 1s poll while playing, plus an immediate write on seek). Read through `useVideoClock` |
+| `playing` | `Ref<boolean>` | Whether the player is in the PLAYING state |
 | `hydrate()` | `() => void` | Restores `rect`/`minimised` from `localStorage`, clamped to the live viewport. Called once, client-side, from `WikiVideoDock`'s `onMounted` |
 | `open(opts)` | `(opts: { videoId, title?, at?: number }) => void` | Loads a video, shows the dock un-minimised, and optionally queues a seek |
 | `close()` | `() => void` | Hides the dock, clears `videoId` and any pending seek |
@@ -749,12 +888,15 @@ End to end, from nothing to a page with a working dock and cued timeline:
    `video-title="<title>"`) to the `::wiki-timeline` block's attributes, so
    the per-entry `WikiCue` chips actually render (the `video` prop gate —
    see the `::wiki-timeline` props table above).
-6. **Add an entry point.** Drop a `::wiki-watch{video="<id>"
-   title="<title>"}` block somewhere near the top of the note (e.g. right
-   after a stat strip) — this is the only way to open the dock without
-   first clicking a cue.
+6. **Frame the eras.** Add an `eras:` list (and any `hinges:`) to the
+   `::wiki-timeline` YAML, using the video's own periodisation, plus a
+   one-paragraph `help:` string. Without `eras` the block still works and
+   groups by decade.
+7. **Check the entry point.** A video summary page's hero already carries
+   the play button; add a `::wiki-watch` block only where a mid-article
+   prompt is wanted.
 
-The pilot page is the worked example of all six steps:
+The pilot page is the worked example of all seven steps:
 `UAP Gerb Knowledge Base/Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary.md`
 alongside its `cues.json` in the same folder.
 

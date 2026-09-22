@@ -4,7 +4,7 @@ import type { WikiPage } from '@/utils/content'
 import { ChevronRight } from '@lucide/vue'
 import { Badge } from '@/components/ui/badge'
 import { Separator } from '@/components/ui/separator'
-import { hasTocRail } from '@/utils/content'
+import { firstParagraph, hasTocRail } from '@/utils/content'
 
 definePageMeta({ key: route => route.path })
 
@@ -49,6 +49,27 @@ const category = computed<Category>(() =>
 const isTranscript = computed(() => page.value?.stem.endsWith('/transcript') ?? false)
 const videoTitle = computed(() => (page.value ? videoTitleFromStem(page.value.stem) : null))
 
+/**
+ * A video's summary note gets the feature treatment: the hero title card in
+ * place of the plain header + fact table, numbered chapters, a reading
+ * progress line, and the local map moved below the body so the page opens
+ * on the video rather than on graph chrome. Keyed off frontmatter alone, so
+ * every video page qualifies with no authoring; transcripts stay plain.
+ */
+const videoId = computed(() => String(page.value?.video_id ?? '').trim())
+const isFeature = computed(() => category.value === 'Videos' && !isTranscript.value && !!videoId.value)
+
+/** The sibling transcript note's route, when this is a video summary. */
+const transcriptTo = computed<string | null>(() => {
+  if (!page.value) return null
+  const { stem, path } = page.value
+  if (/(^|\/)Videos\//.test(stem) && stem.endsWith('/summary') && path.endsWith('/summary')) {
+    return path.replace(/\/summary$/, '/transcript')
+  }
+  return null
+})
+
+
 // A note's folder already renders as the green category badge, so its frontmatter
 // self-tag — `person` on a People note, `video` on a Videos note, and so on — is
 // pure duplication in this view. Hide it. The vault keeps the tag for Obsidian,
@@ -77,6 +98,22 @@ const article = computed<{ lead: string, doc: WikiPage | null }>(() => {
   return { lead, doc: { ...page.value, body: { ...page.value.body, value } } }
 })
 
+// A video note that opens on a component block (a stat strip, say) has no
+// lead paragraph to lift out, so the hero's standfirst falls back to the
+// first paragraph wherever it sits — the same teaser the home page's
+// featured card shows for this note. The body keeps the full paragraph.
+const standfirst = computed(() => article.value.lead || firstParagraph(page.value?.body))
+
+// Video pages share their own thumbnail as the social card, not the site's.
+// (Declared after `standfirst`: unhead evaluates these getters synchronously
+// on first run, so they must not reach into a not-yet-initialised const.)
+useSeoMeta({
+  ogTitle: () => page.value?.title,
+  ogDescription: () => (isFeature.value ? standfirst.value || undefined : undefined),
+  ogImage: () => (isFeature.value ? `https://i.ytimg.com/vi/${videoId.value}/maxresdefault.jpg` : undefined),
+  twitterImage: () => (isFeature.value ? `https://i.ytimg.com/vi/${videoId.value}/maxresdefault.jpg` : undefined),
+})
+
 // WikiTocRail renders nothing under 3 headings, but its column still costs
 // 200px + the row gap if the <aside> around it is unconditional — on the
 // short notes that make up most of this vault, that pushes the article off
@@ -101,55 +138,91 @@ const articleClass = computed(() => hasRail.value
 <template>
   <WikiPageSkeleton v-if="!page" />
 
-  <div v-else :class="wrapperClass">
-    <article :class="articleClass">
-      <nav class="mb-5 flex items-center gap-2 font-sans text-[13px] text-muted-foreground">
-        <NuxtLink to="/map" class="transition-colors hover:text-foreground">
-          Site map
-        </NuxtLink>
-        <ChevronRight class="size-3.5 shrink-0 opacity-60" />
-        <span>{{ category }}</span>
-        <template v-if="isTranscript && videoTitle">
-          <ChevronRight class="size-3.5 shrink-0 opacity-60" />
-          <span class="truncate">{{ videoTitle }}</span>
+  <!-- One root element, not a fragment: NuxtPage's route provider wraps the
+       page in a Transition/Suspense pair that expects a single root, and a
+       fragment root here re-created the page on hydration. -->
+  <div v-else>
+    <template v-if="isFeature">
+      <WikiReadingProgress />
+      <WikiVideoHero
+        :page="page"
+        :title="page.title"
+        :lead="standfirst"
+        :category="category"
+        :tags="shownTags"
+        :extra-tags="extraTags"
+        :transcript-to="transcriptTo"
+        :column-class="wrapperClass"
+      />
+    </template>
+
+    <div :class="wrapperClass">
+      <article :class="[articleClass, isFeature ? 'pt-6' : '']">
+        <template v-if="!isFeature">
+          <nav class="mb-5 flex items-center gap-2 font-sans text-[13px] text-muted-foreground">
+            <NuxtLink to="/map" class="transition-colors hover:text-foreground">
+              Site map
+            </NuxtLink>
+            <ChevronRight class="size-3.5 shrink-0 opacity-60" />
+            <span>{{ category }}</span>
+            <template v-if="isTranscript && videoTitle">
+              <ChevronRight class="size-3.5 shrink-0 opacity-60" />
+              <span class="truncate">{{ videoTitle }}</span>
+            </template>
+          </nav>
+
+          <div class="mb-3.5 flex flex-wrap gap-2">
+            <Badge class="ufo-category-badge">{{ category }}</Badge>
+            <Badge v-for="tag in shownTags" :key="tag" variant="outline">
+              {{ tag }}
+            </Badge>
+            <Badge v-if="extraTags > 0" variant="outline">
+              +{{ extraTags }}
+            </Badge>
+          </div>
+
+          <!-- Uppercase display type carries no ascender/descender variety to open the
+               line up, so it wants positive tracking, not the tight setting a mixed-case
+               title would take. -->
+          <h1 class="mb-4 font-display text-[clamp(32px,5vw,56px)] font-extrabold uppercase leading-none tracking-[0.02em] text-foreground">
+            {{ page.title }}
+          </h1>
+
+          <p v-if="article.lead" class="mb-7 font-sans text-[20px] leading-[30px] text-muted-foreground">
+            {{ article.lead }}
+          </p>
+
+          <WikiFactTable :page="page" />
+
+          <WikiLocalMap :path="route.path" />
         </template>
-      </nav>
 
-      <div class="mb-3.5 flex flex-wrap gap-2">
-        <Badge class="ufo-category-badge">{{ category }}</Badge>
-        <Badge v-for="tag in shownTags" :key="tag" variant="outline">
-          {{ tag }}
-        </Badge>
-        <Badge v-if="extraTags > 0" variant="outline">
-          +{{ extraTags }}
-        </Badge>
-      </div>
+        <ContentRenderer
+          v-if="article.doc"
+          :value="article.doc"
+          class="prose-ufo wiki-prose"
+          :class="{ 'is-feature': isFeature }"
+        />
 
-      <!-- Uppercase display type carries no ascender/descender variety to open the
-           line up, so it wants positive tracking, not the tight setting a mixed-case
-           title would take. -->
-      <h1 class="mb-4 font-display text-[clamp(32px,5vw,56px)] font-extrabold uppercase leading-none tracking-[0.02em] text-foreground">
-        {{ page.title }}
-      </h1>
+        <!-- On a feature page the graph neighbourhood closes the article
+             instead of opening it: the page leads with the video. -->
+        <template v-if="isFeature">
+          <Separator class="my-10" />
+          <h2 class="mb-4 font-display text-[20px] font-semibold uppercase tracking-[0.04em] text-foreground">
+            In the graph
+          </h2>
+          <WikiLocalMap :path="route.path" />
+        </template>
 
-      <p v-if="article.lead" class="mb-7 font-sans text-[20px] leading-[30px] text-muted-foreground">
-        {{ article.lead }}
-      </p>
+        <Separator class="my-8" />
 
-      <WikiFactTable :page="page" />
+        <WikiLinkedEntries :path="route.path" />
+      </article>
 
-      <WikiLocalMap :path="route.path" />
-
-      <ContentRenderer v-if="article.doc" :value="article.doc" class="prose-ufo wiki-prose" />
-
-      <Separator class="my-8" />
-
-      <WikiLinkedEntries :path="route.path" />
-    </article>
-
-    <aside v-if="hasRail" class="hidden w-[200px] shrink-0 pt-10 xl:block">
-      <WikiTocRail :toc="page.body?.toc" />
-    </aside>
+      <aside v-if="hasRail" class="hidden w-[200px] shrink-0 pt-10 xl:block">
+        <WikiTocRail :toc="page.body?.toc" />
+      </aside>
+    </div>
   </div>
 </template>
 
@@ -162,22 +235,27 @@ const articleClass = computed(() => hasRail.value
 .wiki-prose :deep(h2) {
   @apply mb-4 mt-12 border-b border-border pb-2 font-display text-[30px] font-semibold leading-9 tracking-[var(--ls-h2)] text-foreground;
 }
-.wiki-prose :deep(h3) {
+/* `:not([class])` throughout: markdown headings, paragraphs and lists never
+   carry a class, while a component's own <h3>/<p>/<ol> always do — so these
+   prose rules style the note's markdown and stop at the kit's markup (the
+   timeline's chapter titles, card summaries and entry lists all sit inside
+   this same .wiki-prose). h2 is left alone: the kit renders no h2. */
+.wiki-prose :deep(h3:not([class])) {
   @apply mb-3 mt-10 font-display text-[24px] font-semibold leading-8 tracking-[var(--ls-h3)] text-foreground;
 }
-.wiki-prose :deep(h4) {
+.wiki-prose :deep(h4:not([class])) {
   @apply mb-2 mt-8 font-display text-[20px] font-semibold leading-7 tracking-[var(--ls-h4)] text-foreground;
 }
-.wiki-prose :deep(p) {
+.wiki-prose :deep(p:not([class])) {
   @apply my-5 text-[16px] leading-7 text-foreground;
 }
-.wiki-prose :deep(ul) {
+.wiki-prose :deep(ul:not([class])) {
   @apply my-5 list-disc space-y-1.5 pl-6;
 }
-.wiki-prose :deep(ol) {
+.wiki-prose :deep(ol:not([class])) {
   @apply my-5 list-decimal space-y-1.5 pl-6;
 }
-.wiki-prose :deep(li) {
+.wiki-prose :deep(li:not([class])) {
   @apply text-[16px] leading-7 text-foreground;
 }
 .wiki-prose :deep(blockquote) {
@@ -201,6 +279,26 @@ const articleClass = computed(() => hasRail.value
 }
 .wiki-prose :deep(th) {
   @apply bg-muted/40 font-medium text-muted-foreground;
+}
+
+/* Feature pages read as chapters: every h2 carries a mono index above it.
+   CSS counters only, so the TOC rail and anchors are untouched. */
+.wiki-prose.is-feature {
+  counter-reset: chapter;
+}
+.wiki-prose.is-feature :deep(h2) {
+  counter-increment: chapter;
+}
+.wiki-prose.is-feature :deep(h2)::before {
+  content: counter(chapter, decimal-leading-zero);
+  display: block;
+  margin-bottom: 6px;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  line-height: 1;
+  color: hsl(var(--primary));
 }
 
 /*

@@ -7,6 +7,17 @@ const STORAGE_KEY = 'ufo:dock'
 export const DEFAULT_RECT: DockRect = { x: 24, y: 24, w: 384, h: Math.round(384 / RATIO) }
 
 /**
+ * Where a dock with no remembered geometry first opens: the bottom-right
+ * corner, clear of the sidebar, the top bar and — on a video page — the
+ * timeline's chronometer pinned at the top of the article. Pure, so it is
+ * unit-tested beside `clampRect`.
+ */
+export function defaultRect(vw: number, vh: number): DockRect {
+  const { w, h } = DEFAULT_RECT
+  return clampRect({ x: vw - w - 24, y: vh - h - 24, w, h }, vw, vh)
+}
+
+/**
  * Force a rect fully inside a viewport, preserving 16:9.
  *
  * Geometry is persisted across sessions, so a rect saved on a large display can
@@ -77,10 +88,22 @@ export function useVideoDock() {
   /** Set by cues, consumed by the player once the IFrame API is ready. Last wins. */
   const pendingSeek = useState<number | null>('dock:seek', () => null)
 
+  /**
+   * Playback position (seconds) and whether the player is currently playing.
+   * Written only by `WikiVideoDock` (from the IFrame API's state-change event
+   * plus a 1s poll while playing); read by anything that wants to follow the
+   * video — e.g. the timeline's "now discussing" marker. Never persisted.
+   */
+  const currentTime = useState<number>('dock:time', () => 0)
+  const playing = useState<boolean>('dock:playing', () => false)
+
   /** Restore geometry from localStorage, clamped to the current viewport. */
   function hydrate(): void {
     const stored = readStored()
-    const merged = { ...DEFAULT_RECT, ...stored }
+    const remembered = typeof stored.x === 'number' && typeof stored.y === 'number'
+    const merged = remembered
+      ? { ...DEFAULT_RECT, ...stored }
+      : { ...defaultRect(window.innerWidth, window.innerHeight), ...stored }
     rect.value = clampRect(merged, window.innerWidth, window.innerHeight)
     if (typeof stored.minimised === 'boolean') minimised.value = stored.minimised
   }
@@ -97,6 +120,8 @@ export function useVideoDock() {
     visible.value = false
     videoId.value = null
     pendingSeek.value = null
+    currentTime.value = 0
+    playing.value = false
   }
 
   function toggleMinimise(): void {
@@ -126,7 +151,7 @@ export function useVideoDock() {
   }
 
   return {
-    videoId, title, visible, minimised, rect, pendingSeek,
+    videoId, title, visible, minimised, rect, pendingSeek, currentTime, playing,
     hydrate, open, close, toggleMinimise, seek, takePendingSeek,
   }
 }

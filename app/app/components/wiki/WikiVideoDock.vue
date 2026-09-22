@@ -93,8 +93,59 @@ function startResize(event: PointerEvent): void {
 
 /* ------------------------------------------------- YouTube IFrame API -- */
 
-let player: { seekTo: (seconds: number, allowSeekAhead: boolean) => void, destroy: () => void } | null = null
+interface Player {
+  seekTo: (seconds: number, allowSeekAhead: boolean) => void
+  getCurrentTime: () => number
+  getPlayerState: () => number
+  destroy: () => void
+}
+/** `YT.PlayerState.PLAYING` — the only state the poll below runs in. */
+const PLAYING = 1
+
+let player: Player | null = null
+/**
+ * True once the current player's `onReady` has fired. Between `new YT.Player`
+ * and that event the object exists but `seekTo` is not yet wired up, so a
+ * seek arriving in that window must stay pending for `onReady` to consume.
+ */
+let ready = false
 let apiReady: Promise<void> | null = null
+
+/* ------------------------------------------------- playback position -- */
+
+// The IFrame API has no "timeupdate" event, so while the video plays a 1s
+// poll copies `getCurrentTime()` into the shared dock state (useVideoDock's
+// `currentTime`) for anything that follows the video — the timeline's "now
+// discussing" marker, for one. The poll only runs while PLAYING; every
+// state change (pause, seek, buffer, end) takes one immediate sample so a
+// paused-and-scrubbed player still reports where it is.
+let poll: ReturnType<typeof setInterval> | null = null
+
+function sampleTime(): void {
+  if (!player) return
+  try {
+    const t = player.getCurrentTime()
+    if (Number.isFinite(t)) dock.currentTime.value = Math.floor(t)
+  }
+  catch {
+    // The player can be mid-teardown when a late tick fires; skip the sample.
+  }
+}
+
+function setPolling(on: boolean): void {
+  if (on && !poll) poll = setInterval(sampleTime, 1000)
+  if (!on && poll) {
+    clearInterval(poll)
+    poll = null
+  }
+}
+
+function seekPlayer(seconds: number): void {
+  player?.seekTo(seconds, true)
+  // Report the new position at once rather than waiting for the next tick,
+  // so a cue click moves the timeline's marker in the same frame.
+  dock.currentTime.value = seconds
+}
 
 /** Load the IFrame API once, lazily — never on a cold page load. */
 function loadApi(): Promise<void> {
@@ -111,12 +162,19 @@ function loadApi(): Promise<void> {
   return apiReady
 }
 
+function destroyPlayer(): void {
+  setPolling(false)
+  dock.playing.value = false
+  ready = false
+  player?.destroy()
+  player = null
+}
+
 async function mountPlayer(id: string): Promise<void> {
   await loadApi()
   await nextTick()
   if (!stage.value) return
-  player?.destroy()
-  player = null
+  destroyPlayer()
   // Fresh mount node every time: `stage` is the scoped wrapper Vue owns and
   // re-renders safely, but YT.Player replaces whatever element it's given
   // with its own <iframe> — reusing a template ref to that element would
@@ -125,30 +183,49 @@ async function mountPlayer(id: string): Promise<void> {
   const mountEl = document.createElement('div')
   stage.value.appendChild(mountEl)
   const YT = (window as unknown as { YT: any }).YT
+  ready = false
   player = new YT.Player(mountEl, {
     videoId: id,
     playerVars: { rel: 0, modestbranding: 1, playsinline: 1 },
     events: {
       onReady() {
-        // Atomic consume: a seek queued before the player existed is picked
+        ready = true
+        // Atomic consume: a seek queued before the player was ready is picked
         // up exactly once here, never re-applied by the watcher below.
         const seconds = dock.takePendingSeek()
-        if (seconds !== null) player?.seekTo(seconds, true)
+        if (seconds !== null) seekPlayer(seconds)
+        else sampleTime()
+      },
+      onStateChange(event: { data: number }) {
+        const isPlaying = event.data === PLAYING
+        dock.playing.value = isPlaying
+        setPolling(isPlaying)
+        sampleTime()
       },
     },
   })
 }
 
-watch(() => dock.videoId.value, (id) => { if (id) mountPlayer(id) })
+// A new id mounts a player; `dock.close()` clearing it tears the player down
+// with it, so a stale iframe doesn't keep playing (and polling) behind a
+// hidden dock. The old player is destroyed synchronously here, before the
+// async mount: `open({ videoId, at })` sets `videoId` and `pendingSeek` in
+// one go, and both watchers run in the same flush — with the previous
+// player still alive, the seek watcher below would apply the new video's
+// cue to the OLD player and the new one would come up at 0:00.
+watch(() => dock.videoId.value, (id) => {
+  destroyPlayer()
+  if (id) mountPlayer(id)
+})
 
 // A seek arriving after the player already exists applies here; one arriving
 // before it is ready is picked up by onReady above. takePendingSeek() clears
 // the value in the same step it's read, so this can't re-fire on its own
 // write and re-apply a stale seek, and onReady can't also consume it.
 watch(() => dock.pendingSeek.value, (seconds) => {
-  if (seconds === null || !player) return
+  if (seconds === null || !player || !ready) return
   const taken = dock.takePendingSeek()
-  if (taken !== null) player.seekTo(taken, true)
+  if (taken !== null) seekPlayer(taken)
 })
 
 onMounted(() => {
@@ -162,8 +239,7 @@ onMounted(() => {
 
 onBeforeUnmount(() => {
   window.removeEventListener('resize', syncViewport)
-  player?.destroy()
-  player = null
+  destroyPlayer()
 })
 
 function onKeydown(event: KeyboardEvent): void {

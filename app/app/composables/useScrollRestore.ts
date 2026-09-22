@@ -50,6 +50,16 @@ export function registerScrollContainer(el: HTMLElement | null): void {
 }
 
 /**
+ * The registered scrolling element (`<main>`), for components that need to
+ * listen to or drive the reader's scroll — the timeline's reading cursor, the
+ * article progress bar. Null on the server and before the layout mounts;
+ * callers should fall back to `el.closest('main')` or do nothing.
+ */
+export function getScrollContainer(): HTMLElement | null {
+  return container
+}
+
+/**
  * Registered by the layout as a `router.beforeEach` guard: snapshot the
  * container's scroll under the entry we're leaving, before the URL (and
  * `history.state`) changes.

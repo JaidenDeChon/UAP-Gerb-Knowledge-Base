@@ -56,6 +56,11 @@ stats:
 
 ::wiki-timeline
 ---
+eras:                        # optional — the video's own periodisation; omit to group by decade
+  - label: "Example era"
+    from: 1947
+    to: 1977
+    summary: "One line under the era's heading."
 events:
   - date: "1947-07"
     title: Example event title
