@@ -3,6 +3,7 @@ import type { WikiPage } from '@/utils/content'
 import { ArrowRight, Clock } from '@lucide/vue'
 import { Badge } from '@/components/ui/badge'
 import { firstParagraph } from '@/utils/content'
+import { formatRuntime } from '@/utils/video'
 
 const props = defineProps<{ entry: WikiPage }>()
 
@@ -13,12 +14,7 @@ const lead = computed(() =>
 const runtime = computed<string | null>(() => {
   const record = props.entry as unknown as Record<string, unknown>
   const meta = record.meta as Record<string, unknown> | undefined
-  const seconds = Number(record.duration_seconds ?? meta?.duration_seconds)
-  if (!Number.isFinite(seconds) || seconds <= 0) return null
-  // Round to minutes first — rounding the remainder instead yields "1h 60m".
-  const total = Math.round(seconds / 60)
-  const hours = Math.floor(total / 60)
-  return hours ? `${hours}h ${total % 60}m` : `${total}m`
+  return formatRuntime(Number(record.duration_seconds ?? meta?.duration_seconds))
 })
 </script>
 

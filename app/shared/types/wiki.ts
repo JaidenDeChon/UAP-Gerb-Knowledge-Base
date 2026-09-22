@@ -139,9 +139,38 @@ export interface BakedPreview {
   tags: string[]
 }
 
+/**
+ * One video summary, as `wiki/videos.ts` bakes it. Title and lead come from the
+ * matching `BakedPreview`, path from the `GraphNode` — both indexed by `i`.
+ */
+export interface BakedVideo {
+  /** Index into `GraphPayload.nodes` / `WikiData.previews`. */
+  i: number
+  /** YouTube video id, from the summary's frontmatter. */
+  id: string | null
+  /** When the ingest pipeline processed it (ISO 8601), from `.processed_videos.json`. */
+  at: string | null
+  /** Runtime in seconds, when the summary records one. */
+  dur: number | null
+}
+
 export interface WikiData {
   tree: TreeItem[]
   graph: GraphPayload
   links: BakedLinks
   previews: BakedPreview[]
+  /** Every video summary, most recently processed first. */
+  videos: BakedVideo[]
+}
+
+/* ---------------------------------------------------------------- videos -- */
+
+/** A video summary as `/api/videos` serves it — enough to render a card. */
+export interface VideoCard {
+  path: string
+  title: string
+  lead: string
+  videoId: string | null
+  processedAt: string | null
+  durationSeconds: number | null
 }

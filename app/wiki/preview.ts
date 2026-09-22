@@ -94,8 +94,21 @@ function parseInlineList(value: string): string[] {
 
 function extractLead(body: string): string {
   const para: string[] = []
+  // Depth inside `::component` MDC blocks (e.g. a rich page's leading
+  // `::wiki-stat-strip`), whose YAML props and slots aren't prose.
+  let mdcDepth = 0
   for (const line of body.split(/\r?\n/)) {
     const trimmed = line.trim()
+    if (/^:{2,}[\w-]/.test(trimmed)) {
+      mdcDepth++
+      if (para.length) break
+      continue
+    }
+    if (/^:{2,}$/.test(trimmed)) {
+      mdcDepth = Math.max(0, mdcDepth - 1)
+      continue
+    }
+    if (mdcDepth) continue
     if (trimmed === '') {
       if (para.length) break
       continue

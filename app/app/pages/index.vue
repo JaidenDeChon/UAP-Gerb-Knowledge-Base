@@ -52,6 +52,8 @@ const body = computed(() => {
 
       <HomeFeatured v-if="featured" :entry="featured" />
 
+      <HomeRecentVideos />
+
       <ContentRenderer v-if="body.rest" :value="body.rest" class="prose-ufo wiki-prose" />
     </template>
 

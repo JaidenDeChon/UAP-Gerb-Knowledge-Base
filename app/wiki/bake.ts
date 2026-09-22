@@ -3,6 +3,7 @@ import type { BakedPreview, WikiData } from '../shared/types/wiki'
 import { graphIndex } from './graph'
 import { buildPreviews } from './preview'
 import { buildTree } from './tree'
+import { buildVideos } from './videos'
 
 /**
  * Scan the vault and derive everything the server routes serve.
@@ -43,7 +44,7 @@ export function bakeWikiData(): WikiData {
     }
   })
 
-  return { tree: buildTree(), graph: payload, links: { outgoing, backlinks }, previews }
+  return { tree: buildTree(), graph: payload, links: { outgoing, backlinks }, previews, videos: buildVideos() }
 }
 
 /**
@@ -61,5 +62,6 @@ export function bakeWikiDataModule(): string {
     'export const graph = data.graph',
     'export const links = data.links',
     'export const previews = data.previews',
+    'export const videos = data.videos',
   ].join('\n')
 }
