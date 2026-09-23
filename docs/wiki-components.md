@@ -1006,7 +1006,19 @@ What it renders:
   the page; a place with no page (`text:`) is a hollow, dashed pin, as
   `::wiki-chain` dashes a stage with no page. Pins that would overlap are
   nudged apart, with a leader line and a small dot at the true location. An
-  optional short `label` is drawn beside the pin, on whichever side is clear.
+  optional short `label` is drawn beside the pin, and never on top of
+  anything that matters (`layoutLabels`, in pin order): it never touches
+  another pin or its ring, another label, a nudged pin's leader line or
+  dot, the locator inset or the scale bar, and stays inside the frame. It
+  tries right, left, above, below, then the four diagonals, preferring a
+  position that also misses route lines and the inset's usual corner. If
+  all eight are blocked it moves out to the nearest open spot (four
+  distances, sixteen directions) with a thin leader line back to the pin,
+  a line that itself crosses no pin or label. If even that fails, the
+  label is left off the map: the numbered legend names every pin anyway.
+  Label widths are estimated on the wide side (capitals count wider), so
+  the box a label is placed by covers its text. The inset and scale bar
+  are placed after the labels, around them.
   An optional `radius` (miles) draws a dashed circle around the pin (a search
   area, "within 7.5 miles of the lake bed").
 - **Routes.** Lines joining pins in order, with a direction arrow on each
@@ -1182,7 +1194,9 @@ Authoring rules:
   named places; dash anything alleged or reconstructed; never draw a route
   the video doesn't describe.
 - **Labels are short** (a town, "Edwards AFB"); the full title is in the
-  legend. Skip `label` on a crowded map rather than let labels collide.
+  legend. Labels can no longer collide, but on a crowded map one may end
+  up on a leader line or be left off; skip `label` where the pin number
+  and legend say enough.
 - **Nothing sensitive.** Don't pin a location the video itself asks viewers
   not to seek out (the Dugway article's alleged tunnel entrance stays
   unmapped).
@@ -1446,7 +1460,9 @@ coordinates, else its page's), `mapFrame` (what to fit: the pins with a
 minimum span of `MIN_FRAME_SPAN` degrees and 20% padding, the US, or the
 world), `radiusPoints`, `boundsOutline` (edge samples for fitting a curved
 projection), `spreadPins` (deterministic nudging of overlapping pins),
-`placeLabels` (greedy right / left / top / bottom label placement),
+`layoutLabels` (collision-free label placement: eight positions beside
+the pin, then a leader line to an open spot, then none; with `labelBox`
+and `lineBoxes`),
 `niceLength` (scale-bar lengths) and `decodeOutline` (the outline files'
 delta-encoded rings and lines to GeoJSON). For the locator inset:
 `LOCATOR_REGIONS` and `chooseLocator` (which area the inset shows, with

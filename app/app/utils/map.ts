@@ -474,9 +474,10 @@ export function decodeOutline(data: EncodedOutline): FeatureCollection<MultiPoly
 }
 
 /** Where a pin's label sits relative to the pin. */
-export type LabelSide = 'right' | 'left' | 'top' | 'bottom'
+export type LabelSide = 'right' | 'left' | 'top' | 'bottom' | 'top-right' | 'top-left' | 'bottom-right' | 'bottom-left'
 
-const LABEL_SIDES: LabelSide[] = ['right', 'left', 'top', 'bottom']
+/** The positions tried beside a pin, in order of preference. */
+export const LABEL_SIDES: readonly LabelSide[] = ['right', 'left', 'top', 'bottom', 'top-right', 'bottom-right', 'top-left', 'bottom-left']
 
 export interface LabelRequest extends Point {
   /** Estimated label width in pixels; 0 for a pin with no label. */
@@ -490,14 +491,24 @@ export interface Box {
   y1: number
 }
 
-/** The box a label of `width` × `height` occupies on `side` of a pin of radius `r`. */
+/**
+ * The box a label of `width` × `height` occupies on `side` of a pin of
+ * radius `r`: level with it on the right or left, centred above or below,
+ * or off a corner, the box's own corner just clear of the ring at 45°.
+ */
 export function labelBox(p: LabelRequest, side: LabelSide, r: number, height: number): Box {
   const gap = 5
+  // A diagonal box's near corner sits on the 45° line, just outside the ring.
+  const d = r * Math.SQRT1_2 + 3
   switch (side) {
     case 'right': return { x0: p.x + r + gap, y0: p.y - height / 2, x1: p.x + r + gap + p.width, y1: p.y + height / 2 }
     case 'left': return { x0: p.x - r - gap - p.width, y0: p.y - height / 2, x1: p.x - r - gap, y1: p.y + height / 2 }
     case 'top': return { x0: p.x - p.width / 2, y0: p.y - r - gap - height, x1: p.x + p.width / 2, y1: p.y - r - gap }
     case 'bottom': return { x0: p.x - p.width / 2, y0: p.y + r + gap, x1: p.x + p.width / 2, y1: p.y + r + gap + height }
+    case 'top-right': return { x0: p.x + d, y0: p.y - d - height, x1: p.x + d + p.width, y1: p.y - d }
+    case 'top-left': return { x0: p.x - d - p.width, y0: p.y - d - height, x1: p.x - d, y1: p.y - d }
+    case 'bottom-right': return { x0: p.x + d, y0: p.y + d, x1: p.x + d + p.width, y1: p.y + d + height }
+    case 'bottom-left': return { x0: p.x - d - p.width, y0: p.y + d, x1: p.x - d, y1: p.y + d + height }
   }
 }
 
@@ -507,40 +518,132 @@ function overlap(a: Box, b: Box): number {
   return w > 0 && h > 0 ? w * h : 0
 }
 
+/** Small boxes along a line from `a` to `b`, `half` pixels either side of it, every 4px. */
+export function lineBoxes(a: Point, b: Point, half: number): Box[] {
+  const out: Box[] = []
+  const n = Math.max(1, Math.ceil(Math.hypot(b.x - a.x, b.y - a.y) / 4))
+  for (let s = 0; s <= n; s++) {
+    const x = a.x + ((b.x - a.x) * s) / n
+    const y = a.y + ((b.y - a.y) * s) / n
+    out.push({ x0: x - half, y0: y - half, x1: x + half, y1: y + half })
+  }
+  return out
+}
+
+/** Where a pin's label went. */
+export interface LabelPlacement {
+  /** Beside the pin, or `leader`: moved to an open spot, with a line back to the pin. */
+  side: LabelSide | 'leader'
+  box: Box
+  /** How the text hangs in its box: from the edge nearest the pin, or centred above or below it. */
+  anchor: 'start' | 'middle' | 'end'
+  /** From the pin's ring to the label, for `leader`; null otherwise. */
+  leader: { x1: number, y1: number, x2: number, y2: number } | null
+}
+
+export interface LabelLayoutOptions {
+  /** Radius a label keeps clear of its own pin's centre (the ring, plus a little). */
+  r: number
+  /** Half-size of every pin's box, as an obstacle to other pins' labels (the ring). */
+  pinR?: number
+  width: number
+  height: number
+  lineHeight?: number
+  /**
+   * Hard obstacles besides the pins and the labels already placed: leader
+   * lines and dots of nudged pins, the locator inset, the scale bar. A
+   * label never touches one.
+   */
+  obstacles?: Box[]
+  /** Soft obstacles (route lines, the inset's usual spot): avoided when there's a choice. */
+  soft?: Box[]
+  /** Clearance kept from every hard obstacle. */
+  margin?: number
+}
+
+/** Distances (from the pin's centre, past the ring) tried for a leader-line label. */
+const LEADER_STEPS = [26, 40, 56, 74]
+/** Directions tried for a leader-line label: 16 compass points, starting east. */
+const LEADER_ANGLES = Array.from({ length: 16 }, (_, k) => (k * Math.PI) / 8)
+
 /**
- * Picks a side for each pin's label, greedily and in pin order: the first of
- * right, left, top, bottom whose box stays inside the map and clear of every
- * pin and every label already placed; failing that, the side with the least
- * overlap. Pins without a label (width 0) get null. Deterministic.
+ * Places every pin's label, greedily in pin order, so that no label ever
+ * touches another pin (its ring), another label, a leader line or any
+ * other hard obstacle, and stays inside the map:
+ *
+ * 1. beside the pin: right, left, above, below, then the four diagonals.
+ *    Of the positions that are clear, the first crossing no soft obstacle
+ *    wins, else the one crossing least;
+ * 2. else moved to an open spot nearby (four distances, sixteen
+ *    directions), with a leader line from the ring that itself crosses no
+ *    pin, label or obstacle;
+ * 3. else no label on the map (null): the numbered legend names every pin.
+ *
+ * Pins without a label (width 0) get null. Deterministic.
  */
-export function placeLabels(
-  pins: LabelRequest[],
-  r: number,
-  width: number,
-  height: number,
-  lineHeight = 14,
-): (LabelSide | null)[] {
-  const pinBoxes: Box[] = pins.map(p => ({ x0: p.x - r, y0: p.y - r, x1: p.x + r, y1: p.y + r }))
+export function layoutLabels(pins: LabelRequest[], opts: LabelLayoutOptions): (LabelPlacement | null)[] {
+  const { r, width, height } = opts
+  const pinR = opts.pinR ?? r
+  const lh = opts.lineHeight ?? 14
+  const margin = opts.margin ?? 2
+  const soft = opts.soft ?? []
+  const pinBoxes: Box[] = pins.map(p => ({ x0: p.x - pinR, y0: p.y - pinR, x1: p.x + pinR, y1: p.y + pinR }))
   const placed: Box[] = []
+  const hard = (i: number): Box[] => [...pinBoxes.filter((_, j) => j !== i), ...placed, ...(opts.obstacles ?? [])]
+  const inside = (b: Box) => b.x0 >= 1 && b.y0 >= 1 && b.x1 <= width - 1 && b.y1 <= height - 1
+  const softCost = (b: Box) => soft.reduce((sum, o) => sum + overlap(b, o), 0)
+
   return pins.map((p, i) => {
     if (!(p.width > 0)) return null
-    let best: LabelSide = 'right'
+    const blockers = hard(i)
+    const ok = (b: Box) => inside(b) && !boxHits(b, blockers, margin)
+
+    let best: LabelPlacement | null = null
     let bestCost = Infinity
     for (const side of LABEL_SIDES) {
-      const box = labelBox(p, side, r, lineHeight)
-      let cost = 0
-      if (box.x0 < 0 || box.y0 < 0 || box.x1 > width || box.y1 > height) cost += 1e6
-      pinBoxes.forEach((b, j) => {
-        if (j !== i) cost += overlap(box, b)
-      })
-      for (const b of placed) cost += overlap(box, b)
+      const box = labelBox(p, side, r, lh)
+      if (!ok(box)) continue
+      const cost = softCost(box)
       if (cost < bestCost) {
-        best = side
+        best = { side, box, anchor: side.endsWith('left') ? 'end' : side === 'top' || side === 'bottom' ? 'middle' : 'start', leader: null }
         bestCost = cost
       }
       if (cost === 0) break
     }
-    placed.push(labelBox(p, best, r, lineHeight))
+
+    if (!best) {
+      search: for (const dist of LEADER_STEPS) {
+        for (const angle of LEADER_ANGLES) {
+          const dx = Math.cos(angle)
+          const dy = Math.sin(angle)
+          const ax = p.x + dx * (r + dist)
+          const ay = p.y + dy * (r + dist)
+          // The label hangs off the anchor on the side away from the pin.
+          const box: Box = Math.abs(dx) > 0.38
+            ? (dx > 0
+                ? { x0: ax, y0: ay - lh / 2, x1: ax + p.width, y1: ay + lh / 2 }
+                : { x0: ax - p.width, y0: ay - lh / 2, x1: ax, y1: ay + lh / 2 })
+            : (dy > 0
+                ? { x0: ax - p.width / 2, y0: ay, x1: ax + p.width / 2, y1: ay + lh }
+                : { x0: ax - p.width / 2, y0: ay - lh, x1: ax + p.width / 2, y1: ay })
+          if (!ok(box)) continue
+          const from = { x: p.x + dx * (pinR + 1), y: p.y + dy * (pinR + 1) }
+          const to = { x: ax - dx * 2, y: ay - dy * 2 }
+          // The line may not cross another pin, a label or an obstacle either.
+          if (lineBoxes(from, to, 1).some(b => boxHits(b, blockers, 1))) continue
+          const anchor = Math.abs(dx) > 0.38 ? (dx > 0 ? 'start' : 'end') : 'middle'
+          best = { side: 'leader', box, anchor, leader: { x1: from.x, y1: from.y, x2: to.x, y2: to.y } }
+          break search
+        }
+      }
+    }
+
+    if (!best) return null
+    placed.push(best.box)
+    if (best.leader) {
+      const { x1, y1, x2, y2 } = best.leader
+      placed.push(...lineBoxes({ x: x1, y: y1 }, { x: x2, y: y2 }, 1))
+    }
     return best
   })
 }

@@ -21,9 +21,11 @@ import {
   type EncodedOutline,
   frameRing,
   type GeoBounds,
-  labelBox,
+  type LabelPlacement,
   type LatLon,
   layoutInset,
+  layoutLabels,
+  lineBoxes,
   LOCATOR_REGIONS,
   locatorEnabled,
   locatorMark,
@@ -35,8 +37,6 @@ import {
   mapFrame,
   niceLength,
   normalizeRegion,
-  type LabelSide,
-  placeLabels,
   placePins,
   radiusPoints,
   ringBounds,
@@ -530,18 +530,6 @@ const locatorView = computed(() => {
 /** Clearance kept between the inset (or the scale bar) and anything drawn on the map. */
 const CLEARANCE = 4
 
-/** Boxes around a line from `a` to `b`, `half` pixels either side, every few pixels. */
-function lineBoxes(a: { x: number, y: number }, b: { x: number, y: number }, half: number): Box[] {
-  const out: Box[] = []
-  const n = Math.max(1, Math.ceil(Math.hypot(b.x - a.x, b.y - a.y) / 4))
-  for (let s = 0; s <= n; s++) {
-    const x = a.x + ((b.x - a.x) * s) / n
-    const y = a.y + ((b.y - a.y) * s) / n
-    out.push({ x0: x - half, y0: y - half, x1: x + half, y1: y + half })
-  }
-  return out
-}
-
 /**
  * Everything the inset and the scale bar must never cover, in the map's
  * pixels: each pin with its ring, its label's box, the leader line and dot
@@ -558,9 +546,11 @@ const obstacles = computed<Box[]>(() => {
       out.push({ x0: p.x0 - 3.5, y0: p.y0 - 3.5, x1: p.x0 + 3.5, y1: p.y0 + 3.5 })
       out.push(...lineBoxes({ x: p.x0, y: p.y0 }, p, 1))
     }
-    const label = model.value.pins[p.i]!.label
-    const side = labelSides.value.get(p.i)
-    if (label && side) out.push(labelBox({ x: p.x, y: p.y, width: labelWidth(label) }, side, PIN_R + 2, 14))
+    const label = labels.value.get(p.i)
+    if (label) {
+      out.push(label.box)
+      if (label.leader) out.push(...lineBoxes({ x: label.leader.x1, y: label.leader.y1 }, { x: label.leader.x2, y: label.leader.y2 }, 1))
+    }
   }
   for (const route of drawnRoutes.value) {
     for (let k = 1; k < route.points.length; k++) out.push(...lineBoxes(route.points[k - 1]!, route.points[k]!, 2.5))
@@ -577,13 +567,20 @@ const obstacles = computed<Box[]>(() => {
  * covers a pin, a label or a line. Computed with no inset too, so the
  * scale bar alone keeps the same guarantee.
  */
-const insetLayout = computed(() => {
+/** The inset's and the scale bar's boxes (width and height), or null for none. */
+const insetSizes = computed(() => {
   const L = locator.value
   const s = scaleBar.value
-  // 8.5px spaced capitals run about 6.3px a character.
-  const inset = L ? { w: Math.max(L.w, Math.ceil(L.label.length * 6.3)), h: L.h + (L.label ? INSET_LABEL_H : 0) } : null
-  // The scale text (10.5px mono) runs about 6.5px a character.
-  const scale = s ? { w: Math.max(s.px, s.label.length * 6.5), h: SCALE_H + 3 } : null
+  return {
+    // 8.5px spaced capitals run about 6.3px a character.
+    inset: L ? { w: Math.max(L.w, Math.ceil(L.label.length * 6.3)), h: L.h + (L.label ? INSET_LABEL_H : 0) } : null,
+    // The scale text (10.5px mono) runs about 6.5px a character.
+    scale: s ? { w: Math.max(s.px, s.label.length * 6.5), h: SCALE_H + 3 } : null,
+  }
+})
+
+const insetLayout = computed(() => {
+  const { inset, scale } = insetSizes.value
   return layoutInset({
     width: W.value,
     height: H.value,
@@ -636,30 +633,61 @@ function cueTitle(i: number): string {
 
 const active = ref<number | null>(null)
 
-/** Rough width of a 12px semibold label; close enough to keep labels apart. */
+/**
+ * Width of a 12px semibold label, erring wide (capitals run wider than
+ * lower case), so the box a label is placed by always covers its text.
+ */
 function labelWidth(text: string): number {
-  return text ? Math.ceil(text.length * 6.9) + 2 : 0
+  if (!text) return 0
+  let w = 0
+  for (const ch of text) w += ch === ' ' ? 3.6 : /[A-Z0-9MW]/.test(ch) ? 8.4 : /[il.,'()-]/.test(ch) ? 4.2 : 7.2
+  return Math.ceil(w) + 2
 }
 
-const labelSides = computed(() => {
-  const sides = placeLabels(
+/**
+ * Each pin's label (`layoutLabels`), placed so it never sits on another pin,
+ * another label, a nudged pin's leader line or dot: beside the pin, else
+ * moved out on a leader line, else left to the legend. It keeps off route
+ * lines and the inset's and scale bar's usual corner where it can; the
+ * inset and scale bar are then placed around the labels (`insetLayout`),
+ * so neither ever covers one.
+ */
+const labels = computed(() => {
+  const hard: Box[] = []
+  for (const p of drawn.value) {
+    if (!p.moved) continue
+    hard.push({ x0: p.x0 - 3.5, y0: p.y0 - 3.5, x1: p.x0 + 3.5, y1: p.y0 + 3.5 })
+    hard.push(...lineBoxes({ x: p.x0, y: p.y0 }, p, 1))
+  }
+  const soft: Box[] = []
+  for (const route of drawnRoutes.value) {
+    for (let k = 1; k < route.points.length; k++) soft.push(...lineBoxes(route.points[k - 1]!, route.points[k]!, 2.5))
+    for (const a of route.arrows) soft.push({ x0: a.x - 6, y0: a.y - 6, x1: a.x + 6, y1: a.y + 6 })
+  }
+  // Where the scale bar, with the inset above it, goes when nothing is in the way.
+  const { inset, scale } = insetSizes.value
+  const bottom = H.value - (PAD - 3)
+  const top = bottom - (scale ? scale.h + 4 : 0) - (inset ? inset.h : 0)
+  const colW = Math.max(inset?.w ?? 0, scale?.w ?? 0)
+  if (colW) soft.push({ x0: PAD, y0: top, x1: PAD + colW, y1: bottom })
+
+  const placements = layoutLabels(
     drawn.value.map(p => ({ x: p.x, y: p.y, width: labelWidth(model.value.pins[p.i]!.label) })),
-    PIN_R + 2,
-    W.value,
-    H.value,
+    { r: PIN_R + 2, pinR: PIN_R + 2.5, width: W.value, height: H.value, obstacles: hard, soft, margin: 2 },
   )
-  return new Map(drawn.value.map((p, k) => [p.i, sides[k] ?? null]))
+  const out = new Map<number, LabelPlacement>()
+  drawn.value.forEach((p, k) => {
+    const l = placements[k]
+    if (l) out.set(p.i, l)
+  })
+  return out
 })
 
-const LABEL_ATTRS: Record<LabelSide, { x: number, y: number, anchor: string }> = {
-  right: { x: PIN_R + 5, y: 0.5, anchor: 'start' },
-  left: { x: -(PIN_R + 5), y: 0.5, anchor: 'end' },
-  top: { x: 0, y: -(PIN_R + 12), anchor: 'middle' },
-  bottom: { x: 0, y: PIN_R + 13, anchor: 'middle' },
-}
-
-function labelAttrs(i: number) {
-  return LABEL_ATTRS[labelSides.value.get(i) ?? 'right']
+/** A label's text position and anchor, relative to its pin. */
+function labelAttrs(p: DrawnPin) {
+  const l = labels.value.get(p.i)!
+  const x = l.anchor === 'start' ? l.box.x0 : l.anchor === 'end' ? l.box.x1 : (l.box.x0 + l.box.x1) / 2
+  return { x: x - p.x, y: (l.box.y0 + l.box.y1) / 2 - p.y + 0.5, anchor: l.anchor }
 }
 
 function openPin(i: number) {
@@ -774,14 +802,23 @@ function openPin(i: number) {
             <circle class="ufo-map-pin-ring" :r="PIN_R + 2.5" />
             <circle class="ufo-map-pin-dot" :r="PIN_R" />
             <text class="ufo-map-pin-n" y="0.5" text-anchor="middle" dominant-baseline="central">{{ p.n }}</text>
-            <text
-              v-if="model.pins[p.i]!.label"
-              class="ufo-map-pin-label"
-              :x="labelAttrs(p.i).x"
-              :y="labelAttrs(p.i).y"
-              :text-anchor="labelAttrs(p.i).anchor"
-              dominant-baseline="central"
-            >{{ model.pins[p.i]!.label }}</text>
+            <template v-if="labels.get(p.i)">
+              <line
+                v-if="labels.get(p.i)!.leader"
+                class="ufo-map-label-leader"
+                :x1="labels.get(p.i)!.leader!.x1 - p.x"
+                :y1="labels.get(p.i)!.leader!.y1 - p.y"
+                :x2="labels.get(p.i)!.leader!.x2 - p.x"
+                :y2="labels.get(p.i)!.leader!.y2 - p.y"
+              />
+              <text
+                class="ufo-map-pin-label"
+                :x="labelAttrs(p).x"
+                :y="labelAttrs(p).y"
+                :text-anchor="labelAttrs(p).anchor"
+                dominant-baseline="central"
+              >{{ model.pins[p.i]!.label }}</text>
+            </template>
           </g>
         </g>
 
@@ -1007,6 +1044,11 @@ function openPin(i: number) {
 .ufo-map-pin.is-active .ufo-map-pin-ring {
   fill: var(--map-route);
   opacity: 1;
+}
+.ufo-map-label-leader {
+  stroke: var(--map-ink);
+  stroke-width: 1;
+  opacity: 0.55;
 }
 .ufo-map-pin-label {
   fill: var(--map-ink);

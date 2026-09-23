@@ -19,7 +19,8 @@ import {
   normalizeLatLon,
   normalizeRegion,
   layoutInset,
-  placeLabels,
+  layoutLabels,
+  lineBoxes,
   placePins,
   radiusPoints,
   ringBounds,
@@ -242,24 +243,113 @@ describe('radius', () => {
   })
 })
 
-describe('placeLabels', () => {
+describe('layoutLabels', () => {
+  const opts = { r: 12, pinR: 12.5, width: 400, height: 200 }
+  const side = (l: ReturnType<typeof layoutLabels>[number]) => l?.side ?? null
+
   it('prefers the right, and skips pins without a label', () => {
-    expect(placeLabels([{ x: 50, y: 50, width: 40 }, { x: 300, y: 50, width: 0 }], 10, 400, 200)).toEqual(['right', null])
+    const l = layoutLabels([{ x: 50, y: 50, width: 40 }, { x: 300, y: 50, width: 0 }], opts)
+    expect(l.map(side)).toEqual(['right', null])
+    expect(l[0]).toMatchObject({ anchor: 'start', leader: null, box: { x0: 67, x1: 107 } })
   })
 
   it('moves a label off a neighbouring pin', () => {
     // A pin 40px to the right blocks the right side.
-    expect(placeLabels([{ x: 100, y: 100, width: 60 }, { x: 140, y: 100, width: 0 }], 10, 400, 200)[0]).toBe('left')
+    expect(side(layoutLabels([{ x: 100, y: 100, width: 60 }, { x: 140, y: 100, width: 0 }], opts)[0])).toBe('left')
   })
 
   it('keeps labels inside the map', () => {
-    expect(placeLabels([{ x: 390, y: 100, width: 60 }], 10, 400, 200)[0]).toBe('left')
+    const l = layoutLabels([{ x: 390, y: 100, width: 60 }], opts)[0]!
+    expect(l.side).toBe('left')
+    expect(l.anchor).toBe('end')
   })
 
   it('keeps two labels from overlapping each other', () => {
-    const sides = placeLabels([{ x: 100, y: 100, width: 80 }, { x: 100, y: 112, width: 80 }], 5, 400, 200)
-    expect(sides[0]).toBe('right')
-    expect(sides[1]).not.toBe('right')
+    const l = layoutLabels([{ x: 100, y: 100, width: 80 }, { x: 100, y: 112, width: 80 }], opts)
+    expect(boxHits(l[0]!.box, [l[1]!.box])).toBe(false)
+  })
+
+  it('tries the diagonals when all four sides are blocked', () => {
+    const obstacles = [
+      { x0: 215, y0: 95, x1: 260, y1: 105 }, // right
+      { x0: 140, y0: 95, x1: 185, y1: 105 }, // left
+      { x0: 195, y0: 70, x1: 205, y1: 82 }, // above
+      { x0: 195, y0: 118, x1: 205, y1: 130 }, // below
+    ]
+    const l = layoutLabels([{ x: 200, y: 100, width: 40 }], { ...opts, obstacles })[0]!
+    expect(l.side).toBe('top-right')
+    expect(boxHits(l.box, obstacles, 2)).toBe(false)
+  })
+
+  it('keeps off a hard obstacle (a leader line, the inset) and prefers to miss soft ones', () => {
+    const inset = { x0: 60, y0: 40, x1: 140, y1: 70 }
+    expect(side(layoutLabels([{ x: 50, y: 50, width: 40 }], { ...opts, obstacles: [inset] })[0])).not.toBe('right')
+    const route = { x0: 60, y0: 45, x1: 140, y1: 55 }
+    expect(side(layoutLabels([{ x: 50, y: 50, width: 40 }], { ...opts, soft: [route] })[0])).not.toBe('right')
+  })
+
+  it('falls back to a leader line to an open spot', () => {
+    // Six pins 34px round the labelled one block every position beside it,
+    // leaving narrow gaps a leader line can pass through.
+    const ring = Array.from({ length: 6 }, (_, k) => ({ x: 200 + 34 * Math.cos((k * Math.PI) / 3), y: 100 + 34 * Math.sin((k * Math.PI) / 3), width: 0 }))
+    const l = layoutLabels([{ x: 200, y: 100, width: 30 }, ...ring], opts)[0]!
+    expect(l.side).toBe('leader')
+    expect(l.leader).not.toBeNull()
+    expect(boxHits(l.box, ring.map(p => ({ x0: p.x - 12.5, y0: p.y - 12.5, x1: p.x + 12.5, y1: p.y + 12.5 })))).toBe(false)
+  })
+
+  it('drops the label when nowhere is clear', () => {
+    // A map barely bigger than the pin.
+    expect(layoutLabels([{ x: 20, y: 20, width: 60 }], { ...opts, width: 40, height: 40 })).toEqual([null])
+  })
+
+  it('never puts a label on a pin, a label, a leader or an obstacle, over many random maps', () => {
+    let seed = 11
+    const rand = () => {
+      seed = (seed * 16807) % 2147483647
+      return seed / 2147483647
+    }
+    let placedCount = 0
+    let leaders = 0
+    for (let t = 0; t < 300; t++) {
+      const width = 260 + Math.round(rand() * 500)
+      const height = Math.round(width * (0.42 + rand() * 0.6))
+      const pins = Array.from({ length: 2 + Math.floor(rand() * 10) }, () => ({
+        x: 14 + rand() * (width - 28),
+        y: 14 + rand() * (height - 28),
+        width: rand() < 0.2 ? 0 : 20 + rand() * 120,
+      }))
+      const obstacles = Array.from({ length: Math.floor(rand() * 3) }, () => {
+        const x = rand() * width
+        const y = rand() * height
+        return { x0: x, y0: y, x1: x + 20 + rand() * 80, y1: y + 20 + rand() * 60 }
+      })
+      const out = layoutLabels(pins, { ...opts, width, height, obstacles })
+      const pinBoxes = pins.map(p => ({ x0: p.x - 12.5, y0: p.y - 12.5, x1: p.x + 12.5, y1: p.y + 12.5 }))
+      out.forEach((l, i) => {
+        if (!l) return
+        placedCount++
+        const others = [
+          ...pinBoxes.filter((_, j) => j !== i),
+          ...obstacles,
+          ...out.flatMap((m, j) => (m && j !== i ? [m.box] : [])),
+        ]
+        expect(boxHits(l.box, others)).toBe(false)
+        expect(l.box.x0).toBeGreaterThanOrEqual(0)
+        expect(l.box.x1).toBeLessThanOrEqual(width)
+        expect(l.box.y0).toBeGreaterThanOrEqual(0)
+        expect(l.box.y1).toBeLessThanOrEqual(height)
+        if (l.leader) {
+          leaders++
+          const { x1, y1, x2, y2 } = l.leader
+          // The leader crosses no other pin or label either.
+          expect(lineBoxes({ x: x1, y: y1 }, { x: x2, y: y2 }, 0.5).some(b => boxHits(b, others))).toBe(false)
+        }
+      })
+    }
+    // Most labels still find a place.
+    expect(placedCount).toBeGreaterThan(500)
+    expect(leaders).toBeGreaterThan(0)
   })
 })
 
