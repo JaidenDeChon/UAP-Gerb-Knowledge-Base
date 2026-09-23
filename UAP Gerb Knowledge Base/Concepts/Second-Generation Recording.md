@@ -18,4 +18,4 @@ In the case of the flyby footage, the second-generation nature has been cited bo
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - FLYBY]]
+- [[Videos/Incredible UFO Footage - FLYBY/summary|Incredible UFO Footage - FLYBY]]

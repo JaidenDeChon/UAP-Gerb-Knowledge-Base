@@ -17,4 +17,4 @@ The video also cites a 2005 Joint Warfighting Center support contract worth $250
 
 ## Sources
 
-- [[Video - UFO Legacy Programs - Science Applications International Corporation (SAIC)]]
+- [[Videos/UFO Legacy Programs - Science Applications International Corporation (SAIC)/summary|UFO Legacy Programs - Science Applications International Corporation (SAIC)]]

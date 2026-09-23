@@ -52,5 +52,5 @@ However, Wilson did admit to meeting with Steven Greer and Edgar Mitchell, thoug
 
 ## Sources
 
-- [[Video - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs]]
-- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
+- [[Videos/The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs/summary|The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs]]
+- [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

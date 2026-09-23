@@ -66,5 +66,5 @@ MS's ability to discuss his experience with colleagues (including making contact
 
 ## Sources
 
-- [[Video - Dugway Proving Ground - UFO Legacy Programs]]
+- [[Videos/Dugway Proving Ground - UFO Legacy Programs/summary|Dugway Proving Ground - UFO Legacy Programs]]
 

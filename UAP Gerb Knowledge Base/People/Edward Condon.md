@@ -25,4 +25,4 @@ The report received near-universal praise from major scientific institutions and
 
 ## Sources
 
-- [[Video - The Origin of the UFO Stigma]]
+- [[Videos/The Origin of the UFO Stigma/summary|The Origin of the UFO Stigma]]

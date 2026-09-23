@@ -32,4 +32,4 @@ The footage's quality and dramatic nature have led to skepticism, with some dism
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - FLYBY]]
+- [[Videos/Incredible UFO Footage - FLYBY/summary|Incredible UFO Footage - FLYBY]]

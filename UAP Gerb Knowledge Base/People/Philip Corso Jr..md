@@ -21,4 +21,4 @@ By releasing the manuscript, Corso Jr. aimed to give researchers and the public 
 
 ## Sources
 
-- [[Video - Philip J. Corso - US Army UFO Technology Research & Development]]
+- [[Videos/Philip J. Corso - US Army UFO Technology Research & Development/summary|Philip J. Corso - US Army UFO Technology Research & Development]]

@@ -17,4 +17,4 @@ Ranchers Mr. and Mrs. Knight warned the workers off, a helicopter circled overhe
 
 ## Sources
 
-- [[Video - The 1948 Aztec, New Mexico UFO Crash Retrieval]]
+- [[Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/summary|The 1948 Aztec, New Mexico UFO Crash Retrieval]]

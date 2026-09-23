@@ -17,4 +17,4 @@ Reddit researcher "Harry is White Hot" has proposed that Cantwheel was Boris Tar
 
 ## Sources
 
-- [[Video - The Majestic-12 Documents With Ryan S. Wood]]
+- [[Videos/The Majestic-12 Documents With Ryan S. Wood/summary|The Majestic-12 Documents With Ryan S. Wood]]

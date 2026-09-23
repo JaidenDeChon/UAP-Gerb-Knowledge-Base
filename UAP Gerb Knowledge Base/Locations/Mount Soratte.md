@@ -16,10 +16,10 @@ Its physical characteristics made it suitable for secure wartime storage and res
 
 ## Role in the Magenta Case Narrative
 
-[[Video - The 1933 Magenta, Italy UFO Crash]] presents Mount Soratte as a possible relocation site after material was initially stored near [[Varese, Italy]]. The claim is linked to wartime instability, shifting Axis control, and later reported transfer to U.S. custody via [[Office of Strategic Services (OSS)]].
+[[Videos/The 1933 Magenta, Italy UFO Crash/summary|The 1933 Magenta, Italy UFO Crash]] presents Mount Soratte as a possible relocation site after material was initially stored near [[Varese, Italy]]. The claim is linked to wartime instability, shifting Axis control, and later reported transfer to U.S. custody via [[Office of Strategic Services (OSS)]].
 
 The video treats this segment as plausible but not fully documented, noting the need for stronger archival corroboration.
 
 ## Sources
 
-- [[Video - The 1933 Magenta, Italy UFO Crash]]
+- [[Videos/The 1933 Magenta, Italy UFO Crash/summary|The 1933 Magenta, Italy UFO Crash]]

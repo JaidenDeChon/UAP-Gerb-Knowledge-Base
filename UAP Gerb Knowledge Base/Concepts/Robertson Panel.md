@@ -35,8 +35,8 @@ The [[Robertson Panel]] convened in January 1953 during the same period that [[B
 
 ## Sources
 
-- [[Video - The 1953 Kingman, Arizona UFO Crash]]
-- [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
-- [[Video - The Origin of the UFO Stigma]]
-- [[Video - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies]]
-- [[Video - UFOs in the Private Sector - Battelle Memorial Institute]]
+- [[Videos/The 1953 Kingman, Arizona UFO Crash/summary|The 1953 Kingman, Arizona UFO Crash]]
+- [[Videos/The Alien and UFO Obscure Oddities Iceberg (Level 1)/summary|The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
+- [[Videos/The Origin of the UFO Stigma/summary|The Origin of the UFO Stigma]]
+- [[Videos/The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies/summary|The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies]]
+- [[Videos/UFOs in the Private Sector - Battelle Memorial Institute/summary|UFOs in the Private Sector - Battelle Memorial Institute]]

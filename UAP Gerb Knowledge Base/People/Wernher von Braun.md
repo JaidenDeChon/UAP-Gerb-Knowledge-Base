@@ -29,6 +29,6 @@ His mentor Oberth publicly stated in 1954 that flying saucers were real spaceshi
 
 ## Sources
 
-- [[Video - The Physics of UFOs– Dr. Kevin Knuth]]
-- [[Video - Philip J. Corso - US Army UFO Technology Research & Development]]
-- [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
+- [[Videos/The Physics of UFOs– Dr. Kevin Knuth/summary|The Physics of UFOs– Dr. Kevin Knuth]]
+- [[Videos/Philip J. Corso - US Army UFO Technology Research & Development/summary|Philip J. Corso - US Army UFO Technology Research & Development]]
+- [[Videos/Alien Reproduction Vehicle - TR-3B and the Flying Triangles/summary|Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]

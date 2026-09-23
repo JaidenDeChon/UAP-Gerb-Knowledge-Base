@@ -17,4 +17,4 @@ UAP Gerb argues that ATEC's independence could also mean weaker oversight of its
 
 ## Sources
 
-- [[Video - Dugway Proving Ground - UFO Legacy Programs]]
+- [[Videos/Dugway Proving Ground - UFO Legacy Programs/summary|Dugway Proving Ground - UFO Legacy Programs]]

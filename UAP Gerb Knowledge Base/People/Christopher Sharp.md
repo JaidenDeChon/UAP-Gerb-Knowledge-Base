@@ -40,5 +40,5 @@ UAP Gerb compares Sharp's reporting on the [[CIA Office of Global Access]] with 
 - [[US Navy UFO Crash Retrieval & Reverse Engineering Programs]]
 - [[The 1933 Magenta, Italy UFO Crash]]
 - [[National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers]]
-- [[Video - The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]
-- [[Video - The 1974 Coyame, Mexico UFO Crash]]
+- [[Videos/The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs/summary|The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]
+- [[Videos/The 1974 Coyame, Mexico UFO Crash/summary|The 1974 Coyame, Mexico UFO Crash]]

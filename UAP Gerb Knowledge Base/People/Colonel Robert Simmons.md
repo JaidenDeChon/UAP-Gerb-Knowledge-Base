@@ -38,4 +38,4 @@ Colonel Simmons's Bolivia deployment demonstrates that [[Project Moondust]] was 
 
 ## Sources
 
-- [[Video - MOON DUST - The Pentagon's Secret UFO Programs]]
+- [[Videos/MOON DUST - The Pentagon's Secret UFO Programs/summary|MOON DUST - The Pentagon's Secret UFO Programs]]

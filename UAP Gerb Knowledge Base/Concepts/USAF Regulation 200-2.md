@@ -22,8 +22,8 @@ Within those narratives, the regulation is treated as a prototype for later comp
 
 ## Comparison in the Magenta Video
 
-[[Video - The 1933 Magenta, Italy UFO Crash]] compares the nine-step secrecy protocol attributed to [[RS-33 (Gabinetto RS 33)]] with USAF Regulation 200-2, arguing both systems emphasize witness control, restricted scientific access, and centrally managed cover narratives.
+[[Videos/The 1933 Magenta, Italy UFO Crash/summary|The 1933 Magenta, Italy UFO Crash]] compares the nine-step secrecy protocol attributed to [[RS-33 (Gabinetto RS 33)]] with USAF Regulation 200-2, arguing both systems emphasize witness control, restricted scientific access, and centrally managed cover narratives.
 
 ## Sources
 
-- [[Video - The 1933 Magenta, Italy UFO Crash]]
+- [[Videos/The 1933 Magenta, Italy UFO Crash/summary|The 1933 Magenta, Italy UFO Crash]]

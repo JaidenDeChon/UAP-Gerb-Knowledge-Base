@@ -19,4 +19,4 @@ Fish's confirmation suggested that Schwartz had accurately described aspects of 
 
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]

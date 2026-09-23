@@ -19,4 +19,4 @@ Steven Greer helped facilitate Herrera's National Press Club appearance and coor
 
 ## Sources
 
-- [[Video - Michael Herrera - Insights into UAP Encounter and Black Program Insiders]]
+- [[Videos/Michael Herrera - Insights into UAP Encounter and Black Program Insiders/summary|Michael Herrera - Insights into UAP Encounter and Black Program Insiders]]

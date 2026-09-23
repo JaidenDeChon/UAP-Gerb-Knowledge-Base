@@ -16,4 +16,4 @@ Cuba sits approximately 50 miles south of Aztec in the foothills of the Jemez Mo
 
 ## Sources
 
-- [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
+- [[Videos/The Alien and UFO Obscure Oddities Iceberg (Level 2)/summary|The Alien and UFO Obscure Oddities Iceberg (Level 2)]]

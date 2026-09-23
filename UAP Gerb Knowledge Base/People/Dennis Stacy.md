@@ -15,4 +15,4 @@ Stacy considered but did not confirm the possibility that the incident might ins
 
 ## Sources
 
-- [[Video - The 1950s Del Rio, Texas UFO Crashes]]
+- [[Videos/The 1950s Del Rio, Texas UFO Crashes/summary|The 1950s Del Rio, Texas UFO Crashes]]

@@ -13,4 +13,4 @@ In UAP Gerb's video on the [[Aztec UFO Crash and Recovery|1948 Aztec crash]], Mo
 
 ## Sources
 
-- [[Video - The 1948 Aztec, New Mexico UFO Crash Retrieval]]
+- [[Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/summary|The 1948 Aztec, New Mexico UFO Crash Retrieval]]

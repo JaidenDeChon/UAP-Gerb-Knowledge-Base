@@ -59,4 +59,4 @@ The controlled flight characteristics documented in multiple Fast Walker cases o
 
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]

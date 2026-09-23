@@ -83,5 +83,5 @@ Approximately 77% of WDTC's acknowledged work being CBDP-funded means 23% remain
 
 ## Sources
 
-- [[Video - Dugway Proving Ground - UFO Legacy Programs]]
+- [[Videos/Dugway Proving Ground - UFO Legacy Programs/summary|Dugway Proving Ground - UFO Legacy Programs]]
 

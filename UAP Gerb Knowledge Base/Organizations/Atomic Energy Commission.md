@@ -25,6 +25,6 @@ The AEC's "restricted" classification standard — a private-sector classificati
 
 ## Sources
 
-- [[Video - Global Air Force UFO Encounters You've Probably Never Heard of]]
-- [[Video - The Origin of the UFO Stigma]]
-- [[Video - UFOs in the Private Sector - Battelle Memorial Institute]]
+- [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters You've Probably Never Heard of]]
+- [[Videos/The Origin of the UFO Stigma/summary|The Origin of the UFO Stigma]]
+- [[Videos/UFOs in the Private Sector - Battelle Memorial Institute/summary|UFOs in the Private Sector - Battelle Memorial Institute]]

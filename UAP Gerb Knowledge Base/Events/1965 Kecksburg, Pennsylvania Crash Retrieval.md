@@ -31,6 +31,6 @@ Witnesses' descriptions of airmen in blue fatigues and blue berets tie the case 
 
 ## Sources
 
-- [[Video - The 1965 Kecksburg, Pennsylvania UFO Crash]]
-- [[Video - US Navy UFO Crash Retrieval & Reverse Engineering Programs]]
-- [[Video - The Majestic-12 Documents With Ryan S. Wood]]
+- [[Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/summary|The 1965 Kecksburg, Pennsylvania UFO Crash]]
+- [[Videos/US Navy UFO Crash Retrieval & Reverse Engineering Programs/summary|US Navy UFO Crash Retrieval & Reverse Engineering Programs]]
+- [[Videos/The Majestic-12 Documents With Ryan S. Wood/summary|The Majestic-12 Documents With Ryan S. Wood]]

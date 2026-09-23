@@ -25,4 +25,4 @@ Third Phase of the Sun represents the type of independent media platforms that s
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - METAPOD]]
+- [[Videos/Incredible UFO Footage - METAPOD/summary|Incredible UFO Footage - METAPOD]]

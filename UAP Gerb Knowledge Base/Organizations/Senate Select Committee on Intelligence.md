@@ -15,4 +15,4 @@ During witness testimony about UAP encounters, SSCI members reportedly asked wit
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - FLYBY]]
+- [[Videos/Incredible UFO Footage - FLYBY/summary|Incredible UFO Footage - FLYBY]]

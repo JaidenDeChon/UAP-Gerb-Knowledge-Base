@@ -18,5 +18,5 @@ UAP Gerb's *80 Years of UFO Crash Retrieval and Reverse Engineering* dates [[SAI
 
 ## Sources
 
-- [[Video - UFO Legacy Programs - Science Applications International Corporation (SAIC)]]
-- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
+- [[Videos/UFO Legacy Programs - Science Applications International Corporation (SAIC)/summary|UFO Legacy Programs - Science Applications International Corporation (SAIC)]]
+- [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

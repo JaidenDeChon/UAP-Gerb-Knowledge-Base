@@ -18,4 +18,4 @@ In *The Hidden Wing*, UAP Gerb calls AF/TE "the tip of the spear" for Air Force 
 
 ## Sources
 
-- [[Video - The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
+- [[Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/summary|The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]

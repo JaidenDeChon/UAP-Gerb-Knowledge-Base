@@ -25,4 +25,4 @@ AFIT's publication of Fast Walker research represents rare official Air Force ac
 
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]

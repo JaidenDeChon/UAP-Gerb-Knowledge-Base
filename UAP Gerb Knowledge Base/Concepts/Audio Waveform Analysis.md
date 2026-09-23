@@ -14,4 +14,4 @@ This conclusion supports the interpretation that the flyby footage is a [[Second
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - FLYBY]]
+- [[Videos/Incredible UFO Footage - FLYBY/summary|Incredible UFO Footage - FLYBY]]

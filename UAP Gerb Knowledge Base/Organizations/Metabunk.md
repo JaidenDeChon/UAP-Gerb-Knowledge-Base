@@ -36,4 +36,4 @@ Metabunk serves as a counterbalance to uncritical acceptance of UAP claims, appl
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - METAPOD]]
+- [[Videos/Incredible UFO Footage - METAPOD/summary|Incredible UFO Footage - METAPOD]]

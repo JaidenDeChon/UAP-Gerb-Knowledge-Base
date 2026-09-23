@@ -21,4 +21,4 @@ Redfern investigated the claims of [[Judy Wolcott]], who told researcher [[Don S
 
 ## Sources
 
-- [[Video - The 1974 Coyame, Mexico UFO Crash]]
+- [[Videos/The 1974 Coyame, Mexico UFO Crash/summary|The 1974 Coyame, Mexico UFO Crash]]

@@ -13,4 +13,4 @@ UAP Gerb's *The Hidden Wing* argues that AFOTEC's independence, like that of FFR
 
 ## Sources
 
-- [[Video - The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
+- [[Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/summary|The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]

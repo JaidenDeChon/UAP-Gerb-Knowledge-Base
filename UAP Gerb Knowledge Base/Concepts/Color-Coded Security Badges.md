@@ -18,4 +18,4 @@ The use of color-coded compartmentalization within UAP-related facilities mirror
 
 ## Sources
 
-- [[Video - UFO Whistleblowers Vol.2]]
+- [[Videos/UFO Whistleblowers Vol.2/summary|UFO Whistleblowers Vol.2]]

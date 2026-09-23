@@ -24,4 +24,4 @@ Fish's testimony that cleared DSP personnel openly discussed Fast Walker detecti
 
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]

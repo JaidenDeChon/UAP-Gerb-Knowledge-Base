@@ -17,4 +17,4 @@ His decision to ground the flight based on UFO proximity set a precedent in comm
 
 ## Sources
 
-- [[Video - The First Commercial Flight Grounded Due to UFOs]]
+- [[Videos/The First Commercial Flight Grounded Due to UFOs/summary|The First Commercial Flight Grounded Due to UFOs]]

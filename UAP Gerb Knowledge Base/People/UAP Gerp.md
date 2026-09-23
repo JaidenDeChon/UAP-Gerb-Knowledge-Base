@@ -34,4 +34,4 @@ UAP Gerp states: "I won't settle for anything less than a full analysis," reflec
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - METAPOD]]
+- [[Videos/Incredible UFO Footage - METAPOD/summary|Incredible UFO Footage - METAPOD]]

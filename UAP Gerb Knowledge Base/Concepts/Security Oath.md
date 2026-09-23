@@ -14,4 +14,4 @@ The existence of such oaths for witnesses to UAP-related programs is a recurring
 
 ## Sources
 
-- [[Video - UFO Whistleblowers Vol.2]]
+- [[Videos/UFO Whistleblowers Vol.2/summary|UFO Whistleblowers Vol.2]]

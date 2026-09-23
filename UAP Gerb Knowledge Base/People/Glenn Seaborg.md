@@ -13,4 +13,4 @@ UAP Gerb lists Seaborg among the officials summoned to [[Lyndon B. Johnson]]'s T
 
 ## Sources
 
-- [[Video - The 1965 Kecksburg, Pennsylvania UFO Crash]]
+- [[Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/summary|The 1965 Kecksburg, Pennsylvania UFO Crash]]

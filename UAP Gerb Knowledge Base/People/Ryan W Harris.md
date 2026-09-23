@@ -66,4 +66,4 @@ Harris's 20+ year progression from Army chemical officer → Battelle project ma
 
 ## Sources
 
-- [[Video - Dugway Proving Ground - UFO Legacy Programs]]
+- [[Videos/Dugway Proving Ground - UFO Legacy Programs/summary|Dugway Proving Ground - UFO Legacy Programs]]

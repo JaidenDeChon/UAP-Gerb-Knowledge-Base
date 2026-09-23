@@ -23,6 +23,6 @@ UAP Gerb groups Lazar alongside [[Mark McCandlish]], [[Bill Uhouse]], and [[Boyd
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - FLYBY]]
-- [[Video - The Marines Who Got too Close to UFOs]]
-- [[Video - UFO Whistleblowers Vol.1]]
+- [[Videos/Incredible UFO Footage - FLYBY/summary|Incredible UFO Footage - FLYBY]]
+- [[Videos/The Marines Who Got too Close to UFOs/summary|The Marines Who Got too Close to UFOs]]
+- [[Videos/UFO Whistleblowers Vol.1/summary|UFO Whistleblowers Vol.1]]

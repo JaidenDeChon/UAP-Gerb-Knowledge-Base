@@ -13,4 +13,4 @@ In the whistleblower context used by UAP Gerb, Steven Lovekin's service is descr
 
 ## Sources
 
-- [[Video - UFO Whistleblowers Vol.1]]
+- [[Videos/UFO Whistleblowers Vol.1/summary|UFO Whistleblowers Vol.1]]

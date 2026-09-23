@@ -18,4 +18,4 @@ The original onion-skin pages carry pen and pencil marginalia that Ryan and [[Ro
 
 ## Sources
 
-- [[Video - The Majestic-12 Documents With Ryan S. Wood]]
+- [[Videos/The Majestic-12 Documents With Ryan S. Wood/summary|The Majestic-12 Documents With Ryan S. Wood]]

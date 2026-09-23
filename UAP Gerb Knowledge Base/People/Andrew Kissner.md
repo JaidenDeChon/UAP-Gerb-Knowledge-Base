@@ -25,5 +25,5 @@ Because the statement was presented by Linda Moulton Howe, whom he considers unr
 
 ## Sources
 
-- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
-- [[Video - Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
+- [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
+- [[Videos/Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/summary|Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]

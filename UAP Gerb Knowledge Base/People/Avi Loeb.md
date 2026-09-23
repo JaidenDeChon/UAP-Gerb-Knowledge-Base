@@ -40,4 +40,4 @@ His work parallels and complements [[Kevin Knuth]]'s physics-based UAP analysis,
 
 ## Sources
 
-- [[Video - The Physics of UFOs– Dr. Kevin Knuth]]
+- [[Videos/The Physics of UFOs– Dr. Kevin Knuth/summary|The Physics of UFOs– Dr. Kevin Knuth]]

@@ -21,4 +21,4 @@ As of the time of UAP Gerp's analysis, the stabilized version of the Metapod foo
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - METAPOD]]
+- [[Videos/Incredible UFO Footage - METAPOD/summary|Incredible UFO Footage - METAPOD]]

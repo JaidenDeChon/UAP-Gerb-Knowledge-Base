@@ -29,7 +29,7 @@ Hynek's 1967 statement about NORAD tracking remains one of the most important di
 
 ## Sources
 
-- [[Video - MOON DUST - The Pentagon's Secret UFO Programs]]
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
-- [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
-- [[Video - The Origin of the UFO Stigma]]
+- [[Videos/MOON DUST - The Pentagon's Secret UFO Programs/summary|MOON DUST - The Pentagon's Secret UFO Programs]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/The Alien and UFO Obscure Oddities Iceberg (Level 2)/summary|The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
+- [[Videos/The Origin of the UFO Stigma/summary|The Origin of the UFO Stigma]]

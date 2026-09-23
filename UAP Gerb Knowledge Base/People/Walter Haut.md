@@ -30,5 +30,5 @@ In 2002 Haut completed a fuller statement, to be released two years after his de
 
 ## Sources
 
-- [[Video - UFO Whistleblowers Vol.1]]
-- [[Video - The 1953 Kingman, Arizona UFO Crash]]
+- [[Videos/UFO Whistleblowers Vol.1/summary|UFO Whistleblowers Vol.1]]
+- [[Videos/The 1953 Kingman, Arizona UFO Crash/summary|The 1953 Kingman, Arizona UFO Crash]]

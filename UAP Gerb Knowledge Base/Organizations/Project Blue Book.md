@@ -53,5 +53,5 @@ Project Blue Book documents were reportedly found scattered inside the [[Tejon R
 
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
-- [[Video - Global Air Force UFO Encounters You've Probably Never Heard of]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters You've Probably Never Heard of]]

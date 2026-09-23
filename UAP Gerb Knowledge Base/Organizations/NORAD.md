@@ -44,4 +44,4 @@ NORAD's 66-year history (1957-present) of tracking UFOs represents the longest c
 
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]

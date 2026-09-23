@@ -15,4 +15,4 @@ Critics of the Eisenhower Briefing Document argued that Hillenkoetter was in Kor
 
 ## Sources
 
-- [[Video - The Majestic-12 Documents With Ryan S. Wood]]
+- [[Videos/The Majestic-12 Documents With Ryan S. Wood/summary|The Majestic-12 Documents With Ryan S. Wood]]

@@ -41,5 +41,5 @@ The July 1999 MUFON UFO Journal cites an incident in which LeMay was present at 
 
 ## Sources
 
-- [[Video - The 1965 Kecksburg, Pennsylvania UFO Crash]]
-- [[Video - UFO Whistleblowers Vol.2]]
+- [[Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/summary|The 1965 Kecksburg, Pennsylvania UFO Crash]]
+- [[Videos/UFO Whistleblowers Vol.2/summary|UFO Whistleblowers Vol.2]]

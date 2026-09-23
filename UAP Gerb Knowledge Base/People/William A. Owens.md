@@ -17,4 +17,4 @@ UAP Gerb's SAIC investigation places Owens on SAPOC after the January 1994 restr
 
 ## Sources
 
-- [[Video - UFO Legacy Programs - Science Applications International Corporation (SAIC)]]
+- [[Videos/UFO Legacy Programs - Science Applications International Corporation (SAIC)/summary|UFO Legacy Programs - Science Applications International Corporation (SAIC)]]

@@ -31,4 +31,4 @@ Given that the mission ultimately involved Herrera's encounter with what insider
 
 ## Sources
 
-- [[Video - Michael Herrera - Insights into UAP Encounter and Black Program Insiders]]
+- [[Videos/Michael Herrera - Insights into UAP Encounter and Black Program Insiders/summary|Michael Herrera - Insights into UAP Encounter and Black Program Insiders]]

@@ -14,5 +14,5 @@ UAP researchers — including UAP Gerb — argue that [[Battelle Memorial Instit
 
 ## Sources
 
-- [[Video - UFOs in the Private Sector - Battelle Memorial Institute]]
-- [[Video - The 1950s Del Rio, Texas UFO Crashes]]
+- [[Videos/UFOs in the Private Sector - Battelle Memorial Institute/summary|UFOs in the Private Sector - Battelle Memorial Institute]]
+- [[Videos/The 1950s Del Rio, Texas UFO Crashes/summary|The 1950s Del Rio, Texas UFO Crashes]]

@@ -36,4 +36,4 @@ If authenticated, the Blue Angels leak would establish that:
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - METAPOD]]
+- [[Videos/Incredible UFO Footage - METAPOD/summary|Incredible UFO Footage - METAPOD]]

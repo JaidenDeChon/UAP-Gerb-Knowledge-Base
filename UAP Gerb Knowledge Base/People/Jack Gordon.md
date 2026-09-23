@@ -14,4 +14,4 @@ The chart sighting is treated as indirect evidence that [[Aurora Program|Project
 
 ## Sources
 
-- [[Video - UFOs in the Private Sector - Lockheed Martin]]
+- [[Videos/UFOs in the Private Sector - Lockheed Martin/summary|UFOs in the Private Sector - Lockheed Martin]]

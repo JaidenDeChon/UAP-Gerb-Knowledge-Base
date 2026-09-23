@@ -44,6 +44,6 @@ Romansky is widely regarded as one of the most credible witnesses in UFO crash r
 
 ## Sources
 
-- [[Video - The 1965 Kecksburg, Pennsylvania UFO Crash]]
+- [[Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/summary|The 1965 Kecksburg, Pennsylvania UFO Crash]]
 - Stan Gordon, *Kecksburg: The Untold Story* (1998)
 - *Montel Williams Show*, 1993 episode on Kecksburg

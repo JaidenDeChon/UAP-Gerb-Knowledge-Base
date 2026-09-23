@@ -36,5 +36,5 @@ The organizational connections between Operation Upshot-Knothole personnel and s
 
 ## Sources
 
-- [[Video - The 1953 Kingman, Arizona UFO Crash]]
-- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
+- [[Videos/The 1953 Kingman, Arizona UFO Crash/summary|The 1953 Kingman, Arizona UFO Crash]]
+- [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

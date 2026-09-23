@@ -9,7 +9,7 @@ The Mojave Desert is a large arid region in southeastern California, spanning po
 
 ## Newton's 1949 Magnetic Research
 
-According to accounts examined in [[Video - The 1948 Aztec, New Mexico UFO Crash Retrieval]], [[Silas Newton]] was conducting magnetic research in the Mojave Desert in 1949 when he met with a scientist Newton would later identify — under the pseudonym "Dr. G" — as the foremost U.S. authority on magnetics. This scientist is believed by UAP Gerb and researcher William Steinman to be [[Leo GeBauer]], a Phoenix-based physical scientist who co-invented the "doodlebug" oil-detecting device and who specialized in magnetic anomaly detection.
+According to accounts examined in [[Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/summary|The 1948 Aztec, New Mexico UFO Crash Retrieval]], [[Silas Newton]] was conducting magnetic research in the Mojave Desert in 1949 when he met with a scientist Newton would later identify — under the pseudonym "Dr. G" — as the foremost U.S. authority on magnetics. This scientist is believed by UAP Gerb and researcher William Steinman to be [[Leo GeBauer]], a Phoenix-based physical scientist who co-invented the "doodlebug" oil-detecting device and who specialized in magnetic anomaly detection.
 
 In Newton's account, it was from this scientist during or around this period that he first learned of a flying saucer landing 16 miles east of [[Aztec, New Mexico]], which had been secured by Air Force personnel within hours of its discovery on March 25, 1948. Newton consistently maintained that he was not the originator of the Aztec story but was repeating information told to him by Dr. G. A wire recording believed to document Newton recounting this story — dated March 3, 1950 — is treated by UAP Gerb as direct evidence of Newton's role as a relay rather than an originator of the crash account.
 
@@ -21,4 +21,4 @@ The Mojave Desert region is also geographically proximate to several classified 
 
 ## Sources
 
-- [[Video - The 1948 Aztec, New Mexico UFO Crash Retrieval]]
+- [[Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/summary|The 1948 Aztec, New Mexico UFO Crash Retrieval]]

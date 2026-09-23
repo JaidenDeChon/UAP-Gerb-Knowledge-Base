@@ -69,4 +69,4 @@ Herrera states that learning about the existence and treatment of pink assets wa
 
 ## Sources
 
-- [[Video - Michael Herrera - Insights into UAP Encounter and Black Program Insiders]]
+- [[Videos/Michael Herrera - Insights into UAP Encounter and Black Program Insiders/summary|Michael Herrera - Insights into UAP Encounter and Black Program Insiders]]

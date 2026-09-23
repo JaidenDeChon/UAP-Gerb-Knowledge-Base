@@ -19,5 +19,5 @@ In UAP Gerb's video on Corso, the host adds that Corso mentions Sperry Rand many
 
 ## Sources
 
-- [[Video - UFO Legacy Programs - Northrop Grumman]]
-- [[Video - Philip J. Corso - US Army UFO Technology Research & Development]]
+- [[Videos/UFO Legacy Programs - Northrop Grumman/summary|UFO Legacy Programs - Northrop Grumman]]
+- [[Videos/Philip J. Corso - US Army UFO Technology Research & Development/summary|Philip J. Corso - US Army UFO Technology Research & Development]]

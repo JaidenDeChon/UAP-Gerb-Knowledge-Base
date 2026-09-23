@@ -25,4 +25,4 @@ Aerojet's involvement — through its technical personnel — in analyzing DSP d
 
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]

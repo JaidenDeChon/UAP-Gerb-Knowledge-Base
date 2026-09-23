@@ -29,4 +29,4 @@ The Royal Monastery itself, a massive Renaissance complex built in the 16th cent
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - METAPOD]]
+- [[Videos/Incredible UFO Footage - METAPOD/summary|Incredible UFO Footage - METAPOD]]

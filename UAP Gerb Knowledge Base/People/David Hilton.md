@@ -11,4 +11,4 @@ In a June 2012 Skype conversation with UFO researcher [[Dan Benkert]], Hilton ma
 
 ## Sources
 
-- [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
+- [[Videos/Alien Reproduction Vehicle - TR-3B and the Flying Triangles/summary|Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]

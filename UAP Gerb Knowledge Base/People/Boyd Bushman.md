@@ -30,4 +30,4 @@ UAP Gerb rates Bushman as the second most credible of the four principal Lockhee
 
 ## Sources
 
-- [[Video - UFOs in the Private Sector - Lockheed Martin]]
+- [[Videos/UFOs in the Private Sector - Lockheed Martin/summary|UFOs in the Private Sector - Lockheed Martin]]

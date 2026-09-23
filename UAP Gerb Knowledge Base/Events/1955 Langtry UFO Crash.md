@@ -89,4 +89,4 @@ In a June 2018 *Coast to Coast AM* interview with journalist [[George Knapp]], p
 
 ## Sources
 
-- [[Video - The 1950s Del Rio, Texas UFO Crashes]]
+- [[Videos/The 1950s Del Rio, Texas UFO Crashes/summary|The 1950s Del Rio, Texas UFO Crashes]]

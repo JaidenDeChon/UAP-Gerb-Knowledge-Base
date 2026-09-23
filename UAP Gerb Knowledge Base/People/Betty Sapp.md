@@ -13,4 +13,4 @@ UAP Gerb's account of the "modern era" of UFO legacy programs identifies Sapp, a
 
 ## Sources
 
-- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
+- [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

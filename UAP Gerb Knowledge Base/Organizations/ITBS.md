@@ -27,4 +27,4 @@ UAP Gerp explicitly credits ITBS in his analysis, noting that he used "YouTube c
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - METAPOD]]
+- [[Videos/Incredible UFO Footage - METAPOD/summary|Incredible UFO Footage - METAPOD]]

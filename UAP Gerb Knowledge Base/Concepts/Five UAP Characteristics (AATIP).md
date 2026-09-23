@@ -36,4 +36,4 @@ Elizondo's articulation of these characteristics has influenced how military pil
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - METAPOD]]
+- [[Videos/Incredible UFO Footage - METAPOD/summary|Incredible UFO Footage - METAPOD]]

@@ -17,4 +17,4 @@ The primary witnesses were four professors with technical backgrounds in enginee
 
 ## Sources
 
-- [[Video - The Origin of the UFO Stigma]]
+- [[Videos/The Origin of the UFO Stigma/summary|The Origin of the UFO Stigma]]

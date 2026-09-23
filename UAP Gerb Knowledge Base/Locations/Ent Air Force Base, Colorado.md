@@ -9,7 +9,7 @@ Ent Air Force Base was a United States Air Force installation located in Colorad
 
 ## Harry B. Cooper and the USAF UFO Program
 
-The significance of Ent Air Force Base to UAP research is established through a signed commendation from **General Curtis LeMay** to Harry B. Cooper, praising Cooper for "outstanding work as NCO in charge of camera section, publishing division" at Ent Air Force Base from 1957 to 1963. This document, examined in [[Video - The Majestic-12 Documents With Ryan S. Wood]], confirms Cooper's operational role in both photographing UFOs and printing classified documents at one of the most sensitive air defense command centers in the United States during the height of the Cold War UAP program period.
+The significance of Ent Air Force Base to UAP research is established through a signed commendation from **General Curtis LeMay** to Harry B. Cooper, praising Cooper for "outstanding work as NCO in charge of camera section, publishing division" at Ent Air Force Base from 1957 to 1963. This document, examined in [[Videos/The Majestic-12 Documents With Ryan S. Wood/summary|The Majestic-12 Documents With Ryan S. Wood]], confirms Cooper's operational role in both photographing UFOs and printing classified documents at one of the most sensitive air defense command centers in the United States during the height of the Cold War UAP program period.
 
 Harry B. Cooper is further significant because he is the father of **Timothy Cooper**, who later received the largest known cache of alleged [[Majestic 12]] documents — material that arrived via postal mailings from Sacramento, California; physical insertions into his mailbox without postage; and mailings from the Fort Meade FOIA office. Researcher Ryan S. Wood identifies the LeMay commendation to Harry Cooper as strong circumstantial evidence linking the elder Cooper to the institutional infrastructure through which Majestic documents might plausibly have originated.
 
@@ -21,4 +21,4 @@ Cooper's role photographing and printing classified documents at ADC headquarter
 
 ## Sources
 
-- [[Video - The Majestic-12 Documents With Ryan S. Wood]]
+- [[Videos/The Majestic-12 Documents With Ryan S. Wood/summary|The Majestic-12 Documents With Ryan S. Wood]]

@@ -18,6 +18,6 @@ The Tehran incident is cited by [[Dr. Kevin Knuth]] in his physics analysis of U
 
 ## Sources
 
-- [[Video - The First Commercial Flight Grounded Due to UFOs]]
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
-- [[Video - The Physics of UFOs – Dr. Kevin Knuth]]
+- [[Videos/The First Commercial Flight Grounded Due to UFOs/summary|The First Commercial Flight Grounded Due to UFOs]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/The Physics of UFOs– Dr. Kevin Knuth/summary|The Physics of UFOs – Dr. Kevin Knuth]]

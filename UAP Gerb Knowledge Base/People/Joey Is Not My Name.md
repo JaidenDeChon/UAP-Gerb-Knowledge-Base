@@ -13,4 +13,4 @@ Joey employed 3D terrain modeling, photojournalism analysis, military operation 
 
 ## Sources
 
-- [[Video - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)]]
+- [[Videos/Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)/summary|Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)]]

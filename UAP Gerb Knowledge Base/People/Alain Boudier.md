@@ -20,4 +20,4 @@ Using the context of these emails, UAP Gerb matched the source to Boudier, who h
 
 ## Sources
 
-- [[Video - UFO Whistleblowers Vol.2]]
+- [[Videos/UFO Whistleblowers Vol.2/summary|UFO Whistleblowers Vol.2]]

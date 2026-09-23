@@ -17,4 +17,4 @@ UAP Gerb considers the airfield, with Avery, the operational above-ground locati
 
 ## Sources
 
-- [[Video - Dugway Proving Ground - UFO Legacy Programs]]
+- [[Videos/Dugway Proving Ground - UFO Legacy Programs/summary|Dugway Proving Ground - UFO Legacy Programs]]

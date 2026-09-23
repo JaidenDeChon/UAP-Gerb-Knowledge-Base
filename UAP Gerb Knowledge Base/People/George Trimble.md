@@ -12,4 +12,4 @@ In 1955, Trimble recruited Whitten to the RIAS with an explicit brief to develop
 
 ## Sources
 
-- [[Video - UFOs in the Private Sector - Lockheed Martin]]
+- [[Videos/UFOs in the Private Sector - Lockheed Martin/summary|UFOs in the Private Sector - Lockheed Martin]]

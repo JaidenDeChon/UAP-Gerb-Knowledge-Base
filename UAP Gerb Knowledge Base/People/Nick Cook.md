@@ -17,4 +17,4 @@ While visiting [[Lockheed Martin]]'s Palmdale facility in the late 1990s and dep
 
 ## Sources
 
-- [[Video - UFOs in the Private Sector - Lockheed Martin]]
+- [[Videos/UFOs in the Private Sector - Lockheed Martin/summary|UFOs in the Private Sector - Lockheed Martin]]

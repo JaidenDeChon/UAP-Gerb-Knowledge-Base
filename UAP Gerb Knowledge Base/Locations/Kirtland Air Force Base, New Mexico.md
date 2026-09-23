@@ -20,6 +20,6 @@ Kirtland occupies a central position within the cluster of military and research
 
 ## Sources
 
-- [[Video - US Navy UFO Crash Retrieval & Reverse Engineering Programs]]
-- [[Video - Dugway Proving Ground - UFO Legacy Programs]]
-- [[Video - UFOs in the Private Sector - Lockheed Martin]]
+- [[Videos/US Navy UFO Crash Retrieval & Reverse Engineering Programs/summary|US Navy UFO Crash Retrieval & Reverse Engineering Programs]]
+- [[Videos/Dugway Proving Ground - UFO Legacy Programs/summary|Dugway Proving Ground - UFO Legacy Programs]]
+- [[Videos/UFOs in the Private Sector - Lockheed Martin/summary|UFOs in the Private Sector - Lockheed Martin]]

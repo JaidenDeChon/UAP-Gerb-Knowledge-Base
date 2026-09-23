@@ -17,7 +17,7 @@ After the war, OSS functions were redistributed and later reconstituted in succe
 
 ## Connection to the 1933 Magenta Narrative
 
-According to claims discussed in [[Video - The 1933 Magenta, Italy UFO Crash]], OSS personnel allegedly acquired custody of a craft originally recovered near [[Magenta, Italy]] in 1933 and managed by [[RS-33 (Gabinetto RS 33)]].
+According to claims discussed in [[Videos/The 1933 Magenta, Italy UFO Crash/summary|The 1933 Magenta, Italy UFO Crash]], OSS personnel allegedly acquired custody of a craft originally recovered near [[Magenta, Italy]] in 1933 and managed by [[RS-33 (Gabinetto RS 33)]].
 
 The account, as presented in the video, links the transfer to wartime conditions in Italy, the weakening of fascist control, and reported Vatican back-channeling associated with [[Pope Pius XII]]. Within that narrative, the OSS is framed as the U.S. operational vehicle that enabled transfer of the craft to American control.
 
@@ -27,4 +27,4 @@ The OSS is a documented historical institution, but the specific claim that it r
 
 ## Sources
 
-- [[Video - The 1933 Magenta, Italy UFO Crash]]
+- [[Videos/The 1933 Magenta, Italy UFO Crash/summary|The 1933 Magenta, Italy UFO Crash]]

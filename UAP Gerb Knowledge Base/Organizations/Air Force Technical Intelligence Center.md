@@ -13,4 +13,4 @@ ATIC directed [[Project Blue Book]] through Captain [[Edward J. Ruppelt]] and ot
 
 ## Sources
 
-- [[Video - UFOs in the Private Sector - Battelle Memorial Institute]]
+- [[Videos/UFOs in the Private Sector - Battelle Memorial Institute/summary|UFOs in the Private Sector - Battelle Memorial Institute]]

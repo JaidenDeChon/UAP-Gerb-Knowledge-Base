@@ -25,5 +25,5 @@ Uriarte and Torres also co-authored *The Other Roswell: UFO Crash on the Texas B
 
 ## Sources
 
-- [[Video - The 1974 Coyame, Mexico UFO Crash]]
-- [[Video - The 1950s Del Rio, Texas UFO Crashes]]
+- [[Videos/The 1974 Coyame, Mexico UFO Crash/summary|The 1974 Coyame, Mexico UFO Crash]]
+- [[Videos/The 1950s Del Rio, Texas UFO Crashes/summary|The 1950s Del Rio, Texas UFO Crashes]]

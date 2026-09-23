@@ -60,4 +60,4 @@ The close approach to the satellite itself (1.8 miles) is particularly notable, 
 
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]

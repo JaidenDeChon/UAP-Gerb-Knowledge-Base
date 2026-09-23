@@ -39,4 +39,4 @@ Following the video's release, some social media accounts incorrectly claimed th
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - METAPOD]]
+- [[Videos/Incredible UFO Footage - METAPOD/summary|Incredible UFO Footage - METAPOD]]

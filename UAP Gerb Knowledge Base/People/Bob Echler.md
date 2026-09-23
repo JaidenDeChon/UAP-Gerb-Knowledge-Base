@@ -40,5 +40,5 @@ Echler additionally claimed that the Navy conducted EMP (electromagnetic pulse) 
 - [[US Navy UFO Crash Retrieval & Reverse Engineering Programs]]
 - [[National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers]]
 - Timothy Good (relayed Echler's account of the second Shapiro meeting)
-- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
-- [[Video - UFO Legacy Programs - Northrop Grumman]]
+- [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
+- [[Videos/UFO Legacy Programs - Northrop Grumman/summary|UFO Legacy Programs - Northrop Grumman]]

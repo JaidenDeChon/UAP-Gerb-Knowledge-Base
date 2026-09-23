@@ -15,4 +15,4 @@ In *Alien Reproduction Vehicle - TR-3B and the Flying Triangles*, UAP Gerb sets 
 
 ## Sources
 
-- [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
+- [[Videos/Alien Reproduction Vehicle - TR-3B and the Flying Triangles/summary|Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]

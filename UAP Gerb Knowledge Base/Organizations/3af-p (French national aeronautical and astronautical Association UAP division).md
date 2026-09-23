@@ -11,4 +11,4 @@ In UAP research the commission draws attention through Boudier, whom UAP Gerb id
 
 ## Sources
 
-- [[Video - UFO Whistleblowers Vol.2]]
+- [[Videos/UFO Whistleblowers Vol.2/summary|UFO Whistleblowers Vol.2]]

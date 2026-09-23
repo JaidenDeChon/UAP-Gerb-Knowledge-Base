@@ -16,4 +16,4 @@ After the [[2009 Sumatra Earthquake]], the *Denver* and the destroyer USS *McCam
 
 ## Sources
 
-- [[Video - Michael Herrera - Insights into UAP Encounter and Black Program Insiders]]
+- [[Videos/Michael Herrera - Insights into UAP Encounter and Black Program Insiders/summary|Michael Herrera - Insights into UAP Encounter and Black Program Insiders]]

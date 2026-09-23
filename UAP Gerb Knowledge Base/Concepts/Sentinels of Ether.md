@@ -86,4 +86,4 @@ Without the manuscript itself, independent verification, or DOPSR documentation,
 
 ## Sources
 
-- [[Video - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)]]
+- [[Videos/Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)/summary|Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)]]

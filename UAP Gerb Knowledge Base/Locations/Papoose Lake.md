@@ -15,4 +15,4 @@ Papoose Lake (also referred to as Papoose Dry Lake Bed) is a dry lake bed locate
 
 ## Sources
 
-- [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
+- [[Videos/Alien Reproduction Vehicle - TR-3B and the Flying Triangles/summary|Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]

@@ -17,4 +17,4 @@ As a civilian newsroom witness rather than a military insider, McQuitty provides
 
 ## Sources
 
-- [[Video - UFO Whistleblowers Vol.1]]
+- [[Videos/UFO Whistleblowers Vol.1/summary|UFO Whistleblowers Vol.1]]

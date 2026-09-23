@@ -25,4 +25,4 @@ Faucet's research demonstrated that by the late 1970s, NORAD possessed such volu
 
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]

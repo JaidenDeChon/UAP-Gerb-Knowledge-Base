@@ -27,4 +27,4 @@ NORTHCOM's 2013 denial mirrors the response pattern established by [[NORAD]] in 
 
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]

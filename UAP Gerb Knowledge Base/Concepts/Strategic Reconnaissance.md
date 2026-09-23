@@ -36,4 +36,4 @@ The use of "possible SR" notation on classified DSP printouts indicates these de
 
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]

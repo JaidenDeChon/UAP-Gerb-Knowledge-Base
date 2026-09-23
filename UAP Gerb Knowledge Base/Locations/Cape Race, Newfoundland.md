@@ -16,5 +16,5 @@ Cape Race was one of the most important navigational landmarks in the North Atla
 
 ## Sources
 
-- [[Video - USO - Unidentified Submerged Objects]]
-- [[Video - USO Case Book - Unidentified Submerged Objects Throughout History]]
+- [[Videos/USO - Unidentified Submerged Objects/summary|USO - Unidentified Submerged Objects]]
+- [[Videos/USO Case Book - Unidentified Submerged Objects Throughout History/summary|USO Case Book - Unidentified Submerged Objects Throughout History]]

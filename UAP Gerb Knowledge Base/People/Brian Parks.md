@@ -9,4 +9,4 @@ Brian Parks is a UFO researcher who, in 1991, submitted a Freedom of Information
 
 ## Sources
 
-- [[Video - UFO Whistleblowers Vol.2]]
+- [[Videos/UFO Whistleblowers Vol.2/summary|UFO Whistleblowers Vol.2]]

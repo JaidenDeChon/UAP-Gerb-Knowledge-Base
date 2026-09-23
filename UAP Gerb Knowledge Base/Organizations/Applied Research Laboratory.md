@@ -17,4 +17,4 @@ UAP Gerb raises the laboratory in *The 1965 Kecksburg, Pennsylvania UFO Crash*. 
 
 ## Sources
 
-- [[Video - The 1965 Kecksburg, Pennsylvania UFO Crash]]
+- [[Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/summary|The 1965 Kecksburg, Pennsylvania UFO Crash]]

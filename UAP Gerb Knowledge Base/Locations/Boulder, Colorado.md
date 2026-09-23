@@ -9,7 +9,7 @@ Boulder is a city in Boulder County, Colorado, located at the base of the Rocky 
 
 ## The 2017 Boulder Meeting with Dr. Greer
 
-As recounted in [[Video - Michael Herrera - Insights into UAP Encounter and Black Program Insiders]], the UAP Gerb host attended an event in Boulder, Colorado in 2017 at which he met Dr. [[Steven Greer]] for the first time in person. The host went to the meeting hoping to compare notes on his own personal UAP experience, sharing his account with Greer directly. This encounter is cited in the broader context of how independent UAP researchers and content creators came to connect with established figures in the disclosure movement during the years before the congressional testimony era of 2022–2023.
+As recounted in [[Videos/Michael Herrera - Insights into UAP Encounter and Black Program Insiders/summary|Michael Herrera - Insights into UAP Encounter and Black Program Insiders]], the UAP Gerb host attended an event in Boulder, Colorado in 2017 at which he met Dr. [[Steven Greer]] for the first time in person. The host went to the meeting hoping to compare notes on his own personal UAP experience, sharing his account with Greer directly. This encounter is cited in the broader context of how independent UAP researchers and content creators came to connect with established figures in the disclosure movement during the years before the congressional testimony era of 2022–2023.
 
 The Boulder meeting is one data point in the host's documented trajectory from personal UAP witness to investigative content creator. The video in which it is discussed also contextualizes the host's subsequent interactions with Greer — including shared attendance at the 2023 National Press Club (NPC 2023) conference, where Greer showed the host an encrypted text message on his phone from an alleged CIA Non-Official Cover operative who claimed knowledge of the classified UAP programs that whistleblower [[Michael Herrera]] had encountered in Indonesia in 2009.
 
@@ -19,4 +19,4 @@ Boulder sits within a broader regional context of UAP and consciousness research
 
 ## Sources
 
-- [[Video - Michael Herrera - Insights into UAP Encounter and Black Program Insiders]]
+- [[Videos/Michael Herrera - Insights into UAP Encounter and Black Program Insiders/summary|Michael Herrera - Insights into UAP Encounter and Black Program Insiders]]

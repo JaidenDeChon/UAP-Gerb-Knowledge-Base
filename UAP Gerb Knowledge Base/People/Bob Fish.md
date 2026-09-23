@@ -43,4 +43,4 @@ Bob Fish represents a rare category of witness: a cleared government contractor 
 
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]

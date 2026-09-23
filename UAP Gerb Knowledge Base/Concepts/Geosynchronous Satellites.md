@@ -44,4 +44,4 @@ The DSP constellation currently operates under [[US Space Force]] management, ma
 
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]

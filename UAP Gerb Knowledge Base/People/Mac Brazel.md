@@ -17,5 +17,5 @@ After initial press attention, Brazel's public role narrowed quickly as military
 
 ## Sources
 
-- [[Video - UFO Whistleblowers Vol.1]]
-- [[Video - The 1953 Kingman, Arizona UFO Crash]]
+- [[Videos/UFO Whistleblowers Vol.1/summary|UFO Whistleblowers Vol.1]]
+- [[Videos/The 1953 Kingman, Arizona UFO Crash/summary|The 1953 Kingman, Arizona UFO Crash]]

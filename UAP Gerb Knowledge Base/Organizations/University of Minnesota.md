@@ -34,5 +34,5 @@ The University of Minnesota's role in training Knuth demonstrates that scientist
 
 ## Sources
 
-- [[Video - The Physics of UFOs– Dr. Kevin Knuth]]
+- [[Videos/The Physics of UFOs– Dr. Kevin Knuth/summary|The Physics of UFOs– Dr. Kevin Knuth]]
 - Kevin Knuth's academic biography and CV

@@ -24,7 +24,7 @@ type: reference
 
 ## Sources Section
 - Every entity page should end with `## Sources` listing wikilinked video pages
-- Format: `- [[Video - Full Video Title]]`
+- Format: `- [[Videos/Full Video Title/summary|Full Video Title]]` (video pages live at `Videos/<title>/summary.md`; the old `[[Video - Title]]` form does not resolve)
 
 ## Wikilinks
 - Use `[[Page Name]]` for standard links

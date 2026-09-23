@@ -26,5 +26,5 @@ Anonymous Marine whistleblower "[[RB]]" claimed that in December 1963 he was flo
 
 ## Sources
 
-- [[Video - UFO Whistleblowers Vol.2]]
-- [[Video - MOON DUST - The Pentagon's Secret UFO Programs]]
+- [[Videos/UFO Whistleblowers Vol.2/summary|UFO Whistleblowers Vol.2]]
+- [[Videos/MOON DUST - The Pentagon's Secret UFO Programs/summary|MOON DUST - The Pentagon's Secret UFO Programs]]

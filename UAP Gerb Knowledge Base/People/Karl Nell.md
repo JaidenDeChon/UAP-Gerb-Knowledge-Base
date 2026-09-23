@@ -68,10 +68,10 @@ Nell's combination of credentials — military intelligence, DIA foreign materia
 
 ## Sources
 
-- [[Video - Alien Reproduction Vehicle - the Testimony of Mark McCandlish]]
-- [[Video - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure]]
-- [[Video - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)]]
-- [[Video - UFO Legacy Programs - Northrop Grumman]]
+- [[Videos/Alien Reproduction Vehicle - the Testimony of Mark McCandlish/summary|Alien Reproduction Vehicle - the Testimony of Mark McCandlish]]
+- [[Videos/SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure/summary|SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure]]
+- [[Videos/Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)/summary|Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)]]
+- [[Videos/UFO Legacy Programs - Northrop Grumman/summary|UFO Legacy Programs - Northrop Grumman]]
 
 ## Related Pages
 

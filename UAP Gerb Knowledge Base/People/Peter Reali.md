@@ -29,5 +29,5 @@ This work demonstrates that UAP data can be subjected to serious scientific anal
 
 ## Sources
 
-- [[Video - The Physics of UFOs– Dr. Kevin Knuth]]
+- [[Videos/The Physics of UFOs– Dr. Kevin Knuth/summary|The Physics of UFOs– Dr. Kevin Knuth]]
 - Knuth, K. H., Powell, R. M., & Reali, P. A. (2019). "Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles." *Entropy*, 21(10), 939.

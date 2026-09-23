@@ -27,4 +27,4 @@ Oszx's 1989 paper is one of the earliest official documents confirming systemati
 
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]

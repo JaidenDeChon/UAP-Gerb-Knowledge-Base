@@ -15,4 +15,4 @@ The authenticity of the document remains unverified, and as the presenter notes,
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - FLYBY]]
+- [[Videos/Incredible UFO Footage - FLYBY/summary|Incredible UFO Footage - FLYBY]]

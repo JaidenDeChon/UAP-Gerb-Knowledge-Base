@@ -18,4 +18,4 @@ The enforcement of a physical boundary by junior personnel against senior offici
 
 ## Sources
 
-- [[Video - UFO Whistleblowers Vol.2]]
+- [[Videos/UFO Whistleblowers Vol.2/summary|UFO Whistleblowers Vol.2]]

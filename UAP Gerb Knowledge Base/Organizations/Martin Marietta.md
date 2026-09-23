@@ -27,5 +27,5 @@ Susie Payton, who is referenced in other UAP Legacy Program contexts, worked at 
 
 ## Sources
 
-- [[Video - UFOs in the Private Sector - Lockheed Martin]]
-- [[Video - Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
+- [[Videos/UFOs in the Private Sector - Lockheed Martin/summary|UFOs in the Private Sector - Lockheed Martin]]
+- [[Videos/Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/summary|Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]

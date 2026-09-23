@@ -17,4 +17,4 @@ The group's elite status and nuclear mission background are frequently cited by 
 
 ## Sources
 
-- [[Video - UFO Whistleblowers Vol.1]]
+- [[Videos/UFO Whistleblowers Vol.1/summary|UFO Whistleblowers Vol.1]]

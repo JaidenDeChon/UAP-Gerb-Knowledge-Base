@@ -57,6 +57,6 @@ The elimination of Corona, combined with the debunking of [[Cosmos 96]] and [[Pr
 
 ## Sources
 
-- [[Video - The 1965 Kecksburg, Pennsylvania UFO Crash]]
+- [[Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/summary|The 1965 Kecksburg, Pennsylvania UFO Crash]]
 - Leslie Kean, May 2000 conference: *"Combating Media Ridicule and Searching for Evidence on the 1965 Kecksburg Crash Case"*
 - National Reconnaissance Office, *CORONA: America's First Satellite Program* (1995, declassified)

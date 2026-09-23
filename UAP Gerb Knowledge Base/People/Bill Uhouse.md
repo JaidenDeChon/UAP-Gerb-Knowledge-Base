@@ -30,4 +30,4 @@ Uhouse's independent claim about the Kingman craft — made without prior contac
 
 ## Sources
 
-- [[Video - The 1953 Kingman, Arizona UFO Crash]]
+- [[Videos/The 1953 Kingman, Arizona UFO Crash/summary|The 1953 Kingman, Arizona UFO Crash]]

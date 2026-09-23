@@ -15,4 +15,4 @@ It remains unclear whether the "S. McCaron" also listed in the document is a sep
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - FLYBY]]
+- [[Videos/Incredible UFO Footage - FLYBY/summary|Incredible UFO Footage - FLYBY]]

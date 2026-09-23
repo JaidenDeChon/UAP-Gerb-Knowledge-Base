@@ -20,4 +20,4 @@ The document lists the twelve MJ-12 members, including General Walter B. Smith a
 
 ## Sources
 
-- [[Video - The Majestic-12 Documents With Ryan S. Wood]]
+- [[Videos/The Majestic-12 Documents With Ryan S. Wood/summary|The Majestic-12 Documents With Ryan S. Wood]]

@@ -21,5 +21,5 @@ The craft remained in Italian possession throughout the fascist regime, allegedl
 
 ## Sources
 
-- [[Video - The 1933 Magenta, Italy UFO Crash]]
-- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
+- [[Videos/The 1933 Magenta, Italy UFO Crash/summary|The 1933 Magenta, Italy UFO Crash]]
+- [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

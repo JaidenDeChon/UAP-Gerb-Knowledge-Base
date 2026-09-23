@@ -22,4 +22,4 @@ Manises Airport's role in the first commercial flight grounding due to UFOs, com
 
 ## Sources
 
-- [[Video - The First Commercial Flight Grounded Due to UFOs]]
+- [[Videos/The First Commercial Flight Grounded Due to UFOs/summary|The First Commercial Flight Grounded Due to UFOs]]

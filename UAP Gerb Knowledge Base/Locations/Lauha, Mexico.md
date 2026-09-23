@@ -26,4 +26,4 @@ The Lauha footage occupies an important position in this comparative dataset as 
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - METAPOD]]
+- [[Videos/Incredible UFO Footage - METAPOD/summary|Incredible UFO Footage - METAPOD]]

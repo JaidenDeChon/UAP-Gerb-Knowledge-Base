@@ -35,4 +35,4 @@ Lovekin said an older officer with [[CIA]] and [[Defense Intelligence Agency]] t
 
 ## Sources
 
-- [[Video - UFO Whistleblowers Vol.1]]
+- [[Videos/UFO Whistleblowers Vol.1/summary|UFO Whistleblowers Vol.1]]

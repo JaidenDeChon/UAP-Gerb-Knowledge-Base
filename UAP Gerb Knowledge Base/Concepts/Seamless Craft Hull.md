@@ -23,4 +23,4 @@ Descriptions of anomalous hull materials appear across multiple crash retrieval 
 
 ## Sources
 
-- [[Video - UFO Whistleblowers Vol.2]]
+- [[Videos/UFO Whistleblowers Vol.2/summary|UFO Whistleblowers Vol.2]]

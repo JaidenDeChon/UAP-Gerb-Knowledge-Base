@@ -14,5 +14,5 @@ Senior [[EG&G]] manager [[Alfred O'Donnell]] told journalist [[George Knapp]] in
 
 ## Sources
 
-- [[Video - The 1953 Kingman, Arizona UFO Crash]]
-- [[Video - Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
+- [[Videos/The 1953 Kingman, Arizona UFO Crash/summary|The 1953 Kingman, Arizona UFO Crash]]
+- [[Videos/Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/summary|Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]

@@ -46,4 +46,4 @@ Proposed prosaic explanations (balloons, inflatables, CGI, string-suspended obje
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - METAPOD]]
+- [[Videos/Incredible UFO Footage - METAPOD/summary|Incredible UFO Footage - METAPOD]]

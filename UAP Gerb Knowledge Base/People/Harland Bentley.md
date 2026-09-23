@@ -25,4 +25,4 @@ This claim intersects with a separate thread investigated by UAP Gerb: a Disclos
 
 ## Sources
 
-- [[Video - UFO Whistleblowers Vol.2]]
+- [[Videos/UFO Whistleblowers Vol.2/summary|UFO Whistleblowers Vol.2]]

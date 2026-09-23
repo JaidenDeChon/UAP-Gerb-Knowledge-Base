@@ -67,4 +67,4 @@ This pattern demonstrates Moon Dust evolved from passive observation (Karachi 19
 
 ## Sources
 
-- [[Video - MOON DUST - The Pentagon's Secret UFO Programs]]
+- [[Videos/MOON DUST - The Pentagon's Secret UFO Programs/summary|MOON DUST - The Pentagon's Secret UFO Programs]]

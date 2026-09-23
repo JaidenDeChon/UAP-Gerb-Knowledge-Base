@@ -39,7 +39,7 @@ Oberth's dual role as both a founding father of rocketry and a public advocate f
 
 ## Sources
 
-- [[Video - The Physics of UFOs– Dr. Kevin Knuth]]
-- [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
+- [[Videos/The Physics of UFOs– Dr. Kevin Knuth/summary|The Physics of UFOs– Dr. Kevin Knuth]]
+- [[Videos/Alien Reproduction Vehicle - TR-3B and the Flying Triangles/summary|Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
 - Herman Oberth, 1954 lecture on flying saucers
 - Herman Oberth, 1954 *American Weekly* article

@@ -27,4 +27,4 @@ The Salzburg-to-Las Palmas route established flight JK 297's position and headin
 
 ## Sources
 
-- [[Video - The First Commercial Flight Grounded Due to UFOs]]
+- [[Videos/The First Commercial Flight Grounded Due to UFOs/summary|The First Commercial Flight Grounded Due to UFOs]]

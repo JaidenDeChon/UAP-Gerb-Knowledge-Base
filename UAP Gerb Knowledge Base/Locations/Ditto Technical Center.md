@@ -13,4 +13,4 @@ According to witness [[MS (Dugway Witness)|MS]], after he walked in on a hoverin
 
 ## Sources
 
-- [[Video - Dugway Proving Ground - UFO Legacy Programs]]
+- [[Videos/Dugway Proving Ground - UFO Legacy Programs/summary|Dugway Proving Ground - UFO Legacy Programs]]

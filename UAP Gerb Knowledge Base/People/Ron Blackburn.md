@@ -18,4 +18,4 @@ Blackburn was a co-founder of the ATIP group (Advanced Theoretical Physics group
 
 ## Sources
 
-- [[Video - UFOs in the Private Sector - Lockheed Martin]]
+- [[Videos/UFOs in the Private Sector - Lockheed Martin/summary|UFOs in the Private Sector - Lockheed Martin]]

@@ -23,4 +23,4 @@ Though the program was officially terminated in 1949, a full Grudge report was p
 
 ## Sources
 
-- [[Video - The Origin of the UFO Stigma]]
+- [[Videos/The Origin of the UFO Stigma/summary|The Origin of the UFO Stigma]]

@@ -23,4 +23,4 @@ The Ramseys argue that the 1953 fraud trial of Newton and [[Leo GeBauer]] was pu
 
 ## Sources
 
-- [[Video - The 1948 Aztec, New Mexico UFO Crash Retrieval]]
+- [[Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/summary|The 1948 Aztec, New Mexico UFO Crash Retrieval]]

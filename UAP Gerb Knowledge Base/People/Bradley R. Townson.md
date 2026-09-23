@@ -28,4 +28,4 @@ Townson's 2008 paper represents official US Air Force acknowledgment — publish
 
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]

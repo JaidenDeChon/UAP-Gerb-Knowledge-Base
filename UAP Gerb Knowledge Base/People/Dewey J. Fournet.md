@@ -13,4 +13,4 @@ Fournet was invited to speak before the [[Robertson Panel]] during its fourth an
 
 ## Sources
 
-- [[Video - The Origin of the UFO Stigma]]
+- [[Videos/The Origin of the UFO Stigma/summary|The Origin of the UFO Stigma]]

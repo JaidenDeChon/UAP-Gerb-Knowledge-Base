@@ -17,4 +17,4 @@ In the 2000s, aerospace historian [[Michael Schratt]] was granted access to Stri
 
 ## Sources
 
-- [[Video - UFO Whistleblowers Vol.2]]
+- [[Videos/UFO Whistleblowers Vol.2/summary|UFO Whistleblowers Vol.2]]

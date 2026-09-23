@@ -265,7 +265,7 @@ Use as many sections as the available information warrants.]
 
 ## Sources
 
-- [[Video Title]]
+- [[Videos/Video Title/summary|Video Title]]
 ```
 
 **Wikilink** other entities on first mention within each major section. Before adding a link, ask: would a reader naturally follow this to understand the current topic better? A page with 3 relevant links beats one with 10 marginal ones.
