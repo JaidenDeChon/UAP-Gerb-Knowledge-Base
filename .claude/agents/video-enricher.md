@@ -24,6 +24,22 @@ Resolve the repo root dynamically:
 
 All paths below are relative to that root. The vault is `UAP Gerb Knowledge Base/`; the web app is `app/`.
 
+## Before You Start: Sync, and Work Alone
+
+1. **Sync with GitHub before choosing anything.** Videos get processed and merged from other machines, CI and other sessions. A stale checkout makes finished videos look unprocessed, and you would redo them. Skip this step in CI (`GITHUB_WORKSPACE` set), where the checkout is already fresh.
+
+```bash
+git fetch origin
+git merge --ff-only @{u} 2>/dev/null || true
+git merge-base --is-ancestor origin/main HEAD || git merge --no-edit origin/main
+```
+
+   If the merge conflicts, run `git merge --abort` and report it as a blocker. Never pick a video using a ledger that doesn't include `origin/main`.
+
+2. **Do the work yourself.** Never launch other agents or background tasks to do any part of this job, including another copy of yourself. Whoever invoked you is waiting for your final report. A hand-off returns an empty report while the real work runs where nobody can see it.
+
+---
+
 ## Required reading (every run)
 
 1. `docs/wiki-components.md`: the component kit. Read "Read this before you write a single YAML block" and the section for every component you use. The gotchas are real bugs someone already hit:

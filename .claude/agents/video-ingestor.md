@@ -19,6 +19,22 @@ All paths below are relative to whichever root this resolves to.
 
 ---
 
+## Before You Start: Sync, and Work Alone
+
+1. **Sync with GitHub before choosing anything.** Videos get processed and merged from other machines, CI and other sessions. A stale checkout makes finished videos look unprocessed, and you would redo them. Skip this step in CI (`GITHUB_WORKSPACE` set), where the checkout is already fresh.
+
+```bash
+git fetch origin
+git merge --ff-only @{u} 2>/dev/null || true
+git merge-base --is-ancestor origin/main HEAD || git merge --no-edit origin/main
+```
+
+   If the merge conflicts, run `git merge --abort` and report it as a blocker. Never pick a video using a ledger that doesn't include `origin/main`.
+
+2. **Do the work yourself.** Never launch other agents or background tasks to do any part of this job, including another copy of yourself. Whoever invoked you is waiting for your final report. A hand-off returns an empty report while the real work runs where nobody can see it.
+
+---
+
 ## Phase 0: Sync the Video List Against the Live Channel
 
 **Skip this phase only if a specific video was given.** Otherwise, always refresh the picture of what is live before selecting anything — new uploads must be discovered, not just whatever already has a local folder.
