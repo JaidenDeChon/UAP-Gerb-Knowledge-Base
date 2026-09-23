@@ -368,5 +368,19 @@
       "wiki-roster"
     ],
     "cues": "verified"
+  },
+  "QJ215I85d5M": {
+    "title": "Off-World Technologies Division – UAP Technology Reverse Engineering",
+    "published": "2024-07-18",
+    "enriched_at": "2026-09-23T13:58:42Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-org-chart",
+      "wiki-roster"
+    ],
+    "cues": "verified"
   }
 }

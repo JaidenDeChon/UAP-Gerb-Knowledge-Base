@@ -164,7 +164,7 @@ Both RA and his fellow soldier experienced severe ontological shock:
 - Was the viewing room setup routine for experiments, or specifically arranged for RA's visit?
 - How many personnel have clearance to access the division?
 - When was the division established?
-- Are there similar divisions at other facilities ([[Naval Air Station Pax River]], [[Sandia National Laboratories]], [[Area 51]])?
+- Are there similar divisions at other facilities ([[Naval Air Station Patuxent River|Naval Air Station Pax River]], [[Sandia National Laboratories]], [[Area 51]])?
 - What is the relationship between the division and the alleged crash retrieval operations conducted by JSOC?
 - Has any technology been successfully reverse engineered or operated?
 - What happened to the other Green Beret witness?

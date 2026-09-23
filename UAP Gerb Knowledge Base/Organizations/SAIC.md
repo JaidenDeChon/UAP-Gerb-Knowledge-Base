@@ -149,7 +149,7 @@ SAIC maintains massive contracts with [[Sandia National Laboratories]], which ha
 
 ### Naval Air Station Pax River
 
-SAIC has extensive contracts with [[Naval Air Station Pax River]] in Virginia, Crane's sister facility, where aerospace engineer [[Salvador Pais]] filed patents for a triangular/diamond-shaped anti-gravity craft exhibiting quantum vacuum manipulation — supported by Naval Air Enterprise CTO [[James Sheehy]] and then approved despite Navy colleagues having no knowledge of Pais or the programs.
+SAIC has extensive contracts with [[Naval Air Station Patuxent River|Naval Air Station Pax River]] in Virginia, Crane's sister facility, where aerospace engineer [[Salvatore Pais]] filed patents for a triangular/diamond-shaped anti-gravity craft exhibiting quantum vacuum manipulation — supported by Naval Air Enterprise CTO [[James Sheehy]] and then approved despite Navy colleagues having no knowledge of Pais or the programs.
 
 ## Leadership and Revolving Door
 
@@ -192,7 +192,7 @@ Based on [[RA]]'s testimony and investigative analysis:
 - [[Electrogravitics]]
 - [[JSOC]]
 - [[Sandia National Laboratories]]
-- [[Naval Air Station Pax River]]
-- [[Salvador Pais]]
+- [[Naval Air Station Patuxent River|Naval Air Station Pax River]]
+- [[Salvatore Pais]]
 - [[Corporate Portfolio Program]]
 - [[Black Budget Funding]]
