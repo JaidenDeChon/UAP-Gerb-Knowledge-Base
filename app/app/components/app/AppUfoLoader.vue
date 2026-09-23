@@ -113,8 +113,11 @@ const PARTS: Part[] = [
       <circle cx="160" cy="37" r="1.2" class="ufo-glow"/>`,
   },
   { // corona and the amplifiers' beams
-    box: [40, 60, 280, 136],
-    svg: `<ellipse cx="160" cy="88" rx="150" ry="40" fill="url(#ufo-corona-fill)" stroke="none" class="ufo-pulse"/>
+    box: [20, 40, 300, 136],
+    // The corona is wider than the drawing on purpose: it runs past the
+    // viewBox (the SVG doesn't clip) so its glow clears the loading mark's
+    // dark backdrop on every side.
+    svg: `<ellipse cx="160" cy="80" rx="240" ry="124" fill="url(#ufo-corona-fill)" stroke="none" class="ufo-pulse"/>
       <path d="M96 112 L64 140 L94 140 L110 113 Z" fill="url(#ufo-beam)" stroke="none" class="ufo-pulse"/>
       <path d="M224 112 L256 140 L226 140 L210 113 Z" fill="url(#ufo-beam)" stroke="none" class="ufo-pulse"/>
       <path d="M154 120 L148 140 L172 140 L166 120 Z" fill="url(#ufo-beam)" stroke="none" class="ufo-pulse"/>`,
@@ -222,7 +225,7 @@ const viewBox = `0 0 ${VIEW_W} ${VIEW_H}`
 
 <template>
   <div class="ufo-loader" aria-hidden="true">
-    <!-- Static instrument frame, plus the gradients and bloom every layer uses. -->
+    <!-- A faint centreline, plus the gradients and bloom every layer uses. -->
     <svg class="ufo-svg" :viewBox="viewBox" fill="none">
       <defs>
         <radialGradient id="ufo-corona-fill" cx="50%" cy="50%" r="50%">
@@ -254,8 +257,6 @@ const viewBox = `0 0 ${VIEW_W} ${VIEW_H}`
         </filter>
       </defs>
       <g class="ufo-frame">
-        <ellipse cx="160" cy="80" rx="152" ry="60" />
-        <path d="M160 16v7M160 137v-7M4 80h7M316 80h-7" />
         <path class="ufo-frame-dash" d="M18 80h284" />
       </g>
     </svg>
@@ -371,6 +372,11 @@ const viewBox = `0 0 ${VIEW_W} ${VIEW_H}`
 .ufo-loader .ufo-bloom-core * {
   stroke: hsl(var(--foreground)) !important;
   stroke-width: 0.6;
+}
+/* Fill-only shapes (the corona, the beams, glowing cores) have no outline to
+   burn: tracing them would ring the blue light in green. */
+.ufo-loader .ufo-bloom [stroke='none'] {
+  stroke: none !important;
 }
 
 .ufo-loader .ufo-embers {

@@ -19,8 +19,23 @@
 <style scoped>
 .ufo-loading-mark {
   padding: 18px 12px 10px;
-  background: radial-gradient(closest-side, hsl(var(--background)) 62%, hsl(var(--background) / 0));
   animation: ufo-mark-in 0.5s var(--ease-standard) 0.25s both;
+}
+/* The dark backdrop that lifts the craft off the skeleton: a halo reaching
+   well past the mark's own box, so the skeleton bars fade out around it.
+   It's an elliptical core with a huge soft box-shadow rather than a larger
+   box: a shadow only paints, so it never widens the page's scroll area (a
+   box 96px wider than the mark scrolled sideways on phones). The mark's
+   z-index makes it a stacking context, so this sits behind the craft but
+   still above the page. */
+.ufo-loading-mark::before {
+  content: '';
+  position: absolute;
+  inset: 8% 6%;
+  z-index: -1;
+  border-radius: 50%;
+  background: hsl(var(--background));
+  box-shadow: 0 0 72px 64px hsl(var(--background));
 }
 
 @keyframes ufo-mark-in {
