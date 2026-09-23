@@ -2,8 +2,8 @@
 title: "Transcript - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE"
 video_id: ShoUyC1aip0
 url: https://www.youtube.com/watch?v=ShoUyC1aip0
-date: NA
-duration_seconds: 0
+date: 2025-08-17
+duration_seconds: 7309
 channel: UAP Gerb
 tags:
   - transcript

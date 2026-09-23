@@ -134,5 +134,21 @@
       "wiki-roster"
     ],
     "cues": "verified"
+  },
+  "ShoUyC1aip0": {
+    "title": "1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE",
+    "published": "2025-08-17",
+    "enriched_at": "2026-09-23T09:48:53Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-watch",
+      "wiki-callout",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-org-chart",
+      "wiki-roster"
+    ],
+    "cues": "verified"
   }
 }

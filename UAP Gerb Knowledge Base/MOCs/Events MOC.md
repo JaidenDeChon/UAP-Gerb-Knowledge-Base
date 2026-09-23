@@ -29,7 +29,6 @@ tags:
 - [[Battle of Los Angeles]]
 - [[Belgian UFO Wave]]
 - [[Betty and Barney Hill Abduction Incident]]
-- [[Black Triangle UAP Encounter by Marine Technicians]]
 - [[Bob Fish Email to John Podesta]]
 - [[Boscombe Down Incident]]
 - [[Caribbean Island Cruise Missile Recovery USO Encounter]]
