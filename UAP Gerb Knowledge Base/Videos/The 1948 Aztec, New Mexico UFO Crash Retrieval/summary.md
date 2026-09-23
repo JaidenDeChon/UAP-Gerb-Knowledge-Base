@@ -562,6 +562,47 @@ root:
 
 With no helicopter able to lift a 99.9-foot disc, the recovery took up to two weeks. The scientists found that the outer ring rotated around a stabilised central cabin and that the craft was built in segments that fitted into grooves and were pinned together around the base. It came apart as the crew cabin and three equal sections. In Steinman's telling, cutting torches, diamond drills and diamond saws failed to mark the metal until a scientist found an interlocking key inside; pulling it opened a seam from top to bottom, and more keys at equal intervals gave them the method. Concrete pads, which the host says are still there, were poured for three M25 Dragon Wagon tank transporters. The Ramseys found 1948 [[Bureau of Reclamation]] records of heavy earth-moving equipment, cranes and lowboys in the Aztec area. The convoy avoided roads on its way to Los Alamos, where the craft stayed for over a year; the bodies likely went to [[Wright-Patterson Air Force Base]].
 
+::wiki-chain{video="QJxbyu-9Tj0" video-title="The 1948 Aztec, New Mexico UFO Crash Retrieval"}
+---
+kind: custody
+caption: "Where the disc and its crew went. The main account is the one the video builds from Steinman and the Ramseys; Robert Spencer Carr's 1974 version, from his five sources, sends everything by air instead. Both are alleged."
+steps:
+  - name: "Aztec UFO Crash and Recovery"
+    date: "1948-03-25"
+    note: "A 99.9 ft disc, almost undamaged, on a mesa north-east of Aztec."
+    cue: 608
+  - via: "Two accounts part here"
+    fork:
+      - label: "The main account"
+        steps:
+          - via: "Dismantled on the mesa, over up to two weeks"
+            text: "Crew cabin and three equal sections"
+            note: "Segments pinned into grooves around the base."
+            cue: 1302
+          - via: "Split for transport"
+            fork:
+              - label: "The disc"
+                steps:
+                  - via: "Three M25 Dragon Wagons, avoiding roads"
+                    name: "Los Alamos National Laboratory"
+                    note: "Held for over a year before being moved again."
+                    cue: 1543
+              - label: "The bodies"
+                steps:
+                  - via: "Transported away, likely to"
+                    name: "Wright-Patterson Air Force Base"
+                    cue: 1604
+      - label: "Carr, 1974"
+        steps:
+          - via: "Craft and bodies flown to"
+            name: "Edwards Air Force Base"
+            cue: 7716
+          - via: "Ultimately taken to"
+            name: "Wright-Patterson Air Force Base"
+            cue: 7719
+---
+::
+
 Two later accounts echo this. Admiral [[Bobby Ray Inman]] reportedly told NASA mission specialist [[Bob Echler]] in 1989 that the US held craft in operational condition, and pointed him to former Director of Naval Intelligence [[Sumar Shapiro|Sumner Shapiro]], who described craft of interlocking parts disassembled in an exact sequence and shipped between laboratories. And [[Edgar Fouche]]'s [[TR-3B]] has a rotatable crew compartment inside a magnetic field disruptor ring, which he said Sandia and Livermore reverse-engineered from non-human propulsion.
 
 ### Who held the wreckage
@@ -632,7 +673,43 @@ The host also records a claim he could not verify: former CIA officer and UFO re
 
 ### J. P. Cahn's campaign
 
-The host treats J. P. Cahn as the "hero of the hoax" whose honesty deserves the same scrutiny as Newton's. In 1949 Cahn tried to buy the saucer story from Scully for the *San Francisco Chronicle*, failed, and told his editors the deal had been made anyway. Introduced to Newton at Scully's home, he pursued him to San Francisco, offered $25,000 and 50% royalties if Newton would produce the full roster of Dr. G, and took one of Newton's "gears," which tested as ordinary aluminium. According to Scully's 15 June 1952 letter to Newton's attorney, Cahn admitted stealing the material and replacing it with a slug. By late 1951 he was telling Scully that Newton and Dr. G were about to be arrested, and that Scully would be named in the hoax unless the exposé ran under Scully's name. On 25 April 1951 he wrote to J. Edgar Hoover about Newton, and Hoover replied by 3 May. Cahn's September 1952 article, "The Flying Saucers and the Mysterious Little Men," named GeBauer as the sole Dr. G, a claim the host says had no basis, and linked both men to oil fraud. The host's reading is that the items Newton carried were replicas, a sensible precaution given the AFOSI interrogation and the FBI's hunt for photographs, while Scully and Newton had probably seen the real collection.
+The host treats J. P. Cahn as the "hero of the hoax" whose honesty deserves the same scrutiny as Newton's. In 1949 Cahn tried to buy the saucer story from Scully for the *San Francisco Chronicle*, failed, and told his editors the deal had been made anyway. Introduced to Newton at Scully's home, he pursued him to San Francisco and offered $25,000 and 50% royalties if Newton would produce the full roster of Dr. G. By late 1951 he was telling Scully that Newton and Dr. G were about to be arrested, and that Scully would be named in the hoax unless the exposé ran under Scully's name. On 25 April 1951 he wrote to J. Edgar Hoover about Newton, and Hoover replied by 3 May. Cahn's September 1952 article, "The Flying Saucers and the Mysterious Little Men," linked Newton and [[Leo GeBauer|GeBauer]] to oil fraud and made two charges that the video answers:
+
+::wiki-claim{video="QJxbyu-9Tj0" video-title="The 1948 Aztec, New Mexico UFO Crash Retrieval"}
+---
+label: "Cahn's exposé"
+caption: "The two pillars of Cahn's 1952 debunk, and who answered them."
+claims:
+  - title: "The \"gear\" was common aluminium"
+    by: "J. P. Cahn"
+    text: "He took one of the pieces Newton showed him as coming from the crash, had it tested, and found ordinary aluminium."
+    cue: 2454
+    responses:
+      - by: "Frank Scully"
+        stance: challenges
+        date: "1952-06-15"
+        text: "In a letter to Newton's attorney: Cahn had admitted to him that he stole Newton's material and replaced it with a slug."
+        cue: 2710
+      - by: "The host"
+        stance: host
+        text: "Newton's pieces were replicas, a sensible precaution given the AFOSI interrogation and the hunt for Aztec photographs. Newton and Scully had probably seen the real collection."
+        cue: 2469
+  - title: "GeBauer was the one and only Dr. G"
+    by: "J. P. Cahn"
+    date: "1952-09"
+    text: "Newton had told him that GeBauer was the sole Dr. G."
+    cue: 2557
+    responses:
+      - by: "Leo GeBauer"
+        stance: challenges
+        text: "He said again and again, in writing and sworn in court, that he was not Dr. G."
+        cue: 2568
+      - by: "The host"
+        stance: challenges
+        text: "The claim had no basis, though GeBauer may still have been one of several Dr. Gs."
+        cue: 2560
+---
+::
 
 ### The doodlebug trial
 

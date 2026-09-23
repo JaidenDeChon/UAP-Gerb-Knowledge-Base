@@ -157,9 +157,13 @@
       "wiki-panel",
       "wiki-callout",
       "wiki-watch",
-      "wiki-roster"
+      "wiki-roster",
+      "wiki-chain",
+      "wiki-claim",
+      "wiki-map"
     ],
-    "cues": "verified"
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
   },
   "ShoUyC1aip0": {
     "title": "1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE",
@@ -177,7 +181,8 @@
       "wiki-compare",
       "wiki-map"
     ],
-    "cues": "verified"
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
   },
   "QJxbyu-9Tj0": {
     "title": "The 1948 Aztec, New Mexico UFO Crash Retrieval",
@@ -192,9 +197,11 @@
       "wiki-cue",
       "wiki-watch",
       "wiki-compare",
-      "wiki-claim"
+      "wiki-claim",
+      "wiki-chain"
     ],
-    "cues": "verified"
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
   },
   "9p99lTsC7wQ": {
     "title": "UFO Legacy Programs - Science Applications International Corporation (SAIC)",
@@ -209,10 +216,11 @@
       "wiki-grid",
       "wiki-panel",
       "wiki-callout",
-      "wiki-cue",
-      "wiki-watch"
+      "wiki-watch",
+      "wiki-claim"
     ],
-    "cues": "verified"
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
   },
   "7Jc2G5aEH0A": {
     "title": "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt",

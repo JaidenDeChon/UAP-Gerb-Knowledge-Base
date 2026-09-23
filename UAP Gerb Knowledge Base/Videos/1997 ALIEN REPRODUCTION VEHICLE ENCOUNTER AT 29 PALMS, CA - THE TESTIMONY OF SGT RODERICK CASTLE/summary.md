@@ -401,34 +401,52 @@ By the time the team got back to its Quonset hut at 7 a.m., their gunnery sergea
 
 The next day, Castle and only his team were called to medical and given an anthrax "booster", with a rifleman standing nearby, although they had received the vaccine about a year earlier. The host finds this anomalous because the Department of Defense's mandate to vaccinate all personnel did not take effect until December 1997. Between the 1991 Gulf War and then, only some troops received the vaccine. When he asked the two other Marines he had interviewed, both said they had been given anthrax boosters straight after their own encounters. The host calls it "a data point we simply cannot ignore".
 
-::wiki-grid{cols=3}
-::wiki-panel{title="Rodrik Castle · March 1997" tone="accent"}
-**Where:** near Emerson Dry Lake, Twentynine Palms, California, during Hunter Warrior.
+The host sets Castle's night beside the two other Marine encounters he has covered, those of [[Jonathan Weygandt]] and [[Michael Herrera]]:
 
-**What:** a hovering black triangle with about 30 unmarked operators and blacked-out trucks.
-
-**Treatment:** held at gunpoint for a few minutes, then released. The team fled with the craft, and superiors later said it was "flares".
-
-**Afterward:** an anthrax booster the next day.
-::
-::wiki-panel{title="Jonathan Weygandt · spring 1997"}
-**Where:** the Peruvian jungle, days or weeks after Castle's encounter.
-
-**What:** a crashed non-human craft, and an all-black team that appeared from nowhere.
-
-**Treatment:** detained, interrogated and threatened with death. Stripped of gear, debriefed by senior Air Force personnel and made to sign non-disclosure agreements.
-
-**Afterward:** an anthrax booster.
-::
-::wiki-panel{title="Michael Herrera · 2009"}
-**Where:** Sumatra, Indonesia.
-
-**What:** a clandestine team with tactical vehicles loading containers, possibly holding people, under an enormous octagonal reproduction vehicle about 300 feet across.
-
-**Treatment:** held at gunpoint, debriefed and made to sign non-disclosure agreements.
-
-**Afterward:** an anthrax booster.
-::
+::wiki-compare{video="ShoUyC1aip0" video-title="1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE"}
+---
+caption: "Three Marines, three all-black teams. \"Same\" and \"Differs\" mark the parallels and the one difference the host draws himself."
+attributeLabel: "Point"
+subjects:
+  - name: "Rodrik Castle UAP Encounter"
+    note: "Castle, March 1997"
+  - name: "Peru UFO Crash Incident"
+    note: "Weygandt, spring 1997"
+  - name: "2009 Indonesia UFO Encounter (Herrera)"
+    note: "Herrera, 2009"
+rows:
+  - attribute: "Where"
+    note: "Only Castle's site is known to within a couple of miles"
+    cue: 7087
+    cells:
+      - "Near Emerson Dry Lake, Twentynine Palms, during Hunter Warrior"
+      - "The Peruvian jungle, days or weeks after Castle"
+      - "Sumatra, Indonesia"
+  - attribute: "What they came upon"
+    cue: 3008
+    cells:
+      - "A hovering black triangle over about 30 unmarked operators and blacked-out trucks"
+      - "A crashed non-human craft, and an all-black team that appeared from nowhere"
+      - "A team with tactical vehicles loading containers under a 300 ft octagonal ARV"
+  - attribute: "Held at gunpoint"
+    cue: 3053
+    cells:
+      - { text: "Yes, for a few minutes", mark: same }
+      - { text: "Yes, detained, interrogated and threatened with death", mark: same }
+      - { text: "Yes", mark: same }
+  - attribute: "How it ended"
+    cue: 3059
+    cells:
+      - { text: "The team fled with the craft; superiors later called it \"flares\"", mark: differs }
+      - { text: "Stripped of gear, debriefed by senior Air Force personnel, made to sign NDAs", mark: same, cue: 3086 }
+      - { text: "Stripped of gear, debriefed, made to sign NDAs", mark: same, cue: 3086 }
+  - attribute: "Afterward"
+    cue: 2404
+    cells:
+      - { text: "Anthrax booster the next day", mark: same, cue: 2292 }
+      - { text: "Anthrax booster", mark: same }
+      - { text: "Anthrax booster", mark: same }
+---
 ::
 
 Castle's is the earliest of the three cases and the only one in which the black team simply left. The host reads the difference as evidence that "systems were put in place" after 1997 for dealing with blue personnel who stumble onto such operations. He also notes an advantage of Castle's case: Weygandt's and Herrera's sites cannot be pinned down, but Castle's is known to within a couple of miles, along with the direction in which both the craft and the team left.

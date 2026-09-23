@@ -693,22 +693,34 @@ McKenzie's testimony is "somewhat legendary" among researchers of legacy program
 
 In 1992, while McKenzie was working at a fabric store in a San Diego mall, a part-time co-worker named Sophia asked her to join SAIC at La Jolla, where Sophia mainly worked. McKenzie had never heard of the company. She was hired on the spot, with no paperwork and no interview, and did not know which department she was in. Sophia did not appear for two or three weeks. Wandering the building to look busy, McKenzie worked out that she was in SAIC's military contract division, and noticed a highly classified biological division with strict access control. When letters arrived from the military and contractors asking for project updates, her superiors told her to reply "we're working on it". Pulling the files, she found that every contract, some years old and worth millions, held only two or three form letters saying "it's being worked on", some signed by senior staff and some unsigned: no activity at all. Sophia, reportedly placed under SAIC's head scientist, "grew furious" when told. McKenzie was ordered to hand over the files and disks and forget the matter, and was then harassed by her head supervisor, a man named Stuart Stanley. She left after choking on food while her supervisor stood by without helping or calling an ambulance. Later, searching the early internet, she found Sophia's photo, with a different first name and the same surname, on a CIA web page listing deceased agents who had supposedly died in 1987 or 1988.
 
-::wiki-grid{cols=3}
-::wiki-panel{title="McKenzie's own account"}
-"I thought they were getting a lot of money for doing nothing and I didn't know where that money was going." There should have been files and a timeline on every project; there were none. Hiding funds this way, she says, was "like Joe's Market on a huge scale".
-::
-::wiki-panel{title="Steven Greer's retelling"}
-Greer describes "the big defense contractor that does all the UFO stuff" in La Jolla, with two 8-foot bronze Egyptian statues out front, and a woman on tape who testified that money went into "fake" programs so that audits showed "more helicopters" while the funds went to UFO work.
-::
-::wiki-panel{title="A 1992 deposition" tone="accent"}
-McKenzie was not alone. According to *Vanity Fair*'s 2007 article "Washington's Shadow", a former SAIC executive said in a sworn deposition that same year that "mischarging" had "become institutionalized within the company".
-::
+::wiki-claim{video="9p99lTsC7wQ" video-title="UFO Legacy Programs - Science Applications International Corporation (SAIC)"}
+---
+caption: "McKenzie's allegation about SAIC's contract files, and the accounts the video sets beside it."
+claim:
+  title: "Contracts with nothing in them"
+  by: "Denise McKenzie"
+  date: "1992"
+  where: "Videotaped Disclosure Project interview, March 2001"
+  text: "Every contract file she pulled at SAIC La Jolla held only form letters saying the work was underway. \"I thought they were getting a lot of money for doing nothing and I didn't know where that money was going.\""
+  cue: 3360
+responses:
+  - by: "Steven Greer"
+    stance: supports
+    text: "Retelling her taped testimony: at the La Jolla contractor with two bronze Egyptian statues out front, money went into fake programs, so audits showed \"more helicopters\" while it really went into UFO-related work."
+    cue: 3301
+  - by: "A former SAIC executive"
+    stance: supports
+    date: "1992"
+    text: "In a sworn deposition, as quoted by Vanity Fair in 2007: \"mischarging\" had \"become institutionalized within the company\"."
+    cue: 3838
+  - by: "The host"
+    stance: host
+    text: "SAIC ran enormous contracts with no activity on them, implying the money was funneled from legitimate projects into black budget operations."
+    cue: 3859
+---
 ::
 
-::wiki-cue{t=3360 video="9p99lTsC7wQ" video-title="UFO Legacy Programs - Science Applications International Corporation (SAIC)" entry-title="Denise McKenzie's account"}
-::
-
-From this the host concludes that SAIC ran large contracts with no activity on them, implying that money was moved from legitimate projects into black budget operations. He also looks at SAIC's biological and test work. A 2005 contract had its McLean and San Diego divisions do chemical, biological, radiological, nuclear and explosives work for the Air Force Operational Test and Evaluation Center at [[Kirtland Air Force Base, New Mexico|Kirtland Air Force Base]], home to Sandia and, he says, a deep underground base. In 2013 SAIC won a $228 million IT consolidation contract with Sandia.
+The host also looks at SAIC's biological and test work. A 2005 contract had its McLean and San Diego divisions do chemical, biological, radiological, nuclear and explosives work for the Air Force Operational Test and Evaluation Center at [[Kirtland Air Force Base, New Mexico|Kirtland Air Force Base]], home to Sandia and, he says, a deep underground base. In 2013 SAIC won a $228 million IT consolidation contract with Sandia.
 
 > [!note] Advanced Systems and Concepts
 > The Air Force test center historically supported the Deputy Under Secretary of Defense for Advanced Systems and Concepts (DUSD AS&C), which the General Accounting Office said in 2002 was responsible for DoD advanced concept technology demonstrations. SAIC won sole-source contracts for the Joint Technology Assessment Activity, much of which supports that office, many of them for work at NSWC Crane. The host plans to watch the office closely, and notes that its appointees, such as Assistant Secretary of the Air Force for Acquisition Sue C. Payton, formerly of Lockheed Martin, have moved to and from suspected legacy contractors.
