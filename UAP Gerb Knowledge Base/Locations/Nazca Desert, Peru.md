@@ -23,7 +23,7 @@ Archaeologists reject this interpretation, noting that the designs are observabl
 
 ## Assessment in UAP Research
 
-The host of UAP Gerb favors the prosaic archaeological explanation and treats von Däniken's landing strip theory as speculative and unsupported. The Nazca Lines are discussed in Level 1 of the UFO Iceberg primarily for their historical association with the [[Ancient Astronaut Theory]], not as evidence for extraterrestrial visitation.
+Gerb favors the prosaic archaeological explanation and treats von Däniken's landing strip theory as speculative and unsupported. The Nazca Lines are discussed in Level 1 of the UFO Iceberg primarily for their historical association with the [[Ancient Astronaut Theory]], not as evidence for extraterrestrial visitation.
 
 ## Sources
 

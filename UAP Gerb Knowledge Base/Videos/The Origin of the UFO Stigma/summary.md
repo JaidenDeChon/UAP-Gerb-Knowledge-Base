@@ -12,7 +12,7 @@ tags:
 
 ## Overview
 
-This video argues that the [[UFO Stigma]] — the cultural and institutional tendency to ridicule serious UFO inquiry — was a deliberate product of U.S. government policy, not an organic social development. The host traces a direct institutional lineage from the 1948 [[Project Sign]] through [[Project Grudge]], [[Project Blue Book]], the [[Robertson Panel]], and the [[Condon Committee]], arguing each program served as a tool to publicly discredit the phenomena while covert research continued behind closed doors. [[J. Allen Hynek]], the scientific adviser to Project Blue Book, is extensively quoted confirming that Blue Book was "not a scientific project" and operated as a public relations campaign.
+This video argues that the [[UFO Stigma]] — the cultural and institutional tendency to ridicule serious UFO inquiry — was a deliberate product of U.S. government policy, not an organic social development. Gerb traces a direct institutional lineage from the 1948 [[Project Sign]] through [[Project Grudge]], [[Project Blue Book]], the [[Robertson Panel]], and the [[Condon Committee]], arguing each program served as a tool to publicly discredit the phenomena while covert research continued behind closed doors. [[J. Allen Hynek]], the scientific adviser to Project Blue Book, is extensively quoted confirming that Blue Book was "not a scientific project" and operated as a public relations campaign.
 
 The video opens by asserting that the reality of UAP is not up for debate: anomalous signatures exhibiting instantaneous acceleration, hypersonic velocity, anti-gravity, low observability, and transmedial travel have been documented in Earth's skies, oceans, and near orbit. The central question it poses is not whether these phenomena are real but why studying them has been systemically stigmatized. The answer it provides is institutional: the U.S. government engineered the stigma to maintain the public claim that UFOs do not exist while conducting classified research.
 
@@ -22,7 +22,7 @@ Whistleblower [[David Grusch]]'s references to "sophisticated disinformation cam
 
 [[Project Sign]] was the first official US government UFO investigation program, established in 1948 by Lieutenant General [[Nathan Twining]]. In a letter to AAF Commanding General [[George Lugan]], Twining asserted that flying discs were "real and not visionary or fictitious." Project Sign's written report concluded that some UFO reports present actual objects of undeterminable origin. Future [[Project Blue Book]] and [[Project Grudge]] director [[Edward J. Ruppelt]] stated that Sign had endorsed the interplanetary explanation for some of its unexplained sightings.
 
-All Project Sign reports were required to be distributed to the [[Army and Navy Research and Development Board]], the [[USAF Scientific Advisory Group]], and the [[Atomic Energy Commission]] — a distribution requirement the host cites as evidence that official involvement in UFO investigation extended well beyond the Air Force chain of command. Sign was shut down in 1949 by General [[Hoyt Vandenberg]], who cited a lack of proof.
+All Project Sign reports were required to be distributed to the [[Army and Navy Research and Development Board]], the [[USAF Scientific Advisory Group]], and the [[Atomic Energy Commission]] — a distribution requirement Gerb cites as evidence that official involvement in UFO investigation extended well beyond the Air Force chain of command. Sign was shut down in 1949 by General [[Hoyt Vandenberg]], who cited a lack of proof.
 
 ## Project Grudge (1949)
 

@@ -16,7 +16,7 @@ According to the video, the report led, at the behest of Chief of Naval Operatio
 
 ## UAP significance
 
-UAP Gerb treats the Spane study as the paper trail that explains why Navy units were present at all during Hunter Warrior, the exercise in which Marine Sergeant [[Rodrik Castle]] says he saw a large black triangular craft and an armed, unmarked ground team near [[Emerson Dry Lake]]. The host theorizes that the late naval adjunct let Navy (and allied Air Force) programs place an [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicle]] and a special mission unit inside the exercise's area of operations, to practise alongside unwitting "blue" forces. Spane himself is not alleged to have had any part in that.
+UAP Gerb treats the Spane study as the paper trail that explains why Navy units were present at all during Hunter Warrior, the exercise in which Marine Sergeant [[Rodrik Castle]] says he saw a large black triangular craft and an armed, unmarked ground team near [[Emerson Dry Lake]]. Gerb theorizes that the late naval adjunct let Navy (and allied Air Force) programs place an [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicle]] and a special mission unit inside the exercise's area of operations, to practise alongside unwitting "blue" forces. Spane himself is not alleged to have had any part in that.
 
 ## Sources
 

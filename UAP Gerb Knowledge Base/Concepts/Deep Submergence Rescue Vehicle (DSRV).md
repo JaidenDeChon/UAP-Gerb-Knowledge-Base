@@ -15,7 +15,7 @@ The DSRVs could be carried by truck, C-5 Galaxy aircraft or a mother submarine t
 
 [[John P. Craven]], who led the DSSP, wrote that a DSRV built for every rescue would also be available for the intelligence "mission impossible" that was sure to arise. [[Christopher Sharp]]'s 2024 reporting names DSRVs and [[Lockheed Martin]]'s dry submersible among the assets used in undersea craft retrievals. UAP Gerb concludes that the DSRVs' "practice missions" were really retrievals of underwater aircraft and vehicles.
 
-The key witness is "Mark", a retired Marine lieutenant colonel. He told Art Bell's *Coast to Coast AM* in 2002 that his Virginia-based DSRV unit handled deep-sea rescue and recovery, including "any anomaly that we wanted to look at". He said the unit raised a triangular craft from the North Atlantic in 1991. Because that dive was at nearly 1.5 miles, beyond the acknowledged vehicles' rating of just over a mile, the host suspects an unacknowledged search-vehicle variant was used.
+The key witness is "Mark", a retired Marine lieutenant colonel. He told Art Bell's *Coast to Coast AM* in 2002 that his Virginia-based DSRV unit handled deep-sea rescue and recovery, including "any anomaly that we wanted to look at". He said the unit raised a triangular craft from the North Atlantic in 1991. Because that dive was at nearly 1.5 miles, beyond the acknowledged vehicles' rating of just over a mile, Gerb suspects an unacknowledged search-vehicle variant was used.
 
 ## Sources
 

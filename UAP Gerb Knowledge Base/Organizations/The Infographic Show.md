@@ -10,7 +10,7 @@ tags:
 
 The video opens with a note that it is "based on testimony provided over a series of interviews and written correspondence, edited and cut together in an attempt to create a cohesive timeline of the events as described." It follows the witness from a 1968 crash in Vietnam through his forced induction into "the program," recoveries in South America and Ireland, and the program's theories about who makes the craft.
 
-UAP Gerb analysed the video line by line in June 2024, calling the witness possibly "the most crucial firsthand whistleblower of all time." The host said he had tried, without success, to contact the channel's team about the source.
+UAP Gerb analysed the video line by line in June 2024, calling the witness possibly "the most crucial firsthand whistleblower of all time." Gerb said he had tried, without success, to contact the channel's team about the source.
 
 ## Sources
 

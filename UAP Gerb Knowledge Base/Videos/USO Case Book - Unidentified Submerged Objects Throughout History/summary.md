@@ -30,11 +30,11 @@ stats:
 
 ## Overview
 
-This video is a global historical survey of [[Unidentified Submerged Object (USO)|unidentified submerged object]] sightings, made as a follow-up to UAP Gerb's earlier video [[USO - Unidentified Submerged Objects]]. Its central argument is that credible USO reports are not a modern American curiosity but a persistent, multi-century, worldwide phenomenon, recorded by militaries, merchant navies, scientific institutions and civilians alike. The host works through cases from [[Project Blue Book]], Soviet naval and scientific records, Australian government files and nineteenth-century maritime logs to show that objects with [[Trans-Medium Vehicle|transmedium]] behaviour (leaving and entering the water at speed, hovering just above the surface, submerging without disturbing it) have been reported consistently, whatever the era or nation.
+This video is a global historical survey of [[Unidentified Submerged Object (USO)|unidentified submerged object]] sightings, made as a follow-up to UAP Gerb's earlier video [[USO - Unidentified Submerged Objects]]. Its central argument is that credible USO reports are not a modern American curiosity but a persistent, multi-century, worldwide phenomenon, recorded by militaries, merchant navies, scientific institutions and civilians alike. Gerb works through cases from [[Project Blue Book]], Soviet naval and scientific records, Australian government files and nineteenth-century maritime logs to show that objects with [[Trans-Medium Vehicle|transmedium]] behaviour (leaving and entering the water at speed, hovering just above the surface, submerging without disturbing it) have been reported consistently, whatever the era or nation.
 
-A second thread is the thinness of the official record. Of the more than 13,000 sightings collected by [[Project Sign]], [[Project Grudge]] and Project Blue Book between 1949 and 1969, only 258 (about 2%) came from ships, only 13 of those met the program's own merit standards for UFO reporting, and only a handful describe USOs. The host attributes the gap to the 1952 [[OPNAV 3820]] directive, which restricted Navy UFO reports to three recipients, and to [[JANAP 146c|JANAP 146C]]: "we can thank" the two directives, he says, for how little Blue Book holds.
+A second thread is the thinness of the official record. Of the more than 13,000 sightings collected by [[Project Sign]], [[Project Grudge]] and Project Blue Book between 1949 and 1969, only 258 (about 2%) came from ships, only 13 of those met the program's own merit standards for UFO reporting, and only a handful describe USOs. Gerb attributes the gap to the 1952 [[OPNAV 3820]] directive, which restricted Navy UFO reports to three recipients, and to [[JANAP 146c|JANAP 146C]]: "we can thank" the two directives, he says, for how little Blue Book holds.
 
-The video moves through four bodies of evidence: Blue Book's ship cases; Soviet cases drawn mainly from [[Paul Stonehill]] and [[Philip Mantle]]'s *Russia's USO Secrets* and [[Jacques Vallee|Jacques Vallée]]'s *UFO Chronicles of the Soviet Union*; Australian government files and civilian reports; and a pre-World War I set of cases from the [[US Hydrographic Bureau]] and the [[Danish Meteorological Institute]], ending with the [[Maritime Light Wheel]], rotating wheels of light seen by crews across the Eastern Hemisphere from 1873 to 1910. The host closes by arguing that the same few signatures recur across all of these sources, above all Tic Tac or cigar-shaped objects hovering over the sea or slipping under it without disturbing the water, and that the answers to the UFO phenomenon may lie in the oceans.
+The video moves through four bodies of evidence: Blue Book's ship cases; Soviet cases drawn mainly from [[Paul Stonehill]] and [[Philip Mantle]]'s *Russia's USO Secrets* and [[Jacques Vallee|Jacques Vallée]]'s *UFO Chronicles of the Soviet Union*; Australian government files and civilian reports; and a pre-World War I set of cases from the [[US Hydrographic Bureau]] and the [[Danish Meteorological Institute]], ending with the [[Maritime Light Wheel]], rotating wheels of light seen by crews across the Eastern Hemisphere from 1873 to 1910. Gerb closes by arguing that the same few signatures recur across all of these sources, above all Tic Tac or cigar-shaped objects hovering over the sea or slipping under it without disturbing the water, and that the answers to the UFO phenomenon may lie in the oceans.
 
 ## Chronology
 
@@ -96,7 +96,7 @@ events:
       - "Persian Gulf USO Flap"
   - date: "1887-11-12"
     title: "SS Siberian: a fireball rises from the sea off Cape Race"
-    summary: "Captain R. F. Moore of the English steamer SS Siberian saw an enormous fireball rise about 50 feet out of the sea 10 nautical miles off Cape Race, Newfoundland, move toward the ship and speed off into the sky. The US Hydrographic Bureau called it one of the rarest and most difficult to explain electrical phenomena; the host notes he knows of no case of ball lightning leaving the sea."
+    summary: "Captain R. F. Moore of the English steamer SS Siberian saw an enormous fireball rise about 50 feet out of the sea 10 nautical miles off Cape Race, Newfoundland, move toward the ship and speed off into the sky. The US Hydrographic Bureau called it one of the rarest and most difficult to explain electrical phenomena; Gerb notes he knows of no case of ball lightning leaving the sea."
     category: event
     significance: major
     cue: 931
@@ -115,7 +115,7 @@ events:
       - "Persian Gulf USO Flap"
   - date: "1902"
     title: "Fort Salisbury: a lit cigar sinks beneath the ship"
-    summary: "Four men aboard the Fort Salisbury in the Gulf of Guinea saw an immense cigar-shaped object, nearly 200 metres long, sinking into the ocean as it passed under the ship, with two orange lights at one end and two blue-green lights at the other. The host allows it might have been a submarine, but notes that early German U-boats were only about 41 metres long."
+    summary: "Four men aboard the Fort Salisbury in the Gulf of Guinea saw an immense cigar-shaped object, nearly 200 metres long, sinking into the ocean as it passed under the ship, with two orange lights at one end and two blue-green lights at the other. Gerb allows it might have been a submarine, but notes that early German U-boats were only about 41 metres long."
     category: event
     significance: notable
     cue: 967
@@ -141,7 +141,7 @@ events:
       - "Danish Meteorological Institute"
   - date: "1947"
     title: "Port Augusta: five objects rise from the sea"
-    summary: "At Port Augusta, South Australia, Frederick Walter and Emma Flav saw five grey oblong objects rise from the sea and move from northwest to southeast. Two railway workers separately described five white or light-pink egg-shaped objects rising from the sea with a quivering motion, which the host compares to the MV Marala case."
+    summary: "At Port Augusta, South Australia, Frederick Walter and Emma Flav saw five grey oblong objects rise from the sea and move from northwest to southeast. Two railway workers separately described five white or light-pink egg-shaped objects rising from the sea with a quivering motion, which Gerb compares to the MV Marala case."
     category: event
     significance: notable
     cue: 808
@@ -150,7 +150,7 @@ events:
       - "Port Augusta, South Australia"
   - date: "1950-08-04"
     title: "MV Marala: a wobbling half-egg over the North Atlantic"
-    summary: "At 10 p.m. EDT the master, chief mate and third mate of the MV Marala saw an elliptical object, 'like half an egg cut lengthwise', pass within 1,000 feet of the ship no more than 100 feet above the sea, at 25 to 500 mph, rotating and wobbling, for about a minute. Blue Book listed it as unidentified. The host calls it perhaps his favourite case."
+    summary: "At 10 p.m. EDT the master, chief mate and third mate of the MV Marala saw an elliptical object, 'like half an egg cut lengthwise', pass within 1,000 feet of the ship no more than 100 feet above the sea, at 25 to 500 mph, rotating and wobbling, for about a minute. Blue Book listed it as unidentified. Gerb calls it perhaps his favourite case."
     category: event
     significance: major
     cue: 100
@@ -169,7 +169,7 @@ events:
       - "JANAP 146c"
   - date: "1959-11-07"
     title: "SS City of Alako: three flashes, then the light submerges"
-    summary: "Sailing from Yokohama to Los Angeles, just north of the Hawaiian Islands, three witnesses aboard the SS City of Alako saw a bright object streak across the water four miles north of the ship, give three flashes and submerge. The ship turned to investigate and found nothing. Blue Book called it a meteor; the host argues a meteor would not take so low a path across the water for so long."
+    summary: "Sailing from Yokohama to Los Angeles, just north of the Hawaiian Islands, three witnesses aboard the SS City of Alako saw a bright object streak across the water four miles north of the ship, give three flashes and submerge. The ship turned to investigate and found nothing. Blue Book called it a meteor; Gerb argues a meteor would not take so low a path across the water for so long."
     category: event
     significance: major
     cue: 161
@@ -263,7 +263,7 @@ events:
 
 ## Project Blue Book's Ship Cases
 
-The video opens with the numbers: of Blue Book's 13,000-plus sightings, 258 came from ships and 13 met the program's merit standards. The host recommends a report on maritime UFO and USO research in Blue Book, whose breakdown of the 258 ship cases (155 in the Pacific, 104 in the Atlantic) he reads as a possible Pacific hotspot, while stressing that sightings over water are not isolated incidents. He puts the small total down to OPNAV 3820, which sent Navy reports to only three offices:
+The video opens with the numbers: of Blue Book's 13,000-plus sightings, 258 came from ships and 13 met the program's merit standards. Gerb recommends a report on maritime UFO and USO research in Blue Book, whose breakdown of the 258 ship cases (155 in the Pacific, 104 in the Atlantic) he reads as a possible Pacific hotspot, while stressing that sightings over water are not isolated incidents. He puts the small total down to OPNAV 3820, which sent Navy reports to only three offices:
 
 ::wiki-org-chart
 ---
@@ -281,13 +281,13 @@ root:
 ---
 ::
 
-The host picks out four ship cases: the [[MV Marala North Atlantic Sighting]], the [[SS City of Alako Hawaiian Islands Sighting]], the [[Ascension Island USO Sighting]] and the [[SS Morgantown Victory Sighting]]. Blue Book left the first unidentified. In the other three, he argues, its explanation does not fit what the witnesses reported:
+Gerb picks out four ship cases: the [[MV Marala North Atlantic Sighting]], the [[SS City of Alako Hawaiian Islands Sighting]], the [[Ascension Island USO Sighting]] and the [[SS Morgantown Victory Sighting]]. Blue Book left the first unidentified. In the other three, he argues, its explanation does not fit what the witnesses reported:
 
 ::wiki-claim{video="Yn-83KbgRN8" video-title="USO Case Book: Unidentified Submerged Objects Throughout History"}
 ---
-label: "Blue Book's verdicts and the host's answers"
+label: "Blue Book's verdicts and Gerb's answers"
 term: "Verdict"
-caption: "Blue Book's conclusion on each of the four ship cases, and the host's response to it."
+caption: "Blue Book's conclusion on each of the four ship cases, and Gerb's response to it."
 claims:
   - title: "MV Marala"
     by: "Project Blue Book"
@@ -295,7 +295,7 @@ claims:
     text: "Unidentified."
     cue: 110
     responses:
-      - by: "The host"
+      - by: "Gerb"
         stance: host
         text: "A rare verdict for a ship case, and perhaps his favourite case in the video: a wobbling \"half an egg\" within 1,000 feet of the ship, no higher than 100 feet above the sea."
         cue: 113
@@ -305,7 +305,7 @@ claims:
     text: "A meteor."
     cue: 189
     responses:
-      - by: "The host"
+      - by: "Gerb"
         stance: challenges
         text: "A meteor would not take so low a path across the water for so long, flash three times and then submerge."
         cue: 194
@@ -315,7 +315,7 @@ claims:
     text: "A flare."
     cue: 257
     responses:
-      - by: "The host"
+      - by: "Gerb"
         stance: challenges
         text: "It was established that no plane or vessel released a flare over the site, and the light came up from under the surface."
         cue: 261
@@ -325,18 +325,18 @@ claims:
     text: "Decay of the Cosmos 33 satellite."
     cue: 340
     responses:
-      - by: "The host"
+      - by: "Gerb"
         stance: challenges
         text: "That does not account for the object hovering for 30 seconds, turning 180 degrees to avoid the ship and changing speed and direction before entering the sea."
         cue: 343
 ---
 ::
 
-Two of the cases get extra detail. The Ascension Island light appeared during the recovery of the floating data cassette from [[Missile Test 1802 Data Recovery|missile test 1802]]. The host likens it to [[Luis Elizondo]]'s account, covered in his earlier USO video, of a diving team sent to recover missile data watching a huge USO rise from the depths and take the missile (see [[Caribbean Island Cruise Missile Recovery USO Encounter]]). In the Morgantown Victory case the object glowed orange-yellow, brightest at the front, with two lights on top, and was estimated at 200 to 250 feet long and 35 to 40 feet wide. It approached within a mile at well under 400 feet. The master believed a plane had crashed and ordered a search.
+Two of the cases get extra detail. The Ascension Island light appeared during the recovery of the floating data cassette from [[Missile Test 1802 Data Recovery|missile test 1802]]. Gerb likens it to [[Luis Elizondo]]'s account, covered in his earlier USO video, of a diving team sent to recover missile data watching a huge USO rise from the depths and take the missile (see [[Caribbean Island Cruise Missile Recovery USO Encounter]]). In the Morgantown Victory case the object glowed orange-yellow, brightest at the front, with two lights on top, and was estimated at 200 to 250 feet long and 35 to 40 feet wide. It approached within a mile at well under 400 feet. The master believed a plane had crashed and ordered a search.
 
 ## Soviet Cases
 
-The host acknowledges that Soviet cases cannot be checked the way Blue Book's can, since there is no comparable access to declassified Soviet files and many cases survive only as stories. He draws mainly on the case log of [[Paul Stonehill]] and [[Philip Mantle]]'s *Russia's USO Secrets*, and says he chose cases he could find further reporting on.
+Gerb acknowledges that Soviet cases cannot be checked the way Blue Book's can, since there is no comparable access to declassified Soviet files and many cases survive only as stories. He draws mainly on the case log of [[Paul Stonehill]] and [[Philip Mantle]]'s *Russia's USO Secrets*, and says he chose cases he could find further reporting on.
 
 The anchor case is the [[Soviet Submarine Repair Ship Vulga Sighting|Vulga]] encounter in the Barents Sea on 7 October 1977. The ship's radar picked up an object about 60 miles out; Captain Tanton reached the bridge to see nine bright discs come in from the northeast and circle the ship for 18 minutes. Ship communications failed, much as Major Jafari's did in the [[1976 Tehran UFO Incident]], and came back when the discs left. The case also appears on pages 29 to 30 of [[Jacques Vallee|Jacques Vallée]]'s *UFO Chronicles of the Soviet Union: A Cosmic Samizdat*. The Soviet navy's response was formal:
 
@@ -365,26 +365,26 @@ steps:
 
 The directive was authorized by the naval officer and ufologist [[Vladimir Azhazha]] and signed by Naval Deputy Chief of Staff P. Noitov. Where OPNAV 3820 narrowed who could see Navy reports, the Smirnov directive widened the duty to report. The video presents the two directives as parallel institutional responses to the same phenomenon.
 
-Two more Soviet cases follow. In August 1970, according to *Russia's USO Secrets* and an article by Soviet scientist Valentin Salomshikov, hydrologists in a motorboat on a lake on the [[Kamchatka Peninsula]] saw a dome of water burst up about a kilometre away. A grey oval object 40 to 60 metres long rose from it and hovered at about 100 metres while the boat's engine stalled, then sped away, and the engine came back to life ([[Kamchatka Lake USO Sighting (1970)]]). The host links the engine failure to the vehicle interference [[Kevin Knuth]] has discussed at the [[Sol Foundation]]. In June 1977, from the manuscripts of the Soviet ufologist [[Felix Zigel]], the ship Nooget in the Gulf of Guayaquil off Ecuador radioed that a white luminescent sphere had risen from the water ahead, circled the ship, hovered 20 metres above it, zigzagged and dived back into the sea ([[Soviet Ship Nooget USO Sighting]]). The section closes with a clip from a 2006 Russian documentary on USOs in which a Soviet submarine captain discusses the phenomenon.
+Two more Soviet cases follow. In August 1970, according to *Russia's USO Secrets* and an article by Soviet scientist Valentin Salomshikov, hydrologists in a motorboat on a lake on the [[Kamchatka Peninsula]] saw a dome of water burst up about a kilometre away. A grey oval object 40 to 60 metres long rose from it and hovered at about 100 metres while the boat's engine stalled, then sped away, and the engine came back to life ([[Kamchatka Lake USO Sighting (1970)]]). Gerb links the engine failure to the vehicle interference [[Kevin Knuth]] has discussed at the [[Sol Foundation]]. In June 1977, from the manuscripts of the Soviet ufologist [[Felix Zigel]], the ship Nooget in the Gulf of Guayaquil off Ecuador radioed that a white luminescent sphere had risen from the water ahead, circled the ship, hovered 20 metres above it, zigzagged and dived back into the sea ([[Soviet Ship Nooget USO Sighting]]). The section closes with a clip from a 2006 Russian documentary on USOs in which a Soviet submarine captain discusses the phenomenon.
 
 ## Australian Files and Civilian Reports
 
-Australia, the host says, has an unusually large body of declassified UFO and USO documentation. The Royal Australian Air Force's first official "unusual aerial sighting", dated 23 January 1964, is a USO: a ship's crew off the northeast point of Groote Eylandt (the file's "Groot Island") saw large lights in the water that sent the compass haywire, with a shadow at their centre rotating clockwise so that the lights pulsed. A report on the magnetic disturbance followed. The host notes that interference with instruments comes up again and again in USO encounters.
+Australia, Gerb says, has an unusually large body of declassified UFO and USO documentation. The Royal Australian Air Force's first official "unusual aerial sighting", dated 23 January 1964, is a USO: a ship's crew off the northeast point of Groote Eylandt (the file's "Groot Island") saw large lights in the water that sent the compass haywire, with a shadow at their centre rotating clockwise so that the lights pulsed. A report on the magnetic disturbance followed. Gerb notes that interference with instruments comes up again and again in USO encounters.
 
-From the 1950s and 1960s, he says, Australian authorities took water sightings seriously, filing newspaper clippings of civilian reports (such as a 1963 account of a fisherman who saw a light shoot up from the water, hover and vanish) alongside government and military cases. A 1967 file describes Department of Works staff and local residents watching lights rise out of the sea, climb, curve and return, many with three distinct flashes on re-entry, the same signature as the 1959 City of Alako case. Lieutenant Commander A. F. Perry of Australian intelligence suggested oil-search experiments. The host rejects this, since Australian, Soviet and American witnesses all reported the same kind of sighting.
+From the 1950s and 1960s, he says, Australian authorities took water sightings seriously, filing newspaper clippings of civilian reports (such as a 1963 account of a fisherman who saw a light shoot up from the water, hover and vanish) alongside government and military cases. A 1967 file describes Department of Works staff and local residents watching lights rise out of the sea, climb, curve and return, many with three distinct flashes on re-entry, the same signature as the 1959 City of Alako case. Lieutenant Commander A. F. Perry of Australian intelligence suggested oil-search experiments. Gerb rejects this, since Australian, Soviet and American witnesses all reported the same kind of sighting.
 
 Two civilian cases complete the section. At [[Port Augusta, South Australia]] in 1947, Frederick Walter and Emma Flav saw five grey oblong objects rise from the sea, and two railway workers saw five white or light-pink egg-shaped objects rise with a quivering motion ([[Port Augusta USO Sighting]]). In a case published in *Flying Saucer Review* (July–August 1966), private pilot C. Adams and television cameraman Les Hendy saw two dark cigars up to 100 feet long and three smaller objects standing in the water about three miles east of Fraser Island. The objects submerged as the aircraft closed to within two miles, and independent witnesses at a nearby hotel said the water surface was not disturbed ([[Frasier Island USO Sighting]]).
 
 ## Before the World Wars
 
-After setting aside Christopher Columbus's famous "wax candle" rising and falling at sea (for lack of evidence), the host turns to two cases documented by the [[US Hydrographic Bureau]]. On 12 November 1887, Captain R. F. Moore of the English steamer SS Siberian saw an enormous fireball rise about 50 feet out of the sea 10 nautical miles off [[Cape Race, Newfoundland]], move toward the ship and then speed off into the sky ([[SS Siberian USO Encounter]]). The Bureau called it one of the rarest and most difficult to explain electrical phenomena. The host counters that he knows of no case of ball lightning coming out of the sea. In 1902, in the Gulf of Guinea, four men aboard the Fort Salisbury watched an immense cigar-shaped object, nearly 200 metres long, sink into the ocean as it passed under the ship, lit by two orange lights at one end and two blue-green lights at the other ([[Fort Salisbury USO Sighting]]). The host grants it could have been a submarine but notes that early German U-boats were only about 41 metres long.
+After setting aside Christopher Columbus's famous "wax candle" rising and falling at sea (for lack of evidence), Gerb turns to two cases documented by the [[US Hydrographic Bureau]]. On 12 November 1887, Captain R. F. Moore of the English steamer SS Siberian saw an enormous fireball rise about 50 feet out of the sea 10 nautical miles off [[Cape Race, Newfoundland]], move toward the ship and then speed off into the sky ([[SS Siberian USO Encounter]]). The Bureau called it one of the rarest and most difficult to explain electrical phenomena. Gerb counters that he knows of no case of ball lightning coming out of the sea. In 1902, in the Gulf of Guinea, four men aboard the Fort Salisbury watched an immense cigar-shaped object, nearly 200 metres long, sink into the ocean as it passed under the ship, lit by two orange lights at one end and two blue-green lights at the other ([[Fort Salisbury USO Sighting]]). Gerb grants it could have been a submarine but notes that early German U-boats were only about 41 metres long.
 
 ## The Maritime Light Wheel
 
-The last part of the video is on the [[Maritime Light Wheel]]: a wheel of brilliant white spokes, seen below the surface or hovering above it, reported by sailors across the Eastern Hemisphere in the late nineteenth and early twentieth centuries. It is also covered in the 2006 Russian documentary, a long clip of which plays here. The host reviews a few of the earliest of what he says are many sightings:
+The last part of the video is on the [[Maritime Light Wheel]]: a wheel of brilliant white spokes, seen below the surface or hovering above it, reported by sailors across the Eastern Hemisphere in the late nineteenth and early twentieth centuries. It is also covered in the 2006 Russian documentary, a long clip of which plays here. Gerb reviews a few of the earliest of what he says are many sightings:
 
 - **1873, Adhy.** Captain Lebman saw a milky white light beneath the waves follow his ship for half an hour, unlike anything in his 26 years at sea. Reported in *The Argus* ([[Ship Adhy Maritime Light Wheel Sighting]]).
-- **1879–1901, the [[Persian Gulf USO Flap]].** In 1879 J. E. Pringle of HMS *Vulture* saw two wheels with 25-foot spokes turning in opposite directions; the host notes that the Victorian English leaves it unclear whether they were under the water. In 1880 the officers of the British India Company's *Patna* saw two wheels 500 to 600 yards across, their spokes like a bull's-eye lantern swept round along the water. In 1901 the *Kila* (Kilwa) saw shafts of light revolving at about 60 mph ([[SS Patna Light Wheel Sighting]], [[SS Kila Light Shaft Sighting]]).
+- **1879–1901, the [[Persian Gulf USO Flap]].** In 1879 J. E. Pringle of HMS *Vulture* saw two wheels with 25-foot spokes turning in opposite directions; Gerb notes that the Victorian English leaves it unclear whether they were under the water. In 1880 the officers of the British India Company's *Patna* saw two wheels 500 to 600 yards across, their spokes like a bull's-eye lantern swept round along the water. In 1901 the *Kila* (Kilwa) saw shafts of light revolving at about 60 mph ([[SS Patna Light Wheel Sighting]], [[SS Kila Light Shaft Sighting]]).
 - **1880, Shahian.** Off the [[Malabar Coast, India|Malabar Coast]], a milky white circle "resembling the nebula" ([[SS Shahian Circular Object Sighting]]).
 - **1909, Bintang.** In the Strait of Malacca, Captain Gabe saw a wheel under the water so vast only half of it was visible, which vanished when its centre passed under the ship. Reported by the [[Danish Meteorological Institute]] and relayed by *Scientific American* ([[SS Bintang Light Wheel Sighting]]).
 - **1910, Valentin (Valentijn).** In the South China Sea, Captain Brier (Breyer) and three of his officers saw a horizontal wheel turning rapidly above the water ([[Dutch Steamship Valentin Hovering Object Sighting]]).
@@ -427,20 +427,20 @@ pins:
 ---
 ::
 
-The host says he is torn on what the wheels are:
+Gerb says he is torn on what the wheels are:
 
 ::wiki-grid{cols=2}
 ::wiki-panel{title="A transmedium craft" tone="accent"}
 The same wheel form is reported both under the water and hovering above it, sometimes moving, changing speed and changing rotation. The video treats this as possible evidence of a craft that moves between air and sea.
 ::
 ::wiki-panel{title="An anomalous natural phenomenon"}
-Some attribute the wheels to a rare interaction between bioluminescent algae and pressure waves in otherwise calm water. The host says this explanation has no consensus, but links a paper exploring it in the video description.
+Some attribute the wheels to a rare interaction between bioluminescent algae and pressure waves in otherwise calm water. Gerb says this explanation has no consensus, but links a paper exploring it in the video description.
 ::
 ::
 
 ## Recurring Signatures
 
-The host's closing argument is that Australian, Blue Book and Soviet files describe very similar experiences. Gathered from across the video, the parallels he draws are these:
+Gerb's closing argument is that Australian, Blue Book and Soviet files describe very similar experiences. Gathered from across the video, the parallels he draws are these:
 
 ::wiki-grid{cols=2}
 ::wiki-panel{title="Three flashes before entering the sea"}
@@ -460,16 +460,16 @@ The 1964 **Groote Eylandt** lights sent a compass haywire; the 1970 **Kamchatka*
 ## Key Claims
 
 - Of the more than 13,000 sightings collected by Projects Sign, Grudge and Blue Book (1949–1969), 258 came from ships, 13 met Blue Book's merit standards, and a handful describe USOs or transmedium objects; the video attributes the thin record to OPNAV 3820 (1952) and JANAP 146C.
-- Blue Book's ship cases split 155 Pacific to 104 Atlantic, which the host reads as a possible Pacific hotspot.
+- Blue Book's ship cases split 155 Pacific to 104 Atlantic, which Gerb reads as a possible Pacific hotspot.
 - The MV Marala case (4 August 1950) is one of the few Blue Book ship cases classified as "unidentified."
 - Blue Book's explanations for the SS City of Alako (meteor), Ascension Island (flare, though none was released) and SS Morgantown Victory (Cosmos 33 decay) cases do not fit the reported low trajectory, submergence, hovering and controlled turns.
 - After nine discs circled the repair ship Vulga in 1977 and disabled its communications, Fleet Admiral Nikolai Smirnov ordered mandatory UFO reporting by Soviet hydrographic, research and reconnaissance ships, a directive the video likens to JANAP 146C and OPNAV 3820.
 - The 1970 Kamchatka lake case involved an engine stalling in the object's presence, consistent with the vehicle interference Kevin Knuth has discussed.
 - The Royal Australian Air Force's first official unusual aerial sighting (23 January 1964) was a USO that disturbed a ship's compass; Australian files record three-flash re-entries like the City of Alako case.
 - The 1966 Fraser Island objects submerged without disturbing the water, a trait the video compares to the HMNZS Southland case.
-- The host knows of no case of ball lightning rising out of the sea, which undermines that explanation for the 1887 SS Siberian fireball.
+- Gerb knows of no case of ball lightning rising out of the sea, which undermines that explanation for the 1887 SS Siberian fireball.
 - The Maritime Light Wheel is documented in the Persian Gulf, off India, in the Strait of Malacca and in the South China Sea between 1873 and 1910, both below and above the water; J. E. Pringle's two wheels turned in equal and opposite directions. The bioluminescent-algae explanation lacks consensus.
-- The host would like to learn whether the Russian UFO files George Knapp reportedly smuggled out of Russia contain USO material.
+- Gerb would like to learn whether the Russian UFO files George Knapp reportedly smuggled out of Russia contain USO material.
 
 ## Sources
 

@@ -9,7 +9,7 @@ tags:
 
 ## In UAP research
 
-UAP Gerb raises Webb in *The 1965 Kecksburg, Pennsylvania UFO Crash*. According to [[Lyndon B. Johnson]]'s schedule, Webb was among the officials at the Texas White House on 10 December 1965, the day after the [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg crash]], alongside the Joint Chiefs, [[Robert McNamara]] and Secretary of Agriculture [[Orville Freeman]]. The host finds the pairing of NASA and Agriculture odd, and connects it to 9 July 1947, two days after the [[Roswell Crash|Roswell crash]]. That evening Webb, then Budget Director, placed late-evening calls to Under Secretary of Agriculture Norris E. Dodd. The host concedes this may be a stretch, but asks whether Webb was discussing Roswell and whether agriculture posts were more entwined with UAP programs than assumed.
+UAP Gerb raises Webb in *The 1965 Kecksburg, Pennsylvania UFO Crash*. According to [[Lyndon B. Johnson]]'s schedule, Webb was among the officials at the Texas White House on 10 December 1965, the day after the [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg crash]], alongside the Joint Chiefs, [[Robert McNamara]] and Secretary of Agriculture [[Orville Freeman]]. Gerb finds the pairing of NASA and Agriculture odd, and connects it to 9 July 1947, two days after the [[Roswell Crash|Roswell crash]]. That evening Webb, then Budget Director, placed late-evening calls to Under Secretary of Agriculture Norris E. Dodd. Gerb concedes this may be a stretch, but asks whether Webb was discussing Roswell and whether agriculture posts were more entwined with UAP programs than assumed.
 
 ## Sources
 

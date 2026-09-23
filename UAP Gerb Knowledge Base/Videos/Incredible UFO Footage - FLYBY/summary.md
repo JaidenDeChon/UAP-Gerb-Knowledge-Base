@@ -11,7 +11,7 @@ tags:
 ---
 
 ## Summary
-The video, hosted by UAP Gerb, analyzes a 20-second piece of UFO footage uploaded to YouTube on May 14, 2008 by user Danny Lampkin, depicting a disc-shaped craft moving alongside a jet. The host presents technical evidence suggesting the footage originates from inside a military aircraft — possibly a NASA F-18A — based on reflections consistent with a Gentex MBU-23/P pilot respirator mask, a port-side wing view matching an interior-mounted camera setup, and audio waveform analysis indicating the recording is a second-generation screen capture rather than original cockpit footage. The host further contextualizes the footage by referencing claims from former AATIP director Lou Elizondo and former Deputy Assistant Secretary of Defense Christopher Mellon that the U.S. government possesses compelling UAP footage not yet released to the public, and notes that an alleged leaked internal UAP document — possibly produced by the UAP Task Force around 2020 — reportedly classifies the flyby footage as "high value witness testimony." The video concludes without a definitive determination of authenticity, with the host calling for CGI experts to conduct further analysis.
+The video, hosted by UAP Gerb, analyzes a 20-second piece of UFO footage uploaded to YouTube on May 14, 2008 by user Danny Lampkin, depicting a disc-shaped craft moving alongside a jet. Gerb presents technical evidence suggesting the footage originates from inside a military aircraft — possibly a NASA F-18A — based on reflections consistent with a Gentex MBU-23/P pilot respirator mask, a port-side wing view matching an interior-mounted camera setup, and audio waveform analysis indicating the recording is a second-generation screen capture rather than original cockpit footage. Gerb further contextualizes the footage by referencing claims from former AATIP director Lou Elizondo and former Deputy Assistant Secretary of Defense Christopher Mellon that the U.S. government possesses compelling UAP footage not yet released to the public, and notes that an alleged leaked internal UAP document — possibly produced by the UAP Task Force around 2020 — reportedly classifies the flyby footage as "high value witness testimony." The video concludes without a definitive determination of authenticity, with Gerb calling for CGI experts to conduct further analysis.
 
 ## People
 - [[Danny Lampkin]] — Uploaded the flyby UFO footage to YouTube on May 14, 2008 with minimal description
@@ -68,7 +68,7 @@ _None identified_
 - The flyby footage is described in an alleged leaked UAP document as 'high value witness testimony.'
 - The flyby footage is considered one of the most crucial pieces of UFO footage ever taken if the alleged report is authentic.
 - The flyby footage remains anomalous and has not been confirmed as CGI or authentic.
-- The host is seeking CGI experts to perform an analysis on the flyby footage to help determine its authenticity.
+- Gerb is seeking CGI experts to perform an analysis on the flyby footage to help determine its authenticity.
 
 ---
 *Source: [YouTube](https://www.youtube.com/watch?v=qD1KnudMCO0)*

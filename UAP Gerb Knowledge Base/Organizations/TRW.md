@@ -23,7 +23,7 @@ TRW's [[Space Technology Laboratories (STL)]] was renamed TRW Systems Group, whi
 
 ## IRAD Record
 
-The same video catalogues TRW's history with [[Independent Research and Development (IRAD)]]. A CIA memorandum of 5 April 1982 records the Directorate of Science and Technology's wish to channel contractor IRAD, including TRW's, into its own areas of need. In 1986 a TRW vice president departed over overcharging through IRAD and overhead accounts. In 1989 the General Accounting Office investigated TRW for misclassifying costs as IRAD. Between 1990 and 1997 TRW ran five separate schemes, including IRAD mischarging. TRW's company-funded R&D was $468 million in 1999 and $442 million in both 2000 and 2001, more than Northrop's own IRAD. The host theorizes that TRW was misappropriating funds for the CIA's DS&T and that the practice continued inside Northrop Grumman.
+The same video catalogues TRW's history with [[Independent Research and Development (IRAD)]]. A CIA memorandum of 5 April 1982 records the Directorate of Science and Technology's wish to channel contractor IRAD, including TRW's, into its own areas of need. In 1986 a TRW vice president departed over overcharging through IRAD and overhead accounts. In 1989 the General Accounting Office investigated TRW for misclassifying costs as IRAD. Between 1990 and 1997 TRW ran five separate schemes, including IRAD mischarging. TRW's company-funded R&D was $468 million in 1999 and $442 million in both 2000 and 2001, more than Northrop's own IRAD. Gerb theorizes that TRW was misappropriating funds for the CIA's DS&T and that the practice continued inside Northrop Grumman.
 
 ## The Zodiac Story
 

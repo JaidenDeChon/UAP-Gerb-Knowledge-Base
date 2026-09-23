@@ -17,7 +17,7 @@ Craven wrote in *The Silent War* that the rescue vehicles were built with intell
 
 In 1965, a year after the DSSP began, Craven was briefed on Sand Dollar, a program nested inside another secret program within the Polaris program. Its task was recovering militarily sensitive hardware and other items of national-security importance from the world's seafloors. UAP Gerb argues that the DSSP answered Sand Dollar's requirements, and that its submersibles were carried to targets by submarines linked to the [[National Underwater Reconnaissance Office]], such as the Halibut and Seawolf. He asks whether Sand Dollar was the Navy's first UFO legacy program. He notes that the DSSP began two years after the alleged 1962 [[Bluegill Triple Prime UFO Recovery]].
 
-The host also suggests that the craft in the [[1991 North Atlantic USO Retrieval]], raised from nearly 1.5 miles down, was recovered by an unacknowledged DSSV-type vehicle rather than by *Mystic* or *Avalon*, whose rated depth was only just over a mile.
+Gerb also suggests that the craft in the [[1991 North Atlantic USO Retrieval]], raised from nearly 1.5 miles down, was recovered by an unacknowledged DSSV-type vehicle rather than by *Mystic* or *Avalon*, whose rated depth was only just over a mile.
 
 ## Sources
 

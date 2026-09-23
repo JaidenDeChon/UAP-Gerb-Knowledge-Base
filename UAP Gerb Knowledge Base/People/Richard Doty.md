@@ -9,9 +9,9 @@ Richard Doty is a former counterintelligence special agent of the [[Air Force Of
 
 ## Account in *The Hidden Wing*
 
-UAP Gerb's *The Hidden Wing* plays part of Doty's roughly 90-minute interview with [[Steven Greer]] for the documentary *Unacknowledged*, filmed between 2017 and 2019. In it Doty says that in summer 1979 an Air Force colonel from Washington briefed him into a special access program on extraterrestrial visitation and the Air Force's involvement, and that the access code was "Yankee Black". He contrasts it with "Yankee White", the access code for the White House. The host contrasts this with later press reports of a supposed Air Force hazing program called [[Yankee Blue]], and challenges anyone who holds that document to release it. The video also plays Doty's claim that in 2019 he was offered a disinformation job with the Space Force working alongside [[Luis Elizondo]], which he says he refused.
+UAP Gerb's *The Hidden Wing* plays part of Doty's roughly 90-minute interview with [[Steven Greer]] for the documentary *Unacknowledged*, filmed between 2017 and 2019. In it Doty says that in summer 1979 an Air Force colonel from Washington briefed him into a special access program on extraterrestrial visitation and the Air Force's involvement, and that the access code was "Yankee Black". He contrasts it with "Yankee White", the access code for the White House. Gerb contrasts this with later press reports of a supposed Air Force hazing program called [[Yankee Blue]], and challenges anyone who holds that document to release it. The video also plays Doty's claim that in 2019 he was offered a disinformation job with the Space Force working alongside [[Luis Elizondo]], which he says he refused.
 
-Because of Doty's counterintelligence history, the host says he will not weigh Doty's testimony and suspects him of program protection, "proclaiming truths mixed in with misdirection, lies, and red herrings".
+Because of Doty's counterintelligence history, Gerb says he will not weigh Doty's testimony and suspects him of program protection, "proclaiming truths mixed in with misdirection, lies, and red herrings".
 
 ## Sources
 

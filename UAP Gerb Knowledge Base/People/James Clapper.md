@@ -26,7 +26,7 @@ UAP Gerb's investigation into [[MITRE Corporation|MITRE]] connects Clapper to a 
 
 ## ATIP and the National Program Special Management Staff
 
-UAP Gerb's *Special Access Required Vol.2* names Clapper as the specific official the presenter believes gave "top cover" for [[AATIP (Advanced Aerospace Threat Identification Program)|ATIP]] — which the video argues was, in reality, an unfunded informal working group rather than a genuine DIA program, distinct from the separately funded [[AAWSAP]]. The presenter connects this to [[Luis Elizondo]]'s self-described 2013–2017 role as director of the [[National Program Special Management Staff (NPMS)]], a staff function under the Under Secretary of Defense for Intelligence and Security (USD I&S) — Clapper's former office — arguing Elizondo's proximity to Clapper via NPMS gave him access to National Security Council-controlled Special Access Programs beyond what his public ATIP-era persona has acknowledged.
+UAP Gerb's *Special Access Required Vol.2* names Clapper as the specific official Gerb believes gave "top cover" for [[AATIP (Advanced Aerospace Threat Identification Program)|ATIP]] — which the video argues was, in reality, an unfunded informal working group rather than a genuine DIA program, distinct from the separately funded [[AAWSAP]]. Gerb connects this to [[Luis Elizondo]]'s self-described 2013–2017 role as director of the [[National Program Special Management Staff (NPMS)]], a staff function under the Under Secretary of Defense for Intelligence and Security (USD I&S) — Clapper's former office — arguing Elizondo's proximity to Clapper via NPMS gave him access to National Security Council-controlled Special Access Programs beyond what his public ATIP-era persona has acknowledged.
 
 ## Sources
 

@@ -14,7 +14,7 @@ Pilot [[Magdaleno Castanon]] stated that military jets had been scrambled to pur
 
 ## Skeptical Assessment
 
-UAP Gerb notes that skeptic [[Michael Shermer]] proposed that the objects were burnoff flares from offshore oil platforms in the Gulf of Mexico. The host acknowledges this explanation has not been conclusively ruled out and rates the Mexico incident as carrying a higher probability of a prosaic explanation than the other cases covered in the same video — specifically the 1969 Finnish Pori Airport incident and the 1980 Peruvian La Joya Airbase intercept, both of which the presenter assesses as more likely genuine UAP encounters.
+UAP Gerb notes that skeptic [[Michael Shermer]] proposed that the objects were burnoff flares from offshore oil platforms in the Gulf of Mexico. Gerb acknowledges this explanation has not been conclusively ruled out and rates the Mexico incident as carrying a higher probability of a prosaic explanation than the other cases covered in the same video — specifically the 1969 Finnish Pori Airport incident and the 1980 Peruvian La Joya Airbase intercept, both of which Gerb assesses as more likely genuine UAP encounters.
 
 The fact that three objects appeared on radar while eight did not is the key detail that most complicates the flare hypothesis, since offshore platform flares are fixed thermal sources that would be expected to behave consistently across sensor types.
 

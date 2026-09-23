@@ -13,19 +13,19 @@ Stringfield learned of HJ between 1980 and 1982, and describes him as a sergeant
 
 ## The crash
 
-At dusk, around 7 p.m., HJ's platoon saw an egg-shaped object crash-land "out in the boondocks". Authorities and A and B Companies were ordered to the site. HJ got within about 15 yards before a Lieutenant Whitting ordered B Company back to 100 yards, telling "peons" like HJ to get out of the way; the host says he could place a real Lieutenant Whitting at Camp Polk at the time. The ground around the craft was burned into a powder like crushed brick, and heat still came off the object.
+At dusk, around 7 p.m., HJ's platoon saw an egg-shaped object crash-land "out in the boondocks". Authorities and A and B Companies were ordered to the site. HJ got within about 15 yards before a Lieutenant Whitting ordered B Company back to 100 yards, telling "peons" like HJ to get out of the way; Gerb says he could place a real Lieutenant Whitting at Camp Polk at the time. The ground around the craft was burned into a powder like crushed brick, and heat still came off the object.
 
-The craft was a large windowless, lightless ovoid as wide as a three-bedroom single-storey ranch house, which the host puts at 35 to 70 feet, "surrounded by a fin-like protrusion on its equator which was still rotating".
+The craft was a large windowless, lightless ovoid as wide as a three-bedroom single-storey ranch house, which Gerb puts at 35 to 70 feet, "surrounded by a fin-like protrusion on its equator which was still rotating".
 
 ## The occupants
 
 A special detachment arrived soon after with medics, an ambulance and special equipment, and approached an open hatch in the side of the craft. Two medics carried a body on a stretcher to the ambulance. Three living occupants then emerged, apparently injured, and were helped by the medics. HJ said one "kept looking at the one in the litter and made strange noises".
 
-He described them as 3.5 to 4 feet tall and slightly built, walking stiffly as if they had no knees, bending only at the hips. Their large heads showed no features, which made him think they wore helmets, and they were dressed in tight-fitting, dull metallic green uniforms. HJ later heard that they were taken to a hospital and put into isolation, that all of them died, and that the bodies went to a medical center near Washington, DC. The host suggests Fort Detrick, about 40 miles from Washington, where [[Battelle Memorial Institute]] manages the National Biodefense Analysis and Countermeasures Center.
+He described them as 3.5 to 4 feet tall and slightly built, walking stiffly as if they had no knees, bending only at the hips. Their large heads showed no features, which made him think they wore helmets, and they were dressed in tight-fitting, dull metallic green uniforms. HJ later heard that they were taken to a hospital and put into isolation, that all of them died, and that the bodies went to a medical center near Washington, DC. Gerb suggests Fort Detrick, about 40 miles from Washington, where [[Battelle Memorial Institute]] manages the National Biodefense Analysis and Countermeasures Center.
 
 ## Comparison with the Peru case
 
-The host lists the parallels with [[Jonathan Weygandt]]'s 1997 account:
+Gerb lists the parallels with [[Jonathan Weygandt]]'s 1997 account:
 
 - **Shape.** Both craft were large eggs; HJ's was 35 to 70 feet wide, Weygandt's about 20 m (roughly 66 feet) long.
 - **A moving band.** HJ's rotating equatorial fin echoes the light Weygandt saw circling the craft's circumference until it slowed and stopped.

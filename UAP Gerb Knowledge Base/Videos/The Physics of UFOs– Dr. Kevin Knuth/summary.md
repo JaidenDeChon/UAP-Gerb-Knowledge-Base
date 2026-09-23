@@ -295,7 +295,7 @@ The video concludes by emphasizing that cases analyzed by Knuth span from pre-Wo
 - The USO passed under the HMNZS, killing all ship power and draining batteries.
 - Kevin Knuth's paper estimated the Nimitz Tic Tac experienced approximately 5400 Gs of acceleration.
 - Kevin Knuth catalogued eight pre-World War II cases of transmedium UAP, suggesting the phenomenon predates modern foreign adversary technology.
-- The existence of UAP cases dating back to before the 20th century makes the foreign adversary hypothesis implausible according to the host.
+- The existence of UAP cases dating back to before the 20th century makes the foreign adversary hypothesis implausible according to Gerb.
 
 ---
 *Source: [YouTube](https://www.youtube.com/watch?v=inyw4Vfu7Z0)*

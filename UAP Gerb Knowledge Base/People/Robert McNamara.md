@@ -9,7 +9,7 @@ tags:
 
 ## In UAP research
 
-In *The 1965 Kecksburg, Pennsylvania UFO Crash*, UAP Gerb notes that McNamara was with [[Lyndon B. Johnson]] at the Texas White House on 10 December 1965, the day after the [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg crash]]. He attended the morning session with the Joint Chiefs, his deputy [[Cyrus Vance]], [[Joseph Califano]] and Bill Moyers, and a second meeting after lunch with science adviser [[Donald Hornig]] and Agriculture Secretary [[Orville Freeman]]. The host argues the roster suggests the day may have been spent in briefings on the crash, although no meeting mentions Kecksburg.
+In *The 1965 Kecksburg, Pennsylvania UFO Crash*, UAP Gerb notes that McNamara was with [[Lyndon B. Johnson]] at the Texas White House on 10 December 1965, the day after the [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg crash]]. He attended the morning session with the Joint Chiefs, his deputy [[Cyrus Vance]], [[Joseph Califano]] and Bill Moyers, and a second meeting after lunch with science adviser [[Donald Hornig]] and Agriculture Secretary [[Orville Freeman]]. Gerb argues the roster suggests the day may have been spent in briefings on the crash, although no meeting mentions Kecksburg.
 
 ## Sources
 

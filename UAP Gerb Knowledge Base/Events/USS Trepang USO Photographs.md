@@ -19,18 +19,18 @@ UAP Gerb sets out four positions that have been argued since the photographs sur
 
 - **Genuine.** The images show real trans-medium craft encountered by the submarine.
 - **Hoax.** The images were fabricated or staged.
-- **Balloon training.** The images are real but show the submarine engaging test or barrage balloons. The host says he found no evidence that attack submarines carried balloons for training, apart from a joint Navy-CIA document on test balloon launches from submarines in 1955, and no live-fire records for the Trepang at the time.
+- **Balloon training.** The images are real but show the submarine engaging test or barrage balloons. Gerb says he found no evidence that attack submarines carried balloons for training, apart from a joint Navy-CIA document on test balloon launches from submarines in 1955, and no live-fire records for the Trepang at the time.
 - **Fata Morgana.** Some or all of the images show a complex mirage above the horizon.
 
 The video states that the Trepang's presence in the Arctic at the time can be confirmed, and that it was the only vessel in the region.
 
 ## Witness Contacts
 
-Investigator and Navy pilot Steve Murillo spoke to Sackett in several phone calls. Sackett steered away from the UFO question, said he saw nothing unusual aboard the Trepang and that nobody else did either, and said he only "saw ice." John Klika, whose identity has also been confirmed, said he found the investigation interesting but did not know what the pictures represented. The host concludes that these statements undercut the training-exercise explanation, leaving either a hoax or genuine objects that the two men could not or would not discuss.
+Investigator and Navy pilot Steve Murillo spoke to Sackett in several phone calls. Sackett steered away from the UFO question, said he saw nothing unusual aboard the Trepang and that nobody else did either, and said he only "saw ice." John Klika, whose identity has also been confirmed, said he found the investigation interesting but did not know what the pictures represented. Gerb concludes that these statements undercut the training-exercise explanation, leaving either a hoax or genuine objects that the two men could not or would not discuss.
 
 ## Tampering
 
-Belgian researcher Wim Van Utrecht identified signs of alteration in one of the most striking images, the only such example known to the host. [[John Greenewald]] has argued that this altered frame, likely enhanced for print as magazines often did, does not discredit the others, since the original differs in aspect from the magazine version. The host finds that plausible and describes himself as undecided on the case.
+Belgian researcher Wim Van Utrecht identified signs of alteration in one of the most striking images, the only such example known to Gerb. [[John Greenewald]] has argued that this altered frame, likely enhanced for print as magazines often did, does not discredit the others, since the original differs in aspect from the magazine version. Gerb finds that plausible and describes himself as undecided on the case.
 
 ## Sources
 

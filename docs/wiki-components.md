@@ -257,7 +257,7 @@ A chronology read as an instrument. Above the entries a **chronometer**
 `WikiTimelineChronometer`) pins to the top of the scrolling `<main>` for the
 whole block: the year under the reader's eye (interpolated as they scroll),
 the era it belongs to, and — while the page's video is playing in the dock —
-the entry the host is discussing, over a proportional **ruler** of the whole
+the entry Gerb is discussing, over a proportional **ruler** of the whole
 span (era bands, one tick per entry coloured by category and sized by
 significance, same-year clusters stacked into lanes, decade ticks, a white
 reading cursor that glides, a green video playhead that snaps between cues).
@@ -779,7 +779,7 @@ Authoring rules:
 
 - **A chain earns its place** at about four steps or more, or any fork.
   Two or three hand-offs read better as a sentence.
-- **Read forward.** When the host traces a lineage backward (DTRA back to
+- **Read forward.** When Gerb traces a lineage backward (DTRA back to
   AFSWP), the chain still runs oldest to newest; say so in the caption.
 - **`via` is the hand-off, `note` is the why.** Keep both to a line. The
   argument belongs in the prose around the block.
@@ -795,7 +795,7 @@ Source: `app/app/components/content/WikiClaim.vue` (normalisation in
 
 A claim and the attributed responses to it. Use it where a video weighs a
 claim against challenges and replies: an official finding and the witness's
-answer, a critic's charge and the host's rebuttal, a trial's prosecution and
+answer, a critic's charge and Gerb's rebuttal, a trial's prosecution and
 defence, a list of objections and replies, or competing explanations that
 each have a proponent and answers. The vault's rule is "attribute, don't
 debunk", so the component's job is to keep **who said what** attached to
@@ -815,7 +815,7 @@ What it renders:
   you set: "Objection", "Explanation", "Charge").
 - **Responses** hang under their claim from a thread line, so a reply always
   sits with the claim it answers. Each names its speaker and carries a
-  **stance tag**: `supports`, `challenges`, `host` (rendered "Host's view")
+  **stance tag**: `supports`, `challenges`, `host` (rendered "Gerb's view")
   or `unresolved`. The tag is a word plus a glyph (plus, minus, microphone,
   question mark), never colour alone; tone (green, blue, purple, dashed grey)
   only reinforces it, on the tag's border and on the response's spine. Every
@@ -860,9 +860,9 @@ claims:
     cue: 4442                          # optional, seconds into `video`
     cueApprox: true                    # optional; omit for a hand-verified cue
     responses:
-      - by: "The host"                 # speaker (optional)
+      - by: "Gerb"                 # speaker (optional)
         stance: challenges             # supports | challenges | host | unresolved
-                                       # (also accepted: for, against, host's view, open)
+                                       # (also accepted: for, against, host's view, gerb, gerb's view, open)
         date: "2014-07"                # optional
         text: "The 1992 Senate report lists him as NSC staff."   # required
         cue: 510
@@ -903,7 +903,7 @@ Authoring rules:
   simply disagree on a fact) stay as `::wiki-grid` panels or become a
   `::wiki-compare`.
 - **Name the speaker every time.** Use the page title when there is one. When
-  the host rebuts a point, write `by: "The host"` with `stance: challenges`
+  Gerb rebuts a point, write `by: "Gerb"` with `stance: challenges`
   (or `supports`); keep `stance: host` for his own reading or leaning where
   it is neither for nor against, and `unresolved` where he, or anyone, leaves
   it open. A group with no page ("Sceptics of the manual", "Eyewitnesses") is

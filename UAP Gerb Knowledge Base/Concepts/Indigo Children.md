@@ -24,7 +24,7 @@ Proponents describe Indigo Children as having some or all of the following trait
 
 ## Claimed UAP Connection
 
-The inclusion of Indigo Children in UFO and alien iceberg discussions typically rests on speculation that these children may be human-extraterrestrial hybrids, recipients of extraterrestrial genetic modification, or souls from advanced civilizations incarnated in human form. None of these claims have credible evidentiary support. The host of [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]] explicitly dismissed this entry as poorly connected to the UAP phenomenon.
+The inclusion of Indigo Children in UFO and alien iceberg discussions typically rests on speculation that these children may be human-extraterrestrial hybrids, recipients of extraterrestrial genetic modification, or souls from advanced civilizations incarnated in human form. None of these claims have credible evidentiary support. Gerb of [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]] explicitly dismissed this entry as poorly connected to the UAP phenomenon.
 
 ## Sources
 

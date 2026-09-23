@@ -14,7 +14,7 @@ Before becoming Vice Chairman, Owens served as senior military assistant to Secr
 
 ## Alleged role as a gatekeeper
 
-UAP Gerb's SAIC investigation places Owens on SAPOC after the January 1994 restructuring of special access program oversight, alongside chairman [[John Deutsch]] (also a former SAIC director), [[Paul Kaminski]], Brigadier General Michael Kostelnik and [[Linton Wells II]]. Because two of those six figures later or earlier served SAIC, the host wagers that the large defense contractor Wilson said worked alongside SAPOC to protect the program was SAIC. He names Owens among the officials he believes should be subpoenaed by Congress, and cites him as an example of senior officers who "trade in their stripes and stars for a pinstriped suit".
+UAP Gerb's SAIC investigation places Owens on SAPOC after the January 1994 restructuring of special access program oversight, alongside chairman [[John Deutsch]] (also a former SAIC director), [[Paul Kaminski]], Brigadier General Michael Kostelnik and [[Linton Wells II]]. Because two of those six figures later or earlier served SAIC, Gerb wagers that the large defense contractor Wilson said worked alongside SAPOC to protect the program was SAIC. He names Owens among the officials he believes should be subpoenaed by Congress, and cites him as an example of senior officers who "trade in their stripes and stars for a pinstriped suit".
 
 ## Sources
 

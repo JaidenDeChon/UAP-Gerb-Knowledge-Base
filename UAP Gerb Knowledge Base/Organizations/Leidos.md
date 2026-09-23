@@ -9,11 +9,11 @@ Leidos is a U.S. defense, intelligence, civil and health technology contractor. 
 
 ## The 2013 split
 
-According to the UAP Gerb video, the main reason for the split was the conflict-of-interest provisions of the federal acquisition regulation, which prevented the company from bidding on some new contracts because of existing ones. In the host's words, SAIC "had so many contracts and was so big it had to split up to gain more".
+According to the UAP Gerb video, the main reason for the split was the conflict-of-interest provisions of the federal acquisition regulation, which prevented the company from bidding on some new contracts because of existing ones. In Gerb's words, SAIC "had so many contracts and was so big it had to split up to gain more".
 
 ## Lockheed Martin IS&GS
 
-On 16 August 2016 Leidos merged with [[Lockheed Martin]]'s Information Systems and Global Solutions business, acquiring it for about $5 billion. On 30 November 2017 Lockheed Martin Services Inc. changed its name to Leidos Government Services Inc. The host notes that [[Catherine Austin Fitts]] named Lockheed Martin Information Systems among the contractor-run accounting systems that withheld data on where Department of Housing and Urban Development and DoD money went.
+On 16 August 2016 Leidos merged with [[Lockheed Martin]]'s Information Systems and Global Solutions business, acquiring it for about $5 billion. On 30 November 2017 Lockheed Martin Services Inc. changed its name to Leidos Government Services Inc. Gerb notes that [[Catherine Austin Fitts]] named Lockheed Martin Information Systems among the contractor-run accounting systems that withheld data on where Department of Housing and Urban Development and DoD money went.
 
 ## Sources
 

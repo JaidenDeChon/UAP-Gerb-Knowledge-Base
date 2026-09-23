@@ -14,7 +14,7 @@ Dorsch was captured in 1945 and briefed the Americans on German construction, an
 
 ## Alleged Role in US Underground Bases
 
-In *Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs*, UAP Gerb suggests Dorsch may also have worked on the Regenwurmlager beneath western Poland and the Ohrdruf underground complexes, and that he was a key engineer of the underground facilities of [[Hans Kammler]]. With Dorsch requested by Air Materiel Command and Kammler, in the host's view, secretly brought to the US, he argues the two men "could very well be the key architects of modern-day US UFO and DUMB legacy programs". See [[Deep Underground Military Bases (DUMBs)]].
+In *Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs*, UAP Gerb suggests Dorsch may also have worked on the Regenwurmlager beneath western Poland and the Ohrdruf underground complexes, and that he was a key engineer of the underground facilities of [[Hans Kammler]]. With Dorsch requested by Air Materiel Command and Kammler, in Gerb's view, secretly brought to the US, he argues the two men "could very well be the key architects of modern-day US UFO and DUMB legacy programs". See [[Deep Underground Military Bases (DUMBs)]].
 
 ## Sources
 

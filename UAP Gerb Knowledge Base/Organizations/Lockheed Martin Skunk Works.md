@@ -33,7 +33,7 @@ The Skunk Works was born at Lockheed's Burbank, California plant, and in 1986 th
 
 ## To The Stars Academy
 
-The same video notes the Skunk Works' ties to [[To The Stars Academy]]: [[Tom DeLonge]] said at its 2017 launch that he had been connected to officials from the CIA, DoD and the Skunk Works, and its advisers included Skunk Works executive vice president Rob Weiss and Steve Justice, a 30-year veteran and former head of Skunk Works advanced programs who left TTSA by 2021. The host also cites the claims of [[Steven Greer]] and [[Ross Coulthart]] that the 2004 Nimitz Tic Tac was a Skunk Works craft, and Greer's claim that man-made electrogravitic craft are tested over diamond markings at the [[Helendale]] range.
+The same video notes the Skunk Works' ties to [[To The Stars Academy]]: [[Tom DeLonge]] said at its 2017 launch that he had been connected to officials from the CIA, DoD and the Skunk Works, and its advisers included Skunk Works executive vice president Rob Weiss and Steve Justice, a 30-year veteran and former head of Skunk Works advanced programs who left TTSA by 2021. Gerb also cites the claims of [[Steven Greer]] and [[Ross Coulthart]] that the 2004 Nimitz Tic Tac was a Skunk Works craft, and Greer's claim that man-made electrogravitic craft are tested over diamond markings at the [[Helendale]] range.
 
 ## Sources
 

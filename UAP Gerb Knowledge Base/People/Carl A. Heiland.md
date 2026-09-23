@@ -19,7 +19,7 @@ According to Steinman's 1986 book *UFO Crash at Aztec: A Well Kept Secret*, Heil
 
 The theory continues that when MJ-12 learned Heiland was the source, he was withdrawn from the 8 March 1950 University of Denver lecture, where Newton stood in as "Scientist X." During the 1953 fraud trial Heiland was asked to testify against GeBauer's oil-finding devices and refused, telling his visitor he could not do so with a clear conscience because they had developed the devices together. Dr. James Meredith, from Heiland's own Colorado School of Mines department, testified instead, using a war-surplus-store device rather than GeBauer's.
 
-Researcher Richard Ogden independently named Heiland as a likely Dr. G in an unpublished 1960s manuscript, reasoning from [[Frank Scully]]'s statement that one of the scientists lived in Denver and could fly to the crash site in two or three hours. The video adds that the Ramseys could place Heiland in the Southwest at the time of the crash. The host considers the thesis attractive but says it needs documentary proof, such as evidence that GeBauer worked for Heiland's company.
+Researcher Richard Ogden independently named Heiland as a likely Dr. G in an unpublished 1960s manuscript, reasoning from [[Frank Scully]]'s statement that one of the scientists lived in Denver and could fly to the crash site in two or three hours. The video adds that the Ramseys could place Heiland in the Southwest at the time of the crash. Gerb considers the thesis attractive but says it needs documentary proof, such as evidence that GeBauer worked for Heiland's company.
 
 ## Sources
 

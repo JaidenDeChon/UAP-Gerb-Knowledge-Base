@@ -24,7 +24,7 @@ The unacknowledged status aligns with what Captain [[Edward J. Ruppelt]] and Dr.
 
 ## Planned Future Coverage
 
-The narrator of the MOON DUST video stated that Operation Zodiac, along with [[Operation Bluefly]] and the [[CIA Office of Global Access]], would be covered in future videos, indicating additional documentary evidence or testimony exists regarding Zodiac's operations but was not detailed in the Moon Dust episode.
+Gerb of the MOON DUST video stated that Operation Zodiac, along with [[Operation Bluefly]] and the [[CIA Office of Global Access]], would be covered in future videos, indicating additional documentary evidence or testimony exists regarding Zodiac's operations but was not detailed in the Moon Dust episode.
 
 This suggests Zodiac has its own documentary trail accessible through Freedom of Information Act requests or whistleblower testimony that warrants dedicated investigation.
 

@@ -41,17 +41,17 @@ stats:
 
 ## Overview
 
-This video investigates [[Robert Sarbacher]], the Harvard-trained physicist, student of [[Einstein|Albert Einstein]] and consultant to the Department of Defense's [[Research and Development Board]] under the Truman administration, whom the host presents as a key to the US government's early "feverish obsession" with UFOs and crash retrievals. It opens on the 1950 memo in which Canadian government radio engineer [[Wilbert B. Smith]] relayed four claims from a Washington source: that flying saucers exist, that the subject is classified even higher than the hydrogen bomb, that a small group headed by [[Vannevar Bush]] is making a concentrated effort to understand them, and that US authorities consider the matter of tremendous significance. That source was Sarbacher, and the memo led directly to Canada's [[Project Magnet]] and [[Project Second Story]].
+This video investigates [[Robert Sarbacher]], the Harvard-trained physicist, student of [[Einstein|Albert Einstein]] and consultant to the Department of Defense's [[Research and Development Board]] under the Truman administration, whom Gerb presents as a key to the US government's early "feverish obsession" with UFOs and crash retrievals. It opens on the 1950 memo in which Canadian government radio engineer [[Wilbert B. Smith]] relayed four claims from a Washington source: that flying saucers exist, that the subject is classified even higher than the hydrogen bomb, that a small group headed by [[Vannevar Bush]] is making a concentrated effort to understand them, and that US authorities consider the matter of tremendous significance. That source was Sarbacher, and the memo led directly to Canada's [[Project Magnet]] and [[Project Second Story]].
 
-The host then follows Sarbacher's account through the decades. Sarbacher's son said his father was asked to build camera-carrying missiles, like those on the V-2, to track UFOs, and the video sets that beside V-2 sightings in the [[Project Twinkle]] report and at [[White Sands Missile Range]]. In 1983, Sarbacher answered twelve questions from researcher [[William Steinman]], naming Bush, [[John Von Neumann]] and [[J. Robert Oppenheimer]] as involved and describing recovered materials that were "extremely light and very tough" and occupants "constructed like certain insects." In a recorded call the same year, [[Stanton Friedman]] drew out his memory of a meeting at [[Wright Field]] about a crash that was "very likely" in 1947, and of a smug attendee from Philadelphia, later identified as Dr. [[Eric A. Walker]].
+Gerb then follows Sarbacher's account through the decades. Sarbacher's son said his father was asked to build camera-carrying missiles, like those on the V-2, to track UFOs, and the video sets that beside V-2 sightings in the [[Project Twinkle]] report and at [[White Sands Missile Range]]. In 1983, Sarbacher answered twelve questions from researcher [[William Steinman]], naming Bush, [[John Von Neumann]] and [[J. Robert Oppenheimer]] as involved and describing recovered materials that were "extremely light and very tough" and occupants "constructed like certain insects." In a recorded call the same year, [[Stanton Friedman]] drew out his memory of a meeting at [[Wright Field]] about a crash that was "very likely" in 1947, and of a smug attendee from Philadelphia, later identified as Dr. [[Eric A. Walker]].
 
-The second half turns to Walker, the former Penn State president who told Steinman in 1987 that he had known of [[Majestic 12]] "for 40 years", later called the [[MJ-12 Documents|MJ-12 documents]] likely forgeries while affirming the group, and said he went to the 1965 [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg crash]] site. The video closes on the FBI's March 1950 [[Hottel Memo]], which reported three flying saucers recovered in New Mexico, and asks whether it and the Wright Field meeting describe the same program. The host frames the whole as a rare look at the crash-retrieval side of an era usually remembered only through [[Project Sign]], [[Project Grudge]] and [[Project Blue Book]].
+The second half turns to Walker, the former Penn State president who told Steinman in 1987 that he had known of [[Majestic 12]] "for 40 years", later called the [[MJ-12 Documents|MJ-12 documents]] likely forgeries while affirming the group, and said he went to the 1965 [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg crash]] site. The video closes on the FBI's March 1950 [[Hottel Memo]], which reported three flying saucers recovered in New Mexico, and asks whether it and the Wright Field meeting describe the same program. Gerb frames the whole as a rare look at the crash-retrieval side of an era usually remembered only through [[Project Sign]], [[Project Grudge]] and [[Project Blue Book]].
 
 ## Chronology
 
 ::wiki-timeline{video="R7DyJRf14nU" video-title="Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group"}
 ---
-help: "The bar pinned above the entries is a ruler from 1940 to 2025. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The first band holds the classified years the video reconstructs, crowded into 1949 to 1952; the second holds the 1980s letters, calls and interviews through which Sarbacher and Walker put that period on record. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line capped with a downward arrow is where the host is. The host opens on Smith's 1950 memo, jumps to Sarbacher's son in 1987 and saves the March 1950 Hottel memo for last, so the playhead crosses the ruler back and forth. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Timestamps jump the mini-player to that moment."
+help: "The bar pinned above the entries is a ruler from 1940 to 2025. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The first band holds the classified years the video reconstructs, crowded into 1949 to 1952; the second holds the 1980s letters, calls and interviews through which Sarbacher and Walker put that period on record. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line capped with a downward arrow is where Gerb is. Gerb opens on Smith's 1950 memo, jumps to Sarbacher's son in 1987 and saves the March 1950 Hottel memo for last, so the playhead crosses the ruler back and forth. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Timestamps jump the mini-player to that moment."
 eras:
   - id: classified
     label: "The Classified Years"
@@ -81,7 +81,7 @@ events:
   - date: "1947"
     title: "Roswell crash, the likely subject of the Wright Field meeting"
     cue: 750
-    summary: "Asked by Stanton Friedman whether the crash discussed at Wright Field occurred in 1947, when Oppenheimer would presumably have been involved, Sarbacher answered 'very likely'. The host also reads Sarbacher's light, tough materials as Roswell wreckage."
+    summary: "Asked by Stanton Friedman whether the crash discussed at Wright Field occurred in 1947, when Oppenheimer would presumably have been involved, Sarbacher answered 'very likely'. Gerb also reads Sarbacher's light, tough materials as Roswell wreckage."
     category: event
     significance: notable
     entities:
@@ -91,7 +91,7 @@ events:
   - date: "1949"
     title: "Project Twinkle begins observing green fireballs"
     cue: 206
-    summary: "Project Twinkle was set up in 1949 to observe UFOs, specifically green fireballs, alongside Project Grudge. The host turns to its report for evidence that Sarbacher's rocket work and UFOs intersected."
+    summary: "Project Twinkle was set up in 1949 to observe UFOs, specifically green fireballs, alongside Project Grudge. Gerb turns to its report for evidence that Sarbacher's rocket work and UFOs intersected."
     category: program
     significance: minor
     entities:
@@ -100,7 +100,7 @@ events:
   - date: "1949"
     title: "Battelle studies lightweight shape memory alloys"
     cue: 636
-    summary: "Battelle's 1949 study of lightweight shape memory alloys lends credence, in the host's view, to reading Sarbacher's 'extremely light and very tough' materials as Roswell wreckage, a link he draws in his earlier Battelle video."
+    summary: "Battelle's 1949 study of lightweight shape memory alloys lends credence, in Gerb's view, to reading Sarbacher's 'extremely light and very tough' materials as Roswell wreckage, a link he draws in his earlier Battelle video."
     category: program
     significance: minor
     entities:
@@ -120,7 +120,7 @@ events:
   - date: "1950"
     title: "Scully's Behind the Flying Saucers published"
     cue: 407
-    summary: "Smith's notes record that he had read Frank Scully's 1950 book Behind the Flying Saucers, which publicized the alleged 1949 Aztec, New Mexico crash, and that Sarbacher called its contents fundamentally correct. The host reserves judgment on Aztec."
+    summary: "Smith's notes record that he had read Frank Scully's 1950 book Behind the Flying Saucers, which publicized the alleged 1949 Aztec, New Mexico crash, and that Sarbacher called its contents fundamentally correct. Gerb reserves judgment on Aztec."
     category: document
     significance: notable
     entities:
@@ -171,7 +171,7 @@ events:
   - date: "1951"
     title: "Lubbock Lights"
     cue: 803
-    summary: "Sarbacher told Friedman the R&D board was fascinated by objects flying at great speeds and perplexed by what they were made of; the host suspects a reference to the 1951 Lubbock Lights. Sarbacher assumed at the time that manipulating gravity was the key."
+    summary: "Sarbacher told Friedman the R&D board was fascinated by objects flying at great speeds and perplexed by what they were made of; Gerb suspects a reference to the 1951 Lubbock Lights. Sarbacher assumed at the time that manipulating gravity was the key."
     category: event
     significance: minor
     entities:
@@ -179,7 +179,7 @@ events:
   - date: "1952"
     title: "ATIC commissions Battelle for Project Stork"
     cue: 1112
-    summary: "The host guesses the Hottel memo's Air Force investigator came from the Air Technical Intelligence Center, which in 1952 commissioned Battelle for Project Stork, a parallel to Blue Book unknown to the public, to help reassure the public that the UFO problem was under control."
+    summary: "Gerb guesses the Hottel memo's Air Force investigator came from the Air Technical Intelligence Center, which in 1952 commissioned Battelle for Project Stork, a parallel to Blue Book unknown to the public, to help reassure the public that the UFO problem was under control."
     category: program
     significance: notable
     entities:
@@ -252,7 +252,7 @@ events:
   - date: "2023"
     title: "Larry Maguire's letter on recovered UAP material"
     cue: 355
-    summary: "Canadian member of Parliament Larry Maguire wrote to Canada's defence minister about research and development on recovered UAP material in conjunction with Five Eyes retrieval operations, an example, for the host, of Canada staying close on the heels of US UFO research since Project Magnet."
+    summary: "Canadian member of Parliament Larry Maguire wrote to Canada's defence minister about research and development on recovered UAP material in conjunction with Five Eyes retrieval operations, an example, for Gerb, of Canada staying close on the heels of US UFO research since Project Magnet."
     category: document
     significance: minor
     entities:
@@ -269,13 +269,13 @@ In 1950, [[Wilbert B. Smith]], a senior radio engineer with Canada's Department 
 3. Their modus operandi is unknown, but a concentrated effort is being made by a small group headed by Dr. [[Vannevar Bush]].
 4. The entire matter is considered by US authorities to be of tremendous significance.
 
-According to the video, the memo led directly to Canada's two official UFO investigations: [[Project Magnet]], which studied the possibility of reverse-engineering UFO magnetic propulsion to exploit the Earth's magnetic field, and [[Project Second Story]], which sought to recommend a course of action to the Canadian government. The host sees a continuing thread in 2023, when Canadian member of Parliament Larry Maguire wrote to the defence minister about recovered UAP material and Five Eyes retrieval operations.
+According to the video, the memo led directly to Canada's two official UFO investigations: [[Project Magnet]], which studied the possibility of reverse-engineering UFO magnetic propulsion to exploit the Earth's magnetic field, and [[Project Second Story]], which sought to recommend a course of action to the Canadian government. Gerb sees a continuing thread in 2023, when Canadian member of Parliament Larry Maguire wrote to the defence minister about recovered UAP material and Five Eyes retrieval operations.
 
-The source was Sarbacher. Besides his own confirmation in 1983, historian [[Arthur Bray]] found both the Department of Transport memo and Smith's handwritten notes of the meeting in the engineer's estate. Two things in the notes catch the host's attention. Smith had read [[Frank Scully]]'s 1950 book *Behind the Flying Saucers*, which publicized the alleged 1949 [[Aztec UFO Crash and Recovery|Aztec, New Mexico crash]], and Sarbacher told him its contents were fundamentally correct; the host reserves judgment on Aztec. And Sarbacher named Bush, then chairman of the Research and Development Board to which Sarbacher belonged and of the National Advisory Committee for Aeronautics (the forerunner of [[NASA]]), as head of the study group. The video traces the [[MJ-12 Documents]] themselves back to Bush's joint research and development board, which it says had twelve members, and notes that the alleged "Briefing Document: Operation Majestic 12" names Bush on the team Truman tasked with investigating crashed UAP. The host calls the documents a mix of forgeries with some possibly real material spliced in.
+The source was Sarbacher. Besides his own confirmation in 1983, historian [[Arthur Bray]] found both the Department of Transport memo and Smith's handwritten notes of the meeting in the engineer's estate. Two things in the notes catch Gerb's attention. Smith had read [[Frank Scully]]'s 1950 book *Behind the Flying Saucers*, which publicized the alleged 1949 [[Aztec UFO Crash and Recovery|Aztec, New Mexico crash]], and Sarbacher told him its contents were fundamentally correct; Gerb reserves judgment on Aztec. And Sarbacher named Bush, then chairman of the Research and Development Board to which Sarbacher belonged and of the National Advisory Committee for Aeronautics (the forerunner of [[NASA]]), as head of the study group. The video traces the [[MJ-12 Documents]] themselves back to Bush's joint research and development board, which it says had twelve members, and notes that the alleged "Briefing Document: Operation Majestic 12" names Bush on the team Truman tasked with investigating crashed UAP. Gerb calls the documents a mix of forgeries with some possibly real material spliced in.
 
 ## Who Was Robert Sarbacher
 
-[[Robert Sarbacher]] graduated from Harvard, studied under Albert Einstein, founded and served as dean of the Washington Institute of Technology, and was a scientific consultant to the US Marines and a member of the joint Research and Development Board. His own research was on remote-controlled rockets. That specialty is the thread the host pulls first, because of what Sarbacher's son later said about it.
+[[Robert Sarbacher]] graduated from Harvard, studied under Albert Einstein, founded and served as dean of the Washington Institute of Technology, and was a scientific consultant to the US Marines and a member of the joint Research and Development Board. His own research was on remote-controlled rockets. That specialty is the thread Gerb pulls first, because of what Sarbacher's son later said about it.
 
 ::wiki-grid{cols=3}
 ::wiki-panel{title="The son's account" tone="accent"}
@@ -289,13 +289,13 @@ A radar operator doing high-level research on captured German V-2s at [[White Sa
 ::
 ::
 
-The host does not claim this proves Sarbacher photographed UFOs from V-2s, only that V-2 rockets and UFOs demonstrably intersected. He points to Lieutenant [[Robert Jacobs]]'s account of a UFO disabling a dummy nuclear warhead as a sign that UFOs take an interest in ballistic missiles, and mentions that former New Mexico state representative [[Andrew Kissner]] made related claims.
+Gerb does not claim this proves Sarbacher photographed UFOs from V-2s, only that V-2 rockets and UFOs demonstrably intersected. He points to Lieutenant [[Robert Jacobs]]'s account of a UFO disabling a dummy nuclear warhead as a sign that UFOs take an interest in ballistic missiles, and mentions that former New Mexico state representative [[Andrew Kissner]] made related claims.
 
 ## The 1983 Letter and Call
 
 ### Answering William Steinman
 
-In November 1983, UFO researcher [[William Steinman]] wrote to Sarbacher and received what the host calls "a truly startling letter" in reply: answers to a series of twelve questions. The letter sets out both what Sarbacher said he knew and what he said he did not.
+In November 1983, UFO researcher [[William Steinman]] wrote to Sarbacher and received what Gerb calls "a truly startling letter" in reply: answers to a series of twelve questions. The letter sets out both what Sarbacher said he knew and what he said he did not.
 
 ::wiki-grid{cols=2}
 ::wiki-panel{title="What he said he did not know"}
@@ -312,13 +312,13 @@ In November 1983, UFO researcher [[William Steinman]] wrote to Sarbacher and rec
 ::
 ::
 
-Sarbacher added that he still did not know why the subject had been given such a high classification, or why the existence of the devices was denied. The host reads the light, tough materials as Roswell wreckage, pointing to [[Battelle Memorial Institute|Battelle]]'s 1949 work on lightweight shape memory alloys (see [[Nitinol (Nickel-Titanium Alloy)]]). He finds the insect description the most striking detail of all, and notes that Sarbacher put "aliens" in quotation marks, as if unwilling to settle on an origin for the beings.
+Sarbacher added that he still did not know why the subject had been given such a high classification, or why the existence of the devices was denied. Gerb reads the light, tough materials as Roswell wreckage, pointing to [[Battelle Memorial Institute|Battelle]]'s 1949 work on lightweight shape memory alloys (see [[Nitinol (Nickel-Titanium Alloy)]]). He finds the insect description the most striking detail of all, and notes that Sarbacher put "aliens" in quotation marks, as if unwilling to settle on an origin for the beings.
 
 ### The Stanton Friedman call
 
 The same year, [[Stanton Friedman]] learned of the Smith memo and tracked Sarbacher down. In their recorded conversation Sarbacher returned to the insect-like beings, recalling a meeting at [[Wright Field]] about a crash where "one of the fellows" told him that "if they were people", they were made like insects and had no skin, which was how they could accelerate and decelerate without being torn apart. Pressed on why he had told Smith the subject outranked the H-bomb, he alluded to several crash recoveries; asked whether the crash in question was in 1947, he said "very likely".
 
-The most important moment, for the host, came when Friedman asked who attended the [[Wright Field Crash Retrieval Meeting|Wright Field meeting]]. Sarbacher remembered one man he did not much like, from Philadelphia, who went to all the meetings "acting very smug about it". This would later be revealed to be Dr. Eric A. Walker. Sarbacher also described the board's fascination with objects that flew at great speeds and accelerated almost instantly, which the host suspects may refer to the 1951 [[Lubbock Lights]], and said he had assumed at the time that the answer lay in manipulating gravity.
+The most important moment, for Gerb, came when Friedman asked who attended the [[Wright Field Crash Retrieval Meeting|Wright Field meeting]]. Sarbacher remembered one man he did not much like, from Philadelphia, who went to all the meetings "acting very smug about it". This would later be revealed to be Dr. Eric A. Walker. Sarbacher also described the board's fascination with objects that flew at great speeds and accelerated almost instantly, which Gerb suspects may refer to the 1951 [[Lubbock Lights]], and said he had assumed at the time that the answer lay in manipulating gravity.
 
 ### Who Sarbacher placed in the group
 
@@ -345,7 +345,7 @@ entries:
 
 ## Dr. Eric A. Walker
 
-[[Eric A. Walker]] was president of Penn State University from 1956 to 1971, chairman of the Institute for Defense Analyses and executive secretary of the Defense Research Board in 1950-1951: "a very serious and accredited man", in the host's words. Once Friedman made his name public, researchers including William Steinman and Henry Azadehdel, who wrote as Armen Victorian, began questioning him. Across those conversations, the video says, Walker claimed involvement in the 1965 Kecksburg crash, confirmed the existence of Majestic 12 or a similar group, said contact had been made with non-human intelligence, and called reverse-engineering efforts a waste of time because the technology was far beyond human understanding.
+[[Eric A. Walker]] was president of Penn State University from 1956 to 1971, chairman of the Institute for Defense Analyses and executive secretary of the Defense Research Board in 1950-1951: "a very serious and accredited man", in Gerb's words. Once Friedman made his name public, researchers including William Steinman and Henry Azadehdel, who wrote as Armen Victorian, began questioning him. Across those conversations, the video says, Walker claimed involvement in the 1965 Kecksburg crash, confirmed the existence of Majestic 12 or a similar group, said contact had been made with non-human intelligence, and called reverse-engineering efforts a waste of time because the technology was far beyond human understanding.
 
 Walker's first interview, with Steinman in 1987, came weeks after the MJ-12 documents were made public. Three years later Henry Azadehdel recorded three calls with him, which also took in the [[1978 Bolivia UFO Crash]] and the possibility that insect-like bodies had been recovered. The third call was the most cryptic of all. Set side by side, the two sets of conversations cover much of the same ground:
 
@@ -382,7 +382,7 @@ rows:
 ---
 ::
 
-A 1991 investigation placed Walker, as Penn State president, about 100 miles from [[Kecksburg, Pennsylvania]], where a small bell- or acorn-shaped object allegedly crashed in 1965. Walker's comment on the crash site was that "we went there with two from the military but not on duty". The host says the case deserves its own full analysis.
+A 1991 investigation placed Walker, as Penn State president, about 100 miles from [[Kecksburg, Pennsylvania]], where a small bell- or acorn-shaped object allegedly crashed in 1965. Walker's comment on the crash site was that "we went there with two from the military but not on duty". Gerb says the case deserves its own full analysis.
 
 ## How the Account Reached the Record
 
@@ -433,13 +433,13 @@ root:
 
 ## The Hottel Memo
 
-Having spent the video on a significant meeting about crash operations that Sarbacher and Walker both placed at Wright Field around 1950, the host ends on a document from the same year. On 22 March 1950, FBI agent [[Guy Hottel]] wrote to Director [[J. Edgar Hoover]] relaying what an Air Force investigator had said. The host guesses the investigator came from the [[Air Force Technical Intelligence Center|Air Technical Intelligence Center]] (ATIC), the body that in 1952 commissioned Battelle for [[Project Stork]], a parallel to Blue Book unknown to the public, meant to "assist the Air Force in reassuring the public that everything is well under control."
+Having spent the video on a significant meeting about crash operations that Sarbacher and Walker both placed at Wright Field around 1950, Gerb ends on a document from the same year. On 22 March 1950, FBI agent [[Guy Hottel]] wrote to Director [[J. Edgar Hoover]] relaying what an Air Force investigator had said. Gerb guesses the investigator came from the [[Air Force Technical Intelligence Center|Air Technical Intelligence Center]] (ATIC), the body that in 1952 commissioned Battelle for [[Project Stork]], a parallel to Blue Book unknown to the public, meant to "assist the Air Force in reassuring the public that everything is well under control."
 
-According to the [[Hottel Memo]], three flying saucers had been recovered in New Mexico. They were circular with raised centres and about 50 feet in diameter, and each was occupied by humanoid figures about 3 feet tall dressed in metallic suits. One [[Carl Howe]] said the discs were found in New Mexico because of high-powered radar there, which likely caused the crashes by interfering with their control mechanisms. The host leaves two questions open: whether the memo ties in with the Wright Field retrieval meeting, and whether it describes the [[Roswell Crash]] of three years earlier.
+According to the [[Hottel Memo]], three flying saucers had been recovered in New Mexico. They were circular with raised centres and about 50 feet in diameter, and each was occupied by humanoid figures about 3 feet tall dressed in metallic suits. One [[Carl Howe]] said the discs were found in New Mexico because of high-powered radar there, which likely caused the crashes by interfering with their control mechanisms. Gerb leaves two questions open: whether the memo ties in with the Wright Field retrieval meeting, and whether it describes the [[Roswell Crash]] of three years earlier.
 
-## The Host's Closing Thoughts
+## Gerb's Closing Thoughts
 
-Returning to Walker's remark that Steinman was fighting windmills, the host hears an allusion to Don Quixote: a warning, perhaps, that Steinman was chasing ghosts and looking in the wrong direction, from the same man who said he had known of MJ-12 for 40 years. Because MJ-12 surfaces repeatedly in both men's stories, he promises a full treatment of the documents, many of which he regards as forgeries that may still carry some legitimate data or documents. The era, he argues, is usually remembered through Project Sign, Project Grudge, Project Blue Book and the 1952 Washington, D.C. sightings, with little attention to the program that found crash retrievals and ran reverse engineering; Sarbacher offers a rare look at it. He closes by asking viewers whether the Wright Field meeting was what gave Sarbacher the confidence to tell Smith the subject was classified above the H-bomb.
+Returning to Walker's remark that Steinman was fighting windmills, Gerb hears an allusion to Don Quixote: a warning, perhaps, that Steinman was chasing ghosts and looking in the wrong direction, from the same man who said he had known of MJ-12 for 40 years. Because MJ-12 surfaces repeatedly in both men's stories, he promises a full treatment of the documents, many of which he regards as forgeries that may still carry some legitimate data or documents. The era, he argues, is usually remembered through Project Sign, Project Grudge, Project Blue Book and the 1952 Washington, D.C. sightings, with little attention to the program that found crash retrievals and ran reverse engineering; Sarbacher offers a rare look at it. He closes by asking viewers whether the Wright Field meeting was what gave Sarbacher the confidence to tell Smith the subject was classified above the H-bomb.
 
 ## Key Claims
 

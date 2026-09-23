@@ -14,7 +14,7 @@ Faga left the Air Force for MITRE, where he worked on ground sensors used in Vie
 
 ## Alleged Role in UAP Programs
 
-UAP Gerb counts Faga among thirteen officials with NRO ties he considers likely legacy-program members or gatekeepers. He points to the Program B lineage Faga shares with [[Everett Heinman]], to his repeated movement between MITRE and the intelligence community, and to a quotation in the NRO's *Leaders of the NRO* series that the host paraphrases as praising intelligence gathered with ideas that do not conform to known physics.
+UAP Gerb counts Faga among thirteen officials with NRO ties he considers likely legacy-program members or gatekeepers. He points to the Program B lineage Faga shares with [[Everett Heinman]], to his repeated movement between MITRE and the intelligence community, and to a quotation in the NRO's *Leaders of the NRO* series that Gerb paraphrases as praising intelligence gathered with ideas that do not conform to known physics.
 
 ## Sources
 

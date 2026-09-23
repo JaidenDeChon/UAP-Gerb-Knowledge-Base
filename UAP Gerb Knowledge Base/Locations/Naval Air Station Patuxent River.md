@@ -20,9 +20,9 @@ In *[[Off-World Technologies Division – UAP Technology Reverse Engineering]]*,
 
 - **The Pais patents.** Navy aerospace engineer [[Salvatore Pais]], working at Pax River, filed a patent for a triangle- or diamond-shaped craft that manipulates fields and the quantum vacuum around itself. The video likens it to the alleged [[TR-3B]]. NAVAIR's chief technology officer, James Sheehy, backed it.
 - **Kobitz's inquiries.** Former Navy science and technology official [[Nat Kobitz]] told [[Ross Coulthart]] that his discreet inquiries at NAVAIR and Pax River turned up no one who knew anything about Pais or his patents.
-- **SAIC.** Pax River, like Crane, has a long history of contracts with [[SAIC]], the contractor the host considers the likely private partner at Crane.
+- **SAIC.** Pax River, like Crane, has a long history of contracts with [[SAIC]], the contractor Gerb considers the likely private partner at Crane.
 
-On this basis the host suggests that non-human technology reverse-engineering work similar to the alleged Crane division may also be conducted at Pax River.
+On this basis Gerb suggests that non-human technology reverse-engineering work similar to the alleged Crane division may also be conducted at Pax River.
 
 ## Sources
 

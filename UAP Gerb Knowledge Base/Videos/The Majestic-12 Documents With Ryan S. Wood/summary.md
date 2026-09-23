@@ -29,11 +29,11 @@ stats:
 
 ## Overview
 
-This video is UAP Gerb's documentary and long-form interview with researcher [[Ryan S. Wood]], author of *Magic Eyes Only*, on the authenticity, origin and context of the [[MJ-12 Documents]]. By Wood's count, these alleged classified papers amount to about 3,500 pages, leaked to UFO researchers from seven different sources over 19 years, between 1984 and 1999. They describe [[Majestic 12]] (MJ-12), a committee of military leaders, officials and scientists said to have been created by a classified order of President [[Harry Truman]] on 24 September 1947 to recover and study crashed craft and their occupants. The host argues that the documents cannot be dismissed on the strength of the FBI's "bogus" stamp or the work of professional sceptics. Instead they must be studied on their own terms: their origins, content, provenance and connections to other Majestic documents and to acknowledged, declassified files.
+This video is UAP Gerb's documentary and long-form interview with researcher [[Ryan S. Wood]], author of *Magic Eyes Only*, on the authenticity, origin and context of the [[MJ-12 Documents]]. By Wood's count, these alleged classified papers amount to about 3,500 pages, leaked to UFO researchers from seven different sources over 19 years, between 1984 and 1999. They describe [[Majestic 12]] (MJ-12), a committee of military leaders, officials and scientists said to have been created by a classified order of President [[Harry Truman]] on 24 September 1947 to recover and study crashed craft and their occupants. Gerb argues that the documents cannot be dismissed on the strength of the FBI's "bogus" stamp or the work of professional sceptics. Instead they must be studied on their own terms: their origins, content, provenance and connections to other Majestic documents and to acknowledged, declassified files.
 
 Most of the video concerns the two documents Wood and his father, former McDonnell Douglas engineer [[Robert Wood]], rate as most authentic. The first is the [[Eisenhower Briefing Document]], leaked to [[Jaime Shandera]] in 1984. The second is the [[Special Operations Manual (SOM 1-01)]], a 1954 field manual that reached [[Don Berliner]] on undeveloped film in 1994. The Woods also rate the [[Interplanetary Phenomenon Unit]] documents highly, because the government has acknowledged that the unit existed. Wood presents his authentication evidence: a retired Government Printing Office supervisor who identified hot-lead printing artifacts, period spelling and abbreviations, and two men on [[Kirtland Air Force Base, New Mexico|Kirtland Air Force Base]] whose initials match the manual's control page. He then answers the main objections, above all [[John B. Alexander]]'s claim that the manual was disinformation aimed at the Soviets.
 
-The second half follows the leaks themselves: the sources who fed documents to [[Tim Cooper]], including the pseudonymous [[Thomas Cantwheel]], whom a Reddit researcher identifies as CIA translator Boris Tarasoff; the [[Bowen Manuscript]] with its alleged [[Vannevar Bush]] annotations; and a thread of documents connecting MJ-12 to [[John F. Kennedy]]. It closes on a theory the host and Wood share. They argue that the [[Atomic Energy Act of 1954]] framework moved control of the subject away from the Air Force officers running it, which would explain why post-1954 documents thin out and why someone decided to leak. The host concludes that MJ-12 "likely was and possibly is" a real group, and that the documents are the best available snapshot of the early days of UFO crash retrieval.
+The second half follows the leaks themselves: the sources who fed documents to [[Tim Cooper]], including the pseudonymous [[Thomas Cantwheel]], whom a Reddit researcher identifies as CIA translator Boris Tarasoff; the [[Bowen Manuscript]] with its alleged [[Vannevar Bush]] annotations; and a thread of documents connecting MJ-12 to [[John F. Kennedy]]. It closes on a theory Gerb and Wood share. They argue that the [[Atomic Energy Act of 1954]] framework moved control of the subject away from the Air Force officers running it, which would explain why post-1954 documents thin out and why someone decided to leak. Gerb concludes that MJ-12 "likely was and possibly is" a real group, and that the documents are the best available snapshot of the early days of UFO crash retrieval.
 
 ## Chronology
 
@@ -41,7 +41,7 @@ The documents describe events from 1947 to the 1960s, but they reached the publi
 
 ::wiki-timeline{video="vzB87RJkQVU" video-title="The Majestic-12 Documents"}
 ---
-help: "The bar pinned above the entries is a ruler from 1947 to 1999. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The first two chapters are dated by what the Majestic documents themselves claim; the last follows the leaks and the research into them. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line capped with a downward arrow is where the host is. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Timestamps jump the mini-player to that moment."
+help: "The bar pinned above the entries is a ruler from 1947 to 1999. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The first two chapters are dated by what the Majestic documents themselves claim; the last follows the leaks and the research into them. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line capped with a downward arrow is where Gerb is. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Timestamps jump the mini-player to that moment."
 eras:
   - id: founding
     label: "Roswell and the founding"
@@ -53,7 +53,7 @@ eras:
     label: "After the manual"
     from: 1954
     to: 1983
-    summary: "SOM 1-01 is written in 1954. Afterwards, the host and Wood argue, the documents lose detail as the atomic energy framework moves control elsewhere. Kennedy enters the story."
+    summary: "SOM 1-01 is written in 1954. Afterwards, Gerb and Wood argue, the documents lose detail as the atomic energy framework moves control elsewhere. Kennedy enters the story."
     anchor: "the-1954-turning-point"
   - id: leaks
     label: "The leaks"
@@ -68,7 +68,7 @@ events:
   - date: "1947-07-04"
     title: "IPU Field Order issued"
     cue: 1170
-    summary: "The Majestic document known as the Interplanetary Phenomenon Unit Field Order, dated 4 July 1947, concerns a situation that occurred the previous day and requests personnel including an aeronautical engineer and a medical doctor cleared on a 'need to know' basis. The host notes the date falls just before the Roswell crash."
+    summary: "The Majestic document known as the Interplanetary Phenomenon Unit Field Order, dated 4 July 1947, concerns a situation that occurred the previous day and requests personnel including an aeronautical engineer and a medical doctor cleared on a 'need to know' basis. Gerb notes the date falls just before the Roswell crash."
     category: document
     significance: notable
     entities:
@@ -179,7 +179,7 @@ events:
   - date: "1954"
     title: "Atomic Energy Act and the 'rug pulled' theory"
     cue: 4617
-    summary: "The host theorises that the 1954 atomic energy framework, which the 2024 Schumer legislation connects to 'transclassified' non-human materials, drastically changed MJ-12 record-keeping: Majestic documents dated after 1954 carry far less operational detail. Wood agrees, suggesting Air Force officers had 'the rug pulled out' as control moved elsewhere, a possible motive for the leaks."
+    summary: "Gerb theorises that the 1954 atomic energy framework, which the 2024 Schumer legislation connects to 'transclassified' non-human materials, drastically changed MJ-12 record-keeping: Majestic documents dated after 1954 carry far less operational detail. Wood agrees, suggesting Air Force officers had 'the rug pulled out' as control moved elsewhere, a possible motive for the leaks."
     category: policy
     significance: major
     entities:
@@ -319,7 +319,7 @@ events:
   - date: "1996"
     title: "Jan Aldrich's critique of SOM 1-01"
     cue: 3448
-    summary: "Researcher Jan Aldrich criticised the manual mainly for what it leaves out, such as instructions to grid, photograph and tag a crash scene, and for its use of 'satellites' before Sputnik and its mixing of 'MJ-12', 'Magic 12' and 'Majestic 12'. The host considers most of it fluff but worth understanding."
+    summary: "Researcher Jan Aldrich criticised the manual mainly for what it leaves out, such as instructions to grid, photograph and tag a crash scene, and for its use of 'satellites' before Sputnik and its mixing of 'MJ-12', 'Magic 12' and 'Majestic 12'. Gerb considers most of it fluff but worth understanding."
     category: document
     significance: minor
     entities:
@@ -384,19 +384,19 @@ entries:
 
 Wood argues that the network went well beyond the twelve. The White Hot Report, which he describes as the product of the team that worked on Roswell through the summer of 1947, lists a mission roster including Captain Charles Buchanan (whom Wood has never been able to identify), Colonel Robert Ginsburg, Captain Richard Glass, Carl Helin, Major General Stephen Chamberlain (Assistant Chief of Staff for Intelligence, over the IPU), Admiral Paul Lee, [[Leslie Groves]], James Leahy Jr., Treasury finance officer Thomas Lynch, Theodore von Kármán, [[J. Robert Oppenheimer]], James Doolittle and "Professor Einstein" ([[Einstein]]). Wood also calls the IPU Report's second autopsist, Dr. Charles Ethan Ray, a medical corps expert who worked with Groves on the Manhattan Project. When Wood called Ray's daughter in Seattle, she said without hesitation that her father was exactly the kind of man who would have been asked to do such work. [[Eric A. Walker]], a protégé of Bush who later led his organisation, confirmed MJ-12's existence to researcher [[William Steinman]] and admitted being present at the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg crash]].
 
-The video offers three theories for the name. Researcher "Blocked Epistemology" derives "Majic" from the 1945 May–Johnson atomic energy bill, while Reddit's "Harry is White Hot" sees a continuation of the wartime MAGIC classification. The host prefers an abbreviation for a joint intelligence committee.
+The video offers three theories for the name. Researcher "Blocked Epistemology" derives "Majic" from the 1945 May–Johnson atomic energy bill, while Reddit's "Harry is White Hot" sees a continuation of the wartime MAGIC classification. Gerb prefers an abbreviation for a joint intelligence committee.
 
 ## The Eisenhower Briefing Document
 
-The first Majestic document is a Top Secret MAJIC Eyes Only briefing for President-elect [[Dwight D. Eisenhower]], dated 18 November 1952. It describes Operation Majestic 12 as a top secret research and development and intelligence operation reporting only to the President, set up by Truman's classified order of 24 September 1947. That day, Truman's appointment records show a meeting with Forrestal and Bush arranged at Forrestal's suggestion. The document recounts the 1947 wave of sightings and the [[Roswell Crash]], which led to [[Project Sign]], Grudge and [[Project Blue Book]]; these public projects had "very limited interaction" with MJ-12. The host connects this to [[Steven Lovekin]]'s account of Roswell debris held in a classified part of Blue Book. The document also describes the December 1950 crash near El Indio, Texas, with [[Atomic Energy Commission]] and [[Sandia National Laboratories]] involvement (see [[1950 El Indio UFO Crash]]), which [[Luis Elizondo]] described in his 2024 book *Imminent*. It closes with a contingency plan for public disclosure.
+The first Majestic document is a Top Secret MAJIC Eyes Only briefing for President-elect [[Dwight D. Eisenhower]], dated 18 November 1952. It describes Operation Majestic 12 as a top secret research and development and intelligence operation reporting only to the President, set up by Truman's classified order of 24 September 1947. That day, Truman's appointment records show a meeting with Forrestal and Bush arranged at Forrestal's suggestion. The document recounts the 1947 wave of sightings and the [[Roswell Crash]], which led to [[Project Sign]], Grudge and [[Project Blue Book]]; these public projects had "very limited interaction" with MJ-12. Gerb connects this to [[Steven Lovekin]]'s account of Roswell debris held in a classified part of Blue Book. The document also describes the December 1950 crash near El Indio, Texas, with [[Atomic Energy Commission]] and [[Sandia National Laboratories]] involvement (see [[1950 El Indio UFO Crash]]), which [[Luis Elizondo]] described in his 2024 book *Imminent*. It closes with a contingency plan for public disclosure.
 
-Given to the FBI, the document was circulated to other agencies. None said it had lost the document, and the FBI declared it bogus. [[Stanton Friedman]] found several 18 November 1952 briefings for Eisenhower in Office of the Secretary of Defense files in 1989, none mentioning MJ-12 but confirming the date. Friedman judged that the briefing document, the Truman–Forrestal memo and the Cutler–Twining memo "are almost certainly genuine" and SOM 1-01 "very likely genuine". The host also points to other Hillenkoetter documents: a 19 September 1947 memo to the Joint Intelligence Committee requesting a classified project after "we recovered one craft", and an 11 February 1948 "Majestic Black Book" summary for Truman.
+Given to the FBI, the document was circulated to other agencies. None said it had lost the document, and the FBI declared it bogus. [[Stanton Friedman]] found several 18 November 1952 briefings for Eisenhower in Office of the Secretary of Defense files in 1989, none mentioning MJ-12 but confirming the date. Friedman judged that the briefing document, the Truman–Forrestal memo and the Cutler–Twining memo "are almost certainly genuine" and SOM 1-01 "very likely genuine". Gerb also points to other Hillenkoetter documents: a 19 September 1947 memo to the Joint Intelligence Committee requesting a classified project after "we recovered one craft", and an 11 February 1948 "Majestic Black Book" summary for Truman.
 
 ## The Special Operations Manual (SOM 1-01)
 
 SOM 1-01, *Extraterrestrial Entities and Technology, Recovery and Disposal*, arrived in 1994. Aviation writer [[Don Berliner]] received it as undeveloped 35 mm Tri-X film in a small green box, and he and [[Robert Wood]] developed it. It photographs a binder stamped Top Secret MAJIC Eyes Only. The control page reads Kirtland Air Force Base, Unit KB-88, Building 21, "N.Mex", and records changes by MJ-01 and MJ-04, initialled EWL and JRT, from 1954 to 1958. Written in 1954 for "Majestic 12 units" and "authorized personnel", it summarises the group's purpose. MJ-12 regards UFOs as a matter of the very highest national security, and its goals are recovery of all non-terrestrial materials and entities, special teams, secret secure facilities, covert operations with the [[CIA]] at home and abroad, and absolute secrecy. As of 1954 it held that the visitors were a benign presence, far ahead of human science.
 
-The manual describes four craft configurations. The host notes that the triangle and the "ice cream cone" shape are among the earliest references to forms later reported in the 1976 Tehran and Cash–Landrum cases.
+The manual describes four craft configurations. Gerb notes that the triangle and the "ice cream cone" shape are among the earliest references to forms later reported in the 1976 Tehran and Cash–Landrum cases.
 
 ::wiki-compare{video="vzB87RJkQVU" video-title="The Majestic-12 Documents [With Ryan S. Wood]"}
 ---
@@ -411,7 +411,7 @@ rows:
   - attribute: "Shape"
     cells:
       - { text: "Two pie pans or shallow dishes pressed together, dull metallic, with a dome", cue: 1896 }
-      - { text: "A cigar; the host adds \"Tic Tacs\"", cue: 1937 }
+      - { text: "A cigar; Gerb adds \"Tic Tacs\"", cue: 1937 }
       - { text: "An ice-cream cone: round at the large end, tapering to a near point", cue: 1956 }
       - { text: "An isosceles triangle", cue: 1975 }
   - attribute: "Size"
@@ -447,7 +447,7 @@ rows:
 ---
 ::
 
-It also describes two kinds of extraterrestrial biological entity (EBE). The host credits artist Bill McDonald for the renderings shown in the video.
+It also describes two kinds of extraterrestrial biological entity (EBE). Gerb credits artist Bill McDonald for the renderings shown in the video.
 
 ::wiki-compare{video="vzB87RJkQVU" video-title="The Majestic-12 Documents [With Ryan S. Wood]"}
 ---
@@ -497,7 +497,7 @@ rows:
 ---
 ::
 
-Materials from crashes between 1947 and 1953 (Roswell to Kingman, the host notes) are described as unknown to terrestrial science. They are extremely strong for their weight, resemble aluminium foil or magnesium sheeting, and bear inscriptions, matching [[Jesse Marcel]]'s Roswell account. The press-blackout section prescribes media denial, discrediting witnesses and deceptive statements. The host sees here the machinery behind [[UFO Stigma]], the [[Robertson Panel]] and the [[Condon Committee]]. Any craft or device that appears functional is assigned to "Red Team"; the host compares this with Randy Anderson's account of a recovered item treated as a weapon because it discharged energy. Wood recalls Blue Fly and blue teams, and says Wright-Patterson calls its facility the "blue lab". Section 16 directs that, should public disclosure become necessary, the team issue Contingency Plan MJ-1949-04P/78, the plan the Eisenhower Briefing Document cites.
+Materials from crashes between 1947 and 1953 (Roswell to Kingman, Gerb notes) are described as unknown to terrestrial science. They are extremely strong for their weight, resemble aluminium foil or magnesium sheeting, and bear inscriptions, matching [[Jesse Marcel]]'s Roswell account. The press-blackout section prescribes media denial, discrediting witnesses and deceptive statements. Gerb sees here the machinery behind [[UFO Stigma]], the [[Robertson Panel]] and the [[Condon Committee]]. Any craft or device that appears functional is assigned to "Red Team"; Gerb compares this with Randy Anderson's account of a recovered item treated as a weapon because it discharged energy. Wood recalls Blue Fly and blue teams, and says Wright-Patterson calls its facility the "blue lab". Section 16 directs that, should public disclosure become necessary, the team issue Contingency Plan MJ-1949-04P/78, the plan the Eisenhower Briefing Document cites.
 
 Section 17, the Extraterrestrial Classification Table, sends each kind of recovered material to its own facility:
 
@@ -523,7 +523,7 @@ root:
 ---
 ::
 
-The Blue Room connects to a clip the host plays from his whistleblower coverage, in which Senator [[Barry Goldwater]] recalls asking General [[Curtis LeMay]] for access to the room at [[Wright-Patterson Air Force Base|Wright-Patterson]]. LeMay "got mad as hell" and told him never to ask again. The manual adds packaging and shipping rules for living EBEs, noting that "loss of EBE life is acceptable".
+The Blue Room connects to a clip Gerb plays from his whistleblower coverage, in which Senator [[Barry Goldwater]] recalls asking General [[Curtis LeMay]] for access to the room at [[Wright-Patterson Air Force Base|Wright-Patterson]]. LeMay "got mad as hell" and told him never to ask again. The manual adds packaging and shipping rules for living EBEs, noting that "loss of EBE life is acceptable".
 
 ## Authenticating the manual
 
@@ -536,13 +536,13 @@ Wood lays out the evidence that he and his father gathered for SOM 1-01:
 - **A witness.** Navy yeoman Dale Bailey alleges he saw the manual in 1976 while helping an admiral destroy classified UFO material; Wood is searching his father's archive for files on him.
 - **The film.** The Tri-X film was dated to 1954.
 
-The Woods also rate the IPU documents among their highest, because the government acknowledged the unit exists. Richard Hall's FOIA request revealed it on 6 September 1980, and [[William Steinman]] confirmed it in 1984. The Army said its records went to Blue Book, and in the 1990s the government said they had been destroyed. The IPU Field Order of 4 July 1947 asks for an aeronautical engineer and a doctor for a situation the day before. The IPU Report, public from July 1995 and attributed to [[General Samford|John A. Samford]] with approval from CIA director Allen Dulles, gives the Roswell crash time as 23:32 Mountain Standard Time and describes two sites. At the debris field seen by Mac Brazel and Marcel, investigators first suspected a Project Mogul balloon until Los Alamos personnel judged the wreckage "out of this world". The report also describes a radiobiological team and security detail from Sandia, and names Oppenheimer and [[Wernher von Braun]] among the scientists. It mentions bodies apparently dissected "similar to a frog", contamination deaths among Sandia personnel (which the host links to the [[1974 Coyame, Mexico UFO Crash Retrieval|1974 Coyame case]]), and says that "some of the recovery operation was shared with representative John F. Kennedy". The host adds that the Air Force's 1994 Roswell report blamed Mogul flight 4 of 4 June 1947, a flight he says the project's field operations director's records show was cancelled because of weather.
+The Woods also rate the IPU documents among their highest, because the government acknowledged the unit exists. Richard Hall's FOIA request revealed it on 6 September 1980, and [[William Steinman]] confirmed it in 1984. The Army said its records went to Blue Book, and in the 1990s the government said they had been destroyed. The IPU Field Order of 4 July 1947 asks for an aeronautical engineer and a doctor for a situation the day before. The IPU Report, public from July 1995 and attributed to [[General Samford|John A. Samford]] with approval from CIA director Allen Dulles, gives the Roswell crash time as 23:32 Mountain Standard Time and describes two sites. At the debris field seen by Mac Brazel and Marcel, investigators first suspected a Project Mogul balloon until Los Alamos personnel judged the wreckage "out of this world". The report also describes a radiobiological team and security detail from Sandia, and names Oppenheimer and [[Wernher von Braun]] among the scientists. It mentions bodies apparently dissected "similar to a frog", contamination deaths among Sandia personnel (which Gerb links to the [[1974 Coyame, Mexico UFO Crash Retrieval|1974 Coyame case]]), and says that "some of the recovery operation was shared with representative John F. Kennedy". Gerb adds that the Air Force's 1994 Roswell report blamed Mogul flight 4 of 4 June 1947, a flight he says the project's field operations director's records show was cancelled because of weather.
 
 Beyond the leaks, Wood points to documents with the MJ-12 designation in official collections. One is the 1954 Cutler–Twining memo from Robert Cutler of the National Security Council, referring to an "NSC/MJ-12 Special Studies Project", which Wood describes as original onion-skin paper. Another is a Joint Intelligence Objectives Agency memo on a Paperclip project, held at College Park, Maryland, marked "CIA/MJ-12".
 
 ## Objections and replies
 
-The video weighs each major objection against an answer, from Ryan Wood or from the host's own research. The objections are mostly the sceptics' standard case against SOM 1-01, and one is [[John B. Alexander]]'s. In a clip the video plays, Alexander also says MJ-12 "was real" but "had absolutely nothing to do with UFOs".
+The video weighs each major objection against an answer, from Ryan Wood or from Gerb's own research. The objections are mostly the sceptics' standard case against SOM 1-01, and one is [[John B. Alexander]]'s. In a clip the video plays, Alexander also says MJ-12 "was real" but "had absolutely nothing to do with UFOs".
 
 ::wiki-claim{video="vzB87RJkQVU" video-title="The Majestic-12 Documents [With Ryan S. Wood]"}
 ---
@@ -566,7 +566,7 @@ claims:
     text: "The manual never tells teams to grid, photograph and tag a scene. It uses \"satellites\" before Sputnik, and it mixes \"MJ-12\", \"Magic 12\" and \"Majestic 12\"."
     cue: 3446
     responses:
-      - by: "The host"
+      - by: "Gerb"
         stance: challenges
         text: "Much of it is fluff and cherry-picking. \"Satellite\" was commonly used for space debris at the time. He still thinks the criticisms are worth understanding when reading the document."
         cue: 3473
@@ -575,7 +575,7 @@ claims:
     text: "A document cannot be both Top Secret and Restricted, since Restricted ranked below Confidential."
     cue: 3303
     responses:
-      - by: "The host"
+      - by: "Gerb"
         stance: challenges
         text: "Under the 1947 Atomic Energy Act, Restricted Data is a category of information, \"born classified\" whoever created it, not a level. The manual was also written while the Restricted level was being phased out, during a changeover the press reported as drawn out."
         cue: 3319
@@ -593,7 +593,7 @@ claims:
     text: "The cover's variable and drop-shadow fonts look wrong for a government manual."
     cue: 3262
     responses:
-      - by: "The host"
+      - by: "Gerb"
         stance: challenges
         text: "Army field manuals of the period use the same styling, as does the 24 October 1952 memo creating the NSA."
         cue: 3268
@@ -653,23 +653,23 @@ root:
 ---
 ::
 
-Cantwheel wrote to Cooper near death from cancer, saying he had served in the Counter Intelligence Corps' [[Interplanetary Phenomenon Unit]] from 1942 to 1958, worked in CIA covert operations in the 1960s, and dealt with the "Majestic community" and the 5412 group. Cooper set out his findings in a five-page affidavit shared with Friedman and Robert Wood. The host presents Reddit researcher "Harry is White Hot"'s case that Cantwheel was Boris Tarasoff. Tarasoff was a Russian-born Counter Intelligence Corps officer (1942–1945) trained at Camp Ritchie, Maryland, about 70 miles from Washington, and at the advanced CIC school in Oberammergau, Germany. From 1945 to 1956 he did building maintenance for the American Red Cross in Cleveland, which the researcher suggests was cover for IPU work near [[Wright Field]]. He then served in the CIA from 1956 to 1968. A 1998 CIA release placed Tarasoff, born in 1908, in San Leandro, California, where Cooper believed Cantwheel lived, and he would have been 88 at the time.
+Cantwheel wrote to Cooper near death from cancer, saying he had served in the Counter Intelligence Corps' [[Interplanetary Phenomenon Unit]] from 1942 to 1958, worked in CIA covert operations in the 1960s, and dealt with the "Majestic community" and the 5412 group. Cooper set out his findings in a five-page affidavit shared with Friedman and Robert Wood. Gerb presents Reddit researcher "Harry is White Hot"'s case that Cantwheel was Boris Tarasoff. Tarasoff was a Russian-born Counter Intelligence Corps officer (1942–1945) trained at Camp Ritchie, Maryland, about 70 miles from Washington, and at the advanced CIC school in Oberammergau, Germany. From 1945 to 1956 he did building maintenance for the American Red Cross in Cleveland, which the researcher suggests was cover for IPU work near [[Wright Field]]. He then served in the CIA from 1956 to 1968. A 1998 CIA release placed Tarasoff, born in 1908, in San Leandro, California, where Cooper believed Cantwheel lived, and he would have been 88 at the time.
 
-The [[Bowen Manuscript]], Vernon Bowen's *Encyclopedia of Flying Saucers*, is one of the few original paper documents. Its ink, dated to about 1962, carries notes the Woods attribute to Bush. The notes include "what is Don Menzel doing?", underlining of passages about insect-like beings (which the host links to [[Robert Sarbacher]]'s account) and about Mussolini and Hitler seeing a craft in 1942 (recalling the [[1933 Magenta UFO CrashRetrieval|1933 Magenta case]]), and the word "Moondust". [[Project Moondust]], proposed by the Air Force in 1961 with Blue Fly to recover "descended foreign space vehicles", was mainly for space junk but also covered "down saucers", Wood says. Beside a passage asking whether some saucers were secret American craft, the manuscript reads "this should not get out". Wood takes that as evidence of concern about exposing gravity-control work.
+The [[Bowen Manuscript]], Vernon Bowen's *Encyclopedia of Flying Saucers*, is one of the few original paper documents. Its ink, dated to about 1962, carries notes the Woods attribute to Bush. The notes include "what is Don Menzel doing?", underlining of passages about insect-like beings (which Gerb links to [[Robert Sarbacher]]'s account) and about Mussolini and Hitler seeing a craft in 1942 (recalling the [[1933 Magenta UFO CrashRetrieval|1933 Magenta case]]), and the word "Moondust". [[Project Moondust]], proposed by the Air Force in 1961 with Blue Fly to recover "descended foreign space vehicles", was mainly for space junk but also covered "down saucers", Wood says. Beside a passage asking whether some saucers were secret American craft, the manuscript reads "this should not get out". Wood takes that as evidence of concern about exposing gravity-control work.
 
 ## The Kennedy thread
 
-The host explores the documents' connections to [[John F. Kennedy]], a subject then in the news with Ross Coulthart's *Reality Check*. The IPU Report says part of the Roswell recovery was shared with Kennedy while he was a congressman. A 1961 Majestic document allegedly has Kennedy asking the Director of Central Intelligence for an update on MJ-12 psychological warfare plans. Another is a retyped NSA intercept of Kennedy discussing UFOs on the hotline with the Soviet premier. About a week before his death, Kennedy issued a National Security Action Memorandum to NASA's [[James E. Webb]] on sharing space knowledge with the Soviets. Wood reads it as sharing "the knowns and the unknowns", which he offers as one more possible reason for the assassination.
+Gerb explores the documents' connections to [[John F. Kennedy]], a subject then in the news with Ross Coulthart's *Reality Check*. The IPU Report says part of the Roswell recovery was shared with Kennedy while he was a congressman. A 1961 Majestic document allegedly has Kennedy asking the Director of Central Intelligence for an update on MJ-12 psychological warfare plans. Another is a retyped NSA intercept of Kennedy discussing UFOs on the hotline with the Soviet premier. About a week before his death, Kennedy issued a National Security Action Memorandum to NASA's [[James E. Webb]] on sharing space knowledge with the Soviets. Wood reads it as sharing "the knowns and the unknowns", which he offers as one more possible reason for the assassination.
 
-The Burned Memo, sent to Cooper in June 1999, is said to be among the last paper MJ-12 records after a Nixon order to destroy them and move the files onto computers. Allegedly pulled from a fire, it runs from MJ-1, the Director of Central Intelligence, to MJ-2 through MJ-7, and says: "As you must know, LANCER has made some inquiries regarding our activities which we cannot allow." The host also notes that JFK records released in 2023 name CIA officer Ruben Efron as intercepting Lee Harvey Oswald's mail before the assassination. The same Efron appears in an October 1955 Central Intelligence Bulletin as one of four US personnel who saw disc-shaped UFOs from a train near the Caspian Sea. Tarasoff's 1963 Mexico City transcriptions, the host adds, were used as evidence of Oswald's visits to Soviet compounds.
+The Burned Memo, sent to Cooper in June 1999, is said to be among the last paper MJ-12 records after a Nixon order to destroy them and move the files onto computers. Allegedly pulled from a fire, it runs from MJ-1, the Director of Central Intelligence, to MJ-2 through MJ-7, and says: "As you must know, LANCER has made some inquiries regarding our activities which we cannot allow." Gerb also notes that JFK records released in 2023 name CIA officer Ruben Efron as intercepting Lee Harvey Oswald's mail before the assassination. The same Efron appears in an October 1955 Central Intelligence Bulletin as one of four US personnel who saw disc-shaped UFOs from a train near the Caspian Sea. Tarasoff's 1963 Mexico City transcriptions, Gerb adds, were used as evidence of Oswald's visits to Soviet compounds.
 
 ## The 1954 turning point
 
-The host observes that nearly all Majestic documents are a snapshot of the 1940s and 1950s. After SOM 1-01 in 1954, documents lose their detail on operations, scope and purpose, and the history effectively stops with the Fifth Annual Report in the mid-1950s. He ties this to the 1954 atomic energy framework, which the 2024 Schumer legislation connects to non-human craft, materials and bodies held as "transclassified" nuclear materials. Wood agrees: the Air Force officers responsible "got the rug pulled out" from under them, control moved "someplace else", and one of them, angry, may have taken the manual and later leaked it. The host adds that the leaks came in 1984–1999, when public interest was low after the Robertson Panel and Condon Committee, and only researchers like [[Leonard Stringfield]] were studying crash retrievals seriously.
+Gerb observes that nearly all Majestic documents are a snapshot of the 1940s and 1950s. After SOM 1-01 in 1954, documents lose their detail on operations, scope and purpose, and the history effectively stops with the Fifth Annual Report in the mid-1950s. He ties this to the 1954 atomic energy framework, which the 2024 Schumer legislation connects to non-human craft, materials and bodies held as "transclassified" nuclear materials. Wood agrees: the Air Force officers responsible "got the rug pulled out" from under them, control moved "someplace else", and one of them, angry, may have taken the manual and later leaked it. Gerb adds that the leaks came in 1984–1999, when public interest was low after the Robertson Panel and Condon Committee, and only researchers like [[Leonard Stringfield]] were studying crash retrievals seriously.
 
 As for MJ-12 today, Wood suspects the group keeps its name, "such a rare club", but has split into compartments: at the least, hardware and bodies, each with further compartments allowing work with private companies. He names the [[Aerospace Corporation]], the [[Carlyle Group]], [[EG&G]] and, historically, the [[RAND Corporation]], which is "up to their eyeballs in this stuff". He also explains how his father became involved. Around 1967 Robert Wood persuaded Douglas Aircraft to spend internal research money, the equivalent of about 4.5 million dollars over a couple of years, on gravity experiments, theory and interviews with abductees, and hired Stanton Friedman to study nuclear propulsion. None of that work had access to classified information.
 
-The host closes by recommending Wood's *Magic Eyes Only*, Friedman's *Top Secret/Majic*, the Majestic Documents website and Wood's UFO DX, a ChatGPT tool trained on 500–800 UFO books. He says his own view has moved. He once thought the files a mix of information and disinformation; he now believes MJ-12 "likely was and possibly is" a real group. He adds that not every document can be vouched for, since most survive only as film or photocopies.
+Gerb closes by recommending Wood's *Magic Eyes Only*, Friedman's *Top Secret/Majic*, the Majestic Documents website and Wood's UFO DX, a ChatGPT tool trained on 500–800 UFO books. He says his own view has moved. He once thought the files a mix of information and disinformation; he now believes MJ-12 "likely was and possibly is" a real group. He adds that not every document can be vouched for, since most survive only as film or photocopies.
 
 ## Key Claims
 
@@ -685,7 +685,7 @@ The host closes by recommending Wood's *Magic Eyes Only*, Friedman's *Top Secret
 - The pseudonymous leaker Thomas Cantwheel claimed IPU and CIA service. Researcher "Harry is White Hot" identifies him as CIA translator Boris Tarasoff, whose 1963 Mexico City work touched the Oswald surveillance.
 - The Bowen Manuscript, returned through FOIA in 1999, bears notes attributed to Vannevar Bush, including "this should not get out" beside speculation about American gravity-control craft.
 - The Burned Memo (sent to Tim Cooper in 1999) says "LANCER" (Kennedy) had made inquiries "which we cannot allow".
-- The host and Wood theorise that the 1954 atomic energy framework moved control away from the Air Force officers running MJ-12, explaining the scarcity of detailed post-1954 documents and a motive to leak.
+- Gerb and Wood theorise that the 1954 atomic energy framework moved control away from the Air Force officers running MJ-12, explaining the scarcity of detailed post-1954 documents and a motive to leak.
 
 ## Sources
 

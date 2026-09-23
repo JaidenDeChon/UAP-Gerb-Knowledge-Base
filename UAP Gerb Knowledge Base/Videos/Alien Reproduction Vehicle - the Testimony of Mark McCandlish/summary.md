@@ -41,17 +41,17 @@ stats:
 
 ## Overview
 
-This video is UAP Gerb's full investigation of the [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicle]] (ARV). This is the saucer nicknamed the "Flux Liner" that industrial designer [[Brad Sorenson]] said he saw at a classified exhibit on the day of the 12 November 1988 [[Norton Air Force Base Air Show]]. His friend, the aerospace illustrator [[Mark McCandlish]], turned it into the best-known cutaway drawing in UFO literature. The prompt was a single sentence in [[Michael Shellenberger]]'s October 2024 article on the [[Immaculate Constellation (IMCON)|Immaculate Constellation]] report, which said the program could detect, quarantine and transfer "UAP and ARV" collection incidents. For the host, the term ARV is unambiguous: a vehicle built from non-human technology and operated by private aerospace or the US government.
+This video is UAP Gerb's full investigation of the [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicle]] (ARV). This is the saucer nicknamed the "Flux Liner" that industrial designer [[Brad Sorenson]] said he saw at a classified exhibit on the day of the 12 November 1988 [[Norton Air Force Base Air Show]]. His friend, the aerospace illustrator [[Mark McCandlish]], turned it into the best-known cutaway drawing in UFO literature. The prompt was a single sentence in [[Michael Shellenberger]]'s October 2024 article on the [[Immaculate Constellation (IMCON)|Immaculate Constellation]] report, which said the program could detect, quarantine and transfer "UAP and ARV" collection incidents. For Gerb, the term ARV is unambiguous: a vehicle built from non-human technology and operated by private aerospace or the US government.
 
-The video retells the story as McCandlish told it. Sorenson flew from Norton to [[Air Force Plant 42]] in Palmdale with a client McCandlish identified as former Secretary of Defense [[Frank Carlucci]]. Behind a black curtain he saw three hovering saucers, which a three-star general said could reach light speed or better, and in March 1989 McCandlish drew a blueprint from his description. The video's centrepiece is a document the host says has never been discussed publicly: Sorenson's 3 December 1990 interview with [[William B. Scott]] of [[Aviation Week and Space Technology]]. In it, Sorenson confirms the exhibit, the Aurora, the losing B-2 prototypes and the ARVs in his own words, and relays the briefers' account that the craft were copies of hardware taken in 1947. The host argues this answers the most common criticism of McCandlish, that his story was secondhand.
+The video retells the story as McCandlish told it. Sorenson flew from Norton to [[Air Force Plant 42]] in Palmdale with a client McCandlish identified as former Secretary of Defense [[Frank Carlucci]]. Behind a black curtain he saw three hovering saucers, which a three-star general said could reach light speed or better, and in March 1989 McCandlish drew a blueprint from his description. The video's centrepiece is a document Gerb says has never been discussed publicly: Sorenson's 3 December 1990 interview with [[William B. Scott]] of [[Aviation Week and Space Technology]]. In it, Sorenson confirms the exhibit, the Aurora, the losing B-2 prototypes and the ARVs in his own words, and relays the briefers' account that the craft were copies of hardware taken in 1947. Gerb argues this answers the most common criticism of McCandlish, that his story was secondhand.
 
-The second half follows McCandlish's own research. It covers other witnesses at [[Edwards Air Force Base]], at Norton and over Utah; his theory of the ARV as a giant Tesla coil tapping [[Zero Point Energy|zero-point energy]]; and his later talk of a secret space program. It ends with the deaths around the story. They include filmmaker [[James Allen]], whose documentary supplies many of the clips; [[Amy Eskridge]]; and McCandlish himself, found dead on 13 April 2021, two months before he was reportedly due to speak to Senate staff. Throughout, the host describes his own contact with Sorenson, who was hostile. Sorenson called McCandlish a fool who "could not keep his mouth shut" and said he had "protected Mark until he could not". He also warned the host that continuing would put him in mortal danger.
+The second half follows McCandlish's own research. It covers other witnesses at [[Edwards Air Force Base]], at Norton and over Utah; his theory of the ARV as a giant Tesla coil tapping [[Zero Point Energy|zero-point energy]]; and his later talk of a secret space program. It ends with the deaths around the story. They include filmmaker [[James Allen]], whose documentary supplies many of the clips; [[Amy Eskridge]]; and McCandlish himself, found dead on 13 April 2021, two months before he was reportedly due to speak to Senate staff. Throughout, Gerb describes his own contact with Sorenson, who was hostile. Sorenson called McCandlish a fool who "could not keep his mouth shut" and said he had "protected Mark until he could not". He also warned Gerb that continuing would put him in mortal danger.
 
 ## Chronology
 
 ::wiki-timeline{video="wF07QMm6joE" video-title="Alien Reproduction Vehicle - the Testimony of Mark McCandlish"}
 ---
-help: "The bar pinned above the entries is a ruler from 1945 to 2025. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line capped with a downward arrow is where the host is. The host opens in 2024, tells the 1988 story, and then returns to earlier sightings, so the playhead jumps around the ruler. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Timestamps jump the mini-player to that moment."
+help: "The bar pinned above the entries is a ruler from 1945 to 2025. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line capped with a downward arrow is where Gerb is. Gerb opens in 2024, tells the 1988 story, and then returns to earlier sightings, so the playhead jumps around the ruler. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Timestamps jump the mini-player to that moment."
 eras:
   - id: before
     label: "Before Norton"
@@ -141,7 +141,7 @@ events:
   - date: "1987"
     title: "Carlyle Group founded"
     cue: 514
-    summary: "The Carlyle Group was founded in 1987 under David Rubenstein. Frank Carlucci later chaired it from 1992 to 2003, and it owned EG&G from 1999 to 2001; the host suspects it is deeply involved with UAP programs."
+    summary: "The Carlyle Group was founded in 1987 under David Rubenstein. Frank Carlucci later chaired it from 1992 to 2003, and it owned EG&G from 1999 to 2001; Gerb suspects it is deeply involved with UAP programs."
     category: organization
     significance: minor
     entities:
@@ -202,7 +202,7 @@ events:
   - date: "1990-12-03"
     title: "Sorenson's Aviation Week interview"
     cue: 1395
-    summary: "In the only interview the host knows of, Sorenson confirmed to Bill Scott the exhibit, Cranston's presence, the losing B-2 prototypes, the Aurora and three faster-than-light ARVs copied from 1947 hardware. Scott never published the ARV portion, finding the flying-saucer claims hard to believe. Sorenson then went silent."
+    summary: "In the only interview Gerb knows of, Sorenson confirmed to Bill Scott the exhibit, Cranston's presence, the losing B-2 prototypes, the Aurora and three faster-than-light ARVs copied from 1947 hardware. Scott never published the ARV portion, finding the flying-saucer claims hard to believe. Sorenson then went silent."
     category: document
     significance: major
     entities:
@@ -222,7 +222,7 @@ events:
   - date: "2013"
     title: "James Allen's Zero Point documentary"
     cue: 3391
-    summary: "Filmmaker James Allen's documentary Zero Point: The Story of Mark McCandlish and the Flux Liner, which the host dates to 2014, supplies many of the video's clips. Allen fell ill and died about a month before its release; McCandlish said pathology found radioisotopes such as uranium, thorium, beryllium and cadmium in his system."
+    summary: "Filmmaker James Allen's documentary Zero Point: The Story of Mark McCandlish and the Flux Liner, which Gerb dates to 2014, supplies many of the video's clips. Allen fell ill and died about a month before its release; McCandlish said pathology found radioisotopes such as uranium, thorium, beryllium and cadmium in his system."
     category: document
     significance: notable
     entities:
@@ -248,7 +248,7 @@ events:
   - date: "2021-06"
     title: "McCandlish's alleged Senate testimony"
     cue: 3578
-    summary: "According to Robert D. Morning Star, McCandlish was due to testify to elements of the Senate on UAP in June 2021 and had been in contact with Senator Marco Rubio. The host asks whether that testimony was the final straw."
+    summary: "According to Robert D. Morning Star, McCandlish was due to testify to elements of the Senate on UAP in June 2021 and had been in contact with Senator Marco Rubio. Gerb asks whether that testimony was the final straw."
     category: event
     significance: notable
     entities:
@@ -279,7 +279,7 @@ events:
 
 ## The Term in the Record
 
-The host opens with the whistleblower report described in Shellenberger's article. It concerns Immaculate Constellation, an unacknowledged special access program said to consolidate UAP observations from both tasked and untasked collection platforms. What caught his eye was the report's conclusion that the program shows an existing capability to "detect, quarantine and transfer" UAP and ARV collection incidents before they circulate in the military intelligence enterprise. UAP, he says, is a grey term, but ARV is not. His cold open also includes a clip saying that a male staffer in Congressman Brown's office confirmed both the exhibit and its three hovering discs.
+Gerb opens with the whistleblower report described in Shellenberger's article. It concerns Immaculate Constellation, an unacknowledged special access program said to consolidate UAP observations from both tasked and untasked collection platforms. What caught his eye was the report's conclusion that the program shows an existing capability to "detect, quarantine and transfer" UAP and ARV collection incidents before they circulate in the military intelligence enterprise. UAP, he says, is a grey term, but ARV is not. His cold open also includes a clip saying that a male staffer in Congressman Brown's office confirmed both the exhibit and its three hovering discs.
 
 He poses the questions the video sets out to answer:
 
@@ -293,12 +293,12 @@ He poses the questions the video sets out to answer:
 
 McCandlish had planned to attend the Norton air show on 12 November 1988 with Sorenson, a fellow designer and inventor. He dropped out to finish lucrative design work for *Popular Science*, and Sorenson went with one of his own clients. About a week later McCandlish called him. Normally animated, Sorenson sounded almost depressed and said he thought he had seen something he was not supposed to see. Too nervous to talk on the phone, he met McCandlish for lunch, described the exhibit and sketched the craft on legal paper.
 
-Sorenson's client was a tall, wealthy white man with glasses and an Italian-sounding name, and a former Secretary or Under Secretary of Defense. Around the time of the Thunderbirds flyby, he led Sorenson away from the crowd. McCandlish first assumed they went to a hangar at Norton. Sorenson later said they boarded a military Boeing 727 with other military and civilian guests and flew north to Air Force Plant 42 at [[Palmdale, California|Palmdale]]. The hangar there, the host says, was where Lockheed originally built the L-1011 TriStar, and it now serves the [[Lockheed Martin Skunk Works|Skunk Works]]. According to Sorenson, Senator [[Alan Cranston]] of California and Congressman [[George E. Brown Jr.]] were on the flight. The video describes Brown as then chairing a congressional space science committee. At the door the client warned Sorenson that there were aircraft he was not cleared to see. He told him to walk around, listen and say nothing to anybody.
+Sorenson's client was a tall, wealthy white man with glasses and an Italian-sounding name, and a former Secretary or Under Secretary of Defense. Around the time of the Thunderbirds flyby, he led Sorenson away from the crowd. McCandlish first assumed they went to a hangar at Norton. Sorenson later said they boarded a military Boeing 727 with other military and civilian guests and flew north to Air Force Plant 42 at [[Palmdale, California|Palmdale]]. The hangar there, Gerb says, was where Lockheed originally built the L-1011 TriStar, and it now serves the [[Lockheed Martin Skunk Works|Skunk Works]]. According to Sorenson, Senator [[Alan Cranston]] of California and Congressman [[George E. Brown Jr.]] were on the flight. The video describes Brown as then chairing a congressional space science committee. At the door the client warned Sorenson that there were aircraft he was not cleared to see. He told him to walk around, listen and say nothing to anybody.
 
 ::wiki-map{video="wF07QMm6joE" video-title="Alien Reproduction Vehicle - the Testimony of Mark McCandlish"}
 ---
 label: "From the air show to the exhibit"
-caption: "Sorenson's reported flight from the Norton air show to the hangar at Plant 42, and the host's point that Plant 42 sits under 30 miles from Edwards. The dashed line joins the two airfields; it is not a flight path."
+caption: "Sorenson's reported flight from the Norton air show to the hangar at Plant 42, and Gerb's point that Plant 42 sits under 30 miles from Edwards. The dashed line joins the two airfields; it is not a flight path."
 pins:
   - name: "Norton Air Force Base"
     label: "Norton"
@@ -311,7 +311,7 @@ pins:
     cue: 429
   - name: "Edwards Air Force Base"
     label: "Edwards AFB"
-    note: "The base the host believes runs an ARV reverse-engineering and test program."
+    note: "The base Gerb believes runs an ARV reverse-engineering and test program."
     cue: 2887
 routes:
   - path: [1, 2]
@@ -320,9 +320,9 @@ routes:
 ---
 ::
 
-Sorenson never named the client, and McCandlish never confirmed it publicly, to protect him. But McCandlish concluded with high confidence that the client was Frank Carlucci, the 16th US Secretary of Defense. The host adds that Carlucci chaired the [[Carlyle Group]] from 1992 to 2003. The firm was founded in 1987 under David Rubenstein and drew senior statesmen such as George H. W. Bush, James Baker and John Major. It bought the electronics division of General Dynamics and invested in [[Northrop Grumman]]. From 1999 to 2001 it owned [[EG&G]], a company tied to [[Bob Lazar]]'s testimony, whose car park the host names as the site of the meeting behind the [[Wilson-Davis Memo]].
+Sorenson never named the client, and McCandlish never confirmed it publicly, to protect him. But McCandlish concluded with high confidence that the client was Frank Carlucci, the 16th US Secretary of Defense. Gerb adds that Carlucci chaired the [[Carlyle Group]] from 1992 to 2003. The firm was founded in 1987 under David Rubenstein and drew senior statesmen such as George H. W. Bush, James Baker and John Major. It bought the electronics division of General Dynamics and invested in [[Northrop Grumman]]. From 1999 to 2001 it owned [[EG&G]], a company tied to [[Bob Lazar]]'s testimony, whose car park Gerb names as the site of the meeting behind the [[Wilson-Davis Memo]].
 
-The host also points to Carlyle ties of [[Ronald S. Moultrie]]. He pairs Moultrie with his friend [[Sean Kirkpatrick]], and accuses Moultrie of spreading disinformation by denying UAP at the 2022 hearing. Moultrie sat on the board of iCapital, a Carlyle-backed firm, and on the board of Better Angels, which Rubenstein funds.
+Gerb also points to Carlyle ties of [[Ronald S. Moultrie]]. He pairs Moultrie with his friend [[Sean Kirkpatrick]], and accuses Moultrie of spreading disinformation by denying UAP at the 2022 hearing. Moultrie sat on the board of iCapital, a Carlyle-backed firm, and on the board of Better Angels, which Rubenstein funds.
 
 ::wiki-grid{cols=2}
 ::wiki-panel{title="The front of the hangar"}
@@ -330,7 +330,7 @@ The first area was a crowded display "like the hangar deck of an aircraft carrie
 
 - the losing entrant in the B-2 competition and other stealth bomber prototypes
 - a hovercraft with hidden thrust
-- vertical take-off craft, including a V-22 Osprey (whose first flight, the host notes, came in 1989)
+- vertical take-off craft, including a V-22 Osprey (whose first flight, Gerb notes, came in 1989)
 - talk of depleted-uranium shells
 - the Lockheed "Pulsar", or [[Aurora Program|Aurora]]
 
@@ -343,7 +343,7 @@ The second area was guarded by men in berets with M16 rifles and attended only b
 
 ## The Flux Liner
 
-Sorenson, a designer himself, described the craft in enough detail for McCandlish to draw blueprints and line art. They looked like something from the 1950s: a Jell-O mold underneath, sloping sides, a dome on top and a door that belonged on a submarine. The host stresses how unlike typical UAP accounts this is. Witnesses often describe seamless, rivetless craft that look 3D-printed. The ARVs looked worn, as if they had flown for decades. They were covered in smudges and fingerprints, and their lead paint, which the host says seemed to shield the crew from X-rays, was chipped. Many parts, including the crew seats and cameras, looked off the shelf.
+Sorenson, a designer himself, described the craft in enough detail for McCandlish to draw blueprints and line art. They looked like something from the 1950s: a Jell-O mold underneath, sloping sides, a dome on top and a door that belonged on a submarine. Gerb stresses how unlike typical UAP accounts this is. Witnesses often describe seamless, rivetless craft that look 3D-printed. The ARVs looked worn, as if they had flown for decades. They were covered in smudges and fingerprints, and their lead paint, which Gerb says seemed to shield the crew from X-rays, was chipped. Many parts, including the crew seats and cameras, looked off the shelf.
 
 The tree below breaks the craft down as Sorenson and McCandlish described it. The crew compartment was entirely separate from the propulsion system, which made no noise, had no moving parts and gave off no exhaust.
 
@@ -390,17 +390,17 @@ root:
 
 The synthetic vision system, McCandlish explains in a clip, works like the gun-slaving sight on the Apache helicopter. The cameras swivel in pairs, and a liquid-crystal shutter in the pilot's glasses alternates his eyes about 30 times a second. He sees in 3D with no windows at all.
 
-When McCandlish asked whether the capacitors meant the craft ran on the [[Biefeld-Brown Effect|Biefeld–Brown effect]], Sorenson said that effect might play some part. The energy itself, though, came from quantum fluctuations: zero-point energy. The host recommends [[Jesse Michaels]]'s video on [[T. Townsend Brown]]. He ties this to his earlier theory that Edwards, which long prized alternative propulsion such as Biefeld–Brown, runs an ARV reverse-engineering and test program, and recalls that his Edwards witness "Ed" spoke of zero-point systems. McCandlish cites Moray B. King's book *Tapping the Zero-Point Energy*. He also attributes to James Clerk Maxwell the remark that the energy in a cubic yard of empty space could boil the world's oceans.
+When McCandlish asked whether the capacitors meant the craft ran on the [[Biefeld-Brown Effect|Biefeld–Brown effect]], Sorenson said that effect might play some part. The energy itself, though, came from quantum fluctuations: zero-point energy. Gerb recommends [[Jesse Michaels]]'s video on [[T. Townsend Brown]]. He ties this to his earlier theory that Edwards, which long prized alternative propulsion such as Biefeld–Brown, runs an ARV reverse-engineering and test program, and recalls that his Edwards witness "Ed" spoke of zero-point systems. McCandlish cites Moray B. King's book *Tapping the Zero-Point Energy*. He also attributes to James Clerk Maxwell the remark that the energy in a cubic yard of empty space could boil the world's oceans.
 
 ## Sorenson's 1990 Interview
 
-The host first addresses the charge that McCandlish only relayed hearsay. McCandlish regretted naming Sorenson. He said that, not being a journalist, he gave in when people in the [[Disclosure Project]] pressed him to name names, without realising the harm it could do. Sorenson has refused to comment publicly for decades, but the host says he found documents never before discussed in public.
+Gerb first addresses the charge that McCandlish only relayed hearsay. McCandlish regretted naming Sorenson. He said that, not being a journalist, he gave in when people in the [[Disclosure Project]] pressed him to name names, without realising the harm it could do. Sorenson has refused to comment publicly for decades, but Gerb says he found documents never before discussed in public.
 
 In December 1990, two years after the lunch, McCandlish relayed the exhibit to William B. Scott, senior engineering editor of *Aviation Week and Space Technology*. Scott ran some of McCandlish's Aurora sketches. Because some of the craft matched accounts the magazine had received, he also contacted Sorenson. Sorenson then went silent, even with McCandlish, but not before Scott interviewed him on 3 December 1990.
 
 In the interview, Sorenson:
 
-- said he was not officially invited, but was passed off as an aide to a man who had served in the Carter administration. The host notes that Carlucci was Deputy Director of the CIA under Carter, so he remains a logical fit.
+- said he was not officially invited, but was passed off as an aide to a man who had served in the Carter administration. Gerb notes that Carlucci was Deputy Director of the CIA under Carter, so he remains a logical fit.
 - explained that he spoke up because he loved America but, as a Democrat, thought such spending was "nuts". The whole meeting, he said, was about appropriations of billions of dollars for new craft, shown to about 30 people to attract investors to black-budget projects.
 - described briefers in blue fatigues and suits, a specialist for each area, some of them colonels or majors. He saw no generals in that part of the show and said he would have noticed.
 - confirmed Cranston's presence. The rest of the crowd were senior men aged 45 to 60, with no aides around them.
@@ -418,9 +418,9 @@ There was no food, compass or navigation chart aboard. The films showed jerky, s
 > [!quote] Where the craft came from
 > Asked what the vehicles were produced from, the non-uniformed man taking questions reluctantly "said something about 1947". According to Sorenson, beings had made contact to tell the US it had no right to use nuclear weapons: a cease-and-desist. The US, having just won the war and feeling cavalier, attacked. The others did not fight back but tried to destroy their hardware and leave, and did not destroy all of it. The recovered craft could not be made to work and were the wrong scale for humans, so "we just looked at theirs and built our own". Sorenson agreed that this was not an R&D breakthrough, just copying.
 
-The host thinks Scott never published this part because, as the notes record, he found it hard to believe that flying saucers capable of light speed had been copied from other beings' technology dating to 1947. The notes also say the program's leaders wanted to build a fleet and hoped the new Bush administration would be as keen as Reagan's. They never said who owned the craft or whom they reported to. The notes include a sketch of the exhibit that the host believes Sorenson drew. His conclusion is that Sorenson had confirmed the story in his own words eleven years before McCandlish made the term famous.
+Gerb thinks Scott never published this part because, as the notes record, he found it hard to believe that flying saucers capable of light speed had been copied from other beings' technology dating to 1947. The notes also say the program's leaders wanted to build a fleet and hoped the new Bush administration would be as keen as Reagan's. They never said who owned the craft or whom they reported to. The notes include a sketch of the exhibit that Gerb believes Sorenson drew. His conclusion is that Sorenson had confirmed the story in his own words eleven years before McCandlish made the term famous.
 
-Comparing the two accounts, the host stresses how much Sorenson's own words confirm, and finds only two differences, neither of which seems serious to him:
+Comparing the two accounts, Gerb stresses how much Sorenson's own words confirm, and finds only two differences, neither of which seems serious to him:
 
 ::wiki-compare{video="wF07QMm6joE" video-title="Alien Reproduction Vehicle - the Testimony of Mark McCandlish"}
 ---
@@ -454,7 +454,7 @@ rows:
       - { text: "Little metal; mostly composites", mark: differs }
       - { text: "\"A lot of metal\"", mark: differs }
   - attribute: "Generals"
-    note: "An apparent difference the host reconciles"
+    note: "An apparent difference Gerb reconciles"
     cue: 3975
     cells:
       - { text: "A three-star general presented the ARVs and their flight on videotape", cue: 803 }
@@ -462,7 +462,7 @@ rows:
 ---
 ::
 
-The host suggests the story of the materials evolved, or that Sorenson took the crew compartment's filaments and composites for metal. On the generals, Sorenson's remark referred only to the first area; he never said whether generals attended the ARV presentation.
+Gerb suggests the story of the materials evolved, or that Sorenson took the crew compartment's filaments and composites for metal. On the generals, Sorenson's remark referred only to the first area; he never said whether generals attended the ARV presentation.
 
 ## How the Story Travelled
 
@@ -514,11 +514,11 @@ After the 2001 Disclosure Project, McCandlish felt he was being watched. He was 
 
 ## Other Witnesses
 
-McCandlish said his blueprint drew on Sorenson "and later from a number of other sources". The host gathers the accounts that he and McCandlish linked to the ARV:
+McCandlish said his blueprint drew on Sorenson "and later from a number of other sources". Gerb gathers the accounts that he and McCandlish linked to the ARV:
 
 ::wiki-grid{cols=3}
 ::wiki-panel{title="Kent Sellen · Edwards, 1973" tone="accent"}
-McCandlish met him at a 1992 air show at Edwards, which he called the B-2's first public unveiling. (The host says "Sellin"; the name is spelled several ways.) In 1973 Sellen was a crew chief on experimental aircraft at Edwards North Base. He said that while taking a shortcut across the base to fetch a ground power unit, he wandered into an area with an ARV. He added details of its layout and operation that Sorenson did not know.
+McCandlish met him at a 1992 air show at Edwards, which he called the B-2's first public unveiling. (Gerb says "Sellin"; the name is spelled several ways.) In 1973 Sellen was a crew chief on experimental aircraft at Edwards North Base. He said that while taking a shortcut across the base to fetch a ground power unit, he wandered into an area with an ARV. He added details of its layout and operation that Sorenson did not know.
 ::
 ::wiki-panel{title="Class A witness · Edwards, 1960s"}
 This account comes from [[Leonard Stringfield]]'s unpublished files, which designer [[Michael Schratt]] gained access to. A pilot allowed to cross the base in an Air Force security vehicle stopped at some hangars to ask directions. Inside he saw a large disc with a clear, transparent dome, and was told to leave at once.
@@ -527,10 +527,10 @@ This account comes from [[Leonard Stringfield]]'s unpublished files, which desig
 Stringfield's files also hold Mr. Hines's secondhand account from a Bell Labs source. The source saw a UFO retrieval or test craft being brought into a California air base, and saw a cutaway of it. That cutaway echoes the easel at Palmdale.
 ::
 ::wiki-panel{title="Lt. Col. John Williams · Norton, 1981–82"}
-Williams was an electrical engineer running construction projects for Military Airlift Command at Norton. His 2000 testimony appears in the Zero Point documentary and in Greer's disclosure briefing document. He said the base had a facility so secret that even the wing commander could not enter it, and rumour said it housed a UFO. The host admits this is little more than rumour.
+Williams was an electrical engineer running construction projects for Military Airlift Command at Norton. His 2000 testimony appears in the Zero Point documentary and in Greer's disclosure briefing document. He said the base had a facility so secret that even the wing commander could not enter it, and rumour said it housed a UFO. Gerb admits this is little more than rumour.
 ::
 ::wiki-panel{title="Capt. Harvey Williams · Utah, 1967"}
-[[Harvey Williams]] photographed a disc from a C-47 at 12,000 feet, about 25 miles southwest of Provo. McCandlish showed the two photos in 2001 and said they matched the ARV "in all proportions", camera bubbles included. He reasoned that the bubbles were bigger because 1967 cameras were. The host notes that Provo is under 100 miles from [[Dugway Proving Ground]].
+[[Harvey Williams]] photographed a disc from a C-47 at 12,000 feet, about 25 miles southwest of Provo. McCandlish showed the two photos in 2001 and said they matched the ARV "in all proportions", camera bubbles included. He reasoned that the bubbles were bigger because 1967 cameras were. Gerb notes that Provo is under 100 miles from [[Dugway Proving Ground]].
 ::
 ::wiki-panel{title="The Cedarville Polaroid · California, 1984"}
 The photo was taken north of Cedarville in spring 1984. McCandlish thought it might be one of the only photographs of a string of secret space program vehicles. Under a loupe, he said, some features looked like the ARV's. Its wingtips also seemed able to fold inward into a triangle, perhaps for storage.
@@ -547,31 +547,31 @@ In his lecture, he suggested the craft set up three electromagnetic fields:
 - one from the central windings
 - one from a low-temperature, plasma-like discharge fired down the centre
 
-He compared this to an explosively pumped electromagnetic pulse weapon, which pinches overlapping field lines together. The result, he proposed, was a doorway into zero-point energy, which he said underlies gravity, inertia and mass. He cited estimates as high as 10 to the 109th power joules per cubic centimetre, enough to make a hydrogen bomb "look like a firecracker", and saw that as a reason the technology would be suppressed. By Einstein's account, a craft approaching light speed gains mass through its interaction with that energy. McCandlish argued that a craft using the same energy to push itself would lose mass instead, and could pass the speed of light. The host adds that Los Alamos has researched explosive magnetic flux compression generators since 1975.
+He compared this to an explosively pumped electromagnetic pulse weapon, which pinches overlapping field lines together. The result, he proposed, was a doorway into zero-point energy, which he said underlies gravity, inertia and mass. He cited estimates as high as 10 to the 109th power joules per cubic centimetre, enough to make a hydrogen bomb "look like a firecracker", and saw that as a reason the technology would be suppressed. By Einstein's account, a craft approaching light speed gains mass through its interaction with that energy. McCandlish argued that a craft using the same energy to push itself would lose mass instead, and could pass the speed of light. Gerb adds that Los Alamos has researched explosive magnetic flux compression generators since 1975.
 
-The host compares the idea to an Alcubierre drive, which compresses spacetime ahead of a craft and stretches it behind. That creates a local bubble that shields the craft from inertia. He says he lacks the physics to judge the idea, but notes that inertial dampening fits many UAP sightings with instantaneous acceleration. He plays a clip of [[Karl Nell]], former Northrop Grumman deputy CTO and a colonel in Army Futures Command, saying that faster-than-light travel is possible because Miguel Alcubierre solved Einstein's equations for it in 1994. He also cites [[Kevin Knuth]]'s paper estimating the g-forces on the craft in the [[2004 Nimitz UAP Encounter (Tic Tac)|2004 Tic Tac]] encounter, seen by Commander [[David Fravor]], at over 5,000 g. That is far beyond what a missile can survive.
+Gerb compares the idea to an Alcubierre drive, which compresses spacetime ahead of a craft and stretches it behind. That creates a local bubble that shields the craft from inertia. He says he lacks the physics to judge the idea, but notes that inertial dampening fits many UAP sightings with instantaneous acceleration. He plays a clip of [[Karl Nell]], former Northrop Grumman deputy CTO and a colonel in Army Futures Command, saying that faster-than-light travel is possible because Miguel Alcubierre solved Einstein's equations for it in 1994. He also cites [[Kevin Knuth]]'s paper estimating the g-forces on the craft in the [[2004 Nimitz UAP Encounter (Tic Tac)|2004 Tic Tac]] encounter, seen by Commander [[David Fravor]], at over 5,000 g. That is far beyond what a missile can survive.
 
 ## The Secret Space Program
 
-McCandlish's 2015 lecture, "The Feasibility of Interstellar Travel", described how back-engineered off-world technology gave corporations the leverage to build a secret space program and a breakaway civilization. The host calls this a charged claim, since the phrase attracts bizarre stories, and weighs it against more grounded accounts:
+McCandlish's 2015 lecture, "The Feasibility of Interstellar Travel", described how back-engineered off-world technology gave corporations the leverage to build a secret space program and a breakaway civilization. Gerb calls this a charged claim, since the phrase attracts bizarre stories, and weighs it against more grounded accounts:
 
 - **Edgar Fouché.** [[Edgar Fouche|Edgar Fouché]] described [[TR-3B]] triangles ferrying people and supplies for a secret space fleet. He said they were built jointly by Northrop, Lockheed Martin, Boeing and Teledyne, managed by the NRO, CIA and NSA, and flown by pilots drawn from the Edwards [[412th Test Wing|412th]] test pilot school.
-- **Edwards and Nellis.** The host connects this to his own thesis of a joint reverse-engineering program between Edwards and [[Nellis Air Force Base]]. He says it employs contractors such as Lockheed Martin and Boeing and skims funds from the F-35 program.
-- **Randy Anderson.** Former Green Beret [[Randy Anderson]] told the host he saw electrogravitic triangles near Nellis.
+- **Edwards and Nellis.** Gerb connects this to his own thesis of a joint reverse-engineering program between Edwards and [[Nellis Air Force Base]]. He says it employs contractors such as Lockheed Martin and Boeing and skims funds from the F-35 program.
+- **Randy Anderson.** Former Green Beret [[Randy Anderson]] told Gerb he saw electrogravitic triangles near Nellis.
 - **Gary McKinnon.** [[Gary McKinnon]], arrested in 2002 for hacking US Army and NASA systems, claimed to have found an image of a cigar-shaped craft in orbit. He also claimed to have found a list of "non-terrestrial officers" with tabs for transfers between ships.
 
 In the lecture, McCandlish listed the craft he believed served such a program: the Flux Liner, the first-generation Aurora, and a Lockheed Skunk Works triangle. He said the triangle was the one recovered in a May 1989 crash retrieval in East Germany, reportedly carried out by Special Forces, and likened it to the F-117A. On its underside were three spheres of what looked like white superconducting ceramic, one of which broke loose in the crash. The pilot told McCandlish the recovery team was ordered not to touch the sparking sphere bare-handed. McCandlish thought the spheres held cryogenic fluid for a zero-point system, so the craft may have used ARV technology.
 
-His first suspicion of such programs came even earlier, before Lockheed became Lockheed Martin. Two Skunk Works men commissioned him to illustrate a very fast jet for a Pentagon pitch. They grew furious after one of them let slip that its parts would tear apart at Mach 17, about 13,000 mph. The host sets that against NASA's unmanned X-43, at Mach 9.6, and the SR-71, at Mach 3.3.
+His first suspicion of such programs came even earlier, before Lockheed became Lockheed Martin. Two Skunk Works men commissioned him to illustrate a very fast jet for a Pentagon pitch. They grew furious after one of them let slip that its parts would tear apart at Mach 17, about 13,000 mph. Gerb sets that against NASA's unmanned X-43, at Mach 9.6, and the SR-71, at Mach 3.3.
 
-The host also notes that Plant 42 is less than 30 miles southwest of Edwards and hosts a large Northrop Grumman facility and Lockheed Martin's Skunk Works. Showing ARVs there fits his thesis of a joint program run out of Edwards. His witness Ed named Lockheed Martin and Boeing, but Northrop has also been linked to the TR-3B "Black Manta". It has also been linked to an anti-gravity disc called the "Great Pumpkin", reportedly developed at its Advanced Concepts and Technologies division in Palmdale. The host counts 10 to 15 alleged craft built at least partly with non-human technology, among them the Flux Liner, the Aurora and the TR-3B.
+Gerb also notes that Plant 42 is less than 30 miles southwest of Edwards and hosts a large Northrop Grumman facility and Lockheed Martin's Skunk Works. Showing ARVs there fits his thesis of a joint program run out of Edwards. His witness Ed named Lockheed Martin and Boeing, but Northrop has also been linked to the TR-3B "Black Manta". It has also been linked to an anti-gravity disc called the "Great Pumpkin", reportedly developed at its Advanced Concepts and Technologies division in Palmdale. Gerb counts 10 to 15 alleged craft built at least partly with non-human technology, among them the Flux Liner, the Aurora and the TR-3B.
 
 ## The Deaths
 
-> [!note] A pattern the host flags, not a finding
-> The host stresses that he does not want to draw attention to the grieving families, but thinks the strangeness around these deaths is worth setting out. He quotes McCandlish's own view that clandestine programs may stop at nothing to keep these technologies from the public and from foreign adversaries.
+> [!note] A pattern Gerb flags, not a finding
+> Gerb stresses that he does not want to draw attention to the grieving families, but thinks the strangeness around these deaths is worth setting out. He quotes McCandlish's own view that clandestine programs may stop at nothing to keep these technologies from the public and from foreign adversaries.
 
-The Zero Point documentary catalogues deaths among free-energy researchers, and the host adds the more recent cases:
+The Zero Point documentary catalogues deaths among free-energy researchers, and Gerb adds the more recent cases:
 
 | Who | Field, as the video describes it | Death, as the video describes it |
 |---|---|---|
@@ -583,11 +583,11 @@ The Zero Point documentary catalogues deaths among free-energy researchers, and 
 | [[Amy Eskridge]] | Co-founder of the Institute for Exotic Science, Huntsville; lectured for [[Holocron Engineering]] on anti-gravity and the TR-3B | Ruled self-inflicted, 2022; heavily disputed |
 | [[Mark McCandlish]] | Illustrator of the ARV | Found dead at home from an apparent self-inflicted gunshot wound, 13 April 2021, aged 69 |
 
-On the day he died, McCandlish had told his friend [[Rick Price]] he would call him later. He had also told his girlfriend he would see her at the animal shelter where she worked. According to [[Robert D. Morning Star]], he was due to testify to elements of the Senate on UAP in June 2021 and had been in contact with Senator [[Marco Rubio]]. The host asks why McCandlish was allowed to speak about the ARV from 1988 to 2021. He wonders whether testifying under oath, perhaps to Rubio and the Gang of Eight, was the final straw. He keeps returning to Sorenson's words: "I protected him until I could not."
+On the day he died, McCandlish had told his friend [[Rick Price]] he would call him later. He had also told his girlfriend he would see her at the animal shelter where she worked. According to [[Robert D. Morning Star]], he was due to testify to elements of the Senate on UAP in June 2021 and had been in contact with Senator [[Marco Rubio]]. Gerb asks why McCandlish was allowed to speak about the ARV from 1988 to 2021. He wonders whether testifying under oath, perhaps to Rubio and the Gang of Eight, was the final straw. He keeps returning to Sorenson's words: "I protected him until I could not."
 
-## The Host's Conclusions
+## Gerb's Conclusions
 
-The host calls the ARV one of the most interesting stories in ufology. The texture of the Scott interview persuades him. The normally lively Sorenson swears freely and mocks the craft as plainly the work of scientists rather than designers.
+Gerb calls the ARV one of the most interesting stories in ufology. The texture of the Scott interview persuades him. The normally lively Sorenson swears freely and mocks the craft as plainly the work of scientists rather than designers.
 
 The most shocking part, for him, is the claim about where the craft came from. By that account, the craft's owners took technology in 1947 from beings who did not mean it for humans, copied it without understanding it, and produced a "poor man's copy" out of off-the-shelf parts. That echoes Roswell stories and accounts of contractors who do not know how their craft work. He puzzles over Sorenson not knowing who owned the craft or what they were for.
 
@@ -602,7 +602,7 @@ He does not hold Sorenson's threats against him, reading them as an attempt to w
 entries:
   - name: "Brad Sorenson"
     role: "Industrial designer; firsthand ARV witness"
-    note: "Saw the three Flux Liners at Plant 42 in 1988, confirmed them to Aviation Week in 1990, then went silent; warned the host off the story."
+    note: "Saw the three Flux Liners at Plant 42 in 1988, confirmed them to Aviation Week in 1990, then went silent; warned Gerb off the story."
   - name: "Mark McCandlish"
     role: "Aerospace illustrator"
     note: "Drew the ARV blueprint in March 1989, took it public in 2001 and theorized about it until his death in April 2021."
@@ -635,7 +635,7 @@ entries:
 
 ## Key Claims
 
-- The whistleblower report in Michael Shellenberger's October 2024 article says Immaculate Constellation can detect, quarantine and transfer "UAP and ARV" collection incidents. The host reads ARV as a vehicle built from non-human technology and operated by private aerospace or the US government.
+- The whistleblower report in Michael Shellenberger's October 2024 article says Immaculate Constellation can detect, quarantine and transfer "UAP and ARV" collection incidents. Gerb reads ARV as a vehicle built from non-human technology and operated by private aerospace or the US government.
 - On 12 November 1988, Brad Sorenson was allegedly taken from the Norton Air Force Base air show to Air Force Plant 42 in Palmdale by a client whom Mark McCandlish identified as Frank Carlucci. There he was shown three hovering saucers that a three-star general called alien reproduction vehicles capable of light speed or better.
 - About 30 senior guests, including Senator Alan Cranston and, according to Sorenson, Congressman George E. Brown Jr., were reportedly shown the craft to win billions in black-budget appropriations.
 - In a 3 December 1990 interview with William B. Scott of *Aviation Week*, never published in full, Sorenson confirmed the exhibit, the Aurora, the losing B-2 prototypes and the ARVs. He relayed the briefers' account that the craft were copies of hardware taken in 1947 from beings who had warned the US against nuclear weapons.
@@ -644,7 +644,7 @@ entries:
 - McCandlish theorized that the ARV is a large Tesla coil whose three electromagnetic fields open a doorway to zero-point energy, allowing it to shed mass and exceed the speed of light.
 - He also described a May 1989 East German crash retrieval of a Lockheed triangle carrying three ceramic spheres, which he thought used ARV-type zero-point systems.
 - After going public in 2001, McCandlish said he was monitored, warned and threatened, and lost his defense clients. He died on 13 April 2021 of an apparent self-inflicted gunshot wound, two months before he was reportedly due to testify to Senate elements.
-- Sorenson told the host that McCandlish "died because he could not keep his mouth shut", that he had protected McCandlish "until he could not", and that the host would face mortal danger if he continued.
+- Sorenson told Gerb that McCandlish "died because he could not keep his mouth shut", that he had protected McCandlish "until he could not", and that Gerb would face mortal danger if he continued.
 
 ## Sources
 

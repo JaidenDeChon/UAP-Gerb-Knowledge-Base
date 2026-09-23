@@ -11,7 +11,7 @@ K. Shakoya is named in an alleged leaked classified UAP document as having contr
 
 According to the leaked document, Shakoya contributed to behavioral data analysis research examining UAP/USO (Unidentified Aerial Submerged Phenomena) characteristics. The document section references conclusions suggesting that certain UAP may represent either remote/autonomous drones or a form of mechanical life, and describes what it characterizes as "stepped virtual evolution" indicating generational changes in UAP appearance and flight performance. The attribution "Shea Koya gradual changes" appears in the document, suggesting Shakoya's work focused on longitudinal analysis of UAP behavioral patterns.
 
-The authenticity of the document remains unverified, and as the presenter notes, extensive searches for information about K. Shakoya and associated researchers ([[M. Harmon]], [[S. McCaron]]) have yielded almost no results, raising questions about whether these are pseudonyms or first names removed for classification purposes.
+The authenticity of the document remains unverified, and as Gerb notes, extensive searches for information about K. Shakoya and associated researchers ([[M. Harmon]], [[S. McCaron]]) have yielded almost no results, raising questions about whether these are pseudonyms or first names removed for classification purposes.
 
 ## Sources
 

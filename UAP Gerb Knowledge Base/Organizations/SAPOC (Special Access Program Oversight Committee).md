@@ -15,7 +15,7 @@ SAP governance runs upward in tiers, as UAP Gerb lays it out in *Special Access 
 
 - **Component SAPCOs**: one each for the armed services, the Joint Staff, [[DARPA]] and the Missile Defense Agency, each responsible for the SAPs under its purview. The Air Force's is SAF/AAZ.
 - **OSD-level SAPCOs**: offices under the under secretaries of defense for acquisition and sustainment, intelligence and security, and research and engineering, which oversee acquisition, intelligence and research SAPs respectively.
-- **DoD SAPCO**: the department-wide central office, the primary point of contact with Congress and the [[National Security Council]], which processes congressional program access requests and exempts waived SAPs from them. Past directors named by the presenter include General [[Marshal Ward|H. Marshal Ward]] and Major General Dawn Dunlop.
+- **DoD SAPCO**: the department-wide central office, the primary point of contact with Congress and the [[National Security Council]], which processes congressional program access requests and exempts waived SAPs from them. Past directors named by Gerb include General [[Marshal Ward|H. Marshal Ward]] and Major General Dawn Dunlop.
 - **SAPOC and its Senior Review Group**: the apex. The SRG's senior executive members are meant, among other things, to stop the same program being duplicated across SAP categories.
 
 Past chairs cited in UAP Gerb's work include Deputy Secretaries of Defense [[John Deutsch]] and [[Bill Perry]].

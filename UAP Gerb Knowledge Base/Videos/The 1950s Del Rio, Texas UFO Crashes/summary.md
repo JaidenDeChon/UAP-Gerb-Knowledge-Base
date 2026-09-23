@@ -41,17 +41,17 @@ stats:
 
 ## Overview
 
-This video untangles two alleged UFO crash retrievals on the Texas-Mexico border near [[Del Rio, Texas]] that UFO literature has, in the host's words, "almost molded into one". The first is the [[1950 El Indio UFO Crash]]. The alleged [[Majestic 12]] [[Eisenhower Briefing Document]] says that on 6 December 1950 an object "of similar origin" to Roswell struck the ground at such speed near [[El Indio, Texas]] that it was nearly obliterated, and that its remains went to the [[Atomic Energy Commission]]'s facility at Sandia, New Mexico. The second is the [[1955 Langtry UFO Crash]], the account of Air Force Reserve Colonel [[Robert Willingham]]. He said he watched a bright object crash across the Rio Grande from [[Langtry, Texas]] during a training mission, then flew back in a light aircraft, walked the wreckage under the eyes of Mexican soldiers and pocketed a piece of metal.
+This video untangles two alleged UFO crash retrievals on the Texas-Mexico border near [[Del Rio, Texas]] that UFO literature has, in Gerb's words, "almost molded into one". The first is the [[1950 El Indio UFO Crash]]. The alleged [[Majestic 12]] [[Eisenhower Briefing Document]] says that on 6 December 1950 an object "of similar origin" to Roswell struck the ground at such speed near [[El Indio, Texas]] that it was nearly obliterated, and that its remains went to the [[Atomic Energy Commission]]'s facility at Sandia, New Mexico. The second is the [[1955 Langtry UFO Crash]], the account of Air Force Reserve Colonel [[Robert Willingham]]. He said he watched a bright object crash across the Rio Grande from [[Langtry, Texas]] during a training mission, then flew back in a light aircraft, walked the wreckage under the eyes of Mexican soldiers and pocketed a piece of metal.
 
-The video opens on [[Eric Davis]], of the [[Wilson-Davis Memo]], telling [[George Knapp]] on *Coast to Coast AM* in June 2018 that after Roswell, "Del Rio, Texas, that was a 1950s case" was a good bet. The host's main source for Willingham is *The Other Roswell: UFO Crash on the Texas Border* (2008) by [[Noe Torres]] and [[Ruben Uriarte]], written from interviews near the end of Willingham's life. He sets out four points that, for him, prove the cases are separate: the state of the wreckage, Willingham's service dates, the geography and the radar.
+The video opens on [[Eric Davis]], of the [[Wilson-Davis Memo]], telling [[George Knapp]] on *Coast to Coast AM* in June 2018 that after Roswell, "Del Rio, Texas, that was a 1950s case" was a good bet. Gerb's main source for Willingham is *The Other Roswell: UFO Crash on the Texas Border* (2008) by [[Noe Torres]] and [[Ruben Uriarte]], written from interviews near the end of Willingham's life. He sets out four points that, for him, prove the cases are separate: the state of the wreckage, Willingham's service dates, the geography and the radar.
 
-The two halves of the video reach different verdicts. The host treats Willingham's story with open suspicion. His aircraft and year changed between the 1977 affidavit and the book, and the book quotes him saying he saw no bodies, while a 2012 radio interview has him describing three. The host ends up calling it "just a story" until those points are resolved. The El Indio case has almost no documentation, but the host finds its context compelling: a nationwide air defense alert on the same day, an FBI memo two days later, and a chain running from Sandia to [[AT&T]], which managed the lab from 1949, and on to [[Lockheed Martin]].
+The two halves of the video reach different verdicts. Gerb treats Willingham's story with open suspicion. His aircraft and year changed between the 1977 affidavit and the book, and the book quotes him saying he saw no bodies, while a 2012 radio interview has him describing three. Gerb ends up calling it "just a story" until those points are resolved. The El Indio case has almost no documentation, but Gerb finds its context compelling: a nationwide air defense alert on the same day, an FBI memo two days later, and a chain running from Sandia to [[AT&T]], which managed the lab from 1949, and on to [[Lockheed Martin]].
 
 ## Chronology
 
 ::wiki-timeline{video="8S9qdRWSnD8" video-title="The 1950s Del Rio, Texas UFO Crashes"}
 ---
-help: "The bar pinned above the entries is a ruler from 1945 to 2025. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. Both crashes sit in the first band, which also holds the December 1950 alert and Sandia's change of management; the long second band is the paper trail through which Willingham's account reached print and changed. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line capped with a downward arrow is where the host is. The host tells the 1955 story first and doubles back to 1950, so the playhead crosses the ruler backwards halfway through. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Timestamps jump the mini-player to that moment."
+help: "The bar pinned above the entries is a ruler from 1945 to 2025. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. Both crashes sit in the first band, which also holds the December 1950 alert and Sandia's change of management; the long second band is the paper trail through which Willingham's account reached print and changed. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line capped with a downward arrow is where Gerb is. Gerb tells the 1955 story first and doubles back to 1950, so the playhead crosses the ruler backwards halfway through. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Timestamps jump the mini-player to that moment."
 eras:
   - id: crashes
     label: "The Crashes and Their Context"
@@ -77,7 +77,7 @@ events:
   - date: "1949"
     title: "Truman hands Sandia's management to AT&T"
     cue: 1517
-    summary: "President Truman gave managerial responsibility for Sandia, on the grounds of Kirtland Air Force Base in New Mexico, to AT&T, the company behind the transistor. The host returns to this in the video's closing thread: the lab said to have received the El Indio debris the following year was run by a telephone company."
+    summary: "President Truman gave managerial responsibility for Sandia, on the grounds of Kirtland Air Force Base in New Mexico, to AT&T, the company behind the transistor. Gerb returns to this in the video's closing thread: the lab said to have received the El Indio debris the following year was run by a telephone company."
     category: organization
     significance: major
     entities:
@@ -101,7 +101,7 @@ events:
   - date: "1950-12-06"
     title: "Nationwide air defense alert, cancelled by General Ramey"
     cue: 1395
-    summary: "At 10:30 am Eastern a nationwide US alert warned of a large number of unidentified aircraft approaching the northeastern United States at high altitude, with interceptors being dispatched; the document counts some 40 signatures at 32,000 feet. General Ramey, of Roswell fame, cancelled the alert at 1316 hours. The host calls 6 December 'a key date'."
+    summary: "At 10:30 am Eastern a nationwide US alert warned of a large number of unidentified aircraft approaching the northeastern United States at high altitude, with interceptors being dispatched; the document counts some 40 signatures at 32,000 feet. General Ramey, of Roswell fame, cancelled the alert at 1316 hours. Gerb calls 6 December 'a key date'."
     category: event
     significance: major
     entities:
@@ -109,7 +109,7 @@ events:
   - date: "1950-12-07"
     title: "Zechel's alleged USAF document on a foreign object taken to Carswell"
     cue: 1469
-    summary: "Todd Zechel reportedly obtained a declassified USAF document stating the military had recovered a foreign object on 6 or 7 December 1950 and taken it to Carswell Air Force Base. Because the document was never produced, the host leaves it out of the case."
+    summary: "Todd Zechel reportedly obtained a declassified USAF document stating the military had recovered a foreign object on 6 or 7 December 1950 and taken it to Carswell Air Force Base. Because the document was never produced, Gerb leaves it out of the case."
     category: document
     significance: minor
     entities:
@@ -118,7 +118,7 @@ events:
   - date: "1950-12-08"
     title: "FBI memo to Hoover: Army intelligence on alert for flying-disc data"
     cue: 1430
-    summary: "Two days after the alert, a confidential memo to J. Edgar Hoover on 'flying saucers' said Army intelligence had been put on high alert for any data on flying discs. The host asks whether it relates to the air defense alert or to a crash retrieval, noting that the Hottel memo shows the FBI discussing crash retrievals and bodies that same year."
+    summary: "Two days after the alert, a confidential memo to J. Edgar Hoover on 'flying saucers' said Army intelligence had been put on high alert for any data on flying discs. Gerb asks whether it relates to the air defense alert or to a crash retrieval, noting that the Hottel memo shows the FBI discussing crash retrievals and bodies that same year."
     category: document
     significance: notable
     entities:
@@ -127,7 +127,7 @@ events:
   - date: "1950-12-26"
     title: "Willingham wounded in Korea"
     cue: 1270
-    summary: "Robert Willingham's Korean War service ended when a mortar shell wounded him in the leg and head, an injury he says earned him a Purple Heart. The date is the second of the host's four points: he was still in Korea on 6 December, so he cannot have witnessed the El Indio crash."
+    summary: "Robert Willingham's Korean War service ended when a mortar shell wounded him in the leg and head, an injury he says earned him a Purple Heart. The date is the second of Gerb's four points: he was still in Korea on 6 December, so he cannot have witnessed the El Indio crash."
     category: person
     significance: notable
     entities:
@@ -135,7 +135,7 @@ events:
   - date: "1952-11-18"
     title: "Eisenhower Briefing Document dated"
     cue: 1305
-    summary: "The alleged MJ-12 document that names the El Indio case is dated November 1952. The host, invoking Stanton Friedman, reads the MJ-12 papers as a mix of disinformation and fact, and finds the El Indio entry worth taking seriously."
+    summary: "The alleged MJ-12 document that names the El Indio case is dated November 1952. Gerb, invoking Stanton Friedman, reads the MJ-12 papers as a mix of disinformation and fact, and finds the El Indio entry worth taking seriously."
     category: document
     significance: notable
     entities:
@@ -144,9 +144,9 @@ events:
       - "Majestic 12"
       - "Stanton Friedman"
   - date: "1952"
-    title: "Distant early warning radar comes into use, per the host"
+    title: "Distant early warning radar comes into use, per Gerb"
     cue: 1290
-    summary: "The host dates the distant early warning (DEW) radar systems that Willingham says first detected the object to 1952, the fourth of his points separating the cases: no 1950 account could involve them."
+    summary: "Gerb dates the distant early warning (DEW) radar systems that Willingham says first detected the object to 1952, the fourth of his points separating the cases: no 1950 account could involve them."
     category: program
     significance: minor
     entities:
@@ -154,7 +154,7 @@ events:
   - date: "1954-05-14"
     title: "Marine reserve jets try to box 16 objects west of Dallas"
     cue: 683
-    summary: "A flight of Marine reserve jets led by Major Charles Scarborough, about six miles west of Dallas, saw 16 unidentified objects in groups of four. Scarborough and a pilot named Jorgenson tried to box them in; the objects, alternating white and orange, accelerated away. The host offers it as a precedent the spring before Willingham's encounter."
+    summary: "A flight of Marine reserve jets led by Major Charles Scarborough, about six miles west of Dallas, saw 16 unidentified objects in groups of four. Scarborough and a pilot named Jorgenson tried to box them in; the objects, alternating white and orange, accelerated away. Gerb offers it as a precedent the spring before Willingham's encounter."
     category: event
     significance: notable
   - date: "1955"
@@ -200,13 +200,13 @@ events:
   - date: "1955-07-18"
     title: "USAF Security Service in San Antonio asks for B-47 UFO reports"
     cue: 641
-    summary: "An unclassified document from months after the encounter answers a request from the commander of USAF Security Service in San Antonio for UFO sighting data from the Northeast Air Command and the northwestern US, specifically from B-47 jets. The host allows it may be coincidence."
+    summary: "An unclassified document from months after the encounter answers a request from the commander of USAF Security Service in San Antonio for UFO sighting data from the Northeast Air Command and the northwestern US, specifically from B-47 jets. Gerb allows it may be coincidence."
     category: document
     significance: minor
   - date: "1957-09-19"
     title: "RB-47 chased 600 miles by a fireball (Condon Report Case 5)"
     cue: 485
-    summary: "A large fireball alternating red and white followed a Carswell-based USAF RB-47 for more than 600 miles, seen by the crew and tracked by ground radar, the aircraft's radar and its ECM gear at 2,800 megacycles. Pilot Lewis D. Chase described 'a glowing body as big as a barn'. Intelligence personnel removed the ECM and radar data on landing. The host cites it because no record of Willingham's 1955 sighting exists."
+    summary: "A large fireball alternating red and white followed a Carswell-based USAF RB-47 for more than 600 miles, seen by the crew and tracked by ground radar, the aircraft's radar and its ECM gear at 2,800 megacycles. Pilot Lewis D. Chase described 'a glowing body as big as a barn'. Intelligence personnel removed the ECM and radar data on landing. Gerb cites it because no record of Willingham's 1955 sighting exists."
     category: event
     significance: notable
     entities:
@@ -215,7 +215,7 @@ events:
   - date: "1965"
     title: "Willingham goes public in a Mechanicsburg newspaper"
     cue: 308
-    summary: "A Pennsylvania weekly in Mechanicsburg asked Civil Air Patrol pilots about UFO encounters and carried Willingham's story. The host later calls it the '67 article'. In it, as in the later affidavit, the aircraft is an F-94 and the year 1948."
+    summary: "A Pennsylvania weekly in Mechanicsburg asked Civil Air Patrol pilots about UFO encounters and carried Willingham's story. Gerb later calls it the '67 article'. In it, as in the later affidavit, the aircraft is an F-94 and the year 1948."
     category: document
     significance: notable
     entities:
@@ -223,7 +223,7 @@ events:
   - date: "1966"
     title: "CIA memo on a metallic fragment from a UFO in the Congo"
     cue: 960
-    summary: "The host cites a 1966 CIA memo, 'Exploitation of Metallic Fragment from Unidentified Flying Object', alongside Project Moondust, as proof the US government studied UFO materials, whatever the truth of Willingham's fragment."
+    summary: "Gerb cites a 1966 CIA memo, 'Exploitation of Metallic Fragment from Unidentified Flying Object', alongside Project Moondust, as proof the US government studied UFO materials, whatever the truth of Willingham's fragment."
     category: document
     significance: minor
     entities:
@@ -232,7 +232,7 @@ events:
   - date: "1973-07-12"
     title: "Fire at the military personnel records center in St. Louis"
     cue: 243
-    summary: "A fire destroyed most military records for personnel who served between 1947 and 1963. The host raises it against doubts such as Kevin Randle's, which rest on the records service's failure to produce Willingham's file."
+    summary: "A fire destroyed most military records for personnel who served between 1947 and 1963. Gerb raises it against doubts such as Kevin Randle's, which rest on the records service's failure to produce Willingham's file."
     category: event
     significance: notable
     entities:
@@ -240,7 +240,7 @@ events:
   - date: "1977"
     title: "Todd Zechel obtains Willingham's affidavit"
     cue: 333
-    summary: "Twelve years after the newspaper story, researchers found its clippings in NICAP's files, and Todd Zechel tracked Willingham down for a signed affidavit. It has him flying an F-94 in 1948, not an F-86 in 1955. Willingham blamed his Korean War head injury; the host says the errors 'hurt Willingham's credibility'."
+    summary: "Twelve years after the newspaper story, researchers found its clippings in NICAP's files, and Todd Zechel tracked Willingham down for a signed affidavit. It has him flying an F-94 in 1948, not an F-86 in 1955. Willingham blamed his Korean War head injury; Gerb says the errors 'hurt Willingham's credibility'."
     category: document
     significance: major
     entities:
@@ -249,7 +249,7 @@ events:
   - date: "1993"
     title: "Sandia's management passes to Lockheed Martin, per the video"
     cue: 1612
-    summary: "AT&T managed Sandia until 1993, when, the host notes, it was 'taken over by, you guessed it, Lockheed Martin'. He links this to Edgar Fouche's claim that part of Lockheed's alleged TR-3B reverse-engineering program came from Sandia Labs."
+    summary: "AT&T managed Sandia until 1993, when, Gerb notes, it was 'taken over by, you guessed it, Lockheed Martin'. He links this to Edgar Fouche's claim that part of Lockheed's alleged TR-3B reverse-engineering program came from Sandia Labs."
     category: organization
     significance: notable
     entities:
@@ -277,7 +277,7 @@ events:
   - date: "2008"
     title: "Torres and Uriarte publish The Other Roswell"
     cue: 294
-    summary: "Noe Torres and Ruben Uriarte's The Other Roswell: UFO Crash on the Texas Border, built on interviews with Willingham near the end of his life, is the host's primary source. Its chapter on bodies quotes Willingham: 'I never saw bodies. I was not able to get close enough.'"
+    summary: "Noe Torres and Ruben Uriarte's The Other Roswell: UFO Crash on the Texas Border, built on interviews with Willingham near the end of his life, is Gerb's primary source. Its chapter on bodies quotes Willingham: 'I never saw bodies. I was not able to get close enough.'"
     category: document
     significance: major
     entities:
@@ -287,7 +287,7 @@ events:
   - date: "2012-07-24"
     title: "Jeff Rense interview: Willingham says he saw bodies"
     cue: 1000
-    summary: "Asked by Jeff Rense, Willingham said he 'snuck around' to a hole torn in the front of the craft and saw three dead beings (the lieutenant said four), unclothed, in pieces, with big heads and arms like broomsticks. The host calls the contradiction with the book 'a massive issue' in Willingham's credibility."
+    summary: "Asked by Jeff Rense, Willingham said he 'snuck around' to a hole torn in the front of the craft and saw three dead beings (the lieutenant said four), unclothed, in pieces, with big heads and arms like broomsticks. Gerb calls the contradiction with the book 'a massive issue' in Willingham's credibility."
     category: event
     significance: major
     entities:
@@ -314,7 +314,7 @@ events:
   - date: "2023"
     title: "Noe Torres repeats the bodies claim in a presentation"
     cue: 1121
-    summary: "In a 2023 presentation, co-author Noe Torres also mentioned bodies. The host rules out poor reporting in the book, since it quotes Willingham directly, and has asked Torres for comment."
+    summary: "In a 2023 presentation, co-author Noe Torres also mentioned bodies. Gerb rules out poor reporting in the book, since it quotes Willingham directly, and has asked Torres for comment."
     category: person
     significance: notable
     entities:
@@ -324,11 +324,11 @@ events:
 
 ## Two Cases, One Name
 
-The host began expecting to cover a single 1950 event. He had assumed that Willingham's story, the MJ-12 entry and the witness [[William Drager]] all described one crash. Reading *The Other Roswell* convinced him otherwise. The confusion is old. [[Leonard Stringfield]]'s crash-retrieval status reports file Drager's testimony under "Del Rio, Texas, 1950", although Drager is plainly describing Willingham's case. Both stories also use Del Rio as their reference point, although the sites are on opposite sides of it.
+Gerb began expecting to cover a single 1950 event. He had assumed that Willingham's story, the MJ-12 entry and the witness [[William Drager]] all described one crash. Reading *The Other Roswell* convinced him otherwise. The confusion is old. [[Leonard Stringfield]]'s crash-retrieval status reports file Drager's testimony under "Del Rio, Texas, 1950", although Drager is plainly describing Willingham's case. Both stories also use Del Rio as their reference point, although the sites are on opposite sides of it.
 
 ::wiki-compare{video="8S9qdRWSnD8" video-title="The 1950s Del Rio, Texas UFO Crashes"}
 ---
-caption: "The host's four points for why the two crashes cannot be one event. Each point's chip jumps to where he makes it."
+caption: "Gerb's four points for why the two crashes cannot be one event. Each point's chip jumps to where he makes it."
 attributeLabel: "Point"
 subjects:
   - name: "1950 El Indio UFO Crash"
@@ -354,7 +354,7 @@ rows:
   - attribute: "4. The radar"
     cue: 1289
     cells:
-      - "Predates the distant early warning systems, which the host dates to 1952"
+      - "Predates the distant early warning systems, which Gerb dates to 1952"
       - "Willingham says DEW radar in Canada first picked up the object"
 ---
 ::
@@ -363,7 +363,7 @@ The third point is easiest to see on a map. Both stories are told from Del Rio, 
 
 ::wiki-map{video="8S9qdRWSnD8" video-title="The 1950s Del Rio, Texas UFO Crashes"}
 ---
-caption: "The two alleged crash sites, on either side of the town that gave them one name. Distances are the host's."
+caption: "The two alleged crash sites, on either side of the town that gave them one name. Distances are Gerb's."
 pins:
   - name: "Langtry, Texas"
     label: "Langtry"
@@ -386,25 +386,25 @@ pins:
 
 ### The witness and his record
 
-Colonel Robert Burton Willingham served in World War II and in Korea, and afterwards in the Air Force Reserve and the Civil Air Patrol. He says a mortar shell in a foxhole wounded him in the leg and head and earned him a Purple Heart. The host deliberately writes "claims", because he could not verify the award. [[Kevin Randle]], in *Crash: When UFOs Fall from the Sky*, questions Willingham's Air Force record, since the national personnel records service in St. Louis could not produce it. The host points out that a fire in that building on 12 July 1973 destroyed most records for personnel who served between 1947 and 1963. Noe Torres says he holds more than 50 documents proving Willingham's service, but the host has not seen them.
+Colonel Robert Burton Willingham served in World War II and in Korea, and afterwards in the Air Force Reserve and the Civil Air Patrol. He says a mortar shell in a foxhole wounded him in the leg and head and earned him a Purple Heart. Gerb deliberately writes "claims", because he could not verify the award. [[Kevin Randle]], in *Crash: When UFOs Fall from the Sky*, questions Willingham's Air Force record, since the national personnel records service in St. Louis could not produce it. Gerb points out that a fire in that building on 12 July 1973 destroyed most records for personnel who served between 1947 and 1963. Noe Torres says he holds more than 50 documents proving Willingham's service, but Gerb has not seen them.
 
-The story first appeared in 1965, in a weekly newspaper in Mechanicsburg, Pennsylvania, which asked Civil Air Patrol pilots about UFO encounters. Twelve years later researchers found the clipping in the files of the [[National Investigations Committee on Aerial Phenomena|NICAP]]. [[Todd Zechel]] tracked Willingham down and had him sign an affidavit. Both the article and the 1977 affidavit have him flying an F-94 in 1948. The book has an F-86 Sabre in 1955. Willingham put the difference down to his head injury. The host counts it against him: the aircraft and the year "are still very important things to get right", and if they are wrong "the affidavit is pretty much null and void".
+The story first appeared in 1965, in a weekly newspaper in Mechanicsburg, Pennsylvania, which asked Civil Air Patrol pilots about UFO encounters. Twelve years later researchers found the clipping in the files of the [[National Investigations Committee on Aerial Phenomena|NICAP]]. [[Todd Zechel]] tracked Willingham down and had him sign an affidavit. Both the article and the 1977 affidavit have him flying an F-94 in 1948. The book has an F-86 Sabre in 1955. Willingham put the difference down to his head injury. Gerb counts it against him: the aircraft and the year "are still very important things to get right", and if they are wrong "the affidavit is pretty much null and void".
 
 ### The sighting
 
 On a spring day in 1955, Willingham and other F-86 pilots flew out of [[Carswell Air Force Base]] to escort B-47s on the Texas leg of a New York–Texas–Washington State Cold War simulation exercise. His call sign was "Willie Eddie". By radio, the squadron heard that [[DEW Radar Systems|distant early warning radar]] in Canada had picked up fast-moving unknowns heading south toward Texas. A B-47 pilot then reported an unknown on radar coming south from the northwest. Willingham saw "a bright big object, like a star" approach to within 35 to 40 miles. He estimated its speed at 2,000 mph, about four times his F-86's 685 mph, and compared its bright surface to magnesium steel. [[George Smithson]] and other pilots said in the debrief that they had seen it. The object turned 90 degrees toward the Mexican border, gave off "a lot of sparks" and tilted down at about 45 degrees. Willingham wondered whether the sharp turn had damaged its hull.
 
-No record of the 1955 sighting survives, so the host sets it beside three other episodes:
+No record of the 1955 sighting survives, so Gerb sets it beside three other episodes:
 
-- **The Condon Report's Case 5 (19 September 1957).** A fireball alternating red and white followed a Carswell-based RB-47 for more than 600 miles. The crew saw it, Carswell radar and the aircraft's radar tracked it, and the ECM equipment registered a strong signal at 2,800 megacycles. Pilot Lewis D. Chase said it looked like "a glowing body as big as a barn". According to the [[Condon Report]], intelligence personnel removed the ECM and radar data on landing. The host shows the original CIA report of the incident.
+- **The Condon Report's Case 5 (19 September 1957).** A fireball alternating red and white followed a Carswell-based RB-47 for more than 600 miles. The crew saw it, Carswell radar and the aircraft's radar tracked it, and the ECM equipment registered a strong signal at 2,800 megacycles. Pilot Lewis D. Chase said it looked like "a glowing body as big as a barn". According to the [[Condon Report]], intelligence personnel removed the ECM and radar data on landing. Gerb shows the original CIA report of the incident.
 - **Dallas, 14 May 1954.** Marine reserve jets led by Major Charles Scarborough, about six miles west of Dallas, saw 16 objects in groups of four, alternating white and orange. The objects outran the pilots' attempt to box them in.
-- **San Antonio, 18 July 1955.** Months after the encounter, an unclassified document answered a request from the commander of USAF Security Service in San Antonio for UFO sighting data from the Northeast Air Command and the northwestern United States, specifically from B-47s. The host allows this may be coincidence.
+- **San Antonio, 18 July 1955.** Months after the encounter, an unclassified document answered a request from the commander of USAF Security Service in San Antonio for UFO sighting data from the Northeast Air Command and the northwestern United States, specifically from B-47s. Gerb allows this may be coincidence.
 
 ### At the wreck
 
 Willingham guessed that the object had come down near Langtry and asked Denver flight control for permission to look. The reply was: "Yes, go check out what it was and where it hit, we want to know where it was too." Approaching from San Angelo at about 800 feet, he saw a disc-shaped craft that had struck the ground just south of the Rio Grande, on the Mexican side, and skidded about 300 feet. Back at base he planned a private visit. He flew out in a 1947 Aeronca Champion with [[Jack Perkins]], a Pennsylvania electronics engineer and Civil Air Patrol colleague. Perkins was never punished and was only named after his death in 2002.
 
-They arrived at about 4 pm. The craft lay in roughly three sections with debris "some little and some large chunks about as big as a good sofa chair". The main body was a flattened disc 20 to 25 feet across, split in two, with half of it embedded in a sandy mound. A dome-shaped section 12 to 15 feet long lay 50 feet beyond it. Mexican soldiers in jeeps and cars stood a perimeter, but no trucks or aircraft were there and nobody was gathering anything. A Lieutenant Martinez from Mexico City noticed Willingham's USAF fatigues and offered to take him closer, without Perkins. He said: "We can't let anyone close to it. The American Air Force will be here very soon to clean this all up." Willingham took the soldiers to be from the nearest army base, at Ciudad Acuña, about 100 miles away. The host found no record of Martinez. He notes that the pattern of a foreign government guarding a wreck for an American team recurs elsewhere, as in the 1978 Bolivia retrieval from his [[Project Moondust]] video.
+They arrived at about 4 pm. The craft lay in roughly three sections with debris "some little and some large chunks about as big as a good sofa chair". The main body was a flattened disc 20 to 25 feet across, split in two, with half of it embedded in a sandy mound. A dome-shaped section 12 to 15 feet long lay 50 feet beyond it. Mexican soldiers in jeeps and cars stood a perimeter, but no trucks or aircraft were there and nobody was gathering anything. A Lieutenant Martinez from Mexico City noticed Willingham's USAF fatigues and offered to take him closer, without Perkins. He said: "We can't let anyone close to it. The American Air Force will be here very soon to clean this all up." Willingham took the soldiers to be from the nearest army base, at Ciudad Acuña, about 100 miles away. Gerb found no record of Martinez. He notes that the pattern of a foreign government guarding a wreck for an American team recurs elsewhere, as in the 1978 Bolivia retrieval from his [[Project Moondust]] video.
 
 ### The fragment
 
@@ -426,15 +426,15 @@ Before leaving, Willingham picked up a small piece of shiny metal. Back at base 
 ::
 ::
 
-The host thinks the metal part of the story "may be suspect", but he says it is undeniable that the US government studied UFO materials. He cites the shape-memory alloy from Roswell said to have been studied at [[Battelle Memorial Institute]], which the Langtry fragment does not resemble. He also cites Project Moondust, which was tasked with recovering foreign space vehicles and UFOs, and a 1966 CIA memo, "Exploitation of Metallic Fragment from Unidentified Flying Object", about material from a UFO that fell in the Congo.
+Gerb thinks the metal part of the story "may be suspect", but he says it is undeniable that the US government studied UFO materials. He cites the shape-memory alloy from Roswell said to have been studied at [[Battelle Memorial Institute]], which the Langtry fragment does not resemble. He also cites Project Moondust, which was tasked with recovering foreign space vehicles and UFOs, and a 1966 CIA memo, "Exploitation of Metallic Fragment from Unidentified Flying Object", about material from a UFO that fell in the Congo.
 
 ### A shifting account
 
-For the host, the most troubling part of the case is what Willingham said about bodies. He compares three versions of the story:
+For Gerb, the most troubling part of the case is what Willingham said about bodies. He compares three versions of the story:
 
 ::wiki-compare{video="8S9qdRWSnD8" video-title="The 1950s Del Rio, Texas UFO Crashes"}
 ---
-caption: "Three tellings of Willingham's story. \"Differs\" marks the details the host says contradict one another; a dash means that version does not say."
+caption: "Three tellings of Willingham's story. \"Differs\" marks the details Gerb says contradict one another; a dash means that version does not say."
 attributeLabel: "Detail"
 subjects:
   - name: "1965 article and 1977 affidavit"
@@ -464,19 +464,19 @@ rows:
 ---
 ::
 
-The host says details as basic as the aircraft and the year should not change from one telling to the next, and the book's chapter on bodies makes no mention of non-human beings. Only in the [[Jeff Rense]] interview does Willingham describe the bodies: "in a lot of different pieces", with heads like the familiar big-eyed type. Noe Torres repeated the bodies claim in a 2023 presentation.
+Gerb says details as basic as the aircraft and the year should not change from one telling to the next, and the book's chapter on bodies makes no mention of non-human beings. Only in the [[Jeff Rense]] interview does Willingham describe the bodies: "in a lot of different pieces", with heads like the familiar big-eyed type. Noe Torres repeated the bodies claim in a 2023 presentation.
 
-The host rules out poor reporting in the book, since it quotes Willingham directly. He also refuses to excuse the change as failing memory in old age, because Willingham already uses that argument for the aircraft and the year. He has written to Torres for comment and calls the contradiction "a massive issue in Willingham's credibility".
+Gerb rules out poor reporting in the book, since it quotes Willingham directly. He also refuses to excuse the change as failing memory in old age, because Willingham already uses that argument for the aircraft and the year. He has written to Torres for comment and calls the contradiction "a massive issue in Willingham's credibility".
 
 ### The Mexican general
 
-[[William Drager]], a former USAF member fluent in Spanish, is the case's independent witness. He was hired as an interpreter for a Japanese documentary about a colonel's UFO crash near the border. The host could not find the documentary but has seen screenshots of it in Torres's book. In an affidavit, Drager says he contacted a Mexican general who commanded that stretch of the border. The general told him: "Yes, I know about that. I don't have any papers or documents to prove it, but due to my position I know about that." When Drager, Willingham and the film crew met him on camera, he denied and evaded every question about the incident and about UFOs. Drager called him beyond reproach, a "military celebrity" in Mexico.
+[[William Drager]], a former USAF member fluent in Spanish, is the case's independent witness. He was hired as an interpreter for a Japanese documentary about a colonel's UFO crash near the border. Gerb could not find the documentary but has seen screenshots of it in Torres's book. In an affidavit, Drager says he contacted a Mexican general who commanded that stretch of the border. The general told him: "Yes, I know about that. I don't have any papers or documents to prove it, but due to my position I know about that." When Drager, Willingham and the film crew met him on camera, he denied and evaded every question about the incident and about UFOs. Drager called him beyond reproach, a "military celebrity" in Mexico.
 
 ## The El Indio Crash (1950)
 
 ### What the document says
 
-The Eisenhower Briefing Document, which the host calls the "alleged 1952 MJ-12 memo", follows its description of Roswell with a second case. On 6 December 1950 an object of similar origin struck the earth at high speed along the El Indio area of the border. It was so nearly obliterated that little was left when the search team arrived. The remains, recovered between El Indio and [[Guerrero, Mexico]], were taken to the Atomic Energy Commission's facility at Sandia, New Mexico, for study. The host concedes there "really isn't too much to be found out about this case".
+The Eisenhower Briefing Document, which Gerb calls the "alleged 1952 MJ-12 memo", follows its description of Roswell with a second case. On 6 December 1950 an object of similar origin struck the earth at high speed along the El Indio area of the border. It was so nearly obliterated that little was left when the search team arrived. The remains, recovered between El Indio and [[Guerrero, Mexico]], were taken to the Atomic Energy Commission's facility at Sandia, New Mexico, for study. Gerb concedes there "really isn't too much to be found out about this case".
 
 ### The witness at El Indio
 
@@ -484,16 +484,16 @@ The Eisenhower Briefing Document, which the host calls the "alleged 1952 MJ-12 m
 
 ### 6 December 1950
 
-The host calls the date "a key date". At 10:30 am Eastern time that day, a nationwide alert warned of a "large number of unidentified aircraft approaching northeastern US at high altitude", with interceptors being dispatched and "no reason to believe they are friendly". The document counts about 40 signatures at 32,000 feet. [[General Ramey]], the same general as at Roswell, cancelled the alert at 1316 hours. On 8 December a confidential memo to [[J. Edgar Hoover]] about flying saucers said Army intelligence had been put on high alert for any data on flying discs. The host asks whether the memo concerns the alert or a crash retrieval. He notes that the [[Hottel Memo]] shows the FBI discussing crash retrievals and bodies the same year. Todd Zechel reportedly obtained a declassified USAF document saying the military recovered a foreign object on 6 or 7 December 1950 and took it to Carswell. Since no proof of that document has been produced, the host leaves it out of the case.
+Gerb calls the date "a key date". At 10:30 am Eastern time that day, a nationwide alert warned of a "large number of unidentified aircraft approaching northeastern US at high altitude", with interceptors being dispatched and "no reason to believe they are friendly". The document counts about 40 signatures at 32,000 feet. [[General Ramey]], the same general as at Roswell, cancelled the alert at 1316 hours. On 8 December a confidential memo to [[J. Edgar Hoover]] about flying saucers said Army intelligence had been put on high alert for any data on flying discs. Gerb asks whether the memo concerns the alert or a crash retrieval. He notes that the [[Hottel Memo]] shows the FBI discussing crash retrievals and bodies the same year. Todd Zechel reportedly obtained a declassified USAF document saying the military recovered a foreign object on 6 or 7 December 1950 and took it to Carswell. Since no proof of that document has been produced, Gerb leaves it out of the case.
 
 ## The Sandia Thread
 
-The host follows the El Indio debris into the institutions said to have received it. He notes that the 2024 NDAA acknowledges the Atomic Energy Commission was historically used to misclassify and obscure UFO information. [[Sandia National Laboratories]] sits on the grounds of [[Kirtland Air Force Base, New Mexico|Kirtland Air Force Base]], which, like Sandia, has long been part of UFO lore.
+Gerb follows the El Indio debris into the institutions said to have received it. He notes that the 2024 NDAA acknowledges the Atomic Energy Commission was historically used to misclassify and obscure UFO information. [[Sandia National Laboratories]] sits on the grounds of [[Kirtland Air Force Base, New Mexico|Kirtland Air Force Base]], which, like Sandia, has long been part of UFO lore.
 
 ::wiki-chain{video="8S9qdRWSnD8" video-title="The 1950s Del Rio, Texas UFO Crashes"}
 ---
 kind: custody
-caption: "The thread the host follows from the El Indio debris to Lockheed's alleged reverse-engineering program."
+caption: "The thread Gerb follows from the El Indio debris to Lockheed's alleged reverse-engineering program."
 steps:
   - name: "1950 El Indio UFO Crash"
     date: "6 Dec 1950"
@@ -501,7 +501,7 @@ steps:
     cue: 1311
   - via: "Wreckage sent on, per the document"
     name: "Atomic Energy Commission"
-    note: "The host notes the 2024 NDAA's finding that the AEC was used to misclassify UFO information."
+    note: "Gerb notes the 2024 NDAA's finding that the AEC was used to misclassify UFO information."
     cue: 1493
   - via: "To the AEC's facility on Kirtland AFB"
     name: "Sandia National Laboratories"
@@ -523,14 +523,14 @@ steps:
 ---
 ::
 
-President [[Harry Truman]] handed Sandia's management to AT&T in 1949. The host notes that this was the telephone company that developed the transistor in the 1940s. [[Steven Greer]]'s [[Disclosure Project]] witness list contains two redacted entries about the company. One is a "witness from [redacted] with knowledge of ET technology transfer to AT&T" in the private industrial sector. The other is a company president who "knows about the ET technology transfer program". So at the time of the alleged retrieval, the lab said to have received the debris was run by a company that Greer's witnesses tie to non-human technology. The host wonders whether AT&T was "one of our early suspects for UFOs in the private sector". He then recalls USAF Master Sergeant [[Edgar Fouche]]'s claim that Lockheed reverse-engineered the [[TR-3B]] and that part of the program came from Sandia Labs. AT&T ran Sandia until 1993, when, in the host's words, it was "taken over by, you guessed it, Lockheed Martin". (Strictly, the 1993 contract went to Martin Marietta, which merged with Lockheed in 1995 to form Lockheed Martin.) He sees "a lot more to investigate here".
+President [[Harry Truman]] handed Sandia's management to AT&T in 1949. Gerb notes that this was the telephone company that developed the transistor in the 1940s. [[Steven Greer]]'s [[Disclosure Project]] witness list contains two redacted entries about the company. One is a "witness from [redacted] with knowledge of ET technology transfer to AT&T" in the private industrial sector. The other is a company president who "knows about the ET technology transfer program". So at the time of the alleged retrieval, the lab said to have received the debris was run by a company that Greer's witnesses tie to non-human technology. Gerb wonders whether AT&T was "one of our early suspects for UFOs in the private sector". He then recalls USAF Master Sergeant [[Edgar Fouche]]'s claim that Lockheed reverse-engineered the [[TR-3B]] and that part of the program came from Sandia Labs. AT&T ran Sandia until 1993, when, in Gerb's words, it was "taken over by, you guessed it, Lockheed Martin". (Strictly, the 1993 contract went to Martin Marietta, which merged with Lockheed in 1995 to form Lockheed Martin.) He sees "a lot more to investigate here".
 
-## The Host's Verdict
+## Gerb's Verdict
 
 > [!note] Why Willingham gets harsher treatment than Stansel
-> The host compares Willingham with [[Arthur Stansel Jr.]], the single-affidavit witness to the 1953 Kingman retrieval, who is corroborated by names such as Edward Doll and Eric Wang. Stansel's affidavit, he says, does not change. Willingham's does, and so does his account of the bodies.
+> Gerb compares Willingham with [[Arthur Stansel Jr.]], the single-affidavit witness to the 1953 Kingman retrieval, who is corroborated by names such as Edward Doll and Eric Wang. Stansel's affidavit, he says, does not change. Willingham's does, and so does his account of the bodies.
 
-The host asks viewers whether he is being too harsh on Willingham and answers that he is "just kind of weighing the facts". He finds Willingham's story fascinating and its context interesting, especially the other B-47 sightings. Its credibility, however, is "a lot less", and he will not treat it as more than "just a story" until Torres answers his questions about the bodies. He rates the El Indio case more highly, despite its thin record. He says the MJ-12 papers mix disinformation with fact, as he says [[Stanton Friedman]] argued, and that the pieces of Sandia, Kirtland and the AEC "kind of hook together" with what is already believed about crash retrievals. He closes by trailing the second volume of his *UFO Whistleblowers* series and a possible video on the origins and taxonomy of non-human intelligence.
+Gerb asks viewers whether he is being too harsh on Willingham and answers that he is "just kind of weighing the facts". He finds Willingham's story fascinating and its context interesting, especially the other B-47 sightings. Its credibility, however, is "a lot less", and he will not treat it as more than "just a story" until Torres answers his questions about the bodies. He rates the El Indio case more highly, despite its thin record. He says the MJ-12 papers mix disinformation with fact, as he says [[Stanton Friedman]] argued, and that the pieces of Sandia, Kirtland and the AEC "kind of hook together" with what is already believed about crash retrievals. He closes by trailing the second volume of his *UFO Whistleblowers* series and a possible video on the origins and taxonomy of non-human intelligence.
 
 ## Key Figures
 
@@ -551,7 +551,7 @@ entries:
     note: "Says a Mexican general privately acknowledged the crash, then denied it on camera. Stringfield files his testimony under 1950."
   - name: "Noe Torres"
     role: "Co-author of The Other Roswell"
-    note: "The host's main source. Torres claims 50-plus documents on Willingham's service and repeated the bodies claim in 2023."
+    note: "Gerb's main source. Torres claims 50-plus documents on Willingham's service and repeated the bodies claim in 2023."
   - name: "Ruben Uriarte"
     role: "Co-author of The Other Roswell"
     note: "Interviewed Willingham with Torres near the end of his life for the 2008 book."
@@ -584,9 +584,9 @@ entries:
 - Willingham said he and Jack Perkins landed beside the wreck, a disc in about three sections guarded by Mexican soldiers who made no attempt at retrieval, and that a Lieutenant Martinez told him the American Air Force would soon arrive "to clean this all up".
 - Willingham said he took a light, torch-resistant, honeycombed metal fragment that vanished, along with any record of it, at a USMC metallurgy lab in Hagerstown, Maryland; a USAF intelligence general warned him to keep silent.
 - The 1965 article and 1977 affidavit give an F-94 in 1948; *The Other Roswell* gives an F-86 in 1955. Willingham attributes the change to a Korean War head injury.
-- *The Other Roswell* quotes Willingham saying he never saw bodies; in a 24 July 2012 Jeff Rense interview he described three to four non-human bodies, and Noe Torres repeated the claim in 2023. The host calls this "a massive issue" for Willingham's credibility.
+- *The Other Roswell* quotes Willingham saying he never saw bodies; in a 24 July 2012 Jeff Rense interview he described three to four non-human bodies, and Noe Torres repeated the claim in 2023. Gerb calls this "a massive issue" for Willingham's credibility.
 - A Mexican general reportedly told interpreter William Drager privately that he knew of the crash, then denied it on camera.
-- The host separates the cases on four points: the state of the wreckage, Willingham's presence in Korea until 26 December 1950, their locations on opposite sides of Del Rio, and the host's dating of DEW radar to 1952.
+- Gerb separates the cases on four points: the state of the wreckage, Willingham's presence in Korea until 26 December 1950, their locations on opposite sides of Del Rio, and Gerb's dating of DEW radar to 1952.
 - A nationwide alert over some 40 unidentified aircraft was called on 6 December 1950, the date of the El Indio crash, and cancelled by General Ramey; on 8 December an FBI memo told J. Edgar Hoover that Army intelligence was on high alert for flying-disc data.
 - AT&T managed Sandia from 1949 to 1993; two Disclosure Project witnesses allege ET technology transfer to AT&T, and Edgar Fouche claimed Lockheed's alleged TR-3B program drew on Sandia Labs.
 

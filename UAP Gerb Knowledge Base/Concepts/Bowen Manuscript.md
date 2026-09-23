@@ -11,8 +11,8 @@ The Bowen Manuscript is the typed manuscript of *Encyclopedia of Flying Saucers*
 The original onion-skin pages carry pen and pencil marginalia that Ryan and [[Robert Wood]] attribute to [[Vannevar Bush]]. Forensic testing of the ink, they say, dates it to about 1962. Among the notes described in the video:
 
 - the question "what is Don Menzel doing?", referring to [[Donald Menzel]], another alleged [[Majestic 12]] member;
-- underlining of passages about insect-like beings, which the host links to [[Robert Sarbacher]]'s description of the crews;
-- underlining of a passage on Mussolini and Hitler being exposed to a recovered craft in 1942, which the host connects to the [[1933 Magenta UFO CrashRetrieval|1933 Magenta, Italy case]];
+- underlining of passages about insect-like beings, which Gerb links to [[Robert Sarbacher]]'s description of the crews;
+- underlining of a passage on Mussolini and Hitler being exposed to a recovered craft in 1942, which Gerb connects to the [[1933 Magenta UFO CrashRetrieval|1933 Magenta, Italy case]];
 - a handwritten "Moondust", referring to [[Project Moondust]];
 - beside speculation that some saucers might be secret American gravity-control craft, the note "this should not get out", which Wood takes as a sign of concern about exposing anti-gravity work.
 

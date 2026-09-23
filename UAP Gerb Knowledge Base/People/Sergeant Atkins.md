@@ -13,7 +13,7 @@ Atkins was part of the vanguard team dispatched to investigate a reportedly down
 
 ## Post-Incident Career
 
-Atkins continued a long career with the Marine Corps after Operation Laser Strike, eventually retiring at a senior enlisted rank. UAP Gerb identified Atkins as a real USMC veteran and wrote to him, along with Montil and Allen, during his 2025 investigation. Only one of the three replied, and the host has kept that Marine anonymous.
+Atkins continued a long career with the Marine Corps after Operation Laser Strike, eventually retiring at a senior enlisted rank. UAP Gerb identified Atkins as a real USMC veteran and wrote to him, along with Montil and Allen, during his 2025 investigation. Only one of the three replied, and Gerb has kept that Marine anonymous.
 
 ## Sources
 

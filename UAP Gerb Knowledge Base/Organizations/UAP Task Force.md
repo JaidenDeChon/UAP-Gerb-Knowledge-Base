@@ -11,7 +11,7 @@ The Unidentified Aerial Phenomena Task Force (UAPTF) was a U.S. Department of De
 
 An alleged leaked classified document that surfaced online in 2021 or 2022 purports to be a section from a longer classified appendix of a UAPTF report prepared for Congress. The document, which includes sections titled "Behavioral Data Analysis" and references to "DOD 1992 through 2017 High Value Witness Interviews," allegedly classifies the [[Flyby Footage]] as "high value witness testimony" within Appendix F, Section 4B. The document lists researchers [[K Shakoya]], [[M. Harmon]], [[S. McCaron]], and [[Hillary S. McCaron]] as contributors, with the latest contribution dated 2020.
 
-The authenticity of this document remains unverified, and as noted by the presenter, exhaustive searches for the named researchers and referenced reports (including the "Blackout Flower Report" and "Layer Three Behavioral Assessment") have yielded minimal results, raising questions about whether the document represents genuine leaked material, a sophisticated fabrication, or a document using pseudonyms for classification purposes.
+The authenticity of this document remains unverified, and as noted by Gerb, exhaustive searches for the named researchers and referenced reports (including the "Blackout Flower Report" and "Layer Three Behavioral Assessment") have yielded minimal results, raising questions about whether the document represents genuine leaked material, a sophisticated fabrication, or a document using pseudonyms for classification purposes.
 
 ## Operational Methods
 

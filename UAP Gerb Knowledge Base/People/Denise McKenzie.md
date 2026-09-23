@@ -31,7 +31,7 @@ This testimony established SAIC as a primary conduit for concealing UAP-related 
 
 ## Rediscovered tape
 
-UAP Gerb's 2025 SAIC investigation reports that the host found McKenzie's complete March 2001 videotaped interview in the Disclosure Project archive, and that he has tried to contact both McKenzie and Stuart Stanley without reply. In a clip the video plays, [[Steven Greer]] retells her account as proof that money was put into "fake" programs so that audits showed spending on "more helicopters". The host sets her story beside a 1992 sworn deposition, reported by *Vanity Fair* in 2007, in which a former SAIC executive said "mischarging" had become institutionalized at the company, and beside Aldric Saucier's SDI whistleblower case the same year.
+UAP Gerb's 2025 SAIC investigation reports that Gerb found McKenzie's complete March 2001 videotaped interview in the Disclosure Project archive, and that he has tried to contact both McKenzie and Stuart Stanley without reply. In a clip the video plays, [[Steven Greer]] retells her account as proof that money was put into "fake" programs so that audits showed spending on "more helicopters". Gerb sets her story beside a 1992 sworn deposition, reported by *Vanity Fair* in 2007, in which a former SAIC executive said "mischarging" had become institutionalized at the company, and beside Aldric Saucier's SDI whistleblower case the same year.
 
 ## Significance
 

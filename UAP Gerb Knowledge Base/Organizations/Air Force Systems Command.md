@@ -9,7 +9,7 @@ Air Force Systems Command (AFSC) was the U.S. Air Force major command responsibl
 
 ## Alleged role in UFO legacy programs
 
-AFSC appears in the account of former New Mexico state representative [[Andrew Kissner]], as relayed in UAP Gerb's *The Hidden Wing*. Kissner's sources said classified presidential executive orders in July 1948 gave recovered flying discs to the [[Atomic Energy Commission]] and its national laboratories. In the resulting program the [[National Security Council]] was overall coordinator, and the Naval Research Laboratory, [[Vannevar Bush]]'s Research and Development Board and Air Force Systems Command were key support elements. Since AFSC formally dates from 1961, the 1948 reference is read as covering its predecessor organizations. The host treats AFSC as one of two channels, with AFRL, through which the AFSWC, home of Dr. [[Eric Henry Wang]], survives inside today's AFMC.
+AFSC appears in the account of former New Mexico state representative [[Andrew Kissner]], as relayed in UAP Gerb's *The Hidden Wing*. Kissner's sources said classified presidential executive orders in July 1948 gave recovered flying discs to the [[Atomic Energy Commission]] and its national laboratories. In the resulting program the [[National Security Council]] was overall coordinator, and the Naval Research Laboratory, [[Vannevar Bush]]'s Research and Development Board and Air Force Systems Command were key support elements. Since AFSC formally dates from 1961, the 1948 reference is read as covering its predecessor organizations. Gerb treats AFSC as one of two channels, with AFRL, through which the AFSWC, home of Dr. [[Eric Henry Wang]], survives inside today's AFMC.
 
 ## Sources
 

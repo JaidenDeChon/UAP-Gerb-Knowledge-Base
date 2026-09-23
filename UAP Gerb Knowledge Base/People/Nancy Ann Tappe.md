@@ -15,7 +15,7 @@ The concept gained wider cultural traction in the 1990s through the work of Lee 
 
 ## Relation to UAP Discourse
 
-The inclusion of Indigo Children in UAP iceberg discussions is tenuous. Some proponents speculate that Indigo Children may be human-extraterrestrial hybrids or recipients of extraterrestrial genetic influence. The host of [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]] explicitly found this entry poorly connected to the UAP phenomenon and included it only because it appeared in the original iceberg compilation.
+The inclusion of Indigo Children in UAP iceberg discussions is tenuous. Some proponents speculate that Indigo Children may be human-extraterrestrial hybrids or recipients of extraterrestrial genetic influence. Gerb of [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]] explicitly found this entry poorly connected to the UAP phenomenon and included it only because it appeared in the original iceberg compilation.
 
 ## Sources
 

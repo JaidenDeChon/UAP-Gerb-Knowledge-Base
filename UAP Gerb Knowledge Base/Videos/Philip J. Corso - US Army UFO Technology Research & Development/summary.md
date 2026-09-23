@@ -29,7 +29,7 @@ stats:
 
 ## Overview
 
-This video is UAP Gerb's full analysis of retired US Army Lieutenant Colonel [[Philip J. Corso]] (1915–1998). Corso claimed that as chief of a little-known [[U.S. Army Foreign Technology Division|Army Foreign Technology Division]] under Lieutenant General [[Arthur Trudeau]], he handled material from the 1947 [[Roswell Crash]] and fed it into American industry. The host makes one deliberate choice at the outset. He sets aside the 1997 bestseller *The Day After Roswell*, co-written with [[Bill Burns|William J. Birnes]], and works only from *Dawn of a New Age*. This is the 176-page manuscript of Corso's own notes, released after his death by his son [[Philip Corso Jr.]]. The host argues that most of the embellishments critics attack were added in the book.
+This video is UAP Gerb's full analysis of retired US Army Lieutenant Colonel [[Philip J. Corso]] (1915–1998). Corso claimed that as chief of a little-known [[U.S. Army Foreign Technology Division|Army Foreign Technology Division]] under Lieutenant General [[Arthur Trudeau]], he handled material from the 1947 [[Roswell Crash]] and fed it into American industry. Gerb makes one deliberate choice at the outset. He sets aside the 1997 bestseller *The Day After Roswell*, co-written with [[Bill Burns|William J. Birnes]], and works only from *Dawn of a New Age*. This is the 176-page manuscript of Corso's own notes, released after his death by his son [[Philip Corso Jr.]]. Gerb argues that most of the embellishments critics attack were added in the book.
 
 Corso's claims come in four layers:
 
@@ -40,13 +40,13 @@ Corso's claims come in four layers:
 
 The video sets these claims against three things: Corso's documented military career, the history of Army R&D in the late 1950s, and his critics. The critics are [[Stanton Friedman]], [[John B. Alexander]], [[Jacques Vallee]], and the FBI file that [[The Black Vault]] released in 2024.
 
-The host's central point is about institutions. He argues that the Army office Corso ran was real but is almost invisible. It appears in Corso's own military records but in no FOIA release, newspaper or article. It is overshadowed by the far better-known [[Air Force Foreign Technology Division]] at Wright-Patterson. If Corso is right, the host says, the Army's Foreign Technology Division, formed in 1960, may have been one of the first structured US UFO legacy programs. It worked through corporations, universities and semi-private research centers, as later accounts say [[Waived Unacknowledged Special Access Programs (USAPs)|unacknowledged special access programs]] do. By the end of the video the host is largely favourable to the manuscript. He says he cannot judge the technology claims and is still troubled by the White Sands encounter.
+Gerb's central point is about institutions. He argues that the Army office Corso ran was real but is almost invisible. It appears in Corso's own military records but in no FOIA release, newspaper or article. It is overshadowed by the far better-known [[Air Force Foreign Technology Division]] at Wright-Patterson. If Corso is right, Gerb says, the Army's Foreign Technology Division, formed in 1960, may have been one of the first structured US UFO legacy programs. It worked through corporations, universities and semi-private research centers, as later accounts say [[Waived Unacknowledged Special Access Programs (USAPs)|unacknowledged special access programs]] do. By the end of the video Gerb is largely favourable to the manuscript. He says he cannot judge the technology claims and is still troubled by the White Sands encounter.
 
 ## Chronology
 
 ::wiki-timeline{video="_sv0Otxtcn4" video-title="Philip J. Corso - US Army UFO Technology Research & Development"}
 ---
-help: "The ruler spans Corso's life and his afterlife as a witness, from his enlistment in 1942 to the release of his FBI file in 2024. Each tick is an entry, coloured by category; major entries have taller ticks. Click the ruler to jump to the nearest entry. The bands are the video's own periods: Corso's 'dark ages' and 'golden age' of Army R&D, with his early career before them and the decades of silence and disclosure after. Timestamps jump the mini-player to the moment the host discusses each entry. The host does not tell the story in date order. He opens with the manuscript's release, for example, and comes back to the FBI file near the end. So while the video plays, the playhead can jump backwards along the ruler."
+help: "The ruler spans Corso's life and his afterlife as a witness, from his enlistment in 1942 to the release of his FBI file in 2024. Each tick is an entry, coloured by category; major entries have taller ticks. Click the ruler to jump to the nearest entry. The bands are the video's own periods: Corso's 'dark ages' and 'golden age' of Army R&D, with his early career before them and the decades of silence and disclosure after. Timestamps jump the mini-player to the moment Gerb discusses each entry. Gerb does not tell the story in date order. He opens with the manuscript's release, for example, and comes back to the FBI file near the end. So while the video plays, the playhead can jump backwards along the ruler."
 eras:
   - id: early
     label: "Early Career"
@@ -154,7 +154,7 @@ events:
   - date: "1958"
     title: "Army Research Office established"
     cue: 3758
-    summary: "An Army R&D primer the host analyzes shows that in 1958, under pressure from civilian scientists, Trudeau's office set up the Army Research Office as the Army's single point of contact for research. The host reasons the Foreign Technology Division may have run parallel to it, out of civilian and congressional view."
+    summary: "An Army R&D primer Gerb analyzes shows that in 1958, under pressure from civilian scientists, Trudeau's office set up the Army Research Office as the Army's single point of contact for research. Gerb reasons the Foreign Technology Division may have run parallel to it, out of civilian and congressional view."
     category: organization
     significance: notable
     entities:
@@ -162,7 +162,7 @@ events:
   - date: "1958-07"
     title: "MITRE Corporation founded"
     cue: 1476
-    summary: "MITRE was established in 1958 by MIT Lincoln Laboratory staff working on the SAGE air-defense radar network. The host offers as a thesis that the new FFRDC partly met the Army's need to seed recovered technology into US industry."
+    summary: "MITRE was established in 1958 by MIT Lincoln Laboratory staff working on the SAGE air-defense radar network. Gerb offers as a thesis that the new FFRDC partly met the Army's need to seed recovered technology into US industry."
     category: organization
     significance: notable
     entities:
@@ -220,7 +220,7 @@ events:
   - date: "1962"
     title: "Trudeau retires; Dwight E. Beach takes over"
     cue: 3675
-    summary: "Trudeau retired in 1962 and was followed as Chief of Army R&D by General Dwight E. Beach. From that point, the host says, the Army Foreign Technology Division leaves no trace, matching John B. Alexander's finding that it formed as Corso said and then vanished soon after his retirement."
+    summary: "Trudeau retired in 1962 and was followed as Chief of Army R&D by General Dwight E. Beach. From that point, Gerb says, the Army Foreign Technology Division leaves no trace, matching John B. Alexander's finding that it formed as Corso said and then vanished soon after his retirement."
     category: person
     significance: notable
     entities:
@@ -266,7 +266,7 @@ events:
   - date: "1992"
     title: "Senate POW/MIA testimony"
     cue: 486
-    summary: "In 1992 Corso testified before the Senate Select Committee on POW/MIA Affairs about hundreds of American soldiers abandoned in Korean War prison camps. The host cites the committee's report, which lists Corso as NSC staff under Eisenhower, against claims he never served on the NSC."
+    summary: "In 1992 Corso testified before the Senate Select Committee on POW/MIA Affairs about hundreds of American soldiers abandoned in Korean War prison camps. Gerb cites the committee's report, which lists Corso as NSC staff under Eisenhower, against claims he never served on the NSC."
     category: document
     significance: minor
     entities:
@@ -274,7 +274,7 @@ events:
   - date: "1993"
     title: "A KGB list of Soviet recovered materials"
     cue: 3455
-    summary: "In 1993 Corso asked old acquaintances to query a KGB general about recovered materials and received a list, which the host treats cautiously as possible disinformation. It is the basis for Corso's claim that the Soviets ran their own parallel program after spies tipped Stalin off to Roswell."
+    summary: "In 1993 Corso asked old acquaintances to query a KGB general about recovered materials and received a list, which Gerb treats cautiously as possible disinformation. It is the basis for Corso's claim that the Soviets ran their own parallel program after spies tipped Stalin off to Roswell."
     category: document
     significance: minor
     entities:
@@ -310,7 +310,7 @@ events:
   - date: "2024-07"
     title: "The Black Vault publishes Corso's FBI file"
     cue: 4484
-    summary: "In July 2024 John Greenewald's The Black Vault released FBI documents on Corso. All are cross-references rather than main case files, and none mention UFOs or his Army duties, which the host finds odd."
+    summary: "In July 2024 John Greenewald's The Black Vault released FBI documents on Corso. All are cross-references rather than main case files, and none mention UFOs or his Army duties, which Gerb finds odd."
     category: document
     significance: notable
     entities:
@@ -324,13 +324,13 @@ events:
 ::wiki-cue{t=433 video="_sv0Otxtcn4" video-title="Philip J. Corso - US Army UFO Technology Research & Development" entry-title="Corso's military record"}
 ::
 
-The host opens with Corso's record. He calls it a military intelligence background as solid as [[David Grusch]]'s, and one few other witnesses can match. Corso served from 23 February 1942 to 1 March 1963:
+Gerb opens with Corso's record. He calls it a military intelligence background as solid as [[David Grusch]]'s, and one few other witnesses can match. Corso served from 23 February 1942 to 1 March 1963:
 
 - **World War II.** He served in Military Intelligence in Europe. At the war's end he headed the Counter Intelligence Corps in Rome. There he arranged safe passage for Jewish refugees and acted as emissary to Giovanni Battista Montini, the future Pope Paul VI.
 - **Korea.** In the Korean War he worked directly under General Douglas MacArthur. He was chief of the Special Projects Branch of Far East Command's Intelligence Division and investigated prisoner-of-war camps. In 1992 he testified to the Senate Select Committee on POW/MIA Affairs about American soldiers abandoned in those camps.
 - **The NSC.** From 1953 to 1957 he served on the staff of [[Dwight D. Eisenhower|President Eisenhower]]'s [[National Security Council]].
 
-Skeptics deny that Corso was ever an NSC member. The host answers with two sources:
+Skeptics deny that Corso was ever an NSC member. Gerb answers with two sources:
 
 - The 1992 Senate committee report lists him as NSC staff.
 - Corso's FOIA-released records place him on the Operations Coordinating Board. Eisenhower created this covert-operations committee under Executive Order 10483, and it reported to the NSC.
@@ -338,14 +338,14 @@ Skeptics deny that Corso was ever an NSC member. The host answers with two sourc
 Corso claimed nine clearance levels above Top Secret, up to Eyes Only material for the White House and NSC. He said only Eisenhower and his superior, Special Assistant C. D. Jackson, knew of them. He said he became aware of UFO information in this period, though nothing about reverse engineering. He then commanded missile units at White Sands and in Germany, including the 71st Missile Battalion. He served as Inspector General of the Seventh Army, and in 1960 Trudeau called him to the Pentagon.
 
 > [!note] Lieutenant colonel, not colonel
-> Corso is often called "Colonel Philip J. Corso". The host says he has never been able to verify that Corso reached full colonel. He calls him Lieutenant Colonel throughout, the rank shown in his military records.
+> Corso is often called "Colonel Philip J. Corso". Gerb says he has never been able to verify that Corso reached full colonel. He calls him Lieutenant Colonel throughout, the rank shown in his military records.
 
 ### Bush, Trudeau and the promise
 
-The host adds an account from [[Jacques Vallee]]'s book *Forbidden Science: Pacific Heights*. In it, [[Eric Davis]] asked former president George H. W. Bush whether the material Corso handled could have been Nazi hardware. Bush said that was impossible. By that time, he said, all German secrets had been processed and filed away, and they were not used as cover for anything else. Bush also made two other claims to Davis:
+Gerb adds an account from [[Jacques Vallee]]'s book *Forbidden Science: Pacific Heights*. In it, [[Eric Davis]] asked former president George H. W. Bush whether the material Corso handled could have been Nazi hardware. Bush said that was impossible. By that time, he said, all German secrets had been processed and filed away, and they were not used as cover for anything else. Bush also made two other claims to Davis:
 
 - The alleged 1954 landing at Holloman Air Force Base, where Eisenhower is said to have made a deal with non-human intelligence, really happened.
-- Trudeau briefed Bush on legacy programs around the time of the 1968 Mendel Rivers congressional hearings. Trudeau reportedly told him that "his man Corso" had been asked to testify and could reveal alien hardware distributed to industrial labs. As a result of that conversation, Corso's testimony was squashed. (Vallee's book says "Colonel Trudeau", which the host takes to be a typo.)
+- Trudeau briefed Bush on legacy programs around the time of the 1968 Mendel Rivers congressional hearings. Trudeau reportedly told him that "his man Corso" had been asked to testify and could reveal alien hardware distributed to industrial labs. As a result of that conversation, Corso's testimony was squashed. (Vallee's book says "Colonel Trudeau", which Gerb takes to be a typo.)
 
 Asked in an interview why he waited until the 1990s, Corso said he had promised Trudeau not to speak until the general died. He began writing after Trudeau's death and had never meant to write a book at all. His own son, he said, complained that he had kept silent for 35 years.
 
@@ -390,23 +390,23 @@ routes:
 ---
 ::
 
-The host picks out two details:
+Gerb picks out two details:
 
 - Roswell accounts usually say the wreckage was flown to Wright-Patterson. That raises the question of whether the bodies went separately by road. Truck convoys also appear in other retrieval stories, such as [[1953 Kingman, Arizona Crash Retrieval|Kingman]] and [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg]].
-- *Dawn of a New Age* never mentions the Fort Riley body, although both the affidavit and *The Day After Roswell* describe it. The host finds this strange.
+- *Dawn of a New Age* never mentions the Fort Riley body, although both the affidavit and *The Day After Roswell* describe it. Gerb finds this strange.
 
 > [!info] Extraterrestrial biological entity
-> The affidavit's phrase for the body, abbreviated EBE, also appears in the alleged [[Majestic 12]] Special Operations Manual. That manual describes two types, EBE-1 and EBE-2, and the host notes that EBE-1 closely matches Corso's description. Corso said his team coined the name after concluding that the beings were clones.
+> The affidavit's phrase for the body, abbreviated EBE, also appears in the alleged [[Majestic 12]] Special Operations Manual. That manual describes two types, EBE-1 and EBE-2, and Gerb notes that EBE-1 closely matches Corso's description. Corso said his team coined the name after concluding that the beings were clones.
 
 ## The Manuscript, Not the Book
 
-The host treats the difference between Corso's two texts as the key to judging him. Philip Corso Jr. had not planned to publish his father's notes. He did so because his father had hated the bestseller. According to his son, Corso went through the book marking everything he had not said or did not like, and gave up halfway through. Others who saw the manuscript before Corso died, John B. Alexander among them, also noticed sensational details in the book that are not in the manuscript.
+Gerb treats the difference between Corso's two texts as the key to judging him. Philip Corso Jr. had not planned to publish his father's notes. He did so because his father had hated the bestseller. According to his son, Corso went through the book marking everything he had not said or did not like, and gave up halfway through. Others who saw the manuscript before Corso died, John B. Alexander among them, also noticed sensational details in the book that are not in the manuscript.
 
-The host picks out the differences point by point:
+Gerb picks out the differences point by point:
 
 ::wiki-compare{video="_sv0Otxtcn4" video-title="Philip J. Corso - US Army UFO Technology Research & Development"}
 ---
-caption: "Corso's two texts, as the video compares them. The host works only from the manuscript."
+caption: "Corso's two texts, as the video compares them. Gerb works only from the manuscript."
 attributeLabel: "Point"
 subjects:
   - name: "Dawn of a New Age"
@@ -452,9 +452,9 @@ rows:
 ---
 ::
 
-The host calls the manuscript "a dreadful read", but values it as an unfiltered look at Corso's experiences.
+Gerb calls the manuscript "a dreadful read", but values it as an unfiltered look at Corso's experiences.
 
-The host notes that nearly all criticism of Corso is aimed at the book and its claims about seeding technology. Even so, Alexander, Vallee and other critics agree that Corso's story never changed. However often he told it, he repeated the same details. In the host's words, he "sounded like a tape recorder".
+Gerb notes that nearly all criticism of Corso is aimed at the book and its claims about seeding technology. Even so, Alexander, Vallee and other critics agree that Corso's story never changed. However often he told it, he repeated the same details. In Gerb's words, he "sounded like a tape recorder".
 
 ## The Army's Foreign Technology Division
 
@@ -468,16 +468,16 @@ Corso described 1947 to 1958 as the disorganized "dark ages" of Army research an
 
 Also in 1958, all Army R&D was brought under one department, the Office of the Chief of Army R&D. Trudeau headed it and controlled its personnel, technical services, laboratories, installations and budget. Corso calls 1958 to 1963 the "golden age" of Army R&D. Even then, he says, the Army faced civilian control of space, opposition within the Department of Defense, and hostility from the CIA and the State Department. In his account, this is why everything touching areas "out of this world" was held by a select few and tightly compartmentalized.
 
-The host checks this against an Army R&D primer, which confirms two points:
+Gerb checks this against an Army R&D primer, which confirms two points:
 
 - In 1958, under pressure from civilian scientists, Trudeau's office set up the Army Research Office as the Army's single point of contact for research.
 - The Chief of R&D was given a parallel line of authority over technical services, including key personnel and R&D funds.
 
-From this the host reasons that the Foreign Technology Division could have run alongside the Army Research Office, out of civilian and congressional view.
+From this Gerb reasons that the Foreign Technology Division could have run alongside the Army Research Office, out of civilian and congressional view.
 
-The primer also records three programs the Army created early on to manage R&D: University Research Initiatives, independent laboratory in-house research, and [[Independent Research and Development (IRAD)|independent research and development]] (IRAD). The host notes that Grusch has linked IRAD funding to legacy programs. These initiatives eventually led to UARCs (University Affiliated Research Centers) and [[Federally Funded Research and Development Center (FFRDC)|FFRDCs]].
+The primer also records three programs the Army created early on to manage R&D: University Research Initiatives, independent laboratory in-house research, and [[Independent Research and Development (IRAD)|independent research and development]] (IRAD). Gerb notes that Grusch has linked IRAD funding to legacy programs. These initiatives eventually led to UARCs (University Affiliated Research Centers) and [[Federally Funded Research and Development Center (FFRDC)|FFRDCs]].
 
-The chart below shows the structure as the video describes it. Placing the Foreign Technology Division beside the Army Research Office is the host's inference. The partners are the ones Corso names.
+The chart below shows the structure as the video describes it. Placing the Foreign Technology Division beside the Army Research Office is Gerb's inference. The partners are the ones Corso names.
 
 ::wiki-org-chart
 ---
@@ -491,7 +491,7 @@ root:
       note: "The Army's single point of contact for civilian scientists, per the R&D primer."
     - name: "U.S. Army Foreign Technology Division"
       label: "Chief: Philip J. Corso, 1960"
-      note: "Assigned 'developments not of this world'. The host infers it ran parallel to the Army Research Office, out of view."
+      note: "Assigned 'developments not of this world'. Gerb infers it ran parallel to the Army Research Office, out of view."
       children:
         - name: "Army laboratories"
           label: "In-house labs"
@@ -504,7 +504,7 @@ root:
           note: "Trudeau often met its board and executives, according to his memoirs."
         - name: "Federally Funded Research and Development Center (FFRDC)"
           label: "Universities and semi-private centers"
-          note: "Corso names 'many leading universities'. The host links MITRE's 1958 founding to the same need."
+          note: "Corso names 'many leading universities'. Gerb links MITRE's 1958 founding to the same need."
     - name: "Technical services"
       label: "Parallel line of authority"
       note: "Gave the Chief of R&D a say over key personnel and the allocation of R&D funds."
@@ -530,7 +530,7 @@ Subjects 1, 3 and 4 were ordinary work. The second, Corso wrote, was a different
 ::wiki-cue{t=3605 video="_sv0Otxtcn4" video-title="Philip J. Corso - US Army UFO Technology Research & Development" entry-title="Two Foreign Technology Divisions"}
 ::
 
-This is the point the host most wants viewers to take away: the division Corso ran belonged to the Army, not the Air Force.
+This is the point Gerb most wants viewers to take away: the division Corso ran belonged to the Army, not the Air Force.
 
 ::wiki-compare{video="_sv0Otxtcn4" video-title="Philip J. Corso - US Army UFO Technology Research & Development"}
 ---
@@ -553,7 +553,7 @@ rows:
   - attribute: "Remit"
     cells:
       - "Included "developments not of this world""
-      - { text: "Reportedly recovered Russian MiGs; perhaps, the host thinks, technologies of unknown origin too", cue: 3622 }
+      - { text: "Reportedly recovered Russian MiGs; perhaps, Gerb thinks, technologies of unknown origin too", cue: 3622 }
   - attribute: "Paper trail"
     cue: 3691
     cells:
@@ -566,9 +566,9 @@ rows:
 ---
 ::
 
-John B. Alexander confirmed that the Army division was formed as Corso said. The host compares its disappearance to the Army's [[Interplanetary Phenomenon Unit]], known only through the Army's institutional memory, and has filed FOIA requests of his own. He thinks the Air Force division, set up under [[Air Force Systems Command]] from the [[Air Force Technical Intelligence Center|Air Technical Intelligence Center]] at [[Wright-Patterson Air Force Base]], may have handled technologies of unknown origin in parallel with the Army office; according to Corso, [[Project Moondust]] and [[Operation Bluefly]] reported to it.
+John B. Alexander confirmed that the Army division was formed as Corso said. Gerb compares its disappearance to the Army's [[Interplanetary Phenomenon Unit]], known only through the Army's institutional memory, and has filed FOIA requests of his own. He thinks the Air Force division, set up under [[Air Force Systems Command]] from the [[Air Force Technical Intelligence Center|Air Technical Intelligence Center]] at [[Wright-Patterson Air Force Base]], may have handled technologies of unknown origin in parallel with the Army office; according to Corso, [[Project Moondust]] and [[Operation Bluefly]] reported to it.
 
-If Corso's account is true, the host concludes, the Army ran a real program that stayed hidden from the public because all the attention went to its larger Air Force namesake.
+If Corso's account is true, Gerb concludes, the Army ran a real program that stayed hidden from the public because all the attention went to its larger Air Force namesake.
 
 ## Seeding the Technology
 
@@ -583,9 +583,9 @@ Corso says the Army had been exploiting recovered material since Roswell. Around
 
 The program had two stated goals: the national security of the United States and protection of the American way of life. Artifacts went out as ordinary R&D proposals, and only a few combat officers knew the truth. Otherwise, Corso said, critics would have labelled them "kooks", destroyed the organization and taken its budget. Industry kept the patents, on condition that the results came back to the Army and, where necessary, to the public.
 
-Corso and John B. Alexander appeared together in an interview on Art Bell's *Coast to Coast AM*. There Corso put the budget at about $2 billion, which the host says is over $10.5 billion today. Corso added that the Army funded the first unit built under each RDT&E (research, development, test and evaluation) contract, and other agencies funded later ones.
+Corso and John B. Alexander appeared together in an interview on Art Bell's *Coast to Coast AM*. There Corso put the budget at about $2 billion, which Gerb says is over $10.5 billion today. Corso added that the Army funded the first unit built under each RDT&E (research, development, test and evaluation) contract, and other agencies funded later ones.
 
-The host compares this directly with modern accounts of contractors working under unacknowledged waived special access programs. He also compares it with Grusch's account of secrecy driven by a race for asymmetric advantage. He flags a line from the manuscript: non-human intelligences "never gave humans a thing". Everything was obtained by accident or by force. This, he says, echoes [[Brad Sorenson]]'s claim that the Roswell wreckage behind the alien reproduction vehicles was taken without its operators' consent. It also raises a question: if any agreements exist between humans and non-human intelligence, what would they cover, if not technology?
+Gerb compares this directly with modern accounts of contractors working under unacknowledged waived special access programs. He also compares it with Grusch's account of secrecy driven by a race for asymmetric advantage. He flags a line from the manuscript: non-human intelligences "never gave humans a thing". Everything was obtained by accident or by force. This, he says, echoes [[Brad Sorenson]]'s claim that the Roswell wreckage behind the alien reproduction vehicles was taken without its operators' consent. It also raises a question: if any agreements exist between humans and non-human intelligence, what would they cover, if not technology?
 
 ::wiki-cue{t=1689 video="_sv0Otxtcn4" video-title="Philip J. Corso - US Army UFO Technology Research & Development" entry-title="The claimed breakthroughs"}
 ::
@@ -595,19 +595,19 @@ The host compares this directly with modern accounts of contractors working unde
 | Image intensifiers (passive night vision) | The Night Vision Laboratory at Fort Belvoir built the first-generation devices, with help from 48 US companies. Trudeau ordered the work after the autopsies found a transparent film over the beings' eyes. | The Army did build passive systems in the early 1960s. John B. Alexander says the development history of infrared and night-vision technology is fully accounted for. The laboratory's director, Dr. Lou Cameron, flatly denied that a non-human eye lens played any part. |
 | Fiber optics | A "broken wiring harness" at Roswell, each of whose loose strands gave off a different colour. Bell Labs allegedly used it. | French scientists worked on the underlying principles in the 1840s. Bell Labs improved fiber optics in the 1970s, reducing signal loss in mass production. |
 | Super-tenacity fibers | Single strands that could not be damaged. They met the Army's need for flak jackets and parachutes. | The manuscript says the fibers went into composites for stealth and civilian aircraft. The book says they became Kevlar, which DuPont introduced in 1965. |
-| Molecular alignment | Metals whose atoms were aligned in patterns, giving extreme hardness and resistance to stress and cosmic radiation. Special teams were formed to study them. | Corso says the problem was still unsolved in 1963, and possibly as late as 1993. The host says he has heard similar claims elsewhere. |
+| Molecular alignment | Metals whose atoms were aligned in patterns, giving extreme hardness and resistance to stress and cosmic radiation. Special teams were formed to study them. | Corso says the problem was still unsolved in 1963, and possibly as late as 1993. Gerb says he has heard similar claims elsewhere. |
 | Fluidics | Fluid amplification taken from the craft's propulsion and guidance systems. It later led to the heart pump. | The principles are old, but they were first used commercially around 1960, when space research needed reliable controls. |
 | Transistor and integrated circuit | A strange transistor with hair-like leads, and a chip made of stacked, wafer-like layers. Trudeau's staff said the chip would have taken 200 years to develop, but it arrived in five. | Bell Labs' point-contact transistor dates from 1947, and Jack Kilby's hybrid integrated circuit from 1958–59. Julius Lilienfeld proposed the field-effect transistor in 1926. Vallee said Corso's claims about the integrated circuit are not documented fact. |
 | Laser | Program members suggested it was how the beings communicated across space. | Created at Bell Labs in 1960. |
-| Anti-missile missiles and directed energy | Listed among the benefits. Near the end of Corso's career, the division was working on lasers, anti-missile missiles and directed-energy weapons. | The host ties this to his view that the [[Strategic Defense Initiative (SDI)|Strategic Defense Initiative]] also funded UAP programs and was meant to act against UAP. |
+| Anti-missile missiles and directed energy | Listed among the benefits. Near the end of Corso's career, the division was working on lasers, anti-missile missiles and directed-energy weapons. | Gerb ties this to his view that the [[Strategic Defense Initiative (SDI)|Strategic Defense Initiative]] also funded UAP programs and was meant to act against UAP. |
 
 ### The contractor threads
 
-The host follows several threads from Corso's industry partners to the present:
+Gerb follows several threads from Corso's industry partners to the present:
 
 - **[[Sperry Rand]].** Corso mentions it many times; it should not be confused with the RAND Corporation. According to Trudeau's memoirs, he met often with its CEO and directors, among them General Douglas MacArthur. When Sperry Rand went defunct in 1986, many of its divisions passed to [[Honeywell]], [[Lockheed Martin]], Raytheon and [[Northrop Grumman]].
-- **[[Bell Labs]].** In 1925 it was placed under the shared ownership of [[Western Electric]] and [[AT&T]]. In 1949 President Truman gave AT&T management of [[Sandia National Laboratories]]. The host calls Sandia a "usual suspect". It appears in the Majestic documents, in [[Edgar Fouche]]'s account of the TR-3B, and in the disputed Interplanetary Phenomenon Unit papers.
-- **[[MITRE Corporation]].** MITRE was founded in 1958 by MIT Lincoln Laboratory staff who had built the SAGE air-defense network. The host offers a thesis: MITRE was created partly to meet the Army's need to seed recovered technology into industry.
+- **[[Bell Labs]].** In 1925 it was placed under the shared ownership of [[Western Electric]] and [[AT&T]]. In 1949 President Truman gave AT&T management of [[Sandia National Laboratories]]. Gerb calls Sandia a "usual suspect". It appears in the Majestic documents, in [[Edgar Fouche]]'s account of the TR-3B, and in the disputed Interplanetary Phenomenon Unit papers.
+- **[[MITRE Corporation]].** MITRE was founded in 1958 by MIT Lincoln Laboratory staff who had built the SAGE air-defense network. Gerb offers a thesis: MITRE was created partly to meet the Army's need to seed recovered technology into industry.
 
 ## What the Roswell File Said
 
@@ -632,11 +632,11 @@ Corso and Trudeau's office noticed what the files left out. There was no food or
 - The species could perhaps travel gravitationally or across dimensions, and return to base almost instantly. This one was Corso's own speculation.
 - Most importantly, the being was part of the saucer's guidance system. In the team's view, that was why such craft failed. The idea led to studies of using brain waves to control aircraft and anti-missile missiles.
 
-The host sets this beside modern testimony about craft driven by a connection between mind and machine. He also cites a report from [[Leonard Stringfield]]'s files. In it, a Bell Labs source described a retrieved craft brought onto the flight line at a California Air Force base in the early 1950s. The source saw a cutaway of the craft and the headband transceivers the occupants wore. One man who kept a piece of the craft reportedly disappeared.
+Gerb sets this beside modern testimony about craft driven by a connection between mind and machine. He also cites a report from [[Leonard Stringfield]]'s files. In it, a Bell Labs source described a retrieved craft brought onto the flight line at a California Air Force base in the early 1950s. The source saw a cutaway of the craft and the headband transceivers the occupants wore. One man who kept a piece of the craft reportedly disappeared.
 
 Corso's manuscript often hints at several crashes. It names only two: Roswell, and a July 1947 crash at [[San Augustine, New Mexico]]. The San Augustine craft was described as having no seams, joints, rivets or welds.
 
-Corso also wrote that the Soviets ran a parallel program, possibly after spies in New Mexico told Stalin about Roswell. In 1993 he asked old acquaintances to put questions to a KGB general, and he received a list of recovered materials. The host treats the list cautiously, as possible disinformation. One item on it is a "silvery tube" said to have been found in the US in 1975, and it makes him wonder about the 1974 [[Coyame, Chihuahua, Mexico|Chihuahua]] recovery. He notes that Eric Davis has since said the Soviets recovered at least one craft on their own territory.
+Corso also wrote that the Soviets ran a parallel program, possibly after spies in New Mexico told Stalin about Roswell. In 1993 he asked old acquaintances to put questions to a KGB general, and he received a list of recovered materials. Gerb treats the list cautiously, as possible disinformation. One item on it is a "silvery tube" said to have been found in the US in 1975, and it makes him wonder about the 1974 [[Coyame, Chihuahua, Mexico|Chihuahua]] recovery. He notes that Eric Davis has since said the Soviets recovered at least one craft on their own territory.
 
 The manuscript does not treat the visitors as benign. Corso said the Army handled them much as it handled the Soviets, under a "fig leaf" policy: both threatened the country's existence, but neither was officially called an enemy. He listed their alleged acts:
 
@@ -647,7 +647,7 @@ The manuscript does not treat the visitors as benign. Corso said the Army handle
 - causing aircraft crashes with military casualties
 - tampering with human and animal genomes
 
-The host compares this with Grusch's statement that people have been hurt by UAP, even though no hostile intent can be attributed to them.
+Gerb compares this with Grusch's statement that people have been hurt by UAP, even though no hostile intent can be attributed to them.
 
 ## The UFO Working Group
 
@@ -685,21 +685,21 @@ root:
 ---
 ::
 
-The host asks why the Navy is missing from the group. He believes the Navy is deeply involved in legacy programs, for example at the [[Off-World Technologies Division]] at [[Naval Surface Warfare Center Crane]].
+Gerb asks why the Navy is missing from the group. He believes the Navy is deeply involved in legacy programs, for example at the [[Off-World Technologies Division]] at [[Naval Surface Warfare Center Crane]].
 
 He also follows the group's member institutions forward in time:
 
 - **CIA Directorate of Science and Technology.** [[Glenn Gaffney]], a director there, is said to have stopped Lockheed Martin from passing UAP material to AAWSAP. Former deputy director [[Doug Wolfe]] helped create the [[CIA Office of Global Access]] in 2003. Journalist [[Christopher Sharp]] has accused that office of coordinating logistics for crash retrievals with [[JSOC (Joint Special Operations Command)|JSOC]].
-- **Army INSCOM.** Its founder, [[Albert Stubblebine]], is linked by the host to legacy programs at Fort Huachuca, to an alleged attempt to pay off [[Steven Greer]], and to the alleged founding of the NSA's T.R.E.A.T. team. INSCOM's Intelligence Support Activity was handed to JSOC in 2003, the same year the Office of Global Access was created.
+- **Army INSCOM.** Its founder, [[Albert Stubblebine]], is linked by Gerb to legacy programs at Fort Huachuca, to an alleged attempt to pay off [[Steven Greer]], and to the alleged founding of the NSA's T.R.E.A.T. team. INSCOM's Intelligence Support Activity was handed to JSOC in 2003, the same year the Office of Global Access was created.
 
-The host likens the working group to a structure like [[Majestic 12]].
+Gerb likens the working group to a structure like [[Majestic 12]].
 
 ## The White Sands Encounter
 
 ::wiki-cue{t=4617 video="_sv0Otxtcn4" video-title="Philip J. Corso - US Army UFO Technology Research & Development" entry-title="The White Sands encounter"}
 ::
 
-The host calls this his greatest problem with Corso (see also [[White Sands UAP Close Encounter]]). Near the end of the manuscript, Corso recounts an event from 1957–58, when he commanded the Red Canyon firing range at White Sands. He took shelter from the heat in an abandoned mine and met a non-human being face to face. It spoke to him telepathically and asked him to lower the radar that was keeping its craft on the ground. Corso asked what he would get in return. It answered, "A new world if you can take it." Corso says he had the radar shut down. He thought about the phrase for the rest of his life.
+Gerb calls this his greatest problem with Corso (see also [[White Sands UAP Close Encounter]]). Near the end of the manuscript, Corso recounts an event from 1957–58, when he commanded the Red Canyon firing range at White Sands. He took shelter from the heat in an abandoned mine and met a non-human being face to face. It spoke to him telepathically and asked him to lower the radar that was keeping its craft on the ground. Corso asked what he would get in return. It answered, "A new world if you can take it." Corso says he had the radar shut down. He thought about the phrase for the rest of his life.
 
 Corso told the story to several people:
 
@@ -707,9 +707,9 @@ Corso told the story to several people:
 - He drew the being in an interview that was later shown on Knapp's *Weaponized*.
 - He recorded the story on 8mm film for his grandchildren.
 
-[[Daniel Sheehan]] said he was shown the film and found it "extraordinarily persuasive". Because of it, he gives Corso's account of the Roswell technology considerable credit. He added that the aerospace companies' own histories of the chip and fiber optics are exactly the kind of alternative explanation one would expect them to construct. Sheehan, however, places the encounter at Alamogordo in July 1945. The host corrects this to Red Canyon in 1957–58.
+[[Daniel Sheehan]] said he was shown the film and found it "extraordinarily persuasive". Because of it, he gives Corso's account of the Roswell technology considerable credit. He added that the aerospace companies' own histories of the chip and fiber optics are exactly the kind of alternative explanation one would expect them to construct. Sheehan, however, places the encounter at Alamogordo in July 1945. Gerb corrects this to Red Canyon in 1957–58.
 
-The host gives several reasons for his unease:
+Gerb gives several reasons for his unease:
 
 - The affidavit does not mention the encounter.
 - The manuscript describes it only after 120 to 140 pages.
@@ -729,20 +729,20 @@ The video sets out what can be checked in Corso's favour:
 - According to Vallee's book, Bush told Davis that the material could not have been Nazi hardware, and that a conversation with Trudeau led to Corso's 1968 testimony being squashed.
 - Daniel Sheehan found Corso's posthumous 8mm film "extraordinarily persuasive".
 
-It then takes the case against him point by point, answering most of it. Stanton Friedman is the sharpest critic, and the host notes that Friedman's criticism was aimed at the book, the only source Friedman had at the time.
+It then takes the case against him point by point, answering most of it. Stanton Friedman is the sharpest critic, and Gerb notes that Friedman's criticism was aimed at the book, the only source Friedman had at the time.
 
 ::wiki-claim{video="_sv0Otxtcn4" video-title="Philip J. Corso - US Army UFO Technology Research & Development"}
 ---
 label: "The case against Corso"
 term: "Criticism"
-caption: "The main criticisms of Corso the video plays or cites, and the host's answer where he gives one."
+caption: "The main criticisms of Corso the video plays or cites, and Gerb's answer where he gives one."
 claims:
   - title: "Never on the NSC"
     by: "Stanton Friedman"
     text: "The Eisenhower Library told him Corso was never a member of the National Security Council and never attended one of its meetings; he was only a liaison."
     cue: 4442
     responses:
-      - by: "The host"
+      - by: "Gerb"
         stance: challenges
         text: "The 1992 Senate Select Committee report on POW/MIA affairs lists him as NSC staff under Eisenhower, and his FOIA-released military records show him on the Operations Coordinating Board."
         cue: 510
@@ -751,7 +751,7 @@ claims:
     text: "Nothing in The Day After Roswell checks out. A colonel with a PhD sent him a list of 92 false claims in it, and Senator Strom Thurmond withdrew his foreword from the next edition."
     cue: 4335
     responses:
-      - by: "The host"
+      - by: "Gerb"
         stance: challenges
         text: "In his memoirs Corso never presented himself as a world saviour. He was patriotic and \"simply aimed to strengthen the Army\". That is no fault of Friedman's: the book was all he had."
         cue: 4314
@@ -760,7 +760,7 @@ claims:
     text: "Corso reached only lieutenant colonel after 22 years; Friedman also puts him in the same company as Bob Lazar."
     cue: 4416
     responses:
-      - by: "The host"
+      - by: "Gerb"
         stance: challenges
         text: "Associating Corso with Lazar is, whatever one thinks of Corso, \"very inappropriate\". He can sympathize with the complaint of a grand story with no evidence."
         cue: 4233
@@ -771,7 +771,7 @@ claims:
     text: "The file records claims Corso passed on that could not be verified, and quotes another agency calling him \"a parasite\" who profited from others' work."
     cue: 4538
     responses:
-      - by: "The host"
+      - by: "Gerb"
         stance: challenges
         text: "Every document is a cross-reference, not a main case file, so the FBI never formally investigated Corso. None of them mentions UFOs or his Army duties, which he finds odd in itself."
         cue: 4555
@@ -780,14 +780,14 @@ claims:
     text: "Alexander says the genealogy of night-vision technology is fully accounted for, and that Dr. Lou Cameron, director of the Army's night vision laboratory at Fort Belvoir, flatly denied any contribution from a non-human eye lens. Vallee says Corso's integrated-circuit claims are not documented facts."
     cue: 4195
     responses:
-      - by: "The host"
+      - by: "Gerb"
         stance: unresolved
         text: "He cannot judge the technology claims, having no expertise in integrated circuits, computing or metallurgy; he weighs the Army R&D history instead."
         cue: 5107
 ---
 ::
 
-The host's own reservation is the White Sands encounter, which appears late and does not match Corso's other accounts (see [The White Sands Encounter](#the-white-sands-encounter)).
+Gerb's own reservation is the White Sands encounter, which appears late and does not match Corso's other accounts (see [The White Sands Encounter](#the-white-sands-encounter)).
 
 The FBI documents themselves include:
 
@@ -795,14 +795,14 @@ The FBI documents themselves include:
 - a list of "Fabian socialists" Corso gave Trudeau, which the FBI could not verify
 - Corso's claim, drawn from CIA sources, that Lee Harvey Oswald was an FBI informant
 
-## The Host's Verdict
+## Gerb's Verdict
 
-::wiki-cue{t=4946 video="_sv0Otxtcn4" video-title="Philip J. Corso - US Army UFO Technology Research & Development" entry-title="The host's conclusion"}
+::wiki-cue{t=4946 video="_sv0Otxtcn4" video-title="Philip J. Corso - US Army UFO Technology Research & Development" entry-title="Gerb's conclusion"}
 ::
 
-The host took on the project because arguments for and against Corso usually turn on *The Day After Roswell*. The book has the CIA intimidation scene, a self-aggrandizing tone, and a too-perfect account of Roswell, Hillenkoetter and Majestic 12. Reading the manuscript on its own terms, he finds it credible in many places.
+Gerb took on the project because arguments for and against Corso usually turn on *The Day After Roswell*. The book has the CIA intimidation scene, a self-aggrandizing tone, and a too-perfect account of Roswell, Hillenkoetter and Majestic 12. Reading the manuscript on its own terms, he finds it credible in many places.
 
-He says he cannot judge the technology claims, since he has no expertise in integrated circuits, computing or metallurgy. The Army R&D history, though, checks out. If Corso's account is true, the Army ran a program from 1960 through Bell Labs, Fortune 500 companies, universities and semi-private institutions. That would make it one of the first structured US legacy programs. It would also be a model for the Army's later role in legacy programs. The host believes that role has been to use reverse-engineered technologies of unknown origin to equip the modern warfighter.
+He says he cannot judge the technology claims, since he has no expertise in integrated circuits, computing or metallurgy. The Army R&D history, though, checks out. If Corso's account is true, the Army ran a program from 1960 through Bell Labs, Fortune 500 companies, universities and semi-private institutions. That would make it one of the first structured US legacy programs. It would also be a model for the Army's later role in legacy programs. Gerb believes that role has been to use reverse-engineered technologies of unknown origin to equip the modern warfighter.
 
 He asks viewers to remember one thing above all: in the 1960s the Army had an R&D program called the Foreign Technology Division, and almost no record of it survives.
 

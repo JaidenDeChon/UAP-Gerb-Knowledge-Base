@@ -16,7 +16,7 @@ The DEW Line comprised more than 60 stations spread along roughly 3,000 miles of
 
 In Colonel [[Robert Willingham]]'s account of the spring 1955 [[1955 Langtry UFO Crash|Langtry UFO crash]], his F-86 squadron, escorting B-47s out of [[Carswell Air Force Base]], was told by radio that distant early warning radar in Canada had picked up fast-moving unknowns heading south toward Texas. Shortly afterwards Willingham saw a bright object approaching at an estimated 2,000 mph, which turned toward Mexico and came down across the Rio Grande from [[Langtry, Texas]].
 
-UAP Gerb uses the radar detail as the fourth of four points separating Willingham's case from the [[1950 El Indio UFO Crash]] described in the alleged [[Eisenhower Briefing Document]]. The host dates the distant early warning systems to 1952, so no account of a December 1950 event could involve them:
+UAP Gerb uses the radar detail as the fourth of four points separating Willingham's case from the [[1950 El Indio UFO Crash]] described in the alleged [[Eisenhower Briefing Document]]. Gerb dates the distant early warning systems to 1952, so no account of a December 1950 event could involve them:
 
 1. **Craft condition**: nearly incinerated at El Indio; three large pieces at Langtry
 2. **Willingham's whereabouts**: he was in Korea until wounded on 26 December 1950

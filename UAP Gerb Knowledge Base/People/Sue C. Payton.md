@@ -9,7 +9,7 @@ Sue C. Payton (born 1950) is a former U.S. defense official who served as Assist
 
 ## Role in the Hidden Wing thesis
 
-*The Hidden Wing* names Payton, with [[Lawrence J. Delaney]], as an example of the host's finding that eight of 14 former Air Force acquisition chiefs came to the post from contractors he accuses of UFO legacy-program involvement. The host notes that he also mentioned her in his earlier [[SAIC]] investigation. He treats her advanced-technology work at Martin Marietta and Lockheed Martin as the relevant background.
+*The Hidden Wing* names Payton, with [[Lawrence J. Delaney]], as an example of Gerb's finding that eight of 14 former Air Force acquisition chiefs came to the post from contractors he accuses of UFO legacy-program involvement. Gerb notes that he also mentioned her in his earlier [[SAIC]] investigation. He treats her advanced-technology work at Martin Marietta and Lockheed Martin as the relevant background.
 
 ## Sources
 

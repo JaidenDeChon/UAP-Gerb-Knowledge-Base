@@ -19,7 +19,7 @@ Corso told the story to [[John B. Alexander]], [[Jacques Vallee]] and [[George K
 
 ## Place in the Corso testimony
 
-UAP Gerb calls this the part of Corso's account that troubles him most. Corso's 1998 affidavit does not mention it, and in the manuscript it appears only about 120 to 140 pages in. The host first read it as a dream or a metaphor, a lesson for Corso's grandchildren, until he learned how many people Corso had told it to as fact. He also notes that the being is described with a noticeably different physiology from the body Corso said he saw at [[Fort Riley, Kansas]] in 1947. The host sees it as an example of a common pattern in which witnesses add dramatic experiences long after their first disclosures.
+UAP Gerb calls this the part of Corso's account that troubles him most. Corso's 1998 affidavit does not mention it, and in the manuscript it appears only about 120 to 140 pages in. Gerb first read it as a dream or a metaphor, a lesson for Corso's grandchildren, until he learned how many people Corso had told it to as fact. He also notes that the being is described with a noticeably different physiology from the body Corso said he saw at [[Fort Riley, Kansas]] in 1947. Gerb sees it as an example of a common pattern in which witnesses add dramatic experiences long after their first disclosures.
 
 ## Sources
 

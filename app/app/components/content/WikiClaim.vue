@@ -18,7 +18,7 @@ import {
 /**
  * `::wiki-claim` — a claim and the attributed responses to it: who made the
  * claim (and when, and where), then each reply labelled with its speaker and
- * a stance tag ("Supports", "Challenges", "Host's view", "Unresolved"). One
+ * a stance tag ("Supports", "Challenges", "Gerb's view", "Unresolved"). One
  * block can hold several claims, each kept together with its own replies, so
  * nothing loses track of what answers what when the page narrows to a phone.
  *

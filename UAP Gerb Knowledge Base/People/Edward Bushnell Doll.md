@@ -22,7 +22,7 @@ UAP Gerb's *Northrop Grumman & TRW* reconstructs Doll's corporate career from ne
 - **1966:** senior vice president of TRW Systems Group, the renamed STL, which ran TRW's entire electronics and defense sector. Its units included Special Projects, which built signals-intelligence satellites for NRO Program B, operated with the [[CIA Directorate of Science and Technology]] from [[Pine Gap, Australia]].
 - **1971-1977:** group assistant general manager on TRW's corporate side, retiring as executive vice president of TRW Systems Group.
 
-The video argues that Doll carried crash-retrieval and reverse-engineering expertise from joint Atomic Energy Commission and DoD task forces into TRW Systems Group, whose units now form [[Northrop Grumman]]'s Mission Systems and Space Systems sectors. The host finds it notable that Doll drew little public attention compared with [[Eric Henry Wang]], and says researcher [[Raymond Fowler]] tried without success to find him, while Bill Moore ran interference. In the outro he calls Doll "a perfect example" of how 1950s crash retrieval figures can lead to actionable study of present-day organizations.
+The video argues that Doll carried crash-retrieval and reverse-engineering expertise from joint Atomic Energy Commission and DoD task forces into TRW Systems Group, whose units now form [[Northrop Grumman]]'s Mission Systems and Space Systems sectors. Gerb finds it notable that Doll drew little public attention compared with [[Eric Henry Wang]], and says researcher [[Raymond Fowler]] tried without success to find him, while Bill Moore ran interference. In the outro he calls Doll "a perfect example" of how 1950s crash retrieval figures can lead to actionable study of present-day organizations.
 
 ## AFSWP Connection
 

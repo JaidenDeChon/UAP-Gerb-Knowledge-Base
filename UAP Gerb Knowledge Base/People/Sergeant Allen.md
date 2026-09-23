@@ -13,7 +13,7 @@ Allen was among the personnel who informed Weygandt of a downed aircraft that ne
 
 ## Post-Incident Career
 
-Allen went on to have a long and accomplished career in the Marine Corps, eventually retiring after reaching a prestigious rank. UAP Gerb identified Allen as a real USMC veteran and wrote to him, along with Montil and Atkins, during his 2025 investigation. Only one of the three replied, and the host has kept that Marine anonymous.
+Allen went on to have a long and accomplished career in the Marine Corps, eventually retiring after reaching a prestigious rank. UAP Gerb identified Allen as a real USMC veteran and wrote to him, along with Montil and Atkins, during his 2025 investigation. Only one of the three replied, and Gerb has kept that Marine anonymous.
 
 ## Sources
 

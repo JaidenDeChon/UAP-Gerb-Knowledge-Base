@@ -30,17 +30,17 @@ Weygandt was held at a base with permanent structures and armed American, Chines
 In a 2025 investigation, UAP Gerb reconstructed the incident as follows:
 
 - **Detection.** Laser Strike radars, and probably [[NRO (National Reconnaissance Office)|NRO]]-managed [[Defense Support Program (DSP)]] satellites, tracked the object, giving the retrieval team perhaps an hour's warning.
-- **The science team.** It was the Department of Energy's [[NEST (Nuclear Emergency Support Team)|Nuclear Emergency Support Team]], which works under the [[Atomic Energy Act of 1954]]. The host estimates it could have flown from [[Sandia National Laboratories]] to [[Iquitos, Peru|Iquitos]] in Cessna Citation II jets in about seven and a half hours, within the roughly nine hours available.
+- **The science team.** It was the Department of Energy's [[NEST (Nuclear Emergency Support Team)|Nuclear Emergency Support Team]], which works under the [[Atomic Energy Act of 1954]]. Gerb estimates it could have flown from [[Sandia National Laboratories]] to [[Iquitos, Peru|Iquitos]] in Cessna Citation II jets in about seven and a half hours, within the roughly nine hours available.
 - **The armed men.** Most likely the [[US Army 7th Special Forces Group]], already training in the region; less likely a [[DOE Special Response Teams (SRTs)|DOE Special Response Team]].
 - **The helicopters.** Most likely from the [[1st Battalion 228th Aviation Regiment]] of [[Joint Task Force Bravo]]; possibly the [[160th Special Operations Aviation Regiment]].
 - **The location.** Weygandt's base was probably [[USAF Radar Detachment 5, Iquitos]] rather than [[Pucallpa]], and the crash lay within about 90 miles of Iquitos, near the Colombian or Brazilian border.
 - **The holding site.** Possibly the Navy's [[NAMRU South, Lima, Peru|NAMRU South]], as a quarantine site for a contaminated Marine, although Weygandt says he received no medical procedures there.
 
-One of the sergeants Weygandt names answered the host, saying the operation is still classified, that no unique downed aircraft incident happened that he knew of, and that Weygandt never deployed to Laser Strike. The host disputes the last point.
+One of the sergeants Weygandt names answered Gerb, saying the operation is still classified, that no unique downed aircraft incident happened that he knew of, and that Weygandt never deployed to Laser Strike. Gerb disputes the last point.
 
 ## Historical parallels
 
-The host sets the case beside other egg-shaped crash accounts, the [[1953 Camp Polk UFO Crash Retrieval]] and [[Albert Bruce Collins]]'s 1947 sighting at Berkeley, and beside other alleged rapid recovery units, from the Blue Berets at the [[1965 Kecksburg, Pennsylvania Crash Retrieval]] to the Fort Bliss team at the [[1974 Coyame, Mexico UFO Crash Retrieval]]. It also parallels the 1997 encounter of [[Rodrik Castle]] at Twentynine Palms and the 2009 encounter of [[Michael Herrera]], in which Marines met unmarked armed teams and were afterwards given anthrax boosters.
+Gerb sets the case beside other egg-shaped crash accounts, the [[1953 Camp Polk UFO Crash Retrieval]] and [[Albert Bruce Collins]]'s 1947 sighting at Berkeley, and beside other alleged rapid recovery units, from the Blue Berets at the [[1965 Kecksburg, Pennsylvania Crash Retrieval]] to the Fort Bliss team at the [[1974 Coyame, Mexico UFO Crash Retrieval]]. It also parallels the 1997 encounter of [[Rodrik Castle]] at Twentynine Palms and the 2009 encounter of [[Michael Herrera]], in which Marines met unmarked armed teams and were afterwards given anthrax boosters.
 
 ## Sources
 

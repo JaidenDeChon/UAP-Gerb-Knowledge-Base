@@ -10,7 +10,7 @@ Ronald S. Moultrie served from June 2021 to February 2024 as the Under Secretary
 
 ## Role in UAP Programs
 
-Moultrie is accused by the presenter of "The Hidden Wing" of deliberately establishing [[AARO]] not as a genuine UAP investigative body but as a whistleblower honeypot — a mechanism designed to identify and neutralize individuals with knowledge of UAP legacy programs. He is further alleged to have deleted references to [[Battelle Memorial Institute]] and [[Oak Ridge National Laboratory FFRDC]] from his public professional biography; both organizations are rumored to be involved in the analysis of recovered non-human vehicle systems. The presenter cites Moultrie's USD I&S role as placing him at the apex of the classified oversight chain for any such legacy programs operating through [[SAFAHA]] sensitive activities channels.
+Moultrie is accused by Gerb of "The Hidden Wing" of deliberately establishing [[AARO]] not as a genuine UAP investigative body but as a whistleblower honeypot — a mechanism designed to identify and neutralize individuals with knowledge of UAP legacy programs. He is further alleged to have deleted references to [[Battelle Memorial Institute]] and [[Oak Ridge National Laboratory FFRDC]] from his public professional biography; both organizations are rumored to be involved in the analysis of recovered non-human vehicle systems. Gerb cites Moultrie's USD I&S role as placing him at the apex of the classified oversight chain for any such legacy programs operating through [[SAFAHA]] sensitive activities channels.
 
 ## Role in Establishing Arrow/AARO and MITRE Connection
 

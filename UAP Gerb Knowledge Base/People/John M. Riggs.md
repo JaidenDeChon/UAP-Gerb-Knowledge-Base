@@ -31,7 +31,7 @@ In analyzing the anonymous whistleblower account published by [[The Infographic 
 | Stationed near European operations | Posted to US Army base in Germany |
 | Aviation and defense work after program | Became aviation and strategic defense consultant post-retirement |
 
-UAP Gerb explicitly characterizes this identification as a theory resting on circumstantial chronological alignment and career trajectory, not direct confirmation. The presenter states: "I don't want to kick off an investigation I can't control" and notes that on its own the date overlap may be coincidence.
+UAP Gerb explicitly characterizes this identification as a theory resting on circumstantial chronological alignment and career trajectory, not direct confirmation. Gerb states: "I don't want to kick off an investigation I can't control" and notes that on its own the date overlap may be coincidence.
 
 ## Significance in UAP Research
 

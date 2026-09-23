@@ -169,9 +169,9 @@ Senator Joe Donnelly's description of Crane as "the Pentagon's best-kept secret"
 
 The alleged "Off-World Technologies Division" at NSWC Crane represents a modern institutional parallel to the US Army's brief 1950s **Interplanetary Phenomenon Unit**, which analyzed UAP reports. If RA's testimony is accurate, Crane represents an evolution of that mission — moving from analysis of reports to reverse engineering and technological exploitation of recovered materials.
 
-## Alleged Intelligence Outreach to the Presenter
+## Alleged Intelligence Outreach to Gerb
 
-UAP Gerb states in *80 Years of UFO Crash Retrieval and Reverse Engineering* that around the time of its first interview with [[Randy Anderson|RA]], individuals identifying themselves as CIA personnel proactively reached out to the presenter to caution against discussing this "naval support activity" — an episode the video cites as informal corroboration that the alleged [[Off-World Technologies Division]] program at Crane attracted intelligence community attention.
+UAP Gerb states in *80 Years of UFO Crash Retrieval and Reverse Engineering* that around the time of its first interview with [[Randy Anderson|RA]], individuals identifying themselves as CIA personnel proactively reached out to Gerb to caution against discussing this "naval support activity" — an episode the video cites as informal corroboration that the alleged [[Off-World Technologies Division]] program at Crane attracted intelligence community attention.
 
 ## Unanswered Questions
 

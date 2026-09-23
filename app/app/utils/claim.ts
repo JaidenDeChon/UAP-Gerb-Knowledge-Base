@@ -20,7 +20,7 @@ export const CLAIM_STANCES: readonly ClaimStance[] = ['supports', 'challenges', 
 export const CLAIM_STANCE_LABEL: Record<ClaimStance, string> = {
   supports: 'Supports',
   challenges: 'Challenges',
-  host: 'Host\'s view',
+  host: 'Gerb\'s view',
   unresolved: 'Unresolved',
 }
 
@@ -49,6 +49,10 @@ const STANCE_ALIASES: Record<string, ClaimStance> = {
   'hosts view': 'host',
   'host view': 'host',
   'host-view': 'host',
+  'gerb': 'host',
+  'gerb\'s view': 'host',
+  'gerbs view': 'host',
+  'gerb view': 'host',
   'unresolved': 'unresolved',
   'open': 'unresolved',
 }

@@ -105,7 +105,7 @@ Read every line of `transcript.md` and the current `summary.md`. As you read, so
 | A cast of named people or organizations and their role in this story | `::wiki-roster` |
 | A handful of numbers that frame the video (years spanned, witnesses, documents, runtime, dollars, distances) | `::wiki-stat-strip` |
 | 2–5 subjects compared attribute by attribute (witness accounts, craft, cases, programs) | `::wiki-compare` |
-| A claim weighed against attributed challenges and replies: an official finding and the witness's answer, a critic's charge and the host's rebuttal, a trial's prosecution and defence, objections and replies, competing explanations that each have a proponent and answers | `::wiki-claim` |
+| A claim weighed against attributed challenges and replies: an official finding and the witness's answer, a critic's charge and Gerb's rebuttal, a trial's prosecution and defence, objections and replies, competing explanations that each have a proponent and answers | `::wiki-claim` |
 | Places whose position carries the argument: a route (an object's custody, a recovery flight, a reported course), a cluster of sites, candidate sites compared by distance or by which side of a border they lie on | `::wiki-map` |
 | Parallel cases or options that aren't a row-by-row comparison, and that nobody answers | `::wiki-grid` of `::wiki-panel`s |
 | A moment worth watching | `::wiki-cue` inline, or `::wiki-watch` as a mid-article prompt |
@@ -233,5 +233,6 @@ Report:
 - **Show structure, don't decorate.** Every component must make something clearer than the prose alone could. No components for their own sake.
 - **Transcript is ground truth.** Nothing in a component that the transcript doesn't support.
 - **Attribute, don't debunk.** Say "alleged", "claimed", "according to the video". Never add skeptical hedging (the site-wide disclaimer covers it).
+- **Call the channel's presenter Gerb.** Never "the host", "the presenter" or "the narrator": write "Gerb argues…", "Gerb's thesis", and `by: "Gerb"` in component YAML.
 - **Accessible and themeable.** Only token colors. Meaningful labels. Readable on a 390px phone and on desktop.
 - **One video per run.** Do it completely: ingested, enriched, verified and recorded. Don't do two videos halfway.

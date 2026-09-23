@@ -15,7 +15,7 @@ tags:
 stats:
   - value: "~35 yrs"
     label: In the program
-    hint: c. 1969–2004, by the host's count
+    hint: c. 1969–2004, by Gerb's count
   - value: "5 of 12"
     label: Platoon killed
     hint: In combat after the crash
@@ -32,21 +32,21 @@ stats:
 
 This video is a line-by-line analysis of "US Special Forces Confession - I Recovered Crashed UFOs", an animated video published in March 2024 by [[The Infographic Show]]. That video tells the story of an anonymous veteran, here called the [[Infographic Show Whistleblower|witness]], who says he came upon a crashed craft in Vietnam in 1968 and was then forced into a classified crash retrieval program, which he served for about 35 years. The Infographic Show notes that its account is "based on testimony provided over a series of interviews and written correspondence," edited into a single timeline. UAP Gerb calls it possibly "the most crucial firsthand whistleblower of all time" and sets out to test it: which details can be checked against military history, and which echo other cases and witnesses.
 
-The host's first finding is that the story fits real military history. The witness's long-range reconnaissance patrol (LRRP), marking targets for a bombing raid "the following year," matches [[Company E, 52nd Infantry (LRP)]] of the 1st Cavalry Division, which was based at Phuoc Vinh near the Cambodian border in late 1968. It also matches [[Operation Menu]], the covert B-52 campaign against Cambodia that began in March 1969. From the unit's memorial casualty list, the host narrows down which soldiers may have been the witness's dead platoon mates. The rest of the video follows the account in order: forced induction, how the program was organized, a typology of craft, a saucer recovered in South America, live crew recovered in [[Bole, Ireland]] in 1996, and the program's theory that the craft and their crews are manufactured.
+Gerb's first finding is that the story fits real military history. The witness's long-range reconnaissance patrol (LRRP), marking targets for a bombing raid "the following year," matches [[Company E, 52nd Infantry (LRP)]] of the 1st Cavalry Division, which was based at Phuoc Vinh near the Cambodian border in late 1968. It also matches [[Operation Menu]], the covert B-52 campaign against Cambodia that began in March 1969. From the unit's memorial casualty list, Gerb narrows down which soldiers may have been the witness's dead platoon mates. The rest of the video follows the account in order: forced induction, how the program was organized, a typology of craft, a saucer recovered in South America, live crew recovered in [[Bole, Ireland]] in 1996, and the program's theory that the craft and their crews are manufactured.
 
-The video ends with the host's verdict on how far each part of the account can be trusted. He then offers a theory, which he says is only a theory, that the witness is Lieutenant General [[John M. Riggs]]. Riggs's Army career began and ended in the same years as the witness's time in the program. Another witness, TB, has said a general was demoted and retired in 2004 for showing UAP-derived cloaking technology to a [[BAE Systems]] employee.
+The video ends with Gerb's verdict on how far each part of the account can be trusted. He then offers a theory, which he says is only a theory, that the witness is Lieutenant General [[John M. Riggs]]. Riggs's Army career began and ended in the same years as the witness's time in the program. Another witness, TB, has said a general was demoted and retired in 2004 for showing UAP-derived cloaking technology to a [[BAE Systems]] employee.
 
 ## Chronology
 
 ::wiki-timeline{video="DcvuglS7ps4" video-title="US Special Forces Confession - Fact or Fiction"}
 ---
-help: "The bar above the entries is a ruler from 1950 to 2024. Each tick is an entry, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The entries mix the witness's own story with the dated cases the host sets beside it. The thin line with the upward arrow is where you are reading. While the video plays, the thicker line with the downward arrow is what the host is discussing. He tells the witness's story in order but reaches back and forward for comparisons, so the playhead jumps around. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Timestamps jump the mini-player to that moment."
+help: "The bar above the entries is a ruler from 1950 to 2024. Each tick is an entry, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The entries mix the witness's own story with the dated cases Gerb sets beside it. The thin line with the upward arrow is where you are reading. While the video plays, the thicker line with the downward arrow is what Gerb is discussing. He tells the witness's story in order but reaches back and forward for comparisons, so the playhead jumps around. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Timestamps jump the mini-player to that moment."
 eras:
   - id: before
     label: "Before Vietnam"
     from: 1950
     to: 1967
-    summary: "The program the witness says became official during the Korean War, and the earlier cases the host sets beside his account."
+    summary: "The program the witness says became official during the Korean War, and the earlier cases Gerb sets beside his account."
   - id: vietnam
     label: "Vietnam"
     from: 1968
@@ -56,7 +56,7 @@ eras:
     label: "Inside the program"
     from: 1970
     to: 2004
-    summary: "About 35 years of retrievals by the host's count, from South America to Ireland, ending on the program's administrative side."
+    summary: "About 35 years of retrievals by Gerb's count, from South America to Ireland, ending on the program's administrative side."
   - id: forward
     label: "Coming forward"
     from: 2005
@@ -65,7 +65,7 @@ events:
   - date: "1950"
     title: "The program is formalized during the Korean War"
     cue: 630
-    summary: "The witness says retrievals may have begun as early as World War II, but that 'the program' became official during the Korean War (1950-1953), after the military learned these objects are attracted to conflict. The host places its assembly between 1947 and 1950, after the first US retrieval at Roswell and in line with the MJ-12 documents."
+    summary: "The witness says retrievals may have begun as early as World War II, but that 'the program' became official during the Korean War (1950-1953), after the military learned these objects are attracted to conflict. Gerb places its assembly between 1947 and 1950, after the first US retrieval at Roswell and in line with the MJ-12 documents."
     category: program
     significance: major
     entities:
@@ -75,7 +75,7 @@ events:
   - date: "1950-11"
     title: "Wilbert Smith's memo: studied above the H-bomb"
     cue: 682
-    summary: "The host cites Canadian radio engineer Wilbert B. Smith's 1950 memo to the Department of Transport, relaying physicist Robert Sarbacher's word that the US was studying UAP in an effort classified higher than the hydrogen bomb, as proof the program existed by 1950."
+    summary: "Gerb cites Canadian radio engineer Wilbert B. Smith's 1950 memo to the Department of Transport, relaying physicist Robert Sarbacher's word that the US was studying UAP in an effort classified higher than the hydrogen bomb, as proof the program existed by 1950."
     category: document
     significance: notable
     entities:
@@ -84,7 +84,7 @@ events:
   - date: "1954-04-12"
     title: "Witness Ka's Roswell-area retrieval and three-day debrief"
     cue: 778
-    summary: "Relayed to Leonard Stringfield: witness Ka and a USAF crash-rescue crew out of Roswell found a metallic saucer crashed edgewise into the sand with scattered bodies, then were debriefed for three days under threat of fines, imprisonment with hard labour and general discharge. The host compares this coercion to the witness's own induction."
+    summary: "Relayed to Leonard Stringfield: witness Ka and a USAF crash-rescue crew out of Roswell found a metallic saucer crashed edgewise into the sand with scattered bodies, then were debriefed for three days under threat of fines, imprisonment with hard labour and general discharge. Gerb compares this coercion to the witness's own induction."
     category: event
     significance: notable
     entities:
@@ -92,7 +92,7 @@ events:
   - date: "1965-12"
     title: "Kecksburg: the bell-shaped crash"
     cue: 1512
-    summary: "The host matches the witness's 'bells' to the 1965 Kecksburg, Pennsylvania crash of a bell- or acorn-shaped object, covered by Leonard Stringfield. Dr. Eric Walker, an alleged early program manager, claimed to have been at the site."
+    summary: "Gerb matches the witness's 'bells' to the 1965 Kecksburg, Pennsylvania crash of a bell- or acorn-shaped object, covered by Leonard Stringfield. Dr. Eric Walker, an alleged early program manager, claimed to have been at the site."
     category: event
     significance: notable
     entities:
@@ -103,7 +103,7 @@ events:
   - date: "1967-03-24"
     title: "Malmstrom: a red-orange oval over the missile field"
     cue: 406
-    summary: "A year before the Vietnam crash, sworn affidavits by Captain Robert Salas and others describe a red-orange oval UAP over Malmstrom Air Force Base disabling its ICBMs. The host cites it for both the colour of the witness's craft and the claim that UAP are drawn to nuclear arms."
+    summary: "A year before the Vietnam crash, sworn affidavits by Captain Robert Salas and others describe a red-orange oval UAP over Malmstrom Air Force Base disabling its ICBMs. Gerb cites it for both the colour of the witness's craft and the claim that UAP are drawn to nuclear arms."
     category: event
     significance: minor
     entities:
@@ -126,7 +126,7 @@ events:
   - date: "1968-10"
     title: "Company E, 52nd Infantry moves to Phuoc Vinh"
     cue: 245
-    summary: "The 1st Cavalry Division's long-range patrol company, in Vietnam from 1967 to 1969 and veterans of Tet and Khe Sanh, was headquartered at Phuoc Vinh from late 1968, with an area of operations along the Cambodian border covering enemy infiltration routes into Saigon. The host places the witness's platoon here."
+    summary: "The 1st Cavalry Division's long-range patrol company, in Vietnam from 1967 to 1969 and veterans of Tet and Khe Sanh, was headquartered at Phuoc Vinh from late 1968, with an area of operations along the Cambodian border covering enemy infiltration routes into Saigon. Gerb places the witness's platoon here."
     category: organization
     significance: notable
     entities:
@@ -164,7 +164,7 @@ events:
   - date: "1969-03-18"
     title: "Operation Menu: the B-52 strikes the patrol marked"
     cue: 210
-    summary: "The witness says his patrol was marking sites for a bombing raid the following year. Strategic Air Command began Operation Menu, a covert B-52 campaign against eastern Cambodia, on 18 March 1969; the host says it stayed classified until President Clinton declassified it in 2000."
+    summary: "The witness says his patrol was marking sites for a bombing raid the following year. Strategic Air Command began Operation Menu, a covert B-52 campaign against eastern Cambodia, on 18 March 1969; Gerb says it stayed classified until President Clinton declassified it in 2000."
     category: program
     significance: notable
     entities:
@@ -173,7 +173,7 @@ events:
   - date: "1969"
     title: "Five of the original twelve die in combat"
     cue: 962
-    summary: "After the crash the witness's unit is put back on duty but broken up and placed in 'horrific' engagements: five of the original twelve are killed and three badly wounded. 'I think they were trying to kill us off.' From the LRRP memorial casualty list the host narrows the dead between the crash and the induction to eight hostile-action names, five of which he thinks were the witness's platoon mates."
+    summary: "After the crash the witness's unit is put back on duty but broken up and placed in 'horrific' engagements: five of the original twelve are killed and three badly wounded. 'I think they were trying to kill us off.' From the LRRP memorial casualty list Gerb narrows the dead between the crash and the induction to eight hostile-action names, five of which he thinks were the witness's platoon mates."
     category: event
     significance: notable
     entities:
@@ -190,7 +190,7 @@ events:
   - date: "1969"
     title: "John M. Riggs is commissioned"
     cue: 2520
-    summary: "Riggs, who enlisted in the Army in 1965, is commissioned a second lieutenant in 1969 and goes on to fly helicopters, earning the Distinguished Flying Cross in Vietnam. The host notes the year matches the witness's induction."
+    summary: "Riggs, who enlisted in the Army in 1965, is commissioned a second lieutenant in 1969 and goes on to fly helicopters, earning the Distinguished Flying Cross in Vietnam. Gerb notes the year matches the witness's induction."
     category: person
     significance: notable
     entities:
@@ -198,7 +198,7 @@ events:
   - date: "1975"
     title: "Goldwater is refused the Blue Room"
     cue: 1307
-    summary: "The host sets the witness's claim that Wright-Patterson was a red herring against Senator Barry Goldwater's account of being refused access to the Blue Room there by General Curtis LeMay, and suggests the base may have held records rather than material."
+    summary: "Gerb sets the witness's claim that Wright-Patterson was a red herring against Senator Barry Goldwater's account of being refused access to the Blue Room there by General Curtis LeMay, and suggests the base may have held records rather than material."
     category: event
     significance: minor
     entities:
@@ -209,7 +209,7 @@ events:
   - date: "1975-11-11"
     title: "Lima, Peru: an unmanned 12-foot craft"
     cue: 1618
-    summary: "The first South American candidate, from Leonard Stringfield's notes of a 1978 conversation with one Bob Barry: an unmanned metallic craft 12 feet high and 8 feet across, of apparently non-terrestrial material, recovered near Lima. The host notes it may be an egg or bell rather than a saucer."
+    summary: "The first South American candidate, from Leonard Stringfield's notes of a 1978 conversation with one Bob Barry: an unmanned metallic craft 12 feet high and 8 feet across, of apparently non-terrestrial material, recovered near Lima. Gerb notes it may be an egg or bell rather than a saucer."
     category: event
     significance: notable
     entities:
@@ -218,7 +218,7 @@ events:
   - date: "1976-09"
     title: "Iran: a failed attempt to down a craft"
     cue: 2288
-    summary: "The witness mentions failed and, in the 1990s, successful attempts to bring down UAP. The host is 'almost positive' the failure in Iran is Major Jafari's 1976 interception."
+    summary: "The witness mentions failed and, in the 1990s, successful attempts to bring down UAP. Gerb is 'almost positive' the failure in Iran is Major Jafari's 1976 interception."
     category: event
     significance: minor
     entities:
@@ -226,7 +226,7 @@ events:
   - date: "1977-12-13"
     title: "A 'piece of a UFO' examined at Los Alamos"
     cue: 2164
-    summary: "Against the witness's claim that NASA was tasked with the search for a fabricator, the host cites a FOIA-released letter to NASA's chief of ground operations safety describing 'what could be a piece of a UFO' examined at Los Alamos for over two months, and an internal memo on a late-1970s 'UFO HEAP' hard-evidence analysis programme."
+    summary: "Against the witness's claim that NASA was tasked with the search for a fabricator, Gerb cites a FOIA-released letter to NASA's chief of ground operations safety describing 'what could be a piece of a UFO' examined at Los Alamos for over two months, and an internal memo on a late-1970s 'UFO HEAP' hard-evidence analysis programme."
     category: document
     significance: notable
     entities:
@@ -250,7 +250,7 @@ events:
   - date: "1986-06"
     title: "McCampbell: F-4s carried UAP detectors in Vietnam"
     cue: 480
-    summary: "Former Battelle contractor James McCampbell told Jacques Vallee that a Wild Weasel contact said F-4s were fitted with electromagnetic equipment to detect UAP during the war, which the host ties to the F-4s over the witness's crash."
+    summary: "Former Battelle contractor James McCampbell told Jacques Vallee that a Wild Weasel contact said F-4s were fitted with electromagnetic equipment to detect UAP during the war, which Gerb ties to the F-4s over the witness's crash."
     category: document
     significance: minor
     entities:
@@ -259,7 +259,7 @@ events:
   - date: "1996-05"
     title: "Bole, Ireland: two of five crew survive"
     cue: 1897
-    summary: "The witness recovered live beings at a 'near-UK' crash that coincided with a meteor event. The host matches it to Bole, Ireland, in May 1996: a craft shears trees and lands in a lake; two of five crew survive with light bruising. US troops stay for six months and local police are told to keep away. Under a default agreement, material recovered in Europe goes to the US."
+    summary: "The witness recovered live beings at a 'near-UK' crash that coincided with a meteor event. Gerb matches it to Bole, Ireland, in May 1996: a craft shears trees and lands in a lake; two of five crew survive with light bruising. US troops stay for six months and local police are told to keep away. Under a default agreement, material recovered in Europe goes to the US."
     category: event
     significance: major
     entities:
@@ -269,7 +269,7 @@ events:
   - date: "1997"
     title: "Weygandt's seamless craft in the Peruvian jungle"
     cue: 450
-    summary: "The 'molten' look of the Vietnam craft reminds the host of the mother-of-pearl skin Lance Corporal Jonathan Weygandt described on a craft in the jungles of Peru in 1997."
+    summary: "The 'molten' look of the Vietnam craft reminds Gerb of the mother-of-pearl skin Lance Corporal Jonathan Weygandt described on a craft in the jungles of Peru in 1997."
     category: event
     significance: minor
     entities:
@@ -277,7 +277,7 @@ events:
   - date: "2004"
     title: "The witness leaves the program"
     cue: 905
-    summary: "Now at least about 74 and out of the program for some twenty years, the witness served in it, by the host's count, from about 1969 to 2004, ending on the administrative side. He never learned the whole truth, but knew enough to feel compelled to come forward."
+    summary: "Now at least about 74 and out of the program for some twenty years, the witness served in it, by Gerb's count, from about 1969 to 2004, ending on the administrative side. He never learned the whole truth, but knew enough to feel compelled to come forward."
     category: person
     significance: major
     entities:
@@ -285,7 +285,7 @@ events:
   - date: "2004"
     title: "Riggs is demoted and forced to retire"
     cue: 2500
-    summary: "Per witness TB, a general who showed classified UAP-derived cloaking technology to a BAE Systems employee in 2004 was investigated, demoted a star and retired. The host names him as Lieutenant General John M. Riggs, whose 1969-2004 officer career matches the witness's tenure."
+    summary: "Per witness TB, a general who showed classified UAP-derived cloaking technology to a BAE Systems employee in 2004 was investigated, demoted a star and retired. Gerb names him as Lieutenant General John M. Riggs, whose 1969-2004 officer career matches the witness's tenure."
     category: person
     significance: major
     entities:
@@ -294,7 +294,7 @@ events:
   - date: "2024-03"
     title: "The Infographic Show publishes the confession"
     cue: 0
-    summary: "The Infographic Show posts 'US Special Forces Confession - I Recovered Crashed UFOs', built from a series of interviews and written correspondence 'edited and cut together' into one timeline. The host's attempts to contact the channel's team go unanswered."
+    summary: "The Infographic Show posts 'US Special Forces Confession - I Recovered Crashed UFOs', built from a series of interviews and written correspondence 'edited and cut together' into one timeline. Gerb's attempts to contact the channel's team go unanswered."
     category: document
     significance: major
     entities:
@@ -305,15 +305,15 @@ events:
 
 ## The Vietnam Crash (1968)
 
-The host dates the crash from what the witness says about his unit. The Infographic Show's witness describes a long-range reconnaissance patrol tracking supply routes from Cambodia into South Vietnam and marking sites for a B-52 raid the following year. Company E, 52nd Infantry, the 1st Cavalry Division's LRRP company, served in Vietnam from 1967 to 1969 and fought at Tet and Khe Sanh. In late 1968 it was headquartered at Phuoc Vinh, and its area of operations ran along the Cambodian border through provinces the division's records describe as holding major enemy infiltration routes into Saigon. Strategic Air Command began [[Operation Menu]] on 18 March 1969. If the account is true, the host concludes, the crash happened between October and December 1968, to an LRRP platoon operating out of Phuoc Vinh.
+Gerb dates the crash from what the witness says about his unit. The Infographic Show's witness describes a long-range reconnaissance patrol tracking supply routes from Cambodia into South Vietnam and marking sites for a B-52 raid the following year. Company E, 52nd Infantry, the 1st Cavalry Division's LRRP company, served in Vietnam from 1967 to 1969 and fought at Tet and Khe Sanh. In late 1968 it was headquartered at Phuoc Vinh, and its area of operations ran along the Cambodian border through provinces the division's records describe as holding major enemy infiltration routes into Saigon. Strategic Air Command began [[Operation Menu]] on 18 March 1969. If the account is true, Gerb concludes, the crash happened between October and December 1968, to an LRRP platoon operating out of Phuoc Vinh.
 
-Before the story itself, the host notes two other Vietnam cases from the same year. From [[Steven Greer]]'s redacted witness list, witness 10622, a Navy radio communications technician aboard the carrier *Bon Homme Richard*, says he received scrambled messages in June 1968 reporting at least eleven UAP tracked visually and on radar. On 9 September 1968, helicopter pilots and soldiers at a Marine Corps base at Dong Ha reported a fast-moving object with green and white lights that manoeuvred for twenty minutes.
+Before the story itself, Gerb notes two other Vietnam cases from the same year. From [[Steven Greer]]'s redacted witness list, witness 10622, a Navy radio communications technician aboard the carrier *Bon Homme Richard*, says he received scrambled messages in June 1968 reporting at least eleven UAP tracked visually and on radar. On 9 September 1968, helicopter pilots and soldiers at a Marine Corps base at Dong Ha reported a fast-moving object with green and white lights that manoeuvred for twenty minutes.
 
 According to the witness, an object passed overhead glowing bright red-orange and "appearing to be melting." It moved out of sight, and five or six seconds later a crash and a dull thump carried through the jungle. Assuming it was a US aircraft, and unwilling to risk long-range radio traffic being intercepted, the platoon moved to secure the site. What they found was plainly not a US plane: an egg-shaped, dull grey, metallic craft, seemingly cracked open, that looked as if it had been made from a single piece of metal with no bolts, seams or screws. The only ordinary explanation the soldiers could think of was a crashed space probe, either NASA's or the Soviets'. When they called it in, they were told "birds" were already on the way and ordered to secure the crash. A pair of F-4 Phantom IIs fell into orbit overhead. The infantry held a wide perimeter and was allowed nowhere near the craft. Special operations forces, Navy and Air Force personnel, already read into the program, took two days to remove it from the jungle.
 
-The host sets each detail beside cases he considers similar:
+Gerb sets each detail beside cases he considers similar:
 
-| Detail in the account | What the host compares it to |
+| Detail in the account | What Gerb compares it to |
 |---|---|
 | A red-orange glow | A glowing yellow-white oval over Albany, Georgia, that turned red and orange (NICAP case 6811222, 22 November 1968); a silent, car-sized egg giving off orange reflections in France (15 December 1968); the red-orange oval in the March 1967 [[Malmstrom Air Force Base UFO Incident]] described in affidavits by [[Robert Salas]] and others |
 | An egg made from one piece of metal | [[Eric Taber]]'s account to AARO of an egg-shaped metallic craft kept at [[Area 51]] in the 1980s (see [[Egg-shaped UAP]]) |
@@ -323,22 +323,22 @@ The host sets each detail beside cases he considers similar:
 
 ## Forced Into the Program
 
-The witness says "the program" (the only name anyone used for it) had several rapid reaction units stationed in theater, and that it became official during the Korean War, after the military learned that "these things are attracted to conflict." Retrieval activity itself is older. The host points to the 1947 [[Roswell Crash]] and the [[Majestic 12]] documents, and to [[Wilbert B. Smith]]'s 1950 memo relaying [[Robert Sarbacher]]'s word that the subject was classified higher than the hydrogen bomb. On the attraction to conflict and nuclear weapons, he cites Robert Salas at Malmstrom, [[Robert Jacobs]]'s film of a UAP interacting with a dummy ICBM warhead, and the 1953 [[1953 Kingman, Arizona Crash Retrieval|Kingman crash]] during the nuclear tests of [[Operation Upshot-Knothole]].
+The witness says "the program" (the only name anyone used for it) had several rapid reaction units stationed in theater, and that it became official during the Korean War, after the military learned that "these things are attracted to conflict." Retrieval activity itself is older. Gerb points to the 1947 [[Roswell Crash]] and the [[Majestic 12]] documents, and to [[Wilbert B. Smith]]'s 1950 memo relaying [[Robert Sarbacher]]'s word that the subject was classified higher than the hydrogen bomb. On the attraction to conflict and nuclear weapons, he cites Robert Salas at Malmstrom, [[Robert Jacobs]]'s film of a UAP interacting with a dummy ICBM warhead, and the 1953 [[1953 Kingman, Arizona Crash Retrieval|Kingman crash]] during the nuclear tests of [[Operation Upshot-Knothole]].
 
-Joining was not voluntary. The platoon was offered the program or a general discharge, likely drug charges, or an Article 15. The host compares this to the account of witness Ka, relayed to [[Leonard Stringfield]], who in April 1954 was sent to a crashed saucer about 25 to 30 miles from Roswell and afterwards debriefed for three days, a "living hell," under threat of fines, imprisonment with hard labour and general discharge. The witness says his introduction was highly compartmentalized and he was told only what he needed to know, which the host likens to the Wilson-Davis Memo's "layers of the compartment's pyramid." He says he did not realize the craft came from space until he saw a body.
+Joining was not voluntary. The platoon was offered the program or a general discharge, likely drug charges, or an Article 15. Gerb compares this to the account of witness Ka, relayed to [[Leonard Stringfield]], who in April 1954 was sent to a crashed saucer about 25 to 30 miles from Roswell and afterwards debriefed for three days, a "living hell," under threat of fines, imprisonment with hard labour and general discharge. The witness says his introduction was highly compartmentalized and he was told only what he needed to know, which Gerb likens to the Wilson-Davis Memo's "layers of the compartment's pyramid." He says he did not realize the craft came from space until he saw a body.
 
-After the reading-in, the unit went back on duty but was broken up and put into "horrific combat engagements": five of the original twelve died and three more were badly wounded. "I think they were trying to kill us off." About a year after the crash he was formally brought in, and from then on his main job was the program rather than soldiering. :wiki-cue{t=962 video="DcvuglS7ps4" video-title="US Special Forces Confession - Fact or Fiction"} The host then uses a memorial site for the unit to look for the dead:
+After the reading-in, the unit went back on duty but was broken up and put into "horrific combat engagements": five of the original twelve died and three more were badly wounded. "I think they were trying to kill us off." About a year after the crash he was formally brought in, and from then on his main job was the program rather than soldiering. :wiki-cue{t=962 video="DcvuglS7ps4" video-title="US Special Forces Confession - Fact or Fiction"} Gerb then uses a memorial site for the unit to look for the dead:
 
 1. About 1,000 men served in the 1st Cavalry Division's LRRP unit, and 45 were killed in Vietnam and Cambodia.
 2. Allowing about three months either side of the crash (October–December 1968) and the induction (October–December 1969) leaves 16 names.
 3. Removing deaths from non-hostile causes leaves 8.
-4. Of these, the host judges 5 to be the witness's likely platoon mates.
+4. Of these, Gerb judges 5 to be the witness's likely platoon mates.
 
-The witness puts his age at about 74 or older and says he has been out of the program for twenty years, so the host dates his service to about 1969 to 2004. The witness praises [[David Grusch]] as a patriot for his approach to going public, and confirms that aerospace contractors are involved and that a sophisticated disinformation effort exists.
+The witness puts his age at about 74 or older and says he has been out of the program for twenty years, so Gerb dates his service to about 1969 to 2004. The witness praises [[David Grusch]] as a patriot for his approach to going public, and confirms that aerospace contractors are involved and that a sophisticated disinformation effort exists.
 
 ## How the Program Worked
 
-"It didn't happen often but these things did fall out of the sky," the witness says, and the rapid reaction units would "swoop in as fast as we could in case there was anything to snatch up." He believes three craft were pulled out of the theater, not only Vietnam, and one recovery "damn near started a war with China." The program won that one only because of China's primitive early-warning systems. :wiki-cue{t=1063 video="DcvuglS7ps4" video-title="US Special Forces Confession - Fact or Fiction"} The host sets this beside David Grusch's description of a multi-decade "cold war" with adversary nations over the technology. The host also mentions a separate witness on Greer's list, 10659, who claimed firsthand involvement in a Vietnam retrieval. The witness adds that ocean recoveries were near impossible. Europe was another hot spot, drawn by a continent in a constant state of military readiness, though Europeans kept a tighter lid on the subject.
+"It didn't happen often but these things did fall out of the sky," the witness says, and the rapid reaction units would "swoop in as fast as we could in case there was anything to snatch up." He believes three craft were pulled out of the theater, not only Vietnam, and one recovery "damn near started a war with China." The program won that one only because of China's primitive early-warning systems. :wiki-cue{t=1063 video="DcvuglS7ps4" video-title="US Special Forces Confession - Fact or Fiction"} Gerb sets this beside David Grusch's description of a multi-decade "cold war" with adversary nations over the technology. Gerb also mentions a separate witness on Greer's list, 10659, who claimed firsthand involvement in a Vietnam retrieval. The witness adds that ocean recoveries were near impossible. Europe was another hot spot, drawn by a continent in a constant state of military readiness, though Europeans kept a tighter lid on the subject.
 
 The tree below lays out the parts of the program the witness describes. It shows what he says each part did, not a documented chain of command.
 
@@ -382,29 +382,29 @@ root:
 ---
 ::
 
-The witness says the program kept "collections" of craft in different places, and he saw two of them. :wiki-cue{t=1206 video="DcvuglS7ps4" video-title="US Special Forces Confession - Fact or Fiction"} The host compares this with Grusch's testimony that the US holds craft of non-human origin, and with the claim of Dan Burisch, an alleged biologist on the S-4 "Project Aquarius," that nine hangar bays at S-4 held UAP and reverse-engineered vehicles, including the Kingman craft. The witness calls [[Wright-Patterson Air Force Base]] and the Foreign Technology Division a red herring, "where the Soviets would have immediately come looking," and says "we faked some stuff going into Wright-Patterson." The host reads this as meaning that stories of material at Wright-Patterson from roughly 1969 to 2004 were planted by the program. He notes a tension with Senator [[Barry Goldwater]]'s account of being refused the [[Blue Room]] there by General [[Curtis LeMay]], and suggests the base may have held records rather than craft.
+The witness says the program kept "collections" of craft in different places, and he saw two of them. :wiki-cue{t=1206 video="DcvuglS7ps4" video-title="US Special Forces Confession - Fact or Fiction"} Gerb compares this with Grusch's testimony that the US holds craft of non-human origin, and with the claim of Dan Burisch, an alleged biologist on the S-4 "Project Aquarius," that nine hangar bays at S-4 held UAP and reverse-engineered vehicles, including the Kingman craft. The witness calls [[Wright-Patterson Air Force Base]] and the Foreign Technology Division a red herring, "where the Soviets would have immediately come looking," and says "we faked some stuff going into Wright-Patterson." Gerb reads this as meaning that stories of material at Wright-Patterson from roughly 1969 to 2004 were planted by the program. He notes a tension with Senator [[Barry Goldwater]]'s account of being refused the [[Blue Room]] there by General [[Curtis LeMay]], and suggests the base may have held records rather than craft.
 
-The co-op sites, the witness says, were "a whole umbrella": the big contractors everyone knows, "people like [[Raytheon]], [[Boeing]]," and smaller firms like [[Texas Instruments]], whose engineers "would get a piece of something and then be asked to figure out how it works." The host finds one link for each company. Astrophysicist [[Bernard Haisch]] named Raytheon, alongside Lockheed Martin, Aerospace Corporation and TRW, among the aerospace companies where legacy programs hide. A 1956 study of electrogravitic systems named Boeing among the companies working on anti-gravity rigs and referred to a Project Winterhaven saucer interceptor. For TI, the host could find only its 1961 founding of the Southwest Center for Advanced Studies, which he says worked on gravitational physics.
+The co-op sites, the witness says, were "a whole umbrella": the big contractors everyone knows, "people like [[Raytheon]], [[Boeing]]," and smaller firms like [[Texas Instruments]], whose engineers "would get a piece of something and then be asked to figure out how it works." Gerb finds one link for each company. Astrophysicist [[Bernard Haisch]] named Raytheon, alongside Lockheed Martin, Aerospace Corporation and TRW, among the aerospace companies where legacy programs hide. A 1956 study of electrogravitic systems named Boeing among the companies working on anti-gravity rigs and referred to a Project Winterhaven saucer interceptor. For TI, Gerb could find only its 1961 founding of the Southwest Center for Advanced Studies, which he says worked on gravitational physics.
 
 ## Eggs, Bells and Saucers
 
-The witness knows the craft can operate in microgravity, but he is not sure they are spacecraft, and wonders whether "that's where they want us to think they are coming from." He sorts them informally by shape. :wiki-cue{t=1460 video="DcvuglS7ps4" video-title="US Special Forces Confession - Fact or Fiction"} The host finds his list matches the most common configurations in AARO's 1996–2023 reporting data, once spheres and lights are set aside.
+The witness knows the craft can operate in microgravity, but he is not sure they are spacecraft, and wonders whether "that's where they want us to think they are coming from." He sorts them informally by shape. :wiki-cue{t=1460 video="DcvuglS7ps4" video-title="US Special Forces Confession - Fact or Fiction"} Gerb finds his list matches the most common configurations in AARO's 1996–2023 reporting data, once spheres and lights are set aside.
 
 ::wiki-grid{cols=3}
 ::wiki-panel{title="Eggs and bells" tone="accent"}
-**The ones that crash.** Almost always unmanned drones, sometimes disintegrating on impact. The Vietnam craft was an egg ([[Egg-shaped UAP]]). The host matches the bells ([[Bell or Acorn-Shaped Craft]]) to the 1965 [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg crash]], which Stringfield covered and where [[Eric A. Walker]], an alleged early program manager, claimed to have been present.
+**The ones that crash.** Almost always unmanned drones, sometimes disintegrating on impact. The Vietnam craft was an egg ([[Egg-shaped UAP]]). Gerb matches the bells ([[Bell or Acorn-Shaped Craft]]) to the 1965 [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg crash]], which Stringfield covered and where [[Eric A. Walker]], an alleged early program manager, claimed to have been present.
 ::
 ::wiki-panel{title="Saucers"}
-**The crown jewels.** Rare and crewed. The witness took part in recovering only two. They are formed from a single piece of material or "put together at an atomic level," and "even the entrance is invisible until it actually opens." The host compares this to [[MS (Dugway Witness)|MS]]'s "flawless, like it had been 3D printed" craft at [[Dugway Proving Ground]], and to RB's 1963 saucer, whose door seams would not admit a sheet of paper.
+**The crown jewels.** Rare and crewed. The witness took part in recovering only two. They are formed from a single piece of material or "put together at an atomic level," and "even the entrance is invisible until it actually opens." Gerb compares this to [[MS (Dugway Witness)|MS]]'s "flawless, like it had been 3D printed" craft at [[Dugway Proving Ground]], and to RB's 1963 saucer, whose door seams would not admit a sheet of paper.
 ::
 ::wiki-panel{title="Pills and triangles"}
-**The rest of the list.** Pills ("Tic Tacs, I guess you now call them") and triangles complete the witness's catalogue. Besides saucers, he says "maybe one or two other types" carry a crew. The host guesses that one of these is the triangle.
+**The rest of the list.** Pills ("Tic Tacs, I guess you now call them") and triangles complete the witness's catalogue. Besides saucers, he says "maybe one or two other types" carry a crew. Gerb guesses that one of these is the triangle.
 ::
 ::
 
 ## The South American Saucer
 
-The saucer the witness helped recover "had hit the side of a rocky outcropping on its way down." It smashed the rock and took out a quarter mile of trees, yet the craft itself was relatively unharmed. Had it come down near a town, he says, "the whole UFO mystery would have been public knowledge by now." :wiki-cue{t=1562 video="DcvuglS7ps4" video-title="US Special Forces Confession - Fact or Fiction"} Searching [[Ryan S. Wood]]'s *Magic Eyes Only* within the 1969–2004 window, and setting aside Weygandt's 1997 Peru craft and the 1978 [[Project Moondust|Moondust]] retrieval in Bolivia as not saucer-shaped, the host offers three candidates:
+The saucer the witness helped recover "had hit the side of a rocky outcropping on its way down." It smashed the rock and took out a quarter mile of trees, yet the craft itself was relatively unharmed. Had it come down near a town, he says, "the whole UFO mystery would have been public knowledge by now." :wiki-cue{t=1562 video="DcvuglS7ps4" video-title="US Special Forces Confession - Fact or Fiction"} Searching [[Ryan S. Wood]]'s *Magic Eyes Only* within the 1969–2004 window, and setting aside Weygandt's 1997 Peru craft and the 1978 [[Project Moondust|Moondust]] retrieval in Bolivia as not saucer-shaped, Gerb offers three candidates:
 
 - **Near [[Lima, Peru]], 11 November 1975.** From Stringfield's notes of a March 1978 conversation with one Bob Barry: an unmanned metallic craft 12 feet high and 8 feet across, of apparently non-terrestrial material. By the witness's own typology it may have been an egg or a bell.
 - **Chile, 1978.** From the files of Bob Pratt: an air burst woke all 3,000 people in the area, and afterwards Americans in NASA coveralls questioned witnesses. NASA and the CIA told Pratt they had no data on it.
@@ -412,11 +412,11 @@ The saucer the witness helped recover "had hit the side of a rocky outcropping o
 
 He also mentions the [[Varginha, Brazil|Varginha]] case as a possibility.
 
-Inside, the craft smelled of decaying organic matter, and the "things" aboard were dead. "I call them things on purpose, not out of disrespect... I just don't think any of us were ever convinced they were actually living creatures." They had a crude digestive system able to process only basic proteins, long limbs, knees "not in the right places," and large but not huge eyes. They were a little taller than the typical grey (see [[Gray Alien Morphology]]) and appeared to have been raised in the dim light their craft kept. The program took them for biological androids. The host sets this beside [[Gary Nolan]]'s view that most of what is seen are "avatars, biological robots," and [[Victor Marchetti]]'s statement that "little gray men whose ships had crashed or had been shot down" were kept on ice by the Air Force at Wright-Patterson.
+Inside, the craft smelled of decaying organic matter, and the "things" aboard were dead. "I call them things on purpose, not out of disrespect... I just don't think any of us were ever convinced they were actually living creatures." They had a crude digestive system able to process only basic proteins, long limbs, knees "not in the right places," and large but not huge eyes. They were a little taller than the typical grey (see [[Gray Alien Morphology]]) and appeared to have been raised in the dim light their craft kept. The program took them for biological androids. Gerb sets this beside [[Gary Nolan]]'s view that most of what is seen are "avatars, biological robots," and [[Victor Marchetti]]'s statement that "little gray men whose ships had crashed or had been shot down" were kept on ice by the Air Force at Wright-Patterson.
 
 ## Bole, Ireland, and the Live Biologics Protocols
 
-The witness recovered live beings at a "near-UK" retrieval that coincided with a meteor event. The host believes he has found it: the [[1996 Bole, Ireland Crash Retrieval|May 1996 incident at Bole, Ireland]]. Locals saw a meteor or aerial craft misjudge its approach, shear through trees and come down in a lake. Several occupants were reportedly taken into custody, and military activity, including American soldiers, went on for six months. Even local police were told to stay away. Two of the five crew survived, with only light bruising. The witness says Europe has a default agreement that recovered material goes to the United States: "that's the price you pay for having a superpower watch your back."
+The witness recovered live beings at a "near-UK" retrieval that coincided with a meteor event. Gerb believes he has found it: the [[1996 Bole, Ireland Crash Retrieval|May 1996 incident at Bole, Ireland]]. Locals saw a meteor or aerial craft misjudge its approach, shear through trees and come down in a lake. Several occupants were reportedly taken into custody, and military activity, including American soldiers, went on for six months. Even local police were told to stay away. Two of the five crew survived, with only light bruising. The witness says Europe has a default agreement that recovered material goes to the United States: "that's the price you pay for having a superpower watch your back."
 
 The program's "ruthlessly strict" [[Live Biologics Protocols|protocols for live biologics]], as the witness gives them: :wiki-cue{t=1952 video="DcvuglS7ps4" video-title="US Special Forces Confession - Fact or Fiction"}
 
@@ -429,13 +429,13 @@ At Bole the door opened on its own. The beings stood about aimlessly, reacting o
 
 ## Who Makes the Craft?
 
-The program's theory, according to the witness, was that "this was all being fabricated for us." It tasked NASA with finding "a big 3D printer" somewhere in the solar system, a facility making the craft and their crews. The search looked for heat, since "it's hard to hide heat in space." :wiki-cue{t=2115 video="DcvuglS7ps4" video-title="US Special Forces Confession - Fact or Fiction"} He does not know whether anything was found, "though there was some excitement for a while." This is the [[Fabrication Hypothesis]]. The host notes that NASA publicly denied studying UFOs at the time, but cites a FOIA-released letter of 13 December 1977 to NASA's chief of ground operations safety describing "what could be a piece of a UFO" examined at Los Alamos for over two months. He also cites an internal NASA memo, found in a Black Vault collection, admitting a late-1970s "UFO HEAP" hard-evidence analysis program. He links the idea to [[John Von Neumann]]'s universal constructor, a self-replicating machine that could let a civilization slower than light colonize a galaxy. Sarbacher listed Von Neumann, with Vannevar Bush and Robert Oppenheimer, as involved in UFO recovery. The host also mentions an alleged 4chan whistleblower who placed such a replicator in Earth's oceans.
+The program's theory, according to the witness, was that "this was all being fabricated for us." It tasked NASA with finding "a big 3D printer" somewhere in the solar system, a facility making the craft and their crews. The search looked for heat, since "it's hard to hide heat in space." :wiki-cue{t=2115 video="DcvuglS7ps4" video-title="US Special Forces Confession - Fact or Fiction"} He does not know whether anything was found, "though there was some excitement for a while." This is the [[Fabrication Hypothesis]]. Gerb notes that NASA publicly denied studying UFOs at the time, but cites a FOIA-released letter of 13 December 1977 to NASA's chief of ground operations safety describing "what could be a piece of a UFO" examined at Los Alamos for over two months. He also cites an internal NASA memo, found in a Black Vault collection, admitting a late-1970s "UFO HEAP" hard-evidence analysis program. He links the idea to [[John Von Neumann]]'s universal constructor, a self-replicating machine that could let a civilization slower than light colonize a galaxy. Sarbacher listed Von Neumann, with Vannevar Bush and Robert Oppenheimer, as involved in UFO recovery. Gerb also mentions an alleged 4chan whistleblower who placed such a replicator in Earth's oceans.
 
-The witness says many craft landed and never took off, "like whatever was doing this wanted us to recover the craft." This is the [[Craft Donation Theory]], which the host notes is the subject of Eric Taber's egg, found untouched in the desert. The program strongly favoured it, perhaps as a way to hand over technology without disrupting human development. The alternative was "more disturbing": "maybe they just left these crafts lying around because they were easy to build."
+The witness says many craft landed and never took off, "like whatever was doing this wanted us to recover the craft." This is the [[Craft Donation Theory]], which Gerb notes is the subject of Eric Taber's egg, found untouched in the desert. The program strongly favoured it, perhaps as a way to hand over technology without disrupting human development. The alternative was "more disturbing": "maybe they just left these crafts lying around because they were easy to build."
 
-The witness also describes attempts to shoot craft down: failures, one in Iran (which the host believes is the [[1976 Tehran UFO Incident]]), and successes in the 1990s. Harm to people, he believes, is incidental, a by-product of the craft themselves, which can distort perception. Recovery teams learned to form mental "anchors," fixing a simple picture of the scene ("the craft is resting up against a big oak tree and there's a gray boulder on the other side") to hold on to when the confusion came. :wiki-cue{t=2323 video="DcvuglS7ps4" video-title="US Special Forces Confession - Fact or Fiction"} The host notes that Gary Nolan has spoken about this kind of effect on cognition, and that it is mentioned on slide 9 of an AATIP presentation leaked from [[Chris Mellon]]'s website.
+The witness also describes attempts to shoot craft down: failures, one in Iran (which Gerb believes is the [[1976 Tehran UFO Incident]]), and successes in the 1990s. Harm to people, he believes, is incidental, a by-product of the craft themselves, which can distort perception. Recovery teams learned to form mental "anchors," fixing a simple picture of the scene ("the craft is resting up against a big oak tree and there's a gray boulder on the other side") to hold on to when the confusion came. :wiki-cue{t=2323 video="DcvuglS7ps4" video-title="US Special Forces Confession - Fact or Fiction"} Gerb notes that Gary Nolan has spoken about this kind of effect on cognition, and that it is mentioned on slide 9 of an AATIP presentation leaked from [[Chris Mellon]]'s website.
 
-## Fact or Fiction: The Host's Verdict
+## Fact or Fiction: Gerb's Verdict
 
 ::wiki-grid{cols=3}
 ::wiki-panel{title="Pretty confident" tone="accent"}
@@ -445,26 +445,26 @@ The witness also describes attempts to shoot craft down: failures, one in Iran (
 - He served in it from 1969 to 2004.
 ::
 ::wiki-panel{title="Medium confidence"}
-- The three South American crashes and the 1996 crash in Ireland. They are "not very known cases," but they fit the timetable and fit what the host was looking for.
+- The three South American crashes and the 1996 crash in Ireland. They are "not very known cases," but they fit the timetable and fit what Gerb was looking for.
 ::
 ::wiki-panel{title="Just a theory"}
-- That the witness is General John M. Riggs. The host says it "doesn't hold much water" beyond dates and coincidences, but that if he had to bet, the whistleblower is offering some true testimony, not something "fictitious."
+- That the witness is General John M. Riggs. Gerb says it "doesn't hold much water" beyond dates and coincidences, but that if he had to bet, the whistleblower is offering some true testimony, not something "fictitious."
 ::
 ::
 
 ## The General Riggs Theory
 
-The host returns to his previous video, *[[Videos/Off-World Technologies Division – UAP Technology Reverse Engineering/summary|Off-World Technologies Division]]*. There, witness TB described a general who showed classified UAP-derived cloaking technology to a BAE Systems employee in 2004 and was investigated, demoted a star and retired. The host identifies him as [[John M. Riggs]], a lieutenant general who retired in 2004–2005 as a major general, and suggests that Riggs could also be the Infographic Show's witness. :wiki-cue{t=2500 video="DcvuglS7ps4" video-title="US Special Forces Confession - Fact or Fiction"}
+Gerb returns to his previous video, *[[Videos/Off-World Technologies Division – UAP Technology Reverse Engineering/summary|Off-World Technologies Division]]*. There, witness TB described a general who showed classified UAP-derived cloaking technology to a BAE Systems employee in 2004 and was investigated, demoted a star and retired. Gerb identifies him as [[John M. Riggs]], a lieutenant general who retired in 2004–2005 as a major general, and suggests that Riggs could also be the Infographic Show's witness. :wiki-cue{t=2500 video="DcvuglS7ps4" video-title="US Special Forces Confession - Fact or Fiction"}
 
 ::wiki-compare{video="DcvuglS7ps4" video-title="US Special Forces Confession - Fact or Fiction"}
 ---
-caption: "The host's case for Riggs, point by point: the witness's account beside Riggs's career as the host gives it. He calls it a theory resting on dates and coincidences, so no point is marked as a match; the chips jump to where he makes each one."
+caption: "Gerb's case for Riggs, point by point: the witness's account beside Riggs's career as Gerb gives it. He calls it a theory resting on dates and coincidences, so no point is marked as a match; the chips jump to where he makes each one."
 attributeLabel: "Point"
 subjects:
   - name: "Infographic Show Whistleblower"
     note: "The account, per The Infographic Show"
   - name: "John M. Riggs"
-    note: "His career, as the host gives it"
+    note: "His career, as Gerb gives it"
 rows:
   - attribute: "Start"
     cue: 2518
@@ -480,7 +480,7 @@ rows:
     cue: 2535
     cells:
       - "Rapid reaction units on standby"
-      - "Helicopter pilot, about 1,000 flight hours and the Distinguished Flying Cross; the host suggests he flew such a unit"
+      - "Helicopter pilot, about 1,000 flight hours and the Distinguished Flying Cross; Gerb suggests he flew such a unit"
   - attribute: "Exit"
     cue: 2555
     cells:
@@ -499,7 +499,7 @@ rows:
 ---
 ::
 
-The host stresses that the theory rests on little more than dates and coincidences. He says he does not want to "kick off an investigation I can't control," and asks viewers for other theories. He has tried, without success, to reach The Infographic Show's team.
+Gerb stresses that the theory rests on little more than dates and coincidences. He says he does not want to "kick off an investigation I can't control," and asks viewers for other theories. He has tried, without success, to reach The Infographic Show's team.
 
 ## Key Figures
 
@@ -511,7 +511,7 @@ entries:
     note: "Says he saw an egg-shaped craft crash in Vietnam in 1968, was forced into the program a year later, and served it for about 35 years, recovering saucers, eggs and live beings."
   - name: "John M. Riggs"
     role: "Retired US Army lieutenant general"
-    note: "The host's candidate for the witness: commissioned in 1969 and forced out in 2004, the same years as the witness's time in the program."
+    note: "Gerb's candidate for the witness: commissioned in 1969 and forced out in 2004, the same years as the witness's time in the program."
   - name: "Leonard Stringfield"
     role: "Crash retrieval researcher"
     note: "His status reports and notes supply the Ka coercion account, the Kecksburg bell, and two of the three South American candidate crashes."
@@ -520,7 +520,7 @@ entries:
     note: "His view that most occupants are 'biological robots' sent as intermediaries matches the program's android conclusion; he has also spoken about craft affecting cognition."
   - name: "David Grusch"
     role: "Whistleblower, former intelligence officer"
-    note: "Called a patriot by the witness. The host cites his statements on recovered craft, dead pilots and a multi-decade cold war with adversaries."
+    note: "Called a patriot by the witness. Gerb cites his statements on recovered craft, dead pilots and a multi-decade cold war with adversaries."
   - name: "Eric Taber"
     role: "Aerospace contractor"
     note: "His AARO account of an egg-shaped craft found untouched in the desert and kept at Area 51 echoes both the Vietnam egg and donation craft."
@@ -529,14 +529,14 @@ entries:
     note: "Told Jacques Vallee in 1986 that F-4s in Vietnam carried equipment to detect UAP, matching the F-4s over the crash site."
   - name: "Victor Marchetti"
     role: "Former CIA official"
-    note: "Quoted on 'little gray men' kept on ice by the Air Force at Wright-Patterson, the host's public confirmation of recovered bodies."
+    note: "Quoted on 'little gray men' kept on ice by the Air Force at Wright-Patterson, Gerb's public confirmation of recovered bodies."
 ---
 ::
 
 ## Key Claims
 
 - An anonymous veteran told The Infographic Show that, while on a long-range patrol along the Vietnam–Cambodia border between October and December 1968, his platoon saw an egg-shaped, seamless metallic craft crash, then secured it while personnel already in the program took two days to extract it.
-- The host matches the account to Company E, 52nd Infantry (LRP), of the 1st Cavalry Division at Phuoc Vinh, and to Operation Menu, which began in March 1969. From the unit's casualty list he identifies eight possible platoon mates killed in combat, five of them probable.
+- Gerb matches the account to Company E, 52nd Infantry (LRP), of the 1st Cavalry Division at Phuoc Vinh, and to Operation Menu, which began in March 1969. From the unit's casualty list he identifies eight possible platoon mates killed in combat, five of them probable.
 - The surviving platoon members were allegedly forced into the program about a year after the crash, under threat of general discharge, drug charges or Article 15 punishment, after five of the original twelve had been killed in combat.
 - The program allegedly became official during the Korean War and kept rapid reaction units in theater. Three craft were allegedly recovered from the Vietnam theater, and one recovery nearly started a war with China.
 - Wright-Patterson Air Force Base was allegedly a decoy, with faked material moved in for Soviet eyes, while collections of craft were kept elsewhere and pieces went to government and contractor "co-op sites" including Raytheon, Boeing and Texas Instruments.
@@ -544,7 +544,7 @@ entries:
 - The crews of a saucer recovered in South America were allegedly biological androids with crude digestive systems and oddly placed knees.
 - Live beings were allegedly recovered at Bole, Ireland, in May 1996, under strict protocols including a multilingual lead doctor called "the Ambassador." Such beings allegedly always died within days.
 - The program allegedly believed the craft and crews were manufactured, and tasked NASA with searching the solar system for the facility making them. It favoured the view that many craft were left for humans to recover.
-- The host theorizes, while calling it only a theory, that the witness is Lieutenant General John M. Riggs.
+- Gerb theorizes, while calling it only a theory, that the witness is Lieutenant General John M. Riggs.
 
 ## Sources
 

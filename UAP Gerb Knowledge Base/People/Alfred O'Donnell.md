@@ -17,7 +17,7 @@ Near the end of his life O'Donnell was a source for Annie Jacobsen's *Area 51: A
 
 ## Interpretation in UAP Gerb's Work
 
-UAP Gerb rejects the Jacobsen version and treats the Knapp account as significant. The usual reading is that the disc moved in 1955 because Area 51 opened that year. Like [[Robert Wood]], the host believes underground works at Groom Lake predate 1955. He proposes that the move followed the [[Atomic Energy Act of 1954]], which he believes shifted custody of recovered material into national-laboratory hands and placed it in Nevada Test Site installations most likely run by [[Sandia National Laboratories]]. He notes that Creech today operates extensively at the Sandia-managed [[Tonopah Test Range (TTR)|Tonopah Test Range]].
+UAP Gerb rejects the Jacobsen version and treats the Knapp account as significant. The usual reading is that the disc moved in 1955 because Area 51 opened that year. Like [[Robert Wood]], Gerb believes underground works at Groom Lake predate 1955. He proposes that the move followed the [[Atomic Energy Act of 1954]], which he believes shifted custody of recovered material into national-laboratory hands and placed it in Nevada Test Site installations most likely run by [[Sandia National Laboratories]]. He notes that Creech today operates extensively at the Sandia-managed [[Tonopah Test Range (TTR)|Tonopah Test Range]].
 
 ## Sources
 

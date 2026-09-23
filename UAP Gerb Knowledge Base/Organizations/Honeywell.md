@@ -11,11 +11,11 @@ Honeywell International Inc. is an American publicly traded multinational conglo
 
 UAP Gerb states that he firmly believes Honeywell engages with the alleged [[UFO Legacy Program Framework|UFO legacy programs]]. His reasons are:
 
-- **Management of Sandia.** Through NTESS, Honeywell is now the contractor behind the national laboratory the host regards as one of the most important institutions in the programs. "There's always a contractor behind that FFRDC," he says.
+- **Management of Sandia.** Through NTESS, Honeywell is now the contractor behind the national laboratory Gerb regards as one of the most important institutions in the programs. "There's always a contractor behind that FFRDC," he says.
 - **The Sperry Rand inheritance.** [[Philip J. Corso]] named Sperry Rand, with [[Bell Labs]], among the contractors to which the Army's Foreign Technology Division passed recovered technology. When Sperry Rand's successor broke up in 1986, its divisions went to Lockheed Martin, Raytheon, [[Northrop Grumman]] and Honeywell.
 - **Sandia facilities.** An Albuquerque architecture firm descended from [[Max Flatow]]'s Flatow and Moore, which lists work on at least eight Sandia facilities, also lists work for Honeywell's Sperry Flight Systems.
 
-In his video on [[Deep Underground Military Bases (DUMBs)|deep underground military bases]], the host also lists Honeywell among contractors that took part in acknowledged superconducting-magnet studies for maglev transport, alongside Grumman and [[Battelle Memorial Institute]].
+In his video on [[Deep Underground Military Bases (DUMBs)|deep underground military bases]], Gerb also lists Honeywell among contractors that took part in acknowledged superconducting-magnet studies for maglev transport, alongside Grumman and [[Battelle Memorial Institute]].
 
 ## Sources
 

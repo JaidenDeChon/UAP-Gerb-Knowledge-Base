@@ -13,7 +13,7 @@ In its MITRE investigation, UAP Gerb includes Meyerriecks among the former intel
 
 ## TRW and Alleged Data Masking
 
-UAP Gerb's *Northrop Grumman & TRW* notes that Meyerriecks worked at TRW from 1981 to 1993, overlapping for about two years with [[Stephanie O'Sullivan]]. The host suggests her CV may be "data masked", pointing to a move from a senior vice presidency at AOL and her own consultancy straight into ADNI/AT&F, and speculates that it omits earlier exposure to unacknowledged programs or that her corporate post was interwoven with the CIA. He considers both possibilities feasible.
+UAP Gerb's *Northrop Grumman & TRW* notes that Meyerriecks worked at TRW from 1981 to 1993, overlapping for about two years with [[Stephanie O'Sullivan]]. Gerb suggests her CV may be "data masked", pointing to a move from a senior vice presidency at AOL and her own consultancy straight into ADNI/AT&F, and speculates that it omits earlier exposure to unacknowledged programs or that her corporate post was interwoven with the CIA. He considers both possibilities feasible.
 
 ## Sources
 

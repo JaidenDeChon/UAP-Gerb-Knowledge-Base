@@ -9,7 +9,7 @@ Jay Stratton is a U.S. defense intelligence official best known publicly as the 
 
 ## Role in UAP Programs
 
-UAP Gerb's *Special Access Required Vol.2* plays a clip of Elizondo describing the years-long UAP investigation effort — funded, per Elizondo, by then-Senate Majority Leader [[Harry Reid]] — as conducted "together" by himself, Stratton, and a wider team. The presenter treats Stratton's name recurring across both the AAWSAP/[[AATIP (Advanced Aerospace Threat Identification Program)|ATIP]] era and, later, the official UAPTF directorship and *Age of Disclosure*, as evidence of long-running proximity to official and semi-official UAP program structures across more than a decade. The video is critical of *Age of Disclosure*'s presentation of the legacy program organizational structure, in which Stratton and Elizondo jointly appear, characterizing the documentary's chart of program authority as self-serving.
+UAP Gerb's *Special Access Required Vol.2* plays a clip of Elizondo describing the years-long UAP investigation effort — funded, per Elizondo, by then-Senate Majority Leader [[Harry Reid]] — as conducted "together" by himself, Stratton, and a wider team. Gerb treats Stratton's name recurring across both the AAWSAP/[[AATIP (Advanced Aerospace Threat Identification Program)|ATIP]] era and, later, the official UAPTF directorship and *Age of Disclosure*, as evidence of long-running proximity to official and semi-official UAP program structures across more than a decade. The video is critical of *Age of Disclosure*'s presentation of the legacy program organizational structure, in which Stratton and Elizondo jointly appear, characterizing the documentary's chart of program authority as self-serving.
 
 ## Sources
 

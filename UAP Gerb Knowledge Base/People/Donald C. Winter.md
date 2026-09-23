@@ -14,7 +14,7 @@ At DARPA, Winter managed space acquisition, tracking and pointing programs. His 
 
 ## Alleged Legacy Program Relevance
 
-UAP Gerb finds it notable that a man with Winter's SDI background was the first to run Mission Systems, the TRW-derived sector that a Northrop security director called "the coolest and most dynamic portfolio in the company". The video lists Winter among the TRW executives who carried TRW's culture, and in the host's view its legacy-program work, into Northrop Grumman.
+UAP Gerb finds it notable that a man with Winter's SDI background was the first to run Mission Systems, the TRW-derived sector that a Northrop security director called "the coolest and most dynamic portfolio in the company". The video lists Winter among the TRW executives who carried TRW's culture, and in Gerb's view its legacy-program work, into Northrop Grumman.
 
 ## Sources
 
