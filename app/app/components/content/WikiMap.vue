@@ -1,13 +1,34 @@
 <script setup lang="ts">
-import type { FeatureCollection, MultiLineString, MultiPolygon } from 'geojson'
+import type { Feature, FeatureCollection, MultiLineString, MultiPolygon } from 'geojson'
 import type { NoteRef } from '#shared/types/wiki'
-import { geoAzimuthalEqualArea, geoCircle, geoContains, geoDistance, geoEqualEarth, geoPath, type GeoProjection } from 'd3-geo'
+import {
+  geoArea,
+  geoAzimuthalEqualArea,
+  geoBounds,
+  geoCircle,
+  geoContains,
+  geoDistance,
+  geoEqualEarth,
+  geoPath,
+  type GeoProjection,
+} from 'd3-geo'
 import {
   boundsOutline,
+  type Box,
   buildMap,
+  chooseLocator,
   decodeOutline,
   type EncodedOutline,
+  frameRing,
+  type GeoBounds,
+  labelBox,
   type LatLon,
+  layoutInset,
+  LOCATOR_REGIONS,
+  locatorEnabled,
+  locatorMark,
+  type LocatorRegion,
+  type LonLat,
   type MapPinSpec,
   type MapRouteSpec,
   MILES_PER_DEGREE,
@@ -18,8 +39,10 @@ import {
   placeLabels,
   placePins,
   radiusPoints,
+  ringBounds,
   spreadPins,
   toLonLat,
+  unionBounds,
 } from '@/utils/map'
 
 /**
@@ -37,6 +60,10 @@ import {
  * accessible content, with the links and cue chips. Hovering a pin or a
  * legend row highlights its partner. The only motion (the outlines fading in,
  * hover transitions) is switched off under reduced motion.
+ *
+ * A regional map carries a locator inset above its scale bar: the whole
+ * country (or continent) the view sits in, at thumbnail size, with the area
+ * the map shows marked on it. `locator: false` turns it off.
  */
 const props = withDefaults(
   defineProps<{
@@ -49,6 +76,8 @@ const props = withDefaults(
     /** Overrides the kicker ("Map"). */
     label?: string
     caption?: string
+    /** The locator inset on a regional map; `false` turns it off. */
+    locator?: boolean | string
     /** YouTube id; gates the cue chips, like `::wiki-timeline`'s `video`. */
     video?: string
     videoTitle?: string
@@ -57,6 +86,7 @@ const props = withDefaults(
     pins: () => [],
     routes: () => [],
     region: 'auto',
+    locator: true,
     label: '',
     caption: '',
     video: '',
@@ -176,7 +206,10 @@ const geo = computed<{ projection: GeoProjection, H: number } | null>(() => {
   const narrow = w < 480
   const H = Math.round(Math.min(Math.max(natural, w * (narrow ? 0.62 : 0.42)), w * (narrow ? 1.05 : 0.78)))
   projection.fitExtent([[PAD, PAD], [w - PAD, H - PAD]], sample)
-  projection.clipExtent([[0, 0], [w, H]])
+  // Clipped well below the fitted height: the map may grow a band at the
+  // bottom for the inset and scale bar (`insetLayout`), and the land carries
+  // on into it. The SVG's own edge does the visible clipping.
+  projection.clipExtent([[0, 0], [w, H * 2 + 240]])
   return { projection, H }
 })
 
@@ -244,7 +277,11 @@ const countryLabels = computed(() => {
     const cy = pts.reduce((a, p) => a + p.y, 0) / pts.length
     // Start from the sample nearest the middle, then take the first one clear of every pin.
     const byCentre = [...pts].sort((a, b) => Math.hypot(a.x - cx, a.y - cy) - Math.hypot(b.x - cx, b.y - cy))
-    const clear = byCentre.find(p => pins.every(q => Math.abs(q.x - p.x) > 70 || Math.abs(q.y - p.y) > 22))
+    const inset = insetBox.value
+    const clear = byCentre.find(p =>
+      pins.every(q => Math.abs(q.x - p.x) > 70 || Math.abs(q.y - p.y) > 22)
+      && (!inset || p.x < inset.x0 - 60 || p.x > inset.x1 + 60 || p.y < inset.y0 - 10 || p.y > inset.y1 + 10),
+    )
     if (clear) out.push({ name: (COUNTRY_SHORT[name] ?? name).toUpperCase(), x: clear.x, y: clear.y })
   }
   return out
@@ -285,12 +322,15 @@ const circles = computed(() => {
   const g = geo.value
   if (!g) return []
   const path = geoPath(g.projection)
-  const out: { i: number, d: string }[] = []
+  const out: { i: number, d: string, box: Box }[] = []
   model.value.pins.forEach((pin, i) => {
     const at = places.value[i]
     if (!at || !pin.radius) return
-    const d = path(geoCircle().center(toLonLat(at)).radius(pin.radius / MILES_PER_DEGREE).precision(2)())
-    if (d) out.push({ i, d })
+    const circle = geoCircle().center(toLonLat(at)).radius(pin.radius / MILES_PER_DEGREE).precision(2)()
+    const d = path(circle)
+    if (!d) return
+    const [[x0, y0], [x1, y1]] = path.bounds(circle)
+    out.push({ i, d, box: { x0, y0, x1, y1 } })
   })
   return out
 })
@@ -301,6 +341,8 @@ interface DrawnRoute {
   d: string
   dashed: boolean
   arrows: { x: number, y: number, angle: number }[]
+  /** The drawn stops, in order. */
+  points: { x: number, y: number }[]
 }
 
 const drawnRoutes = computed<DrawnRoute[]>(() => {
@@ -318,7 +360,7 @@ const drawnRoutes = computed<DrawnRoute[]>(() => {
       if (len < PIN_R * 2 + 16) continue
       arrows.push({ x: (a.x + b.x) / 2, y: (a.y + b.y) / 2, angle: (Math.atan2(b.y - a.y, b.x - a.x) * 180) / Math.PI })
     }
-    out.push({ d, dashed: r.dashed, arrows })
+    out.push({ d, dashed: r.dashed, arrows, points: pts.map(p => ({ x: p.x, y: p.y })) })
   }
   return out
 })
@@ -341,6 +383,225 @@ const scaleBar = computed(() => {
   return { px, label: `${miles.toLocaleString('en-US')} mi (${kmText} km)` }
 })
 
+/* -- locator inset ---------------------------------------------------------- */
+
+/** Height the scale bar and its text take above the bottom padding. */
+const SCALE_H = 22
+/** Room for the inset's label (a country name) above its frame. */
+const INSET_LABEL_H = 12
+const INSET_PAD = 3
+
+/** The places the main map shows: its frame's edge, inverted, as a `[lon, lat]` ring. */
+const viewRing = computed<LonLat[]>(() => {
+  const g = geo.value
+  const invert = g?.projection.invert
+  if (!g || !invert) return []
+  const out: LonLat[] = []
+  for (const p of frameRing(W.value, H.value)) {
+    const ll = invert([p.x, p.y])
+    if (ll && Number.isFinite(ll[0]) && Number.isFinite(ll[1])) out.push([ll[0], ll[1]])
+  }
+  return out
+})
+
+type Outline = Feature<MultiPolygon | MultiLineString>
+
+/** Bounds of each outline feature, worked out once per page load. */
+const featureBounds = new WeakMap<Outline, GeoBounds>()
+function boundsOf(f: Outline): GeoBounds {
+  let b = featureBounds.get(f)
+  if (!b) {
+    const [[w, s], [e, n]] = geoBounds(f)
+    b = [w, s, e, n]
+    featureBounds.set(f, b)
+  }
+  return b
+}
+
+/**
+ * A country's own extent: the bounds of its largest polygon, so France is
+ * not stretched to French Guiana. Null for one that straddles the
+ * antimeridian (Russia, Fiji), which the continent boxes cover instead.
+ */
+function countryExtent(f: Outline): GeoBounds | null {
+  if (f.geometry.type !== 'MultiPolygon') return null
+  let best: MultiPolygon['coordinates'][number] | null = null
+  let bestArea = -1
+  for (const poly of f.geometry.coordinates) {
+    const a = geoArea({ type: 'Polygon', coordinates: poly })
+    if (a > bestArea) {
+      best = poly
+      bestArea = a
+    }
+  }
+  if (!best) return null
+  const [[w, s], [e, n]] = geoBounds({ type: 'Polygon', coordinates: best })
+  return w <= e ? [w, s, e, n] : null
+}
+
+/**
+ * What the inset shows: the smallest of the country the view is centred in,
+ * the fixed regions (the lower 48, Alaska, Hawaii, the continents) and the
+ * world that holds the whole view, if the view is a small enough part of it
+ * (`chooseLocator`). Only `region: auto` maps get one: `us` and `world`
+ * already show the whole of their area.
+ */
+const locatorRegion = computed<LocatorRegion | null>(() => {
+  const g = geo.value
+  const o = outlines.value
+  if (!g || !o || !locatorEnabled(props.locator)) return null
+  if (frame.value?.kind !== 'region' || normalizeRegion(props.region) !== 'auto') return null
+  const view = ringBounds(viewRing.value)
+  if (!view) return null
+  const candidates: LocatorRegion[] = [...LOCATOR_REGIONS]
+  const centre = g.projection.invert?.([W.value / 2, H.value / 2])
+  if (centre) {
+    // The United States is in the fixed list, split into the lower 48, Alaska and Hawaii.
+    const country = o.world.features.find(f =>
+      f.id !== 'lake' && f.id !== '840' && f.geometry.type === 'MultiPolygon' && geoContains(f, centre))
+    const extent = country ? countryExtent(country) : null
+    const name = country?.properties?.name as string | undefined
+    if (extent && name) {
+      const short = COUNTRY_SHORT[name] ?? name
+      candidates.push({ id: `c${country!.id}`, name: short, label: short, bounds: extent, kind: 'country' })
+    }
+  }
+  return chooseLocator(view, candidates)
+})
+
+function intersects(a: GeoBounds, b: GeoBounds): boolean {
+  // A feature across the antimeridian has west > east: always drawn, and clipped.
+  if (a[0] > a[2]) return a[1] <= b[3] && a[3] >= b[1]
+  return a[0] <= b[2] && a[2] >= b[0] && a[1] <= b[3] && a[3] >= b[1]
+}
+
+/** The inset's own drawing, in its local coordinates. */
+const locator = computed(() => {
+  const region = locatorRegion.value
+  const o = outlines.value
+  const view = ringBounds(viewRing.value)
+  if (!region || !o || !view) return null
+  // The region, widened to take in any part of the view that spills past it,
+  // with a little air so the view's outline never sits on the inset's edge.
+  let bounds = region.bounds
+  if (region.kind !== 'world') {
+    const [w0, s0, e0, n0] = unionBounds(region.bounds, view)
+    const dx = (e0 - w0) * 0.04
+    const dy = (n0 - s0) * 0.04
+    bounds = [w0 - dx, Math.max(-89, s0 - dy), e0 + dx, Math.min(89, n0 + dy)]
+  }
+  const w = Math.round(Math.min(116, Math.max(76, W.value * 0.17)))
+  const sample = { type: 'MultiPoint' as const, coordinates: boundsOutline(bounds) }
+  const projection = region.kind === 'world'
+    ? geoEqualEarth()
+    : geoAzimuthalEqualArea().rotate([-(bounds[0] + bounds[2]) / 2, -(bounds[1] + bounds[3]) / 2])
+  projection.fitWidth(w - INSET_PAD * 2, sample)
+  const [[, y0], [, y1]] = geoPath(projection).bounds(sample)
+  const h = Math.round(Math.min(Math.max(y1 - y0 + INSET_PAD * 2, w * 0.45), w * 1.15))
+  projection.fitExtent([[INSET_PAD, INSET_PAD], [w - INSET_PAD, h - INSET_PAD]], sample)
+  projection.clipExtent([[0, 0], [w, h]])
+  const path = geoPath(projection)
+  const draw = (lakes: boolean) => o.world.features
+    .filter(f => (f.id === 'lake') === lakes && intersects(boundsOf(f), bounds))
+    .map(f => path(f))
+    .filter((d): d is string => Boolean(d))
+    .join('')
+  return { w, h, projection, land: draw(false), lakes: draw(true), label: region.label, name: region.name, world: region.kind === 'world' }
+})
+
+/**
+ * The view marked on the inset: the whole SVG's edge (the fitted map plus
+ * any band opened below it), inverted to places and projected into the
+ * inset. An outline, or a ring when that would be a speck.
+ */
+const locatorView = computed(() => {
+  const L = locator.value
+  const invert = geo.value?.projection.invert
+  if (!L || !invert) return null
+  const points: { x: number, y: number }[] = []
+  for (const p of frameRing(W.value, svgH.value)) {
+    const ll = invert([p.x, p.y])
+    const q = ll && L.projection(ll)
+    if (q && Number.isFinite(q[0]) && Number.isFinite(q[1])) points.push({ x: q[0], y: q[1] })
+  }
+  return locatorMark(points)
+})
+
+/** Clearance kept between the inset (or the scale bar) and anything drawn on the map. */
+const CLEARANCE = 4
+
+/** Boxes around a line from `a` to `b`, `half` pixels either side, every few pixels. */
+function lineBoxes(a: { x: number, y: number }, b: { x: number, y: number }, half: number): Box[] {
+  const out: Box[] = []
+  const n = Math.max(1, Math.ceil(Math.hypot(b.x - a.x, b.y - a.y) / 4))
+  for (let s = 0; s <= n; s++) {
+    const x = a.x + ((b.x - a.x) * s) / n
+    const y = a.y + ((b.y - a.y) * s) / n
+    out.push({ x0: x - half, y0: y - half, x1: x + half, y1: y + half })
+  }
+  return out
+}
+
+/**
+ * Everything the inset and the scale bar must never cover, in the map's
+ * pixels: each pin with its ring, its label's box, the leader line and dot
+ * of a nudged pin, every route leg with its halo and arrows, and the box
+ * of every radius circle. Country names are not here: they step around
+ * the inset instead.
+ */
+const obstacles = computed<Box[]>(() => {
+  const out: Box[] = []
+  const r = PIN_R + 2.5
+  for (const p of drawn.value) {
+    out.push({ x0: p.x - r, y0: p.y - r, x1: p.x + r, y1: p.y + r })
+    if (p.moved) {
+      out.push({ x0: p.x0 - 3.5, y0: p.y0 - 3.5, x1: p.x0 + 3.5, y1: p.y0 + 3.5 })
+      out.push(...lineBoxes({ x: p.x0, y: p.y0 }, p, 1))
+    }
+    const label = model.value.pins[p.i]!.label
+    const side = labelSides.value.get(p.i)
+    if (label && side) out.push(labelBox({ x: p.x, y: p.y, width: labelWidth(label) }, side, PIN_R + 2, 14))
+  }
+  for (const route of drawnRoutes.value) {
+    for (let k = 1; k < route.points.length; k++) out.push(...lineBoxes(route.points[k - 1]!, route.points[k]!, 2.5))
+    for (const a of route.arrows) out.push({ x0: a.x - 6, y0: a.y - 6, x1: a.x + 6, y1: a.y + 6 })
+  }
+  for (const c of circles.value) out.push(c.box)
+  return out
+})
+
+/**
+ * Where the inset and the scale bar go (`layoutInset`): the inset right
+ * above the scale bar if that's clear of everything, else another clear
+ * corner, else the map grows a band at the bottom for both. Neither ever
+ * covers a pin, a label or a line. Computed with no inset too, so the
+ * scale bar alone keeps the same guarantee.
+ */
+const insetLayout = computed(() => {
+  const L = locator.value
+  const s = scaleBar.value
+  // 8.5px spaced capitals run about 6.3px a character.
+  const inset = L ? { w: Math.max(L.w, Math.ceil(L.label.length * 6.3)), h: L.h + (L.label ? INSET_LABEL_H : 0) } : null
+  // The scale text (10.5px mono) runs about 6.5px a character.
+  const scale = s ? { w: Math.max(s.px, s.label.length * 6.5), h: SCALE_H + 3 } : null
+  return layoutInset({
+    width: W.value,
+    height: H.value,
+    pad: PAD,
+    inset,
+    scale,
+    scaleBottom: PAD - 3,
+    gap: 4,
+    obstacles: obstacles.value,
+    margin: CLEARANCE,
+  })
+})
+
+const insetBox = computed(() => (locator.value ? insetLayout.value.inset : null))
+
+/** The SVG's full height: the fitted map, plus any band opened for the inset and scale bar. */
+const svgH = computed(() => H.value + insetLayout.value.extra)
+
 /* -- text ------------------------------------------------------------------ */
 
 const kicker = computed(() => props.label.trim() || 'Map')
@@ -352,7 +613,11 @@ const summary = computed(() => {
   const list = shown.map(p => `${p.n}, ${p.name}`).join('; ')
   const where = frame.value?.kind === 'world' ? 'World map' : 'Map'
   const routes = model.value.routes.length
-  return `${where} with ${shown.length} numbered ${shown.length === 1 ? 'place' : 'places'}${routes ? ` and ${routes} ${routes === 1 ? 'route' : 'routes'}` : ''}: ${list}. The same places are listed below.`
+  const L = locator.value
+  const within = insetBox.value && L
+    ? ` An inset marks the area shown ${L.world ? 'on a map of the world' : `within ${L.name}`}.`
+    : ''
+  return `${where} with ${shown.length} numbered ${shown.length === 1 ? 'place' : 'places'}${routes ? ` and ${routes} ${routes === 1 ? 'route' : 'routes'}` : ''}: ${list}.${within} The same places are listed below.`
 })
 
 function routeText(stops: number[]): string {
@@ -415,12 +680,12 @@ function openPin(i: number) {
         class="ufo-map-svg"
         :class="{ 'is-loading': !land && !outlineFailed }"
         :width="W"
-        :height="H"
-        :viewBox="`0 0 ${W} ${H}`"
+        :height="svgH"
+        :viewBox="`0 0 ${W} ${svgH}`"
         role="img"
         :aria-label="summary"
       >
-        <rect class="ufo-map-water" x="0" y="0" :width="W" :height="H" />
+        <rect class="ufo-map-water" x="0" y="0" :width="W" :height="svgH" />
         <g v-if="land" class="ufo-map-land">
           <path v-for="(d, k) in land.countries" :key="`c${k}`" class="ufo-map-country" :d="d" />
           <path v-for="(d, k) in land.lakes" :key="`w${k}`" class="ufo-map-lake" :d="d" />
@@ -463,6 +728,27 @@ function openPin(i: number) {
           </g>
         </g>
 
+        <g
+          v-if="locator && insetBox"
+          class="ufo-map-locator"
+          aria-hidden="true"
+          :transform="`translate(${insetBox.x0.toFixed(1)} ${insetBox.y0.toFixed(1)})`"
+        >
+          <text v-if="locator.label" class="ufo-map-locator-label" x="1" :y="INSET_LABEL_H - 4">{{ locator.label.toUpperCase() }}</text>
+          <g :transform="locator.label ? `translate(0 ${INSET_LABEL_H})` : undefined">
+            <rect class="ufo-map-locator-halo" x="-2" y="-2" :width="locator.w + 4" :height="locator.h + 4" rx="5" />
+            <rect class="ufo-map-locator-water" :width="locator.w" :height="locator.h" rx="3.5" />
+            <path class="ufo-map-locator-land" :d="locator.land" />
+            <path v-if="locator.lakes" class="ufo-map-locator-lake" :d="locator.lakes" />
+            <path v-if="locatorView?.kind === 'area'" class="ufo-map-locator-view" :d="locatorView.d" />
+            <g v-else-if="locatorView" :transform="`translate(${locatorView.x.toFixed(1)} ${locatorView.y.toFixed(1)})`">
+              <circle class="ufo-map-locator-ring" r="5" />
+              <circle class="ufo-map-locator-dot" r="1.75" />
+            </g>
+            <rect class="ufo-map-locator-frame" :width="locator.w" :height="locator.h" rx="3.5" />
+          </g>
+        </g>
+
         <g class="ufo-map-pins">
           <g v-for="p in drawn" :key="`l${p.i}`">
             <template v-if="p.moved">
@@ -499,7 +785,7 @@ function openPin(i: number) {
           </g>
         </g>
 
-        <g v-if="scaleBar" class="ufo-map-scale" :transform="`translate(${PAD} ${H - PAD})`">
+        <g v-if="scaleBar && insetLayout.scale" class="ufo-map-scale" :transform="`translate(${PAD} ${(insetLayout.scale.y1 - 3).toFixed(1)})`">
           <path class="ufo-map-scale-halo" :d="`M0,-5 V0 H${scaleBar.px.toFixed(1)} V-5`" />
           <path class="ufo-map-scale-bar" :d="`M0,-5 V0 H${scaleBar.px.toFixed(1)} V-5`" />
           <text class="ufo-map-scale-text" x="0" y="-9">{{ scaleBar.label }}</text>
@@ -752,6 +1038,61 @@ function openPin(i: number) {
   fill: var(--map-ink);
   font-family: var(--font-mono);
   font-size: 10.5px;
+  stroke: var(--map-water);
+  stroke-width: 3px;
+  stroke-linejoin: round;
+  paint-order: stroke;
+}
+
+/* -- locator inset --------------------------------------------------------- */
+
+/* A thumbnail of the whole country or continent, framed off the map by a
+   halo in the water colour and a hairline border, with the view marked in
+   the route colour. Quieter than anything on the map itself. */
+.ufo-map-locator {
+  pointer-events: none;
+}
+.ufo-map-locator-halo {
+  fill: var(--map-water);
+  opacity: 0.9;
+}
+.ufo-map-locator-water {
+  fill: var(--map-water);
+}
+.ufo-map-locator-land {
+  fill: hsl(var(--muted-foreground) / 0.28);
+  stroke: hsl(var(--muted-foreground) / 0.5);
+  stroke-width: 0.4;
+  stroke-linejoin: round;
+}
+.ufo-map-locator-lake {
+  fill: var(--map-water);
+}
+.ufo-map-locator-frame {
+  fill: none;
+  stroke: hsl(var(--muted-foreground) / 0.6);
+  stroke-width: 1;
+}
+.ufo-map-locator-view {
+  fill: hsl(var(--primary) / 0.22);
+  stroke: var(--map-route);
+  stroke-width: 1.25;
+  stroke-linejoin: round;
+}
+.ufo-map-locator-ring {
+  fill: hsl(var(--primary) / 0.22);
+  stroke: var(--map-route);
+  stroke-width: 1.5;
+}
+.ufo-map-locator-dot {
+  fill: var(--map-route);
+}
+.ufo-map-locator-label {
+  fill: hsl(var(--muted-foreground));
+  font-family: var(--font-mono);
+  font-size: 8.5px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
   stroke: var(--map-water);
   stroke-width: 3px;
   stroke-linejoin: round;
