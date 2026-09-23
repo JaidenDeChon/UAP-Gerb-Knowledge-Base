@@ -11,9 +11,15 @@ OICI's mission is to protect the vast scientific and technical knowledge residen
 
 ## Alleged Role in UAP Legacy Programs
 
-Within UAP research, OICI is identified as the specific DOE entity alleged to directly run UAP legacy program operations at [[Federally Funded Research and Development Centers (FFRDCs)]] within the [[Nuclear Security Enterprise (NSE)]]. This claim holds that OICI's intelligence mandate and its deep operational presence within DOE national laboratories — combined with the DOE's unique classification authority under the [[Atomic Energy Act of 1954]] — makes it the natural vehicle for managing highly compartmented, non-standard programs that transcend normal intelligence community structures.
+Within UAP research, OICI is identified as the specific DOE entity alleged to directly run UAP legacy program operations at [[Federally Funded Research and Development Center (FFRDC)|Federally Funded Research and Development Centers (FFRDCs)]] within the [[Nuclear Security Enterprise (NSE)]]. This claim holds that OICI's intelligence mandate and its deep operational presence within DOE national laboratories — combined with the DOE's unique classification authority under the [[Atomic Energy Act of 1954]] — makes it the natural vehicle for managing highly compartmented, non-standard programs that transcend normal intelligence community structures.
 
 [[Oak Ridge National Laboratory]] is specifically named as a DOE FFRDC where OICI is alleged to run UAP legacy program operations. [[Sandia National Laboratories]] is similarly cited. The institutional logic offered is that OICI's embeddedness within DOE labs gives it the ability to manage compartmented programs under "Restricted Data" classification — a legal category established by the Atomic Energy Act that places covered materials beyond presidential Executive Order authority and outside FOIA reach. This would make OICI-managed programs significantly harder to access or audit than comparable programs run by the Department of Defense or the CIA.
+
+### Classification Mechanisms and the Oak Ridge Claim
+
+UAP Gerb, who calls the office "DOE Int", makes its existence the one takeaway of his Sandia investigation: "the Department of Energy has its own intelligence agency." He notes that OICI supports all 17 DOE national laboratories and offices, including the three NNSA laboratories, and that the NNSA conducts some intelligence activities on its behalf. OICI manages foreign intelligence information (FII), which can carry caveats such as WNINTEL, ORCON and NOCONTRACT, the last barring release to contractors and consultants. The host asks whether NOCONTRACT material may still be released to government-owned FFRDCs such as Sandia, which would make it a channel for passing recovered material, and even bodies, to the laboratories while keeping it from contractors.
+
+The Oak Ridge claim comes from sources the host describes as intimately involved with the laboratory. They say two recovered non-human discs are held in a top secret facility beneath the [[Y-12 Complex]], that one program there studies the "skin" of UFOs, possibly involving Battelle and MITRE, and that OICI is the program manager. The host stresses that he cannot yet support this and that the source is still being vetted.
 
 ## Sources
 

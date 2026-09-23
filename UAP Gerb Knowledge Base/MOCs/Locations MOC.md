@@ -13,6 +13,7 @@ tags:
 - [[Albuquerque, New Mexico]]
 - [[Antelope Valley]]
 - [[Area 51]]
+- [[Area 6 (Nevada Test Site)]]
 - [[Ascension Island]]
 - [[Atlanta, Georgia]]
 - [[Aurora, Texas]]
