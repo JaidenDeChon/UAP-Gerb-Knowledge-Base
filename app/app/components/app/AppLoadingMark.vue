@@ -19,7 +19,6 @@
  */
 
 const root = ref<HTMLElement | null>(null)
-const revealing = useContentReveal()
 
 /** How long the blur-out runs. Matches `ufo-mark-out` below. */
 const LEAVE_MS = 460
@@ -74,16 +73,7 @@ function revealContent(): void {
   veil.className = 'ufo-reveal-veil'
   veil.setAttribute('aria-hidden', 'true')
   document.body.appendChild(veil)
-  // Set before the new content mounts (this runs in the old content's
-  // beforeUnmount), so decoration that waits on it never starts early.
-  revealing.value = true
-  let finished = false
-  const done = () => {
-    if (finished) return
-    finished = true
-    veil.remove()
-    revealing.value = false
-  }
+  const done = () => veil.remove()
   veil.addEventListener('animationend', done)
   setTimeout(done, 1000)
 }

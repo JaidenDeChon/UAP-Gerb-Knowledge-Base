@@ -4,6 +4,7 @@ import { ChevronRight, ExternalLink, FileText, Play } from '@lucide/vue'
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 import { formatClock } from '@/utils/timeline'
+import { youtubeThumbnail } from '@/utils/video'
 
 /**
  * Title card for a video summary page. Rendered by `pages/wiki/[...slug].vue`
@@ -12,14 +13,14 @@ import { formatClock } from '@/utils/timeline'
  * authoring. It spans `<main>`'s full width; its text column lines up with
  * the article measure below it (`wrapperClass`).
  *
- * Layers, back to front: the page background; a live field of connected
- * nodes (`WikiNodeField`, the knowledge-graph motif animated, in the theme's
- * own tokens); a scrim that fades the field out along the bottom edge; HUD
- * frame corners; the content, on a page-colour panel that hangs off the text
- * column itself so the title and lead never sit on the pattern whichever
- * layout the page is in. No thumbnail: the channel's thumbnails carry their
- * own large text, which fought the title the moment a reader tried to read
- * either.
+ * Layers, back to front: the page background; the video's thumbnail, set
+ * to the right of the text on desktop and as a band above it on phones,
+ * fading into the page on every side that meets content; a scrim that fades
+ * it out along the bottom edge; HUD frame corners; the content, on a
+ * page-colour panel that hangs off the text column itself, so the title and
+ * lead never sit on the picture whichever layout the page is in. That panel
+ * matters: the channel's thumbnails carry their own large text, which would
+ * fight the title if the two ever overlapped.
  */
 const props = withDefaults(
   defineProps<{
@@ -61,23 +62,17 @@ const runtime = computed(() => {
 /** Long titles (the vault has 70-character ones) step the display size down a notch. */
 const longTitle = computed(() => props.title.length > 48)
 
-// The node field waits for the page's unblur transition (if one is running)
-// to finish before it's even created, then fades in. It's a canvas with its
-// own animation loop; starting it mid-transition would pop it in and take
-// frames from the transition.
-const revealing = useContentReveal()
-const showField = ref(false)
-onMounted(() => {
-  if (!revealing.value) {
-    showField.value = true
-    return
-  }
-  const stop = watch(revealing, (busy) => {
-    if (busy) return
-    showField.value = true
-    stop()
-  })
-})
+// The widest thumbnail first; older uploads have no `maxres`, so fall back to
+// `hq` (letterboxed, but the cover crop cuts the bars off), and drop the
+// picture entirely if even that fails. It fades in once it has loaded.
+const thumbSize = ref<'maxres' | 'hq' | null>('maxres')
+const thumb = computed(() =>
+  videoId.value && thumbSize.value ? youtubeThumbnail(videoId.value, thumbSize.value) : null)
+const thumbLoaded = ref(false)
+function onThumbError(): void {
+  thumbLoaded.value = false
+  thumbSize.value = thumbSize.value === 'maxres' ? 'hq' : null
+}
 
 function play(): void {
   if (!videoId.value) return
@@ -87,10 +82,19 @@ function play(): void {
 
 <template>
   <section class="ufo-hero" aria-labelledby="page-title">
-    <!-- The field: the app's graph motif, alive. Scrims in the page colour
-         keep the text column readable and fade the field into the page. -->
+    <!-- The thumbnail. Scrims in the page colour keep the text column
+         readable and fade the picture into the page. -->
     <div class="ufo-hero-stage" aria-hidden="true">
-      <WikiNodeField v-if="showField" class="ufo-hero-field" />
+      <img
+        v-if="thumb"
+        :src="thumb"
+        alt=""
+        decoding="async"
+        class="ufo-hero-thumb"
+        :class="{ 'is-loaded': thumbLoaded }"
+        @load="thumbLoaded = true"
+        @error="onThumbError"
+      >
       <div class="ufo-hero-scrim ufo-hero-scrim--y" />
     </div>
 
@@ -172,11 +176,56 @@ function play(): void {
   background: hsl(var(--background));
 }
 
-/* -- the stage: the node field plus the bottom scrim -- */
+/* -- the stage: the thumbnail plus the bottom scrim -- */
 .ufo-hero-stage {
   position: absolute;
   inset: 0;
   pointer-events: none;
+}
+/* The thumbnail sits to the right, where the text panel opens up. Solid over
+   its right 40%, its left 60% eases out (the "scrim" curve: slow at both
+   ends, so no visible line) into the panel's own fade, and the bottom scrim
+   takes it into the page. `to left` measures from the right edge, so the
+   stops run 40% → 100% toward the image's left edge. */
+.ufo-hero-thumb {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: min(68%, 980px);
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  opacity: 0;
+  transition: opacity 700ms var(--ease-standard);
+  --ufo-hero-thumb-fade: linear-gradient(
+    to left,
+    rgb(0 0 0 / 1) 40.0%,
+    rgb(0 0 0 / 0.987) 44.9%,
+    rgb(0 0 0 / 0.951) 49.3%,
+    rgb(0 0 0 / 0.896) 53.5%,
+    rgb(0 0 0 / 0.825) 57.4%,
+    rgb(0 0 0 / 0.741) 61.2%,
+    rgb(0 0 0 / 0.648) 64.7%,
+    rgb(0 0 0 / 0.55) 68.3%,
+    rgb(0 0 0 / 0.45) 71.7%,
+    rgb(0 0 0 / 0.352) 75.3%,
+    rgb(0 0 0 / 0.259) 78.8%,
+    rgb(0 0 0 / 0.175) 82.6%,
+    rgb(0 0 0 / 0.104) 86.5%,
+    rgb(0 0 0 / 0.049) 90.7%,
+    rgb(0 0 0 / 0.013) 95.1%,
+    rgb(0 0 0 / 0) 100.0%
+  );
+  -webkit-mask-image: var(--ufo-hero-thumb-fade);
+  mask-image: var(--ufo-hero-thumb-fade);
+}
+.ufo-hero-thumb.is-loaded {
+  opacity: 1;
+}
+@media (prefers-reduced-motion: reduce) {
+  .ufo-hero-thumb {
+    transition: none;
+  }
 }
 .ufo-hero-scrim {
   position: absolute;
@@ -275,6 +324,14 @@ function play(): void {
   .ufo-hero-content::before {
     display: none;
   }
+  /* The thumbnail becomes a band above the text: full width, cropped to
+     its middle, fading out through the scrim below. */
+  .ufo-hero-thumb {
+    width: 100%;
+    height: 184px;
+    -webkit-mask-image: none;
+    mask-image: none;
+  }
   /* Full page colour by 184px; the breadcrumb, the smallest text in the
      hero, starts at 188px so nothing is set on the fade. */
   .ufo-hero-scrim--y {
@@ -294,18 +351,4 @@ function play(): void {
   color: hsl(var(--foreground));
 }
 
-
-/* The node field fades in once it's created (see showField). */
-.ufo-hero-field {
-  animation: ufo-hero-field-in 900ms var(--ease-standard) both;
-}
-@keyframes ufo-hero-field-in {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-@media (prefers-reduced-motion: reduce) {
-  .ufo-hero-field {
-    animation: none;
-  }
-}
 </style>
