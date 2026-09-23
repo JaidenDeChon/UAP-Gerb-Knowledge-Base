@@ -42,7 +42,7 @@ Sarbacher's use of quotation marks around the word "aliens" is noted by research
 
 In the same year, legendary UFO researcher [[Stanton Friedman]] tracked down Sarbacher after learning of the Wilbert Smith memo. In their recorded conversation, Sarbacher repeated the insectoid occupant description: "One of the fellows said to me that those guys — if they were people — were made like insects. They didn't have any skin on their bodies. So they were saying that's how they were able to accelerate and decelerate without being torn apart." He placed the meeting he was referencing at [[Wright Field]] and indicated a crash had occurred out west, consistent with the 1947 Roswell crash timeline. When Friedman pressed on whether the crash occurred in 1947, Sarbacher responded "very likely."
 
-Sarbacher also identified another attendee of the Wright Field meeting whom he disliked — described as someone from Philadelphia who attended all the meetings and "acted very smug about it." This was later identified as Dr. [[Eric Walker|Eric A. Walker]].
+Sarbacher also identified another attendee of the Wright Field meeting whom he disliked — described as someone from Philadelphia who attended all the meetings and "acted very smug about it." This was later identified as Dr. [[Eric A. Walker|Eric A. Walker]].
 
 ## Connection to the V-2 Rocket Program and Project Twinkle
 
@@ -50,7 +50,7 @@ Sarbacher's son's account of camera-equipped missiles for UAP tracking is partia
 
 ## Significance
 
-Sarbacher's testimony is considered among the most credible early government insider accounts for several reasons: he was a verifiable, credentialed figure with documented access to the Research and Development Board; his disclosures were made privately (to Smith in 1950) before UFO research had become a public phenomenon, reducing the incentive for fabrication; and his descriptions of recovered materials and insectoid occupants independently parallel other accounts from separate sources. His confirmation of [[Vannevar Bush]]'s leadership of the small UFO study group is corroborated by the [[Majestic 12 Documents]], which name Bush as a member of the team tasked by President Truman to investigate crashed UAP.
+Sarbacher's testimony is considered among the most credible early government insider accounts for several reasons: he was a verifiable, credentialed figure with documented access to the Research and Development Board; his disclosures were made privately (to Smith in 1950) before UFO research had become a public phenomenon, reducing the incentive for fabrication; and his descriptions of recovered materials and insectoid occupants independently parallel other accounts from separate sources. His confirmation of [[Vannevar Bush]]'s leadership of the small UFO study group is corroborated by the [[MJ-12 Documents]], which name Bush as a member of the team tasked by President Truman to investigate crashed UAP.
 
 ## Sources
 

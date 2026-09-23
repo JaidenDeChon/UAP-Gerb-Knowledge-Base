@@ -150,5 +150,22 @@
       "wiki-roster"
     ],
     "cues": "verified"
+  },
+  "QJxbyu-9Tj0": {
+    "title": "The 1948 Aztec, New Mexico UFO Crash Retrieval",
+    "published": "2025-07-19",
+    "enriched_at": "2026-09-23T10:12:37Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-org-chart",
+      "wiki-roster",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-callout",
+      "wiki-cue",
+      "wiki-watch"
+    ],
+    "cues": "verified"
   }
 }

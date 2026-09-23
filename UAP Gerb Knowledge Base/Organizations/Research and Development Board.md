@@ -26,7 +26,7 @@ Sarbacher's testimony placed the R&D Board at the center of the US government's 
 
 ## Connection to the Wright Field Meeting
 
-The alleged [[Wright Field Crash Retrieval Meeting]] of 1949–1950—attended by [[Eric Walker]] and referenced by Sarbacher—is believed to have been organized under the auspices of the R&D Board or its closely related entity, the [[Defense Research Board]]. The meeting brought together the nation's top scientists to discuss recovered UAP materials, occupants, and reverse engineering strategies.
+The alleged [[Wright Field Crash Retrieval Meeting]] of 1949–1950—attended by [[Eric A. Walker]] and referenced by Sarbacher—is believed to have been organized under the auspices of the R&D Board or its closely related entity, the [[Defense Research Board]]. The meeting brought together the nation's top scientists to discuss recovered UAP materials, occupants, and reverse engineering strategies.
 
 Sarbacher's account suggests that the R&D Board's UAP work was compartmentalized even within the board itself, with only a small subset of members—those with a need to know—granted access to the crash retrieval program. This compartmentalization would explain why the program remained secret for decades despite the board's relatively large membership.
 
@@ -34,7 +34,7 @@ Sarbacher's account suggests that the R&D Board's UAP work was compartmentalized
 
 The origin of the [[Majestic 12]] documents can be traced conceptually to the R&D Board's structure. The joint Research and Development Board established in 1941 (a precursor organization) consisted of 12 members. The [[MJ-12 Documents]], which describe a secret committee tasked by President Truman with managing UAP crash retrievals, name [[Vannevar Bush]] as a member—consistent with Sarbacher's testimony that Bush headed the small group studying flying saucers within the R&D Board.
 
-While many of the MJ-12 documents are considered forgeries, the structural and personnel overlap between the alleged MJ-12 group and the R&D Board—combined with Sarbacher's and [[Eric Walker]]'s independent confirmations of Bush's involvement—suggests that the R&D Board (or a compartmented subset of it) may have served as the real-world basis for the MJ-12 narrative.
+While many of the MJ-12 documents are considered forgeries, the structural and personnel overlap between the alleged MJ-12 group and the R&D Board—combined with Sarbacher's and [[Eric A. Walker]]'s independent confirmations of Bush's involvement—suggests that the R&D Board (or a compartmented subset of it) may have served as the real-world basis for the MJ-12 narrative.
 
 ## Participants and Members
 
@@ -42,7 +42,7 @@ Known members or consultants to the R&D Board with alleged connections to UAP pr
 
 - **[[Vannevar Bush]]** — Chairman; named by Sarbacher as heading the UAP study group.
 - **[[Robert Sarbacher]]** — Consultant; confirmed his knowledge of the program in 1950 and 1983.
-- **[[Eric Walker]]** — Executive Secretary of the related Defense Research Board (1950–1951); confirmed attending UAP-related meetings.
+- **[[Eric A. Walker]]** — Executive Secretary of the related Defense Research Board (1950–1951); confirmed attending UAP-related meetings.
 - **[[John Von Neumann]]** — Consultant; named by Sarbacher as involved in UAP analysis.
 - **[[J. Robert Oppenheimer]]** — Consultant; named by Sarbacher as involved in UAP analysis.
 

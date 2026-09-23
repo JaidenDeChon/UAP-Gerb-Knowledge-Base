@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Stanton Terry Friedman was an American nuclear physicist and professional UFO researcher widely regarded as one of the most rigorous and productive investigators in the history of the field. A graduate of the University of Chicago, Friedman worked as a nuclear physicist for major defense contractors including General Electric, General Motors, TRW Systems, Aerojet General Nucleonics, McDonnell Douglas, and Westinghouse before devoting himself full-time to UFO research. He is credited with initiating the modern public investigation of the Roswell Incident, tracking down the living witnesses, and with first bringing the [[Majestic 12 Documents]] to public attention in the early 1980s.
+Stanton Terry Friedman was an American nuclear physicist and professional UFO researcher widely regarded as one of the most rigorous and productive investigators in the history of the field. A graduate of the University of Chicago, Friedman worked as a nuclear physicist for major defense contractors including General Electric, General Motors, TRW Systems, Aerojet General Nucleonics, McDonnell Douglas, and Westinghouse before devoting himself full-time to UFO research. He is credited with initiating the modern public investigation of the Roswell Incident, tracking down the living witnesses, and with first bringing the [[MJ-12 Documents]] to public attention in the early 1980s.
 
 ## UFO Research Career
 
@@ -15,7 +15,7 @@ Friedman began public UFO lectures in 1967 and spent decades conducting primary-
 
 In the early 1980s, Friedman learned of a set of documents alleging the existence of a secret government group designated Majestic 12 (MJ-12), tasked by President Truman with overseeing the investigation and management of recovered UAP craft and non-human materials. Friedman's public release and promotion of these documents generated significant controversy in both the UFO research community and mainstream media. While many researchers and government officials have characterized the MJ-12 documents as forgeries — and some specific documents within the set are widely believed to be fabricated — Friedman maintained that the core documents may contain genuine information or may have been derived from authentic material.
 
-It was Friedman's release of the MJ-12 documents that prompted [[William Steinman]] to contact [[Robert Sarbacher]] in 1983, and simultaneously prompted [[Eric Walker]] to respond to Steinman's inquiries by confirming he had known about MJ-12 for forty years.
+It was Friedman's release of the MJ-12 documents that prompted [[William Steinman]] to contact [[Robert Sarbacher]] in 1983, and simultaneously prompted [[Eric A. Walker]] to respond to Steinman's inquiries by confirming he had known about MJ-12 for forty years.
 
 ## The Sarbacher Conversation (1983)
 

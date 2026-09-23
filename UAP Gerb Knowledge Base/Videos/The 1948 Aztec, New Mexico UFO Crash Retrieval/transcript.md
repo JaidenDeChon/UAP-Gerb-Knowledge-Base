@@ -2,8 +2,8 @@
 title: "Transcript - The 1948 Aztec, New Mexico UFO Crash Retrieval"
 video_id: QJxbyu-9Tj0
 url: https://www.youtube.com/watch?v=QJxbyu-9Tj0
-date: NA
-duration_seconds: 0
+date: 2025-07-19
+duration_seconds: 8833
 channel: UAP Gerb
 tags:
   - transcript

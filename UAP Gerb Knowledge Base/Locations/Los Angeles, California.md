@@ -5,7 +5,7 @@ tags:
   - location
 ---
 
-Los Angeles is the largest city in California and the second-most populous city in the United States. In UAP research and in this wiki, Los Angeles appears in two distinct contexts: as the site of the 1942 [[Battle of Los Angeles]] — one of the earliest wartime UAP-adjacent incidents on U.S. soil — and as a secondary location in the narrative surrounding [[Silas Newton]]'s 1953 fraud prosecution connected to the [[1948 Aztec UFO Crash Retrieval]].
+Los Angeles is the largest city in California and the second-most populous city in the United States. In UAP research and in this wiki, Los Angeles appears in two distinct contexts: as the site of the 1942 [[Battle of Los Angeles]] — one of the earliest wartime UAP-adjacent incidents on U.S. soil — and as a secondary location in the narrative surrounding [[Silas Newton]]'s 1953 fraud prosecution connected to the [[Aztec UFO Crash and Recovery]].
 
 ## The Battle of Los Angeles (1942)
 
@@ -15,9 +15,9 @@ A photograph published in the *Los Angeles Times* on February 26, 1942 appeared 
 
 ## Newton's Arrest and the Aztec Case
 
-Los Angeles also features in the documentary trail of the [[1948 Aztec UFO Crash Retrieval]] case as the location where oilman [[Silas Newton]] was arrested in October 1952, and where alleged fraud victim [[Herman Flater]] deposited checks in transactions connected to the doodlebug oil-detecting device. Newton and his associate [[Leo Gabau]] were prosecuted for fraud following a campaign by *San Francisco Chronicle* journalist [[JP Khan]], whose 1952 exposé effectively labeled the Aztec story a hoax by discrediting Newton and Gabau.
+Los Angeles also features in the documentary trail of the [[Aztec UFO Crash and Recovery]] case as the location where oilman [[Silas Newton]] was arrested in October 1952, and where alleged fraud victim [[Herman Flader]] deposited checks in transactions connected to the doodlebug oil-detecting device. Newton and his associate [[Leo GeBauer]] were prosecuted for fraud following a campaign by *San Francisco Chronicle* journalist [[J. P. Cahn]], whose 1952 exposé effectively labeled the Aztec story a hoax by discrediting Newton and GeBauer.
 
-UAP Gerb's analysis, presented in [[Video - The 1948 Aztec, New Mexico UFO Crash Retrieval]], argues that Newton's prosecution was not a straightforward fraud case but potentially targeted retaliation for Newton's role in disseminating information about the Aztec crash. The arrest in Los Angeles is one node in a broader pattern of federal pursuit that UAP Gerb examines critically — noting, for instance, that the FBI could not find a single federal judge in Arizona, Colorado, New Mexico, or Utah willing to entertain a federal criminal case, and that 32 of Newton's 33 investors remained satisfied with their investments, with Flater representing the sole complainant.
+UAP Gerb's analysis, presented in [[Video - The 1948 Aztec, New Mexico UFO Crash Retrieval]], argues that Newton's prosecution was not a straightforward fraud case but potentially targeted retaliation for Newton's role in disseminating information about the Aztec crash. The arrest in Los Angeles is one node in a broader pattern of federal pursuit that UAP Gerb examines critically — noting, for instance, that the FBI could not find a single federal judge in Arizona, Colorado, New Mexico, or Utah willing to entertain a federal criminal case, and that 32 of Newton's 33 investors remained satisfied with their investments, with Flader representing the sole complainant.
 
 ## Sources
 

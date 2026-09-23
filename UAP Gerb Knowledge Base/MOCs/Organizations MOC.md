@@ -62,6 +62,7 @@ tags:
 - [[Finnish Air Force]]
 - [[Finnish Defense Force]]
 - [[Galactic Federation]]
+- [[Geophysical Service Inc. (GSI)]]
 - [[Goddard Space Flight Center]]
 - [[Heaven's Gate]]
 - [[Holocron Engineering]]

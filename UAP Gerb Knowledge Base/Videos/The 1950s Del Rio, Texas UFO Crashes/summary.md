@@ -85,6 +85,6 @@ The Sandia connection yields the most intriguing downstream thread. In 1949, Pre
 - **People**: [[Robert Willingham]], [[Eric Davis]], [[Noah Torres]], [[Ruben Uriarte]], [[Jeff Rense]], [[Steven Greer]], [[George Knapp]], [[Jack Perkins]], [[William Drager]], [[Todd Zechel]], [[Dennis Stacy]], [[Kevin Randle]], [[George Smithson]]
 - **Organizations**: [[Majestic 12]], [[Sandia National Laboratories]], [[Battelle Memorial Institute]], [[Lockheed Martin]], [[AT&T]], [[Atomic Energy Commission]], [[NICAP]], [[US Air Force]]
 - **Locations**: [[Del Rio, Texas]], [[Langtry, Texas]], [[El Indio, Texas]], [[Guerrero, Mexico]], [[Carswell Air Force Base]], [[Kirtland Air Force Base]]
-- **Concepts**: [[Crash Retrieval]], [[Non-Human Intelligence (NHI)]], [[UAP Material Analysis]], [[Wilson-Davis Memo]], [[Condon Report]], [[DEW Radar Systems]], [[Guy Hottel Memo]]
+- **Concepts**: [[Crash Retrieval]], [[Non-Human Intelligence (NHI)]], [[UAP Material Analysis]], [[Wilson-Davis Memo]], [[Condon Report]], [[DEW Radar Systems]], [[Hottel Memo]]
 - **Events**: [[1950 El Indio UFO Crash]], [[1955 Langtry UFO Crash]]
 - **Operations**: [[Project Moondust]]

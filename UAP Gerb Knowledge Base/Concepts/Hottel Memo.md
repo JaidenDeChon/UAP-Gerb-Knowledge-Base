@@ -24,7 +24,7 @@ The information in the Hottel Memo originated with an Air Force investigator, be
 
 ## Historical Context
 
-The memo was written in March 1950, approximately three years after the July 1947 Roswell crash and two years after the alleged 1948 [[Aztec, New Mexico Crash]]. Its timing places it in the midst of heightened US government interest in UFOs, during the period when [[Project Grudge]] (the Air Force's second official UFO investigation) was active and when [[Wilbert B. Smith]] was meeting with [[Robert Sarbacher]] in Washington to discuss the classification level of flying saucer programs.
+The memo was written in March 1950, approximately three years after the July 1947 Roswell crash and two years after the alleged 1948 [[Aztec UFO Crash and Recovery]]. Its timing places it in the midst of heightened US government interest in UFOs, during the period when [[Project Grudge]] (the Air Force's second official UFO investigation) was active and when [[Wilbert B. Smith]] was meeting with [[Robert Sarbacher]] in Washington to discuss the classification level of flying saucer programs.
 
 The reference to three recovered saucers has led to speculation about whether the memo describes:
 
@@ -32,9 +32,17 @@ The reference to three recovered saucers has led to speculation about whether th
 - The Aztec crash and related contemporaneous events.
 - A fabricated or conflated account with no basis in actual recoveries.
 
+## Connection to the Aztec Case
+
+UAP Gerb's video on the [[Aztec UFO Crash and Recovery|1948 Aztec, New Mexico crash]] places the memo in the same weeks as the government's first reactions to [[Silas Newton]]'s 8 March 1950 University of Denver lecture on the Aztec story: [[Air Force Office of Special Investigations|AFOSI]]'s questioning of [[George Koehler]], who recorded the lecture, and a 31 March 1950 FBI letter naming Newton as "Mr. X." Until the memo was released in fuller form, many researchers assumed Newton was its ultimate source. The host notes that its saucers (three, about 50 feet across) do not match the 99.9-foot Aztec disc, but stresses its recurring claim that New Mexico radar interfered with the craft, a detail that runs through the Aztec accounts as well.
+
 ## Radar Interference Theory
 
 The memo's claim that high-powered radar caused the crashes by disrupting control mechanisms became a recurring theme in early UFO literature. [[Frank Scully]]'s 1950 book *Behind the Flying Saucers* advanced a similar theory, and [[Robert Sarbacher]] told [[Wilbert B. Smith]] that Scully's book was "fundamentally correct." The proximity of radar installations at [[White Sands Missile Range]], [[Holloman Air Force Base]], and other New Mexico sites lent surface plausibility to the theory, though no technical documentation confirming radar as a causal factor has been publicly released.
+
+## Later FBI Context
+
+In UAP Gerb's video on the [[1950s Del Rio, Texas UFO Crashes]], the memo is set beside a December 8, 1950 FBI memo to J. Edgar Hoover directing Army intelligence to a state of high alert for "flying disc" information, as part of a pattern of FBI attention to crash-retrieval reports in the early Cold War.
 
 ## Release and Public Impact
 
@@ -44,8 +52,10 @@ The FBI has publicly stated that the memo is a single piece of correspondence re
 
 ## Assessment
 
-The Hottel Memo is significant not because it provides proof of UFO recoveries, but because it documents that such claims reached the desk of the FBI Director in 1950 through official channels. Whether the information Guy Hottel transmitted was accurate, fabricated, or based on misidentification remains unresolved. The memo stands as evidence that UFO crash retrieval claims were circulating at the highest levels of US law enforcement during a period when multiple government insiders — including [[Robert Sarbacher]] and [[Eric Walker]] — later confirmed that such programs existed.
+The Hottel Memo is significant not because it provides proof of UFO recoveries, but because it documents that such claims reached the desk of the FBI Director in 1950 through official channels. Whether the information Guy Hottel transmitted was accurate, fabricated, or based on misidentification remains unresolved. The memo stands as evidence that UFO crash retrieval claims were circulating at the highest levels of US law enforcement during a period when multiple government insiders — including [[Robert Sarbacher]] and [[Eric A. Walker]] — later confirmed that such programs existed.
 
 ## Sources
 
 - [[Video - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group]]
+- [[Video - The 1950s Del Rio, Texas UFO Crashes]]
+- [[Video - The 1948 Aztec, New Mexico UFO Crash Retrieval]]

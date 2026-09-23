@@ -20,7 +20,7 @@ This video examines the testimony and significance of Dr. Robert Sarbacher, a sc
 - [[J. Edgar Hoover]] — Recipient of the Hottel memo regarding recovered craft and humanoid figures
 - [[Carl Howe]] — Claimed the discs were found in New Mexico due to high-powered radar interference
 - [[Robert Sarbacher]] — Central figure of the video; claimed UFO study within USG was classified higher than the H-bomb and had knowledge of crash retrievals
-- [[Eric Walker]] — In interviews with William Steinman, acknowledged knowing about MJ-12 documents for 40 years and made references to Don Quixote when discussing investigations
+- [[Eric A. Walker]] — In interviews with William Steinman, acknowledged knowing about MJ-12 documents for 40 years and made references to Don Quixote when discussing investigations
 - [[William Steinman]] — Interviewed Eric Walker and raised the topic of Majestic 12 documents
 - [[Stanton Friedman]] — Released the Majestic 12 documents in the early 1980s, sparking widespread interest
 - [[Wilbert B. Smith]] — Received confirmation from Sarbacher that UFO study was classified higher than the H-bomb; authored a memo in 1950
@@ -35,7 +35,7 @@ This video examines the testimony and significance of Dr. Robert Sarbacher, a sc
 - [[Hottel Memo]] — A 1950 FBI memo by agent Guy Hottel relaying claims of three recovered flying saucers in New Mexico occupied by 3-foot humanoid figures in metallic suits
 - [[Crash Retrieval]] — The alleged recovery of downed UAP craft by government or military entities, discussed in context of a 1949-1950 meeting at Wright Field
 - [[Reverse Engineering]] — The alleged effort to study and replicate recovered UAP technology; said to have been discussed at a meeting at Wright Field
-- [[Majestic 12 Documents]] — A set of documents alleging a secret government UFO group; many considered forgeries but some aspects may be legitimate
+- [[MJ-12 Documents]] — A set of documents alleging a secret government UFO group; many considered forgeries but some aspects may be legitimate
 - [[Radar Interference Theory]] — The hypothesis that high-powered radar caused UAP crashes by interfering with craft control mechanisms, as referenced in the Hottel memo
 - [[UAP Classification Level]] — Sarbacher's claim that UFO study within the US government was classified higher than the hydrogen bomb
 

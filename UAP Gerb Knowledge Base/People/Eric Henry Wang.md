@@ -17,7 +17,7 @@ In 1956, Wang's department was moved to [[Sandia National Laboratories|Sandia La
 
 ## Connection to Aztec and Kingman
 
-According to [[William Steinman]]'s 1986 book, Dr. Wang was called onto the [[1948 Aztec UFO Crash Retrieval]] project in November 1949 — over a year and a half after the craft's recovery — suggesting he was brought in for specialized analysis or reverse-engineering work.
+According to [[William Steinman]]'s 1986 book, Dr. Wang was called onto the [[Aztec UFO Crash and Recovery]] project in November 1949 — over a year and a half after the craft's recovery — suggesting he was brought in for specialized analysis or reverse-engineering work.
 
 Wang is also named by witness Arthur Stansel as the head of the reverse-engineering team for the [[1953 Kingman, Arizona UFO Crash]], where he allegedly led the Office of Special Studies' technical examination of a recovered craft. Kingman researcher speculation links Wang's involvement to Operation Upshot-Knothole, a nuclear test series believed to have caused the Kingman craft's crash.
 

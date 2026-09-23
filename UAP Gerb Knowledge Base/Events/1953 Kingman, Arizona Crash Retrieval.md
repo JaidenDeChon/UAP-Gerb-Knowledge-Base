@@ -27,7 +27,7 @@ In 1997, researcher [[Leonard Stringfield]] was approached at Lunken Airport in 
 
 The 80 Years timeline video connects this custody chain specifically to the [[Kona Blue]] prospective special access program: citing "credible rumors and indirect confirmation" from [[Hal Puthoff]], the presenter alleges that the Kona Blue material transfer or technology transfer agreement from Lockheed Martin consisted at least partly of Kingman wreckage — with the further speculation that there may actually have been three separate Kingman-area crashes. If accurate, this would place traceable custody of Kingman-derived material as late as the 2010s.
 
-Stansel's supervisor at [[Wright-Patterson Air Force Base]], Dr. [[Eric Henry Wang]], is independently alleged to have been a key UAP reverse-engineering director dating from the [[1948 Aztec UFO Crash Retrieval]] forward.
+Stansel's supervisor at [[Wright-Patterson Air Force Base]], Dr. [[Eric Henry Wang]], is independently alleged to have been a key UAP reverse-engineering director dating from the [[Aztec UFO Crash and Recovery]] forward.
 
 Three months after the Kingman crash, the USAF issued Regulation 200-2, diverting UFO reports to Air Force Intelligence rather than [[Project Blue Book]].
 

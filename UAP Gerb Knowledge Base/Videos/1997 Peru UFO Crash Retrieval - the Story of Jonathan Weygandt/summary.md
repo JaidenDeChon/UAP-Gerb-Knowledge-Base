@@ -162,7 +162,7 @@ This video presents a comprehensive investigative analysis of Jonathan Weygandt'
 - [[Crash Retrieval Operations]] — Military or government operations to recover downed UAP craft and any occupants or materials.
 - [[Honeycomb Skin Construction]] — Multi-layered honeycomb structural design observed in the bulkhead of a retrieved UAP, noted by Collins.
 - [[Metal of Unknown Composition]] — Materials allegedly retrieved from UAP crash sites and studied by engineers like Collins in an official capacity.
-- [[Majestic 12 Documents]] — Alleged classified government documents related to UAP research, significant drops of which were received by Tim Cooper in the 1980s.
+- [[MJ-12 Documents]] — Alleged classified government documents related to UAP research, significant drops of which were received by Tim Cooper in the 1980s.
 - [[Biological Isolation Protocol]] — Alleged practice of placing living UAP occupants into isolation after retrieval, as described in the HJ testimony.
 - [[NEST Team (Nuclear Emergency Support Team)]] — DOE team specialized in responding to nuclear or radiological incidents; theorized to have been deployed to the UAP recovery site with varying levels of MOP gear based on proximity to the craft
 - [[MOP Gear]] — Mission Oriented Protective Posture gear used for chemical/biological/radiological protection; varying protection levels were observed at the recovery site based on proximity to the craft

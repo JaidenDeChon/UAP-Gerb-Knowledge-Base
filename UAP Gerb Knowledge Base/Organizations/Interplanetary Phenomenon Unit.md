@@ -15,7 +15,7 @@ Subsequent FOIA requests by [[William Steinman]] (1984) and Timothy Good (1987) 
 
 ## Alleged Function
 
-According to [[William Steinman]]'s sources, the IPU operated out of Camp Hale, Colorado and served to "collect and deliver disabled or crashed discs to certain specific secret locations." Steinman's 1986 book claims the IPU was the on-site military team that secured the [[1948 Aztec UFO Crash Retrieval]] under the direction of General George C. Marshall.
+According to [[William Steinman]]'s sources, the IPU operated out of Camp Hale, Colorado and served to "collect and deliver disabled or crashed discs to certain specific secret locations." Steinman's 1986 book claims the IPU was the on-site military team that secured the [[Aztec UFO Crash and Recovery]] under the direction of General George C. Marshall.
 
 Alleged IPU documents leaked to researcher Timothy Cooper describe field teams consisting of a commanding officer, non-commissioned officer, an aeronautical engineer, a scientist, a security officer, and a medical doctor — suggesting a standardized crash retrieval protocol.
 

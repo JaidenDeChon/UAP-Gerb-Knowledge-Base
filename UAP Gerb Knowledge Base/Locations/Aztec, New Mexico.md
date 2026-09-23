@@ -16,13 +16,13 @@ The proximity to these sensitive installations has led researchers to theorize t
 
 The specific crash location is described as a rocky plateau mesa at Hart Canyon Road, 12-16 miles northeast of Aztec. Multiple independent witnesses including oil workers, ranchers, and law enforcement described arriving at the site to find a large metallic disc resting at an angle on the mesa.
 
-Researchers Scott and Suzanne Ramsay located Bureau of Reclamation records from 1948 discussing heavy earth-moving equipment, cranes, and lowboys being used to move concrete and steel structures in Aztec for the "Mancos project," which they theorize may have been cover for the craft removal operation.
+Researchers Scott and Suzanne Ramsey located Bureau of Reclamation records from 1948 discussing heavy earth-moving equipment, cranes, and lowboys being used to move concrete and steel structures in Aztec for the "Mancos project," which they theorize may have been cover for the craft removal operation.
 
 ## Witness Testimony Context
 
 Local eyewitnesses to the Aztec incident included:
 - Oil field workers employed by El Paso Oil Company
-- Rancher Valentin Archeletta, who observed the craft in distress
+- Rancher Valentine Archuleta, who observed the craft in distress
 - Law enforcement officer Manuel Sandoval from nearby Cuba, New Mexico
 - Multiple ranchers and civilians from the Aztec area
 

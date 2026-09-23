@@ -5,7 +5,7 @@ tags:
   - event
 ---
 
-The Wright Field Crash Retrieval Meeting refers to an alleged classified gathering that took place at [[Wright Field]] (later Wright-Patterson Air Force Base) circa 1949–1950, during which US government scientists and military officials discussed recovered UAP craft, materials, and occupants. The meeting is described in testimony from [[Robert Sarbacher]] and [[Eric Walker]], both of whom confirmed their knowledge of or participation in discussions about crash retrievals and reverse engineering efforts during this period.
+The Wright Field Crash Retrieval Meeting refers to an alleged classified gathering that took place at [[Wright Field]] (later Wright-Patterson Air Force Base) circa 1949–1950, during which US government scientists and military officials discussed recovered UAP craft, materials, and occupants. The meeting is described in testimony from [[Robert Sarbacher]] and [[Eric A. Walker]], both of whom confirmed their knowledge of or participation in discussions about crash retrievals and reverse engineering efforts during this period.
 
 ## Participants
 
@@ -14,10 +14,10 @@ According to [[Robert Sarbacher]]'s 1983 testimony to researchers [[William Stei
 - **[[Vannevar Bush]]** — Chairman of the DoD's Research and Development Board; identified by Sarbacher as heading the small group studying flying saucers.
 - **[[John Von Neumann]]** — Mathematician, physicist, and Manhattan Project veteran; named by Sarbacher as "definitely involved."
 - **[[J. Robert Oppenheimer]]** — Scientific director of the Manhattan Project; named by Sarbacher as "definitely involved."
-- **[[Eric Walker|Dr. Eric A. Walker]]** — Executive Secretary of the Defense Research Board (1950–1951); later confirmed his attendance at the Wright Field meeting in interviews with Steinman.
+- **[[Eric A. Walker|Dr. Eric A. Walker]]** — Executive Secretary of the Defense Research Board (1950–1951); later confirmed his attendance at the Wright Field meeting in interviews with Steinman.
 - **[[Robert Sarbacher]]** — Physicist and consultant to the Research and Development Board; stated he was invited to discussions but did not personally attend.
 
-In his 1983 recorded conversation with [[Stanton Friedman]], Sarbacher referenced an individual from Philadelphia who attended "all the meetings" and "acted very smug about it." Researchers subsequently identified this person as [[Eric Walker]], whose professional history placed him in Philadelphia and whose role as Executive Secretary of the Defense Research Board granted him access to the program.
+In his 1983 recorded conversation with [[Stanton Friedman]], Sarbacher referenced an individual from Philadelphia who attended "all the meetings" and "acted very smug about it." Researchers subsequently identified this person as [[Eric A. Walker]], whose professional history placed him in Philadelphia and whose role as Executive Secretary of the Defense Research Board granted him access to the program.
 
 ## Topics Discussed
 
@@ -35,7 +35,7 @@ Sarbacher indicated that the program was focused on understanding flight charact
 The meeting occurred during a critical period in UAP history:
 
 - **July 1947**: The Roswell crash and wave of UFO sightings across the United States.
-- **1948**: The alleged [[Aztec, New Mexico Crash]].
+- **1948**: The alleged [[Aztec UFO Crash and Recovery]].
 - **1949–1950**: The period when [[Wilbert B. Smith]] met with Sarbacher and documented Sarbacher's claim that flying saucer study was classified higher than the hydrogen bomb.
 - **March 1950**: The [[Hottel Memo]] was written, documenting claims of three recovered saucers in New Mexico.
 
@@ -43,7 +43,7 @@ The Wright Field meeting(s) likely represented high-level deliberations on how t
 
 ## Eric Walker's Confirmation
 
-[[Eric Walker]], in his 1987–1990 interviews with [[William Steinman]] and researcher Dr. Henry Victorian, directly confirmed:
+[[Eric A. Walker]], in his 1987–1990 interviews with [[William Steinman]] and researcher Dr. Henry Victorian, directly confirmed:
 
 - He attended the Wright Field meeting described by Sarbacher.
 - The meeting concerned crash retrievals and recovered bodies.

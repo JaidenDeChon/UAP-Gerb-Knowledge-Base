@@ -23,7 +23,7 @@ When [[Stanton Friedman]] spoke with [[Robert Sarbacher]] in 1983, Sarbacher ref
 
 ## Conversations with William Steinman
 
-In August 1987, researcher [[William Steinman]] telephoned Dr. Walker at his home to ask about the [[1948 Aztec UFO Crash Retrieval]], [[Majestic 12]], and his relationship with [[Robert Sarbacher]]. Walker's responses were cryptic but did not deny the central claims:
+In August 1987, researcher [[William Steinman]] telephoned Dr. Walker at his home to ask about the [[Aztec UFO Crash and Recovery]], [[Majestic 12]], and his relationship with [[Robert Sarbacher]]. Walker's responses were cryptic but did not deny the central claims:
 
 **On Sarbacher:**
 > "Steinman: I wanted to know if you knew Dr. Robert I. Sarbacher—he was a consultant to the Research and Development Board back in the early 1950s. Did you know him?

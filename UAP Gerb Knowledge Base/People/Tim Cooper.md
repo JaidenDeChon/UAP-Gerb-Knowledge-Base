@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Tim Cooper is an American UFO researcher who received significant drops of [[Majestic 12 Documents]] during the 1980s, making him one of the primary conduits through which these disputed but historically significant documents entered the public record. Cooper's father, USAF Master Sergeant Harry B. Cooper, received a special citation from General Curtis LeMay praising his work on the "USAF UFO program," lending indirect credibility to the Cooper family's connection to official UFO investigation programs.
+Tim Cooper is an American UFO researcher who received significant drops of [[MJ-12 Documents]] during the 1980s, making him one of the primary conduits through which these disputed but historically significant documents entered the public record. Cooper's father, USAF Master Sergeant Harry B. Cooper, received a special citation from General Curtis LeMay praising his work on the "USAF UFO program," lending indirect credibility to the Cooper family's connection to official UFO investigation programs.
 
 ## Interview with Albert Bruce Collins
 
