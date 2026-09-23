@@ -340,5 +340,19 @@
       "wiki-roster"
     ],
     "cues": "verified"
+  },
+  "vzB87RJkQVU": {
+    "title": "The Majestic-12 Documents [With Ryan S. Wood]",
+    "published": "2024-08-25",
+    "enriched_at": "2026-09-23T13:31:47Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-roster",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-org-chart"
+    ],
+    "cues": "verified"
   }
 }

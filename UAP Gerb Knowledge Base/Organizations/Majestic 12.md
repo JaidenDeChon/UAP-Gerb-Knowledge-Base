@@ -11,7 +11,7 @@ The existence of Majestic 12 remains disputed, with approximately 3,500 pages of
 
 ## Organizational Structure and Mission
 
-According to the leaked documents, Majestic 12 consisted of twelve members—six military (two each from Army, Navy, and Air Force) and six civilians—reporting directly to the President. The [[Special Operations Manual]] describes MJ-12's goals as:
+According to the leaked documents, Majestic 12 consisted of twelve members—six military (two each from Army, Navy, and Air Force) and six civilians—reporting directly to the President. The [[Special Operations Manual (SOM 1-01)|Special Operations Manual]] describes MJ-12's goals as:
 
 1. Recovery for scientific study of all materials and devices of foreign or extraterrestrial manufacture by any and all means
 2. Recovery for study of all entities and remains of non-terrestrial origin
@@ -27,12 +27,12 @@ The [[Eisenhower Briefing Document]] states that MJ-12 was established as a "top
 ### Original Twelve (1947)
 
 The Eisenhower Briefing Document names the founding members:
-- **MJ-1: Admiral Roscoe H. Hillenkoetter** — First CIA Director, designated briefing officer for Eisenhower
+- **MJ-1: Admiral [[Roscoe H. Hillenkoetter]]** — First CIA Director, designated briefing officer for Eisenhower
 - **Dr. Vannevar Bush** — Office of Scientific Research and Development head, key architect
-- **James Forrestal** — Navy Secretary, first Defense Secretary (died May 22, 1949; replaced by [[General Walter B. Smith]])
+- **James Forrestal** — Navy Secretary, first Defense Secretary (died May 22, 1949; replaced by [[Walter Bedell Smith|General Walter B. Smith]])
 - **General Nathan Twining** — Project Sign leader, Air Material Command; led Roswell recovery
 - **General Hoyt S. Vandenberg** — Second Director of Central Intelligence, Air Force Chief of Staff
-- **Donald H. Menzel** — Harvard astronomer, NSA/CIA consultant  
+- **[[Donald Menzel|Donald H. Menzel]]** — Harvard astronomer, NSA/CIA consultant  
 - **Admiral Sidney W. Souers**
 - **Gordon Gray**
 - **Dr. Detlev Bronk** — Performed Roswell autopsies, coined term "EBE" (Extraterrestrial Biological Entity)
@@ -44,7 +44,7 @@ Truman's appointment calendar confirms an off-record meeting with Walter B. Smit
 
 ### Extended Network
 
-The [[White Hot Report]] (another Majestic document) lists an extended Roswell investigation team beyond the core twelve members, indicating a larger network:
+The White Hot Report (another Majestic document) lists an extended Roswell investigation team beyond the core twelve members, indicating a larger network:
 - **J. Robert Oppenheimer** (Manhattan Project)
 - **Wernher von Braun** (rocket scientist)
 - **Theodore von Kármán** (aerospace engineer)
@@ -54,19 +54,19 @@ The [[White Hot Report]] (another Majestic document) lists an extended Roswell i
 - **Professor Albert Einstein**
 - **Dr. Charles Ethan Ray** (medical corps expert with Groves on Manhattan Project, assisted in Roswell autopsies)
 
-[[Dr. Eric A. Walker]], protégé of Vannevar Bush and eventual head of Bush's organization, confirmed MJ-12's existence to researchers, admitted presence at the [[1965 Kecksburg, Pennsylvania UFO crash]], and made the cryptic statement about the documents being like "Don Quixote chasing at windmills"—interpreted by [[Ryan S. Wood]] as meaning researchers might obtain documents but never fully grasp the program's extent.
+[[Eric A. Walker]], protégé of Vannevar Bush and eventual head of Bush's organization, confirmed MJ-12's existence to researchers, admitted presence at the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg, Pennsylvania crash]], and made the cryptic statement about the documents being like "Don Quixote chasing at windmills"—interpreted by [[Ryan S. Wood]] as meaning researchers might obtain documents but never fully grasp the program's extent.
 
 ## Key Documents
 
-### Eisenhower Briefing Document (1984 leak)
+The principal documents and their provenance are described in [[MJ-12 Documents]]. The most closely studied are the [[Eisenhower Briefing Document]] (dated 18 November 1952, leaked to [[Jaime Shandera]] in 1984), the [[Special Operations Manual (SOM 1-01)]] (1954, leaked to [[Don Berliner]] in 1994), the [[Interplanetary Phenomenon Unit]] Field Order and Report, the Cutler–Twining memo and the [[Bowen Manuscript]].
 
-An 18-page briefing allegedly prepared for President-elect Dwight D. Eisenhower on November 18James Forrestal's Death
+## James Forrestal's Death
 
 On May 22, 1949, James Forrestal fell (or was pushed) from the 13th floor of Bethesda Naval Hospital. Official reports stated suicide due to depression, but Forrestal had reportedly been advocating for greater openness on the UFO subject. One Majestic document states it was "necessary and regrettable" that Forrestal had to lose his life. Wood's book *Magic Eyes Only* includes a dedication to those who lost their lives for UFO secrecy, prominently featuring Forrestal.
 
 ## The 1954 Turning Point
 
-[[Ryan S. Wood]] identifies 1954 as a critical transition year. SOM 1-01 was created in 1954.** The [[1954 Atomic Energy Act]] established "restricted data" classification allowing non-government-created information to be born classified, potentially providing legal framework for reclassifying crashed non-terrestrial materials as "trans-classified foreign nuclear materials" (the same mechanism referenced in the 2024 Schumer UAP disclosure amendment).
+[[Ryan S. Wood]] identifies 1954 as a critical transition year. SOM 1-01 was created in 1954. The [[Atomic Energy Act of 1954]] established "restricted data" classification allowing non-government-created information to be born classified, potentially providing legal framework for reclassifying crashed non-terrestrial materials as "trans-classified foreign nuclear materials" (the same mechanism referenced in the 2024 Schumer UAP disclosure amendment).
 
 The concentration of leaked documents from the pre-1954 era, with far less detail in post-1954 materials, supports the theory that this reclassification "pulled the rug out" from under Air Force officers running MJ-12 operations, transferring control elsewhere—possibly motivating leakers to preserve documentation of programs being memory-holed. The **Fifth Annual Majestic Report**, one of the last detailed operational documents, may represent final documentation before reorganization.
 
@@ -79,7 +79,7 @@ Documents associated with MJ-12 have been disputed since the first leak in 1984,
 Forensic authentication work by the Woods has identified multiple strong authenticity markers:
 - Period-correct typography, fonts, and printing methods (hot lead press artifacts)
 - Verifiable personnel connections (individuals matching document control initials found at correct locations/times)
-- Witness testimony ([[Dale Bailey]], [[Dr. Eric A. Walker]])
+- Witness testimony (Dale Bailey, [[Eric A. Walker]])
 - Cross-document corroboration (references matching across independently obtained documents)
 - National Archives corroboration (Cutler-Twining memo, Paperclip memo with "CIA/MJ-12" notation)
 - Government acknowledgment of related entities ([[Interplanetary Phenomenon Unit]] existence confirmed via FOIA)
@@ -91,10 +91,10 @@ Ryan Wood states: "I have no credible evidence that any document listed on [Maje
 Majestic documents provide context for numerous crash retrieval cases:
 - **[[Roswell Crash]]** (July 7, 1947) — Initiated MJ-12 formation
 - **December 1950 crash near [[El Indio, Texas]]/Guerrero, Mexico** — Referenced in Eisenhower Briefing Document, corroborated by [[Luis Elizondo]] in 2024
-- **[[1953 Kingman, Arizona UFO Crash]]** — Falls within 1947-1953 timeframe cited in SOM 1-01
-- **[[1965 Kecksburg, Pennsylvania UFO crash]]** — Dr. Eric A. Walker admitted presence
-- **[[1974 Coyame, Mexico UFO Crash]]** — IPU Report description of contamination deaths parallels this case
-- **[[1933 Magenta, Italy UFO Crash]]** — Vannevar Bush underlined Mussolini/Hitler 1942 exposure to craft in Bowen manuscript
+- **[[1953 Kingman, Arizona Crash Retrieval]]** — Falls within 1947-1953 timeframe cited in SOM 1-01
+- **[[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg, Pennsylvania crash]]** — Dr. Eric A. Walker admitted presence
+- **[[1974 Coyame, Mexico UFO Crash Retrieval]]** — IPU Report description of contamination deaths parallels this case
+- **[[1933 Magenta UFO CrashRetrieval|1933 Magenta, Italy UFO Crash]]** — Vannevar Bush underlined Mussolini/Hitler 1942 exposure to craft in Bowen manuscript
 
 ## Relationship to RS-33
 
