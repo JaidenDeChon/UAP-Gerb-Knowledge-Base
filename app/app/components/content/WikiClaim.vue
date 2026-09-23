@@ -355,12 +355,19 @@ function responsesLabel(c: Claim, i: number): string {
   gap: 8px;
   margin: 0 0 0 1.1rem;
   padding: 10px 0 0 1.1rem;
-  border-left: 2px solid var(--claim-thread);
+  /* Thread offsets, in each reply's padding-box coordinates. The line itself
+     is drawn per reply (::after below) so it can stop at the last reply's
+     tick instead of running on to the bottom of the list. */
+  --thread-x: calc(-1.1rem - 5px);
+  --thread-gap: 8px;
+  --thread-lead: 10px;
+  --thread-tick: 1.05rem;
 }
 @container claim (max-width: 26rem) {
   .ufo-claim-responses {
     margin-left: 0.5rem;
     padding-left: 0.75rem;
+    --thread-x: calc(-0.75rem - 5px);
   }
 }
 .ufo-claim-response {
@@ -376,16 +383,35 @@ function responsesLabel(c: Claim, i: number): string {
 .ufo-claim-response::before {
   content: '';
   position: absolute;
-  top: 1.05rem;
-  left: calc(-1.1rem - 5px);
+  top: var(--thread-tick);
+  left: var(--thread-x);
   width: calc(1.1rem + 2px);
   border-top: 2px solid var(--claim-thread);
 }
 @container claim (max-width: 26rem) {
   .ufo-claim-response::before {
-    left: calc(-0.75rem - 5px);
     width: calc(0.75rem + 2px);
   }
+}
+/* The thread's vertical run: from the gap above this reply down to the next
+   one, except the last reply, where it stops at its own tick (an L corner). */
+.ufo-claim-response::after {
+  content: '';
+  position: absolute;
+  top: calc(-1 * var(--thread-gap));
+  bottom: 0;
+  left: var(--thread-x);
+  border-left: 2px solid var(--claim-thread);
+}
+.ufo-claim-response:first-child::after {
+  top: calc(-1 * var(--thread-lead));
+}
+.ufo-claim-response:last-child::after {
+  bottom: auto;
+  height: calc(var(--thread-gap) + var(--thread-tick) + 2px);
+}
+.ufo-claim-response:first-child:last-child::after {
+  height: calc(var(--thread-lead) + var(--thread-tick) + 2px);
 }
 /*
  * Stance tones, each measured >= 3:1 against --card as a mark in all four
