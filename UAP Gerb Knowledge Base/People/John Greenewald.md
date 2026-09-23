@@ -30,7 +30,7 @@ In late 2023, Greenewald submitted a similar FOIA request to [[US Space Force]],
 
 ## USS Trepang Photograph Analysis
 
-Greenewald engaged with the disputed [[USS Trepang UAPUSO Photography|USS Trepang photographs]] from 1971 — a set of images purportedly showing triangle, cigar-shaped, and egg-shaped UAP interacting with the Arctic Ocean near [[Jan Mayen Island]]. Researcher [[Wim van Utri]] identified signs of photographic tampering in one of the most prominent images. Greenewald argued that the presence of tampering in a single image does not invalidate the remaining photographs, noting that publications routinely enhance images for print and that differences in aspect ratio between the original image and the magazine version are consistent with standard print enhancement rather than deliberate falsification.
+Greenewald engaged with the disputed [[USS Trepang USO Photographs|USS Trepang photographs]] from 1971 — a set of images purportedly showing triangle, cigar-shaped, and egg-shaped UAP interacting with the Arctic Ocean near Jan Mayen Island. Researcher Wim Van Utrecht identified signs of photographic tampering in one of the most prominent images. Greenewald argued that the presence of tampering in a single image does not invalidate the remaining photographs, noting that publications routinely enhance images for print and that differences in aspect between the original image and the magazine version are consistent with standard print enhancement rather than deliberate falsification.
 
 ## Philip J. Corso FBI Documents
 
