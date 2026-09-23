@@ -2,7 +2,8 @@
  * Pure logic behind `::wiki-map` (WikiMap.vue): normalising the loosely typed
  * YAML an author writes into numbered pins and routes, choosing the map's
  * frame, nudging overlapping pins apart, picking a round scale-bar length,
- * and decoding the bundled outline files. No Nuxt runtime and no d3, so it is
+ * decoding the bundled outline files, and choosing and placing the locator
+ * inset (the small overview map). No Nuxt runtime and no d3, so it is
  * unit-tested directly; the component owns the projection.
  *
  * Coordinates are `[lat, lon]` in decimal degrees everywhere an author or a
@@ -482,7 +483,7 @@ export interface LabelRequest extends Point {
   width: number
 }
 
-interface Box {
+export interface Box {
   x0: number
   y0: number
   x1: number
@@ -542,4 +543,260 @@ export function placeLabels(
     placed.push(labelBox(p, best, r, lineHeight))
     return best
   })
+}
+
+/* -- locator inset ---------------------------------------------------------- */
+
+/**
+ * An area the locator inset can show: the whole of a country, a continent or
+ * the world, with the main map's view marked inside it.
+ */
+export interface LocatorRegion {
+  id: string
+  /** For the text summary ("… within South America"). */
+  name: string
+  /** Drawn on the inset; empty for continents and the world, whose shape says enough. */
+  label: string
+  bounds: GeoBounds
+  kind: 'country' | 'continent' | 'world'
+}
+
+/**
+ * The fixed candidates, beside the country the view sits in (found at run
+ * time from the outlines). The United States is split, so a view in
+ * California shows the lower 48 and not a map stretched to the Aleutians.
+ * Continent boxes are generous rather than exact: they only decide what the
+ * inset frames.
+ */
+export const LOCATOR_REGIONS: readonly LocatorRegion[] = [
+  { id: 'us', name: 'the contiguous United States', label: 'United States', bounds: US_BOUNDS, kind: 'country' },
+  { id: 'us-ak', name: 'Alaska', label: 'Alaska', bounds: [-170, 51, -129.9, 71.5], kind: 'country' },
+  { id: 'us-hi', name: 'Hawaii', label: 'Hawaii', bounds: [-160.6, 18.5, -154.4, 22.6], kind: 'country' },
+  { id: 'north-america', name: 'North America', label: '', bounds: [-170, 5, -50, 75], kind: 'continent' },
+  { id: 'south-america', name: 'South America', label: '', bounds: [-82, -56, -34, 13], kind: 'continent' },
+  { id: 'europe', name: 'Europe', label: '', bounds: [-25, 34, 45, 72], kind: 'continent' },
+  { id: 'africa', name: 'Africa', label: '', bounds: [-18, -35, 52, 38], kind: 'continent' },
+  { id: 'asia', name: 'Asia', label: '', bounds: [25, -11, 150, 78], kind: 'continent' },
+  { id: 'oceania', name: 'Oceania', label: '', bounds: [110, -48, 180, 0], kind: 'continent' },
+  { id: 'world', name: 'the world', label: '', bounds: WORLD_BOUNDS, kind: 'world' },
+]
+
+/**
+ * How far (as a share of the region's own span, on each side) a view may
+ * spill past a region and still count as inside it: a Texas–Chihuahua map is
+ * still "in the United States", with the inset widened to take in the rest.
+ */
+export const LOCATOR_MARGIN = 0.1
+
+/**
+ * The inset only earns its place when the view is a small part of the
+ * region: past this share of the region's area the main map already shows
+ * most of it, and the next larger region is tried instead.
+ */
+export const LOCATOR_MAX_SHARE = 0.5
+
+/** Below this size in pixels (both ways) the view is marked with a ring, not its outline. */
+export const LOCATOR_MIN_MARK = 7
+
+const RAD = Math.PI / 180
+
+/** Area of a lat/lon box on the unit sphere (steradians): exact for a box, no projection needed. */
+export function boundsArea([west, south, east, north]: GeoBounds): number {
+  const lon = Math.max(0, east - west) * RAD
+  return lon * Math.max(0, Math.sin(north * RAD) - Math.sin(south * RAD))
+}
+
+/** True when `inner` lies inside `outer`, grown by `margin` of its span on every side. */
+export function containsBounds(outer: GeoBounds, inner: GeoBounds, margin = LOCATOR_MARGIN): boolean {
+  const dx = (outer[2] - outer[0]) * margin
+  const dy = (outer[3] - outer[1]) * margin
+  return inner[0] >= outer[0] - dx && inner[2] <= outer[2] + dx && inner[1] >= outer[1] - dy && inner[3] <= outer[3] + dy
+}
+
+export function unionBounds(a: GeoBounds, b: GeoBounds): GeoBounds {
+  return [Math.min(a[0], b[0]), Math.min(a[1], b[1]), Math.max(a[2], b[2]), Math.max(a[3], b[3])]
+}
+
+/**
+ * The bounds of a ring of `[lon, lat]` points (the main map's visible edge).
+ * A ring that seems to span more than half the globe has crossed the
+ * antimeridian, and gets every longitude: only the world contains it.
+ */
+export function ringBounds(ring: LonLat[]): GeoBounds | null {
+  if (!ring.length) return null
+  let west = Infinity
+  let south = Infinity
+  let east = -Infinity
+  let north = -Infinity
+  for (const [lon, lat] of ring) {
+    west = Math.min(west, lon)
+    east = Math.max(east, lon)
+    south = Math.min(south, lat)
+    north = Math.max(north, lat)
+  }
+  if (east - west > 180) return [-180, south, 180, north]
+  return [west, south, east, north]
+}
+
+/**
+ * Picks the inset's region: the smallest candidate that contains the view
+ * (allowing `LOCATOR_MARGIN`) and of which the view covers no more than
+ * `maxShare`. The world contains every view. Null when nothing qualifies (a
+ * view of half the world). `candidates` is usually the country the view sits
+ * in plus `LOCATOR_REGIONS`.
+ */
+export function chooseLocator(
+  view: GeoBounds,
+  candidates: readonly LocatorRegion[] = LOCATOR_REGIONS,
+  maxShare = LOCATOR_MAX_SHARE,
+): LocatorRegion | null {
+  const viewArea = boundsArea(view)
+  const sorted = [...candidates].sort((a, b) => boundsArea(a.bounds) - boundsArea(b.bounds))
+  for (const region of sorted) {
+    if (region.kind !== 'world' && !containsBounds(region.bounds, view)) continue
+    if (viewArea > boundsArea(region.bounds) * maxShare) continue
+    return region
+  }
+  return null
+}
+
+/**
+ * Pixel points along the edge of a `width` × `height` rectangle, clockwise
+ * from the top-left corner, `steps` per side: the main map's frame, to be
+ * inverted into the ring of places it shows.
+ */
+export function frameRing(width: number, height: number, steps = 6): Point[] {
+  const out: Point[] = []
+  for (let i = 0; i < steps; i++) out.push({ x: (width * i) / steps, y: 0 })
+  for (let i = 0; i < steps; i++) out.push({ x: width, y: (height * i) / steps })
+  for (let i = 0; i < steps; i++) out.push({ x: width - (width * i) / steps, y: height })
+  for (let i = 0; i < steps; i++) out.push({ x: 0, y: height - (height * i) / steps })
+  return out
+}
+
+/** How the view is marked on the inset: its outline, or a ring when the outline would be a speck. */
+export type LocatorMark =
+  | { kind: 'area', d: string }
+  | { kind: 'dot', x: number, y: number }
+
+/**
+ * The view's outline as an SVG path, from its ring projected onto the inset;
+ * a ring at its centre instead when the outline would be under `minSize`
+ * pixels both ways. Null for an empty ring.
+ */
+export function locatorMark(points: Point[], minSize = LOCATOR_MIN_MARK): LocatorMark | null {
+  if (!points.length) return null
+  let x0 = Infinity
+  let y0 = Infinity
+  let x1 = -Infinity
+  let y1 = -Infinity
+  for (const p of points) {
+    x0 = Math.min(x0, p.x)
+    y0 = Math.min(y0, p.y)
+    x1 = Math.max(x1, p.x)
+    y1 = Math.max(y1, p.y)
+  }
+  if (x1 - x0 < minSize && y1 - y0 < minSize) return { kind: 'dot', x: (x0 + x1) / 2, y: (y0 + y1) / 2 }
+  const d = `${points.map((p, k) => `${k ? 'L' : 'M'}${p.x.toFixed(1)},${p.y.toFixed(1)}`).join(' ')} Z`
+  return { kind: 'area', d }
+}
+
+/** `locator:` as written: on unless it says `false`, `off`, `no` or `none`. */
+export function locatorEnabled(v: unknown): boolean {
+  if (v === false || v === 0) return false
+  return !['false', 'off', 'no', 'none', '0'].includes(str(v).toLowerCase())
+}
+
+/** True when `box`, grown by `margin` on every side, touches any of `obstacles`. */
+export function boxHits(box: Box, obstacles: Box[], margin = 0): boolean {
+  const grown = { x0: box.x0 - margin, y0: box.y0 - margin, x1: box.x1 + margin, y1: box.y1 + margin }
+  return obstacles.some(o => overlap(grown, o) > 0)
+}
+
+export interface InsetLayoutInput {
+  /** The map's drawn width and fitted height, before any extension. */
+  width: number
+  height: number
+  /** The frame's inner padding: the gap between the inset (or scale bar) and the edge. */
+  pad: number
+  /** The inset's box (including its label), or null for none. */
+  inset: { w: number, h: number } | null
+  /** The scale bar's box (bar and text), or null for none. Always bottom-left. */
+  scale: { w: number, h: number } | null
+  /** Distance from the frame's bottom edge to the bottom of the scale bar's box. */
+  scaleBottom: number
+  /** Space between the inset and the scale bar above which it sits. */
+  gap: number
+  /**
+   * Everything drawn that must stay uncovered, in the map's pixels: pins,
+   * pin labels, leader lines, route lines, radius circles.
+   */
+  obstacles: Box[]
+  /** Clearance kept between the inset or scale bar and any obstacle. */
+  margin: number
+}
+
+export interface InsetLayout {
+  inset: Box | null
+  scale: Box | null
+  /**
+   * Pixels added below the fitted map to make room: 0 when the inset and the
+   * scale bar fit clear of everything as it is. The map's projection doesn't
+   * change; the extra band shows more of the country below, with nothing in
+   * it.
+   */
+  extra: number
+}
+
+/**
+ * Places the locator inset and the scale bar so that neither covers
+ * anything on the map (`obstacles`, grown by `margin`). In order:
+ *
+ * 1. the inset directly above the scale bar, bottom left;
+ * 2. with the scale bar clear where it is, the inset in the bottom-right,
+ *    top-left or top-right corner;
+ * 3. failing both, the map is extended downwards (`extra`) just far enough
+ *    that the scale bar, with the inset above it, sits below every obstacle
+ *    in its column. The pins all lie inside the fitted height, so this
+ *    always succeeds: no overlap in any case.
+ */
+export function layoutInset(input: InsetLayoutInput): InsetLayout {
+  const { width, height, pad, inset, scale, scaleBottom, gap, obstacles, margin } = input
+  const column = (extra: number) => {
+    const bottom = height + extra - scaleBottom
+    const s: Box | null = scale ? { x0: pad, y0: bottom - scale.h, x1: pad + scale.w, y1: bottom } : null
+    const top = s ? s.y0 - gap : height + extra - pad
+    const i: Box | null = inset ? { x0: pad, y0: top - inset.h, x1: pad + inset.w, y1: top } : null
+    return { inset: i, scale: s }
+  }
+  const clear = (b: Box | null) => !b || (b.y0 >= pad && !boxHits(b, obstacles, margin))
+
+  const here = column(0)
+  if (clear(here.scale) && clear(here.inset)) return { ...here, extra: 0 }
+
+  if (inset && clear(here.scale)) {
+    const corners: [number, number][] = [
+      [width - pad - inset.w, height - pad - inset.h],
+      [pad, pad],
+      [width - pad - inset.w, pad],
+    ]
+    for (const [x, y] of corners) {
+      const b: Box = { x0: x, y0: y, x1: x + inset.w, y1: y + inset.h }
+      if (b.x0 >= 0 && clear(b)) return { inset: b, scale: here.scale, extra: 0 }
+    }
+  }
+
+  // Extend: push the whole column below the lowest obstacle in its path.
+  const boxes = [here.inset, here.scale].filter((b): b is Box => Boolean(b))
+  if (!boxes.length) return { inset: null, scale: null, extra: 0 }
+  const x0 = Math.min(...boxes.map(b => b.x0))
+  const x1 = Math.max(...boxes.map(b => b.x1))
+  const top = Math.min(...boxes.map(b => b.y0))
+  let lowest = -Infinity
+  for (const o of obstacles) {
+    if (o.x1 > x0 - margin && o.x0 < x1 + margin) lowest = Math.max(lowest, o.y1)
+  }
+  // …and never above the frame's top padding, on a map too short to hold it.
+  const extra = Math.max(0, Math.ceil(lowest + margin + 1 - top), Math.ceil(pad - top))
+  return { ...column(extra), extra }
 }

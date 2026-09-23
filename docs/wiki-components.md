@@ -1013,6 +1013,45 @@ What it renders:
   leg that has room. `style: dashed` for anything reported, alleged or
   reconstructed. Lines are straight between the places: a route is a
   sequence, never a surveyed track, and the caption should say so.
+- **A locator inset.** A map fitted to its pins can show a patch of desert
+  with no clue where in the country it is, so a regional map carries a
+  thumbnail (about 116px wide on a desktop, 76 to 83px on a phone) of the
+  whole area the view sits in, with the part the map shows outlined in the
+  route colour over a light fill. The outline is the map's actual frame,
+  inverted to places and projected into the inset, so it bows the way the
+  projections do; a view too small to read as an outline (under 7px either
+  way) gets a ring instead. Country-level insets carry the name in small
+  capitals ("UNITED STATES", "MEXICO"); continents and the world don't need
+  one. The inset is drawn from the same bundled outlines as the map: no
+  new data.
+  - **Which area** (`chooseLocator`): the smallest of these that holds the
+    whole view, allowing it to spill 10% past the area's own span on any
+    side, and of which the view is no more than half: the country at the
+    view's centre (its largest polygon's extent, from `world.json`); the
+    contiguous United States, Alaska or Hawaii (fixed boxes, so a California
+    map isn't set in a map stretched to the Aleutians); North America, South
+    America, Europe, Africa, Asia, Oceania (generous fixed boxes); the
+    world. So the Mojave maps get the lower 48, the Chihuahua–Texas maps
+    Mexico, the Peru map South America (the view spills past Peru), and
+    the light-wheel map (Persian Gulf to the South China Sea) the world.
+    The inset's own extent is the chosen area widened to take in the whole
+    view.
+  - **When there is none**: `region: us` and `region: world` maps (they
+    already show the whole area), a view that is more than half of every
+    candidate, and `locator: false`.
+  - **Where it goes, and the no-overlap guarantee** (`layoutInset`): the
+    inset and the scale bar never cover anything on the map. Every pin
+    (with its ring), pin label, nudged pin's leader line and dot, route
+    leg (with its halo and arrows) and radius circle is a box, and the
+    inset must stay 4px clear of all of them. It goes, in order: right
+    above the scale bar, bottom left; else (if the scale bar itself is
+    clear) the bottom-right, top-left or top-right corner; else the map
+    grows a band at the bottom just deep enough for the scale bar, with
+    the inset above it, to sit below every box in its column. The
+    projection doesn't change, so the band shows more of the country below
+    with nothing on it, and the inset's outline takes the band in. The
+    scale bar gets the same guarantee on a map with no inset. Country
+    names step around the inset.
 - **The legend.** An ordered list, one row per pin: its number (same style
   as the pin), the entity link, date, radius, note and cue chip. Under it,
   each route as a line swatch, its stops ("1 → 2 → 3") and its label. A pin
@@ -1024,13 +1063,17 @@ What it renders:
   legend is two columns from a 36rem container, one below. Nothing scrolls
   sideways.
 - **Accessibility.** The SVG is `role="img"` with a summary ("Map with 5
-  numbered places and 2 routes: 1, Fort Bliss; …"); pins are not focusable,
+  numbered places and 2 routes: 1, Fort Bliss; …", plus "An inset marks the
+  area shown within Mexico." when there is one; the inset itself is
+  `aria-hidden`); pins are not focusable,
   because the legend carries the same links and cues. Each route's stops are
   spelled out for screen readers ("Route: Fort Bliss, then Presidio…"). The
   outline fade-in and hover transitions are off under reduced motion.
 - **Theming.** Water is `--card`, land a wash of `--muted-foreground`,
   borders softened `--muted-foreground`, routes and circles `--primary`,
-  pins `--foreground` with `--background` numerals. Tokens only.
+  pins `--foreground` with `--background` numerals. The inset is `--card`
+  water with a stronger `--muted-foreground` land wash and hairline border,
+  its view outline `--primary` over a `--primary` tint. Tokens only.
 
 Props:
 
@@ -1041,6 +1084,7 @@ Props:
 | `region` | `string` | `'auto'` | YAML body. `auto` fits the pins (and any circles); `us` shows the contiguous United States, widened to take in any pin outside it; `world` shows the whole world. `auto` also switches to a world map when the pins span more than 100° of longitude or 60° of latitude |
 | `label` | `string` | `''` | YAML body. Replaces the "Map" kicker |
 | `caption` | `string` | `''` | YAML body. Shown under the legend, followed by the outline credit; also names the legend list |
+| `locator` | `boolean` | `true` | YAML body (`locator: false`) or attribute (`locator="false"`; `off`, `no` and `none` work too). Turns the locator inset off. It only ever appears on a `region: auto` map |
 | `video` | `string` | `''` | Attribute. YouTube id; gates every cue chip |
 | `videoTitle` | `string` | `''` | Attribute, written `video-title`. Forwarded to each `WikiCue` |
 
@@ -1404,8 +1448,13 @@ world), `radiusPoints`, `boundsOutline` (edge samples for fitting a curved
 projection), `spreadPins` (deterministic nudging of overlapping pins),
 `placeLabels` (greedy right / left / top / bottom label placement),
 `niceLength` (scale-bar lengths) and `decodeOutline` (the outline files'
-delta-encoded rings and lines to GeoJSON). None of it touches d3 or the
-DOM.
+delta-encoded rings and lines to GeoJSON). For the locator inset:
+`LOCATOR_REGIONS` and `chooseLocator` (which area the inset shows, with
+`boundsArea`, `containsBounds`, `unionBounds` and `ringBounds`),
+`frameRing` (the frame's edge, to invert), `locatorMark` (outline or ring,
+by `LOCATOR_MIN_MARK`), `layoutInset` and `boxHits` (placement that never
+covers a pin), and `locatorEnabled` (the `locator:` switch). None of it
+touches d3 or the DOM.
 
 ### `app/scripts/build-map-outlines.mjs` and `app/public/geo/`
 

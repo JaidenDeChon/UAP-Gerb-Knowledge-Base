@@ -1,18 +1,31 @@
 import { describe, expect, it } from 'vitest'
 import {
+  boundsArea,
+  boxHits,
   boundsOutline,
   buildMap,
+  chooseLocator,
+  containsBounds,
   decodeOutline,
+  frameRing,
+  LOCATOR_MIN_MARK,
+  LOCATOR_REGIONS,
+  locatorEnabled,
+  locatorMark,
+  type LocatorRegion,
   MIN_FRAME_SPAN,
   mapFrame,
   niceLength,
   normalizeLatLon,
   normalizeRegion,
+  layoutInset,
   placeLabels,
   placePins,
   radiusPoints,
+  ringBounds,
   spreadPins,
   stopIndex,
+  unionBounds,
   US_BOUNDS,
   WORLD_BOUNDS,
 } from './map'
@@ -247,5 +260,226 @@ describe('placeLabels', () => {
     const sides = placeLabels([{ x: 100, y: 100, width: 80 }, { x: 100, y: 112, width: 80 }], 5, 400, 200)
     expect(sides[0]).toBe('right')
     expect(sides[1]).not.toBe('right')
+  })
+})
+
+describe('locator: chooseLocator', () => {
+  const peru: LocatorRegion = { id: 'c604', name: 'Peru', label: 'Peru', bounds: [-81.4, -18.4, -68.7, -0.04], kind: 'country' }
+  const mexico: LocatorRegion = { id: 'c484', name: 'Mexico', label: 'Mexico', bounds: [-117.1, 14.5, -86.7, 32.7], kind: 'country' }
+
+  it('puts a view of the Mojave in the contiguous United States', () => {
+    expect(chooseLocator([-119.5, 33.5, -115, 37.5])?.id).toBe('us')
+  })
+
+  it('keeps a view spilling a little past the border in the United States', () => {
+    // Pennsylvania to Michigan, reaching into Ontario.
+    expect(chooseLocator([-85, 39.5, -78, 44.5])?.id).toBe('us')
+  })
+
+  it('prefers the country the view is centred in when it holds the view', () => {
+    expect(chooseLocator([-78, -14, -72, -6], [...LOCATOR_REGIONS, peru])?.id).toBe('c604')
+  })
+
+  it('moves up to the continent when the view spills well past the country', () => {
+    expect(chooseLocator([-80, -15, -66, 1], [...LOCATOR_REGIONS, peru])?.id).toBe('south-america')
+  })
+
+  it('chooses the smaller of two regions that both hold the view', () => {
+    // Chihuahua and West Texas: inside both Mexico (with margin) and the US; Mexico is smaller.
+    expect(chooseLocator([-107, 28, -103, 32], [...LOCATOR_REGIONS, mexico])?.id).toBe('c484')
+  })
+
+  it('uses the continent for a sea with no country', () => {
+    // Persian Gulf to the South China Sea.
+    expect(chooseLocator([45, -4, 120, 30])?.id).toBe('asia')
+  })
+
+  it('falls back to the world for a view no continent holds', () => {
+    // The South Pacific, inside none of the boxes.
+    expect(chooseLocator([-150, -30, -120, -10])?.id).toBe('world')
+  })
+
+  it('skips a region the view already mostly shows, trying the next one up', () => {
+    // Nearly the whole lower 48: the US adds nothing, North America does.
+    expect(chooseLocator([-124, 25, -67, 49])?.id).toBe('north-america')
+    // A Hawaii view as wide as the island chain.
+    expect(chooseLocator([-160.5, 18.6, -154.5, 22.5])?.id).toBe('north-america')
+  })
+
+  it('returns null when even the world is mostly in view', () => {
+    expect(chooseLocator([-180, -58, 180, 84])).toBeNull()
+  })
+})
+
+describe('locator: bounds helpers', () => {
+  it('measures a box on the sphere', () => {
+    expect(boundsArea([-180, -90, 180, 90])).toBeCloseTo(4 * Math.PI)
+    // The same span of longitude holds less area near the pole.
+    expect(boundsArea([0, 60, 10, 70])).toBeLessThan(boundsArea([0, 0, 10, 10]))
+    expect(boundsArea([10, 0, 0, 10])).toBe(0)
+  })
+
+  it('contains with a margin of the outer span', () => {
+    expect(containsBounds([0, 0, 10, 10], [-0.9, 2, 5, 10.9])).toBe(true)
+    expect(containsBounds([0, 0, 10, 10], [-1.1, 2, 5, 5])).toBe(false)
+    expect(containsBounds([0, 0, 10, 10], [-0.9, 2, 5, 5], 0)).toBe(false)
+  })
+
+  it('unions and bounds a ring', () => {
+    expect(unionBounds([0, 0, 10, 10], [-5, 2, 3, 12])).toEqual([-5, 0, 10, 12])
+    expect(ringBounds([[1, 2], [-3, 5], [4, -1]])).toEqual([-3, -1, 4, 5])
+    expect(ringBounds([])).toBeNull()
+    // A ring across the antimeridian takes every longitude.
+    expect(ringBounds([[179, 0], [-179, 5]])).toEqual([-180, 0, 180, 5])
+  })
+})
+
+describe('locator: frameRing', () => {
+  it('walks the frame clockwise from the top-left, steps per side', () => {
+    expect(frameRing(100, 50, 2)).toEqual([
+      { x: 0, y: 0 },
+      { x: 50, y: 0 },
+      { x: 100, y: 0 },
+      { x: 100, y: 25 },
+      { x: 100, y: 50 },
+      { x: 50, y: 50 },
+      { x: 0, y: 50 },
+      { x: 0, y: 25 },
+    ])
+  })
+})
+
+describe('locator: locatorMark (the speck threshold)', () => {
+  it('outlines a view large enough to read', () => {
+    const m = locatorMark([{ x: 10, y: 10 }, { x: 30, y: 10 }, { x: 30, y: 20 }, { x: 10, y: 20 }])
+    expect(m).toEqual({ kind: 'area', d: 'M10.0,10.0 L30.0,10.0 L30.0,20.0 L10.0,20.0 Z' })
+  })
+
+  it('keeps the outline when only one side reaches the minimum', () => {
+    expect(locatorMark([{ x: 0, y: 0 }, { x: LOCATOR_MIN_MARK, y: 0 }, { x: LOCATOR_MIN_MARK, y: 2 }])?.kind).toBe('area')
+  })
+
+  it('marks a speck with a ring at its centre', () => {
+    expect(locatorMark([{ x: 10, y: 10 }, { x: 14, y: 10 }, { x: 14, y: 13 }, { x: 10, y: 13 }]))
+      .toEqual({ kind: 'dot', x: 12, y: 11.5 })
+  })
+
+  it('returns null for an empty ring', () => {
+    expect(locatorMark([])).toBeNull()
+  })
+})
+
+describe('locator: boxHits', () => {
+  it('detects overlap, and a near miss within the margin', () => {
+    const box = { x0: 0, y0: 0, x1: 10, y1: 10 }
+    expect(boxHits(box, [{ x0: 5, y0: 5, x1: 15, y1: 15 }])).toBe(true)
+    expect(boxHits(box, [{ x0: 13, y0: 0, x1: 20, y1: 10 }])).toBe(false)
+    expect(boxHits(box, [{ x0: 13, y0: 0, x1: 20, y1: 10 }], 4)).toBe(true)
+    // Touching edges is not an overlap.
+    expect(boxHits(box, [{ x0: 10, y0: 0, x1: 20, y1: 10 }])).toBe(false)
+  })
+})
+
+describe('locator: layoutInset (never covers a pin)', () => {
+  // A 400 × 300 map, 14px padding, an 80 × 60 inset over a 100 × 25 scale bar.
+  const base = {
+    width: 400,
+    height: 300,
+    pad: 14,
+    inset: { w: 80, h: 60 },
+    scale: { w: 100, h: 25 },
+    scaleBottom: 11,
+    gap: 4,
+    margin: 4,
+  }
+  const pin = (x: number, y: number) => ({ x0: x - 12.5, y0: y - 12.5, x1: x + 12.5, y1: y + 12.5 })
+  const clearOf = (l: ReturnType<typeof layoutInset>, obstacles: { x0: number, y0: number, x1: number, y1: number }[]) =>
+    [l.inset, l.scale].every(b => !b || !boxHits(b, obstacles, base.margin))
+
+  it('puts the inset right above the scale bar, bottom left, when that is clear', () => {
+    const l = layoutInset({ ...base, obstacles: [pin(300, 100)] })
+    expect(l.extra).toBe(0)
+    expect(l.scale).toEqual({ x0: 14, y0: 264, x1: 114, y1: 289 })
+    expect(l.inset).toEqual({ x0: 14, y0: 200, x1: 94, y1: 260 })
+  })
+
+  it('moves the inset to the next clear corner when a pin sits above the scale bar', () => {
+    const obstacles = [pin(50, 230)]
+    const l = layoutInset({ ...base, obstacles })
+    expect(l.extra).toBe(0)
+    expect(l.inset).toEqual({ x0: 306, y0: 226, x1: 386, y1: 286 }) // bottom right
+    expect(clearOf(l, obstacles)).toBe(true)
+  })
+
+  it('tries top left, then top right', () => {
+    const obstacles = [pin(50, 230), pin(350, 250)]
+    expect(layoutInset({ ...base, obstacles }).inset).toMatchObject({ x0: 14, y0: 14 })
+    obstacles.push(pin(40, 40))
+    expect(layoutInset({ ...base, obstacles }).inset).toMatchObject({ x0: 306, y0: 14 })
+  })
+
+  it('extends the map below every obstacle in its column when no corner is clear', () => {
+    const obstacles = [pin(50, 230), pin(350, 250), pin(40, 40), pin(360, 40)]
+    const l = layoutInset({ ...base, obstacles })
+    expect(l.extra).toBeGreaterThan(0)
+    expect(clearOf(l, obstacles)).toBe(true)
+    // The column sits just below the lowest pin in its path: no more room than needed.
+    expect(l.inset!.y0).toBeLessThanOrEqual(230 + 12.5 + 4 + 2)
+    expect(l.scale!.y1).toBe(300 + l.extra - 11)
+  })
+
+  it('extends for a scale bar that would cover a pin, even with no inset', () => {
+    const obstacles = [pin(40, 280)]
+    const l = layoutInset({ ...base, inset: null, obstacles })
+    expect(l.inset).toBeNull()
+    expect(l.extra).toBeGreaterThan(0)
+    expect(clearOf(l, obstacles)).toBe(true)
+  })
+
+  it('does not move the inset to a corner while the scale bar itself covers something', () => {
+    const obstacles = [pin(40, 280)]
+    const l = layoutInset({ ...base, obstacles })
+    expect(l.extra).toBeGreaterThan(0)
+    expect(l.inset!.x0).toBe(14)
+    expect(clearOf(l, obstacles)).toBe(true)
+  })
+
+  it('never overlaps, over many random maps', () => {
+    let seed = 7
+    const rand = () => {
+      seed = (seed * 16807) % 2147483647
+      return seed / 2147483647
+    }
+    for (let t = 0; t < 300; t++) {
+      const width = 260 + Math.round(rand() * 500)
+      const height = Math.round(width * (0.42 + rand() * 0.6))
+      const obstacles = Array.from({ length: 1 + Math.floor(rand() * 12) }, () => {
+        const x = 14 + rand() * (width - 28)
+        const y = 14 + rand() * (height - 28)
+        const w = 5 + rand() * 90
+        return { x0: x - 12, y0: y - 12, x1: x + w, y1: y + 12 }
+      })
+      const l = layoutInset({ ...base, width, height, obstacles })
+      expect(clearOf(l, obstacles)).toBe(true)
+      expect(l.inset!.y0).toBeGreaterThanOrEqual(0)
+      expect(l.inset!.x1).toBeLessThanOrEqual(width)
+    }
+  })
+
+  it('makes room on a map too short to hold the inset', () => {
+    const l = layoutInset({ ...base, height: 80, obstacles: [] })
+    expect(l.inset!.y0).toBeGreaterThanOrEqual(base.pad)
+  })
+})
+
+describe('locator: locatorEnabled', () => {
+  it('reads the locator switch', () => {
+    expect(locatorEnabled(undefined)).toBe(true)
+    expect(locatorEnabled(true)).toBe(true)
+    expect(locatorEnabled('true')).toBe(true)
+    expect(locatorEnabled(false)).toBe(false)
+    expect(locatorEnabled('false')).toBe(false)
+    expect(locatorEnabled('Off')).toBe(false)
+    expect(locatorEnabled('none')).toBe(false)
   })
 })
