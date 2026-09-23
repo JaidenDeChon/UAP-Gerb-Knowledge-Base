@@ -1,5 +1,6 @@
 ---
 name: "Phoenix, Arizona"
+coordinates: [33.4483, -112.0739]
 location_type: "city"
 tags:
   - location

@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Arthur G. Stansel Jr. was an American aerospace engineer who served as a project engineer for the [[Atomic Energy Commission]] and the U.S. Air Force at [[Wright-Patterson Air Force Base]] during the early 1950s. He is the primary known witness to the alleged [[1953 Kingman, Arizona Crash Retrieval]], and the only witness to have produced a notarized sworn affidavit describing the incident. Stansel initially disclosed his account using the pseudonym "Fritz Werner" — a name borrowed from a German rocket scientist — when he came forward to UFO researcher [[Raymond Fowler]] in 1973. Fowler later confirmed Stansel's real identity and published it. His credentials are independently verifiable through declassified DOD records, D-Day service documentation, and Manhattan Project participant records, placing him among the more credentialed figures in the UAP crash retrieval literature.
+Arthur Glenn Stansel Jr. (1924–2006) was an American aerospace engineer who served as a project engineer for the [[Atomic Energy Commission]] and the U.S. Air Force at [[Wright-Patterson Air Force Base]] during the early 1950s. He is the primary known witness to the alleged [[1953 Kingman, Arizona Crash Retrieval]], and the only witness to have produced a notarized sworn affidavit describing the incident. Stansel initially disclosed his account using the pseudonym "Fritz Werner" — a name borrowed from a German rocket scientist — when he came forward to UFO researcher [[Raymond Fowler]] in 1973. Fowler later confirmed Stansel's real identity and published it. His credentials are independently verifiable through declassified DOD records, D-Day service documentation, and Manhattan Project participant records, placing him among the more credentialed figures in the UAP crash retrieval literature.
 
 ## Professional Background
 
@@ -13,7 +13,7 @@ Stansel served in World War II, participating in the D-Day landings in Normandy.
 
 At Wright-Patterson, Stansel was assigned to the Air Material Command Installation Division within the Office of Special Studies, which was headed by Dr. [[Eric Henry Wang]] — an Austrian-born scientist alleged by UAP researchers to have directed early non-human craft exploitation programs. Stansel's documented presence within Wang's organizational unit during a critical period of alleged UAP crash retrieval activity is a recurring data point in legacy program research.
 
-In early 1953, Stansel was working at [[Frenchman's Flat, Nevada]], at the [[Nevada Proving Ground]], measuring the blast effects of nuclear detonations on constructed structures as part of [[Operation Upshot-Knothole]] — a series of 11 tactical nuclear weapons tests overseen by the Atomic Energy Commission.
+In early 1953, Stansel was working at [[Frenchman's Flat, Nevada]], at the [[Nevada National Security Site (Nevada Test Site)|Nevada Proving Ground]], measuring the blast effects of nuclear detonations on constructed structures as part of [[Operation Upshot-Knothole]] — a series of 11 tactical nuclear weapons tests overseen by the Atomic Energy Commission.
 
 ## The Kingman Incident
 
@@ -35,7 +35,7 @@ Separately from his 1973 affidavit, Stansel's personal diary from his time as a 
 
 ## Researcher Investigation
 
-[[Richard Gild Jr.]] conducted archival research that confirmed Stansel's professional background — his employment at Wright-Patterson, his AEC contract work, and his involvement in nuclear testing programs — through records including a Medium article Gild published. This independent verification distinguishes Stansel from more contested figures in UAP disclosure who lack verifiable biographical records.
+[[Richard Geldreich Jr.]] conducted archival research that confirmed Stansel's professional background — his employment at Wright-Patterson, his AEC contract work, and his involvement in nuclear testing programs — through records including a Medium article Gild published. This independent verification distinguishes Stansel from more contested figures in UAP disclosure who lack verifiable biographical records.
 
 ## Connection to Eric Henry Wang
 

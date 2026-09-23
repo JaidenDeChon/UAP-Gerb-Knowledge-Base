@@ -252,7 +252,7 @@ tags:
 - [[Richard Bissell Jr.]]
 - [[Richard Boylan]]
 - [[Richard Dolan]]
-- [[Richard Gild Jr.]]
+- [[Richard Geldreich Jr.]]
 - [[Richard Haver]]
 - [[Richard Nixon]]
 - [[Richard Sauder]]

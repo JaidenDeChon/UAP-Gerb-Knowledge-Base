@@ -4,7 +4,7 @@ tags:
   - operation
 ---
 
-**Operation Upshot-Knothole** was a series of 11 nuclear weapons test shots conducted at the [[Nevada Proving Ground]] (also known as the Nevada Test Site) between March 17 and June 4, 1953. The operation was orchestrated by the [[Atomic Energy Commission]] with the objective of developing and testing tactical nuclear weapons to prepare the U.S. military for atomic combat scenarios. The tests involved an estimated 18,000 to 21,000 Department of Defense personnel and represented a significant expansion of the U.S. nuclear weapons program during the early Cold War period.
+**Operation Upshot-Knothole** was a series of 11 nuclear weapons test shots conducted at the [[Nevada National Security Site (Nevada Test Site)|Nevada Proving Ground]] (also known as the Nevada Test Site) between March 17 and June 4, 1953. The operation was orchestrated by the [[Atomic Energy Commission]] with the objective of developing and testing tactical nuclear weapons to prepare the U.S. military for atomic combat scenarios. The tests involved an estimated 18,000 to 21,000 Department of Defense personnel and represented a significant expansion of the U.S. nuclear weapons program during the early Cold War period.
 
 ## Test Program
 
