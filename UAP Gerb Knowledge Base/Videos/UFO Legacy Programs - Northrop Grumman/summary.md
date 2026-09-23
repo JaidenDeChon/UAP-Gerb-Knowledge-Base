@@ -38,7 +38,7 @@ The connection is supported by timeline analysis: the lawsuit's roots trace to 1
 
 Northrop Grumman's [[C4ISR]] (Command, Control, Communications, Computers, Intelligence, Surveillance, Reconnaissance) operations are identified as potential UAP program covers. As a premier contractor for the [[Strategic Defense Initiative]] under Reagan (1983), Northrop created the first laser radar used in space. The video develops a thesis that SDI, officially for Soviet ICBM defense, secretly studied offensive capabilities against UAPs and siphoned funds to programs like the alleged [[DARC]] (Defense Advanced Research Center).
 
-[[SAIC]], which the video identifies as running an [[Off-World Technologies Division]] at [[Naval Surface Warfare Center Crane]], secures massive C4ISR contracts at that facility. A Lockheed Martin ISR case study is cited: Lockheed reconfigured a two-phase security classification system for the [[National Geospatial-Intelligence Agency]] (NGA) — the same agency [[David Grusch]] liaised with during his time with the [[UAP Task Force]], and recently implicated by journalist [[Chris Sharp]] in undersea UAP crash retrievals. This system was implemented at [[Nellis Air Force Base]]'s Combined Air and Space Operations Center. The video speculates C4ISR contracts may serve dual functions: legitimate military intelligence systems and data processing for UAP tracking, crash retrieval coordination, and ARV testing.
+[[SAIC]], which the video identifies as running an [[Off-World Technologies Division]] at [[Naval Surface Warfare Center Crane]], secures massive C4ISR contracts at that facility. A Lockheed Martin ISR case study is cited: Lockheed reconfigured a two-phase security classification system for the [[National Geospatial-Intelligence Agency]] (NGA) — the same agency [[David Grusch]] liaised with during his time with the [[UAP Task Force]], and recently implicated by journalist [[Christopher Sharp]] in undersea UAP crash retrievals. This system was implemented at [[Nellis Air Force Base]]'s Combined Air and Space Operations Center. The video speculates C4ISR contracts may serve dual functions: legitimate military intelligence systems and data processing for UAP tracking, crash retrieval coordination, and ARV testing.
 
 ## The Tejon Ranch RCS Facility and Underground Operations
 
@@ -153,7 +153,7 @@ Contractors like Northrop Grumman, Lockheed Martin, Boeing, and SAIC operate in 
 - [[Robert Oechsler]]
 - [[Katherine Austin Fitts]]
 - [[David Grusch]]
-- [[Chris Sharp]]
+- [[Christopher Sharp]]
 - [[Bill McDonald]]
 - [[Michael Schratt]]
 - [[T. Townsend Brown]]

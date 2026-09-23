@@ -12,7 +12,7 @@ UAP Gerb alleges that NAVAIR's program executive offices (PEOs) at Pax River hou
 
 ## Congressional Site Visit
 
-Representative [[Eric Burlison]] conducted a site visit to Pax River, accompanied by White House staff, specifically looking for hangar facilities that could have been used to store recovered non-human vehicles. Burlison reported he did not find direct evidence of such storage but stated the facility would be, logistically, "the perfect venue" for a vehicle transfer — referencing infrastructure reportedly considered for a transfer of material from Lockheed Martin to Bigelow Aerospace. Investigative journalist [[Chris Sharp]] of Liberation Times separately reported, citing sources, that a vehicle or vehicles of unknown origin were or currently are being stored at Pax River.
+Representative [[Eric Burlison]] conducted a site visit to Pax River, accompanied by White House staff, specifically looking for hangar facilities that could have been used to store recovered non-human vehicles. Burlison reported he did not find direct evidence of such storage but stated the facility would be, logistically, "the perfect venue" for a vehicle transfer — referencing infrastructure reportedly considered for a transfer of material from Lockheed Martin to Bigelow Aerospace. Investigative journalist [[Christopher Sharp]] of Liberation Times separately reported, citing sources, that a vehicle or vehicles of unknown origin were or currently are being stored at Pax River.
 
 ## Sources
 
@@ -26,4 +26,4 @@ Representative [[Eric Burlison]] conducted a site visit to Pax River, accompanie
 - [[Naval Surface Warfare Center Crane]]
 - [[Naval Undersea Warfare Center Keyport]]
 - [[Eric Burlison]]
-- [[Chris Sharp]]
+- [[Christopher Sharp]]

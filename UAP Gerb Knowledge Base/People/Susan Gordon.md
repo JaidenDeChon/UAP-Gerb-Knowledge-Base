@@ -9,7 +9,7 @@ Susan M. Gordon is a former senior U.S. intelligence official who served as Prin
 
 ## MITRE Board of Trustees
 
-Following her federal intelligence career, Gordon joined the board of trustees of the [[MITRE Corporation]]. UAP Gerb cites Gordon's trajectory — from senior CIA and NGA leadership directly into a MITRE trustee seat — as part of a broader pattern of former senior intelligence officials with alleged UFO legacy program proximity moving into MITRE governance roles, alongside [[Donald Kerr]] and [[Don Meyer]].
+Following her federal intelligence career, Gordon joined the board of trustees of the [[MITRE Corporation]]. UAP Gerb cites Gordon's trajectory — from senior CIA and NGA leadership directly into a MITRE trustee seat — as part of a broader pattern of former senior intelligence officials with alleged UFO legacy program proximity moving into MITRE governance roles, alongside [[Donald M. Kerr]] and [[Dawn Meyerriecks]].
 
 ## Sources
 
@@ -19,5 +19,5 @@ Following her federal intelligence career, Gordon joined the board of trustees o
 
 - [[MITRE Corporation]]
 - [[Stephanie O'Sullivan]]
-- [[Donald Kerr]]
+- [[Donald M. Kerr]]
 - [[James Clapper]]

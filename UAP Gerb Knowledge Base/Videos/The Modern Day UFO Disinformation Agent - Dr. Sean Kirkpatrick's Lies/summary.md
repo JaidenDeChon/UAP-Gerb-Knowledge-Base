@@ -45,7 +45,7 @@ Additional documented failures cited:
 
 ## Sand Corp — AARO's Whistleblower Suppression Contract
 
-In 2022, the DOD awarded a $1.9 million contract to [[Sand Corp]] for "AARO Support Services." The presenter identifies Sand Corp as a company whose specialization is **preventing leaks and stopping whistleblowers** — the inverse of what a legitimate investigative body would contract. [[Ronald S. Moltry]]'s office (Under Secretary of Defense for Intelligence and Security) was involved in securing this contract. The presenter argues this is the most damning structural evidence that AARO was a disinformation front, not a genuine investigation.
+In 2022, the DOD awarded a $1.9 million contract to [[Sand Corp]] for "AARO Support Services." The presenter identifies Sand Corp as a company whose specialization is **preventing leaks and stopping whistleblowers** — the inverse of what a legitimate investigative body would contract. [[Ronald S. Moultrie]]'s office (Under Secretary of Defense for Intelligence and Security) was involved in securing this contract. The presenter argues this is the most damning structural evidence that AARO was a disinformation front, not a genuine investigation.
 
 ## Robertson Panel Parallel
 
@@ -66,7 +66,7 @@ The presenter quotes attendee Anthony Miller's LinkedIn account of Kirkpatrick's
 - Kirkpatrick's claim that no witnesses approached AARO is directly contradicted by congressional testimony and public statements from Chris Mellon, Luis Elizondo, and David Grusch.
 - A DOD OIG report confirms DOD has no overarching UAP policy, undermining AARO's stated mission.
 - AARO contracted Sand Corp — a whistleblower suppression firm — for $1.9M in 2022, suggesting AARO was structurally designed to suppress rather than investigate UAP disclosures.
-- Kirkpatrick's post-departure connections to Battelle/Oak Ridge National Laboratory parallel similar connections alleged against Ronald S. Moltry and raise conflict-of-interest concerns.
+- Kirkpatrick's post-departure connections to Battelle/Oak Ridge National Laboratory parallel similar connections alleged against Ronald S. Moultrie and raise conflict-of-interest concerns.
 - Pentagon spokesperson Susan Gough's constant oversight of Kirkpatrick at public events suggests his communications were institutionally monitored.
 
 ## Sources
@@ -75,7 +75,7 @@ The presenter quotes attendee Anthony Miller's LinkedIn account of Kirkpatrick's
 
 ## Related Pages
 
-- **People**: [[Sean Kirkpatrick]], [[David Grusch]], [[Luis Elizondo]], [[Chris Mellon]], [[Ronald S. Moltry]], [[Hal Puthoff]], [[Eric Davis]], [[Harry Reid]], [[Ryan Graves]], [[Ross Coulthart]], [[Jesse Marcel]]
+- **People**: [[Sean Kirkpatrick]], [[David Grusch]], [[Luis Elizondo]], [[Chris Mellon]], [[Ronald S. Moultrie]], [[Hal Puthoff]], [[Eric Davis]], [[Harry Reid]], [[Ryan Graves]], [[Ross Coulthart]], [[Jesse Marcel]]
 - **Organizations**: [[AARO]], [[Sand Corp]], [[Battelle Memorial Institute]], [[Oak Ridge National Laboratory]], [[AATIP (Advanced Aerospace Threat Identification Program)]]
 - **Concepts**: [[Disinformation]], [[Robertson Panel]], [[Non-Human Intelligence (NHI)]], [[Special Access Programs (SAPs)]], [[Wilson-Davis Memo]], [[Atomic Energy Act of 1954]], [[Project Moon Dust]]
 - **Events**: [[2024 NDAA UAP Provisions]]

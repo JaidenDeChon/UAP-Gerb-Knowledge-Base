@@ -14,7 +14,7 @@ tags:
 
 This video argues that [[SAIC]] (referred to throughout the narration as "SIC") operates as a central contractor within alleged U.S. [[UFO Legacy Programs]], with influence spanning procurement, gatekeeping, and classified research support. The core thesis is that SAIC's corporate structure, revolving-door hiring from the defense-intelligence bureaucracy, and long-running access to sensitive programs make it a plausible node for concealment and exploitation of claimed non-human technology.
 
-The presentation combines historical corporate analysis with testimonial claims. It links SAIC to controversies around [[AARO]] leadership, especially [[Sean Kirkpatrick]] and [[Ronald S. Moltry]], and frames those relationships as evidence of institutional information control. It also revisits allegations from [[Randy Anderson]] concerning the [[Off-World Technologies Division]] at [[Naval Surface Warfare Center Crane]], arguing SAIC contract activity at Crane is materially relevant to those claims.
+The presentation combines historical corporate analysis with testimonial claims. It links SAIC to controversies around [[AARO]] leadership, especially [[Sean Kirkpatrick]] and [[Ronald S. Moultrie]], and frames those relationships as evidence of institutional information control. It also revisits allegations from [[Randy Anderson]] concerning the [[Off-World Technologies Division]] at [[Naval Surface Warfare Center Crane]], arguing SAIC contract activity at Crane is materially relevant to those claims.
 
 A second major thread is finance. Citing [[Catherine Austin Fitts]], [[Denise McKenzie]], and prior disclosure-era narratives, the video claims black-budget channels and contract mischarging mechanisms have historically routed public funds into compartmented projects. The narrative places SAIC within that funding architecture alongside other defense firms, and treats these financial patterns as indirect evidence for protected UAP-related work.
 
@@ -65,6 +65,6 @@ The video then returns to [[Naval Surface Warfare Center Crane]], arguing SAIC's
 
 ## Related Pages
 
-- **People**: [[J. Robert Beyster]], [[Sean Kirkpatrick]], [[Ronald S. Moltry]], [[Michael Herrera]], [[Thomas Wilson]], [[Will Miller]], [[John Deutsch]], [[William A. Owens]], [[Catherine Austin Fitts]], [[Denise McKenzie]], [[Randy Anderson]], [[Bobby Ray Inman]], [[Donald M. Kerr]]
+- **People**: [[J. Robert Beyster]], [[Sean Kirkpatrick]], [[Ronald S. Moultrie]], [[Michael Herrera]], [[Thomas Wilson]], [[Will Miller]], [[John Deutsch]], [[William A. Owens]], [[Catherine Austin Fitts]], [[Denise McKenzie]], [[Randy Anderson]], [[Bobby Ray Inman]], [[Donald M. Kerr]]
 - **Organizations**: [[SAIC]], [[AARO]], [[Sand Corp]], [[Battelle Memorial Institute]], [[MITRE Corporation]], [[Naval Surface Warfare Center Crane]], [[EG&G]], [[Decision Science Applications, Inc. (DSAI)]], [[L3 Communications]], [[Leidos]], [[NSA]], [[NRO (National Reconnaissance Office)]]
 - **Concepts**: [[UFO Legacy Programs]], [[Black Budget]], [[Independent Research and Development (IRAD)]], [[Strategic Defense Initiative (SDI)]], [[Project Stargate]], [[AARO Historical Report Volume 1]], [[Wilson-Davis Memo]], [[Off-World Technologies Division]]

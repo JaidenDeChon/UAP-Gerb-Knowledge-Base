@@ -39,7 +39,7 @@ Eight of fourteen former SECAF ATNL officials examined by the presenter had corp
 
 - **[[Randall G. Walden]]**: RCO Director and Program Executive Officer, member of the Senior Executive Service. The presenter calls on the current presidential administration to question Walden directly about UFO legacy program operations.
 - **[[Russell E. Wiler]]**: Alleged Air Force gatekeeper for the UAP crash retrieval portfolio. Served as Director of the Sensitive Activities Office (SAF/AA) from 2009 to 2024, then moved to Director of Plans and Effects at the [[Office of Competitive Activities]]. Member of the Defense Intelligence Senior Executive Service.
-- **[[Ronald S. Moltry]]**: Former USD I&S who allegedly helped establish [[AARO]] on July 20, 2022, and installed [[Sean Kirkpatrick]] as its director. Accused of deleting references to [[Battelle Memorial Institute]] and [[Oak Ridge National Laboratory FFRDC]] from his public CV.
+- **[[Ronald S. Moultrie]]**: Former USD I&S who allegedly helped establish [[AARO]] on July 20, 2022, and installed [[Sean Kirkpatrick]] as its director. Accused of deleting references to [[Battelle Memorial Institute]] and [[Oak Ridge National Laboratory FFRDC]] from his public CV.
 - **[[Sean Kirkpatrick]]**: Former AARO Director. Accused of lying, deception, and active interference against UAP whistleblowers. Allegedly joined Oak Ridge National Lab FFRDC as CTO for defense and intelligence programs following his AARO tenure, with the job posting later removed.
 - **[[Eric Henry Wang]]**: Described as a key historical figure in UFO legacy program discussions, with ties to the [[Air Force Research Laboratory]] at Wright Patterson and Kirtland Air Force Bases and involvement in the AFSWC research and development directorate. Connected by prior witnesses to the 1953 Kingman, Arizona crash retrieval.
 - **[[Dylan Borland]]**: Military whistleblower who testified to observing a large triangular craft with apparent electro-optic cloaking over [[Langley Air Force Base]] around 2012.
@@ -59,9 +59,9 @@ Eight of fourteen former SECAF ATNL officials examined by the presenter had corp
 
 ## The AARO Controversy
 
-The presenter alleges that [[AARO]] was deliberately designed not as a genuine investigative body but as a whistleblower honeypot — a mechanism to identify and neutralize individuals with knowledge of UAP legacy programs. [[Ronald S. Moltry]], as USD I&S, announced AARO's creation on July 20, 2022, and installed [[Sean Kirkpatrick]] as its first director. Kirkpatrick is accused of lying, deception, and active interference against whistleblowers seeking to expose these programs.
+The presenter alleges that [[AARO]] was deliberately designed not as a genuine investigative body but as a whistleblower honeypot — a mechanism to identify and neutralize individuals with knowledge of UAP legacy programs. [[Ronald S. Moultrie]], as USD I&S, announced AARO's creation on July 20, 2022, and installed [[Sean Kirkpatrick]] as its first director. Kirkpatrick is accused of lying, deception, and active interference against whistleblowers seeking to expose these programs.
 
-Both Moltry and Kirkpatrick are alleged to have deleted references to the [[Battelle Memorial Institute]] and [[Oak Ridge National Laboratory FFRDC]] from their public professional biographies. Oak Ridge National Laboratory FFRDC, managed by Battelle, is rumored to be involved in recovered UFO systems analysis. Kirkpatrick allegedly subsequently joined Oak Ridge as CTO for defense and intelligence programs — a job posting that was later deleted.
+Both Moultrie and Kirkpatrick are alleged to have deleted references to the [[Battelle Memorial Institute]] and [[Oak Ridge National Laboratory FFRDC]] from their public professional biographies. Oak Ridge National Laboratory FFRDC, managed by Battelle, is rumored to be involved in recovered UFO systems analysis. Kirkpatrick allegedly subsequently joined Oak Ridge as CTO for defense and intelligence programs — a job posting that was later deleted.
 
 Classified DoD directives governing SAF/AH sensitive activities are alleged to trace back to classified presidential executive orders from the Truman and Eisenhower administrations, suggesting the bureaucratic infrastructure for concealing UAP programs predates AARO by decades.
 
@@ -100,7 +100,7 @@ The presenter alleges that [[Chris Mellon]], [[Lou Alzando]], and an associated 
 - [[Randall G. Walden]]
 - [[Russell E. Wiler]]
 - [[Sean Kirkpatrick]]
-- [[Ronald S. Moltry]]
+- [[Ronald S. Moultrie]]
 - [[Dylan Borland]]
 - [[Chris Mellon]]
 - [[Eric Henry Wang]]

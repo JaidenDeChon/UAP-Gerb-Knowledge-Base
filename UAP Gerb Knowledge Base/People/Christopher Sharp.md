@@ -27,8 +27,13 @@ The sequence of publication, redaction, threat acknowledgment, and restoration â
 
 Sharp's prior identification of the CIA DS&T as a gatekeeper of UAP materials is consistent with other sources: former CIA DS&T director Glenn Gaffney has been labeled as the gatekeeper who blocked Lockheed Martin's attempts to divest UFO materials in 2008, and former CIA DS&T deputy director Doug Wolfe aided in founding the CIA Office of Global Access in 2003.
 
+## Patuxent River Storage Report
+
+In an article titled "UFO allegedly stored at East Coast Naval Facility as material transfer claims resurface," Sharp reported sources' claims that a vehicle or vehicles of unknown origin were, or still are, stored at [[Naval Air Station Patuxent River]]. UAP Gerb cites the report as corroboration of Pax River's alleged role as the operational nexus of a Navy-administered, [[MITRE Corporation|MITRE]]-led reverse-engineering program. Separately, Representative [[Eric Burlison]] visited Pax River with White House staff to look for hangars that could have stored recovered vehicles, including the facility reportedly considered for a transfer from Lockheed Martin to Bigelow Aerospace.
+
 ## Sources
 
 - [[US Navy UFO Crash Retrieval & Reverse Engineering Programs]]
 - [[The 1933 Magenta, Italy UFO Crash]]
 - [[National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers]]
+- [[Video - The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]

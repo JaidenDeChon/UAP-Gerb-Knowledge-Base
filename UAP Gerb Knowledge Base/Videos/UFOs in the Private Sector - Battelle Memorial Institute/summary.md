@@ -16,7 +16,7 @@ This video investigates the role of [[Battelle Memorial Institute]] — a privat
 
 The video's central evidentiary thread runs through [[Nitinol (Nickel-Titanium Alloy)]] — a shape-memory metal that was not officially discovered until 1961 — and documents that Battelle was performing classified analysis on this exact alloy under [[Wright-Patterson Air Force Base]] contract as early as 1949. The presenter argues this research stemmed directly from material recovered in the 1947 Roswell crash and was conducted by Battelle senior chemical engineer [[EJ Center]], who later (in a 1994 [[Mutual UFO Network]] report) told his daughter he had been "responsible for a project which required him to study Parts retrieved from a flying saucer."
 
-A second major strand connects Battelle to active modern suppression of the UAP narrative through [[Ronald S. Moltry]], the Under Secretary of Defense for Intelligence and Security. Moltry has served on Battelle's advisory board since 2016, oversaw [[AARO]] director [[Sean Kirkpatrick]], jointly held a December 2022 press conference denying any evidence of crashed extraterrestrial craft, and was responsible for awarding [[Sand Corp]] — a whistleblower suppression contractor — a $1.9 million AARO support contract. Moltry allegedly attempted to remove evidence of his Battelle board membership from his LinkedIn profile, but the association was preserved in screenshots by POGO.org. The overall thesis is that Battelle has exercised sustained, bipartite influence over the UFO issue: conducting real analysis of recovered materials while simultaneously managing public perception to deny their existence.
+A second major strand connects Battelle to active modern suppression of the UAP narrative through [[Ronald S. Moultrie]], the Under Secretary of Defense for Intelligence and Security. Moultrie has served on Battelle's advisory board since 2016, oversaw [[AARO]] director [[Sean Kirkpatrick]], jointly held a December 2022 press conference denying any evidence of crashed extraterrestrial craft, and was responsible for awarding [[Sand Corp]] — a whistleblower suppression contractor — a $1.9 million AARO support contract. Moultrie allegedly attempted to remove evidence of his Battelle board membership from his LinkedIn profile, but the association was preserved in screenshots by POGO.org. The overall thesis is that Battelle has exercised sustained, bipartite influence over the UFO issue: conducting real analysis of recovered materials while simultaneously managing public perception to deny their existence.
 
 ## Project Stork and UFO Investigation (1952–1955)
 
@@ -42,9 +42,9 @@ On the December 4, 2020 episode of The Joe Rogan Experience (JRE #1574), compute
 
 ## Battelle, AARO, and Modern Suppression
 
-[[Ronald S. Moltry]], as Under Secretary of Defense for Intelligence and Security, was the senior official to whom both AARO and [[Sean Kirkpatrick]] reported. Moltry's office oversaw the December 2022 [[Sand Corp]] contract award ($1.9 million for "AARO Support Services"), with Sand Corp specializing in preventing leaks and stopping whistleblowers. On December 16, 2022, Moltry and Kirkpatrick jointly held a public press conference asserting they had found no evidence of crashed UFOs of extraterrestrial or extra-dimensional origin.
+[[Ronald S. Moultrie]], as Under Secretary of Defense for Intelligence and Security, was the senior official to whom both AARO and [[Sean Kirkpatrick]] reported. Moultrie's office oversaw the December 2022 [[Sand Corp]] contract award ($1.9 million for "AARO Support Services"), with Sand Corp specializing in preventing leaks and stopping whistleblowers. On December 16, 2022, Moultrie and Kirkpatrick jointly held a public press conference asserting they had found no evidence of crashed UFOs of extraterrestrial or extra-dimensional origin.
 
-POGO.org documented Moltry's Battelle advisory board membership (since 2016) and preserved screenshots of the record before Moltry removed it from his LinkedIn profile. [[David Grusch]] has identified Moltry as among the likely "Hostile Witnesses" blocking UAP disclosure. The presenter frames Moltry's attempted erasure of his Battelle connection as evidence of awareness that the association was compromising in the context of UAP oversight.
+POGO.org documented Moultrie's Battelle advisory board membership (since 2016) and preserved screenshots of the record before Moultrie removed it from his LinkedIn profile. [[David Grusch]] has identified Moultrie as among the likely "Hostile Witnesses" blocking UAP disclosure. The presenter frames Moultrie's attempted erasure of his Battelle connection as evidence of awareness that the association was compromising in the context of UAP oversight.
 
 ## Key Claims
 
@@ -54,8 +54,8 @@ POGO.org documented Moltry's Battelle advisory board membership (since 2016) and
 - [[EJ Center]], a Battelle senior chemical engineer who worked on the 1949 nitinol study, disclosed to an acquaintance in 1958 that he had studied "parts retrieved from a flying saucer."
 - The 1949 nitinol research was classified under an [[Atomic Energy Commission]] "restricted" standard that prevented access even by cleared SAP holders, and was not declassified until 2010.
 - [[Jacques Vallee]] and [[James Fox]] implicitly identified Battelle as the private contractor holding UFO materials during Joe Rogan Experience episode 1574 (December 4, 2020).
-- [[Ronald S. Moltry]], who oversaw AARO and Kirkpatrick and held a press conference denying crash recoveries, has served on Battelle's advisory board since 2016 and attempted to suppress evidence of this association.
-- The $1.9 million [[Sand Corp]] contract awarded to AARO in 2022 — for whistleblower suppression services — was overseen by Moltry's USD I&S office.
+- [[Ronald S. Moultrie]], who oversaw AARO and Kirkpatrick and held a press conference denying crash recoveries, has served on Battelle's advisory board since 2016 and attempted to suppress evidence of this association.
+- The $1.9 million [[Sand Corp]] contract awarded to AARO in 2022 — for whistleblower suppression services — was overseen by Moultrie's USD I&S office.
 
 ## Sources
 
@@ -63,7 +63,7 @@ POGO.org documented Moltry's Battelle advisory board membership (since 2016) and
 
 ## Related Pages
 
-- **People**: [[EJ Center]], [[Howard C. Cross]], [[Ronald S. Moltry]], [[Sean Kirkpatrick]], [[David Grusch]], [[Jacques Vallee]], [[James Fox]], [[Jesse Marcel]], [[Mac Brazel]], [[J. Allen Hynek]], [[Edward J. Ruppelt]], [[Irene Scott]]
+- **People**: [[EJ Center]], [[Howard C. Cross]], [[Ronald S. Moultrie]], [[Sean Kirkpatrick]], [[David Grusch]], [[Jacques Vallee]], [[James Fox]], [[Jesse Marcel]], [[Mac Brazel]], [[J. Allen Hynek]], [[Edward J. Ruppelt]], [[Irene Scott]]
 - **Organizations**: [[Battelle Memorial Institute]], [[Sand Corp]], [[AARO]], [[Air Force Technical Intelligence Center]], [[Atomic Energy Commission]], [[Mutual UFO Network]]
 - **Locations**: [[Roswell, New Mexico]], [[Wright-Patterson Air Force Base]], [[Los Alamos National Laboratory]]
 - **Concepts**: [[Nitinol (Nickel-Titanium Alloy)]], [[Shape Memory Alloy]], [[Robertson Panel]]

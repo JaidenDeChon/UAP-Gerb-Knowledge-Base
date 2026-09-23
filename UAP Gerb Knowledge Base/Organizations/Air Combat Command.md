@@ -17,7 +17,7 @@ UAP Gerb's "Hidden Wing" investigation theorizes that ACC, through its position 
 
 The sighting by [[Dylan Borland]] at Langley AFB around 2012 — a large equilateral triangular craft with apparent electro-optic active camouflage hovering silently over a NASA hangar — is cited as circumstantial evidence of classified airframe test and evaluation activities at an ACC installation. The craft's observed characteristics, including gold plasma-like surface flow and a black metallic exterior, are consistent with descriptions of advanced electro-optic cloaking technologies theorized to derive from non-human intelligence.
 
-[[Shipton]], who served as Military Deputy in the Office of the Assistant Secretary of the Air Force for Acquisition, Technology and Logistics and held responsibility for $60 billion in annual R&D, test, production, and modernization programs, is theorized by researchers to be among the senior officials with potential read-in status for these programs.
+[[Donna D. Shipton]], who served as Military Deputy in the Office of the Assistant Secretary of the Air Force for Acquisition, Technology and Logistics and held responsibility for $60 billion in annual R&D, test, production, and modernization programs, is theorized by researchers to be among the senior officials with potential read-in status for these programs.
 
 ## Sources
 

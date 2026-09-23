@@ -21,7 +21,7 @@ In a September 2025 hearing, Burlison presented military video footage as part o
 
 ## MITRE Interrogative Letter
 
-Burlison, working with [[David Grusch]], released a detailed legal interrogative letter — more than ten pages — to the [[MITRE Corporation]], received by MITRE senior vice president [[Christopher Land]]. The letter establishes a preservation obligation on MITRE covering contracts and sponsor relationships, classified Special Access Program oversight visibility, sensor and domain-awareness data related to UAP/USO detection, materials and technology exploitation records, secure facilities, third-party contractor relationships, and budgeting and funding controls, in connection with UAP Gerb's allegations that MITRE has managed a decades-old Navy technology reverse-engineering program and a USO-monitoring program nicknamed the "[[Tic Tac Factory]]."
+Burlison, working with [[David Grusch]], sent a detailed legal interrogative letter of more than ten pages, dated 22 May 2026, to the [[MITRE Corporation]], received by MITRE senior vice president [[Christopher Land]]. The letter establishes a preservation obligation on MITRE covering contracts and sponsor relationships, classified Special Access Program oversight visibility, sensor and domain-awareness data related to UAP/USO detection, materials and technology exploitation records, secure facilities, third-party contractor relationships, and budgeting and funding controls, in connection with UAP Gerb's allegations that MITRE has managed a decades-old Navy technology reverse-engineering program and a USO-monitoring program nicknamed the "[[Tic Tac Factory]]."
 
 ## Naval Whistleblower Meeting
 

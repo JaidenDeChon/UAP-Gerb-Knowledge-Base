@@ -31,13 +31,13 @@ The significance of this disclosure rests on a critical timing detail: Center ma
 
 On December 4, 2020, during Joe Rogan Experience episode #1574, computer scientist and UAP researcher [[Jacques Vallee]] referenced a private contractor in possession of recovered UFO materials, declining to name the organization. Documentary filmmaker [[James Fox]] then implied the organization's identity by referencing its connection to the 1953 [[Robertson Panel]] — a pointer uniquely consistent with Battelle Memorial Institute, which was the contractor conducting Project Stork at the time of the panel.
 
-## Modern Connections — Ronald Moltry and AARO
+## Modern Connections — Ronald Moultrie and AARO
 
-[[Ronald S. Moltry]], who served as Under Secretary of Defense for Intelligence and Security (USD I&S), has been a member of Battelle's advisory board since 2016. In his USD I&S role, Moltry announced the creation of [[AARO]] in July 2022 and appointed [[Sean Kirkpatrick]] as its director. Both AARO and Kirkpatrick reported directly to Moltry's office.
+[[Ronald S. Moultrie]], who served as Under Secretary of Defense for Intelligence and Security (USD I&S), has been a member of Battelle's advisory board since 2016. In his USD I&S role, Moultrie announced the creation of [[AARO]] in July 2022 and appointed [[Sean Kirkpatrick]] as its director. Both AARO and Kirkpatrick reported directly to Moultrie's office.
 
-In December 2022, Moltry's office oversaw the awarding of a $1.9 million "AARO Support Services" contract to [[Sand Corp]], a firm specializing in whistleblower suppression and leak prevention. On December 16, 2022, Moltry and Kirkpatrick jointly held a public press conference asserting they had found no evidence of crashed UFOs of extraterrestrial or extra-dimensional origin.
+In December 2022, Moultrie's office oversaw the awarding of a $1.9 million "AARO Support Services" contract to [[Sand Corp]], a firm specializing in whistleblower suppression and leak prevention. On December 16, 2022, Moultrie and Kirkpatrick jointly held a public press conference asserting they had found no evidence of crashed UFOs of extraterrestrial or extra-dimensional origin.
 
-POGO.org documented Moltry's Battelle advisory board membership and preserved screenshots of his online professional biography before Moltry removed the reference from his LinkedIn profile. UAP researchers, including UAP Gerb, argue that Moltry's dual role — simultaneously suppressing UAP disclosure through AARO and serving on the board of the organization alleged to hold recovered UAP materials — represents a conflict of interest that is structurally foundational to ongoing UAP secrecy.
+POGO.org documented Moultrie's Battelle advisory board membership and preserved screenshots of his online professional biography before Moultrie removed the reference from his LinkedIn profile. UAP researchers, including UAP Gerb, argue that Moultrie's dual role — simultaneously suppressing UAP disclosure through AARO and serving on the board of the organization alleged to hold recovered UAP materials — represents a conflict of interest that is structurally foundational to ongoing UAP secrecy.
 
 ## Sources
 
