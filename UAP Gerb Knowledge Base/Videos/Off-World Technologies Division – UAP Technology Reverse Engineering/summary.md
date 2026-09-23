@@ -329,19 +329,39 @@ The two soldiers were escorted out the way they came, given a brief debrief, and
 
 RA did not go to [[AARO]], [[David Grusch]], [[Luis Elizondo]] or [[Chris Mellon]]. In a closing aside the host adds that in late July 2023 RA emailed [[Steven Greer]]'s [[Disclosure Project]] and heard nothing back. His file there is, the host believes, witness number 10127. RA still performs opposing-force ("OPFOR") training for Special Forces units at [[Area 51]] under DoD and Department of Energy contracts. That work has exposed him to sphere drones he says are often mistaken for UAP, to drones disguised as local fauna used in Syria, and to accounts of human-made triangular craft using [[Electrogravitics|electrogravitic]] propulsion. He estimates that many modern orb sightings are military drones.
 
-RA separates those human-made triangles from a large triangle a trusted military contact described to him. He believes the contact's craft was non-human, and he does not accept it as the alleged [[TR-3B]]:
+RA separates those human-made triangles from a large triangle a trusted military contact described to him. He believes the contact's craft was non-human, and he does not accept it as the alleged [[TR-3B]]. He says he asked the contact questions he knew to ask, and the answers did not match what he knows of the human-made craft on any point:
 
-::wiki-grid{cols=2}
-::wiki-panel{title="Human-made triangles, per RA"}
-- **Lights:** three, of an almost incandescent kind, switched on and off.
-- **Size:** nowhere near the contact's craft.
-- **Sound:** give off a distinctive noise.
-::
-::wiki-panel{title="The contact's triangle" tone="accent"}
-- **Lights:** seven, eight or maybe nine around the perimeter, always on, brightening and dimming as the craft moved.
-- **Size:** the contact's guess was three football fields.
-- **Sound:** completely silent.
-::
+::wiki-compare{video="QJ215I85d5M" video-title="Off-World Technologies Division – UAP Technology Reverse Engineering"}
+---
+caption: "RA's comparison of the triangles he knows to be human-made with the one his contact described. Every point differs, so no markers are used; the chips jump to where RA makes each point."
+attributeLabel: "Point"
+subjects:
+  - name: "Human-made triangles"
+    note: "Per RA, from his OPFOR work"
+  - name: "The contact's triangle"
+    note: "As a trusted military contact described it to RA"
+rows:
+  - attribute: "How the lights behave"
+    cue: 1719
+    cells:
+      - "Almost incandescent, switched on and off"
+      - "Always on, brightening and dimming as the craft moved"
+  - attribute: "Number of lights"
+    cue: 1747
+    cells:
+      - "Three, as far as RA knows"
+      - "Seven, eight or maybe nine, along the perimeter"
+  - attribute: "Size"
+    cue: 1763
+    cells:
+      - "Nowhere near the contact's craft"
+      - "About three football fields (the contact's guess)"
+  - attribute: "Sound"
+    cue: 1770
+    cells:
+      - "A distinctive, strange noise"
+      - "Completely silent"
+---
 ::
 
 In RA's words, everything he has seen since "pales in comparison" to the Off-World Technologies Division.

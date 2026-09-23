@@ -432,17 +432,39 @@ The host thinks the metal part of the story "may be suspect", but he says it is 
 
 For the host, the most troubling part of the case is what Willingham said about bodies. He compares three versions of the story:
 
-::wiki-grid{cols=3}
-::wiki-panel{title="1965 article and 1977 affidavit"}
-An F-94, in 1948. These are the first public telling and the sworn statement Todd Zechel obtained. The host says details this basic should not change.
+::wiki-compare{video="8S9qdRWSnD8" video-title="The 1950s Del Rio, Texas UFO Crashes"}
+---
+caption: "Three tellings of Willingham's story. \"Differs\" marks the details the host says contradict one another; a dash means that version does not say."
+attributeLabel: "Detail"
+subjects:
+  - name: "1965 article and 1977 affidavit"
+    note: "The first public telling, and the sworn statement Todd Zechel obtained"
+  - name: "The Other Roswell (2008)"
+    note: "Noe Torres and Ruben Uriarte's book, quoting Willingham"
+  - name: "Jeff Rense interview"
+    note: "Radio, 24 July 2012"
+rows:
+  - attribute: "Aircraft"
+    cue: 344
+    cells:
+      - { text: "F-94", mark: differs }
+      - { text: "F-86 Sabre", mark: differs }
+      - ""
+  - attribute: "Year"
+    cue: 355
+    cells:
+      - { text: "1948", mark: differs }
+      - { text: "1955", mark: differs }
+      - ""
+  - attribute: "Bodies"
+    cells:
+      - ""
+      - { text: "\"I never saw bodies. I was not able to get close enough.\" Any would have been under the dome", mark: differs, cue: 980 }
+      - { text: "Snuck up to a hole in the front: three dead beings (the lieutenant said four), unclothed, arms \"like broomsticks\"", mark: differs, cue: 1009 }
+---
 ::
-::wiki-panel{title="The Other Roswell (2008)" tone="accent"}
-An F-86, in 1955. In a chapter on bodies, with no mention of non-human beings: "I never saw bodies. I was not able to get close enough, and I don't know what happened after I left." Willingham suggests any bodies would have been under the dome section.
-::
-::wiki-panel{title="Jeff Rense interview (24 July 2012)"}
-Willingham tells [[Jeff Rense]] he "snuck around a little" to a hole torn in the front of the craft. He believes there were three dead beings; the lieutenant said four. They were unclothed and "in a lot of different pieces", with heads like the familiar big-eyed type and arms "like broomsticks". Noe Torres repeated the bodies claim in a 2023 presentation.
-::
-::
+
+The host says details as basic as the aircraft and the year should not change from one telling to the next, and the book's chapter on bodies makes no mention of non-human beings. Only in the [[Jeff Rense]] interview does Willingham describe the bodies: "in a lot of different pieces", with heads like the familiar big-eyed type. Noe Torres repeated the bodies claim in a 2023 presentation.
 
 The host rules out poor reporting in the book, since it quotes Willingham directly. He also refuses to excuse the change as failing memory in old age, because Willingham already uses that argument for the aircraft and the year. He has written to Torres for comment and calls the contradiction "a massive issue in Willingham's credibility".
 

@@ -456,14 +456,48 @@ The witness also describes attempts to shoot craft down: failures, one in Iran (
 
 The host returns to his previous video, *[[Videos/Off-World Technologies Division – UAP Technology Reverse Engineering/summary|Off-World Technologies Division]]*. There, witness TB described a general who showed classified UAP-derived cloaking technology to a BAE Systems employee in 2004 and was investigated, demoted a star and retired. The host identifies him as [[John M. Riggs]], a lieutenant general who retired in 2004–2005 as a major general, and suggests that Riggs could also be the Infographic Show's witness. :wiki-cue{t=2500 video="DcvuglS7ps4" video-title="US Special Forces Confession - Fact or Fiction"}
 
-| The witness's account | Riggs's career, as the host gives it |
-|---|---|
-| A soldier in Vietnam in 1968 | Enlisted in the US Army in 1965 |
-| Brought into the program in late 1969 | Commissioned a second lieutenant in 1969 |
-| Rapid reaction units on standby in theater | Became a helicopter pilot with about 1,000 flight hours and the Distinguished Flying Cross; the host suggests he flew such a unit and helped with perimeter security |
-| Moved to the program's administrative side | Rose to general officer and worked with Congress |
-| Europe a constant hot spot; the near-UK retrieval | Stationed at a US Army post in Germany |
-| Out of the program about twenty years, since c. 2004 | Forced to retire in 2004–2005, then became an aviation and strategic defense consultant |
+::wiki-compare{video="DcvuglS7ps4" video-title="US Special Forces Confession - Fact or Fiction"}
+---
+caption: "The host's case for Riggs, point by point: the witness's account beside Riggs's career as the host gives it. He calls it a theory resting on dates and coincidences, so no point is marked as a match; the chips jump to where he makes each one."
+attributeLabel: "Point"
+subjects:
+  - name: "Infographic Show Whistleblower"
+    note: "The account, per The Infographic Show"
+  - name: "John M. Riggs"
+    note: "His career, as the host gives it"
+rows:
+  - attribute: "Start"
+    cue: 2518
+    cells:
+      - "A soldier in Vietnam in 1968"
+      - "Enlisted in the US Army in 1965"
+  - attribute: "Late 1969"
+    cue: 2524
+    cells:
+      - "Formally brought into the program"
+      - "Commissioned a second lieutenant"
+  - attribute: "In theater"
+    cue: 2535
+    cells:
+      - "Rapid reaction units on standby"
+      - "Helicopter pilot, about 1,000 flight hours and the Distinguished Flying Cross; the host suggests he flew such a unit"
+  - attribute: "Exit"
+    cue: 2555
+    cells:
+      - "Out of the program about twenty years, so since c. 2004"
+      - "Forced to retire in 2004–2005, then an aviation and strategic defense consultant"
+  - attribute: "Later role"
+    cue: 2570
+    cells:
+      - "Moved to the program's administrative side"
+      - "Rose to general officer and worked with Congress"
+  - attribute: "Europe"
+    cue: 2582
+    cells:
+      - "A constant hot spot; the near-UK retrieval"
+      - "Stationed at a US Army post in Germany"
+---
+::
 
 The host stresses that the theory rests on little more than dates and coincidences. He says he does not want to "kick off an investigation I can't control," and asks viewers for other theories. He has tried, without success, to reach The Infographic Show's team.
 

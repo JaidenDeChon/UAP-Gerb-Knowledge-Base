@@ -281,16 +281,54 @@ Bentley called that the boring part. Between 10 and 11 p.m. the next evening, th
 
 The host found no record of the May 1958 events. The nearest thing is a passing mention in Baltimore's *Evening Sun* on 23 December 1958 of the Air Force capturing at least two saucers. He does lay out two other cases from Maryland that year:
 
-::wiki-grid{cols=3}
-::wiki-panel{title="Bentley, May 1958" tone="accent"}
-Near Olney, at dawn. A pulsating sound, then a wobbling 30-foot disc hits a cornfield and flies off, shearing tree limbs. Debris is collected by men in radiation suits. The next night, 12 to 15 objects leave the radar sweep at once. **Source:** Bentley alone, unverified.
-::
-::wiki-panel{title="Nike site W-93, 29 Sep 1958"}
-At 5:30 a.m. Private Jerome A. Scanland hears a humming sound and sees a luminous green teardrop come in at about 30 mph, slicing branches, and land 1.5 miles away. He and a sergeant find broken branches and scorched earth. **Official explanation:** repair trucks welding.
-::
-::wiki-panel{title="Loch Raven Reservoir, Oct 1958"}
-At 10:30 p.m., 3.5 miles from Nike site BA-3, Alvin Cohen and Philip Small's car stalls beneath a 100-foot egg-shaped object hovering over the bridge. A white beam heats their faces, and both are treated for sunburn. **Source:** Project Blue Book; [[J. Allen Hynek]]'s *The UFO Experience*.
-::
+::wiki-compare{video="9Xk4X41yl2M" video-title="UFO Whistleblowers [Vol.2]"}
+---
+caption: "Bentley's account beside the two documented Maryland cases of 1958. Markers pick out the three things the host says connect them: the sound, the sliced branches and a nearby Nike Ajax site. A dash means the video does not say."
+attributeLabel: "Point"
+subjects:
+  - name: "Harland Bentley"
+    note: "Near Olney, May 1958"
+  - name: "Nike site W-93"
+    note: "Jerome A. Scanland, 29 Sep 1958"
+  - name: "Loch Raven Reservoir"
+    note: "Alvin Cohen and Philip Small, Oct 1958"
+rows:
+  - attribute: "Time"
+    cells:
+      - { text: "6:00 a.m.", cue: 199 }
+      - { text: "5:30 a.m.", cue: 531 }
+      - { text: "10:30 p.m.", cue: 460 }
+  - attribute: "Nike Ajax site"
+    cells:
+      - { text: "Bentley's own site, W-92 or W-93", mark: same }
+      - { text: "At W-93 itself; the landing was 1.5 miles off", mark: same }
+      - { text: "3.5 miles from site BA-3", mark: same }
+  - attribute: "Sound"
+    cells:
+      - { text: "A pulsating, transformer-like sound", mark: same }
+      - { text: "A curious humming overhead", mark: same }
+      - { text: "A dull explosion before it rose", mark: differs }
+  - attribute: "Object"
+    cells:
+      - "Wobbling 30-foot disc, pulsing rim lights"
+      - "Luminous green teardrop, landing at about 30 mph"
+      - "100-foot egg hovering over the bridge"
+  - attribute: "Trees"
+    cells:
+      - { text: "Sheared thick limbs as it flew off", mark: same }
+      - { text: "Sliced branches; broken branches found", mark: same }
+      - ""
+  - attribute: "Afterwards"
+    cells:
+      - "Debris loaded onto a lead-lined truck by men in radiation suits"
+      - "Scorched earth at the landing site"
+      - "Car stalled; a white beam; both men treated for sunburn"
+  - attribute: "Record"
+    cells:
+      - "Bentley alone, unverified"
+      - "USAF explanation: repair trucks welding"
+      - "Project Blue Book; J. Allen Hynek's The UFO Experience"
+---
 ::
 
 The sound, the sliced branches and the nearby Nike sites are what the host sees as connecting Bentley's story to the documented cases.
@@ -301,17 +339,29 @@ Bentley also said that in 1967 or 1968, doing classified NASA contract work in C
 
 Looking into Apollo 8 led the host to a separate claim in Greer's files. The two claims share a mission and nothing else:
 
-::wiki-grid{cols=2}
-::wiki-panel{title="Bentley: the overheard transmission"}
-- **What:** live, unedited audio of Houston and the crew discussing a saucer-like craft paralleling the capsule
-- **Witness:** Bentley, doing NASA contract work in California
-- **Trail:** none beyond Bentley's own account
-::
-::wiki-panel{title="Witness 101179: the uncut film" tone="accent"}
-- **What:** the official, uncut NASA film of six UFOs descending onto the lunar surface, said to have been taken by Frank Borman on Apollo 8
-- **Witness:** a redacted "individual in government" on Greer's list
-- **Trail:** Greer's 2009 notes and emails, which lead to a named French source
-::
+::wiki-compare{video="9Xk4X41yl2M" video-title="UFO Whistleblowers [Vol.2]"}
+---
+caption: "The two Apollo 8 claims side by side. They share a mission and nothing else."
+attributeLabel: "Point"
+subjects:
+  - name: "Harland Bentley"
+    note: "The overheard transmission"
+  - name: "Witness 101179"
+    note: "The uncut film, per Greer's list"
+rows:
+  - attribute: "What"
+    cells:
+      - { text: "Live, unedited audio of Houston and the crew discussing a saucer-like craft paralleling the capsule", cue: 593 }
+      - { text: "The official, uncut NASA film of six UFOs descending onto the lunar surface, said to have been taken by Frank Borman", cue: 724 }
+  - attribute: "Witness"
+    cells:
+      - "Bentley, doing NASA contract work in California"
+      - "A redacted \"individual in government\""
+  - attribute: "Trail"
+    cells:
+      - "None beyond Bentley's own account"
+      - "Greer's 2009 notes and emails, leading to a named French source"
+---
 ::
 
 Greer's files show the source travelling from France, to be joined by a high-profile French astronaut, with a phone call set for late February 2009 and a meeting for April. Greer's handwritten note of 24 February 2009 labels the witness "AB." It covers hoaxes, truth, and redacted names of trustworthy and untrustworthy people. NASA comes up only when AB asks whether the agency can be trusted, and Greer answers that most NASA employees know nothing. On 28 February the source forwarded an article from France's *L'Express* on the White House's search for a new NASA administrator, which names [[Charles Bolden]] and his four Space Shuttle flights. The host wonders whether Bolden was one of the NASA pilots redacted in Greer's notes. Then, in an early March 2009 email chain about sending briefing documents to French President Nicolas Sarkozy, Greer names his "Source One," A. Boudier, as the man carrying them. From that the host identified the source as Alain Boudier, who was leading the UAP commission of the Association Aéronautique et Astronautique de France ([[3af-p (French national aeronautical and astronautical Association UAP division)|3AF-PAN]]) at the time. The video spells the name "Elaine Boder"; the 3AF's own records give Alain Boudier. The host says he has written to Boudier and has found no other reference anywhere to the alleged film.
@@ -334,33 +384,44 @@ The host says he cannot verify RB's claims, or even who he is, but includes the 
 
 The account reached the public through a chain of researchers:
 
-::wiki-org-chart
+::wiki-chain{video="9Xk4X41yl2M" video-title="UFO Whistleblowers [Vol.2]"}
 ---
-root:
-  name: RB
-  label: The source
-  note: "Former Marine Corporal who guarded the disc in December 1963; has never gone public or sought money from the story."
-  children:
-    - name: Disclosure Project
-      label: Witness list, entry 10138
-      note: "A redacted name the host matches to RB; no documents reveal his identity."
-    - name: Michael Johnstone
-      label: Interviewed RB, 1986
-      note: "Put RB in touch with Stringfield; RB was in his late forties at the time."
-      children:
-        - name: Leonard Stringfield
-          label: Published the case
-          note: "'Marine Guards a Disc-Shaped Vehicle, 1963', in UFO Crash/Retrieval Status Report 5."
-          children:
-            - name: MUFON
-              label: Holds Stringfield's archives
-              note: "His personal papers, kept at MUFON in Cincinnati."
-              children:
-                - name: Michael Schratt
-                  label: Reconstructed the full account
-                  note: "Found the Stringfield-Johnstone letters in the 2000s and re-interviewed Johnstone in 2015."
+kind: transmission
+caption: "How RB's account reached the record. His name reached Greer's list separately, with nothing to connect the two but the host's match."
+steps:
+  - name: "RB"
+    date: "Dec 1963"
+    note: "Former Marine Corporal; one of the guards on a disc for two weeks."
+    cue: 1361
+  - via: "Two routes"
+    fork:
+      - label: "The researchers"
+        steps:
+          - via: "Interviewed RB, 1986"
+            name: "Michael Johnstone"
+            note: "RB was in his late forties."
+            cue: 1329
+          - via: "Put RB in touch"
+            name: "Leonard Stringfield"
+            note: "'Marine Guards a Disc-Shaped Vehicle, 1963', in Status Report 5."
+            cue: 1315
+          - via: "Stringfield's papers kept"
+            name: "MUFON"
+            note: "His personal archives, in Cincinnati."
+          - via: "Found the letters in the 2000s"
+            name: "Michael Schratt"
+            note: "Reconstructed the account; re-interviewed Johnstone in 2015."
+            cue: 1347
+      - label: "Greer's witness list"
+        steps:
+          - via: "A redacted entry"
+            name: "Disclosure Project"
+            note: "Entry 10138, which the host matches to RB."
+            cue: 1398
 ---
 ::
+
+The host notes that RB has never gone public with his story, made sensational claims or tried to make money from it.
 
 What RB described falls into three parts: the craft itself, the failed efforts to get inside it, and the security around it.
 

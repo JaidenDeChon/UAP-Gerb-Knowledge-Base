@@ -278,14 +278,47 @@ The Marines stayed "stone cold." The only conversation came in Subic Bay, when H
 
 The interviewers then go back through the mission in order. Much of the confusion around Herrera's account, Joey argues, comes from not understanding how a non-combat deployment works. Herrera was on the officers' chow detail, an eight-hour-shift job he enjoyed for the T-bone steaks, under a ship-based logistics chain of command. He had gone forward to Japan weeks before the main body. The volunteers were "randomly put in sticks" by staff sergeants or sergeants, not hand-picked for their skills, and led by an acting team leader who was not Herrera's own.
 
-| Stage | What Herrera recalls | Watch |
-|---|---|---|
-| Wardroom | A female Marine major briefs volunteers, some pulled from the chow hall, with key leaders and NCOs present. She shows photos of [[Barack Obama]] as a child and his family. The job is security for a supply delivery to a remote village, in what Herrera calls the "second largest terrorist capital in the world." | :wiki-cue{t=2568 video="4EMO38JUfVE" video-title="Michael Herrera - Insights into UAP Encounter and Black Program Insiders"} |
-| Armory | Because it is not a combat mission, the SAW gunner draws a loaner M16 and someone else's magazines, which he hands back afterwards. | :wiki-cue{t=2938 video="4EMO38JUfVE" video-title="Michael Herrera - Insights into UAP Encounter and Black Program Insiders"} |
-| Airfield | The CH-53 carries only personnel and lands at an airfield with blue roofs, which the interviewers identify as Tabing, since renamed. The Marines do not get off, and some sleep; other helicopters land behind them. | :wiki-cue{t=3395 video="4EMO38JUfVE" video-title="Michael Herrera - Insights into UAP Encounter and Black Program Insiders"} |
-| Hasty LZ | An open area of tall grass among hills and thick vegetation, with no one there and no tape or cleared trees. The helicopter leaves, and they have no radio. They form a 360, weapons in Condition 3, and the man in charge takes them up the slope. | :wiki-cue{t=3665 video="4EMO38JUfVE" video-title="Michael Herrera - Insights into UAP Encounter and Black Program Insiders"} |
-| Hilltop | It is sunny, hot and dull. Herrera films a second helicopter drop a cargo net farther off and leave, then someone points at the object. | :wiki-cue{t=3768 video="4EMO38JUfVE" video-title="Michael Herrera - Insights into UAP Encounter and Black Program Insiders"} |
-| Back aboard | The whole mission, chow hall to ship, takes "a couple hours". | :wiki-cue{t=4032 video="4EMO38JUfVE" video-title="Michael Herrera - Insights into UAP Encounter and Black Program Insiders"} |
+The briefing came in the Denver's wardroom from a female Marine major in woodland camouflage, with key leaders and NCOs present. She showed photographs of [[Barack Obama]] as a child and of his family, and described the job as security for a supply delivery to a remote village, in what Herrera calls the "second largest terrorist capital in the world." Because it was not a combat mission, the SAW gunner drew a loaner M16 and someone else's magazines, which he handed back afterwards. The CH-53 carried only personnel and set down at an airfield with blue roofs, which the interviewers identify as Tabing, since renamed; the Marines stayed aboard, some of them asleep, while other helicopters landed behind them. The hasty landing zone was an open area of tall grass among hills and thick vegetation, with no one there, no tape and no cleared trees. Once the helicopter left they had no radio. It was sunny, hot and dull on the hilltop, where Herrera filmed a second helicopter drop a cargo net farther off before someone pointed at the object. The whole mission, chow hall to ship, took "a couple hours."
+
+::wiki-chain{video="4EMO38JUfVE" video-title="Michael Herrera - Insights into UAP Encounter and Black Program Insiders"}
+---
+kind: custody
+label: "The mission, stage by stage"
+caption: "Where Herrera's stick of six Marines went, in the order he recalls it. Each chip jumps to where he describes that stage."
+steps:
+  - text: "Wardroom, USS Denver"
+    note: "A female Marine major briefs the volunteers: security for a supply drop."
+    cue: 2568
+  - via: "Volunteers kitted out"
+    text: "Armory"
+    note: "A loaner M16 and borrowed magazines, since it is not a combat mission."
+    cue: 2938
+  - via: "CH-53, personnel only"
+    text: "Airfield with blue roofs"
+    note: "Identified as Tabing; the Marines never get off."
+    cue: 3395
+  - via: "Flown on, then left with no radio"
+    text: "Hasty landing zone"
+    note: "Tall grass among hills; a 360, weapons in Condition 3."
+    cue: 3665
+  - via: "Up the slope for the high ground"
+    text: "Hilltop"
+    note: "Something changing colour above the tree line."
+    cue: 3768
+  - via: "Leaving their post to look"
+    text: "The clearing"
+    note: "Held at gunpoint by eight operators beside the craft."
+    cue: 315
+  - via: "Sent back up, rifles slung tight"
+    text: "Landing zone"
+    note: "An unknown gunnery sergeant, angry and on a radio."
+    cue: 1844
+  - via: "CH-53 Super Stallion"
+    name: "USS Denver"
+    note: "Chow hall to ship in \"a couple hours.\""
+    cue: 4032
+---
+::
 
 Joey sets this against the public record. [[Richard B. Landolt]], the rear admiral who debriefed Herrera's group, told the press that the Denver's CH-53s came aboard on the morning of 9 October. He said they first flew survey teams inland, and that crowd control was the first worry once cargo began arriving. Joey has also found photographs from 9 and 10 October of crowds mobbing an Indonesian military helicopter, and of Marines with rifles guarding relief helicopters. Herrera cannot say whether his mission was on the 9th or the 10th. He never went up on deck, and the ship's phone banks had been switched off for about two weeks.
 

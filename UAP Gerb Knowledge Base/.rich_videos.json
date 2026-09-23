@@ -455,9 +455,11 @@
       "wiki-grid",
       "wiki-panel",
       "wiki-org-chart",
-      "wiki-roster"
+      "wiki-roster",
+      "wiki-compare"
     ],
-    "cues": "verified"
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
   },
   "4EMO38JUfVE": {
     "title": "Michael Herrera - Insights into UAP Encounter and Black Program Insiders",
@@ -471,9 +473,11 @@
       "wiki-cue",
       "wiki-org-chart",
       "wiki-roster",
-      "wiki-claim"
+      "wiki-claim",
+      "wiki-chain"
     ],
-    "cues": "verified"
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
   },
   "DcvuglS7ps4": {
     "title": "\"US Special Forces Confession - I Recovered Crashed UFOs\": Fact or Fiction?",
@@ -486,9 +490,11 @@
       "wiki-org-chart",
       "wiki-grid",
       "wiki-panel",
-      "wiki-roster"
+      "wiki-roster",
+      "wiki-compare"
     ],
-    "cues": "verified"
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
   },
   "9Xk4X41yl2M": {
     "title": "UFO Whistleblowers [Vol.2]",
@@ -499,10 +505,12 @@
       "wiki-timeline",
       "wiki-grid",
       "wiki-panel",
-      "wiki-org-chart",
-      "wiki-roster"
+      "wiki-roster",
+      "wiki-compare",
+      "wiki-chain"
     ],
-    "cues": "verified"
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
   },
   "8S9qdRWSnD8": {
     "title": "The 1950s Del Rio, Texas UFO Crashes",
@@ -518,7 +526,8 @@
       "wiki-compare",
       "wiki-map"
     ],
-    "cues": "verified"
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
   },
   "EKEZ2BClIb0": {
     "title": "UFO Whistleblowers [Vol.1]",
