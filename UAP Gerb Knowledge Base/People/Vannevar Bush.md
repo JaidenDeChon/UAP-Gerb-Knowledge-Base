@@ -1,6 +1,7 @@
 ---
 name: "Vannevar Bush"
 role: "US government science administrator; chairman of the Research and Development Board; chairman of NACA"
+wikipedia: "Vannevar Bush"
 tags:
   - person
 ---

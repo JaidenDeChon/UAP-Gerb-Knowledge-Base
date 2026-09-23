@@ -1,6 +1,7 @@
 ---
 name: "John Greenewald"
 role: "Researcher and founder of The Black Vault; FOIA specialist"
+wikipedia: "John Greenewald Jr."
 tags:
   - person
 ---

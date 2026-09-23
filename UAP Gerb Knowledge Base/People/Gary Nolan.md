@@ -1,6 +1,7 @@
 ---
 name: "Gary Nolan"
 role: "Professor of Pathology, Microbiology, and Immunology at Stanford University; UAP biological effects researcher"
+wikipedia: "Garry Nolan"
 tags:
   - person
   - scientist

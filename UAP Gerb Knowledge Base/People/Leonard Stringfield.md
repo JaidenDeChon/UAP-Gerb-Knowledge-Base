@@ -1,6 +1,7 @@
 ---
 name: "Leonard Stringfield"
 role: "UFO crash retrieval researcher; author"
+wikipedia: "Leonard H. Stringfield"
 tags:
   - person
 ---

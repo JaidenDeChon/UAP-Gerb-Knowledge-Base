@@ -1,6 +1,7 @@
 ---
 name: "Victor Marchetti"
 role: "Former CIA official and author"
+wikipedia: "Victor Marchetti"
 tags:
   - person
 ---

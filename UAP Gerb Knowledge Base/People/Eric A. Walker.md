@@ -1,6 +1,7 @@
 ---
 name: "Eric A. Walker"
 role: "Presidential science advisor and alleged MJ-12 member"
+wikipedia: "Eric A. Walker (engineer)"
 tags:
   - person
 ---

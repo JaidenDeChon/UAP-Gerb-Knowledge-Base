@@ -1,6 +1,7 @@
 ---
 name: "John M. Riggs"
 role: "US Army General (retired); alleged UAP program insider"
+wikipedia: "John M. Riggs"
 tags:
   - person
 ---

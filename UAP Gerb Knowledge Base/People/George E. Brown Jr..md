@@ -1,6 +1,7 @@
 ---
 name: "George E. Brown Jr."
 role: "US Representative from California (1963–1971, 1973–1999)"
+wikipedia: "George Brown Jr."
 tags:
   - person
 ---

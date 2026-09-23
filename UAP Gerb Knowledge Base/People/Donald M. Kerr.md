@@ -1,6 +1,7 @@
 ---
 name: "Donald M. Kerr"
 role: "Director, Los Alamos National Laboratory (1979–1985); Director, National Reconnaissance Office (2005–2007); Principal Deputy Director of National Intelligence (2007–2009); MITRE Corporation trustee and chairman"
+wikipedia: "Donald Kerr"
 tags:
   - person
 ---

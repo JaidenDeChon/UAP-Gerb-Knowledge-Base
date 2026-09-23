@@ -1,6 +1,7 @@
 ---
 name: "John Deutch"
 role: "Under Secretary of Defense for Acquisition and Technology (1993-1994); Deputy Secretary of Defense (1994-1995); Director of Central Intelligence (1995-1996)"
+wikipedia: "John M. Deutch"
 tags:
   - person
 ---

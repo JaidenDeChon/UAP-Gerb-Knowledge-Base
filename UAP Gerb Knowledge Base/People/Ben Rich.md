@@ -1,6 +1,7 @@
 ---
 name: "Ben Rich"
 role: "Director of Lockheed Skunk Works (1975–1991); 'father of stealth'"
+wikipedia: "Ben Rich (engineer)"
 tags:
   - person
 ---

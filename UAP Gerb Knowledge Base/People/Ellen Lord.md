@@ -1,6 +1,7 @@
 ---
 name: "Ellen Lord"
 role: "Under Secretary of Defense for Acquisition and Sustainment (2018-2021)"
+wikipedia: "Ellen Lord"
 tags:
   - person
 ---

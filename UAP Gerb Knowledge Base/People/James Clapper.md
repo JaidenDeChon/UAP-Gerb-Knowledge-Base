@@ -1,6 +1,7 @@
 ---
 name: "James Clapper"
 role: "Director of National Intelligence (2010–2017); former Director of the Defense Intelligence Agency; former Under Secretary of Defense for Intelligence; retired Air Force Lieutenant General"
+wikipedia: "James Clapper"
 tags:
   - person
 ---

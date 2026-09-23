@@ -1,6 +1,7 @@
 ---
 name: "Leslie Kean"
 role: "Journalist and investigative reporter"
+wikipedia: "Leslie Kean"
 tags:
   - person
 ---

@@ -1,6 +1,7 @@
 ---
 name: "Robert M. Salter"
 role: "Engineer, RAND Corporation; author of the Very High Speed Transit study"
+wikipedia: "Robert M. Salter"
 tags:
   - person
 ---

@@ -1,6 +1,7 @@
 ---
 name: "Martin C. Faga"
 role: "Director of the National Reconnaissance Office (1989-1993); Assistant Secretary of the Air Force for Space; MITRE Corporation president"
+wikipedia: "Martin C. Faga"
 tags:
   - person
 ---

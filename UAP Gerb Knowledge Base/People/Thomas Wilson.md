@@ -1,6 +1,7 @@
 ---
 name: "Thomas Wilson"
 role: "Vice Admiral, U.S. Navy; Deputy Director and Director of the Defense Intelligence Agency"
+wikipedia: "Thomas R. Wilson"
 tags:
   - person
   - military

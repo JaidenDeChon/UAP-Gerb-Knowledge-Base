@@ -1,6 +1,7 @@
 ---
 name: "Edward J. Ruppelt"
 role: "Captain, US Air Force; Director of Project Sign, Project Grudge, and Project Blue Book"
+wikipedia: "Edward J. Ruppelt"
 tags:
   - person
 ---

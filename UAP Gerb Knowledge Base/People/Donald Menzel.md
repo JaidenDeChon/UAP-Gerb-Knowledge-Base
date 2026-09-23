@@ -1,6 +1,7 @@
 ---
 name: "Donald Menzel"
 role: "Harvard astronomer; alleged Majestic 12 member"
+wikipedia: "Donald Howard Menzel"
 tags:
   - person
 ---

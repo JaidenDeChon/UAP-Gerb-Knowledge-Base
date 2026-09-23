@@ -1,6 +1,8 @@
 ---
 name: "David Grusch"
 role: "UAP whistleblower; former National Geospatial-Intelligence Agency (NGA) officer; former National Reconnaissance Office (NRO) representative to the UAP Task Force"
+wikipedia: "David Grusch UFO whistleblower claims"
+wikipedia_image: "File:David Grusch giving testimony on 26 July 2023 before the US House Subcommittee on National Security the Border and Foreign Affairs.png"
 tags:
   - person
 ---

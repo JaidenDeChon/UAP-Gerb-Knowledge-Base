@@ -1,6 +1,7 @@
 ---
 name: "John Deutsch"
 role: "Deputy Secretary of Defense (1994–1995); Director of Central Intelligence (1995–1996); former Under Secretary of Defense for Acquisition and Technology; Chairman of SAPOC Senior Review Group"
+wikipedia: "John M. Deutch"
 tags:
   - person
   - government

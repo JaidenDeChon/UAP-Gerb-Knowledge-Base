@@ -539,6 +539,18 @@ entity's vault category, read via `useWikiResolve`; an entry whose `name`
 doesn't resolve shows "Unlinked" there instead and renders its name as plain
 text (see gotcha 2). The spine colour is `tintFor(category)` — see below.
 
+**Portraits.** A person whose ref carries an `image` (see "People
+portraits" below) gets their photo floated into the card's top-right
+corner, 92×116px, cover-cropped toward the face and faded into the card
+surface along its left and bottom edges with the shared `ufo-fade-xy` mask;
+the text wraps beside it. Nothing to author: the portrait comes with the
+name's ref. The image is lazy-loaded in a fixed box, its alt text is
+"Portrait of {name}", and its tooltip is the credit line
+(`portraitCredit`). Everyone else keeps the plain card. Because a portrait
+changes how a card wraps, the grid stays invisible (`opacity: 0`, space
+kept) until `useWikiResolve` reports `ready`, then fades in, so the reflow
+never happens in front of the reader.
+
 ### `::wiki-compare`
 
 Source: `app/app/components/content/WikiCompare.vue` (each value rendered by
@@ -1204,7 +1216,15 @@ request failed — is simply absent from the map; every component here falls
 back to rendering plain, unlinked text in that case (see gotcha 2). A note
 with `coordinates:` frontmatter also comes back with
 `coordinates: [lat, lon]` on its ref (baked from `wiki/geo.ts` and added by
-`server/utils/resolveNames.ts`); every other ref has no such key.
+`server/utils/resolveNames.ts`); every other ref has no such key. Likewise a
+People note with a portrait comes back with `image: NotePortrait`
+(`{ src, width, height, author, license, licenseUrl?, source }`, baked from
+`wiki/people-images.json` by `wiki/portraits.ts`); see "People portraits".
+
+It also returns `ready`, a computed that turns true once the lookup has
+finished (or failed). Existing callers that only destructure `refs` are
+unaffected; `WikiRoster` uses `ready` to hold its cards back until their
+layout is final.
 
 ### `app/app/components/wiki/WikiEntityLink.vue`
 
@@ -1315,7 +1335,62 @@ corners, a HUD row (runtime, when known) and Play / Transcript / YouTube
 actions. On those pages the local map moves to the end of the article, the
 prose `h2`s gain chapter numbers (CSS counters), and a 2px reading-progress
 line (`WikiReadingProgress.vue`) pins to the top of `<main>`. Transcript
-pages stay plain.
+pages stay plain. The thumbnail's fades are the shared `ufo-fade` mask
+(below): `--ufo-fade-x` toward the text on desktop, `--ufo-fade-y` down the
+band on phones.
+
+### Eased image fades: `ufo-fade` (`app/app/assets/css/main.css`)
+
+One technique for every picture that dissolves into what's behind it: the
+video hero's thumbnail, the home page's Featured card
+(`components/home/HomeFeatured.vue`) and people's portraits. It is a
+**mask**, not a colour overlay, so the image fades to transparent and melts
+into whatever surface is behind it (page, card, a category-tinted roster
+card, a hover wash) in all four themes with no colour to keep in step. The
+stops trace an ease-in-out ("scrim") curve instead of a two-stop linear
+ramp, whose abrupt ends read as edges.
+
+- Add `ufo-fade` to the `<img>`; it defines two masks as custom properties:
+  `--ufo-fade-x` (solid up to `--ufo-fade-x-start`, default `40%`, along
+  `--ufo-fade-x-dir`, default `to left`: solid on the right, fading toward
+  the left edge) and `--ufo-fade-y` (the same with `--ufo-fade-y-start`,
+  default `30%`, and `--ufo-fade-y-dir`, default `to bottom`).
+- Apply one with `ufo-fade-x`, `ufo-fade-y`, or `ufo-fade-xy` (both,
+  fading into the bottom-left corner), or set
+  `mask-image: var(--ufo-fade-x)` in the component's own CSS when it
+  switches axis at a breakpoint (the hero and the Featured card do).
+- Override the `-start` / `-dir` properties on the same element. The rules
+  live in `@layer components`, so a component's scoped (unlayered) CSS
+  always wins without specificity games.
+- The longer the run, the smoother it reads: give the fade most of the
+  image. Where text sits beside the picture, do what the hero does and put
+  the text on a surface-colour panel whose own fade overlaps the image's
+  (`.ufo-hero-content::before`; `.ufo-featured-content::before` in the
+  Featured card): the two eased ramps multiply into one long, soft edge.
+
+The Featured card uses the hero's composition in miniature: thumbnail on
+the right fading left under a card-colour text panel once its container is
+34rem wide, a band fading down above the text below that.
+
+### `app/app/components/wiki/WikiPersonPortrait.vue`
+
+The portrait at the head of a People page (rendered by
+`pages/wiki/[...slug].vue` from `/api/meta`'s `image`), floated right beside
+the title and lead in a fixed 4:5 box, fading into the page along its lower
+half (`ufo-fade-y`). Its caption is the full attribution with links: the
+author (linked to the Commons file page), the licence (linked to its deed
+when it has one) and "Wikimedia Commons". This is where CC BY / BY-SA
+attribution is spelled out; every other surface carries the same credit as
+a tooltip.
+
+### `app/app/utils/portrait.ts`
+
+`portraitAlt(name)` ("Portrait of David Grusch") and
+`portraitCredit(image)` ("Photo: A.Savin · CC BY-SA 3.0 · Wikimedia
+Commons", leaving out an unknown author). Used by the roster, the hover
+preview (`ProseA.vue`, which shows a small corner portrait with the same
+`ufo-fade-xy` mask) and the person page, so alt text and credit read the
+same everywhere.
 
 ### `app/app/composables/useVideoClock.ts`
 
@@ -1412,6 +1487,112 @@ Worth knowing if you're touching this component:
   `prefers-reduced-motion: reduce`.
 - See gotcha 5 above for the mount-node replacement issue this component
   works around (`.ufo-dock-stage`).
+
+---
+
+## People portraits (`app/scripts/fetch-people-images.mjs`)
+
+Person cards show a photo when one is available: the roster, the person's
+own page and the link hover preview. The photos come from Wikipedia /
+Wikimedia Commons but are **never requested from Wikimedia by visitors**:
+an offline script downloads small thumbnails into the repo
+(`app/public/people/*.webp`, 240px wide, typically 3–17 KB) and the site
+serves them itself. No page load, build or server request talks to
+Wikimedia.
+
+### How a person gets a portrait
+
+1. **Match the page to its article, by hand.** Add
+   `wikipedia: "Exact article title"` to the person's frontmatter, only
+   after checking the article is about the same person (compare the
+   article's description with the page's `role:`; watch for namesakes,
+   disambiguation pages and redirects to something else). Obscure people
+   with no article get no field and keep the plain card. `discover` helps:
+
+   ```bash
+   cd app
+   node scripts/fetch-people-images.mjs discover            # roster people
+   node scripts/fetch-people-images.mjs discover --all      # every People page
+   node scripts/fetch-people-images.mjs discover "Ben Rich" # named pages
+   ```
+
+   It prints, for each target without `wikipedia:`, the article that page
+   title leads to, its short description, whether it's a disambiguation
+   page, whether Wikidata says it's a human, and whether it has a free lead
+   image, beside the vault's `role:`. It writes nothing.
+2. **Optionally name the file.** When an article's lead image isn't a
+   portrait (David Grusch's article leads with a video of the hearing), add
+   `wikipedia_image: "File:…"` naming a Commons file of the person. It goes
+   through the same licence checks.
+3. **Fetch.** `node scripts/fetch-people-images.mjs fetch` (same targets:
+   default `--roster`, or `--all`, or page titles). For each page with
+   `wikipedia:` it asks the API for the article's lead image with
+   `pageimages` (`pilicense=free`), reads the file's `imageinfo` /
+   `extmetadata`, applies the licence policy below, downloads the 330px
+   Commons thumbnail and re-encodes it with `cwebp` (`brew install webp`;
+   falls back to a JPEG via macOS `sips`), and records it in
+   `app/wiki/people-images.json`. Commit the manifest, the images and the
+   frontmatter together, then restart the dev server (the bake reads the
+   manifest at startup).
+
+Flags: `--retry` re-checks people previously skipped; `--force`
+re-processes everyone targeted (re-downloading images, reusing cached API
+answers, e.g. after changing the author clean-up); `--refresh` also
+bypasses the API cache. Changing a page's `wikipedia:` or
+`wikipedia_image:` re-fetches that person on the next plain run.
+
+### Politeness
+
+One request at a time, at least 1.1s apart; `maxlag=5` on every API call;
+a descriptive User-Agent naming the project and its repository (Wikimedia's
+User-Agent policy); backoff honouring `Retry-After` on 429/503. API answers
+are cached in `app/scripts/.cache/people-images/` (gitignored), and a
+person already in the manifest with their file on disk costs no request at
+all, so re-runs are nearly free. A full roster run is about 70 image
+downloads plus a handful of batched API calls.
+
+### Licensing policy
+
+A photo is used only if **all** of these hold, otherwise the person is
+listed under `skipped` in the manifest with the reason:
+
+- the file is hosted on **Wikimedia Commons** (`imagerepository: shared`).
+  Non-free "fair use" images, which many infoboxes of living people use,
+  live on Wikipedia itself and are never on Commons;
+- Commons doesn't flag it `NonFree`;
+- its `LicenseShortName` is a recognised free licence: CC0, CC BY or CC BY-SA
+  (any version or port), a public-domain mark, "No restrictions", or
+  Commons' plain "Attribution" licence. NC, ND, GFDL-only, "All rights
+  reserved", fair use and a missing licence are all rejected;
+- it names an author whenever the licence requires attribution (only public
+  domain, CC0 and "No restrictions" may credit "Unknown author").
+
+The manifest stores, per person, the file, its size, the tidied author
+(`cleanAuthor`: HTML, repeated names, "Author:" labels, trailing links and
+uploader boilerplate removed), the licence and its deed URL, and the Commons
+file page. The build drops any entry missing a credit field
+(`parsePortraitManifest`), so a photo is never shown without its
+attribution.
+
+### Attribution on the site
+
+- **Person page:** a visible caption under the portrait, "Photo: {author} ·
+  {licence} · Wikimedia Commons", with the author linked to the Commons file
+  page and the licence to its deed (`WikiPersonPortrait.vue`).
+- **Roster cards and hover previews:** the same credit as the image's
+  tooltip (`title`), with the linked credit one click away on the person's
+  page.
+
+### Where the data flows
+
+`wiki/people-images.json` → `wiki/portraits.ts` (`loadPortraits`,
+validated by `parsePortraitManifest`) → baked as `portraits` (sparse, by
+node index) in `#wiki-data` → added as `image` to refs by `/api/resolve`
+(`resolveNames`), to `/api/preview` and to `/api/meta`. Components read it
+from the ref (`useWikiResolve`), never from a hardcoded list. The pure
+helpers behind the script (`FREE_LICENSE`, `vetLicense`, `cleanAuthor`,
+`slugify`, `rosterNames`) live in `app/scripts/people-images-lib.mjs` with
+unit tests beside them.
 
 ---
 

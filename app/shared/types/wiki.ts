@@ -109,6 +109,32 @@ export interface NoteRef {
    * on a `::wiki-map`); every other ref omits the key.
    */
   coordinates?: [number, number]
+  /**
+   * A portrait, for People notes that have one in `wiki/people-images.json`
+   * (fetched offline by `scripts/fetch-people-images.mjs`, served from the
+   * site's own `/people/`). Every other ref omits the key.
+   */
+  image?: NotePortrait
+}
+
+/**
+ * A freely licensed portrait from Wikimedia Commons, stored in the repo. The
+ * credit fields are what attribution needs: who made it, under what licence,
+ * and the Commons file page it came from.
+ */
+export interface NotePortrait {
+  /** Site-relative URL, e.g. `/people/david-grusch.webp`. */
+  src: string
+  width: number
+  height: number
+  /** Photographer or rights holder, as Commons records it (tidied). */
+  author: string
+  /** Licence short name, e.g. `CC BY-SA 4.0`, `Public domain`. */
+  license: string
+  /** The licence's deed, when it has one. */
+  licenseUrl?: string
+  /** The Commons file page (the credit's link). */
+  source: string
 }
 
 export interface NoteLinks {
@@ -123,6 +149,8 @@ export interface NotePreview extends NoteRef {
   /** First paragraph, wikilinks flattened to their labels, trimmed to ~240 chars. */
   lead: string
   tags: string[]
+  /** The note's portrait, when it has one (see `NoteRef.image`). */
+  image?: NotePortrait
 }
 
 /**
@@ -138,6 +166,8 @@ export interface NoteMeta {
   lead: string
   /** YouTube id, for a video summary. */
   videoId: string | null
+  /** The note's portrait, for a People note that has one; otherwise absent. */
+  image?: NotePortrait
 }
 
 /* ------------------------------------------------------------ baked data -- */
@@ -184,10 +214,15 @@ export interface WikiData {
   videos: BakedVideo[]
   /** `[lat, lon]` for each note with `coordinates:` frontmatter, keyed by `GraphNode.i`. */
   geo: BakedGeo
+  /** Portrait for each People note in `wiki/people-images.json`, keyed by `GraphNode.i`. */
+  portraits: BakedPortraits
 }
 
 /** Sparse node index -> `[lat, lon]`. */
 export type BakedGeo = Record<number, [number, number]>
+
+/** Sparse node index -> portrait. */
+export type BakedPortraits = Record<number, NotePortrait>
 
 /* ---------------------------------------------------------------- videos -- */
 

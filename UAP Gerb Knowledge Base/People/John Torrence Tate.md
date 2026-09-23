@@ -1,6 +1,7 @@
 ---
 name: "John Torrence Tate"
 role: "Physicist; wartime NDRC anti-submarine research chief; candidate 'Dr. G' in the Aztec case"
+wikipedia: "John Torrence Tate Sr."
 tags:
   - person
 ---

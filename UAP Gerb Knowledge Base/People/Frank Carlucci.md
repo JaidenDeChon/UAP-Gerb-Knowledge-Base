@@ -1,6 +1,7 @@
 ---
 name: "Frank Carlucci"
 role: "Former US Secretary of Defense; former Deputy Director of the CIA"
+wikipedia: "Frank Carlucci"
 tags:
   - person
 ---

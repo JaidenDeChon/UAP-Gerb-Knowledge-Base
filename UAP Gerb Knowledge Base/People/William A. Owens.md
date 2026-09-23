@@ -1,6 +1,7 @@
 ---
 name: "William A. Owens"
 role: "U.S. Navy admiral; Vice Chairman of the Joint Chiefs of Staff; SAIC executive"
+wikipedia: "William Owens (admiral)"
 tags:
   - person
 ---

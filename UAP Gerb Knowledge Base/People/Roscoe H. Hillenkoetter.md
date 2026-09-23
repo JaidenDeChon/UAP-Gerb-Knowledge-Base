@@ -1,6 +1,7 @@
 ---
 name: "Roscoe H. Hillenkoetter"
 role: "US Navy admiral; first Director of the CIA"
+wikipedia: "Roscoe H. Hillenkoetter"
 tags:
   - person
 ---

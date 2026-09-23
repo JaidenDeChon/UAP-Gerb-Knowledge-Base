@@ -1,6 +1,7 @@
 ---
 name: "Robert J. Spane"
 role: "Vice Admiral, US Navy; Commander, Naval Air Force, US Pacific Fleet (1993–1996)"
+wikipedia: "Robert J. Spane"
 tags:
   - person
 ---

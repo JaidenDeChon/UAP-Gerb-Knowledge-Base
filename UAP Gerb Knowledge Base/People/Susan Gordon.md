@@ -1,6 +1,7 @@
 ---
 name: "Susan M. Gordon"
 role: "Principal Deputy Director of National Intelligence (2017–2019); former CIA Deputy Director for Support; former Deputy Director, National Geospatial-Intelligence Agency"
+wikipedia: "Susan M. Gordon"
 tags:
   - person
 ---

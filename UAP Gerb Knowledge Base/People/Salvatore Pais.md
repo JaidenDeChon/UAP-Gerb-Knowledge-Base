@@ -1,6 +1,7 @@
 ---
 name: "Salvatore Pais"
 role: "US Navy aerospace engineer; inventor of the Navy's so-called 'UFO patents'"
+wikipedia: "Salvatore Pais"
 tags:
   - person
 ---

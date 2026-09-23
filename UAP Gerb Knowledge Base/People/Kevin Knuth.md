@@ -1,6 +1,7 @@
 ---
 name: "Kevin Knuth"
 role: "Professor of Physics, University at Albany; UAP researcher"
+wikipedia: "Kevin Knuth"
 tags:
   - person
 ---

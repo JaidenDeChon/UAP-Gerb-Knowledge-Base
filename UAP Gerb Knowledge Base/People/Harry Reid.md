@@ -1,6 +1,7 @@
 ---
 name: "Harry Reid"
 role: "US Senator from Nevada (1987-2017); Senate Majority Leader (2007-2015)"
+wikipedia: "Harry Reid"
 tags:
   - person
 ---

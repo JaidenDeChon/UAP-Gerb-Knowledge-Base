@@ -1,6 +1,7 @@
 ---
 name: "William Blanchard"
 role: "Colonel; commander of Roswell Army Air Field"
+wikipedia: "William H. Blanchard"
 tags:
   - person
 ---

@@ -56,7 +56,7 @@ export function useWikiResolve(names: MaybeRefOrGetter<string[]>) {
 
   const key = computed(() => `resolve:${list.value.join('|')}`)
 
-  const { data } = useAsyncData(
+  const { data, status } = useAsyncData(
     () => key.value,
     async (): Promise<(NoteRef | null)[]> => {
       if (!list.value.length) return []
@@ -92,5 +92,12 @@ export function useWikiResolve(names: MaybeRefOrGetter<string[]>) {
     return map
   })
 
-  return { refs }
+  /**
+   * True once the names have been looked up (or the lookup failed). A
+   * component whose layout depends on what comes back (a roster card gains a
+   * portrait) can hold itself back until then rather than reflow in view.
+   */
+  const ready = computed(() => status.value === 'success' || status.value === 'error')
+
+  return { refs, ready }
 }

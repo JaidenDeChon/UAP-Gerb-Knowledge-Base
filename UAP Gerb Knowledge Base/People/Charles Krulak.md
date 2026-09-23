@@ -1,6 +1,7 @@
 ---
 name: "Charles Krulak"
 role: "General, US Marine Corps; 31st Commandant of the Marine Corps (1995–1999)"
+wikipedia: "Charles C. Krulak"
 tags:
   - person
 ---

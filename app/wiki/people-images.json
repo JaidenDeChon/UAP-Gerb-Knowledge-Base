@@ -1,0 +1,733 @@
+{
+  "$comment": "Written by app/scripts/fetch-people-images.mjs; baked into /api/resolve by app/wiki/portraits.ts. Keys are People page titles.",
+  "people": {
+    "Alan Cranston": {
+      "request": "Alan Cranston",
+      "file": "/people/alan-cranston.webp",
+      "width": 240,
+      "height": 320,
+      "source": "https://commons.wikimedia.org/wiki/File:AlanCranston.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "U.S. Congress"
+    },
+    "Albert Stubblebine": {
+      "request": "Albert Stubblebine",
+      "file": "/people/albert-stubblebine.webp",
+      "width": 240,
+      "height": 305,
+      "source": "https://commons.wikimedia.org/wiki/File:Albert_Stubblebine_(US_Army_major_general).jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "US Army Office of Public Affairs. Unknown photographer"
+    },
+    "Barry Goldwater": {
+      "request": "Barry Goldwater",
+      "file": "/people/barry-goldwater.webp",
+      "width": 240,
+      "height": 303,
+      "source": "https://commons.wikimedia.org/wiki/File:Senator_Goldwater_1960.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "United States Senate"
+    },
+    "Bill Perry": {
+      "request": "William J. Perry",
+      "file": "/people/bill-perry.webp",
+      "width": 240,
+      "height": 294,
+      "source": "https://commons.wikimedia.org/wiki/File:William_Perry_official_DoD_photo_(retouched)_(cropped).jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "Department of Defense"
+    },
+    "Bobby Ray Inman": {
+      "request": "Bobby Ray Inman",
+      "file": "/people/bobby-ray-inman.webp",
+      "width": 240,
+      "height": 306,
+      "source": "https://commons.wikimedia.org/wiki/File:Admiral_Bobby_Ray_Inman,_official_CIA_photo,_1983.JPEG",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "Unidentified photographer"
+    },
+    "Catherine Austin Fitts": {
+      "request": "Catherine Austin Fitts",
+      "file": "/people/catherine-austin-fitts.webp",
+      "width": 240,
+      "height": 364,
+      "source": "https://commons.wikimedia.org/wiki/File:Catherine_Austin_Fitts_crop.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Cootim20"
+    },
+    "Charles Krulak": {
+      "request": "Charles C. Krulak",
+      "file": "/people/charles-krulak.webp",
+      "width": 240,
+      "height": 300,
+      "source": "https://commons.wikimedia.org/wiki/File:Charles_C._Krulak.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "Unknown author"
+    },
+    "Curtis LeMay": {
+      "request": "Curtis LeMay",
+      "file": "/people/curtis-lemay.webp",
+      "width": 240,
+      "height": 310,
+      "source": "https://commons.wikimedia.org/wiki/File:Curtis_LeMay_(USAF)_(cropped).jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "Unknown author"
+    },
+    "Daniel Sheehan": {
+      "request": "Daniel Sheehan (attorney)",
+      "file": "/people/daniel-sheehan.webp",
+      "width": 240,
+      "height": 161,
+      "source": "https://commons.wikimedia.org/wiki/File:Daniel_Sheehan.png",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Robmodd"
+    },
+    "David Grusch": {
+      "request": "David Grusch UFO whistleblower claims | File:David Grusch giving testimony on 26 July 2023 before the US House Subcommittee on National Security the Border and Foreign Affairs.png",
+      "file": "/people/david-grusch.webp",
+      "width": 240,
+      "height": 192,
+      "source": "https://commons.wikimedia.org/wiki/File:David_Grusch_giving_testimony_on_26_July_2023_before_the_US_House_Subcommittee_on_National_Security_the_Border_and_Foreign_Affairs.png",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "U.S. House Subcommittee on National Security"
+    },
+    "Dawn M. Dunlop": {
+      "request": "Dawn Dunlop",
+      "file": "/people/dawn-m-dunlop.webp",
+      "width": 240,
+      "height": 300,
+      "source": "https://commons.wikimedia.org/wiki/File:Maj._Gen._Dawn_M._Dunlop.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "U.S. Air Force"
+    },
+    "Detlev Bronk": {
+      "request": "Detlev Bronk",
+      "file": "/people/detlev-bronk.webp",
+      "width": 240,
+      "height": 298,
+      "source": "https://commons.wikimedia.org/wiki/File:Detlev_Wulf_Bronk.jpg",
+      "license": "No restrictions",
+      "licenseUrl": "https://www.flickr.com/commons/usage/",
+      "author": "Smithsonian Institution"
+    },
+    "Donald C. Winter": {
+      "request": "Donald C. Winter",
+      "file": "/people/donald-c-winter.webp",
+      "width": 240,
+      "height": 300,
+      "source": "https://commons.wikimedia.org/wiki/File:Donald_Winter,_official_photo_as_Secretary_of_the_Navy,_2006.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "Unknown author"
+    },
+    "Donald M. Kerr": {
+      "request": "Donald Kerr",
+      "file": "/people/donald-m-kerr.webp",
+      "width": 240,
+      "height": 300,
+      "source": "https://commons.wikimedia.org/wiki/File:Don_Kerr,_official_ODNI_photo_portrait.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "ODNI"
+    },
+    "Donald Menzel": {
+      "request": "Donald Howard Menzel",
+      "file": "/people/donald-menzel.webp",
+      "width": 240,
+      "height": 297,
+      "source": "https://commons.wikimedia.org/wiki/File:Donald_Howard_Menzel_Portrait.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Fdavis99 (English Wikipedia)"
+    },
+    "Donna D. Shipton": {
+      "request": "Donna D. Shipton",
+      "file": "/people/donna-d-shipton.webp",
+      "width": 240,
+      "height": 300,
+      "source": "https://commons.wikimedia.org/wiki/File:Lt_Gen_Donna_D._Shipton.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "U.S. Air Force"
+    },
+    "Dwight D. Eisenhower": {
+      "request": "Dwight D. Eisenhower",
+      "file": "/people/dwight-d-eisenhower.webp",
+      "width": 240,
+      "height": 313,
+      "source": "https://commons.wikimedia.org/wiki/File:Dwight_D._Eisenhower,_official_photo_portrait,_May_29,_1959_(cropped)(3).jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "White House"
+    },
+    "Edward C. Aldridge": {
+      "request": "Edward C. Aldridge Jr.",
+      "file": "/people/edward-c-aldridge.webp",
+      "width": 240,
+      "height": 300,
+      "source": "https://commons.wikimedia.org/wiki/File:Edward_C._Aldridge,_Jr..jpeg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "Scott Davis"
+    },
+    "Ellen Lord": {
+      "request": "Ellen Lord",
+      "file": "/people/ellen-lord.webp",
+      "width": 240,
+      "height": 300,
+      "source": "https://commons.wikimedia.org/wiki/File:Ellen_Lord_official_photo.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "Monica King"
+    },
+    "Eric Burlison": {
+      "request": "Eric Burlison",
+      "file": "/people/eric-burlison.webp",
+      "width": 240,
+      "height": 300,
+      "source": "https://commons.wikimedia.org/wiki/File:Rep._Eric_Burlison_-_118th_Congress.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "U.S. House of Representatives"
+    },
+    "Frank Carlucci": {
+      "request": "Frank Carlucci",
+      "file": "/people/frank-carlucci.webp",
+      "width": 240,
+      "height": 293,
+      "source": "https://commons.wikimedia.org/wiki/File:Frank_Carlucci_official_portrait_(cropped).JPEG",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "Ron Hall"
+    },
+    "General Ramey": {
+      "request": "Roger M. Ramey",
+      "file": "/people/general-ramey.webp",
+      "width": 240,
+      "height": 416,
+      "source": "https://commons.wikimedia.org/wiki/File:Roger_Ramey.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "United States Military"
+    },
+    "George C. Marshall": {
+      "request": "George C. Marshall",
+      "file": "/people/george-c-marshall.webp",
+      "width": 240,
+      "height": 305,
+      "source": "https://commons.wikimedia.org/wiki/File:General_George_C._Marshall,_official_military_photo,_1946_(cropped)(c).JPEG",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "Unknown author"
+    },
+    "George E. Brown Jr.": {
+      "request": "George Brown Jr.",
+      "file": "/people/george-e-brown-jr.webp",
+      "width": 240,
+      "height": 330,
+      "source": "https://commons.wikimedia.org/wiki/File:Georgebrownjr.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "Unknown author"
+    },
+    "George Knapp": {
+      "request": "George Knapp (television journalist)",
+      "file": "/people/george-knapp.webp",
+      "width": 240,
+      "height": 231,
+      "source": "https://commons.wikimedia.org/wiki/File:George_Knapp_(8221331696)_(cropped).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Peabody Awards"
+    },
+    "Gordon Cooper": {
+      "request": "Gordon Cooper",
+      "file": "/people/gordon-cooper.webp",
+      "width": 240,
+      "height": 300,
+      "source": "https://commons.wikimedia.org/wiki/File:Gordon_Cooper_2.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "NASA"
+    },
+    "Hans Kammler": {
+      "request": "Hans Kammler",
+      "file": "/people/hans-kammler.webp",
+      "width": 240,
+      "height": 309,
+      "source": "https://commons.wikimedia.org/wiki/File:Hans_Kammler.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "Photo de passeport. Troisième reich"
+    },
+    "Harry Reid": {
+      "request": "Harry Reid",
+      "file": "/people/harry-reid.webp",
+      "width": 240,
+      "height": 305,
+      "source": "https://commons.wikimedia.org/wiki/File:Harry_Reid_official_portrait_2009_(1).jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "United States Congress"
+    },
+    "Hoyt Vandenberg": {
+      "request": "Hoyt Vandenberg",
+      "file": "/people/hoyt-vandenberg.webp",
+      "width": 240,
+      "height": 297,
+      "source": "https://commons.wikimedia.org/wiki/File:Hoyt_S_Vandenberg.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "USAF"
+    },
+    "J. Robert Oppenheimer": {
+      "request": "J. Robert Oppenheimer",
+      "file": "/people/j-robert-oppenheimer.webp",
+      "width": 240,
+      "height": 349,
+      "source": "https://commons.wikimedia.org/wiki/File:Oppenheimer_(cropped).jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "Unknown author"
+    },
+    "James Clapper": {
+      "request": "James Clapper",
+      "file": "/people/james-clapper.webp",
+      "width": 240,
+      "height": 300,
+      "source": "https://commons.wikimedia.org/wiki/File:James_R._Clapper_official_portrait.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "Office of the Director of National Intelligence"
+    },
+    "James Forrestal": {
+      "request": "James Forrestal",
+      "file": "/people/james-forrestal.webp",
+      "width": 240,
+      "height": 303,
+      "source": "https://commons.wikimedia.org/wiki/File:James_Forrestal_-_SecOfDef_(cropped).jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "US Government"
+    },
+    "Jesse Marcel": {
+      "request": "Jesse Marcel",
+      "file": "/people/jesse-marcel.webp",
+      "width": 240,
+      "height": 308,
+      "source": "https://commons.wikimedia.org/wiki/File:JesseMarcel1947.png",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "US Govt"
+    },
+    "John Deutch": {
+      "request": "John M. Deutch",
+      "file": "/people/john-deutch.webp",
+      "width": 240,
+      "height": 291,
+      "source": "https://commons.wikimedia.org/wiki/File:John_Deutch,_Undersecretary_of_Defense,_1993_official_photo.JPEG",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "JAMES E. JACKSON"
+    },
+    "John Deutsch": {
+      "request": "John M. Deutch",
+      "file": "/people/john-deutsch.webp",
+      "width": 240,
+      "height": 291,
+      "source": "https://commons.wikimedia.org/wiki/File:John_Deutch,_Undersecretary_of_Defense,_1993_official_photo.JPEG",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "JAMES E. JACKSON"
+    },
+    "John Greenewald": {
+      "request": "John Greenewald Jr.",
+      "file": "/people/john-greenewald.webp",
+      "width": 240,
+      "height": 179,
+      "source": "https://commons.wikimedia.org/wiki/File:Moszkowiczshow_Greenewald.png",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "author": "Max Moszkowicz"
+    },
+    "John M. Riggs": {
+      "request": "John M. Riggs",
+      "file": "/people/john-m-riggs.webp",
+      "width": 240,
+      "height": 300,
+      "source": "https://commons.wikimedia.org/wiki/File:Lt._Gen._John_M._Riggs.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "U.S. Army"
+    },
+    "John Von Neumann": {
+      "request": "John von Neumann",
+      "file": "/people/john-von-neumann.webp",
+      "width": 240,
+      "height": 313,
+      "source": "https://commons.wikimedia.org/wiki/File:JohnvonNeumann-LosAlamos.gif",
+      "license": "Attribution",
+      "licenseUrl": null,
+      "author": "LANL"
+    },
+    "Leslie Groves": {
+      "request": "Leslie Groves",
+      "file": "/people/leslie-groves.webp",
+      "width": 240,
+      "height": 305,
+      "source": "https://commons.wikimedia.org/wiki/File:LTG_Leslie_R._Groves_(cropped).jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "U.S. Army"
+    },
+    "Linton Wells II": {
+      "request": "Linton Wells II",
+      "file": "/people/linton-wells-ii.webp",
+      "width": 240,
+      "height": 230,
+      "source": "https://commons.wikimedia.org/wiki/File:Linton_Wells_II_in_2020.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Linda Wells"
+    },
+    "Luis Elizondo": {
+      "request": "Luis Elizondo",
+      "file": "/people/luis-elizondo.webp",
+      "width": 240,
+      "height": 145,
+      "source": "https://commons.wikimedia.org/wiki/File:Elizondo_from_Moszkowicz_KFQ1uz6irPc.png",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Max Moszkowicz"
+    },
+    "Martin C. Faga": {
+      "request": "Martin C. Faga",
+      "file": "/people/martin-c-faga.webp",
+      "width": 240,
+      "height": 300,
+      "source": "https://commons.wikimedia.org/wiki/File:Martin_C._Faga.JPEG",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "Unknown author"
+    },
+    "Michael Shellenberger": {
+      "request": "Michael Shellenberger",
+      "file": "/people/michael-shellenberger.webp",
+      "width": 240,
+      "height": 274,
+      "source": "https://commons.wikimedia.org/wiki/File:ShellenbergerNov2024.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "author": "Public.news or Civilization Works"
+    },
+    "Nathan Twining": {
+      "request": "Nathan F. Twining",
+      "file": "/people/nathan-twining.webp",
+      "width": 240,
+      "height": 317,
+      "source": "https://commons.wikimedia.org/wiki/File:Nathan_Twining_02.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "Unknown author"
+    },
+    "Paul Kaminski": {
+      "request": "Paul G. Kaminski",
+      "file": "/people/paul-kaminski.webp",
+      "width": 240,
+      "height": 226,
+      "source": "https://commons.wikimedia.org/wiki/File:Paul_G_Kaminski_from_National_Medal_of_Technology_winners.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "US Govt"
+    },
+    "Rear Admiral Timothy Gallaudet": {
+      "request": "Timothy Gallaudet",
+      "file": "/people/rear-admiral-timothy-gallaudet.webp",
+      "width": 240,
+      "height": 239,
+      "source": "https://commons.wikimedia.org/wiki/File:Timothy_Gallaudet_official_photo.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "United States Department of Commerce"
+    },
+    "Richard B. Landolt": {
+      "request": "Richard B. Landolt",
+      "file": "/people/richard-b-landolt.webp",
+      "width": 240,
+      "height": 360,
+      "source": "https://commons.wikimedia.org/wiki/File:Rear_Adm._Richard_B._Landolt.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "U.S. Navy"
+    },
+    "Robert Cardillo": {
+      "request": "Robert Cardillo",
+      "file": "/people/robert-cardillo.webp",
+      "width": 240,
+      "height": 300,
+      "source": "https://commons.wikimedia.org/wiki/File:Robert_Cardillo_official_photo.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "National Geospatial-Intelligence Agency"
+    },
+    "Robert J. Spane": {
+      "request": "Robert J. Spane",
+      "file": "/people/robert-j-spane.webp",
+      "width": 240,
+      "height": 345,
+      "source": "https://commons.wikimedia.org/wiki/File:Vice_Admiral_Robert_Spane.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "DefenseLink Multimedia"
+    },
+    "Ronald S. Moultrie": {
+      "request": "Ronald Moultrie",
+      "file": "/people/ronald-s-moultrie.webp",
+      "width": 240,
+      "height": 300,
+      "source": "https://commons.wikimedia.org/wiki/File:Ronald_S._Moultrie,_Under_Secretary_of_Defense_2.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "United States Department of Defense"
+    },
+    "Roscoe H. Hillenkoetter": {
+      "request": "Roscoe H. Hillenkoetter",
+      "file": "/people/roscoe-h-hillenkoetter.webp",
+      "width": 240,
+      "height": 278,
+      "source": "https://commons.wikimedia.org/wiki/File:Roscoe_H._Hillenkoetter_(1957).jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "U.S. Gov"
+    },
+    "Salvatore Pais": {
+      "request": "Salvatore Pais",
+      "file": "/people/salvatore-pais.webp",
+      "width": 240,
+      "height": 300,
+      "source": "https://commons.wikimedia.org/wiki/File:Salvatore_Pais.png",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "MrsBobDobalina"
+    },
+    "Sean Kirkpatrick": {
+      "request": "Sean M. Kirkpatrick",
+      "file": "/people/sean-kirkpatrick.webp",
+      "width": 240,
+      "height": 248,
+      "source": "https://commons.wikimedia.org/wiki/File:Sean_Kirkpatrick_31_May_2023.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "NASA/Joel Kowsky"
+    },
+    "Stephanie O'Sullivan": {
+      "request": "Stephanie O'Sullivan",
+      "file": "/people/stephanie-o-sullivan.webp",
+      "width": 240,
+      "height": 300,
+      "source": "https://commons.wikimedia.org/wiki/File:Stephanie_O%27Sullivan.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "Office of the Director of National Intelligence"
+    },
+    "Steven Greer": {
+      "request": "Steven M. Greer",
+      "file": "/people/steven-greer.webp",
+      "width": 240,
+      "height": 263,
+      "source": "https://commons.wikimedia.org/wiki/File:StevenGreer01_(cropped).jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "Energy Artist"
+    },
+    "Susan Gordon": {
+      "request": "Susan M. Gordon",
+      "file": "/people/susan-gordon.webp",
+      "width": 240,
+      "height": 300,
+      "source": "https://commons.wikimedia.org/wiki/File:Susan_M._Gordon_official_photo.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "Director of National Intelligence"
+    },
+    "Thomas J. DuBose": {
+      "request": "Thomas DuBose",
+      "file": "/people/thomas-j-dubose.webp",
+      "width": 240,
+      "height": 319,
+      "source": "https://commons.wikimedia.org/wiki/File:Brig._Gen._Thomas_J._Du_Bose.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "Defense Media Activity"
+    },
+    "Thomas Wilson": {
+      "request": "Thomas R. Wilson",
+      "file": "/people/thomas-wilson.webp",
+      "width": 240,
+      "height": 307,
+      "source": "https://commons.wikimedia.org/wiki/File:Vadm_thomas_r_wilson.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "U.S. Navy"
+    },
+    "Tom DeLonge": {
+      "request": "Tom DeLonge",
+      "file": "/people/tom-delonge.webp",
+      "width": 240,
+      "height": 320,
+      "source": "https://commons.wikimedia.org/wiki/File:Angels%26Airwaves_Hansaring_06_Tom_DeLonge_(Cropped).jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "A.Savin"
+    },
+    "Vannevar Bush": {
+      "request": "Vannevar Bush",
+      "file": "/people/vannevar-bush.webp",
+      "width": 240,
+      "height": 336,
+      "source": "https://commons.wikimedia.org/wiki/File:Vannevar_Bush,_1938,_Harris_%26_Ewing_(cropped).jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "Harris & Ewing"
+    },
+    "Walter Bedell Smith": {
+      "request": "Walter Bedell Smith",
+      "file": "/people/walter-bedell-smith.webp",
+      "width": 240,
+      "height": 337,
+      "source": "https://commons.wikimedia.org/wiki/File:Lieutenant_General_Walter_Bedell_Smith,_three-quarter_length_portrait,_seated,_facing_front,_in_uniform.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "Unknown author"
+    },
+    "Walter Haut": {
+      "request": "Walter Haut",
+      "file": "/people/walter-haut.webp",
+      "width": 240,
+      "height": 316,
+      "source": "https://commons.wikimedia.org/wiki/File:Walter_Haut_1947.png",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "US Govt"
+    },
+    "William A. Owens": {
+      "request": "William Owens (admiral)",
+      "file": "/people/william-a-owens.webp",
+      "width": 240,
+      "height": 300,
+      "source": "https://commons.wikimedia.org/wiki/File:Admiral_William_Owens,_military_portrait,_1994.JPEG",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "RICHARD L. OASEN"
+    },
+    "William Blanchard": {
+      "request": "William H. Blanchard",
+      "file": "/people/william-blanchard.webp",
+      "width": 240,
+      "height": 305,
+      "source": "https://commons.wikimedia.org/wiki/File:Wm_H_Blanchard_VCSAF.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "Alfred I. Sherman"
+    },
+    "William F. Raborn": {
+      "request": "William Raborn",
+      "file": "/people/william-f-raborn.webp",
+      "width": 240,
+      "height": 297,
+      "source": "https://commons.wikimedia.org/wiki/File:Vice_Adm._William_F._Raborn_Jr.,_USN,_Ret._(uncovered)_(cropped).jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "U.S. Navy"
+    },
+    "William LaPlante": {
+      "request": "William A. LaPlante",
+      "file": "/people/william-laplante.webp",
+      "width": 240,
+      "height": 320,
+      "source": "https://commons.wikimedia.org/wiki/File:William_A._LaPlante,_Defense_Under_Secretary.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "United States Department of Defense"
+    },
+    "Xaver Dorsch": {
+      "request": "Franz Xaver Dorsch",
+      "file": "/people/xaver-dorsch.webp",
+      "width": 240,
+      "height": 324,
+      "source": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-B22744,_Atlantikwall,_Albert_Speer,_Xaver_Dorsch.jpg",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "author": "Weinbach"
+    }
+  },
+  "skipped": {
+    "Ben Rich": {
+      "request": "Ben Rich (engineer)",
+      "reason": "article has no freely licensed lead image"
+    },
+    "Edward J. Ruppelt": {
+      "request": "Edward J. Ruppelt",
+      "reason": "image is not on Wikimedia Commons (likely non-free)"
+    },
+    "Eric A. Walker": {
+      "request": "Eric A. Walker (engineer)",
+      "reason": "article has no freely licensed lead image"
+    },
+    "Gary Nolan": {
+      "request": "Garry Nolan",
+      "reason": "article has no freely licensed lead image"
+    },
+    "Jeffrey T. Richelson": {
+      "request": "Jeffrey T. Richelson",
+      "reason": "article has no freely licensed lead image"
+    },
+    "John P. Craven": {
+      "request": "John P. Craven",
+      "reason": "article has no freely licensed lead image"
+    },
+    "John Torrence Tate": {
+      "request": "John Torrence Tate Sr.",
+      "reason": "article has no freely licensed lead image"
+    },
+    "Kevin Knuth": {
+      "request": "Kevin Knuth",
+      "reason": "article has no freely licensed lead image"
+    },
+    "Kevin Randle": {
+      "request": "Kevin D. Randle",
+      "reason": "article has no freely licensed lead image"
+    },
+    "Leonard Stringfield": {
+      "request": "Leonard H. Stringfield",
+      "reason": "article has no freely licensed lead image"
+    },
+    "Leslie Kean": {
+      "request": "Leslie Kean",
+      "reason": "article has no freely licensed lead image"
+    },
+    "Paul Bennewitz": {
+      "request": "Paul Bennewitz",
+      "reason": "article has no freely licensed lead image"
+    },
+    "Robert M. Salter": {
+      "request": "Robert M. Salter",
+      "reason": "article has no freely licensed lead image"
+    },
+    "Victor Marchetti": {
+      "request": "Victor Marchetti",
+      "reason": "article has no freely licensed lead image"
+    }
+  }
+}

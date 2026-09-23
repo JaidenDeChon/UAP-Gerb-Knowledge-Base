@@ -1,6 +1,7 @@
 ---
 name: "Barry Goldwater"
 role: "Former US Senator (R-AZ), Major General in US Air Force Reserve, 1964 Republican Presidential Candidate"
+wikipedia: "Barry Goldwater"
 tags:
   - person
 ---

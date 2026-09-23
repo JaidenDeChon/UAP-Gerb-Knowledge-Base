@@ -1,6 +1,7 @@
 ---
 name: "Edward C. Aldridge"
 role: "Under Secretary of the Air Force (1981–1986); Secretary of the Air Force (1986–1988); CEO of Aerospace Corporation; Under Secretary of Defense for Acquisition, Technology and Logistics (2001–2003)"
+wikipedia: "Edward C. Aldridge Jr."
 tags:
   - person
 ---

@@ -90,7 +90,7 @@ function play(): void {
         :src="thumb"
         alt=""
         decoding="async"
-        class="ufo-hero-thumb"
+        class="ufo-hero-thumb ufo-fade"
         :class="{ 'is-loaded': thumbLoaded }"
         @load="thumbLoaded = true"
         @error="onThumbError"
@@ -183,10 +183,9 @@ function play(): void {
   pointer-events: none;
 }
 /* The thumbnail sits to the right, where the text panel opens up. Solid over
-   its right 40%, its left 60% eases out (the "scrim" curve: slow at both
-   ends, so no visible line) into the panel's own fade, and the bottom scrim
-   takes it into the page. `to left` measures from the right edge, so the
-   stops run 40% → 100% toward the image's left edge. */
+   its right 40%, its left 60% eases out into the panel's own fade (the shared
+   `ufo-fade` mask in main.css: the "scrim" curve, slow at both ends, so no
+   visible line), and the bottom scrim takes it into the page. */
 .ufo-hero-thumb {
   position: absolute;
   top: 0;
@@ -197,27 +196,8 @@ function play(): void {
   object-position: center;
   opacity: 0;
   transition: opacity 700ms var(--ease-standard);
-  --ufo-hero-thumb-fade: linear-gradient(
-    to left,
-    rgb(0 0 0 / 1) 40.0%,
-    rgb(0 0 0 / 0.987) 44.9%,
-    rgb(0 0 0 / 0.951) 49.3%,
-    rgb(0 0 0 / 0.896) 53.5%,
-    rgb(0 0 0 / 0.825) 57.4%,
-    rgb(0 0 0 / 0.741) 61.2%,
-    rgb(0 0 0 / 0.648) 64.7%,
-    rgb(0 0 0 / 0.55) 68.3%,
-    rgb(0 0 0 / 0.45) 71.7%,
-    rgb(0 0 0 / 0.352) 75.3%,
-    rgb(0 0 0 / 0.259) 78.8%,
-    rgb(0 0 0 / 0.175) 82.6%,
-    rgb(0 0 0 / 0.104) 86.5%,
-    rgb(0 0 0 / 0.049) 90.7%,
-    rgb(0 0 0 / 0.013) 95.1%,
-    rgb(0 0 0 / 0) 100.0%
-  );
-  -webkit-mask-image: var(--ufo-hero-thumb-fade);
-  mask-image: var(--ufo-hero-thumb-fade);
+  -webkit-mask-image: var(--ufo-fade-x);
+  mask-image: var(--ufo-fade-x);
 }
 .ufo-hero-thumb.is-loaded {
   opacity: 1;
@@ -325,17 +305,18 @@ function play(): void {
     display: none;
   }
   /* The thumbnail becomes a band above the text: full width, cropped to
-     its middle, fading out through the scrim below. */
+     its middle, with the same eased mask turned to run down the band (solid
+     over its top third, gone by 184px). The breadcrumb, the smallest text
+     in the hero, starts at 188px, so nothing is set on the fade. */
   .ufo-hero-thumb {
     width: 100%;
     height: 184px;
-    -webkit-mask-image: none;
-    mask-image: none;
+    --ufo-fade-y-start: 34%;
+    -webkit-mask-image: var(--ufo-fade-y);
+    mask-image: var(--ufo-fade-y);
   }
-  /* Full page colour by 184px; the breadcrumb, the smallest text in the
-     hero, starts at 188px so nothing is set on the fade. */
   .ufo-hero-scrim--y {
-    background: linear-gradient(to bottom, hsl(var(--background) / 0) 0px, hsl(var(--background) / 0) 128px, hsl(var(--background)) 184px, hsl(var(--background)) 100%);
+    display: none;
   }
   .ufo-hero-content {
     padding-block: 188px 32px;

@@ -1,6 +1,7 @@
 ---
 name: "Robert Cardillo"
 role: "Deputy Director of National Intelligence (DDNI) for Intelligence Integration; Director of NGA; Deputy Director of DIA"
+wikipedia: "Robert Cardillo"
 tags:
   - person
 ---

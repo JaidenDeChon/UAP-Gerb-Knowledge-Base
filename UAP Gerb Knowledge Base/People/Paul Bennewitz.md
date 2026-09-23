@@ -1,6 +1,7 @@
 ---
 name: "Paul Bennewitz"
 role: "Albuquerque businessman and physicist; target of an Air Force disinformation campaign"
+wikipedia: "Paul Bennewitz"
 tags:
   - person
 ---

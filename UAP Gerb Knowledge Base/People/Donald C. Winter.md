@@ -1,6 +1,7 @@
 ---
 name: "Donald C. Winter"
 role: "TRW executive; first head of Northrop Grumman Mission Systems; 74th Secretary of the Navy"
+wikipedia: "Donald C. Winter"
 tags:
   - person
 ---

@@ -1,6 +1,7 @@
 ---
 name: "Curtis LeMay"
 role: "General, US Air Force"
+wikipedia: "Curtis LeMay"
 tags:
   - person
 ---

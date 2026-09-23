@@ -1,6 +1,7 @@
 ---
 name: "George Knapp"
 role: "Investigative journalist; media personality; UAP researcher"
+wikipedia: "George Knapp (television journalist)"
 tags:
   - person
 ---

@@ -1,6 +1,7 @@
 ---
 name: "William A. LaPlante"
 role: "Under Secretary of Defense for Acquisition and Sustainment (2022–2025); former Assistant Secretary of the Air Force for Acquisition (2014–2017); former senior VP and GM, MITRE National Security Engineering Center"
+wikipedia: "William A. LaPlante"
 tags:
   - person
 ---

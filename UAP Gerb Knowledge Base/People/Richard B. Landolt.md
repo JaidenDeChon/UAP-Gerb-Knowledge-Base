@@ -1,6 +1,7 @@
 ---
 name: "Richard B. Landolt"
 role: "US Navy rear admiral; commander, Amphibious Force 7th Fleet (Task Force 76)"
+wikipedia: "Richard B. Landolt"
 tags:
   - person
 ---

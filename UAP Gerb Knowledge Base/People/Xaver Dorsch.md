@@ -1,6 +1,7 @@
 ---
 name: "Xaver Dorsch"
 role: "Director of the Organisation Todt, Nazi Germany"
+wikipedia: "Franz Xaver Dorsch"
 tags:
   - person
 ---

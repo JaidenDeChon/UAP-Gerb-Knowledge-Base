@@ -1,6 +1,7 @@
 ---
 name: "Sean Kirkpatrick"
 role: "Director of AARO (All-domain Anomaly Resolution Office)"
+wikipedia: "Sean M. Kirkpatrick"
 tags:
   - person
 ---

@@ -1,6 +1,7 @@
 ---
 name: "Alan Cranston"
 role: "US Senator from California (1969–1993)"
+wikipedia: "Alan Cranston"
 tags:
   - person
 ---

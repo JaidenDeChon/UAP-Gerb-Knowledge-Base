@@ -1,6 +1,7 @@
 ---
 name: "Paul Kaminski"
 role: "Under Secretary of Defense for Acquisition and Technology (1994–1997); MITRE Corporation board member"
+wikipedia: "Paul G. Kaminski"
 tags:
   - person
 ---

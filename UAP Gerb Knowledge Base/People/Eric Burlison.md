@@ -1,6 +1,7 @@
 ---
 name: "Eric Burlison"
 role: "U.S. Representative for Missouri's 7th congressional district (2023–present); member of the House UAP Caucus"
+wikipedia: "Eric Burlison"
 tags:
   - person
 ---

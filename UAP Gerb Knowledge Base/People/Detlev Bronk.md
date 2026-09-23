@@ -1,6 +1,7 @@
 ---
 name: "Detlev Bronk"
 role: "Biophysicist; president of the National Academy of Sciences; alleged Majestic 12 member"
+wikipedia: "Detlev Bronk"
 tags:
   - person
 ---

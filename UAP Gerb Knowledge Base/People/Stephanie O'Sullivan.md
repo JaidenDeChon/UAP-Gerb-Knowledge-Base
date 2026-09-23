@@ -1,6 +1,7 @@
 ---
 name: "Stephanie O'Sullivan"
 role: "Principal Deputy Director of National Intelligence (2011–2017); former CIA Deputy Director for Science and Technology; former TRW employee"
+wikipedia: "Stephanie O'Sullivan"
 tags:
   - person
 ---

@@ -1,6 +1,7 @@
 ---
 name: "Daniel Sheehan"
 role: "Constitutional attorney; general counsel for Luis Elizondo and Lue Elizondo"
+wikipedia: "Daniel Sheehan (attorney)"
 tags:
   - person
 ---
