@@ -483,16 +483,46 @@ The Navy's university-affiliated research centers include the applied physics la
 
 Sharp's article on the failure of the [[Schumer Amendment (NDAA)|UAP Disclosure Act]] in the FY2025 National Defense Authorization Act went through three versions in five days. The host reads the edits themselves as evidence: information Sharp considered dangerous to publish.
 
-::wiki-grid{cols=3}
-::wiki-panel{title="20 September 2024: the original"}
-Named the CIA's DS&T and Directorate of Operations (including its maritime branch), NURO, the Navy, the NRO, Space Command, the NGA and JSOC. It described undersea retrievals involving the Directorate of Operations, NURO, SOCOM and Woods Hole submersibles, and retrievals on foreign soil by the CIA's Office of Global Access with JSOC.
-::
-::wiki-panel{title="22 September: stripped"}
-Every reference to the Navy, NURO, Woods Hole, the NGA, the NRO and JSOC was redacted, leaving only the CIA DS&T, DoD and DOE. Accused of "stealth edits", Sharp said the details were sourced and were removed "because of the threats posed to me".
-::
-::wiki-panel{title="25 September: restored and expanded" tone="accent"}
-After "someone has recklessly put me at extreme risk", Sharp restored the details with more specifics. Woods Hole had provided deep-submergence vehicles "to support retrieval efforts", and recovered craft were "transferred to the Office of Naval Research", which hands them to defense contractors for analysis.
-::
+The first version, published on 20 September 2024, named the CIA's Directorate of Science and Technology and its Directorate of Operations (including its maritime branch), NURO, the Navy, the NRO, Space Command, the NGA and JSOC. It described undersea retrievals involving the Directorate of Operations, NURO, SOCOM and Woods Hole submersibles, and retrievals on foreign soil by the CIA's Office of Global Access with JSOC. Two days later almost all of that was gone. Accused of "stealth edits", Sharp said the details were sourced and had been removed "because of the threats posed to me". On 25 September he put them back, with more specifics:
+
+::wiki-compare{video="H9GSqOEvoBE" video-title="US Navy UFO Crash Retrieval & Reverse Engineering Programs"}
+---
+caption: "What each version of Sharp's article said, as the host reads them in turn. A dash means that version, as the host describes it, does not say."
+attributeLabel: "In the article"
+subjects:
+  - name: "20 September 2024"
+    note: "The original"
+  - name: "22 September"
+    note: "Stripped"
+  - name: "25 September"
+    note: "Restored and expanded"
+rows:
+  - attribute: "CIA DS&T, DoD and DOE"
+    cells:
+      - { text: "Named", mark: same, cue: 483 }
+      - { text: "Still named", mark: same, cue: 571 }
+      - { text: "Named", mark: same }
+  - attribute: "Navy, NURO, NRO, NGA and JSOC"
+    cells:
+      - { text: "Named, with Space Command", cue: 483 }
+      - { text: "Redacted", mark: differs, cue: 560 }
+      - { text: "Restored", cue: 601 }
+  - attribute: "Woods Hole"
+    cells:
+      - "Its submersibles used in undersea retrievals"
+      - { text: "Redacted", mark: differs }
+      - { text: "Provided deep-submergence vehicles \"to support retrieval efforts\"", cue: 636 }
+  - attribute: "Where recovered craft go"
+    cells:
+      - ""
+      - ""
+      - { text: "\"Transferred to the Office of Naval Research\", which hands them to defense contractors", cue: 651 }
+  - attribute: "Sharp's comment"
+    cells:
+      - ""
+      - { text: "Removed \"because of the threats posed to me\"", cue: 588 }
+      - { text: "\"Someone has recklessly put me at extreme risk\"", cue: 604 }
+---
 ::
 
 The CIA DS&T has been accused before. The host recalls that former DS&T director [[Glenn Gaffney]] is described as the gatekeeper who stopped Lockheed Martin from moving UFO materials, likely from the [[1953 Kingman, Arizona Crash Retrieval|1953 Kingman crash]], to the OSAP program in 2008. Former DS&T deputy director [[Doug Wolfe|Doug Wolf]] helped found the CIA's Office of Global Access in 2003.
@@ -523,26 +553,35 @@ On the Project Unity show in 2022, Inman said he had found "plausible explanatio
 
 In 1989 NASA mission specialist Bob Echler, introduced through Admiral Lord Hill-Norton, asked Inman whether recovered vehicles might ever be available for research outside military circles. In the recorded [[Inman-Echler Telephone Call]], Inman said that "ten years ago, the answer would have been no", and that openness might be evolving. He named the CIA's deputy director for science and technology, [[Everett Heinman]], as the best place to start, since his imminent retirement might make him more willing to talk. A later call from Inman's office warned Echler that discussing Inman's involvement would breach confidence or the secrecy laws. The host notes that Inman, a NURO director, sent Echler to the DS&T, one of NURO's two founding agencies.
 
-::wiki-org-chart
+::wiki-chain{video="H9GSqOEvoBE" video-title="US Navy UFO Crash Retrieval & Reverse Engineering Programs"}
 ---
-root:
-  name: Bob Echler
-  label: "NASA mission specialist"
-  note: "Asked whether recovered vehicles would ever be released for research."
-  children:
-    - name: "Admiral Lord Hill-Norton"
-      label: Made the introduction
-      children:
-        - name: Bobby Ray Inman
-          label: "Confirmed, 1989"
-          note: "The US held craft 'in operational condition'; pointed Echler onward, then had his office warn him."
-          children:
-            - name: Everett Heinman
-              label: "Denied, 10 Aug 1989"
-              note: "Denied everything at Langley; in 2022 told RGH UFOs he was 'a long way' from the subject."
-            - name: Sumar Shapiro
-              label: "Confirmed, 1989; cut off, 1990"
-              note: "Said he had studied craft at close quarters, and that they were dismantled and shipped between labs."
+kind: transmission
+label: "Chain of referral"
+caption: "How Echler's question was passed from one official to the next, 1989 to 1990."
+steps:
+  - name: "Bob Echler"
+    note: "NASA mission specialist asking whether recovered vehicles would ever be released for research."
+  - via: "Put Echler in touch"
+    text: "Admiral Lord Hill-Norton"
+    cue: 2056
+  - via: "Recorded telephone call, 1989"
+    name: "Bobby Ray Inman"
+    note: "Confirmed the US held craft \"in operational condition\"; his office later warned Echler off."
+    cue: 2090
+  - via: "Referred Echler on"
+    fork:
+      - label: "CIA DS&T"
+        steps:
+          - name: "Everett Heinman"
+            date: "1989-08-10"
+            note: "Denied everything at Langley; in 2022 told RGH UFOs he was \"a long way\" from the subject."
+            cue: 2206
+      - label: "Naval intelligence"
+        steps:
+          - name: "Sumar Shapiro"
+            date: "1989–1990"
+            note: "Said he had studied craft at close quarters; ended the second meeting, suspecting false pretenses."
+            cue: 2279
 ---
 ::
 
@@ -678,7 +717,35 @@ Air Force veteran Steven Walker described a lockdown for a classified arrival th
 ::
 ::
 
-The host treats **Great Lakes** as the most fruitful case (Status Report III, case A7). RK, whose real name the host knows and is vetting, told Stringfield on 14 July 1980 that in September 1973 an officer had him deliver a sealed envelope inside a hut that he had orders to keep everyone 100 yards away from. The sailor's story, with a sketch that matched, was this. A destroyer tracked a UFO that made three close passes and one direct overflight. A lucky hit brought it down into about 350 feet of water. The Glomar Explorer raised it and shipped it to Hawaii, then stateside, then Chicago. ONR's Chicago office sits less than 40 miles from Great Lakes. If true, the host says, NURO's ship shot down and recovered a craft and delivered it to an ONR location, exactly the pipeline Sharp's sources described in 2024. He adds that Inman learned of the Glomar's activities in Hawaii in 1972–1974. Stringfield published the case in the 1980s, when the Glomar's links to NURO were barely known.
+The host treats **Great Lakes** as the most fruitful case (Status Report III, case A7). RK, whose real name the host knows and is vetting, told Stringfield on 14 July 1980 that in September 1973 an officer had him deliver a sealed envelope inside a hut that he had orders to keep everyone 100 yards away from. Weeks earlier, a sailor in San Diego had told him a story, with a sketch that matched what he then saw: a destroyer tracked a UFO that made three close passes and one direct overflight, and in June 1973 a lucky hit brought it down into about 350 feet of water.
+
+::wiki-chain{video="H9GSqOEvoBE" video-title="US Navy UFO Crash Retrieval & Reverse Engineering Programs"}
+---
+kind: custody
+caption: "Where the San Diego sailor told RK the craft went, from Stringfield's case A7. The sailor's account ends at Chicago; RK saw the craft at Great Lakes, which the host notes is less than 40 miles from the Office of Naval Research's Chicago department."
+steps:
+  - text: "The Pacific, between Hawaii and the mainland"
+    date: "1973-06"
+    note: "Shot down by the Navy after a destroyer tracked it; it fell into about 350 ft of water."
+    cue: 4733
+  - via: "Raised from the seabed"
+    text: "Hughes Glomar Explorer"
+    note: "The CIA's recovery ship, which the host treats as a NURO asset."
+    cue: 4761
+  - via: "Shipped"
+    text: "Hawaii"
+  - via: "Sent stateside"
+    text: "Chicago"
+    cue: 4766
+  - via: "Seen by RK"
+    text: "Great Lakes Naval Base, Illinois"
+    date: "1973-09"
+    note: "A 30 ft, light silvery-blue teardrop on a wooden platform in a guarded Quonset hut."
+    cue: 4678
+---
+::
+
+If true, the host says, NURO's ship shot down and recovered a craft and delivered it to an ONR location, exactly the pipeline Sharp's sources described in 2024. He adds that Inman learned of the Glomar's activities in Hawaii in 1972–1974. Stringfield published the case in the 1980s, when the Glomar's links to NURO were barely known.
 
 Other testimony points the same way. In 1994 former New Mexico state representative [[Andrew Kissner]] said sources at White Sands and the Naval Research Laboratory told him that discs recovered in 1947 went into the custody of the [[Atomic Energy Commission]]. National laboratories such as [[Los Alamos National Laboratory|Los Alamos]], [[Sandia National Laboratories|Sandia]], [[RAND Corporation|RAND]] and [[MITRE Corporation|MITRE]] studied them. According to those sources, a 1948 Truman executive order made the NSC the programs' coordinator, supported by Air Force Systems Command, Vannevar Bush's Research and Development Board and the Naval Research Laboratory. The host also cites [[Richard Sauder]]'s research on deep underwater military bases, and the Navy's test ranges at the Atlantic Undersea Test and Evaluation Center on Andros Island and the Pacific Missile Range Facility in Hawaii.
 

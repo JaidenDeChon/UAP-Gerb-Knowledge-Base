@@ -529,18 +529,46 @@ root:
 
 The host closes on Dugway's contractors. MS said more than half of Dugway's operations are contract work, and according to the GAO about 77% of the West Desert Test Center's acknowledged work in fiscal year 2013 was for the Chemical and Biological Defense Program. That leads the host to Battelle. He has covered it before, for [[Project Stork]], its parallel UAP study alongside Project Blue Book, and for its links to [[Nitinol (Nickel-Titanium Alloy)|nickel-titanium alloys]], which may have been the shape-memory alloy recovered at [[Roswell Crash|Roswell]]. At Fort Detrick, Maryland, Battelle runs a biodefense institute and manages the National Biodefense Analysis and Countermeasures Center, an FFRDC for the Department of Homeland Security's Under Secretary for Science and Technology. Fort Detrick has lately entered UFO lore as a possible store for non-human biologics, though the host sets aside a Reddit whistleblower's claims about it as needing more research.
 
-A Chemical and Biological Defense Program partners chart lists Dugway and Battelle among a select few program locations. The West Desert Test Center and Fort Detrick's interagency biodefense campus are two of the program's four primary R&D and test sites. Battelle has also run the Chemical and Biological Defense Information Analysis Center at Dugway. Researcher Anthony Bragalia has pointed to documents showing that Battelle's design-build division engineered sealed test structures at Dugway meeting containment standards "never achieved before", and that its services include clean rooms. That is the kind of room MS described. Then the host turns to three careers:
+A Chemical and Biological Defense Program partners chart lists Dugway and Battelle among a select few program locations. The West Desert Test Center and Fort Detrick's interagency biodefense campus are two of the program's four primary R&D and test sites. Battelle has also run the Chemical and Biological Defense Information Analysis Center at Dugway. Researcher Anthony Bragalia has pointed to documents showing that Battelle's design-build division engineered sealed test structures at Dugway meeting containment standards "never achieved before", and that its services include clean rooms. That is the kind of room MS described. Then the host turns to three careers that crossed between Battelle and the West Desert Test Center: those of [[Ryan W Harris|Ryan W. Harris]], a chemical engineer; [[Greg Frank]], of the Army Chemical Corps; and a man the video names as Anders Weborg.
 
-::wiki-grid{cols=3}
-::wiki-panel{title="Ryan W. Harris" tone="accent"}
-[[Ryan W Harris|Harris]] is a chemical engineer and former Army chemical officer. In 2000 he became a Battelle project manager at Dugway, overseeing testing and training programs. In 2004 he moved to a Dugway project manager post, and in 2012 he rose to director of the West Desert Test Center, in charge of all its chemical, biological and acquisition test programs.
-::
-::wiki-panel{title="Greg Frank"}
-[[Greg Frank|Frank]], of the Army Chemical Corps, was a chemist in Dugway's Chemical Laboratory Division in 1984–85 and a test officer on vehicle and chemical munition programs. On leaving service in 1985 he joined Battelle as a project manager. By 2008 he was executive vice president of Battelle Science and Technology International, over more than 5,000 staff.
-::
-::wiki-panel{title="Anders Weborg (as named in the video)"}
-He was formerly director of the West Desert Test Center's special programs division, running daily test operations, and now works for the Department of Energy. Before Dugway he was a Battelle test director for chemical and biological defense equipment.
-::
+::wiki-compare{video="rePrVmR6a68" video-title="Dugway Proving Ground - UFO Legacy Programs"}
+---
+caption: "Three careers between Battelle and Dugway, as the host reads them from public biographies. Two went from Battelle to the test center; one went the other way."
+attributeLabel: "Career"
+subjects:
+  - name: "Ryan W Harris"
+    note: "Director, West Desert Test Center"
+  - name: "Greg Frank"
+    note: "Battelle executive"
+  - name: "Anders Weborg"
+    note: "As named in the video"
+rows:
+  - attribute: "Military background"
+    cells:
+      - "Army chemical officer"
+      - "Army Chemical Corps"
+      - ""
+  - attribute: "At Battelle"
+    cells:
+      - { text: "Project manager at Dugway from 2000, overseeing testing and training programs", cue: 3694 }
+      - { text: "Project manager and principal investigator from 1985, in chemical and biological defense", cue: 3769 }
+      - { text: "Test director for chemical and biological defense equipment", cue: 3816 }
+  - attribute: "At Dugway"
+    cells:
+      - { text: "Dugway project manager from 2004; director of the West Desert Test Center from 2012", cue: 3706 }
+      - { text: "Chemist in the Chemical Laboratory Division, 1984–85, and test officer", cue: 3741 }
+      - { text: "Director of the test center's special programs division, running daily test operations", cue: 3803 }
+  - attribute: "Direction of the move"
+    cells:
+      - "Battelle to Dugway"
+      - "Dugway to Battelle"
+      - "Battelle to Dugway"
+  - attribute: "Latest role"
+    cells:
+      - "Director of the West Desert Test Center"
+      - { text: "Executive vice president, Battelle Science and Technology International, over 5,000 staff (as of 2008)", cue: 3783 }
+      - "Department of Energy"
+---
 ::
 
 "Interesting," the host says, "how a Battelle project manager becomes director of an MRTFB where witnesses have claimed a UAP legacy program employing DOD chemists takes place." Jacobs Solutions, which does range testing and lab services at the West Desert Test Center, is another suspect for future work. But because Dugway is so focused on chemical and biological weapons, Battelle remains his primary suspect. :wiki-cue{t=3670 video="rePrVmR6a68" video-title="Dugway Proving Ground - UFO Legacy Programs"}

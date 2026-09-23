@@ -622,13 +622,40 @@ Corporate DUMBs are not far-fetched. In 1981 [[AT&T]] revealed several emergency
 
 Beneath the Pentagon is an acknowledged stiff, the National Military Command Center, which issues emergency action messages to missile launch centres, submarines and commanders. It was meant as an interim facility for the Deep Underground Command Center, which conventional sources say was never built. Top-secret memos dated 7 November 1963, three weeks before Kennedy's assassination, show Robert McNamara proposing meetings on a command centre 3,500 feet below Washington. It was to be reached by an elevator from the Pentagon and built to survive direct hits from 200-to-300-megaton warheads penetrating 70 to 100 feet before detonating. Two sizes were costed:
 
-::wiki-grid{cols=2}
-::wiki-panel{title="The austere facility"}
-10,000 sq ft in total, 5,000 operating. 40 people at 3,500 ft. Over $110 million, about $1.1 billion today. The Joint Chiefs thought it too small.
-::
-::wiki-panel{title="The moderate facility" tone="accent"}
-100,000 sq ft in total, 50,000 operating. 300 people at 3,500 ft. $310 million, over $3.2 billion today.
-::
+::wiki-compare{video="7Ats0lIy3Lo" video-title="Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs"}
+---
+caption: "The two sizes of Deep Underground Command Center costed in the 1963 planning, as the host reads them from the declassified memos. Both sit at the same depth; the moderate one is ten times larger."
+attributeLabel: "Option"
+subjects:
+  - name: "Austere facility"
+  - name: "Moderate facility"
+rows:
+  - attribute: "Depth"
+    cells:
+      - { text: "3,500 ft", mark: same }
+      - { text: "3,500 ft", mark: same }
+  - attribute: "Total area"
+    cells:
+      - { text: "10,000 sq ft", cue: 3272 }
+      - { text: "100,000 sq ft", cue: 3287 }
+  - attribute: "Operating area"
+    cells:
+      - "5,000 sq ft"
+      - "50,000 sq ft"
+  - attribute: "People"
+    cells:
+      - "40"
+      - "300"
+  - attribute: "Cost"
+    note: "Then, and the host's figure for today"
+    cells:
+      - "Over $110 million (about $1.1 billion)"
+      - "$310 million (over $3.2 billion)"
+  - attribute: "Joint Chiefs"
+    cells:
+      - { text: "Thought it too small", cue: 3303 }
+      - ""
+---
 ::
 
 The memo said there was "little argument" that the DUCC was technically feasible and that its nature "lends itself to later expansion". On 16 January 1964, under Johnson, Walt Rostow wrote to McGeorge Bundy that the concept should proceed. A same-day memo between Bundy and Carl Kaysen showed planning had continued since the start of the Johnson administration, and noted that Kaysen had spoken to Harold Brown, Director of Defense Research and Engineering from 1961 to 1965. A last memo, from the Bureau of the Budget around 1963–64, is more than 40% redacted.

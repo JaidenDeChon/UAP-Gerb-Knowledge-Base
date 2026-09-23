@@ -688,19 +688,52 @@ The host also floats a dedicated JSOC-linked retrieval team stationed in South A
 
 The host identified the three Marines Weygandt names, Staff Sergeant Montil and Sergeants Allen and Atkins, as real veterans who all had long, distinguished Marine Corps careers after Laser Strike. He wrote to them on several platforms, and to about ten people tied to the operation in all, including Air Force personnel he associates with Detachment 5, most of whom cited classification. Only one Marine answered, and the host keeps his identity private. His outreach mentioned a MACG-28 lance corporal's story of "a unique downed aircraft" without naming Weygandt.
 
-::wiki-grid{cols=2}
-::wiki-panel{title="The sergeant's reply"}
-- "The operation is still classified. However, there was no incident involving a unique downed aircraft that I know of or encountered during my deployment."
-- He knew of a Lance Corporal Weygandt in his platoon, whom he called a good, respectful and dedicated young Marine with a medical condition.
-- Much of his reply argued that the Marines could not have had Hawk batteries in Peru in 1997.
-- He said Weygandt never deployed to Pucallpa or to Laser Strike, may have picked up details from Marines who did, and "was never a participant in any clandestine operations".
-::
-::wiki-panel{title="The host's response" tone="accent"}
-- Weygandt agrees that the Marines had no Hawks there. His theory has always been that *Peruvian* Hawks downed the craft.
-- Weygandt never claimed to take part in a clandestine operation; his unit simply ran into one.
-- MACG-28 Marines from Cherry Point did deploy to Laser Strike. Weygandt described the operation accurately as early as August 2000, and his only apparent error is the Bolivian border.
-- As with attacks on [[David Grusch]], and Michael Herrera's team leader calling him unstable for lifting weights and keeping to himself, he objects to dismissing witnesses over their health.
-::
+The sergeant's answer opened with the classification: "The operation is still classified. However, there was no incident involving a unique downed aircraft that I know of or encountered during my deployment." The host takes his other points one by one:
+
+::wiki-claim{video="7Jc2G5aEH0A" video-title="1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt"}
+---
+label: "The sergeant's reply and the host's answers"
+term: "Point"
+caption: "One of the three sergeants Weygandt names answered the host's outreach in 2025; the host keeps his identity private. Each of his points as the host relays it, with the host's answer."
+claims:
+  - title: "No Hawks, so no story"
+    by: "One of Weygandt's sergeants"
+    note: "Identity withheld by the host"
+    text: "Much of his reply argued that the Marines could not have had a Hawk battery in Peru in 1997, and so the lance corporal's story is false."
+    cue: 5401
+    responses:
+      - by: "The host"
+        stance: challenges
+        text: "\"A moot point\": Weygandt agrees the Marines had no Hawks there. His theory has always been that a Peruvian Hawk battery hit the craft, from its fragmentation damage."
+        cue: 5410
+  - title: "Never deployed"
+    by: "One of Weygandt's sergeants"
+    text: "Weygandt never deployed to Pucallpa or to Laser Strike, and may have picked up bits of deployment information from Marines who did."
+    cue: 5447
+    responses:
+      - by: "The host"
+        stance: challenges
+        text: "MACG-28 Marines from Cherry Point did deploy to Laser Strike. Weygandt described the operation accurately as early as his 1 August 2000 letter; his only odd detail is the Bolivian border."
+        cue: 5499
+  - title: "No clandestine role"
+    by: "One of Weygandt's sergeants"
+    text: "\"He was never a participant in any clandestine operations or efforts. He was just an LA marine and that was all.\""
+    cue: 5459
+    responses:
+      - by: "The host"
+        stance: challenges
+        text: "Weygandt never claimed to be. His unit was sent to secure a downed aircraft and ran into the Department of Energy team's clandestine mission."
+        cue: 5478
+  - title: "A medical condition"
+    by: "One of Weygandt's sergeants"
+    text: "Weygandt, who served in his platoon, was a good, young, respectful and dedicated Marine, but one who suffered a medical condition."
+    cue: 5453
+    responses:
+      - by: "The host"
+        stance: challenges
+        text: "He objects to dismissing witnesses over \"health conditions\", as in hit pieces on David Grusch, or Michael Herrera's team leader calling him crazy for lifting weights and keeping to himself."
+        cue: 5555
+---
 ::
 
 > [!note] A personal bias, declared
@@ -771,7 +804,7 @@ rows:
 - **White Book**, between the CIA and the Vatican.
 - **Yellow Book**, a scientific panel of an unknown review board.
 
-His claim that Los Alamos studied green fireballs lines up with the Atomic Energy Commission's real [[Project Twinkle]]. The Vatican link reminds the host of the [[1933 Magenta UFO CrashRetrieval|1933 Magenta case]], in which, according to David Grusch and the late [[Harold Malmgren|Harald Malmgren]], Vatican intelligence alerted the US to a disc in Axis hands. He also recalls "RK", a gunnery instructor who said he saw a 30-foot teardrop-shaped craft on a platform at Great Lakes Naval Station in 1973, allegedly shot down by a destroyer and recovered by the [[National Underwater Reconnaissance Office]].
+His claim that Los Alamos studied green fireballs lines up with the Atomic Energy Commission's real [[Project Twinkle]]. The Vatican link reminds the host of the [[1933 Magenta UFO CrashRetrieval|1933 Magenta case]], in which, according to [[David Grusch]] and the late [[Harold Malmgren|Harald Malmgren]], Vatican intelligence alerted the US to a disc in Axis hands. He also recalls "RK", a gunnery instructor who said he saw a 30-foot teardrop-shaped craft on a platform at Great Lakes Naval Station in 1973, allegedly shot down by a destroyer and recovered by the [[National Underwater Reconnaissance Office]].
 
 ## Open Questions
 
