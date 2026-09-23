@@ -4,7 +4,7 @@ tags:
   - location
 ---
 
-**Sumatra** is the largest of the Indonesian islands and the approximate location of [[Michael Herrera]]'s 2009 UAP encounter, one of the most detailed alleged firsthand encounters by US military personnel with an unidentified craft and an associated armed paramilitary force. The specific landing zone remains uncertain, but the encounter occurred in the jungle interior of the island during a humanitarian mission following the [[2009 Sumatra Earthquake and Tsunami]].
+**Sumatra** is the largest of the Indonesian islands and the approximate location of [[Michael Herrera]]'s 2009 UAP encounter, one of the most detailed alleged firsthand encounters by US military personnel with an unidentified craft and an associated armed paramilitary force. The specific landing zone remains uncertain, but the encounter occurred in the jungle interior of the island during a humanitarian mission following the [[2009 Sumatra Earthquake]].
 
 ## UAP Significance
 

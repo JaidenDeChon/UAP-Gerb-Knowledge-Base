@@ -12,7 +12,7 @@ tags:
 
 ## Overview
 
-This video re-examines [[Michael Herrera]]'s 2009 Indonesia encounter and focuses on whether the verifiable military context around his account supports taking his testimony seriously. The host presents Herrera's narrative as an unproven but specific claim: during a humanitarian mission tied to the [[2009 Sumatra Earthquake and Tsunami]], Herrera's Marine team allegedly observed a large octagonal craft, encountered armed men in unmarked black gear, and was threatened into silence.
+This video re-examines [[Michael Herrera]]'s 2009 Indonesia encounter and focuses on whether the verifiable military context around his account supports taking his testimony seriously. The host presents Herrera's narrative as an unproven but specific claim: during a humanitarian mission tied to the [[2009 Sumatra Earthquake]], Herrera's Marine team allegedly observed a large octagonal craft, encountered armed men in unmarked black gear, and was threatened into silence.
 
 The episode's central evidentiary argument comes from researcher [[Joey Is Not My Name]], who says he corroborated operational details through open-source records, including the role of [[USS Denver]], the presence of the [[31st Marine Expeditionary Unit]], and CH-53 logistics around [[Padang]]. Joey also says he verified that Herrera was later transported to a secure facility to meet an anonymous insider connected through [[Steven Greer]].
 
@@ -40,7 +40,7 @@ The insider narrative presented in the video includes claims that the [[Black Gr
 
 A major controversy centers on the manuscript for [[Sentinels of Ether]], reportedly used by the insider as part of a "4D chess" strategy with [[Defense Office of Pre-publication and Security Review]]. The host and Joey both treat this as potentially informative but also potentially manipulative.
 
-The video explicitly raises the possibility of a modern disinformation dynamic analogous to the [[Paul Benowitz]] case, arguing that insider contact could be either genuine internal dissent or a controlled narrative operation.
+The video explicitly raises the possibility of a modern disinformation dynamic analogous to the [[Paul Bennewitz]] case, arguing that insider contact could be either genuine internal dissent or a controlled narrative operation.
 
 ## AARO Reporting Dispute
 
@@ -63,8 +63,8 @@ The host treats this dispute as significant because it affects how whistleblower
 
 ## Related Pages
 
-- **People**: [[Michael Herrera]], [[Joey Is Not My Name]], [[Steven Greer]], [[Jonathan Weygandt]], [[Sean Kirkpatrick]], [[Paul Benowitz]], [[Tom DeLonge]], [[David Grusch]], [[Karl Nell]]
+- **People**: [[Michael Herrera]], [[Joey Is Not My Name]], [[Steven Greer]], [[Jonathan Weygandt]], [[Sean Kirkpatrick]], [[Paul Bennewitz]], [[Tom DeLonge]], [[David Grusch]], [[Karl Nell]]
 - **Organizations**: [[AARO]], [[Blue Group]], [[Black Group]], [[31st Marine Expeditionary Unit]], [[Second Battalion Fifth Marines]], [[US 7th Fleet]], [[USS Denver]], [[Defense Office of Pre-publication and Security Review]], [[Department of Energy]]
 - **Locations**: [[Indonesia]], [[Padang]], [[Sumatra]], [[Okinawa]]
-- **Events**: [[2009 Sumatra Earthquake and Tsunami]], [[Michael Herrera UAP Encounter in Indonesia]], [[AARO Historical Report Volume 1 Release]]
+- **Events**: [[2009 Sumatra Earthquake]], [[2009 Indonesia UFO Encounter (Herrera)]], [[AARO Historical Report Volume 1]]
 - **Concepts**: [[Non-Disclosure Agreement (NDA)]], [[Dead Man Switch]], [[EMP-like Weaponry]], [[Crash Retrieval Program]], [[Psionic Abilities (P3)]], [[Wilson Davis Memo]], [[Sentinels of Ether]], [[4D Chess on DOPSR]]

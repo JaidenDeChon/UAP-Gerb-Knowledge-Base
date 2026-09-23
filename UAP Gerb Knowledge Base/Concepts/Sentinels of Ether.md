@@ -60,7 +60,7 @@ Analysts have noted several concerning aspects:
 
 **Convoluted Disclosure Method**: Why use an elaborate fiction-embedding strategy rather than direct whistleblowing through established legal channels like those used by [[David Grusch]]?
 
-**Disinformation Parallels**: The mixing of truth and fiction mirrors the CIA's disinformation campaign against [[Paul Benowitz]] in 1989, where genuine UFO information was deliberately mixed with false claims to discredit and destabilize Benowitz.
+**Disinformation Parallels**: The mixing of truth and fiction mirrors the CIA's disinformation campaign against [[Paul Bennewitz]] in 1989, where genuine UFO information was deliberately mixed with false claims to discredit and destabilize Benowitz.
 
 **Evidence of Absence**: No independent verification exists of the manuscript's content, DOPSR's response, or whether the "4D chess" strategy has yielded any actual intelligence.
 

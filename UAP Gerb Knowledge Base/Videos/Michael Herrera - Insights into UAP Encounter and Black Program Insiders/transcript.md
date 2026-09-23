@@ -2,8 +2,8 @@
 title: "Michael Herrera - Insights into UAP Encounter and Black Program Insiders"
 video_id: 4EMO38JUfVE
 url: https://www.youtube.com/watch?v=4EMO38JUfVE
-date: NA
-duration_seconds: 0
+date: 2024-06-30
+duration_seconds: 7520
 channel: UAP Gerb
 tags:
   - transcript

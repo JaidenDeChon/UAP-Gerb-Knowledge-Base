@@ -36,7 +36,7 @@ Investigator [[Joey Is Not My Name]] expressed significant skepticism about this
 
 **Complexity vs. Utility**: The elaborate 4D chess strategy raises questions about whether a genuine disclosure advocate would pursue such convoluted methods rather than direct testimony, documentation, or whistleblowing through established channels.
 
-**Disinformation Parallels**: The mixing of truth and fiction is a classic disinformation technique, making it impossible to separate genuine classified information from fabrication. This mirrors the [[Paul Benowitz]] disinformation campaign conducted by the CIA in 1989.
+**Disinformation Parallels**: The mixing of truth and fiction is a classic disinformation technique, making it impossible to separate genuine classified information from fabrication. This mirrors the [[Paul Bennewitz]] disinformation campaign conducted by the CIA in 1989.
 
 ## DOPSR Process Context
 

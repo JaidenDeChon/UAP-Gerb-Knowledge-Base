@@ -147,7 +147,7 @@ Herrera repeatedly emphasizes that he is not profiting financially from his disc
 
 ### Disinformation Concerns
 
-The credibility of The Insider's disclosures to Herrera remains unverified. Investigators have noted parallels to the CIA's 1989 disinformation campaign against [[Paul Benowitz]], in which Benowitz was fed false information about extraterrestrials and underground bases, eventually driving him to psychological breakdown. If The Insider is conducting a similar psychological operation, this would not invalidate Herrera's 2009 Indonesia UAP encounter, which occurred before any insider contact and has been independently corroborated in its verifiable operational details. However, it raises questions about the truthfulness of insider claims regarding the Black Group, P3 recruitment, and other program details.
+The credibility of The Insider's disclosures to Herrera remains unverified. Investigators have noted parallels to the CIA's 1989 disinformation campaign against [[Paul Bennewitz]], in which Bennewitz was fed false information about extraterrestrials and underground bases, eventually driving him to psychological breakdown. If The Insider is conducting a similar psychological operation, this would not invalidate Herrera's 2009 Indonesia UAP encounter, which occurred before any insider contact and has been independently corroborated in its verifiable operational details. However, it raises questions about the truthfulness of insider claims regarding the Black Group, P3 recruitment, and other program details.
 
 ## Assessment
 

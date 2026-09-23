@@ -37,6 +37,5 @@ tags:
 - [[Robertson Panel]]
 - [[Solar Warden]]
 - [[Strategic Defense Initiative (SDI)]]
-- [[Unknown Disaster-Area Operation]]
 - [[Operation Zodiac]]
 - [[Operation Paperclip]]

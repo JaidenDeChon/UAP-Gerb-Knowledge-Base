@@ -135,6 +135,7 @@ tags:
 - [[UCLA (University of California, Los Angeles)]]
 - [[University of California, Berkeley]]
 - [[USAF Radar Detachment 5, Iquitos]]
+- [[USS Denver]]
 - [[USS Nitze]]
 - [[Vaasa, Finland]]
 - [[Valentine, Texas]]
