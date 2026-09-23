@@ -480,5 +480,19 @@
       "wiki-roster"
     ],
     "cues": "verified"
+  },
+  "R7DyJRf14nU": {
+    "title": "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group",
+    "published": "2024-04-08",
+    "enriched_at": "2026-09-23T15:38:01Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-roster",
+      "wiki-org-chart"
+    ],
+    "cues": "verified"
   }
 }
