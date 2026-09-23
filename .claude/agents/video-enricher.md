@@ -194,11 +194,7 @@ Edit `summary.md` in place:
 Work from `app/`. Install dependencies once if needed with `bun install --frozen-lockfile`.
 
 1. `npx vitest run` passes. If you changed any component or TypeScript, `npx vue-tsc --noEmit` passes too.
-2. Start `bun run dev`, and once it's up, fetch the article:
-   ```bash
-   curl -s "localhost:3000<route>" | grep -c 'ufo-'
-   ```
-   The route is the summary's `/wiki/videos/<slug>/summary` path. Also check the page's server log for MDC/YAML errors. A block with a YAML mistake renders as nothing, silently, so confirm every block you wrote produces its markup.
+2. Start `bun run dev`, and once it's up, open the article in the browser pane at `localhost:3000<route>`. The route is the summary's `/wiki/videos/<slug>/summary` path. Articles render in the browser, not on the server, so `curl` only returns a loading shell and can't confirm anything. Also check the page's server log and browser console for MDC/YAML errors. A block with a YAML mistake renders as nothing, silently, so confirm in the browser that every block you wrote produces its markup.
 3. Resolve every entity name you used in YAML against `/api/resolve?name=...&name=...`. A `null` means a typo or a missing page: fix it or deliberately leave it unlinked.
 4. Stop the dev server.
 5. Record the run in `UAP Gerb Knowledge Base/.rich_videos.json`:
