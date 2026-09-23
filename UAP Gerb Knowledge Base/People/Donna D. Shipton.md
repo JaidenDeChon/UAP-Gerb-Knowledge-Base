@@ -9,7 +9,7 @@ Donna D. Shipton is a U.S. Air Force Lieutenant General who has served as Comman
 
 ## Role and Responsibilities
 
-The SAF/ATNL Military Deputy position is among the most senior uniformed acquisition roles in the Air Force, subordinate to the civilian Assistant Secretary who serves as the Air Force Acquisition Executive. Responsibilities encompass the entire lifecycle of Air Force advanced technology development — including classified [[Special Access Programs (SAPs)]] and Acquisition Category I programs across the [[Rapid Capabilities Office (RCO)]], [[Air Force Materiel Command (AFMC)]], and subordinate program executive offices. The dollar scale of programs under this oversight — consistently cited at over $60 billion annually — encompasses classified programs at the RCO, AFMC laboratories, and the [[Edwards 412th Test Wing]].
+The SAF/ATNL Military Deputy position is among the most senior uniformed acquisition roles in the Air Force, subordinate to the civilian Assistant Secretary who serves as the Air Force Acquisition Executive. Responsibilities encompass the entire lifecycle of Air Force advanced technology development — including classified [[Special Access Programs (SAPs)]] and Acquisition Category I programs across the [[Rapid Capabilities Office (RCO)]], [[Air Force Materiel Command (AFMC)]], and subordinate program executive offices. The dollar scale of programs under this oversight — consistently cited at over $60 billion annually — encompasses classified programs at the RCO, AFMC laboratories, and the [[412th Test Wing|Edwards 412th Test Wing]].
 
 ## Alleged Legacy Program Significance
 

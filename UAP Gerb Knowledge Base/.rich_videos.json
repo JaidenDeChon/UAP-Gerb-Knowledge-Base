@@ -71,5 +71,20 @@
       "wiki-figure"
     ],
     "cues": "verified"
+  },
+  "-IXSZe4xVv4": {
+    "title": "The Hidden Wing - US Air Force UFO Reverse Engineering Programs",
+    "published": "2026-01-30",
+    "enriched_at": "2026-09-23T08:41:32Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-org-chart",
+      "wiki-roster",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-callout"
+    ],
+    "cues": "verified"
   }
 }

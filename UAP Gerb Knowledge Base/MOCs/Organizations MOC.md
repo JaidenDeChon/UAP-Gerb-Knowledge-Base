@@ -121,7 +121,7 @@ tags:
 - [[Robertson Panel]]
 - [[SAFAHA]]
 - [[SAFAQ]]
-- [[SAFAQL (Science, Technology and Engineering Directorate)]]
+- [[SAFAQL (Special Programs)]]
 - [[SAFAQR (Science, Technology and Engineering)]]
 - [[SAIC]]
 - [[SAPOC (Special Access Program Oversight Committee)]]

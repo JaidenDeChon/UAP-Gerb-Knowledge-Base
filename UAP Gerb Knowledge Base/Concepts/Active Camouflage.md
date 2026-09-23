@@ -14,7 +14,7 @@ UAP Gerb's narrator speculates the plasma surface effect could function as an el
 
 ## Relationship to Non-Human Intelligence
 
-The narrator's central thesis is that active camouflage of the type described by Borland is not a human-developed technology independently invented by a defense contractor, but rather a capability derived from study of non-human craft — an [[Alien Reproduction Vehicle (ARV)]] derivative. If accurate, this would place active camouflage within the broader family of alleged reverse-engineered technologies managed under programs within the [[Hidden Wing]] portfolio at facilities such as the [[Edwards 412th Test Wing]].
+The narrator's central thesis is that active camouflage of the type described by Borland is not a human-developed technology independently invented by a defense contractor, but rather a capability derived from study of non-human craft — an [[Alien Reproduction Vehicle (ARV)]] derivative. If accurate, this would place active camouflage within the broader family of alleged reverse-engineered technologies managed under programs within the [[Hidden Wing]] portfolio at facilities such as the [[412th Test Wing|Edwards 412th Test Wing]].
 
 ## Corroborating Descriptions
 

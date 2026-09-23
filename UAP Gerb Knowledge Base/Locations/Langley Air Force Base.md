@@ -8,7 +8,7 @@ Langley Air Force Base (formally Joint Base Langley-Eustis since 2010) is a Unit
 
 ## UAP Significance
 
-Langley AFB is the site of whistleblower [[Dylan Borland]]'s reported observation of a large anomalous triangular craft around 2012. Borland testified to witnessing a large, equilateral triangular craft with black metallic flake paint and a gold, lava-like plasma fluid flowing over its surface hovering silently over a NASA hangar on the base. The craft displayed apparent electro-optic cloaking behavior. The presenter of "The Hidden Wing" contextualizes this account within the [[Hidden Wing]] thesis, suggesting the triangular craft may represent a deployed derivative or reverse-engineered airframe consistent with [[Alien Reproduction Vehicle (ARV)|ARV]] program outputs from the [[Edwards 412th Test Wing]].
+Langley AFB is the site of whistleblower [[Dylan Borland]]'s reported observation of a large anomalous triangular craft around 2012. Borland testified to witnessing a large, equilateral triangular craft with black metallic flake paint and a gold, lava-like plasma fluid flowing over its surface hovering silently over a NASA hangar on the base. The craft displayed apparent electro-optic cloaking behavior. The presenter of "The Hidden Wing" contextualizes this account within the [[Hidden Wing]] thesis, suggesting the triangular craft may represent a deployed derivative or reverse-engineered airframe consistent with [[Alien Reproduction Vehicle (ARV)|ARV]] program outputs from the [[412th Test Wing|Edwards 412th Test Wing]].
 
 ## Sources
 
