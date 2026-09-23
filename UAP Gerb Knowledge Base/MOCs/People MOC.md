@@ -170,7 +170,7 @@ tags:
 - [[Joe Staulia]]
 - [[Joey Is Not My Name]]
 - [[John B. Alexander]]
-- [[John Dusza]]
+- [[John DeSouza]]
 - [[John Greenewald]]
 - [[John M. Riggs]]
 - [[John Murphy]]

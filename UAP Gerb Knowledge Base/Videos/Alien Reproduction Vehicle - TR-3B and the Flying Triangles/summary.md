@@ -1,237 +1,723 @@
 ---
 title: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles"
-date: NA
+date: 2024-12-01
 video_id: B7JP0uX0GwY
 url: https://www.youtube.com/watch?v=B7JP0uX0GwY
 channel: UAP Gerb
-duration_seconds: 0
+duration_seconds: 4625
 tags:
   - video
   - uap-gerb
 ---
 
-## Summary
-The video, hosted by UAP Gerb, provides a comprehensive examination of alleged human-built reverse-engineered craft — particularly the TR-3B Astra and related flying triangle vehicles — drawing on testimony from former aerospace contractor Edgar Fouche, witness accounts, and corroborating claims from researchers including Mark McCandlish and Ryan Wood. Central to the video is Fouche's claim that the TR-3B uses a Magnetic Field Disruptor (MFD) to reduce the craft's effective mass by 89%, enabling Mach 9 flight, and that the craft is controlled via a red trackball sphere — a detail that independently mirrors Brad Sorenson's description of the Alien Reproduction Vehicle (Flux Liner) illustrated by McCandlish. The video also examines credibility controversies surrounding Fouche, including allegations by Jeremy Rys and David Hilton that his military documents were fabricated, while noting that their critical videos were later removed and that researcher Andrew Johnson vouched for Fouche's integrity. UAP Gerb concludes that triangular craft — supported by numerous civilian and law enforcement sightings worldwide — are most likely human-built attempts to reverse-engineer non-human intelligence technology, with the DOD's Air Force 412th Test Group likely possessing at least two types of Alien Reproduction Vehicles.
+::wiki-stat-strip
+---
+stats:
+  - value: "89%"
+    label: Mass reduction claimed
+    hint: "For the TR-3B's field disruptor"
+  - value: "Mach 9"
+    label: Claimed top speed
+    hint: "Vertically or horizontally"
+  - value: "600 ft"
+    label: Operational TR-3B
+    hint: "Test models about 200 ft"
+  - value: 3
+    label: Flying by 1994
+    hint: "Operational models, per Fouché"
+  - value: 5
+    label: Fouché's sources
+    hint: "Gerald, S., Doc, Dell and Bud"
+  - value: "$2.3B"
+    label: Aurora line, FY1987
+    hint: "Up from $80M the year before"
+  - value: "3–4%"
+    label: Triangles in AARO data
+    hint: "2023 and 2024 historical reports"
+  - value: "1h17m"
+    label: Runtime
+---
+::
 
-## People
-- [[Edgar Fouche]] — Described MFD technology and TR-3B propulsion systems, claimed technology was reverse-engineered from UAP
-- [[Richard Boylan]] — Reported claims from military officials about electrogravitic systems on the B-2 bomber
-- [[Donald Ware]] — Allegedly disclosed that the B-2 carries onboard electrogravitic systems for internal mass reduction
-- [[Brad Sorensen]] — Reportedly saw a TR-3A craft in 1988, described as an unmanned pumpkin seed-shaped craft using pulse detonation engines
-- [[Tom DeLonge]] — Co-authored Secret Machines, a novel fusing fiction with alleged real UAP-related information from military sources
-- [[AJ Hartley]] — Co-authored Secret Machines with Tom DeLonge
-- [[Eric Schrock]] — Allegedly served as an adviser providing factual information to Tom DeLonge for Secret Machines
-- [[Ryan Wood]] — Authored Magic Eyes Only, which documents a 1994 crash retrieval case at Boscombe Down
-- [[T. Townsend Brown]] — Proposed electrogravitic technology in the 1930s, linked to technology reportedly used in the B-2
-- [[Mark McCandlish]] — Created detailed drawings of the Alien Reproduction Vehicle Flux Liner including the trackball control sphere based on Brad Sorenson's testimony
-- [[Jeremy Rys]] — Former friend of Fouche who turned critic, alleging the TR-3B testimony was fabricated and that Fouche used faked military documents
-- [[Andrew Johnson]] — Conducted numerous interviews with Fouche and spoke highly of him, in contrast to critics like Jeremy Rys and David Hamilton
-- [[David Hamilton]] — Co-critic of Edgar Fouche alongside Jeremy Rys, questioned the authenticity of Fouche's claims and documents
-- [[Dan Benkert]] — Participated in group email discussions and debates regarding the authenticity of Edgar Fouche's claims
-- [[David Hilton]] — Posted a video in 2013 titled 'Edgar Fouche Fake Documents' alleging Fouche fabricated evidence; later had the video removed or unlisted
-- [[Allan]] — Character in a film/book who pilots the Astra TR-3B Locust craft, used to illustrate the described trackball control mechanism
-- [[Hilton]] — Conducted interviews with Edgar Fouche, later claimed Fouche lied about everything, and made controversial statements about working for a monitoring agency
-- [[Dan Bener]] — Co-authored work with Michael Schratt, received startling remarks from Hilton via Skype in June 2012, staunch supporter of Fouche
-- [[Michael Schratt]] — Co-authored work with Dan Bener, extracted eyewitness quotes from the 1985 Mad Wisconsin triangular craft sighting
-- [[Jim Cook]] — Encountered a triangular craft near Croton Falls Reservoir in New York on October 28, 1993
-- [[Martin]] — Reported a massive triangular craft near Scott Air Force Base in St. Clair, Illinois on January 5, 2000
-- [[Colin Saunders]] — Observed a 50ft triangular craft with his family in the UK in March 1999
-- [[Steven Greer]] — Labeled the Lockheed Martin Helendale plant as a program location 5 years after McDonald did
-- [[McDonald]] — Identified the Lockheed Martin Helendale plant as a hidden test location and described the Tehachapi Triangle craft; contracted by Fox Network for X-Files render
-- [[Chris Carter]] — Allegedly contracted McDonald's Tehachapi Triangle design for the X-Files; rumored to have been approached by military brass about his knowledge
-- [[John Dusza]] — Claimed the first season of the X-Files was based on true cases he investigated, including a UAP encounter at a military base
-- [[Eric Davis]] — Mentioned as subject of an upcoming interview by UAP Gerb
-- [[Jesse Michaels]] — UAP Gerb appeared on a show with Jesse Michaels
-- [[UAP Gerb]] — Host and narrator of the video discussing flying triangles and alien reproduction vehicles
-- [[Albert Stubblebine]] — Referenced in connection with INSCOM and a possible Men in Black-style program called TREATS
-- [[Ed Fuche]] — Claimed secondhand knowledge of the TR-3B craft through associates Gerald, Bud, Doc, and others; had three personal sightings not under program operations; has since passed away
-- [[Gerald]] — One of Fuche's sources of TR-3B information; died shortly after his first meeting with Fuche
-- [[Moulder]] — Referenced in context of an episode involving Air Force test pilots and triangle craft reverse engineered from Roswell technology
+## Overview
 
-## Organizations
-- [[Northrop Grumman]] — Manufacturer of the B-2 stealth bomber, reportedly involved in electrogravitic technology development
-- [[Lockheed Martin Skunk Works]] — Referenced in Secret Machines as connected to the Astra/TR-3B craft program
-- [[CIA]] — Operated Boeing 737 and DC-8 aircraft that visited Boscombe Down after the 1994 crash
-- [[US Air Force]] — Connected to TR-3B program and the Boscombe Down crash retrieval
-- [[Air Force Research Laboratory]] — Commander allegedly provided information to Tom DeLonge for Secret Machines
-- [[Alien Scientist]] — Jeremy Rys's website and YouTube platform where he posted critical opinions about Edgar Fouche and the TR-3B testimony
-- [[Unspecified Monitoring Agency]] — Hilton claimed to work for an agency that monitors things, implying surveillance of UAP researchers or witnesses
-- [[Lockheed Martin]] — Operates the Helendale plant allegedly used for testing reverse-engineered craft under cover of a radar cross-section facility
-- [[Fox Network]] — Contracted McDonald's work and created a computer render of the Tehachapi Triangle craft for the X-Files
-- [[FBI]] — John Dusza served as a 25-year investigator and his cases allegedly inspired the X-Files first season
-- [[US Air Force]] — Referenced in the X-Files episode and in testimony about personnel capturing witnesses at test sites
-- [[Sandia National Laboratories]] — Alleged partner in TR-3B development and NEST nuclear emergency teams
-- [[Lawrence Livermore National Laboratory]] — Alleged partner in TR-3B development and NEST nuclear emergency teams
-- [[NSA]] — Alleged to have spearheaded TR-3B program within Aurora
-- [[EG&G]] — Alleged operator of Area 51 and participant in Project Redlight for the DOE
-- [[Department of Energy]] — Referenced in connection with Project Redlight and EG&G contracts
-- [[Air Force Flight Test Center (AFFTC)]] — Mentioned in Fouche's FOIA documents as critical evidence for analyzing his story
-- [[Army INSCOM]] — Referenced in connection with Stubblebine and a possible TREATS program resembling Men in Black
-- [[Department of Defense]] — Alleged operator of ARV programs including triangle craft
-- [[Air Force 412th Test Group]] — Alleged to be involved in legacy programs operating ARV craft including triangles
-- [[Legacy Programs]] — Referenced as housing classified ARV development programs
+This video is UAP Gerb's investigation of the black triangle: the dark, three-cornered craft with a white light at each corner and a dull red light beneath that people around the world have reported for decades. Triangles have long been associated less with non-human intelligence than with secret human engineering, because they lack many of the hallmarks witnesses ascribe to non-human craft and cluster over populated regions and military bases. The host's starting point is the November 2024 congressional hearing, at which the anonymous [[Immaculate Constellation (IMCON)|Immaculate Constellation]] report labelled at least some triangles [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]] (ARVs): human-built craft reverse-engineered from non-human technology. It is the same term program insiders reportedly used in 1988 for the saucer-shaped "Flux Liner" that [[Brad Sorenson]] saw at the [[Norton Air Force Base Air Show]].
 
-## Concepts
-- [[Magnetic Field Disruptor (MFD)]] — A device that generates a magnetic vortex field reportedly capable of reducing the mass effect of gravity on objects within its proximity by 89%.
-- [[Electrogravitic Systems]] — Technology that uses electrical or gravitational field manipulation to achieve mass reduction or propulsion, allegedly present in craft like the B-2 and TR-3B.
-- [[Internal Mass Reduction]] — A theoretical effect where an object's effective mass is reduced through gravitational or electromagnetic field disruption, enabling extreme performance.
-- [[Pulse Detonation Engine]] — A type of propulsion system reportedly used on the TR-3A craft, utilizing rapid detonation cycles for thrust.
-- [[Complementary Field Propulsion]] — A propulsion method reportedly used on TR-3A variants for high-speed flight, potentially involving electrogravitic principles.
-- Roman à clef — A literary device where fictional narratives are based on real events or people, used to describe the approach in Tom DeLonge's Secret Machines.
-- [[Reverse Engineered UAP Technology]] — The alleged practice of back-engineering non-human craft technology to develop advanced aerospace systems like the TR-3B.
-- [[Multimode Thruster]] — Propulsion units on the TR-3B capable of operating in atmosphere, upper atmosphere, and orbit using different fuel combinations.
-- [[TR-3B Astra (Locust)]] — Alleged reverse-engineered black triangle craft described as utilizing unconventional control systems and physics-defying flight characteristics including no sound, torque, g-force, or inertia.
-- [[Flux Liner  Alien Reproduction Vehicle (ARV)]] — A claimed reverse-engineered flying saucer described by Brad Sorenson and illustrated by Mark McCandlish, reportedly controlled via a trackball sphere mechanism similar to the TR-3B.
-- [[TrackballRed Sphere Control Mechanism]] — A red sphere or trackball used to control both the TR-3B Astra Locust and the Flux Liner ARV, described as counterintuitive to conventional aviation physics.
-- [[Mercury-Based Plasma System]] — Alleged propulsion technology claimed to be used in the TR-3B, criticized by Jeremy Rys as lacking technical validity.
-- [[Nazi Bell Device]] — A purported Nazi advanced technology project; critics claimed Fouche blended its story with Belgian UFO sightings to fabricate a more believable TR-3B narrative.
-- [[Belgian UFO Wave]] — A series of triangular UFO sightings over Belgium, referenced by critics as source material Fouche allegedly borrowed to construct his TR-3B story.
-- PTSD-Driven Alcoholism — Condition alleged by Jeremy Rys to explain Fouche's reportedly deceitful and manipulative behavior.
-- [[Secret Space Program]] — A concept/field of research related to alleged covert government space and aerospace programs, referenced in the context of Andrew Johnson's work.
-- [[TR-3B]] — Alleged classified triangular aircraft associated with Edgar Fouche; subject of debate over authenticity of related documents and testimony.
-- [[Alien Reproduction Vehicle (ARV)]] — Concept of human-built craft reverse-engineered from non-human intelligence technology, potentially utilizing advanced propulsion systems.
-- [[Non-Human Intelligence (NHI) Craft]] — Craft of unknown origin reported in UAP accounts, often described as seamless, rivet-free, and nearly perfect in appearance.
-- [[Triangular UAP]] — A widely reported category of UAP characterized by triangular shape, white corner lights, and a central red or amber light on the underside.
-- [[Heat Exchanger Propulsion]] — Speculative propulsion concept where a craft's underside resembles condensation or heat exchange piping, possibly indicating advanced or prototype propulsion.
-- [[FOIA Document Retrieval]] — Use of Freedom of Information Act requests to obtain documents, in this case related to Edgar Fouche's military service.
-- [[Hudson Valley UFO Flap]] — A series of UFO sightings reported in the Hudson Valley region of New York during the late 1980s and early 1990s.
-- [[Tehachapi Triangle]] — A triangular craft allegedly identified by McDonald and later rendered by Fox Network for the X-Files; said to be a reverse-engineered ARV.
-- [[Radar Cross-Section Facility]] — Cover story allegedly used for the Lockheed Martin Helendale plant to hide testing of advanced craft from public scrutiny.
-- [[Hidden in Plain Sight]] — Design philosophy allegedly used at the Helendale location, disguising secret craft testing behind a legitimate-seeming facility.
-- [[Electromagnetic Hardening Testing]] — Process described where craft are placed at various elevations and struck with electromagnetic weapons to test their resilience.
-- [[Project Blue Beam]] — Alleged false flag fake alien invasion narrative; UAP Gerb states he disagrees with this theory.
-- [[Reverse Engineering]] — The alleged process of back-engineering recovered craft, specifically referenced in connection with the 1947 Roswell case.
-- [[TR-3B Astra]] — Alleged classified triangular craft within the Aurora program; code name Astra stands for Advanced Stealth Technology Reconnaissance Aircraft; allegedly gravity-resistant and reverse-engineered.
-- [[TR-3A]] — A related triangular craft in the Tactical Reconnaissance line, considered more prosaic with a cockpit; possibly involved in electrogravitics or pulse detonation engines.
-- [[TR-3E]] — Another variant in the TR line, described as a triangle with concave lines between vertices, fins, and a small dome on top; often depicted as a toy model based on reverse-engineered craft.
-- [[XF-131 Super Sentinel]] — A triangular craft distinct from the TR-3B due to its pyramid-shaped top and unique underside lighting; associated with the 1999 Kirby, England sighting.
-- [[Aurora Program]] — Alleged classified aerospace program under which TR-3A, TR-3B, and possibly TR-3E were developed.
-- [[Electrogravitics]] — Proposed propulsion concept allegedly used in the TR-3A for internal mass reduction.
-- [[Reverse Engineered Craft (ARV)]] — Craft allegedly back-engineered from recovered non-human technology, associated with TR-3B and the XF-131.
-- [[NEST (Nuclear Emergency Search Team)]] — Program allegedly involving Sandia and Lawrence Livermore as partners, referenced by Fouche.
-- [[TREATS]] — Alleged program referenced by Fouche with only one publicly available mention; possibly Army INSCOM's version of Men in Black under Stubblebine.
-- [[Project Redlight]] — Alleged project involving EG&G for the DOE, referenced in Fouche's disclosures.
-- [[Tactical Reconnaissance (TR) Line]] — Series of classified reconnaissance craft allegedly including TR-3A, TR-3B, and TR-3E, analogous to the SR (Strategic Reconnaissance) line.
-- [[SR-74 and SR-75]] — Alleged concept aircraft in the Strategic Reconnaissance line that Fouche claimed were in development while he worked in defense.
-- [[Alien Reproduction Vehicle (ARV)]] — Human-built craft allegedly reverse engineered from non-human intelligence technology; the host believes there are at least two types held by the DOD
-- [[Flux Liner]] — Alleged flying saucer-type ARV that may operate on electrogravitics, magnetohydrodynamics, or zero-point energy systems
-- [[Magnetohydrodynamics (MHD)]] — Propulsion method allegedly used in triangular ARV craft as described by Fuche
-- [[Zero Point Energy]] — Exotic energy concept allegedly used as a power source in some ARV craft
-- [[Six Observables]] — A set of performance characteristics used to identify non-human intelligence craft; triangular ARVs reportedly do not fully meet these criteria
-- [[NHI (Non-Human Intelligence)]] — Refers to non-human entities or civilizations associated with UAP craft; used to distinguish genuine alien craft from human-built reproductions
-- [[Breakaway Civilization]] — Hypothesis that a secret human group may have developed advanced technology independently, potentially explaining some triangle sightings in the 1950s
-- [[Internal Inertial Dampening]] — A system allegedly used in ARV craft to counteract g-forces; noted as not being extreme in TR-3B, suggesting human engineering limits
+The core of the video is the first full treatment on the channel of the testimony of Air Force Master Sergeant [[Edgar Fouche|Edgar Fouché]]. Fouché went public in 1998 with the [[TR-3B]] "Astra", which he described as the most exotic model in the black-budget [[Aurora Program]]: a triangle lifted by a mercury-plasma [[Magnetic Field Disruptor (MFD)|magnetic field disruptor]] that cut its effective mass by 89 percent. He said its propulsion was reverse-engineered from a non-human crash by [[Sandia National Laboratories]] and [[Lawrence Livermore National Laboratory]], and that it was managed by the [[NRO (National Reconnaissance Office)|NRO]], [[CIA]] and [[NSA]] and built by [[Lockheed Martin]], [[Boeing]], [[Northrop Grumman]] and [[Teledyne Ryan]]. The host walks through Fouché's career, his time at [[Area 51]] and its alleged underground [[Defense Advanced Research Center (DARS)|Defense Advanced Research Center]], his five sources, possible corroboration (the 1994 [[Boscombe Down Incident]], electrogravitics on the B-2, the red trackball in [[Tom DeLonge]]'s novel), and the bitter 2010s dispute over his credibility.
 
-## Events & Dates
-- [[Boscombe Down Crash]] — An alleged crash landing of a secret flying triangle aircraft at the UK government's Boscombe Down facility; wreckage reportedly flown to Palmdale, California.
-- [[Aviation Week & Space Technology B-2 Article]] — Article by Northrop employees upset that B-2 electrogravitic technology was not being shared with the public industry; described electrical charging of wing leading edges.
-- [[Brad Sorenson TR-3A Sighting]] — Brad Sorenson reportedly witnessed a TR-3A unmanned craft utilizing pulse detonation engines.
-- [[Air Force Monthly B-2 Crash Article]] — Publication discussing the unusual crash landing at Boscombe Down and speculating the craft was a TR-3A or TR-3B flying triangle.
-- [[ARVFlux Liner Encounter]] — Brad Sorenson allegedly witnessed the Alien Reproduction Vehicle at an air show, later illustrated by Mark McCandlish; a trackball control mechanism was described.
-- [[Jeremy Rys meets Edgar Fouche]] — Jeremy Rys first met Edgar Fouche in 2009, initially viewing him as a close friend and legitimate whistleblower before later becoming a vocal critic.
-- [[David Hilton posts 'Edgar Fouche Fake Documents' video]] — YouTuber David Hilton posted a video alleging Fouche faked military documents; subsequent videos were posted by Jeremy Rys, and all were later removed or unlisted.
-- [[F-117A photo controversy]] — Fouche sent Jeremy Rys a photo allegedly showing Fouche and a crew observing the F-117 prototype at Area 51 between 1977 and 1981; the photographer stated Fouche did not know what he was talking about.
-- [[Group email discussion on Fouche]] — YouTuber David Hilton organized a group email with Jeremy Rys, Dan Benkert, and Andrew Johnson to discuss the video allegedly exposing Fouche's fake documents.
-- [[Hilton's Group Email About Fouche]] — Hilton constructed a group email with Jeremy Rys, Dan Bener, and Andrew Johnson after extensive interviews with Edgar Fouche, ultimately calling Fouche a liar.
-- [[Hilton-Dan Bener Skype Conversation]] — Hilton made startling remarks to Dan Bener claiming to work for a monitoring agency and claiming to 'control Ed (Fouche)'.
-- [[Edgar Fouche Response on The Outpost Forum]] — Fouche responded to Hilton's accusations, defending his documents against claims of small inconsistencies.
-- [[Article Edgar Fouche's TR-3B is Most Likely a Hoax]] — An article published questioning the authenticity of Fouche's TR-3B claims, to which Dan Bener offered a counter explanation.
-- [[Croton Falls Reservoir Triangular Craft Sighting]] — Jim Cook, a biomedical engineer, observed a hovering triangular object with nine red lights and a probing red light near Croton Falls Reservoir, New York.
-- [[St. Clair Illinois Triangular Craft Sighting]] — Multiple police officers near Scott Air Force Base reported a massive elongated black triangle with white corner lights and multicolored illumination.
-- [[Mad Wisconsin Triangular Craft Sighting]] — Multiple eyewitnesses reported a dull triangular craft roughly 40ft across; underside described as resembling the back of a refrigerator with condensation pipes.
-- [[Colin Saunders UK Triangular Craft Sighting]] — Colin Saunders and his family observed a 50ft triangular craft that pitched up and down while driving home from dinner in the UK.
-- [[Roswell Crash]] — Referenced as the source material for the reverse-engineered craft depicted in the X-Files episode 'Deep Throat' and allegedly the basis for real ARV programs.
-- [[X-Files Episode 'Deep Throat' Premiere]] — First regular season episode of the X-Files, featuring a computer render of McDonald's Tehachapi Triangle craft and a plot about a reverse-engineered USAF test craft.
-- [[John Dusza YouTube Video Release]] — Dusza released a video claiming the first X-Files season was based on true FBI cases he investigated, including a UAP encounter at a military base.
-- [[UAP Congressional Hearings]] — UAP Gerb attended UAP hearings as part of a busy November schedule.
-- [[Boscombe Down Incident]] — Alleged crash of the TR-3A at Boscombe Down, England in 1994.
-- [[Kirby England Sighting]] — Triangular UAP sighting in Kirby, England in 1999, described as most similar to the XF-131 Super Sentinel due to its pyramid-shaped profile.
-- [[Belgian UFO Wave]] — Period of widespread triangle UAP sightings in Belgium; cited as a possible but overly simplistic explanation for Fuche's testimony
-- [[Psalm 101 Triangle Report]] — A document or report allegedly stating that triangular craft were new phenomena and little was known about them as of 1954
-- [[Triangle ARV Program Development]] — Alleged development of triangular ARV craft by the US military potentially beginning in the 1970s–80s or earlier
+The video then looks at the oddly equipped triangles reported through the 1980s and 1990s and at a second, independent reverse-engineered triangle: the [[XF-131 Super Sentinel]]. Forensic artist [[Bill McDonald]] drew it in 1992 from the accounts of four Northrop and Lockheed engineers, and Fox later rendered the drawing for the first regular episode of *The X-Files*. The host's thesis is that legacy programs began building triangular ARVs based on non-human triangles sometime in the 1970s and flew them over military bases from the 1980s to the 2000s. He concludes that the Defense Department, the Air Force [[412th Test Wing|412th Test Group]] and the legacy programs probably hold at least two kinds of ARV: the saucer and the "less pretty" triangle.
 
-## Operations
-- [[Astra]] — Alleged code name for the TR-3B advanced stealth technology reconnaissance aircraft program, as mentioned by Edgar Fouche.
-- [[F-117A Senior Trend]] — Classified program referenced in an article title; Fouche allegedly sent a stolen photo from this article claiming it showed him at Area 51 observing the F-117 prototype.
-- [[Project Redlight]] — Alleged classified project run by EG&G for the Department of Energy, referenced in Fouche's disclosures.
-- [[Aurora Program]] — Alleged classified aerospace program encompassing TR-3A, TR-3B, and possibly TR-3E development.
-- [[TREATS]] — Alleged Army INSCOM program referenced by Fouche, possibly functioning as a Men in Black-type operation under Stubblebine.
+## Chronology
 
-## Locations
-- [[Boscombe Down]] — Highly secret UK government facility where an alleged crash of a flying triangle craft occurred in September 1994.
-- [[Air Force Plant 42, Palmdale, California]] — Facility where the wreckage from the Boscombe Down crash was allegedly transported via C-5 Galaxy aircraft.
-- [[Wright Patterson Air Force Base]] — Location of the Air Force Research Laboratory whose commander allegedly advised Tom DeLonge on Secret Machines.
-- [[Area 51 (Groom Lake)]] — Alleged location where Edgar Fouche claimed to have been stationed and observed the F-117 prototype between 1977 and 1981.
-- [[Paris]] — Setting used in the fictional description of the TR-3B Astra Locust flight, with landmarks including the Eiffel Tower used to illustrate the craft's speed and maneuverability.
-- [[Belgium]] — Location of the Belgian UFO wave involving triangular craft sightings, cited by critics as a source Fouche may have used to construct his TR-3B narrative.
-- [[Croton Falls Reservoir, New York]] — Site of the 1993 triangular UAP sighting by Jim Cook during the Hudson Valley UFO flap.
-- [[St. Clair, Southern Illinois]] — Location of the January 5, 2000 triangular craft sighting near Scott Air Force Base.
-- [[Scott Air Force Base, Illinois]] — Military base near where the St. Clair triangular craft sighting occurred in 2000.
-- [[Mad, Wisconsin]] — Location of the November 22, 1985 triangular craft sighting with multiple eyewitnesses.
-- [[United Kingdom]] — Location of Colin Saunders' 1999 triangular craft sighting.
-- [[Detroit, Michigan]] — Referenced as one of many global locations with documented triangular craft sightings.
-- [[Helendale, California (Lockheed Martin Plant)]] — Alleged secret testing location for reverse-engineered craft, disguised as a radar cross-section facility with a flood control channel used as a runway.
-- [[Tehachapi, California]] — Referenced in the 'Tehachapi Triangle,' a region associated with alleged ARV testing and McDonald's craft identification.
-- [[Roswell, New Mexico]] — Site of the 1947 crash allegedly used as the basis for reverse-engineered craft programs.
-- [[Area 51]] — Alleged site operated by EG&G, referenced in connection with Fouche's disclosures and classified programs.
-- [[Kirby, England]] — Location of a 1999 triangular UAP sighting associated with the XF-131 Super Sentinel description.
-- [[Southern Illinois]] — Location of reported triangle craft sightings featuring distinctive strips of lights
-- [[Roswell]] — Referenced as the source of technology allegedly reverse engineered into triangle craft like the TR-3B
+::wiki-timeline{video="B7JP0uX0GwY" video-title="Alien Reproduction Vehicle - TR-3B and the Flying Triangles"}
+---
+help: "The bar pinned above the entries is a ruler from the 1930s to 2024. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line capped with a downward arrow is where the host is. The host opens in 2024 and moves back and forth in time, so the playhead leaps around the ruler. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Timestamps jump the mini-player to that moment."
+eras:
+  - id: before
+    label: "Before the Triangles"
+    from: 1930
+    to: 1969
+    summary: "Electrogravitic theory, a 1954 manual that calls triangles new technology, and almost no triangles in the Air Force's own files."
+    anchor: "triangles-as-reproduction-vehicles"
+  - id: prototypes
+    label: "The Prototype Years"
+    from: 1970
+    to: 1987
+    summary: "By the host's thesis, legacy programs begin building triangular ARVs; Fouché sees prototypes and is taken to Groom Lake; SDI and Aurora money flows."
+    estimate: "Edgar Fouché's three sightings, 1975–1979"
+    anchor: "edgar-fouché"
+  - id: flap
+    label: "The Triangle Flap"
+    from: 1988
+    to: 2000
+    summary: "ARVs at Norton, the Belgian wave, the XF-131 and The X-Files, oddly equipped triangles over the US and UK, an operational TR-3B, and Fouché's disclosure."
+    estimate: "Edgar Fouché, 1998"
+    anchor: "triangles-in-the-wild"
+  - id: dispute
+    label: "Dispute and Disclosure"
+    from: 2001
+    summary: "Fouché's critics and defenders fight it out online; in 2024 a congressional record labels triangles alien reproduction vehicles."
+    estimate: "The Immaculate Constellation report, 2024"
+    anchor: "the-controversy"
+hinges:
+  - year: 1998
+    label: "Fouché goes public"
+events:
+  - date: "c. 1930s"
+    title: "T. Townsend Brown proposes electrogravitics"
+    cue: 2382
+    summary: "The video plays a clip arguing that the charged wing leading edges and exhaust later attributed to the Northrop B-2 are the same electrogravitic technology Thomas Townsend Brown proposed in the 1930s, so the technology may date back far earlier than assumed."
+    category: person
+    significance: notable
+    entities:
+      - "T. Townsend Brown"
+      - "Electrogravitics"
+  - date: "1952"
+    title: "Project Blue Book logs only four anomalous triangles in the 1950s"
+    cue: 317
+    summary: "Of the Air Force's 12,000-plus Project Blue Book cases (1952-1969), Don Berliner's paper on the Blue Book unknowns finds just four anomalous triangle sightings in the 1950s, most of them colourful rather than dark with three lights."
+    category: program
+    significance: notable
+    entities:
+      - "Project Blue Book"
+      - "Don Berliner"
+  - date: "1954"
+    title: "SOM1-01 describes triangles as new technology"
+    cue: 407
+    summary: "The Majestic 12 Special Operations Manual (SOM1-01, 'Psalm 101'), allegedly dated 1954, lists an isosceles triangle nearly 300 feet on its longest side among known craft types, calling it new technology given the rarity and recency of sightings and crediting it with high speed and abrupt manoeuvres."
+    category: document
+    significance: major
+    entities:
+      - "Majestic 12"
+      - "Ryan S. Wood"
+  - date: "1968"
+    title: "Edgar Fouché drafted into the Air Force"
+    cue: 597
+    summary: "Born in 1948 in south-central Georgia, Edgar Fouché was drafted into the US Air Force for pararescue training in 1968; after fracturing an ankle at Fort Benning he retrained in electronics, communications intelligence and cryptology, serving 3.5 years in Vietnam and around Asia."
+    category: person
+    significance: minor
+    entities:
+      - "Edgar Fouche"
+  - date: "1973"
+    title: "ARPA study names a Defense Advanced Research Center"
+    cue: 727
+    summary: "A declassified 1973 ARPA historical study records a DOD directive considering transfer of Wernher von Braun's Army Ballistic Missile Agency into a proposed Defense Advanced Research Center, the name Fouché gave the underground laboratory near Papoose Lake."
+    category: document
+    significance: notable
+    entities:
+      - "Defense Advanced Research Center (DARS)"
+      - "Wernher von Braun"
+      - "Hermann Oberth"
+  - date: "c. 1970s"
+    title: "First TR-3B prototypes allegedly fly"
+    cue: 1771
+    summary: "According to Fouché's sources, numerous TR-3B prototypes preceded the operational craft, with the first anti-gravity 'warping' craft flying in the early 1970s. The host's thesis is that legacy programs began building triangular reproduction vehicles sometime in the 1970s."
+    category: program
+    significance: major
+    entities:
+      - "TR-3B"
+      - "Alien Reproduction Vehicle (ARV)"
+  - date: "1975"
+    title: "Fouché sees a triangle over Edwards"
+    cue: 1784
+    summary: "Fouché said he saw the prototype triangle high in the atmosphere over Edwards Air Force Base one night in 1975, the first of three personal sightings, and later saw photographs of it taken from a C-130 flying mission support."
+    category: event
+    significance: notable
+    entities:
+      - "Edgar Fouche"
+      - "Edwards Air Force Base"
+  - date: "1976"
+    title: "Second sighting over the southern Nellis range"
+    cue: 1790
+    summary: "Fouché's second sighting of a prototype triangle came in 1976 over the southern part of the Nellis range."
+    category: event
+    significance: minor
+    entities:
+      - "Edgar Fouche"
+      - "Nellis Air Force Base"
+  - date: "1979"
+    title: "Fouché reassigned to Groom Lake"
+    cue: 1238
+    summary: "From Nellis, Fouché was sent on temporary assignment to 'a place with no name': a blacked-out bus to Groom Lake, welder-style goggles limiting sight to 30 feet, ten days of work. FOIA records place him with Detachment 3 of the Air Force Flight Test Center, which runs Area 51. There he says he met Gerald, heard of the Defense Advanced Research Center, and saw the prototype triangle a third time."
+    category: event
+    significance: major
+    entities:
+      - "Edgar Fouche"
+      - "Area 51"
+      - "Defense Advanced Research Center (DARS)"
+      - "Papoose Lake"
+  - date: "1982"
+    title: "SDI money allegedly siphoned to black programs"
+    cue: 1434
+    summary: "Fouché's source estimated that up to 35 percent of Strategic Defense Initiative funding was diverted to Air Force black programs from 1982, and said the Defense Advanced Research Center's objectives were fully realised in the mid-1980s with SDI money."
+    category: program
+    significance: notable
+    entities:
+      - "Strategic Defense Initiative (SDI)"
+      - "Defense Advanced Research Center (DARS)"
+  - date: "1985-11-22"
+    title: "Madison, Wisconsin triangle"
+    cue: 3230
+    summary: "Several witnesses described a dull triangle about 40 feet across. Michael Schratt quotes one saying the underside looked like the back of a refrigerator, a collection of condensation pipes running back and forth, which the host reads as a possible prototype heat-exchanger system."
+    category: event
+    significance: notable
+    entities:
+      - "Michael Schratt"
+      - "Madison, Wisconsin"
+  - date: "1986"
+    title: "Aurora budget line jumps 25-fold"
+    cue: 1697
+    summary: "DOD procurement documents show an Aurora line planned at $80 million for fiscal 1986 and $2.3 billion for fiscal 1987, double the B-2 program's cost at the time. Fouché placed the TR-3B under the Aurora umbrella."
+    category: document
+    significance: major
+    entities:
+      - "Aurora Program"
+  - date: "1988-11-12"
+    title: "Brad Sorenson sees the Flux Liner ARVs at Norton"
+    cue: 219
+    summary: "At the 1988 Norton Air Force Base show, Brad Sorenson saw saucer-shaped alien reproduction vehicles and was told the exhibit's organisers were requesting money to build more, the origin of the term ARV. He also saw the unmanned Aurora 'Pulsar' pulse-detonation craft."
+    category: event
+    significance: major
+    entities:
+      - "Brad Sorenson"
+      - "Norton Air Force Base Air Show"
+      - "Alien Reproduction Vehicle (ARV)"
+      - "Mark McCandlish"
+  - date: "1989-11"
+    title: "Belgian UFO wave begins"
+    cue: 476
+    summary: "Hundreds of reports of a large, flat, low-flying triangle with lights beneath began in Belgium in November 1989. Once-classified DOD papers show the US told Belgium no F-117 or B-2 had flown there; the host asks whether the wave was a test of something more secret still."
+    category: event
+    significance: notable
+    entities:
+      - "Belgian UFO Wave"
+  - date: "1990-03-30"
+    title: "Belgian F-16s chase a radar triangle"
+    cue: 489
+    summary: "On the night of 30 March 1990 an unknown object was tracked on radar and pursued by two Belgian F-16s, which could not find it."
+    category: event
+    significance: notable
+    entities:
+      - "Belgian UFO Wave"
+  - date: "1990"
+    title: "James Goodall's eight Groom Lake black programs"
+    cue: 1598
+    summary: "Jane's defence writer James Goodall described at least eight black programs flying from Groom Lake, including a silent triangle using unconventional technologies; one source told him the base had things 'literally out of this world'."
+    category: document
+    significance: notable
+    entities:
+      - "James Goodall"
+      - "Area 51"
+  - date: "1992-03-09"
+    title: "Aviation Week on the B-2's charged wing"
+    cue: 2351
+    summary: "A 9 March 1992 Aviation Week and Space Technology article by unhappy Northrop insiders described the B-2 electrically charging its wing leading edge and negatively charging its exhaust. Richard Boylan and Donald Ware said the B-2 carried electrogravitic systems for internal mass reduction."
+    category: document
+    significance: notable
+    entities:
+      - "Northrop Grumman"
+      - "Richard Boylan"
+      - "Donald Ware"
+      - "Electrogravitics"
+  - date: "1992"
+    title: "Four engineers describe the XF-131 Super Sentinel"
+    cue: 3458
+    summary: "In spring 1992 illustrator Bill McDonald met four veteran engineers at a Denny's in the Antelope Valley: two from Northrop's Tejon Ranch site and two from Lockheed's Helendale radar cross-section range. Each held a piece of the name of a triangle locals had reported for years, the XF-131 Super Sentinel, which McDonald drew as the 'Tehachapi Triangle'."
+    category: event
+    significance: major
+    entities:
+      - "Bill McDonald"
+      - "XF-131 Super Sentinel"
+      - "Tejon Ranch"
+      - "Helendale"
+      - "Antelope Valley"
+  - date: "1992"
+    title: "Exotic platforms dispersed from Area 51"
+    cue: 1538
+    summary: "Fouché's sources said that in 1992, with too many public eyes on Area 51, the Air Force enacted a contingency plan moving most exotic platforms to Utah (likely Dugway), Colorado, Alaska, Greenland and Diego Garcia, and south to S4 at Papoose, where a TR-3B is kept behind a holographic mountainside."
+    category: policy
+    significance: notable
+    entities:
+      - "Papoose Lake"
+      - "Dugway Proving Ground"
+  - date: "1993-09"
+    title: "The X-Files airs 'Deep Throat'"
+    cue: 3691
+    summary: "The first regular episode of The X-Files, 'Deep Throat', used a Fox computer render of McDonald's Tehachapi Triangle as a craft reverse-engineered from the 1947 Roswell crash, flown by missing Air Force test pilots."
+    category: event
+    significance: notable
+    entities:
+      - "Chris Carter"
+      - "Bill McDonald"
+      - "Roswell Crash"
+  - date: "1993-10-28"
+    title: "Croton Falls Reservoir triangle"
+    cue: 3120
+    summary: "During the Hudson Valley flap, biomedical engineer Jim Cook watched lights drop to the water near the Croton Falls Reservoir, then found a triangle hovering 15 feet above the water 200 feet away, with nine red lights on its side and a red beam probing the water."
+    category: event
+    significance: notable
+    entities:
+      - "Jim Cook"
+      - "Croton Falls Reservoir, New York"
+      - "Hudson Valley UFO Flap"
+  - date: "1994"
+    title: "Three operational TR-3Bs flying"
+    cue: 1746
+    summary: "Fouché said the first flight-ready operational TR-3B flew in the early 1990s, built with SDI and black-budget money, and that by 1994 at least three of the billion-dollar-plus operational models were flying."
+    category: program
+    significance: major
+    entities:
+      - "TR-3B"
+      - "Aurora Program"
+  - date: "1994-09-26"
+    title: "Boscombe Down crash"
+    cue: 2409
+    summary: "Ryan Wood's Magic Eyes Only records an unusual crash landing at the UK's Boscombe Down. Air Force Monthly reported that a CIA-operated Boeing 737 and a DC-8 visited, and two days later a C-5 Galaxy flew the wreck to Air Force Plant 42 at Palmdale; it speculated the aircraft was a TR-3A."
+    category: event
+    significance: major
+    entities:
+      - "Boscombe Down Incident"
+      - "Ryan S. Wood"
+      - "Air Force Plant 42"
+      - "CIA"
+  - date: "1997-08-31"
+    title: "Letter to Greer names TREAT"
+    cue: 918
+    summary: "An anonymous letter to Steven Greer dated 31 August 1997, the only public mention of TREAT the host can find, accuses Liechtenstein's Crown Prince Hans-Adam of funding the team, which the host links to Army INSCOM founder Albert Stubblebine."
+    category: document
+    significance: notable
+    entities:
+      - "TREAT"
+      - "Steven Greer"
+      - "Albert Stubblebine"
+      - "Army INSCOM"
+  - date: "1998"
+    title: "Fouché goes public with the TR-3B"
+    cue: 794
+    summary: "Fouché first described the TR-3B in his 1998 book Alien Rapture and at MUFON and the International UFO Congress, drawing on his own time at Groom Lake and five close friends in the Defense Department and black programs."
+    category: event
+    significance: major
+    entities:
+      - "Edgar Fouche"
+      - "TR-3B"
+      - "Magnetic Field Disruptor (MFD)"
+  - date: "1999-03"
+    title: "Colin Saunders' mercury-skinned triangle"
+    cue: 3269
+    summary: "Driving home from dinner in England, Colin Saunders and his family watched a 50-foot triangle pitch up and down about 15 degrees as if afloat, its skin like flowing liquid mercury and a raised pattern on top that Saunders took for a docking mechanism."
+    category: event
+    significance: notable
+    entities:
+      - "Colin Saunders"
+      - "Kirby, England"
+  - date: "2000-01-05"
+    title: "St. Clair, Illinois police triangle"
+    cue: 3162
+    summary: "In the early morning of 5 January 2000, residents and police officers near Scott Air Force Base reported a black triangle about 75 feet long with white corner lights, a red light and a band of blended colour, loitering at 15 mph before accelerating to 100 mph."
+    category: event
+    significance: major
+    entities:
+      - "St. Clair, Southern Illinois"
+      - "Scott Air Force Base, Illinois"
+  - date: "2009"
+    title: "Jeremy Rys befriends Fouché"
+    cue: 2787
+    summary: "Jeremy Rys (Alien Scientist) met Fouché in 2009 and for years regarded him as a close friend and legitimate whistleblower before turning critic."
+    category: person
+    significance: minor
+    entities:
+      - "Jeremy Rys"
+      - "Edgar Fouche"
+  - date: "2012-06"
+    title: "Hilton's Skype remarks to Dan Benkert"
+    cue: 2987
+    summary: "In a June 2012 Skype conversation, David Hilton told researcher Dan Benkert he worked 'for an agency that monitors things' and that he now controlled Fouché."
+    category: event
+    significance: notable
+    entities:
+      - "David Hilton"
+      - "Dan Benkert"
+      - "Edgar Fouche"
+  - date: "2013"
+    title: "'Edgar Fouche Fake Documents' video"
+    cue: 2888
+    summary: "YouTuber David Hilton posted a video accusing Fouché of faking military documents, followed by videos from Jeremy Rys, who called Fouché deceitful and manipulative after four years' friendship. All were later unlisted or removed, which the host reads as a concession."
+    category: event
+    significance: major
+    entities:
+      - "David Hilton"
+      - "Jeremy Rys"
+      - "Andrew Johnson"
+      - "Dan Benkert"
+  - date: "2014-07"
+    title: "Fouché answers on The Outpost Forum"
+    cue: 2956
+    summary: "In July 2014 Fouché defended his documents on The Outpost Forum against what the host describes as small inconsistencies: indentations, uneven letter pressure and the degradation of copies."
+    category: document
+    significance: minor
+    entities:
+      - "Edgar Fouche"
+  - date: "2016-03-19"
+    title: "'Most likely a hoax' article and Benkert's reply"
+    cue: 3006
+    summary: "A 19 March 2016 article called Fouché's TR-3B most likely a hoax; Dan Benkert, a staunch supporter, offered a counter-explanation."
+    category: document
+    significance: minor
+    entities:
+      - "Dan Benkert"
+  - date: "2023"
+    title: "John DeSouza ties The X-Files to his FBI cases"
+    cue: 3801
+    summary: "Former FBI agent John DeSouza said the first season of The X-Files was based on his cases, including a military base where a glowing UFO seemed to land on him before base personnel detained and interrogated him."
+    category: person
+    significance: minor
+    entities:
+      - "John DeSouza"
+  - date: "2024-11-13"
+    title: "Immaculate Constellation report enters the record"
+    cue: 202
+    summary: "At the November 2024 UAP hearing the Immaculate Constellation report entered the congressional record, labelling two INDOPACOM triangles, one hovering and rotating over intelligence vessels, the other fighter-sized, as alien reproduction vehicles. AARO's 2023 and 2024 reports put triangles at only 3 to 4 percent of cases."
+    category: document
+    significance: major
+    entities:
+      - "Immaculate Constellation (IMCON)"
+      - "Eric Burlison"
+      - "Alien Reproduction Vehicle (ARV)"
+---
+::
+
+## Triangles as Reproduction Vehicles
+
+The video opens on the Immaculate Constellation report, entered into the congressional record on 13 November 2024, whose historical data reaches back to 2009. Among its rarest configurations are two triangles seen by US Indo-Pacific Command (INDOPACOM), which the report labels reproduction craft. The host stresses that the term ARV did not begin with [[Steven Greer]] in 2001 but can be traced to Sorenson's 1988 account. He plays Representative [[Eric Burlison]] saying he had heard the term before from people in the UFO community who distinguish craft that are truly extraterrestrial from craft "we have reverse engineered", and that what makes the report unique is its focus on those reproductions.
+
+::wiki-grid{cols=2}
+::wiki-panel{title="The rotating triangle" tone="accent"}
+A large equilateral triangle appeared directly over intelligence-collecting vessels, hovering and rotating slowly 500 to 1,000 metres above the ocean. Three bright points sat at its bottom corners, with a horizontal bar of sweeping lights partly visible. Collected intelligence, the report says, revealed it to be a reproduction craft.
+::
+::wiki-panel{title="The fighter-sized triangle"}
+A second INDOPACOM account describes an equilateral ARV triangle "of unknown origin", about the size of a fighter jet, hovering less than 200 metres above a vessel at a slight upward angle. At least two lights were seen, with at least one more hidden on the underside.
+::
+::
+
+The host then sets out how rare, and how clustered in time, the shape is:
+
+- **AARO.** The [[AARO|All-domain Anomaly Resolution Office]]'s 2023 and 2024 historical reports put triangles at only 3 to 4 percent of reported UAP.
+- **Project Blue Book.** Of the more than 12,000 cases the Air Force's [[Project Blue Book]] catalogued from 1952 to 1969, [[Don Berliner]]'s paper on the Blue Book unknowns finds just four anomalous triangle sightings in the 1950s, most of them colourful rather than dark with three lights. The host does not treat either body as trustworthy, but finds the pattern telling.
+- **Reporting trends.** Historical data from UFOSearch.com shows few triangle reports between 1940 and 1970 and again after 2000, but an overwhelming number between 1970 and 2000, above all in the 1980s and 1990s: in the host's words, a worldwide, multi-decade triangle flap.
+- **SOM1-01.** The disputed [[Majestic 12]] *Special Operations Manual* ("Psalm 101"), allegedly dated 1954 and covered on the channel with [[Ryan S. Wood]], lists triangles among its craft types, with a radar profile of an isosceles triangle nearly 300 feet on its longest side. It calls them new technology, rarely seen, and believed capable of high speed and abrupt manoeuvres.
+
+The 1989–1990 [[Belgian UFO Wave]] is set aside for a future video, but the host notes that it culminated on 30 March 1990, when two Belgian F-16s chased a radar target they could not find. Once-classified Defense Department documents show that US authorities investigated and told Belgium that no F-117 or B-2 had flown in the region. He asks whether the wave might instead have been tests over an allied nation of a stealth craft more secret still, and whether that craft was the TR-3B.
+
+## Edgar Fouché
+
+Edgar Albert Fouché (sometimes Edgar Rothschild Fouché) was born in 1948 in south-central Georgia to a family with a history in military intelligence and classified projects. Drafted into the Air Force for pararescue in 1968, he fractured an ankle at Fort Benning and retrained in electronics, communications intelligence and cryptology, serving three and a half years in Vietnam and at other Asian bases. He became an Air Force expert in classified electronic-countermeasure, cryptological and automatic test equipment, received about 4,000 hours of technical training (half of it classified), and was hand-picked for work on the F-15, A-10, B-1 and F-117A. He later spent eight years as a defense contractor and engineering manager on black programs.
+
+In 1979, working at [[Nellis Air Force Base]] with a top-secret crypto clearance, he was sent on temporary assignment to "a place with no name". A FOIA-released promotion recommendation places him with Detachment 3 of the [[Air Force Test Center|Air Force Flight Test Center]], the [[Edwards Air Force Base]] detachment that runs Groom Lake. The host links this to his own witness "Ed", who says he was briefed into UAP programs at Nellis and Area 51 before directing tests of reverse-engineered craft at Edwards. Fouché described leaving Nellis before dawn on a blacked-out Air Force bus with 28 others and two security police, under orders not to speak. The bus drove into a hangar at Groom Lake, where he was issued goggles that limited his sight to 30 feet, and he worked there for ten days, returning after dark each night. He wrote down what he heard discussed there, including pulse detonation, cyclotronic radiation, quantum flux transduction field generators, quasicrystal energy lenses and EPR quantum receivers. The host notes that pulse detonation recalls the Aurora "Pulsar" Sorenson saw at Norton.
+
+Fouché said Area 51 held a laboratory called the Defense Advanced Research Center (DARC): ten stories underground beside a mountain near [[Papoose Lake]], next to a hangar cut into the mountainside that houses a TR-3B behind a holographic projection of rock. The host finds only one official mention of the name. A declassified 1973 historical study of [[DARPA|ARPA]] records a directive considering the transfer of the Army Ballistic Missile Agency into a "Defense Advanced Research Center". That agency was commanded by [[Wernher von Braun]], whose mentor [[Hermann Oberth]] studied UFOs, and the host links it to the Jet Propulsion Laboratory at Edwards, from which Fouché said he was recruited. By Fouché's account, DARC's objectives were fully realised in the mid-1980s with [[Strategic Defense Initiative (SDI)|Strategic Defense Initiative]] money: his source estimated that up to 35 percent of SDI funding was siphoned to Air Force black programs from 1982. The host adds that Sorenson was told in 1988 that the ARV exhibit's organisers were requesting funds to build more.
+
+Fouché also said that [[EG&G]] not only provided classified research for black and nuclear programs but built the bunkers, mountain hangars and underground facilities at Groom Lake, Papoose and Mercury. He said it held an indefinite contract under [[Project Redlight]] to recover nuclear materials after mishaps and to secure classified sites. The host notes that a witness told [[Leonard Stringfield]] that Redlight flight-tested non-human and reverse-engineered craft on the Nellis range after they were shipped from Edwards. He believes the [[RAND Corporation]] "more than likely" had a hand as well. Fouché's sources said that in 1992, with too many eyes on Area 51, a contingency plan dispersed most exotic platforms to Utah (likely [[Dugway Proving Ground]]), Colorado, Alaska, Greenland, Diego Garcia and S4 at Papoose. Just before that, in 1990, [[James Goodall]] reported at least eight black programs flying from Groom Lake, including a silent triangle using unconventional technologies.
+
+### The five sources
+
+Fouché's TR-3B material came mostly from five friends in the Defense Department and black programs, who agreed at a table in a dark corner of the Silver Dollar Saloon in Las Vegas that he could write up their secrets. The host is explicit that, apart from his three sightings, Fouché did not work on the TR-3B, so much of his account is secondhand.
+
+::wiki-org-chart
+---
+root:
+  name: Edgar Fouche
+  label: "Air Force Master Sergeant; went public in 1998"
+  note: "Relayed what the five told him, plus his own time at Groom Lake and three sightings."
+  children:
+    - name: Gerald
+      label: "NSA investigator; TREAT team member"
+      note: "DOE and NSA cover; watched cleared staff at the Nevada Test Site, Nellis, Los Alamos, Sandia and Area 51. Died of a heart attack a year after their last meeting."
+    - name: "S."
+      label: "NSA electronics intelligence"
+      note: "Later a contractor for the company that built the TR-3B's magnetic field disruptor."
+    - name: Doc
+      label: "SR-71 pilot; Edwards test pilot"
+    - name: Dell
+      label: "Served with Fouché in Vietnam"
+      note: "His father worked for the NSA for over 25 years and sent Fouché Majestic 12 documents."
+    - name: Bud
+      label: "DOD contractor electronics engineer"
+      note: "Top-secret R&D on electronic countermeasures."
+---
+::
+
+> [!note] TREAT: the Men in Black?
+> Fouché said Gerald belonged to TREAT, the "Tactical Reconnaissance Engineering Assessment Team", which he likened to the Men in Black. The host can find only one other public mention: an anonymous 31 August 1997 letter to Steven Greer, accusing Liechtenstein's Prince Hans-Adam of funding TREAT and naming a figure in it said to be married to a former head of Army Intelligence and Security Command. The host identifies that general as [[Albert Stubblebine]], founder of [[Army INSCOM]], who Greer says offered him $2 billion in 1992 to stop his work and whose entry in Greer's witness log describes Army intelligence at Fort Huachuca as the place "where ET craft and bodies are stored". His reading is that [[TREAT]] may be a real Men in Black housed within INSCOM.
+
+## The TR-3B
+
+A friend of Fouché's said he would never forget the sight of the "alien looking" TR-3B landing at Papoose. Fouché called it the most classified aerospace program in existence, code-named Astra (Advanced Stealth Technology Reconnaissance Aircraft): a "tactical reconnaissance" craft flown as the most exotic model of the Aurora Program. According to his sources, prototypes flew from the early 1970s, the first flight-ready operational model came in the early 1990s, and by 1994 at least three billion-dollar-plus operational models were flying. He said he had seen a prototype three times: over Edwards in 1975, over the southern Nellis range in 1976, and at Groom Lake in 1979. The prototype had different engines at the tips and no rotating crew compartment. He also said he saw photographs taken from a C-130 flying support for the craft. Asked whether Kelly Johnson had been its senior designer, he answered that it "would have been [[Ben Rich]]".
+
+| Feature | Fouché's description |
+|---|---|
+| Size | About 200 ft across (test models); about 600 ft (operational models) |
+| Crew and role | Four; logistics support and transport for a secret space command, with indefinite loiter as a high-altitude stealth reconnaissance platform |
+| Pilots | Top graduates of the Navy and Air Force test pilot schools, mainly Edwards' 412th |
+| Power | Two nuclear reactors |
+| Structure | Advanced composites, metals and titanium; variable vectored intakes and thrusters on the edges |
+| Engines | A multimode thruster at each corner: reactor-driven in the atmosphere, hydrogen in the upper atmosphere, hydrogen-oxygen in orbit |
+| Lift | A magnetic field disruptor ring around a rotating crew compartment |
+| Lights and sound | A light at each tip and a large diffuse light at the bottom centre from the MFD; almost silent apart from a magnetic hum |
+| Skin | Electrochromatic panels whose reflectivity and radar absorption change in response to radar |
+| Performance | Mach 9 vertically or horizontally; turns that look like right angles at a distance |
+
+The disruptor, Fouché said, was reverse-engineered by Sandia and Livermore. Its plasma is mercury-based, pressurised to 250,000 atmospheres at 150 kelvin and spun at 60,000 rpm into a superconductive plasma, generating a magnetic vortex field that neutralises the effect of gravity on the mass inside the ring (crew compartment, avionics, fuel, environmental systems and reactor) by 89 percent. The craft becomes so light, he said, that it can outperform any aircraft "except of course those we didn't build".
+
+> [!info] Not anti-gravity
+> Fouché insisted the MFD is not anti-gravity. Anti-gravity, by his definition, is a repulsive force that can be used for propulsion; the MFD only "disrupts" Earth's gravitational pull on the mass within its ring, and conventional thrusters do the rest. He warned that nobody could build one from what he described.
+
+### Who built it
+
+::wiki-org-chart
+---
+root:
+  name: Aurora Program
+  label: "Black-budget umbrella, per Fouché"
+  note: "A DOD budget line rose from $80 million in FY1986 to $2.3 billion in FY1987, double the B-2's cost at the time."
+  children:
+    - name: TR-3B
+      label: "Code name Astra; the most exotic model"
+      children:
+        - name: "Program management"
+          label: "Per Fouché"
+          children:
+            - name: NRO (National Reconnaissance Office)
+            - name: CIA
+            - name: NSA
+        - name: Magnetic Field Disruptor (MFD)
+          label: "Reverse-engineered from a non-human crash"
+          children:
+            - name: Sandia National Laboratories
+            - name: Lawrence Livermore National Laboratory
+        - name: "Airframe and systems"
+          label: "Split among contractors to compartmentalise R&D"
+          children:
+            - name: Lockheed Martin
+            - name: Boeing
+            - name: Northrop Grumman
+            - name: Teledyne Ryan
+    - name: TR-3A
+      label: "More conventional; a cockpit"
+      note: "Perhaps the Boscombe Down crash of 1994."
+    - name: "Pulsar"
+      label: "Unmanned pulse-detonation craft"
+      note: "Seen by Brad Sorenson at Norton in 1988."
+    - name: "SR-33A"
+      label: "May have been included"
+      note: "Introduced by Michael Wolf; conventional fuel plus anti-gravity field propulsion for a secret space program."
+---
+::
+
+The host finds nothing implausible in this cast. Sandia, inside Kirtland Air Force Base, has long been tied to UFO material and appears in the Majestic 12 documents. Livermore, Los Alamos and Sandia are the Department of Energy's three national-security [[Federally Funded Research and Development Center (FFRDC)|FFRDCs]], semi-private institutions that he says work alongside Defense Department and corporate legacy programs on material exploitation and reverse engineering. He cites [[Oak Ridge National Laboratory|Oak Ridge]] (run by [[Battelle Memorial Institute|Battelle]], where [[Sean Kirkpatrick]] went after AARO) and the [[MITRE Corporation|MITRE]] and RAND centres. He recalls [[Eric A. Walker]], who admitted overseeing the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg]] crash site and had founded Penn State's Navy-sponsored university-affiliated research centre. He also quotes AARO's director in 2024 saying the office's academic collaborations are mostly with university-affiliated research centres and FFRDCs. On management, he cites [[Christopher Sharp]]'s reporting and his forthcoming interview with [[Eric Davis]] to name the [[CIA Directorate of Science and Technology]], with the NRO, the National Underwater Reconnaissance Office, the NGA and likely the NSA, as leading crash-retrieval teams. Ed has said he worked with Boeing and Lockheed on reverse-engineered craft on the Nellis range. A 2013 study by a stealth-aircraft researcher claims Boeing was prime contractor on an SDI program to raise an electromagnetic shield over the United States with boomerang-shaped craft loitering over cities.
+
+### Electrogravitics and the B-2
+
+The host suggests that systems leveraged from non-human technology may sit, unacknowledged, inside acknowledged aircraft such as Northrop Grumman's B-2. Researcher [[Richard Boylan]] has reported that three-star generals and retired Air Force Colonel [[Donald Ware]] said the B-2 carries [[Electrogravitics|electrogravitic]] systems for internal mass reduction, which would account for its price of over $1 billion a plane. A clip cites a 9 March 1992 *Aviation Week and Space Technology* article by unhappy Northrop insiders describing the B-2 electrically charging its wing leading edges and negatively charging its exhaust. The clip calls this the same technology [[T. Townsend Brown]] proposed in the 1930s.
+
+### Boscombe Down and the TR-3A
+
+Ryan Wood's *Magic Eyes Only* includes a case dated 26 September 1994: an unusual crash landing on the runway of the UK's secret Boscombe Down facility, reported in the November 1994 *Air Force Monthly*. Rumour said the wreck was a flying triangle. The magazine reported that an unmarked, civilian-registered, CIA-operated Boeing 737 and an equally anonymous DC-8 visited, and that two days later the wreck was flown to [[Air Force Plant 42]] at Palmdale in a C-5 Galaxy. It speculated that the aircraft was a TR-3A. Fouché said the TR-3A exists but is very different from the TR-3B. Because the two names are often used interchangeably, the host thinks the crash may have been a TR-3B. He notes that "TR-3A" has also been used both for the unmanned pulse-detonation "pumpkin seed" Sorenson saw in 1988 and for a delta fighter with a cockpit, pulse detonation engines and electrogravitic mass reduction.
+
+### The Locust's red sphere
+
+[[Tom DeLonge]] and [[AJ Hartley]]'s novel *Sekret Machines* is, the host says, a roman à clef: real events obtained from military and government sources and wrapped in fiction. DeLonge's advisers reportedly included the commander of the [[Air Force Research Laboratory]] at Wright-Patterson and [[Lockheed Martin Skunk Works|Skunk Works]] officials such as [[Eric Schrock]]. The book describes a triangular reverse-engineered craft whose manual names it the Astra 3B and whose crew call it "the Locust". Its controls are counterintuitive to anyone who knows aviation. The pilot's seat looks like an F-16's, but a red sphere sits in a cradle on the left armrest. Rolling the trackball pivots the craft in place and sends it through manoeuvres with no sound, torque, g-force or inertia. The host's point is that this is exactly the cradled sphere that Brad Sorenson and illustrator [[Mark McCandlish]] said controlled the Flux Liner. Perhaps, he suggests, the Flux Liner and the TR-3B were born of the same programs.
+
+## The Controversy
+
+With disclosures this consequential, Fouché drew heavy fire in the early and mid-2010s. The host says he has "zero skin in this game" and only lays out the arguments, adding his view of each.
+
+::wiki-grid{cols=2}
+::wiki-panel{title="The case against Fouché"}
+- **[[Jeremy Rys]]** (Alien Scientist) met Fouché in 2009 and considered him a friend and a genuine whistleblower. By 2013 he was calling the TR-3B material of "no technical value", likely invented by combining the Nazi Bell story with the Belgian wave. He objected in particular to the mercury plasma, and after four years' friendship called Fouché one of the most deceitful and manipulative people he had met. He blamed PTSD-driven alcoholism and said Fouché once claimed to have flown a TR-3B while drunk, but offered no evidence.
+- Rys said a photo Fouché sent him, supposedly showing Fouché with a crew viewing the F-117 prototype at Area 51 between 1977 and 1981, was lifted from an article titled "F-117A Senior Trend". Its photographer replied that Fouché did not know what he was talking about.
+- **[[David Hilton]]** posted "Edgar Fouche Fake Documents" in 2013, followed by videos from Rys. After knowing Fouché since February 2012, Hilton wrote to a group email (Rys, [[Dan Benkert]] and [[Andrew Johnson]]) that he believed Fouché had "made up/lied about everything".
+::
+::wiki-panel{title="The case for Fouché" tone="accent"}
+- **Andrew Johnson** interviewed Fouché at length, became a close friend and spoke very highly of him.
+- **Dan Benkert**, co-author with [[Michael Schratt]], knew Fouché personally, remained a staunch supporter and rebutted a 19 March 2016 article calling the TR-3B "most likely a hoax".
+- In July 2014 on The Outpost Forum, **Fouché** answered what appear to be Hilton's points: small indentations, uneven pressure on letters and the degradation of copies.
+- **The host's reading:** Rys's email to the photographer was loaded with accusations, which is not how to get an objective answer. Hilton himself obtained many of the FOIA records of Fouché's service. Both men's videos have since been unlisted or removed, which the host takes as a concession.
+::
+::
+
+> [!warning] Hilton's Skype remarks
+> In a June 2012 Skype conversation, Hilton told Benkert that he actually worked "for an agency that monitors things" and that he now controlled Fouché: "the exposer becomes a tool of control". The host finds the remarks extremely startling.
+
+The host does not find the critics' physics objections decisive, saying he knows too little about the TR-3B's physics to dispute it as Rys does, and doubts the story is as simple as Fouché borrowing from the Belgian wave. The most valid criticism, he says, is that apart from three sightings outside program operations, Fouché's information is secondhand, relayed from Gerald, Bud, Doc, S. and the others. Gerald died soon after their first meeting and Fouché himself has since died. The host appeals to any surviving source to contact him.
+
+## Triangles in the Wild
+
+Non-human craft, in the host's reading of witness accounts, look almost perfect: seamless, without rivets or bolts, "almost as if the craft are 3D printed". Triangle sightings almost never describe craft like that. A clip summarises the typical triangle: seen in almost every country and culture, sometimes 200 to 300 feet across, with a white light at each corner, a midsection about 20 feet across, structural detail beneath, and a red or amber light at the centre of the underside. The host then turns to four cases whose odd fittings suggest, to him, human-built prototypes or iterations.
+
+::wiki-grid{cols=2}
+::wiki-panel{title="Croton Falls, New York · 28 Oct 1993"}
+During the [[Hudson Valley UFO Flap]], biomedical engineer [[Jim Cook]] saw aircraft lights drop fast toward the water near the [[Croton Falls Reservoir, New York|Croton Falls Reservoir]], hover and blink out. Walking to the shore, he found a triangle hovering 200 feet away and 15 feet above the water, with nine red lights on its side and a red beam from its underside probing the water.
+::
+::wiki-panel{title="St. Clair, Illinois · 5 Jan 2000" tone="accent"}
+Residents and police officers in [[St. Clair, Southern Illinois|St. Clair]] reported an elongated black triangle near [[Scott Air Force Base, Illinois|Scott Air Force Base]], about 75 feet long and 40 feet wide, with undulating white corner lights, a small flashing red light, a white-lit rectangular rear, and a lengthwise band of blended colours. A second officer, Martin, put it at 75 to 100 yards wide at 1,000 feet, loitering at 15 mph before accelerating to 100 mph.
+::
+::wiki-panel{title="Madison, Wisconsin · 22 Nov 1985"}
+Several eyewitnesses described a dull triangle about 40 feet across near [[Madison, Wisconsin|Madison]]. Researcher Michael Schratt quotes one as saying the underside looked like "the back of a refrigerator", with condensation pipes running back and forth. The host wonders whether it was a reproduction triangle whose prototype propulsion needed a massive heat exchanger.
+::
+::wiki-panel{title="England · March 1999"}
+Driving home from dinner, [[Colin Saunders]] and his family watched a 50-foot triangle pitch up and down about 15 degrees, bobbing as if in water. Its skin looked like flowing liquid mercury, which the host compares with the "mother of pearl" skin in [[Jonathan Weygandt]]'s crash account. A raised pattern on its sloping top, repeated beneath, looked to Saunders like a docking mechanism. The host notes that parasitic aircraft are not unknown, citing a 1970s Air Force proposal for a Boeing 747 airborne carrier.
+::
+::
+
+Were these craft human-made, the host asks: prototypes or iterations of the TR-3B, products of separate legacy programs, or something in between? The sloping top of the English triangle leads him to the next craft.
+
+## The XF-131 Super Sentinel
+
+A second line of research, independent of Fouché, leads to a very similar reverse-engineered triangle that disgruntled engineers called the XF-131 Super Sentinel. [[Bill McDonald]] is an old-school commercial illustrator, concept designer and forensic reconstruction artist who is now a sworn law-enforcement officer. The channel has featured his drawings of the EBE-1 and EBE-2 entities with [[Robert Wood]], the Roswell craft and the [[1976 Tehran UFO Incident|1976 Tehran incident]]. The host says he has spoken with McDonald and holds him in very high regard. In the spring of 1992, McDonald met four veteran engineers at a Denny's in the [[Antelope Valley]] who were fed up with the security impositions on their lives. Because of extreme compartmentalisation, each held only a piece of the name of the triangle valley residents had been reporting for years. They wanted their story told without threats to their lives, jail or the loss of their pensions, which the host compares to the position of today's UAP whistleblowers.
+
+::wiki-org-chart
+---
+root:
+  name: Bill McDonald
+  label: "Forensic illustrator; heard the account, spring 1992"
+  note: "Has sworn to protect the engineers' identities, and maintains they told the truth."
+  children:
+    - name: "Two Northrop engineers"
+      label: "Source"
+      children:
+        - name: Tejon Ranch
+          label: "Their facility ('Tehachapi' to researchers)"
+    - name: "Two Lockheed engineers"
+      label: "Source"
+      note: "Said they worked for Ben Rich at the Skunk Works."
+      children:
+        - name: Helendale
+          label: "Their radar cross-section range"
+    - name: Robert Scandrett
+      label: "Helped confirm the account"
+      note: "McDonald's father's mentor, of Rockwell International's strategic systems division, along with friends of his father."
+    - name: "The Tehachapi Triangle (1992)"
+      label: "McDonald's drawing of the XF-131"
+      children:
+        - name: "The X-Files, 'Deep Throat' (1993)"
+          label: "Fox computer render of the drawing"
+---
+::
+
+Two details echo the TR-3B: Fouché also named Ben Rich, not Kelly Johnson, as its designer, and Lockheed's [[Helendale]] plant lies close to Edwards and Air Force Plant 42, both of which the host has accused of housing reverse-engineering programs. McDonald said the Helendale site was built to hide in plain sight behind the cover of a radar cross-section facility, and that its storm-drain flood-control channel really serves as a short runway or platform for testing craft. He said this five years before Steven Greer first called it a program location. In a clip, Greer describes a trough and "diamond" pads from which silent, electrogravitic "man-made UFOs" built since 1954 or 1955 rise to hover at different heights and are struck with an electromagnetic weapon to test their hardening.
+
+On the drawing, McDonald asks whether viewers recognise the craft: Fox contracted his work for a computer render in the first regular episode of *The X-Files*, "Deep Throat", the host's favourite. In it Mulder investigates a missing Air Force test pilot, learns the craft is reverse-engineered from the 1947 [[Roswell Crash]], watches a triangle dart and hover over the airfield, and is captured and drugged to forget. Rumours that creator [[Chris Carter]] was asked by military brass how he knew so much have no credible source the host can find. However, former FBI agent [[John DeSouza]] said in 2023 that the show's first season drew on his cases, including one at a military base where a glowing craft seemed to land on him before base personnel detained and interrogated him. (The host strongly disagrees with the "Project Blue Beam" fake-invasion theme of DeSouza's video.) The XF-131 case, he says, is under further investigation behind the scenes.
+
+## Two Kinds of ARV
+
+In the outro the host untangles craft that are often confused with the TR-3B in images online:
+
+| Craft | Family | Shape | Notes |
+|---|---|---|---|
+| TR-3B (Astra) | Aurora; "tactical reconnaissance" line | Triangle; 200 ft test and 600 ft operational models | Gravity-resistant reverse-engineered craft; three white lights and a diffuse red light, like countless public sightings |
+| TR-3A | Possibly Aurora | More prosaic, with a cockpit | Advanced stealth, electrogravitics or pulse detonation engines; perhaps the Boscombe Down crash |
+| TR-3E | Possibly the TR line | Concave sides between the vertices, fins, a small dome on top | Often a toy model; the host found little evidence and did not cover it |
+| XF-131 Super Sentinel | Separate; Northrop and Lockheed engineers | Smaller, with a near-pyramid top | A large, seemingly manoeuvrable light beneath and three pairs of lights on the sides; closest to the 1999 [[Kirby, England]] sighting |
+
+Fouché also said the "TR" line paralleled the "SR" strategic reconnaissance line, with SR-74 and SR-75 concepts in development in his time. The host finds Fouché's details about DARC, the contractors, the Air Force Flight Test Center records, Redlight and EG&G, [[NEST (Nuclear Emergency Support Team)|NEST]] and TREAT almost more interesting than the craft itself.
+
+::wiki-grid{cols=2}
+::wiki-panel{title="The saucer ARV" tone="accent"}
+The Flux Liner of Norton, 1988: a flying saucer running on electrogravitics, magnetohydrodynamics or zero-point energy, crudely fitted with F-4 Phantom ejection seats and off-the-shelf parts around a copied propulsion system.
+::
+::wiki-panel{title="The triangle ARV"}
+"Something a little less pretty": the TR-3B and, to an extent, the XF-131, likely running on electrogravitics or MFD and MHD devices. They make near right-angle turns, but their speed limits and inertial dampening are not extreme and fall short of the "six observables" of non-human craft. They look like a human attempt to reproduce something fantastic.
+::
+::
+
+That leaves open questions: what the non-human triangles are; why SOM1-01 called triangles new and little understood in 1954; whether triangles of the 1950s were non-human or a breakaway civilization's precursor to later programs; and how many prototypes of the TR-3B, the XF-131 or triangles under names nobody knows were built. The host closes by noting that his November had included a show with [[Jesse Michaels]], the UAP hearings and the SOL Foundation symposium, and trails his forthcoming Eric Davis interview.
+
+## Key Figures
+
+::wiki-roster
+---
+entries:
+  - name: Edgar Fouche
+    role: "Air Force Master Sergeant; TR-3B whistleblower"
+    note: "Detachment 3 of the Air Force Flight Test Center at Groom Lake in 1979; described the TR-3B and its magnetic field disruptor in 1998, largely from five sources."
+  - name: Brad Sorenson
+    role: "Firsthand ARV witness"
+    note: "Saw the Flux Liner saucers and the Pulsar at Norton in 1988; the origin of the ARV term and of the red control sphere."
+  - name: Mark McCandlish
+    role: "Aerospace illustrator"
+    note: "Drew the Flux Liner and its trackball control from Sorenson's account."
+  - name: Bill McDonald
+    role: "Forensic illustrator"
+    note: "Drew the XF-131 Super Sentinel as the 'Tehachapi Triangle' from four engineers' accounts in 1992; Fox rendered it for The X-Files."
+  - name: Jeremy Rys
+    role: "Alien Scientist; former friend turned critic"
+    note: "Called the TR-3B material a fabrication and Fouché deceitful; his videos were later removed."
+  - name: David Hilton
+    role: "YouTuber; critic"
+    note: "Posted 'Edgar Fouche Fake Documents' in 2013 and told Dan Benkert he worked for 'an agency that monitors things'."
+  - name: Andrew Johnson
+    role: "Researcher; Fouché's interviewer"
+    note: "Interviewed Fouché at length and spoke very highly of him."
+  - name: Dan Benkert
+    role: "Researcher; Fouché's defender"
+    note: "Co-author with Michael Schratt; rebutted the 2016 'most likely a hoax' article."
+  - name: Tom DeLonge
+    role: "Co-author of Sekret Machines"
+    note: "His novel's Astra 3B 'Locust' is flown with a red trackball like the Flux Liner's."
+  - name: Albert Stubblebine
+    role: "Army general; INSCOM founder"
+    note: "Linked by the host to the TREAT team through a 1997 letter to Steven Greer."
+  - name: Eric Burlison
+    role: "US Representative"
+    note: "Told the host he had heard the ARV distinction before the Immaculate Constellation report."
+  - name: John DeSouza
+    role: "Former FBI agent"
+    note: "Says the first season of The X-Files drew on his cases."
+---
+::
 
 ## Key Claims
-- The TR-3B's Magnetic Field Disruptor (MFD) reduces the effective mass of the craft and its contents by 89% using a magnetic vortex field.
-- The TR-3B is described as a high-altitude stealth reconnaissance platform capable of Mach 9 travel both vertically and horizontally.
-- The TR-3B uses three multimode thrusters and can operate in atmosphere, upper atmosphere, and orbit with different propulsion modes.
-- The MFD technology in the TR-3B was reportedly reverse-engineered from non-human UAP craft.
-- The B-2 stealth bomber allegedly carries onboard electrogravitic systems for internal mass reduction, contributing to its over $1 billion per unit cost.
-- The B-2 electrically charges its wing leading edges and negatively charges exhaust gases to reduce radar and infrared signatures.
-- Electrogravitic technology may date back to the 1930s work of T. Townsend Brown.
-- A crash at Boscombe Down in 1994 allegedly involved a TR-3A or TR-3B craft, with wreckage covertly transported to Palmdale, California.
-- Tom DeLonge's novel Secret Machines allegedly contains factual information about a triangular craft called the Astra 3B, known internally as 'the Locust.'
-- TR-3A and TR-3B are often used interchangeably in public discourse, causing confusion about the distinct craft they describe.
-- The TR-3B Astra, nicknamed 'the Locust,' is described as a reverse-engineered triangular craft with counterintuitive controls unlike any known aircraft.
-- The TR-3B Astra Locust is controlled by a red trackball sphere on the pilot's armrest, enabling pivoting in place with no sound, torque, g-force, or inertia.
-- The trackball control mechanism described for the TR-3B Astra Locust is identical to the control system claimed for the Alien Reproduction Vehicle Flux Liner by Brad Sorenson and Mark McCandlish.
-- Jeremy Rys alleged that Edgar Fouche fabricated the TR-3B testimony by combining stories about the Nazi Bell device with Belgian wave triangular UFO sightings.
-- Jeremy Rys described Edgar Fouche as one of the most deceitful and manipulative people he had ever met after four years of friendship.
-- Critics alleged Fouche used faked military documents and a stolen photo to support his claims of being stationed at Area 51.
-- The photographer of the alleged Area 51 F-117 photo stated that Fouche did not know what he was talking about.
-- Jeremy Rys's email to the F-117 photographer contained leading statements against Fouche, undermining the objectivity of the photographer's response.
-- Videos by David Hilton and Jeremy Rys criticizing Fouche were subsequently removed or unlisted from YouTube.
-- Andrew Johnson, who conducted extensive interviews with Fouche, spoke very highly of the witness in contrast to critics Rys and Hamilton.
-- Hilton, who initially supported Edgar Fouche, later stated Fouche made up and lied about everything after catching him in numerous contradictions.
-- Hilton allegedly told Dan Bener via Skype that he works for an agency that monitors things and that he 'controls' Ed Fouche.
-- Videos by Hilton and Jeremy Rys related to exposing Fouche were unlisted and removed from YouTube, suggesting a possible retraction.
-- NHI craft are often described as seamless, rivet-free, and nearly perfect in appearance, unlike reported triangular craft.
-- Triangular UAP are a worldwide phenomenon observed across many countries and cultures.
-- Triangular UAP typically feature white lights at each corner, a red or amber light in the center underside, and span 200–300 feet across.
-- Jim Cook observed a triangular craft hovering 15 feet above the water near Croton Falls Reservoir with nine red lights and a probing red beam.
-- Police officers in St. Clair, Illinois reported a massive black triangular craft near Scott Air Force Base traveling at a loitering speed of 15 mph before accelerating to 100 mph.
-- A 1985 Wisconsin triangular craft sighting described the underside as resembling the back of a refrigerator with condensation pipes, possibly indicating a prototype heat exchanger propulsion system.
-- The retraction of Hilton and Rys's video is interpreted as a concession that their document-based claims against Fouche were not substantiated.
-- McDonald identified the Lockheed Martin Helendale plant as a hidden ARV test site 5 years before Steven Greer labeled it as a program location.
-- The Helendale facility's storm drainage flood control channel allegedly functions as a short runway or platform for testing advanced craft.
-- Fox Network contracted McDonald's Tehachapi Triangle design for the first episode of the X-Files, titled 'Deep Throat.'
-- John Dusza, a 25-year FBI veteran, stated the first season of the X-Files was based on true cases he investigated.
-- Dusza claims he personally witnessed UFOs near a military base, was singled out by one craft, and was subsequently detained and interrogated by base personnel.
-- The X-Files episode 'Deep Throat' depicts a reverse-engineered craft derived from the 1947 Roswell crash.
-- Rumors persist that X-Files creator Chris Carter was approached by unknown military brass asking how he knew so much, though no credible sources confirm this.
-- Craft at the Helendale facility are allegedly placed at various elevations and struck with electromagnetic weapons to test hardening against conflict.
-- The TR-3B Astra is a reverse-engineered, gravity-resistant triangular craft allegedly developed within the Aurora program by companies including Sandia, Lawrence Livermore, Lockheed, and Northrop, spearheaded by the CIA and NSA.
-- Edgar Fouche alleged that the TR-3B exists in 200-foot test models and 600-foot operational models, with a diffuse red light on the bottom matching numerous public triangle sighting descriptions.
-- The TR-3A, a more conventional triangular craft possibly using electrogravitics or pulse detonation engines, may have been the craft that crashed at Boscombe Down in 1994.
-- Fouche alleged that concept aircraft SR-74 and SR-75 were in development in the Strategic Reconnaissance line while he worked in defense.
-- Project Redlight allegedly involved EG&G working for the DOE, while EG&G also operated Area 51.
-- TREATS is alleged to have only one publicly available mention and may represent Army INSCOM's version of a Men in Black program under Stubblebine.
-- The XF-131 Super Sentinel differs significantly from the TR-3B due to its pyramid-shaped top and distinctive underside lighting arrangement.
-- Triangular UAP sightings featuring three white lights and one red light are described as nearly ubiquitous among the general public.
-- The TR-3B and similar triangular craft are likely human attempts to reproduce exotic NHI propulsion technology rather than genuine NHI craft.
-- Ed Fuche's information about the TR-3B was largely secondhand, relayed from associates including Gerald, Bud, Doc, and others.
-- The DOD and Air Force 412th Test Group likely possess at least two types of ARVs: a flying saucer type and a triangular type.
-- Triangular craft reported in the 1950s may represent either NHI technology or early breakaway civilization precursors to later ARV programs.
-- Triangular craft comprise 1 to 4 percent of UAP reporting trends, yet a significant number of people have reported seeing them.
-- The XF-131 Super Sentinel is an alleged classified triangular craft the host is actively investigating.
-- The TR-3B reportedly can perform near-right-angle turns but does not exhibit the full range of capabilities associated with NHI craft six observables.
 
----
-*Source: [YouTube](https://www.youtube.com/watch?v=B7JP0uX0GwY)*
+- The Immaculate Constellation report, entered into the congressional record on 13 November 2024, reportedly labels at least some triangles seen by INDOPACOM as alien reproduction vehicles, the term Brad Sorenson reported from the 1988 Norton air show.
+- Triangles make up only 3 to 4 percent of AARO's reported cases and barely feature in Project Blue Book's 1950s unknowns, yet reports surged between 1970 and 2000; the host proposes that legacy programs began building triangular ARVs in the 1970s and tested them over military bases into the 2000s.
+- Edgar Fouché, assigned in 1979 to the Air Force Flight Test Center detachment at Groom Lake, said the TR-3B "Astra" was the most exotic craft of the Aurora Program, with prototypes from the early 1970s and three operational models by 1994.
+- According to Fouché, the TR-3B's magnetic field disruptor, a mercury-plasma ring reverse-engineered from non-human technology by Sandia and Lawrence Livermore, reduces the mass inside it by 89 percent, allowing Mach 9 and indefinite loiter.
+- Fouché said the program was managed by the NRO, CIA and NSA and built by Lockheed, Boeing, Northrop, Teledyne Ryan and others, and that up to 35 percent of SDI funding was diverted to Air Force black programs from 1982.
+- A 1994 crash at Boscombe Down, flown to Air Force Plant 42 by C-5, was speculated at the time to involve a TR-3A; the host suggests it may have been a TR-3B.
+- Tom DeLonge's *Sekret Machines* describes an Astra 3B "Locust" steered by a red trackball, the same control Sorenson and Mark McCandlish described for the Flux Liner.
+- Critics Jeremy Rys and David Hilton accused Fouché of fabrication and faked documents, but their videos were later removed; the host takes this as a concession while calling the secondhand nature of Fouché's information the most valid criticism.
+- Four Northrop and Lockheed engineers described the XF-131 Super Sentinel to Bill McDonald in 1992, and Fox used his drawing of it in *The X-Files* episode "Deep Throat".
+- The host concludes that the Defense Department, the 412th Test Group and the legacy programs probably hold at least two kinds of ARV: the saucer-shaped Flux Liner and the triangle.
+
+## Sources
+
+- [YouTube](https://www.youtube.com/watch?v=B7JP0uX0GwY) — UAP Gerb
+
+## Related Pages
+
+- **People**: [[Edgar Fouche|Edgar Fouché]], [[Brad Sorenson]], [[Mark McCandlish]], [[Bill McDonald]], [[Robert Scandrett]], [[Ben Rich]], [[Kelly Johnson]], [[Jeremy Rys]], [[David Hilton]], [[Andrew Johnson]], [[Dan Benkert]], [[Michael Schratt]], [[Tom DeLonge]], [[AJ Hartley]], [[Eric Schrock]], [[Albert Stubblebine]], [[Steven Greer]], [[Leonard Stringfield]], [[James Goodall]], [[Michael Wolf]], [[Richard Boylan]], [[Donald Ware]], [[T. Townsend Brown]], [[Wernher von Braun]], [[Hermann Oberth]], [[Ryan S. Wood]], [[Robert Wood]], [[Don Berliner]], [[Jim Cook]], [[Colin Saunders]], [[Jonathan Weygandt]], [[Chris Carter]], [[John DeSouza]], [[Eric Burlison]], [[Eric Davis]], [[Christopher Sharp]], [[Eric A. Walker]], [[Sean Kirkpatrick]], [[Jesse Michaels]]
+- **Organizations**: [[CIA]], [[NSA]], [[NRO (National Reconnaissance Office)]], [[CIA Directorate of Science and Technology]], [[Sandia National Laboratories]], [[Lawrence Livermore National Laboratory]], [[Oak Ridge National Laboratory]], [[Battelle Memorial Institute]], [[MITRE Corporation]], [[RAND Corporation]], [[Lockheed Martin]], [[Lockheed Martin Skunk Works]], [[Boeing]], [[Northrop Grumman]], [[Teledyne Ryan]], [[EG&G]], [[Army INSCOM]], [[AARO]], [[Air Force Test Center]], [[412th Test Wing]], [[Air Force Research Laboratory]], [[Defense Advanced Research Center (DARS)]], [[DARPA]], [[Majestic 12]]
+- **Locations**: [[Area 51]], [[Papoose Lake]], [[Nellis Air Force Base]], [[Edwards Air Force Base]], [[Air Force Plant 42]], [[Dugway Proving Ground]], [[Helendale]], [[Tejon Ranch]], [[Antelope Valley]], [[Croton Falls Reservoir, New York]], [[St. Clair, Southern Illinois]], [[Scott Air Force Base, Illinois]], [[Madison, Wisconsin]], [[Kirby, England]]
+- **Concepts**: [[Alien Reproduction Vehicle (ARV)]], [[TR-3B]], [[XF-131 Super Sentinel]], [[Magnetic Field Disruptor (MFD)]], [[Electrogravitics]], [[Immaculate Constellation (IMCON)]], [[TREAT]], [[Strategic Defense Initiative (SDI)]], [[Federally Funded Research and Development Center (FFRDC)]], [[NEST (Nuclear Emergency Support Team)]], [[Hudson Valley UFO Flap]]
+- **Operations**: [[Aurora Program]], [[Project Redlight]], [[Project Blue Book]]
+- **Events**: [[Norton Air Force Base Air Show]], [[Boscombe Down Incident]], [[Belgian UFO Wave]], [[Roswell Crash]], [[1965 Kecksburg, Pennsylvania Crash Retrieval]], [[1976 Tehran UFO Incident]]

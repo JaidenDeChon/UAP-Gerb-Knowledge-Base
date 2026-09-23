@@ -8,6 +8,7 @@ tags:
 # Operations MOC
 
 - [[AATIP (Advanced Aerospace Threat Identification Program)]]
+- [[Aurora Program]]
 - [[Operation Bluefly]]
 - [[CIA Disc Recovery Operation (Mexico 1974)]]
 - [[Defense Support Program (DSP)]]

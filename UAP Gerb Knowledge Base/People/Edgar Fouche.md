@@ -37,7 +37,7 @@ Fouché's TR-3B testimony was built on information from five close friends withi
 2. **S** — Worked directly with the NSA on electronics intelligence; became a defense contractor and worked for the company that created the TR-3B's MFD gravity disruption device.
 3. **Doc** — An SR-71 spy pilot and USAF test pilot at [[Edwards Air Force Base]].
 4. **Dell** — Served with Fouché during Vietnam; Dell's father worked for the NSA for over 25 years and sent Fouché [[Majestic 12]] documents.
-5. **Ran Bud** — A DOD contractor electronics engineer who worked on top secret R&D programs with electronic countermeasures.
+5. **Bud** — A DOD contractor electronics engineer who worked on top secret R&D programs with electronic countermeasures.
 
 ## Credibility Controversies
 

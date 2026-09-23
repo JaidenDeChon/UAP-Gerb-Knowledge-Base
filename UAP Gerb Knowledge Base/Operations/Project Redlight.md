@@ -22,11 +22,15 @@ According to MH:
 
 Air Force Master Sergeant Edgar Fouché, best known for his [[TR-3B]] disclosures, also named Project Redlight. He said EG&G, the contractor that hired [[Bob Lazar]] to work at S-4 and is alleged to have operated Area 51, was awarded an indefinite contract under the project to support the [[Department of Energy]] and the military. The contract gave EG&G responsibility for recovering nuclear materials after mishaps and for providing aerial and ground security for highly classified government and military sites.
 
+That dual mandate, nuclear-material recovery alongside the security of classified sites, recalls the [[NEST (Nuclear Emergency Support Team)|Nuclear Emergency Support Team]], which EG&G also supported. In *Alien Reproduction Vehicle - TR-3B and the Flying Triangles*, UAP Gerb notes that the same contractor is said to have run Area 51 and, by Fouché's account, built the hidden bunkers, mountain hangars and underground facilities at Groom Lake, [[Papoose Lake]] and Mercury.
+
 ## Arnold House and Northrop Grumman
 
 In his taped testimony for [[Steven Greer]]'s [[Disclosure Project]], Arnold House, a Boeing Aerospace surface technician, relayed the account of a Boeing colleague recruited in 1980 onto a UFO crash recovery team in northern New Mexico. The colleague said he spent 17 years, until 1997, on reverse engineering and testing at Area 51, paid directly by Northrop, and that the Area 51 program to test non-human vehicles and exploit their materials was called Project Red Light. House added that it involved a base near Lancaster and Palmdale, California, with an underground area near Northrop, as well as underground research areas near Anza, California and work at March Air Force Base.
 
-UAP Gerb calls this the first public attribution of the project to Northrop Grumman. If House's account is accurate, he argues, Northrop may have served as Redlight's project manager, testing non-human intelligence vehicles and [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]] in a joint operation between contractors and the Edwards 412th Test Group.
+The same source said that 35 to 40 percent of Area 51's operations were moved to [[Dugway Proving Ground]] in the early 1990s, matching Fouché's claim that exotic platforms were dispersed from Area 51, largely to Utah, under a 1992 Air Force contingency plan.
+
+UAP Gerb calls this the first public attribution of the project to Northrop Grumman. If House's account is accurate, he argues, Northrop may have served as Redlight's project manager, testing non-human intelligence vehicles and [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]] in a joint operation between contractors and the Edwards 412th Test Group. He suggests that smaller firms such as Alon Science and Technologies may have handled Air Force responsibilities within that framework, with Northrop as the primary corporate entity.
 
 ## Place in UAP Gerb's research
 

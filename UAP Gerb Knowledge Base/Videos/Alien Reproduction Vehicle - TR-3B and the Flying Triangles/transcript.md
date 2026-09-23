@@ -2,8 +2,8 @@
 title: "Transcript - Alien Reproduction Vehicle - TR-3B and the Flying Triangles"
 video_id: B7JP0uX0GwY
 url: https://www.youtube.com/watch?v=B7JP0uX0GwY
-date: NA
-duration_seconds: 0
+date: 2024-12-01
+duration_seconds: 4625
 channel: UAP Gerb
 tags:
   - transcript

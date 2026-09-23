@@ -280,5 +280,20 @@
       "wiki-cue"
     ],
     "cues": "verified"
+  },
+  "B7JP0uX0GwY": {
+    "title": "Alien Reproduction Vehicle - TR-3B and the Flying Triangles",
+    "published": "2024-12-01",
+    "enriched_at": "2026-09-23T12:26:41Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-org-chart",
+      "wiki-callout",
+      "wiki-roster"
+    ],
+    "cues": "verified"
   }
 }

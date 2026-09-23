@@ -80,7 +80,7 @@ tags:
 - [[Los Angeles, California]]
 - [[Los Llanos Airbase, Spain]]
 - [[Lubbock, Texas]]
-- [[Mad, Wisconsin]]
+- [[Madison, Wisconsin]]
 - [[Magenta, Italy]]
 - [[Malabar Coast, India]]
 - [[Mallorca, Spain]]

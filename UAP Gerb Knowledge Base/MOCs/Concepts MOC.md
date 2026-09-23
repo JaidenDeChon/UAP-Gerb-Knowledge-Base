@@ -147,7 +147,6 @@ tags:
 - [[Pink Assets]]
 - Post Duty Officer
 - [[Project Blue Book]]
-- [[Project Redlight]]
 - [[Psionic Abilities (P3)]]
 - [[Psionics]]
 - [[RDT&E (Research, Development, Test and Evaluation)]]
