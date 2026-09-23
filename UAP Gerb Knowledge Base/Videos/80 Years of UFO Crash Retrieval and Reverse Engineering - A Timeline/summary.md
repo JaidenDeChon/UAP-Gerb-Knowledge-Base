@@ -43,7 +43,6 @@ eras:
     label: "Prologue"
     from: 1933
     to: 1946
-    summary: "An alleged crash retrieval in fascist Italy fourteen years before Roswell, shelved through the war -- the outlier the video addresses before its timeline proper begins."
   - id: golden
     label: "The Golden Era"
     from: 1947
