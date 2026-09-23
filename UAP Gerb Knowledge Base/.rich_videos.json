@@ -200,5 +200,21 @@
       "wiki-roster"
     ],
     "cues": "verified"
+  },
+  "H9GSqOEvoBE": {
+    "title": "US Navy UFO Crash Retrieval & Reverse Engineering Programs",
+    "published": "2025-04-11",
+    "enriched_at": "2026-09-23T11:04:15Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-org-chart",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-callout",
+      "wiki-watch",
+      "wiki-roster"
+    ],
+    "cues": "verified"
   }
 }

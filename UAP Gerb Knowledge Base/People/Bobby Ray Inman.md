@@ -23,7 +23,7 @@ Inman also introduced Echler to former Director of Naval Intelligence [[Sumar Sh
 
 ## Public Statements and Contradictions
 
-In 2022, Inman appeared on the *Project Unity* program and publicly claimed he had found "plausible explanations for virtually everything that we had observed" during his active service regarding UAP. UAP researchers characterize this statement as directly contradicting his private 1989 disclosures to Echler and point to it as an example of legacy program management through public misdirection. Inman's 1951-era counterpart in the Office of Naval Research, physicist [[Ner Liddell]], publicly dismissed all UAP reports as "mirages or balloons" — establishing an institutional pattern of Navy-adjacent UAP denial that predates Inman's career.
+In 2022, Inman appeared on the *Project Unity* program and publicly claimed he had found "plausible explanations for virtually everything that we had observed" during his active service regarding UAP. UAP researchers characterize this statement as directly contradicting his private 1989 disclosures to Echler and point to it as an example of legacy program management through public misdirection. Inman's 1951-era counterpart in the Office of Naval Research, physicist Urner Liddel, publicly dismissed all UAP reports as "mirages or balloons" — establishing an institutional pattern of Navy-adjacent UAP denial that predates Inman's career.
 
 ## Sources
 
