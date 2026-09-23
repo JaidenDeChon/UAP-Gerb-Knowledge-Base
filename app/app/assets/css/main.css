@@ -461,3 +461,50 @@
     opacity: 0.7;
   }
 }
+
+/* ============================================================
+   Content arriving after the UFO loader unblurs into focus. The
+   veil covers the visible content area (below the 56px top bar,
+   beside the 280px sidebar from 901px up), fading from the page
+   colour to clear while its backdrop blur eases down to nothing.
+   Created by AppLoadingMark's hand-off; never created under
+   prefers-reduced-motion.
+   ============================================================ */
+.ufo-reveal-veil {
+  --ufo-rail: 0px;
+  position: fixed;
+  z-index: 9; /* under the blurring-out loader (10), over the page */
+  top: 56px;
+  right: 0;
+  bottom: 0;
+  left: var(--ufo-rail);
+  pointer-events: none;
+  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
+  animation: ufo-reveal-veil 620ms cubic-bezier(0.2, 0, 0.2, 1) forwards;
+}
+@media (min-width: 901px) {
+  .ufo-reveal-veil {
+    --ufo-rail: 280px;
+  }
+}
+/* The blur radius itself animates, so the page genuinely sharpens (a true
+   Gaussian unblur) rather than cross-fading a blurred copy with a sharp one.
+   The veil also starts out in the page colour and fades to clear, so the
+   new content emerges from nothing instead of popping in behind the blur.
+   It stays cheap because the veil is only ever viewport-sized. */
+@keyframes ufo-reveal-veil {
+  from {
+    background-color: hsl(var(--background));
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+  }
+  70% {
+    background-color: hsl(var(--background) / 0);
+  }
+  to {
+    background-color: hsl(var(--background) / 0);
+    -webkit-backdrop-filter: blur(0);
+    backdrop-filter: blur(0);
+  }
+}

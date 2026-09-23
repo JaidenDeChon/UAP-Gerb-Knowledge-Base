@@ -20,7 +20,8 @@
  * The loop opens on the finished craft, which glows and pulses for a few
  * seconds, comes apart in reverse order, then rebuilds.
  *
- * Each part phases in and out like Half-Life 2's disintegration:
+ * Each part phases in and out like Half-Life 2's disintegration, dropping a
+ * little into place as it materializes and lifting off as it dissolves:
  * - on the way in, embers fall into place, a bloom outline flares, and the
  *   part flickers into solidity;
  * - on the way out, the outline flares again, the part flickers and burns
@@ -159,6 +160,11 @@ const PHASE_OUT = 880
 const HOLD = 4000
 const REST = 500
 
+/** How far (SVG units) a part drops as it lands, and lifts as it leaves. */
+const DRIFT = 7
+const DROP = 'cubic-bezier(0.2, 0.7, 0.3, 1)' // settles into place
+const LIFT = 'cubic-bezier(0.5, 0, 0.8, 0.4)' // eases off, then away
+
 const VIEW_W = 320
 const VIEW_H = 140
 
@@ -230,6 +236,18 @@ function keyframesCss(): string {
           [l + Q, `transform:${up(rise)};opacity:0`],
           [cycle, `transform:${up(rise)};opacity:0`],
         ])),
+      // The whole part (body, outline, embers) drops a little into place as
+      // it materializes, as if assembled in mid-air, and lifts off as it
+      // dissolves.
+      frames(`ufo-drift-${i}`, [
+        [0, `transform:${up(DRIFT)}`],
+        [s, `transform:${up(DRIFT)};animation-timing-function:${DROP}`],
+        [s + P, 'transform:translateY(0)'],
+        [l, `transform:translateY(0);animation-timing-function:${LIFT}`],
+        [l + Q, `transform:${up(DRIFT)}`],
+        [cycle, `transform:${up(DRIFT)}`],
+      ]),
+      `.ufo-part[data-part="${i}"]{animation-name:ufo-drift-${i}}`,
       `[data-part="${i}"]>.ufo-body{animation-name:ufo-body-${i}}`,
       `[data-part="${i}"]>.ufo-bloom{animation-name:ufo-bloom-${i}}`,
       `[data-part="${i}"]>.ufo-ember-a{animation-name:ufo-ember-a-${i}}`,
@@ -291,7 +309,7 @@ const viewBox = `0 0 ${VIEW_W} ${VIEW_H}`
     <div
       v-for="i in paintOrder"
       :key="i"
-      class="ufo-part"
+      class="ufo-part ufo-phase"
       :data-part="i"
     >
       <svg class="ufo-svg ufo-phase ufo-body" :viewBox="viewBox" fill="none">

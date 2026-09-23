@@ -14,7 +14,8 @@
  * unmounting, the mark hands off to a clone on <body>. It's position: fixed,
  * so the clone sits exactly where the original was, with every running
  * animation synced to the original's current time. The clone then blurs out
- * until it has dissipated, and removes itself.
+ * until it has dissipated, and removes itself, while the content that
+ * replaced it unblurs into focus (see revealContent).
  */
 
 const root = ref<HTMLElement | null>(null)
@@ -45,12 +46,36 @@ function handOff(): void {
     }
   })
 
+  // If the loader was actually on screen, the content arriving under it
+  // unblurs into focus as the craft blurs away.
+  const inner = el.querySelector<HTMLElement>('.ufo-loading-mark-inner')
+  if (inner && Number(getComputedStyle(inner).opacity) > 0.05) revealContent()
+
   const done = () => clone.remove()
   clone.addEventListener('animationend', (event) => {
     if (event.target === clone) done()
   })
   // Belt and braces: remove it even if the event never arrives.
   setTimeout(done, LEAVE_MS + 200)
+}
+
+/**
+ * Bring the new content in from a blur. A veil covering the visible content
+ * area blurs whatever is behind it (`backdrop-filter`), easing the blur down
+ * to nothing, so the page sharpens into focus. It works on the viewport, not the article: a
+ * filter on the article itself would have to blur its whole length on every
+ * frame, which stutters on phones; the veil is only ever viewport-sized. Its
+ * styles are global (main.css), since it's created outside any component.
+ */
+function revealContent(): void {
+  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return
+  const veil = document.createElement('div')
+  veil.className = 'ufo-reveal-veil'
+  veil.setAttribute('aria-hidden', 'true')
+  document.body.appendChild(veil)
+  const done = () => veil.remove()
+  veil.addEventListener('animationend', done)
+  setTimeout(done, 1000)
 }
 
 onBeforeUnmount(handOff)
