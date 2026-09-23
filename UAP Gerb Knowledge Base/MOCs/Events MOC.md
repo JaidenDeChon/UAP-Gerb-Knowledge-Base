@@ -50,7 +50,6 @@ tags:
 - [[Inman-Echler Telephone Call]]
 - [[Jonathan Wayan UAP Encounter]]
 - [[La Joya Airbase UFO Intercept]]
-- [[Lockheed Martin Attempted Nonhuman Material Transfer]]
 - [[Log Book Confiscation Incident]]
 - [[Lubbock Lights]]
 - [[MV Marala North Atlantic Sighting]]

@@ -43,16 +43,16 @@ UAP Gerb's *80 Years of UFO Crash Retrieval and Reverse Engineering* situates th
 UAP researchers identify Skunk Works and Plant 42 as integral to American Southwest alien reproduction vehicle (ARV) RDT&E networks connecting:
 - [[Edwards Air Force Base]] 412th Test Wing
 - [[Area 51]] Groom Lake
-- [[Tonopah Test Range]]
+- [[Tonopah Test Range (TTR)|Tonopah Test Range]]
 - [[Helendale]] radar cross-section range
-- Alleged [[Area 51 S4]] near Papoose Lake
+- Alleged Area 51 S4 near Papoose Lake
 
 ## Kona Blue and UAP Material Custody (1950s-Present)
 
 Between 2008 and 2011, Lockheed Martin Vice President [[James T. Ryder]] attempted to transfer recovered nonhuman craft materials held by Lockheed since the 1950s to the DIA's [[AAWSAP]] program via a proposed waived USAP called [[Kona Blue]]. Documents entered into Congressional hearing records describe:
 - Materials from "a specific facility" (location provided to Inspector General)
 - "Crash retrieval materials from the 1950s and other historical operations"
-- Possibly including craft hull or the complete [[1953 Kingman, Arizona crash]] vehicle
+- Possibly including craft hull or the complete [[1953 Kingman, Arizona Crash Retrieval|1953 Kingman, Arizona crash]] vehicle
 - Materials so advanced Lockheed made no exploitation progress since acquiring them
 
 The transfer was blocked by [[CIA Directorate of Science and Technology]] Deputy Director [[Glenn Gaffney]] and possibly DNI official [[Robert Cardillo]]. This attempted divestment serves as documented evidence that Lockheed Martin held recovered UAP materials for over 50 years.
@@ -61,15 +61,15 @@ The transfer was blocked by [[CIA Directorate of Science and Technology]] Deputy
 
 Multiple sources have named Lockheed Martin as a central UAP program contractor:
 - **[[David Grusch]]** named Lockheed on Joe Rogan podcast as holding nonhuman materials
-- **[[Edgar Fouché]]** stated Lockheed served as prime contractor for [[TR-3B]] alien reproduction vehicle
+- **[[Edgar Fouche|Edgar Fouché]]** stated Lockheed served as prime contractor for [[TR-3B]] alien reproduction vehicle
 - **[[Ross Coulthart]]** stated the 2004 Nimitz Tic Tac originated from Lockheed Skunk Works
 - **[[Steven Greer]]** identified Skunk Works as ARV designer for multiple craft types
-- **Commander Will Miller** ([[Wilson-Davis notes]]) named Lockheed as where "keepers of the secrets" reside
+- **Commander Will Miller** ([[Wilson-Davis Memo|Wilson-Davis notes]]) named Lockheed as where "keepers of the secrets" reside
 - **[[Harry Reid]]** publicly stated he knew for decades Lockheed held UAP materials and was denied access
 
 ## Ben Rich Alleged Statements
 
-[[Ben Rich]], Lockheed Skunk Works director (1975-1991), allegedly made extraordinary statements at a 1993 UCLA lecture witnessed by aerospace engineers [[Tom Keller]] and [[John Haren]]:
+[[Ben Rich]], Lockheed Skunk Works director (1975-1991), allegedly made extraordinary statements at a 1993 UCLA lecture witnessed by aerospace engineers Tom Keller and Jan Harzan:
 - "We already have the means to travel among the stars, but these technologies are locked up in black projects"
 - "We now have the technology to take ET home"
 - "We found an error in the equations and now know how to travel to the stars"
@@ -79,12 +79,12 @@ Rich's close friend, aviation journalist [[James Goodall]], reported Rich told h
 
 ## Sandia National Laboratories Management (1993-2017)
 
-Through its Sandia Corporation subsidiary, Lockheed Martin managed [[Sandia National Laboratories]] and [[Tonopah Test Range]] from 1993 to 2017. This provided Lockheed:
+Through its Sandia Corporation subsidiary, Lockheed Martin managed [[Sandia National Laboratories]] and [[Tonopah Test Range (TTR)|Tonopah Test Range]] from 1993 to 2017. This provided Lockheed:
 - Control over a DOE FFRDC repeatedly implicated in UAP material exploitation
 - Management of a classified test range with double-barbed-wire storage areas and alleged deep underground facilities
 - Authority to fund programs through DOE channels, potentially using Atomic Energy Act classification to "black hole" UAP materials
 
-[[Edgar Fouché]] stated Sandia and [[Lawrence Livermore National Laboratory]] reverse-engineered [[TR-3B]] propulsion systems. The TR-3B allegedly became operational in 1994 — one year after Lockheed's Sandia subsidiary took control.
+[[Edgar Fouche|Edgar Fouché]] stated Sandia and [[Lawrence Livermore National Laboratory]] reverse-engineered [[TR-3B]] propulsion systems. The TR-3B allegedly became operational in 1994 — one year after Lockheed's Sandia subsidiary took control.
 
 ## IRAD and Black Budget Funding
 
@@ -106,11 +106,11 @@ A 1986 GAO report exposed critical security failures in Lockheed's carve-out spe
 - Many documents physically destroyed, lost, or unresolved
 - Carve-out contracts operated with minimal DoD oversight
 
-UAP researchers theorize this audit nearly exposed Lockheed UFO legacy programs, triggering the 1994 reorganization of the Special Access Program Oversight Committee (SAPOC) and creation of enhanced senior review group (SRG) gatekeeping described in the [[Wilson-Davis notes]].
+UAP researchers theorize this audit nearly exposed Lockheed UFO legacy programs, triggering the 1994 reorganization of the Special Access Program Oversight Committee (SAPOC) and creation of enhanced senior review group (SRG) gatekeeping described in the [[Wilson-Davis Memo|Wilson-Davis notes]].
 
 ## Aerospace Corporation Research Identification
 
-In [[Jacques Vallee]]'s *Hidden Science 5*, Vallee alongside [[Kit Green]], [[Hal Puthoff]], [[Eric Davis]], and Kristen B. Zimmerman identified Lockheed Martin — alongside [[Northrop Grumman]] and [[The Aerospace Corporation]] — as one of the suspected legacy private corporations engaged in "real UAP research" based on 2000s-2009 analysis.
+In [[Jacques Vallee]]'s *Hidden Science 5*, Vallee alongside [[Kit Green]], [[Hal Puthoff]], [[Eric Davis]], and Kristen B. Zimmerman identified Lockheed Martin — alongside [[Northrop Grumman]] and [[Aerospace Corporation|The Aerospace Corporation]] — as one of the suspected legacy private corporations engaged in "real UAP research" based on 2000s-2009 analysis.
 
 ## Sources
 

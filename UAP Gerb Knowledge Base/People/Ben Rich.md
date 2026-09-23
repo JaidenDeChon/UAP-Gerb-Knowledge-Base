@@ -9,16 +9,16 @@ Ben Rich (1925–1995) was an American aerospace engineer who served as the seco
 
 ## Alleged 1993 UCLA Lecture
 
-At a lecture at [[UCLA]] in 1993, Ben Rich allegedly made extraordinary statements about advanced aerospace capabilities. According to aerospace engineer [[Tom Keller]], who published a 2010 MUFON article confirming his attendance, Rich stated: **"We already have the means to travel among the stars, but these technologies are locked up in black projects, and it would take an act of God to ever get them out to benefit humanity. Anything you can imagine, we already know how to do."**
+At a lecture at [[UCLA]] in 1993, Ben Rich allegedly made extraordinary statements about advanced aerospace capabilities. According to aerospace engineer Tom Keller, who published a 2010 MUFON article confirming his attendance, Rich stated: **"We already have the means to travel among the stars, but these technologies are locked up in black projects, and it would take an act of God to ever get them out to benefit humanity. Anything you can imagine, we already know how to do."**
 
 Rich concluded the lecture with a slide showing a black disc zipping into outer space, stating: **"We now have the technology to take ET home."** The audience reportedly broke into laughter, not grasping the literal implication of his statement.
 
-[[John Haren]], former [[MUFON]] director and nuclear engineer who also attended as a UCLA alum, confirmed the lecture occurred and Rich made these statements. Haren recalls a post-lecture Q&A where approximately 20-25 attendees gathered around Rich for further questions. When asked "How does this getting ET home work?", Rich deflected initially, then asked an engineer in the group: **"Do you think it's possible to travel to the stars?"** When the engineer responded it would take a long time, Rich replied: **"No, it wouldn't. We found an error in the equations and we now know how to travel to the stars and it won't take us a lifetime to do it."**
+Jan Harzan, former [[MUFON]] director and nuclear engineer who also attended as a UCLA alum, confirmed the lecture occurred and Rich made these statements. Harzan recalls a post-lecture Q&A where approximately 20-25 attendees gathered around Rich for further questions. When asked "How does this getting ET home work?", Rich deflected initially, then asked an engineer in the group: **"Do you think it's possible to travel to the stars?"** When the engineer responded it would take a long time, Rich replied: **"No, it wouldn't. We found an error in the equations and we now know how to travel to the stars and it won't take us a lifetime to do it."**
 
-Haren reports Rich shared three major revelations in the informal post-lecture discussion:
+Harzan reports Rich shared three major revelations in the informal post-lecture discussion:
 1. Interstellar travel has already been figured out — "it's known"
-2. There was an error in fundamental physics equations (Haren suspects Maxwell's equations for electromagnetic theory)
-3. When Haren blurted out "I don't know, all points in time and space are connected" in response to Rich asking "How does ESP work?", Rich looked him in the eye and said: **"That's how it works."**
+2. There was an error in fundamental physics equations (Harzan suspects Maxwell's equations for electromagnetic theory)
+3. When Harzan blurted out "I don't know, all points in time and space are connected" in response to Rich asking "How does ESP work?", Rich looked him in the eye and said: **"That's how it works."**
 
 ## Corroboration by James Goodall
 
@@ -42,7 +42,7 @@ In the context of the [[TR-3B]], when [[Edgar Fouché]] asked whether Kelly John
 
 Rich's alleged statements are not without controversy. [[Jan Harzan]] (also spelled Tarzan), the former MUFON director who corroborated the UCLA lecture, was later charged with disturbing crimes involving a minor, potentially undermining his credibility as a witness. Additionally, Rich made these statements (if authentic) at a public university lecture rather than in a secure briefing, raising questions about whether they were hyperbole, misdirection, or genuine disclosure.
 
-However, the consistency of the accounts from multiple independent witnesses (Keller, Haren, Goodall), combined with Rich's unique position as Skunk Works director overseeing the most classified aerospace programs in US history, lends weight to the possibility that he possessed direct knowledge of reverse-engineered non-human technology.
+However, the consistency of the accounts from multiple independent witnesses (Keller, Harzan, Goodall), combined with Rich's unique position as Skunk Works director overseeing the most classified aerospace programs in US history, lends weight to the possibility that he possessed direct knowledge of reverse-engineered non-human technology.
 
 ## Sources
 
