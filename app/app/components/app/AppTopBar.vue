@@ -22,10 +22,16 @@ const commandOpen = useCommandOpen()
 
     <!-- Not an <h1>: the article below already owns the page's heading, and two
          of them would leave a screen reader with an ambiguous document outline.
-         The wordmark is static — it names the site, not the current page. -->
-    <span class="min-w-0 flex-1 truncate font-display text-[15px] font-semibold tracking-[0.08em] text-foreground">
-      UAP Gerb Knowledge Base
-    </span>
+         The wordmark names the site, not the current page, and links home. Only
+         the text is the link; the wrapper takes the spare width. -->
+    <div class="min-w-0 flex-1">
+      <NuxtLink
+        to="/"
+        class="block w-fit max-w-full truncate rounded-sm font-display text-[15px] font-semibold tracking-[0.08em] text-foreground outline-none focus-visible:ring-2 focus-visible:ring-ring"
+      >
+        UAP Gerb Knowledge Base
+      </NuxtLink>
+    </div>
 
     <Button
       variant="outline"
