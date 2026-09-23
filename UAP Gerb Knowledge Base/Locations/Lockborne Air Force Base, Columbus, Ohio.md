@@ -5,7 +5,7 @@ tags:
   - location
 ---
 
-Lockborne Air Force Base (a variant spelling of [[Lockbourne Air Force Base, Columbus, Ohio|Lockbourne AFB]]) near Columbus, Ohio, is cited in the testimony of multiple [[1965 Kecksburg UFO Crash|Kecksburg crash retrieval]] witnesses as the first military destination for the recovered bell-shaped object after it was removed from the woods in Western Pennsylvania on the night of December 9–10, 1965. The base operated as a Strategic Air Command installation and was strategically positioned as an intermediate transit point between the Kecksburg crash site and [[Wright-Patterson Air Force Base]], the alleged final destination for high-value UAP retrieval cases.
+Lockborne Air Force Base (a variant spelling of [[Lockbourne Air Force Base, Columbus, Ohio|Lockbourne AFB]]) near Columbus, Ohio, is cited in the testimony of multiple [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg crash retrieval]] witnesses as the first military destination for the recovered bell-shaped object after it was removed from the woods in Western Pennsylvania on the night of December 9–10, 1965. The base operated as a Strategic Air Command installation and was strategically positioned as an intermediate transit point between the Kecksburg crash site and [[Wright-Patterson Air Force Base]], the alleged final destination for high-value UAP retrieval cases.
 
 ## Role in the Kecksburg Case
 

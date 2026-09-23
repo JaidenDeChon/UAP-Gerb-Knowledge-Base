@@ -38,7 +38,7 @@ Wright-Patterson has been named as the alleged destination for recovered materia
 
 ### 1965 Kecksburg, Pennsylvania UFO Crash
 
-The [[1965 Kecksburg UFO Crash|Kecksburg object]] was reportedly transported to Wright-Patterson two to three days after the December 9, 1965 crash retrieval. Multiple witnesses provided detailed testimony about the object's storage and examination at the base:
+The [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg object]] was reportedly transported to Wright-Patterson two to three days after the December 9, 1965 crash retrieval. Multiple witnesses provided detailed testimony about the object's storage and examination at the base:
 
 **Witness [[Myron]]**, a trucker who delivered specialty radiation-shielding bricks to Wright-Patterson with his cousin "JS" on December 11 or 12, 1965, provided one of the most detailed accounts. Myron claimed he peered into a warehouse at Wright-Patterson and observed:
 

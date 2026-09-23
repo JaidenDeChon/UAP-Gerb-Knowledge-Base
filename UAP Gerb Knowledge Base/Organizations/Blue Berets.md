@@ -5,7 +5,7 @@ tags:
   - organization
 ---
 
-The **Blue Berets** is the name given to an alleged elite rapid-reaction military unit tasked with responding to UFO crash retrievals. Documented extensively by pioneering UFO researcher [[Leonard Stringfield]], the unit is described as a Special Forces team capable of operating covertly and using diversionary tactics to secure crash sites and prevent public interference. The unit's existence remains unconfirmed by official sources, though blue-bereted personnel were observed at the [[1965 Kecksburg UFO Crash]] and other alleged UAP incidents.
+The **Blue Berets** is the name given to an alleged elite rapid-reaction military unit tasked with responding to UFO crash retrievals. Documented extensively by pioneering UFO researcher [[Leonard Stringfield]], the unit is described as a Special Forces team capable of operating covertly and using diversionary tactics to secure crash sites and prevent public interference. The unit's existence remains unconfirmed by official sources, though blue-bereted personnel were observed at the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]] and other alleged UAP incidents.
 
 ## Origins and Description
 
@@ -30,7 +30,7 @@ The blue beret itself has a documented history within the U.S. Air Force, though
 
 ### Strategic Air Command Elite Guard (1956–1966)
 
-In 1956, General [[Curtis LeMay]] — a figure repeatedly associated with UFO secrecy and denial of access to classified materials at [[Wright-Patterson AFB]] — created the **Strategic Air Command (SAC) Elite Guard**. This unit wore blue fatigues and blue berets and served as an Air Force police force providing security for Strategic Air Command headquarters and installations. The SAC Elite Guard operated from 1956 to 1966, overlapping with the [[1965 Kecksburg UFO Crash]].
+In 1956, General [[Curtis LeMay]] — a figure repeatedly associated with UFO secrecy and denial of access to classified materials at [[Wright-Patterson AFB]] — created the **Strategic Air Command (SAC) Elite Guard**. This unit wore blue fatigues and blue berets and served as an Air Force police force providing security for Strategic Air Command headquarters and installations. The SAC Elite Guard operated from 1956 to 1966, overlapping with the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]].
 
 ### USAF 1041 Security Police Squadron (1965–1967)
 
@@ -40,7 +40,7 @@ While both of these official units wore blue berets, neither has been officially
 
 ## The Kecksburg Connection
 
-Multiple witnesses at the [[1965 Kecksburg UFO Crash]] reported seeing military personnel wearing blue berets at the crash site within 15 minutes of civilian first responders arriving. This rapid deployment — despite the nearest known military base being 45 miles away in Pittsburgh — suggests a pre-coordinated response.
+Multiple witnesses at the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]] reported seeing military personnel wearing blue berets at the crash site within 15 minutes of civilian first responders arriving. This rapid deployment — despite the nearest known military base being 45 miles away in Pittsburgh — suggests a pre-coordinated response.
 
 Witnesses described:
 

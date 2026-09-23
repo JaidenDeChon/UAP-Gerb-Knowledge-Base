@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-**Leslie Kean** is an investigative journalist, author, and one of the most influential figures in modern UAP research and disclosure efforts. She is best known for co-authoring the landmark 2017 *New York Times* article that revealed the existence of the Pentagon's [[AATIP]] (Advanced Aerospace Threat Identification Program) and brought UAP videos ("Gimbal," "GoFast," and "FLIR1") into mainstream public discourse. Earlier in her career, Kean led a multi-year legal battle to compel [[NASA]] to release documents related to the [[1965 Kecksburg UFO Crash]].
+**Leslie Kean** is an investigative journalist, author, and one of the most influential figures in modern UAP research and disclosure efforts. She is best known for co-authoring the landmark 2017 *New York Times* article that revealed the existence of the Pentagon's [[AATIP (Advanced Aerospace Threat Identification Program)|AATIP]] (Advanced Aerospace Threat Identification Program) and brought UAP videos ("Gimbal," "GoFast," and "FLIR1") into mainstream public discourse. Earlier in her career, Kean led a multi-year legal battle to compel [[NASA]] to release documents related to the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]].
 
 ## Early Career and Kecksburg Investigation
 
@@ -28,7 +28,7 @@ Despite the disappointing outcome, Kean's legal victory established an important
 
 On December 16, 2017, Leslie Kean co-authored (with Helene Cooper and Ralph Blumenthal) the *New York Times* article **"Glowing Auras and 'Black Money': The Pentagon's Mysterious U.F.O. Program."** The article revealed:
 
-- The existence of the Pentagon's [[AATIP]], funded with $22 million in "black money"
+- The existence of the Pentagon's [[AATIP (Advanced Aerospace Threat Identification Program)|AATIP]], funded with $22 million in "black money"
 - Analysis of UAP encounters by military personnel, including the release of three declassified videos: "Gimbal," "GoFast," and "FLIR1"
 - Testimony from former Pentagon official [[Luis Elizondo]], who ran AATIP and resigned in protest over the lack of attention given to UAP threats
 

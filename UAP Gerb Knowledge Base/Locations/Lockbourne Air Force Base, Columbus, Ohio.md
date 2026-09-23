@@ -5,7 +5,7 @@ tags:
   - location
 ---
 
-**Lockbourne Air Force Base** (also spelled "Lockborne" in some witness accounts) was a Strategic Air Command (SAC) installation located near Columbus, Ohio, active from 1942 through its later designation as Rickenbacker Air National Guard Base. In UAP research, Lockbourne is primarily significant as an alleged intermediate staging point in the transport chain following the [[1965 Kecksburg UFO Crash|1965 Kecksburg, Pennsylvania UFO crash retrieval]], with at least one Air Force security guard providing eyewitness testimony to having personally guarded the recovered craft at the facility.
+**Lockbourne Air Force Base** (also spelled "Lockborne" in some witness accounts) was a Strategic Air Command (SAC) installation located near Columbus, Ohio, active from 1942 through its later designation as Rickenbacker Air National Guard Base. In UAP research, Lockbourne is primarily significant as an alleged intermediate staging point in the transport chain following the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg, Pennsylvania UFO crash retrieval]], with at least one Air Force security guard providing eyewitness testimony to having personally guarded the recovered craft at the facility.
 
 ## Kecksburg Crash Retrieval
 

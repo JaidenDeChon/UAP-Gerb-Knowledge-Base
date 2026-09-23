@@ -325,5 +325,20 @@
       "wiki-roster"
     ],
     "cues": "verified"
+  },
+  "rgBTMzFd-hg": {
+    "title": "The 1965 Kecksburg, Pennsylvania UFO Crash",
+    "published": "2024-09-12",
+    "enriched_at": "2026-09-23T13:15:51Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-org-chart",
+      "wiki-callout",
+      "wiki-roster"
+    ],
+    "cues": "verified"
   }
 }

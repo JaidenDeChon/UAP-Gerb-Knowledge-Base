@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-**Jerry Betters** is a prominent Pittsburgh jazz trombonist who, on December 9, 1965, witnessed a military roadblock and the transport of an acorn-shaped object from the [[1965 Kecksburg UFO Crash]] site. Betters' testimony is significant because he observed the craft on a flatbed truck at a distance before military personnel blocked his access, providing independent corroboration of witness [[Jim Romansky]]'s and [[Bill Bully Bush]]'s descriptions of the object.
+**Jerry Betters** is a prominent Pittsburgh jazz trombonist who, on December 9, 1965, witnessed a military roadblock and the transport of an acorn-shaped object from the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]] site. Betters' testimony is significant because he observed the craft on a flatbed truck at a distance before military personnel blocked his access, providing independent corroboration of witness [[Jim Romansky]]'s and [[Bill Bully Bush]]'s descriptions of the object.
 
 ## The Sighting
 

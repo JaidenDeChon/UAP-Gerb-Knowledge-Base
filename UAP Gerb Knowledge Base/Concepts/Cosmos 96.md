@@ -5,7 +5,7 @@ tags:
   - space-program
 ---
 
-**Cosmos 96** was a Soviet Venus probe launched on November 23, 1965, as part of the Soviet Union's Venera program. The spacecraft failed to achieve its intended trajectory and reentered Earth's atmosphere on December 9, 1965 — the same day as the [[1965 Kecksburg UFO Crash]]. Early skeptics proposed Cosmos 96 as a prosaic explanation for the Kecksburg object, but comprehensive orbital analysis by NASA and independent researchers conclusively ruled out this theory.
+**Cosmos 96** was a Soviet Venus probe launched on November 23, 1965, as part of the Soviet Union's Venera program. The spacecraft failed to achieve its intended trajectory and reentered Earth's atmosphere on December 9, 1965 — the same day as the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]]. Early skeptics proposed Cosmos 96 as a prosaic explanation for the Kecksburg object, but comprehensive orbital analysis by NASA and independent researchers conclusively ruled out this theory.
 
 ## Mission Profile
 

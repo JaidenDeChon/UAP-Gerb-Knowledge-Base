@@ -23,7 +23,7 @@ Captain [[Edward J. Ruppelt]] served as director of Project Blue Book (as well a
 
 ## The 1965 Kecksburg Case
 
-Project Blue Book's handling of the [[1965 Kecksburg UFO Crash]] exemplifies the dismissive approach that characterized much of its later years and contributed to its credibility problems among serious researchers.
+Project Blue Book's handling of the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]] exemplifies the dismissive approach that characterized much of its later years and contributed to its credibility problems among serious researchers.
 
 On December 9, 1965, a large fireball was observed across Ontario, Michigan, Ohio, and Pennsylvania. Hundreds of witnesses reported a controlled, maneuvering object that descended into the woods near [[Kecksburg, Pennsylvania]], where multiple civilian witnesses observed a bell-shaped or acorn-shaped metallic craft approximately 10–12 feet in diameter partially buried in the ground. The object bore hieroglyphic-like markings and exhibited no visible seams or rivets. A rapid military response secured the crash site, with witnesses reporting personnel in protective gear, roadblocks established by state police and military forces, and the object being loaded onto a flatbed truck and removed under armed escort.
 

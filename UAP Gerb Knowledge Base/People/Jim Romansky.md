@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-**Jim Romansky** (often referred to as "Romansky" in official reports) was a volunteer fireman for the [[Kecksburg]] fire department and one of the most credible firsthand witnesses to the [[1965 Kecksburg UFO Crash]]. A seasoned machinist by trade, Romansky provided detailed technical observations of the crashed object and became a passionate advocate for disclosure despite facing government pressure and consequences for his family.
+**Jim Romansky** (often referred to as "Romansky" in official reports) was a volunteer fireman for the [[Kecksburg, Pennsylvania|Kecksburg]] fire department and one of the most credible firsthand witnesses to the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]]. A seasoned machinist by trade, Romansky provided detailed technical observations of the crashed object and became a passionate advocate for disclosure despite facing government pressure and consequences for his family.
 
 ## The Night of December 9, 1965
 

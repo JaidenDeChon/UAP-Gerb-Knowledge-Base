@@ -31,11 +31,11 @@ Between 1985 and 1987, a man named [[Jeff Morse]] contacted Stringfield claiming
 
 ## Investigation of the Kecksburg Case
 
-Stringfield worked closely with Pennsylvania researcher [[Stan Gordon]] on the [[1965 Kecksburg UFO Crash]], one of the most thoroughly documented alleged UAP retrieval cases. Stringfield interviewed key witnesses and analyzed evidence over more than a decade, featuring the case extensively in his *UFO Crash Retrieval: The Inner Sanctum* status reports.
+Stringfield worked closely with Pennsylvania researcher [[Stan Gordon]] on the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]], one of the most thoroughly documented alleged UAP retrieval cases. Stringfield interviewed key witnesses and analyzed evidence over more than a decade, featuring the case extensively in his *UFO Crash Retrieval: The Inner Sanctum* status reports.
 
 ### Key Witness Interviews
 
-Stringfield personally interviewed trucker "[[Myron]]," who claimed to have delivered radiation-shielding bricks to [[Wright-Patterson AFB]] days after the Kecksburg crash and to have glimpsed the bell-shaped craft inside a warehouse. The interview was conducted on videotape at Myron's home with the assistance of medical researcher Dr. [[Brian Thompson]]. After extensive questioning, Stringfield stated: "I feel convinced of Myron's sincerity."
+Stringfield personally interviewed trucker "[[Myron]]," who claimed to have delivered radiation-shielding bricks to [[Wright-Patterson Air Force Base|Wright-Patterson AFB]] days after the Kecksburg crash and to have glimpsed the bell-shaped craft inside a warehouse. The interview was conducted on videotape at Myron's home with the assistance of medical researcher Dr. [[Brian Thompson]]. After extensive questioning, Stringfield stated: "I feel convinced of Myron's sincerity."
 
 Stringfield also interviewed Myron's cousin "JS," who corroborated the brick delivery and confirmed seeing the craft on a lowboy trailer the day before the joint delivery. Between March 30 and April 1, 1991, Stringfield conducted follow-up interviews with JS, who provided additional details but remained reluctant to discuss the case extensively due to family concerns.
 
@@ -44,7 +44,7 @@ Stringfield also interviewed Myron's cousin "JS," who corroborated the brick del
 Stringfield maintained a balanced approach to the Kecksburg case, noting both supporting and contradictory testimony. In his 1993 *Status Report 3: Amassing the Evidence*, he discussed testimony from an insider known as "Uncle," who spoke to Stringfield through an intermediary. Uncle claimed:
 
 - Kecksburg involved a crashed spy plane, not a UAP
-- The [[Fort Riley]] and [[Johannesburg, South Africa]] crash cases were genuine
+- The [[Fort Riley, Kansas|Fort Riley]] and [[Johannesburg, South Africa]] crash cases were genuine
 - Disinformation was a significant concern in UAP research
 
 Stringfield did not dismiss Uncle's claims but continued investigating the Kecksburg case for well over a decade, suggesting he found the witness testimony and physical evidence compelling despite alternative explanations.

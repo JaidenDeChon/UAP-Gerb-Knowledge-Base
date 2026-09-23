@@ -9,7 +9,7 @@ tags:
 
 ## Strategic Air Command Elite Guard (1956)
 
-In 1956, General LeMay created the **Strategic Air Command (SAC) Elite Guard**, an Air Force police unit that wore distinctive blue fatigues and blue berets. The SAC Elite Guard provided base security for Strategic Air Command headquarters and installations from 1956 to 1966, a timeframe that includes the [[1965 Kecksburg UFO Crash]].
+In 1956, General LeMay created the **Strategic Air Command (SAC) Elite Guard**, an Air Force police unit that wore distinctive blue fatigues and blue berets. The SAC Elite Guard provided base security for Strategic Air Command headquarters and installations from 1956 to 1966, a timeframe that includes the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]].
 
 Witnesses at Kecksburg specifically described Air Force personnel in blue fatigues and blue berets arriving at the crash site within 15 minutes of civilian first responders — despite the nearest known military base being 45 miles away. The rapid deployment and presence of blue-bereted personnel has led researchers to question whether the SAC Elite Guard or a related covert unit was involved in UAP crash retrievals.
 
@@ -27,7 +27,7 @@ LeMay served as Air Force Chief of Staff from 1961 to 1965, a period that includ
 
 - The height of [[Project Blue Book]]'s operations
 - Multiple alleged UAP crash retrievals documented by researchers
-- The [[1965 Kecksburg UFO Crash]]
+- The [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]]
 
 LeMay was succeeded by General [[John P. McConnell]] in February 1965. Notably, McConnell attended President [[Lyndon B. Johnson]]'s meetings at his Texas residence on December 10, 1965 — the day after the Kecksburg crash — alongside the full Joint Chiefs of Staff, Defense Secretary, NASA Director, and other senior officials.
 

@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-**Carl Mets** was a Pennsylvania State Police Fire Marshal who responded to the [[1965 Kecksburg UFO Crash]] site on the evening of December 9, 1965. Mets entered the crash area in the woods with another investigator and, upon returning, made a cryptic statement to radio journalist [[John Murphy]] that has become emblematic of the official deflection surrounding the incident.
+**Carl Mets** was a Pennsylvania State Police Fire Marshal who responded to the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]] site on the evening of December 9, 1965. Mets entered the crash area in the woods with another investigator and, upon returning, made a cryptic statement to radio journalist [[John Murphy]] that has become emblematic of the official deflection surrounding the incident.
 
 ## Response to the Kecksburg Crash
 
