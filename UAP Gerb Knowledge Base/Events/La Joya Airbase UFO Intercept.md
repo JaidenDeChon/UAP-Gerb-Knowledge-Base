@@ -5,7 +5,7 @@ tags:
   - event
 ---
 
-The La Joya Airbase UFO Intercept occurred on April 11, 1980, when [[Peruvian Air Force]] Lieutenant [[Oscar Santa Maria Hueras]] was scrambled in his Sukhoi-22 fighter to intercept a silvery orb-like object near [[La Joya Airbase, Arequipa, Peru|La Joya Airbase]] in Arequipa, Peru. During the encounter, Hueras fired 64 30mm shells at the object with no damaging effect and pursued it for 84 kilometers before running low on fuel. His account was later corroborated in a [[DOD Joint Chiefs]] briefing document associated with [[Project Moondust]].
+The La Joya Airbase UFO Intercept occurred on April 11, 1980, when [[Peruvian Air Force]] Lieutenant [[Oscar Santa Maria Hueras]] was scrambled in his Sukhoi-22 fighter to intercept a silvery orb-like object near [[La Joya Airbase, Arequipa, Peru|La Joya Airbase]] in Arequipa, Peru. During the encounter, Hueras fired 64 30mm shells at the object with no damaging effect and pursued it for 84 kilometers before running low on fuel. His account was later corroborated in a [[DOD Joint Chiefs]] briefing document associated with [[Project Moon Dust]].
 
 ## Engagement and Weapon Failure
 

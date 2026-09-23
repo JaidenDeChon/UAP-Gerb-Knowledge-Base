@@ -33,7 +33,7 @@ Following Ruiz's sighting and the crash, Bolivian military dispatched three jets
 Ruiz's sighting contributed to the documented chain of events that led to:
 
 - US Secretary of State [[Cyrus Vance]] contacting "appropriate government agencies"
-- [[Project Moondust]] receiving film of the object from Bolivian military
+- [[Project Moon Dust]] receiving film of the object from Bolivian military
 - Deployment of US Air Force officers [[Colonel Robert Simmons]] and [[Major Jesse Haaste]] to Bolivia
 
 Ruiz's role as the primary witness who observed the object before impact likely influenced the decision to treat this as a significant event requiring international coordination and US technical assessment.

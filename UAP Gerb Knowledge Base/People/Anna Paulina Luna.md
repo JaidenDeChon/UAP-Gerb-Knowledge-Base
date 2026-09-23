@@ -27,7 +27,7 @@ Luna's participation in UAP oversight reflects Congressional concern about:
 
 ## Role in Disclosure Efforts
 
-Luna has supported efforts to mandate transparency regarding historical UAP programs such as [[Project Moondust]], which operated from at least 1961 through the mid-1990s conducting UFO crash retrieval operations. The UAP Caucus has highlighted Moon Dust as documentary evidence that the US government has maintained active UFO collection capabilities extending beyond the publicly acknowledged [[Project Blue Book]] era.
+Luna has supported efforts to mandate transparency regarding historical UAP programs such as [[Project Moon Dust]], which operated from at least 1961 through the mid-1990s conducting UFO crash retrieval operations. The UAP Caucus has highlighted Moon Dust as documentary evidence that the US government has maintained active UFO collection capabilities extending beyond the publicly acknowledged [[Project Blue Book]] era.
 
 ## Naval Whistleblower Meeting
 

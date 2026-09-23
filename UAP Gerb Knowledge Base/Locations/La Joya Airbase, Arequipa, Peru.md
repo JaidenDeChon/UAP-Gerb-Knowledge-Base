@@ -15,7 +15,7 @@ Hueras engaged the object, firing 64 30mm shells that had no damaging effect, an
 
 ## Witness Corroboration
 
-Upon Hueras's return to La Joya Airbase, multiple eyewitnesses and base personnel also observed the object, providing independent corroboration of the encounter. The incident's credibility was further strengthened by its inclusion in a [[DOD Joint Chiefs]] briefing document associated with [[Project Moondust]], which documented the encounter alongside the 1968 Nepal crash disc case.
+Upon Hueras's return to La Joya Airbase, multiple eyewitnesses and base personnel also observed the object, providing independent corroboration of the encounter. The incident's credibility was further strengthened by its inclusion in a [[DOD Joint Chiefs]] briefing document associated with [[Project Moon Dust]], which documented the encounter alongside the 1968 Nepal crash disc case.
 
 The La Joya Airbase incident remains one of the most well-documented military UAP intercepts in South America, notable for the direct weapons engagement, extended pursuit, detailed object description, and multi-witness corroboration.
 

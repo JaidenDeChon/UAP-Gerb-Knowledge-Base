@@ -5,7 +5,7 @@ tags:
   - event
 ---
 
-On May 6, 1978, at 4:15 PM, thousands of people near El Taire, Bolivia witnessed a cylindrical object crash into a mountainside, creating a sonic boom heard up to 150 miles away and cracking window panes as far as 30 miles in radius. The incident became one of the most well-documented UFO crash cases involving US government response, with declassified State Department cables confirming [[Project Moondust]] involvement and deployment of US Air Force personnel to investigate the crash site.
+On May 6, 1978, at 4:15 PM, thousands of people near El Taire, Bolivia witnessed a cylindrical object crash into a mountainside, creating a sonic boom heard up to 150 miles away and cracking window panes as far as 30 miles in radius. The incident became one of the most well-documented UFO crash cases involving US government response, with declassified State Department cables confirming [[Project Moon Dust]] involvement and deployment of US Air Force personnel to investigate the crash site.
 
 ## Eyewitness Observations
 
@@ -23,7 +23,7 @@ The Bolivian military's description of a "dull metallic cylinder 12 feet long wi
 
 ## US Government Response
 
-Secret documents obtained through the Freedom of Information Act reveal that US Secretary of State [[Cyrus Vance]] wrote that "appropriate government agencies have been contacted regarding this crash." The agencies contacted were confirmed to include [[Project Moondust]], the classified Air Force crash retrieval program operating under the [[USAF 1127th Field Activities Group]].
+Secret documents obtained through the Freedom of Information Act reveal that US Secretary of State [[Cyrus Vance]] wrote that "appropriate government agencies have been contacted regarding this crash." The agencies contacted were confirmed to include [[Project Moon Dust]], the classified Air Force crash retrieval program operating under the [[USAF 1127th Field Activities Group]].
 
 Project Moon Dust received film showing the object from the Bolivian military and was tasked with monitoring the situation. Two US Air Force officers — Colonel [[Robert Simmons]] and Major [[Jesse Haaste]] — were deployed to Bolivia to conduct on-site assessment.
 
@@ -50,7 +50,7 @@ The 1978 Bolivia UFO crash represents one of the few cases where:
 - US personnel deployment to a foreign crash site is confirmed through FOIA releases
 - The crash involved thousands  of civilian and military witnesses, making denial impossible
 
-The case provides concrete evidence that [[Project Moondust]] was not merely a passive monitoring program but an active crash retrieval operation with rapid deployment capabilities and inter-agency coordination at the highest levels of government.
+The case provides concrete evidence that [[Project Moon Dust]] was not merely a passive monitoring program but an active crash retrieval operation with rapid deployment capabilities and inter-agency coordination at the highest levels of government.
 
 ## Related Incidents
 

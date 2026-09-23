@@ -623,7 +623,7 @@ claims:
 
 ## The Fight for the Files
 
-[[Leslie Kean]], later co-author of the 2017 *New York Times* article that brought the Pentagon UAP videos and the Advanced Aerospace Threat Identification Program to public attention, took up the case in the early 2000s. Her May 2000 conference, titled "Combating Media Ridicule and Searching for Evidence on the 1965 Kecksburg Crash Case", aired Nicholas Johnson's analysis. Working with the Coalition for Freedom of Information, she then sued NASA for withholding its Kecksburg files. The October 2007 settlement required NASA to search for the records and pay all legal fees. NASA's search ended in August 2009 with 20 pages of [[Project Moondust]] documents, none of them about Kecksburg. Moondust was the Cold War programme, alongside Operation Bluefly, for recovering foreign space vehicles that had come down. A NASA public affairs statement explained what had happened to the real files. NASA had sent them to the National Archives for safekeeping two years after the incident, and in 1996 the Archives told NASA they had been marked as lost since 1987. Gerb calls it a very strange convenience.
+[[Leslie Kean]], later co-author of the 2017 *New York Times* article that brought the Pentagon UAP videos and the Advanced Aerospace Threat Identification Program to public attention, took up the case in the early 2000s. Her May 2000 conference, titled "Combating Media Ridicule and Searching for Evidence on the 1965 Kecksburg Crash Case", aired Nicholas Johnson's analysis. Working with the Coalition for Freedom of Information, she then sued NASA for withholding its Kecksburg files. The October 2007 settlement required NASA to search for the records and pay all legal fees. NASA's search ended in August 2009 with 20 pages of [[Project Moon Dust]] documents, none of them about Kecksburg. Moondust was the Cold War programme, alongside Operation Bluefly, for recovering foreign space vehicles that had come down. A NASA public affairs statement explained what had happened to the real files. NASA had sent them to the National Archives for safekeeping two years after the incident, and in 1996 the Archives told NASA they had been marked as lost since 1987. Gerb calls it a very strange convenience.
 
 ## Where the Object Went
 
@@ -869,5 +869,5 @@ entries:
 - **Organizations**: [[Project Blue Book]], [[Blue Berets]], [[NASA]], [[US Navy]], [[Applied Research Laboratory]], [[DOD Joint Chiefs]], [[Research and Development Board]], [[Atomic Energy Commission]], [[Majestic 12]]
 - **Locations**: [[Kecksburg, Pennsylvania]], [[Greensburg, Pennsylvania]], [[Lockbourne Air Force Base, Columbus, Ohio]], [[Wright-Patterson Air Force Base]]
 - **Concepts**: [[Bell or Acorn-Shaped Craft]], [[Cosmos 96]], [[Crash Retrieval]], [[Media Censorship of UAP Events]], [[Die Glocke (The Bell)]], [[Off-World Technologies Division]]
-- **Operations**: [[Project Moondust]], [[Project Corona]]
+- **Operations**: [[Project Moon Dust]], [[Project Corona]]
 - **Events**: [[1965 Kecksburg, Pennsylvania Crash Retrieval]], [[Object in the Woods Radio Documentary]], [[Roswell Crash]]

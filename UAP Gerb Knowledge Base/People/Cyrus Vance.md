@@ -11,7 +11,7 @@ Cyrus Roberts Vance served as the 57th United States Secretary of State under Pr
 
 On May 6, 1978, thousands of people near El Taire, Bolivia witnessed a cylindrical object crash into a mountainside, creating a sonic boom heard up to 150 miles away. Following the crash, Bolivian military discovered a dull metallic cylinder 12 feet long with a few dents, and requested technical assistance.
 
-Secret documents obtained through the Freedom of Information Act reveal that Secretary of State Vance wrote that "appropriate government agencies have been contacted regarding this crash." The agencies contacted were later confirmed to include [[Project Moondust]], the classified Air Force crash retrieval program. Moon Dust received film of the object from the Bolivian military and was tasked with monitoring the situation.
+Secret documents obtained through the Freedom of Information Act reveal that Secretary of State Vance wrote that "appropriate government agencies have been contacted regarding this crash." The agencies contacted were later confirmed to include [[Project Moon Dust]], the classified Air Force crash retrieval program. Moon Dust received film of the object from the Bolivian military and was tasked with monitoring the situation.
 
 Vance's coordination of the inter-agency response demonstrates that UFO crash retrieval operations reached the highest levels of government and involved diplomatic coordination through the State Department when incidents occurred on foreign soil.
 

@@ -566,7 +566,7 @@ rows:
 ---
 ::
 
-John B. Alexander confirmed that the Army division was formed as Corso said. Gerb compares its disappearance to the Army's [[Interplanetary Phenomenon Unit]], known only through the Army's institutional memory, and has filed FOIA requests of his own. He thinks the Air Force division, set up under [[Air Force Systems Command]] from the [[Air Force Technical Intelligence Center|Air Technical Intelligence Center]] at [[Wright-Patterson Air Force Base]], may have handled technologies of unknown origin in parallel with the Army office; according to Corso, [[Project Moondust]] and [[Operation Bluefly]] reported to it.
+John B. Alexander confirmed that the Army division was formed as Corso said. Gerb compares its disappearance to the Army's [[Interplanetary Phenomenon Unit]], known only through the Army's institutional memory, and has filed FOIA requests of his own. He thinks the Air Force division, set up under [[Air Force Systems Command]] from the [[Air Force Technical Intelligence Center|Air Technical Intelligence Center]] at [[Wright-Patterson Air Force Base]], may have handled technologies of unknown origin in parallel with the Army office; according to Corso, [[Project Moon Dust]] and [[Operation Bluefly]] reported to it.
 
 If Corso's account is true, Gerb concludes, the Army ran a real program that stayed hidden from the public because all the attention went to its larger Air Force namesake.
 
@@ -836,5 +836,5 @@ He asks viewers to remember one thing above all: in the 1960s the Army had an R&
 - **Organizations**: [[U.S. Army Foreign Technology Division]], [[Air Force Foreign Technology Division]], [[UFO Working Group]], [[Defense Intelligence Agency]], [[CIA Directorate of Science and Technology]], [[CIA Office of Global Access]], [[Army INSCOM]], [[JSOC (Joint Special Operations Command)]], [[National Security Council]], [[Citizens Against UFO Secrecy (CAUS)]], [[The Black Vault]], [[Bell Labs]], [[Sperry Rand]], [[AT&T]], [[Western Electric]], [[Sandia National Laboratories]], [[MITRE Corporation]], [[NASA]], [[Atomic Energy Commission]], [[Majestic 12]], [[Interplanetary Phenomenon Unit]]
 - **Locations**: [[Fort Riley, Kansas]], [[White Sands Missile Range]], [[Wright-Patterson Air Force Base]], [[Roswell, New Mexico]], [[San Augustine, New Mexico]], [[Naval Surface Warfare Center Crane]]
 - **Concepts**: [[Crash Retrieval]], [[Federally Funded Research and Development Center (FFRDC)]], [[Independent Research and Development (IRAD)]], [[Waived Unacknowledged Special Access Programs (USAPs)]], [[Consciousness-Interactive Technology]]
-- **Operations**: [[Operation Paperclip]], [[Project Moondust]], [[Operation Bluefly]]
+- **Operations**: [[Operation Paperclip]], [[Project Moon Dust]], [[Operation Bluefly]]
 - **Events**: [[Roswell Crash]], [[White Sands UAP Close Encounter]], [[1953 Kingman, Arizona Crash Retrieval]], [[1965 Kecksburg, Pennsylvania Crash Retrieval]]
