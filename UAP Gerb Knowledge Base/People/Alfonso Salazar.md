@@ -13,7 +13,7 @@ Salazar located a newspaper article from *El Heraldo de Chihuahua*, dated Octobe
 
 The article's reference to Mexican soldiers dying in a "military transport" crash could align with the Denb Report's account of Mexican military personnel who located the crashed disc and civilian aircraft, loaded the disc onto a flatbed truck convoy, and subsequently died under mysterious circumstances before reaching their headquarters. However, the article's description as a "military transport" crash may also represent a cover story or misidentification.
 
-Salazar's discovery was cited by researchers [[Noah Torres]] and [[Ruben Uriarte]] in their follow-up book *The Coyame Incident*. The article remains difficult to verify independently, as UAP Gerb was "unable to track this paper" and access the original source.
+Salazar's discovery was cited by researchers [[Noe Torres]] and [[Ruben Uriarte]] in their follow-up book *The Coyame Incident*. The article remains difficult to verify independently, as UAP Gerb was "unable to track this paper" and access the original source.
 
 ## Significance
 

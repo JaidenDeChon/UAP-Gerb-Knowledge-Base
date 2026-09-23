@@ -9,7 +9,7 @@ tags:
 
 ## Role in the Coyame Case
 
-In early summer 1993, Redfern received anonymously mailed copies of the [[Denb Report]] (also referred to as the "tenet/coyam report"), an anomalous document detailing the [[1974 Coyame, Mexico UFO Crash Retrieval]]. The document, authored by an individual or entity identified only as "[[JS]]" and dated March 23, 1992, had first surfaced in 1992 on an electronic bulletin board before being mailed anonymously to select UFO researchers.
+In early summer 1993, Redfern received anonymously mailed copies of the [[Denb Report]] (also referred to as the "tenet/coyam report"), an anomalous document detailing the [[1974 Coyame, Mexico UFO Crash Retrieval]]. The document, authored by an individual or entity identified only as "[[JS (Denb Report Author)|JS]]" and dated March 23, 1992, had first surfaced in 1992 on an electronic bulletin board before being mailed anonymously to select UFO researchers.
 
 Redfern was one of several researchers—including [[Elaine Douglas]]—who received the document through anonymous postal delivery. This distribution method mirrors the anonymous mailing of the [[MJ-12 Documents]] in the 1980s, raising questions about whether the Denb Report originated from a similar insider source or was part of a deliberate leak or disinformation campaign.
 

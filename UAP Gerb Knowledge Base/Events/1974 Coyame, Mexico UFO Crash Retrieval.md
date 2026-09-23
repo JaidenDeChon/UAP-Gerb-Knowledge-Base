@@ -5,48 +5,38 @@ tags:
   - event
 ---
 
-The **1974 Coyame, Mexico UFO Crash Retrieval** is an alleged UAP crash and covert recovery operation that occurred on August 25–27, 1974, near [[Coyame, Chihuahua, Mexico]]. According to the [[Denb Report]], an unidentified object tracked by [[US Air Defense]] radar collided mid-air with a civilian aircraft, crashed in northern Mexico, was located by Mexican military forces who subsequently died under mysterious circumstances, and was then covertly retrieved by a [[CIA]]-coordinated recovery team staged at [[Fort Bliss, Texas]].
+The **1974 Coyame, Mexico UFO Crash Retrieval** is an alleged UAP crash and covert recovery operation that occurred on August 25–27, 1974, near [[Coyame, Chihuahua, Mexico]]. According to the [[Denb Report]], an unidentified object tracked by US Air Defense radar collided mid-air with a civilian aircraft, crashed in northern Mexico, was located by Mexican military forces who subsequently died under mysterious circumstances, and was then covertly retrieved by a [[CIA]]-coordinated recovery team staged at [[Fort Bliss]], Texas.
 
 ## Chronology
 
-### August 25, 1974, 2207 hours
+The Denb Report gives clock times but dates only 25 and 26 August; the later dates follow from its sequence ("that day", "the next morning").
+
+### 25 August 1974, 2207 hours
 US Air Defense radar detected an unknown object approaching US airspace from the Gulf of Mexico at 2,200 knots, bearing 325°, altitude 75,000 feet, on a course to intercept US territory approximately 40 miles southwest of Corpus Christi, Texas.
 
-### August 25, 1974, ~2208 hours
-The object decelerated to approximately 1,700 knots, turned to heading 290°, and began a stepped descent. It entered Mexican airspace approximately 40 miles southwest of Brownsville, Texas, and was tracked approximately 500 miles to a point near Coyame, where it disappeared from radar screens.
+### 25 August 1974, about one minute later
+The object decelerated to approximately 1,700 knots, turned to heading 290° and began a stepped descent, each level held for about five minutes. It entered Mexican airspace approximately 40 miles southwest of Brownsville, Texas, and was tracked by two military radar installations for approximately 500 miles to a point near Coyame, where it disappeared from radar screens. An air defense alert was called off within 20 minutes.
 
-### August 25, 1974, ~2259 hours
-Approximately 52 minutes after the object disappeared, civilian radio traffic indicated a civilian aircraft departing El Paso for Mexico City had gone down in the same area.
+### 25 August 1974, 52 minutes after the disappearance
+Civilian radio traffic indicated that a civilian aircraft, which had departed El Paso International for Mexico City, had gone down in the same area.
 
-### August 26, 1974, ~1035 hours
-Mexican authorities searching for the missing plane reported wreckage from the civilian aircraft and a second circular-shaped craft, apparently in one piece but damaged. The Mexican military clamped radio silence on all search efforts.
+### 26 August 1974, about 1035 hours
+Mexican searchers reported wreckage from the civilian aircraft and a second "plane" a few miles away, circular and apparently in one piece but damaged. The Mexican military then clamped radio silence on all search efforts. The intercepts were reported to the [[CIA]], which immediately began forming a recovery team; Mexico flatly refused US requests to let the team "assist".
 
-### August 26, 1974, afternoon
-High-altitude and low-altitude reconnaissance overflights revealed both crash objects had been loaded onto Mexican military trucks, but the convoy had stopped before reaching populated areas. Photos showed all personnel dead, some lying on the ground beside vehicles.
+### 26 August 1974, by 2100 hours
+The recovery team was staged at [[Fort Bliss]], Texas, with unmarked, sand-coloured helicopters flown in from an unknown source: three smaller craft, probably UH-1 Hueys, and a larger one, possibly a Sea Stallion.
 
-### August 26, 1974, 2100 hours
-A CIA recovery team with unmarked helicopters assembled and staged at [[Fort Bliss]], Texas. Launch was delayed for arrival of additional hazmat equipment and two additional personnel.
+### 27 August 1974 (inferred), daytime
+Satellite and reconnaissance overflights showed both wrecks loaded onto flatbed trucks and the Mexican convoy heading south, then stopped before reaching any town, with radio contact lost. A low-altitude, high-speed overflight photographed the trucks and jeeps stopped, some doors open, and two bodies on the ground. The launch was held for additional equipment and two additional personnel.
 
-### August 26, 1974, 1438 hours
-Four helicopters (three UH-1 Hueys and one CH-53 Sea Stallion) departed Fort Bliss, followed the border to Presidio, then entered Mexican airspace north of Candelaria.
+### 27 August 1974 (inferred), 1438–1747 hours
+The four helicopters left Fort Bliss at 1438, followed the border down to Presidio and entered Mexican airspace north of Candelaria, reaching the convoy at 1653. All convoy personnel were dead. Team members in bio-protection suits moved the disc's straps onto a cargo cable from the Sea Stallion; the Mexican vehicles, bodies and civilian plane debris were destroyed with high explosives. The Hueys departed at 1746, and by 1747 the disc was on its way to US territory.
 
-### August 26, 1974, 1653 hours
-The recovery team arrived at the convoy site. All Mexican personnel were dead. Recovery team members in bio-protection suits attached the disc to a cargo cable from the Sea Stallion.
+### 27–28 August 1974 (inferred), overnight
+The Hueys caught up with the Sea Stallion as it re-entered US airspace. The team landed in the Davis Mountains, approximately 25 miles northeast of [[Valentine, Texas]], and waited until 0225 hours the next morning.
 
-### August 26, 1974, 1747 hours
-The recovered disc was on its way to US territory. Before leaving, the recovery team destroyed all Mexican vehicles, bodies, and civilian aircraft debris with high explosives.
-
-### August 26, 1974, 1746 hours
-The UH-1 Hueys departed the site.
-
-### August 26–27, 1974, overnight
-The recovery team proceeded to the Davis Mountains, approximately 25 miles northeast of Valentine, Texas, and waited.
-
-### August 27, 1974, 0225 hours
-The helicopters rendezvoused with a small truck convoy on the road between Van Horn and Kent, Texas. The disc was transferred to a truck. All helicopters returned to their original bases for decontamination.
-
-### August 27, 1974, ongoing
-The truck convoy continued non-stop using back roads and smaller highways, staying away from cities. Destination: Atlanta, Georgia. Unconfirmed reports suggest subsequent transfer to [[Wright-Patterson Air Force Base]] or another unnamed facility.
+### 28 August 1974 (inferred), 0225 hours onward
+The helicopters rendezvoused with a small convoy on the road near Van Horn and Kent, Texas. The disc was transferred to a truck that could be sealed completely, some Huey personnel joined the convoy, and the helicopters returned to their bases for decontamination. The convoy drove non-stop by back roads to [[Atlanta, Georgia]]. Unconfirmed reports suggest a later transfer to [[Wright-Patterson Air Force Base]] or another unnamed base.
 
 ## Recovered Object Description
 
@@ -69,7 +59,8 @@ The Coyame case is notable for:
 - Corroboration from [[Leonard Stringfield]], who independently heard of a US cross-border retrieval in Chihuahua in the late 1970s
 - Its listing by the [[UAP Caucus]] as a case to bring before Congress
 - A corroborating newspaper article from *El Heraldo de Chihuahua* (October 27, 1974) located by Mexican UFO researcher [[Alfonso Salazar]], reporting the death of a group of Mexican soldiers in what was described as a "military transport" crash — two months after the alleged incident
-- Its references in [[MJ-12 Documents]] research and [[IPU]] summary reports
+- Parallels drawn by researchers with fatal contamination incidents described in the [[MJ-12 Documents]] and an [[Interplanetary Phenomenon Unit]] summary report
+- An unsourced 2012 Wikipedia edit by the user "Mercy 11" that named six alleged American team members and four Mexican soldiers, before the page was deleted in 2014
 - Parallels with the [[Peru UFO Crash Incident|1997 Peru UFO Crash Retrieval]] involving [[Jonathan Weygandt]]
 
 The case is frequently referred to as "Mexico's Roswell" and represents one of the most extensively documented alleged UAP crash retrievals outside the United States.

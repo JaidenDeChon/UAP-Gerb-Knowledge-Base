@@ -75,6 +75,10 @@ In 1997, following a lecture at Lunken Airport in Cincinnati, Ohio, Stringfield 
 
 In 1994, a separate individual, codenamed JLD, made similar claims about the Kingman crash to Stringfield. JLD died shortly afterward, preventing further investigation or documentation.
 
+## The Chihuahua (Coyame) Case
+
+Stringfield wrote in 1994 that he had heard of the [[1974 Coyame, Mexico UFO Crash Retrieval|Chihuahua case]] in the late 1970s or early 1980s, recalling only that a US military team had covertly crossed into Mexico to retrieve the object. He also said that several days before presenting "Retrievals of the Third Kind" at [[MUFON]] in 1978, he was informed "circuitously" by the [[CIA]] that it would be inadvisable to discuss crash information in Mexico or West Germany. When [[Elaine Douglas]] passed him the anonymously mailed [[Denb Report]] in 1993, he judged it "authoritatively written using correct military terminology" and, unlike a hoax, careful to separate hard evidence from speculation. UAP Gerb treats this earlier, independent knowledge as one of the strongest points in the case's favour.
+
 ## Legacy
 
 Leonard Stringfield's meticulous documentation of crash retrieval testimony created a foundation for the field that researchers continue to build upon. His work on the Kecksburg case, in particular, demonstrates his commitment to preserving witness accounts, cross-referencing testimony, and maintaining intellectual honesty even when confronted with contradictory information. His collaboration with Stan Gordon produced one of the most credible and thoroughly researched alleged UAP retrieval cases in history.
@@ -92,3 +96,4 @@ In *UFO Crash/Retrieval Status Report 5*, Stringfield published a brief account 
 - [[Video - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs]]
 - [[Video - UFO Whistleblowers Vol.2]]
 - Leonard Stringfield, *UFO Crash Retrievals: The Inner Sanctum* series
+- [[Video - The 1974 Coyame, Mexico UFO Crash]]

@@ -18,7 +18,7 @@ The report states at its conclusion:
 
 ### Acronym Hypothesis
 
-Researchers [[Noah Torres]] and [[Ruben Uriarte]] hypothesize "JS" may be an acronym for a department or entity within the US government, such as:
+Researchers [[Noe Torres]] and [[Ruben Uriarte]] hypothesize "JS" may be an acronym for a department or entity within the US government, such as:
 
 - **Joint Staff**: The military organization that assists the Chairman of the Joint Chiefs of Staff
 - **Joint Services**: A designation for multi-service military operations or organizations
@@ -38,7 +38,7 @@ Some researchers consider the possibility that JS represents a disinformation ag
 
 ## Relation to the DENB Team
 
-JS appears to be a member or representative of the [[DENB Team]], the mysterious group identified as recipients of the report. If the DENB Team was an internal intelligence community investigation group operating via early internet message boards during the "[[UAP Dark Ages]]" (1969–2007), JS may have been a designated spokesperson or authorized leaker tasked with controlled dissemination of compartmented information.
+JS appears to be a member or representative of the [[DENB Team]], the mysterious group identified as recipients of the report. If the DENB Team was an internal intelligence community investigation group operating via early internet message boards during the "UAP Dark Ages" (1969–2007), JS may have been a designated spokesperson or authorized leaker tasked with controlled dissemination of compartmented information.
 
 The fact that JS states "our group" when referring to the DENB Team suggests JS is either a member of the group or closely affiliated with it.
 

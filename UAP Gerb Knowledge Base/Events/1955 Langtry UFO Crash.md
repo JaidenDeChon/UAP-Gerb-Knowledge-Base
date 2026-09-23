@@ -41,9 +41,9 @@ Willingham attempted to test the material's properties for four days but took no
 
 ## The Bodies Contradiction
 
-The most significant credibility issue in Willingham's account is a direct contradiction regarding non-human bodies. In [[Noah Torres]] and [[Ruben Uriarte]]'s 2008 book *The Other Roswell: UFO Crash on the Texas Border*, Willingham is explicitly quoted: "I never saw bodies. I was not able to get close enough, and I don't know what happened after I left."
+The most significant credibility issue in Willingham's account is a direct contradiction regarding non-human bodies. In [[Noe Torres]] and [[Ruben Uriarte]]'s 2008 book *The Other Roswell: UFO Crash on the Texas Border*, Willingham is explicitly quoted: "I never saw bodies. I was not able to get close enough, and I don't know what happened after I left."
 
-However, in a July 24, 2012 interview with radio host [[Jeff Rense]], Willingham described sneaking around the perimeter to view inside the dome section and observing three to four non-human bodies — small in stature, with large heads, broomstick-thin arms, no clothing, and "in a lot of different pieces." Author Noah Torres reiterated the bodies claim in a 2023 presentation, stating bodies were present at the crash site.
+However, in a July 24, 2012 interview with radio host [[Jeff Rense]], Willingham described sneaking around the perimeter to view inside the dome section and observing three to four non-human bodies — small in stature, with large heads, broomstick-thin arms, no clothing, and "in a lot of different pieces." Author Noe Torres reiterated the bodies claim in a 2023 presentation, stating bodies were present at the crash site.
 
 UAP Gerb flags this contradiction as a "massive issue" in Willingham's credibility. Willingham attributed other inconsistencies in his account (such as the aircraft type he was flying and the year of the event) to memory problems from a Korean War head injury, but UAP Gerb finds this explanation insufficient for a factual detail as significant as the presence or absence of non-human bodies.
 
@@ -53,7 +53,7 @@ Former US Air Force member [[William Drager]], who served as a Spanish interpret
 
 ## Credibility Assessment
 
-Researcher [[Kevin Randle]], in his book *Crash: When UFOs Fall from the Sky*, questioned Willingham's Air Force service record. The National Personnel Records Service in St. Louis, Missouri was unable to provide Willingham's service documentation. However, a catastrophic July 12, 1973 fire at that facility destroyed most records for personnel serving between 1947 and 1963. Co-author Noah Torres claims to hold over 50 documents corroborating Willingham's service, though these have not been publicly released.
+Researcher [[Kevin Randle]], in his book *Crash: When UFOs Fall from the Sky*, questioned Willingham's Air Force service record. The National Personnel Records Service in St. Louis, Missouri was unable to provide Willingham's service documentation. However, a catastrophic July 12, 1973 fire at that facility destroyed most records for personnel serving between 1947 and 1963. Co-author Noe Torres claims to hold over 50 documents corroborating Willingham's service, though these have not been publicly released.
 
 Additional inconsistencies between Willingham's 1965 newspaper account, his 1977 affidavit obtained by researcher [[Todd Zechel]], and the 2008 book include:
 - **Aircraft type**: The affidavit states Willingham was flying an F-94; the book states an F-86 Sabre.

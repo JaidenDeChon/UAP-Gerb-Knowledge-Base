@@ -45,8 +45,13 @@ In 2025 one of the sergeants Weygandt names told the host that the operation is 
 
 The craft invites comparison with other egg-shaped accounts, including the [[1953 Camp Polk UFO Crash Retrieval]], [[Albert Bruce Collins]]'s 1947 sighting at Berkeley, and [[Eric Taber]]'s description of a smooth egg-shaped craft at [[Area 51]]. Weygandt is also one of three Marines, with [[Rodrik Castle]] and Michael Herrera, who say they were given an anthrax booster after their encounters.
 
+## Comparison with Coyame
+
+UAP Gerb sets Weygandt's account beside the [[1974 Coyame, Mexico UFO Crash Retrieval]] as a possible shared operational template for cross-border retrievals. In both, the [[CIA]] is involved, a twin-rotor helicopter brings in the recovery personnel, and the personnel wear hazmat or bio-protection suits. In both, there are signs of harm from proximity to the craft: Weygandt's intense, unexplainable fear, and the deaths of the Mexican soldiers who first recovered the Coyame disc.
+
 ## Sources
 
 - [[Video - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt]]
 - [[Video - The Marines Who Got too Close to UFOs]]
 - [[Video - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE]]
+- [[Video - The 1974 Coyame, Mexico UFO Crash]]

@@ -231,7 +231,7 @@ tags:
 - [[Nick Cook]]
 - [[Nick Redfern]]
 - [[Nikolai Kardashev]]
-- [[Noah Torres]]
+- [[Noe Torres]]
 - [[Oscar Santa Maria Hueras]]
 - [[Paul Trent]]
 - [[Jack Perkins]]

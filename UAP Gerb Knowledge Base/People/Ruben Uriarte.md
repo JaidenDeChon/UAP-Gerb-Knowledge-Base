@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-**Ruben Uriarte** is an American UAP researcher and author specializing in crash retrieval investigations, particularly cases occurring in Mexico. He is best known for co-authoring *Mexico's Roswell: The Chihuahua UFO Crash* with [[Noah Torres]], a comprehensive investigation into the [[1974 Coyame, Mexico UFO Crash Retrieval]].
+**Ruben Uriarte** is an American UAP researcher and author specializing in crash retrieval investigations, particularly cases occurring in Mexico. He is best known for co-authoring *Mexico's Roswell: The Chihuahua UFO Crash* with [[Noe Torres]], a comprehensive investigation into the [[1974 Coyame, Mexico UFO Crash Retrieval]].
 
 ## Field Investigation
 

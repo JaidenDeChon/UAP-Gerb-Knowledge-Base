@@ -1,11 +1,11 @@
 ---
-name: "Noah Torres"
+name: "Noe Torres"
 role: "Author and UAP researcher"
 tags:
   - person
 ---
 
-**Noah Torres** is an American author and UAP researcher specializing in crash retrieval cases, particularly those occurring in Mexico and the US-Mexico border region. He is best known for his investigative work on the [[1974 Coyame, Mexico UFO Crash Retrieval]], documented in his book *Mexico's Roswell: The Chihuahua UFO Crash*, co-authored with [[Ruben Uriarte]].
+**Noe Torres** (sometimes rendered "Noah Torres" in auto-generated captions) is an American author and UAP researcher specializing in crash retrieval cases, particularly those occurring in Mexico and the US-Mexico border region. He is best known for his investigative work on the [[1974 Coyame, Mexico UFO Crash Retrieval]], documented in his book *Mexico's Roswell: The Chihuahua UFO Crash* (2007) and its follow-up *The Coyame Incident*, both co-authored with [[Ruben Uriarte]].
 
 ## Coyame Investigation
 

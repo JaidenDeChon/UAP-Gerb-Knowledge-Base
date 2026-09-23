@@ -31,9 +31,14 @@ Sharp's prior identification of the CIA DS&T as a gatekeeper of UAP materials is
 
 In an article titled "UFO allegedly stored at East Coast Naval Facility as material transfer claims resurface," Sharp reported sources' claims that a vehicle or vehicles of unknown origin were, or still are, stored at [[Naval Air Station Patuxent River]]. UAP Gerb cites the report as corroboration of Pax River's alleged role as the operational nexus of a Navy-administered, [[MITRE Corporation|MITRE]]-led reverse-engineering program. Separately, Representative [[Eric Burlison]] visited Pax River with White House staff to look for hangars that could have stored recovered vehicles, including the facility reportedly considered for a transfer from Lockheed Martin to Bigelow Aerospace.
 
+## Relevance to the Coyame Case
+
+UAP Gerb compares Sharp's reporting on the [[CIA Office of Global Access]] with the [[Denb Report]]'s account of the [[1974 Coyame, Mexico UFO Crash Retrieval]], in which the [[CIA]] formed a recovery team within a day and handed the disc to a private truck convoy. One of Sharp's sources described the office as "a facilitator for people to get in and out of countries"; another said the military performs the physical retrieval but moves objects "fairly quickly into private hands" because it has to keep too many records. Sharp's sources also named [[JSOC (Joint Special Operations Command)|JSOC]] and [[NEST (Nuclear Emergency Support Team)|NEST]] among the units performing retrievals.
+
 ## Sources
 
 - [[US Navy UFO Crash Retrieval & Reverse Engineering Programs]]
 - [[The 1933 Magenta, Italy UFO Crash]]
 - [[National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers]]
 - [[Video - The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]
+- [[Video - The 1974 Coyame, Mexico UFO Crash]]

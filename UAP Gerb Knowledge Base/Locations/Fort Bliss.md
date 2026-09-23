@@ -13,7 +13,7 @@ tags:
 
 Fort Bliss is identified as the staging area for the CIA rapid recovery team dispatched to the [[1974 Coyame, Mexico UFO Crash Retrieval]]. According to the allegedly leaked [[Denb Report]], by 2100 hours on August 26, 1974, the CIA had assembled a recovery team with helicopters at Fort Bliss. Several helicopters were flown in from an unknown source and assembled in a secured area—painted a neutral sand color and bearing no markings. Personnel from the team remained with their craft and had no contact with other Fort Bliss personnel, suggesting strict compartmentalization.
 
-At 1438 hours on August 26, four helicopters (identified as three UH-1 Hueys and one CH-53 Super Stallion) departed Fort Bliss, followed the border down to Presidio, Texas, then turned and entered Mexican airspace north of Candelaria. The team arrived at the crash site at 1653 hours, recovered a 16-foot silver disc from a stopped Mexican convoy (all personnel dead), destroyed the site with high explosives, and returned to US territory with the object.
+At 1438 hours the following day (the report gives only clock times, so the date is inferred), four helicopters (identified as three UH-1 Hueys and one larger helicopter, possibly a Sea Stallion) departed Fort Bliss, followed the border down to Presidio, Texas, then turned and entered Mexican airspace north of Candelaria. The team arrived at the crash site at 1653 hours, recovered a 16-foot-5-inch silver disc from a stopped Mexican convoy (all personnel dead), destroyed the site with high explosives, and returned to US territory with the object.
 
 This incident—in which a hazmat-equipped team arrived via unmarked military helicopters—shares notable parallels with the [[Peru UFO Crash Incident|1997 Peru UFO Crash Retrieval]], where similar hazmat-equipped teams arrived at a UAP crash site via military helicopters, as testified by [[Jonathan Weygandt]].
 
@@ -27,7 +27,7 @@ Fort Bliss is also the home of the [[El Paso Intelligence Center]] (EPIC), estab
 
 ## Operational Significance
 
-Fort Bliss's proximity to the US-Mexico border (approximately 40 miles from Coyame, Chihuahua), its role as a major military installation with airlift capability, and the presence of EPIC position it as an ideal forward operating base for covert cross-border UAP recovery operations. The rapid assembly of unmarked helicopters, specialized personnel, and decontamination equipment within 24 hours of the Coyame crash suggests Fort Bliss may have maintained standing or rehearsed protocols for UAP crash retrieval in the border region.
+Fort Bliss's position on the US-Mexico border, its role as a major military installation with airlift capability, and the presence of EPIC position it as an ideal forward operating base for covert cross-border UAP recovery operations. The rapid assembly of unmarked helicopters, specialized personnel, and decontamination equipment within about a day of the Coyame crash suggests Fort Bliss may have maintained standing or rehearsed protocols for UAP crash retrieval in the border region.
 
 ## Sources
 
