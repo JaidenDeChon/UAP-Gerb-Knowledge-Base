@@ -347,13 +347,39 @@ entries:
 
 [[Eric A. Walker]] was president of Penn State University from 1956 to 1971, chairman of the Institute for Defense Analyses and executive secretary of the Defense Research Board in 1950-1951: "a very serious and accredited man", in the host's words. Once Friedman made his name public, researchers including William Steinman and Henry Azadehdel, who wrote as Armen Victorian, began questioning him. Across those conversations, the video says, Walker claimed involvement in the 1965 Kecksburg crash, confirmed the existence of Majestic 12 or a similar group, said contact had been made with non-human intelligence, and called reverse-engineering efforts a waste of time because the technology was far beyond human understanding.
 
-::wiki-grid{cols=2}
-::wiki-panel{title="To William Steinman, 1987"}
-Walker's first interview came weeks after the MJ-12 documents were made public. He confirmed he attended the meeting of around 1949-1950 about military crash and body retrieval, and said he would try to find his notes on it and consider sharing them. On MJ-12 he said he had known of them for 40 years, and that Steinman was "chasing after and fighting with windmills". He advised him to drop the subject, since he was delving into "an area that you can do absolutely nothing about".
-::
-::wiki-panel{title="To Henry Azadehdel, 1990"}
-Over three recorded calls, Walker and Azadehdel discussed the [[1978 Bolivia UFO Crash]] and the possibility that insect-like bodies had been recovered. In the second call, Walker said MJ-12 exists but its documents are likely forgeries, and that only a mind like Einstein's could handle the issue. Asked about his own role, he answered with questions about his caller's "sixth sense" and ESP. The third call was more cryptic still, but confirmed Bush's involvement.
-::
+Walker's first interview, with Steinman in 1987, came weeks after the MJ-12 documents were made public. Three years later Henry Azadehdel recorded three calls with him, which also took in the [[1978 Bolivia UFO Crash]] and the possibility that insect-like bodies had been recovered. The third call was the most cryptic of all. Set side by side, the two sets of conversations cover much of the same ground:
+
+::wiki-compare{video="R7DyJRf14nU" video-title="Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group"}
+---
+caption: "What Walker told each interviewer, as the video relays it. A dash means the video does not say he discussed the point with that interviewer."
+attributeLabel: "Topic"
+subjects:
+  - name: "William Steinman"
+    note: "Interview, 1987"
+  - name: "Henry Azadehdel"
+    note: "Three recorded calls, 1990"
+rows:
+  - attribute: "The Wright Field meeting"
+    cells:
+      - { text: "Confirmed he attended it, around 1949–1950; would try to find his notes and consider sharing them", cue: 926 }
+      - ""
+  - attribute: "Majestic 12"
+    cells:
+      - { text: "\"I have known of them for 40 years\"", cue: 954 }
+      - { text: "It exists, but its documents are likely forgeries", cue: 992 }
+  - attribute: "His advice"
+    cells:
+      - { text: "Drop it: Steinman was \"fighting with windmills\" in an area he could do \"absolutely nothing about\"", cue: 959 }
+      - { text: "Only a mind like Einstein's could handle the issue", cue: 999 }
+  - attribute: "His own role"
+    cells:
+      - ""
+      - { text: "Answered with questions about his caller's \"sixth sense\" and ESP", cue: 1015 }
+  - attribute: "Vannevar Bush"
+    cells:
+      - ""
+      - { text: "Confirmed Bush's involvement, in the third call", cue: 1035 }
+---
 ::
 
 A 1991 investigation placed Walker, as Penn State president, about 100 miles from [[Kecksburg, Pennsylvania]], where a small bell- or acorn-shaped object allegedly crashed in 1965. Walker's comment on the crash site was that "we went there with two from the military but not on duty". The host says the case deserves its own full analysis.

@@ -538,11 +538,13 @@
       "wiki-grid",
       "wiki-panel",
       "wiki-timeline",
+      "wiki-compare",
       "wiki-org-chart",
       "wiki-chain",
       "wiki-roster"
     ],
-    "cues": "verified"
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
   },
   "Yn-83KbgRN8": {
     "title": "USO Case Book: Unidentified Submerged Objects Throughout History",
@@ -552,10 +554,14 @@
       "wiki-stat-strip",
       "wiki-timeline",
       "wiki-org-chart",
+      "wiki-claim",
+      "wiki-chain",
+      "wiki-map",
       "wiki-grid",
       "wiki-panel"
     ],
-    "cues": "verified"
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
   },
   "U-jrx_giINA": {
     "title": "USO - Unidentified Submerged Objects",
@@ -564,12 +570,12 @@
     "components": [
       "wiki-stat-strip",
       "wiki-timeline",
-      "wiki-grid",
-      "wiki-panel",
-      "wiki-roster",
-      "wiki-claim"
+      "wiki-compare",
+      "wiki-claim",
+      "wiki-roster"
     ],
-    "cues": "verified"
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
   },
   "R7DyJRf14nU": {
     "title": "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group",
@@ -581,8 +587,10 @@
       "wiki-grid",
       "wiki-panel",
       "wiki-roster",
+      "wiki-compare",
       "wiki-org-chart"
     ],
-    "cues": "verified"
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
   }
 }

@@ -340,19 +340,35 @@ The host keeps his Roswell refresher short, since he thinks the case deserves a 
 
 The host stresses one point that he says is often misunderstood: Roswell involved two separate sites.
 
-::wiki-grid{cols=2}
-::wiki-panel{title="The debris field"}
-- Found by Mac Brazel on the [[Foster Ranch]], which the video places 75 miles north-west of Roswell
-- 3.4 miles long and 300 feet wide, made up only of craft ejecta
-- Nearly massless metal that kept its shape and resisted blunt and shear damage, likely studied, the host believes, by [[Battelle Memorial Institute]]
-- Investigated by Marcel, and later made the public focus of the story
-::
-::wiki-panel{title="The craft site" tone="accent"}
-- About 40 miles north of town, according to Haut's 2002 affidavit
-- Where the craft and bodies were allegedly recovered
-- Kept far more secret than the debris field
-- The site Ramey's diversion plan was allegedly designed to protect
-::
+The debris field on the [[Foster Ranch]] was found by Mac Brazel and investigated by Marcel. Its nearly massless metal, which kept its shape and resisted blunt and shear damage, was likely studied, the host believes, by [[Battelle Memorial Institute]]. The craft site is the one Ramey's diversion plan was allegedly designed to protect.
+
+::wiki-compare{video="EKEZ2BClIb0" video-title="UFO Whistleblowers [Vol.1]"}
+---
+caption: "Roswell's two sites, as the video and Haut's 2002 affidavit describe them."
+attributeLabel: "Point"
+subjects:
+  - name: "Foster Ranch"
+    note: "The debris field"
+  - name: "The craft site"
+    note: "The primary site"
+rows:
+  - attribute: "Where"
+    cue: 650
+    cells:
+      - "75 miles north-west of Roswell"
+      - "About 40 miles north of town"
+  - attribute: "Extent"
+    cells:
+      - { text: "3.4 miles long, 300 feet wide", cue: 215 }
+  - attribute: "What was there"
+    cells:
+      - { text: "Craft ejecta only: light metal that kept its shape", cue: 215 }
+      - { text: "The craft and bodies, allegedly", cue: 709 }
+  - attribute: "Public story"
+    cells:
+      - { text: "Made the focus, under Ramey's plan", cue: 685 }
+      - { text: "Kept far more under wraps", cue: 236 }
+---
 ::
 
 ### Who gave the orders
@@ -438,16 +454,34 @@ This is why the host pairs Lovekin with Haut. At a meeting about Blue Book mater
 
 The markings are the thread the host follows through three independent witnesses:
 
-::wiki-grid{cols=3}
-::wiki-panel{title="Jesse Marcel and son, 7 July 1947"}
-Marcel brings home debris including the "I-beam" with hieroglyph-like markings and shows it to Jesse Marcel Jr. The host notes the piece has been claimed by many witnesses.
-::
-::wiki-panel{title="Walter Haut, 8 July 1947"}
-Samples passed around the morning staff meeting: lightweight metal that holds its shape, this time with strange markings.
-::
-::wiki-panel{title="Steven Lovekin, c. 1959–1961" tone="accent"}
-A yardstick-like piece at the White House, from a box of 1947 New Mexico material, bearing symbols of instruction still under study.
-::
+::wiki-compare{video="EKEZ2BClIb0" video-title="UFO Whistleblowers [Vol.1]"}
+---
+caption: "The marked wreckage in three accounts. The host notes that the Marcel I-beam has been claimed by many other witnesses too."
+attributeLabel: "Detail"
+subjects:
+  - name: "Jesse Marcel"
+    note: "With Jesse Marcel Jr., 7 July 1947"
+  - name: "Walter Haut"
+    note: "2002 affidavit, 8 July 1947"
+  - name: "Steven Lovekin"
+    note: "White House, c. 1959–1961"
+rows:
+  - attribute: "Where seen"
+    cells:
+      - { text: "At home, on the drive back from the debris field", cue: 253 }
+      - { text: "The morning staff meeting at the base", cue: 650 }
+      - { text: "A Blue Book meeting at the White House Army Signal Agency", cue: 1060 }
+  - attribute: "The piece"
+    cells:
+      - { text: "Debris including the \"encrypted\" I-beam", cue: 1121 }
+      - { text: "Samples of light metal that held its shape", cue: 662 }
+      - { text: "A metal piece like a yardstick, from a box of 1947 New Mexico material", cue: 1070 }
+  - attribute: "The markings"
+    cells:
+      - { text: "Markings Marcel and his son both saw", mark: same }
+      - { text: "\"Strange markings\"", mark: same }
+      - { text: "\"Symbols of instruction\", still under study", mark: same, cue: 1076 }
+---
 ::
 
 ### Eisenhower loses control

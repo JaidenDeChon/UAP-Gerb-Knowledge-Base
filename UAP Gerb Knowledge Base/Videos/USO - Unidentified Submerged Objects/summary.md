@@ -290,16 +290,36 @@ The host lingers on the sender. AFOIN was the Air Force Office of Intelligence, 
 
 The host argues that three rules, issued within about a year of each other, closed this early record and began what he calls "the slow descent into the dark ages of UFO reporting", the era of swamp gas and weather-balloon explanations.
 
-::wiki-grid{cols=3}
-::wiki-panel{title="USAF Regulation 200-2 (1953)"}
-The Air Force rule the host says he cites in nearly every video. [[USAF Regulation 200-2]] sent all official UFO reports to the Air Technical Intelligence Center (ATIC) instead of to [[Project Blue Book]].
-::
-::wiki-panel{title="OPNAV 3820 (23 January 1954)"}
-The Navy's directive from the Office of the Chief of Naval Operations. [[OPNAV 3820]] routed "flying object reports" to three recipients: the directors of ATIC, USAF Intelligence and Naval Intelligence. A copy appears in Donald Keyhoe's *The Flying Saucer Conspiracy*, and it cites JANAP 146c directly.
-::
-::wiki-panel{title="JANAP 146c (1954)" tone="accent"}
-The joint rule that took in the sea. [[JANAP 146c]] required both airborne and **waterborne** sightings to be reported under the service instructions for vital intelligence sightings and maritime intelligence sightings. Civilians and pilots could not discuss officially reported sightings: violators faced the Communications Act of 1934, the espionage laws, prison and a $10,000 fine.
-::
+[[USAF Regulation 200-2]] is the Air Force rule the host says he cites in nearly every video. [[OPNAV 3820]] was the Navy's directive from the Office of the Chief of Naval Operations; a copy appears in Donald Keyhoe's *The Flying Saucer Conspiracy*, and it cites JANAP 146c directly. [[JANAP 146c]], the joint Army, Navy and Air Force publication, was the one that took in the sea. Its penalties came under the Communications Act of 1934 and the espionage laws.
+
+::wiki-compare{video="U-jrx_giINA" video-title="USO - Unidentified Submerged Objects"}
+---
+caption: "The three reporting rules that, in the host's account, closed the early record. Only JANAP 146c named waterborne sightings."
+attributeLabel: "Point"
+subjects:
+  - name: "USAF Regulation 200-2"
+    note: "Air Force, 1953"
+  - name: "OPNAV 3820"
+    note: "Navy, 23 Jan 1954"
+  - name: "JANAP 146c"
+    note: "Joint Army, Navy and Air Force, 1954"
+rows:
+  - attribute: "What it covers"
+    cells:
+      - { text: "All official UFO reports", cue: 364 }
+      - { text: "UAP sightings, as \"flying object reports\"", cue: 381 }
+      - { text: "Airborne and waterborne sightings", mark: differs, cue: 322 }
+  - attribute: "Where reports go"
+    cells:
+      - "ATIC, not Project Blue Book"
+      - { text: "The directors of ATIC, USAF Intelligence and Naval Intelligence", cue: 386 }
+      - { text: "Under service instructions for vital intelligence and maritime intelligence sightings", cue: 326 }
+  - attribute: "Witnesses"
+    cells:
+      - ""
+      - ""
+      - { text: "Barred from discussing reported sightings; prison and a $10,000 fine", cue: 338 }
+---
 ::
 
 ## The Dark Ages of UFO Reporting

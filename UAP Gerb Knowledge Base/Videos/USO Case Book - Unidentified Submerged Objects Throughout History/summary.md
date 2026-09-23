@@ -281,29 +281,55 @@ root:
 ---
 ::
 
-The host picks out four ship cases. In three of them, he argues, Blue Book's explanation does not fit what the witnesses reported:
+The host picks out four ship cases: the [[MV Marala North Atlantic Sighting]], the [[SS City of Alako Hawaiian Islands Sighting]], the [[Ascension Island USO Sighting]] and the [[SS Morgantown Victory Sighting]]. Blue Book left the first unidentified. In the other three, he argues, its explanation does not fit what the witnesses reported:
 
-::wiki-grid{cols=2}
-::wiki-panel{title="MV Marala · 4 Aug 1950" tone="accent"}
-**Blue Book:** unidentified, a rare verdict for a ship case.
-
-**The sighting:** the master, chief mate and third mate watched an elliptical "half an egg" pass within 1,000 feet of the ship, no higher than 100 feet above the sea, rotating and wobbling. See [[MV Marala North Atlantic Sighting]].
-::
-::wiki-panel{title="SS City of Alako · 7 Nov 1959"}
-**Blue Book:** a meteor.
-
-**The objection:** a meteor would not take so low a path across the water for so long, give three flashes and then submerge. See [[SS City of Alako Hawaiian Islands Sighting]].
-::
-::wiki-panel{title="Ascension Island · 25 Jun 1960"}
-**Blue Book:** a flare.
-
-**The objection:** the investigation established that no plane or vessel had released a flare over the site, and the light came up from under the surface. See [[Ascension Island USO Sighting]].
-::
-::wiki-panel{title="SS Morgantown Victory · 11 Jan 1966"}
-**Blue Book:** decay of the Cosmos 33 satellite.
-
-**The objection:** a decaying satellite does not hover for 30 seconds, turn 180 degrees to avoid a ship and change direction again before entering the sea. See [[SS Morgantown Victory Sighting]].
-::
+::wiki-claim{video="Yn-83KbgRN8" video-title="USO Case Book: Unidentified Submerged Objects Throughout History"}
+---
+label: "Blue Book's verdicts and the host's answers"
+term: "Verdict"
+caption: "Blue Book's conclusion on each of the four ship cases, and the host's response to it."
+claims:
+  - title: "MV Marala"
+    by: "Project Blue Book"
+    date: "1950-08-04"
+    text: "Unidentified."
+    cue: 110
+    responses:
+      - by: "The host"
+        stance: host
+        text: "A rare verdict for a ship case, and perhaps his favourite case in the video: a wobbling \"half an egg\" within 1,000 feet of the ship, no higher than 100 feet above the sea."
+        cue: 113
+  - title: "SS City of Alako"
+    by: "Project Blue Book"
+    date: "1959-11-07"
+    text: "A meteor."
+    cue: 189
+    responses:
+      - by: "The host"
+        stance: challenges
+        text: "A meteor would not take so low a path across the water for so long, flash three times and then submerge."
+        cue: 194
+  - title: "Ascension Island"
+    by: "Project Blue Book"
+    date: "1960-06-25"
+    text: "A flare."
+    cue: 257
+    responses:
+      - by: "The host"
+        stance: challenges
+        text: "It was established that no plane or vessel released a flare over the site, and the light came up from under the surface."
+        cue: 261
+  - title: "SS Morgantown Victory"
+    by: "Project Blue Book"
+    date: "1966-01-11"
+    text: "Decay of the Cosmos 33 satellite."
+    cue: 340
+    responses:
+      - by: "The host"
+        stance: challenges
+        text: "That does not account for the object hovering for 30 seconds, turning 180 degrees to avoid the ship and changing speed and direction before entering the sea."
+        cue: 343
+---
 ::
 
 Two of the cases get extra detail. The Ascension Island light appeared during the recovery of the floating data cassette from [[Missile Test 1802 Data Recovery|missile test 1802]]. The host likens it to [[Luis Elizondo]]'s account, covered in his earlier USO video, of a diving team sent to recover missile data watching a huge USO rise from the depths and take the missile (see [[Caribbean Island Cruise Missile Recovery USO Encounter]]). In the Morgantown Victory case the object glowed orange-yellow, brightest at the front, with two lights on top, and was estimated at 200 to 250 feet long and 35 to 40 feet wide. It approached within a mile at well under 400 feet. The master believed a plane had crashed and ordered a search.
@@ -314,29 +340,30 @@ The host acknowledges that Soviet cases cannot be checked the way Blue Book's ca
 
 The anchor case is the [[Soviet Submarine Repair Ship Vulga Sighting|Vulga]] encounter in the Barents Sea on 7 October 1977. The ship's radar picked up an object about 60 miles out; Captain Tanton reached the bridge to see nine bright discs come in from the northeast and circle the ship for 18 minutes. Ship communications failed, much as Major Jafari's did in the [[1976 Tehran UFO Incident]], and came back when the discs left. The case also appears on pages 29 to 30 of [[Jacques Vallee|Jacques Vallée]]'s *UFO Chronicles of the Soviet Union: A Cosmic Samizdat*. The Soviet navy's response was formal:
 
-::wiki-org-chart
+::wiki-chain{video="Yn-83KbgRN8" video-title="USO Case Book: Unidentified Submerged Objects Throughout History"}
 ---
-root:
-  name: Soviet Submarine Repair Ship Vulga Sighting
-  label: "Trigger · 7 Oct 1977"
-  note: "Nine discs circle the ship for 18 minutes; communications fail."
-  children:
-    - name: Fleet Admiral Nikolai Smirnov
-      label: Issued the reporting directive
-      note: "A directive on mandatory reporting of UFO sightings, which the video compares to JANAP 146C and OPNAV 3820."
-      children:
-        - name: Vladimir Azhazha
-          label: Authorized it
-          note: "Naval officer and ufologist."
-        - name: "P. Noitov"
-          label: Signed it
-          note: "Naval Deputy Chief of Staff, as named in the video."
-        - name: "Soviet hydrographic, research and reconnaissance ships"
-          label: Required to report
+kind: consequence
+caption: "From the Vulga encounter to a fleet-wide duty to report, as the video tells it."
+steps:
+  - name: "Soviet Submarine Repair Ship Vulga Sighting"
+    date: "1977-10-07"
+    note: "Nine discs circle the ship for 18 minutes; communications fail until they leave."
+    cue: 439
+  - via: "Raises concern in the Soviet navy"
+    name: "Fleet Admiral Nikolai Smirnov"
+    note: "Issues a directive on mandatory reporting of UFO sightings, likened in the video to JANAP 146C and OPNAV 3820."
+    cue: 478
+  - via: "Authorized by naval officer and ufologist Vladimir Azhazha"
+    text: "The reporting directive"
+    note: "Signed by Naval Deputy Chief of Staff P. Noitov, as named in the video."
+    cue: 492
+  - via: "Binds"
+    text: "Soviet hydrographic, research and reconnaissance ships"
+    note: "Now required to report UFO sightings."
 ---
 ::
 
-Where OPNAV 3820 narrowed who could see Navy reports, the Smirnov directive widened the duty to report. The video presents the two directives as parallel institutional responses to the same phenomenon.
+The directive was authorized by the naval officer and ufologist [[Vladimir Azhazha]] and signed by Naval Deputy Chief of Staff P. Noitov. Where OPNAV 3820 narrowed who could see Navy reports, the Smirnov directive widened the duty to report. The video presents the two directives as parallel institutional responses to the same phenomenon.
 
 Two more Soviet cases follow. In August 1970, according to *Russia's USO Secrets* and an article by Soviet scientist Valentin Salomshikov, hydrologists in a motorboat on a lake on the [[Kamchatka Peninsula]] saw a dome of water burst up about a kilometre away. A grey oval object 40 to 60 metres long rose from it and hovered at about 100 metres while the boat's engine stalled, then sped away, and the engine came back to life ([[Kamchatka Lake USO Sighting (1970)]]). The host links the engine failure to the vehicle interference [[Kevin Knuth]] has discussed at the [[Sol Foundation]]. In June 1977, from the manuscripts of the Soviet ufologist [[Felix Zigel]], the ship Nooget in the Gulf of Guayaquil off Ecuador radioed that a white luminescent sphere had risen from the water ahead, circled the ship, hovered 20 metres above it, zigzagged and dived back into the sea ([[Soviet Ship Nooget USO Sighting]]). The section closes with a clip from a 2006 Russian documentary on USOs in which a Soviet submarine captain discusses the phenomenon.
 
@@ -361,6 +388,44 @@ The last part of the video is on the [[Maritime Light Wheel]]: a wheel of brilli
 - **1880, Shahian.** Off the [[Malabar Coast, India|Malabar Coast]], a milky white circle "resembling the nebula" ([[SS Shahian Circular Object Sighting]]).
 - **1909, Bintang.** In the Strait of Malacca, Captain Gabe saw a wheel under the water so vast only half of it was visible, which vanished when its centre passed under the ship. Reported by the [[Danish Meteorological Institute]] and relayed by *Scientific American* ([[SS Bintang Light Wheel Sighting]]).
 - **1910, Valentin (Valentijn).** In the South China Sea, Captain Brier (Breyer) and three of his officers saw a horizontal wheel turning rapidly above the water ([[Dutch Steamship Valentin Hovering Object Sighting]]).
+
+Mapped, the cases the video reviews form one band of sea, from the Persian Gulf along the coast of India to the waters around Singapore:
+
+::wiki-map{video="Yn-83KbgRN8" video-title="USO Case Book: Unidentified Submerged Objects Throughout History"}
+---
+label: "The light wheel's waters"
+caption: "Where the video's light-wheel cases were seen, 1873–1910. The video names seas, not positions, so each pin marks the sea or coast it names (coordinates from Wikipedia and Wikidata), not a ship's reported position. The Adhy was bound for Singapore, but the video gives no position for its sighting."
+pins:
+  - name: "Persian Gulf USO Flap"
+    label: "Persian Gulf"
+    coordinates: [26, 52]
+    date: "1879–1901"
+    note: "HMS Vulture (1879), the Patna (1880) and the Kila (1901)."
+    cue: 1254
+  - name: "SS Shahian Circular Object Sighting"
+    label: "Malabar Coast"
+    coordinates: [12.0167, 75.2833]
+    date: "1880-01-05"
+    note: "A milky white circle off the coast of India."
+    cue: 1373
+  - name: "SS Bintang Light Wheel Sighting"
+    label: "Strait of Malacca"
+    coordinates: [2.833, 101.037]
+    date: "1909-06-10"
+    note: "A wheel under the water so vast only half was visible."
+    cue: 1432
+  - name: "Dutch Steamship Valentin Hovering Object Sighting"
+    label: "South China Sea"
+    coordinates: [12, 113]
+    date: "1910"
+    note: "A horizontal wheel turning above the water."
+    cue: 1475
+  - name: "Ship Adhy Maritime Light Wheel Sighting"
+    date: "1873-03-27"
+    note: "On a voyage to Singapore; no position given."
+    cue: 1217
+---
+::
 
 The host says he is torn on what the wheels are:
 
