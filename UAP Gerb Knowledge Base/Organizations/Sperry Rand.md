@@ -15,6 +15,9 @@ In his manuscript, Corso referenced the personal memoirs of Lieutenant General [
 
 In UAP Gerb's *UFO Legacy Programs - Northrop Grumman*, the host says Sperry Rand's former divisions became part of [[Lockheed Martin]], Raytheon, [[Honeywell]] and [[Northrop Grumman]], "all companies implicated in UFO legacy programs". He counts Sperry Rand among the threads connecting Northrop's long run of acquisitions to Corso's testimony.
 
+In UAP Gerb's video on Corso, the host adds that Corso mentions Sperry Rand many times in *Dawn of a New Age*, and cautions that it should not be confused with the RAND Corporation FFRDC.
+
 ## Sources
 
 - [[Video - UFO Legacy Programs - Northrop Grumman]]
+- [[Video - Philip J. Corso - US Army UFO Technology Research & Development]]

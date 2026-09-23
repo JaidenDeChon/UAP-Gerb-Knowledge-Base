@@ -47,7 +47,7 @@ Trudeau retired in 1962 and was succeeded by four-star General [[Dwight E. Beach
 
 According to [[Jacques Vallee]]'s book *Forbidden Science: Pacific Heights*, Dr. [[Eric Davis]] had multiple conversations with former President and CIA Director George H.W. Bush regarding UAP Legacy Programs. Bush told Davis that he was briefed on Legacy Programs by Trudeau around the time of the 1968 Mendel Rivers Congressional hearings. Trudeau allegedly told Bush that "his man Corso" had been asked to testify before Congress and was able to reveal "rumblings of alien hardware that had been distributed to industrial labs," but the Corso testimony was squashed as a result of this conversation.
 
-Bush further stated to Davis that when he asked Trudeau if Corso could have been mistaken about the material he was handling — whether it could have been Nazi hardware — Trudeau replied: "Impossible. The two topics were clearly separated by that time. All German secrets had been processed and filed away. They were not used as cover for anything else."
+When Davis asked Bush whether Corso could have been mistaken about the material he was handling — whether it could have been Nazi hardware — Bush replied: "Impossible. The two topics were clearly separated by that time. All German secrets had been processed and filed away. They were not used as cover for anything else."
 
 ## Promise and Oath of Secrecy
 

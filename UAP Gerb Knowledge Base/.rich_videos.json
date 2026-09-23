@@ -265,5 +265,20 @@
       "wiki-panel"
     ],
     "cues": "verified"
+  },
+  "_sv0Otxtcn4": {
+    "title": "Philip J. Corso - US Army UFO Technology Research & Development",
+    "published": "2025-01-03",
+    "enriched_at": "2026-09-23T12:12:51Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-org-chart",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-callout",
+      "wiki-cue"
+    ],
+    "cues": "verified"
   }
 }
