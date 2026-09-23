@@ -686,15 +686,56 @@ The host identified the three Marines Weygandt names, Staff Sergeant Montil and 
 
 Since Jake Barber's testimony, egg-shaped retrievals have become a popular topic. Barber's craft, though, was a smooth white egg the size of an SUV, while Weygandt's was far larger, with hatches, a circling band of light and gill-like vents. The host sets it beside two historical cases instead:
 
-| | Weygandt, Peru, 1997 | HJ, Camp Polk, 1953 | Collins, Berkeley, 1947 |
-|---|---|---|---|
-| Shape | Egg or teardrop | Egg-shaped ovoid | Oval, "like an egg with the shell cracked" |
-| Size | About 10 m high, 20 m (66 ft) long | As wide as a ranch house: 35–70 ft | 30–40 ft across, about 15 ft high |
-| Surface | Sculpted, shifting purple-green, no shadow | No windows or lights | Polished-aluminium silver; multi-layered honeycomb skin |
-| Around the middle | A light circling the craft until it stopped | A still-rotating fin-like protrusion on the equator | A seam all the way around |
-| Damage | Large gash in the rear | Ground around it burned to powder | Apparent internal explosion; section torn off, gash on top |
-| Occupants | Four-fingered arm at a half-open hatch; four or five sensed | One dead on a stretcher; three living, led out "like children" | None seen; a shiny sphere inside a bulkhead |
-| Recovery | DOE team, armed operators, Chinooks | Special detachment, medics, ambulance | Tarp-covered flatbed backed into a warehouse |
+::wiki-compare{video="7Jc2G5aEH0A" video-title="1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt"}
+---
+caption: "Weygandt's craft beside the two historical egg-shaped retrievals the host chooses as precedents. All three are eggs; the details diverge."
+attributeLabel: "Detail"
+subjects:
+  - name: "Peru UFO Crash Incident"
+    note: "Weygandt, 1997"
+  - name: "1953 Camp Polk UFO Crash Retrieval"
+    note: "HJ, per Stringfield's Status Report III"
+  - name: "Albert Bruce Collins"
+    note: "Berkeley, 1947, per Status Report VI"
+rows:
+  - attribute: "Shape"
+    cue: 5604
+    cells:
+      - { text: "Egg or teardrop", mark: same }
+      - { text: "Egg-shaped ovoid", mark: same, cue: 5660 }
+      - { text: "Oval, \"like an egg with the shell cracked\"", mark: same, cue: 5994 }
+  - attribute: "Size"
+    cells:
+      - "About 10 m high, 20 m (66 ft) long"
+      - { text: "As wide as a ranch house: 35–70 ft", cue: 5698 }
+      - { text: "30–40 ft across, about 15 ft high", cue: 6044 }
+  - attribute: "Surface"
+    cells:
+      - "Sculpted, shifting purple-green, no shadow"
+      - "No windows or lights"
+      - { text: "Polished-aluminium silver; multi-layered honeycomb skin", cue: 6030 }
+  - attribute: "Around the middle"
+    cells:
+      - "A light circling the craft until it stopped"
+      - "A still-rotating fin-like protrusion on the equator"
+      - "A seam all the way around"
+  - attribute: "Damage"
+    cells:
+      - "Large gash in the rear"
+      - "Ground around it burned to powder"
+      - { text: "Apparent internal explosion; section torn off, gash on top", cue: 6013 }
+  - attribute: "Occupants"
+    cells:
+      - "Four-fingered arm at a half-open hatch; four or five sensed"
+      - { text: "One dead on a stretcher; three living, led out \"like children\"", cue: 5751 }
+      - { text: "None seen; a shiny sphere inside a bulkhead", cue: 6030 }
+  - attribute: "Recovery"
+    cells:
+      - "DOE team, armed operators, Chinooks"
+      - "Special detachment, medics, ambulance"
+      - { text: "Tarp-covered flatbed backed into a warehouse", cue: 5970 }
+---
+::
 
 **Camp Polk.** In the [[1953 Camp Polk UFO Crash Retrieval]], from [[Leonard Stringfield]]'s *Status Report III*, a 17-year-old private known as HJ saw an egg crash-land at dusk during maneuvers in July 1953. He got within 15 yards before a Lieutenant Whitting ordered his company back, and the host says he could place a real Lieutenant Whitting at the base. The three living occupants were 3.5 to 4 feet tall and slight, in dull metallic green, and walked as if they had no knees. One kept looking at the body on the stretcher and "made strange noises". HJ later heard that all of them died in isolation and that the bodies went to a medical center near Washington, which the host suggests was Fort Detrick, home of [[Battelle Memorial Institute]]'s biodefense FFRDC. He relates the occupants' lack of response to an anonymous retrieval operator's account of leading occupants out of craft, and to the idea that some are something like biological androids.
 

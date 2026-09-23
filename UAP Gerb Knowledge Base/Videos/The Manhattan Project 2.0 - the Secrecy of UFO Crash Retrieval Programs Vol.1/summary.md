@@ -564,13 +564,43 @@ Near the end the host plays [[David Grusch]] at a space symposium with Jeremy Co
 
 The Manhattan Project cost nearly $24 billion in today's money, employed nearly 130,000 people and ran on a security apparatus the host calls legendary. He boils it down to five pillars and argues each was carried into the Manhattan Project 2.0, usually in a harder form.
 
-| Pillar | In the Manhattan Project | In the Manhattan Project 2.0, as alleged |
-|---|---|---|
-| **Compartmentalization** | Need-to-know read-ins; teams could not share work | Scientists double as accountants and security officers as janitors to keep read-ins minimal |
-| **Organizational architecture** | The mundane Manhattan Engineer District and a short chain from Groves to Marshall | Air Force major commands and today's Rapid Capabilities Office; AFSWP as a bridge |
-| **Physical security** | Guarded sites, but also Chicago Pile-1 under a stadium | AEC and DOE labs hold the craft; programs hide in plain sight behind ordinary doors |
-| **Classification** | Self-censorship, then "born secret" restricted data (1946) | Special nuclear material and TFNI under the 1954 Atomic Energy Act, beyond executive orders |
-| **Political shield** | The Top Policy Group | The NSC, then Eisenhower's 5412 Committee and Nixon's 303 Committee |
+::wiki-compare{video="jR-h5p2bd-A" video-title="The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs [VOL.1]"}
+---
+caption: "The host's five security pillars, and how he argues each was carried into the alleged Manhattan Project 2.0. Each pillar's chip jumps to where his section on it begins; the subsections below take them in turn."
+attributeLabel: "Pillar"
+subjects:
+  - name: "Manhattan Project"
+    note: "The template"
+  - name: "Manhattan Project 2.0"
+    note: "As alleged"
+rows:
+  - attribute: "Compartmentalization"
+    cue: 2332
+    cells:
+      - "Need-to-know read-ins; teams could not share work"
+      - "Scientists double as accountants and security officers as janitors to keep read-ins minimal"
+  - attribute: "Organizational architecture"
+    cue: 2551
+    cells:
+      - "The mundane Manhattan Engineer District and a short chain from Groves to Marshall"
+      - "Air Force major commands and today's Rapid Capabilities Office; AFSWP as a bridge"
+  - attribute: "Physical security"
+    cue: 3439
+    cells:
+      - "Guarded sites, but also Chicago Pile-1 under a stadium"
+      - "AEC and DOE labs hold the craft; programs hide in plain sight behind ordinary doors"
+  - attribute: "Classification"
+    cue: 4034
+    cells:
+      - "Self-censorship, then \"born secret\" restricted data (1946)"
+      - "Special nuclear material and TFNI under the 1954 Atomic Energy Act, beyond executive orders"
+  - attribute: "Political shield"
+    cue: 5075
+    cells:
+      - "The Top Policy Group"
+      - "The NSC, then Eisenhower's 5412 Committee and Nixon's 303 Committee"
+---
+::
 
 ### Compartmentalization
 

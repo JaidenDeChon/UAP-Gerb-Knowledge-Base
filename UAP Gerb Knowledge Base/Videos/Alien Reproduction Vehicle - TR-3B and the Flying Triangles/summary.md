@@ -632,12 +632,37 @@ On the drawing, McDonald asks whether viewers recognise the craft: Fox contracte
 
 In the outro the host untangles craft that are often confused with the TR-3B in images online:
 
-| Craft | Family | Shape | Notes |
-|---|---|---|---|
-| TR-3B (Astra) | Aurora; "tactical reconnaissance" line | Triangle; 200 ft test and 600 ft operational models | Gravity-resistant reverse-engineered craft; three white lights and a diffuse red light, like countless public sightings |
-| TR-3A | Possibly Aurora | More prosaic, with a cockpit | Advanced stealth, electrogravitics or pulse detonation engines; perhaps the Boscombe Down crash |
-| TR-3E | Possibly the TR line | Concave sides between the vertices, fins, a small dome on top | Often a toy model; the host found little evidence and did not cover it |
-| XF-131 Super Sentinel | Separate; Northrop and Lockheed engineers | Smaller, with a near-pyramid top | A large, seemingly manoeuvrable light beneath and three pairs of lights on the sides; closest to the 1999 [[Kirby, England]] sighting |
+::wiki-compare{video="B7JP0uX0GwY" video-title="Alien Reproduction Vehicle - TR-3B and the Flying Triangles"}
+---
+caption: "The four triangles the host separates in his outro. The TR-3A and TR-3E have no pages of their own and appear unlinked."
+attributeLabel: "Craft"
+subjects:
+  - name: "TR-3B"
+    note: "Code name Astra"
+  - "TR-3A"
+  - "TR-3E"
+  - "XF-131 Super Sentinel"
+rows:
+  - attribute: "Family"
+    cells:
+      - { text: "Aurora; \"tactical reconnaissance\" line", cue: 4115 }
+      - { text: "Possibly Aurora", cue: 4144 }
+      - { text: "Possibly the TR line", cue: 4166 }
+      - { text: "Separate; Northrop and Lockheed engineers", cue: 4102 }
+  - attribute: "Shape"
+    cells:
+      - { text: "Triangle; 200 ft test and 600 ft operational models", cue: 4301 }
+      - "More prosaic, with a cockpit"
+      - { text: "Concave sides between the vertices, fins, a small dome on top", cue: 4064 }
+      - "Smaller, with a near-pyramid top"
+  - attribute: "Notes"
+    cells:
+      - "Gravity-resistant reverse-engineered craft; three white lights and a diffuse red light, like countless public sightings"
+      - "Advanced stealth, electrogravitics or pulse detonation engines; perhaps the Boscombe Down crash"
+      - "Often a toy model; the host found little evidence and did not cover it"
+      - { text: "A large, seemingly manoeuvrable light beneath and three pairs of lights on the sides; closest to the 1999 Kirby, England sighting", cue: 4338 }
+---
+::
 
 Fouché also said the "TR" line paralleled the "SR" strategic reconnaissance line, with SR-74 and SR-75 concepts in development in his time. The host finds Fouché's details about DARC, the contractors, the Air Force Flight Test Center records, Redlight and EG&G, [[NEST (Nuclear Emergency Support Team)|NEST]] and TREAT almost more interesting than the craft itself.
 

@@ -95,11 +95,15 @@ Those rules compile to specificity `(0,2,1)` (`.wiki-prose[scope-attr] table`
 and friends). Any component that renders its own `<table>`/`<td>` — for
 structural layout, not tabular prose — inherits visible borders and padding
 it never asked for. `OrgChartNode.vue` is the one component in the kit that
-uses a `<table>` (for the org-chart connector geometry), and it solves this
+uses a `<table>` for layout (the org-chart connector geometry), and it solves this
 by **repeating its own class** to raise specificity above the page's rule,
 e.g. `.ufo-org-cell.ufo-org-cell { border: 0; padding: 0; }` — three
 class-level selectors beats the page's two-class-plus-element rule outright.
 No `!important`, and `[...slug].vue` is left untouched.
+
+`WikiCompare.vue` renders a real data `<table>` but wants its own borders
+and padding, not the page's, so it uses the same pattern
+(`.ufo-cmp-cell.ufo-cmp-cell { border: 0; ... }`).
 
 If you ever build another table-based component, use this same pattern
 (repeat the component's own class on every rule that resets or re-applies a
@@ -532,6 +536,112 @@ entity's vault category, read via `useWikiResolve`; an entry whose `name`
 doesn't resolve shows "Unlinked" there instead and renders its name as plain
 text (see gotcha 2). The spine colour is `tintFor(category)` — see below.
 
+### `::wiki-compare`
+
+Source: `app/app/components/content/WikiCompare.vue` (each value rendered by
+`app/app/components/wiki/CompareCell.vue`, auto-imported as
+`WikiCompareCell` — gotcha 3; normalisation in `app/app/utils/compare.ts`,
+unit-tested in `compare.test.ts`)
+
+A subjects-by-attributes comparison matrix: one column per subject (witness
+accounts, craft, cases, programs), one row per attribute. Use it when a video
+compares 2–5 subjects point by point, where a plain Markdown table would
+otherwise go. It replaces that table; it doesn't sit beside one.
+
+What it adds over a Markdown table:
+
+- **Subject headers are entity links** resolved in one batch
+  (`useWikiResolve`), each header tinted with its category surface and a
+  full-strength 3px top rule. A subject with no page renders as plain text on
+  a neutral header, which is fine for things like "Civilian eyewitnesses".
+- **Agreement markers.** A cell can carry `same`, `differs`, `unknown` or
+  `disputed`. Each renders as a badge with a glyph *and* its word ("Same",
+  "Differs"…), never colour alone; `unknown` is also dashed. The markers
+  actually used are listed in a legend under the matrix.
+- **Cue chips**, on a whole row (where the video discusses that attribute)
+  or on a single cell (where it discusses one subject's value). They reuse
+  `WikiCue` and, as in `::wiki-timeline`, only render when the block has
+  `video=` set.
+- **No sideways scrolling.** Wide containers get a `<table>` with a sticky
+  attribute column. Narrow ones pivot (by container query, so a narrow grid
+  column counts too) into **one card per attribute**, listing each subject's
+  value under it, with the subjects' notes shown once as a key above the
+  cards. The pivot happens at 36rem for 2–3 subjects, 40rem for 4, 48rem
+  for 5 and 56rem for 6 or more, which is before the table would need to
+  scroll. (The proposal sketched one card per *subject*; per attribute keeps
+  each comparison together, which is the point of the component.)
+
+Props:
+
+| Prop | Type | Default | Notes |
+|---|---|---|---|
+| `subjects` | `(string \| { name, note? })[]` | `[]` | YAML body. PLAIN page titles (gotchas 1/2). `note` is a short kicker under the name, e.g. the source and year. A subject with an empty name is dropped along with its column |
+| `rows` | `Row[]` | `[]` | YAML body. See schema below. A row without `attribute` is dropped |
+| `caption` | `string` | `''` | YAML body. Shown under the matrix and used as the table's accessible name |
+| `attributeLabel` | `string` | `''` | YAML body. Small label over the attribute column, e.g. "Point" or "Feature" |
+| `video` | `string` | `''` | Attribute. YouTube id; gates every cue chip |
+| `videoTitle` | `string` | `''` | Attribute, written `video-title`. Forwarded to each `WikiCue` |
+
+Nothing renders unless there is at least one subject and one row.
+
+`Row` schema:
+
+```yaml
+rows:
+  - attribute: "Size"          # required
+    note: "as reported"        # optional small line under the attribute
+    cue: 770                   # optional, the whole row's moment in the video
+    cueApprox: true            # optional; omit for a hand-verified cue
+    cells:                     # one per subject, in subject order
+      - "99.9 ft disc"                          # bare text
+      - { text: "99.9 ft disc", mark: same }    # text + marker
+      - { text: "\"30-something\" ft", mark: differs, cue: 7929 }  # + cue
+      - { mark: unknown }                        # marker alone
+```
+
+Rows are padded (a missing cell renders as "—", read as "Not stated") or
+truncated to the subject count, so a short row never shifts columns.
+
+Worked example (from the 1948 Aztec article):
+
+```mdc
+::wiki-compare{video="QJxbyu-9Tj0" video-title="The 1948 Aztec, New Mexico UFO Crash Retrieval"}
+---
+caption: "The four main versions of the recovery, point by point."
+attributeLabel: "Detail"
+subjects:
+  - name: "Frank Scully"
+    note: "With Silas Newton, 1950"
+  - name: "William Steinman"
+    note: "UFO Crash at Aztec, 1986"
+  - "Civilian eyewitnesses"
+rows:
+  - attribute: "Size"
+    cue: 770
+    cells:
+      - { text: "99.9 ft disc", mark: same }
+      - { text: "99.9 ft disc", mark: same }
+      - { text: "About 100 ft across", mark: same }
+---
+::
+```
+
+Authoring rules:
+
+- **Markers must mean something.** Mark a cell only when the video (or the
+  plain content of the row) makes the agreement or contradiction the point.
+  A row where every cell would say "Differs" needs no markers at all: the
+  Del Rio article's four points are all differences, so it uses row cues and
+  no markers. `disputed` is for a value the video itself contests.
+- **Cues follow the timeline's rule** (gotcha 8): a cue without `cueApprox`
+  claims you read the captions at that second. Mark anything you didn't
+  check with `cueApprox: true`.
+- **Keep cells short.** A cell is a value, not a paragraph; put the argument
+  in the prose around the block.
+- **Not for sparse membership grids** (e.g. thirteen officials by six
+  offices, mostly blank): that is a lookup table, and a `::wiki-figure`
+  around a Markdown table still serves it better.
+
 ### `::wiki-panel` (Tier 1 primitive)
 
 Source: `app/app/components/content/WikiPanel.vue`
@@ -666,8 +776,8 @@ back to rendering plain, unlinked text in that case (see gotcha 2).
 
 Renders a `NuxtLink` tinted by `tintFor(refData.category)` when `refData` is
 present, otherwise a plain `<span>{{ name }}</span>`. This is the shared
-"resolved-or-plain-text" leaf used by `WikiTimeline`, `WikiRoster`, and
-`OrgChartNode`. Lives in `components/wiki/` (not `components/content/`)
+"resolved-or-plain-text" leaf used by `WikiTimeline`, `WikiRoster`,
+`OrgChartNode` and `WikiCompare`. Lives in `components/wiki/` (not `components/content/`)
 because it is never referenced directly from an MDC block — only from other
 components.
 
@@ -676,6 +786,22 @@ components.
 The recursive node renderer behind `::wiki-org-chart` (see gotchas 3 and 4
 above for why it lives where it does and how its `<table>` avoids the
 page's prose table styling).
+
+### `app/app/components/wiki/CompareCell.vue`
+
+Renders one `::wiki-compare` value (text, marker badge, cue chip, or "—"
+for an empty cell), shared by the table and the card layout so the two can't
+drift. With only `mark` set it renders just the badge, which the legend
+uses. Auto-imported as `WikiCompareCell` (gotcha 3).
+
+### `app/app/utils/compare.ts`
+
+`buildCompare(subjects, rows)` normalises the loosely typed YAML into a
+rectangular `{ subjects, rows, marks }` model: trims text, validates markers
+and cues, drops nameless subjects with their column, pads or truncates each
+row to the subject count, and lists the markers used (for the legend).
+`COMPARE_MARK_LABEL` / `COMPARE_MARK_HINT` hold each marker's word and
+one-line meaning.
 
 ### `app/app/components/wiki/WikiTocRail.vue`
 

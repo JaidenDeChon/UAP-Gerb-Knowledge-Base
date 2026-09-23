@@ -737,13 +737,53 @@ Noland's account is the fullest. The disc was about 100 feet across, only 18 to 
 
 ### How the accounts compare
 
-| | Scully / Newton (1950) | Steinman (1986) | Civilian eyewitnesses | Farmington report (1991) |
-|---|---|---|---|---|
-| Size | 99.9 ft disc | 99.9 ft disc | About 100 ft across, 18–20 ft high | "30-something" ft |
-| Occupants | 2 at the panel, 12–14 in the cabin | 2 at the panel, 12 more in the cabin | 2 small charred bodies seen | 4-ft charred humanoids in woven flight suits |
-| Way in | Rod through a punctured porthole | Porthole glass beaten out, then a pole | Fire pole opens a door or walkway | Fiddling with a pencil-sized porthole puncture |
-| Tools that failed | Not described | Torches, diamond drills and saws | Not described | Diamond drills, acetylene torches |
-| Destination | Los Alamos | Los Alamos | Not known to them | Not given |
+::wiki-compare{video="QJxbyu-9Tj0" video-title="The 1948 Aztec, New Mexico UFO Crash Retrieval"}
+---
+caption: "The four main versions of the recovery, point by point. The host notes the Farmington source's smaller craft is the one detail at odds with the rest, and allows that details of more than one crash may have blended together."
+attributeLabel: "Detail"
+subjects:
+  - name: "Frank Scully"
+    note: "With Silas Newton, 1950"
+  - name: "William Steinman"
+    note: "UFO Crash at Aztec, 1986"
+  - name: "Civilian eyewitnesses"
+    note: "Oil-field workers found by the Ramseys"
+  - name: "Farmington report"
+    note: "1991, in Stringfield's status reports"
+rows:
+  - attribute: "Size"
+    cue: 770
+    cells:
+      - { text: "99.9 ft disc", mark: same }
+      - { text: "99.9 ft disc", mark: same }
+      - { text: "About 100 ft across, 18–20 ft high", mark: same }
+      - { text: "\"30-something\" ft", mark: differs, cue: 7929 }
+  - attribute: "Occupants"
+    cells:
+      - "2 at the panel, 12–14 in the cabin"
+      - "2 at the panel, 12 more in the cabin"
+      - { text: "2 small charred bodies seen", cue: 5501 }
+      - { text: "4-ft charred humanoids in woven flight suits", cue: 7935 }
+  - attribute: "Way in"
+    cells:
+      - "Rod through a punctured porthole"
+      - { text: "Porthole glass beaten out, then a pole", cue: 5014 }
+      - { text: "Fire pole opens a door or walkway", cue: 5507 }
+      - { text: "Fiddling with a pencil-sized porthole puncture", cue: 7907 }
+  - attribute: "Tools that failed"
+    cells:
+      - { text: "Not described", mark: unknown }
+      - { text: "Torches, diamond drills and saws", mark: same, cue: 5033 }
+      - { text: "Not described", mark: unknown }
+      - { text: "Diamond drills, acetylene torches", mark: same, cue: 7907 }
+  - attribute: "Destination"
+    cells:
+      - { text: "Los Alamos", mark: same }
+      - { text: "Los Alamos", mark: same }
+      - { text: "Not known to them", mark: unknown }
+      - { text: "Not given", mark: unknown }
+---
+::
 
 ## Sarbacher and Walker: Insiders Found Through the Book
 

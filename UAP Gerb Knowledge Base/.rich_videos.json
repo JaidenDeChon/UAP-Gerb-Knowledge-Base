@@ -52,7 +52,8 @@
       "wiki-org-chart",
       "wiki-roster",
       "wiki-grid",
-      "wiki-panel"
+      "wiki-panel",
+      "wiki-compare"
     ],
     "cues": "verified"
   },
@@ -147,7 +148,8 @@
       "wiki-grid",
       "wiki-panel",
       "wiki-org-chart",
-      "wiki-roster"
+      "wiki-roster",
+      "wiki-compare"
     ],
     "cues": "verified"
   },
@@ -164,7 +166,8 @@
       "wiki-panel",
       "wiki-callout",
       "wiki-cue",
-      "wiki-watch"
+      "wiki-watch",
+      "wiki-compare"
     ],
     "cues": "verified"
   },
@@ -197,7 +200,8 @@
       "wiki-callout",
       "wiki-grid",
       "wiki-panel",
-      "wiki-roster"
+      "wiki-roster",
+      "wiki-compare"
     ],
     "cues": "verified"
   },
@@ -292,7 +296,8 @@
       "wiki-panel",
       "wiki-org-chart",
       "wiki-callout",
-      "wiki-roster"
+      "wiki-roster",
+      "wiki-compare"
     ],
     "cues": "verified"
   },
@@ -437,7 +442,8 @@
       "wiki-grid",
       "wiki-panel",
       "wiki-org-chart",
-      "wiki-roster"
+      "wiki-roster",
+      "wiki-compare"
     ],
     "cues": "verified"
   },

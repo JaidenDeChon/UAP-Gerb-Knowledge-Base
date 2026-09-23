@@ -326,12 +326,38 @@ events:
 
 The host began expecting to cover a single 1950 event. He had assumed that Willingham's story, the MJ-12 entry and the witness [[William Drager]] all described one crash. Reading *The Other Roswell* convinced him otherwise. The confusion is old. [[Leonard Stringfield]]'s crash-retrieval status reports file Drager's testimony under "Del Rio, Texas, 1950", although Drager is plainly describing Willingham's case. Both stories also use Del Rio as their reference point, although the sites are on opposite sides of it.
 
-| Point | El Indio (6 December 1950) | Langtry (spring 1955) |
-|---|---|---|
-| 1. The wreckage | "Totally incinerated", nearly obliterated at high speed | Three major pieces, one half-buried in a sandy mound |
-| 2. The witness's whereabouts | Willingham was in Korea until wounded on 26 December 1950 | Willingham was flying with the Air Force Reserve in Texas |
-| 3. The location | About 75 miles southeast of Del Rio, between El Indio and Guerrero | About 60 miles northwest of Del Rio, across the Rio Grande from Langtry |
-| 4. The radar | Predates the distant early warning systems, which the host dates to 1952 | Willingham says DEW radar in Canada first picked up the object |
+::wiki-compare{video="8S9qdRWSnD8" video-title="The 1950s Del Rio, Texas UFO Crashes"}
+---
+caption: "The host's four points for why the two crashes cannot be one event. Each point's chip jumps to where he makes it."
+attributeLabel: "Point"
+subjects:
+  - name: "1950 El Indio UFO Crash"
+    note: "6 December 1950, per the MJ-12 briefing"
+  - name: "1955 Langtry UFO Crash"
+    note: "Spring 1955, per Willingham"
+rows:
+  - attribute: "1. The wreckage"
+    cue: 1255
+    cells:
+      - "\"Totally incinerated\", nearly obliterated at high speed"
+      - "Three major pieces, one half-buried in a sandy mound"
+  - attribute: "2. The witness's whereabouts"
+    cue: 1266
+    cells:
+      - "Willingham was in Korea until wounded on 26 December 1950"
+      - "Willingham was flying with the Air Force Reserve in Texas"
+  - attribute: "3. The location"
+    cue: 1276
+    cells:
+      - "About 75 miles southeast of Del Rio, between El Indio and Guerrero"
+      - "About 60 miles northwest of Del Rio, across the Rio Grande from Langtry"
+  - attribute: "4. The radar"
+    cue: 1289
+    cells:
+      - "Predates the distant early warning systems, which the host dates to 1952"
+      - "Willingham says DEW radar in Canada first picked up the object"
+---
+::
 
 ## The Colonel Robert Willingham Case (1955)
 

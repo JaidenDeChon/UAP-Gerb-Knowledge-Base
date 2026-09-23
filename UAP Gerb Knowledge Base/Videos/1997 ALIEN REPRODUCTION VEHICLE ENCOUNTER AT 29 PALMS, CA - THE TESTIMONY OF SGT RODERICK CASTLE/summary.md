@@ -522,15 +522,46 @@ Edwards anchors much of the host's wider work. Its main witness there, referred 
 
 According to Air Force Master Sergeant Edgar Fouché, who went public in 1998, the TR-3B flew as a prototype from the early 1970s. By his account, three operational prototypes about 250 feet across were flying by 1994, and there was also a 600-foot operational model. Fouché said the craft was engineered by Lockheed, Boeing, Northrop, Teledyne and Ryan, and managed by the [[NRO (National Reconnaissance Office)|NRO]], [[NSA]] and [[CIA]]. Its [[Magnetic Field Disruptor (MFD)|Magnetic Field Disruptor]] is a mercury-plasma ring, reverse-engineered at [[Sandia National Laboratories]] and [[Lawrence Livermore National Laboratory]], which he said cut the mass of everything inside it by 89 percent, allowing Mach 9 and indefinite loiter. He also said its pilots were top-of-class military aviators from Navy and Air Force schools, which the host links to "Top Gun" at Fallon and to Edwards' test pilots. The host concedes in the outro that Top Gun is a fighter school and that the Navy's test pilot school is at Pax River. Because its propulsion is said to be reverse-engineered, the host classes the TR-3B as an ARV, like the crude but exotic 1988 "Flux Liner" saucers.
 
-| Feature | Castle's triangle (1997) | Fouché's TR-3B |
-|---|---|---|
-| Plan form | Equilateral triangle, rounded corners | Triangle, rounded corners |
-| Size | About 300 ft (200–300 ft range) | About 250 ft prototypes; 600 ft operational model |
-| Corner lights | Embedded orbs, yellow-white-gold, casting no light | Non-flush hydrogen-oxygen vectored rocket engines |
-| Centre of underside | Unlit concave, dome-like section | Circular Magnetic Field Disruptor ring |
-| Edges | Ridges or vents between the lights | Variable vectored intake vents |
-| Finish | Matte, near-Vantablack | Pitch black |
-| Flight | Silent motionless hover, slow rotation, near-instant departure | Mach 9 vertically or horizontally, indefinite loiter |
+::wiki-compare{video="ShoUyC1aip0" video-title="1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE"}
+---
+caption: "Castle's craft beside Fouché's TR-3B. \"Same\" marks the parallels the host draws himself; he calls the edge vents the strongest."
+attributeLabel: "Feature"
+subjects:
+  - name: "Rodrik Castle UAP Encounter"
+    note: "What Castle saw, 1997"
+  - name: "TR-3B"
+    note: "As described by Edgar Fouché"
+rows:
+  - attribute: "Plan form"
+    cells:
+      - { text: "Equilateral triangle, rounded corners", cue: 1090 }
+      - { text: "Triangle, rounded corners", mark: same, cue: 5076 }
+  - attribute: "Size"
+    cells:
+      - { text: "About 300 ft (200–300 ft range)", cue: 1400 }
+      - { text: "About 250 ft prototypes; 600 ft operational model", mark: same, cue: 5034 }
+  - attribute: "Corner lights"
+    cells:
+      - { text: "Embedded orbs, yellow-white-gold, casting no light", cue: 5049 }
+      - { text: "Non-flush hydrogen-oxygen vectored rocket engines", cue: 5062 }
+  - attribute: "Centre of underside"
+    cells:
+      - { text: "Unlit concave, dome-like section", cue: 1317 }
+      - { text: "Circular Magnetic Field Disruptor ring", mark: same, cue: 5089 }
+  - attribute: "Edges"
+    cells:
+      - { text: "Ridges or vents between the lights", cue: 1170 }
+      - { text: "Variable vectored intake vents", mark: same, cue: 5112 }
+  - attribute: "Finish"
+    cells:
+      - "Matte, near-Vantablack"
+      - { text: "Pitch black", mark: same, cue: 5083 }
+  - attribute: "Flight"
+    cells:
+      - { text: "Silent motionless hover, slow rotation, near-instant departure", cue: 1400 }
+      - { text: "Mach 9 vertically or horizontally, indefinite loiter", cue: 4895 }
+---
+::
 
 The host adds that [[Naval Air Station Patuxent River|Pax River]] patents by Salvatore Pais (around 2017) for an inertial-mass-reduction craft also show a triangle with a large concave centre.
 
