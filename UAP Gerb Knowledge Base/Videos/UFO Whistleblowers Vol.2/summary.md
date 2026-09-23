@@ -1,80 +1,433 @@
 ---
 title: "UFO Whistleblowers [Vol.2]"
-date: NA
+date: 2024-05-26
 video_id: 9Xk4X41yl2M
 url: https://www.youtube.com/watch?v=9Xk4X41yl2M
 channel: UAP Gerb
-duration_seconds: 0
+duration_seconds: 1874
 tags:
   - video
   - uap-gerb
 ---
 
+::wiki-stat-strip
+---
+stats:
+  - value: 3
+    label: Whistleblower accounts
+    hint: "Bentley, Goldwater, RB"
+  - value: "177,000 mph"
+    label: Radar-calculated speed
+    hint: "Maryland, May 1958"
+  - value: "40 ft"
+    label: Disc RB guarded
+    hint: "December 1963"
+  - value: "31m"
+    label: Runtime
+---
+::
+
 ## Overview
 
-"UFO Whistleblowers [Vol.2]" is the second entry in UAP Gerb's ongoing series examining lesser-known UAP whistleblowers across history. The video analyzes three distinct storylines: the claims of [[Harland Bentley]], an electrical engineer and Army veteran who alleged he witnessed a UFO crash near a Nike Ajax missile facility in Maryland in 1958; Senator [[Barry Goldwater]]'s documented and publicly stated attempts to access a classified UFO storage room — known as the "[[Blue Room]]" — at [[Wright-Patterson Air Force Base]], where he was angrily refused by General [[Curtis LeMay]]; and the account of a former U.S. Marine known only as "[[RB]]," who claimed in December 1963 he spent two weeks guarding a 40-foot disc-shaped craft of non-human origin at an undisclosed military base. The video frames all three accounts as converging on a common thesis: that the U.S. government has been in possession of recovered non-human craft since at least the early 1950s, and that access to these materials is compartmentalized beyond even the most senior military and political officials.
+"UFO Whistleblowers [Vol.2]" is the second entry in UAP Gerb's series on lesser-known UAP whistleblowers. The host sets them apart from witnesses who testified before Congress, spoke to AARO or signed affidavits, such as [[David Grusch]] and [[Michael Herrera]]. His view is that every whistleblower claim deserves a critical look, sworn or not. The video follows three storylines: the claims of [[Harland Bentley]], an Army radar operator who said he watched a disc strike a Maryland cornfield in May 1958 and fly away; Senator [[Barry Goldwater]]'s repeated, documented failure to get into the room at [[Wright-Patterson Air Force Base]] known as the "[[Blue Room]]," ending with General [[Curtis LeMay]] cursing him out; and the account of "[[RB]]," a Marine Corporal who said he spent two weeks in December 1963 guarding a seamless 40-foot disc in a building on an undisclosed base.
 
-A central thread connecting these accounts is [[Wright-Patterson Air Force Base]], which appears as the probable storage site in both Goldwater's testimony and RB's account. The video draws on archival letters compiled by researcher [[Leonard Stringfield]], a 1953 AFOSI document recording [[Ralph Brown]]'s statement about three recovered flying saucers held at Wright-Patterson, a FOIA response confirming the destruction of Blue Room film materials in 1965, and research by aerospace historian [[Michael Schratt]], who accessed Stringfield's personal archives to reconstruct RB's full account. A secondary thread investigates [[Steven Greer]]'s Disclosure Project connection to an alleged uncut NASA film of six UFOs descending onto the lunar surface, purportedly filmed by astronaut [[Frank Borman]] during Apollo 8 in 1968.
+The storylines come with very different evidence. Bentley's rests on his own word, with his military and education records unverified. The host sets it beside two better-documented 1958 Maryland cases near Nike missile sites. Goldwater's rests on his own letters and a 1975 interview. It is backed by a 1953 [[Air Force Office of Special Investigations]] document about saucers at Wright-Patterson and a 1991 FOIA reply saying Blue Room film was destroyed in 1965. RB's account comes down through a chain of researchers, from [[Michael Johnstone]] to [[Leonard Stringfield]] to [[Michael Schratt]]. The host suggests the building RB guarded may be the room Goldwater was barred from.
 
-## Harland Bentley
+A long tangent follows Bentley's claim that he overheard an Apollo 8 encounter into [[Steven Greer]]'s [[Disclosure Project]] files. There a separate witness claimed to have seen an uncut NASA film of six UFOs descending to the Moon. By working through Greer's 2009 notes and emails, the host identifies that source as [[Alain Boudier]], who then led the French aerospace society's UAP commission and acted as courier for Greer's briefing documents to French President [[Nicholas Sarkozy]].
 
-Harland F. Bentley claimed an electrical engineering degree and graduate work in nuclear engineering, and served as a private first class in the U.S. Army as a radar operator at a Nike Ajax missile facility north of Washington, D.C., near Olney, Maryland — likely either Site W-92 (Gaithersburg) or W-93 (Olney). Bentley first appeared publicly in Steven Greer's 2001 [[Disclosure Project]]. UAP Gerb was unable to verify Bentley's military or education records, requiring his claims to be evaluated on their own merit.
+## Chronology
 
-At 6:00 a.m. in May 1958, Bentley claimed to observe a disc-shaped craft — roughly 30 feet in diameter, with circular ball-like pulsating lights cycling between orange, red, and white, and a cake-like structure on top — collide with the ground in a nearby cornfield approximately 2,000 yards away and immediately take off again. Metallic debris was left behind, including a washing machine-sized piece glowing white hot. [[US Air Force]] personnel in radiation protection suits arrived with long poles and a lead-lined truck to collect the material. The following evening, a nearby Gaithersburg facility reported 12 to 15 UFOs hovering 50 to 100 feet off the ground in varying shapes. These were tracked on M-33 radar; all signatures departed simultaneously at a calculated speed exceeding 177,000 mph. A presiding general debriefed the men, attributing the contacts to Navy-Army-Air Force maneuver training exercises — an explanation unsupported by any documentation.
+::wiki-timeline{video="9Xk4X41yl2M" video-title="UFO Whistleblowers [Vol.2]"}
+---
+help: "The ruler pinned above the entries spans 1953 to 2015. Each tick is an entry, coloured by category and taller for major ones; click the ruler to jump to the nearest. The video moves between its three storylines rather than through the calendar, so while it plays the video marker jumps back and forth along the ruler. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Every timestamp here was checked against the captions."
+events:
+  - date: "1953-04-27"
+    title: "AFOSI records Ralph Brown's Wright-Patterson saucer claim"
+    cue: 1152
+    summary: "An Air Force Office of Special Investigations document records Captain Plandowski interviewing Master Sergeant Ralph Brown, who relayed that a redacted man had told him Wright-Patterson held three flying saucers, one damaged and two functional, along with the bodies of their pilots. The video cites it to show such rumours about Wright-Patterson long predate Goldwater's inquiries."
+    category: document
+    significance: major
+    entities:
+      - "Ralph Brown"
+      - "Air Force Office of Special Investigations"
+      - "Wright-Patterson Air Force Base"
+  - date: "1954"
+    title: "Hermann Oberth lectures on flying-saucer speeds"
+    cue: 399
+    summary: "Rocketry pioneer Hermann Oberth gave a lecture on flying saucers describing recorded speeds of 19 km/s (about 42,000 mph). The video raises it as a point of comparison for the speed calculated at Bentley's site."
+    category: event
+    significance: minor
+    entities:
+      - "Hermann Oberth"
+  - date: "1958-05"
+    title: "Bentley sees a disc strike a cornfield and fly off"
+    cue: 199
+    summary: "At 6:00 a.m. at a Nike Ajax missile site near Olney, Maryland, radar operator Harland Bentley claimed he heard a sound like a pulsating transformer and saw a wobbling, 30-foot disc with pulsing orange, red and white lights hit a cornfield about 2,000 yards away, then take off again, shearing thick tree limbs. US Air Force personnel in radiation suits allegedly gathered the debris, including a white-hot piece the size of a washing machine, with long poles onto a lead-lined truck."
+    category: event
+    significance: major
+    entities:
+      - "Harland Bentley"
+      - "US Air Force"
+  - date: "1958-05"
+    title: "12 to 15 objects tracked leaving at over 177,000 mph"
+    cue: 347
+    summary: "The next evening, around 10 to 11 p.m., a nearby Gaithersburg Nike site reported 12 to 15 objects of varying shapes hovering 50 to 100 feet up, making the same pulsating sound. Bentley's site watched the blips on its M-33 radar until all of them left in one sweep; an analog computer put their speed above 177,000 mph. A presiding general reportedly told the men they had seen helicopters on joint Navy-Army-Air Force manoeuvres."
+    category: event
+    significance: major
+    entities:
+      - "Harland Bentley"
+  - date: "1958-09-29"
+    title: "Teardrop object lands near Nike site W-93"
+    cue: 519
+    summary: "At 5:30 a.m. Private Jerome A. Scanland, walking back from his sentry post at the W-93 Nike Ajax site, heard a humming sound and saw a luminous green, teardrop-shaped object come in over the trees, slicing branches, and land about 1.5 miles away before rising out of sight. He and a sergeant found broken branches and scorched earth. The Air Force explanation was repair trucks welding."
+    category: event
+    significance: notable
+  - date: "1958-10"
+    title: "Loch Raven Reservoir encounter"
+    cue: 452
+    summary: "Less than 50 miles from Olney and 3.5 miles from Nike site BA-3, Alvin Cohen and Philip Small's car stalled near a 100-foot egg-shaped object hovering over the Loch Raven bridge. A beam of white light made their faces hot before the object rose out of sight after a dull explosion; both were treated for sunburn. The case is in Project Blue Book and J. Allen Hynek's The UFO Experience."
+    category: event
+    significance: notable
+    entities:
+      - "J. Allen Hynek"
+  - date: "1958-12-23"
+    title: "Evening Sun mentions captured saucers"
+    cue: 434
+    summary: "The only contemporary trace the host could find for Bentley's year: a passing mention in Baltimore's Evening Sun of the US Air Force capturing at least two flying saucers."
+    category: document
+    significance: minor
+  - date: "c. 1963"
+    title: "Goldwater tries to see inside the Wright-Patterson building"
+    cue: 1118
+    summary: "By his own 1975 letter, Senator Barry Goldwater made his effort to find out what was stored in a building at Wright-Patterson about ten or twelve years earlier, which the host dates to the early 1960s, perhaps 1963. He was denied."
+    category: event
+    significance: notable
+    entities:
+      - "Barry Goldwater"
+      - "Wright-Patterson Air Force Base"
+      - "Blue Room"
+  - date: "1963-12"
+    title: "RB guards a 40-foot disc for two weeks"
+    cue: 1374
+    summary: "Marine Corporal RB, holding an interim Top Secret clearance, was allegedly flown three hours in a windowless plane from Cherry Point, North Carolina, to guard a large metal building on an undisclosed base that held a seamless 40-foot disc. He watched drills, torches and a high-powered laser fail to breach its hull."
+    category: event
+    significance: major
+    entities:
+      - "RB"
+      - "United States Marine Corps"
+      - "Cherry Point, North Carolina Marine Corps Air Station"
+  - date: "1965-09-09"
+    title: "Blue Room film destroyed"
+    cue: 1270
+    summary: "In reply to a 1991 FOIA request from Brian Parks, USAF Colonel Eddie L. Anderson said material relating to a Blue Room, in this case a film, had been destroyed on 9 September 1965. The host notes the timing, close to Goldwater's request."
+    category: document
+    significance: major
+    entities:
+      - "Blue Room"
+      - "Brian Parks"
+      - "Eddie L. Anderson"
+  - date: "1965-12"
+    title: "Borman reports a 'bogey' from Gemini 7"
+    cue: 747
+    summary: "Astronaut Frank Borman's report of a 'bogey' during Gemini 7, which the media treated as a UFO sighting and Borman himself attributed to the rocket's own booster."
+    category: event
+    significance: minor
+    entities:
+      - "Frank Borman"
+      - "NASA"
+  - date: "1968-12"
+    title: "Bentley overhears an Apollo 8 'bogey'"
+    cue: 573
+    summary: "Doing classified NASA contract work in California, Bentley claimed he overheard Houston and the crew of a lunar mission, which the host takes to be Apollo 8, discuss a 'bogey coming in at 11:00.' After avoidance was approved, the crew said a saucer-like craft with portals was paralleling their course, with movement visible inside, before it left. The one man with him told him he had not heard anything."
+    category: event
+    significance: notable
+    entities:
+      - "Harland Bentley"
+      - "NASA"
+  - date: "1968-12"
+    title: "Alleged uncut Apollo 8 film of six UFOs"
+    cue: 729
+    summary: "A redacted Disclosure Project witness, numbered 101179, claimed to have seen the official, uncut NASA film of six UFOs descending onto the lunar surface, taken by Frank Borman during Apollo 8. The host found no other reference to such a film."
+    category: document
+    significance: notable
+    entities:
+      - "Frank Borman"
+      - "Disclosure Project"
+      - "Alain Boudier"
+  - date: "1974-12-03"
+    title: "Goldwater to Stringfield: 'I was denied this request'"
+    cue: 1055
+    summary: "Writing to researcher Leonard Stringfield, Goldwater said he had tried to get into the room at Wright-Patterson where the information was stored and had been refused."
+    category: document
+    significance: notable
+    entities:
+      - "Barry Goldwater"
+      - "Leonard Stringfield"
+  - date: "1975"
+    title: "Goldwater's interview and the call to LeMay"
+    cue: 972
+    summary: "In a 1975 interview Goldwater said he thought the government knew and that certain places at Wright-Patterson held what the Air Force knew about UFOs. He described phoning General Curtis LeMay to ask about the room; LeMay, whom he had never seen angry, cursed him out and told him never to ask again."
+    category: event
+    significance: major
+    entities:
+      - "Barry Goldwater"
+      - "Curtis LeMay"
+      - "Wright-Patterson Air Force Base"
+  - date: "1975-03-28"
+    title: "Goldwater: 'Above Top Secret'"
+    cue: 1106
+    summary: "To an unknown researcher, Goldwater wrote that his earlier request to learn what was in the Wright-Patterson building had been 'understandably denied' and that it remained classified Above Top Secret."
+    category: document
+    significance: notable
+    entities:
+      - "Barry Goldwater"
+  - date: "1981-10-19"
+    title: "Goldwater to Lee Graham on the Blue Room"
+    cue: 1083
+    summary: "Goldwater told researcher Lee Graham he knew of no one with access to the Blue Room, was unaware of its contents or of anything being relocated, and that the subject had become so highly classified it was impossible to get anything on it."
+    category: document
+    significance: notable
+    entities:
+      - "Barry Goldwater"
+      - "Lee Graham"
+      - "Blue Room"
+  - date: "c. 1983"
+    title: "RB's photograph lost in a flood"
+    cue: 1542
+    summary: "The image RB said he took of the craft with a small German pocket camera was reportedly lost in a flood around 1983."
+    category: event
+    significance: minor
+    entities:
+      - "RB"
+  - date: "1986"
+    title: "Michael Johnstone interviews RB"
+    cue: 1701
+    summary: "Researcher Michael B. Johnstone interviewed RB, then in his late forties, and connected him with Leonard Stringfield, who published the case as 'Marine Guards a Disc-Shaped Vehicle, 1963' in UFO Crash/Retrieval Status Report 5."
+    category: document
+    significance: notable
+    entities:
+      - "Michael Johnstone"
+      - "RB"
+      - "Leonard Stringfield"
+  - date: "2001"
+    title: "Bentley goes public through the Disclosure Project"
+    cue: 128
+    summary: "Harland Bentley first told his story publicly through Steven Greer's Disclosure Project. The host could not verify his military, education or contract records."
+    category: event
+    significance: notable
+    entities:
+      - "Harland Bentley"
+      - "Steven Greer"
+      - "Disclosure Project"
+  - date: "c. 2000s"
+    title: "Schratt opens Stringfield's archives"
+    cue: 1345
+    summary: "Aerospace historian and CAD artist Michael Schratt was given access to the late Stringfield's personal archives, held by MUFON in Cincinnati, and found the Stringfield-Johnstone letters holding RB's full story."
+    category: document
+    significance: notable
+    entities:
+      - "Michael Schratt"
+      - "Leonard Stringfield"
+      - "MUFON"
+  - date: "2009-02-24"
+    title: "Greer's first note on source 'AB'"
+    cue: 826
+    summary: "Greer's handwritten note on the witness labelled AB, who was travelling from France with a high-profile French astronaut, covers hoaxes, truth and redacted names of trustworthy and untrustworthy people. NASA comes up only when AB asks whether it can be trusted."
+    category: document
+    significance: notable
+    entities:
+      - "Steven Greer"
+      - "Alain Boudier"
+  - date: "2009-02-28"
+    title: "Source forwards an L'Express article on NASA's next chief"
+    cue: 855
+    summary: "The source sent Greer an article from France's L'Express on the White House's search for a new NASA administrator, referencing Charles Bolden and his four Space Shuttle flights."
+    category: document
+    significance: minor
+    entities:
+      - "Charles Bolden"
+      - "Steven Greer"
+  - date: "2009-03"
+    title: "Greer's briefing documents for Sarkozy"
+    cue: 886
+    summary: "An early March 2009 email chain from Greer about sending briefing documents to French President Nicolas Sarkozy names 'Source One', A. Boudier, as the courier, which let the host identify the source."
+    category: document
+    significance: major
+    entities:
+      - "Steven Greer"
+      - "Alain Boudier"
+      - "Nicholas Sarkozy"
+      - "3af-p (French national aeronautical and astronautical Association UAP division)"
+  - date: "2015"
+    title: "Schratt re-interviews Johnstone"
+    cue: 1583
+    summary: "Michael Schratt interviewed Michael Johnstone about RB, adding the details the video uses."
+    category: event
+    significance: minor
+    entities:
+      - "Michael Schratt"
+      - "Michael Johnstone"
+      - "RB"
+---
+::
 
-Bentley also claimed that while doing classified NASA contracting work in California around 1967–1968, he overheard Houston Mission Control communicate with the Apollo 8 crew about a "bogey coming in at 11:00." The crew requested and received permission to perform collision avoidance. The craft was described as saucer-like, paralleling the capsule, with visible portals and internal movement suggesting occupants. A colleague immediately told Bentley: "You did not hear anything." UAP Gerb finds these claims interesting but cautious, particularly given their connection to a separate investigation of a Greer-linked Apollo 8 film allegation.
+## Harland Bentley and the 1958 Nike Ajax crash
 
-## The Blue Room and Barry Goldwater
+Harland F. Bentley said his electrical engineering degree and graduate work in nuclear engineering led to classified work for several government agencies. As a private first class in the US Army, he was a radar operator at a Nike Ajax surface-to-air missile site just north of Washington, D.C., near Olney, Maryland, from 1957 to 1959. The host narrows this to two candidate sites: W-92 at Gaithersburg, now surrounded by suburban development, and W-93 north of Olney, now a FEMA federal support center. Bentley first went public through Greer's Disclosure Project in 2001. The host stresses that he could not verify any of Bentley's military, education or contract records, so the story has to be judged on its own merits.
 
-Senator [[Barry Goldwater]] (R-AZ) served as a Major General in the USAF Reserve and as a five-term U.S. Senator (1953–1965, 1969–1987). Despite his seniority and high-level security clearances, Goldwater was denied access to a classified facility at [[Wright-Patterson Air Force Base]] known as the "Blue Room," alleged to house recovered UFO materials and non-human bodies. The video presents multiple documentary sources on this:
+At 6:00 a.m. one day in May 1958, Bentley said, he heard a sound like a pulsating transformer, which the host compares to what Michael Herrera described in 2009. He saw a disc hit a civilian cornfield about 2,000 yards away and immediately take off again. The craft was roughly 30 feet across and saucer-like, with ball-like lights around the rim pulsing orange, red and white, and a cake-like structure on top. It was "wobbling" before impact, and as it left it sheared through thick tree limbs like a knife, which the host likens to [[Jonathan Weygandt]]'s 1997 Peru account. The host notes he has never heard of another crashed UFO flying away. [[US Air Force]] personnel in radiation suits arrived, lifting the scattered debris with long poles onto a lead-lined truck. One piece, the size of a washing machine, glowed white-hot.
 
-- A **December 3, 1974 letter** to [[Leonard Stringfield]], acknowledging he was "denied" access to "the room at Wright-Patterson field where the information was stored."
-- An **October 19, 1981 letter** to [[Lee Graham]], stating he knew of no one with access to the Blue Room and that the subject was "impossible to get anything on" due to classification.
-- A **March 28, 1975 letter** to an unknown researcher, describing materials as classified "Above Top Secret."
-- A **1975 public interview**, in which Goldwater stated: "I think the government does know. I can't back that up, but I think that at Wright-Patterson field, if you could get into certain places, you'd find out what the Air Force and the government knows about UFOs."
+Bentley called that the boring part. Between 10 and 11 p.m. the next evening, the Gaithersburg site phoned to report 12 to 15 objects of different shapes, some saucer-like, hovering 50 to 100 feet up. When the other site's operator held his headset out of the van window, Bentley heard the same pulsating sound. On the M-33 radar sweep, Bentley's crew watched every signature leave in a single sweep. Worked out on an analog computer, that meant speeds above 177,000 mph. The host sets this against [[Hermann Oberth]]'s 1954 lecture citing recorded saucer speeds of about 42,000 mph. A presiding general debriefed the men and told them the contacts were helicopters on joint Navy, Army and Air Force manoeuvres.
 
-Goldwater described calling General [[Curtis LeMay]] directly to request entry. LeMay grew angry and told him, "Don't ever ask me that question again."
+The host found no record of the May 1958 events. The nearest thing is a passing mention in Baltimore's *Evening Sun* on 23 December 1958 of the Air Force capturing at least two saucers. He does lay out two other cases from Maryland that year:
 
-A **1953 AFOSI document** records Captain [[Plandowski]] interviewing Master Sergeant [[Ralph Brown]], who relayed that Wright-Patterson held three flying saucers — one damaged, two functional — and the bodies of their pilots, indicating these rumors predated Goldwater's inquiries. A 1991 FOIA request by researcher [[Brian Parks]] produced a response from USAF Colonel [[Eddie L. Anderson]] confirming that Blue Room-related film materials were destroyed on September 9, 1965 — around the time of Goldwater's requests and during LeMay's tenure as Air Force Chief of Staff.
+::wiki-grid{cols=3}
+::wiki-panel{title="Bentley, May 1958" tone="accent"}
+Near Olney, at dawn. A pulsating sound, then a wobbling 30-foot disc hits a cornfield and flies off, shearing tree limbs. Debris is collected by men in radiation suits. The next night, 12 to 15 objects leave the radar sweep at once. **Source:** Bentley alone, unverified.
+::
+::wiki-panel{title="Nike site W-93, 29 Sep 1958"}
+At 5:30 a.m. Private Jerome A. Scanland hears a humming sound and sees a luminous green teardrop come in at about 30 mph, slicing branches, and land 1.5 miles away. He and a sergeant find broken branches and scorched earth. **Official explanation:** repair trucks welding.
+::
+::wiki-panel{title="Loch Raven Reservoir, Oct 1958"}
+At 10:30 p.m., 3.5 miles from Nike site BA-3, Alvin Cohen and Philip Small's car stalls beneath a 100-foot egg-shaped object hovering over the bridge. A white beam heats their faces, and both are treated for sunburn. **Source:** Project Blue Book; [[J. Allen Hynek]]'s *The UFO Experience*.
+::
+::
 
-The 1999 MUFON UFO Journal is also cited placing LeMay at James Conley Air Force Base during a close encounter between an F-89J Scorpion aircraft and a 30-foot UFO that departed vertically after a near-collision.
+The sound, the sliced branches and the nearby Nike sites are what the host sees as connecting Bentley's story to the documented cases.
 
-## RB: The Marine Who Guarded a Disc
+## The Apollo 8 threads
 
-The most detailed account in the video comes from a source identified only as "[[RB]]," a former U.S. Marine Corporal who served from 1960 to 1966 as a weapons technician. His story appears in [[Leonard Stringfield]]'s *UFO Crash/Retrieval Status Report 5* under the case title "Marine Guards a Disc-Shaped Vehicle, 1963." UFO researcher [[Michael Johnstone]] initially arranged the connection between Stringfield and RB. Aerospace historian [[Michael Schratt]] was later granted access to Stringfield's personal archives at [[MUFON]] in Cincinnati and reconstructed the full account, interviewing Johnstone again in 2015.
+Bentley also said that in 1967 or 1968, doing classified NASA contract work in California, he overheard Houston talking to astronauts "doing a loop around the moon." The host concludes this must have been Apollo 8, the first crewed mission to orbit the Moon. Bentley said he heard "the bogey coming in at 11:00." The crew asked permission for collision avoidance, got it, then reported that a saucer-like craft was paralleling their course, with portals, and movement visible inside. The crew took photographs before it left. The only other person present told Bentley, "You did not hear anything." For context, the host plays the December 1965 Gemini 7 exchange in which [[Frank Borman]] reported a "bogey." Borman later said it was the rocket's own spent booster.
 
-In December 1963, RB boarded a windowless plane at Cherry Point, North Carolina Marine Corps Air Station and was flown approximately three hours to an undisclosed location — a range that plausibly includes Wright-Patterson. The building housed a craft described as:
+Looking into Apollo 8 led the host to a separate claim in Greer's files. The two claims share a mission and nothing else:
 
-- 40 feet in diameter, totally symmetrical, with an ooid cross-section
-- Silverish, resembling polished aluminum
-- Completely seamless except for a hatch-like seam on the lower surface so tight "you could not get a razor blade in the crack"
-- Elevated five feet off the ground on scaffolding, surrounded by three to four other guards
-- No visible landing gear, fins, or propulsion system
-- Apparent smoked-glass windows spaced one foot apart around the rim, opaque even at close range
+::wiki-grid{cols=2}
+::wiki-panel{title="Bentley: the overheard transmission"}
+- **What:** live, unedited audio of Houston and the crew discussing a saucer-like craft paralleling the capsule
+- **Witness:** Bentley, doing NASA contract work in California
+- **Trail:** none beyond Bentley's own account
+::
+::wiki-panel{title="Witness 101179: the uncut film" tone="accent"}
+- **What:** the official, uncut NASA film of six UFOs descending onto the lunar surface, said to have been taken by Frank Borman on Apollo 8
+- **Witness:** a redacted "individual in government" on Greer's list
+- **Trail:** Greer's 2009 notes and emails, which lead to a named French source
+::
+::
 
-A technical crew was attempting to gain entry. Drilling and torch cutting near the hatch left the hull undamaged: "Metal got hot under the torch but when it cooled you could wipe off the soot and the surface remained clean and undamaged." A high-powered laser powered by two semi-sized generator vans deflected completely off the craft and damaged the ceiling. Civilian scientists made references to "aliens," leading RB to conclude the craft was not of human origin.
+Greer's files show the source travelling from France, to be joined by a high-profile French astronaut, with a phone call set for late February 2009 and a meeting for April. Greer's handwritten note of 24 February 2009 labels the witness "AB." It covers hoaxes, truth, and redacted names of trustworthy and untrustworthy people. NASA comes up only when AB asks whether the agency can be trusted, and Greer answers that most NASA employees know nothing. On 28 February the source forwarded an article from France's *L'Express* on the White House's search for a new NASA administrator, which names [[Charles Bolden]] and his four Space Shuttle flights. The host wonders whether Bolden was one of the NASA pilots redacted in Greer's notes. Then, in an early March 2009 email chain about sending briefing documents to French President Nicolas Sarkozy, Greer names his "Source One," A. Boudier, as the man carrying them. From that the host identified the source as Alain Boudier, who was leading the UAP commission of the Association Aéronautique et Astronautique de France ([[3af-p (French national aeronautical and astronautical Association UAP division)|3AF-PAN]]) at the time. The video spells the name "Elaine Boder"; the 3AF's own records give Alain Boudier. The host says he has written to Boudier and has found no other reference anywhere to the alleged film.
 
-Access was controlled by a color-coded badge system — different colors allowed access to designated sections; a red badge conferred total access. A white-taped circle surrounding the craft could not be crossed by any unauthorized person, including USAF generals. RB personally stopped the Secretary of the Navy from crossing this perimeter.
+## Barry Goldwater and the Blue Room
 
-RB photographed the craft with a small German pocket camera. The image was lost in a flood around 1983. On one occasion, he observed the craft being placed on a flatbed trailer for transport to another base. Secondhand accounts described recovered non-human bodies approximately 39 inches tall with no thumbs, stored in an underground base in a western U.S. state. Upon leaving the Marines, RB signed a security oath carrying a ten-year prison sentence and $110,000 fine for violations.
+Barry Goldwater was a major general in the Air Force Reserve, senator for Arizona from 1953 to 1965 and again from 1969 to 1987, and the 1964 Republican presidential nominee. In a 1975 interview he said he believed the government knew about UFOs, and that "if you could get into certain places" at Wright-Patterson you would find out what the Air Force knew. He described calling Curtis LeMay to ask about the room where the secret material was kept. LeMay, whom he had never seen angry, cursed him out and told him never to ask that question again. The host sets this beside LeMay's post-war demand that the Air Force be allowed to develop with "no ceilings, no boundaries." He also notes a July 1999 *MUFON UFO Journal* article placing LeMay at an Air Force base during a near-collision between an F-89J Scorpion and a 30-foot object with four blue-white lights, which then shot away vertically.
 
-RB is believed to correspond to redacted witness number 10138 on Greer's Disclosure Project witness list. He has never gone public with his account or sought to profit from it. The video suggests RB's facility may be the same location Goldwater was denied access to — the Blue Room.
+Goldwater's letters, compiled by Stringfield, show his interest over several years:
 
-## Greer's Network and the Apollo 8 Film Allegation
+- **3 December 1974**, to Leonard Stringfield: he had tried to get into the room at Wright-Patterson "where the information was stored" and was denied.
+- **28 March 1975**, to an unknown researcher: ten or twelve years earlier (the early 1960s, perhaps 1963, the host notes) he had tried to learn what was in the building, was "understandably denied," and it was still classified Above Top Secret.
+- **19 October 1981**, to researcher [[Lee Graham]]: he knew of no one with access to the Blue Room, did not know its contents or of anything being relocated, and found the subject impossible to get anything on.
 
-A witness listed as number 101179 on Greer's Disclosure Project archive — labeled "AB" in Greer's notes — claimed to have seen an uncut NASA film depicting six UFOs descending onto the lunar surface, taken by astronaut [[Frank Borman]] during Apollo 8 in 1968. Greer's emails show the source was traveling from France accompanied by a high-profile French astronaut; contact was planned for April 2009 following late February phone communications.
+Two documents suggest the rumours and the secrecy were older than Goldwater's requests. A 27 April 1953 AFOSI record has Captain Plandowski interviewing Master Sergeant [[Ralph Brown]], who relayed that Wright-Patterson held three flying saucers, one damaged and two functional, along with the bodies of their pilots. In 1991, answering a FOIA request from [[Brian Parks]], USAF Colonel [[Eddie L. Anderson]] said material relating to a Blue Room, in this case a film, had been destroyed on 9 September 1965. The host notes this was close to the time of Goldwater's request.
 
-UAP Gerb identified "AB" as [[Elaine Boder]], at that time president of the French national aeronautical and astronautical Association UAP division ([[3af-p (French national aeronautical and astronautical Association UAP division)|3af-p]]). Greer's emails from early March 2009 reference the transmission of UAP briefing documents to French President [[Nicholas Sarkozy]], with Boder as courier ("Source One"). A French article forwarded by Boder mentioned [[Charles Bolden]] as a NASA administrator candidate and referenced other NASA pilots whose identities remain redacted in Greer's notes.
+## RB: the Marine who guarded a disc
 
-Frank Borman's December 1965 "bogey" report during Gemini 7 — which Borman himself attributed to the rocket's spent booster — is presented as context. UAP Gerb treats the Bentley overheard-communication claim and the Greer/Boder film claim as parallel but distinct, unverified threads warranting further investigation.
+The host says he cannot verify RB's claims, or even who he is, but includes the story for how well it fits Goldwater's account. RB served in the Marines from 1960 to 1966 as a weapons technician, reaching Corporal, with an interim Top Secret clearance. For two weeks in December 1963 he was one of the guards on a large metal building on an undisclosed military base. To get there he flew about three hours in a windowless plane from [[Cherry Point, North Carolina Marine Corps Air Station]], a range the host notes takes in Wright-Patterson. A redacted name numbered 10138 on Greer's witness list appears to be RB.
+
+The account reached the public through a chain of researchers:
+
+::wiki-org-chart
+---
+root:
+  name: RB
+  label: The source
+  note: "Former Marine Corporal who guarded the disc in December 1963; has never gone public or sought money from the story."
+  children:
+    - name: Disclosure Project
+      label: Witness list, entry 10138
+      note: "A redacted name the host matches to RB; no documents reveal his identity."
+    - name: Michael Johnstone
+      label: Interviewed RB, 1986
+      note: "Put RB in touch with Stringfield; RB was in his late forties at the time."
+      children:
+        - name: Leonard Stringfield
+          label: Published the case
+          note: "'Marine Guards a Disc-Shaped Vehicle, 1963', in UFO Crash/Retrieval Status Report 5."
+          children:
+            - name: MUFON
+              label: Holds Stringfield's archives
+              note: "His personal papers, kept at MUFON in Cincinnati."
+              children:
+                - name: Michael Schratt
+                  label: Reconstructed the full account
+                  note: "Found the Stringfield-Johnstone letters in the 2000s and re-interviewed Johnstone in 2015."
+---
+::
+
+What RB described falls into three parts: the craft itself, the failed efforts to get inside it, and the security around it.
+
+::wiki-grid{cols=3}
+::wiki-panel{title="The craft"}
+- 40 feet across, totally symmetrical, with an [[Ooid Cross-Section|ooid cross-section]]; almost hamburger-shaped
+- Silvery, like polished aluminium
+- [[Seamless Craft Hull|Seamless]] apart from a hatch-like seam underneath, so tight "you could not get a razor blade in the crack"
+- No landing gear, fins or propulsion
+- Smoked-glass "windows" a foot apart around the rim, opaque even up close
+- Raised 5 feet on scaffolding
+::
+::wiki-panel{title="Trying to get in" tone="accent"}
+- Drills and cutting torches at the hatch: the metal grew hot, but once cool the soot wiped off and the surface was undamaged
+- A high-powered laser fed by two semi-trailer-sized generator vans: the beam deflected off the hull and damaged the ceiling
+- Civilian scientists spoke of "aliens," so RB concluded the craft was not human-made
+::
+::wiki-panel{title="Security"}
+- [[Color-Coded Security Badges|Colour-coded badges]] for colour-coded areas; engineers and scientists reached only their own sections, and a red badge gave total access
+- A [[White Taped Circle Restricted Zone|white-taped circle]] not even Air Force generals could cross; RB stopped the Secretary of the Navy at it
+- Three or four other guards on duty
+- A [[Security Oath|security oath]] on leaving the Marines: ten years in prison and a $110,000 fine
+::
+::
+
+RB said he photographed the craft with a small German pocket camera. According to Schratt, RB's wife did not believe the story until she saw the picture. It was reportedly lost in a flood around 1983. The host notes that a photo which turns up and is then lost is usually a red flag, but gives it a pass here until he knows more. One day RB arrived to find the craft on a flatbed trailer, being moved between bases for "security reasons." He never claimed to have seen bodies, but he had heard second-hand stories of beings about 39 inches tall, with no thumbs, kept in an underground base in a western state. The host says he may have a lead on RB's name and hopes to reach him, possibly with Schratt's help, while RB is still alive.
+
+## Key Figures
+
+::wiki-roster
+---
+entries:
+  - name: Harland Bentley
+    role: Army radar operator; electrical engineer
+    note: "Said he saw a disc hit a Maryland cornfield and fly off in May 1958, then overheard an Apollo 8 'bogey' while doing NASA contract work. His records could not be verified."
+  - name: Barry Goldwater
+    role: US senator for Arizona; USAF Reserve major general
+    note: "Tried and failed to get into the Wright-Patterson room where UFO material was said to be kept, and said so in letters from 1974 to 1981 and in a 1975 interview."
+  - name: Curtis LeMay
+    role: US Air Force general
+    note: "Cursed Goldwater out when he asked about the room and told him never to ask again."
+  - name: RB
+    role: Former Marine Corporal, weapons technician
+    note: "Allegedly guarded a seamless 40-foot disc for two weeks in December 1963 and watched torches and a laser fail to cut it."
+  - name: Leonard Stringfield
+    role: Crash-retrieval researcher
+    note: "Received Goldwater's 1974 letter and published RB's case in his Status Report 5; the host calls his reports a bible of sorts."
+  - name: Michael Schratt
+    role: Aerospace historian and CAD artist
+    note: "Rebuilt RB's full account from Stringfield's archives at MUFON and re-interviewed Michael Johnstone in 2015."
+  - name: Steven Greer
+    role: Founder of the Disclosure Project
+    note: "His witness list holds Bentley, RB (10138) and the Apollo 8 film witness (101179); his 2009 notes and emails led the host to the film source."
+  - name: Alain Boudier
+    role: President of the 3AF UAP commission
+    note: "Identified by the host as Greer's 'AB' and 'Source One,' who carried Greer's briefing documents toward Nicolas Sarkozy in 2009."
+---
+::
 
 ## Key Claims
 
 - In May 1958, Harland Bentley claimed to witness a disc-shaped craft crash and regain flight near a Nike Ajax missile site in Maryland; USAF personnel in radiation suits collected debris.
 - Bentley's facility tracked 12 to 15 UFOs departing simultaneously at a calculated speed exceeding 177,000 mph via M-33 radar.
 - Bentley claimed to overhear Houston Mission Control and Apollo 8 astronauts discuss a saucer-like craft paralleling their trajectory with visible portals and internal movement.
-- Disclosure Project witness 101179, identified by UAP Gerb as Elaine Boder, claimed to have seen an uncut NASA film of six UFOs descending onto the lunar surface, filmed by Frank Borman during Apollo 8 in 1968.
-- Greer coordinated UAP briefing documents to French President Nicholas Sarkozy via Boder around early March 2009.
+- Two other 1958 Maryland cases near Nike missile sites (W-93 on 29 September, Loch Raven Reservoir in October) are offered as context: both describe a close object, and the W-93 case includes sliced branches and scorched earth.
+- Disclosure Project witness 101179, identified by UAP Gerb as Alain Boudier (spoken in the video as "Elaine Boder"), claimed to have seen an uncut NASA film of six UFOs descending onto the lunar surface, filmed by Frank Borman during Apollo 8 in 1968.
+- Greer's early March 2009 emails name Boudier ("Source One") as the courier of UAP briefing documents to French President Nicolas Sarkozy.
 - Barry Goldwater stated publicly in 1975 that he believed the U.S. government knew about UFOs and that classified materials were stored at Wright-Patterson, described as classified "Above Top Secret."
 - General Curtis LeMay angrily refused Goldwater's request to access the Blue Room and ordered him never to raise the subject again.
 - A 1953 AFOSI document records Master Sergeant Ralph Brown stating Wright-Patterson held three recovered flying saucers and the bodies of their pilots.
@@ -89,11 +442,11 @@ Frank Borman's December 1965 "bogey" report during Gemini 7 — which Borman him
 ## Sources
 
 - [YouTube](https://www.youtube.com/watch?v=9Xk4X41yl2M) — UAP Gerb
+- The host recommends [[Ryan S. Wood]]'s *Majic Eyes Only* and Leonard Stringfield's *UFO Crash/Retrieval Status Reports* 1 to 7 as his crash-retrieval references. He names microbiologist Dan Bish and Project Aquarius as possible future subjects.
 
 ## Related Pages
 
-- **People**: [[Harland Bentley]], [[Barry Goldwater]], [[Curtis LeMay]], [[RB]], [[Leonard Stringfield]], [[Michael Schratt]], [[Michael Johnstone]], [[Steven Greer]], [[Frank Borman]], [[Elaine Boder]], [[Nicholas Sarkozy]], [[Ralph Brown]], [[Brian Parks]], [[Eddie L. Anderson]], [[Plandowski]], [[Lee Graham]], [[Charles Bolden]], [[Ryan S. Wood]], [[Dan Bish]]
+- **People**: [[Harland Bentley]], [[Barry Goldwater]], [[Curtis LeMay]], [[RB]], [[Leonard Stringfield]], [[Michael Schratt]], [[Michael Johnstone]], [[Steven Greer]], [[Frank Borman]], [[Alain Boudier]], [[Nicholas Sarkozy]], [[Ralph Brown]], [[Brian Parks]], [[Eddie L. Anderson]], [[Lee Graham]], [[Charles Bolden]], [[Hermann Oberth]], [[J. Allen Hynek]], [[Jonathan Weygandt]], [[Ryan S. Wood]], [[David Grusch]], [[Michael Herrera]]
 - **Organizations**: [[US Air Force]], [[United States Marine Corps]], [[Air Force Office of Special Investigations]], [[NASA]], [[Disclosure Project]], [[3af-p (French national aeronautical and astronautical Association UAP division)]], [[MUFON]]
-- **Locations**: [[Wright-Patterson Air Force Base]]
-- **Concepts**: [[Blue Room]], [[Color-Coded Security Badges]], [[Seamless Craft Hull]], [[White Taped Circle Restricted Zone]], [[Ooid Cross-Section]], [[Security Oath]], [[Above Top Secret Classification]], [[UAP Whistleblowers]], [[Crash Retrieval]]
-- **Operations**: [[Project Aquarius]]
+- **Locations**: [[Wright-Patterson Air Force Base]], [[Cherry Point, North Carolina Marine Corps Air Station]]
+- **Concepts**: [[Blue Room]], [[Color-Coded Security Badges]], [[Seamless Craft Hull]], [[White Taped Circle Restricted Zone]], [[Ooid Cross-Section]], [[Security Oath]], [[Crash Retrieval]]

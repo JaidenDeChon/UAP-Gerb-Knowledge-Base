@@ -8,6 +8,7 @@ tags:
 # People MOC
 
 - [[AJ Hartley]]
+- [[Alain Boudier]]
 - [[Alan Cranston]]
 - [[Albert Bruce Collins]]
 - [[Aleister Crowley]]
@@ -116,7 +117,6 @@ tags:
 - [[Edward J. Ruppelt]]
 - [[Edward Nugent]]
 - [[Einstein]]
-- [[Elaine Boder]]
 - [[Elaine Douglas]]
 - [[Enrico Fermi]]
 - [[Eric A. Walker]]
@@ -244,6 +244,7 @@ tags:
 - [[Ralph Brown]]
 - [[Randall G. Walden]]
 - [[Randy Anderson]]
+- [[RB]]
 - [[Raymond Fowler]]
 - [[Representative Moskowitz]]
 - [[Richard B. Landolt]]
