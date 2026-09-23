@@ -9,7 +9,7 @@ The 1976 Tehran UFO Incident was a major military UFO encounter that occurred on
 
 ## The Encounter
 
-During the incident, Major Parviz Jafari was vectored toward a large UAP. As he approached, an orb-like object detached from the main craft. Major Jafari's aircraft avionics were severely disrupted — his weapons control panel went offline when he attempted to fire an AIM-9 Sidewinder missile at the approaching orb, and communications were jammed. The electromagnetic effects ceased when the orb returned to the primary object.
+During the incident, Major [[Parviz Jafari]] was vectored toward a large UAP. As he approached, an orb-like object detached from the main craft. Major Jafari's aircraft avionics were severely disrupted — his weapons control panel went offline when he attempted to fire an AIM-9 Sidewinder missile at the approaching orb, and communications were jammed. The electromagnetic effects ceased when the orb returned to the primary object.
 
 The encounter involved sustained observation of the UAP by multiple trained military observers, ground radar confirmation, and electromagnetic interference with military aircraft systems — characteristics that made it one of the most compelling military UFO cases of the 1970s.
 

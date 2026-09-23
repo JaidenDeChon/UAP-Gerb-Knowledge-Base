@@ -2,8 +2,8 @@
 title: "The Physics of UFOs– Dr. Kevin Knuth"
 video_id: inyw4Vfu7Z0
 url: https://www.youtube.com/watch?v=inyw4Vfu7Z0
-date: NA
-duration_seconds: 0
+date: 2024-03-10
+duration_seconds: 1295
 channel: UAP Gerb
 tags:
   - transcript

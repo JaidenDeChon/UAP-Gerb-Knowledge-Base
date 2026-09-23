@@ -9,7 +9,7 @@ James McCampbell is a UAP researcher associated with documenting electromagnetic
 
 ## Research on Electromagnetic Effects
 
-McCampbell's work, particularly the [[1983 McCampbell UFO Case]], documented the electromagnetic field strengths required for UFOs to disable vehicle electrical systems. His analysis established that:
+McCampbell's work, cited in UAP Gerb's video as "the 1983 McCampbell case", documented the electromagnetic field strengths required for UFOs to disable vehicle electrical systems. His analysis established that:
 
 - **Electric fields of approximately 3×10⁶ volts per meter** are required to ionize air and short out spark plugs and distributor cams in gasoline engines
 - Small UFOs generating such fields would require several coulombs of charge
@@ -31,7 +31,7 @@ The research suggests electromagnetic interference may not be an intentional eff
 
 The electromagnetic effects documented by McCampbell align with patterns observed in numerous UAP cases:
 
-- **[[1976 Tehran UFO Incident]]** — [[Major Jafari]]'s F-4 avionics failed when approaching the craft
+- **[[1976 Tehran UFO Incident]]** — [[Parviz Jafari|Major Jafari]]'s F-4 avionics failed when approaching the craft
 - **[[1987 HMNZS Southland USO Incident]]** — Complete ship power drain when USO passed beneath hull
 - **Vehicle interference cases** — Widespread reports of car engines and radios failing near UFOs
 
