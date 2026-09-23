@@ -184,5 +184,21 @@
       "wiki-watch"
     ],
     "cues": "verified"
+  },
+  "7Jc2G5aEH0A": {
+    "title": "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt",
+    "published": "2025-05-16",
+    "enriched_at": "2026-09-23T10:45:57Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-org-chart",
+      "wiki-watch",
+      "wiki-callout",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-roster"
+    ],
+    "cues": "verified"
   }
 }

@@ -70,7 +70,7 @@ The Coyame case is notable for:
 - Its listing by the [[UAP Caucus]] as a case to bring before Congress
 - A corroborating newspaper article from *El Heraldo de Chihuahua* (October 27, 1974) located by Mexican UFO researcher [[Alfonso Salazar]], reporting the death of a group of Mexican soldiers in what was described as a "military transport" crash — two months after the alleged incident
 - Its references in [[MJ-12 Documents]] research and [[IPU]] summary reports
-- Parallels with the [[1997 Peru UFO Crash Retrieval]] involving [[Jonathan Weygandt]]
+- Parallels with the [[Peru UFO Crash Incident|1997 Peru UFO Crash Retrieval]] involving [[Jonathan Weygandt]]
 
 The case is frequently referred to as "Mexico's Roswell" and represents one of the most extensively documented alleged UAP crash retrievals outside the United States.
 

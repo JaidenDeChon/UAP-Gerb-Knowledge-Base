@@ -12,7 +12,7 @@ The US Army 7th Special Forces Group (Airborne) is a special forces unit of the 
 The 7th Special Forces Group has an extensive history of foreign internal defense, counterdrug, and training missions throughout Central and South America. Notable deployments include:
 
 - **[[Operation Snow Cap]]** — A [[Drug Enforcement Administration|DEA]] counter-narcotics operation across nine Latin American countries, conducted alongside US Navy SEALs
-- **[[Operation Laser Strike]]** — [[US SOUTHCOM]] authorized up to 14 special forces counterdrug deployments to [[Peru]] during 1997, with the 7th SFG conducting riverine training and security operations alongside the [[MARFORLAND Riverine Training Team]] in [[Iquitos, Peru]]
+- **[[Operation Laser Strike]]** — [[US SOUTHCOM]] authorized up to 14 special forces counterdrug deployments to [[Peru]] during 1997, with the 7th SFG conducting riverine training and security operations alongside the [[MARFORLANT Riverine Training Team|MARFORLAND Riverine Training Team]] in [[Iquitos, Peru]]
 - **1995 Peru-Ecuador Border Dispute** — The 7th SFG operated alongside the [[1st Battalion 228th Aviation Regiment]] from [[Joint Task Force Bravo]] in northern Peru
 
 ## Alleged UAP Involvement

@@ -32,7 +32,7 @@ The operational model described by Sharp and corroborated by alleged historical 
 3. **Retrieval**: JSOC or specialized military units perform physical recovery with hazmat protocols
 4. **Transfer**: Objects are moved "fairly quickly into private hands" (aerospace contractors, national laboratories) to minimize military documentation
 
-This model is consistent with patterns observed in the [[1974 Coyame, Mexico UFO Crash Retrieval]] and the [[1997 Peru UFO Crash Retrieval]].
+This model is consistent with patterns observed in the [[1974 Coyame, Mexico UFO Crash Retrieval]] and the [[Peru UFO Crash Incident|1997 Peru UFO Crash Retrieval]].
 
 ## Sources
 

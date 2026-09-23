@@ -1,398 +1,779 @@
 ---
 title: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt"
-date: NA
+date: 2025-05-16
 video_id: 7Jc2G5aEH0A
 url: https://www.youtube.com/watch?v=7Jc2G5aEH0A
 channel: UAP Gerb
-duration_seconds: 0
+duration_seconds: 7062
 tags:
   - video
   - uap-gerb
 ---
 
-## Summary
-This video presents a comprehensive investigative analysis of Jonathan Weygandt's (variously spelled Wagant/Wayan) testimony about a UAP crash retrieval he allegedly witnessed in 1997 during Operation Laser Strike in the Peruvian jungle, where he and fellow Marines encountered a large egg-shaped craft embedded in a granite cliff face, dripping an unknown viscous liquid, and emitting electromagnetic anomalies. The host, UAP Gerb, examines Weygandt's original 2000 tape testimony recorded with Steven Greer — alleging Greer edited out key details including a description of a four-fingered arm visible in the craft's hatch — alongside a 2023 podcast appearance with Martin Willis, cross-referencing both against corroborating cases including a 1953 Camp Polk egg-shaped craft incident and testimony from former Marine Michael Herrera. The video presents original investigative work including travel time analysis placing the crash site within a 90-mile radius of Iquitos, Peru, identification and contact of named personnel (Sergeants Allen, Atkins, and Montil), and a theory that DOE Nuclear Emergency Support Team personnel arrived via CH-47 Chinooks within 15–20 minutes of the Marines, suggesting a pre-positioned rapid reaction retrieval unit. The host concludes that Weygandt's account is among the most credible and detailed UAP crash retrieval testimonies on record and announces plans for an in-person interview with Weygandt.
+::wiki-stat-strip
+---
+stats:
+  - value: "45,000"
+    label: Aircraft tracked
+    hint: "By Laser Strike radar, Apr 1996–Apr 1997"
+  - value: "10 × 20 m"
+    label: Size of the craft
+    hint: "Buried at 45° in a ~200 ft ridge"
+  - value: "~30"
+    label: DOE personnel
+    hint: "In MOPP gear and 'DOE' jackets"
+  - value: "15–20 min"
+    label: Marines' time at the craft
+    hint: "Before the armed men intercepted them"
+  - value: "~9 h"
+    label: Window to deploy
+    hint: "Host's estimate for the retrieval team"
+  - value: "~90 mi"
+    label: Crash radius from Iquitos
+    hint: "Host's estimate, ±25%"
+  - value: "Up to 2 days"
+    label: Held underground
+    hint: "Then 3 weeks kept apart"
+  - value: "1h58m"
+    label: Runtime
+---
+::
 
-## People
-- [[Jonathan Weygandt]] — Claimed to have encountered a crashed egg-shaped UFO and DOE retrieval team during Operation Laser Strike in Peru in 1997
-- [[Steven Greer]] — Published Wagant's original 2000 tape testimony, though allegedly edited out key details including a description of a four-fingered arm
-- [[Martin Willis]] — Interviewed Jonathan Wagant in 2023 about his UFO encounter
-- [[James Fox]] — Asked questions during the 2000 tape recording that were cut from the published interview
-- [[UAP Gerb]] — Host conducting comprehensive analysis of Wagant's testimony and planning an in-person interview
-- [[Jonathan Wgant]] — Claims to have been part of a team sent to secure a crash site of an unidentified craft in the jungle, circa 1997
-- [[Sergeant Allen]] — Was among those who informed Wgant of the downed aircraft and accompanied him to the crash site
-- [[Sergeant Atkins]] — Accompanied Wgant and Allen to the crash site and was among the first to observe the embedded craft
-- [[Staff Sergeant Montgre]] — Approached Wgant during guard duty to inform him of the downed aircraft situation
-- [[Air Force Colonel]] — Allegedly entered a command center approximately 30 minutes after operators discussed unusual aerial objects and confiscated flight log books
-- [[Michael Herrera]] — Referenced for similar testimony about a guitar amplifier-like sound emanating from an octagonal alien reproduction vehicle
-- [[Leslie]] — Referenced as someone Wagant previously shared parts of his testimony with, apparently connected to Steven Greer
-- [[Jake Barber]] — Mentioned in relation to 2025 discussions about psionics and UAP control mechanisms
-- [[Whitley Strieber]] — Referenced in relation to the classic gray alien depiction on the cover of his book Communion
-- [[Philip J. Corso]] — Referenced as a historical source on UAP control mechanisms dating back to the 1950s
-- [[Allen]] — One of the Marines present during the incident who was stripped of gear by unknown operators
-- [[Allan Atkins]] — One of the Marines present during the incident who was stripped of gear by unknown operators
-- [[Allan Atkins]] — One of the Marines Wagant was unable to contact during his 3-week sequestration
-- [[Leonard Stringfield]] — Referenced in relation to information about 'Blue Boys' rapid retrieval and transport helicopter units
-- [[Gayla Biles]] — Named by Wagant as personnel at Ikitos Detachment 5; contacted by researcher for investigation
-- [[Randall Rothman]] — Named by Wagant as personnel at Ikitos Detachment 5; contacted by researcher
-- [[Robert Macau]] — Named by Wagant as personnel at Ikitos Detachment 5; contacted by researcher
-- [[Sergeant Montil]] — Directly named by Wagant as knowing about the crash site
-- [[David Grusch]] — Referenced as a parallel case where witness credibility was attacked via health condition claims
-- [[HJ]] — Witnessed an egg-shaped craft crash land at Camp Polk, Louisiana in July 1953 while serving as a private in B Company
-- [[Lieutenant Whitting]] — Ordered Company B to withdraw from the crash site at Camp Polk; verified as having been present at the base at that time
-- [[Sergeant RS]] — Commanded the unit under which HJ served during the Camp Polk incident in 1953
-- [[Albert Bruce Collins]] — Claimed to have observed a UAP on a flatbed trailer at UC Berkeley in 1947 and studied metal of unknown origin in an official capacity
-- [[Tim Cooper]] — Primary researcher who received Majestic 12 document drops in the 1980s and interviewed Collins before his death
-- [[Harry B. Cooper]] — Father of Tim Cooper, received a special citation for work on the USAF UFO program
-- [[Ryan Wood]] — Collaborated on a Majestic 12 project and referenced Tim Cooper's father's citation
-- [[Jonathan Wayan]] — Claims to have encountered a downed non-human craft during Operation Laser Strike in Peru; left Marines in 1998 after admitting to controlled substance use
-- [[Larry Maguire]] — Reportedly wrote to Canada's Minister of Defense requesting information about UAP retrieval teams connected to Five Eyes projects
-- [[Nathan]] — Dismissed Michael Herrera's UAP testimony by claiming Herrera was mentally unstable due to habits like lifting weights and spending time alone
-- [[Brad S]] — Referenced as someone who sent the researcher death threats, contrasted with a cooperative Marine contact
-- [[Montgre]] — One of the Marines Jonathan Wayan claimed to have served with during Laser Strike; retired with a prestigious USMC career
+## Overview
 
-## Organizations
-- [[United States Marine Corps]] — Wagant served as Lance Corporal and was involved in perimeter security during the encounter
-- [[Department of Energy]] — Alleged DOE retrieval team was present at the UFO crash site wearing MOPP gear and hazmat suits
-- [[RGH UFOs]] — Independent researchers who conducted 2023 investigative work into Wagant's case
-- [[TAGOM]] — Independent researchers who conducted 2023 investigative work into Wagant's case alongside RGH UFOs
-- [[US Air Force]] — An Air Force colonel allegedly confiscated radar tracking log books containing data on anomalous aerial objects
-- [[Peruvian Air Force]] — Suspected by Wagant to have used Hawk missile systems to down the craft
-- [[MAC G28]] — Marine unit to which Jonathan Wagant and the other witnesses belonged
-- [[United States Marine Corps]] — Branch of service of the primary witnesses at the incident site
-- [[US Army]] — Unknown operators appeared to be Army-affiliated, arriving in CH47 helicopters with no insignia
-- [[Skywatchers]] — Group mentioned in connection with 2025 discussions about psionics and UAP
-- [[Criminal Investigation Division]] — Referenced as MAC G28 CID, allegedly made Wagant's life difficult after the incident
-- [[National Nuclear Security Administration]] — Parent organization of the Nuclear Emergency Support Team, created in 1974
-- [[CIA]] — Referenced as monitoring a UFO from the Gulf of Mexico in the 1974 Coyame, Mexico crash retrieval case and mobilizing a rapid recovery unit
-- [[US Air Force]] — Referenced in connection with Blue Berets at the 1965 Kecksburg crash and a rapid response unit at the 1953 Kingman, Arizona crash
-- [[Nuclear Emergency Support Team]] — Formerly known unit under the DOE/NNSA, its creation in 1974 is noted as relevant to the origins of the DOE team seen in Peru
-- [[US Special Forces Detachment 5]] — Suspected base of operations in Iquitos, Peru; believed to be the radar installation where Wagant was stationed
-- [[NAMRU-6 (NAMRU South)]] — Navy Medical Research Unit located in Iquitos, Peru; one of three significant US installations at the location
-- [[MARFORLAND Riverine Training Team]] — US Marine Forces unit stationed at Iquitos, Peru, relevant to the operational context of the incident
-- [[Department of Energy]] — DOE personnel arrived at the crash site as part of what appears to be a rapid retrieval team
-- [[US Army 7th Special Forces Group]] — Suspected identity of the armed men in black camouflage who secured the crash site; historically operated in northern Peru
-- [[Joint Task Force Bravo]] — Contains the 1st Battalion 228th Aviation Regiment; historically conducted US SOUTHCOM missions in northern Peru
-- [[NRO (National Reconnaissance Office)]] — Believed to manage DSP satellites that may have provided advanced warning to the retrieval team
-- [[US SOUTHCOM]] — Conducted historical missions in northern Peru during the 1995 Peru-Ecuador border dispute
-- [[1st Battalion 228th Aviation Regiment]] — Part of Joint Task Force Bravo; operated CH-47 helicopters involved in the crash site retrieval
-- [[NAMRU (Naval Medical Research Unit)]] — Network of US Navy biomedical research labs conducting R&D on infectious diseases and biodefense; theorized as possible holding/quarantine location for Wagant
-- [[Navy Medical Research Command]] — Parent command overseeing NAMRU installations conducting biomedical research for Navy and Marine Corps
-- [[USAF 649th Combat Logistics Support Squadron]] — Unit associated with personnel named in connection with Ikitos Detachment 5
-- [[United States Marine Corps]] — Branch Wagant served in; also relevant to Hawk missile battery usage history
-- [[US Marine Forces South (MARFORLAND)]] — Riverine training team located near Ikitos, relevant to theorized crash location proximity
-- [[Department of Energy  NES Team]] — Referenced as having a clandestine mission that conflicted with the MAC G28 Marines' activities at the crash site
-- [[US Army 24th Infantry]] — Unit in which witness HJ served at the time of the 1953 Camp Polk egg-shaped craft incident
-- [[Battel Memorial Institute]] — Manages the National Biodefense Analysis and Countermeasure Center FFRDC at Fort Detrick
-- [[RAND Corporation]] — Claimed by Collins to be one of multiple agencies involved in technologies of unknown origin research, founded in 1948
-- [[CIA]] — Alleged by Collins to be among agencies involved in UAP-related technology research around 1949
-- [[US Navy]] — Alleged by Collins to be among agencies involved in technologies of unknown origin research
-- [[Vatican]] — Alleged by Collins to be one of the agencies aware of or involved in technologies of unknown origin research around 1949
-- [[University of California, Berkeley]] — Location where Collins claimed to have observed a UAP on a flatbed trailer in 1947
-- [[7th Army Green Berets]] — Theorized by researcher as the special forces unit in black camouflage who arrived on scene first before the CH-47s
-- [[United States Marine Corps]] — Jonathan Wayan's branch of service; Marines Atkins, Allen, and Montgre all had long careers there
-- [[160th Special Operations Aviation Regiment|Nightstalkers (160th SOAR)]] — Referenced as a unit capable of airlifting craft, speculated to have assisted in recovery of the non-human craft
-- [[Five Eyes]] — Intelligence alliance referenced in context of multinational UAP retrieval teams; Larry Maguire cited Five Eyes projects in his letter to Canada's Minister of Defense
-- [[Office of Naval Research]] — Speculated destination for the recovered UAP craft
-- [[NAMRU South (Naval Medical Research Unit South)]] — Theorized as the location where Wayan was held and possibly where materials or liquid were transferred
-- [[NEST (Nuclear Emergency Support Team)]] — Suspected team that responded to Wayan's contact with non-human fluid and oversaw his isolation
-- [[JSOC (Joint Special Operations Command)]] — Speculated to have a dedicated retrieval team stationed in South America for UAP recovery
-- [[7th Special Forces Group]] — Referenced in context of special forces history in northern Peru
-- [[Marforland Training Team]] — Referenced in connection with special forces presence in the region
-- [[Raider Detachment 5]] — Military detachment the narrator is investigating to verify Marine presence during the incident
+This video is UAP Gerb's full re-examination of the testimony of [[Jonathan Weygandt]], a former US Marine lance corporal who says that in March or April 1997, while deployed to Peru for the classified counter-narcotics [[Operation Laser Strike]], he came upon a crashed non-human craft and the team sent to retrieve it. Sent with a handful of [[Marine Air Control Group 28]] Marines to secure what they were told was a downed, "possibly friendly" aircraft, Weygandt found a massive metallic egg buried in a jungle ridge. It was dripping a syrupy liquid and had a four-fingered arm hanging from a half-open hatch. He and his sergeants were then held at gunpoint by unmarked, black-clad operators, while about 30 people in "DOE" rain jackets and protective suits marched down to the craft. Weygandt, soaked in the liquid, was stripped, flown away, interrogated and threatened for up to two days, and made to sign two secrecy forms. The event is catalogued here as the [[Peru UFO Crash Incident]].
 
-## Concepts
-- [[UFO Crash Retrieval]] — The process by which government or military teams recover downed non-human craft; Wagant's case is considered one of the most detailed firsthand accounts.
-- [[MOPP Gear (Mission-Oriented Protective Posture)]] — Military protective equipment including gas masks and rubber suits worn by retrieval personnel at the crash site.
-- [[Light Absorption]] — The craft allegedly did not cast a shadow and appeared to absorb sunlight rather than reflect it, a reported anomalous physical property.
-- [[Organic Craft Appearance]] — The crashed object appeared sculpted rather than machined, with a purplish-green viscous liquid dripping from it, described as seeming almost alive.
-- [[Egg-Shaped UFO]] — The specific morphology of the craft Wagant claimed to have encountered, a recurring shape in some UFO crash retrieval reports.
-- [[Non-Human Remains]] — Wagant reportedly described a four-fingered arm visible through a recessed hall in the crashed craft, a detail omitted from the published 2000 testimony.
-- [[Radar Tracking of UAPs]] — Anomalous objects were allegedly tracked on radar and their flight data logged, with logs subsequently confiscated by military personnel.
-- [[Atmospheric Re-entry and Rapid Maneuver]] — Objects were observed re-entering the atmosphere, stopping instantaneously, and reversing direction — maneuvers inconsistent with conventional aircraft or meteors.
-- [[No Shadow Casting]] — The recovered craft allegedly did not cast a shadow despite direct sunlight, described as a highly anomalous physical property.
-- [[Crash Site Retrieval  Crash Recovery]] — Military personnel were deployed to locate and secure the site of a downed unidentified craft, framed initially as a possibly friendly aircraft.
-- [[Suppression of UAP Evidence]] — Flight log books containing tracks of anomalous objects were allegedly confiscated by an Air Force officer to prevent knowledge of the tracking from spreading.
-- [[Mother of Pearl Effect]] — A color-shifting phenomenon observed on the craft's surface, similar to gasoline on water or soap bubbles, sometimes making the craft nearly translucent.
-- [[MIM-23 Hawk Missile]] — A surface-to-air missile system capable of conventional and air burst fragmentation rounds; suspected weapon used to down the non-human craft.
-- [[Air Burst Fragmentation]] — A missile detonation method where the round explodes near a target rather than on impact, dispersing shrapnel to damage vehicles or personnel.
-- [[Alien Reproduction Vehicle (ARV)]] — A term referencing craft that appear to replicate non-human technology; Michael Herrera described an octagonal version emitting similar sounds.
-- [[Alien Reproduction Vehicle (ARV)]] — A term used to describe a craft allegedly reverse-engineered from non-human technology; Michael Herrera reportedly described the same sound emanating from one.
-- [[Telepathic Communication]] — Wagant reported feeling that non-human entities inside the craft were projecting thoughts and emotions directly into his mind.
-- [[Gray Aliens]] — A commonly described type of non-human entity characterized by an oval egg-shaped head; Wagant reported seeing beings matching this description projected into his thoughts.
-- [[Electromagnetic Interference]] — Compasses and communications equipment ceased functioning normally in proximity to the crashed craft.
-- [[Force Shield]] — A phenomenon observed by Wagant on the craft's surface that he could not identify, possibly a field or energy barrier.
-- [[Crash Retrieval]] — The recovery or investigation of a non-human craft that has crashed; the core event described in Wagant's testimony.
-- [[Gill-like Vents]] — Large vents on the side of the crashed craft described by Wagant as similar to fish gills, speculated to be propulsion-related.
-- [[Psionics]] — The concept of controlling craft or communicating via thought or consciousness; discussed in 2025 UAP testimony and allegedly evidenced as early as 2000 in Wagant's account
-- [[Consciousness-Controlled Craft]] — The idea that UAP are controlled via thought or consciousness rather than conventional mechanical interfaces, referenced back to 1950s testimonies
-- BDUs (Battle Dress Uniform) — Military fatigues; the unknown operators wore all-black BDUs with no insignia or identification
-- [[Non-Human Intelligence Projection]] — The entities reportedly projected thoughts or mental imagery to communicate their intentions and appearance to Wagant
-- [[Secrecy Agreements  NDAs]] — Standard security forms Wagant was forced to sign asserting he saw nothing; backed by death threats.
-- [[Witness Intimidation]] — Clandestine operators threatened Wagant and his family with death to secure his silence about the retrieval.
-- [[Crash Retrieval Operation]] — A clandestine operation involving at least 30 personnel in biological containment suits recovering a downed UAP.
-- [[Missing Time  Psychological Trauma]] — Wagant experienced nightmares, missing time, and weird dreams after witnessing the crash, symptoms not present before the event.
-- [[Unauthorized Clandestine Program]] — Operators explicitly stated they operated outside constitutional authority and standard military chain of command.
-- [[UAP Crash Retrieval]] — The process of locating, securing, and recovering unidentified aerial phenomena that have crashed; described as involving rapid, highly organized military and government teams.
-- [[Rapid Reaction Recovery Unit]] — A highly organized and mobile team capable of deploying to a UAP crash site within hours to secure and contain it.
-- [[Mission-Oriented Protective Posture (MOPP) Gear]] — Military hazmat suits used for protection against chemical, biological, radiological, and nuclear threats; worn by personnel at the described crash site.
-- [[Signals Intelligence (SIGINT)]] — Referenced as a possible means by which the DOE was alerted to the UAP crash in Peru, potentially tracking it after it was targeted by Peruvian missile batteries.
-- [[Blue Berets]] — A USAF unit allegedly on-site for the 1965 Kecksburg, Pennsylvania crash retrieval, cited as an example of dedicated UFO recovery units.
-- [[Blue Boys]] — Rapid retrieval and transport helicopter units referenced by Leonard Stringfield in connection with UFO crash recoveries.
-- [[Deep Submergence Rescue Vehicle]] — Referenced in connection with Project Sand Dollar as an example of rapid deployable recovery assets, deployable anywhere in the world within 72 hours.
-- [[Containment Breach]] — A scenario in which toxic materials, gas, or liquid from a downed UAP are released, requiring hazmat response; documented in the Coyame, Mexico case.
-- Hasty Landing Zone (LZ) — An improvised or quickly established landing area for helicopters, used by the recovery team arriving at the Peruvian crash site.
-- [[Rapid Reaction Retrieval Team]] — A pre-positioned or rapidly deployed team of DOE personnel and armed soldiers that secured the UAP crash site within 15-20 minutes of Marines arriving.
-- [[DSP Satellite Advanced Warning]] — The hypothesis that NRO-managed Defense Support Program satellites detected the crash and gave the retrieval team approximately one hour of advance notice.
-- [[Narcotics Traffic Monitoring]] — The stated mission of the radar detachment in Iquitos was tracking drug transport routes from Bolivia through northern Peru.
-- [[Dead Reckoning  Timeline Reconstruction]] — The analyst uses travel times, vehicle speeds, and hiking rates to estimate the crash site location within a 90-mile radius of Iquitos.
-- [[QuarantineHolding Protocol]] — Theoretical procedure of isolating military personnel exposed to possibly toxic materials from a non-human craft.
-- [[Hawk MIM-23 Missile Battery]] — Surface-to-air missile system theorized by Wagant to have possibly downed the egg-shaped craft; phased out of US forces in 1994, Marine Corps usage until 2002.
-- [[Classification Restrictions]] — Legal and operational constraints preventing military personnel from discussing details of classified operations like Laser Strike.
-- [[Egg-Shaped Craft]] — The unidentified vehicle allegedly encountered and observed by Wagant and several sergeants at the crash site.
-- [[Biodefense Research]] — One of NAMRU's core research missions, relevant to why it is theorized as a quarantine site for exposure to unknown materials.
-- [[Ballistic and Fragging Pattern Analysis]] — Damage patterns on the egg-shaped craft that led Wagant to theorize it had been struck by a missile system.
-- [[Egg-shaped UAP]] — A recurring UAP craft morphology described in multiple retrieval cases including Wagant's 1997 Peru account and HJ's 1953 Camp Polk account.
-- [[Hawk Missile Battery (MIM-23)]] — A US surface-to-air missile system phased out of US forces in 1994, with Marine Corps usage until 2002; Wagant theorized it struck the craft in Peru.
-- [[Ballistic and Fragging Pattern Analysis]] — Wagant used damage patterns on the recovered craft to theorize it was struck by a Hawk missile system operated by Peruvian forces.
-- [[Witness Credibility Attacks via Health Conditions]] — A tactic noted in the transcript where whistleblowers are dismissed by citing mental or medical health conditions rather than addressing their claims.
-- [[Non-human Beings in Craft Wreckage]] — Wagant reported sensing or perceiving non-human beings calling out for help from the downed craft, a detail that profoundly affected him psychologically.
-- [[Biological Androids]] — Theory that some UAP occupants are akin to biological androids with limited cognitive ability, performing basic or specific functions.
-- [[Technologies of Unknown Origin (TUO)]] — Term used to describe materials and technologies retrieved from UAP crash sites, studied by multiple agencies.
-- [[Crash Retrieval Operations]] — Military or government operations to recover downed UAP craft and any occupants or materials.
-- [[Honeycomb Skin Construction]] — Multi-layered honeycomb structural design observed in the bulkhead of a retrieved UAP, noted by Collins.
-- [[Metal of Unknown Composition]] — Materials allegedly retrieved from UAP crash sites and studied by engineers like Collins in an official capacity.
-- [[MJ-12 Documents]] — Alleged classified government documents related to UAP research, significant drops of which were received by Tim Cooper in the 1980s.
-- [[Biological Isolation Protocol]] — Alleged practice of placing living UAP occupants into isolation after retrieval, as described in the HJ testimony.
-- [[NEST Team (Nuclear Emergency Support Team)]] — DOE team specialized in responding to nuclear or radiological incidents; theorized to have been deployed to the UAP recovery site with varying levels of MOP gear based on proximity to the craft
-- [[MOP Gear]] — Mission Oriented Protective Posture gear used for chemical/biological/radiological protection; varying protection levels were observed at the recovery site based on proximity to the craft
-- [[Non-Human Origin Craft]] — A craft of alleged extraterrestrial or non-human manufacture; described as massive and lodged into a granite cliff face
-- [[Aquatic Species Theory]] — Hypothesis that the biological entities found in the craft were an aquatic species, suggested by the presence of liquid or water inside the craft near the open hatch
-- [[Multinational Recovery Teams]] — Recovery teams composed of personnel from multiple nations, including Germans and Chinese, all reportedly armed at the UAP recovery site
-- [[Biologics]] — Biological entities or remains found inside the recovered non-human craft; one was reportedly seen hanging out of an open hatch
-- [[Whistleblower Testimony Dismissal]] — Pattern observed by researcher where UAP witnesses are discredited by associates citing mental health issues rather than addressing factual claims
-- [[UAP Craft Retrieval]] — The process of recovering a downed unidentified aerial craft by military or government teams; discussed as having occurred in this case.
-- [[Non-human Fluid Contamination]] — Contact with an unknown liquid from the UAP craft that triggered an isolation and possible decontamination response.
-- [[Witness Memory Degradation]] — The natural loss of specific details over time by a witness to a traumatic or extraordinary event, noted as affecting Wayan's recall after 30 years.
-- [[Underground Facilities]] — Speculation that NAMRU or a nearby location had underground facilities where Wayan was held.
-- [[Dedicated Retrieval Team]] — A theorized specialized military unit, possibly JSOC-affiliated, pre-positioned in South America to respond to UAP retrieval events.
-- Open Source Research — The content creator commits to making all research and projects freely available without paywalls or gatekeeping.
-- [[Disclosure]] — Reference to the broader UAP/UFO disclosure movement, with the creator expressing desire to help push for transparency on the subject.
+The host frames the video as the groundwork for a planned sit-down interview. It revisits a case he covered in one of his first projects, drawing on Weygandt's 2000 tape testimony with [[Steven Greer]] (which, he says, Greer edited, cutting the arm), rougher source tapes from Greer's archive, Weygandt's 1 August 2000 letter to Greer's team, a 2023 podcast with [[Martin Willis]], and new in-person conversations of his own. He credits [[RGH UFOs]] and [[TAGOM]], whose 2023 research reached many of the same conclusions first.
 
-## Events & Dates
-- [[Jonathan Wagant UFO Crash Retrieval Encounter]] — Wagant claimed to have encountered a crashed egg-shaped UFO and a DOE retrieval team during active US military service in the Peruvian jungle.
-- [[Wagant's Original Testimony with Steven Greer]] — Wagant first publicly disclosed his encounter via tape testimony recorded with Steven Greer, which was later published with edits.
-- [[Wagant Outreach to Greer's Team]] — Wagant contacted Greer's team approximately two months after the 2000 tape was recorded.
-- [[Wagant Podcast with Martin Willis]] — Wagant made a second public appearance discussing his encounter but reportedly explored little new ground.
-- [[Log Book Confiscation Incident]] — An Air Force colonel entered a command center approximately 30 minutes after personnel discussed anomalous objects re-entering the atmosphere and confiscated flight tracking log books; reportedly occurred multiple times.
-- [[Crash Site Retrieval Mission]] — Between March and April 1997, U.S. Marines including Wgant, Sergeant Allen, and Sergeant Atkins were dispatched in Humvees at night to secure a jungle crash site where an unidentified craft had embedded itself into a rocky ridge.
-- [[Downed Non-Human Craft Observation]] — Jonathan Wagant observed a large, damaged teardrop-shaped craft approximately 10m tall and 20m long, showing catastrophic damage consistent with Hawk missile fragmentation, dripping clear viscous fluid and emitting a deep bass hum before powering down.
-- [[UFO Targeting by Naval Destroyer]] — Referenced as a similar one-in-a-million incident where a teardrop-shaped UFO was targeted by a naval destroyer, discussed in a prior related project on naval legacy programs.
-- [[USMC Phaseout of Hawk Missiles]] — The US Marine Corps phased out Hawk missiles from laser strike in early 1997, relevant to determining which party may have used the system.
-- [[Peru UFO Crash Incident|Jonathan Wagant UAP Crash Encounter]] — While serving as a Marine Lance Corporal, Wagant and two sergeants encountered a crashed craft on a cliff face, experiencing physical effects, electromagnetic anomalies, and apparent telepathic contact with non-human entities.
-- [[Kecksburg, Pennsylvania UFO Crash]] — Referenced as a comparable case where eyewitnesses described biological entities inside a bell-shaped craft whose appendages were visible after a hatch opened.
-- [[Greer Interview with Wagant]] — Steven Greer conducted an interview with Wagant from which the detail about a four-fingered arm hanging from a hatch was allegedly removed.
-- [[UAP Encounter and Detainment Incident]] — Jonathan Wagant and fellow Marines encountered a craft and non-human entities, then were intercepted, detained at gunpoint, and stripped of gear by unknown operators arriving in CH47 helicopters
-- [[Arrival of Unknown Black-Clad Operators]] — Armed men in all-black BDUs with no insignia intercepted the Marines at the top of a gorge, showed extreme hostility, and forced them to surrender their weapons and gear
-- [[Arrival of Science Team with DOE Insignia]] — A team of approximately 30 individuals in rain jackets bearing the letters Delta, Oscar, Echo departed CH47 helicopters wearing MOPP gear and gas masks
-- [[Jake Barber Testimony on Psionics]] — Testimony by Jake Barber and Skywatchers in 2025 discussed psionics in connection with UAP, echoing Wagant's earlier 2000 account
-- [[UAP Crash Retrieval Witnessed by Wagant]] — Wagant stumbled upon a crash site and retrieval operation, leading to his detention and interrogation
-- [[Wagant's Interrogation and Detention]] — Wagant was handcuffed, threatened for 8-9 hours, and held for up to 2 days underground by clandestine operators
-- [[Wagant Forced to Sign Secrecy Documents]] — An unnamed Air Force lieutenant colonel threatened Wagant's life and forced him to sign two secrecy waivers
-- [[Wagant Sequestered at Original Base]] — Wagant was segregated with personnel at his radar installation for 3 weeks before being sent back to Cherry Point
-- [[Wagant's Discharge from USMC]] — Wagant deliberately confessed to using banned substances to obtain a discharge after being tormented by the experience
-- [[Peruvian UAP Crash Retrieval]] — US Marines including Jonathan Wagant investigated a UAP crash site in the Peruvian jungle and were forcibly removed by clandestine operators; DOE personnel in MOPP gear arrived via CH47 Chinooks to secure the site.
-- [[1965 Kecksburg, Pennsylvania Crash Retrieval]] — USAF Blue Berets were allegedly on-site for a UFO crash retrieval in Kecksburg, Pennsylvania, cited as an early example of a dedicated recovery unit.
-- [[1953 Kingman, Arizona Crash Retrieval]] — A rapid response USAF unit was reportedly the first on-site at a UAP crash in Kingman, Arizona.
-- [[1974 Coyame, Mexico UFO Crash Retrieval]] — The CIA allegedly monitored a UFO that crashed in northern Chihuahua, Mexico; a US rapid recovery unit mobilized from Fort Bliss in unmarked helicopters with hazmat gear, and the Mexican military retrieval team reportedly died due to a containment breach.
-- [[Creation of Nuclear Emergency Support Team]] — The Department of Energy and NNSA's Nuclear Emergency Support Team was created, referenced as relevant to the origins of DOE rapid recovery capabilities.
-- [[UAP Crash Incident in Peru]] — A crashed craft was discovered near the border region of northern Peru; Marines from a radar detachment were first on scene followed by a DOE retrieval team with CH-47 helicopters
-- [[Peru-Ecuador Border Dispute]] — US Army 7th Special Forces and Joint Task Force Bravo conducted SOUTHCOM missions in northern Peru during this conflict, establishing precedent for US military presence in the region
-- [[Marines Depart for Crash Site]] — At 3-4 a.m., Lance Corporal Sergeant Atkins, Sergeant Allen, and multiple Marines in Humvees departed after being informed of a crashed aircraft around 11 p.m. to midnight
-- [[Crash Site Secured by Retrieval Team]] — Within 15-20 minutes of Marines arriving at the crash site, DOE personnel, armed men in black camouflage, and CH-47 helicopters secured the area
-- [[Operation Laser Strike]] — Classified US military operation during which Wagant claims to have encountered a crashed egg-shaped craft in Peru
-- [[Crash Retrieval Incident]] — Alleged recovery of a non-human egg-shaped craft near Ikitos, Peru, witnessed by Wagant and several USMC sergeants
-- [[German Military Visit to NAMRU Lima]] — Example cited to illustrate the multinational presence at NAMRU's Lima location
-- [[Hawk Missile Battery Phase-Out (USMC)]] — Laser Strike ceased usage of Hawk surface-to-air missiles in 1997; US forces phased them out in 1994
-- [[Peru UAP Crash Incident]] — A group of MAC G28 Marines including Wagant were sent to secure the LZ of a downed egg-shaped craft near the Peruvian border region during Operation Laser Strike
-- [[Camp Polk Egg-Shaped Craft Incident]] — Private HJ and his unit observed an egg-shaped craft crash land near Camp Polk, Louisiana; special detachments recovered the craft and three living occupants plus one body on a stretcher
-- [[Wagant Initial Outreach to Steven Greer]] — Jonathan Wagant first described Operation Laser Strike and the Peru UAP encounter to Steven Greer
-- [[Fort Pulk UAP Crash Retrieval]] — HJ witnessed a UAP crash retrieval including a craft, a body in an ambulance, and three living occupants who were led out like children by medical personnel.
-- [[UC Berkeley UAP Observation]] — Collins claimed to have observed an oval, damaged UAP on a flatbed trailer being backed into a warehouse at UC Berkeley.
-- [[Albert Bruce Collins Interview]] — Tim Cooper interviewed Collins shortly before his death, during which Collins disclosed UAP-related observations and agency involvement.
-- [[Albert Bruce Collins Death]] — Collins died on 30 December 1990, shortly after being interviewed by Tim Cooper.
-- [[Kingman UAP Crash]] — Referenced as a case involving US Army lowboy trucks used in UAP retrieval operations.
-- [[Kecksburg Pennsylvania UAP Crash]] — Referenced as another case involving US Army lowboy trucks used in UAP retrieval.
-- [[Jonathan Wayan Departure from USMC]] — Jonathan Wayan left the Marines in 1998 by admitting to using controlled substances, contrasted with fellow Marines who went on to long careers
-- [[Jonathan Wayan UAP Encounter]] — Wayan, a Marine, allegedly encountered a downed UFO craft, came into contact with a non-human liquid, was beaten by other Marines, separated from colleagues, isolated, and threatened; occurred approximately 30 years before the interview.
-- [[Jonathan Wayan on Martin Willis Show]] — Wayan made a public appearance discussing his encounter but did not shed new light on details and appeared reluctant.
-- [[Jonathan Wayan On-Camera Interview (2023)]] — Wayan participated in new exclusive on-camera conversations, the first significant new disclosure since 2000.
+The video then builds a thesis. The science team was the Department of Energy's [[NEST (Nuclear Emergency Support Team)|Nuclear Emergency Support Team]], alerted by satellites and flown from [[Sandia National Laboratories]]. The armed men were probably the [[US Army 7th Special Forces Group]], and the Chinooks probably came from [[Joint Task Force Bravo]]. Weygandt's base was probably [[USAF Radar Detachment 5, Iquitos|USAF Radar Detachment 5]] at [[Iquitos, Peru|Iquitos]], not [[Pucallpa]], and he may have been held at the Navy's [[NAMRU South, Lima, Peru|NAMRU South]]. The host reports reaching one of the Marines Weygandt names, who denies the incident, and compares the craft with the [[1953 Camp Polk UFO Crash Retrieval]] and [[Albert Bruce Collins]]'s 1947 sighting. He calls the case one of the most extraordinary encounters with a downed craft on record, while stressing that his reconstruction rests on heavy assumptions.
 
-## Operations
-- [[Operation Laser Strike]] — US military operation in the Peruvian jungle during which Wagant was deployed as perimeter security and encountered the crashed UFO.
-- [[Delta Oscar Echo (DOE) Science Team Deployment]] — A team of roughly 30 personnel in protective gear bearing three-letter designation Delta, Oscar, Echo arrived at the UAP incident site via CH47 helicopters, suggesting an organized response operation
-- [[Crash Site Retrieval Operation]] — A large-scale clandestine retrieval involving DOE personnel, men in black BDUs with 'DOE' markings, and approximately 30 personnel in high-tech biological containment suits
-- [[Project Sand Dollar]] — A project involving deep submergence rescue vehicles deployable anywhere in the world within 72 hours, referenced as a comparison to the rapid deployment of the Peruvian UAP recovery team.
-- [[USF Radar Detachment 5 Operations]] — A highly secretive US installation in Iquitos, Peru, tasked with radar surveillance and tracking Bolivian narcotics traffic routes
-- [[CH-47 Crash Site Retrieval]] — Multiple US Army CH-47 Chinook helicopters arrived at the crash site as part of what appears to be a coordinated UAP retrieval operation
-- [[USAF UFO Program]] — An official US Air Force program referenced in a citation letter to Harry B. Cooper, praising his contributions to UAP-related work.
-- [[UAP Craft Recovery Operation (Peru)]] — Theorized retrieval operation involving DOE NEST personnel and a possible JSOC team that responded to the downed craft and isolated Wayan; location suspected to be northern Peru.
+## Chronology
 
-## Locations
-- [[Peruvian Jungle]] — Location where the alleged UFO crash retrieval encounter took place during Operation Laser Strike in 1997.
-- [[Jungle Crash Site (unspecified)]] — Location in a jungle where an unidentified craft allegedly crashed, cutting a gash through the jungle floor and embedding itself at a 45-degree angle into a rocky cliff face approximately 200 feet high.
-- [[Command Center  Radar Facility (unspecified)]] — Military facility where radar operators tracked anomalous aerial objects re-entering the atmosphere and where log books were confiscated by an Air Force officer.
-- [[Peru]] — Implied location where the Peruvian Air Force may have operated Hawk missile batteries that downed the craft
-- [[Kecksburg, Pennsylvania]] — Site of a 1965 UFO crash retrieval case referenced as a parallel to Wagant's encounter.
-- [[Cliff face (unnamed location)]] — The physical location where the crashed UAP was found, positioned high on a cliff face during Wagant's encounter.
-- [[Jungle Gorge  Ridge]] — The terrain where the Marines encountered the craft and where the unknown operators intercepted them upon climbing back up
-- [[Cherry Point]] — Wagant's original Marine base to which he was eventually returned after sequestration
-- [[Underground Interrogation Facility]] — Location where Wagant was held for up to 2 days; believed by the narrator to be an identifiable site under investigation
-- [[Jungle (unspecified)]] — Operators repeatedly threatened to abandon or kill Wagant in the jungle as a means of intimidation
-- [[Kingman, Arizona]] — Site of a 1953 alleged UAP crash where a rapid response USAF unit was first on scene.
-- [[Coyame, Chihuahua, Mexico]] — Site of the 1974 alleged UAP crash retrieval involving the CIA and a US rapid recovery unit from Fort Bliss.
-- [[Fort Bliss, Texas]] — Alleged origin point from which the CIA mobilized the rapid recovery unit for the 1974 Coyame, Mexico UAP crash.
-- [[Gulf of Mexico]] — Area where US intelligence agencies allegedly tracked the UAP involved in the 1974 Coyame crash before it entered Mexican airspace.
-- [[Iquitos, Peru]] — Suspected location of USF Radar Detachment 5, NAMRU-6, and the MARFORLAND Riverine Training Team; believed to be Wagant's base of operations
-- [[USF Radar Detachment 5, Iquitos]] — Highly secretive US military installation in Iquitos; suspected base from which Marines departed to reach the crash site
-- [[Bukulpa, Peru]] — A location approximately 300 miles from Lima considered as a possible base location but ruled out due to travel time analysis
-- [[Lima, Peru]] — Reference point used to calculate travel distances and times to candidate base locations
-- [[Andoas Laser Strike Site]] — A laser strike location in northern Peru referenced in the analysis; limited information available
-- [[Crash Site, Northern Peru]] — Estimated to be within a 90-mile radius of Iquitos, 5-10 miles from either the Colombian or Brazilian border
-- [[Bolivia]] — Wagant stated the crash occurred near the Bolivian border, though the analyst believes he may have confused it with the Colombian or Brazilian border
-- [[Ikitos, Peru]] — Theorized primary location of the UFO crash retrieval incident and Wagant's forced holding; site of USAF Detachment 5
-- [[NAMRU South, Lima, Peru]] — US Navy biomedical research facility theorized as possible quarantine/holding location for Wagant after crash exposure
-- [[NAMRU South, Aikitos, Peru]] — Office location of NAMRU South relevant to proximity to the theorized crash site
-- [[Wright Patterson Air Force Base, Ohio]] — Location of NAMRU D installation; historically associated with UAP research
-- [[Singapore Naval Base]] — Location of a NAMRU installation in the Indo-Pacific region
-- [[USAF Detachment 5, Ikitos]] — US Air Force detachment near Ikitos, Peru; theorized as Wagant's stationed location during Laser Strike
-- [[Camp Polk, Louisiana]] — US Army base where the 1953 egg-shaped craft crash and retrieval incident involving HJ took place
-- [[Cherry Point, North Carolina]] — Home station of the MAC G28 Marines who deployed to Operation Laser Strike
-- [[Bolivia]] — Wagant described his Yousef radar base as near the Bolivian border, though the narrator believes he likely meant near the Colombian and Brazilian borders
-- [[ITOS]] — A location near the Colombian and Brazilian borders that the narrator believes Wagant likely meant when referencing his radar base location
-- [[Fort Detrick]] — US Army installation roughly 40 miles from Washington DC, implicated in holding UAP biologics; home to Battel Memorial Institute's NBAC FFRDC.
-- [[Dugway Proving Ground]] — Utah facility previously implicated alongside Fort Detrick in holding UAP biologics.
-- [[University of California, Berkeley]] — Location where Collins witnessed a UAP being moved into a warehouse in 1947.
-- [[Washington DC]] — Proximity reference for where UAP-related corpses were allegedly sent after the Fort Pulk incident.
-- [[Kingman]] — Site of a 1953 UAP crash retrieval case referenced for comparison of retrieval methods.
-- [[Pucallpa]] — Location in Peru where MAC G28 Marines reportedly deployed during Laser Strike; the contacted Marine denied Jonathan ever deployed there
-- [[Wright Patterson Air Force Base]] — Speculated destination for transfer of materials or liquid recovered from the UAP craft.
-- [[Northern Peru]] — General area where the UAP encounter and retrieval are believed to have taken place, with historical special forces presence.
-- [[Howard Air Force Base, Panama]] — Speculated staging location for a dedicated South American UAP retrieval team.
-- [[NAMRU South]] — Naval Medical Research Unit South; theorized as the underground facility where Wayan was held after the incident.
+::wiki-timeline{video="7Jc2G5aEH0A" video-title="1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt"}
+---
+help: "The bar pinned above the entries is a ruler from 1933 to 2025. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line capped with a downward arrow is where the host is. The host tells Weygandt's story first and then goes back to earlier cases, so the playhead leaps around the ruler. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Timestamps jump the mini-player to that moment."
+eras:
+  - id: precedents
+    label: "Precedents"
+    from: 1933
+    to: 1994
+    summary: "Earlier egg-shaped crashes, rapid recovery teams and the Department of Energy's nuclear emergency apparatus that the host uses to read Weygandt's account."
+    anchor: "egg-shaped-precedents"
+  - id: laserstrike
+    label: "Laser Strike"
+    from: 1995
+    to: 1998
+    summary: "Weygandt's Marine Corps service, Operation Laser Strike, the crash in the Peruvian jungle and its aftermath."
+    anchor: "the-encounter"
+  - id: testimony
+    label: "The testimony"
+    from: 1999
+    summary: "Weygandt's 2000 testimony, two decades of near-silence, and the host's 2025 investigation."
+    anchor: "checking-the-story"
+hinges:
+  - year: 1997
+    label: "Crash in the Peruvian jungle"
+events:
+  - date: "1933-06"
+    title: "Vatican intelligence tips off the US about the Magenta disc"
+    cue: 6154
+    summary: "Recalling the 1933 Magenta, Italy case, the host notes that, according to David Grusch and the late Harald Malmgren, Vatican intelligence alerted the United States to a lenticular disc in Axis hands, allowing the US to capture it after World War II. He raises it to set up Albert Bruce Collins's claims of joint US-Vatican programs."
+    category: event
+    significance: minor
+    entities:
+      - "1933 Magenta UFO CrashRetrieval"
+      - "Vatican"
+      - "David Grusch"
+      - "Harold Malmgren"
+  - date: "1947"
+    title: "Albert Bruce Collins sees a cracked egg-shaped craft at Berkeley"
+    cue: 5970
+    summary: "Collins, a self-described metallurgical engineer, said he stood about 100 feet from a damaged oval craft, 'like an egg with the shell cracked and the yolk still inside', as it was backed into a warehouse at the University of California, Berkeley on a tarp-covered flatbed trailer. It had a seam around its edge, multi-layered honeycomb skin and a shiny central sphere."
+    category: event
+    significance: notable
+    entities:
+      - "Albert Bruce Collins"
+      - "University of California, Berkeley"
+      - "Egg-shaped UAP"
+  - date: "1949"
+    title: "Collins learns of agencies studying technologies of unknown origin"
+    cue: 6076
+    summary: "Collins claimed that by 1949 intelligence offices of the Army, Air Force and Navy, the CIA, the RAND Corporation and the Vatican were involved in technologies-of-unknown-origin research, through projects he named Archangel, Black Book, Blue Book, White Book and Yellow Book. He also said Los Alamos was studying green fireballs, which the host ties to the Atomic Energy Commission's Project Twinkle."
+    category: program
+    significance: minor
+    entities:
+      - "Albert Bruce Collins"
+      - "CIA"
+      - "RAND Corporation"
+      - "Vatican"
+      - "Project Twinkle"
+  - date: "1953-07"
+    title: "Egg-shaped craft crash-lands at Camp Polk, Louisiana"
+    cue: 5646
+    summary: "In Leonard Stringfield's Status Report III, a 17-year-old private known as HJ said his unit saw an egg-shaped craft crash-land at dusk at Camp Polk. It had a still-rotating fin-like protrusion around its equator; a special detachment with medics carried away one body on a stretcher and led out three small living occupants 'like children'. The host sets it beside Weygandt's craft and its band of light."
+    category: event
+    significance: major
+    entities:
+      - "1953 Camp Polk UFO Crash Retrieval"
+      - "Camp Polk, Louisiana"
+      - "Leonard Stringfield"
+      - "Egg-shaped UAP"
+  - date: "1954-08"
+    title: "Atomic Energy Act of 1954"
+    cue: 3339
+    summary: "The host calls the Atomic Energy Act, later cited in the Schumer-Rounds legislation as a vehicle for misclassifying UFO material as 'transclassified foreign nuclear information', the primary authority behind NEST, and so the legal umbrella for a Department of Energy team at a crash site."
+    category: policy
+    significance: notable
+    entities:
+      - "Atomic Energy Act of 1954"
+      - "Atomic Energy Commission"
+      - "NEST (Nuclear Emergency Support Team)"
+  - date: "1965-12"
+    title: "Kecksburg: 'moon suits' and a visible appendage"
+    cue: 1543
+    summary: "The host twice returns to the 1965 Kecksburg, Pennsylvania crash retrieval: witnesses there described men in white 'moon suits' carrying equipment to the object, occupants whose appendages were visible once a hatch opened, and USAF 'Blue Berets' on site. He reads all three as parallels to Weygandt's account."
+    category: event
+    significance: notable
+    entities:
+      - "1965 Kecksburg, Pennsylvania Crash Retrieval"
+      - "Blue Berets"
+  - date: "1973"
+    title: "Great Lakes Naval Station teardrop craft"
+    cue: 6196
+    summary: "From his earlier naval legacy programs video, the host recalls gunnery instructor 'RK', who said he saw a 30-foot teardrop-shaped craft on a wooden platform in a hangar at Great Lakes Naval Station, allegedly shot down by a Navy destroyer and recovered from the Pacific by the National Underwater Reconnaissance Office's Glomar Explorer."
+    category: event
+    significance: minor
+    entities:
+      - "National Underwater Reconnaissance Office"
+  - date: "1974"
+    title: "Coyame crash and a rapid recovery unit from Fort Bliss"
+    cue: 2942
+    summary: "In the 1974 Coyame, Mexico case, according to the allegedly leaked DAB report, the CIA tracked a UFO from the Gulf of Mexico and mobilised a recovery unit out of Fort Bliss, Texas, in four unmarked helicopters with hazmat gear, after a containment breach of toxic material killed the Mexican military retrieval team."
+    category: event
+    significance: notable
+    entities:
+      - "1974 Coyame, Mexico UFO Crash Retrieval"
+      - "Fort Bliss"
+      - "CIA"
+  - date: "1974"
+    title: "Nuclear Emergency Support Team created"
+    cue: 3006
+    summary: "The same year as Coyame, the Department of Energy created the Nuclear Emergency Search (later Support) Team, NEST, a contractor-heavy nuclear emergency organisation meant to be first on scene 'anywhere in the world'. The host, like RGH UFOs before him, identifies it as the science team Weygandt met in Peru."
+    category: organization
+    significance: major
+    entities:
+      - "NEST (Nuclear Emergency Support Team)"
+      - "Department of Energy"
+  - date: "1990-11-20"
+    title: "Tim Cooper interviews Albert Bruce Collins"
+    cue: 5931
+    summary: "Researcher Tim Cooper, who received Majestic 12 document drops in the 1980s, interviewed Collins (pseudonym 'Barnabas') on 20 November 1990, weeks before his death on 30 December 1990. Leonard Stringfield published the account in his 1991 Status Report VI, 'The Inner Sanctum'."
+    category: document
+    significance: minor
+    entities:
+      - "Tim Cooper"
+      - "Albert Bruce Collins"
+      - "Leonard Stringfield"
+  - date: "1995"
+    title: "Weygandt joins the Marine Corps"
+    cue: 403
+    summary: "Jonathan Weygandt enlisted in 1995 and, after a back injury in training, joined the 2nd Low Altitude Air Defense Battalion of Marine Air Control Group 28 at MCAS Cherry Point, North Carolina, as a low-altitude air defense gunner trained on Stinger and Avenger missile systems."
+    category: person
+    significance: notable
+    entities:
+      - "Jonathan Weygandt"
+      - "Marine Air Control Group 28"
+      - "Cherry Point, North Carolina Marine Corps Air Station"
+  - date: "1995"
+    title: "Peru-Ecuador border dispute brings US forces to northern Peru"
+    cue: 3716
+    summary: "During the 1995 Peru-Ecuador border dispute, the Army's 7th Special Forces Group worked alongside the 1st Battalion, 228th Aviation Regiment of Joint Task Force Bravo, whose fleet included CH-47 Chinooks. The host cites this history for both the black-clad operators and the helicopters Weygandt saw."
+    category: event
+    significance: minor
+    entities:
+      - "US Army 7th Special Forces Group"
+      - "1st Battalion 228th Aviation Regiment"
+      - "Joint Task Force Bravo"
+  - date: "1995"
+    title: "NEST assessment report secures military airlift"
+    cue: 3649
+    summary: "A declassified 1995 NEST assessment team report shows the DOE arranged with the Defense Department for military aircraft to be made immediately available for NEST deployments, and that NEST worked with special operations forces. It also praised the 'relatively high degree of autonomy' of the laboratories' program managers."
+    category: document
+    significance: notable
+    entities:
+      - "NEST (Nuclear Emergency Support Team)"
+      - "Department of Defense"
+  - date: "1996"
+    title: "Operation Green Clover precedes Laser Strike"
+    cue: 499
+    summary: "Operation Green Clover, a smaller 1996 US Southern Command counter-narcotics operation in Peru and Colombia, preceded Operation Laser Strike."
+    category: program
+    significance: minor
+    entities:
+      - "US SOUTHCOM"
+  - date: "1996"
+    title: "NEST briefing describes a first-on-scene team with its own jets"
+    cue: 3076
+    summary: "A 1996 NEST briefing, the closest document to the crash, describes NEST restricting access, running diagnostics and handling clean-up at incident sites, staffed by chemists, physicists and engineers and partnered with Raytheon, EG&G and the Los Alamos, Sandia and Lawrence Livermore laboratories. Its fleet included Cessna Citation II jets with a top speed of 464 mph."
+    category: document
+    significance: notable
+    entities:
+      - "NEST (Nuclear Emergency Support Team)"
+      - "EG&G"
+      - "Sandia National Laboratories"
+      - "Los Alamos National Laboratory"
+      - "Lawrence Livermore National Laboratory"
+  - date: "1996-04"
+    title: "Laser Strike radar tracks 45,000 aircraft in a year"
+    cue: 510
+    summary: "Between April 1996 and April 1997, the window of Weygandt's encounter, Laser Strike's air and ground radars tracked 45,000 aircraft, 5,390 of them 'tracks of interest'. About 150 were suspected of drug trafficking and 21 were forced or shot down; the exact number of shootdowns was classified."
+    category: program
+    significance: notable
+    entities:
+      - "Operation Laser Strike"
+  - date: "1996-11"
+    title: "NEST weighs a South American deployment for Mars 96"
+    cue: 3453
+    summary: "When Russia's Mars 96 probe, carrying small plutonium-238 power sources, failed to leave Earth orbit (the host places it 'around 1997'), NEST considered deploying to Bolivia or Colombia on US Space Command and Defense Support Program satellite intelligence, standing down when debris fell in the Pacific. The host cites Jeffrey T. Richelson's book on NEST."
+    category: event
+    significance: notable
+    entities:
+      - "NEST (Nuclear Emergency Support Team)"
+      - "Defense Support Program (DSP)"
+      - "Jeffrey T. Richelson"
+  - date: "1997-02"
+    title: "Weygandt transferred to the Laser Strike section"
+    cue: 394
+    summary: "In February 1997 Weygandt moved to his unit's section for Operation Laser Strike, the classified US Southern Command counter-narcotics operation in Peru. MACG-28 Marines provided perimeter security for its radar sites and replaced ageing Hawk batteries with Stinger and Avenger systems."
+    category: person
+    significance: notable
+    entities:
+      - "Jonathan Weygandt"
+      - "Operation Laser Strike"
+      - "Marine Air Control Group 28"
+  - date: "1997-02"
+    title: "NEST introduces the Joint Technical Operations team"
+    cue: 3412
+    summary: "One to two months before the crash, NEST stood up a Joint Technical Operations team to give the Defense Department deployable technical support faster than existing NEST teams, available 24 hours a day, 365 days a year."
+    category: organization
+    significance: notable
+    entities:
+      - "NEST (Nuclear Emergency Support Team)"
+  - date: "1997"
+    title: "Radar operators log objects at Mach 10 and a colonel takes the logs"
+    cue: 649
+    summary: "On guard in his radar site's command center, Weygandt overheard Air Force operators discussing objects flying in and out of the atmosphere at Mach 10 or more, stopping dead and reversing. He says an Air Force colonel came in about 30 minutes later to take the flight logbooks, and that this happened three or four times."
+    category: event
+    significance: notable
+    entities:
+      - "Jonathan Weygandt"
+      - "Operation Laser Strike"
+  - date: "1997-03"
+    title: "Marines sent to secure a downed, 'possibly friendly' aircraft"
+    cue: 770
+    summary: "Between 11 p.m. and midnight one night in March or April 1997, Staff Sergeant Montil and Sergeants Allen and Atkins told Weygandt, on guard duty, that an aircraft had gone down. By 3 to 4 a.m. eight to ten Marines left in five or six Humvees, drove and then hiked through the jungle, and reached the area around first light, 6 to 7 a.m."
+    category: event
+    significance: major
+    entities:
+      - "Jonathan Weygandt"
+      - "Sergeant Montil"
+      - "Sergeant Allen"
+      - "Sergeant Atkins"
+      - "Peru UFO Crash Incident"
+  - date: "1997-03"
+    title: "An egg-shaped craft embedded in a granite ridge"
+    cue: 941
+    summary: "Following a gash cut cleanly through the jungle, Weygandt, Allen and Atkins, on point, found a metallic egg or teardrop about 10 m high and 20 m long buried at 45 degrees in a ridge at least 200 feet high. Its surface shifted purple-green like 'mother of pearl', it cast no shadow, it hummed like an unplugged guitar amplifier as a light circled it and slowed to a stop, and a large gash in its rear suggested to Weygandt a Hawk missile hit."
+    category: event
+    significance: major
+    entities:
+      - "Peru UFO Crash Incident"
+      - "Egg-shaped UAP"
+      - "Mother of Pearl Effect"
+      - "MIM-23 Hawk Missile"
+  - date: "1997-03"
+    title: "The liquid, a four-fingered arm and a 'presence'"
+    cue: 1397
+    summary: "Getting closest of all, Weygandt was soaked by a clear, syrup-thick liquid that ate at his uniform and, he says, permanently took the hair on his legs. He saw a four-fingered arm hanging limply from a half-open hatch, compasses spun and radios failed, and he felt occupants, which he later pictured as tall grey beings, telepathically asking for help."
+    category: event
+    significance: major
+    entities:
+      - "Jonathan Weygandt"
+      - "Peru UFO Crash Incident"
+      - "Psionics"
+  - date: "1997-03"
+    title: "Black-clad operators and a DOE team take the site"
+    cue: 1832
+    summary: "After 15 to 20 minutes at the craft, climbing back up the ridge, the Marines were held at gunpoint by older men in black fatigues with no insignia who had arrived before two to four Army CH-47 Chinooks. Weygandt struck one and was beaten; about 30 people in 'DOE' rain jackets, MOPP gear and containment suits marched past to the craft, stripped him and carried him off on a stretcher."
+    category: event
+    significance: major
+    entities:
+      - "Jonathan Weygandt"
+      - "Department of Energy"
+      - "NEST (Nuclear Emergency Support Team)"
+      - "Peru UFO Crash Incident"
+  - date: "1997-03"
+    title: "Held underground, threatened and made to sign two forms"
+    cue: 2261
+    summary: "Flown by Chinook to a base with permanent structures and armed Chinese and German personnel, Weygandt spent about 15 hours cuffed to a chair in an underground interrogation room and was held up to two days. An operator told him 'we don't' obey the Constitution; an unnamed Air Force lieutenant colonel threatened to leave him dead in the jungle and had him sign two secrecy forms before he was driven back to his base."
+    category: event
+    significance: major
+    entities:
+      - "Jonathan Weygandt"
+      - "Peru UFO Crash Incident"
+  - date: "1997-05"
+    title: "Nightmares, missing time and a push to discredit him"
+    cue: 2573
+    summary: "Kept apart with Air Force personnel for three weeks and then sent back to Cherry Point, Weygandt was by May 1997 suffering nightmares, missing time and strange dreams. He maintains the Marine Corps tried to make him appear unstable."
+    category: person
+    significance: minor
+    entities:
+      - "Jonathan Weygandt"
+  - date: "1998-03"
+    title: "Weygandt discharged"
+    cue: 2594
+    summary: "By late 1997 Weygandt admitted using banned substances so the Marine Corps would discharge him, while MACG-28 and the Criminal Investigation Division made his life 'horrific'. He was out by March 1998; the sergeants who were with him went on to long careers."
+    category: person
+    significance: notable
+    entities:
+      - "Jonathan Weygandt"
+      - "United States Marine Corps"
+  - date: "2000-08-01"
+    title: "Weygandt writes to Steven Greer's team"
+    cue: 5516
+    summary: "On 1 August 2000, about two months before recording his testimony, Weygandt described the encounter and Operation Laser Strike to Steven Greer's team. The host says the accuracy of that description argues against invention."
+    category: document
+    significance: notable
+    entities:
+      - "Jonathan Weygandt"
+      - "Steven Greer"
+  - date: "2000"
+    title: "The Greer tape testimony"
+    cue: 296
+    summary: "Weygandt's recorded testimony with Steven Greer, with questions from filmmaker James Fox, became the published interview. The host says Greer cut details from it, including the four-fingered arm, and uses rougher source files from Greer's archive to hear Weygandt uncut."
+    category: document
+    significance: major
+    entities:
+      - "Jonathan Weygandt"
+      - "Steven Greer"
+      - "James Fox"
+      - "Disclosure Project"
+  - date: "2003"
+    title: "CIA Office of Global Access formed"
+    cue: 3878
+    summary: "Journalist Christopher Sharp has accused the CIA's Office of Global Access, formed in 2003 out of the Directorate of Science and Technology, of running logistics for foreign crash retrievals, with Joint Special Operations Command as the boots on the ground: the model the host tests against the Peru team."
+    category: organization
+    significance: minor
+    entities:
+      - "CIA Office of Global Access"
+      - "CIA Directorate of Science and Technology"
+      - "JSOC (Joint Special Operations Command)"
+      - "Christopher Sharp"
+  - date: "2016"
+    title: "Podesta emails name DSP satellites as a UFO data source"
+    cue: 3527
+    summary: "In the leaked 2016 Clinton campaign emails, contractor Bob Fish told John Podesta that the Air Force's Defense Support Program satellites collect hard data on UFOs. The host argues NRO-managed DSP satellites likely gave the retrieval team about an hour's warning of the Peru crash."
+    category: document
+    significance: minor
+    entities:
+      - "Bob Fish"
+      - "John Podesta"
+      - "Defense Support Program (DSP)"
+      - "NRO (National Reconnaissance Office)"
+  - date: "2023"
+    title: "Weygandt on Martin Willis's podcast"
+    cue: 166
+    summary: "Weygandt's only other public appearance before this video, a 2023 podcast with Martin Willis, revisited the encounter but explored little new ground; the host sensed he did not want to be there."
+    category: event
+    significance: notable
+    entities:
+      - "Jonathan Weygandt"
+      - "Martin Willis"
+  - date: "2023"
+    title: "RGH UFOs and TAGOM research the case"
+    cue: 275
+    summary: "Researchers RGH UFOs and TAGOM published 2023 work on the case that reached many of the host's conclusions first, including that the science team was NEST."
+    category: document
+    significance: minor
+    entities:
+      - "RGH UFOs"
+      - "TAGOM"
+  - date: "2025"
+    title: "Jake Barber's testimony revives egg-shaped craft and psionics"
+    cue: 1803
+    summary: "Jake Barber's 2025 testimony, alongside Skywatcher, made egg-shaped retrievals and psionic control a live topic; the host notes that Weygandt described thought-controlled craft and telepathic occupants as early as 2000, though Barber's egg was a smaller, smooth, SUV-sized white object."
+    category: event
+    significance: minor
+    entities:
+      - "Jake Barber"
+      - "Skywatchers"
+      - "Psionics"
+  - date: "2025"
+    title: "A sergeant named by Weygandt answers the host"
+    cue: 5335
+    summary: "The host identified Montil, Allen and Atkins as real, long-serving Marines and wrote to them among about ten people tied to Laser Strike. One sergeant replied: the operation is still classified, no unique downed aircraft incident happened that he knew of, and Weygandt, a 'good young' Marine in his platoon with a medical condition, never deployed to Laser Strike. The host disputes the last point."
+    category: event
+    significance: major
+    entities:
+      - "Sergeant Montil"
+      - "Sergeant Allen"
+      - "Sergeant Atkins"
+      - "Jonathan Weygandt"
+  - date: "2025"
+    title: "The host sits down with Weygandt in person"
+    cue: 6270
+    summary: "After months of friendship, the host recorded new in-person conversations with Weygandt at his home in the South, the first substantial new testimony since 2000, adding that the black-clad men were on site first, that they looked like Army by their caps, and that armed Chinese and German personnel were at the holding site. A full interview is to follow."
+    category: event
+    significance: notable
+    entities:
+      - "Jonathan Weygandt"
+---
+::
+
+## The Witness
+
+Weygandt joined the Marine Corps in 1995 and served until 1998. After a back injury in training he was assigned to the 2nd Low Altitude Air Defense Battalion of Marine Air Control Group 28 at [[Cherry Point, North Carolina Marine Corps Air Station|Marine Corps Air Station Cherry Point]], North Carolina, as a low-altitude air defense gunner trained on Stinger man-portable missiles and Avenger surface-to-air systems. In February 1997 he moved to his unit's section for Operation Laser Strike. Until then, he says, he had no interest in UFOs.
+
+### Operation Laser Strike
+
+Laser Strike was one of several classified [[US SOUTHCOM|US Southern Command]] counter-narcotics operations of the 1990s, following the smaller Operation Green Clover of 1996 in Peru and Colombia. Up to 20 US agencies took part, including the Marines, the Drug Enforcement Administration, the Air Force, the [[CIA]], the National Guard and Army Special Forces, with the [[Peruvian Air Force]]. It tracked, identified and grounded, by warning or by force, aircraft entering or leaving Peruvian airspace, using acknowledged TPS-43 and relocatable over-the-horizon radars and possibly, covertly, [[Defense Support Program (DSP)|Defense Support Program]] satellites. Between April 1996 and April 1997, its radars tracked 45,000 aircraft: 5,390 were "tracks of interest", about 150 were suspected of drug trafficking, and 21 were forced or shot down. The exact number of shootdowns was classified.
+
+The MACG-28 Marines guarded the operation's radar sites and replaced its ageing Hawk missile batteries with Stingers and Avengers. Southern Command also authorised up to 14 special forces deployments to Peru in 1997. The host draws attention to the Army's [[US Army 7th Special Forces Group|7th Special Forces Group]], the Green Berets of Fort Bragg, which had long run counterdrug and training missions in Central and South America, including the DEA's Operation Snow Cap. He links special operations units to crash retrievals throughout his work.
+
+::wiki-org-chart
+---
+root:
+  name: Operation Laser Strike
+  label: "US Southern Command counterdrug operation, Peru"
+  note: "Up to 20 US agencies, with the Peruvian Air Force. Parts of it remain classified."
+  children:
+    - name: Pucallpa
+      label: Primary radar site
+      note: "Publicised as a Laser Strike site since at least 2001, and the usual assumption for Weygandt's base."
+    - name: "Andoas"
+      label: Secondary radar site
+      note: "The host found almost nothing about it."
+    - name: Iquitos, Peru
+      label: "Secondary radar site"
+      note: "The host's candidate for where the story happened."
+      children:
+        - name: USAF Radar Detachment 5, Iquitos
+          label: Air Force radar detachment
+          note: "Candidate for Weygandt's base."
+        - name: MARFORLANT Riverine Training Team
+          label: Riverine training with Peruvian forces
+        - name: NAMRU South, Lima, Peru
+          label: Navy medical research unit
+          note: "Candidate for where Weygandt was held."
+    - name: Marine Air Control Group 28
+      label: Perimeter security and air defense
+      note: "From MCAS Cherry Point; replacing Hawk batteries with Stinger and Avenger systems."
+      children:
+        - name: "2nd Low Altitude Air Defense Battalion"
+          children:
+            - name: Jonathan Weygandt
+              label: "Lance corporal, air defense gunner"
+    - name: US Army 7th Special Forces Group
+      label: Counterdrug deployments
+      note: "Up to 14 special forces deployments to Peru were authorised in 1997."
+---
+::
+
+On guard in his radar site's command center, Weygandt overheard two Air Force operators discussing objects flying in and out of the atmosphere at Mach 10 or more, nearly 7,700 mph, stopping "on a dime" and turning back the way they came. "Meteors don't do that," he says. About 30 minutes later, an Air Force colonel came in and took the logbooks of tracked flights. He says the same officer did this three or four times while he was on duty, and assumes it was so that nobody would know the objects were being tracked.
+
+## The Encounter
+
+The video reconstructs the night of the crash, some time in March or April 1997:
+
+1. **The call.** Between 11 p.m. and midnight, while Weygandt was on guard, [[Sergeant Montil|Staff Sergeant Montil]], [[Sergeant Allen]] and [[Sergeant Atkins]] told him that an aircraft, possibly friendly, had crashed and the Marines were needed to secure the site.
+2. **The approach.** At 3 or 4 a.m. eight to ten Marines set out in five or six Humvees with maps, radios and compasses, then went on foot through the bush. They reached the area around first light, 6 to 7 a.m.
+3. **The gash.** The site was easy to find: something had cut a trench through the jungle, burning trees cleanly "like... a warm butter with a knife", as if by a laser. Weygandt, Allen and Atkins were on point, 10 to 20 m ahead of the others.
+4. **The craft.** Rather than climbing straight up, the three went left to the top of the ridge and saw the craft buried in its side, a rock face at least 200 feet high. It had hit the ground, burned a foot or two into it, and ploughed into the ridge at a 45-degree angle.
+5. **Closer.** The three climbed down toward it. Weygandt ran up closest while Allen and Atkins hung back, shouting at him to stop. The Marines spent 15 to 20 minutes at the site.
+
+::wiki-watch{video="7Jc2G5aEH0A" title="1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt"}
+::
+
+### The craft
+
+From Weygandt's testimony and his sketches:
+
+- A massive metallic egg or teardrop about **10 m high and 20 m long**, which he compares to roughly sixteen 53-foot trailers.
+- **Organic rather than machined**: "it seemed to just like be alive... it looked like it was sculpt[ed]".
+- A purple-green surface that kept shifting like soap film on a car or gasoline on water, sometimes going almost silver or near-translucent. The host calls it the [[Mother of Pearl Effect]]. Weygandt thought it was a field on the surface, not the material itself.
+- **No shadow and no reflection.** The craft seemed to absorb sunlight; only its vents cast shadows.
+- Large **gill-like vents** down the exposed side, which he guessed were for propulsion and repeated on the hidden side, plus notches and bumps, and something like a "force shield" in a tapering ellipse.
+- **Three non-flush hatches** near the top, one half-open onto blackness "like looking into a closet".
+- A single light circling the craft, slowing as a very loud, deep hum faded, until everything shut off. He likens the sound to an unplugged guitar amplifier, "a chemical, watery kind of sound". The host notes that [[Michael Herrera]] described the same sound from an octagonal [[Alien Reproduction Vehicle (ARV)|reproduction vehicle]].
+- **Catastrophic damage**: a huge gash in the rear, but no debris. After years of studying the [[MIM-23 Hawk Missile|MIM-23 Hawk]], Weygandt believes an air-burst fragmentation round, probably fired by Peruvian forces, downed it, since the Marines had removed Hawks from Laser Strike in early 1997. The host adds that a conventional missile might never hit a moving craft, but a proximity burst could get "just close enough".
+
+### The liquid and the occupants
+
+A clear liquid as thick as maple syrup ran from the broken hatch and covered the surrounding plants. From 50 to 100 yards out, Weygandt was soaked in it; it discoloured his uniform like acid, and he says it permanently took the hair on his legs. Compasses spun and communications failed. Through the half-open hatch he saw a four-fingered arm hanging limply, "probably dying". The host says Weygandt told Greer about the arm and Greer cut it; he likens it to Kecksburg witnesses who saw occupants' appendages once a hatch opened.
+
+Weygandt also felt a presence, "like if someone was reading your mind", with static like a detuned AM radio at full volume. The occupants projected fear, then the message that they meant no harm, that "everything is going to be all right", and "help us get out of here". He has since seen them in his thoughts and dreams as classic grey beings, but thin and 8 to 10 feet tall with elongated heads, unlike the cover of Whitley Strieber's *Communion*. He thinks there were four or five aboard.
+
+> [!note] Thought-controlled craft in 2000
+> The communication, and the look of the craft, led Weygandt to believe it was flown by thought. The host finds this striking in light of the 2025 discussion of [[Psionics|psionics]] prompted by [[Jake Barber]] and [[Skywatchers|Skywatcher]]. He notes that accounts of craft controlled through consciousness or headband transceivers go back to the 1950s, including those of [[Philip J. Corso]].
+
+## Detention
+
+1. **Intercepted.** Climbing back up the ridge, the Marines saw two to four Army CH-47 Chinooks come in to land in a nearby clearing. At the top they were held at gunpoint by older men, in their late 30s and 40s, in black fatigues with no insignia, name tapes or rank, wearing boonie hats and soft caps and carrying MP5s, Glocks, shotguns and perhaps M16s. They spoke with American accents and, Weygandt is sure, had been on the ground before the helicopters, watching the Marines. The Chinooks carried manned guns, their gunners in skull-like helmets.
+2. **Disarmed.** The operators stripped the Marines of their gear. Weygandt swung at one and hit him in the forehead, and was beaten and forced face down, getting more of the liquid on him.
+3. **The science team.** About 30 people from the helicopters marched past him down to the craft. Many wore rain jackets lettered "Delta, Oscar, Echo" on the back; others wore gas masks and MOPP gear at different levels of protection, or high-tech zip-up containment suits with breathing apparatus, "swarming like rats". They stripped him to his underwear, bound his feet, handcuffed him to a stretcher and loaded him onto a Chinook. Neither sergeant, he believes, got any liquid on them.
+4. **The holding base.** He was flown to a base with permanent structures, which he thought might be Peruvian military, where he saw Americans alongside armed Chinese and German personnel who shouted at him not to look at them. He was taken underground to an interrogation room and handcuffed to a chair for about 15 hours, and held for up to two days.
+5. **The threats.** One of the black-clad men from the site taunted him: "Are you a patriot? You like the Constitution?... Well, we don't... we're on our own program." For eight or nine hours they threatened to throw him out of a helicopter over the jungle and to "do you and your whole family".
+6. **The papers.** Near the end, an Air Force lieutenant colonel with no name tag told him he "never saw this", that "I don't exist", and that he would "come up missing" if he talked, and had him sign two security forms.
+7. **Driven back.** Hooded so he could neither see nor hear, he was *driven* back to his base, which the host treats as a key clue that the holding site was nearby. There he was kept apart with Air Force personnel for three weeks, unable to contact Allen, Atkins or the others, before being sent back to Cherry Point.
+
+By May 1997 Weygandt had nightmares, missing time and strange dreams he had never had before, and he maintains the Marine Corps tried to make him look unstable. By late 1997 he admitted using banned substances so the Corps would discharge him, while his unit and the Criminal Investigation Division made his life "horrific". He was out by March 1998.
+
+## Who Was the Retrieval Team?
+
+The host breaks the team into three parts and proposes an identity for each:
+
+::wiki-grid{cols=3}
+::wiki-panel{title="The science team" tone="accent"}
+**Seen:** about 30 people in "DOE" rain jackets, gas masks, MOPP gear and containment suits, arriving by Chinook.
+
+**Host's identification:** the [[NEST (Nuclear Emergency Support Team)|Nuclear Emergency Support Team]], the Department of Energy's nuclear emergency force. He says he now holds this "with even stronger conviction", as RGH UFOs did before him.
+
+**Why:** NEST's job was to be first on scene anywhere in the world, it could commandeer military aircraft, and it works under the [[Atomic Energy Act of 1954]]. The varying levels of MOPP gear suggest protection graded by how close each person would get to the craft.
+::
+::wiki-panel{title="The armed men in black"}
+**Seen:** older, unmarked Americans in black, already on the ground before the helicopters, who looked Army to Weygandt by their caps.
+
+**Host's identification:** the [[US Army 7th Special Forces Group]], already in Peru for counterdrug training and "recruited" by NEST as its enforcement arm. NEST personnel were not armed operators.
+
+**Alternatives:** a [[DOE Special Response Teams (SRTs)|DOE Special Response Team]] (all-black kit in the 1980s, trained by [[Wackenhut Services|Wackenhut]], but not known to operate abroad), or a dedicated [[JSOC (Joint Special Operations Command)|JSOC]] retrieval team.
+::
+::wiki-panel{title="The CH-47 Chinooks"}
+**Seen:** two to four Army Chinooks with manned guns.
+
+**Host's identification:** the [[1st Battalion 228th Aviation Regiment]] of [[Joint Task Force Bravo]], a Southern Command task force based in Panama and Honduras with Chinooks in its fleet, which flew with the 7th Special Forces during the 1995 Peru-Ecuador border dispute.
+
+**Alternative:** the [[160th Special Operations Aviation Regiment]], the "Nightstalkers". The host thinks them less likely: they are based at Fort Campbell, Kentucky, too far to reach Peru in time, unless elements were already stationed in the region.
+::
+::
+
+### The Nuclear Emergency Support Team
+
+The host describes the NEST of the mid-1990s from a 1996 briefing, a 1995 assessment team report and [[Jeffrey T. Richelson]]'s book *Defusing Armageddon*. Created in 1974 as the Nuclear Emergency Search Team, it assisted the FBI and other agencies with incidents involving nuclear materials. On deployment it restricted access, ran diagnostics, mitigated threats, coordinated agencies and handled disablement and clean-up, with its own vans, MBB Bo 105 helicopters and Cessna Citation II jets. Its staff were chemists, engineers, health physicists, nuclear physicists, analysts and logistics personnel, drawn largely from contractors rather than the Defense Department. The 1995 report said its laboratory program managers "enjoy a relatively high degree of autonomy and independence".
+
+::wiki-org-chart
+---
+root:
+  name: Department of Energy
+  label: "Successor to the Atomic Energy Commission"
+  note: "For the host, its authority under the Atomic Energy Act of 1954 is what lets a DOE team take custody of a crash."
+  children:
+    - name: NEST (Nuclear Emergency Support Team)
+      label: "Nuclear emergency response, created 1974"
+      note: "The host's identification of the people in 'DOE' jackets and protective suits."
+      children:
+        - name: "Joint Technical Operations team"
+          label: "Introduced February 1997"
+          note: "Faster deployable support for the Defense Department, 24 hours a day, 365 days a year."
+        - name: "Laboratory and contractor partners"
+          label: "Per a 1996 NEST briefing"
+          children:
+            - name: Sandia National Laboratories
+              label: "Host's candidate point of departure"
+            - name: Los Alamos National Laboratory
+            - name: Lawrence Livermore National Laboratory
+            - name: EG&G
+              label: "Bob Lazar's claimed employer"
+            - name: "Raytheon"
+        - name: "Military partners"
+          label: "Per a 1995 assessment report"
+          note: "Military aircraft were to be made immediately available for NEST deployments."
+          children:
+            - name: "Naval EOD Technology Division"
+            - name: "Army 52nd Ordnance Group"
+            - name: SOCOM
+              label: Special operations forces
+    - name: DOE Special Response Teams (SRTs)
+      label: "The department's armed protective force"
+      note: "The host's less likely candidate for the men in black."
+---
+::
+
+The host adds three threads tying NEST to the case. In February 1997, one to two months before the crash, NEST set up a **Joint Technical Operations team** to support the Defense Department faster than existing teams, around the clock. **The same year, according to Richelson, NEST weighed a deployment to South America**: when Russia's Mars 96 probe, carrying 18 small plutonium-238 power sources, failed to leave Earth orbit, US Space Command expected surviving debris to fall on Bolivia or Colombia, and NEST, working from Space Command and Defense Support Program satellite data, stood down only when it fell into the Pacific. And **DSP satellites watch for UFOs**: contractor [[Bob Fish]] told [[John Podesta]] in the leaked 2016 emails that the DSP program "collects hard data on unidentified flying objects". A fast-walker case relayed to [[Joseph Stafula|Joseph Stefula]] had an object pass within 1.5 miles of a DSP satellite. The satellites are managed by the [[NRO (National Reconnaissance Office)|NRO]], which [[Christopher Sharp]]'s reporting ties to foreign crash retrievals.
+
+On the armed men, the host sets out Sharp's model of foreign retrievals: the CIA's [[CIA Office of Global Access|Office of Global Access]] handles logistics and JSOC supplies the "boots on the ground". JSOC's units include Delta Force, SEAL Team 6, the 24th Special Tactics Squadron and the shadowy Intelligence Support Activity, which began under Army [[Army INSCOM|INSCOM]], the command later led by General [[Albert Stubblebine]]. Weygandt himself saw special forces training while guarding the radar site.
+
+> [!note] Rapid recovery units
+> The host argues that stories of highly organised, dedicated recovery units are "inseparable" from crash retrieval testimony. His examples: the USAF "Blue Berets" said to be at the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg crash]], where witnesses also saw men in white "moon suits" carry a box to the object; Leonard Stringfield's "Blue Boys" helicopter teams; the rapid-response unit said to be first at the [[1953 Kingman, Arizona Crash Retrieval|1953 Kingman crash]]; and the [[1974 Coyame, Mexico UFO Crash Retrieval|1974 Coyame crash]]. In the Coyame case, according to the allegedly leaked DAB report, the CIA sent a team from [[Fort Bliss]] in unmarked helicopters with hazmat gear after a containment breach killed the Mexican soldiers at the site. The Navy's [[Project Sanddollar|Project Sand Dollar]] submersibles could deploy anywhere within 72 hours; the Peru team, by the host's estimate, did it in about 11 percent of that time.
+
+## The Host's Reconstruction
+
+Putting the pieces together, the host proposes this sequence, which he admits rests on many assumptions and invites competing theories:
+
+1. Laser Strike's radars, and probably NRO-managed DSP satellites, tracked the object. It crashed, in Weygandt's view after a hit from a Peruvian Hawk battery.
+2. On satellite intelligence, a NEST team flew from the mainland United States in its own jets; the southernmost NEST laboratory is Sandia, in New Mexico.
+3. It brought a DOE Special Response Team or used 7th Special Forces troops for security, and, under its Defense Department authority, borrowed Army Chinooks from the 160th or from Joint Task Force Bravo.
+4. The team and its armed escort found Marines already at the site. One resisted and, having touched the leaking liquid, was stripped by NEST personnel, isolated and flown to a secure base with medical facilities for quarantine, interrogation and debriefing.
+5. He was held for up to 48 hours, threatened and forced to sign confidentiality agreements, then driven back to his base and soon sent home to Cherry Point.
+
+### Where did it happen?
+
+Weygandt said the crash was 5 to 10 miles over the Bolivian border. The host thinks he misspoke. His radar site tracked narcotics flights from Bolivia, and 1998 maps of narco routes run through Iquitos. The host instead works from Weygandt's timings:
+
+| Leg | Host's assumptions | Result |
+|---|---|---|
+| Marines, base to crash | Left 3–4 a.m., arrived 6–7 a.m.: about 2.5 h of driving at a cautious 35 mph, and a 2-mile hike in 30 minutes (Weygandt mentions sweat but not fatigue) | About 88 + 2 miles: a **90-mile radius**, ±25%, from the base |
+| Warning | NRO-managed DSP satellites alerted the team about an hour before the Marines heard | About **9 hours** for the team to gather, brief and arrive |
+| NEST flight | 3,446 miles from Santa Fe, New Mexico, to Iquitos by Citation II at 464 mph | About **7.5 hours** |
+| Helicopter | 90–100 miles from Iquitos by CH-47 at 180–196 mph | About **30 minutes** |
+| What is left | Personnel, gear and ground briefings | About **1 hour**: "a tight squeeze" |
+
+::wiki-grid{cols=2}
+::wiki-panel{title="Pucallpa: the usual assumption"}
+Laser Strike's primary site, about 300 miles from Lima: under an hour by C-130. Since at least 2001 it has been publicly named as a Laser Strike location. The host describes it as a makeshift forward operating base rather than a place with permanent structures.
+::
+::wiki-panel{title="Iquitos: the host's candidate" tone="accent"}
+More than 630 miles from Lima, close to two hours by C-130, which with one stop fits Weygandt's "several hours" flight. It was home to Air Force Radar Detachment 5, which the host found mentioned only once, the Marine riverine training team and NAMRU South. A Marine who served in the operation refused to discuss his base, which the host takes as a sign that it was not the already-public Pucallpa.
+::
+::
+
+On this reading, the crash lay within about 90 miles of Iquitos, 5 to 10 miles from the Colombian or Brazilian border. That is country where the 7th Special Forces and Joint Task Force Bravo had operated during the 1995 border dispute.
+
+## Where Was He Held?
+
+The host has "high suspicion" that Weygandt was taken to NAMRU South (formerly NAMRU-6). This is the Navy medical research unit with offices in Lima and Iquitos, part of a worldwide network of biomedical laboratories working on infectious disease and biodefense. The network also has sites at Joint Base San Antonio, Sigonella in Sicily, Singapore, and [[Wright-Patterson Air Force Base]].
+
+::wiki-grid{cols=2}
+::wiki-panel{title="For NAMRU South" tone="accent"}
+- Weygandt was soaked twice in the liquid, stripped by suited personnel and isolated from Allen and Atkins, which suggests a contamination scare.
+- It is a sensible quarantine and holding site for a Marine exposed to possibly toxic material.
+- It is within driving distance of Detachment 5, and Weygandt was driven back.
+- NAMRU sites are multinational; German military and diplomatic visits to NAMRU South in Lima are recorded as recently as 2023.
+::
+::wiki-panel{title="Against"}
+- He was held for only two days, where a quarantine might take a week.
+- He says he underwent no medical procedures at all.
+- He was held close to the operator and the Air Force lieutenant colonel who threatened him.
+- The Chinese and German personnel were armed operators, not diplomats or scientists.
+- He was held underground.
+::
+::
+
+The host also floats a dedicated JSOC-linked retrieval team stationed in South America, perhaps at [[Howard Air Force Base, Panama]], which would fit the same timeframe.
+
+## Checking the Story
+
+The host identified the three Marines Weygandt names, Staff Sergeant Montil and Sergeants Allen and Atkins, as real veterans who all had long, distinguished Marine Corps careers after Laser Strike. He wrote to them on several platforms, and to about ten people tied to the operation in all, including Air Force personnel he associates with Detachment 5, most of whom cited classification. Only one Marine answered, and the host keeps his identity private. His outreach mentioned a MACG-28 lance corporal's story of "a unique downed aircraft" without naming Weygandt.
+
+::wiki-grid{cols=2}
+::wiki-panel{title="The sergeant's reply"}
+- "The operation is still classified. However, there was no incident involving a unique downed aircraft that I know of or encountered during my deployment."
+- He knew of a Lance Corporal Weygandt in his platoon, whom he called a good, respectful and dedicated young Marine with a medical condition.
+- Much of his reply argued that the Marines could not have had Hawk batteries in Peru in 1997.
+- He said Weygandt never deployed to Pucallpa or to Laser Strike, may have picked up details from Marines who did, and "was never a participant in any clandestine operations".
+::
+::wiki-panel{title="The host's response" tone="accent"}
+- Weygandt agrees that the Marines had no Hawks there. His theory has always been that *Peruvian* Hawks downed the craft.
+- Weygandt never claimed to take part in a clandestine operation; his unit simply ran into one.
+- MACG-28 Marines from Cherry Point did deploy to Laser Strike. Weygandt described the operation accurately as early as August 2000, and his only apparent error is the Bolivian border.
+- As with attacks on [[David Grusch]], and Michael Herrera's team leader calling him unstable for lifting weights and keeping to himself, he objects to dismissing witnesses over their health.
+::
+::
+
+> [!note] A personal bias, declared
+> The host says he is a close friend of Weygandt. He describes him as a man with a successful career and relationships who does not seem to suffer delusions that could produce so specific a story, but who was badly affected by the interrogation and by the feeling that beings in the wreck were calling out for his help. He contrasts Weygandt's forced exit in 1998 with the long careers of Montil, Allen and Atkins, and says he is not implying any connection.
+
+## Egg-Shaped Precedents
+
+Since Jake Barber's testimony, egg-shaped retrievals have become a popular topic. Barber's craft, though, was a smooth white egg the size of an SUV, while Weygandt's was far larger, with hatches, a circling band of light and gill-like vents. The host sets it beside two historical cases instead:
+
+| | Weygandt, Peru, 1997 | HJ, Camp Polk, 1953 | Collins, Berkeley, 1947 |
+|---|---|---|---|
+| Shape | Egg or teardrop | Egg-shaped ovoid | Oval, "like an egg with the shell cracked" |
+| Size | About 10 m high, 20 m (66 ft) long | As wide as a ranch house: 35–70 ft | 30–40 ft across, about 15 ft high |
+| Surface | Sculpted, shifting purple-green, no shadow | No windows or lights | Polished-aluminium silver; multi-layered honeycomb skin |
+| Around the middle | A light circling the craft until it stopped | A still-rotating fin-like protrusion on the equator | A seam all the way around |
+| Damage | Large gash in the rear | Ground around it burned to powder | Apparent internal explosion; section torn off, gash on top |
+| Occupants | Four-fingered arm at a half-open hatch; four or five sensed | One dead on a stretcher; three living, led out "like children" | None seen; a shiny sphere inside a bulkhead |
+| Recovery | DOE team, armed operators, Chinooks | Special detachment, medics, ambulance | Tarp-covered flatbed backed into a warehouse |
+
+**Camp Polk.** In the [[1953 Camp Polk UFO Crash Retrieval]], from [[Leonard Stringfield]]'s *Status Report III*, a 17-year-old private known as HJ saw an egg crash-land at dusk during maneuvers in July 1953. He got within 15 yards before a Lieutenant Whitting ordered his company back, and the host says he could place a real Lieutenant Whitting at the base. The three living occupants were 3.5 to 4 feet tall and slight, in dull metallic green, and walked as if they had no knees. One kept looking at the body on the stretcher and "made strange noises". HJ later heard that all of them died in isolation and that the bodies went to a medical center near Washington, which the host suggests was Fort Detrick, home of [[Battelle Memorial Institute]]'s biodefense FFRDC. He relates the occupants' lack of response to an anonymous retrieval operator's account of leading occupants out of craft, and to the idea that some are something like biological androids.
+
+**Berkeley.** In Stringfield's 1991 *Status Report VI*, researcher [[Tim Cooper]] interviewed "Barnabas", [[Albert Bruce Collins]], on 20 November 1990, weeks before Collins's death on 30 December 1990. Collins said he was a metallurgical engineer who had developed alloys for electromagnetic propagation and magnetic-field propulsion from 1942 into the late 1950s; the host can confirm only, from his obituary, that he was a veteran. Collins said he watched the egg go into a warehouse at the [[University of California, Berkeley]] in 1947 on a trailer, which reminds the host of the Army lowboys described at Kingman and Kecksburg. He also said that by 1949 he had studied metal of unknown origin and learned that the Army, Air Force and Navy intelligence offices, the CIA, the [[RAND Corporation]] and the [[Vatican]] were all working on technologies of unknown origin. The projects he named were:
+
+- **Archangel**, between the CIA, RAND and the Vatican.
+- **Black Book**, under the Air Force.
+- **Blue Book**, the Air Force's public project.
+- **White Book**, between the CIA and the Vatican.
+- **Yellow Book**, a scientific panel of an unknown review board.
+
+His claim that Los Alamos studied green fireballs lines up with the Atomic Energy Commission's real [[Project Twinkle]]. The Vatican link reminds the host of the [[1933 Magenta UFO CrashRetrieval|1933 Magenta case]], in which, according to David Grusch and the late [[Harold Malmgren|Harald Malmgren]], Vatican intelligence alerted the US to a disc in Axis hands. He also recalls "RK", a gunnery instructor who said he saw a 30-foot teardrop-shaped craft on a platform at Great Lakes Naval Station in 1973, allegedly shot down by a destroyer and recovered by the [[National Underwater Reconnaissance Office]].
+
+## Open Questions
+
+In his closing remarks the host lists what his conversations with Weygandt added and what they leave unresolved:
+
+- **New details.** The black-clad men were there first, which points to local special forces arriving by vehicle; Weygandt read them as Army by their headgear; the armed Chinese and German personnel at the holding site raise the idea of multinational recovery teams, as in Canadian politician Larry Maguire's letter to his defence minister about Five Eyes projects and retrieval teams; and MOPP gear was graded by proximity to the craft.
+- **Getting it out.** How do you extract a craft that size from a granite cliff face? Were the occupants removed first, and was the liquid contained?
+- **An aquatic crew?** Weygandt now wonders whether the liquid was not fuel but water filling the craft like an aquarium, and whether its occupants were an aquatic species.
+- **Where it went.** Perhaps to the Office of Naval Research, or through NAMRU to Wright-Patterson.
+- **The other Marines.** Seven or more Marines who stayed behind may also have seen the craft; what became of them is unknown.
+
+The host is planning a longer, more relaxed interview with Weygandt about his life before and after the encounter. He notes that nearly 30 years on, Weygandt remembers less, and he credits him for saying when he does not know or is speculating.
+
+## Key Figures
+
+::wiki-roster
+---
+entries:
+  - name: Jonathan Weygandt
+    role: "Lance Corporal, MACG-28, US Marine Corps (1995–1998)"
+    note: "Says he found the crashed egg, was soaked in its liquid, saw an occupant's arm, and was detained and threatened by the retrieval team in 1997."
+  - name: Sergeant Allen
+    role: "Sergeant, MACG-28"
+    note: "On point with Weygandt; by his account saw the craft from a short distance and was detained with him."
+  - name: Sergeant Atkins
+    role: "Sergeant, MACG-28"
+    note: "The third Marine on point, shouting at Weygandt not to get closer; later a long Marine Corps career."
+  - name: Sergeant Montil
+    role: "Staff Sergeant, MACG-28"
+    note: "Named by Weygandt as knowing of the crash and sending the Marines out. One of the three sergeants answered the host and denied the incident."
+  - name: Steven Greer
+    role: "Disclosure Project founder"
+    note: "Recorded Weygandt's 2000 testimony; the host says the published version cut the four-fingered arm."
+  - name: Jeffrey T. Richelson
+    role: "Intelligence historian"
+    note: "His NEST history supplies the Mars 96 episode and much of the host's picture of the team."
+  - name: Leonard Stringfield
+    role: "Crash retrieval researcher"
+    note: "His Status Reports III and VI hold the Camp Polk and Collins egg-shaped cases."
+  - name: Albert Bruce Collins
+    role: "Claimed metallurgical engineer"
+    note: "Said he saw a cracked egg-shaped craft at Berkeley in 1947 and named joint CIA, RAND and Vatican projects."
+---
+::
 
 ## Key Claims
-- A crashed egg-shaped UFO encountered by Wagant emitted a purplish-green viscous liquid described as organic-looking and alive.
-- The craft did not cast a shadow despite direct sunlight and appeared to absorb light rather than reflect it.
-- A Department of Energy retrieval team wearing MOPP gear and hazmat suits was present at the crash site.
-- Wagant observed what appeared to be a four-fingered arm hanging from a recessed hall in the crashed craft, a detail omitted from the published 2000 testimony by Steven Greer.
-- The craft's surface appeared sculpted rather than machined, with large vents that seemed to lead into the interior.
-- Wagant suffered adverse health effects after contact with the liquid at the crash site, including it getting in his hair and face.
-- Steven Greer edited Wagant's original tape testimony, cutting out significant details including the description of the non-human arm.
-- Filmmaker James Fox asked questions during the original 2000 taping that were removed from the published version.
-- An Air Force colonel confiscated flight log books from a command center on multiple occasions after personnel discussed unidentified objects re-entering the atmosphere.
-- Radar operators observed and logged objects that re-entered the atmosphere, stopped instantaneously, and reversed direction — behavior inconsistent with meteors or conventional aircraft.
-- Between March and April 1997, U.S. Marines were dispatched to secure the crash site of what was described as a possibly friendly downed aircraft.
-- Upon reaching the crash site, Marines found a large gash in the jungle where something had crashed, with trees cut cleanly rather than broken, suggesting an energy source like a laser.
-- The unidentified craft was embedded at a 45-degree angle into a solid granite cliff face roughly 200 feet high, with hatches visible — one partially open.
-- The craft allegedly did not cast a shadow despite direct sunlight shining on it, which the witness described as highly anomalous.
-- The downed craft was a massive metallic teardrop shape approximately 10m tall and 20m long with no debris around it but a large gash in the rear.
-- Jonathan Wagant believes a Hawk MIM-23 fragmentation air burst missile caused the damage and downing of the craft.
-- The craft was described as metallic but organic, sculpted rather than machine-made, with a shifting purplish-green mother of pearl color effect.
-- A clear, syrup-viscosity liquid was dripping from an open or broken hatch on the craft and had spread over surrounding foliage.
-- A single light slowly circled the craft's circumference and slowed to a stop as the craft powered down with a deep bass hum.
-- The guitar amplifier-like sound described by Wagant is nearly identical to testimony from former Marine Michael Herrera regarding an octagonal alien reproduction vehicle.
-- The Peruvian Air Force is suspected by Wagant to have been the operator of the Hawk system that downed the craft.
-- Jonathan Wagant reported that a mysterious liquid from the crashed craft discolored his uniform like acid and caused him to permanently lose hair on his legs.
-- Wagant observed a four-fingered arm hanging limply from a half-open hatch on the craft, suggesting at least one entity was dying from the crash.
-- Compasses were spinning and all communications equipment failed in proximity to the crashed craft.
-- Wagant reported experiencing what he believed was telepathic communication from entities inside the craft, feeling they projected emotions and were requesting his help.
-- The sound described by Wagant near the craft is compared as nearly identical to that described by former Marine Michael Herrera near an alleged alien reproduction vehicle.
-- Wagant described the entities as matching the classic 'gray alien' description with an oval egg-shaped head.
-- The detail about the four-fingered arm was allegedly cut from Wagant's 2000 interview with Steven Greer despite Wagant having informed Greer of it.
-- Wagant reported that the craft's surface was not smooth but featured notches, bumps, and gill-like vents possibly used for propulsion.
-- Jonathan Wagant claims to have mentally perceived the appearance of non-human entities described as tall gray aliens, 8 to 10 feet in height with elongated skulls.
-- The non-human entities reportedly communicated telepathically to Wagant that they meant no harm and needed help escaping.
-- Wagant estimates there were four or five occupants aboard the craft.
-- Unknown operators in all-black BDUs with no insignia or identification were already on the ground before the CH47 helicopters landed, suggesting prior knowledge and monitoring of the Marines.
-- Wagant was beaten and restrained after striking one of the unknown operators during the forced gear confiscation.
-- A team of approximately 30 individuals bearing the designation Delta, Oscar, Echo arrived in MOPP gear, suggesting a pre-planned scientific response to the incident.
-- The narrator connects Wagant's 2000 account of thought-controlled craft to a broader pattern of similar claims dating back to the 1950s and to Colonel Philip J. Corso's testimony.
-- The CH47 helicopters were equipped with manned gun positions and the gunners wore skull-type helmets.
-- Clandestine operators explicitly told Wagant they do not follow the Constitution and operate on their own independent program.
-- An unnamed Air Force lieutenant colonel threatened to leave Wagant dead in the jungle if he disclosed what he witnessed.
-- Wagant was forced to sign two secrecy waivers asserting he had not witnessed the crash retrieval.
-- Approximately 30 personnel in high-tech biological containment suits were present at the retrieval site.
-- Personnel at the site wore rain jackets with 'DOE' (Delta Oscar Echo) markings on the back.
-- Wagant believes there were internal USMC efforts to make him appear mentally unstable and an unreliable witness.
-- Wagant's post-event symptoms including nightmares, missing time, and weird dreams did not exist before witnessing the crash.
-- Wagant was driven rather than flown back to his base, suggesting the detention facility was in close proximity.
-- Personnel at the Peruvian UAP crash site wore black uniforms with no rank insignia or name tapes and were identified by 'Delta Oscar Echo' (DOE) markings.
-- Clandestine operators, likely pre-positioned before the CH47s arrived, disarmed and forcibly apprehended the Marine witnesses at the crash site.
-- Jonathan Wagant was forced to strip to his underwear, restrained, and isolated from his fellow Marines before being transported to an unknown camp.
-- The DOE recovery team was able to plan, mobilize, execute, and contain a UAP crash retrieval site in Peru within approximately 8 to 9 hours.
-- The rapid deployment speed of the Peruvian recovery team implies it was a highly organized, standing rapid reaction recovery unit.
-- Stories of dedicated, efficient UFO crash recovery rapid reaction units are a consistent and inseparable element of UAP crash retrieval testimonies.
-- In the 1974 Coyame, Mexico case, a CIA-mobilized US recovery team arrived via unmarked helicopters equipped with hazmat gear after a containment breach of toxic materials killed the Mexican military retrieval team.
-- The Department of Energy's Nuclear Emergency Support Team was created in 1974, the same year as the Coyame crash, suggesting a possible connection to the origins of DOE crash retrieval capabilities.
-- Peruvian Hawk MIM-23 missile batteries may have targeted and downed the UAP recovered in Peru.
-- USF Radar Detachment 5 in Iquitos, Peru is the most likely base of operations for Jonathan Wagant and the Marines involved in the UAP crash incident.
-- Based on travel time calculations, the UAP crash site is estimated to have occurred within a 90-mile radius of Iquitos, Peru.
-- Wagant likely misspoke when identifying the Bolivian border; the crash more probably occurred near the Colombian or Brazilian border.
-- The armed men in black camouflage who secured the crash site were already on the ground before the CH-47 helicopters arrived, suggesting pre-positioning.
-- The analyst believes the men in black camouflage were US Army 7th Special Forces, who had a historical presence in northern Peru.
-- NRO-managed DSP satellites likely gave the rapid reaction retrieval team approximately one hour of advance warning about the crash.
-- Iquitos hosted three significant US DoD assets: USF Radar Detachment 5, MARFORLAND Riverine Training Team, and NAMRU-6, all consistent with Wagant's testimony.
-- DOE personnel were part of the retrieval team that arrived at the crash site within 15-20 minutes of the Marines.
-- NAMRU South in Lima/Aikitos, Peru is theorized as the location where Jonathan Wagant was held after encountering the crashed non-human craft.
-- Wagant stated he was only held at the location for 2 days and did not undergo any medical procedures.
-- Researcher identified and contacted multiple USMC veterans named by Wagant, including Sergeants Montil, Allen, and Atkins, all confirmed as real veterans.
-- One anonymous sergeant responded, confirming Operation Laser Strike is still classified but denying knowledge of any incident involving a unique downed aircraft.
-- The responding sergeant confirmed awareness of a Lance Corporal Wagant who served under his platoon.
-- Hawk MIM-23 missile batteries were phased out of US forces in 1994 and Laser Strike ceased usage in 1997, making Wagant's theory that a Hawk battery downed the craft point to Peruvian forces.
-- Wagant claims Sergeant Allen and Sergeant Atkins accompanied him to the site and observed the crashed egg-shaped craft with 100% confidence.
-- The researcher believes Ikitos, Peru serves as the primary focus for the UFO crash retrieval and forced holding of Lance Corporal Jonathan Wagant.
-- Jonathan Wagant theorized the egg-shaped craft in Peru was struck by a Hawk MIM-23 missile battery operated by local Peruvian forces based on ballistic and fragging damage patterns.
-- Hawk missile batteries were phased out of US forces in 1994, but the Marine Corps continued use until 2002, and Operation Laser Strike ceased Hawk usage in 1997.
-- A sergeant contradicted Wagant's account, claiming Wagant never deployed in support of Operation Laser Strike and never participated in any clandestine operations.
-- MAC G28 Marines from Cherry Point, North Carolina did deploy to Operation Laser Strike, making it plausible Wagant deployed with them.
-- Wagant's initial August 1, 2000 outreach to Steven Greer described Operation Laser Strike with a level of accuracy inconsistent with someone fabricating the account.
-- The narrator argues that dismissing whistleblowers due to alleged health conditions, as done with Wagant and David Grusch, is a flawed tactic.
-- Leonard Stringfield's UFO Crash Retrieval Status Report 3 documents a 1953 Camp Polk incident involving an egg-shaped craft with fin-like protrusions on its equator, similar to Wagant's description.
-- In the 1953 Camp Polk incident, three living occupants emerged from the craft and were aided by medics, with one occupant making strange noises while looking at a body on a stretcher.
-- The egg-shaped craft at Camp Polk in 1953 was estimated at 35–70 feet wide, consistent with Wagant's estimate of approximately 66 feet for the Peru craft.
-- Wagant's account of a band of light along the craft's circumference closely parallels the 1953 Camp Polk report of a fin-like protrusion rotating around the craft's equator.
-- HJ witnessed three UAP occupants emerge from a crashed craft, with one appearing distressed over a companion on a stretcher.
-- UAP occupants at Fort Pulk were described as 3.5 to 4 feet tall, wearing metallic green uniforms, with large heads possibly covered by helmets.
-- The living UAP occupants showed minimal cognitive response and were led out of the craft by hand like children.
-- All UAP occupants from the Fort Pulk retrieval died in captivity after being placed in isolation.
-- Corpses from the Fort Pulk retrieval were allegedly sent to a medical center near Washington DC, possibly Fort Detrick.
-- Albert Bruce Collins claimed to have observed a damaged, oval UAP at UC Berkeley in 1947 being moved into a warehouse on a flatbed trailer.
-- Collins alleged that by 1949, multiple agencies including the CIA, RAND Corporation, US Army, Air Force, Navy, and the Vatican were involved in technologies of unknown origin research.
-- Collins claimed to have studied metal of unknown composition and origin in an official capacity from 1942 to the late 1950s.
-- A previous whistleblower from an infographic show described retrieval teams leading UAP occupants out of craft in multiple retrieval operations, consistent with HJ's account.
-- The UAP observed by Collins featured a seam around the edge, multi-layered honeycomb skin, and a shiny sphere at the center, similar to details from the Wigant case.
-- Men in black camouflage arrived at the UAP recovery site before the CH-47 helicopters, suggesting they were local special forces rather than an airlifted team.
-- A multinational group including Germans and Chinese personnel, all armed, was present at the UAP recovery site.
-- Canadian politician Larry Maguire wrote to Canada's Minister of Defense requesting information about UAP retrieval teams connected to Five Eyes projects.
-- The recovered craft was massive and lodged into a granite cliff face, raising logistical questions about how it was extracted.
-- Jonathan Wayan theorized the craft may have been filled with water, suggesting the biological entities encountered could be an aquatic species.
-- Marines Atkins, Allen, and Montgre all went on to long, prestigious USMC careers while Jonathan Wayan was effectively forced out in 1998.
-- The one contacted Marine denied Jonathan ever deployed to Pucallpa or Laser Strike, despite MAC G28 documentation indicating Marines did deploy there.
-- The researcher believes Jonathan Wayan's account of encountering a downed non-human craft is one of the most extraordinary UAP cases of all time.
-- Whistleblower testimony is being systematically dismissed by associates citing mental health issues rather than addressing factual inconsistencies.
-- The narrator believes Jonathan Wayan's UAP encounter is genuine, calling it one of the most extraordinary cases of a downed UFO craft ever recorded.
-- Wayan came into contact with a non-human liquid from the craft and was subsequently isolated, stripped of his clothes, and threatened.
-- NAMRU South is theorized as the location where Wayan was held following the incident.
-- DOE NEST personnel are suspected to have been involved in the response to Wayan's contamination.
-- A dedicated JSOC retrieval team may have been stationed in South America, possibly at Howard Air Force Base in Panama, to respond to UAP events.
-- Materials or liquid from the craft may have been transferred to Wright Patterson Air Force Base.
-- Wayan was driven back to his base after isolation, suggesting the holding location was not extremely distant.
-- Several other Marines beyond Wayan, Atkins, and Allen may have witnessed the craft, and their fate is unknown.
-- Wayan has been increasingly reluctant to go on camera and is described as a very private person who finds it uncomfortable.
-- The creator states they will never gatekeep research or projects and all content will remain freely available.
-- The creator expresses intent to attend hearings and large UAP-related events in person rather than only covering them remotely.
-- The creator frames their work as actively contributing to UAP disclosure efforts.
 
----
-*Source: [YouTube](https://www.youtube.com/watch?v=7Jc2G5aEH0A)*
+- In March or April 1997, during Operation Laser Strike, Lance Corporal Jonathan Weygandt and Sergeants Allen and Atkins, sent to secure a "possibly friendly" downed aircraft, found a metallic egg-shaped craft about 10 m high and 20 m long buried at 45 degrees in a jungle ridge in Peru.
+- The craft looked sculpted and organic, shifted purple-green, cast no shadow, had gill-like vents and three hatches, and hummed while a light circled it until it powered down. A large gash in its rear suggested to Weygandt a hit from a Peruvian Hawk missile.
+- A clear, syrup-thick liquid leaked from a broken hatch and soaked Weygandt, discolouring his uniform and permanently removing the hair on his legs. He saw a four-fingered arm hanging from the hatch, a detail the host says Steven Greer cut from the 2000 testimony, and sensed tall grey occupants telepathically asking for help.
+- Armed, unmarked men in black who were already on the ground detained the Marines, while about 30 personnel in "DOE" jackets and MOPP gear arrived by Army Chinook, stripped Weygandt and flew him away.
+- Weygandt was held underground at a base with armed Chinese and German personnel for up to two days, threatened with death by an operator and an Air Force lieutenant colonel, made to sign two secrecy forms, driven back to his base, and kept apart for three weeks.
+- Before the crash, Weygandt overheard Air Force radar operators discussing objects at Mach 10 or more, and saw an Air Force colonel confiscate the logbooks three or four times.
+- The host identifies the science team as the DOE's Nuclear Emergency Support Team, likely flown from Sandia on warning from NRO-managed DSP satellites. He identifies the armed men as probably the Army's 7th Special Forces Group and the helicopters as probably from Joint Task Force Bravo's 1st Battalion, 228th Aviation Regiment.
+- The host places Weygandt at USAF Radar Detachment 5 in Iquitos, not Pucallpa, and the crash within about 90 miles of Iquitos near the Colombian or Brazilian border. He suggests NAMRU South as the holding site.
+- One sergeant named by Weygandt told the host that Laser Strike is still classified, that no such incident happened that he knew of, and that Weygandt never deployed. The host disputes this, since Weygandt's unit did deploy and he described the operation accurately in 2000.
+- The case parallels the 1953 Camp Polk egg crash, Albert Bruce Collins's 1947 Berkeley sighting and other accounts of dedicated rapid recovery teams, from Kecksburg to Coyame.
+
+## Sources
+
+- [YouTube](https://www.youtube.com/watch?v=7Jc2G5aEH0A) — UAP Gerb
+
+## Related Pages
+
+- **People**: [[Jonathan Weygandt]], [[Sergeant Allen]], [[Sergeant Atkins]], [[Sergeant Montil]], [[Steven Greer]], [[James Fox]], [[Martin Willis]], [[Michael Herrera]], [[Rodrik Castle]], [[Jake Barber]], [[Philip J. Corso]], [[Jeffrey T. Richelson]], [[Bob Fish]], [[John Podesta]], [[Joseph Stafula]], [[Christopher Sharp]], [[Albert Stubblebine]], [[Bob Lazar]], [[David Grusch]], [[Harold Malmgren]], [[Leonard Stringfield]], [[Albert Bruce Collins]], [[Tim Cooper]]
+- **Organizations**: [[United States Marine Corps]], [[Marine Air Control Group 28]], [[US SOUTHCOM]], [[Peruvian Air Force]], [[US Army 7th Special Forces Group]], [[MARFORLANT Riverine Training Team]], [[Joint Task Force Bravo]], [[1st Battalion 228th Aviation Regiment]], [[160th Special Operations Aviation Regiment]], [[Department of Energy]], [[NEST (Nuclear Emergency Support Team)]], [[DOE Special Response Teams (SRTs)]], [[Wackenhut Services]], [[Sandia National Laboratories]], [[Los Alamos National Laboratory]], [[Lawrence Livermore National Laboratory]], [[EG&G]], [[Battelle Memorial Institute]], [[NRO (National Reconnaissance Office)]], [[Defense Support Program (DSP)]], [[CIA]], [[CIA Office of Global Access]], [[JSOC (Joint Special Operations Command)]], [[SOCOM]], [[Army INSCOM]], [[NAMRU (Naval Medical Research Unit)]], [[RAND Corporation]], [[Vatican]], [[National Underwater Reconnaissance Office]], [[Disclosure Project]], [[RGH UFOs]], [[TAGOM]], [[Skywatchers]]
+- **Locations**: [[Iquitos, Peru]], [[USAF Radar Detachment 5, Iquitos]], [[Pucallpa]], [[Lima, Peru]], [[NAMRU South, Lima, Peru]], [[Crash Site, Northern Peru]], [[Cherry Point, North Carolina Marine Corps Air Station]], [[Howard Air Force Base, Panama]], [[Wright-Patterson Air Force Base]], [[Camp Polk, Louisiana]], [[University of California, Berkeley]], [[Fort Bliss]], [[Bolivia]]
+- **Concepts**: [[Egg-shaped UAP]], [[Mother of Pearl Effect]], [[MIM-23 Hawk Missile]], [[Psionics]], [[Alien Reproduction Vehicle (ARV)]], [[Atomic Energy Act of 1954]], [[Rapid Reaction Recovery Unit]], [[Aquatic Species Theory]], [[Fast Walkers]], [[Project Twinkle]]
+- **Operations**: [[Operation Laser Strike]], [[Project Sanddollar]], [[Project Blue Book]]
+- **Events**: [[Peru UFO Crash Incident]], [[1953 Camp Polk UFO Crash Retrieval]], [[1965 Kecksburg, Pennsylvania Crash Retrieval]], [[1974 Coyame, Mexico UFO Crash Retrieval]], [[1953 Kingman, Arizona Crash Retrieval]], [[1933 Magenta UFO CrashRetrieval]], [[2009 Indonesia UFO Encounter (Herrera)]]

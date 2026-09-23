@@ -11,6 +11,6 @@ The witness and his unit were Marines assigned to the ship for a security missio
 
 Castle and multiple other Marines were present during the triangular craft encounter near Emerson Dry Lake Bed
 
-Jonathan Wayan's branch of service; Marines Atkins, Allen, and Montgre all had long careers there
+Jonathan Weygandt's branch of service; Marines Atkins, Allen, and Montgre all had long careers there
 
-Branch Wagant served in; also relevant to Hawk missile battery usage history
+Branch Weygandt served in; also relevant to Hawk missile battery usage history

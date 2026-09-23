@@ -10,7 +10,7 @@ Operation Laser Strike was a classified US military counter-narcotics operation 
 
 Laser Strike conducted three phases of counterdrug operations targeting illegal use of airspace, alternate transportation modes, and drug production capabilities. Three primary locations supported the mission in Peru: [[Pucallpa]], Andoas, and [[Iquitos, Peru|Iquitos]] — each equipped with radar systems to track aircraft. The operation employed acknowledged data acquisition systems including TPS-43 radar and Relocatable Over-the-Horizon Radar (ROTHR) systems, and possibly covertly utilized [[Defense Support Program (DSP)]] satellites.
 
-In the 12-month period from April 1996 to April 1997, Laser Strike radar tracked 45,000 total aircraft. Of these, 5,390 were "tracks of interest," though only 150 were suspected of drug trafficking. Just 21 planes were forced or shot down, with the exact number of shootdowns classified. [[US SOUTHCOM]] authorized up to 14 special forces deployments to the region during 1997, including the [[US Army 7th Special Forces Group]] (Green Berets) out of Fort Bragg, North Carolina. The [[MARFORLAND Riverine Training Team]] was stationed at Iquitos for riverine operations.
+In the 12-month period from April 1996 to April 1997, Laser Strike radar tracked 45,000 total aircraft. Of these, 5,390 were "tracks of interest," though only 150 were suspected of drug trafficking. Just 21 planes were forced or shot down, with the exact number of shootdowns classified. [[US SOUTHCOM]] authorized up to 14 special forces deployments to the region during 1997, including the [[US Army 7th Special Forces Group]] (Green Berets) out of Fort Bragg, North Carolina. The [[MARFORLANT Riverine Training Team|MARFORLAND Riverine Training Team]] was stationed at Iquitos for riverine operations.
 
 ## Preceding Operations
 
@@ -18,9 +18,9 @@ Laser Strike succeeded [[Operation Green Clover]] (1996), a similar but smaller-
 
 ## UAP Connection
 
-Operation Laser Strike became significant to UAP research through the testimony of USMC Lance Corporal [[Jonathan Weygandt]], who was deployed to Peru with [[MAC G28]] to perform perimeter security for radar installations. Wagant reported that USAF personnel at his radar installation discussed aircraft flying in and out of the atmosphere at Mach 10-plus speeds — objects that would stop instantaneously and reverse direction. An Air Force colonel confiscated radar log books tracking these anomalous signatures on at least three or four occasions.
+Operation Laser Strike became significant to UAP research through the testimony of USMC Lance Corporal [[Jonathan Weygandt]], who was deployed to Peru with [[Marine Air Control Group 28|MAC G28]] to perform perimeter security for radar installations. Weygandt reported that USAF personnel at his radar installation discussed aircraft flying in and out of the atmosphere at Mach 10-plus speeds — objects that would stop instantaneously and reverse direction. An Air Force colonel confiscated radar log books tracking these anomalous signatures on at least three or four occasions.
 
-Between March and April 1997, Wagant and fellow Marines were sent to secure what was reported as a downed aircraft, where they instead encountered a massive [[Egg-shaped UAP|egg-shaped craft]] embedded in a cliff face. A [[NEST (Nuclear Emergency Support Team)|DOE NEST]] retrieval team in CH-47 helicopters arrived shortly after, detained the Marines, and conducted a full crash recovery operation. This incident represents one of the most detailed firsthand accounts of a UAP crash retrieval by active-duty US military personnel.
+Between March and April 1997, Weygandt and fellow Marines were sent to secure what was reported as a downed aircraft, where they instead encountered a massive [[Egg-shaped UAP|egg-shaped craft]] embedded in a cliff face. A [[NEST (Nuclear Emergency Support Team)|DOE NEST]] retrieval team in CH-47 helicopters arrived shortly after, detained the Marines, and conducted a full crash recovery operation. This incident represents one of the most detailed firsthand accounts of a UAP crash retrieval by active-duty US military personnel.
 
 ## Sources
 

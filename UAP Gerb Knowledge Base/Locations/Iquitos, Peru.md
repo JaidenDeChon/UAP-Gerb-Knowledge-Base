@@ -1,26 +1,27 @@
 ---
 name: "Iquitos, Peru"
-location_type: "region"
+location_type: "city"
 tags:
   - location
 ---
 
-Iquitos is a major city in northeastern Peru, situated on the Amazon River and accessible primarily by air or river. During the 1990s, Iquitos hosted multiple US military and government installations that are central to the theoretical reconstruction of the 1997 [[Peru UFO Crash Incident]].
+Iquitos is the capital of Peru's Loreto Region and the largest city of the Peruvian Amazon, on the Amazon River near the borders with Colombia and Brazil. It has no road connection to the rest of Peru and is reached by air or river. In the 1990s it hosted several US military and government installations, and UAP Gerb places it at the centre of the 1997 [[Peru UFO Crash Incident]] described by Marine Lance Corporal [[Jonathan Weygandt]]. Transcripts of the channel's videos sometimes render the name "Ikitos" or "Aikitos".
 
-## US Military Presence
+## US presence in the 1990s
 
-Three significant US installations operated at or near Iquitos during [[Operation Laser Strike]]:
+Three US installations at Iquitos figure in the host's reconstruction:
 
-- **USAF Radar Detachment 5** — An enigmatic radar installation with virtually no public documentation from the 1990s onward. UAP Gerb theorizes this was [[Jonathan Weygandt]]'s base of operations, based on distance from Lima (630+ miles, consistent with Wagant's described multi-hour C-130 flight with one stop), the installation's role tracking narcotics traffic from Bolivia, and the classified nature of the site (a contacted Marine refused to discuss operational details, citing active classification)
-- **MARFORLAND Riverine Training Team** — A [[US Marine Forces South]] unit stationed at Iquitos for riverine operations under [[US SOUTHCOM]], also training with Peruvian military forces
-- **[[NAMRU (Naval Medical Research Unit)|NAMRU-6 (NAMRU South)]]** — A US Navy biomedical research laboratory with offices in both Lima and Iquitos, conducting research on infectious diseases and biodefense
+- **[[USAF Radar Detachment 5, Iquitos]]**, an Air Force radar site and one of the three [[Operation Laser Strike]] locations, alongside [[Pucallpa]] and Andoas. The host proposes it as Weygandt's base.
+- **The [[MARFORLANT Riverine Training Team]]**, placed at Iquitos by US Southern Command for Laser Strike, where US special forces trained with Peruvian forces.
+- **[[NAMRU South, Lima, Peru|NAMRU South]]** (formerly NAMRU-6), the Navy medical research unit with offices in Lima and Iquitos, which the host suggests as the place Weygandt was held and quarantined.
 
-## Role in Theoretical Crash Reconstruction
+## Role in the crash reconstruction
 
-UAP Gerb's geospatial analysis, based on travel time reconstruction from Wagant's testimony (2.5 hours driving at approximately 35 mph plus 30 minutes hiking), places the crash site within an approximately 90-mile radius of Iquitos. Wagant stated his radar station was near the Bolivian border, which UAP Gerb believes was a misidentification — Iquitos sits near the Colombian and Brazilian borders, and Laser Strike radar at the location tracked narcotics routes passing through the region from Bolivia.
+Working from Weygandt's timings (about two and a half hours of driving at an assumed 35 mph, plus half an hour's hike), the host estimates the crash occurred within about 90 miles of Iquitos, give or take 25 percent, and 5 to 10 miles from the Colombian or Brazilian border. Weygandt said the Bolivian border; the host believes he misspoke, since his radar site tracked narcotics flights *from* Bolivia along routes that passed through Iquitos. The host also argues that a Department of Energy team flying from New Mexico could have reached Iquitos by jet in about seven and a half hours and the crash site by CH-47 in about 30 minutes more, within the roughly nine hours the timeline allows.
 
-The proximity of Radar Detachment 5, NAMRU South, and the MARFORLAND training team makes Iquitos the focal point for the crash retrieval investigation: the radar station provides detection capability, NAMRU provides quarantine facilities where Wagant may have been held, and the special forces presence provides the armed enforcement described by Wagant.
+The host is explicit that the Iquitos placement is a theory built on heavy assumptions, and that it still fails to explain some of what Weygandt describes, such as an underground holding room.
 
 ## Sources
 
 - [[Video - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt]]
+- [[Video - The Marines Who Got too Close to UFOs]]

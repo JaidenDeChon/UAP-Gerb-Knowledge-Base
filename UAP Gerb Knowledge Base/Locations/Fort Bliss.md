@@ -15,7 +15,7 @@ Fort Bliss is identified as the staging area for the CIA rapid recovery team dis
 
 At 1438 hours on August 26, four helicopters (identified as three UH-1 Hueys and one CH-53 Super Stallion) departed Fort Bliss, followed the border down to Presidio, Texas, then turned and entered Mexican airspace north of Candelaria. The team arrived at the crash site at 1653 hours, recovered a 16-foot silver disc from a stopped Mexican convoy (all personnel dead), destroyed the site with high explosives, and returned to US territory with the object.
 
-This incident—in which a hazmat-equipped team arrived via unmarked military helicopters—shares notable parallels with the [[1997 Peru UFO Crash Retrieval]], where similar hazmat-equipped teams arrived at a UAP crash site via military helicopters, as testified by [[Jonathan Weygandt]].
+This incident—in which a hazmat-equipped team arrived via unmarked military helicopters—shares notable parallels with the [[Peru UFO Crash Incident|1997 Peru UFO Crash Retrieval]], where similar hazmat-equipped teams arrived at a UAP crash site via military helicopters, as testified by [[Jonathan Weygandt]].
 
 ### Roswell Debris Connection
 

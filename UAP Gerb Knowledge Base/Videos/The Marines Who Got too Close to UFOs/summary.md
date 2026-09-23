@@ -16,7 +16,7 @@ This documentary-style video presents two compelling accounts of United States M
 
 ## The 1997 Jonathan Weygandt Peru Encounter
 
-In February 1997, [[USMC Lance Corporal Jonathan Weygandt]] was transferred to [[Pucallpa Airbase]] in Peru to serve in [[Operation Laser Strike]], a [[US Southcom]] mission involving approximately 20 agencies including the [[USMC]], [[CIA]], and [[USAF]]. The operation's stated goal was counter-narcotics operations in Peruvian airspace. Weygandt served as a Stinger Avenger Gunner performing perimeter security under the command of [[Master Sergeant Chris Diggins]] and [[Major Bob Cole]].
+In February 1997, [[USMC Lance Corporal Jonathan Weygandt]] was transferred to [[Pucallpa|Pucallpa Airbase]] in Peru to serve in [[Operation Laser Strike]], a [[US Southcom]] mission involving approximately 20 agencies including the [[USMC]], [[CIA]], and [[USAF]]. The operation's stated goal was counter-narcotics operations in Peruvian airspace. Weygandt served as a Stinger Avenger Gunner performing perimeter security under the command of [[Master Sergeant Chris Diggins]] and [[Major Bob Cole]].
 
 The base employed sophisticated surveillance capabilities including TPS-43 and RR relocatable Over-the-Horizon radar systems, as well as [[CIA]] Cessna Citation spotter aircraft, providing multi-sensor detection capabilities. While at the base, [[Weygandt]] overheard [[USAF]] personnel discussing the tracking of UFOs displaying anomalous flight characteristics.
 
@@ -62,7 +62,7 @@ However, the narrator considers one exception: the [[TR-3B]] triangular craft. I
 
 - **People**: [[Jonathan Weygandt]], [[Michael Herrera]], [[Steven Greer]], [[Master Sergeant Chris Diggins]], [[Major Bob Cole]], [[Staff Sergeant Montray]], [[Sergeant Allen]], [[Sergeant Atkins]], [[David Grusch]], [[Ross Coulthart]], [[Bob Lazar]], [[Eric Taber]], [[Commander David Fraver]], [[Ryan Graves]], [[Chuck Schumer]]
 - **Organizations**: [[United States Marine Corps]], [[CIA]], [[US Air Force]], [[US Southcom]], [[Department of Energy]], [[DOE Special Response Team]], [[NEST (Nuclear Emergency Search Team)]], [[National Reconnaissance Office (NRO)]], [[Atomic Energy Commission (AEC)]], [[Nuclear Regulatory Commission]], [[EG&G]], [[Raytheon]], [[Lockheed Martin]], [[US Army 52nd EOD]], [[National Press Club]], [[US Congress]]
-- **Locations**: [[Pucallpa Airbase]], [[Peru]], [[Indonesia]], [[Sumatra]], [[Area 51]], [[Belgium]], [[Denver]]
+- **Locations**: [[Pucallpa|Pucallpa Airbase]], [[Peru]], [[Indonesia]], [[Sumatra]], [[Area 51]], [[Belgium]], [[Denver]]
 - **Operations**: [[Operation Laser Strike]], [[Project Astra]]
-- **Events**: [[1997 Peru UFO Crash Retrieval (Weygandt)]], [[2009 Indonesia UFO Encounter (Herrera)]], [[Sumatra Earthquake and Tsunami (2009)]], [[Belgian UFO Wave]], [[Disclosure Project]]
+- **Events**: [[Peru UFO Crash Incident|1997 Peru UFO Crash Retrieval (Weygandt)]], [[2009 Indonesia UFO Encounter (Herrera)]], [[Sumatra Earthquake and Tsunami (2009)]], [[Belgian UFO Wave]], [[Disclosure Project]]
 - **Concepts**: [[DOE Special Response Team]], [[NEST (Nuclear Emergency Search Team)]], [[Alien Reproduction Vehicle (ARV)]], [[TR-3B]], [[Reverse Engineering of Non-Human Technology]], [[Wilson Davis Memo]], [[Special Access Programs]], [[Compartmentalization]], [[Black Triangle Craft]], [[Egg-Shaped UAP]], [[Nuclear Commandos]], [[UAP Whistleblower Protections]]
