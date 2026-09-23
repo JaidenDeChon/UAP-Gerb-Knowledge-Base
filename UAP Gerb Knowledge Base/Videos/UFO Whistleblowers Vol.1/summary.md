@@ -1,291 +1,548 @@
 ---
 title: "UFO Whistleblowers [Vol.1]"
-date: NA
+date: 2024-05-05
 video_id: EKEZ2BClIb0
 url: https://www.youtube.com/watch?v=EKEZ2BClIb0
 channel: UAP Gerb
-duration_seconds: 0
+duration_seconds: 1780
 tags:
   - video
   - uap-gerb
 ---
 
+::wiki-stat-strip
+---
+stats:
+  - value: 2
+    label: Whistleblowers
+    hint: "Walter Haut, Steven Lovekin"
+  - value: 2
+    label: Haut affidavits
+    hint: "1993; 2002, released 2007"
+  - value: "200–300"
+    label: Radar lock-on cases
+    hint: "In the Blue Book files Lovekin saw"
+  - value: "30m"
+    label: Runtime
+---
+::
+
 ## Overview
 
-This video examines two military whistleblowers connected to the 1947 [[Roswell Incident]]: [[Walter Haut]], the public relations officer who issued the original "flying disc" press release, and [[Steven Lovekin]], who worked at the [[White House Army Signaling Agency]] under Presidents [[Dwight D. Eisenhower]] and [[John F. Kennedy]]. Both men provided sworn testimony about the Roswell crash, with Haut signing legal affidavits in 1993 and 2002 detailing his firsthand observation of an egg-shaped craft and small bodies at Hangar 84. Lovekin corroborates key aspects of the Roswell story, including viewing metallic wreckage with encrypted symbols during his White House service, and claims Eisenhower lost control of UAP programs to the [[Military-Industrial Complex]] during the 1960s.
+"UFO Whistleblowers [Vol.1]" opens UAP Gerb's ongoing series on lesser-known UFO whistleblowers. The series aims to study the person making each claim and the context around it, whatever their credibility. The host starts with the 1947 [[Roswell Crash]], which he considers the nexus of secret crash-retrieval and reverse-engineering efforts. After a quick day-by-day refresher on Roswell, the video looks at two men who add to the story from inside.
 
-The video argues that Roswell represents the nexus of secret crash retrieval and [[Reverse Engineering]] programs that subsequently escaped government oversight. Haut's testimony is particularly significant because he was directly ordered by Colonel [[William Blanchard]] to write the press release announcing a "flying disc" recovery, then witnessed General [[General Ramey]] orchestrate a weather balloon coverup. His posthumously released 2002 affidavit describes the craft's physical characteristics and the presence of bodies roughly four feet tall with oversized heads. Lovekin's account adds White House-level context, describing how [[Project Blue Book]] contained classified materials never released publicly, how he viewed Roswell wreckage materials with "symbols of instruction," and how an intelligence officer warned him that individuals and their families had been killed to protect the secret.
+The first is Lieutenant [[Walter Haut]], public relations officer of the [[509th Bomb Group]] at [[Roswell Army Airfield]], who put out the 8 July 1947 "flying disc" press release. He kept silent for decades. Then he signed two affidavits: one in 1993 confirming that Colonel [[William Blanchard]] dictated the release, and a sealed one in 2002, released in 2007 after his death. In the second he described a staff meeting at which General [[General Ramey|Roger Ramey]] planned to divert attention from the real crash site, and said that in [[Hangar 84]] he was shown an egg-shaped craft and small bodies under a tarp.
 
-The broader thesis connects these testimonies to the alleged transition of UAP programs from military control into corporate hands, a process Lovekin witnessed beginning in Eisenhower's later years. This loss of oversight allegedly continues today, with whistleblower [[David Grusch]] referenced as having testified about secret reverse engineering programs and possible agreements with [[Non-Human Intelligence]]. The video positions Haut and Lovekin as credible witnesses whose sworn statements deserve serious analysis despite the unverifiable nature of many UFO claims.
+The second is [[Steven Lovekin]], an Army technical specialist at the [[White House Army Signaling Agency]] under [[Dwight D. Eisenhower]] and [[John F. Kennedy]]. Lovekin said the classified side of [[Project Blue Book]] held 200 to 300 authentic radar lock-on cases. He said he was shown a yardstick-like piece of the 1947 New Mexico wreckage covered in "symbols of instruction," and was told of three or five bodies. He also described Eisenhower gradually losing control of the UFO problem to corporations. The host sees that as the moment the [[Legacy Programs|legacy program]] [[David Grusch]] describes broke away from government oversight. Lovekin also said an intelligence officer warned him that people, and their families, had been threatened and killed to keep the secret. The host finds Lovekin credible, but calls his inflated "brigadier general" title the biggest stain on his case.
 
-## Walter Haut: The Roswell Press Officer
+## The whistleblower spectrum
 
-[[Walter Haut]] served as the public relations officer for the [[509th Bomb Group]] at [[Roswell Army Airfield]] in July 1947. During World War II, he flew 35 bombing missions over Japan as a bombardier and participated in atomic bomb testing at [[Bikini Atoll]]. His unit, the 509th, was the Air Force wing that dropped atomic bombs on Hiroshima and Nagasaki, establishing his credentials as a trusted military officer with access to highly classified operations.
+The video opens by sorting nine well-known names by how their claims reached the record. The host argues that whistleblowers "vary greatly in credibility and believability" but that all of them deserve a critical look. The series is meant to surface overlooked witnesses whose accounts may give a glimpse of a program running since at least 1947.
 
-On July 8, 1947, Colonel [[William Blanchard]], the base commander, dictated a press release to Haut announcing that the military had recovered a "flying disc" from a ranch northwest of Roswell. Haut delivered this release to local newspapers and radio stations, creating international headlines before General [[General Ramey]] ordered a retraction hours later, replacing the story with a weather balloon explanation. Intelligence officer [[Jesse Marcel]] later admitted in a 1978 interview with researcher [[Stanton Friedman]] that he was ordered to participate in this coverup, posing with weather balloon debris in Ramey's office for press photographs.
+::wiki-grid{cols=2}
+::wiki-panel{title="Sworn into the record" tone="accent"}
+Testified before Congress, testified to [[AARO]], or signed legal affidavits:
 
-### Haut's 1993 Affidavit
+- [[David Grusch]] and [[David Fravor]], whom the host calls ironclad in reputation and accomplishments
+- [[Robert Jacobs]]
+- [[Robert Salas]] and USMC veteran [[Michael Herrera]], whose testimony is sworn into the legal record
+::
+::wiki-panel{title="Astounding claims, never sworn"}
+Stories that have lasted for decades, with no legal testimony or evidence behind them:
 
-Haut remained silent for decades after the event. On May 14, 1993, he signed his first legal affidavit describing his role. He confirmed that Colonel Blanchard dictated the press release "almost verbatim" from notes, stating they had in their possession "a flying saucer" found on a ranch north of Roswell. The wreckage would be flown to General Ramey's office by Jesse Marcel. Haut was stunned by the subsequent weather balloon coverup, believing there was no possibility that Blanchard or Marcel—experienced military officers—could have mistaken the material for a weather balloon. This affidavit is corroborated by [[Arthur McQuitty]], managing editor of the Roswell Morning Dispatch, who signed his own affidavit confirming receipt of Haut's press release and the subsequent retraction phone call from Roswell Army Airfield.
+- [[Bob Lazar]]
+- [[Mark McCandlish]]
+- [[Bill Uhouse]]
+- [[Boyd Bushman]], whose claims the host finds unverifiable yet intriguing
+::
+::
 
-### Haut's 2002 Affidavit (Released 2007)
+Both of this volume's subjects sit between the two columns. Haut's account rests on signed affidavits. Lovekin's comes from on-camera interviews for [[Steven Greer]]'s [[Disclosure Project]] and with author [[Grant Cameron]].
 
-In 2002, Haut completed a second, more detailed affidavit to be released two years after his death. Following his passing in 2005, this document was made public in 2007. It revealed that on the morning of July 8, 1947, Haut attended a staff meeting with Colonel Blanchard, General Ramey, and Chief of Staff Colonel [[Thomas J. DuBose]], among others. The discussion focused on two sites: the debris field discovered 75 miles northwest of Roswell at Foster Ranch, and a more significant crash site 40 miles north of town.
+## Chronology
 
-Samples of wreckage were passed around the meeting. Haut described lightweight metallic material with shape retention properties and strange markings—the same "encrypted symbols" later described by both [[Jesse Marcel]] and his son [[Jesse Marcel Jr.]], who had seen pieces his father brought home the night before. General Ramey proposed a diversion plan: draw public attention to the less significant debris field to deflect scrutiny from the primary crash site where the craft and bodies were located.
+::wiki-timeline{video="EKEZ2BClIb0" video-title="UFO Whistleblowers [Vol.1]"}
+---
+help: "The ruler pinned above the entries spans 1947 to 2007. Each tick is an entry, coloured by category and taller for major ones; click the ruler to jump to the nearest. The first era is a single week in July 1947, so its ticks crowd together at the left edge. Lovekin's White House years are dated only roughly (c. 1959–1961). The video tells Roswell first and Lovekin second, so while it plays the video marker sweeps the axis twice. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Every timestamp here was checked against the captions."
+eras:
+  - id: roswell
+    label: "Roswell, July 1947"
+    from: 1947
+    to: 1947
+    summary: "Radar contacts, a crash, two recovery sites, a flying disc press release and a weather-balloon retraction, all within eight days."
+    anchor: "the-roswell-week"
+  - id: whitehouse
+    label: "The Eisenhower years"
+    from: 1952
+    to: 1961
+    summary: "Lovekin at the White House: the classified Blue Book, a piece of the Roswell wreckage, and a President losing control of the problem."
+    anchor: "steven-lovekin-the-white-house-witness"
+  - id: testimony
+    label: "Silence, then testimony"
+    from: 1978
+    summary: "Marcel breaks ranks in 1978; Haut signs affidavits in 1993 and 2002; Lovekin goes public through the Disclosure Project."
+    anchor: "walter-haut-the-press-officer"
+events:
+  - date: "1947-07-01"
+    title: "White Sands radar tracks UFOs"
+    cue: 144
+    summary: "From 1 to 3 July 1947, radar at White Sands Missile Range, where nuclear weapons had been tested since 1946, reportedly tracked UFOs over New Mexico. The video opens its Roswell refresher here."
+    category: event
+    significance: notable
+    entities:
+      - "White Sands Missile Range"
+      - "Roswell Crash"
+  - date: "1947-07-04"
+    title: "A UFO drops off the radar scope"
+    cue: 156
+    summary: "On 4 July 1947 a UFO reportedly disappeared from radar. The host treats this as the likely date of the Roswell crash."
+    category: event
+    significance: major
+    entities:
+      - "Roswell Crash"
+  - date: "1947-07-05"
+    title: "Roswell quarantined; debris and bodies shipped out of Hangar 84"
+    cue: 161
+    summary: "Guards reportedly sealed the area north of Roswell and blocked Highway 285. The same day, per the video, debris and bodies were shipped out of Hangar 84 at Roswell Army Airfield to either Wright Field or Fort Worth, Texas."
+    category: event
+    significance: notable
+    entities:
+      - "Hangar 84"
+      - "Roswell Army Airfield"
+      - "Wright Field"
+      - "Fort Worth, Texas"
+  - date: "1947-07-06"
+    title: "Mac Brazel brings debris to the sheriff"
+    cue: 180
+    summary: "Rancher Mac Brazel took a box of debris to his local sheriff's office. He had found a wreckage field on the Foster Ranch, which the video places 75 miles from Roswell."
+    category: event
+    significance: notable
+    entities:
+      - "Mac Brazel"
+      - "Foster Ranch"
+  - date: "1947-07-07"
+    title: "Jesse Marcel recovers debris and shows his family"
+    cue: 192
+    summary: "Intelligence officer Jesse Marcel Sr. was sent to the Brazel debris field, a strip 3.4 miles long and 300 feet wide of nearly massless metal that kept its shape. Driving back, he showed pieces to his family, including his son Jesse Marcel Jr. The host stresses this was not the site where the craft and bodies were recovered."
+    category: event
+    significance: major
+    entities:
+      - "Jesse Marcel"
+      - "Jesse Marcel Jr."
+      - "Foster Ranch"
+      - "Battelle Memorial Institute"
+  - date: "1947-07-08"
+    title: "Morning staff meeting and Ramey's diversion plan"
+    cue: 631
+    summary: "According to Walter Haut's 2002 affidavit, he sat in on a morning staff meeting with Colonel William Blanchard, General Roger Ramey and Colonel Thomas DuBose. It dealt with two sites: the debris field and a primary crash site 40 miles north of town. Wreckage samples bearing strange markings were passed around, and Ramey proposed drawing public attention to the debris field to shield the craft site."
+    category: event
+    significance: major
+    entities:
+      - "Walter Haut"
+      - "William Blanchard"
+      - "General Ramey"
+      - "Thomas J. DuBose"
+  - date: "1947-07-08"
+    title: "Blanchard dictates the flying disc press release"
+    cue: 258
+    summary: "Colonel Blanchard dictated a release to Lieutenant Walter Haut, almost verbatim from a scratch pad, stating that Roswell Army Airfield had a flying saucer found on a ranch and that Marcel would fly it to Ramey's office. Haut took it to Roswell's two radio stations and its two newspapers, the Daily Record and the Morning Dispatch. The headline read that the RAAF had captured a flying saucer."
+    category: document
+    significance: major
+    entities:
+      - "William Blanchard"
+      - "Walter Haut"
+      - "509th Bomb Group"
+      - "Arthur McQuitty"
+  - date: "1947-07-08"
+    title: "Haut is shown the craft and bodies in Hangar 84"
+    cue: 686
+    summary: "In his 2002 affidavit Haut said Blanchard took him to Building 84, a B-29 hangar guarded inside and out. There he saw a metallic, egg-shaped craft 12 to 15 feet long and about 6 feet across, with no windows, portholes, wings, landing gear or tail. Under a canvas tarp lay a couple of bodies about 4 feet tall with large heads, beside a temporary morgue."
+    category: event
+    significance: major
+    entities:
+      - "Walter Haut"
+      - "Hangar 84"
+      - "William Blanchard"
+      - "Eric Taber"
+  - date: "1947-07-08"
+    title: "Ramey kills the story with a weather balloon"
+    cue: 284
+    summary: "The same day, General Roger Ramey ordered a retraction and recast the recovery as a weather balloon. Marcel was photographed in Ramey's Fort Worth office with foil and balsa wood rather than the recovered material. Blanchard went on leave, Brazel dropped from view, Marcel moved to Fort Worth and the story stayed buried for decades."
+    category: event
+    significance: major
+    entities:
+      - "General Ramey"
+      - "Jesse Marcel"
+      - "Fort Worth, Texas"
+  - date: "1952-07"
+    title: "UFOs over Washington; Ramey and Samford brief the press"
+    cue: 1655
+    summary: "After the 1952 wave of UFOs over the capital, Ramey gave a press briefing alongside General John Samford. The host points out that the officer who killed the Roswell story was the one explaining away Washington five years later."
+    category: event
+    significance: notable
+    entities:
+      - "1952 UFOs Over Washington DC"
+      - "General Ramey"
+      - "General Samford"
+  - date: "1954"
+    title: "Alleged Eisenhower meeting at Holloman Air Force Base"
+    cue: 1235
+    summary: "A story the host has not yet examined in depth holds that Eisenhower met extraterrestrials who had landed at Holloman Air Force Base in 1954 and reached an agreement with them. He asks whether this is the kind of agreement David Grusch declined to discuss."
+    category: event
+    significance: minor
+    entities:
+      - "Dwight D. Eisenhower"
+      - "David Grusch"
+      - "Majestic 12"
+  - date: "1958"
+    title: "Lovekin joins the Army and the Pentagon's radio frequency office"
+    cue: 813
+    summary: "Steven Lovekin entered the US Army in 1958 and joined the Pentagon's radio frequency engineering office."
+    category: person
+    significance: minor
+    entities:
+      - "Steven Lovekin"
+  - date: "1959"
+    title: "Lovekin joins the White House Army Signal Agency"
+    cue: 819
+    summary: "In 1959 Lovekin moved to the White House Army Signal Agency as a technical specialist, with an above-top-secret clearance. He served into the Kennedy administration, and his work involved codebreaking. There, he said, sections of Project Blue Book were discussed openly."
+    category: person
+    significance: notable
+    entities:
+      - "Steven Lovekin"
+      - "White House Army Signaling Agency"
+      - "Project Blue Book"
+  - date: "c. 1959–1961"
+    title: "Lovekin is shown Roswell wreckage with symbols"
+    cue: 1060
+    summary: "During a meeting on Blue Book material, Lovekin said a colonel he recalled as Hollard brought out a metal piece like a yardstick. It bore what the colonel called symbols of instruction and came, he said, from a box of material from the 1947 New Mexico crash that the military was working on. The host links it to the Marcel I-beam."
+    category: event
+    significance: major
+    entities:
+      - "Steven Lovekin"
+      - "Project Blue Book"
+      - "Roswell Crash"
+      - "Jesse Marcel"
+  - date: "c. 1959–1961"
+    title: "Lovekin hears of three or five bodies"
+    cue: 1146
+    summary: "The next day, Lovekin said, his colleagues discussed extraterrestrial bodies from the New Mexico crash: three or five, with the count uncertain because their information was incomplete. One was said to have been partially alive."
+    category: event
+    significance: notable
+    entities:
+      - "Steven Lovekin"
+      - "Roswell Crash"
+  - date: "c. 1959–1961"
+    title: "Eisenhower overheard on the 1952 Washington flap"
+    cue: 1438
+    summary: "In an interview with Grant Cameron, Lovekin said he went to Camp David with Eisenhower several times. One night he overheard the President on the phone discussing the 1952 UFOs over Washington, and UFOs were a very important concern of his."
+    category: event
+    significance: notable
+    entities:
+      - "Steven Lovekin"
+      - "Dwight D. Eisenhower"
+      - "Grant Cameron"
+      - "1952 UFOs Over Washington DC"
+  - date: "c. 1959–1961"
+    title: "Eisenhower loses control of the UFO problem"
+    cue: 1289
+    summary: "Lovekin said the UFO problem could no longer be handled by one agency, so it was parcelled out across the government to keep it secret and cheap. Eisenhower was sold out without knowing it, he said, and spent months frustrated as the matter slid into the control of corporations and out of the best hands."
+    category: event
+    significance: major
+    entities:
+      - "Steven Lovekin"
+      - "Dwight D. Eisenhower"
+      - "Legacy Programs"
+  - date: "1961-01"
+    title: "Eisenhower's farewell address"
+    cue: 1183
+    summary: "In his January 1961 farewell address, Eisenhower warned against the military-industrial complex. The host, like other researchers, wonders if he was partly referring to the UFO legacy programs; Lovekin reads it as the President's warning after losing control."
+    category: document
+    significance: major
+    entities:
+      - "Dwight D. Eisenhower"
+      - "Legacy Programs"
+  - date: "1978"
+    title: "Marcel tells Stanton Friedman he was ordered into a cover-up"
+    cue: 301
+    summary: "In a 1978 interview with Stanton Friedman, Jesse Marcel admitted he had been ordered to take part in the weather-balloon cover-up. Haut still stayed silent."
+    category: event
+    significance: notable
+    entities:
+      - "Jesse Marcel"
+      - "Stanton Friedman"
+  - date: "1980"
+    title: "Marcel admits the cover-up privately to Haut"
+    cue: 538
+    summary: "Marcel also admitted his part in the cover-up privately to Walter Haut in 1980, according to the video."
+    category: event
+    significance: minor
+    entities:
+      - "Jesse Marcel"
+      - "Walter Haut"
+  - date: "1993-05-14"
+    title: "Haut signs his first affidavit"
+    cue: 366
+    summary: "On 14 May 1993 Haut signed an affidavit on his part in Roswell. It confirms that Blanchard dictated the flying disc release almost verbatim and that Haut delivered it to the town's newspapers and radio stations. It also records his disbelief that Blanchard or Marcel could have mistaken the wreckage for a weather balloon."
+    category: document
+    significance: major
+    entities:
+      - "Walter Haut"
+      - "William Blanchard"
+      - "Jesse Marcel"
+  - date: "1997-04"
+    title: "Lovekin attends the Wilson briefing"
+    cue: 838
+    summary: "Per multiple sources including researcher Joe Murgia, Lovekin attended the briefing with Steven Greer, Edgar Mitchell, Rear Admiral Thomas Wilson and Commander Will Miller that is recorded in the Wilson-Davis memo. The video dates it to 1998, and says Wilson himself confirmed the meeting took place."
+    category: event
+    significance: notable
+    entities:
+      - "1997 Meeting (Wilson, Miller, Mitchell, Greer, Hughes)"
+      - "Steven Lovekin"
+      - "Thomas Wilson"
+      - "Will Miller"
+      - "Steven Greer"
+      - "Wilson-Davis Memo"
+  - date: "2001"
+    title: "Lovekin appears on the Disclosure Project"
+    cue: 790
+    summary: "Lovekin testified on Steven Greer's 2001 Disclosure Project, billed as a brigadier general. The host notes the rank came from the North Carolina State Guard, a volunteer militia, and calls it an embellishment and the biggest stain on his case."
+    category: event
+    significance: notable
+    entities:
+      - "Steven Lovekin"
+      - "Steven Greer"
+      - "Disclosure Project"
+  - date: "2002"
+    title: "Haut signs his sealed second affidavit"
+    cue: 614
+    summary: "In 2002 Haut completed a second, far fuller affidavit, to be released two years after his death. He said he had sworn to Blanchard never to reveal in his lifetime what he saw."
+    category: document
+    significance: major
+    entities:
+      - "Walter Haut"
+      - "William Blanchard"
+  - date: "2007"
+    title: "Haut's second affidavit is released"
+    cue: 621
+    summary: "Haut died in 2005, and the sealed affidavit was released in 2007. It describes the staff meeting, the marked wreckage, Ramey's diversion plan and the craft and bodies in Hangar 84."
+    category: document
+    significance: notable
+    entities:
+      - "Walter Haut"
+      - "Hangar 84"
+---
+::
 
-At 9:30 AM, after Blanchard dictated the press release, he took Haut to Hangar 84, a B-29 hangar under heavy guard both inside and outside. There, Haut witnessed an egg-shaped craft 12 to 15 feet in length and 6 feet in diameter with a metallic surface. The craft had no windows, port holes, wings, landing gear, or tail section. He also observed what he described as "a couple of bodies" under a canvas tarp. Only the heads were visible due to poor lighting, but Haut could see they were roughly the size of 10-year-old children—approximately 4 feet tall with larger-than-normal heads. A temporary morgue had been set up in the hangar.
+## The Roswell week
 
-Haut's description of the egg-shaped craft closely matches the account later provided by [[AARO]] whistleblower [[Eric Taber]], who claimed a similar craft was stored at [[Area 51]]. The affidavit concludes with Haut reiterating that Jesse Marcel told him how he took pieces of wreckage to General Ramey's office, only to return from a map room to find weather balloon debris and balsa wood substituted in their place.
+The host keeps his Roswell refresher short, since he thinks the case deserves a video of its own. From 1 to 3 July 1947, radar at [[White Sands Missile Range]] tracked UFOs. On 4 July one dropped off the scope, likely the crash date. On 5 July guards sealed the area north of town on Highway 285, and the same day, per the video, debris and bodies were shipped out of Hangar 84 to [[Wright Field]] or [[Fort Worth, Texas]]. On 6 July [[Mac Brazel]] brought a box of debris to the sheriff. On 7 July intelligence officer [[Jesse Marcel]] went out to recover the wreckage and showed pieces to his family, including [[Jesse Marcel Jr.]], on the drive home. On 8 July Roswell Army Airfield announced it had captured a flying disc, and within hours Ramey had recast it as a weather balloon. Marcel posed in Ramey's office with foil rather than the real material. He later told his family not to talk about it. Blanchard went on leave, Brazel dropped from view, Marcel moved to Fort Worth, and the story stayed buried for decades.
 
-## Steven Lovekin: White House Insights
+The host stresses one point that he says is often misunderstood: Roswell involved two separate sites.
 
-[[Steven Lovekin]] entered the U.S. Army in 1958 and joined the Pentagon's radio frequency engineering office before transferring to the [[White House Army Signaling Agency]] in 1959 as a technical specialist. He served during both the Eisenhower and Kennedy administrations with an above top secret clearance. His work involved codebreaking and secure communications. Though he was later titled "Brigadier General" in [[Steven Greer]]'s 2001 Disclosure Project, this referred to a volunteer position in the North Carolina State Guard with no official military standing—a credibility issue the video acknowledges as an unfortunate embellishment.
+::wiki-grid{cols=2}
+::wiki-panel{title="The debris field"}
+- Found by Mac Brazel on the [[Foster Ranch]], which the video places 75 miles north-west of Roswell
+- 3.4 miles long and 300 feet wide, made up only of craft ejecta
+- Nearly massless metal that kept its shape and resisted blunt and shear damage, likely studied, the host believes, by [[Battelle Memorial Institute]]
+- Investigated by Marcel, and later made the public focus of the story
+::
+::wiki-panel{title="The craft site" tone="accent"}
+- About 40 miles north of town, according to Haut's 2002 affidavit
+- Where the craft and bodies were allegedly recovered
+- Kept far more secret than the debris field
+- The site Ramey's diversion plan was allegedly designed to protect
+::
+::
 
-Despite this credential inflation, Lovekin's testimony includes verifiable details and independent corroboration. He was reportedly an attendee at the 1998 briefing featured in the [[Wilson-Davis Memo]], alongside [[Edgar Mitchell]], [[Thomas Wilson]], Commander [[Will Miller]], and Dr. Greer. This meeting's authenticity was confirmed by Wilson himself, though he disputed the memo's characterization of the conversation.
+### Who gave the orders
 
-### Project Blue Book Revelations
+The claims in this video depend on who told whom to do what that week. Each officer below is placed in the chain by his own affidavit or by someone else's.
 
-During his White House service, Lovekin learned about [[Project Blue Book]], the Air Force's official UFO investigation program. He stated that what was publicly released from Blue Book bore little resemblance to the classified materials he accessed. The internal findings were "highly scientific" and "highly exact," designed for use by specific military personnel but never intended for public release. These classified files included photographs of UFOs taken by Air Force, civilian, and Marine Corps pilots, as well as foreign military sources—"probably between two and 300 cases of lock-on," meaning radar confirmations of unidentified aerial objects.
+::wiki-org-chart
+---
+root:
+  name: General Ramey
+  label: "Commander, Fort Worth; ordered the retraction"
+  note: "Recast the flying disc as a weather balloon the same day, and proposed drawing attention to the debris field to shield the craft site."
+  children:
+    - name: Thomas J. DuBose
+      label: "Chief of staff, Fort Worth Army Airfield"
+      note: "Said in an affidavit that the balloon was a cover story, and that he arranged for the material to go from Roswell to Fort Worth and on to General Chidlaw at Wright Field."
+    - name: William Blanchard
+      label: "Base commander, Roswell Army Airfield"
+      note: "Dictated the flying disc release, then took Haut to see Hangar 84; told editor Arthur McQuitty he had never seen anything like the material."
+      children:
+        - name: Walter Haut
+          label: "Public relations officer, 509th Bomb Group"
+          note: "Took the release to Roswell's two newspapers and two radio stations; swore to Blanchard he would never reveal what he saw in his lifetime."
+        - name: Jesse Marcel
+          label: "Intelligence officer"
+          note: "Recovered the debris, then posed with balloon debris in Ramey's office; admitted the cover-up in 1978."
+---
+::
 
-This detail aligns with known Project Blue Book manipulation. As discussed in the video's reference to "the history of the UFO stigma," Major [[Hector Quintanilla]] lied to Congress claiming Blue Book uncovered zero radar lock-on cases, a falsehood later corrected by [[J. Allen Hynek]] who provided multiple confirmed radar identification cases. Lovekin noted that [[Air Force Regulation 200-2]] made discussing UFOs a career-ending move: "If you wanted to ruin your career, the thing that would do this fastest was to talk about UFOs."
+## Walter Haut: the press officer
 
-### Viewing Roswell Wreckage
+Haut came to Roswell with serious credentials. In the Second World War he flew 35 bombing missions over Japan as a bombardier. He took part in the atomic tests at Bikini Atoll, and he served in the 509th, the group that dropped the atomic bombs on Hiroshima and Nagasaki. After Roswell he said nothing, even after Marcel's admission in 1978 and after Marcel confided in him privately in 1980. He only began to speak in the early 1990s.
 
-During a meeting discussing Blue Book materials, Lovekin claims a Colonel "Hollard" (possibly misspelled by Greer as "Hollowguard" or "Hollowberg") brought out a metallic piece resembling a yardstick with encrypted symbols. The colonel explained this material came from the 1947 New Mexico crash and was part of a box of materials the military was actively studying—what would now be called reverse engineering. Lovekin described the symbols as "symbols of instruction," important enough to sustain ongoing military analysis.
+::wiki-grid{cols=3}
+::wiki-panel{title="Affidavit, 14 May 1993"}
+- Blanchard dictated the release almost verbatim from a scratch pad, and Haut's only answer was "yes sir"
+- The release said the base had a flying saucer, found on a ranch north-west of Roswell, which Marcel would fly to Ramey's office
+- Haut delivered it to the Daily Record, the Morning Dispatch and Roswell's two radio stations
+- The material was loaded into a C-54. The plane flew, he said, but the material did not
+- Haut could not believe that Blanchard or Marcel would have mistaken it for a weather balloon
+::
+::wiki-panel{title="Affidavit, 2002 (released 2007)" tone="accent"}
+- Sealed until two years after his death; Haut died in 2005
+- A morning staff meeting on 8 July with Blanchard, Ramey and DuBose, about the debris field and the craft site
+- Lightweight, shape-retaining metal with strange markings was passed around the table
+- Ramey proposed steering attention to the debris field
+- At 9:30 a.m., after dictating the release, Blanchard took Haut into Hangar 84 to see the craft and bodies
+::
+::wiki-panel{title="Corroborating affidavits"}
+- **[[Arthur McQuitty]]**, managing editor of the Roswell Morning Dispatch, confirmed receiving Haut's release and then a call from the base retracting it as a balloon. Months later Blanchard told him the material was unlike anything he had seen anywhere in his life
+- **[[Thomas J. DuBose]]** confirmed that the material shown with Marcel in Ramey's office was a weather balloon used as a cover story
+::
+::
 
-This directly corroborates the most famous piece of Roswell wreckage: the "I-beam" with hieroglyphic-like markings described by Jesse Marcel Sr., who showed it to his son on the night of July 7, 1947. Lovekin's independent description of encrypted wreckage materials adds significant weight to the Marcel family testimony.
+### Inside Hangar 84
 
-The following day after viewing the wreckage, Lovekin's colleagues discussed the incident again, this time mentioning bodies. They confirmed three to five extraterrestrial bodies had been recovered, with uncertainty about the exact number because some information remained incomplete. At least one body was "partially alive" at the time of recovery, according to what Lovekin was told.
+Haut's 2002 affidavit describes Building 84 as a B-29 hangar under heavy guard inside and out. He saw an egg-shaped craft 12 to 15 feet long and about 6 feet in diameter, with a metallic surface and no windows, portholes, wings, landing gear or tail section. The host compares it to the craft that [[AARO]] whistleblower [[Eric Taber]] described as stored at [[Area 51]]. Under a canvas tarp Haut saw "a couple of bodies." Only the heads showed, and he could not make out features in the poor light. They were the size of a ten-year-old child, about 4 feet tall, with larger-than-normal heads, and a temporary morgue had been set up. The host says a later video will cover the sworn statements of the Roswell mortician. The affidavit ends with Marcel's account to Haut: he took pieces of wreckage to Ramey's office, and came back from a map room to find balsa wood and foil from a weather balloon and radar kite in their place.
 
-### Eisenhower and the Loss of Control
+## Steven Lovekin: the White House witness
 
-Lovekin attended [[Camp David]] with President Eisenhower on multiple occasions. Despite being just a sergeant, Eisenhower's collegial nature meant he knew each staff member by name. On one evening, Lovekin overheard the president on a telephone call discussing the [[1952 UFOs Over Washington DC]], when multiple unknown objects appeared on radar over the nation's capital. This was not an isolated conversation-UFOs were "a very very important concern" of Eisenhower's, according to Lovekin.
+Lovekin appeared on Steven Greer's 2001 Disclosure Project as "Brigadier General Steven Lovekin." The host warns viewers not to be impressed: the rank came from the North Carolina State Guard, a volunteer militia with no official military standing. Greer either embellished it or did not check it. The rest of the record, the host argues, holds up better.
 
-However, Lovekin observed that Eisenhower began losing access to UFO-related information later in his presidency. The UFO phenomenon "could not be handled anymore by one agency," so it was distributed among multiple government entities—ostensibly to maintain secrecy and reduce costs, but with the unintended consequence of fragmenting control. Lovekin stated: "Eisenhower got sold out. Without him knowing it, he lost control of what was going on with the entire UFO situation."
+::wiki-grid{cols=2}
+::wiki-panel{title="What supports him"}
+- Joined the Army in 1958 and the Pentagon's radio frequency engineering office
+- Moved to the White House Army Signal Agency in 1959 as a technical specialist, with an above-top-secret clearance, and served under Eisenhower and Kennedy
+- Several independent sources, including researcher Joe Murgia, place him at the briefing with Greer, Edgar Mitchell, Rear Admiral [[Thomas Wilson]] and Commander [[Will Miller]] recorded in the [[Wilson-Davis Memo]]. Wilson himself confirmed the meeting took place. It is [[1997 Meeting (Wilson, Miller, Mitchell, Greer, Hughes)|usually dated 1997]]; the video says 1998
+- He links Blue Book to the Air Force's career-ending rules on UFO talk, which the host connects to [[USAF Regulation 200-2]]
+::
+::wiki-panel{title="What counts against him" tone="accent"}
+- The "brigadier general" title, which the host calls the biggest stain on his case, and one any light research exposes
+- His account reaches us mainly through Greer's production, and a key name may be misspelled in it (Colonel "Hollard," perhaps Holloguard or Holloberg)
+::
+::
 
-Eisenhower trusted too many people, Lovekin believed, and the president came to realize "all of a sudden this matter is going into the control of corporations that could very well be used in detriment to this country." The frustration lasted for months. Eisenhower recognized "the phenomenon was not going to be in the best hands"—corporations driven by profit rather than public interest. This loss of control, Lovekin argued, is what Eisenhower obliquely warned about in his famous 1961 farewell address cautioning against the [[Military-Industrial Complex]].
+### The classified Blue Book
 
-The alleged [[Majestic 12|MJ-12]] documents claim this shadowy oversight group reported directly to Presidents Truman and Eisenhower. Another unverified story places Eisenhower at [[Holloman Air Force Base]] in 1954, where he allegedly met with extraterrestrials and made some form of agreement—the type of arrangement [[David Grusch]] cryptically referenced when asked if agreements had been made between America and non-human intelligences.
+Lovekin's work at the agency involved codebreaking, and Blue Book was, he said, "discussed quite openly in the office." What he saw was nothing like the public reports. The findings were "highly scientific," "extremely exact," and meant only for particular military personnel. There were photographs of UFOs taken by Air Force, civilian and Marine Corps pilots, some of them foreign and some better than any since released. There were also, he estimated, between 200 and 300 cases of radar lock-on, included because they were authentic. The host notes that this sits against Major [[Hector Quintanilla]]'s testimony to Congress that Blue Book found no radar lock-on cases, which [[J. Allen Hynek]] later corrected with several radar cases of his own. Lovekin also recalled being told that the fastest way to ruin a career was to talk about UFOs.
 
-### Threats and Murder
+### A piece of Roswell
 
-An older officer involved with both the [[CIA]] and [[Defense Intelligence Agency]], whom Lovekin knew, told him that uncovering revelations about the UFO phenomenon could lead to "somebody being erased." The officer said these threats "have been made and carried out" and "started way back in 1947." The [[Air Force]] was given "absolute control over how to handle this, the biggest security situation that this country has ever dealt with."
+This is why the host pairs Lovekin with Haut. At a meeting about Blue Book material, Lovekin said, a Colonel "Hollard" brought out a metal piece like a yardstick. It was covered in markings the colonel called symbols of instruction, important enough to keep the military working on them constantly. He said it came from one of the craft that crashed in New Mexico in 1947, out of a box of material the military was working on in what would now be called reverse engineering. The next day the talk turned to bodies: three or five, the count uncertain because the information was incomplete, and one "partially alive" at the time.
 
-When asked directly if people had been killed to protect the secret, Lovekin responded: "Based on the people I talked to, that was an ongoing concern." He added: "I've heard some really unamerican things I don't want to repeat right now." Pressed further, he confirmed: "You have a strong suspicion that people have been murdered to protect the secret over the years? Yeah."
+The markings are the thread the host follows through three independent witnesses:
 
-The threats extended beyond individuals to their families. "They'll go after not only you, they'll go after your family," Lovekin was told. This created an atmosphere of fear so pervasive that even courageous individuals would be intimidated into silence.
+::wiki-grid{cols=3}
+::wiki-panel{title="Jesse Marcel and son, 7 July 1947"}
+Marcel brings home debris including the "I-beam" with hieroglyph-like markings and shows it to Jesse Marcel Jr. The host notes the piece has been claimed by many witnesses.
+::
+::wiki-panel{title="Walter Haut, 8 July 1947"}
+Samples passed around the morning staff meeting: lightweight metal that holds its shape, this time with strange markings.
+::
+::wiki-panel{title="Steven Lovekin, c. 1959–1961" tone="accent"}
+A yardstick-like piece at the White House, from a box of 1947 New Mexico material, bearing symbols of instruction still under study.
+::
+::
 
-## The Roswell Timeline
+### Eisenhower loses control
 
-The video provides a condensed timeline of the Roswell events:
+The video frames this part with Eisenhower's January 1961 farewell address and its warning about the military-industrial complex. The host, like many researchers, wonders whether it partly referred to the legacy programs: the program Grusch speaks of, and the one Admiral Wilson almost uncovered. He runs through Eisenhower's place in UFO lore. The alleged [[Majestic 12|MJ-12]] documents have the group reporting to [[Harry Truman|Truman]] and Eisenhower. A story holds that Eisenhower met extraterrestrials who landed at Holloman Air Force Base in 1954 and made an agreement with them. The host asks whether this is what Grusch meant when he would not say whether agreements with non-human intelligence exist. Lovekin's own account is simpler, and the host plays it in full:
 
-**July 1-3, 1947**: UFOs detected on radar from [[White Sands Missile Range]], which had been testing nuclear weapons since 1946.
+::wiki-org-chart
+---
+root:
+  name: "The UFO problem outgrows a single agency"
+  label: "Lovekin's account"
+  note: "It could no longer be handled by one agency."
+  children:
+    - name: "Work parcelled out across the government"
+      label: "to keep it alive, cheap and secret"
+      note: "A little here and a little there, to separate agencies."
+      children:
+        - name: "Control drifts to corporations"
+          label: "led to"
+          note: "Into hands that could be used to the country's detriment, and not the best hands for the phenomenon."
+          children:
+            - name: Dwight D. Eisenhower
+              label: "loses control without knowing it"
+              note: "Sold out, Lovekin said. He had trusted too many people, and his frustration went on for months; the farewell address was his warning to stay vigilant."
+            - name: Legacy Programs
+              label: "break free of oversight (host's view)"
+              note: "From the 1960s, private corporations fund parts of the program, and congressional and presidential oversight is lost."
+---
+::
 
-**July 4, 1947**: A UFO disappears from radar—likely the crash date.
+In a separate interview with Grant Cameron, Lovekin said he went to Camp David with Eisenhower several times. He was only a sergeant, but Eisenhower made a point of knowing everyone's name. One night he overheard the President on the phone discussing the [[1952 UFOs Over Washington DC]]. It was not unusual: UFOs were "a very very important concern of his." Later in his term, Lovekin said, the President began to be kept out of the information.
 
-**July 5, 1947**: The area north of Roswell is quarantined with guards stationed on Highway 285 blocking roads. Debris and bodies are shipped from Hangar 84 to either [[Wright-Patterson Air Force Base]] (Wright Field) or [[Fort Worth, Texas]].
+### Threats against witnesses
 
-**July 6, 1947**: Rancher [[Mac Brazel]] takes a box of debris to the local sheriff's office. Brazel had discovered a massive debris field on Foster Ranch, 75 miles north of Roswell.
+Lovekin said an older officer with ties to the [[CIA]] and the [[Defense Intelligence Agency]] warned him that uncovering the truth could lead to "somebody being erased." Those threats, the officer said, had been made and carried out, and dated back to 1947, when the Air Force was given absolute control of what Lovekin called the biggest security situation the country had ever dealt with. They would go after not only you but your family. Asked whether people had been killed to protect the secret, Lovekin said it was "an ongoing concern" among the people he talked to. He had heard things he would not repeat, and he agreed he strongly suspected people had been murdered.
 
-**July 7, 1947**: Intelligence officer [[Jesse Marcel]] is dispatched to observe and recover wreckage from the debris field. Critically, there were two separate locations: the 3.4-mile-long, 300-foot-wide debris field discovered by Brazel (consisting of strange metallic material that was nearly massless yet retained its shape and resisted damage), and a second crash site just north of Roswell where the craft and bodies were recovered. Marcel loads wreckage onto a military Jeep and on the way home shows pieces to his family, including his son [[Jesse Marcel Jr.]].
+## The host's assessment
 
-**July 8, 1947**: In a press conference mandated by Colonel [[William Blanchard]] and executed by Lieutenant [[Walter Haut]], the [[Roswell Army Airfield]] announces that a "flying disc" crashed and is in Air Force possession. Headlines proclaim "RAAF Captures Flying Saucer on Ranch in Roswell Region." That same day, General [[General Ramey]] orders a retraction, shifting the story to a recovered weather balloon. Marcel is photographed in Ramey's office with aluminum foil and balsa wood—not the actual recovered material. Marcel later admitted in 1978 that he was ordered to participate in this coverup. The colonel orders his family not to discuss the wreckage. Blanchard goes on leave, Brazel disappears, Marcel transfers to Fort Worth. No one involved can be contacted, and the story remains buried for three decades.
+The host believes a non-human craft crashed at Roswell in 1947. He sees Roswell as the nexus of the reverse-engineering programs. [[Magenta, Italy]] may have come earlier, he says, but a program then was less concentrated, compartmented and efficient. He rates Haut among the best Roswell whistleblowers because he worked directly with Blanchard and Ramey. He points out that Ramey, the man who killed the Roswell story, also briefed the press with General [[General Samford|Samford]] after the 1952 Washington sightings. He finds Lovekin "quite credible" apart from the militia rank, and values him most for showing where the program "started to spiral out." It is probable, the host thinks, that around the 1960s parts of the legacy program moved into the private sector, were funded by private corporations and IRAD, and slipped congressional and presidential oversight. He promises future volumes on crash-retrieval, reverse-engineering, sighting and radar whistleblowers.
 
-## The Military-Industrial Complex Takeover
+## Key Figures
 
-The video connects Lovekin's testimony to a broader theory about the privatization of UFO programs. During Eisenhower's presidency, particularly in the 1960s, UFO research and reverse engineering allegedly transitioned from military and government control into corporate hands. This happened through a process of compartmentalization: breaking the program into pieces distributed among various private contractors, ostensibly for security and cost-efficiency, but effectively removing oversight.
-
-Eisenhower's 1961 farewell address warning about the [[Military-Industrial Complex]] is interpreted as an oblique reference to this loss of control. He cautioned that "our military organization today bears little relation to that known of any of my predecessors in peacetime." The implication is that a shadow structure had formed—corporations with access to recovered non-human technology, operating outside Congressional and presidential oversight, funded through black budgets and Special Access Programs.
-
-This theory aligns with testimony from modern whistleblowers like [[David Grusch]], who described legacy programs operating in the private sector, and [[Thomas Wilson]], who in the [[Wilson-Davis Memo]] allegedly described being denied access to a privately-held reverse engineering program despite his position as head of intelligence for the Joint Chiefs of Staff. The video argues that this breakaway began in the 1960s and has only deepened over subsequent decades, creating a parallel governance structure accountable to no elected authority.
-
-General [[General Ramey]], who orchestrated the Roswell weather balloon coverup, is noted as the same officer who gave a press conference with General [[General Samford]] following the 1952 Washington D.C. UFO incidents-suggesting continuity in the military's handling of UFO incidents across administrations.
+::wiki-roster
+---
+entries:
+  - name: Walter Haut
+    role: "Lieutenant; public relations officer, 509th Bomb Group"
+    note: "Issued the 8 July 1947 flying disc release; his 1993 and 2002 affidavits describe Blanchard's dictation, Ramey's diversion plan, and an egg-shaped craft and bodies in Hangar 84."
+  - name: Steven Lovekin
+    role: "Army technical specialist, White House Army Signal Agency"
+    note: "Described a classified Blue Book, a yardstick-like piece of Roswell wreckage with symbols, three or five bodies, and Eisenhower losing control of the problem to corporations."
+  - name: William Blanchard
+    role: "Colonel; commander, Roswell Army Airfield"
+    note: "Dictated the flying disc release and took Haut into Hangar 84; later told Arthur McQuitty he had never seen anything like the material."
+  - name: General Ramey
+    role: "Brigadier General, Fort Worth"
+    note: "Ordered the weather-balloon retraction and, per Haut, proposed diverting attention to the debris field; later briefed the press on the 1952 Washington sightings."
+  - name: Jesse Marcel
+    role: "Intelligence officer, 509th Bomb Group"
+    note: "Recovered the Brazel debris, showed his family the marked wreckage, and admitted to Stanton Friedman in 1978 that he was ordered into the cover-up."
+  - name: Thomas J. DuBose
+    role: "Colonel; chief of staff, Fort Worth Army Airfield"
+    note: "Swore that the balloon was a cover story and that he routed the material from Roswell through Fort Worth to Wright Field."
+  - name: Arthur McQuitty
+    role: "Managing editor, Roswell Morning Dispatch"
+    note: "Swore he received Haut's release and then the base's retraction call; a friend of Blanchard's."
+  - name: Dwight D. Eisenhower
+    role: "34th President of the United States"
+    note: "In Lovekin's telling, deeply concerned with UFOs, then sold out as the problem slipped into corporate hands; the 1961 farewell address as his warning."
+---
+::
 
 ## Key Claims
 
-- [[Walter Haut]] signed two legal affidavits (1993 and 2002) describing his role in the Roswell incident and his firsthand observation of an egg-shaped craft and small bodies
-- Haut was ordered by Colonel [[William Blanchard]] to write the July 8, 1947 press release announcing recovery of a "flying disc"
-- General [[General Ramey]] orchestrated a weather balloon coverup hours after the press release, with [[Jesse Marcel]] ordered to pose with fake debris
-- Haut viewed an egg-shaped craft 12-15 feet long with no wings, windows, or visible propulsion at Hangar 84
-- Bodies approximately 4 feet tall with oversized heads were observed under tarps at Hangar 84
-- There were two distinct Roswell sites: a debris field 75 miles northwest, and a crash site 40 miles north where the craft and bodies were found
-- Debris exhibited extraordinary properties: nearly massless metallic material that retained shape and resisted damage
-- Encrypted symbols or markings appeared on wreckage materials, described independently by the Marcels, Haut, and Lovekin
-- [[Steven Lovekin]] viewed Roswell wreckage with "symbols of instruction" at the White House during his service under Eisenhower
-- Classified [[Project Blue Book]] files contained 200-300 radar lock-on cases and photographs never released publicly
-- President [[Dwight D. Eisenhower]] discussed UFOs frequently and viewed them as a major concern, particularly the [[1952 UFOs Over Washington DC]] incident
-- Eisenhower progressively lost control of UAP programs to the [[Military-Industrial Complex]] during his presidency
-- UAP programs transitioned from government to corporate control in the 1960s, escaping Congressional and presidential oversight
-- Intelligence officials warned that individuals and their families have been threatened and killed to protect UAP secrets since 1947
-- Three to five extraterrestrial bodies were recovered at Roswell, with at least one partially alive at the time
-- [[Air Force Regulation 200-2]] made openly discussing UFOs a career-ending offense
-- The [[Majestic 12|MJ-12]] documents allegedly show this oversight group reported to Truman and Eisenhower
-- [[David Grusch]]'s testimony about agreements with [[Non-Human Intelligence]] may relate to alleged 1954 Eisenhower meeting at [[Holloman Air Force Base]]
-- [[Thomas Wilson]] came close to uncovering the secret reverse engineering program but was denied access
-- The [[Wilson-Davis Memo]] meeting in 1998 has been confirmed as authentic by Wilson himself
-
-## People
-
-### Primary Whistleblowers
-- [[Walter Haut]] — Public relations officer for the 509th Bomb Group at Roswell Army Airfield; issued the original "flying disc" press release on July 8, 1947; signed affidavits in 1993 and 2002 describing his observation of an egg-shaped craft and bodies at Hangar 84
-- [[Steven Lovekin]] — Army technical specialist who served at the White House Army Signaling Agency under Eisenhower and Kennedy with above top secret clearance; viewed Roswell wreckage with encrypted symbols; claims Eisenhower lost control of UAP programs to corporations
-
-### Roswell Incident Figures
-- [[Jesse Marcel]] — Intelligence officer dispatched to recover Roswell wreckage; admitted in 1978 to participating in the weather balloon coverup; showed wreckage to his family on July 7, 1947
-- [[Jesse Marcel Jr.]] — Son of Jesse Marcel Sr.; witnessed Roswell wreckage his father brought home, including materials with encrypted symbols
-- [[William Blanchard]] — Colonel and base commander at Roswell Army Airfield; ordered Haut to write the flying disc press release; privately told editor Arthur McQuitty he'd "never seen anything like" the wreckage
-- [[General Ramey]] — General who ordered retraction of the flying disc story and orchestrated the weather balloon coverup; photographed Jesse Marcel with fake debris
-- [[Thomas J. DuBose]] — Colonel and Chief of Staff at Fort Worth Army Airfield; confirmed the weather balloon was a cover story in a legal affidavit; arranged transport of materials to Wright Field
-- [[Mac Brazel]] — Rancher who discovered the debris field on Foster Ranch 75 miles north of Roswell; brought materials to the sheriff, then disappeared after the incident
-- [[Arthur McQuitty]] — Managing editor of the Roswell Morning Dispatch; signed affidavit confirming receipt of Haut's press release and subsequent retraction call
-
-### Presidents and Officials
-- [[Dwight D. Eisenhower]] — President who allegedly lost control of UAP programs to the military-industrial complex; warned about this threat in his 1961 farewell address; reportedly met with extraterrestrials at Holloman Air Force Base in 1954
-- [[John F. Kennedy]] - President during part of Lovekin's White House service
-- [[Harry Truman|Harry S. Truman]] - President allegedly briefed by MJ-12 according to disputed documents
-
-### Modern Whistleblowers
-- [[David Grusch]] — Intelligence officer and whistleblower who testified to Congress about secret reverse engineering programs and possible agreements with non-human intelligence
-- [[David Fravor]] — Navy pilot and UFO witness mentioned as having sworn testimony before Congress
-- [[Robert Salas]] — Mentioned as UFO whistleblower with legal testimony
-- [[Michael Herrera]] — USMC veteran whose UFO encounter testimony was sworn into legal record
-- [[Thomas Wilson]] — Head of intelligence for Joint Chiefs of Staff who allegedly came close to uncovering secret reverse engineering program (Wilson-Davis Memo)
-- [[Eric Taber]] — AARO whistleblower who allegedly described an egg-shaped craft at Area 51 similar to what Haut witnessed
-
-### Other Mentioned Figures
-- [[Robert Jacobs]] — UFO witness mentioned as having sworn testimony
-- [[Bob Lazar]] — UFO whistleblower with unverified claims and no legal testimony
-- [[Mark McCandlish]] — UFO whistleblower with claims never sworn under legal testimony
-- [[Bill Uhouse]] — UFO whistleblower with claims never sworn under legal testimony
-- [[Boyd Bushman]] — UFO whistleblower with intriguing but unverifiable claims
-- [[Steven Greer]] — UFO researcher who conducted the 2001 Disclosure Project; criticized for embellishing Lovekin's credentials
-- [[Stanton Friedman]] — Legendary UFO researcher who conducted the 1978 interview where Jesse Marcel admitted to the coverup
-- [[Edgar Mitchell]] — Apollo 14 astronaut who attended the 1998 Wilson-Davis memo meeting
-- [[Commander Will Miller]] — Attendee at the 1998 Wilson-Davis memo meeting
-- [[Grant Cameron]] — UFO researcher who conducted a separate interview with Lovekin about Eisenhower
-- [[General Samford]] — Gave press conference with Roger Ramey following 1952 Washington D.C. UFO incidents
-- [[General Chidlaw]] — Recipient of Roswell materials sent to Wright Field
-- [[J. Allen Hynek]] — Astronomer and Project Blue Book consultant who corrected false claims about radar cases
-- [[Major Hector Quintanilla]] — Project Blue Book director who lied to Congress about radar lock-on cases
-
-## Organizations
-
-- [[509th Bomb Group]] — Air Force unit at Roswell Army Airfield; dropped atomic bombs on Hiroshima and Nagasaki; involved in Roswell incident
-- [[Roswell Army Airfield]] (RAAF) — Military base where flying disc press release was issued; location of Hangar 84 where craft and bodies were stored
-- [[White House Army Signaling Agency]] — Eisenhower-era agency handling communications and codebreaking; where Steven Lovekin served as technical specialist
-- [[Project Blue Book]] — Official Air Force UFO investigation program; contained classified materials with 200-300 radar lock-on cases never released publicly
-- [[Majestic 12|MJ-12]] (Majestic 12) — Alleged shadowy oversight group that reportedly managed UFO programs and reported to Truman and Eisenhower
-- [[AARO]] — All-domain Anomaly Resolution Office; modern Pentagon UAP investigation unit; source of Eric Taber whistleblower claims
-- [[Military-Industrial Complex]] — Network of corporations and defense contractors that allegedly took control of UAP programs from government in the 1960s
-- [[CIA]] — Intelligence agency; older officer with CIA connections warned Lovekin about threats to UFO witnesses
-- [[Defense Intelligence Agency]] (Defense Intelligence Agency) — Military intelligence agency connected to officers who warned about UFO secrecy threats
-- [[Air Force]] — Given absolute control over UFO security starting in 1947
-- [[Army]] — Branch of service for Walter Haut and Steven Lovekin
-- [[Marine Corps]] — Branch whose pilots took UFO photographs included in classified Project Blue Book files
-- [[Navy]] — David Fravor's service branch
-- [[North Carolina State Guard]] — Volunteer militia where Lovekin held Brigadier General title (not official military rank)
-- [[Battelle Memorial Institute]] — Research organization mentioned as possibly studying Roswell wreckage
-
-## Concepts
-
-- [[UFO Whistleblower]] — Individuals who come forward with insider knowledge about covert UAP programs and government secrecy
-- [[Roswell Incident]] — 1947 crash of alleged non-human craft in New Mexico; considered the nexus point for secret crash retrieval and reverse engineering programs
-- [[Crash Retrieval]] — Recovery of downed non-human craft by military and government entities
-- [[Reverse Engineering of UAP]] — Secret programs attempting to understand and replicate recovered non-human technology since at least 1947
-- [[Weather Balloon Coverup]] — Official explanation for Roswell wreckage; contradicted by multiple military witnesses including Jesse Marcel
-- [[Encrypted Symbols]] — Strange markings observed on Roswell wreckage by multiple witnesses including the Marcels, Haut, and Lovekin
-- [[I-Beam]] — Specific piece of Roswell wreckage with hieroglyphic-like encrypted symbols shown by Jesse Marcel to his son
-- [[Legal Affidavit]] — Sworn written testimony; Haut, Marcel, DuBose, and McQuitty all signed affidavits about Roswell
-- [[Non-Human Intelligence]] (NHI) — Term for the suspected origin of crashed craft; David Grusch referenced possible agreements with NHI
-- [[Military-Industrial Complex Takeover]] — Theory that UAP programs transitioned from government to corporate control in the 1960s
-- [[Congressional Oversight Loss]] — Alleged escape of UAP programs from elected government supervision during Eisenhower era
-- [[Legacy Program]] — Long-running covert UAP operation existing outside normal government channels; referenced by David Grusch
-- [[Special Access Program]] (SAP) — Compartmented classified programs; mechanism for hiding UAP work
-- [[Black Budget]] — Unacknowledged funding streams used to finance covert UAP programs
-- [[Above Top Secret Clearance]] — Security level held by Steven Lovekin during White House service
-- [[Air Force Regulation 200-2]] — Directive making it career-ending to publicly discuss UFOs
-- [[Career Killer]] — Phenomenon of UFO topics destroying military and government careers for those who speak openly
-- [[Radar Lock-On]] — Confirmed radar tracking of unidentified objects; 200-300 cases in classified Blue Book files
-- [[UFO Stigma]] — Social and professional consequences of discussing UFO phenomena seriously
-- [[Threats and Murder for Secrecy]] — Alleged intimidation, threats against families, and killings to protect UAP secrets since 1947
-- [[Two Roswell Sites]] — Debris field 75 miles northwest and primary crash site 40 miles north where craft and bodies were found
-- [[Extraterrestrial Bodies]] — Three to five small humanoid bodies recovered at Roswell; approximately 4 feet tall with large heads
-- [[Temporary Morgue]] — Facility set up at Hangar 84 to process recovered bodies
-- [[Egg-Shaped Craft]] — 12-15 foot craft with no windows, wings, or visible propulsion observed by Walter Haut
-- [[Shape-Retaining Metal]] — Wreckage material that was nearly massless yet returned to original shape and resisted damage
-- [[Compartmentalization]] — Strategy of dividing UFO program into pieces across agencies and contractors to maintain secrecy
-- [[Disclosure]] — Effort to reveal hidden UFO information to Congress and the public
-- [[Eisenhower-Extraterrestrial Meeting]] — Alleged 1954 encounter at Holloman Air Force Base where president made agreement with non-human beings
-- [[Wilson-Davis Memo]] — Document describing Admiral Wilson being denied access to private sector reverse engineering program
-
-## Events
-
-- [[Roswell Incident]] — July 1947 crash and recovery of alleged non-human craft and bodies in New Mexico; involves two separate sites
-- [[Flying Disc Press Release]] — July 8, 1947 announcement by Roswell Army Airfield of recovered flying disc; retracted same day
-- [[Weather Balloon Coverup]] — July 8, 1947 replacement narrative ordered by General Roger Ramey
-- [[Jesse Marcel Family Viewing]] — July 7, 1947 evening when Jesse Marcel Sr. showed Roswell wreckage to his wife and son
-- [[Hangar 84 Viewing]] — Morning of July 8, 1947 when Walter Haut observed craft and bodies under guard
-- [[Haut's 1993 Affidavit]] — Legal testimony signed May 14, 1993 describing the press release and coverup
-- [[Haut's 2002 Affidavit]] — Detailed posthumous testimony describing craft and bodies; released 2007 after his 2005 death
-- [[1952 UFOs Over Washington DC]] - Multiple radar detections over nation's capital; discussed by Eisenhower in Lovekin's presence
-- [[Eisenhower's Military-Industrial Complex Speech]] — January 1961 farewell address warning about dangers of defense contractor influence
-- [[Eisenhower Meeting with Extraterrestrials]] — Alleged 1954 encounter at Holloman Air Force Base where agreement was made
-- [[Wilson-Davis Memo Meeting]] — 1998 briefing with Admiral Wilson, Dr. Mitchell, Dr. Greer, and others; confirmed by Wilson as occurring
-- [[Project Blue Book]] — 1952-1969 official Air Force UFO investigation program
-- [[Disclosure Project]] — 2001 event organized by Steven Greer featuring whistleblower testimony
-- [[David Grusch Congressional Testimony]] — Modern whistleblower allegations about secret reverse engineering programs and NHI agreements
-- [[1978 Marcel Interview]] — Stanton Friedman interview where Jesse Marcel admitted participating in weather balloon coverup
-- [[UAP Program Privatization]] — 1960s-era transition of UFO programs from government to corporate control
-
-## Locations
-
-- [[Roswell, New Mexico]] — Site of 1947 crash; includes debris field 75 miles northwest and primary crash site 40 miles north
-- [[Roswell Army Airfield]] — Military base where Walter Haut served; location of Hangar 84
-- [[Hangar 84]] — B-29 hangar at Roswell Army Airfield where craft and bodies were stored under heavy guard
-- [[Foster Ranch]] — Property where Mac Brazel discovered 3.4-mile-long debris field
-- [[White Sands Missile Range]] — Nuclear testing facility that detected UFOs on radar July 1-3, 1947
-- [[Fort Worth, Texas]] — Location where wreckage was flown; General Ramey's office where coverup photos taken
-- [[Wright-Patterson Air Force Base]] (Wright Field) — Ohio facility where Roswell materials were allegedly sent
-- [[Area 51]] — Nevada facility where Eric Taber allegedly saw egg-shaped craft similar to Haut's description
-- [[Camp David]] — Presidential retreat where Lovekin observed Eisenhower discussing UFOs
-- [[Washington D.C.]] — Site of 1952 UFO incidents over the capital that concerned Eisenhower
-- [[Holloman Air Force Base]] — Alleged 1954 site of Eisenhower meeting with extraterrestrials
-- [[The Pentagon]] — Defense headquarters; location of radio frequency engineering office where Lovekin first served
-- [[The White House]] — Where Lovekin served in communications and codebreaking capacity
-- [[Bikini Atoll]] — Pacific nuclear test site where Walter Haut participated in atomic bomb testing
-- [[Hiroshima]] — Japanese city bombed by Haut's 509th Bomb Group unit
-- [[Nagasaki]] — Japanese city bombed by Haut's 509th Bomb Group unit
-- [[Magenta, Italy]] — Mentioned as possible earlier UAP crash site, though program less organized than post-Roswell
-
-## Operations
-
-- [[Legacy UAP Program]] — Secret crash retrieval and reverse engineering operation allegedly running since 1947; escaped government oversight by 1960s
-- [[Project Blue Book]] — 1952-1969 official Air Force UFO investigation; public-facing program while actual analysis remained classified
-- [[Roswell Crash Retrieval]] — July 1947 military operation to secure two sites, recover craft and bodies, and transport materials
-- [[Weather Balloon Coverup Operation]] — July 8, 1947 disinformation campaign ordered by General Ramey
-- [[MJ-12 Operations]] — Alleged activities of shadowy oversight group managing UFO programs for Truman and Eisenhower
+- Walter Haut signed two legal affidavits, in 1993 and in 2002 (released in 2007, after his 2005 death), describing his role in the Roswell incident.
+- Colonel William Blanchard dictated the 8 July 1947 flying disc press release to Haut almost verbatim; General Roger Ramey ordered its retraction the same day, recasting the recovery as a weather balloon.
+- Roswell involved two distinct sites: the Brazel debris field on the Foster Ranch, and a crash site about 40 miles north of town where the craft and bodies were allegedly recovered.
+- At a morning staff meeting on 8 July, Ramey allegedly proposed drawing public attention to the debris field to divert it from the craft site.
+- In Hangar 84 Haut says he saw a metallic, egg-shaped craft 12 to 15 feet long with no windows, wings, landing gear or tail, and bodies about 4 feet tall with large heads under a tarp.
+- Jesse Marcel admitted in 1978, and privately to Haut in 1980, that he was ordered to take part in the weather-balloon cover-up; Arthur McQuitty and Thomas J. DuBose signed affidavits corroborating the release, the retraction and the cover story.
+- Steven Lovekin's "brigadier general" title came from the North Carolina State Guard, a volunteer militia; the host calls it an embellishment by Greer.
+- Lovekin said the classified side of Project Blue Book held highly scientific findings, pilot photographs and 200 to 300 authentic radar lock-on cases never released to the public.
+- Lovekin said he was shown a yardstick-like piece of 1947 New Mexico wreckage bearing "symbols of instruction," and was told three or five bodies were recovered, one partially alive.
+- According to Lovekin, Eisenhower lost control of the UFO problem as it was split across agencies and passed into corporate control; the host dates the program's break from oversight to the 1960s.
+- An intelligence officer allegedly told Lovekin that threats to witnesses and their families had been made and carried out since 1947, and Lovekin said he suspects people were murdered to protect the secret.
 
 ## Sources
 
 - [YouTube](https://www.youtube.com/watch?v=EKEZ2BClIb0) — UAP Gerb
+- The Lovekin clips come from his Disclosure Project interview and a separate interview with Grant Cameron. The host points to his earlier videos on Battelle Memorial Institute, the history of the UFO stigma, and the Wilson-Davis memo.
 
 ## Related Pages
 
-**People:**
-- [[Walter Haut]], [[Steven Lovekin]], [[Jesse Marcel]], [[Jesse Marcel Jr.]], [[William Blanchard]], [[General Ramey]], [[Thomas J. DuBose]], [[Mac Brazel]], [[Arthur McQuitty]], [[Dwight D. Eisenhower]], [[David Grusch]], [[Thomas Wilson]], [[Eric Taber]], [[Stanton Friedman]], [[Steven Greer]], [[Edgar Mitchell]], [[J. Allen Hynek]], [[Major Hector Quintanilla]]
-
-**Organizations:**
-- [[509th Bomb Group]], [[Roswell Army Airfield]], [[White House Army Signaling Agency]], [[Project Blue Book]], [[Majestic 12|MJ-12]], [[AARO]], [[Military-Industrial Complex]], [[CIA]], [[Defense Intelligence Agency]]
-
-**Events:**
-- [[Roswell Incident]], [[Flying Disc Press Release]], [[Weather Balloon Coverup]], [[Haut's 1993 Affidavit]], [[Haut's 2002 Affidavit]], [[1952 UFOs Over Washington DC]], [[Eisenhower's Military-Industrial Complex Speech]], [[Wilson-Davis Memo Meeting]], [[David Grusch Congressional Testimony]]
-
-**Locations:**
-- [[Roswell, New Mexico]], [[Hangar 84]], [[Foster Ranch]], [[Wright-Patterson Air Force Base]], [[Area 51]], [[Camp David]], [[Holloman Air Force Base]]
-
-**Concepts:**
-- [[Roswell Incident]], [[Crash Retrieval]], [[Reverse Engineering of UAP]], [[Weather Balloon Coverup]], [[Encrypted Symbols]], [[Non-Human Intelligence]], [[Military-Industrial Complex Takeover]], [[Legacy Program]], [[Legal Affidavit]], [[Wilson-Davis Memo]]
-
-**Operations:**
-- [[Legacy UAP Program]], [[Project Blue Book]], [[Roswell Crash Retrieval]]
+- **People**: [[Walter Haut]], [[Steven Lovekin]], [[William Blanchard]], [[General Ramey]], [[Jesse Marcel]], [[Jesse Marcel Jr.]], [[Thomas J. DuBose]], [[Arthur McQuitty]], [[Mac Brazel]], [[Dwight D. Eisenhower]], [[John F. Kennedy]], [[Harry Truman]], [[Stanton Friedman]], [[Steven Greer]], [[Grant Cameron]], [[Thomas Wilson]], [[Will Miller]], [[Hector Quintanilla]], [[J. Allen Hynek]], [[General Samford]], [[Eric Taber]], [[David Grusch]], [[David Fravor]], [[Robert Jacobs]], [[Robert Salas]], [[Michael Herrera]], [[Bob Lazar]], [[Mark McCandlish]], [[Bill Uhouse]], [[Boyd Bushman]]
+- **Organizations**: [[509th Bomb Group]], [[White House Army Signaling Agency]], [[Project Blue Book]], [[Disclosure Project]], [[Majestic 12]], [[AARO]], [[CIA]], [[Defense Intelligence Agency]], [[Battelle Memorial Institute]]
+- **Locations**: [[Roswell, New Mexico]], [[Roswell Army Airfield]], [[Hangar 84]], [[Foster Ranch]], [[White Sands Missile Range]], [[Fort Worth, Texas]], [[Wright Field]], [[Area 51]], [[Magenta, Italy]]
+- **Concepts**: [[Legacy Programs]], [[Wilson-Davis Memo]], [[USAF Regulation 200-2]], [[Crash Retrieval]]
+- **Events**: [[Roswell Crash]], [[1952 UFOs Over Washington DC]], [[1997 Meeting (Wilson, Miller, Mitchell, Greer, Hughes)]]
