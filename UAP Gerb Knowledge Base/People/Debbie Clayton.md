@@ -4,17 +4,18 @@ tags:
   - person
 ---
 
-Debbie Clayton is a reported civilian eyewitness in [[Leonard Stringfield]]'s crash retrieval research corpus, cited for describing a 1971 acorn-shaped craft incident near [[Edwards Air Force Base]]. Her account is used in UAP literature as one of several desert-region retrieval narratives involving rapid military response.
+Debbie Clayton is a civilian witness who described to researcher [[Leonard Stringfield]] a 1971 daylight crash of an acorn-shaped craft about 15 miles outside [[Edwards Air Force Base]], California, and its rapid recovery by armed Air Force personnel. Stringfield recounted her account in his 1991 *UFO Crash Retrievals* Status Report VI.
 
-In this knowledge base, Clayton's testimony is presented as a legacy claim discussed in modern analysis of alleged USAF-linked retrieval and containment operations. The account is sourced through secondary reporting and should be treated as testimony rather than independently verified fact.
+## The 1971 crash
 
-## Reported Incident Summary
+According to Clayton, she and her girlfriend's family saw something come down from the sky in broad daylight and went to investigate. At the site they found an upright craft shaped like an acorn ([[Bell or Acorn-Shaped Craft|a bell or acorn shape]]). They searched it for markings but found only some old scratches they could not read. Because it stood upright, they could not see its underside. It had no windows or seams, as if made in a single mould, and was dark grey with greenish highlights, "not a color one normally sees". It gave off mild heat, like a car engine after an hour's drive, and, unusually for the desert, no dust clung to its shell.
 
-- Location: approximately 15 miles outside Edwards Air Force Base
-- Craft description: acorn-shaped, no visible seams or windows, unusual coloration
-- Response: armed Air Force personnel reportedly arrived quickly and cleared the area
+An Air Force car and truck arrived within 14 minutes, and men with rifles ordered the civilians off the scene.
+
+## In UAP Gerb's research
+
+UAP Gerb includes Clayton's account in *UAP Reverse Engineering at Edwards Air Force Base* as one of the Stringfield cases that support his witness [[Ed (Witness 11063)|Ed]]'s claims of non-human craft handled at Edwards. He notes that her description closely resembles the craft of the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg crash]]. In his closing remarks he recalls the craft being swarmed by Air Force crews within about 15 minutes.
 
 ## Sources
 
-- [[UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2]]
-- [[Acorn-Shaped Craft Discovery near Edwards AFB]]
+- [[Video - UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2]]

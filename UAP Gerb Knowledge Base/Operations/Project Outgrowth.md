@@ -4,15 +4,12 @@ tags:
   - operation
 ---
 
-Project Outgrowth refers to a line of advanced propulsion discussion attributed to a 1970s Edwards-associated technical context in which anti-gravity and gravitational-field manipulation concepts were examined at a theoretical level. The title is used in UAP research circles to connect historical Air Force propulsion investigations with later reverse-engineering claims.
+**Project Outgrowth** was a 1972 study of advanced propulsion concepts carried out for the US Air Force Rocket Propulsion Laboratory at [[Edwards Air Force Base]], California. Its report, *Advanced Propulsion Concepts: Project Outgrowth*, surveyed speculative propulsion ideas, including a discussion of anti-gravity and of theoretical materials able to change the direction and amplitude of gravitational fields.
 
-In this knowledge base, Project Outgrowth functions as a historical reference point rather than proof of operational non-human technology exploitation.
+## In UAP Gerb's research
 
-## Investigative Relevance
-
-- Cited as part of Edwards-linked propulsion research history.
-- Used to support claims that unconventional propulsion concepts were explored in military-adjacent technical environments.
+In *UAP Reverse Engineering at Edwards Air Force Base*, UAP Gerb lists Project Outgrowth among the documents showing Edwards's long-standing interest in unconventional propulsion. He pairs it with a 1988 report for the base's astronautics laboratory on the [[Biefeld-Brown Effect]] and with [[SAIC]]'s electric-propulsion studies for Edwards at about the same time. He presents them as context for witness [[Ed (Witness 11063)|Ed]]'s claim that Edwards hosts a program testing craft reverse-engineered from non-human technology, and for [[Edgar Fouche|Edgar Fouché]]'s claim that a full anti-gravity propulsion system was developed there by 1979.
 
 ## Sources
 
-- [[UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2]]
+- [[Video - UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2]]

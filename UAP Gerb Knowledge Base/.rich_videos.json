@@ -310,5 +310,20 @@
       "wiki-roster"
     ],
     "cues": "verified"
+  },
+  "U_LSMLGBDNg": {
+    "title": "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2]",
+    "published": "2024-10-02",
+    "enriched_at": "2026-09-23T12:58:12Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-org-chart",
+      "wiki-callout",
+      "wiki-roster"
+    ],
+    "cues": "verified"
   }
 }

@@ -8,7 +8,7 @@ Edwards Air Force Base is a United States Air Force installation located in the 
 
 ## UAP Significance
 
-Edwards AFB is identified by the presenter of "The Hidden Wing" as the alleged primary site for test and evaluation of [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles (ARVs)]] and derivative non-human airframes under the alleged [[Hidden Wing]] program portfolio. Witness "Ed," a retired Air Force officer, claimed to have served on an ARV T&E program at the [[412th Test Wing|Edwards 412th Test Wing]] involving both manned and unmanned reverse-engineered craft, with pilots trained at the [[Air Force Test Pilot School]]. Edwards is also alleged to be the destination for non-human and derivative craft transported from [[Air Force Plant 42]] for advanced test and evaluation activities.
+Edwards AFB is identified by the presenter of "The Hidden Wing" as the alleged primary site for test and evaluation of [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles (ARVs)]] and derivative non-human airframes under the alleged [[Hidden Wing]] program portfolio. Witness [[Ed (Witness 11063)|"Ed"]], a retired Air Force officer, claimed to have served on an ARV T&E program at the [[412th Test Wing|Edwards 412th Test Wing]] involving both manned and unmanned reverse-engineered craft, with pilots trained at the [[Air Force Test Pilot School]]. Edwards is also alleged to be the destination for non-human and derivative craft transported from [[Air Force Plant 42]] for advanced test and evaluation activities.
 
 UAP Gerb's "80 Years of UFO Crash Retrieval and Reverse Engineering" timeline video describes Edwards as "the test and evaluation hub" for piloting alleged NHI craft, ARVs, and derivative airframes, and traces this role through the full lineage of Air Force Materiel Command (AFMC) precursor organizations — Air Materiel Command, Air Research and Development Command, and Air Force Systems Command — each of which is alleged to have maintained a major presence at Edwards through the flight-test chain, culminating in AFMC's modern-day Air Force Test Center (AFTC) and Air Force Research Laboratory (AFRL) elements operating out of the [[412th Test Wing|Edwards 412th Test Wing]] major range and test facility base (MRTFB). The presenter identifies Edwards and [[Wright-Patterson Air Force Base]] as the Air Force's two most critical legacy program locations.
 
@@ -18,12 +18,26 @@ UAP Gerb's "80 Years of UFO Crash Retrieval and Reverse Engineering" timeline vi
 
 The base's proximity to [[Helendale]] (Lockheed's radar cross-section range), USAF [[Air Force Plant 42|Plant 42]] in Palmdale, and the Northrop Grumman [[Tehachapi, California|Tehachapi]] Mountain facility positions Edwards at the center of a cluster of alleged reverse engineering locations in the Antelope Valley region.
 
+## Earlier accounts gathered by UAP Gerb
+
+In *UAP Reverse Engineering at Edwards Air Force Base*, UAP Gerb tests Ed's account against older stories about the base:
+
+- **1957.** Mercury astronaut [[Gordon Cooper]] said cameramen filming a precision landing facility at Edwards filmed a silver saucer about 30 feet across land on three gear on the dry lake bed; the film was sent to Washington by courier.
+- **Late 1960s–early 1970s.** A physicist called Dr. Epigoni told [[Leonard Stringfield]] of [[Project Heaven]], in which a landed 40-foot saucer was kept in a guarded Edwards hangar and its occupants taken to a secure building.
+- **1971.** [[Debbie Clayton]] described an acorn-shaped craft crash about 15 miles outside the base, cleared by armed airmen within 14 minutes.
+- **1961–1963.** A witness known as MH said a recovered craft shipped from Edwards was test-flown at Area 51 under [[Project Redlight|Project Red Light]].
+- **1972 and 1988.** [[Project Outgrowth]], from the Air Force Rocket Propulsion Laboratory, discussed an anti-gravity program, and a 1988 report for the base's astronautics laboratory explored the [[Biefeld-Brown Effect]].
+- **1990.** Aviation Week reported sightings of craft accelerating from near-hover to supersonic speed over Edwards, George Air Force Base and China Lake.
+
+Greer's sources also place one half of the [[Blackjack Team]] pairing, named in an alleged 1991 NRO document, at Edwards.
+
 ## Underground Facilities
 
 Multiple informants compiled by [[Bill Hamilton]] described underground storage of extraterrestrial discs at Edwards and specifically a command center beneath Haystack Butte (the eastern test facilities area). [[Michael Wolf]] also claimed to have heard that live extraterrestrials were kept at a facility under Haystack Butte. The Air Force Research Laboratory's Aerospace Systems Directorate facilities are built into and around Haystack Butte, and rocket propulsion laboratory silos are located on Lumen Ridge — consistent with pre-existing infrastructure that could accommodate deeper underground expansion. The Edwards/NTTR underground network is referenced by witness "Ed," and forms the core of the alleged southwestern DUMB complex centered on the Antelope Valley.
 
 ## Sources
 
+- [[Video - UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2]]
 - [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
 - [[Video - The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
 - [[Video - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs]]
