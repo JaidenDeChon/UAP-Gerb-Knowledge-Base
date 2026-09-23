@@ -26,8 +26,12 @@ useHead({ title: 'Videos' })
       </li>
     </ul>
 
-    <ul v-else class="ufo-skeleton grid gap-4 @xl:grid-cols-2 @4xl:grid-cols-3" aria-hidden="true">
-      <li v-for="n in 6" :key="n" class="h-[300px] rounded-lg border border-border bg-muted/40" />
-    </ul>
+    <div v-else class="relative">
+      <AppLoadingMark />
+      <ul class="ufo-skeleton grid gap-4 @xl:grid-cols-2 @4xl:grid-cols-3" aria-hidden="true">
+        <li v-for="n in 6" :key="n" class="h-[300px] rounded-lg border border-border bg-muted/40" />
+      </ul>
+      <span class="sr-only" role="status">Loading videos…</span>
+    </div>
   </div>
 </template>

@@ -3,6 +3,8 @@ import { bakeWikiDataModule } from './wiki/bake'
 import { cleanTocLabels } from './wiki/toc'
 import { replaceObsidianCallouts, replaceWikiLinks } from './wiki/vault'
 
+const PAGE_CACHE = { isr: true, headers: { 'Netlify-Vary': 'cookie=uapgdb-theme' } }
+
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   compatibilityDate: '2025-07-15',
@@ -14,6 +16,18 @@ export default defineNuxtConfig({
     head: {
       htmlAttrs: { lang: 'en' },
     },
+  },
+  // Cache every page's HTML at Netlify's CDN until the next deploy (a deploy
+  // purges it), so a repeat visit never waits on a cold function. Pages only:
+  // the /api routes take query strings, and those are left uncached rather
+  // than trusting the cache key to include them. The theme is rendered from
+  // its cookie (useThemeHead), so the cache varies on that cookie, or one
+  // visitor's theme would be served to everyone. `isr` only has an effect on
+  // the Netlify and Vercel presets; local dev and preview don't cache.
+  routeRules: {
+    '/': PAGE_CACHE,
+    '/videos': PAGE_CACHE,
+    '/wiki/**': PAGE_CACHE,
   },
   content: {
     renderer: { anchorLinks: false },

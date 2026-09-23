@@ -119,6 +119,21 @@ export interface NotePreview extends NoteRef {
   tags: string[]
 }
 
+/**
+ * What a page's server render needs before the note itself has loaded: its
+ * title and share-card fields. Served from baked data (`/api/meta`), so an
+ * article's first byte never waits on the content database.
+ */
+export interface NoteMeta {
+  path: string
+  title: string
+  category: Category
+  /** First paragraph, trimmed; empty for notes that have none (transcripts). */
+  lead: string
+  /** YouTube id, for a video summary. */
+  videoId: string | null
+}
+
 /* ------------------------------------------------------------ baked data -- */
 
 /**

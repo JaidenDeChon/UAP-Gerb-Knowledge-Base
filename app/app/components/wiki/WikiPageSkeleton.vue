@@ -11,7 +11,9 @@
 </script>
 
 <template>
-  <div class="mx-auto max-w-[760px] px-8">
+  <div class="relative mx-auto max-w-[760px] px-8">
+    <AppLoadingMark />
+
     <div class="ufo-skeleton pb-32 pt-10" aria-hidden="true">
       <!-- breadcrumb -->
       <div class="mb-5 h-3.5 w-48 rounded-sm bg-muted" />
