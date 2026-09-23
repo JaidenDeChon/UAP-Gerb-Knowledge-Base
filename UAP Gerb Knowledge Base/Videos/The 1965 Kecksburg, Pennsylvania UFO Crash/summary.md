@@ -472,20 +472,68 @@ Pittsburgh jazz musician [[Jerry Betters]], then 41 and living near Kecksburg, c
 
 Romansky, Bush and Betters never compared notes, and the trucker Myron and his cousin JS saw the object days later in Ohio. Their descriptions line up closely.
 
-::wiki-grid{cols=2}
-::wiki-panel{title="Jim Romansky, fireman" tone="accent"}
-A large bronze or off-gold acorn or bell, 10 to 12 feet long and 8 to 10 feet in diameter. A raised "bumper" 8 to 10 inches wide ran round it, and the bottom was perfectly flat. It had no seams, rivets, doors, windows or means of propulsion, and as a machinist he thought it looked cast from a liquid-metal mould. The bumper carried characters of "broken and straight lines, dots, rectangles and circles" like ancient Egyptian hieroglyphs. His father wrote out Polish and Russian for him, and Romansky says the markings looked like neither.
+::wiki-compare{video="rgBTMzFd-hg" video-title="The 1965 Kecksburg, Pennsylvania UFO Crash"}
+---
+caption: "Five witnesses' descriptions of the object, in the woods on 9 December, on the flatbed that night and at Wright-Patterson days later. \"Same\" marks the points on which their accounts agree."
+attributeLabel: "Feature"
+subjects:
+  - name: "Jim Romansky"
+    note: "Fireman, at the trench"
+  - name: "Bill Bully Bush"
+    note: "First to reach it"
+  - name: "Jerry Betters"
+    note: "At the roadblock"
+  - name: "Myron"
+    note: "At Wright-Patterson"
+  - name: "JS"
+    note: "Myron's cousin, a day earlier"
+rows:
+  - attribute: "Shape"
+    cells:
+      - { text: "An acorn or bell", mark: same, cue: 975 }
+      - { text: "An acorn", mark: same, cue: 1327 }
+      - { text: "An acorn, domed", mark: same, cue: 1521 }
+      - { text: "A bell; later \"a large acorn\"", mark: same, cue: 3383 }
+      - { text: "Like the Liberty Bell", mark: same, cue: 3610 }
+  - attribute: "Size"
+    cells:
+      - "10–12 ft long, 8–10 ft across"
+      - { mark: unknown }
+      - "A little bigger than a Volkswagen"
+      - "About 10 ft tall, under 10 ft wide; later about 14 ft to the top"
+      - "8–10 ft tall and wide"
+  - attribute: "Colour"
+    cells:
+      - { text: "Bronze or off-gold", mark: same }
+      - "Metallic"
+      - { mark: unknown }
+      - { text: "Dull copper or bronze", mark: same }
+      - { mark: unknown }
+  - attribute: "Surface"
+    cells:
+      - "No seams, rivets, doors, windows or propulsion; as if cast in a liquid-metal mould"
+      - "No welding, no windows"
+      - { mark: unknown }
+      - "A triangle that looked welded on"
+      - { mark: unknown }
+  - attribute: "Markings"
+    cells:
+      - { text: "Hieroglyph-like characters on a raised bumper 8–10 in wide", mark: same }
+      - { text: "\"Egyptian-like\" writing on a ring at the back", mark: same }
+      - { text: "\"Hieroglyphic stuff\" all around the back", mark: same }
+      - { text: "A collar of writing all the way round", mark: same }
+      - { mark: unknown }
+  - attribute: "State"
+    cells:
+      - "Half-buried at the end of a 25-ft trench; no sign of fire"
+      - "Embedded a foot or more; sizzling, throwing blue sparks, smelling of rotten eggs"
+      - "Uncovered on an Army flatbed, then tarped"
+      - "Under scaffolding, charred, its bottom completely black"
+      - "Upright under a tarp on a lowboy trailer"
+---
 ::
-::wiki-panel{title='Bill "Bully" Bush, first to arrive'}
-A metallic acorn embedded a foot to a foot and a half deep, having knocked the tops off the trees as it came in. There was no welding and no windows, with a ring at the back bearing "Egyptian-like" writing. It smelled of rotten eggs and sizzled, throwing blue sparks as if it were red hot and cooling off.
-::
-::wiki-panel{title="Jerry Betters, at the roadblock"}
-A domed, acorn-shaped object on the back of an Army flatbed, a little bigger than a Volkswagen, with "hieroglyphic stuff" all around the back. A tarp went over it as he watched.
-::
-::wiki-panel{title="Myron and JS, at Wright-Patterson"}
-Myron describes a dull copper or bronze bell under scaffolding, about 10 feet tall and under 10 feet wide, charred or sooty, with its bottom completely black. In a later interview he gives it as about 14 feet to the top, with a collar of writing round it and a triangle that looked as if it had been welded on. JS remembers something shaped like the Liberty Bell, 8 to 10 feet tall and wide, upright under a tarp on a lowboy trailer.
-::
-::
+
+Romansky, a machinist, said he had never in his life seen metal of that colour. The bumper's characters were "broken and straight lines, dots, rectangles and circles" like ancient Egyptian hieroglyphs; his father wrote out Polish and Russian for him, and Romansky says the markings looked like neither. Bush watched it come in, knocking the tops off the trees, and fled when he heard the firemen coming.
 
 Some believe the object was a Soviet space capsule and the markings Cyrillic, which is why the host stresses Romansky's certainty that they were not Russian. On the 1993 *Montel Williams* show Romansky also described what followed. His daughter in the Marine Corps was made to sign a statement that she would never request information about Kecksburg after his name came up on a computer. His son in the Air Force had to sign two statements and was told he could not even request duty at Wright-Patterson, "where my UFO is sitting".
 

@@ -289,6 +289,39 @@ The host reads the Denb Report aloud in full because, he says, it remains the be
 
 At 2207 hours on 25 August 1974, US Air Defense radar detected an unknown object approaching from the Gulf of Mexico at 2,200 knots, on a bearing of 325 degrees at 75,000 feet. That course would have crossed the coast about 40 miles southwest of [[Corpus Christi, Texas]]. After about 60 seconds, 155 miles southeast of Corpus Christi, the object slowed to about 1,700 knots, turned to a heading of 290 degrees and began a slow descent. It entered Mexican airspace about 40 miles southwest of [[Brownsville, Texas]], levelled off at 45,000 feet and then descended to 20,000 feet. It came down in level steps, each held for about five minutes, rather than in a smooth curve. Two military radar sites tracked it for about 500 miles until it disappeared near Coyame, over barren and sparsely populated country. No civilian radar reported it, although it should have been within range of Brownsville's.
 
+::wiki-map{video="bL3tMByq_WM" video-title="The 1974 Coyame, Mexico UFO Crash"}
+---
+label: "The radar track"
+caption: "The object's course on 25 August 1974 as the Denb Report gives it. The turn and the entry into Mexico are placed by the report's own distances from Corpus Christi and Brownsville (155 miles south-east and 40 miles south-west), computed from each city's centre; the line joins those points and is not a surveyed track."
+pins:
+  - text: "Turn over the Gulf of Mexico"
+    label: "Turn"
+    coordinates: [26.1453, -95.635]
+    note: "About 155 miles south-east of Corpus Christi, after some 60 seconds of tracking at 2,200 knots and 75,000 ft, the object slowed to about 1,700 knots and turned to 290 degrees."
+    cue: 253
+  - name: "Corpus Christi, Texas"
+    label: "Corpus Christi"
+    note: "Its first course, on a bearing of 325 degrees, would have crossed the coast about 40 miles south-west of the city."
+    cue: 248
+  - name: "Brownsville, Texas"
+    label: "Brownsville"
+    note: "Within range of Brownsville's civilian radar, which reported nothing."
+  - text: "Entry into Mexican airspace"
+    label: "Into Mexico"
+    coordinates: [25.5202, -97.938]
+    note: "About 40 miles south-west of Brownsville. The object levelled off at 45,000 ft, then came down to 20,000 ft in five-minute steps."
+    cue: 269
+  - name: "Coyame, Chihuahua, Mexico"
+    label: "Coyame"
+    note: "Two military radar sites tracked it about 500 miles to a point near Coyame, where it vanished from their screens."
+    cue: 275
+routes:
+  - path: [1, 4, 5]
+    style: dashed
+    label: "The radar track, about 500 miles over Mexico"
+---
+::
+
 The report sets out why the object was not taken for a meteor. Meteors travel faster, descend in a smooth arc rather than in steps, and do not turn 35 degrees. An air defense alert was called, but it was cancelled within 20 minutes when the object turned onto a course that would not take it over US territory. JS also asks where the object came from. It was first detected only about 200 miles out, yet US air defenses reach much further. JS judges it "probable" from the behaviour of discs this size that it entered from orbital altitude, perhaps within reach of NORAD's space tracking. The alternative JS offers is that it came in over the Gulf under the radar and then "jumped up" to 75,000 feet.
 
 ### The operation, hour by hour
@@ -520,23 +553,38 @@ The host finds precedents for fatal contamination in the [[Majestic 12]] papers.
 
 ## Echoes of Peru, 1997
 
-The case reminds the host of [[Jonathan Weygandt]]'s account of a crashed craft in the Peruvian jungle during the CIA-supported counternarcotics [[Operation Laser Strike]].
+The case reminds the host of [[Jonathan Weygandt]]'s account of a crashed craft in the Peruvian jungle during the CIA-supported counternarcotics [[Operation Laser Strike]] (see [[Peru UFO Crash Incident]]). What is confirmable in Peru, he says, is the CIA's involvement, and the key links to Coyame are the hazmat suits and the harm done to people near the craft. In Peru the men in hazmat suits were ones he has argued were [[NEST (Nuclear Emergency Support Team)|NEST]].
 
-::wiki-grid{cols=2}
-::wiki-panel{title="Coyame, 1974"}
-- CIA forms the team and supplies the intelligence
-- Unmarked helicopters, including a heavy twin-rotor Sea Stallion
-- Recovery crew in bio-protection suits
-- Mexican soldiers dead beside the disc
-- Site destroyed; disc handed to a private convoy
-::
-::wiki-panel{title="Peru, 1997 (Jonathan Weygandt)"}
-- CIA involvement in Operation Laser Strike is on record
-- Personnel arrive by a landed CH-47 twin-rotor helicopter
-- Men in black fatigues, rain jackets and hazmat suits, whom the host has argued were [[NEST (Nuclear Emergency Support Team)|NEST]]
-- Weygandt feels intense, unexplainable fear near the craft
-- See [[Peru UFO Crash Incident]]
-::
+::wiki-compare{video="bL3tMByq_WM" video-title="The 1974 Coyame, Mexico UFO Crash"}
+---
+caption: "The two recoveries set side by side, as the host compares them. \"Same\" marks the links he stresses."
+attributeLabel: "Point"
+subjects:
+  - name: "1974 Coyame, Mexico UFO Crash Retrieval"
+    note: "Per the Denb Report"
+  - name: "Peru UFO Crash Incident"
+    note: "1997, per Jonathan Weygandt"
+rows:
+  - attribute: "The CIA"
+    cue: 1476
+    cells:
+      - { text: "Received the intercepts and formed the recovery team", mark: same }
+      - { text: "Its support of Operation Laser Strike is on record", mark: same }
+  - attribute: "Helicopters"
+    cells:
+      - { text: "Three unmarked, sand-coloured Hueys and a larger Sea Stallion; Presidio witnesses saw a large twin-rotor return", cue: 1520 }
+      - { text: "A landed CH-47 twin-rotor", cue: 1489 }
+  - attribute: "Recovery crew"
+    cue: 1506
+    cells:
+      - { text: "Men in bio-protection suits", mark: same }
+      - { text: "Black fatigues, rain jackets and hazmat suits", mark: same }
+  - attribute: "People near the craft"
+    cue: 1509
+    cells:
+      - "Every Mexican soldier in the convoy found dead"
+      - "Weygandt felt intense, unexplainable fear"
+---
 ::
 
 ## The Wikipedia Affair

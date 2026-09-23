@@ -398,30 +398,103 @@ SOM 1-01, *Extraterrestrial Entities and Technology, Recovery and Disposal*, arr
 
 The manual describes four craft configurations. The host notes that the triangle and the "ice cream cone" shape are among the earliest references to forms later reported in the 1976 Tehran and Cash–Landrum cases.
 
-::wiki-grid{cols=2}
-::wiki-panel{title="Elliptical or disc-shaped"}
-Two pie pans pressed together, dull metallic, **50–300 ft** across and about 15% as thick. A dome rises about 30% of the diameter, with or without ports. Lights on top, bottom and rim work only in operation; no antennas; three sets of retractable landing gear.
-::
-::wiki-panel{title="Cigar-shaped"}
-Very rare. Up to **2,000 ft** long and 95 ft thick; not seen in the lower atmosphere; travel above **7,000 mph**. They do not make the rapid, erratic manoeuvres of the smaller craft.
-::
-::wiki-panel{title="Ovoid or circular (teardrop)"}
-Like an ice-cream cone: round at the large end, tapering to a near point. **30–40 ft** long, 20% as wide, with a bright light at the point, and they travel point down.
-::
-::wiki-panel{title="Airfoil or triangular"}
-An isosceles triangle, longest side near **300 ft**. Classed as new technology because recent sightings were rare; little known of performance, which appeared similar to the disc and ovoid types.
-::
+::wiki-compare{video="vzB87RJkQVU" video-title="The Majestic-12 Documents [With Ryan S. Wood]"}
+---
+caption: "The four craft configurations SOM 1-01 describes, as the video reads them."
+attributeLabel: "Feature"
+subjects:
+  - "Elliptical or disc-shaped"
+  - "Cigar-shaped"
+  - "Ovoid or teardrop"
+  - "Airfoil or triangular"
+rows:
+  - attribute: "Shape"
+    cells:
+      - { text: "Two pie pans or shallow dishes pressed together, dull metallic, with a dome", cue: 1896 }
+      - { text: "A cigar; the host adds \"Tic Tacs\"", cue: 1937 }
+      - { text: "An ice-cream cone: round at the large end, tapering to a near point", cue: 1956 }
+      - { text: "An isosceles triangle", cue: 1975 }
+  - attribute: "Size"
+    cells:
+      - "50–300 ft across"
+      - "Up to 2,000 ft long"
+      - "30–40 ft long"
+      - "Longest side near 300 ft"
+  - attribute: "Proportions"
+    cells:
+      - "About 15% as thick as wide; the dome rises 4–6 ft, about 30% of the diameter across"
+      - "95 ft thick"
+      - "20% as wide as long"
+      - ""
+  - attribute: "Features"
+    cells:
+      - "Lights on top, bottom and rim that work only in operation; no antennas; three sets of extendable landing gear"
+      - ""
+      - "A bright light at the point; travels point down"
+      - ""
+  - attribute: "Performance"
+    cells:
+      - ""
+      - "Above 7,000 mph; not in the lower atmosphere; none of the smaller craft's rapid, erratic manoeuvres"
+      - ""
+      - "Little known; appeared similar to the disc and ovoid"
+  - attribute: "Rarity"
+    cells:
+      - ""
+      - "Very rare"
+      - ""
+      - "Rarely seen recently, so classed as new technology"
+---
 ::
 
 It also describes two kinds of extraterrestrial biological entity (EBE). The host credits artist Bill McDonald for the renderings shown in the video.
 
-::wiki-grid{cols=2}
-::wiki-panel{title="EBE Type 1" tone="accent"}
-Humanoid, **5 ft to 5 ft 4 in**, 80–100 lb. Large, rounded cranium; thick, chalky yellow, slightly pebbled skin; small, wide-set, almond-shaped eyes with brownish-black irises and large pupils; wide, nearly lipless mouth; fine body hair. Thin and muscular, with small hands of four long digits, no thumb, and webbing.
-::
-::wiki-panel{title="EBE Type 2" tone="accent"}
-The classic "grey": humanoid, **3 ft 5 in to 4 ft 2 in**, 25–50 lb. Proportionally larger, elongated head; large, slanted, wrap-around eyes of pure black; nose of two slits above a slit mouth; no external ears. Pale blue-grey, fine-celled skin and no hair, suggesting to MJ-12 that they are not mammals. Three long fingers and a long thumb; four toes joined by a membrane.
-::
+::wiki-compare{video="vzB87RJkQVU" video-title="The Majestic-12 Documents [With Ryan S. Wood]"}
+---
+caption: "SOM 1-01's two types of extraterrestrial biological entity. The second, the video notes, is the classic \"grey\"."
+attributeLabel: "Feature"
+subjects:
+  - "EBE Type 1"
+  - name: "EBE Type 2"
+    note: "The classic \"grey\""
+rows:
+  - attribute: "Build"
+    cells:
+      - { text: "Humanoid; thin, with no fat and good muscle", cue: 2005 }
+      - { text: "Humanoid", cue: 2045 }
+  - attribute: "Height"
+    cells:
+      - "5 ft to 5 ft 4 in"
+      - "3 ft 5 in to 4 ft 2 in"
+  - attribute: "Weight"
+    cells:
+      - "80–100 lb"
+      - "25–50 lb"
+  - attribute: "Head"
+    cells:
+      - "Larger, more rounded cranium"
+      - "Large and elongated, proportionally bigger than a human's or Type 1's"
+  - attribute: "Eyes"
+    cells:
+      - "Small, wide-set, almost almond-shaped; brownish-black irises, very large pupils, grey whites"
+      - "Large, slanted, nearly wrapping round the head; pure black"
+  - attribute: "Nose, mouth and ears"
+    cells:
+      - "Wide, nearly lipless mouth"
+      - "Two small slits for a nose above a slit-like mouth; no external ears"
+  - attribute: "Skin"
+    cells:
+      - "Thick, chalky yellow, slightly pebbled"
+      - "Pale blue-grey, fine-celled and smooth"
+  - attribute: "Hair"
+    cells:
+      - "Fine hair, not confined to underarm and groin"
+      - "None, which led MJ-12 to believe they are not mammals"
+  - attribute: "Hands and feet"
+    cells:
+      - "Small hands, four long digits, no thumb, webbing"
+      - "Three long fingers and a long thumb; four toes joined by a membrane"
+---
 ::
 
 Materials from crashes between 1947 and 1953 (Roswell to Kingman, the host notes) are described as unknown to terrestrial science. They are extremely strong for their weight, resemble aluminium foil or magnesium sheeting, and bear inscriptions, matching [[Jesse Marcel]]'s Roswell account. The press-blackout section prescribes media denial, discrediting witnesses and deceptive statements. The host sees here the machinery behind [[UFO Stigma]], the [[Robertson Panel]] and the [[Condon Committee]]. Any craft or device that appears functional is assigned to "Red Team"; the host compares this with Randy Anderson's account of a recovered item treated as a weapon because it discharged energy. Wood recalls Blue Fly and blue teams, and says Wright-Patterson calls its facility the "blue lab". Section 16 directs that, should public disclosure become necessary, the team issue Contingency Plan MJ-1949-04P/78, the plan the Eisenhower Briefing Document cites.

@@ -374,21 +374,47 @@ The host treats the Edwards period as the most important part of the testimony. 
 
 ### The go-public plan and the two-star general
 
-According to Greer, in 2008 Ed was part of an Air Force plan to go public, as director of a redacted program. A two-star general killed it in 2009–2010, and Ed moved to the Pentagon. The host found no confirming evidence of the plan, but he examined Air Force major generals of the period. Besides the four below, he names C. Donald Alston, H. Brent Baker Sr. and Randy A. Kee.
+According to Greer, in 2008 Ed was part of an Air Force plan to go public, as director of a redacted program. A two-star general killed it in 2009–2010, and Ed moved to the Pentagon. The host found no confirming evidence of the plan, but he examined Air Force major generals of the period. Besides the four compared below, he names C. Donald Alston, H. Brent Baker Sr. and Randy A. Kee.
 
-::wiki-grid{cols=2}
-::wiki-panel{title="Thomas K. Andersen" tone="accent"}
-The host's "prime suspect". Andersen made major general in 2009 and retired in 2013. He commanded the Curtis E. LeMay Center for Doctrine Development and Education, which produces Air Force doctrine and input for joint and multinational doctrine. He had also held Air Staff, Joint Staff, combatant command and NATO posts, and was chief of staff and director of intelligence at US Strategic Command.
-::
-::wiki-panel{title="Eugene Haase"}
-A brigadier general in 2009–2010 and a major general from 2012. Haase was vice commander of Air Force Special Operations Command from 2009 to 2011, and director for force structure, requirements, resources and strategic assessment (J8). His postings at MacDill Air Force Base and Fort Belvoir, both allegedly tied to UAP programs, caught the host's interest.
-::
-::wiki-panel{title="Casey D. Blake"}
-A colonel at the time of the plan and a major general from 2015. Blake commanded the Air Force Installation Contracting Agency at Wright-Patterson. He later became Deputy Assistant Secretary for Contracting, overseeing contracting for weapon systems, logistics and operational support. In 2008 he directed program acquisition in the Pentagon's defense procurement and acquisition policy office.
-::
-::wiki-panel{title="Christopher P. Azzano"}
-The least likely decision-maker, since he became a major general only in 2019. His early career mirrors Ed's, though. Azzano attended the test pilot school at Edwards in 2000 and commanded the 412th Operations Group in the early 2010s. He later commanded the [[Air Force Test Center]], a $31 billion enterprise of more than 19,000 people across Edwards, Eglin and Arnold.
-::
+What he weighs for each candidate is his rank when the plan died, and so whether he could have had the decision-making power to kill it, and the posts that link him to the story. Only his "prime suspect", Thomas K. Andersen, was already a major general then. Andersen commanded the Curtis E. LeMay Center for Doctrine Development and Education, which produces Air Force doctrine and input for joint and multinational doctrine, after Air Staff, Joint Staff, combatant command and NATO posts and a spell as chief of staff and director of intelligence at US Strategic Command. Casey D. Blake later oversaw all Air Force contracting for weapon systems, logistics and operational support as Deputy Assistant Secretary for Contracting. Christopher P. Azzano went on to command the [[Air Force Test Center]], a $31 billion enterprise of more than 19,000 people across Edwards, Eglin and Arnold.
+
+::wiki-compare{video="U_LSMLGBDNg" video-title="UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2]"}
+---
+caption: "Four Air Force generals the host examines as the two-star who allegedly killed the 2008 go-public plan in 2009–2010."
+attributeLabel: "Candidate"
+subjects:
+  - name: "Thomas K. Andersen"
+    note: "The host's prime suspect"
+  - "Eugene Haase"
+  - "Casey D. Blake"
+  - name: "Christopher P. Azzano"
+    note: "The least likely, per the host"
+rows:
+  - attribute: "Rank in 2009–2010"
+    cells:
+      - { text: "Major general", cue: 1407 }
+      - { text: "Brigadier general", cue: 1445 }
+      - { text: "Colonel", cue: 1483 }
+      - { text: "Not yet a major general", cue: 1550 }
+  - attribute: "Made major general"
+    cells:
+      - "2009 (retired 2013)"
+      - "2012"
+      - "2015"
+      - "2019"
+  - attribute: "Posts the host cites"
+    cells:
+      - "Commander, Curtis E. LeMay Center for Doctrine Development and Education"
+      - "Vice commander, Air Force Special Operations Command, 2009–2011; J8 director for force structure"
+      - "Pentagon acquisition director in 2008; commander, Air Force Installation Contracting Agency at Wright-Patterson"
+      - "412th Operations Group at Edwards, early 2010s; later commander, Air Force Test Center"
+  - attribute: "Why he interests the host"
+    cells:
+      - "Two-star rank inside the window, and senior staff and intelligence posts"
+      - "Postings at MacDill Air Force Base and Fort Belvoir, both allegedly tied to UAP programs"
+      - "His 2008 acquisition role at the Pentagon"
+      - "A career that mirrors Ed's: the Edwards test pilot school in 2000, then the 412th"
+---
 ::
 
 ### Wright-Patterson and Hangar 6
@@ -479,15 +505,29 @@ The host says Epigoni's account, in which the beings walked out of the craft, la
 
 In July 1991 an allegedly classified NRO document leaked. It informed need-to-know groups that civilian flying saucer organisations were planning protests in Nevada. Greer says he gave it to Admiral [[Thomas Wilson]] of the [[Wilson-Davis Memo]]; the host says the meeting between them at least can be confirmed. Wilson allegedly told Greer he recognised one of the entities listed and that it was run by a contractor. The addressees include Royal Ops, Cosmic Ops, M Ops and Majic Ops; the Air Force's 26th, 64th, 65th and 527th units; Nellis AFOSI; Groom Lake and Dreamland; Area 51 S4; AquaTech; the Sea Spray special operations group; and a [[Blackjack Team]].
 
-Greer says inside sources, including one inside Blackjack Control, told him of two entities that work together. The host and a Greer clip in the video assign them to opposite bases:
+Greer says inside sources, including one inside Blackjack Control, told him of two entities that work together. The host's narration and a Greer clip in the video then assign them to opposite bases. In the clip, presenting a list of key facilities he says he updated "for the president in '09", Greer names Edwards as a chief one with "a whole constellation" around it: Haystack Butte, China Lake, George Air Force Base, the retired Norton Air Force Base, NASA's Table Mountain Observatory and Blackjack Control.
 
-::wiki-grid{cols=2}
-::wiki-panel{title="The host's narration"}
-Blackjack Control is a Nellis-based facility taking part in reverse engineering. Blackjack Team operates with it but is stationed at Edwards Air Force Base.
-::
-::wiki-panel{title="Greer, in a clip"}
-Presenting a list of key facilities he says he updated "for the president in '09", Greer names Edwards as a chief one with "a whole constellation" around it: Haystack Butte, China Lake, George Air Force Base, the retired Norton Air Force Base, NASA's Table Mountain Observatory and Blackjack Control. He places Blackjack Control with the Edwards facilities and says the Blackjack Team on the list was Nellis.
-::
+::wiki-compare{video="U_LSMLGBDNg" video-title="UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2]"}
+---
+caption: "Where the two Blackjack entities are based, in the host's narration and in the Greer clip that follows it."
+attributeLabel: "Entity"
+subjects:
+  - name: "The host's narration"
+    note: "Citing Greer's inside sources"
+  - name: "Steven Greer"
+    note: "In a clip, from his 2009 list of key facilities"
+rows:
+  - attribute: "Blackjack Control"
+    note: "Allegedly takes part in reverse engineering"
+    cells:
+      - { text: "A Nellis-based facility", mark: differs, cue: 2386 }
+      - { text: "One of the Edwards-related facilities", mark: differs, cue: 2422 }
+  - attribute: "Blackjack Team"
+    note: "Works with Blackjack Control"
+    cells:
+      - { text: "Stationed at Edwards Air Force Base", mark: differs, cue: 2390 }
+      - { text: "Nellis", mark: differs, cue: 2431 }
+---
 ::
 
 The only other Blackjack the host found is a DARPA project from the late 2010s and early 2020s, with contractors owned by Raytheon, to demonstrate a low-cost global high-speed network in low Earth orbit. Since the NRO document dates to 1991, he doubts the two are connected. He calls Blackjack a starting point for researching Air Force and contractor legacy programs that needs more work.
@@ -497,6 +537,51 @@ The only other Blackjack the host found is a DARPA project from the late 2010s a
 The host restates his thesis: Ed's testimony points to a joint reverse-engineering program for craft of non-human intelligence between Edwards and Nellis, Area 51 and S4, stemming from the 412th Test Wing's test pilot school and electronic warfare group. He compares it with the [[Off-World Technologies Division]], which he says dealt with single pieces of technology and near-weapons. In Ed's account, by contrast, the Air Force, with Lockheed Martin, Boeing and possibly others, actually pilots reverse-engineered craft. He does not know whether those craft are TR-3B triangles, as Fouché described, or Flux Liner saucers like those allegedly housed at Norton in 1988, and suggests it may be both.
 
 Because Edwards is a busy base, he reasons that such a program must be confined to very few people in a small area, and wonders whether it connects to underground facilities in the region, such as the [[Helendale]] site Greer has posted about. In material he cut from the video, he tied recent sightings near [[Air Force Plant 42]] in Palmdale, about 30 miles from Edwards, to the base; Norton is about 80 miles away. He calls the whole complex deeply entwined with UFO sightings and reverse-engineering testimony.
+
+::wiki-map{video="U_LSMLGBDNg" video-title="UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2]"}
+---
+label: "Edwards and its constellation"
+caption: "The places the video ties to Edwards and to the alleged Edwards–Nellis program: the sites Greer calls Edwards's \"constellation\", the facilities the host measures from the base, and Ed's first posting in Nevada. Hanscom, Ed's second posting, lies near Boston, far off this map."
+pins:
+  - name: "Edwards Air Force Base"
+    label: "Edwards AFB"
+    note: "Ed's posting from 2006, with the test pilot school and the 412th Test Wing. Greer calls it a chief facility with \"a whole constellation\" around it."
+    cue: 2408
+  - name: "Air Force Plant 42"
+    note: "In Palmdale, about 30 miles from Edwards. The host tied recent sightings near it to the base, in a conclusion he cut from the video."
+    cue: 2703
+  - name: "Norton Air Force Base"
+    label: "Norton AFB"
+    note: "About 80 miles from Edwards, now retired. Flux Liner ARVs were allegedly shown here in 1988; Greer lists it in the constellation."
+    cue: 951
+  - name: "Helendale"
+    note: "Greer posted a picture of an alleged underground facility here. The host wonders whether craft are stored in such sites."
+    cue: 2636
+  - name: "China Lake Naval Air Weapons Station"
+    label: "China Lake"
+    note: "In Greer's constellation. Aviation Week reported sightings over it, Edwards and George in 1990."
+    cue: 1988
+  - text: "George Air Force Base"
+    coordinates: [34.5947, -117.3842]
+    note: "In Greer's constellation and in the 1990 Aviation Week sightings."
+    cue: 2412
+  - text: "Table Mountain Observatory"
+    coordinates: [34.382, -117.6818]
+    note: "Run \"ostensibly by NASA\", in Greer's words, and one of his constellation."
+    cue: 2419
+  - text: "Haystack Butte"
+    note: "First in Greer's constellation; the video does not say where it lies."
+    cue: 2410
+  - name: "Nellis Air Force Base"
+    label: "Nellis AFB"
+    note: "Ed's first posting, 1999–2002, working on the range with Lockheed. The sources place one of the two Blackjack entities here."
+    cue: 864
+  - name: "Area 51"
+    label: "Area 51"
+    note: "Where Ed was allegedly briefed at S4 on captured craft. The Groom Lake facility is administered by a detachment from Edwards."
+    cue: 876
+---
+::
 
 He wishes he knew more about Ed's Pentagon years, and says Ed has now gone "off books", unreachable by phone, social media or email. If Greer is right and Ed has testified, the testimony is "impactful beyond belief", but he asks whether that is one of Greer's embellishments. He hopes to see Ed before the Senate intelligence committee or at the open hearings expected that November.
 
