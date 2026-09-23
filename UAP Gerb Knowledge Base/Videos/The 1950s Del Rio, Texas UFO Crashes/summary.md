@@ -445,31 +445,36 @@ The host calls the date "a key date". At 10:30 am Eastern time that day, a natio
 
 The host follows the El Indio debris into the institutions said to have received it. He notes that the 2024 NDAA acknowledges the Atomic Energy Commission was historically used to misclassify and obscure UFO information. [[Sandia National Laboratories]] sits on the grounds of [[Kirtland Air Force Base, New Mexico|Kirtland Air Force Base]], which, like Sandia, has long been part of UFO lore.
 
-::wiki-org-chart
+::wiki-chain{video="8S9qdRWSnD8" video-title="The 1950s Del Rio, Texas UFO Crashes"}
 ---
-root:
-  name: "1950 El Indio UFO Crash"
-  label: "Alleged crash, 6 December 1950"
-  note: "Nearly obliterated on impact, per the Eisenhower Briefing Document; the remains were recovered between El Indio and Guerrero."
-  children:
-    - name: "Atomic Energy Commission"
-      label: "Received the debris, per the document"
-      note: "The host notes the 2024 NDAA's finding that the AEC was used to misclassify UFO information."
-      children:
-        - name: "Sandia National Laboratories"
-          label: "The AEC's Sandia facility, on Kirtland AFB"
-          note: "Where the recovered material went for study."
-          children:
-            - name: "AT&T"
-              label: "Managing contractor, 1949–1993"
-              note: "Two redacted Disclosure Project witnesses describe 'ET technology transfer to AT&T'."
-            - name: "Lockheed Martin"
-              label: "Managing contractor from 1993, per the video"
-              note: "Edgar Fouche claimed part of Lockheed's reverse-engineering program came from Sandia Labs."
-              children:
-                - name: "TR-3B"
-                  label: "Alleged reverse-engineered craft"
-                  note: "Fouche's claim, from the host's earlier Lockheed Martin video."
+kind: custody
+caption: "The thread the host follows from the El Indio debris to Lockheed's alleged reverse-engineering program."
+steps:
+  - name: "1950 El Indio UFO Crash"
+    date: "6 Dec 1950"
+    note: "Nearly incinerated on impact, per the Eisenhower Briefing Document; recovered between El Indio and Guerrero."
+    cue: 1311
+  - via: "Wreckage sent on, per the document"
+    name: "Atomic Energy Commission"
+    note: "The host notes the 2024 NDAA's finding that the AEC was used to misclassify UFO information."
+    cue: 1493
+  - via: "To the AEC's facility on Kirtland AFB"
+    name: "Sandia National Laboratories"
+    note: "Where the recovered material went for study."
+    cue: 1515
+  - via: "Management handed over by Truman, 1949"
+    name: "AT&T"
+    date: "1949–1993"
+    note: "Two redacted Disclosure Project witnesses describe 'ET technology transfer to AT&T'."
+    cue: 1519
+  - via: "Took over Sandia in 1993, per the video"
+    name: "Lockheed Martin"
+    note: "Strictly, the 1993 contract went to Martin Marietta, which merged with Lockheed in 1995."
+    cue: 1613
+  - via: "Part of the program came from Sandia, per Edgar Fouche"
+    name: "TR-3B"
+    note: "The craft Fouche said Lockheed reverse-engineered."
+    cue: 1597
 ---
 ::
 

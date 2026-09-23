@@ -81,6 +81,7 @@
       "wiki-stat-strip",
       "wiki-timeline",
       "wiki-org-chart",
+      "wiki-chain",
       "wiki-roster",
       "wiki-grid",
       "wiki-panel",
@@ -112,6 +113,7 @@
       "wiki-stat-strip",
       "wiki-timeline",
       "wiki-org-chart",
+      "wiki-chain",
       "wiki-grid",
       "wiki-panel",
       "wiki-callout",
@@ -179,6 +181,7 @@
       "wiki-stat-strip",
       "wiki-timeline",
       "wiki-org-chart",
+      "wiki-chain",
       "wiki-roster",
       "wiki-grid",
       "wiki-panel",
@@ -262,6 +265,7 @@
       "wiki-stat-strip",
       "wiki-timeline",
       "wiki-org-chart",
+      "wiki-chain",
       "wiki-roster",
       "wiki-cue",
       "wiki-callout",
@@ -311,6 +315,7 @@
       "wiki-grid",
       "wiki-panel",
       "wiki-org-chart",
+      "wiki-chain",
       "wiki-callout",
       "wiki-roster"
     ],
@@ -341,6 +346,7 @@
       "wiki-grid",
       "wiki-panel",
       "wiki-org-chart",
+      "wiki-chain",
       "wiki-callout",
       "wiki-roster"
     ],
@@ -368,6 +374,7 @@
       "wiki-stat-strip",
       "wiki-timeline",
       "wiki-org-chart",
+      "wiki-chain",
       "wiki-grid",
       "wiki-panel",
       "wiki-roster"
@@ -441,7 +448,7 @@
       "wiki-timeline",
       "wiki-grid",
       "wiki-panel",
-      "wiki-org-chart",
+      "wiki-chain",
       "wiki-roster",
       "wiki-compare"
     ],
@@ -457,6 +464,7 @@
       "wiki-panel",
       "wiki-timeline",
       "wiki-org-chart",
+      "wiki-chain",
       "wiki-roster"
     ],
     "cues": "verified"

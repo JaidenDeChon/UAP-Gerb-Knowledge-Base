@@ -536,31 +536,41 @@ A seamless bronze bell big enough for a person to stand in, with no propulsion, 
 
 The witnesses who say they saw the object after it left the woods trace a chain of custody across two states.
 
-::wiki-org-chart
+::wiki-chain{video="rgBTMzFd-hg" video-title="The 1965 Kecksburg, Pennsylvania UFO Crash"}
 ---
-root:
-  name: "Kecksburg, Pennsylvania"
-  label: "Impact site, 9 December, about 4:45 p.m."
-  note: "Firemen and civilians reached the object before the military sealed the woods."
-  children:
-    - name: "Wright-Patterson Air Force Base"
-      label: "Fragments, per Blue Book"
-      note: "Pieces seen falling from the fireball were sent here; Blue Book called them chaff."
-    - name: "Army flatbed truck"
-      label: "Hauled out under a tarp, early 10 December"
-      note: "Seen at the roadblock by Jerry Betters."
-      children:
-        - name: "Lockbourne Air Force Base, Columbus, Ohio"
-          label: "Backed into a hangar, morning of 10 December"
-          note: "An Air Force security guard says he guarded a 10-to-12-foot bronze bell here only briefly, under tightened security."
-          children:
-            - name: "Wright-Patterson Air Force Base"
-              label: "A brick warehouse, days later"
-              note: "JS saw it on a lowboy under a tarp; the next day Myron saw it under scaffolding, and says a body lay on a nearby workbench."
-              children:
-                - name: "Lead-lined brick enclosure"
-                  label: "Built with bricks the Navy ordered"
-                  note: "Myron says the double-glazed bricks were for a double-thick, lead-lined shield against radiation."
+kind: custody
+caption: "Where witnesses say the object and its fragments went after the crash."
+steps:
+  - name: "Kecksburg, Pennsylvania"
+    date: "9 Dec 1965"
+    note: "Impact in the woods at about 4:45 p.m. Firemen and civilians reached the object before the military sealed the area."
+    cue: 177
+  - via: "Split after the crash"
+    fork:
+      - label: "Fragments"
+        steps:
+          - via: "Sent on by Project Blue Book"
+            name: "Wright-Patterson Air Force Base"
+            note: "Pieces seen falling from the fireball. Blue Book called them chaff."
+            cue: 1675
+      - label: "The object"
+        steps:
+          - via: "Hauled out under a tarp, early 10 Dec"
+            text: "Army flatbed truck"
+            note: "Seen leaving the woods by Jerry Betters at the roadblock."
+            cue: 1494
+          - via: "Backed into a hangar, morning of 10 Dec"
+            name: "Lockbourne Air Force Base, Columbus, Ohio"
+            note: "An Air Force security guard says he guarded a 10-to-12-foot bronze bell here only briefly, under tightened security."
+            cue: 3126
+          - via: "On to a brick warehouse"
+            name: "Wright-Patterson Air Force Base"
+            note: "JS saw it on a lowboy under a tarp. The next day Myron saw it under scaffolding, and says a body lay on a nearby workbench."
+            cue: 3297
+          - via: "Built with bricks the Navy ordered"
+            text: "Lead-lined brick enclosure (alleged)"
+            note: "Myron says the double-glazed bricks were for a double-thick, lead-lined shield against radiation."
+            cue: 3285
 ---
 ::
 

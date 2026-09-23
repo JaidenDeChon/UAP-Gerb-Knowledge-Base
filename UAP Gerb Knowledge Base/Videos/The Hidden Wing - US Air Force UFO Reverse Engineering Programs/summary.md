@@ -574,40 +574,54 @@ The host describes the Antelope Valley as the "backbone" of UFO RDT&E. [[Air For
 
 The final research section asks why AFMC in particular. The host's answer is its ancestry. A [[Tom DeLonge]] message to [[John Podesta]] said that retired Major General [[Neil McCasland]], AFRL commander from 2011 to 2013 and an adviser to [[To The Stars Academy]], had been "in charge of all the stuff", and that when Roswell crashed "they shipped it to the laboratory at Wright Patterson". AFRL only dates from 1997 and AFMC from 1992, so the host follows the claim back through their predecessors.
 
-::wiki-org-chart
+::wiki-chain{video="-IXSZe4xVv4" video-title="The Hidden Wing - US Air Force UFO Reverse Engineering Programs"}
 ---
-root:
-  name: "Air Force Materiel Command (AFMC)"
-  label: "Formed 1992"
-  note: "The merger of the two 1961 commands, plus AFRL."
-  children:
-    - name: "Air Force Logistics Command"
-      label: "1961-1992"
-      children:
-        - name: "Air Materiel Command"
-          label: "1946-1961"
-          note: "Alleged Roswell custodian; the 1947 Paperclip 'underground plant program'."
-    - name: "Air Force Systems Command"
-      label: "1961-1992"
-      note: "Named as a support element of the 1948 program in Kissner's account."
-      children:
-        - name: "Air Research and Development Command (ARDC)"
-          label: "1950/51-1961"
-          note: "Took R&D and Edwards from Air Materiel Command."
-          children:
-            - name: "Air Force Special Weapons Center (AFSWC)"
-              label: "Subordinate from 1 April 1952"
-              note: "Kirtland; atomic and unconventional weapons; disestablished 1976."
-              children:
-                - name: "Eric Henry Wang"
-                  label: "Research directorate"
-                  note: "Named at Kingman and Aztec."
-    - name: "Air Force Research Laboratory"
-      label: "Formed 1997"
-      children:
-        - name: "Air Force Weapons Laboratory"
-          label: "Inherited AFSWC's role in 1976"
-          note: "The second channel by which AFSWC survives in AFMC."
+kind: custody
+label: "Lineage"
+caption: "How today's AFMC descends from the command the host says received the Roswell wreckage. Read forward in time."
+steps:
+  - name: "Air Materiel Command"
+    date: "1946–1961"
+    note: "Alleged Roswell custodian, and the requester of the 1947 Paperclip 'underground plant program' technicians."
+    cue: 10678
+  - via: "Its functions divide"
+    fork:
+      - label: "Logistics"
+        steps:
+          - via: "Redesignated, 1961"
+            name: "Air Force Logistics Command"
+            date: "1961–1992"
+            cue: 10661
+      - label: "Research and development"
+        steps:
+          - via: "Took R&D and Edwards, 1950/51"
+            name: "Air Research and Development Command (ARDC)"
+            date: "1950/51–1961"
+            cue: 10994
+          - via: "Rebranded, 1961"
+            name: "Air Force Systems Command"
+            date: "1961–1992"
+            note: "Named as a support element of the 1948 program in Kissner's account."
+            cue: 10979
+      - label: "Special weapons"
+        steps:
+          - via: "Subordinate to ARDC from 1 April 1952"
+            name: "Air Force Special Weapons Center (AFSWC)"
+            date: "1949–1976"
+            note: "Kirtland; atomic and unconventional weapons. Eric Henry Wang worked in its research directorate."
+            cue: 11039
+          - via: "Took its role on disestablishment, 1976"
+            text: "Air Force Weapons Laboratory"
+            cue: 11164
+          - via: "Merged in"
+            name: "Air Force Research Laboratory"
+            date: "Formed 1997"
+            cue: 11181
+  - via: "AFLC and AFSC merged, 1992; AFRL sits within it"
+    name: "Air Force Materiel Command (AFMC)"
+    date: "1992–present"
+    note: "Through two channels, the host says, AFSWC survives inside today's AFMC."
+    cue: 11186
 ---
 ::
 

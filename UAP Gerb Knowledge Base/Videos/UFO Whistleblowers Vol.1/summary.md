@@ -454,27 +454,36 @@ A yardstick-like piece at the White House, from a box of 1947 New Mexico materia
 
 The video frames this part with Eisenhower's January 1961 farewell address and its warning about the military-industrial complex. The host, like many researchers, wonders whether it partly referred to the legacy programs: the program Grusch speaks of, and the one Admiral Wilson almost uncovered. He runs through Eisenhower's place in UFO lore. The alleged [[Majestic 12|MJ-12]] documents have the group reporting to [[Harry Truman|Truman]] and Eisenhower. A story holds that Eisenhower met extraterrestrials who landed at Holloman Air Force Base in 1954 and made an agreement with them. The host asks whether this is what Grusch meant when he would not say whether agreements with non-human intelligence exist. Lovekin's own account is simpler, and the host plays it in full:
 
-::wiki-org-chart
+::wiki-chain{video="EKEZ2BClIb0" video-title="UFO Whistleblowers [Vol.1]"}
 ---
-root:
-  name: "The UFO problem outgrows a single agency"
-  label: "Lovekin's account"
-  note: "It could no longer be handled by one agency."
-  children:
-    - name: "Work parcelled out across the government"
-      label: "to keep it alive, cheap and secret"
-      note: "A little here and a little there, to separate agencies."
-      children:
-        - name: "Control drifts to corporations"
-          label: "led to"
-          note: "Into hands that could be used to the country's detriment, and not the best hands for the phenomenon."
-          children:
-            - name: Dwight D. Eisenhower
-              label: "loses control without knowing it"
-              note: "Sold out, Lovekin said. He had trusted too many people, and his frustration went on for months; the farewell address was his warning to stay vigilant."
-            - name: Legacy Programs
-              label: "break free of oversight (host's view)"
-              note: "From the 1960s, private corporations fund parts of the program, and congressional and presidential oversight is lost."
+kind: consequence
+caption: "Lovekin's account of how Eisenhower lost control, with the host's extension of it."
+steps:
+  - text: "The UFO problem outgrows a single agency"
+    note: "It could no longer be handled by one agency, in Lovekin's words."
+    cue: 1311
+  - via: "To keep it alive, cheap and secret"
+    text: "Work parcelled out across the government"
+    note: "A little here and a little there, to separate agencies."
+    cue: 1322
+  - via: "led to"
+    text: "Control drifts to corporations"
+    note: "Into hands that could be used to the country's detriment, and not the best hands for the phenomenon."
+    cue: 1389
+  - via: "with the result that"
+    fork:
+      - label: "Lovekin's account"
+        steps:
+          - via: "Loses control without knowing it"
+            name: "Dwight D. Eisenhower"
+            note: "Sold out, Lovekin said. He had trusted too many people, and his frustration went on for months; the farewell address was his warning to stay vigilant."
+            cue: 1353
+      - label: "The host's view"
+        steps:
+          - via: "Break free of oversight from the 1960s"
+            name: "Legacy Programs"
+            note: "Private corporations fund parts of the program, and congressional and presidential oversight is lost."
+            cue: 1696
 ---
 ::
 

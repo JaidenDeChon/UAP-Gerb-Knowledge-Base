@@ -515,26 +515,36 @@ In the Wilson-Davis notes, the "Watch Committee" that guarded the legacy portfol
 
 In 2003 Northrop Grumman paid $111 million to settle a government lawsuit over TRW overcharging on early-1990s space projects. The suit's roots go back to 1994, the same period. The host's hypothesis runs as follows:
 
-::wiki-org-chart
+::wiki-chain{video="E-GleS2aGj0" video-title="UFO Legacy Programs - Northrop Grumman"}
 ---
-root:
-  name: "TRW's early-1990s space contracts"
-  label: "Allegedly padded to carry waived USAP funding"
-  note: "To auditors who could not see the programs, the hidden money looked like overcharging."
-  children:
-    - name: "A 1990s Pentagon audit"
-      label: "led to"
-      note: "The audit the Wilson-Davis notes say 'almost blew their cover'."
-      children:
-        - name: SAPOC (Special Access Program Oversight Committee)
-          label: "Programs reorganized under its Senior Review Group"
-          note: "The reorganization the gatekeepers described to Admiral Thomas Wilson."
-        - name: "Government lawsuit against TRW"
-          label: "Roots traced to 1994"
-          children:
-            - name: Northrop Grumman
-              label: "Settles for $111 million, 2003"
-              note: "A year after buying TRW; almost $200 million in today's money."
+kind: consequence
+caption: "The host's hypothesis linking the Wilson-Davis audit to the TRW settlement."
+steps:
+  - text: "TRW's early-1990s space contracts"
+    note: "Allegedly padded to carry waived USAP funding. To auditors who could not see the programs, the hidden money looked like overcharging."
+    cue: 1064
+  - via: "Exposed in"
+    text: "A 1990s Pentagon audit"
+    note: "The audit the Wilson-Davis notes say 'almost blew their cover'."
+    cue: 1026
+  - via: "led to"
+    fork:
+      - label: "The programs"
+        steps:
+          - via: "Reorganized under its Senior Review Group"
+            name: "SAPOC (Special Access Program Oversight Committee)"
+            note: "The reorganization the gatekeepers described to Admiral Thomas Wilson."
+            cue: 1034
+      - label: "The contractor"
+        steps:
+          - via: "Roots traced to 1994"
+            text: "Government lawsuit against TRW"
+            note: "Over TRW overcharging on space projects in the early 1990s."
+            cue: 1076
+          - via: "Settled for $111 million, 2003"
+            name: "Northrop Grumman"
+            note: "A year after buying TRW; almost $200 million in today's money."
+            cue: 1043
 ---
 ::
 

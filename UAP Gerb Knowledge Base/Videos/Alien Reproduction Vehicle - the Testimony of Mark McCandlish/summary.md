@@ -408,29 +408,45 @@ Sorenson told Scott he saw no stars in the room, but McCandlish said a three-sta
 
 ## How the Story Travelled
 
-::wiki-org-chart
+::wiki-chain{video="wF07QMm6joE" video-title="Alien Reproduction Vehicle - the Testimony of Mark McCandlish"}
 ---
-root:
-  name: "Brad Sorenson"
-  label: "Eyewitness at Plant 42, 12 Nov 1988"
-  note: "Spoke on the record about it only once, to Aviation Week in 1990; hostile and silent since."
-  children:
-    - name: "Mark McCandlish"
-      label: "Told over lunch, Nov 1988"
-      note: "Drew the blueprint in March 1989 from Sorenson's account and sketches, later adding details from other sources."
-      children:
-        - name: "William B. Scott"
-          label: "McCandlish relayed the exhibit, Dec 1990"
-          note: "Ran Aurora sketches in Aviation Week, interviewed Sorenson on 3 Dec 1990, and left the ARV portion unpublished."
-        - name: "Disclosure Project"
-          label: "National Press Club, 2001"
-          note: "McCandlish presented the ARV and, under pressure, named Sorenson; also the Greer interview 'Blueprint for a UFO'."
-        - name: "James Allen"
-          label: "Zero Point documentary"
-          note: "The film of McCandlish's story; Allen died about a month before its release."
-        - name: "The Feasibility of Interstellar Travel"
-          label: "Secret space program lecture, 2015"
-          note: "McCandlish's own theory of the ARV and of a hidden space fleet."
+kind: transmission
+caption: "How Sorenson's account of the exhibit reached the public, retold by McCandlish over three decades."
+steps:
+  - name: "Brad Sorenson"
+    date: "12 Nov 1988"
+    note: "The eyewitness at the exhibit. Spoke on the record about it only once, to Aviation Week in 1990; hostile and silent since."
+    cue: 304
+  - via: "Told over lunch, Nov 1988"
+    name: "Mark McCandlish"
+    note: "Drew the blueprint in March 1989 from Sorenson's account and sketches, later adding details from other sources."
+    cue: 329
+  - via: "Retold by McCandlish"
+    fork:
+      - label: "Press, 1990"
+        steps:
+          - via: "Relayed the exhibit, Dec 1990"
+            name: "William B. Scott"
+            note: "Ran Aurora sketches in Aviation Week, interviewed Sorenson on 3 Dec 1990, and left the ARV portion unpublished."
+            cue: 1365
+      - label: "Disclosure, 2001"
+        steps:
+          - via: "National Press Club"
+            name: "Disclosure Project"
+            note: "McCandlish presented the ARV and, under pressure, named Sorenson; also the Greer interview 'Blueprint for a UFO'."
+            cue: 1980
+      - label: "Film, 2014"
+        steps:
+          - via: "Zero Point documentary"
+            name: "James Allen"
+            note: "The film of McCandlish's story; Allen died about a month before its release."
+            cue: 3391
+      - label: "Lecture, 2015"
+        steps:
+          - via: "Secret space program lecture"
+            text: "The Feasibility of Interstellar Travel"
+            note: "McCandlish's own theory of the ARV and of a hidden space fleet."
+            cue: 2555
 ---
 ::
 

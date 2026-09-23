@@ -556,33 +556,36 @@ Scitor's old building at 14660 Lee Road, Chantilly, Virginia sits in the same co
 
 The tangle begins with Colonel [[Steve Wilson]], a whistleblower the host treats "with some skepticism", recommending [[Kevin Randle]]'s critique. Wilson told researcher Richard Boylan that he served at Area 51's S4, led Project Pounce, an Air Force and NRO special forces unit that retrieved downed UFOs, and saw the first successful anti-gravity ARV flight on 18 July 1971 with Bobby Ray Inman present. Wilson's "Star Wars City" chart shows UFO operations hidden inside the Strategic Defense Initiative, with the NRO, NSC, NSA, CIA, NORAD and [[Majestic 12]] around an SDI headquarters in Colorado and a list of contractors. Wilson named Decision Science Applications, Inc. as paramount to those programs, said DSAI and SAIC were "one and the same", and claimed Inman ran it. With help from the posts of a since-deleted Reddit researcher, the host follows DSAI's assets forward:
 
-::wiki-org-chart
+::wiki-chain{video="9p99lTsC7wQ" video-title="UFO Legacy Programs - Science Applications International Corporation (SAIC)"}
 ---
-root:
-  name: Decision Science Applications, Inc. (DSAI)
-  label: "Founded in Virginia, 4 January 1977"
-  note: "An employee-owned technical services company in command and control, information management, software, telecommunications and physics."
-  children:
-    - name: DSA Acquisitions, Inc.
-      label: "Merger vehicle, 1998"
-      children:
-        - name: Steven Myers & Associates
-          label: "Bought DSAI for about $31 million, 21 August 1998"
-          note: "Paid in cash and stock."
-          children:
-            - name: Emergent Information Technologies
-              label: "SM&A renamed itself after buying Emergent"
-              children:
-                - name: L3 Communications
-                  label: "Bought the Virginia government services group, 6 December 2001"
-                  note: "Now L3Harris, which the host has been told works directly in legacy program operations."
-                  children:
-                    - name: Engility
-                      label: "Spun off from L-3, July 2012"
-                      children:
-                        - name: SAIC
-                          label: "Bought Engility for $2.5 billion, 2018"
-                          note: "'Regardless of if DSAI was spawned from SAIC,' its assets reached both SAIC and L3Harris."
+kind: custody
+label: "Chain of ownership"
+caption: "DSAI's assets, followed forward from 1977 to SAIC, after the posts of a since-deleted Reddit researcher."
+steps:
+  - name: "Decision Science Applications, Inc. (DSAI)"
+    date: "Founded 4 Jan 1977"
+    note: "An employee-owned technical services company in Virginia: command and control, information management, software, telecommunications and physics."
+    cue: 680
+  - via: "Merged into, 1998"
+    text: "DSA Acquisitions, Inc."
+    cue: 931
+  - via: "Bought for about $31 million in cash and stock, 21 Aug 1998"
+    text: "Steven Myers & Associates"
+    cue: 935
+  - via: "Renamed after buying Emergent"
+    text: "Emergent Information Technologies"
+    cue: 952
+  - via: "Bought its Virginia government services group, 6 Dec 2001"
+    name: "L3 Communications"
+    note: "Now L3Harris, which the host has been told works directly in legacy program operations."
+    cue: 960
+  - via: "Spun off, July 2012"
+    text: "Engility"
+    cue: 984
+  - via: "Bought for $2.5 billion, 2018"
+    name: "SAIC"
+    note: "'Regardless of if DSAI was spawned from SAIC,' its assets reached both SAIC and L3Harris."
+    cue: 995
 ---
 ::
 

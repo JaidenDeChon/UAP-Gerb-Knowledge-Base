@@ -316,40 +316,57 @@ The report gives clock times but dates only the first two days. The later dates 
 
 The disc passed through a chain of custody that the report traces as far as Atlanta. After that, JS writes, "the hard evidence thins out".
 
-::wiki-org-chart
+::wiki-chain{video="bL3tMByq_WM" video-title="The 1974 Coyame, Mexico UFO Crash"}
 ---
-root:
-  name: "Coyame, Chihuahua, Mexico"
-  label: "Crash sites, 25 August 1974"
-  note: "The disc and the civilian plane came down a few miles apart in barren country, about 60 miles from the nearest town."
-  children:
-    - name: "Mexican military convoy"
-      label: "Flatbed trucks heading south, 26–27 August"
-      note: "Stopped before reaching any town or major road; every soldier was found dead."
-      children:
-        - name: "Vehicles, bodies and plane debris"
-          label: "Destroyed with high explosives"
-          note: "Nothing was brought back for analysis, including any of the bodies."
-        - name: "Sea Stallion sling load"
-          label: "Airborne by 1747, re-entering the US"
-          note: "Men in bio-protection suits moved the flatbed's straps onto the helicopter's cargo cable."
-          children:
-            - name: "Valentine, Texas"
-              label: "Davis Mountains stopover until 0225"
-              note: "The helicopters landed about 25 miles northeast of the town and waited out the night."
-              children:
-                - name: "Sealed truck convoy"
-                  label: "Transferred near Van Horn and Kent"
-                  note: "The truck could be sealed completely; it kept to back roads and away from cities."
-                  children:
-                    - name: "Atlanta, Georgia"
-                      label: "Reported destination"
-                      note: "The host points to Lockheed's Air Force Plant 6 in nearby Marietta and its former Georgia Nuclear Aircraft Laboratory."
-                      children:
-                        - name: "Wright-Patterson Air Force Base"
-                          label: "Unconfirmed later transfer"
-                        - name: "Unnamed base"
-                          label: "Unconfirmed, after Wright-Patterson or direct from Atlanta"
+kind: custody
+caption: "The disc's route as the Denb Report traces it. Everything after Atlanta is unconfirmed."
+steps:
+  - name: "Coyame, Chihuahua, Mexico"
+    date: "25–26 Aug 1974"
+    note: "Search planes spotted the civilian wreck, then a circular craft a few miles away, damaged but in one piece, in barren country about 60 miles from the nearest town."
+    cue: 385
+  - via: "Loaded onto flatbeds, heading south"
+    text: "Mexican military convoy"
+    note: "It stopped before reaching any town or major road. Overflights showed the trucks halted and bodies on the ground; every soldier was found dead."
+    cue: 487
+  - via: "Split at the convoy site, 27 Aug"
+    fork:
+      - label: "Everything else"
+        steps:
+          - via: "Destroyed with high explosives"
+            text: "Vehicles, bodies and plane debris"
+            note: "Including the pieces of the civilian light plane. Nothing was brought back for analysis."
+            cue: 591
+      - label: "The disc"
+        steps:
+          - via: "Straps moved to the Sea Stallion's cargo cable"
+            text: "Sea Stallion sling load"
+            note: "Men in bio-protection suits reconfigured the flatbed's straps. Airborne by 1747 and on its way to US territory."
+            cue: 574
+          - via: "Davis Mountains stopover until 0225"
+            name: "Valentine, Texas"
+            note: "The helicopters landed about 25 miles northeast of the town and waited out the night."
+            cue: 613
+          - via: "Met a small convoy near Van Horn and Kent"
+            text: "Sealed truck convoy"
+            note: "A truck large enough for the disc that could be sealed completely. It drove non-stop on back roads, away from cities."
+            cue: 626
+          - via: "Reported destination"
+            name: "Atlanta, Georgia"
+            note: "Where, the report says, the hard evidence thins out."
+            cue: 653
+          - via: "Unconfirmed later transfer"
+            fork:
+              - label: "One report"
+                steps:
+                  - name: "Wright-Patterson Air Force Base"
+                    note: "One unconfirmed report."
+                    cue: 661
+              - label: "Another"
+                steps:
+                  - text: "Unnamed base"
+                    note: "Another says the disc went on to an unnamed base, after Wright-Patterson or straight from Atlanta."
+                    cue: 667
 ---
 ::
 

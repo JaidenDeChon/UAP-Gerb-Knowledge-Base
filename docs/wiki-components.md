@@ -443,7 +443,10 @@ Source: `app/app/components/content/WikiOrgChart.vue` (recursion via
 `app/app/components/wiki/OrgChartNode.vue`, auto-imported as
 `WikiOrgChartNode` — see gotcha 3)
 
-Renders a nested, table-based org chart with connector lines.
+Renders a nested, table-based org chart with connector lines. It is for
+true hierarchies (command, reporting lines, ownership, compartments). A
+linear or lightly branching sequence of hand-offs, consequences or
+successors belongs in `::wiki-chain` instead.
 
 Props:
 
@@ -642,6 +645,137 @@ Authoring rules:
   offices, mostly blank): that is a lookup table, and a `::wiki-figure`
   around a Markdown table still serves it better.
 
+### `::wiki-chain`
+
+Source: `app/app/components/content/WikiChain.vue` (each run of steps rendered
+by `app/app/components/wiki/ChainSequence.vue`, auto-imported as
+`WikiChainSequence` and recursive for forks — gotcha 3; normalisation in
+`app/app/utils/chain.ts`, unit-tested in `chain.test.ts`)
+
+A sequence of hand-offs: step cards joined by arrows, each arrow carrying a
+short label. Use it for a **chain of custody** (the object moved from A to B
+to C), a **chain of consequence** (X led to Y led to Z), a **chain of
+transmission** (how an account travelled from witness to print), or a
+**lineage** (an agency succeeded by the next). These used to be drawn with
+`::wiki-org-chart`, which implies a command hierarchy that isn't there, has
+no labels on its links, and nests ever deeper as a chain gets longer. Keep
+`::wiki-org-chart` for true hierarchies: chains of command, ownership trees,
+program compartments, and trees that fan out widely (the Sarbacher article's
+four independent lines of transmission, each branching again, stay a tree).
+
+What it renders:
+
+- **Step cards.** A `name:` step is an entity link resolved in one batch
+  (`useWikiResolve`), its card tinted with the category surface plus a 3px
+  category spine, like `::wiki-roster`. A `text:` step is an abstract stage
+  with no page ("Army flatbed truck", "A 1990s Pentagon audit"): a neutral
+  card with a dashed border. Each card can carry a date kicker, a one-line
+  note and a cue chip (`WikiCue`, only when the block has `video=`).
+- **Labelled arrows.** `via:` on a step is the label on the arrow *into* it,
+  rendered as real text. An arrow with no `via` still carries the kind's verb
+  ("moved to", "led to", "passed to") for screen readers only.
+- **Forks.** An item with `fork:` splits the chain into two or more branches,
+  each drawn as a lane with an optional label ("The disc", "Everything
+  else"). Lanes sit side by side where there is room (two per row from a
+  30rem container, three from 40rem) and stack on a phone. Items after a fork
+  are where the branches **rejoin**; that arrow comes down out of the lanes.
+  Forks may nest, up to three deep, but keep chains light.
+- **Layout.** A container query on the figure (and on each lane): from 40rem
+  the steps run left to right and wrap into rows, an arrow wrapping together
+  with the card it points to; below that they stack vertically. Nothing ever
+  scrolls sideways.
+- **Kind.** `kind` sets the kicker over the chain ("Chain of custody",
+  "Chain of consequence", "Chain of transmission") and the unspoken verb.
+  `transmission` draws dashed arrows (word of mouth); the others solid.
+  `label` overrides the kicker, e.g. "Lineage" or "Chain of ownership".
+- **Accessibility.** The chain is an `<ol>` named by its kicker (and
+  caption); a fork is a `<ul>` of branches, each its own named `<ol>`, with a
+  visually hidden "Splits into N branches". Nothing animates, so there is
+  nothing to switch off for reduced motion.
+
+Props:
+
+| Prop | Type | Default | Notes |
+|---|---|---|---|
+| `kind` | `string` | `'custody'` | YAML body. `custody` \| `consequence` \| `transmission`; anything else falls back to `custody` |
+| `label` | `string` | `''` | YAML body. Replaces the kind's kicker text |
+| `steps` | `Step[]` | `[]` | YAML body. See schema below |
+| `caption` | `string` | `''` | YAML body. Shown under the chain; also folded into the list's accessible name |
+| `video` | `string` | `''` | Attribute. YouTube id; gates every cue chip |
+| `videoTitle` | `string` | `''` | Attribute, written `video-title`. Forwarded to each `WikiCue` |
+
+Nothing renders if no step survives normalisation.
+
+`Step` schema:
+
+```yaml
+steps:
+  - name: "Kecksburg, Pennsylvania"   # PLAIN page title (gotchas 1/2), resolved to a link
+    date: "1965-12-09"                 # optional; formatted like the timeline's ("9 Dec 1965"),
+                                       # free strings ("1961–1992") pass through
+    note: "Impact at about 4:45 p.m."  # optional one-liner
+    cue: 177                           # optional, seconds into `video`
+    cueApprox: true                    # optional; omit for a hand-verified cue
+  - via: "Hauled out under a tarp"     # label on the arrow INTO this step
+    text: "Army flatbed truck"         # plain stage, never resolved (use instead of name)
+  - via: "Split after the crash"       # label on the arrow into the fork
+    fork:                              # two or more branches
+      - label: "Fragments"             # optional lane label
+        steps:
+          - name: "Wright-Patterson Air Force Base"
+      - - text: "Destroyed"            # a branch may also be a bare list of steps
+  - via: "Both recorded in"            # a step after a fork = the branches rejoin
+    text: "Blue Book file"
+```
+
+Normalisation (`buildChain`): a step with neither `name` nor `text` is
+dropped; a fork keeps only branches with steps, and one left with a single
+branch is flattened into the chain in its place (its first step inheriting
+the fork's `via`); forks nested more than three deep are dropped.
+
+Worked example (from the 1965 Kecksburg article):
+
+```mdc
+::wiki-chain{video="rgBTMzFd-hg" video-title="The 1965 Kecksburg, Pennsylvania UFO Crash"}
+---
+kind: custody
+caption: "Where witnesses say the object and its fragments went after the crash."
+steps:
+  - name: "Kecksburg, Pennsylvania"
+    date: "9 Dec 1965"
+    cue: 177
+  - via: "Split after the crash"
+    fork:
+      - label: "Fragments"
+        steps:
+          - via: "Sent on by Project Blue Book"
+            name: "Wright-Patterson Air Force Base"
+            cue: 1675
+      - label: "The object"
+        steps:
+          - via: "Hauled out under a tarp, early 10 Dec"
+            text: "Army flatbed truck"
+            cue: 1494
+          - via: "Backed into a hangar, morning of 10 Dec"
+            name: "Lockbourne Air Force Base, Columbus, Ohio"
+            cue: 3126
+---
+::
+```
+
+Authoring rules:
+
+- **A chain earns its place** at about four steps or more, or any fork.
+  Two or three hand-offs read better as a sentence.
+- **Read forward.** When the host traces a lineage backward (DTRA back to
+  AFSWP), the chain still runs oldest to newest; say so in the caption.
+- **`via` is the hand-off, `note` is the why.** Keep both to a line. The
+  argument belongs in the prose around the block.
+- **Use `text:` for abstract stages**, not an invented page title; use
+  `name:` only when a page exists (check it resolves, gotcha 2).
+- **Cues follow the timeline's rule** (gotcha 8): a cue without `cueApprox`
+  claims you read the captions at that second.
+
 ### `::wiki-panel` (Tier 1 primitive)
 
 Source: `app/app/components/content/WikiPanel.vue`
@@ -777,7 +911,7 @@ back to rendering plain, unlinked text in that case (see gotcha 2).
 Renders a `NuxtLink` tinted by `tintFor(refData.category)` when `refData` is
 present, otherwise a plain `<span>{{ name }}</span>`. This is the shared
 "resolved-or-plain-text" leaf used by `WikiTimeline`, `WikiRoster`,
-`OrgChartNode` and `WikiCompare`. Lives in `components/wiki/` (not `components/content/`)
+`OrgChartNode`, `WikiCompare` and `WikiChain`. Lives in `components/wiki/` (not `components/content/`)
 because it is never referenced directly from an MDC block — only from other
 components.
 
@@ -802,6 +936,23 @@ and cues, drops nameless subjects with their column, pads or truncates each
 row to the subject count, and lists the markers used (for the legend).
 `COMPARE_MARK_LABEL` / `COMPARE_MARK_HINT` hold each marker's word and
 one-line meaning.
+
+### `app/app/components/wiki/ChainSequence.vue`
+
+Renders one ordered run of `::wiki-chain` items (an `<ol>`), and recursively
+a nested run for each branch of a fork. It owns all of the chain's layout
+CSS, driven by `@container chain` queries against the `<figure>`
+`WikiChain.vue` declares and against each branch lane, which is a `chain`
+container too. Auto-imported as `WikiChainSequence` (gotcha 3).
+
+### `app/app/utils/chain.ts`
+
+`buildChain(kind, steps)` normalises the YAML into `{ kind, items, names }`:
+steps and forks with trimmed text, formatted dates (`formatDate` from
+`timeline.ts`), validated cues, single-branch forks flattened, a depth cap
+(`MAX_CHAIN_DEPTH`), and the list of resolvable names for one batched
+resolve. `CHAIN_KIND_LABEL` / `CHAIN_KIND_VERB` hold each kind's kicker and
+screen-reader verb.
 
 ### `app/app/components/wiki/WikiTocRail.vue`
 
