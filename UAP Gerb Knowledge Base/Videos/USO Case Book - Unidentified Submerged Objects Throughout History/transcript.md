@@ -2,8 +2,8 @@
 title: "USO Case Book: Unidentified Submerged Objects Throughout History"
 video_id: Yn-83KbgRN8
 url: https://www.youtube.com/watch?v=Yn-83KbgRN8
-date: NA
-duration_seconds: 0
+date: 2024-04-26
+duration_seconds: 1689
 channel: UAP Gerb
 tags:
   - transcript
