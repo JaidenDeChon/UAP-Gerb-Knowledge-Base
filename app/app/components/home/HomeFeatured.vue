@@ -3,7 +3,7 @@ import type { WikiPage } from '@/utils/content'
 import { ArrowRight, Clock } from '@lucide/vue'
 import { Badge } from '@/components/ui/badge'
 import { firstParagraph } from '@/utils/content'
-import { formatRuntime } from '@/utils/video'
+import { formatRuntime, youtubeThumbnail } from '@/utils/video'
 
 const props = defineProps<{ entry: WikiPage }>()
 
@@ -16,6 +16,18 @@ const runtime = computed<string | null>(() => {
   const meta = record.meta as Record<string, unknown> | undefined
   return formatRuntime(Number(record.duration_seconds ?? meta?.duration_seconds))
 })
+
+// The widest thumbnail first; older uploads have no `maxres`, so fall back to
+// `hq` (letterboxed, but the band's centre crop cuts the bars off), and drop
+// the image entirely if even that fails.
+const thumbSize = ref<'maxres' | 'hq' | null>('maxres')
+const thumb = computed(() => {
+  const id = String(props.entry.video_id ?? '').trim()
+  return id && thumbSize.value ? youtubeThumbnail(id, thumbSize.value) : null
+})
+function onThumbError(): void {
+  thumbSize.value = thumbSize.value === 'maxres' ? 'hq' : null
+}
 </script>
 
 <template>
@@ -32,7 +44,26 @@ const runtime = computed<string | null>(() => {
       :to="entry.path"
       class="ufo-featured group block overflow-hidden rounded-lg border border-border bg-card"
     >
-      <div class="flex flex-wrap items-center gap-2 border-b border-border bg-muted/40 px-4 py-2">
+      <!-- A short band cropped from the middle of the thumbnail, fading into
+           the card; the badges sit in the faded foot. Without a thumbnail the
+           badges keep their plain strip. -->
+      <div v-if="thumb" class="relative h-[clamp(120px,24vw,176px)] overflow-hidden">
+        <img
+          :src="thumb"
+          alt=""
+          decoding="async"
+          class="ufo-featured-thumb size-full object-cover object-center"
+          @error="onThumbError"
+        >
+        <div class="absolute inset-x-0 bottom-0 flex flex-wrap items-center gap-2 px-4 pb-1">
+          <Badge variant="outline" class="bg-card/70 backdrop-blur-[2px]">Videos</Badge>
+          <span v-if="runtime" class="inline-flex items-center gap-1.5 font-mono text-[11px] uppercase tracking-[0.09em] text-muted-foreground">
+            <Clock class="size-3" />
+            {{ runtime }}
+          </span>
+        </div>
+      </div>
+      <div v-else class="flex flex-wrap items-center gap-2 border-b border-border bg-muted/40 px-4 py-2">
         <Badge variant="outline">Videos</Badge>
         <span v-if="runtime" class="inline-flex items-center gap-1.5 font-mono text-[11px] uppercase tracking-[0.09em] text-muted-foreground">
           <Clock class="size-3" />
@@ -65,6 +96,21 @@ const runtime = computed<string | null>(() => {
   transition:
     border-color var(--dur-base) var(--ease-standard),
     background-color var(--dur-base) var(--ease-standard);
+}
+/* A mask rather than a gradient overlay: the image fades to transparent, so
+   it melts into whatever is behind it (the card in every theme, and the card's
+   green hover wash), with no colour to keep in step. */
+.ufo-featured-thumb {
+  -webkit-mask-image: linear-gradient(to bottom, #000 25%, transparent 100%);
+  mask-image: linear-gradient(to bottom, #000 25%, transparent 100%);
+  transition: transform 600ms var(--ease-standard);
+}
+.ufo-featured:hover .ufo-featured-thumb {
+  transform: scale(1.03);
+}
+@media (prefers-reduced-motion: reduce) {
+  .ufo-featured-thumb { transition: none; }
+  .ufo-featured:hover .ufo-featured-thumb { transform: none; }
 }
 .ufo-featured:hover {
   border-color: hsl(var(--primary) / 0.6);

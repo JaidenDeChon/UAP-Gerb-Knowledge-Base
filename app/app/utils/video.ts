@@ -17,7 +17,12 @@ export function formatDay(iso: string | null | undefined): string | null {
   return Number.isFinite(time) ? DATE.format(time) : null
 }
 
-/** YouTube's 320×180 thumbnail (always 16:9, unlike the letterboxed `hqdefault`). */
-export function youtubeThumbnail(videoId: string): string {
-  return `https://i.ytimg.com/vi/${encodeURIComponent(videoId)}/mqdefault.jpg`
+/**
+ * A YouTube thumbnail URL.
+ * - `mq` (default): 320×180, always 16:9.
+ * - `hq`: 480×360, letterboxed for 16:9 videos, but every video has one.
+ * - `maxres`: 1280×720, missing for some older uploads (YouTube 404s).
+ */
+export function youtubeThumbnail(videoId: string, size: 'mq' | 'hq' | 'maxres' = 'mq'): string {
+  return `https://i.ytimg.com/vi/${encodeURIComponent(videoId)}/${size}default.jpg`
 }
