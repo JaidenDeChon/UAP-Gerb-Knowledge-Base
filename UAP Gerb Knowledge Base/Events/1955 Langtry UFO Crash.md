@@ -10,13 +10,13 @@ The **1955 Langtry UFO Crash** is an alleged UAP impact and crash retrieval even
 
 ## The Sighting
 
-On a spring day in 1955, Colonel Willingham and other F-86 Sabre aviators were escorting B-47 and B-52 bombers from [[Carswell Air Force Base]] in Fort Worth, Texas on a Cold War simulation training exercise. Willingham's call sign was Willie Eddie (serial CD1195). During the mission, the squadron received radio intelligence from [[Distant Early Warning (DEW) Radar|DEW radar systems]] in Canada that fast-moving unidentified signatures were traveling south toward Texas.
+On a spring day in 1955, Colonel Willingham and other F-86 Sabre aviators were escorting B-47 and B-52 bombers from [[Carswell Air Force Base]] in Fort Worth, Texas on a Cold War simulation training exercise. Willingham's call sign was Willie Eddie (serial CD1195). During the mission, the squadron received radio intelligence from [[DEW Radar Systems|DEW radar systems]] in Canada that fast-moving unidentified signatures were traveling south toward Texas.
 
 Willingham observed a bright object approaching at an estimated 2,000 mph — approximately four times the F-86's top speed of 685 mph. He described the surface as resembling "magnesium steel." Other pilots, including George Smithson, confirmed seeing the object in a post-incident debrief. The object executed a 90-degree turn southwest toward the Mexican border, then was observed emitting sparks while tilting to a 45-degree angle. Willingham speculated the abrupt maneuver may have caused structural damage to the craft. The object fell out of view, and Willingham estimated it had crashed near Langtry, Texas, based on his familiarity with the region.
 
 ## The Crash Site Visit
 
-Willingham requested and received permission from Denver flight control to investigate the estimated crash site. After returning to base and filing his initial report, Willingham departed privately in a 1947 Ercoupe Champion with his friend [[Jack Perkins]], a Pennsylvania electronics engineer and Civil Air Patrol colleague.
+Willingham requested and received permission from Denver flight control to investigate the estimated crash site. After returning to base and filing his initial report, Willingham departed privately in a 1947 Aeronca Champion with his friend [[Jack Perkins]], a Pennsylvania electronics engineer and Civil Air Patrol colleague.
 
 At the site, Willingham and Perkins observed:
 - A disc-shaped craft broken into roughly three sections
@@ -81,7 +81,7 @@ The 1955 Langtry crash is distinct from the December 6, 1950 [[1950 El Indio UFO
 1. **Craft condition**: The MJ-12 document describes the 1950 craft as nearly incinerated; Willingham observed three large intact sections at Langtry.
 2. **Timeline**: Willingham was still serving in the Korean War in December 1950.
 3. **Geography**: El Indio, Texas is 75 miles southeast of Del Rio; Langtry is 60 miles northwest.
-4. **Technology reference**: Willingham's account references [[Distant Early Warning (DEW) Radar|DEW radar systems]] not implemented until 1952.
+4. **Technology reference**: Willingham's account references [[DEW Radar Systems|DEW radar systems]] not implemented until 1952.
 
 ## Eric Davis Endorsement
 
