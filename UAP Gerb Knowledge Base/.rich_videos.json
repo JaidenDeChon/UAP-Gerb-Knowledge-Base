@@ -167,5 +167,22 @@
       "wiki-watch"
     ],
     "cues": "verified"
+  },
+  "9p99lTsC7wQ": {
+    "title": "UFO Legacy Programs - Science Applications International Corporation (SAIC)",
+    "published": "2025-06-21",
+    "enriched_at": "2026-09-23T10:28:49Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-org-chart",
+      "wiki-roster",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-callout",
+      "wiki-cue",
+      "wiki-watch"
+    ],
+    "cues": "verified"
   }
 }

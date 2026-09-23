@@ -20,6 +20,34 @@ SAIC was established in 1969 and has grown to become one of the largest defense 
 
 SAIC is eligible under the DoD's **Corporate Portfolio Program**, which provides defense industrial base corporations access to DoD executives, scientists, and management with broad access to **Special Access Program (SAP)** portfolios — both acknowledged and unacknowledged programs.
 
+## Corporate History and Lineage
+
+SAIC was founded in February 1969 by nuclear physicist [[J. Robert Beyster]] as one of the first employee-owned companies. According to UAP Gerb's 2025 SAIC investigation, its stock plan "promised to make government officials rich after they left public service", letting Beyster stack the board and senior staff with generals, admirals, spies and cabinet officers, including [[Bobby Ray Inman]], [[John Deutsch]] and [[William F. Raborn]]; one quoted description says they had "better access to the Pentagon than the government's own attorneys". Its first contracts, from the Defense Atomic Support Agency, calculated the output of nuclear devices. By 2007 *Vanity Fair* called it a "body shop in the brain business", with more than 44,000 staff, and a *Baltimore Sun* article and James Bamford's *The Shadow Factory* describe it as "NSA West", a revolving door with the [[NSA]].
+
+The video maps a convoluted corporate family:
+
+- **Leidos split (27 September 2013).** SAIC spun off a roughly $4 billion company that kept the SAIC name while the parent became [[Leidos]], because acquisition conflict-of-interest rules blocked new bids. Leidos took over [[Lockheed Martin]]'s Information Systems and Global Solutions business for $5 billion in August 2016.
+- **Scitor.** Bought for $790 million in cash; per Tim Shorrock's *Spies for Hire*, a key CIA Directorate of Science and Technology contractor for satellite signals and electronic intelligence. Its old Chantilly, Virginia building shares a corporate park with SAIC, the [[Aerospace Corporation]] and the NRO.
+- **Engility.** Spun off from [[L3 Communications]] in 2012 and bought by SAIC for $2.5 billion, carrying the lineage of [[Decision Science Applications, Inc. (DSAI)]], a company Colonel [[Steve Wilson]] said was "one and the same" as SAIC.
+- **Joint ventures.** AMSEC LLC with Northrop Grumman's Newport News Shipbuilding (1999); Research and Development Solutions LLC with [[EG&G]] Technical Services and Parsons (2004), which won a $217 million DOE National Energy Technology Laboratory contract; and a joint venture with Amentum that won more than $1.3 billion in IDIQ contracts by 2020.
+
+## Alleged Gatekeepers
+
+UAP Gerb argues that many officials he considers UFO legacy program gatekeepers passed through SAIC:
+
+- **[[Sean Kirkpatrick]]**, SAIC senior research scientist around 2000 and later the first [[AARO]] director.
+- **[[John Deutsch]]** and **[[William A. Owens]]**, two of the six [[SAPOC (Special Access Program Oversight Committee)|SAPOC]] figures Vice Admiral [[Thomas Wilson]] dealt with in the [[Wilson-Davis Memo|Wilson-Davis notes]]; [[Bill Perry]], who restructured SAP oversight in 1994, had also served on SAIC's board. On this basis the host wagers SAIC was the unnamed contractor that, with SAPOC, kept Wilson out.
+- **[[Will Miller]]**, an SAIC senior analyst, who named SAIC among the possible "keepers of the keys".
+- **[[Donald M. Kerr]]**, an SAIC executive from 1993 before running CIA science and technology and the NRO.
+
+## Strategic Defense Initiative
+
+SAIC was among the most important contractors to the [[Strategic Defense Initiative (SDI)|Strategic Defense Initiative]]. From 1978 it was the "best represented contractor" for particle beam weapons, and in 1985 it won more SDI contracts than General Dynamics, Northrop, Raytheon, Grumman and RAND combined, with retired Major General Jasper Welch coordinating its Star Wars work. It also worked with Brookhaven, White Sands and Los Alamos on SDI's lethality and target-hardening program. Because [[Edgar Fouche|Edgar Fouché]] and others claim SDI concealed UFO programs, and because of whistleblower allegations of SDI waste in the same period, the host considers it "not at all a stretch" that SAIC was a primary contractor for UFO programs hidden in SDI.
+
+## Contract Failures and Fraud Allegations
+
+UAP Gerb cites a pattern of large contracts that delivered little: the NSA's Trailblazer, awarded to an SAIC-led consortium in 2002 at over $280 million and ballooning to billions, followed by the $361 million ExecuteLocus; the FBI's $124 million Virtual Case File, called the "most highly publicized software failure in history"; fake prototypes on an Air Force flat panel display contract from 1987 to 1995; alleged false cost statements on Air Force base waste cleanup; and a 1992 sworn deposition in which a former executive said "mischarging" had become institutionalized. A 2005 burglary at the La Jolla site took computers holding personal data on thousands of employees. The host reads this record, with [[Denise McKenzie]]'s testimony, as consistent with money being moved into black budget programs.
+
 ## Contracts with Naval Surface Warfare Center Crane
 
 SAIC maintains an exceptionally extensive contracting relationship with [[Naval Surface Warfare Center Crane]] in Indiana, the alleged site of the [[Off-World Technologies Division]] witnessed by [[RA]]. Notable contracts include:
@@ -27,7 +55,7 @@ SAIC maintains an exceptionally extensive contracting relationship with [[Naval 
 ### Multi-Million Dollar Contract Series
 
 - **2024: $63 million contract** to support NSWC Crane's hypersonic advanced concepts (article pulled from SAIC's website around June 2024)
-- **2023: $240 million IDIQ contract** to support Crane's weapon division instrumentation platform (article pulled from SAIC's website around January 2024)
+- **2023: $249 million IDIQ contract** (given as $240 million in an earlier video) to support Crane's weapon division instrumentation platform (article pulled from SAIC's website around January 2024)
 - **2020: $133 million contract** providing mission engineering and integration support for the **maneuver engagement and surveillance section** of Crane, falling under special warfare and expeditionary systems R&D
 - **2010: $351 million contract** for technical engineering services to NSWC Crane, specifically supporting **Joint Special Operations Response Department** (JSOC) — the same department named alongside the [[CIA]]'s Office of Global Access for UAP crash retrieval and collections operations
 
@@ -151,6 +179,7 @@ Based on [[RA]]'s testimony and investigative analysis:
 - [[Video - Wilson-Davis Memo and US Secret UFO Reverse Engineering Programs]] (implied)
 - [[Video - Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]] (implied)
 - [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
+- [[Video - UFO Legacy Programs - Science Applications International Corporation (SAIC)]]
 
 ## Related Pages
 
