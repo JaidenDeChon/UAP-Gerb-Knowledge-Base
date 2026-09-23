@@ -614,30 +614,49 @@ The host sees the same design in the Air Force's modern [[Hidden Wing]], which h
 
 He then traces AFMC's lineage back to the late 1940s to argue that the Air Force was the primary research, development, test and evaluation element for recovered vehicles from the start. Three of AFMC's six operational areas, the Test Center, AFLCMC and the [[Air Force Research Laboratory]], are said to be directly involved.
 
-::wiki-org-chart
+::wiki-chain{video="jR-h5p2bd-A" video-title="The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs [VOL.1]"}
 ---
-root:
-  name: "Air Force Materiel Command (AFMC)"
-  label: "Formed 1992; headquartered at Wright-Patterson"
-  note: "The modern major command behind the Hidden Wing, per the host."
-  children:
-    - name: "Air Force Logistics Command"
-      label: "Formed from, 1961–1992"
-      children:
-        - name: "Air Materiel Command"
-          label: "Evolved from"
-          note: "In 1947 tried to recruit Nazi engineers through Operation Paperclip for an 'underground plant program.'"
-    - name: "Air Force Systems Command"
-      label: "Formed from, 1961–1992"
-      note: "Named by J. Andrew Kissner in the early 1990s as imperative to the original legacy effort, and as supporting the AEC labs' custody of recovered craft."
-      children:
-        - name: "Air Research and Development Command (ARDC)"
-          label: "Evolved from; established 1950"
-          note: "Took over research and development from Air Materiel Command around 1951. Eric Henry Wang, named as leading the Kingman reverse engineering, was chief of its Special Studies Office."
-          children:
-            - name: "Air Force Special Weapons Center"
-              label: "Subordinate command at Kirtland AFB"
-              note: "Wang later worked in its Research Directorate. Its office of primary responsibility passed to the Air Force Research Laboratory in 1992."
+kind: custody
+label: "Lineage"
+caption: "The host traces AFMC backward from 1992; here the lineage reads forward in time. The dates are the video's."
+steps:
+  - name: "Air Materiel Command"
+    note: "In 1947 tried to recruit Nazi engineers through Operation Paperclip for an 'underground plant program.'"
+    cue: 2968
+  - via: "Its functions divide"
+    fork:
+      - label: "Logistics"
+        steps:
+          - via: "Evolved, 1961"
+            name: "Air Force Logistics Command"
+            date: "1961–1992"
+            cue: 2958
+      - label: "Research and development"
+        steps:
+          - via: "Took over R&D around 1951"
+            name: "Air Research and Development Command (ARDC)"
+            date: "Established 1950"
+            note: "Eric Henry Wang, named as leading the Kingman study, was chief of its Special Studies Office."
+            cue: 2975
+          - via: "Evolved, 1961"
+            name: "Air Force Systems Command"
+            date: "1961–1992"
+            note: "Named by J. Andrew Kissner as imperative to the original legacy effort and as supporting the AEC labs' custody of recovered craft."
+            cue: 3025
+      - label: "Special weapons"
+        steps:
+          - via: "Contained within ARDC"
+            name: "Air Force Special Weapons Center (AFSWC)"
+            note: "At Kirtland AFB; Wang later worked in its Research Directorate."
+            cue: 2985
+          - via: "Office of primary responsibility transferred, 1992"
+            name: "Air Force Research Laboratory"
+            cue: 2996
+  - via: "AFLC and AFSC joined, 1992"
+    name: "Air Force Materiel Command (AFMC)"
+    date: "1992–present"
+    note: "Headquartered at Wright-Patterson; the modern major command behind the Hidden Wing, per the host."
+    cue: 2943
 ---
 ::
 
@@ -767,19 +786,33 @@ Marshall runs through the disputed documents. An alleged 5 March 1942 memo from 
 
 The host's strongest claim about Marshall is that he laid down the model for UFO rapid-reaction teams. Because Manhattan Project secrecy kept military intelligence from being briefed on atomic energy, Marshall proposed in 1943 a separate intelligence operation under the Manhattan Engineer District, the [[Alsos Mission|Alsos Missions]], overseen by Groves, Marshall, his G-2 Colonel Boris Pash and Bush. Alsos ran in three phases, in Italy, France and Germany, and its security arm, the T-Forces, seized a subcritical experimental reactor, uranium, heavy water and dozens of scientists, including Werner Heisenberg, some of them from Soviet-controlled territory. The host sets the two side by side:
 
-::wiki-grid{cols=2}
-::wiki-panel{title="1943–1945: Alsos and T-Force"}
-- **Small specialist teams.** Alsos began with 13 military personnel, including interpreters, and five scientists, to assess and exploit the German atomic program.
-- **A light, mobile securing force.** T-Forces were lightly armed and deployed fast, securing a site until the specialists arrived. Their methods had "echoes of the Gestapo."
-- **A mission of denial.** None of Germany's nuclear materials or scientists were to fall into Soviet hands.
-- **Intelligence outside normal channels.** Run through the Manhattan Engineer District and Marshall's G-2, apart from military intelligence.
-::
-::wiki-panel{title="Today: UFO recovery teams, as the host describes them" tone="accent"}
-- **Specialist scientific teams**, often DOE and NNSA's NEST, arrive to decide how the material is removed, transported and exploited.
-- **A light, mobile direct-action team**, often paralleling tier-one units, secures the crash site first.
-- **A race against adversaries** running their own crash retrieval programs, in Grusch's "multi-decade Cold War."
-- **An intelligence apparatus** answering directly to legacy program elements, completely removed from standard DoD and intelligence channels.
-::
+::wiki-compare{video="jR-h5p2bd-A" video-title="The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs [VOL.1]"}
+---
+caption: "The wartime model and the modern teams the host says it prefigured, point by point."
+attributeLabel: "Element"
+subjects:
+  - name: "Alsos Mission"
+    note: "1943–1945, with T-Force"
+  - name: "UFO recovery teams"
+    note: "Today, as the host describes them"
+rows:
+  - attribute: "Specialists"
+    cells:
+      - { text: "Small teams: 13 military personnel, interpreters among them, and five scientists, to assess and exploit the German atomic program", cue: 8138 }
+      - { text: "Specialist scientific teams, often DOE and NNSA's NEST, decide how material is removed, transported and exploited", cue: 8401 }
+  - attribute: "Securing force"
+    cells:
+      - { text: "T-Forces: lightly armed, highly mobile, deployed fast to hold a site until the specialists arrived", cue: 8301 }
+      - { text: "A light, mobile direct-action team, often paralleling tier-one units, secures the crash site first", cue: 8393 }
+  - attribute: "Mission"
+    cells:
+      - { text: "Denial: none of Germany's nuclear materials or scientists to fall into Soviet hands", cue: 8201 }
+      - "A race against adversaries running their own crash retrieval programs, in Grusch's \"multi-decade Cold War\""
+  - attribute: "Intelligence"
+    cells:
+      - { text: "Run through the Manhattan Engineer District and Marshall's G-2, apart from military intelligence", cue: 8105 }
+      - { text: "An apparatus answering directly to legacy program elements, removed from standard DoD and IC channels", cue: 8414 }
+---
 ::
 
 ## The Cold War and the Great Schism
@@ -810,45 +843,65 @@ His most specific example is in the Air Force. An Air Force history of the Offic
 
 The mid-1980s shocks set off what the host calls "snowballing protective countermeasures." Having spread itself across SAP umbrellas, codeword read-ons, contractors and FFRDCs, the once-unified structure "was forced to dismember itself," severing its limbs to "hide under different rocks." The process ended in 1994 under the Clinton administration. As Deputy Secretary of Defense, [[Bill Perry]] greatly expanded the Special Access Program Central Office and the [[SAPOC (Special Access Program Oversight Committee)|Special Access Program Oversight Committee]] and created its Senior Review Group, moving legacy oversight into "a quasi government and industry control panel of just over two dozen individuals." In his closing remarks the host says he now possesses knowledge, independent of Davis, that this was real, and that 1994 was the last year the programs had any semblance of central leadership.
 
-::wiki-org-chart
+::wiki-chain{video="jR-h5p2bd-A" video-title="The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs [VOL.1]"}
 ---
-root:
-  name: "End of the 'wild wild west'"
-  label: "1982–1985"
-  note: "Reagan's EO 12356 ends ad hoc top secret codeword access, and the mid-1980s audits nearly expose the portfolio. The host calls this chain of dominoes the great schism."
-  children:
-    - name: "Yellow Fruit"
-      label: "Near exposure, 1983"
-      note: "A financial audit of Lt. Col. James E. Duncan surfaces the Army SOD umbrella, under which the host believes a UFO compartment sat."
-      children:
-        - name: "Gatekeepers formed 'out of necessity'"
-          label: "Led to"
-          note: "As Wilson allegedly recounted: after a past audit 'nearly outed' them, the programs built new gatekeeping structures."
-    - name: "Programs hide in cover offices"
-      label: "Led to"
-      note: "Programs that once used codeword access move into cover offices inside the government."
-      children:
-        - name: "Edward C. Aldridge"
-          label: "SAF/AA 'outside activities'"
-          note: "Joint NRO and Air Force activities allegedly moved under the Administrative Assistant, outside the Air Force SAPCO."
-    - name: "Bill Perry"
-      label: "Culminated in: 1994 reorganization"
-      note: "Expands SAPCO and SAPOC and creates the Senior Review Group."
-      children:
-        - name: "Quasi-government and industry control group"
-          label: "Just over two dozen people"
-          note: "Holds top-level control from 1994, outside the government's own chain."
-          children:
-            - name: "Independent Research and Development (IRAD)"
-              label: "Contractor breakaway, 2005–2006"
-              note: "Primes such as Northrop Grumman fund their own programs, unaccountable to their sponsors."
-            - name: "Dick Cheney"
-              label: "Holds the fragments together until 2009"
-              note: "'Darth Vader himself', the last man with the tradecraft to run the fractured shell."
-              children:
-                - name: "James Clapper"
-                  label: "Diminished successor, DNI 2010–2017"
-                  note: "The closest thing to a 'mob boss' since, with far less power."
+kind: consequence
+label: "The great schism"
+caption: "The host's chain of dominoes from the end of the 'wild wild west' to today's fractured portfolio. Every link is his reading of events."
+steps:
+  - text: "End of the 'wild wild west'"
+    date: "1982–1985"
+    note: "Reagan's EO 12356 ends ad hoc top secret codeword access."
+    cue: 9337
+  - via: "Together with the mid-1980s audits"
+    fork:
+      - label: "Near exposure"
+        steps:
+          - name: "Yellow Fruit"
+            date: "1983"
+            note: "An audit tied to Lt. Col. James E. Duncan surfaces the Army SOD umbrella, under which the host believes a UFO compartment sat."
+            cue: 9643
+          - via: "Led to"
+            text: "Gatekeepers formed 'out of necessity'"
+            note: "As Wilson allegedly recounted: an audit investigation had 'nearly outed' them."
+            cue: 9919
+      - label: "Cover offices"
+        steps:
+          - text: "Programs sever their limbs"
+            note: "They hide 'under different rocks': cover offices and programs inside the government."
+            cue: 10990
+          - via: "For example"
+            text: "SAF/AA 'outside activities'"
+            note: "Joint NRO and Air Force activities allegedly moved under the Administrative Assistant in Edward C. Aldridge's day, outside the Air Force SAPCO."
+            cue: 10613
+  - via: "Cemented in 1994"
+    name: "SAPOC (Special Access Program Oversight Committee)"
+    date: "1994"
+    note: "Bill Perry expands the SAPCO and SAPOC and creates the Senior Review Group."
+    cue: 10020
+  - via: "Oversight passes to"
+    text: "Quasi-government and industry control group"
+    note: "Just over two dozen people, outside the government's own chain."
+    cue: 10038
+  - via: "Then fractures further"
+    fork:
+      - label: "Contractors"
+        steps:
+          - via: "Breakaway programs, early 2000s"
+            name: "Independent Research and Development (IRAD)"
+            note: "Primes such as Northrop Grumman fund their own programs, unaccountable to their sponsors."
+            cue: 203
+      - label: "Leadership"
+        steps:
+          - name: "Dick Cheney"
+            date: "Until 2009"
+            note: "'Darth Vader himself', the last man with the tradecraft to hold the fractured shell together."
+            cue: 11042
+          - via: "Diminished successor"
+            name: "James Clapper"
+            date: "DNI 2010–2017"
+            note: "The closest thing to a 'mob boss' since, with far less power."
+            cue: 8539
 ---
 ::
 

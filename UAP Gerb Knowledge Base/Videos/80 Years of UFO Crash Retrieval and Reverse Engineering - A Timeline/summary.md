@@ -1,6 +1,6 @@
 ---
 title: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline"
-date: NA
+date: 2026-09-18
 video_id: o4czWtSxGig
 url: https://www.youtube.com/watch?v=o4czWtSxGig
 channel: UAP Gerb
@@ -507,6 +507,61 @@ The video treats the 1947 Roswell/White Sands recoveries as the true origin poin
 
 A key calibration point here is the November 1950 [[Wilbert B. Smith]] memo to Canada's Department of Transport, which relayed claims that flying saucers exist and are studied above H-bomb-level secrecy by a group headed by [[Vannevar Bush]]. Physicist [[Robert Sarbacher]] separately corroborated recovered lightweight materials and "insect-like" crew members in contemporaneous and later interviews.
 
+### 1953: Kingman as a tracer
+
+The host ranks the May 1953 [[1953 Kingman, Arizona Crash Retrieval|Kingman, Arizona retrieval]] beside Roswell and Magenta as the most consequential crash in history, and explains why with a medical image: like dye injected into a vein, Kingman lets him follow people, offices and material forward through the decades. Army engineer [[Arthur Stansel Jr.]], a project engineer on [[Operation Upshot-Knothole]], swore that on 21 May 1953 he was bussed to an oval, roughly 30-foot craft of a brushed-aluminum-like metal near Kingman, and glimpsed biologics in a tent. He named two men. [[Edward Bushnell Doll]], technical director for two [[Armed Forces Special Weapons Project (AFSWP)|AFSWP]] programs at the tests, was in charge of the retrieval, according to Stansel's diary; Doll joined TRW's [[Space Technology Laboratories (STL)|Space Technology Laboratories]] by 1955 and rose to senior vice president of TRW Systems Group, the unit [[Northrop Grumman]] folded into its Mission Systems sector in 2002. [[Eric Henry Wang]], chief of the special studies office of the [[Air Research and Development Command (ARDC)|Air Research and Development Command]] at Wright-Patterson, led the scientific study; his department moved in 1956 to the Sandia complex at Kirtland, inside the [[Air Force Special Weapons Center (AFSWC)|Air Force Special Weapons Center]], whose office of primary responsibility ended up in the [[Air Force Research Laboratory]]. The wreckage itself, the host says on the strength of rumours and [[Hal Puthoff]]'s indirect confirmation, resurfaced in 2011 as part of what [[Lockheed Martin]] tried to transfer under [[Kona Blue]].
+
+::wiki-chain{video="o4czWtSxGig" video-title="80 Years of UFO Crash Retrieval"}
+---
+kind: custody
+label: "Tracing Kingman"
+caption: "The host's 'dye in a vein': three lines he follows out of the 1953 Kingman retrieval, two careers and the wreckage itself. The wreckage line rests on rumours the host reports and on Hal Puthoff's indirect confirmation."
+steps:
+  - name: "1953 Kingman, Arizona Crash Retrieval"
+    date: "1953-05-21"
+    note: "Arthur Stansel Jr. names the two men who ran it."
+    cue: 2552
+  - via: "Three lines out of Kingman"
+    fork:
+      - label: "The coordinator"
+        steps:
+          - name: "Edward Bushnell Doll"
+            note: "AFSWP technical director at Upshot-Knothole; in charge of the retrieval, per Stansel's diary."
+            cue: 2628
+          - via: "Joined by 1955"
+            name: "Space Technology Laboratories (STL)"
+            note: "A TRW subsidiary; Doll later became senior VP of TRW Systems Group."
+            cue: 2652
+          - via: "Bought in 2002; Systems Group absorbed into Mission Systems"
+            name: "Northrop Grumman"
+            note: "Where the host believes much of Northrop's UFO activity is held."
+            cue: 2681
+      - label: "The scientist"
+        steps:
+          - name: "Eric Henry Wang"
+            note: "Chief of ARDC's special studies office at Wright-Patterson; led the study of the craft, per Stansel."
+            cue: 2717
+          - via: "Department moved to Sandia at Kirtland, 1956"
+            name: "Air Force Special Weapons Center (AFSWC)"
+            note: "Wang worked in its research directorate until his death in 1960."
+            cue: 2758
+          - via: "Office of primary responsibility absorbed"
+            name: "Air Force Research Laboratory"
+            note: "Part of today's Air Force Materiel Command."
+            cue: 2793
+      - label: "The wreckage"
+        steps:
+          - via: "Held, the host understands, for some 60 years"
+            name: "Lockheed Martin"
+            note: "Never able to crack the Kingman materials, in the host's reading."
+            cue: 2841
+          - via: "Proposed transfer, 2011"
+            name: "Kona Blue"
+            note: "Meant to divest the material to Bigelow's Advanced Space Studies group; blocked by CIA DS&T officials."
+            cue: 7668
+---
+::
+
 ### 1958-1963: the golden age of reverse engineering
 
 The video argues that active reverse-engineering, rather than mere study, began under [[Philip J. Corso]], who as an officer in the [[U.S. Army Foreign Technology Division|Army's Foreign Technology Division]] under General [[Arthur Trudeau]] claimed to have seeded Roswell-derived concepts into US industry via contractors including Bell Labs and Sperry Rand. The video parallels this with the founding of [[MITRE Corporation]] (July 1958) and the [[Aerospace Corporation]] (1960, spun off from [[TRW]]) as trusted FFRDC partners for the effort. The [[CIA Directorate of Science and Technology]], founded 1963, is introduced as a recurring gatekeeper institution that recurs throughout the rest of the timeline.
@@ -555,6 +610,43 @@ root:
         - name: Aerospace Corporation
           label: FFRDC reverse-engineering partner
           note: "Spun off from TRW in 1960 as a second FFRDC pillar of the golden-age reverse-engineering framework, per the video."
+---
+::
+
+### Where control went
+
+The chart above is the golden-era arrangement. Across the whole timeline the host also tracks one thread on its own: the control group itself, which he follows through the National Security Council's covert-activities bodies until it leaves the NSC altogether. He calls the 1964 step "little more than a name change" kept for bookkeeping; the 1978 and 1994 steps are the ones that change its nature.
+
+::wiki-chain{video="o4czWtSxGig" video-title="80 Years of UFO Crash Retrieval"}
+---
+kind: custody
+label: "Lineage of the control group"
+caption: "How the host tracks the alleged UFO control group from 1948 to 1994, read forward in time. Each step is also an entry in the chronology above."
+steps:
+  - name: "Majestic 12"
+    date: "1948-06"
+    note: "Allegedly hidden inside NSC 10/2's covert-activities oversight structure."
+    cue: 1829
+  - via: "Absorbed by Eisenhower's NSC 5412"
+    text: "5412 Committee Special Group"
+    date: "1954-03"
+    note: "Modelled on the Manhattan Project's Top Policy Group, with the CIA as executive for covert operations."
+    cue: 2949
+  - via: "Renamed by NSAM 303"
+    text: "303 Committee"
+    date: "1964-06"
+    note: "Carried on into the Nixon administration."
+    cue: 3672
+  - via: "Crackdown under Carter's EO 12036"
+    text: "Dispersal into cover programs"
+    date: "1978"
+    note: "Mandatory NSC review of special activities pushes the programs to spread out of reach of oversight."
+    cue: 4434
+  - via: "Moved out of NSC oversight for good"
+    text: "Quasi-industry and government control group of 27"
+    date: "1994"
+    note: "Prompted, the host says, by fear of President Clinton's appetite for disclosure."
+    cue: 6912
 ---
 ::
 

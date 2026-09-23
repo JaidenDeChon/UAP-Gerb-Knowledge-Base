@@ -2,8 +2,8 @@
 title: "Transcript - 80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline"
 video_id: o4czWtSxGig
 url: https://www.youtube.com/watch?v=o4czWtSxGig
-date: NA
-duration_seconds: 0
+date: 2026-09-18
+duration_seconds: 9829
 channel: UAP Gerb
 tags:
   - transcript

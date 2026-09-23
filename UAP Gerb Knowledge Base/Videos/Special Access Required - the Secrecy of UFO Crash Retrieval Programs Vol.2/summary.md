@@ -465,16 +465,43 @@ The presenter notes how often acquisition offices recur in his work: the Air For
 
 ### Three protection levels
 
-::wiki-grid{cols=3}
-::wiki-panel{title="Acknowledged"}
-Existence can be openly recognized; details stay classified. Funding is often unclassified, and the program is fully reported to the congressional defense and intelligence committees.
-::
-::wiki-panel{title="Unacknowledged (USAP)"}
-The program's existence is itself protected, and funding is hidden in the federal budget. Staff often need indoctrination beyond TS/SCI. The 1994 Joint Security Commission report *Redefining Security* put USAP security at 3 to 10 times the cost of acknowledged SAPs, and up to 40% of operating costs.
-::
-::wiki-panel{title="Waived (WUSAP)" tone="accent"}
-Created only in extreme cases; reporting under 10 U.S.C. 119 is waived. Access approval rests with the Deputy Secretary of Defense, the under secretaries or a component head with "cognizant authority." Still meant to be reported to the Gang of Eight. See [[Waived Unacknowledged Special Access Programs (USAPs)]].
-::
+Every SAP carries one of three protection levels. The legacy portfolio, the presenter argues, sits in the deepest: see [[Waived Unacknowledged Special Access Programs (USAPs)]].
+
+::wiki-compare{video="6MsmPrpQqa8" video-title="Special Access Required - the Secrecy of UFO Crash Retrieval Programs [VOL.2]"}
+---
+caption: "The three SAP protection levels as the video lays them out, each a deeper layer of secrecy than the last. Security costs are from the 1994 Joint Security Commission report and, for waived programs, from statements the Wilson-Davis notes attribute to Major General Michael Kostelnik."
+attributeLabel: "Point"
+subjects:
+  - name: "Acknowledged"
+  - name: "Unacknowledged (USAP)"
+  - name: "Waived (WUSAP)"
+rows:
+  - attribute: "Existence"
+    cells:
+      - { text: "Can be openly recognized; details such as materials and techniques stay classified", cue: 4041 }
+      - { text: "The program's existence and purpose are themselves protected", cue: 4068 }
+      - { text: "Unacknowledged, and created only in extremely limited circumstances", cue: 4220 }
+  - attribute: "Funding"
+    cells:
+      - "Often unclassified"
+      - { text: "Often classified, hidden in the federal budget and not linked to the program", cue: 4079 }
+      - { mark: unknown }
+  - attribute: "Reporting"
+    cells:
+      - { text: "Full reporting to the congressional defense and intelligence committees", cue: 4055 }
+      - "Concealed from most government officials and congressional committees"
+      - { text: "Reporting under 10 U.S.C. 119 waived; still meant to reach the Gang of Eight", cue: 4239 }
+  - attribute: "Access"
+    cells:
+      - "Need-to-know for cleared program personnel"
+      - { text: "Often indoctrination beyond TS/SCI", cue: 4097 }
+      - { text: "Approved only by the Deputy Secretary of Defense, the under secretaries or a component head with \"cognizant authority\"", cue: 4258 }
+  - attribute: "Security cost"
+    cells:
+      - "The baseline"
+      - { text: "3 to 10 times an acknowledged SAP's; up to 40% of operating costs", cue: 4129 }
+      - { text: "2 to 3 times the program budget, once 6 to 7 times, for the legacy subset", cue: 4154 }
+---
 ::
 
 A waived unacknowledged SAP can also carry the informal control marking **bigoted**, meaning access by name (see [[Bigot List]]), which the presenter attributes to Grusch. The Gang of Eight has clearly not been briefed on the legacy portfolio, he argues. He plays Grusch's account of meeting former Senate Majority Leader [[Harry Reid]] about nine months before Reid's death: Reid, a Gang of Eight member and the sponsor of [[AAWSAP]], allegedly told him "I knew we had UFO material. I was denied access for decades."
@@ -530,43 +557,43 @@ This is the section the presenter calls "the most important part of the video." 
 
 The presenter traces the route step by step. A White House SAP is not unheard of; Yankee White, the background check for staff who directly support the White House, is one, though it is properly reported. A covert-action SAP designated non-covert escapes presidential findings and 50 U.S.C. 3093 reporting. Because it was never created as a DoD SAP, it also falls outside 10 U.S.C. 119, sitting in a gray area answerable only to the NSC. The final step is to make it **content-only**.
 
-::wiki-org-chart
+::wiki-chain{video="6MsmPrpQqa8" video-title="Special Access Required - the Secrecy of UFO Crash Retrieval Programs [VOL.2]"}
 ---
-root:
-  name: "Covert Action Program (50 U.S. Code § 3093)"
-  label: "Starting point"
-  note: "Work begun under the NSC's covert-action group would normally require a presidential finding and Gang of Eight or Gang of Four notification."
-  children:
-    - name: "Non-covert action White House SAP"
-      label: "Re-designated"
-      note: "Treated as a sensitive acquisition, intelligence, research or operational activity. Not a DoD SAP, so outside 10 U.S.C. 119 as well; answers to the NSC."
-      children:
-        - name: "Content-Only Special Access Program"
-          label: "Designated content-only"
-          note: "Holds only critical program information and has no funding line, so it carries no reporting obligation under Title 10 or Title 50."
-          children:
-            - name: "No statutory reporting"
-              label: "Result"
-              note: "Consistent, the host argues, with the zero-budget record Admiral Wilson found in 1997."
-            - name: "Work sits beneath the umbrella"
-              label: "Result"
-              note: "Retrieval and exploitation run in compartments below it or through dual-hatted roles such as the Hidden Wing and FFRDCs like MITRE: attributable to the SAP but not inside it."
-            - name: "Budget absorbed elsewhere"
-              label: "Result"
-              note: "Costs are rolled into ordinary DoD, service or intelligence budgets, hence the need for off-books funding."
-              children:
-                - name: "Haircuts across black programs"
-                  label: "Funding route"
-                  note: "Money skimmed from other programs, possibly including US Forest Service and Bureau of Land Management budgets, per the host's guess."
-                - name: "Independent Research and Development (IRAD)"
-                  label: "Funding route"
-                  note: "Contractors overcharging the government, per Grusch."
-                - name: "E-Systems"
-                  label: "Self-funding cutouts"
-                  note: "LTV Aerospace's successor, described as a CIA cutout; Yellow Fruit's BSI is the earlier model."
-                - name: "Criminal enterprise"
-                  label: "Funding route"
-                  note: "A 'government-run criminal enterprise' Grusch says he reported to the Department of Justice."
+kind: consequence
+caption: "The route the presenter traces, on the strength of Grusch's remarks, from covert action to a program with no reporting duty at all."
+steps:
+  - name: "Covert Action Program (50 U.S. Code § 3093)"
+    note: "Work begun under the NSC's covert-action group; covert action must be reported to the Gang of Eight or Gang of Four."
+    cue: 5212
+  - via: "Re-designated non-covert"
+    text: "Non-covert-action White House SAP"
+    note: "No presidential finding or 50 U.S.C. 3093 reporting; never a DoD SAP, so outside 10 U.S.C. 119 too. Answers to the NSC."
+    cue: 5219
+  - via: "Designated content-only"
+    name: "Content-Only Special Access Program"
+    note: "Holds only critical program information and has no funding line of its own."
+    cue: 5650
+  - via: "Which means"
+    fork:
+      - label: "No reporting"
+        steps:
+          - text: "No statutory reporting"
+            note: "Nothing owed under Title 10 or Title 50; consistent, the host argues, with the zero-budget record Admiral Wilson found in 1997."
+            cue: 5497
+      - label: "No work inside it"
+        steps:
+          - text: "Work sits beneath the umbrella"
+            note: "Retrieval and exploitation run below it or through dual-hatted roles such as the Hidden Wing and FFRDCs like MITRE."
+            cue: 5660
+      - label: "No budget"
+        steps:
+          - text: "Budget absorbed elsewhere"
+            note: "Costs are rolled into ordinary government budgets."
+            cue: 5723
+          - via: "Paid for off the books"
+            text: "Misappropriated funding"
+            note: "Haircuts across other programs (the host guesses the Forest Service and BLM among them), contractor IRAD overcharging, self-funding cutouts such as E-Systems, and what Grusch calls a criminal enterprise."
+            cue: 9632
 ---
 ::
 
@@ -621,19 +648,37 @@ The presenter's sharpest charge concerns the Wall Street Journal's 2025 article 
 
 The video's most critical section concerns [[Luis Elizondo]]. The presenter says he stands with whistleblowers, naming Grusch, [[Dylan Borland]], Matthew Brown and "Witness Ed," but does not trust Elizondo. He presents the section as his own theory, offered "for entertainment purposes." He separates two programs that are often run together:
 
-::wiki-grid{cols=2}
-::wiki-panel{title="AAWSAP" tone="accent"}
-- **Run by:** the Defense Intelligence Agency, 2008 to 2012
-- **Budget:** $22 million, sponsored by Senator Harry Reid
-- **Purpose, per Grusch:** among other things, to receive the [[Kona Blue]] transfer of UFO materials from Lockheed Martin
-- **Status:** a real, funded program. See [[AAWSAP]]
-::
-::wiki-panel{title="ATIP"}
-- **Run by:** no one formally; an informal, unfunded working group, active about 2009 to 2017
-- **Real role, per the host:** cover for several National Security Council activities under James Clapper, a way to "talk about the onion outside of the onion"
-- **Not:** a sub-SAP of AAWSAP, as Elizondo has suggested
-- **Status:** portrayed in *The Age of Disclosure* as a real program with scientists and appropriations, which the host calls "brazen nonsense." See [[AATIP (Advanced Aerospace Threat Identification Program)|ATIP]]
-::
+::wiki-compare{video="6MsmPrpQqa8" video-title="Special Access Required - the Secrecy of UFO Crash Retrieval Programs [VOL.2]"}
+---
+caption: "The two programs the presenter says are often run together. Where Elizondo and The Age of Disclosure describe ATIP differently, the cell is marked disputed."
+attributeLabel: "Point"
+subjects:
+  - name: "AAWSAP"
+  - name: "AATIP (Advanced Aerospace Threat Identification Program)"
+    note: "ATIP"
+rows:
+  - attribute: "Run by"
+    cue: 8495
+    cells:
+      - "The Defense Intelligence Agency"
+      - { text: "No one formally: an informal working group", cue: 8518 }
+  - attribute: "Years"
+    cells:
+      - "2008 to 2012"
+      - { text: "About 2009 to 2017, mostly under DNI James Clapper", cue: 8719 }
+  - attribute: "Budget"
+    cells:
+      - "$22 million, sponsored by Senator Harry Reid"
+      - "Unfunded"
+  - attribute: "Purpose"
+    cells:
+      - { text: "Among other things, to receive the Kona Blue transfer of UFO materials from Lockheed Martin, per Grusch", cue: 8507 }
+      - { text: "Cover for several NSC activities under Clapper, a way to \"talk about the onion outside of the onion\", per the host", cue: 8532 }
+  - attribute: "How it is portrayed"
+    cells:
+      - "A real, funded program"
+      - { text: "Shown in The Age of Disclosure as a program with appropriations and scientists, and by Elizondo as a sub-SAP of AAWSAP; the host calls this \"brazen nonsense\"", mark: disputed, cue: 8703 }
+---
 ::
 
 The presenter's case for Elizondo's deeper access rests on his post as director of the [[National Program Special Management Staff (NPMS)|National Program Special Management Staff]] from 2013 to 2017. The NPMS coordinates National Security Council SAPs with the Defense Department and intelligence community, sits under USD(I&S), Clapper's office from 2007 to 2010, and its director is usually the most cleared person in the DoD after the Secretary of Defense, more so than the DoD SAPCO director. The video plays Matt Ford asking Elizondo whether ATIP came out of the NSC under Clapper; Elizondo says he worked for Clapper, that his entry point was the NSC for "the programs that I was running... in the special access world," and that he could say little more. At the November 2024 UAP hearing he said he had signed documents three years earlier restricting what he could say about crash retrievals, which the presenter reads as a forced change of posture after Grusch went public.
@@ -644,22 +689,37 @@ In the presenter's account ATIP was meant to support a partial disclosure: a nat
 
 The presenter's main criticism of the film, which he stresses is not aimed at director Dan Farah, concerns the structure it gives the legacy program. He believes the chart was drawn to protect Elizondo's and [[Jay Stratton]]'s "legacy friends" and to decide "who gets to catch the live hand grenade" when disclosure comes.
 
-::wiki-grid{cols=2}
-::wiki-panel{title="The film's chart"}
-- One legacy program
-- The [[CIA Directorate of Science and Technology]] at the top, with its deputy director as "mob boss"
-- The Department of Energy, Air Force and contractors side by side beneath it
-::
-::wiki-panel{title="The host's structure" tone="accent"}
-- Many siloed programs under a flat, rotating "rule by committee" control group, as Grusch describes it
-- The National Security Council above the CIA
-- DOE in every layer, not one branch among equals
-- Prime contractors at the bottom, apart from those that broke away with IRAD in 2005
-- Also missing from the film: the Army, Navy, Office of Naval Intelligence, DIA and other intelligence agencies, FFRDCs, national laboratories and university-affiliated research centers
-::
+::wiki-claim{video="6MsmPrpQqa8" video-title="Special Access Required - the Secrecy of UFO Crash Retrieval Programs [VOL.2]"}
+---
+caption: "The film's picture of the legacy program, and the presenter's answer to it."
+claims:
+  - title: "One program, run by the CIA"
+    by: "The Age of Disclosure"
+    date: "2025"
+    note: "The structure as Luis Elizondo and others portray it"
+    text: "There is one legacy program, spearheaded by the CIA's Directorate of Science and Technology, whose deputy director is its \"mob boss\". Below it, on an equal footing, sit the Department of Energy, the Air Force and contractors."
+    cue: 9325
+    responses:
+      - by: "The host"
+        stance: challenges
+        text: "The DOE is baked into every layer, not beholden to the agency; prime contractors, bar those that broke away with IRAD in 2005, are the bottom of the totem pole."
+        cue: 9377
+      - by: "The host"
+        stance: challenges
+        text: "It leaves out the Army, the Navy, the Office of Naval Intelligence, the DIA and most of the big intelligence agencies, and the FFRDCs, national labs and UARCs."
+        cue: 9397
+      - by: "The host"
+        stance: host
+        text: "The agency is not the portfolio's lead, though it has played a major role throughout."
+        cue: 9412
+      - by: "David Grusch"
+        stance: challenges
+        text: "The lead rotates by design: \"rule by committee\", a flat hierarchy, spread across offices rather than held by one."
+        cue: 9438
+---
 ::
 
-The CIA has played "a major major role" throughout, he allows, but it is not the portfolio's lead. He closes with open questions: what Elizondo's and Clapper's motive was, what Elizondo's real background in the programs is, and why he is "still protecting individuals." "If Lou Elizondo was part of the legacy programs," he says, "he should just come out and say it."
+He closes the section with open questions: what Elizondo's and Clapper's motive was, what Elizondo's real background in the programs is, and why he is "still protecting individuals." "If Lou Elizondo was part of the legacy programs," he says, "he should just come out and say it."
 
 ## Unrivaled Secrecy: Funding, Wet Works, and Administrative Terrorism
 

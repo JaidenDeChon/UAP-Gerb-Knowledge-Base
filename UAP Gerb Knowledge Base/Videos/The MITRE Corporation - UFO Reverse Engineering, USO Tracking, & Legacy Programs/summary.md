@@ -339,40 +339,58 @@ MITRE's lineage runs through Bush: his MIT Radiation Laboratory (1940–1945) re
 
 From the start MITRE sat in the middle of a bitter roles-and-missions fight, with the Army, Navy and Air Force each afraid of losing control of their own air defense systems. Because it was a trusted, neutral party, MITRE could still take on separate compartmented work for each service. The presenter calls this inherited distrust the root of the siloing that surrounds MITRE's legacy work today.
 
+::wiki-chain{video="107BtDYhTkA" video-title="The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs"}
+---
+kind: custody
+label: "Lineage"
+caption: "How the host traces MITRE back to Vannevar Bush, whom he calls its grandfather."
+steps:
+  - name: "Vannevar Bush"
+    note: "Architect of the scientist-government partnership behind FFRDCs."
+    cue: 1242
+  - via: "Established"
+    text: "MIT Radiation Laboratory"
+    date: "1940–1945"
+    note: "Wartime microwave radar for navigation and combat."
+    cue: 1247
+  - via: "Reopened as its successor FFRDC"
+    name: "MIT Lincoln Laboratory"
+    date: "1951"
+    note: "SAGE began here as Project Lincoln."
+    cue: 1255
+  - via: "Spun off with the Air Force to run SAGE"
+    name: "MITRE Corporation"
+    date: "1958"
+    note: "Modelled on RAND; staffed from Lincoln Lab's research and engineering group."
+    cue: 1918
+---
+::
+
+Today MITRE runs six FFRDCs for different federal sponsors, plus its own internal research arm:
+
 ::wiki-org-chart
 ---
 root:
-  name: Vannevar Bush
-  label: The video's "grandfather of MITRE"
+  name: MITRE Corporation
+  label: "Spun off 1958"
+  note: "Six FFRDCs plus MITRE Labs; more than 7,000 staff, over 65% with advanced degrees."
   children:
-    - name: MIT Radiation Laboratory
-      label: "Founded 1940; closed 1945"
-      note: "Wartime microwave radar for navigation and combat."
-      children:
-        - name: MIT Lincoln Laboratory
-          label: "Successor FFRDC, 1951"
-          note: "SAGE began here as Project Lincoln."
-          children:
-            - name: MITRE Corporation
-              label: "Spun off 1958"
-              note: "Six FFRDCs plus MITRE Labs; more than 7,000 staff, over 65% with advanced degrees."
-              children:
-                - name: National Security Engineering Center (NSEC)
-                  label: "DoD and USD(R&E); run through AFLCMC"
-                  note: "Formerly the C3I FFRDC, at McLean. The FFRDC the host wagers is deepest in the legacy programs."
-                - name: Center for Advanced Aviation System Development
-                  label: "Sponsor: FAA"
-                - name: Homeland Security Systems Engineering and Development Institute
-                  label: "Sponsor: DHS"
-                - name: National Cybersecurity FFRDC
-                  label: "Sponsor: NIST"
-                - name: Health FFRDC
-                  label: "Sponsor: HHS"
-                - name: Center for Enterprise Modernization
-                  label: "Sponsors: Treasury and IRS"
-                - name: MITRE Labs
-                  label: "15 internal innovation centers"
-                  note: "Internal applied research, not government-sponsored FFRDCs."
+    - name: National Security Engineering Center (NSEC)
+      label: "DoD and USD(R&E); run through AFLCMC"
+      note: "Formerly the C3I FFRDC, at McLean. The FFRDC the host wagers is deepest in the legacy programs."
+    - name: Center for Advanced Aviation System Development
+      label: "Sponsor: FAA"
+    - name: Homeland Security Systems Engineering and Development Institute
+      label: "Sponsor: DHS"
+    - name: National Cybersecurity FFRDC
+      label: "Sponsor: NIST"
+    - name: Health FFRDC
+      label: "Sponsor: HHS"
+    - name: Center for Enterprise Modernization
+      label: "Sponsors: Treasury and IRS"
+    - name: MITRE Labs
+      label: "15 internal innovation centers"
+      note: "Internal applied research, not government-sponsored FFRDCs."
 ---
 ::
 
@@ -390,21 +408,52 @@ Compartmentation reaches inside the programs themselves, recalling [[John P. Cra
 
 The presenter says he knows of two waived unacknowledged special access programs, the most restricted category of SAP, in which MITRE is program manager and R&D expert for its Navy sponsor, with lesser Army involvement. The US Navy is the mission partner in both. MITRE's role, he says, covers UFO technology (not craft, power or propulsion) and USO monitoring. See [[Waived Unacknowledged Special Access Programs (USAPs)]].
 
-::wiki-grid{cols=2}
-::wiki-panel{title="Program one: reverse engineering" tone="accent"}
-- **Since:** 1958, administered by the Navy from the start
-- **Source:** Roswell wreckage, possibly with other late-1940s Southwest recoveries such as [[Aztec UFO Crash and Recovery|Aztec]]
-- **Goal:** discrete, asymmetric "war-altering" capabilities folded into warfighter systems, not TR-3Bs, Tic Tacs or power sources
-- **Partners:** Office of Naval Intelligence and NAVAIR, with NAVSEA to a lesser extent, and the CIA from 2011
-- **Fate:** MITRE allegedly lost control in 2017
-::
-::wiki-panel{title="Program two: the Tic Tac Factory"}
-- **Since:** "several decades"; exact start unknown to the host
-- **Subject:** an enormous USO near the Bahamas that deploys and recovers smaller craft
-- **Task:** monitor, track, record and task for intercept
-- **Records:** large SIGINT, ELINT and other intelligence holdings in a numbered site, unless destroyed
-- **Access:** so compartmented that even cleared MITRE staff saw only slices
-::
+::wiki-compare{video="107BtDYhTkA" video-title="The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs"}
+---
+caption: "The two MITRE-Navy programs the host says he knows of, point by point. The first three rows are what they share; the rest is where they part."
+attributeLabel: "Point"
+subjects:
+  - name: "Reverse-engineering program"
+    note: "Program one"
+  - name: "Tic Tac Factory"
+    note: "Program two: monitoring the USO"
+rows:
+  - attribute: "Protection level"
+    cue: 3473
+    cells:
+      - { text: "Waived unacknowledged SAP", mark: same }
+      - { text: "Waived unacknowledged SAP", mark: same }
+  - attribute: "Sponsor"
+    cue: 3017
+    cells:
+      - { text: "US Navy, with lesser Army involvement", mark: same }
+      - { text: "US Navy, with lesser Army involvement", mark: same }
+  - attribute: "MITRE's role"
+    cue: 3490
+    cells:
+      - { text: "Program manager and R&D lead", mark: same }
+      - { text: "Program manager and R&D lead", mark: same }
+  - attribute: "Since"
+    cells:
+      - { text: "1958, run by the Navy from the start", cue: 5699 }
+      - { text: "\"Several decades\"; exact start unknown to the host", cue: 4964 }
+  - attribute: "Subject"
+    cells:
+      - { text: "Roswell wreckage, possibly with other late-1940s Southwest recoveries such as Aztec", cue: 3766 }
+      - { text: "An enormous USO near the Bahamas that deploys and recovers smaller craft", cue: 4979 }
+  - attribute: "The task"
+    cells:
+      - { text: "Discrete \"war-altering\" capabilities for warfighter systems, not TR-3Bs, Tic Tacs or power sources", cue: 3532 }
+      - { text: "Monitor, track, record and task for intercept", cue: 4968 }
+  - attribute: "Partners"
+    cells:
+      - "ONI and NAVAIR, NAVSEA to a lesser extent; the CIA from 2011"
+      - "AUTEC, in the nearby Tongue of the Ocean, is likely involved first-hand, the host reckons"
+  - attribute: "Where it stands"
+    cells:
+      - { text: "MITRE allegedly lost control in 2017", cue: 5742 }
+      - { text: "Large SIGINT and ELINT holdings in a numbered site, unless destroyed", cue: 4945 }
+---
 ::
 
 > [!info] What the host says he knows, and doesn't
@@ -495,26 +544,71 @@ The Bahamas banks are shallow, but just off the shelf the Atlantic drops to 4,00
 
 ### The 2023 4chan testimony
 
-In April 2023, shortly before David Grusch went public, an anonymous 4chan poster claimed knowledge of USOs. The presenter puts real stock in the post because of what he knows about MITRE's program. He guesses the poster was on it or close to people who were, though the poster claimed more knowledge than any of the host's own read-in engineers. The poster said he left the project because "new management" distrusted "older proven methods," a line the host says "means the world to me" given MITRE's 2011 clampdown. He sorts the post's claims three ways:
+In April 2023, shortly before David Grusch went public, an anonymous 4chan poster claimed knowledge of USOs. The presenter puts real stock in the post because of what he knows about MITRE's program. He guesses the poster was on it or close to people who were, though the poster claimed more knowledge than any of the host's own read-in engineers. The poster said he left the project because "new management" distrusted "older proven methods," a line the host says "means the world to me" given MITRE's 2011 clampdown. He takes the post's five "central grand claims" one by one, then the claims he has no knowledge of and those he rejects, which he suspects are the poster filling gaps in his own knowledge with ideas from the wider UFO community:
 
-::wiki-grid{cols=3}
-::wiki-panel{title="The host agrees" tone="accent"}
-- UFOs are primarily unmanned drones
-- A mobile construction facility hiding in the ocean is one source of UFOs
-- MITRE tracks, monitors and collects the Atlantic object and its subsidiary craft
-::
-::wiki-panel{title="No knowledge either way"}
-- Craft are built to spec for each deployment
-- The facility is burger- or pear-shaped
-- Its craft carry gravity engines that fail near the surface
-- The ratio of manned to unmanned craft
-- The US believes it has been active for at least 100 years
-::
-::wiki-panel{title="The host disagrees"}
-- It destroys anything that comes close; engineers call it more or less harmless
-- Attempts to shoot down its craft have failed miserably
-- All its craft contain element 115
-::
+::wiki-claim{video="107BtDYhTkA" video-title="The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs"}
+---
+label: "The 4chan post, claim by claim"
+caption: "The anonymous April 2023 post's claims about the undersea facility, and where the host stands on each."
+claims:
+  - title: "Mostly drones"
+    by: "Anonymous 4chan poster"
+    date: "2023-04"
+    text: "UFOs are primarily unmanned drones."
+    cue: 5351
+    responses:
+      - by: "The host"
+        stance: supports
+        text: "Agrees: he has theorized that craft with biologics aboard are rarer than unmanned ones, especially the egg-shaped kind."
+  - title: "Built to spec"
+    by: "Anonymous 4chan poster"
+    text: "UFOs are built to spec each time they are deployed."
+    cue: 5366
+    responses:
+      - by: "The host"
+        stance: unresolved
+        text: "No knowledge either way, though with the Tic Tac Factory it \"very well might be true\"."
+  - title: "An ocean factory"
+    by: "Anonymous 4chan poster"
+    text: "UFOs are made by a mobile construction facility that hides in the ocean."
+    cue: 5375
+    responses:
+      - by: "The host"
+        stance: supports
+        text: "One of several sources of UFOs; MITRE tracks, monitors and collects the Atlantic object and its craft."
+  - title: "Dangerous to approach"
+    by: "Anonymous 4chan poster"
+    text: "The facility destroys anything that comes close, and vanishes for days when approached aggressively."
+    cue: 5387
+    responses:
+      - by: "The host"
+        stance: challenges
+        text: "Strongly disagrees with the destruction: engineers on the project call the vessel more or less harmless."
+  - title: "A century on Earth"
+    by: "Anonymous 4chan poster"
+    text: "The US believes the facility has been active on Earth for at least 100 years."
+    cue: 5401
+    responses:
+      - by: "The host"
+        stance: unresolved
+        text: "No knowledge of this."
+  - title: "The finer details"
+    by: "Anonymous 4chan poster"
+    text: "The facility is burger- or pear-shaped; its craft have gravity-manipulation engines that sometimes fail near the surface; there is a set ratio of manned to unmanned craft."
+    cue: 5480
+    responses:
+      - by: "The host"
+        stance: unresolved
+        text: "Zero knowledge: \"could be complete fabrication or completely true\"."
+  - title: "Shoot-downs and element 115"
+    by: "Anonymous 4chan poster"
+    text: "Attempts to shoot down the facility's craft have failed miserably, and all of them contain element 115."
+    cue: 5515
+    responses:
+      - by: "The host"
+        stance: challenges
+        text: "Heavily disagrees, and is \"highly suspicious\" of the element 115 claim."
+---
 ::
 
 ## The 2011 Clampdown and the 2017 Loss of Control
