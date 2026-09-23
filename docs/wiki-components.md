@@ -453,6 +453,7 @@ Props:
 | Prop | Type | Default | Notes |
 |---|---|---|---|
 | `root` | `OrgNode` | *(none — required for anything to render)* | Nothing renders if `root` is undefined |
+| `caption` | `string` | `''` | Optional line under the chart. Also printed under the chart in the exported PNG and shown in the Expand dialog's header |
 
 `OrgNode` schema (recursive):
 
@@ -475,6 +476,32 @@ root:
 Every `name` in the whole tree is resolved in a single batched request
 (`useWikiResolve`), so the chart doesn't fan out one network call per node.
 Scrolls horizontally on overflow rather than shrinking.
+
+**Toolbar: Expand and Download.** The chart sits in the shared
+`WikiDiagramFrame` (see "Supporting utilities"), which puts a small toolbar
+at the top-right of the chart:
+
+- **Expand** opens the chart in a near-fullscreen dialog, scaled down to fit
+  the window (never enlarged, never below 40%; past that it scrolls, and a
+  mouse can drag to pan). A `100%` / `Fit` toggle switches to actual size.
+  Esc, the backdrop and the close button dismiss it; focus is trapped inside
+  and returned to the Expand button. The button is hidden below 640px
+  (`sm`), where the dialog would be no bigger than the page.
+- **Download** is a split button. The main half saves a PNG. The arrow opens
+  a menu with *Download image* and *View as image*. *View as image* opens
+  the PNG in a new tab so an iPhone can long-press → Save to Photos rather
+  than going through Files. The tab is opened synchronously in the click
+  (popup-blocker safe) and filled with an `<img>` of a `data:` URL once the
+  render finishes. If the popup is blocked it falls back to a download.
+
+The PNG is rendered in whatever theme is live (every element's computed
+style is inlined, so `hsl(var(--…))` colours, category surfaces and
+connectors come out exactly as painted). It captures the whole chart even
+when the page has it scrolled or clipped, at 2× (lower only for a chart so
+big it would pass iOS's 16.7-megapixel canvas limit), on the page's own
+backdrop colour, with the caption (if any) and a one-line footer: the
+article title on the left, "UAP Gerb Knowledge Base" on the right. The file
+name is `<article-title>--<root-name>-org-chart.png`.
 
 Each node's box surface is tinted by its own resolved category
 (`categorySurface`), and the connector lines it draws down to its children
@@ -1272,6 +1299,55 @@ components.
 The recursive node renderer behind `::wiki-org-chart` (see gotchas 3 and 4
 above for why it lives where it does and how its `<table>` avoids the
 page's prose table styling).
+
+### Diagram controls: `app/app/components/wiki/DiagramFrame.vue`, `DiagramToolbar.vue`, `DiagramDialog.vue`
+
+The reusable Expand + Download controls, used today only by
+`::wiki-org-chart`. Auto-imported as `WikiDiagramFrame`,
+`WikiDiagramToolbar` and `WikiDiagramDialog` (gotcha 3). To give another
+diagram the same controls, wrap it:
+
+```vue
+<WikiDiagramFrame :label="`${name} org chart`" kind="org chart" :caption="caption">
+  <MyDiagram ... />
+</WikiDiagramFrame>
+```
+
+`label` is the dialog title and the second part of the file name. `kind`
+goes into the buttons' accessible names ("Expand org chart"). The default
+slot is rendered **twice**, inline and again inside the dialog, so the
+diagram must be a pure function of its props. The PNG is always taken from
+the inline copy's `.ufo-diagram-sheet` (`width: max-content`), which holds
+the diagram at its natural size however the page scrolls it. Any element
+marked `data-export-ignore` is left out of the image.
+
+`DiagramToolbar.vue` is stateless (props `label`, `expandable`, `busy`;
+emits `expand`, `download`, `view`). Its buttons copy the timeline
+chronometer's small-control look (26px, mono caps, hairline border,
+primary icon). The split button's menu is the shared `DropdownMenu`, so it
+is keyboard operable (Enter/Space/arrows/Esc).
+
+### `app/app/composables/useDiagramExport.ts`
+
+`useDiagramExport({ target, title, label, caption })` returns `{ busy,
+error, fileName, download, view }`. Rendering uses
+[`modern-screenshot`](https://github.com/qq15725/modern-screenshot)
+(zero dependencies, ~27 KB minified / ~10 KB gzipped). It is loaded with a
+dynamic `import()` on the first click, so it adds nothing to page load. It
+clones the node with computed styles inlined, and it embeds the web fonts
+(including the Google Fonts `@import` in `main.css`) as data URLs, so the
+canvas is never tainted. The composable then draws that onto a second
+canvas with the backdrop, padding, caption and footer, using canvas text
+in the theme's own fonts and colours. `view()` must be called directly
+from the click handler; see the org-chart notes above.
+
+### `app/app/utils/diagramExport.ts`
+
+The pure helpers behind the export and the dialog, unit-tested in
+`diagramExport.test.ts`: `exportFileName()` (slugged, de-duplicated parts
+joined with `--` and capped at 120 characters), `wrapLines()` (caption word
+wrap), `isTransparentColor()` (finding the backdrop colour) and
+`fitScale()` (the dialog's fit-to-window scale with its 40% floor).
 
 ### `app/app/components/wiki/CompareCell.vue`
 
