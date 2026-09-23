@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Frank Charles Carlucci III (1930–2018) was an American diplomat, politician, and businessman who served as the 15th United States Secretary of Defense (1987–1989) under President Ronald Reagan and as Deputy Director of the Central Intelligence Agency (1978–1981) under President Jimmy Carter. Carlucci also served as National Security Advisor (1986–1987) and held senior positions in the Department of Health, Education, and Welfare and the Office of Economic Opportunity. After leaving government, he became chairman of the [[Carlyle Group]], a major private equity firm with extensive defense industry investments.
+Frank Charles Carlucci III (1930–2018) was an American diplomat, politician, and businessman who served as the 16th United States Secretary of Defense (1987–1989) under President Ronald Reagan and as Deputy Director of the Central Intelligence Agency (1978–1981) under President Jimmy Carter. Carlucci also served as National Security Advisor (1986–1987) and held senior positions in the Department of Health, Education, and Welfare and the Office of Economic Opportunity. After leaving government, he became chairman of the [[Carlyle Group]], a major private equity firm with extensive defense industry investments.
 
 ## Wackenhut Board
 

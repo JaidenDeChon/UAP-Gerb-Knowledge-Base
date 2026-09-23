@@ -295,5 +295,20 @@
       "wiki-roster"
     ],
     "cues": "verified"
+  },
+  "wF07QMm6joE": {
+    "title": "Alien Reproduction Vehicle - the Testimony of Mark McCandlish",
+    "published": "2024-10-21",
+    "enriched_at": "2026-09-23T12:42:36Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-org-chart",
+      "wiki-callout",
+      "wiki-roster"
+    ],
+    "cues": "verified"
   }
 }

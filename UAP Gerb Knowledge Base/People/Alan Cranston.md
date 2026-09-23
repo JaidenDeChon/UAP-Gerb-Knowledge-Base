@@ -9,7 +9,7 @@ Alan MacGregor Cranston (1914–2000) was a Democratic US Senator from Californi
 
 ## Presence at the 1988 ARV Exhibit
 
-In his December 3, 1990 interview with [[William B. Scott]] of [[Aviation Week and Space Technology]], Sorenson specifically confirmed Cranston's presence among the approximately 30 senior individuals assembled for the private aerospace briefing. Also confirmed present was Congressman George E. Brown Jr., who at the time served as chairman of the Congressional Committee on Space Science and Advanced Technology. The event was styled as an investor briefing designed to attract black budget appropriations for classified aerospace development programs, making the presence of senior legislators significant.
+In his December 3, 1990 interview with [[William B. Scott]] of [[Aviation Week and Space Technology]], Sorenson specifically confirmed Cranston's presence among the approximately 30 senior individuals assembled for the private aerospace briefing. Sorenson also placed Congressman [[George E. Brown Jr.]] on the flight to the exhibit; the video describes him as then chairing a congressional space science committee. The event was styled as an investor briefing designed to attract black budget appropriations for classified aerospace development programs, making the presence of senior legislators significant.
 
 ## Sources
 
