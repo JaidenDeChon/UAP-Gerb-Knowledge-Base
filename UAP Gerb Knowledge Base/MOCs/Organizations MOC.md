@@ -112,8 +112,6 @@ tags:
 - [[Pentagon]]
 - [[Peruvian Air Force]]
 - [[Project Blue Book]]
-- [[Project Grudge]]
-- [[Project Sign]]
 - [[RAND Corporation]]
 - [[RGH UFOs]]
 - [[RS-33 (Gabinetto RS 33)]]
