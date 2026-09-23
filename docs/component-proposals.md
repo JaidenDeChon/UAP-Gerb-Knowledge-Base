@@ -29,7 +29,7 @@ Read this whole file before proposing, and never re-propose an idea already list
 
 ### Comparison matrix — `::wiki-compare`
 
-- **Status:** proposed (2026-09-23)
+- **Status:** approved (2026-09-23, approved by the user as proposed)
 - **Premise:** Videos constantly compare 2–5 subjects (witness accounts, craft, cases, programs) attribute by attribute. The kit has no component for a subjects-by-attributes grid, so these become plain Markdown tables.
 - **Needed by:** 1997 29 Palms / Castle (his craft vs the TR-3B), 1948 Aztec (four eyewitness accounts), 1950s Del Rio (the host's four points separating two cases), 1997 Peru (egg-shaped precedents), TR-3B (two kinds of ARV), Manhattan Project 2.0 (five security pillars across two programs), NRO (13 gatekeepers × offices), Coyame (six Wikipedia-edit names).
 - **What the reader sees:** A grid with a subject per column and an attribute per row. Column headers are entity links tinted by category. Each cell can carry a small marker (`same`, `differs`, `unknown`, `disputed`) so agreement and contradiction read at a glance, and an optional cue chip jumping the video to where it's discussed. Desktop: a table with a sticky attribute column. Phone: it pivots into one card per subject, so it never scrolls sideways.
@@ -47,7 +47,7 @@ Read this whole file before proposing, and never re-propose an idea already list
 
 ### Chain — `::wiki-chain`
 
-- **Status:** proposed (2026-09-23)
+- **Status:** approved (2026-09-23, approved by the user as proposed)
 - **Premise:** Many videos trace a *sequence of hand-offs*: a chain of custody (the object moved from A to B to C), a chain of consequence (X led to Y led to Z), or how an account travelled from witness to researcher to publication. These are linear or lightly branching, and the links between steps carry meaning ("by flatbed truck", "leaked to", "led to the audit").
 - **Needed by:** Coyame and Kecksburg (the object's custody), Del Rio (the Sandia thread), McCandlish (how the story travelled), Sarbacher (how his account reached the record), Northrop (TRW audit → settlement), Whistleblowers Vol.1 (Eisenhower losing control), Hidden Wing, SAIC (DSAI's seven-step trail), Sandia (AFSWP → DTRA).
 - **What the reader sees:** A row of step cards joined by arrows, with a short label on each arrow. Each step is an entity link or plain text, with an optional date and cue chip. A step can fork into two or three branches, then optionally rejoin. Desktop: horizontal, wrapping into rows. Phone: vertical.
@@ -70,7 +70,7 @@ Read this whole file before proposing, and never re-propose an idea already list
 
 ### Claim and response — `::wiki-claim`
 
-- **Status:** proposed (2026-09-23)
+- **Status:** approved (2026-09-23, approved by the user as proposed)
 - **Premise:** Nearly every video weighs a claim against challenges and replies: AARO vs Herrera, the case for and against Corso or Fouché, the prosecution vs the defence at the Aztec trial, the six MJ-12 objections and the Woods' answers, the four Kecksburg or Trepang explanations. The vault's editorial rule is "attribute, don't debunk", so *who says what* matters more than the verdict.
 - **Needed by:** Corso, Herrera, TR-3B / Fouché, Aztec, MJ-12, Kecksburg, USO (Trepang), Coyame (the soldiers' deaths), Edwards (the Blackjack reversal).
 - **What the reader sees:** A claim card naming who made it, when and where, with a cue chip. Under it sit responses, each labelled with its speaker (an entity link) and a stance tag (`supports`, `challenges`, `host's view`, `unresolved`). Stance tags are text, not colour alone. It stacks cleanly on a phone, and each claim stays grouped with its responses.
@@ -85,7 +85,7 @@ Read this whole file before proposing, and never re-propose an idea already list
 
 ### Location map — `::wiki-map`
 
-- **Status:** proposed (2026-09-23)
+- **Status:** approved (2026-09-23, approved by the user as proposed)
 - **Premise:** Almost every case is geographic (crash sites, bases, transport routes, test ranges), but no component shows *where*. The site's `/map` is a relationship graph, not a geographic map.
 - **Needed by:** Kecksburg (the crash site → Lockbourne → Wright-Patterson route), Coyame (Chihuahua → Fort Bliss → Atlanta), Peru (Iquitos, Pucallpa, Lima), 29 Palms (R2508 airspace), Dugway, DUMBs (the Antelope Valley network), Del Rio, the Navy sites in the US Navy video, and Crane.
 - **What the reader sees:** A compact outline map (US or world, zoomed to fit its pins) with numbered pins that link to their Location pages, optional lines for routes, and a legend listing the pins so everything is readable without the map. It's static and lightweight, with no tile server.
