@@ -23,7 +23,7 @@ tags:
 - BDUs (Battle Dress Uniform)
 - Bad Optics
 - [[Ballistic and Fragging Pattern Analysis]]
-- [[Beal Report]]
+- [[Bechtel Tunneling Report (1974)]]
 - [[Belgian UFO Wave]]
 - [[Bell or Acorn-Shaped Craft]]
 - [[Biefeld-Brown Effect]]
@@ -206,3 +206,4 @@ tags:
 - [[Yankee Blue]]
 - [[Zero Point Energy]]
 - [[TR-3B]]
+- [[Very High Speed Transit System (VHST)]]

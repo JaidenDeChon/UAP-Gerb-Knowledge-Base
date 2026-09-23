@@ -37,3 +37,4 @@ tags:
 - [[US Covert Craft Recovery in Mexico]]
 - [[Unknown Disaster-Area Operation]]
 - [[Operation Zodiac]]
+- [[Operation Paperclip]]

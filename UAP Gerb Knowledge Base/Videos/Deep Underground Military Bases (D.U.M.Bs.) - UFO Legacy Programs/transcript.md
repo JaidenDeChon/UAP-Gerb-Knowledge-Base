@@ -2,8 +2,8 @@
 title: "Transcript - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs"
 video_id: 7Ats0lIy3Lo
 url: https://www.youtube.com/watch?v=7Ats0lIy3Lo
-date: NA
-duration_seconds: 0
+date: 2025-03-18
+duration_seconds: 5918
 channel: UAP Gerb
 tags:
   - transcript

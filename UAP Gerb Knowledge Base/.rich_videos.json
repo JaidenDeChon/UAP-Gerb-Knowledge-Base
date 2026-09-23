@@ -216,5 +216,22 @@
       "wiki-roster"
     ],
     "cues": "verified"
+  },
+  "7Ats0lIy3Lo": {
+    "title": "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs",
+    "published": "2025-03-18",
+    "enriched_at": "2026-09-23T11:21:55Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-org-chart",
+      "wiki-roster",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-callout",
+      "wiki-cue",
+      "wiki-watch"
+    ],
+    "cues": "verified"
   }
 }
