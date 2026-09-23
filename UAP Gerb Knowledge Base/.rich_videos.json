@@ -41,5 +41,19 @@
       "wiki-callout"
     ],
     "cues": "verified"
+  },
+  "jR-h5p2bd-A": {
+    "title": "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs [VOL.1]",
+    "published": "2026-05-01",
+    "enriched_at": "2026-09-23T08:00:27Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-org-chart",
+      "wiki-roster",
+      "wiki-grid",
+      "wiki-panel"
+    ],
+    "cues": "verified"
   }
 }
