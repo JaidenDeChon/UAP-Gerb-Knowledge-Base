@@ -664,46 +664,68 @@ by `app/app/components/wiki/ChainSequence.vue`, auto-imported as
 `WikiChainSequence` and recursive for forks — gotcha 3; normalisation in
 `app/app/utils/chain.ts`, unit-tested in `chain.test.ts`)
 
-A sequence of hand-offs: step cards joined by arrows, each arrow carrying a
-short label. Use it for a **chain of custody** (the object moved from A to B
-to C), a **chain of consequence** (X led to Y led to Z), a **chain of
-transmission** (how an account travelled from witness to print), or a
-**lineage** (an agency succeeded by the next). These used to be drawn with
-`::wiki-org-chart`, which implies a command hierarchy that isn't there, has
-no labels on its links, and nests ever deeper as a chain gets longer. Keep
-`::wiki-org-chart` for true hierarchies: chains of command, ownership trees,
-program compartments, and trees that fan out widely (the Sarbacher article's
-four independent lines of transmission, each branching again, stay a tree).
+A sequence of hand-offs: numbered step cards down one vertical spine, each
+connector carrying a short label. Use it for a **chain of custody** (the
+object moved from A to B to C), a **chain of consequence** (X led to Y led to
+Z), a **chain of transmission** (how an account travelled from witness to
+print), or a **lineage** (an agency succeeded by the next). These used to be
+drawn with `::wiki-org-chart`, which implies a command hierarchy that isn't
+there, has no labels on its links, and nests ever deeper as a chain gets
+longer. Keep `::wiki-org-chart` for true hierarchies: chains of command,
+ownership trees, program compartments, and trees that fan out widely (the
+Sarbacher article's four independent lines of transmission, each branching
+again, stay a tree).
 
-What it renders:
+How to read it (the layout is the same at every width):
 
-- **Step cards.** A `name:` step is an entity link resolved in one batch
-  (`useWikiResolve`), its card tinted with the category surface plus a 3px
-  category spine, like `::wiki-roster`. A `text:` step is an abstract stage
-  with no page ("Army flatbed truck", "A 1990s Pentagon audit"): a neutral
-  card with a dashed border. Each card can carry a date kicker, a one-line
-  note and a cue chip (`WikiCue`, only when the block has `video=`).
-- **Labelled arrows.** `via:` on a step is the label on the arrow *into* it,
-  rendered as real text. An arrow with no `via` still carries the kind's verb
-  ("moved to", "led to", "passed to") for screen readers only.
-- **Forks.** An item with `fork:` splits the chain into two or more branches,
-  each drawn as a lane with an optional label ("The disc", "Everything
-  else"). Lanes sit side by side where there is room (two per row from a
-  30rem container, three from 40rem) and stack on a phone. Items after a fork
-  are where the branches **rejoin**; that arrow comes down out of the lanes.
-  Forks may nest, up to three deep, but keep chains light.
-- **Layout.** A container query on the figure (and on each lane): from 40rem
-  the steps run left to right and wrap into rows, an arrow wrapping together
-  with the card it points to; below that they stack vertically. Nothing ever
-  scrolls sideways.
+- **One spine, top to bottom.** Every step is a numbered node (1, 2, 3...) on
+  a single continuous line, its card beside it. The line only ever goes
+  down, so a step always comes from the node directly above it. A sequence is
+  never wrapped into rows (the old side-to-side layout did, and readers took
+  the rows for a grid in which one row came from another).
+- **The hand-off is written on the connector.** The words between two nodes
+  are that link's `via:`, with an arrowhead into the later step. A link with
+  no `via` shows the kind's verb in plain, quieter type ("moved to", "led
+  to", "passed to"), so every link still reads as a sentence.
+- **Forks are explicit junctions.** A diamond on the spine says where the
+  line divides and from which step: "From 2, splits into 2 branches", with
+  the fork's `via` under it. Each branch is a bounded lane headed by its
+  letter and label ("A · Fragments"), and its steps are numbered after the
+  letter (A1, A2; a fork nested in branch B gives lanes Ba, Bb and steps
+  Ba1...). Letters keep counting across the forks of one run, so no label
+  repeats. A fork that opens the chain says "Starts as N parallel branches".
+- **Rejoins are explicit too.** When the chain continues after a fork, a
+  second diamond names what comes back and where: "Branches A–C rejoin at 2"
+  ("converge" when the branches opened the chain). When nothing follows, the
+  branches simply end in their lanes.
+- **Lanes sit side by side only when all of them fit on one row** (two from
+  a 30rem container, three from 42rem, four from 56rem, measured on the
+  figure or, for a nested fork, on its lane): a bus drops from the junction
+  into every lane and, on a rejoin, a matching bus gathers them back. Five or
+  more lanes, or any that don't fit, stack: indented off the spine, which
+  runs down their left edge as a rail with an elbow into each lane (and back
+  out of each, on a rejoin). Lanes never wrap into a second row.
+
+What else it renders:
+
+- **Step cards.** Identical on the spine and in a lane. A `name:` step is an
+  entity link resolved in one batch (`useWikiResolve`), its card tinted with
+  the category surface plus a 3px category spine, like `::wiki-roster`. A
+  `text:` step is an abstract stage with no page ("Army flatbed truck", "A
+  1990s Pentagon audit"): a neutral card with a dashed border. Each card can
+  carry a date kicker, a one-line note and a cue chip (`WikiCue`, only when
+  the block has `video=`).
 - **Kind.** `kind` sets the kicker over the chain ("Chain of custody",
-  "Chain of consequence", "Chain of transmission") and the unspoken verb.
-  `transmission` draws dashed arrows (word of mouth); the others solid.
+  "Chain of consequence", "Chain of transmission") and the default verb.
+  `transmission` draws every line dashed (word of mouth); the others solid.
   `label` overrides the kicker, e.g. "Lineage" or "Chain of ownership".
 - **Accessibility.** The chain is an `<ol>` named by its kicker (and
-  caption); a fork is a `<ul>` of branches, each its own named `<ol>`, with a
-  visually hidden "Splits into N branches". Nothing animates, so there is
-  nothing to switch off for reduced motion.
+  caption); a fork is a `<ul>` named by its junction wording ("From 2,
+  splits into 2 branches"), each branch its own `<ol>` named "Branch A:
+  Fragments". Connector labels, node numbers and junction wording are all
+  real text; the lines, arrowheads and diamonds are decoration. Nothing
+  animates, so there is nothing to switch off for reduced motion. Theme
+  tokens only (lines are `--muted-foreground`), so all four themes work.
 
 Props:
 
@@ -728,22 +750,24 @@ steps:
     note: "Impact at about 4:45 p.m."  # optional one-liner
     cue: 177                           # optional, seconds into `video`
     cueApprox: true                    # optional; omit for a hand-verified cue
-  - via: "Hauled out under a tarp"     # label on the arrow INTO this step
+  - via: "Hauled out under a tarp"     # label on the connector INTO this step
     text: "Army flatbed truck"         # plain stage, never resolved (use instead of name)
-  - via: "Split after the crash"       # label on the arrow into the fork
+  - via: "Split after the crash"       # shown under the fork's split junction
     fork:                              # two or more branches
-      - label: "Fragments"             # optional lane label
+      - label: "Fragments"             # optional lane label (the lane letter is automatic)
         steps:
           - name: "Wright-Patterson Air Force Base"
       - - text: "Destroyed"            # a branch may also be a bare list of steps
-  - via: "Both recorded in"            # a step after a fork = the branches rejoin
+  - via: "Both recorded in"            # a step after a fork = the branches rejoin here
     text: "Blue Book file"
 ```
 
 Normalisation (`buildChain`): a step with neither `name` nor `text` is
 dropped; a fork keeps only branches with steps, and one left with a single
 branch is flattened into the chain in its place (its first step inheriting
-the fork's `via`); forks nested more than three deep are dropped.
+the fork's `via`); forks nested more than three deep are dropped. Then
+`numberChain` assigns the node and lane labels, and `splitText` / `joinText`
+word the junctions (all unit-tested).
 
 Worked example (from the 1965 Kecksburg article):
 
@@ -783,6 +807,14 @@ Authoring rules:
   AFSWP), the chain still runs oldest to newest; say so in the caption.
 - **`via` is the hand-off, `note` is the why.** Keep both to a line. The
   argument belongs in the prose around the block.
+- **Don't number steps yourself** or refer to "the second row": the nodes
+  are numbered for you (1, 2; A1, B2), and prose can cite those labels.
+- **Label every lane** when a fork has more than two branches, so the lane
+  headers carry meaning beyond their letters. A fork's `via` is the reason
+  for the split; leave it off rather than repeating "splits into".
+- **A fork's first steps hang off the lane header**, so a first step with no
+  `via` draws a bare connector (no default verb): the lane label or the
+  fork's `via` already says how it got there.
 - **Use `text:` for abstract stages**, not an invented page title; use
   `name:` only when a page exists (check it resolves, gotcha 2).
 - **Cues follow the timeline's rule** (gotcha 8): a cue without `cueApprox`

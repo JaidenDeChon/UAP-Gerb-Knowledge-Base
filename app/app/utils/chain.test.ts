@@ -1,5 +1,19 @@
 import { describe, expect, it } from 'vitest'
-import { buildChain, chainNames, MAX_CHAIN_DEPTH, normalizeItems, normalizeKind, type ChainFork, type ChainStep } from './chain'
+import {
+  branchLetter,
+  branchRange,
+  buildChain,
+  chainNames,
+  joinText,
+  MAX_CHAIN_DEPTH,
+  normalizeItems,
+  normalizeKind,
+  numberChain,
+  splitText,
+  type ChainFork,
+  type ChainItem,
+  type ChainStep,
+} from './chain'
 
 describe('normalizeKind', () => {
   it('accepts the three kinds case-insensitively and defaults to custody', () => {
@@ -110,5 +124,90 @@ describe('buildChain / chainNames', () => {
   it('is empty, not throwing, for missing input', () => {
     expect(buildChain(undefined, undefined)).toEqual({ kind: 'custody', items: [], names: [] })
     expect(buildChain('custody', 'nope').items).toEqual([])
+  })
+})
+
+describe('branchLetter', () => {
+  it('letters upper case on the main line, lower case one level in, upper again below', () => {
+    expect([0, 1, 2].map(i => branchLetter(i, 1))).toEqual(['A', 'B', 'C'])
+    expect(branchLetter(1, 2)).toBe('b')
+    expect(branchLetter(0, 3)).toBe('A')
+  })
+  it('doubles up past Z', () => {
+    expect(branchLetter(25, 1)).toBe('Z')
+    expect(branchLetter(26, 1)).toBe('AA')
+    expect(branchLetter(27, 1)).toBe('AB')
+  })
+})
+
+/** Flatten a numbered chain to its step and branch keys, in reading order. */
+function keys(items: ChainItem[]): string[] {
+  return items.flatMap(i => i.type === 'step'
+    ? [i.key!]
+    : i.branches.flatMap(b => [`[${b.key}]`, ...keys(b.items)]))
+}
+
+describe('numberChain', () => {
+  it('numbers main-line steps past forks, and letters branches across forks', () => {
+    const m = buildChain('custody', [
+      { name: 'a' },
+      { fork: [[{ name: 'b' }, { name: 'c' }], [{ name: 'd' }]] },
+      { name: 'e' },
+      { fork: [[{ name: 'f' }], [{ name: 'g' }]] },
+    ])
+    expect(keys(m.items)).toEqual(['1', '[A]', 'A1', 'A2', '[B]', 'B1', '2', '[C]', 'C1', '[D]', 'D1'])
+  })
+  it('prefixes nested branches with their parent branch', () => {
+    const m = buildChain('custody', [
+      { name: 'Coyame' },
+      { fork: [
+        [{ text: 'Destroyed' }],
+        [{ name: 'Atlanta' }, { fork: [[{ name: 'WPAFB' }], [{ text: 'Unnamed base' }]] }],
+      ] },
+    ])
+    expect(keys(m.items)).toEqual(['1', '[A]', 'A1', '[B]', 'B1', '[Ba]', 'Ba1', '[Bb]', 'Bb1'])
+  })
+  it('gives every step and branch a unique key', () => {
+    const m = buildChain('custody', [
+      { fork: [[{ name: 'a' }, { fork: [[{ name: 'b' }, { fork: [[{ name: 'c' }], [{ name: 'd' }]] }], [{ name: 'e' }]] }], [{ name: 'f' }]] },
+      { name: 'g' },
+    ])
+    const k = keys(m.items)
+    expect(new Set(k).size).toBe(k.length)
+    expect(k).toContain('AaA1')
+  })
+})
+
+describe('junction wording', () => {
+  const m = buildChain('custody', [
+    { fork: [[{ name: 'a' }], [{ name: 'b' }], [{ name: 'c' }]] },
+    { name: 'Fouche' },
+    { fork: [[{ name: 'd' }], [{ name: 'e' }]] },
+    { fork: [[{ name: 'f' }], [{ name: 'g' }]] },
+    { name: 'end' },
+    { fork: [[{ name: 'h' }], [{ name: 'i' }]] },
+  ])
+  it('names the step a fork splits from, or says it starts the run', () => {
+    expect(splitText(m.items, 0)).toBe('Starts as 3 parallel branches')
+    expect(splitText(m.items, 2)).toBe('From 1, splits into 2 branches')
+    expect(splitText(m.items, 3)).toBe('Then splits into 2 branches')
+    expect(splitText(m.items, 1)).toBe('')
+  })
+  it('names the branches that come back and the step they come back at', () => {
+    expect(joinText(m.items, 0)).toBe('Branches A–C converge at 1')
+    expect(joinText(m.items, 2)).toBe('Branches D and E rejoin')
+    expect(joinText(m.items, 3)).toBe('Branches F and G rejoin at 2')
+  })
+  it('says nothing when the branches end the chain', () => {
+    expect(joinText(m.items, 5)).toBe('')
+  })
+  it('ranges two branches with "and", more with a dash', () => {
+    expect(branchRange((m.items[0] as ChainFork).branches)).toBe('A–C')
+    expect(branchRange((m.items[2] as ChainFork).branches)).toBe('D and E')
+  })
+  it('numbers in place and returns the same array', () => {
+    const items = normalizeItems([{ name: 'x' }])
+    expect(numberChain(items)).toBe(items)
+    expect((items[0] as ChainStep).key).toBe('1')
   })
 })

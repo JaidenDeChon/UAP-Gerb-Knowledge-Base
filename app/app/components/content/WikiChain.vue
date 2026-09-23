@@ -9,14 +9,16 @@ import {
 /**
  * `::wiki-chain` — a sequence of hand-offs: a chain of custody (the object
  * moved from A to B to C), of consequence (X led to Y led to Z), or of
- * transmission (how an account travelled from witness to print). Step cards
- * joined by labelled arrows; a step can fork into parallel branches, which
- * may rejoin.
+ * transmission (how an account travelled from witness to print). Numbered
+ * step cards down one vertical spine, each connector carrying its hand-off
+ * label; a step can fork into lettered branches, which may rejoin.
  *
- * Marked up as an ordered list (nested lists for branches) so the order and
- * the arrow labels are read out as text. Wide containers lay the cards out in
- * a wrapping row; narrow ones (a phone, a grid column) stack them vertically.
- * Nothing animates, so there is nothing to switch off for reduced motion.
+ * The spine is vertical at every width, so a sequence never wraps into rows
+ * that could be misread as a grid. Only a fork's lanes sit side by side, and
+ * only when they all fit on one row. Marked up as an ordered list (nested
+ * lists for branches) so the order, connector labels and junction wording are
+ * read out as text. Nothing animates, so there is nothing to switch off for
+ * reduced motion.
  */
 const props = withDefaults(
   defineProps<{
@@ -64,9 +66,25 @@ const kindLabel = computed(() => props.label.trim() || CHAIN_KIND_LABEL[model.va
 .ufo-chain {
   container: chain / inline-size;
   margin: 1.75rem 0;
-  /* Arrows: --muted-foreground clears 3:1 as a non-text mark in every theme. */
+  /* Lines: --muted-foreground clears 3:1 as a non-text mark in every theme. */
   --chain-line: hsl(var(--muted-foreground));
   --chain-line-style: solid;
+  /* Spine geometry, shared by every nested run and lane (ChainSequence.vue). */
+  --chain-g: 2rem;
+  --chain-x: calc(var(--chain-g) / 2);
+  --chain-w: 2px;
+  --chain-node: 22px;
+  --chain-node-top: 9px;
+  --lane-pad: 10px;
+  --lane-gap: 10px;
+  --bus-gap: 20px;
+}
+/* On a phone, give nested lanes back a little width. */
+@media (max-width: 30rem) {
+  .ufo-chain {
+    --chain-g: 1.75rem;
+    --lane-pad: 7px;
+  }
 }
 /* An account passed by word of mouth gets a dashed line, a hand-off of an
    object or a consequence a solid one. The kicker says which in words. */
