@@ -83,23 +83,41 @@ const emit = defineEmits<{
 
 // A 1px sentinel just above the sticky bar leaves the viewport exactly when
 // the bar pins; that flips the hairline/blur on and tells the page's
-// reading-progress line to step aside.
+// reading-progress line to dim. The sentinel alone can't say when the bar
+// unpins at the far end, though: once the reader scrolls past the whole
+// timeline it is still above the top, which left the progress line hidden
+// for the rest of the page. So the timeline block is observed too, and the
+// bar only counts as pinned while that block is still on screen.
 const sentinel = ref<HTMLElement | null>(null)
 const pinned = useState<boolean>('ufo:chronometerPinned', () => false)
 let observer: IntersectionObserver | null = null
 
 onMounted(() => {
-  if (!sentinel.value || typeof IntersectionObserver === 'undefined') return
+  const mark = sentinel.value
+  if (!mark || typeof IntersectionObserver === 'undefined') return
+  // The chronometer renders straight into the timeline's root element.
+  const block = mark.parentElement
   // Observe against the scrolling <main>, not the viewport: <main> starts
   // below the 56px top bar and clips the sentinel at its own edge, so a
   // viewport-rooted observer would see the sentinel leave at top ≈ 55px and
   // conclude "not pinned" for a slow scroll while a fast one crossed 0.
-  const root = getScrollContainer() ?? sentinel.value.closest('main') ?? null
-  observer = new IntersectionObserver(([entry]) => {
-    pinned.value = !!entry && !entry.isIntersecting
-      && entry.boundingClientRect.top < (entry.rootBounds?.top ?? 0)
+  const root = getScrollContainer() ?? mark.closest('main') ?? null
+  let sentinelAbove = false
+  let blockOnScreen = true
+  observer = new IntersectionObserver((entries) => {
+    for (const entry of entries) {
+      if (entry.target === mark) {
+        sentinelAbove = !entry.isIntersecting
+          && entry.boundingClientRect.top < (entry.rootBounds?.top ?? 0)
+      }
+      else {
+        blockOnScreen = entry.isIntersecting
+      }
+    }
+    pinned.value = sentinelAbove && blockOnScreen
   }, { root, threshold: 0 })
-  observer.observe(sentinel.value)
+  observer.observe(mark)
+  if (block) observer.observe(block)
 })
 onBeforeUnmount(() => {
   observer?.disconnect()

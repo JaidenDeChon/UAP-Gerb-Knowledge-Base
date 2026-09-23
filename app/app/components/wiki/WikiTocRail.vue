@@ -68,10 +68,11 @@ onBeforeUnmount(() => observer?.disconnect())
 </template>
 
 <style scoped>
+/* Sticking is the page's job: its <aside> is the sticky box (see
+   wiki/[...slug].vue). This only caps the height, under the 56px header and
+   the aside's 40px top padding, so a long rail scrolls itself. */
 .ufo-toc {
-  position: sticky;
-  top: 24px;
-  max-height: calc(100vh - 80px);
+  max-height: calc(100vh - 56px - 40px - 24px);
   overflow-y: auto;
 }
 .ufo-toc-link {

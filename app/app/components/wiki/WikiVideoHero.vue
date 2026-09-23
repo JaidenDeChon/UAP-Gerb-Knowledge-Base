@@ -48,7 +48,6 @@ function raw(key: string): unknown {
 }
 
 const videoId = computed(() => String(raw('video_id') ?? '').trim())
-const channel = computed(() => String(raw('channel') ?? '').trim())
 const watchUrl = computed(() => {
   const url = String(raw('url') ?? '').trim()
   return /^https?:\/\//i.test(url) ? url : (videoId.value ? `https://www.youtube.com/watch?v=${videoId.value}` : '')
@@ -114,18 +113,10 @@ function play(): void {
           {{ lead }}
         </p>
 
-        <dl class="ufo-hero-hud mt-6" aria-label="Video details">
-          <div v-if="channel" class="ufo-hero-hud-item">
-            <dt>Channel</dt>
-            <dd>{{ channel }}</dd>
-          </div>
-          <div v-if="runtime" class="ufo-hero-hud-item">
+        <dl v-if="runtime" class="ufo-hero-hud mt-6" aria-label="Video details">
+          <div class="ufo-hero-hud-item">
             <dt>Runtime</dt>
             <dd class="tabular-nums">{{ runtime }}</dd>
-          </div>
-          <div v-if="videoId" class="ufo-hero-hud-item">
-            <dt>Video ID</dt>
-            <dd>{{ videoId }}</dd>
           </div>
         </dl>
 

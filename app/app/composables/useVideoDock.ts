@@ -32,23 +32,29 @@ export function defaultRect(vw: number, vh: number): DockRect {
  * rect at the origin rather than collapsing to 0x0, which would persist as
  * its own unreachable trap; `hydrate()` re-clamps once a real viewport exists.
  */
-export function clampRect(rect: DockRect, vw: number, vh: number): DockRect {
+export function clampRect(rect: DockRect, vw: number, vh: number, chrome = 0): DockRect {
   if (!Number.isFinite(vw) || !Number.isFinite(vh) || vw <= 0 || vh <= 0) {
     return { x: 0, y: 0, w: MIN_W, h: Math.round(MIN_W / RATIO) }
   }
+
+  // `rect.h` is the 16:9 video; the dock also stacks `chrome` px of title bar
+  // above it, and the whole dock is what has to fit. Leaving it out sat the
+  // dock a title bar's height too low, with its resize grip off the bottom.
+  const bar = Number.isFinite(chrome) && chrome > 0 ? Math.min(chrome, vh) : 0
+  const room = vh - bar
 
   // Fit width first, preferring the minimum width but never exceeding the viewport.
   let w = Math.min(vw, Math.max(MIN_W, rect.w))
   let h = Math.round(w / RATIO)
 
   // If the width-derived height overflows, bind on height instead and re-derive width.
-  if (h > vh) {
-    h = vh
+  if (h > room) {
+    h = Math.max(0, room)
     w = Math.min(vw, Math.round(h * RATIO))
   }
 
   const x = Math.max(0, Math.min(rect.x, Math.max(0, vw - w)))
-  const y = Math.max(0, Math.min(rect.y, Math.max(0, vh - h)))
+  const y = Math.max(0, Math.min(rect.y, Math.max(0, room - h)))
   return { x, y, w, h }
 }
 

@@ -84,13 +84,26 @@ export function useScrollCursor(listRoot: Ref<HTMLElement | null>, opts: ScrollC
   }
 
   // A scroll the composable did not start itself — scrollbar drag, a TOC or
-  // anchor link, browser find — counts as the reader moving. `scrollToIndex`
-  // opens a short window in which the container's own scroll events are
-  // expected and not reported as the reader's.
-  let programmaticUntil = 0
+  // anchor link, browser find — counts as the reader moving. While a
+  // `scrollToIndex` is in flight, the container's own scroll events are
+  // expected and not reported as the reader's. It used to be a fixed 1.5s
+  // window, but a smooth scroll across a long timeline outlasts that, so the
+  // tail of the page's own scroll read as the reader's and switched Follow
+  // off. Now the flight ends on `scrollend`, with a timeout sized to the
+  // distance as a fallback where that event isn't supported. Wheel, touch and
+  // key input still report the reader at once, mid-flight or not.
+  let programmatic = false
+  let programmaticTimer: ReturnType<typeof setTimeout> | undefined
+  function endProgrammatic(): void {
+    programmatic = false
+    clearTimeout(programmaticTimer)
+  }
   function onScroll(): void {
-    if (performance.now() > programmaticUntil) emitUserScroll()
+    if (!programmatic) emitUserScroll()
     if (!frame) frame = requestAnimationFrame(compute)
+  }
+  function onScrollEnd(): void {
+    if (programmatic) endProgrammatic()
   }
 
   /** Re-measure entry offsets (after a filter change, say). Coalesced to one frame. */
@@ -111,8 +124,13 @@ export function useScrollCursor(listRoot: Ref<HTMLElement | null>, opts: ScrollC
     if (!container) return
     const top = offsets[i]
     if (top === undefined) return
-    programmaticUntil = performance.now() + (behavior === 'smooth' ? 1500 : 200)
-    container.scrollTo({ top: Math.max(0, top - (opts.stickyOffset?.() ?? 0) - 12), behavior })
+    const target = Math.max(0, top - (opts.stickyOffset?.() ?? 0) - 12)
+    const distance = Math.abs(target - container.scrollTop)
+    programmatic = true
+    clearTimeout(programmaticTimer)
+    programmaticTimer = setTimeout(endProgrammatic,
+      behavior === 'smooth' ? Math.min(5000, 800 + distance * 0.6) : 250)
+    container.scrollTo({ top: target, behavior })
   }
 
   const SCROLL_KEYS = new Set(['ArrowUp', 'ArrowDown', 'PageUp', 'PageDown', 'Home', 'End', ' '])
@@ -141,6 +159,7 @@ export function useScrollCursor(listRoot: Ref<HTMLElement | null>, opts: ScrollC
     container = getScrollContainer() ?? listRoot.value?.closest('main') ?? null
     if (!container) return
     container.addEventListener('scroll', onScroll, { passive: true })
+    container.addEventListener('scrollend', onScrollEnd)
     container.addEventListener('wheel', emitUserScroll, { passive: true })
     container.addEventListener('touchmove', emitUserScroll, { passive: true })
     window.addEventListener('keydown', onKeydown)
@@ -154,6 +173,8 @@ export function useScrollCursor(listRoot: Ref<HTMLElement | null>, opts: ScrollC
 
   onBeforeUnmount(() => {
     container?.removeEventListener('scroll', onScroll)
+    container?.removeEventListener('scrollend', onScrollEnd)
+    clearTimeout(programmaticTimer)
     container?.removeEventListener('wheel', emitUserScroll)
     container?.removeEventListener('touchmove', emitUserScroll)
     window.removeEventListener('keydown', onKeydown)

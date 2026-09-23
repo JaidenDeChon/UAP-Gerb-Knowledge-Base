@@ -2,6 +2,18 @@ import { describe, expect, it } from 'vitest'
 import { clampRect, defaultRect } from './useVideoDock'
 
 describe('clampRect', () => {
+  it('leaves room for the title bar above the video', () => {
+    const r = clampRect({ x: 40, y: 880, w: 384, h: 216 }, 1440, 900, 38)
+    expect(r.y + r.h + 38).toBeLessThanOrEqual(900)
+    expect(r.h).toBe(216)
+  })
+
+  it('shrinks the video to fit under the title bar in a short viewport', () => {
+    const r = clampRect({ x: 0, y: 0, w: 1000, h: 563 }, 1440, 300, 38)
+    expect(r.h + 38).toBeLessThanOrEqual(300)
+    expect(r.y).toBe(0)
+  })
+
   it('leaves a rect that already fits untouched', () => {
     expect(clampRect({ x: 40, y: 40, w: 360, h: 203 }, 1440, 900))
       .toEqual({ x: 40, y: 40, w: 360, h: 203 })

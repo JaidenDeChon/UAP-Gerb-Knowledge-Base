@@ -693,7 +693,7 @@ the text column itself (`.ufo-hero-content::before`), so the fade sits just
 past the column's real right edge in both page layouts (left-set under the
 TOC rail, centred below `xl`) rather than at a fixed fraction of the hero.
 On phones the field is a band above the text instead. Then HUD frame
-corners, a HUD row (channel, runtime, id) and Play / Transcript / YouTube
+corners, a HUD row (runtime, when known) and Play / Transcript / YouTube
 actions. There is deliberately no thumbnail: the
 channel's thumbnails carry their own large text, which competes with the
 title. On those pages the local map moves to the end of the article, the

@@ -21,12 +21,32 @@ const handle = ref<HTMLElement | null>(null)
 // via a template ref, since the previous one may already be gone.
 const stage = ref<HTMLElement | null>(null)
 
+/** Everything the dock stacks around the video: title bar and borders. */
+function chromeHeight(): number {
+  const dockEl = handle.value?.parentElement
+  if (!dockEl) return 0
+  return Math.max(0, dockEl.offsetHeight - (stage.value?.offsetHeight ?? 0))
+}
+
+/** `clampRect` against the live viewport, leaving room for the chrome. */
+function fit(rect: typeof dock.rect.value): typeof dock.rect.value {
+  return clampRect(rect, window.innerWidth, window.innerHeight, chromeHeight())
+}
+
+/**
+ * True while the dock is being dragged or resized. The YouTube iframe is a
+ * separate document, so a fast pointer that lands on it stops reporting
+ * moves to this page and the dock drops out from under the cursor; the
+ * iframe ignores the pointer while this is set.
+ */
+const interacting = ref(false)
+
 const isMobile = ref(false)
 function syncViewport(): void {
   isMobile.value = window.innerWidth <= 900
   // A rect saved on a large display must not reopen offscreen on a smaller
   // one, so re-clamp against the live viewport on every resize too.
-  dock.rect.value = clampRect(dock.rect.value, window.innerWidth, window.innerHeight)
+  dock.rect.value = fit(dock.rect.value)
 }
 
 /* ---------------------------------------------------------------- drag -- */
@@ -35,11 +55,26 @@ const { x, y } = useDraggable(handle, {
   initialValue: { x: dock.rect.value.x, y: dock.rect.value.y },
   preventDefault: true,
   disabled: computed(() => isMobile.value),
-  onEnd() {
-    dock.rect.value = clampRect(
-      { ...dock.rect.value, x: x.value, y: y.value },
-      window.innerWidth, window.innerHeight,
-    )
+  onStart(_position, event) {
+    interacting.value = true
+    // Capture keeps the moves coming from the title bar even when the pointer
+    // outruns it, so a quick drag no longer loses its hold on the window.
+    try {
+      handle.value?.setPointerCapture(event.pointerId)
+    }
+    catch {
+      // Capture is a robustness measure, not a hard requirement.
+    }
+  },
+  onEnd(_position, event) {
+    interacting.value = false
+    try {
+      handle.value?.releasePointerCapture(event.pointerId)
+    }
+    catch {
+      // Already released — fine.
+    }
+    dock.rect.value = fit({ ...dock.rect.value, x: x.value, y: y.value })
     x.value = dock.rect.value.x
     y.value = dock.rect.value.y
     persistDock(dock.rect.value, dock.minimised.value)
@@ -51,6 +86,13 @@ const { x, y } = useDraggable(handle, {
 let resizing = false
 function startResize(event: PointerEvent): void {
   if (isMobile.value) return
+  // Consume the press: its default action starts a text selection, which then
+  // follows the cursor across the page for the whole resize. The class also
+  // suppresses selection page-wide while the drag lasts, and keeps the resize
+  // cursor even when the pointer strays off the grip.
+  event.preventDefault()
+  document.documentElement.classList.add('ufo-dock-resizing')
+  interacting.value = true
   resizing = true
   const startX = event.clientX
   const startW = dock.rect.value.w
@@ -70,13 +112,12 @@ function startResize(event: PointerEvent): void {
 
   function move(e: PointerEvent): void {
     if (!resizing) return
-    dock.rect.value = clampRect(
-      { ...dock.rect.value, x: x.value, y: y.value, w: startW + (e.clientX - startX) },
-      window.innerWidth, window.innerHeight,
-    )
+    dock.rect.value = fit({ ...dock.rect.value, x: x.value, y: y.value, w: startW + (e.clientX - startX) })
   }
   function up(): void {
     resizing = false
+    interacting.value = false
+    document.documentElement.classList.remove('ufo-dock-resizing')
     try {
       grip.releasePointerCapture(event.pointerId)
     }
@@ -228,6 +269,15 @@ watch(() => dock.pendingSeek.value, (seconds) => {
   if (taken !== null) seekPlayer(taken)
 })
 
+// The title bar only exists once the dock opens (it sits behind a v-if), so
+// re-fit then too, now that its height can be measured.
+watch(handle, (el) => {
+  if (!el) return
+  dock.rect.value = fit(dock.rect.value)
+  x.value = dock.rect.value.x
+  y.value = dock.rect.value.y
+})
+
 onMounted(() => {
   dock.hydrate()
   syncViewport()
@@ -249,10 +299,7 @@ function onKeydown(event: KeyboardEvent): void {
 /** Arrow keys nudge the dock when the drag handle has focus. */
 function nudge(dx: number, dy: number): void {
   if (isMobile.value) return
-  dock.rect.value = clampRect(
-    { ...dock.rect.value, x: x.value + dx, y: y.value + dy },
-    window.innerWidth, window.innerHeight,
-  )
+  dock.rect.value = fit({ ...dock.rect.value, x: x.value + dx, y: y.value + dy })
   x.value = dock.rect.value.x
   y.value = dock.rect.value.y
   persistDock(dock.rect.value, dock.minimised.value)
@@ -268,7 +315,7 @@ const style = computed(() => isMobile.value
     <div
       v-if="dock.visible.value && dock.videoId.value"
       class="ufo-dock"
-      :class="{ 'is-mobile': isMobile, 'is-min': dock.minimised.value }"
+      :class="{ 'is-mobile': isMobile, 'is-min': dock.minimised.value, 'is-interacting': interacting }"
       :style="style"
       role="complementary"
       aria-label="Video player"
@@ -388,7 +435,12 @@ const style = computed(() => isMobile.value
   border: 0;
 }
 
+.ufo-dock.is-interacting .ufo-dock-stage {
+  pointer-events: none;
+}
+
 .ufo-dock-grip {
+  touch-action: none;
   position: absolute;
   right: 0;
   bottom: 0;
@@ -425,5 +477,14 @@ const style = computed(() => isMobile.value
   .ufo-dock-leave-active {
     transition: none;
   }
+}
+</style>
+
+<style>
+/* Page-wide while the dock is being resized (set in startResize). */
+.ufo-dock-resizing,
+.ufo-dock-resizing * {
+  user-select: none !important;
+  cursor: nwse-resize !important;
 }
 </style>
