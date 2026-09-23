@@ -295,6 +295,31 @@ McCandlish had planned to attend the Norton air show on 12 November 1988 with So
 
 Sorenson's client was a tall, wealthy white man with glasses and an Italian-sounding name, and a former Secretary or Under Secretary of Defense. Around the time of the Thunderbirds flyby, he led Sorenson away from the crowd. McCandlish first assumed they went to a hangar at Norton. Sorenson later said they boarded a military Boeing 727 with other military and civilian guests and flew north to Air Force Plant 42 at [[Palmdale, California|Palmdale]]. The hangar there, the host says, was where Lockheed originally built the L-1011 TriStar, and it now serves the [[Lockheed Martin Skunk Works|Skunk Works]]. According to Sorenson, Senator [[Alan Cranston]] of California and Congressman [[George E. Brown Jr.]] were on the flight. The video describes Brown as then chairing a congressional space science committee. At the door the client warned Sorenson that there were aircraft he was not cleared to see. He told him to walk around, listen and say nothing to anybody.
 
+::wiki-map{video="wF07QMm6joE" video-title="Alien Reproduction Vehicle - the Testimony of Mark McCandlish"}
+---
+label: "From the air show to the exhibit"
+caption: "Sorenson's reported flight from the Norton air show to the hangar at Plant 42, and the host's point that Plant 42 sits under 30 miles from Edwards. The dashed line joins the two airfields; it is not a flight path."
+pins:
+  - name: "Norton Air Force Base"
+    label: "Norton"
+    date: "12 Nov 1988"
+    note: "The air show, where Sorenson's client led him away around the Thunderbirds flyby."
+    cue: 411
+  - name: "Air Force Plant 42"
+    label: "Plant 42"
+    note: "The Palmdale hangar where the exhibit was shown; home of a large Northrop Grumman facility and the Skunk Works."
+    cue: 429
+  - name: "Edwards Air Force Base"
+    label: "Edwards AFB"
+    note: "The base the host believes runs an ARV reverse-engineering and test program."
+    cue: 2887
+routes:
+  - path: [1, 2]
+    label: "Military Boeing 727 with civilian and military guests (reported)"
+    style: dashed
+---
+::
+
 Sorenson never named the client, and McCandlish never confirmed it publicly, to protect him. But McCandlish concluded with high confidence that the client was Frank Carlucci, the 16th US Secretary of Defense. The host adds that Carlucci chaired the [[Carlyle Group]] from 1992 to 2003. The firm was founded in 1987 under David Rubenstein and drew senior statesmen such as George H. W. Bush, James Baker and John Major. It bought the electronics division of General Dynamics and invested in [[Northrop Grumman]]. From 1999 to 2001 it owned [[EG&G]], a company tied to [[Bob Lazar]]'s testimony, whose car park the host names as the site of the meeting behind the [[Wilson-Davis Memo]].
 
 The host also points to Carlyle ties of [[Ronald S. Moultrie]]. He pairs Moultrie with his friend [[Sean Kirkpatrick]], and accuses Moultrie of spreading disinformation by denying UAP at the 2022 hearing. Moultrie sat on the board of iCapital, a Carlyle-backed firm, and on the board of Better Angels, which Rubenstein funds.
@@ -395,16 +420,49 @@ There was no food, compass or navigation chart aboard. The films showed jerky, s
 
 The host thinks Scott never published this part because, as the notes record, he found it hard to believe that flying saucers capable of light speed had been copied from other beings' technology dating to 1947. The notes also say the program's leaders wanted to build a fleet and hoped the new Bush administration would be as keen as Reagan's. They never said who owned the craft or whom they reported to. The notes include a sketch of the exhibit that the host believes Sorenson drew. His conclusion is that Sorenson had confirmed the story in his own words eleven years before McCandlish made the term famous.
 
-Comparing the two accounts, the host finds only two differences, and neither seems serious to him:
+Comparing the two accounts, the host stresses how much Sorenson's own words confirm, and finds only two differences, neither of which seems serious to him:
 
-::wiki-grid{cols=2}
-::wiki-panel{title="What the craft were made of"}
-In his secret space program talk, McCandlish said the craft used little metal and were mostly composites. Sorenson told Scott a lot of metal was used. The host suggests the story evolved, or that Sorenson took the filaments and composites for metal.
+::wiki-compare{video="wF07QMm6joE" video-title="Alien Reproduction Vehicle - the Testimony of Mark McCandlish"}
+---
+caption: "McCandlish's retellings set against Sorenson's own 1990 interview with William B. Scott. Markers show where they agree or differ."
+attributeLabel: "Point"
+subjects:
+  - name: "Mark McCandlish"
+    note: "Retold from 1988 to 2015"
+  - name: "Brad Sorenson"
+    note: "Aviation Week interview, 3 Dec 1990"
+rows:
+  - attribute: "Guests on the flight"
+    cells:
+      - { text: "Senator Alan Cranston and Congressman George E. Brown Jr.", mark: same, cue: 461 }
+      - { text: "Confirmed Cranston's presence", mark: same, cue: 1491 }
+  - attribute: "The front of the hangar"
+    cells:
+      - { text: "The losing B-2 entrant, stealth prototypes and the Aurora", mark: same, cue: 612 }
+      - { text: "Confirmed the losing B-2 prototypes and the unmanned Aurora", mark: same, cue: 1513 }
+  - attribute: "The saucers"
+    cells:
+      - { text: "Three, identical in design but different in size", mark: same }
+      - { text: "Daddy, Mommy and Baby Bear, about 20, 60 and 120 ft across", mark: same, cue: 1580 }
+  - attribute: "The ARV drawing"
+    cells:
+      - { text: "Drawn from Sorenson's account, March 1989", cue: 1946 }
+      - { text: "So accurate there was little he could add", mark: same, cue: 1570 }
+  - attribute: "Materials"
+    cue: 3955
+    cells:
+      - { text: "Little metal; mostly composites", mark: differs }
+      - { text: "\"A lot of metal\"", mark: differs }
+  - attribute: "Generals"
+    note: "An apparent difference the host reconciles"
+    cue: 3975
+    cells:
+      - { text: "A three-star general presented the ARVs and their flight on videotape", cue: 803 }
+      - { text: "No generals in the first area, with the terrestrial craft; did not say for the ARVs", cue: 1468 }
+---
 ::
-::wiki-panel{title="Whether generals were present" tone="accent"}
-Sorenson told Scott he saw no stars in the room, but McCandlish said a three-star general demonstrated the ARV's flight on videotape. The host notes that Sorenson's remark referred to the first area, with the terrestrial craft. He never said whether generals attended the ARV presentation.
-::
-::
+
+The host suggests the story of the materials evolved, or that Sorenson took the crew compartment's filaments and composites for metal. On the generals, Sorenson's remark referred only to the first area; he never said whether generals attended the ARV presentation.
 
 ## How the Story Travelled
 

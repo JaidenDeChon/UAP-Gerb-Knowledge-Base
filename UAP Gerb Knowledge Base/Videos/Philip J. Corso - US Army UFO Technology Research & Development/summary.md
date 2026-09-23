@@ -365,6 +365,31 @@ Shortly before Corso's death in July 1998, [[Citizens Against UFO Secrecy (CAUS)
 
 In interview footage, Corso tells the story himself. He was post duty officer one night and checked the veterinary section. A master sergeant he knew offered to show him something sensitive. There were five crates. Corso lifted the lid of one and looked for 10 to 15 seconds at a small grey body floating in fluid, with spindly arms and a strange head. At first he took it for a child. The sergeant told him the crates had come on five trucks from an airfield in New Mexico, bound for [[Wright-Patterson Air Force Base]]. They were travelling on Route 40, then the only cross-country route. Corso's official records do place him at Fort Riley on that date.
 
+::wiki-map{video="_sv0Otxtcn4" video-title="Philip J. Corso - US Army UFO Technology Research & Development"}
+---
+label: "The convoy's route, as Corso was told it"
+caption: "Where the sergeant said the five trucks came from and were going. Corso names only \"an airfield in New Mexico\", which he elsewhere ties to Roswell; the dashed line joins the three places and does not trace Route 40."
+pins:
+  - name: "Roswell, New Mexico"
+    label: "Roswell"
+    note: "The \"airfield in New Mexico\"; Corso says the material came from Roswell, though some \"might be another crash\"."
+    cue: 138
+  - name: "Fort Riley, Kansas"
+    label: "Fort Riley"
+    date: "c. 6 Jul 1947"
+    note: "Where Corso, as post duty officer, saw the body in the veterinary section."
+    cue: 1036
+  - name: "Wright-Patterson Air Force Base"
+    label: "Wright-Patterson"
+    note: "The convoy's destination, by Route 40."
+    cue: 1045
+routes:
+  - path: [1, 2, 3]
+    label: "Five trucks, by Route 40 (reported)"
+    style: dashed
+---
+::
+
 The host picks out two details:
 
 - Roswell accounts usually say the wreckage was flown to Wright-Patterson. That raises the question of whether the bodies went separately by road. Truck convoys also appear in other retrieval stories, such as [[1953 Kingman, Arizona Crash Retrieval|Kingman]] and [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg]].
@@ -377,24 +402,57 @@ The host picks out two details:
 
 The host treats the difference between Corso's two texts as the key to judging him. Philip Corso Jr. had not planned to publish his father's notes. He did so because his father had hated the bestseller. According to his son, Corso went through the book marking everything he had not said or did not like, and gave up halfway through. Others who saw the manuscript before Corso died, John B. Alexander among them, also noticed sensational details in the book that are not in the manuscript.
 
-::wiki-grid{cols=2}
-::wiki-panel{title="Dawn of a New Age (manuscript)" tone="accent"}
-- Corso's original notes, finished before the book came out. Released in Italy in 2003 and in the US in 2011, both after his death.
-- 176 pages. The host calls it "a dreadful read" that repeats most points eight or nine times, but says it gives an unfiltered look at Corso's experiences.
-- Mentions Corso's relationship with Senator [[Strom Thurmond]], but claims no endorsement from him.
-- Says Corso knew of the Eisenhower Briefing Document but never saw it at the NSC or the White House.
-- Has no scene of Corso intimidating a CIA official, and no reconstruction of the Roswell crash.
-- Leaves out the Fort Riley body, which appears in the affidavit.
+The host picks out the differences point by point:
+
+::wiki-compare{video="_sv0Otxtcn4" video-title="Philip J. Corso - US Army UFO Technology Research & Development"}
+---
+caption: "Corso's two texts, as the video compares them. The host works only from the manuscript."
+attributeLabel: "Point"
+subjects:
+  - name: "Dawn of a New Age"
+    note: "Corso's manuscript; published 2003 (Italy) and 2011 (US)"
+  - name: "The Day After Roswell"
+    note: "The 1997 bestseller, with William J. Birnes"
+rows:
+  - attribute: "Written"
+    note: "and how it was edited"
+    cells:
+      - "Corso's own notes, finished before the book; released after his death"
+      - { text: "Published for Roswell's 50th anniversary; Corso allegedly had 24 hours to edit it", cue: 4156 }
+  - attribute: "Length"
+    cue: 348
+    cells:
+      - "176 pages, repeating most points eight or nine times"
+      - "130 pages longer, on roughly the same ground"
+  - attribute: "The CIA scene"
+    cue: 358
+    cells:
+      - "No such scene"
+      - "Corso intimidates the CIA's director of covert operations"
+  - attribute: "Strom Thurmond"
+    cue: 370
+    cells:
+      - "Mentions Corso's relationship with him; claims no endorsement"
+      - "Shipped with his foreword, withdrawn once he learned the subject, forcing a reprint"
+  - attribute: "The Roswell crash"
+    cue: 389
+    cells:
+      - "No reconstruction"
+      - "Opens with a detailed chapter, presented as accurate, on a crash Corso did not witness"
+  - attribute: "Majestic 12"
+    cue: 4079
+    cells:
+      - "Knew of the Eisenhower Briefing Document but never saw it at the NSC or the White House"
+      - "Places Corso alongside Roscoe Hillenkoetter and the alleged MJ-12 roster"
+  - attribute: "The Fort Riley body"
+    note: "also in the 1998 affidavit"
+    cells:
+      - "Not mentioned"
+      - "Described"
+---
 ::
-::wiki-panel{title="The Day After Roswell (1997 book)"}
-- Co-written with William J. Birnes and published for Roswell's 50th anniversary. The video says Corso was given only 24 hours to edit it.
-- 130 pages longer than the manuscript, while covering roughly the same ground.
-- Adds a scene in which Corso intimidates the CIA's director of covert operations.
-- Opens with a detailed chapter on the Roswell crash, which Corso did not witness, and presents it as accurate.
-- Places Corso alongside Roscoe Hillenkoetter and the alleged Majestic 12 roster.
-- Shipped with a foreword by Strom Thurmond. Thurmond withdrew it angrily once he learned the book was about UFOs, which forced an early reprint.
-::
-::
+
+The host calls the manuscript "a dreadful read", but values it as an unfiltered look at Corso's experiences.
 
 The host notes that nearly all criticism of Corso is aimed at the book and its claims about seeding technology. Even so, Alexander, Vallee and other critics agree that Corso's story never changed. However often he told it, he repeated the same details. In the host's words, he "sounded like a tape recorder".
 
@@ -474,21 +532,41 @@ Subjects 1, 3 and 4 were ordinary work. The second, Corso wrote, was a different
 
 This is the point the host most wants viewers to take away: the division Corso ran belonged to the Army, not the Air Force.
 
-::wiki-grid{cols=2}
-::wiki-panel{title="Army Foreign Technology Division" tone="accent"}
-- Created by Trudeau in the Office of the Chief of Army R&D at the Pentagon, and headed by Corso from 1960.
-- Its assigned subjects included "developments not of this world".
-- Almost no trace outside Corso's own military records: no FOIA releases, newspaper stories or articles.
-- John B. Alexander confirmed that it was formed as Corso said, then disappeared soon after he retired. After Trudeau, General Dwight E. Beach took over Army R&D, and nothing more is heard of the division.
-- The host compares it to the Army's [[Interplanetary Phenomenon Unit]], which is known only through the Army's institutional memory. He has filed FOIA requests of his own.
+::wiki-compare{video="_sv0Otxtcn4" video-title="Philip J. Corso - US Army UFO Technology Research & Development"}
+---
+caption: "The two Foreign Technology Divisions the video separates. Only the Army's was Corso's."
+attributeLabel: "Point"
+subjects:
+  - name: "U.S. Army Foreign Technology Division"
+    note: "Headed by Corso from 1960"
+  - name: "Air Force Foreign Technology Division"
+    note: "Wright-Patterson"
+rows:
+  - attribute: "Parent"
+    cells:
+      - "Office of the Chief of Army R&D, the Pentagon; created by Trudeau"
+      - { text: "Air Force Systems Command; grew out of the Air Technical Intelligence Center", cue: 3615 }
+  - attribute: "Years"
+    cells:
+      - { text: "From 1960; vanished soon after Corso retired, once Dwight E. Beach took over Army R&D", cue: 3671 }
+      - { text: "1961 to 1991", cue: 3603 }
+  - attribute: "Remit"
+    cells:
+      - "Included "developments not of this world""
+      - { text: "Reportedly recovered Russian MiGs; perhaps, the host thinks, technologies of unknown origin too", cue: 3622 }
+  - attribute: "Paper trail"
+    cue: 3691
+    cells:
+      - "Corso's military records only: no FOIA releases, newspaper stories or articles"
+      - "Widely documented"
+  - attribute: "In Corso's account"
+    cells:
+      - "His own office"
+      - { text: "Where Project Moondust and Operation Bluefly reported materials and intelligence", cue: 3745 }
+---
 ::
-::wiki-panel{title="Air Force Foreign Technology Division"}
-- Grew out of the [[Air Force Technical Intelligence Center|Air Technical Intelligence Center]] in 1961 under [[Air Force Systems Command]], based at [[Wright-Patterson Air Force Base]].
-- Operated from 1961 to 1991 and is widely documented.
-- Reportedly exploited recovered Russian MiGs. The host thinks it may also have handled technologies of unknown origin, in parallel with the Army office.
-- According to Corso, [[Project Moondust]] and [[Operation Bluefly]] reported materials and intelligence directly to it.
-::
-::
+
+John B. Alexander confirmed that the Army division was formed as Corso said. The host compares its disappearance to the Army's [[Interplanetary Phenomenon Unit]], known only through the Army's institutional memory, and has filed FOIA requests of his own. He thinks the Air Force division, set up under [[Air Force Systems Command]] from the [[Air Force Technical Intelligence Center|Air Technical Intelligence Center]] at [[Wright-Patterson Air Force Base]], may have handled technologies of unknown origin in parallel with the Army office; according to Corso, [[Project Moondust]] and [[Operation Bluefly]] reported to it.
 
 If Corso's account is true, the host concludes, the Army ran a real program that stayed hidden from the public because all the attention went to its larger Air Force namesake.
 

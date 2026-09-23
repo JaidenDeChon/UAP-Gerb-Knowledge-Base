@@ -1,5 +1,6 @@
 ---
 name: "Fort Riley, Kansas"
+coordinates: [39.1, -96.8167]
 tags:
   - location
 ---

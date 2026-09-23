@@ -312,9 +312,12 @@
       "wiki-cue",
       "wiki-callout",
       "wiki-grid",
-      "wiki-panel"
+      "wiki-panel",
+      "wiki-compare",
+      "wiki-map"
     ],
-    "cues": "verified"
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
   },
   "_sv0Otxtcn4": {
     "title": "Philip J. Corso - US Army UFO Technology Research & Development",
@@ -324,13 +327,14 @@
       "wiki-stat-strip",
       "wiki-timeline",
       "wiki-org-chart",
-      "wiki-grid",
-      "wiki-panel",
       "wiki-callout",
       "wiki-cue",
-      "wiki-claim"
+      "wiki-claim",
+      "wiki-compare",
+      "wiki-map"
     ],
-    "cues": "verified"
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
   },
   "B7JP0uX0GwY": {
     "title": "Alien Reproduction Vehicle - TR-3B and the Flying Triangles",
@@ -346,9 +350,11 @@
       "wiki-roster",
       "wiki-compare",
       "wiki-cue",
-      "wiki-claim"
+      "wiki-claim",
+      "wiki-chain"
     ],
-    "cues": "verified"
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
   },
   "wF07QMm6joE": {
     "title": "Alien Reproduction Vehicle - the Testimony of Mark McCandlish",
@@ -362,9 +368,12 @@
       "wiki-org-chart",
       "wiki-chain",
       "wiki-callout",
-      "wiki-roster"
+      "wiki-roster",
+      "wiki-compare",
+      "wiki-map"
     ],
-    "cues": "verified"
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
   },
   "U_LSMLGBDNg": {
     "title": "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2]",

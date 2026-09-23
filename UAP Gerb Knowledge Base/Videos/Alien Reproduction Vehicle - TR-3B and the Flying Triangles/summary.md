@@ -410,13 +410,37 @@ events:
 
 The video opens on the Immaculate Constellation report, entered into the congressional record on 13 November 2024, whose historical data reaches back to 2009. Among its rarest configurations are two triangles seen by US Indo-Pacific Command (INDOPACOM), which the report labels reproduction craft. The host stresses that the term ARV did not begin with [[Steven Greer]] in 2001 but can be traced to Sorenson's 1988 account. He plays Representative [[Eric Burlison]] saying he had heard the term before from people in the UFO community who distinguish craft that are truly extraterrestrial from craft "we have reverse engineered", and that what makes the report unique is its focus on those reproductions.
 
-::wiki-grid{cols=2}
-::wiki-panel{title="The rotating triangle" tone="accent"}
-A large equilateral triangle appeared directly over intelligence-collecting vessels, hovering and rotating slowly 500 to 1,000 metres above the ocean. Three bright points sat at its bottom corners, with a horizontal bar of sweeping lights partly visible. Collected intelligence, the report says, revealed it to be a reproduction craft.
-::
-::wiki-panel{title="The fighter-sized triangle"}
-A second INDOPACOM account describes an equilateral ARV triangle "of unknown origin", about the size of a fighter jet, hovering less than 200 metres above a vessel at a slight upward angle. At least two lights were seen, with at least one more hidden on the underside.
-::
+::wiki-compare{video="B7JP0uX0GwY" video-title="Alien Reproduction Vehicle - TR-3B and the Flying Triangles"}
+---
+caption: "The two INDOPACOM triangles the Immaculate Constellation report describes, as the video reads them."
+attributeLabel: "Detail"
+subjects:
+  - name: "The rotating triangle"
+    note: "Over intelligence-collecting vessels"
+  - name: "The fighter-sized triangle"
+    note: "Over a vessel"
+rows:
+  - attribute: "Shape"
+    cells:
+      - { text: "Large equilateral triangle", mark: same, cue: 249 }
+      - { text: "Equilateral, about the size of a fighter jet", mark: same, cue: 281 }
+  - attribute: "Height"
+    cells:
+      - "500 to 1,000 metres above the ocean"
+      - "Less than 200 metres above the vessel"
+  - attribute: "Motion"
+    cells:
+      - "Hovering and rotating slowly"
+      - "Hovering at a slight upward angle"
+  - attribute: "Lights"
+    cells:
+      - "Three bright points at the bottom corners; a horizontal bar of sweeping lights, partly seen"
+      - "At least two, with at least one more hidden on the underside"
+  - attribute: "The report's label"
+    cells:
+      - { text: "A reproduction craft, per collected intelligence", mark: same, cue: 274 }
+      - { text: "An ARV \"of unknown origin\"", mark: same, cue: 281 }
+---
 ::
 
 The host then sets out how rare, and how clustered in time, the shape is:
@@ -442,27 +466,44 @@ Fouché also said that [[EG&G]] not only provided classified research for black 
 
 Fouché's TR-3B material came mostly from five friends in the Defense Department and black programs, who agreed at a table in a dark corner of the Silver Dollar Saloon in Las Vegas that he could write up their secrets. The host is explicit that, apart from his three sightings, Fouché did not work on the TR-3B, so much of his account is secondhand.
 
-::wiki-org-chart
+::wiki-chain{video="B7JP0uX0GwY" video-title="Alien Reproduction Vehicle - TR-3B and the Flying Triangles"}
 ---
-root:
-  name: Edgar Fouche
-  label: "Air Force Master Sergeant; went public in 1998"
-  note: "Relayed what the five told him, plus his own time at Groom Lake and three sightings."
-  children:
-    - name: Gerald
-      label: "NSA investigator; TREAT team member"
-      note: "DOE and NSA cover; watched cleared staff at the Nevada Test Site, Nellis, Los Alamos, Sandia and Area 51. Died of a heart attack a year after their last meeting."
-    - name: "S."
-      label: "NSA electronics intelligence"
-      note: "Later a contractor for the company that built the TR-3B's magnetic field disruptor."
-    - name: Doc
-      label: "SR-71 pilot; Edwards test pilot"
-    - name: Dell
-      label: "Served with Fouché in Vietnam"
-      note: "His father worked for the NSA for over 25 years and sent Fouché Majestic 12 documents."
-    - name: Bud
-      label: "DOD contractor electronics engineer"
-      note: "Top-secret R&D on electronic countermeasures."
+kind: transmission
+caption: "How the TR-3B account reached the public: five friends' secrets, relayed by Fouché. Apart from his three sightings, everything he said about the craft came this way."
+steps:
+  - fork:
+      - label: "Gerald"
+        steps:
+          - text: "NSA investigator; TREAT team member"
+            note: "DOE and NSA cover; watched cleared staff at the Nevada Test Site, Nellis, Los Alamos, Sandia and Area 51. Found dead of a heart attack a year after their last meeting."
+            cue: 900
+      - label: "S."
+        steps:
+          - text: "NSA electronics intelligence"
+            note: "Later a contractor for the company that built the TR-3B's magnetic field disruptor."
+            cue: 1121
+      - label: "Doc"
+        steps:
+          - text: "SR-71 pilot; Edwards test pilot"
+            cue: 1132
+      - label: "Dell"
+        steps:
+          - text: "Served with Fouché in Vietnam"
+            note: "His father worked for the NSA for over 25 years and sent Fouché Majestic 12 documents."
+            cue: 1155
+      - label: "Bud"
+        steps:
+          - text: "DOD contractor electronics engineer"
+            note: "Top-secret R&D on electronic countermeasures."
+            cue: 1165
+  - via: "Agreed he could write up their secrets, at the Silver Dollar Saloon, Las Vegas"
+    name: "Edgar Fouche"
+    note: "Air Force master sergeant; adds his own ten days at Groom Lake and three sightings."
+    cue: 1186
+  - via: "Went public"
+    text: "Alien Rapture and his 1998 conference presentation"
+    date: "1998"
+    cue: 796
 ---
 ::
 
@@ -638,32 +679,37 @@ Were these craft human-made, the host asks: prototypes or iterations of the TR-3
 
 A second line of research, independent of Fouché, leads to a very similar reverse-engineered triangle that disgruntled engineers called the XF-131 Super Sentinel. [[Bill McDonald]] is an old-school commercial illustrator, concept designer and forensic reconstruction artist who is now a sworn law-enforcement officer. The channel has featured his drawings of the EBE-1 and EBE-2 entities with [[Robert Wood]], the Roswell craft and the [[1976 Tehran UFO Incident|1976 Tehran incident]]. The host says he has spoken with McDonald and holds him in very high regard. In the spring of 1992, McDonald met four veteran engineers at a Denny's in the [[Antelope Valley]] who were fed up with the security impositions on their lives. Because of extreme compartmentalisation, each held only a piece of the name of the triangle valley residents had been reporting for years. They wanted their story told without threats to their lives, jail or the loss of their pensions, which the host compares to the position of today's UAP whistleblowers.
 
-::wiki-org-chart
+::wiki-chain{video="B7JP0uX0GwY" video-title="Alien Reproduction Vehicle - TR-3B and the Flying Triangles"}
 ---
-root:
-  name: Bill McDonald
-  label: "Forensic illustrator; heard the account, spring 1992"
-  note: "Has sworn to protect the engineers' identities, and maintains they told the truth."
-  children:
-    - name: "Two Northrop engineers"
-      label: "Source"
-      children:
-        - name: Tejon Ranch
-          label: "Their facility ('Tehachapi' to researchers)"
-    - name: "Two Lockheed engineers"
-      label: "Source"
-      note: "Said they worked for Ben Rich at the Skunk Works."
-      children:
-        - name: Helendale
-          label: "Their radar cross-section range"
-    - name: Robert Scandrett
-      label: "Helped confirm the account"
-      note: "McDonald's father's mentor, of Rockwell International's strategic systems division, along with friends of his father."
-    - name: "The Tehachapi Triangle (1992)"
-      label: "McDonald's drawing of the XF-131"
-      children:
-        - name: "The X-Files, 'Deep Throat' (1993)"
-          label: "Fox computer render of the drawing"
+kind: transmission
+caption: "How the XF-131 account travelled from four compartmentalized engineers to prime-time television."
+steps:
+  - fork:
+      - label: "Two Northrop engineers"
+        steps:
+          - name: "Tejon Ranch"
+            note: "Their facility, 'Tehachapi' to researchers."
+            cue: 3514
+      - label: "Two Lockheed engineers"
+        steps:
+          - name: "Helendale"
+            note: "Their radar cross-section range; they said they worked for Ben Rich at the Skunk Works."
+            cue: 3533
+  - via: "Met at a Denny's in the Antelope Valley, each holding a piece of the name"
+    name: "Bill McDonald"
+    date: "Spring 1992"
+    note: "Confirmed through friends of his father and his father's mentor Robert Scandrett, of Rockwell International; has sworn to protect the engineers' identities."
+    cue: 3462
+  - via: "Drawn as"
+    text: "The Tehachapi Triangle"
+    date: "1992"
+    note: "McDonald's painting of the XF-131 Super Sentinel."
+    cue: 3456
+  - via: "Contracted by Fox for a computer render"
+    text: "The X-Files, 'Deep Throat'"
+    date: "1993"
+    note: "The show's first regular episode."
+    cue: 3693
 ---
 ::
 

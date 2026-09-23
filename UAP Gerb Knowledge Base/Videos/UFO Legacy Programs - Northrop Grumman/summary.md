@@ -582,6 +582,38 @@ Richard Sauder's *Underground Bases and Tunnels* is the host's favourite book on
 
 The Northrop, Lockheed and McDonnell Douglas RCS sites all lie close to Edwards, the former [[Norton Air Force Base]] and Plant 42. Norton and Plant 42 are central to the flux liner testimony of Sorenson and McCandlish. Through witness Ed, the host has accused Edwards and its [[412th Test Wing|412th Test Group]] of running a UFO reverse engineering test program between Edwards and the [[Nevada Test and Training Range (NTR)|Nevada Test and Training Range]]. So he asks whether Northrop tests and operates reverse-engineered craft from beneath Tejon.
 
+::wiki-map{video="E-GleS2aGj0" video-title="UFO Legacy Programs - Northrop Grumman"}
+---
+label: "Northrop's neighbours in the Antelope Valley"
+caption: "The sites the host sets around Northrop's Tejon range when he asks whether it tests craft from underground. The dashed line stands for the rumored tunnels to Edwards that Sauder reports; it joins the two places and is not a surveyed route. Area 51, which Wilson said the RCS sites reached by underground train, lies about 200 miles to the north-east, off this map."
+pins:
+  - name: "Tejon Ranch"
+    label: "Tejon"
+    note: "Northrop's RCS range and the underground installation Hamilton accused of being a UAP program site; rumored at up to 42 levels."
+    cue: 1659
+  - name: "Helendale"
+    label: "Helendale"
+    note: "Lockheed's RCS plant; with Tejon, the source of McDonald's engineers."
+    cue: 1768
+  - name: "Air Force Plant 42"
+    label: "Plant 42"
+    note: "Palmdale, where Hamilton noted Skunk Works, Rockwell, McDonnell Douglas and Northrop all had plants."
+    cue: 1641
+  - name: "Edwards Air Force Base"
+    label: "Edwards AFB"
+    note: "Where Fouché said the TR-3B was test-flown, and the host's 412th program ran."
+    cue: 2133
+  - name: "Norton Air Force Base"
+    label: "Norton"
+    note: "With Plant 42, central to the Flux Liner testimony of Sorenson and McCandlish."
+    cue: 2058
+routes:
+  - path: [1, 4]
+    label: "Rumored connecting tunnels, per Sauder's sources"
+    style: dashed
+---
+::
+
 ## Three Whistleblowers
 
 Beyond Hamilton, Miller and McDonald's four engineers, several testimonies name Northrop Grumman directly in crash retrieval, reverse engineering and material exploitation.
@@ -657,16 +689,44 @@ The name is familiar on the channel. The host traces its first mention to the fi
 
 ### Where the witnesses meet
 
-::wiki-grid{cols=3}
-::wiki-panel{title="Edgar Fouché"}
-Names Northrop, with Lockheed, Boeing and Teledyne Ryan, as a primary TR-3B contractor, test-flown over Edwards. Says Area 51 legacy programs moved to Dugway in the early 1990s. Places EG&G on Project Red Light.
-::
-::wiki-panel{title="Steve Wilson"}
-Credits Northrop with the orange-gold "Great Pumpkin" disc, built northeast of Lancaster, and Teledyne Ryan with the XH-75D. Says tunnels link the RCS sites to Area 51. Lists Ford Aerospace and Teledyne Ryan on the Star Wars City chart.
-::
-::wiki-panel{title="Arnold House" tone="accent"}
-Secondhand, via a Boeing friend paid by Northrop at Area 51 from 1980 to 1997. Says 35 to 40 percent of Area 51 moved to Utah. Names Project Red Light and an underground area near Northrop at Lancaster and Palmdale.
-::
+::wiki-compare{video="E-GleS2aGj0" video-title="UFO Legacy Programs - Northrop Grumman"}
+---
+caption: "What each of the three witnesses says about Northrop. Markers show the points two or more of them share."
+attributeLabel: "Point"
+subjects:
+  - name: "Edgar Fouche"
+    note: "USAF master sergeant; no hard proof"
+  - name: "Steve Wilson"
+    note: "Via Richard Boylan, c. 1997"
+  - name: "Arnold House"
+    note: "Secondhand, via a Boeing friend"
+rows:
+  - attribute: "Northrop's role"
+    cells:
+      - { text: "A primary TR-3B contractor, with Lockheed, Boeing and Teledyne Ryan", cue: 2166 }
+      - { text: "Built the orange-gold \"Great Pumpkin\" disc northeast of Lancaster", cue: 2432 }
+      - { text: "Paid his friend directly for Area 51 work, 1980–1997", cue: 3080 }
+  - attribute: "Teledyne Ryan"
+    cells:
+      - "Another primary TR-3B contractor"
+      - { text: "Its San Diego division designed the XH-75D", cue: 2517 }
+      - { mark: unknown }
+  - attribute: "Area 51 work moved to Utah"
+    cells:
+      - { text: "Some legacy programs, to Dugway, early 1990s", mark: same, cue: 3128 }
+      - { mark: unknown }
+      - { text: "\"At least 35% to 40%\" of Area 51", mark: same, cue: 3106 }
+  - attribute: "Project Red Light"
+    cells:
+      - { text: "EG&G held an indefinite Red Light contract", mark: same, cue: 3284 }
+      - { mark: unknown }
+      - { text: "The name of the Area 51 program", mark: same, cue: 3155 }
+  - attribute: "The Antelope Valley"
+    cells:
+      - { text: "TR-3B test flights over Edwards", mark: same, cue: 2131 }
+      - { text: "RCS sites linked to Area 51 by underground trains", mark: same, cue: 2452 }
+      - { text: "An underground area \"near Northrop\", Lancaster and Palmdale", mark: same, cue: 3164 }
+---
 ::
 
 Two claims recur across the three: Area 51 work moving to Utah (Fouché and House) and Red Light (Fouché and House). All three tie Northrop to the Edwards and Antelope Valley corridor. Hamilton, McDonald's engineers and Sauder had already pointed there.
