@@ -17,6 +17,10 @@
  *   waveguides from the reactor;
  * - in flight, the blue corona and the amplifiers' beams.
  *
+ * The loop opens on the finished craft, which glows and pulses for a few
+ * seconds, comes apart in reverse order, then rebuilds. A backdrop in the
+ * page colour deepens as the craft completes and fades as it comes apart.
+ *
  * Each part phases in and out like Half-Life 2's disintegration:
  * - on the way in, embers fall into place, a bloom outline flares, and the
  *   part flickers into solidity;
@@ -49,16 +53,17 @@ const PARTS: Part[] = [
       <path class="ufo-hull" d="M118 113 L124 118.5 L196 118.5 L202 113"/>
       <path class="ufo-seam" d="M52 101 C 100 109 220 109 268 101"/>`,
   },
-  { // gravity amplifiers, angled down, each ending in an emitter
+  { // gravity amplifiers, angled down, each ending in an emitter (unpowered:
+    // green until the reactor goes in)
     box: [94, 94, 226, 118],
     svg: `<g class="ufo-far"><rect x="154" y="98" width="12" height="18" rx="2"/>
-        <ellipse cx="160" cy="118" rx="5.5" ry="1.8" class="ufo-glow"/></g>
+        <ellipse cx="160" cy="118" rx="5.5" ry="1.8" class="ufo-emitter"/></g>
       <g transform="rotate(28 104 104)"><rect x="98" y="94" width="12" height="18" rx="2"/>
         <path d="M100.5 99h7M100.5 103h7M100.5 107h7" class="ufo-seam"/>
-        <ellipse cx="104" cy="113" rx="6" ry="2" class="ufo-glow"/></g>
+        <ellipse cx="104" cy="113" rx="6" ry="2" class="ufo-emitter"/></g>
       <g transform="rotate(-28 216 104)"><rect x="210" y="94" width="12" height="18" rx="2"/>
         <path d="M212.5 99h7M212.5 103h7M212.5 107h7" class="ufo-seam"/>
-        <ellipse cx="216" cy="113" rx="6" ry="2" class="ufo-glow"/></g>`,
+        <ellipse cx="216" cy="113" rx="6" ry="2" class="ufo-emitter"/></g>`,
   },
   { // the middle level's hexagonal deck
     box: [44, 90, 276, 97],
@@ -70,17 +75,11 @@ const PARTS: Part[] = [
         <path d="M234 94.5 l3 -1.6 3 1.6 0 1 -3 1.6 -3 -1.6 Z"/>
       </g>`,
   },
-  { // waveguides from the reactor to each amplifier
+  { // waveguides from the reactor to each amplifier, empty until it's in
     box: [106, 91, 214, 99],
     svg: `<path class="ufo-guide" d="M151 92 C 136 94 118 95 108 98"/>
       <path class="ufo-guide" d="M169 92 C 184 94 202 95 212 98"/>
       <path class="ufo-guide ufo-far" d="M160 92 L160 98"/>`,
-  },
-  { // the reactor: square base plate, hemispherical top, glowing core
-    box: [148, 78, 172, 92],
-    svg: `<rect x="149" y="87" width="22" height="5" rx="1"/>
-      <path class="ufo-hull" d="M151.5 87 A 8.5 8.5 0 0 1 168.5 87 Z"/>
-      <circle cx="160" cy="83.5" r="4.5" fill="url(#ufo-core)" stroke="none" class="ufo-pulse"/>`,
   },
   { // three undersized seats facing the reactor
     box: [98, 80, 222, 92],
@@ -96,21 +95,48 @@ const PARTS: Part[] = [
       <path class="ufo-hatch" d="M62 92 C 62 87.5 66 84.5 72 84 L75 92"/>`,
   },
   { // the cabin: a truncated cone, ringed with slanted windows
-    box: [112, 51, 208, 70],
-    svg: `<path class="ufo-hull" d="M110 70 L126 51 L194 51 L210 70 Z"/>
+    box: [106, 51, 214, 70],
+    // The walls leave the hull's shoulder (104,70) on the tangent the upper
+    // hull's curve arrives with, and the cap's rounded shoulders continue
+    // from the walls, so the silhouette flows up without steps or ledges.
+    svg: `<path class="ufo-hull" d="M104 70 C 114 65.5 122 58 128 51 L192 51 C 198 58 206 65.5 216 70 Z"/>
       <g class="ufo-window">
         <path d="M137 55.5 L151 55.5 L149.5 65.5 L132 65.5 Z"/>
         <path d="M169 55.5 L183 55.5 L188 65.5 L170.5 65.5 Z"/>
         <path class="ufo-far" d="M127 56.5 L131 56.5 L126 65.5 L120.5 65.5 Z"/>
         <path class="ufo-far" d="M189 56.5 L193 56.5 L199.5 65.5 L194 65.5 Z"/>
       </g>
-      <path class="ufo-seam" d="M117 67.5 L203 67.5"/>`,
+      <path class="ufo-seam" d="M110 67.3 L210 67.3"/>`,
   },
   { // the flat cap and its short mast
-    box: [124, 36, 196, 51],
-    svg: `<path class="ufo-hull" d="M122 51 L128 47.5 L192 47.5 L198 51 Z"/>
+    box: [128, 36, 192, 51],
+    svg: `<path class="ufo-hull" d="M128 51 C 130 48.6 132.5 47.5 136 47.5 L184 47.5 C 187.5 47.5 190 48.6 192 51 Z"/>
       <path d="M160 47.5 V38"/>
-      <circle cx="160" cy="37" r="1.2" class="ufo-glow"/>`,
+      <circle cx="160" cy="37" r="1.2" class="ufo-emitter"/>`,
+  },
+  { // the reactor: square base plate, hemispherical top, glowing core. It
+    // provides the power, so it goes in last and switches everything on
+    box: [148, 78, 172, 92],
+    svg: `<rect x="149" y="87" width="22" height="5" rx="1"/>
+      <path class="ufo-hull" d="M151.5 87 A 8.5 8.5 0 0 1 168.5 87 Z"/>
+      <circle cx="160" cy="83.5" r="4.5" fill="url(#ufo-core)" stroke="none" class="ufo-pulse"/>`,
+  },
+  { // power on: the reactor lights the emitters, waveguides and mast tip.
+    // Drawn over the unpowered parts; left out of the dissolve's outline.
+    box: [96, 36, 224, 120],
+    svg: `<g class="ufo-nobloom">
+        <ellipse cx="160" cy="118" rx="9" ry="3.4" class="ufo-glow ufo-halo"/>
+        <ellipse cx="160" cy="118" rx="5.5" ry="1.8" class="ufo-glow"/>
+        <g transform="rotate(28 104 104)"><ellipse cx="104" cy="113" rx="10" ry="3.8" class="ufo-glow ufo-halo"/>
+          <ellipse cx="104" cy="113" rx="6" ry="2" class="ufo-glow"/></g>
+        <g transform="rotate(-28 216 104)"><ellipse cx="216" cy="113" rx="10" ry="3.8" class="ufo-glow ufo-halo"/>
+          <ellipse cx="216" cy="113" rx="6" ry="2" class="ufo-glow"/></g>
+        <path class="ufo-guide-live" d="M151 92 C 136 94 118 95 108 98"/>
+        <path class="ufo-guide-live" d="M169 92 C 184 94 202 95 212 98"/>
+        <path class="ufo-guide-live ufo-far" d="M160 92 L160 98"/>
+        <circle cx="160" cy="37" r="2.6" class="ufo-glow ufo-halo"/>
+        <circle cx="160" cy="37" r="1.2" class="ufo-glow"/>
+      </g>`,
   },
   { // corona and the amplifiers' beams
     box: [20, 40, 300, 136],
@@ -130,7 +156,8 @@ const STEP = 380
 const PHASE_IN = 760
 const STEP_OUT = 320
 const PHASE_OUT = 880
-const HOLD = 1600
+// The finished craft holds, glowing, for a while before it comes apart.
+const HOLD = 4000
 const REST = 500
 
 const VIEW_W = 320
@@ -155,14 +182,16 @@ function embers(i: number): { a: string, b: string } {
 
 const layers = PARTS.map((part, i) => ({ svg: part.svg, ...embers(i) }))
 
-/** Paint order: the corona (the last part built) first, so it glows behind
- *  the hull; the rest in build order. */
+/** Paint order: the corona (the last part) first, so it glows behind the
+ *  hull; the rest in build order, which puts the power-on layer on top. */
 const paintOrder = [PARTS.length - 1, ...PARTS.keys()].slice(0, PARTS.length)
 
 function keyframesCss(): string {
   const n = PARTS.length
-  const outStart = (n - 1) * STEP + PHASE_IN + HOLD
-  const cycle = outStart + (n - 1) * STEP_OUT + PHASE_OUT + REST
+  const assembled = (n - 1) * STEP + PHASE_IN
+  const outStart = assembled + HOLD
+  const gone = outStart + (n - 1) * STEP_OUT + PHASE_OUT
+  const cycle = gone + REST
   const pct = (ms: number) => `${((Math.min(cycle, Math.max(0, ms)) / cycle) * 100).toFixed(3)}%`
   const up = (units: number) => `translateY(${((-units / VIEW_H) * 100).toFixed(2)}%)`
   const P = PHASE_IN
@@ -209,11 +238,25 @@ function keyframesCss(): string {
     ].join('')
   })
 
+  // The backdrop deepens as the craft comes together, pulses through the
+  // hold, and fades as it comes apart.
+  const H = HOLD
+  const backdrop = frames('ufo-backdrop', [
+    [0, 'opacity:.3'], [assembled * 0.5, 'opacity:.55'], [assembled, 'opacity:1'],
+    [assembled + H * 0.25, 'opacity:.72'], [assembled + H * 0.5, 'opacity:1'],
+    [assembled + H * 0.75, 'opacity:.72'], [outStart, 'opacity:1'],
+    [gone, 'opacity:.3'], [cycle, 'opacity:.3'],
+  ])
+
+  // A negative delay opens every layer on the frame where the craft has just
+  // finished assembling, so the loop starts complete and runs on from there.
   return `.ufo-phase{animation-duration:${cycle}ms;animation-timing-function:linear;`
-    + 'animation-iteration-count:infinite;animation-fill-mode:both}'
+    + `animation-iteration-count:infinite;animation-fill-mode:both;animation-delay:-${assembled}ms}`
+    + backdrop + '.ufo-backdrop{animation-name:ufo-backdrop}'
     + rules.join('')
     // Reduced motion: the finished craft, still, with no bloom or embers.
     + '@media (prefers-reduced-motion:reduce){.ufo-phase{animation:none}'
+    + '.ufo-backdrop{opacity:.85}'
     + '.ufo-bloom,.ufo-ember-a,.ufo-ember-b{opacity:0}}'
 }
 
@@ -225,7 +268,11 @@ const viewBox = `0 0 ${VIEW_W} ${VIEW_H}`
 
 <template>
   <div class="ufo-loader" aria-hidden="true">
-    <!-- A faint centreline, plus the gradients and bloom every layer uses. -->
+    <!-- The backdrop that lifts the craft off the page: a gradient in the page
+         colour (black on dark themes, white on light ones) that fades out
+         with no edge. -->
+    <div class="ufo-backdrop ufo-phase" />
+    <!-- The gradients and bloom every layer uses. -->
     <svg class="ufo-svg" :viewBox="viewBox" fill="none">
       <defs>
         <radialGradient id="ufo-corona-fill" cx="50%" cy="50%" r="50%">
@@ -256,9 +303,6 @@ const viewBox = `0 0 ${VIEW_W} ${VIEW_H}`
           </feMerge>
         </filter>
       </defs>
-      <g class="ufo-frame">
-        <path class="ufo-frame-dash" d="M18 80h284" />
-      </g>
     </svg>
 
     <div
@@ -295,6 +339,36 @@ const viewBox = `0 0 ${VIEW_W} ${VIEW_H}`
   width: 100%;
 }
 
+.ufo-loader .ufo-backdrop {
+  /* Much larger than the drawing: the loading mark is position: fixed, so
+     nothing here can widen the page's scroll area. Solid through the middle,
+     then an eased ("scrim") falloff to nothing, so there's no edge. */
+  position: absolute;
+  inset: -95% -50%;
+  border-radius: 50%;
+  background: radial-gradient(
+    closest-side,
+    hsl(var(--background)) 0%,
+    hsl(var(--background) / 1) 42.0%,
+    hsl(var(--background) / 0.987) 46.7%,
+    hsl(var(--background) / 0.951) 51.0%,
+    hsl(var(--background) / 0.896) 55.0%,
+    hsl(var(--background) / 0.825) 58.8%,
+    hsl(var(--background) / 0.741) 62.5%,
+    hsl(var(--background) / 0.648) 65.9%,
+    hsl(var(--background) / 0.55) 69.3%,
+    hsl(var(--background) / 0.45) 72.7%,
+    hsl(var(--background) / 0.352) 76.1%,
+    hsl(var(--background) / 0.259) 79.5%,
+    hsl(var(--background) / 0.175) 83.2%,
+    hsl(var(--background) / 0.104) 87.0%,
+    hsl(var(--background) / 0.049) 91.0%,
+    hsl(var(--background) / 0.013) 95.3%,
+    hsl(var(--background) / 0) 100.0%
+  );
+  will-change: opacity;
+}
+
 .ufo-part,
 .ufo-loader .ufo-svg {
   position: absolute;
@@ -317,15 +391,6 @@ const viewBox = `0 0 ${VIEW_W} ${VIEW_H}`
   will-change: transform, opacity;
 }
 
-.ufo-loader .ufo-frame {
-  stroke: hsl(var(--muted-foreground));
-  stroke-opacity: 0.22;
-  stroke-width: 0.6;
-}
-.ufo-loader .ufo-frame-dash {
-  stroke-dasharray: 2 5;
-}
-
 .ufo-loader .ufo-hull {
   fill: url(#ufo-hull);
 }
@@ -342,9 +407,22 @@ const viewBox = `0 0 ${VIEW_W} ${VIEW_H}`
 .ufo-loader .ufo-hatch {
   stroke-dasharray: 1.6 1.4;
 }
+/* Unpowered emitters and mast tip: the line colour, lightly filled. */
+.ufo-loader .ufo-emitter {
+  fill: hsl(var(--primary) / 0.35);
+  stroke-width: 0.8;
+}
+/* Powered: the reactor's blue, each with a soft pulsing halo. */
 .ufo-loader .ufo-glow {
   fill: hsl(var(--ufo-corona));
   stroke: none;
+}
+.ufo-loader .ufo-halo {
+  animation: ufo-halo 2.4s ease-in-out infinite;
+}
+/* The power-on layer never gets the dissolve's outline. */
+.ufo-loader .ufo-bloom .ufo-nobloom {
+  display: none;
 }
 
 /* The windows read dark: the foreground ink on light themes, the page
@@ -387,8 +465,13 @@ const viewBox = `0 0 ${VIEW_W} ${VIEW_H}`
   fill: hsl(var(--foreground));
 }
 
-/* Energy running down the waveguides. */
+/* The waveguides: empty dashes in the line colour until the reactor is in,
+   then blue energy running down them. */
 .ufo-loader .ufo-guide {
+  stroke-dasharray: 3 3;
+  stroke-opacity: 0.6;
+}
+.ufo-loader .ufo-guide-live {
   stroke: hsl(var(--ufo-corona));
   stroke-dasharray: 3 3;
   animation: ufo-flow 0.9s linear infinite;
@@ -404,11 +487,19 @@ const viewBox = `0 0 ${VIEW_W} ${VIEW_H}`
   0%, 100% { opacity: 0.7; }
   50% { opacity: 1; }
 }
+@keyframes ufo-halo {
+  0%, 100% { opacity: 0.2; }
+  50% { opacity: 0.45; }
+}
 
 @media (prefers-reduced-motion: reduce) {
-  .ufo-loader .ufo-guide,
-  .ufo-loader .ufo-pulse {
+  .ufo-loader .ufo-guide-live,
+  .ufo-loader .ufo-pulse,
+  .ufo-loader .ufo-halo {
     animation: none;
+  }
+  .ufo-loader .ufo-halo {
+    opacity: 0.3;
   }
 }
 </style>
