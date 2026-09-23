@@ -79,9 +79,12 @@
       "wiki-grid",
       "wiki-panel",
       "wiki-callout",
-      "wiki-figure"
+      "wiki-figure",
+      "wiki-chain",
+      "wiki-map"
     ],
-    "cues": "verified"
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
   },
   "-IXSZe4xVv4": {
     "title": "The Hidden Wing - US Air Force UFO Reverse Engineering Programs",
@@ -95,9 +98,13 @@
       "wiki-roster",
       "wiki-grid",
       "wiki-panel",
-      "wiki-callout"
+      "wiki-callout",
+      "wiki-claim",
+      "wiki-compare",
+      "wiki-map"
     ],
-    "cues": "verified"
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
   },
   "GM1Qx9vuo2c": {
     "title": "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers",
@@ -111,9 +118,12 @@
       "wiki-panel",
       "wiki-callout",
       "wiki-figure",
-      "wiki-roster"
+      "wiki-roster",
+      "wiki-compare",
+      "wiki-claim"
     ],
-    "cues": "verified"
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
   },
   "mHkPHd_eOXI": {
     "title": "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs",
@@ -128,9 +138,12 @@
       "wiki-panel",
       "wiki-callout",
       "wiki-watch",
-      "wiki-roster"
+      "wiki-roster",
+      "wiki-claim",
+      "wiki-map"
     ],
-    "cues": "verified"
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
   },
   "X6JfbfmvgMo": {
     "title": "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs",

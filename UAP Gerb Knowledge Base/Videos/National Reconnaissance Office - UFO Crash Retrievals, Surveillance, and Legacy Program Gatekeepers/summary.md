@@ -683,6 +683,61 @@ The oldest account: an oval craft 30 to 40 feet across, "similar to an egg with 
 > [!note] The nesting doll
 > The host treats the recurrence of this feature across independent accounts, from Collins in 1947 to the Reddit troop chief and his own witness in the 21st century, as the detail to watch for in future crash reports. It describes egg-shaped or oblong craft with layers inside layers. He also sets Weygandt's shimmering field beside the flowing surface [[Dylan Borland]] saw on a triangle at Langley, suggesting both are cloaking systems (see below).
 
+::wiki-compare{video="GM1Qx9vuo2c" video-title="National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers"}
+---
+caption: "The four accounts point by point, on the features the host says fit together. A dash means the account, as the video gives it, does not say."
+attributeLabel: "Feature"
+subjects:
+  - name: "The host's witness"
+    note: "Nevada Test Site, 21st century"
+  - name: "Jonathan Weygandt"
+    note: "Peru, 1997"
+  - name: "Ex-OGA contractor"
+    note: "Reddit, 2024"
+  - name: "Albert Bruce Collins"
+    note: "Berkeley, 1947"
+rows:
+  - attribute: "The craft"
+    cells:
+      - { text: "Egg-shaped, half-buried in jungle mud, a gash in its side", mark: same, cue: 4848 }
+      - { text: "Egg-shaped, embedded in rock", mark: same, cue: 4345 }
+      - { text: "Sedan-sized oblong sphere, fractured", mark: same, cue: 5196 }
+      - { text: "Oval, \"an egg with the shell cracked\"", mark: same, cue: 1682 }
+  - attribute: "Layers inside"
+    note: "The \"nesting doll\""
+    cue: 5216
+    cells:
+      - { text: "What looked like a double hull", mark: same, cue: 4863 }
+      - { mark: unknown }
+      - { text: "\"Another one inside of it\", in layers", mark: same, cue: 5203 }
+      - { text: "Multi-layered honeycomb skin; a sphere behind a second bulkhead", mark: same, cue: 1717 }
+  - attribute: "Damage"
+    cells:
+      - { text: "Blunt impact, not explosion", mark: same, cue: 5238 }
+      - "—"
+      - { text: "Blunt impact only, no fire: a \"dry hole\"", mark: same, cue: 5182 }
+      - "Cracked shell"
+  - attribute: "Who secured the site"
+    cells:
+      - { text: "A \"Delta\" detachment of 20 to 40, all in black", cue: 4690 }
+      - { text: "Men in black fatigues and helmets, no insignia, at gunpoint", cue: 4419 }
+      - { text: "A tier 1 task force under its own umbrella authority", cue: 5152 }
+      - "—"
+  - attribute: "Transport"
+    cells:
+      - "—"
+      - { text: "Two Army CH-47s", mark: same, cue: 4439 }
+      - { text: "Two CH-47s waiting on the ramp", mark: same, cue: 5042 }
+      - "—"
+  - attribute: "DOE teams in MOPP gear"
+    cells:
+      - { text: "Yes: cargo and initial CBRN assessment", mark: same, cue: 4672 }
+      - { text: "Yes, DOE-embroidered; the host says NEST", mark: same, cue: 4441 }
+      - "—"
+      - "—"
+---
+::
+
 ## Steve Wilson and Project Pounce
 
 The host returns to [[Steve Wilson|Colonel Steve Wilson]], whose claims were gathered by [[Richard Boylan]] in 1996-1997 shortly before Wilson's death. He calls them fascinating but "to be taken with a huge grain of salt": Boylan has not answered his requests for Wilson's records, and he recommends [[Kevin Randle]]'s critiques of Wilson's claimed 40-year career and DD-214. Wilson said he was assigned to [[Majestic 12]] in 1963 while a captain at Wright-Patterson. Around 1972, men with CIA credentials sent him to Area S4 near [[Papoose Lake]], where on the 30th underground floor he saw eight kinds of non-human craft. He said the first successful anti-gravity flight there took place on 18 July 1971 with [[Bobby Ray Inman]] present. He then claimed to have headed [[Project Pounce]], an Air Force and "National Reconnaissance Organization" unit that retrieved downed UFOs and supplied cover stories. Its security team, "Delta", was an arm of the NRO and flew [[XH-75D]] anti-gravity helicopters built by [[Teledyne Ryan]]. It also fielded "the Equalizer", a truck-mounted EMP cannon for shooting down craft, built by LTV.
@@ -780,21 +835,33 @@ The host asks the current administration to follow up on all thirteen.
 
 ## One Program or Many
 
-In a closing segment recorded after *[[The Age of Disclosure]]* premiered on 21 November 2025, the host sets his model against the one the documentary presents.
+In a closing segment recorded after *[[The Age of Disclosure]]* premiered on 21 November 2025, the host sets his model against the one the documentary presents, in which [[Luis Elizondo]] and [[Eric Davis]] describe a single legacy program run from the CIA DS&T.
 
-::wiki-grid{cols=2}
-::wiki-panel{title="The documentary's model"}
-[[Luis Elizondo]] and [[Eric Davis]] describe one legacy program. The deputy director of the [[CIA Directorate of Science and Technology|CIA DS&T]] has complete control over the portfolio, and three equal branches sit beneath: the Department of Energy with its classification controls, defense prime contractors, and Air Force special operations tier 1 units such as the 24th STS doing the retrievals. The host calls this "purposeful misdirection" and says the DS&T, DOE and primes are the ones being handed "the live hand grenade".
+::wiki-claim{video="GM1Qx9vuo2c" video-title="National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers"}
+---
+claim:
+  title: "One legacy program"
+  by: ["Luis Elizondo", "Eric Davis"]
+  where: "The Age of Disclosure"
+  date: "2025-11-21"
+  text: "A single legacy program. The deputy director of the CIA DS&T has complete control over the portfolio, and three equal branches sit beneath: the Department of Energy with its classification controls, defense prime contractors, and Air Force special operations tier 1 units such as the 24th STS doing the retrievals."
+  cue: 10501
+responses:
+  - by: "The host"
+    stance: challenges
+    text: "\"A purposeful misdirection\" and \"a complete egregious lie\". The outline leaves out the NRO, and the DS&T, DOE and primes are the ones being handed \"the live hand grenade\"."
+    cue: 10493
+---
 ::
-::wiki-panel{title="The host's outline" tone="accent"}
+
+His own outline, as he restates it against the film:
+
 - **Many siloed programs**, each with its own administrator and non-traditional, "stripped" oversight rather than none.
 - **A rotating head**, a few people like Cheney who can see across silos.
-- **Administrators**, such as a joint Air Force and NRO effort, the CIA DS&T and its OGA, NURO or DARPA.
+- **Administrators**, such as a joint Air Force and NRO effort, the [[CIA Directorate of Science and Technology|CIA DS&T]] and its OGA, NURO or DARPA.
 - **GOCOs and FFRDCs.** Following [[Andrew Kissner]], he believes custody of recovered material passed to government-owned, contractor-operated national labs in the early 1950s.
 - **Prime contractors at the bottom.** He thinks most staff there do not know what they work on, apart from special-programs directors. Some corporate programs may have gone rogue after a loss of control around 1989.
 - **Retrieval teams** under their own umbrella authority, not JSOC.
-::
-::
 
 He also says the offices under the Secretary of Defense and the DNI matter more than the principals: the acquisition and intelligence under secretaries (which is why he thinks [[Chris Mellon]], a former deputy assistant secretary for intelligence, may know more than he says) and the ODNI acquisition office.
 

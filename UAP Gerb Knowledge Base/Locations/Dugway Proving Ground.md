@@ -1,5 +1,6 @@
 ---
 name: "Dugway Proving Ground"
+coordinates: [40.2208, -112.7442]
 location_type: "facility"
 tags:
   - location

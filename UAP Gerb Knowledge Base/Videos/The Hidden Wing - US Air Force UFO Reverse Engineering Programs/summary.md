@@ -407,22 +407,44 @@ events:
 
 ## The Legacy Program Pyramid
 
-The host opens by restating his model of how UFO legacy programs are organized. He then sets it against the version presented in the documentary *[[The Age of Disclosure]]*, which he calls "a catastrophic oversimplification and terrible omission of involvement".
+The host opens by restating his model of how UFO legacy programs are organized. He then sets it against the version presented in the documentary *[[The Age of Disclosure]]*, which he rejects outright.
 
-::wiki-grid{cols=2}
-::wiki-panel{title="The documentary's model"}
-In *The Age of Disclosure*, [[Luis Elizondo]] and [[Eric Davis]] describe a single, monolithic "legacy program". The [[CIA Directorate of Science and Technology|CIA's Directorate of Science and Technology]] sits at the top, its deputy director has "complete charge" of the crash-retrieval portfolio, and the Department of Energy, defense contractors and the Air Force sit on an equal level beneath it. The host agrees that all four are involved. He believes the outline was drawn by people deciding "who gets to catch the live hand grenade".
-::
-::wiki-panel{title="The host's pyramid" tone="accent"}
+His own model is a pyramid of layers, each siloed from the next:
+
 - **Control group:** the few with a consensus view across programs, such as [[MITRE Corporation|MITRE]]'s JASON panel and figures like [[Dick Cheney]].
 - **Program administrators:** directorates of the big six intelligence agencies, the military services' major commands, and executive-branch compartments. These are siloed, so the Army and Air Force may each have tried to copy the same cloaking technology separately.
 - **FFRDCs:** MITRE, [[Aerospace Corporation]], [[RAND Corporation|RAND]] and the national labs, acting as subject-matter experts and gatekeepers of information.
 - **Contractors:** [[Lockheed Martin]], [[Northrop Grumman]], Raytheon, [[SAIC]]. The host believes most staff there "don't even know what they're working on".
 - **Mortar and casing:** the defense industrial base, plus SAPs, carve-out contracts and program-protection offices.
-::
-::
 
-He places the Air Force, like the [[NRO (National Reconnaissance Office)|NRO]] in his previous investigation, in the administrator layer, with layers inside layers. He disputes [[Hal Puthoff]]'s view that the programs were handed to prime contractors to escape the Freedom of Information Act. In the host's view, most programs run under strict oversight chains through [[Waived Unacknowledged Special Access Programs (USAPs)|waived, "bigoted" unacknowledged SAPs]] and Department of Energy categories inherited from the [[Atomic Energy Act of 1954]]. These put them beyond even the Gang of Eight. He plays [[David Grusch]]'s congressional testimony on 10 U.S. Code § 119 to make the point.
+He places the Air Force, like the [[NRO (National Reconnaissance Office)|NRO]] in his previous investigation, in the administrator layer, with layers inside layers. The model puts him at odds with two prominent accounts. In the documentary, [[Luis Elizondo]] and [[Eric Davis]] describe a single, monolithic "legacy program" run from the [[CIA Directorate of Science and Technology|CIA's Directorate of Science and Technology]]. [[Hal Puthoff]] holds that the programs were handed to prime contractors to escape the Freedom of Information Act. The host answers both with oversight chains that run through [[Waived Unacknowledged Special Access Programs (USAPs)|waived, "bigoted" unacknowledged SAPs]] and Department of Energy categories inherited from the [[Atomic Energy Act of 1954]], which put them beyond even the Gang of Eight. He plays [[David Grusch]]'s congressional testimony on 10 U.S. Code § 119 to make the point.
+
+::wiki-claim{video="-IXSZe4xVv4" video-title="The Hidden Wing - US Air Force UFO Reverse Engineering Programs"}
+---
+term: "Model"
+caption: "Two accounts of how the legacy programs are organised, and the host's answers."
+claims:
+  - title: "One monolithic legacy program"
+    by: ["Luis Elizondo", "Eric Davis"]
+    where: "The Age of Disclosure"
+    text: "A single legacy program, with the CIA's DS&T at the top and its deputy director in complete charge of crash retrieval. The Department of Energy, defense contractors and the Air Force sit on an equal level beneath it."
+    cue: 704
+    responses:
+      - by: "The host"
+        stance: challenges
+        text: "A \"catastrophic oversimplification and terrible omission of involvement\". All four are involved, but the outline was drawn by people deciding \"who gets to catch the live hand grenade\"."
+        cue: 733
+  - title: "Handed to the contractors"
+    by: "Hal Puthoff"
+    text: "The programs moved largely under prime contractors such as Lockheed Martin and Northrop Grumman, because work done through contractors is out of reach of the Freedom of Information Act."
+    cue: 453
+    responses:
+      - by: "The host"
+        stance: challenges
+        text: "Most, not all, run not without oversight but under stripped, parallel oversight chains, kept strict to minimise read-in personnel."
+        cue: 494
+---
+::
 
 ## Headquarters Air Force
 
@@ -489,21 +511,39 @@ The second part of the headquarters is the Administrative Assistant's office. [[
 
 This leads into research by Alex Catz on the Signal screenshots [[Chris Mellon]] posted on 23 April 2024. In a 2020 exchange, an unknown correspondent said their group was making "massive progress" on the crash-retrieval portfolio. The correspondent said the group had deciphered its management structure, security controls and ownership, was dealing with the craft that "landed in Kingman, Arizona in 1953", and knew of a still-classified 1950s Secretary of the Air Force memo that keeps the cover on UAPs. The correspondent then wrote "We also know the SES2 who's the Air Force gatekeeper", followed by a redacted name. The host says he distrusts Mellon because of his tie to [[Luis Elizondo]] and the "fake AATIP cover program", and because Mellon may be protecting his former Senate intelligence committee colleague [[Mary K. Sturdivant]]. He nevertheless takes the exchange seriously. His closing remarks add that it came out after [[Sean Kirkpatrick]] passed Signal messages with Mellon to [[The Black Vault]].
 
-::wiki-grid{cols=2}
-::wiki-panel{title="Candidate 1: Russell E. Wiler" tone="accent"}
-- **Post:** director of Sensitive Activities ([[SAFAHA|SAF/AAH]]) 2009-2024, then director of plans and effects in the new Office of Competitive Activities until about mid-2025.
-- **Grade:** a deleted 2025 job posting for his old post, saved by Catz, was open only to tier 2 SES and DISES candidates, which the host takes as proof he was SES-2.
-- **Name count:** "Russell Wiler" is exactly 12 characters, Catz's figure for the redaction.
-- **Bio:** his official biography's "sensitive activities managed by other government agencies" language echoes directive S-5210.36.
-- **Host's lean:** about 60 percent.
-::
-::wiki-panel{title="Candidate 2: William E. McClure"}
-- **Post:** director of Security, Special Program Oversight and Information Protection ([[SAFAAZ|SAF/AAZ]]) 2019-2021. This is the Air Force SAPCO and insider-threat focal point, managing a security community of more than 2,000.
-- **Grade:** SES tier 2.
-- **Name count:** "William McClure" is 14 and "Will McClure" 11, but "Bill E. McClure", the form on his LinkedIn, is 12. The host allows about two characters of error.
-- **Spelling:** his official Air Force biography spells the name MacLure.
-- **Host's lean:** about 40 percent. He says both men have legacy involvement either way.
-::
+Catz and the host test two candidates against the clues in the exchange: an SES tier 2 grade and a redacted name Catz measured at 12 characters. The host allows about two characters of error in that count. For Wiler he adds that his official biography's "sensitive activities managed by other government agencies" echoes directive S-5210.36. He notes that McClure's official Air Force biography spells the name MacLure, and says both men have legacy involvement whichever is the gatekeeper.
+
+::wiki-compare{video="-IXSZe4xVv4" video-title="The Hidden Wing - US Air Force UFO Reverse Engineering Programs"}
+---
+caption: "The two candidates for Mellon's \"SES2 Air Force gatekeeper\", tested against the clues in the Signal exchange."
+attributeLabel: "Clue"
+subjects:
+  - name: "Russell E. Wiler"
+    note: "Alex Catz's candidate"
+  - name: "William E. MacLure"
+    note: "The host's second candidate"
+rows:
+  - attribute: "Post"
+    cells:
+      - { text: "Director of Sensitive Activities (SAF/AAH), 2009-2024; then plans and effects, Office of Competitive Activities, to about mid-2025", cue: 4856 }
+      - { text: "Director of Security, Special Program Oversight and Information Protection (SAF/AAZ), 2019-2021: the Air Force SAPCO, over 2,000 security staff", cue: 5205 }
+  - attribute: "Grade"
+    note: "The exchange says SES2"
+    cells:
+      - { text: "SES tier 2 (DISES), shown by a deleted 2025 posting for his old job", mark: same, cue: 4966 }
+      - { text: "SES tier 2", mark: same, cue: 5205 }
+  - attribute: "Name length"
+    note: "Catz's count: 12 characters"
+    cue: 5254
+    cells:
+      - { text: "\"Russell Wiler\": exactly 12", mark: same }
+      - { text: "\"William McClure\" 14, \"Will McClure\" 11; \"Bill E. McClure\", from his LinkedIn, 12", mark: differs }
+  - attribute: "The host's lean"
+    cue: 12185
+    cells:
+      - "About 60 percent"
+      - "About 40 percent"
+---
 ::
 
 ### Test and evaluation: AF/TE
@@ -568,7 +608,71 @@ root:
 ---
 ::
 
+The places behind that chart lie across the Western Ranges, which the host defines as the Utah and Nevada test and training ranges and the airspace around the 412th at Edwards.
+
+::wiki-map{video="-IXSZe4xVv4" video-title="The Hidden Wing - US Air Force UFO Reverse Engineering Programs"}
+---
+label: "The Western Ranges of the Hidden Wing"
+caption: "The installations the video ties to the alleged Hidden Wing. The ranges themselves are vast; each pin marks an installation, not a range boundary. The one line is Castle's report of the triangle's departure, drawn straight to Edwards; he gives no track."
+pins:
+  - name: "Edwards Air Force Base"
+    label: "Edwards AFB"
+    note: "The hub: the Air Force Test Center, the 412th Test Wing and the Test Pilot School."
+    cue: 11887
+  - name: "Air Force Plant 42"
+    note: "Palmdale, beside Edwards; Boeing, Lockheed Martin and Northrop Grumman supply the R&D."
+    cue: 7590
+  - name: "Area 51"
+    label: "Area 51"
+    note: "In the Nevada Test and Training Range; occupied by the 412th, per the host."
+    cue: 5658
+  - name: "Tonopah Test Range (TTR)"
+    label: "Tonopah"
+    note: "The DOE range run by Sandia, also occupied by the 412th."
+    cue: 5664
+  - name: "Dugway Proving Ground"
+    label: "Dugway"
+    note: "In the Utah Test and Training Range; where MS says he saw a disc being taken apart."
+    cue: 5552
+  - name: "Hill Air Force Base"
+    label: "Hill AFB"
+    note: "The UTTR's primary airfield; the host suspects joint Air Force and Army work across Dugway."
+    cue: 7365
+  - name: "Kirtland Air Force Base, New Mexico"
+    label: "Kirtland AFB"
+    note: "AFOTEC's headquarters, AFRL directorates and Sandia; once home to AFSWC."
+    cue: 7379
+  - text: "Twentynine Palms, California"
+    label: "Twentynine Palms"
+    coordinates: [34.2317, -116.0617]
+    date: "1997"
+    note: "Rodrik Castle's black triangle, met during the Hunter Warrior exercise."
+    cue: 11919
+routes:
+  - path: [8, 1]
+    style: dashed
+    label: "Castle's triangle departs toward Edwards and its R-2508 complex"
+---
+::
+
 The host describes the Antelope Valley as the "backbone" of UFO RDT&E. [[Air Force Plant 42]] at Palmdale is a government-owned, contractor-operated airfield complex used by only three firms, Boeing, Lockheed Martin and Northrop Grumman, whose most secretive divisions ([[Lockheed Martin Skunk Works|Skunk Works]], Phantom Works and Northrop's advanced technology development center) work there with pilots from the Edwards [[Air Force Test Pilot School]]. The host links this to the claim by former master sergeant [[Edgar Fouche]] that the TR-3B, a triangle said to carry a reverse-engineered [[Magnetic Field Disruptor (MFD)|magnetic field disruptor]] developed by Sandia and Livermore, was built by Northrop, Lockheed and Boeing, flown by test-pilot-school graduates and operated from Edwards. He also cites [[Rodrik Castle]]'s 1997 black triangle, which left toward Edwards's R-2508 complex. Against all this he sets physicist [[Eric Davis]]. Davis said at the 2024 Sol Foundation conference that much of his proof came from AFRL, yet that no alien reproduction vehicles have ever been built. The host says Davis lied and calls the statement program protection, possibly required by AFRL.
+
+::wiki-claim{video="-IXSZe4xVv4" video-title="The Hidden Wing - US Air Force UFO Reverse Engineering Programs"}
+---
+claim:
+  title: "No alien reproduction vehicles"
+  by: "Eric Davis"
+  where: "Sol Foundation conference"
+  date: "2024"
+  text: "There has been no success adapting non-human technology, and no ARVs have ever been built: the physics, engineering and manufacturing technology does not yet exist."
+  cue: 10204
+responses:
+  - by: "The host"
+    stance: challenges
+    text: "Davis lied, to him and to the whole conference. Firsthand witnesses and public testimony convince him the Air Force has built both derivative technology and ARVs; he calls the denial program protection, possibly required by AFRL."
+    cue: 10155
+---
+::
 
 ## The Lineage of Air Force Materiel Command
 

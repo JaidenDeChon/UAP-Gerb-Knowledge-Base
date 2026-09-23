@@ -1,5 +1,6 @@
 ---
 name: "Indian Springs Air Force Base"
+coordinates: [36.5922, -115.6667]
 tags:
   - location
 ---
