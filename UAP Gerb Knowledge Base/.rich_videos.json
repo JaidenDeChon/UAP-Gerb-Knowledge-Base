@@ -592,5 +592,21 @@
     ],
     "cues": "verified",
     "retrofit_sweep": "2026-09-23"
+  },
+  "6DyTfIV87Ck": {
+    "title": "Michael Herrera: UFO Whistleblower (ft. Joeyisnotmyname)",
+    "published": "2024-03-28",
+    "enriched_at": "2026-09-23T22:21:20Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-chain",
+      "wiki-compare",
+      "wiki-claim",
+      "wiki-roster",
+      "wiki-cue"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
   }
 }

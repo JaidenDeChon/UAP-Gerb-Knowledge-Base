@@ -4,7 +4,7 @@ tags:
   - concept
 ---
 
-"4D Chess on DOPSR" is the term used by an anonymous insider (who contacted whistleblower [[Michael Herrera]]) to describe a strategic game of disclosure being played against the Defense Office of Pre-publication and Security Review ([[DOPSR]]). The strategy involves intentionally embedding classified or deep black program information within a fictional manuscript, then observing how DOPSR responds during pre-publication review to gain intelligence about what the government will and will not acknowledge.
+"4D Chess on DOPSR" is the term used by an anonymous insider (who contacted whistleblower [[Michael Herrera]]) to describe a strategic game of disclosure being played against the Defense Office of Pre-publication and Security Review ([[DOPSR (Defense Office of Prepublication and Security Review)|DOPSR]]). The strategy involves intentionally embedding classified or deep black program information within a fictional manuscript, then observing how DOPSR responds during pre-publication review to gain intelligence about what the government will and will not acknowledge.
 
 ## The Strategy
 
@@ -40,7 +40,7 @@ Investigator [[Joey Is Not My Name]] expressed significant skepticism about this
 
 ## DOPSR Process Context
 
-[[DOPSR]] (Defense Office of Pre-publication and Security Review) is the DOD entity that reviews all books, articles, speeches, and other materials written by current or former DOD personnel to ensure no classified information is disclosed. [[David Grusch]] is currently navigating DOPSR review for an op-ed. The process is mandatory for individuals with clearances and can involve:
+[[DOPSR (Defense Office of Prepublication and Security Review)|DOPSR]] (Defense Office of Pre-publication and Security Review) is the DOD entity that reviews all books, articles, speeches, and other materials written by current or former DOD personnel to ensure no classified information is disclosed. [[David Grusch]] is currently navigating DOPSR review for an op-ed. The process is mandatory for individuals with clearances and can involve:
 - Redaction of classified material
 - Complete denial of publication
 - Lengthy delays (sometimes years)
