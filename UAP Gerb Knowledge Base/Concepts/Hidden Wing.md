@@ -19,7 +19,7 @@ According to the thesis, the Hidden Wing program portfolio operates across the A
 
 The presenter argues that the Hidden Wing operates through a specific chain of institutional authority:
 
-1. **[[National Security Council (NSC)]]** and classified presidential executive orders (traced to Truman and Eisenhower administrations) provide foundational legal authority.
+1. **[[National Security Council]]** and classified presidential executive orders (traced to Truman and Eisenhower administrations) provide foundational legal authority.
 2. **[[Office of the Under Secretary of Defense for Intelligence and Security (USDINS)]]** (USD I&S) and the **[[National Program Special Management Staff (NPMS)]]** coordinate NSC SAPs with the DoD and intelligence community.
 3. **[[SAFAQ]]** (Office of the Assistant Secretary of the Air Force for Acquisition, Technology and Logistics) oversees the Air Force acquisition programs under which legacy programs may be embedded, particularly through **[[SAFAQL (Special Programs)]]**, **[[SAFAQR (Science, Technology and Engineering)]]**, and **[[SAFAQX (Acquisition Integration)]]**.
 4. **[[Rapid Capabilities Office (RCO)]]** serves as the likely execution arm, with its narrow oversight chain and carve-out contracting authority enabling acquisition of legacy program equities without standard notification requirements.

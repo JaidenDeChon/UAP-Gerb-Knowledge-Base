@@ -173,6 +173,7 @@ tags:
 - [[Strategic Defense Initiative (SDI)]]
 - [[Subterranean Facility (STIF)]]
 - Sworn Affidavit
+- [[The Age of Disclosure]]
 - [[TSSCI Clearance]]
 - Tactical Elevated Position
 - Tardigrades on the Moon
@@ -202,4 +203,5 @@ tags:
 - [[Watch Committee]]
 - [[White Taped Circle Restricted Zone]]
 - [[XF-131 Super Sentinel]]
+- [[Yankee Blue]]
 - [[Zero Point Energy]]
