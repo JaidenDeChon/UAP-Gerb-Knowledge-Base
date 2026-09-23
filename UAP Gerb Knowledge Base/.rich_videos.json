@@ -55,5 +55,21 @@
       "wiki-panel"
     ],
     "cues": "verified"
+  },
+  "0kLSp0lH-JQ": {
+    "title": "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs [Vol.2]",
+    "published": "2026-03-20",
+    "enriched_at": "2026-09-23T08:20:15Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-org-chart",
+      "wiki-roster",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-callout",
+      "wiki-figure"
+    ],
+    "cues": "verified"
   }
 }

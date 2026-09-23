@@ -13,6 +13,14 @@ Northrop Grumman is alleged by [[David Grusch]] and other sources to be the prim
 
 UAP Gerb's *80 Years of UFO Crash Retrieval and Reverse Engineering* dates a specific paradigm shift to 2004–2005, when reallocation of defense funds amid the Global War on Terror is alleged to have allowed prime contractors such as Northrop Grumman to begin harnessing IRAD to self-fund their own UAP retrieval and exploitation efforts. The video characterizes these self-funded activities as only loosely accountable to the prime contractor's government handler at the time — and argues they are even less accountable today — raising concerns about private companies possessing non-human technology and reverse-engineered derivative vehicles with little government compliance oversight.
 
+## Sectors and TRW Heritage
+
+Northrop Grumman today has four sectors: Aeronautic Systems, Mission Systems, Space Systems and Defense Systems. The 2002 TRW purchase created Mission Systems, first led by TRW's [[Donald C. Winter]], and Space Technologies. Orbital ATK, bought in 2018, became Northrop Grumman Innovative Systems, and in 2020 that sector and Space Technologies merged into today's Space Systems. UAP Gerb's *Northrop Grumman & TRW* therefore argues that two of the company's four sectors are TRW's direct heirs.
+
+## The Breakaway Thesis
+
+The same video argues that Northrop is the exception to UAP Gerb's [[UFO Legacy Program Framework|legacy program pyramid]]. Where other primes sit at the bottom of a strict chain of command, Northrop allegedly used IRAD from the early War on Terror to run its own retrieval and exploitation programs, only loosely accountable to its government handlers, in line with remarks by [[David Grusch]] in January 2026. The video cites Northrop's reported IRAD rising from $331 million in 2001 to $429 million (2003), $504 million (2004) and $538 million (2005) after it absorbed TRW, and a $111.2 million False Claims Act settlement in 2003 over TRW's 1990s schemes. It alleges a security apparatus under vice president for security [[Terry Phillips]], with directors John Freestone, Kathy Andrews and Vince Devine; names [[Michael Dempsey]], its vice president for government affairs, and [[Richard Haver]], its former vice president for intelligence programs; and argues that the [[Northrop Advanced Technology and Design Center (NATDC)]], which vanished by 2003, lives on inside the aeronautics division.
+
 ## Aerospace Corporation Research Identification
 
 In [[Jacques Vallee]]'s *Hidden Science 5*, Vallee alongside [[Kit Green]], [[Hal Puthoff]], [[Eric Davis]], and Kristen B. Zimmerman identified Northrop Grumman — alongside [[Lockheed Martin]] and [[The Aerospace Corporation]] — as one of the suspected legacy private corporations engaged in "real UAP research." This identification aligns with allegations about Northrop's acquisition of [[TRW]]'s alleged UAP programs in 2002.

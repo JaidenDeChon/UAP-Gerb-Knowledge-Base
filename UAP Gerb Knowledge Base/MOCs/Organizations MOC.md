@@ -52,7 +52,6 @@ tags:
 - [[Defense Support Program (DSP)]]
 - [[Department of Defense]]
 - [[Department of Energy]]
-- [[Department of the Air Force Rapid Capabilities Office (RCO)]]
 - [[Disclosure Project]]
 - [[Dugway Proving Ground]]
 - [[EG&G]]
@@ -170,3 +169,5 @@ tags:
 - [[West Desert Test Center]]
 - [[WikiLeaks]]
 - [[Y-12 Complex]]
+- [[Space Technology Laboratories (STL)]]
+- [[Northrop Advanced Technology and Design Center (NATDC)]]

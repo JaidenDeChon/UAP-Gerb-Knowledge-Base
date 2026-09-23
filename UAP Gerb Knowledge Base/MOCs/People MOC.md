@@ -172,7 +172,6 @@ tags:
 - [[Leslie Kean]]
 - [[Robert Jacobs]]
 - [[Lloyd A. Dua]]
-
 - [[Luis Elizondo]]
 - [[Lyndon B. Johnson]]
 - [[Magdaleno Castanon]]
@@ -271,3 +270,6 @@ tags:
 - [[William Blanchard]]
 - [[William H. Hartman]]
 - [[William Steinman]]
+- [[Michael Dempsey]]
+- [[Donald C. Winter]]
+- [[Irving T. Waaland]]
