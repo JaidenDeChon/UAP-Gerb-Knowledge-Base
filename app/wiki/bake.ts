@@ -44,7 +44,14 @@ export function bakeWikiData(): WikiData {
     }
   })
 
-  return { tree: buildTree(), graph: payload, links: { outgoing, backlinks }, previews, videos: buildVideos() }
+  // Sparse: only the handful of notes (Locations) that carry coordinates.
+  const geo: Record<number, [number, number]> = {}
+  payload.nodes.forEach((node) => {
+    const coordinates = byPath[node.p]?.coordinates
+    if (coordinates) geo[node.i] = coordinates
+  })
+
+  return { tree: buildTree(), graph: payload, links: { outgoing, backlinks }, previews, videos: buildVideos(), geo }
 }
 
 /**
@@ -63,5 +70,6 @@ export function bakeWikiDataModule(): string {
     'export const links = data.links',
     'export const previews = data.previews',
     'export const videos = data.videos',
+    'export const geo = data.geo',
   ].join('\n')
 }

@@ -1,5 +1,6 @@
 ---
 name: "Lima, Peru"
+coordinates: [-12.06, -77.0375]
 tags:
   - location
 ---

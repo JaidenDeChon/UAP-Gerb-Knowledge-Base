@@ -1,5 +1,6 @@
 ---
 name: "Kecksburg, Pennsylvania"
+coordinates: [40.1847, -79.4608]
 tags:
   - location
 ---

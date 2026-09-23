@@ -1,5 +1,6 @@
 ---
 name: "Edwards Air Force Base"
+coordinates: [34.9056, -117.8836]
 tags:
   - location
 ---

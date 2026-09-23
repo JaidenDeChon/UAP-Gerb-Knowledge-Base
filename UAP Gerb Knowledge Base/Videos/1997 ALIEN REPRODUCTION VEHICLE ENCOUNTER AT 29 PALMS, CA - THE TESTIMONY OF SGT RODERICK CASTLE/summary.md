@@ -516,6 +516,35 @@ root:
 ---
 ::
 
+::wiki-map
+---
+caption: "The encounter site, the triangle's north-west departure and two of the R2508 complex's principal users. The R2508 pin marks the point the video gives for the airspace's southern edge, not the whole complex. NAS Lemoore and Fallon, which supplied the Hunter Air aircrews, lie farther north, off this map."
+pins:
+  - name: "Emerson Dry Lake"
+    label: "Encounter"
+    radius: 7.5
+    date: "Mar 1997"
+    note: "Castle and the host place the encounter within about 7.5 miles of the lake bed, north-west of the main base. The triangle left to the north-west."
+  - name: "Marine Corps Air Ground Combat Center 29 Palms"
+    label: "29 Palms"
+    note: "Host base of the Hunter Warrior experiment."
+  - name: "R2508 Complex"
+    label: "R2508 (southern edge)"
+    coordinates: [34.9045, -116.9497]
+    note: "About 44.5 miles north-west of Emerson Dry Lake, per the video: the direction the craft and the ground team left in."
+  - name: "Edwards Air Force Base"
+    label: "Edwards AFB"
+    note: "About 90 miles north-west of the encounter. Principal R2508 user and home of the 412th Test Wing."
+  - name: "China Lake Naval Air Weapons Station"
+    label: "China Lake"
+    note: "Principal R2508 user."
+routes:
+  - path: [1, 3]
+    style: dashed
+    label: "The triangle's departure: north-west, toward R2508 (Castle's bearing; the destination is the host's inference)"
+---
+::
+
 Edwards anchors much of the host's wider work. Its main witness there, referred to only as "Ed", is described as a vetted but hostile witness. Ed has said that he was briefed into UFO programs at Area 51 while working on the Nevada range, and that he later ran an electronic-warfare group at the Edwards Air Force Test Center with an acknowledged $700 million test infrastructure budget. There, by his account, he acted as intermediary between scientists and the test pilots of reverse-engineered, sometimes unmanned, copycat vehicles. The Edwards area also figures in an account of three star-like lights that grew into a silhouetted triangle over the base before vanishing.
 
 ### TR-3B or XF-131?

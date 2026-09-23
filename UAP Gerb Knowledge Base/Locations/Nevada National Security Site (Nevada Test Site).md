@@ -1,5 +1,6 @@
 ---
 name: "Nevada National Security Site (formerly Nevada Test Site)"
+coordinates: [37.1167, -116.05]
 tags:
   - location
 ---

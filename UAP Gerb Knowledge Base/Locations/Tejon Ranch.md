@@ -1,5 +1,6 @@
 ---
 name: "Tejon Ranch"
+coordinates: [34.86, -118.48]
 tags:
   - location
 ---

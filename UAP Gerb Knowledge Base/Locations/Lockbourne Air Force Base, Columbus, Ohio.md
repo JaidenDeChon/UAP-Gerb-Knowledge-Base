@@ -1,5 +1,6 @@
 ---
 name: "Lockbourne Air Force Base, Columbus, Ohio"
+coordinates: [39.8139, -82.9278]
 location_type: "military_base"
 tags:
   - location

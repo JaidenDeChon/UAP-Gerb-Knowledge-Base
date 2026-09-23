@@ -636,6 +636,30 @@ More than 630 miles from Lima, close to two hours by C-130, which with one stop 
 ::
 ::
 
+::wiki-map
+---
+caption: "The two candidate bases, and the host's 90-mile radius around Iquitos drawn from Weygandt's timings. Borders are today's; the host puts the crash 5 to 10 miles from the Colombian or Brazilian border."
+pins:
+  - name: "Lima, Peru"
+    label: "Lima"
+    note: "Weygandt's unit flew into Lima by C-130, then took a flight of several hours, with one stop, to its base."
+  - name: "Pucallpa"
+    label: "Pucallpa"
+    note: "The usual assumption: Laser Strike's publicly named primary site, about 300 miles from Lima."
+  - name: "Iquitos, Peru"
+    label: "Iquitos"
+    radius: 90
+    note: "The host's candidate: more than 630 miles from Lima, home of USAF Radar Detachment 5. The circle is his estimate of how far the Marines could have driven and hiked before dawn."
+routes:
+  - path: [1, 2]
+    style: dashed
+    label: "Under an hour by C-130"
+  - path: [1, 3]
+    style: dashed
+    label: "Close to two hours by C-130; with a stop, the host's fit for \"several hours\""
+---
+::
+
 On this reading, the crash lay within about 90 miles of Iquitos, 5 to 10 miles from the Colombian or Brazilian border. That is country where the 7th Special Forces and Joint Task Force Bravo had operated during the 1995 border dispute.
 
 ## Where Was He Held?

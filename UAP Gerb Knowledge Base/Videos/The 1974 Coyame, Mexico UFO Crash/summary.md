@@ -370,6 +370,43 @@ steps:
 ---
 ::
 
+The recovery itself was a loop across the border, which the report traces town by town.
+
+::wiki-map{video="bL3tMByq_WM" video-title="The 1974 Coyame, Mexico UFO Crash"}
+---
+caption: "The recovery flight as the Denb Report describes it, 27–28 August 1974. The lines join the places the report names; it gives no exact flight paths, and the crash site itself is placed only \"near Coyame\". From Van Horn the sealed truck drove on to Atlanta, Georgia, off this map to the east."
+pins:
+  - name: "Fort Bliss"
+    label: "Fort Bliss"
+    date: "26 Aug 1974"
+    note: "The team and four unmarked, sand-coloured helicopters were staged here by 2100."
+  - text: "Presidio, Texas"
+    label: "Presidio"
+    coordinates: [29.5614, -104.3664]
+    note: "Launching at 1438, the helicopters followed the border to Presidio and crossed into Mexico north of Candelaria."
+  - name: "Coyame, Chihuahua, Mexico"
+    label: "Coyame"
+    date: "27 Aug 1974"
+    note: "Over the stopped convoy at 1653: every soldier dead. The disc left slung under the Sea Stallion at about 1747."
+    cue: 385
+  - name: "Valentine, Texas"
+    label: "Valentine"
+    note: "All the helicopters landed in the Davis Mountains, about 25 miles north-east of the town, and waited until 0225."
+    cue: 613
+  - text: "Van Horn, Texas"
+    label: "Van Horn"
+    coordinates: [31.0425, -104.8331]
+    date: "28 Aug 1974"
+    note: "They met a small convoy near Van Horn and Kent; the disc was sealed into a truck and the helicopters went home."
+    cue: 626
+routes:
+  - path: [1, 2, 3]
+    label: "Outbound, 27 Aug: along the border, crossing north of Candelaria"
+  - path: [3, 4, 5]
+    label: "Back with the disc, 27–28 Aug: via the Davis Mountains stopover"
+---
+::
+
 The host dwells on Atlanta. [[Lockheed Martin]] runs a complex at Air Force Plant 6, less than 30 miles outside the city in Marietta, which Lockheed says does [[Lockheed Martin Skunk Works|Skunk Works]] advanced development. Lockheed Martin was not formed until 1995, but its predecessor, the Lockheed company, did C-130 work in Marietta from the 1950s. More intriguing to him is the Georgia Nuclear Aircraft Laboratory (Air Force Plant 67), where Lockheed studied nuclear-powered aircraft; it closed in 1971 and passed to the city of Atlanta.
 
 ### The disc

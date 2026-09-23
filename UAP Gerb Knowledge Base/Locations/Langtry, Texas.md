@@ -1,5 +1,6 @@
 ---
 name: "Langtry, Texas"
+coordinates: [29.8086, -101.5596]
 tags:
   - location
 ---

@@ -903,6 +903,176 @@ Authoring rules:
 - **Cues follow the timeline's rule** (gotcha 8): a cue without `cueApprox`
   claims you read the captions at that second.
 
+### `::wiki-map`
+
+Source: `app/app/components/content/WikiMap.vue` (normalisation, framing,
+pin spreading, label placement and outline decoding in `app/app/utils/map.ts`,
+unit-tested in `map.test.ts`; outline data built by
+`app/scripts/build-map-outlines.mjs`)
+
+Where a story happens: numbered pins on a static outline map, optional route
+lines between them, and a numbered legend under the map that repeats
+everything the map shows as text. Use it when geography is part of the
+argument: a route (an object's custody, a recovery flight, a reported
+course), a cluster of sites (a valley's alleged network), or places whose
+relative position the video leans on (two crash sites on either side of a
+town, candidate bases at different distances). A single place, or places
+the video merely lists, stay in prose.
+
+What it renders:
+
+- **An outline map, fitted to the pins.** Country outlines are Natural Earth
+  (public domain): 1:50m for the Americas and the United States, 1:110m
+  elsewhere, with Natural Earth's 1:50m lakes and the 1:10m borders between
+  US states drawn over them. They ship with the site as two small files in
+  `app/public/geo/` (about 120 KB gzipped together), fetched once per page
+  load and only by a page that has a map. **No tile server and no
+  third-party request.** Projection is d3-geo: an azimuthal equal-area
+  projection centred on the pins for a regional map, Equal Earth for a world
+  map. A regional map labels the countries in view in quiet capitals and
+  carries a scale bar in miles (with km).
+- **Numbered pins.** A pin that names a page is solid and clicking it opens
+  the page; a place with no page (`text:`) is a hollow, dashed pin, as
+  `::wiki-chain` dashes a stage with no page. Pins that would overlap are
+  nudged apart, with a leader line and a small dot at the true location. An
+  optional short `label` is drawn beside the pin, on whichever side is clear.
+  An optional `radius` (miles) draws a dashed circle around the pin (a search
+  area, "within 7.5 miles of the lake bed").
+- **Routes.** Lines joining pins in order, with a direction arrow on each
+  leg that has room. `style: dashed` for anything reported, alleged or
+  reconstructed. Lines are straight between the places: a route is a
+  sequence, never a surveyed track, and the caption should say so.
+- **The legend.** An ordered list, one row per pin: its number (same style
+  as the pin), the entity link, date, radius, note and cue chip. Under it,
+  each route as a line swatch, its stops ("1 → 2 → 3") and its label. A pin
+  with no coordinates is still listed, marked "Not on the map". Hovering a
+  legend row highlights its pin, and hovering a pin highlights its row.
+- **Layout.** The SVG is drawn at the real pixel width of its column
+  (measured), so pins and type keep their size on a phone. Its height
+  follows the frame's shape, clamped between letterbox and portrait. The
+  legend is two columns from a 36rem container, one below. Nothing scrolls
+  sideways.
+- **Accessibility.** The SVG is `role="img"` with a summary ("Map with 5
+  numbered places and 2 routes: 1, Fort Bliss; …"); pins are not focusable,
+  because the legend carries the same links and cues. Each route's stops are
+  spelled out for screen readers ("Route: Fort Bliss, then Presidio…"). The
+  outline fade-in and hover transitions are off under reduced motion.
+- **Theming.** Water is `--card`, land a wash of `--muted-foreground`,
+  borders softened `--muted-foreground`, routes and circles `--primary`,
+  pins `--foreground` with `--background` numerals. Tokens only.
+
+Props:
+
+| Prop | Type | Default | Notes |
+|---|---|---|---|
+| `pins` | `(string \| Pin)[]` | `[]` | YAML body. A bare string is a page title. See schema below |
+| `routes` | `(number[] \| Route)[]` | `[]` | YAML body. See schema below |
+| `region` | `string` | `'auto'` | YAML body. `auto` fits the pins (and any circles); `us` shows the contiguous United States, widened to take in any pin outside it; `world` shows the whole world. `auto` also switches to a world map when the pins span more than 100° of longitude or 60° of latitude |
+| `label` | `string` | `''` | YAML body. Replaces the "Map" kicker |
+| `caption` | `string` | `''` | YAML body. Shown under the legend, followed by the outline credit; also names the legend list |
+| `video` | `string` | `''` | Attribute. YouTube id; gates every cue chip |
+| `videoTitle` | `string` | `''` | Attribute, written `video-title`. Forwarded to each `WikiCue` |
+
+Nothing renders without at least one pin. With pins but no coordinates for
+any of them, the legend renders alone.
+
+`Pin` and `Route` schema:
+
+```yaml
+pins:
+  - "Fort Bliss"                       # bare page title: placed from its coordinates
+  - name: "Coyame, Chihuahua, Mexico"  # PLAIN page title (gotchas 1/2)
+    label: "Coyame"                    # optional short label beside the pin
+    date: "27 Aug 1974"                # optional; formatted like the timeline's
+    note: "Over the convoy at 1653."   # optional one-liner in the legend
+    cue: 385                           # optional, seconds into `video`
+    cueApprox: true                    # optional; omit for a hand-verified cue
+    radius: 90                         # optional, miles: a dashed circle
+  - text: "Presidio, Texas"            # a place with no page: never resolved,
+    coordinates: [29.5614, -104.3664]  # so it needs [lat, lon] here
+  - name: "R2508 Complex"              # coordinates on a named pin override the
+    coordinates: [34.9045, -116.9497]  # page's (a point within a larger place)
+routes:
+  - [1, 2, 3]                          # stops by pin number, as shown (1-based)
+  - path: [3, "Valentine, Texas", 5]   # or by a pin's name or label
+    label: "Back with the disc"        # shown in the legend
+    style: dashed                      # reported, alleged or reconstructed
+  - { from: 1, to: 4 }                 # two-stop shorthand
+```
+
+Normalisation (`buildMap`): a pin with neither `name` nor `text` is dropped
+and the rest are numbered in order; `coordinates` must be a valid
+`[lat, lon]` pair and `radius` a positive number of miles up to 1,500, or
+they are ignored; a route stop that matches no pin is skipped, a repeated
+stop collapses, and a route left with fewer than two stops is dropped.
+
+**Where coordinates come from.** A Location page carries its own
+`coordinates: [lat, lon]` frontmatter (decimal degrees, WGS 84, latitude
+first):
+
+```yaml
+---
+name: "Kecksburg, Pennsylvania"
+coordinates: [40.1847, -79.4608]
+tags:
+  - location
+---
+```
+
+The build bakes every note's coordinates (`wiki/geo.ts` parses them; the
+bake stores them sparsely by node), and `/api/resolve` adds a `coordinates`
+field to the ref of any note that has them, so a pin needs only the page
+title. Refs of notes without coordinates are unchanged. The page's fact
+table shows the coordinates too. **Only add coordinates you have checked
+online** (Wikipedia or Wikidata's coordinate for the place, or a cited
+description of a facility's position), and put the place itself, not the
+nearest city, on a facility's page. For a place with no page, or a
+non-Location page (an organisation), write `coordinates` on the pin
+instead. Coordinates the video implies ("44.5 miles north-west of Emerson
+Dry Lake") may be computed from a checked point, but say so in the note or
+caption.
+
+Worked example (from the 1974 Coyame article):
+
+```mdc
+::wiki-map{video="bL3tMByq_WM" video-title="The 1974 Coyame, Mexico UFO Crash"}
+---
+caption: "The recovery flight as the Denb Report describes it. The lines join the places the report names; it gives no exact flight paths."
+pins:
+  - name: "Fort Bliss"
+    label: "Fort Bliss"
+    note: "The team and four unmarked helicopters were staged here by 2100."
+  - text: "Presidio, Texas"
+    label: "Presidio"
+    coordinates: [29.5614, -104.3664]
+  - name: "Coyame, Chihuahua, Mexico"
+    label: "Coyame"
+    cue: 385
+routes:
+  - path: [1, 2, 3]
+    label: "Outbound, 27 Aug: along the border, crossing north of Candelaria"
+---
+::
+```
+
+Authoring rules:
+
+- **A map earns its place** when position carries the argument: a route of
+  three or more stops, a cluster, or places compared by distance or side.
+  Everything on it must still be in the prose or the legend.
+- **Keep the frame tight.** One far-off pin shrinks everything else to a
+  cluster. Leave it off and name it in the caption ("lies far to the east,
+  off this map") rather than squeezing the places that matter.
+- **Lines are sequences, not tracks.** Say in the caption that lines join
+  named places; dash anything alleged or reconstructed; never draw a route
+  the video doesn't describe.
+- **Labels are short** (a town, "Edwards AFB"); the full title is in the
+  legend. Skip `label` on a crowded map rather than let labels collide.
+- **Nothing sensitive.** Don't pin a location the video itself asks viewers
+  not to seek out (the Dugway article's alleged tunnel entrance stays
+  unmapped).
+- **Cues follow the timeline's rule** (gotcha 8).
+
 ### `::wiki-panel` (Tier 1 primitive)
 
 Source: `app/app/components/content/WikiPanel.vue`
@@ -1031,14 +1201,17 @@ cap), chunked and fetched in parallel if a page exceeds that. Returns
 `{ refs }`, a `Map<string, NoteRef>` keyed by the exact trimmed name string a
 component passed in. A name with no matching note — or in a chunk whose
 request failed — is simply absent from the map; every component here falls
-back to rendering plain, unlinked text in that case (see gotcha 2).
+back to rendering plain, unlinked text in that case (see gotcha 2). A note
+with `coordinates:` frontmatter also comes back with
+`coordinates: [lat, lon]` on its ref (baked from `wiki/geo.ts` and added by
+`server/utils/resolveNames.ts`); every other ref has no such key.
 
 ### `app/app/components/wiki/WikiEntityLink.vue`
 
 Renders a `NuxtLink` tinted by `tintFor(refData.category)` when `refData` is
 present, otherwise a plain `<span>{{ name }}</span>`. This is the shared
 "resolved-or-plain-text" leaf used by `WikiTimeline`, `WikiRoster`,
-`OrgChartNode`, `WikiCompare`, `WikiChain` and `WikiClaim`. Lives in `components/wiki/` (not `components/content/`)
+`OrgChartNode`, `WikiCompare`, `WikiChain`, `WikiClaim` and `WikiMap`. Lives in `components/wiki/` (not `components/content/`)
 because it is never referenced directly from an MDC block — only from other
 components.
 
@@ -1091,6 +1264,31 @@ formatted dates and validated cues, plus every speaker name for one batched
 resolve. `CLAIM_STANCE_LABEL` / `CLAIM_STANCE_HINT` hold each stance's word
 and one-line meaning; `joinSpeakers` builds "A, B and C" for accessible
 names.
+
+### `app/app/utils/map.ts`
+
+`buildMap(pins, routes)` normalises `::wiki-map`'s YAML into
+`{ pins, routes, names }` (numbered pins, routes as pin indexes, resolvable
+names for one batched resolve). Beside it: `placePins` (a pin's own
+coordinates, else its page's), `mapFrame` (what to fit: the pins with a
+minimum span of `MIN_FRAME_SPAN` degrees and 20% padding, the US, or the
+world), `radiusPoints`, `boundsOutline` (edge samples for fitting a curved
+projection), `spreadPins` (deterministic nudging of overlapping pins),
+`placeLabels` (greedy right / left / top / bottom label placement),
+`niceLength` (scale-bar lengths) and `decodeOutline` (the outline files'
+delta-encoded rings and lines to GeoJSON). None of it touches d3 or the
+DOM.
+
+### `app/scripts/build-map-outlines.mjs` and `app/public/geo/`
+
+Builds `public/geo/world.json` (countries and lakes) and
+`public/geo/us-states.json` (the lines between US states) from Natural
+Earth via the `world-atlas` and `us-atlas` devDependencies, plus Natural
+Earth's 1:50m lakes (downloaded once from the pinned v5.1.2 release into
+`scripts/.cache/`). Run `node scripts/build-map-outlines.mjs` from `app/`
+only to change the outlines; the output is committed. Coordinates are
+snapped to a grid and delta-encoded, and a polygon whose snapped winding
+would flood the map is dropped.
 
 ### `app/app/components/wiki/WikiTocRail.vue`
 

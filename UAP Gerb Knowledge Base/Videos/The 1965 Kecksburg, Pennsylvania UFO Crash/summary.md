@@ -619,6 +619,46 @@ steps:
 ---
 ::
 
+Put on a map, the object's two journeys run in opposite directions. The fireball's reported course came south-east out of Michigan, across northern Ohio and into western Pennsylvania. The route the witnesses describe for the recovered object runs back west, across Ohio, to two Air Force bases.
+
+::wiki-map{video="rgBTMzFd-hg" video-title="The 1965 Kecksburg, Pennsylvania UFO Crash"}
+---
+caption: "The fireball's reported course on 9 December and the object's alleged route afterwards. The course joins the towns the video names; it is not a surveyed track."
+pins:
+  - text: "Lapeer, Michigan"
+    label: "Lapeer"
+    coordinates: [43.0519, -83.3164]
+    note: "Pieces seemed to break off the fireball here. Witnesses in Michigan first saw it 40 to 60 miles up."
+  - text: "Elyria, Ohio"
+    label: "Elyria"
+    coordinates: [41.3733, -82.1128]
+    note: "More pieces seemed to fall here, and McClelland calculated a change of course of about 25 degrees."
+  - name: "Greensburg, Pennsylvania"
+    label: "Greensburg"
+    note: "The object turned between Greensburg and Latrobe and headed south, then turned again near Laurelville toward Kecksburg."
+  - name: "Kecksburg, Pennsylvania"
+    label: "Kecksburg"
+    date: "9 Dec 1965"
+    note: "Impact in the woods at about 4:45 p.m."
+    cue: 177
+  - name: "Lockbourne Air Force Base, Columbus, Ohio"
+    label: "Lockbourne AFB"
+    date: "10 Dec 1965"
+    note: "An Air Force guard says the object was backed into a hangar here for a short time that morning."
+    cue: 3126
+  - name: "Wright-Patterson Air Force Base"
+    label: "Wright-Patterson AFB"
+    note: "JS and Myron say they saw it in a brick warehouse here days later."
+    cue: 3297
+routes:
+  - path: [1, 2, 3, 4]
+    style: dashed
+    label: "The fireball's reported course, 9 Dec"
+  - path: [4, 5, 6]
+    label: "The object's alleged route by truck, 10 Dec and after"
+---
+::
+
 The Lockbourne guard called Stan Gordon before the 1990 *Unsolved Mysteries* broadcast on Kecksburg. He said he was on the base's Air Force security team when the object arrived by truck from Pennsylvania early on 10 December and was backed into a hangar. Security was greatly tightened, and the object stayed only a short time that morning before leaving for Wright-Patterson.
 
 [[Myron]] contacted Gordon after the broadcast. He said he felt it was now all right to talk because the story had been on television, and he was interviewed at length by Leonard Stringfield. Stringfield had his testimony videotaped by his research associate Dr. Brian Thompson and wrote in *UFO Crash Retrievals: The Inner Sanctum* (Status Report VI) that he was convinced of Myron's sincerity. The host notes Stringfield's balance: he also recorded an insider known as "Uncle", who told him Kecksburg was a crashed spy plane, yet he pursued the case for more than a decade.

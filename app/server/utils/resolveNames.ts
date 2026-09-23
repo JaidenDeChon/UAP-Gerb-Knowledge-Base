@@ -1,4 +1,4 @@
-import type { GraphNode, NoteRef } from '../../shared/types/wiki'
+import type { BakedGeo, GraphNode, NoteRef } from '../../shared/types/wiki'
 import { resolveName } from '../../wiki/resolve'
 
 /**
@@ -25,14 +25,24 @@ export function normalizeNameParam(name: string | string[] | undefined): string[
  * positionally against the request list, so any length mismatch would
  * silently shift every link after the divergence — exactly the failure mode
  * a comma-joined query string used to cause. Pure, like `normalizeNameParam`.
+ *
+ * `geo` (the baked `[lat, lon]` of every note that has coordinates) adds a
+ * `coordinates` field to those refs, for `::wiki-map`.
  */
 export function resolveNames(
   requested: string[],
   index: Map<string, GraphNode>,
+  geo: BakedGeo = {},
 ): (NoteRef | null)[] {
-  const result = requested.map((name) => {
+  const result = requested.map((name): NoteRef | null => {
     const node = resolveName(name, index)
-    return node ? { path: node.p, title: node.l, category: node.c } : null
+    if (!node) return null
+    const coordinates = geo[node.i]
+    // `coordinates` is added only when the note has some, so every existing
+    // ref keeps exactly the shape it always had.
+    return coordinates
+      ? { path: node.p, title: node.l, category: node.c, coordinates: [coordinates[0], coordinates[1]] }
+      : { path: node.p, title: node.l, category: node.c }
   })
 
   if (result.length !== requested.length) {

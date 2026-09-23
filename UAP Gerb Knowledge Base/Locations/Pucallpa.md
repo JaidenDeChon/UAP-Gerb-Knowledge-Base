@@ -1,5 +1,6 @@
 ---
 name: "Pucallpa"
+coordinates: [-8.3833, -74.55]
 location_type: "site"
 tags:
   - location

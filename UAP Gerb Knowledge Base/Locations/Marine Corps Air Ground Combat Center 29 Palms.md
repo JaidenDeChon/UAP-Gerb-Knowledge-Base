@@ -1,5 +1,6 @@
 ---
 name: "Marine Corps Air Ground Combat Center 29 Palms"
+coordinates: [34.2317, -116.0617]
 location_type: "military installation"
 tags:
   - location

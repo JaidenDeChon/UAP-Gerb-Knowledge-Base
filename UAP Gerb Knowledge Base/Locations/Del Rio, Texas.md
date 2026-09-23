@@ -1,5 +1,6 @@
 ---
 name: "Del Rio, Texas"
+coordinates: [29.3708, -100.88]
 tags:
   - location
 ---

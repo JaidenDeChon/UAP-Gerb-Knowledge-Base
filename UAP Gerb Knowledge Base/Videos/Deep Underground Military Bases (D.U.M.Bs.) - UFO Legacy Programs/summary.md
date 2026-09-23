@@ -578,6 +578,41 @@ root:
 
 Edwards stands out. Witness Ed described a joint reverse-engineering program between Edwards and the Nevada range, including Nellis and Groom Lake. [[Michael Wolf]] claimed that, as a National Security Council consultant, he heard that live extraterrestrials were kept under Haystack Butte. Edwards test facilities are built into and on the butte, run with a primary AFRL field lab at the base's remote north-east corner. Hamilton also had a source, an aerospace engineer consultant to NASA and a colonel, who said he worked underground at China Lake, Edwards and the Nevada Test Site, all linked by maglev, and often entered through a DUMB under White Sands. The host gives this weight because a witness told him the same: an Army officer in the 2010s who rode an underground train from a fort in Texas to White Sands so fast that it reminded him of his fear of flying. :wiki-cue{t=3087 video="7Ats0lIy3Lo" video-title="Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs"} Because other witnesses have told him they have been beneath the valley, the host concludes that an anthill does exist to work on UFO legacy programs.
 
+::wiki-map{video="7Ats0lIy3Lo" video-title="Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs"}
+---
+caption: "Where the western network Hamilton's informants describe would run. Every line is an alleged underground link from their accounts, drawn straight between the sites; none is a surveyed route. White Sands, New Mexico, where the colonel says he usually entered the network, lies far to the east, off this map."
+pins:
+  - name: "Edwards Air Force Base"
+    label: "Edwards AFB"
+    note: "The alleged hub, with a command centre said to lie under Haystack Butte."
+  - name: "Tejon Ranch"
+    label: "Tejon"
+    note: "Northrop's RCS site, the \"anthill\", rumoured to go down as many as 42 levels."
+  - name: "Helendale"
+    label: "Helendale"
+    note: "Lockheed's RCS site; Sauder confirmed an underground facility."
+  - name: "Air Force Plant 42"
+    label: "Plant 42"
+    note: "Palmdale's plant and Lockheed's Skunk Works, in the heart of the valley."
+  - name: "China Lake Naval Air Weapons Station"
+    label: "China Lake"
+    note: "Sauder's Navy source put it a mile deep. Hamilton's colonel says he worked underground here."
+  - name: "Nevada National Security Site (Nevada Test Site)"
+    label: "Nevada Test Site"
+    note: "The third site Hamilton's colonel says he worked under, linked to the others by maglev."
+  - name: "Area 51"
+    label: "Area 51"
+    note: "Witness Ed describes a joint reverse-engineering program between Edwards and the Nevada range."
+routes:
+  - path: [2, 1]
+    style: dashed
+    label: "Tunnels from the anthill to Edwards, by rumour"
+  - path: [6, 5, 1]
+    style: dashed
+    label: "Maglev links between the Nevada Test Site, China Lake and Edwards, per Hamilton's colonel"
+---
+::
+
 Corporate DUMBs are not far-fetched. In 1981 [[AT&T]] revealed several emergency centres 40 feet underground, with data banks, dormitories and kitchens, one reportedly in Catron County, New Mexico. AT&T and [[Western Electric]] ran Sandia from 1949 to 1993. As recently as 1970, Standard Oil of New Jersey kept an emergency centre 300 feet underground near Hudson, New York, with dining halls and 50 sleeping rooms.
 
 ::wiki-watch{video="7Ats0lIy3Lo" title="Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs"}

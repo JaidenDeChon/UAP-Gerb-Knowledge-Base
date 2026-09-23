@@ -103,6 +103,12 @@ export interface NoteRef {
   path: string
   title: string
   category: Category
+  /**
+   * `[lat, lon]` in decimal degrees, from the note's `coordinates:`
+   * frontmatter. Only present on notes that carry one (Location pages placed
+   * on a `::wiki-map`); every other ref omits the key.
+   */
+  coordinates?: [number, number]
 }
 
 export interface NoteLinks {
@@ -176,7 +182,12 @@ export interface WikiData {
   previews: BakedPreview[]
   /** Every video summary, most recently processed first. */
   videos: BakedVideo[]
+  /** `[lat, lon]` for each note with `coordinates:` frontmatter, keyed by `GraphNode.i`. */
+  geo: BakedGeo
 }
+
+/** Sparse node index -> `[lat, lon]`. */
+export type BakedGeo = Record<number, [number, number]>
 
 /* ---------------------------------------------------------------- videos -- */
 

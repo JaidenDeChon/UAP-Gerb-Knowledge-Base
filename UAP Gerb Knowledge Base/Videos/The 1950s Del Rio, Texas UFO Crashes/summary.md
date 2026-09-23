@@ -359,6 +359,29 @@ rows:
 ---
 ::
 
+The third point is easiest to see on a map. Both stories are told from Del Rio, but the two sites lie on opposite sides of it: one about 60 miles up the Rio Grande, the other about 75 miles down it.
+
+::wiki-map{video="8S9qdRWSnD8" video-title="The 1950s Del Rio, Texas UFO Crashes"}
+---
+caption: "The two alleged crash sites, on either side of the town that gave them one name. Distances are the host's."
+pins:
+  - name: "Langtry, Texas"
+    label: "Langtry"
+    date: "Spring 1955"
+    note: "Willingham's crash: just south of the Rio Grande, across from Langtry, about 60 miles north-west of Del Rio."
+  - name: "Del Rio, Texas"
+    label: "Del Rio"
+    note: "The reference point both stories use."
+  - name: "El Indio, Texas"
+    label: "El Indio"
+    date: "6 Dec 1950"
+    note: "The MJ-12 briefing's crash: remains recovered between El Indio and Guerrero, about 75 miles south-east of Del Rio."
+  - name: "Guerrero, Mexico"
+    label: "Guerrero"
+    note: "Across the river from El Indio; the other end of the recovery area the briefing names."
+---
+::
+
 ## The Colonel Robert Willingham Case (1955)
 
 ### The witness and his record

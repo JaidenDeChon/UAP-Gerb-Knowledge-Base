@@ -1,5 +1,6 @@
 ---
 name: "Iquitos, Peru"
+coordinates: [-3.7333, -73.25]
 location_type: "city"
 tags:
   - location

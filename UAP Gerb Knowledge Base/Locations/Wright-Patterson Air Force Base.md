@@ -1,5 +1,6 @@
 ---
 name: "Wright-Patterson Air Force Base"
+coordinates: [39.8231, -84.0494]
 location_type: "military_base"
 tags:
   - location
