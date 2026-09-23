@@ -30,7 +30,7 @@ Avery Technical Center is notably missing from Dugway Proving Ground visitor gui
 
 ## Witness MS 2009 Encounter
 
-In 2009, C Martin Company contractor "MS" was assigned to read electrical meters across Dugway facilities as part of government billing operations. This routine task led him to enter an unmarked building at Avery—the "ghost building" with no numbers or insignia, believed to be Building 1010 (Test Operations).
+In 2009, C Martin Company contractor [[MS (Dugway Witness)|"MS"]] was assigned to read electrical meters across Dugway facilities as part of government billing operations. This routine task led him to enter an unmarked building at Avery—the "ghost building" with no numbers or insignia, believed to be Building 1010 (Test Operations).
 
 Upon entry, MS was immediately confronted by armed guards (believed to be Industrial Security/INDC personnel) who held him at gunpoint. Inside what MS described as a clean room environment, he observed approximately six lab technicians in white coats (believed to be ATCH and Battelle Memorial Institute scientists) surrounding a hovering disc-shaped craft approximately 10 feet tall and 20 feet in circumference. The craft exhibited the following characteristics:
 

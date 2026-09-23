@@ -2,8 +2,8 @@
 title: "Transcript - Dugway Proving Ground - UFO Legacy Programs"
 video_id: rePrVmR6a68
 url: https://www.youtube.com/watch?v=rePrVmR6a68
-date: NA
-duration_seconds: 0
+date: 2025-02-20
+duration_seconds: 4648
 channel: UAP Gerb
 tags:
   - transcript

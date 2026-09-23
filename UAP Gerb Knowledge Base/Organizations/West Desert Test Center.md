@@ -17,7 +17,7 @@ ATEC's reporting structure places it under the Secretary of the Army, Chief of S
 
 WDTC encompasses several critical installations at Dugway Proving Ground:
 
-**Ditto Technical Center:** The operational heart of WDTC, housing range operations, contractor facilities (including Jacobs Solutions), material test facilities, defensive test chambers, and the Garrison building where witness MS was interrogated for six hours following his 2009 encounter at Avery.
+**[[Ditto Technical Center]]:** The operational heart of WDTC, housing range operations, contractor facilities (including Jacobs Solutions), material test facilities, defensive test chambers, and the Garrison building where witness MS was interrogated for six hours following his 2009 encounter at Avery.
 
 **Avery Technical Center:** A 40-acre restricted facility bordering Michael Army Airfield, historically used for radiobiological warfare studies and radioactive materials handling for the Atomic Energy Commission. Avery features an internal rail system, clean room facilities, classified storage (Building 1016), test operations (Building 1010), and a tunnel entrance (Building 102) potentially connecting to the alleged DUMB. Conspicuously absent from DPG visitor guides despite being a major installation.
 

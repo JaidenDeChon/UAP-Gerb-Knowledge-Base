@@ -33,7 +33,7 @@ C Martin employees at Dugway typically hold proximity badges (level 5 in MS's ca
 
 ## Witness MS Employment (2009-2013)
 
-C Martin employed former US Navy serviceman "MS" from 2009 to 2013 as a maintenance painter and sign technician at Dugway Proving Ground. MS's duties included:
+C Martin employed former US Navy serviceman [[MS (Dugway Witness)|"MS"]] from 2009 to 2013 as a maintenance painter and sign technician at Dugway Proving Ground. MS's duties included:
 
 - Facilities maintenance, painting, and signage across the installation
 - Electrical meter reading for approximately 15 facilities to enable US government billing of contractors
