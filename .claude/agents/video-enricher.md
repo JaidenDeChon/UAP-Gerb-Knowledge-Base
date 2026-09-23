@@ -100,14 +100,16 @@ Read every line of `transcript.md` and the current `summary.md`. As you read, so
 | Shape in the video | Component |
 |---|---|
 | Dated sequence of events, a chronology, a career, a document trail | `::wiki-timeline` (with eras when the video periodizes, hinges for single turning points) |
-| Any tree: chain of command, ranks, reporting lines, **corporate ownership and subsidiaries**, program compartments, **cause → consequence cascades**, a leak's chain of custody, a family or lineage | `::wiki-org-chart` |
+| A true hierarchy: chain of command, ranks, reporting lines, **corporate ownership and subsidiaries**, program compartments, a family tree | `::wiki-org-chart` |
+| A linear or lightly branching sequence of hand-offs: an object's **chain of custody**, a **cause → consequence** cascade, how an account **travelled** from witness to publication, a lineage of successor organizations | `::wiki-chain` |
 | A cast of named people or organizations and their role in this story | `::wiki-roster` |
 | A handful of numbers that frame the video (years spanned, witnesses, documents, runtime, dollars, distances) | `::wiki-stat-strip` |
-| Competing claims, for and against, parallel cases, side-by-side comparisons | `::wiki-grid` of `::wiki-panel`s |
+| 2–5 subjects compared attribute by attribute (witness accounts, craft, cases, programs) | `::wiki-compare` |
+| Parallel cases or options that aren't a row-by-row comparison | `::wiki-grid` of `::wiki-panel`s |
 | A moment worth watching | `::wiki-cue` inline, or `::wiki-watch` as a mid-article prompt |
 | Asides and definitions | `::wiki-callout` (Obsidian `> [!type]` callouts are converted automatically) |
 
-`::wiki-org-chart` is a general tree, not only an org chart. For the non-org uses:
+Before reaching for `::wiki-org-chart`, ask whether the shape is really a hierarchy. If each node just hands off to the next, use `::wiki-chain`. When the org chart is the right fit:
 
 - A node's `name` should be a real page title whenever one exists, so it links and takes its category color.
 - A node with no page (e.g. a consequence like "Program moved into contractor cover") renders as plain unlinked text. That's fine, and it's the right choice for abstract nodes.
