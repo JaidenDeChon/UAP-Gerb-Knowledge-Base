@@ -29,7 +29,7 @@ BDM was acquired by TRW, which was itself later purchased by Northrop Grumman. U
 
 ## Rear Admiral Sumner Shapiro and the ET Vehicles Disclosure
 
-[[Rear Admiral Sumner Shapiro]] — former Director of Naval Intelligence — served as a BDM International board member. In 1989, Shapiro told NASA mission specialist [[Robert Oechsler]] (an introduction arranged by [[Bobby Ray Inman]], then SAIC board member and former NSA Director) that factions within the US possessed extraterrestrial vehicles and that he had personally studied one at close quarters. Shapiro described teams disassembling the craft, packing them up, and shipping them to different facilities, noting the craft featured unique interlocking components requiring disassembly in an exact sequence.
+[[Sumar Shapiro|Rear Admiral Sumner Shapiro]] — former Director of Naval Intelligence — served as a BDM International board member. In 1989, Shapiro told NASA mission specialist [[Bob Echler|Bob Oechsler]] (an introduction arranged by [[Bobby Ray Inman]], then SAIC board member and former NSA Director) that factions within the US possessed extraterrestrial vehicles and that he had personally studied one at close quarters. Shapiro described teams disassembling the craft, packing them up, and shipping them to different facilities, noting the craft featured unique interlocking components requiring disassembly in an exact sequence.
 
 The presence of a Director of Naval Intelligence on BDM's board at the time of this disclosure connects BDM institutionally to the highest levels of US Naval intelligence awareness of non-human technology. UAP Gerb notes that Northrop Grumman maintains a major corporate presence near BDM's former headquarters in Tyson Corner, Virginia.
 

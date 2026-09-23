@@ -249,5 +249,21 @@
       "wiki-roster"
     ],
     "cues": "verified"
+  },
+  "E-GleS2aGj0": {
+    "title": "UFO Legacy Programs - Northrop Grumman",
+    "published": "2025-01-27",
+    "enriched_at": "2026-09-23T11:56:22Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-org-chart",
+      "wiki-roster",
+      "wiki-cue",
+      "wiki-callout",
+      "wiki-grid",
+      "wiki-panel"
+    ],
+    "cues": "verified"
   }
 }

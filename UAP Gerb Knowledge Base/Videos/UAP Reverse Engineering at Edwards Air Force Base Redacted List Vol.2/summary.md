@@ -56,7 +56,7 @@ The video draws heavily on [[Leonard Stringfield]] reporting, including:
 
 - "[[Project Heaven]]" claims tied to a landed saucer and biological occupants at Edwards.
 - [[Debbie Clayton]]'s 1971 acorn-shaped crash account near Edwards.
-- "[[Project Red Light]]" claims that a recovered craft shipped from Edwards was tested at Area 51.
+- "[[Project Redlight|Project Red Light]]" claims that a recovered craft shipped from Edwards was tested at Area 51.
 
 The host presents these as overlapping narratives rather than independently verified facts.
 
@@ -90,7 +90,7 @@ The host notes unresolved inconsistencies in sourcing and nomenclature but treat
 - **Organizations**: [[Disclosure Project]], [[US Air Force]], [[AARO]], [[412th Test Wing]], [[Lockheed Martin]], [[Boeing]], [[MIT]], [[Nevada Test and Training Range]], [[998th Range Wing]], [[NRO (National Reconnaissance Office)]]
 - **Locations**: [[Edwards Air Force Base]], [[Nellis Air Force Base]], [[Hanscom Air Force Base, Massachusetts]], [[Pentagon]], [[Area 51]], [[S4]], [[Wright-Patterson Air Force Base]], [[Building 200]], [[Hangar 6]]
 - **Concepts**: [[Reverse-Engineered Non-Human Technology]], [[Special Access Programs]], [[Black Budget]], [[Craft Donation Theory]], [[Byfield Brown effect]], [[TR-3B]], [[Electronic Warfare]]
-- **Operations**: [[Project Heaven]], [[Project Red Light]], [[Project Outgrowth]], [[Blackjack Team]], [[Blackjack Control]]
+- **Operations**: [[Project Heaven]], [[Project Redlight|Project Red Light]], [[Project Outgrowth]], [[Blackjack Team]], [[Blackjack Control]]
 
 ---
 *Source: [YouTube](https://www.youtube.com/watch?v=U_LSMLGBDNg)*

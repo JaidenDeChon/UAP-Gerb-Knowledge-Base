@@ -19,7 +19,7 @@ Nell's service record establishes him as a senior military intelligence and fore
 
 His Operation Iraqi Freedom role as a foreign materials program representative is believed to be the basis for his firsthand witness status regarding UAP-related programs. [[Leslie Kean]] published an article in The Debrief identifying Nell among Grusch's 40 witnesses.
 
-After leaving the Army, Nell served as Deputy Chief Technology Officer at [[Northrop Grumman]] — a company UAP researchers have directly implicated in the construction of classified anti-gravity craft including the [[TR-3B]] and the Great Pumpkin anti-gravity disc.
+After leaving the Army, Nell served as Deputy Chief Technology Officer at [[Northrop Grumman]] — a company UAP researchers have directly implicated in the construction of classified anti-gravity craft including the [[TR-3B]] and the Great Pumpkin anti-gravity disc. UAP Gerb's *UFO Legacy Programs - Northrop Grumman* says Nell spent 13 years at the company as deputy CTO and director of systems engineering and integration, and that while deputy CTO he also served as command representative to US Central Command for the Army's foreign materiel program. After playing Nell's statement that there is "zero doubt" non-human intelligence exists and has been interacting with humanity, the host wonders whether that certainty came from his position at Northrop.
 
 ## Sol Foundation Symposium Presentation (November 2023)
 
@@ -71,6 +71,7 @@ Nell's combination of credentials — military intelligence, DIA foreign materia
 - [[Video - Alien Reproduction Vehicle - the Testimony of Mark McCandlish]]
 - [[Video - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure]]
 - [[Video - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)]]
+- [[Video - UFO Legacy Programs - Northrop Grumman]]
 
 ## Related Pages
 
