@@ -1,5 +1,6 @@
 ---
 name: "Mount Soratte"
+coordinates: [42.25, 12.5]
 tags:
   - location
 ---
