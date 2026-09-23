@@ -105,7 +105,8 @@ Read every line of `transcript.md` and the current `summary.md`. As you read, so
 | A cast of named people or organizations and their role in this story | `::wiki-roster` |
 | A handful of numbers that frame the video (years spanned, witnesses, documents, runtime, dollars, distances) | `::wiki-stat-strip` |
 | 2–5 subjects compared attribute by attribute (witness accounts, craft, cases, programs) | `::wiki-compare` |
-| Parallel cases or options that aren't a row-by-row comparison | `::wiki-grid` of `::wiki-panel`s |
+| A claim weighed against attributed challenges and replies: an official finding and the witness's answer, a critic's charge and the host's rebuttal, a trial's prosecution and defence, objections and replies, competing explanations that each have a proponent and answers | `::wiki-claim` |
+| Parallel cases or options that aren't a row-by-row comparison, and that nobody answers | `::wiki-grid` of `::wiki-panel`s |
 | A moment worth watching | `::wiki-cue` inline, or `::wiki-watch` as a mid-article prompt |
 | Asides and definitions | `::wiki-callout` (Obsidian `> [!type]` callouts are converted automatically) |
 

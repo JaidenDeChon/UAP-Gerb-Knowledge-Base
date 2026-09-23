@@ -549,26 +549,69 @@ Ryan Wood's *Magic Eyes Only* includes a case dated 26 September 1994: an unusua
 
 ## The Controversy
 
-With disclosures this consequential, Fouché drew heavy fire in the early and mid-2010s. The host says he has "zero skin in this game" and only lays out the arguments, adding his view of each.
+With disclosures this consequential, Fouché drew heavy fire in the early and mid-2010s. The host says he has "zero skin in this game" and only lays out the arguments, adding his view of each. The critics are [[Jeremy Rys]] (Alien Scientist), who met Fouché in 2009 and at first considered him a friend and a genuine whistleblower, and [[David Hilton]], who had known him since February 2012. Fouché kept defenders too. [[Andrew Johnson]] interviewed him at length and became a close friend. [[Dan Benkert]], co-author with [[Michael Schratt]], knew him personally, remained a staunch supporter and rebutted a 19 March 2016 article calling the TR-3B "most likely a hoax".
 
-::wiki-grid{cols=2}
-::wiki-panel{title="The case against Fouché"}
-- **[[Jeremy Rys]]** (Alien Scientist) met Fouché in 2009 and considered him a friend and a genuine whistleblower. By 2013 he was calling the TR-3B material of "no technical value", likely invented by combining the Nazi Bell story with the Belgian wave. He objected in particular to the mercury plasma, and after four years' friendship called Fouché one of the most deceitful and manipulative people he had met. He blamed PTSD-driven alcoholism and said Fouché once claimed to have flown a TR-3B while drunk, but offered no evidence.
-- Rys said a photo Fouché sent him, supposedly showing Fouché with a crew viewing the F-117 prototype at Area 51 between 1977 and 1981, was lifted from an article titled "F-117A Senior Trend". Its photographer replied that Fouché did not know what he was talking about.
-- **[[David Hilton]]** posted "Edgar Fouche Fake Documents" in 2013, followed by videos from Rys. After knowing Fouché since February 2012, Hilton wrote to a group email (Rys, [[Dan Benkert]] and [[Andrew Johnson]]) that he believed Fouché had "made up/lied about everything".
-::
-::wiki-panel{title="The case for Fouché" tone="accent"}
-- **Andrew Johnson** interviewed Fouché at length, became a close friend and spoke very highly of him.
-- **Dan Benkert**, co-author with [[Michael Schratt]], knew Fouché personally, remained a staunch supporter and rebutted a 19 March 2016 article calling the TR-3B "most likely a hoax".
-- In July 2014 on The Outpost Forum, **Fouché** answered what appear to be Hilton's points: small indentations, uneven pressure on letters and the degradation of copies.
-- **The host's reading:** Rys's email to the photographer was loaded with accusations, which is not how to get an objective answer. Hilton himself obtained many of the FOIA records of Fouché's service. Both men's videos have since been unlisted or removed, which the host takes as a concession.
-::
+::wiki-claim{video="B7JP0uX0GwY" video-title="Alien Reproduction Vehicle - TR-3B and the Flying Triangles"}
+---
+label: "The case against Fouché"
+term: "Criticism"
+caption: "The critics' four main charges against Fouché, with his defenders' answers and the host's reading of each."
+claims:
+  - title: "No technical value"
+    by: "Jeremy Rys"
+    date: 2013
+    text: "The TR-3B material is information of \"no technical value\", likely invented by combining the Nazi Bell story with the Belgian wave. Rys objected in particular to the mercury-based plasma."
+    cue: 2758
+    responses:
+      - by: "The host"
+        stance: challenges
+        text: "He knows too little about the TR-3B's physics to dispute it as Rys does, and doubts the story is as simple as Fouché borrowing from the Belgian wave."
+        cue: 4259
+  - title: "Deceit and drink"
+    by: "Jeremy Rys"
+    text: "After four years' friendship, Fouché is one of the most deceitful and manipulative people he has met. Rys blamed PTSD-driven alcoholism, and said Fouché once claimed to have flown a TR-3B while drunk."
+    cue: 2797
+    responses:
+      - by: "The host"
+        stance: challenges
+        text: "Rys offered no evidence for the drinking claim."
+        cue: 2814
+      - by: "Andrew Johnson"
+        stance: supports
+        text: "Having interviewed Fouché many times and become a close friend, he spoke very highly of him."
+        cue: 2819
+  - title: "The F-117 photograph"
+    by: "Jeremy Rys"
+    text: "A photo Fouché sent him, supposedly showing Fouché with a crew viewing the F-117 prototype at Area 51 between 1977 and 1981, was lifted from an article titled \"F-117A Senior Trend\". Its photographer replied that Fouché did not know what he was talking about."
+    cue: 2843
+    responses:
+      - by: "The host"
+        stance: challenges
+        text: "Rys's first emails to the photographer were loaded with accusations, which is not how to get an unbiased, objective answer."
+        cue: 2867
+  - title: "Fake documents"
+    by: "David Hilton"
+    date: 2013
+    where: "Edgar Fouche Fake Documents (video) and a group email"
+    text: "Fouché's military documents are fake. In an email to Rys, Benkert and Andrew Johnson, Hilton wrote that he believed Fouché had \"made up/lied about everything\"."
+    cue: 2890
+    responses:
+      - by: "Edgar Fouche"
+        stance: challenges
+        date: "2014-07"
+        text: "On The Outpost Forum he answered what appear to be Hilton's points: small indentations, uneven pressure on letters and the degradation of copies."
+        cue: 2960
+      - by: "The host"
+        stance: challenges
+        text: "Hilton himself obtained many of the FOIA records of Fouché's service. Both men's videos have since been unlisted or removed, which the host takes as a concession."
+        cue: 2945
+---
 ::
 
 > [!warning] Hilton's Skype remarks
 > In a June 2012 Skype conversation, Hilton told Benkert that he actually worked "for an agency that monitors things" and that he now controlled Fouché: "the exposer becomes a tool of control". The host finds the remarks extremely startling.
 
-The host does not find the critics' physics objections decisive, saying he knows too little about the TR-3B's physics to dispute it as Rys does, and doubts the story is as simple as Fouché borrowing from the Belgian wave. The most valid criticism, he says, is that apart from three sightings outside program operations, Fouché's information is secondhand, relayed from Gerald, Bud, Doc, S. and the others. Gerald died soon after their first meeting and Fouché himself has since died. The host appeals to any surviving source to contact him.
+The most valid criticism, the host says, is his own: apart from three sightings outside program operations, Fouché's information is secondhand, relayed from Gerald, Bud, Doc, S. and the others. Gerald died soon after their first meeting and Fouché himself has since died. The host appeals to any surviving source to contact him. :wiki-cue{t=4421 video="B7JP0uX0GwY" video-title="Alien Reproduction Vehicle - TR-3B and the Flying Triangles" entry-title="The most valid criticism"}
 
 ## Triangles in the Wild
 

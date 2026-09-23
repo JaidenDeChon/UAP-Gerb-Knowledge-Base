@@ -776,6 +776,133 @@ Authoring rules:
 - **Cues follow the timeline's rule** (gotcha 8): a cue without `cueApprox`
   claims you read the captions at that second.
 
+### `::wiki-claim`
+
+Source: `app/app/components/content/WikiClaim.vue` (normalisation in
+`app/app/utils/claim.ts`, unit-tested in `claim.test.ts`)
+
+A claim and the attributed responses to it. Use it where a video weighs a
+claim against challenges and replies: an official finding and the witness's
+answer, a critic's charge and the host's rebuttal, a trial's prosecution and
+defence, a list of objections and replies, or competing explanations that
+each have a proponent and answers. The vault's rule is "attribute, don't
+debunk", so the component's job is to keep **who said what** attached to
+every point. It replaces the paired `::wiki-panel`s (for / against,
+objection / reply) that used to carry these, which had no slot for a speaker
+or a stance and lost track of which reply answered which claim once they
+stacked on a phone.
+
+What it renders:
+
+- **Claim cards.** Each claim names who made it (`by`, entity links resolved
+  in one batch through `useWikiResolve`; a name with no page is plain text),
+  with an optional date, where it was made (a book, a hearing, a forum), a
+  one-line note on the claimant, a short title and a cue chip. The card is
+  tinted by the first claimant's category, with a 3px spine, like
+  `::wiki-chain`'s step cards. A small tag labels it ("Claim", or the `term`
+  you set: "Objection", "Explanation", "Charge").
+- **Responses** hang under their claim from a thread line, so a reply always
+  sits with the claim it answers. Each names its speaker and carries a
+  **stance tag**: `supports`, `challenges`, `host` (rendered "Host's view")
+  or `unresolved`. The tag is a word plus a glyph (plus, minus, microphone,
+  question mark), never colour alone; tone (green, blue, purple, dashed grey)
+  only reinforces it, on the tag's border and on the response's spine. Every
+  tone was measured at 3:1 or better against `--card` in all four themes.
+  Stance is optional: a response with none shows just its speaker.
+- **Several claims per block** (`claims:`), each grouped with its own
+  responses and numbered on its tag ("Objection 3"), separated by a hairline.
+- **Layout.** One column at every width. Below a 26rem container (a phone,
+  or a narrow grid column) the replies' indent tightens; nothing scrolls
+  sideways.
+- **Accessibility.** The claims are an `<ol>` named by the kicker and
+  caption; each claim's responses are a `<ul>` named "Responses to
+  <title>". A cue's accessible name says whose point it jumps to
+  ("Challenges: Michael Herrera"). Nothing animates.
+
+Props:
+
+| Prop | Type | Default | Notes |
+|---|---|---|---|
+| `claim` | `Claim` | *(none)* | YAML body. A single claim (shorthand). Ignored when `claims` has entries |
+| `responses` | `Response[]` | `[]` | YAML body. Responses to the single `claim`; wins over a `responses` list nested inside it |
+| `claims` | `Claim[]` | `[]` | YAML body. Several claims, each with its own nested `responses` |
+| `label` | `string` | `''` | YAML body. Replaces the kicker ("Claim and response", or "Claims and responses" for several) |
+| `term` | `string` | `''` | YAML body. The word on each claim's tag; defaults to "Claim" |
+| `caption` | `string` | `''` | YAML body. Shown under the block; also folded into the list's accessible name |
+| `video` | `string` | `''` | Attribute. YouTube id; gates every cue chip |
+| `videoTitle` | `string` | `''` | Attribute, written `video-title`. Forwarded to each `WikiCue` |
+
+Nothing renders if no claim survives normalisation.
+
+`Claim` and `Response` schema:
+
+```yaml
+claims:
+  - title: "Never on the NSC"          # optional short heading
+    by: "Stanton Friedman"             # PLAIN page title(s) (gotchas 1/2), or plain text;
+                                       # a list for several speakers: ["A", "B"]
+    date: "1997"                       # optional; formatted like the timeline's
+    where: "The Eisenhower Library"    # optional: the book, hearing or forum
+    note: "Critic since the 1990s"     # optional one-liner on the claimant
+    text: "Corso never attended an NSC meeting."   # required
+    cue: 4442                          # optional, seconds into `video`
+    cueApprox: true                    # optional; omit for a hand-verified cue
+    responses:
+      - by: "The host"                 # speaker (optional)
+        stance: challenges             # supports | challenges | host | unresolved
+                                       # (also accepted: for, against, host's view, open)
+        date: "2014-07"                # optional
+        text: "The 1992 Senate report lists him as NSC staff."   # required
+        cue: 510
+        cueApprox: true
+```
+
+Normalisation (`buildClaims`): a claim or response with no `text` is
+dropped; `by` is trimmed and deduplicated; an unknown stance becomes no
+stance rather than a guess; cues follow the same rules as the timeline's.
+
+Worked example (from the Michael Herrera article):
+
+```mdc
+::wiki-claim{video="4EMO38JUfVE" video-title="Michael Herrera - Insights into UAP Encounter and Black Program Insiders"}
+---
+caption: "The two challenges to Herrera's account that the interview takes up."
+claims:
+  - title: "What AARO wrote"
+    by: "AARO"
+    where: "AARO Historical Report Volume 1"
+    text: "A former service member saw US Special Forces loading containers onto an extraterrestrial spacecraft."
+    cue: 4538
+    responses:
+      - by: "Michael Herrera"
+        stance: challenges
+        text: "\"I didn't say extraterrestrial and I didn't say they were US Special Forces.\""
+        cue: 4547
+---
+::
+```
+
+Authoring rules:
+
+- **Only for real claim-and-response.** A claim needs someone who made it and
+  at least one attributed answer, or it belongs to a set of competing
+  explanations where the others are answered. Genuinely parallel panels
+  (four witness accounts, two hypotheses nobody answers, two sources that
+  simply disagree on a fact) stay as `::wiki-grid` panels or become a
+  `::wiki-compare`.
+- **Name the speaker every time.** Use the page title when there is one. When
+  the host rebuts a point, write `by: "The host"` with `stance: challenges`
+  (or `supports`); keep `stance: host` for his own reading or leaning where
+  it is neither for nor against, and `unresolved` where he, or anyone, leaves
+  it open. A group with no page ("Sceptics of the manual", "Eyewitnesses") is
+  fine as plain text.
+- **Stances describe the response's relation to the claim**, not whether the
+  vault agrees with it. Never add a response the video doesn't make.
+- **Keep text short.** A claim or reply is a sentence or three; the argument
+  and the context go in the prose around the block, with the wikilinks.
+- **Cues follow the timeline's rule** (gotcha 8): a cue without `cueApprox`
+  claims you read the captions at that second.
+
 ### `::wiki-panel` (Tier 1 primitive)
 
 Source: `app/app/components/content/WikiPanel.vue`
@@ -911,7 +1038,7 @@ back to rendering plain, unlinked text in that case (see gotcha 2).
 Renders a `NuxtLink` tinted by `tintFor(refData.category)` when `refData` is
 present, otherwise a plain `<span>{{ name }}</span>`. This is the shared
 "resolved-or-plain-text" leaf used by `WikiTimeline`, `WikiRoster`,
-`OrgChartNode`, `WikiCompare` and `WikiChain`. Lives in `components/wiki/` (not `components/content/`)
+`OrgChartNode`, `WikiCompare`, `WikiChain` and `WikiClaim`. Lives in `components/wiki/` (not `components/content/`)
 because it is never referenced directly from an MDC block — only from other
 components.
 
@@ -953,6 +1080,17 @@ steps and forks with trimmed text, formatted dates (`formatDate` from
 (`MAX_CHAIN_DEPTH`), and the list of resolvable names for one batched
 resolve. `CHAIN_KIND_LABEL` / `CHAIN_KIND_VERB` hold each kind's kicker and
 screen-reader verb.
+
+### `app/app/utils/claim.ts`
+
+`buildClaims(claim, responses, claims)` normalises `::wiki-claim`'s YAML
+into `{ claims, names }`: the single-claim shorthand or the `claims` list,
+trimmed text, speakers as deduplicated lists, stances validated through
+`normalizeStance` (with aliases such as `against` and `host's view`),
+formatted dates and validated cues, plus every speaker name for one batched
+resolve. `CLAIM_STANCE_LABEL` / `CLAIM_STANCE_HINT` hold each stance's word
+and one-line meaning; `joinSpeakers` builds "A, B and C" for accessible
+names.
 
 ### `app/app/components/wiki/WikiTocRail.vue`
 

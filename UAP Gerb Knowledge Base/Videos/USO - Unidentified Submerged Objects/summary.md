@@ -364,19 +364,53 @@ The video ends on its most contested evidence: photographs said to have been tak
 
 The host sets out four readings and says where the evidence he found leaves each:
 
-::wiki-grid{cols=2}
-::wiki-panel{title="Genuine USOs" tone="accent"}
-Real trans-medium craft met by chance. Sackett and Klika's non-answers are compatible with this if they are bound by security oaths or never knew what the periscope caught. The host calls himself undecided but finds the images "perplexing".
-::
-::wiki-panel{title="Hoax"}
-The other reading the host keeps open. Wim Van Utrecht found signs of tampering in one of the best images. [[John Greenewald]] argues that it was probably enhanced for print, as magazines often did, since the original differs from the published version, and that one altered frame does not discredit the rest. The host agrees.
-::
-::wiki-panel{title="Balloon training exercise"}
-Real photographs of the submarine engaging test or barrage balloons. The host found no evidence that attack submarines carried training balloons, apart from a 1955 joint Navy-CIA test of balloon launches from submarines, and no live-fire records for the Trepang. When investigator Steve Murillo reached him, Sackett said he saw nothing unusual and "only saw ice"; Klika said he did not know what the pictures showed. For the host, these two statements "essentially kill" this theory.
-::
-::wiki-panel{title="Fata Morgana"}
-Some or all of the frames show a complex mirage appearing above the horizon. The video records this view without weighing it further.
-::
+::wiki-claim{video="U-jrx_giINA" video-title="USO - Unidentified Submerged Objects"}
+---
+label: "Four readings of the Trepang photographs"
+term: "Reading"
+caption: "The four readings of the photographs the video records, with the evidence and opinions it weighs against each."
+claims:
+  - title: "Genuine USOs"
+    text: "Real trans-medium craft, met by chance."
+    cue: 1290
+    responses:
+      - by: "The host"
+        stance: host
+        text: "Sackett's and Klika's non-answers are compatible with this, if they are bound by security oaths or never knew what the periscope caught. He is undecided, but finds the images \"perplexing to say the least\"."
+        cue: 1422
+  - title: "Hoax"
+    text: "The photographs are faked."
+    cue: 1292
+    responses:
+      - by: "Wim Van Utrecht"
+        stance: supports
+        text: "One of the best images of the set shows signs of tampering, the only such example the host knows of."
+        cue: 1429
+      - by: "John Greenewald"
+        stance: challenges
+        text: "Though extremely sceptical of the images, he argues the frame was probably enhanced for print, as magazines often did, since the original differs from the published version. One altered frame does not discredit the rest."
+        cue: 1441
+      - by: "The host"
+        stance: host
+        text: "He agrees with Greenewald and finds the hypothesis \"pretty plausible\"."
+        cue: 1459
+  - title: "Balloon training exercise"
+    text: "Real photographs, showing the submarine engaging test or barrage balloons."
+    cue: 1295
+    responses:
+      - by: "The host"
+        stance: challenges
+        text: "He found no evidence that attack submarines carried training balloons, apart from a 1955 joint Navy-CIA test of balloon launches from submarines, and no live-fire records for the Trepang."
+        cue: 1359
+      - by: ["Dean Reynolds Sackett", "John Klika"]
+        stance: challenges
+        text: "Reached by investigator Steve Murillo, Sackett said he saw nothing unusual and \"only saw ice\"; Klika said he did not know what the pictures showed. For the host, these two statements \"essentially kill\" this theory."
+        cue: 1386
+  - title: "Fata Morgana"
+    note: "The video records this view without weighing it further"
+    text: "Some or all of the frames show a complex mirage appearing above the horizon."
+    cue: 1301
+---
 ::
 
 ## Key Figures

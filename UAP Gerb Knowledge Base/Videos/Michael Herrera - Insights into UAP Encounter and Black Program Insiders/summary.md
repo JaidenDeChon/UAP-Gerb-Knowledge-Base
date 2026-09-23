@@ -295,21 +295,51 @@ Several members of Herrera's platoon told Joey of a rumour that the first Marine
 
 Herrera says he was not a believer before 2009. He would once have mocked anyone claiming to have seen a craft while out fishing in Mississippi. He stresses that he did not see extraterrestrials: he saw operators and "clearly man-made" technology. Yet it "didn't do [anything] a normal helicopter or plane did." It had no rotor, left no rotor wash on the vegetation, and looked like nothing a would-be fighter pilot knew in the US, Indonesian, Chinese or Japanese inventories. :wiki-cue{t=4312 video="4EMO38JUfVE" video-title="Michael Herrera - Insights into UAP Encounter and Black Program Insiders"}
 
-Joey rejects comparisons with the [[Paul Bennewitz]] case. Bennewitz had only radio intercepts that he guessed were extraterrestrial, and [[Richard Doty]], Joey says, told him he had been instructed to encourage that idea. Joey argues that if Herrera had made his encounter up, an insider claiming to know about it would be self-evidently lying. Two challenges get a full hearing:
+Joey rejects comparisons with the [[Paul Bennewitz]] case. Bennewitz had only radio intercepts that he guessed were extraterrestrial, and [[Richard Doty]], Joey says, told him he had been instructed to encourage that idea. Joey argues that if Herrera had made his encounter up, an insider claiming to know about it would be self-evidently lying.
 
-::wiki-grid{cols=2}
-::wiki-panel{title="What AARO wrote"}
-In April 2023 Herrera testified in a secure facility to AARO, including Dr. [[Sean Kirkpatrick]]. He says Kirkpatrick seemed uninterested and asked the same question three times: who were the operators? AARO said it had access to satellite imagery of the day, but more than a year later had not come back to him. The [[AARO Historical Report Volume 1]] then said a former service member had seen US Special Forces loading containers onto an extraterrestrial spacecraft.
-::
-::wiki-panel{title="Herrera's answer" tone="accent"}
-"I didn't say extraterrestrial and I didn't say they were US Special Forces." He calls it a purposeful misstatement, and says a man who sat in the room with him can confirm it. He signed several documents, including an NDA covering the location and the other attendee, and recognizes a draft form released through FOIA by [[The Black Vault]] as the kind he was shown. He dismisses Kirkpatrick's interviews with [[Steven Greenstreet]], and cites the photograph a man named Brandon posted on Twitter placing Kirkpatrick at a 2018 Skinwalker Ranch briefing that Kirkpatrick had denied attending.
-::
-::wiki-panel{title="What Nathan claims"}
-Nathan, who was Herrera's team leader at one point and was on the same ship and operation, says Herrera made the story up. He has produced a photograph of two Marines on a helicopter, one of whom he says is Herrera. Someone has matched its camouflage pattern to one of the only two released photos of Herrera: helmet on, holding a SAW, sent to Josh Boswell of the Daily Mail.
-::
-::wiki-panel{title="The reply" tone="accent"}
-Nathan was not in the stick that saw the craft, so he could not have seen it. Nor, Herrera adds, was it a secret night mission, and it had nothing to do with aliens. The photo is not him: the face is wrong, and he knows who it is. Camouflage patterns repeat across uniforms. Joey adds that a fabricator could simply have said he flew two missions, one with Nathan. And a liar, Herrera says, would not be approached by several insiders who have their own careers at risk.
-::
+Two challenges get a full hearing. The first comes from [[AARO]]. In April 2023 Herrera testified to it in a secure facility, with Dr. [[Sean Kirkpatrick]] in the room. He says Kirkpatrick seemed uninterested and asked the same question three times: who were the operators? AARO said it had access to satellite imagery of the day, but more than a year later it had not come back to him. Herrera signed several documents there, including an NDA covering the location and the other attendee, and he recognizes a draft form released through FOIA by [[The Black Vault]] as the kind he was shown. The second challenge comes from Nathan, who was Herrera's team leader at one point and was on the same ship and operation.
+
+::wiki-claim{video="4EMO38JUfVE" video-title="Michael Herrera - Insights into UAP Encounter and Black Program Insiders"}
+---
+caption: "The two challenges to Herrera's account that the interview takes up, and the answers given to each."
+claims:
+  - title: "What AARO wrote"
+    by: "AARO"
+    where: "AARO Historical Report Volume 1"
+    text: "A former service member saw US Special Forces loading containers onto an extraterrestrial spacecraft."
+    cue: 4538
+    responses:
+      - by: "Michael Herrera"
+        stance: challenges
+        text: "\"I didn't say extraterrestrial and I didn't say they were US Special Forces.\" He calls it a purposeful misstatement, and says a man who sat in the room with him can confirm it."
+        cue: 4547
+      - by: "Michael Herrera"
+        stance: challenges
+        text: "He dismisses Kirkpatrick's interviews with Steven Greenstreet, and cites a photograph a man named Brandon posted on Twitter placing Kirkpatrick at a 2018 Skinwalker Ranch briefing that Kirkpatrick had denied attending."
+        cue: 4680
+  - title: "What Nathan claims"
+    by: "Nathan"
+    note: "Herrera's team leader at one point, on the same ship and operation"
+    text: "Herrera made the story up. Nathan has produced a photograph of two Marines on a helicopter, one of whom he says is Herrera, and someone has matched its camouflage to one of the only two released photos of Herrera: helmet on, holding a SAW, sent to Josh Boswell of the Daily Mail."
+    cue: 4736
+    responses:
+      - by: "Michael Herrera"
+        stance: challenges
+        text: "Nathan was not in the stick that saw the craft, so he could not have seen it. Nor was it a secret night mission, and it had nothing to do with aliens."
+        cue: 4776
+      - by: "Michael Herrera"
+        stance: challenges
+        text: "The photo is not him: the face is wrong, and he knows who it is. Camouflage patterns repeat across uniforms."
+        cue: 4999
+      - by: "Joey Is Not My Name"
+        stance: challenges
+        text: "A fabricator could simply have said he flew two missions, one of them with Nathan. Only Herrera's denial that he was ever on a mission with him gives Nathan's account any weight."
+        cue: 4846
+      - by: "Michael Herrera"
+        stance: challenges
+        text: "A liar would not be approached by several insiders who have their own careers at risk."
+        cue: 4906
+---
 ::
 
 ## Coming Forward

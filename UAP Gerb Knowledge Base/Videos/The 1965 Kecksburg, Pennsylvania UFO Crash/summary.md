@@ -511,21 +511,66 @@ John Murphy taped interviews with many residents and assembled a radio documenta
 
 ## What Came Down?
 
-The host weighs four explanations.
+The host weighs four explanations. Blue Book's meteor verdict was reached under Major Quintanilla, and the Soviet-probe theory centres on the failed Venus probe Cosmos 96. Several of the answers were aired at Leslie Kean's May 2000 conference on the case.
 
-::wiki-grid{cols=2}
-::wiki-panel{title="A meteor (Project Blue Book)"}
-Blue Book's verdict, reached under Major Quintanilla: a meteor, and no material found at the site. But Blue Book did receive fragments seen falling from the fireball, sent them to Wright-Patterson and called them chaff, the radar-confusing material aircraft drop during interdiction exercises. The host asks how chaff fits a meteor, and notes that the object's speed, turns and controlled descent do not fit one either.
-::
-::wiki-panel{title="Soviet probe Cosmos 96 (James Oberg)"}
-Early sceptics proposed the failed Soviet Venus probe [[Cosmos 96]]. In a television clip, space engineer [[James Oberg]] suggests the US secretly recovered a Soviet capsule to study its heat shield and so gauge the size of Soviet ICBM warheads. A 1965 NASA release said Cosmos 96 had come down over Canada about 13 hours earlier, and US Space Command and Naval Surveillance Center records obtained by Stan Gordon put its re-entry at about 3:18 a.m. that morning.
-::
-::wiki-panel{title="A US capsule or satellite"}
-Others, including an assistant chief of the Kecksburg fire department who got within 75 yards but never had a clear view, wondered about a man-made capsule such as a Gemini. At Leslie Kean's May 2000 conference, NASA orbital-debris chief scientist [[Nicholas Johnson]] said no man-made object came down over Pennsylvania that day. He said his databases would have shown even a secret experiment, and he also ruled out the film canisters dropped by [[Project Corona]] spy satellites.
-::
-::wiki-panel{title="A non-human craft (the witnesses)" tone="accent"}
-A seamless bronze bell big enough for a person to stand in, with no propulsion, doors or seams, marked with unknown writing, sparking and smelling of sulphur. It was reached by firemen and civilians, then taken away under armed guard. This is the host's own leaning, on the weight of the testimony.
-::
+::wiki-claim{video="rgBTMzFd-hg" video-title="The 1965 Kecksburg, Pennsylvania UFO Crash"}
+---
+label: "What came down?"
+term: "Explanation"
+caption: "The four explanations the video weighs, who proposed each, and what was said against or for it."
+claims:
+  - title: "A meteor"
+    by: "Project Blue Book"
+    text: "The fireball was a meteor, and no material was found at the site."
+    cue: 1661
+    responses:
+      - by: "The host"
+        stance: challenges
+        text: "Blue Book did receive fragments seen falling from the fireball, sent them to Wright-Patterson and called them chaff, the radar-confusing material aircraft drop during interdiction exercises. Chaff does not fit a meteor, and nor do the object's speed, turns and controlled descent."
+        cue: 1675
+  - title: "The Soviet probe Cosmos 96"
+    by: "James Oberg"
+    note: "First proposed by early sceptics"
+    text: "The US secretly recovered a Soviet capsule to study its heat shield, and so gauge the size of Soviet ICBM warheads."
+    cue: 1742
+    responses:
+      - by: "NASA"
+        stance: challenges
+        date: 1965
+        text: "A press release said Cosmos 96 had come down over Canada about 13 hours earlier, and that orbital analyses \"definitively indicate\" it could not have been the probe."
+        cue: 1708
+      - by: "Stan Gordon"
+        stance: challenges
+        text: "US Space Command and Naval Surveillance Center records he obtained through FOIA put its re-entry at about 3:18 a.m. that morning."
+        cue: 1726
+      - by: "Nicholas Johnson"
+        stance: challenges
+        text: "NASA's chief scientist for orbital debris ran the probe's orbital data and found it could not have landed at Kecksburg near 5 p.m."
+        cue: 1861
+  - title: "A US capsule or satellite"
+    by: "Others"
+    note: "Including an assistant chief of the Kecksburg fire department, who got within 75 yards but never had a clear view"
+    text: "The object was a man-made capsule, such as a Gemini."
+    cue: 1811
+    responses:
+      - by: "Nicholas Johnson"
+        stance: challenges
+        text: "No man-made object came down over Pennsylvania that day. His databases would have shown even a secret experiment, and he also ruled out the film canisters dropped by Project Corona spy satellites."
+        cue: 1906
+      - by: "The host"
+        stance: challenges
+        text: "There is plenty of evidence to dispute the landing of a human-made space object, Soviet or American."
+        cue: 4403
+  - title: "A non-human craft"
+    by: "The witnesses"
+    text: "A seamless bronze bell big enough for a person to stand in, with no propulsion, doors or seams, marked with unknown writing, sparking and smelling of sulphur. Firemen and civilians reached it before it was taken away under armed guard."
+    cue: 1652
+    responses:
+      - by: "The host"
+        stance: host
+        text: "Something tangible crashed in the woods at Kecksburg, and it was not a meteor. This is his own leaning, on the weight of the testimony."
+        cue: 4384
+---
 ::
 
 ## The Fight for the Files

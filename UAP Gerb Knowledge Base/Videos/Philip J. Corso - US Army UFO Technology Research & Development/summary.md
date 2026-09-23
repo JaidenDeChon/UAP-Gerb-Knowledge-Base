@@ -641,8 +641,8 @@ At first he read the story as a dream or a parable, until he learned how many pe
 
 ## Weighing Corso
 
-::wiki-grid{cols=2}
-::wiki-panel{title="In his favour" tone="accent"}
+The video sets out what can be checked in Corso's favour:
+
 - His service record puts him at Fort Riley in July 1947, at the White Sands missile range, and in the Pentagon post he described.
 - The 1992 Senate POW/MIA report lists him as NSC staff, and his FOIA-released records show him on the Operations Coordinating Board.
 - The Army's 1958 R&D reorganization under Trudeau happened as he described it, including the outreach to universities and semi-private institutions.
@@ -650,25 +650,72 @@ At first he read the story as a dream or a parable, until he learned how many pe
 - Critics agree his story never wavered: he sounded "like a tape recorder".
 - According to Vallee's book, Bush told Davis that the material could not have been Nazi hardware, and that a conversation with Trudeau led to Corso's 1968 testimony being squashed.
 - Daniel Sheehan found Corso's posthumous 8mm film "extraordinarily persuasive".
-::
-::wiki-panel{title="Against him"}
-- [[Stanton Friedman]] said the Eisenhower Library told him Corso was never an NSC member and never attended an NSC meeting; he was only a liaison. Friedman also said a colonel with a PhD had sent him a list of 92 false claims in the book. He pointed out that Thurmond withdrew his foreword.
-- Friedman noted that Corso reached only lieutenant colonel after 22 years. He also compared Corso to [[Bob Lazar]], which the host calls inappropriate.
-- The FBI file released in 2024 records claims Corso passed on that could not be verified. It also quotes another agency calling him "a parasite" who profited from others' work.
-- Alexander and Dr. Lou Cameron dispute the night-vision claim, and Vallee disputes the integrated-circuit claim.
-- The White Sands encounter appears late and does not match his other accounts.
-::
+
+It then takes the case against him point by point, answering most of it. Stanton Friedman is the sharpest critic, and the host notes that Friedman's criticism was aimed at the book, the only source Friedman had at the time.
+
+::wiki-claim{video="_sv0Otxtcn4" video-title="Philip J. Corso - US Army UFO Technology Research & Development"}
+---
+label: "The case against Corso"
+term: "Criticism"
+caption: "The main criticisms of Corso the video plays or cites, and the host's answer where he gives one."
+claims:
+  - title: "Never on the NSC"
+    by: "Stanton Friedman"
+    text: "The Eisenhower Library told him Corso was never a member of the National Security Council and never attended one of its meetings; he was only a liaison."
+    cue: 4442
+    responses:
+      - by: "The host"
+        stance: challenges
+        text: "The 1992 Senate Select Committee report on POW/MIA affairs lists him as NSC staff under Eisenhower, and his FOIA-released military records show him on the Operations Coordinating Board."
+        cue: 510
+  - title: "A book full of errors"
+    by: "Stanton Friedman"
+    text: "Nothing in The Day After Roswell checks out. A colonel with a PhD sent him a list of 92 false claims in it, and Senator Strom Thurmond withdrew his foreword from the next edition."
+    cue: 4335
+    responses:
+      - by: "The host"
+        stance: challenges
+        text: "In his memoirs Corso never presented himself as a world saviour. He was patriotic and \"simply aimed to strengthen the Army\". That is no fault of Friedman's: the book was all he had."
+        cue: 4314
+  - title: "Opportunism"
+    by: "Stanton Friedman"
+    text: "Corso reached only lieutenant colonel after 22 years; Friedman also puts him in the same company as Bob Lazar."
+    cue: 4416
+    responses:
+      - by: "The host"
+        stance: challenges
+        text: "Associating Corso with Lazar is, whatever one thinks of Corso, \"very inappropriate\". He can sympathize with the complaint of a grand story with no evidence."
+        cue: 4233
+  - title: "A parasite"
+    by: "FBI"
+    date: 2024
+    where: "FBI file, released through The Black Vault"
+    text: "The file records claims Corso passed on that could not be verified, and quotes another agency calling him \"a parasite\" who profited from others' work."
+    cue: 4538
+    responses:
+      - by: "The host"
+        stance: challenges
+        text: "Every document is a cross-reference, not a main case file, so the FBI never formally investigated Corso. None of them mentions UFOs or his Army duties, which he finds odd in itself."
+        cue: 4555
+  - title: "The technology claims"
+    by: ["John B. Alexander", "Jacques Vallee"]
+    text: "Alexander says the genealogy of night-vision technology is fully accounted for, and that Dr. Lou Cameron, director of the Army's night vision laboratory at Fort Belvoir, flatly denied any contribution from a non-human eye lens. Vallee says Corso's integrated-circuit claims are not documented facts."
+    cue: 4195
+    responses:
+      - by: "The host"
+        stance: unresolved
+        text: "He cannot judge the technology claims, having no expertise in integrated circuits, computing or metallurgy; he weighs the Army R&D history instead."
+        cue: 5107
+---
 ::
 
-The host points out that Friedman's criticism was aimed at the book, the only source Friedman had at the time. He adds that in his memoirs Corso never presented himself as a world saviour. He was patriotic, the host says, and "simply aimed to strengthen the Army".
+The host's own reservation is the White Sands encounter, which appears late and does not match Corso's other accounts (see [The White Sands Encounter](#the-white-sands-encounter)).
 
-On the FBI file, the host notes that all the documents are cross-references rather than main case files, so the FBI never formally investigated Corso. The documents include:
+The FBI documents themselves include:
 
 - a 1964–65 background check for a post with a House subcommittee
 - a list of "Fabian socialists" Corso gave Trudeau, which the FBI could not verify
 - Corso's claim, drawn from CIA sources, that Lee Harvey Oswald was an FBI informant
-
-None of the documents mention UFOs or his Army duties. The host finds that odd in itself.
 
 ## The Host's Verdict
 

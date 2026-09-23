@@ -638,20 +638,71 @@ The host treats J. P. Cahn as the "hero of the hoax" whose honesty deserves the 
 
 Cahn also found the plaintiff: Denver businessman [[Herman Flader]], who had invested heavily in Newton's oil wells, was still receiving handsome royalties from them, and had bought an interest in GeBauer's oil-detecting devices. Cahn told him he would "never see a nickel." With FBI help Flader sought charges over $250,000, but no federal judge in Arizona, Colorado, New Mexico or Utah would take the case, so it went before a Denver magistrate. The charges of interstate transportation of stolen property (Flader's cheques deposited in California) and "worthless machinery" were filed on 10 October 1952, and the arrests followed on the 18th. The trial ran from 10 November to 29 December 1953, with Cahn, according to court records, helping the prosecution throughout.
 
-::wiki-grid{cols=2}
-::wiki-panel{title="The prosecution's case"}
-- **Flader** testified for two weeks that he could never make the device work, although it always worked when GeBauer ran it.
-- He denied signing the contract that gave him an interest in three devices; witnesses said they saw him sign it.
-- **Dr. James Meredith** of the Colorado School of Mines, Heiland's own department, said such doodlebugs "couldn't detect submarines, much less oil," but he was testing a device the district attorney had bought at a war-surplus store as "very similar," not GeBauer's.
-- A University of Denver research engineer said the same knock-off "couldn't find anything."
-- Denver Post reporter Thor Severson produced a photograph of Scully, Newton and Koehler and claimed, without evidence, that it showed a meeting about oil devices.
-::
-::wiki-panel{title="The defence's case" tone="accent"}
-- The FBI's own inquiry found **32 of 33** investors satisfied; Flader was the only complainant.
-- Flader was at the same time trying to sell Newton and GeBauer a share in a vague "health machine"; the judge ruled it irrelevant.
-- A witness showed photographs of three water wells GeBauer's device had found on his company's land.
-- Ranch owner Horace Steele said the machine defined 35 oil wells for him, one of which he sold 89% of for $1.75 million. Two wells he drilled against GeBauer's advice came up dry, and he called the $10,000 survey "worth every penny."
-::
+::wiki-claim{video="QJxbyu-9Tj0" video-title="The 1948 Aztec, New Mexico UFO Crash Retrieval"}
+---
+label: "The doodlebug trial"
+term: "Charge"
+caption: "The prosecution's main points against Newton and GeBauer, from William Steinman's reading of the court records, and how the defence and the host answered them."
+claims:
+  - title: "The device never worked"
+    by: "Herman Flader"
+    where: "Two weeks of testimony, from 10 November 1953"
+    text: "He could never make GeBauer's oil-detecting device work, and Newton and GeBauer defrauded him of $250,000."
+    cue: 3140
+    responses:
+      - by: "Horace Steele"
+        stance: challenges
+        text: "The ranch owner said the machine defined 35 oil wells for him, one of which he sold 89% of for $1.75 million. Two wells he drilled against GeBauer's advice came up dry, and he called the $10,000 survey \"worth every penny.\""
+        cue: 3284
+      - by: "A defence witness"
+        stance: challenges
+        text: "Photographs of three water wells GeBauer's device had found on his company's land."
+        cue: 3270
+      - by: "The defence"
+        stance: challenges
+        text: "Flader was at the same time trying to sell Newton and GeBauer a share in a vague \"health machine\". The judge ruled it irrelevant."
+        cue: 3240
+      - by: "FBI"
+        stance: challenges
+        text: "Its own inquiry, while the case was being built, found 32 of 33 investors satisfied; Flader was the only complainant."
+        cue: 3105
+  - title: "No signed contract"
+    by: "Herman Flader"
+    date: "1953-11-17"
+    text: "He denied signing the contract, presented by the defence, that gave him an interest in three of the devices."
+    cue: 3159
+    responses:
+      - by: "Eyewitnesses"
+        stance: challenges
+        text: "They testified that they saw him sign it."
+        cue: 3172
+  - title: "Doodlebugs can't find oil"
+    by: "James Meredith"
+    date: "1953-11-20"
+    where: "Colorado School of Mines, Heiland's own department"
+    text: "Such doodlebugs \"couldn't detect submarines, much less oil\"."
+    cue: 3179
+    responses:
+      - by: "A University of Denver research engineer"
+        stance: supports
+        text: "The same device \"couldn't find anything\"."
+        cue: 3226
+      - by: "The host"
+        stance: challenges
+        text: "Neither man tested GeBauer's device. Both examined one the district attorney had bought at a war-surplus store as \"very similar\"."
+        cue: 3194
+  - title: "A meeting about oil devices"
+    by: "Thor Severson"
+    date: "1953-12-18"
+    where: "Denver Post"
+    text: "A photograph of Scully, Newton and George Koehler shows a conspiratorial meeting about oil-detecting devices."
+    cue: 3326
+    responses:
+      - by: "The host"
+        stance: challenges
+        text: "Severson made the claim without evidence."
+        cue: 3342
+---
 ::
 
 Both men were found guilty and faced up to 30 years, but they were never sentenced or fined. Newton agreed to pay $18,000 in court costs, "as though this was a civil case." The story was, in the host's words, "officially dead and buried." The Ramseys argue the prosecution punished Newton for introducing Dr. G to Scully, and the host compares it to IRS action against later whistleblowers [[Jonathan Weygandt]] and [[Mark McCandlish]].
@@ -795,25 +846,33 @@ Steinman traced that man to [[Eric A. Walker]], Penn State president, founder of
 
 The IPU is central to Steinman's reconstruction, so the host reviews the evidence for it, drawing on [[Robert Wood]] and Ryan Wood and on researcher Anthony Bragalia.
 
-::wiki-grid{cols=3}
-::wiki-panel{title="What the Army's FOIA replies said" tone="accent"}
-- Richard Hall (1980), Steinman (1984) and Timothy Good (1987) all got the same answer.
-- An IPU of the scientific and technical branch, counterintelligence directorate, existed, and was disestablished in the late 1950s.
-- Its records were "surrendered" to AFOSI with Project Blue Book.
-- It was an "in-house project" and interest item for an assistant chief of staff for intelligence, with no formal mission, and is known only through "institutional memory."
-- AFOSI later told CUFON the material had been destroyed, which contradicts the Army's statement that there were no records.
+Richard Hall (1980), Steinman (1984) and Timothy Good (1987) all got the same answer from the Army. An IPU of the scientific and technical branch of the counterintelligence directorate had existed, and was disestablished in the late 1950s. Its records were "surrendered" to AFOSI with Project Blue Book. It was an "in-house project" and interest item for an assistant chief of staff for intelligence, with no formal mission, and is known only through "institutional memory." AFOSI later told CUFON the material had been destroyed, which contradicts the Army's statement that there were no records.
+
+::wiki-claim{video="QJxbyu-9Tj0" video-title="The 1948 Aztec, New Mexico UFO Crash Retrieval"}
+---
+caption: "The sceptics' reading of the Army's IPU replies, and the answers the video gives."
+claim:
+  title: "A mail room, not a UFO unit"
+  by: ["Brad Sparks", "Kevin Randle"]
+  text: "\"IPU\" was really the Input Processing Unit of Army intelligence, later the Foreign Science and Technology Center: a mail room that forwarded UFO reports after Sputnik. Army FOIA officers simply misremembered the name."
+  cue: 6864
+responses:
+  - by: "The host"
+    stance: challenges
+    text: "He finds \"great fault\" in this and \"very little research of substance.\""
+    cue: 6910
+  - by: "John Frick"
+    stance: challenges
+    text: "In the early 1980s he reported a Defense Central Index of Investigations printout from MacArthur's command whose first line read \"01 Interplanetary Phenomenon Unit.\" The host has not seen it reproduced, but says that if real it \"fully destroys\" the Sparks argument."
+    cue: 7124
+  - by: "The host"
+    stance: host
+    text: "The unit existed, but its memories and records have been destroyed."
+    cue: 7533
+---
 ::
-::wiki-panel{title="The sceptics' reading"}
-- [[Brad Sparks]] and [[Kevin Randle]] say "IPU" was really the Input Processing Unit of Army intelligence, later the Foreign Science and Technology Center: a mail room that forwarded UFO reports after Sputnik.
-- On this reading, Army FOIA officers simply misremembered the name.
-- The host finds "great fault" in this and "very little research of substance."
-::
-::wiki-panel{title="MacArthur, Marshall and the Majestic documents"}
-- Researcher John Frick reported a Defense Central Index of Investigations printout from MacArthur's command whose first line read "01 Interplanetary Phenomenon Unit."
-- Timothy Good and the Woods point higher, to George C. Marshall, whom Steinman says mobilised the IPU for Aztec.
-- Majestic documents include a 4 July 1947 IPU field order and a 22 July 1947 IPU report on Roswell, both delivered to [[Tim Cooper]] in the mid-1990s.
-::
-::
+
+Timothy Good and the Woods point higher than MacArthur, to George C. Marshall, whom Steinman says mobilised the IPU for Aztec. Majestic documents include a 4 July 1947 IPU field order and a 22 July 1947 IPU report on Roswell, both delivered to [[Tim Cooper]] in the mid-1990s.
 
 The 22 July 1947 report, if genuine, closely matches Steinman's Aztec account, which appeared nine years before it surfaced. It describes multiple objects recovered on 4–6 July 1947, a Sandia radiobiological team with an AFSWP security detail, AEC scientists including Oppenheimer, Bronk in charge of autopsies, recovered craft stored at Los Alamos under a Lieutenant General Collins, and Marshall as the only cabinet member who knew. It also mentions three Sandia technicians killed in a containment accident, which the host has linked to the 1974 Coyame case. The host concludes that the unit existed but its records have been destroyed. He cannot lean on the disputed documents for anything definitive, but the parallels between Roswell and Aztec, eight months apart, are striking.
 

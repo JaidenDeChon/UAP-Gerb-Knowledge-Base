@@ -433,13 +433,50 @@ The host links the report's picture of the CIA to [[Christopher Sharp]]'s report
 
 The report does not say: "Speculation ranges from a chemical released from the disc as a result of the damage to a microbiological agent." None of the US team fell ill. The host weighs two explanations and does not decide between them.
 
-::wiki-grid{cols=2}
-::wiki-panel{title="A contaminant from the disc" tone="accent"}
-The Denb Report's own view. The Americans waited for extra equipment and two more personnel, wore bio-protection suits, sterilised the site and took no body back for analysis. The host reads this as a team that knew about the contamination in advance. Something may have escaped through the 12-inch hole, or the soldiers may have handled bodies, as a police officer at [[Varginha, Brazil|Varginha]] allegedly did before he died. Noe Torres even wonders whether the "high explosive" was an MK-54 SADM suitcase nuke, whose 10-ton yield would sterilise the site with little harm to anyone nearby. Hans Krueger's 2000 paper argued that low-yield nuclear fireballs can destroy biological warfare agents.
-::
-::wiki-panel{title="Killed by the US team"}
-The host's own lingering suspicion. The Americans may have killed the soldiers in a hasty decision to stop them returning to base with UAP debris. Then they destroyed the vehicles and bodies. He recalls [[David Grusch]] saying more than once that crimes have been committed to keep the UAP secret. Mercy 11's claim that the soldiers died of asphyxiation adds to the uncertainty. The host says this possibility "does warrant further investigation" and returns to it at the end of the video.
-::
+::wiki-claim{video="bL3tMByq_WM" video-title="The 1974 Coyame, Mexico UFO Crash"}
+---
+label: "What killed the Mexican soldiers?"
+term: "Explanation"
+caption: "The two explanations the video weighs for the soldiers' deaths, and what it sets beside each."
+claims:
+  - title: "A contaminant from the disc"
+    by: "Denb Report"
+    text: "The soldiers were killed by something released from the damaged disc, a chemical or a microbiological agent."
+    cue: 1716
+    responses:
+      - by: "The host"
+        stance: supports
+        text: "The Americans waited for extra equipment and two more personnel, wore bio-protection suits, destroyed the site with high explosives and took no body back for analysis: a team that knew about the contamination in advance. The soldiers may have handled bodies, as a police officer at Varginha allegedly did before he died."
+        cue: 1654
+      - by: "Noe Torres"
+        stance: supports
+        text: "The \"high explosive\" may have been an MK-54 SADM suitcase nuke, whose 10-ton yield would sterilise the site with little harm to anyone nearby."
+        cue: 1671
+      - by: "Hans Krueger"
+        stance: supports
+        date: 2000
+        text: "His paper argues that low-yield nuclear fireballs can destroy biological warfare agents."
+        cue: 1689
+  - title: "Killed by the US team"
+    by: "The host"
+    note: "His own lingering suspicion"
+    text: "The Americans may have killed the soldiers in a hasty decision to stop them returning to base with UAP debris, then destroyed the vehicles and bodies."
+    cue: 1728
+    responses:
+      - by: "David Grusch"
+        stance: supports
+        text: "He has said more than once that crimes have been committed to keep UAP secret."
+        cue: 1741
+      - by: "Mercy 11"
+        stance: unresolved
+        date: 2012
+        text: "The anonymous Wikipedia editor's version says the four soldiers' bodies showed signs of death by asphyxiation."
+        cue: 2000
+      - by: "The host"
+        stance: unresolved
+        text: "The possibility \"does warrant further investigation\". He returns to it at the end of the video, asking viewers what they think."
+        cue: 2628
+---
 ::
 
 The host finds precedents for fatal contamination in the [[Majestic 12]] papers. According to Section F of the MJ-12 First Annual Report, several [[Sandia National Laboratories]] technicians fell ill after contact with debris and bodies. One collapsed while removing a body, and another fell into a coma for four hours while bagging one. All four who were affected were rushed to Los Alamos and died of seizures and profuse bleeding. The inconclusive autopsies suggested a toxin or a highly contagious disease, and the report quotes the senior Atomic Energy medical adviser warning that medical supplies were "wholly inadequate" for "a large scale outbreak of the alien virus." An [[Interplanetary Phenomenon Unit]] summary report in Ryan S. Wood's files describes nervous breakdowns and suicides among military police and "the deaths of three technicians" from Sandia after contamination. The host adds that the "Infographics" whistleblower said the first step after a crash is to send a team to test for toxicity. A Mexican team with no protective gear, he reasons, would have died from exposure.

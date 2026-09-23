@@ -469,39 +469,79 @@ Beyond the leaks, Wood points to documents with the MJ-12 designation in officia
 
 ## Objections and replies
 
-The video weighs each major objection against the Woods' answer:
+The video weighs each major objection against an answer, from Ryan Wood or from the host's own research. The objections are mostly the sceptics' standard case against SOM 1-01, and one is [[John B. Alexander]]'s. In a clip the video plays, Alexander also says MJ-12 "was real" but "had absolutely nothing to do with UFOs".
 
-::wiki-grid{cols=2}
-::wiki-panel{title="Soviet disinformation"}
-**Objection.** In *UFOs: Myths, Conspiracies, and Realities*, [[John B. Alexander]] says Robert Wood told him SOM 1-01 was created in 1954 to be leaked to Soviet spies, to make them waste resources on crash recoveries. Alexander has also said MJ-12 "was real" but "had absolutely nothing to do with UFOs".
-
-**Reply.** Ryan Wood says it makes no psychological-warfare sense to expose the alien technology, bodies, facilities and a whole retrieval programme in order to deceive. The Soviets had their own crashes and had penetrated the Manhattan Project within a year. A 19-year leak of varied documents is no way to target one intelligence service. He suggests Alexander was "currying favor" with someone.
-::
-::wiki-panel{title="Missing procedures (Jan Aldrich, 1996)"}
-**Objection.** The manual never tells teams to grid, photograph and tag a scene. It uses "satellites" before Sputnik, and it mixes "MJ-12", "Magic 12" and "Majestic 12".
-
-**Reply.** The host calls most of this fluff and cherry-picking. The manual is an overview for units, not a field checklist, and "satellite" was commonly used for space debris at the time.
-::
-::wiki-panel{title="Restricted beside Top Secret"}
-**Objection.** A document cannot be both, since Restricted ranked below Confidential.
-
-**Reply.** Under atomic energy law, Restricted Data is a category of information, "born classified" whoever created it, and can carry any level. The manual was also written while the Restricted level was being phased out, during a changeover the press reported as drawn out.
-::
-::wiki-panel{title="Area 51 in 1954"}
-**Objection.** Area 51 and S-4 did not exist when the manual lists them.
-
-**Reply.** Wood cites 1951 newspaper articles about contractors fighting over a government concrete contract worth hundreds of millions of dollars in "Area 1". He adds that an existing borax mine at Groom Lake could have been expanded underground, a lead he says deserves more research.
-::
-::wiki-panel{title="Odd cover fonts"}
-**Objection.** The cover's variable and drop-shadow fonts look wrong for a government manual.
-
-**Reply.** Army field manuals of the period use the same styling, as does the 24 October 1952 memo creating the NSA. Blocked Epistemology suggests Bush himself was experimenting with typesetting, pointing to a 1950 Popular Mechanics photo of him at a prototype machine.
-::
-::wiki-panel{title="The FBI's bogus stamp"}
-**Objection.** No agency claimed the Eisenhower Briefing Document, so the FBI declared it bogus, and that label has been used to dismiss every Majestic document.
-
-**Reply.** Wood says denial, silence and discrediting are exactly how those guarding the secret manage leaks. He has "no credible evidence" that any document on the Woods' site is fake. Weaker items such as the Aquarius document, which he calls "informed fluff" with nothing checkable, sit in a "neutral basket" awaiting evidence.
-::
+::wiki-claim{video="vzB87RJkQVU" video-title="The Majestic-12 Documents [With Ryan S. Wood]"}
+---
+label: "Objections and replies"
+term: "Objection"
+caption: "Six objections to the Majestic documents, chiefly the Special Operations Manual, and the answers the video gives."
+claims:
+  - title: "Soviet disinformation"
+    by: "John B. Alexander"
+    where: "UFOs: Myths, Conspiracies, and Realities"
+    text: "Robert Wood told Alexander he believed SOM 1-01 was created in 1954 to be leaked to Soviet spies, so that they would waste resources on crash recoveries."
+    cue: 2980
+    responses:
+      - by: "Ryan S. Wood"
+        stance: challenges
+        text: "It makes no psychological-warfare sense to expose the alien technology, bodies, facilities and a whole retrieval programme in order to deceive; a leak through an asset would be far less visible. The Soviets had their own crashes. He suggests Alexander was \"currying favor\" with someone."
+        cue: 3048
+  - title: "Missing procedures"
+    by: "Jan Aldrich"
+    date: 1996
+    text: "The manual never tells teams to grid, photograph and tag a scene. It uses \"satellites\" before Sputnik, and it mixes \"MJ-12\", \"Magic 12\" and \"Majestic 12\"."
+    cue: 3446
+    responses:
+      - by: "The host"
+        stance: challenges
+        text: "Much of it is fluff and cherry-picking. \"Satellite\" was commonly used for space debris at the time. He still thinks the criticisms are worth understanding when reading the document."
+        cue: 3473
+  - title: "Restricted beside Top Secret"
+    by: "Sceptics of the manual"
+    text: "A document cannot be both Top Secret and Restricted, since Restricted ranked below Confidential."
+    cue: 3303
+    responses:
+      - by: "The host"
+        stance: challenges
+        text: "Under the 1947 Atomic Energy Act, Restricted Data is a category of information, \"born classified\" whoever created it, not a level. The manual was also written while the Restricted level was being phased out, during a changeover the press reported as drawn out."
+        cue: 3319
+  - title: "Area 51 in 1954"
+    by: "Sceptics of the manual"
+    text: "Area 51 and S-4, listed in the manual's classification table, did not exist in 1954."
+    cue: 3352
+    responses:
+      - by: "Ryan S. Wood"
+        stance: challenges
+        text: "1951 newspaper articles describe contractors fighting over a government concrete contract worth hundreds of millions of dollars in \"Area 1\". An existing borax mine at Groom Lake could have been expanded underground, a lead he says deserves more research."
+        cue: 3362
+  - title: "Odd cover fonts"
+    by: "Detractors of the manual"
+    text: "The cover's variable and drop-shadow fonts look wrong for a government manual."
+    cue: 3262
+    responses:
+      - by: "The host"
+        stance: challenges
+        text: "Army field manuals of the period use the same styling, as does the 24 October 1952 memo creating the NSA."
+        cue: 3268
+      - by: "Blocked Epistemology"
+        stance: challenges
+        text: "Vannevar Bush himself was experimenting with typesetting, as a 1950 Popular Mechanics photo of him at a prototype machine shows."
+        cue: 3283
+  - title: "The FBI's bogus stamp"
+    by: "FBI"
+    text: "No agency claimed the Eisenhower Briefing Document, so the FBI declared it bogus, and that label has been used to dismiss every Majestic document."
+    cue: 344
+    responses:
+      - by: "Ryan S. Wood"
+        stance: challenges
+        text: "He has \"no credible evidence\" that any document on the Woods' site is fake. Ignoring leaks, managing them and discrediting people is simply how those guarding the secret operate."
+        cue: 3866
+      - by: "Ryan S. Wood"
+        stance: unresolved
+        text: "Weaker items such as the Aquarius document, \"informed fluff\" with nothing checkable, sit in a \"neutral basket\" awaiting evidence."
+        cue: 3948
+---
 ::
 
 ## Where the documents came from
