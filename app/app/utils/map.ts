@@ -19,7 +19,7 @@ export type LatLon = [number, number]
 export type LonLat = [number, number]
 
 /** `[west, south, east, north]` in degrees. */
-export type Bounds = [number, number, number, number]
+export type GeoBounds = [number, number, number, number]
 
 /** Which part of the globe the map shows. `auto` fits the pins. */
 export type MapRegion = 'auto' | 'us' | 'world'
@@ -27,7 +27,7 @@ export type MapRegion = 'auto' | 'us' | 'world'
 export const MAP_REGIONS: readonly MapRegion[] = ['auto', 'us', 'world']
 
 /** The contiguous United States, for `region: us`. */
-export const US_BOUNDS: Bounds = [-124.8, 24.5, -66.9, 49.4]
+export const US_BOUNDS: GeoBounds = [-124.8, 24.5, -66.9, 49.4]
 
 /**
  * The smallest frame, in degrees of latitude (about 330 km). A map of pins a
@@ -280,15 +280,15 @@ export function toLonLat([lat, lon]: LatLon): LonLat {
 export interface MapFrame {
   kind: 'world' | 'region'
   /** The area to fit, `[west, south, east, north]`. */
-  bounds: Bounds
+  bounds: GeoBounds
   /** `[lon, lat]` the regional projection is centred on. */
   center: LonLat
 }
 
 /** The world frame: every longitude, from the Southern Ocean to the Arctic. */
-export const WORLD_BOUNDS: Bounds = [-180, -58, 180, 84]
+export const WORLD_BOUNDS: GeoBounds = [-180, -58, 180, 84]
 
-function pinBounds(points: LatLon[]): Bounds {
+function pinBounds(points: LatLon[]): GeoBounds {
   let west = Infinity
   let south = Infinity
   let east = -Infinity
@@ -323,7 +323,7 @@ export function mapFrame(points: LatLon[], region: MapRegion = 'auto'): MapFrame
   }
 
   if (region === 'us') {
-    const b: Bounds = [
+    const b: GeoBounds = [
       Math.min(west, US_BOUNDS[0]),
       Math.min(south, US_BOUNDS[1]),
       Math.max(east, US_BOUNDS[2]),
@@ -350,7 +350,7 @@ export function mapFrame(points: LatLon[], region: MapRegion = 'auto'): MapFrame
  * projection: a curved projection bows the box's edges, so fitting only its
  * corners would crop the middle of each side.
  */
-export function boundsOutline([west, south, east, north]: Bounds, steps = 8): LonLat[] {
+export function boundsOutline([west, south, east, north]: GeoBounds, steps = 8): LonLat[] {
   const out: LonLat[] = []
   for (let i = 0; i <= steps; i++) {
     const t = i / steps
