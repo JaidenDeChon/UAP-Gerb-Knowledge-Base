@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import type { WikiPage } from '@/utils/content'
 import { splitAtFirstH2 } from '@/utils/content'
+import { warmContentComponents } from '@/utils/warmContentComponents'
 
 /** The entry behind the Featured card — the route @nuxt/content gives its note. */
 const FEATURED_PATH
@@ -17,6 +18,7 @@ const { data } = useAsyncData('home', async () => {
   const [home, featured] = await Promise.all([
     queryCollection('wiki').path('/wiki/home').first(),
     queryCollection('wiki').path(FEATURED_PATH).first(),
+    warmContentComponents(),
   ])
   return { home, featured }
 }, { lazy: true, server: false })

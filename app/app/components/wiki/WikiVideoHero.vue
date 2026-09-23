@@ -61,6 +61,24 @@ const runtime = computed(() => {
 /** Long titles (the vault has 70-character ones) step the display size down a notch. */
 const longTitle = computed(() => props.title.length > 48)
 
+// The node field waits for the page's unblur transition (if one is running)
+// to finish before it's even created, then fades in. It's a canvas with its
+// own animation loop; starting it mid-transition would pop it in and take
+// frames from the transition.
+const revealing = useContentReveal()
+const showField = ref(false)
+onMounted(() => {
+  if (!revealing.value) {
+    showField.value = true
+    return
+  }
+  const stop = watch(revealing, (busy) => {
+    if (busy) return
+    showField.value = true
+    stop()
+  })
+})
+
 function play(): void {
   if (!videoId.value) return
   dock.open({ videoId: videoId.value, title: props.title })
@@ -72,7 +90,7 @@ function play(): void {
     <!-- The field: the app's graph motif, alive. Scrims in the page colour
          keep the text column readable and fade the field into the page. -->
     <div class="ufo-hero-stage" aria-hidden="true">
-      <WikiNodeField />
+      <WikiNodeField v-if="showField" class="ufo-hero-field" />
       <div class="ufo-hero-scrim ufo-hero-scrim--y" />
     </div>
 
@@ -276,4 +294,18 @@ function play(): void {
   color: hsl(var(--foreground));
 }
 
+
+/* The node field fades in once it's created (see showField). */
+.ufo-hero-field {
+  animation: ufo-hero-field-in 900ms var(--ease-standard) both;
+}
+@keyframes ufo-hero-field-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .ufo-hero-field {
+    animation: none;
+  }
+}
 </style>

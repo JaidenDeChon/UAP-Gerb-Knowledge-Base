@@ -5,6 +5,7 @@ import { ChevronRight } from '@lucide/vue'
 import { Badge } from '@/components/ui/badge'
 import { Separator } from '@/components/ui/separator'
 import { firstParagraph, hasTocRail } from '@/utils/content'
+import { warmContentComponents } from '@/utils/warmContentComponents'
 
 definePageMeta({ key: route => route.path })
 
@@ -17,8 +18,16 @@ const route = useRoute()
 // the skeleton plus the title and share-card tags from baked data (`meta`,
 // below). `lazy` makes a client-side hop paint the skeleton immediately too,
 // instead of freezing on the old page while the sqlite-wasm database warms up.
-const result = useAsyncData(`wiki:${route.path}`, () =>
-  queryCollection('wiki').path(route.path).first(), { lazy: true, server: false })
+// The article's content components are fetched alongside it, so it renders
+// complete rather than popping blocks in after the loader has gone (see
+// warmContentComponents).
+const result = useAsyncData(`wiki:${route.path}`, async () => {
+  const [note] = await Promise.all([
+    queryCollection('wiki').path(route.path).first(),
+    warmContentComponents(),
+  ])
+  return note
+}, { lazy: true, server: false })
 
 const { data: page, status } = result
 
