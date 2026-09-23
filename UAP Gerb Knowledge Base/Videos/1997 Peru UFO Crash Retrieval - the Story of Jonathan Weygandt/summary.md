@@ -91,7 +91,7 @@ This video presents a comprehensive investigative analysis of Jonathan Weygandt'
 - [[University of California, Berkeley]] — Location where Collins claimed to have observed a UAP on a flatbed trailer in 1947
 - [[7th Army Green Berets]] — Theorized by researcher as the special forces unit in black camouflage who arrived on scene first before the CH-47s
 - [[United States Marine Corps]] — Jonathan Wayan's branch of service; Marines Atkins, Allen, and Montgre all had long careers there
-- [[Nightstalkers (160th SOAR)]] — Referenced as a unit capable of airlifting craft, speculated to have assisted in recovery of the non-human craft
+- [[160th Special Operations Aviation Regiment|Nightstalkers (160th SOAR)]] — Referenced as a unit capable of airlifting craft, speculated to have assisted in recovery of the non-human craft
 - [[Five Eyes]] — Intelligence alliance referenced in context of multinational UAP retrieval teams; Larry Maguire cited Five Eyes projects in his letter to Canada's Minister of Defense
 - [[Office of Naval Research]] — Speculated destination for the recovered UAP craft
 - [[NAMRU South (Naval Medical Research Unit South)]] — Theorized as the location where Wayan was held and possibly where materials or liquid were transferred
@@ -189,7 +189,7 @@ This video presents a comprehensive investigative analysis of Jonathan Weygandt'
 - [[Downed Non-Human Craft Observation]] — Jonathan Wagant observed a large, damaged teardrop-shaped craft approximately 10m tall and 20m long, showing catastrophic damage consistent with Hawk missile fragmentation, dripping clear viscous fluid and emitting a deep bass hum before powering down.
 - [[UFO Targeting by Naval Destroyer]] — Referenced as a similar one-in-a-million incident where a teardrop-shaped UFO was targeted by a naval destroyer, discussed in a prior related project on naval legacy programs.
 - [[USMC Phaseout of Hawk Missiles]] — The US Marine Corps phased out Hawk missiles from laser strike in early 1997, relevant to determining which party may have used the system.
-- [[Jonathan Wagant UAP Crash Encounter]] — While serving as a Marine Lance Corporal, Wagant and two sergeants encountered a crashed craft on a cliff face, experiencing physical effects, electromagnetic anomalies, and apparent telepathic contact with non-human entities.
+- [[Peru UFO Crash Incident|Jonathan Wagant UAP Crash Encounter]] — While serving as a Marine Lance Corporal, Wagant and two sergeants encountered a crashed craft on a cliff face, experiencing physical effects, electromagnetic anomalies, and apparent telepathic contact with non-human entities.
 - [[Kecksburg, Pennsylvania UFO Crash]] — Referenced as a comparable case where eyewitnesses described biological entities inside a bell-shaped craft whose appendages were visible after a hatch opened.
 - [[Greer Interview with Wagant]] — Steven Greer conducted an interview with Wagant from which the detail about a four-fingered arm hanging from a hatch was allegedly removed.
 - [[UAP Encounter and Detainment Incident]] — Jonathan Wagant and fellow Marines encountered a craft and non-human entities, then were intercepted, detained at gunpoint, and stripped of gear by unknown operators arriving in CH47 helicopters

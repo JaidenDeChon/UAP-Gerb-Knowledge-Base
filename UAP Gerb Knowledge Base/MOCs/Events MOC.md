@@ -48,7 +48,6 @@ tags:
 - [[Hottel Memo]]
 - [[Hunter Warrior Advanced Warfighting Experiment]]
 - [[Inman-Echler Telephone Call]]
-- [[Jonathan Wagant UAP Crash Encounter]]
 - [[Jonathan Wayan UAP Encounter]]
 - [[La Joya Airbase UFO Intercept]]
 - [[Lockheed Martin Attempted Nonhuman Material Transfer]]

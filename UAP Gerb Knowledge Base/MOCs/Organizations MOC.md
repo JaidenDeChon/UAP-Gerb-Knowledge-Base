@@ -101,7 +101,6 @@ tags:
 - [[Naval Air Station Lemoore (NAS Lemoore)]]
 - [[Naval Aviation Warfare Development Center (NAWDC)]]
 - [[Naval Surface Warfare Center Crane]]
-- [[Nightstalkers (160th SOAR)]]
 - [[Northrop Grumman]]
 - [[OPNAV 3820]]
 - [[Oak Ridge National Laboratory]]
