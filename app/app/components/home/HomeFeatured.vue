@@ -99,10 +99,36 @@ function onThumbError(): void {
 }
 /* A mask rather than a gradient overlay: the image fades to transparent, so
    it melts into whatever is behind it (the card in every theme, and the card's
-   green hover wash), with no colour to keep in step. */
+   green hover wash), with no colour to keep in step.
+
+   The fade is eased, not linear. A two-stop linear ramp starts and stops
+   abruptly, and the eye reads both ends as edges; these stops trace an
+   ease-in-out curve (the "scrim" gradient) over the lower 85% of the band,
+   so opacity changes slowly at both ends and the image dissolves rather
+   than stopping at a line. */
 .ufo-featured-thumb {
-  -webkit-mask-image: linear-gradient(to bottom, #000 25%, transparent 100%);
-  mask-image: linear-gradient(to bottom, #000 25%, transparent 100%);
+  --ufo-thumb-fade: linear-gradient(
+    to bottom,
+    rgb(0 0 0) 0%,
+    rgb(0 0 0 / 1) 15.0%,
+    rgb(0 0 0 / 0.987) 21.9%,
+    rgb(0 0 0 / 0.951) 28.2%,
+    rgb(0 0 0 / 0.896) 34.1%,
+    rgb(0 0 0 / 0.825) 39.6%,
+    rgb(0 0 0 / 0.741) 45.0%,
+    rgb(0 0 0 / 0.648) 50.0%,
+    rgb(0 0 0 / 0.55) 55.0%,
+    rgb(0 0 0 / 0.45) 60.0%,
+    rgb(0 0 0 / 0.352) 65.0%,
+    rgb(0 0 0 / 0.259) 70.0%,
+    rgb(0 0 0 / 0.175) 75.3%,
+    rgb(0 0 0 / 0.104) 80.9%,
+    rgb(0 0 0 / 0.049) 86.8%,
+    rgb(0 0 0 / 0.013) 93.1%,
+    rgb(0 0 0 / 0) 100.0%
+  );
+  -webkit-mask-image: var(--ufo-thumb-fade);
+  mask-image: var(--ufo-thumb-fade);
   transition: transform 600ms var(--ease-standard);
 }
 .ufo-featured:hover .ufo-featured-thumb {
