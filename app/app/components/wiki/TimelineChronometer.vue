@@ -76,6 +76,8 @@ const emit = defineEmits<{
   jump: [index: number]
   /** Seek the video to the reading entry. */
   sync: []
+  /** The reading cursor was dragged to this ruler position (0–100). */
+  scrub: [pct: number]
   'update:follow': [value: boolean]
 }>()
 
@@ -83,23 +85,41 @@ const emit = defineEmits<{
 
 // A 1px sentinel just above the sticky bar leaves the viewport exactly when
 // the bar pins; that flips the hairline/blur on and tells the page's
-// reading-progress line to step aside.
+// reading-progress line to dim. The sentinel alone can't say when the bar
+// unpins at the far end, though: once the reader scrolls past the whole
+// timeline it is still above the top, which left the progress line hidden
+// for the rest of the page. So the timeline block is observed too, and the
+// bar only counts as pinned while that block is still on screen.
 const sentinel = ref<HTMLElement | null>(null)
 const pinned = useState<boolean>('ufo:chronometerPinned', () => false)
 let observer: IntersectionObserver | null = null
 
 onMounted(() => {
-  if (!sentinel.value || typeof IntersectionObserver === 'undefined') return
+  const mark = sentinel.value
+  if (!mark || typeof IntersectionObserver === 'undefined') return
+  // The chronometer renders straight into the timeline's root element.
+  const block = mark.parentElement
   // Observe against the scrolling <main>, not the viewport: <main> starts
   // below the 56px top bar and clips the sentinel at its own edge, so a
   // viewport-rooted observer would see the sentinel leave at top ≈ 55px and
   // conclude "not pinned" for a slow scroll while a fast one crossed 0.
-  const root = getScrollContainer() ?? sentinel.value.closest('main') ?? null
-  observer = new IntersectionObserver(([entry]) => {
-    pinned.value = !!entry && !entry.isIntersecting
-      && entry.boundingClientRect.top < (entry.rootBounds?.top ?? 0)
+  const root = getScrollContainer() ?? mark.closest('main') ?? null
+  let sentinelAbove = false
+  let blockOnScreen = true
+  observer = new IntersectionObserver((entries) => {
+    for (const entry of entries) {
+      if (entry.target === mark) {
+        sentinelAbove = !entry.isIntersecting
+          && entry.boundingClientRect.top < (entry.rootBounds?.top ?? 0)
+      }
+      else {
+        blockOnScreen = entry.isIntersecting
+      }
+    }
+    pinned.value = sentinelAbove && blockOnScreen
   }, { root, threshold: 0 })
-  observer.observe(sentinel.value)
+  observer.observe(mark)
+  if (block) observer.observe(block)
 })
 onBeforeUnmount(() => {
   observer?.disconnect()
@@ -132,13 +152,71 @@ function nearestMark(pct: number): RulerMark | null {
  * whatever tick happened to be under the thumb.
  */
 function onRulerClick(event: MouseEvent): void {
-  if (!ruler.value) return
-  const rect = ruler.value.getBoundingClientRect()
-  if (rect.width <= 0) return
-  const pct = ((event.clientX - rect.left) / rect.width) * 100
+  // The click that ends a cursor drag bubbles here too; it isn't a jump.
+  if (suppressClick) return
+  const pct = pctAt(event.clientX)
+  if (pct === null) return
   const mark = nearestMark(pct)
   if (mark) emit('jump', mark.index)
 }
+
+/** A client x-position as a ruler position (0–100), or null with no ruler. */
+function pctAt(clientX: number): number | null {
+  if (!ruler.value) return null
+  const rect = ruler.value.getBoundingClientRect()
+  if (rect.width <= 0) return null
+  return Math.min(100, Math.max(0, ((clientX - rect.left) / rect.width) * 100))
+}
+
+/* -- scrubbing: drag the reading cursor and the page follows -- */
+
+const scrubbing = ref(false)
+let suppressClick = false
+let scrubFrame = 0
+let scrubPct: number | null = null
+
+function scrubTo(clientX: number): void {
+  scrubPct = pctAt(clientX)
+  // One scroll per frame, however fast the pointer reports.
+  if (!scrubFrame) {
+    scrubFrame = requestAnimationFrame(() => {
+      scrubFrame = 0
+      if (scrubPct !== null) emit('scrub', scrubPct)
+    })
+  }
+}
+function onCursorDown(event: PointerEvent): void {
+  if (event.button !== 0) return
+  // Consumed: no text selection, no ruler click-to-jump underneath.
+  event.preventDefault()
+  event.stopPropagation()
+  scrubbing.value = true
+  try {
+    (event.currentTarget as Element).setPointerCapture(event.pointerId)
+  }
+  catch {
+    // Capture only keeps a fast drag attached; proceed without it.
+  }
+  scrubTo(event.clientX)
+}
+function onCursorMove(event: PointerEvent): void {
+  if (scrubbing.value) scrubTo(event.clientX)
+}
+function onCursorUp(event: PointerEvent): void {
+  if (!scrubbing.value) return
+  scrubbing.value = false
+  suppressClick = true
+  setTimeout(() => { suppressClick = false }, 0)
+  try {
+    (event.currentTarget as Element).releasePointerCapture(event.pointerId)
+  }
+  catch {
+    // Already released — fine.
+  }
+}
+onBeforeUnmount(() => {
+  if (scrubFrame) cancelAnimationFrame(scrubFrame)
+})
 
 function step(delta: number): void {
   const list = visibleMarks.value
@@ -359,7 +437,19 @@ const kicker = computed(() => (props.eraOrdinal > 0 && props.eraCount > 0
         @click.stop="!m.hidden && emit('jump', m.index)"
       />
 
-      <div class="ufo-ruler-cursor" aria-hidden="true" />
+      <!-- Draggable: scrub the ruler and the page scrolls along with it. The
+           keyboard path is the slider's own keys. -->
+      <div
+        class="ufo-ruler-cursor"
+        :class="{ 'is-scrubbing': scrubbing }"
+        title="Drag to scrub through the timeline"
+        aria-hidden="true"
+        @pointerdown="onCursorDown"
+        @pointermove="onCursorMove"
+        @pointerup="onCursorUp"
+        @pointercancel="onCursorUp"
+        @click.stop
+      />
       <div v-if="nowPct !== null" class="ufo-ruler-playhead" aria-hidden="true" />
     </div>
   </div>
@@ -697,8 +787,21 @@ const kicker = computed(() => (props.eraOrdinal > 0 && props.eraCount > 0
   left: var(--cursor);
   width: 0;
   border-left: 1px solid hsl(var(--foreground));
-  pointer-events: none;
-  z-index: 2;
+  z-index: 4;
+  cursor: grab;
+  touch-action: none;
+}
+/* A grab area far wider than the hairline, straddling it. */
+.ufo-ruler-cursor::before {
+  content: '';
+  position: absolute;
+  top: -4px;
+  bottom: -9px;
+  left: -10px;
+  width: 20px;
+}
+.ufo-ruler-cursor.is-scrubbing {
+  cursor: grabbing;
 }
 .ufo-ruler-cursor::after {
   content: '';

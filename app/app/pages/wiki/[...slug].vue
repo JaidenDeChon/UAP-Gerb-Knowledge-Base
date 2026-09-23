@@ -5,24 +5,45 @@ import { ChevronRight } from '@lucide/vue'
 import { Badge } from '@/components/ui/badge'
 import { Separator } from '@/components/ui/separator'
 import { firstParagraph, hasTocRail } from '@/utils/content'
+import { warmContentComponents } from '@/utils/warmContentComponents'
 
 definePageMeta({ key: route => route.path })
 
 const route = useRoute()
 
-// `lazy` so a client-side hop paints the skeleton at once instead of freezing
-// on the old page: @nuxt/content answers browser queries out of a sqlite-wasm
-// database it downloads on first use, which costs seconds on the first hop.
-// The server still blocks — `useAsyncData` awaits through `onServerPrefetch`
-// regardless of `lazy` — so the initial HTML is the finished article.
-const result = useAsyncData(`wiki:${route.path}`, () =>
-  queryCollection('wiki').path(route.path).first(), { lazy: true })
+// The note body loads in the browser, never on the server. @nuxt/content's
+// server-side database takes seconds to come up on a cold function, and a
+// server render that waits on it leaves a fresh visit staring at a blank
+// screen until the first byte. So the server answers at once with the shell:
+// the skeleton plus the title and share-card tags from baked data (`meta`,
+// below). `lazy` makes a client-side hop paint the skeleton immediately too,
+// instead of freezing on the old page while the sqlite-wasm database warms up.
+// The article's content components are fetched alongside it, so it renders
+// complete rather than popping blocks in after the loader has gone (see
+// warmContentComponents).
+const result = useAsyncData(`wiki:${route.path}`, async () => {
+  const [note] = await Promise.all([
+    queryCollection('wiki').path(route.path).first(),
+    warmContentComponents(),
+  ])
+  return note
+}, { lazy: true, server: false })
 
 const { data: page, status } = result
 
+// Title, lead and video id from the vault scan baked into the server bundle
+// (`/api/meta`). It is instant, and it is what the server renders the <head>
+// and a missing note's 404 from.
+const metaResult = useFetch('/api/meta', {
+  key: `meta:${route.path}`,
+  query: { path: route.path },
+  lazy: true,
+})
+const meta = metaResult.data
+
 if (import.meta.server) {
-  await result
-  if (!page.value) {
+  await metaResult
+  if (!meta.value) {
     throw createError({ statusCode: 404, statusMessage: 'Note not found', fatal: true })
   }
 }
@@ -39,10 +60,11 @@ if (import.meta.client) {
 }
 
 const pageTitle = usePageTitle()
+const title = computed(() => page.value?.title ?? meta.value?.title)
 watchEffect(() => {
-  if (page.value) pageTitle.value = page.value.title
+  if (title.value) pageTitle.value = title.value
 })
-useHead({ title: () => page.value?.title })
+useHead({ title })
 
 const category = computed<Category>(() =>
   page.value ? categoryFromStem(page.value.stem) : 'Root')
@@ -107,11 +129,17 @@ const standfirst = computed(() => article.value.lead || firstParagraph(page.valu
 // Video pages share their own thumbnail as the social card, not the site's.
 // (Declared after `standfirst`: unhead evaluates these getters synchronously
 // on first run, so they must not reach into a not-yet-initialised const.)
+// Until the body loads (always, during the server render), the baked meta
+// stands in: a video summary is any Videos note with a video id.
+const shareVideoId = computed(() => {
+  if (page.value) return isFeature.value ? videoId.value : ''
+  return meta.value?.category === 'Videos' ? meta.value.videoId ?? '' : ''
+})
 useSeoMeta({
-  ogTitle: () => page.value?.title,
-  ogDescription: () => (isFeature.value ? standfirst.value || undefined : undefined),
-  ogImage: () => (isFeature.value ? `https://i.ytimg.com/vi/${videoId.value}/maxresdefault.jpg` : undefined),
-  twitterImage: () => (isFeature.value ? `https://i.ytimg.com/vi/${videoId.value}/maxresdefault.jpg` : undefined),
+  ogTitle: () => title.value,
+  ogDescription: () => (shareVideoId.value ? (page.value ? standfirst.value : meta.value?.lead) || undefined : undefined),
+  ogImage: () => (shareVideoId.value ? `https://i.ytimg.com/vi/${shareVideoId.value}/maxresdefault.jpg` : undefined),
+  twitterImage: () => (shareVideoId.value ? `https://i.ytimg.com/vi/${shareVideoId.value}/maxresdefault.jpg` : undefined),
 })
 
 // WikiTocRail renders nothing under 3 headings, but its column still costs
@@ -219,7 +247,12 @@ const articleClass = computed(() => hasRail.value
         <WikiLinkedEntries :path="route.path" />
       </article>
 
-      <aside v-if="hasRail" class="hidden w-[200px] shrink-0 pt-10 xl:block">
+      <!-- The aside itself is the sticky element: in the rail's flex row it can
+           travel the whole height of the article, where a sticky child would
+           be pinned inside an aside only as tall as the rail (component-kit
+           gotcha 4b). `<main>` is the scroller, so top-0 pins it just under
+           the header. -->
+      <aside v-if="hasRail" class="hidden w-[200px] shrink-0 self-start pt-10 xl:sticky xl:top-0 xl:block">
         <WikiTocRail :toc="page.body?.toc" />
       </aside>
     </div>

@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import type { WikiPage } from '@/utils/content'
 import { splitAtFirstH2 } from '@/utils/content'
+import { warmContentComponents } from '@/utils/warmContentComponents'
 
 /** The entry behind the Featured card — the route @nuxt/content gives its note. */
 const FEATURED_PATH
@@ -9,17 +10,18 @@ const FEATURED_PATH
 // The vault's Home note lives at /wiki/home; render it here so it lands on the
 // app root. The map moved to /map.
 //
-// `lazy` for the same reason the entry route uses it (see `wiki/[...slug].vue`):
-// arriving here from an entry is a client-side query, and those wait on a
-// sqlite-wasm database that can take seconds to warm up. SSR still blocks, so a
-// cold visit gets the finished page.
+// Loaded in the browser, not on the server, for the reason given in
+// `wiki/[...slug].vue`: a server render that waits on @nuxt/content's database
+// leaves a fresh visit on a blank screen for seconds on a cold function. The
+// server sends the skeleton at once; `lazy` does the same for a client-side hop.
 const { data } = useAsyncData('home', async () => {
   const [home, featured] = await Promise.all([
     queryCollection('wiki').path('/wiki/home').first(),
     queryCollection('wiki').path(FEATURED_PATH).first(),
+    warmContentComponents(),
   ])
   return { home, featured }
-}, { lazy: true })
+}, { lazy: true, server: false })
 
 const page = computed(() => data.value?.home ?? null)
 const featured = computed(() => data.value?.featured ?? null)
@@ -52,19 +54,14 @@ const body = computed(() => {
 
       <HomeFeatured v-if="featured" :entry="featured" />
 
+      <HomeRecentVideos />
+
       <ContentRenderer v-if="body.rest" :value="body.rest" class="prose-ufo wiki-prose" />
     </template>
 
-    <div v-else class="ufo-skeleton" aria-hidden="true">
-      <div class="space-y-2.5">
-        <div class="h-5 w-full rounded-sm bg-muted/70" />
-        <div class="h-5 w-4/5 rounded-sm bg-muted/70" />
-      </div>
-      <div class="mt-10 h-[150px] rounded-lg border border-border bg-muted/40" />
-      <div class="mt-12 space-y-3">
-        <div class="h-7 w-1/3 rounded-sm bg-muted" />
-        <div v-for="line in 7" :key="line" class="h-4 w-3/5 rounded-sm bg-muted/70" />
-      </div>
+    <div v-else class="min-h-[50vh]">
+      <AppLoadingMark />
+      <span class="sr-only" role="status">Loading…</span>
     </div>
   </div>
 </template>

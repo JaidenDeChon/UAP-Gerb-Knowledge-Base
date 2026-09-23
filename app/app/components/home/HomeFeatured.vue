@@ -3,6 +3,7 @@ import type { WikiPage } from '@/utils/content'
 import { ArrowRight, Clock } from '@lucide/vue'
 import { Badge } from '@/components/ui/badge'
 import { firstParagraph } from '@/utils/content'
+import { formatRuntime, youtubeThumbnail } from '@/utils/video'
 
 const props = defineProps<{ entry: WikiPage }>()
 
@@ -13,13 +14,20 @@ const lead = computed(() =>
 const runtime = computed<string | null>(() => {
   const record = props.entry as unknown as Record<string, unknown>
   const meta = record.meta as Record<string, unknown> | undefined
-  const seconds = Number(record.duration_seconds ?? meta?.duration_seconds)
-  if (!Number.isFinite(seconds) || seconds <= 0) return null
-  // Round to minutes first — rounding the remainder instead yields "1h 60m".
-  const total = Math.round(seconds / 60)
-  const hours = Math.floor(total / 60)
-  return hours ? `${hours}h ${total % 60}m` : `${total}m`
+  return formatRuntime(Number(record.duration_seconds ?? meta?.duration_seconds))
 })
+
+// The widest thumbnail first; older uploads have no `maxres`, so fall back to
+// `hq` (letterboxed, but the band's centre crop cuts the bars off), and drop
+// the image entirely if even that fails.
+const thumbSize = ref<'maxres' | 'hq' | null>('maxres')
+const thumb = computed(() => {
+  const id = String(props.entry.video_id ?? '').trim()
+  return id && thumbSize.value ? youtubeThumbnail(id, thumbSize.value) : null
+})
+function onThumbError(): void {
+  thumbSize.value = thumbSize.value === 'maxres' ? 'hq' : null
+}
 </script>
 
 <template>
@@ -36,7 +44,26 @@ const runtime = computed<string | null>(() => {
       :to="entry.path"
       class="ufo-featured group block overflow-hidden rounded-lg border border-border bg-card"
     >
-      <div class="flex flex-wrap items-center gap-2 border-b border-border bg-muted/40 px-4 py-2">
+      <!-- A short band cropped from the middle of the thumbnail, fading into
+           the card; the badges sit in the faded foot. Without a thumbnail the
+           badges keep their plain strip. -->
+      <div v-if="thumb" class="relative h-[clamp(120px,24vw,176px)] overflow-hidden">
+        <img
+          :src="thumb"
+          alt=""
+          decoding="async"
+          class="ufo-featured-thumb size-full object-cover object-center"
+          @error="onThumbError"
+        >
+        <div class="absolute inset-x-0 bottom-0 flex flex-wrap items-center gap-2 px-4 pb-1">
+          <Badge variant="outline" class="bg-card/70 backdrop-blur-[2px]">Videos</Badge>
+          <span v-if="runtime" class="inline-flex items-center gap-1.5 font-mono text-[11px] uppercase tracking-[0.09em] text-muted-foreground">
+            <Clock class="size-3" />
+            {{ runtime }}
+          </span>
+        </div>
+      </div>
+      <div v-else class="flex flex-wrap items-center gap-2 border-b border-border bg-muted/40 px-4 py-2">
         <Badge variant="outline">Videos</Badge>
         <span v-if="runtime" class="inline-flex items-center gap-1.5 font-mono text-[11px] uppercase tracking-[0.09em] text-muted-foreground">
           <Clock class="size-3" />
@@ -69,6 +96,47 @@ const runtime = computed<string | null>(() => {
   transition:
     border-color var(--dur-base) var(--ease-standard),
     background-color var(--dur-base) var(--ease-standard);
+}
+/* A mask rather than a gradient overlay: the image fades to transparent, so
+   it melts into whatever is behind it (the card in every theme, and the card's
+   green hover wash), with no colour to keep in step.
+
+   The fade is eased, not linear. A two-stop linear ramp starts and stops
+   abruptly, and the eye reads both ends as edges; these stops trace an
+   ease-in-out curve (the "scrim" gradient) over the lower 85% of the band,
+   so opacity changes slowly at both ends and the image dissolves rather
+   than stopping at a line. */
+.ufo-featured-thumb {
+  --ufo-thumb-fade: linear-gradient(
+    to bottom,
+    rgb(0 0 0) 0%,
+    rgb(0 0 0 / 1) 15.0%,
+    rgb(0 0 0 / 0.987) 21.9%,
+    rgb(0 0 0 / 0.951) 28.2%,
+    rgb(0 0 0 / 0.896) 34.1%,
+    rgb(0 0 0 / 0.825) 39.6%,
+    rgb(0 0 0 / 0.741) 45.0%,
+    rgb(0 0 0 / 0.648) 50.0%,
+    rgb(0 0 0 / 0.55) 55.0%,
+    rgb(0 0 0 / 0.45) 60.0%,
+    rgb(0 0 0 / 0.352) 65.0%,
+    rgb(0 0 0 / 0.259) 70.0%,
+    rgb(0 0 0 / 0.175) 75.3%,
+    rgb(0 0 0 / 0.104) 80.9%,
+    rgb(0 0 0 / 0.049) 86.8%,
+    rgb(0 0 0 / 0.013) 93.1%,
+    rgb(0 0 0 / 0) 100.0%
+  );
+  -webkit-mask-image: var(--ufo-thumb-fade);
+  mask-image: var(--ufo-thumb-fade);
+  transition: transform 600ms var(--ease-standard);
+}
+.ufo-featured:hover .ufo-featured-thumb {
+  transform: scale(1.03);
+}
+@media (prefers-reduced-motion: reduce) {
+  .ufo-featured-thumb { transition: none; }
+  .ufo-featured:hover .ufo-featured-thumb { transform: none; }
 }
 .ufo-featured:hover {
   border-color: hsl(var(--primary) / 0.6);

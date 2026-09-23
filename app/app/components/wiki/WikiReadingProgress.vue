@@ -10,8 +10,9 @@ import { getScrollContainer } from '@/composables/useScrollRestore'
  */
 const root = ref<HTMLElement | null>(null)
 const progress = ref(0)
-// While the timeline's chronometer is pinned it already reports position, so
-// this line steps aside rather than stacking two progress indicators.
+// While the timeline's chronometer is pinned, it has its own animated ruler,
+// so this line dims rather than competing with it. It stays visible so the
+// reader keeps their place in the page as a whole.
 const chronometerPinned = useState<boolean>('ufo:chronometerPinned', () => false)
 
 let container: HTMLElement | null = null
@@ -42,7 +43,7 @@ onBeforeUnmount(() => {
 </script>
 
 <template>
-  <div ref="root" class="ufo-progress" :class="{ 'is-hidden': chronometerPinned }" aria-hidden="true">
+  <div ref="root" class="ufo-progress" :class="{ 'is-dimmed': chronometerPinned }" aria-hidden="true">
     <div class="ufo-progress-bar" :style="{ transform: `scaleX(${progress})` }" />
   </div>
 </template>
@@ -56,11 +57,14 @@ onBeforeUnmount(() => {
   height: 0;
   pointer-events: none;
 }
-.ufo-progress.is-hidden .ufo-progress-bar {
-  opacity: 0;
+.ufo-progress.is-dimmed .ufo-progress-bar {
+  opacity: 0.3;
+  box-shadow: none;
 }
 .ufo-progress-bar {
-  transition: opacity var(--dur-base) var(--ease-standard);
+  transition:
+    opacity var(--dur-base) var(--ease-standard),
+    box-shadow var(--dur-base) var(--ease-standard);
   height: 2px;
   width: 100%;
   transform-origin: left;
