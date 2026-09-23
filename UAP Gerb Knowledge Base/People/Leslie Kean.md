@@ -20,7 +20,7 @@ In the early 2000s, Kean partnered with the [[Coalition of Freedom of Informatio
 - Search for and release all relevant Kecksburg files
 - Pay all legal fees incurred by Kean and CFI
 
-NASA's document search concluded in August 2009. The agency posted 20 pages of documents related to [[Project Moondust]] — a Cold War-era program tasked with recovering descended foreign space vehicles — but none had direct relevance to Kecksburg. According to NASA's public affairs statement, the agency had transferred Kecksburg files to the [[National Archives]] approximately two years after the 1965 incident. In 1996, the National Archives informed NASA that the files had been **marked as lost since 1987**.
+NASA's document search concluded in August 2009. The agency posted 20 pages of documents related to [[Project Moon Dust]] — a Cold War-era program tasked with recovering descended foreign space vehicles — but none had direct relevance to Kecksburg. According to NASA's public affairs statement, the agency had transferred Kecksburg files to the [[National Archives]] approximately two years after the 1965 incident. In 1996, the National Archives informed NASA that the files had been **marked as lost since 1987**.
 
 Despite the disappointing outcome, Kean's legal victory established an important precedent for using courts to compel government transparency on UAP-related matters.
 

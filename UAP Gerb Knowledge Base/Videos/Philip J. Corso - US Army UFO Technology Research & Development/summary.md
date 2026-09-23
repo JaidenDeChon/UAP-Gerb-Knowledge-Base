@@ -486,7 +486,7 @@ This is the point the host most wants viewers to take away: the division Corso r
 - Grew out of the [[Air Force Technical Intelligence Center|Air Technical Intelligence Center]] in 1961 under [[Air Force Systems Command]], based at [[Wright-Patterson Air Force Base]].
 - Operated from 1961 to 1991 and is widely documented.
 - Reportedly exploited recovered Russian MiGs. The host thinks it may also have handled technologies of unknown origin, in parallel with the Army office.
-- According to Corso, [[Project Moondust]] and [[Operation Bluefly]] reported materials and intelligence directly to it.
+- According to Corso, [[Project Moon Dust]] and [[Operation Bluefly]] reported materials and intelligence directly to it.
 ::
 ::
 
@@ -711,5 +711,5 @@ He asks viewers to remember one thing above all: in the 1960s the Army had an R&
 - **Organizations**: [[U.S. Army Foreign Technology Division]], [[Air Force Foreign Technology Division]], [[UFO Working Group]], [[Defense Intelligence Agency]], [[CIA Directorate of Science and Technology]], [[CIA Office of Global Access]], [[Army INSCOM]], [[JSOC (Joint Special Operations Command)]], [[National Security Council]], [[Citizens Against UFO Secrecy (CAUS)]], [[The Black Vault]], [[Bell Labs]], [[Sperry Rand]], [[AT&T]], [[Western Electric]], [[Sandia National Laboratories]], [[MITRE Corporation]], [[NASA]], [[Atomic Energy Commission]], [[Majestic 12]], [[Interplanetary Phenomenon Unit]]
 - **Locations**: [[Fort Riley, Kansas]], [[White Sands Missile Range]], [[Wright-Patterson Air Force Base]], [[Roswell, New Mexico]], [[San Augustine, New Mexico]], [[Naval Surface Warfare Center Crane]]
 - **Concepts**: [[Crash Retrieval]], [[Federally Funded Research and Development Center (FFRDC)]], [[Independent Research and Development (IRAD)]], [[Waived Unacknowledged Special Access Programs (USAPs)]], [[Consciousness-Interactive Technology]]
-- **Operations**: [[Operation Paperclip]], [[Project Moondust]], [[Operation Bluefly]]
+- **Operations**: [[Operation Paperclip]], [[Project Moon Dust]], [[Operation Bluefly]]
 - **Events**: [[Roswell Crash]], [[White Sands UAP Close Encounter]], [[1953 Kingman, Arizona Crash Retrieval]], [[1965 Kecksburg, Pennsylvania Crash Retrieval]]

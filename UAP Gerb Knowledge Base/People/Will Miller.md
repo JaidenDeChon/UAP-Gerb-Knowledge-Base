@@ -10,7 +10,7 @@ Commander Will Miller is a retired U.S. Navy officer who played a pivotal role i
 ## Role in Wilson's 1997 Investigation
 
 In 1997, Miller wrote to Eric Davis and Hal Puthoff offering his contractual services for research into UFO crash retrieval programs within and outside the United States government. In his letter, Miller claimed to have:
-- Knowledge of specifics on a special team and two key officers focused on crash retrievals (possibly projects code-named [[Moon Dust]], [[Blue Fly]], or [[Zodiac]])  
+- Knowledge of specifics on a special team and two key officers focused on crash retrievals (possibly projects code-named [[Project Moon Dust|Moon Dust]], [[Blue Fly]], or [[Zodiac]])  
 - The name and location of a senior officer with firsthand knowledge of U.S. government [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]] (ARVs)
 - A list of civilian USG contractors with knowledge of USG work in "alien-derived technologies, crashes, landings, and associated events"
 

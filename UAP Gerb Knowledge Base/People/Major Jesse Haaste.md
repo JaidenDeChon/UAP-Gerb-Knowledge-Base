@@ -5,13 +5,13 @@ tags:
   - person
 ---
 
-Major Jesse Haaste was a United States Air Force officer who, along with Colonel [[Robert Simmons]], was dispatched to Bolivia in May 1978 to investigate a crashed cylindrical object observed by thousands of witnesses near El Taire, Bolivia. Haaste's deployment provides documented evidence of US Air Force involvement in foreign UFO crash retrieval operations under [[Project Moondust]].
+Major Jesse Haaste was a United States Air Force officer who, along with Colonel [[Robert Simmons]], was dispatched to Bolivia in May 1978 to investigate a crashed cylindrical object observed by thousands of witnesses near El Taire, Bolivia. Haaste's deployment provides documented evidence of US Air Force involvement in foreign UFO crash retrieval operations under [[Project Moon Dust]].
 
 ## 1978 Bolivia UFO Crash Investigation
 
 On May 6, 1978, at 4:15 PM, a cylindrical object crashed into a mountainside near El Taire, Bolivia, creating a sonic boom heard up to 150 miles away and cracking window panes as far as 30 miles in radius. Bolivian military discovered the object — described as a dull metallic cylinder 12 feet long with a few dents — and were awaiting technical assistance when US personnel arrived.
 
-Major Haaste and Colonel Simmons were deployed following coordination by US Secretary of State [[Cyrus Vance]], who documented that "appropriate government agencies have been contacted regarding this crash." The agencies included [[Project Moondust]], which received film of the object from Bolivian military and monitored the situation.
+Major Haaste and Colonel Simmons were deployed following coordination by US Secretary of State [[Cyrus Vance]], who documented that "appropriate government agencies have been contacted regarding this crash." The agencies included [[Project Moon Dust]], which received film of the object from Bolivian military and monitored the situation.
 
 ## Role in Moon Dust Operations
 
@@ -28,7 +28,7 @@ Haaste's involvement is documented in declassified State Department cables and m
 
 ## Operational Significance
 
-Major Haaste's Bolivia deployment confirms that [[Project Moondust]] maintained:
+Major Haaste's Bolivia deployment confirms that [[Project Moon Dust]] maintained:
 
 - Personnel trained for crash retrieval operations
 - Rapid response capabilities for foreign incidents

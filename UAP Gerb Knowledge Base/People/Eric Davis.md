@@ -20,7 +20,7 @@ In 2002, Davis was contracted with the Department of Defense and had been invest
 
 The meeting was facilitated by [[Oak Shannon]], former manager of special projects at [[Los Alamos National Laboratories]] and former Department of Energy nuclear physicist, who requested Wilson speak to Davis about what Wilson had told [[Will Miller]] regarding crashed/retrieved UFO craft.
 
-Prior to the meeting with Wilson, Davis had received a letter from Commander Will Miller offering contractual services for research into crash retrieval programs. Miller claimed knowledge of special teams focused on crash retrievals (possibly projects code-named [[Moon Dust]], [[Blue Fly]], or [[Zodiac]]), a senior officer with firsthand knowledge of [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]], and civilian contractors with knowledge of "alien-derived technologies, crashes, landings, and associated events."
+Prior to the meeting with Wilson, Davis had received a letter from Commander Will Miller offering contractual services for research into crash retrieval programs. Miller claimed knowledge of special teams focused on crash retrievals (possibly projects code-named [[Project Moon Dust|Moon Dust]], [[Blue Fly]], or [[Zodiac]]), a senior officer with firsthand knowledge of [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]], and civilian contractors with knowledge of "alien-derived technologies, crashes, landings, and associated events."
 
 ## The October 16, 2002 Wilson Meeting
 

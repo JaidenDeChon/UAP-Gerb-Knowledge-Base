@@ -5,7 +5,7 @@ tags:
   - organization
 ---
 
-The USAF 1127th Field Activities Group was a United States Air Force intelligence unit that served as the operational command for [[Project Moondust]], the classified program responsible for locating, recovering, and delivering descended foreign space vehicles and unidentified flying objects. A 1967 review for the Assistant Chief of Staff for the Intelligence Community details the functions of the 1127th, confirming its role in Moon Dust collection operations.
+The USAF 1127th Field Activities Group was a United States Air Force intelligence unit that served as the operational command for [[Project Moon Dust]], the classified program responsible for locating, recovering, and delivering descended foreign space vehicles and unidentified flying objects. A 1967 review for the Assistant Chief of Staff for the Intelligence Community details the functions of the 1127th, confirming its role in Moon Dust collection operations.
 
 ## Operational Authority
 

@@ -21,7 +21,7 @@ The base is alleged in multiple sources to house recovered non-human biologics a
 
 ## Connection to Project Moondust
 
-Wright-Patterson served as a primary recipient of materials collected under [[Project Moondust]], the classified Air Force program that investigated and retrieved UFOs and foreign space vehicles from at least 1961 through the mid-1990s. Multiple Moon Dust cables and memos were addressed to the Foreign Technology Division at Wright-Patterson, including:
+Wright-Patterson served as a primary recipient of materials collected under [[Project Moon Dust]], the classified Air Force program that investigated and retrieved UFOs and foreign space vehicles from at least 1961 through the mid-1990s. Multiple Moon Dust cables and memos were addressed to the Foreign Technology Division at Wright-Patterson, including:
 
 - **1968 Nepal Circular Disc**: Moon Dust cable sent to DIA, the [[USAF 1127th Field Activities Group|1127th USAF Field Activities Group]], and Wright-Patterson regarding a crashed circular metal disc in Nepal
 - **1976 Canada Metal Fragments**: Moon Dust requested photos of metal fragments "of particular interest" to the USAF Foreign Technology Division at Wright-Patterson and the [[CIA Office of Weapons Intelligence]]

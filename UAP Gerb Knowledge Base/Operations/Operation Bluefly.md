@@ -5,11 +5,11 @@ tags:
   - concept
 ---
 
-Operation Bluefly is an unacknowledged US government program referenced in the MOON DUST video as one of several classified operations related to UFO crash retrieval and foreign aerospace vehicle collection. Bluefly is cited alongside [[Project Moondust]] and [[Operation Zodiac]] as part of a broader classified infrastructure for anomalous object collection operated by US Air Force and intelligence agencies.
+Operation Bluefly is an unacknowledged US government program referenced in the MOON DUST video as one of several classified operations related to UFO crash retrieval and foreign aerospace vehicle collection. Bluefly is cited alongside [[Project Moon Dust]] and [[Operation Zodiac]] as part of a broader classified infrastructure for anomalous object collection operated by US Air Force and intelligence agencies.
 
 ## Relationship to Project Moondust
 
-Bluefly is described as a related program to [[Project Moondust]], suggesting overlapping or complementary missions in the UFO crash retrieval and aerospace object collection domain. While specific operational details remain classified or undisclosed, the grouping of Bluefly with Moon Dust indicates similar functions involving:
+Bluefly is described as a related program to [[Project Moon Dust]], suggesting overlapping or complementary missions in the UFO crash retrieval and aerospace object collection domain. While specific operational details remain classified or undisclosed, the grouping of Bluefly with Moon Dust indicates similar functions involving:
 
 - Recovery of foreign or anomalous aerospace vehicles
 - Coordination with intelligence agencies for material analysis
@@ -33,14 +33,14 @@ This suggests Bluefly has its own documentary trail accessible through Freedom o
 Operation Bluefly's existence reinforces the pattern of compartmentalized UFO programs operating at different classification levels:
 
 - **Public Tier**: [[Project Blue Book]] (1952-1969) - public information management and dismissive conclusions
-- **Classified Tier**: [[Project Moondust]], Operation Bluefly, [[Operation Zodiac]] - actual crash retrieval and material collection
+- **Classified Tier**: [[Project Moon Dust]], Operation Bluefly, [[Operation Zodiac]] - actual crash retrieval and material collection
 - **Deeply Compartmentalized Tier**: Alleged contractor-run reverse engineering programs described in the [[Wilson-Davis Memo]]
 
 Bluefly likely operated in the "Classified Tier," conducting field operations while remaining unknown to the public and possibly unknown to oversight committees.
 
 ## Related Programs
 
-- [[Project Moondust]] — Confirmed crash retrieval program (1961-mid 1990s)
+- [[Project Moon Dust]] — Confirmed crash retrieval program (1961-mid 1990s)
 - [[Operation Zodiac]] — Related unacknowledged program
 - [[CIA Office of Global Access]] — Modern crash retrieval coordination alleged by journalist [[Christopher Sharp]]
 

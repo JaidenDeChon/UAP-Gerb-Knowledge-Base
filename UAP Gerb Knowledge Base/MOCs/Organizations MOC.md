@@ -120,7 +120,6 @@ tags:
 - [[Pentagon]]
 - [[Peraton]]
 - [[Peruvian Air Force]]
-- [[Project Blue Book]]
 - [[Project Grudge]]
 - [[Project Sign]]
 - [[RAND Corporation]]

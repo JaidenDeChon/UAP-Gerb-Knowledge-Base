@@ -30,7 +30,7 @@ Independent testimony from [[Bill Uhouse]] regarding the Kingman craft also supp
 The operation was conducted under AEC authority with significant DOD participation. Key personnel included:
 
 - [[Ed Doll]] ([[Edward Bushnell Doll]]) — physicist and project director, serving as technical director for two special weapons programs for the [[Armed Forces Special Weapons Project (AFSWP)|Armed Forces Special Weapons Project]] during the test series
-- [[Eric Henry Wang]] — chief of the special studies office at Wright-Patterson Air Force Base under Air Research and Development Command, whose department had relocated to Sandia Laboratory Complex at [[Kirtland Air Force Base]] by 1956
+- [[Eric Henry Wang]] — chief of the special studies office at Wright-Patterson Air Force Base under Air Research and Development Command, whose department had relocated to Sandia Laboratory Complex at [[Kirtland Air Force Base, New Mexico|Kirtland Air Force Base]] by 1956
 
 The organizational connections between Operation Upshot-Knothole personnel and subsequent UAP reverse-engineering allegations have made this operation a focal point in legacy program research, particularly regarding the use of AEC classification authority under the [[Atomic Energy Act of 1954]] to shield UAP-related materials from oversight. Doll's subsequent career at [[TRW]] (from 1955) and TRW's 2002 absorption into [[Northrop Grumman]] is cited as one path by which custody of Kingman-derived material may be traced into the 21st century, including a theorized connection to the 2011 [[Kona Blue]] technology transfer attempt.
 

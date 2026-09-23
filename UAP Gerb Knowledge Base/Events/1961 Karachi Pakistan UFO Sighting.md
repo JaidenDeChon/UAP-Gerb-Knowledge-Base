@@ -5,7 +5,7 @@ tags:
   - event
 ---
 
-On April 25, 1961, [[Project Moondust]] recorded observations of three cigar-shaped UFOs flying in a close Delta formation above Karachi, Pakistan. The sighting is documented in an internal memo and represents one of the earliest confirmed instances of Moon Dust actively investigating UFO reports. The incident demonstrates that as early as 1961, Project Moon Dust was engaged in UFO monitoring and investigation, not merely collection of terrestrial space debris.
+On April 25, 1961, [[Project Moon Dust]] recorded observations of three cigar-shaped UFOs flying in a close Delta formation above Karachi, Pakistan. The sighting is documented in an internal memo and represents one of the earliest confirmed instances of Moon Dust actively investigating UFO reports. The incident demonstrates that as early as 1961, Project Moon Dust was engaged in UFO monitoring and investigation, not merely collection of terrestrial space debris.
 
 ## Observed Characteristics
 
@@ -52,7 +52,7 @@ The 1961 Karachi Pakistan sighting is significant because:
 - It demonstrates Moon Dust had international intelligence collection capabilities
 - It shows the program tracked formation flights of anomalous craft, not merely crashed objects
 
-The Karachi incident helps establish that [[Project Moondust]] was not created solely to recover Soviet or US space debris but had UFO investigation as a core mission from its earliest documented operations.
+The Karachi incident helps establish that [[Project Moon Dust]] was not created solely to recover Soviet or US space debris but had UFO investigation as a core mission from its earliest documented operations.
 
 ## Related Operations
 

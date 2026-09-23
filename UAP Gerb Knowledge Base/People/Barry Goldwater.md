@@ -17,7 +17,7 @@ The denial suggests that whatever is housed at Wright-Patterson operates under a
 
 ## Connection to Project Moon Dust
 
-Wright-Patterson Air Force Base served as a primary destination for materials collected under [[Project Moondust]], the classified Air Force program that investigated and retrieved UFOs and foreign space vehicles from 1961 through at least the mid-1990s. Multiple Moon Dust memos and cables were addressed to the Foreign Technology Division at Wright-Patterson, reinforcing the base's role as a central collection and analysis hub for anomalous aerospace objects. Goldwater's denied access aligns with the pattern of Wright-Patterson serving as a restricted repository for crash retrieval materials.
+Wright-Patterson Air Force Base served as a primary destination for materials collected under [[Project Moon Dust]], the classified Air Force program that investigated and retrieved UFOs and foreign space vehicles from 1961 through at least the mid-1990s. Multiple Moon Dust memos and cables were addressed to the Foreign Technology Division at Wright-Patterson, reinforcing the base's role as a central collection and analysis hub for anomalous aerospace objects. Goldwater's denied access aligns with the pattern of Wright-Patterson serving as a restricted repository for crash retrieval materials.
 
 ## Roswell Connection
 

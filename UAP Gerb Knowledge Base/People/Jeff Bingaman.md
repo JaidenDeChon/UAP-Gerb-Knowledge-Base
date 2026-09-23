@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Jeff Bingaman served as a United States Senator from New Mexico from 1983 to 2013. Along with fellow New Mexico Senator [[Pete Domenici]], Bingaman made critical inquiries to the United States Air Force regarding [[Project Moondust]] in the early 1990s, forcing the Air Force to acknowledge the program's existence after initially denying it.
+Jeff Bingaman served as a United States Senator from New Mexico from 1983 to 2013. Along with fellow New Mexico Senator [[Pete Domenici]], Bingaman made critical inquiries to the United States Air Force regarding [[Project Moon Dust]] in the early 1990s, forcing the Air Force to acknowledge the program's existence after initially denying it.
 
 ## 1992 Moon Dust Inquiry
 

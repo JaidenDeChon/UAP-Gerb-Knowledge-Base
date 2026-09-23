@@ -404,7 +404,7 @@ The witness knows the craft can operate in microgravity, but he is not sure they
 
 ## The South American Saucer
 
-The saucer the witness helped recover "had hit the side of a rocky outcropping on its way down." It smashed the rock and took out a quarter mile of trees, yet the craft itself was relatively unharmed. Had it come down near a town, he says, "the whole UFO mystery would have been public knowledge by now." :wiki-cue{t=1562 video="DcvuglS7ps4" video-title="US Special Forces Confession - Fact or Fiction"} Searching [[Ryan S. Wood]]'s *Magic Eyes Only* within the 1969–2004 window, and setting aside Weygandt's 1997 Peru craft and the 1978 [[Project Moondust|Moondust]] retrieval in Bolivia as not saucer-shaped, the host offers three candidates:
+The saucer the witness helped recover "had hit the side of a rocky outcropping on its way down." It smashed the rock and took out a quarter mile of trees, yet the craft itself was relatively unharmed. Had it come down near a town, he says, "the whole UFO mystery would have been public knowledge by now." :wiki-cue{t=1562 video="DcvuglS7ps4" video-title="US Special Forces Confession - Fact or Fiction"} Searching [[Ryan S. Wood]]'s *Magic Eyes Only* within the 1969–2004 window, and setting aside Weygandt's 1997 Peru craft and the 1978 [[Project Moon Dust|Moondust]] retrieval in Bolivia as not saucer-shaped, the host offers three candidates:
 
 - **Near [[Lima, Peru]], 11 November 1975.** From Stringfield's notes of a March 1978 conversation with one Bob Barry: an unmanned metallic craft 12 feet high and 8 feet across, of apparently non-terrestrial material. By the witness's own typology it may have been an egg or a bell.
 - **Chile, 1978.** From the files of Bob Pratt: an air burst woke all 3,000 people in the area, and afterwards Americans in NASA coveralls questioned witnesses. NASA and the CIA told Pratt they had no data on it.
@@ -523,4 +523,4 @@ entries:
 - **Locations**: [[Bole, Ireland]], [[Lima, Peru]], [[Varginha, Brazil]], [[Wright-Patterson Air Force Base]], [[Area 51]], [[Dugway Proving Ground]]
 - **Concepts**: [[Egg-shaped UAP]], [[Bell or Acorn-Shaped Craft]], [[Live Biologics Protocols]], [[Fabrication Hypothesis]], [[Craft Donation Theory]], [[Rapid Reaction Recovery Unit]], [[Gray Alien Morphology]], [[Wilson-Davis Memo]], [[Blue Room]], [[Fast Walkers]]
 - **Events**: [[1968 Vietnam UAP Crash Retrieval]], [[1996 Bole, Ireland Crash Retrieval]], [[Roswell Crash]], [[1953 Kingman, Arizona Crash Retrieval]], [[1965 Kecksburg, Pennsylvania Crash Retrieval]], [[Malmstrom Air Force Base UFO Incident]], [[1976 Tehran UFO Incident]]
-- **Operations**: [[Operation Menu]], [[Operation Upshot-Knothole]], [[Project Moondust]]
+- **Operations**: [[Operation Menu]], [[Operation Upshot-Knothole]], [[Project Moon Dust]]
