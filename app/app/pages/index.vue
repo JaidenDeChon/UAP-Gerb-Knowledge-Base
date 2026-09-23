@@ -57,19 +57,8 @@ const body = computed(() => {
       <ContentRenderer v-if="body.rest" :value="body.rest" class="prose-ufo wiki-prose" />
     </template>
 
-    <div v-else class="relative">
+    <div v-else class="min-h-[50vh]">
       <AppLoadingMark />
-      <div class="ufo-skeleton" aria-hidden="true">
-        <div class="space-y-2.5">
-          <div class="h-5 w-full rounded-sm bg-muted/70" />
-          <div class="h-5 w-4/5 rounded-sm bg-muted/70" />
-        </div>
-        <div class="mt-10 h-[150px] rounded-lg border border-border bg-muted/40" />
-        <div class="mt-12 space-y-3">
-          <div class="h-7 w-1/3 rounded-sm bg-muted" />
-          <div v-for="line in 7" :key="line" class="h-4 w-3/5 rounded-sm bg-muted/70" />
-        </div>
-      </div>
       <span class="sr-only" role="status">Loading…</span>
     </div>
   </div>

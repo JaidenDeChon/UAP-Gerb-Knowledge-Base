@@ -18,8 +18,7 @@
  * - in flight, the blue corona and the amplifiers' beams.
  *
  * The loop opens on the finished craft, which glows and pulses for a few
- * seconds, comes apart in reverse order, then rebuilds. A backdrop in the
- * page colour deepens as the craft completes and fades as it comes apart.
+ * seconds, comes apart in reverse order, then rebuilds.
  *
  * Each part phases in and out like Half-Life 2's disintegration:
  * - on the way in, embers fall into place, a bloom outline flares, and the
@@ -141,8 +140,8 @@ const PARTS: Part[] = [
   { // corona and the amplifiers' beams
     box: [20, 40, 300, 136],
     // The corona is wider than the drawing on purpose: it runs past the
-    // viewBox (the SVG doesn't clip) so its glow clears the loading mark's
-    // dark backdrop on every side.
+    // viewBox (the SVG doesn't clip) so its glow spreads well beyond the
+    // craft on every side.
     svg: `<ellipse cx="160" cy="80" rx="240" ry="124" fill="url(#ufo-corona-fill)" stroke="none" class="ufo-pulse"/>
       <path d="M96 112 L64 140 L94 140 L110 113 Z" fill="url(#ufo-beam)" stroke="none" class="ufo-pulse"/>
       <path d="M224 112 L256 140 L226 140 L210 113 Z" fill="url(#ufo-beam)" stroke="none" class="ufo-pulse"/>
@@ -238,25 +237,13 @@ function keyframesCss(): string {
     ].join('')
   })
 
-  // The backdrop deepens as the craft comes together, pulses through the
-  // hold, and fades as it comes apart.
-  const H = HOLD
-  const backdrop = frames('ufo-backdrop', [
-    [0, 'opacity:.3'], [assembled * 0.5, 'opacity:.55'], [assembled, 'opacity:1'],
-    [assembled + H * 0.25, 'opacity:.72'], [assembled + H * 0.5, 'opacity:1'],
-    [assembled + H * 0.75, 'opacity:.72'], [outStart, 'opacity:1'],
-    [gone, 'opacity:.3'], [cycle, 'opacity:.3'],
-  ])
-
   // A negative delay opens every layer on the frame where the craft has just
   // finished assembling, so the loop starts complete and runs on from there.
   return `.ufo-phase{animation-duration:${cycle}ms;animation-timing-function:linear;`
     + `animation-iteration-count:infinite;animation-fill-mode:both;animation-delay:-${assembled}ms}`
-    + backdrop + '.ufo-backdrop{animation-name:ufo-backdrop}'
     + rules.join('')
     // Reduced motion: the finished craft, still, with no bloom or embers.
     + '@media (prefers-reduced-motion:reduce){.ufo-phase{animation:none}'
-    + '.ufo-backdrop{opacity:.85}'
     + '.ufo-bloom,.ufo-ember-a,.ufo-ember-b{opacity:0}}'
 }
 
@@ -268,10 +255,6 @@ const viewBox = `0 0 ${VIEW_W} ${VIEW_H}`
 
 <template>
   <div class="ufo-loader" aria-hidden="true">
-    <!-- The backdrop that lifts the craft off the page: a gradient in the page
-         colour (black on dark themes, white on light ones) that fades out
-         with no edge. -->
-    <div class="ufo-backdrop ufo-phase" />
     <!-- The gradients and bloom every layer uses. -->
     <svg class="ufo-svg" :viewBox="viewBox" fill="none">
       <defs>
@@ -337,36 +320,6 @@ const viewBox = `0 0 ${VIEW_W} ${VIEW_H}`
   position: relative;
   aspect-ratio: 320 / 140;
   width: 100%;
-}
-
-.ufo-loader .ufo-backdrop {
-  /* Much larger than the drawing: the loading mark is position: fixed, so
-     nothing here can widen the page's scroll area. Solid through the middle,
-     then an eased ("scrim") falloff to nothing, so there's no edge. */
-  position: absolute;
-  inset: -95% -50%;
-  border-radius: 50%;
-  background: radial-gradient(
-    closest-side,
-    hsl(var(--background)) 0%,
-    hsl(var(--background) / 1) 42.0%,
-    hsl(var(--background) / 0.987) 46.7%,
-    hsl(var(--background) / 0.951) 51.0%,
-    hsl(var(--background) / 0.896) 55.0%,
-    hsl(var(--background) / 0.825) 58.8%,
-    hsl(var(--background) / 0.741) 62.5%,
-    hsl(var(--background) / 0.648) 65.9%,
-    hsl(var(--background) / 0.55) 69.3%,
-    hsl(var(--background) / 0.45) 72.7%,
-    hsl(var(--background) / 0.352) 76.1%,
-    hsl(var(--background) / 0.259) 79.5%,
-    hsl(var(--background) / 0.175) 83.2%,
-    hsl(var(--background) / 0.104) 87.0%,
-    hsl(var(--background) / 0.049) 91.0%,
-    hsl(var(--background) / 0.013) 95.3%,
-    hsl(var(--background) / 0) 100.0%
-  );
-  will-change: opacity;
 }
 
 .ufo-part,

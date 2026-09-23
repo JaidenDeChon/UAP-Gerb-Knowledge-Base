@@ -439,9 +439,9 @@
 }
 
 /* ============================================================
-   Loading skeletons. Shared because two routes paint one while
-   @nuxt/content warms its client-side database — see
-   `WikiPageSkeleton.vue`.
+   Loading skeletons. Pages show the UFO loader (AppLoadingMark)
+   while they load; this pulse is left for small in-page
+   placeholders, like the home page's recent-videos strip.
    ============================================================ */
 
 /* The pulse lives on the wrapper, not the individual bars: staggered
