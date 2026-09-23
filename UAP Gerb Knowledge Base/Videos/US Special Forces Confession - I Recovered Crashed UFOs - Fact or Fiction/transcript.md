@@ -2,8 +2,8 @@
 title: "'US Special Forces Confession - I Recovered Crashed UFOs': Fact or Fiction?"
 video_id: DcvuglS7ps4
 url: https://www.youtube.com/watch?v=DcvuglS7ps4
-date: NA
-duration_seconds: 0
+date: 2024-06-16
+duration_seconds: 2777
 channel: UAP Gerb
 tags:
   - transcript

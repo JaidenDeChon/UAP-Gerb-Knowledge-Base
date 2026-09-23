@@ -47,6 +47,7 @@ tags:
 - [[Consciousness-Interactive Technology]]
 - Continuous Process Improvement
 - [[Cosmos 96]]
+- [[Craft Donation Theory]]
 - [[Crash Retrieval]]
 - Crowd Control in Disaster Relief
 - DD214
@@ -69,6 +70,7 @@ tags:
 - Establishing Trust
 - Ethical Tug of War
 - Extraterrestrial Life
+- [[Fabrication Hypothesis]]
 - [[FOIA Evasion via Terminology]]
 - Fabian Socialism
 - [[Fast Walkers]]
@@ -103,6 +105,7 @@ tags:
 - [[Kimbaya Artifacts]]
 - [[Kingman Crash Debunking Theory]]
 - [[Kona Blue]]
+- [[Live Biologics Protocols]]
 - LZ (Landing Zone)
 - [[Lam]]
 - Landing Zone Analysis
