@@ -30,6 +30,7 @@ import {
   fractionalYear,
   lerp,
   nowPlayingIndex,
+  positionForPct,
   sortEvents,
   timeScale,
   yearOf,
@@ -325,6 +326,15 @@ watch(() => clock.isThisVideo.value, (isThis) => {
   if (!isThis) follow.value = false
 })
 
+/* -- scrubbing: the reading cursor dragged along the ruler -- */
+function scrub(pct: number): void {
+  // The reader is steering, so the video stops driving the page.
+  follow.value = false
+  const pcts = visible.value.map(e => positions.value[e.index] ?? 0)
+  const { index, t } = positionForPct(pct, pcts)
+  if (index >= 0) cursor.scrollToPosition(index, t)
+}
+
 /* -- jumps from the ruler -- */
 function jump(sortedIndex: number): void {
   const pos = positionOf(sortedIndex)
@@ -390,6 +400,7 @@ function opensYear(chapter: Chapter<Indexed>, i: number): boolean {
       :help="props.help"
       @jump="jump"
       @sync="sync"
+      @scrub="scrub"
       @update:follow="follow = $event"
     >
       <template #filters>

@@ -133,6 +133,20 @@ export function useScrollCursor(listRoot: Ref<HTMLElement | null>, opts: ScrollC
     container.scrollTo({ top: target, behavior })
   }
 
+  /**
+   * Put the reading line at entry `i`, fraction `t` of the way to entry
+   * `i + 1`: the scroll position whose cursor is (i, t). Instant, for
+   * scrubbing. Not marked programmatic: a scrub is the reader moving.
+   */
+  function scrollToPosition(i: number, t: number): void {
+    if (!container) return
+    const here = offsets[i]
+    if (here === undefined) return
+    const next = offsets[i + 1] ?? here
+    const y = here + (next - here) * Math.min(1, Math.max(0, t))
+    container.scrollTop = Math.max(0, y - container.clientHeight * readingLine)
+  }
+
   const SCROLL_KEYS = new Set(['ArrowUp', 'ArrowDown', 'PageUp', 'PageDown', 'Home', 'End', ' '])
   function emitUserScroll(): void {
     for (const handler of userScrollHandlers) handler()
@@ -185,5 +199,5 @@ export function useScrollCursor(listRoot: Ref<HTMLElement | null>, opts: ScrollC
     userScrollHandlers.clear()
   })
 
-  return { index, t, progress, lineY, refresh, refreshNow, scrollToIndex, onUserScroll }
+  return { index, t, progress, lineY, refresh, refreshNow, scrollToIndex, scrollToPosition, onUserScroll }
 }

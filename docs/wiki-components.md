@@ -262,7 +262,9 @@ Beneath it the entries stay vertical, grouped into the eras the video frames
 reader passes each node.
 
 Controls on the chronometer: click anywhere on the ruler (or a tick) to
-scroll to the nearest entry; the ruler is a keyboard `slider` (←/→ step,
+scroll to the nearest entry; drag the reading cursor to scrub, and the page
+scrolls continuously so the cursor stays under the pointer (this also turns
+Follow off); the ruler is a keyboard `slider` (←/→ step,
 PageUp/PageDown ±5, Home/End, Enter = Sync); **Sync** seeks the video to the
 entry being read; **Follow** (only while the dock holds this page's video)
 lets the video scroll the page to each entry as it is discussed, and switches

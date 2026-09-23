@@ -11,6 +11,7 @@ import {
   fractionalYear,
   lerp,
   nowPlayingIndex,
+  positionForPct,
   sortEvents,
   timeScale,
   yearOf,
@@ -216,5 +217,31 @@ describe('cursorFor / lerp', () => {
   it('lerps with a clamped t', () => {
     expect(lerp(1947, 1957, 0.5)).toBe(1952)
     expect(lerp(1947, 1957, 2)).toBe(1957)
+  })
+})
+
+describe('positionForPct', () => {
+  const pcts = [0, 10, 10, 40, 100]
+
+  it('clamps before the first and after the last entry', () => {
+    expect(positionForPct(-5, pcts)).toEqual({ index: 0, t: 0 })
+    expect(positionForPct(120, pcts)).toEqual({ index: 4, t: 0 })
+  })
+
+  it('interpolates between neighbouring entries', () => {
+    expect(positionForPct(5, pcts)).toEqual({ index: 0, t: 0.5 })
+    expect(positionForPct(25, pcts)).toEqual({ index: 2, t: 0.5 })
+    expect(positionForPct(70, pcts)).toEqual({ index: 3, t: 0.5 })
+  })
+
+  it('round-trips with lerp, which is how the cursor is drawn', () => {
+    for (const pct of [3, 17, 55, 99]) {
+      const { index, t } = positionForPct(pct, pcts)
+      expect(lerp(pcts[index]!, pcts[index + 1] ?? pcts[index]!, t)).toBeCloseTo(pct)
+    }
+  })
+
+  it('is empty-safe', () => {
+    expect(positionForPct(50, [])).toEqual({ index: -1, t: 0 })
   })
 })

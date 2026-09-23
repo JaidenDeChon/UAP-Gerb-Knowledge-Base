@@ -411,6 +411,27 @@ export function cursorFor(y: number, offsets: number[]): Cursor {
   return { index, t: Math.min(1, Math.max(0, (y - here) / (next - here))) }
 }
 
+/**
+ * The inverse of the ruler's reading cursor: which entry a ruler position
+ * falls on, and how far toward the next entry it is. `pcts` are the visible
+ * entries' ruler positions in reading order (ascending). The cursor draws at
+ * `lerp(pcts[index], pcts[index + 1], t)`, so scrolling to (index, t) lands
+ * it back under the pointer.
+ */
+export function positionForPct(pct: number, pcts: number[]): Cursor {
+  if (!pcts.length) return { index: -1, t: 0 }
+  if (pct <= pcts[0]!) return { index: 0, t: 0 }
+  let index = 0
+  for (let i = 0; i < pcts.length; i++) {
+    if (pcts[i]! <= pct) index = i
+    else break
+  }
+  const here = pcts[index]!
+  const next = pcts[index + 1]
+  if (next === undefined || next <= here) return { index, t: 0 }
+  return { index, t: Math.min(1, Math.max(0, (pct - here) / (next - here))) }
+}
+
 /** Linear interpolation, clamped to [a, b] by t in [0, 1]. */
 export function lerp(a: number, b: number, t: number): number {
   const k = Math.min(1, Math.max(0, t))
