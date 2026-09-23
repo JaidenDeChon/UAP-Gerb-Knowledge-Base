@@ -121,8 +121,6 @@ tags:
 - [[Peraton]]
 - [[Peruvian Air Force]]
 - [[Project Blue Book]]
-- [[Project Grudge]]
-- [[Project Sign]]
 - [[RAND Corporation]]
 - [[Rapid Capabilities Office (RCO)]]
 - [[Raytheon]]
