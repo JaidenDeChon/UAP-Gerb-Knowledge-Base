@@ -39,7 +39,7 @@ Separately from his 1973 affidavit, Stansel's personal diary from his time as a 
 
 ## Connection to Eric Henry Wang
 
-The significance of Stansel's posting under Dr. [[Eric Henry Wang]] at the Office of Special Studies is a point of ongoing research. Wang is alleged by researchers including [[William Steinman]] to have been brought into UAP material exploitation as early as 1949 following the [[Aztec UFO Crash and Recovery]], and to have led reverse-engineering efforts on recovered craft. Wang relocated his department from Wright-Patterson to [[Kirtland Air Force Base]] around the time of Operation Upshot-Knothole and died in 1961; his papers were reportedly confiscated by military intelligence upon his death.
+The significance of Stansel's posting under Dr. [[Eric Henry Wang]] at the Office of Special Studies is a point of ongoing research. Wang is alleged by researchers including [[William Steinman]] to have been brought into UAP material exploitation as early as 1949 following the [[Aztec UFO Crash and Recovery]], and to have led reverse-engineering efforts on recovered craft. Wang relocated his department from Wright-Patterson to [[Kirtland Air Force Base, New Mexico|Kirtland Air Force Base]] around the time of Operation Upshot-Knothole and died in 1961; his papers were reportedly confiscated by military intelligence upon his death.
 
 ## Sources
 

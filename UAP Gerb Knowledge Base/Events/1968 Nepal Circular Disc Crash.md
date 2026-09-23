@@ -5,7 +5,7 @@ tags:
   - event
 ---
 
-In 1968, a circular metal disc crashed in Nepal, triggering a multi-agency US government response involving the Defense Intelligence Agency, [[Project Moondust]], and [[Wright-Patterson Air Force Base]]. The incident is documented in declassified State Department cables and represents one of the few cases where Moon Dust's UFO collection activities are confirmed through official government documents. The crash is particularly notable because a cover story identifying the object as a satellite was constructed despite NASA and NORAD data showing a 100% successful satellite launch rate in 1968, indicating no satellites were missing that could account for the crashed disc.
+In 1968, a circular metal disc crashed in Nepal, triggering a multi-agency US government response involving the Defense Intelligence Agency, [[Project Moon Dust]], and [[Wright-Patterson Air Force Base]]. The incident is documented in declassified State Department cables and represents one of the few cases where Moon Dust's UFO collection activities are confirmed through official government documents. The crash is particularly notable because a cover story identifying the object as a satellite was constructed despite NASA and NORAD data showing a 100% successful satellite launch rate in 1968, indicating no satellites were missing that could account for the crashed disc.
 
 ## Discovery and Initial Response
 
@@ -47,7 +47,7 @@ The object's description as a "circular metal disc" aligns with classic UFO morp
 
 ## Multi-Agency Coordination
 
-The Nepal incident demonstrates the coordinated infrastructure that supported [[Project Moondust]] operations:
+The Nepal incident demonstrates the coordinated infrastructure that supported [[Project Moon Dust]] operations:
 
 - **DIA**: Intelligence monitoring and assessment
 - **1127th Field Activities Group**: Operational command and field deployment

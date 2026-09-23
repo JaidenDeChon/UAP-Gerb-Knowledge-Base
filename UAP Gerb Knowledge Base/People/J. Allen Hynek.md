@@ -15,7 +15,7 @@ This revelation confirmed that while Project Blue Book was publicly presenting U
 
 ## Disclosure of Parallel Classified Programs
 
-Hynek additionally stated that alongside Project Blue Book, other classified programs were going on studying UFOs. This confirmed what Captain [[Edward J. Ruppelt]] had disclosed on April 24, 1952: that programs parallel to the official UFO investigations were "conducting a more complete investigation." One of these parallel programs was later confirmed to be [[Project Moondust]], a classified Air Force crash retrieval program operating under the [[USAF 1127th Field Activities Group]] from at least 1961 through the mid-1990s.
+Hynek additionally stated that alongside Project Blue Book, other classified programs were going on studying UFOs. This confirmed what Captain [[Edward J. Ruppelt]] had disclosed on April 24, 1952: that programs parallel to the official UFO investigations were "conducting a more complete investigation." One of these parallel programs was later confirmed to be [[Project Moon Dust]], a classified Air Force crash retrieval program operating under the [[USAF 1127th Field Activities Group]] from at least 1961 through the mid-1990s.
 
 Hynek's acknowledgment of parallel programs suggests he was aware that Project Blue Book functioned primarily as a public-facing information management operation, while classified programs handled actual UFO collection, crash retrieval, and technical analysis activities.
 

@@ -120,7 +120,6 @@ tags:
 - [[Pentagon]]
 - [[Peraton]]
 - [[Peruvian Air Force]]
-- [[Project Blue Book]]
 - [[RAND Corporation]]
 - [[Rapid Capabilities Office (RCO)]]
 - [[Raytheon]]

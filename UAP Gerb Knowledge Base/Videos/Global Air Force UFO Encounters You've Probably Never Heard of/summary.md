@@ -56,7 +56,7 @@ The video examines a series of historical military pilot UFO encounters from mul
 - [[Radar Corroboration]] — Ground-based radar confirming the presence and speed of UAP, as seen in the Finnish case where radar 200 km away detected the objects.
 - [[Material Imperviousness]] — The observed inability of conventional weaponry, such as 30mm cannon fire, to damage or affect UAP.
 - [[Restricted Airspace Violation]] — UAP entering protected or restricted military airspace without authorization, prompting military response.
-- [[Project Moondust]] — A DOD program referenced in connection with the briefing that documented the 1980 Peru UFO incident and the 1968 Nepal crash disc case.
+- [[Project Moon Dust]] — A DOD program referenced in connection with the briefing that documented the 1980 Peru UFO incident and the 1968 Nepal crash disc case.
 - [[Prosaic Explanation]] — A conventional or mundane explanation for a UAP sighting, as opposed to an extraordinary one.
 - [[Radar Detection]] — The use of radar systems to detect and track unidentified aerial objects, referenced in the Mexico 2004 case where 3 of 11 objects were radar-confirmed.
 
@@ -72,7 +72,7 @@ The video examines a series of historical military pilot UFO encounters from mul
 - [[Finnish UFO Case]] — A UAP sighting case involving pilot testimony that Gerb leans toward explaining as a genuine UFO encounter.
 
 ## Operations
-- [[Project Moondust]] — A DOD program referenced in a Joint Chiefs briefing that documented multiple UAP-related incidents including the 1980 Peru intercept and the 1968 Nepal crash disc
+- [[Project Moon Dust]] — A DOD program referenced in a Joint Chiefs briefing that documented multiple UAP-related incidents including the 1980 Peru intercept and the 1968 Nepal crash disc
 
 ## Locations
 - [[Fargo, North Dakota, USA]] — Location of the Gorman dogfight on October 1, 1948

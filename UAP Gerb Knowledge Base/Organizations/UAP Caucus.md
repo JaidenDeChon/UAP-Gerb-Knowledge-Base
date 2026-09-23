@@ -20,7 +20,7 @@ The caucus represents bipartisan interest in UAP transparency and oversight of a
 
 ## Role in Bolivia UFO Crash Investigation
 
-The UAP Caucus brought the 1978 Bolivia UFO crash to public attention, citing it as one of several historical crash retrieval events worthy of Congressional investigation. The [[1978 Bolivia UFO Crash|Bolivia incident]], in which thousands of witnesses observed a cylindrical object crash into a mountainside near El Taire, Bolivia, involved US Air Force personnel and [[Project Moondust]], the classified crash retrieval program. Documents obtained through FOIA show Secretary of State [[Cyrus Vance]] contacted "appropriate government agencies" — later confirmed to be Moon Dust — regarding the crash. The UAP Caucus has highlighted this case as documentary evidence of US government involvement in foreign UFO crash retrieval operations.
+The UAP Caucus brought the 1978 Bolivia UFO crash to public attention, citing it as one of several historical crash retrieval events worthy of Congressional investigation. The [[1978 Bolivia UFO Crash|Bolivia incident]], in which thousands of witnesses observed a cylindrical object crash into a mountainside near El Taire, Bolivia, involved US Air Force personnel and [[Project Moon Dust]], the classified crash retrieval program. Documents obtained through FOIA show Secretary of State [[Cyrus Vance]] contacted "appropriate government agencies" — later confirmed to be Moon Dust — regarding the crash. The UAP Caucus has highlighted this case as documentary evidence of US government involvement in foreign UFO crash retrieval operations.
 
 ## Legislative Initiatives
 

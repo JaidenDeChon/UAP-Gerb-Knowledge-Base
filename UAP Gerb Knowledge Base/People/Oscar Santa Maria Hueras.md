@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Lieutenant Oscar Santa Maria Hueras is a [[Peruvian Air Force]] pilot who, on April 11, 1980, engaged in an 84-kilometer aerial pursuit of an unidentified silvery orb-like object near [[La Joya Airbase, Arequipa, Peru|La Joya Airbase]] in Arequipa, Peru. During the encounter, Hueras fired 64 30mm shells at the object with no damaging effect. His account was later corroborated in a DOD Joint Chiefs briefing document related to [[Project Moondust]], alongside the 1968 Nepal crash disc case.
+Lieutenant Oscar Santa Maria Hueras is a [[Peruvian Air Force]] pilot who, on April 11, 1980, engaged in an 84-kilometer aerial pursuit of an unidentified silvery orb-like object near [[La Joya Airbase, Arequipa, Peru|La Joya Airbase]] in Arequipa, Peru. During the encounter, Hueras fired 64 30mm shells at the object with no damaging effect. His account was later corroborated in a DOD Joint Chiefs briefing document related to [[Project Moon Dust]], alongside the 1968 Nepal crash disc case.
 
 ## The La Joya Airbase Intercept
 
@@ -25,7 +25,7 @@ Hueras then attempted to climb above the object, which was standing still at 14,
 
 Upon realizing he had engaged a UFO, Hueras was paralyzed with fear. He quickly zigzagged away from the craft, hoping his evasive pattern would make his aircraft hard to hit and take down. Upon returning to base, multiple eyewitnesses and base personnel also observed the object, further corroborating the encounter.
 
-The incident led to an official DOD investigation, and Hueras's account was documented in a DOD Joint Chiefs briefing that also covered the 1968 Nepal crash disc case under [[Project Moondust]]. The briefing corroborated that Hueras fired 64 30mm shells at the UFO with no damaging effects and that the object demonstrated incredible aerial maneuvers during the 84-kilometer chase.
+The incident led to an official DOD investigation, and Hueras's account was documented in a DOD Joint Chiefs briefing that also covered the 1968 Nepal crash disc case under [[Project Moon Dust]]. The briefing corroborated that Hueras fired 64 30mm shells at the UFO with no damaging effects and that the object demonstrated incredible aerial maneuvers during the 84-kilometer chase.
 
 ## Sources
 

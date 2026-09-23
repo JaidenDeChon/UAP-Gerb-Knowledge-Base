@@ -144,7 +144,7 @@ SAIC maintains massive contracts with [[Sandia National Laboratories]], which ha
 
 - **2013: 5-year, $228 million IT consolidation contract** with Sandia
 - **2023 technology transfer** between NSWC Crane, Sandia Labs, and other participants for advanced hypersonic technology
-- Sandia's historical connection to UAP crash material storage at [[Kirtland Air Force Base]], as documented in the 1950s [[Del Rio, Texas]] crash retrieval case
+- Sandia's historical connection to UAP crash material storage at [[Kirtland Air Force Base, New Mexico|Kirtland Air Force Base]], as documented in the 1950s [[Del Rio, Texas]] crash retrieval case
 - Attorney [[Daniel Sheehan]] implicated defense contractor [[Radiance Technologies]]' prompt global strike hypersonic program as leveraging reverse-engineered UAP technologies — notably, both SAIC and Sandia are connected to Crane's hypersonics programs
 
 ### Naval Air Station Pax River

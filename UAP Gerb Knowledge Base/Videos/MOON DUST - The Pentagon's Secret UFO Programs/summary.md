@@ -12,7 +12,7 @@ tags:
 
 ## Overview
 
-The video traces the documentary history of [[Project Moondust]], a classified United States Air Force crash retrieval and UFO investigation program that operated from at least 1961 under the authority of the [[USAF 1127th Field Activities Group]]. Drawing on declassified memos, State Department cables, and Freedom of Information Act releases, the video establishes that Moondust was not merely a program for recovering terrestrial space debris but was actively involved in investigating and collecting unidentified flying objects across multiple countries over several decades.
+The video traces the documentary history of [[Project Moon Dust]], a classified United States Air Force crash retrieval and UFO investigation program that operated from at least 1961 under the authority of the [[USAF 1127th Field Activities Group]]. Drawing on declassified memos, State Department cables, and Freedom of Information Act releases, the video establishes that Moondust was not merely a program for recovering terrestrial space debris but was actively involved in investigating and collecting unidentified flying objects across multiple countries over several decades.
 
 The presentation follows a chronological arc beginning with Captain [[Edward J. Ruppelt]]'s and Dr. [[J. Allen Hynek]]'s disclosures that classified programs operated in parallel to [[Project Blue Book]], through Moondust's documented field operations in Pakistan, Nepal, Canada, New Zealand, and Bolivia, and culminating in the US Air Force's attempted denial and alleged destruction of program records in the 1990s when Senators [[Jeff Bingaman]] and [[Pete Domenici]] demanded disclosure. The video connects this institutional cover-up to the [[Wilson-Davis Memo]]'s account of SAP reorganization designed to hide crash retrieval programs within deeper compartments.
 
@@ -71,7 +71,7 @@ The video identifies several programs alongside Moondust as part of a broader cl
 
 ## Related Pages
 
-- [[Project Moondust]]
+- [[Project Moon Dust]]
 - [[USAF 1127th Field Activities Group]]
 - [[1978 Bolivia UFO Crash]]
 - [[1968 Nepal Circular Disc Crash]]
