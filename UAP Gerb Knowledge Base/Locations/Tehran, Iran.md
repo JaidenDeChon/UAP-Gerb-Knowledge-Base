@@ -12,7 +12,7 @@ The Tehran incident is considered one of the clearest documented cases of [[Avio
 
 The main object appeared diamond-shaped. As Jafari attempted to engage, a smaller spherical object separated from the primary craft and approached his aircraft. At the moment Jafari attempted to fire, all instrumentation — including targeting systems, radio communications, and avionics — failed entirely. He initiated evasive maneuvers and prepared to eject if the object closed within 2 miles. As he gained distance from the craft, full instrumentation was restored and he reestablished contact with aerial command. The first pilot experienced the same failure pattern during the initial approach.
 
-The event was tracked independently by a [[Defense Support Program (DSP)]] satellite. Researchers Lee Graham and Roger Rager — satellite sensor technicians at Aerojet in California — subsequently located a DSP computer printout confirming the detection of an anomalous object in Iranian airspace during the incident, adding a critical second-source confirmation to the pilots' testimony.
+The event was tracked independently by a [[Defense Support Program (DSP)]] satellite. Researchers Lee Graham and Ron Regehr — satellite sensor technicians at Aerojet in California — subsequently located a DSP computer printout confirming the detection of an anomalous object in Iranian airspace during the incident, adding a critical second-source confirmation to the pilots' testimony.
 
 The Tehran incident is cited by [[Dr. Kevin Knuth]] in his physics analysis of UAP as a representative case of electromagnetic field effects disrupting aircraft avionics — consistent with the electromagnetic propulsion signatures theorized to surround advanced craft using non-Newtonian propulsion systems.
 

@@ -183,7 +183,7 @@ tags:
 - [[Jesus Alberto]]
 - [[Jim Cook]]
 - [[Jim Romansky]]
-- [[Joe Staulia]]
+- [[Joe Stefula]]
 - [[Joey Is Not My Name]]
 - [[John B. Alexander]]
 - [[John DeSouza]]

@@ -19,7 +19,7 @@ The DSP constellation has served as the United States' primary ballistic missile
 
 While the primary mission of ballistic missile early warning satellites is missile detection, these systems have also been detecting and cataloging [[Fast Walkers]] — anomalous objects entering or leaving Earth's atmosphere — since at least 1972.
 
-[[Richard P. Oszx]]'s 1989 paper explicitly states that Fast Walker data "has been recorded since 1972 by **certain ballistic missile early warning Satellite Systems** located at various geostationary locations." Similarly, [[Bradley R. Townson]]'s 2008 study referenced "**ballistic missile warning satellites**" in the context of Fast Walker detections.
+[[Richard P. Osedacz]]'s 1989 paper explicitly states that Fast Walker data "has been recorded since 1972 by **certain ballistic missile early warning Satellite Systems** located at various geostationary locations." Similarly, [[Bradley R. Townsend]]'s 2008 study referenced "**ballistic missile warning satellites**" in the context of Fast Walker detections.
 
 This dual function suggests the infrared sensors designed for missile detection are sensitive enough to track much smaller and faster-moving objects that don't follow ballistic trajectories.
 

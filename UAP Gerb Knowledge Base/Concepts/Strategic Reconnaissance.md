@@ -8,7 +8,7 @@ tags:
 
 ## Notation on DSP Fast Walker Printouts
 
-The designation "**possible SR**" appears on [[Defense Support Program (DSP)]] satellite detection printouts analyzed by researchers investigating [[Fast Walkers|Fast Walker]] incidents. In the [[1976 Tehran UFO Incident]], satellite sensor technicians [[Lee Graham]] and [[Roger Rager]] found a DSP printout showing **238 scans** with the notation "**possible SR**."
+The designation "**possible SR**" appears on [[Defense Support Program (DSP)]] satellite detection printouts analyzed by researchers investigating [[Fast Walkers|Fast Walker]] incidents. In the [[1976 Tehran UFO Incident]], satellite sensor technicians [[Lee Graham]] and [[Ron Regehr]] found a DSP printout showing **238 scans** with the notation "**possible SR**."
 
 [[Brad Sparks]], who also analyzed this data, interpreted "possible SR" as potentially meaning **"Strategic Reconnaissance,"** though the exact meaning of this classification notation has never been officially confirmed.
 
@@ -32,7 +32,7 @@ This uncertainty aligns with [[Bob Fish]]'s observation that a DSP-detected obje
 
 ## Classification and Compartmentation
 
-The use of "possible SR" notation on classified DSP printouts indicates these detections were being analyzed at high classification levels with specific lexicons for categorization. The fact that Graham and Rager, as contractor personnel, could access these printouts suggests they worked in compartmented programs with TS/SCI-level access to strategic reconnaissance data.
+The use of "possible SR" notation on classified DSP printouts indicates these detections were being analyzed at high classification levels with specific lexicons for categorization. The fact that Graham and Regehr, as contractor personnel, could access these printouts suggests they worked in compartmented programs with TS/SCI-level access to strategic reconnaissance data.
 
 ## Sources
 

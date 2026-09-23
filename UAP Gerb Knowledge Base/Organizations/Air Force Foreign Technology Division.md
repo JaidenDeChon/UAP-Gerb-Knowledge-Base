@@ -9,13 +9,13 @@ The Air Force Foreign Technology Division (FTD) was a United States Air Force in
 
 ## Fast Walker Research with NORAD
 
-In 1989, USAF Captain [[Richard P. Oszx]] authored "Orbit Determination of Sunlit Illuminated Objects Detected by Overhead Platforms," detailing **joint efforts between [[NORAD]] and the Air Force Foreign Technology Division** to investigate uncatalogued spacebound objects detected by [[Defense Support Program (DSP)]] satellite sensors — objects designated as [[Fast Walkers]].
+In 1989, USAF Captain [[Richard P. Osedacz]] authored "Orbit Determination of Sunlit Illuminated Objects Detected by Overhead Platforms," detailing **joint efforts between [[NORAD]] and the Air Force Foreign Technology Division** to investigate uncatalogued spacebound objects detected by [[Defense Support Program (DSP)]] satellite sensors — objects designated as [[Fast Walkers]].
 
 The collaboration between NORAD and FTD on Fast Walker analysis indicates that these detections were treated as potential foreign technology threats requiring intelligence assessment. FTD's involvement suggests the Air Force considered Fast Walkers to be within the scope of foreign technology analysis, though the inability to determine orbit or origin raised questions about whether these objects were actually foreign aerospace systems.
 
 ## Unsolvable Classification Problem
 
-Oszx's 1989 paper noted that determining the orbit or precise trajectory of Fast Walkers had been deemed "unsolvable" by previous researchers, including a scientist named Wong. Despite NORAD and FTD's joint analytical capabilities, the objects defied standard orbital mechanics analysis, suggesting they did not behave like conventional satellites, missiles, or space debris.
+Osedacz's 1989 paper noted that determining the orbit or precise trajectory of Fast Walkers had been deemed "unsolvable" by previous researchers, including a scientist named Wong. Despite NORAD and FTD's joint analytical capabilities, the objects defied standard orbital mechanics analysis, suggesting they did not behave like conventional satellites, missiles, or space debris.
 
 ## Wright-Patterson Intelligence Legacy
 

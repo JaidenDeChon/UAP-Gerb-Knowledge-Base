@@ -20,8 +20,8 @@ NORTHCOM responded that Fast Walker documentation is **"currently and properly c
 
 The denial was not absolute, however. NORTHCOM provided two unclassified US Air Force research papers that confirmed the existence of Fast Walker detection and analysis:
 
-1. **"Orbit Determination of Sunlit Illuminated Objects Detected by Overhead Platforms"** (1989) by USAF Captain [[Richard P. Oszx]]
-2. **"Space-Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors"** (2008) by USAF Captain [[Bradley R. Townson]]
+1. **"Orbit Determination of Sunlit Illuminated Objects Detected by Overhead Platforms"** (1989) by USAF Captain [[Richard P. Osedacz]]
+2. **"Space-Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors"** (2008) by USAF Captain [[Bradley R. Townsend]]
 
 These papers confirmed that DSP satellites had been detecting and cataloging Fast Walkers since at least **1972**.
 

@@ -25,7 +25,7 @@ The order allows classification of information that could reasonably be expected
 ## Pattern Across Decades
 
 While Executive Order 13526 dates to 2009, similar classification invocations occurred under previous executive orders:
-- **1979**: [[NORAD]] refused to process [[Barry J. Greenwood]] and [[Lawrence Faucet]]'s UAP tracking request, citing costs of $155,000
+- **1979**: [[NORAD]] refused to process [[Barry J. Greenwood]] and [[Lawrence Fawcett]]'s UAP tracking request, citing costs of $155,000
 - **2013**: NORTHCOM cited EO 13526 for Fast Walker classification
 - **2023**: Space Force maintained classification under the same executive order
 

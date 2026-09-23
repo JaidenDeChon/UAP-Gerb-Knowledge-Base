@@ -20,7 +20,7 @@ DSP satellites scan once every 10 seconds, allowing continuous tracking of objec
 
 ## Detection Range Limitations
 
-One of the persistent challenges in Fast Walker analysis is the inability to determine precise range to targets. Both [[Richard P. Oszx]]'s 1989 study and [[Bradley R. Townson]]'s 2008 follow-up noted that calculating orbit or exact distance to Fast Walkers remained an "unsolvable" problem, as the objects don't follow predictable trajectories that would allow standard orbital mechanics calculations.
+One of the persistent challenges in Fast Walker analysis is the inability to determine precise range to targets. Both [[Richard P. Osedacz]]'s 1989 study and [[Bradley R. Townsend]]'s 2008 follow-up noted that calculating orbit or exact distance to Fast Walkers remained an "unsolvable" problem, as the objects don't follow predictable trajectories that would allow standard orbital mechanics calculations.
 
 ## Sensitivity Threshold
 

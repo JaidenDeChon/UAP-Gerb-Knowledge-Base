@@ -28,9 +28,9 @@ The Fast Walker designation allows NORAD and related commands to classify and wi
 
 NORAD has consistently refused to disclose UFO/Fast Walker tracking data:
 
-### 1979 Request by Greenwood and Faucet
+### 1979 Request by Greenwood and Fawcett
 
-[[Barry J. Greenwood]] and [[Lawrence Faucet]] requested UAP tracking data from NORAD. The command responded that fulfilling the request would require **over 118,000 man-hours** and cost **$155,000** (in 1979 dollars, over $500,000 today). A follow-up request for fee waiver was denied three years later.
+[[Barry J. Greenwood]] and [[Lawrence Fawcett]] requested UAP tracking data from NORAD. The command responded that fulfilling the request would cost **$155,000** (in 1979 dollars, over $500,000 today). A follow-up request for fee waiver was denied three years later.
 
 ### 2013 Request by John Greenwald
 
@@ -40,7 +40,7 @@ However, NORTHCOM did release two unclassified research papers confirming that D
 
 ## Significance
 
-NORAD's 66-year history (1957-present) of tracking UFOs represents the longest continuous government UFO monitoring program known to exist. The volume of data — requiring over 100,000 man-hours to process as of 1979 — suggests NORAD possesses one of the most comprehensive records of UFO activity over North America and near-Earth space.
+NORAD's 66-year history (1957-present) of tracking UFOs represents the longest continuous government UFO monitoring program known to exist. The $155,000 price NORAD put on a 1979 search of its records suggests NORAD possesses one of the most comprehensive records of UFO activity over North America and near-Earth space.
 
 ## Sources
 

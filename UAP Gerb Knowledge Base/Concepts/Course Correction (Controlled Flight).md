@@ -21,7 +21,7 @@ An object making a significant course correction mid-flight demonstrates **activ
 
 ## 1984 Indian Ocean Case
 
-The [[1984 DSP Indian Ocean Detection|May 5, 1984 Fast Walker case]] reported by [[Joe Staulia]] describes an object that:
+The [[1984 DSP Indian Ocean Detection|May 5, 1984 Fast Walker case]] reported by [[Joe Stefula]] describes an object that:
 - Traveled at 22,000 mph toward Earth
 - Passed within 1.8 miles of the DSP satellite
 - **Changed course** and flew back into outer space

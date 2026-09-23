@@ -21,9 +21,9 @@ Fish described an incident where DSP personnel detected a [[Fast Walkers|Fast Wa
 
 ## Notable Detection Cases
 
-Former Army Criminal Investigation Command contact [[Joe Staulia]] relayed a [[1984 DSP Indian Ocean Detection|May 5, 1984 incident]] in which a DSP satellite allegedly detected a UAP traveling at 22,000 mph toward Earth, passing within 1.8 miles of the satellite before abruptly changing course and flying back into outer space.
+Former Army Criminal Investigation Command contact [[Joe Stefula]] relayed a [[1984 DSP Indian Ocean Detection|May 5, 1984 incident]] in which a DSP satellite allegedly detected a UAP traveling at 22,000 mph toward Earth, passing within 1.8 miles of the satellite before abruptly changing course and flying back into outer space.
 
-Satellite sensor technicians [[Lee Graham]] and [[Roger Rager]] at [[Aerojet]] confirmed that the [[1976 Tehran UFO Incident]] was tracked by DSP satellites, locating a computer printout showing 238 scans (approximately 39.7 minutes of continuous tracking) of an anomalous object in Iranian airspace.
+Satellite sensor technicians [[Lee Graham]] and [[Ron Regehr]] at [[Aerojet]] confirmed that the [[1976 Tehran UFO Incident]] was tracked by DSP satellites, locating a computer printout showing 238 scans (approximately 39.7 minutes of continuous tracking) of an anomalous object in Iranian airspace.
 
 ## Role in Recovery Operations
 
