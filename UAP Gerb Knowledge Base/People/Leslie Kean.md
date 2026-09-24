@@ -10,7 +10,7 @@ tags:
 
 ## Early Career and Kecksburg Investigation
 
-In the late 1990s and early 2000s, Leslie Kean became involved in investigating the [[Kecksburg, Pennsylvania]] crash case. In May 2000, she organized a conference titled *"Combating Media Ridicule and Searching for Evidence on the 1965 Kecksburg Crash Case,"* where she presented findings from her correspondence with [[Nicholas Johnson]], NASA's Chief Scientist for Orbital Debris at the [[NASA Johnson Space Center]].
+In the late 1990s and early 2000s, Leslie Kean became involved in investigating the [[Kecksburg, Pennsylvania]] crash case. In May 2000, she organized a conference titled *"Combating Media Ridicule and Searching for Evidence on the 1965 Kecksburg Crash Case,"* where she presented findings from her correspondence with [[Nicholas Johnson]], NASA's Chief Scientist for Orbital Debris at the [[Johnson Space Center|NASA Johnson Space Center]].
 
 Johnson analyzed orbital data of the Soviet spacecraft [[Cosmos 96]] and definitively concluded it could not have been responsible for the Kecksburg event. Johnson stated: "No man-made object came down over Pennsylvania" on December 9, 1965, at the time of the crash. He also eliminated [[Project Corona]], a U.S. spy satellite program, as a potential explanation.
 

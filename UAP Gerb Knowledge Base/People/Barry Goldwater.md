@@ -10,7 +10,7 @@ Senator Barry Morris Goldwater was a five-term United States Senator from Arizon
 
 ## Wright-Patterson Access Denial
 
-Senator Goldwater made multiple attempts to gain access to a classified facility at Wright-Patterson Air Force Base known colloquially as the "[[Wright Patterson Blue Room|Blue Room]]" — a secure area rumored to house recovered UFO materials and possibly non-human biologics. Goldwater's interest stemmed from his military background, his friendship with senior Air Force officials, and his position on committees with oversight of classified aerospace programs.
+Senator Goldwater made multiple attempts to gain access to a classified facility at Wright-Patterson Air Force Base known colloquially as the "[[Blue Room|Blue Room]]" — a secure area rumored to house recovered UFO materials and possibly non-human biologics. Goldwater's interest stemmed from his military background, his friendship with senior Air Force officials, and his position on committees with oversight of classified aerospace programs.
 
 In 1981, Goldwater wrote to UFO researcher  [[Lee Graham]] detailing his attempts to access the Blue Room. Goldwater stated he had asked Wright-Patterson officials directly to see "the room where it was stored" and was "laughed off" and told "never to ask again." This rejection is particularly significant given Goldwater's rank as a Major General and his chairmanship of the Senate Intelligence Committee — positions that would normally grant access to virtually any US military installation or program.
 

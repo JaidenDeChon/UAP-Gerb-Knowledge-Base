@@ -21,6 +21,8 @@ Harzan reports Rich shared three major revelations in the informal post-lecture 
 2. There was an error in fundamental physics equations (Harzan suspects Maxwell's equations for electromagnetic theory)
 3. When Harzan blurted out "I don't know, all points in time and space are connected" in response to Rich asking "How does ESP work?", Rich looked him in the eye and said: **"That's how it works."**
 
+In "The Alien and UFO Obscure Oddities Iceberg (Level 2)", Gerb quotes the same statement as one of Wright-Patterson Air Force Base's connections to the phenomenon, placing Rich's 1993 presentation at [[Wright-Patterson Air Force Base]].
+
 ## Corroboration by James Goodall
 
 Aviation journalist [[James Goodall]], a close friend of Rich, provided additional corroboration. In a conversation with Jesse Michaels, Goodall stated that Rich told him: **"We have things out there that are literally out of this world. Better than Star Trek or anything you can see in the movies."** 
@@ -50,3 +52,4 @@ However, the consistency of the accounts from multiple independent witnesses (Ke
 - [[Video - Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
 - [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
 - [[Video - UFOs in the Private Sector - Lockheed Martin]]
+- [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]]

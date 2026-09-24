@@ -23,6 +23,11 @@ The amendment also references six characteristics of UAP. The sixth, "physical o
 
 Nell observes that ten years earlier the amendment would itself have looked like disclosure. Two of its sponsors sit in the Gang of Eight, which is legally entitled to know about all special access programs, yet had not been told about UAP. In Nell's [[UAP Campaign Plan - Way Forward|campaign plan]], the Schumer legislation marks the completion of Phase 1, government acceptance. Gerb hopes the full bill returns in a later NDAA.
 
+## Opposition
+
+In "The Alien and UFO Obscure Oddities Iceberg (Level 2)", Gerb names Representative [[Mike Turner]] of Ohio, whose district contains [[Wright-Patterson Air Force Base]], as the biggest proponent of blocking the amendment's requirement that legacy programs, and any program studying or holding UAP, divulge their materials and findings.
+
 ## Sources
 
 - [[Video - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure]]
+- [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
