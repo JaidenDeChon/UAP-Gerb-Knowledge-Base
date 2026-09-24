@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Commander Will Miller is a retired U.S. Navy officer who played a pivotal role in triggering Vice Admiral [[Thomas Wilson]]'s 1997 investigation into unacknowledged special access programs related to UFO crash retrievals. Miller's letter to physicist [[Eric Davis]] and [[Hal Puthoff]] offering contractual services for research into crash retrieval programs, and his arrangement of the 1997 Pentagon briefing that included Wilson, [[Edgar Mitchell]], [[Steven Greer]], and [[Dia Hughes]], set in motion the events documented in the [[Wilson-Davis Memo]].
+Commander Will Miller is a retired U.S. Navy officer who played a pivotal role in triggering Vice Admiral [[Thomas Wilson]]'s 1997 investigation into unacknowledged special access programs related to UFO crash retrievals. Miller's letter to physicist [[Eric Davis]] and [[Hal Puthoff]] offering contractual services for research into crash retrieval programs, and his arrangement of the 1997 Pentagon briefing that included Wilson, [[Edgar Mitchell]], [[Steven Greer]], and DIA Director [[Patrick M. Hughes]], set in motion the events documented in the [[Wilson-Davis Memo]].
 
 ## Role in Wilson's 1997 Investigation
 
@@ -14,7 +14,7 @@ In 1997, Miller wrote to Eric Davis and Hal Puthoff offering his contractual ser
 - The name and location of a senior officer with firsthand knowledge of U.S. government [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]] (ARVs)
 - A list of civilian USG contractors with knowledge of USG work in "alien-derived technologies, crashes, landings, and associated events"
 
-At Miller's request, a meeting was arranged in 1997 in a Pentagon conference room where [[Steven Greer]] briefed Admiral Wilson, Miller, Edgar Mitchell, and [[Dia Hughes]] about UFOs, Roswell, and crashed UFOs. Miller confirmed this meeting occurred when interviewed by UFO researcher [[Joe Murgia]]. Following the conference, Miller and Wilson spoke privately, leaving Wilson intrigued enough to launch a 45-day investigation into special access programs.
+At Miller's request, a meeting was arranged in 1997 in a Pentagon conference room where [[Steven Greer]] briefed Admiral Wilson, Miller, Edgar Mitchell, and DIA Director [[Patrick M. Hughes]] about UFOs, Roswell, and crashed UFOs. Miller confirmed this meeting occurred when interviewed by UFO researcher [[Joe Murgia]]. Following the conference, Miller and Wilson spoke privately, leaving Wilson intrigued enough to launch a 45-day investigation into special access programs.
 
 ## Statements on the Wilson-Davis Memo
 

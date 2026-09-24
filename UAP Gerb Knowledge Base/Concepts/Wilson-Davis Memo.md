@@ -17,7 +17,7 @@ Edgar Mitchell, the sixth man to walk on the moon, had long maintained public in
 
 ## The 1997 Pentagon Briefing and Wilson's Investigation
 
-The events documented in the memo began in April 1997 when [[Steven Greer]] briefed Vice Admiral Wilson, retired Navy Commander [[Will Miller]], Edgar Mitchell, and [[Dia Hughes]] in a Pentagon conference room about UFOs, Roswell, and crashed UFOs. Following the conference, Miller and Wilson spoke privately, leaving Wilson intrigued to investigate further.
+The events documented in the memo began in April 1997 when [[Steven Greer]] briefed Vice Admiral Wilson, retired Navy Commander [[Will Miller]], Edgar Mitchell, and DIA Director [[Patrick M. Hughes]] in a Pentagon conference room about UFOs, Roswell, and crashed UFOs. Following the conference, Miller and Wilson spoke privately, leaving Wilson intrigued to investigate further.
 
 Wilson launched a 45-day investigation from April to June 1997, advised by General [[Marshal Ward]] and Secretary of Defense [[Bill Perry]] to examine records in [[OUSD(AT) (Office of the Under Secretary of Defense for Acquisition and Technology)|OUSD(AT)]]—the Office of the Under Secretary of Defense for Acquisition and Technology. Both Ward and Perry informed Wilson of a "special project records group not belonging to usual special access programs"—a special subset of unacknowledged carve-outs and waived programs organized in 1994 by Perry himself.
 
