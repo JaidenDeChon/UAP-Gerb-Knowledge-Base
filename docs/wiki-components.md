@@ -542,9 +542,15 @@ Nothing renders if `stats` is empty.
 
 Source: `app/app/components/content/WikiRoster.vue`
 
-A grid of person/entity cards, whole-card tinted with the entity's category
-surface plus a category-coloured left spine — 1 column on mobile, 2 columns
-at `sm:` and up.
+Person/entity cards on the neutral card surface, like the home page's cards
+(`bg-card`, hairline border, no category tint). One column on narrow
+screens; where the roster is wide enough for two or more 264px columns
+(2 in an article) it's a **mosaic**: each column keeps its own card heights
+instead of lining up in rows, and `layoutMosaic` (`app/app/utils/mosaic.ts`,
+unit-tested in `mosaic.test.ts`) picks each card's column so the columns end
+as level as possible. Two columns are split exactly (the shortest possible
+mosaic, then the split closest to row-by-row order); every column reads in
+source order top to bottom.
 
 Props:
 
@@ -561,22 +567,24 @@ entries:
     note: "The video bookends its timeline with Grusch..."   # optional
 ```
 
-The small uppercase label above each name (e.g. "PEOPLE") is the resolved
-entity's vault category, read via `useWikiResolve`; an entry whose `name`
-doesn't resolve shows "Unlinked" there instead and renders its name as plain
-text (see gotcha 2). The spine colour is `tintFor(category)` — see below.
+The outline badge above each name (e.g. "PEOPLE", with the category's icon)
+is the resolved entity's vault category, read via `useWikiResolve`; an entry
+whose `name` doesn't resolve shows "Unlinked" there instead and renders its
+name as plain text (see gotcha 2).
 
 **Portraits.** A person whose ref carries an `image` (see "People
-portraits" below) gets their photo floated into the card's top-right
-corner, 92×116px, cover-cropped toward the face and faded into the card
-surface along its left and bottom edges with the shared `ufo-fade-xy` mask;
-the text wraps beside it. Nothing to author: the portrait comes with the
-name's ref. The image is lazy-loaded in a fixed box, its alt text is
-"Portrait of {name}", and its tooltip is the credit line
-(`portraitCredit`). Everyone else keeps the plain card. Because a portrait
-changes how a card wraps, the grid stays invisible (`opacity: 0`, space
-kept) until `useWikiResolve` reports `ready`, then fades in, so the reflow
-never happens in front of the reader.
+portraits" below) gets the home page Featured card's narrow layout: the
+whole photo sits across the top of the card at its own aspect ratio,
+uncropped, solid through the face and shoulders and eased down into the
+card over its lower part with the shared `ufo-fade` mask (`--ufo-fade-y`),
+with the text pulled up onto its faded foot. Nothing to
+author: the portrait comes with the name's ref. The image is lazy-loaded in
+a box sized from its width/height attributes, its alt text is "Portrait of {name}", and its tooltip is the
+credit line (`portraitCredit`). Everyone else keeps the plain card. Because
+a portrait changes a card's height, and the mosaic is placed from measured
+heights, the cards stay invisible (`opacity: 0`, space kept) until
+`useWikiResolve` reports `ready` and, in a mosaic, until they've been
+placed; then they fade in, so no reflow happens in front of the reader.
 
 ### `::wiki-compare`
 
@@ -737,7 +745,7 @@ What else it renders:
 
 - **Step cards.** Identical on the spine and in a lane. A `name:` step is an
   entity link resolved in one batch (`useWikiResolve`), its card tinted with
-  the category surface plus a 3px category spine, like `::wiki-roster`. A
+  the category surface plus a 3px category spine. A
   `text:` step is an abstract stage with no page ("Army flatbed truck", "A
   1990s Pentagon audit"): a neutral card with a dashed border. Each card can
   carry a date kicker, a one-line note and a cue chip (`WikiCue`, only when
@@ -1518,8 +1526,8 @@ One technique for every picture that dissolves into what's behind it: the
 video hero's thumbnail, the home page's Featured card
 (`components/home/HomeFeatured.vue`) and people's portraits. It is a
 **mask**, not a colour overlay, so the image fades to transparent and melts
-into whatever surface is behind it (page, card, a category-tinted roster
-card, a hover wash) in all four themes with no colour to keep in step. The
+into whatever surface is behind it (page, card, a roster card, a hover
+wash) in all four themes with no colour to keep in step. The
 stops trace an ease-in-out ("scrim") curve instead of a two-stop linear
 ramp, whose abrupt ends read as edges.
 
