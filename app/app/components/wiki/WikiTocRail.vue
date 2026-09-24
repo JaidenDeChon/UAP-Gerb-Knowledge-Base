@@ -20,15 +20,14 @@ function buildObserver() {
 
   // rootMargin pulls the trigger line to the upper third so a heading becomes
   // active as it reaches reading position, not when it touches the viewport edge.
-  // The page scrolls inside <main> (see layouts/default.vue), not the window —
-  // but <main> is itself within the viewport, so the default (viewport) root
-  // still tracks its scroll position correctly.
+  // The -56px top margin discounts the strip under the sticky top bar, which
+  // the document scrolls beneath.
   observer = new IntersectionObserver(
     (entries) => {
       const visible = entries.filter(e => e.isIntersecting)
       if (visible.length) activeId.value = visible[0]!.target.id
     },
-    { rootMargin: '0px 0px -66% 0px', threshold: 0 },
+    { rootMargin: '-56px 0px -66% 0px', threshold: 0 },
   )
   for (const link of links.value) {
     const el = document.getElementById(link.id)
