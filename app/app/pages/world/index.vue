@@ -134,11 +134,19 @@ const MODES = [
       </div>
     </header>
 
-    <section ref="hero" class="ufo-world-hero mt-6" aria-label="Globe and list of places">
+    <!-- Until the places arrive the page is the UFO loader alone, as on
+         /videos: shown inside the globe's panel it sat under the panel's
+         own chrome (the HUD corners, the grid, the globe's status line). -->
+    <div v-if="!data" class="min-h-[50vh]">
+      <AppLoadingMark />
+      <span class="sr-only" role="status">Loading places…</span>
+    </div>
+
+    <section v-else ref="hero" class="ufo-world-hero mt-6" aria-label="Globe and list of places">
       <div class="ufo-world-stage">
         <div class="ufo-world-glow" aria-hidden="true" />
         <ClientOnly>
-          <WorldGlobe v-if="data" :places="places" :selected="selected" :mode="mode" @select="select" />
+          <WorldGlobe :places="places" :selected="selected" :mode="mode" @select="select" />
           <template #fallback>
             <div class="grid h-full place-items-center font-mono text-[11px] uppercase tracking-[0.1em] text-muted-foreground">
               Loading globe…
@@ -157,8 +165,7 @@ const MODES = [
       </div>
 
       <aside class="ufo-world-rail" aria-label="Places">
-        <WorldPlaceList v-if="data" :places="places" :selected="selected" @select="select" />
-        <AppLoadingMark v-else />
+        <WorldPlaceList :places="places" :selected="selected" @select="select" />
       </aside>
     </section>
 
@@ -175,10 +182,9 @@ const MODES = [
       </p>
       <div class="grid gap-4 @4xl:grid-cols-2">
         <WorldContinentMap
-          v-for="(c, k) in byContinent"
+          v-for="c in byContinent"
           :key="c.id"
           v-reveal
-          :class="{ '@4xl:col-span-2': k === 0 && c.places.length > places.length / 2 }"
           :continent="c.id"
           :places="c.places"
           :selected="selected"
@@ -197,7 +203,7 @@ const MODES = [
         </template>.
       </p>
       <p class="text-[11.5px]">
-        Outlines: Natural Earth. Ranges and regions are pinned at a representative centre.
+        Ranges and regions are pinned at a representative centre.
       </p>
     </footer>
 

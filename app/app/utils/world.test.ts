@@ -138,13 +138,14 @@ describe('heat ramp', () => {
     expect(hslString({ h: 142, s: 70, l: 45 }, 0.25)).toBe('hsla(142, 70%, 45%, 0.25)')
   })
 
-  it('colours density relative to the densest pixel, leaving empty pixels clear', () => {
+  it('colours density on an absolute scale, leaving empty pixels clear', () => {
     const lut = heatLut(primary, true)
     const px = new Uint8ClampedArray([0, 0, 0, 0, 0, 0, 0, 60, 0, 0, 0, 120])
     colorizeDensity(px, lut)
     expect([...px.slice(0, 4)]).toEqual([0, 0, 0, 0])
-    expect([...px.slice(8, 12)]).toEqual([...lut.slice(255 * 4, 256 * 4)])
-    expect([...px.slice(4, 8)]).toEqual([...lut.slice(128 * 4, 129 * 4)])
+    // Not stretched to the densest pixel: 120 stays 120, not full heat.
+    expect([...px.slice(8, 12)]).toEqual([...lut.slice(120 * 4, 121 * 4)])
+    expect([...px.slice(4, 8)]).toEqual([...lut.slice(60 * 4, 61 * 4)])
   })
 
   it('writes rgba() for the globe, alpha clamped', () => {

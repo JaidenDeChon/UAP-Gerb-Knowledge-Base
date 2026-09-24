@@ -4,15 +4,16 @@ import type { WorldPlace } from '#shared/types/wiki'
 import type { WorldMode } from '@/composables/useWorldView'
 import { Minus, Plus, RotateCcw } from '@lucide/vue'
 import { usePreferredReducedMotion } from '@vueuse/core'
-import { colorizeDensity, heatLut, type Hsl, hslString, placeSlug, rgbaString } from '@/utils/world'
+import { colorizeDensity, HEAT_KERNEL, heatLut, type Hsl, hslString, placeSlug, rgbaString } from '@/utils/world'
 
 /**
  * The `/world` page's hero: a 3D globe (globe.gl, over three.js) with every
- * placed Location on it. Vector only — no photographic texture: a solid
- * sphere a step off the page's surface, the land as a field of dots, and the
- * theme's primary as the atmosphere's glow and a soft light raking across
- * the sphere. Every colour comes from the theme tokens and follows a theme
- * change.
+ * placed Location on it. Vector only, drawn like the continent maps and
+ * `::wiki-map`: the sphere is the water, a step off the page's surface; the
+ * countries are flat fills with their borders, lakes cut back to water, and
+ * US state lines drawn over them, all in the maps' inks. The theme's primary
+ * is the atmosphere's glow and a soft light raking across the sphere. Every
+ * colour comes from the theme tokens and follows a theme change.
  *
  * `pins` draws each place as a small post; `heat` swaps them for a density
  * glow wrapped round the sphere (`drawHeat`: the same kernel and one-hue
@@ -44,6 +45,9 @@ const still = computed(() => reducedMotion.value === 'reduce')
 let globe: GlobeInstance | null = null
 let three: typeof import('three') | null = null
 let rakeLight: import('three').DirectionalLight | null = null
+/** Flat (unlit) fills for the land and the lakes, so they match the 2D maps' colours exactly. */
+let landMaterial: import('three').MeshBasicMaterial | null = null
+let lakeMaterial: import('three').MeshBasicMaterial | null = null
 let heatShell: import('three').Mesh<import('three').SphereGeometry, import('three').MeshBasicMaterial> | null = null
 let ro: ResizeObserver | null = null
 let io: IntersectionObserver | null = null
@@ -72,19 +76,28 @@ function over(ink: Hsl, ground: Hsl, alpha: number): Hsl {
   return { ...ink, l: ground.l + (ink.l - ground.l) * alpha }
 }
 
+/**
+ * The map inks of the continent maps and `::wiki-map` (land 17%, borders 55%,
+ * state lines 30% of the muted foreground over the water), pre-mixed into
+ * opaque colours: WebGL layers blend by draw order, not like stacked CSS,
+ * and a translucent land layer would sort behind the heat shell and vanish.
+ */
 const palette = computed(() => {
   const t = tokens.value
   const dark = isDark.value
   const primary = t.primary ?? GREEN
-  // The sphere sits a step off the card: lighter on a dark theme, darker on a light one.
-  const sphere = dark ? { ...(t.card ?? INK), l: (t.card ?? INK).l + 5 } : { ...(t.muted ?? PAPER), l: (t.muted ?? PAPER).l - 3 }
+  // The water is the card, a step off it so the sphere reads against the
+  // panel: lighter on a dark theme, darker on a light one.
+  const card = t.card ?? (dark ? INK : PAPER)
+  const water = { ...card, l: card.l + (dark ? 5 : -4) }
   const ink = t['muted-foreground'] ?? (dark ? PAPER : INK)
+  const land = over(ink, water, 0.17)
   return {
     primary: hslString(primary),
-    sphere: hslString(sphere),
-    // Opaque, pre-mixed over the sphere: a translucent land layer would sort
-    // behind the (translucent) heat shell and vanish.
-    land: rgbaString(dark ? over({ ...ink, l: ink.l + 4 }, sphere, 0.62) : over({ ...ink, l: ink.l - 8 }, sphere, 0.55)),
+    water: hslString(water),
+    land: hslString(land),
+    border: rgbaString(over(ink, land, 0.55)),
+    state: rgbaString(over(ink, land, 0.3)),
     pin: dark ? tone(t.foreground, PAPER, -2) : tone(t.foreground, INK, 6),
     ring: (a: number) => rgbaString(primary, a),
     primaryHsl: primary,
@@ -102,17 +115,20 @@ function applyColours(): void {
   if (!globe || !three) return
   const p = palette.value
   const material = globe.globeMaterial() as import('three').MeshPhongMaterial
-  material.color = new three.Color(p.sphere)
+  material.color = new three.Color(p.water)
   material.emissive = new three.Color(p.primary)
-  material.emissiveIntensity = p.dark ? 0.035 : 0.015
+  material.emissiveIntensity = p.dark ? 0.02 : 0.01
   material.shininess = p.dark ? 14 : 6
   material.needsUpdate = true
   rakeLight?.color.set(p.primary)
-  if (rakeLight) rakeLight.intensity = p.dark ? 1.1 : 0.45
+  if (rakeLight) rakeLight.intensity = p.dark ? 0.6 : 0.3
   globe
     .atmosphereColor(p.primary)
     .atmosphereAltitude(p.dark ? 0.2 : 0.16)
-    .hexPolygonColor(() => p.land)
+    .polygonStrokeColor(d => ((d as { id?: string }).id === 'lake' ? p.state : p.border))
+    .pathColor(() => p.state)
+  landMaterial?.color.set(p.land)
+  lakeMaterial?.color.set(p.water)
   drawHeat()
   applyLayers()
 }
@@ -121,8 +137,8 @@ function applyColours(): void {
 
 const HEAT_W = 2048
 const HEAT_H = 1024
-/** Kernel radius, in degrees of latitude: about the reach of the continent maps' blobs at their scale. */
-const HEAT_RADIUS = 3.6
+/** Kernel radius, in degrees of latitude: roughly the continent maps' reach at their scale. */
+const HEAT_RADIUS = 7
 
 /**
  * The density glow, drawn on an equirectangular canvas and wrapped on a
@@ -155,8 +171,7 @@ function drawHeat(): void {
       ctx.translate(x + dx, y)
       ctx.scale(stretch, 1)
       const g = ctx.createRadialGradient(0, 0, 0, 0, 0, ry)
-      g.addColorStop(0, 'rgba(0,0,0,0.5)')
-      g.addColorStop(1, 'rgba(0,0,0,0)')
+      for (const [at, a] of HEAT_KERNEL) g.addColorStop(at, `rgba(0,0,0,${a})`)
       ctx.fillStyle = g
       ctx.fillRect(-ry, -ry, ry * 2, ry * 2)
       ctx.restore()
@@ -236,7 +251,12 @@ onMounted(async () => {
     const g = new Globe(el, { animateIn: !still.value, rendererConfig: { antialias: true, alpha: true, powerPreference: 'high-performance' } })
     globe = g
 
-    const land = outlines.world.features.filter(f => f.id !== 'lake' && f.geometry.type === 'MultiPolygon')
+    const polygons = outlines.world.features.filter(f => f.geometry.type === 'MultiPolygon')
+    // State borders: one path per line, as `[lon, lat]` points.
+    const stateLines = outlines.states.features.flatMap(f =>
+      f.geometry.type === 'MultiLineString' ? f.geometry.coordinates : [])
+    landMaterial = new THREE.MeshBasicMaterial()
+    lakeMaterial = new THREE.MeshBasicMaterial()
 
     g.width(el.clientWidth)
       .height(el.clientHeight)
@@ -244,11 +264,19 @@ onMounted(async () => {
       .globeImageUrl(null as unknown as string)
       .showAtmosphere(true)
       .globeMaterial(new THREE.MeshPhongMaterial())
-      .hexPolygonsData(land)
-      .hexPolygonResolution(3)
-      .hexPolygonMargin(0.42)
-      .hexPolygonUseDots(true)
-      .hexPolygonAltitude(0.004)
+      .polygonsData(polygons)
+      // Lakes sit a hair above the land they're cut from.
+      .polygonAltitude(d => ((d as { id?: string }).id === 'lake' ? 0.0045 : 0.004))
+      .polygonCapMaterial(d => ((d as { id?: string }).id === 'lake' ? lakeMaterial! : landMaterial!))
+      .polygonSideColor(() => 'rgba(0, 0, 0, 0)')
+      .polygonCapCurvatureResolution(3)
+      .polygonsTransitionDuration(0)
+      .pathsData(stateLines)
+      .pathPoints(d => d as number[][])
+      .pathPointLat(pt => (pt as number[])[1]!)
+      .pathPointLng(pt => (pt as number[])[0]!)
+      .pathPointAlt(0.0046)
+      .pathTransitionDuration(0)
       .pointLat(d => (d as WorldPlace).lat)
       .pointLng(d => (d as WorldPlace).lon)
       .pointResolution(10)
@@ -265,10 +293,14 @@ onMounted(async () => {
       .ringPropagationSpeed(2.2)
       .ringRepeatPeriod(1300)
 
-    // A soft light from the upper left, in the primary: the glow on the sphere itself.
+    // Lighting like the flat maps: a full white ambient, so the water shows
+    // its own colour everywhere (globe.gl's default lights shade the far
+    // side grey, darker than the flat land). The only shading is a soft
+    // light from the upper left, in the primary: the glow on the sphere.
     rakeLight = new THREE.DirectionalLight(0xffffff, 1)
     rakeLight.position.set(-1.2, 1.1, 1.4)
-    g.lights([...g.lights(), rakeLight])
+    // π: three.js divides diffuse light by π, so this is what shows the base colour at full value.
+    g.lights([new THREE.AmbientLight(0xffffff, Math.PI), rakeLight])
 
     // The heat shell: just above the land dots, turned like globe.gl's own
     // sphere so the equirectangular texture's longitudes line up.
@@ -322,6 +354,10 @@ onBeforeUnmount(() => {
   heatShell?.material.map?.dispose()
   heatShell?.material.dispose()
   heatShell = null
+  landMaterial?.dispose()
+  lakeMaterial?.dispose()
+  landMaterial = null
+  lakeMaterial = null
   globe?._destructor()
   globe = null
   rakeLight = null

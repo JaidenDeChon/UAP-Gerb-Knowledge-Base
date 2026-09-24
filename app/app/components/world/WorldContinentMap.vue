@@ -4,7 +4,7 @@ import type { MapOutlines } from '@/composables/useMapOutlines'
 import type { WorldMode } from '@/composables/useWorldView'
 import { geoAzimuthalEqualArea, geoPath, type GeoProjection } from 'd3-geo'
 import { boundsOutline } from '@/utils/map'
-import { colorizeDensity, type Continent, CONTINENT_BY_ID, continentFrame, heatLut, placeSlug } from '@/utils/world'
+import { colorizeDensity, type Continent, CONTINENT_BY_ID, continentFrame, HEAT_KERNEL, heatLut, placeSlug } from '@/utils/world'
 
 /**
  * One continent's places on a flat outline map, below the globe. Drawn like
@@ -48,6 +48,8 @@ onBeforeUnmount(() => ro?.disconnect())
 
 const W = computed(() => Math.max(260, Math.round(measured.value || 560)))
 const PAD = 12
+/** Height over width, the same for every continent's map. */
+const ASPECT = 0.72
 
 /* -- projection ------------------------------------------------------------- */
 
@@ -59,9 +61,9 @@ const geo = computed<{ projection: GeoProjection, H: number }>(() => {
     .rotate([-(bounds[0] + bounds[2]) / 2, -(bounds[1] + bounds[3]) / 2])
     // Keep the far side of the globe from wrapping round the rim of a wide frame.
     .clipAngle(100)
-  projection.fitWidth(w - PAD * 2, sample)
-  const [[, y0], [, y1]] = geoPath(projection).bounds(sample)
-  const H = Math.round(Math.min(Math.max(y1 - y0 + PAD * 2, w * 0.5), w * 1.05))
+  // Every continent gets the same frame, so the grid of maps is even: the
+  // continent is fitted inside it, and whatever surrounds it fills the rest.
+  const H = Math.round(w * ASPECT)
   projection.fitExtent([[PAD, PAD], [w - PAD, H - PAD]], sample)
   projection.clipExtent([[0, 0], [w, H]])
   return { projection, H }
@@ -165,11 +167,10 @@ function drawHeat(): void {
   ctx.setTransform(dpr, 0, 0, dpr, 0, 0)
   ctx.clearRect(0, 0, w, h)
 
-  const radius = Math.max(16, Math.min(34, w / 20))
+  const radius = Math.max(26, Math.min(64, w / 10))
   for (const d of dots.value) {
     const g = ctx.createRadialGradient(d.x, d.y, 0, d.x, d.y, radius)
-    g.addColorStop(0, 'rgba(0,0,0,0.5)')
-    g.addColorStop(1, 'rgba(0,0,0,0)')
+    for (const [at, a] of HEAT_KERNEL) g.addColorStop(at, `rgba(0,0,0,${a})`)
     ctx.fillStyle = g
     ctx.fillRect(d.x - radius, d.y - radius, radius * 2, radius * 2)
   }
@@ -196,7 +197,7 @@ const summary = computed(() =>
 
     <!-- Drawn on the client only, once the stage's width is known: an SVG
          rendered on the server at a guessed width can't hydrate cleanly. -->
-    <div ref="stage" class="ufo-cmap-stage" :style="measured ? undefined : { aspectRatio: '16 / 10' }">
+    <div ref="stage" class="ufo-cmap-stage" :style="measured ? undefined : { aspectRatio: `1 / ${ASPECT}` }">
       <svg
         v-if="measured"
         class="ufo-cmap-svg"

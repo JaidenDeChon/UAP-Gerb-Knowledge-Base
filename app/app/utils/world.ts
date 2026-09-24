@@ -220,9 +220,22 @@ export function heatColor(t: number, primary: Hsl, dark: boolean): { hsl: Hsl, a
   const s = Math.min(100, primary.s + 8)
   // Dark surfaces: from a deep primary up to a pale, bright one. Light surfaces: from a pale primary down to a deep one.
   const l = dark ? 30 + x * 50 : 72 - x * 50
-  const alpha = x <= 0 ? 0 : Math.min(1, 0.18 + x * 0.95)
+  const alpha = x <= 0 ? 0 : Math.min(1, 0.06 + x * 0.94)
   return { hsl: { h: primary.h, s, l }, alpha }
 }
+
+/**
+ * One place's footprint in a density picture: a radial blob whose alpha
+ * falls from `HEAT_KERNEL[0]` at the centre, through the middle stop, to
+ * nothing at its radius. Faint, so a lone place reads quietly and only a
+ * real cluster builds up to the top of the ramp (ten overlapping blobs
+ * reach about 83%), and soft-shouldered, so the footprint spreads.
+ */
+export const HEAT_KERNEL: readonly [offset: number, alpha: number][] = [
+  [0, 0.16],
+  [0.45, 0.08],
+  [1, 0],
+]
 
 /**
  * A 256-entry RGBA lookup table of `heatColor`, for colouring a canvas
@@ -240,19 +253,18 @@ export function heatLut(primary: Hsl, dark: boolean): Uint8ClampedArray {
 
 /**
  * Colours a density picture in place. `px` is RGBA canvas data where each
- * place was drawn as a soft blob of alpha; each pixel's alpha, relative to
- * the densest pixel's, picks its colour from `lut` (`heatLut`). Pixels no
- * blob reached stay clear.
+ * place was drawn as a soft blob of alpha (`HEAT_KERNEL`); each pixel's
+ * alpha picks its colour from `lut` (`heatLut`) directly. The scale is
+ * absolute, not stretched to the densest pixel, so the same number of
+ * places reads the same everywhere: a lone place on a sparse continent
+ * stays as soft as one in the middle of Nevada. Pixels no blob reached
+ * stay clear.
  */
 export function colorizeDensity(px: Uint8ClampedArray, lut: Uint8ClampedArray): void {
-  let max = 0
-  for (let i = 3; i < px.length; i += 4) max = Math.max(max, px[i]!)
-  if (!max) return
-  const scale = 255 / max
   for (let i = 0; i < px.length; i += 4) {
     const a = px[i + 3]!
     if (!a) continue
-    const k = Math.min(255, Math.round(a * scale)) * 4
+    const k = a * 4
     px[i] = lut[k]!
     px[i + 1] = lut[k + 1]!
     px[i + 2] = lut[k + 2]!
