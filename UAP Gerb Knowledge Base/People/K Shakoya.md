@@ -1,17 +1,19 @@
 ---
 name: "K Shakoya"
-role: "Alleged UAP researcher or analyst"
+role: "Name on a page of the alleged leaked UAP Task Force report"
 tags:
   - person
 ---
 
-K. Shakoya is named in an alleged leaked classified UAP document as having contributed to an internal report around 2020, possibly produced by or for the [[UAP Task Force]]. The document, which surfaced online in 2021 or 2022, allegedly represents a section from a longer classified appendix of a UAP Task Force report prepared for Congress. Shakoya's reported contribution is dated to 2020, during the operational period of the UAP Task Force (2017-2022).
+K. Shakoya is one of three names that appear on the "Behavioral Data Analysis" page of the [[Alleged Leaked UAP Task Force Report]], a set of purported pages from a classified [[UAP Task Force]] report that circulated online in 2021 or 2022. According to the page, Shakoya made its most recent contribution, dated 2020, while the UAP Task Force was operating (2017 to 2022). Gerb takes that date as a sign that the document may be an internal Task Force report.
 
-## Alleged Document and Research Role
+## Attributed findings
 
-According to the leaked document, Shakoya contributed to behavioral data analysis research examining UAP/USO (Unidentified Aerial Submerged Phenomena) characteristics. The document section references conclusions suggesting that certain UAP may represent either remote/autonomous drones or a form of mechanical life, and describes what it characterizes as "stepped virtual evolution" indicating generational changes in UAP appearance and flight performance. The attribution "Shea Koya gradual changes" appears in the document, suggesting Shakoya's work focused on longitudinal analysis of UAP behavioral patterns.
+The page analyses 1,292 UFO cases and concludes that UAP, or UA/SP (unidentified aerial and submerged phenomena), are either remote or autonomous drones or a form of mechanical life. It says an "organic species" has been deploying them, and that their rapidly improving flight performance indicates a "stepped virtual evolution process". Shakoya is credited with the finding that gradual changes in UA/SP appearance and behaviour reflect generational changes.
 
-The authenticity of the document remains unverified, and as Gerb notes, extensive searches for information about K. Shakoya and associated researchers ([[M. Harmon]], [[S. McCaron]]) have yielded almost no results, raising questions about whether these are pseudonyms or first names removed for classification purposes.
+## Identity
+
+In his analysis of the [[Flyby Footage]], Gerb said that an exhaustive search for the names on the page ([[M. Harmon]], [[S. McCaron]] and Shakoya) had turned up almost nothing, and that he assumed they were pseudonyms or had had their first names removed.
 
 ## Sources
 

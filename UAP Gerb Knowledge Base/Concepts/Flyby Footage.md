@@ -4,32 +4,33 @@ tags:
   - concept
 ---
 
-The Flyby Footage is a 20-second video clip depicting a disc-shaped UAP traveling alongside a jet aircraft, uploaded to YouTube on May 14, 2008 by user [[Danny Lampkin]]. The footage has been characterized as one of the most enigmatic and potentially significant pieces of publicly available UAP evidence, with analysis suggesting it may have been captured from inside a military aircraft— specifically a [[NASA]] F-18A variant— based on camera positioning, reflections, and wing configuration visible in the frame.
+The Flyby Footage is a video clip of about 20 seconds that appears to show a disc-shaped UAP flying alongside the wing of a jet at close range. It was uploaded to YouTube on 14 May 2008 by the channel [[Danny Lampkin]], and its earliest known posting was on the website UFO Chronicles in April 2008, under the title "Flying Saucer UFO filmed from jet window". Gerb calls it one of his favourite pieces of UFO footage and argues that, if genuine, it is the best example of a closely filmed UFO encounter in the public realm. Its origin is unknown, and it has been widely dismissed as CGI or a model on a string.
 
-## Technical Characteristics
+## Technical characteristics
 
-The footage is a [[Second-Generation Recording]]— someone filmed a computer screen playing the original footage— which degrades quality and introduces artifacts but also preserves certain analytical details. Visible reflections in the cockpit glass appear consistent with a [[Gentex MBU-23P Pilot Respirator Mask]], suggesting military aircraft origin. The wing view matches an F-18 Super Hornet filmed from the port side, and the empty missile wing tip pylons are consistent with the NASA F-18A Chase aircraft configuration, which features an interior-mounted camcorder behind the pilot seat.
+The clip is well below 240p, and it is a [[Second-Generation Recording]]: someone filmed the original footage as it played on a computer screen. Reflections of equipment are visible on the glass. Gerb considers them more likely to come from inside the aircraft than from the camera filming the screen: a camcorder mounted in the cockpit, with possible catches of a [[Gentex MBU-23P Pilot Respirator Mask|Gentex MBU-23/P]] oxygen mask. This would place the original camera inside a military jet. [[NASA]]'s F/A-18 chase aircraft carry just such a camcorder behind the pilot's seat, able to film to either side. The clip shows a wing filmed on the port side with empty wingtip missile pylons, and Gerb finds that the wing angle and pylons match a cockpit view from an F/A-18 Super Hornet.
 
-Audio waveform analysis reveals the audio track does not cut at a visible footage cut point, indicating the audio represents ambient noise from the screen recording environment rather than original cockpit audio. Some analysts have compared the audio characteristics to ambient sounds recorded aboard the USS Nitze during the 2019 spherical UAP water entry event.
+## Audio
 
-## Craft Description and Historical Context
+The soundtrack is a loud, muffled noise with faint voices. Gerb offers two explanations: the original cockpit sound, replayed and re-recorded off the screen, or ambient noise from wherever the screen recording was made. He compares the sound both to the inside of an F/A-18 cockpit and to the shipboard background of the 2019 video of a sphere entering the ocean, filmed from [[USS Nitze]]. A Reddit user's [[Audio Waveform Analysis]] found that the waveform does not cut at the fourth second, where the footage does, which points to ambient noise, possibly aboard a ship. The same user's attempt to isolate the voices produced speech Gerb could not make out, though one voice appears to be a woman's.
 
-The UAP depicted in the footage is disc-shaped with a prominent upper protrusion described as resembling "half of a ping-pong ball," matching descriptions provided by [[Robert Jacobs]] in his warhead shootdown footage testimony. The craft also bears strong visual similarity to the famous McMinnville UFO photographs from 1950. The object flies at an angle rather than level— a characteristic noted by [[Bob Lazar]], who claimed recovered alien craft fly "belly towards their destination."
+## The craft
 
-## Alleged Leaked Document Connection
+The object is a saucer with a protrusion on top, flying tilted. Gerb notes that it is almost identical to the craft [[Robert Jacobs]] described in his warhead-shootdown film (see [[Vandenberg Air Force Base UFO Film Incident]]), whose dome Jacobs likened to half a ping-pong ball. The same upper protrusion appears in the [[McMinnville UFO Photographs]]. The angled flight matches many saucer images and accounts, and [[Bob Lazar]]'s claim that discs fly "belly towards their destination".
 
-An alleged leaked classified document that surfaced online in 2021-2022, purportedly a section from a classified appendix of a [[UAP Task Force]] report, allegedly classifies the flyby footage as "high value witness testimony" within Appendix F, Section 4B titled "DOD 1992 through 2017 High Value Witness Interviews." If authentic, this designation would indicate the U.S. government considers the footage to represent genuine military UAP documentation of significant evidentiary value.
+## The alleged leaked report
 
-The document lists the footage in a "Behavioral Data Analysis" section alongside research contributions from [[K Shakoya]], [[M. Harmon]], [[S. McCaron]], and [[Hillary S. McCaron]], with analysis purportedly conducted by joint elements of [[ONI]], [[NSA]], [[DHS]], and DOD SAP-cleared experts. The document's authenticity remains unverified.
+The clip is tied to an [[Alleged Leaked UAP Task Force Report]] that surfaced online in 2021 or 2022. One of its pages is a cockpit communications log in which the two-seat fighter Club 11, directed by an [[AWACS (Airborne Warning and Control System)|AWACS]] and an unidentified controller called BLK, intercepts a bogey closing at 2,820 knots and then finds an object off the starboard wing, "about 10 to 15 ft from the canopy". Gerb argues that the log lines up almost exactly with the Flyby clip. The log belongs to Appendix F, Section 4B, "DoD 1992 through 2017 High Value Witness Interviews". That appendix is cited on a second alleged page, a "Behavioral Data Analysis" of 1,292 cases that names [[M. Harmon]], [[S. McCaron]] and [[K Shakoya]]. If the document is real and the log describes this encounter, the footage would count as "high value witness testimony", which in Gerb's view would make it one of the most crucial pieces of UFO footage ever taken.
 
-## Public Statements by Officials
+## Official statements on close-range footage
 
-[[Luis Elizondo]] stated in a 2021 GQ interview that the U.S. government possesses UAP footage far more compelling than the publicly released Pentagon videos, including clips showing UAP within 50 feet of aircraft cockpits. [[Chris Mellon]] similarly stated he had viewed footage of a UAP positioned immediately adjacent to a pilot. These statements align with the characteristics of the flyby footage, which shows a UAP approximately 10-15 feet from the aircraft canopy according to alleged cockpit communications logs associated with the incident.
+Gerb sets the clip against statements by [[Luis Elizondo]] and [[Chris Mellon]]. In a 2021 GQ interview, Elizondo said that unreleased government footage includes a 23-minute video and one in which an object is 50 feet from the cockpit. Mellon said on *The Joe Rogan Experience* that he had seen footage of a UAP right next to a pilot. Gerb is certain that Mellon was not describing the Flyby clip. He cites both men as evidence that UFOs have been recorded within about 15 metres of aircraft.
 
-## Authenticity Questions
+## Open questions
 
-The footage's quality and dramatic nature have led to skepticism, with some dismissing it as CGI or a model. However, as of the video's analysis, no definitive CGI analysis has been completed, and the footage's technical characteristics— including camera positioning, reflections, audio waveform behavior, and craft morphology consistent with historical accounts— present a complex case that remains unresolved.
+Gerb has not reached a verdict. He is no CGI or video-editing expert, and he has invited analysts to examine the clip for CGI, clipping, or different frame rates for the object and its surroundings, with a view to a second video on the case.
 
 ## Sources
 
 - [[Video - Incredible UFO Footage - FLYBY]]
+- [[Video - Incredible UFO Footage - METAPOD]]
