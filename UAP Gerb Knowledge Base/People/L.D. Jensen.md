@@ -9,7 +9,7 @@ L.D. Jensen was an air traffic controller at [[Hector Airport]] in [[Fargo, Nort
 
 ## Role in the Gorman Dogfight
 
-When Gorman called Hector's air traffic control at 9:07 p.m. about the blinking light he had seen, he was told there was no other traffic in the region. During the chase, Jensen watched the object pass overhead through binoculars, though he could not make out the blinking luminosity Gorman described. [[Gerb]], in [[Video - Global Air Force UFO Encounters You've Probably Never Heard of|Global Air Force UFO Encounters You've Probably Never Heard of]], calls this sighting "crucial to note": an observer on the ground saw the object too.
+When Gorman called Hector's air traffic control at 9:07 p.m. about the blinking light he had seen, he was told there was no other traffic in the region. During the chase, Jensen watched the object pass overhead through binoculars, though he could not make out the blinking luminosity Gorman described. Gerb, in [[Video - Global Air Force UFO Encounters You've Probably Never Heard of|Global Air Force UFO Encounters You've Probably Never Heard of]], calls this sighting "crucial to note": an observer on the ground saw the object too.
 
 [[Project Sign]], which interviewed Gorman "and other witnesses", concluded that Gorman had chased a lit weather balloon or the planet Jupiter.
 

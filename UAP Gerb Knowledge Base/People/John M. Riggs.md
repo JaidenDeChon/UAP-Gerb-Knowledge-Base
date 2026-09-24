@@ -6,7 +6,7 @@ tags:
   - person
 ---
 
-John M. Riggs is a retired United States Army officer who rose to lieutenant general and served from his enlistment in 1965 until 2004–2005, when he was forced to retire and lost a star, retiring as a major general. He is theorized by UAP researcher [[Gerb|UAP Gerb]] to be the anonymous [[Infographic Show Whistleblower|whistleblower]] whose testimony — analyzed in the video "'US Special Forces Confession - I Recovered Crashed UFOs': Fact or Fiction?" — describes participation in a classified UAP crash retrieval program spanning approximately 35 years. Riggs is also named in separate testimony by a witness identified as "TB" as a general who allegedly showed classified UAP-derived cloaking technology to a [[BAE Systems]] employee, an act that led to his investigation, demotion, and forced retirement.
+John M. Riggs is a retired United States Army officer who rose to lieutenant general and served from his enlistment in 1965 until 2004–2005, when he was forced to retire and lost a star, retiring as a major general. He is theorized by UAP researcher UAP Gerb to be the anonymous [[Infographic Show Whistleblower|whistleblower]] whose testimony — analyzed in the video "'US Special Forces Confession - I Recovered Crashed UFOs': Fact or Fiction?" — describes participation in a classified UAP crash retrieval program spanning approximately 35 years. Riggs is also named in separate testimony by a witness identified as "TB" as a general who allegedly showed classified UAP-derived cloaking technology to a [[BAE Systems]] employee, an act that led to his investigation, demotion, and forced retirement.
 
 ## Military Career
 

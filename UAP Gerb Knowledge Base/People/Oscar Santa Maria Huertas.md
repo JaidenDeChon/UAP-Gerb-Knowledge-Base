@@ -5,11 +5,11 @@ tags:
   - person
 ---
 
-Óscar Santa María Huertas is a former [[Peruvian Air Force]] (FAP) pilot who, as a 23-year-old lieutenant on April 11, 1980, took off from [[La Joya Airbase, Arequipa, Peru|La Joya Airbase]] in a Sukhoi Su-22 to intercept an unidentified silvery object and fired a burst of 64 30mm shells at it, with no effect. The encounter, the [[La Joya Airbase UFO Intercept]], was recorded in a [[DOD Joint Chiefs]] briefing document, and he is often described as the only pilot known to have opened fire on a UFO. [[Gerb]] rendered his surname "Hueras" in the video; Peruvian press and his own interviews give it as Huertas.
+Óscar Santa María Huertas is a former [[Peruvian Air Force]] (FAP) pilot who, as a 23-year-old lieutenant on April 11, 1980, took off from [[La Joya Airbase, Arequipa, Peru|La Joya Airbase]] in a Sukhoi Su-22 to intercept an unidentified silvery object and fired a burst of 64 30mm shells at it, with no effect. The encounter, the [[La Joya Airbase UFO Intercept]], was recorded in a [[DOD Joint Chiefs]] briefing document, and he is often described as the only pilot known to have opened fire on a UFO. Gerb rendered his surname "Hueras" in the video; Peruvian press and his own interviews give it as Huertas.
 
 ## The La Joya Intercept
 
-As [[Gerb]] tells it in [[Video - Global Air Force UFO Encounters You've Probably Never Heard of|Global Air Force UFO Encounters You've Probably Never Heard of]], Santa María was ordered up early in the morning to intercept a strange silvery object spotted floating near the end of the runway. He described it as being "in restricted airspace without authorization, representing a grave challenge to national sovereignty", at a time of high concern about espionage in Peru.
+As Gerb tells it in [[Video - Global Air Force UFO Encounters You've Probably Never Heard of|Global Air Force UFO Encounters You've Probably Never Heard of]], Santa María was ordered up early in the morning to intercept a strange silvery object spotted floating near the end of the runway. He described it as being "in restricted airspace without authorization, representing a grave challenge to national sovereignty", at a time of high concern about espionage in Peru.
 
 He climbed to 2,500 metres and made an attack run on what he assumed was a balloon: "I reached the necessary distance and shot a burst of 64 30mm shells, which created a cone-shaped wall of fire that would normally obliterate anything in its path." He expected to see the balloon torn to shreds; the barrage had no effect.
 

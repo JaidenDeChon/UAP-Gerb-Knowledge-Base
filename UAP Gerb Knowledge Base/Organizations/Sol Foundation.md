@@ -14,7 +14,7 @@ On or around February 11, 2024, the Sol Foundation released a series of intervie
 - [[Chris Mellon]] — Former Deputy Assistant Secretary of Defense for Intelligence who has advocated for UAP transparency
 - [[Kevin Knuth]] — Professor of Physics who presented research on UAP flight characteristics
 
-[[Gerb|UAP Gerb]] referenced this release in his Metapod video, noting his intention to review and analyze these Sol Foundation materials in a subsequent video. The release represented a significant moment in academic UAP discourse, bringing together whistleblowers, former government officials, and scientists in a formal research context.
+UAP Gerb referenced this release in his Metapod video, noting his intention to review and analyze these Sol Foundation materials in a subsequent video. The release represented a significant moment in academic UAP discourse, bringing together whistleblowers, former government officials, and scientists in a formal research context.
 
 ## November 2023 Symposium
 

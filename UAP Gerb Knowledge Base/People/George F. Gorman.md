@@ -27,7 +27,7 @@ On October 23, 1948, Gorman provided sworn legal testimony about the encounter, 
 
 [[Project Sign]] interviewed Gorman and other witnesses and tested his P-51 Mustang for radiation. The aircraft was measurably more radioactive than other fighters, initially leading investigators to conclude the craft had flown close to an "atomic powered object." However, after further analysis, this radiation was attributed to reduced atmospheric shielding at 14,000 feet altitude rather than proximity to an unusual source.
 
-Project Sign ultimately concluded that Gorman had either chased a lit weather balloon or the planet Jupiter, and that the object's fantastic maneuvers were an illusion based on Gorman's own frame of reference inside the moving aircraft. [[Gerb]] ranks the dogfight, with the 1980 [[La Joya Airbase UFO Intercept]], as the most compelling of the four cases in his video.
+Project Sign ultimately concluded that Gorman had either chased a lit weather balloon or the planet Jupiter, and that the object's fantastic maneuvers were an illusion based on Gorman's own frame of reference inside the moving aircraft. Gerb ranks the dogfight, with the 1980 [[La Joya Airbase UFO Intercept]], as the most compelling of the four cases in his video.
 
 ## Sources
 

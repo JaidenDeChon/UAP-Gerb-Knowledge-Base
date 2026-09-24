@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Tarmo Tukeva was the Finnish Air Force pilot-in-training sent to investigate seven objects over [[Pori Airport]] on April 12, 1969, during a Fouga Magister jet training mission. His sighting, the [[Pori Airport UFO Incident]], is the only UFO observation the [[Finnish Air Force]] has acknowledged. [[Gerb]] rendered his surname "Tua" or "Tukia" in the video; the name is usually given as Tukeva.
+Tarmo Tukeva was the Finnish Air Force pilot-in-training sent to investigate seven objects over [[Pori Airport]] on April 12, 1969, during a Fouga Magister jet training mission. His sighting, the [[Pori Airport UFO Incident]], is the only UFO observation the [[Finnish Air Force]] has acknowledged. Gerb rendered his surname "Tua" or "Tukia" in the video; the name is usually given as Tukeva.
 
 ## The Pori Encounter
 

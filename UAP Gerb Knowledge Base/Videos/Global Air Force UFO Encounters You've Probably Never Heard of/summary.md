@@ -29,7 +29,7 @@ stats:
 
 ## Overview
 
-This short video collects four official military encounters with UFOs from around the world that, [[Gerb]] argues, have "flown under the radar" beside famous cases such as the Second World War foo fighters and Commander [[David Fravor]]'s 2004 [[2004 Nimitz UAP Encounter (Tic Tac)|Tic Tac encounter]] off San Diego. Each involves an air force pilot, and in three of them the pilot tried to close on or attack the object:
+This short video collects four official military encounters with UFOs from around the world that, Gerb argues, have "flown under the radar" beside famous cases such as the Second World War foo fighters and Commander [[David Fravor]]'s 2004 [[2004 Nimitz UAP Encounter (Tic Tac)|Tic Tac encounter]] off San Diego. Each involves an air force pilot, and in three of them the pilot tried to close on or attack the object:
 
 1. the [[Gorman Dogfight]] of 1 October 1948, a 27-minute chase of a small ball of light over [[Fargo, North Dakota, USA|Fargo, North Dakota]] by National Guard pilot [[George F. Gorman]] in a P-51 Mustang;
 2. the [[Pori Airport UFO Incident]] of 12 April 1969, in which a Finnish trainee pilot, [[Tarmo Tukeva]], found that seven presumed balloons over [[Pori Airport]] were pale yellow discs that sped away from him, the only UFO sighting the [[Finnish Air Force]] has acknowledged;
@@ -275,7 +275,7 @@ entries:
 
 ## Related Pages
 
-- **People**: [[Gerb]], [[George F. Gorman]], [[L.D. Jensen]], [[Edward J. Ruppelt]], [[Nathan Twining]], [[Tarmo Tukeva]], [[Jouko Kuronen]], [[Oscar Santa Maria Huertas]], [[Magdaleno Castanon]], [[Michael Shermer]], [[David Fravor]]
+- **People**: Gerb, [[George F. Gorman]], [[L.D. Jensen]], [[Edward J. Ruppelt]], [[Nathan Twining]], [[Tarmo Tukeva]], [[Jouko Kuronen]], [[Oscar Santa Maria Huertas]], [[Magdaleno Castanon]], [[Michael Shermer]], [[David Fravor]]
 - **Organizations**: [[Finnish Air Force]], [[Finnish Defense Force]], [[Peruvian Air Force]], [[Mexican Air Force]], [[DOD Joint Chiefs]], [[Army and Navy Research and Development Board]], [[Atomic Energy Commission]], [[Skeptic Magazine]]
 - **Locations**: [[Fargo, North Dakota, USA]], [[Hector Airport]], [[Pori Airport]], [[Vaasa, Finland]], [[La Joya Airbase, Arequipa, Peru]], [[Campeche, Mexico]], [[San Diego, California, USA]]
 - **Operations**: [[Project Sign]], [[Project Grudge]], [[Project Blue Book]], [[Project Moon Dust]]

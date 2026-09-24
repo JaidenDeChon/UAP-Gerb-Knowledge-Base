@@ -43,7 +43,6 @@ tags:
 - [[Ellen Lord]]
 - [[George E. Brown Jr.]]
 - [[George Koehler]]
-- [[Gerb]]
 - [[Glenn Seaborg]]
 - [[Grant Cameron]]
 - [[Harold K. Johnson]]

@@ -257,7 +257,7 @@ entries:
 
 ## Related Pages
 
-- **People**: [[Gerb]], [[Luis Elizondo]], [[Chris Mellon]], [[Robert Jacobs]], [[Bob Lazar]], [[K Shakoya]], [[M. Harmon]], [[S. McCaron]], [[Hillary S. McCaron]]
+- **People**: Gerb, [[Luis Elizondo]], [[Chris Mellon]], [[Robert Jacobs]], [[Bob Lazar]], [[K Shakoya]], [[M. Harmon]], [[S. McCaron]], [[Hillary S. McCaron]]
 - **Organizations**: [[Danny Lampkin]], [[NASA]], [[UAP Task Force]], [[Senate Select Committee on Intelligence]], [[US Army Medical Research Institute of Chemical Defense]]
 - **Locations**: [[USS Nitze]]
 - **Concepts**: [[Flyby Footage]], [[Alleged Leaked UAP Task Force Report]], [[Second-Generation Recording]], [[Gentex MBU-23P Pilot Respirator Mask]], [[Audio Waveform Analysis]], [[AWACS (Airborne Warning and Control System)]], [[NATO Brevity Language]]

@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Jouko Kuronen was the second Finnish Air Force pilot-in-training to witness the April 12, 1969 [[Pori Airport UFO Incident]] over [[Pori Airport]], during a Fouga Magister jet training mission. [[Gerb]] rendered his name "Jau Corona" in the video; it is usually given as Jouko Kuronen.
+Jouko Kuronen was the second Finnish Air Force pilot-in-training to witness the April 12, 1969 [[Pori Airport UFO Incident]] over [[Pori Airport]], during a Fouga Magister jet training mission. Gerb rendered his name "Jau Corona" in the video; it is usually given as Jouko Kuronen.
 
 ## Role in the Pori Incident
 

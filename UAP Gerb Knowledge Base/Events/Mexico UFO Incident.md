@@ -9,7 +9,7 @@ The Mexico UFO Incident (also known as the Campeche UFO incident) took place on 
 
 ## The Sighting
 
-As [[Gerb]] recounts it in [[Video - Global Air Force UFO Encounters You've Probably Never Heard of|Global Air Force UFO Encounters You've Probably Never Heard of]] (where the date is first given as 2005, then as 2004), the crew filmed the objects for a period of minutes. The lights appeared to fly at about 3,500 metres and to surround the aircraft as it patrolled. Major [[Magdaleno Castanon]] said the military jets chased the lights, "and I believe they could feel we were pursuing them."
+As Gerb recounts it in [[Video - Global Air Force UFO Encounters You've Probably Never Heard of|Global Air Force UFO Encounters You've Probably Never Heard of]] (where the date is first given as 2005, then as 2004), the crew filmed the objects for a period of minutes. The lights appeared to fly at about 3,500 metres and to surround the aircraft as it patrolled. Major [[Magdaleno Castanon]] said the military jets chased the lights, "and I believe they could feel we were pursuing them."
 
 ## The Flare Explanation
 

@@ -517,7 +517,7 @@ entries:
 
 ## Related Pages
 
-- **People**: [[J. Allen Hynek]], [[Nathan Twining]], [[Hoyt Vandenberg]], [[Edward J. Ruppelt]], [[General Samford|John Samford]], [[General Ramey|Roger Ramey]], [[Howard P. Robertson]], [[Dewey J. Fournet]], [[Thornton Page]], [[Hector Quintanilla]], [[Gerald Ford]], [[Edward Condon]], [[Robert J. Low]], [[James McDonald]], [[David Grusch]], [[Gerb]]
+- **People**: [[J. Allen Hynek]], [[Nathan Twining]], [[Hoyt Vandenberg]], [[Edward J. Ruppelt]], [[General Samford|John Samford]], [[General Ramey|Roger Ramey]], [[Howard P. Robertson]], [[Dewey J. Fournet]], [[Thornton Page]], [[Hector Quintanilla]], [[Gerald Ford]], [[Edward Condon]], [[Robert J. Low]], [[James McDonald]], [[David Grusch]], Gerb
 - **Organizations**: [[US Air Force]], [[CIA]], [[Atomic Energy Commission]], [[Army and Navy Research and Development Board]], [[USAF Scientific Advisory Group]], [[Battelle Memorial Institute]], [[Condon Committee]], [[National Investigations Committee on Aerial Phenomena]], [[National Academy of Sciences]], [[American Association for the Advancement of Science]], [[American Institute of Aeronautics and Astronautics]]
 - **Operations**: [[Project Sign]], [[Project Grudge]], [[Project Blue Book]]
 - **Events**: [[1952 UFOs Over Washington DC]], [[Lubbock Lights]], [[Roswell Crash]], [[Condon Report Publication]]

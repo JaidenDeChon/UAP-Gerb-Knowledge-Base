@@ -9,7 +9,7 @@ The Pori Airport UFO Incident of April 12, 1969, is the only UFO observation ack
 
 ## The Pilots' Observations
 
-As [[Gerb]] recounts it in [[Video - Global Air Force UFO Encounters You've Probably Never Heard of|Global Air Force UFO Encounters You've Probably Never Heard of]], Tukeva reported on approach that the objects were not balloons but disc-shaped and slightly round, "like balls with no extremities", and pale yellow. As he tried to close on them they accelerated away from him at great speed, against a headwind of 180 km/h. Kuronen observed them as well, confirming their anomalous shape and speed.
+As Gerb recounts it in [[Video - Global Air Force UFO Encounters You've Probably Never Heard of|Global Air Force UFO Encounters You've Probably Never Heard of]], Tukeva reported on approach that the objects were not balloons but disc-shaped and slightly round, "like balls with no extremities", and pale yellow. As he tried to close on them they accelerated away from him at great speed, against a headwind of 180 km/h. Kuronen observed them as well, confirming their anomalous shape and speed.
 
 ## Radar
 

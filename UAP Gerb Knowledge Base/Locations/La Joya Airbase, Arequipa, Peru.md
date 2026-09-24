@@ -11,7 +11,7 @@ La Joya Airbase is a [[Peruvian Air Force]] military installation in the Arequip
 
 On the early morning of April 11, 1980, a strange silvery object was spotted floating near the end of La Joya's runway, at a time of heightened concern about espionage in Peru. Santa María described its presence, in restricted airspace without authorization, as "a grave challenge to national sovereignty."
 
-He engaged the object with a burst of 64 30mm shells that had no effect on it, then, according to [[Gerb]]'s account, chased it at Mach 1.6 for 84 kilometres before it stopped dead, evaded a second attack run, and shadowed his climb until he broke off, low on fuel.
+He engaged the object with a burst of 64 30mm shells that had no effect on it, then, according to Gerb's account, chased it at Mach 1.6 for 84 kilometres before it stopped dead, evaded a second attack run, and shadowed his climb until he broke off, low on fuel.
 
 ## Witness Corroboration
 

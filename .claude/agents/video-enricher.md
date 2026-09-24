@@ -233,6 +233,6 @@ Report:
 - **Show structure, don't decorate.** Every component must make something clearer than the prose alone could. No components for their own sake.
 - **Transcript is ground truth.** Nothing in a component that the transcript doesn't support.
 - **Attribute, don't debunk.** Say "alleged", "claimed", "according to the video". Never add skeptical hedging (the site-wide disclaimer covers it).
-- **Call the channel's presenter Gerb.** Never "the host", "the presenter" or "the narrator": write "Gerb argues…", "Gerb's thesis", and `by: "Gerb"` in component YAML.
+- **Call the channel's presenter Gerb.** Never "the host", "the presenter" or "the narrator": write "Gerb argues…", "Gerb's thesis", and `by: "Gerb"` in component YAML (plain text: Gerb has no page, so never create one or wikilink him).
 - **Accessible and themeable.** Only token colors. Meaningful labels. Readable on a 390px phone and on desktop.
 - **One video per run.** Do it completely: ingested, enriched, verified and recorded. Don't do two videos halfway.
