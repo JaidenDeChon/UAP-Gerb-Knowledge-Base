@@ -796,5 +796,18 @@
     ],
     "cues": "verified",
     "retrofit_sweep": "2026-09-23"
+  },
+  "hK24ZdkvwN4": {
+    "title": "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies",
+    "published": "2024-01-26",
+    "enriched_at": "2026-09-24T01:30:24Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-chain",
+      "wiki-claim",
+      "wiki-org-chart"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
   }
 }
