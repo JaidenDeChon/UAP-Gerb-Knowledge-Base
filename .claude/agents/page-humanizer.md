@@ -46,7 +46,7 @@ Then read the whole page once more, top to bottom, as a reader would.
 
 This is reference writing. Per the skill's **Voice** section, keep it neutral and plain: no added opinions, reactions, humor or asides. It should sound like a well-edited encyclopedia article written by a person, not flat. Vary sentence length. Prefer the concrete subject and a plain verb.
 
-Keep the wiki's attribution habits. Claims in this knowledge base are often unproven, so words like *allegedly*, *claims*, *according to*, *reportedly* and *says* carry meaning. Never drop or weaken them, and never turn an alleged claim into a stated fact or the reverse. The skill's advice against stacked qualifiers (§9) applies only to hedges that carry no attribution.
+Keep the wiki's attribution habits. Claims in this knowledge base are often unproven, so words like *allegedly*, *claims*, *according to*, *reportedly* and *says* carry meaning. Never drop or weaken them, and never turn an alleged claim into a stated fact or the reverse. The skill's advice against stacked qualifiers (§9) applies only to hedges that carry no attribution. You may reword a hedge ("allegedly served as" to "was allegedly") as long as it still covers the same claim, names the same source, and is no stronger or weaker. The check script cannot see hedges, so your fact audit in Phase 3 must.
 
 ### What must never change
 
