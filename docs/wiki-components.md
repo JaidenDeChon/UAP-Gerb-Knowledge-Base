@@ -574,11 +574,12 @@ name as plain text (see gotcha 2).
 
 **Portraits.** A person whose ref carries an `image` (see "People
 portraits" below) gets the home page Featured card's narrow layout: the
-photo is a band across the top of the card, cover-cropped toward the face
-and eased down into the card with the shared `ufo-fade` mask
-(`--ufo-fade-y`), with the text pulled up onto its faded foot. Nothing to
+whole photo sits across the top of the card at its own aspect ratio,
+uncropped, solid through the face and shoulders and eased down into the
+card over its lower part with the shared `ufo-fade` mask (`--ufo-fade-y`),
+with the text pulled up onto its faded foot. Nothing to
 author: the portrait comes with the name's ref. The image is lazy-loaded in
-a fixed box, its alt text is "Portrait of {name}", and its tooltip is the
+a box sized from its width/height attributes, its alt text is "Portrait of {name}", and its tooltip is the
 credit line (`portraitCredit`). Everyone else keeps the plain card. Because
 a portrait changes a card's height, and the mosaic is placed from measured
 heights, the cards stay invisible (`opacity: 0`, space kept) until

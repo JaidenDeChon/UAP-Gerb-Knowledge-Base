@@ -145,9 +145,10 @@ const pending = computed(() =>
         :style="cardStyle(i)"
       >
         <!-- The home page's Featured card in miniature (HomeFeatured.vue):
-             the portrait is a band across the top, eased down into the card
+             the whole portrait sits across the top, eased down into the card
              through the shared `ufo-fade` mask, with the text pulled up onto
-             its faded foot. A fixed box, so loading it never moves anything;
+             its faded foot. Sized from its width/height attributes, so
+             loading it never moves anything;
              the credit is its tooltip (and spelled out, linked, on the
              person's own page). -->
         <img
@@ -218,16 +219,15 @@ const pending = computed(() =>
   }
 }
 
-/* The Featured card's narrow-layout band, a little deeper so a head-and-
-   shoulders portrait isn't cropped to the eyes, and cover-cropped toward the
-   face. */
+/* The Featured card's narrow-layout band, but the whole portrait: full card
+   width at the photo's own shape (from its width/height attributes, so the
+   box is sized before it loads and the mosaic never moves), solid through
+   the face and shoulders and easing out only across its lower part. */
 .ufo-roster-portrait {
   display: block;
   width: 100%;
-  height: clamp(148px, 50cqi, 200px);
-  object-fit: cover;
-  object-position: 50% 18%;
-  --ufo-fade-y-start: 34%;
+  height: auto;
+  --ufo-fade-y-start: 62%;
   -webkit-mask-image: var(--ufo-fade-y);
   mask-image: var(--ufo-fade-y);
 }
