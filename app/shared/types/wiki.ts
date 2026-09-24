@@ -216,10 +216,50 @@ export interface WikiData {
   geo: BakedGeo
   /** Portrait for each People note in `wiki/people-images.json`, keyed by `GraphNode.i`. */
   portraits: BakedPortraits
+  /** Every Location note, placed or not, for the `/world` page. See `wiki/places.ts`. */
+  places: BakedPlaces
 }
 
 /** Sparse node index -> `[lat, lon]`. */
 export type BakedGeo = Record<number, [number, number]>
+
+/**
+ * The Location notes as the `/world` page needs them. `placed` holds each
+ * one with coordinates (its `GraphNode.i`, its `location_type` or `''`, and
+ * the continent it's on); `unplaced` the indices of those without.
+ */
+export interface BakedPlaces {
+  placed: { i: number, t: string, k: WorldContinent }[]
+  unplaced: number[]
+}
+
+/** Mirrors `Continent` in app/utils/world.ts (the types under shared/ can't import from app/). */
+export type WorldContinent =
+  | 'north-america'
+  | 'south-america'
+  | 'europe'
+  | 'africa'
+  | 'asia'
+  | 'oceania'
+  | 'antarctica'
+
+/** A placed Location as `/api/places` serves it. */
+export interface WorldPlace {
+  path: string
+  name: string
+  lead: string
+  /** `location_type` frontmatter, raw; `''` when the note has none. */
+  type: string
+  lat: number
+  lon: number
+  continent: WorldContinent
+}
+
+export interface WorldPlaces {
+  places: WorldPlace[]
+  /** Locations with no coordinates, so the page can say which are missing. */
+  unplaced: { path: string, name: string }[]
+}
 
 /** Sparse node index -> portrait. */
 export type BakedPortraits = Record<number, NotePortrait>

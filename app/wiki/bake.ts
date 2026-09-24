@@ -1,6 +1,7 @@
 // Relative rather than the `#shared` alias — see the note in ./graph.ts.
 import type { BakedPortraits, BakedPreview, WikiData } from '../shared/types/wiki'
 import { graphIndex } from './graph'
+import { buildPlaces } from './places'
 import { loadPortraits } from './portraits'
 import { buildPreviews } from './preview'
 import { buildTree } from './tree'
@@ -61,7 +62,9 @@ export function bakeWikiData(): WikiData {
     if (portrait) portraits[node.i] = portrait
   })
 
-  return { tree: buildTree(), graph: payload, links: { outgoing, backlinks }, previews, videos: buildVideos(), geo, portraits }
+  const places = buildPlaces(payload.nodes, geo, node => byPath[node.p]?.locationType)
+
+  return { tree: buildTree(), graph: payload, links: { outgoing, backlinks }, previews, videos: buildVideos(), geo, portraits, places }
 }
 
 /**
@@ -82,5 +85,6 @@ export function bakeWikiDataModule(): string {
     'export const videos = data.videos',
     'export const geo = data.geo',
     'export const portraits = data.portraits',
+    'export const places = data.places',
   ].join('\n')
 }
