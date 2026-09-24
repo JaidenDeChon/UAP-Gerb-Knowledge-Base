@@ -1,5 +1,6 @@
 ---
 name: "Maury Island, Washington"
+coordinates: [47.3700, -122.4500]
 tags:
   - location
 ---

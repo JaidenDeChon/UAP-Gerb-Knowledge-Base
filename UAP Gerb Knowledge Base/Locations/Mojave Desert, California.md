@@ -1,5 +1,6 @@
 ---
 name: "Mojave Desert, California"
+coordinates: [35.0110, -115.4734]
 location_type: "region"
 tags:
   - location

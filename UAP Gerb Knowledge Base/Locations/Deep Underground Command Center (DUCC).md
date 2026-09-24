@@ -1,5 +1,6 @@
 ---
 name: "Deep Underground Command Center (DUCC)"
+coordinates: [38.8719, -77.0563]
 tags:
   - location
 ---

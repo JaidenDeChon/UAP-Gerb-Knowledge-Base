@@ -1,5 +1,6 @@
 ---
 name: "Minot Air Force Base, North Dakota"
+coordinates: [48.4156, -101.3580]
 tags:
   - location
 ---

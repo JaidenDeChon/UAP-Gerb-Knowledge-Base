@@ -1,5 +1,6 @@
 ---
 name: "Detroit, Michigan"
+coordinates: [42.3314, -83.0458]
 tags:
   - location
 ---

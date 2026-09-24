@@ -1,5 +1,6 @@
 ---
 name: "Langley Air Force Base"
+coordinates: [37.0829, -76.3605]
 tags:
   - location
 ---

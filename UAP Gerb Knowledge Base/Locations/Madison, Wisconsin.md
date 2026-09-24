@@ -1,5 +1,6 @@
 ---
 name: "Madison, Wisconsin"
+coordinates: [43.0731, -89.4012]
 tags:
   - location
 ---

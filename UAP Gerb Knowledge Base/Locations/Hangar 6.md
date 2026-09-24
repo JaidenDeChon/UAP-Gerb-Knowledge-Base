@@ -1,5 +1,6 @@
 ---
 name: "Hangar 6"
+coordinates: [39.8261, -84.0483]
 tags:
   - location
 ---

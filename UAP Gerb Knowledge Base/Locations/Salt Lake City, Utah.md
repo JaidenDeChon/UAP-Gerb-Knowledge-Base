@@ -1,5 +1,6 @@
 ---
 name: "Salt Lake City, Utah"
+coordinates: [40.7608, -111.8910]
 tags:
   - location
 ---

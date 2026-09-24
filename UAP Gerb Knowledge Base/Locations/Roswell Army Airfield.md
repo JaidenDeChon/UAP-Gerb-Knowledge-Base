@@ -1,5 +1,6 @@
 ---
 name: "Roswell Army Airfield"
+coordinates: [33.3016, -104.5306]
 tags:
   - location
 ---

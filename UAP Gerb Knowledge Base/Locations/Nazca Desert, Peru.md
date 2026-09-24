@@ -1,5 +1,6 @@
 ---
 name: "Nazca Desert, Peru"
+coordinates: [-14.7390, -75.1300]
 aliases: ["Nazca", "Nasca Desert"]
 tags:
   - location

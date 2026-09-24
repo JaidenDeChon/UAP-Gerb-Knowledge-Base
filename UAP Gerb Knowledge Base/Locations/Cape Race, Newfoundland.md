@@ -1,5 +1,6 @@
 ---
 name: "Cape Race, Newfoundland"
+coordinates: [46.6583, -53.0739]
 tags:
   - location
 ---

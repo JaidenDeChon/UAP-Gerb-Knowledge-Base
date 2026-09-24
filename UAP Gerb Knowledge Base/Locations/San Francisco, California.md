@@ -1,5 +1,6 @@
 ---
 name: "San Francisco, California"
+coordinates: [37.7749, -122.4194]
 location_type: "city"
 tags:
   - location

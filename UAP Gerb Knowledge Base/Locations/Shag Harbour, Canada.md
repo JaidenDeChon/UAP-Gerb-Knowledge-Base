@@ -1,5 +1,6 @@
 ---
 name: "Shag Harbour, Canada"
+coordinates: [43.4950, -65.7140]
 location_type: "community"
 tags:
   - location

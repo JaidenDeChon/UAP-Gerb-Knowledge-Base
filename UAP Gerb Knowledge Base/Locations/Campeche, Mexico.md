@@ -1,5 +1,6 @@
 ---
 name: "Campeche, Mexico"
+coordinates: [18.8400, -90.4031]
 tags:
   - location
 ---

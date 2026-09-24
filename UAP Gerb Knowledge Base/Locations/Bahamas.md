@@ -1,5 +1,6 @@
 ---
 name: "Bahamas"
+coordinates: [24.2500, -76.0000]
 tags:
   - location
 ---

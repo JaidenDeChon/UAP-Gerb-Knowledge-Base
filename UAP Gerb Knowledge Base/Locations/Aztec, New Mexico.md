@@ -1,5 +1,6 @@
 ---
 name: "Aztec, New Mexico"
+coordinates: [36.8222, -107.9929]
 tags:
   - location
 ---

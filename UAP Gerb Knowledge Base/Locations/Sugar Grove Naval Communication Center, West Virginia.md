@@ -1,5 +1,6 @@
 ---
 name: "Sugar Grove Naval Communication Center, West Virginia"
+coordinates: [38.5160, -79.2800]
 location_type: "facility"
 tags:
   - location

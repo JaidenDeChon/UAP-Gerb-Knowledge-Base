@@ -1,5 +1,6 @@
 ---
 name: "Michael Army Airfield"
+coordinates: [40.1994, -112.9372]
 location_type: "airfield"
 tags:
   - location

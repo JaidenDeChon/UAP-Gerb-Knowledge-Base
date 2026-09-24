@@ -1,5 +1,6 @@
 ---
 name: "McMinnville, Oregon"
+coordinates: [45.2101, -123.1987]
 tags:
   - location
 ---

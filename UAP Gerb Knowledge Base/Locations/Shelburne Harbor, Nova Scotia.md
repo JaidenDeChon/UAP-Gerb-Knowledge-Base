@@ -1,5 +1,6 @@
 ---
 name: "Shelburne Harbor, Nova Scotia"
+coordinates: [43.7000, -65.3000]
 tags:
   - location
 ---

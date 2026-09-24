@@ -1,5 +1,6 @@
 ---
 name: "Palmdale, California"
+coordinates: [34.5794, -118.1165]
 location_type: "city"
 tags:
   - location

@@ -1,5 +1,6 @@
 ---
 name: "Underground Facility at NSWC Crane"
+coordinates: [38.8600, -86.8300]
 tags:
   - location
 ---

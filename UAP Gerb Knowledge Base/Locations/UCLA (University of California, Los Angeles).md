@@ -1,5 +1,6 @@
 ---
 name: "UCLA (University of California, Los Angeles)"
+coordinates: [34.0689, -118.4452]
 tags:
   - location
 ---

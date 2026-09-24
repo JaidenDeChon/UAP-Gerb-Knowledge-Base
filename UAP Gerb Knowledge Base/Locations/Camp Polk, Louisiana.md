@@ -1,5 +1,6 @@
 ---
 name: "Camp Polk, Louisiana"
+coordinates: [31.0450, -93.2078]
 location_type: "base"
 tags:
   - location

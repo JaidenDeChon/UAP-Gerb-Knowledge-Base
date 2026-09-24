@@ -1,5 +1,6 @@
 ---
 name: "Pentagon"
+coordinates: [38.8719, -77.0563]
 location_type: "facility"
 tags:
   - location

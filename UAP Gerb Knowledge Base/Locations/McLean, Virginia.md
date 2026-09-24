@@ -1,5 +1,6 @@
 ---
 name: "McLean, Virginia"
+coordinates: [38.9339, -77.1773]
 tags:
   - location
 ---

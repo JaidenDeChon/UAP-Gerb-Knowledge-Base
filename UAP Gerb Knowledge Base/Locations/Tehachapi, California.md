@@ -1,5 +1,6 @@
 ---
 name: "Tehachapi, California"
+coordinates: [34.9243, -118.5291]
 location_type: "facility"
 tags:
   - location

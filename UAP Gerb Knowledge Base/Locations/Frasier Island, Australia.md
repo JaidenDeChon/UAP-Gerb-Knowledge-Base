@@ -1,5 +1,6 @@
 ---
 name: "Frasier Island, Australia"
+coordinates: [-25.2400, 153.1300]
 location_type: "island"
 tags:
   - location

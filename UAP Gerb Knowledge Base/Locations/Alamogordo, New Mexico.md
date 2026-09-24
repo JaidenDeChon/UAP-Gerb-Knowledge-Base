@@ -1,5 +1,6 @@
 ---
 name: "Alamogordo, New Mexico"
+coordinates: [32.8995, -105.9603]
 tags:
   - location
 ---

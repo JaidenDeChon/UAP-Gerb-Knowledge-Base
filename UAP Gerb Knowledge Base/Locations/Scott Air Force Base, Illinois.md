@@ -1,5 +1,6 @@
 ---
 name: "Scott Air Force Base, Illinois"
+coordinates: [38.5452, -89.8352]
 tags:
   - location
 ---

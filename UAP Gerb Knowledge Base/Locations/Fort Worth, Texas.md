@@ -1,5 +1,6 @@
 ---
 name: "Fort Worth, Texas"
+coordinates: [32.7555, -97.3308]
 tags:
   - location
 ---

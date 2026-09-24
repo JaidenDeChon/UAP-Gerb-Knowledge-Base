@@ -1,5 +1,6 @@
 ---
 name: "Crystal City, Virginia"
+coordinates: [38.8574, -77.0510]
 tags:
   - location
 ---

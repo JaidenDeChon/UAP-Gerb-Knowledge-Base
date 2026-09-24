@@ -1,5 +1,6 @@
 ---
 name: "Aguadilla, Puerto Rico"
+coordinates: [18.4274, -67.1541]
 tags:
   - location
 ---

@@ -1,5 +1,6 @@
 ---
 name: "San Diego, California, USA"
+coordinates: [32.7157, -117.1611]
 location_type: "city"
 tags:
   - location

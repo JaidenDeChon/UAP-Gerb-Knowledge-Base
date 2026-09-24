@@ -1,5 +1,6 @@
 ---
 name: "Cuba, New Mexico"
+coordinates: [36.0214, -106.9589]
 tags:
   - location
 ---

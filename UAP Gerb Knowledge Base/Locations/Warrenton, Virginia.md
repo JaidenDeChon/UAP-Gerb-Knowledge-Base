@@ -1,5 +1,6 @@
 ---
 name: "Warrenton, Virginia"
+coordinates: [38.7335, -77.8297]
 location_type: "facility"
 tags:
   - location

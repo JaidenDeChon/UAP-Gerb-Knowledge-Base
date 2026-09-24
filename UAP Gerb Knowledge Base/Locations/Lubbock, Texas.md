@@ -1,5 +1,6 @@
 ---
 name: "Lubbock, Texas"
+coordinates: [33.5779, -101.8552]
 tags:
   - location
 ---

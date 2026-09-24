@@ -1,5 +1,6 @@
 ---
 name: "Hoia Baciu Forest, Romania"
+coordinates: [46.7780, 23.5150]
 aliases: ["Hoia-Baciu", "Hoia Baciu"]
 tags:
   - location

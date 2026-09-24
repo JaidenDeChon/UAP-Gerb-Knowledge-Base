@@ -1,5 +1,6 @@
 ---
 name: "La Jolla, California"
+coordinates: [32.8328, -117.2713]
 location_type: "neighborhood/city"
 tags:
   - location

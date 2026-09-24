@@ -1,5 +1,6 @@
 ---
 name: "Ent Air Force Base, Colorado"
+coordinates: [38.8410, -104.8000]
 location_type: "facility"
 tags:
   - location

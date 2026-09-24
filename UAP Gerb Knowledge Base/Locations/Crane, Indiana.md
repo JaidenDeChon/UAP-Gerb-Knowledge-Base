@@ -1,5 +1,6 @@
 ---
 name: "Crane, Indiana"
+coordinates: [38.8950, -86.9030]
 tags:
   - location
 ---

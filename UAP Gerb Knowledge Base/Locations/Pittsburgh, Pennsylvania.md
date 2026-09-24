@@ -1,5 +1,6 @@
 ---
 name: "Pittsburgh, Pennsylvania"
+coordinates: [40.4406, -79.9959]
 tags:
   - location
 ---

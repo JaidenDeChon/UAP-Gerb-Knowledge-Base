@@ -1,5 +1,6 @@
 ---
 name: "Spitsbergen, Norway"
+coordinates: [78.7500, 16.0000]
 tags:
   - location
 ---

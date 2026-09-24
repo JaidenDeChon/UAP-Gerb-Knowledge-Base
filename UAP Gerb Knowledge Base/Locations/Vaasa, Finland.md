@@ -1,5 +1,6 @@
 ---
 name: "Vaasa, Finland"
+coordinates: [63.0951, 21.6165]
 location_type: "town"
 tags:
   - location

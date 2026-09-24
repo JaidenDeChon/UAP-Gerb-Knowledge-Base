@@ -1,5 +1,6 @@
 ---
 name: "Goddard Space Flight Center"
+coordinates: [38.9955, -76.8522]
 location_type: "facility"
 tags:
   - location

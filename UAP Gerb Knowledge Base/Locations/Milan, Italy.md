@@ -1,5 +1,6 @@
 ---
 name: "Milan, Italy"
+coordinates: [45.4642, 9.1900]
 tags:
   - location
 ---

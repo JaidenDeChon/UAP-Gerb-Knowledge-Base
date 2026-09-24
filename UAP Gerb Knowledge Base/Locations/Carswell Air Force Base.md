@@ -1,5 +1,6 @@
 ---
 name: "Carswell Air Force Base"
+coordinates: [32.7690, -97.4415]
 tags:
   - location
 ---

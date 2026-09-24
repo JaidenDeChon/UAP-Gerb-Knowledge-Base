@@ -1,5 +1,6 @@
 ---
 name: "Wright Field"
+coordinates: [39.7800, -84.1100]
 location_type: "facility"
 tags:
   - location

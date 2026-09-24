@@ -1,5 +1,6 @@
 ---
 name: "Malmstrom Air Force Base"
+coordinates: [47.5068, -111.1831]
 tags:
   - location
 ---

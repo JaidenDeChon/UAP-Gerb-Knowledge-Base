@@ -1,5 +1,6 @@
 ---
 name: "Marine Corps Air Station Yuma (MCAS Yuma)"
+coordinates: [32.6566, -114.6060]
 location_type: "base"
 tags:
   - location
