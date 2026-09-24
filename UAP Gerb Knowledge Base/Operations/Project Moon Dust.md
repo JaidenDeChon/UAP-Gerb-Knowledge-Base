@@ -9,7 +9,7 @@ Project Moon Dust (sometimes written "Moondust", and also referred to as Operati
 
 ## Establishment and Authority
 
-The first official mention of Moon Dust appears in a 1961 US Air Force document titled **AFOSR-16 Draft Policy**, which proposed that the [[USAF 1127th Field Activities Group]] receive collection responsibility for investigating reliably reported unidentified flying objects within the United States. The memo lists Moon Dust as a project that had historically held this duty, with authority to "locate, recover, and deliver descended foreign space vehicles."
+The first official mention of Moon Dust appears in a 1961 US Air Force document from the Air Force's intelligence directorate, AFCIN-1E (a draft policy memo dated 3 November 1961, which Gerb reads as "AFC 1e draft policy"), which proposed that the [[USAF 1127th Field Activities Group]] receive collection responsibility for investigating reliably reported unidentified flying objects within the United States. The memo lists Moon Dust as a project that had historically held this duty, with authority to "locate, recover, and deliver descended foreign space vehicles."
 
 A 1967 review for the Assistant Chief of Staff for the Intelligence Community detailing the functions of the 1127th USAF Field Activities Group confirms Moon Dust was not merely proposed but operational. That year, Moon Dust captured 49 fallen Soviet space objects and 17 US space objects, followed by a large redacted portion of the memo indicating additional classified collection categories.
 
@@ -37,7 +37,7 @@ On May 6, 1978, at 4:15 PM, thousands of people near El Taire, Bolivia witnessed
 
 Bolivian military and three jets were dispatched to the wreckage. Local military and police issued the following statement: "Our men have discovered the object and inspected it but have received no further instruction or further action. It is a dull metallic cylinder 12 feet long with a few dents. No one knows what is inside it and we are waiting for the arrival of various technical commissions. A NASA expert is also expected to arrive tomorrow morning."
 
-Two US Air Force officers — Colonel [[Robert Simmons]] and Major [[Jesse Haaste]] — arrived subsequently. Secret documents obtained through FOIA reveal US Secretary of State [[Cyrus Vance]] wrote that "appropriate government agencies have been contacted regarding this crash." The appropriate agency was Moon Dust, which received film of the object from the Bolivian military and was tasked with monitoring the situation. The documentary trail ends without confirmation of whether the craft was recovered by US entities. See [[1978 Bolivia UFO Crash]].
+Two US Air Force officers — [[Colonel Robert Simmons]] and Major [[John Heise]] (rendered "Jesse Haaste" in the video) — arrived subsequently. Secret documents obtained through FOIA reveal US Secretary of State [[Cyrus Vance]] wrote that "appropriate government agencies have been contacted regarding this crash." The appropriate agency was Moon Dust, which received film of the object from the Bolivian military and was tasked with monitoring the situation. The documentary trail ends without confirmation of whether the craft was recovered by US entities. See [[1978 Bolivia UFO Crash]].
 
 ### Peru UFO Intercept Documentation
 
@@ -59,7 +59,7 @@ In 1994, Senator Domenici requested 11 documents pertaining to Moon Dust from th
 
 ## Alleged SAP Reorganization and Compartmentalization
 
-The Air Force's denials and claims of document destruction coincided with a critical period in UAP program history. According to the [[Wilson-Davis Memo]], Admiral [[Admiral Thomas Wilson|Thomas Wilson]] stated that in the early 1990s, Special Access Programs related to crash retrieval and reverse engineering were reorganized to hide them within deeper compartments (SAP-X structures), making them effectively inaccessible even to senior intelligence officials. This reorganization occurred precisely when Senators requested Moon Dust documents — the mid-1990s.
+The Air Force's denials and claims of document destruction coincided with a critical period in UAP program history. According to the [[Wilson-Davis Memo]], Admiral [[Thomas Wilson]] stated that in the early 1990s, Special Access Programs related to crash retrieval and reverse engineering were reorganized to hide them within deeper compartments (SAP-X structures), making them effectively inaccessible even to senior intelligence officials. This reorganization occurred precisely when Senators requested Moon Dust documents — the mid-1990s.
 
 The timing suggests the Air Force may have destroyed Moon Dust files and denied the program's existence as part of a broader effort to compartmentalize UAP crash retrieval operations following the SAP reorganization. This aligns with the "Dark Ages" period from 1969 ([[Project Blue Book]] closure) to 2008 (AATIP establishment), during which official USG UFO investigation appeared to cease publicly while continuing in classified channels.
 

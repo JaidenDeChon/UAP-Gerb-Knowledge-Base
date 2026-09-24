@@ -2,8 +2,8 @@
 title: "MOON DUST - The Pentagon's Secret UFO Programs"
 video_id: 6ZuHLgVtKu8
 url: https://www.youtube.com/watch?v=6ZuHLgVtKu8
-date: NA
-duration_seconds: 0
+date: 2024-01-25
+duration_seconds: 896
 channel: UAP Gerb
 tags:
   - transcript

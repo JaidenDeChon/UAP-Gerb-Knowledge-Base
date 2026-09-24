@@ -34,7 +34,7 @@ Ruiz's sighting contributed to the documented chain of events that led to:
 
 - US Secretary of State [[Cyrus Vance]] contacting "appropriate government agencies"
 - [[Project Moon Dust]] receiving film of the object from Bolivian military
-- Deployment of US Air Force officers [[Colonel Robert Simmons]] and [[Major Jesse Haaste]] to Bolivia
+- Deployment of US Air Force officers [[Colonel Robert Simmons]] and Major [[John Heise]] to Bolivia
 
 Ruiz's role as the primary witness who observed the object before impact likely influenced the decision to treat this as a significant event requiring international coordination and US technical assessment.
 

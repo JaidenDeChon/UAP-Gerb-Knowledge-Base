@@ -5,7 +5,7 @@ tags:
   - event
 ---
 
-On May 6, 1978, at 4:15 PM, thousands of people near El Taire, Bolivia witnessed a cylindrical object crash into a mountainside, creating a sonic boom heard up to 150 miles away and cracking window panes as far as 30 miles in radius. The incident became one of the most well-documented UFO crash cases involving US government response, with declassified State Department cables confirming [[Project Moon Dust]] involvement and deployment of US Air Force personnel to investigate the crash site.
+On May 6, 1978, at 4:15 PM, thousands of people near El Taire, Bolivia (a mountain by the Bermejo River, on the border between Bolivia's Tarija department and Argentina) witnessed a cylindrical object crash into a mountainside, creating a sonic boom heard up to 150 miles away and cracking window panes as far as 30 miles in radius. The incident became one of the most well-documented UFO crash cases involving US government response, with declassified State Department cables confirming [[Project Moon Dust]] involvement and deployment of US Air Force personnel to investigate the crash site.
 
 ## Eyewitness Observations
 
@@ -25,7 +25,7 @@ The Bolivian military's description of a "dull metallic cylinder 12 feet long wi
 
 Secret documents obtained through the Freedom of Information Act reveal that US Secretary of State [[Cyrus Vance]] wrote that "appropriate government agencies have been contacted regarding this crash." The agencies contacted were confirmed to include [[Project Moon Dust]], the classified Air Force crash retrieval program operating under the [[USAF 1127th Field Activities Group]].
 
-Project Moon Dust received film showing the object from the Bolivian military and was tasked with monitoring the situation. Two US Air Force officers — Colonel [[Robert Simmons]] and Major [[Jesse Haaste]] — were deployed to Bolivia to conduct on-site assessment.
+Project Moon Dust received film showing the object from the Bolivian military and was tasked with monitoring the situation. Two US Air Force officers, [[Colonel Robert Simmons]] and Major [[John Heise]] (whom Gerb calls "Jesse Haaste"), arrived subsequently. According to the State Department documents as researchers have reported them, both were assigned to the military attaché's office at the US Embassy in La Paz and flew to Tarija with a Bolivian Air Force officer in connection with Project Moon Dust.
 
 ## Documentary Trail Cutoff
 
@@ -39,7 +39,7 @@ The cutoff in documentation may indicate:
 
 ## UAP Caucus Investigation
 
-The [[UAP Caucus]] — a bipartisan Congressional group including Representatives [[Tim Burchett]], [[Anna Paulina Luna]], [[Eric Burlison]], and [[Jared Moskowitz]] — has brought the Bolivia crash to official Congressional attention as documentary evidence of US government involvement in foreign UFO crash retrieval operations.
+The [[UAP Caucus]] — a bipartisan Congressional group including Representatives [[Tim Burchett]], [[Anna Paulina Luna]], [[Eric Burlison]], and [[Representative Moskowitz|Jared Moskowitz]] — has brought the Bolivia crash to official Congressional attention as documentary evidence of US government involvement in foreign UFO crash retrieval operations.
 
 ## Significance
 
@@ -56,9 +56,9 @@ The case provides concrete evidence that [[Project Moon Dust]] was not merely a 
 
 The Bolivia crash is often compared to:
 
-- [[Roswell]] (1947) — the most famous alleged US crash retrieval
-- [[Shag Harbor]] (1967) — Canada's most famous UFO crash incident
-- 1968 Nepal circular disc — another confirmed Moon Dust investigation
+- [[Roswell Crash|Roswell]] (1947) — the most famous alleged US crash retrieval
+- [[Shag Harbour, Nova Scotia|Shag Harbour]] (1967) — Canada's most famous UFO crash incident
+- [[1968 Nepal Circular Disc Crash]] — another Moon Dust investigation
 
 ## Sources
 
