@@ -12,7 +12,7 @@ The clip is well below 240p, and it is a [[Second-Generation Recording]]: someon
 
 ## Audio
 
-The soundtrack is a loud, muffled noise with faint voices. Gerb offers two explanations: the original cockpit sound, replayed and re-recorded off the screen, or ambient noise from wherever the screen recording was made. He compares the sound both to the inside of an F/A-18 cockpit and to the shipboard background of the 2019 video of a sphere entering the ocean, filmed from [[USS Nitze]]. A Reddit user's [[Audio Waveform Analysis]] found that the waveform does not cut at the fourth second, where the footage does, which points to ambient noise, possibly aboard a ship. The same user's attempt to isolate the voices produced speech Gerb could not make out, though one voice appears to be a woman's.
+The soundtrack is a loud, muffled noise with faint voices. Gerb offers two explanations: the original cockpit sound, replayed and re-recorded off the screen, or ambient noise from wherever the screen recording was made. He compares the sound both to the inside of an F/A-18 cockpit and to the shipboard background of the 2019 video of a sphere entering the ocean, filmed from [[USS Omaha]]. A Reddit user's [[Audio Waveform Analysis]] found that the waveform does not cut at the fourth second, where the footage does, which points to ambient noise, possibly aboard a ship. The same user's attempt to isolate the voices produced speech Gerb could not make out, though one voice appears to be a woman's.
 
 ## The craft
 

@@ -104,7 +104,7 @@ claims:
         cue: 409
   - title: "The room where the screen was filmed"
     by: "Gerb"
-    text: "The sound is ambient noise from wherever the screen recording was made. It sounds very like the shipboard background in the 2019 Navy video of a spherical object going into the water, filmed from USS Nitze."
+    text: "The sound is ambient noise from wherever the screen recording was made. It sounds very like the shipboard background in the 2019 Navy video of a spherical object going into the water, filmed from USS Omaha."
     cue: 358
     responses:
       - by: "A Reddit user"
@@ -114,7 +114,7 @@ claims:
 ---
 ::
 
-The 2019 comparison is the video of a sphere entering the ocean released by Jeremy Corbell, with ambient sound from the destroyer [[USS Nitze]]. The same Reddit user also tried to isolate the faint voices in the background ([[Audio Waveform Analysis]]). Gerb plays the result, cannot begin to guess what is being said, but notes that one voice appears to be a woman's.
+The 2019 comparison is the video of a sphere entering the ocean released by Jeremy Corbell, with ambient sound from the Combat Information Center of [[USS Omaha]]. The same Reddit user also tried to isolate the faint voices in the background ([[Audio Waveform Analysis]]). Gerb plays the result, cannot begin to guess what is being said, but notes that one voice appears to be a woman's.
 
 ## The Craft
 
@@ -245,7 +245,7 @@ entries:
 - Luis Elizondo told GQ in 2021 that unreleased government footage includes a 23-minute video and one showing an object 50 feet from a cockpit. Chris Mellon said he had seen footage of a UAP right next to a pilot, though Gerb is certain that Mellon was not describing the Flyby clip.
 - The clip is a second-generation recording, filmed off a computer screen. Gerb reads the reflections as coming from a camcorder in a cockpit and possibly a Gentex MBU-23/P oxygen mask, which would place the original camera inside a military jet.
 - The port-side wing and empty wingtip missile pylons match an F/A-18 Super Hornet. NASA's F/A-18 chase aircraft carry a camcorder behind the pilot's seat that can film either side.
-- The audio is either the original cockpit sound re-recorded off the screen or ambient noise from wherever the screen was filmed. A Reddit analysis found that the waveform does not cut where the footage cuts, and Gerb compares the sound to the shipboard audio of the 2019 USS Nitze sphere video. Faint voices include what appears to be a woman's.
+- The audio is either the original cockpit sound re-recorded off the screen or ambient noise from wherever the screen was filmed. A Reddit analysis found that the waveform does not cut where the footage cuts, and Gerb compares the sound to the shipboard audio of the 2019 USS Omaha sphere video. Faint voices include what appears to be a woman's.
 - The craft resembles the saucer Robert Jacobs described in his warhead footage and the McMinnville photographs, including the upper protrusion like half a ping-pong ball, and it flies tilted, as Bob Lazar said discs fly "belly towards their destination".
 - An allegedly leaked classified comms log, circulated in 2021 or 2022 and presented as part of a UAP Task Force report to Congress, describes the fighter Club 11 finding an object 10 to 15 feet from its canopy off the starboard wing after an AWACS-directed intercept. Gerb argues this matches the Flyby footage.
 - A second alleged page from the same document, Section 5 "Behavioral Data Analysis", covers 1,292 cases. It concludes that UAP are remote or autonomous drones or a form of mechanical life deployed by an "organic species", names M. Harmon, S. McCaron and K. Shakoya, and cites Appendix F Section 4B, "DoD 1992 through 2017 High Value Witness Interviews", which contains the comms log.
@@ -259,7 +259,7 @@ entries:
 
 - **People**: Gerb, [[Luis Elizondo]], [[Chris Mellon]], [[Robert Jacobs]], [[Bob Lazar]], [[K Shakoya]], [[M. Harmon]], [[S. McCaron]], [[Hillary S. McCaron]]
 - **Organizations**: [[Danny Lampkin]], [[NASA]], [[UAP Task Force]], [[Senate Select Committee on Intelligence]], [[US Army Medical Research Institute of Chemical Defense]]
-- **Locations**: [[USS Nitze]]
+- **Locations**: [[USS Omaha]]
 - **Concepts**: [[Flyby Footage]], [[Alleged Leaked UAP Task Force Report]], [[Second-Generation Recording]], [[Gentex MBU-23P Pilot Respirator Mask]], [[Audio Waveform Analysis]], [[AWACS (Airborne Warning and Control System)]], [[NATO Brevity Language]]
 - **Operations**: [[AATIP (Advanced Aerospace Threat Identification Program)]]
 - **Events**: [[McMinnville UFO Photographs]], [[Vandenberg Air Force Base UFO Film Incident]]

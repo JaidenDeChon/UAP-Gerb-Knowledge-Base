@@ -135,7 +135,7 @@ tags:
 - [[University of California, Berkeley]]
 - [[USAF Radar Detachment 5, Iquitos]]
 - [[USS Denver]]
-- [[USS Nitze]]
+- [[USS Omaha]]
 - [[Vaasa, Finland]]
 - [[Valentine, Texas]]
 - [[Vandenberg Air Force Base]]
