@@ -118,16 +118,44 @@ function truncate(text: string, max: number): string {
 
 /**
  * First body paragraph as flat text (wikilinks reduced to their labels),
- * trimmed to ~280 chars on a word boundary. Never throws on an empty body.
+ * trimmed to ~`max` chars on a word boundary. Never throws on an empty body.
  */
-export function firstParagraph(body: unknown): string {
+export function firstParagraph(body: unknown, max = 280): string {
   for (const node of bodyNodes(body)) {
     if (isElement(node) && node[0] === 'p') {
       const text = flatten(node)
-      if (text) return truncate(text, 280)
+      if (text) return truncate(text, max)
     }
   }
   return ''
+}
+
+// Words that end in a full stop without ending the sentence: titles and ranks
+// that front the names this vault is full of, plus a few Latin/corporate stock
+// abbreviations. Single-letter initials (`J. Allen Hynek`) and dotted
+// acronyms (`U.S.`) are caught by shape instead of listed here.
+const ABBREVIATIONS = new Set([
+  'adm', 'capt', 'cmdr', 'co', 'col', 'corp', 'cpl', 'dr', 'e.g', 'etc', 'ft', 'gen', 'gov',
+  'i.e', 'inc', 'jr', 'lt', 'maj', 'mr', 'mrs', 'ms', 'mt', 'no', 'prof', 'rep', 'sen', 'sgt',
+  'sr', 'st', 'vs',
+])
+
+/**
+ * The first sentence of a run of flat text, or all of it when no sentence
+ * break is found. A break is `.`/`!`/`?` (plus any closing quote or bracket)
+ * followed by whitespace and a capital, digit or opening quote — so `Dr.
+ * Sarbacher`, `J. Allen Hynek` and `the U.S. Navy` don't end one early.
+ */
+export function firstSentence(text: string): string {
+  const boundary = /[.!?]["'”’)\]]*(?=\s+["'“‘([]?[A-Z0-9])/g
+  for (let match = boundary.exec(text); match; match = boundary.exec(text)) {
+    if (match[0][0] === '.') {
+      const word = /(\S+)$/.exec(text.slice(0, match.index))?.[1]?.replace(/^["'“‘(]+/, '') ?? ''
+      if (/^[A-Z]$/i.test(word) || /^(?:[A-Z]\.)+[A-Z]$/i.test(word) || ABBREVIATIONS.has(word.toLowerCase())) continue
+    }
+    return text.slice(0, match.index + match[0].length)
+  }
+  return text
 }
 
 /**
@@ -140,6 +168,7 @@ export function firstParagraph(body: unknown): string {
 export function splitLead(
   body: unknown,
   description?: string,
+  { keepParagraph = false }: { keepParagraph?: boolean } = {},
 ): { lead: string, value: MinimalNode[] } {
   const value = [...bodyNodes(body)]
 
@@ -147,13 +176,13 @@ export function splitLead(
 
   const desc = description?.trim()
   if (desc) {
-    if (isElement(value[0]) && value[0][0] === 'p') value.shift()
+    if (!keepParagraph && isElement(value[0]) && value[0][0] === 'p') value.shift()
     return { lead: desc, value }
   }
 
   if (isElement(value[0]) && value[0][0] === 'p') {
     const lead = firstParagraph({ value: [value[0]] })
-    value.shift()
+    if (!keepParagraph) value.shift()
     return { lead, value }
   }
 
