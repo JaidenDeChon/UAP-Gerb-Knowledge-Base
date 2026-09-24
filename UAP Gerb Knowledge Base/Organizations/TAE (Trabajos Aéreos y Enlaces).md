@@ -9,9 +9,9 @@ TAE (Trabajos Aéreos y Enlaces) was a Spanish airline that operated flight JK 2
 
 ## The Manises Incident
 
-On November 11, 1979, TAE flight JK 297, a Super Caravelle aircraft carrying 109 passengers, was en route from [[Salzburg, Austria|Salzburg]], Austria to [[Las Palmas, Spain|Las Palmas]] with a refueling stop at [[Mallorca, Spain|Mallorca]]. At approximately 23:05 hours while cruising over the [[Mediterranean Sea]] at 23,000 feet, the crew—consisting of Captain [[Javier Leo de Taha]], co-pilot [[Jose Ramon Zarazua Ingore]], and flight mechanic [[Francisco Javier Rodriguez]]—observed two powerful red lights that matched the aircraft's altitude changes and maintained close proximity despite evasive maneuvers.
+On November 11, 1979, TAE flight JK 297, a Super Caravelle aircraft carrying 109 passengers, was en route from [[Salzburg, Austria|Salzburg]], Austria to [[Las Palmas, Spain|Las Palmas]] with a refueling stop at [[Mallorca, Spain|Mallorca]]. At approximately 23:05 hours while cruising over the Mediterranean Sea at 23,000 feet, the crew—consisting of Captain [[Francisco Javier Lerdo de Tejada]], co-pilot [[José Ramón Zuazu]], and flight mechanic [[Francisco Javier Rodriguez]]—observed two powerful red lights that matched the aircraft's altitude changes and maintained close proximity despite evasive maneuvers.
 
-After [[Barcelona Air Traffic Control]] confirmed no other aircraft were in the area, and recognizing that continued flight near the unidentified objects violated aerial safety protocols, Captain Javier made an emergency landing at [[Manises Airport, Valencia, Spain|Manises Airport]] in Valencia. The incident prompted a military response, with Spanish Air Force pilot [[Fernando Kamaro]] scrambled in a Mirage F1 to intercept the objects.
+After [[Barcelona Air Traffic Control]] confirmed no other aircraft were in the area, and recognizing that continued flight near the unidentified objects violated aerial safety protocols, Captain Lerdo de Tejada made an emergency landing at [[Manises Airport, Valencia, Spain|Manises Airport]] in Valencia. The incident prompted a military response, with Spanish Air Force pilot [[Fernando Cámara]] scrambled in a Mirage F1 to intercept the objects.
 
 ## Significance
 
