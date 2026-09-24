@@ -2,7 +2,8 @@ import type { ComputedRef } from 'vue'
 
 /**
  * The app's one loading state. While any part of the page on screen is not
- * ready (see `usePageReady`), the page is "loading": `<html>` carries
+ * ready (see `usePageReady`), or a change of page is still arriving, the
+ * page is "loading": `<html>` carries
  * `data-page-loading`, which hides everything in the page area and shows the
  * UFO loader (the layout's `AppLoadingMark`; main.css has the rules). When
  * the last part becomes ready the attribute goes, and the loader blurs out as
@@ -48,6 +49,30 @@ export default defineNuxtPlugin((nuxtApp) => {
   }
 
   if (import.meta.client) {
+    // A change of page is loading from the moment it starts. The new page's
+    // code may still have to download, and until it runs it can't register
+    // what it waits for, so without this the old page would sit there,
+    // looking unresponsive, until the new one appeared all at once. Cleared
+    // when the new page has set up (`page:finish`), by which point its own
+    // checks hold the loader. A same-page URL change (a query, a hash) isn't
+    // a change of page, and the first render is the server's, not a hop.
+    const navigating = ref(false)
+    registry.set(Symbol('navigation'), () => !navigating.value)
+    const router = useRouter()
+    router.beforeEach((to, from) => {
+      if (nuxtApp.isHydrating || to.path === from.path) return
+      navigating.value = true
+    })
+    router.afterEach((_to, _from, failure) => {
+      if (failure) navigating.value = false
+    })
+    router.onError(() => {
+      navigating.value = false
+    })
+    nuxtApp.hook('page:finish', () => {
+      navigating.value = false
+    })
+
     const html = document.documentElement
     // A server-rendered page that arrives loading has been loading since
     // navigation start: `since` 0 makes its reveal a real transition.
