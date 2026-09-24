@@ -28,7 +28,7 @@ The Men in Black archetype as it developed through the 1950s–1970s includes:
 
 ## Contrast with Military Suppression
 
-The host of UAP Gerb distinguishes sharply between the suit-clad paranormal Men in Black archetype and the well-documented pattern of military personnel in fatigues silencing witnesses. [[Jesse Marcel]], who investigated the [[Roswell Crash]], and [[Robert Jacobs]], who filmed a UFO disabling a nuclear warhead, were both prevented from sharing their experiences by men in military uniform — not by mysterious suited strangers. The host explicitly dismisses the paranormal MIB as distracting from documented government suppression.
+Gerb distinguishes sharply between the suit-clad paranormal Men in Black archetype and the well-documented pattern of military personnel in fatigues silencing witnesses. [[Jesse Marcel]], who investigated the [[Roswell Crash]], and [[Robert Jacobs]], who filmed a UFO disabling a nuclear warhead, were both prevented from sharing their experiences by men in military uniform — not by mysterious suited strangers. Gerb explicitly dismisses the paranormal MIB as distracting from documented government suppression.
 
 ## Cultural Impact
 

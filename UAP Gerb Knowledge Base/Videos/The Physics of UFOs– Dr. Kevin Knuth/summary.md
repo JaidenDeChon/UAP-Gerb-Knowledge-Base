@@ -1,301 +1,513 @@
 ---
 title: "The Physics of UFOs– Dr. Kevin Knuth"
-date: NA
+date: 2024-03-10
 video_id: inyw4Vfu7Z0
 url: https://www.youtube.com/watch?v=inyw4Vfu7Z0
 channel: UAP Gerb
-duration_seconds: 0
+duration_seconds: 1295
 tags:
   - video
   - uap-gerb
 ---
 
+::wiki-stat-strip
+---
+stats:
+  - value: "5,400 G"
+    label: "Tic Tac acceleration"
+    hint: "28,000 ft to sea level in ~78 s"
+  - value: "1,100 GW"
+    label: "Power it needed"
+    hint: "For an assumed 1,000 kg craft"
+  - value: "269,000 mph"
+    label: "JAL 1628 object"
+    hint: "Knuth's speed estimate"
+  - value: "19 km/s"
+    label: "Oberth's radar speeds"
+    hint: "50+ measurements, 1954"
+---
+::
+
 ## Overview
 
-This video examines the physical characteristics of UAP through the research of physicist [[Kevin Knuth]] and corroborating historical cases, demonstrating that observed craft exhibit performance far beyond known human technology. [[Knuth]], a physics professor at the [[University of Albany]] and vice president of [[UAP-X]], published a 2019 paper with [[Robert M. Powell]] and [[Peter Reali]] titled "Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles" analyzing multisensor data from well-documented UFO cases.
+This video is Gerb's breakdown of the physics of UAP as presented by physicist [[Kevin Knuth]], a physics professor at the [[University of Albany|University at Albany]], vice president of the field research group [[UAP-X]] and a research affiliate of [[Avi Loeb]]'s [[Galileo Project]]. It covers two pieces of Knuth's work: the paper "Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles", published in the journal *Entropy* on 25 September 2019 with [[Robert M. Powell]] and [[Peter Reali]], and Knuth's November 2023 talk at the [[Sol Foundation]] (the [[Sol Foundation 2023 Presentation by Kevin Knuth]]), where the speakers also included [[Karl Nell]], [[David Grusch]] and [[Gary Nolan]]. Gerb, who addresses the video to his "engineering and physics brethren" and says the paper has inspired him since it appeared, frames Knuth as the one accomplished academic who publicly takes the physics of UFOs seriously while the rest of academia scoffs.
 
-The video presents Knuth's November 2023 [[Sol Foundation]] talk alongside powerful figures such as [[Carl Nell]], [[David Grusch]], and [[Gary Nolan]]. Knuth calculates that the [[2004 Nimitz UAP Encounter (Tic Tac)|Nimitz Tic Tac]] descended from 28,000 feet to sea level in approximately 78 seconds, experiencing an estimated 5,400 Gs of acceleration requiring roughly 1,100 gigawatts of power—ten times the total nuclear output of the United States. The [[1986 Japan Airlines UFO Incident|1986 Japan Airlines incident]] saw [[Captain Kenju Terauchi]] observe a craft the size of an aircraft carrier that reached speeds estimated at 269,000 mph, tracked by [[Federal Aviation Administration|FAA]] phased array radar for 31 minutes.
+The heart of the video is a set of numbers. From the [[2004 Nimitz UAP Encounter (Tic Tac)|2004 Nimitz "Tic Tac" encounter]], Knuth derives an acceleration of about 5,400 G for a drop from 28,000 feet to sea level in some 78 seconds, and a power of about 1,100 gigawatts, which Gerb puts at ten times the total nuclear output of the United States; stopping should then have released as much energy as 250 Tomahawk cruise missiles, yet nothing was seen. Knuth adds [[Hermann Oberth]]'s 1954 report of radar-measured speeds of 19 km/s, the 1968 egg-shaped object at [[Minot Air Force Base, North Dakota|Minot Air Force Base]] (209 G, Mach 12) and the [[1986 Japan Airlines UFO Incident|1986 Japan Airlines Flight 1628]] object (about 269,000 mph). He then estimates the light, electric and magnetic fields of UAP, and closes on objects that move between air and water: the [[Aguadilla Puerto Rico Trans-Medium UAP Incident|Aguadilla]] footage and the [[1987 HMNZS Southland USO Incident|HMNZS Southland]] case.
 
-The analysis extends to UAP-associated physical effects including extreme luminosity (2,000–30,000 megacandelas), electromagnetic interference capable of disabling vehicle electronics and engines, and transmedium operation where craft enter water at high speeds without splash or resistance. Drawing on [[Herman Oberth]]'s 1954 analysis of over 50 radar measurements showing UFO speeds of Mach 55 and Knuth's cataloguing of pre-WWII transmedium cases, the video argues the foreign adversary hypothesis is implausible and the data is consistent with craft of non-human origin.
+Knuth's own framing is cautious. He opens by saying he is skeptical of people who assume they have seen an alien spacecraft, and that unfamiliar engineering can look a lot like anomalous physics. Gerb draws the harder conclusion at the end: since Knuth lists transmedium cases from before the Second World War, and no known technology survives thousands of G, the claim that UAP are simply foreign adversary technology does not hold.
 
-## Academic Foundation and Methodology
+## Chronology
 
-[[Kevin Knuth]], who earned his PhD in physics from the [[University of Minnesota]], applies rigorous scientific methodology to UAP analysis. His 2019 paper published in the peer-reviewed journal Entropy represents a rare academic treatment of UFO data, analyzing the [[1951 Lubbock Encounter]], [[1986 Japan Airlines UFO Incident|1986 Japan Airlines Flight 1628]], and the [[2004 Nimitz UAP Encounter (Tic Tac)|2004 Nimitz encounter]] using multisensor data. Knuth emphasizes skepticism toward premature conclusions while acknowledging that unfamiliar engineering can resemble anomalous physics. His work with [[UAP-X]], a nonprofit UFO field research group, and as research affiliate to [[Avi Loeb]]'s [[Galileo Project]] positions him uniquely within both academic physics and serious UAP research.
+The video jumps between cases rather than telling them in order. Laid out by date, the cases Knuth and Gerb cite run across eight decades, the span Gerb leans on in his closing argument.
 
-The video highlights Knuth's methodology of using conservative estimates—such as assuming the Tic Tac's mass at only 1,000 kg (one-tenth that of a similarly-sized F-18)—to establish lower bounds for performance characteristics, ensuring calculations underestimate rather than exaggerate anomalous capabilities.
+::wiki-timeline{video="inyw4Vfu7Z0" video-title="The Physics of UFOs– Dr. Kevin Knuth"}
+---
+help: "The bar pinned above the entries is a ruler across the eight decades the cases span. Its ticks are the cases and publications the video cites, coloured by category and taller for major ones; click the ruler to jump to the nearest entry. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line capped with a downward arrow is where Gerb is. The video discusses the cases out of date order, so the playhead jumps back and forth along the ruler. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Every timestamp here was checked against the captions."
+events:
+  - date: "1943"
+    title: "Japan foo fighters"
+    summary: "One of the seven images on Knuth's opening slide. Gerb passes over it, and the 2016 Mosul orb, as already discussed to death."
+    category: event
+    cue: 260
+  - date: "1951-02"
+    title: "Bethune encounter"
+    summary: "A US Navy flight crew's sighting over the North Atlantic, one of the well-documented cases whose flight characteristics the 2019 paper estimates. The transcript renders it as the \"Beane encounter\"."
+    category: event
+    cue: 134
+  - date: "1953"
+    title: "USAF Regulation 200-2 implemented"
+    summary: "The regulation that Gerb says was brought in to restrict UFO reporting and keep reports from Blue Book, Congress and the public. The declassified Minot report of 1968 was filed under it."
+    category: policy
+    entities:
+      - "USAF Regulation 200-2"
+      - "Project Blue Book"
+    cue: 715
+  - date: "1953-08"
+    title: "Canadian Air Force photograph luminosity"
+    summary: "Bruce Maccabee measured the exposure of the original photograph from an August 1953 Canadian Air Force sighting, reported by Jacques Vallee, and found luminosities of 2,000 to 30,000 megacandelas."
+    category: event
+    entities:
+      - "Jacques Vallee"
+    cue: 954
+  - date: "1954"
+    title: "Oberth's flying saucer lecture"
+    summary: "Hermann Oberth, the German father of modern rocketry and mentor of Wernher von Braun, reported more than 50 USAF and US Navy radar measurements of flying saucers at 19 km/s, about 42,000 mph or Mach 55."
+    category: event
+    significance: major
+    entities:
+      - "Hermann Oberth"
+      - "Wernher von Braun"
+    cue: 555
+  - date: "1954"
+    title: "Oberth's American Weekly article"
+    summary: "Oberth wrote that flying saucers are real spaceships from another solar system, possibly crewed by observers who may have studied Earth for centuries, and that they might fly by distorting the gravitational field."
+    category: document
+    entities:
+      - "Hermann Oberth"
+    cue: 629
+  - date: "1958-01-16"
+    title: "Trindade Island photographs"
+    summary: "Almiro Baraúna photographed a Saturn-like disc from the Brazilian ship Almirante Saldanha off Trindade Island, with some 48 people on deck, including Lieutenant Homero."
+    category: event
+    entities:
+      - "1958 Trindade Island UFO Photographs"
+      - "Almiro Baraúna"
+    cue: 391
+  - date: "1968"
+    title: "Minot Air Force Base B-52 encounter"
+    summary: "An egg-shaped object with skin like molten lava kept about 3 miles from a descending B-52, then closed 2 miles in one 3-second radar sweep: 209 G and Mach 12 (9,200 mph). The case was reported under Regulation 200-2 and never reached the Blue Book files."
+    category: event
+    significance: major
+    entities:
+      - "Minot Air Force Base, North Dakota"
+    cue: 654
+  - date: "1971-09-04"
+    title: "Lake Cote aerial photograph"
+    summary: "A Costa Rican government mapping plane photographed a disc over Lake Cote from 10,000 feet. Its crew of four did not notice it, but locals reported a disc operating around and below the lake surface."
+    category: event
+    cue: 268
+  - date: "1976-09-19"
+    title: "Tehran incident"
+    summary: "Major Parviz Jafari's avionics were scrambled as an orb detached from the object he was vectored toward: Knuth's example of electronics failing near a craft."
+    category: event
+    entities:
+      - "1976 Tehran UFO Incident"
+      - "Parviz Jafari"
+    cue: 1006
+  - date: "1986-11-17"
+    title: "Japan Airlines Flight 1628"
+    summary: "Captain Kenju Terauchi and two crew watched a craft the size of an aircraft carrier and two smaller lights follow their 747 for 31 minutes at 35,000 feet, tracked on FAA radar. Knuth calculates it reached about 269,000 mph."
+    category: event
+    significance: major
+    entities:
+      - "1986 Japan Airlines UFO Incident"
+      - "Captain Kenju Terauchi"
+    cue: 747
+  - date: "1987-02"
+    title: "HMNZS Southland USO"
+    summary: "North of New Zealand, an object 150 feet wide and 800 feet long closed 20 km on the frigate in under half a minute, passed beneath it and killed the ship's power."
+    category: event
+    significance: major
+    entities:
+      - "1987 HMNZS Southland USO Incident"
+      - "David Barnett"
+    cue: 1136
+  - date: "2003-02"
+    title: "Weyauwega, Wisconsin photographs"
+    summary: "A mother sledding with her son near dusk took three photographs of a disc with colour-cycling lights passing overhead. A UFO Evidence investigator found no sign of practical effects or CGI."
+    category: event
+    cue: 293
+  - date: "2004-11-14"
+    title: "Nimitz Tic Tac encounter"
+    summary: "The Tic Tac dropped from 28,000 feet to sea level in about 78 seconds: about 5,400 G, and about 1,100 GW of power for an assumed 1,000 kg craft."
+    category: event
+    significance: major
+    entities:
+      - "2004 Nimitz UAP Encounter (Tic Tac)"
+      - "David Fravor"
+    cue: 467
+  - date: "2005"
+    title: "Vancouver photograph"
+    summary: "A photographer shooting a vessel in the shipping lanes off Vancouver saw nothing, and found an almost disc-like shape with complex curves only when reviewing his SD card."
+    category: event
+    cue: 333
+  - date: "2007"
+    title: "Green Bay photographs"
+    summary: "A series of photographs taken around Green Bay, Wisconsin, one of which is Gerb's profile image. The craft looks almost identical to the Weyauwega disc, with a circular pattern of lights instead of three triangular ones."
+    category: event
+    entities:
+      - "Green Bay, Wisconsin"
+    cue: 359
+  - date: "2016"
+    title: "Mosul orb"
+    summary: "The orb over Mosul, Iraq, provided by Jeremy Corbell: another image on Knuth's slide that Gerb passes over."
+    category: event
+    cue: 260
+  - date: "2019-09-25"
+    title: "Knuth, Powell and Reali publish in Entropy"
+    summary: "\"Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles\" estimates the speeds and accelerations in the Bethune, Japan Airlines 1628 and Nimitz encounters."
+    category: document
+    significance: major
+    entities:
+      - "Kevin Knuth"
+      - "Robert M. Powell"
+      - "Peter Reali"
+    cue: 111
+  - date: "2023-11"
+    title: "Knuth's Sol Foundation talk"
+    summary: "Knuth's talk on the physics of UAP at the Sol Foundation symposium, alongside Karl Nell, David Grusch and Gary Nolan: the subject of the video."
+    category: event
+    significance: major
+    entities:
+      - "Sol Foundation 2023 Presentation by Kevin Knuth"
+      - "Sol Foundation"
+    cue: 172
+---
+::
 
-## Case Analysis: Extreme Acceleration and Power
+## Kevin Knuth and the 2019 Paper
 
-### Nimitz Tic Tac (2004)
+[[Kevin Knuth]] earned his PhD in physics at the [[University of Minnesota]] and works on information physics, the foundations of quantum mechanics and Bayesian analysis. His interest in UFOs is recent: he is vice president of [[UAP-X]] and a research affiliate of the [[Galileo Project]], which searches for scientific evidence of non-human artifacts.
 
-The [[2004 Nimitz UAP Encounter (Tic Tac)]] provides the most quantifiable data on UAP acceleration. When the craft descended from 28,000 feet to sea level in approximately 78 seconds, it experienced an estimated 5,400 Gs of force. For context, humans die after exposure to 16 Gs for less than a minute, F-35 wings rip off at approximately 13 Gs, and ballistic missiles fail at around 100 Gs. Using [[Commander David Fravor]]'s testimony and [[Fleer footage]] alongside radar data, Knuth calculated the craft required approximately 1,100 gigawatts of power—ten times the total nuclear output of the United States—based on conservative mass estimates.
+His 2019 paper with [[Robert M. Powell]] and [[Peter Reali]] estimates the flight characteristics of some of the best-documented cases on record: the 1951 Bethune encounter, the [[1986 Japan Airlines UFO Incident|1986 Japan Airlines Flight 1628]] incident (which Gerb covered in level 2 of his iceberg series), and above all the [[2004 Nimitz UAP Encounter (Tic Tac)|2004 Nimitz encounter]], built on Commander [[David Fravor]]'s testimony and the FLIR footage. From the sensor data the authors estimate speeds and G-forces. Gerb tells viewers with a physics background that it "reads like a dream" and saves its results for Knuth's talk, which revisits the same cases.
 
-Critically, the craft's extreme deceleration to a stop at sea level should have released energy equivalent to 250 simultaneous Tomahawk cruise missile explosions. No such energy release was observed, violating conservation of energy principles unless the craft possessed technology to redirect or store that energy.
+## Knuth's Opening Caution
 
-### Minot Air Force Base (1968)
+Knuth began his Sol Foundation talk by stating his skepticism twice over: of people who assume they have witnessed an alien spacecraft, and of physicists who deny that craft could defy known physics. It is surprising, he said, for academia to insist "we know our physics" when research still cannot unify general relativity and quantum mechanics. Engineering is the art of using physics to work around problems, so unfamiliar engineering can look a lot like anomalous physics, and he is not ready to leap to anomalous physics at the first anomaly. Like [[Karl Nell]], he also took issue with the ambiguity of the term "UAP": some of these objects, he said, are observed and described very well. The positions he answers are set out with Gerb's in [the closing section](#the-foreign-adversary-question).
 
-At [[Minot Air Force Base, North Dakota]], a nuclear-capable installation, an egg-shaped UFO with skin described as "molten lava" maintained distance from a descending B-52. During a 3-second radar sweep, the craft closed a 2-mile distance, yielding calculations of 209 Gs acceleration and a top speed of Mach 12 (9,200 mph). This case, reported under [[USAF Regulation 200-2]]—the 1953 regulation restricting UFO reporting—never entered [[Project Blue Book]] files or reached public awareness despite being a multisensor military detection at a nuclear base.
+## The Seven Photographs
 
-## Case Analysis: Extreme Velocity
+To present UAP as a class of phenomena, Knuth showed a slide of seven photographs, a selection Gerb calls very deliberate. Gerb passes over two, the 2016 Mosul orb supplied by Jeremy Corbell and the 1943 Japanese foo fighters, as already discussed to death, and walks through the other five. Two were not seen by the people who took them; the two Wisconsin series show what Gerb calls an almost identical craft four years apart, with different lights.
 
-### Japan Airlines Flight 1628 (1986)
+::wiki-compare{video="inyw4Vfu7Z0" video-title="The Physics of UFOs– Dr. Kevin Knuth"}
+---
+caption: "The five photographs from Knuth's slide that Gerb describes, oldest first. Same and Differs mark the only pair Gerb compares, the two Wisconsin series."
+attributeLabel: "Detail"
+subjects:
+  - name: "1958 Trindade Island UFO Photographs"
+    note: "Brazil, 1958"
+  - name: "Lake Cote, Costa Rica"
+    note: "1971"
+  - name: "Weyauwega, Wisconsin"
+    note: "February 2003"
+  - name: "Vancouver, British Columbia"
+    note: "2005"
+  - name: "Green Bay, Wisconsin"
+    note: "2007; Gerb's profile image"
+rows:
+  - attribute: "Taken from"
+    cells:
+      - { text: "The ship Almirante Saldanha, off the island", cue: 391 }
+      - { text: "A government mapping plane, 10,000 ft up", cue: 268 }
+      - { text: "The ground, while sledding near dusk", cue: 293 }
+      - { text: "The shore, photographing a vessel in the shipping lanes", cue: 333 }
+      - { text: "Around Green Bay", cue: 359 }
+  - attribute: "Seen at the time?"
+    cells:
+      - "Yes: some 48 people on deck, among them Lieutenant Homero"
+      - "No: the crew of four did not notice it"
+      - "Yes: the son pointed to lights in the sky"
+      - "No: found later on the SD card"
+      - { mark: unknown }
+  - attribute: "Craft"
+    cells:
+      - "Gray metallic disc in a greenish haze, a ring round its middle, like a flattened Saturn"
+      - "A disc, in a high-quality photograph"
+      - { text: "A disc hovering over trees, passing overhead", mark: same }
+      - "Almost disc-like, with complex curves"
+      - { text: "Almost identical shape and colour", mark: same }
+  - attribute: "Lights"
+    cells:
+      - { mark: unknown }
+      - { mark: unknown }
+      - { text: "Three triangular lights, cycling colours", mark: differs }
+      - { mark: unknown }
+      - { text: "A circular pattern of lights", mark: differs }
+  - attribute: "What else is said"
+    cells:
+      - "Flew behind Desejado Peak, then came back closer, lower and faster"
+      - "Locals reported a disc operating around and below the lake"
+      - "An investigator found no practical effects or CGI, and digital-camera compression"
+      - "A \"truly anomalous shape\", per Gerb"
+      - "Gerb plans to explore the series further"
+---
+::
 
-On November 17, 1986, [[Captain Kenju Terauchi]] and two crew members observed a large craft the size of an aircraft carrier accompanied by two smaller lights that followed their Boeing 747 for 31 minutes at 35,000 feet. The mother ship maintained a 7.5-mile radius orbit around the aircraft, occasionally darting between positions. [[Federal Aviation Administration|FAA]] FPS-117 long-range 3D phased array radar confirmed the UFO maintained that distance while circling the aircraft during the radar's 12-second interval sweeps. Knuth calculated the craft reached speeds of approximately 269,000 mph—sufficient for relativistic interstellar travel if sustained. The video emphasizes this case received full multisensor confirmation from civilian and military radar.
+The Trindade sequence was taken by [[Almiro Baraúna]] (rendered "Aliro Barana" in the transcript) on 16 January 1958, about 600 miles off the Brazilian mainland; Gerb likens its sharp-edged disc to the Calvine photograph. The Lake Cote image was taken on a Costa Rican government aerial mapping mission in 1971.
 
-### Herman Oberth's 1954 Analysis
+## Acceleration, Speed and Power
 
-The video extensively references [[Herman Oberth]], the German father of modern rocketry who mentored [[Operation Paperclip]] scientist [[Werner Von Braun]]. In a 1954 lecture on flying saucers, Oberth revealed that UFO speeds had been clocked at 19 kilometers per second (42,000 mph or Mach 55) based on over 50 radar measurements from [[US Air Force]] and [[US Navy]] data. Oberth stated: "If there would only be three or four measurements I would not rely upon them and would wait for further measurements, but there is existing more than 50 such measurements."
+Knuth then turned to the [[Five UAP Characteristics (AATIP)|five characteristics of UAP]], six counting biological effects, as outlined by [[Luis Elizondo]]: instantaneous acceleration, hypersonic velocity without signatures, low observability, transmedium travel and positive lift without visible propulsion. Gerb is glad to see them mentioned. Knuth concentrated on the first two together, and on the case Gerb says he always reaches for when people call UAP foreign technology.
 
-In a 1954 American Weekly article, Oberth wrote: "It is my thesis that flying saucers are real and that they are spaceships from another solar system. I think that they are possibly manned by intelligent observers who are members of a race that may have been investigating our Earth for centuries." He proposed UFOs might fly by "distorting the gravitational field"—a concept that presaged modern theoretical physics discussions of spacetime manipulation.
+### The Nimitz Tic Tac
 
-## Physical Effects and Signatures
+During the [[2004 Nimitz UAP Encounter (Tic Tac)|Tic Tac]]'s drop from 28,000 feet to sea level in about 78 seconds, the craft experienced an estimated 5,400 G; Knuth himself calls the lower bound "around 5,000 G" and notes that no person, and little equipment, would survive it. Gerb sets the figure against the limits of anything built:
 
-### Luminosity and Propulsion Signatures
+::wiki-stat-strip
+---
+stats:
+  - value: "13 G"
+    label: "F-35 wings rip off"
+  - value: "16 G"
+    label: "Human limit"
+    hint: "For less than a minute"
+  - value: "~100 G"
+    label: "Best ballistic missiles"
+    hint: "Before breaking apart"
+  - value: "5,400 G"
+    label: "The Tic Tac"
+    hint: "Per Knuth's analysis"
+---
+::
 
-Analyzing the [[1953 Canadian Air Force UFO Sighting]], physicists [[Bruce Maccabee]] and [[Jacques Vallée]] measured exposure levels in original photographs, calculating luminosities of 2,000 to 30,000 megacandelas. Knuth suggests this extreme luminosity may be a byproduct of propulsion systems, potentially explaining why some UFOs are difficult to photograph clearly—their brightness overexposes film and digital sensors.
+Knuth then carries the number through to power and energy. He has no mass for the Tic Tac, so he takes a deliberately low one: about a tenth of a similarly sized F-18, which weighs about 10,000 kg. The chain below is his argument step by step.
 
-The video references multiple photographic cases including the 1971 Costa Rica government mapping plane photograph taken from 10,000 feet (crew didn't notice the disc, but locals reported sightings of a disc-shaped craft operating around and below the lake), the 2003 Waupaca, Wisconsin photograph (mother and son observed a disc with cycling colored lights directly overhead), the 2005 Vancouver, British Columbia image (captured by photographer Rob Ries while photographing shipping vessels—he only noticed the UFO when reviewing his photos), and the 2007 Green Bay, Wisconsin photographs showing a disc with circular light pattern very similar to the Waupaca craft.
+::wiki-chain{video="inyw4Vfu7Z0" video-title="The Physics of UFOs– Dr. Kevin Knuth"}
+---
+kind: consequence
+label: "From a radar track to a missing explosion"
+caption: "Knuth's reasoning on the Tic Tac, as Gerb relays it. Every figure is a lower bound, built on the smallest plausible mass."
+steps:
+  - text: "A drop of 28,000 ft in about 78 s"
+    note: "Down to sea level, reaching about 42,000 mph mid-descent."
+    cue: 476
+  - via: "implies an acceleration of"
+    text: "About 5,400 G"
+    note: "Knuth's lower bound is about 5,000 G."
+    cue: 485
+  - via: "with an assumed mass of 1,000 kg, needs"
+    text: "About 1,100 GW of power"
+    note: "Ten times the total nuclear output of the United States, per Gerb."
+    cue: 515
+  - via: "so stopping dead at sea level should release"
+    text: "An explosion of about 250 Tomahawk cruise missiles"
+    note: "The energy has to go somewhere when the craft stops."
+    cue: 894
+  - via: "yet observers saw"
+    text: "No explosion, sonic boom or fireball"
+    note: "Knuth's energy-deposition puzzle: where did the energy come from, and where did it go?"
+    cue: 866
+---
+::
 
-The [[Trinidade Island UFO Photographs|1958 Trinidade, Brazil photographs]] taken by photographer [[Aliro Barana]] from the vessel Almirante Saldanha warrant special attention. With 48 passengers including Lieutenant [[Homero]] witnessing the event, the craft—described as gray metallic and solid-looking, surrounded by a greenish haze with a ring running through its midsection—flew behind Dado Peak then reversed direction and approached closer and faster. The object's appearance resembled a flattened Saturn.
+Knuth draws one more consequence: under accelerations like these, sustained, a craft could reach a large fraction of the speed of light and cross interstellar distances at relativistic speed. The video quotes the line that these objects not only have the flight characteristics needed for interstellar travel, they "would make excellent interstellar craft".
 
-### Electromagnetic Effects
+### Oberth's radar speeds
 
-UAP proximity frequently disrupts electronics and engines. In the [[1976 Tehran UFO Incident]], [[Major Jafari]]'s avionics were scrambled as an orb detached from the main UAP. The [[1983 McCampbell UFO Case]] and similar incidents demonstrate that electric fields of approximately 3×10⁶ volts per meter—sufficient to ionize air and short out spark plugs—are required to disable gasoline engines. A small UFO generating such a field would require several coulombs of charge, equating to approximately 10⁹ joules of energy.
+Knuth next cited a source that was new to Gerb: a 1954 lecture on flying saucers by [[Hermann Oberth]], the German father of modern rocketry and mentor of the [[Operation Paperclip]] scientist [[Wernher von Braun]]. Oberth reported that saucers had been clocked at 19 km/s, about 42,000 mph or Mach 55, and stressed that he would not rely on three or four measurements but that more than 50 radar measurements from USAF and US Navy data existed. The same year he wrote in *American Weekly* that flying saucers are real spaceships from another solar system, possibly crewed by observers who may have been studying Earth for centuries, and that they might fly by "distorting the gravitational field".
 
-Knuth also addresses massive magnetic fields generated by UAP, on the order of 10¹¹ to 10¹³ ampere-meter squared. These fields produce the [[Faraday Effect in UAP Photography|Faraday effect]], rotating the polarization of light and creating visible rings in photographs taken with polarizing filters. The video recommends UFO photographers use polarizing filters to capture this phenomenon.
+### Minot, Japan Airlines and the four cases side by side
 
-### Absence of Expected Signatures
+Knuth also cited a little-known 1968 encounter at [[Minot Air Force Base, North Dakota|Minot Air Force Base]], a nuclear-weapons base like [[Malmstrom Air Force Base|Malmstrom]]. According to base personnel, an egg-shaped object with skin described as molten lava held about 3 miles off a descending B-52, then closed 2 miles within a single 3-second radar sweep. Gerb hears in the lava-like skin an echo of an egg-shaped crashed craft whose skin showed the [[Mother of Pearl Effect|mother-of-pearl effect]], and notes that the declassified report was filed under [[USAF Regulation 200-2]], so the case never reached the [[Project Blue Book]] files or the public despite being a multi-sensor military detection. For the [[1986 Japan Airlines UFO Incident|Japan Airlines]] case, Gerb replays footage from his iceberg series: at about 5 p.m. on 17 November 1986, Captain [[Captain Kenju Terauchi|Kenju Terauchi]] and two crew watched a craft and two smaller lights orbit their 747.
 
-A critical anomaly is what UAPs don't produce. Despite traveling at hypersonic speeds in atmosphere, they generate no sonic booms or fireballs—signatures that should be unavoidable given known physics. Similarly, the energy deposition problem when UAPs decelerate represents a violation of energy conservation: kinetic energy must go somewhere, yet no explosions, heat signatures, or shockwaves are observed.
+::wiki-compare{video="inyw4Vfu7Z0" video-title="The Physics of UFOs– Dr. Kevin Knuth"}
+---
+caption: "The four encounters Knuth puts numbers to, as Gerb relays them. A dashed Unknown means the video gives no figure."
+attributeLabel: "Point"
+subjects:
+  - name: "2004 Nimitz UAP Encounter (Tic Tac)"
+    note: "November 2004"
+  - name: "Minot Air Force Base, North Dakota"
+    note: "1968 B-52 encounter"
+  - name: "1986 Japan Airlines UFO Incident"
+    note: "17 November 1986"
+  - name: "1987 HMNZS Southland USO Incident"
+    note: "February 1987"
+rows:
+  - attribute: "Observed by"
+    cells:
+      - { text: "Cmdr David Fravor, radar and the FLIR footage", cue: 467 }
+      - { text: "Base personnel, a B-52 crew and radar", cue: 654 }
+      - { text: "Captain Terauchi, two crew, and FAA FPS-117 phased-array radar", cue: 770 }
+      - { text: "Radar operator David Barnett", cue: 1130 }
+  - attribute: "Object"
+    cells:
+      - "The \"Tic Tac\""
+      - "Egg-shaped, skin like molten lava"
+      - "Round, the size of an aircraft carrier (about four 747s), with two smaller lights"
+      - "150 ft wide, 800 ft long, in the water"
+  - attribute: "What it did"
+    cells:
+      - "Dropped 28,000 ft to sea level in ~78 s, then stopped"
+      - "Held ~3 mi off the bomber, then closed 2 mi in one 3-second sweep"
+      - "Orbited the 747 at ~7.5 mi for 31 minutes, darting in and out"
+      - "Closed 20 km in under 30 s and passed under the ship"
+  - attribute: "Top speed"
+    cells:
+      - "~42,000 mph mid-descent"
+      - "Mach 12 (9,200 mph)"
+      - { text: "~269,000 mph, per Knuth", cue: 766 }
+      - "At least 1,492 mph"
+  - attribute: "Acceleration"
+    cells:
+      - "~5,400 G"
+      - "209 G"
+      - { mark: unknown }
+      - "4.5 G on average"
+  - attribute: "Afterwards"
+    cells:
+      - "No explosion, though ~250 Tomahawks' worth of energy was expected"
+      - "Filed under Regulation 200-2; never in the Blue Book files"
+      - "Radar held it at ~7.5 mi, changing sides between 12-second sweeps"
+      - "All ship power killed and batteries drained"
+---
+::
 
-## Transmedium and USO Capabilities
+## Light and Fields
 
-### Water Entry and Operation
+With the flight numbers in hand, Knuth turned to what UAP give off. He suggests that their massive luminosity may be a byproduct of the propulsion. Electronics failing near a craft point to strong electric and magnetic fields, as in the [[1976 Tehran UFO Incident]], where Major [[Parviz Jafari]]'s avionics were scrambled as an orb detached from the object he had been vectored toward.
 
-The video dedicates substantial attention to [[Transmedium UAP|transmedium]] craft and [[USO (Unidentified Submerged Object)|USOs (Unidentified Submerged Objects)]]. Analysis by the [[Scientific Coalition for UAP Studies (SCU)]] of Aguadilla, Puerto Rico footage shows a USO entering water at approximately 100 mph without making a splash and continuing through the water at similar speed (only dropping to 85 mph), even accelerating underwater. This behavior suggests the craft doesn't interact with water as a conventional object would.
+::wiki-grid{cols=3}
+::wiki-panel{title="Luminosity"}
+**2,000 to 30,000 megacandelas.** Measured by Bruce Maccabee from the exposure of the original photograph of an August 1953 Canadian Air Force sighting, and reported by [[Jacques Vallee]]. Knuth suggests the light may be a byproduct of the propulsion.
+::
+::wiki-panel{title="Electric fields"}
+**About 3 × 10⁶ volts per metre.** The field needed to ionize the air and short out a car's spark plugs and distributor, stopping a gasoline engine, as in what the video calls "the 1983 McCampbell case" ([[James McCampbell]]). A small craft would need several coulombs of charge, about 10⁹ joules.
+::
+::wiki-panel{title="Magnetic fields"}
+**About 10¹¹ to 10¹³ ampere-square metres.** Fields this large rotate the polarization of light (the Faraday effect), so a photograph through a polarizing filter shows rings around the object. Knuth says this has been observed and photographed, and recommends the filter.
+::
+::
 
-### HMNZS Southland Incident (1987)
+Knuth also stresses what is missing. UAP have been tracked at hypersonic speeds in the atmosphere many times, yet they make none of the sonic booms or fireballs that speed should produce, and, as the Tic Tac showed, they release no energy when they stop.
 
-In February 1987 north of New Zealand, the naval vessel HMNZS Southland was followed by a USO measuring 150 feet wide and 800 feet long. Radar operator and seaman [[David Barnett]] tracked the craft as it closed a 20-kilometer distance in less than 30 seconds—yielding a minimum speed estimate of 1,492 mph and average acceleration of 4.5 Gs. When the USO passed underneath the vessel, it killed all ship power and completely drained batteries, demonstrating the electromagnetic effects discussed earlier.
+## Transmedium Objects
 
-### Pre-WWII Cases
+Knuth ended on what Gerb calls one of the least represented aspects of the subject, [[Unidentified Submerged Object (USO)|unidentified submerged objects]] and [[Trans-Medium Vehicle|transmedium]] craft. In the [[Aguadilla Puerto Rico Trans-Medium UAP Incident|Aguadilla]] footage an object dips into the sea without a splash and hardly disturbs the water; the analysis by the Scientific Coalition for UAP Studies (SCU) shows it entering at about 100 mph, dropping only to about 85 mph underwater, and then accelerating.
 
-Knuth catalogues eight pre-World War II cases of transmedium UAP operating between air and water environments. The video emphasizes this historical depth makes the foreign adversary hypothesis implausible—no nation possessed such technology in the early 20th century, yet the same transmedium capabilities are observed in modern cases.
+The [[1987 HMNZS Southland USO Incident]], new to Gerb, took place north of New Zealand in February 1987 and draws on radar operator and seaman [[David Barnett]]. An object 150 feet wide and 800 feet long, which also seemed not to interact with the water, closed a 20-kilometre gap on the frigate in under half a minute, a minimum speed of about 1,492 mph and an average of 4.5 G, then passed underneath and killed all the ship's power, draining its batteries.
 
-## The Five Characteristics of UAP
+Knuth finished with a list of eight old cases of objects moving between air and water, from before about the Second World War. Gerb does not go through them, but says he would like to make a video on them.
 
-The video references the framework famously outlined by [[Luis Elizondo]]—five (or six, including biological effects) defining characteristics of UAP:
+## The Foreign-Adversary Question
 
-1. **Sudden/instantaneous acceleration** — Craft exhibit acceleration far beyond human tolerance or known material limits
-2. **Hypersonic velocities without signatures** — No sonic booms, heat signatures, or propulsion exhaust despite extreme speeds
-3. **Low observability** — Craft often difficult to detect visually or by radar
-4. **Transmedium travel** — Seamless operation across air, water, and potentially space without apparent medium interaction
-5. **Positive lift/anti-gravity** — No visible means of propulsion yet craft maintain controlled flight and hover
+The video ends on the conclusion Gerb draws from Knuth's numbers. The block below sets out the three positions the video answers: Knuth's two, from the opening of his talk, and Gerb's, from the close of the video.
 
-Knuth's work provides quantitative data supporting each characteristic, transforming qualitative observations into measurable physical parameters.
+::wiki-claim{video="inyw4Vfu7Z0" video-title="The Physics of UFOs– Dr. Kevin Knuth"}
+---
+term: "Position"
+label: "Three positions and how the video answers them"
+caption: "Knuth answers the first two at the start of his Sol Foundation talk; Gerb answers the third in his closing remarks."
+claims:
+  - title: "\"We know our physics\""
+    by: "Mainstream academia"
+    where: "As Knuth characterizes it"
+    text: "Craft that break known physics are not worth hard analysis; the idea is scoffed at."
+    responses:
+      - by: "Kevin Knuth"
+        stance: challenges
+        text: "It is surprising to hear that when research still cannot unify general relativity and quantum mechanics."
+        cue: 204
+  - title: "\"I saw an alien spacecraft\""
+    by: "Witnesses who assume it"
+    text: "An anomalous object is taken to be an alien spacecraft."
+    responses:
+      - by: "Kevin Knuth"
+        stance: challenges
+        text: "He is skeptical of people who assume they have witnessed an alien spacecraft."
+        cue: 198
+      - by: "Kevin Knuth"
+        stance: challenges
+        text: "Unfamiliar engineering can look a lot like anomalous physics; he is not ready to jump to that conclusion at the first anomaly."
+        cue: 220
+  - title: "\"Just foreign adversary technology\""
+    by: "Proponents of the foreign-adversary explanation"
+    text: "UAP are advanced craft built by a rival nation."
+    responses:
+      - by: "Gerb"
+        stance: challenges
+        text: "The Tic Tac pulled about 5,400 G; people and most equipment would not survive it, and missiles fail near 100 G."
+        cue: 469
+      - by: "Gerb"
+        stance: challenges
+        text: "Knuth lists transmedium cases from before the Second World War, going back to the early 20th century. How could a foreign adversary have had the technology then?"
+        cue: 1275
+---
+::
 
-## Implications for Interstellar Travel
+Gerb closes by saying he has been infatuated with the paper's data since 2019, to the point of asking Knuth on LinkedIn for a job, and that putting G-forces on the Tic Tac turns the anomalous craft Elizondo describes into measurable quantities. His favourite cases from the talk are the Nimitz and Japan Airlines encounters.
 
-Knuth demonstrates that UAP acceleration capabilities are sufficient for relativistic interstellar travel. Under constant extreme acceleration, craft could reach high percentages of the speed of light, making journeys between star systems feasible within relativistic time frames. This observation supports Oberth's 1954 assertion that observed UFOs possess flight characteristics necessary for interstellar travel and "would make excellent interstellar craft."
+## Key Figures
 
-## Conclusion: Beyond Foreign Adversaries
+::wiki-roster
+---
+entries:
+  - name: Kevin Knuth
+    role: Physicist, University at Albany; vice president of UAP-X
+    note: "The subject of the video: lead author of the 2019 flight-characteristics paper and speaker at the Sol Foundation in November 2023."
+  - name: Robert M. Powell
+    role: Co-author of the 2019 paper
+    note: "Estimated, with Knuth and Reali, the speeds and accelerations in the Bethune, JAL 1628 and Nimitz encounters."
+  - name: Peter Reali
+    role: Co-author of the 2019 paper
+    note: "The paper's third author, published in Entropy on 25 September 2019."
+  - name: Hermann Oberth
+    role: German father of modern rocketry
+    note: "His 1954 lecture reported more than 50 radar measurements of flying saucers at 19 km/s; that year he called them spaceships from another solar system."
+  - name: David Fravor
+    role: US Navy commander, F/A-18 pilot
+    note: "His testimony and the FLIR footage underpin the paper's analysis of the 2004 Nimitz Tic Tac."
+  - name: Captain Kenju Terauchi
+    role: Japan Airlines Flight 1628 captain
+    note: "Watched a craft the size of an aircraft carrier orbit his 747 for 31 minutes in November 1986; Knuth puts its speed near 269,000 mph."
+  - name: Parviz Jafari
+    role: Iranian Air Force F-4 pilot
+    note: "His avionics were scrambled as an orb approached his jet over Tehran in 1976: Knuth's example of fields around UAP."
+  - name: David Barnett
+    role: Radar operator and seaman
+    note: "The radar source Knuth cites for the 1987 HMNZS Southland USO."
+  - name: Almiro Baraúna
+    role: Photographer
+    note: "Took the 1958 Trindade Island photographs, one of the seven images on Knuth's opening slide."
+  - name: Luis Elizondo
+    role: Former AATIP director
+    note: "Outlined the five characteristics of UAP, two of which Knuth sets out to measure."
+---
+::
 
-The video concludes by emphasizing that cases analyzed by Knuth span from pre-World War II through the present day. The consistency of performance characteristics across decades—before jet aircraft, before space programs, before modern materials science—makes attribution to any foreign adversary implausible. The thesis presented is that multisensor data from credible military and civilian sources, analyzed using conservative physics calculations, points to craft of non-human origin exhibiting capabilities that violate or transcend known physics.
+## Key Claims
+
+- On 25 September 2019 Kevin Knuth, Robert M. Powell and Peter Reali published "Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles" in *Entropy*, analysing cases including the 1951 Bethune encounter, Japan Airlines Flight 1628 and the 2004 Nimitz encounter.
+- The Nimitz Tic Tac dropped from 28,000 feet to sea level in about 78 seconds, an estimated 5,400 G (a lower bound of about 5,000 G), against human, F-35 and ballistic-missile limits of 16, 13 and about 100 G.
+- Assuming a mass of 1,000 kg, a tenth of a similarly sized F-18, the manoeuvre needed about 1,100 gigawatts, which Gerb puts at ten times the total nuclear output of the United States.
+- Stopping at sea level should have released energy equal to about 250 Tomahawk cruise missiles, yet no explosion, sonic boom or fireball was observed.
+- Hermann Oberth reported in 1954 more than 50 USAF and US Navy radar measurements of flying saucers at 19 km/s (about 42,000 mph, Mach 55), and wrote that they are spaceships from another solar system that might fly by distorting the gravitational field.
+- At Minot Air Force Base in 1968, an egg-shaped object with molten-lava skin closed 2 miles on a B-52 in one 3-second radar sweep (209 G, Mach 12); the declassified report was filed under Regulation 200-2 and never reached the Blue Book files.
+- Knuth calculates the Japan Airlines Flight 1628 object reached about 269,000 mph while FAA radar held it about 7.5 miles from the 747.
+- UAP luminosities of 2,000 to 30,000 megacandelas, electric fields of about 3 × 10⁶ V/m and magnetic fields of 10¹¹ to 10¹³ A·m² are estimated from photographs and from engine and avionics failures; Knuth suggests the light may be a byproduct of propulsion.
+- In February 1987 a USO 150 by 800 feet closed 20 km on HMNZS Southland in under 30 seconds, passed beneath it and drained the ship's power.
+- Knuth lists eight transmedium cases from before about the Second World War, which Gerb argues rules out foreign adversary technology as the explanation for UAP.
 
 ## Sources
 
 - [YouTube](https://www.youtube.com/watch?v=inyw4Vfu7Z0) — UAP Gerb
 - Knuth, K. H., Powell, R. M., & Reali, P. A. (2019). "Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles." *Entropy*, 21(10), 939.
-- Herman Oberth, 1954 lecture on flying saucers
-- Herman Oberth, 1954 *American Weekly* article
 
 ## Related Pages
 
-### People
-- [[Kevin Knuth]] — Physicist, UAP researcher, vice president of UAP-X
-- [[Robert M. Powell]] — Co-author of UAP flight characteristics paper
-- [[Peter Reali]] — Co-author of UAP flight characteristics paper
-- [[Avi Loeb]] — Harvard astrophysicist, founder of Galileo Project
-- [[Carl Nell]] — SOL Foundation figure
-- [[David Grusch]] — UAP whistleblower
-- [[Gary Nolan]] — Stanford immunologist, UAP researcher
-- [[Luis Elizondo]] — Former AATIP director, outlined five UAP characteristics
-- [[Commander David Fravor]] — Primary Nimitz Tic Tac witness
-- [[Captain Kenju Terauchi]] — JAL pilot, 1986 UFO encounter witness
-- [[Major Jafari]] — Iranian pilot, 1976 Tehran incident
-- [[Herman Oberth]] — Rocket pioneer, UFO researcher
-- [[Werner Von Braun]] — Rocket scientist, mentored by Oberth
-- [[Bruce Maccabee]] — Physicist, UFO photo analyst
-- [[Jacques Vallée]] — Computer scientist, UFO researcher
-- [[David Barnett]] — Radar operator, HMNZS Southland
-- [[Aliro Barana]] — Photographer, Trinidade Island UFOs
-- [[Homero]] — Lieutenant, Trinidade Island witness
-- [[James McCampbell]] — Researcher, electromagnetic effects
-- [[UAP Gerb]] — Video host and narrator
-
-### Organizations
-- [[UAP-X]] — Nonprofit UFO field research group
-- [[Galileo Project]] — Scientific search for NHI artifacts
-- [[Sol Foundation]] — UAP research organization
-- [[University of Albany]] — Kevin Knuth's institution
-- [[University of Minnesota]] — Knuth's PhD institution
-- [[US Air Force]] — Source of historical UFO data
-- [[US Navy]] — Source of Nimitz encounter data
-- [[NASA]] — National space agency
-- [[Federal Aviation Administration]] — Tracked JAL UFO with radar
-- [[Japan Airlines]] — Airline involved in 1986 incident
-- [[Project Blue Book]] — USAF UFO investigation program
-- [[Scientific Coalition for UAP Studies (SCU)]] — UAP analysis organization
-- [[Canadian Air Force]] — 1953 UFO sighting
-
-### Concepts
-- [[Five Characteristics of UAP]] — Elizondo's defining UAP traits
-- [[Hypersonic Velocity Without Signatures]] — No sonic booms despite extreme speed
-- [[Instantaneous Acceleration]] — Acceleration far beyond material limits
-- [[Gravitational Field Distortion]] — Oberth's proposed propulsion mechanism
-- [[USAF Regulation 200-2]] — 1953 regulation suppressing UFO reports
-- [[G-Force Tolerance]] — Human and material acceleration limits
-- [[Mother of Pearl Effect]] — Crashed craft skin texture description
-- [[Transmedium UAP]] — Craft operating across air/water without medium interaction
-- [[Energy Deposition Problem]] — Missing energy release in UAP deceleration
-- [[Relativistic Interstellar Travel]] — High-speed space travel capability
-- [[UAP Luminosity]] — Extreme light emission from craft
-- [[Electromagnetic Effects of UAPs]] — Electronics disruption near craft
-- [[Faraday Effect in UAP Photography]] — Light polarization rotation in magnetic fields
-- [[USO (Unidentified Submerged Object)]] — Underwater UAP
-- [[Phased Array Radar Tracking]] — Radar confirmation of UAP position
-- [[G-force estimation for UAP]] — Academic acceleration calculation methodology
-- [[Anti-Gravity Propulsion]] — Proposed propulsion without visible means
-
-### Events
-- [[2004 Nimitz UAP Encounter (Tic Tac)]] — Navy encounter with extreme performance craft
-- [[1986 Japan Airlines UFO Incident]] — 31-minute tracked UFO encounter
-- [[1976 Tehran UFO Incident]] — Iranian F-4 avionics jamming
-- [[Minot Air Force Base UFO Encounter]] — 1968 nuclear base incident
-- [[1987 HMNZS Southland USO Incident]] — Naval vessel power drain
-- [[1953 Canadian Air Force UFO Sighting]] — Luminosity measurement case
-- [[1983 McCampbell UFO Case]] — Electromagnetic vehicle interference
-- [[Trinidade Island UFO Photographs]] — 1958 multi-witness Brazilian case
-- [[Green Bay Wisconsin UFO Sighting]] — 2007 photographs
-- [[1951 Lubbock Encounter]] — Texas UFO formation
-- [[Herman Oberth Flying Saucer Lecture]] — 1954 presentation on UFO physics
-
-### Locations
-- [[Minot Air Force Base, North Dakota]] — 1968 UFO encounter site
-- [[Malmstrom Air Force Base]] — Nuclear base with UFO incidents
-- [[Trinidade Island]] — Brazilian UFO photograph location
-- [[Green Bay, Wisconsin]] — 2007 UFO photograph location
-- [[Tehran, Iran]] — 1976 UFO incident location
-- [[Aguadilla, Puerto Rico]] — USO footage location
-- [[New Zealand (North)]] — HMNZS Southland incident location
-
-### Operations
-- [[Operation Paperclip]] — German scientist recruitment program
-
-## People
-- [[Aliro Barana]] — Photographed the UFO near Trinidade Island in 1958
-- [[Homero]] — Witnessed the UFO sighting near Trinidade Island in 1958
-- [[Herman Oberth]] — Gave a 1954 lecture on flying saucers and calculated UFO speeds from over 50 radar measurements; stated UFOs are real spaceships from another solar system
-- [[Werner Von Braun]] — Was mentored by Herman Oberth
-- [[Terachi]] — Witnessed a large UFO approach his plane on November 17, 1986
-- [[Luis Elizondo]] — Famously outlined five or six characteristics of UAP referenced in the transcript
-- [[Kevin]] — Analyzed UAP flight characteristics including Tic Tac acceleration and power output calculations
-- [[Captain Kenju Terauchi]] — Captain of JAL flight who reported witnessing a large UFO and two smaller lights for 31 minutes during the 1986 Japan Airlines incident
-- [[Bruce Maccabee]] — Analyzed original photographs from the Canadian Air Force 1953 UFO sighting to measure luminosity levels
-- [[Jacques Vallée]] — Summarized and reported on the Canadian Air Force 1953 UFO sighting and its photographic evidence
-- [[Major Jafari]] — Iranian Air Force pilot whose avionics were scrambled during the 1976 Tehran incident involving a UAP
-- [[David Barnett]] — Referenced in connection with a USO case
-- [[James McCampbell]] — Associated with the 1983 McCampbell case involving electric field effects on car engines near UFOs
-- [[Kevin Knuth]] — Presented a paper estimating flight characteristics of anomalous unidentified aerial vehicles, including analysis of UAP cases like the Nimitz Tic Tac
-- [[Luis Elizondo]] — Referenced for his characterization of anomalous craft and their properties
-- [[UAP Gerb]] — Host and narrator of the video discussing Kevin Knuth's research
-
-## Organizations
-- [[US Air Force]] — Source of radar data used by Herman Oberth; implemented regulation 200-2 to restrict UFO reporting
-- [[US Navy]] — Provided radar data used by Herman Oberth to calculate UFO speeds
-- [[NASA]] — Werner Von Braun is considered its father
-- [[Project Blue Book]] — The Minot AFB UFO case was reportedly kept out of Blue Book files due to USAF regulation 200-2
-- [[Japan Airlines]] — Crew witnessed and reported a large UFO encounter on November 17, 1986
-- [[Federal Aviation Administration]] — FAA radar (APS-117 long-range 3D phased array) tracked the UFO during the 1986 Japan Airlines incident
-- [[Scientific Coalition for UAP Studies (SCU)]] — Performed analysis on USO footage showing craft entering water at approximately 100 mph and continuing at similar speed
-- [[Canadian Air Force]] — Involved in an August 1953 UFO sighting where photographs were analyzed for luminosity measurements
-- [[Sol Foundation]] — Organization under which Kevin Knuth gave his talk on UAP flight characteristics
-
-## Concepts
-- [[Five Characteristics of UAP]] — Characteristics outlined by Luis Elizondo including sudden/instantaneous acceleration and hypersonic velocities without signatures; also includes biological effects as a sixth.
-- [[Hypersonic Velocity Without Signatures]] — One of the key UAP characteristics where craft travel at extreme speeds without detectable propulsion signatures.
-- [[Instantaneous Acceleration]] — UAP characteristic describing sudden acceleration far beyond human or known technological tolerances, e.g., 5,400 Gs estimated for the Tic Tac.
-- [[Gravitational Field Distortion]] — Herman Oberth's proposed propulsion mechanism for UFOs, suggesting they fly by distorting the gravitational field.
-- [[USAF Regulation 200-2]] — Implemented in 1953 to restrict UFO reporting and prevent disclosure to Project Blue Book, Congress, and the public.
-- [[G-Force Tolerance]] — Humans can survive up to 16 Gs briefly; F-35 wings rip off at ~13 Gs; ballistic missiles fail at ~100 Gs, contextualizing UAP acceleration as far beyond known limits.
-- [[Mother of Pearl Effect]] — Skin texture described on a crashed egg-shaped craft, compared to the Minot AFB UFO skin described as molten lava.
-- [[Trans-Medium Vehicle]] — Unidentified craft capable of operating in both air and water without apparent loss of speed or interaction with the medium
-- [[Hypersonic UAP Speed]] — UAPs tracked at hypersonic speeds without producing sonic booms or fireballs, contradicting conventional physics expectations
-- [[Energy Deposition Problem]] — UAPs that undergo extreme acceleration and deceleration do not release the expected energy output, such as explosions equivalent to 250 Tomahawk cruise missiles
-- [[Relativistic Interstellar Travel]] — The extreme accelerations of UAPs could bring craft to high percentages of the speed of light, making interstellar travel feasible
-- [[UAP Luminosity]] — Some UAPs emit luminosities on the order of 2,000 to 30,000 megacandelas, potentially a byproduct of propulsion systems
-- [[Electromagnetic Effects of UAPs]] — UAPs emit strong electric and magnetic fields capable of shorting out vehicle electronics and engines in close proximity
-- [[Faraday Effect in UAP Photography]] — Large magnetic fields from UAPs can rotate the polarization of light, observable as rings in photographs taken with polarizing filters
-- [[USO (Unidentified Submerged Object)]] — UAPs that enter and operate underwater, often without creating splashes or significantly interacting with the water
-- [[Phased Array Radar Tracking]] — Long-range 3D phased array radar used to confirm UAP proximity and movement relative to aircraft
-- [[Transmedium UAP]] — Craft observed operating seamlessly across both air and water environments without apparent interaction with the water surface.
-- [[G-force estimation for UAP]] — Academic methodology used to calculate acceleration forces experienced by anomalous craft based on observed movement data.
-- [[Flight characteristics of anomalous vehicles]] — Academic analysis quantifying speed, acceleration, and g-forces of observed UAP to highlight their anomalous nature.
-
-## Events & Dates
-- [[Trinidade Island UFO Photographs]] — Photographer Aliro Barana captured three photos of a classic flying disc near Trinidade Island, 600 miles off the Brazilian mainland, witnessed by 48 passengers.
-- [[Green Bay Wisconsin UFO Sighting]] — A UFO photographed in Wisconsin near Green Bay with a circular light pattern, similar in shape and color to the WEU UFO.
-- [[Herman Oberth Flying Saucer Lecture]] — Oberth gave a lecture presenting over 50 radar measurements showing UFO speeds of 19 km/s (~42,000 mph, Mach 55).
-- [[Oberth American Weekly Article]] — Oberth publicly stated his thesis that flying saucers are real spaceships from another solar system possibly investigating Earth for centuries.
-- [[Minot Air Force Base UFO Encounter]] — An egg-shaped UFO with molten lava-like skin maintained distance from a B-52 and accelerated at 209 Gs with a top speed of Mach 12; reported under USAF regulation 200-2.
-- [[Japan Airlines UFO Incident]] — Captain Terachi and two crew members witnessed a large UFO approach their plane at 35,000 ft; craft estimated to reach ~269,000 mph.
-- [[2004 Nimitz UAP Encounter (Tic Tac)]] — The Tic Tac UAP descended from 28,000 ft to sea level in ~78 seconds, experiencing an estimated 5,400 Gs of force, requiring ~1,100 gigawatts of power based on conservative mass estimates.
-- [[1986 Japan Airlines UFO Incident]] — Captain Terauchi and two crew members observed a large UFO the size of an aircraft carrier and two smaller lights that followed their Boeing 747 for 31 minutes at 35,000 ft; tracked by FAA radar
-- [[1953 Canadian Air Force UFO Sighting]] — UFO sighting documented photographically; luminosity measured by Bruce Maccabee and summarized by Jacques Vallée at 2,000–30,000 megacandelas
-- [[1976 Tehran UFO Incident]] — Major Jafari's aircraft avionics were scrambled as an orb detached from a UAP he was vectored toward
-- [[1983 McCampbell UFO Case]] — A UFO case in which electric fields strong enough to short out spark plugs (3×10⁶ V/m) were associated with car engine failures
-- [[1987 HMNZS Southland USO Incident]] — The New Zealand naval vessel HMNZS Southland was followed by a USO 150 ft wide and 800 ft long that closed a 20 km gap in under 30 seconds, passed under the ship, and killed all power
-- [[HMNZS Power Drain Incident]] — A USO closed a 20 km distance at high speed, passed under the HMNZS vessel, killed all ship power, and drained batteries.
-- [[Publication of Kevin Knuth's UAP Flight Characteristics Paper]] — Kevin Knuth published a paper estimating flight characteristics of anomalous unidentified aerial vehicles, including calculations on the Nimitz Tic Tac case.
-- [[2004 Nimitz UAP Encounter (Tic Tac)]] — UAP observed and analyzed by Kevin Knuth, estimated to have experienced approximately 5400 Gs of acceleration.
-- [[Japan Airlines UAP Incident]] — Referenced as one of the notable cases analyzed in Kevin Knuth's paper on UAP flight characteristics.
-
-## Operations
-- [[Operation Paperclip]] — US program that recruited German scientists including those mentored by Herman Oberth, such as Werner Von Braun.
-
-## Locations
-- [[Green Bay, Wisconsin]] — Location of a 2007 UFO photograph showing a craft similar to the WEU UFO.
-- [[Trinidade Island]] — Island 600 miles off the Brazilian mainland where the 1958 UFO photographs were taken.
-- [[Minot Air Force Base, North Dakota]] — Nuclear-capable airbase where an egg-shaped UFO was detected by multiple sensors in 1968.
-- [[Malmstrom Air Force Base]] — Referenced as another nuclear airbase with a UFO connection, similar to Minot AFB.
-- [[New Zealand (North)]] — Location of the February 1987 HMNZS Southland USO incident
-- [[Tehran, Iran]] — Location of the 1976 incident in which Major Jafari's avionics were disrupted by a UAP
-- [[Aguadilla, Puerto Rico]] — Location of USO video footage analyzed by SCU showing a craft entering water at approximately 100 mph
-- [[HMNZS (vessel location)]] — New Zealand naval vessel under which a USO passed, causing complete power failure and battery drain.
-
-## Key Claims
-- The 1958 Trinidade Island UFO photographs depict a gray metallic disc surrounded by a greenish haze, witnessed by 48 passengers including military personnel.
-- The Tic Tac UAP descended from 28,000 ft to sea level in ~78 seconds, experiencing an estimated 5,400 Gs of force.
-- A conservative power calculation estimates the Tic Tac's acceleration required approximately 1,100 gigawatts, ten times the total nuclear output of the United States.
-- Herman Oberth calculated UFO speeds of 19 km/s (~42,000 mph, Mach 55) based on over 50 radar measurements from USAF and US Navy data in 1954.
-- Oberth publicly stated in 1954 that flying saucers are real spaceships from another solar system and may fly by distorting the gravitational field.
-- The Minot AFB egg-shaped UFO accelerated at 209 Gs with a top speed of Mach 12 and was suppressed from Project Blue Book via USAF regulation 200-2.
-- The Minot AFB UFO's egg-shaped craft with lava-like skin resembles descriptions of a crashed egg-shaped craft exhibiting a mother of pearl effect.
-- The Japan Airlines 1986 UFO was estimated to reach speeds of approximately 269,000 mph.
-- The 1986 Japan Airlines UFO was calculated to reach speeds of approximately 269,000 mph and was tracked by FAA phased array radar maintaining a 7.5-mile radius from the aircraft.
-- UAPs undergoing extreme deceleration do not release the expected energy, which in one case should have equaled the explosive force of 250 simultaneous Tomahawk cruise missiles.
-- UAP accelerations are sufficient to reach relativistic speeds, making them theoretically capable of interstellar travel.
-- Some UAPs emit luminosities of 2,000 to 30,000 megacandelas, potentially as a byproduct of their propulsion systems.
-- UAPs emit electric fields of approximately 3×10⁶ V/m capable of shorting out gasoline engine ignition systems.
-- UAPs produce magnetic fields on the order of 10¹¹ to 10¹³ ampere-meter squared, detectable via the Faraday effect in polarized photography.
-- The 1987 HMNZS Southland USO closed a 20 km distance in under 30 seconds, passed under the vessel, and drained all ship power and batteries.
-- USOs have been observed entering water at high speeds without making splashes or significantly interacting with the water medium.
-- UAPs traveling at hypersonic speeds produce no sonic booms or fireballs, which defies conventional aerodynamic expectations.
-- A USO closed a 20 km distance in less than half a minute, achieving a minimum speed estimated at 1,492 meters per hour and an average acceleration of 4.5 Gs.
-- The USO passed under the HMNZS, killing all ship power and draining batteries.
-- Kevin Knuth's paper estimated the Nimitz Tic Tac experienced approximately 5400 Gs of acceleration.
-- Kevin Knuth catalogued eight pre-World War II cases of transmedium UAP, suggesting the phenomenon predates modern foreign adversary technology.
-- The existence of UAP cases dating back to before the 20th century makes the foreign adversary hypothesis implausible according to the host.
-
----
-*Source: [YouTube](https://www.youtube.com/watch?v=inyw4Vfu7Z0)*
+- **People**: [[Kevin Knuth]], [[Robert M. Powell]], [[Peter Reali]], [[Hermann Oberth]], [[Wernher von Braun]], [[David Fravor]], [[Captain Kenju Terauchi]], [[Parviz Jafari]], [[David Barnett]], [[Almiro Baraúna]], [[James McCampbell]], [[Jacques Vallee]], [[Luis Elizondo]], [[Avi Loeb]], [[Karl Nell]], [[David Grusch]], [[Gary Nolan]]
+- **Organizations**: [[University of Albany]], [[University of Minnesota]], [[UAP-X]], [[Galileo Project]], [[Sol Foundation]], [[US Air Force]], [[US Navy]]
+- **Locations**: [[Minot Air Force Base, North Dakota]], [[Malmstrom Air Force Base]], [[Green Bay, Wisconsin]], [[Aguadilla, Puerto Rico]], [[Tehran, Iran]]
+- **Concepts**: [[Five UAP Characteristics (AATIP)]], [[Trans-Medium Vehicle]], [[Unidentified Submerged Object (USO)]], [[USAF Regulation 200-2]], [[Mother of Pearl Effect]]
+- **Operations**: [[Operation Paperclip]], [[Project Blue Book]]
+- **Events**: [[Sol Foundation 2023 Presentation by Kevin Knuth]], [[2004 Nimitz UAP Encounter (Tic Tac)]], [[1986 Japan Airlines UFO Incident]], [[1987 HMNZS Southland USO Incident]], [[1976 Tehran UFO Incident]], [[1958 Trindade Island UFO Photographs]], [[Aguadilla Puerto Rico Trans-Medium UAP Incident]]

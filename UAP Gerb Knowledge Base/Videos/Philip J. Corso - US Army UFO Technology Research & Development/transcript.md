@@ -2,8 +2,8 @@
 title: "Transcript - Philip J. Corso - US Army UFO Technology Research & Development"
 video_id: _sv0Otxtcn4
 url: https://www.youtube.com/watch?v=_sv0Otxtcn4
-date: NA
-duration_seconds: 0
+date: 2025-01-03
+duration_seconds: 5543
 channel: UAP Gerb
 tags:
   - transcript

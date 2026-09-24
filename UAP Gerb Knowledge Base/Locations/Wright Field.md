@@ -7,7 +7,7 @@ tags:
 
 Wright Field was a United States Army Air Forces installation near Dayton, Ohio, that served as a major center for aeronautical research, development, and testing from 1917 until its merger with Patterson Field in 1948 to form Wright-Patterson Air Force Base. During the late 1940s, Wright Field was the site of the [[Air Force Technical Intelligence Center]] (ATIC), which conducted analysis of foreign aircraft and advanced technologies.
 
-According to testimony from [[Robert Sarbacher]] and [[Eric Walker]], Wright Field hosted classified meetings circa 1949–1950 at which US government scientists—including [[Vannevar Bush]], [[John Von Neumann]], and [[J. Robert Oppenheimer]]—discussed recovered UAP craft, materials, and occupants. These meetings are collectively referred to as the [[Wright Field Crash Retrieval Meeting]].
+According to testimony from [[Robert Sarbacher]] and [[Eric A. Walker]], Wright Field hosted classified meetings circa 1949–1950 at which US government scientists—including [[Vannevar Bush]], [[John Von Neumann]], and [[J. Robert Oppenheimer]]—discussed recovered UAP craft, materials, and occupants. These meetings are collectively referred to as the [[Wright Field Crash Retrieval Meeting]].
 
 ## Historical Background
 
@@ -19,9 +19,9 @@ In 1948, Wright Field was combined with nearby Patterson Field to form Wright-Pa
 
 [[Robert Sarbacher]], a physicist who served as a consultant to the DoD's [[Research and Development Board]], stated in his 1983 letter to researcher [[William Steinman]] and in his recorded conversation with [[Stanton Friedman]] that meetings concerning recovered UAP craft and materials took place at Wright Field around 1949–1950. Sarbacher did not personally attend but was invited to participate in discussions at the R&D Board about crash retrievals. He named [[Vannevar Bush]], [[John Von Neumann]], and [[J. Robert Oppenheimer]] as definitively involved.
 
-In his conversation with Friedman, Sarbacher described a meeting at Wright Field about a crash that had occurred "out west," likely referring to the 1947 Roswell incident or other contemporaneous New Mexico recoveries. He mentioned an attendee from Philadelphia who "acted very smug" about his involvement—later identified as [[Eric Walker]], who served as Executive Secretary of the Defense Research Board from 1950 to 1951.
+In his conversation with Friedman, Sarbacher described a meeting at Wright Field about a crash that had occurred "out west," likely referring to the 1947 Roswell incident or other contemporaneous New Mexico recoveries. He mentioned an attendee from Philadelphia who "acted very smug" about his involvement—later identified as [[Eric A. Walker]], who served as Executive Secretary of the Defense Research Board from 1950 to 1951.
 
-[[Eric Walker]] independently confirmed to [[William Steinman]] in interviews conducted between 1987 and 1990 that he attended the Wright Field meeting described by Sarbacher, and that it concerned crash retrievals and body recovery efforts.
+[[Eric A. Walker]] independently confirmed to [[William Steinman]] in interviews conducted between 1987 and 1990 that he attended the Wright Field meeting described by Sarbacher, and that it concerned crash retrievals and body recovery efforts.
 
 ## Connection to ATIC and Foreign Technology Division
 

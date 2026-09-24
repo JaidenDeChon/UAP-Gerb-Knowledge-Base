@@ -2,8 +2,8 @@
 title: "UFOs in the Private Sector - Battelle Memorial Institute"
 video_id: tISTJRPOqFo
 url: https://www.youtube.com/watch?v=tISTJRPOqFo
-date: NA
-duration_seconds: 0
+date: 2024-02-19
+duration_seconds: 1026
 channel: UAP Gerb
 tags:
   - transcript

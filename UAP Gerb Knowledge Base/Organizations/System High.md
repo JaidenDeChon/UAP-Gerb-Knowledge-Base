@@ -11,7 +11,7 @@ Rob Howe, a 20-year U.S. Air Force veteran and former security chief for the F-3
 
 ## Alleged UAP Involvement
 
-UAP Gerb's *Special Access Required Vol.2* cites System High's long-running SID contract as evidence connecting the firm to the "program protection" apparatus the presenter alleges shields legacy UFO activity from disclosure, characterizing the company's DARPA relationship as illustrative of how private security contractors are woven into the day-to-day operation of the SAP protection ecosystem.
+UAP Gerb's *Special Access Required Vol.2* cites System High's long-running SID contract as evidence connecting the firm to the "program protection" apparatus Gerb alleges shields legacy UFO activity from disclosure, characterizing the company's DARPA relationship as illustrative of how private security contractors are woven into the day-to-day operation of the SAP protection ecosystem.
 
 ## Sources
 

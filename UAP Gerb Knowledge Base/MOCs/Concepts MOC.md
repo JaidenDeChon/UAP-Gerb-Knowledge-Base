@@ -23,7 +23,7 @@ tags:
 - BDUs (Battle Dress Uniform)
 - Bad Optics
 - [[Ballistic and Fragging Pattern Analysis]]
-- [[Beal Report]]
+- [[Bechtel Tunneling Report (1974)]]
 - [[Belgian UFO Wave]]
 - [[Bell or Acorn-Shaped Craft]]
 - [[Biefeld-Brown Effect]]
@@ -47,6 +47,7 @@ tags:
 - [[Consciousness-Interactive Technology]]
 - Continuous Process Improvement
 - [[Cosmos 96]]
+- [[Craft Donation Theory]]
 - [[Crash Retrieval]]
 - Crowd Control in Disaster Relief
 - DD214
@@ -69,6 +70,7 @@ tags:
 - Establishing Trust
 - Ethical Tug of War
 - Extraterrestrial Life
+- [[Fabrication Hypothesis]]
 - [[FOIA Evasion via Terminology]]
 - Fabian Socialism
 - [[Fast Walkers]]
@@ -103,6 +105,7 @@ tags:
 - [[Kimbaya Artifacts]]
 - [[Kingman Crash Debunking Theory]]
 - [[Kona Blue]]
+- [[Live Biologics Protocols]]
 - LZ (Landing Zone)
 - [[Lam]]
 - Landing Zone Analysis
@@ -146,8 +149,6 @@ tags:
 - Personnel Transport Mission
 - [[Pink Assets]]
 - Post Duty Officer
-- [[Project Blue Book]]
-- [[Project Redlight]]
 - [[Psionic Abilities (P3)]]
 - [[Psionics]]
 - [[RDT&E (Research, Development, Test and Evaluation)]]
@@ -173,6 +174,7 @@ tags:
 - [[Strategic Defense Initiative (SDI)]]
 - [[Subterranean Facility (STIF)]]
 - Sworn Affidavit
+- [[The Age of Disclosure]]
 - [[TSSCI Clearance]]
 - Tactical Elevated Position
 - Tardigrades on the Moon
@@ -202,4 +204,8 @@ tags:
 - [[Watch Committee]]
 - [[White Taped Circle Restricted Zone]]
 - [[XF-131 Super Sentinel]]
+- [[Yankee Blue]]
 - [[Zero Point Energy]]
+- [[TR-3B]]
+- [[Very High Speed Transit System (VHST)]]
+- [[Interplanetary Contamination]]

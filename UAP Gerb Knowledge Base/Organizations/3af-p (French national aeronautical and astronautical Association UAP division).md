@@ -5,9 +5,9 @@ tags:
   - organization
 ---
 
-The 3af-p (Unidentified Aerospace Phenomena division of the Association Aéronautique et Astronautique de France) is the UAP research division of the French national aeronautical and astronautical association. The organization conducts investigations into unidentified aerospace phenomena from a scientific and technical standpoint within France's aerospace research community.
+The 3AF-PAN commission (written "3af-p" in UAP Gerb's material) is the technical commission of the Association Aéronautique et Astronautique de France (3AF), France's national aeronautics and astronautics society, set up to study *phénomènes aérospatiaux non identifiés* (PAN), the French term for unidentified aerospace phenomena. It grew out of a June 2007 proposal by [[Alain Boudier]] to the 3AF's leadership; Boudier became its first president in May 2008, and during 2009 the commission was renamed SIGMA. It approaches the subject from a scientific and technical standpoint within France's aerospace community.
 
-In the context of UAP research, the 3af-p gained attention through its president [[Elaine Boder]], who was identified by UAP Gerb as the anonymous "Source One" in [[Steven Greer]]'s 2009 email communications. Boder reportedly brought UAP briefing documents coordinated by Greer to French President [[Nicholas Sarkozy]] in early March 2009. Boder also appears in Greer's Disclosure Project archives as witness number 101179, claiming to have viewed an uncut NASA film depicting six UFOs descending onto the lunar surface during the Apollo 8 mission.
+In UAP research the commission draws attention through Boudier, whom UAP Gerb identified as the source labelled "AB" in [[Steven Greer]]'s notes and "Source One" in his 2009 emails. Boudier is said to be Disclosure Project witness 101179, who claimed to have seen an uncut NASA film of six UFOs descending onto the lunar surface during Apollo 8, and to have carried UAP briefing documents from Greer to French President [[Nicholas Sarkozy]] in early March 2009.
 
 ## Sources
 

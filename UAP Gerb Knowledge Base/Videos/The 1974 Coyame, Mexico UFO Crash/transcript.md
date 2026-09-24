@@ -2,8 +2,8 @@
 title: "The 1974 Coyame, Mexico UFO Crash"
 video_id: bL3tMByq_WM
 url: https://www.youtube.com/watch?v=bL3tMByq_WM
-date: NA
-duration_seconds: 0
+date: 2024-08-09
+duration_seconds: 2781
 channel: UAP Gerb
 tags:
   - transcript

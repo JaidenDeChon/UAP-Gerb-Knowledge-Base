@@ -1,5 +1,5 @@
 import type { NotePreview } from '#shared/types/wiki'
-import { graph, previews } from '#wiki-data'
+import { graph, portraits, previews } from '#wiki-data'
 
 export default defineEventHandler((event): NotePreview => {
   const { path } = getQuery(event)
@@ -20,5 +20,6 @@ export default defineEventHandler((event): NotePreview => {
     category: node.c,
     lead: preview.lead,
     tags: preview.tags,
+    ...(portraits[index] ? { image: portraits[index] } : {}),
   }
 })

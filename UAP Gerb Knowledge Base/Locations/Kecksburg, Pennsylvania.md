@@ -1,10 +1,11 @@
 ---
 name: "Kecksburg, Pennsylvania"
+coordinates: [40.1847, -79.4608]
 tags:
   - location
 ---
 
-**Kecksburg** is a small rural community in Westmoreland County, Pennsylvania, approximately 40 miles southeast of Pittsburgh. It is the site of one of the most thoroughly documented and credible alleged UAP crash retrieval cases in history: the [[1965 Kecksburg UFO Crash]] of December 9, 1965.
+**Kecksburg** is a small rural community in Westmoreland County, Pennsylvania, approximately 40 miles southeast of Pittsburgh. It is the site of one of the most thoroughly documented and credible alleged UAP crash retrieval cases in history: the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]] of December 9, 1965.
 
 ## The 1965 Incident
 

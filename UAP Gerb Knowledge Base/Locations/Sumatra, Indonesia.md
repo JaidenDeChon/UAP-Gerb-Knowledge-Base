@@ -4,7 +4,7 @@ tags:
   - location
 ---
 
-**Sumatra** is the largest of the Indonesian islands and the approximate location of [[Michael Herrera]]'s 2009 UAP encounter, one of the most detailed alleged firsthand encounters by US military personnel with an unidentified craft and an associated armed paramilitary force. The specific landing zone remains uncertain, but the encounter occurred in the jungle interior of the island during a humanitarian mission following the [[2009 Sumatra Earthquake and Tsunami]].
+**Sumatra** is the largest of the Indonesian islands and the approximate location of [[Michael Herrera]]'s 2009 UAP encounter, one of the most detailed alleged firsthand encounters by US military personnel with an unidentified craft and an associated armed paramilitary force. The specific landing zone remains uncertain, but the encounter occurred in the jungle interior of the island during a humanitarian mission following the [[2009 Sumatra Earthquake]].
 
 ## UAP Significance
 
@@ -17,7 +17,7 @@ The craft was described as:
 - Emitting an **audible hum** compared to the sound of a guitar amplifier
 - Floating **15 to 20 feet above the ground** on an elevated platform
 
-The craft was surrounded by an armed force with American dialects, American gear, and no rank or insignia — believed by the host to be a rogue or compartmented black program unit rather than a conventional US military element. Four F-350 trucks with weapon cases and what appeared to be oxygen or humidity control units were staged nearby. The containers were later revealed by an alleged program insider to have held human beings, apparently used as "psionic assets" for interfacing with the craft.
+The craft was surrounded by an armed force with American dialects, American gear, and no rank or insignia — believed by Gerb to be a rogue or compartmented black program unit rather than a conventional US military element. Four F-350 trucks with weapon cases and what appeared to be oxygen or humidity control units were staged nearby. The containers were later revealed by an alleged program insider to have held human beings, apparently used as "psionic assets" for interfacing with the craft.
 
 The Marines were ambushed, disarmed, photographed via their military IDs, and threatened. They were then escorted back up the hillside and told to return to the LZ without speaking about what they had seen. A platform below the craft rose, connected with the vehicle, and the combined assembly departed westward instantaneously — with no rotor wash, no exhaust, no sonic boom, and no disturbance to surrounding vegetation.
 

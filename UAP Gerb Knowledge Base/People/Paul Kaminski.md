@@ -1,6 +1,7 @@
 ---
 name: "Paul Kaminski"
 role: "Under Secretary of Defense for Acquisition and Technology (1994–1997); MITRE Corporation board member"
+wikipedia: "Paul G. Kaminski"
 tags:
   - person
 ---
@@ -9,7 +10,7 @@ Paul G. Kaminski is a former senior U.S. defense acquisition official who served
 
 ## Role in UAP Programs
 
-UAP Gerb's *Special Access Required Vol.2* identifies Kaminski as the Ostat/OUSD(AT) official in office at the time of Wilson's 1997 investigation into a crash retrieval and reverse engineering program, and states the presenter has "direct knowledge" that Kaminski was "a very senior individual within the UFO legacy program portfolio." The video connects Kaminski's SAPOC membership and later MITRE board seat to its broader thesis that senior officials who oversaw DoD Special Access Program governance in the 1990s went on to hold influential positions at federally funded research and development centers (FFRDCs) alleged to be involved in non-human technology exploitation.
+UAP Gerb's *Special Access Required Vol.2* identifies Kaminski as the Ostat/OUSD(AT) official in office at the time of Wilson's 1997 investigation into a crash retrieval and reverse engineering program, and states Gerb has "direct knowledge" that Kaminski was "a very senior individual within the UFO legacy program portfolio." The video connects Kaminski's SAPOC membership and later MITRE board seat to its broader thesis that senior officials who oversaw DoD Special Access Program governance in the 1990s went on to hold influential positions at federally funded research and development centers (FFRDCs) alleged to be involved in non-human technology exploitation.
 
 ## Sources
 

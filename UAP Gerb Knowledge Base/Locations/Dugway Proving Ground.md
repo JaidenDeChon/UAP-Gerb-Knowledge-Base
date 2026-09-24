@@ -1,5 +1,6 @@
 ---
 name: "Dugway Proving Ground"
+coordinates: [40.2208, -112.7442]
 location_type: "facility"
 tags:
   - location
@@ -17,7 +18,7 @@ DPG has participated in the global war on terrorism, conducting Special Forces m
 
 Dugway partners with numerous US military, government, and intelligence agencies including the US Army, US Navy, SOCOM (Special Operations Command), the 388th Range Squadron out of Hill Air Force Base, Departments of Justice, Homeland Security and Interior, NASA, and three universities including Utah State University. Utah State employs a University Affiliated Research Center (UARC) called the Space Dynamics Laboratory for the Missile Defense Agency at Dugway—a significant detail given UAP researchers' assertions that UARCs and Federally Funded Research and Development Centers (FFRDCs) serve as key contributors and project managers for joint corporate-government UAP legacy programs.
 
-Major contractors operating at Dugway include C Martin Company (facility operations, maintenance, range operations—employed witness "MS" from 2009-2013), Battelle Memorial Institute (chemical/biological defense information analysis, facility design, program management), and Jacobs Solutions (range testing and lab services).
+Major contractors operating at Dugway include C Martin Company (facility operations, maintenance, range operations—employed witness [[MS (Dugway Witness)|"MS"]] from 2009-2013), Battelle Memorial Institute (chemical/biological defense information analysis, facility design, program management), and Jacobs Solutions (range testing and lab services).
 
 ## Major Range and Test Facility Bases (MRTFBs)
 
@@ -35,7 +36,7 @@ This joint Army-Air Force MRTFB structure has led researchers to theorize a join
 
 **Michael Army Airfield:** Shared airfield between Dugway and Hill Air Force Base's 388th Range Squadron, used for aerospace testing including the Lockheed Martin X-33 hypersonic vehicle program. The airfield is nestled within the West Desert Test Center.
 
-**Ditto Technical Center:** Houses the operational heart of the West Desert Test Center, including the Garrison building where witness "MS" was interrogated following his 2009 encounter.
+**[[Ditto Technical Center]]:** Houses the operational heart of the West Desert Test Center, including the Garrison building where witness "MS" was interrogated following his 2009 encounter.
 
 **Granite Peak:** Restricted sub-installation within Dugway surrounded by 388th Range Squadron infrastructure including radar stations and threat emitter systems. Granite Peak is alleged to sit above the primary underground facility.
 

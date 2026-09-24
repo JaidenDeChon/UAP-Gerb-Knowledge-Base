@@ -43,7 +43,7 @@ Sarbacher's knowledge of the insectoid beings came from discussions at [[Wright 
 
 ## Comparison to Other Accounts
 
-The insectoid being description differs from the more commonly reported "grey" alien archetype (large heads, large eyes, thin limbs) that became widespread in UFO abduction literature beginning in the 1960s. However, the emphasis on small stature (approximately three feet tall, per the [[Hottel Memo]] and other early accounts) and lightweight construction is consistent across multiple early crash retrieval reports, including Roswell and the alleged [[Aztec, New Mexico Crash]].
+The insectoid being description differs from the more commonly reported "grey" alien archetype (large heads, large eyes, thin limbs) that became widespread in UFO abduction literature beginning in the 1960s. However, the emphasis on small stature (approximately three feet tall, per the [[Hottel Memo]] and other early accounts) and lightweight construction is consistent across multiple early crash retrieval reports, including Roswell and the alleged [[Aztec UFO Crash and Recovery]].
 
 Some researchers have speculated that the insectoid beings represent either:
 

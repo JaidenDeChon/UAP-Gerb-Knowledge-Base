@@ -120,7 +120,7 @@ Herrera's account shares striking similarities with other UAP encounter testimon
 
 - **Unmarked armed operators**: Like [[Rodrik Castle]] and [[Jonathan Weygandt]], Herrera encountered personnel in all-black or unmarked gear who were not identifiable as conventional military — consistent with UAP Gerb's theory that these were [[Wackenhut Corporation|Wackenhut]]-trained [[DOE Special Response Teams|DOE Special Response Teams (SRTs)]]
 - **Detention and intimidation**: All three witnesses were detained, debriefed, and warned against disclosure
-- **Anthrax booster**: Following his encounter, Herrera received an anthrax booster shot — the same post-encounter medical protocol administered to Castle and Wagant, which UAP Gerb theorizes may be connected to proximity to nuclear-powered craft or materials associated with the [[Atomic Energy Act of 1954]]
+- **Anthrax booster**: Following his encounter, Herrera received an anthrax booster shot — the same post-encounter medical protocol administered to Castle and Weygandt, which UAP Gerb theorizes may be connected to proximity to nuclear-powered craft or materials associated with the [[Atomic Energy Act of 1954]]
 - **Active-duty Marines**: All three witnesses were active-duty Marines at the time of their encounters
 
 ## Controversy and Credibility
@@ -147,14 +147,17 @@ Herrera repeatedly emphasizes that he is not profiting financially from his disc
 
 ### Disinformation Concerns
 
-The credibility of The Insider's disclosures to Herrera remains unverified. Investigators have noted parallels to the CIA's 1989 disinformation campaign against [[Paul Benowitz]], in which Benowitz was fed false information about extraterrestrials and underground bases, eventually driving him to psychological breakdown. If The Insider is conducting a similar psychological operation, this would not invalidate Herrera's 2009 Indonesia UAP encounter, which occurred before any insider contact and has been independently corroborated in its verifiable operational details. However, it raises questions about the truthfulness of insider claims regarding the Black Group, P3 recruitment, and other program details.
+The credibility of The Insider's disclosures to Herrera remains unverified. Investigators have noted parallels to the CIA's 1989 disinformation campaign against [[Paul Bennewitz]], in which Bennewitz was fed false information about extraterrestrials and underground bases, eventually driving him to psychological breakdown. If The Insider is conducting a similar psychological operation, this would not invalidate Herrera's 2009 Indonesia UAP encounter, which occurred before any insider contact and has been independently corroborated in its verifiable operational details. However, it raises questions about the truthfulness of insider claims regarding the Black Group, P3 recruitment, and other program details.
 
 ## Assessment
 
 Herrera's testimony is highly detailed and internally consistent across multiple interviews and public appearances. The existence of insider contacts provides additional context unavailable to other witnesses, though the insiders themselves remain anonymous. The apparent misrepresentation of his testimony in AARO's historical report, if accurate, suggests institutional resistance to his account. The refusal of fellow Marines to corroborate publicly, while understandable given potential career and personal risks, leaves Herrera as a sole public witness to an extraordinary claim.
+
+UAP Gerb's first treatment of the case, in [[Video - The Marines Who Got too Close to UFOs|a January 2024 video]] pairing Herrera with [[Jonathan Weygandt]], was more guarded: Gerb described himself as "torn". He accepted that Herrera had testified under oath, but noted that if the account is true the craft was an [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicle]] flown by shadow US military factions, the theory [[Steven Greer]] promotes, and said he doubted that humans had reverse-engineered any non-human technology.
 
 ## Sources
 
 - [[Video - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE]]
 - [[Video - Michael Herrera - Insights into UAP Encounter and Black Program Insiders]]
 - [[Video - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)]]
+- [[Video - The Marines Who Got too Close to UFOs]]

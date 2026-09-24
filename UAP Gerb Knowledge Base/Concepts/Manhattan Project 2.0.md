@@ -46,7 +46,7 @@ The modern legacy structure, far removed from the Manhattan Project 2.0, is desc
 
 ## Part Two: Modern Legacy Program Secrecy
 
-UAP Gerb's follow-up investigation, *Special Access Required Vol.2*, picks up where the Manhattan Project 2.0's "great schism" left off, shifting focus to the specific legal and bureaucratic mechanisms — [[Special Access Programs (SAPs)]], [[Content-Only Special Access Program|content-only SAPs]], and [[Covert Action Program (50 U.S. Code § 3093)|non-covert action designations]] — that the presenter argues allow the fragmented, post-1994 legacy program structure to remain hidden from Congress and the executive branch today. See [[Legacy Program Onion Model]] for the full modern secrecy framework.
+UAP Gerb's follow-up investigation, *Special Access Required Vol.2*, picks up where the Manhattan Project 2.0's "great schism" left off, shifting focus to the specific legal and bureaucratic mechanisms — [[Special Access Programs (SAPs)]], [[Content-Only Special Access Program|content-only SAPs]], and [[Covert Action Program (50 U.S. Code § 3093)|non-covert action designations]] — that Gerb argues allow the fragmented, post-1994 legacy program structure to remain hidden from Congress and the executive branch today. See [[Legacy Program Onion Model]] for the full modern secrecy framework.
 
 ## Sources
 

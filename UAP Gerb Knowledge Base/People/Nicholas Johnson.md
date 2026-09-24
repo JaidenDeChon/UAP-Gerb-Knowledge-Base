@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-**Nicholas L. Johnson** is a scientist who served as NASA's Chief Scientist for Orbital Debris at the [[NASA Johnson Space Center]]. Johnson played a crucial role in debunking the theory that the [[1965 Kecksburg UFO Crash]] was caused by the Soviet spacecraft [[Cosmos 96]] or any other man-made object.
+**Nicholas L. Johnson** is a scientist who served as NASA's Chief Scientist for Orbital Debris at the [[Johnson Space Center|NASA Johnson Space Center]]. Johnson played a crucial role in debunking the theory that the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]] was caused by the Soviet spacecraft [[Cosmos 96]] or any other man-made object.
 
 ## Analysis of the Kecksburg Case
 

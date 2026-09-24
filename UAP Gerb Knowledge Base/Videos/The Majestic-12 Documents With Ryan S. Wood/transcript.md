@@ -2,8 +2,8 @@
 title: "Transcript - The Majestic-12 Documents [With Ryan S. Wood]"
 video_id: vzB87RJkQVU
 url: https://www.youtube.com/watch?v=vzB87RJkQVU
-date: NA
-duration_seconds: 0
+date: 2024-08-25
+duration_seconds: 6017
 channel: UAP Gerb
 tags:
   - transcript

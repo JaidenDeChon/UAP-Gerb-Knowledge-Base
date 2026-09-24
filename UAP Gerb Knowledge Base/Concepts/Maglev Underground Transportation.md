@@ -29,7 +29,7 @@ A significant body of acknowledged above-board research into high-speed undergro
 - **1967**: The US Department of Commerce multi-agency panel report "R&D for High-Speed Ground Transportation" recommended accelerated research, stating that "regardless of the system adopted, it can be assumed that extensive tunneling will be involved."
 - **1970**: TRW published "State-of-the-Art Tube Vehicle System," discussing tube systems and tunnels up to 3,000 feet underground with trains traveling at 450 mph.
 - **1972**: RAND Corporation published the VHST study by Robert Salter, proposing a continental deep underground electromagnetic system at speeds up to 14,000 mph.
-- **Early 1990s**: The National MagLev Institute (NMI), a joint DOE/Army Corps of Engineers program, published system concept definition studies involving Boeing, General Dynamics, Grumman, Battelle, and Honeywell.
+- **Early 1990s**: The [[National Maglev Initiative]] (NMI), a joint DOE/Army Corps of Engineers program, published system concept definition studies involving Boeing, General Dynamics, Grumman, Battelle, and Honeywell.
 
 ## Witness Testimony
 

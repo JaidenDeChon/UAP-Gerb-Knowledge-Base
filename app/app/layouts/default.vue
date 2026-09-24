@@ -25,7 +25,11 @@ const router = useRouter()
 onMounted(() => {
   registerScrollContainer(mainRef.value)
 })
-router.beforeEach(() => {
+router.beforeEach((to, from) => {
+  // A same-path replace (the timeline syncing its filters to the query) isn't
+  // leaving the page. Treating it as leaving cancelled a Back restore still in
+  // flight and saved the half-restored scroll over the real one.
+  if (to.path === from.path && !to.hash) return
   saveOutgoingScroll()
 })
 </script>

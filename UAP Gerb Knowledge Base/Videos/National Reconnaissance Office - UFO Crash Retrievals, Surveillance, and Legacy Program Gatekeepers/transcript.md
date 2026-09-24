@@ -2,8 +2,8 @@
 title: "Transcript - National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers"
 video_id: GM1Qx9vuo2c
 url: https://www.youtube.com/watch?v=GM1Qx9vuo2c
-date: NA
-duration_seconds: 0
+date: 2025-12-13
+duration_seconds: 11525
 channel: UAP Gerb
 tags:
   - transcript

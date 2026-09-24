@@ -2,8 +2,8 @@
 title: "Michael Herrera: UFO Whistleblower (ft. Joeyisnotmyname)"
 video_id: 6DyTfIV87Ck
 url: https://www.youtube.com/watch?v=6DyTfIV87Ck
-date: NA
-duration_seconds: 0
+date: 2024-03-28
+duration_seconds: 3279
 channel: UAP Gerb
 tags:
   - transcript

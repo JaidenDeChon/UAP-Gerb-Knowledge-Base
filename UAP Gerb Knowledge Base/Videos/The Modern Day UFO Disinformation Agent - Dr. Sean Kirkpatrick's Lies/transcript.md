@@ -2,8 +2,8 @@
 title: "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies"
 video_id: hK24ZdkvwN4
 url: https://www.youtube.com/watch?v=hK24ZdkvwN4
-date: NA
-duration_seconds: 0
+date: 2024-01-26
+duration_seconds: 794
 channel: UAP Gerb
 tags:
   - transcript

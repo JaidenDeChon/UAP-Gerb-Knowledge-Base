@@ -2,8 +2,8 @@
 title: "Transcript - The 1965 Kecksburg, Pennsylvania UFO Crash"
 video_id: rgBTMzFd-hg
 url: https://www.youtube.com/watch?v=rgBTMzFd-hg
-date: NA
-duration_seconds: 0
+date: 2024-09-12
+duration_seconds: 4538
 channel: UAP Gerb
 tags:
   - transcript

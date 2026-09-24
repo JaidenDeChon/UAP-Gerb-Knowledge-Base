@@ -1,10 +1,908 @@
 {
   "o4czWtSxGig": {
     "title": "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline",
-    "published": null,
+    "published": "2026-09-18",
     "enriched_at": "2026-09-20T02:00:00Z",
-    "components": ["wiki-stat-strip", "wiki-timeline", "wiki-org-chart", "wiki-roster"],
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-chain",
+      "wiki-org-chart",
+      "wiki-roster"
+    ],
     "cues": "verified",
-    "note": "The pilot for the rich article format."
+    "note": "The pilot for the rich article format.",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "107BtDYhTkA": {
+    "title": "The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs",
+    "published": "2026-08-07",
+    "enriched_at": "2026-09-23T07:24:16Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-chain",
+      "wiki-org-chart",
+      "wiki-compare",
+      "wiki-roster",
+      "wiki-claim",
+      "wiki-callout"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "6MsmPrpQqa8": {
+    "title": "Special Access Required - the Secrecy of UFO Crash Retrieval Programs [VOL.2]",
+    "published": "2026-06-19",
+    "enriched_at": "2026-09-23T07:39:41Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-org-chart",
+      "wiki-roster",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-callout",
+      "wiki-compare",
+      "wiki-chain",
+      "wiki-claim"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "jR-h5p2bd-A": {
+    "title": "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs [VOL.1]",
+    "published": "2026-05-01",
+    "enriched_at": "2026-09-23T08:00:27Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-org-chart",
+      "wiki-roster",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-compare",
+      "wiki-chain"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "0kLSp0lH-JQ": {
+    "title": "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs [Vol.2]",
+    "published": "2026-03-20",
+    "enriched_at": "2026-09-23T08:20:15Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-org-chart",
+      "wiki-roster",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-callout",
+      "wiki-figure",
+      "wiki-chain",
+      "wiki-map"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "-IXSZe4xVv4": {
+    "title": "The Hidden Wing - US Air Force UFO Reverse Engineering Programs",
+    "published": "2026-01-30",
+    "enriched_at": "2026-09-23T08:41:32Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-org-chart",
+      "wiki-chain",
+      "wiki-roster",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-callout",
+      "wiki-claim",
+      "wiki-compare",
+      "wiki-map"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "GM1Qx9vuo2c": {
+    "title": "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers",
+    "published": "2025-12-13",
+    "enriched_at": "2026-09-23T08:57:17Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-org-chart",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-callout",
+      "wiki-figure",
+      "wiki-roster",
+      "wiki-compare",
+      "wiki-claim"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "mHkPHd_eOXI": {
+    "title": "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs",
+    "published": "2025-11-01",
+    "enriched_at": "2026-09-23T09:15:55Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-org-chart",
+      "wiki-chain",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-callout",
+      "wiki-watch",
+      "wiki-roster",
+      "wiki-claim",
+      "wiki-map"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "X6JfbfmvgMo": {
+    "title": "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs",
+    "published": "2025-09-26",
+    "enriched_at": "2026-09-23T09:32:33Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-org-chart",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-callout",
+      "wiki-watch",
+      "wiki-roster",
+      "wiki-chain",
+      "wiki-claim",
+      "wiki-map"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "ShoUyC1aip0": {
+    "title": "1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE",
+    "published": "2025-08-17",
+    "enriched_at": "2026-09-23T09:48:53Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-watch",
+      "wiki-callout",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-org-chart",
+      "wiki-roster",
+      "wiki-compare",
+      "wiki-map"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "QJxbyu-9Tj0": {
+    "title": "The 1948 Aztec, New Mexico UFO Crash Retrieval",
+    "published": "2025-07-19",
+    "enriched_at": "2026-09-23T16:33:46Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-org-chart",
+      "wiki-roster",
+      "wiki-callout",
+      "wiki-cue",
+      "wiki-watch",
+      "wiki-compare",
+      "wiki-claim",
+      "wiki-chain"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "9p99lTsC7wQ": {
+    "title": "UFO Legacy Programs - Science Applications International Corporation (SAIC)",
+    "published": "2025-06-21",
+    "enriched_at": "2026-09-23T10:28:49Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-org-chart",
+      "wiki-chain",
+      "wiki-roster",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-callout",
+      "wiki-watch",
+      "wiki-claim"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "7Jc2G5aEH0A": {
+    "title": "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt",
+    "published": "2025-05-16",
+    "enriched_at": "2026-09-23T10:45:57Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-org-chart",
+      "wiki-watch",
+      "wiki-callout",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-roster",
+      "wiki-compare",
+      "wiki-map",
+      "wiki-claim"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "H9GSqOEvoBE": {
+    "title": "US Navy UFO Crash Retrieval & Reverse Engineering Programs",
+    "published": "2025-04-11",
+    "enriched_at": "2026-09-23T11:04:15Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-org-chart",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-callout",
+      "wiki-watch",
+      "wiki-roster",
+      "wiki-compare",
+      "wiki-chain"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "7Ats0lIy3Lo": {
+    "title": "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs",
+    "published": "2025-03-18",
+    "enriched_at": "2026-09-23T11:21:55Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-org-chart",
+      "wiki-roster",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-callout",
+      "wiki-cue",
+      "wiki-watch",
+      "wiki-map",
+      "wiki-compare"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "rePrVmR6a68": {
+    "title": "Dugway Proving Ground - UFO Legacy Programs",
+    "published": "2025-02-20",
+    "enriched_at": "2026-09-23T11:38:35Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-org-chart",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-callout",
+      "wiki-cue",
+      "wiki-roster",
+      "wiki-compare"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "E-GleS2aGj0": {
+    "title": "UFO Legacy Programs - Northrop Grumman",
+    "published": "2025-01-27",
+    "enriched_at": "2026-09-23T11:56:22Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-org-chart",
+      "wiki-chain",
+      "wiki-roster",
+      "wiki-cue",
+      "wiki-callout",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-compare",
+      "wiki-map"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "_sv0Otxtcn4": {
+    "title": "Philip J. Corso - US Army UFO Technology Research & Development",
+    "published": "2025-01-03",
+    "enriched_at": "2026-09-23T16:33:46Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-org-chart",
+      "wiki-callout",
+      "wiki-cue",
+      "wiki-claim",
+      "wiki-compare",
+      "wiki-map"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "B7JP0uX0GwY": {
+    "title": "Alien Reproduction Vehicle - TR-3B and the Flying Triangles",
+    "published": "2024-12-01",
+    "enriched_at": "2026-09-23T16:33:46Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-org-chart",
+      "wiki-callout",
+      "wiki-roster",
+      "wiki-compare",
+      "wiki-cue",
+      "wiki-claim",
+      "wiki-chain"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "wF07QMm6joE": {
+    "title": "Alien Reproduction Vehicle - the Testimony of Mark McCandlish",
+    "published": "2024-10-21",
+    "enriched_at": "2026-09-23T12:42:36Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-org-chart",
+      "wiki-chain",
+      "wiki-callout",
+      "wiki-roster",
+      "wiki-compare",
+      "wiki-map"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "U_LSMLGBDNg": {
+    "title": "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2]",
+    "published": "2024-10-02",
+    "enriched_at": "2026-09-23T12:58:12Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-org-chart",
+      "wiki-callout",
+      "wiki-roster",
+      "wiki-compare",
+      "wiki-map"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "rgBTMzFd-hg": {
+    "title": "The 1965 Kecksburg, Pennsylvania UFO Crash",
+    "published": "2024-09-12",
+    "enriched_at": "2026-09-23T16:33:46Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-org-chart",
+      "wiki-chain",
+      "wiki-callout",
+      "wiki-roster",
+      "wiki-claim",
+      "wiki-map",
+      "wiki-compare"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "vzB87RJkQVU": {
+    "title": "The Majestic-12 Documents [With Ryan S. Wood]",
+    "published": "2024-08-25",
+    "enriched_at": "2026-09-23T16:33:46Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-roster",
+      "wiki-org-chart",
+      "wiki-claim",
+      "wiki-compare"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "bL3tMByq_WM": {
+    "title": "The 1974 Coyame, Mexico UFO Crash",
+    "published": "2024-08-09",
+    "enriched_at": "2026-09-23T16:33:46Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-org-chart",
+      "wiki-chain",
+      "wiki-roster",
+      "wiki-claim",
+      "wiki-map",
+      "wiki-compare"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "QJ215I85d5M": {
+    "title": "Off-World Technologies Division – UAP Technology Reverse Engineering",
+    "published": "2024-07-18",
+    "enriched_at": "2026-09-23T13:58:42Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-org-chart",
+      "wiki-roster",
+      "wiki-compare"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "4EMO38JUfVE": {
+    "title": "Michael Herrera - Insights into UAP Encounter and Black Program Insiders",
+    "published": "2024-06-30",
+    "enriched_at": "2026-09-23T16:33:46Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-cue",
+      "wiki-org-chart",
+      "wiki-roster",
+      "wiki-claim",
+      "wiki-chain"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "DcvuglS7ps4": {
+    "title": "\"US Special Forces Confession - I Recovered Crashed UFOs\": Fact or Fiction?",
+    "published": "2024-06-16",
+    "enriched_at": "2026-09-23T14:30:53Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-cue",
+      "wiki-org-chart",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-roster",
+      "wiki-compare"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "9Xk4X41yl2M": {
+    "title": "UFO Whistleblowers [Vol.2]",
+    "published": "2024-05-26",
+    "enriched_at": "2026-09-23T14:41:53Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-roster",
+      "wiki-compare",
+      "wiki-chain"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "8S9qdRWSnD8": {
+    "title": "The 1950s Del Rio, Texas UFO Crashes",
+    "published": "2024-05-17",
+    "enriched_at": "2026-09-23T14:54:02Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-chain",
+      "wiki-roster",
+      "wiki-compare",
+      "wiki-map"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "EKEZ2BClIb0": {
+    "title": "UFO Whistleblowers [Vol.1]",
+    "published": "2024-05-05",
+    "enriched_at": "2026-09-23T15:06:50Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-timeline",
+      "wiki-compare",
+      "wiki-org-chart",
+      "wiki-chain",
+      "wiki-roster"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "Yn-83KbgRN8": {
+    "title": "USO Case Book: Unidentified Submerged Objects Throughout History",
+    "published": "2024-04-26",
+    "enriched_at": "2026-09-23T15:16:48Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-org-chart",
+      "wiki-claim",
+      "wiki-chain",
+      "wiki-map",
+      "wiki-grid",
+      "wiki-panel"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "U-jrx_giINA": {
+    "title": "USO - Unidentified Submerged Objects",
+    "published": "2024-04-17",
+    "enriched_at": "2026-09-23T16:33:46Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-compare",
+      "wiki-claim",
+      "wiki-roster"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "R7DyJRf14nU": {
+    "title": "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group",
+    "published": "2024-04-08",
+    "enriched_at": "2026-09-23T15:38:01Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-roster",
+      "wiki-compare",
+      "wiki-org-chart"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "6DyTfIV87Ck": {
+    "title": "Michael Herrera: UFO Whistleblower (ft. Joeyisnotmyname)",
+    "published": "2024-03-28",
+    "enriched_at": "2026-09-23T22:21:20Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-chain",
+      "wiki-compare",
+      "wiki-claim",
+      "wiki-roster",
+      "wiki-cue"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "FGiwgyLY7Aw": {
+    "title": "The 1933 Magenta, Italy UFO Crash",
+    "published": "2024-03-18",
+    "enriched_at": "2026-09-23T23:13:17Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-compare",
+      "wiki-org-chart",
+      "wiki-cue",
+      "wiki-chain",
+      "wiki-map",
+      "wiki-claim",
+      "wiki-roster"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "inyw4Vfu7Z0": {
+    "title": "The Physics of UFOs– Dr. Kevin Knuth",
+    "published": "2024-03-10",
+    "enriched_at": "2026-09-23T23:27:15Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-compare",
+      "wiki-chain",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-claim",
+      "wiki-roster"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "41V4Pf_8oo4": {
+    "title": "The 1953 Kingman, Arizona UFO Crash",
+    "published": "2024-03-06",
+    "enriched_at": "2026-09-23T23:39:39Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-chain",
+      "wiki-cue",
+      "wiki-map",
+      "wiki-compare",
+      "wiki-claim",
+      "wiki-roster"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "Tubx-CaAaOs": {
+    "title": "FASTWALKERS – UFOs Outside Earth",
+    "published": "2024-02-28",
+    "enriched_at": "2026-09-23T23:52:17Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-compare",
+      "wiki-chain",
+      "wiki-claim",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-cue",
+      "wiki-roster"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "tVdzvvbbHW4": {
+    "title": "UFOs in the Private Sector - Lockheed Martin",
+    "published": "2024-02-23",
+    "enriched_at": "2026-09-24T00:01:40Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-cue",
+      "wiki-compare",
+      "wiki-claim",
+      "wiki-org-chart",
+      "wiki-roster"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "tISTJRPOqFo": {
+    "title": "UFOs in the Private Sector - Battelle Memorial Institute",
+    "published": "2024-02-19",
+    "enriched_at": "2026-09-24T00:11:47Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-chain",
+      "wiki-claim",
+      "wiki-roster"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "kKbSIfc7N7Q": {
+    "title": "SOL Foundation: Karl Nell - A Key Figure in UAP Disclosure",
+    "published": "2024-02-14",
+    "enriched_at": "2026-09-24T00:25:08Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-compare",
+      "wiki-claim",
+      "wiki-timeline",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-chain",
+      "wiki-roster"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "i6fitvV-aO0": {
+    "title": "Incredible UFO Footage - METAPOD",
+    "published": "2024-02-13",
+    "enriched_at": "2026-09-24T00:35:28Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-chain",
+      "wiki-claim",
+      "wiki-compare"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "xKArN8S9bnM": {
+    "title": "The Origin of the UFO Stigma",
+    "published": "2024-02-10",
+    "enriched_at": "2026-09-24T00:45:28Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-claim",
+      "wiki-compare",
+      "wiki-roster"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "qD1KnudMCO0": {
+    "title": "Incredible UFO Footage - FLYBY",
+    "published": "2024-02-05",
+    "enriched_at": "2026-09-24T00:54:40Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-chain",
+      "wiki-claim",
+      "wiki-org-chart",
+      "wiki-roster"
+    ],
+    "cues": "none",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "6cVe-hdMTCE": {
+    "title": "Global Air Force UFO Encounters You've Probably Never Heard of",
+    "published": "2024-02-02",
+    "enriched_at": "2026-09-24T01:06:28Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-compare",
+      "wiki-cue",
+      "wiki-claim",
+      "wiki-roster"
+    ],
+    "cues": "none",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "-DK2u8HlhDE": {
+    "title": "UFOs and Nuclear Weapons - A Fascinating Connection",
+    "published": "2024-01-29",
+    "enriched_at": "2026-09-24T01:19:16Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-chain",
+      "wiki-compare",
+      "wiki-claim",
+      "wiki-roster"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "hK24ZdkvwN4": {
+    "title": "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies",
+    "published": "2024-01-26",
+    "enriched_at": "2026-09-24T01:30:24Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-chain",
+      "wiki-claim",
+      "wiki-org-chart"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "6ZuHLgVtKu8": {
+    "title": "MOON DUST - The Pentagon's Secret UFO Programs",
+    "published": "2024-01-25",
+    "enriched_at": "2026-09-24T01:41:42Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-compare",
+      "wiki-chain",
+      "wiki-claim",
+      "wiki-roster"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "K_BZkOAw6E0": {
+    "title": "The First Commercial Flight Grounded Due to UFOs",
+    "published": "2024-01-22",
+    "enriched_at": "2026-09-24T01:53:25Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-chain",
+      "wiki-map",
+      "wiki-compare",
+      "wiki-claim",
+      "wiki-roster"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "HnxylCl68Tg": {
+    "title": "The Marines Who Got too Close to UFOs",
+    "published": "2024-01-19",
+    "enriched_at": "2026-09-24T02:02:52Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-chain",
+      "wiki-org-chart",
+      "wiki-compare",
+      "wiki-claim",
+      "wiki-roster"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "9FL04mqyZxk": {
+    "title": "The Alien and UFO Obscure Oddities Iceberg (Level 2)",
+    "published": "2024-01-17",
+    "enriched_at": "2026-09-24T02:17:01Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-figure",
+      "wiki-timeline",
+      "wiki-grid",
+      "wiki-panel",
+      "wiki-claim",
+      "wiki-compare",
+      "wiki-roster"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "1en219Vk9K4": {
+    "title": "The Alien and UFO Obscure Oddities Iceberg (Level 1)",
+    "published": "2024-01-12",
+    "enriched_at": "2026-09-24T02:28:31Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-figure",
+      "wiki-timeline",
+      "wiki-chain",
+      "wiki-claim",
+      "wiki-compare",
+      "wiki-roster"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
+  },
+  "yIqkazIZh9I": {
+    "title": "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs",
+    "published": "2024-01-09",
+    "enriched_at": "2026-09-24T02:38:46Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-chain",
+      "wiki-org-chart",
+      "wiki-claim",
+      "wiki-compare",
+      "wiki-roster"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
   }
 }

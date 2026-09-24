@@ -19,7 +19,7 @@ The R2508 Complex sits at the heart of what UAP Gerb identifies as a corridor of
 - **Plant 42, Palmdale** — Where [[Lockheed Martin|Lockheed Martin Skunk Works]] and Northrop Grumman operate classified aircraft programs
 - **Helendale** — Lockheed's radar cross-section measurement range
 
-The 2004 [[USS Nimitz UFO Incident|Nimitz Tic Tac encounter]] occurred in Warning Areas adjacent to R2508, and the [[Marine Corps Air Ground Combat Center 29 Palms]] — site of [[Rodrik Castle]]'s 1997 encounter — is located to the east of the complex. This geographic concentration of UAP-associated facilities and encounter locations supports theories of a coordinated operational infrastructure for alien reproduction vehicle testing and deployment.
+The 2004 [[2004 Nimitz UAP Encounter (Tic Tac)|Nimitz Tic Tac encounter]] occurred in Warning Areas adjacent to R2508, and the [[Marine Corps Air Ground Combat Center 29 Palms]] — site of [[Rodrik Castle]]'s 1997 encounter — is located to the east of the complex. This geographic concentration of UAP-associated facilities and encounter locations supports theories of a coordinated operational infrastructure for alien reproduction vehicle testing and deployment.
 
 ## Sources
 

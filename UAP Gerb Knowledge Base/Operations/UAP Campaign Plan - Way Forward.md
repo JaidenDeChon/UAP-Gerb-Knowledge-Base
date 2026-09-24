@@ -4,7 +4,7 @@ tags:
   - operation
 ---
 
-The UAP Campaign Plan — Way Forward is a structured five-phase UAP disclosure roadmap developed by retired U.S. Army Colonel [[Karl Nell]] and presented at the [[Sol Foundation]] Symposium in November 2023. The plan operates across four simultaneous channels — public sector, philosophical investigation, scientific research, and private sector — and targets a series of phase transition points between January 2024 and October 2034, with Phase 3 (October 2030) identified as the potential public disclosure inflection point for humanity. The campaign plan is one of the most detailed strategic disclosure frameworks put forward by a credentialed firsthand UAP witness in the public record.
+The UAP Campaign Plan — Way Forward is a structured five-phase UAP disclosure roadmap developed by retired U.S. Army Colonel [[Karl Nell]] and presented at the [[SOL Foundation Symposium]] in November 2023. The plan operates across four simultaneous channels — public sector, philosophical investigation, scientific research, and private sector — and targets a series of phase transition points between January 2024 and October 2034, with Phase 3 (October 2030) identified as the potential public disclosure inflection point for humanity. The campaign plan is one of the most detailed strategic disclosure frameworks put forward by a credentialed firsthand UAP witness in the public record.
 
 ## Overview
 
@@ -27,16 +27,16 @@ The campaign plan operates simultaneously through:
 | Phase 1 | January 1, 2024 | Government acceptance; UAP established as bipartisan political issue |
 | Phase 2 | January 1, 2026 | UAP signature correlation and academic integration |
 | Phase 3 | October 2030 | **Public acceptance; potential controlled disclosure inflection point** |
-| Phase 4 | October 2034 | Answer the five W's of UAP (noted by Nell as off-target) |
+| Phase 4 | October 2034 | Answer the five W's of UAP (marked off target on the slide) |
 | Phase 5 | Indefinite | Interactive approach; integration of non-human intelligence and NHI technology with Earth civilization |
 
-Phase 3 is Nell's identified critical threshold. He argued that without public acceptance by 2030, the risk of catastrophic uncontrolled disclosure — triggered by an adversary or by NHI themselves — becomes unacceptably high. Phase 4, which involves fully answering who, what, when, where, and why for the UAP phenomenon, was characterized by Nell himself as likely off-target given the pace of progress.
+Phase 3 is the plan's inflection point, possibly humanity's disclosure point; Gerb calls public acceptance "a tall ask". The slide marks Phase 2 as still at risk and Phase 4 (fully answering who, what, when, where and why) as off target. By early 2024 Gerb judged Phase 1 all but complete, ending with the [[Schumer Amendment (NDAA)|Schumer legislation]].
 
 ## Significance
 
 Nell is identified as one of the 40 firsthand witness whistleblowers whose testimony informed [[David Grusch]]'s 2023 congressional disclosure. His presentation at the [[Sol Foundation]] — alongside Grusch, [[Chris Mellon]], [[Kevin Knuth]], [[Gary Nolan]], and [[Jacques Vallee]] — represented one of the highest-density concentrations of credentialed UAP researchers and witnesses at a single public event. The campaign plan's granularity, including specific dates, measurable phase targets, and analytical channels, distinguishes it from most UAP public commentary.
 
-Nell also noted that [[AARO]] was conspicuously absent from his Phase Zero narrative-shapers list — a deliberate exclusion indicating his view that AARO does not represent a genuine investigative channel.
+Gerb notes that [[AARO]] is missing from Phase 0's list of narrative shapers, and imagines [[Sean Kirkpatrick]] "seething" about it.
 
 ## Sources
 

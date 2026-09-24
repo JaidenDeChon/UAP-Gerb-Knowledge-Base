@@ -2,8 +2,8 @@
 title: "Transcript - The Hidden Wing - US Air Force UFO Reverse Engineering Programs"
 video_id: -IXSZe4xVv4
 url: https://www.youtube.com/watch?v=-IXSZe4xVv4
-date: NA
-duration_seconds: 0
+date: 2026-01-30
+duration_seconds: 12886
 channel: UAP Gerb
 tags:
   - transcript

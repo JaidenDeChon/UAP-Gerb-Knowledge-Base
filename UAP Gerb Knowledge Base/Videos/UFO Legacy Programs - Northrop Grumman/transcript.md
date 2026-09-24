@@ -2,8 +2,8 @@
 title: "Transcript - UFO Legacy Programs - Northrop Grumman"
 video_id: E-GleS2aGj0
 url: https://www.youtube.com/watch?v=E-GleS2aGj0
-date: NA
-duration_seconds: 0
+date: 2025-01-27
+duration_seconds: 3891
 channel: UAP Gerb
 tags:
   - transcript

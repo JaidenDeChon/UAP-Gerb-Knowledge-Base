@@ -1,5 +1,6 @@
 ---
 name: "Varese, Italy"
+coordinates: [45.8167, 8.8333]
 tags:
   - location
 ---

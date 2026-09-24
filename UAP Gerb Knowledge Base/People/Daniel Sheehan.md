@@ -1,6 +1,7 @@
 ---
 name: "Daniel Sheehan"
 role: "Constitutional attorney; general counsel for Luis Elizondo and Lue Elizondo"
+wikipedia: "Daniel Sheehan (attorney)"
 tags:
   - person
 ---
@@ -48,7 +49,7 @@ Sheehan's description: *"Here's the semicircle of the craft like this and the ed
 
 ### RA's Independent Corroboration (2023)
 
-When Green Beret [[RA]] was shown various examples of alleged UAP iconography during his interviews with [[UAP Gerb]] — including the famous [[Roswell I-Beam]] symbols — he identified **no matches** until shown a recreation of the symbols Sheehan had described.
+When Green Beret [[RA]] was shown various examples of alleged UAP iconography during his interviews with UAP Gerb — including the famous [[Roswell I-Beam]] symbols — he identified **no matches** until shown a recreation of the symbols Sheehan had described.
 
 **RA's reaction:**
 - The symbols Sheehan drew "look quite close to the symbols projected from this anomalous technology"

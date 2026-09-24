@@ -2,8 +2,8 @@
 title: "Transcript - Special Access Required - the Secrecy of UFO Crash Retrieval Programs [VOL.2]"
 video_id: 6MsmPrpQqa8
 url: https://www.youtube.com/watch?v=6MsmPrpQqa8
-date: NA
-duration_seconds: 0
+date: 2026-06-19
+duration_seconds: 12165
 channel: UAP Gerb
 tags:
   - transcript

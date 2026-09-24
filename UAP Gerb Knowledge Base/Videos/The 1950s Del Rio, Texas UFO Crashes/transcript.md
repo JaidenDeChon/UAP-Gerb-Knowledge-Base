@@ -2,8 +2,8 @@
 title: "The 1950s Del Rio, Texas UFO Crashes"
 video_id: 8S9qdRWSnD8
 url: https://www.youtube.com/watch?v=8S9qdRWSnD8
-date: NA
-duration_seconds: 0
+date: 2024-05-17
+duration_seconds: 1852
 channel: UAP Gerb
 tags:
   - transcript

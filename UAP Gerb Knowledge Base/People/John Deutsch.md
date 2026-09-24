@@ -1,6 +1,7 @@
 ---
 name: "John Deutsch"
 role: "Deputy Secretary of Defense (1994–1995); Director of Central Intelligence (1995–1996); former Under Secretary of Defense for Acquisition and Technology; Chairman of SAPOC Senior Review Group"
+wikipedia: "John M. Deutch"
 tags:
   - person
   - government
@@ -34,7 +35,7 @@ UAP Gerb's investigation into the [[MITRE Corporation]] states that Deutsch serv
 
 ## SAP Governance Role
 
-UAP Gerb's *Special Access Required Vol.2* names Deutsch, alongside [[Bill Perry]], as one of the historical chairs of the [[Special Access Programs (SAPs)|SAPOC]] Senior Review Group (SRG) — the body established in 1994 to serve as the primary gatekeeping structure for access to the most sensitive DoD Special Access Programs, including those the presenter alleges are connected to the UFO legacy program portfolio.
+UAP Gerb's *Special Access Required Vol.2* names Deutsch, alongside [[Bill Perry]], as one of the historical chairs of the [[SAPOC (Special Access Program Oversight Committee)|SAPOC]] Senior Review Group (SRG) — the body established in 1994 to serve as the primary gatekeeping structure for access to the most sensitive DoD Special Access Programs, including those Gerb alleges are connected to the UFO legacy program portfolio.
 
 ## SAIC Connection
 

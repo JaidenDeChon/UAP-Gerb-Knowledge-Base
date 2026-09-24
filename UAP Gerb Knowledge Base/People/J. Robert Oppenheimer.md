@@ -1,6 +1,7 @@
 ---
 name: "J. Robert Oppenheimer"
 role: "Theoretical physicist; scientific director of the Manhattan Project; alleged participant in UFO crash retrieval analysis"
+wikipedia: "J. Robert Oppenheimer"
 tags:
   - person
 ---

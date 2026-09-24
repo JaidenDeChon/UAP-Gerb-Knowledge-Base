@@ -1,5 +1,6 @@
 ---
 name: "Corpus Christi, Texas"
+coordinates: [27.7428, -97.4019]
 tags:
   - location
 ---

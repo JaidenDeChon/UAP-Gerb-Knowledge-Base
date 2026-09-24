@@ -1,6 +1,7 @@
 ---
 name: "Leonard Stringfield"
 role: "UFO crash retrieval researcher; author"
+wikipedia: "Leonard H. Stringfield"
 tags:
   - person
 ---
@@ -31,11 +32,11 @@ Between 1985 and 1987, a man named [[Jeff Morse]] contacted Stringfield claiming
 
 ## Investigation of the Kecksburg Case
 
-Stringfield worked closely with Pennsylvania researcher [[Stan Gordon]] on the [[1965 Kecksburg UFO Crash]], one of the most thoroughly documented alleged UAP retrieval cases. Stringfield interviewed key witnesses and analyzed evidence over more than a decade, featuring the case extensively in his *UFO Crash Retrieval: The Inner Sanctum* status reports.
+Stringfield worked closely with Pennsylvania researcher [[Stan Gordon]] on the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]], one of the most thoroughly documented alleged UAP retrieval cases. Stringfield interviewed key witnesses and analyzed evidence over more than a decade, featuring the case extensively in his *UFO Crash Retrieval: The Inner Sanctum* status reports.
 
 ### Key Witness Interviews
 
-Stringfield personally interviewed trucker "[[Myron]]," who claimed to have delivered radiation-shielding bricks to [[Wright-Patterson AFB]] days after the Kecksburg crash and to have glimpsed the bell-shaped craft inside a warehouse. The interview was conducted on videotape at Myron's home with the assistance of medical researcher Dr. [[Brian Thompson]]. After extensive questioning, Stringfield stated: "I feel convinced of Myron's sincerity."
+Stringfield personally interviewed trucker "[[Myron]]," who claimed to have delivered radiation-shielding bricks to [[Wright-Patterson Air Force Base|Wright-Patterson AFB]] days after the Kecksburg crash and to have glimpsed the bell-shaped craft inside a warehouse. The interview was conducted on videotape at Myron's home with the assistance of medical researcher Dr. [[Brian Thompson]]. After extensive questioning, Stringfield stated: "I feel convinced of Myron's sincerity."
 
 Stringfield also interviewed Myron's cousin "JS," who corroborated the brick delivery and confirmed seeing the craft on a lowboy trailer the day before the joint delivery. Between March 30 and April 1, 1991, Stringfield conducted follow-up interviews with JS, who provided additional details but remained reluctant to discuss the case extensively due to family concerns.
 
@@ -44,7 +45,7 @@ Stringfield also interviewed Myron's cousin "JS," who corroborated the brick del
 Stringfield maintained a balanced approach to the Kecksburg case, noting both supporting and contradictory testimony. In his 1993 *Status Report 3: Amassing the Evidence*, he discussed testimony from an insider known as "Uncle," who spoke to Stringfield through an intermediary. Uncle claimed:
 
 - Kecksburg involved a crashed spy plane, not a UAP
-- The [[Fort Riley]] and [[Johannesburg, South Africa]] crash cases were genuine
+- The [[Fort Riley, Kansas|Fort Riley]] and [[Johannesburg, South Africa]] crash cases were genuine
 - Disinformation was a significant concern in UAP research
 
 Stringfield did not dismiss Uncle's claims but continued investigating the Kecksburg case for well over a decade, suggesting he found the witness testimony and physical evidence compelling despite alternative explanations.
@@ -71,9 +72,13 @@ These accounts collectively form one of the earliest documented bodies of testim
 
 ## Kingman, Arizona Witness Contacts
 
-In 1997, following a lecture at Lunken Airport in Cincinnati, Ohio, Stringfield was approached by a pilot who claimed to have been present at the [[1953 Kingman, Arizona Crash Retrieval]]. The pilot independently described the recovered biologics in terms consistent with [[Arthur Stansel Jr.]]'s 1973 sworn affidavit: approximately 4 feet tall, large eyes, brown-skinned face, and silvery metallic suits. The pilot's identity was not published.
+After a lecture at Lunken Airport in Cincinnati, Ohio, Stringfield was approached by a pilot who claimed to have been present at the [[1953 Kingman, Arizona Crash Retrieval]]. The pilot independently described the recovered biologics in terms consistent with [[Arthur Stansel Jr.]]'s 1973 sworn affidavit: approximately 4 feet tall, large eyes, brown-skinned face, and silvery metallic suits. The pilot's identity was not published. Gerb's video dates the encounter to 1997, but Stringfield died in December 1994, so it must have taken place earlier.
 
 In 1994, a separate individual, codenamed JLD, made similar claims about the Kingman crash to Stringfield. JLD died shortly afterward, preventing further investigation or documentation.
+
+## The Chihuahua (Coyame) Case
+
+Stringfield wrote in 1994 that he had heard of the [[1974 Coyame, Mexico UFO Crash Retrieval|Chihuahua case]] in the late 1970s or early 1980s, recalling only that a US military team had covertly crossed into Mexico to retrieve the object. He also said that several days before presenting "Retrievals of the Third Kind" at [[MUFON]] in 1978, he was informed "circuitously" by the [[CIA]] that it would be inadvisable to discuss crash information in Mexico or West Germany. When [[Elaine Douglas]] passed him the anonymously mailed [[Denb Report]] in 1993, he judged it "authoritatively written using correct military terminology" and, unlike a hoax, careful to separate hard evidence from speculation. UAP Gerb treats this earlier, independent knowledge as one of the strongest points in the case's favour.
 
 ## Legacy
 
@@ -92,3 +97,4 @@ In *UFO Crash/Retrieval Status Report 5*, Stringfield published a brief account 
 - [[Video - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs]]
 - [[Video - UFO Whistleblowers Vol.2]]
 - Leonard Stringfield, *UFO Crash Retrievals: The Inner Sanctum* series
+- [[Video - The 1974 Coyame, Mexico UFO Crash]]

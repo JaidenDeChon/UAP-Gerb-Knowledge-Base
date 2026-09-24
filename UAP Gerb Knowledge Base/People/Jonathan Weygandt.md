@@ -1,67 +1,57 @@
 ---
 name: "Jonathan Weygandt"
-role: "USMC Lance Corporal; Stinger Avenger Gunner; UAP witness; Disclosure Project witness"
+role: "Former USMC Lance Corporal, low-altitude air defense gunner; witness to the 1997 Peru crash retrieval"
 tags:
   - person
 ---
 
-Jonathan Weygandt is a former United States Marine Corps Lance Corporal who witnessed a crashed egg-shaped UAP and was subsequently detained by [[Department of Energy]] personnel during [[Operation Laser Strike]] in Peru in March or April 1997. His testimony, first recorded by [[Steven Greer]] in 2000 for the [[Disclosure Project]], provides one of the most detailed firsthand accounts of a UAP crash retrieval operation involving [[NEST (Nuclear Emergency Support Team)]] assets and DOE Special Response Teams. After giving his testimony, Weygandt went silent for over two decades, never seeking profit or publicity from his experience, reemerging only in 2023.
+Jonathan Weygandt is a former United States Marine Corps lance corporal who says that in March or April 1997, while deployed to Peru for the counter-narcotics [[Operation Laser Strike]], he came upon a crashed egg-shaped non-human craft embedded in a jungle ridge, and was then detained, interrogated and threatened by an armed team working with Department of Energy personnel. His account, the [[Peru UFO Crash Incident]], was first recorded with [[Steven Greer]] in 2000 and released through the [[Disclosure Project]]. It is among the most detailed first-hand descriptions of a crash retrieval and the team that carried it out. Transcripts of the channel's videos spell his name many ways, including "Wagant", "Wayan" and "Wgant".
 
-## Military Service and Assignment
+## Military service
 
-In February 1997, Weygandt was transferred to [[Pucallpa Airbase]] in Peru to serve in [[Operation Laser Strike]], a [[US Southcom]] counter-narcotics mission involving approximately 20 agencies including the [[USMC]], [[CIA]], and [[USAF]]. He served as a Stinger Avenger Gunner performing perimeter security duties under the command of [[Master Sergeant Chris Diggins]] and [[Major Bob Cole]] as part of [[MAC G28]].
+Weygandt joined the Marine Corps in 1995 and served until 1998. After a back injury in training, he was assigned to the 2nd Low Altitude Air Defense Battalion of [[Marine Air Control Group 28]] at [[Cherry Point, North Carolina Marine Corps Air Station|Marine Corps Air Station Cherry Point]] as a low-altitude air defense gunner, trained on Stinger man-portable missiles and the Avenger surface-to-air system. In February 1997 he moved to his unit's section for Operation Laser Strike, a classified [[US SOUTHCOM|US Southern Command]] operation involving up to 20 US agencies, in which the Marines guarded radar sites and replaced ageing Hawk missile batteries with Stingers and Avengers. The channel's earlier account names Master Sergeant Chris Diggins and Major Bob Cole as his superiors there.
 
-The base operated sophisticated surveillance capabilities including TPS-43 and RR relocatable Over-the-Horizon radar systems, as well as CIA Cessna Citation spotter aircraft, providing multi-sensor detection of airborne targets. While stationed there, Weygandt overheard USAF personnel discussing the tracking of UFOs displaying anomalous flight characteristics.
+Where he was stationed is disputed. Most researchers assume [[Pucallpa]], the operation's main site; UAP Gerb argues for [[USAF Radar Detachment 5, Iquitos]], based on Weygandt's description of a multi-hour flight from Lima with one stop and on the permanent US installations at [[Iquitos, Peru|Iquitos]].
 
-## The 1997 Peru UFO Crash Encounter
+On guard duty in the radar site's command center, Weygandt says he overheard Air Force operators talking about objects flying in and out of the atmosphere at Mach 10 or more, stopping dead and reversing, and that about 30 minutes later an Air Force colonel came in to take the tracking logbooks. He says this happened three or four times while he was on duty.
 
-During a late-night guard detail in March or April 1997, Weygandt, along with [[Staff Sergeant Montray]], [[Sergeant Allen]], and [[Sergeant Atkins]], were ordered to secure what was described as a potentially friendly downed aircraft crash site. Records indicate a shootdown occurred on March 25, 1997, by an A-37 aircraft. By early morning, the platoon of Marines reached the designated area in their Humvees, then proceeded on foot through the bush.
+## The 1997 encounter
 
-Weygandt recalls the site was easy to find due to "a huge gash in the land where something had landed." He, Atkins, and Allen proceeded to investigate the crashed object while the remaining Marines stayed at the initial crash site.
+Between 11 p.m. and midnight one night in March or April 1997, [[Sergeant Montil|Staff Sergeant Montil]], [[Sergeant Allen]] and [[Sergeant Atkins]] told Weygandt that a "possibly friendly" aircraft had gone down and needed securing. (The channel's earlier video notes records of a shootdown by an A-37 aircraft on 25 March 1997.) Eight to ten Marines left in Humvees at 3 to 4 a.m., finished on foot and found the site around first light by the gash the object had cut through the jungle. On point with Allen and Atkins, Weygandt found a metallic egg or teardrop about 10 m high and 20 m long, embedded at 45 degrees in a rock ridge at least 200 feet high.
 
-### The Craft
+He describes the craft as organic-looking and sculpted rather than machined. Its purple-green surface shifted like soap film (the [[Mother of Pearl Effect]]), it cast no shadow in direct sun, and it hummed like an unplugged guitar amplifier while a single light circled it, slowing until the craft powered down. It had gill-like vents, notches and bumps, and three non-flush hatches, one half-open. A large gash in its rear led him, after years of study, to believe it had been downed by fragmentation from a [[MIM-23 Hawk Missile|Hawk missile]], probably fired by Peruvian forces.
 
-What Weygandt encountered was an egg-shaped craft with its narrow end embedded in a cliff face. The craft displayed extraordinary characteristics:
+Weygandt went closest, against the shouts of the two sergeants. A clear liquid as thick as syrup, dripping from the broken hatch and coating the plants, soaked his uniform; he says it discoloured the cloth like acid and permanently took the hair from his legs. Compasses spun and radios failed. Through the half-open hatch he saw a four-fingered arm hanging limply, a detail he says he gave Greer but which was cut from the 2000 interview. He also felt a "presence" projecting fear, reassurance and a request for help into his mind, and he has since pictured the occupants as tall grey beings, 8 to 10 feet tall with elongated heads, perhaps four or five of them. He came to believe the craft was controlled by thought, an early description of what is now called [[Psionics]].
 
-- **Size and shape**: Egg or teardrop-shaped, with the narrow end jutting out of the cliff
-- **Surface**: Metallic but with fluctuations resembling liquid, described as "gasoline dripping into water" or having a "mother of pearl" effect
-- **Color and light absorption**: The surface was constantly changing and appeared to absorb rather than reflect light
-- **Large gill-like vents**: Running along the exposed side of the craft
-- **Acoustic effects**: Emitted a dull humming sound that instilled profound fear and unease in the Marines
-- **Damage**: A large gash in the side, which Weygandt speculated may have been caused by a Hawk missile system
-- **Psychological effects**: The humming sound created feelings of fear in the witnessing Marines
+## Detention
 
-The craft's characteristics closely resemble descriptions by [[Eric Taber]] of an egg-shaped craft at [[Area 51]] that was completely smooth with no rivets, welding, or visible entry points—suggesting technology fundamentally beyond human engineering capability.
+After 15 to 20 minutes at the craft, the Marines climbed back up the ridge as two to four Army CH-47 Chinooks came in to land, and were held at gunpoint by older men in black fatigues with no insignia or name tapes, who had already been on the ground. Weygandt struck one and was beaten and pinned face-down in the liquid. About 30 people in rain jackets marked "DOE" and in varying levels of MOPP protective gear and containment suits then marched past to the craft. They stripped him to his underwear, bound his feet, cuffed him and carried him on a stretcher to a helicopter, separated from Allen and Atkins.
 
-### Detention by DOE Personnel
+He was flown to a base with permanent structures, possibly Peruvian, where he saw Americans alongside armed Chinese and German personnel, and was held in an underground interrogation room, cuffed to a chair for about 15 hours and kept for up to two days. An operator told him, "we don't" follow the Constitution and threatened him and his family. An unnamed Air Force lieutenant colonel threatened to leave him dead in the jungle and made him sign two secrecy forms. He was driven back to his base, hooded, kept apart with Air Force personnel for three weeks and returned to Cherry Point. (The channel's earlier video, following the Greer interview, describes the 15 hours of interrogation as taking place aboard the CH-47.)
 
-As Weygandt, Atkins, and Allen departed the craft, Weygandt observed a group of men approaching from two landed [[US Army]] CH-47 Chinook helicopters. These individuals wore:
+## Aftermath
 
-- Black fatigues with little to no insignia
-- Hazmat suits
-- [[DOE]] rain jackets with "Delta Oscar Echo" (DOE) markings on the back
-- No name tags
-- Appeared to be older men in their late 30s to 40s
+By May 1997 Weygandt was suffering nightmares, missing time and strange dreams, and he maintains the Marine Corps tried to make him look unstable. By late 1997 he admitted using banned substances so he would be discharged, while his unit and the Criminal Investigation Division made his life "horrific", and he left the Marines in March 1998. The sergeants who were with him went on to long careers.
 
-Weygandt was arrested, stripped of his gear, had his wrists cable-tied, and was taken aboard a CH-47 helicopter where he was interrogated and verbally assaulted for 15 hours. A lieutenant colonel forced him to sign paperwork that Weygandt didn't read due to his state of extreme fear and duress. He was then held with USAF personnel for three weeks before being returned to the United States.
+## Testimony
 
-The presence of personnel wearing DOE insignia—specifically the "big Delta Oscar Echo" on their rain jackets—is the critical detail identifying them as the [[DOE Special Response Team]], sometimes called "Nuclear Commandos." This shadow DOE special operations unit has arrest authority when dealing with protection of DOE National Labs and assets. In 1997, Special Response Teams were staffed by contractors such as [[EG&G]].
+On 1 August 2000 Weygandt described the encounter and Operation Laser Strike to Greer's team, and about two months later recorded his testimony, with questions from filmmaker [[James Fox]]. It was published through the Disclosure Project in 2001. He then stayed out of public view, never seeking to profit from the story, until a 2023 podcast with [[Martin Willis]] that added little. Researchers [[RGH UFOs]] and [[TAGOM]] examined the case in 2023. In 2025 UAP Gerb, who has become a friend, recorded new in-person conversations with him at his home in the South. Gerb describes him as a private, reluctant man who dislikes being on camera, with a successful career and family life.
 
-## Significance of DOE Involvement
+## Interpretations
 
-The DOE connection is critical to understanding the classification architecture surrounding UAP crash retrievals. The [[DOE Special Response Team]] is part of [[NEST (Nuclear Emergency Support Team)]], which comprises special forces, scientists, technicians, and engineers combined with [[US Army 52nd EOD]] for emergency response operations. NEST technical information is classified at the level of [[Special Access Programs]].
+UAP Gerb identifies the science team as the Department of Energy's [[NEST (Nuclear Emergency Support Team)|Nuclear Emergency Support Team]], possibly flown from [[Sandia National Laboratories]] on warning from [[NRO (National Reconnaissance Office)|NRO]]-managed [[Defense Support Program (DSP)]] satellites. He suggests the armed men were the [[US Army 7th Special Forces Group]], with a [[DOE Special Response Teams (SRTs)|DOE Special Response Team]] as a less likely alternative, and that the Chinooks came from the [[1st Battalion 228th Aviation Regiment]] of [[Joint Task Force Bravo]]. The channel's earlier video instead identified the armed personnel as a DOE Special Response Team. Gerb also suggests Weygandt was held at the Navy's [[NAMRU South, Lima, Peru|NAMRU South]] because of possible contamination, while conceding that he received no medical examination there.
 
-NEST's primary intelligence comes from the [[National Reconnaissance Office (NRO)]] and [[CIA]], with support from DOE contractors including [[EG&G]], [[Raytheon]], and [[Lockheed Martin]]. The historical connection is significant: the [[Department of Energy]] and [[Nuclear Regulatory Commission]] were formerly the [[Atomic Energy Commission (AEC)]], which has been repeatedly named in connection with the classification of crashed UFO materials and craft.
+In 2025 one of the sergeants Weygandt names told Gerb that the operation is still classified, that he knew of no unique downed aircraft, that Weygandt had a medical condition and never deployed to Laser Strike. Gerb disputes the last claim, since Marines from Weygandt's unit did deploy, and objects to dismissing witnesses over their health, as has been done with [[David Grusch]] and [[Michael Herrera]].
 
-The 2024 UAP NDAA legislation authored by [[Chuck Schumer]] explicitly states the AEC has been used to misclassify UAP records as "trans-classified foreign nuclear material," thereby exempting them from disclosure requirements. This legislative acknowledgment validates Weygandt's identification of DOE personnel at the crash site as evidence of an organized, protocol-driven crash retrieval apparatus operating under nuclear-related classification authorities.
+The craft invites comparison with other egg-shaped accounts, including the [[1953 Camp Polk UFO Crash Retrieval]], [[Albert Bruce Collins]]'s 1947 sighting at Berkeley, and [[Eric Taber]]'s description of a smooth egg-shaped craft at [[Area 51]]. Weygandt is also one of three Marines, with [[Rodrik Castle]] and Michael Herrera, who say they were given an anthrax booster after their encounters.
 
-## Public Testimony and Aftermath
+## Comparison with Coyame
 
-Weygandt's testimony first appeared in a 2001 interview with Steven Greer for the Disclosure Project. The interview was conducted approximately two months after Weygandt reached out to Greer's team in August 2000. After telling his story publicly, Weygandt essentially disappeared from public view until 2023, never attempting to gain profit or seek publicity from his experience—a fact that lends credibility to his account.
-
-The body language, specific technical details, and particularly the identification of DOE personnel—entities that would only be known to someone with genuine exposure to such operations—make Weygandt's testimony one of the most credible firsthand accounts of a UAP crash retrieval in the historical record.
+UAP Gerb sets Weygandt's account beside the [[1974 Coyame, Mexico UFO Crash Retrieval]] as a possible shared operational template for cross-border retrievals. In both, the [[CIA]] is involved, a twin-rotor helicopter brings in the recovery personnel, and the personnel wear hazmat or bio-protection suits. In both, there are signs of harm from proximity to the craft: Weygandt's intense, unexplainable fear, and the deaths of the Mexican soldiers who first recovered the Coyame disc.
 
 ## Sources
 
-- [[Video - The Marines Who Got too Close to UFOs]]
 - [[Video - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt]]
+- [[Video - The Marines Who Got too Close to UFOs]]
+- [[Video - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE]]
+- [[Video - The 1974 Coyame, Mexico UFO Crash]]

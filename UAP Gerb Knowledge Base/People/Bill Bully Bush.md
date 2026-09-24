@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-**Bill "Bully" Bush** was a civilian resident near [[Kecksburg, Pennsylvania]] who independently witnessed the [[1965 Kecksburg UFO Crash]] and provided a detailed firsthand account that corroborated the testimony of volunteer fireman [[Jim Romansky]], despite having no known contact with him. Bush is notable as the only witness to report a strong sulfuric odor at the crash site.
+**Bill "Bully" Bush** was a civilian resident near [[Kecksburg, Pennsylvania]] who independently witnessed the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]] and provided a detailed firsthand account that corroborated the testimony of volunteer fireman [[Jim Romansky]], despite having no known contact with him. Bush is notable as the only witness to report a strong sulfuric odor at the crash site.
 
 ## The Sighting and Investigation
 
@@ -28,7 +28,7 @@ Bush's description of the object closely matched that of [[Jim Romansky]], thoug
 
 Bush provided several observations not corroborated by other witnesses:
 
-- **Sulfuric Odor**: The rotten egg smell is unique to Bush's testimony. Similar sulfuric or ammonia-like odors have been reported in other UAP cases, including the [[1997 Varginha Brazil UFO Case]], suggesting possible commonalities in crash site environments or propulsion residue
+- **Sulfuric Odor**: The rotten egg smell is unique to Bush's testimony. Similar sulfuric or ammonia-like odors have been reported in other UAP cases, including the [[Varginha, Brazil|1997 Varginha Brazil UFO Case]], suggesting possible commonalities in crash site environments or propulsion residue
 - **Controlled Descent**: Bush explicitly described the object making a figure-eight maneuver before descending, strongly contradicting the [[Project Blue Book]] conclusion that it was a meteor
 - **Electrical Activity**: The blue arcing light and sizzling sounds suggested the craft was either cooling down or discharging energy
 

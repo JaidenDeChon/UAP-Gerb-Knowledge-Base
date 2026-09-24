@@ -2,8 +2,8 @@
 title: "Transcript - The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs [VOL.1]"
 video_id: jR-h5p2bd-A
 url: https://www.youtube.com/watch?v=jR-h5p2bd-A
-date: NA
-duration_seconds: 0
+date: 2026-05-01
+duration_seconds: 12673
 channel: UAP Gerb
 tags:
   - transcript

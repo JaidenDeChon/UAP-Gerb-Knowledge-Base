@@ -1,6 +1,7 @@
 ---
 name: "Catherine Austin Fitts"
 role: "Former US Assistant Secretary of Housing and Urban Development; financial analyst and black budget researcher"
+wikipedia: "Catherine Austin Fitts"
 tags:
   - person
 ---

@@ -4,6 +4,6 @@ tags:
   - concept
 ---
 
-Wagant used damage patterns on the recovered craft to theorize it was struck by a Hawk missile system operated by Peruvian forces.
+Weygandt used damage patterns on the recovered craft to theorize it was struck by a Hawk missile system operated by Peruvian forces.
 
-Damage patterns on the egg-shaped craft that led Wagant to theorize it had been struck by a missile system.
+Damage patterns on the egg-shaped craft that led Weygandt to theorize it had been struck by a missile system.

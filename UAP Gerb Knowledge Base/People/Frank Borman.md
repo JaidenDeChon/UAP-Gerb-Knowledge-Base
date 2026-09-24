@@ -13,9 +13,9 @@ During the Gemini 7 mission in December 1965, Borman reported observing a "bogey
 
 ## Apollo 8 UFO Film Allegation (1968)
 
-An anonymous witness listed as number 101179 in [[Steven Greer]]'s Disclosure Project archives claimed to have seen an uncut [[NASA]] film depicting six UFOs descending onto the lunar surface, allegedly taken by Borman during the Apollo 8 mission. UAP Gerb identified this witness as [[Elaine Boder]], at that time president of the French national aeronautical and astronautical Association UAP division ([[3af-p (French national aeronautical and astronautical Association UAP division)|3af-p]]).
+An anonymous witness listed as number 101179 in [[Steven Greer]]'s Disclosure Project archives claimed to have seen an uncut [[NASA]] film depicting six UFOs descending onto the lunar surface, allegedly taken by Borman during the Apollo 8 mission. UAP Gerb identified this witness as [[Alain Boudier]], at that time president of the French national aeronautical and astronautical Association UAP division ([[3af-p (French national aeronautical and astronautical Association UAP division)|3af-p]]).
 
-Separately, [[Harland Bentley]] claimed to have overheard Houston Mission Control and the Apollo 8 crew discussing a saucer-like craft paralleling their trajectory during the mission, with visible portals and movement suggesting occupants. UAP Gerb treats the Bentley and Boder claims as parallel but unverified and apparently unconnected threads. No authenticated film of the alleged encounter has surfaced, and UAP Gerb was unable to find any independent documentation of the incident as of the time of the video's production.
+Separately, [[Harland Bentley]] claimed to have overheard Houston Mission Control and the Apollo 8 crew discussing a saucer-like craft paralleling their trajectory during the mission, with visible portals and movement suggesting occupants. UAP Gerb treats the Bentley and Boudier claims as parallel but unverified and apparently unconnected threads. No authenticated film of the alleged encounter has surfaced, and UAP Gerb was unable to find any independent documentation of the incident as of the time of the video's production.
 
 ## Sources
 

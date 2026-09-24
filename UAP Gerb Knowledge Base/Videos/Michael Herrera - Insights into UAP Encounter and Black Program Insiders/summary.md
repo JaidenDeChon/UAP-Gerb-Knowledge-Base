@@ -1,441 +1,507 @@
 ---
 title: "Michael Herrera - Insights into UAP Encounter and Black Program Insiders"
-date: NA
+date: 2024-06-30
 video_id: 4EMO38JUfVE
 url: https://www.youtube.com/watch?v=4EMO38JUfVE
 channel: UAP Gerb
-duration_seconds: 0
+duration_seconds: 7520
 tags:
   - video
   - uap-gerb
 ---
 
-## Summary
-The video features an extended interview with Michael Herrera, a USMC veteran and AARO whistleblower, conducted by YouTubers UAP Gerb and Joey Is Not My Name, in which Herrera details his 2009 encounter in Indonesia where he and five fellow Marines allegedly observed a large, silent, octagonal craft that absorbed light, rested on an elevated platform, and was surrounded by eight unidentified armed operators who disarmed and scanned the Marines' IDs before the craft changed color and departed. Herrera claims that AARO's Historical Report Volume One deliberately misrepresented his testimony by falsely attributing statements about extraterrestrial vehicles and U.S. Special Forces that he says he never made, and that AARO director Sean Kirkpatrick showed little interest during his April 2023 interview, asking only three repetitive questions. The video also covers Herrera's subsequent contact with an alleged CIA Non-Official Cover operative and other unnamed insiders who claim involvement in classified UAP programs, providing him with information about covert operations including the alleged use of human beings as "pink assets," reverse-engineered craft indistinguishable from non-human intelligence vehicles, and factions within these programs divided between pro-disclosure and cover-up actors. Herrera states his motivation for coming forward was enabled by recently passed whistleblower protections, and that he has been in contact with fellow UAP whistleblower David Grusch as part of broader disclosure efforts.
+::wiki-stat-strip
+---
+stats:
+  - value: "6 v 8"
+    label: Marines v operators
+    hint: At the clearing, 2009
+  - value: 4
+    label: Black trucks
+    hint: Each towing a container
+  - value: "~10 ft"
+    label: Platform lift
+    hint: Before the craft left
+  - value: 3
+    label: AARO questions
+    hint: All about the operators
+---
+::
 
-## People
-- [[Michael Herrera]] — Claims to have witnessed a UAP and encountered a black program in Indonesia in 2009
-- [[UAP Gerb]] — Host of the interview with Michael Herrera
-- [[Joey Is Not My Name]] — Co-hosted the interview and was one of the first to investigate Michael Herrera's claims
-- [[Unknown Narrator]] — First-person account of encountering a UAP and armed personnel at a landing/crash site
-- [[Unknown WitnessOperator]] — Describes encountering black trucks, shipping containers with cylinders, and being weapons-checked near an unidentified craft
-- [[Gunnery Sergeant (Unknown)]] — Appeared at the LZ after the witness's team returned from the encounter; was communicating via radio and coordinated helicopter extraction; witness had never seen him before
-- [[Gunnery Sergeant (unnamed)]] — Encountered the witness and other Marines at the LZ after the UAP incident, appeared agitated and yelled at them
-- [[Female Major (USMC)]] — Briefed volunteers in the wardroom, showed pictures of Obama and his family members during the briefing
-- [[Barack Obama]] — Pictures of Obama as a child and his family members were shown during the volunteer briefing aboard the ship
-- [[Female Major]] — Described as conducting the mission briefing aboard the ship; memorable to the witness due to her appearance
-- [[Richard Land]] — Debriefed personnel after the mission and gave a press conference briefing about the humanitarian relief operation in Indonesia, including details about crowd control and cargo delivery.
-- [[Air Force Lieutenant Colonel (unnamed)]] — Mentioned as a known figure present at the operation, possibly related to the UAP/crash retrieval site
-- [[Air Force Colonel (unnamed)]] — Rumored to have confronted early-arriving Marines for carrying rifles and sent them back to the ship due to bad optics
-- [[Unknown Marine Witness]] — First-person account of a military operation involving helicopter transport to a hasty LZ, providing security on a slope
-- [[Unknown Squad Leader]] — Made the tactical decision to move up the slope for elevated security position after landing at the LZ
-- [[Paul]] — Soldier who claims to have witnessed a UAP-related operation during a military mission, possibly in a tropical location; shares firsthand account of the event
-- [[Dodie]] — Mentioned in comparison to Paul's story; described as having encouraged speculation about ET radio communications in the Benowitz case
-- [[Paul Benowitz]] — Referenced as a comparison case; had radio communications and speculated they could be extraterrestrial, with Dodie allegedly egging that on
-- [[Sean Kirkpatrick]] — Conducted an interview with the witness in April 2023; described as asking only three repetitive questions and appearing uninterested
-- [[Nathan]] — Claimed the witness was making up the UFO account; was not part of the squad that observed the UAP and was not on the same mission
-- [[Kirk Patrick]] — Was present in the skiff during the witness's testimony to AARO
-- [[Eric Taber]] — His memorandum for record from AARO testimony is one of the few known released documents
-- [[Brandon]] — Posted a photo on Twitter exposing that a person (likely Sean) lied about not being at a 2018 Skinwalker Ranch briefing
-- [[Sean]] — Accused of lying about attending a 2018 Skinwalker Ranch briefing and spreading false information
-- [[Sten Grønnestad]] — Conducted interviews with Sean that the witness refuses to watch, calling them dishonest
-- [[Josh Bosworth]] — Person to whom the subject sent a photograph that was published in the Daily Mail
-- [[Josh Boswell]] — Spoke with the witness prior to a press conference in DC about UAP-related disclosures
-- [[Steven Greer]] — Referenced as having set up arrangements with the Daily Mail and the National Press Club event
-- [[Michael Stratt]] — Met in person at NPC 2023 event; presenter discussing UAP experiences
-- [[The Insider]] — Attended NPC 2023 and related events; sent an encrypted text message to Dr. Greer referencing knowledge of what the speaker experienced
-- [[Michael]] — The individual whose sighting is being discussed; came forward publicly about what he witnessed
-- [[Dr. Steven Greer]] — Referred to as 'Dr. G' or 'Dr. Gri'; communicated with a source about Michael's sighting and facilitated contact
-- [[Unknown NOC (CIA)]] — Contacted Michael to meet in person, provided documentation and insider knowledge about the operation Michael witnessed; gave Michael a sidearm as a trust gesture
-- [[Unknown InsiderOperative]] — Met with the speaker, showed underground facilities as proof of identity, apologized for harassment, described as a 'sheepdog' who protects innocents and eliminates bad actors
-- [[Unknown Insider(s)]] — Described as sources providing information about UAP retrieval, weapons testing, and alleged human experimentation within black programs
-- [[Joey]] — Clarified not to be Michael's publicist; helped network Michael with key figures in the disclosure movement including David Grusch
-- [[David Grusch]] — Michael states he has talked with David Grusch, referenced in context of disclosure efforts
+## Overview
 
-## Organizations
-- [[AARO]] — Michael Herrera is described as an AARO whistleblower
-- [[United States Marine Corps]] — Michael Herrera served as a USMC veteran and was on a mission in Indonesia in 2009
-- [[US Navy SEALs]] — Mentioned as a possible element present at the UAP encounter site tasked with handling the situation
-- [[US Military]] — General organizational context for the narrator and his unit who encountered the craft
-- [[AARO]] — The witness testified to AARO prior to June 2023 regarding the observed UAP-related activity including the craft, platform, and trucks.
-- [[Secret Service]] — Referenced as a comparison for the appearance of reinforced/up-armored trucks seen at the scene
-- [[Denver]] — Referenced as arriving on the 9th, approximately 9-10 days after an earthquake, in connection with the operation
-- [[Indonesian Military]] — Possibly present at the LZ during the incident in Indonesia near the earthquake disaster area
-- [[Senate Select Committee on Intelligence]] — Members reportedly asked the witness to have fellow Marines provide anonymous testimony about the incident
-- [[AARO]] — Names of the fellow Marines involved were reportedly provided to Pentagon AARO
-- [[The Daily Mail]] — Published an article featuring text messages from a fellow Marine saying 'leave me out of that'
-- [[US Navy]] — Naval vessel hosting the Marines during the deployment to Indonesia
-- [[US Navy]] — Navy personnel were in charge of the ship and held higher authority over visiting Marines/soldiers aboard
-- [[United States Marine Corps]] — The witness and his unit were Marines assigned to the ship for a security mission
-- [[United States Marine Corps]] — Marines were deployed on a humanitarian relief mission delivering supplies, providing security around helicopters, and performing labor tasks.
-- [[US Air Force]] — An Air Force Colonel and Lieutenant Colonel were reportedly present at the operation site
-- [[National Press Club]] — Venue where the witness stated they gave public testimony about their UAP encounter
-- [[The Black Vault]] — Published FOIA-released documents including what appears to be a form related to the witness's AARO testimony
-- [[Daily Mail]] — Published one of only two known photos of the subject, used in a camouflage pattern comparison
-- [[CIA]] — The NOC operative is identified as being affiliated with the CIA under a Non-Official Cover designation
-- [[UAPUFO Unacknowledged Special Access Program (unnamed)]] — Described as a program with insider participants of 30+ years, containing factions of 'good guys' and 'bad guys', with an enforcement arm connected to political corruption
-- [[US Congress]] — Referenced as the body to which insiders want to restore oversight of UAP programs
-- [[US Marshals]] — Mentioned as having jurisdiction everywhere and potentially able to execute enforcement actions related to UAP-related law violations
-- [[Boeing]] — Named as one of the aerospace companies potentially aware of UAP-related programs and technology
-- [[Lockheed Martin]] — Named as one of the aerospace companies potentially aware of UAP-related programs and technology
-- [[Northrop Grumman]] — Named as one of the aerospace companies potentially aware of UAP-related programs and technology
-- [[Reddit]] — Joey used Reddit anonymously to share information and network within the UAP community
+This video is an in-person interview with [[Michael Herrera]], a former [[United States Marine Corps]] SAW gunner who says that in October 2009, during a humanitarian relief mission in Indonesia, he and five other Marines came upon a large, silent, octagonal craft on a raised platform, four black trucks towing shipping containers, and eight armed operators who held them at gunpoint. UAP Gerb co-hosts with the researcher [[Joey Is Not My Name]], one of the first people to investigate Herrera's story seriously, who appears on camera here for the first time. Gerb says he was dismissive of Herrera when he first covered him in *[[Videos/The Marines Who Got too Close to UFOs/summary|The Marines Who Got too Close to UFOs]]*, but has since spent months investigating the case privately. The interviewers deliberately ask the "lesser-asked" questions, assuming viewers already know the basics from Gerb's earlier video with Joey or Herrera's appearance on the Shawn Ryan Show.
 
-## Concepts
-- [[Black Program]] — A classified or covert government/military program; Herrera claims to have met an insider from such a program.
-- [[UAP Encounter]] — An unidentified aerial phenomenon observed by Herrera and his team in Indonesia in 2009, described as a large craft partially visible above the tree line that changed colors and eventually took off.
-- [[Nosbed Tactic]] — A tactical formation using interlocking fields of fire from two sides converging on a target; described by the narrator as used by the unknown operators at the site.
-- [[UAP Acoustic Signature]] — The craft encountered emitted a low hum described as similar to a guitar amplifier or transformer, otherwise operating silently.
-- Three-Round Burst  Semi-Automatic Fire — The narrator's unit was equipped with weapons limited to three-round burst or semi-automatic, contrasted with the possible full-auto capability of the opposing force.
-- Dump Pouch — A military accessory pouch worn on the body; the narrator used his to carry a camera/recording device during the encounter.
-- [[BATS (Biometrics Automated Toolset System)]] — A biometric and tracking system used by the military; the witness states the encountered entities attempted to use a similar system to scan military IDs.
-- [[OctagonalPyramid-shaped Craft]] — A dark, roughly octagonal craft described by the witness with a pyramid-like top, scale-pattern surface, corner vents, and colored lights (red, yellow, green, blue) that activated on takeoff.
-- [[Light Absorption]] — The witness describes the craft as absorbing light rather than reflecting it, making it appear as the darkest object he had ever seen.
-- [[Craft Platform]] — A raised, angled undercarriage or platform beneath the craft, roughly the same length as the craft itself, with pointed features.
-- SAW Drum Pouches — Military equipment used to carry ammunition drums and magazines, referenced in the context of the witness's loadout during the encounter.
-- [[Craft Color Change]] — The observed craft allegedly changed color from a light matte gray to a dark matte black across its entire surface before takeoff.
-- [[Elevating Platform]] — A platform associated with the craft reportedly raised upward slowly before the craft departed, lifting off the ground approximately 10 feet.
-- Pelican Cases — Hard-shell transport cases used to carry weapons or sensitive equipment, observed in truck beds associated with the craft transport operation.
-- [[Trion Configuration]] — A standardized shipping container configuration; the witness identified the containers on the trailers as resembling this setup, with cylinders on the front later identified as oxygen supply.
-- Oxygen Supply Cylinders — Cylinders mounted on the front of shipping containers attached to the trailers; initially hypothesized to be humidity control but later identified as oxygen supply, suggesting the containers may have housed living beings.
-- [[Night Vision Equipment]] — The trucks appeared to have side-mounted attachments resembling military Humvee night vision mounts, suggesting the operation was conducted at night.
-- Up-armored vehicles — Trucks described as reinforced and bullet-resistant, similar to Secret Service vehicles, used to transport containers and weapons cases.
-- [[Compartmentalization]] — The witness notes that information about the operation is compartmentalized, meaning individuals involved only know their specific role or task.
-- [[Weapons strippingcheck]] — A procedure where operators had their magazines and weapons removed by an opposing security team at the scene.
-- [[Pelican casesweapons crates]] — Closed, hard-sided cases resembling weapons cases found on each of the four black trucks observed at the scene.
-- [[Cylindrical object in shipping container]] — A black cylinder spanning the full width of a black shipping container, initially hypothesized by the witness to be humidity control equipment.
-- [[Recruiting in Disaster-Stricken Areas]] — A claimed covert operation in which personnel were allegedly recruited in disaster zones; the witness speculates this may have been ongoing before the earthquake.
-- LZ (Landing Zone) — Designated area for helicopter landings; the location where the witness's team was dropped off and later extracted during the incident.
-- Combat Loading Group — A Marine unit or attachment assigned to a naval ship responsible for loading Marine equipment; mentioned as a possible assignment for the unknown Gunnery Sergeant.
-- [[Red Patch Marines]] — Marines assigned to ships identified by red patches on their covers and uniforms; the unknown Gunnery Sergeant did not appear to have these markings.
-- Mission Volunteers in Sticks — Marines were organized into random groups called 'sticks' for the mission, not selected based on skill set or chain of command.
-- [[Witness Reluctance]] — Fellow Marines involved in the incident are unwilling to come forward or speak publicly, fearing consequences.
-- Stick Organization — Military grouping method where personnel are randomly assigned to small units called 'sticks' rather than selected by skill set.
-- Officer's Chow Detail — A duty assignment aboard ship where enlisted personnel assist with setup and cleaning for officers' meals, typically treated as an 8-hour shift.
-- Forward Deployment — Early deployment of selected personnel to a staging location, in this case Japan, weeks before the main element deploys.
-- [[Chain of Command (Ship-based)]] — On ship, Marines report to a separate logistics-based chain of command distinct from their normal platoon or squad leadership.
-- Wardroom Briefing — A briefing held in the ship's wardroom where a female USMC major solicited volunteers and showed pictures of Obama and family members.
-- Ward Room Briefing — A smaller, officer-designated dining and meeting room on a naval vessel used for mission briefings; described as similar to a cafeteria but more intimate.
-- SAW Gunner — A military role involving operation of the Squad Automatic Weapon (SAW), a belt-fed automatic machine gun; the witness's primary assigned role.
-- [[Super Stallion Heavy Lift Helicopter]] — Large military helicopters (CH-53 Super Stallions) aboard the ship, tasked with delivering supplies to remote villages blocked off by landslides.
-- M203 Grenade Launcher — An underslung grenade launcher attached to an M16 rifle; issued to the witness when he was new to Golf Company as a way to identify team leaders as targets.
-- Security Mission — The mission described involved providing security for supply deliveries to remote villages in a region identified as the second largest terrorist capital in the world.
-- Humanitarian Mission Security — The use of armed personnel during humanitarian relief operations to manage crowd control and protect helicopters from being mobbed by desperate civilians.
-- Crowd Control in Disaster Relief — A key concern during helicopter cargo deliveries in disaster zones where large numbers of desperate civilians may rush aircraft.
-- Bad Optics — A concern raised about Marines arriving with rifles at the operation site, reportedly leading to them being sent back to the ship.
-- Helicopter Landing Zone (LZ) — The area where Marines were inserted by helicopter, described as having thick vegetation and hills.
-- Personnel Transport Mission — The helicopter flights described were strictly for moving personnel, with no supplies loaded.
-- [[360 Security Formation]] — Standard military procedure where troops form a perimeter around a helicopter after landing to provide security before it departs.
-- Hasty LZ (Landing Zone) — An improvised or quickly chosen landing zone, not formally pre-planned or secured, used when a more deliberate option isn't available.
-- Condition Three — A weapons readiness state where a magazine is inserted but no round is chambered and the weapon is on safe.
-- Tactical Elevated Position — Military doctrine of occupying high ground to gain visual advantage and defensive positioning over surrounding terrain.
-- [[Cargo Net Helicopter Transport]] — Method of transporting supplies externally beneath a helicopter using a cargo net or hook, as opposed to internal storage.
-- [[Landing Zone (LZ)]] — A designated area for helicopter landing during military operations; described as an open grassy area in tropical terrain.
-- [[Disinformation Agent]] — A person who spreads false or misleading information; discussed in context of whether Paul's account could be fabricated or planted.
-- [[Coming Forward]] — The act of publicly disclosing a sensitive or controversial experience; Paul expresses reluctance to encourage fellow soldiers to do so.
-- [[Man-made UAP]] — The witness asserts the craft they observed was clearly human-made with human operators, not of extraterrestrial origin, suggesting an advanced but terrestrial black program.
-- [[Witness Credibility and Belief]] — Discussion of how UAP witnesses are often dismissed or doubted, and how personal experience changes one's perspective on other witness testimonies.
-- [[Purposeful Omission  Misrepresentation]] — The witness claims AARO's historical report volume one falsely attributed statements to them they never made, suggesting deliberate distortion of testimony.
-- [[Satellite Imagery as Evidence]] — AARO claimed access to satellite imagery of the incident location but never followed up with the witness to review it despite over a year passing.
-- [[No Rotor Wash]] — The observed craft produced no disturbance to surrounding vegetation, distinguishing it from conventional helicopters or aircraft and marking it as anomalous.
-- Memorandum for Record — A written document summarizing witness testimony provided to AARO, which witnesses could review and sign to certify accuracy.
-- [[Non-Disclosure Agreement (NDA)]] — Legal document signed by the witness restricting disclosure of specific details such as location and identities of others present during AARO testimony.
-- [[Historical Report Volume One]] — AARO's official historical report that the witness claims misrepresented his testimony, falsely attributing statements about extraterrestrial vehicles and US Special Forces.
-- [[NDA (Non-Disclosure Agreement)]] — Agreement signed by the subject and others that threatened their life if they disclosed information about UAP-related operations.
-- [[Whistleblower Protections]] — Recently passed legal protections that effectively rendered certain NDAs illegal, providing a safety net for those coming forward with UAP-related information.
-- [[Insiders]] — Multiple individuals working within an organization related to UAP who have been providing the subject with information and details about their experiences.
-- Camouflage Pattern Matching — A method used to try to identify the subject in a photograph by matching the camouflage pattern to another known photo; the subject disputes this as inconclusive.
-- [[Insider Contact]] — A person claiming insider knowledge of UAP programs who reached out to the witness to confirm and clarify what they witnessed.
-- [[Biological Equipment in UAP Programs]] — Claim that humans are being used as 'biological equipment' in covert programs, allegedly under false pretenses and heavy drugging.
-- [[UAP Disclosure]] — The broader effort to make classified or hidden information about UAPs available to the public.
-- [[Harassment of Witnesses]] — The speaker describes ongoing harassment they interpret as confirmation that they are exposing sensitive information.
-- [[Human Trafficking in UAP Context]] — The claim that crates thought to contain drugs were actually transporting people, connected to covert UAP-related programs.
-- [[Helicopter Tracking via Radar]] — A method used to verify the movements of individuals by tracking helicopter flight data on radar, used to corroborate meeting locations and timing.
-- Encrypted Communication Platform — A high-tech encrypted messaging app, described as not being Signal, used by an insider to communicate sensitive information to Dr. Greer.
-- [[Non-Official Cover (NOC)]] — A CIA term for operatives who work without the protection of official diplomatic cover, making their affiliation deniable.
-- [[Chipping]] — Reference to individuals being implanted with trackable chips; the NOC used a chip-detection device during the meeting.
-- Establishing Trust — The in-person meeting was arranged to build trust between the witness and the NOC operative, including the gesture of providing a sidearm.
-- [[Factions within the Program]] — The idea that UAP-related secret programs contain internal divisions, some favoring disclosure and oversight, others engaged in cover-ups and alleged murders.
-- [[Pro-Disclosure Insiders]] — Longtime participants in UAP programs who support some level of public disclosure and restoring Congressional oversight, but fear loss of pension and family security.
-- [[Sheepdog Operative]] — A term used to describe insiders who identify as protectors of innocent people and patriots while eliminating perceived bad actors.
-- [[Misinformation and Deceit in UAP Programs]] — The claim that deliberate lies and misinformation are being actively maintained around UAP programs, which insiders believe could be blown open if politicians were given full access.
-- [[Whistleblower Risk]] — The danger insiders face when considering coming forward, including loss of pension, financial ruin, and threats to family safety.
-- [[Enforcement Arm of Political Corruption]] — The alleged covert group described as the enforcement mechanism for political corruption, with assets embedded in local, federal, and government institutions.
-- [[NHI (Non-Human Intelligence)]] — Entities described as potentially interdimensional, capable of traveling through time and space, controlling craft with consciousness, and passing through solid objects.
-- [[Interdimensional Travel]] — The claimed ability of NHI to traverse dimensions, pass through solid objects, and travel through time and space.
-- [[Factions - Good vs Bad]] — A described internal war between groups where 'bad guys' want to keep UAP technology secret for power and control, while 'good guys' want disclosure for the benefit of humanity.
-- [[Consciousness-Controlled Craft]] — The claim that NHI entities control their craft through consciousness rather than conventional mechanical means.
-- [[Whistleblower Protection]] — Legal protections for insiders who come forward with UAP information, described as currently insufficient to encourage disclosure.
-- [[Crimes Against Humanity]] — The allegation that bad actors within UAP programs intend to use recovered technology to commit crimes against humanity and maintain power.
-- [[UAP Shootdowns]] — The alleged practice of covert groups shooting down NHI craft in secluded desert areas around the world, raising concerns about potential retaliation.
-- [[Temporary Flight Restricted Areas (TFRs)]] — Restricted airspace zones over certain installations where civilian aircraft are allegedly being targeted by experimental weapons systems.
-- [[Alien Reproduction Vehicle (ARV)]] — A reverse-engineered craft based on non-human intelligence technology, allegedly developed to the point where it is nearly indistinguishable from original NHI craft.
-- [[EMP-Proof UAP]] — Retrieved or reverse-engineered craft allegedly immune to electromagnetic pulse weapons, conventional firearms, and missiles.
-- [[Reverse Engineered Technology]] — Technology derived from retrieved UAP craft, continuously refined and tested using weapons systems on recovered craft.
-- [[Pink Assets]] — Alleged insider term for human beings used as biological assets or subjects within classified UAP-related programs without consent.
-- [[Free Energy]] — The speaker references the possibility that suppressed energy technologies derived from UAP programs could eliminate utility costs if disclosed.
-- [[Non-Human Intelligence (NHI)]] — Entities associated with UAP craft; insiders allegedly struggle to distinguish NHI craft from human-made reverse-engineered versions.
-- Ethical Tug of War — Internal moral conflict among program insiders about whether to disclose classified UAP information to the public.
-- [[Disclosure]] — The process of revealing hidden UAP/NHI information to the public; speaker emphasizes it must be evidence-based, not testimony-based.
-- [[Muddying the Waters]] — The practice of known individuals coming forward with misleading or false UAP claims, complicating legitimate disclosure efforts.
-- [[Whistleblower]] — Someone who reveals hidden or classified information; Michael identifies himself in this role regarding UAP/NHI.
+The interview opens at the moment of the sighting and then goes back through the mission in order. Herrera draws the craft and the trucks on paper. He describes the interception, his disarming and the scanning of his military ID, and the platform rising as the craft turned from matte grey to matte black and flew off. He then walks through life aboard the [[USS Denver]], the wardroom briefing, and the flight to an empty landing zone. Joey brings in open-source material that he says corroborates the setting, including a press briefing by Rear Admiral [[Richard B. Landolt]] and photographs of armed Marines guarding relief helicopters. Herrera insists the craft was man-made and crewed by humans, and that he never told [[AARO]] he saw an extraterrestrial vehicle or US Special Forces, as the [[AARO Historical Report Volume 1]] later stated.
 
-## Events & Dates
-- [[Michael Herrera UAP Encounter in Indonesia]] — Herrera and his USMC team observed an unidentified craft in Indonesia, approached it, and were intercepted by armed individuals believed to possibly be Navy SEALs
-- [[Shawn Ryan Show Podcast Appearance]] — Michael Herrera appeared on the Shawn Ryan Show to discuss his UAP experience
-- [[UAP Ground Encounter]] — The narrator and five fellow operators encountered a landed or stationary craft in a clearing at the bottom of a hill and were immediately intercepted by eight armed, unidentified men who trained weapons on them.
-- [[Armed Interception by Unknown Operators]] — Eight unidentified armed men using a nosbed tactical formation surrounded and held at gunpoint six military personnel who had approached the UAP site.
-- [[CameraVideo Documentation]] — The narrator captured photographs and video of the craft using a camera stored in his dump pouch during the encounter.
-- [[Close Encounter with Unknown Craft and Entities]] — A military unit was disarmed and searched by unknown entities (suspected former military) while an octagonal dark craft with a platform was present in a clearing nearby; the encounter involved 6 soldiers and 8 entities.
-- [[Disarmament and ID Scan by Entities]] — The unknown entities methodically disarmed the soldiers, removed their magazines, and scanned their military IDs using a device described as thinner and more advanced than contemporary smartphones or BlackBerrys.
-- [[Craft Takeoff with Colored Lights]] — The witness observed the craft activate colored lights at its corners (red, yellow, green, blue) as it departed the area.
-- [[Witness Testimony to AARO]] — The witness testified to AARO prior to June 2023 about observations of a craft, an elevating platform, and associated trucks with containers.
-- [[NPPC Testimony]] — The witness participated in an NPPC (likely National Press or Congressional) event in June 2023, after having already testified to AARO.
-- [[Craft Observation and Platform Elevation]] — The witness observed a craft change color, a platform rise approximately 10 feet, and trucks with trailers and containers maneuvering nearby during a security or watch situation.
-- [[Earthquake]] — An earthquake occurred around September 30th, believed to be the reason the covert operation was taking place in the area
-- [[Covert Operation at Disaster Site]] — A covert operation involving black up-armored trucks, cylindrical containers, and armed personnel occurred approximately 9-10 days after the earthquake
-- [[Return to LZ After Encounter]] — Witness and fellow Marines ran back to the landing zone after being threatened and having their weapons returned; they were met by an unknown Gunnery Sergeant who was communicating via radio.
-- [[CH-53 Helicopter Extraction]] — A CH-53 helicopter arrived at the LZ after the Gunnery Sergeant's radio communication and extracted the witness's team from the area.
-- [[Earthquake (Indonesia)]] — A disaster event in Indonesia used as context for a covert recruiting operation; the witness speculates similar operations may have been ongoing throughout the week.
-- [[CH-53 Super Stallion Extraction]] — A CH-53 Super Stallion helicopter landed at the LZ and extracted the Marines after the UAP encounter, returning them to the USS Denver
-- [[Supply Drop by Second Helicopter]] — A second helicopter dropped a cargo net with supplies at a different location on the LZ during the incident timeline
-- [[Conversation at Subic Bay]] — After returning to Subic Bay, the witness asked a fellow Marine if he would tell anyone about the incident; the Marine said absolutely not
-- [[Daily Mail Article Publication]] — The Daily Mail published an article featuring text messages from a fellow Marine witness saying 'leave me out of that' in response to being asked to speak to the Senate Intelligence Committee
-- [[Indonesia Deployment]] — A US Marine deployment to Indonesia aboard a naval vessel, described as non-combat and occurring approximately 15 years before the interview.
-- [[Forward Deployment to Japan]] — The narrator and others assigned to the officer's chow detail were deployed to Japan a few weeks to a month before the main Marine element departed.
-- [[Wardroom Volunteer Briefing]] — A female USMC major briefed a group of Marines in the wardroom, requesting volunteers and displaying images of Barack Obama as a child and his family.
-- [[Mission Briefing Aboard Ship]] — A briefing was conducted in the ward room involving key leaders, NCOs, and a female major; included images of Barack Obama as a child and references to his time in Indonesia.
-- [[Supply Delivery Mission to Remote Villages]] — A military operation involving Super Stallion helicopters delivering supplies to remote villages with roads blocked by landslides, requiring Marine security personnel.
-- [[Indonesia Humanitarian Relief Operation]] — US Marines aboard a ship conducted humanitarian relief missions delivering supplies to Indonesia, with helicopters flying survey teams and cargo to affected areas starting around October 8–9.
-- [[CH-53 Helicopters Deployed for Relief Surveys]] — CH-53 helicopters came aboard on the morning of October 9th and were immediately used to get survey teams to the countryside to identify cargo drop locations.
-- [[Marine Helicopter Insertion to LZ]] — Marines flew via CH-53 Super Stallion helicopters from a ship to an airport with blue roofs, then onward to a landing zone with dense vegetation and hills.
-- [[Marines Sent Back for Carrying Rifles]] — Rumor among platoon members that the first Marines to fly in were confronted by an Air Force Colonel for carrying rifles and ordered back to the ship due to bad optics.
-- [[Helicopter Insertion to Hasty LZ]] — Marines were transported via CH-53 helicopter to an improvised landing zone with no pre-existing personnel present, tasked with providing security.
-- [[Cargo Net Helicopter Drop]] — A separate helicopter with a cargo net on the bottom flew in, dropped its load, and departed; witnessed and recorded on video by the marine.
-- [[Ground Mission with Helicopter Insertion]] — Paul and other soldiers were transported by helicopter to a tropical location, spent a couple of hours on the ground, and returned to the Denver; a second helicopter also landed nearby.
-- [[Return to the Denver]] — After the mission, soldiers returned weapons and borrowed magazines to the armory aboard the Denver.
-- [[AARO Interview with Witness]] — The witness was interviewed by AARO, including Dr. Sean Kirkpatrick; described as interrogation-like with only three repeated questions about operator identities
-- [[AARO Historical Report Volume 1 Release]] — The report allegedly misrepresented the witness's testimony, falsely stating they claimed to see an extraterrestrial vehicle and US Special Forces, which the witness denies saying
-- [[UAP Encounter in Indonesia]] — The witness observed a large, silent, man-made craft with human operators in Indonesia; craft left no rotor wash and behaved unlike any known conventional aircraft
-- [[National Press Club Testimony]] — The witness gave public testimony at the National Press Club about their UAP encounter, reiterating the same account they gave to AARO
-- [[AARO Testimony in Skiff]] — The witness provided testimony to AARO officials including Kirk Patrick inside a secure compartmented facility (skiff); another individual present can corroborate the witness never mentioned extraterrestrials.
-- [[2018 Skinwalker Ranch Briefing]] — A briefing at Skinwalker Ranch that Sean allegedly lied about attending; Brandon posted photographic evidence contradicting Sean's denial.
-- [[National Press Club UAP Testimony]] — Public event where the witness stated he never used the term extraterrestrial in describing what he observed.
-- [[UAP Observation Mission]] — A daytime military mission where the witness observed an unidentified aerial phenomenon; Nathan was not part of the squad present for this event.
-- [[Daily Mail Photo Release]] — The subject sent a photo of himself in helmet holding a SAW to Josh Bosworth for publication in the Daily Mail; one of only two known released photos of the subject.
-- [[Subject Coming Forward Publicly]] — After years of silence and signing a life-threatening NDA, the subject decided to come forward with their UAP-related experiences, motivated by whistleblower protections and a desire to help others connect the dots.
-- [[Two-Day UAP Disclosure Event]] — A two-day event held June 10-12 prior to the National Press Club appearance, where the witness participated in disclosure activities.
-- [[National Press Club Press Conference]] — A press conference in Washington DC where the witness made public statements about their UAP experiences.
-- [[Initial Reddit Post]] — The witness posted on Reddit about their UAP experience and the military side of the operation, which led to contact with the interviewer.
-- [[Meeting with Insider]] — The witness traveled to meet an insider who claimed to know what the witness had seen, resulting in a highly stressful and significant encounter.
-- [[NPC 2023 Conference]] — A conference attended by UAP insiders, Dr. Greer, Michael Stratt, and the speaker; key meetings and revelations occurred here including an insider text message shown to the speaker.
-- [[Pre-NPC Events]] — Events occurring on the 10th, 11th, and 12th of the month, two to three days before NPC 2023, also attended by the insider group.
-- [[Boulder Meeting with Dr. Greer]] — The speaker's first in-person meeting with Dr. Steven Greer, where the speaker shared their personal UAP experience hoping to compare notes.
-- [[Speaker's Presentation at NPC 2023]] — The speaker gave a presentation hypothesizing that drugs were involved in their UAP experience; afterward Dr. Greer showed them the insider's encrypted text message.
-- [[Insider Meeting Helicopter Tracking]] — A meeting between the speaker's associate and an insider was tracked via radar by the speaker to verify authenticity of the insider's identity and location.
-- [[Green Room Encounter]] — The narrator read a text message on Dr. Greer's phone from the NOC operative in a green room, with the narrator's wife present.
-- [[2 AM Text Message]] — The NOC operative sent the narrator a text at 2 AM providing a contact and expressing willingness to share information about what Michael witnessed.
-- [[In-Person Meeting with NOC Operative]] — The narrator was flown to an undisclosed location to meet the NOC operative, who provided documentation and verbal insight about the operation Michael witnessed.
-- [[2009 Operation Witnessed by Speaker]] — The speaker previously witnessed an operation in 2009 that was described as mind-blowing; current insiders are aware of similar operations but were not involved in this specific one.
-- [[Underground Facility Visit]] — The insider took the speaker to an underground facility to prove his identity and the reality of the program; described as more mind-blowing than the 2009 event.
-- [[Meeting with Insider Operative]] — The speaker met face-to-face with a longtime program insider who apologized for past harassment, showed proof of the program, and discussed goals of disclosure.
-- [[Speaker's Initial Coming Forward]] — Approximately one year prior to the interview, the speaker first publicly disclosed information about UAP encounters and related programs.
-- [[Civilian Aircraft Targeting Incident]] — Civilian aircraft allegedly stumbling into TFRs near classified installations are reportedly targeted by undisclosed weapons systems.
-- [[Total Disclosure Podcast Appearance]] — A prior podcast appearance where Michael reportedly mentioned being in contact with David Grusch.
+The last third concerns what happened after Herrera went public in June 2023. After his talk at a [[Steven Greer]] event, an insider sent Greer an encrypted message saying he knew what Herrera saw. Herrera later met a man he describes as a CIA [[Non-Official Cover (NOC)|non-official cover]] officer, who was screened for tracking chips, handed him a pistol, apologized for the harassment he had suffered and took him underground. Through these insiders Herrera relays allegations of a war between factions inside an unacknowledged program, shoot-downs of non-human craft, weapons tested on reverse-engineered vehicles, and people taken as "[[Pink Assets|pink assets]]". Joey describes how he verified the meeting on his own by tracking the helicopter flight on radar.
 
-## Operations
-- [[Unknown Disaster-Area Operation]] — A covert operation allegedly involving recruiting people in disaster-stricken areas, occurring roughly 9 days after an earthquake, involving black trucks with cylindrical containers and armed security personnel
-- [[Covert Recruiting Operation (Disaster Zone)]] — Alleged operation in which individuals were recruited in disaster-stricken areas following the earthquake; the witness was later informed about this operation's purpose.
-- [[Remote Village Supply Security Operation]] — A mission in which Marines provided security for heavy lift helicopter supply deliveries to remote villages, reportedly in a Muslim-dominant region identified as a major terrorist hotspot.
-- [[Indonesia Humanitarian Relief Mission]] — A US military humanitarian operation delivering supplies to Indonesia; Marines provided security and labor support around helicopters, operating under conditions requiring crowd control.
-- [[Unnamed HumanitarianRetrieval Operation]] — A military operation involving Marines flown from a ship via CH-53 helicopters to a location with heavy vegetation and hills; described initially as humanitarian in nature.
-- [[Unspecified HumanitarianSecurity Operation]] — A military operation involving U.S. Marines inserted by helicopter, described as a good deed mission; personnel reported low threat activity despite being briefed on possible terrorist presence in the area.
-- [[Unnamed Military Operation]] — A covert or sensitive military operation in a tropical location that Paul claims to have stumbled upon, involving helicopter transport and possible UAP encounter.
-- [[Unspecified MilitaryUAP Operation with Nathan]] — An operation in which Nathan was allegedly the subject's team leader and was present on a ship; the subject acknowledges the operation but disputes certain details Nathan has claimed.
-- [[Unspecified UAP-Related Operation]] — An operation witnessed by Michael that the NOC operative and his organization were involved in; the NOC had inside information to share about it.
-- [[Unnamed 2009 Operation]] — An operation witnessed by the speaker approximately 14-15 years prior to the interview; insiders are aware of similar operations and have participated in comparable ones.
+## Chronology
 
-## Locations
-- [[Indonesia]] — Location of Michael Herrera's 2009 UAP encounter during a military operation
-- [[Clearing at Bottom of Hill]] — The location where the UAP was visibly sitting and where the armed interception took place; described as having sparse, thin trees offering no cover.
-- [[HilltopElevated Position]] — The witness was positioned at the top of a hill where he captured photographs and video of the craft during the encounter.
-- [[Clearing]] — A clearing in vegetation where the unknown craft was observed sitting on its platform during the military encounter.
-- [[Denver]] — Referenced as a group or entity that arrived on the 9th, approximately 9-10 days after the earthquake, in connection with the operation
-- [[Subic Bay]] — Location where Marines returned after the incident; where the witness had a brief conversation with a fellow Marine about staying silent
-- [[USS Denver]] — The naval vessel the Marines were returned to after the mission via CH-53 helicopter
-- [[Landing Zone (LZ)]] — The area where Marines were inserted and extracted by helicopter during the incident
-- [[Japan]] — Forward staging location where select Marines, including the narrator, were deployed before the main element.
-- [[Naval Vessel (Ship)]] — The ship on which the Marines were deployed; specific name not mentioned but referred to as 'the Denver' in the conversation.
-- [[Tobing Airport]] — The airport (no longer named Tobing) where Marines landed via helicopter during the operation; described as having blue roofs.
-- [[Unspecified LZ with Hills and Thick Vegetation]] — The landing zone where marines were inserted, described as having hills and dense vegetation with no personnel visibly present upon arrival.
-- [[Tropical Terrain LZ]] — An open grassy area in a tropical environment used as a helicopter landing zone during the described military mission.
-- [[Chow Hall]] — Starting point of Paul's timeline; the entire mission duration was estimated at a couple of hours from leaving the chow hall to returning to the Denver.
-- [[Mississippi]] — Used sarcastically by the witness as a stereotype location for dismissed UAP sighting stories, illustrating public skepticism toward witnesses
-- [[Skinwalker Ranch]] — Site of a 2018 briefing that a media figure (Sean) falsely denied attending.
-- [[Washington DC]] — Location of the National Press Club press conference where the witness made public disclosures.
-- [[Boulder, Colorado]] — Location of the 2017 event where the speaker first met Dr. Steven Greer in person.
-- [[Hotel (NPC 2023)]] — Venue where the speaker had dinner and drinks with UAP researchers including Dr. Greer and Michael Stratt during NPC 2023.
-- [[Undisclosed Location]] — The narrator was flown to an unknown location by the NOC operative for their in-person meeting.
-- [[Underground Facility (unnamed)]] — An underground location shown to the speaker by the insider operative as proof of the program's existence; described as containing evidence that would 'blow the doors off' the UAP cover-up.
-- [[Deserts (worldwide)]] — Described as secluded areas where NHI craft are allegedly being shot down by covert groups
+::wiki-timeline{video="4EMO38JUfVE" video-title="Michael Herrera - Insights into UAP Encounter and Black Program Insiders"}
+---
+help: "The bar above the entries is a ruler from 2009 to 2024. Each tick is an entry, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The thin line with the upward arrow is where you are reading. While the video plays, the thicker line with the downward arrow is where the interview is. The interview opens on the sighting and then goes back to the start of the mission, so the playhead jumps backwards early on. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Timestamps jump the mini-player to that moment."
+eras:
+  - id: indonesia
+    label: "Indonesia, 2009"
+    from: 2009
+    to: 2009
+    summary: "The Sumatra earthquake relief mission, the sighting, and the ride back to the USS Denver."
+  - id: silence
+    label: "Fourteen years of silence"
+    from: 2010
+    to: 2022
+    summary: "Bound by an NDA he says threatened his life, Herrera tells almost no one."
+  - id: forward
+    label: "Coming forward"
+    from: 2023
+    summary: "AARO, the National Press Club, the insiders, and AARO's account of his testimony."
+events:
+  - date: "2009"
+    title: "Forward-deployed to Japan on officer's chow detail"
+    cue: 2510
+    summary: "Herrera says he was picked for the officers' galley detail aboard the USS Denver and sent forward to Japan weeks before the main Marine element, working roughly eight-hour shifts under a ship-based logistics chain of command rather than his own squad."
+    category: person
+    significance: minor
+    entities:
+      - "Michael Herrera"
+      - "USS Denver"
+  - date: "2009-09-30"
+    title: "Earthquake strikes West Sumatra"
+    cue: 1659
+    summary: "Herrera and Joey place the earthquake that set off the relief operation at the end of September, on the 30th. The operation Herrera says he stumbled on took place nine or ten days later."
+    category: event
+    significance: notable
+    entities:
+      - "2009 Sumatra Earthquake"
+      - "Sumatra, Indonesia"
+  - date: "2009-10-09"
+    title: "USS Denver arrives; CH-53s begin relief flights"
+    cue: 2998
+    summary: "Joey reads Rear Admiral Richard Landolt's press briefing: the Denver's CH-53s came aboard on the morning of 9 October and first flew survey teams inland to choose cargo drop sites, with crowd control the first concern. He cites it, with photos of armed Marines at relief helicopters, as support for an armed security mission."
+    category: event
+    significance: notable
+    entities:
+      - "USS Denver"
+      - "Richard B. Landolt"
+  - date: "2009-10"
+    title: "Wardroom briefing by a female Marine major"
+    cue: 2568
+    summary: "Volunteers gathered from the chow hall are briefed in the Denver's wardroom by a female major in Marine woodland camouflage, who shows photographs of Barack Obama as a child and his family. The mission is security for supply deliveries to a remote village; a possible Navy SEAL element is mentioned."
+    category: event
+    significance: notable
+    entities:
+      - "Barack Obama"
+      - "USS Denver"
+  - date: "2009-10"
+    title: "Inserted at an empty landing zone"
+    cue: 3665
+    summary: "After a stop at an airfield with blue roofs, where the Marines stay aboard, a CH-53 leaves the six at a hasty landing zone in hills and thick vegetation with no radio. Weapons are in Condition 3, and the man in charge moves them up a slope for the high ground."
+    category: event
+    significance: notable
+  - date: "2009-10"
+    title: "Something changing colour above the tree line"
+    cue: 101
+    summary: "From the top of the hill, after filming a second helicopter drop a cargo net, the Marines see the top of an object changing colour above the trees. The man in charge decides to leave their post and look."
+    category: event
+    significance: major
+    entities:
+      - "2009 Indonesia UFO Encounter (Herrera)"
+  - date: "2009-10"
+    title: "Interception by eight unmarked operators"
+    cue: 315
+    summary: "As the six Marines break into the clearing, eight men with no identifying markings, in two groups of four with interlocking fields of fire, train rifles on them and shout at them to raise their hands. The craft is now fully visible."
+    category: event
+    significance: major
+    entities:
+      - "2009 Indonesia UFO Encounter (Herrera)"
+  - date: "2009-10"
+    title: "Disarmed, and military IDs scanned"
+    cue: 703
+    summary: "The operators strip the Marines' magazines and search only for their military IDs, going straight to where Marines carry them. Herrera takes this as a sign that they were former military. The IDs are scanned first with a system like the military's BATS, then with a thin handheld device more advanced than any 2009 phone."
+    category: event
+    significance: notable
+  - date: "2009-10"
+    title: "Platform rises and the craft departs"
+    cue: 1005
+    summary: "The craft settles slightly while the platform beneath it rises slowly to almost ten feet. The craft turns from light matte grey to dark matte black, then leaves with red, yellow, green and blue lights at its corners, without rotor wash."
+    category: event
+    significance: major
+    entities:
+      - "2009 Indonesia UFO Encounter (Herrera)"
+  - date: "2009-10"
+    title: "An unknown gunnery sergeant and the ride back"
+    cue: 1844
+    summary: "Sent back up the hill with their rifles slung tight on their backs, the Marines find a gunnery sergeant none of them has seen before at the landing zone, angry at their appearance and on a radio. A CH-53 returns them to the Denver, a couple of hours after they left the chow hall."
+    category: event
+    significance: notable
+    entities:
+      - "USS Denver"
+  - date: "2009-10"
+    title: "Subic Bay: 'Absolutely not'"
+    cue: 2202
+    summary: "Nobody speaks about it until the ship reaches Subic Bay, where Herrera asks one of the others whether he will tell anyone, even his wife. The answer is 'absolutely not.'"
+    category: event
+    significance: minor
+  - date: "2017"
+    title: "First meeting with Steven Greer in Boulder"
+    cue: 5811
+    summary: "Herrera first meets Steven Greer in person in Boulder in 2017, hoping Greer knows others with experiences like his so they can compare notes."
+    category: person
+    significance: notable
+    entities:
+      - "Steven Greer"
+      - "Boulder, Colorado"
+  - date: "2023-04"
+    title: "Testimony to AARO"
+    cue: 4436
+    summary: "In late April 2023 Herrera testifies in a secure facility to AARO, including Dr. Sean Kirkpatrick, who he says asked only one question, three times: who were the operators? He tells AARO he thought the cylinders on the containers were humidity control for drugs. AARO says it can get satellite imagery of the day, but never follows up."
+    category: event
+    significance: major
+    entities:
+      - "AARO"
+      - "Sean Kirkpatrick"
+  - date: "2023-06"
+    title: "Daily Mail article"
+    cue: 5490
+    summary: "A Daily Mail article, set up through Greer and reporter Josh Boswell, appears around 10 or 11 June. It includes a fellow Marine's text, 'leave me out of that,' sent when members of the Senate Intelligence Committee asked Herrera to see whether the man would testify anonymously."
+    category: document
+    significance: notable
+    entities:
+      - "Daily Mail"
+      - "Senate Select Committee on Intelligence"
+  - date: "2023-06-10"
+    title: "Greer's event and the insider's encrypted message"
+    cue: 5771
+    summary: "At Greer's two-day event before the National Press Club, Herrera presents his theory that the containers held drugs. Afterwards, in the green room, Greer shows him an encrypted-app message from an insider in attendance: 'I know what Michael saw.'"
+    category: event
+    significance: major
+    entities:
+      - "Steven Greer"
+      - "The Insider"
+  - date: "2023-06-12"
+    title: "National Press Club testimony"
+    cue: 5484
+    summary: "Herrera testifies publicly at Greer's National Press Club event in Washington, D.C., repeating the account he gave AARO."
+    category: event
+    significance: major
+    entities:
+      - "National Press Club"
+      - "Steven Greer"
+  - date: "2023"
+    title: "A 2 a.m. text: a CIA NOC wants to talk"
+    cue: 5973
+    summary: "Greer texts Herrera at 2 a.m. with the number of a man he describes as a CIA non-official cover officer who knows what Herrera saw. Herrera sits on it for a day or two as a 'point of no return,' then calls and texts, and is told he will be flown out and shown documentation."
+    category: event
+    significance: notable
+    entities:
+      - "Non-Official Cover (NOC)"
+      - "Steven Greer"
+  - date: "2023"
+    title: "Joey tracks the helicopter on radar"
+    cue: 5596
+    summary: "Having secretly recorded a call with Herrera the day before, Joey tracks the helicopter flight to the meeting on radar, checks its take-off time against Herrera's, and cross-checks events on the ground with local news. He calls it the pivotal moment in his own belief."
+    category: event
+    significance: notable
+    entities:
+      - "Joey Is Not My Name"
+  - date: "2023"
+    title: "Meeting the NOC: a pistol and an apology"
+    cue: 6116
+    summary: "Herrera turns his phone off because the NOC scans for tracking chips. He is handed a loaded pistol as a gesture of trust. The NOC is visibly nervous, has vetted Herrera's background exhaustively, and apologizes for the harassment Herrera has suffered, calling it unnecessary."
+    category: event
+    significance: major
+    entities:
+      - "The Insider"
+      - "Non-Official Cover (NOC)"
+  - date: "2023"
+    title: "Taken underground as proof"
+    cue: 6309
+    summary: "The insider takes Herrera underground to prove who he is. Herrera will not describe what he saw. He calls it more mind-blowing than 2009 and says that if politicians were given free access to the facility, it would single-handedly expose the cover-up."
+    category: event
+    significance: notable
+    entities:
+      - "The Insider"
+  - date: "2024-03-08"
+    title: "AARO's Historical Report misstates his testimony"
+    cue: 4547
+    summary: "AARO's Historical Record Report, Volume 1, describes a former service member who saw US Special Forces loading containers onto an extraterrestrial spacecraft. Herrera says he never said 'extraterrestrial' or 'US Special Forces,' calls it a purposeful misstatement, and says a man who was in the room can confirm it."
+    category: document
+    significance: major
+    entities:
+      - "AARO Historical Report Volume 1"
+      - "AARO"
+  - date: "2024-06"
+    title: "This interview, a year after coming forward"
+    cue: 7076
+    summary: "Almost exactly a year after he went public, Herrera sits down with UAP Gerb and meets Joey in person for the first time. He says he has spoken with David Grusch, and Joey says he is a private citizen, not Herrera's paid publicist."
+    category: event
+    significance: minor
+    entities:
+      - "Joey Is Not My Name"
+      - "David Grusch"
+---
+::
+
+## The Encounter
+
+The interview opens at the top of the hill. Herrera stresses that the Marines at first saw only the top of the object: something changing colour just above the tree line, in an area with no buildings, sticking out "like a sore thumb" against the green. The decision to go down and look was made by the man in charge of the group, not by Herrera, and it meant leaving their post. Nobody chambered a round. They expected to find nothing and walk back up.
+
+The interceptors were on them "as soon as we broke that threshold" into the clearing, where the trees were no thicker than a water bottle and gave no cover. Herrera first heard yelling, then saw rifles aimed at them and heard safeties click off in the silence. The only sound from the craft was a low hum, something like a guitar amp or a transformer. For a moment the Marines thought these might be the Navy SEALs mentioned at the briefing, but the men carried no identifying markings and did not carry themselves like SEALs. Four stood on each side, giving interlocking fields of fire; special operators later told Herrera this was an easy, basic setup. Six Marines with three-round-burst and semi-automatic rifles faced eight men who may have had fully automatic M4s. From what he has since been told, there were more operators out of sight. :wiki-cue{t=315 video="4EMO38JUfVE" video-title="Michael Herrera - Insights into UAP Encounter and Black Program Insiders"}
+
+The operators disarmed the Marines methodically. They slung the rifles, pulled the magazines from the SAW drum pouches Herrera used for his magazines and kicked them away, and searched only for military IDs, going straight to where Marines keep them. One man stood back as overwatch more than ten feet away. All carried the same gear, with ACOG sights and PEQ-16 illuminators. Their leader had a radio pressed to his vest but never seemed to use it. He and one other did the shouting, threatening to kill the Marines and warning that "it's easy to get lost out here." Herrera says he had a camera in his dump pouch and took at least a couple of photographs and a video from the hilltop.
+
+Herrera drew what he saw for the interviewers:
+
+::wiki-grid{cols=2}
+::wiki-panel{title="The craft" tone="accent"}
+Roughly octagonal, with a pyramid-like top whose faces showed different shading, and vents on each corner. It had a scale-like surface pattern. Herrera allows that it could have been round or square, since he was not close enough to be sure. It was "the blackest, darkest thing" he had ever seen, as if it absorbed light. Before leaving it turned from light matte grey to dark matte black all over, and on take-off lights came on at the corners: red, yellow, green and blue.
+::
+::wiki-panel{title="The platform"}
+A raised, inclined structure under the craft, about as long as the craft, with points along it. As the craft settled slightly, the platform rose slowly, not fast but quick enough to follow, to what Herrera estimates was almost ten feet. It was the movement that caught his eye while he was dealing with the operators.
+::
+::wiki-panel{title="The trucks and containers"}
+Four black trucks came from the Marines' left and drove up onto the platform. Herrera takes them for Ford F-350s with badges removed. They had big off-road tyres, dark windows, "up-armored" bodywork like a Secret Service car, and side fittings like the night-vision mounts on military Humvees. Each had closed Pelican-style weapons cases in the bed and towed a dual-axle trailer carrying a black, ridged shipping container, which the interviewers liken to a standard Tricon container. A black cylinder spanned the front of each container. He later learned it was an oxygen supply.
+::
+::wiki-panel{title="The operators"}
+Eight men with no insignia, in the same load-out, with rifles fitted with ACOGs and PEQ-16 illuminators. They scanned IDs first with a system like the Army's BATS biometrics kit, then with a device thinner than any phone of 2009. Herrera thinks they were former military. Knowing now "what type of operators we encounter," he says none of the Marines "would have been a match for those guys."
+::
+::
+
+At AARO, Herrera said he thought the cylinders were humidity control for a drug shipment, because people "wasn't in my thought process." The interviewers note that the operation took place nine or ten days after the earthquake. Herrera was later told it involved recruiting people in disaster-struck areas, and Joey asks whether such operations had been running all week. Herrera says the insiders he now works with do not know, because "everything's compartmentalized."
+
+The operators gave the rifles back, slung so tight that the sling cut Herrera's neck, with the magazines loaded so they would be awkward to use, and sent the Marines back up the hill. At the top some of them started running, and Herrera followed. At the landing zone, with villagers and some other military personnel, possibly Indonesian, in the distance, stood a gunnery sergeant nobody recognized. He wore none of the red patches of Marines assigned to the ship, and was angry that the Marines' weapons were slung on their backs. Nobody told him what had happened. He talked on a radio until a CH-53 Super Stallion came in and flew them to the Denver. :wiki-cue{t=1844 video="4EMO38JUfVE" video-title="Michael Herrera - Insights into UAP Encounter and Black Program Insiders"}
+
+The Marines stayed "stone cold." The only conversation came in Subic Bay, when Herrera asked one of them whether he would tell anyone and was told "absolutely not." Herrera has not encouraged the others to come forward, and they are not happy with him. He has given all their names to AARO and the Pentagon. When members of the [[Senate Select Committee on Intelligence]] asked him to see whether one of them would speak anonymously, the man's reply, "leave me out of that," ended up in a [[Daily Mail]] article. Herrera reads it as a sign that something did happen.
+
+## The Mission, Step by Step
+
+The interviewers then go back through the mission in order. Much of the confusion around Herrera's account, Joey argues, comes from not understanding how a non-combat deployment works. Herrera was on the officers' chow detail, an eight-hour-shift job he enjoyed for the T-bone steaks, under a ship-based logistics chain of command. He had gone forward to Japan weeks before the main body. The volunteers were "randomly put in sticks" by staff sergeants or sergeants, not hand-picked for their skills, and led by an acting team leader who was not Herrera's own.
+
+The briefing came in the Denver's wardroom from a female Marine major in woodland camouflage, with key leaders and NCOs present. She showed photographs of [[Barack Obama]] as a child and of his family, and described the job as security for a supply delivery to a remote village, in what Herrera calls the "second largest terrorist capital in the world." Because it was not a combat mission, the SAW gunner drew a loaner M16 and someone else's magazines, which he handed back afterwards. The CH-53 carried only personnel and set down at an airfield with blue roofs, which the interviewers identify as Tabing, since renamed; the Marines stayed aboard, some of them asleep, while other helicopters landed behind them. The hasty landing zone was an open area of tall grass among hills and thick vegetation, with no one there, no tape and no cleared trees. Once the helicopter left they had no radio. It was sunny, hot and dull on the hilltop, where Herrera filmed a second helicopter drop a cargo net farther off before someone pointed at the object. The whole mission, chow hall to ship, took "a couple hours."
+
+::wiki-chain{video="4EMO38JUfVE" video-title="Michael Herrera - Insights into UAP Encounter and Black Program Insiders"}
+---
+kind: custody
+label: "The mission, stage by stage"
+caption: "Where Herrera's stick of six Marines went, in the order he recalls it. Each chip jumps to where he describes that stage."
+steps:
+  - text: "Wardroom, USS Denver"
+    note: "A female Marine major briefs the volunteers: security for a supply drop."
+    cue: 2568
+  - via: "Volunteers kitted out"
+    text: "Armory"
+    note: "A loaner M16 and borrowed magazines, since it is not a combat mission."
+    cue: 2938
+  - via: "CH-53, personnel only"
+    text: "Airfield with blue roofs"
+    note: "Identified as Tabing; the Marines never get off."
+    cue: 3395
+  - via: "Flown on, then left with no radio"
+    text: "Hasty landing zone"
+    note: "Tall grass among hills; a 360, weapons in Condition 3."
+    cue: 3665
+  - via: "Up the slope for the high ground"
+    text: "Hilltop"
+    note: "Something changing colour above the tree line."
+    cue: 3768
+  - via: "Leaving their post to look"
+    text: "The clearing"
+    note: "Held at gunpoint by eight operators beside the craft."
+    cue: 315
+  - via: "Sent back up, rifles slung tight"
+    text: "Landing zone"
+    note: "An unknown gunnery sergeant, angry and on a radio."
+    cue: 1844
+  - via: "CH-53 Super Stallion"
+    name: "USS Denver"
+    note: "Chow hall to ship in \"a couple hours.\""
+    cue: 4032
+---
+::
+
+Joey sets this against the public record. [[Richard B. Landolt]], the rear admiral who debriefed Herrera's group, told the press that the Denver's CH-53s came aboard on the morning of 9 October. He said they first flew survey teams inland, and that crowd control was the first worry once cargo began arriving. Joey has also found photographs from 9 and 10 October of crowds mobbing an Indonesian military helicopter, and of Marines with rifles guarding relief helicopters. Herrera cannot say whether his mission was on the 9th or the 10th. He never went up on deck, and the ship's phone banks had been switched off for about two weeks.
+
+Several members of Herrera's platoon told Joey of a rumour that the first Marines to fly in with rifles were sent back to the ship by an Air Force colonel because it looked bad. Herrera never saw an Air Force colonel, only the Air Force lieutenant colonel "which everybody knows about". He doubts an Air Force colonel could order Marines back to a ship, which he says would take a Navy captain or a Marine colonel. Joey suggests that because the Marines never got off the helicopter at the airfield, the mission could have slipped through even after such an order. Every Marine Joey has spoken to from the operation, on whatever mission, described it as boring, "an excuse to get off the ship."
+
+## Credibility and Counter-Claims
+
+Herrera says he was not a believer before 2009. He would once have mocked anyone claiming to have seen a craft while out fishing in Mississippi. He stresses that he did not see extraterrestrials: he saw operators and "clearly man-made" technology. Yet it "didn't do [anything] a normal helicopter or plane did." It had no rotor, left no rotor wash on the vegetation, and looked like nothing a would-be fighter pilot knew in the US, Indonesian, Chinese or Japanese inventories. :wiki-cue{t=4312 video="4EMO38JUfVE" video-title="Michael Herrera - Insights into UAP Encounter and Black Program Insiders"}
+
+Joey rejects comparisons with the [[Paul Bennewitz]] case. Bennewitz had only radio intercepts that he guessed were extraterrestrial, and [[Richard Doty]], Joey says, told him he had been instructed to encourage that idea. Joey argues that if Herrera had made his encounter up, an insider claiming to know about it would be self-evidently lying.
+
+Two challenges get a full hearing. The first comes from [[AARO]]. In April 2023 Herrera testified to it in a secure facility, with Dr. [[Sean Kirkpatrick]] in the room. He says Kirkpatrick seemed uninterested and asked the same question three times: who were the operators? AARO said it had access to satellite imagery of the day, but more than a year later it had not come back to him. Herrera signed several documents there, including an NDA covering the location and the other attendee, and he recognizes a draft form released through FOIA by [[The Black Vault]] as the kind he was shown. The second challenge comes from Nathan, who was Herrera's team leader at one point and was on the same ship and operation.
+
+::wiki-claim{video="4EMO38JUfVE" video-title="Michael Herrera - Insights into UAP Encounter and Black Program Insiders"}
+---
+caption: "The two challenges to Herrera's account that the interview takes up, and the answers given to each."
+claims:
+  - title: "What AARO wrote"
+    by: "AARO"
+    where: "AARO Historical Report Volume 1"
+    text: "A former service member saw US Special Forces loading containers onto an extraterrestrial spacecraft."
+    cue: 4538
+    responses:
+      - by: "Michael Herrera"
+        stance: challenges
+        text: "\"I didn't say extraterrestrial and I didn't say they were US Special Forces.\" He calls it a purposeful misstatement, and says a man who sat in the room with him can confirm it."
+        cue: 4547
+      - by: "Michael Herrera"
+        stance: challenges
+        text: "He dismisses Kirkpatrick's interviews with Steven Greenstreet, and cites a photograph a man named Brandon posted on Twitter placing Kirkpatrick at a 2018 Skinwalker Ranch briefing that Kirkpatrick had denied attending."
+        cue: 4680
+  - title: "What Nathan claims"
+    by: "Nathan"
+    note: "Herrera's team leader at one point, on the same ship and operation"
+    text: "Herrera made the story up. Nathan has produced a photograph of two Marines on a helicopter, one of whom he says is Herrera, and someone has matched its camouflage to one of the only two released photos of Herrera: helmet on, holding a SAW, sent to Josh Boswell of the Daily Mail."
+    cue: 4736
+    responses:
+      - by: "Michael Herrera"
+        stance: challenges
+        text: "Nathan was not in the stick that saw the craft, so he could not have seen it. Nor was it a secret night mission, and it had nothing to do with aliens."
+        cue: 4776
+      - by: "Michael Herrera"
+        stance: challenges
+        text: "The photo is not him: the face is wrong, and he knows who it is. Camouflage patterns repeat across uniforms."
+        cue: 4999
+      - by: "Joey Is Not My Name"
+        stance: challenges
+        text: "A fabricator could simply have said he flew two missions, one of them with Nathan. Only Herrera's denial that he was ever on a mission with him gives Nathan's account any weight."
+        cue: 4846
+      - by: "Michael Herrera"
+        stance: challenges
+        text: "A liar would not be approached by several insiders who have their own careers at risk."
+        cue: 4906
+---
+::
+
+## Coming Forward
+
+Herrera says every Marine present signed an NDA that threatened their lives. He came forward because he thinks people should not be "dying and being threatened" over this, and because others may have had similar experiences. Newly passed whistleblower protections, which in his view made the NDA illegal, gave him a safety net. He has had no legal consequences, only harassment, which he has documented and takes as a sign he is "pissing the right people off". He says he makes no money from this, keeps it apart from his business, and dislikes being public.
+
+Joey connected with Herrera after a Reddit post in which he checked the military side of the operation and found Herrera's account accurate to the letter. He admits he grew more skeptical once Herrera began talking about an insider. The turning point was the insider meeting. Joey secretly recorded a call with Herrera the day before, which gave him a starting point to track the helicopter on radar. When Herrera later gave him the take-off time without knowing about the tracking, it matched the radar exactly. Joey also cross-checked short-lived events on the ground, visible from the air, against local news. :wiki-cue{t=5596 video="4EMO38JUfVE" video-title="Michael Herrera - Insights into UAP Encounter and Black Program Insiders"}
+
+The path to the insider ran through Steven Greer, whom Herrera had first met in [[Boulder, Colorado|Boulder]] in 2017 and for whom he now volunteers as security. He says the job lets him sit in on sensitive meetings. In June 2023, Greer set up a Daily Mail interview and Herrera's appearance at the [[National Press Club]] on 12 June, preceded by a two-day event. There Herrera met Greer's circle, including the aerospace historian [[Michael Schratt]] (rendered "Michael Strat" in the captions), and presented his theory that the containers carried drugs. Afterwards Greer showed him an encrypted message, not sent on Signal, from someone in attendance: "I don't want to leave Michael hanging, but I know what Michael saw." It was followed by a long explanation. Later, Greer texted at 2 a.m. with the number of a CIA NOC.
+
+Herrera describes the meeting that followed:
+
+- He was flown out to meet the man, told he would be given documentation, and kept his phone off because the NOC carried a device that detects implanted chips. Herrera says people in the organization "are all chipped."
+- The NOC had checked every detail of Herrera's background, to be sure he was not a plant sent to flush insiders out. Both men were nervous; the NOC fidgeted with his watch. He handed Herrera a pistol as a gesture of trust, and Herrera checked the rounds and held it in his lap. The NOC has a family he loves, which reassured Herrera.
+- He apologized for the harassment Herrera had suffered. He said he knew of murders connected to the program, though he has never committed one, and would "never kill a patriot" or an innocent person. Herrera likens him to a "sheep dog" who protects innocents and deals with bad actors.
+- He was not one of the 2009 operators. Herrera stresses that the insiders are different people from the men who held him at gunpoint, though they know of and have been on similar operations.
+- He took Herrera underground to prove who he was. Herrera will not say what he saw, but says free access to the facility "would single-handedly blow the doors off" the secrecy.
+- It was through these insiders that Herrera learned the containers held people. He believes those taken are given false promises, kept heavily drugged, and do not remember what they make contact with. Hearing it cost him a week of sleep.
+
+## What the Insiders Allege
+
+Herrera says the insiders have been in the program for thirty years or more. They are "pro-disclosure to a certain extent, pro-American, pro-freedom," and want congressional oversight restored. After he came forward they saw a chance to use him as a spokesman, and he says he has put them in touch with "certain other prominent people." As he describes it, the program is split into warring factions:
+
+::wiki-org-chart
+---
+root:
+  name: "Unacknowledged UAP program"
+  label: "As Herrera's insiders describe it"
+  note: "Herrera's account of the factions, not a verified chain of command."
+  children:
+    - name: "Pro-disclosure faction"
+      label: "The 'good guys'"
+      note: "Long-time participants who want disclosure and oversight but fear losing their pensions and their families' security."
+      children:
+        - name: "The Insider"
+          label: "CIA non-official cover officer"
+          note: "Contacted Herrera through Greer in 2023; Herrera likens him to a 'sheep dog.'"
+    - name: "Enforcement arm"
+      label: "The 'bad guys'"
+      note: "Want the technology kept secret for power and control; Herrera calls this group the enforcement arm of political corruption."
+      children:
+        - name: "Assets in government"
+        - name: "Local and federal law enforcement"
+        - name: "The military"
+    - name: "Contractor groups"
+      label: "Small compartments, not whole companies"
+      note: "Not necessarily executives, but small groups of contractors who know and have access; the companies allegedly pay politicians to block disclosure legislation."
+      children:
+        - name: "Boeing"
+        - name: "Lockheed Martin"
+        - name: "Northrop Grumman"
+---
+::
+
+Herrera says the good guys need to "flip the tables" on their own programs and take control of them. Legislation still matters, he says, because it would bring in law enforcement: the US Marshals, "because they have jurisdiction everywhere," could act on the laws being broken. Existing whistleblower protections are "really not enough." He accuses politicians of taking aerospace money to fight the proposed eminent-domain provisions of disclosure legislation. Relaying what the insiders told him, he says:
+
+::wiki-grid{cols=2}
+::wiki-panel{title="Shoot-downs"}
+Covert groups shoot down non-human craft in secluded deserts around the world. There is a real "ethical tug of war" inside the program over it, Herrera says. His fear is that one day they will shoot down "the wrong type" of a species that can travel between dimensions and through time, fly its craft by consciousness, and pass through solid objects. He calls these last points speculation.
+::
+::wiki-panel{title="Weapons tests"}
+The program keeps refining its anti-craft weapons; Herrera supposes the aim is to take a craft out with a single hit. It tests them on its own craft, lifted to high altitude on balloons or set on the ground to be hit from different angles. Civilian pilots who stray into temporary flight restrictions over these installations are allegedly hit with undisclosed weapons.
+::
+::wiki-panel{title="Reverse-engineered craft"}
+The program's own reverse-engineered craft, or [[Alien Reproduction Vehicle (ARV)|ARVs]], are allegedly EMP-proof and immune to rifle fire, .50-calibre rounds and missiles. Insiders say they now have trouble telling the real non-human craft from their own.
+::
+::wiki-panel{title="'Pink assets'" tone="accent"}
+People taken or lured into the programs are used as "biological equipment", or [[Pink Assets|"pink assets" as they call them]]. Herrera's stated mission is oversight that ends the sedation of human subjects. He sees a lawful, voluntary alternative, and a world where "free energy will be a thing."
+::
+::
+
+Herrera tells viewers to stay skeptical, because some well-known figures are "muddying the waters". "At the end of the day disclosure is about evidence, it's not about testimony," he says. He expects evidence to come out and catch officials who took money while claiming ignorance. Asked about a remark on a podcast, he says only that he has spoken with [[David Grusch]]. Joey, answering people who think he is Herrera's publicist or Herrera himself, says he is "just a random guy", unpaid, who until now had stayed anonymous on Reddit. :wiki-cue{t=7296 video="4EMO38JUfVE" video-title="Michael Herrera - Insights into UAP Encounter and Black Program Insiders"}
+
+## Key Figures
+
+::wiki-roster
+---
+entries:
+  - name: "Michael Herrera"
+    role: "Former USMC SAW gunner; AARO witness"
+    note: "Says he and five Marines were held at gunpoint beside an octagonal craft in Indonesia in October 2009, and later met program insiders after going public."
+  - name: "Joey Is Not My Name"
+    role: "Private researcher; co-host"
+    note: "Checked the operational setting against press briefings and photographs, and says he independently verified Herrera's insider meeting by tracking the helicopter on radar."
+  - name: "Sean Kirkpatrick"
+    role: "Former AARO director"
+    note: "Sat in on Herrera's April 2023 testimony. Herrera says he asked only 'who were these operators?' three times."
+  - name: "Steven Greer"
+    role: "Disclosure Project founder"
+    note: "First met Herrera in Boulder in 2017, set up his Daily Mail interview and National Press Club appearance, and passed on the insider's message and the NOC's number."
+  - name: "The Insider"
+    role: "Alleged CIA non-official cover officer"
+    note: "Met Herrera after the June 2023 events, handed him a pistol, apologized for his harassment, and took him underground."
+  - name: "Richard B. Landolt"
+    role: "Rear admiral, 2009 relief task force"
+    note: "Debriefed Herrera's group; his press briefing on the CH-53 flights and crowd control is Joey's main corroboration for an armed security mission."
+  - name: "Paul Bennewitz"
+    role: "Target of a 1980s disinformation campaign"
+    note: "Raised as a comparison that Joey rejects: Bennewitz had radio intercepts, while Herrera describes a close-range sighting."
+  - name: "David Grusch"
+    role: "UAP whistleblower"
+    note: "Herrera confirms only that he has spoken with him."
+---
+::
 
 ## Key Claims
-- Michael Herrera and his USMC team observed an unidentified craft in Indonesia in 2009 that was partially visible above the tree line and changed colors.
-- The craft eventually took off, at which point lights became visible.
-- Upon approaching the craft, Herrera's team was intercepted by armed individuals who pointed weapons at them.
-- A possible US Navy SEAL element was reportedly present at the site and tasked with managing the situation.
-- Herrera is described as an AARO whistleblower who claims to have met a black program insider.
-- The team made a risky and unauthorized decision to leave their post to investigate the object.
-- The narrator and five fellow military operators were intercepted and held at gunpoint by eight unidentified armed men at the site of a landed UAP.
-- The unknown operators did not carry themselves like US Navy SEALs and had no identifying markings on them.
-- The armed men used a tactical formation called a 'nosbed,' involving interlocking fields of fire from two flanking groups of four.
-- The narrator believes there were more operators present beyond the eight visible, potentially surrounding the area.
-- The craft emitted a low hum similar to a guitar amplifier or transformer but was otherwise silent.
-- The narrator captured photographs and video of the craft using a camera stored in his dump pouch.
-- The narrator was later briefed on the encounter and included to some extent in follow-up information about what occurred.
-- The witness observed an octagonal, pyramid-topped craft that appeared to absorb light, making it the darkest object he had ever seen.
-- Unknown entities disarmed the military unit in a methodical manner consistent with prior military training, leading the witness to suspect they were former military.
-- The entities used a device resembling a modern thin smartphone—more advanced than contemporary BlackBerrys or Sony Ericsson phones of the era—to scan the soldiers' military IDs.
-- The entities first attempted to use a BATS-like biometric system on the soldiers before switching to the thin smartphone-like device.
-- The craft had corner vents and colored lights (red, yellow, green, blue) that activated when it took off.
-- The craft rested on a raised, angled platform of roughly the same length as the craft itself.
-- The witness captured photographs and video of the craft from an elevated position during the encounter.
-- There were 6 soldiers and 8 unknown entities present during the encounter, with the entities having a clear field of view and tactical advantage.
-- The witness observed a craft change color from light matte gray to dark matte black before it appeared to take off.
-- A platform associated with the craft raised upward slowly, reaching an estimated 10 feet off the ground before the craft departed.
-- Trucks resembling Ford F-350s with aggressive off-road tires, pelican cases in the beds, and trailers carrying shipping containers were observed near the craft.
-- The containers on the trailers had cylinders on the front that were initially thought to be humidity control but were later identified as oxygen supply, implying the containers may have held living occupants.
-- The trucks appeared to have military-style night vision attachments, suggesting the operation was run at nighttime.
-- The witness testified to AARO about these observations before appearing at the NPPC in June 2023.
-- The witness observed four black up-armored trucks, each carrying a black cylindrical object in a shipping container and closed weapons cases.
-- The witness and their team were weapons-checked and had magazines removed by armed personnel at the scene near an unidentified craft.
-- The witness initially hypothesized the cylinder might be humidity control equipment, possibly for drug transport, before testifying to AARO.
-- The witness testified to AARO in late April 2023, prior to a public testimony in June 2023.
-- The covert operation appeared to occur approximately 9-10 days after an earthquake, around September 30th.
-- The operation was later described to the witness as involving recruiting people in disaster-stricken areas, though this was not confirmed.
-- All information about the operation is compartmentalized, meaning even those involved do not know the full picture.
-- The witness was told after the fact that the operation he was involved in was about recruiting people in disaster-stricken areas following the earthquake.
-- Everything surrounding the operation is compartmentalized, so even personnel involved do not have full knowledge of what occurred.
-- An unknown Gunnery Sergeant appeared at the LZ who the witness had never seen before and whose origin or assignment was unclear.
-- The team's weapons were returned but loaded in a way that would make them very difficult to use quickly, suggesting deliberate disarmament intent.
-- A CH-53 helicopter arrived after the Gunnery Sergeant communicated via radio and extracted the witness's team from the LZ.
-- The witness claims to have more information than the general public about UAP-related operations due to personal experience and contacts.
-- A CH-53 Super Stallion helicopter extracted the Marines from the LZ and returned them to the USS Denver after the UAP encounter.
-- The Marines were organized into random 'sticks' for the mission and were not hand-selected based on skill or chain of command.
-- Fellow Marines involved in the incident are unwilling to come forward and are reportedly unhappy with the witness for speaking publicly.
-- A text message from one of the fellow Marines saying 'leave me out of that' was published in a Daily Mail article.
-- The witness provided the names of fellow Marines involved to the Pentagon AARO and the Senate Intelligence Committee.
-- Members of the Senate Intelligence Committee asked the witness to have a fellow Marine provide anonymous testimony about the incident.
-- After the incident, the Marines remained stone cold and did not discuss what happened until briefly at Subic Bay.
-- Volunteers for the mission were not hand-selected based on skill sets but were randomly assigned.
-- A female USMC major briefed the volunteers in the wardroom and showed pictures of Barack Obama as a child along with his family members.
-- The narrator was forward deployed to Japan weeks before the main Marine element as part of the officer's chow detail assignment.
-- On ship, Marines assigned to duty details report to a separate logistics-based chain of command rather than their normal squad or platoon leadership.
-- The deployment was non-combat in nature, which allowed for more relaxed duty assignments and the ability to pull personnel for special details.
-- A mission briefing aboard a naval vessel included photographs of Barack Obama as a child and references to his time in Indonesia.
-- The mission involved delivering supplies via Super Stallion heavy lift helicopters to remote villages with roads blocked by landslides.
-- The region for the mission was described as the second largest terrorist capital in the world with a predominantly Muslim population.
-- Marines aboard the ship were subordinate to Navy personnel in terms of authority since it was a Navy vessel.
-- The witness was issued an M203 grenade launcher instead of a SAW for the mission because it was not a combat operation.
-- Rear Admiral Richard Land confirmed that CH-53 helicopters were used starting October 9th to survey cargo drop locations and establish crowd control measures.
-- Marines on the humanitarian mission were armed with rifles and provided security around helicopters despite it being classified as a humanitarian, not combat, operation.
-- Multiple platoon members reported a rumor that the first Marines who flew in had rifles.
-- The witness could not recall the specific day of their mission, noting possible confusion due to time zone differences in press reporting.
-- The witness did not have a radio and was not focused on radio communications because they were not a team or squad leader at the time.
-- Indonesia was described as the second largest terrorist capital in the world, justifying the need for armed security during the relief mission.
-- Multiple platoon members reported a rumor that the first Marines to arrive with rifles were confronted by an Air Force Colonel and sent back to the ship due to bad optics.
-- The witness does not recall seeing an Air Force Colonel, only an Air Force Lieutenant Colonel who is reportedly well known in connection with the operation.
-- An Air Force Colonel would not normally have jurisdiction to order Marines back to a ship; a Navy full bird captain or Marine colonel would be the appropriate authority.
-- Marines on the helicopter did not disembark at Tobing Airport, which may explain why their presence with rifles did not cause any disruption.
-- The CH-53 Super Stallion helicopters used in the operation were associated specifically with the USS Denver.
-- The flight to the LZ involved passing over heavy vegetation and hills, and the insertion was a strictly personnel transport mission with no supplies loaded.
-- The marines were transported to the LZ via a CH-53 helicopter and were left without a radio after the helicopter departed.
-- The squad leader made the decision to move to an elevated position on the slope for tactical advantage.
-- The marine witness described the mission as feeling boring and uneventful despite being briefed on a potential terrorist presence.
-- Multiple personnel from the same operation have independently described the mission as feeling routine and low-threat.
-- A separate helicopter with a cargo net was observed dropping supplies and departing, which was captured on video by the witness.
-- The marines were in weapons Condition Three upon landing, indicating a low immediate threat posture.
-- Paul claims the mission lasted only a couple of hours from leaving the chow hall to returning to the Denver.
-- A second helicopter landed at a different, more distant point within the same general landing zone area.
-- Paul distinguishes his experience from the Paul Benowitz case, stating Benowitz only had radio communications and speculated ET involvement, whereas Paul claims a direct physical sighting.
-- Dodie confirmed to Paul that the Benowitz radio communications story was something he was told to propagate.
-- Paul states he is not encouraging fellow soldiers to come forward publicly at this time due to the personal discomfort and stress it causes.
-- Paul asserts that if his story were fabricated, a supposed disinformation agent claiming knowledge of the operation would be easily exposed as lying.
-- The witness observed a large, silent, man-made craft with human operators in Indonesia that exhibited no rotor wash and behaved unlike any known conventional aircraft.
-- The witness asserts the craft was clearly not extraterrestrial but was operated by humans, indicating a classified terrestrial program.
-- Dr. Sean Kirkpatrick asked only three questions during the AARO interview, all focused on the identity of the operators, and appeared largely uninterested.
-- AARO claimed to have access to satellite imagery of the incident location but never followed up with the witness after more than a year.
-- The witness states that AARO's historical report volume one falsely attributed claims of an extraterrestrial vehicle and US Special Forces to their testimony, which they never said.
-- The witness believes the false attributions in the AARO report were a purposeful and deliberate omission or distortion of their actual testimony.
-- The witness was not a UAP believer prior to their personal experience and understands why others are skeptical.
-- The witness never used the word 'extraterrestrial' nor mentioned 'US Special Forces' in his AARO testimony, making the Historical Report Volume One's characterization a deliberate falsehood.
-- Another individual who was present in the skiff during AARO testimony can corroborate that the witness never made those statements.
-- Nathan, the team leader who contradicts the witness's account, was not part of the squad present during the UAP observation and therefore would not have seen it.
-- The witness signed a non-disclosure agreement preventing him from revealing the location and identities of others present during his AARO deposition.
-- The UAP observation mission was a daytime mission and did not involve aliens or night operations.
-- A FOIA-released document published by The Black Vault appears to be the same form used for the witness's AARO testimony.
-- Sean lied about not attending the 2018 Skinwalker Ranch briefing, and photographic proof posted by Brandon contradicted that denial.
-- The witness argues that if he were fabricating the UAP story, it would have been easy to simply claim he went on two missions including one with Nathan, yet he did not do so.
-- The subject denies being the person in a helicopter photograph provided by Nathan, stating facial structure alone proves it is not them.
-- Multiple insiders, not just one, have approached the subject with information, which the subject argues validates their credibility.
-- The subject signed an NDA that threatened their life, as did others involved in the same operations.
-- Recently passed whistleblower protection laws that render certain NDAs illegal partially motivated the subject to come forward.
-- The subject claims to have received harassment, which they interpret as confirmation that they are revealing sensitive and accurate information.
-- The subject states they are not financially profiting from coming forward with their UAP-related experiences.
-- The subject's motivation for coming forward was to help others who may have had similar experiences and to contribute to a broader understanding of the truth.
-- The witness claims ongoing harassment validates their story, as fabricated accounts would not generate such a response.
-- The witness met with an insider who offered to reveal the truth about what they witnessed over 14 years ago, without offering money.
-- The witness learned that crates they previously believed contained drugs were actually transporting people for use in covert programs.
-- Participants in these programs are allegedly kept heavily drugged and do not fully understand or recall their involvement.
-- The witness believes those recruited into these programs are given false promises and do not understand the magnitude of what they are participating in.
-- Steven Greer helped set up the Daily Mail interview and the National Press Club event.
-- The witness claims they are motivated solely by disclosure and do not seek financial gain.
-- The speaker tracked a helicopter on radar to verify the location and timing of a meeting between an associate and a UAP insider without the associate's prior knowledge.
-- An anonymous insider sent an encrypted text message to Dr. Greer stating they knew what the speaker had seen, corroborating the speaker's UAP experience.
-- The insider and their group were present at both the NPC 2023 conference and related events two to three days prior.
-- Dr. Greer pulled the speaker aside after their presentation to show them the insider's text message sent via a high-tech encrypted platform that was not Signal.
-- The speaker claims they do not profit from their UAP disclosure activities and participates solely to advance public disclosure.
-- A CIA Non-Official Cover operative reached out to the narrator to meet in person and provide documentation related to what Michael witnessed.
-- The NOC operative used a chip-detection device during the meeting and required the narrator's phone to be turned off.
-- The NOC operative provided the narrator with a sidearm during their meeting as a gesture to establish trust.
-- The NOC operative indicated that individuals within the organization being discussed are 'chipped' for tracking purposes.
-- The narrator performs security voluntarily as a means to gain access to sensitive meetings and gather information about UAP-related activities.
-- The NOC operative appeared nervous and fidgety during the meeting, which the narrator interpreted as a sign of truthfulness.
-- The NOC operative looked extensively into the narrator's background before agreeing to meet.
-- An insider operative apologized to the speaker for harassment they experienced, calling it unnecessary and wrong.
-- The insider stated he has never killed a patriot or innocent person, but acknowledges that people have been murdered within the context of the program.
-- The insider took the speaker to an underground facility to prove his identity and the reality of the UAP program.
-- If politicians were given full access to the underground facility, it would singlehandedly expose all misinformation and lies surrounding UAP programs.
-- Insiders are currently planning a path toward some level of disclosure and restoration of Congressional oversight.
-- The speaker was used as a spokesperson and intermediary to get information and insiders connected to prominent people.
-- Insiders fear coming forward because they risk losing pensions, financial stability, and safety for their families.
-- The covert group serves as the enforcement arm of political corruption, with embedded assets in local and federal law enforcement.
-- Longtime program insiders are described as pro-disclosure, pro-American, pro-freedom, and opposed to the murders being committed to protect the program's secrecy.
-- The speaker claims to have successfully connected insiders with certain prominent people outside the program.
-- A covert group with assets in government, local and federal law enforcement, and the military acts as an enforcement arm for political corruption related to UAP secrecy.
-- Bad actors within UAP programs want to keep the technology secret and use it for power and control, potentially committing crimes against humanity.
-- Good guys within these programs want UAP technology and NHI knowledge disclosed for the benefit of all humanity.
-- NHI craft are allegedly being shot down in secluded desert areas around the world, posing a risk of provoking a hostile response from an advanced NHI species.
-- NHI entities are claimed to be capable of interdimensional travel, passing through solid objects, and controlling craft with consciousness.
-- Aerospace companies such as Boeing, Lockheed Martin, and Northrop Grumman have small, compartmentalized groups with access to UAP-related programs and technology.
-- Existing whistleblower protections are considered insufficient to protect insiders who want to come forward with UAP information.
-- Aerospace companies are allegedly paying politicians to obstruct UAP disclosure legislation to protect their interests.
-- Legislation and law enforcement involvement, including US Marshals, are seen as necessary components of any legitimate UAP disclosure process.
-- There is an ethical tug of war occurring within UAP programs regarding the shooting down of NHI craft.
-- Only small, compartmentalized groups within major defense contractors like Boeing, Lockheed Martin, and Northrop Grumman have knowledge of classified UAP programs.
-- Civilian aircraft accidentally entering Temporary Flight Restricted Areas near classified installations are allegedly being hit with experimental or undisclosed weapons.
-- Recovered and reverse-engineered UAP craft are allegedly EMP-proof and impervious to conventional weapons including bullets, .50 caliber rounds, and missiles.
-- Weapons systems are being tested on UAP craft by placing them on balloons at high altitude or stationary on the ground.
-- Reverse-engineered ARV craft have reportedly advanced to the point where insiders cannot distinguish them from original non-human intelligence craft.
-- Insiders allege that human beings are being taken and used in classified programs, referred to internally as 'pink assets.'
-- The speaker claims their mission is to bring these programs under proper oversight so that human subjects are no longer sedated or treated as biological equipment.
-- Insiders feel an ethical obligation to disclose information, which is a primary motivation for leaking details to the speaker.
-- Disclosure must be based on evidence, not testimony alone.
-- The speaker believes government officials are being paid under the table related to UAP/NHI knowledge.
-- NHI exists and governments have had access to it and been in communication with it for a long time.
-- The speaker claims to have spoken with David Grusch.
-- Joey is a private citizen who independently discovered and networked with Michael, and is not his publicist or paid by him.
-- The speaker believes significant UAP evidence will eventually come forward and expose those who falsely claimed ignorance.
 
----
-*Source: [YouTube](https://www.youtube.com/watch?v=4EMO38JUfVE)*
+- In October 2009, during Sumatra earthquake relief from the USS Denver, six Marines left their landing zone to investigate an object and were held at gunpoint by eight unmarked operators beside a large, silent, octagonal craft on a raised platform.
+- The craft absorbed light, turned from light matte grey to dark matte black, and left without rotor wash, showing red, yellow, green and blue lights at its corners, after its platform rose almost ten feet.
+- Four black, up-armored trucks carrying weapons cases towed shipping containers with black cylinders onto the platform. Herrera later learned the cylinders were an oxygen supply and the containers held people.
+- The operators knew where Marines carry their IDs and scanned them with a device far thinner than any 2009 phone, which Herrera takes as a sign that they were former military.
+- Herrera says the craft was man-made and crewed by humans. He says AARO's Historical Report Volume 1 falsely attributed to him claims of an extraterrestrial spacecraft and US Special Forces.
+- Herrera says Dr. Sean Kirkpatrick asked him only who the operators were, three times, and that AARO never followed up with the satellite imagery it said it could obtain.
+- Every Marine present signed an NDA that threatened their lives. New whistleblower protections encouraged Herrera to come forward in 2023.
+- A man Herrera describes as a CIA non-official cover officer contacted him through Steven Greer, screened him for tracking chips, handed him a pistol, apologized for his harassment, and took him underground as proof.
+- According to Herrera's insiders, the program is split between a pro-disclosure faction and an enforcement arm with assets in government, law enforcement and the military, and only small groups at Boeing, Lockheed Martin and Northrop Grumman know about it.
+- The insiders allegedly say non-human craft are shot down in remote deserts, and that anti-craft weapons are tested on the program's own EMP-proof reverse-engineered vehicles and have hit civilian aircraft that strayed into restricted airspace.
+- People are allegedly taken, drugged and used as "biological equipment" or "pink assets".
+- Joey Is Not My Name says he verified Herrera's trip to meet the insider by tracking the helicopter flight on radar.
+
+## Sources
+
+- [YouTube](https://www.youtube.com/watch?v=4EMO38JUfVE) — UAP Gerb
+
+## Related Pages
+
+- **People**: [[Michael Herrera]], [[Joey Is Not My Name]], [[Sean Kirkpatrick]], [[Steven Greer]], [[The Insider]], [[Richard B. Landolt]], [[David Grusch]], [[Barack Obama]], [[Paul Bennewitz]], [[Richard Doty]], [[Steven Greenstreet]], [[Michael Schratt]]
+- **Organizations**: [[United States Marine Corps]], [[AARO]], [[Senate Select Committee on Intelligence]], [[CIA]], [[Daily Mail]], [[The Black Vault]], [[National Press Club]], [[Boeing]], [[Lockheed Martin]], [[Northrop Grumman]]
+- **Locations**: [[Indonesia]], [[Sumatra, Indonesia]], [[USS Denver]], [[Boulder, Colorado]]
+- **Concepts**: [[Non-Official Cover (NOC)]], [[Pink Assets]], [[Alien Reproduction Vehicle (ARV)]], [[AARO Historical Report Volume 1]]
+- **Events**: [[2009 Indonesia UFO Encounter (Herrera)]], [[2009 Sumatra Earthquake]]
+- **Videos**: [[Videos/Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)/summary|Michael Herrera: UFO Whistleblower (ft. Joeyisnotmyname)]], [[Videos/The Marines Who Got too Close to UFOs/summary|The Marines Who Got too Close to UFOs]]

@@ -20,7 +20,7 @@ The shipping container detail parallels [[Michael Herrera]]'s 2009 Indonesia enc
 
 - **Author**: An anonymous insider claiming 30+ years in classified UAP programs
 - **Ghost Writer**: The book is being written through a professional ghost writer
-- **DOPSR Review**: The manuscript has been submitted to the [[Defense Office of Pre-publication and Security Review]] (DOPSR) for pre-publication clearance
+- **DOPSR Review**: The manuscript has been submitted to the [[DOPSR (Defense Office of Prepublication and Security Review)|Defense Office of Prepublication and Security Review]] (DOPSR) for pre-publication clearance
 - **Manuscript Status**: The Insider provided Michael Herrera with a two-chapter excerpt currently under DOPSR review
 
 ## Strategic Purpose: "4D Chess on DOPSR"
@@ -60,7 +60,7 @@ Analysts have noted several concerning aspects:
 
 **Convoluted Disclosure Method**: Why use an elaborate fiction-embedding strategy rather than direct whistleblowing through established legal channels like those used by [[David Grusch]]?
 
-**Disinformation Parallels**: The mixing of truth and fiction mirrors the CIA's disinformation campaign against [[Paul Benowitz]] in 1989, where genuine UFO information was deliberately mixed with false claims to discredit and destabilize Benowitz.
+**Disinformation Parallels**: The mixing of truth and fiction mirrors the CIA's disinformation campaign against [[Paul Bennewitz]] in 1989, where genuine UFO information was deliberately mixed with false claims to discredit and destabilize Benowitz.
 
 **Evidence of Absence**: No independent verification exists of the manuscript's content, DOPSR's response, or whether the "4D chess" strategy has yielded any actual intelligence.
 

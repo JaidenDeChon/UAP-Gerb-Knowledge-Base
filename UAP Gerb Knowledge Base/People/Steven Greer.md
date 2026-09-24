@@ -1,15 +1,16 @@
 ---
 name: "Steven Greer"
 role: "UFO researcher; disclosure advocate; founder of the Disclosure Project and CSETI"
+wikipedia: "Steven M. Greer"
 tags:
   - person
 ---
 
 Steven M. Greer is an American physician turned UFO researcher, founder of the Center for the Study of Extraterrestrial Intelligence (CSETI) and the Disclosure Project. Greer is one of the most prominent and controversial figures in the UAP field, known for organizing the 2001 National Press Club Disclosure Project event that featured testimony from over 20 military, intelligence, and government witnesses. He has claimed that Lockheed Skunk Works and Northrop operate out of Helendale and Tehachapi as part of a UFO legacy program network, and has made claims connecting [[Michael Herrera]]'s octagon craft and the Nimitz Tic Tac to Skunk Works.
 
-## Role in Jonathan Wagant's Testimony
+## Role in Jonathan Weygandt's Testimony
 
-Greer was instrumental in first bringing the testimony of [[Jonathan Weygandt]] to public attention. In August 2000, Wagant reached out to Greer's team, and approximately two months later Greer recorded Wagant's tape testimony as part of the Disclosure Project archive. However, Greer's published version of the interview was edited, with key details omitted — most notably Wagant's description of a four-fingered arm hanging from a partially open hatch on the crashed [[Egg-shaped UAP|egg-shaped craft]] during the 1997 [[Peru UFO Crash Incident]]. Questions asked by filmmaker [[James Fox]] during the recording session were also cut. UAP Gerb sourced the closest-to-uncut tape files from Greer's DPI archive for the comprehensive 2025 analysis, though the fully unedited original tape has not been located.
+Greer was instrumental in first bringing the testimony of [[Jonathan Weygandt]] to public attention. In August 2000, Weygandt reached out to Greer's team, and approximately two months later Greer recorded Weygandt's tape testimony as part of the Disclosure Project archive. However, Greer's published version of the interview was edited, with key details omitted — most notably Weygandt's description of a four-fingered arm hanging from a partially open hatch on the crashed [[Egg-shaped UAP|egg-shaped craft]] during the 1997 [[Peru UFO Crash Incident]]. Questions asked by filmmaker [[James Fox]] during the recording session were also cut. UAP Gerb sourced the closest-to-uncut tape files from Greer's DPI archive for the comprehensive 2025 analysis, though the fully unedited original tape has not been located.
 
 ## Involvement with Michael Herrera  
 
@@ -17,7 +18,7 @@ Greer was instrumental in facilitating contact between Michael Herrera and sourc
 
 ## Connection to the Apollo 8 Film Allegation
 
-Greer's Disclosure Project witness archive includes a redacted entry numbered 101179 describing an individual who claimed to have seen an uncut [[NASA]] film depicting six UFOs descending onto the lunar surface, allegedly filmed by astronaut [[Frank Borman]] during the Apollo 8 mission in 1968. Greer's 2009 emails and handwritten notes, reviewed by UAP Gerb, identify this source as traveling from France and planning to meet with Greer in April 2009, accompanied by a high-profile French astronaut. UAP Gerb identified the source as [[Elaine Boder]], at that time president of the French national aeronautical and astronautical Association UAP division. By early March 2009, Greer's emails reference Boder — designated "Source One" — as the courier delivering UAP briefing documents to French President [[Nicholas Sarkozy]]. UAP Gerb was unable to find any independent documentation of the alleged Apollo 8 UFO film as of the video's production date.
+Greer's Disclosure Project witness archive includes a redacted entry numbered 101179 describing an individual who claimed to have seen an uncut [[NASA]] film depicting six UFOs descending onto the lunar surface, allegedly filmed by astronaut [[Frank Borman]] during the Apollo 8 mission in 1968. Greer's 2009 emails and handwritten notes, reviewed by UAP Gerb, identify this source as traveling from France and planning to meet with Greer in April 2009, accompanied by a high-profile French astronaut. UAP Gerb identified the source as [[Alain Boudier]], at that time president of the French national aeronautical and astronautical Association UAP division. By early March 2009, Greer's emails reference Boudier — designated "Source One" — as the courier delivering UAP briefing documents to French President [[Nicholas Sarkozy]]. UAP Gerb was unable to find any independent documentation of the alleged Apollo 8 UFO film as of the video's production date.
 
 ## Sources
 

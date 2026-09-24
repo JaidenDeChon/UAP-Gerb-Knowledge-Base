@@ -147,7 +147,7 @@ NSWC Crane is involved in cutting-edge propulsion research:
 
 - **2024: $63 million SAIC contract** for hypersonic advanced concepts
 - **2023 technology transfer** between Crane, [[Sandia National Laboratories]], and other participants for advanced hypersonic technology
-- Connection to [[Salvador Pais]]' patents and [[Naval Air Station Pax River]] anti-gravity craft research
+- Connection to [[Salvatore Pais]]' patents and [[Naval Air Station Patuxent River|Naval Air Station Pax River]] anti-gravity craft research
 - Potential application of reverse-engineered UAP propulsion principles to human-made systems
 
 Attorney [[Daniel Sheehan]] implicated defense contractor [[Radiance Technologies]]' prompt global strike hypersonic program as leveraging reverse-engineered UAP technologies — notably, SAIC and Sandia are both connected to Crane's hypersonics programs, suggesting a potential technology transfer pipeline.
@@ -169,16 +169,16 @@ Senator Joe Donnelly's description of Crane as "the Pentagon's best-kept secret"
 
 The alleged "Off-World Technologies Division" at NSWC Crane represents a modern institutional parallel to the US Army's brief 1950s **Interplanetary Phenomenon Unit**, which analyzed UAP reports. If RA's testimony is accurate, Crane represents an evolution of that mission — moving from analysis of reports to reverse engineering and technological exploitation of recovered materials.
 
-## Alleged Intelligence Outreach to the Presenter
+## Alleged Intelligence Outreach to Gerb
 
-UAP Gerb states in *80 Years of UFO Crash Retrieval and Reverse Engineering* that around the time of its first interview with [[Randy Anderson|RA]], individuals identifying themselves as CIA personnel proactively reached out to the presenter to caution against discussing this "naval support activity" — an episode the video cites as informal corroboration that the alleged [[Off-World Technologies Division]] program at Crane attracted intelligence community attention.
+UAP Gerb states in *80 Years of UFO Crash Retrieval and Reverse Engineering* that around the time of its first interview with [[Randy Anderson|RA]], individuals identifying themselves as CIA personnel proactively reached out to Gerb to caution against discussing this "naval support activity" — an episode the video cites as informal corroboration that the alleged [[Off-World Technologies Division]] program at Crane attracted intelligence community attention.
 
 ## Unanswered Questions
 
 - How large is the underground facility housing the Off-World Technologies Division?
 - How many pieces of non-human technology are stored and analyzed at Crane?
 - What is the relationship between Crane's "special capabilities branch" (mentioned in SAIC contracts) and the Off-World Technologies Division?
-- Are similar divisions operating at other Navy facilities such as [[Naval Air Station Pax River]]?
+- Are similar divisions operating at other Navy facilities such as [[Naval Air Station Patuxent River|Naval Air Station Pax River]]?
 - What happened to the second Green Beret who witnessed the division alongside [[RA]]?
 
 ## Sources
@@ -195,7 +195,7 @@ UAP Gerb states in *80 Years of UFO Crash Retrieval and Reverse Engineering* tha
 - [[Consciousness-Interactive Technology]]
 - [[Reverse Engineering (UAP/UFO technology)]]
 - [[Electronic Warfare]]
-- [[Naval Air Station Pax River]]
+- [[Naval Air Station Patuxent River|Naval Air Station Pax River]]
 - [[Sandia National Laboratories]]
 - [[Area 51]]
 - [[Interplanetary Phenomenon Unit]]

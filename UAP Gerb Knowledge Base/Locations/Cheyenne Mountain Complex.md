@@ -13,7 +13,7 @@ The complex spans 5.1 acres and features six three-story-high, 40-foot-wide tunn
 
 ## Construction Context
 
-The Cheyenne Mountain facility was built in the 1960s. In a 1989 speech, Army Corps of Engineers Deputy Director [[Lloyd A. Dua]] referenced the Corps' involvement in Cheyenne's construction while acknowledging the existence of "other projects of similar scope which I cannot identify" — confirming that multiple similarly large classified underground installations exist but remain secret. This statement is cited as evidence that the Cheyenne Mountain facility is not the full extent of US deep underground military construction.
+The Cheyenne Mountain facility was built in the 1960s. In a 1989 speech, Army Corps of Engineers Deputy Director [[Lloyd A. Duscha]] referenced the Corps' involvement in Cheyenne's construction while acknowledging the existence of "other projects of similar scope which I cannot identify" — confirming that multiple similarly large classified underground installations exist but remain secret. This statement is cited as evidence that the Cheyenne Mountain facility is not the full extent of US deep underground military construction.
 
 The facility is used by UAP Gerb as the baseline acknowledged DUMB to establish technical feasibility and financial precedent for the far larger alleged network of covert DUMBs focused on UAP legacy programs.
 

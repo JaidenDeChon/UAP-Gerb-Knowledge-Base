@@ -2,8 +2,8 @@
 title: "Off-World Technologies Division – UAP Technology Reverse Engineering"
 video_id: QJ215I85d5M
 url: https://www.youtube.com/watch?v=QJ215I85d5M
-date: NA
-duration_seconds: 0
+date: 2024-07-18
+duration_seconds: 3256
 channel: UAP Gerb
 tags:
   - transcript

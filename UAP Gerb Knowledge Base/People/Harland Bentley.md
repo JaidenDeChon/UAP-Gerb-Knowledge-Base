@@ -21,7 +21,7 @@ A contextually relevant case occurred in October 1958, fewer than 50 miles from 
 
 Bentley claimed that while conducting classified NASA contracting work at a California facility in approximately 1967–1968, he overheard Houston Mission Control communicate with the Apollo 8 crew about a "bogey coming in at 11:00." The crew requested and received permission to perform collision avoidance. The unidentified craft was described as saucer-like, paralleling the capsule, with visible portals and internal movement suggesting occupants. The crew reportedly stated "they are now paralleling our course" before the craft departed. A colleague immediately told Bentley: "You did not hear anything."
 
-This claim intersects with a separate thread investigated by UAP Gerb: a Disclosure Project witness (number 101179), identified as [[Elaine Boder]], who claimed to have seen an uncut [[NASA]] film depicting six UFOs descending onto the lunar surface taken by astronaut [[Frank Borman]] during Apollo 8. Bentley's account and Boder's claim are treated as parallel but unverified and unconnected threads.
+This claim intersects with a separate thread investigated by UAP Gerb: a Disclosure Project witness (number 101179), identified as [[Alain Boudier]], who claimed to have seen an uncut [[NASA]] film depicting six UFOs descending onto the lunar surface taken by astronaut [[Frank Borman]] during Apollo 8. Bentley's account and Boudier's claim are treated as parallel but unverified and unconnected threads.
 
 ## Sources
 

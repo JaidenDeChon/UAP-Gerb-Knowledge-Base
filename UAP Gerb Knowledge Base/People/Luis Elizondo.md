@@ -1,6 +1,7 @@
 ---
 name: "Luis Elizondo"
 role: "Former AATIP Director and intelligence official"
+wikipedia: "Luis Elizondo"
 tags:
   - person
 ---

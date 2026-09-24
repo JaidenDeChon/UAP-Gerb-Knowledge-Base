@@ -10,13 +10,13 @@ The **1955 Langtry UFO Crash** is an alleged UAP impact and crash retrieval even
 
 ## The Sighting
 
-On a spring day in 1955, Colonel Willingham and other F-86 Sabre aviators were escorting B-47 and B-52 bombers from [[Carswell Air Force Base]] in Fort Worth, Texas on a Cold War simulation training exercise. Willingham's call sign was Willie Eddie (serial CD1195). During the mission, the squadron received radio intelligence from [[Distant Early Warning (DEW) Radar|DEW radar systems]] in Canada that fast-moving unidentified signatures were traveling south toward Texas.
+On a spring day in 1955, Colonel Willingham and other F-86 Sabre aviators were escorting B-47 and B-52 bombers from [[Carswell Air Force Base]] in Fort Worth, Texas on a Cold War simulation training exercise. Willingham's call sign was Willie Eddie (serial CD1195). During the mission, the squadron received radio intelligence from [[DEW Radar Systems|DEW radar systems]] in Canada that fast-moving unidentified signatures were traveling south toward Texas.
 
 Willingham observed a bright object approaching at an estimated 2,000 mph — approximately four times the F-86's top speed of 685 mph. He described the surface as resembling "magnesium steel." Other pilots, including George Smithson, confirmed seeing the object in a post-incident debrief. The object executed a 90-degree turn southwest toward the Mexican border, then was observed emitting sparks while tilting to a 45-degree angle. Willingham speculated the abrupt maneuver may have caused structural damage to the craft. The object fell out of view, and Willingham estimated it had crashed near Langtry, Texas, based on his familiarity with the region.
 
 ## The Crash Site Visit
 
-Willingham requested and received permission from Denver flight control to investigate the estimated crash site. After returning to base and filing his initial report, Willingham departed privately in a 1947 Ercoupe Champion with his friend [[Jack Perkins]], a Pennsylvania electronics engineer and Civil Air Patrol colleague.
+Willingham requested and received permission from Denver flight control to investigate the estimated crash site. After returning to base and filing his initial report, Willingham departed privately in a 1947 Aeronca Champion with his friend [[Jack Perkins]], a Pennsylvania electronics engineer and Civil Air Patrol colleague.
 
 At the site, Willingham and Perkins observed:
 - A disc-shaped craft broken into roughly three sections
@@ -41,9 +41,9 @@ Willingham attempted to test the material's properties for four days but took no
 
 ## The Bodies Contradiction
 
-The most significant credibility issue in Willingham's account is a direct contradiction regarding non-human bodies. In [[Noah Torres]] and [[Ruben Uriarte]]'s 2008 book *The Other Roswell: UFO Crash on the Texas Border*, Willingham is explicitly quoted: "I never saw bodies. I was not able to get close enough, and I don't know what happened after I left."
+The most significant credibility issue in Willingham's account is a direct contradiction regarding non-human bodies. In [[Noe Torres]] and [[Ruben Uriarte]]'s 2008 book *The Other Roswell: UFO Crash on the Texas Border*, Willingham is explicitly quoted: "I never saw bodies. I was not able to get close enough, and I don't know what happened after I left."
 
-However, in a July 24, 2012 interview with radio host [[Jeff Rense]], Willingham described sneaking around the perimeter to view inside the dome section and observing three to four non-human bodies — small in stature, with large heads, broomstick-thin arms, no clothing, and "in a lot of different pieces." Author Noah Torres reiterated the bodies claim in a 2023 presentation, stating bodies were present at the crash site.
+However, in a July 24, 2012 interview with radio host [[Jeff Rense]], Willingham described sneaking around the perimeter to view inside the dome section and observing three to four non-human bodies — small in stature, with large heads, broomstick-thin arms, no clothing, and "in a lot of different pieces." Author Noe Torres reiterated the bodies claim in a 2023 presentation, stating bodies were present at the crash site.
 
 UAP Gerb flags this contradiction as a "massive issue" in Willingham's credibility. Willingham attributed other inconsistencies in his account (such as the aircraft type he was flying and the year of the event) to memory problems from a Korean War head injury, but UAP Gerb finds this explanation insufficient for a factual detail as significant as the presence or absence of non-human bodies.
 
@@ -53,7 +53,7 @@ Former US Air Force member [[William Drager]], who served as a Spanish interpret
 
 ## Credibility Assessment
 
-Researcher [[Kevin Randle]], in his book *Crash: When UFOs Fall from the Sky*, questioned Willingham's Air Force service record. The National Personnel Records Service in St. Louis, Missouri was unable to provide Willingham's service documentation. However, a catastrophic July 12, 1973 fire at that facility destroyed most records for personnel serving between 1947 and 1963. Co-author Noah Torres claims to hold over 50 documents corroborating Willingham's service, though these have not been publicly released.
+Researcher [[Kevin Randle]], in his book *Crash: When UFOs Fall from the Sky*, questioned Willingham's Air Force service record. The National Personnel Records Service in St. Louis, Missouri was unable to provide Willingham's service documentation. However, a catastrophic July 12, 1973 fire at that facility destroyed most records for personnel serving between 1947 and 1963. Co-author Noe Torres claims to hold over 50 documents corroborating Willingham's service, though these have not been publicly released.
 
 Additional inconsistencies between Willingham's 1965 newspaper account, his 1977 affidavit obtained by researcher [[Todd Zechel]], and the 2008 book include:
 - **Aircraft type**: The affidavit states Willingham was flying an F-94; the book states an F-86 Sabre.
@@ -81,7 +81,7 @@ The 1955 Langtry crash is distinct from the December 6, 1950 [[1950 El Indio UFO
 1. **Craft condition**: The MJ-12 document describes the 1950 craft as nearly incinerated; Willingham observed three large intact sections at Langtry.
 2. **Timeline**: Willingham was still serving in the Korean War in December 1950.
 3. **Geography**: El Indio, Texas is 75 miles southeast of Del Rio; Langtry is 60 miles northwest.
-4. **Technology reference**: Willingham's account references [[Distant Early Warning (DEW) Radar|DEW radar systems]] not implemented until 1952.
+4. **Technology reference**: Willingham's account references [[DEW Radar Systems|DEW radar systems]] not implemented until 1952.
 
 ## Eric Davis Endorsement
 

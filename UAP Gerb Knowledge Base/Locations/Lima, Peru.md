@@ -1,5 +1,6 @@
 ---
 name: "Lima, Peru"
+coordinates: [-12.06, -77.0375]
 tags:
   - location
 ---
@@ -8,7 +9,7 @@ The capital and largest city of Peru, located on the Pacific coast. In the UAP c
 
 ## Role in Crash Site Logistics Analysis
 
-Lima's position on Peru's Pacific coast — approximately 600–700 miles by air from Iquitos in the Amazon basin — was used to calculate maximum possible travel distances and times in the reconstruction of the 1997 Operation Laser Strike crash event. Researchers used Lima as a fixed reference point to evaluate whether various candidate staging locations, including [[Bukulpa, Peru|Bukulpa]] and [[Ikitos, Peru|Iquitos]], were consistent with the documented response timeline of personnel and equipment reaching the crash site.
+Lima's position on Peru's Pacific coast — approximately 600–700 miles by air from Iquitos in the Amazon basin — was used to calculate maximum possible travel distances and times in the reconstruction of the 1997 Operation Laser Strike crash event. Researchers used Lima as a fixed reference point to evaluate whether various candidate staging locations, including [[Pucallpa|Bukulpa]] and [[Iquitos, Peru|Iquitos]], were consistent with the documented response timeline of personnel and equipment reaching the crash site.
 
 Lima also hosted the German Military Visit to NAMRU Lima — the Naval Medical Research Unit, a US Navy medical research installation — in events connected to the broader Operation Laser Strike period.
 

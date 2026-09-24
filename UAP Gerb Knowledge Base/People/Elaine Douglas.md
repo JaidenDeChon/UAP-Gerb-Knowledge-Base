@@ -9,7 +9,7 @@ tags:
 
 ## Role in the Coyame Case
 
-In early summer 1993, Douglas received anonymously mailed paper copies of the Denb Report, an anomalous document titled "Research Findings on Chihuahua Disc Crash" authored by an individual or entity identified only as "[[JS]]" and dated March 23, 1992. The document had first surfaced in 1992 on an electronic bulletin board and was subsequently mailed anonymously to select UFO researchers.
+In early summer 1993, Douglas received anonymously mailed paper copies of the Denb Report, an anomalous document titled "Research Findings on Chihuahua Disc Crash" authored by an individual or entity identified only as "[[JS (Denb Report Author)|JS]]" and dated March 23, 1992. The document had first surfaced in 1992 on an electronic bulletin board and was subsequently mailed anonymously to select UFO researchers.
 
 Douglas shared the original documents with [[Leonard Stringfield]], the pioneering UFO crash retrieval researcher, who reviewed the report and concluded it was "authoritatively written using correct military terminology" and drew clear distinctions between hard evidence and speculation—characteristics inconsistent with a hoax.
 

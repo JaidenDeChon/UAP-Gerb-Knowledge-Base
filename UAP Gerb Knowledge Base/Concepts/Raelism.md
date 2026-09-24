@@ -19,7 +19,7 @@ Raelism (also Raelianism or the Raelian Movement) is a UFO religion founded in F
 
 The Raelian Movement is legally registered as a religion in some jurisdictions and operates openly, holding annual events and maintaining publications in multiple languages. It attracted significant controversy in 2002 when a Raelian biotech company, Clonaid, claimed to have produced the first human clone — a claim that was never independently verified.
 
-The host of UAP Gerb describes the movement as a curiosity — unusual but not dangerous — and distinct from harmful UFO cults.
+Gerb describes the movement as a curiosity — unusual but not dangerous — and distinct from harmful UFO cults.
 
 ## Sources
 

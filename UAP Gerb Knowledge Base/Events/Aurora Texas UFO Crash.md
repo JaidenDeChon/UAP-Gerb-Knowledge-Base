@@ -32,7 +32,7 @@ In 1973, [[Bill Case]] led a [[MUFON]] investigation into the Aurora crash that 
 
 ## Authenticity Dispute
 
-In a 1980 interview with Time Magazine, [[Etna Pegue]], an 86-year-old Aurora resident at the time, stated that the story had been fabricated to draw attention to the dying town after a railroad bypass left it economically isolated. Her account is the most direct first-person claim that the Aurora crash was a hoax.
+In a 1980 interview with Time Magazine, [[Etta Pegues]], an 86-year-old Aurora resident at the time, stated that the story had been fabricated to draw attention to the dying town after a railroad bypass left it economically isolated. Her account is the most direct first-person claim that the Aurora crash was a hoax.
 
 Counterarguments include the independent eyewitness accounts uncovered by MUFON, the physical anomalies at the burial site, and the suspicious disappearance of the grave marker after investigators expressed interest in exhumation.
 

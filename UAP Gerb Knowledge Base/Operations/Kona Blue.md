@@ -9,9 +9,9 @@ Kona Blue was a proposed waived Unacknowledged Special Access Program (USAP) tha
 
 ## Program Structure and Intent
 
-Kona Blue was designed as a prospective PAP (Program Acquisition Plan) to establish a secure Special Access Program structure that would:
+Kona Blue was designed as a PAP (prospective special access program) to establish a secure Special Access Program structure that would:
 - Receive recovered UAP craft materials and possibly complete craft from [[Lockheed Martin]]
-- Operate under [[Department of Homeland Security]] Science and Technology oversight to avoid traditional DoD/IC gatekeeping structures
+- Operate under [[DHS (Department of Homeland Security)|Department of Homeland Security]] Science and Technology oversight to avoid traditional DoD/IC gatekeeping structures
 - Provide Senator Harry Reid and Congressional intelligence committees visibility into UAP material custody
 - Enable [[Bigelow Aerospace Advanced Space Studies]] (BASS) to conduct research and analysis on the transferred materials under [[AAWSAP]] contract
 - Maintain waived USAP security protocols to protect sources, methods, and the materials themselves
@@ -30,8 +30,8 @@ A more formal transfer attempt was made in 2011 using the Kona Blue PAP structur
 - Ryder proposed a "UAP Material Divestment Plan" to AAWSAP leadership
 - Materials were described as residing in "a specific facility known to me" (facility location provided to Inspector General)
 - Materials originated from "crash retrieval materials from the 1950s and other historical operations"
-- Some sources claim the materials included craft hull fragments or the complete [[1953 Kingman, Arizona crash]] vehicle
-- [[Tara Oul]] of DHS Science and Technology was approached to establish the PAP infrastructure
+- Some sources claim the materials included craft hull fragments or the complete [[1953 Kingman, Arizona Crash Retrieval|1953 Kingman, Arizona crash]] vehicle
+- [[Tara O'Toole]], DHS Under Secretary for Science and Technology, was approached to establish the PAP; per AARO's declassified history she was briefed in May 2011, established Kona Blue as a prospective SAP in July 2011, and it was terminated in February 2012
 - [[Bigelow Aerospace Advanced Space Studies]] constructed a 5,000 square foot underground vault (15-20 feet deep, 3-foot thick walls/ceilings/floors, multiple tunnels, security doors, vault steel door) specifically to receive and secure the materials
 - The vault was designed to be operational by late 2009 or early 2010
 
@@ -47,7 +47,7 @@ The 2011 Kona Blue transfer was killed through coordinated opposition from multi
 
 **[[Robert Cardillo]]** — Deputy Director of National Intelligence for Intelligence Integration:
 - Allegedly exercised veto authority over the transfer from the DNI position
-- Later joined the board of [[Paraton]] in 2019 — the corporation that may have ultimately received Lockheed's divested materials through a separate corporate transaction
+- Later joined the board of [[Peraton]] in 2019 — the corporation that may have ultimately received Lockheed's divested materials through a separate corporate transaction
 
 **Possible [[Lockheed Martin]] Internal Opposition:**
 [[Mary K. Sturdivant]], serving as Lockheed VP for Intelligence, Joint, and Science and Technology Programs during this period, may have coordinated with Gaffney from within Lockheed due to her extensive CIA background and prior work in the joint CIA DS&T/Directorate of Operations office.
@@ -58,7 +58,7 @@ According to declassified AARO documents on Kona Blue, DHS and other involved ag
 
 ## AARO Declassification and Tim Phillips Statements
 
-On July 30, 2025, former AARO Deputy Director [[Tim Phillips]] made controversial public statements about Kona Blue, claiming it was established **"as the home for all this paranormal UFO crap"** and alleging that multiple whistleblowers cited Kona Blue to justify their claims to Congress. Phillips did not provide examples or evidence for these assertions.
+On July 30, 2025, former AARO Deputy Director Tim Phillips made controversial public statements about Kona Blue, claiming it was established **"as the home for all this paranormal UFO crap"** and alleging that multiple whistleblowers cited Kona Blue to justify their claims to Congress. Phillips did not provide examples or evidence for these assertions.
 
 [[AARO]] released a declassified Kona Blue slide deck that confirmed the program's structure and DHS involvement but framed it as a proposal ultimately rejected due to material authenticity concerns — a characterization disputed by UAP researchers who view the declassified materials as confirmation of the program's legitimacy rather than its supposed paranormal focus.
 
@@ -74,7 +74,7 @@ The program's blocking by [[Glenn Gaffney]] and [[Robert Cardillo]] is cited as 
 
 ## Theorized Link to the 1953 Kingman Crash
 
-UAP Gerb's *80 Years of UFO Crash Retrieval and Reverse Engineering* advances a specific theory connecting the Kona Blue materials to the [[1953 Kingman, Arizona Crash Retrieval|1953 Kingman, Arizona crash]]. The video states it has "heard credible rumors and indirect confirmation from Hal Puthoff" that the Kona Blue technology transfer agreement materials consisted of some of the Kingman wreckage, raising the possibility that there may have been as many as three separate Kingman crashes. When the presenter raised this theory directly with [[Hal Puthoff]], Puthoff reportedly gave "a bit of a cheeky look and refused to comment further" — a non-denial the video treats as increasing its confidence that the Kona Blue materials originated from the 1953 Kingman retrieval, potentially tracing custody of that wreckage from 1953 through to Lockheed Martin's 2010s divestment attempt.
+UAP Gerb's *80 Years of UFO Crash Retrieval and Reverse Engineering* advances a specific theory connecting the Kona Blue materials to the [[1953 Kingman, Arizona Crash Retrieval|1953 Kingman, Arizona crash]]. The video states it has "heard credible rumors and indirect confirmation from Hal Puthoff" that the Kona Blue technology transfer agreement materials consisted of some of the Kingman wreckage, raising the possibility that there may have been as many as three separate Kingman crashes. When Gerb raised this theory directly with [[Hal Puthoff]], Puthoff reportedly gave "a bit of a cheeky look and refused to comment further" — a non-denial the video treats as increasing its confidence that the Kona Blue materials originated from the 1953 Kingman retrieval, potentially tracing custody of that wreckage from 1953 through to Lockheed Martin's 2010s divestment attempt.
 
 ## Eric Davis's Account of the Materials-Only Program
 
@@ -82,7 +82,7 @@ The same video relays [[Eric Davis]]'s detailed characterization, given in a pod
 
 ## Possible Alternate Disposition: Veritas Capital Transaction
 
-UAP researcher [[Rob Jones]], in his paper "Sub Rosa," presents a theory that after the Kona Blue blocking, Lockheed may have successfully divested the materials through a complex corporate transaction. In 2010, [[Veritas Capital]] acquired Lockheed Martin's Enterprise Integration Group (EIG) — a unit deeply involved in highly classified systems engineering for US intelligence agencies — for $815 million cash. Jones theorizes this transaction may have included the transfer of UAP materials to what eventually became [[Paraton]] (after multiple mergers and rebrandings under Veritas Capital). Robert Cardillo's 2019 joining of Paraton's advisory board potentially supports this theory.
+UAP researcher Rob Jones, in his paper "Sub Rosa," presents a theory that after the Kona Blue blocking, Lockheed may have successfully divested the materials through a complex corporate transaction. In 2010, Veritas Capital acquired Lockheed Martin's Enterprise Integration Group (EIG) — a unit deeply involved in highly classified systems engineering for US intelligence agencies — for $815 million cash. Jones theorizes this transaction may have included the transfer of UAP materials to what eventually became [[Peraton]] (after multiple mergers and rebrandings under Veritas Capital). Robert Cardillo's 2019 joining of Peraton's advisory board potentially supports this theory.
 
 ## Sources
 

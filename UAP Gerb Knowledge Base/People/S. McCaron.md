@@ -1,17 +1,15 @@
 ---
 name: "S. McCaron"
-role: "Alleged UAP researcher or analyst"
+role: "Name on a page of the alleged leaked UAP Task Force report"
 tags:
   - person
 ---
 
-S. McCaron is a name appearing in an alleged leaked classified UAP document alongside [[M. Harmon]], [[K Shakoya]], and [[Hillary S. McCaron]]. The document purportedly represents a section from an appendix of a UAP Task Force report and lists these individuals as contributors to "Behavioral Data Analysis" research examining UAP and USO characteristics.
+S. McCaron is one of three names that appear on the "Behavioral Data Analysis" page of the [[Alleged Leaked UAP Task Force Report]], a set of purported pages from a classified [[UAP Task Force]] report that circulated online in 2021 or 2022. The other names on the page are [[M. Harmon]] and [[K Shakoya]]. The page analyses 1,292 UFO cases and concludes that UAP are remote or autonomous drones or a form of mechanical life.
 
-## Potential Relationship to Hillary S. McCaron
+## Identity
 
-The appearance of both "S. McCaron" and "[[Hillary S. McCaron]]" (whose middle initial is S) in the same document raises the question of whether these represent the same individual listed twice, or two distinct researchers with the same surname. The different representations (abbreviated first name versus full first name with middle initial) could indicate either a data entry inconsistency, separate contributions by the same person at different times, or genuinely separate individuals. Without additional context or verification, the relationship between these two names remains ambiguous.
-
-Like the other researchers named in the alleged leaked document, exhaustive searches have yielded no public information about S. McCaron, consistent either with the use of pseudonyms for classification purposes or with the involvement of individuals whose research roles are deliberately obscured from public view.
+In his analysis of the [[Flyby Footage]], Gerb said that an exhaustive search for the names on the page had turned up almost nothing, and that he assumed they were pseudonyms or had had their first names removed. His one lead for this name was [[Hillary S. McCaron]], whose LinkedIn profile lists her as a research neuroscientist at the [[US Army Medical Research Institute of Chemical Defense]]. He considered a neuroscientist's involvement in a study of UFO behaviour a plausible fit.
 
 ## Sources
 

@@ -5,19 +5,20 @@ tags:
   - location
 ---
 
-Marine Corps Air Station Cherry Point is a United States Marine Corps installation located in Havelock, North Carolina. It serves as the home station for [[MAC G28|Marine Air Control Group 28]] and various Marine aviation units.
+Marine Corps Air Station (MCAS) Cherry Point is a United States Marine Corps air station in Havelock, Craven County, North Carolina, home of the 2nd Marine Aircraft Wing and of [[Marine Air Control Group 28]]. In UAP research it is the home station of Lance Corporal [[Jonathan Weygandt]], a witness to the 1997 [[Peru UFO Crash Incident]], and the departure point of the anonymous Marine "RB", who says he guarded a recovered disc in 1963.
 
-## Connection to the Peru UFO Crash Incident
+## Operation Laser Strike and the Peru crash
 
-Cherry Point was the home station of [[Jonathan Weygandt]] and his unit within MAC G28's Second Low-Altitude Air Defense Battalion. Wagant enlisted in the Marine Corps in 1995 and was stationed at Cherry Point before deploying to [[Peru]] for [[Operation Laser Strike]] in 1997. After the [[Peru UFO Crash Incident]], Wagant was returned to Cherry Point from Peru following three weeks of segregation at his operational base. By March 1998, Wagant was discharged from the Marines at Cherry Point.
+Weygandt enlisted in 1995 and served at Cherry Point with the 2nd Low Altitude Air Defense Battalion of Marine Air Control Group 28. In February 1997 he moved to his unit's section for [[Operation Laser Strike]] in Peru, a deployment of Cherry Point Marines that is documented in Defense Technical Information Center records. The channel's earlier account of the case names his chain of command during the deployment as Master Sergeant Chris Diggins and Major Bob Cole.
 
-MAC G28 Marines from Cherry Point verifiably deployed to Operation Laser Strike, as confirmed by Defense Technical Information Center documentation.
+After the [[Peru UFO Crash Incident]] in March or April 1997, and three weeks kept apart with Air Force personnel at his Peruvian base, Weygandt was sent back to Cherry Point. By late 1997 he had admitted to using banned substances in order to be discharged, and he left the Marine Corps in March 1998.
 
-## Connection to the RB Whistleblower Account
+## The "RB" incident, 1963
 
-Cherry Point was also the departure point cited by anonymous Marine whistleblower "[[RB]]" in his account of a classified assignment in December 1963. RB stated that he boarded a windowless plane at Cherry Point and was flown approximately three hours to an undisclosed location where he spent two weeks guarding a recovered disc-shaped craft of non-human origin. The three-hour flight radius from Cherry Point is consistent with multiple potential sites including [[Wright-Patterson Air Force Base]], Ohio.
+In a separate case documented by researcher [[Leonard Stringfield]] and later examined by Michael Schratt, a Marine corporal known only as "RB", who served from 1960 to 1966, said he boarded a windowless aircraft at Cherry Point in December 1963 and flew about three hours to an undisclosed installation, where for two weeks he guarded a nearly seamless, 40-foot disc-shaped craft with no landing gear, fins or visible propulsion. A three-hour radius from Cherry Point takes in several candidate sites, including [[Wright-Patterson Air Force Base]] in Ohio.
 
 ## Sources
 
 - [[Video - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt]]
+- [[Video - The Marines Who Got too Close to UFOs]]
 - [[Video - UFO Whistleblowers Vol.2]]

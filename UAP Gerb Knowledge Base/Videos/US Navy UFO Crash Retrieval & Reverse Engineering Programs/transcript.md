@@ -2,8 +2,8 @@
 title: "Transcript - US Navy UFO Crash Retrieval & Reverse Engineering Programs"
 video_id: H9GSqOEvoBE
 url: https://www.youtube.com/watch?v=H9GSqOEvoBE
-date: NA
-duration_seconds: 0
+date: 2025-04-11
+duration_seconds: 6352
 channel: UAP Gerb
 tags:
   - transcript

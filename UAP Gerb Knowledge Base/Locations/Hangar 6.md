@@ -4,15 +4,12 @@ tags:
   - location
 ---
 
-Hangar 6 is a facility designation associated with [[Wright-Patterson Air Force Base]] in testimony and archival discussion concerning historical aerospace logistics and alleged sensitive storage activity. Publicly available references describe the structure in conventional historical terms, while UAP-related claims assign it a more restricted role.
+Hangar 6 is a hangar at [[Wright-Patterson Air Force Base]], Ohio. According to internal base documents cited by UAP Gerb, it was first used mainly by the Signal Corps to install radios and antennas, and after the Second World War became a facility for retrofitting and modifying aircraft. Instead of one giant hangar door it has several smaller doors.
 
-In the witness framework used by this knowledge base, Hangar 6 is discussed as a potentially important logistics-controlled site connected indirectly to [[Edwards Air Force Base]] program narratives. These claims remain unverified and are presented as allegations from source material.
+## In UAP research
 
-## Historical and Investigative Context
-
-- Mentioned in relation to Wright-Patterson infrastructure evolution.
-- Cited in speculative testimony about biologics and special handling facilities.
+According to [[Steven Greer]]'s notes on witness [[Ed (Witness 11063)|Ed]], Ed said Wright-Patterson has a close connection with [[Edwards Air Force Base]], where he allegedly tested reverse-engineered craft, and made an educated guess that Hangar 6, held by logistics, is significant. In *UAP Reverse Engineering at Edwards Air Force Base*, UAP Gerb notes that a hangar with that door arrangement later housed the Wright Field fitness center, but that the fitness center is in Hangar 22, not Hangar 6. Apart from blueprints and exterior images, he found almost no internal images, reports or articles on Hangar 6. He made it a research priority, looking especially for infrastructure that could support living or deceased biologics, as Ed has claimed.
 
 ## Sources
 
-- [[UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2]]
+- [[Video - UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2]]

@@ -2,8 +2,8 @@
 title: "Transcript - UFO Legacy Programs - Science Applications International Corporation (SAIC)"
 video_id: 9p99lTsC7wQ
 url: https://www.youtube.com/watch?v=9p99lTsC7wQ
-date: NA
-duration_seconds: 0
+date: 2025-06-21
+duration_seconds: 7953
 channel: UAP Gerb
 tags:
   - transcript

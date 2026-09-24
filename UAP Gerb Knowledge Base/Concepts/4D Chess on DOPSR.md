@@ -4,7 +4,7 @@ tags:
   - concept
 ---
 
-"4D Chess on DOPSR" is the term used by an anonymous insider (who contacted whistleblower [[Michael Herrera]]) to describe a strategic game of disclosure being played against the Defense Office of Pre-publication and Security Review ([[DOPSR]]). The strategy involves intentionally embedding classified or deep black program information within a fictional manuscript, then observing how DOPSR responds during pre-publication review to gain intelligence about what the government will and will not acknowledge.
+"4D Chess on DOPSR" is the term used by an anonymous insider (who contacted whistleblower [[Michael Herrera]]) to describe a strategic game of disclosure being played against the Defense Office of Pre-publication and Security Review ([[DOPSR (Defense Office of Prepublication and Security Review)|DOPSR]]). The strategy involves intentionally embedding classified or deep black program information within a fictional manuscript, then observing how DOPSR responds during pre-publication review to gain intelligence about what the government will and will not acknowledge.
 
 ## The Strategy
 
@@ -36,11 +36,11 @@ Investigator [[Joey Is Not My Name]] expressed significant skepticism about this
 
 **Complexity vs. Utility**: The elaborate 4D chess strategy raises questions about whether a genuine disclosure advocate would pursue such convoluted methods rather than direct testimony, documentation, or whistleblowing through established channels.
 
-**Disinformation Parallels**: The mixing of truth and fiction is a classic disinformation technique, making it impossible to separate genuine classified information from fabrication. This mirrors the [[Paul Benowitz]] disinformation campaign conducted by the CIA in 1989.
+**Disinformation Parallels**: The mixing of truth and fiction is a classic disinformation technique, making it impossible to separate genuine classified information from fabrication. This mirrors the [[Paul Bennewitz]] disinformation campaign conducted by the CIA in 1989.
 
 ## DOPSR Process Context
 
-[[DOPSR]] (Defense Office of Pre-publication and Security Review) is the DOD entity that reviews all books, articles, speeches, and other materials written by current or former DOD personnel to ensure no classified information is disclosed. [[David Grusch]] is currently navigating DOPSR review for an op-ed. The process is mandatory for individuals with clearances and can involve:
+[[DOPSR (Defense Office of Prepublication and Security Review)|DOPSR]] (Defense Office of Pre-publication and Security Review) is the DOD entity that reviews all books, articles, speeches, and other materials written by current or former DOD personnel to ensure no classified information is disclosed. [[David Grusch]] is currently navigating DOPSR review for an op-ed. The process is mandatory for individuals with clearances and can involve:
 - Redaction of classified material
 - Complete denial of publication
 - Lengthy delays (sometimes years)

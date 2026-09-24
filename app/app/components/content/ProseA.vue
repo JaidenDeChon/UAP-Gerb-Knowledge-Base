@@ -4,6 +4,7 @@ import { ArrowUpRight } from '@lucide/vue'
 import { Badge } from '@/components/ui/badge'
 import { CardTitle } from '@/components/ui/card'
 import { HoverCard, HoverCardContent, HoverCardTrigger } from '@/components/ui/hover-card'
+import { portraitAlt, portraitCredit } from '@/utils/portrait'
 
 defineOptions({ inheritAttrs: false })
 
@@ -46,7 +47,20 @@ async function load(open: boolean): Promise<void> {
       </NuxtLink>
     </HoverCardTrigger>
 
-    <HoverCardContent v-if="loading || preview">
+    <HoverCardContent v-if="loading || preview" class="overflow-hidden">
+      <!-- A person's portrait sits in the corner, fading into the card with
+           the shared `ufo-fade` mask; the preview arrives with it in one
+           payload, and its box is fixed, so nothing moves as it loads. -->
+      <img
+        v-if="preview?.image"
+        :src="preview.image.src"
+        :width="preview.image.width"
+        :height="preview.image.height"
+        :alt="portraitAlt(preview.title)"
+        :title="portraitCredit(preview.image)"
+        decoding="async"
+        class="ufo-preview-portrait ufo-fade ufo-fade-xy"
+      >
       <div v-if="preview" class="flex flex-col gap-2">
         <CardTitle class="text-[16px] leading-5 tracking-normal">
           {{ preview.title }}
@@ -79,3 +93,19 @@ async function load(open: boolean): Promise<void> {
     <ArrowUpRight class="size-3 self-center" />
   </a>
 </template>
+
+<style scoped>
+/* Flush with the card's top-right corner (the negative margins undo the
+   card's 16px padding; its overflow clips the corner), a fixed box
+   cover-cropped toward the face. */
+.ufo-preview-portrait {
+  float: right;
+  width: 72px;
+  height: 92px;
+  margin: -16px -16px 6px 12px;
+  object-fit: cover;
+  object-position: 50% 22%;
+  --ufo-fade-x-start: 40%;
+  --ufo-fade-y-start: 50%;
+}
+</style>

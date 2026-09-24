@@ -13,6 +13,11 @@ Taber's testimony centers on a disclosure made to him by his great-uncle, a cont
 
 As a legal document submitted to a federal office, the memorandum places Taber's account within the formal congressional and executive framework for UAP disclosure established by the National Defense Authorization Acts of 2022 and 2023.
 
+## The egg-shaped craft
+
+As UAP Gerb summarises Taber's account, the craft at Area 51 was smooth, with no rivets or welded seams and no visible entry points. Gerb compares it with the egg-shaped craft [[Jonathan Weygandt]] says he found at the 1997 [[Peru UFO Crash Incident|Peru crash site]], which differed mainly in its gill-like vents, and cites both as examples of technology he doubts humans have been able to reverse-engineer. See [[Egg-shaped UAP]].
+
 ## Sources
 
 - [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
+- [[Video - The Marines Who Got too Close to UFOs]]

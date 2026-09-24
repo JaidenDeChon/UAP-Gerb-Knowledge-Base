@@ -12,14 +12,14 @@ The most detailed account of crash retrieval organization comes from the [[Natio
 
 - **[[160th Special Operations Aviation Regiment]]** (1st Battalion) — suspected helicopter transport provider using CH-47 and MH-47 platforms
 - **[[JSOC (Joint Special Operations Command)]]** units including [[Delta Force]] and [[Navy SEAL Team 6]] — alleged to serve as direct-action perimeter and extraction forces
-- **[[Department of Energy]]** personnel, [[Nuclear Emergency Support Team (NEST)]], and [[National Nuclear Security Administration]] scientific response teams — deployed for CBR (chemical, biological, radiological) risk assessment and initial materials handling
+- **[[Department of Energy]]** personnel, [[NEST (Nuclear Emergency Support Team)]], and [[National Nuclear Security Administration]] scientific response teams — deployed for CBR (chemical, biological, radiological) risk assessment and initial materials handling
 - **[[Office of Secure Transportation (OST)]]** — responsible for subsequent material transport
 
 The "Hidden Wing" investigation independently notes that JSOC Tier 1 units are alleged to serve as the direct-action force for crash retrievals, with the 160th SOAR providing transportation.
 
 ## Witness Accounts
 
-**Jonathan Wagant / Peru (1997):** USMC Lance Corporal [[Jonathan Weygandt]] testified to encountering a large egg-shaped UAP crash during Operation Laser Strike. Personnel in DOE-embroidered jackets and MOPP gear secured the site, while Marines were held at gunpoint by men in black fatigues believed to be from the 7th Army.
+**Jonathan Weygandt / Peru (1997):** USMC Lance Corporal [[Jonathan Weygandt]] testified to encountering a large egg-shaped UAP crash during Operation Laser Strike. Personnel in DOE-embroidered jackets and MOPP gear secured the site, while Marines were held at gunpoint by men in black fatigues believed to be from the 7th Army.
 
 **Anonymous 21st-Century Witness:** A source claiming service on a rapid reaction crash retrieval team described operations based at the [[Nevada National Security Site (Nevada Test Site)]], with the NRO cited as the focal point. A company-sized Delta Detachment of 20–40 personnel in all black was described as first on scene.
 

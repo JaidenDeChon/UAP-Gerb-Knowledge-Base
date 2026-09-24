@@ -2,8 +2,8 @@
 title: "Transcript - The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs"
 video_id: 107BtDYhTkA
 url: https://www.youtube.com/watch?v=107BtDYhTkA
-date: NA
-duration_seconds: 0
+date: 2026-08-07
+duration_seconds: 8352
 channel: UAP Gerb
 tags:
   - transcript

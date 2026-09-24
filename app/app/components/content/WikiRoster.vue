@@ -12,14 +12,20 @@ import {
   MapPin,
   Users,
 } from '@lucide/vue'
-import { CATEGORY_ICON, type Category } from '#shared/types/wiki'
+import { CATEGORY_ICON, type Category, type NotePortrait } from '#shared/types/wiki'
 import { categoryMark, categorySurface } from '@/utils/category'
+import { portraitAlt, portraitCredit } from '@/utils/portrait'
 
 interface Entry { name: string, role?: string, note?: string }
 
 const props = withDefaults(defineProps<{ entries?: Entry[] }>(), { entries: () => [] })
 
-const { refs } = useWikiResolve(() => props.entries.map(e => e.name))
+const { refs, ready } = useWikiResolve(() => props.entries.map(e => e.name))
+
+/** A person's portrait, when their page has one (see wiki/portraits.ts). */
+function imageOf(name: string): NotePortrait | undefined {
+  return refs.value.get(name.trim())?.image
+}
 
 function categoryOf(name: string): string {
   return refs.value.get(name.trim())?.category ?? 'Unlinked'
@@ -45,11 +51,18 @@ function iconFor(name: string): Component {
 </script>
 
 <template>
-  <div v-if="props.entries.length" class="my-7 grid grid-cols-1 gap-2.5 sm:grid-cols-2">
+  <!-- Held back (invisible, not removed) until the names resolve: a card
+       that turns out to have a portrait reflows around it, and that should
+       happen before anyone sees the card, not in front of them. -->
+  <div
+    v-if="props.entries.length"
+    class="ufo-roster my-7 grid grid-cols-1 gap-2.5 sm:grid-cols-2"
+    :class="{ 'is-pending': !ready }"
+  >
     <article
       v-for="entry in props.entries"
       :key="entry.name"
-      class="ufo-roster-card relative overflow-hidden rounded-lg border border-border py-3 pl-4 pr-3.5"
+      class="ufo-roster-card relative flow-root overflow-hidden rounded-lg border border-border py-3 pl-4 pr-3.5"
       :style="{
         '--card-surface': categorySurface(refs.get(entry.name.trim())?.category),
         '--card-mark': categoryMark(refs.get(entry.name.trim())?.category),
@@ -57,6 +70,22 @@ function iconFor(name: string): Component {
     >
       <!-- Category spine, on top of the surface tint below. -->
       <span class="ufo-roster-spine absolute inset-y-0 left-0 w-[3px]" aria-hidden="true" />
+      <!-- The portrait, floated into the card's top-right corner and faded
+           into the card surface along its left and bottom edges with the
+           shared `ufo-fade` mask, so the text wraps beside it. A fixed box,
+           so loading it never moves anything; the credit is its tooltip
+           (and spelled out, linked, on the person's own page). -->
+      <img
+        v-if="imageOf(entry.name)"
+        :src="imageOf(entry.name)?.src"
+        :width="imageOf(entry.name)?.width"
+        :height="imageOf(entry.name)?.height"
+        :alt="portraitAlt(entry.name)"
+        :title="portraitCredit(imageOf(entry.name)!)"
+        loading="lazy"
+        decoding="async"
+        class="ufo-roster-portrait ufo-fade ufo-fade-xy"
+      >
       <div class="flex items-center gap-1.5">
         <span class="ufo-roster-icon-wrap" aria-hidden="true">
           <component :is="iconFor(entry.name)" class="ufo-roster-icon" />
@@ -126,7 +155,31 @@ function iconFor(name: string): Component {
  */
 .ufo-roster-card {
   background: var(--card-surface);
-  transition: background-color var(--dur-base) var(--ease-standard);
+  transition: background-color var(--dur-base) var(--ease-standard),
+    opacity var(--dur-base) var(--ease-standard);
+}
+.ufo-roster.is-pending .ufo-roster-card {
+  opacity: 0;
+}
+@media (prefers-reduced-motion: reduce) {
+  .ufo-roster-card {
+    transition: none;
+  }
+}
+/* Flush with the card's top and right edges (the negative margins undo the
+   card's 12px / 14px padding; the card's own radius and overflow clip the
+   corner). A fixed box whatever the photo's shape: cover-cropped, biased
+   toward the top where the face is. Solid in the top-right, eased out
+   toward the text on the left and into the card at the bottom. */
+.ufo-roster-portrait {
+  float: right;
+  width: 92px;
+  height: 116px;
+  margin: -12px -14px 4px 10px;
+  object-fit: cover;
+  object-position: 50% 22%;
+  --ufo-fade-x-start: 42%;
+  --ufo-fade-y-start: 52%;
 }
 .ufo-roster-spine {
   background: var(--card-mark);

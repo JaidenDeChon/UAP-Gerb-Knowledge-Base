@@ -21,7 +21,7 @@ Spacebound UAP are detected by:
 - **Space-based optical sensors**: Tracking systems monitoring near-Earth space
 - **Data fusion systems**: Integration of multiple sensor platforms managed by [[NORAD]] and Space Force
 
-Ground-based sensors generally **cannot** detect spacebound UAP, as confirmed in both [[Richard P. Oszx]]'s 1989 paper and [[Bradley R. Townson]]'s 2008 study.
+Ground-based sensors generally **cannot** detect spacebound UAP, as confirmed in both [[Richard P. Osedacz]]'s 1989 paper and [[Bradley R. Townsend]]'s 2008 study.
 
 ## Characteristics of Spacebound UAP
 

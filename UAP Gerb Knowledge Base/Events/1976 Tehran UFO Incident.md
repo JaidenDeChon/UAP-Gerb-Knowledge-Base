@@ -9,13 +9,13 @@ The 1976 Tehran UFO Incident was a major military UFO encounter that occurred on
 
 ## The Encounter
 
-During the incident, Major Parviz Jafari was vectored toward a large UAP. As he approached, an orb-like object detached from the main craft. Major Jafari's aircraft avionics were severely disrupted — his weapons control panel went offline when he attempted to fire an AIM-9 Sidewinder missile at the approaching orb, and communications were jammed. The electromagnetic effects ceased when the orb returned to the primary object.
+During the incident, Major [[Parviz Jafari]] was vectored toward a large UAP. As he approached, an orb-like object detached from the main craft. Major Jafari's aircraft avionics were severely disrupted — his weapons control panel went offline when he attempted to fire an AIM-9 Sidewinder missile at the approaching orb, and communications were jammed. The electromagnetic effects ceased when the orb returned to the primary object.
 
 The encounter involved sustained observation of the UAP by multiple trained military observers, ground radar confirmation, and electromagnetic interference with military aircraft systems — characteristics that made it one of the most compelling military UFO cases of the 1970s.
 
 ## DSP Satellite Detection and Tracking
 
-Satellite sensor technicians [[Lee Graham]] and [[Roger Rager]] at [[Aerojet]] in California conducted research establishing that the Tehran UFO Incident was tracked by United States military [[Defense Support Program (DSP)]] satellites. During their investigation, they located a computer printout from the timeframe of the Iranian UFO overflight which confirmed that the DSP satellite detected an anomalous object in [[Iranian airspace]].
+Satellite sensor technicians [[Lee Graham]] and [[Ron Regehr]] at [[Aerojet]] in California conducted research establishing that the Tehran UFO Incident was tracked by United States military [[Defense Support Program (DSP)]] satellites. During their investigation, they located a computer printout from the timeframe of the Iranian UFO overflight which confirmed that the DSP satellite detected an anomalous object in [[Iranian airspace]].
 
 The printout showed:
 - **238 scans** of the object
@@ -44,7 +44,7 @@ The 1976 Tehran UFO Incident represents a convergence of multiple forms of evide
 - Independent tracking by US military satellites
 - Sustained observation over an extended period (39.7 minutes of satellite tracking)
 
-The DSP satellite confirmation — revealed decades after the incident through the work of Graham and Rager — demonstrates that many historical UFO cases may have corresponding classified satellite detection records that remain withheld from public disclosure. The case also illustrates the challenge of accessing complete DSP data, as even researchers with technical backgrounds must work from fragmentary printouts rather than full mission records.
+The DSP satellite confirmation — revealed decades after the incident through the work of Graham and Regehr — demonstrates that many historical UFO cases may have corresponding classified satellite detection records that remain withheld from public disclosure. The case also illustrates the challenge of accessing complete DSP data, as even researchers with technical backgrounds must work from fragmentary printouts rather than full mission records.
 
 ## Related Cases
 

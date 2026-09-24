@@ -8,12 +8,12 @@ The **Denb Report** is an anomalous document of unknown origin that serves as th
 
 ## Authorship and Provenance
 
-The report is authored by an individual or entity identified only as "[[JS]]" and dated March 23, 1992. It is addressed "to all Denb team members" and designated "File UFO 3263," suggesting it is one of many UAP cases studied by the [[DENB Team]]. The report states the facts were "gathered from two eyewitness accounts, documentation illegally copied, and a partially destroyed document" by a now-deceased person in 1978. The notes and documents came into the hands of the DENB group in February 1992.
+The report is authored by an individual or entity identified only as "[[JS (Denb Report Author)|JS]]" and dated March 23, 1992. It is addressed "to all Denb team members" and designated "File UFO 3263," suggesting it is one of many UAP cases studied by the [[DENB Team]]. The report states the facts were "gathered from two eyewitness accounts, documentation illegally copied, and a partially destroyed document" by a now-deceased person in 1978. The notes and documents came into the hands of the DENB group in February 1992.
 
 Hypotheses about the authorship include:
 - **JS as an acronym**: Joint Staff, Joint Services, or another government/military department
 - **JS as an individual**: A person with access to classified crash retrieval documentation
-- **The DENB Team**: Possibly an internal USG investigation group analogous to the [[UAP Task Force]], operating via early internet message boards during the "[[UAP Dark Ages]]" (1969–2007)
+- **The DENB Team**: Possibly an internal USG investigation group analogous to the [[UAP Task Force]], operating via early internet message boards during the "UAP Dark Ages" (1969–2007)
 
 ## Content and Detail
 

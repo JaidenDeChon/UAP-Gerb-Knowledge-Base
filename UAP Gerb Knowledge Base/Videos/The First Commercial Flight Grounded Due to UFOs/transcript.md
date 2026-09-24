@@ -2,8 +2,8 @@
 title: "The First Commercial Flight Grounded Due to UFOs"
 video_id: K_BZkOAw6E0
 url: https://www.youtube.com/watch?v=K_BZkOAw6E0
-date: NA
-duration_seconds: 0
+date: 2024-01-22
+duration_seconds: 994
 channel: UAP Gerb
 tags:
   - transcript

@@ -1,11 +1,12 @@
 ---
 name: "William A. LaPlante"
 role: "Under Secretary of Defense for Acquisition and Sustainment (2022–2025); former Assistant Secretary of the Air Force for Acquisition (2014–2017); former senior VP and GM, MITRE National Security Engineering Center"
+wikipedia: "William A. LaPlante"
 tags:
   - person
 ---
 
-William A. LaPlante (referred to in some UAP Gerb captions as "Lelant") is a senior U.S. defense acquisition official who served as Under Secretary of Defense for Acquisition and Sustainment (USD A&S) from 2022 to 2025 during the Biden administration. Earlier in his career, he held a research role at the Johns Hopkins University Applied Physics Laboratory (APL), a university-affiliated research center (UARC), and served on the Defense Science Board around 2013 alongside [[Donald Kerr]]. LaPlante has also served on the corporate board of the [[Aerospace Corporation]].
+William A. LaPlante (referred to in some UAP Gerb captions as "Lelant") is a senior U.S. defense acquisition official who served as Under Secretary of Defense for Acquisition and Sustainment (USD A&S) from 2022 to 2025 during the Biden administration. Earlier in his career, he held a research role at the Johns Hopkins University Applied Physics Laboratory (APL), a university-affiliated research center (UARC), and served on the Defense Science Board around 2013 alongside [[Donald M. Kerr]]. LaPlante has also served on the corporate board of the [[Aerospace Corporation]].
 
 ## MITRE Career and Dual-Hatted Air Force Role
 
@@ -19,5 +20,5 @@ LaPlante joined the [[MITRE Corporation]] in 2011 as missile defense portfolio d
 
 - [[MITRE Corporation]]
 - [[Aerospace Corporation]]
-- [[Donald Kerr]]
+- [[Donald M. Kerr]]
 - [[Paul Kaminski]]

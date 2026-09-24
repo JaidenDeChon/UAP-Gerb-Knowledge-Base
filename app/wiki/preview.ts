@@ -1,6 +1,7 @@
 import { readFileSync } from 'node:fs'
 // Relative rather than the `#shared` alias — see the note in ./graph.ts.
 import type { NotePreview } from '../shared/types/wiki'
+import { type LatLon, parseCoordinates } from './geo'
 import { graphIndex } from './graph'
 import { VAULT_DIR } from './vault'
 
@@ -10,9 +11,9 @@ import { VAULT_DIR } from './vault'
  * Built once, at build time, and inlined into the server bundle — the deployed
  * Netlify function has no copy of the vault to read.
  */
-export function buildPreviews(): Record<string, NotePreview> {
+export function buildPreviews(): Record<string, NotePreview & { coordinates?: LatLon }> {
   const { stemByPath, nodeByPath } = graphIndex()
-  const previews: Record<string, NotePreview> = {}
+  const previews: Record<string, NotePreview & { coordinates?: LatLon }> = {}
 
   for (const [path, stem] of stemByPath) {
     const node = nodeByPath.get(path)
@@ -33,6 +34,7 @@ export function buildPreviews(): Record<string, NotePreview> {
       category: node.c,
       lead: extractLead(body),
       tags: frontmatter.tags,
+      ...(frontmatter.coordinates ? { coordinates: frontmatter.coordinates } : {}),
     }
   }
 
@@ -45,19 +47,23 @@ interface Frontmatter {
   title?: string
   name?: string
   tags: string[]
+  /** `coordinates: [lat, lon]`, inline or as a two-item block list. */
+  coordinates?: LatLon
 }
 
-function splitFrontmatter(raw: string): { frontmatter: Frontmatter, body: string } {
+export function splitFrontmatter(raw: string): { frontmatter: Frontmatter, body: string } {
   const frontmatter: Frontmatter = { tags: [] }
   const match = /^---\r?\n([\s\S]*?)\r?\n---\r?\n?/.exec(raw)
   if (!match) return { frontmatter, body: raw }
 
   const body = raw.slice(match[0].length)
   let listKey: string | null = null
+  const coordItems: string[] = []
   for (const line of match[1]!.split(/\r?\n/)) {
     const item = /^\s*-\s+(.*)$/.exec(line)
     if (item && listKey) {
       if (listKey === 'tags') frontmatter.tags.push(unquote(item[1]!))
+      else if (listKey === 'coordinates') coordItems.push(item[1]!)
       continue
     }
     const kv = /^([A-Za-z0-9_]+):\s*(.*)$/.exec(line)
@@ -72,6 +78,10 @@ function splitFrontmatter(raw: string): { frontmatter: Frontmatter, body: string
     if (key === 'title') frontmatter.title = unquote(value)
     else if (key === 'name') frontmatter.name = unquote(value)
     else if (key === 'tags') frontmatter.tags.push(...parseInlineList(value))
+    else if (key === 'coordinates') frontmatter.coordinates = parseCoordinates(value) ?? undefined
+  }
+  if (!frontmatter.coordinates && coordItems.length) {
+    frontmatter.coordinates = parseCoordinates(coordItems) ?? undefined
   }
   return { frontmatter, body }
 }

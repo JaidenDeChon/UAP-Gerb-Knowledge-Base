@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-**John Murphy** was a news director at WHJB radio in Greensburg, Pennsylvania, who became a key investigator and documentarian of the [[1965 Kecksburg UFO Crash]]. Murphy's attempts to produce an honest documentary about the incident led to heavy censorship, witness intimidation, and his own tragic death shortly after the event.
+**John Murphy** was a news director at WHJB radio in Greensburg, Pennsylvania, who became a key investigator and documentarian of the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]]. Murphy's attempts to produce an honest documentary about the incident led to heavy censorship, witness intimidation, and his own tragic death shortly after the event.
 
 ## Investigation of the Kecksburg Crash
 

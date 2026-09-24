@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Commander David Fravor (USN, Ret.) is a retired United States Navy fighter pilot best known as the primary eyewitness to the November 2004 [[USS Nimitz UFO Incident|Nimitz Tic Tac UAP encounter]] off the coast of Southern California. Fravor, then commanding officer of VFA-41 (the "Black Aces"), was vectored to intercept an anomalous aerial object that had been tracked for several days by the USS Princeton's SPY-1 radar system. His subsequent encounter with a white, oblong "Tic Tac"-shaped craft exhibiting extraordinary flight characteristics — including instantaneous acceleration, trans-medium capability, and apparent anticipation of his flight path — became the most widely publicized military UAP encounter in modern history.
+Commander David Fravor (USN, Ret.) is a retired United States Navy fighter pilot best known as the primary eyewitness to the November 2004 [[2004 Nimitz UAP Encounter (Tic Tac)|Nimitz Tic Tac UAP encounter]] off the coast of Southern California. Fravor, then commanding officer of VFA-41 (the "Black Aces"), was vectored to intercept an anomalous aerial object that had been tracked for several days by the USS Princeton's SPY-1 radar system. His subsequent encounter with a white, oblong "Tic Tac"-shaped craft exhibiting extraordinary flight characteristics — including instantaneous acceleration, trans-medium capability, and apparent anticipation of his flight path — became the most widely publicized military UAP encounter in modern history.
 
 ## Nimitz Encounter and ARV Theories
 

@@ -2,8 +2,8 @@
 title: "The Marines Who Got too Close to UFOs"
 video_id: HnxylCl68Tg
 url: https://www.youtube.com/watch?v=HnxylCl68Tg
-date: NA
-duration_seconds: 0
+date: 2024-01-19
+duration_seconds: 1014
 channel: UAP Gerb
 tags:
   - transcript

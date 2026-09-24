@@ -14,7 +14,7 @@ Based on analysis of multiple crash retrieval testimonies, UAP Gerb has outlined
 2. **Scientific Response** — [[NEST (Nuclear Emergency Support Team)|DOE NEST]] deploys a rapid scientific team via internal jet assets (e.g., Cessna Citation 2s) for radiological assessment and containment
 3. **Armed Security** — [[JSOC (Joint Special Operations Command)|JSOC]] or regional special forces (e.g., [[US Army 7th Special Forces Group]]) provide on-site armed enforcement
 4. **Logistics** — CIA [[CIA Office of Global Access|Office of Global Access]] coordinates operational logistics
-5. **Transport** — Military aviation assets (e.g., [[1st Battalion 228th Aviation Regiment]] CH-47s, [[Nightstalkers (160th SOAR)|160th SOAR]]) provide helicopter transport
+5. **Transport** — Military aviation assets (e.g., [[1st Battalion 228th Aviation Regiment]] CH-47s, [[160th Special Operations Aviation Regiment|160th SOAR]]) provide helicopter transport
 
 ## Historical Evidence
 

@@ -69,6 +69,8 @@ useHead({ title })
 const category = computed<Category>(() =>
   page.value ? categoryFromStem(page.value.stem) : 'Root')
 const isTranscript = computed(() => page.value?.stem.endsWith('/transcript') ?? false)
+/** A People note's portrait, from the baked meta (see wiki/portraits.ts). */
+const portrait = computed(() => (category.value === 'People' ? meta.value?.image : undefined))
 const videoTitle = computed(() => (page.value ? videoTitleFromStem(page.value.stem) : null))
 
 /**
@@ -212,13 +214,19 @@ const articleClass = computed(() => hasRail.value
           <!-- Uppercase display type carries no ascender/descender variety to open the
                line up, so it wants positive tracking, not the tight setting a mixed-case
                title would take. -->
-          <h1 class="mb-4 font-display text-[clamp(32px,5vw,56px)] font-extrabold uppercase leading-none tracking-[0.02em] text-foreground">
-            {{ page.title }}
-          </h1>
+          <!-- A person with a portrait gets it floated beside the title and
+               lead; `flow-root` keeps the fact table below both. -->
+          <div class="flow-root">
+            <WikiPersonPortrait v-if="portrait" :image="portrait" :name="page.title" />
 
-          <p v-if="article.lead" class="mb-7 font-sans text-[20px] leading-[30px] text-muted-foreground">
-            {{ article.lead }}
-          </p>
+            <h1 class="mb-4 font-display text-[clamp(32px,5vw,56px)] font-extrabold uppercase leading-none tracking-[0.02em] text-foreground">
+              {{ page.title }}
+            </h1>
+
+            <p v-if="article.lead" class="mb-7 font-sans text-[20px] leading-[30px] text-muted-foreground">
+              {{ article.lead }}
+            </p>
+          </div>
 
           <WikiFactTable :page="page" />
 
@@ -351,8 +359,12 @@ const articleClass = computed(() => hasRail.value
  * "Open mini-player" button's identical 3.00:1 in light, flagged but left
  * unfixed in the report. So this ONE badge gets a scoped, light-theme-only
  * override instead; dark/dim/sepia keep the shared token's default colour.
+ * Dark text on the green read as a mistake, so the override deepens the
+ * badge's own green (same hue and saturation, 28% lightness) and keeps white
+ * text: 5.18:1.
  */
 :where([data-theme="light"]) .ufo-category-badge {
-  color: hsl(var(--foreground));
+  background-color: hsl(142.1 76.2% 28%);
+  color: hsl(0 0% 100%);
 }
 </style>

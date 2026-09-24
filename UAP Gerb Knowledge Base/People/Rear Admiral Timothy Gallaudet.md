@@ -1,6 +1,7 @@
 ---
 name: "Rear Admiral Timothy Gallaudet"
 role: "Rear Admiral, US Navy (Retired); former Assistant Secretary of Commerce for Oceans and Atmosphere; former NOAA Administrator; UAP disclosure advocate"
+wikipedia: "Timothy Gallaudet"
 tags:
   - person
 ---

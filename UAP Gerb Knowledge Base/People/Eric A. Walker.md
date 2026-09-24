@@ -1,6 +1,7 @@
 ---
 name: "Eric A. Walker"
 role: "Presidential science advisor and alleged MJ-12 member"
+wikipedia: "Eric A. Walker (engineer)"
 tags:
   - person
 ---
@@ -13,7 +14,7 @@ Walker's cryptic statements to researcher [[William Steinman]] about crashed fly
 
 Walker earned his Ph.D. in physics from Cornell University and became president of Pennsylvania State University in 1956, serving until 1970. During and after his academic career, Walker worked as a consultant to numerous government science boards, including serving as a member of the [[Research and Development Board]] under [[Vannevar Bush]]. He also served as **Executive Secretary of the Defense Research Board** from 1950 to 1951, placing him at the intersection of US military science policy precisely when the earliest classified UFO recovery discussions are alleged to have occurred.
 
-Walker also established the **Applied Research Laboratory at Penn State** — a [[University Affiliated Research Center (UARC at Penn State University)|University Affiliated Research Center (UARC)]] created at the behest of the US Navy. The UARC structure is significant in the UAP context: the [[AARO]] office under Dr. Klosi admitted to working alongside UARCs and FFRDCs — the same categories of institutions that witnesses and researchers allege were used to house and manage UAP legacy programs.
+In 1945 Walker moved from Harvard's wartime Underwater Sound Laboratory to Penn State to found and direct what became the [[Applied Research Laboratory]], a University Affiliated Research Center (UARC) created at the behest of the [[US Navy]]. The UARC structure is significant in the UAP context: the [[AARO]] office under Dr. Klosi admitted to working alongside UARCs and FFRDCs — the same categories of institutions that witnesses and researchers allege were used to house and manage UAP legacy programs.
 
 According to testimony from [[Robert Sarbacher]], Walker attended classified meetings at [[Wright-Patterson Air Force Base]] in the late 1940s to discuss recovered extraterrestrial craft and materials. Sarbacher named Walker alongside [[John von Neumann]], [[Vannevar Bush]], and [[J. Robert Oppenheimer]] as participants in these briefings.
 
@@ -23,7 +24,7 @@ When [[Stanton Friedman]] spoke with [[Robert Sarbacher]] in 1983, Sarbacher ref
 
 ## Conversations with William Steinman
 
-In August 1987, researcher [[William Steinman]] telephoned Dr. Walker at his home to ask about the [[1948 Aztec UFO Crash Retrieval]], [[Majestic 12]], and his relationship with [[Robert Sarbacher]]. Walker's responses were cryptic but did not deny the central claims:
+In August 1987, researcher [[William Steinman]] telephoned Dr. Walker at his home to ask about the [[Aztec UFO Crash and Recovery]], [[Majestic 12]], and his relationship with [[Robert Sarbacher]]. Walker's responses were cryptic but did not deny the central claims:
 
 **On Sarbacher:**
 > "Steinman: I wanted to know if you knew Dr. Robert I. Sarbacher—he was a consultant to the Research and Development Board back in the early 1950s. Did you know him?
@@ -82,13 +83,17 @@ Sarbacher listed Walker among those present at Wright-Patterson briefings where 
 
 ## Kecksburg Connection
 
-Walker was president of Pennsylvania State University at the time of the December 9, 1965 [[1965 Kecksburg UFO Crash]], which occurred approximately 100 miles from Penn State's campus. In interviews conducted around 1991, Walker directly admitted his presence at the crash site, stating:
+Walker was president of Pennsylvania State University at the time of the December 9, 1965 [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]], which occurred approximately 100 miles from Penn State's campus. In interviews conducted around 1991, Walker directly admitted his presence at the crash site, stating:
 
 > **"We went there with two from the military but not on duty."**
 
-This is an unambiguous admission that Walker, accompanied by two military personnel acting in an unofficial capacity, traveled to Kecksburg shortly after the crash. His presence at the scene, combined with his documented role in classified aerospace matters and his proximity as Penn State president, makes his involvement in the Kecksburg retrieval operation highly plausible.
+He also went with a colleague. Asked whether a UFO was recovered, he replied, "I cannot comment on that. I cannot tell you." He would not say how long he stayed, but said he and the other men prepared no reports. [[Stan Gordon]] had a report of someone fitting Walker's description at the crash site.
 
-Walker never publicly elaborated on what he observed at Kecksburg or what role he played in the investigation, but his admission of being present is one of the few confirmed instances of a high-level government science advisor acknowledging direct involvement in a UAP crash retrieval event.
+In *The 1965 Kecksburg, Pennsylvania UFO Crash*, UAP Gerb reasons that two off-duty military men cannot have been the three-man [[Project Blue Book]] team sent from the 662nd Radar Squadron. Gerb asks whether Walker's party were the men in civilian clothes witnesses saw giving orders, or even the trench-coated men who ordered the volunteer firemen away from the object. He also asks whether Walker and his Penn State colleague went on behalf of a program based at the [[Applied Research Laboratory]]. A witness called "TB" told [[Steven Greer]] that such programs are embedded within University Affiliated Research Centers.
+
+## Relationship with Lyndon B. Johnson
+
+The same video traces Walker's closeness to President [[Lyndon B. Johnson]]. Walker attended a White House luncheon with Johnson and other university presidents on 3 August 1964, and was the only university president invited to the 1967 Clean Air Act signing. On 10 September 1964 Johnson wrote to thank him for his service on the Board of Visitors to the US Military Academy, and on 24 September 1964 he asked Walker to recommend a student to be honoured as a young leader. On 18 May 1966, five months after Kecksburg, Johnson thanked Walker for his service on the National Science Board and, cryptically, "for the unstinting manner in which you served your government in other areas", including the Defense Science Board. Gerb connects this relationship to Johnson's day of meetings with the Joint Chiefs and senior science officials on 10 December 1965, the day after the crash.
 
 ## Assessment
 

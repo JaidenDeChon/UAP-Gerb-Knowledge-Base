@@ -122,4 +122,39 @@ describe('resolveNames', () => {
   it('returns an empty array for an empty request', () => {
     expect(resolveNames([], buildLabelIndex([]))).toEqual([])
   })
+
+  it('adds coordinates only to refs whose note has them', () => {
+    const nodes = [node(0, 'Crane, Indiana', 'Locations'), node(1, 'Vannevar Bush')]
+    const result = resolveNames(['Crane, Indiana', 'Vannevar Bush'], buildLabelIndex(nodes), { 0: [38.89, -86.83] })
+
+    expect(result[0]?.coordinates).toEqual([38.89, -86.83])
+    // Backward compatible: a ref without coordinates has no such key at all.
+    expect(result[1]).toEqual({ path: '/wiki/people/1', title: 'Vannevar Bush', category: 'People' })
+    expect(result[1]).not.toHaveProperty('coordinates')
+  })
+
+  it('adds a portrait only to refs whose note has one', () => {
+    const image = {
+      src: '/people/vannevar-bush.webp',
+      width: 240,
+      height: 300,
+      author: 'Harris & Ewing',
+      license: 'Public domain',
+      source: 'https://commons.wikimedia.org/wiki/File:Vannevar_Bush.jpg',
+    }
+    const nodes = [node(0, 'Vannevar Bush'), node(1, 'Robert Sarbacher'), node(2, 'Crane, Indiana', 'Locations')]
+    const result = resolveNames(
+      ['Vannevar Bush', 'Robert Sarbacher', 'Crane, Indiana'],
+      buildLabelIndex(nodes),
+      { 2: [38.89, -86.83] },
+      { 0: image },
+    )
+
+    expect(result[0]).toEqual({ path: '/wiki/people/0', title: 'Vannevar Bush', category: 'People', image })
+    expect(result[1]).toEqual({ path: '/wiki/people/1', title: 'Robert Sarbacher', category: 'People' })
+    expect(result[1]).not.toHaveProperty('image')
+    // Both optional fields coexist independently.
+    expect(result[2]?.coordinates).toEqual([38.89, -86.83])
+    expect(result[2]).not.toHaveProperty('image')
+  })
 })

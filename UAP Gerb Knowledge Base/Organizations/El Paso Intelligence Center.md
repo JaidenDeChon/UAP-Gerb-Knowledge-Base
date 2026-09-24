@@ -40,7 +40,7 @@ EPIC's location at [[Fort Bliss]]—which served as the staging area for the CIA
 
 In 1974, anti-drug smuggling operations along the US-Mexico border were a major priority. EPIC's counter-narcotics mission would have given it operational awareness of cross-border aircraft activity, including small aircraft engaged in smuggling. The Denb Report speculates the civilian aircraft involved in the collision with the UAP may have been engaged in drug smuggling, given its low-altitude flight profile and the prevalence of such operations.
 
-If EPIC was monitoring cross-border air traffic for counter-narcotics purposes on August 25, 1974, it may have detected or been alerted to the civilian aircraft's flight and subsequent disappearance, as well as the unknown object tracked by [[US Air Defense]] radar.
+If EPIC was monitoring cross-border air traffic for counter-narcotics purposes on August 25, 1974, it may have detected or been alerted to the civilian aircraft's flight and subsequent disappearance, as well as the unknown object tracked by US Air Defense radar.
 
 ## Classification
 

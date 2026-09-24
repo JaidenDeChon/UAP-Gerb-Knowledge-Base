@@ -11,6 +11,10 @@ The Aerospace Corporation is a nonprofit federally funded research and developme
 
 The Aerospace Corporation is alleged to carry institutional connections to UAP legacy program activities through its TRW lineage and the career of [[Edward C. Aldridge]], who is alleged to have architected the restructuring of UFO legacy programs as "outside activities" during his Air Force tenure before moving to lead the Aerospace Corporation. The organization's unique position — with classified access, FFRDC independence, and deep TRW-derived institutional heritage — is cited as potentially enabling it to serve as an advisory or technical node within the alleged UAP legacy program network.
 
+## Burlison Interrogatory and Executives
+
+UAP Gerb's *Northrop Grumman & TRW* notes that the Aerospace Corporation was one of only two recipients, with the CIA, to respond to Representative [[Eric Burlison]]'s legislative interrogatories, which Burlison says [[David Grusch]] helped write. It sent staff to Washington for a secure briefing that, in Burlison's words, "really didn't turn up anything whatsoever". Gerb argues that Grusch's decision to target the FFRDC signals its depth in legacy programs, and names executives he believes should have answered: [[Randall G. Walden]], elected a trustee on 7 June 2023, and [[Edward C. Aldridge]], its president and CEO for nearly ten years. [[Stephanie O'Sullivan]] joined its board in 2017 and has chaired it since 2021. Gerb likens the 1960 split from TRW's [[Space Technology Laboratories (STL)]] to [[SAIC]]'s spin-off of [[Leidos]].
+
 ## DSP Fast Walker Analysis
 
 The 2014 [[Defense Support Program (DSP)]] fact sheet specifically notes that "researchers at the Aerospace Corporation have used DSP to develop portions of a hazard support system that will aid Public Safety in the future." This reference — cited by [[Bob Fish]] in his 2015 email to [[John Podesta]] — indicates ongoing Aerospace Corporation involvement in analyzing DSP satellite data, including [[Fast Walkers|Fast Walker]] detections.

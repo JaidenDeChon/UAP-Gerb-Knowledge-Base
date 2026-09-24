@@ -5,7 +5,7 @@ tags:
   - intelligence-program
 ---
 
-**Project Corona** (also known as **Discoverer**) was a classified CIA and U.S. Air Force reconnaissance satellite program that operated from 1959 to 1972. Corona satellites captured high-resolution photographic intelligence of the Soviet Union, China, and other adversaries during the Cold War. The program is notable in the UAP context because film recovery capsules were routinely dropped over the United States and retrieved mid-air or after landing — leading some skeptics to propose Corona as a potential explanation for certain UFO sighting reports, including the [[1965 Kecksburg UFO Crash]].
+**Project Corona** (also known as **Discoverer**) was a classified CIA and U.S. Air Force reconnaissance satellite program that operated from 1959 to 1972. Corona satellites captured high-resolution photographic intelligence of the Soviet Union, China, and other adversaries during the Cold War. The program is notable in the UAP context because film recovery capsules were routinely dropped over the United States and retrieved mid-air or after landing — leading some skeptics to propose Corona as a potential explanation for certain UFO sighting reports, including the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]].
 
 ## Mission Profile
 
@@ -18,7 +18,7 @@ The program was an extraordinary success, providing critical intelligence during
 
 ## The Kecksburg Connection
 
-Because Project Corona involved the regular reentry of small metallic capsules over the United States, some skeptics proposed that the [[1965 Kecksburg UFO Crash]] might have been caused by a Corona recovery capsule gone off-course. This theory was investigated and definitively ruled out by [[Nicholas Johnson]], NASA's Chief Scientist for Orbital Debris.
+Because Project Corona involved the regular reentry of small metallic capsules over the United States, some skeptics proposed that the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]] might have been caused by a Corona recovery capsule gone off-course. This theory was investigated and definitively ruled out by [[Nicholas Johnson]], NASA's Chief Scientist for Orbital Debris.
 
 ### Why Project Corona Was Eliminated
 
@@ -47,7 +47,7 @@ Project Corona was declassified in 1995, allowing researchers to cross-reference
 
 ## Conclusion
 
-Project Corona was considered and eliminated as a candidate explanation for the [[1965 Kecksburg UFO Crash]] due to:
+Project Corona was considered and eliminated as a candidate explanation for the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]] due to:
 
 1. **No Corona reentry event on December 9, 1965**: Confirmed by NASA orbital debris expert [[Nicholas Johnson]].
 2. **Design inconsistencies**: Shape, size, markings, and construction of the Kecksburg object do not match Corona capsules.

@@ -2,8 +2,8 @@
 title: "The 1953 Kingman, Arizona UFO Crash"
 video_id: 41V4Pf_8oo4
 url: https://www.youtube.com/watch?v=41V4Pf_8oo4
-date: NA
-duration_seconds: 0
+date: 2024-03-06
+duration_seconds: 1218
 channel: UAP Gerb
 tags:
   - transcript

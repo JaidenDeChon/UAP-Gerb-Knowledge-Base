@@ -5,16 +5,16 @@ tags:
   - person
 ---
 
-Bill Uhouse (William G. Uhouse) was a U.S. Marine Corps veteran and mechanical engineer who disclosed, through [[Steven Greer]]'s [[Disclosure Project]] in October 2001, that he had worked as a design engineer on a flying disc simulator at [[Wright-Patterson Air Force Base]] and for a private defense contractor — and that the simulator was built based on a craft recovered in the [[1953 Kingman, Arizona Crash Retrieval]]. Unlike many witnesses who disclosed through Greer, Uhouse's military background has been independently verified through preserved newspaper records, lending his account greater evidentiary weight.
+Bill Uhouse (William G. Uhouse) was a U.S. Marine Corps veteran and mechanical engineer who disclosed, in testimony recorded for [[Steven Greer]]'s [[Disclosure Project]] in October 2000 and published in the project's 2001 book, that he had worked as a design engineer on a flying disc simulator at [[Wright-Patterson Air Force Base]] and for a private defense contractor — and that the simulator was built based on a craft recovered in the [[1953 Kingman, Arizona Crash Retrieval]]. Unlike many witnesses who disclosed through Greer, Uhouse's military background has been independently verified through preserved newspaper records, lending his account greater evidentiary weight.
 
 ## Military Service
 
 Uhouse served 14 years in the U.S. Marine Corps, retiring at the rank of Captain. His service included combat tours in Korea. Independent verification of his record exists in two newspaper sources:
 
 - A clipping from March 3, 1949, records William G. Uhouse's reenlistment with the Marine Corps after prior USMC service.
-- A 1953 *Evening Times* article confirms eight years of USMC service, Korea tours, and his role in the Second Engineers Battalion, demonstrating technical and combat engineering experience.
+- A 30 March 1953 *Evening Times* article confirms eight years of USMC service, Korea tours, and his role in the Second Engineers Battalion, demonstrating technical and combat engineering experience.
 
-Following his USMC service, Uhouse worked for approximately 10 years in the core, then four years working with the U.S. Air Force and private industry on experimental aircraft testing.
+By his own account the 14 years comprised 10 years in the Corps and four years working with the U.S. Air Force and private industry on experimental aircraft testing.
 
 ## Flying Disc Simulator Claims
 
@@ -24,9 +24,9 @@ Uhouse further claimed that the recovered Kingman craft was transported to [[Are
 
 ## Credibility Assessment
 
-UAP Gerb and researcher [[Richard Gild Jr.]] note that Uhouse's disclosure route — through Greer — is a common source of skepticism, as Greer himself is considered a controversial figure prone to embellishment. However, Gild's archival investigation confirmed Uhouse's USMC record and defense contractor work in experimental aviation, separating his personal background from the platform through which he chose to disclose. As UAP Gerb observes, many credible whistleblowers in this space disclosed through Greer because they had no other available channel — including [[Michael Herrera]] and others who have since regretted the association.
+Gerb and researcher [[Richard Geldreich Jr.]] note that Uhouse's disclosure route — through Greer — is a common source of skepticism, as Greer himself is considered a controversial figure prone to embellishment. However, Gild's archival investigation confirmed Uhouse's USMC record and defense contractor work in experimental aviation, separating his personal background from the platform through which he chose to disclose. As Gerb observes, many credible whistleblowers in this space disclosed through Greer because they had no other available channel — including [[Michael Herrera]] and others who have since regretted the association.
 
-Uhouse's independent claim about the Kingman craft — made without prior contact with [[Arthur Stansel Jr.]] — corroborates key details of Stansel's account, particularly the craft's approximate size, the desert crash location, and the AEC organizational context of its recovery.
+Uhouse's claim about the Kingman craft agrees with [[Arthur Stansel Jr.]]'s account on the date and place of the crash and on its Atomic Energy Commission setting. It differs on size: Uhouse gave the disc as about 30 metres across, where Stansel's affidavit gives about 30 feet.
 
 ## Sources
 

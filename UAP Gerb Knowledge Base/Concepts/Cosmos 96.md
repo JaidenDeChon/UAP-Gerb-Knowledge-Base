@@ -5,7 +5,7 @@ tags:
   - space-program
 ---
 
-**Cosmos 96** was a Soviet Venus probe launched on November 23, 1965, as part of the Soviet Union's Venera program. The spacecraft failed to achieve its intended trajectory and reentered Earth's atmosphere on December 9, 1965 — the same day as the [[1965 Kecksburg UFO Crash]]. Early skeptics proposed Cosmos 96 as a prosaic explanation for the Kecksburg object, but comprehensive orbital analysis by NASA and independent researchers conclusively ruled out this theory.
+**Cosmos 96** was a Soviet Venus probe launched on November 23, 1965, as part of the Soviet Union's Venera program. The spacecraft failed to achieve its intended trajectory and reentered Earth's atmosphere on December 9, 1965 — the same day as the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]]. Early skeptics proposed Cosmos 96 as a prosaic explanation for the Kecksburg object, but comprehensive orbital analysis by NASA and independent researchers conclusively ruled out this theory.
 
 ## Mission Profile
 
@@ -25,7 +25,7 @@ The reentry location was over northern Canada, thousands of miles from Pennsylva
 
 ### 2. NASA Analysis by Nicholas Johnson
 
-In May 2000, journalist [[Leslie Kean]] organized a conference titled *"Combating Media Ridicule and Searching for Evidence on the 1965 Kecksburg Crash Case."* At this conference, Kean presented findings from her correspondence with **[[Nicholas Johnson]]**, NASA's Chief Scientist for Orbital Debris at [[NASA Johnson Space Center]], whom she described as "probably the leading expert in the world" on orbital debris.
+In May 2000, journalist [[Leslie Kean]] organized a conference titled *"Combating Media Ridicule and Searching for Evidence on the 1965 Kecksburg Crash Case."* At this conference, Kean presented findings from her correspondence with **[[Nicholas Johnson]]**, NASA's Chief Scientist for Orbital Debris at [[Johnson Space Center|NASA Johnson Space Center]], whom she described as "probably the leading expert in the world" on orbital debris.
 
 Johnson analyzed the orbital coordinates of Cosmos 96 and calculated whether any part of it could have remained in orbit after its morning decay and later landed in Pennsylvania. His conclusion was definitive:
 

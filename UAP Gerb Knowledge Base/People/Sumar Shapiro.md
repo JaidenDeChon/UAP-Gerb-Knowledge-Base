@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Rear Admiral Sumner Shapiro was a senior US Navy intelligence officer who served as Director of Naval Intelligence before retiring to join [[BDM International]], a defense contractor that hosted classified Advanced Theoretical Physics working groups and was eventually absorbed into [[Northrop Grumman]] through [[TRW Inc]]. He is significant in UAP research for a 1989 disclosure to NASA mission specialist [[Bob Echler]] in which Shapiro stated that the United States possessed extraterrestrial vehicles he had personally studied at close quarters, and described in detail the operational procedures by which those craft were handled.
+Rear Admiral Sumner Shapiro was a senior US Navy intelligence officer who served as Director of Naval Intelligence before retiring to join [[BDM International]], a defense contractor that hosted classified Advanced Theoretical Physics working groups and was eventually absorbed into [[Northrop Grumman]] through [[TRW|TRW Inc]]. He is significant in UAP research for a 1989 disclosure to NASA mission specialist [[Bob Echler]] in which Shapiro stated that the United States possessed extraterrestrial vehicles he had personally studied at close quarters, and described in detail the operational procedures by which those craft were handled.
 
 ## 1989 Disclosure to Bob Echler
 

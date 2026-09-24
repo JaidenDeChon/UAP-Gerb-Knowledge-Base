@@ -26,7 +26,7 @@ The existence of connective tunnel systems is supported by a combination of offi
 UAP Gerb proposes the following timeline for connective tunnel system construction:
 - **Post-1961**: Primary DUMB facilities constructed
 - **1972–1974 onward**: Connective tunnels begin construction, coinciding with the formation of the National Committee on Tunneling Technology and the publication of major tunnel feasibility studies
-- **1980s–1990s**: Maglev transportation systems implemented within the established tunnel network, consistent with the timeline of above-board National MagLev Institute research
+- **1980s–1990s**: Maglev transportation systems implemented within the established tunnel network, consistent with the timeline of above-board National Maglev Initiative research
 
 ## Bureau of Reclamation Hypothesis
 

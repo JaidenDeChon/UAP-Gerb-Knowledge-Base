@@ -2,8 +2,8 @@
 title: "Incredible UFO Footage - FLYBY"
 video_id: qD1KnudMCO0
 url: https://www.youtube.com/watch?v=qD1KnudMCO0
-date: NA
-duration_seconds: 0
+date: 2024-02-05
+duration_seconds: 1018
 channel: UAP Gerb
 tags:
   - transcript

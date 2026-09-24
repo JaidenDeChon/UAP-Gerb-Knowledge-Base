@@ -26,8 +26,8 @@ The Gray archetype as it is now recognized crystallized in the late 1940s and 19
 ## Statistical Prevalence
 
 The Gray is the dominant type in abduction research globally, though with significant regional variation:
-- United States: approximately 50% of abduction claims feature Gray-type beings
-- Australia: approximately 73%
+- United States: approximately 73% of abduction claims feature Gray-type beings
+- Australia: approximately 50%
 - Continental Europe: approximately 48%
 - United Kingdom: approximately 12%
 

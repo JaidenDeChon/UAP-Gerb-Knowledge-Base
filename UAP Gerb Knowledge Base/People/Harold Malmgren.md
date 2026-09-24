@@ -11,6 +11,12 @@ Harold Malmgren is an American economist and long-serving senior government advi
 
 Malmgren has claimed that [[Richard Bissell Jr.]] confirmed to him the reality of a 1933 UFO crash in Magenta, Italy, and briefed him on otherworldly technologies associated with that event. UAP researchers cite Malmgren as evidence that knowledge of UAP crash recovery programs extended into senior advisory and FFRDC circles connected to the NRO's founding leadership. His account is treated as corroborating the assertion that the NRO was connected to UFO legacy programs from its inception, and that individuals at the intersection of government advisory roles and intelligence community FFRDCs served as nodes in the legacy program knowledge network.
 
+## Bluegill Triple Prime recovery
+
+Malmgren is also the source for the alleged [[Bluegill Triple Prime UFO Recovery]]. By his account, the October 1962 Bluegill Triple Prime high-altitude nuclear test of Operation Fishbowl disabled a nearby UFO, which fell into the Pacific. The Navy searched the area, and the salvage ship USS Safeguard recovered a "pod". UAP Gerb cites the incident as the Navy's acknowledged participation in at least one undersea retrieval.
+
 ## Sources
+
+- [[US Navy UFO Crash Retrieval & Reverse Engineering Programs]]
 
 - [[Video - National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers]]

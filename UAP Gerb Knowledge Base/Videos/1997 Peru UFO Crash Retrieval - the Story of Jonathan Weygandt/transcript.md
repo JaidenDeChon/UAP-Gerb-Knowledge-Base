@@ -2,8 +2,8 @@
 title: "Transcript - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt"
 video_id: 7Jc2G5aEH0A
 url: https://www.youtube.com/watch?v=7Jc2G5aEH0A
-date: NA
-duration_seconds: 0
+date: 2025-05-16
+duration_seconds: 7062
 channel: UAP Gerb
 tags:
   - transcript

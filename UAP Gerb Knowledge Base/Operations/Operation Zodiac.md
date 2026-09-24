@@ -5,11 +5,11 @@ tags:
   - concept
 ---
 
-Operation Zodiac is an unacknowledged US government program referenced in the MOON DUST video as one of several classified operations related to UFO crash retrieval and foreign aerospace vehicle collection. Zodiac is cited alongside [[Project Moondust]] and [[Operation Bluefly]] as part of a broader classified infrastructure for anomalous object collection operated by US Air Force and intelligence agencies.
+Operation Zodiac is an unacknowledged US government program referenced in the MOON DUST video as one of several classified operations related to UFO crash retrieval and foreign aerospace vehicle collection. Zodiac is cited alongside [[Project Moon Dust]] and [[Operation Bluefly]] as part of a broader classified infrastructure for anomalous object collection operated by US Air Force and intelligence agencies.
 
 ## Relationship to Project Moondust
 
-Zodiac is described as a related program to [[Project Moondust]], suggesting overlapping or complementary missions in the UFO crash retrieval and aerospace object collection domain. While specific operational details remain classified or undisclosed, the grouping of Zodiac with Moon Dust indicates similar functions involving:
+Zodiac is described as a related program to [[Project Moon Dust]], suggesting overlapping or complementary missions in the UFO crash retrieval and aerospace object collection domain. While specific operational details remain classified or undisclosed, the grouping of Zodiac with Moon Dust indicates similar functions involving:
 
 - Recovery of foreign or anomalous aerospace vehicles
 - Coordination with intelligence agencies for material analysis
@@ -24,7 +24,7 @@ The unacknowledged status aligns with what Captain [[Edward J. Ruppelt]] and Dr.
 
 ## Planned Future Coverage
 
-The narrator of the MOON DUST video stated that Operation Zodiac, along with [[Operation Bluefly]] and the [[CIA Office of Global Access]], would be covered in future videos, indicating additional documentary evidence or testimony exists regarding Zodiac's operations but was not detailed in the Moon Dust episode.
+Gerb of the MOON DUST video stated that Operation Zodiac, along with [[Operation Bluefly]] and the [[CIA Office of Global Access]], would be covered in future videos, indicating additional documentary evidence or testimony exists regarding Zodiac's operations but was not detailed in the Moon Dust episode.
 
 This suggests Zodiac has its own documentary trail accessible through Freedom of Information Act requests or whistleblower testimony that warrants dedicated investigation.
 
@@ -33,14 +33,14 @@ This suggests Zodiac has its own documentary trail accessible through Freedom of
 Operation Zodiac's existence reinforces the pattern of compartmentalized UFO programs operating at different classification levels:
 
 - **Public Tier**: [[Project Blue Book]] (1952-1969) - public information management and dismissive conclusions
-- **Classified Tier**: [[Project Moondust]], [[Operation Bluefly]], Operation Zodiac - actual crash retrieval and material collection
+- **Classified Tier**: [[Project Moon Dust]], [[Operation Bluefly]], Operation Zodiac - actual crash retrieval and material collection
 - **Deeply Compartmentalized Tier**: Alleged contractor-run reverse engineering programs described in the [[Wilson-Davis Memo]]
 
 Zodiac likely operated in the "Classified Tier," conducting field operations while remaining unknown to the public and possibly unknown to oversight committees.
 
 ## Related Programs
 
-- [[Project Moondust]] — Confirmed crash retrieval program (1961-mid 1990s)
+- [[Project Moon Dust]] — Confirmed crash retrieval program (1961-mid 1990s)
 - [[Operation Bluefly]] — Related unacknowledged program
 - [[CIA Office of Global Access]] — Modern crash retrieval coordination alleged by journalist [[Christopher Sharp]]
 

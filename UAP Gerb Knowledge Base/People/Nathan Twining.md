@@ -1,6 +1,7 @@
 ---
 name: "Nathan Twining"
 role: "Lieutenant General, United States Air Force"
+wikipedia: "Nathan F. Twining"
 tags:
   - person
 ---

@@ -1,10 +1,11 @@
 ---
 name: "Frenchman's Flat, Nevada"
+coordinates: [36.8073, -115.9354]
 tags:
   - location
 ---
 
-Frenchman's Flat (also referred to as Frenchman Flat) is a dry lakebed basin within the [[Nevada Proving Ground]] (later renamed the Nevada Test Site, now the Nevada National Security Site) in Nye County, Nevada. During the 1950s, it served as one of the primary above-ground nuclear weapons test areas for the [[Atomic Energy Commission]] and the U.S. military, hosting atmospheric detonations as part of the early Cold War nuclear testing program.
+Frenchman's Flat (also referred to as Frenchman Flat) is a dry lakebed basin within the [[Nevada National Security Site (Nevada Test Site)|Nevada Proving Ground]] (later renamed the Nevada Test Site, now the Nevada National Security Site) in Nye County, Nevada. During the 1950s, it served as one of the primary above-ground nuclear weapons test areas for the [[Atomic Energy Commission]] and the U.S. military, hosting atmospheric detonations as part of the early Cold War nuclear testing program.
 
 ## Role in Operation Upshot-Knothole
 

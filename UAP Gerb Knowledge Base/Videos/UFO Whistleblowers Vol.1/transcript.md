@@ -2,8 +2,8 @@
 title: "UFO Whistleblowers [Vol.1]"
 video_id: EKEZ2BClIb0
 url: https://www.youtube.com/watch?v=EKEZ2BClIb0
-date: NA
-duration_seconds: 0
+date: 2024-05-05
+duration_seconds: 1780
 channel: UAP Gerb
 tags:
   - transcript

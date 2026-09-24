@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Bob Echler is a former NASA mission specialist who, in 1989, conducted a personal inquiry into the possibility of making recovered UFO vehicles available for civilian scientific and technological research. His inquiry — facilitated by British Admiral Lord Hill Norton — led to direct contact with several of the most senior US intelligence officials of the era, producing documented admissions regarding US possession of recovered non-human craft. His interactions with Admiral [[Bobby Ray Inman]], former Director of Naval Intelligence [[Sumar Shapiro]], and CIA DS&T Deputy Director [[Everett Heinman]] constitute some of the most directly sourced official disclosures in UAP research history.
+Bob Echler (more commonly spelled **Bob Oechsler**, and rendered "Eschler" in some captions) is a former NASA mission specialist who, in 1989, conducted a personal inquiry into the possibility of making recovered UFO vehicles available for civilian scientific and technological research. His inquiry — facilitated by British Admiral Lord Hill Norton — led to direct contact with several of the most senior US intelligence officials of the era, producing documented admissions regarding US possession of recovered non-human craft. His interactions with Admiral [[Bobby Ray Inman]], former Director of Naval Intelligence [[Sumar Shapiro]], and CIA DS&T Deputy Director [[Everett Heinman]] constitute some of the most directly sourced official disclosures in UAP research history.
 
 ## Background and Lord Hill Norton Connection
 
@@ -27,6 +27,8 @@ Following Inman's referral, Echler arranged a meeting with CIA DS&T Deputy Direc
 
 Inman additionally connected Echler to former Director of Naval Intelligence [[Sumar Shapiro]], then serving as an executive at defense contractor [[BDM International]]. In his first meeting with Shapiro in 1989, Echler learned that factions within the US government possessed extraterrestrial vehicles, that Shapiro had studied one at close quarters, and that teams would disassemble the craft, pack them up, and ship them across the country to different laboratories. The craft featured unique interlocking components that required disassembly in an exact sequence. Shapiro declined to specify where the craft were taken.
 
+UAP Gerb's *UFO Legacy Programs - Northrop Grumman* uses this meeting to tie the chain from Inman to Shapiro to Echler back to Northrop Grumman. At the time, Inman sat on the boards of [[SAIC]] and [[Wackenhut Services|Wackenhut]]. Shapiro was a BDM board member, and BDM was bought by [[TRW]] in 1997 and passed to [[Northrop Grumman]] with TRW in 2002. The video counts this among the few documented cases of a senior Navy intelligence officer privately describing the physical handling of recovered non-human vehicles.
+
 A second meeting at Shapiro's Virginia home in 1990 ended abruptly. When Echler displayed a small hologram of an alien head to draw a link between the technology and its non-human source, Shapiro became visibly upset. He paced about his living room, expressed concern that he had not been able to reach Inman to confirm the purpose of the meeting, and terminated the visit, suspecting Echler was there under false pretenses.
 
 ## EMPRESS / EMP Experiments Claim
@@ -39,3 +41,4 @@ Echler additionally claimed that the Navy conducted EMP (electromagnetic pulse) 
 - [[National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers]]
 - Timothy Good (relayed Echler's account of the second Shapiro meeting)
 - [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
+- [[Video - UFO Legacy Programs - Northrop Grumman]]

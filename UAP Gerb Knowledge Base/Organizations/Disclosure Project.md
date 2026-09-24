@@ -20,7 +20,7 @@ A significant and regretted consequence of the Disclosure Project's involvement 
 Beyond its public events, the Disclosure Project maintains an extensive archive of witness testimonies, including anonymous accounts. The archive assigns numbered identifiers to redacted witnesses. Two such entries are relevant to UAP Gerb's research:
 
 - Witness number 10138 is believed by UAP Gerb to correspond to anonymous Marine whistleblower "[[RB]]," who claimed to have guarded a recovered disc-shaped craft at an undisclosed military base in December 1963. Whether RB ever spoke directly with Greer is unknown.
-- Witness number 101179 is identified by UAP Gerb as [[Elaine Boder]], president of the [[3af-p (French national aeronautical and astronautical Association UAP division)|3af-p]], who claimed to have seen an uncut NASA film depicting six UFOs descending onto the lunar surface during Apollo 8.
+- Witness number 101179 is identified by UAP Gerb as [[Alain Boudier]], president of the [[3af-p (French national aeronautical and astronautical Association UAP division)|3af-p]], who claimed to have seen an uncut NASA film depicting six UFOs descending onto the lunar surface during Apollo 8.
 
 ## Sources
 

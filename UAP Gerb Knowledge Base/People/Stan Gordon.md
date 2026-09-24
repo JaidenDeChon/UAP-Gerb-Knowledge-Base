@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-**Stan Gordon** is a Pennsylvania-based UFO researcher and investigator who has spent decades documenting and researching the [[1965 Kecksburg UFO Crash]]. Gordon is considered the foremost researcher on the Kecksburg case, having conducted hundreds of interviews with witnesses, obtained government documents through FOIA requests, and produced documentaries that brought national attention to the incident.
+**Stan Gordon** is a Pennsylvania-based UFO researcher and investigator who has spent decades documenting and researching the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]]. Gordon is considered the foremost researcher on the Kecksburg case, having conducted hundreds of interviews with witnesses, obtained government documents through FOIA requests, and produced documentaries that brought national attention to the incident.
 
 ## Kecksburg Investigation
 
@@ -18,7 +18,7 @@ Gordon's investigative work on Kecksburg includes:
 - **Witness Interviews**: Gordon conducted extensive interviews with dozens of witnesses, including firsthand observers like [[Jim Romansky]], [[Bill Bully Bush]], [[Jerry Betters]], and others. His interviews were methodical and often videotaped, creating a permanent record of testimony
 - **FOIA Requests**: Gordon submitted Freedom of Information Act requests to multiple agencies, including [[US Space Command]] and the [[Naval Surveillance Center]], obtaining documents that confirmed the Soviet spacecraft [[Cosmos 96]] entered the atmosphere over Canada at 3:18 AM EST on December 9, 1965 — roughly 13 hours before the Kecksburg event, definitively ruling it out as the cause
 - **Notarized Evidence**: Gordon received notarized documents from WHJB radio station employees claiming that U.S. government elements confiscated news tapes of eyewitness accounts and prevented them from being broadcast
-- **Documentaries**: Gordon produced *Kecksburg: The Untold Story* (1998), a documentary featuring new witness testimony, including trucker "Myron" who claimed to have seen the craft and an alien body at [[Wright-Patterson AFB]]
+- **Documentaries**: Gordon produced *Kecksburg: The Untold Story* (1998), a documentary featuring new witness testimony, including trucker "Myron" who claimed to have seen the craft and an alien body at [[Wright-Patterson Air Force Base|Wright-Patterson AFB]]
 
 ### Collaboration with Leonard Stringfield
 
@@ -32,7 +32,7 @@ Gordon's work on Kecksburg contributed to renewed public interest in the case. H
 - The 2003 Annual Crash Retrieval Conference, where Gordon discussed rumors of bodies recovered at the crash site
 - Various media interviews and conferences advocating for document disclosure
 
-Gordon was instrumental in supporting journalist [[Leslie Keen]]'s legal efforts to compel [[NASA]] to release Kecksburg-related documents. Though NASA ultimately reported the files had been lost since 1987, Gordon's FOIA work and public advocacy kept pressure on government agencies to address the case.
+Gordon was instrumental in supporting journalist [[Leslie Kean|Leslie Keen]]'s legal efforts to compel [[NASA]] to release Kecksburg-related documents. Though NASA ultimately reported the files had been lost since 1987, Gordon's FOIA work and public advocacy kept pressure on government agencies to address the case.
 
 ## UFO Research Beyond Kecksburg
 

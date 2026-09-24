@@ -2,8 +2,8 @@
 title: "Transcript - Alien Reproduction Vehicle - the Testimony of Mark McCandlish"
 video_id: wF07QMm6joE
 url: https://www.youtube.com/watch?v=wF07QMm6joE
-date: NA
-duration_seconds: 0
+date: 2024-10-21
+duration_seconds: 4152
 channel: UAP Gerb
 tags:
   - transcript

@@ -8,15 +8,13 @@ NAMRU South (Naval Medical Research Unit South), also referenced as NAMRU-6, is 
 
 ## Operational Context
 
-NAMRU South is one of a network of Naval Medical Research Units stationed globally. Its Lima location serves as the South American hub for US Navy biomedical research activities in the region. At the time of the 1997 Peru UAP crash retrieval, NAMRU South was one of three significant US military installations in the greater Iquitos-Lima corridor, alongside [[USAF Detachment 5, Ikitos]] and the MARFORLAND Riverine Training Team.
+NAMRU South is one of a worldwide network of Naval Medical Research Units under the Navy Medical Research Command, which conduct research on infectious diseases, biodefense and military public health for the Navy and Marine Corps. It has offices in Lima and in [[Iquitos, Peru|Iquitos]]. Like other NAMRU sites it is a multinational environment; Gerb notes German military and diplomatic visits to its Lima site as recently as 2023. At the time of the 1997 crash it was one of three US installations at Iquitos, alongside [[USAF Radar Detachment 5, Iquitos]] and the [[MARFORLANT Riverine Training Team]].
 
-## Connection to the 1997 Peru UAP Incident
+## Theorized holding site
 
-Lance Corporal [[Jonathan Weygandt]] testified to encountering a large egg-shaped craft embedded in a granite cliff face in the Peruvian jungle during Operation Laser Strike in 1997, approximately 90 miles from [[Ikitos, Peru]]. Following the encounter and his exposure to an unknown viscous purplish-green liquid dripping from the craft, Weygandt underwent what he described as a period of isolation and sequestration lasting approximately three weeks, during which he was unable to contact fellow Marines.
+After the [[Peru UFO Crash Incident]], Lance Corporal [[Jonathan Weygandt]] was flown to a base with permanent structures, where Americans worked alongside armed Chinese and German personnel, and was held in an underground interrogation room for up to two days before being driven back to his own base. Because he had twice been soaked by liquid leaking from the craft, was stripped by personnel in protective suits and was kept apart from the other Marines, UAP Gerb believes the [[NEST (Nuclear Emergency Support Team)|Nuclear Emergency Support Team]] treated him as a contamination risk, and suggests NAMRU South as a natural quarantine and debriefing site within driving distance of Iquitos.
 
-UAP Gerb theorizes that NAMRU South in Lima was a likely location for this holding period and for any biological analysis of materials Weygandt may have come into contact with. The [[Nuclear Emergency Support Team (NEST)]] — the DOE rapid-response unit whose personnel were observed at the crash site in MOPP gear — would have required specialized medical infrastructure to manage potential contamination cases. NAMRU South, as the nearest US Navy biomedical research facility with appropriate containment capabilities, fits the operational profile for this function.
-
-This remains a theory rather than documented fact; no official records confirming Weygandt's presence at NAMRU South have been released.
+Gerb lists the problems with the theory himself: Weygandt was there only two days, underwent no medical procedures, was held near the operator and the Air Force lieutenant colonel who threatened him, described the foreign personnel as armed operators rather than researchers or diplomats, and was held underground. Gerb also wonders whether material or liquid from the craft went on to NAMRU's unit at [[Wright-Patterson Air Force Base]], or to the Office of Naval Research. No record places Weygandt at NAMRU South.
 
 ## Sources
 

@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-James Allen was an American documentary filmmaker who produced the 2014 documentary "Zero Point: The Story of Mark McCandlish and the Flux Liner," a deep investigation into [[Mark McCandlish]]'s claims regarding the [[Alien Reproduction Vehicle (ARV)|Alien Reproduction Vehicle (Flux Liner)]]. Allen died approximately one month before his documentary was scheduled to be released, under circumstances that UAP researchers have described as highly suspicious.
+James Allen was an American documentary filmmaker who produced the documentary "Zero Point: The Story of Mark McCandlish and the Flux Liner" (released in 2013; UAP Gerb dates it to 2014), a deep investigation into [[Mark McCandlish]]'s claims regarding the [[Alien Reproduction Vehicle (ARV)|Alien Reproduction Vehicle (Flux Liner)]]. Allen died approximately one month before his documentary was scheduled to be released, under circumstances that UAP researchers have described as highly suspicious.
 
 ## Death and Alleged Radioisotope Poisoning
 
@@ -17,7 +17,7 @@ Allen's film explored the full story of McCandlish's ARV research, drawing on Mc
 
 ## Pattern of Suspicious Deaths
 
-Allen's death is cited alongside McCandlish's own 2021 death, physicist Stefan Marinov (fell from a window in 1997), cold fusion researcher Eugene Mallove (beaten to death in 2004), zero point field investor Arie Deus (found dead in his car in 2007), stardrive inventor Mark Toman (died unexpectedly in 2009), and Dr. Amy Eskridge (died 2022) as part of an alleged pattern of suspicious deaths among researchers and advocates in the free energy and ARV disclosure fields.
+Allen's death is cited alongside McCandlish's own 2021 death, physicist Stefan Marinov (fell from a window in 1997), cold fusion researcher Eugene Mallove (beaten to death in 2004), zero point field investor Arie DeGeus (found dead in his car in 2007), "star drive" inventor Mark Tomion (died unexpectedly in 2009), and Dr. [[Amy Eskridge]] (died 2022) as part of an alleged pattern of suspicious deaths among researchers and advocates in the free energy and ARV disclosure fields.
 
 ## Sources
 

@@ -20,7 +20,7 @@ In 2002, Davis was contracted with the Department of Defense and had been invest
 
 The meeting was facilitated by [[Oak Shannon]], former manager of special projects at [[Los Alamos National Laboratories]] and former Department of Energy nuclear physicist, who requested Wilson speak to Davis about what Wilson had told [[Will Miller]] regarding crashed/retrieved UFO craft.
 
-Prior to the meeting with Wilson, Davis had received a letter from Commander Will Miller offering contractual services for research into crash retrieval programs. Miller claimed knowledge of special teams focused on crash retrievals (possibly projects code-named [[Moon Dust]], [[Blue Fly]], or [[Zodiac]]), a senior officer with firsthand knowledge of [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]], and civilian contractors with knowledge of "alien-derived technologies, crashes, landings, and associated events."
+Prior to the meeting with Wilson, Davis had received a letter from Commander Will Miller offering contractual services for research into crash retrieval programs. Miller claimed knowledge of special teams focused on crash retrievals (possibly projects code-named [[Project Moon Dust|Moon Dust]], [[Blue Fly]], or [[Zodiac]]), a senior officer with firsthand knowledge of [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]], and civilian contractors with knowledge of "alien-derived technologies, crashes, landings, and associated events."
 
 ## The October 16, 2002 Wilson Meeting
 
@@ -50,7 +50,7 @@ Davis co-outlined the legacy program structure that has been critiqued and analy
 
 Davis has separately discussed the compartmented [[Lockheed Martin]] program associated with the late [[James T. Ryder]] and the attempted [[Kona Blue]] material transfer. Davis stated that the specific locked program under Ryder dealt strictly with materials and metallurgy — reverse-engineering only specific metals, alloys, and metamaterials — rather than with intact craft or propulsion and power systems, and that the effort had been largely fruitless at replication at scale. According to UAP Gerb, engineers working within this compartmented program were reportedly not told the true origin of the materials they were studying.
 
-Davis has also stated that, to his knowledge, no successful derivation — let alone a functioning alien reproduction vehicle (ARV) — has ever been successfully leveraged from recovered UFO materials, a claim UAP Gerb's host has publicly disputed as inconsistent with the host's own research into decades of alleged reverse-engineering efforts.
+Davis has also stated that, to his knowledge, no successful derivation — let alone a functioning alien reproduction vehicle (ARV) — has ever been successfully leveraged from recovered UFO materials, a claim UAP Gerb's host has publicly disputed as inconsistent with Gerb's own research into decades of alleged reverse-engineering efforts.
 
 ## Aerospace Corporation Research
 

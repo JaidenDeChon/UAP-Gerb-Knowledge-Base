@@ -2,8 +2,8 @@
 title: "USO - Unidentified Submerged Objects"
 video_id: U-jrx_giINA
 url: https://www.youtube.com/watch?v=U-jrx_giINA
-date: NA
-duration_seconds: 0
+date: 2024-04-17
+duration_seconds: 1588
 channel: UAP Gerb
 tags:
   - transcript

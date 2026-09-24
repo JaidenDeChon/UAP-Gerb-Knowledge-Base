@@ -2,8 +2,8 @@
 title: "FASTWALKERS – UFOs Outside Earth"
 video_id: Tubx-CaAaOs
 url: https://www.youtube.com/watch?v=Tubx-CaAaOs
-date: NA
-duration_seconds: 0
+date: 2024-02-28
+duration_seconds: 1336
 channel: UAP Gerb
 tags:
   - transcript

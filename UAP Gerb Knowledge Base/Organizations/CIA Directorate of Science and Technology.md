@@ -9,7 +9,7 @@ The CIA's Directorate of Science and Technology (DS&T, sometimes rendered DSMT i
 
 ## Alleged UFO Legacy Program Role
 
-UAP Gerb states that many of the legacy program gatekeepers and personnel discussed across its research have deep ties to DS&T, naming in particular [[Don Meyer]], [[Doug Wolfe]], [[Stephanie O'Sullivan]], [[Glenn Gaffney]], and [[Mary K. Sturdivant|Mary Sturdivant]]. [[Bobby Ray Inman]], in a 1989 phone call with NASA mission specialist Bob Echler, identified CIA DS&T Deputy Director and NRO Program B Director R. Everett Heinman as the appropriate contact for questions about recovered UAP technology becoming available for research — cited as evidence connecting DS&T leadership directly to alleged UAP material custody.
+UAP Gerb states that many of the legacy program gatekeepers and personnel discussed across its research have deep ties to DS&T, naming in particular [[Dawn Meyerriecks]], [[Doug Wolfe]], [[Stephanie O'Sullivan]], [[Glenn Gaffney]], and [[Mary K. Sturdivant|Mary Sturdivant]]. [[Bobby Ray Inman]], in a 1989 phone call with NASA mission specialist Bob Echler, identified CIA DS&T Deputy Director and NRO Program B Director R. Everett Heinman as the appropriate contact for questions about recovered UAP technology becoming available for research — cited as evidence connecting DS&T leadership directly to alleged UAP material custody.
 
 ## Blocking of the Kona Blue Transfer (2011)
 

@@ -9,13 +9,13 @@ The Armed Forces Special Weapons Project (AFSWP) was a joint Army and Navy organ
 
 ## Establishment and Function
 
-The 1946 Atomic Energy Act transferred civilian nuclear weapons development and production to the newly formed Atomic Energy Commission. The AFSWP was created in parallel to manage the military operational aspects of nuclear weapons — custody, assembly procedures, and training of military personnel in nuclear weapons handling — that fell outside the AEC's civilian mandate. The AFSWP and Los Alamos C Division established joint operations at Sandia Base, co-located with [[Sandia National Laboratories]] (then Los Alamos Z Division) in Albuquerque, New Mexico.
+The 1946 Atomic Energy Act transferred civilian nuclear weapons development and production to the newly formed Atomic Energy Commission. The AFSWP was created in parallel to manage the military operational aspects of nuclear weapons — custody, assembly procedures, and training of military personnel in nuclear weapons handling — that fell outside the AEC's civilian mandate. The AFSWP and Los Alamos Z Division established joint operations at Sandia Base, co-located with [[Sandia National Laboratories]] (then Los Alamos Z Division) in Albuquerque, New Mexico.
 
 ## Alleged UFO Legacy Program Connections
 
 Several specific connections between AFSWP personnel and alleged UFO crash retrieval operations have been identified in UAP research:
 
-**1947 Roswell:** An alleged Interplanetary Phenomenon Unit (IPU) report dated July 22, 1947 mentions Colonel Sherman V. Hausbrook of the AFSWP ordering a "special radiobiological team, accompanied by a SED [Special Engineer Detachment] and a security detail from Sandia National Labs" to secure the immediate area surrounding the Roswell crash site. Colonel Hausbrook was a real Army colonel who aided in fleshing out the AFSWP and worked closely with [[Leslie Groves]].
+**1947 Roswell:** An alleged Interplanetary Phenomenon Unit (IPU) report dated July 22, 1947 mentions Colonel [[Sherman V. Hasbrouck]] of the AFSWP ordering a "special radiobiological team, accompanied by a SED [Special Engineer Detachment] and a security detail from Sandia National Labs" to secure the immediate area surrounding the Roswell crash site. Hasbrouck was a real Army officer who aided in fleshing out the AFSWP and worked closely with [[Leslie Groves]].
 
 **1948 Aztec:** J. Andrew Kisner, a former New Mexico State Representative who conducted extensive interviews with legacy program firsthand sources in the early 1990s, stated that early UFO legacy program operations featured military support from Air Material Command and the AFSWP at Sandia Base.
 
@@ -25,7 +25,11 @@ Several specific connections between AFSWP personnel and alleged UFO crash retri
 
 ## Modern Successor: Defense Threat Reduction Agency
 
-The AFSWP evolved through several successor organizations and is now represented by the Defense Threat Reduction Agency (DTRA). Former defense analyst [[Dylan Borland]] has stated that while working near DTRA, he observed old Atomic Energy Commission files that concluded some UFOs are of extraterrestrial origin — files that would be protected under DOE statutory classification authority established by the [[Atomic Energy Act of 1954]].
+The AFSWP evolved through the Defense Atomic Support Agency (1959-1971), the Defense Nuclear Agency (1971-1996) and the Defense Special Weapons Agency (1996-1998) into the [[Defense Threat Reduction Agency (DTRA)|Defense Threat Reduction Agency]] (DTRA), formed in 1998. Former defense analyst [[Dylan Borland]] has stated that while working near DTRA, he observed old Atomic Energy Commission files that concluded some UFOs are of extraterrestrial origin — files that would be protected under DOE statutory classification authority established by the [[Atomic Energy Act of 1954]].
+
+## Sandia Base
+
+In UAP Gerb's investigation of [[Sandia National Laboratories]], AFSWP is the thread that ties Sandia Base to the earliest recoveries. Former New Mexico state representative [[Andrew Kissner]]'s 1994 sources said AFSWP personnel at Sandia Base supported the analysis of discs recovered in 1947, and the IPU report names AFSWP's Hasbrouck as ordering the July 1947 recovery teams. Because the IPU documents appeared in 1995, after Kissner had finished, Gerb treats the two as separate sources and suggests the documents may have borrowed from Kissner. He also notes that AFSWP began construction of Manzano Base (Site Able), a nuclear weapons store with two underground installations, in 1947, and built much of Sandia's Coyote Test Field in the late 1940s.
 
 ## Sources
 

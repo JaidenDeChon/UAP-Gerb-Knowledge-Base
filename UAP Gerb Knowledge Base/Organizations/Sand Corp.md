@@ -5,7 +5,7 @@ tags:
   - organization
 ---
 
-Sand Corp is a private defense contractor whose documented specialization is **preventing leaks and stopping whistleblowers** — counterintelligence-adjacent services focused on information control and program protection. In 2022, the Department of Defense awarded Sand Corp a $1.9 million contract for "AARO Support Services" to provide support to the [[All-Domain Anomaly Resolution Office (AARO)]]. The contract was secured with the involvement of [[Ronald S. Moltry]]'s office, then Under Secretary of Defense for Intelligence and Security.
+Sand Corp is a private defense contractor whose documented specialization is **preventing leaks and stopping whistleblowers** — counterintelligence-adjacent services focused on information control and program protection. In 2022, the Department of Defense awarded Sand Corp a $1.9 million contract for "AARO Support Services" to provide support to the [[AARO|All-Domain Anomaly Resolution Office (AARO)]]. The contract was secured with the involvement of [[Ronald S. Moultrie]]'s office, then Under Secretary of Defense for Intelligence and Security.
 
 ## Significance to UAP Research
 

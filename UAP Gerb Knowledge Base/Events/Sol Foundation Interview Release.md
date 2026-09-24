@@ -17,6 +17,8 @@ The released materials included interviews and panels with:
 
 - **[[Kevin Knuth]]** — Professor of Physics at the University at Albany who has published peer-reviewed research on UAP flight characteristics and applies Bayesian statistical methods to UAP analysis
 
+- **[[Hal Puthoff]]** — Physicist and long-time UAP researcher, also named by Gerb among the figures in the release
+
 ## Significance
 
 The Sol Foundation's release was notable for several reasons:
@@ -31,7 +33,7 @@ The Sol Foundation's release was notable for several reasons:
 
 ## UAP Community Response
 
-[[UAP Gerp]] referenced this release in his Metapod analysis video, noting his intention to review and analyze the Sol Foundation materials in a subsequent video: "the soul Foundation just released a bunch of interviews with grush Chris melon Kevin can how put off...so the next video which I'm going to try to get out as quick as possible I'm going to be reviewing all those uh panels and kind of putting out my thoughts."
+Gerb referenced this release in his Metapod analysis video, noting his intention to review and analyze the Sol Foundation materials in a subsequent video: "the soul Foundation just released a bunch of interviews with Grusch, Chris Mellon, Kevin Knuth, Hal Puthoff... so the next video which I'm going to try to get out as quick as possible I'm going to be reviewing all those uh panels and kind of putting out my thoughts."
 
 This reflects broader excitement within the UAP research community about the Sol Foundation's work and its potential to elevate discourse beyond speculation toward rigorous investigation.
 

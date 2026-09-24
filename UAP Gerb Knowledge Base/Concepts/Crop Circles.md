@@ -22,7 +22,7 @@ In 1992, researchers in Hungary documented a method of bending crops after recen
 
 ## Assessment in UAP Research
 
-The host of UAP Gerb explicitly dismisses crop circles as a distraction from genuine UAP evidence, noting that the confession and the well-understood human techniques make them of no evidentiary value for non-human intelligence research.
+Gerb explicitly dismisses crop circles as a distraction from genuine UAP evidence, noting that the confession and the well-understood human techniques make them of no evidentiary value for non-human intelligence research.
 
 ## Sources
 

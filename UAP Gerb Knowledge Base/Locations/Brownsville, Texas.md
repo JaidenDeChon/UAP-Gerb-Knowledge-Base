@@ -1,5 +1,6 @@
 ---
 name: "Brownsville, Texas"
+coordinates: [25.9303, -97.4844]
 tags:
   - location
 ---

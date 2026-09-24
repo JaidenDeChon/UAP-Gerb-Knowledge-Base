@@ -9,9 +9,9 @@ The Air Force Institute of Technology (AFIT) is a graduate school and research i
 
 ## Fast Walker Research
 
-AFIT has been involved in research on [[Fast Walkers]] — objects detected by space-based sensors entering or leaving Earth's atmosphere at extreme speeds. In 2008, USAF Captain [[Bradley R. Townson]] authored a study at AFIT titled "Space-Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors," which analyzed detection of Fast Walkers by [[Defense Support Program (DSP)]] satellites.
+AFIT has been involved in research on [[Fast Walkers]] — objects detected by space-based sensors entering or leaving Earth's atmosphere at extreme speeds. In 2008, USAF Captain [[Bradley R. Townsend]] authored a study at AFIT titled "Space-Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors," which analyzed detection of Fast Walkers by [[Defense Support Program (DSP)]] satellites.
 
-Townson's paper stated: **"Satellite based sensors looking down at the Earth's surface occasionally observe reflected light from an object passing through the image which is moving too fast relative to the background of the image to be located within the atmosphere. These objects are commonly called Fast Walkers."**
+Townsend's paper stated: **"Satellite based sensors looking down at the Earth's surface occasionally observe reflected light from an object passing through the image which is moving too fast relative to the background of the image to be located within the atmosphere. These objects are commonly called Fast Walkers."**
 
 The study confirmed that DSP satellites routinely detect these objects and that ground-based sensors are incapable of tracking them — only space-based infrared systems can detect Fast Walkers.
 

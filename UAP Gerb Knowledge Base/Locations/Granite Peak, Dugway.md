@@ -9,7 +9,7 @@ tags:
 
 ## Physical Description and Infrastructure
 
-Granite Peak is conspicuously absent from Dugway Proving Ground visitor guides and public facility maps despite being a significant installation. The 388th Range Squadron infrastructure surrounding the peak includes radar tracking stations and threat emitter arrays — the same assets used for advanced aerospace testing across the [[Utah Test and Training Range (UTTR)]]. This layered sensor environment serves both the official mission of range safety and threat simulation, and — according to UAP Gerb's analysis — the security of clandestine operations below ground.
+Granite Peak is conspicuously absent from Dugway Proving Ground visitor guides and public facility maps despite being a significant installation. The 388th Range Squadron infrastructure surrounding the peak includes radar tracking stations and threat emitter arrays — the same assets used for advanced aerospace testing across the [[Utah Test and Training Range]]. This layered sensor environment serves both the official mission of range safety and threat simulation, and — according to UAP Gerb's analysis — the security of clandestine operations below ground.
 
 ## Alleged Deep Underground Military Base
 

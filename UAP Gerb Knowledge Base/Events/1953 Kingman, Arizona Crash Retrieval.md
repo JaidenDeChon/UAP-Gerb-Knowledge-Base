@@ -25,9 +25,9 @@ In 1997, researcher [[Leonard Stringfield]] was approached at Lunken Airport in 
 
 [[Edward Bushnell Doll]], the AEC official who coordinated the Stansel assignment, subsequently joined [[TRW]] Systems Group (approximately 1955–1977). The Kingman event is cited in UAP legacy program research as a founding data point in the chain of non-human craft exploitation passing from AEC-connected personnel through TRW and ultimately to [[Northrop Grumman]] following TRW's 2002 acquisition. A blocked material transfer from [[Lockheed Martin]] to the [[AAWSAP]] program has also been connected by researchers to Kingman-era recovered materials.
 
-The 80 Years timeline video connects this custody chain specifically to the [[Kona Blue]] prospective special access program: citing "credible rumors and indirect confirmation" from [[Hal Puthoff]], the presenter alleges that the Kona Blue material transfer or technology transfer agreement from Lockheed Martin consisted at least partly of Kingman wreckage — with the further speculation that there may actually have been three separate Kingman-area crashes. If accurate, this would place traceable custody of Kingman-derived material as late as the 2010s.
+The 80 Years timeline video connects this custody chain specifically to the [[Kona Blue]] prospective special access program: citing "credible rumors and indirect confirmation" from [[Hal Puthoff]], Gerb alleges that the Kona Blue material transfer or technology transfer agreement from Lockheed Martin consisted at least partly of Kingman wreckage — with the further speculation that there may actually have been three separate Kingman-area crashes. If accurate, this would place traceable custody of Kingman-derived material as late as the 2010s.
 
-Stansel's supervisor at [[Wright-Patterson Air Force Base]], Dr. [[Eric Henry Wang]], is independently alleged to have been a key UAP reverse-engineering director dating from the [[1948 Aztec UFO Crash Retrieval]] forward.
+Stansel's supervisor at [[Wright-Patterson Air Force Base]], Dr. [[Eric Henry Wang]], is independently alleged to have been a key UAP reverse-engineering director dating from the [[Aztec UFO Crash and Recovery]] forward.
 
 Three months after the Kingman crash, the USAF issued Regulation 200-2, diverting UFO reports to Air Force Intelligence rather than [[Project Blue Book]].
 

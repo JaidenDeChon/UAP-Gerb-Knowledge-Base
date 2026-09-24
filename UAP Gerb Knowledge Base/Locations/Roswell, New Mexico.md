@@ -1,5 +1,6 @@
 ---
 name: "Roswell, New Mexico"
+coordinates: [33.3942, -104.5228]
 tags:
   - location
 ---

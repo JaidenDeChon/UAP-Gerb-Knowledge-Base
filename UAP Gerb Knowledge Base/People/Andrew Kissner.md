@@ -15,8 +15,15 @@ According to Kissner, "T-forces" (units modeled on the Allied T-Forces that secu
 
 Kissner further stated that custody of recovered discs was "permanently vested in civilian authorities by classified presidential executive order" in July 1948, naming the Atomic Energy Commission and its national laboratories as the relevant civilian authority, with participation from the Department of Defense's Air Force Systems Command, the Naval Research Laboratory, and the Secretary of Defense's Research and Development Board, under overall coordination by the newly formed National Security Council.
 
-UAP Gerb treats Kissner's account as one of the most credible "estimates of the situation" in UFO legacy program research, noting its consistency with [[Wilbert B. Smith]] and [[Robert Sarbacher]]'s earlier 1950 statements and with the host's independent research into the period.
+UAP Gerb treats Kissner's account as one of the most credible "estimates of the situation" in UFO legacy program research, noting its consistency with [[Wilbert B. Smith]] and [[Robert Sarbacher]]'s earlier 1950 statements and with Gerb's independent research into the period.
+
+## Sandia and Custody of the Discs
+
+In his investigation of [[Sandia National Laboratories]], UAP Gerb examines the statement in detail. He gives its title as "Peculiar Phenomenon: Early United States Efforts to Collect and Analyze Flying Discs", and says Kissner's sources described Army elements acting offensively to bring down two to four discs in a series of events beginning 15 May 1947, Roswell among them. Discs may have contributed to the deaths of several US servicemen between 9 May and 31 July 1947, and their "special weapons" were at once classified as enemy weapon systems. Recovered discs were analyzed for Vannevar Bush with the help of Los Alamos, its Z Division at Sandia Base, Air Materiel Command and AFSWP personnel at Sandia Base, together with the Department of Terrestrial Magnetism, Detlev Bronk, MIT, the National Advisory Committee for Aeronautics and the [[RAND Corporation]]. The statement also describes a "lash-up" radar network at White Sands, Los Alamos, Sandia Base and a nearby radar site that could have tracked UFOs.
+
+Because the statement was presented by Linda Moulton Howe, whom he considers unreliable, Gerb contacted Kissner himself and says he can confirm it; Kissner told him "the truth is stranger than fiction." Gerb reads the 1948 transfer of custody to AEC laboratories as the origin of his model in which FFRDCs, not contractors, hold recovered material, and he calls Kissner "a mini Dave Grusch precursor". He notes that the Interplanetary Phenomenon Unit documents, which also place AFSWP at the 1947 recoveries, appeared only in 1995, a year after Kissner finished, so that Kissner could not have drawn on them.
 
 ## Sources
 
 - [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
+- [[Video - Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]

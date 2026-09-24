@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-**"Myron"** (pseudonym) was a trucker who, along with his cousin "JS," delivered specialty bricks to [[Wright-Patterson Air Force Base]] two to three days after the [[1965 Kecksburg UFO Crash]]. Myron claimed to have glimpsed the bell-shaped craft inside a warehouse at Wright-Patterson and, in later testimony, stated he also saw a non-human body on a workbench near the object. His account is one of the most detailed alleged firsthand observations of a retrieved UAP craft and occupant.
+**"Myron"** (pseudonym) was a trucker who, along with his cousin "JS," delivered specialty bricks to [[Wright-Patterson Air Force Base]] two to three days after the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]]. Myron claimed to have glimpsed the bell-shaped craft inside a warehouse at Wright-Patterson and, in later testimony, stated he also saw a non-human body on a workbench near the object. His account is one of the most detailed alleged firsthand observations of a retrieved UAP craft and occupant.
 
 ## The Brick Delivery
 

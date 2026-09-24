@@ -2,8 +2,8 @@
 title: "Transcript - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2]"
 video_id: U_LSMLGBDNg
 url: https://www.youtube.com/watch?v=U_LSMLGBDNg
-date: NA
-duration_seconds: 0
+date: 2024-10-02
+duration_seconds: 2855
 channel: UAP Gerb
 tags:
   - transcript

@@ -1,6 +1,7 @@
 ---
 name: "Linton Wells II"
 role: "14-year Senior Executive Service member, Office of the Secretary of Defense; 26-year U.S. Navy officer; SAPOC Senior Review Group member"
+wikipedia: "Linton Wells II"
 tags:
   - person
 ---

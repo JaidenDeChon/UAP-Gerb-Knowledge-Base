@@ -11,7 +11,7 @@ Carl Howe (also referenced as "Mr. Carl Howe" in FBI records) is an individual c
 
 In the March 22, 1950 memo from FBI Special Agent [[Guy Hottel]] to FBI Director [[J. Edgar Hoover]], Hottel relayed information provided by an Air Force investigator (believed to be from the [[Air Force Technical Intelligence Center]]). The investigator stated that according to "Mr. Carl Howe," three circular flying saucers approximately 50 feet in diameter had been recovered in New Mexico, each occupied by three-foot-tall humanoid figures in metallic suits. Howe allegedly claimed that the discs crashed because high-powered radar in the region interfered with their control mechanisms.
 
-The radar interference theory — attributing UAP crashes to electromagnetic disruption from ground-based radar systems — became a recurring hypothesis in early UFO literature and has been cited in connection with the 1947 Roswell crash, the alleged 1948 [[Aztec, New Mexico Crash]], and other incidents.
+The radar interference theory — attributing UAP crashes to electromagnetic disruption from ground-based radar systems — became a recurring hypothesis in early UFO literature and has been cited in connection with the 1947 Roswell crash, the alleged 1948 [[Aztec UFO Crash and Recovery]], and other incidents.
 
 ## Identity and Credibility
 

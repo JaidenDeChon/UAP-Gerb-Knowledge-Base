@@ -15,16 +15,16 @@ A friend of House's in the Army Criminal Investigation Division (CID), a veteran
 
 ## Project Red Light
 
-House's source identified the Area 51 program testing non-human vehicles and exploiting recovered materials as [[Project Red Light]]. The source noted "a base near Lancaster in Palmdale area" with an underground area near Northrop — consistent with independent descriptions of the [[Tejon Ranch]] facility — as well as underground research at Anza, California and [[March Air Force Base]]. The source also stated that 35–40% of Area 51's UAP operations were relocated to Utah (identified as [[Dugway Proving Ground]]) in the early 1990s, corroborating the identical claim made independently by [[Edgar Fuché]].
+House's source identified the Area 51 program testing non-human vehicles and exploiting recovered materials as [[Project Redlight|Project Red Light]]. The source noted "a base near Lancaster in Palmdale area" with an underground area near Northrop — consistent with independent descriptions of the [[Tejon Ranch]] facility — as well as underground research at Anza, California and [[March Air Force Base]]. The source also stated that 35–40% of Area 51's UAP operations were relocated to Utah (identified as [[Dugway Proving Ground]]) in the early 1990s, corroborating the identical claim made independently by [[Edgar Fouche|Edgar Fuché]].
 
 ## Additional Disclosures
 
 House stated he learned from his contacts:
-- [[General Curtis LeMay]] personally confirmed the [[1947 Roswell Crash]] at a private meeting around 1987
+- [[Curtis LeMay|General Curtis LeMay]] personally confirmed the [[Roswell Crash|1947 Roswell Crash]] at a private meeting around 1987
 - Henry Kissinger, George H.W. Bush, Ronald Reagan, and Mikhail Gorbachev were all aware of the UAP subject
 - CIA and USAF had downed non-human craft
-- FBI radar testing had caused interference with some craft, resulting in crashes — an account echoing [[Lieutenant Colonel Philip J. Corso]]'s Roswell analysis
-- Underground bases testing and maintaining TUOs existed at [[Dugway Proving Ground]], [[Palmdale]], [[Edwards Air Force Base]], [[Eglin Air Force Base]], and others
+- FBI radar testing had caused interference with some craft, resulting in crashes — an account echoing [[Philip J. Corso|Lieutenant Colonel Philip J. Corso]]'s Roswell analysis
+- Underground bases testing and maintaining TUOs existed at [[Dugway Proving Ground]], [[Palmdale, California|Palmdale]], [[Edwards Air Force Base]], [[Eglin Air Force Base]], and others
 
 ## Sources
 

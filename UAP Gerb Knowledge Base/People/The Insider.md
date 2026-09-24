@@ -22,8 +22,9 @@ The Insider is reportedly writing a book titled "Sentinels of Ether" through a g
 
 ## Credibility Concerns
 
-Investigator Joey Is Not My Name verified through objective data that Michael Herrera was indeed transported to a secure facility for a meeting, lending some credibility to the existence of The Insider. However, the truthfulness of The Insider's disclosures remains unverified and could constitute disinformation similar to the CIA's campaign against Paul Benowitz in 1989. The Insider's motivations — whether genuinely pro-disclosure or part of a psychological operation — remain unclear.
+Investigator Joey Is Not My Name verified through objective data that Michael Herrera was indeed transported to a secure facility for a meeting, lending some credibility to the existence of The Insider. However, the truthfulness of The Insider's disclosures remains unverified and could constitute disinformation similar to the CIA's campaign against [[Paul Bennewitz]] in the 1980s. The Insider's motivations — whether genuinely pro-disclosure or part of a psychological operation — remain unclear.
 
 ## Sources
 
 - [[Video - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)]]
+- [[Video - Michael Herrera - Insights into UAP Encounter and Black Program Insiders]]
