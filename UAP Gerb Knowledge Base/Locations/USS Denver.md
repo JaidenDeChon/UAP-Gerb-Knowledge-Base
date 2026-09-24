@@ -1,5 +1,6 @@
 ---
 name: "USS Denver"
+coordinates: [-0.9500, 100.2800]
 tags:
   - location
 ---
