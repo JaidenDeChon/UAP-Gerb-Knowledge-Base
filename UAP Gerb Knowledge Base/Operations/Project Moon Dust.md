@@ -41,7 +41,7 @@ Two US Air Force officers — Colonel [[Robert Simmons]] and Major [[Jesse Haast
 
 ### Peru UFO Intercept Documentation
 
-A [[DOD Joint Chiefs]] briefing document associated with Project Moon Dust corroborated the account of [[Peruvian Air Force]] Lieutenant [[Oscar Santa Maria Hueras]]'s April 11, 1980 encounter at [[La Joya Airbase, Arequipa, Peru|La Joya Airbase]]. The briefing documented that Hueras fired 64 30mm shells at an unidentified silvery orb with no damaging effect and pursued it for 84 kilometers. This briefing also covered the [[1968 Nepal Circular Disc Crash]], indicating Moon Dust's involvement in documenting international UAP incidents beyond material retrieval operations.
+A [[DOD Joint Chiefs]] briefing document associated with Project Moon Dust corroborated the account of [[Peruvian Air Force]] Lieutenant [[Oscar Santa Maria Huertas]]'s April 11, 1980 encounter at [[La Joya Airbase, Arequipa, Peru|La Joya Airbase]]. The briefing documented that Santa María fired 64 30mm shells at an unidentified silvery orb with no damaging effect and pursued it for 84 kilometers. This briefing also covered the [[1968 Nepal Circular Disc Crash]], indicating Moon Dust's involvement in documenting international UAP incidents beyond material retrieval operations.
 
 ## Connection to Wright-Patterson Air Force Base
 

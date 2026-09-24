@@ -1,113 +1,282 @@
 ---
 title: "Global Air Force UFO Encounters You've Probably Never Heard of"
-date: NA
+date: 2024-02-02
 video_id: 6cVe-hdMTCE
 url: https://www.youtube.com/watch?v=6cVe-hdMTCE
 channel: UAP Gerb
-duration_seconds: 0
+duration_seconds: 858
 tags:
   - video
   - uap-gerb
 ---
 
-## Summary
-The video examines a series of historical military pilot UFO encounters from multiple countries, presenting them as credible UAP cases supported by official investigations, radar data, and eyewitness corroboration. Key cases include the 1948 Gorman Dogfight over Fargo, North Dakota — cited by Project Blue Book director Captain Edward J. Ruppelt as one of three incidents that convinced Air Force intelligence that UFOs were real — and the 1980 La Joya Airbase intercept, in which Peruvian Air Force Lieutenant Oscar Santa Maria Hueras fired 64 30mm shells at a silvery orb with no effect and chased it 84 km, an account later corroborated in a DOD Joint Chiefs briefing. The video also covers the 1969 Pori Airport incident, the only UAP event officially acknowledged by the Finnish Air Force, in which two pilots observed seven disc-shaped pale yellow objects that accelerated away at an estimated 3,218 m/s against a 180 km/h headwind and were confirmed by radar 200 km away, and the 2004 Mexican Air Force infrared filming of 11 UAP over Campeche, three of which appeared on radar. Gerb rates the Finnish and Peruvian cases as likely genuine UAP encounters, while acknowledging that skeptic Michael Shermer's offshore oil platform flare explanation for the Mexico incident has not been conclusively ruled out.
+::wiki-stat-strip
+---
+stats:
+  - value: 4
+    label: Air Force encounters
+    hint: "USA, Finland, Peru, Mexico"
+  - value: 56
+    label: Years spanned
+    hint: "1948–2004"
+  - value: 64
+    label: 30 mm shells fired
+    hint: "at La Joya, to no effect"
+  - value: "14:18"
+    label: Runtime
+---
+::
 
-## People
-- [[David Fravor]] — Referenced as having a well-known UFO encounter with the Tic Tac object off the coast of San Diego in 2004
-- [[Edward J. Ruppelt]] — Wrote about the Gorman dogfight as one of three classic UFO incidents in 1948 that proved UFOs were real to Air Force intelligence specialists
-- [[George F. Gorman]] — Pilot involved in the Gorman dogfight, pursued an unidentified ball of light over Fargo, North Dakota on October 1, 1948
-- [[L.D. Jensen]] — Observed the unidentified object pass overhead through binoculars during the Gorman incident
-- [[Tarmo Tukia]] — Pilot ordered to investigate seven anomalous objects during a training mission at Pori Airport on April 12, 1969
-- [[Juhani Korhonen]] — Second pilot who observed the disc-shaped objects during the Pori Airport incident, confirming their anomalous shape and speed
-- [[Nathan Twining]] — His assertion that flying discs were real and not fictitious led to the creation of Project Sign
-- [[Oscar Santa Maria Hueras]] — Ordered to intercept a UFO near La Joya Airbase on April 11, 1980; fired 64 30mm shells at the object with no effect and chased it for 84 km
-- [[Juhani Korhonen]] — Second pilot who observed and confirmed the anomalous disc-shaped objects reported by Tua over Finland
-- [[Magdaleno Castanon]] — Stated that military jets chased the lights during the 2004 Mexico UFO incident and believed the objects were aware of being pursued
-- [[Michael Shermer]] — Suggested the 2004 Mexico UFO lights were burnoff flares from an offshore oil platform in the Gulf of Mexico
-- [[Graham Hancock]] — Referenced as having debated Michael Shermer on The Joe Rogan Experience
-- [[George F. Gorman]] — Referenced in the 'Gorman dogfight' case discussed in the video
+## Overview
 
-## Organizations
-- [[Project Sign]] — USAF project created to investigate UFO reports; investigated the Gorman dogfight and checked his P-51 for radiation
-- [[Project Grudge]] — USAF UFO investigation project, succeeded Project Sign; directed by Edward Ruppelt
-- [[Project Blue Book]] — USAF UFO investigation project directed by Edward Ruppelt; successor to Project Grudge
-- [[North Dakota National Guard]] — George Gorman served as a second lieutenant and was on a cross-country flight when he encountered the UFO
-- [[Army and Navy Research and Development Board]] — Required recipient of all Project Sign UFO reports
-- [[USAF Scientific Advisory Board]] — Required recipient of all Project Sign UFO reports
-- [[Atomic Energy Commission]] — Required recipient of all Project Sign UFO reports
-- [[Finnish Defense Force]] — Organization whose pilots were involved in the 1969 Pori Airport UFO incident, the only UFO observation officially acknowledged by the Finnish Air Force
-- [[Finnish Air Force]] — Officially acknowledged the April 12, 1969 Pori Airport UFO incident as the only such acknowledged event in their history
-- [[Peruvian Air Force]] — Ordered the intercept of a UFO at La Joya Airbase in 1980 and officially investigated the incident
-- [[Mexican Air Force]] — Filmed 11 UFOs using infrared equipment during a routine anti-drug trafficking mission in 2004
-- [[DOD Joint Chiefs]] — Produced a briefing document that covered the 1980 Peru UFO incident and corroborated Hueras's account
-- [[Skeptic Magazine]] — Publication associated with Michael Shermer, who offered a prosaic explanation for the Mexico UFO incident
-- [[Pori Airport]] — Did not record sonar signatures of the Finnish UFO objects
+This short video collects four official military encounters with UFOs from around the world that, [[Gerb]] argues, have "flown under the radar" beside famous cases such as the Second World War foo fighters and Commander [[David Fravor]]'s 2004 [[2004 Nimitz UAP Encounter (Tic Tac)|Tic Tac encounter]] off San Diego. Each involves an air force pilot, and in three of them the pilot tried to close on or attack the object:
 
-## Concepts
-- [[Foo Fighters]] — Unidentified aerial phenomena observed by both Allied and Axis fighter pilots during World War II.
-- [[Tic Tac UFO]] — An unidentified aerial object encountered by Commander David Fravor off the coast of San Diego in 2004, named for its shape.
-- [[UAP (Unidentified Aerial Phenomena)]] — The official term used to describe unidentified objects or lights observed in the sky that cannot be explained by conventional means.
-- [[Radiation Testing of Aircraft]] — Project Sign tested Gorman's P-51 Mustang for radiation after the encounter; it was measurably more radioactive than other fighters, initially suggesting proximity to an atomic-powered object.
-- [[Frame of Reference Effect]] — The official explanation for the Gorman dogfight, suggesting that the object's fantastic maneuvers were an illusion based on Gorman's own perspective inside the moving aircraft.
-- [[Disc-shaped UAP]] — Objects described as disc-shaped, slightly round like balls with no extremities and pale yellow in color, observed during the Pori Airport incident.
-- [[UAP Aerial Maneuverability]] — UFOs demonstrating instant acceleration, sudden stops, and altitude changes that exceed known aircraft capabilities.
-- [[Infrared UAP Detection]] — Use of infrared cameras by military pilots to film UAP, as in the 2004 Mexico incident where objects not always visible on radar were captured on film.
-- [[Radar Corroboration]] — Ground-based radar confirming the presence and speed of UAP, as seen in the Finnish case where radar 200 km away detected the objects.
-- [[Material Imperviousness]] — The observed inability of conventional weaponry, such as 30mm cannon fire, to damage or affect UAP.
-- [[Restricted Airspace Violation]] — UAP entering protected or restricted military airspace without authorization, prompting military response.
-- [[Project Moon Dust]] — A DOD program referenced in connection with the briefing that documented the 1980 Peru UFO incident and the 1968 Nepal crash disc case.
-- [[Prosaic Explanation]] — A conventional or mundane explanation for a UAP sighting, as opposed to an extraordinary one.
-- [[Radar Detection]] — The use of radar systems to detect and track unidentified aerial objects, referenced in the Mexico 2004 case where 3 of 11 objects were radar-confirmed.
+1. the [[Gorman Dogfight]] of 1 October 1948, a 27-minute chase of a small ball of light over [[Fargo, North Dakota, USA|Fargo, North Dakota]] by National Guard pilot [[George F. Gorman]] in a P-51 Mustang;
+2. the [[Pori Airport UFO Incident]] of 12 April 1969, in which a Finnish trainee pilot, [[Tarmo Tukeva]], found that seven presumed balloons over [[Pori Airport]] were pale yellow discs that sped away from him, the only UFO sighting the [[Finnish Air Force]] has acknowledged;
+3. the [[La Joya Airbase UFO Intercept]] of 11 April 1980, in which Peruvian Lieutenant [[Oscar Santa Maria Huertas]] fired 64 30 mm shells at a silvery object to no effect, then chased it for 84 km; and
+4. the [[Mexico UFO Incident]] of 5 March 2004, in which a [[Mexican Air Force]] crew filmed 11 lights on infrared over [[Campeche, Mexico|Campeche]], three of which appeared on radar.
 
-## Events & Dates
-- [[Gorman Dogfight]] — Second Lieutenant George F. Gorman pursued an unidentified ball of light over Fargo, North Dakota in his P-51 Mustang for approximately 27 minutes; the object outmaneuvered and outpaced his aircraft.
-- [[2004 Nimitz UAP Encounter (Tic Tac)]] — Commander David Fravor encountered an unidentified Tic Tac-shaped object off the coast of San Diego, a widely known UAP case.
-- [[Pori Airport UFO Incident]] — Finnish Defense Force pilots Tarmo Tukia and a second pilot observed seven disc-shaped pale yellow objects that accelerated away at great speed; radar 200 km away in Vaasa also detected the objects. This is the only UFO incident officially acknowledged by the Finnish Air Force.
-- [[Finnish UFO Sighting]] — Pilot Tua observed seven disc-shaped pale yellow objects that accelerated away at high speed against a 180 km/h headwind; radar in Vaasa detected them at an estimated 3,218 m/s
-- [[La Joya Airbase UFO Intercept]] — Lieutenant Oscar Santa Maria Hueras was scrambled in a Sukhoi-22 to intercept a silvery orb-like object; fired 64 30mm shells with no effect and chased it for 84 km before running low on fuel
-- [[Mexico UFO Incident]] — Mexican Air Force filmed 11 UAP using infrared equipment over the state of Campeche during an anti-drug trafficking patrol; three objects appeared on radar
-- [[1968 Nepal Circular Disc Crash]] — Referenced in the DOD Joint Chiefs briefing alongside the 1980 Peru case under Operation Moondust coverage
-- [[Mexico UFO Incident]] — A case involving 11 objects, three of which were detected on radar; possible flare explanation considered but not confirmed.
-- [[Finnish UFO Case]] — A UAP sighting case involving pilot testimony that Gerb leans toward explaining as a genuine UFO encounter.
+For each case Gerb tells the pilot's story in detail, then sets out the official record and any prosaic explanation. Project Sign reduced Gorman's light to a weather balloon or Jupiter; skeptic [[Michael Shermer]] suggests the Mexican lights were oil-platform flares. Gerb closes by ranking the four. The Gorman and Peruvian cases, he says, are the most compelling, with the most sensory data. He leans toward a UFO explanation of the Finnish case on the strength of the pilot's testimony. Of the four, the Mexico sightings have the highest probability of a prosaic explanation, but he is not convinced they were flares.
 
-## Operations
-- [[Project Moon Dust]] — A DOD program referenced in a Joint Chiefs briefing that documented multiple UAP-related incidents including the 1980 Peru intercept and the 1968 Nepal crash disc
+## The Four Encounters
 
-## Locations
-- [[Fargo, North Dakota, USA]] — Location of the Gorman dogfight on October 1, 1948
-- [[Hector Airport]] — Airport near Fargo, North Dakota; air traffic controller L.D. Jensen observed the object from here during the Gorman incident
-- [[San Diego, California, USA]] — Coastal location of the Tic Tac UAP encounter by Commander David Fravor in 2004
-- [[Pori Airport]] — Finnish airport where the April 12, 1969 UAP incident occurred during a Fouga Magister jet training mission
-- [[Vaasa, Finland]] — Town approximately 200 km from Pori where radar detected the seven anomalous objects after they rapidly departed
-- [[La Joya Airbase, Arequipa, Peru]] — Site of the 1980 UAP intercept by Lieutenant Hueras
-- [[Vaasa, Finland]] — Location of radar station 200 km away that detected seven UAP objects after they rapidly accelerated
-- [[Campeche, Mexico]] — Southern Mexican state where the Mexican Air Force filmed 11 UAP in 2004
-- [[Gulf of Mexico]] — Location of offshore oil platforms suggested by skeptics as the prosaic explanation for the 2004 Mexico UFO lights
-- [[Mexico]] — Location of the 2004 UFO sighting involving 11 objects and radar detection; described as a famous case that receives little attention in the United States.
-- [[Finland]] — Location of a UAP case referenced in the video, supported by pilot testimony.
+The four cases share a pattern: a military pilot sent after, or chancing on, something that looks at first like a light or a balloon, which then outperforms the aircraft. The matrix sets them side by side; each has its own section below.
+
+::wiki-compare{video="6cVe-hdMTCE" video-title="Global Air Force UFO Encounters You've Probably Never Heard of"}
+---
+caption: "The four encounters as Gerb presents them. Figures are as he gives them in the video."
+attributeLabel: "Point"
+subjects:
+  - name: "Gorman Dogfight"
+    note: "Fargo, USA"
+  - name: "Pori Airport UFO Incident"
+    note: "Pori, Finland"
+  - name: "La Joya Airbase UFO Intercept"
+    note: "Arequipa, Peru"
+  - name: "Mexico UFO Incident"
+    note: "Campeche, Mexico"
+rows:
+  - attribute: "Date"
+    cells:
+      - { text: "1 Oct 1948, about 9 p.m.", cue: 51 }
+      - { text: "12 Apr 1969", cue: 364 }
+      - { text: "11 Apr 1980, early morning", cue: 459 }
+      - { text: "5 Mar 2004", cue: 690 }
+  - attribute: "Aircraft and mission"
+    cells:
+      - "P-51 Mustang, National Guard cross-country flight"
+      - "Fouga Magister jet trainer, training mission"
+      - "Sukhoi Su-22 fighter, scrambled to intercept"
+      - "Aircraft with infrared camera, anti-drug patrol"
+  - attribute: "Pilot"
+    cells:
+      - "2nd Lt George F. Gorman"
+      - "Tarmo Tukeva; second pilot Jouko Kuronen"
+      - "Lt Óscar Santa María Huertas"
+      - "Crew including Maj. Magdaleno Castañón"
+  - attribute: "At first"
+    note: "before the pilot got close"
+    cells:
+      - "A small blinking light to the west, no wing visible"
+      - "Seven presumed air balloons"
+      - "A silvery object near the runway, presumed a balloon"
+      - "Lights on the infrared camera"
+  - attribute: "What was seen"
+    cells:
+      - { text: "A ball of light 6–8 in across", cue: 154 }
+      - { text: "Seven pale yellow discs, \"like balls with no extremities\"", cue: 394 }
+      - { text: "About 10 m across: cream dome on a silver metal base", cue: 604 }
+      - { text: "11 lights at about 3,500 m, surrounding the aircraft", cue: 704 }
+  - attribute: "What it did"
+    cells:
+      - "Out-turned, outran and outclimbed the Mustang; vertical climbs"
+      - "Accelerated away against a 180 km/h headwind"
+      - "Shrugged off 64 shells; stopped dead after an 84 km chase; shadowed his climb"
+      - "Appeared to know it was being pursued"
+  - attribute: "Other evidence"
+    cells:
+      - "Hector controller L.D. Jensen saw it through binoculars"
+      - "Radar at Vaasa, 200 km away: about 3,218 m/s"
+      - "Base personnel saw it on his return"
+      - "Infrared film; 3 of 11 on the aircraft's radar"
+  - attribute: "Official record"
+    cells:
+      - "Project Sign investigation"
+      - "The only UFO sighting the Finnish Air Force acknowledges"
+      - "DOD Joint Chiefs briefing corroborates his account"
+      - "Filmed by the Mexican Air Force"
+  - attribute: "Prosaic explanation raised"
+    cells:
+      - { text: "Lit weather balloon or Jupiter (Project Sign)", mark: disputed }
+      - { mark: unknown }
+      - { mark: unknown }
+      - { text: "Oil-platform flares (Michael Shermer)", mark: disputed }
+  - attribute: "Gerb's verdict"
+    cue: 786
+    cells:
+      - { text: "One of the two most compelling", cue: 789 }
+      - { text: "\"A bit tricky\"; leans UFO on the pilot's testimony", cue: 801 }
+      - { text: "One of the two most compelling", cue: 789 }
+      - { text: "Likeliest of the four to be prosaic, but unproven", cue: 812 }
+---
+::
+
+## The Gorman Dogfight (Fargo, 1948)
+
+### The chase
+
+Gerb opens with the 1 October 1948 encounter over Fargo, which Captain [[Edward J. Ruppelt]] wrote of as one of three classic 1948 incidents that "proved to Air Force intelligence specialists that UFOs were real". (Gerb calls Ruppelt the Project Sign, Grudge and Blue Book director; Ruppelt headed Grudge and Blue Book from 1951.) George F. Gorman, a seasoned Second World War pilot and by then a second lieutenant in the North Dakota National Guard, was flying a National Guard cross-country flight in a P-51 Mustang under clear skies. :wiki-cue{t=80 video="6cVe-hdMTCE" video-title="Global Air Force UFO Encounters You've Probably Never Heard of" entry-title="George F. Gorman"}
+
+- **About 9:00 p.m.** The only traffic Gorman can see is a Piper Cub 500 ft below him. Then he sees a small blinking light to the west, with no wing he can make out.
+- **9:07 p.m.** He calls air traffic control at [[Hector Airport]] and is told there is no other traffic in the region. He takes the Mustang to 350–400 mph to identify the light and, finding it too fast to catch in a straight line, tries to corner it with tight turns. :wiki-cue{t=117 video="6cVe-hdMTCE" video-title="Global Air Force UFO Encounters You've Probably Never Heard of" entry-title="9:07 p.m."}
+- **Near collision.** Coming out of a right turn at 5,000 ft, the object passes only 500 ft over him. He sees a simple ball of light about 6 to 8 inches across, which stops blinking and grows brighter as it speeds up. :wiki-cue{t=143 video="6cVe-hdMTCE" video-title="Global Air Force UFO Encounters You've Probably Never Heard of" entry-title="Near collision"}
+- **Head-on.** He loses it, then sees it coming at him head-on before it climbs steeply. The Mustang climbs 9,000 ft after it and stalls with the ball still 2,000 ft above. :wiki-cue{t=169 video="6cVe-hdMTCE" video-title="Global Air Force UFO Encounters You've Probably Never Heard of" entry-title="Head-on"}
+- **Final attempt.** He waits at 14,000 ft until the ball drops to 11,000, then dives at it at full power. It climbs vertically out of sight. :wiki-cue{t=186 video="6cVe-hdMTCE" video-title="Global Air Force UFO Encounters You've Probably Never Heard of" entry-title="Final attempt"}
+- **9:27 p.m.** Gorman gives up and heads back to Hector.
+
+Gerb calls it "crucial to note" that the controller at Hector, [[L.D. Jensen]], watched the object pass overhead through binoculars, though he could not make out its blinking light. On 23 October 1948 Gorman swore his account into the record. He was convinced there was "definitely thought behind its maneuvers" and that it obeyed the laws of inertia, accelerating rapidly but not instantly and turning in a natural curve. Trying to turn with it, he blacked out briefly, and he doubted many pilots could stay conscious through such turns. It outturned and outsped his aircraft and held a rate of climb far beyond his. :wiki-cue{t=219 video="6cVe-hdMTCE" video-title="Global Air Force UFO Encounters You've Probably Never Heard of" entry-title="Gorman's sworn statement"}
+
+### The Project Sign investigation
+
+In 1948 UFO investigations belonged to [[Project Sign]], which, Gerb explains, was created after Lieutenant General [[Nathan Twining]] wrote to the Air Force's commanding general that flying discs were "real and not visionary or fictitious". Sign's reports went to the [[Army and Navy Research and Development Board]], the USAF Scientific Advisory Board and, "you guessed it", the [[Atomic Energy Commission]]. Sign interviewed Gorman and other witnesses and tested his Mustang for radiation, and its explanation of the case changed as the investigation went on:
+
+::wiki-claim{video="6cVe-hdMTCE" video-title="Global Air Force UFO Encounters You've Probably Never Heard of"}
+---
+term: "Explanation"
+caption: "Project Sign's two readings of the Gorman case, and the answers to the second from Gorman and from Gerb. Gorman's sworn statement came before Sign's final conclusion."
+claims:
+  - title: "An atomic-powered object"
+    by: "Project Sign"
+    date: "1948"
+    text: "Gorman's Mustang was measurably more radioactive than other fighters, so it had flown close to an \"atomic powered object\"."
+    cue: 317
+    responses:
+      - by: "Project Sign"
+        stance: challenges
+        text: "After further investigation: the extra radiation came from reduced shielding from radiation at 14,000 ft."
+        cue: 340
+  - title: "A weather balloon or Jupiter"
+    by: "Project Sign"
+    text: "Having first rolled out weather balloons, jets and the like, Sign concluded that Gorman chased a lit weather balloon or Jupiter, which only appeared to perform fantastic feats from his own frame of reference inside the Mustang."
+    cue: 335
+    responses:
+      - by: "George F. Gorman"
+        stance: challenges
+        date: "1948-10-23"
+        text: "Sworn statement: there was \"definitely thought behind its maneuvers\", and it outturned, outsped and outclimbed his aircraft."
+        cue: 222
+      - by: "Gerb"
+        stance: challenges
+        text: "Ranks the dogfight with the Peruvian case as the most compelling of the four, with the most sensory data and the strongest case against a prosaic origin."
+        cue: 789
+---
+::
+
+## The Pori Incident (Finland, 1969)
+
+The 12 April 1969 sighting at Pori remains the only UFO observation acknowledged by the Finnish Air Force. During a Fouga Magister jet training mission at Pori Airport, a [[Finnish Defense Force]] flight controller radioed pilot-in-training Tarmo Tukeva to investigate seven presumed air balloons floating 1,500 to 3,000 m above the airport. :wiki-cue{t=364 video="6cVe-hdMTCE" video-title="Global Air Force UFO Encounters You've Probably Never Heard of" entry-title="The Pori incident"}
+
+On approach, Tukeva reported that they were not balloons but disc-shaped and slightly round, "like balls with no extremities", and pale yellow. As he tried to close on them they accelerated away from him at great speed against a headwind of 180 km/h. A second pilot, [[Jouko Kuronen]], saw them too and confirmed their anomalous shape and speed. Pori Airport recorded no signatures of them (Gerb says "sonar"), but radar 200 km away in [[Vaasa, Finland|Vaasa]] detected the seven objects after they had sped away from Tukeva, giving an estimated speed of 3,218 m/s. :wiki-cue{t=424 video="6cVe-hdMTCE" video-title="Global Air Force UFO Encounters You've Probably Never Heard of" entry-title="Radar at Vaasa"}
+
+Gerb admits it is a short case whose trail ends there, and includes it because Scandinavian nations are rarely heard from on UFO sightings. He renders the pilots' names as "Tua" and "Jau Corona"; they are usually given as Tarmo Tukeva and Jouko Kuronen.
+
+## The La Joya Intercept (Peru, 1980)
+
+Gerb found the Peruvian case in the same [[DOD Joint Chiefs]] briefing that describes the [[1968 Nepal Circular Disc Crash|1968 crash disc in Nepal]], which he came across while covering [[Project Moon Dust]]. Early on 11 April 1980, Lieutenant Óscar Santa María Huertas (Gerb says "Hueras") was ordered to take off from [[La Joya Airbase, Arequipa, Peru|La Joya Airbase]] in his Russian-made Sukhoi Su-22 to intercept a strange silvery object spotted floating near the end of the runway. He described it as being "in restricted airspace without authorization", a grave challenge to national sovereignty, at a time of high concern about espionage in Peru. :wiki-cue{t=477 video="6cVe-hdMTCE" video-title="Global Air Force UFO Encounters You've Probably Never Heard of" entry-title="The scramble"}
+
+- **Attack run.** He climbs to 2,500 m and, taking the object for a balloon, fires a burst of 64 30 mm shells, a "cone-shaped wall of fire" that would normally obliterate anything in its path. He expects to see it torn to shreds; the barrage has no effect. :wiki-cue{t=509 video="6cVe-hdMTCE" video-title="Global Air Force UFO Encounters You've Probably Never Heard of" entry-title="Attack run"}
+- **The chase.** The object shoots skyward. On afterburner, at Mach 1.6, he chases it for 84 km until it stops dead and he must turn sharply to avoid a collision. :wiki-cue{t=542 video="6cVe-hdMTCE" video-title="Global Air Force UFO Encounters You've Probably Never Heard of" entry-title="The chase"}
+- **Second attack.** He closes in and locks on, but the object climbs fast again and leaves him underneath it: "it broke the attack". :wiki-cue{t=563 video="6cVe-hdMTCE" video-title="Global Air Force UFO Encounters You've Probably Never Heard of" entry-title="Second attack"}
+- **The climb.** Trying, as Gorman had, to get above it, he climbs toward the object, which was holding still at 14,000 ft, but it shadows him all the way up to 19,200 ft (Gerb's figures). :wiki-cue{t=584 video="6cVe-hdMTCE" video-title="Global Air Force UFO Encounters You've Probably Never Heard of" entry-title="The climb"}
+- **The close look.** Low on fuel, he approaches within 100 m. The "balloon" is an object about 10 m across, with a shiny, cream-coloured dome, "similar to a light bulb cut in half", on a wide, circular, silver base that looks metallic. It has no wings, jets, exhaust, windows or antennae, and no visible propulsion. Realising he has engaged a UFO, and with his fuel low, he is paralysed with fear and zigzags away to make himself hard to hit. :wiki-cue{t=598 video="6cVe-hdMTCE" video-title="Global Air Force UFO Encounters You've Probably Never Heard of" entry-title="The close look"}
+
+On his return, multiple eyewitnesses and base personnel also saw the object. That led to the official investigation recorded in the DOD document which, per Gerb, corroborates that he fired 30 mm rounds at the object, which suffered no damage and went on to perform remarkable manoeuvres. :wiki-cue{t=659 video="6cVe-hdMTCE" video-title="Global Air Force UFO Encounters You've Probably Never Heard of" entry-title="Corroboration"}
+
+## The Campeche Lights (Mexico, 2004)
+
+The last case is the Mexico UFO incident over the southern state of Campeche, which Gerb first dates to 5 March 2005 and later calls the 2004 sightings; it took place on 5 March 2004. A Mexican Air Force crew on a routine anti-drug-trafficking patrol filmed 11 unidentified lights with infrared equipment for a period of minutes. The lights appeared to fly at about 3,500 m and to surround the aircraft; only three showed up on its radar. Major [[Magdaleno Castanon]] said the military jets chased the lights: "I believe they could feel we were pursuing them." :wiki-cue{t=690 video="6cVe-hdMTCE" video-title="Global Air Force UFO Encounters You've Probably Never Heard of" entry-title="The Campeche lights"}
+
+Before playing the footage Gerb reviews the skeptics' case, introducing Michael Shermer, head of [[Skeptic Magazine]], as someone viewers may know from "getting cooked" in a debate with Graham Hancock on The Joe Rogan Experience. His answer to it shifts between the case itself and his closing assessment:
+
+::wiki-claim{video="6cVe-hdMTCE" video-title="Global Air Force UFO Encounters You've Probably Never Heard of"}
+---
+term: "Explanation"
+caption: "The skeptics' explanation of the Campeche lights, and Gerb's two answers to it: one given with the case, one in his closing assessment."
+claim:
+  title: "Oil-platform flares"
+  by: "Michael Shermer"
+  note: "Head of Skeptic magazine, with other detractors"
+  text: "The lights were burn-off flares on an offshore oil platform in the Gulf of Mexico."
+  cue: 735
+responses:
+  - by: "Gerb"
+    stance: challenges
+    text: "\"I personally choose to believe the military pilots\", though viewers may side with Shermer if they find it plausible."
+    cue: 753
+  - by: "Gerb"
+    stance: unresolved
+    text: "Closing assessment: of the four cases, this has the highest probability of a prosaic explanation, but he is not sure 11 objects, three of them on radar, were just flares. More analysis is needed."
+    cue: 812
+---
+::
+
+Gerb adds that the case is famous in Mexico but gets too little attention in the United States.
+
+## Gerb's Assessment
+
+Gerb ranks the cases by how much sensory data each offers and how strongly it argues against a prosaic origin. :wiki-cue{t=786 video="6cVe-hdMTCE" video-title="Global Air Force UFO Encounters You've Probably Never Heard of" entry-title="Gerb's assessment"} The Gorman dogfight and the Peruvian intercept come first: each has a pilot's detailed account of a sustained engagement, a witness on the ground and an official investigation. The Finnish case is "a bit tricky", but he leans toward a UFO explanation because of the pilot's "ironclad" testimony. The Mexico sightings come last, as the likeliest to be prosaic, though he stops short of accepting the flare explanation. He credits a YouTube channel for the recreation of the Gorman dogfight used in the video, and promises a second part with more cases.
+
+## Key Figures
+
+::wiki-roster
+---
+entries:
+  - name: "George F. Gorman"
+    role: "Second lieutenant, North Dakota National Guard; P-51 pilot"
+    note: "Chased a small ball of light over Fargo for some 27 minutes in 1948, and swore there was \"definitely thought behind its maneuvers\"."
+  - name: "L.D. Jensen"
+    role: "Air traffic controller, Hector Airport"
+    note: "Watched the object pass overhead through binoculars during the Gorman chase, though he could not see its blinking."
+  - name: "Edward J. Ruppelt"
+    role: "Head of Project Grudge and Project Blue Book"
+    note: "Wrote of the Gorman dogfight as one of three 1948 incidents that proved to Air Force intelligence that UFOs were real."
+  - name: "Tarmo Tukeva"
+    role: "Finnish Air Force pilot-in-training"
+    note: "Sent to investigate seven presumed balloons over Pori in 1969; reported pale yellow discs that sped away against the wind."
+  - name: "Jouko Kuronen"
+    role: "Finnish Air Force pilot-in-training"
+    note: "The second pilot at Pori, who confirmed the objects' shape and speed."
+  - name: "Oscar Santa Maria Huertas"
+    role: "Lieutenant, Peruvian Air Force; Su-22 pilot"
+    note: "Fired 64 30 mm shells at a silvery object over La Joya in 1980, chased it 84 km and saw it from 100 m."
+  - name: "Magdaleno Castanon"
+    role: "Major, Mexican Air Force"
+    note: "Said of the Campeche lights in 2004: \"I believe they could feel we were pursuing them.\""
+  - name: "Michael Shermer"
+    role: "Skeptic; head of Skeptic magazine"
+    note: "Suggested the Campeche lights were burn-off flares from an offshore oil platform."
+---
+::
 
 ## Key Claims
-- The Gorman dogfight was cited by Captain Edward J. Ruppelt as one of three classic UFO incidents in 1948 that proved to Air Force intelligence specialists that UFOs were real.
-- George F. Gorman's P-51 Mustang tested measurably more radioactive than other fighters after the encounter, leading initial investigators to conclude the craft had flown close to an atomic-powered object.
-- Project Sign's official conclusion was that Gorman had chased a lit weather balloon or the planet Jupiter, with fantastic maneuvers being a result of his own frame of reference.
-- George F. Gorman stated under sworn legal record that he was convinced there was definite thought behind the object's maneuvers.
-- The April 12, 1969 Pori Airport incident is the only UFO observation officially acknowledged by the Finnish Air Force.
-- During the Pori incident, two Finnish pilots independently observed seven disc-shaped, pale yellow objects with no extremities that accelerated away at great speed against a headwind of 180 km/h.
-- Radar located 200 km away in Vaasa, Finland detected the seven objects from the Pori incident after they rapidly departed the area.
-- Lieutenant General Nathan Twining asserted that flying discs were real and not visionary or fictitious, which led to the creation of Project Sign.
-- Finnish pilot Tua observed seven disc-shaped, pale yellow objects that accelerated against a 180 km/h headwind and were tracked by radar 200 km away at an estimated speed of 3,218 m/s.
-- Lieutenant Oscar Santa Maria Hueras fired 64 30mm shells at a UFO near La Joya Airbase with no damaging effect, and the object performed incredible aerial maneuvers during an 84 km chase.
-- The 1980 Peru UFO incident was officially investigated and Hueras's account was corroborated in a DOD Joint Chiefs briefing document.
-- The UFO observed by Hueras measured approximately 10 meters in diameter, had a shiny cream-colored dome, a silver circular metallic base, and lacked all conventional aircraft components.
-- The Mexican Air Force filmed 11 UAP using infrared equipment in 2004, with only three appearing on radar, and the pilot reported the objects appeared to react to being pursued.
-- Skeptic Michael Shermer suggested the 2004 Mexico UFO lights were burnoff flares from an offshore oil platform in the Gulf of Mexico.
-- Multiple eyewitnesses and base personnel at La Joya Airbase also observed the UFO upon Hueras's return, further corroborating the encounter.
-- The Finnish UFO case is considered likely a genuine UAP based on the pilot's strong testimony.
-- The 2004 Mexico sightings involved 11 objects, three of which were detected on radar, and may have the highest probability of a prosaic explanation among the cases discussed.
-- The possibility that the Mexico objects were flares has not been conclusively confirmed and requires further analysis.
-- The Gorman dogfight is described as a fascinating UAP case.
-- The 2004 Mexico UFO case is well-known in Mexico but does not receive sufficient attention in the United States.
 
----
-*Source: [YouTube](https://www.youtube.com/watch?v=6cVe-hdMTCE)*
+- The 1948 Gorman dogfight was cited by Captain Edward J. Ruppelt as one of three classic incidents that year that "proved to Air Force intelligence specialists that UFOs were real."
+- Gorman swore on 23 October 1948 that the object showed "definitely thought behind its maneuvers" and could outturn, outrun and outclimb his P-51 Mustang; Hector's controller, L.D. Jensen, saw it pass overhead through binoculars.
+- Project Sign found Gorman's Mustang measurably more radioactive than other fighters and first concluded it had flown close to an "atomic powered object", before attributing the radiation to reduced shielding at altitude and the object to a lit weather balloon or Jupiter.
+- The 12 April 1969 Pori sighting is the only UFO observation acknowledged by the Finnish Air Force; two pilots saw seven pale yellow discs accelerate away against a 180 km/h headwind, and radar at Vaasa, 200 km away, reportedly detected them at about 3,218 m/s.
+- On 11 April 1980, Peruvian Lieutenant Óscar Santa María Huertas fired 64 30 mm shells at a silvery object over La Joya without effect, chased it for 84 km, and at 100 m saw a 10 m craft with a cream dome, a silver metallic base and no visible propulsion; a DOD Joint Chiefs briefing corroborates his account.
+- On 5 March 2004 a Mexican Air Force crew filmed 11 lights on infrared over Campeche, three of which appeared on radar; Major Magdaleno Castañón believed the objects could tell they were being pursued.
+- Michael Shermer's explanation of the Campeche lights as oil-platform flares has not, in Gerb's view, been shown to be right, although the case is the likeliest of the four to have a prosaic explanation.
+- Gerb rates the Gorman and Peruvian cases the most compelling of the four, and leans toward a UFO explanation of the Finnish case on the strength of the pilot's testimony.
+
+## Sources
+
+- [YouTube](https://www.youtube.com/watch?v=6cVe-hdMTCE) — UAP Gerb
+
+## Related Pages
+
+- **People**: [[Gerb]], [[George F. Gorman]], [[L.D. Jensen]], [[Edward J. Ruppelt]], [[Nathan Twining]], [[Tarmo Tukeva]], [[Jouko Kuronen]], [[Oscar Santa Maria Huertas]], [[Magdaleno Castanon]], [[Michael Shermer]], [[David Fravor]]
+- **Organizations**: [[Finnish Air Force]], [[Finnish Defense Force]], [[Peruvian Air Force]], [[Mexican Air Force]], [[DOD Joint Chiefs]], [[Army and Navy Research and Development Board]], [[Atomic Energy Commission]], [[Skeptic Magazine]]
+- **Locations**: [[Fargo, North Dakota, USA]], [[Hector Airport]], [[Pori Airport]], [[Vaasa, Finland]], [[La Joya Airbase, Arequipa, Peru]], [[Campeche, Mexico]], [[San Diego, California, USA]]
+- **Operations**: [[Project Sign]], [[Project Grudge]], [[Project Blue Book]], [[Project Moon Dust]]
+- **Events**: [[Gorman Dogfight]], [[Pori Airport UFO Incident]], [[La Joya Airbase UFO Intercept]], [[Mexico UFO Incident]], [[1968 Nepal Circular Disc Crash]], [[2004 Nimitz UAP Encounter (Tic Tac)]]

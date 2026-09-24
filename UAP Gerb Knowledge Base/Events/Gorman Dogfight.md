@@ -5,19 +5,34 @@ tags:
   - event
 ---
 
-The Gorman Dogfight was a 27-minute aerial pursuit of an unidentified luminous object over [[Fargo, North Dakota, USA|Fargo, North Dakota]] on October 1, 1948, in which Second Lieutenant [[George F. Gorman]] of the [[North Dakota National Guard]] chased a ball of light in his P-51 Mustang. The object outmaneuvered and outpaced Gorman's aircraft, demonstrating flight characteristics far exceeding contemporary aviation capabilities. Captain [[Edward J. Ruppelt]], director of [[Project Sign]], [[Project Grudge]], and [[Project Blue Book]], later cited the Gorman Dogfight as one of three classic UFO incidents in 1948 that "proved to Air Force intelligence specialists that UFOs were real."
+The Gorman Dogfight was a roughly 27-minute pursuit of an unidentified light over [[Fargo, North Dakota, USA|Fargo, North Dakota]] on the night of October 1, 1948, in which Second Lieutenant [[George F. Gorman]] of the North Dakota National Guard chased a small ball of light in his P-51 Mustang. Captain [[Edward J. Ruppelt]], who later headed [[Project Grudge]] and [[Project Blue Book]], wrote of it as one of three classic 1948 incidents that "proved to Air Force intelligence specialists that UFOs were real." [[Project Sign]] investigated and concluded that Gorman had chased a lit weather balloon or the planet Jupiter.
 
-## Encounter Details
+## The Encounter
 
-Around 9:00 p.m. on October 1, 1948, under clear skies, Gorman was participating in a National Guard cross-country flight when he observed a small blinking light to the west with no visible wings. After confirming with air traffic controller [[L.D. Jensen]] at [[Hector Airport]] that no other aircraft were in the area, Gorman accelerated his Mustang to 350-400 mph to pursue the object.
+As [[Gerb]] recounts it in [[Video - Global Air Force UFO Encounters You've Probably Never Heard of|Global Air Force UFO Encounters You've Probably Never Heard of]]:
 
-During the encounter, the object flew directly over Gorman's aircraft at a distance of only 500 feet, allowing him a clear view: a simple ball of light approximately 6 to 8 inches in diameter whose luminosity increased as it accelerated. When the object approached head-on, it suddenly made a steep vertical climb. Gorman pursued, climbing 9,000 feet in elevation, but his Mustang stalled with the ball still 2,000 feet overhead. The object repeatedly demonstrated an ability to outturn, outspeed, and out-climb the P-51 Mustang before disappearing from sight. Gorman abandoned pursuit at 9:27 p.m. and returned to base.
+- **About 9:00 p.m.** Under clear skies, Gorman, a seasoned World War II pilot, is on a National Guard cross-country flight. The only other traffic he sees is a Piper Cub 500 feet below him.
+- **9:07 p.m.** He sees a small blinking light to the west, with no wings he can make out, and calls air traffic control at [[Hector Airport]], which tells him there is no other traffic in the region. He opens the Mustang up to 350–400 mph to identify it.
+- **The chase.** The light is too fast to catch in a straight line, so he tries to corner it with tight turns. Coming out of a right turn at 5,000 feet, the object passes only 500 feet over his aircraft. He gets a clear look: a simple ball of light about 6 to 8 inches across, which stops blinking and brightens as it speeds up.
+- **Head-on.** He briefly loses sight of it, then sees it coming at him head-on before it climbs steeply. The Mustang climbs 9,000 feet after it and stalls with the ball still 2,000 feet above.
+- **Final attempt.** Gorman waits at 14,000 feet until the ball drops to 11,000, then dives at it at full power. It climbs vertically again until it is out of sight.
+- **9:27 p.m.** Gorman abandons the pursuit and heads back to Hector.
 
-## Project Sign Investigation
+The controller at Hector, [[L.D. Jensen]], watched the object pass overhead through binoculars, though he could not make out the blinking light Gorman described.
 
-[[Project Sign]] conducted a thorough investigation,interviewing Gorman and other witnesses, including Jensen who observed the object independently from the ground through binoculars. Gorman's P-51 was tested for radiation and found to be measurably more radioactive than other fighters, initially leading investigators to conclude the craft had flown close to an "atomic powered object." However, this was later attributed to reduced atmospheric shielding at 14,000 feet altitude.
+## Gorman's Sworn Statement
 
-Project Sign ultimately concluded Gorman had chased either a lit weather balloon or the planet Jupiter, with the object's fantastic maneuvers being an illusion of his frame of reference — a conclusion that contradicted the sworn testimony of both Gorman and Jensen.
+On October 23, 1948, Gorman swore his account into the record. He said he was convinced "there was definitely thought behind its maneuvers", that the object obeyed the laws of inertia (its acceleration was "rapid but not immediate", and it followed a natural curve in turns), that he blacked out briefly trying to turn with it, and that it could outturn, outspeed and outclimb his aircraft, holding a rate of climb far beyond the Mustang's.
+
+## The Project Sign Investigation
+
+[[Project Sign]], created after Lieutenant General [[Nathan Twining]] asserted that flying discs were "real and not visionary or fictitious", was then responsible for UFO investigations; its reports went to the [[Army and Navy Research and Development Board]], the USAF Scientific Advisory Board and the [[Atomic Energy Commission]]. Sign interviewed Gorman and other witnesses and checked his Mustang for radiation. The aircraft was measurably more radioactive than other fighters, and investigators first concluded it had flown close to an "atomic powered object".
+
+After further investigation, Sign attributed the radiation to reduced shielding from radiation at 14,000 feet, and concluded that Gorman had chased either a lit weather balloon or Jupiter, which only appeared to perform remarkable feats from his own frame of reference inside the moving Mustang.
+
+## Gerb's Assessment
+
+Gerb ranks the Gorman dogfight, with the [[La Joya Airbase UFO Intercept]], as the most compelling of the four cases in his video, the two with the most sensory data and the strongest case for a UFO rather than a prosaic origin.
 
 ## Sources
 

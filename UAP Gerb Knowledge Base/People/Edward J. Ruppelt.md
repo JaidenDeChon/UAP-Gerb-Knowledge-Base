@@ -1,12 +1,12 @@
 ---
 name: "Edward J. Ruppelt"
-role: "Captain, US Air Force; Director of Project Sign, Project Grudge, and Project Blue Book"
+role: "Captain, US Air Force; head of Project Grudge and Project Blue Book"
 wikipedia: "Edward J. Ruppelt"
 tags:
   - person
 ---
 
-Captain Edward J. Ruppelt served as director of the US Air Force's official UFO investigation programs: [[Project Sign]], [[Project Grudge]], and [[Project Blue Book]]. Ruppelt is notable for identifying and categorizing significant UFO cases during the late 1940s and early 1950s, including the [[Gorman Dogfight]], which he wrote about as one of three classic UFO incidents in 1948 that "proved to Air Force intelligence specialists that UFOs were real." Critically, Ruppelt also concluded that UFOs had an "interplanetary explanation" and disclosed that programs parallel to the official investigations were conducting more complete classified investigations into the phenomenon.
+Captain Edward J. Ruppelt headed the US Air Force's official UFO investigation from 1951 to 1953, first as [[Project Grudge]] and then as its successor, [[Project Blue Book]], inheriting the files of the earlier [[Project Sign]]. (Gerb, in [[Video - Global Air Force UFO Encounters You've Probably Never Heard of|Global Air Force UFO Encounters]], calls him the Sign, Grudge and Blue Book director.) Ruppelt is notable for identifying and categorizing significant UFO cases during the late 1940s and early 1950s, including the [[Gorman Dogfight]], which he wrote about as one of three classic UFO incidents in 1948 that "proved to Air Force intelligence specialists that UFOs were real." Critically, Ruppelt also concluded that UFOs had an "interplanetary explanation" and disclosed that programs parallel to the official investigations were conducting more complete classified investigations into the phenomenon.
 
 ## Role in UFO Investigation Programs
 

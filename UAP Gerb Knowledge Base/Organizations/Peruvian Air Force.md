@@ -13,7 +13,7 @@ The Peruvian Air Force (Fuerza Aérea del Perú, or FAP) is the aerial warfare b
 
 ## La Joya Airbase UFO Intercept
 
-On April 11, 1980, the Peruvian Air Force ordered Lieutenant [[Oscar Santa Maria Hueras]] to take off in his Sukhoi-22 fighter from [[La Joya Airbase, Arequipa, Peru|La Joya Airbase]] to intercept a silvery object in restricted airspace near the end of the runway. The incident led to an official DOD investigation, with Hueras's account corroborated in a [[DOD Joint Chiefs]] briefing document associated with [[Project Moon Dust]].
+On April 11, 1980, the Peruvian Air Force ordered Lieutenant [[Oscar Santa Maria Huertas]] to take off in his Sukhoi Su-22 fighter from [[La Joya Airbase, Arequipa, Peru|La Joya Airbase]] to intercept a silvery object in restricted airspace near the end of the runway. The incident led to an official DOD investigation, with Santa María's account corroborated in a [[DOD Joint Chiefs]] briefing document associated with [[Project Moon Dust]].
 
 ## Sources
 
