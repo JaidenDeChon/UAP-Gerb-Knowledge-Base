@@ -2,8 +2,8 @@
 title: "Incredible UFO Footage - METAPOD"
 video_id: i6fitvV-aO0
 url: https://www.youtube.com/watch?v=i6fitvV-aO0
-date: NA
-duration_seconds: 0
+date: 2024-02-13
+duration_seconds: 1135
 channel: UAP Gerb
 tags:
   - transcript

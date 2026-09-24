@@ -9,7 +9,7 @@ The Blue Angels are the United States Navy's flight demonstration squadron, esta
 
 ## Alleged 2022 UAP Cockpit Leak
 
-In 2022, several frames allegedly leaked from a Blue Angels cockpit recording purportedly showing a UAP dropping from clouds in a manner visually similar to the Metapod craft. The leaked material, if authentic, would represent one of the most significant pieces of military UAP footage in recent years due to its clarity and the credibility of the alleged source.
+In 2022, several frames allegedly leaked from a Blue Angels cockpit recording purportedly showing a UAP dropping from clouds in a manner visually similar to the [[Metapod]] craft. The leaked material, if authentic, would represent one of the most significant pieces of military UAP footage in recent years due to its clarity and the credibility of the alleged source.
 
 ### Leaked Frame Analysis
 
@@ -22,17 +22,11 @@ The alleged leaked frames show:
 
 ### Second-Generation Recording
 
-The leaked material is explicitly a second-generation recording, evidenced by a visible mouse cursor on screen. This suggests someone photographed or recorded a monitor displaying the original cockpit footage, which is consistent with how leaked classified or restricted material often surfaces. The second-generation nature raises authentication challenges but is not inherently disqualifying, as direct file transfers of classified military footage would be far more difficult and traceable.
+The leaked material is explicitly a second-generation recording, evidenced by a visible mouse cursor on screen. This suggests someone photographed or recorded a monitor displaying the original cockpit footage, which is consistent with how leaked classified or restricted material often surfaces. Gerb compares it in this respect to the [[Flyby Footage]], also a second-generation recording.
 
 ### Authentication Status
 
-UAP Gerp acknowledges ongoing efforts to authenticate the leaked Blue Angels frames, stating "believe me I'm still trying to get to the bottom of it." The similarity to the Metapod craft filmed in Spain in 2015 provides circumstantial corroboration, suggesting either an authentic recording of the same or similar craft type, or a sophisticated fabrication based on the Metapod footage.
-
-If authenticated, the Blue Angels leak would establish that:
-1. The Metapod craft type is recognized and documented by U.S. military aviation assets
-2. These craft are observed in U.S. airspace, not only in Spain
-3. The phenomenon warrants cockpit camera recording during military flight operations
-4. Navy pilots and demonstration teams encounter such objects
+Gerb, who calls the frames possibly the most crucial corroboration of the Metapod shape, acknowledges ongoing efforts to authenticate the leaked Blue Angels frames, stating "believe me I'm still trying to get to the bottom of it." If the leak is genuine, he argues, the Metapod shape is a legitimate form of UAP.
 
 ## Sources
 

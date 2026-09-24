@@ -35,6 +35,7 @@ tags:
 - [[Betty and Barney Hill Abduction Incident]]
 - [[Bob Fish Email to John Podesta]]
 - [[Boscombe Down Incident]]
+- [[Bruja de Monterrey]]
 - [[Caribbean Island Cruise Missile Recovery USO Encounter]]
 - [[Condon Report Publication]]
 - [[DSP Fast Walker Detection – Indian Ocean]]
