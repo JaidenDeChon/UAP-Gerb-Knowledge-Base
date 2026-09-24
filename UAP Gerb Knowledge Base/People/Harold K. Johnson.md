@@ -13,4 +13,4 @@ UAP Gerb lists Johnson among the Joint Chiefs who met [[Lyndon B. Johnson]] at t
 
 ## Sources
 
-- [[Video - The 1965 Kecksburg, Pennsylvania UFO Crash]]
+- [[Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/summary|The 1965 Kecksburg, Pennsylvania UFO Crash]]

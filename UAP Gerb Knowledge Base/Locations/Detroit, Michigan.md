@@ -18,4 +18,4 @@ Detroit appears in the UAP Gerb knowledge base specifically in connection with t
 
 ## Sources
 
-- [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
+- [[Videos/Alien Reproduction Vehicle - TR-3B and the Flying Triangles/summary|Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]

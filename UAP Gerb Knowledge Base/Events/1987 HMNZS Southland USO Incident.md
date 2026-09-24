@@ -17,4 +17,4 @@ Gerb, who says the case was new to him, presents it alongside the Aguadilla foot
 
 ## Sources
 
-- [[Video - The Physics of UFOs– Dr. Kevin Knuth]]
+- [[Videos/The Physics of UFOs– Dr. Kevin Knuth/summary|The Physics of UFOs– Dr. Kevin Knuth]]

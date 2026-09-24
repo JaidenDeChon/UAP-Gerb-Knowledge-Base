@@ -13,4 +13,4 @@ UAP Gerb's *The Hidden Wing* calls AFSWC one of the most interesting threads of 
 
 ## Sources
 
-- [[Video - The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
+- [[Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/summary|The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]

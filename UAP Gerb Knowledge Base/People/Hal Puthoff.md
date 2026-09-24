@@ -21,6 +21,6 @@ Puthoff, working alongside [[Jacques Vallee]], [[Kit Green]], [[Eric Davis]], an
 
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
-- [[Video - UFOs in the Private Sector - Lockheed Martin]]
-- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/UFOs in the Private Sector - Lockheed Martin/summary|UFOs in the Private Sector - Lockheed Martin]]
+- [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

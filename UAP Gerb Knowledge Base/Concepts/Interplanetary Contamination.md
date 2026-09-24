@@ -14,4 +14,4 @@ As a real case of the risk he cites a 2019 lunar crash that left tardigrades on 
 
 ## Sources
 
-- [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
+- [[Videos/The Alien and UFO Obscure Oddities Iceberg (Level 2)/summary|The Alien and UFO Obscure Oddities Iceberg (Level 2)]]

@@ -28,4 +28,4 @@ The distinction between Corso's original manuscript and Burns' co-written versio
 
 ## Sources
 
-- [[Video - Philip J. Corso - US Army UFO Technology Research & Development]]
+- [[Videos/Philip J. Corso - US Army UFO Technology Research & Development/summary|Philip J. Corso - US Army UFO Technology Research & Development]]

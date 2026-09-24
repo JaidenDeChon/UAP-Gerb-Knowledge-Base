@@ -27,4 +27,4 @@ Sparks' work exemplifies the challenge of interpreting satellite detection data 
 
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]

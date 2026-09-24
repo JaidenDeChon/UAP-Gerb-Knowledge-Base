@@ -51,7 +51,7 @@ UAP Gerb sets Weygandt's account beside the [[1974 Coyame, Mexico UFO Crash Retr
 
 ## Sources
 
-- [[Video - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt]]
-- [[Video - The Marines Who Got too Close to UFOs]]
-- [[Video - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE]]
-- [[Video - The 1974 Coyame, Mexico UFO Crash]]
+- [[Videos/1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt/summary|1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt]]
+- [[Videos/The Marines Who Got too Close to UFOs/summary|The Marines Who Got too Close to UFOs]]
+- [[Videos/1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE/summary|1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE]]
+- [[Videos/The 1974 Coyame, Mexico UFO Crash/summary|The 1974 Coyame, Mexico UFO Crash]]

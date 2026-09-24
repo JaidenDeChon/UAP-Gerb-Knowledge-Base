@@ -27,4 +27,4 @@ Four evidentiary points separate the El Indio 1950 incident from the 1955 crash 
 
 ## Sources
 
-- [[Video - The 1950s Del Rio, Texas UFO Crashes]]
+- [[Videos/The 1950s Del Rio, Texas UFO Crashes/summary|The 1950s Del Rio, Texas UFO Crashes]]

@@ -26,4 +26,4 @@ The pattern of NORAD using cost barriers to prevent disclosure — documented by
 
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]

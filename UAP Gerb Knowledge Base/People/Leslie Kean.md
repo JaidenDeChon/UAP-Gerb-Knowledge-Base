@@ -57,6 +57,6 @@ Kean's approach — grounded in evidence, official testimony, and collaboration 
 
 ## Sources
 
-- [[Video - The 1965 Kecksburg, Pennsylvania UFO Crash]]
+- [[Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/summary|The 1965 Kecksburg, Pennsylvania UFO Crash]]
 - Leslie Kean, *UFOs: Generals, Pilots, and Government Officials Go on the Record* (2010)
 - Cooper, Kean, Blumenthal, *"Glowing Auras and 'Black Money': The Pentagon's Mysterious U.F.O. Program,"* *The New York Times*, December 16, 2017

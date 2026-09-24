@@ -15,4 +15,4 @@ Zimmerman's participation in the research group that identified specific defense
 
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]

@@ -67,4 +67,4 @@ However, the speed and scale of the military response at Kecksburg, combined wit
 ## Sources
 
 - Leonard Stringfield, *Crash Retrievals of the Third Kind* and *UFO Crash Retrieval: The Inner Sanctum* series
-- [[Video - The 1965 Kecksburg, Pennsylvania UFO Crash]]
+- [[Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/summary|The 1965 Kecksburg, Pennsylvania UFO Crash]]

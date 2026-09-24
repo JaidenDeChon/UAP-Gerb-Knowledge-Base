@@ -29,5 +29,5 @@ The facility's remoteness, classification level, and dual CIA/NRO command struct
 
 ## Sources
 
-- [[Video - US Navy UFO Crash Retrieval & Reverse Engineering Programs]]
-- [[Video - National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers]]
+- [[Videos/US Navy UFO Crash Retrieval & Reverse Engineering Programs/summary|US Navy UFO Crash Retrieval & Reverse Engineering Programs]]
+- [[Videos/National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers/summary|National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers]]

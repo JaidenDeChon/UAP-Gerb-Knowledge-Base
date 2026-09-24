@@ -17,4 +17,4 @@ Among the documents that the anonymous source [[Mr. X]] gave Italian researcher 
 
 ## Sources
 
-- [[Video - The 1933 Magenta, Italy UFO Crash]]
+- [[Videos/The 1933 Magenta, Italy UFO Crash/summary|The 1933 Magenta, Italy UFO Crash]]

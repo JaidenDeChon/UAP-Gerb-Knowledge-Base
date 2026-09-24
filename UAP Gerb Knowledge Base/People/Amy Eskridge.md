@@ -17,4 +17,4 @@ UAP Gerb calls Eskridge's case "the best example" of the strange deaths surround
 
 ## Sources
 
-- [[Video - Alien Reproduction Vehicle - the Testimony of Mark McCandlish]]
+- [[Videos/Alien Reproduction Vehicle - the Testimony of Mark McCandlish/summary|Alien Reproduction Vehicle - the Testimony of Mark McCandlish]]

@@ -78,6 +78,6 @@ Herrera's testimony emerged through [[Steven Greer]]'s disclosure efforts. Greer
 
 ## Sources
 
-- [[Video - The Marines Who Got too Close to UFOs]]
-- [[Video - Michael Herrera - Insights into UAP Encounter and Black Program Insiders]]
-- [[Video - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)]]
+- [[Videos/The Marines Who Got too Close to UFOs/summary|The Marines Who Got too Close to UFOs]]
+- [[Videos/Michael Herrera - Insights into UAP Encounter and Black Program Insiders/summary|Michael Herrera - Insights into UAP Encounter and Black Program Insiders]]
+- [[Videos/Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)/summary|Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)]]

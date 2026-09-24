@@ -13,4 +13,4 @@ In *The Hidden Wing*, UAP Gerb stresses that last point: AQR and AQL coordinate 
 
 ## Sources
 
-- [[Video - The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
+- [[Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/summary|The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]

@@ -41,5 +41,5 @@ Goldwater described his direct approach to General [[Curtis LeMay]] as a phone c
 
 ## Sources
 
-- [[Video - MOON DUST - The Pentagon's Secret UFO Programs]]
-- [[Video - UFO Whistleblowers Vol.2]]
+- [[Videos/MOON DUST - The Pentagon's Secret UFO Programs/summary|MOON DUST - The Pentagon's Secret UFO Programs]]
+- [[Videos/UFO Whistleblowers Vol.2/summary|UFO Whistleblowers Vol.2]]

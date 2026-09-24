@@ -23,4 +23,4 @@ Mansman's written confirmation transformed the Vandenberg case from a lone whist
 
 ## Sources
 
-- [[Video - UFOs and Nuclear Weapons - A Fascinating Connection]]
+- [[Videos/UFOs and Nuclear Weapons - A Fascinating Connection/summary|UFOs and Nuclear Weapons - A Fascinating Connection]]

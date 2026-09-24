@@ -9,7 +9,7 @@ The Gorman Dogfight was a roughly 27-minute pursuit of an unidentified light ove
 
 ## The Encounter
 
-As Gerb recounts it in [[Video - Global Air Force UFO Encounters You've Probably Never Heard of|Global Air Force UFO Encounters You've Probably Never Heard of]]:
+As Gerb recounts it in [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters You've Probably Never Heard of]]:
 
 - **About 9:00 p.m.** Under clear skies, Gorman, a seasoned World War II pilot, is on a National Guard cross-country flight. The only other traffic he sees is a Piper Cub 500 feet below him.
 - **9:07 p.m.** He sees a small blinking light to the west, with no wings he can make out, and calls air traffic control at [[Hector Airport]], which tells him there is no other traffic in the region. He opens the Mustang up to 350–400 mph to identify it.
@@ -36,4 +36,4 @@ Gerb ranks the Gorman dogfight, with the [[La Joya Airbase UFO Intercept]], as t
 
 ## Sources
 
-- [[Video - Global Air Force UFO Encounters You've Probably Never Heard of]]
+- [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters You've Probably Never Heard of]]

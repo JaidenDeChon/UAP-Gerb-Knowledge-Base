@@ -11,4 +11,4 @@ In the context of the [[1953 Kingman, Arizona Crash Retrieval]], Schmidt receive
 
 ## Sources
 
-- [[Video - The 1953 Kingman, Arizona UFO Crash]]
+- [[Videos/The 1953 Kingman, Arizona UFO Crash/summary|The 1953 Kingman, Arizona UFO Crash]]

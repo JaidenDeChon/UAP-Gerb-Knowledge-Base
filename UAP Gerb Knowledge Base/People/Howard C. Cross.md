@@ -15,4 +15,4 @@ The memo is significant because it explicitly frames Battelle's UFO investigatio
 
 ## Sources
 
-- [[Video - UFOs in the Private Sector - Battelle Memorial Institute]]
+- [[Videos/UFOs in the Private Sector - Battelle Memorial Institute/summary|UFOs in the Private Sector - Battelle Memorial Institute]]

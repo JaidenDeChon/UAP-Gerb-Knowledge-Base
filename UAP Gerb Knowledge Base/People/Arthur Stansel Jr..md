@@ -43,6 +43,6 @@ The significance of Stansel's posting under Dr. [[Eric Henry Wang]] at the Offic
 
 ## Sources
 
-- [[Video - The 1953 Kingman, Arizona UFO Crash]]
-- [[Video - Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2]]
-- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
+- [[Videos/The 1953 Kingman, Arizona UFO Crash/summary|The 1953 Kingman, Arizona UFO Crash]]
+- [[Videos/Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2/summary|Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2]]
+- [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

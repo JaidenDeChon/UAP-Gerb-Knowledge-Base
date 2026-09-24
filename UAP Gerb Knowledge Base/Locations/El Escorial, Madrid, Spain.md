@@ -14,4 +14,4 @@ According to the same email, the witness's companion said it was not the first t
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - METAPOD]]
+- [[Videos/Incredible UFO Footage - METAPOD/summary|Incredible UFO Footage - METAPOD]]

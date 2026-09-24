@@ -13,7 +13,7 @@ UAP Gerb returns to the AT&T and Western Electric chain in several investigation
 
 ## Sources
 
-- [[Video - Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
-- [[Video - The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]
-- [[Video - Philip J. Corso - US Army UFO Technology Research & Development]]
-- [[Video - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs]]
+- [[Videos/Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/summary|Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
+- [[Videos/The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs/summary|The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]
+- [[Videos/Philip J. Corso - US Army UFO Technology Research & Development/summary|Philip J. Corso - US Army UFO Technology Research & Development]]
+- [[Videos/Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs/summary|Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs]]

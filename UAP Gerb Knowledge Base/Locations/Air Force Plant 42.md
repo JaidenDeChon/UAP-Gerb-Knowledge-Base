@@ -17,5 +17,5 @@ The location of the ARV exhibit at AFP 42 is consistent with McCandlish's broade
 
 ## Sources
 
-- [[Video - Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2]]
-- [[Video - Alien Reproduction Vehicle - the Testimony of Mark McCandlish]]
+- [[Videos/Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2/summary|Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2]]
+- [[Videos/Alien Reproduction Vehicle - the Testimony of Mark McCandlish/summary|Alien Reproduction Vehicle - the Testimony of Mark McCandlish]]

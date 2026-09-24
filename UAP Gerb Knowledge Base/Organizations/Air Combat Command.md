@@ -21,4 +21,4 @@ The sighting by [[Dylan Borland]] at Langley AFB around 2012 — a large equilat
 
 ## Sources
 
-- [[Video - The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
+- [[Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/summary|The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]

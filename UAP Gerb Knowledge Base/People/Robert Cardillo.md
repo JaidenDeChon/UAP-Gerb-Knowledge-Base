@@ -53,5 +53,5 @@ If Jones's Peraton theory is accurate, Cardillo's career arc from blocking a gov
 
 ## Sources
 
-- [[Video - Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
+- [[Videos/Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/summary|Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
 - Rob Jones, "Sub Rosa" (analysis of Veritas Capital/Peraton connection)

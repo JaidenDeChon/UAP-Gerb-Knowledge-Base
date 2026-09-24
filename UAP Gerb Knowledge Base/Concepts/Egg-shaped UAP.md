@@ -38,6 +38,6 @@ Across cases, egg-shaped craft share recurring physical properties:
 
 ## Sources
 
-- [[Video - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt]]
-- [[Video - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction]]
-- [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
+- [[Videos/1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt/summary|1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt]]
+- [[Videos/US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction/summary|US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction]]
+- [[Videos/The Alien and UFO Obscure Oddities Iceberg (Level 1)/summary|The Alien and UFO Obscure Oddities Iceberg (Level 1)]]

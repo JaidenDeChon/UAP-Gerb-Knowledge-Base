@@ -16,8 +16,8 @@ The [[MITRE Corporation]] maintains its Virginia headquarters and its National S
 
 ## Sources
 
-- [[Video - The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
-- [[Video - The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]
+- [[Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/summary|The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
+- [[Videos/The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs/summary|The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]
 
 ## Related Pages
 

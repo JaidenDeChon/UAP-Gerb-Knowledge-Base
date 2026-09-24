@@ -14,4 +14,4 @@ The witness says five of his original twelve platoon mates were later killed in 
 
 ## Sources
 
-- [[Video - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction]]
+- [[Videos/US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction/summary|US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction]]

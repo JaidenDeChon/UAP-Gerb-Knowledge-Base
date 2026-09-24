@@ -21,4 +21,4 @@ The Hoia Baciu Forest is treated in UAP Gerb's discussion of Level 1 of the UFO 
 
 ## Sources
 
-- [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
+- [[Videos/The Alien and UFO Obscure Oddities Iceberg (Level 1)/summary|The Alien and UFO Obscure Oddities Iceberg (Level 1)]]

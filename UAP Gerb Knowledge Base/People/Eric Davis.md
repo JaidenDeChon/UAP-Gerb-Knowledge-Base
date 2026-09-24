@@ -58,8 +58,8 @@ Davis, alongside [[Jacques Vallee]], [[Hal Puthoff]], [[Kit Green]], and Kristen
 
 ## Sources
 
-- [[Video - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs]]
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
-- [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
-- [[Video - The 1950s Del Rio, Texas UFO Crashes]]
-- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
+- [[Videos/The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs/summary|The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/Alien Reproduction Vehicle - TR-3B and the Flying Triangles/summary|Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
+- [[Videos/The 1950s Del Rio, Texas UFO Crashes/summary|The 1950s Del Rio, Texas UFO Crashes]]
+- [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

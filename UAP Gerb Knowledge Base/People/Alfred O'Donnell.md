@@ -21,4 +21,4 @@ UAP Gerb rejects the Jacobsen version and treats the Knapp account as significan
 
 ## Sources
 
-- [[Video - Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
+- [[Videos/Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/summary|Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]

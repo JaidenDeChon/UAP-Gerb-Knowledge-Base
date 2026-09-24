@@ -22,5 +22,5 @@ The object that crashed in Kecksburg was frequently described by witnesses as be
 
 ## Sources
 
-- [[Video - The 1933 Magenta, Italy UFO Crash]]
-- [[Video - The 1965 Kecksburg, Pennsylvania UFO Crash]]
+- [[Videos/The 1933 Magenta, Italy UFO Crash/summary|The 1933 Magenta, Italy UFO Crash]]
+- [[Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/summary|The 1965 Kecksburg, Pennsylvania UFO Crash]]

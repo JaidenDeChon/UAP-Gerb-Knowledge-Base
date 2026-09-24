@@ -44,4 +44,4 @@ UAP Gerb suggests the building RB guarded may be the "[[Blue Room]]" at Wright-P
 
 ## Sources
 
-- [[Video - UFO Whistleblowers Vol.2]]
+- [[Videos/UFO Whistleblowers Vol.2/summary|UFO Whistleblowers Vol.2]]

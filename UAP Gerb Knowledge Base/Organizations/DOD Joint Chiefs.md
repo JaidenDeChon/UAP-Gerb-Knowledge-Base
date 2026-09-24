@@ -9,4 +9,4 @@ The DOD Joint Chiefs of Staff produced a briefing document that covered the Apri
 
 ## Sources
 
-- [[Video - Global Air Force UFO Encounters You've Probably Never Heard of]]
+- [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters You've Probably Never Heard of]]

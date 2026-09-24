@@ -80,6 +80,6 @@ The memo's entry into the U.S. Congressional Record in 2022 lent institutional w
 
 ## Sources
 
-- [[Video - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs]]
-- [[Video - The 1950s Del Rio, Texas UFO Crashes]]
-- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
+- [[Videos/The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs/summary|The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs]]
+- [[Videos/The 1950s Del Rio, Texas UFO Crashes/summary|The 1950s Del Rio, Texas UFO Crashes]]
+- [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

@@ -76,10 +76,10 @@ Representative [[Eric Burlison]], working with [[David Grusch]], sent a detailed
 
 ## Sources
 
-- [[Video - Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2]]
-- [[Video - UFO Legacy Programs - Science Applications International Corporation (SAIC)]]
-- [[Video - The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]
-- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
+- [[Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/summary|Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2]]
+- [[Videos/UFO Legacy Programs - Science Applications International Corporation (SAIC)/summary|UFO Legacy Programs - Science Applications International Corporation (SAIC)]]
+- [[Videos/The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs/summary|The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]
+- [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
 
 ## Related Pages
 

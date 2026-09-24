@@ -21,4 +21,4 @@ The evidentiary weight of this account rests on its chronological independence: 
 
 ## Sources
 
-- [[Video - UFOs in the Private Sector - Battelle Memorial Institute]]
+- [[Videos/UFOs in the Private Sector - Battelle Memorial Institute/summary|UFOs in the Private Sector - Battelle Memorial Institute]]

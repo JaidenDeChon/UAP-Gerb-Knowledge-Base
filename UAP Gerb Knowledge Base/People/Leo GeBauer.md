@@ -63,7 +63,7 @@ It was not until the 1980s, with William Steinman's investigative work and the l
 
 ## Sources
 
-- [[Video - The 1948 Aztec, New Mexico UFO Crash Retrieval]]
+- [[Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/summary|The 1948 Aztec, New Mexico UFO Crash Retrieval]]
 
 ## Related Pages
 

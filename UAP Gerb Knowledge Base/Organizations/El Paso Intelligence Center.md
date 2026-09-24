@@ -48,4 +48,4 @@ Details of EPIC's involvement (if any) in the Coyame case remain speculative. No
 
 ## Sources
 
-- [[Video - The 1974 Coyame, Mexico UFO Crash]]
+- [[Videos/The 1974 Coyame, Mexico UFO Crash/summary|The 1974 Coyame, Mexico UFO Crash]]

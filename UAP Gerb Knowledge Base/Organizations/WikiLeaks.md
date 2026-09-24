@@ -23,4 +23,4 @@ The WikiLeaks publication of the Fish-Podesta email bypassed traditional classif
 
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]

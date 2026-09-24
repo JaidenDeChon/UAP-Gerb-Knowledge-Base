@@ -30,5 +30,5 @@ On the question of whether the U.S. possesses intact craft, Miller stated: "It's
 
 ## Sources
 
-- [[Video - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs]]
-- [[Video - UFOs in the Private Sector - Lockheed Martin]]
+- [[Videos/The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs/summary|The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs]]
+- [[Videos/UFOs in the Private Sector - Lockheed Martin/summary|UFOs in the Private Sector - Lockheed Martin]]

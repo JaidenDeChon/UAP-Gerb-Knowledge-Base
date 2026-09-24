@@ -24,4 +24,4 @@ Hottel does not appear to have conducted an independent investigation or to have
 
 ## Sources
 
-- [[Video - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group]]
+- [[Videos/Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group/summary|Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group]]

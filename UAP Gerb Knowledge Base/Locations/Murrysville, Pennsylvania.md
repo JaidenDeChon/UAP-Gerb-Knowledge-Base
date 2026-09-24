@@ -16,4 +16,4 @@ Murrysville sits between [[Pittsburgh, Pennsylvania|Pittsburgh]] (approximately 
 
 ## Sources
 
-- [[Video - The 1965 Kecksburg, Pennsylvania UFO Crash]]
+- [[Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/summary|The 1965 Kecksburg, Pennsylvania UFO Crash]]

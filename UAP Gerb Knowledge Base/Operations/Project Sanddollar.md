@@ -24,5 +24,5 @@ Project Sanddollar serves as the naval precedent for UAP Gerb's broader thesis a
 
 ## Sources
 
-- [[Video - The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1]]
-- [[Video - US Navy UFO Crash Retrieval & Reverse Engineering Programs]]
+- [[Videos/The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1/summary|The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1]]
+- [[Videos/US Navy UFO Crash Retrieval & Reverse Engineering Programs/summary|US Navy UFO Crash Retrieval & Reverse Engineering Programs]]

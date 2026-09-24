@@ -34,6 +34,6 @@ Steinman's correspondence with Sarbacher and Walker in 1983 represents a pivotal
 
 ## Sources
 
-- [[Video - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group]]
-- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
-- [[Video - The 1948 Aztec, New Mexico UFO Crash Retrieval]]
+- [[Videos/Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group/summary|Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group]]
+- [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
+- [[Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/summary|The 1948 Aztec, New Mexico UFO Crash Retrieval]]

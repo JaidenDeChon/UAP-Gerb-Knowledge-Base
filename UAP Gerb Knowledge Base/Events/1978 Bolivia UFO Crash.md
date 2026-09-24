@@ -62,4 +62,4 @@ The Bolivia crash is often compared to:
 
 ## Sources
 
-- [[Video - MOON DUST - The Pentagon's Secret UFO Programs]]
+- [[Videos/MOON DUST - The Pentagon's Secret UFO Programs/summary|MOON DUST - The Pentagon's Secret UFO Programs]]

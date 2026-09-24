@@ -13,4 +13,4 @@ Zuazu sat beside Captain [[Francisco Javier Lerdo de Tejada]], with flight mecha
 
 ## Sources
 
-- [[Video - The First Commercial Flight Grounded Due to UFOs]]
+- [[Videos/The First Commercial Flight Grounded Due to UFOs/summary|The First Commercial Flight Grounded Due to UFOs]]

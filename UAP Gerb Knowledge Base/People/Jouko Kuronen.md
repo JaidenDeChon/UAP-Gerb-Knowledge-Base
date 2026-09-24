@@ -15,4 +15,4 @@ The incident remains the only UFO observation acknowledged by the [[Finnish Air 
 
 ## Sources
 
-- [[Video - Global Air Force UFO Encounters You've Probably Never Heard of]]
+- [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters You've Probably Never Heard of]]

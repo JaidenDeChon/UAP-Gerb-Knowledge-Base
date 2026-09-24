@@ -19,5 +19,5 @@ As UAP Gerb summarises Taber's account, the craft at Area 51 was smooth, with no
 
 ## Sources
 
-- [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
-- [[Video - The Marines Who Got too Close to UFOs]]
+- [[Videos/The Alien and UFO Obscure Oddities Iceberg (Level 1)/summary|The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
+- [[Videos/The Marines Who Got too Close to UFOs/summary|The Marines Who Got too Close to UFOs]]

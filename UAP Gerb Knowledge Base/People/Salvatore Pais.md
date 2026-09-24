@@ -18,4 +18,4 @@ The video raises Pais and Pax River as a possible parallel to the alleged [[Off-
 
 ## Sources
 
-- [[Video - Off-World Technologies Division – UAP Technology Reverse Engineering]]
+- [[Videos/Off-World Technologies Division – UAP Technology Reverse Engineering/summary|Off-World Technologies Division – UAP Technology Reverse Engineering]]

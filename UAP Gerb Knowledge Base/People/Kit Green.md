@@ -22,4 +22,4 @@ Green's CIA background in scientific intelligence and his long-standing involvem
 
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]

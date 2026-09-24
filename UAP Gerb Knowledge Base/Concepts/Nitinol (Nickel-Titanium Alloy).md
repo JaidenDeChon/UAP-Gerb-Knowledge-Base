@@ -30,4 +30,4 @@ Nitinol is the most widely known example of a shape memory alloy. The broader cl
 
 ## Sources
 
-- [[Video - UFOs in the Private Sector - Battelle Memorial Institute]]
+- [[Videos/UFOs in the Private Sector - Battelle Memorial Institute/summary|UFOs in the Private Sector - Battelle Memorial Institute]]

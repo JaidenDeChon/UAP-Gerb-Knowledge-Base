@@ -39,5 +39,5 @@ If either the TB testimony or the whistleblower identification is accurate, Rigg
 
 ## Sources
 
-- [[Video - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction]]
-- [[Video - Off-World Technologies Division – UAP Technology Reverse Engineering]]
+- [[Videos/US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction/summary|US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction]]
+- [[Videos/Off-World Technologies Division – UAP Technology Reverse Engineering/summary|Off-World Technologies Division – UAP Technology Reverse Engineering]]

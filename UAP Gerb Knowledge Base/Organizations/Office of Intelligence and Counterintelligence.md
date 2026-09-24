@@ -23,4 +23,4 @@ The Oak Ridge claim comes from sources Gerb describes as intimately involved wit
 
 ## Sources
 
-- [[Video - Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
+- [[Videos/Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/summary|Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]

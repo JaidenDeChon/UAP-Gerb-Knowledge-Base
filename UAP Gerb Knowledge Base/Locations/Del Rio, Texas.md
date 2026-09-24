@@ -21,4 +21,4 @@ The Del Rio cases are frequently cited by researchers as among the more credible
 
 ## Sources
 
-- [[Video - The 1950s Del Rio, Texas UFO Crashes]]
+- [[Videos/The 1950s Del Rio, Texas UFO Crashes/summary|The 1950s Del Rio, Texas UFO Crashes]]

@@ -106,6 +106,6 @@ This structure mirrors known joint MRTFB programs and explains the 1967 Provo AR
 
 ## Sources
 
-- [[Video - The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
-- [[Video - Dugway Proving Ground - UFO Legacy Programs]]
-- [[Video - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs]]
+- [[Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/summary|The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
+- [[Videos/Dugway Proving Ground - UFO Legacy Programs/summary|Dugway Proving Ground - UFO Legacy Programs]]
+- [[Videos/Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs/summary|Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs]]

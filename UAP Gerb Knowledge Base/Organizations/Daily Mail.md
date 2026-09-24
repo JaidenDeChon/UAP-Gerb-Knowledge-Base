@@ -15,4 +15,4 @@ The Daily Mail also published one of only two publicly known photographs of Herr
 
 ## Sources
 
-- [[Video - Michael Herrera - Insights into UAP Encounter and Black Program Insiders]]
+- [[Videos/Michael Herrera - Insights into UAP Encounter and Black Program Insiders/summary|Michael Herrera - Insights into UAP Encounter and Black Program Insiders]]

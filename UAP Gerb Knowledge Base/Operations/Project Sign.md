@@ -37,5 +37,5 @@ Project Sign's findings, brief as they were, established an institutional record
 
 ## Sources
 
-- [[Video - The Origin of the UFO Stigma]]
-- [[Video - Global Air Force UFO Encounters You've Probably Never Heard of]]
+- [[Videos/The Origin of the UFO Stigma/summary|The Origin of the UFO Stigma]]
+- [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters You've Probably Never Heard of]]

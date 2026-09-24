@@ -11,4 +11,4 @@ The letter's sender directly accused Hans Adam of supporting counterintelligence
 
 ## Sources
 
-- [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
+- [[Videos/Alien Reproduction Vehicle - TR-3B and the Flying Triangles/summary|Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]

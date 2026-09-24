@@ -153,11 +153,11 @@ The credibility of The Insider's disclosures to Herrera remains unverified. Inve
 
 Herrera's testimony is highly detailed and internally consistent across multiple interviews and public appearances. The existence of insider contacts provides additional context unavailable to other witnesses, though the insiders themselves remain anonymous. The apparent misrepresentation of his testimony in AARO's historical report, if accurate, suggests institutional resistance to his account. The refusal of fellow Marines to corroborate publicly, while understandable given potential career and personal risks, leaves Herrera as a sole public witness to an extraordinary claim.
 
-UAP Gerb's first treatment of the case, in [[Video - The Marines Who Got too Close to UFOs|a January 2024 video]] pairing Herrera with [[Jonathan Weygandt]], was more guarded: Gerb described himself as "torn". He accepted that Herrera had testified under oath, but noted that if the account is true the craft was an [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicle]] flown by shadow US military factions, the theory [[Steven Greer]] promotes, and said he doubted that humans had reverse-engineered any non-human technology.
+UAP Gerb's first treatment of the case, in [[Videos/The Marines Who Got too Close to UFOs/summary|a January 2024 video]] pairing Herrera with [[Jonathan Weygandt]], was more guarded: Gerb described himself as "torn". He accepted that Herrera had testified under oath, but noted that if the account is true the craft was an [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicle]] flown by shadow US military factions, the theory [[Steven Greer]] promotes, and said he doubted that humans had reverse-engineered any non-human technology.
 
 ## Sources
 
-- [[Video - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE]]
-- [[Video - Michael Herrera - Insights into UAP Encounter and Black Program Insiders]]
-- [[Video - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)]]
-- [[Video - The Marines Who Got too Close to UFOs]]
+- [[Videos/1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE/summary|1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE]]
+- [[Videos/Michael Herrera - Insights into UAP Encounter and Black Program Insiders/summary|Michael Herrera - Insights into UAP Encounter and Black Program Insiders]]
+- [[Videos/Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)/summary|Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)]]
+- [[Videos/The Marines Who Got too Close to UFOs/summary|The Marines Who Got too Close to UFOs]]

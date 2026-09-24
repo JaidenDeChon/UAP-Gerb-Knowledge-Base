@@ -187,7 +187,7 @@ The existence of consciousness-interactive technology would represent:
 
 ## Sources
 
-- [[Video - Off-World Technologies Division – UAP Technology Reverse Engineering]]
+- [[Videos/Off-World Technologies Division – UAP Technology Reverse Engineering/summary|Off-World Technologies Division – UAP Technology Reverse Engineering]]
 
 ## Related Pages
 

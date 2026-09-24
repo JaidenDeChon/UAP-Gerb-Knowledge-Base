@@ -19,4 +19,4 @@ Knuth included the Trindade sequence in a slide of seven UFO images used to pres
 
 ## Sources
 
-- [[Video - The Physics of UFOs– Dr. Kevin Knuth]]
+- [[Videos/The Physics of UFOs– Dr. Kevin Knuth/summary|The Physics of UFOs– Dr. Kevin Knuth]]

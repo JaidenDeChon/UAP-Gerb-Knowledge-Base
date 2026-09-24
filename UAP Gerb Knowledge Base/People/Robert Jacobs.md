@@ -33,5 +33,5 @@ The craft's physical description — two discs with a hemisphere dome — closel
 
 ## Sources
 
-- [[Video - UFOs and Nuclear Weapons - A Fascinating Connection]]
-- [[Video - Incredible UFO Footage - FLYBY]]
+- [[Videos/UFOs and Nuclear Weapons - A Fascinating Connection/summary|UFOs and Nuclear Weapons - A Fascinating Connection]]
+- [[Videos/Incredible UFO Footage - FLYBY/summary|Incredible UFO Footage - FLYBY]]

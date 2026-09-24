@@ -13,4 +13,4 @@ Wolcott's case is cited in discussions of the Kingman evidence as an example of 
 
 ## Sources
 
-- [[Video - The 1953 Kingman, Arizona UFO Crash]]
+- [[Videos/The 1953 Kingman, Arizona UFO Crash/summary|The 1953 Kingman, Arizona UFO Crash]]

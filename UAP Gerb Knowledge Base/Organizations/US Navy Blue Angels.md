@@ -30,4 +30,4 @@ Gerb, who calls the frames possibly the most crucial corroboration of the Metapo
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - METAPOD]]
+- [[Videos/Incredible UFO Footage - METAPOD/summary|Incredible UFO Footage - METAPOD]]

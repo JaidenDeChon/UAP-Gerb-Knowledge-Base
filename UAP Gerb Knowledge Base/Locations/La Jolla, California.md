@@ -31,4 +31,4 @@ The La Jolla headquarters anchors SAIC's identity as a Southern California-based
 
 ## Sources
 
-- [[Video - UFO Legacy Programs - Science Applications International Corporation (SAIC)]]
+- [[Videos/UFO Legacy Programs - Science Applications International Corporation (SAIC)/summary|UFO Legacy Programs - Science Applications International Corporation (SAIC)]]

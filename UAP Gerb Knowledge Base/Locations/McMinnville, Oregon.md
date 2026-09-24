@@ -18,5 +18,5 @@ McMinnville has embraced its place in UAP history by hosting the annual McMinnvi
 
 ## Sources
 
-- [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
-- [[Video - UFO Whistleblowers Vol.2]]
+- [[Videos/The Alien and UFO Obscure Oddities Iceberg (Level 1)/summary|The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
+- [[Videos/UFO Whistleblowers Vol.2/summary|UFO Whistleblowers Vol.2]]

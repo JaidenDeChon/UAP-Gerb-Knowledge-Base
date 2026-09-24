@@ -21,4 +21,4 @@ Goddard Space Flight Center's role as the venue for this disclosure is notable: 
 
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]

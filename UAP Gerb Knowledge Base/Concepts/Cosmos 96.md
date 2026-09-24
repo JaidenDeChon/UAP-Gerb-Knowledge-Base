@@ -54,7 +54,7 @@ The Cosmos 96 theory was thoroughly debunked by orbital reentry data, NASA exper
 
 ## Sources
 
-- [[Video - The 1965 Kecksburg, Pennsylvania UFO Crash]]
+- [[Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/summary|The 1965 Kecksburg, Pennsylvania UFO Crash]]
 - Stan Gordon, *Kecksburg: The Untold Story* (1998)
 - Leslie Kean, May 2000 conference: *"Combating Media Ridicule and Searching for Evidence on the 1965 Kecksburg Crash Case"*
 - FOIA documents from US Space Command and Naval Surveillance Center

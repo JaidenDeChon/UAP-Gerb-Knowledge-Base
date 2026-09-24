@@ -32,5 +32,5 @@ Gerb has not reached a verdict. He is no CGI or video-editing expert, and he has
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - FLYBY]]
-- [[Video - Incredible UFO Footage - METAPOD]]
+- [[Videos/Incredible UFO Footage - FLYBY/summary|Incredible UFO Footage - FLYBY]]
+- [[Videos/Incredible UFO Footage - METAPOD/summary|Incredible UFO Footage - METAPOD]]

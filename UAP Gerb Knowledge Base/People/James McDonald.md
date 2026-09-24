@@ -15,4 +15,4 @@ McDonald called the final [[Condon Report]] "inadequate" and publicly stated it 
 
 ## Sources
 
-- [[Video - The Origin of the UFO Stigma]]
+- [[Videos/The Origin of the UFO Stigma/summary|The Origin of the UFO Stigma]]

@@ -16,4 +16,4 @@ The disputed 22 July 1947 [[Interplanetary Phenomenon Unit]] report among the Ma
 
 ## Sources
 
-- [[Video - The 1948 Aztec, New Mexico UFO Crash Retrieval]]
+- [[Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/summary|The 1948 Aztec, New Mexico UFO Crash Retrieval]]

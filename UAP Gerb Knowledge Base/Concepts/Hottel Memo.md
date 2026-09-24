@@ -56,6 +56,6 @@ The Hottel Memo is significant not because it provides proof of UFO recoveries, 
 
 ## Sources
 
-- [[Video - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group]]
-- [[Video - The 1950s Del Rio, Texas UFO Crashes]]
-- [[Video - The 1948 Aztec, New Mexico UFO Crash Retrieval]]
+- [[Videos/Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group/summary|Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group]]
+- [[Videos/The 1950s Del Rio, Texas UFO Crashes/summary|The 1950s Del Rio, Texas UFO Crashes]]
+- [[Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/summary|The 1948 Aztec, New Mexico UFO Crash Retrieval]]

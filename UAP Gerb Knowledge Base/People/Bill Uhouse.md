@@ -30,4 +30,4 @@ Uhouse's claim about the Kingman craft agrees with [[Arthur Stansel Jr.]]'s acco
 
 ## Sources
 
-- [[Video - The 1953 Kingman, Arizona UFO Crash]]
+- [[Videos/The 1953 Kingman, Arizona UFO Crash/summary|The 1953 Kingman, Arizona UFO Crash]]

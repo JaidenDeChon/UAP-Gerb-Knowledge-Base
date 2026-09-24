@@ -28,4 +28,4 @@ The video argues that the UFO stigma was not merely a byproduct of institutions 
 
 ## Sources
 
-- [[Video - The Origin of the UFO Stigma]]
+- [[Videos/The Origin of the UFO Stigma/summary|The Origin of the UFO Stigma]]

@@ -15,4 +15,4 @@ The NAS review became the scientific establishment's seal of approval for dismis
 
 ## Sources
 
-- [[Video - The Origin of the UFO Stigma]]
+- [[Videos/The Origin of the UFO Stigma/summary|The Origin of the UFO Stigma]]

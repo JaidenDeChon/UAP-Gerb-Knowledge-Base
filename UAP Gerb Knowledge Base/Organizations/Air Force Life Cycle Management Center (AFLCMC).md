@@ -17,5 +17,5 @@ UAP Gerb's *Special Access Required Vol.2* names AFLCMC/IP as one of four "progr
 
 ## Sources
 
-- [[Video - The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
-- [[Video - Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2]]
+- [[Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/summary|The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
+- [[Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/summary|Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2]]

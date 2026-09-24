@@ -12,7 +12,7 @@ UAP Gerb argues that the area's combination of extreme, rapidly accessed depth a
 
 ## Sources
 
-- [[Video - The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]
+- [[Videos/The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs/summary|The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]
 
 ## Related Pages
 

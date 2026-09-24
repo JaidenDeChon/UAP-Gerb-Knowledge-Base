@@ -76,7 +76,7 @@ Wright-Patterson continues to serve as a major center for Air Force research and
 
 ## Sources
 
-- [[Video - MOON DUST - The Pentagon's Secret UFO Programs]]
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
-- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
-- [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
+- [[Videos/MOON DUST - The Pentagon's Secret UFO Programs/summary|MOON DUST - The Pentagon's Secret UFO Programs]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
+- [[Videos/The Alien and UFO Obscure Oddities Iceberg (Level 2)/summary|The Alien and UFO Obscure Oddities Iceberg (Level 2)]]

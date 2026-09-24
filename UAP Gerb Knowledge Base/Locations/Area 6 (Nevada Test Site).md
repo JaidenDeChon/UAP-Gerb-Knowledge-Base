@@ -23,4 +23,4 @@ In his investigation of Sandia, UAP Gerb proposes Area 6 as a possible UFO legac
 
 ## Sources
 
-- [[Video - Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
+- [[Videos/Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/summary|Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]

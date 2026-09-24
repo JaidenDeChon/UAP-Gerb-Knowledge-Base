@@ -15,8 +15,8 @@ Because of its established aeronautical footprint, Varese appears in UAP account
 
 ## Role in the 1933 Magenta Narrative
 
-[[Video - The 1933 Magenta, Italy UFO Crash]] states that recovered material was reportedly kept in SIAI-Marchetti-associated hangars in Varese during much of the fascist period. The same account references a 1943 warehouse fire in the area and possible later relocation of material as wartime control shifted.
+[[Videos/The 1933 Magenta, Italy UFO Crash/summary|The 1933 Magenta, Italy UFO Crash]] states that recovered material was reportedly kept in SIAI-Marchetti-associated hangars in Varese during much of the fascist period. The same account references a 1943 warehouse fire in the area and possible later relocation of material as wartime control shifted.
 
 ## Sources
 
-- [[Video - The 1933 Magenta, Italy UFO Crash]]
+- [[Videos/The 1933 Magenta, Italy UFO Crash/summary|The 1933 Magenta, Italy UFO Crash]]

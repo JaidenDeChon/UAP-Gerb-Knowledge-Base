@@ -35,4 +35,4 @@ Gerb sees the Mirage's jammed sensors as the most significant part of the case a
 
 ## Sources
 
-- [[Video - The First Commercial Flight Grounded Due to UFOs]]
+- [[Videos/The First Commercial Flight Grounded Due to UFOs/summary|The First Commercial Flight Grounded Due to UFOs]]

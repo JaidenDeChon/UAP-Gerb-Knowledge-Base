@@ -98,7 +98,7 @@ Majestic documents provide context for numerous crash retrieval cases:
 
 ## Relationship to RS-33
 
-In [[Video - The 1933 Magenta, Italy UFO Crash]], UAP Gerb argues that [[RS-33 (Gabinetto RS 33)]] in fascist Italy functioned as a structural precursor to what Majestic 12 became in the United States, based on similar patterns of centralized authority over anomalous craft reporting, exclusion of outside scientific review, and controlled public narratives for suppression.
+In [[Videos/The 1933 Magenta, Italy UFO Crash/summary|The 1933 Magenta, Italy UFO Crash]], UAP Gerb argues that [[RS-33 (Gabinetto RS 33)]] in fascist Italy functioned as a structural precursor to what Majestic 12 became in the United States, based on similar patterns of centralized authority over anomalous craft reporting, exclusion of outside scientific review, and controlled public narratives for suppression.
 
 ## The NSC 5412 Committee Connection
 
@@ -116,8 +116,8 @@ The video frames this full administrative lineage — MJ-12 hidden within NSC 10
 
 ## Sources
 
-- [[Video - The 1933 Magenta, Italy UFO Crash]]
-- [[Video - The 1950s Del Rio, Texas UFO Crashes]]
-- [[Video - The Majestic-12 Documents With Ryan S. Wood]]
-- [[Video - The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1]]
-- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
+- [[Videos/The 1933 Magenta, Italy UFO Crash/summary|The 1933 Magenta, Italy UFO Crash]]
+- [[Videos/The 1950s Del Rio, Texas UFO Crashes/summary|The 1950s Del Rio, Texas UFO Crashes]]
+- [[Videos/The Majestic-12 Documents With Ryan S. Wood/summary|The Majestic-12 Documents With Ryan S. Wood]]
+- [[Videos/The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1/summary|The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1]]
+- [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

@@ -31,4 +31,4 @@ Long Beach has historically been a major center for aerospace manufacturing and 
 
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]

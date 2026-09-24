@@ -15,4 +15,4 @@ Gerb introduces Shermer as someone viewers may know from "getting cooked" in a d
 
 ## Sources
 
-- [[Video - Global Air Force UFO Encounters You've Probably Never Heard of]]
+- [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters You've Probably Never Heard of]]

@@ -23,5 +23,5 @@ UAP Gerb's 2026 legacy-program timeline video, citing [[David Grusch]]'s 2023 Ne
 
 ## Sources
 
-- [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
-- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
+- [[Videos/The Alien and UFO Obscure Oddities Iceberg (Level 2)/summary|The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
+- [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

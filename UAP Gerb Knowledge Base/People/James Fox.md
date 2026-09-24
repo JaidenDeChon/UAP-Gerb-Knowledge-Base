@@ -17,5 +17,5 @@ On December 4, 2020 (Joe Rogan Experience episode #1574), Fox appeared alongside
 
 ## Sources
 
-- [[Video - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt]]
-- [[Video - UFOs in the Private Sector - Battelle Memorial Institute]]
+- [[Videos/1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt/summary|1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt]]
+- [[Videos/UFOs in the Private Sector - Battelle Memorial Institute/summary|UFOs in the Private Sector - Battelle Memorial Institute]]

@@ -54,4 +54,4 @@ UAP researchers and government officials have argued that USOs may represent the
 
 - [[USO Case Book - Unidentified Submerged Objects Throughout History]]
 - [[USO - Unidentified Submerged Objects]]
-- [[Video - The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]
+- [[Videos/The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs/summary|The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]

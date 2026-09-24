@@ -24,4 +24,4 @@ The UAP Gerb video on Sarbacher treats Project Magnet as evidence that Canada wa
 
 ## Sources
 
-- [[Video - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group]]
+- [[Videos/Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group/summary|Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group]]

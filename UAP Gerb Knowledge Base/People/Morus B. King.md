@@ -11,4 +11,4 @@ King's book describes Zero Point Energy as sufficiently dense that, as physicist
 
 ## Sources
 
-- [[Video - Alien Reproduction Vehicle - the Testimony of Mark McCandlish]]
+- [[Videos/Alien Reproduction Vehicle - the Testimony of Mark McCandlish/summary|Alien Reproduction Vehicle - the Testimony of Mark McCandlish]]

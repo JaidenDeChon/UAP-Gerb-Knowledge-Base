@@ -28,5 +28,5 @@ UAP Gerb treats the SAPOC and SRG as the "skeleton gatekeeping structure and acc
 
 ## Sources
 
-- [[Video - Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2]]
-- [[Video - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs]]
+- [[Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/summary|Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2]]
+- [[Videos/The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs/summary|The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs]]

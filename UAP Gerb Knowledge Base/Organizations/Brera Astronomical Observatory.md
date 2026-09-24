@@ -31,4 +31,4 @@ Brera Observatory's international scientific reputation during the 1930s would h
 
 ## Sources
 
-- [[Video - The 1933 Magenta, Italy UFO Crash]]
+- [[Videos/The 1933 Magenta, Italy UFO Crash/summary|The 1933 Magenta, Italy UFO Crash]]

@@ -23,5 +23,5 @@ The inclusion of Varginha in the [[UAP Caucus]]'s list of crash retrieval events
 
 ## Sources
 
-- [[Video - The 1974 Coyame, Mexico UFO Crash]]
-- [[Video - The 1965 Kecksburg, Pennsylvania UFO Crash]]
+- [[Videos/The 1974 Coyame, Mexico UFO Crash/summary|The 1974 Coyame, Mexico UFO Crash]]
+- [[Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/summary|The 1965 Kecksburg, Pennsylvania UFO Crash]]

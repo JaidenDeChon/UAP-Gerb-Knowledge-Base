@@ -24,4 +24,4 @@ Gerb's conclusion is that DSAI's assets reached both SAIC and L3Harris, two cont
 
 ## Sources
 
-- [[Video - UFO Legacy Programs - Science Applications International Corporation (SAIC)]]
+- [[Videos/UFO Legacy Programs - Science Applications International Corporation (SAIC)/summary|UFO Legacy Programs - Science Applications International Corporation (SAIC)]]

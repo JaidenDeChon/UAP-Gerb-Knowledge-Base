@@ -21,4 +21,4 @@ After the 27-minute pursuit concluded at 9:27 p.m., Gorman returned to Hector Ai
 
 ## Sources
 
-- [[Video - Global Air Force UFO Encounters You've Probably Never Heard of]]
+- [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters You've Probably Never Heard of]]

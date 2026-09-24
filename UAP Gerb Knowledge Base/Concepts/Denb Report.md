@@ -61,4 +61,4 @@ The Denb Report remains the most detailed primary source for the Coyame case and
 
 ## Sources
 
-- [[Video - The 1974 Coyame, Mexico UFO Crash]]
+- [[Videos/The 1974 Coyame, Mexico UFO Crash/summary|The 1974 Coyame, Mexico UFO Crash]]

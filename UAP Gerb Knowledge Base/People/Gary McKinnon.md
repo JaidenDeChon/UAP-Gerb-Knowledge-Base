@@ -22,5 +22,5 @@ McKinnon, who is autistic, faced extradition to the United States for nearly a d
 
 ## Sources
 
-- [[Video - Alien Reproduction Vehicle - the Testimony of Mark McCandlish]]
-- [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
+- [[Videos/Alien Reproduction Vehicle - the Testimony of Mark McCandlish/summary|Alien Reproduction Vehicle - the Testimony of Mark McCandlish]]
+- [[Videos/The Alien and UFO Obscure Oddities Iceberg (Level 2)/summary|The Alien and UFO Obscure Oddities Iceberg (Level 2)]]

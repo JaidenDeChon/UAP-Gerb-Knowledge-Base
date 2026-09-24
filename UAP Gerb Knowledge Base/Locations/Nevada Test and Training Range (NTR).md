@@ -18,5 +18,5 @@ In *UAP Reverse Engineering at Edwards Air Force Base*, Greer's notes on witness
 
 ## Sources
 
-- [[Video - The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
-- [[Video - UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2]]
+- [[Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/summary|The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
+- [[Videos/UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2/summary|UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2]]

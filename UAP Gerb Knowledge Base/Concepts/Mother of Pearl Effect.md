@@ -14,4 +14,4 @@ Notably, the craft also absorbed rather than reflected direct sunlight, casting 
 
 ## Sources
 
-- [[Video - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt]]
+- [[Videos/1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt/summary|1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt]]

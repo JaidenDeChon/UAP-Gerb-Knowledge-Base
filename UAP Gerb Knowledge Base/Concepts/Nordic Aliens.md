@@ -21,4 +21,4 @@ Covering the entry in the first episode of his iceberg series, Gerb says he does
 
 ## Sources
 
-- [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
+- [[Videos/The Alien and UFO Obscure Oddities Iceberg (Level 1)/summary|The Alien and UFO Obscure Oddities Iceberg (Level 1)]]

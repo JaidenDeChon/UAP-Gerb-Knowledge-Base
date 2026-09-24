@@ -34,4 +34,4 @@ Debunkers have described the Metapod as a balloon (a custom heart-shaped balloon
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - METAPOD]]
+- [[Videos/Incredible UFO Footage - METAPOD/summary|Incredible UFO Footage - METAPOD]]

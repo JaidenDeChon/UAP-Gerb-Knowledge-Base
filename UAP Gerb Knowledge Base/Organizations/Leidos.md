@@ -17,4 +17,4 @@ On 16 August 2016 Leidos merged with [[Lockheed Martin]]'s Information Systems a
 
 ## Sources
 
-- [[Video - UFO Legacy Programs - Science Applications International Corporation (SAIC)]]
+- [[Videos/UFO Legacy Programs - Science Applications International Corporation (SAIC)/summary|UFO Legacy Programs - Science Applications International Corporation (SAIC)]]

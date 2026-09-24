@@ -71,4 +71,4 @@ Multiple witnesses in Michael Herrera's own encounter — his fellow Marines —
 
 ## Sources
 
-- [[Video - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)]]
+- [[Videos/Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)/summary|Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)]]

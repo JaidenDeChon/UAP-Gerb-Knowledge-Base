@@ -12,4 +12,4 @@ UAP Gerb's *The Hidden Wing* counts the UTTR among the western ranges of his [[H
 
 ## Sources
 
-- [[Video - The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
+- [[Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/summary|The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]

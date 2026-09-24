@@ -39,5 +39,5 @@ Representative Luna's involvement in the UAP Caucus represents bipartisan Congre
 
 ## Sources
 
-- [[Video - MOON DUST - The Pentagon's Secret UFO Programs]]
-- [[Video - The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]
+- [[Videos/MOON DUST - The Pentagon's Secret UFO Programs/summary|MOON DUST - The Pentagon's Secret UFO Programs]]
+- [[Videos/The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs/summary|The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]

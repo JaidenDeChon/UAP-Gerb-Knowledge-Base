@@ -24,5 +24,5 @@ Fouché's sources claimed that as of 1992, the Air Force conducted a contingency
 
 ## Sources
 
-- [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
-- [[Video - The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
+- [[Videos/Alien Reproduction Vehicle - TR-3B and the Flying Triangles/summary|Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
+- [[Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/summary|The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]

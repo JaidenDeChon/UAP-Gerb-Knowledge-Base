@@ -25,4 +25,4 @@ Dysonian SETI represents a broader and potentially more powerful search strategy
 
 ## Sources
 
-- [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
+- [[Videos/The Alien and UFO Obscure Oddities Iceberg (Level 2)/summary|The Alien and UFO Obscure Oddities Iceberg (Level 2)]]

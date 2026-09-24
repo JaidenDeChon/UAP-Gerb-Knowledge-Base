@@ -16,4 +16,4 @@ UAP Gerb discusses the film at length in *Special Access Required Vol.2*. He str
 
 ## Sources
 
-- [[Video - Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2]]
+- [[Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/summary|Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2]]

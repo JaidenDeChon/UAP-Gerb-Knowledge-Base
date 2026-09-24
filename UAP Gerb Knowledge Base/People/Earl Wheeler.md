@@ -13,4 +13,4 @@ In *The 1965 Kecksburg, Pennsylvania UFO Crash*, UAP Gerb lists Wheeler among th
 
 ## Sources
 
-- [[Video - The 1965 Kecksburg, Pennsylvania UFO Crash]]
+- [[Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/summary|The 1965 Kecksburg, Pennsylvania UFO Crash]]

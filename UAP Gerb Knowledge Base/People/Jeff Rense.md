@@ -11,4 +11,4 @@ The Rense interview is cited by UAP Gerb as the most significant credibility iss
 
 ## Sources
 
-- [[Video - The 1950s Del Rio, Texas UFO Crashes]]
+- [[Videos/The 1950s Del Rio, Texas UFO Crashes/summary|The 1950s Del Rio, Texas UFO Crashes]]

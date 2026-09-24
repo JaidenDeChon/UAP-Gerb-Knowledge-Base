@@ -38,7 +38,7 @@ Gerb places Redlight within his wider picture of the [[Antelope Valley]]. That p
 
 ## Sources
 
-- [[Video - UFO Legacy Programs - Northrop Grumman]]
-- [[Video - UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2]]
-- [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
-- [[Video - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs]]
+- [[Videos/UFO Legacy Programs - Northrop Grumman/summary|UFO Legacy Programs - Northrop Grumman]]
+- [[Videos/UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2/summary|UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2]]
+- [[Videos/Alien Reproduction Vehicle - TR-3B and the Flying Triangles/summary|Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
+- [[Videos/Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs/summary|Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs]]

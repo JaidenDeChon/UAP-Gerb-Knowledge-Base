@@ -175,11 +175,11 @@ Based on [[RA]]'s testimony and investigative analysis:
 
 ## Sources
 
-- [[Video - Off-World Technologies Division – UAP Technology Reverse Engineering]]
-- [[Video - Wilson-Davis Memo and US Secret UFO Reverse Engineering Programs]] (implied)
-- [[Video - Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]] (implied)
-- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
-- [[Video - UFO Legacy Programs - Science Applications International Corporation (SAIC)]]
+- [[Videos/Off-World Technologies Division – UAP Technology Reverse Engineering/summary|Off-World Technologies Division – UAP Technology Reverse Engineering]]
+- [[Videos/The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs/summary|The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs]] (implied)
+- [[Videos/Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/summary|Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]] (implied)
+- [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
+- [[Videos/UFO Legacy Programs - Science Applications International Corporation (SAIC)/summary|UFO Legacy Programs - Science Applications International Corporation (SAIC)]]
 
 ## Related Pages
 

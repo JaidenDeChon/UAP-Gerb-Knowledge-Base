@@ -29,7 +29,7 @@ In the context of [[Rodrik Castle]]'s account of electronic effects during his 1
 
 ## Sources
 
-- [[Video - The Physics of UFOs– Dr. Kevin Knuth]]
-- [[Video - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE]]
+- [[Videos/The Physics of UFOs– Dr. Kevin Knuth/summary|The Physics of UFOs– Dr. Kevin Knuth]]
+- [[Videos/1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE/summary|1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE]]
 - [[USO Case Book - Unidentified Submerged Objects Throughout History]]
 - Knuth, K. H., Powell, R. M., & Reali, P. A. (2019). "Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles." *Entropy*, 21(10), 939.

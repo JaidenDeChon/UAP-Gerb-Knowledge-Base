@@ -22,4 +22,4 @@ Directed energy weaponry or technology is considered an advanced capability well
 
 ## Sources
 
-- [[Video - UFOs and Nuclear Weapons - A Fascinating Connection]]
+- [[Videos/UFOs and Nuclear Weapons - A Fascinating Connection/summary|UFOs and Nuclear Weapons - A Fascinating Connection]]

@@ -35,5 +35,5 @@ John Murphy later visited the state police barracks in Greensburg, where he obse
 
 ## Sources
 
-- [[Video - The 1965 Kecksburg, Pennsylvania UFO Crash]]
+- [[Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/summary|The 1965 Kecksburg, Pennsylvania UFO Crash]]
 - [[John Murphy]]'s "Object in the Woods" radio documentary (1965)

@@ -96,4 +96,4 @@ This account, if accurate, provides high-level confirmation that the Army Foreig
 
 ## Sources
 
-- [[Video - Philip J. Corso - US Army UFO Technology Research & Development]]
+- [[Videos/Philip J. Corso - US Army UFO Technology Research & Development/summary|Philip J. Corso - US Army UFO Technology Research & Development]]

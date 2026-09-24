@@ -50,4 +50,4 @@ Wilson's testimony intersects with independently corroborated claims in multiple
 
 ## Sources
 
-- [[Video - UFO Legacy Programs - Northrop Grumman]]
+- [[Videos/UFO Legacy Programs - Northrop Grumman/summary|UFO Legacy Programs - Northrop Grumman]]

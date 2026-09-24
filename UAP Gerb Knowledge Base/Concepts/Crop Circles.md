@@ -26,4 +26,4 @@ Gerb explicitly dismisses crop circles as a distraction from genuine UAP evidenc
 
 ## Sources
 
-- [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
+- [[Videos/The Alien and UFO Obscure Oddities Iceberg (Level 1)/summary|The Alien and UFO Obscure Oddities Iceberg (Level 1)]]

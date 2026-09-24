@@ -26,8 +26,8 @@ On this basis Gerb suggests that non-human technology reverse-engineering work s
 
 ## Sources
 
-- [[Video - The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]
-- [[Video - Off-World Technologies Division – UAP Technology Reverse Engineering]]
+- [[Videos/The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs/summary|The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]
+- [[Videos/Off-World Technologies Division – UAP Technology Reverse Engineering/summary|Off-World Technologies Division – UAP Technology Reverse Engineering]]
 
 ## Related Pages
 

@@ -20,5 +20,5 @@ Albuquerque's position within New Mexico, surrounded by major military research 
 
 ## Sources
 
-- [[Video - The Majestic-12 Documents With Ryan S. Wood]]
-- [[Video - US Navy UFO Crash Retrieval & Reverse Engineering Programs]]
+- [[Videos/The Majestic-12 Documents With Ryan S. Wood/summary|The Majestic-12 Documents With Ryan S. Wood]]
+- [[Videos/US Navy UFO Crash Retrieval & Reverse Engineering Programs/summary|US Navy UFO Crash Retrieval & Reverse Engineering Programs]]

@@ -22,4 +22,4 @@ The 1964 [[Vandenberg Air Force Base UFO Film Incident]] documents an earlier an
 
 ## Sources
 
-- [[Video - UFOs and Nuclear Weapons - A Fascinating Connection]]
+- [[Videos/UFOs and Nuclear Weapons - A Fascinating Connection/summary|UFOs and Nuclear Weapons - A Fascinating Connection]]

@@ -34,6 +34,6 @@ By the time of the Edwards video, Gerb says, Ed had gone "off books" and could n
 
 ## Sources
 
-- [[Video - UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2]]
-- [[Video - The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
-- [[Video - Alien Reproduction Vehicle - the Testimony of Mark McCandlish]]
+- [[Videos/UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2/summary|UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2]]
+- [[Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/summary|The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
+- [[Videos/Alien Reproduction Vehicle - the Testimony of Mark McCandlish/summary|Alien Reproduction Vehicle - the Testimony of Mark McCandlish]]

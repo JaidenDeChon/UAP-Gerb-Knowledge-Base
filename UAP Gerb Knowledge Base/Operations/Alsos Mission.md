@@ -35,4 +35,4 @@ UAP Gerb identifies the Alsos Mission as the direct historical blueprint for mod
 
 ## Sources
 
-- [[Video - The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1]]
+- [[Videos/The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1/summary|The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1]]

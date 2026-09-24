@@ -67,4 +67,4 @@ No documentary evidence, weapons specifications, or independent corroboration ha
 
 ## Sources
 
-- [[Video - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)]]
+- [[Videos/Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)/summary|Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)]]

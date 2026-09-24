@@ -35,4 +35,4 @@ Salas's account is one of the primary cases cited in establishing a pattern of U
 
 ## Sources
 
-- [[Video - UFOs and Nuclear Weapons - A Fascinating Connection]]
+- [[Videos/UFOs and Nuclear Weapons - A Fascinating Connection/summary|UFOs and Nuclear Weapons - A Fascinating Connection]]

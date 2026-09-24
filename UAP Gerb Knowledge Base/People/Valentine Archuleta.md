@@ -17,4 +17,4 @@ Early one morning while doing chores, some time between 1948 and 1950 by his own
 
 ## Sources
 
-- [[Video - The 1948 Aztec, New Mexico UFO Crash Retrieval]]
+- [[Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/summary|The 1948 Aztec, New Mexico UFO Crash Retrieval]]

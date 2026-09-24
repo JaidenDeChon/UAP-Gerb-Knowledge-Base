@@ -17,6 +17,6 @@ Herrera, a SAW gunner with the Second Battalion, Fifth Marines, says he was aboa
 
 ## Sources
 
-- [[Video - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)]]
-- [[Video - Michael Herrera - Insights into UAP Encounter and Black Program Insiders]]
+- [[Videos/Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)/summary|Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)]]
+- [[Videos/Michael Herrera - Insights into UAP Encounter and Black Program Insiders/summary|Michael Herrera - Insights into UAP Encounter and Black Program Insiders]]
 - [DVIDS: 31st Marine Expeditionary Unit delivers aid for Indonesian earthquake relief](https://www.dvidshub.net/image/212023/31st-marine-expeditionary-unit-delivers-aid-indonesian-earthquake-relief)

@@ -22,4 +22,4 @@ The same set of backup slides proposed the [[Universal Civilization Development 
 
 ## Sources
 
-- [[Video - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure]]
+- [[Videos/SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure/summary|SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure]]

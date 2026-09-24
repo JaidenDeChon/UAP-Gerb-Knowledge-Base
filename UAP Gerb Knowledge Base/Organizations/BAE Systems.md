@@ -12,5 +12,5 @@ A witness known as TB, featured in UAP Gerb's video on the [[Off-World Technolog
 
 ## Sources
 
-- [[Video - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction]]
-- [[Video - Off-World Technologies Division – UAP Technology Reverse Engineering]]
+- [[Videos/US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction/summary|US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction]]
+- [[Videos/Off-World Technologies Division – UAP Technology Reverse Engineering/summary|Off-World Technologies Division – UAP Technology Reverse Engineering]]

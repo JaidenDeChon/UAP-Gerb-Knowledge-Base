@@ -11,4 +11,4 @@ The AFOSI document recording this interview is significant because it demonstrat
 
 ## Sources
 
-- [[Video - UFO Whistleblowers Vol.2]]
+- [[Videos/UFO Whistleblowers Vol.2/summary|UFO Whistleblowers Vol.2]]

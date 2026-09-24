@@ -18,6 +18,6 @@ Minot AFB's dual role as a strategic bomber base and an ICBM installation makes 
 
 ## Sources
 
-- [[Video - Global Air Force UFO Encounters You've Probably Never Heard of]]
-- [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
-- [[Video - USO - Unidentified Submerged Objects]]
+- [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters You've Probably Never Heard of]]
+- [[Videos/The Alien and UFO Obscure Oddities Iceberg (Level 1)/summary|The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
+- [[Videos/USO - Unidentified Submerged Objects/summary|USO - Unidentified Submerged Objects]]

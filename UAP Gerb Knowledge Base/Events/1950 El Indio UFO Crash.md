@@ -45,4 +45,4 @@ Former AATIP director Lou Elizondo has referenced the El Indio crash in public s
 
 ## Sources
 
-- [[Video - The 1950s Del Rio, Texas UFO Crashes]]
+- [[Videos/The 1950s Del Rio, Texas UFO Crashes/summary|The 1950s Del Rio, Texas UFO Crashes]]

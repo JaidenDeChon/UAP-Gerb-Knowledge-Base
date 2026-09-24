@@ -15,4 +15,4 @@ Researcher [[Mark McCandlish]] and UAP Gerb have explicitly distinguished the AR
 
 ## Sources
 
-- [[Video - Alien Reproduction Vehicle - the Testimony of Mark McCandlish]]
+- [[Videos/Alien Reproduction Vehicle - the Testimony of Mark McCandlish/summary|Alien Reproduction Vehicle - the Testimony of Mark McCandlish]]

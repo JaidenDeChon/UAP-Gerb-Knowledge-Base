@@ -15,4 +15,4 @@ The ATC confirmation eliminated the possibility of misidentifying conventional a
 
 ## Sources
 
-- [[Video - The First Commercial Flight Grounded Due to UFOs]]
+- [[Videos/The First Commercial Flight Grounded Due to UFOs/summary|The First Commercial Flight Grounded Due to UFOs]]

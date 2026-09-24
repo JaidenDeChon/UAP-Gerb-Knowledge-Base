@@ -36,7 +36,7 @@ Moultrie attempted to remove his Battelle advisory board membership from his pub
 
 ## Sources
 
-- [[Video - The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
-- [[Video - Alien Reproduction Vehicle - the Testimony of Mark McCandlish]]
-- [[Video - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies]]
-- [[Video - UFOs in the Private Sector - Battelle Memorial Institute]]
+- [[Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/summary|The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
+- [[Videos/Alien Reproduction Vehicle - the Testimony of Mark McCandlish/summary|Alien Reproduction Vehicle - the Testimony of Mark McCandlish]]
+- [[Videos/The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies/summary|The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies]]
+- [[Videos/UFOs in the Private Sector - Battelle Memorial Institute/summary|UFOs in the Private Sector - Battelle Memorial Institute]]

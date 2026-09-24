@@ -21,4 +21,4 @@ At the time of Gerb's February 2024 analysis, the stabilized version of the Meta
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - METAPOD]]
+- [[Videos/Incredible UFO Footage - METAPOD/summary|Incredible UFO Footage - METAPOD]]

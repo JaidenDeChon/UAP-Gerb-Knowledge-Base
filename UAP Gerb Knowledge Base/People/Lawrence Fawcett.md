@@ -25,4 +25,4 @@ The Fawcett-Greenwood FOIA request to NORAD remains one of the most significant 
 
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]

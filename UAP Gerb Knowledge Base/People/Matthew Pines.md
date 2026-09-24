@@ -18,4 +18,4 @@ In *SOL Foundation: Karl Nell - A Key Figure in UAP Disclosure*, Gerb walks thro
 
 ## Sources
 
-- [[Video - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure]]
+- [[Videos/SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure/summary|SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure]]

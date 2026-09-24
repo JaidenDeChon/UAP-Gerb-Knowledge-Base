@@ -15,4 +15,4 @@ On December 3, 1990, Scott conducted a detailed interview with Sorenson — an i
 
 ## Sources
 
-- [[Video - Alien Reproduction Vehicle - the Testimony of Mark McCandlish]]
+- [[Videos/Alien Reproduction Vehicle - the Testimony of Mark McCandlish/summary|Alien Reproduction Vehicle - the Testimony of Mark McCandlish]]

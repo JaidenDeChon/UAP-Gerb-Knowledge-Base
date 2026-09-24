@@ -16,5 +16,5 @@ Helendale is located close to [[Edwards Air Force Base]] and [[Air Force Plant 4
 
 ## Sources
 
-- [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
-- [[Video - The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
+- [[Videos/Alien Reproduction Vehicle - TR-3B and the Flying Triangles/summary|Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
+- [[Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/summary|The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]

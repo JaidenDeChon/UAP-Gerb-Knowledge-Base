@@ -6,7 +6,7 @@ tags:
   - person
 ---
 
-Major John Heise was a United States Air Force officer who, with [[Colonel Robert Simmons]], went to the area of the [[1978 Bolivia UFO Crash]] in May 1978, in connection with [[Project Moon Dust]]. In [[Video - MOON DUST - The Pentagon's Secret UFO Programs|UAP Gerb's video on Moon Dust]] his name is rendered "Major Jesse Haaste"; the State Department documents on the case, as researchers have reported them, name him as Maj. John Heise.
+Major John Heise was a United States Air Force officer who, with [[Colonel Robert Simmons]], went to the area of the [[1978 Bolivia UFO Crash]] in May 1978, in connection with [[Project Moon Dust]]. In [[Videos/MOON DUST - The Pentagon's Secret UFO Programs/summary|UAP Gerb's video on Moon Dust]] his name is rendered "Major Jesse Haaste"; the State Department documents on the case, as researchers have reported them, name him as Maj. John Heise.
 
 ## The 1978 Bolivia crash
 
@@ -16,4 +16,4 @@ According to the released State Department documents as reported by researchers,
 
 ## Sources
 
-- [[Video - MOON DUST - The Pentagon's Secret UFO Programs]]
+- [[Videos/MOON DUST - The Pentagon's Secret UFO Programs/summary|MOON DUST - The Pentagon's Secret UFO Programs]]

@@ -14,7 +14,7 @@ UAP Gerb alleges that NSWC Dahlgren conducts major testing and deployment exerci
 
 ## Sources
 
-- [[Video - The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]
+- [[Videos/The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs/summary|The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]
 
 ## Related Pages
 

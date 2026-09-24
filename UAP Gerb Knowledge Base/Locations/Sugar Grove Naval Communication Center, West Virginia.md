@@ -15,4 +15,4 @@ The Sugar Grove installation is cited by UAP Gerb alongside the [[Warrenton, Vir
 
 ## Sources
 
-- [[Video - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs]]
+- [[Videos/Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs/summary|Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs]]

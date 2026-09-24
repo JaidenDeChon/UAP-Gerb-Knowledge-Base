@@ -152,7 +152,7 @@ Use as many sections as the information warrants.]
 
 ## Sources
 
-- [[Video - Full Title As Stored In Videos Folder]]
+- [[Videos/Full Title As Stored In Videos Folder/summary|Full Title As Stored In Videos Folder]]
 ```
 
 **Add wikilinks to connect orphans.** Because these pages are currently unlinked, a critical part of improvement is weaving them into the knowledge base:

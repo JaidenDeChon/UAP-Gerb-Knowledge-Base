@@ -30,4 +30,4 @@ Separately from the Aztec case, Arizona more broadly — and the region's proxim
 
 ## Sources
 
-- [[Video - The 1948 Aztec, New Mexico UFO Crash Retrieval]]
+- [[Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/summary|The 1948 Aztec, New Mexico UFO Crash Retrieval]]

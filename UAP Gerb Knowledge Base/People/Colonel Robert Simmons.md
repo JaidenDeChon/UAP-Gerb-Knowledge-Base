@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Colonel Robert Simmons was a United States Air Force officer who, with Major [[John Heise]], went to the area of the [[1978 Bolivia UFO Crash]] in May 1978, in connection with [[Project Moon Dust]]. [[Video - MOON DUST - The Pentagon's Secret UFO Programs|UAP Gerb's video on Moon Dust]] names the two officers as part of the US response to the crash.
+Colonel Robert Simmons was a United States Air Force officer who, with Major [[John Heise]], went to the area of the [[1978 Bolivia UFO Crash]] in May 1978, in connection with [[Project Moon Dust]]. [[Videos/MOON DUST - The Pentagon's Secret UFO Programs/summary|UAP Gerb's video on Moon Dust]] names the two officers as part of the US response to the crash.
 
 ## The 1978 Bolivia crash
 
@@ -15,4 +15,4 @@ According to the released State Department documents as reported by researchers,
 
 ## Sources
 
-- [[Video - MOON DUST - The Pentagon's Secret UFO Programs]]
+- [[Videos/MOON DUST - The Pentagon's Secret UFO Programs/summary|MOON DUST - The Pentagon's Secret UFO Programs]]

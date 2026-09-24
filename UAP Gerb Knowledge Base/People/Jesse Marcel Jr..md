@@ -17,4 +17,4 @@ Marcel Jr. did not participate in recovery operations directly, but his timeline
 
 ## Sources
 
-- [[Video - UFO Whistleblowers Vol.1]]
+- [[Videos/UFO Whistleblowers Vol.1/summary|UFO Whistleblowers Vol.1]]

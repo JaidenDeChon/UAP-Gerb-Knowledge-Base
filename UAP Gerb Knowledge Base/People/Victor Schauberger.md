@@ -21,4 +21,4 @@ Schauberger emigrated to the United States in 1958 under circumstances he later 
 
 ## Sources
 
-- [[Video - The 1953 Kingman, Arizona UFO Crash]]
+- [[Videos/The 1953 Kingman, Arizona UFO Crash/summary|The 1953 Kingman, Arizona UFO Crash]]

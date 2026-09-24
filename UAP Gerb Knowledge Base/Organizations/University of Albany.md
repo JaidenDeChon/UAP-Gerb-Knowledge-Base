@@ -40,5 +40,5 @@ Together, these institutions signal growing academic acceptance that UAP phenome
 
 ## Sources
 
-- [[Video - The Physics of UFOs– Dr. Kevin Knuth]]
+- [[Videos/The Physics of UFOs– Dr. Kevin Knuth/summary|The Physics of UFOs– Dr. Kevin Knuth]]
 - University of Albany faculty directory and physics department information

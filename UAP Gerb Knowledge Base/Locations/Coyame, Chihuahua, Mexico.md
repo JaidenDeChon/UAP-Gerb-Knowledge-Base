@@ -23,5 +23,5 @@ Coyame's location near the US-Mexico border and its proximity to [[Fort Bliss]]â
 
 ## Sources
 
-- [[Video - The 1974 Coyame, Mexico UFO Crash]]
-- [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
+- [[Videos/The 1974 Coyame, Mexico UFO Crash/summary|The 1974 Coyame, Mexico UFO Crash]]
+- [[Videos/Alien Reproduction Vehicle - TR-3B and the Flying Triangles/summary|Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]

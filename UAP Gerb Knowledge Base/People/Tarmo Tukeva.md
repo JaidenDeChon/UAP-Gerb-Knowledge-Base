@@ -19,4 +19,4 @@ Gerb calls the Finnish case "a bit tricky", since the trail ends there, but lean
 
 ## Sources
 
-- [[Video - Global Air Force UFO Encounters You've Probably Never Heard of]]
+- [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters You've Probably Never Heard of]]

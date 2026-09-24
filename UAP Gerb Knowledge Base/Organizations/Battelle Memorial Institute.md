@@ -41,7 +41,7 @@ POGO.org documented Moultrie's Battelle advisory board membership and preserved 
 
 ## Sources
 
-- [[Video - UFOs in the Private Sector - Battelle Memorial Institute]]
-- [[Video - Dugway Proving Ground - UFO Legacy Programs]]
-- [[Video - The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
-- [[Video - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies]]
+- [[Videos/UFOs in the Private Sector - Battelle Memorial Institute/summary|UFOs in the Private Sector - Battelle Memorial Institute]]
+- [[Videos/Dugway Proving Ground - UFO Legacy Programs/summary|Dugway Proving Ground - UFO Legacy Programs]]
+- [[Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/summary|The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
+- [[Videos/The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies/summary|The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies]]

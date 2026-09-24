@@ -13,4 +13,4 @@ The page in question, from a section titled "Behavioral Data Analysis", names [[
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - FLYBY]]
+- [[Videos/Incredible UFO Footage - FLYBY/summary|Incredible UFO Footage - FLYBY]]

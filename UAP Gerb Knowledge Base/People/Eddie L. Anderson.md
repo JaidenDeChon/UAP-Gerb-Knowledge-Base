@@ -9,4 +9,4 @@ Eddie L. Anderson was a U.S. Air Force Colonel who responded to a 1991 Freedom o
 
 ## Sources
 
-- [[Video - UFO Whistleblowers Vol.2]]
+- [[Videos/UFO Whistleblowers Vol.2/summary|UFO Whistleblowers Vol.2]]

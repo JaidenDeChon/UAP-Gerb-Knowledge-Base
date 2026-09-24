@@ -24,5 +24,5 @@ Gerb is explicit that the Iquitos placement is a theory built on heavy assumptio
 
 ## Sources
 
-- [[Video - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt]]
-- [[Video - The Marines Who Got too Close to UFOs]]
+- [[Videos/1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt/summary|1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt]]
+- [[Videos/The Marines Who Got too Close to UFOs/summary|The Marines Who Got too Close to UFOs]]

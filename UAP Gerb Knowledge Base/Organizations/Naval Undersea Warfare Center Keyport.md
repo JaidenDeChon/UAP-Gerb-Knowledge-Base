@@ -14,7 +14,7 @@ UAP Gerb alleges that NUWC Keyport plays the data-processing role within an inte
 
 ## Sources
 
-- [[Video - The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]
+- [[Videos/The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs/summary|The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]
 
 ## Related Pages
 

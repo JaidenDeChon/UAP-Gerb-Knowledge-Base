@@ -122,8 +122,8 @@ Nolan characterizes this view as the current working hypothesis within the intel
 
 ## Sources
 
-- [[Video - Off-World Technologies Division – UAP Technology Reverse Engineering]]
-- [[Video - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction]]
+- [[Videos/Off-World Technologies Division – UAP Technology Reverse Engineering/summary|Off-World Technologies Division – UAP Technology Reverse Engineering]]
+- [[Videos/US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction/summary|US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction]]
 - Numerous public presentations and interviews on UAP biological effects
 
 ## Related Pages

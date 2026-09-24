@@ -16,5 +16,5 @@ This institutional framework established by Twining's directive represented a si
 
 ## Sources
 
-- [[Video - Global Air Force UFO Encounters You've Probably Never Heard of]]
-- [[Video - The Origin of the UFO Stigma]]
+- [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters You've Probably Never Heard of]]
+- [[Videos/The Origin of the UFO Stigma/summary|The Origin of the UFO Stigma]]

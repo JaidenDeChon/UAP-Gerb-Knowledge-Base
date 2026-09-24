@@ -17,4 +17,4 @@ UAP Gerb calls AFRL "baked into UFO lore". The video quotes a [[Tom DeLonge]] me
 
 ## Sources
 
-- [[Video - The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
+- [[Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/summary|The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]

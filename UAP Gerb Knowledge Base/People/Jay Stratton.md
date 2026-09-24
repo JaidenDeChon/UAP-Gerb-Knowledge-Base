@@ -13,4 +13,4 @@ UAP Gerb's *Special Access Required Vol.2* plays a clip of Elizondo describing t
 
 ## Sources
 
-- [[Video - Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2]]
+- [[Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/summary|Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2]]

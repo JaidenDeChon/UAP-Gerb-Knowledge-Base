@@ -22,4 +22,4 @@ Both cases are central to the [[UFO Interference with Nuclear Weapons]] and [[UF
 
 ## Sources
 
-- [[Video - UFOs and Nuclear Weapons - A Fascinating Connection]]
+- [[Videos/UFOs and Nuclear Weapons - A Fascinating Connection/summary|UFOs and Nuclear Weapons - A Fascinating Connection]]

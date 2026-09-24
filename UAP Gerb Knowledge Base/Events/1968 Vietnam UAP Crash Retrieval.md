@@ -18,4 +18,4 @@ UAP Gerb ties the bombing raid to [[Operation Menu]], which began on 18 March 19
 
 ## Sources
 
-- [[Video - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction]]
+- [[Videos/US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction/summary|US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction]]

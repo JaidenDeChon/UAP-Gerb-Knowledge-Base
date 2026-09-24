@@ -17,4 +17,4 @@ Her account stands against the material gathered by [[MUFON]]'s 1973 investigati
 
 ## Sources
 
-- [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
+- [[Videos/The Alien and UFO Obscure Oddities Iceberg (Level 2)/summary|The Alien and UFO Obscure Oddities Iceberg (Level 2)]]

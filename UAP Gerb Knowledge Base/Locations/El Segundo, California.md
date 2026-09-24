@@ -29,4 +29,4 @@ El Segundo is home to numerous major defense contractors and classified faciliti
 
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]

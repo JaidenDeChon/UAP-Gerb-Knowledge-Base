@@ -13,4 +13,4 @@ In the account UAP Gerb assembles in *Lockheed Martin - UFO Reverse Engineering,
 
 ## Sources
 
-- [[Video - Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
+- [[Videos/Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/summary|Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]

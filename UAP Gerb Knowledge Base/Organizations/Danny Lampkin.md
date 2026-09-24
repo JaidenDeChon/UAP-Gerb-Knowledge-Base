@@ -15,4 +15,4 @@ The Danny Lampkin upload is not the clip's first appearance online. In his analy
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - FLYBY]]
+- [[Videos/Incredible UFO Footage - FLYBY/summary|Incredible UFO Footage - FLYBY]]

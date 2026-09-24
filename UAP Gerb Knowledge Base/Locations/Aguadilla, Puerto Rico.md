@@ -24,6 +24,6 @@ The Aguadilla footage is significant for several reasons: it was captured by gov
 
 ## Sources
 
-- [[Video - USO - Unidentified Submerged Objects]]
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
-- [[Video - The Physics of UFOs– Dr. Kevin Knuth]]
+- [[Videos/USO - Unidentified Submerged Objects/summary|USO - Unidentified Submerged Objects]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/The Physics of UFOs– Dr. Kevin Knuth/summary|The Physics of UFOs– Dr. Kevin Knuth]]

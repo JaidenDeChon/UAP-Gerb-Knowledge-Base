@@ -57,4 +57,4 @@ The facility's historical radiobiological research capabilities, clean room infr
 
 ## Sources
 
-- [[Video - Dugway Proving Ground - UFO Legacy Programs]]
+- [[Videos/Dugway Proving Ground - UFO Legacy Programs/summary|Dugway Proving Ground - UFO Legacy Programs]]

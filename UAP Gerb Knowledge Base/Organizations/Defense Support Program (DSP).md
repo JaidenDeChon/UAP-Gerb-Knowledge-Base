@@ -39,5 +39,5 @@ All requests for DSP data related to [[Fast Walkers]] have been denied under Exe
 
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
-- [[Video - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt/summary|1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt]]

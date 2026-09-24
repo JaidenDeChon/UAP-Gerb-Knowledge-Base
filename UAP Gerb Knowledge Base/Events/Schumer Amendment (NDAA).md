@@ -29,5 +29,5 @@ In "The Alien and UFO Obscure Oddities Iceberg (Level 2)", Gerb names Representa
 
 ## Sources
 
-- [[Video - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure]]
-- [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
+- [[Videos/SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure/summary|SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure]]
+- [[Videos/The Alien and UFO Obscure Oddities Iceberg (Level 2)/summary|The Alien and UFO Obscure Oddities Iceberg (Level 2)]]

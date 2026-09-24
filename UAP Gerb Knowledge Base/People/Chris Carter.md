@@ -11,4 +11,4 @@ Rumors persist that Carter was approached by unnamed military brass who asked ho
 
 ## Sources
 
-- [[Video - Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
+- [[Videos/Alien Reproduction Vehicle - TR-3B and the Flying Triangles/summary|Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]

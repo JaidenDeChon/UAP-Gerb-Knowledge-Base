@@ -31,4 +31,4 @@ The fact that Bob Fish's access to DSP personnel occurred during this period of 
 
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]

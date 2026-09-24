@@ -15,5 +15,5 @@ In his Metapod analysis, Gerb counts the Bruja de Monterrey among five recording
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - METAPOD]]
+- [[Videos/Incredible UFO Footage - METAPOD/summary|Incredible UFO Footage - METAPOD]]
 - [Bruja de Monterrey](https://es.wikipedia.org/wiki/Bruja_de_Monterrey) (Spanish Wikipedia), for the date, place and group

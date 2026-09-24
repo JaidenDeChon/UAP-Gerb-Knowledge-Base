@@ -9,7 +9,7 @@ Palm Springs is a desert resort city in Riverside County, California, located in
 
 ## The Corbell 2023 Footage
 
-In 2023, filmmaker and UAP media figure [[Jeremy Corbell]] released video footage of lights observed over the Palm Springs area that he characterized as a UFO sighting. UAP Gerb referenced this footage in the broader discussion of cases where the flare explanation — one of the U.S. Air Force's most commonly deployed counter-explanations for anomalous light formations — may in fact be applicable. This was raised specifically in connection with the [[Phoenix Lights]] incident of March 13, 1997, in which the Air Force attributed witness observations of a large delta-shaped craft to A-10 Thunderbolt II flare drops. UAP Gerb's position on the Phoenix Lights, as discussed in [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]], is that the flare explanation is insufficient to account for the numerous witness testimonies describing a coherent solid structured craft — citing Arizona Governor [[Fife Symington]]'s firsthand description of a "dramatically large delta-shaped object with very distinctive leading edge and enormous lights." The Corbell Palm Springs footage was presented as a counter-comparison: a case where, unlike Phoenix, the flare explanation may be more credible.
+In 2023, filmmaker and UAP media figure [[Jeremy Corbell]] released video footage of lights observed over the Palm Springs area that he characterized as a UFO sighting. UAP Gerb referenced this footage in the broader discussion of cases where the flare explanation — one of the U.S. Air Force's most commonly deployed counter-explanations for anomalous light formations — may in fact be applicable. This was raised specifically in connection with the [[Phoenix Lights]] incident of March 13, 1997, in which the Air Force attributed witness observations of a large delta-shaped craft to A-10 Thunderbolt II flare drops. UAP Gerb's position on the Phoenix Lights, as discussed in [[Videos/The Alien and UFO Obscure Oddities Iceberg (Level 1)/summary|The Alien and UFO Obscure Oddities Iceberg (Level 1)]], is that the flare explanation is insufficient to account for the numerous witness testimonies describing a coherent solid structured craft — citing Arizona Governor [[Fife Symington]]'s firsthand description of a "dramatically large delta-shaped object with very distinctive leading edge and enormous lights." The Corbell Palm Springs footage was presented as a counter-comparison: a case where, unlike Phoenix, the flare explanation may be more credible.
 
 ## Context
 
@@ -17,4 +17,4 @@ The case is catalogued in this wiki as the [[Jeremy Corbell Palm Spring UFO Foot
 
 ## Sources
 
-- [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
+- [[Videos/The Alien and UFO Obscure Oddities Iceberg (Level 1)/summary|The Alien and UFO Obscure Oddities Iceberg (Level 1)]]

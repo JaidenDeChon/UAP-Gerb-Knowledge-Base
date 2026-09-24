@@ -12,4 +12,4 @@ Physicist [[Kevin Knuth]] included one of the Green Bay images in the slide of s
 
 ## Sources
 
-- [[Video - The Physics of UFOs– Dr. Kevin Knuth]]
+- [[Videos/The Physics of UFOs– Dr. Kevin Knuth/summary|The Physics of UFOs– Dr. Kevin Knuth]]

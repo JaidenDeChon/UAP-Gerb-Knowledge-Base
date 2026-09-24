@@ -29,4 +29,4 @@ If the alleged communications log is authentic, it demonstrates that at least on
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - FLYBY]]
+- [[Videos/Incredible UFO Footage - FLYBY/summary|Incredible UFO Footage - FLYBY]]

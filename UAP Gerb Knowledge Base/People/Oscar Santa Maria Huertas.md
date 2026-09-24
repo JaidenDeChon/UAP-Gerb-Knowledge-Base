@@ -9,7 +9,7 @@ tags:
 
 ## The La Joya Intercept
 
-As Gerb tells it in [[Video - Global Air Force UFO Encounters You've Probably Never Heard of|Global Air Force UFO Encounters You've Probably Never Heard of]], Santa María was ordered up early in the morning to intercept a strange silvery object spotted floating near the end of the runway. He described it as being "in restricted airspace without authorization, representing a grave challenge to national sovereignty", at a time of high concern about espionage in Peru.
+As Gerb tells it in [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters You've Probably Never Heard of]], Santa María was ordered up early in the morning to intercept a strange silvery object spotted floating near the end of the runway. He described it as being "in restricted airspace without authorization, representing a grave challenge to national sovereignty", at a time of high concern about espionage in Peru.
 
 He climbed to 2,500 metres and made an attack run on what he assumed was a balloon: "I reached the necessary distance and shot a burst of 64 30mm shells, which created a cone-shaped wall of fire that would normally obliterate anything in its path." He expected to see the balloon torn to shreds; the barrage had no effect.
 
@@ -25,4 +25,4 @@ On his return to base, multiple eyewitnesses and base personnel also observed th
 
 ## Sources
 
-- [[Video - Global Air Force UFO Encounters You've Probably Never Heard of]]
+- [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters You've Probably Never Heard of]]

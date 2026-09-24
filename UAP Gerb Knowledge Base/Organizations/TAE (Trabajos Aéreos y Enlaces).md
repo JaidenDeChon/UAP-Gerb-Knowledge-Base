@@ -19,4 +19,4 @@ The TAE flight JK 297 incident set a precedent as the first documented case of a
 
 ## Sources
 
-- [[Video - The First Commercial Flight Grounded Due to UFOs]]
+- [[Videos/The First Commercial Flight Grounded Due to UFOs/summary|The First Commercial Flight Grounded Due to UFOs]]

@@ -23,4 +23,4 @@ UAP Gerb calls this the part of Corso's account that troubles him most. Corso's 
 
 ## Sources
 
-- [[Video - Philip J. Corso - US Army UFO Technology Research & Development]]
+- [[Videos/Philip J. Corso - US Army UFO Technology Research & Development/summary|Philip J. Corso - US Army UFO Technology Research & Development]]

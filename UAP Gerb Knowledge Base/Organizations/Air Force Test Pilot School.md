@@ -13,4 +13,4 @@ According to witness Ed, as relayed in UAP Gerb's *The Hidden Wing*, pilots of m
 
 ## Sources
 
-- [[Video - The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
+- [[Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/summary|The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]

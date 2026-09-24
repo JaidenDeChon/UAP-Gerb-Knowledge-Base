@@ -28,4 +28,4 @@ In 2009, contractor and former Navy serviceman "MS" — employed at Dugway by C 
 
 ## Sources
 
-- [[Video - Dugway Proving Ground - UFO Legacy Programs]]
+- [[Videos/Dugway Proving Ground - UFO Legacy Programs/summary|Dugway Proving Ground - UFO Legacy Programs]]

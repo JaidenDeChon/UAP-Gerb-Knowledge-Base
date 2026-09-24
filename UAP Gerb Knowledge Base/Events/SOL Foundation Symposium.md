@@ -24,4 +24,4 @@ Kevin Knuth's talk has its own page, [[Sol Foundation 2023 Presentation by Kevin
 
 ## Sources
 
-- [[Video - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure]]
+- [[Videos/SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure/summary|SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure]]

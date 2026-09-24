@@ -18,5 +18,5 @@ The two 1947 New Mexico incidents are theorized to represent either a single cra
 
 ## Sources
 
-- [[Video - UFOs in the Private Sector - Battelle Memorial Institute]]
-- [[Video - US Navy UFO Crash Retrieval & Reverse Engineering Programs]]
+- [[Videos/UFOs in the Private Sector - Battelle Memorial Institute/summary|UFOs in the Private Sector - Battelle Memorial Institute]]
+- [[Videos/US Navy UFO Crash Retrieval & Reverse Engineering Programs/summary|US Navy UFO Crash Retrieval & Reverse Engineering Programs]]

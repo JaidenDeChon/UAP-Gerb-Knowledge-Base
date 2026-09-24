@@ -38,7 +38,7 @@ In 2003, Northrop Grumman paid $111.2 million to settle a False Claims Act case 
 Following the 2002 acquisition by [[Northrop Grumman]], all TRW assets, programs, and personnel networks are alleged to have transferred to Northrop Grumman's control. UAP Gerb's *80 Years of UFO Crash Retrieval and Reverse Engineering* specifically identifies [[Edward Bushnell Doll|Ed Doll]]'s TRW Systems Group as having contained an alleged "special projects division," which the video argues was absorbed into Northrop Grumman's Mission Systems sector alongside the rest of TRW Systems Group following the 2002 acquisition.
 
 ## Sources
-- [[Video - UFO Legacy Programs - Northrop Grumman]]
+- [[Videos/UFO Legacy Programs - Northrop Grumman/summary|UFO Legacy Programs - Northrop Grumman]]
 
-- [[Video - Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2]]
-- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
+- [[Videos/Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2/summary|Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2]]
+- [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

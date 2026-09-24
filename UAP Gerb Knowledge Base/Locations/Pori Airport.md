@@ -9,4 +9,4 @@ Pori Airport (Porin lentoasema) is a Finnish airport where the April 12, 1969 [[
 
 ## Sources
 
-- [[Video - Global Air Force UFO Encounters You've Probably Never Heard of]]
+- [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters You've Probably Never Heard of]]

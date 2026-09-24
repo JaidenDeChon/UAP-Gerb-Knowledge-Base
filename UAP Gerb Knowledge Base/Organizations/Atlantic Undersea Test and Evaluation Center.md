@@ -13,7 +13,7 @@ UAP Gerb argues it is unlikely to be coincidental that one of the U.S. Navy's mo
 
 ## Sources
 
-- [[Video - The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]
+- [[Videos/The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs/summary|The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]
 
 ## Related Pages
 

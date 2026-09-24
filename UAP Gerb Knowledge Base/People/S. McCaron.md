@@ -13,4 +13,4 @@ In his analysis of the [[Flyby Footage]], Gerb said that an exhaustive search fo
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - FLYBY]]
+- [[Videos/Incredible UFO Footage - FLYBY/summary|Incredible UFO Footage - FLYBY]]

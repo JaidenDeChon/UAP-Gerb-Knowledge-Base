@@ -27,4 +27,4 @@ The nuclear subterrene and conventional [[Tunnel Boring Machine (TBM)|Tunnel Bor
 
 ## Sources
 
-- [[Video - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs]]
+- [[Videos/Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs/summary|Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs]]

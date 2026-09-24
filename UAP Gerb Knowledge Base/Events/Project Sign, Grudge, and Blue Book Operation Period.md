@@ -31,5 +31,5 @@ Throughout this entire period, classified programs operated alongside the offici
 
 ## Sources
 
-- [[Video - The Origin of the UFO Stigma]]
-- [[Video - MOON DUST - The Pentagon's Secret UFO Programs]]
+- [[Videos/The Origin of the UFO Stigma/summary|The Origin of the UFO Stigma]]
+- [[Videos/MOON DUST - The Pentagon's Secret UFO Programs/summary|MOON DUST - The Pentagon's Secret UFO Programs]]

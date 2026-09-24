@@ -114,7 +114,7 @@ Daniel Sheehan's testimony is significant for several reasons:
 
 ## Sources
 
-- [[Video - Off-World Technologies Division – UAP Technology Reverse Engineering]]
+- [[Videos/Off-World Technologies Division – UAP Technology Reverse Engineering/summary|Off-World Technologies Division – UAP Technology Reverse Engineering]]
 - Daniel Sheehan's remarks at 2021 UFO Mega Con (referenced in transcript)
 
 ## Related Pages

@@ -24,4 +24,4 @@ UFO VNI published the clip, which was picked up by a Portuguese forum on 8 Septe
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - METAPOD]]
+- [[Videos/Incredible UFO Footage - METAPOD/summary|Incredible UFO Footage - METAPOD]]

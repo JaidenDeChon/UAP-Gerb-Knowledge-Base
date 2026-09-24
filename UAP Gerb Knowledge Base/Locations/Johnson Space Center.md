@@ -17,5 +17,5 @@ Orbital-debris scientist [[Nicholas Johnson]], who worked at JSC as NASA's Chief
 
 ## Sources
 
-- [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
-- [[Video - The 1965 Kecksburg, Pennsylvania UFO Crash]]
+- [[Videos/The Alien and UFO Obscure Oddities Iceberg (Level 2)/summary|The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
+- [[Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/summary|The 1965 Kecksburg, Pennsylvania UFO Crash]]

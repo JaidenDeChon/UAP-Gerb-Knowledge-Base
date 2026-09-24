@@ -16,4 +16,4 @@ After the retraction Blanchard went on leave. Months later he told his friend [[
 
 ## Sources
 
-- [[Video - UFO Whistleblowers Vol.1]]
+- [[Videos/UFO Whistleblowers Vol.1/summary|UFO Whistleblowers Vol.1]]

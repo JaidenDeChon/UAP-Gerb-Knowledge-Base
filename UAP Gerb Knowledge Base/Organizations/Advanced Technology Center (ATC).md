@@ -17,5 +17,5 @@ The ATC was also the organizational home of [[James T. Ryder]], a Lockheed Marti
 
 ## Sources
 
-- [[Video - UFOs in the Private Sector - Lockheed Martin]]
-- [[Video - Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
+- [[Videos/UFOs in the Private Sector - Lockheed Martin/summary|UFOs in the Private Sector - Lockheed Martin]]
+- [[Videos/Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/summary|Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]

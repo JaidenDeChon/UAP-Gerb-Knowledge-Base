@@ -20,4 +20,4 @@ UAP Gerb's *The Hidden Wing* makes SAF/AQ its "first major revelation". Gerb sta
 
 ## Sources
 
-- [[Video - The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
+- [[Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/summary|The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]

@@ -19,4 +19,4 @@ UAP Gerb has argued there is a strong case that Nixon, like Lyndon B. Johnson be
 
 ## Sources
 
-- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
+- [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

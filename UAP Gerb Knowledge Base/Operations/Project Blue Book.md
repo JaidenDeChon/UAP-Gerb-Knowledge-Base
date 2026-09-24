@@ -77,7 +77,7 @@ Project Blue Book documents were reportedly found scattered inside the [[Tejon R
 
 ## Sources
 
-- [[Video - The Origin of the UFO Stigma]]
-- [[Video - MOON DUST - The Pentagon's Secret UFO Programs]]
-- [[Video - Global Air Force UFO Encounters You've Probably Never Heard of]]
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/The Origin of the UFO Stigma/summary|The Origin of the UFO Stigma]]
+- [[Videos/MOON DUST - The Pentagon's Secret UFO Programs/summary|MOON DUST - The Pentagon's Secret UFO Programs]]
+- [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters You've Probably Never Heard of]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]

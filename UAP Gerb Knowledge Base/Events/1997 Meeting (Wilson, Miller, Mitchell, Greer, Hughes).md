@@ -21,5 +21,5 @@ The event is frequently cited as evidence that [[Unacknowledged Special Access P
 
 ## Sources
 
-- [[Video - The Marines Who Got too Close to UFOs]]
-- [[Video - USO - Unidentified Submerged Objects]]
+- [[Videos/The Marines Who Got too Close to UFOs/summary|The Marines Who Got too Close to UFOs]]
+- [[Videos/USO - Unidentified Submerged Objects/summary|USO - Unidentified Submerged Objects]]

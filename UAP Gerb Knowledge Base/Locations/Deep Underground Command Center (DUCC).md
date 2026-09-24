@@ -25,4 +25,4 @@ In *Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs*, UAP Gerb
 
 ## Sources
 
-- [[Video - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs]]
+- [[Videos/Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs/summary|Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs]]

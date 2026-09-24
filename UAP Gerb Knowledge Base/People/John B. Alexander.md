@@ -37,6 +37,6 @@ Alexander wrote to Lockheed Skunk Works director [[Ben Rich]] on July 10, 1986, 
 
 ## Sources
 
-- [[Video - Philip J. Corso - US Army UFO Technology Research & Development]]
-- [[Video - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs]]
-- [[Video - UFOs in the Private Sector - Lockheed Martin]]
+- [[Videos/Philip J. Corso - US Army UFO Technology Research & Development/summary|Philip J. Corso - US Army UFO Technology Research & Development]]
+- [[Videos/Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs/summary|Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs]]
+- [[Videos/UFOs in the Private Sector - Lockheed Martin/summary|UFOs in the Private Sector - Lockheed Martin]]

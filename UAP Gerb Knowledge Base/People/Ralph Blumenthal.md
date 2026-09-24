@@ -18,5 +18,5 @@ Blumenthal is also the author of *The Believer: Alien Encounters, Hard Science, 
 
 ## Sources
 
-- [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
-- [[Video - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure]]
+- [[Videos/The Alien and UFO Obscure Oddities Iceberg (Level 1)/summary|The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
+- [[Videos/SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure/summary|SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure]]

@@ -20,7 +20,7 @@ Researcher Ryan S. Wood cites a Joint Intelligence Objectives Agency Paperclip m
 
 ## Sources
 
-- [[Video - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs]]
-- [[Video - The Majestic-12 Documents With Ryan S. Wood]]
-- [[Video - The 1953 Kingman, Arizona UFO Crash]]
-- [[Video - The Physics of UFOs– Dr. Kevin Knuth]]
+- [[Videos/Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs/summary|Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs]]
+- [[Videos/The Majestic-12 Documents With Ryan S. Wood/summary|The Majestic-12 Documents With Ryan S. Wood]]
+- [[Videos/The 1953 Kingman, Arizona UFO Crash/summary|The 1953 Kingman, Arizona UFO Crash]]
+- [[Videos/The Physics of UFOs– Dr. Kevin Knuth/summary|The Physics of UFOs– Dr. Kevin Knuth]]

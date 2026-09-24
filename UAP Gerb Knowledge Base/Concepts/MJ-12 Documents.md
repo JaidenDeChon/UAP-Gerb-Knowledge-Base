@@ -31,4 +31,4 @@ UAP Gerb and Wood note that documents dated after 1954 carry far less operationa
 
 ## Sources
 
-- [[Video - The Majestic-12 Documents With Ryan S. Wood]]
+- [[Videos/The Majestic-12 Documents With Ryan S. Wood/summary|The Majestic-12 Documents With Ryan S. Wood]]

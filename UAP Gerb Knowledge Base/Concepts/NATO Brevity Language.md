@@ -36,4 +36,4 @@ The use of standard tactical communications procedures for a UAP encounter sugge
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - FLYBY]]
+- [[Videos/Incredible UFO Footage - FLYBY/summary|Incredible UFO Footage - FLYBY]]

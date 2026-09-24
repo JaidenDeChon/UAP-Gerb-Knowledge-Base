@@ -15,4 +15,4 @@ The resulting 18-month GAO records search, completed and released on 28 July 199
 
 ## Sources
 
-- [[Video - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
+- [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

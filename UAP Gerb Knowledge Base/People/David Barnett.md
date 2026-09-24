@@ -33,4 +33,4 @@ The HMNZS Southland incident shares characteristics with other USO encounters:
 
 ## Sources
 
-- [[Video - The Physics of UFOs– Dr. Kevin Knuth]]
+- [[Videos/The Physics of UFOs– Dr. Kevin Knuth/summary|The Physics of UFOs– Dr. Kevin Knuth]]

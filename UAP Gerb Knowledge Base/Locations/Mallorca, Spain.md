@@ -13,4 +13,4 @@ On 11 November 1979, [[TAE (Trabajos Aéreos y Enlaces)|TAE]] flight JK 297, a S
 
 ## Sources
 
-- [[Video - The First Commercial Flight Grounded Due to UFOs]]
+- [[Videos/The First Commercial Flight Grounded Due to UFOs/summary|The First Commercial Flight Grounded Due to UFOs]]

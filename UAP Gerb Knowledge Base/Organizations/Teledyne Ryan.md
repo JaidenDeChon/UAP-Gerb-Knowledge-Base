@@ -19,4 +19,4 @@ Additionally, [[Edgar Fouche|Edgar Fuché]] named Teledyne Ryan as one of the pr
 
 ## Sources
 
-- [[Video - UFO Legacy Programs - Northrop Grumman]]
+- [[Videos/UFO Legacy Programs - Northrop Grumman/summary|UFO Legacy Programs - Northrop Grumman]]

@@ -9,7 +9,7 @@ The 1984 Indian Point UFO Incident is a reported sighting over the Indian Point 
 
 ## The Sighting
 
-In the account given in [[Video - UFOs and Nuclear Weapons - A Fascinating Connection|Gerb's video on UFOs and nuclear weapons]], the plant's security police reported a conically shaped UFO as long as three football fields, with white, yellow and blue oscillating lights. As it flew overhead, the plant's movement sensors, alarms and security control computers failed. Other accounts of the Indian Point sightings describe guards watching the object hover near the plant for several minutes, and residents of the surrounding area reporting a large lighted object the same night; guards had reported a similar object over the plant on 14 June 1984.
+In the account given in [[Videos/UFOs and Nuclear Weapons - A Fascinating Connection/summary|Gerb's video on UFOs and nuclear weapons]], the plant's security police reported a conically shaped UFO as long as three football fields, with white, yellow and blue oscillating lights. As it flew overhead, the plant's movement sensors, alarms and security control computers failed. Other accounts of the Indian Point sightings describe guards watching the object hover near the plant for several minutes, and residents of the surrounding area reporting a large lighted object the same night; guards had reported a similar object over the plant on 14 June 1984.
 
 ## Official Response
 
@@ -21,4 +21,4 @@ Gerb presents Indian Point as evidence that UFOs have shown interest in nuclear 
 
 ## Sources
 
-- [[Video - UFOs and Nuclear Weapons - A Fascinating Connection]]
+- [[Videos/UFOs and Nuclear Weapons - A Fascinating Connection/summary|UFOs and Nuclear Weapons - A Fascinating Connection]]

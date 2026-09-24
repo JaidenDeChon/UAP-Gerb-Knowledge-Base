@@ -21,4 +21,4 @@ Rigny's name was made public when he appeared on [[Richard Dolan]]'s podcast, wh
 
 ## Sources
 
-- [[Video - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs]]
+- [[Videos/The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs/summary|The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs]]

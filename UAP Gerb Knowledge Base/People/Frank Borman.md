@@ -19,4 +19,4 @@ Separately, [[Harland Bentley]] claimed to have overheard Houston Mission Contro
 
 ## Sources
 
-- [[Video - UFO Whistleblowers Vol.2]]
+- [[Videos/UFO Whistleblowers Vol.2/summary|UFO Whistleblowers Vol.2]]

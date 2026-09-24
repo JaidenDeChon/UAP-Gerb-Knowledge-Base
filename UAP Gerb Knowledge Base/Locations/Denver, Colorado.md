@@ -9,7 +9,7 @@ Denver is the capital and most populous city of Colorado. In this wiki, Denver a
 
 ## Newton's University of Denver Lecture
 
-[[Silas Newton]] delivered a lecture at the University of Denver in which he discussed the Aztec UFO crash story — an account he maintained came from the group of scientists known as "Dr. G." Journalist [[J. P. Cahn]] later named [[Leo GeBauer]] as the sole Dr. G, while researcher [[William Steinman]] identified Denver geophysicist [[Carl A. Heiland]] as the scientist originally meant to give the lecture and the source of the leak. This lecture is documented in UAP Gerb's analysis in [[Video - The 1948 Aztec, New Mexico UFO Crash Retrieval]] as one of the public occasions on which Newton disseminated the Aztec account, consistent with the theory that elements of the military may have encouraged Newton to spread the story as part of a deliberate information management strategy.
+[[Silas Newton]] delivered a lecture at the University of Denver in which he discussed the Aztec UFO crash story — an account he maintained came from the group of scientists known as "Dr. G." Journalist [[J. P. Cahn]] later named [[Leo GeBauer]] as the sole Dr. G, while researcher [[William Steinman]] identified Denver geophysicist [[Carl A. Heiland]] as the scientist originally meant to give the lecture and the source of the leak. This lecture is documented in UAP Gerb's analysis in [[Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/summary|The 1948 Aztec, New Mexico UFO Crash Retrieval]] as one of the public occasions on which Newton disseminated the Aztec account, consistent with the theory that elements of the military may have encouraged Newton to spread the story as part of a deliberate information management strategy.
 
 ## The Edetoise Bar Sting Operation
 
@@ -25,4 +25,4 @@ Denver functions in the Aztec narrative as a hub for Newton's network — the le
 
 ## Sources
 
-- [[Video - The 1948 Aztec, New Mexico UFO Crash Retrieval]]
+- [[Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/summary|The 1948 Aztec, New Mexico UFO Crash Retrieval]]

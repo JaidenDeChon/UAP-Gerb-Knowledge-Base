@@ -33,4 +33,4 @@ Without release of the material, the existence and content of the video cannot b
 
 ## Sources
 
-- [[Video - The 1974 Coyame, Mexico UFO Crash]]
+- [[Videos/The 1974 Coyame, Mexico UFO Crash/summary|The 1974 Coyame, Mexico UFO Crash]]

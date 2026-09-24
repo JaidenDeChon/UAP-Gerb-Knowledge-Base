@@ -12,4 +12,4 @@ The [[Infographic Show Whistleblower]] names TI as an example of the "little guy
 
 ## Sources
 
-- [[Video - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction]]
+- [[Videos/US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction/summary|US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction]]

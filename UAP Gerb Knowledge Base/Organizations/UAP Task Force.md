@@ -19,4 +19,4 @@ The UAP Task Force has been referenced for using Top Secret online forums to dis
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - FLYBY]]
+- [[Videos/Incredible UFO Footage - FLYBY/summary|Incredible UFO Footage - FLYBY]]

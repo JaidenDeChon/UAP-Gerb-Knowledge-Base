@@ -19,4 +19,4 @@ UAP Gerb recounts the case in his investigation of Dugway as part of the lore li
 
 ## Sources
 
-- [[Video - Dugway Proving Ground - UFO Legacy Programs]]
+- [[Videos/Dugway Proving Ground - UFO Legacy Programs/summary|Dugway Proving Ground - UFO Legacy Programs]]

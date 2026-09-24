@@ -22,4 +22,4 @@ The Shelburne Harbor case predates the Shag Harbour incident by seven years and 
 
 ## Sources
 
-- [[Video - USO - Unidentified Submerged Objects]]
+- [[Videos/USO - Unidentified Submerged Objects/summary|USO - Unidentified Submerged Objects]]

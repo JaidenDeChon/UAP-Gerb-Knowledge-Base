@@ -12,4 +12,4 @@ UAP Gerb, in *UAP Reverse Engineering at Edwards Air Force Base*, suggests that 
 
 ## Sources
 
-- [[Video - UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2]]
+- [[Videos/UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2/summary|UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2]]

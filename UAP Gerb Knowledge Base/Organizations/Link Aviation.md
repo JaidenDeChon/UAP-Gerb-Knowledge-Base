@@ -11,4 +11,4 @@ In the context of UAP research, Link Aviation is significant as the organization
 
 ## Sources
 
-- [[Video - The 1953 Kingman, Arizona UFO Crash]]
+- [[Videos/The 1953 Kingman, Arizona UFO Crash/summary|The 1953 Kingman, Arizona UFO Crash]]

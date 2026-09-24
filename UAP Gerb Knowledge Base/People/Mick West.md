@@ -26,4 +26,4 @@ West's skeptical approach has made him a polarizing figure in UAP research. Advo
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - METAPOD]]
+- [[Videos/Incredible UFO Footage - METAPOD/summary|Incredible UFO Footage - METAPOD]]

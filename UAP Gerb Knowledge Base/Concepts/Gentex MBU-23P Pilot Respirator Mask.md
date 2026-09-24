@@ -18,4 +18,4 @@ The identification of military-specific equipment reflections in the footage, if
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - FLYBY]]
+- [[Videos/Incredible UFO Footage - FLYBY/summary|Incredible UFO Footage - FLYBY]]

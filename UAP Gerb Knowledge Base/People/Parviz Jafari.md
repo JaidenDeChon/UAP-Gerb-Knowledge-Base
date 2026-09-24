@@ -17,4 +17,4 @@ In UAP Gerb's video on physicist [[Kevin Knuth]]'s 2023 [[Sol Foundation 2023 Pr
 
 ## Sources
 
-- [[Video - The Physics of UFOs– Dr. Kevin Knuth]]
+- [[Videos/The Physics of UFOs– Dr. Kevin Knuth/summary|The Physics of UFOs– Dr. Kevin Knuth]]

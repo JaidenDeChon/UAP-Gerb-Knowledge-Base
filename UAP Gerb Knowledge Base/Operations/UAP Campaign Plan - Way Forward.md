@@ -40,4 +40,4 @@ Gerb notes that [[AARO]] is missing from Phase 0's list of narrative shapers, an
 
 ## Sources
 
-- [[Video - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure]]
+- [[Videos/SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure/summary|SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure]]

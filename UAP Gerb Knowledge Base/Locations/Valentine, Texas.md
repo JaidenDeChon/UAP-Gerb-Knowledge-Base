@@ -13,4 +13,4 @@ According to the [[Denb Report]], the American team that recovered a crashed dis
 
 ## Sources
 
-- [[Video - The 1974 Coyame, Mexico UFO Crash]]
+- [[Videos/The 1974 Coyame, Mexico UFO Crash/summary|The 1974 Coyame, Mexico UFO Crash]]

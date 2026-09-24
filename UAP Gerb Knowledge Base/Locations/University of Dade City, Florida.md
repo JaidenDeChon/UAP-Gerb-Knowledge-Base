@@ -22,5 +22,5 @@ Stringfield documented Cam's testimony alongside accounts from other Blue Beret-
 
 ## Sources
 
-- [[Video - MOON DUST - The Pentagon's Secret UFO Programs]]
-- [[Video - The 1965 Kecksburg, Pennsylvania UFO Crash]]
+- [[Videos/MOON DUST - The Pentagon's Secret UFO Programs/summary|MOON DUST - The Pentagon's Secret UFO Programs]]
+- [[Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/summary|The 1965 Kecksburg, Pennsylvania UFO Crash]]

@@ -17,4 +17,4 @@ Lovekin's testimony places his Project Blue Book and Roswell-adjacent claims wit
 
 ## Sources
 
-- [[Video - UFO Whistleblowers Vol.1]]
+- [[Videos/UFO Whistleblowers Vol.1/summary|UFO Whistleblowers Vol.1]]

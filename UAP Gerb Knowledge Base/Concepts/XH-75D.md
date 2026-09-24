@@ -14,4 +14,4 @@ The intended application of any onboard anti-gravity system was never elaborated
 
 ## Sources
 
-- [[Video - UFO Legacy Programs - Northrop Grumman]]
+- [[Videos/UFO Legacy Programs - Northrop Grumman/summary|UFO Legacy Programs - Northrop Grumman]]

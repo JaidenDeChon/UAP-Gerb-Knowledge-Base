@@ -16,4 +16,4 @@ Alamogordo sits at a geographic nexus of several locations relevant to the UFO l
 
 ## Sources
 
-- [[Video - Philip J. Corso - US Army UFO Technology Research & Development]]
+- [[Videos/Philip J. Corso - US Army UFO Technology Research & Development/summary|Philip J. Corso - US Army UFO Technology Research & Development]]

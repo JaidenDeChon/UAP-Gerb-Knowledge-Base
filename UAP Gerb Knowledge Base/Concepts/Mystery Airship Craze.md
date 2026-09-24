@@ -29,4 +29,4 @@ The [[Aurora Texas UFO Crash]] of April 17, 1897, is embedded directly in the My
 
 ## Sources
 
-- [[Video - The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
+- [[Videos/The Alien and UFO Obscure Oddities Iceberg (Level 2)/summary|The Alien and UFO Obscure Oddities Iceberg (Level 2)]]

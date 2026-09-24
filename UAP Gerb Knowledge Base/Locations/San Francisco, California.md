@@ -9,7 +9,7 @@ San Francisco is a major coastal city in northern California and home of the *Sa
 
 ## J. P. Cahn and the San Francisco Chronicle
 
-[[J. P. Cahn]] was a journalist at the *San Francisco Chronicle* whose 1952 exposé effectively labeled the Aztec crash story a hoax by publicly discrediting [[Frank Scully]], [[Silas Newton]], and the anonymous scientist Newton had referred to as "Dr. G." The article is treated by UAP Gerb, in [[Video - The 1948 Aztec, New Mexico UFO Crash Retrieval]], not as genuine investigative journalism that resolved the Aztec case, but as a possible instrument of deliberate disinformation — or at minimum, of targeted character destruction — designed to suppress a legitimate crash retrieval account.
+[[J. P. Cahn]] was a journalist at the *San Francisco Chronicle* whose 1952 exposé effectively labeled the Aztec crash story a hoax by publicly discrediting [[Frank Scully]], [[Silas Newton]], and the anonymous scientist Newton had referred to as "Dr. G." The article is treated by UAP Gerb, in [[Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/summary|The 1948 Aztec, New Mexico UFO Crash Retrieval]], not as genuine investigative journalism that resolved the Aztec case, but as a possible instrument of deliberate disinformation — or at minimum, of targeted character destruction — designed to suppress a legitimate crash retrieval account.
 
 Newton traveled to San Francisco to meet with Cahn in what proved to be a consequential encounter. Cahn reportedly stole an artifact that Newton showed him — having it independently tested, where it was found to be common aluminum — and then used the result to discredit Newton's claims. UAP Gerb's analysis notes that the items in Newton's possession during this meeting were likely replicas, not the original recovered materials from Dr. G's collection, and that Cahn's test of a substitute object proved nothing about the authenticity of the actual Aztec crash materials.
 
@@ -21,4 +21,4 @@ San Francisco, as the home of the *Chronicle* and the site of Newton's meeting w
 
 ## Sources
 
-- [[Video - The 1948 Aztec, New Mexico UFO Crash Retrieval]]
+- [[Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/summary|The 1948 Aztec, New Mexico UFO Crash Retrieval]]

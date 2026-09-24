@@ -21,4 +21,4 @@ Following UFO VNI's removal of the video, other channels including [[UFO Invasio
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - METAPOD]]
+- [[Videos/Incredible UFO Footage - METAPOD/summary|Incredible UFO Footage - METAPOD]]

@@ -15,7 +15,7 @@ Of the eleven objects detected on infrared, only three appeared on the plane's r
 
 ## Assessment of Object Behavior
 
-Castanon made a notable observation about the objects' apparent awareness, stating that he believed "they could feel we were pursuing them." Gerb quotes the remark in [[Video - Global Air Force UFO Encounters You've Probably Never Heard of|Global Air Force UFO Encounters You've Probably Never Heard of]] and says he chooses to believe the military pilots over the skeptics' flare explanation, while conceding in his final assessment that the case has the highest probability of a prosaic explanation of the four he covers.
+Castanon made a notable observation about the objects' apparent awareness, stating that he believed "they could feel we were pursuing them." Gerb quotes the remark in [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters You've Probably Never Heard of]] and says he chooses to believe the military pilots over the skeptics' flare explanation, while conceding in his final assessment that the case has the highest probability of a prosaic explanation of the four he covers.
 
 ## Skeptical Explanations
 
@@ -23,4 +23,4 @@ Skeptic [[Michael Shermer]], head of [[Skeptic Magazine]], suggested the lights 
 
 ## Sources
 
-- [[Video - Global Air Force UFO Encounters You've Probably Never Heard of]]
+- [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters You've Probably Never Heard of]]

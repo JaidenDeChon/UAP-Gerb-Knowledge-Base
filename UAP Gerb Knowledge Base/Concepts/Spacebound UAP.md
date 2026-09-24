@@ -59,4 +59,4 @@ The existence of spacebound UAP detected continuously for over 50 years suggests
 
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]

@@ -6,7 +6,7 @@ tags:
   - person
 ---
 
-Captain Edward J. Ruppelt headed the US Air Force's official UFO investigation from 1951 to 1953, first as [[Project Grudge]] and then as its successor, [[Project Blue Book]], inheriting the files of the earlier [[Project Sign]]. (Gerb, in [[Video - Global Air Force UFO Encounters You've Probably Never Heard of|Global Air Force UFO Encounters]], calls him the Sign, Grudge and Blue Book director.) Ruppelt is notable for identifying and categorizing significant UFO cases during the late 1940s and early 1950s, including the [[Gorman Dogfight]], which he wrote about as one of three classic UFO incidents in 1948 that "proved to Air Force intelligence specialists that UFOs were real." Critically, Ruppelt also concluded that UFOs had an "interplanetary explanation" and disclosed that programs parallel to the official investigations were conducting more complete classified investigations into the phenomenon.
+Captain Edward J. Ruppelt headed the US Air Force's official UFO investigation from 1951 to 1953, first as [[Project Grudge]] and then as its successor, [[Project Blue Book]], inheriting the files of the earlier [[Project Sign]]. (Gerb, in [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters]], calls him the Sign, Grudge and Blue Book director.) Ruppelt is notable for identifying and categorizing significant UFO cases during the late 1940s and early 1950s, including the [[Gorman Dogfight]], which he wrote about as one of three classic UFO incidents in 1948 that "proved to Air Force intelligence specialists that UFOs were real." Critically, Ruppelt also concluded that UFOs had an "interplanetary explanation" and disclosed that programs parallel to the official investigations were conducting more complete classified investigations into the phenomenon.
 
 ## Role in UFO Investigation Programs
 
@@ -30,7 +30,7 @@ Ruppelt specifically highlighted the October 1, 1948 [[Gorman Dogfight]] over [[
 
 ## Sources
 
-- [[Video - MOON DUST - The Pentagon's Secret UFO Programs]]
-- [[Video - Global Air Force UFO Encounters You've Probably Never Heard of]]
-- [[Video - The Origin of the UFO Stigma]]
-- [[Video - UFOs in the Private Sector - Battelle Memorial Institute]]
+- [[Videos/MOON DUST - The Pentagon's Secret UFO Programs/summary|MOON DUST - The Pentagon's Secret UFO Programs]]
+- [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters You've Probably Never Heard of]]
+- [[Videos/The Origin of the UFO Stigma/summary|The Origin of the UFO Stigma]]
+- [[Videos/UFOs in the Private Sector - Battelle Memorial Institute/summary|UFOs in the Private Sector - Battelle Memorial Institute]]

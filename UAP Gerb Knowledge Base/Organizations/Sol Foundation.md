@@ -26,5 +26,5 @@ The Sol Foundation represents an effort to bring rigorous academic standards and
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - METAPOD]]
-- [[Video - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure]]
+- [[Videos/Incredible UFO Footage - METAPOD/summary|Incredible UFO Footage - METAPOD]]
+- [[Videos/SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure/summary|SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure]]

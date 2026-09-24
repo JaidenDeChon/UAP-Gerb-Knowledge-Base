@@ -13,4 +13,4 @@ During the [[Manises UFO Incident]] of 11–12 November 1979, Mirage F1 pilot [[
 
 ## Sources
 
-- [[Video - The First Commercial Flight Grounded Due to UFOs]]
+- [[Videos/The First Commercial Flight Grounded Due to UFOs/summary|The First Commercial Flight Grounded Due to UFOs]]

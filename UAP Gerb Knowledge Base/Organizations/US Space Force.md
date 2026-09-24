@@ -25,4 +25,4 @@ Space Force, [[NORAD]], and the [[Department of Defense]] use the technical desi
 
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]

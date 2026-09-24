@@ -17,5 +17,5 @@ UAP Gerb theorizes that witness [[MS (Dugway Witness)|MS]] stumbled onto a legac
 
 ## Sources
 
-- [[Video - Dugway Proving Ground - UFO Legacy Programs]]
-- [[Video - The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
+- [[Videos/Dugway Proving Ground - UFO Legacy Programs/summary|Dugway Proving Ground - UFO Legacy Programs]]
+- [[Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/summary|The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]

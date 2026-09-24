@@ -14,8 +14,8 @@ Born in New Haven, Connecticut, Page took a physics degree at Yale in 1934 and a
 
 ## The Robertson Panel admission
 
-According to the UAP Gerb video [[Video - The Origin of the UFO Stigma|The Origin of the UFO Stigma]], Page later admitted that the panel's chairman, [[Howard P. Robertson]], told members before the formal sessions began to debunk every UFO report put before them and to "reduce public concern". Gerb dates the admission to 3 October 1993 and presents it, alongside [[J. Allen Hynek]]'s description of the "unwritten law of the Air Force", as proof that the panel's findings were predetermined and that the panel was a founding instrument of the [[UFO Stigma]].
+According to the UAP Gerb video [[Videos/The Origin of the UFO Stigma/summary|The Origin of the UFO Stigma]], Page later admitted that the panel's chairman, [[Howard P. Robertson]], told members before the formal sessions began to debunk every UFO report put before them and to "reduce public concern". Gerb dates the admission to 3 October 1993 and presents it, alongside [[J. Allen Hynek]]'s description of the "unwritten law of the Air Force", as proof that the panel's findings were predetermined and that the panel was a founding instrument of the [[UFO Stigma]].
 
 ## Sources
 
-- [[Video - The Origin of the UFO Stigma]]
+- [[Videos/The Origin of the UFO Stigma/summary|The Origin of the UFO Stigma]]

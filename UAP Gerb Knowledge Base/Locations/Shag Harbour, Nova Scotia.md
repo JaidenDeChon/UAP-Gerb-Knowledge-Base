@@ -18,4 +18,4 @@ Shag Harbour is geographically proximate to [[Shelburne Harbor, Nova Scotia]] â€
 
 ## Sources
 
-- [[Video - USO - Unidentified Submerged Objects]]
+- [[Videos/USO - Unidentified Submerged Objects/summary|USO - Unidentified Submerged Objects]]

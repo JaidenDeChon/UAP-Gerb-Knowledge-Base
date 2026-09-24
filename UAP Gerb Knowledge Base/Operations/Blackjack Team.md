@@ -21,5 +21,5 @@ The only other "Blackjack" UAP Gerb found is a DARPA program of the late 2010s a
 
 ## Sources
 
-- [[Video - UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2]]
-- [[Video - US Navy UFO Crash Retrieval & Reverse Engineering Programs]]
+- [[Videos/UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2/summary|UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2]]
+- [[Videos/US Navy UFO Crash Retrieval & Reverse Engineering Programs/summary|US Navy UFO Crash Retrieval & Reverse Engineering Programs]]

@@ -9,7 +9,7 @@ The La Joya Airbase UFO Intercept took place early on April 11, 1980, over Arequ
 
 ## The Engagement
 
-As Gerb recounts it in [[Video - Global Air Force UFO Encounters You've Probably Never Heard of|Global Air Force UFO Encounters You've Probably Never Heard of]]:
+As Gerb recounts it in [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters You've Probably Never Heard of]]:
 
 - **Scramble.** Santa María is ordered up to intercept the object, which he describes as "in restricted airspace without authorization, representing a grave challenge to national sovereignty". Peru is on alert for espionage.
 - **Attack run.** He climbs to 2,500 metres and, assuming a balloon, fires 64 30mm shells, "a cone-shaped wall of fire that would normally obliterate anything in its path". The barrage has no effect.
@@ -32,4 +32,4 @@ Gerb ranks the La Joya intercept, with the [[Gorman Dogfight]], as the most comp
 
 ## Sources
 
-- [[Video - Global Air Force UFO Encounters You've Probably Never Heard of]]
+- [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters You've Probably Never Heard of]]

@@ -21,7 +21,7 @@ These elements are presented as recurring operational patterns rather than isola
 
 The concept is often connected to alleged long-running legacy programs in both government and defense-industry settings. Different videos in this knowledge base describe similar mechanisms under varying institutional labels, including historical analogs and modern special-access structures.
 
-In [[Video - The 1933 Magenta, Italy UFO Crash]], crash retrieval is applied to the reported June 1933 incident in Italy, with [[RS-33 (Gabinetto RS 33)]] framed as the state body that managed response and secrecy.
+In [[Videos/The 1933 Magenta, Italy UFO Crash/summary|The 1933 Magenta, Italy UFO Crash]], crash retrieval is applied to the reported June 1933 incident in Italy, with [[RS-33 (Gabinetto RS 33)]] framed as the state body that managed response and secrecy.
 
 ## Analytical Caution
 
@@ -29,4 +29,4 @@ In [[Video - The 1933 Magenta, Italy UFO Crash]], crash retrieval is applied to 
 
 ## Sources
 
-- [[Video - The 1933 Magenta, Italy UFO Crash]]
+- [[Videos/The 1933 Magenta, Italy UFO Crash/summary|The 1933 Magenta, Italy UFO Crash]]

@@ -20,5 +20,5 @@ Rich served as Skunk Works director from 1975 to 1991, overseeing programs inclu
 
 ## Sources
 
-- [[Video - UFOs in the Private Sector - Lockheed Martin]]
-- [[Video - Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
+- [[Videos/UFOs in the Private Sector - Lockheed Martin/summary|UFOs in the Private Sector - Lockheed Martin]]
+- [[Videos/Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/summary|Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]

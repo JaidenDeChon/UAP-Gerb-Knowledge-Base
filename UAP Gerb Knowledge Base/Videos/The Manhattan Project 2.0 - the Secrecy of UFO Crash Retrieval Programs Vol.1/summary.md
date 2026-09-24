@@ -47,7 +47,7 @@ The video frames the whole apparatus with the [[Legacy Program Onion Model|onion
 
 The second half follows the Manhattan Project 2.0 through the Cold War. Eisenhower's EO 10501 opened a "wild wild west" of ad hoc top secret codeword access; Nixon's EO 11652 formalized [[Special Access Programs (SAPs)|special access programs]]; and in the early 1980s Reagan's EO 12356, the [[Yellow Fruit]] audit and a series of near-exposures brought on what Gerb calls the "great schism." The programs cut themselves into pieces and hid in cover offices, a process he says was completed in 1994, when [[Bill Perry]]'s reorganization of SAP oversight handed control to a quasi-government and industry group of just over two dozen people. [[Dick Cheney]] is named as the last man to hold the fragments together, until 2009.
 
-Part One covers roughly 1943 to 1994. [[Video - Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2|Part Two]] takes up the modern era: the SAP framework in detail, program protection agencies, funding mechanisms and disinformation.
+Part One covers roughly 1943 to 1994. [[Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/summary|Part Two]] takes up the modern era: the SAP framework in detail, program protection agencies, funding mechanisms and disinformation.
 
 ## Chronology
 

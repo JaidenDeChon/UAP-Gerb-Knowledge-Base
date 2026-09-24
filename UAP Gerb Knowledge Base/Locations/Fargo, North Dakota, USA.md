@@ -20,4 +20,4 @@ The Gorman Dogfight was designated by Captain Edward J. Ruppelt, director of Pro
 
 ## Sources
 
-- [[Video - Global Air Force UFO Encounters You've Probably Never Heard of]]
+- [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters You've Probably Never Heard of]]

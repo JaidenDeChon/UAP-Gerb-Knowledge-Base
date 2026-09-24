@@ -57,6 +57,6 @@ Together, these efforts represent an emerging network of credentialed researcher
 
 ## Sources
 
-- [[Video - The Physics of UFOs– Dr. Kevin Knuth]]
+- [[Videos/The Physics of UFOs– Dr. Kevin Knuth/summary|The Physics of UFOs– Dr. Kevin Knuth]]
 - Galileo Project official announcements and publications
 - Avi Loeb public statements and media appearances

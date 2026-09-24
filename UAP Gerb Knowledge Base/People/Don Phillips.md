@@ -22,4 +22,4 @@ UAP Gerb rates Phillips as the least credible of the principal Lockheed-connecte
 
 ## Sources
 
-- [[Video - UFOs in the Private Sector - Lockheed Martin]]
+- [[Videos/UFOs in the Private Sector - Lockheed Martin/summary|UFOs in the Private Sector - Lockheed Martin]]

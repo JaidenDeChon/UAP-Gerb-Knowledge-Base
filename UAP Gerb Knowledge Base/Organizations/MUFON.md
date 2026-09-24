@@ -23,4 +23,4 @@ In 1992, a witness came forward to MUFON reporting that in the late 1950s, while
 
 ## Sources
 
-- [[Video - UFOs in the Private Sector - Battelle Memorial Institute]]
+- [[Videos/UFOs in the Private Sector - Battelle Memorial Institute/summary|UFOs in the Private Sector - Battelle Memorial Institute]]

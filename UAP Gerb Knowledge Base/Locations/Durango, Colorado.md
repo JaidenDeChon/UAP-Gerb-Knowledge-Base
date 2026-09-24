@@ -9,7 +9,7 @@ Durango is a city in La Plata County, in the southwestern corner of Colorado, si
 
 ## Role in the Aztec Case
 
-According to accounts examined in [[Video - The 1948 Aztec, New Mexico UFO Crash Retrieval]], Air Force officials responded to the March 25, 1948 crash of a large disc-shaped craft at Hart Canyon Road near Aztec by dispatching personnel southward from Durango toward the recovery site. The city's geographic position — the nearest significant populated center to Aztec from the north — made it a logical staging or departure point for a rapid official response.
+According to accounts examined in [[Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/summary|The 1948 Aztec, New Mexico UFO Crash Retrieval]], Air Force officials responded to the March 25, 1948 crash of a large disc-shaped craft at Hart Canyon Road near Aztec by dispatching personnel southward from Durango toward the recovery site. The city's geographic position — the nearest significant populated center to Aztec from the north — made it a logical staging or departure point for a rapid official response.
 
 The civilian witnesses first on scene, including oil worker [[Doug Noland]] and rancher [[Valentine Archuleta]], described military personnel as arriving quickly, assembling all witnesses for debriefing, and ordering them under national security directives never to speak of the event. The speed and apparent pre-positioning of military responders has been noted by UAP Gerb as consistent with either early foreknowledge of the craft's distress — Archuleta described the disc as wobbly and fluttering like a leaf as it passed within 200 yards of him — or with an exceptionally well-coordinated rapid response to an unusual aerial event.
 
@@ -17,4 +17,4 @@ A USAF veteran using the pseudonym George, cited in the video, claimed the Aztec
 
 ## Sources
 
-- [[Video - The 1948 Aztec, New Mexico UFO Crash Retrieval]]
+- [[Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/summary|The 1948 Aztec, New Mexico UFO Crash Retrieval]]

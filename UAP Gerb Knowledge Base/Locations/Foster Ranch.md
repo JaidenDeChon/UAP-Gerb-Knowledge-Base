@@ -12,4 +12,4 @@ Military personnel were dispatched to the ranch after Brazel reported the materi
 
 ## Sources
 
-- [[Video - UFO Whistleblowers Vol.1]]
+- [[Videos/UFO Whistleblowers Vol.1/summary|UFO Whistleblowers Vol.1]]

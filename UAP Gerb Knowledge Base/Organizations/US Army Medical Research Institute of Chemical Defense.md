@@ -14,4 +14,4 @@ The US Army Medical Research Institute of Chemical Defense (USAMRICD) is the U.S
 
 ## Sources
 
-- [[Video - Incredible UFO Footage - FLYBY]]
+- [[Videos/Incredible UFO Footage - FLYBY/summary|Incredible UFO Footage - FLYBY]]

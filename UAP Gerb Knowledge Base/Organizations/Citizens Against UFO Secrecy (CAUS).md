@@ -21,4 +21,4 @@ CAUS established the template for civilian UFO disclosure advocacy that continue
 
 ## Sources
 
-- [[Video - FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]

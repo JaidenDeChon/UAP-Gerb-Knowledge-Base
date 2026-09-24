@@ -68,4 +68,4 @@ Frank's 40+ year career arc from Army chemist at Dugway to Battelle Executive VP
 
 ## Sources
 
-- [[Video - Dugway Proving Ground - UFO Legacy Programs]]
+- [[Videos/Dugway Proving Ground - UFO Legacy Programs/summary|Dugway Proving Ground - UFO Legacy Programs]]

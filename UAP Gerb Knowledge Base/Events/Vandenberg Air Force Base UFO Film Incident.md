@@ -35,4 +35,4 @@ The Vandenberg incident is among the best-corroborated cases in the [[UFO Interf
 
 ## Sources
 
-- [[Video - UFOs and Nuclear Weapons - A Fascinating Connection]]
+- [[Videos/UFOs and Nuclear Weapons - A Fascinating Connection/summary|UFOs and Nuclear Weapons - A Fascinating Connection]]
