@@ -319,8 +319,10 @@
    ============================================================ */
 @layer base {
   * { box-sizing: border-box; }
-  html { -webkit-text-size-adjust: 100%; }
-  html, body, #__nuxt { height: 100%; }
+  /* scroll-padding keeps #hash jumps from landing under the sticky h-14
+     AppTopBar (scrollIntoView honours it). Same 56px as SCROLL_INSET_TOP. */
+  html { -webkit-text-size-adjust: 100%; scroll-padding-top: 3.5rem; }
+  html, body, #__nuxt { min-height: 100%; }
   body {
     margin: 0;
     font-family: var(--font-sans);

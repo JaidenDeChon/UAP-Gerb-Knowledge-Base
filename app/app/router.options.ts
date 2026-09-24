@@ -2,13 +2,12 @@ import type { RouterConfig } from '@nuxt/schema'
 import { markRouteArrived, onRouteArrived, scrollHashIntoView } from './composables/useScrollRestore'
 
 /**
- * The reader's content scrolls inside `<main>`, not the window (see
- * layouts/default.vue), so Vue Router's built-in scrollBehavior — which
- * always computes positions against `window`/`document.documentElement` —
- * can't restore it. This override makes the same POP/PUSH/hash decision
+ * Vue Router's built-in scrollBehavior applies a saved position once, which
+ * lands short on articles that keep growing after the route resolves (see
+ * useScrollRestore). This override makes the same POP/PUSH/hash decision
  * Vue Router already knows how to make, using `savedPosition` (non-null
  * only on a POP, i.e. browser back/forward), but hands the actual scrolling
- * off to useScrollRestore, which operates on the container directly.
+ * off to useScrollRestore, which keeps re-applying it until the page settles.
  *
  * The container's scroll is *captured* on the way out by a `router.beforeEach`
  * guard the layout registers on mount — this file only ever runs on arrival,

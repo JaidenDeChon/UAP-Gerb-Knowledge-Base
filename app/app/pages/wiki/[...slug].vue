@@ -4,7 +4,7 @@ import type { WikiPage } from '@/utils/content'
 import { ChevronRight } from '@lucide/vue'
 import { Badge } from '@/components/ui/badge'
 import { Separator } from '@/components/ui/separator'
-import { firstParagraph, hasTocRail } from '@/utils/content'
+import { firstParagraph, firstSentence, hasTocRail } from '@/utils/content'
 import { warmContentComponents } from '@/utils/warmContentComponents'
 
 definePageMeta({ key: route => route.path })
@@ -121,15 +121,18 @@ const extraTags = computed(() => Math.max(0, tags.value.length - 6))
 
 const article = computed<{ lead: string, doc: WikiPage | null }>(() => {
   if (!page.value) return { lead: '', doc: null }
-  const { lead, value } = splitLead(page.value.body, page.value.description)
+  // The video hero shows only the lead's first sentence, so a feature page
+  // keeps the whole paragraph in its body rather than losing the rest of it.
+  const { lead, value } = splitLead(page.value.body, page.value.description, { keepParagraph: isFeature.value })
   return { lead, doc: { ...page.value, body: { ...page.value.body, value } } }
 })
 
-// A video note that opens on a component block (a stat strip, say) has no
-// lead paragraph to lift out, so the hero's standfirst falls back to the
-// first paragraph wherever it sits — the same teaser the home page's
-// featured card shows for this note. The body keeps the full paragraph.
-const standfirst = computed(() => article.value.lead || firstParagraph(page.value?.body))
+// The hero's standfirst is the first sentence of the note's opening paragraph
+// — wherever it sits, since a video note can open on a component block (a stat
+// strip, say) — rather than the paragraph cut off mid-sentence with an
+// ellipsis. The body keeps the full paragraph.
+const standfirst = computed(() =>
+  firstSentence(page.value?.description?.trim() || firstParagraph(page.value?.body, Infinity)))
 
 // Video pages share their own thumbnail as the social card, not the site's.
 // (Declared after `standfirst`: unhead evaluates these getters synchronously
@@ -263,9 +266,9 @@ const articleClass = computed(() => hasRail.value
       <!-- The aside itself is the sticky element: in the rail's flex row it can
            travel the whole height of the article, where a sticky child would
            be pinned inside an aside only as tall as the rail (component-kit
-           gotcha 4b). `<main>` is the scroller, so top-0 pins it just under
-           the header. -->
-      <aside v-if="hasRail" class="hidden w-[200px] shrink-0 self-start pt-10 xl:sticky xl:top-0 xl:block">
+           gotcha 4b). The document scrolls under the h-14 header, so top-14
+           pins it just below that. -->
+      <aside v-if="hasRail" class="hidden w-[200px] shrink-0 self-start pt-10 xl:sticky xl:top-14 xl:block">
         <WikiTocRail :toc="page.body?.toc" />
       </aside>
     </div>

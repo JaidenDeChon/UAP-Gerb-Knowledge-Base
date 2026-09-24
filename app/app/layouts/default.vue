@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, onMounted, ref, watch } from 'vue'
+import { computed, onMounted, watch } from 'vue'
 
 const route = useRoute()
 const sidebarOpen = useSidebarOpen()
@@ -14,17 +14,17 @@ watch(() => route.path, () => {
   sidebarOpen.value = false
 })
 
-// The page scrolls inside <main>, not the window, so scroll
-// restoration/reset on navigation is handled through router.options.ts's
+// The document itself scrolls, not <main>: iOS only honours a tap on the
+// status bar (scroll to top) for the page's own scroller. Scroll
+// restoration/reset on navigation is still handled through router.options.ts's
 // scrollBehavior (the router's official extension point) rather than an
 // ad-hoc page:finish hook — that lets POP (back/forward) restore where the
 // reader was, while PUSH still lands at the top. This layout only hands the
-// container over to that machinery and captures its scroll on the way out
+// scroller over to that machinery and captures its scroll on the way out
 // of each route, since router.options.ts has no "leaving" hook of its own.
-const mainRef = ref<HTMLElement | null>(null)
 const router = useRouter()
 onMounted(() => {
-  registerScrollContainer(mainRef.value)
+  registerScrollContainer(document.scrollingElement as HTMLElement | null)
 })
 router.beforeEach((to, from) => {
   // A same-path replace (the timeline syncing its filters to the query) isn't
@@ -36,17 +36,20 @@ router.beforeEach((to, from) => {
 </script>
 
 <template>
-  <div class="flex h-screen overflow-hidden bg-background">
+  <!-- The sidebar and top bar pin themselves with sticky while the document
+       scrolls beneath them. -->
+  <div class="flex min-h-dvh bg-background">
     <AppSidebar class="ufo-sidebar" :class="{ 'is-open': sidebarOpen }" />
     <div v-if="sidebarOpen" class="ufo-scrim" @click="sidebarOpen = false" />
 
     <div class="relative flex min-w-0 flex-1 flex-col">
       <AppTopBar />
 
+      <!-- The map fills exactly the viewport below the h-14 top bar, so the
+           document has nothing to scroll there. -->
       <main
-        ref="mainRef"
-        class="relative min-h-0 flex-1"
-        :class="isMap ? 'overflow-hidden' : 'overflow-y-auto'"
+        class="relative"
+        :class="isMap ? 'h-[calc(100dvh-3.5rem)] overflow-hidden' : 'flex-1'"
       >
         <!-- Hidden while the page loads (main.css, "The page loader"). Not
              positioned, so a page's absolutely placed content (the graph at
@@ -101,6 +104,11 @@ router.beforeEach((to, from) => {
 }
 
 @media (min-width: 901px) {
+  .ufo-sidebar {
+    position: sticky;
+    top: 0;
+    height: 100dvh;
+  }
   .ufo-scrim {
     display: none;
   }

@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { hasTocRail, splitAtFirstH2, tocLinks } from './content'
+import { firstSentence, hasTocRail, splitAtFirstH2, splitLead, tocLinks } from './content'
 
 const h1 = ['h1', {}, 'Title']
 const p = ['p', {}, 'Intro']
@@ -46,5 +46,34 @@ describe('tocLinks', () => {
   it('survives an empty or missing toc', () => {
     expect(tocLinks(undefined)).toEqual([])
     expect(hasTocRail(null)).toBe(false)
+  })
+})
+
+describe('firstSentence', () => {
+  it('stops at the first sentence break', () => {
+    expect(firstSentence('This video covers Roswell. It then turns to Aztec.')).toBe('This video covers Roswell.')
+  })
+
+  it('does not break after titles, initials or dotted acronyms', () => {
+    expect(firstSentence('Dr. Robert Sarbacher met J. Allen Hynek at a U.S. Navy lab. Later, more.'))
+      .toBe('Dr. Robert Sarbacher met J. Allen Hynek at a U.S. Navy lab.')
+  })
+
+  it('keeps a closing quote with its sentence', () => {
+    expect(firstSentence('He said "it was not ours." Nobody believed him.')).toBe('He said "it was not ours."')
+  })
+
+  it('returns the whole text when there is no break', () => {
+    expect(firstSentence('A single run-on sentence with no end')).toBe('A single run-on sentence with no end')
+  })
+})
+
+describe('splitLead', () => {
+  it('drops the lead paragraph from the body by default', () => {
+    expect(splitLead({ value: [h1, p, h2] })).toEqual({ lead: 'Intro', value: [h2] })
+  })
+
+  it('keeps the lead paragraph in the body when asked', () => {
+    expect(splitLead({ value: [h1, p, h2] }, 'Intro', { keepParagraph: true })).toEqual({ lead: 'Intro', value: [p, h2] })
   })
 })

@@ -2,7 +2,7 @@
 import type { AxisTick, EraBand, TimeScale } from '@/utils/timeline'
 import { Crosshair, Info, Radio, SlidersHorizontal } from '@lucide/vue'
 import { Popover, PopoverContent, PopoverTrigger } from '@/components/ui/popover'
-import { getScrollContainer } from '@/composables/useScrollRestore'
+import { SCROLL_INSET_TOP } from '@/composables/useScrollRestore'
 
 /**
  * The timeline's pinned instrument (auto-imported as `WikiTimelineChronometer`
@@ -99,11 +99,9 @@ onMounted(() => {
   if (!mark || typeof IntersectionObserver === 'undefined') return
   // The chronometer renders straight into the timeline's root element.
   const block = mark.parentElement
-  // Observe against the scrolling <main>, not the viewport: <main> starts
-  // below the 56px top bar and clips the sentinel at its own edge, so a
-  // viewport-rooted observer would see the sentinel leave at top ≈ 55px and
-  // conclude "not pinned" for a slow scroll while a fast one crossed 0.
-  const root = getScrollContainer() ?? mark.closest('main') ?? null
+  // Observe against the viewport minus the top bar the document scrolls
+  // under: the bar pins at SCROLL_INSET_TOP, so that line — not the
+  // viewport's own top edge — is where the sentinel counts as having left.
   let sentinelAbove = false
   let blockOnScreen = true
   observer = new IntersectionObserver((entries) => {
@@ -117,7 +115,7 @@ onMounted(() => {
       }
     }
     pinned.value = sentinelAbove && blockOnScreen
-  }, { root, threshold: 0 })
+  }, { rootMargin: `-${SCROLL_INSET_TOP}px 0px 0px 0px`, threshold: 0 })
   observer.observe(mark)
   if (block) observer.observe(block)
 })
@@ -279,7 +277,7 @@ function bandLabelFits(band: EraBand): boolean {
 }
 
 const kicker = computed(() => (props.eraOrdinal > 0 && props.eraCount > 0
-  ? `Era ${String(props.eraOrdinal).padStart(2, '0')} / ${String(props.eraCount).padStart(2, '0')}`
+  ? `Era ${String(props.eraOrdinal).padStart(2, '0')}/${String(props.eraCount).padStart(2, '0')}`
   : ''))
 </script>
 
@@ -300,10 +298,12 @@ const kicker = computed(() => (props.eraOrdinal > 0 && props.eraCount > 0
         <span class="ufo-chrono-year-digits">{{ year ?? '—' }}</span>
       </div>
 
+      <!-- Label, range and era ordinal ride one line, separated by bullets, so
+           the chronometer keeps the vertical space for the ruler below it. -->
       <div class="ufo-chrono-era">
-        <span v-if="kicker" class="ufo-chrono-kicker">{{ kicker }}</span>
         <span class="ufo-chrono-era-label">{{ eraLabel }}</span>
         <span v-if="eraRange" class="ufo-chrono-era-range">{{ eraRange }}</span>
+        <span v-if="kicker" class="ufo-chrono-kicker">{{ kicker }}</span>
       </div>
 
       <div v-if="hasVideo" class="ufo-chrono-now">
@@ -466,7 +466,9 @@ const kicker = computed(() => (props.eraOrdinal > 0 && props.eraCount > 0
    inline negative margin lets it bleed to the article's gutters. */
 .ufo-chrono {
   position: sticky;
-  top: 0;
+  /* SCROLL_INSET_TOP: pin under the sticky h-14 top bar, which the document
+     scrolls beneath. */
+  top: 56px;
   z-index: 10;
   margin-inline: -16px;
   padding: 8px 16px 6px;
@@ -506,8 +508,13 @@ const kicker = computed(() => (props.eraOrdinal > 0 && props.eraCount > 0
 .ufo-chrono-era {
   display: flex;
   min-width: 0;
-  flex-direction: column;
-  gap: 1px;
+  align-items: baseline;
+  gap: 7px;
+}
+.ufo-chrono-era > span + span::before {
+  content: '\2022';
+  margin-right: 7px;
+  color: hsl(var(--muted-foreground) / 0.6);
 }
 .ufo-chrono-kicker,
 .ufo-chrono-era-range {
@@ -518,8 +525,10 @@ const kicker = computed(() => (props.eraOrdinal > 0 && props.eraCount > 0
   text-transform: uppercase;
   color: hsl(var(--muted-foreground));
   white-space: nowrap;
+  flex: none;
 }
 .ufo-chrono-era-label {
+  min-width: 0;
   font-family: var(--font-display);
   font-size: 15px;
   font-weight: 600;
