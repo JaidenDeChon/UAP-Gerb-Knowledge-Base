@@ -226,7 +226,9 @@ export type BakedGeo = Record<number, [number, number]>
 /**
  * The Location notes as the `/world` page needs them. `placed` holds each
  * one with coordinates (its `GraphNode.i`, its `location_type` or `''`, and
- * the continent it's on); `unplaced` the indices of those without.
+ * the continent it's on); `unplaced` the indices of those without. Only
+ * `placed` is served; `unplaced` is how wiki/places.test.ts checks that
+ * every Location is either on the map or knowingly left off it.
  */
 export interface BakedPlaces {
   placed: { i: number, t: string, k: WorldContinent }[]
@@ -257,8 +259,6 @@ export interface WorldPlace {
 
 export interface WorldPlaces {
   places: WorldPlace[]
-  /** Locations with no coordinates, so the page can say which are missing. */
-  unplaced: { path: string, name: string }[]
 }
 
 /** Sparse node index -> portrait. */
