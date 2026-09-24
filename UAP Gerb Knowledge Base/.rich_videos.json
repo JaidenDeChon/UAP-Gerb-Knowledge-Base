@@ -694,5 +694,19 @@
     ],
     "cues": "verified",
     "retrofit_sweep": "2026-09-23"
+  },
+  "tISTJRPOqFo": {
+    "title": "UFOs in the Private Sector - Battelle Memorial Institute",
+    "published": "2024-02-19",
+    "enriched_at": "2026-09-24T00:11:47Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-chain",
+      "wiki-claim",
+      "wiki-roster"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
   }
 }

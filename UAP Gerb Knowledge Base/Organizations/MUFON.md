@@ -19,7 +19,7 @@ In 1973, MUFON investigator [[Bill Case]] led the organization's investigation i
 
 ## Ohio UFO Crash Connection — EJ Center Report
 
-In 1992, a witness came forward to MUFON reporting that in the late 1950s, while dating the daughter of [[EJ Center]] — a senior chemical engineer at [[Battelle Memorial Institute]] — Center told him he had been "responsible for a project which required him to study Parts retrieved from a flying saucer." Dr. [[Irene Scott]], a MUFON board of directors member based in Ohio, documented this account in the 1994 MUFON UFO Journal article "The Ohio UFO Crash Connection and Other Stories," under the subsection "Decoding the I-Beam." The account is significant because Center's private disclosure predates by more than fifteen years the 2010 declassification of his actual 1949 Battelle contract work on [[Nitinol (Nickel-Titanium Alloy)]] for [[Wright-Patterson Air Force Base]].
+In 1992, a witness came forward to MUFON reporting that in the late 1950s, while dating the daughter of [[EJ Center]] — a senior chemical engineer at [[Battelle Memorial Institute]] — Center told him he had been "responsible for a project which required him to study Parts retrieved from a flying saucer." Dr. [[Irena Scott]], a MUFON board of directors member based in Ohio, documented this account in the 1994 Ohio UFO Notebook article "The Ohio UFO Crash Connection and Other Stories," under the subsection "Decoding the I-Beam." The account is significant because Center's private disclosure predates by more than fifteen years the 2010 declassification of his actual 1949 Battelle contract work on [[Nitinol (Nickel-Titanium Alloy)]] for [[Wright-Patterson Air Force Base]].
 
 ## Sources
 
