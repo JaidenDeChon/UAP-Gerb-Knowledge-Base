@@ -2,7 +2,7 @@
 import type { AxisTick, EraBand, TimeScale } from '@/utils/timeline'
 import { Crosshair, Info, Radio, SlidersHorizontal } from '@lucide/vue'
 import { Popover, PopoverContent, PopoverTrigger } from '@/components/ui/popover'
-import { getScrollContainer } from '@/composables/useScrollRestore'
+import { SCROLL_INSET_TOP } from '@/composables/useScrollRestore'
 
 /**
  * The timeline's pinned instrument (auto-imported as `WikiTimelineChronometer`
@@ -99,11 +99,9 @@ onMounted(() => {
   if (!mark || typeof IntersectionObserver === 'undefined') return
   // The chronometer renders straight into the timeline's root element.
   const block = mark.parentElement
-  // Observe against the scrolling <main>, not the viewport: <main> starts
-  // below the 56px top bar and clips the sentinel at its own edge, so a
-  // viewport-rooted observer would see the sentinel leave at top ≈ 55px and
-  // conclude "not pinned" for a slow scroll while a fast one crossed 0.
-  const root = getScrollContainer() ?? mark.closest('main') ?? null
+  // Observe against the viewport minus the top bar the document scrolls
+  // under: the bar pins at SCROLL_INSET_TOP, so that line — not the
+  // viewport's own top edge — is where the sentinel counts as having left.
   let sentinelAbove = false
   let blockOnScreen = true
   observer = new IntersectionObserver((entries) => {
@@ -117,7 +115,7 @@ onMounted(() => {
       }
     }
     pinned.value = sentinelAbove && blockOnScreen
-  }, { root, threshold: 0 })
+  }, { rootMargin: `-${SCROLL_INSET_TOP}px 0px 0px 0px`, threshold: 0 })
   observer.observe(mark)
   if (block) observer.observe(block)
 })
@@ -468,7 +466,9 @@ const kicker = computed(() => (props.eraOrdinal > 0 && props.eraCount > 0
    inline negative margin lets it bleed to the article's gutters. */
 .ufo-chrono {
   position: sticky;
-  top: 0;
+  /* SCROLL_INSET_TOP: pin under the sticky h-14 top bar, which the document
+     scrolls beneath. */
+  top: 56px;
   z-index: 10;
   margin-inline: -16px;
   padding: 8px 16px 6px;

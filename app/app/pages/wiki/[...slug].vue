@@ -258,9 +258,9 @@ const articleClass = computed(() => hasRail.value
       <!-- The aside itself is the sticky element: in the rail's flex row it can
            travel the whole height of the article, where a sticky child would
            be pinned inside an aside only as tall as the rail (component-kit
-           gotcha 4b). `<main>` is the scroller, so top-0 pins it just under
-           the header. -->
-      <aside v-if="hasRail" class="hidden w-[200px] shrink-0 self-start pt-10 xl:sticky xl:top-0 xl:block">
+           gotcha 4b). The document scrolls under the h-14 header, so top-14
+           pins it just below that. -->
+      <aside v-if="hasRail" class="hidden w-[200px] shrink-0 self-start pt-10 xl:sticky xl:top-14 xl:block">
         <WikiTocRail :toc="page.body?.toc" />
       </aside>
     </div>

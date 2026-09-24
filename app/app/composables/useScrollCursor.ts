@@ -1,13 +1,13 @@
 import type { Ref } from 'vue'
 import { cursorFor } from '@/utils/timeline'
-import { getScrollContainer } from '@/composables/useScrollRestore'
+import { getScrollContainer, SCROLL_INSET_TOP } from '@/composables/useScrollRestore'
 
 export interface ScrollCursorOptions {
   /** CSS selector for the entries inside `listRoot`, in reading order. */
   itemSelector: string
-  /** Where the "reading line" sits, as a fraction of the scroll container's height. */
+  /** Where the "reading line" sits, as a fraction of the visible area below the top bar. */
   readingLine?: number
-  /** Extra offset (px) to leave above an entry when scrolling to it — the pinned chronometer's height. */
+  /** Extra offset (px) to leave above an entry when scrolling to it, below the top bar — the pinned chronometer's height. */
   stickyOffset?: () => number
 }
 
@@ -16,7 +16,7 @@ export interface ScrollCursorOptions {
  *
  * Entry offsets are measured in a single batched read (on mount, on resize
  * of the list, and on demand via `refresh()`), never inside the scroll
- * handler. The container's `scroll` event — passive — schedules one rAF that
+ * handler. The document's `scroll` event — passive — schedules one rAF that
  * does arithmetic on those cached numbers: which entry sits at the reading
  * line, how far the line has travelled toward the next one, and how far
  * through the whole list the reader is. Consumers draw from `index`, `t`
@@ -70,10 +70,16 @@ export function useScrollCursor(listRoot: Ref<HTMLElement | null>, opts: ScrollC
     compute()
   }
 
+  /** The reading line's distance below the scroller's top edge. */
+  function lineOffset(): number {
+    if (!container) return 0
+    return SCROLL_INSET_TOP + (container.clientHeight - SCROLL_INSET_TOP) * readingLine
+  }
+
   function compute(): void {
     frame = 0
     if (!container) return
-    const y = container.scrollTop + container.clientHeight * readingLine
+    const y = container.scrollTop + lineOffset()
     lineY.value = y
     const cursor = cursorFor(y, offsets)
     if (cursor.index !== index.value) index.value = cursor.index
@@ -124,7 +130,7 @@ export function useScrollCursor(listRoot: Ref<HTMLElement | null>, opts: ScrollC
     if (!container) return
     const top = offsets[i]
     if (top === undefined) return
-    const target = Math.max(0, top - (opts.stickyOffset?.() ?? 0) - 12)
+    const target = Math.max(0, top - SCROLL_INSET_TOP - (opts.stickyOffset?.() ?? 0) - 12)
     const distance = Math.abs(target - container.scrollTop)
     programmatic = true
     clearTimeout(programmaticTimer)
@@ -144,7 +150,7 @@ export function useScrollCursor(listRoot: Ref<HTMLElement | null>, opts: ScrollC
     if (here === undefined) return
     const next = offsets[i + 1] ?? here
     const y = here + (next - here) * Math.min(1, Math.max(0, t))
-    container.scrollTop = Math.max(0, y - container.clientHeight * readingLine)
+    container.scrollTop = Math.max(0, y - lineOffset())
   }
 
   const SCROLL_KEYS = new Set(['ArrowUp', 'ArrowDown', 'PageUp', 'PageDown', 'Home', 'End', ' '])
@@ -170,12 +176,14 @@ export function useScrollCursor(listRoot: Ref<HTMLElement | null>, opts: ScrollC
   }
 
   onMounted(() => {
-    container = getScrollContainer() ?? listRoot.value?.closest('main') ?? null
+    container = getScrollContainer()
     if (!container) return
-    container.addEventListener('scroll', onScroll, { passive: true })
-    container.addEventListener('scrollend', onScrollEnd)
-    container.addEventListener('wheel', emitUserScroll, { passive: true })
-    container.addEventListener('touchmove', emitUserScroll, { passive: true })
+    // The document scroller's scroll events, and the wheel/touch input that
+    // drives it, all arrive at the window.
+    window.addEventListener('scroll', onScroll, { passive: true })
+    window.addEventListener('scrollend', onScrollEnd)
+    window.addEventListener('wheel', emitUserScroll, { passive: true })
+    window.addEventListener('touchmove', emitUserScroll, { passive: true })
     window.addEventListener('keydown', onKeydown)
     window.addEventListener('resize', refresh)
     if (typeof ResizeObserver !== 'undefined' && listRoot.value) {
@@ -186,11 +194,11 @@ export function useScrollCursor(listRoot: Ref<HTMLElement | null>, opts: ScrollC
   })
 
   onBeforeUnmount(() => {
-    container?.removeEventListener('scroll', onScroll)
-    container?.removeEventListener('scrollend', onScrollEnd)
+    window.removeEventListener('scroll', onScroll)
+    window.removeEventListener('scrollend', onScrollEnd)
     clearTimeout(programmaticTimer)
-    container?.removeEventListener('wheel', emitUserScroll)
-    container?.removeEventListener('touchmove', emitUserScroll)
+    window.removeEventListener('wheel', emitUserScroll)
+    window.removeEventListener('touchmove', emitUserScroll)
     window.removeEventListener('keydown', onKeydown)
     window.removeEventListener('resize', refresh)
     resizeObserver?.disconnect()

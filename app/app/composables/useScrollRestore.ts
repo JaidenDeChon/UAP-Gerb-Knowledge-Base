@@ -1,9 +1,9 @@
 /**
- * Scroll-position bookkeeping for the reader's `<main>` container.
+ * Scroll-position bookkeeping for the reader's scroller — the document itself
+ * (`document.scrollingElement`, handed over by layouts/default.vue).
  *
- * The page scrolls inside `<main>` (see layouts/default.vue), not the
- * window, so Vue Router's built-in scroll restoration — which only ever
- * targets `window`/`document.documentElement` — can't reach it. The
+ * Vue Router's built-in restoration would target the same element, but it
+ * applies a saved offset once, and that isn't enough here (see below). The
  * POP/PUSH/hash *decision* still comes from the router (app/router.options.ts's
  * `scrollBehavior`, which knows `savedPosition` is non-null only on a POP);
  * this module just holds the state that decision needs: where the
@@ -23,7 +23,7 @@
  * Two things make a plain `scrollTop = saved` unreliable, both hit on Safari:
  *
  * - Articles render their body after the route resolves (behind the loader),
- *   so on arrival `<main>` is still short and the browser clamps the saved
+ *   so on arrival the page is still short and the browser clamps the saved
  *   offset to the top. `restoreTo` keeps reapplying the target while the
  *   page grows and settles, and backs off the moment the reader scrolls.
  * - Safari often skips its back/forward cache for this app and reloads the
@@ -157,14 +157,23 @@ export function registerScrollContainer(el: HTMLElement | null): void {
 }
 
 /**
- * The registered scrolling element (`<main>`), for components that need to
- * listen to or drive the reader's scroll — the timeline's reading cursor, the
- * article progress bar. Null on the server and before the layout mounts;
- * callers should fall back to `el.closest('main')` or do nothing.
+ * The scrolling element (the document's), for components that need to read
+ * or drive the reader's scroll — the timeline's reading cursor, the article
+ * progress bar. Null only on the server. Being the document scroller, its
+ * `scroll` and `scrollend` events fire on `window`, not on the element.
  */
 export function getScrollContainer(): HTMLElement | null {
-  return container
+  if (container) return container
+  return typeof document === 'undefined' ? null : document.scrollingElement as HTMLElement | null
 }
+
+/**
+ * How much of the top of the scroller sits under the sticky h-14 AppTopBar.
+ * Content scrolls beneath it, so the reader's visible area starts this far
+ * down — sticky offsets, reading lines and scroll targets all allow for it.
+ * Matches `scroll-padding-top` on <html> in main.css.
+ */
+export const SCROLL_INSET_TOP = 56
 
 /**
  * Registered by the layout as a `router.beforeEach` guard: snapshot the

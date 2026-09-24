@@ -2,7 +2,7 @@
 import { getScrollContainer } from '@/composables/useScrollRestore'
 
 /**
- * A 2px reading-progress line pinned to the top of the scrolling `<main>`.
+ * A 2px reading-progress line pinned just under the top bar.
  * Progress is the container's scrollTop over its scrollable range, updated
  * at most once per frame from a passive scroll listener. Purely
  * informational, so it stays under `prefers-reduced-motion` — nothing here
@@ -29,14 +29,14 @@ function onScroll(): void {
 }
 
 onMounted(() => {
-  container = getScrollContainer() ?? root.value?.closest('main') ?? null
+  container = getScrollContainer()
   if (!container) return
-  container.addEventListener('scroll', onScroll, { passive: true })
+  window.addEventListener('scroll', onScroll, { passive: true })
   window.addEventListener('resize', onScroll)
   measure()
 })
 onBeforeUnmount(() => {
-  container?.removeEventListener('scroll', onScroll)
+  window.removeEventListener('scroll', onScroll)
   window.removeEventListener('resize', onScroll)
   if (frame) cancelAnimationFrame(frame)
 })
@@ -51,7 +51,8 @@ onBeforeUnmount(() => {
 <style scoped>
 .ufo-progress {
   position: sticky;
-  top: 0;
+  /* SCROLL_INSET_TOP: the document scrolls under the sticky h-14 top bar. */
+  top: 56px;
   /* Above the timeline's sticky axis (10), below the top bar and dock (40). */
   z-index: 30;
   height: 0;
