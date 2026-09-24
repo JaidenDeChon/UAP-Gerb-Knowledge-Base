@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Karl Nell is a retired United States Army Colonel and former DIA Technical Intelligence Operations Officer who has emerged as one of the most significant credentialed figures in the contemporary UAP disclosure movement. He served as Deputy Chief Technology Officer at [[Northrop Grumman]] and later as a Colonel in Army Futures Command. Nell is identified as one of the 40 firsthand witness whistleblowers whose accounts formed the basis for [[David Grusch]]'s 2023 congressional testimony about a secret military program involving non-human craft and remains.
+Karl Nell is a retired United States Army Colonel and former DIA Technical Intelligence Operations Officer who has emerged as one of the most significant credentialed figures in the contemporary UAP disclosure movement. He served as Deputy Chief Technology Officer at [[Northrop Grumman]], was the Army's representative to the [[UAP Task Force]], where he worked with [[David Grusch]], and later advised Army Futures Command. Nell is identified as one of the 40 firsthand witness whistleblowers whose accounts formed the basis for [[David Grusch]]'s 2023 congressional testimony about a secret military program involving non-human craft and remains.
 
 ## Military Career
 
@@ -15,15 +15,16 @@ Nell's service record establishes him as a senior military intelligence and fore
 - **First DIA Directorate Representative** deployed for multi-agency planning of **Operation Iraqi Freedom**
 - **CJ2 (Senior Intelligence Officer)** for the Combined Joint Captured Material Exploitation Center in Iraq — a one-star center responsible for exploiting captured enemy materials
 - **Foreign Materials Program Command Representative** to US CENTCOM CFLCC in Kuwait during Operation Iraqi Freedom
-- Later served as a **Colonel in Army Futures Command**
+- Army representative to the **[[UAP Task Force]]**, where he worked with David Grusch
+- Later an adviser to **Army Futures Command**
 
-His Operation Iraqi Freedom role as a foreign materials program representative is believed to be the basis for his firsthand witness status regarding UAP-related programs. [[Leslie Kean]] published an article in The Debrief identifying Nell among Grusch's 40 witnesses.
+His Operation Iraqi Freedom role as a foreign materials program representative is believed to be the basis for his firsthand witness status regarding UAP-related programs. Nell was quoted in [[Leslie Kean]] and Ralph Blumenthal's June 2023 article in *The Debrief*, backing Grusch's account of an 80-year "terrestrial arms race" to reverse-engineer technologies of unknown origin. The day after Grusch's July 2023 hearing, Kean said on television that Nell, "a former army colonel" from that article, was one of the 40 people Grusch had interviewed.
 
 After leaving the Army, Nell served as Deputy Chief Technology Officer at [[Northrop Grumman]] — a company UAP researchers have directly implicated in the construction of classified anti-gravity craft including the [[TR-3B]] and the Great Pumpkin anti-gravity disc. UAP Gerb's *UFO Legacy Programs - Northrop Grumman* says Nell spent 13 years at the company as deputy CTO and director of systems engineering and integration, and that while deputy CTO he also served as command representative to US Central Command for the Army's foreign materiel program. After playing Nell's statement that there is "zero doubt" non-human intelligence exists and has been interacting with humanity, Gerb wonders whether that certainty came from his position at Northrop.
 
 ## Sol Foundation Symposium Presentation (November 2023)
 
-Nell presented at the [[Sol Foundation]] Symposium in November 2023 at the Nolan Laboratory at Stanford, alongside [[David Grusch]], [[Chris Mellon]], [[Kevin Knuth]], [[Gary Nolan]], and [[Jacques Vallee]]. A slide from his presentation partially leaked the same month. His presentation covered three major areas: legislative analysis of the Schumer Amendment, a five-phase UAP disclosure campaign plan, and a broader analytical framework for understanding NHI.
+Nell presented at the [[SOL Foundation Symposium]] in November 2023 at the Nolan Laboratory at Stanford, alongside [[David Grusch]], [[Chris Mellon]], [[Kevin Knuth]], [[Gary Nolan]], and [[Jacques Vallee]]. A slide from his presentation partially leaked the same month. His presentation covered the Schumer Amendment, controlled versus catastrophic disclosure, the reasons for and against non-disclosure, and a six-phase (Phase 0 to Phase 5) UAP disclosure campaign plan. The full recording became viewable in February 2024.
 
 ### Legislative Analysis
 
@@ -45,18 +46,18 @@ Nell's campaign plan operates across four channels (public sector, philosophical
 | 1 | January 2024 | Government acceptance; bipartisan UAP recognition |
 | 2 | January 2026 | UAP signature correlation; academic engagement |
 | 3 | October 2030 | **Public acceptance; potential disclosure inflection point** |
-| 4 | October 2034 | Answer the five W's of UAP (noted as off-target) |
+| 4 | October 2034 | Answer the five W's of UAP (marked off target on the slide) |
 | 5 | Indefinite | Interactive integration of NHI and NHI technology with Earth civilization |
 
 Phase 3 is identified as the critical threshold for public disclosure. Nell explicitly warns against "catastrophic disclosure" — an uncontrolled information dump potentially by adversaries or NHI — as a scenario more dangerous than managed disclosure.
 
 ### Reasons for Non-Disclosure
 
-Nell catalogues why UAP information has been withheld: national security; lack of a credible plan; social disruption risk; covert NHI agreements (quid pro quo); cover for alleged crimes committed to maintain secrecy (including murder, as referenced by Grusch); organizational inertia; and concern the USA may be losing a UAP arms race with Russia or China.
+Nell lists six reasons UAP information has been withheld: national security; lack of a credible plan; social disruption; covert agreements with NHI (a quid pro quo); cover for misdeeds (which Gerb connects to Grusch's allegation of crimes, including murder); and organizational inertia. Among the arguments *for* disclosure, under preventing the loss of technological dominance, Nell notes evidence that the USA may be losing a UAP arms race.
 
 ### Analytical Framework
 
-Nell, working with [[Matthew Pines]], proposed replacing the Kardashev scale with a "Universal Civilization Development Datum" using multivariable attributes (what civilizations *are*, *know*, and *who they are*) to forecast NHI motives. He also proposed a three-category UAP taxonomy: **physical** (conventional extraterrestrial craft, plasma phenomena), **psychophysical** (interdimensional, consciousness-interactive), and **metaphysical** (operating outside physical law).
+Two backup slides not shown in the recorded talk, later shared by [[Matthew Pines]], propose replacing the Kardashev scale with a "Universal Civilization Development Datum" using multivariable attributes (what civilizations *are*, *know*, and *who they are*) to forecast NHI motives. The second slide sets out a [[UAP Taxonomy]] of origin hypotheses in three categories: **physical**, **psychophysical** and **metaphysical**, running from natural phenomena and extraterrestrials to ascended masters and artificial realities.
 
 ## Key Statements on UAP Physics
 
@@ -80,6 +81,7 @@ Nell's combination of credentials — military intelligence, DIA foreign materia
 - [[Northrop Grumman]]
 - [[Defense Intelligence Agency]]
 - [[Matthew Pines]]
-- [[Non-Human Intelligence]]
 - [[Legacy Programs]]
-- [[Schumer Amendment NDAA]]
+- [[Schumer Amendment (NDAA)]]
+- [[UAP Campaign Plan - Way Forward]]
+- [[UAP Taxonomy]]
