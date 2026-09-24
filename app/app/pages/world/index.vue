@@ -22,7 +22,6 @@ usePageTitle().value = 'World map'
 useHead({ title: 'World map' })
 
 const places = computed(() => data.value?.places ?? [])
-const unplaced = computed(() => data.value?.unplaced ?? [])
 
 const { selected, mode } = useWorldView()
 
@@ -202,13 +201,7 @@ const MODES = [
         </div>
       </section>
 
-      <footer v-if="data" class="mt-10 space-y-2 font-sans text-[13px] leading-6 text-muted-foreground">
-        <p v-if="unplaced.length">
-          Not on the map, for want of a place to pin:
-          <template v-for="(u, k) in unplaced" :key="u.path">
-            <NuxtLink :to="u.path" class="text-foreground underline decoration-border underline-offset-4 hover:text-primary hover:decoration-primary">{{ u.name }}</NuxtLink><template v-if="k < unplaced.length - 1">, </template>
-          </template>.
-        </p>
+      <footer v-if="data" class="mt-10 font-sans text-[13px] leading-6 text-muted-foreground">
         <p class="text-[11.5px]">
           Ranges and regions are pinned at a representative centre.
         </p>
