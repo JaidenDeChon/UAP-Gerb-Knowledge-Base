@@ -781,5 +781,20 @@
     ],
     "cues": "none",
     "retrofit_sweep": "2026-09-23"
+  },
+  "-DK2u8HlhDE": {
+    "title": "UFOs and Nuclear Weapons - A Fascinating Connection",
+    "published": "2024-01-29",
+    "enriched_at": "2026-09-24T01:19:16Z",
+    "components": [
+      "wiki-stat-strip",
+      "wiki-timeline",
+      "wiki-chain",
+      "wiki-compare",
+      "wiki-claim",
+      "wiki-roster"
+    ],
+    "cues": "verified",
+    "retrofit_sweep": "2026-09-23"
   }
 }

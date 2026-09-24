@@ -2,8 +2,8 @@
 title: "UFOs and Nuclear Weapons - A Fascinating Connection"
 video_id: -DK2u8HlhDE
 url: https://www.youtube.com/watch?v=-DK2u8HlhDE
-date: NA
-duration_seconds: 0
+date: 2024-01-29
+duration_seconds: 990
 channel: UAP Gerb
 tags:
   - transcript
