@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import type { Feature, FeatureCollection, MultiLineString, MultiPolygon } from 'geojson'
+import type { MapOutlines } from '@/composables/useMapOutlines'
 import type { NoteRef } from '#shared/types/wiki'
 import {
   geoArea,
@@ -17,8 +18,6 @@ import {
   type Box,
   buildMap,
   chooseLocator,
-  decodeOutline,
-  type EncodedOutline,
   frameRing,
   type GeoBounds,
   type LabelPlacement,
@@ -121,28 +120,7 @@ const frame = computed(() => mapFrame(framePoints.value, normalizeRegion(props.r
 
 /* -- outlines: fetched once per page load, shared by every map ------------- */
 
-interface Outlines {
-  world: FeatureCollection<MultiPolygon | MultiLineString>
-  /** Only the borders between US states, as lines. */
-  states: FeatureCollection<MultiPolygon | MultiLineString>
-}
-
-let outlinesPromise: Promise<Outlines> | null = null
-
-function loadOutlines(): Promise<Outlines> {
-  outlinesPromise ??= Promise.all([
-    $fetch<EncodedOutline>('/geo/world.json'),
-    $fetch<EncodedOutline>('/geo/us-states.json'),
-  ])
-    .then(([world, states]) => ({ world: decodeOutline(world), states: decodeOutline(states) }))
-    .catch((err) => {
-      outlinesPromise = null
-      throw err
-    })
-  return outlinesPromise
-}
-
-const outlines = shallowRef<Outlines | null>(null)
+const outlines = shallowRef<MapOutlines | null>(null)
 const outlineFailed = ref(false)
 
 // Load once there is something to draw on: a frame may only appear after the
@@ -152,7 +130,7 @@ onMounted(() => {
     () => Boolean(frame.value),
     (hasFrame) => {
       if (!hasFrame || outlines.value || outlineFailed.value) return
-      loadOutlines()
+      loadMapOutlines()
         .then((o) => {
           outlines.value = markRaw(o)
         })

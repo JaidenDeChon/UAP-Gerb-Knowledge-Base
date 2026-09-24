@@ -1,3 +1,4 @@
+import { fileURLToPath } from 'node:url'
 import tailwindcss from '@tailwindcss/vite'
 import { bakeWikiDataModule } from './wiki/bake'
 import { cleanTocLabels } from './wiki/toc'
@@ -45,6 +46,13 @@ export default defineNuxtConfig({
   },
   vite: {
     plugins: [tailwindcss()],
+    resolve: {
+      alias: {
+        // three-globe's WebGPU heatmap is unused; see the stub for why it's cut.
+        'three/webgpu': fileURLToPath(new URL('./app/lib/three-webgpu-stub.ts', import.meta.url)),
+        'three/tsl': fileURLToPath(new URL('./app/lib/three-webgpu-stub.ts', import.meta.url)),
+      },
+    },
   },
   shadcn: {
     prefix: '',

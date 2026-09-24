@@ -76,8 +76,15 @@ title, mono sub-line).
      themes work.
    - Pins: small points. The selected one is larger, drawn in `--primary`,
      with a pulsing ring. Hovering shows the name; clicking selects.
-   - Heat: globe.gl's `heatmapsData`, with a colour ramp built from the
-     theme.
+   - Heat: a density glow drawn on an equirectangular canvas (the same
+     kernel and one-hue ramp as the continent maps) and wrapped on a
+     transparent shell just above the land. *Changed during the build:*
+     globe.gl's own `heatmapsData` layer computes density with WebGPU
+     wherever `navigator.gpu` exists, and draws nothing where WebGPU is
+     present but unusable. Since it's unused, `three/webgpu` and `three/tsl`
+     (imported by three-globe at module level) are aliased to a stub. That
+     keeps more than a megabyte of JavaScript off the page, and keeps the
+     production build under Node's default heap.
    - Motion: a slow auto-rotate that stops once someone interacts. Selecting
      a place flies the camera to it in about 1 s. Under reduced motion there
      is no auto-rotate and the camera moves instantly. Rendering pauses while

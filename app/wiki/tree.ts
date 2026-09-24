@@ -34,6 +34,7 @@ export function buildTree(): TreeItem[] {
   // Home is the app root (`/`), not the vault note's own `/wiki/home` route.
   if (home) roots.push({ type: 'note', name: 'Home', path: '/' })
   roots.push({ type: 'note', name: 'Site map', path: '/map' })
+  roots.push({ type: 'note', name: 'World map', path: '/world' })
 
   for (const category of CATEGORY_ORDER) {
     const bucket = byCategory.get(category)
