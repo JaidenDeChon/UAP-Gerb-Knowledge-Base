@@ -279,7 +279,7 @@ function bandLabelFits(band: EraBand): boolean {
 }
 
 const kicker = computed(() => (props.eraOrdinal > 0 && props.eraCount > 0
-  ? `Era ${String(props.eraOrdinal).padStart(2, '0')} / ${String(props.eraCount).padStart(2, '0')}`
+  ? `Era ${String(props.eraOrdinal).padStart(2, '0')}/${String(props.eraCount).padStart(2, '0')}`
   : ''))
 </script>
 
@@ -300,10 +300,12 @@ const kicker = computed(() => (props.eraOrdinal > 0 && props.eraCount > 0
         <span class="ufo-chrono-year-digits">{{ year ?? '—' }}</span>
       </div>
 
+      <!-- Label, range and era ordinal ride one line, separated by bullets, so
+           the chronometer keeps the vertical space for the ruler below it. -->
       <div class="ufo-chrono-era">
-        <span v-if="kicker" class="ufo-chrono-kicker">{{ kicker }}</span>
         <span class="ufo-chrono-era-label">{{ eraLabel }}</span>
         <span v-if="eraRange" class="ufo-chrono-era-range">{{ eraRange }}</span>
+        <span v-if="kicker" class="ufo-chrono-kicker">{{ kicker }}</span>
       </div>
 
       <div v-if="hasVideo" class="ufo-chrono-now">
@@ -506,8 +508,13 @@ const kicker = computed(() => (props.eraOrdinal > 0 && props.eraCount > 0
 .ufo-chrono-era {
   display: flex;
   min-width: 0;
-  flex-direction: column;
-  gap: 1px;
+  align-items: baseline;
+  gap: 7px;
+}
+.ufo-chrono-era > span + span::before {
+  content: '\2022';
+  margin-right: 7px;
+  color: hsl(var(--muted-foreground) / 0.6);
 }
 .ufo-chrono-kicker,
 .ufo-chrono-era-range {
@@ -518,8 +525,10 @@ const kicker = computed(() => (props.eraOrdinal > 0 && props.eraCount > 0
   text-transform: uppercase;
   color: hsl(var(--muted-foreground));
   white-space: nowrap;
+  flex: none;
 }
 .ufo-chrono-era-label {
+  min-width: 0;
   font-family: var(--font-display);
   font-size: 15px;
   font-weight: 600;
