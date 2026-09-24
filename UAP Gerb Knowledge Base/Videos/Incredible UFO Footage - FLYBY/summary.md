@@ -17,7 +17,7 @@ The video, hosted by UAP Gerb, analyzes a 20-second piece of UFO footage uploade
 - [[Danny Lampkin]] — Uploaded the flyby UFO footage to YouTube on May 14, 2008 with minimal description
 - [[Luis Elizondo]] — Stated in a GQ 2021 interview that there is more compelling UAP footage in government possession not yet seen by the public, including a 23-minute video and one showing a UAP 50 feet from a cockpit
 - [[Chris Mellon]] — Stated on Joe Rogan Experience that he had seen footage of a UAP right next to a pilot
-- [[UAP Gerb]] — Host analyzing the flyby UFO footage for authenticity
+- [[Gerb|UAP Gerb]] — Host analyzing the flyby UFO footage for authenticity
 - [[Robert Jacobs]] — Described a saucer-shaped craft in his Warhead shootdown footage, which appears similar to the craft in the flyby footage
 - [[K Shakoya]] — Allegedly contributed to an internal UAP-related report in 2020
 

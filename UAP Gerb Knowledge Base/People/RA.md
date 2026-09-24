@@ -18,7 +18,7 @@ RA's military credentials have been thoroughly vetted and include:
 - Completion of the US Army's Advanced Learning Course (ALC)
 - Full verification via DD214 discharge documentation
 
-RA provided his complete service record and certifications to UAP researcher [[UAP Gerb]], who confirmed his Green Beret credentials and verified his placement at [[Naval Surface Warfare Center Crane]] during the stated timeframe.
+RA provided his complete service record and certifications to UAP researcher [[Gerb|UAP Gerb]], who confirmed his Green Beret credentials and verified his placement at [[Naval Surface Warfare Center Crane]] during the stated timeframe.
 
 ## Assignment to NSWC Crane (2013-2015)
 
@@ -96,7 +96,7 @@ RA states that despite exposure to highly advanced human-made technology includi
 
 ## Disclosure Efforts
 
-- RA connected with [[UAP Gerb]] through mutual contacts, wanting to contribute to disclosure while remaining anonymous
+- RA connected with [[Gerb|UAP Gerb]] through mutual contacts, wanting to contribute to disclosure while remaining anonymous
 - He deliberately chose not to contact [[AARO]], [[Luis Elizondo]], [[David Grusch]], or [[Chris Mellon]]
 - In late July 2023, RA contacted [[Steven Greer]]'s Disclosure Project via email about his experience but never received a response
 - He is listed as witness #10127 in the Disclosure Project files

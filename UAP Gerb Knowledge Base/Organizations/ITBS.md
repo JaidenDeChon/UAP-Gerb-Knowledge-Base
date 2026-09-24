@@ -9,7 +9,7 @@ ITBS is a YouTube channel specializing in video stabilization and enhancement of
 
 ## Metapod Footage Stabilization
 
-ITBS created the stabilized version of the Metapod footage that [[UAP Gerp]] used for his detailed analysis video. Video stabilization is a critical post-processing technique that applies motion compensation algorithms to counteract camera movement, allowing frame-by-frame examination of the subject without the distraction of handheld recording instability.
+ITBS created the stabilized version of the Metapod footage that [[Gerb|UAP Gerb]] used for his detailed analysis video. Video stabilization is a critical post-processing technique that applies motion compensation algorithms to counteract camera movement, allowing frame-by-frame examination of the subject without the distraction of handheld recording instability.
 
 ## Technical Contribution to UAP Analysis
 
