@@ -13,14 +13,10 @@ import { CONTINENTS, heatColor, hslString, placeSlug } from '@/utils/world'
  * globe, the list, the preview card and the continent maps all follow one
  * selection, and a view can be shared.
  *
- * `lazy`, like /videos: the page shell renders at once and fills in. The
- * loading state is the UFO loader, drawn inline at the centre of the
- * globe's panel (not AppLoadingMark's viewport overlay): it stays there
- * while the places load and the globe builds, and blurs away as the globe
- * fades in behind it. Being the panel's own content, nothing on the page can
- * cover it, whatever the browser does with the globe's WebGL layers.
+ * The page waits on the app's UFO loader until the places are in, the
+ * globe has drawn and the continent maps have their outlines.
  */
-const { data } = useFetch<WorldPlaces>('/api/places', { key: 'world-places', lazy: true })
+const { data, status } = useFetch<WorldPlaces>('/api/places', { key: 'world-places', lazy: true })
 
 usePageTitle().value = 'World map'
 useHead({ title: 'World map' })
@@ -61,10 +57,11 @@ function selectFromMap(slug: string): void {
 
 /* -- continent maps' outlines ------------------------------------------------ */
 
-/** True once the globe has drawn (or given up): the inline loader leaves then. */
+/** True once the globe has drawn, or given up. It's client-only, so the page registers for it. */
 const globeSettled = ref(false)
 
 const outlines = shallowRef<MapOutlines | null>(null)
+const outlinesSettled = ref(false)
 onMounted(() => {
   loadMapOutlines()
     .then((o) => {
@@ -73,7 +70,13 @@ onMounted(() => {
     .catch(() => {
       // The maps keep their water and dots; only the land is missing.
     })
+    .finally(() => {
+      outlinesSettled.value = true
+    })
 })
+
+usePageReady(() =>
+  (status.value === 'success' || status.value === 'error') && globeSettled.value && outlinesSettled.value)
 
 /* -- heat legend ------------------------------------------------------------- */
 
@@ -157,14 +160,6 @@ const MODES = [
             />
           </ClientOnly>
 
-          <Transition name="ufo-world-loader">
-            <div v-if="!globeSettled" class="ufo-world-loader" aria-hidden="true">
-              <div class="ufo-world-loader-craft">
-                <AppUfoLoader />
-              </div>
-            </div>
-          </Transition>
-          <span class="sr-only" role="status">{{ data ? '' : 'Loading places…' }}</span>
 
           <span aria-hidden="true" class="ufo-hud left-[8px] top-[8px] border-l border-t" />
           <span aria-hidden="true" class="ufo-hud right-[8px] top-[8px] border-r border-t" />
@@ -239,48 +234,6 @@ const MODES = [
 </template>
 
 <style scoped>
-/* -- the inline loader ------------------------------------------------------ */
-
-/* The UFO at the centre of the globe's panel, above the grid and glow and
-   under the HUD corners. It fades in after a beat (a quick load never
-   flashes it), as AppLoadingMark's does, and leaves the same way: a blur
-   and a little growth, as the globe fades in behind it. */
-.ufo-world-loader {
-  position: absolute;
-  inset: 0;
-  display: grid;
-  place-items: center;
-  pointer-events: none;
-}
-.ufo-world-loader-craft {
-  width: min(380px, 68%);
-  animation: ufo-world-loader-in 0.5s var(--ease-standard) 0.25s both;
-}
-@keyframes ufo-world-loader-in {
-  from { opacity: 0; transform: translateY(6px); }
-  to { opacity: 1; transform: none; }
-}
-.ufo-world-loader-leave-active {
-  transition: opacity 460ms cubic-bezier(0.4, 0, 1, 1), filter 460ms cubic-bezier(0.4, 0, 1, 1), transform 460ms cubic-bezier(0.4, 0, 1, 1);
-}
-.ufo-world-loader-leave-to {
-  opacity: 0;
-  filter: blur(18px);
-  transform: scale(1.06);
-}
-@media (prefers-reduced-motion: reduce) {
-  .ufo-world-loader-craft {
-    animation: none;
-  }
-  .ufo-world-loader-leave-active {
-    transition: opacity 200ms linear;
-  }
-  .ufo-world-loader-leave-to {
-    filter: none;
-    transform: none;
-  }
-}
-
 /* -- hero: globe beside the list ------------------------------------------- */
 
 .ufo-world-hero {

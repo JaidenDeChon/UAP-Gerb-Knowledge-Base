@@ -14,7 +14,7 @@ const FEATURED_PATH
 // `wiki/[...slug].vue`: a server render that waits on @nuxt/content's database
 // leaves a fresh visit on a blank screen for seconds on a cold function. The
 // server sends the skeleton at once; `lazy` does the same for a client-side hop.
-const { data } = useAsyncData('home', async () => {
+const { data, status } = useAsyncData('home', async () => {
   const [home, featured] = await Promise.all([
     queryCollection('wiki').path('/wiki/home').first(),
     queryCollection('wiki').path(FEATURED_PATH).first(),
@@ -22,6 +22,9 @@ const { data } = useAsyncData('home', async () => {
   ])
   return { home, featured }
 }, { lazy: true, server: false })
+
+// The whole page, title and all, waits on the UFO loader for this.
+usePageReady(() => status.value === 'success' || status.value === 'error')
 
 const page = computed(() => data.value?.home ?? null)
 const featured = computed(() => data.value?.featured ?? null)
@@ -58,11 +61,6 @@ const body = computed(() => {
 
       <ContentRenderer v-if="body.rest" :value="body.rest" class="prose-ufo wiki-prose" />
     </template>
-
-    <div v-else class="min-h-[50vh]">
-      <AppLoadingMark />
-      <span class="sr-only" role="status">Loading…</span>
-    </div>
   </div>
 </template>
 

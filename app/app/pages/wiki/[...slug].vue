@@ -31,6 +31,9 @@ const result = useAsyncData(`wiki:${route.path}`, async () => {
 
 const { data: page, status } = result
 
+// A missing note settles as an error page (below), not an endless loader.
+usePageReady(() => Boolean(page.value) || status.value === 'error')
+
 // Title, lead and video id from the vault scan baked into the server bundle
 // (`/api/meta`). It is instant, and it is what the server renders the <head>
 // and a missing note's 404 from.
@@ -166,7 +169,9 @@ const articleClass = computed(() => hasRail.value
 </script>
 
 <template>
-  <WikiPageSkeleton v-if="!page" />
+  <!-- While the note loads the page is hidden behind the UFO loader
+       (usePageReady above); this only holds its place. -->
+  <div v-if="!page" class="min-h-[60vh]" />
 
   <!-- One root element, not a fragment: NuxtPage's route provider wraps the
        page in a Transition/Suspense pair that expects a single root, and a

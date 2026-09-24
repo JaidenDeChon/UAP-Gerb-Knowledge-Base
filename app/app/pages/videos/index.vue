@@ -4,7 +4,9 @@ import type { VideoCard } from '#shared/types/wiki'
 // Every video summary, most recently processed first — the same build-time
 // list the home page's "Recently processed" strip is cut from, so it never
 // needs updating by hand. `lazy` for the reason given in index.vue.
-const { data: videos } = useFetch<VideoCard[]>('/api/videos', { key: 'all-videos', lazy: true })
+const { data: videos, status } = useFetch<VideoCard[]>('/api/videos', { key: 'all-videos', lazy: true })
+
+usePageReady(() => status.value === 'success' || status.value === 'error')
 
 usePageTitle().value = 'Videos'
 useHead({ title: 'Videos' })
@@ -25,10 +27,5 @@ useHead({ title: 'Videos' })
         <VideoCard :video="video" />
       </li>
     </ul>
-
-    <div v-else class="min-h-[50vh]">
-      <AppLoadingMark />
-      <span class="sr-only" role="status">Loading videos…</span>
-    </div>
   </div>
 </template>

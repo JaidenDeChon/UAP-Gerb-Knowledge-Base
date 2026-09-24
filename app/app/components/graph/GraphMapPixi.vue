@@ -33,7 +33,11 @@ import { CATEGORY_COLOR_VAR, CATEGORY_LEGEND_ORDER, nodeRadius, pickNode, readCa
  * ride into the SSR bundle or any other route's chunk.
  */
 
-const emit = defineEmits<{ select: [node: GraphNode] }>()
+const emit = defineEmits<{
+  select: [node: GraphNode]
+  /** Laid out and drawn: the page can come off the loader. */
+  ready: []
+}>()
 
 const { data: rawPayload } = useGraph()
 
@@ -968,6 +972,7 @@ function buildSceneIfReady(): void {
   geomDirty = true
   dirty = true
   ready.value = true
+  emit('ready')
 }
 
 function applyPalette(): void {
@@ -1347,10 +1352,6 @@ onBeforeUnmount(() => {
     @pointerleave="camera.handlers.onPointerLeave"
     @wheel.prevent="camera.handlers.onWheel"
   >
-    <div v-if="!ready" class="absolute inset-0 grid place-items-center">
-      <span class="font-mono text-xs tracking-[0.1em] text-muted-foreground">LOADING MAP…</span>
-    </div>
-
     <!-- Name plates for the fanned neighbours — same panel treatment as the
          hovered node's title; positioned imperatively from the render loop.
          They start transparent so a freshly mounted plate never flashes at the
