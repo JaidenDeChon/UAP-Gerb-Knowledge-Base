@@ -8,7 +8,7 @@
  * wants `[lon, lat]` and gets it through `toLonLat`.
  */
 import type { Feature, MultiLineString, MultiPolygon } from 'geojson'
-import { geoBounds, geoContains, geoDistance } from 'd3-geo'
+import { geoArea, geoBounds, geoContains, geoDistance } from 'd3-geo'
 import { type GeoBounds, type LatLon, toLonLat } from './map'
 
 export type Continent =
@@ -133,6 +133,86 @@ export function continentOf(at: LatLon, countries: Indexed[]): Continent | null 
     }
   }
   return best
+}
+
+/* -- globe outlines -------------------------------------------------------- */
+
+type Ring = [number, number][]
+
+/**
+ * Douglas–Peucker in plain degrees: drops every point of `ring` that lies
+ * within `tolerance` of the line its neighbours would otherwise draw. The
+ * ends are kept, so a closed ring stays closed.
+ */
+export function simplifyRing(ring: Ring, tolerance: number): Ring {
+  if (ring.length <= 4) return ring
+  const keep = new Uint8Array(ring.length)
+  keep[0] = 1
+  keep[ring.length - 1] = 1
+  const stack: [number, number][] = [[0, ring.length - 1]]
+  while (stack.length) {
+    const [a, b] = stack.pop()!
+    const [ax, ay] = ring[a]!
+    const [bx, by] = ring[b]!
+    const dx = bx - ax
+    const dy = by - ay
+    const len = Math.hypot(dx, dy)
+    let far = -1
+    let farD = tolerance
+    for (let i = a + 1; i < b; i++) {
+      const [px, py] = ring[i]!
+      // Distance to the segment's line; to the point itself when the ends coincide (a closed ring).
+      const d = len ? Math.abs(dy * px - dx * py + bx * ay - by * ax) / len : Math.hypot(px - ax, py - ay)
+      if (d > farD) {
+        far = i
+        farD = d
+      }
+    }
+    if (far !== -1) {
+      keep[far] = 1
+      stack.push([a, far], [far, b])
+    }
+  }
+  const out = ring.filter((_, i) => keep[i])
+  // Simplified below a triangle, the ring would vanish: keep it as it was.
+  return out.length >= 4 ? out : ring
+}
+
+/**
+ * A feature's area in steradians, whichever way its rings wind: d3 reads a
+ * ring wound the "wrong" way as everything outside it, the rest of the
+ * sphere, so the smaller of the two readings is the true one.
+ */
+function sphericalArea(f: Outline): number {
+  const a = geoArea(f)
+  return Math.min(a, 4 * Math.PI - a)
+}
+
+/**
+ * The outlines, lightened for the globe, which triangulates them into
+ * meshes on the main thread: every ring simplified to `tolerance` degrees
+ * (under a pixel at the globe's size), and only lakes of at least
+ * `minLakeArea` steradians (about 5,000 km²) kept, some 35 of them: the
+ * Great Lakes, Titicaca, Victoria. The hundreds of smaller lakes vanish at
+ * globe scale but each costs a mesh.
+ */
+export function globeOutlines(
+  features: Outline[],
+  { tolerance = 0.08, minLakeArea = 1.2e-4 }: { tolerance?: number, minLakeArea?: number } = {},
+): Outline[] {
+  const out: Outline[] = []
+  for (const f of features) {
+    if (f.geometry.type !== 'MultiPolygon') continue
+    if (f.id === 'lake' && sphericalArea(f) < minLakeArea) continue
+    out.push({
+      ...f,
+      geometry: {
+        type: 'MultiPolygon',
+        coordinates: f.geometry.coordinates.map(poly => poly.map(ring => simplifyRing(ring as Ring, tolerance))),
+      },
+    })
+  }
+  return out
 }
 
 /* -- continent frames ------------------------------------------------------ */

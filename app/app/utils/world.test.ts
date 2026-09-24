@@ -7,6 +7,7 @@ import {
   continentOf,
   continentOfCountry,
   formatPlaceType,
+  globeOutlines,
   heatColor,
   heatLut,
   hslString,
@@ -15,6 +16,7 @@ import {
   matchesQuery,
   parseHslToken,
   rgbaString,
+  simplifyRing,
   placeSlug,
 } from './world'
 
@@ -64,6 +66,32 @@ describe('continentOf', () => {
 
   it('is null with no countries to test', () => {
     expect(continentOf([0, 0], [])).toBeNull()
+  })
+})
+
+describe('globe outlines', () => {
+  it('simplifyRing drops points within tolerance and keeps the ends', () => {
+    const ring: [number, number][] = [[0, 0], [1, 0.01], [2, 0], [2, 2], [1, 2.01], [0, 2], [0, 0]]
+    const out = simplifyRing(ring, 0.05)
+    expect(out).toEqual([[0, 0], [2, 0], [2, 2], [0, 2], [0, 0]])
+    expect(simplifyRing(ring, 0)).toEqual(ring)
+  })
+
+  it('keeps a ring that would simplify below a triangle', () => {
+    const speck: [number, number][] = [[0, 0], [0.01, 0], [0.01, 0.01], [0, 0.01], [0, 0]]
+    expect(simplifyRing(speck, 1)).toEqual(speck)
+  })
+
+  it('lightens the bundled outlines: far fewer points, only big lakes, every country kept', () => {
+    const count = (fs: typeof world.features) => fs.reduce((n, f) =>
+      n + (f.geometry.type === 'MultiPolygon' ? f.geometry.coordinates.flat().reduce((m, r) => m + r.length, 0) : 0), 0)
+    const light = globeOutlines(world.features)
+    const countries = (fs: typeof world.features) => fs.filter(f => f.id !== 'lake').length
+    expect(countries(light)).toBe(countries(world.features))
+    expect(count(light)).toBeLessThan(count(world.features) / 2)
+    const lakes = light.filter(f => f.id === 'lake')
+    expect(lakes.length).toBeGreaterThan(5)
+    expect(lakes.length).toBeLessThan(80)
   })
 })
 

@@ -56,6 +56,18 @@ function selectFromMap(slug: string): void {
 
 /* -- continent maps' outlines ------------------------------------------------ */
 
+/*
+ * True when the page mounted before its places arrived, so the UFO loader
+ * showed. Its exit (AppLoadingMark's blur-out, 460ms) runs just as the
+ * places land; the globe waits it out before building, or that work stalls
+ * the animation mid-exit, with the page appearing over a frozen loader.
+ */
+const viaLoader = ref(false)
+const LOADER_EXIT_MS = 520
+onMounted(() => {
+  viaLoader.value = !data.value
+})
+
 const outlines = shallowRef<MapOutlines | null>(null)
 onMounted(() => {
   loadMapOutlines()
@@ -135,77 +147,81 @@ const MODES = [
     </header>
 
     <!-- Until the places arrive the page is the UFO loader alone, as on
-         /videos: shown inside the globe's panel it sat under the panel's
-         own chrome (the HUD corners, the grid, the globe's status line). -->
+         /videos. When they do, the loader blurs away where it stood; the
+         page below waits that out (`is-arriving`) and then fades in, so
+         the globe's panel (its grid, glow and status line, right under the
+         craft) never shows through the departing loader. -->
     <div v-if="!data" class="min-h-[50vh]">
       <AppLoadingMark />
       <span class="sr-only" role="status">Loading places…</span>
     </div>
 
-    <section v-else ref="hero" class="ufo-world-hero mt-6" aria-label="Globe and list of places">
-      <div class="ufo-world-stage">
-        <div class="ufo-world-glow" aria-hidden="true" />
-        <ClientOnly>
-          <WorldGlobe :places="places" :selected="selected" :mode="mode" @select="select" />
-          <template #fallback>
-            <div class="grid h-full place-items-center font-mono text-[11px] uppercase tracking-[0.1em] text-muted-foreground">
-              Loading globe…
-            </div>
-          </template>
-        </ClientOnly>
+    <div v-else class="ufo-world-body" :class="{ 'is-arriving': viaLoader }">
+      <section ref="hero" class="ufo-world-hero mt-6" aria-label="Globe and list of places">
+        <div class="ufo-world-stage">
+          <div class="ufo-world-glow" aria-hidden="true" />
+          <ClientOnly>
+            <WorldGlobe :places="places" :selected="selected" :mode="mode" :defer="viaLoader ? LOADER_EXIT_MS : 0" @select="select" />
+            <template #fallback>
+              <div class="grid h-full place-items-center font-mono text-[11px] uppercase tracking-[0.1em] text-muted-foreground">
+                Loading globe…
+              </div>
+            </template>
+          </ClientOnly>
 
-        <span aria-hidden="true" class="ufo-hud left-[8px] top-[8px] border-l border-t" />
-        <span aria-hidden="true" class="ufo-hud right-[8px] top-[8px] border-r border-t" />
-        <span aria-hidden="true" class="ufo-hud bottom-[8px] left-[8px] border-b border-l" />
-        <span aria-hidden="true" class="ufo-hud bottom-[8px] right-[8px] border-b border-r" />
+          <span aria-hidden="true" class="ufo-hud left-[8px] top-[8px] border-l border-t" />
+          <span aria-hidden="true" class="ufo-hud right-[8px] top-[8px] border-r border-t" />
+          <span aria-hidden="true" class="ufo-hud bottom-[8px] left-[8px] border-b border-l" />
+          <span aria-hidden="true" class="ufo-hud bottom-[8px] right-[8px] border-b border-r" />
 
-        <div v-if="current" class="ufo-world-card">
-          <WorldPlaceCard :key="current.path" :place="current" @close="selected = null" />
+          <div v-if="current" class="ufo-world-card">
+            <WorldPlaceCard :key="current.path" :place="current" @close="selected = null" />
+          </div>
         </div>
+
+        <aside class="ufo-world-rail" aria-label="Places">
+          <WorldPlaceList :places="places" :selected="selected" @select="select" />
+        </aside>
+      </section>
+
+      <div v-if="current" class="ufo-world-card-below mt-3">
+        <WorldPlaceCard :key="current.path" :place="current" @close="selected = null" />
       </div>
 
-      <aside class="ufo-world-rail" aria-label="Places">
-        <WorldPlaceList :places="places" :selected="selected" @select="select" />
-      </aside>
-    </section>
+      <section v-if="byContinent.length" class="mt-14" aria-labelledby="world-continents">
+        <h2 id="world-continents" class="font-display text-[clamp(22px,3vw,30px)] font-bold uppercase leading-none tracking-[0.02em] text-foreground">
+          By continent
+        </h2>
+        <p class="mb-5 mt-2 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground">
+          Hover a place to name it · click to find it on the globe
+        </p>
+        <div class="grid gap-4 @4xl:grid-cols-2">
+          <WorldContinentMap
+            v-for="c in byContinent"
+            :key="c.id"
+            v-reveal
+            :continent="c.id"
+            :places="c.places"
+            :selected="selected"
+            :mode="mode"
+            :outlines="outlines"
+            @select="selectFromMap"
+          />
+        </div>
+      </section>
 
-    <div v-if="current" class="ufo-world-card-below mt-3">
-      <WorldPlaceCard :key="current.path" :place="current" @close="selected = null" />
+      <footer class="mt-10 space-y-2 font-sans text-[13px] leading-6 text-muted-foreground">
+        <p v-if="unplaced.length">
+          Not on the map, for want of a place to pin:
+          <template v-for="(u, k) in unplaced" :key="u.path">
+            <NuxtLink :to="u.path" class="text-foreground underline decoration-border underline-offset-4 hover:text-primary hover:decoration-primary">{{ u.name }}</NuxtLink><template v-if="k < unplaced.length - 1">, </template>
+          </template>.
+        </p>
+        <p class="text-[11.5px]">
+          Ranges and regions are pinned at a representative centre.
+        </p>
+      </footer>
     </div>
-
-    <section v-if="byContinent.length" class="mt-14" aria-labelledby="world-continents">
-      <h2 id="world-continents" class="font-display text-[clamp(22px,3vw,30px)] font-bold uppercase leading-none tracking-[0.02em] text-foreground">
-        By continent
-      </h2>
-      <p class="mb-5 mt-2 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground">
-        Hover a place to name it · click to find it on the globe
-      </p>
-      <div class="grid gap-4 @4xl:grid-cols-2">
-        <WorldContinentMap
-          v-for="c in byContinent"
-          :key="c.id"
-          v-reveal
-          :continent="c.id"
-          :places="c.places"
-          :selected="selected"
-          :mode="mode"
-          :outlines="outlines"
-          @select="selectFromMap"
-        />
-      </div>
-    </section>
-
-    <footer v-if="data" class="mt-10 space-y-2 font-sans text-[13px] leading-6 text-muted-foreground">
-      <p v-if="unplaced.length">
-        Not on the map, for want of a place to pin:
-        <template v-for="(u, k) in unplaced" :key="u.path">
-          <NuxtLink :to="u.path" class="text-foreground underline decoration-border underline-offset-4 hover:text-primary hover:decoration-primary">{{ u.name }}</NuxtLink><template v-if="k < unplaced.length - 1">, </template>
-        </template>.
-      </p>
-      <p class="text-[11.5px]">
-        Ranges and regions are pinned at a representative centre.
-      </p>
-    </footer>
 
     <Dialog v-model:open="sheetOpen">
       <!-- No auto-focus: on a phone, focusing the filter box would throw up
@@ -226,6 +242,24 @@ const MODES = [
 </template>
 
 <style scoped>
+/* -- arrival after the loader ----------------------------------------------- */
+
+/* Held back for the loader's exit (AppLoadingMark: 460ms blur-out, 200ms
+   fade under reduced motion), then faded in. */
+.ufo-world-body.is-arriving {
+  animation: ufo-world-in 320ms var(--ease-out) 460ms both;
+}
+@media (prefers-reduced-motion: reduce) {
+  .ufo-world-body.is-arriving {
+    animation-duration: 1ms;
+    animation-delay: 200ms;
+  }
+}
+@keyframes ufo-world-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
 /* -- hero: globe beside the list ------------------------------------------- */
 
 .ufo-world-hero {

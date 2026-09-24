@@ -4,7 +4,7 @@ import type { WorldPlace } from '#shared/types/wiki'
 import type { WorldMode } from '@/composables/useWorldView'
 import { Minus, Plus, RotateCcw } from '@lucide/vue'
 import { usePreferredReducedMotion } from '@vueuse/core'
-import { colorizeDensity, HEAT_KERNEL, heatLut, type Hsl, hslString, placeSlug, rgbaString } from '@/utils/world'
+import { colorizeDensity, globeOutlines, HEAT_KERNEL, heatLut, type Hsl, hslString, placeSlug, rgbaString } from '@/utils/world'
 
 /**
  * The `/world` page's hero: a 3D globe (globe.gl, over three.js) with every
@@ -30,6 +30,12 @@ const props = defineProps<{
   places: WorldPlace[]
   selected: string | null
   mode: WorldMode
+  /**
+   * Milliseconds to hold off building the globe: the page passes the UFO
+   * loader's exit time when it arrived through the loader, so the build
+   * (the heaviest work on the page) doesn't stall that animation.
+   */
+  defer?: number
 }>()
 
 const emit = defineEmits<{ select: [slug: string] }>()
@@ -86,10 +92,11 @@ const palette = computed(() => {
   const t = tokens.value
   const dark = isDark.value
   const primary = t.primary ?? GREEN
-  // The water is the card, a step off it so the sphere reads against the
-  // panel: lighter on a dark theme, darker on a light one.
+  // The water is the card, as on the flat maps. On a light theme it steps a
+  // little darker so the sphere reads against the white panel; on a dark one
+  // it stays the card's black, and the atmosphere's rim draws the edge.
   const card = t.card ?? (dark ? INK : PAPER)
-  const water = { ...card, l: card.l + (dark ? 5 : -4) }
+  const water = dark ? card : { ...card, l: card.l - 4 }
   const ink = t['muted-foreground'] ?? (dark ? PAPER : INK)
   const land = over(ink, water, 0.17)
   return {
@@ -117,11 +124,12 @@ function applyColours(): void {
   const material = globe.globeMaterial() as import('three').MeshPhongMaterial
   material.color = new three.Color(p.water)
   material.emissive = new three.Color(p.primary)
-  material.emissiveIntensity = p.dark ? 0.02 : 0.01
+  // No primary tint on a dark sphere: it would turn the black ocean green.
+  material.emissiveIntensity = p.dark ? 0 : 0.01
   material.shininess = p.dark ? 14 : 6
   material.needsUpdate = true
   rakeLight?.color.set(p.primary)
-  if (rakeLight) rakeLight.intensity = p.dark ? 0.6 : 0.3
+  if (rakeLight) rakeLight.intensity = p.dark ? 0 : 0.3
   globe
     .atmosphereColor(p.primary)
     .atmosphereAltitude(p.dark ? 0.2 : 0.16)
@@ -129,7 +137,7 @@ function applyColours(): void {
     .pathColor(() => p.state)
   landMaterial?.color.set(p.land)
   lakeMaterial?.color.set(p.water)
-  drawHeat()
+  heatStale = true
   applyLayers()
 }
 
@@ -139,6 +147,14 @@ const HEAT_W = 2048
 const HEAT_H = 1024
 /** Kernel radius, in degrees of latitude: roughly the continent maps' reach at their scale. */
 const HEAT_RADIUS = 7
+
+/**
+ * True when the heat texture no longer matches the places or the theme. It
+ * is redrawn only when heat is showing (`applyLayers`): drawing it is a
+ * couple of million pixels of work, which a visitor who never switches to
+ * heat shouldn't pay for.
+ */
+let heatStale = true
 
 /**
  * The density glow, drawn on an equirectangular canvas and wrapped on a
@@ -200,6 +216,10 @@ function applyLayers(): void {
   const heat = props.mode === 'heat'
   // In heat mode only the selected place keeps a pin, so the selection still shows.
   const pins = heat ? (sel ? [sel] : []) : props.places
+  if (heat && heatStale) {
+    drawHeat()
+    heatStale = false
+  }
   if (heatShell) heatShell.visible = heat
   globe
     .pointsData(pins)
@@ -245,13 +265,14 @@ onMounted(async () => {
       import('globe.gl'),
       import('three'),
       loadMapOutlines(),
+      props.defer ? new Promise(r => setTimeout(r, props.defer)) : null,
     ])
     if (!host.value) return
     three = THREE
     const g = new Globe(el, { animateIn: !still.value, rendererConfig: { antialias: true, alpha: true, powerPreference: 'high-performance' } })
     globe = g
 
-    const polygons = outlines.world.features.filter(f => f.geometry.type === 'MultiPolygon')
+    const polygons = globeOutlines(outlines.world.features)
     // State borders: one path per line, as `[lon, lat]` points.
     const stateLines = outlines.states.features.flatMap(f =>
       f.geometry.type === 'MultiLineString' ? f.geometry.coordinates : [])
@@ -269,7 +290,8 @@ onMounted(async () => {
       .polygonAltitude(d => ((d as { id?: string }).id === 'lake' ? 0.0045 : 0.004))
       .polygonCapMaterial(d => ((d as { id?: string }).id === 'lake' ? lakeMaterial! : landMaterial!))
       .polygonSideColor(() => 'rgba(0, 0, 0, 0)')
-      .polygonCapCurvatureResolution(3)
+      // globe.gl's default: finer only multiplies triangles the eye can't tell apart.
+      .polygonCapCurvatureResolution(5)
       .polygonsTransitionDuration(0)
       .pathsData(stateLines)
       .pathPoints(d => d as number[][])
@@ -366,7 +388,7 @@ onBeforeUnmount(() => {
 watch(palette, applyColours)
 watch(() => [props.mode, still.value] as const, applyLayers)
 watch(() => props.places, () => {
-  drawHeat()
+  heatStale = true
   applyLayers()
 })
 watch(current, (place) => {

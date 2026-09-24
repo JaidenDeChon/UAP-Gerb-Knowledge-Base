@@ -35,6 +35,14 @@ const stage = ref<HTMLElement | null>(null)
 const measured = ref(0)
 let ro: ResizeObserver | null = null
 
+/**
+ * Whether the map is on or near the screen. The land is projected only
+ * then: six continents' worth of outlines at once is real work, and doing
+ * it all as the page arrives competed with the UFO loader's exit.
+ */
+const near = ref(false)
+let io: IntersectionObserver | null = null
+
 onMounted(() => {
   const el = stage.value
   if (!el) return
@@ -43,8 +51,17 @@ onMounted(() => {
     measured.value = el.clientWidth
   })
   ro.observe(el)
+  io = new IntersectionObserver(([entry]) => {
+    if (!entry?.isIntersecting) return
+    near.value = true
+    io?.disconnect()
+  }, { rootMargin: '300px 0px' })
+  io.observe(el)
 })
-onBeforeUnmount(() => ro?.disconnect())
+onBeforeUnmount(() => {
+  ro?.disconnect()
+  io?.disconnect()
+})
 
 const W = computed(() => Math.max(260, Math.round(measured.value || 560)))
 const PAD = 12
@@ -73,7 +90,7 @@ const H = computed(() => geo.value.H)
 
 const land = computed(() => {
   const o = props.outlines
-  if (!o) return null
+  if (!o || !near.value) return null
   const path = geoPath(geo.value.projection)
   const draw = (lakes: boolean) => o.world.features
     .filter(f => (f.id === 'lake') === lakes)
