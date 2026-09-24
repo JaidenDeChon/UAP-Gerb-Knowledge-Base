@@ -19,16 +19,7 @@ Metabunk's methodology emphasizes:
 
 ## Metapod Analysis
 
-In discussions of the Metapod footage, Metabunk users examined several aspects of the video:
-
-**Jitter Analysis**: CGI debunkers on the site pointed to three frames of craft jitter visible during the object's altitude drop in the stabilized footage as potential evidence of digital manipulation. However, even proponents of the balloon explanation within Metabunk's own community pushed back against this interpretation, noting that the jitters were consistent with a physical object experiencing altitude changes in air currents rather than being indicative of CGI artifacts.
-
-**Prosaic Explanations**: The Metabunk community proposed several conventional explanations for the Metapod:
-- Heart-shaped custom balloons
-- Inflatable balloon tents (a particularly creative but unlikely hypothesis)
-- Objects suspended on strings, similar to explanations offered for the classic McMinnville UFO photographs
-
-Despite these efforts, the Metapod footage has proven resistant to definitive debunking, with no prosaic explanation achieving consensus even within the skeptical community.
+The [[Metapod]] clip, filmed near El Escorial, Spain, in 2015, has been discussed at length on Metabunk. In his analysis of the footage, Gerb notes that critics who call it CGI point to three frames of jitter as the craft drops in altitude in the stabilized version, but that even the balloon proponents on Metabunk reject that argument: the jitter, they say, is consistent with the object (in their view a balloon) dropping in air currents.
 
 ## Role in UAP Discourse
 

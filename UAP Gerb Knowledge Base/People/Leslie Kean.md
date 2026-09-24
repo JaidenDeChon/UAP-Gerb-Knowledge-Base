@@ -1,6 +1,7 @@
 ---
 name: "Leslie Kean"
 role: "Journalist and investigative reporter"
+wikipedia: "Leslie Kean"
 tags:
   - person
 ---
@@ -9,7 +10,7 @@ tags:
 
 ## Early Career and Kecksburg Investigation
 
-In the late 1990s and early 2000s, Leslie Kean became involved in investigating the [[Kecksburg, Pennsylvania]] crash case. In May 2000, she organized a conference titled *"Combating Media Ridicule and Searching for Evidence on the 1965 Kecksburg Crash Case,"* where she presented findings from her correspondence with [[Nicholas Johnson]], NASA's Chief Scientist for Orbital Debris at the [[NASA Johnson Space Center]].
+In the late 1990s and early 2000s, Leslie Kean became involved in investigating the [[Kecksburg, Pennsylvania]] crash case. In May 2000, she organized a conference titled *"Combating Media Ridicule and Searching for Evidence on the 1965 Kecksburg Crash Case,"* where she presented findings from her correspondence with [[Nicholas Johnson]], NASA's Chief Scientist for Orbital Debris at the [[Johnson Space Center|NASA Johnson Space Center]].
 
 Johnson analyzed orbital data of the Soviet spacecraft [[Cosmos 96]] and definitively concluded it could not have been responsible for the Kecksburg event. Johnson stated: "No man-made object came down over Pennsylvania" on December 9, 1965, at the time of the crash. He also eliminated [[Project Corona]], a U.S. spy satellite program, as a potential explanation.
 
@@ -20,7 +21,7 @@ In the early 2000s, Kean partnered with the [[Coalition of Freedom of Informatio
 - Search for and release all relevant Kecksburg files
 - Pay all legal fees incurred by Kean and CFI
 
-NASA's document search concluded in August 2009. The agency posted 20 pages of documents related to [[Project Moondust]] — a Cold War-era program tasked with recovering descended foreign space vehicles — but none had direct relevance to Kecksburg. According to NASA's public affairs statement, the agency had transferred Kecksburg files to the [[National Archives]] approximately two years after the 1965 incident. In 1996, the National Archives informed NASA that the files had been **marked as lost since 1987**.
+NASA's document search concluded in August 2009. The agency posted 20 pages of documents related to [[Project Moon Dust]] — a Cold War-era program tasked with recovering descended foreign space vehicles — but none had direct relevance to Kecksburg. According to NASA's public affairs statement, the agency had transferred Kecksburg files to the [[National Archives]] approximately two years after the 1965 incident. In 1996, the National Archives informed NASA that the files had been **marked as lost since 1987**.
 
 Despite the disappointing outcome, Kean's legal victory established an important precedent for using courts to compel government transparency on UAP-related matters.
 

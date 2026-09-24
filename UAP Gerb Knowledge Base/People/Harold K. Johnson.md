@@ -9,7 +9,7 @@ tags:
 
 ## In UAP research
 
-UAP Gerb lists Johnson among the Joint Chiefs who met [[Lyndon B. Johnson]] at the Texas White House on 10 December 1965, the day after the [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg crash]]. The host points to his leadership of the 8th Cavalry Regiment, which in Vietnam formed part of the 1st Cavalry Division. That is the division the host suspected, in his video on the "Infographics" whistleblower, of holding the soldiers who witnessed a crashed UAP.
+UAP Gerb lists Johnson among the Joint Chiefs who met [[Lyndon B. Johnson]] at the Texas White House on 10 December 1965, the day after the [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg crash]]. Gerb points to his leadership of the 8th Cavalry Regiment, which in Vietnam formed part of the 1st Cavalry Division. That is the division Gerb suspected, in his video on the "Infographics" whistleblower, of holding the soldiers who witnessed a crashed UAP.
 
 ## Sources
 

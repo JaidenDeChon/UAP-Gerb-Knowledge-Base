@@ -1,6 +1,7 @@
 ---
 name: "James Forrestal"
 role: "Secretary of the Navy (1944–1947); first US Secretary of Defense (1947–1949)"
+wikipedia: "James Forrestal"
 tags:
   - person
 ---

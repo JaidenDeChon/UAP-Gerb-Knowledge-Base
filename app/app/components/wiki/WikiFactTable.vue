@@ -2,6 +2,7 @@
 import type { WikiPage } from '@/utils/content'
 import { ExternalLink, FileText } from '@lucide/vue'
 import { Button } from '@/components/ui/button'
+import { normalizeLatLon } from '@/utils/map'
 
 const props = defineProps<{ page: WikiPage }>()
 
@@ -55,6 +56,14 @@ function span(): string | undefined {
   return start ?? end
 }
 
+/** `coordinates: [lat, lon]` as "40.1847° N, 79.4608° W". */
+function coordinates(): string | undefined {
+  const c = normalizeLatLon(raw('coordinates'))
+  if (!c) return undefined
+  const [lat, lon] = c
+  return `${Math.abs(lat)}° ${lat < 0 ? 'S' : 'N'}, ${Math.abs(lon)}° ${lon < 0 ? 'W' : 'E'}`
+}
+
 function duration(): string | undefined {
   const value = raw('duration_seconds')
   const n = typeof value === 'number' ? value : Number(value)
@@ -85,6 +94,7 @@ const rows = computed<Row[]>(() => {
 
   push('Role', field('role'))
   push('Type', field('org_type') ?? field('location_type'))
+  push('Coordinates', coordinates(), true)
   push('Date', field('date'), true)
   push('Span', span(), true)
   push('Also known as', alsoKnownAs())

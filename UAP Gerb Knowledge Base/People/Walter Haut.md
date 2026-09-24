@@ -1,6 +1,7 @@
 ---
 name: "Walter Haut"
 role: "Lieutenant; public relations officer, 509th Bomb Group, Roswell Army Airfield"
+wikipedia: "Walter Haut"
 tags:
   - person
 ---

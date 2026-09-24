@@ -100,14 +100,18 @@ Read every line of `transcript.md` and the current `summary.md`. As you read, so
 | Shape in the video | Component |
 |---|---|
 | Dated sequence of events, a chronology, a career, a document trail | `::wiki-timeline` (with eras when the video periodizes, hinges for single turning points) |
-| Any tree: chain of command, ranks, reporting lines, **corporate ownership and subsidiaries**, program compartments, **cause → consequence cascades**, a leak's chain of custody, a family or lineage | `::wiki-org-chart` |
+| A true hierarchy: chain of command, ranks, reporting lines, **corporate ownership and subsidiaries**, program compartments, a family tree | `::wiki-org-chart` |
+| A linear or lightly branching sequence of hand-offs: an object's **chain of custody**, a **cause → consequence** cascade, how an account **travelled** from witness to publication, a lineage of successor organizations | `::wiki-chain` |
 | A cast of named people or organizations and their role in this story | `::wiki-roster` |
 | A handful of numbers that frame the video (years spanned, witnesses, documents, runtime, dollars, distances) | `::wiki-stat-strip` |
-| Competing claims, for and against, parallel cases, side-by-side comparisons | `::wiki-grid` of `::wiki-panel`s |
+| 2–5 subjects compared attribute by attribute (witness accounts, craft, cases, programs) | `::wiki-compare` |
+| A claim weighed against attributed challenges and replies: an official finding and the witness's answer, a critic's charge and Gerb's rebuttal, a trial's prosecution and defence, objections and replies, competing explanations that each have a proponent and answers | `::wiki-claim` |
+| Places whose position carries the argument: a route (an object's custody, a recovery flight, a reported course), a cluster of sites, candidate sites compared by distance or by which side of a border they lie on | `::wiki-map` |
+| Parallel cases or options that aren't a row-by-row comparison, and that nobody answers | `::wiki-grid` of `::wiki-panel`s |
 | A moment worth watching | `::wiki-cue` inline, or `::wiki-watch` as a mid-article prompt |
 | Asides and definitions | `::wiki-callout` (Obsidian `> [!type]` callouts are converted automatically) |
 
-`::wiki-org-chart` is a general tree, not only an org chart. For the non-org uses:
+Before reaching for `::wiki-org-chart`, ask whether the shape is really a hierarchy. If each node just hands off to the next, use `::wiki-chain`. When the org chart is the right fit:
 
 - A node's `name` should be a real page title whenever one exists, so it links and takes its category color.
 - A node with no page (e.g. a consequence like "Program moved into contractor cover") renders as plain unlinked text. That's fine, and it's the right choice for abstract nodes.
@@ -188,6 +192,7 @@ Edit `summary.md` in place:
 - Prose sections keep `[[wikilinks]]` on first mention.
 - Inside component YAML, use plain page titles only (gotcha 1).
 - Before using any entity name in YAML, confirm the page exists with exactly that title (a case-insensitive `find`/`grep` over the vault). Create or expand the page per the ingestor's Phase 5 when the video warrants it. Otherwise leave the name as plain unlinked text.
+- When a `::wiki-map` pin names a Location page that has no `coordinates:` in its frontmatter, add verified coordinates to that page: `coordinates: [lat, lon]` in decimal degrees, latitude first, checked online (Wikipedia or Wikidata's coordinate for the place, or a cited description of a facility's position; put a facility's own position on a facility page, not the nearest town's). Add them only for places you actually map, and name the source for each in your report. For a place with no page, or a non-Location page, write `coordinates` on the pin instead. See `::wiki-map` in `docs/wiki-components.md`.
 
 ## Phase 6: Verify, then record
 
@@ -228,5 +233,6 @@ Report:
 - **Show structure, don't decorate.** Every component must make something clearer than the prose alone could. No components for their own sake.
 - **Transcript is ground truth.** Nothing in a component that the transcript doesn't support.
 - **Attribute, don't debunk.** Say "alleged", "claimed", "according to the video". Never add skeptical hedging (the site-wide disclaimer covers it).
+- **Call the channel's presenter Gerb.** Never "the host", "the presenter" or "the narrator": write "Gerb argues…", "Gerb's thesis", and `by: "Gerb"` in component YAML (plain text: Gerb has no page, so never create one or wikilink him).
 - **Accessible and themeable.** Only token colors. Meaningful labels. Readable on a 390px phone and on desktop.
 - **One video per run.** Do it completely: ingested, enriched, verified and recorded. Don't do two videos halfway.

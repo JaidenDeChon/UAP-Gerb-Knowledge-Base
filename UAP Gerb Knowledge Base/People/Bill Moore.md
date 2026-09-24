@@ -9,7 +9,7 @@ tags:
 
 ## The Aztec Debunk
 
-In UAP Gerb's video on the [[Aztec UFO Crash and Recovery|1948 Aztec crash]], Moore appears as the author of one of the debunks of the case, presented at a 1985 MUFON symposium. [[Leonard Stringfield]] later wrote, in his foreword to [[William Steinman]]'s 1986 book on Aztec, that he had been taken in by the work of [[J. P. Cahn]] and Bill Moore. The host notes theories that Moore and Doty had a hand in producing some Majestic documents, and wonders whether a 2017 Majestic document retelling Steinman's Aztec account was part of the same kind of effort.
+In UAP Gerb's video on the [[Aztec UFO Crash and Recovery|1948 Aztec crash]], Moore appears as the author of one of the debunks of the case, presented at a 1985 MUFON symposium. [[Leonard Stringfield]] later wrote, in his foreword to [[William Steinman]]'s 1986 book on Aztec, that he had been taken in by the work of [[J. P. Cahn]] and Bill Moore. Gerb notes theories that Moore and Doty had a hand in producing some Majestic documents, and wonders whether a 2017 Majestic document retelling Steinman's Aztec account was part of the same kind of effort.
 
 ## Sources
 

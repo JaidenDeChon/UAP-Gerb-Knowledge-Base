@@ -13,7 +13,7 @@ The laboratory grew out of wartime undersea-warfare research and remains one of 
 
 ## In UAP research
 
-UAP Gerb raises the laboratory in *The 1965 Kecksburg, Pennsylvania UFO Crash*. Walker admitted going to the [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg crash]] site with two off-duty military men and a colleague. A witness the host calls "TB" told [[Steven Greer]], in alleged emails, that unacknowledged special access programs on UFOs are embedded within the Defense Department's University Affiliated Research Centers. Putting the two together, the host asks whether Walker and his colleague went to Kecksburg on behalf of a program run from Penn State's UARC, and calls the connection one he intends to keep exploring.
+UAP Gerb raises the laboratory in *The 1965 Kecksburg, Pennsylvania UFO Crash*. Walker admitted going to the [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg crash]] site with two off-duty military men and a colleague. A witness Gerb calls "TB" told [[Steven Greer]], in alleged emails, that unacknowledged special access programs on UFOs are embedded within the Defense Department's University Affiliated Research Centers. Putting the two together, Gerb asks whether Walker and his colleague went to Kecksburg on behalf of a program run from Penn State's UARC, and calls the connection one he intends to keep exploring.
 
 ## Sources
 

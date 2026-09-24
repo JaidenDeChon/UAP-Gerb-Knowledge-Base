@@ -13,7 +13,7 @@ Wood has developed a weighted authenticity rating system for Majestic documents 
 
 ### Document Provenance Investigation
 
-Wood traced the document control initials "EWL" (MJ-01) and "JRT" (MJ-04) appearing in SOM 1-01's control pages by consulting Albuquerque phone books for 1954-1957 and cross-referencing with National Personnel Record Center files. He identified Captain Lewis (EWL) and individuals matching "JRT" as residing on Perimeter Road inside [[Kirtland Air Force Base]] during the relevant timeframe. After hiring private investigators, Wood personally visited one individual matching "JRT" who agreed to meet but denied being the person named in the document despite matching the location and timeline.
+Wood traced the document control initials "EWL" (MJ-01) and "JRT" (MJ-04) appearing in SOM 1-01's control pages by consulting Albuquerque phone books for 1954-1957 and cross-referencing with National Personnel Record Center files. He identified Captain Lewis (EWL) and individuals matching "JRT" as residing on Perimeter Road inside [[Kirtland Air Force Base, New Mexico|Kirtland Air Force Base]] during the relevant timeframe. After hiring private investigators, Wood personally visited one individual matching "JRT" who agreed to meet but denied being the person named in the document despite matching the location and timeline.
 
 ### Sources and Leakers
 

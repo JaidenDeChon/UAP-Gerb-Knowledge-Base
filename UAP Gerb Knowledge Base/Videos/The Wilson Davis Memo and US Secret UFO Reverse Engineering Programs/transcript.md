@@ -2,8 +2,8 @@
 title: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs"
 video_id: yIqkazIZh9I
 url: https://www.youtube.com/watch?v=yIqkazIZh9I
-date: NA
-duration_seconds: 0
+date: 2024-01-09
+duration_seconds: 1903
 channel: UAP Gerb
 tags:
   - transcript

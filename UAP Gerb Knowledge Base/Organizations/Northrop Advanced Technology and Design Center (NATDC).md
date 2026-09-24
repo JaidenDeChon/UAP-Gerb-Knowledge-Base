@@ -19,7 +19,7 @@ A handout at the 1991 Dayton Air Show and a 1992 *Aviation Week & Space Technolo
 
 Mentions of NATDC thin out after 1992; the last the video finds are a 1994 NASA report, a 1996-1997 directory entry and a 1999 NASA paper. In 2000 or 2001 Pico Rivera's laboratories moved to El Segundo under a new Advanced Systems Development Center, which worked on the "company-funded" X-47A Pegasus. By 2003 both names were gone.
 
-UAP Gerb alleges that NATDC did not close but went fully black, continuing inside Northrop's aeronautics division at [[Air Force Plant 42]] as the company's in-house builder of [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]] and derivative airframes, funded through [[Independent Research and Development (IRAD)]] with little accountability to a government sponsor. The host also compares NATDC's concepts to the airframes [[Brad Sorenson]] described at the [[Norton Air Force Base Air Show]].
+UAP Gerb alleges that NATDC did not close but went fully black, continuing inside Northrop's aeronautics division at [[Air Force Plant 42]] as the company's in-house builder of [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]] and derivative airframes, funded through [[Independent Research and Development (IRAD)]] with little accountability to a government sponsor. Gerb also compares NATDC's concepts to the airframes [[Brad Sorenson]] described at the [[Norton Air Force Base Air Show]].
 
 ## Sources
 

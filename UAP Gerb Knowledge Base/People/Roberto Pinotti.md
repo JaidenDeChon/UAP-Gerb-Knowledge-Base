@@ -19,7 +19,7 @@ In 1996, Pinotti was contacted by an anonymous source who identified himself onl
 
 ## Document Authentication
 
-Pinotti took a skeptical, rigorous approach to validating the materials. He commissioned forensic analysis by experts who confirmed the paper and ink dated to the 1930s period. Scientific consultant Antonio Agag stated publicly that "it can be stated with reasonable certainty that the sample examined and the subject of the appraisal can be considered original and therefore authentic."
+Pinotti took a skeptical, rigorous approach to validating the materials. He commissioned forensic analysis by experts who confirmed the paper and ink dated to the 1930s period. Scientific consultant Antonio Garavaglia stated publicly that "it can be stated with reasonable certainty that the sample examined and the subject of the appraisal can be considered original and therefore authentic."
 
 Additionally, Italian researcher "low lab 5185" on Reddit provided corroborating analysis, noting that the writing style matched the futurism-era fascist communication conventions and providing template examples of authentic Italian government telegram formats from the 1930s that matched the documents' structure.
 

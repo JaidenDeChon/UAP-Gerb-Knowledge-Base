@@ -30,7 +30,7 @@ stats:
 
 ## Overview
 
-This video is an in-person interview with [[Michael Herrera]], a former [[United States Marine Corps]] SAW gunner who says that in October 2009, during a humanitarian relief mission in Indonesia, he and five other Marines came upon a large, silent, octagonal craft on a raised platform, four black trucks towing shipping containers, and eight armed operators who held them at gunpoint. UAP Gerb co-hosts with the researcher [[Joey Is Not My Name]], one of the first people to investigate Herrera's story seriously, who appears on camera here for the first time. The host says he was dismissive of Herrera when he first covered him in *[[Videos/The Marines Who Got too Close to UFOs/summary|The Marines Who Got too Close to UFOs]]*, but has since spent months investigating the case privately. The interviewers deliberately ask the "lesser-asked" questions, assuming viewers already know the basics from the host's earlier video with Joey or Herrera's appearance on the Shawn Ryan Show.
+This video is an in-person interview with [[Michael Herrera]], a former [[United States Marine Corps]] SAW gunner who says that in October 2009, during a humanitarian relief mission in Indonesia, he and five other Marines came upon a large, silent, octagonal craft on a raised platform, four black trucks towing shipping containers, and eight armed operators who held them at gunpoint. UAP Gerb co-hosts with the researcher [[Joey Is Not My Name]], one of the first people to investigate Herrera's story seriously, who appears on camera here for the first time. Gerb says he was dismissive of Herrera when he first covered him in *[[Videos/The Marines Who Got too Close to UFOs/summary|The Marines Who Got too Close to UFOs]]*, but has since spent months investigating the case privately. The interviewers deliberately ask the "lesser-asked" questions, assuming viewers already know the basics from Gerb's earlier video with Joey or Herrera's appearance on the Shawn Ryan Show.
 
 The interview opens at the moment of the sighting and then goes back through the mission in order. Herrera draws the craft and the trucks on paper. He describes the interception, his disarming and the scanning of his military ID, and the platform rising as the craft turned from matte grey to matte black and flew off. He then walks through life aboard the [[USS Denver]], the wardroom briefing, and the flight to an empty landing zone. Joey brings in open-source material that he says corroborates the setting, including a press briefing by Rear Admiral [[Richard B. Landolt]] and photographs of armed Marines guarding relief helicopters. Herrera insists the craft was man-made and crewed by humans, and that he never told [[AARO]] he saw an extraterrestrial vehicle or US Special Forces, as the [[AARO Historical Report Volume 1]] later stated.
 
@@ -278,14 +278,47 @@ The Marines stayed "stone cold." The only conversation came in Subic Bay, when H
 
 The interviewers then go back through the mission in order. Much of the confusion around Herrera's account, Joey argues, comes from not understanding how a non-combat deployment works. Herrera was on the officers' chow detail, an eight-hour-shift job he enjoyed for the T-bone steaks, under a ship-based logistics chain of command. He had gone forward to Japan weeks before the main body. The volunteers were "randomly put in sticks" by staff sergeants or sergeants, not hand-picked for their skills, and led by an acting team leader who was not Herrera's own.
 
-| Stage | What Herrera recalls | Watch |
-|---|---|---|
-| Wardroom | A female Marine major briefs volunteers, some pulled from the chow hall, with key leaders and NCOs present. She shows photos of [[Barack Obama]] as a child and his family. The job is security for a supply delivery to a remote village, in what Herrera calls the "second largest terrorist capital in the world." | :wiki-cue{t=2568 video="4EMO38JUfVE" video-title="Michael Herrera - Insights into UAP Encounter and Black Program Insiders"} |
-| Armory | Because it is not a combat mission, the SAW gunner draws a loaner M16 and someone else's magazines, which he hands back afterwards. | :wiki-cue{t=2938 video="4EMO38JUfVE" video-title="Michael Herrera - Insights into UAP Encounter and Black Program Insiders"} |
-| Airfield | The CH-53 carries only personnel and lands at an airfield with blue roofs, which the interviewers identify as Tabing, since renamed. The Marines do not get off, and some sleep; other helicopters land behind them. | :wiki-cue{t=3395 video="4EMO38JUfVE" video-title="Michael Herrera - Insights into UAP Encounter and Black Program Insiders"} |
-| Hasty LZ | An open area of tall grass among hills and thick vegetation, with no one there and no tape or cleared trees. The helicopter leaves, and they have no radio. They form a 360, weapons in Condition 3, and the man in charge takes them up the slope. | :wiki-cue{t=3665 video="4EMO38JUfVE" video-title="Michael Herrera - Insights into UAP Encounter and Black Program Insiders"} |
-| Hilltop | It is sunny, hot and dull. Herrera films a second helicopter drop a cargo net farther off and leave, then someone points at the object. | :wiki-cue{t=3768 video="4EMO38JUfVE" video-title="Michael Herrera - Insights into UAP Encounter and Black Program Insiders"} |
-| Back aboard | The whole mission, chow hall to ship, takes "a couple hours". | :wiki-cue{t=4032 video="4EMO38JUfVE" video-title="Michael Herrera - Insights into UAP Encounter and Black Program Insiders"} |
+The briefing came in the Denver's wardroom from a female Marine major in woodland camouflage, with key leaders and NCOs present. She showed photographs of [[Barack Obama]] as a child and of his family, and described the job as security for a supply delivery to a remote village, in what Herrera calls the "second largest terrorist capital in the world." Because it was not a combat mission, the SAW gunner drew a loaner M16 and someone else's magazines, which he handed back afterwards. The CH-53 carried only personnel and set down at an airfield with blue roofs, which the interviewers identify as Tabing, since renamed; the Marines stayed aboard, some of them asleep, while other helicopters landed behind them. The hasty landing zone was an open area of tall grass among hills and thick vegetation, with no one there, no tape and no cleared trees. Once the helicopter left they had no radio. It was sunny, hot and dull on the hilltop, where Herrera filmed a second helicopter drop a cargo net farther off before someone pointed at the object. The whole mission, chow hall to ship, took "a couple hours."
+
+::wiki-chain{video="4EMO38JUfVE" video-title="Michael Herrera - Insights into UAP Encounter and Black Program Insiders"}
+---
+kind: custody
+label: "The mission, stage by stage"
+caption: "Where Herrera's stick of six Marines went, in the order he recalls it. Each chip jumps to where he describes that stage."
+steps:
+  - text: "Wardroom, USS Denver"
+    note: "A female Marine major briefs the volunteers: security for a supply drop."
+    cue: 2568
+  - via: "Volunteers kitted out"
+    text: "Armory"
+    note: "A loaner M16 and borrowed magazines, since it is not a combat mission."
+    cue: 2938
+  - via: "CH-53, personnel only"
+    text: "Airfield with blue roofs"
+    note: "Identified as Tabing; the Marines never get off."
+    cue: 3395
+  - via: "Flown on, then left with no radio"
+    text: "Hasty landing zone"
+    note: "Tall grass among hills; a 360, weapons in Condition 3."
+    cue: 3665
+  - via: "Up the slope for the high ground"
+    text: "Hilltop"
+    note: "Something changing colour above the tree line."
+    cue: 3768
+  - via: "Leaving their post to look"
+    text: "The clearing"
+    note: "Held at gunpoint by eight operators beside the craft."
+    cue: 315
+  - via: "Sent back up, rifles slung tight"
+    text: "Landing zone"
+    note: "An unknown gunnery sergeant, angry and on a radio."
+    cue: 1844
+  - via: "CH-53 Super Stallion"
+    name: "USS Denver"
+    note: "Chow hall to ship in \"a couple hours.\""
+    cue: 4032
+---
+::
 
 Joey sets this against the public record. [[Richard B. Landolt]], the rear admiral who debriefed Herrera's group, told the press that the Denver's CH-53s came aboard on the morning of 9 October. He said they first flew survey teams inland, and that crowd control was the first worry once cargo began arriving. Joey has also found photographs from 9 and 10 October of crowds mobbing an Indonesian military helicopter, and of Marines with rifles guarding relief helicopters. Herrera cannot say whether his mission was on the 9th or the 10th. He never went up on deck, and the ship's phone banks had been switched off for about two weeks.
 
@@ -295,21 +328,51 @@ Several members of Herrera's platoon told Joey of a rumour that the first Marine
 
 Herrera says he was not a believer before 2009. He would once have mocked anyone claiming to have seen a craft while out fishing in Mississippi. He stresses that he did not see extraterrestrials: he saw operators and "clearly man-made" technology. Yet it "didn't do [anything] a normal helicopter or plane did." It had no rotor, left no rotor wash on the vegetation, and looked like nothing a would-be fighter pilot knew in the US, Indonesian, Chinese or Japanese inventories. :wiki-cue{t=4312 video="4EMO38JUfVE" video-title="Michael Herrera - Insights into UAP Encounter and Black Program Insiders"}
 
-Joey rejects comparisons with the [[Paul Bennewitz]] case. Bennewitz had only radio intercepts that he guessed were extraterrestrial, and [[Richard Doty]], Joey says, told him he had been instructed to encourage that idea. Joey argues that if Herrera had made his encounter up, an insider claiming to know about it would be self-evidently lying. Two challenges get a full hearing:
+Joey rejects comparisons with the [[Paul Bennewitz]] case. Bennewitz had only radio intercepts that he guessed were extraterrestrial, and [[Richard Doty]], Joey says, told him he had been instructed to encourage that idea. Joey argues that if Herrera had made his encounter up, an insider claiming to know about it would be self-evidently lying.
 
-::wiki-grid{cols=2}
-::wiki-panel{title="What AARO wrote"}
-In April 2023 Herrera testified in a secure facility to AARO, including Dr. [[Sean Kirkpatrick]]. He says Kirkpatrick seemed uninterested and asked the same question three times: who were the operators? AARO said it had access to satellite imagery of the day, but more than a year later had not come back to him. The [[AARO Historical Report Volume 1]] then said a former service member had seen US Special Forces loading containers onto an extraterrestrial spacecraft.
-::
-::wiki-panel{title="Herrera's answer" tone="accent"}
-"I didn't say extraterrestrial and I didn't say they were US Special Forces." He calls it a purposeful misstatement, and says a man who sat in the room with him can confirm it. He signed several documents, including an NDA covering the location and the other attendee, and recognizes a draft form released through FOIA by [[The Black Vault]] as the kind he was shown. He dismisses Kirkpatrick's interviews with [[Steven Greenstreet]], and cites the photograph a man named Brandon posted on Twitter placing Kirkpatrick at a 2018 Skinwalker Ranch briefing that Kirkpatrick had denied attending.
-::
-::wiki-panel{title="What Nathan claims"}
-Nathan, who was Herrera's team leader at one point and was on the same ship and operation, says Herrera made the story up. He has produced a photograph of two Marines on a helicopter, one of whom he says is Herrera. Someone has matched its camouflage pattern to one of the only two released photos of Herrera: helmet on, holding a SAW, sent to Josh Boswell of the Daily Mail.
-::
-::wiki-panel{title="The reply" tone="accent"}
-Nathan was not in the stick that saw the craft, so he could not have seen it. Nor, Herrera adds, was it a secret night mission, and it had nothing to do with aliens. The photo is not him: the face is wrong, and he knows who it is. Camouflage patterns repeat across uniforms. Joey adds that a fabricator could simply have said he flew two missions, one with Nathan. And a liar, Herrera says, would not be approached by several insiders who have their own careers at risk.
-::
+Two challenges get a full hearing. The first comes from [[AARO]]. In April 2023 Herrera testified to it in a secure facility, with Dr. [[Sean Kirkpatrick]] in the room. He says Kirkpatrick seemed uninterested and asked the same question three times: who were the operators? AARO said it had access to satellite imagery of the day, but more than a year later it had not come back to him. Herrera signed several documents there, including an NDA covering the location and the other attendee, and he recognizes a draft form released through FOIA by [[The Black Vault]] as the kind he was shown. The second challenge comes from Nathan, who was Herrera's team leader at one point and was on the same ship and operation.
+
+::wiki-claim{video="4EMO38JUfVE" video-title="Michael Herrera - Insights into UAP Encounter and Black Program Insiders"}
+---
+caption: "The two challenges to Herrera's account that the interview takes up, and the answers given to each."
+claims:
+  - title: "What AARO wrote"
+    by: "AARO"
+    where: "AARO Historical Report Volume 1"
+    text: "A former service member saw US Special Forces loading containers onto an extraterrestrial spacecraft."
+    cue: 4538
+    responses:
+      - by: "Michael Herrera"
+        stance: challenges
+        text: "\"I didn't say extraterrestrial and I didn't say they were US Special Forces.\" He calls it a purposeful misstatement, and says a man who sat in the room with him can confirm it."
+        cue: 4547
+      - by: "Michael Herrera"
+        stance: challenges
+        text: "He dismisses Kirkpatrick's interviews with Steven Greenstreet, and cites a photograph a man named Brandon posted on Twitter placing Kirkpatrick at a 2018 Skinwalker Ranch briefing that Kirkpatrick had denied attending."
+        cue: 4680
+  - title: "What Nathan claims"
+    by: "Nathan"
+    note: "Herrera's team leader at one point, on the same ship and operation"
+    text: "Herrera made the story up. Nathan has produced a photograph of two Marines on a helicopter, one of whom he says is Herrera, and someone has matched its camouflage to one of the only two released photos of Herrera: helmet on, holding a SAW, sent to Josh Boswell of the Daily Mail."
+    cue: 4736
+    responses:
+      - by: "Michael Herrera"
+        stance: challenges
+        text: "Nathan was not in the stick that saw the craft, so he could not have seen it. Nor was it a secret night mission, and it had nothing to do with aliens."
+        cue: 4776
+      - by: "Michael Herrera"
+        stance: challenges
+        text: "The photo is not him: the face is wrong, and he knows who it is. Camouflage patterns repeat across uniforms."
+        cue: 4999
+      - by: "Joey Is Not My Name"
+        stance: challenges
+        text: "A fabricator could simply have said he flew two missions, one of them with Nathan. Only Herrera's denial that he was ever on a mission with him gives Nathan's account any weight."
+        cue: 4846
+      - by: "Michael Herrera"
+        stance: challenges
+        text: "A liar would not be approached by several insiders who have their own careers at risk."
+        cue: 4906
+---
 ::
 
 ## Coming Forward

@@ -1,5 +1,6 @@
 ---
 name: "Emerson Dry Lake"
+coordinates: [34.4491, -116.3959]
 location_type: "site"
 tags:
   - location

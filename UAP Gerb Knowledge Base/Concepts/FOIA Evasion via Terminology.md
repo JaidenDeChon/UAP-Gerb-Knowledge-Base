@@ -27,7 +27,7 @@ All Fast Walker denials cite Executive Order 13526, which allows classification 
 ## Historical Precedent
 
 This pattern extends back decades:
-- **1979**: [[NORAD]] told [[Barry J. Greenwood]] and [[Lawrence Faucet]] that fulfilling their UAP tracking data request would cost $155,000 (over $500,000 today), effectively pricing civilian researchers out of access
+- **1979**: [[NORAD]] told [[Barry J. Greenwood]] and [[Lawrence Fawcett]] that fulfilling their UAP tracking data request would cost $155,000 (over $500,000 today), effectively pricing civilian researchers out of access
 - **1967**: [[J. Allen Hynek]] revealed that all [[Project Blue Book]] UFO cases were designated as "NORAD cases," suggesting parallel classification using military terminology even during official UFO investigation
 
 ## Significance

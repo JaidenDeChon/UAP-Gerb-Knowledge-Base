@@ -1,6 +1,7 @@
 ---
 name: "John P. Craven"
 role: "Chief Scientist, US Navy Special Projects Office; founder of the Deep Submergence Systems Project (DSSP)"
+wikipedia: "John P. Craven"
 tags:
   - person
 ---

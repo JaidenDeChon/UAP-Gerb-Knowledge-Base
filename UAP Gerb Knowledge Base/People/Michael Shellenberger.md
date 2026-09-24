@@ -1,6 +1,7 @@
 ---
 name: "Michael Shellenberger"
 role: "Investigative journalist and author"
+wikipedia: "Michael Shellenberger"
 tags:
   - person
 ---

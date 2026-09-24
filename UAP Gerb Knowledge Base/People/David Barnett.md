@@ -27,8 +27,8 @@ The incident is referenced by [[Kevin Knuth]] in his analysis of transmedium UAP
 
 The HMNZS Southland incident shares characteristics with other USO encounters:
 
-- **Electromagnetic effects** — Similar to the [[1976 Tehran UFO Incident]] where [[Major Jafari]]'s avionics failed
-- **Transmedium capability** — Parallels Aguadilla footage showing craft entering water at high speed without splash
+- **Electromagnetic effects** — Similar to the [[1976 Tehran UFO Incident]] where [[Parviz Jafari|Major Jafari]]'s avionics failed
+- **Transmedium capability** — Parallels the [[Aguadilla Puerto Rico Trans-Medium UAP Incident|Aguadilla footage]] showing craft entering water at high speed without splash
 - **Military confirmation** — Multi-sensor detection similar to [[2004 Nimitz UAP Encounter (Tic Tac)]]
 
 ## Sources

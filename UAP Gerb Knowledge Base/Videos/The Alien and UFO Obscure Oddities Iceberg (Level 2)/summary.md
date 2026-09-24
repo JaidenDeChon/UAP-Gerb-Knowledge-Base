@@ -1,115 +1,491 @@
 ---
 title: "The Alien and UFO Obscure Oddities Iceberg (Level 2)"
-date: NA
+date: 2024-01-17
 video_id: 9FL04mqyZxk
 url: https://www.youtube.com/watch?v=9FL04mqyZxk
 channel: UAP Gerb
-duration_seconds: 0
+duration_seconds: 2547
 tags:
   - video
   - uap-gerb
 ---
 
+::wiki-stat-strip
+---
+stats:
+  - value: 20
+    label: Iceberg entries
+    hint: "Layer 2 of 6, \"the enjoyer\""
+  - value: "84 ± 8 G"
+    label: "Flight 1628's object"
+    hint: "Sustained for 31 minutes, per Knuth"
+  - value: 97
+    label: Computers McKinnon hacked
+    hint: "US military and NASA, 2001–2002"
+  - value: "42m"
+    label: Runtime
+---
+::
+
 ## Overview
 
-"The Alien and UFO Obscure Oddities Iceberg (Level 2)" is the second installment in a six-part series by [[UAP Gerb]] examining obscure UAP cases, scientific frameworks, historical events, and fringe theories arranged in an iceberg format — with each successive layer going deeper and stranger. This episode, designated "the enjoyer" layer, spans genuinely credible historical UAP encounters, government cover-up patterns, speculative cosmology, ancient astronaut theories, and UFO subcultures.
+"The Alien and UFO Obscure Oddities Iceberg (Level 2)" is the second episode of UAP Gerb's planned six-part iceberg series, following [[Videos/The Alien and UFO Obscure Oddities Iceberg (Level 1)/summary|Level 1]]. Gerb calls this layer "the enjoyer" and works through twenty entries in turn, from well-documented encounters to theories, ancient-astronaut claims and UFO subcultures, promising to say plainly when he does not like an entry. He keeps that promise: he calls the [[1986 Japan Airlines UFO Incident|Japan Airlines Flight 1628 incident]] one of his all-time favourite cases and [[J. Allen Hynek]] "one of the OG whistleblowers", but dismisses the [[Kimbaya Artifacts|Kimbaya "airplanes"]] as trinkets, says he "despises" the [[Fermi Paradox]], calls the [[Indigo Children]] entry "really stupid", and skips "UFOs over Slovenia" for lack of anything to cover.
 
-The episode opens with one of its strongest entries: the [[1986 Japan Airlines UFO Incident]], in which [[Captain Kenju Terauchi]] and two crew members observed a massive UFO the size of an aircraft carrier and two smaller craft that followed their Boeing 747 for 31 minutes at 35,000 feet, confirmed on FAA radar. [[Kevin Knuth]]'s physics analysis published in academic literature estimated that the craft's circular maneuver around the plane subjected it to 84 ± 8 Gs — forces that would instantly kill any human — underscoring the non-human performance characteristics of the object. [[Wright-Patterson Air Force Base]] is profiled as a nexus of UFO legacy programs, with connections ranging from 1947 debris shipments from Roswell to [[Barry Goldwater]]'s 1973 denial of access to a secret storage room by General [[Curtis LeMay]], to [[Ben Rich]]'s 1993 statement that the means to travel among the stars already existed in black programs.
+The episode's strongest thread concerns official secrecy in the United States. The Flight 1628 encounter, in which a craft the size of an aircraft carrier shadowed a Boeing 747 for 31 minutes on FAA radar, is set against the Mars-and-Jupiter explanation that took hold after it, and against physicist [[Kevin Knuth]]'s estimate of 68 to 84 G sustained for the whole encounter. [[Wright-Patterson Air Force Base]] gets a short "tease" of six dated connections, from the 1947 [[Roswell Crash|Roswell]] shipments to Representative [[Mike Turner]]'s opposition to the [[Schumer Amendment (NDAA)|Schumer amendment]] in 2023. Hynek's criticisms of [[Project Blue Book]], including [[Donald Rumsfeld]]'s 1975 ruling that he had no "need to know", and [[Gary McKinnon]]'s claims from his 2001–2002 hack (an airbrushing laboratory at [[Johnson Space Center]] and a space fleet called [[Solar Warden]]) complete it. Read together, these entries form a chronology that runs from 1947 to 2023.
 
-The video gives substantial treatment to [[J. Allen Hynek]], the scientific adviser to [[Project Blue Book]], who later accused the USAF of deliberately debunking legitimate UAP cases and was told by [[Donald Rumsfeld]] on April 13, 1975, that he had no "need to know" whether secret UAP programs existed after Blue Book's closure. [[Gary McKinnon]]'s 2001–2002 hack of 97 US military and NASA computers is detailed at length: McKinnon claims to have found evidence of a classified space fleet program called [[Solar Warden]], a roster of "non-terrestrial officers" assigned to space vessels, and photographic imagery of a seamless tubular craft in Earth orbit — all within NASA's Johnson Space Center servers. The episode also covers the [[1561 Celestial Phenomenon over Nuremberg]], the [[1897 Aurora, Texas UFO Crash]], the [[2009 Norwegian Spiral Anomaly]], and the [[Voronezh UFO Incident]] of 1989.
+The rest of the layer is historical and speculative. Gerb weighs the conventional explanations offered for the [[1561 Celestial Phenomenon over Nuremberg]], the [[Aurora Texas UFO Crash|1897 Aurora, Texas crash]] and the [[2009 Norwegian Spiral Anomaly]], accepting only the last. He retells the [[Voronezh UFO Incident]] of 1989 and the [[Mystery Airship Craze]] of 1896–1897, explains the [[Dyson Sphere]], the Fermi paradox and interplanetary contamination, and compares four claims that aliens shaped human history or govern the galaxy: [[Erich von Däniken]]'s [[Ancient Astronaut Theory]], [[Zecharia Sitchin]]'s [[Anunnaki]], the Kimbaya figurines and [[Haim Eshed]]'s [[Galactic Federation]]. His recurring position is that the phenomenon may well have influenced ancient cultures, while the specific mechanisms these authors propose do not hold up.
 
-Theoretical frameworks occupy significant portions of the episode: the [[Fermi Paradox]] and its leading proposed resolutions (the [[Great Filter]], the [[Dark Forest Theory]], aquatic civilizations, and temporal arguments) are discussed critically, with the host expressing skepticism about SETI's radio-centric methodology. [[Zecharia Sitchin]]'s disputed [[Anunnaki]] extraterrestrial creation narrative, former Israeli Space Security Chief [[Haim Eshed]]'s 2020 claims about a [[Galactic Federation]], [[Erich von Däniken]]'s [[Ancient Astronaut Theory]], and the [[Heaven's Gate]] cult round out the episode's range.
+## The layer at a glance
 
-## The 1986 Japan Airlines Incident
+Gerb's own verdict on each entry, in the order he covers them.
 
-On November 17, 1986, [[Captain Kenju Terauchi]] of Japan Airlines cargo flight 1628 — traveling from France to Tokyo on the Reykjavik-to-Anchorage leg — and two crew members observed three UAPs shadow their Boeing 747-200F for 31 uninterrupted minutes at 35,000 feet. The primary object was described as the size of an aircraft carrier — roughly four 747s in diameter — accompanied by two smaller lights. The object maintained a 7.5-mile radius from the aircraft, sometimes circling at constant speed and sometimes darting in and out of its orbital path. The encounter was confirmed by FAA FPS-117 long-range 3D phased array radar, which tracked the object sustaining that 7.5-mile standoff distance throughout, occasionally shifting sides during 12-second radar sweep intervals.
+::wiki-figure{caption="The twenty entries of Level 2 and Gerb's take on each. Where he gives no verdict, the take summarizes how he treats the entry."}
+| # | Entry | Kind | Gerb's take |
+|---|---|---|---|
+| 1 | [[1986 Japan Airlines UFO Incident]] | Case, 1986 | One of his all-time favourites; "severely underrated" |
+| 2 | [[Wright-Patterson Air Force Base]] | Place | Deep ties to crash retrieval; a teaser for future videos |
+| 3 | [[Dyson Sphere]] | Science | Explained, with no verdict |
+| 4 | [[Voronezh UFO Incident]] | Case, 1989 | An interesting-looking ET, but he doubts the case |
+| 5 | [[J. Allen Hynek]] | Person | "Nothing but respect for this man" |
+| 6 | UFOs over Slovenia | Case | Skipped: he found nothing substantial |
+| 7 | [[Kimbaya Artifacts]] ("ancient airplanes") | Artifacts | Dislikes it: probably owls or birds |
+| 8 | [[Mystery Airship Craze]] | Wave, 1896–1897 | Leans toward hoaxes and real inventors |
+| 9 | [[Aurora Texas UFO Crash]] | Case, 1897 | The first alleged crash retrieval he knows of; unsure |
+| 10 | [[1561 Celestial Phenomenon over Nuremberg]] | Case, 1561 | "Extremely perplexing"; doubts the sun-dog explanation |
+| 11 | [[Erich von Däniken]] | Person | Rejects alien builders, allows ancient influence |
+| 12 | [[2009 Norwegian Spiral Anomaly]] | Case, 2009 | Happy with the failed-missile explanation |
+| 13 | [[Fermi Paradox]] | Theory | "I personally despise the Fermi paradox" |
+| 14 | Speculative evolution | Science | Recommends C. M. Kosemen's *All Tomorrows* |
+| 15 | [[Anunnaki]] | Myth and theory | Sitchin's story is "absurd" |
+| 16 | [[Galactic Federation]] | Theory | "Quite plausible" |
+| 17 | [[Indigo Children]] | Subculture | No idea why it is on the iceberg |
+| 18 | [[Gary McKinnon]] | Person | "There could be some credibility to what he says" |
+| 19 | [[Heaven's Gate]] | Cult | An overview only; points to fuller documentaries |
+| 20 | [[Interplanetary Contamination]] | Science | "A crucial thing to consider" in space travel |
+::
 
-[[Kevin Knuth]] (New York University Physics Professor) published an academic analysis estimating the flight characteristics of the craft. If the UAP traversed the full diameter of its circular orbit, it experienced 68 ± 7 Gs of force. If moving in a curved circular path, centripetal acceleration reached 84 ± 8 Gs — sustained for 31 minutes. Nine Gs sustained for even one minute represents the physiological limit for a trained fighter pilot. Aviation Week and Space Technology magazine promoted the explanation that the crew had seen Mars and Jupiter; [[J. Allen Hynek]] cited this type of dishonest debunking as emblematic of the institutional suppression of credible UAP data.
+## The government thread
 
-## Wright-Patterson Air Force Base
+Four of the entries (Flight 1628, Wright-Patterson, Hynek and McKinnon) tell one story between them: what the US government knew, what it studied and whom it kept out. Gerb covers them far apart, but their dates fall into one sequence, from the Roswell shipments of July 1947 to the congressional fight over UAP disclosure in 2023.
 
-[[Wright-Patterson Air Force Base]] in Ohio has accumulated documented connections to UFO legacy programs spanning eight decades. Key data points discussed in the episode:
+::wiki-timeline{video="9FL04mqyZxk" video-title="The Alien and UFO Obscure Oddities Iceberg (Level 2)"}
+---
+help: "The dated entries from four parts of the video (Flight 1628, Wright-Patterson, J. Allen Hynek and Gary McKinnon), gathered into one chronology. The bar pinned above the entries is a ruler from 1945 to 2025; its ticks are the entries, coloured by category and taller for major ones. Click the ruler to jump to the nearest one. While the video plays, the playhead jumps around the ruler, because Gerb covers these entries out of date order. Timestamps jump the mini-player to that moment."
+hinges:
+  - year: 1969
+    label: "Blue Book closes"
+events:
+  - date: "1947-07-05"
+    title: "Roswell debris and bodies shipped to Wright-Patterson"
+    summary: "Debris and bodies from the Roswell recovery are said to have been shipped out of Hangar 84 at Roswell, New Mexico, to Wright-Patterson. Gerb dates the base's ties to crash retrieval and reverse engineering from this moment."
+    category: event
+    significance: major
+    cue: 303
+    entities:
+      - "Roswell Crash"
+      - "Wright-Patterson Air Force Base"
+  - date: "1949"
+    title: "Hynek on Project Grudge: 'more of a public relations campaign'"
+    summary: "Hynek later said that Project Grudge, one of Blue Book's predecessors, was 'less scientific and more of a public relations campaign.'"
+    category: program
+    significance: minor
+    cue: 866
+    entities:
+      - "Project Grudge"
+      - "J. Allen Hynek"
+  - date: "1949"
+    title: "Battelle's metallurgical analysis of anomalous materials"
+    summary: "From 1949 to 1955, Wright-Patterson and the Battelle Memorial Institute reportedly performed special metallurgical analysis on anomalous materials."
+    category: program
+    significance: notable
+    cue: 325
+    entities:
+      - "Battelle Memorial Institute"
+      - "Wright-Patterson Air Force Base"
+  - date: "1952"
+    title: "Project Blue Book, with Hynek as scientific adviser"
+    summary: "The Air Force's best-known UFO study, founded to judge whether UFOs threatened national security and to analyse the data scientifically, ran from 1952 to 1969 with astronomer J. Allen Hynek as its scientific adviser."
+    category: program
+    significance: major
+    cue: 707
+    entities:
+      - "Project Blue Book"
+      - "J. Allen Hynek"
+  - date: "1953"
+    title: "The Robertson Panel"
+    summary: "The CIA's panel was used, in Gerb's account, to strip UFOs of their special status and suggest there was no legitimate evidence for them: the root of the 'swamp gas and weather balloon' stigma."
+    category: organization
+    significance: notable
+    cue: 754
+    entities:
+      - "Robertson Panel"
+      - "CIA"
+  - date: "1956-01-24"
+    title: "Wright-Patterson monitors a reported saucer landing in Afghanistan"
+    summary: "Wright-Patterson monitored a reported flying-saucer landing in an Afghan province, and the USAF attempted aerial reconnaissance to see whether authorities were hauling a recovered craft to Kabul."
+    category: event
+    significance: notable
+    cue: 361
+    entities:
+      - "Wright-Patterson Air Force Base"
+  - date: "1969"
+    title: "Blue Book closes: 12,618 reports, 701 unexplained"
+    summary: "Over its tenure Blue Book analysed 12,618 UFO reports and classed 701 as unexplained after extensive analysis. The Condon Report, which Gerb says did much the same as the Robertson Panel, came out during these years."
+    category: document
+    significance: notable
+    cue: 742
+    entities:
+      - "Project Blue Book"
+      - "Condon Report"
+  - date: "1972-05"
+    title: "Hynek calls Blue Book 'a coverup'"
+    summary: "In a book, Hynek wrote that Blue Book was 'a coverup', that the issue was 'glossed over', and that it fronted for a more classified group, possibly designated AF-FON-X-SG; he had been told to drop certain cases and 'not to pursue the matter further.'"
+    category: document
+    significance: major
+    cue: 790
+    entities:
+      - "J. Allen Hynek"
+      - "Project Blue Book"
+  - date: "1973-12-28"
+    title: "Goldwater denied the 'room' at Wright-Patterson"
+    summary: "Senator Barry Goldwater, asking about the 'room' where UAP material was stored, was denied access and, he said, scolded by General Curtis LeMay: 'Don't ever ask me that question again.' The date is Gerb's."
+    category: event
+    significance: major
+    cue: 383
+    entities:
+      - "Barry Goldwater"
+      - "Curtis LeMay"
+      - "Blue Room"
+  - date: "1975-04-13"
+    title: "Rumsfeld tells Hynek he has no 'need to know'"
+    summary: "At the White House, Donald Rumsfeld told Hynek he did not have a need to know whether a secret UAP study existed after Blue Book. Gerb calls it 'really crazy.'"
+    category: event
+    significance: major
+    cue: 850
+    entities:
+      - "Donald Rumsfeld"
+      - "J. Allen Hynek"
+  - date: "1979"
+    title: "Hynek on the Robertson Panel's 'unwritten law'"
+    summary: "Hynek said the panel, worried about public reaction, handed down the unwritten law of the Air Force: 'Don't rock the boat, play it cool, don't get the public excited', and that the Air Force debunked interesting cases as balloons or planets."
+    category: document
+    significance: notable
+    cue: 817
+    entities:
+      - "J. Allen Hynek"
+      - "Robertson Panel"
+  - date: "1986-11-17"
+    title: "Japan Airlines Flight 1628 shadowed for 31 minutes"
+    summary: "Over Alaska, Captain Kenju Terauchi and two crew watched an object the size of an aircraft carrier and two smaller lights follow their Boeing 747 cargo flight for 31 minutes at 35,000 feet, holding about 7.5 miles off on FAA radar."
+    category: event
+    significance: major
+    cue: 63
+    entities:
+      - "1986 Japan Airlines UFO Incident"
+      - "Captain Kenju Terauchi"
+      - "Kevin Knuth"
+  - date: "1993"
+    title: "Ben Rich: 'we already have the means to travel among the stars'"
+    summary: "Skunk Works director Ben Rich, at a presentation Gerb places at Wright-Patterson, allegedly said such technologies are 'locked up in the black projects' and 'it would take an act of God to ever get them out.'"
+    category: event
+    significance: major
+    cue: 335
+    entities:
+      - "Ben Rich"
+      - "Lockheed Martin Skunk Works"
+  - date: "2001-02"
+    title: "Gary McKinnon's hack of 97 military and NASA computers"
+    summary: "From February 2001 to March 2002, working from a house in London, McKinnon broke into 97 US military and NASA computers looking for a UFO cover-up and suppressed free energy. He claims to have found an airbrushing lab's images and the Solar Warden files."
+    category: event
+    significance: major
+    cue: 2112
+    entities:
+      - "Gary McKinnon"
+      - "Donna Hare"
+      - "Solar Warden"
+  - date: "2023"
+    title: "Schumer's UAP amendment, opposed by Mike Turner"
+    summary: "Chuck Schumer's amendment to the fiscal 2024 NDAA would have required legacy programs, and any program studying or holding UAP, to hand over their materials and findings. Gerb names Representative Mike Turner of Ohio, whose district contains Wright-Patterson, as the biggest proponent of blocking it."
+    category: policy
+    significance: major
+    cue: 411
+    entities:
+      - "Schumer Amendment (NDAA)"
+      - "Mike Turner"
+      - "Wright-Patterson Air Force Base"
+---
+::
 
-- **July 1947**: Debris and bodies from the Roswell recovery were reportedly shipped to Hangar 84 at Wright-Patterson.
-- **1949–1955**: Wright-Patterson and [[Battelle Memorial Institute]] collaborated on special metallurgical analysis of anomalous materials.
-- **January 24, 1956**: Wright-Patterson monitored a reported flying saucer landing in the Kagan Province of Afghanistan; USAF reportedly attempted aerial reconnaissance to determine if authorities were hauling a recovered craft to Kabul.
-- **December 28, 1973**: [[Barry Goldwater]] was denied access to a special storage room at Wright-Patterson by USAF General [[Curtis LeMay]], who reportedly said: "Don't ever ask me that question again."
-- **1993**: [[Ben Rich]], director of [[Lockheed Skunk Works]], stated at a Wright-Patterson presentation that technologies capable of interstellar travel already existed but were locked in black programs.
-- **2023–2024**: Representative [[Mike Turner]] of Ohio — whose district includes Wright-Patterson — was among the most prominent opponents of the [[Schumer-Rounds UAP Disclosure Amendment]] in the 2024 NDAA that would have required Legacy programs to disclose UAP materials.
+### Japan Airlines Flight 1628
 
-## J. Allen Hynek and Project Blue Book
+Gerb opens the layer with one of his favourite cases, which he thinks is "severely underrated". At about 5 p.m. on 17 November 1986, [[Captain Kenju Terauchi]] was flying a Japan Airlines Boeing 747-200F cargo flight from France to Tokyo, on the Reykjavík-to-Anchorage leg. He and two crew members saw a large round craft, about four 747s across, approach from the left at 35,000 feet with two smaller lights. The three followed the aircraft for 31 minutes. The large craft kept about 7.5 miles away and circled the plane, sometimes at a steady speed and sometimes darting in and out of its orbit. FAA FPS-117 long-range 3D phased-array radar tracked it at that distance, occasionally switching sides between the radar's 12-second sweeps.
 
-[[J. Allen Hynek]] was appointed scientific adviser to [[Project Blue Book]] (1952–1969), the Air Force's official UFO investigation, and over 17 years transformed from institutional skeptic to outspoken critic of government suppression. Blue Book analyzed 12,618 UFO reports during its tenure, classifying 701 as unexplained after extensive analysis.
+What interests Gerb most is the physics. [[Kevin Knuth]] (whom Gerb introduces as a New York University professor; Knuth teaches at the University at Albany) co-wrote "Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles", which models this case among others. Knuth's figures:
 
-In May 1972, Hynek published claims that Blue Book was "a coverup" and a front for a more classified investigation group — possibly a program called AF-FON-X-SG — and was ordered to drop certain cases and "not pursue the matter further." By 1979, Hynek had stated that the CIA's [[Robertson Panel]] (1953) had handed down an unwritten Air Force law: "Don't rock the boat, play it cool, don't get the public excited." He documented how the USAF purposefully debunked legitimate UAP cases as balloons or planets — dismissing the compelling 1986 Japan Airlines case as Jupiter and Mars being an example of exactly this pattern. Hynek also condemned the [[Condon Report]], stating the committee ignored key evidence.
+- **Crossing the circle.** A craft travelling across the diameter of its orbit would have pulled 68 ± 7 G.
+- **Circling.** Counting only the centripetal acceleration of the circular motion, it would have pulled 84 ± 8 G.
 
-On April 13, 1975, [[Donald Rumsfeld]] — then White House Chief of Staff — told Hynek directly that he did not have a "need to know" whether a secret UAP study existed after Blue Book's closure. This invocation of compartmentalized security to exclude the scientist who had run the official program from knowledge of its classified successor programs was, for Hynek, confirmation that something was actively being hidden.
+Nine G is the limit a trained pilot can take in a sustained turn, Gerb notes, and "sustained" means about a minute, not thirty. Against this he sets the explanation that *Aviation Week & Space Technology* introduced and that caught on: that the crew had seen Mars and Jupiter.
 
-## Gary McKinnon and Solar Warden
+### Wright-Patterson Air Force Base
 
-[[Gary McKinnon]], a Scottish systems administrator, conducted what US prosecutors called the largest military computer hack in history between February 2001 and March 2002. Over 13 months, operating from his girlfriend's aunt's house in London, McKinnon accessed 97 US Army and NASA computer systems — exploiting basic security failures including terminals secured with the password "password."
+Gerb plans whole videos on [[Wright-Patterson Air Force Base]], so here he gives only "a little tease" of its ties to crash retrieval and reverse engineering. He says he has five to ten more. Each of the six is an entry in the chronology above:
 
-McKinnon was acting on a tip from [[Donna Hare]], a former NASA launch photographic specialist who alleged that Building 8 of Johnson Space Center contained a lab dedicated to airbrushing UFOs out of high-resolution satellite imagery. McKinnon accessed Building 8 servers and found folders labeled "raw" and "processed." In the raw folder, he found a 250-megabyte image (which took several hours to download at the available bandwidth) depicting a large tubular metallic craft with domes around its circumference, no visible seams or rivets, superimposed over a planet's surface. Before he could download the full image, his cursor moved independently and he was detected.
+- the Roswell shipments of 5 July 1947;
+- [[Battelle Memorial Institute|Battelle]]'s metallurgical work of 1949 to 1955;
+- the Afghan landing report of 24 January 1956;
+- [[Barry Goldwater]]'s rebuff by General [[Curtis LeMay]], which Gerb dates to 28 December 1973 (see [[Blue Room]]);
+- [[Ben Rich]]'s 1993 remark that "anything that you can imagine we already know how to do";
+- Representative [[Mike Turner]]'s opposition to the 2023 [[Schumer Amendment (NDAA)|Schumer amendment]]. Gerb stresses that Turner represents the district that contains the base.
 
-Elsewhere in Pentagon files, McKinnon found a program called **Solar Warden** — described as a US military space-based operational fleet managed by the US Navy Network and Space Operations Command (NNSO). Among these files were a list of 300 military personnel described as "non-terrestrial officers" (not aliens, but military officers serving on space-based vessels outside Earth), along with two named spacecraft: the USSS *Hillenkoetter* and USSS *LeMay*. [[Chris Mellon]] has separately commented that classified 4K satellite footage of UAPs exists but has been suppressed or tampered with — consistent with McKinnon's account of NASA's airbrushing operation.
+### J. Allen Hynek and Project Blue Book
 
-## Historical Cases
+[[J. Allen Hynek]], "the man featured in the overview of this iceberg tier", was scientific adviser to [[Project Blue Book]] (1952–1969), the best known of the USAF's investigations. Blue Book analysed 12,618 reports and classed 701 as unexplained. Gerb places its reputation in the shadow of the CIA's 1953 [[Robertson Panel]] and the [[Condon Report]], which he credits with the "swamp gas and weather balloon" stigma. Hynek turned on the programs he had served. In his May 1972 book he called Blue Book "a coverup" and a front for a more classified group. In 1979 he described the Robertson Panel's "unwritten law of the Air Force", and said that the Air Force deliberately debunked interesting cases as balloons or planets. Gerb adds, "just think about the Japan cargo Airlines incident." Hynek also dismissed 1949's [[Project Grudge]] as a public-relations campaign and said the Condon committee ignored key evidence. The episode Gerb finds "really crazy" came on 13 April 1975: [[Donald Rumsfeld]] told Hynek at the White House that he had no need to know whether a secret UAP study existed after Blue Book.
+
+### Gary McKinnon and Solar Warden
+
+[[Gary McKinnon]], a Scottish hacker, carried out what Gerb calls the biggest military computer hack of all time. Over 13 months, from February 2001 to March 2002, working from his girlfriend's aunt's house in London, he broke into 97 US military and NASA computers. He was looking for a UFO cover-up and suppressed free-energy technology, and in some cases guessed passwords as basic as "password". Gerb covers two findings.
+
+::wiki-grid{cols=2}
+::wiki-panel{title="Building 8's raw images"}
+McKinnon acted on a claim by [[Donna Hare]], a former NASA photographic specialist, that a laboratory in Building 8 of [[Johnson Space Center]] airbrushed UFOs out of high-resolution satellite imagery. He says he reached Building 8's machines and found folders named "raw" and "processed" holding images of about 250 MB each, at a time when his line managed about 1 MB every five minutes. In the "raw" folder he began downloading an image of a blue-and-white planet with a metallic white, tubular craft superimposed on it. The craft had domes around its middle and at its ends, and no rivets or seams. Then his cursor began to move on its own, and he was caught.
+::
+::wiki-panel{title="Solar Warden"}
+McKinnon also says he found a ledger of 300 military personnel in a secret program called [[Solar Warden]], which he describes as a US military battalion in space run by the US Navy's Network and Space Operations Command (NNSO). The Pentagon files spoke of "extraterrestrial officers" and "contact between fleets". McKinnon explained that these were officers who serve off-planet, not aliens. The files named two ships, the USSS *LeMay* and USSS *Hillenkoetter*. Gerb notes the third "S" in "USSS", which he suggests may stand for "space".
+::
+::
+
+Gerb has "no doubt" that McKinnon believes he is telling the truth, and thinks there "could be some credibility" to his claims, especially the airbrushed imagery. He points out that [[Chris Mellon]] has said 4K satellite footage of UAP exists but is classified or has been tampered with.
+
+## The explanations Gerb weighs
+
+For four of the cases, the video sets a conventional explanation against the evidence. Gerb accepts only one of them.
+
+::wiki-claim{video="9FL04mqyZxk" video-title="The Alien and UFO Obscure Oddities Iceberg (Level 2)"}
+---
+term: "Explanation"
+label: "Explanations and answers"
+caption: "The prosaic explanations the video records for four cases, and how Gerb and other investigators answer them."
+claims:
+  - title: "Flight 1628: Mars and Jupiter"
+    by: "Aviation Week & Space Technology"
+    text: "The Japan Airlines crew saw the planets Mars and Jupiter. The magazine introduced the explanation, and it caught on."
+    cue: 79
+    responses:
+      - by: "Gerb"
+        stance: challenges
+        text: "FAA radar tracked the object holding 7.5 miles from the 747 for 31 minutes, and Knuth's modelling puts its manoeuvres at 68 to 84 G. Gerb offers the planets explanation as an example of the debunking Hynek described."
+        cue: 173
+  - title: "Aurora: a railroad-town hoax"
+    by: "Etta Pegues"
+    where: "Time magazine"
+    date: "1980"
+    note: "Aurora resident, then 86"
+    text: "The 1897 crash story was made up to bring attention to Aurora, which the railroad had bypassed and which was slowly dying."
+    cue: 1197
+    responses:
+      - by: "MUFON"
+        stance: unresolved
+        date: "1973"
+        text: "Bill Case's investigation found two new eyewitness accounts, a grave marker that seemed to show a saucer and metal-detector readings at the grave, but called its evidence inconclusive and did not rule out a hoax."
+        cue: 1219
+      - by: "Gerb"
+        stance: unresolved
+        text: "\"I'm not quite sure what to think, but it is interesting nonetheless.\""
+        cue: 1311
+  - title: "Nuremberg 1561: mass hysteria or a sun dog"
+    by: "Skeptics"
+    text: "The sighting was an early case of Carl Jung's mass hysteria, a collective consciousness forming a narrative, or else a sun dog."
+    cue: 1367
+    responses:
+      - by: "Gerb"
+        stance: challenges
+        text: "He doesn't think the sun-dog explanation is likely, and calls the case \"extremely perplexing\"."
+        cue: 1383
+  - title: "Norway 2009: a failed Bulava missile"
+    by: "Russian Defense Ministry"
+    date: "2009-12-10"
+    text: "A failed Bulava ballistic missile test: the third stage failed to separate properly, venting fuel and exhaust from the missile's sides and spinning it into a spiral."
+    cue: 1552
+    responses:
+      - by: "Gerb"
+        stance: supports
+        text: "\"I personally am happy with that explanation. I don't need anything else to explain this issue away.\""
+        cue: 1572
+---
+::
+
+## Historical cases
 
 ### 1561 Celestial Phenomenon over Nuremberg
-In 1561, a broadsheet news article printed in the Holy Roman Empire described a mass sighting of celestial phenomena over Nuremberg at Sunrise: hundreds of globes, cylinders, rods, crescents, crosses, and other objects filling the sky and appearing to battle above the sun, followed by a crash of some objects near the ground and the appearance of a black triangular object near the Earth's surface. Skeptics attribute the event to mass hysteria or a sun dog, neither of which satisfactorily explains the consistency of witness accounts across the broadsheet's descriptions.
 
-### 1897 Aurora, Texas Crash
-On April 17, 1897, the Dallas Morning News reported that a UFO had crashed into a windmill on a farm near Aurora, Texas. The craft's sole occupant was killed; the paper described the pilot as "not an inhabitant of this world." The wreckage — described as resembling a mix of aluminum and silver — was thrown into a nearby well, and the being was buried with a stone slab in the local cemetery. In a 1980 Time Magazine interview, 86-year-old Aurora resident [[Etna Pegue]] claimed the story had been fabricated to attract attention to a dying town bypassed by the railroad. However, a 1973 [[MUFON]] investigation led by [[Bill Case]] uncovered new eyewitnesses — including [[Mary Evans]] (whose parents visited the crash site) and [[Charlie Stevens]] (who as a ten-year-old saw a smoking airship heading toward Aurora) — as well as anomalous metal detector readings at the supposed burial site. The grave marker disappeared after MUFON's investigation, and a pipe was inserted into the gravesite where metal readings were no longer detectable.
+Gerb presents the [[1561 Celestial Phenomenon over Nuremberg]] as one of the first mass UFO sightings in recorded history. A broadsheet printed in the Holy Roman Empire described residents seeing hundreds of globes, cylinders and rods at sunrise. The objects flew across the sun and looked as if they were fighting a battle, and a black triangular object appeared close to the ground, followed by a crash. Other shapes included crosses, small spheres, two large crescents, a black spear and cylinders that released smaller spheres.
 
-### Voronezh UFO Incident (1989)
-On September 27, 1989, children playing football in a city park in Voronezh, Soviet Union, reportedly observed a pink glowing object followed by a deep red ball approximately 3 meters in diameter that circled the pitch, vanished, and reappeared hovering. A 10-foot-tall entity with bronze boots and a disc on its chest — described as having a "smushed" head directly onto the shoulders — reportedly exited the craft along with a robot, used a firearm-like device to make a 16-year-old boy temporarily disappear, and then departed. A local police officer also reported seeing a "flying body in the sky." The Soviet Scientific Commission conducted an official inquiry, finding radioactive cesium in the area but no concrete physical evidence of a landing. The episode occurred during Gorbachev's glasnost period, which the host notes may have allowed press reporting to become sensationalized.
+### The Mystery Airship Craze (1896–1897)
 
-### 2009 Norwegian Spiral Anomaly
-A blue spiral of lights visible over Northern Norway and Sweden for approximately 10 minutes in December 2009 generated brief UFO speculation before the Russian Defense Ministry announced it was caused by a failed Bulava ballistic missile test, in which third-stage separation failure sent propellant venting sideways and spinning the missile into a visual spiral. The host accepts this explanation as sufficient.
+In the [[Mystery Airship Craze]], thousands of people across the United States reported mysterious airships, some of them with human-looking crews. At the time many believed they were the work of an inventor who was not ready to show his invention. Gerb notes that successful airships had flown before, including [[Solomon Andrews]]'s *Aereon* test flights in 1863, but that their capabilities fell far short of what witnesses described, and that most sightings were written off as hoaxes or misidentified celestial objects. He mentions a more esoteric reading, in which the phenomenon shows itself as whatever technology people of the time would understand: airships then, saucers and cigar-shaped craft later. He himself leans toward a mixture of hoaxes and genuine airship experiments by inventors.
 
-## Theoretical Frameworks
+### The Aurora, Texas crash (1897)
 
-### Fermi Paradox
-The Fermi Paradox, posed by physicist [[Enrico Fermi]] at a Los Alamos lunch in 1950, asks: if the universe is so vast and the probability of other civilizations so high, why is there no conclusive evidence of them? The host is critical of the paradox, arguing that SETI's radio-wave search covers only a conical fraction of the observable universe and assumes alien civilizations communicate via radio — potentially a species-centric error. Proposed resolutions discussed include: the **Great Filter** (every civilization either destroys itself or transcends); the **Dark Forest Theory** (civilizations hide their signatures out of fear of predation by more powerful entities); most civilizations being aquatic and thus undetectable; humanity being exceptionally early in the universe's civilizational timeline; and humanity being exceptionally late in a universe of extinct civilizations.
+Gerb calls the [[Aurora Texas UFO Crash|Aurora incident]] "the first alleged UFO crash retrieval that I'm aware of". According to locals, a UFO crashed into a windmill on a farm near [[Aurora, Texas]] on 17 April 1897. The *Dallas Morning News* of 19 April reported that its sole occupant had died, his remains badly disfigured, but that "he was not an inhabitant of this world". The paper said the wreck was too damaged to tell how it was built or powered, but that it was made of an unknown metal resembling a mix of aluminium and silver and must have weighed several tons. The wreckage went into a nearby well, and the pilot was buried the next day at noon under a stone slab.
 
-### Dysonian SETI and Dyson Spheres
-A [[Dyson Sphere]] is a theoretical megastructure proposed by physicist [[Freeman Dyson]] that would encase a star to harvest its total energy output — the defining technology of a [[Kardashev Type II Civilization]]. The most plausible construction method involves [[von Neumann self-replicating probes]] that extract materials from asteroid belts without requiring direct human (or alien) presence. [[Dysonian SETI (CTI)]] — an evolution of traditional SETI — searches for techno-signatures such as anomalous stellar energy absorption that would indicate a Dyson Sphere, rather than relying solely on radio signals.
+In 1980, [[Etta Pegues]], aged 86, told *Time* the story had been invented to revive the town. In 1973, [[Bill Case]] had led a [[MUFON]] investigation that found two new witnesses:
 
-### Anunnaki
-The [[Anunnaki]] are the gods of the ancient Sumerian, Akkadian, Assyrian, and Babylonian pantheons. [[Zecharia Sitchin]] claimed his translations of Sumerian cuneiform tablets revealed the Anunnaki to be extraterrestrials from an undiscovered ninth planet called [[Nibiru]] who arrived on Earth approximately 500,000 years ago to mine gold, genetically merged their DNA with *Homo erectus* to create enslaved miners (modern humans), and were eventually forced to flee when Antarctic glaciers melted and caused the Great Flood. Academic Assyriologists widely regard Sitchin's translations as inaccurate. [[David Icke]] has separately claimed that the Anunnaki are the same entities as his proposed reptilian ruling class.
+- **[[Mary Evans]].** Her parents would not let her visit the site, but went themselves and found an alien body.
+- **[[Charlie Stevens]].** Ten years old at the time, he saw an airship trailing smoke as it headed north toward Aurora. His father made him finish his chores, and went to see the wreckage the next day.
 
-### Ancient Astronaut Theory (von Däniken)
-[[Erich von Däniken]], author of *Chariots of the Gods* (1968), proposes that extraterrestrial beings visited ancient human civilizations, explains megalithic structures including the Pyramids of Giza, Easter Island's moai, and Stonehenge as products of extraterrestrial intervention, and interprets ancient religious iconography — including [[Ezekiel]]'s biblically accurate angel visions and the destruction of Sodom — as encoded descriptions of spacecraft and nuclear weapons. The host notes that while he rejects the mechanistic claims (aliens physically building monuments), the broader idea that the UAP phenomenon has been present throughout human history and has shaped religion and culture is intellectually plausible.
+At the Aurora Cemetery, MUFON found a grave marker that seemed to show a flying saucer, and metal-detector readings at the grave, where parts of the ship were said to be buried with the pilot. The cemetery refused permission to exhume. Afterwards the marker disappeared, a 3-inch pipe was found driven into the grave, and the metal readings stopped, which led to the presumption that any metal had been removed.
 
-### Galactic Federation
-The concept of a [[Galactic Federation]] — a governing body of multiple interacting extraterrestrial species — gained unusual mainstream credibility in 2020 when [[Haim Eshed]], former head of Israel's military Space Program, stated in an interview that humanity was not ready for contact with extraterrestrials and that a Galactic Federation already existed, with some of its members present on Earth. Former self-described CIA officer [[John Ramirez]] has made similar claims. The host considers the existence of such a network plausible but acknowledges no certainty.
+### The Voronezh incident (1989)
 
-## Other Entries
+Gerb says he had never heard of the [[Voronezh UFO Incident]] before preparing the episode. On 27 September 1989, boys playing football in a park in Voronezh, in the Soviet Union, saw a pink glowing object, then a deep red ball about 3 metres across that circled the pitch, vanished and reappeared minutes later, hovering. They described a three-eyed alien about 10 feet tall, wearing bronze-coloured boots, with a disc on its chest and its head "smushed" onto its shoulders, stepping out with a robot. It used a firearm-like device to make a 16-year-old boy disappear before leaving in its craft. A local police officer, Lieutenant Sergei Matveyev, said he saw "a flying body in the sky".
 
-**Kimbaya Artifacts**: Gold figurines made by the Kimbaya culture of Colombia circa 1000 CE, some of which are claimed by ancient astronaut theorists to resemble airplanes. The host considers them depictions of owls or birds.
+The Soviet press seized on the story. Gerb suggests that Mikhail Gorbachev's reforms, which loosened control of the press, may have pushed coverage in a tabloid direction. The Soviet scientific commission's inquiry found some radioactive caesium in the area, but not enough to indicate a landing, and nothing abnormal in its checks for microorganisms or its spectrochemical measurements. Gerb finds the ET "interesting looking" but is not sure the case is valid.
 
-**Mystery Airship Craze (1896–1897)**: A wave of thousands of reports across the United States of human-crewed airship-style objects. [[Solomon Andrews]] had conducted successful airship test flights in 1863, but the capabilities described by witnesses exceeded any known prototype. The host leans toward a mixture of hoaxes and early inventor activity, while acknowledging an alternative interpretation — that the phenomenon expresses itself through technology familiar to observers of each era (airships in 1897, saucers in 1947).
+### The 2009 Norwegian spiral
 
-**Speculative Evolution**: The use of real biological principles to hypothesize alien evolutionary paths based on planetary conditions. The host recommends [[C.M. Kosemen]]'s book *All Tomorrows* as a standout example.
+For about ten minutes, a spiral of blue light seemed to emerge from behind a mountain over northern Norway and Sweden, stop in mid-air and spiral outward. Some UFO enthusiasts speculated at once. On 10 December 2009, the Russian Defense Ministry announced a failed Bulava ballistic missile test, and Gerb accepts that explanation (see [[2009 Norwegian Spiral Anomaly]]).
 
-**Indigo Children**: A 1970s concept originated by [[Nancy Ann Tappe]] describing children with supposed supernatural abilities including telekinesis. Included in the iceberg but dismissed by the host as poorly connected to UAP phenomena.
+## Science and speculation
 
-**Interplanetary Contamination**: The risk of forward contamination (Earth organisms on foreign bodies) and back contamination (alien organisms returned to Earth). Noted in the context of a 2019 Indian lunar spacecraft crash that inadvertently deposited tardigrades on the Moon.
+### Dyson spheres
 
-**Heaven's Gate**: A UFO cult co-founded by [[Bonnie Nettles]] in 1974 that believed members could transform into immortal extraterrestrial beings by rejecting human nature. In 1997, believing a UFO was trailing the Hale-Bopp Comet and would carry them to the "next level," 39 members died by mass suicide.
+Picking up the [[Kardashev Scale]] from Level 1, Gerb introduces the [[Dyson Sphere]], a megastructure first imagined by physicist Freeman Dyson. It would enclose a star so that a Type II civilization could draw on its entire energy output. Building one is beyond present engineering, he says, but one plausible route is self-replicating von Neumann probes that mine the asteroid belt, meteors and moons and assemble the sphere with no direct hands involved. [[SETI]] has begun looking at stars for signs of such structures.
+
+### The Fermi paradox
+
+The [[Fermi Paradox]] goes back to a lunch-break question physicist [[Enrico Fermi]] asked in the summer of 1950: if the universe is so big, "where is everybody?" Gerb says he despises the paradox, calling it "limited" and "ignorant". In his view [[SETI]] searches only one cone of the observable universe, and assumes aliens use radio because humans do, when they might communicate with neutrinos. He calls this "using a magnet to find a needle in the ocean" in a universe 92 billion light-years across. He prefers [[Dysonian SETI (CTI)|Dysonian SETI]], which looks for technosignatures such as a Dyson sphere. "For the sake of this entry", he then runs through five proposed answers:
+
+::wiki-grid{cols=3}
+::wiki-panel{title="1. The Great Filter"}
+Every advanced civilization passes through a filter, such as nuclear weapons or advanced AI, and either destroys itself or goes on to travel the cosmos. See [[Great Filter]].
+::
+::wiki-panel{title="2. The Dark Forest"}
+Civilizations hide their signatures for fear of something bigger and more advanced: pockets of firelight in a dark forest. Gerb calls this one "really fun to think of". See [[Dark Forest Theory]].
+::
+::wiki-panel{title="3. Aquatic civilizations"}
+Most alien civilizations live in water, so their bio- or technosignatures can't be detected from light-years away.
+::
+::wiki-panel{title="4. We are early"}
+Humans, though born of a second-generation star, are among the first advanced species in the universe. Gerb thinks this "very unlikely but fun to think about".
+::
+::wiki-panel{title="5. We are late"}
+The universe is a graveyard: every other advanced civilization has died out, and humanity is the last.
+::
+::
+
+### Speculative evolution
+
+Speculative evolution uses what is known of life on Earth to work out how alien species might evolve under other planets' atmospheric, terrestrial and solar conditions. It is often counted as hard science fiction because it rests on real biology, and it is sometimes used in teaching to picture early life on Earth. Gerb recommends [[C.M. Kosemen]]'s *All Tomorrows*, which follows a hypothetical course of human evolution from the near future to about a billion years from now.
+
+### Interplanetary contamination
+
+Gerb treats [[Interplanetary Contamination]] as "a crucial thing to consider when planning space travel". Forward contamination carries Earth life to another body. Back contamination brings alien organisms to Earth, as with the xenomorph aboard the *Nostromo* in *Alien*. He notes that returning spacecraft and their samples go through rigorous protocols, and that outbound craft are sterilized. He cites the 2019 lunar crash that left tardigrades on the Moon. Gerb calls it an Indian craft, but the tardigrade-carrying lander was Israel's Beresheet.
+
+## Ancient contact and alien societies
+
+Four entries claim that aliens shaped human history or organize the galaxy. Gerb takes each in turn and keeps a consistent line. He thinks it "not inconceivable" that the phenomenon has been present for thousands of years and influenced ancient culture, religion and development; he doesn't find it "insane" that an alien civilization affected ancient humans, or even tampered with human DNA. What he rejects are the specific mechanisms: aliens building megaliths, the Anunnaki breeding humans to mine gold, figurines of airplanes.
+
+::wiki-compare{video="9FL04mqyZxk" video-title="The Alien and UFO Obscure Oddities Iceberg (Level 2)"}
+---
+caption: "Four claims of alien influence on human history, point by point, with Gerb's verdict on each."
+attributeLabel: "Point"
+subjects:
+  - name: "Ancient Astronaut Theory"
+    note: "Erich von Däniken"
+  - name: "Anunnaki"
+    note: "Zecharia Sitchin"
+  - name: "Kimbaya Artifacts"
+    note: "Colombia, c. 1000 CE"
+  - name: "Galactic Federation"
+    note: "Haim Eshed, 2020"
+rows:
+  - attribute: "Proposed by"
+    cells:
+      - { text: "Erich von Däniken, in Chariots of the Gods", cue: 1400 }
+      - { text: "Zecharia Sitchin, from his readings of Sumerian tablets", cue: 1866 }
+      - { text: "Ancient astronaut theorists", cue: 959 }
+      - { text: "Haim Eshed, former head of Israel's military space program; also John Ramirez", cue: 1995 }
+  - attribute: "The claim"
+    cells:
+      - "Aliens so advanced they seemed divine contacted early humans, shaping their culture, settlement and religions"
+      - "Aliens from a hidden ninth planet, Nibiru, came about 500,000 years ago to mine gold, and bred humans as slave miners from Homo erectus"
+      - "A few gold figurines depict airplanes flown by visiting aliens"
+      - "A network of alien species trades and interacts under one governing body; some members are on Earth, and humans aren't ready for contact"
+  - attribute: "Evidence cited"
+    cells:
+      - "The pyramids of Giza, Easter Island's moai and Stonehenge; Ezekiel's visions of angels; Sodom's destruction read as a nuclear blast"
+      - "Sitchin's translations of Sumerian cuneiform; a flood caused by melting Antarctic ice drove the Anunnaki away"
+      - "The shape of some Kimbaya figurines, most of which show birds, fish and insects"
+      - "Eshed's 2020 interview; Ramirez's similar claims"
+  - attribute: "Gerb's verdict"
+    cells:
+      - { text: "Rejects alien builders, but allows that the phenomenon may have shaped ancient religion and culture", cue: 1488 }
+      - { text: "\"Absurd\": the translations are \"inaccurate and false to a very high degree\"", cue: 1931 }
+      - { text: "Likely an owl or a bird; \"just trinkets\"", cue: 955 }
+      - { text: "\"Quite plausible\", though nobody may know for sure", cue: 2026 }
+---
+::
+
+Gerb adds that [[David Icke]], covered in Level 1, claims the Anunnaki are his reptilians, and admits that as "a young conspiracy kid" he loved the Anunnaki and Nibiru. Of the Galactic Federation, which he compares to *Star Wars*, he says he would be fascinated to learn whether such a network has a common language, practices and culture. [[John Ramirez]], who has made similar claims, is described in the video as a "supposed ex-CIA agent".
+
+## Subcultures and dead ends
+
+- **[[Indigo Children]].** Children said to have unusual or supernatural traits such as telekinesis, a concept from the 1970s associated with [[Nancy Ann Tappe]], who said she began noticing them in the late 1960s. Gerb has "no idea" why the entry is on the iceberg. He guesses the link might be hybrid children, and calls it "really stupid".
+- **[[Heaven's Gate]].** A UFO cult that Gerb says [[Bonnie Nettles]] started in 1974. Members believed they could become immortal extraterrestrial beings by rejecting their human nature and ascending to "the next level". In 1997, as the Hale-Bopp comet passed, they took a UFO said to trail the comet as the only way off Earth, and 39 members died by suicide. Gerb gives only an overview and recommends a fuller treatment by another YouTuber.
+- **UFOs over Slovenia.** Gerb found only a 1970s crop circle reported in a Slovenian village and some grainy Reddit photographs from around summer 2023, and skips the entry.
+
+## Key Figures
+
+::wiki-roster
+---
+entries:
+  - name: "J. Allen Hynek"
+    role: "Scientific adviser to Project Blue Book"
+    note: "The figure Gerb credits with this tier's overview. His 1972 'coverup' charge, his 1975 rebuff by Rumsfeld and his 1979 account of the Robertson Panel's 'unwritten law' make him, in Gerb's words, one of the OG whistleblowers."
+  - name: "Captain Kenju Terauchi"
+    role: "Captain of Japan Airlines Flight 1628"
+    note: "Watched an aircraft-carrier-sized craft and two smaller lights shadow his 747 for 31 minutes over Alaska in November 1986."
+  - name: "Kevin Knuth"
+    role: "Physicist"
+    note: "His paper on the flight characteristics of anomalous aerial vehicles puts the Flight 1628 object at 68 to 84 G, sustained for half an hour."
+  - name: "Gary McKinnon"
+    role: "Scottish hacker"
+    note: "Broke into 97 US military and NASA computers in 2001–2002 and claims to have found airbrushed satellite imagery and the Solar Warden files."
+  - name: "Donna Hare"
+    role: "Former NASA photographic specialist"
+    note: "Her claim of an airbrushing laboratory in Building 8 of Johnson Space Center set McKinnon's search."
+  - name: "Barry Goldwater"
+    role: "US Senator from Arizona"
+    note: "Denied access to the 'room' at Wright-Patterson and, he said, told by Curtis LeMay never to ask again."
+  - name: "Ben Rich"
+    role: "Director of Lockheed's Skunk Works"
+    note: "Quoted from a 1993 presentation: 'We already have the means to travel among the stars', but those technologies are locked in black projects."
+  - name: "Mike Turner"
+    role: "US Representative for Ohio"
+    note: "Named by Gerb as the leading opponent of the 2023 Schumer amendment; his district contains Wright-Patterson."
+  - name: "Haim Eshed"
+    role: "Former head of Israel's military space program"
+    note: "Said in 2020 that a Galactic Federation exists, with members on Earth, and that humanity isn't ready for contact."
+  - name: "Bill Case"
+    role: "MUFON Texas investigator"
+    note: "Led MUFON's 1973 Aurora investigation, which found two new witnesses and anomalous metal readings at the grave."
+---
+::
 
 ## Key Claims
 
-- The 1986 Japan Airlines UAP subjected the pursuing craft to an estimated 84 ± 8 Gs of centripetal force during circular maneuvers — sustained for 31 minutes, far beyond human survivability — confirming non-human performance.
-- FAA FPS-117 radar independently tracked the Japan Airlines UAP maintaining a consistent 7.5-mile standoff distance from Flight 1628.
-- J. Allen Hynek stated in 1972 that Project Blue Book was "a coverup" and a front for a more classified study, and was told by Donald Rumsfeld in 1975 that he had no need to know about secret post-Blue Book programs.
-- Gary McKinnon claims to have found in Pentagon files a 300-person military roster of "non-terrestrial officers" and two spacecraft names (USSS *Hillenkoetter*, USSS *LeMay*) associated with a classified program called Solar Warden.
-- Donna Hare alleged that NASA Building 8 at Johnson Space Center maintained a dedicated lab for airbrushing UAPs out of high-resolution satellite imagery; McKinnon claims to have accessed the Building 8 servers and found processed imagery folders.
-- Barry Goldwater was denied access to a UFO storage room at Wright-Patterson by General Curtis LeMay in 1973 and told never to ask again.
-- Ben Rich stated at Wright-Patterson in 1993 that technologies to travel among the stars already exist but are locked in black programs.
-- Mike Turner, the congressman whose district contains Wright-Patterson AFB, was among the most prominent opponents of the 2024 NDAA UAP disclosure amendment.
-- Haim Eshed, former head of Israel's military Space Program, stated in 2020 that a Galactic Federation of extraterrestrials exists, with some members present on Earth.
-- Zecharia Sitchin's translations of Sumerian tablets, which claim the Anunnaki were extraterrestrials from Nibiru who genetically engineered *Homo sapiens*, are regarded as significantly inaccurate by academic Assyriologists.
+- On 17 November 1986, Japan Airlines Flight 1628 was allegedly shadowed for 31 minutes by an object the size of an aircraft carrier and two smaller lights, which FAA FPS-117 radar tracked holding about 7.5 miles from the aircraft.
+- Kevin Knuth's analysis estimates that the Flight 1628 object pulled 68 ± 7 G crossing its orbit, or 84 ± 8 G circling it, for 31 minutes; nine G for about a minute is the limit for a trained pilot.
+- Debris and bodies from Roswell were reportedly shipped from Hangar 84 at Roswell to Wright-Patterson on 5 July 1947, and Wright-Patterson and Battelle reportedly analysed anomalous materials from 1949 to 1955.
+- On 24 January 1956 Wright-Patterson allegedly monitored a reported flying-saucer landing in Afghanistan and attempted aerial reconnaissance of a possible recovery toward Kabul.
+- Senator Barry Goldwater was reportedly denied access to the "room" at Wright-Patterson and told by General Curtis LeMay, "Don't ever ask me that question again."
+- Ben Rich is quoted as saying in 1993 that the means to travel among the stars already exist but are locked up in black projects.
+- Gerb names Representative Mike Turner, whose district contains Wright-Patterson, as the biggest proponent of blocking the Schumer amendment to the fiscal 2024 NDAA.
+- J. Allen Hynek wrote in 1972 that Project Blue Book was "a coverup" and a front for a more classified group, and was told by Donald Rumsfeld on 13 April 1975 that he had no need to know whether a secret UAP study existed after Blue Book.
+- Gary McKinnon claims that during his 2001–2002 hack he found an image of a seamless tubular craft in the "raw" folder of a Building 8 server at Johnson Space Center, and files on Solar Warden: 300 "extraterrestrial officers" and the ships USSS *LeMay* and USSS *Hillenkoetter*.
+- The 1897 Aurora, Texas crash is disputed: Etta Pegues called it a hoax, while MUFON's 1973 investigation found new witnesses and metal readings at the alleged grave but called its evidence inconclusive.
+- Haim Eshed said in 2020 that a Galactic Federation of extraterrestrials exists, some of them on Earth; Gerb considers such a federation quite plausible.
 
 ## Sources
 
@@ -117,9 +493,8 @@ The concept of a [[Galactic Federation]] — a governing body of multiple intera
 
 ## Related Pages
 
-- **People**: [[Captain Kenju Terauchi]], [[Kevin Knuth]], [[J. Allen Hynek]], [[Donald Rumsfeld]], [[Barry Goldwater]], [[Curtis LeMay]], [[Ben Rich]], [[Gary McKinnon]], [[Donna Hare]], [[Chris Mellon]], [[J. Allen Hynek]], [[Haim Eshed]], [[John Ramirez]], [[Zecharia Sitchin]], [[David Icke]], [[Erich von Däniken]], [[Enrico Fermi]], [[Freeman Dyson]], [[Bonnie Nettles]], [[Nancy Ann Tappe]], [[C.M. Kosemen]], [[Solomon Andrews]], [[Bill Case]], [[Mary Evans]], [[Charlie Stevens]], [[Etna Pegue]]
-- **Organizations**: [[Project Blue Book]], [[MUFON]], [[Heaven's Gate]], [[SETI]], [[Galactic Federation]], [[Robertson Panel]]
-- **Events**: [[1986 Japan Airlines UFO Incident]], [[1561 Celestial Phenomenon over Nuremberg]], [[Aurora Texas UFO Crash]], [[MUFON Aurora Texas Investigation]], [[2009 Norwegian Spiral Anomaly]], [[Voronezh UFO Incident]], [[Barry Goldwater Denied Access to Blue Room]]
-- **Concepts**: [[Solar Warden]], [[Fermi Paradox]], [[Dark Forest Theory]], [[Great Filter]], [[Dyson Sphere]], [[Dysonian SETI (CTI)]], [[Anunnaki]], [[Ancient Astronaut Theory]], [[Kimbaya Artifacts]], [[Mystery Airship Craze]], Speculative Evolution, [[Indigo Children]], [[Interplanetary Contamination]], [[Galactic Federation]]
-- **Locations**: [[Wright-Patterson Air Force Base]], [[Aurora, Texas]], [[Voronezh]], [[Johnson Space Center]]
-
+- **People**: [[J. Allen Hynek]], [[Captain Kenju Terauchi]], [[Kevin Knuth]], [[Barry Goldwater]], [[Curtis LeMay]], [[Ben Rich]], [[Mike Turner]], [[Donald Rumsfeld]], [[Gary McKinnon]], [[Donna Hare]], [[Chris Mellon]], [[Etta Pegues]], [[Bill Case]], [[Mary Evans]], [[Charlie Stevens]], [[Solomon Andrews]], [[Enrico Fermi]], [[C.M. Kosemen]], [[Zecharia Sitchin]], [[David Icke]], [[Erich von Däniken]], [[Haim Eshed]], [[John Ramirez]], [[Nancy Ann Tappe]], [[Bonnie Nettles]]
+- **Organizations**: [[Project Blue Book]], [[Project Grudge]], [[CIA]], [[Battelle Memorial Institute]], [[Lockheed Martin Skunk Works]], [[MUFON]], [[SETI]], [[Galactic Federation]], [[Heaven's Gate]]
+- **Locations**: [[Wright-Patterson Air Force Base]], [[Johnson Space Center]], [[Aurora, Texas]]
+- **Concepts**: [[Robertson Panel]], [[Condon Report]], [[Blue Room]], [[Solar Warden]], [[Legacy Programs]], [[Dyson Sphere]], [[Kardashev Scale]], [[Dysonian SETI (CTI)]], [[Fermi Paradox]], [[Great Filter]], [[Dark Forest Theory]], [[Anunnaki]], [[Ancient Astronaut Theory]], [[Kimbaya Artifacts]], [[Mystery Airship Craze]], [[Indigo Children]], [[Interplanetary Contamination]]
+- **Events**: [[1986 Japan Airlines UFO Incident]], [[Roswell Crash]], [[Schumer Amendment (NDAA)]], [[Aurora Texas UFO Crash]], [[1561 Celestial Phenomenon over Nuremberg]], [[Voronezh UFO Incident]], [[2009 Norwegian Spiral Anomaly]]

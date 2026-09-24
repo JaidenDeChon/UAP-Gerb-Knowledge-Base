@@ -29,7 +29,7 @@ The AFSWP evolved through the Defense Atomic Support Agency (1959-1971), the Def
 
 ## Sandia Base
 
-In UAP Gerb's investigation of [[Sandia National Laboratories]], AFSWP is the thread that ties Sandia Base to the earliest recoveries. Former New Mexico state representative [[Andrew Kissner]]'s 1994 sources said AFSWP personnel at Sandia Base supported the analysis of discs recovered in 1947, and the IPU report names AFSWP's Hasbrouck as ordering the July 1947 recovery teams. Because the IPU documents appeared in 1995, after Kissner had finished, the host treats the two as separate sources and suggests the documents may have borrowed from Kissner. He also notes that AFSWP began construction of Manzano Base (Site Able), a nuclear weapons store with two underground installations, in 1947, and built much of Sandia's Coyote Test Field in the late 1940s.
+In UAP Gerb's investigation of [[Sandia National Laboratories]], AFSWP is the thread that ties Sandia Base to the earliest recoveries. Former New Mexico state representative [[Andrew Kissner]]'s 1994 sources said AFSWP personnel at Sandia Base supported the analysis of discs recovered in 1947, and the IPU report names AFSWP's Hasbrouck as ordering the July 1947 recovery teams. Because the IPU documents appeared in 1995, after Kissner had finished, Gerb treats the two as separate sources and suggests the documents may have borrowed from Kissner. He also notes that AFSWP began construction of Manzano Base (Site Able), a nuclear weapons store with two underground installations, in 1947, and built much of Sandia's Coyote Test Field in the late 1940s.
 
 ## Sources
 

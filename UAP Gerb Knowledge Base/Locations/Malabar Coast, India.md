@@ -1,5 +1,6 @@
 ---
 name: "Malabar Coast, India"
+coordinates: [12.0167, 75.2833]
 tags:
   - location
 ---

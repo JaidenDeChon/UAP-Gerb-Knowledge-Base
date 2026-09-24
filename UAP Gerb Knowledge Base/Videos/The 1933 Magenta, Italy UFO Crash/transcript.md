@@ -2,8 +2,8 @@
 title: "The 1933 Magenta, Italy UFO Crash"
 video_id: FGiwgyLY7Aw
 url: https://www.youtube.com/watch?v=FGiwgyLY7Aw
-date: NA
-duration_seconds: 0
+date: 2024-03-18
+duration_seconds: 1521
 channel: UAP Gerb
 tags:
   - transcript

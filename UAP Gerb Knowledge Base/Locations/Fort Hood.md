@@ -13,7 +13,7 @@ Fort Hood is a major US Army installation near Killeen in central Texas, one of 
 
 ## In UAP Gerb's Research
 
-In *Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs*, UAP Gerb likens the Blue Boys to rapid-reaction retrieval units such as the [[Blue Berets]] of the 1965 Kecksburg case, and compares their anti-UFO electronic warfare system to [[Jake Barber]]'s 2025 account of pulsed-microwave weapons used to disable vehicles. He counts Fort Hood among the possible sites of [[Deep Underground Military Bases (DUMBs)|deep underground bases]] engaged in UFO work. He finds it curious that [[Bill Hamilton]]'s 1990 network map marks a Fort Hood Army research unit as a UFO research location but not as an underground facility. A witness also told the host he rode an underground train from a fort in Texas to [[White Sands Missile Range]] in the 2010s, though the fort was not named.
+In *Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs*, UAP Gerb likens the Blue Boys to rapid-reaction retrieval units such as the [[Blue Berets]] of the 1965 Kecksburg case, and compares their anti-UFO electronic warfare system to [[Jake Barber]]'s 2025 account of pulsed-microwave weapons used to disable vehicles. He counts Fort Hood among the possible sites of [[Deep Underground Military Bases (DUMBs)|deep underground bases]] engaged in UFO work. He finds it curious that [[Bill Hamilton]]'s 1990 network map marks a Fort Hood Army research unit as a UFO research location but not as an underground facility. A witness also told Gerb he rode an underground train from a fort in Texas to [[White Sands Missile Range]] in the 2010s, though the fort was not named.
 
 ## Sources
 

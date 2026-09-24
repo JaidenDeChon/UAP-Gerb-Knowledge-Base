@@ -13,7 +13,7 @@ The materials given to Pinotti consisted of classified telegrams sent by the [[A
 
 ## Authenticity
 
-The documents were subjected to forensic analysis by experts who confirmed the paper and ink dated to the 1930s period. Scientific consultant Antonio Agaga publicly stated that the materials could "be considered original and therefore authentic." The documents were later referenced by UAP whistleblowers [[David Grusch]] and [[Luis Elizondo]], with Elizondo stating he personally viewed validated documentation from Mussolini related to the craft recovery.
+The documents were subjected to forensic analysis by experts who confirmed the paper and ink dated to the 1930s period. Scientific consultant Antonio Garavaglia publicly stated that the materials could "be considered original and therefore authentic." The documents were later referenced by UAP whistleblowers [[David Grusch]] and [[Luis Elizondo]], with Elizondo stating he personally viewed validated documentation from Mussolini related to the craft recovery.
 
 ## Identity Protection
 

@@ -1,5 +1,6 @@
 ---
 name: "Nellis Air Force Base"
+coordinates: [36.2492, -114.9961]
 location_type: "base"
 tags:
   - location

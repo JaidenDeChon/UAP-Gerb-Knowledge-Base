@@ -1,6 +1,7 @@
 ---
 name: "Gordon Cooper"
 role: "US Air Force pilot and NASA Mercury astronaut"
+wikipedia: "Gordon Cooper"
 tags:
   - person
 ---

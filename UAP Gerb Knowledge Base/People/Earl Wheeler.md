@@ -9,7 +9,7 @@ tags:
 
 ## In UAP research
 
-In *The 1965 Kecksburg, Pennsylvania UFO Crash*, UAP Gerb lists Wheeler among the Joint Chiefs at [[Lyndon B. Johnson]]'s Texas residence on 10 December 1965, the day after the [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg crash]]. The host notes that Wheeler rose to the top with little combat experience, drawing criticism from [[Curtis LeMay]], who called him "Polly Parrot". After the meeting every chief of staff went for a car ride with the President except Wheeler.
+In *The 1965 Kecksburg, Pennsylvania UFO Crash*, UAP Gerb lists Wheeler among the Joint Chiefs at [[Lyndon B. Johnson]]'s Texas residence on 10 December 1965, the day after the [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg crash]]. Gerb notes that Wheeler rose to the top with little combat experience, drawing criticism from [[Curtis LeMay]], who called him "Polly Parrot". After the meeting every chief of staff went for a car ride with the President except Wheeler.
 
 ## Sources
 

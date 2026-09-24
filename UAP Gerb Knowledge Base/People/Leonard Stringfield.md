@@ -1,6 +1,7 @@
 ---
 name: "Leonard Stringfield"
 role: "UFO crash retrieval researcher; author"
+wikipedia: "Leonard H. Stringfield"
 tags:
   - person
 ---
@@ -71,7 +72,7 @@ These accounts collectively form one of the earliest documented bodies of testim
 
 ## Kingman, Arizona Witness Contacts
 
-In 1997, following a lecture at Lunken Airport in Cincinnati, Ohio, Stringfield was approached by a pilot who claimed to have been present at the [[1953 Kingman, Arizona Crash Retrieval]]. The pilot independently described the recovered biologics in terms consistent with [[Arthur Stansel Jr.]]'s 1973 sworn affidavit: approximately 4 feet tall, large eyes, brown-skinned face, and silvery metallic suits. The pilot's identity was not published.
+After a lecture at Lunken Airport in Cincinnati, Ohio, Stringfield was approached by a pilot who claimed to have been present at the [[1953 Kingman, Arizona Crash Retrieval]]. The pilot independently described the recovered biologics in terms consistent with [[Arthur Stansel Jr.]]'s 1973 sworn affidavit: approximately 4 feet tall, large eyes, brown-skinned face, and silvery metallic suits. The pilot's identity was not published. Gerb's video dates the encounter to 1997, but Stringfield died in December 1994, so it must have taken place earlier.
 
 In 1994, a separate individual, codenamed JLD, made similar claims about the Kingman crash to Stringfield. JLD died shortly afterward, preventing further investigation or documentation.
 

@@ -1,6 +1,7 @@
 ---
 name: "John Greenewald"
 role: "Researcher and founder of The Black Vault; FOIA specialist"
+wikipedia: "John Greenewald Jr."
 tags:
   - person
 ---
@@ -19,8 +20,8 @@ NORTHCOM responded that Fast Walker documentation is **"currently and properly c
 
 The denial was not absolute, however. NORTHCOM provided two unclassified US Air Force research papers that confirmed the existence of Fast Walker detection and analysis:
 
-1. **"Orbit Determination of Sunlit Illuminated Objects Detected by Overhead Platforms"** (1989) by USAF Captain [[Richard P. Oszx]]
-2. **"Space-Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors"** (2008) by USAF Captain [[Bradley R. Townson]]
+1. **"Orbit Determination of Sunlit Illuminated Objects Detected by Overhead Platforms"** (1989) by USAF Captain [[Richard P. Osedacz]]
+2. **"Space-Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors"** (2008) by USAF Captain [[Bradley R. Townsend]]
 
 These papers confirmed that DSP satellites had been detecting and cataloging Fast Walkers since at least **1972**.
 
@@ -30,7 +31,7 @@ In late 2023, Greenewald submitted a similar FOIA request to [[US Space Force]],
 
 ## USS Trepang Photograph Analysis
 
-Greenewald engaged with the disputed [[USS Trepang UAPUSO Photography|USS Trepang photographs]] from 1971 — a set of images purportedly showing triangle, cigar-shaped, and egg-shaped UAP interacting with the Arctic Ocean near [[Jan Mayen Island]]. Researcher [[Wim van Utri]] identified signs of photographic tampering in one of the most prominent images. Greenewald argued that the presence of tampering in a single image does not invalidate the remaining photographs, noting that publications routinely enhance images for print and that differences in aspect ratio between the original image and the magazine version are consistent with standard print enhancement rather than deliberate falsification.
+Greenewald engaged with the disputed [[USS Trepang USO Photographs|USS Trepang photographs]] from 1971 — a set of images purportedly showing triangle, cigar-shaped, and egg-shaped UAP interacting with the Arctic Ocean near Jan Mayen Island. Researcher Wim Van Utrecht identified signs of photographic tampering in one of the most prominent images. Greenewald argued that the presence of tampering in a single image does not invalidate the remaining photographs, noting that publications routinely enhance images for print and that differences in aspect between the original image and the magazine version are consistent with standard print enhancement rather than deliberate falsification.
 
 ## Philip J. Corso FBI Documents
 

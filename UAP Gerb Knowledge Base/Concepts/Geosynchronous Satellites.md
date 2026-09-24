@@ -24,11 +24,11 @@ Geosynchronous orbit provides several advantages for detecting [[Fast Walkers]]:
 
 ## Detection Methodology
 
-[[Richard P. Oszx]]'s 1989 paper noted that "certain ballistic missile early warning Satellite Systems located at various geostationary locations" have been recording Fast Walker data since 1972. The paper explained that Fast Walkers are detected by **reflected sunlight** passing through satellite sensors, indicating the satellites can pick up objects by both thermal signature and optical reflection.
+[[Richard P. Osedacz]]'s 1989 paper noted that "certain ballistic missile early warning Satellite Systems located at various geostationary locations" have been recording Fast Walker data since 1972. The paper explained that Fast Walkers are detected by **reflected sunlight** passing through satellite sensors, indicating the satellites can pick up objects by both thermal signature and optical reflection.
 
 ## Increased Detection Rates
 
-The 1989 Oszx study stated that "the fast Walker analysis has become an increasingly important issue due to the **increase in geosynchronous satellites** which detect the objects while ground-based sensors cannot."
+The 1989 Osedacz study stated that "the fast Walker analysis has become an increasingly important issue due to the **increase in geosynchronous satellites** which detect the objects while ground-based sensors cannot."
 
 This suggests that as more geosynchronous satellites were deployed throughout the 1970s-1980s, Fast Walker detection rates increased — either because more sensors provided better coverage, or because the satellites detected objects that ground systems had been missing all along.
 

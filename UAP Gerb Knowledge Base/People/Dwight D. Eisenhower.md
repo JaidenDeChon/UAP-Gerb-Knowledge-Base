@@ -1,6 +1,7 @@
 ---
 name: "Dwight D. Eisenhower"
 role: "34th President of the United States (1953–1961); Supreme Allied Commander Europe (1951–1952); Army General of the Army"
+wikipedia: "Dwight D. Eisenhower"
 tags:
   - person
 ---

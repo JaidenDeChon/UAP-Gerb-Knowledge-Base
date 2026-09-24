@@ -1,6 +1,7 @@
 ---
 name: "Walter Bedell Smith"
 role: "US Army general; ambassador to the USSR; Director of Central Intelligence"
+wikipedia: "Walter Bedell Smith"
 tags:
   - person
 ---

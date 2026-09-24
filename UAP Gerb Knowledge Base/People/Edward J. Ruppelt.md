@@ -1,11 +1,12 @@
 ---
 name: "Edward J. Ruppelt"
-role: "Captain, US Air Force; Director of Project Sign, Project Grudge, and Project Blue Book"
+role: "Captain, US Air Force; head of Project Grudge and Project Blue Book"
+wikipedia: "Edward J. Ruppelt"
 tags:
   - person
 ---
 
-Captain Edward J. Ruppelt served as director of the US Air Force's official UFO investigation programs: [[Project Sign]], [[Project Grudge]], and [[Project Blue Book]]. Ruppelt is notable for identifying and categorizing significant UFO cases during the late 1940s and early 1950s, including the [[Gorman Dogfight]], which he wrote about as one of three classic UFO incidents in 1948 that "proved to Air Force intelligence specialists that UFOs were real." Critically, Ruppelt also concluded that UFOs had an "interplanetary explanation" and disclosed that programs parallel to the official investigations were conducting more complete classified investigations into the phenomenon.
+Captain Edward J. Ruppelt headed the US Air Force's official UFO investigation from 1951 to 1953, first as [[Project Grudge]] and then as its successor, [[Project Blue Book]], inheriting the files of the earlier [[Project Sign]]. (Gerb, in [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters]], calls him the Sign, Grudge and Blue Book director.) Ruppelt is notable for identifying and categorizing significant UFO cases during the late 1940s and early 1950s, including the [[Gorman Dogfight]], which he wrote about as one of three classic UFO incidents in 1948 that "proved to Air Force intelligence specialists that UFOs were real." Critically, Ruppelt also concluded that UFOs had an "interplanetary explanation" and disclosed that programs parallel to the official investigations were conducting more complete classified investigations into the phenomenon.
 
 ## Role in UFO Investigation Programs
 
@@ -15,7 +16,7 @@ As director of the Air Force's successive UFO investigation programs, Ruppelt ov
 
 On April 24, 1952, Ruppelt made the significant disclosure that programs parallel to the official USG UFO investigations were "conducting a more complete investigation" into the phenomenon. This statement confirmed that while Project Sign, Grudge, and Blue Book operated as the public-facing Air Force UFO programs, additional classified programs existed that had deeper investigative authority and access.
 
-This same conclusion was later reached by Dr. [[J. Allen Hynek]], the scientific advisor to Project Blue Book, who similarly stated that alongside Blue Book, other classified programs were studying UFOs. One of these parallel programs was later confirmed to be [[Project Moondust]], a classified Air Force crash retrieval and investigation program that operated from at least 1961 through the mid-1990s under the authority of the [[USAF 1127th Field Activities Group]].
+This same conclusion was later reached by Dr. [[J. Allen Hynek]], the scientific advisor to Project Blue Book, who similarly stated that alongside Blue Book, other classified programs were studying UFOs. One of these parallel programs was later confirmed to be [[Project Moon Dust]], a classified Air Force crash retrieval and investigation program that operated from at least 1961 through the mid-1990s under the authority of the [[USAF 1127th Field Activities Group]].
 
 Ruppelt's disclosure of parallel programs indicates that the official Air Force UFO investigations were only one layer of a multi-tiered approach, with classified programs like Moon Dust handling actual crash retrieval, material analysis, and field operations while public-facing programs managed perception and information control.
 

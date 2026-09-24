@@ -14,7 +14,7 @@ In Fouché's telling, engineering was performed by [[Lockheed Martin]], [[Boeing
 
 ## Lockheed Martin and Sandia
 
-UAP Gerb's *Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs* sets Fouché's dates against Lockheed's corporate history. [[Martin Marietta]] won the contract to manage Sandia in 1993, the TR-3B allegedly went operational in 1994, and Martin Marietta merged with the Lockheed Corporation to form Lockheed Martin in 1995, so that the company Fouché named as a TR-3B contractor also came to run the laboratory he said built its propulsion. The host also ties Fouché's Edwards claims to the witness he calls Ed, who says Boeing and Lockheed were the key contractors in an ARV program spanning Edwards, Area 51 and S4, and to the triangle [[Rodrik Castle]] encountered during the 1997 [[Hunter Warrior Advanced Warfighting Experiment]].
+UAP Gerb's *Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs* sets Fouché's dates against Lockheed's corporate history. [[Martin Marietta]] won the contract to manage Sandia in 1993, the TR-3B allegedly went operational in 1994, and Martin Marietta merged with the Lockheed Corporation to form Lockheed Martin in 1995, so that the company Fouché named as a TR-3B contractor also came to run the laboratory he said built its propulsion. Gerb also ties Fouché's Edwards claims to the witness he calls Ed, who says Boeing and Lockheed were the key contractors in an ARV program spanning Edwards, Area 51 and S4, and to the triangle [[Rodrik Castle]] encountered during the 1997 [[Hunter Warrior Advanced Warfighting Experiment]].
 
 ## *Sekret Machines*
 

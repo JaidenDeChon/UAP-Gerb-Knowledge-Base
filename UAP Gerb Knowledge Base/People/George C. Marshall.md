@@ -1,6 +1,7 @@
 ---
 name: "George C. Marshall"
 role: "US Army General of the Army; Army Chief of Staff (1939–1945); Secretary of State (1947–1949); Secretary of Defense (1950–1951)"
+wikipedia: "George C. Marshall"
 tags:
   - person
 ---

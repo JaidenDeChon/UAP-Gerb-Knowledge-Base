@@ -1,69 +1,397 @@
 ---
 title: "UFOs and Nuclear Weapons - A Fascinating Connection"
-date: NA
+date: 2024-01-29
 video_id: -DK2u8HlhDE
 url: https://www.youtube.com/watch?v=-DK2u8HlhDE
 channel: UAP Gerb
-duration_seconds: 0
+duration_seconds: 990
 tags:
   - video
   - uap-gerb
 ---
 
+::wiki-stat-strip
+---
+stats:
+  - value: 10
+    label: Minuteman missiles disabled
+    hint: "Malmstrom, 24 Mar 1967"
+  - value: 33
+    label: UFO nuclear incidents in two weeks
+    hint: "NORAD log, 1975"
+  - value: 18
+    label: Years Jacobs kept silent
+    hint: "1964–1982"
+  - value: 4
+    label: Sworn Malmstrom affidavits
+    hint: "Salas and three others"
+---
+::
+
 ## Overview
 
-This video examines the documented relationship between UFOs and nuclear weapons systems, presenting two of the most thoroughly corroborated cases from the Cold War era and contextualizing them within broader theories about extraterrestrial motivation. The central argument is that UFOs demonstrate a consistent and deliberate interest in nuclear technology — specifically an apparent ability to interfere with, disable, or otherwise manipulate nuclear weapons without physical access to launch codes or control systems.
+This video surveys what Gerb calls some of the most fascinating and best-documented cases of UFOs tampering with nuclear weapons during the Cold War. Its opening image sets the thesis: nuclear weapons are the most feared tool humanity has built, yet to UFOs they appear to be "a light switch", something that can be turned off without launch codes, a control panel or the multiple-key procedures that guard them. Gerb builds the argument on two cases he names as his favourites, widens it to NORAD records and a nuclear power plant, and closes with a theory of *why* such interest might exist.
 
-The first case centers on [[Robert Jacobs]], a US Air Force Lieutenant who filmed a disc-shaped craft interacting with a dummy nuclear warhead during a September 1964 missile test at [[Vandenberg Air Force Base]]. The footage was immediately confiscated by government agents, and Jacobs was ordered to silence by his commanding officer, [[Florence J. Mansman]]. The second case is the March 1967 [[Malmstrom Air Force Base UFO Incident]], in which a pulsating red oval craft hovered over a nuclear weapons silo and caused all 10 of the site's [[ICBM (Intercontinental Ballistic Missile)|Minuteman ICBMs]] to simultaneously fail — an event corroborated by multiple sworn affidavits from personnel present. The video also briefly covers a 1984 incident at the Indian Point nuclear power plant in New York and references a 1975 NORAD log showing 33 UFO nuclear incidents over a two-week period.
+The first case centres on [[Robert Jacobs]], a US Air Force lieutenant in charge of optical instrumentation at [[Vandenberg Air Force Base]], whose unit filmed a September 1964 test launch of a dummy nuclear warhead. According to Jacobs, a disc-shaped craft flew into the frame, struck the warhead with four beams of light and left; days later the footage was screened for him in the office of his commanding officer, Major [[Florence J. Mansman]], in the presence of three men in grey suits who, Mansman later told him, cut the UFO section out of the film. The second case is the March 1967 [[Malmstrom Air Force Base UFO Incident]], in which, according to launch officer [[Robert Salas]] and three other men who later swore affidavits, a glowing red oval object hovered over the front gate of a launch facility while all ten of its [[ICBM (Intercontinental Ballistic Missile)|Minuteman ICBMs]] went into fault status and could not be launched.
 
-The presenter closes by applying the [[Fermi Paradox]] and the [[Great Filter]] framework to the nuclear-UFO connection, theorizing that humanity's development of nuclear fission may have attracted extraterrestrial monitoring or intervention. The timing of the 1947 [[Roswell Crash]] — occurring just two years after the [[Atomic Bombings of Hiroshima and Nagasaki]] — is offered as circumstantial evidence for this hypothesis.
+Beyond the two featured cases, Gerb cites a 1975 [[NORAD]] log, released in 1977, recording 33 UFO nuclear incidents in two weeks, which he sets against [[Project Blue Book]]'s 1969 finding that UFOs posed no threat to national security. He adds the July 1984 [[1984 Indian Point UFO Incident|Indian Point incident]] at a New York nuclear power plant, where security systems failed as a huge conical object passed overhead and [[Nuclear Regulatory Commission]] agents took the records, and asks how active the NRC has been in the cover-up. He closes by reading the pattern through the [[Great Filter]], a proposed answer to the [[Fermi Paradox]]: the harnessing of atomic fission and fusion may be one of the gates a civilisation must pass, and the timing of the 1947 [[Roswell Crash]], two years after the atomic bombings of Hiroshima and Nagasaki, suggests to him that other species took a heightened interest once humans began to harness the atom.
+
+## Chronology
+
+::wiki-timeline{video="-DK2u8HlhDE" video-title="UFOs and Nuclear Weapons - A Fascinating Connection"}
+---
+help: "The bar pinned above the entries is a ruler from 1945 to 2023. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line capped with a downward arrow is where Gerb is. The video does not run in date order: it follows the Vandenberg story through to 2023 before turning to Malmstrom, and saves 1945 and 1947 for its closing argument, so the playhead jumps. Timestamps jump the mini-player to that moment."
+events:
+  - date: "1945-08"
+    title: "Atomic bombings of Hiroshima and Nagasaki"
+    cue: 943
+    summary: "Gerb places the bombings of Hiroshima and Nagasaki in 1945 at the start of the nuclear age, shortly after what he recalls as the first atomic tests. In his closing argument they mark humanity's arrival at the atomic 'gate' of the Great Filter."
+    category: event
+    significance: major
+    entities:
+      - "Great Filter"
+  - date: "1947-07"
+    title: "Roswell crash"
+    cue: 931
+    summary: "Two years after the bombings came what Gerb calls the first high-profile crash retrieval. He stresses that UFOs were here before then, but sees a 'heavy pickup of interest' once humans began to harness the atom."
+    category: event
+    significance: major
+    entities:
+      - "Roswell Crash"
+      - "Crash Retrieval"
+  - date: "1954"
+    title: "AEC used to misclassify UFO records"
+    cue: 771
+    summary: "According to Gerb, the Atomic Energy Commission was used in 1954 to misclassify UFO records as 'trans-classified foreign nuclear material', an early sign of the nuclear bureaucracy's role in UFO secrecy."
+    category: policy
+    significance: notable
+    entities:
+      - "Atomic Energy Commission"
+      - "Atomic Energy Act of 1954"
+  - date: "1964-09-14"
+    title: "Jacobs films a craft striking a dummy warhead"
+    cue: 131
+    summary: "Lt. Robert Jacobs's 100-man optical instrumentation unit filmed the launch of a dummy nuclear warhead from the Western Test Range near Big Sur. At the edge of space, a disc with a domed top flew into the frame, fired four beams of light at the warhead from the dome and left the way it came; the warhead fell out of the frame."
+    category: event
+    significance: major
+    entities:
+      - "Vandenberg Air Force Base UFO Film Incident"
+      - "Robert Jacobs"
+      - "Vandenberg Air Force Base"
+      - "Big Sur, California"
+      - "Directed Energy Beam"
+  - date: "1964-09"
+    title: "The film is screened and the UFO footage removed"
+    cue: 214
+    summary: "A day or two later Jacobs was shown the film in Major Florence J. Mansman's office, with three men in grey suits present. Mansman told him it never happened and that, if ever asked, he should call it 'laser tracking strikes'. Years later Mansman told Jacobs the men had cut the UFO footage out with scissors and taken it away in a briefcase."
+    category: event
+    significance: major
+    entities:
+      - "Florence J. Mansman"
+      - "Robert Jacobs"
+      - "Laser Tracking Strikes"
+  - date: "1967-03-24"
+    title: "Malmstrom: ten Minuteman missiles go offline"
+    cue: 530
+    summary: "At a Malmstrom Air Force Base launch control facility, Lt. Robert Salas was told that a pulsating red oval object, 30 to 40 feet across, was hovering over the front gate. All ten of his Minuteman missiles then went into fault status, most or all with guidance and control failures, and stayed inoperable for the rest of the night."
+    category: event
+    significance: major
+    entities:
+      - "Malmstrom Air Force Base UFO Incident"
+      - "Robert Salas"
+      - "Malmstrom Air Force Base"
+      - "Nuclear ICBM Shutdown"
+  - date: "1967-03-25"
+    title: "Salas's crew debriefed and the event classified Secret"
+    cue: 623
+    summary: "The next morning squadron commander Colonel George Eldridge told Salas the event was not an Air Force exercise and could not be explained. An officer from the Air Force's security and intelligence office told the crew it was classified Secret and not to be discussed."
+    category: policy
+    significance: notable
+    entities:
+      - "Robert Salas"
+  - date: "1969"
+    title: "Project Blue Book finds no threat to national security"
+    cue: 694
+    summary: "Project Blue Book's findings, given to Congress and the public, held that UFOs were not a threat to national security. Gerb sets the NORAD log below directly against this conclusion."
+    category: document
+    significance: notable
+    entities:
+      - "Project Blue Book"
+  - date: "1974"
+    title: "AEC split into the NRC and the Department of Energy"
+    cue: 753
+    summary: "The Nuclear Regulatory Commission and the Department of Energy were both created out of the Atomic Energy Commission. Gerb notes the DOE's known hand in UAP research, and asks why the NRC is rarely discussed."
+    category: organization
+    significance: minor
+    entities:
+      - "Atomic Energy Commission"
+      - "Nuclear Regulatory Commission"
+      - "Department of Energy"
+  - date: "1975"
+    title: "NORAD log records 33 UFO nuclear incidents in two weeks"
+    cue: 678
+    summary: "A NORAD log released in 1977 under the Freedom of Information Act showed 33 different UFO nuclear incidents over a two-week period in 1975."
+    category: document
+    significance: major
+    entities:
+      - "NORAD"
+      - "UFO Interference with Nuclear Weapons"
+  - date: "1982"
+    title: "Jacobs goes public"
+    cue: 420
+    summary: "After 18 years of silence, Jacobs told his story, reasoning that he had never signed a confidentiality or non-disclosure agreement nor been told the case was classified. He then faced reprisals, including threatening telephone calls through the night."
+    category: person
+    significance: major
+    entities:
+      - "Robert Jacobs"
+  - date: "1984-07-24"
+    title: "Indian Point nuclear power plant incident"
+    cue: 710
+    summary: "Security police at the Indian Point nuclear power plant in Buchanan, New York, reported a conical object as long as three football fields, with white, yellow and blue oscillating lights. Movement sensors, alarms and security control computers failed as it passed overhead; within two days NRC agents took over plant security operations and confiscated the video and audio records."
+    category: event
+    significance: major
+    entities:
+      - "1984 Indian Point UFO Incident"
+      - "Nuclear Regulatory Commission"
+  - date: "1985"
+    title: "MUFON reports the Vandenberg case"
+    cue: 449
+    summary: "MUFON reported Jacobs's case in 1985."
+    category: document
+    significance: minor
+    entities:
+      - "MUFON"
+      - "Robert Jacobs"
+  - date: "c. 1989"
+    title: "Mansman confirms Jacobs's account in writing"
+    cue: 453
+    summary: "In a signed reply to Paramount Pictures staff making a documentary on the case, Mansman confirmed Jacobs's account 'as he described it in the January 1989 MUFON Journal', treating it as fact."
+    category: document
+    significance: notable
+    entities:
+      - "Florence J. Mansman"
+      - "Robert Jacobs"
+  - date: "2010"
+    title: "Salas's sworn affidavit"
+    cue: 649
+    summary: "Salas swore his account into the record in a 2010 affidavit. Three other Malmstrom men swore affidavits describing the same incident."
+    category: document
+    significance: notable
+    entities:
+      - "Robert Salas"
+      - "Malmstrom Air Force Base UFO Incident"
+  - date: "2023-02-10"
+    title: "Jacobs testifies under oath to AARO"
+    cue: 481
+    summary: "Jacobs gave sworn testimony to AARO and its director Sean Kirkpatrick. 'So how about that for no credible witnesses,' Gerb remarks."
+    category: event
+    significance: major
+    entities:
+      - "Robert Jacobs"
+      - "AARO"
+      - "Sean Kirkpatrick"
+---
+::
 
 ## The 1964 Vandenberg Incident
 
-On September 14, 1964, Lieutenant [[Robert Jacobs]] commanded a 100-man optical instrumentation unit at [[Vandenberg Air Force Base]] tasked with filming every nuclear payload and ballistic missile launch from the Western Test Range near [[Big Sur, California]]. His unit's photography equipment was capable of imaging the "nuts and bolts" of missiles from 160 miles away. The day's mission was to document the launch of a dummy ICBM warhead designed to separate from [[Missile Chaff Decoy|chaff countermeasures]] ahead of the warhead, deceiving Soviet air defenses into targeting the decoy rather than the actual payload.
+In 1964 Lieutenant [[Robert Jacobs]] was the officer in charge of optical instrumentation at [[Vandenberg Air Force Base]], commanding a 100-man unit that provided engineering photography of every nuclear payload and ballistic missile launched from the Western Test Range near [[Big Sur, California]]. Gerb explains the unit's importance by the high failure rate of missiles on the pad in the early 1960s. On 14 September 1964 the unit was to film the launch of a dummy nuclear warhead, identical in size, dimensions and weight to a real one. The three-stage ICBM was built to fool Soviet air defences into shooting at [[Missile Chaff Decoy|chaff]] while the warhead separated and flew on. Through telescopes and 180-inch lenses sensitive enough to photograph the missile's "nuts and bolts", Jacobs watched it clear the fog and pass through all three stages without a hitch, and the film went back to Vandenberg.
 
-The launch proceeded normally through all three powered flight stages. At the point of warhead separation, an unidentified craft entered the camera's frame. Described by Jacobs as two saucers pressed together with a hemisphere dome on top — resembling "half of a ping-pong ball" — the object matched the warhead's velocity of 6,000–8,000 miles per hour at the fringe of space. The craft executed a precise sequence: it fired a [[Directed Energy Beam]] at the warhead from the dome, circled above and fired again, descended below and fired a third time, then fired a fourth beam before departing the same direction it had entered. The warhead subsequently fell off-trajectory and out of the frame.
+A day or two later Jacobs was called to the office of Major [[Florence J. Mansman]], his commanding officer, and found him with three men in grey suits, whom Mansman later said were the director of the Office of the Chief Scientist and two government agent assistants. On a 16 mm projector they watched the launch from 160 miles away, the chaff rippling out ahead of the warhead as it flew at 6,000 to 8,000 miles per hour on the fringe of space. Then, in Jacobs's words, an object flew into the frame at the same speed, fired a beam of light at the warhead, flew up and fired again, went around and fired a third time, went down and fired a fourth, and flew out the way it had come; the warhead fell out of the frame. Jacobs described a classic saucer, two discs pressed together with rounded edges and a hemisphere on top "like half of a ping-pong ball". What interests Gerb most is that the [[Directed Energy Beam|beam]] came from that dome.
 
-Within days, Jacobs was summoned to the office of Major [[Florence J. Mansman]], where he found the major accompanied by three men in gray suits — later identified by Mansman as the Director of the Office of the Chief Scientist and two government agent assistants. After a private screening of the film, Mansman ordered Jacobs to attribute the events to "[[Laser Tracking Strikes]]" — a cover story Jacobs noted was technically impossible, as practical laser tracking systems did not exist in 1964. Mansman warned of "dark consequences" for any security breach. The men in gray suits physically cut the UFO footage from the film with scissors, placed it in a briefcase, and departed. Jacobs maintained silence for 18 years before publicly disclosing the incident in 1982, reasoning he had never signed a non-disclosure agreement. He faced severe harassment and threatening phone calls after going public. Major Mansman subsequently corroborated Jacobs's account in a signed letter to Paramount Pictures, and Jacobs testified under oath to [[AARO]] and [[Sean Kirkpatrick]] on February 10, 2023.
+When the lights came on, a furious Mansman asked whether the team had been "screwing around" at the launch site. Jacobs replied that it looked to him like they had a UFO. Mansman told him it had never happened, warned him of "the dark consequences of a security breach", and instructed him that if he was ever asked about it he should explain it away as "[[Laser Tracking Strikes|laser tracking strikes]]". Gerb points out that laser tracking did not exist in 1964, when lasers were still in their infancy. Nobody else at Vandenberg saw the film. Years later Mansman told Jacobs what had happened to it.
+
+::wiki-chain{video="-DK2u8HlhDE" video-title="UFOs and Nuclear Weapons - A Fascinating Connection"}
+---
+kind: custody
+label: "What happened to the film"
+caption: "The Vandenberg film from launch to confiscation, as Jacobs tells it; the split at the end is what Mansman told him years later."
+steps:
+  - name: "Big Sur, California"
+    date: "1964-09-14"
+    note: "Jacobs's unit films the dummy-warhead launch from the Western Test Range."
+    cue: 117
+  - via: "Submitted after the mission"
+    name: "Vandenberg Air Force Base"
+    note: "Nobody else on the base saw the film."
+    cue: 197
+  - via: "Screened a day or two later"
+    name: "Florence J. Mansman"
+    note: "Shown on a 16 mm projector in his office, to Jacobs and three men in grey suits."
+    cue: 214
+  - via: "Cut apart with scissors"
+    fork:
+      - label: "The UFO footage"
+        steps:
+          - text: "The grey-suited men's briefcase"
+            note: "Taken away by the party Mansman named as the director of the Office of the Chief Scientist and two agents."
+            cue: 404
+      - label: "The rest of the reel"
+        steps:
+          - text: "Handed back to Mansman, edited"
+            note: "With threats, and an order to consider the incident closed."
+            cue: 411
+---
+::
+
+Jacobs kept the story to himself for 18 years. In 1982 he went public, reasoning that he had never signed a confidentiality or non-disclosure agreement and had never been told the case was classified. He faced severe reprisals: constant telephone calls through the night telling him he was "going down". [[MUFON]] reported the case in 1985, and Mansman himself later confirmed Jacobs's story as fact in a signed reply to staff at Paramount Pictures who were making a documentary on it, writing that he was confirming the account as Jacobs had described it in the January 1989 MUFON Journal. On 10 February 2023, Jacobs testified under oath to [[AARO]] and its then director, [[Sean Kirkpatrick]].
 
 ## The 1967 Malmstrom Incident
 
-On the night of March 24, 1967, US Air Force First Lieutenant [[Robert Salas]] served as on-duty commander of an underground nuclear launch control facility at [[Malmstrom Air Force Base]], Montana, assigned to the 490th Minuteman Missile Squadron. His flight security controller (FSC) called to report unusual lights in the sky performing maneuvers inconsistent with conventional aircraft — no engine noise, high velocity, abrupt directional changes. Minutes later, the FSC called again in a state of alarm: a pulsating red oval-shaped craft, estimated at 30 to 40 feet in diameter, was hovering over the front gate. Armed security personnel had weapons drawn on the object.
+Gerb introduces Malmstrom as a case that [[David Grusch]] directly confirmed as fact in his interview with [[Ross Coulthart]] on NewsNation. On the night of 24 March 1967, US Air Force First Lieutenant [[Robert Salas]] was the on-duty commander of an underground nuclear launch control facility at [[Malmstrom Air Force Base]], Montana, in the 490th Minuteman missile squadron, responsible for the readiness and security of ten Minuteman missiles. His flight security controller (FSC) called to say the flight's security team had been watching lights in the sky making unusual manoeuvres: high speed, sudden changes of direction, no engine noise. Within minutes the FSC called back, screaming, to report a pulsating red oval object, 30 to 40 feet across, hovering over the front gate, with the guards outside pointing their weapons at it. Its glow was so bright that no structure could be made out.
 
-Simultaneously, indicators at Salas's launch control console began to fail in rapid succession. All 10 Minuteman nuclear missiles showed red fault status — guidance and control system failures rendering every missile unable to launch. The craft then departed without warning. The missiles remained inoperable for the rest of the night but showed no permanent damage.
+At that moment the alarms and indicators on Salas's console "went haywire". As the crew worked through their checklists, all ten missiles showed a red fault status: disabled and unable to launch, most if not all with guidance and control system failures. The FSC then reported that the object had simply flown off. The missiles stayed inoperable for the rest of the night but suffered no permanent damage.
 
-The following morning, squadron commander Colonel George Eldridge briefed Salas and his crew, confirming the incident was not part of any Air Force exercise and providing no explanation. An Air Force Office of Security and Intelligence officer classified the event as Secret and directed personnel not to discuss it. Salas later submitted a 2010 sworn affidavit. Three other Malmstrom personnel submitted independent sworn affidavits corroborating the event: USAF First Lieutenant Robert C. Jameson, USAF Airman First Class Patrick McDonah, and communications officer Dwin C. Arneson.
+The next morning Salas and his crew were relieved and debriefed by their squadron commander, whom Gerb names as Colonel George Eldridge. He assured Salas the incident was not part of any Air Force exercise and could not explain it. An officer from the Air Force's office of security and intelligence told the crew that the event was classified Secret and not to be discussed. Salas swore his account into the record in a 2010 affidavit, and three other Malmstrom veterans swore affidavits of their own: Robert Jamison, then a first lieutenant and missile targeting officer; Patrick McDonough, then an airman first class; and Dwynne Arneson, then the officer in charge of the base communications centre. (Gerb's renderings of their names are "Robert C. Jameson", "Patrick McDonah" and "Dwin C. Arneson".)
 
-## Additional Nuclear UFO Cases
+## Beyond the Two Cases
 
-Beyond the two featured incidents, the video references several broader data points:
+Gerb then widens the lens. In 1977 a NORAD log released under the Freedom of Information Act showed 33 different UFO nuclear incidents over a two-week period in 1975, which he calls a direct contradiction of Project Blue Book's 1969 findings, given to Congress and the public, that UFOs were no threat to national security.
 
-A 1977 NORAD log, released through the [[Freedom of Information Act (FOIA)|Freedom of Information Act]], documented 33 distinct UFO nuclear incidents over a two-week period in 1975 — directly contradicting [[Project Blue Book]]'s 1969 public conclusion that UFOs posed no threat to national security.
+UFOs, he continues, have shown interest in nuclear power as well as nuclear weapons. On 24 July 1984, security police at the Indian Point nuclear power plant in Buchanan, New York, reported a conical UFO as long as three football fields, with white, yellow and blue oscillating lights. As it flew overhead the plant's movement sensors, alarms and security control computers failed. Over the next two days, agents of the US [[Nuclear Regulatory Commission]] took over the plant's security operations and confiscated the video and audio records of the event. Around the same time, Gerb adds, the NRC opened an incident file on a black triangle seen over Cooper Nuclear Station in Nebraska. (Indian Point lies in the lower Hudson Valley, the setting of the mid-1980s [[Hudson Valley UFO Flap]].)
 
-On July 24, 1984, security police at the Indian Point nuclear power plant in Buchanan, New York reported a conical UFO approximately three football fields in length with oscillating white, yellow, and blue lights. The plant experienced simultaneous failure of its movement sensors, alarms, and security control computers. US Nuclear Regulatory Commission agents subsequently confiscated all video and audio records of the event. Around the same period, the NRC created a separate incident file for a black triangle UFO sighted over Cooper Nuclear Station in Nebraska.
+That leads Gerb to a question he leaves for another video. The NRC and the [[Department of Energy]] were both born from the [[Atomic Energy Commission]] (AEC) in 1974. The DOE, he says, is known to have played an active hand in UAP research and probably in crash retrieval and reverse engineering; historically, the AEC was used in 1954 to misclassify UFO records as "trans-classified foreign nuclear material". But the NRC is almost never mentioned: how active has it been in the UFO cover-up? He adds that these are far from all the known cases of UFOs tampering with US nuclear weapons, and floats a part two.
 
-The presenter also identifies the [[Atomic Energy Commission]] (AEC) as having been used to misclassify UFO records under "trans-classified foreign nuclear information" beginning in 1954. The AEC was dissolved and replaced by the NRC and the Department of Energy in 1974, and the presenter suggests the NRC's institutional role in UFO suppression may be underexplored.
+The three incidents Gerb describes in detail share a shape: a nuclear system, a craft seen at the time, the system's failure, and the evidence taken out of the witnesses' hands.
+
+::wiki-compare{video="-DK2u8HlhDE" video-title="UFOs and Nuclear Weapons - A Fascinating Connection"}
+---
+caption: "The three incidents the video describes in detail, as Gerb recounts them."
+attributeLabel: "Point"
+subjects:
+  - name: "Vandenberg Air Force Base UFO Film Incident"
+    note: "Big Sur launch, 14 Sep 1964"
+  - name: "Malmstrom Air Force Base UFO Incident"
+    note: "Montana, 24 Mar 1967"
+  - name: "1984 Indian Point UFO Incident"
+    note: "Buchanan, New York, 24 Jul 1984"
+rows:
+  - attribute: "Nuclear system"
+    cells:
+      - { text: "A dummy nuclear warhead on a three-stage ICBM test launch", cue: 136 }
+      - { text: "Ten Minuteman ICBMs run from an underground launch control facility", cue: 525 }
+      - { text: "A nuclear power plant", cue: 710 }
+  - attribute: "Who saw it"
+    cells:
+      - { text: "Lt. Robert Jacobs's optical unit, on film", cue: 112 }
+      - { text: "The flight security team outside; Lt. Robert Salas at the console", cue: 538 }
+      - { text: "The plant's security police", cue: 720 }
+  - attribute: "Craft reported"
+    cells:
+      - { text: "Two saucers pressed together, with a dome \"like half of a ping-pong ball\"", cue: 317 }
+      - { text: "A pulsating red oval, 30 to 40 ft across", cue: 564 }
+      - { text: "Conical, as long as three football fields, with white, yellow and blue lights", cue: 723 }
+  - attribute: "What failed"
+    cells:
+      - { text: "Struck by four beams, the warhead fell out of the frame", cue: 294 }
+      - { text: "All ten missiles showed fault status, mostly guidance and control failures", cue: 593 }
+      - { text: "Movement sensors, alarms and security control computers", cue: 731 }
+  - attribute: "The evidence afterwards"
+    cells:
+      - { text: "UFO footage cut out and taken away by men in grey suits", cue: 404 }
+      - { text: "Classified Secret; the crew told not to speak of it", cue: 638 }
+      - { text: "Video and audio records confiscated by NRC agents within two days", cue: 740 }
+  - attribute: "On the record"
+    cells:
+      - { text: "Jacobs public in 1982; Mansman's written confirmation; sworn testimony to AARO in 2023", cue: 420 }
+      - { text: "Four sworn affidavits, Salas's in 2010", cue: 649 }
+      - { mark: unknown }
+---
+::
+
+## Official Positions and the Record
+
+Three times in the video Gerb sets an official line, or a stance he attributes to officials, against the record as he reads it. The first answer to Mansman's cover story came from Mansman himself.
+
+::wiki-claim{video="-DK2u8HlhDE" video-title="UFOs and Nuclear Weapons - A Fascinating Connection"}
+---
+label: "Official positions and the record"
+term: "Position"
+caption: "The positions the video challenges, with the answers Gerb gives or cites."
+claims:
+  - title: "Laser tracking strikes"
+    by: "Florence J. Mansman"
+    date: "1964-09"
+    where: "His office at Vandenberg, as Jacobs recounts it"
+    text: "If Jacobs was ever asked about the film, he was to explain it away as \"laser tracking strikes\"."
+    cue: 368
+    responses:
+      - by: "Gerb"
+        stance: challenges
+        text: "Laser tracking did not exist in 1964; lasers were still in their infancy."
+        cue: 379
+      - by: "Florence J. Mansman"
+        stance: challenges
+        date: "c. 1989"
+        where: "A signed reply to Paramount Pictures"
+        text: "Confirmed as fact Jacobs's account as described in the January 1989 MUFON Journal."
+        cue: 453
+  - title: "No threat to national security"
+    by: "Project Blue Book"
+    date: "1969"
+    where: "Findings given to Congress and the public"
+    text: "UFOs were not a threat to national security."
+    cue: 694
+    responses:
+      - by: "Gerb"
+        stance: challenges
+        text: "A NORAD log released under FOIA in 1977 showed 33 UFO nuclear incidents over two weeks in 1975: a direct contradiction."
+        cue: 678
+  - title: "No credible witnesses"
+    by: ["AARO", "Sean Kirkpatrick"]
+    note: "The stance as Gerb characterises it, from his earlier video on Kirkpatrick and AARO"
+    text: "There are no credible witnesses to such events."
+    cue: 490
+    responses:
+      - by: "Gerb"
+        stance: challenges
+        date: "2023-02-10"
+        text: "Jacobs testified under oath to AARO and to Kirkpatrick himself: \"How about that for no credible witnesses.\""
+        cue: 481
+---
+::
 
 ## The Great Filter and Extraterrestrial Motivation
 
-The presenter applies the [[Great Filter]] hypothesis — drawn from the [[Fermi Paradox]] — to explain why extraterrestrials might monitor nuclear-armed civilizations. The Great Filter posits that intelligent civilizations must successfully navigate a series of developmental thresholds, with failure at any gate resulting in extinction. The harnessing of nuclear fission represents one such gate: a civilization capable of splitting atoms possesses the means to destroy itself before achieving the long-term energy abundance that controlled nuclear fusion would enable.
+Why would UFOs be interested in nuclear weapons? Gerb allows there are probably many reasons, but boils it down to the possibility of the [[Great Filter]]. He comes to it through the [[Fermi Paradox]] (if there are aliens in the universe, why can't we see them?), a framing he dislikes and which sits, he recalls, on level two of his iceberg video. One answer to it is the Great Filter: in every intelligent civilisation's lifetime it passes a series of gates at which it either survives and thrives or destroys itself.
 
-In this framework, extraterrestrial species that have already passed the nuclear threshold may observe or intervene when younger civilizations reach it. The timing correlation is highlighted: the [[Roswell Crash]] of 1947 occurred only two years after the [[Atomic Bombings of Hiroshima and Nagasaki]] and within years of the first American atomic tests (1942–1944), suggesting a potential inflection point in extraterrestrial attention to Earth coinciding with humanity's first demonstrated nuclear capability.
+In Gerb's opinion, one of those gates is the harnessing of the atom. Fission, the splitting of atoms, is what powers atomic weapons and gives humanity the means to destroy itself. Fusion, the fusing of hydrogen atoms that powers the Sun, would give it energy systems that put out more than is put in, which is not yet possible; Gerb dismisses the "clickbaiting" headlines of a year or two earlier that China had "harnessed the power of the Sun", which reported only a record-length sustained fusion reaction. Harnessing these technologies would truly make or break a civilisation, and Gerb asks whether that attracts other species.
+
+His evidence is timing. The Roswell crash came in 1947, soon after the first atomic tests, which Gerb recalls as taking place from 1942 to 1944 (the first test, Trinity, was in July 1945), and after the bombings of Hiroshima and Nagasaki in 1945. UFOs had been here before then, he says, but there seems to be a heavy pickup of interest once humans started to harness the atom. His guess is that fission and fusion are one step of the Great Filter, and that some species in the universe want to see what humanity does with it.
+
+## Key Figures
+
+::wiki-roster
+---
+entries:
+  - name: "Robert Jacobs"
+    role: "US Air Force lieutenant, officer in charge of optical instrumentation at Vandenberg"
+    note: "Filmed the September 1964 launch in which, he says, a disc struck a dummy warhead with four beams of light; silent for 18 years, public in 1982, and in 2023 a sworn witness before AARO."
+  - name: "Florence J. Mansman"
+    role: "US Air Force major, Jacobs's commanding officer"
+    note: "Screened the film with three men in grey suits, ordered the 'laser tracking strikes' cover story, and later confirmed Jacobs's account in writing to Paramount Pictures."
+  - name: "Robert Salas"
+    role: "US Air Force first lieutenant, Minuteman launch officer at Malmstrom"
+    note: "On duty on 24 March 1967 when, he says, ten missiles failed as a red oval object hovered at the gate; swore his account into the record in a 2010 affidavit."
+  - name: "Sean Kirkpatrick"
+    role: "Director of AARO"
+    note: "Received Jacobs's sworn testimony on 10 February 2023, which Gerb offers against the 'no credible witnesses' stance."
+---
+::
 
 ## Key Claims
 
-- On September 14, 1964, Robert Jacobs filmed a disc-shaped craft firing four directed energy beams at a dummy ICBM warhead during a test at Vandenberg Air Force Base; the warhead was knocked off-trajectory.
-- The craft was described as two saucers pressed together with a hemisphere on top, traveling at 6,000–8,000 mph at the edge of space.
-- Major Florence J. Mansman ordered Jacobs to claim the events were "laser tracking strikes" — a cover story that was technically impossible in 1964.
-- Men in gray suits physically cut the UFO footage from the film reel and confiscated it; Mansman identified them as the Director of the Office of the Chief Scientist and two agents.
-- Mansman corroborated Jacobs's account in writing; Jacobs testified under oath to AARO and Sean Kirkpatrick on February 10, 2023.
-- On March 24, 1967, a red oval craft hovering over Malmstrom AFB simultaneously caused all 10 on-site Minuteman ICBMs to fail their guidance and control systems.
-- The Malmstrom incident was classified Secret by Air Force intelligence; four personnel later submitted sworn affidavits.
-- A 1977 NORAD FOIA document documented 33 UFO nuclear incidents over a two-week period in 1975.
-- NRC agents confiscated all evidence of a 1984 UFO incident at the Indian Point nuclear power plant.
-- The AEC misclassified UFO records as "trans-classified foreign nuclear information" beginning in 1954.
-- UFOs appear able to disable nuclear weapons systems without physical access to launch codes or control panels.
-- The timing of the Roswell crash (1947) relative to the first atomic tests and the Hiroshima and Nagasaki bombings (1945) may indicate that extraterrestrial interest in Earth increased after humanity demonstrated nuclear capability.
+- On 14 September 1964, according to Robert Jacobs, a disc-shaped craft flew into the frame of his unit's film of a dummy nuclear warhead launched from the Western Test Range near Big Sur, fired four beams of light at the warhead from its dome and left; the warhead fell out of the frame.
+- The craft is described as two saucers pressed together with rounded edges and a hemisphere on top, keeping pace with the warhead at 6,000 to 8,000 miles per hour on the fringe of space.
+- Major Florence J. Mansman screened the film for Jacobs with three men in grey suits, whom he later identified as the director of the Office of the Chief Scientist and two government agents, and ordered Jacobs to explain it away as "laser tracking strikes", a technology Gerb says did not exist in 1964.
+- According to what Mansman later told Jacobs, the men cut the UFO footage from the film with scissors and took it away in a briefcase.
+- Jacobs went public in 1982, having never signed a non-disclosure agreement, and faced reprisals; Mansman later confirmed his account in a signed reply to Paramount Pictures, and Jacobs testified under oath to AARO and Sean Kirkpatrick on 10 February 2023.
+- On 24 March 1967, according to Robert Salas, a pulsating red oval object 30 to 40 feet across hovered over the front gate of his Malmstrom launch facility while all ten of its Minuteman missiles went into fault status and could not be launched.
+- The Malmstrom event was classified Secret; Salas (2010) and three other Malmstrom veterans later swore affidavits describing it, and Gerb says David Grusch confirmed it as fact in his NewsNation interview with Ross Coulthart.
+- A NORAD log released in 1977 under FOIA showed 33 UFO nuclear incidents over two weeks in 1975, contradicting Project Blue Book's 1969 finding that UFOs posed no threat to national security.
+- On 24 July 1984 a huge conical object passed over the Indian Point nuclear power plant as its sensors, alarms and security computers failed, and NRC agents confiscated the video and audio records within two days.
+- The AEC was used in 1954 to misclassify UFO records as "trans-classified foreign nuclear material"; Gerb asks how active its offshoot, the NRC, has been in the cover-up.
+- Gerb proposes that harnessing atomic fission and fusion is one of the Great Filter's gates, and that the Roswell crash coming two years after Hiroshima and Nagasaki reflects heightened non-human interest in a civilisation that has reached it.
 
 ## Sources
 
@@ -71,8 +399,9 @@ In this framework, extraterrestrial species that have already passed the nuclear
 
 ## Related Pages
 
-- **People**: [[Robert Jacobs]], [[Florence J. Mansman]], [[Robert Salas]], [[Sean Kirkpatrick]]
-- **Organizations**: [[US Air Force]], [[AARO]], [[Atomic Energy Commission]]
-- **Locations**: [[Vandenberg Air Force Base]], [[Big Sur, California]], [[Malmstrom Air Force Base]], [[Hiroshima]], [[Nagasaki]], [[Roswell, New Mexico]]
-- **Events**: [[Vandenberg Air Force Base UFO Film Incident]], [[Malmstrom Air Force Base UFO Incident]], [[Atomic Bombings of Hiroshima and Nagasaki]], [[Roswell Crash]], [[First U.S. Atomic Tests]]
-- **Concepts**: [[UFO Interference with Nuclear Weapons]], [[UFO-Nuclear Connection]], [[Nuclear ICBM Shutdown]], [[Directed Energy Beam]], [[ICBM (Intercontinental Ballistic Missile)]], [[Missile Chaff Decoy]], [[Laser Tracking Strikes]], [[Great Filter]], [[Fermi Paradox]], [[Crash Retrieval]]
+- **People**: [[Robert Jacobs]], [[Florence J. Mansman]], [[Robert Salas]], [[Sean Kirkpatrick]], [[David Grusch]], [[Ross Coulthart]]
+- **Organizations**: [[US Air Force]], [[AARO]], [[NORAD]], [[MUFON]], [[Atomic Energy Commission]], [[Nuclear Regulatory Commission]], [[Department of Energy]]
+- **Locations**: [[Vandenberg Air Force Base]], [[Big Sur, California]], [[Malmstrom Air Force Base]], [[Roswell, New Mexico]]
+- **Events**: [[Vandenberg Air Force Base UFO Film Incident]], [[Malmstrom Air Force Base UFO Incident]], [[1984 Indian Point UFO Incident]], [[Roswell Crash]]
+- **Operations**: [[Project Blue Book]]
+- **Concepts**: [[UFO Interference with Nuclear Weapons]], [[UFO-Nuclear Connection]], [[Nuclear ICBM Shutdown]], [[Directed Energy Beam]], [[ICBM (Intercontinental Ballistic Missile)]], [[Missile Chaff Decoy]], [[Laser Tracking Strikes]], [[Great Filter]], [[Fermi Paradox]], [[Crash Retrieval]], [[Hudson Valley UFO Flap]], [[Atomic Energy Act of 1954]]

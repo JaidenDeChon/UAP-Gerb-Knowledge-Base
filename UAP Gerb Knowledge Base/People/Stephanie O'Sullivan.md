@@ -1,6 +1,7 @@
 ---
 name: "Stephanie O'Sullivan"
 role: "Principal Deputy Director of National Intelligence (2011–2017); former CIA Deputy Director for Science and Technology; former TRW employee"
+wikipedia: "Stephanie O'Sullivan"
 tags:
   - person
 ---
@@ -13,9 +14,9 @@ O'Sullivan is alleged to have co-managed UAP legacy programs alongside [[James C
 
 ## TRW Years and Later Boards
 
-UAP Gerb's *Northrop Grumman & TRW* says O'Sullivan joined TRW around 1982, where her Battelle board biography says she provided oversight for "a series of sensitive projects", and later worked on sensitive research and development programs at the [[Office of Naval Intelligence]] before joining the CIA in 1995. She overlapped at TRW with [[Dawn Meyerriecks]]. The host describes the thin public record of these years as "data masking", meaning classified work obscured on a CV. Before becoming PDDNI she was CIA Deputy Director and, for four years, deputy director of the [[CIA Directorate of Science and Technology]].
+UAP Gerb's *Northrop Grumman & TRW* says O'Sullivan joined TRW around 1982, where her Battelle board biography says she provided oversight for "a series of sensitive projects", and later worked on sensitive research and development programs at the [[Office of Naval Intelligence]] before joining the CIA in 1995. She overlapped at TRW with [[Dawn Meyerriecks]]. Gerb describes the thin public record of these years as "data masking", meaning classified work obscured on a CV. Before becoming PDDNI she was CIA Deputy Director and, for four years, deputy director of the [[CIA Directorate of Science and Technology]].
 
-After leaving the ODNI she joined the board of the [[Aerospace Corporation]] in 2017 and became its chair in 2021. She also sits or sat on the boards of [[Battelle Memorial Institute]], Booz Allen Hamilton and Huntington Ingalls Industries, on the advisory board of [[Oak Ridge National Laboratory]], on the trustees of In-Q-Tel (where [[Glenn Gaffney]] was an executive) and, from about 2018, on the board of Peraton alongside [[Robert Cardillo]]. The video cites [[David Grusch]]'s January 2026 remarks on Megyn Kelly's show calling on Clapper, O'Sullivan and others "in rooms discussing this issue" to come forward, and the host believes Clapper recruited her to share dual-hatted ODNI and legacy-program roles.
+After leaving the ODNI she joined the board of the [[Aerospace Corporation]] in 2017 and became its chair in 2021. She also sits or sat on the boards of [[Battelle Memorial Institute]], Booz Allen Hamilton and Huntington Ingalls Industries, on the advisory board of [[Oak Ridge National Laboratory]], on the trustees of In-Q-Tel (where [[Glenn Gaffney]] was an executive) and, from about 2018, on the board of Peraton alongside [[Robert Cardillo]]. The video cites [[David Grusch]]'s January 2026 remarks on Megyn Kelly's show calling on Clapper, O'Sullivan and others "in rooms discussing this issue" to come forward, and Gerb believes Clapper recruited her to share dual-hatted ODNI and legacy-program roles.
 
 ## MITRE Timing Coincidence
 

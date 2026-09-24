@@ -1,6 +1,7 @@
 ---
 name: "Jeffrey T. Richelson"
 role: "Author; intelligence community historian"
+wikipedia: "Jeffrey T. Richelson"
 tags:
   - person
 ---

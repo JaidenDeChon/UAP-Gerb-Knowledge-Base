@@ -11,7 +11,7 @@ Space Technology Laboratories (STL) was the Ramo-Wooldridge, and later [[TRW]], 
 
 UAP Gerb treats STL as the corporate bridge between 1950s crash retrieval and today's Northrop Grumman. [[Edward Bushnell Doll]], whom Kingman witness [[Arthur Stansel Jr.]] named as the man who summoned him to the [[1953 Kingman, Arizona Crash Retrieval]], joined STL in 1955 and was elected its vice president in 1959. He stayed as the division became TRW Systems Group, becoming senior vice president in 1966 and retiring as executive vice president in 1977. The video's argument is that whatever legacy knowledge Doll brought to STL passed through TRW Systems Group into Northrop Grumman after the 2002 acquisition.
 
-The same video likens the 1960 split of STL and the Aerospace Corporation to [[SAIC]]'s 2013 spin-off of [[Leidos]]: two organizations with shared personnel, practices and access to government special access programs, which the host alleges includes UFO legacy programs.
+The same video likens the 1960 split of STL and the Aerospace Corporation to [[SAIC]]'s 2013 spin-off of [[Leidos]]: two organizations with shared personnel, practices and access to government special access programs, which Gerb alleges includes UFO legacy programs.
 
 ## Sources
 

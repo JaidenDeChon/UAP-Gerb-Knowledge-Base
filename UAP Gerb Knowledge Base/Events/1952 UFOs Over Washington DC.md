@@ -27,7 +27,7 @@ The CIA was sufficiently alarmed to convene the [[Robertson Panel]] in January 1
 
 ## Significance
 
-The 1952 Washington DC incidents represent a direct chain of causation from documented anomalous events to deliberate government suppression policy. The host of UAP Gerb identifies this sequence \u2014 from Nugent's radar detections to the Robertson Panel's debunking mandate \u2014 as the foundational event of the modern UAP institutional cover-up.
+The 1952 Washington DC incidents represent a direct chain of causation from documented anomalous events to deliberate government suppression policy. Gerb identifies this sequence \u2014 from Nugent's radar detections to the Robertson Panel's debunking mandate \u2014 as the foundational event of the modern UAP institutional cover-up.
 
 ## Sources
 

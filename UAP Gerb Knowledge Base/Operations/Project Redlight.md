@@ -34,7 +34,7 @@ UAP Gerb calls this the first public attribution of the project to Northrop Grum
 
 ## Place in UAP Gerb's research
 
-The host places Redlight within his wider picture of the [[Antelope Valley]]. That picture includes Edwards, [[Air Force Plant 42]] in [[Palmdale, California|Palmdale]], the radar cross-section ranges at [[Tejon Ranch]] and [[Helendale]], and the Nevada test ranges around [[Nellis Air Force Base]]. He links it to the account of witness Ed from the [[Hidden Wing]], whose time around Nellis and Edwards ended around 2006 to 2008, and has said he does not know whether the program continues.
+Gerb places Redlight within his wider picture of the [[Antelope Valley]]. That picture includes Edwards, [[Air Force Plant 42]] in [[Palmdale, California|Palmdale]], the radar cross-section ranges at [[Tejon Ranch]] and [[Helendale]], and the Nevada test ranges around [[Nellis Air Force Base]]. He links it to the account of witness Ed from the [[Hidden Wing]], whose time around Nellis and Edwards ended around 2006 to 2008, and has said he does not know whether the program continues.
 
 ## Sources
 

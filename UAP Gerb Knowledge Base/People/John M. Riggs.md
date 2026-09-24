@@ -1,11 +1,12 @@
 ---
 name: "John M. Riggs"
 role: "US Army General (retired); alleged UAP program insider"
+wikipedia: "John M. Riggs"
 tags:
   - person
 ---
 
-John M. Riggs is a retired United States Army officer who rose to lieutenant general and served from his enlistment in 1965 until 2004–2005, when he was forced to retire and lost a star, retiring as a major general. He is theorized by UAP researcher [[UAP Gerp|UAP Gerb]] to be the anonymous [[Infographic Show Whistleblower|whistleblower]] whose testimony — analyzed in the video "'US Special Forces Confession - I Recovered Crashed UFOs': Fact or Fiction?" — describes participation in a classified UAP crash retrieval program spanning approximately 35 years. Riggs is also named in separate testimony by a witness identified as "TB" as a general who allegedly showed classified UAP-derived cloaking technology to a [[BAE Systems]] employee, an act that led to his investigation, demotion, and forced retirement.
+John M. Riggs is a retired United States Army officer who rose to lieutenant general and served from his enlistment in 1965 until 2004–2005, when he was forced to retire and lost a star, retiring as a major general. He is theorized by UAP researcher UAP Gerb to be the anonymous [[Infographic Show Whistleblower|whistleblower]] whose testimony — analyzed in the video "'US Special Forces Confession - I Recovered Crashed UFOs': Fact or Fiction?" — describes participation in a classified UAP crash retrieval program spanning approximately 35 years. Riggs is also named in separate testimony by a witness identified as "TB" as a general who allegedly showed classified UAP-derived cloaking technology to a [[BAE Systems]] employee, an act that led to his investigation, demotion, and forced retirement.
 
 ## Military Career
 
@@ -30,7 +31,7 @@ In analyzing the anonymous whistleblower account published by [[The Infographic 
 | Stationed near European operations | Posted to US Army base in Germany |
 | Aviation and defense work after program | Became aviation and strategic defense consultant post-retirement |
 
-UAP Gerb explicitly characterizes this identification as a theory resting on circumstantial chronological alignment and career trajectory, not direct confirmation. The presenter states: "I don't want to kick off an investigation I can't control" and notes that on its own the date overlap may be coincidence.
+UAP Gerb explicitly characterizes this identification as a theory resting on circumstantial chronological alignment and career trajectory, not direct confirmation. Gerb states: "I don't want to kick off an investigation I can't control" and notes that on its own the date overlap may be coincidence.
 
 ## Significance in UAP Research
 

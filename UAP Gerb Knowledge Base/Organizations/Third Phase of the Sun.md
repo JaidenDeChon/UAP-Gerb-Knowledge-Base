@@ -9,15 +9,9 @@ Third Phase of the Sun is a website dedicated to documenting and analyzing UFO s
 
 ## Metapod Coverage
 
-On September 11, 2015, just five days after the original sighting and four days after [[Modesto]] submitted the footage to [[UFO VNI]], Third Phase of the Sun published a post detailing the Metapod footage and presenting correspondence between UFO VNI and Modesto. This rapid coverage helped amplify awareness of the video within the broader UAP research community.
+On September 11, 2015, just five days after the original sighting and four days after Modesto submitted the footage to [[UFO VNI]], Third Phase of the Sun published a post detailing the Metapod footage and presenting correspondence between UFO VNI and Modesto. This rapid coverage helped amplify awareness of the video within the broader UAP research community.
 
-Third Phase of the Sun's article provided important context for researchers, including:
-- Details from Modesto's submission email
-- Background on the sighting location near [[El Escorial, Madrid, Spain]]
-- Early analysis and observations about the craft's structure and movement
-- Discussion of the footage's authenticity and notable features
-
-The site noted particular interest in the craft's "realistic Zoom very realistic focus and blur," the unusual shape of the UFO, and similarities to the 2006 La Bruja (Monterrey Witch) sighting in Mexico.
+Some viewers, Third Phase of the Sun among them, say they can make out a bean-shaped figure resting inside the craft's transparent front face. Gerb disagrees, attributing it to sunlight reflecting off the transparent material.
 
 ## Role in UAP Documentation
 

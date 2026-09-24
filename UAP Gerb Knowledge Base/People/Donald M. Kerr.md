@@ -1,6 +1,7 @@
 ---
 name: "Donald M. Kerr"
 role: "Director, Los Alamos National Laboratory (1979–1985); Director, National Reconnaissance Office (2005–2007); Principal Deputy Director of National Intelligence (2007–2009); MITRE Corporation trustee and chairman"
+wikipedia: "Donald Kerr"
 tags:
   - person
 ---
@@ -13,7 +14,7 @@ UAP Gerb describes Kerr as one of the most senior legacy program leads of his er
 
 ## SAIC and the gatekeeper case
 
-UAP Gerb's SAIC investigation says Kerr joined [[SAIC]] in 1993 as a corporate executive vice president and director, between his EG&G presidency and his CIA appointment. The host notes that the [[CIA Office of Global Access]], which he accuses of foreign UFO crash retrievals with JSOC, was established within the CIA Directorate of Science and Technology while Kerr was its deputy director. He also cites the notes of [[Oak Shannon|Oke Shannon]] from the 1985 Advanced Theoretical Physics working group at [[BDM International|BDM]]'s facility in McLean, Virginia, which include a plan to approach Donald Kerr for "influence and money", and a separate entry reading "Don K/ET". The host names Kerr among the gatekeepers he believes Congress should have questioned, saying his CV (Los Alamos, EG&G, SAIC, CIA science and technology, the NRO and MITRE) "would lend" more than anyone's to legacy program work.
+UAP Gerb's SAIC investigation says Kerr joined [[SAIC]] in 1993 as a corporate executive vice president and director, between his EG&G presidency and his CIA appointment. Gerb notes that the [[CIA Office of Global Access]], which he accuses of foreign UFO crash retrievals with JSOC, was established within the CIA Directorate of Science and Technology while Kerr was its deputy director. He also cites the notes of [[Oak Shannon|Oke Shannon]] from the 1985 Advanced Theoretical Physics working group at [[BDM International|BDM]]'s facility in McLean, Virginia, which include a plan to approach Donald Kerr for "influence and money", and a separate entry reading "Don K/ET". Gerb names Kerr among the gatekeepers he believes Congress should have questioned, saying his CV (Los Alamos, EG&G, SAIC, CIA science and technology, the NRO and MITRE) "would lend" more than anyone's to legacy program work.
 
 ## MITRE Corporation
 

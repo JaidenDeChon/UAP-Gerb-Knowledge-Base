@@ -1,6 +1,7 @@
 ---
 name: "Norton Air Force Base"
 location_type: "base"
+coordinates: [34.0953, -117.235]
 tags:
   - location
 ---

@@ -9,7 +9,7 @@ The 412th Test Wing is the U.S. Air Force wing at [[Edwards Air Force Base]], Ca
 
 ## In the Hidden Wing thesis
 
-UAP Gerb considers the 412th "the most critical wing and MRTFB in all of Air Force legacy programs". His witness Ed, a retired Air Force officer, says he served in a T&E program at the 412th for manned and unmanned reverse-engineered vehicles. Ed says the program ran across Edwards, the [[Nevada Test and Training Range (NTR)]] and other installations on the "western ranges", and was overseen by [[Air Force Test and Evaluation (AF-TE)]]. The host says the 412th occupies most top-secret sites on the NTR, including [[Area 51]] and the [[Tonopah Test Range (TTR)|Tonopah Test Range]]. He also notes that the black triangle reported by [[Rodrik Castle]] in 1997 left toward Edwards's R-2508 restricted complex.
+UAP Gerb considers the 412th "the most critical wing and MRTFB in all of Air Force legacy programs". His witness Ed, a retired Air Force officer, says he served in a T&E program at the 412th for manned and unmanned reverse-engineered vehicles. Ed says the program ran across Edwards, the [[Nevada Test and Training Range (NTR)]] and other installations on the "western ranges", and was overseen by [[Air Force Test and Evaluation (AF-TE)]]. Gerb says the 412th occupies most top-secret sites on the NTR, including [[Area 51]] and the [[Tonopah Test Range (TTR)|Tonopah Test Range]]. He also notes that the black triangle reported by [[Rodrik Castle]] in 1997 left toward Edwards's R-2508 restricted complex.
 
 ## Sources
 

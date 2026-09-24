@@ -9,7 +9,7 @@ Ross Coulthart is an award-winning Australian investigative journalist and autho
 
 ## UAP Reporting
 
-Coulthart has conducted numerous interviews with military and intelligence personnel regarding UAP encounters and legacy programs. He has reported claims that the "Tic Tac" UAP observed during the 2004 [[USS Nimitz UFO Incident|Nimitz encounter]] by [[David Fravor]] may have originated from [[Lockheed Martin|Lockheed Martin Skunk Works]] — a claim that, if true, would place the Tic Tac in the category of [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]] rather than non-human-origin craft.
+Coulthart has conducted numerous interviews with military and intelligence personnel regarding UAP encounters and legacy programs. He has reported claims that the "Tic Tac" UAP observed during the 2004 [[2004 Nimitz UAP Encounter (Tic Tac)|Nimitz encounter]] by [[David Fravor]] may have originated from [[Lockheed Martin|Lockheed Martin Skunk Works]] — a claim that, if true, would place the Tic Tac in the category of [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]] rather than non-human-origin craft.
 
 Coulthart has also reported on the broader infrastructure of UAP secrecy, including the roles of defense contractors and intelligence agencies in maintaining classification of recovered materials and reverse-engineering programs.
 

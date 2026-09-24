@@ -1,5 +1,6 @@
 ---
 name: "Fort Riley, Kansas"
+coordinates: [39.1, -96.8167]
 tags:
   - location
 ---
@@ -14,9 +15,9 @@ Corso later determined that the crate was part of a convoy of five trucks transp
 
 ## Credibility Context
 
-The Fort Riley observation is one element of Corso's broader testimony that UAP Gerb assesses as relatively credible. The host distinguishes between Corso's original manuscript *Dawn of a New Age* — which contains this account in an unembellished form — and the co-written 1997 bestseller *The Day After Roswell*, arguing that co-author Bill Burns inserted fabrications and exaggerations into the published version. Corso's sworn affidavit describing the Fort Riley encounter is treated as evidence that should be taken seriously, even as other aspects of his public claims are approached with skepticism.
+The Fort Riley observation is one element of Corso's broader testimony that UAP Gerb assesses as relatively credible. Gerb distinguishes between Corso's original manuscript *Dawn of a New Age* — which contains this account in an unembellished form — and the co-written 1997 bestseller *The Day After Roswell*, arguing that co-author Bill Burns inserted fabrications and exaggerations into the published version. Corso's sworn affidavit describing the Fort Riley encounter is treated as evidence that should be taken seriously, even as other aspects of his public claims are approached with skepticism.
 
-A 1964–65 FBI background check on Corso returned negative characterizations, and the Eisenhower Library confirmed he never attended an NSC meeting despite claiming membership — factors the host weighs against the Fort Riley affidavit without dismissing it outright.
+A 1964–65 FBI background check on Corso returned negative characterizations, and the Eisenhower Library confirmed he never attended an NSC meeting despite claiming membership — factors Gerb weighs against the Fort Riley affidavit without dismissing it outright.
 
 ## Sources
 

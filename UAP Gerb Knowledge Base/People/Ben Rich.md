@@ -1,6 +1,7 @@
 ---
 name: "Ben Rich"
 role: "Director of Lockheed Skunk Works (1975–1991); 'father of stealth'"
+wikipedia: "Ben Rich (engineer)"
 tags:
   - person
 ---
@@ -19,6 +20,8 @@ Harzan reports Rich shared three major revelations in the informal post-lecture 
 1. Interstellar travel has already been figured out — "it's known"
 2. There was an error in fundamental physics equations (Harzan suspects Maxwell's equations for electromagnetic theory)
 3. When Harzan blurted out "I don't know, all points in time and space are connected" in response to Rich asking "How does ESP work?", Rich looked him in the eye and said: **"That's how it works."**
+
+In "The Alien and UFO Obscure Oddities Iceberg (Level 2)", Gerb quotes the same statement as one of Wright-Patterson Air Force Base's connections to the phenomenon, placing Rich's 1993 presentation at [[Wright-Patterson Air Force Base]].
 
 ## Corroboration by James Goodall
 
@@ -49,3 +52,4 @@ However, the consistency of the accounts from multiple independent witnesses (Ke
 - [[Videos/Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/summary|Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
 - [[Videos/Alien Reproduction Vehicle - TR-3B and the Flying Triangles/summary|Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]
 - [[Videos/UFOs in the Private Sector - Lockheed Martin/summary|UFOs in the Private Sector - Lockheed Martin]]
+- [[Videos/The Alien and UFO Obscure Oddities Iceberg (Level 2)/summary|The Alien and UFO Obscure Oddities Iceberg (Level 2)]]

@@ -20,7 +20,7 @@ The Five Observables, also known as the Five UAP Characteristics, is an analytic
 
 ## Application to Metapod Analysis
 
-The Metapod footage filmed near [[El Escorial, Madrid, Spain]] on September 6, 2015 was evaluated against these five characteristics by [[UAP Gerp]]. The craft was assessed to exhibit three of the five observables:
+The Metapod footage filmed near [[El Escorial, Madrid, Spain]] on September 6, 2015 was evaluated against these five characteristics by UAP Gerb. The craft was assessed to exhibit three of the five observables:
 
 - **Instantaneous acceleration** — Observed in the craft's sudden altitude drop
 - **Anti-gravity/No visible propulsion** — The craft displayed no wings, rotors, exhaust, or other conventional propulsion systems

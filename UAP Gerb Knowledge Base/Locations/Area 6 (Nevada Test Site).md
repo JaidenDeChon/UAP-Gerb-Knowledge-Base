@@ -1,5 +1,6 @@
 ---
 name: "Area 6 (Nevada Test Site)"
+coordinates: [36.9458, -116.0378]
 tags:
   - location
 ---

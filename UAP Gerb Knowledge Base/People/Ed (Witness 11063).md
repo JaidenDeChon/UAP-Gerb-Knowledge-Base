@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-"Ed" is the name UAP Gerb gives to witness 11063, a redacted entry on the witness list that [[Steven Greer]]'s [[Disclosure Project]] published in 2024. According to Greer's files, Ed is a retired US Air Force officer who served at [[Nellis Air Force Base]], [[Hanscom Air Force Base, Massachusetts|Hanscom]], [[Edwards Air Force Base]] and the [[Pentagon]], and who claims to have tested craft reverse-engineered from non-human technology as a test director in an electronic warfare group of the Edwards [[412th Test Wing]]. He is one of the most frequently cited witnesses on the UAP Gerb channel, where his account underpins the host's theory of the [[Hidden Wing]].
+"Ed" is the name UAP Gerb gives to witness 11063, a redacted entry on the witness list that [[Steven Greer]]'s [[Disclosure Project]] published in 2024. According to Greer's files, Ed is a retired US Air Force officer who served at [[Nellis Air Force Base]], [[Hanscom Air Force Base, Massachusetts|Hanscom]], [[Edwards Air Force Base]] and the [[Pentagon]], and who claims to have tested craft reverse-engineered from non-human technology as a test director in an electronic warfare group of the Edwards [[412th Test Wing]]. He is one of the most frequently cited witnesses on the UAP Gerb channel, where his account underpins Gerb's theory of the [[Hidden Wing]].
 
 UAP Gerb says he has worked out Ed's identity and confirmed his postings at Nellis, Edwards and the Pentagon from public sources, but withholds his name for Ed's operational security and his family's safety.
 
@@ -30,7 +30,7 @@ Ed also told Greer that [[Wright-Patterson Air Force Base]] has close ties to Ed
 
 In *UAP Reverse Engineering at Edwards Air Force Base*, UAP Gerb concludes from Ed's account that a joint reverse-engineering program for craft of non-human origin, centred on [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]], runs between Edwards and Nellis, Area 51 and S4 out of the 412th Test Wing. In *The Hidden Wing* he says his confidence in Ed has grown after seeing his records, including letters of commendation signed by [[Dawn M. Dunlop]], and relays Ed's claim that the program answers to [[Air Force Test and Evaluation (AF-TE)]]. Later videos return to him on the Department of Energy's role, on [[Project Redlight]], and on ARVs such as those described by [[Mark McCandlish]] and [[Edgar Fouche|Edgar Fouché]].
 
-By the time of the Edwards video, the host says, Ed had gone "off books" and could not be reached, and he asked whether Greer's claim that Ed had testified might be an embellishment.
+By the time of the Edwards video, Gerb says, Ed had gone "off books" and could not be reached, and he asked whether Greer's claim that Ed had testified might be an embellishment.
 
 ## Sources
 

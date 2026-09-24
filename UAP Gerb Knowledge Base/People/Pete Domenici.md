@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Pete Vichi Domenici served as a United States Senator from New Mexico from 1973 to 2009, holding senior positions on the Senate Appropriations Committee, Senate Budget Committee, and Senate Energy Committee. Along with fellow New Mexico Senator [[Jeff Bingaman]], Domenici played a critical role in forcing the United States Air Force to acknowledge the existence of [[Project Moondust]], the classified UFO crash retrieval program.
+Pete Vichi Domenici served as a United States Senator from New Mexico from 1973 to 2009, holding senior positions on the Senate Appropriations Committee, Senate Budget Committee, and Senate Energy Committee. Along with fellow New Mexico Senator [[Jeff Bingaman]], Domenici played a critical role in forcing the United States Air Force to acknowledge the existence of [[Project Moon Dust]], the classified UFO crash retrieval program.
 
 ## 1992 Moon Dust Inquiry and Air Force Denial
 

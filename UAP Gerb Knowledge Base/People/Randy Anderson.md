@@ -15,7 +15,7 @@ In the early-to-mid 2010s, Anderson was dispatched to NSWC Crane for an advanced
 
 While underground, Anderson reported observing a spherical object roughly the size of a basketball that was said to interact with consciousness, as well as a gauntlet-type device covered in glyphic writing. Contractor personnel told Anderson the objects had been recovered, and that the gauntlet in particular was considered a weapon due to an energetic discharge that occurred during its recovery. UAP Gerb's host assesses the unnamed contractor was likely [[SAIC]], drawing a connection to SAIC's broader alleged role absorbing legacy reverse-engineering research portfolios.
 
-UAP Gerb has stated that, at the time of conducting its first interview with Anderson, individuals identifying themselves as CIA personnel reached out to warn the host to be wary of discussing NSWC Crane.
+UAP Gerb has stated that, at the time of conducting its first interview with Anderson, individuals identifying themselves as CIA personnel reached out to warn Gerb to be wary of discussing NSWC Crane.
 
 ## Sources
 

@@ -36,17 +36,17 @@ The video maps a convoluted corporate family:
 UAP Gerb argues that many officials he considers UFO legacy program gatekeepers passed through SAIC:
 
 - **[[Sean Kirkpatrick]]**, SAIC senior research scientist around 2000 and later the first [[AARO]] director.
-- **[[John Deutsch]]** and **[[William A. Owens]]**, two of the six [[SAPOC (Special Access Program Oversight Committee)|SAPOC]] figures Vice Admiral [[Thomas Wilson]] dealt with in the [[Wilson-Davis Memo|Wilson-Davis notes]]; [[Bill Perry]], who restructured SAP oversight in 1994, had also served on SAIC's board. On this basis the host wagers SAIC was the unnamed contractor that, with SAPOC, kept Wilson out.
+- **[[John Deutsch]]** and **[[William A. Owens]]**, two of the six [[SAPOC (Special Access Program Oversight Committee)|SAPOC]] figures Vice Admiral [[Thomas Wilson]] dealt with in the [[Wilson-Davis Memo|Wilson-Davis notes]]; [[Bill Perry]], who restructured SAP oversight in 1994, had also served on SAIC's board. On this basis Gerb wagers SAIC was the unnamed contractor that, with SAPOC, kept Wilson out.
 - **[[Will Miller]]**, an SAIC senior analyst, who named SAIC among the possible "keepers of the keys".
 - **[[Donald M. Kerr]]**, an SAIC executive from 1993 before running CIA science and technology and the NRO.
 
 ## Strategic Defense Initiative
 
-SAIC was among the most important contractors to the [[Strategic Defense Initiative (SDI)|Strategic Defense Initiative]]. From 1978 it was the "best represented contractor" for particle beam weapons, and in 1985 it won more SDI contracts than General Dynamics, Northrop, Raytheon, Grumman and RAND combined, with retired Major General Jasper Welch coordinating its Star Wars work. It also worked with Brookhaven, White Sands and Los Alamos on SDI's lethality and target-hardening program. Because [[Edgar Fouche|Edgar Fouché]] and others claim SDI concealed UFO programs, and because of whistleblower allegations of SDI waste in the same period, the host considers it "not at all a stretch" that SAIC was a primary contractor for UFO programs hidden in SDI.
+SAIC was among the most important contractors to the [[Strategic Defense Initiative (SDI)|Strategic Defense Initiative]]. From 1978 it was the "best represented contractor" for particle beam weapons, and in 1985 it won more SDI contracts than General Dynamics, Northrop, Raytheon, Grumman and RAND combined, with retired Major General Jasper Welch coordinating its Star Wars work. It also worked with Brookhaven, White Sands and Los Alamos on SDI's lethality and target-hardening program. Because [[Edgar Fouche|Edgar Fouché]] and others claim SDI concealed UFO programs, and because of whistleblower allegations of SDI waste in the same period, Gerb considers it "not at all a stretch" that SAIC was a primary contractor for UFO programs hidden in SDI.
 
 ## Contract Failures and Fraud Allegations
 
-UAP Gerb cites a pattern of large contracts that delivered little: the NSA's Trailblazer, awarded to an SAIC-led consortium in 2002 at over $280 million and ballooning to billions, followed by the $361 million ExecuteLocus; the FBI's $124 million Virtual Case File, called the "most highly publicized software failure in history"; fake prototypes on an Air Force flat panel display contract from 1987 to 1995; alleged false cost statements on Air Force base waste cleanup; and a 1992 sworn deposition in which a former executive said "mischarging" had become institutionalized. A 2005 burglary at the La Jolla site took computers holding personal data on thousands of employees. The host reads this record, with [[Denise McKenzie]]'s testimony, as consistent with money being moved into black budget programs.
+UAP Gerb cites a pattern of large contracts that delivered little: the NSA's Trailblazer, awarded to an SAIC-led consortium in 2002 at over $280 million and ballooning to billions, followed by the $361 million ExecuteLocus; the FBI's $124 million Virtual Case File, called the "most highly publicized software failure in history"; fake prototypes on an Air Force flat panel display contract from 1987 to 1995; alleged false cost statements on Air Force base waste cleanup; and a 1992 sworn deposition in which a former executive said "mischarging" had become institutionalized. A 2005 burglary at the La Jolla site took computers holding personal data on thousands of employees. Gerb reads this record, with [[Denise McKenzie]]'s testimony, as consistent with money being moved into black budget programs.
 
 ## Contracts with Naval Surface Warfare Center Crane
 
@@ -144,7 +144,7 @@ SAIC maintains massive contracts with [[Sandia National Laboratories]], which ha
 
 - **2013: 5-year, $228 million IT consolidation contract** with Sandia
 - **2023 technology transfer** between NSWC Crane, Sandia Labs, and other participants for advanced hypersonic technology
-- Sandia's historical connection to UAP crash material storage at [[Kirtland Air Force Base]], as documented in the 1950s [[Del Rio, Texas]] crash retrieval case
+- Sandia's historical connection to UAP crash material storage at [[Kirtland Air Force Base, New Mexico|Kirtland Air Force Base]], as documented in the 1950s [[Del Rio, Texas]] crash retrieval case
 - Attorney [[Daniel Sheehan]] implicated defense contractor [[Radiance Technologies]]' prompt global strike hypersonic program as leveraging reverse-engineered UAP technologies — notably, both SAIC and Sandia are connected to Crane's hypersonics programs
 
 ### Naval Air Station Pax River

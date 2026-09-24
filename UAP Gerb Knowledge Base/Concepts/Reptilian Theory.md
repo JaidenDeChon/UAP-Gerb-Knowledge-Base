@@ -20,7 +20,7 @@ Icke identifies numerous historical and contemporary figures as members of the r
 
 The Reptilian Theory is rejected by mainstream researchers, political scientists, and historians. Watchdog organizations including the Anti-Defamation League have documented that elements of Icke's framework recycle anti-Semitic conspiracy tropes under extraterrestrial framing — Icke's denials notwithstanding. The Denver International Airport is noted as having embraced the reptilian conspiracy as a theme in its public art and marketing, illustrating the theory's pop-cultural penetration despite its lack of evidentiary basis.
 
-Within serious UAP research, the Reptilian Theory is treated as harmful to the field's credibility. The host of UAP Gerb explicitly dismisses it as a baseless distraction.
+Within serious UAP research, the Reptilian Theory is treated as harmful to the field's credibility. Gerb explicitly dismisses it as a baseless distraction.
 
 ## Sources
 

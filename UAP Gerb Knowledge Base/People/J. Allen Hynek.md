@@ -15,9 +15,19 @@ This revelation confirmed that while Project Blue Book was publicly presenting U
 
 ## Disclosure of Parallel Classified Programs
 
-Hynek additionally stated that alongside Project Blue Book, other classified programs were going on studying UFOs. This confirmed what Captain [[Edward J. Ruppelt]] had disclosed on April 24, 1952: that programs parallel to the official UFO investigations were "conducting a more complete investigation." One of these parallel programs was later confirmed to be [[Project Moondust]], a classified Air Force crash retrieval program operating under the [[USAF 1127th Field Activities Group]] from at least 1961 through the mid-1990s.
+Hynek additionally stated that alongside Project Blue Book, other classified programs were going on studying UFOs. This confirmed what Captain [[Edward J. Ruppelt]] had disclosed on April 24, 1952: that programs parallel to the official UFO investigations were "conducting a more complete investigation." One of these parallel programs was later confirmed to be [[Project Moon Dust]], a classified Air Force crash retrieval program operating under the [[USAF 1127th Field Activities Group]] from at least 1961 through the mid-1990s.
 
 Hynek's acknowledgment of parallel programs suggests he was aware that Project Blue Book functioned primarily as a public-facing information management operation, while classified programs handled actual UFO collection, crash retrieval, and technical analysis activities.
+
+## Critic of the Air Force investigations
+
+In "The Alien and UFO Obscure Oddities Iceberg (Level 2)", Gerb calls Hynek "one of the OG whistleblowers" and gathers his public criticisms of the programs he served:
+
+- **Project Blue Book's record.** Blue Book (1952–1969) analysed 12,618 reports and classed 701 as unexplained. Gerb places its reputation in the shadow of the CIA's 1953 [[Robertson Panel]] and the [[Condon Report]], both of which, in his account, stripped UFOs of serious status.
+- **"A coverup" (1972).** In a book published in May 1972, Hynek wrote that Blue Book was "a coverup", that the UFO issue had been "glossed over", and that Blue Book fronted for a more classified investigation group, possibly one designated "AF-FON-X-SG", having been told to drop certain cases and "not to pursue the matter further".
+- **Rumsfeld's "need to know" (1975).** On 13 April 1975, [[Donald Rumsfeld]] told Hynek at the White House that he did not have a need to know whether a secret UAP study existed after Blue Book.
+- **The Robertson Panel's "unwritten law" (1979).** Hynek said the panel, worried about public reaction, handed down the unwritten law of the Air Force: "Don't rock the boat, play it cool, don't get the public excited." The Air Force, he said, deliberately debunked interesting cases as balloons or planets, a pattern Gerb sees in the Mars-and-Jupiter explanation of the [[1986 Japan Airlines UFO Incident]].
+- **Grudge and Condon.** Hynek called 1949's [[Project Grudge]] "less scientific and more of a public relations campaign", and said the Condon committee ignored key evidence.
 
 ## Evolution as a Researcher
 

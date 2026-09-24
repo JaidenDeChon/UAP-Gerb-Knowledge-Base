@@ -8,9 +8,9 @@ Robert M. Powell is a UAP researcher and co-author of the 2019 peer-reviewed pap
 
 ## Academic Contribution
 
-Powell's work with Knuth and Reali analyzed three major UAP cases using physics-based methodology:
+Powell's work with Knuth and Reali analyzed a handful of well-documented UAP cases, among them using physics-based methodology:
 
-- **[[1951 Lubbock Encounter]]** — Early radar-confirmed UFO formation sighting
+- **1951 Bethune encounter** — A US Navy flight crew's sighting over the North Atlantic in February 1951
 - **[[1986 Japan Airlines UFO Incident]]** — 31-minute tracked encounter with radar confirmation
 - **[[2004 Nimitz UAP Encounter (Tic Tac)]]** — Multi-sensor military encounter with extreme performance characteristics
 

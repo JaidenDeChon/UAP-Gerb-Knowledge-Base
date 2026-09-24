@@ -41,17 +41,17 @@ stats:
 
 ## Overview
 
-This video investigates what authors call "Mexico's Roswell": the alleged crash of a disc near [[Coyame, Chihuahua, Mexico|Coyame, Chihuahua]] in August 1974 and its covert recovery by an American team. The host opens by noting that crash retrievals are not confined to the United States, citing [[Shag Harbour, Canada|Shag Harbour]] and [[Varginha, Brazil|Varginha]]. He argues that Coyame may give the clearest picture of US recovery protocol of any case. According to the story, US Air Defense radar tracked an object from the Gulf of Mexico into northern Mexico, where it apparently collided with a civilian light aircraft out of El Paso. Mexican soldiers recovered the disc and then died beside their convoy. A [[CIA]]-organised team flying unmarked helicopters from [[Fort Bliss]] then crossed the border, lifted the disc out, blew up the convoy, the bodies and the plane wreckage, and sent the disc by sealed truck to [[Atlanta, Georgia]].
+This video investigates what authors call "Mexico's Roswell": the alleged crash of a disc near [[Coyame, Chihuahua, Mexico|Coyame, Chihuahua]] in August 1974 and its covert recovery by an American team. Gerb opens by noting that crash retrievals are not confined to the United States, citing [[Shag Harbour, Canada|Shag Harbour]] and [[Varginha, Brazil|Varginha]]. He argues that Coyame may give the clearest picture of US recovery protocol of any case. According to the story, US Air Defense radar tracked an object from the Gulf of Mexico into northern Mexico, where it apparently collided with a civilian light aircraft out of El Paso. Mexican soldiers recovered the disc and then died beside their convoy. A [[CIA]]-organised team flying unmarked helicopters from [[Fort Bliss]] then crossed the border, lifted the disc out, blew up the convoy, the bodies and the plane wreckage, and sent the disc by sealed truck to [[Atlanta, Georgia]].
 
-Primary sources are scarce, and the host leans on four. The first is the [[Denb Report]], an anonymous memo from "[[JS (Denb Report Author)|JS]]" to "all Denb team members", which he reads in full. The second is [[Noe Torres]] and [[Ruben Uriarte]]'s books *Mexico's Roswell: The Chihuahua UFO Crash* and *The Coyame Incident*. The third is [[Leonard Stringfield]]'s crash-retrieval status reports, and the fourth is [[Ryan S. Wood]]'s *Magic Eyes Only*, which rates the case as medium to high in authenticity. The host follows each thread: where the report came from, the missing civilian plane, the CIA's role, the unexplained deaths of the Mexican soldiers, and eyewitnesses in Presidio, Texas. He also covers a suspicious 2012 Wikipedia edit that named the recovery team and the dead soldiers, and a Mexican official's 2024 claim to have video of the crash.
+Primary sources are scarce, and Gerb leans on four. The first is the [[Denb Report]], an anonymous memo from "[[JS (Denb Report Author)|JS]]" to "all Denb team members", which he reads in full. The second is [[Noe Torres]] and [[Ruben Uriarte]]'s books *Mexico's Roswell: The Chihuahua UFO Crash* and *The Coyame Incident*. The third is [[Leonard Stringfield]]'s crash-retrieval status reports, and the fourth is [[Ryan S. Wood]]'s *Magic Eyes Only*, which rates the case as medium to high in authenticity. Gerb follows each thread: where the report came from, the missing civilian plane, the CIA's role, the unexplained deaths of the Mexican soldiers, and eyewitnesses in Presidio, Texas. He also covers a suspicious 2012 Wikipedia edit that named the recovery team and the dead soldiers, and a Mexican official's 2024 claim to have video of the crash.
 
-The host keeps an open mind on the case. He finds the report's detail and Stringfield's independent knowledge compelling. He accepts that the case "just requires a couple pieces of evidence" it does not yet have. He also leaves open whether the Mexican soldiers died from something in the disc or at the hands of the Americans.
+Gerb keeps an open mind on the case. He finds the report's detail and Stringfield's independent knowledge compelling. He accepts that the case "just requires a couple pieces of evidence" it does not yet have. He also leaves open whether the Mexican soldiers died from something in the disc or at the hands of the Americans.
 
 ## Chronology
 
 ::wiki-timeline{video="bL3tMByq_WM" video-title="The 1974 Coyame, Mexico UFO Crash"}
 ---
-help: "The bar pinned above the entries is a ruler from 1970 to 2025. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The crash and recovery took three days, so the 1974 ticks stack into a tall cluster; the rest of the ruler is the fifty-year paper trail. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line capped with a downward arrow is where the host is. The host reads the Denb Report first and then doubles back through its sources, so the playhead jumps around the ruler. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Timestamps jump the mini-player to that moment."
+help: "The bar pinned above the entries is a ruler from 1970 to 2025. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The crash and recovery took three days, so the 1974 ticks stack into a tall cluster; the rest of the ruler is the fifty-year paper trail. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line capped with a downward arrow is where Gerb is. Gerb reads the Denb Report first and then doubles back through its sources, so the playhead jumps around the ruler. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Timestamps jump the mini-player to that moment."
 eras:
   - id: crash
     label: "The Crash and the Retrieval"
@@ -79,7 +79,7 @@ eras:
   - id: now
     label: "Open Leads"
     from: 2024
-    summary: "A Mexican official says he has video of the crash, and the host goes after service records with Ryan S. Wood."
+    summary: "A Mexican official says he has video of the crash, and Gerb goes after service records with Ryan S. Wood."
 events:
   - date: "1974-08-25"
     title: "Air Defense radar tracks an unknown object from the Gulf of Mexico"
@@ -139,7 +139,7 @@ events:
   - date: "1974-08-30"
     title: "Mexican pilot Enrique Rivera Gutierrez dies of plane-crash injuries"
     cue: 1238
-    summary: "Torres and Uriarte cite a Ciudad Juarez newspaper report that a 50-year-old pilot died on 30 August 1974 of injuries from a plane crash on an unknown date. The authors suggest he may be the Denb Report's pilot; the host finds that highly unlikely after a collision thousands of feet up."
+    summary: "Torres and Uriarte cite a Ciudad Juarez newspaper report that a 50-year-old pilot died on 30 August 1974 of injuries from a plane crash on an unknown date. The authors suggest he may be the Denb Report's pilot; Gerb finds that highly unlikely after a collision thousands of feet up."
     category: person
     significance: minor
     entities:
@@ -148,7 +148,7 @@ events:
   - date: "1974-10-21"
     title: "Ford and the Mexican president discuss small-plane smuggling"
     cue: 1214
-    summary: "Two months after the crash, the Mexican president told Gerald Ford how easily small planes land on private ranches along the border. The host cites the exchange to support Torres and Uriarte's theory that the lost plane was a Cessna 180 flying drugs low and slow."
+    summary: "Two months after the crash, the Mexican president told Gerald Ford how easily small planes land on private ranches along the border. Gerb cites the exchange to support Torres and Uriarte's theory that the lost plane was a Cessna 180 flying drugs low and slow."
     category: policy
     significance: minor
     entities:
@@ -156,7 +156,7 @@ events:
   - date: "1974-10-27"
     title: "El Heraldo de Chihuahua reports soldiers killed in a 'military transport' crash"
     cue: 2252
-    summary: "Mexican UFO researcher Alfonso Salazar found a story in El Heraldo de Chihuahua on the deaths of a group of Mexican soldiers in the crash of a 'military transport', the only real lead on the soldiers' fate. The host has not been able to locate the article himself."
+    summary: "Mexican UFO researcher Alfonso Salazar found a story in El Heraldo de Chihuahua on the deaths of a group of Mexican soldiers in the crash of a 'military transport', the only real lead on the soldiers' fate. Gerb has not been able to locate the article himself."
     category: document
     significance: notable
     entities:
@@ -200,7 +200,7 @@ events:
   - date: "1993"
     title: "Denb Report mailed anonymously to researchers"
     cue: 176
-    summary: "In early summer 1993 paper copies were mailed anonymously to researchers including Elaine Douglas and Nick Redfern. Douglas shared the originals with Stringfield. The host is reminded of how the MJ-12 documents surfaced."
+    summary: "In early summer 1993 paper copies were mailed anonymously to researchers including Elaine Douglas and Nick Redfern. Douglas shared the originals with Stringfield. Gerb is reminded of how the MJ-12 documents surfaced."
     category: document
     significance: notable
     entities:
@@ -241,7 +241,7 @@ events:
   - date: "2012"
     title: "Presidio witnesses report a fireball and returning helicopters"
     cue: 2289
-    summary: "At a festival in Presidio, Texas, schoolteacher Johnny Chambers and her son told Torres of a 'big explosion in the sky' over the Mexican side near Coyame, and of residents seeing military helicopters, including a large twin-rotor one, return from Mexico within a day. The host notes they came forward five years after the book."
+    summary: "At a festival in Presidio, Texas, schoolteacher Johnny Chambers and her son told Torres of a 'big explosion in the sky' over the Mexican side near Coyame, and of residents seeing military helicopters, including a large twin-rotor one, return from Mexico within a day. Gerb notes they came forward five years after the book."
     category: event
     significance: notable
     entities:
@@ -258,13 +258,13 @@ events:
   - date: "2014"
     title: "Wikipedia page deleted"
     cue: 2081
-    summary: "The whole Coyame article was deleted by the administrator 'Scotty Wong', who retired the account shortly afterwards. The host calls the page's existence 'incredibly suspicious'."
+    summary: "The whole Coyame article was deleted by the administrator 'Scotty Wong', who retired the account shortly afterwards. Gerb calls the page's existence 'incredibly suspicious'."
     category: event
     significance: notable
   - date: "2014"
     title: "Elaine Douglas dies; her Denb scans vanish"
     cue: 2680
-    summary: "Elaine Douglas died in 2014. Her website, which the host believes held a scan of the original Denb Report, survives only in the web archive with its Coyame links missing, and Ryan S. Wood has no copy to test forensically."
+    summary: "Elaine Douglas died in 2014. Her website, which Gerb believes held a scan of the original Denb Report, survives only in the web archive with its Coyame links missing, and Ryan S. Wood has no copy to test forensically."
     category: person
     significance: notable
     entities:
@@ -273,7 +273,7 @@ events:
   - date: "2024-03-16"
     title: "Jesus Alberto tweets that he has video of the crash"
     cue: 2369
-    summary: "Mexican official Jesus Alberto, tasked with UFO disclosure, posted a since-deleted tweet saying he had a video 'from another world', in context the Coyame crash. He answered the host's question with a thumbs-up and has not replied to requests for the video, witnesses or documents."
+    summary: "Mexican official Jesus Alberto, tasked with UFO disclosure, posted a since-deleted tweet saying he had a video 'from another world', in context the Coyame crash. He answered Gerb's question with a thumbs-up and has not replied to requests for the video, witnesses or documents."
     category: person
     significance: major
     entities:
@@ -283,11 +283,44 @@ events:
 
 ## The Denb Report's Account
 
-The host reads the Denb Report aloud in full because, he says, it remains the best analysis of the case. What follows is its account, attributed throughout to JS.
+Gerb reads the Denb Report aloud in full because, he says, it remains the best analysis of the case. What follows is its account, attributed throughout to JS.
 
 ### Radar and the flight profile
 
 At 2207 hours on 25 August 1974, US Air Defense radar detected an unknown object approaching from the Gulf of Mexico at 2,200 knots, on a bearing of 325 degrees at 75,000 feet. That course would have crossed the coast about 40 miles southwest of [[Corpus Christi, Texas]]. After about 60 seconds, 155 miles southeast of Corpus Christi, the object slowed to about 1,700 knots, turned to a heading of 290 degrees and began a slow descent. It entered Mexican airspace about 40 miles southwest of [[Brownsville, Texas]], levelled off at 45,000 feet and then descended to 20,000 feet. It came down in level steps, each held for about five minutes, rather than in a smooth curve. Two military radar sites tracked it for about 500 miles until it disappeared near Coyame, over barren and sparsely populated country. No civilian radar reported it, although it should have been within range of Brownsville's.
+
+::wiki-map{video="bL3tMByq_WM" video-title="The 1974 Coyame, Mexico UFO Crash"}
+---
+label: "The radar track"
+caption: "The object's course on 25 August 1974 as the Denb Report gives it. The turn and the entry into Mexico are placed by the report's own distances from Corpus Christi and Brownsville (155 miles south-east and 40 miles south-west), computed from each city's centre; the line joins those points and is not a surveyed track."
+pins:
+  - text: "Turn over the Gulf of Mexico"
+    label: "Turn"
+    coordinates: [26.1453, -95.635]
+    note: "About 155 miles south-east of Corpus Christi, after some 60 seconds of tracking at 2,200 knots and 75,000 ft, the object slowed to about 1,700 knots and turned to 290 degrees."
+    cue: 253
+  - name: "Corpus Christi, Texas"
+    label: "Corpus Christi"
+    note: "Its first course, on a bearing of 325 degrees, would have crossed the coast about 40 miles south-west of the city."
+    cue: 248
+  - name: "Brownsville, Texas"
+    label: "Brownsville"
+    note: "Within range of Brownsville's civilian radar, which reported nothing."
+  - text: "Entry into Mexican airspace"
+    label: "Into Mexico"
+    coordinates: [25.5202, -97.938]
+    note: "About 40 miles south-west of Brownsville. The object levelled off at 45,000 ft, then came down to 20,000 ft in five-minute steps."
+    cue: 269
+  - name: "Coyame, Chihuahua, Mexico"
+    label: "Coyame"
+    note: "Two military radar sites tracked it about 500 miles to a point near Coyame, where it vanished from their screens."
+    cue: 275
+routes:
+  - path: [1, 4, 5]
+    style: dashed
+    label: "The radar track, about 500 miles over Mexico"
+---
+::
 
 The report sets out why the object was not taken for a meteor. Meteors travel faster, descend in a smooth arc rather than in steps, and do not turn 35 degrees. An air defense alert was called, but it was cancelled within 20 minutes when the object turned onto a course that would not take it over US territory. JS also asks where the object came from. It was first detected only about 200 miles out, yet US air defenses reach much further. JS judges it "probable" from the behaviour of discs this size that it entered from orbital altitude, perhaps within reach of NORAD's space tracking. The alternative JS offers is that it came in over the Gulf under the radar and then "jumped up" to 75,000 feet.
 
@@ -316,44 +349,98 @@ The report gives clock times but dates only the first two days. The later dates 
 
 The disc passed through a chain of custody that the report traces as far as Atlanta. After that, JS writes, "the hard evidence thins out".
 
-::wiki-org-chart
+::wiki-chain{video="bL3tMByq_WM" video-title="The 1974 Coyame, Mexico UFO Crash"}
 ---
-root:
-  name: "Coyame, Chihuahua, Mexico"
-  label: "Crash sites, 25 August 1974"
-  note: "The disc and the civilian plane came down a few miles apart in barren country, about 60 miles from the nearest town."
-  children:
-    - name: "Mexican military convoy"
-      label: "Flatbed trucks heading south, 26–27 August"
-      note: "Stopped before reaching any town or major road; every soldier was found dead."
-      children:
-        - name: "Vehicles, bodies and plane debris"
-          label: "Destroyed with high explosives"
-          note: "Nothing was brought back for analysis, including any of the bodies."
-        - name: "Sea Stallion sling load"
-          label: "Airborne by 1747, re-entering the US"
-          note: "Men in bio-protection suits moved the flatbed's straps onto the helicopter's cargo cable."
-          children:
-            - name: "Valentine, Texas"
-              label: "Davis Mountains stopover until 0225"
-              note: "The helicopters landed about 25 miles northeast of the town and waited out the night."
-              children:
-                - name: "Sealed truck convoy"
-                  label: "Transferred near Van Horn and Kent"
-                  note: "The truck could be sealed completely; it kept to back roads and away from cities."
-                  children:
-                    - name: "Atlanta, Georgia"
-                      label: "Reported destination"
-                      note: "The host points to Lockheed's Air Force Plant 6 in nearby Marietta and its former Georgia Nuclear Aircraft Laboratory."
-                      children:
-                        - name: "Wright-Patterson Air Force Base"
-                          label: "Unconfirmed later transfer"
-                        - name: "Unnamed base"
-                          label: "Unconfirmed, after Wright-Patterson or direct from Atlanta"
+kind: custody
+caption: "The disc's route as the Denb Report traces it. Everything after Atlanta is unconfirmed."
+steps:
+  - name: "Coyame, Chihuahua, Mexico"
+    date: "25–26 Aug 1974"
+    note: "Search planes spotted the civilian wreck, then a circular craft a few miles away, damaged but in one piece, in barren country about 60 miles from the nearest town."
+    cue: 385
+  - via: "Loaded onto flatbeds, heading south"
+    text: "Mexican military convoy"
+    note: "It stopped before reaching any town or major road. Overflights showed the trucks halted and bodies on the ground; every soldier was found dead."
+    cue: 487
+  - via: "Split at the convoy site, 27 Aug"
+    fork:
+      - label: "Everything else"
+        steps:
+          - via: "Destroyed with high explosives"
+            text: "Vehicles, bodies and plane debris"
+            note: "Including the pieces of the civilian light plane. Nothing was brought back for analysis."
+            cue: 591
+      - label: "The disc"
+        steps:
+          - via: "Straps moved to the Sea Stallion's cargo cable"
+            text: "Sea Stallion sling load"
+            note: "Men in bio-protection suits reconfigured the flatbed's straps. Airborne by 1747 and on its way to US territory."
+            cue: 574
+          - via: "Davis Mountains stopover until 0225"
+            name: "Valentine, Texas"
+            note: "The helicopters landed about 25 miles northeast of the town and waited out the night."
+            cue: 613
+          - via: "Met a small convoy near Van Horn and Kent"
+            text: "Sealed truck convoy"
+            note: "A truck large enough for the disc that could be sealed completely. It drove non-stop on back roads, away from cities."
+            cue: 626
+          - via: "Reported destination"
+            name: "Atlanta, Georgia"
+            note: "Where, the report says, the hard evidence thins out."
+            cue: 653
+          - via: "Unconfirmed later transfer"
+            fork:
+              - label: "One report"
+                steps:
+                  - name: "Wright-Patterson Air Force Base"
+                    note: "One unconfirmed report."
+                    cue: 661
+              - label: "Another"
+                steps:
+                  - text: "Unnamed base"
+                    note: "Another says the disc went on to an unnamed base, after Wright-Patterson or straight from Atlanta."
+                    cue: 667
 ---
 ::
 
-The host dwells on Atlanta. [[Lockheed Martin]] runs a complex at Air Force Plant 6, less than 30 miles outside the city in Marietta, which Lockheed says does [[Lockheed Martin Skunk Works|Skunk Works]] advanced development. Lockheed Martin was not formed until 1995, but its predecessor, the Lockheed company, did C-130 work in Marietta from the 1950s. More intriguing to him is the Georgia Nuclear Aircraft Laboratory (Air Force Plant 67), where Lockheed studied nuclear-powered aircraft; it closed in 1971 and passed to the city of Atlanta.
+The recovery itself was a loop across the border, which the report traces town by town.
+
+::wiki-map{video="bL3tMByq_WM" video-title="The 1974 Coyame, Mexico UFO Crash"}
+---
+caption: "The recovery flight as the Denb Report describes it, 27–28 August 1974. The lines join the places the report names; it gives no exact flight paths, and the crash site itself is placed only \"near Coyame\". From Van Horn the sealed truck drove on to Atlanta, Georgia, off this map to the east."
+pins:
+  - name: "Fort Bliss"
+    label: "Fort Bliss"
+    date: "26 Aug 1974"
+    note: "The team and four unmarked, sand-coloured helicopters were staged here by 2100."
+  - text: "Presidio, Texas"
+    label: "Presidio"
+    coordinates: [29.5614, -104.3664]
+    note: "Launching at 1438, the helicopters followed the border to Presidio and crossed into Mexico north of Candelaria."
+  - name: "Coyame, Chihuahua, Mexico"
+    label: "Coyame"
+    date: "27 Aug 1974"
+    note: "Over the stopped convoy at 1653: every soldier dead. The disc left slung under the Sea Stallion at about 1747."
+    cue: 385
+  - name: "Valentine, Texas"
+    label: "Valentine"
+    note: "All the helicopters landed in the Davis Mountains, about 25 miles north-east of the town, and waited until 0225."
+    cue: 613
+  - text: "Van Horn, Texas"
+    label: "Van Horn"
+    coordinates: [31.0425, -104.8331]
+    date: "28 Aug 1974"
+    note: "They met a small convoy near Van Horn and Kent; the disc was sealed into a truck and the helicopters went home."
+    cue: 626
+routes:
+  - path: [1, 2, 3]
+    label: "Outbound, 27 Aug: along the border, crossing north of Candelaria"
+  - path: [3, 4, 5]
+    label: "Back with the disc, 27–28 Aug: via the Davis Mountains stopover"
+---
+::
+
+Gerb dwells on Atlanta. [[Lockheed Martin]] runs a complex at Air Force Plant 6, less than 30 miles outside the city in Marietta, which Lockheed says does [[Lockheed Martin Skunk Works|Skunk Works]] advanced development. Lockheed Martin was not formed until 1995, but its predecessor, the Lockheed company, did C-130 work in Marietta from the 1950s. More intriguing to him is the Georgia Nuclear Aircraft Laboratory (Air Force Plant 67), where Lockheed studied nuclear-powered aircraft; it closed in 1971 and passed to the city of Atlanta.
 
 ### The disc
 
@@ -361,24 +448,24 @@ The best description in the report is of a disc 16 feet 5 inches across and just
 
 ## Where the Denb Report Came From
 
-The report first appeared in 1992 on an electronic bulletin board. In early summer 1993 paper copies were mailed anonymously to researchers including [[Elaine Douglas]] and [[Nick Redfern]], and Douglas passed the originals to Leonard Stringfield. The host compares this with the anonymous mailings that launched the [[MJ-12 Documents]]. It is dated 23 March 1992 and addressed from JS to "all Denb team members". It is filed as "UFO 3263", which suggests that Coyame is one case among many in the group's files. JS says the facts were gathered in 1978 from two eyewitness accounts, illegally copied documentation and a partially destroyed document, by a person since dead, and that they reached "our group" only in February 1992. JS repeatedly admits knowing nothing of the craft's analysis, its final destination or whether it carried bodies. From this the host concludes that the author had primary sources but no direct line into the CIA, NORAD or agencies such as the [[NRO (National Reconnaissance Office)|NRO]] or [[NGA]].
+The report first appeared in 1992 on an electronic bulletin board. In early summer 1993 paper copies were mailed anonymously to researchers including [[Elaine Douglas]] and [[Nick Redfern]], and Douglas passed the originals to Leonard Stringfield. Gerb compares this with the anonymous mailings that launched the [[MJ-12 Documents]]. It is dated 23 March 1992 and addressed from JS to "all Denb team members". It is filed as "UFO 3263", which suggests that Coyame is one case among many in the group's files. JS says the facts were gathered in 1978 from two eyewitness accounts, illegally copied documentation and a partially destroyed document, by a person since dead, and that they reached "our group" only in February 1992. JS repeatedly admits knowing nothing of the craft's analysis, its final destination or whether it carried bodies. From this Gerb concludes that the author had primary sources but no direct line into the CIA, NORAD or agencies such as the [[NRO (National Reconnaissance Office)|NRO]] or [[NGA]].
 
-Torres and Uriarte suggest "JS" is an acronym for a US government body such as the Joint Staff or Joint Services. The host adds his own idea about the [[Denb Team]]. It may have been an internal government study group during what he calls the "dark ages" of UAP, the gap in acknowledged programs between the end of [[Project Blue Book]] in 1969 and [[AATIP (Advanced Aerospace Threat Identification Program)|AATIP]] in 2007. He notes that [[Luis Elizondo]] has said unacknowledged UAP programs ran in the 1980s. The [[UAP Task Force]] is known to have used Top Secret online forums, and the host suggests the Denb team could have been intelligence professionals doing the same on early message boards.
+Torres and Uriarte suggest "JS" is an acronym for a US government body such as the Joint Staff or Joint Services. Gerb adds his own idea about the [[Denb Team]]. It may have been an internal government study group during what he calls the "dark ages" of UAP, the gap in acknowledged programs between the end of [[Project Blue Book]] in 1969 and [[AATIP (Advanced Aerospace Threat Identification Program)|AATIP]] in 2007. He notes that [[Luis Elizondo]] has said unacknowledged UAP programs ran in the 1980s. The [[UAP Task Force]] is known to have used Top Secret online forums, and Gerb suggests the Denb team could have been intelligence professionals doing the same on early message boards.
 
 > [!note] Deneb
-> The host reads the name as the star Deneb, a highly luminous blue supergiant in Cygnus, one of the oldest recognised constellations. The Milky Way's Great Rift begins near Deneb, and shamans of southern Mexico called the rift the "birth of all life". He does not say whether the name was meant as a reference to it.
+> Gerb reads the name as the star Deneb, a highly luminous blue supergiant in Cygnus, one of the oldest recognised constellations. The Milky Way's Great Rift begins near Deneb, and shamans of southern Mexico called the rift the "birth of all life". He does not say whether the name was meant as a reference to it.
 
-Stringfield's endorsement matters to the host because Stringfield had heard of the case about a decade before the report appeared. At MUFON in 1978, presenting "Retrievals of the Third Kind", Stringfield said he had been warned "circuitously" by the CIA several days beforehand that it would be inadvisable to discuss crash information from Mexico or West Germany.
+Stringfield's endorsement matters to Gerb because Stringfield had heard of the case about a decade before the report appeared. At MUFON in 1978, presenting "Retrievals of the Third Kind", Stringfield said he had been warned "circuitously" by the CIA several days beforehand that it would be inadvisable to discuss crash information from Mexico or West Germany.
 
 ## The Missing Plane
 
-The collision of a disc with a light aircraft is, for the host, the most improbable part of the case and also its key. The FAA had no record, and the host found none in Embry-Riddle's accident archives or the Aviation Safety Network's 1974 listings for Mexico. Torres and Uriarte think the plane was a Cessna 180, whose 17,700-foot service ceiling fits a collision at or below the object's last recorded altitude of 20,000 feet. They suggest it was flying low and slow on an illegal run such as drug smuggling. The host notes how pressing border smuggling was in 1974. On 21 October that year the Mexican president told [[Gerald Ford]] that along the border "it is very easy for small planes to take off and land in small private ranches."
+The collision of a disc with a light aircraft is, for Gerb, the most improbable part of the case and also its key. The FAA had no record, and Gerb found none in Embry-Riddle's accident archives or the Aviation Safety Network's 1974 listings for Mexico. Torres and Uriarte think the plane was a Cessna 180, whose 17,700-foot service ceiling fits a collision at or below the object's last recorded altitude of 20,000 feet. They suggest it was flying low and slow on an illegal run such as drug smuggling. Gerb notes how pressing border smuggling was in 1974. On 21 October that year the Mexican president told [[Gerald Ford]] that along the border "it is very easy for small planes to take off and land in small private ranches."
 
-Two newspaper leads survive. In *The Coyame Incident*, Torres and Uriarte cite a Ciudad Juárez paper's report that a 50-year-old pilot, Enrique Rivera Gutierrez, died on 30 August 1974 of injuries from a plane crash on an unknown date. The host doubts he could be the Denb pilot after a collision thousands of feet up. Mexican researcher [[Alfonso Salazar]] found an *El Heraldo de Chihuahua* story of 27 October 1974 about Mexican soldiers killed in the crash of a "military transport". The host calls it the only real lead on the soldiers' fate, though he could not locate the article himself.
+Two newspaper leads survive. In *The Coyame Incident*, Torres and Uriarte cite a Ciudad Juárez paper's report that a 50-year-old pilot, Enrique Rivera Gutierrez, died on 30 August 1974 of injuries from a plane crash on an unknown date. Gerb doubts he could be the Denb pilot after a collision thousands of feet up. Mexican researcher [[Alfonso Salazar]] found an *El Heraldo de Chihuahua* story of 27 October 1974 about Mexican soldiers killed in the crash of a "military transport". Gerb calls it the only real lead on the soldiers' fate, though he could not locate the article himself.
 
 ## The American Response
 
-The report says the CIA received the radio intercepts, possibly alongside two unnamed agencies, and assembled a team so fast that it "suggests that this was either a well-rehearsed exercise or one that had been performed prior to this event." The host sorts out who supplied what.
+The report says the CIA received the radio intercepts, possibly alongside two unnamed agencies, and assembled a team so fast that it "suggests that this was either a well-rehearsed exercise or one that had been performed prior to this event." Gerb sorts out who supplied what.
 
 ::wiki-org-chart
 ---
@@ -404,60 +491,112 @@ root:
           note: "Described as a larger helicopter, possibly a CH-53."
         - name: "Two late arrivals"
           label: "With extra equipment"
-          note: "The host asks whether they were munitions experts sent to sanitise a contaminated site."
+          note: "Gerb asks whether they were munitions experts sent to sanitise a contaminated site."
 ---
 ::
 
-The host links the report's picture of the CIA to [[Christopher Sharp]]'s reporting that the [[CIA Office of Global Access]] has played a central role in crash retrieval since 2003, working with [[JSOC (Joint Special Operations Command)|JSOC]] among others. One of Sharp's sources calls the office "a facilitator for people to get in and out of countries". Another says the military does the physical retrieval but hands the object "fairly quickly into private hands" because it has to keep too many records. For the host, Coyame suggests that parts of the CIA were retrieving craft long before the office existed. The handoff to a private convoy and a Lockheed city fits the same pattern. So, for him, does Mercy 11's claim that the team was made up of retired servicemen. Sharp's Daily Mail sources also named [[NEST (Nuclear Emergency Support Team)|NEST]] among the teams doing retrievals.
+Gerb links the report's picture of the CIA to [[Christopher Sharp]]'s reporting that the [[CIA Office of Global Access]] has played a central role in crash retrieval since 2003, working with [[JSOC (Joint Special Operations Command)|JSOC]] among others. One of Sharp's sources calls the office "a facilitator for people to get in and out of countries". Another says the military does the physical retrieval but hands the object "fairly quickly into private hands" because it has to keep too many records. For Gerb, Coyame suggests that parts of the CIA were retrieving craft long before the office existed. The handoff to a private convoy and a Lockheed city fits the same pattern. So, for him, does Mercy 11's claim that the team was made up of retired servicemen. Sharp's Daily Mail sources also named [[NEST (Nuclear Emergency Support Team)|NEST]] among the teams doing retrievals.
 
-[[Fort Bliss]] may matter beyond this case. [[Philip J. Corso]] wrote in *The Day After Roswell* that debris and bodies from the 1947 [[Roswell Crash]] were shipped there. The host knows of few other links besides a handful of Blue Book sightings and flags the base for future research.
+[[Fort Bliss]] may matter beyond this case. [[Philip J. Corso]] wrote in *The Day After Roswell* that debris and bodies from the 1947 [[Roswell Crash]] were shipped there. Gerb knows of few other links besides a handful of Blue Book sightings and flags the base for future research.
 
 ## What Killed the Mexican Soldiers?
 
-The report does not say: "Speculation ranges from a chemical released from the disc as a result of the damage to a microbiological agent." None of the US team fell ill. The host weighs two explanations and does not decide between them.
+The report does not say: "Speculation ranges from a chemical released from the disc as a result of the damage to a microbiological agent." None of the US team fell ill. Gerb weighs two explanations and does not decide between them.
 
-::wiki-grid{cols=2}
-::wiki-panel{title="A contaminant from the disc" tone="accent"}
-The Denb Report's own view. The Americans waited for extra equipment and two more personnel, wore bio-protection suits, sterilised the site and took no body back for analysis. The host reads this as a team that knew about the contamination in advance. Something may have escaped through the 12-inch hole, or the soldiers may have handled bodies, as a police officer at [[Varginha, Brazil|Varginha]] allegedly did before he died. Noe Torres even wonders whether the "high explosive" was an MK-54 SADM suitcase nuke, whose 10-ton yield would sterilise the site with little harm to anyone nearby. Hans Krueger's 2000 paper argued that low-yield nuclear fireballs can destroy biological warfare agents.
-::
-::wiki-panel{title="Killed by the US team"}
-The host's own lingering suspicion. The Americans may have killed the soldiers in a hasty decision to stop them returning to base with UAP debris. Then they destroyed the vehicles and bodies. He recalls [[David Grusch]] saying more than once that crimes have been committed to keep the UAP secret. Mercy 11's claim that the soldiers died of asphyxiation adds to the uncertainty. The host says this possibility "does warrant further investigation" and returns to it at the end of the video.
-::
+::wiki-claim{video="bL3tMByq_WM" video-title="The 1974 Coyame, Mexico UFO Crash"}
+---
+label: "What killed the Mexican soldiers?"
+term: "Explanation"
+caption: "The two explanations the video weighs for the soldiers' deaths, and what it sets beside each."
+claims:
+  - title: "A contaminant from the disc"
+    by: "Denb Report"
+    text: "The soldiers were killed by something released from the damaged disc, a chemical or a microbiological agent."
+    cue: 1716
+    responses:
+      - by: "Gerb"
+        stance: supports
+        text: "The Americans waited for extra equipment and two more personnel, wore bio-protection suits, destroyed the site with high explosives and took no body back for analysis: a team that knew about the contamination in advance. The soldiers may have handled bodies, as a police officer at Varginha allegedly did before he died."
+        cue: 1654
+      - by: "Noe Torres"
+        stance: supports
+        text: "The \"high explosive\" may have been an MK-54 SADM suitcase nuke, whose 10-ton yield would sterilise the site with little harm to anyone nearby."
+        cue: 1671
+      - by: "Hans Krueger"
+        stance: supports
+        date: 2000
+        text: "His paper argues that low-yield nuclear fireballs can destroy biological warfare agents."
+        cue: 1689
+  - title: "Killed by the US team"
+    by: "Gerb"
+    note: "His own lingering suspicion"
+    text: "The Americans may have killed the soldiers in a hasty decision to stop them returning to base with UAP debris, then destroyed the vehicles and bodies."
+    cue: 1728
+    responses:
+      - by: "David Grusch"
+        stance: supports
+        text: "He has said more than once that crimes have been committed to keep UAP secret."
+        cue: 1741
+      - by: "Mercy 11"
+        stance: unresolved
+        date: 2012
+        text: "The anonymous Wikipedia editor's version says the four soldiers' bodies showed signs of death by asphyxiation."
+        cue: 2000
+      - by: "Gerb"
+        stance: unresolved
+        text: "The possibility \"does warrant further investigation\". He returns to it at the end of the video, asking viewers what they think."
+        cue: 2628
+---
 ::
 
-The host finds precedents for fatal contamination in the [[Majestic 12]] papers. According to Section F of the MJ-12 First Annual Report, several [[Sandia National Laboratories]] technicians fell ill after contact with debris and bodies. One collapsed while removing a body, and another fell into a coma for four hours while bagging one. All four who were affected were rushed to Los Alamos and died of seizures and profuse bleeding. The inconclusive autopsies suggested a toxin or a highly contagious disease, and the report quotes the senior Atomic Energy medical adviser warning that medical supplies were "wholly inadequate" for "a large scale outbreak of the alien virus." An [[Interplanetary Phenomenon Unit]] summary report in Ryan S. Wood's files describes nervous breakdowns and suicides among military police and "the deaths of three technicians" from Sandia after contamination. The host adds that the "Infographics" whistleblower said the first step after a crash is to send a team to test for toxicity. A Mexican team with no protective gear, he reasons, would have died from exposure.
+Gerb finds precedents for fatal contamination in the [[Majestic 12]] papers. According to Section F of the MJ-12 First Annual Report, several [[Sandia National Laboratories]] technicians fell ill after contact with debris and bodies. One collapsed while removing a body, and another fell into a coma for four hours while bagging one. All four who were affected were rushed to Los Alamos and died of seizures and profuse bleeding. The inconclusive autopsies suggested a toxin or a highly contagious disease, and the report quotes the senior Atomic Energy medical adviser warning that medical supplies were "wholly inadequate" for "a large scale outbreak of the alien virus." An [[Interplanetary Phenomenon Unit]] summary report in Ryan S. Wood's files describes nervous breakdowns and suicides among military police and "the deaths of three technicians" from Sandia after contamination. Gerb adds that the "Infographics" whistleblower said the first step after a crash is to send a team to test for toxicity. A Mexican team with no protective gear, he reasons, would have died from exposure.
 
 ## Echoes of Peru, 1997
 
-The case reminds the host of [[Jonathan Weygandt]]'s account of a crashed craft in the Peruvian jungle during the CIA-supported counternarcotics [[Operation Laser Strike]].
+The case reminds Gerb of [[Jonathan Weygandt]]'s account of a crashed craft in the Peruvian jungle during the CIA-supported counternarcotics [[Operation Laser Strike]] (see [[Peru UFO Crash Incident]]). What is confirmable in Peru, he says, is the CIA's involvement, and the key links to Coyame are the hazmat suits and the harm done to people near the craft. In Peru the men in hazmat suits were ones he has argued were [[NEST (Nuclear Emergency Support Team)|NEST]].
 
-::wiki-grid{cols=2}
-::wiki-panel{title="Coyame, 1974"}
-- CIA forms the team and supplies the intelligence
-- Unmarked helicopters, including a heavy twin-rotor Sea Stallion
-- Recovery crew in bio-protection suits
-- Mexican soldiers dead beside the disc
-- Site destroyed; disc handed to a private convoy
-::
-::wiki-panel{title="Peru, 1997 (Jonathan Weygandt)"}
-- CIA involvement in Operation Laser Strike is on record
-- Personnel arrive by a landed CH-47 twin-rotor helicopter
-- Men in black fatigues, rain jackets and hazmat suits, whom the host has argued were [[NEST (Nuclear Emergency Support Team)|NEST]]
-- Weygandt feels intense, unexplainable fear near the craft
-- See [[Peru UFO Crash Incident]]
-::
+::wiki-compare{video="bL3tMByq_WM" video-title="The 1974 Coyame, Mexico UFO Crash"}
+---
+caption: "The two recoveries set side by side, as Gerb compares them. \"Same\" marks the links he stresses."
+attributeLabel: "Point"
+subjects:
+  - name: "1974 Coyame, Mexico UFO Crash Retrieval"
+    note: "Per the Denb Report"
+  - name: "Peru UFO Crash Incident"
+    note: "1997, per Jonathan Weygandt"
+rows:
+  - attribute: "The CIA"
+    cue: 1476
+    cells:
+      - { text: "Received the intercepts and formed the recovery team", mark: same }
+      - { text: "Its support of Operation Laser Strike is on record", mark: same }
+  - attribute: "Helicopters"
+    cells:
+      - { text: "Three unmarked, sand-coloured Hueys and a larger Sea Stallion; Presidio witnesses saw a large twin-rotor return", cue: 1520 }
+      - { text: "A landed CH-47 twin-rotor", cue: 1489 }
+  - attribute: "Recovery crew"
+    cue: 1506
+    cells:
+      - { text: "Men in bio-protection suits", mark: same }
+      - { text: "Black fatigues, rain jackets and hazmat suits", mark: same }
+  - attribute: "People near the craft"
+    cue: 1509
+    cells:
+      - "Every Mexican soldier in the convoy found dead"
+      - "Weygandt felt intense, unexplainable fear"
+---
 ::
 
 ## The Wikipedia Affair
 
 A Wikipedia article on the crash existed from 2008. It cited the Denb Report, a UFO Casebook article and *Mexico's Roswell*, and added nothing new. In September 2012 the user "Mercy 11" rewrote it. The new version said four Huey helicopters and a 15-man team had been readied at "the US military radar airbase", and that the team had entered Mexico after intercepting a Mexican radio message. It named six Americans, all "retired US Armed Forces personnel". It also said an olive-green Mexican jeep held the bodies of four soldiers: Captain Rogelio Arguello Gonzalez, Sergeant Teofilo Margarito Puebla, and Corporals Jose Trinidad Marz and Ricardo Velasquez. Their bodies "displayed signs of death by asphyxiation."
 
-Torres and Uriarte asked Mercy 11 for a source. He pointed again to a *UFO Hunters* episode, "Mexico's Roswell: The Coyame Crash", which contains none of the names. He then suggested he had seen them on another site "in another window which I failed to attribute and record properly." Soon after that 2013 exchange, the administrator "Scotty Wong" deleted the whole page in 2014 and retired the account shortly afterwards. The host searched for the six Americans:
+Torres and Uriarte asked Mercy 11 for a source. He pointed again to a *UFO Hunters* episode, "Mexico's Roswell: The Coyame Crash", which contains none of the names. He then suggested he had seen them on another site "in another window which I failed to attribute and record properly." Soon after that 2013 exchange, the administrator "Scotty Wong" deleted the whole page in 2014 and retired the account shortly afterwards. Gerb searched for the six Americans:
 
-| Name, per Mercy 11 | What the host found |
+| Name, per Mercy 11 | What Gerb found |
 |---|---|
 | Captain Lawrence Mearley | One Utah man who left for the armed forces near the end of World War II; no rank or service details |
-| Lieutenant Randall Bishop | An Indiana man (1932–2020), a Pershing Rifles member at the University of Kentucky, who served in the Korean War as a war-zone air traffic controller for the Air Force and then taught in Indiana. The host notes the emphasis the "Infographics" whistleblower put on the Korean War and on this part of Indiana |
+| Lieutenant Randall Bishop | An Indiana man (1932–2020), a Pershing Rifles member at the University of Kentucky, who served in the Korean War as a war-zone air traffic controller for the Air Force and then taught in Indiana. Gerb notes the emphasis the "Infographics" whistleblower put on the Korean War and on this part of Indiana |
 | Lieutenant Eduardo Ramirez | A Private First Class Eduardo Ramirez won the Distinguished Service Cross in World War II for destroying German machine-gun nests with explosives; no record of promotion to lieutenant |
 | Lieutenant Benjamin Rhodes | Almost no footprint beyond a Civil War soldier; a Mr. Rhodes of Delafield, Wisconsin, was an American Legion post commander in 1989 |
 | Sergeant Terrence Miles | A Senior Chief Petty Officer Terrence Miles appears on active duty in the *Guantanamo Bay Gazette* of 21 April 1993, which conflicts with "retired" unless he re-enlisted |
@@ -467,13 +606,13 @@ He concludes that some, all or none of the names may be genuine. He says he is l
 
 ## Witnesses and Open Leads
 
-Torres and Uriarte did fieldwork around Coyame, including finding a piece of aircraft debris near the supposed crash site, about 60 miles from the nearest town. In 2012, at a festival in Presidio, Texas, schoolteacher Johnny Chambers told Torres that she and her son, then ten, saw a strange fireball, "a big explosion in the sky", on the Mexican side near Coyame and took it for a plane crashing in the mountains. Within a day, she said, residents saw military helicopters returning from Mexico, among them a large twin-rotor. The host notes they surfaced five years after the book and cannot be checked. A Facebook correspondent, "Melissa P.", wrote that her uncle "was ordered to go to the Mexico Roswell by the US military. He went, came back, and was never the same." Many others told Torres of fireballs and strange events around August 1974, without names or detail.
+Torres and Uriarte did fieldwork around Coyame, including finding a piece of aircraft debris near the supposed crash site, about 60 miles from the nearest town. In 2012, at a festival in Presidio, Texas, schoolteacher Johnny Chambers told Torres that she and her son, then ten, saw a strange fireball, "a big explosion in the sky", on the Mexican side near Coyame and took it for a plane crashing in the mountains. Within a day, she said, residents saw military helicopters returning from Mexico, among them a large twin-rotor. Gerb notes they surfaced five years after the book and cannot be checked. A Facebook correspondent, "Melissa P.", wrote that her uncle "was ordered to go to the Mexico Roswell by the US military. He went, came back, and was never the same." Many others told Torres of fireballs and strange events around August 1974, without names or detail.
 
-On 16 March 2024 [[Jesus Alberto]], a Mexican official responsible for UFO disclosure legislation and hearings and closely tied to the "Nazca mummies", posted a since-deleted tweet saying he had a video "from another world". In context it referred to Coyame. He answered the host's question about the case with a thumbs-up but did not respond to requests for the video, witnesses or documents. The host planned to tweet the finished video at him. Any footage, he says, would matter, whether an overflight, internal documents, or even a Mexican army convoy heading north from Coyame on the right dates.
+On 16 March 2024 [[Jesus Alberto]], a Mexican official responsible for UFO disclosure legislation and hearings and closely tied to the "Nazca mummies", posted a since-deleted tweet saying he had a video "from another world". In context it referred to Coyame. He answered Gerb's question about the case with a thumbs-up but did not respond to requests for the video, witnesses or documents. Gerb planned to tweet the finished video at him. Any footage, he says, would matter, whether an overflight, internal documents, or even a Mexican army convoy heading north from Coyame on the right dates.
 
-The primary document itself has also slipped away. Elaine Douglas, who received the report, died in 2014. Her website, which the host believes held a scan of the original, survives only in the web archive, with its Coyame links missing. Wood has no copy either, so the report cannot be put through the kind of forensic testing he applies to the MJ-12 documents.
+The primary document itself has also slipped away. Elaine Douglas, who received the report, died in 2014. Her website, which Gerb believes held a scan of the original, survives only in the web archive, with its Coyame links missing. Wood has no copy either, so the report cannot be put through the kind of forensic testing he applies to the MJ-12 documents.
 
-The host first came across the case through the [[UAP Caucus]]'s list of crash-retrieval events to put before Congress. He closes by trailing future videos on the Interplanetary Phenomenon Unit, the MJ-12 documents with Ryan S. Wood, and the [[Special Operations Manual (SOM 1-01)|Majestic 12 Special Operations Manual]], which Wood considers the most important of the MJ-12 documents apart from the crash retrievals.
+Gerb first came across the case through the [[UAP Caucus]]'s list of crash-retrieval events to put before Congress. He closes by trailing future videos on the Interplanetary Phenomenon Unit, the MJ-12 documents with Ryan S. Wood, and the [[Special Operations Manual (SOM 1-01)|Majestic 12 Special Operations Manual]], which Wood considers the most important of the MJ-12 documents apart from the crash retrievals.
 
 ## Key Figures
 
@@ -497,19 +636,19 @@ entries:
     note: "Received the anonymous 1993 mailing and passed the originals to Stringfield; her archive was lost after her death in 2014."
   - name: "Ryan S. Wood"
     role: "Author of Magic Eyes Only"
-    note: "Rates Coyame medium to high in authenticity and is helping the host look for the service records of Mercy 11's names."
+    note: "Rates Coyame medium to high in authenticity and is helping Gerb look for the service records of Mercy 11's names."
   - name: "Alfonso Salazar"
     role: "Mexican UFO researcher"
     note: "Found the 27 October 1974 El Heraldo de Chihuahua story on soldiers killed in a 'military transport' crash."
   - name: "Christopher Sharp"
     role: "Investigative journalist"
-    note: "His sources on the CIA Office of Global Access describe a retrieval pattern the host sees in the Denb Report."
+    note: "His sources on the CIA Office of Global Access describe a retrieval pattern Gerb sees in the Denb Report."
   - name: "Jesus Alberto"
     role: "Mexican official, UFO disclosure"
     note: "Tweeted in March 2024 that he has a video of the crash and has not released it."
   - name: "Jonathan Weygandt"
     role: "Former US Marine, Peru 1997 witness"
-    note: "His account of hazmat-suited men and a twin-rotor helicopter is the host's closest parallel to Coyame."
+    note: "His account of hazmat-suited men and a twin-rotor helicopter is Gerb's closest parallel to Coyame."
 ---
 ::
 
@@ -522,8 +661,8 @@ entries:
 - The team crossed into Mexico north of Candelaria and lifted the disc out under a Sea Stallion. It destroyed the Mexican vehicles, bodies and plane debris with high explosives, and handed the disc to a sealed truck convoy bound for Atlanta. Unconfirmed reports have it moved on to Wright-Patterson or an unnamed base.
 - The disc was 16 feet 5 inches across, just under 5 feet thick, silver and seamless, weighed about 1,500 pounds, and had a 12-inch hole and a 2-foot dent in its rim.
 - The report was posted to a bulletin board in 1992 by "JS" as file "UFO 3263", then mailed anonymously to researchers in 1993. Leonard Stringfield, who had heard of the case years earlier and was warned by the CIA in 1978 not to discuss Mexico, judged it authoritatively written.
-- The host weighs contamination from the disc, supported by precedents in the MJ-12 First Annual Report and an IPU summary report, against the possibility that the US team killed the Mexican soldiers, and leaves the question open.
-- A 2012 Wikipedia edit by "Mercy 11" named six retired American servicemen and four Mexican soldiers. The editor could not source them, and the page was deleted in 2014. The host's record searches neither confirm nor rule out the names.
+- Gerb weighs contamination from the disc, supported by precedents in the MJ-12 First Annual Report and an IPU summary report, against the possibility that the US team killed the Mexican soldiers, and leaves the question open.
+- A 2012 Wikipedia edit by "Mercy 11" named six retired American servicemen and four Mexican soldiers. The editor could not source them, and the page was deleted in 2014. Gerb's record searches neither confirm nor rule out the names.
 - Presidio residents reported a fireball over Mexico and military helicopters returning within a day. In March 2024 Mexican official Jesus Alberto claimed to have video of the crash but has not released it.
 
 ## Sources

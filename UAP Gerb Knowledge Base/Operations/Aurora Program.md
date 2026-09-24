@@ -9,7 +9,7 @@ The **Aurora Program** is an alleged black-budget US aerospace program, named af
 
 ## The budget line
 
-In *Alien Reproduction Vehicle - TR-3B and the Flying Triangles*, UAP Gerb points to DOD procurement documents listing an "Aurora" project that the Pentagon planned to fund at $80 million in fiscal year 1986 and $2.3 billion in fiscal year 1987. The host notes that this 25-fold increase was, at the time, double the cost of the B-2 Spirit bomber program, and treats it as a possible clue to the family of craft Fouché described.
+In *Alien Reproduction Vehicle - TR-3B and the Flying Triangles*, UAP Gerb points to DOD procurement documents listing an "Aurora" project that the Pentagon planned to fund at $80 million in fiscal year 1986 and $2.3 billion in fiscal year 1987. Gerb notes that this 25-fold increase was, at the time, double the cost of the B-2 Spirit bomber program, and treats it as a possible clue to the family of craft Fouché described.
 
 ## Craft attributed to the program
 

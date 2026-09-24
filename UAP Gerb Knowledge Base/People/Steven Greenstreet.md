@@ -9,7 +9,7 @@ Steven Greenstreet is an American journalist and documentary filmmaker who has w
 
 ## Role in UAP Programs
 
-UAP Gerb's *Special Access Required Vol.2* states that Greenstreet obtained and published a copy of the "Yankee Blue" document — the alleged Air Force hazing-ritual program document that [[Sean Kirkpatrick]] and a *Wall Street Journal* article used to dismiss UFO reverse-engineering claims — speculating, without certainty, that Greenstreet received the document "probably from Kirkpatrick." The presenter notes the released Yankee Blue document features security control markings the presenter characterizes as inaccurate, which he argues undermines the document's use as evidence against the broader UFO legacy program narrative.
+UAP Gerb's *Special Access Required Vol.2* states that Greenstreet obtained and published a copy of the "Yankee Blue" document — the alleged Air Force hazing-ritual program document that [[Sean Kirkpatrick]] and a *Wall Street Journal* article used to dismiss UFO reverse-engineering claims — speculating, without certainty, that Greenstreet received the document "probably from Kirkpatrick." Gerb notes the released Yankee Blue document features security control markings Gerb characterizes as inaccurate, which he argues undermines the document's use as evidence against the broader UFO legacy program narrative.
 
 ## Sources
 

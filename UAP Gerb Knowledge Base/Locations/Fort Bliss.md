@@ -1,5 +1,6 @@
 ---
 name: "Fort Bliss"
+coordinates: [31.8018, -106.4246]
 location_type: "base"
 tags:
   - location

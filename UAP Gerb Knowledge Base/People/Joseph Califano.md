@@ -9,7 +9,7 @@ tags:
 
 ## In UAP research
 
-UAP Gerb examines Califano in *The 1965 Kecksburg, Pennsylvania UFO Crash*. He was in Johnson's morning session at the Texas White House on 10 December 1965, the day after the [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg crash]], and in several more meetings that day. The host notes his Federal Radiation Council role and says he had dealt with aerial collisions that required the [[Atomic Energy Commission]], including a midair aircraft collision on 4–5 December 1965. He also highlights an off-record meeting on 13 December 1965, four days after Kecksburg, between Califano and Buford Ellington, director of the Office of Emergency Planning. [[Grant Cameron]] obtained the record from the LBJ Presidential Library, and the host asks why it was kept off the record.
+UAP Gerb examines Califano in *The 1965 Kecksburg, Pennsylvania UFO Crash*. He was in Johnson's morning session at the Texas White House on 10 December 1965, the day after the [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg crash]], and in several more meetings that day. Gerb notes his Federal Radiation Council role and says he had dealt with aerial collisions that required the [[Atomic Energy Commission]], including a midair aircraft collision on 4–5 December 1965. He also highlights an off-record meeting on 13 December 1965, four days after Kecksburg, between Califano and Buford Ellington, director of the Office of Emergency Planning. [[Grant Cameron]] obtained the record from the LBJ Presidential Library, and Gerb asks why it was kept off the record.
 
 ## Sources
 

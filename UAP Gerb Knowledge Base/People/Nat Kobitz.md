@@ -19,7 +19,7 @@ As a scientist, Kobitz would not call the material alien, only something he had 
 
 ## Significance
 
-UAP Gerb places Kobitz alongside Admiral [[Bobby Ray Inman]] and former Director of Naval Intelligence [[Sumar Shapiro|Sumner Shapiro]] as senior naval officials who have spoken of recovered craft. Because his briefing came through his role as the Navy's senior R&D official, the host treats it as evidence that the Navy was read into a UFO crash-retrieval and reverse-engineering program, even though the material Kobitz saw was held at an Air Force installation.
+UAP Gerb places Kobitz alongside Admiral [[Bobby Ray Inman]] and former Director of Naval Intelligence [[Sumar Shapiro|Sumner Shapiro]] as senior naval officials who have spoken of recovered craft. Because his briefing came through his role as the Navy's senior R&D official, Gerb treats it as evidence that the Navy was read into a UFO crash-retrieval and reverse-engineering program, even though the material Kobitz saw was held at an Air Force installation.
 
 ## Sources
 

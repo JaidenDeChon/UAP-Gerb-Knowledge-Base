@@ -1,5 +1,6 @@
 ---
 name: "Coyame, Chihuahua, Mexico"
+coordinates: [29.4614, -105.0972]
 tags:
   - location
 ---

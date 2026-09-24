@@ -1,5 +1,6 @@
 ---
 name: "Valentine, Texas"
+coordinates: [30.5881, -104.4983]
 tags:
   - location
 ---

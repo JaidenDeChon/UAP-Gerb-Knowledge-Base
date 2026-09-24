@@ -2,8 +2,8 @@
 title: "The Origin of the UFO Stigma"
 video_id: xKArN8S9bnM
 url: https://www.youtube.com/watch?v=xKArN8S9bnM
-date: NA
-duration_seconds: 0
+date: 2024-02-10
+duration_seconds: 1478
 channel: UAP Gerb
 tags:
   - transcript

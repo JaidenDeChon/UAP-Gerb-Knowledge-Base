@@ -13,11 +13,11 @@ Following UFO VNI's removal of the original Metapod video, UFO Invasions provide
 
 ## Subsequent Removal
 
-Like the original UFO VNI upload, the UFO Invasions re-upload was also eventually taken down. The circumstances and reasons for this second removal are not publicly documented, though it may reflect the same privacy concerns or requests from the original witness [[Modesto]] that led to UFO VNI's initial removal.
+Like the original UFO VNI upload, the UFO Invasions re-upload was also eventually taken down. The circumstances and reasons for this second removal are not publicly documented, though it may reflect the same privacy concerns or requests from the original witness, Modesto, that led to UFO VNI's initial removal.
 
 ## Current Availability
 
-As of the time of UAP Gerp's analysis, the stabilized version of the Metapod footage used for detailed examination was provided by YouTube channel [[ITBS]], which applied video stabilization techniques to reduce camera shake and improve analytical clarity.
+At the time of Gerb's February 2024 analysis, the stabilized version of the Metapod footage used for detailed examination was provided by YouTube channel [[ITBS]], which applied video stabilization techniques to reduce camera shake and improve analytical clarity.
 
 ## Sources
 

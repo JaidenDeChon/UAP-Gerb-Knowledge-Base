@@ -11,7 +11,7 @@ White Sands Missile Range (WSMR) is the US Army's largest military installation,
 
 White Sands Missile Range is alleged to be a terminus node in an underground transportation network connecting classified military facilities across the American Southwest. An unnamed Army officer who served in the 2010s — cited by UAP Gerb — described traveling via underground high-speed train from a fort in Texas to White Sands, reporting that the speed and acceleration of the train were so extreme that it reminded him of his fear of flying. This testimony is presented as firsthand corroboration of an underground rail system connecting DUMB facilities.
 
-The range's proximity to [[Los Alamos National Laboratory]] (approximately 100 miles to the north), [[Sandia National Laboratories]]/[[Kirtland Air Force Base]], and its own long history as a testing site for advanced weapons technologies make it a natural candidate for DUMB-related activities in [[Bill Hamilton]]'s network map, which identifies multiple installations in southern New Mexico.
+The range's proximity to [[Los Alamos National Laboratory]] (approximately 100 miles to the north), [[Sandia National Laboratories]]/[[Kirtland Air Force Base, New Mexico|Kirtland Air Force Base]], and its own long history as a testing site for advanced weapons technologies make it a natural candidate for DUMB-related activities in [[Bill Hamilton]]'s network map, which identifies multiple installations in southern New Mexico.
 
 ## Operation Paperclip Roots
 

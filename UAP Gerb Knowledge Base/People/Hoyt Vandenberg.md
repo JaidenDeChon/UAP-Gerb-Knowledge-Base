@@ -1,6 +1,7 @@
 ---
 name: "Hoyt Vandenberg"
 role: "U.S. Air Force General; Chief of Staff of the Air Force"
+wikipedia: "Hoyt Vandenberg"
 tags:
   - person
 ---

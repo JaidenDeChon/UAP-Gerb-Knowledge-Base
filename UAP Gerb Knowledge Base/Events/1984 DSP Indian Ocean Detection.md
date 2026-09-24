@@ -5,59 +5,28 @@ tags:
   - event
 ---
 
-On May 5, 1984, a [[Defense Support Program (DSP)]] infrared satellite operating over the [[Indian Ocean]] reportedly detected a UAP exhibiting extraordinary flight characteristics that came within close proximity to the satellite itself before reversing course and returning to outer space. The incident was relayed to journalist [[Joe Staulia]] by an anonymous source with access to classified DSP detection records.
+The 1984 DSP Indian Ocean Detection is an alleged [[Fast Walkers|fast walker]] event of 5 May 1984, in which, according to an anonymous source, a classified [[Defense Support Program (DSP)]] early-warning satellite tracked an unidentified object that approached from space, passed close to the satellite over the Indian Ocean, and returned to outer space. The account was publicized by [[Joe Stefula]], a retired Army Criminal Investigation Command special agent, and is one of two cases UAP Gerb uses in [[FASTWALKERS – UFOs Outside Earth]] to connect DSP to fast walkers.
 
-## Reported Flight Characteristics
+## The account
 
-According to the source's account relayed by Staulia, the detected object exhibited the following characteristics:
+As Gerb relays it, the source told Stefula that the object:
 
-- **Velocity**: Traveling at 22,000 miles per hour
-- **Proximity**: Came within **1.8 miles** of the DSP satellite — an extremely close approach given the satellite's geostationary orbit approximately 22,000 miles above Earth
-- **Course change**: Made an abrupt directional change while near the satellite
-- **Trajectory**: After passing near the satellite, the object reversed course and **flew back into outer space**
+- came within 1.8 miles of the DSP satellite before flying below it over the Indian Ocean;
+- was moving at 22,000 miles per hour;
+- changed course and flew back into outer space.
 
-The return-to-space trajectory is particularly significant, as it rules out meteors, space debris, or any object following a ballistic entry path toward Earth. The object's behavior indicated powered, controlled flight.
+Two web pages on the case, both since taken down, describe the object as first spotted by the "ultra sensitive" orbiting DSP satellite, whose infrared sensors can spot small heat sources on Earth's surface; Gerb links this to the 1989 thesis's account of satellites detecting light or heat reflected off fast walkers.
 
-## Detection Infrastructure
+## The blog images
 
-DSP satellites use ultra-sensitive infrared sensors designed to detect ballistic missile launches by tracking heat signatures. These same sensors are capable of detecting small heat sources and reflected light from objects passing through their field of view — the basis for [[Fast Walkers]] detection.
+The blog *Deb's UFO Research* illustrated the event in three images: the DSP-1 satellite, the fast walker heading left to right toward Earth, and the object reversing back into open space. It also carries a trajectory diagram credited to Stefula, whose caption says the object sped toward Earth, passed in front of and within 15 miles of the satellite, then curved away from Earth without impact or contact and was tracked for another nine minutes until it disappeared. (The two distances, 1.8 and 15 miles, come from different tellings.) The same site publishes what may be a recreation, or an image, of a top-secret incident report summary; Gerb could not decode its terms, such as a "UCF" listing and "ST in the field of view", and asked viewers for help.
 
-The 1984 incident demonstrated DSP's capability to track objects at extreme velocities in close proximity to the satellites themselves, not just objects entering Earth's atmosphere at distant ranges.
+Stefula said he had confirmed that the DSP printout for that date "shows an event at the same time with the same characteristics." Gerb's position is that the case remains speculative until a full DSP report can be analysed.
 
-## Documentation and Verification Efforts
+## Comparison with Bob Fish's account
 
-Multiple sources have referenced this incident:
-
-### Joe Staulia's Reporting
-
-Staulia stated he was able to confirm portions of the incident through DSP printout data showing "an event at the same time with the same characteristics." However, the full classified incident report summary has never been publicly disclosed.
-
-### Bob Fish Corroboration
-
-[[Bob Fish]]'s later testimony about DSP personnel detecting a [[Fast Walkers|Fast Walker]] that made a 30-degree course correction — relayed in his 2015 email to [[John Podesta]] — describes flight characteristics strikingly similar to the 1984 incident. Both cases involve:
-- Objects entering from deep space
-- Extreme velocities
-- Course corrections indicating controlled flight
-- Detection by DSP infrared sensors
-
-### Historical Blog Documentation
-
-An ancient blog, "Deb's UFO Research," published depictions and trajectory images of the 1984 event, showing three phases:
-1. The DSP satellite in geostationary orbit
-2. The Fast Walker approaching from left to right toward Earth
-3. The Fast Walker reversing course and retreating back to open space
-
-The site also published what may be a recreation or leaked image of portions of a top secret incident report summary, though the document's authenticity and terminology (including "UCF listing" and "St in the field of view") remain unclear.
-
-## Significance
-
-The 1984 DSP Indian Ocean detection represents one of the earliest documented specific [[Fast Walkers|Fast Walker]] events, predating [[Bob Fish]]'s similar account by several years. The consistency between these independent reports — particularly the course correction behavior — strengthens the overall evidence that US space-based sensors have been tracking controlled objects entering and leaving Earth's atmosphere since DSP became operational in the early 1970s.
-
-The close approach to the satellite itself (1.8 miles) is particularly notable, as it suggests either:
-1. The object was unaware of or unconcerned with the satellite's presence
-2. The object deliberately approached the satellite for unknown purposes
-3. The proximity was coincidental but demonstrates DSP's detection sensitivity at close range
+Gerb points out how closely the case resembles the fast walker [[Bob Fish]] described in his [[Bob Fish Email to John Podesta|2015 email to John Podesta]]: an object from deep space that passed close to a DSP satellite and changed course, which Fish took as a sign it was under control.
 
 ## Sources
 
-- [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]
+- [[FASTWALKERS – UFOs Outside Earth]]

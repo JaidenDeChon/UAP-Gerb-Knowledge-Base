@@ -1,5 +1,6 @@
 ---
 name: "China Lake Naval Air Weapons Station"
+coordinates: [35.6856, -117.6919]
 location_type: "base"
 tags:
   - location

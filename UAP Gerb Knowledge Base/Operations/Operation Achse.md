@@ -14,7 +14,7 @@ The operation fundamentally altered control of intelligence sites, industrial as
 
 ## Relevance to UAP Retrieval Narratives
 
-In [[Videos/The 1933 Magenta, Italy UFO Crash/summary|The 1933 Magenta, Italy UFO Crash]], the host refers to this period (rendered in the video as "Operation Ox") as a turning point that may have affected custody of material allegedly linked to the Magenta incident.
+In [[Videos/The 1933 Magenta, Italy UFO Crash/summary|The 1933 Magenta, Italy UFO Crash]], Gerb refers to this period (rendered in the video as "Operation Ox") as a turning point that may have affected custody of material allegedly linked to the Magenta incident.
 
 Within that narrative, German seizure of facilities is presented as a possible reason for subsequent relocation and eventual U.S. recovery via [[Office of Strategic Services (OSS)]].
 

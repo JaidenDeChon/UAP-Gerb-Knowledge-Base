@@ -20,7 +20,7 @@ The shipping container detail parallels [[Michael Herrera]]'s 2009 Indonesia enc
 
 - **Author**: An anonymous insider claiming 30+ years in classified UAP programs
 - **Ghost Writer**: The book is being written through a professional ghost writer
-- **DOPSR Review**: The manuscript has been submitted to the [[Defense Office of Pre-publication and Security Review]] (DOPSR) for pre-publication clearance
+- **DOPSR Review**: The manuscript has been submitted to the [[DOPSR (Defense Office of Prepublication and Security Review)|Defense Office of Prepublication and Security Review]] (DOPSR) for pre-publication clearance
 - **Manuscript Status**: The Insider provided Michael Herrera with a two-chapter excerpt currently under DOPSR review
 
 ## Strategic Purpose: "4D Chess on DOPSR"

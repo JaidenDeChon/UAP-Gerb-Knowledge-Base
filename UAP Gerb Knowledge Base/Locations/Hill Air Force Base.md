@@ -1,5 +1,6 @@
 ---
 name: "Hill Air Force Base"
+coordinates: [41.1239, -111.9728]
 location_type: "military installation"
 tags:
   - location

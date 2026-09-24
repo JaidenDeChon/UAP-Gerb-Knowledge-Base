@@ -14,7 +14,7 @@ Malmstrom hosts multiple missile squadrons responsible for underground launch co
 
 On the night of March 24, 1967, Lieutenant Robert Salas, serving as on-duty launch commander at an underground facility assigned to Malmstrom, received reports from his flight security controller of a craft performing anomalous maneuvers. The craft — a glowing red oval approximately 30–40 feet in diameter — was subsequently reported hovering directly over the base's front gate. During this period, all 10 Minuteman missiles under Salas's control showed simultaneous red fault status, indicating guidance and control system failure.
 
-The event was classified Secret by Air Force security intelligence. Four personnel later submitted sworn affidavits attesting to the event: Salas, First Lieutenant Robert C. Jameson, Airman First Class Patrick McDonah, and Dwin C. Arneson. No Air Force investigation produced a conventional explanation for the simultaneous missile failures.
+The event was classified Secret by Air Force security intelligence. Four personnel later submitted sworn affidavits attesting to the event: Salas, missile targeting officer Robert Jamison, Airman First Class Patrick McDonough, and communications officer Dwynne Arneson. No Air Force investigation produced a conventional explanation for the simultaneous missile failures.
 
 ## Significance
 

@@ -1,5 +1,6 @@
 ---
 name: "Magenta, Italy"
+coordinates: [45.4667, 8.8833]
 tags:
   - location
 ---

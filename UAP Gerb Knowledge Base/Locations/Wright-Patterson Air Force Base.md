@@ -1,5 +1,6 @@
 ---
 name: "Wright-Patterson Air Force Base"
+coordinates: [39.8231, -84.0494]
 location_type: "military_base"
 tags:
   - location
@@ -11,22 +12,33 @@ Wright-Patterson also serves as headquarters for the [[National Air and Space In
 
 ## Air Force Materiel Command Headquarters
 
-Air Force Materiel Command was formed in July 1992 from the merger of Air Force Logistics Command (AFLC) and Air Force Systems Command (AFSC), and is headquartered at Wright-Patterson. UAP Gerb's "80 Years of UFO Crash Retrieval and Reverse Engineering" timeline video describes AFMC as the Air Force's largest major command by funding — commanding an $82.9 billion budget portfolio in fiscal year 2025 — and argues that every organizational precursor building the modern-day AFMC lineage (Air Materiel Command, Air Research and Development Command, and Air Force Systems Command) was heavily involved in alleged UFO-related activities, with AFMC's Air Force Research Laboratory (AFRL, headquartered at Wright-Patterson) and Air Force Life Cycle Management Center (AFLCMC, also at Wright-Patterson) identified as critical modern legacy program components alongside its Air Force Test Center (AFTC), headquartered at [[Edwards Air Force Base]]. The presenter identifies Edwards and Wright-Patterson as the Air Force's "two most critical legacy program locations."
+Air Force Materiel Command was formed in July 1992 from the merger of Air Force Logistics Command (AFLC) and Air Force Systems Command (AFSC), and is headquartered at Wright-Patterson. UAP Gerb's "80 Years of UFO Crash Retrieval and Reverse Engineering" timeline video describes AFMC as the Air Force's largest major command by funding — commanding an $82.9 billion budget portfolio in fiscal year 2025 — and argues that every organizational precursor building the modern-day AFMC lineage (Air Materiel Command, Air Research and Development Command, and Air Force Systems Command) was heavily involved in alleged UFO-related activities, with AFMC's Air Force Research Laboratory (AFRL, headquartered at Wright-Patterson) and Air Force Life Cycle Management Center (AFLCMC, also at Wright-Patterson) identified as critical modern legacy program components alongside its Air Force Test Center (AFTC), headquartered at [[Edwards Air Force Base]]. Gerb identifies Edwards and Wright-Patterson as the Air Force's "two most critical legacy program locations."
 
 ## Historical UAP Connection
 
 Wright-Patterson has deep historical ties to official US government UFO investigation programs. The base was home to the Air Research and Development Command and Air Materiel Command during the early years of UFO investigation, and has been repeatedly named in testimony and documents as a key site for UAP legacy program operations.
 
-The base is alleged in multiple sources to house recovered non-human biologics and recovered technical vehicles from UFO crashes. The most famous alleged storage location is the "[[Wright Patterson Blue Room|Blue Room]]" — a secure facility rumored to contain recovered UFO materials. In 1981, Senator [[Barry Goldwater]] wrote to UFO researcher [[Lee Graham]] detailing his attempts to access the Blue Room. Goldwater stated he had asked Wright-Patterson officials directly to see "the room where it was stored" and was "laughed off" and told "never to ask again" — a remarkable denial given his rank as Major General and chairmanship of the Senate Intelligence Committee.
+The base is alleged in multiple sources to house recovered non-human biologics and recovered technical vehicles from UFO crashes. The most famous alleged storage location is the "[[Blue Room|Blue Room]]" — a secure facility rumored to contain recovered UFO materials. In 1981, Senator [[Barry Goldwater]] wrote to UFO researcher [[Lee Graham]] detailing his attempts to access the Blue Room. Goldwater stated he had asked Wright-Patterson officials directly to see "the room where it was stored" and was "laughed off" and told "never to ask again" — a remarkable denial given his rank as Major General and chairmanship of the Senate Intelligence Committee.
 
 ## Connection to Project Moondust
 
-Wright-Patterson served as a primary recipient of materials collected under [[Project Moondust]], the classified Air Force program that investigated and retrieved UFOs and foreign space vehicles from at least 1961 through the mid-1990s. Multiple Moon Dust cables and memos were addressed to the Foreign Technology Division at Wright-Patterson, including:
+Wright-Patterson served as a primary recipient of materials collected under [[Project Moon Dust]], the classified Air Force program that investigated and retrieved UFOs and foreign space vehicles from at least 1961 through the mid-1990s. Multiple Moon Dust cables and memos were addressed to the Foreign Technology Division at Wright-Patterson, including:
 
 - **1968 Nepal Circular Disc**: Moon Dust cable sent to DIA, the [[USAF 1127th Field Activities Group|1127th USAF Field Activities Group]], and Wright-Patterson regarding a crashed circular metal disc in Nepal
 - **1976 Canada Metal Fragments**: Moon Dust requested photos of metal fragments "of particular interest" to the USAF Foreign Technology Division at Wright-Patterson and the [[CIA Office of Weapons Intelligence]]
 
 The persistent routing of Moon Dust materials to Wright-Patterson reinforces the base's role as a central collection and analysis hub for anomalous aerospace objects.
+
+## Gerb's "tease" of Wright-Patterson connections
+
+In "The Alien and UFO Obscure Oddities Iceberg (Level 2)", Gerb gives a quick sample of the base's ties to UFO crash retrieval and reverse engineering, saying he holds "5 to 10 more" for a future video:
+
+- **5 July 1947**: debris and bodies from the [[Roswell Crash]] are said to have been shipped out of Hangar 84 at Roswell to Wright-Patterson.
+- **1949–1955**: Wright-Patterson and the [[Battelle Memorial Institute]] reportedly performed special metallurgical analysis on anomalous materials.
+- **24 January 1956**: the base monitored a reported flying-saucer landing in a province of Afghanistan, and the USAF attempted aerial reconnaissance to learn whether authorities were hauling a recovered craft to Kabul.
+- **28 December 1973** (Gerb's date): Senator [[Barry Goldwater]] was denied access to UAP information after asking about the "room" where it was stored, and was told by General [[Curtis LeMay]], "Don't ever ask me that question again."
+- **1993**: [[Ben Rich]] of [[Lockheed Martin Skunk Works]] is said to have told a presentation at the base that "we already have the means to travel among the stars", locked up in black projects.
+- **2023–2024**: Representative [[Mike Turner]], whose district contains the base, led opposition to the [[Schumer Amendment (NDAA)|Schumer amendment]] to the fiscal year 2024 NDAA.
 
 ## Office of Special Studies
 
@@ -54,7 +66,7 @@ Myron's cousin "JS" corroborated the brick delivery and confirmed seeing the obj
 
 [[Leonard Stringfield]], who extensively interviewed Myron on videotape with the assistance of medical researcher Dr. [[Brian Thompson]], stated: **"I feel convinced of Myron's sincerity."** Stringfield and Pennsylvania researcher [[Stan Gordon]] worked together investigating the Kecksburg case for over a decade.
 
-The Kecksburg object was allegedly first transported to [[Lockbourne Air Force Base]] (now Rickenbacker Air National Guard Base) before being moved to Wright-Patterson for examination and storage. Wright-Patterson has repeatedly been named as the final destination for high-priority UAP retrieval cases due to its Foreign Technology Division and alleged secure storage facilities such as the [[Wright Patterson Blue Room|Blue Room]].
+The Kecksburg object was allegedly first transported to [[Lockbourne Air Force Base]] (now Rickenbacker Air National Guard Base) before being moved to Wright-Patterson for examination and storage. Wright-Patterson has repeatedly been named as the final destination for high-priority UAP retrieval cases due to its Foreign Technology Division and alleged secure storage facilities such as the [[Blue Room|Blue Room]].
 
 **NAMRU D Installation**: The base houses a NAMRU D (Naval Medical Research Unit) installation historically associated with UAP biological research.
 
@@ -67,3 +79,4 @@ Wright-Patterson continues to serve as a major center for Air Force research and
 - [[Videos/MOON DUST - The Pentagon's Secret UFO Programs/summary|MOON DUST - The Pentagon's Secret UFO Programs]]
 - [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]
 - [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
+- [[Videos/The Alien and UFO Obscure Oddities Iceberg (Level 2)/summary|The Alien and UFO Obscure Oddities Iceberg (Level 2)]]

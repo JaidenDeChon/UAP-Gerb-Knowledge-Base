@@ -1,5 +1,6 @@
 ---
 name: "Guerrero, Mexico"
+coordinates: [28.3084, -100.3787]
 tags:
   - location
 ---

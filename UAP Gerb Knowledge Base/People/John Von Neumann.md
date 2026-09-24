@@ -1,6 +1,7 @@
 ---
 name: "John Von Neumann"
 role: "Hungarian-American mathematician, physicist, computer scientist, and polymath; alleged participant in UFO crash retrieval analysis"
+wikipedia: "John von Neumann"
 tags:
   - person
 ---

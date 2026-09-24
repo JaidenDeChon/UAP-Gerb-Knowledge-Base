@@ -13,7 +13,7 @@ AFLCMC's Information Protection Directorate (AFLCMC/IP) is the center's program-
 
 ## Alleged UAP Involvement
 
-UAP Gerb's *Special Access Required Vol.2* names AFLCMC/IP as one of four "program protection" offices — alongside [[DARPA Security and Intelligence Directorate (SID)]], [[Air Force Office of Special Investigations|AFOSI]]/PJ, and [[Office of Intelligence and Counterintelligence|DOE OICI]] — that the presenter alleges are deputized to enforce insider- and outsider-threat protection connected to alleged UFO legacy program activity within Air Force acquisition. The video connects AFLCMC's mission and Lieutenant General Shipton's prior SAF/AQ role, cited in UAP Gerb's earlier *Hidden Wing* investigation, to what the presenter argues is a chain of senior Air Force acquisition officials theoretically positioned to hold knowledge of or access to non-human technology exploitation programs.
+UAP Gerb's *Special Access Required Vol.2* names AFLCMC/IP as one of four "program protection" offices — alongside [[DARPA Security and Intelligence Directorate (SID)]], [[Air Force Office of Special Investigations|AFOSI]]/PJ, and [[Office of Intelligence and Counterintelligence|DOE OICI]] — that Gerb alleges are deputized to enforce insider- and outsider-threat protection connected to alleged UFO legacy program activity within Air Force acquisition. The video connects AFLCMC's mission and Lieutenant General Shipton's prior SAF/AQ role, cited in UAP Gerb's earlier *Hidden Wing* investigation, to what Gerb argues is a chain of senior Air Force acquisition officials theoretically positioned to hold knowledge of or access to non-human technology exploitation programs.
 
 ## Sources
 

@@ -10,7 +10,7 @@ Nuclear ICBM shutdown refers to reported incidents in which unidentified aerial 
 
 Lieutenant [[Robert Salas]], on-duty commander of the launch control facility, received reports of an unusual craft exhibiting non-aircraft flight characteristics — high velocity, abrupt directional change, no engine noise. Within minutes, a glowing red oval object approximately 30–40 feet in diameter was reported hovering directly over the base's front gate with armed security personnel outside. Simultaneously, all 10 Minuteman missile indicators showed red fault status — guidance and control failure — without any conventional explanation. The craft then departed. The missiles remained inoperable for the remainder of the night but showed no permanent damage.
 
-The incident was classified Secret by the Air Force Office of Security and Intelligence. Four personnel eventually submitted sworn affidavits confirming the event: Salas, First Lieutenant Robert C. Jameson, Airman First Class Patrick McDonah, and communications officer Dwin C. Arneson.
+The incident was classified Secret by the Air Force Office of Security and Intelligence. Four personnel eventually submitted sworn affidavits confirming the event: Salas, missile targeting officer Robert Jamison, Airman First Class Patrick McDonough, and communications officer Dwynne Arneson.
 
 ## Significance
 

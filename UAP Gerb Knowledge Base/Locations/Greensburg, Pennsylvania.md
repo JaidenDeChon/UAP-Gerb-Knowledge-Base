@@ -1,5 +1,6 @@
 ---
 name: "Greensburg, Pennsylvania"
+coordinates: [40.2978, -79.5422]
 tags:
   - location
 ---

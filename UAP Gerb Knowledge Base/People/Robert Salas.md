@@ -23,9 +23,9 @@ The following morning, squadron commander Colonel George Eldridge briefed Salas 
 
 Salas later submitted a 2010 sworn affidavit placing the incident on formal record. Three other Malmstrom personnel submitted independent sworn affidavits corroborating the events of that night:
 
-- USAF First Lieutenant Robert C. Jameson
-- USAF Airman First Class Patrick McDonah, an FSC communications officer
-- Dwin C. Arneson, officer in charge of communications
+- Robert Jamison, then a first lieutenant and Minuteman missile targeting officer
+- Patrick McDonough, then an airman first class
+- Dwynne Arneson, then the officer in charge of the base communications centre
 
 The existence of four independent sworn statements from the same incident makes the Malmstrom case one of the most formally documented instances of [[UFO Interference with Nuclear Weapons]] in the unclassified record.
 

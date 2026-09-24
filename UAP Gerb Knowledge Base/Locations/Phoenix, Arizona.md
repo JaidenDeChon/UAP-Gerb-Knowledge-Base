@@ -1,5 +1,6 @@
 ---
 name: "Phoenix, Arizona"
+coordinates: [33.4483, -112.0739]
 location_type: "city"
 tags:
   - location
@@ -25,7 +26,7 @@ The theory that Newton was instructed by elements of the military to spread the 
 
 ## Historical Context
 
-Separately from the Aztec case, Arizona more broadly — and the region's proximity to [[Kingman, Arizona]], site of an alleged May 1953 UAP crash — made the state a recurring locus in early UAP retrieval history. The concentration of military and classified aerospace facilities in the American Southwest, including [[Kirtland Air Force Base]] and [[Roswell Army Airfield|Walker Air Force Base]], placed Phoenix within a regional cluster that UAP Gerb identifies as significant to understanding how early retrieval operations were coordinated and compartmented in the 1947–1955 period.
+Separately from the Aztec case, Arizona more broadly — and the region's proximity to [[Kingman, Arizona]], site of an alleged May 1953 UAP crash — made the state a recurring locus in early UAP retrieval history. The concentration of military and classified aerospace facilities in the American Southwest, including [[Kirtland Air Force Base, New Mexico|Kirtland Air Force Base]] and [[Roswell Army Airfield|Walker Air Force Base]], placed Phoenix within a regional cluster that UAP Gerb identifies as significant to understanding how early retrieval operations were coordinated and compartmented in the 1947–1955 period.
 
 ## Sources
 

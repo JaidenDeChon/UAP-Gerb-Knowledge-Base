@@ -1,6 +1,7 @@
 ---
 name: "Hans Kammler"
 role: "SS general and engineer; head of Nazi construction and secret weapons programs"
+wikipedia: "Hans Kammler"
 tags:
   - person
 ---

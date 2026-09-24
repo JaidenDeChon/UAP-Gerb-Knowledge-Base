@@ -1,6 +1,7 @@
 ---
 name: "Leslie Groves"
 role: "U.S. Army Lieutenant General; Director of the Manhattan Project"
+wikipedia: "Leslie Groves"
 tags:
   - person
 ---

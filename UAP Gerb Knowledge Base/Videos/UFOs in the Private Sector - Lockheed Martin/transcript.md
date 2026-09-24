@@ -2,8 +2,8 @@
 title: "UFOs in the Private Sector - Lockheed Martin"
 video_id: tVdzvvbbHW4
 url: https://www.youtube.com/watch?v=tVdzvvbbHW4
-date: NA
-duration_seconds: 0
+date: 2024-02-23
+duration_seconds: 1871
 channel: UAP Gerb
 tags:
   - transcript

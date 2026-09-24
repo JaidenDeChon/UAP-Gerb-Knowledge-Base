@@ -8,10 +8,10 @@ Peter A. Reali is a UAP researcher and co-author of the 2019 peer-reviewed paper
 
 ## Academic Work
 
-Reali collaborated with Knuth and Powell to analyze three well-documented UAP cases using conservative physics calculations:
+Reali collaborated with Knuth and Powell to analyze a handful of well-documented UAP cases, among them using conservative physics calculations:
 
-- **[[1951 Lubbock Encounter]]** — Multi-witness radar-confirmed sighting
-- **[[1986 Japan Airlines UFO Incident]]** — Extended encounter with [[Federal Aviation Administration|FAA]] radar tracking
+- **1951 Bethune encounter** — A US Navy flight crew's sighting over the North Atlantic in February 1951
+- **[[1986 Japan Airlines UFO Incident]]** — Extended encounter with FAA radar tracking
 - **[[2004 Nimitz UAP Encounter (Tic Tac)]]** — Navy carrier group encounter with multiple sensor confirmation
 
 The team's analysis of the Nimitz Tic Tac calculated that when the craft descended from 28,000 feet to sea level in approximately 78 seconds, it experienced an estimated 5,400 Gs of acceleration. Using a deliberately conservative mass estimate of 1,000 kg (one-tenth that of a similarly-sized F-18), they calculated the acceleration required approximately 1,100 gigawatts of power.

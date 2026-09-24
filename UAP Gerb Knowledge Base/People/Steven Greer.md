@@ -1,6 +1,7 @@
 ---
 name: "Steven Greer"
 role: "UFO researcher; disclosure advocate; founder of the Disclosure Project and CSETI"
+wikipedia: "Steven M. Greer"
 tags:
   - person
 ---

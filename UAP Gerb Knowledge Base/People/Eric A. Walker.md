@@ -1,6 +1,7 @@
 ---
 name: "Eric A. Walker"
 role: "Presidential science advisor and alleged MJ-12 member"
+wikipedia: "Eric A. Walker (engineer)"
 tags:
   - person
 ---
@@ -88,11 +89,11 @@ Walker was president of Pennsylvania State University at the time of the Decembe
 
 He also went with a colleague. Asked whether a UFO was recovered, he replied, "I cannot comment on that. I cannot tell you." He would not say how long he stayed, but said he and the other men prepared no reports. [[Stan Gordon]] had a report of someone fitting Walker's description at the crash site.
 
-In *The 1965 Kecksburg, Pennsylvania UFO Crash*, UAP Gerb reasons that two off-duty military men cannot have been the three-man [[Project Blue Book]] team sent from the 662nd Radar Squadron. The host asks whether Walker's party were the men in civilian clothes witnesses saw giving orders, or even the trench-coated men who ordered the volunteer firemen away from the object. He also asks whether Walker and his Penn State colleague went on behalf of a program based at the [[Applied Research Laboratory]]. A witness called "TB" told [[Steven Greer]] that such programs are embedded within University Affiliated Research Centers.
+In *The 1965 Kecksburg, Pennsylvania UFO Crash*, UAP Gerb reasons that two off-duty military men cannot have been the three-man [[Project Blue Book]] team sent from the 662nd Radar Squadron. Gerb asks whether Walker's party were the men in civilian clothes witnesses saw giving orders, or even the trench-coated men who ordered the volunteer firemen away from the object. He also asks whether Walker and his Penn State colleague went on behalf of a program based at the [[Applied Research Laboratory]]. A witness called "TB" told [[Steven Greer]] that such programs are embedded within University Affiliated Research Centers.
 
 ## Relationship with Lyndon B. Johnson
 
-The same video traces Walker's closeness to President [[Lyndon B. Johnson]]. Walker attended a White House luncheon with Johnson and other university presidents on 3 August 1964, and was the only university president invited to the 1967 Clean Air Act signing. On 10 September 1964 Johnson wrote to thank him for his service on the Board of Visitors to the US Military Academy, and on 24 September 1964 he asked Walker to recommend a student to be honoured as a young leader. On 18 May 1966, five months after Kecksburg, Johnson thanked Walker for his service on the National Science Board and, cryptically, "for the unstinting manner in which you served your government in other areas", including the Defense Science Board. The host connects this relationship to Johnson's day of meetings with the Joint Chiefs and senior science officials on 10 December 1965, the day after the crash.
+The same video traces Walker's closeness to President [[Lyndon B. Johnson]]. Walker attended a White House luncheon with Johnson and other university presidents on 3 August 1964, and was the only university president invited to the 1967 Clean Air Act signing. On 10 September 1964 Johnson wrote to thank him for his service on the Board of Visitors to the US Military Academy, and on 24 September 1964 he asked Walker to recommend a student to be honoured as a young leader. On 18 May 1966, five months after Kecksburg, Johnson thanked Walker for his service on the National Science Board and, cryptically, "for the unstinting manner in which you served your government in other areas", including the Defense Science Board. Gerb connects this relationship to Johnson's day of meetings with the Joint Chiefs and senior science officials on 10 December 1965, the day after the crash.
 
 ## Assessment
 

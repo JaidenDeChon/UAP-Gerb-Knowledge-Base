@@ -1,5 +1,6 @@
 ---
 name: "El Indio, Texas"
+coordinates: [28.515, -100.3117]
 tags:
   - location
 ---

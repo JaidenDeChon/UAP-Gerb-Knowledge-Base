@@ -1,6 +1,7 @@
 ---
 name: "Donna D. Shipton"
 role: "Lieutenant General; Commander, Air Force Life Cycle Management Center (2024–present); former Military Deputy, SAF/AQ"
+wikipedia: "Donna D. Shipton"
 tags:
   - person
 ---

@@ -11,7 +11,7 @@ tags:
 
 The RS-33 was headed by Mussolini himself in his capacity as Prime Minister (Il Duce), with Foreign Minister [[Galeazzo Ciano]] and Air Marshal [[Italo Balbo]] providing political and military oversight. Scientific support was provided by astronomer [[Gino Cecchini]] and possibly Nobel Prize-winning radio pioneer [[Guglielmo Marconi]], who reportedly believed the craft to be extraterrestrial in origin, contrary to Mussolini's initial assessment that it was an advanced terrestrial vehicle from France, Britain, or Germany.
 
-According to original documents provided to researcher [[Roberto Pinotti]], additional operational personnel included Tomaso David (possibly referenced by the pseudonym "Desanti"), a colonel of the Frontespizio and founder of the Vulpi intelligence spy group, who later headed the Salò Secret Service.
+According to original documents provided to researcher [[Roberto Pinotti]], the protocol memorandum was addressed to a "De Santis" (rendered "Desanti" in translation), whom Italian historian Arrigo Petacco identified as [[Tommaso David]], an officer from the province of Frosinone who founded the "Volpi Argentate" (Silver Foxes) espionage group and later headed the counter-intelligence service of the Salò republic.
 
 ## Operating Protocols
 

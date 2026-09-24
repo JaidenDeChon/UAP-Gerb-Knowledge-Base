@@ -1,5 +1,6 @@
 ---
 name: "Area 51"
+coordinates: [37.2333, -115.8083]
 location_type: "facility"
 tags:
   - location

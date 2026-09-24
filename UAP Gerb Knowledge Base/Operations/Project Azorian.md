@@ -9,9 +9,9 @@ Project Azorian (also called Project Jennifer) was the CIA's covert operation to
 
 ## The Glomar Explorer
 
-UAP Gerb puts the ship's cost at about $1.68 billion in modern terms. The host treats it as an asset of the [[National Underwater Reconnaissance Office]] (NURO), the joint CIA–Navy office formed in 1969 partly in response to the K-129 sinking, and run jointly by the [[CIA Directorate of Science and Technology]] and the Navy. Admiral [[Bobby Ray Inman]], who later became NURO's director, said that before his time NURO "had been engaged in the efforts to pick up a submarine off the ocean floor with the Glomar Explorer". He said he was first exposed to the program in Hawaii, as assistant chief of staff for intelligence.
+UAP Gerb puts the ship's cost at about $1.68 billion in modern terms. Gerb treats it as an asset of the [[National Underwater Reconnaissance Office]] (NURO), the joint CIA–Navy office formed in 1969 partly in response to the K-129 sinking, and run jointly by the [[CIA Directorate of Science and Technology]] and the Navy. Admiral [[Bobby Ray Inman]], who later became NURO's director, said that before his time NURO "had been engaged in the efforts to pick up a submarine off the ocean floor with the Glomar Explorer". He said he was first exposed to the program in Hawaii, as assistant chief of staff for intelligence.
 
-From 1978, Ocean Minerals Company, whose prime contractor was Lockheed Missiles and Space Company (now [[Lockheed Martin]]), leased the ship for ostensible deep-sea mining. Citing a Medium article on the Glomar's links to General Motors, Lockheed Martin and UAP, the host notes that Lockheed used the ship for nearly two decades. He suggests the mining work may have covered continued NURO operations.
+From 1978, Ocean Minerals Company, whose prime contractor was Lockheed Missiles and Space Company (now [[Lockheed Martin]]), leased the ship for ostensible deep-sea mining. Citing a Medium article on the Glomar's links to General Motors, Lockheed Martin and UAP, Gerb notes that Lockheed used the ship for nearly two decades. He suggests the mining work may have covered continued NURO operations.
 
 ## Alleged 1973 UFO recovery
 

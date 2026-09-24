@@ -14,7 +14,7 @@ The connection between SDI and ARV development is corroborated by [[Brad Sorenso
 
 Stealth aircraft researcher John Joseph additionally claims [[Boeing]] served as the primary contractor in Project Brilliant, an SDI program with the goal of establishing an electromagnetic shield around the United States using a boomerang-shaped craft capable of loitering over cities.
 
-UAP Gerb's "80 Years of UFO Crash Retrieval and Reverse Engineering" timeline video dates SDI's beginning to March 1983 and reiterates the belief that SDI funds were back-channeled to legacy programs, while also theorizing that space-based systems were conceived with a secondary, undisclosed function to target and down UFOs. The presenter further speculates that the original idea of using space-based weapons against UFOs was conceptualized as far back as the Eisenhower administration, decades before SDI's public 1983 unveiling.
+UAP Gerb's "80 Years of UFO Crash Retrieval and Reverse Engineering" timeline video dates SDI's beginning to March 1983 and reiterates the belief that SDI funds were back-channeled to legacy programs, while also theorizing that space-based systems were conceived with a secondary, undisclosed function to target and down UFOs. Gerb further speculates that the original idea of using space-based weapons against UFOs was conceptualized as far back as the Eisenhower administration, decades before SDI's public 1983 unveiling.
 
 ## Sources
 

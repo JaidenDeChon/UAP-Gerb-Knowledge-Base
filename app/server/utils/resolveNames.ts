@@ -1,4 +1,4 @@
-import type { GraphNode, NoteRef } from '../../shared/types/wiki'
+import type { BakedGeo, BakedPortraits, GraphNode, NoteRef } from '../../shared/types/wiki'
 import { resolveName } from '../../wiki/resolve'
 
 /**
@@ -25,14 +25,29 @@ export function normalizeNameParam(name: string | string[] | undefined): string[
  * positionally against the request list, so any length mismatch would
  * silently shift every link after the divergence — exactly the failure mode
  * a comma-joined query string used to cause. Pure, like `normalizeNameParam`.
+ *
+ * `geo` (the baked `[lat, lon]` of every note that has coordinates) adds a
+ * `coordinates` field to those refs, for `::wiki-map`; `portraits` (the baked
+ * portrait of every People note that has one) adds an `image` field, for
+ * person cards.
  */
 export function resolveNames(
   requested: string[],
   index: Map<string, GraphNode>,
+  geo: BakedGeo = {},
+  portraits: BakedPortraits = {},
 ): (NoteRef | null)[] {
-  const result = requested.map((name) => {
+  const result = requested.map((name): NoteRef | null => {
     const node = resolveName(name, index)
-    return node ? { path: node.p, title: node.l, category: node.c } : null
+    if (!node) return null
+    const ref: NoteRef = { path: node.p, title: node.l, category: node.c }
+    // Each optional field is added only when the note has one, so every
+    // other ref keeps exactly the shape it always had.
+    const coordinates = geo[node.i]
+    if (coordinates) ref.coordinates = [coordinates[0], coordinates[1]]
+    const image = portraits[node.i]
+    if (image) ref.image = image
+    return ref
   })
 
   if (result.length !== requested.length) {

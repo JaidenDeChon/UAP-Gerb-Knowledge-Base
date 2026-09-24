@@ -1,6 +1,7 @@
 ---
 name: "Jesse Marcel"
 role: "US Army Air Forces intelligence officer; Roswell witness"
+wikipedia: "Jesse Marcel"
 tags:
   - person
 ---

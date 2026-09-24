@@ -45,11 +45,11 @@ The following day, Castle and his team were called to medical and given an anthr
 
 ## UAP Gerb's Analysis
 
-In the 2025 UAP Gerb investigation built around his testimony, Castle is treated as a witness rather than a whistleblower. What he saw is presented as a rare, precisely located look at a UFO legacy program operation on US soil. The host's main arguments are these:
+In the 2025 UAP Gerb investigation built around his testimony, Castle is treated as a witness rather than a whistleblower. What he saw is presented as a rare, precisely located look at a UFO legacy program operation on US soil. Gerb's main arguments are these:
 
 - **The craft** was a triangular [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicle]], most likely [[Edgar Fouche|Edgar Fouché]]'s [[TR-3B]]. Its size, rounded corners, concave centre, non-flush vertex lights and ridges between the lights all resemble Fouché's description. A less likely alternative is the [[XF-131 Super Sentinel]] associated with the [[Tejon Ranch]] and [[Helendale]] radar cross-section sites.
 - **The sponsor** was the Navy, with Air Force support, not the Marine Corps. The [[Naval Aviation Warfare Development Center (NAWDC)]] and [[Naval Air Station Lemoore (NAS Lemoore)|NAS Lemoore]] joined Hunter Warrior late as a "Hunter Air" adjunct, and the craft fled northwest toward the [[R2508 Complex]] and [[Edwards Air Force Base]].
-- **The ground team** was possibly a [[DOE Special Response Teams (SRTs)|Department of Energy Special Response Team]] trained and staffed by [[Wackenhut Services|Wackenhut]]. The host bases this on the MP5-type weapons, the lack of insignia and Wackenhut's attempt to recruit Castle in 2002.
+- **The ground team** was possibly a [[DOE Special Response Teams (SRTs)|Department of Energy Special Response Team]] trained and staffed by [[Wackenhut Services|Wackenhut]]. Gerb bases this on the MP5-type weapons, the lack of insignia and Wackenhut's attempt to recruit Castle in 2002.
 
 ## Wackenhut Recruitment
 

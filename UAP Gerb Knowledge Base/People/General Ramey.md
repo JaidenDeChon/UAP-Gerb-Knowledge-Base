@@ -1,6 +1,7 @@
 ---
 name: "General Ramey"
 role: "U.S. Air Force Brigadier General"
+wikipedia: "Roger M. Ramey"
 tags:
   - person
 ---

@@ -1,6 +1,7 @@
 ---
 name: "Bobby Ray Inman"
 role: "Four-star US Navy Admiral; Director of Naval Intelligence; Director of the NSA; Deputy Director of the CIA; Director of NURO"
+wikipedia: "Bobby Ray Inman"
 tags:
   - person
 ---

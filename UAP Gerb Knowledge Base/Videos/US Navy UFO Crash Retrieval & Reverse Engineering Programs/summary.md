@@ -21,7 +21,7 @@ stats:
     hint: "An entire agency hidden in a SAP"
   - value: "~26%"
     label: Ocean floor mapped
-    hint: "The host's framing of the search problem"
+    hint: "Gerb's framing of the search problem"
   - value: "2 of 6"
     label: Acknowledged DSRVs
     hint: "Mystic and Avalon; the rest never officially built"
@@ -41,17 +41,17 @@ stats:
 
 ## Overview
 
-This video is UAP Gerb's first deep investigation of the [[US Navy]]'s alleged UFO legacy programs. The channel has covered many crash retrievals by the Army and the Air Force, on land. This video asks what happens when a craft comes down in the ocean, or when an [[Unidentified Submerged Object (USO)|unidentified submerged object]] has to be recovered from a seafloor that is, in the host's framing, only about 26% mapped. He argues that such work needs the world's largest navy, with its special access programs, internal intelligence offices, contractors and partnerships with the intelligence community. He splits naval programs into four pillars: **monitor, collect, store and exploit**. The video sets aside monitoring (the host has covered USO reports and the [[OPNAV 3820]] reporting regulation before) and touches only lightly on exploitation. It concentrates on collection and storage.
+This video is UAP Gerb's first deep investigation of the [[US Navy]]'s alleged UFO legacy programs. The channel has covered many crash retrievals by the Army and the Air Force, on land. This video asks what happens when a craft comes down in the ocean, or when an [[Unidentified Submerged Object (USO)|unidentified submerged object]] has to be recovered from a seafloor that is, in Gerb's framing, only about 26% mapped. He argues that such work needs the world's largest navy, with its special access programs, internal intelligence offices, contractors and partnerships with the intelligence community. He splits naval programs into four pillars: **monitor, collect, store and exploit**. The video sets aside monitoring (Gerb has covered USO reports and the [[OPNAV 3820]] reporting regulation before) and touches only lightly on exploitation. It concentrates on collection and storage.
 
-The starting point is [[Christopher Sharp]]'s September 2024 *Liberation Times* reporting. Sharp named the [[CIA Directorate of Science and Technology]] and Directorate of Operations, the [[National Underwater Reconnaissance Office]] (NURO), the Navy, the [[NRO (National Reconnaissance Office)|NRO]], the [[NGA]], [[JSOC (Joint Special Operations Command)|Joint Special Operations Command]], [[SOCOM]] and submersibles from the [[Woods Hole Oceanographic Institution]] as participants in undersea retrievals. He said recovered craft go to the [[Office of Naval Research]] (ONR) and then to defense contractors. The host adds what he calls the missing intermediary, [[Federally Funded Research and Development Center (FFRDC)|FFRDCs]] and university-affiliated research centers. He then follows the thread through NURO, a black agency protected in its entirety by a [[Special Access Programs (SAPs)|special access program]], whose one self-acknowledged director is Admiral [[Bobby Ray Inman]].
+The starting point is [[Christopher Sharp]]'s September 2024 *Liberation Times* reporting. Sharp named the [[CIA Directorate of Science and Technology]] and Directorate of Operations, the [[National Underwater Reconnaissance Office]] (NURO), the Navy, the [[NRO (National Reconnaissance Office)|NRO]], the [[NGA]], [[JSOC (Joint Special Operations Command)|Joint Special Operations Command]], [[SOCOM]] and submersibles from the [[Woods Hole Oceanographic Institution]] as participants in undersea retrievals. He said recovered craft go to the [[Office of Naval Research]] (ONR) and then to defense contractors. Gerb adds what he calls the missing intermediary, [[Federally Funded Research and Development Center (FFRDC)|FFRDCs]] and university-affiliated research centers. He then follows the thread through NURO, a black agency protected in its entirety by a [[Special Access Programs (SAPs)|special access program]], whose one self-acknowledged director is Admiral [[Bobby Ray Inman]].
 
-The evidence falls into three kinds. **Senior naval officials:** Inman's 1989 remarks to [[Bob Echler]], former Director of Naval Intelligence [[Sumar Shapiro|Sumner Shapiro]]'s account of craft dismantled and shipped between laboratories, and the deathbed disclosures of the Navy's chief R&D scientist [[Nat Kobitz]] to [[Ross Coulthart]]. **The Navy's deep-ocean machinery:** [[John P. Craven]]'s [[Deep Submergence Systems Project (DSSP)|Deep Submergence Systems Project]], the compartmented seafloor-recovery program [[Project Sanddollar|Sand Dollar]], the [[Deep Submergence Rescue Vehicle (DSRV)|DSRV]] submersibles and the CIA's Glomar Explorer. **Witness cases:** the video's centrepiece, a triangular craft allegedly raised from nearly a mile and a half down in the North Atlantic in 1991, and [[Leonard Stringfield]]'s files on craft and bodies held at naval bases. The host closes on the [[Navy Special Program]], an umbrella office he believes hides NURO and naval retrieval work, and on the Navy's 1985 procurement scandals as a possible funding channel. Several of his sources, he says, call the Navy's programs the most secretive of all.
+The evidence falls into three kinds. **Senior naval officials:** Inman's 1989 remarks to [[Bob Echler]], former Director of Naval Intelligence [[Sumar Shapiro|Sumner Shapiro]]'s account of craft dismantled and shipped between laboratories, and the deathbed disclosures of the Navy's chief R&D scientist [[Nat Kobitz]] to [[Ross Coulthart]]. **The Navy's deep-ocean machinery:** [[John P. Craven]]'s [[Deep Submergence Systems Project (DSSP)|Deep Submergence Systems Project]], the compartmented seafloor-recovery program [[Project Sanddollar|Sand Dollar]], the [[Deep Submergence Rescue Vehicle (DSRV)|DSRV]] submersibles and the CIA's Glomar Explorer. **Witness cases:** the video's centrepiece, a triangular craft allegedly raised from nearly a mile and a half down in the North Atlantic in 1991, and [[Leonard Stringfield]]'s files on craft and bodies held at naval bases. Gerb closes on the [[Navy Special Program]], an umbrella office he believes hides NURO and naval retrieval work, and on the Navy's 1985 procurement scandals as a possible funding channel. Several of his sources, he says, call the Navy's programs the most secretive of all.
 
 ## Chronology
 
 ::wiki-timeline{video="H9GSqOEvoBE" video-title="US Navy UFO Crash Retrieval & Reverse Engineering Programs"}
 ---
-help: "The bar pinned above the entries is a ruler from 1950 to 2025. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line capped with a downward arrow is where the host is. The video is organised by theme, not by date: it opens on the 2024 Liberation Times reporting and the NURO paper trail, then works back through the witness cases, so the playhead leaps around the ruler. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Timestamps jump the mini-player to that moment; a ~ marks an approximate cue."
+help: "The bar pinned above the entries is a ruler from 1950 to 2025. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line capped with a downward arrow is where Gerb is. The video is organised by theme, not by date: it opens on the 2024 Liberation Times reporting and the NURO paper trail, then works back through the witness cases, so the playhead leaps around the ruler. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Timestamps jump the mini-player to that moment; a ~ marks an approximate cue."
 hinges:
   - year: 1969
     label: "NURO founded"
@@ -59,7 +59,7 @@ events:
   - date: "1951"
     title: "ONR physicist Urner Liddel dismisses UFO reports"
     cue: 1978
-    summary: "Office of Naval Research physicist Urner Liddel stated in a 1951 magazine article that all UFO reports were mirages or balloons and that trained observers were being fooled. The host cites it as the start of decades of official Navy denial that lasted until Rear Admiral Timothy Gallaudet's openness."
+    summary: "Office of Naval Research physicist Urner Liddel stated in a 1951 magazine article that all UFO reports were mirages or balloons and that trained observers were being fooled. Gerb cites it as the start of decades of official Navy denial that lasted until Rear Admiral Timothy Gallaudet's openness."
     category: person
     significance: minor
     entities:
@@ -94,7 +94,7 @@ events:
   - date: "1962-10"
     title: "Bluegill Triple Prime detonation downs a UFO; USS Safeguard recovers a 'pod'"
     cue: 946
-    summary: "According to the late presidential adviser Harold Malmgren, the Bluegill Triple Prime high-altitude nuclear test of Operation Fishbowl disabled a nearby UFO that fell into the Pacific. The salvage ship USS Safeguard, with the USS Engage, searched the crash location in a square grid and used divers to recover a 'pod', losing power during the net recovery so the pod was released for helicopter pickup. The host calls it the Navy's one acknowledged USO retrieval."
+    summary: "According to the late presidential adviser Harold Malmgren, the Bluegill Triple Prime high-altitude nuclear test of Operation Fishbowl disabled a nearby UFO that fell into the Pacific. The salvage ship USS Safeguard, with the USS Engage, searched the crash location in a square grid and used divers to recover a 'pod', losing power during the net recovery so the pod was released for helicopter pickup. Gerb calls it the Navy's one acknowledged USO retrieval."
     category: event
     significance: major
     entities:
@@ -141,7 +141,7 @@ events:
   - date: "1970"
     title: "DSRV-1 Mystic and DSRV-2 Avalon enter service"
     cue: 2991
-    summary: "The only two acknowledged Deep Submergence Rescue Vehicles, built by Lockheed Missiles and Space Company in Sunnyvale, served from about 1970 to 2008. Air-transportable by truck, C-5 Galaxy or submarine and guided by a system the host calls more complex than Apollo 11's, they never performed an official rescue. Craven wrote that a DSRV built for every rescue would also be available for the intelligence 'mission impossible'."
+    summary: "The only two acknowledged Deep Submergence Rescue Vehicles, built by Lockheed Missiles and Space Company in Sunnyvale, served from about 1970 to 2008. Air-transportable by truck, C-5 Galaxy or submarine and guided by a system Gerb calls more complex than Apollo 11's, they never performed an official rescue. Craven wrote that a DSRV built for every rescue would also be available for the intelligence 'mission impossible'."
     category: program
     significance: notable
     entities:
@@ -150,7 +150,7 @@ events:
   - date: "1972"
     title: "Hughes Glomar Explorer launched"
     cue: 1534
-    summary: "The CIA built the Hughes Glomar Explorer, at a modern equivalent of about $1.68 billion, to raise the Soviet submarine K-129, lost northwest of Hawaii in 1968. The host treats the ship as a NURO asset run jointly by the CIA's DS&T and the Navy."
+    summary: "The CIA built the Hughes Glomar Explorer, at a modern equivalent of about $1.68 billion, to raise the Soviet submarine K-129, lost northwest of Hawaii in 1968. Gerb treats the ship as a NURO asset run jointly by the CIA's DS&T and the Navy."
     category: program
     significance: notable
     entities:
@@ -194,7 +194,7 @@ events:
   - date: "1974-10"
     title: "The Navy Special Program surfaces in NSC intelligence records"
     cue: 4959
-    summary: "The earliest mention the host finds of the Navy Special Program is a 1974 omnibus National Security Council intelligence directive that lists it beside the National Reconnaissance Program. A 29 October 1974 CIA memo on clearances held by NSC Intelligence Committee working-group members discusses programs overlapping compartmented areas of the Navy Special Program, requiring read-on requests for a redacted name and CIA officer Richard Ober."
+    summary: "The earliest mention Gerb finds of the Navy Special Program is a 1974 omnibus National Security Council intelligence directive that lists it beside the National Reconnaissance Program. A 29 October 1974 CIA memo on clearances held by NSC Intelligence Committee working-group members discusses programs overlapping compartmented areas of the Navy Special Program, requiring read-on requests for a redacted name and CIA officer Richard Ober."
     category: document
     significance: notable
     entities:
@@ -211,7 +211,7 @@ events:
   - date: "1975-12-11"
     title: "Memo places the Navy Special Program beside the NRO"
     cue: 5020
-    summary: "A declassified 11 December 1975 memo for the Deputy Director of Central Intelligence shows the Navy Special Program designated to run parallel to the National Reconnaissance Program under the Executive Committee for the DCI and the Assistant Secretary of Defense for Intelligence, as an intelligence-collection program. The host argues NURO was hidden inside it."
+    summary: "A declassified 11 December 1975 memo for the Deputy Director of Central Intelligence shows the Navy Special Program designated to run parallel to the National Reconnaissance Program under the Executive Committee for the DCI and the Assistant Secretary of Defense for Intelligence, as an intelligence-collection program. Gerb argues NURO was hidden inside it."
     category: document
     significance: major
     entities:
@@ -229,7 +229,7 @@ events:
   - date: "1978"
     title: "Ocean Minerals Company leases the Glomar Explorer"
     cue: 1584
-    summary: "Ocean Minerals Company, whose prime contractor was Lockheed Missiles and Space Company, leased the Glomar Explorer for 'deep-sea mining'; Lockheed used the ship for nearly two decades. Citing a Medium article, the host suggests the mining work covered further NURO operations."
+    summary: "Ocean Minerals Company, whose prime contractor was Lockheed Missiles and Space Company, leased the Glomar Explorer for 'deep-sea mining'; Lockheed used the ship for nearly two decades. Citing a Medium article, Gerb suggests the mining work covered further NURO operations."
     category: program
     significance: notable
     entities:
@@ -263,7 +263,7 @@ events:
   - date: "1985"
     title: "The $660 ashtray scandal"
     cue: 5652
-    summary: "A House Government Operations Committee investigator found the Navy paying Grumman $660 each for E-2C Hawkeye ashtrays and $400 for F-14 seat socket wrenches. Follow-up probes found profits of over $753 million (29.7%) on carrier contracts and over $96 million (22%) on a single Trident submarine. The host wagers such excess was siphoned to fund clandestine retrieval and exploitation programs."
+    summary: "A House Government Operations Committee investigator found the Navy paying Grumman $660 each for E-2C Hawkeye ashtrays and $400 for F-14 seat socket wrenches. Follow-up probes found profits of over $753 million (29.7%) on carrier contracts and over $96 million (22%) on a single Trident submarine. Gerb wagers such excess was siphoned to fund clandestine retrieval and exploitation programs."
     category: event
     significance: notable
     entities:
@@ -348,7 +348,7 @@ events:
   - date: "2005"
     title: "Steven Walker's silent arrival at Diego Garcia"
     cue: 4866
-    summary: "Air Force veteran Steven Walker said that at Naval Support Facility Diego Garcia the base was locked down for a classified arrival that made no engine, brake or tyre sound. The host links it to Edgar Fouche's claim that TR-3B programs moved from Area 51 to sites including Diego Garcia in the early 1990s."
+    summary: "Air Force veteran Steven Walker said that at Naval Support Facility Diego Garcia the base was locked down for a classified arrival that made no engine, brake or tyre sound. Gerb links it to Edgar Fouche's claim that TR-3B programs moved from Area 51 to sites including Diego Garcia in the early 1990s."
     category: event
     significance: minor
     entities:
@@ -357,7 +357,7 @@ events:
   - date: "2011"
     title: "Fukushima-era emails confirm DSRVs on both coasts"
     cue: 3426
-    summary: "Nuclear Regulatory Commission emails after the 2011 Japanese tsunami described 'very operational ready' deep submergence rescue vehicles on both the east and west coasts, which the host cites as consistent with Mark's crew deploying from Virginia."
+    summary: "Nuclear Regulatory Commission emails after the 2011 Japanese tsunami described 'very operational ready' deep submergence rescue vehicles on both the east and west coasts, which Gerb cites as consistent with Mark's crew deploying from Virginia."
     category: document
     significance: minor
     entities:
@@ -365,7 +365,7 @@ events:
   - date: "2013"
     title: "ONR funds research into a 'sixth sense'"
     cue: 876
-    summary: "The Office of Naval Research published a 'revolutionary' program studying a sixth sense to train personnel in intuitive decision-making, which the host ties to Eric A. Walker's claim that UFO programs required knowledge of ESP."
+    summary: "The Office of Naval Research published a 'revolutionary' program studying a sixth sense to train personnel in intuitive decision-making, which Gerb ties to Eric A. Walker's claim that UFO programs required knowledge of ESP."
     category: program
     significance: minor
     entities:
@@ -393,7 +393,7 @@ events:
   - date: "2022"
     title: "Inman tells Project Unity he found plausible explanations"
     cue: 1936
-    summary: "On the Project Unity show, Inman said he had found plausible explanations for virtually every UFO sighting, which the host sets against his 1989 remarks to Echler. The same year Heinman told researcher RGH UFOs he was 'a long way' from the area being researched, offered to answer questions, then stopped replying."
+    summary: "On the Project Unity show, Inman said he had found plausible explanations for virtually every UFO sighting, which Gerb sets against his 1989 remarks to Echler. The same year Heinman told researcher RGH UFOs he was 'a long way' from the area being researched, offered to answer questions, then stopped replying."
     category: person
     significance: notable
     entities:
@@ -426,14 +426,14 @@ events:
 
 ## The Four Pillars
 
-The host's model divides naval UFO programs by function. Combining Sharp's sources with the structure alleged for land retrievals, where the [[CIA Office of Global Access]] works with JSOC abroad, he assigns roles as follows. The CIA's DS&T acts as logistics coordinator. JSOC or SOCOM supplies "men at arms", industrial security and human intelligence. The NRO and NGA provide satellite signals intelligence, and NURO provides undersea reconnaissance by unknown means. The Navy and contractors provide the submersibles: [[Lockheed Martin]]'s DSRVs and its dry submersible, and Woods Hole's deep-submergence vehicles. Craft then go to ONR locations, and from there, through FFRDCs and university-affiliated research centers, to contractors.
+Gerb's model divides naval UFO programs by function. Combining Sharp's sources with the structure alleged for land retrievals, where the [[CIA Office of Global Access]] works with JSOC abroad, he assigns roles as follows. The CIA's DS&T acts as logistics coordinator. JSOC or SOCOM supplies "men at arms", industrial security and human intelligence. The NRO and NGA provide satellite signals intelligence, and NURO provides undersea reconnaissance by unknown means. The Navy and contractors provide the submersibles: [[Lockheed Martin]]'s DSRVs and its dry submersible, and Woods Hole's deep-submergence vehicles. Craft then go to ONR locations, and from there, through FFRDCs and university-affiliated research centers, to contractors.
 
 ::wiki-org-chart
 ---
 root:
   name: "Naval UFO legacy programs"
-  label: "The host's four-pillar model"
-  note: "Built from Christopher Sharp's 2024 sources plus the host's own FFRDC thesis. This video covers collect and store; monitor is left out and exploit only touched on."
+  label: "Gerb's four-pillar model"
+  note: "Built from Christopher Sharp's 2024 sources plus Gerb's own FFRDC thesis. This video covers collect and store; monitor is left out and exploit only touched on."
   children:
     - name: "Monitor"
       label: "Left out of this video"
@@ -467,41 +467,71 @@ root:
       children:
         - name: Federally Funded Research and Development Center (FFRDC)
           label: "The 'missing intermediary'"
-          note: "FFRDCs and UARCs such as the Center for Naval Analyses and Penn State's Applied Research Laboratory, per the host."
+          note: "FFRDCs and UARCs such as the Center for Naval Analyses and Penn State's Applied Research Laboratory, per Gerb."
         - name: Naval Surface Warfare Center Crane
           label: "Off-World Technologies Division"
           note: "Alleged underground facility run with SAIC, per Randy Anderson."
 ---
 ::
 
-The Navy's university-affiliated research centers include the applied physics laboratories at Johns Hopkins and the University of Washington, and the applied research laboratories at the University of Hawaiʻi at Mānoa, the University of Texas at Austin and Penn State. Penn State's was founded in 1945 by [[Eric A. Walker]]. Physicist [[Robert Sarbacher]] named Walker as a participant, alongside [[Vannevar Bush]], in 1950s retrieval and reverse-engineering programs. Walker later told researchers that he had been present at the 1965 [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg crash]], that he knew of [[Majestic 12]], and that working in these programs required knowledge of ESP. The host notes that ONR published a "revolutionary" program in 2013 studying a human sixth sense for intuitive decision-making. He also points to the [[Center for Naval Analyses]], the Navy FFRDC in [[Crystal City, Virginia]], which he has previously linked to a large underground facility.
+The Navy's university-affiliated research centers include the applied physics laboratories at Johns Hopkins and the University of Washington, and the applied research laboratories at the University of Hawaiʻi at Mānoa, the University of Texas at Austin and Penn State. Penn State's was founded in 1945 by [[Eric A. Walker]]. Physicist [[Robert Sarbacher]] named Walker as a participant, alongside [[Vannevar Bush]], in 1950s retrieval and reverse-engineering programs. Walker later told researchers that he had been present at the 1965 [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg crash]], that he knew of [[Majestic 12]], and that working in these programs required knowledge of ESP. Gerb notes that ONR published a "revolutionary" program in 2013 studying a human sixth sense for intuitive decision-making. He also points to the [[Center for Naval Analyses]], the Navy FFRDC in [[Crystal City, Virginia]], which he has previously linked to a large underground facility.
 
 > [!note] The one acknowledged naval recovery
-> The host stresses that the Navy has already taken part in at least one acknowledged USO retrieval. According to the late presidential adviser [[Harold Malmgren]], the October 1962 Bluegill Triple Prime high-altitude nuclear test disabled a nearby UFO. The salvage ship USS Safeguard recovered what its logs call a "pod" from the sea (see [[Bluegill Triple Prime UFO Recovery]]).
+> Gerb stresses that the Navy has already taken part in at least one acknowledged USO retrieval. According to the late presidential adviser [[Harold Malmgren]], the October 1962 Bluegill Triple Prime high-altitude nuclear test disabled a nearby UFO. The salvage ship USS Safeguard recovered what its logs call a "pod" from the sea (see [[Bluegill Triple Prime UFO Recovery]]).
 
 ## The Liberation Times Reporting
 
-Sharp's article on the failure of the [[Schumer Amendment (NDAA)|UAP Disclosure Act]] in the FY2025 National Defense Authorization Act went through three versions in five days. The host reads the edits themselves as evidence: information Sharp considered dangerous to publish.
+Sharp's article on the failure of the [[Schumer Amendment (NDAA)|UAP Disclosure Act]] in the FY2025 National Defense Authorization Act went through three versions in five days. Gerb reads the edits themselves as evidence: information Sharp considered dangerous to publish.
 
-::wiki-grid{cols=3}
-::wiki-panel{title="20 September 2024: the original"}
-Named the CIA's DS&T and Directorate of Operations (including its maritime branch), NURO, the Navy, the NRO, Space Command, the NGA and JSOC. It described undersea retrievals involving the Directorate of Operations, NURO, SOCOM and Woods Hole submersibles, and retrievals on foreign soil by the CIA's Office of Global Access with JSOC.
-::
-::wiki-panel{title="22 September: stripped"}
-Every reference to the Navy, NURO, Woods Hole, the NGA, the NRO and JSOC was redacted, leaving only the CIA DS&T, DoD and DOE. Accused of "stealth edits", Sharp said the details were sourced and were removed "because of the threats posed to me".
-::
-::wiki-panel{title="25 September: restored and expanded" tone="accent"}
-After "someone has recklessly put me at extreme risk", Sharp restored the details with more specifics. Woods Hole had provided deep-submergence vehicles "to support retrieval efforts", and recovered craft were "transferred to the Office of Naval Research", which hands them to defense contractors for analysis.
-::
+The first version, published on 20 September 2024, named the CIA's Directorate of Science and Technology and its Directorate of Operations (including its maritime branch), NURO, the Navy, the NRO, Space Command, the NGA and JSOC. It described undersea retrievals involving the Directorate of Operations, NURO, SOCOM and Woods Hole submersibles, and retrievals on foreign soil by the CIA's Office of Global Access with JSOC. Two days later almost all of that was gone. Accused of "stealth edits", Sharp said the details were sourced and had been removed "because of the threats posed to me". On 25 September he put them back, with more specifics:
+
+::wiki-compare{video="H9GSqOEvoBE" video-title="US Navy UFO Crash Retrieval & Reverse Engineering Programs"}
+---
+caption: "What each version of Sharp's article said, as Gerb reads them in turn. A dash means that version, as Gerb describes it, does not say."
+attributeLabel: "In the article"
+subjects:
+  - name: "20 September 2024"
+    note: "The original"
+  - name: "22 September"
+    note: "Stripped"
+  - name: "25 September"
+    note: "Restored and expanded"
+rows:
+  - attribute: "CIA DS&T, DoD and DOE"
+    cells:
+      - { text: "Named", mark: same, cue: 483 }
+      - { text: "Still named", mark: same, cue: 571 }
+      - { text: "Named", mark: same }
+  - attribute: "Navy, NURO, NRO, NGA and JSOC"
+    cells:
+      - { text: "Named, with Space Command", cue: 483 }
+      - { text: "Redacted", mark: differs, cue: 560 }
+      - { text: "Restored", cue: 601 }
+  - attribute: "Woods Hole"
+    cells:
+      - "Its submersibles used in undersea retrievals"
+      - { text: "Redacted", mark: differs }
+      - { text: "Provided deep-submergence vehicles \"to support retrieval efforts\"", cue: 636 }
+  - attribute: "Where recovered craft go"
+    cells:
+      - ""
+      - ""
+      - { text: "\"Transferred to the Office of Naval Research\", which hands them to defense contractors", cue: 651 }
+  - attribute: "Sharp's comment"
+    cells:
+      - ""
+      - { text: "Removed \"because of the threats posed to me\"", cue: 588 }
+      - { text: "\"Someone has recklessly put me at extreme risk\"", cue: 604 }
+---
 ::
 
-The CIA DS&T has been accused before. The host recalls that former DS&T director [[Glenn Gaffney]] is described as the gatekeeper who stopped Lockheed Martin from moving UFO materials, likely from the [[1953 Kingman, Arizona Crash Retrieval|1953 Kingman crash]], to the OSAP program in 2008. Former DS&T deputy director [[Doug Wolfe|Doug Wolf]] helped found the CIA's Office of Global Access in 2003.
+The CIA DS&T has been accused before. Gerb recalls that former DS&T director [[Glenn Gaffney]] is described as the gatekeeper who stopped Lockheed Martin from moving UFO materials, likely from the [[1953 Kingman, Arizona Crash Retrieval|1953 Kingman crash]], to the OSAP program in 2008. Former DS&T deputy director [[Doug Wolfe|Doug Wolf]] helped found the CIA's Office of Global Access in 2003.
 
 ## The National Underwater Reconnaissance Office
 
 ### The NRO's hidden younger brother
 
-The NRO was formed on a recommendation to President Eisenhower to coordinate Air Force and CIA reconnaissance. NURO is the lesser-known counterpart that coordinates CIA and Navy reconnaissance. According to the Association of Former Intelligence Officers, "one entire government agency, the National Underwater Reconnaissance Office, is protected by a SAP". The host calls it an extremely rare case of an entire intelligence agency protected this way. It appears in a 1975 submission of documents to the Senate Select Committee on Intelligence, where a list of NSC intelligence directives includes National Security Decision Memorandum 40, which covers both NRO and NURO operations. Nigel West's *Historical Dictionary of International Intelligence* describes it as a joint Navy–CIA group formed to coordinate and fund special projects conducted by submarines.
+The NRO was formed on a recommendation to President Eisenhower to coordinate Air Force and CIA reconnaissance. NURO is the lesser-known counterpart that coordinates CIA and Navy reconnaissance. According to the Association of Former Intelligence Officers, "one entire government agency, the National Underwater Reconnaissance Office, is protected by a SAP". Gerb calls it an extremely rare case of an entire intelligence agency protected this way. It appears in a 1975 submission of documents to the Senate Select Committee on Intelligence, where a list of NSC intelligence directives includes National Security Decision Memorandum 40, which covers both NRO and NURO operations. Nigel West's *Historical Dictionary of International Intelligence* describes it as a joint Navy–CIA group formed to coordinate and fund special projects conducted by submarines.
 
 Jeffrey T. Richelson's *The US Intelligence Community* dates it to 1969, established by agreement between the CIA and the Navy with John Warner as first director. It managed submarine intelligence missions: the recovery of the Soviet K-129, the Ivy Bells cable taps, the Desktop seafloor-mapping program, and submarine imagery and SIGINT "at one time designated the Special Navy Control Program". Richelson's own FOIA requests on NURO were denied. *Blind Man's Bluff* says it was created under CIA director Richard Helms after K-129 sank off Hawaii in 1968, meant to sit between the DS&T and the [[Office of Naval Intelligence]], but "from the day NURO was formed, the CIA took charge". By 1972 the Navy had regained some control. Its known vessels include the USS Parche, USS Halibut, USS Seawolf, the Hughes Glomar Explorer, the nuclear deep-submergence craft NR-1 (1969–2008) and, more recently, the USS Jimmy Carter.
 
@@ -509,44 +539,53 @@ NURO's covert work surfaces only in fragments. One is a 1981 operation around a 
 
 ### The Glomar Explorer
 
-The CIA built the Hughes Glomar Explorer, at a modern equivalent of about $1.68 billion, to raise K-129 under [[Project Azorian]], also called Project Jennifer. In 1974 it recovered part of the submarine from about 1,560 miles northwest of Hawaii. The host treats the ship as a NURO creation. Following a Medium article on the Glomar's links to General Motors, Lockheed Martin and UAP, he notes that from 1978 Ocean Minerals Company, whose prime contractor was Lockheed Missiles and Space Company, leased the ship for "deep-sea mining", and that Lockheed used it for nearly two decades. He asks whether Lockheed, NURO and the Glomar also recovered craft. Later in the video, a Stringfield case claims exactly that.
+The CIA built the Hughes Glomar Explorer, at a modern equivalent of about $1.68 billion, to raise K-129 under [[Project Azorian]], also called Project Jennifer. In 1974 it recovered part of the submarine from about 1,560 miles northwest of Hawaii. Gerb treats the ship as a NURO creation. Following a Medium article on the Glomar's links to General Motors, Lockheed Martin and UAP, he notes that from 1978 Ocean Minerals Company, whose prime contractor was Lockheed Missiles and Space Company, leased the ship for "deep-sea mining", and that Lockheed used it for nearly two decades. He asks whether Lockheed, NURO and the Glomar also recovered craft. Later in the video, a Stringfield case claims exactly that.
 
 ### Inman's admission
 
-In a filmed clip, Inman says he became Director of Naval Intelligence on 13 September 1974 and held a second post that "they still don't want me to talk about": director of NURO, "the organization that procured [and] built all of the sensitive reconnaissance systems to collect intelligence under the surface of the oceans". He had spoken of it publicly only once before, in an October 2021 interview for the Caltech Heritage Project. There he said NURO was a black program that acquired technology for undersea reconnaissance, including imaging the ocean floors, "looking for anything which might be desirable from an intelligence point of view", and that he had received "a pretty hot letter" for mentioning it. Inman added that he had first been exposed to the Glomar Explorer program in Hawaii, as assistant chief of staff for intelligence. He later sat on the boards of [[SAIC]], which the host believes ran the [[Off-World Technologies Division]] below [[Naval Surface Warfare Center Crane]], and of [[Wackenhut Services]], often alleged to guard UFO-related sites.
+In a filmed clip, Inman says he became Director of Naval Intelligence on 13 September 1974 and held a second post that "they still don't want me to talk about": director of NURO, "the organization that procured [and] built all of the sensitive reconnaissance systems to collect intelligence under the surface of the oceans". He had spoken of it publicly only once before, in an October 2021 interview for the Caltech Heritage Project. There he said NURO was a black program that acquired technology for undersea reconnaissance, including imaging the ocean floors, "looking for anything which might be desirable from an intelligence point of view", and that he had received "a pretty hot letter" for mentioning it. Inman added that he had first been exposed to the Glomar Explorer program in Hawaii, as assistant chief of staff for intelligence. He later sat on the boards of [[SAIC]], which Gerb believes ran the [[Off-World Technologies Division]] below [[Naval Surface Warfare Center Crane]], and of [[Wackenhut Services]], often alleged to guard UFO-related sites.
 
-On the Project Unity show in 2022, Inman said he had found "plausible explanations for virtually everything". The host sets this against his private remarks of 1989. He also sets it against a long line of Navy denials, going back to ONR physicist Urner Liddel's 1951 claim that all reports were mirages or balloons, and lasting until [[Rear Admiral Timothy Gallaudet|Timothy Gallaudet]]'s recent openness.
+On the Project Unity show in 2022, Inman said he had found "plausible explanations for virtually everything". Gerb sets this against his private remarks of 1989. He also sets it against a long line of Navy denials, going back to ONR physicist Urner Liddel's 1951 claim that all reports were mirages or balloons, and lasting until [[Rear Admiral Timothy Gallaudet|Timothy Gallaudet]]'s recent openness.
 
 ## Senior Naval Officials Who Spoke
 
 ### The Echler inquiries
 
-In 1989 NASA mission specialist Bob Echler, introduced through Admiral Lord Hill-Norton, asked Inman whether recovered vehicles might ever be available for research outside military circles. In the recorded [[Inman-Echler Telephone Call]], Inman said that "ten years ago, the answer would have been no", and that openness might be evolving. He named the CIA's deputy director for science and technology, [[Everett Heinman]], as the best place to start, since his imminent retirement might make him more willing to talk. A later call from Inman's office warned Echler that discussing Inman's involvement would breach confidence or the secrecy laws. The host notes that Inman, a NURO director, sent Echler to the DS&T, one of NURO's two founding agencies.
+In 1989 NASA mission specialist Bob Echler, introduced through Admiral Lord Hill-Norton, asked Inman whether recovered vehicles might ever be available for research outside military circles. In the recorded [[Inman-Echler Telephone Call]], Inman said that "ten years ago, the answer would have been no", and that openness might be evolving. He named the CIA's deputy director for science and technology, [[Everett Heinman]], as the best place to start, since his imminent retirement might make him more willing to talk. A later call from Inman's office warned Echler that discussing Inman's involvement would breach confidence or the secrecy laws. Gerb notes that Inman, a NURO director, sent Echler to the DS&T, one of NURO's two founding agencies.
 
-::wiki-org-chart
+::wiki-chain{video="H9GSqOEvoBE" video-title="US Navy UFO Crash Retrieval & Reverse Engineering Programs"}
 ---
-root:
-  name: Bob Echler
-  label: "NASA mission specialist"
-  note: "Asked whether recovered vehicles would ever be released for research."
-  children:
-    - name: "Admiral Lord Hill-Norton"
-      label: Made the introduction
-      children:
-        - name: Bobby Ray Inman
-          label: "Confirmed, 1989"
-          note: "The US held craft 'in operational condition'; pointed Echler onward, then had his office warn him."
-          children:
-            - name: Everett Heinman
-              label: "Denied, 10 Aug 1989"
-              note: "Denied everything at Langley; in 2022 told RGH UFOs he was 'a long way' from the subject."
-            - name: Sumar Shapiro
-              label: "Confirmed, 1989; cut off, 1990"
-              note: "Said he had studied craft at close quarters, and that they were dismantled and shipped between labs."
+kind: transmission
+label: "Chain of referral"
+caption: "How Echler's question was passed from one official to the next, 1989 to 1990."
+steps:
+  - name: "Bob Echler"
+    note: "NASA mission specialist asking whether recovered vehicles would ever be released for research."
+  - via: "Put Echler in touch"
+    text: "Admiral Lord Hill-Norton"
+    cue: 2056
+  - via: "Recorded telephone call, 1989"
+    name: "Bobby Ray Inman"
+    note: "Confirmed the US held craft \"in operational condition\"; his office later warned Echler off."
+    cue: 2090
+  - via: "Referred Echler on"
+    fork:
+      - label: "CIA DS&T"
+        steps:
+          - name: "Everett Heinman"
+            date: "1989-08-10"
+            note: "Denied everything at Langley; in 2022 told RGH UFOs he was \"a long way\" from the subject."
+            cue: 2206
+      - label: "Naval intelligence"
+        steps:
+          - name: "Sumar Shapiro"
+            date: "1989–1990"
+            note: "Said he had studied craft at close quarters; ended the second meeting, suspecting false pretenses."
+            cue: 2279
 ---
 ::
 
-**Heinman** was DS&T deputy director from 1979 to 1982 and then ran the NRO's Program B, the CIA's satellite SIGINT effort, from 1982 to 1989, as the first chief of its ground element at [[Pine Gap, Australia]]. He met Echler at CIA headquarters on 10 August 1989 and denied any knowledge. In 2022, when [[RGH UFOs]] contacted him, he did not deny it, writing that he was "a long way and quite a few years from working in the area you are researching". He offered to answer questions but never replied, and the host's own attempts to reach him have gone unanswered.
+**Heinman** was DS&T deputy director from 1979 to 1982 and then ran the NRO's Program B, the CIA's satellite SIGINT effort, from 1982 to 1989, as the first chief of its ground element at [[Pine Gap, Australia]]. He met Echler at CIA headquarters on 10 August 1989 and denied any knowledge. In 2022, when [[RGH UFOs]] contacted him, he did not deny it, writing that he was "a long way and quite a few years from working in the area you are researching". He offered to answer questions but never replied, and Gerb's own attempts to reach him have gone unanswered.
 
 **Shapiro**, a retired Director of Naval Intelligence then working as an executive at [[BDM International]] (later bought by [[Northrop Grumman]]), met Echler in 1989. He said factions within the US held extraterrestrial vehicles that he had studied at close quarters. Teams took them apart, packed them and shipped them to laboratories around the country. Their interlocking components had to be disassembled in an exact sequence. He never said where. At a second meeting at his Virginia home in 1990, Echler showed him a small hologram of an alien head. Shapiro, unable to reach Inman to confirm the meeting, became visibly upset and ended it, suspecting false pretenses. Echler also claimed that the Navy used EMP generators, Empress and Empress II, out of Pensacola Naval Air Station to bring down UFOs for retrieval.
 
@@ -556,7 +595,7 @@ The Navy's long-time Director of Science and Technology Development, [[Nat Kobit
 
 ## Sand Dollar and the Deep Submergence Systems Project
 
-In 1964 Dr. John P. Craven, chief scientist of the Navy's Special Projects Office, was tasked with the Deep Submergence Systems Project. The project was meant to extend the Navy's deep-ocean engineering to unprecedented depths, and it was prompted in part by the 1963 loss of the USS Thresher. In 1965 a naval intelligence officer briefed him on **Sand Dollar**, a program to recover militarily sensitive hardware and other objects of national-security importance from the seafloor. In *The Silent War* Craven wrote that the program was still classified. He was shown an inventory of items on the seabed and a map of their distribution: "not just in the Bermuda Triangle", and split evenly between the continental shelf and the deep ocean. Sand Dollar sat inside another secret program, itself hidden within the Polaris program. The host compares this nesting to the structure described in the [[Wilson-Davis Memo|Wilson-Davis notes]].
+In 1964 Dr. John P. Craven, chief scientist of the Navy's Special Projects Office, was tasked with the Deep Submergence Systems Project. The project was meant to extend the Navy's deep-ocean engineering to unprecedented depths, and it was prompted in part by the 1963 loss of the USS Thresher. In 1965 a naval intelligence officer briefed him on **Sand Dollar**, a program to recover militarily sensitive hardware and other objects of national-security importance from the seafloor. In *The Silent War* Craven wrote that the program was still classified. He was shown an inventory of items on the seabed and a map of their distribution: "not just in the Bermuda Triangle", and split evenly between the continental shelf and the deep ocean. Sand Dollar sat inside another secret program, itself hidden within the Polaris program. Gerb compares this nesting to the structure described in the [[Wilson-Davis Memo|Wilson-Davis notes]].
 
 ::wiki-org-chart
 ---
@@ -575,7 +614,7 @@ root:
               note: "Recovered 'items of interest' from the continental shelf and deep ocean worldwide."
     - name: Deep Submergence Systems Project (DSSP)
       label: "Launched 1964"
-      note: "The host argues it gave Sand Dollar its reach."
+      note: "Gerb argues it gave Sand Dollar its reach."
       children:
         - name: Deep Submergence Rescue Vehicle (DSRV)
           label: "Six planned; two built"
@@ -589,9 +628,9 @@ root:
 ---
 ::
 
-Craven was explicit that the rescue submersibles had a second purpose: "a DSRV designed, constructed, and deployed for every conceivable rescue mission would also be available for the intelligence 'mission impossible' that were sure to occur". He also wrote that the NURO-linked submarines Halibut and Seawolf carried only "top secret equipment and teams of industry specialists who would carry out unknown missions in unknown parts of the sea". He asked himself whether he could run such a program without his family, friends or closest colleagues knowing. The host's thesis follows. Sand Dollar found objects, the DSSP built the craft to recover them, and NURO's submarines carried those craft. He asks whether Sand Dollar was the Navy's first UFO legacy program, noting that the DSSP began just two years after the Bluegill Triple Prime recovery.
+Craven was explicit that the rescue submersibles had a second purpose: "a DSRV designed, constructed, and deployed for every conceivable rescue mission would also be available for the intelligence 'mission impossible' that were sure to occur". He also wrote that the NURO-linked submarines Halibut and Seawolf carried only "top secret equipment and teams of industry specialists who would carry out unknown missions in unknown parts of the sea". He asked himself whether he could run such a program without his family, friends or closest colleagues knowing. Gerb's thesis follows. Sand Dollar found objects, the DSSP built the craft to recover them, and NURO's submarines carried those craft. He asks whether Sand Dollar was the Navy's first UFO legacy program, noting that the DSSP began just two years after the Bluegill Triple Prime recovery.
 
-The two DSRVs, built by Lockheed Missiles and Space Company in Sunnyvale, could be flown by C-5 Galaxy, trucked or carried by submarine to a stranded crew anywhere within 72 hours. Their guidance system, the host says, was more complex than Apollo 11's. They never performed an official rescue, since no American submarine sank after 1971. The host concludes that their "practice missions" were really retrievals of underwater aircraft and vehicles.
+The two DSRVs, built by Lockheed Missiles and Space Company in Sunnyvale, could be flown by C-5 Galaxy, trucked or carried by submarine to a stranded crew anywhere within 72 hours. Their guidance system, Gerb says, was more complex than Apollo 11's. They never performed an official rescue, since no American submarine sank after 1971. Gerb concludes that their "practice missions" were really retrievals of underwater aircraft and vehicles.
 
 ## The 1991 North Atlantic Retrieval
 
@@ -605,7 +644,7 @@ stats:
     hint: "Just under a mile and a half"
   - value: "250 nmi"
     label: From Aberdeen, Scotland
-    hint: "The host places it in the Rockall Trough"
+    hint: "Gerb places it in the Rockall Trough"
   - value: "68–70 ft"
     label: Length of the craft
     hint: "6–8 ft longer than an F-14"
@@ -640,32 +679,32 @@ stats:
 
 ### Reading the case
 
-Allowing ±20% on Mark's distance, the host searches a radius of up to 345 statute miles from Aberdeen. The only water deep enough lies almost due west: the Rockall Trough, east of the Rockall Plateau, which exceeds 8,000 feet. Nuclear Regulatory Commission emails from the 2011 Japanese tsunami confirm that the Navy kept a "very operational ready" DSRV on each coast, consistent with a crew sailing from Virginia. The host is still vetting the case. He is trying to identify Mark and the lieutenant commander and to find the sketches, since Bell has died, and is working with high-profile naval officials.
+Allowing ±20% on Mark's distance, Gerb searches a radius of up to 345 statute miles from Aberdeen. The only water deep enough lies almost due west: the Rockall Trough, east of the Rockall Plateau, which exceeds 8,000 feet. Nuclear Regulatory Commission emails from the 2011 Japanese tsunami confirm that the Navy kept a "very operational ready" DSRV on each coast, consistent with a crew sailing from Virginia. Gerb is still vetting the case. He is trying to identify Mark and the lieutenant commander and to find the sketches, since Bell has died, and is working with high-profile naval officials.
 
 ::wiki-grid{cols=2}
 ::wiki-panel{title="An acknowledged DSRV"}
 Mystic and Avalon were rated to just over a mile, short of the 1.5-mile dive, and were built to mate with stranded submarines and transfer crews. Marine Corps divers aboard would also have been unusual.
 ::
-::wiki-panel{title="The host's view: an unacknowledged DSSV" tone="accent"}
-The DSSP planned search vehicles rated to 20,000 feet, with better seafloor navigation and object retrieval, that were never officially built. Mark's mechanical arms and rigging fit that role better, and the host suspects such a vehicle was built in secret.
+::wiki-panel{title="Gerb's view: an unacknowledged DSSV" tone="accent"}
+The DSSP planned search vehicles rated to 20,000 feet, with better seafloor navigation and object retrieval, that were never officially built. Mark's mechanical arms and rigging fit that role better, and Gerb suspects such a vehicle was built in secret.
 ::
 ::
 
-The host also links the case to three others. The geometric markings recall the hieroglyphic-style band that witnesses described on the acorn-shaped Kecksburg craft, and the characters [[Daniel Sheehan]] says he saw on a crashed saucer in classified Project Blue Book files. The triangle shape, which the host usually attributes to human-built [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]] such as the [[TR-3B]], here recalls the alleged Majestic-12 Special Operations Manual (SOM1-01). That document describes triangular craft as very new and rare in the early 1950s, and the archaeologist's estimate puts the crash between 1951 and 1961. The radioactive signature fits Sand Dollar's interest in nuclear-emitting objects. The only other undersea retrieval the host can name is Shag Harbour in 1967, where Navy divers are said to have taken over.
+Gerb also links the case to three others. The geometric markings recall the hieroglyphic-style band that witnesses described on the acorn-shaped Kecksburg craft, and the characters [[Daniel Sheehan]] says he saw on a crashed saucer in classified Project Blue Book files. The triangle shape, which Gerb usually attributes to human-built [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]] such as the [[TR-3B]], here recalls the alleged Majestic-12 Special Operations Manual (SOM1-01). That document describes triangular craft as very new and rare in the early 1950s, and the archaeologist's estimate puts the crash between 1951 and 1961. The radioactive signature fits Sand Dollar's interest in nuclear-emitting objects. The only other undersea retrieval Gerb can name is Shag Harbour in 1967, where Navy divers are said to have taken over.
 
 ## Craft Held at Naval Installations
 
-If Sharp's sources are right, recovered craft are stored at naval and ONR sites before exploitation. The host reviews reported cases, chiefly from Leonard Stringfield's *UFO Crash/Retrieval Status Reports*, which he considers the best crash-retrieval work by any investigator. He sets aside [[China Lake Naval Air Weapons Station|China Lake]] and [[Randy Anderson]]'s account of NSWC Crane, which he has covered before.
+If Sharp's sources are right, recovered craft are stored at naval and ONR sites before exploitation. Gerb reviews reported cases, chiefly from Leonard Stringfield's *UFO Crash/Retrieval Status Reports*, which he considers the best crash-retrieval work by any investigator. He sets aside [[China Lake Naval Air Weapons Station|China Lake]] and [[Randy Anderson]]'s account of NSWC Crane, which he has covered before.
 
 ::wiki-grid{cols=3}
 ::wiki-panel{title="NAS Sunnyvale, California, 1952"}
 CPO radar observer Derward "Buddy" Hack walked through the door of a briefly unguarded hangar and saw a massive saucer with rows of windows. Returning guards forced him out and threatened him. His family, including his mother, confirmed the story to Stringfield after a 1978 tip: "It was certainly no aircraft of ours."
 ::
 ::wiki-panel{title="NAS Brunswick, Maine, 1956"}
-A retired Air Force colonel, via a 1979 letter from Joan Jeffers, said Major Lester Goldberg showed a commander's call a film of a grounded silvery disc with a well-lit, smooth-walled interior and at least three short, grey, hairless bodies on tables. The host notes that a Major Lester Goldberg did serve at Brunswick then.
+A retired Air Force colonel, via a 1979 letter from Joan Jeffers, said Major Lester Goldberg showed a commander's call a film of a grounded silvery disc with a well-lit, smooth-walled interior and at least three short, grey, hairless bodies on tables. Gerb notes that a Major Lester Goldberg did serve at Brunswick then.
 ::
 ::wiki-panel{title="Naval Air Base Yuma, Arizona, 1967"}
-Former Marine "Pete" said he photographed a saucer at the base, now [[MCAS Yuma]]. Letters to Stringfield were apparently intercepted, the brothers were approached by an agency, and the lead died. The host calls it "a massive dead end".
+Former Marine "Pete" said he photographed a saucer at the base, now [[MCAS Yuma]]. Letters to Stringfield were apparently intercepted, the brothers were approached by an agency, and the lead died. Gerb calls it "a massive dead end".
 ::
 ::wiki-panel{title="Great Lakes Naval Base, Illinois, 1973" tone="accent"}
 Gunnery instructor RK, guarding a Quonset hut, saw a 30 ft, light silvery-blue, windowless teardrop with a flange along its top on a wooden platform. A San Diego sailor had told him weeks earlier that the craft was shot down between Hawaii and the mainland and recovered by the Glomar Explorer.
@@ -678,22 +717,50 @@ Air Force veteran Steven Walker described a lockdown for a classified arrival th
 ::
 ::
 
-The host treats **Great Lakes** as the most fruitful case (Status Report III, case A7). RK, whose real name the host knows and is vetting, told Stringfield on 14 July 1980 that in September 1973 an officer had him deliver a sealed envelope inside a hut that he had orders to keep everyone 100 yards away from. The sailor's story, with a sketch that matched, was this. A destroyer tracked a UFO that made three close passes and one direct overflight. A lucky hit brought it down into about 350 feet of water. The Glomar Explorer raised it and shipped it to Hawaii, then stateside, then Chicago. ONR's Chicago office sits less than 40 miles from Great Lakes. If true, the host says, NURO's ship shot down and recovered a craft and delivered it to an ONR location, exactly the pipeline Sharp's sources described in 2024. He adds that Inman learned of the Glomar's activities in Hawaii in 1972–1974. Stringfield published the case in the 1980s, when the Glomar's links to NURO were barely known.
+Gerb treats **Great Lakes** as the most fruitful case (Status Report III, case A7). RK, whose real name Gerb knows and is vetting, told Stringfield on 14 July 1980 that in September 1973 an officer had him deliver a sealed envelope inside a hut that he had orders to keep everyone 100 yards away from. Weeks earlier, a sailor in San Diego had told him a story, with a sketch that matched what he then saw: a destroyer tracked a UFO that made three close passes and one direct overflight, and in June 1973 a lucky hit brought it down into about 350 feet of water.
 
-Other testimony points the same way. In 1994 former New Mexico state representative [[Andrew Kissner]] said sources at White Sands and the Naval Research Laboratory told him that discs recovered in 1947 went into the custody of the [[Atomic Energy Commission]]. National laboratories such as [[Los Alamos National Laboratory|Los Alamos]], [[Sandia National Laboratories|Sandia]], [[RAND Corporation|RAND]] and [[MITRE Corporation|MITRE]] studied them. According to those sources, a 1948 Truman executive order made the NSC the programs' coordinator, supported by Air Force Systems Command, Vannevar Bush's Research and Development Board and the Naval Research Laboratory. The host also cites [[Richard Sauder]]'s research on deep underwater military bases, and the Navy's test ranges at the Atlantic Undersea Test and Evaluation Center on Andros Island and the Pacific Missile Range Facility in Hawaii.
+::wiki-chain{video="H9GSqOEvoBE" video-title="US Navy UFO Crash Retrieval & Reverse Engineering Programs"}
+---
+kind: custody
+caption: "Where the San Diego sailor told RK the craft went, from Stringfield's case A7. The sailor's account ends at Chicago; RK saw the craft at Great Lakes, which Gerb notes is less than 40 miles from the Office of Naval Research's Chicago department."
+steps:
+  - text: "The Pacific, between Hawaii and the mainland"
+    date: "1973-06"
+    note: "Shot down by the Navy after a destroyer tracked it; it fell into about 350 ft of water."
+    cue: 4733
+  - via: "Raised from the seabed"
+    text: "Hughes Glomar Explorer"
+    note: "The CIA's recovery ship, which Gerb treats as a NURO asset."
+    cue: 4761
+  - via: "Shipped"
+    text: "Hawaii"
+  - via: "Sent stateside"
+    text: "Chicago"
+    cue: 4766
+  - via: "Seen by RK"
+    text: "Great Lakes Naval Base, Illinois"
+    date: "1973-09"
+    note: "A 30 ft, light silvery-blue teardrop on a wooden platform in a guarded Quonset hut."
+    cue: 4678
+---
+::
+
+If true, Gerb says, NURO's ship shot down and recovered a craft and delivered it to an ONR location, exactly the pipeline Sharp's sources described in 2024. He adds that Inman learned of the Glomar's activities in Hawaii in 1972–1974. Stringfield published the case in the 1980s, when the Glomar's links to NURO were barely known.
+
+Other testimony points the same way. In 1994 former New Mexico state representative [[Andrew Kissner]] said sources at White Sands and the Naval Research Laboratory told him that discs recovered in 1947 went into the custody of the [[Atomic Energy Commission]]. National laboratories such as [[Los Alamos National Laboratory|Los Alamos]], [[Sandia National Laboratories|Sandia]], [[RAND Corporation|RAND]] and [[MITRE Corporation|MITRE]] studied them. According to those sources, a 1948 Truman executive order made the NSC the programs' coordinator, supported by Air Force Systems Command, Vannevar Bush's Research and Development Board and the Naval Research Laboratory. Gerb also cites [[Richard Sauder]]'s research on deep underwater military bases, and the Navy's test ranges at the Atlantic Undersea Test and Evaluation Center on Andros Island and the Pacific Missile Range Facility in Hawaii.
 
 ## Woods Hole Oceanographic Institution
 
-Woods Hole is a non-profit marine science and engineering institution that builds ocean battlespace sensors, unmanned undersea vehicles and acoustic navigation systems for the Navy. Its fleet includes the three-person submersible *Alvin*, the AUV *Sentry*, rated to nearly 20,000 feet, and the *Deepsea Challenger* used by James Cameron. In 1985 a classified Navy mission to inspect the wrecks of the USS Thresher and USS Scorpion, at 10,000 to 15,000 feet, found the RMS Titanic, and the team and vessel that found it came from Woods Hole. The host adds several links. William Webster, a Woods Hole trustee, also sat on the AEC's Military Liaison Committee in 1948–49 and was a member of the MIT Corporation and a RAND trustee. Woods Hole manages the Navy Oceanographic Research Laboratory, now part of the Naval Research Laboratory, which was formed by a Federal Contract Research Center, the forerunner of the FFRDC. It runs ONR projects such as Project Sundance. Since 2002 it has received more than $3.4 billion in federal awards, including sole-source contracts from NSWC, which the host notes [[Eric Davis]] has described as a tool of legacy-program compartmentalization, and R&D contracts with SAIC and NSWC Crane's weapons systems division.
+Woods Hole is a non-profit marine science and engineering institution that builds ocean battlespace sensors, unmanned undersea vehicles and acoustic navigation systems for the Navy. Its fleet includes the three-person submersible *Alvin*, the AUV *Sentry*, rated to nearly 20,000 feet, and the *Deepsea Challenger* used by James Cameron. In 1985 a classified Navy mission to inspect the wrecks of the USS Thresher and USS Scorpion, at 10,000 to 15,000 feet, found the RMS Titanic, and the team and vessel that found it came from Woods Hole. Gerb adds several links. William Webster, a Woods Hole trustee, also sat on the AEC's Military Liaison Committee in 1948–49 and was a member of the MIT Corporation and a RAND trustee. Woods Hole manages the Navy Oceanographic Research Laboratory, now part of the Naval Research Laboratory, which was formed by a Federal Contract Research Center, the forerunner of the FFRDC. It runs ONR projects such as Project Sundance. Since 2002 it has received more than $3.4 billion in federal awards, including sole-source contracts from NSWC, which Gerb notes [[Eric Davis]] has described as a tool of legacy-program compartmentalization, and R&D contracts with SAIC and NSWC Crane's weapons systems division.
 
 ## The Navy Special Program
 
-The host ends on an office he considers the likely home of naval retrieval work. Richelson's "Special Navy Control Program" resembles the **Navy Special Program** (NSP), a real Navy Special Program Office that serves as an umbrella control system for clandestine undersea operations. His paper trail runs as follows:
+Gerb ends on an office he considers the likely home of naval retrieval work. Richelson's "Special Navy Control Program" resembles the **Navy Special Program** (NSP), a real Navy Special Program Office that serves as an umbrella control system for clandestine undersea operations. His paper trail runs as follows:
 
-- A **1974** omnibus NSC intelligence directive lists the NSP beside the National Reconnaissance Program, the funding line for the NRO, which was not declassified until 1992. The host reads the pairing as deliberate obfuscation.
+- A **1974** omnibus NSC intelligence directive lists the NSP beside the National Reconnaissance Program, the funding line for the NRO, which was not declassified until 1992. Gerb reads the pairing as deliberate obfuscation.
 - A **29 October 1974** CIA memo on clearances held by NSC Intelligence Committee working-group members discusses programs overlapping "compartmented areas" of the NSP, with read-on requests for a redacted name and CIA officer Richard Ober.
-- An **11 December 1975** memo for the Deputy Director of Central Intelligence shows the NSP running parallel to the National Reconnaissance Program under the Executive Committee for the DCI and the Assistant Secretary of Defense for Intelligence, as an intelligence-collection program. The host suggests someone ask former ASD(I) [[Chris Mellon]] about it.
-- A **14 December 1984** memo to Director of Naval Intelligence Rear Admiral John Butts mentions a letter from Navy Secretary John Lehman, whom the host identifies as a NURO director, on the NSP. It suggests adding a representative of Heinman's department to a redacted ad hoc requirements committee.
+- An **11 December 1975** memo for the Deputy Director of Central Intelligence shows the NSP running parallel to the National Reconnaissance Program under the Executive Committee for the DCI and the Assistant Secretary of Defense for Intelligence, as an intelligence-collection program. Gerb suggests someone ask former ASD(I) [[Chris Mellon]] about it.
+- A **14 December 1984** memo to Director of Naval Intelligence Rear Admiral John Butts mentions a letter from Navy Secretary John Lehman, whom Gerb identifies as a NURO director, on the NSP. It suggests adding a representative of Heinman's department to a redacted ad hoc requirements committee.
 - On **26 May 2023**, the Navy Special Program Central Office was still requesting approval for special access program facilities.
 
 ::wiki-org-chart
@@ -712,7 +779,7 @@ root:
       note: "An umbrella office for the Navy's clandestine undersea operations."
       children:
         - name: National Underwater Reconnaissance Office
-          label: "Hidden inside, per the host"
+          label: "Hidden inside, per Gerb"
           note: "NURO's activity ramps up from 1969 through the 1970s, the period of these memos."
           children:
             - name: Project Azorian
@@ -727,21 +794,21 @@ root:
 ---
 ::
 
-The host argues that a program retrieving anomalous craft alongside NURO and sending them to ONR would be compartmented under the NSP, and probably still is. That would explain why Rear Admiral Timothy Gallaudet, who told Congress he knew of testimony about naval programs, was never briefed on them.
+Gerb argues that a program retrieving anomalous craft alongside NURO and sending them to ONR would be compartmented under the NSP, and probably still is. That would explain why Rear Admiral Timothy Gallaudet, who told Congress he knew of testimony about naval programs, was never briefed on them.
 
 ### Project Palladium and the MJ-12 documents
 
-[[Project Palladium]] was a 1960s CIA program, run with ships, submarines, radar reflectors and jamming, that filled Soviet radars with false targets to gauge their capabilities. It was led by Samuel Eugene "Gene" Poteat, a senior CIA scientific intelligence officer who also served at the NRO, as technical director of the Navy's Special Programs Office, and as executive director of the Intelligence Research and Development Council. Palladium matters here because of the [[MJ-12 Documents|Majestic-12 documents]]. A memo dated 28 June 1961, which Ryan and [[Robert Wood]] rate as moderate-to-high confidence, has [[John F. Kennedy]] asking CIA director Allen Dulles for a "review of MJ12 intelligence operations as they relate to Cold War psychological warfare plans". Dulles did meet Kennedy twice that day. An "Operation Review" of the MJ-12 project, rated medium confidence and allegedly written by Dulles on 5 November 1961, describes the CIA mapping Soviet air defenses with airborne countermeasures and balloon decoys to learn how they perceived UFOs. Researchers argue these plans are Palladium, which got its name in 1962 and which, per Poteat, only six people knew about in the 1960s. It was first discussed, in classified form, in a 1998 CIA journal article by Poteat. Its appearance in documents given to Jaime Shandera in 1984 therefore implies, in the host's view, that their author knew of or took part in Palladium.
+[[Project Palladium]] was a 1960s CIA program, run with ships, submarines, radar reflectors and jamming, that filled Soviet radars with false targets to gauge their capabilities. It was led by Samuel Eugene "Gene" Poteat, a senior CIA scientific intelligence officer who also served at the NRO, as technical director of the Navy's Special Programs Office, and as executive director of the Intelligence Research and Development Council. Palladium matters here because of the [[MJ-12 Documents|Majestic-12 documents]]. A memo dated 28 June 1961, which Ryan and [[Robert Wood]] rate as moderate-to-high confidence, has [[John F. Kennedy]] asking CIA director Allen Dulles for a "review of MJ12 intelligence operations as they relate to Cold War psychological warfare plans". Dulles did meet Kennedy twice that day. An "Operation Review" of the MJ-12 project, rated medium confidence and allegedly written by Dulles on 5 November 1961, describes the CIA mapping Soviet air defenses with airborne countermeasures and balloon decoys to learn how they perceived UFOs. Researchers argue these plans are Palladium, which got its name in 1962 and which, per Poteat, only six people knew about in the 1960s. It was first discussed, in classified form, in a 1998 CIA journal article by Poteat. Its appearance in documents given to Jaime Shandera in 1984 therefore implies, in Gerb's view, that their author knew of or took part in Palladium.
 
-The host has also contacted former NSP personnel, whose identities he protects: a diver who served three years in the NSP with Mobile Diving and Salvage Unit One; "Mr. PR", eight years a project lead for the NSP office and SOCOM's acquisition program office; and "Mr. WH", two years the Office of Naval Intelligence's chief information security officer for the NSP. He notes that SOCOM declared operational capability with Lockheed Martin's dry submersible in 2023, the craft Sharp tied to undersea retrievals.
+Gerb has also contacted former NSP personnel, whose identities he protects: a diver who served three years in the NSP with Mobile Diving and Salvage Unit One; "Mr. PR", eight years a project lead for the NSP office and SOCOM's acquisition program office; and "Mr. WH", two years the Office of Naval Intelligence's chief information security officer for the NSP. He notes that SOCOM declared operational capability with Lockheed Martin's dry submersible in 2023, the craft Sharp tied to undersea retrievals.
 
 ## Following the Money
 
-The host notes that he has barely begun on how naval legacy work is funded. He recalls a witness, Ed, who described an Edwards Air Force Base–Nevada Test and Training Range reverse-engineering program. Ed said $34 billion and $40 billion vanished in two separate years through unauthorized transfers of authority, and he later worked as an F-35 subject-matter expert on a program whose budget runs to about $2 trillion. In 1985 a House Government Operations Committee investigator found the Navy paying Grumman Aerospace $660 each for E-2C Hawkeye ashtrays (and $954 years earlier), $400 for F-14 seat socket wrenches, and $2,710 for ground locks that had cost $102 in 1982. Defense Secretary Weinberger removed three officers before any investigation, and Grumman blamed small production runs. The resulting probes found profits of over $753 million (29.7%) on aircraft-carrier contracts and over $96 million (22%) on a single Trident submarine. The host wagers that such excess was siphoned from legitimate contracts to fund clandestine retrieval and exploitation programs, noting that he has implicated Grumman before its merger with Northrop.
+Gerb notes that he has barely begun on how naval legacy work is funded. He recalls a witness, Ed, who described an Edwards Air Force Base–Nevada Test and Training Range reverse-engineering program. Ed said $34 billion and $40 billion vanished in two separate years through unauthorized transfers of authority, and he later worked as an F-35 subject-matter expert on a program whose budget runs to about $2 trillion. In 1985 a House Government Operations Committee investigator found the Navy paying Grumman Aerospace $660 each for E-2C Hawkeye ashtrays (and $954 years earlier), $400 for F-14 seat socket wrenches, and $2,710 for ground locks that had cost $102 in 1982. Defense Secretary Weinberger removed three officers before any investigation, and Grumman blamed small production runs. The resulting probes found profits of over $753 million (29.7%) on aircraft-carrier contracts and over $96 million (22%) on a single Trident submarine. Gerb wagers that such excess was siphoned from legitimate contracts to fund clandestine retrieval and exploitation programs, noting that he has implicated Grumman before its merger with Northrop.
 
 ## Open Questions
 
-In closing, the host lists what he wants to pursue:
+In closing, Gerb lists what he wants to pursue:
 
 - **Why the Navy is the most secretive.** Is it the weapons, such as the gauntlet and orb in the Randy Anderson case? ONR as a staging point for craft? The value of trans-medium capability? Or possible undersea bases?
 - **Why NURO is never named.** The CIA, DIA, NSA, NRO and NGA are the "big five" intelligence agencies, but NURO, which the video shows exists, is never listed.
@@ -783,7 +850,7 @@ entries:
 
 ## Key Claims
 
-- The host theorises that US Navy UFO legacy programs perform four functions (monitor, collect, store and exploit), run through ONR and ONI with SOCOM, NURO, the Navy Special Program, naval stations such as NAWC China Lake and NSWC Crane, and contractors and FFRDCs such as Lockheed Martin.
+- Gerb theorises that US Navy UFO legacy programs perform four functions (monitor, collect, store and exploit), run through ONR and ONI with SOCOM, NURO, the Navy Special Program, naval stations such as NAWC China Lake and NSWC Crane, and contractors and FFRDCs such as Lockheed Martin.
 - Christopher Sharp's sources allege that undersea retrievals involve the CIA's Directorate of Operations, NURO, SOCOM and Woods Hole submersibles, and that recovered craft go to the Office of Naval Research and then to defense contractors. Sharp removed and then restored these details, citing threats.
 - NURO, founded in 1969 by agreement between the CIA and the Navy, is described by the Association of Former Intelligence Officers as an entire agency protected by a special access program. Bobby Ray Inman says he directed it from 13 September 1974.
 - In 1989 Inman told Bob Echler that the US held craft in operational condition and referred him to CIA DS&T deputy director Everett Heinman, who denied any knowledge.
@@ -793,9 +860,9 @@ entries:
 - John P. Craven's Deep Submergence Systems Project and its DSRVs were, in his own words, built to be available for classified intelligence missions. Sand Dollar, nested inside the Polaris program, recovered objects of interest from seafloors worldwide.
 - A DSRV crew allegedly recovered a seamless, charcoal-grey triangular craft, 68 to 70 feet long and marked with repeating geometric characters, from just under 1.5 miles deep about 250 nautical miles from Aberdeen in 1991. It had lain there an estimated 30 to 40 years and rose far faster than expected.
 - A Navy destroyer allegedly shot down a UFO between Hawaii and the mainland in June 1973. The Glomar Explorer reportedly recovered it, and the craft was seen that September in a Quonset hut at Great Lakes Naval Base.
-- The host argues that NURO and naval retrieval work are compartmented within the Navy Special Program, which 1970s memos place beside the National Reconnaissance Program and which was still active in 2023.
-- Project Palladium's apparent appearance in Majestic-12 documents surfaced by 1984 implies, the host argues, an author with inside knowledge, since Palladium was not discussed until 1998.
-- The host wagers that the Navy's 1985 procurement overcharges may have hidden funding for clandestine retrieval programs, and says several sources call the Navy's programs the most secretive of any service.
+- Gerb argues that NURO and naval retrieval work are compartmented within the Navy Special Program, which 1970s memos place beside the National Reconnaissance Program and which was still active in 2023.
+- Project Palladium's apparent appearance in Majestic-12 documents surfaced by 1984 implies, Gerb argues, an author with inside knowledge, since Palladium was not discussed until 1998.
+- Gerb wagers that the Navy's 1985 procurement overcharges may have hidden funding for clandestine retrieval programs, and says several sources call the Navy's programs the most secretive of any service.
 
 ## Sources
 

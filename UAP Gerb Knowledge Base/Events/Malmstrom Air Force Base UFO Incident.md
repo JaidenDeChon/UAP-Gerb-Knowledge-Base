@@ -21,16 +21,18 @@ The following morning, squadron commander Colonel George Eldridge briefed Salas 
 
 Four Malmstrom Air Force Base personnel later submitted sworn affidavits on record:
 
-- First Lieutenant Robert Salas (2010 affidavit)
-- First Lieutenant Robert C. Jameson
-- Airman First Class Patrick McDonah (FSC communications officer)
-- Dwin C. Arneson (officer in charge of communications)
+- First Lieutenant [[Robert Salas]], the on-duty launch officer (2010 affidavit)
+- Robert Jamison, then a first lieutenant and Minuteman missile targeting officer
+- Patrick McDonough, then an airman first class
+- Dwynne Arneson, then the officer in charge of the base communications centre
 
-David Grusch cited the Malmstrom incident as a confirmed fact in his NewsNation interview with Ross Coulthart.
+Gerb's video renders these three names as "Robert C. Jameson", "Patrick McDonah" and "Dwin C. Arneson".
+
+According to Gerb, [[David Grusch]] directly confirmed the Malmstrom incident as fact in his NewsNation interview with [[Ross Coulthart]].
 
 ## Significance
 
-The simultaneous failure of 10 nuclear missiles during the presence of a craft that security personnel witnessed is interpreted by researchers as evidence that UFOs are capable of remotely disabling nuclear weapons systems. The case directly contradicted [[Project Blue Book]]'s 1969 public conclusion that UFOs posed no national security threat. The Malmstrom incident is frequently paired with the [[Vandenberg Air Force Base UFO Film Incident]] (1964) as a dual anchor point in the broader pattern of [[UFO-Nuclear Connection|UFO nuclear interference]].
+The simultaneous failure of 10 nuclear missiles during the presence of a craft that security personnel witnessed is interpreted by researchers as evidence that UFOs are capable of remotely disabling nuclear weapons systems. The case directly contradicted [[Project Blue Book]]'s 1969 public conclusion that UFOs posed no national security threat. Gerb pairs the Malmstrom incident with the [[Vandenberg Air Force Base UFO Film Incident]] (1964), and sets both beside the [[1984 Indian Point UFO Incident]] at a nuclear power plant, as anchor points in the broader pattern of [[UFO-Nuclear Connection|UFO nuclear interference]].
 
 ## Sources
 

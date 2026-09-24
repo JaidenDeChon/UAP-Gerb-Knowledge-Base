@@ -2,8 +2,8 @@
 title: "Global Air Force UFO Encounters You've Probably Never Heard of"
 video_id: 6cVe-hdMTCE
 url: https://www.youtube.com/watch?v=6cVe-hdMTCE
-date: NA
-duration_seconds: 0
+date: 2024-02-02
+duration_seconds: 858
 channel: UAP Gerb
 tags:
   - transcript

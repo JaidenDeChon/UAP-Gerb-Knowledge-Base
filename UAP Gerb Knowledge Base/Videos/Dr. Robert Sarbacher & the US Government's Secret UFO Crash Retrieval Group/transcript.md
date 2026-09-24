@@ -2,8 +2,8 @@
 title: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group"
 video_id: R7DyJRf14nU
 url: https://www.youtube.com/watch?v=R7DyJRf14nU
-date: NA
-duration_seconds: 0
+date: 2024-04-08
+duration_seconds: 1361
 channel: UAP Gerb
 tags:
   - transcript

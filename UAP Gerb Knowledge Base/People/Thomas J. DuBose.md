@@ -1,6 +1,7 @@
 ---
 name: "Thomas J. DuBose"
 role: "U.S. Air Force colonel; Roswell-era staff officer"
+wikipedia: "Thomas DuBose"
 tags:
   - person
 ---

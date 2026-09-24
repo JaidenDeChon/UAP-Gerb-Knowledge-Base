@@ -1,6 +1,7 @@
 ---
 name: "Bill Perry"
 role: "U.S. Secretary of Defense (1994-1997)"
+wikipedia: "William J. Perry"
 tags:
   - person
   - government

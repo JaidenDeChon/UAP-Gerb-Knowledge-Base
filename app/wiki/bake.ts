@@ -1,6 +1,7 @@
 // Relative rather than the `#shared` alias — see the note in ./graph.ts.
-import type { BakedPreview, WikiData } from '../shared/types/wiki'
+import type { BakedPortraits, BakedPreview, WikiData } from '../shared/types/wiki'
 import { graphIndex } from './graph'
+import { loadPortraits } from './portraits'
 import { buildPreviews } from './preview'
 import { buildTree } from './tree'
 import { buildVideos } from './videos'
@@ -19,7 +20,7 @@ import { buildVideos } from './videos'
  * `graph.nodes`. Keying by path costs ~600 KB of duplicated strings.
  */
 export function bakeWikiData(): WikiData {
-  const { payload, linkMap, nodeByPath } = graphIndex()
+  const { payload, linkMap, nodeByPath, stemByPath } = graphIndex()
 
   const indexOf = (path: string): number | undefined => nodeByPath.get(path)?.i
   const toIndices = (paths: string[]): number[] =>
@@ -44,7 +45,23 @@ export function bakeWikiData(): WikiData {
     }
   })
 
-  return { tree: buildTree(), graph: payload, links: { outgoing, backlinks }, previews, videos: buildVideos() }
+  // Sparse: only the handful of notes (Locations) that carry coordinates.
+  const geo: Record<number, [number, number]> = {}
+  payload.nodes.forEach((node) => {
+    const coordinates = byPath[node.p]?.coordinates
+    if (coordinates) geo[node.i] = coordinates
+  })
+
+  // Sparse too: People notes with a portrait in wiki/people-images.json.
+  const byStem = loadPortraits()
+  const portraits: BakedPortraits = {}
+  payload.nodes.forEach((node) => {
+    const stem = stemByPath.get(node.p)
+    const portrait = stem ? byStem[stem] : undefined
+    if (portrait) portraits[node.i] = portrait
+  })
+
+  return { tree: buildTree(), graph: payload, links: { outgoing, backlinks }, previews, videos: buildVideos(), geo, portraits }
 }
 
 /**
@@ -63,5 +80,7 @@ export function bakeWikiDataModule(): string {
     'export const links = data.links',
     'export const previews = data.previews',
     'export const videos = data.videos',
+    'export const geo = data.geo',
+    'export const portraits = data.portraits',
   ].join('\n')
 }

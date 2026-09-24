@@ -22,7 +22,7 @@ Despite such individual assessments, the report's final conclusion recommended t
 
 The Condon Committee has been widely criticized for bias and predetermined conclusions. Internal memos leaked to Look magazine in 1968 showed project coordinator Robert Low stating before the study began that the project's goal was to reassure the public that UFOs posed no threat, regardless of the evidence. Critics argue that the summary conclusions contradicted the detailed case studies, several of which acknowledged genuinely unexplained phenomena.
 
-The committee is referenced in UAP research as part of the broader institutional framework — alongside the [[Robertson Panel]] — for suppressing serious scientific engagement with UFOs. The host of UAP Gerb describes the committee as "allegedly directed to explain UFOs away as swamp gas and weather balloons" rather than conducting objective research.
+The committee is referenced in UAP research as part of the broader institutional framework — alongside the [[Robertson Panel]] — for suppressing serious scientific engagement with UFOs. Gerb describes the committee as "allegedly directed to explain UFOs away as swamp gas and weather balloons" rather than conducting objective research.
 
 ## Legacy
 

@@ -1,6 +1,7 @@
 ---
 name: "John Deutch"
 role: "Under Secretary of Defense for Acquisition and Technology (1993-1994); Deputy Secretary of Defense (1994-1995); Director of Central Intelligence (1995-1996)"
+wikipedia: "John M. Deutch"
 tags:
   - person
 ---
@@ -9,7 +10,7 @@ John M. Deutch is an American chemist and former senior national-security offici
 
 ## Alleged Role in UAP Programs
 
-In UAP Gerb's NRO investigation, Deutch is one of thirteen officials the host names as likely current or former members or gatekeepers of the UFO legacy programs. The case rests on the sequence of offices he held. He was in the acquisition under secretary's office (the "OUSD(A&T)" of the [[Wilson-Davis Memo]], where Vice Admiral [[Thomas Wilson]] allegedly later found legacy-program records) while [[Bill Perry]] reorganized special access program oversight in January 1994. As Deputy Secretary he then chaired the [[SAPOC (Special Access Program Oversight Committee)|Special Access Program Oversight Committee]] and its Senior Review Group, the body the memo says shielded the programs. Within months of becoming DCI he forced out the NRO's director and deputy director over the carryover funds, saying he had been unaware of the surplus. The host sees a possible conflict of interest in the same official overseeing both the SAP reorganization and the NRO fallout.
+In UAP Gerb's NRO investigation, Deutch is one of thirteen officials Gerb names as likely current or former members or gatekeepers of the UFO legacy programs. The case rests on the sequence of offices he held. He was in the acquisition under secretary's office (the "OUSD(A&T)" of the [[Wilson-Davis Memo]], where Vice Admiral [[Thomas Wilson]] allegedly later found legacy-program records) while [[Bill Perry]] reorganized special access program oversight in January 1994. As Deputy Secretary he then chaired the [[SAPOC (Special Access Program Oversight Committee)|Special Access Program Oversight Committee]] and its Senior Review Group, the body the memo says shielded the programs. Within months of becoming DCI he forced out the NRO's director and deputy director over the carryover funds, saying he had been unaware of the surplus. Gerb sees a possible conflict of interest in the same official overseeing both the SAP reorganization and the NRO fallout.
 
 ## Sources
 

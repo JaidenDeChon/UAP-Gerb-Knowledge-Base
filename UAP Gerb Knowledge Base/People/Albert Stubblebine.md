@@ -1,6 +1,7 @@
 ---
 name: "Albert Stubblebine"
 role: "Major General, US Army; Commanding General, US Army Intelligence and Security Command (INSCOM)"
+wikipedia: "Albert Stubblebine"
 tags:
   - person
 ---

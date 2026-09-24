@@ -19,7 +19,7 @@ The encounter was tracked by FAA FPS-117 long-range 3D phased array radar system
 
 ## Physics Analysis
 
-New York University physics professor [[Kevin Knuth]] published an academic paper — *Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles* — that modeled the force profiles experienced by the craft during its circular orbital maneuvers around flight 1628. His calculations found:
+Physicist [[Kevin Knuth]] of the University at Albany (whom Gerb introduces as a New York University professor), with Robert M. Powell and Peter Reali, published a 2019 paper in the journal *Entropy* — *Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles* — that modeled the force profiles experienced by the craft during its circular orbital maneuvers around flight 1628. Their calculations found:
 
 - If the craft traversed the full diameter of its circular orbit, it experienced **68 ± 7 Gs** of force.
 - If moving along the circular path (centripetal acceleration), the craft experienced **84 ± 8 Gs** — sustained for 31 minutes.
@@ -28,7 +28,7 @@ For comparison, 9 Gs sustained for even one minute represents the physiological 
 
 ## Official Response and Debunking
 
-Aviation Week and Space Technology magazine promoted the explanation that the crew had witnessed the planets Mars and Jupiter. [[J. Allen Hynek]], former scientific adviser to [[Project Blue Book]], cited this type of dismissal as emblematic of the institutionalized pressure to debunk credible UAP reports. The Japan Airlines incident is frequently cited as an example where compelling physical and radar evidence was explained away through implausible official channels.
+Aviation Week and Space Technology magazine promoted the explanation that the crew had witnessed the planets Mars and Jupiter. Gerb calls the case severely underrated and rejects that explanation, pointing to the radar track and the modelled G-forces. He also ties it to [[J. Allen Hynek]]'s charge that the Air Force deliberately explained interesting cases away as balloons or planets: Hynek, the former scientific adviser to [[Project Blue Book]], had died in April 1986, months before the sighting, but Gerb offers the Mars-and-Jupiter explanation as an example of the pattern Hynek described. The Japan Airlines incident is frequently cited as an example where compelling physical and radar evidence was explained away through implausible official channels.
 
 ## Sources
 

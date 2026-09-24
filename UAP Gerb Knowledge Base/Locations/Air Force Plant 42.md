@@ -1,5 +1,6 @@
 ---
 name: "Air Force Plant 42"
+coordinates: [34.6286, -118.0844]
 tags:
   - location
 ---

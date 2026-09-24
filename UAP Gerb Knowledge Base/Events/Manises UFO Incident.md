@@ -5,38 +5,33 @@ tags:
   - event
 ---
 
-The Manises UFO Incident of November 11, 1979, is considered the first recorded case in aviation history of a commercial flight being grounded due to a UFO encounter. The incident involved [[TAE (Trabajos Aéreos y Enlaces)|TAE]] flight JK 297, a Spanish commercial airliner forced to make an emergency landing, and a subsequent Spanish Air Force military intercept that resulted in documented avionics jamming. The case is regarded as one of Spain's most significant UFO encounters and involved multiple credible witnesses, radar returns, and sensor data.
+The Manises UFO Incident (also called the Manises case or the Super Caravelle case) took place over the Valencia region of Spain on the night of 11–12 November 1979. [[TAE (Trabajos Aéreos y Enlaces)|TAE]] flight JK 297, a Super Caravelle carrying 109 passengers, diverted to [[Manises Airport, Valencia, Spain|Manises Airport]] in Valencia after two red lights closed on it over the Mediterranean, and a Spanish Air Force Mirage F1 was then scrambled to chase the lights. It is Spain's best-known UFO case and is generally described as the first time a commercial airliner was grounded because of a UFO.
 
-## The Commercial Flight Encounter
+## The commercial flight
 
-On November 11, 1979, [[TAE (Trabajos Aéreos y Enlaces)|TAE]] flight JK 297 departed [[Mallorca, Spain|Mallorca]] after a refueling stop on its route from [[Salzburg, Austria|Salzburg]], Austria to [[Las Palmas, Spain|Las Palmas]]. The Super Caravelle aircraft carried 109 passengers and was crewed by Captain [[Javier Leo de Taha]], co-pilot [[Jose Ramon Zarazua Ingore]], and flight mechanic [[Francisco Javier Rodriguez]].
+TAE flight JK 297 was flying from [[Salzburg, Austria|Salzburg]] to [[Las Palmas, Spain|Las Palmas]] and left [[Mallorca, Spain|Mallorca]] after a refuelling stop at about 22:47. In the cockpit were Captain [[Francisco Javier Lerdo de Tejada]], co-pilot [[José Ramón Zuazu]] and flight mechanic [[Francisco Javier Rodriguez]]. At about 23:05, cruising near 23,000 feet over the Mediterranean, Rodriguez warned the crew of two powerful red lights ahead and to the left. [[Barcelona Air Traffic Control]] reported no other aircraft on or near the flight path. As the lights closed, the crew made them out as two strong light sources with no visible solid body.
 
-At approximately 23:05 hours while cruising over the [[Mediterranean Sea]] at 23,000 feet, Rodriguez alerted the crew to two powerful red lights visible to the front left of the aircraft. Captain Javier contacted [[Barcelona Air Traffic Control]], which confirmed no other aircraft were operating on or near their flight path. The crew observed the lights as two powerful sources with no visible solid body attached.
+When the captain changed altitude to avoid a collision, the lights, by the crew's account, mirrored the aircraft's new trajectory and kept between half a mile and five miles away. Judging that flying on near an unidentified object broke every rule of air safety, and that he could not take evasive action in a collision, Lerdo de Tejada abandoned the route and made an emergency landing at Manises.
 
-When Captain Javier changed altitude to avoid collision, the objects mirrored the aircraft's trajectory and maintained a distance of between half a mile to 5 miles. Unable to identify or evade the objects, and recognizing that continued flight would violate aerial safety rules, Captain Javier aborted the flight path and performed an emergency landing at [[Manises Airport, Valencia, Spain|Manises Airport]] in Valencia. Just prior to landing, the crew detected three additional UFO radar signatures, each estimated at approximately 200 meters in diameter. These lights were independently witnessed by airport personnel and Marines stationed at the nearby [[Manises Air Force Base, Spain|Manises Air Force Base]].
+Just before the landing the crew detected three new signals on radar, each estimated at about 200 metres across. The lights were also seen by Manises airport staff and by military personnel at the neighbouring [[Manises Air Force Base, Spain|Manises air base]], whom the video describes as Marines. When one of the signatures passed close to the runways, ground crew lit the emergency lights in case it was an aircraft in trouble.
 
-## The Military Intercept
+## The Mirage F1 intercept
 
-At 04:00 hours, Spanish Air Force pilot [[Fernando Kamaro]] was scrambled from [[Los Llanos Airbase, Spain|Los Llanos Airbase]] in a Mirage F1 fighter jet to identify and intercept the UFOs. Over approximately 90 minutes, Kamaro reached Mach 1.4 (1,074 mph) to make visual contact with an object he described as a truncated cone shape with bright, changing colors. Despite supersonic speeds, the object repeatedly evaded intercept.
+At about 00:40 on 12 November, Captain [[Fernando Cámara]] of the Spanish Air Force took off from [[Los Llanos Airbase, Spain|Los Llanos Air Base]], near Albacete, in a Mirage F1. He had to reach Mach 1.4 (1,074 mph) just to gain visual contact with an object he described as a truncated cone of bright, changing colour, which then vanished from sight. Told of a new radar echo suggesting a second object near [[Sagunto, Spain|Sagunto]], he flew several pursuit vectors over the sea and inland Spain, the object darting away each time he approached.
 
-When informed of a radar echo near [[Sagunto, Spain|Sagunto]], Kamaro pursued the object across the Mediterranean and inland Spanish territories. As he approached one UFO, it appeared to respond to his presence. At this point, Kamaro experienced total avionics failure—his electronic flight systems were actively jammed and his alert system indicated he was locked onto by continuous wave missile radar. When he attempted to lock onto the object with an infrared missile, his targeting systems were also jammed. The UFO then rapidly accelerated toward mainland Africa, and Kamaro was forced to return to base with dangerously low fuel.
+When he finally closed in, the object seemed to respond to his jet: the Mirage's electronic flight systems were jammed, and the onboard alert system warned him that he was locked on by a continuous-wave missile radar. Cámara also said the object jammed his attempt to lock onto it with an infrared missile. It then accelerated away toward mainland Africa, and after nearly ninety minutes of pursuit, low on fuel, he returned to base.
 
-## Official Response and Explanations
+## Official response and explanations
 
-The incident reached the [[Spanish Parliament]] in September 1980 after representatives requested an official explanation. The sighting was officially dismissed as "a series of freak optical illusions." Additional proposed explanations included:
+The case reached the [[Spanish Parliament]] in September 1980, when deputies asked for an official explanation; the government's answer attributed the sightings to "a series of freak optical illusions". Three more specific explanations have since been offered, each of which Gerb rejects:
 
-- **Refinery lights**: The red lights were attributed to combustion towers of the Escombreras Refinery near Cartagena, though this fails to explain the objects' movement, altitude matching, and pursuit of the aircraft.
-- **Astronomical misidentification**: Moving lights witnessed by multiple observers were attributed to stars or planets (Venus/Jupiter).
-- **US 6th Fleet electromagnetic interference**: Avionics jamming was attributed to the [[US 6th Fleet]] stationed nearby during the Iranian Hostage Crisis. Pilot Kamaro rejected this explanation, stating he was too far from the fleet for interference, and it failed to account for the craft he witnessed or the active jamming of his IR missile targeting.
+- **Refinery lights.** The crew's red lights were the flare stacks of the Escombreras refinery near Cartagena, and the captain landed in an anxiety attack. Gerb answers that fixed lights cannot close on an aircraft, hold its altitude through evasive manoeuvres and keep station at half a mile to five miles, and that the co-pilot and flight mechanic would have had to share the attack.
+- **Stars and planets.** The lights seen from Manises, including the one near the runway, were Venus or Jupiter. Gerb calls this the explanation applied to every case and notes that the lights flashed several colours and moved.
+- **US Sixth Fleet interference.** Electronic emissions from two helicopter carriers of the [[US 6th Fleet]], in the Mediterranean during the Iran hostage crisis, scrambled the Mirage's instruments. Cámara rejected this, saying he was too far from the fleet; Gerb adds that it does not account for the cone Cámara saw, its escape from a jet at Mach 1.4, or the jammed missile lock.
 
-## Parallels to Other Cases
+## Parallels
 
-The Manises incident is frequently compared to other military UFO encounters involving avionics jamming, particularly:
-
-- **[[1976 Tehran UFO Incident]]**: Major [[Parvis Jafari]] of the [[Imperial Iranian Air Force]] experienced total instrument failure when approaching a UFO in an F-4 Phantom 2, and the object displayed similar active countermeasures.
-- **[[Nimitz UAP Encounter (Tic Tac)|2004 Nimitz Tic Tac Encounter]]**: Commander [[David Fravor]] reported that UAPs actively jammed radar and sensory equipment of Navy jets.
-
-The recurring pattern of avionics jamming, radar lock responses, and active electronic countermeasures across independent military encounters spanning different decades and countries is cited as evidence of a genuine phenomenon rather than misidentification or equipment malfunction.
+Gerb sees the Mirage's jammed sensors as the most significant part of the case and ties them to two other military encounters: the [[1976 Tehran UFO Incident]], in which Major [[Parviz Jafari]]'s F-4 Phantom II lost its targeting and radio as a smaller sphere separated from the main object and approached him, and Commander [[David Fravor]]'s [[2004 Nimitz UAP Encounter (Tic Tac)|2004 Tic Tac encounter]], in which Fravor says the objects jammed the jets' radar and sensors.
 
 ## Sources
 

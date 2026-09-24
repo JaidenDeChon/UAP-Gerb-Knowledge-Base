@@ -508,3 +508,98 @@
     backdrop-filter: blur(0);
   }
 }
+
+/* ============================================================
+   Eased image fades (the "scrim" curve). One technique for every
+   picture that dissolves into what's behind it: the video hero's
+   thumbnail, the home page's Featured card, people's portraits.
+
+   A mask, not a colour overlay: the image itself fades to
+   transparent, so it melts into whatever surface is behind it
+   (the page, a card, a category-tinted card, a hover wash) in all
+   four themes with no colour to keep in step. The stops trace an
+   ease-in-out curve rather than a two-stop linear ramp, whose
+   abrupt start and end the eye reads as edges: opacity changes
+   slowly at both ends, so the picture dissolves rather than
+   stopping at a line. The longer the run, the smoother it reads,
+   so give the fade most of the image (a start of 40% or less).
+
+   `ufo-fade` defines the two masks as custom properties:
+     --ufo-fade-x  solid up to --ufo-fade-x-start (default 40%),
+                   measured along --ufo-fade-x-dir (default
+                   `to left`: solid on the right, fading out
+                   toward the left edge);
+     --ufo-fade-y  the same along --ufo-fade-y-dir (default
+                   `to bottom`) from --ufo-fade-y-start (30%).
+   Apply one with `ufo-fade-x`, `ufo-fade-y`, or `ufo-fade-xy`
+   (both at once, fading into the corner), or set
+   `mask-image: var(--ufo-fade-x)` yourself when a component
+   switches axis at a breakpoint. Override the -start/-dir
+   properties on the same element. Layered, so a component's own
+   (unlayered, scoped) rules always win.
+   ============================================================ */
+@layer components {
+  .ufo-fade {
+    --ufo-fade-x-dir: to left;
+    --ufo-fade-x-start: 40%;
+    --ufo-fade-y-dir: to bottom;
+    --ufo-fade-y-start: 30%;
+    --ufo-fade-x: linear-gradient(
+      var(--ufo-fade-x-dir),
+      rgb(0 0 0) var(--ufo-fade-x-start),
+      rgb(0 0 0 / 0.987) calc(var(--ufo-fade-x-start) + (100% - var(--ufo-fade-x-start)) * 0.0817),
+      rgb(0 0 0 / 0.951) calc(var(--ufo-fade-x-start) + (100% - var(--ufo-fade-x-start)) * 0.155),
+      rgb(0 0 0 / 0.896) calc(var(--ufo-fade-x-start) + (100% - var(--ufo-fade-x-start)) * 0.225),
+      rgb(0 0 0 / 0.825) calc(var(--ufo-fade-x-start) + (100% - var(--ufo-fade-x-start)) * 0.29),
+      rgb(0 0 0 / 0.741) calc(var(--ufo-fade-x-start) + (100% - var(--ufo-fade-x-start)) * 0.353),
+      rgb(0 0 0 / 0.648) calc(var(--ufo-fade-x-start) + (100% - var(--ufo-fade-x-start)) * 0.412),
+      rgb(0 0 0 / 0.55) calc(var(--ufo-fade-x-start) + (100% - var(--ufo-fade-x-start)) * 0.472),
+      rgb(0 0 0 / 0.45) calc(var(--ufo-fade-x-start) + (100% - var(--ufo-fade-x-start)) * 0.528),
+      rgb(0 0 0 / 0.352) calc(var(--ufo-fade-x-start) + (100% - var(--ufo-fade-x-start)) * 0.588),
+      rgb(0 0 0 / 0.259) calc(var(--ufo-fade-x-start) + (100% - var(--ufo-fade-x-start)) * 0.647),
+      rgb(0 0 0 / 0.175) calc(var(--ufo-fade-x-start) + (100% - var(--ufo-fade-x-start)) * 0.71),
+      rgb(0 0 0 / 0.104) calc(var(--ufo-fade-x-start) + (100% - var(--ufo-fade-x-start)) * 0.775),
+      rgb(0 0 0 / 0.049) calc(var(--ufo-fade-x-start) + (100% - var(--ufo-fade-x-start)) * 0.845),
+      rgb(0 0 0 / 0.013) calc(var(--ufo-fade-x-start) + (100% - var(--ufo-fade-x-start)) * 0.918),
+      rgb(0 0 0 / 0) 100%
+    );
+    --ufo-fade-y: linear-gradient(
+      var(--ufo-fade-y-dir),
+      rgb(0 0 0) var(--ufo-fade-y-start),
+      rgb(0 0 0 / 0.987) calc(var(--ufo-fade-y-start) + (100% - var(--ufo-fade-y-start)) * 0.0817),
+      rgb(0 0 0 / 0.951) calc(var(--ufo-fade-y-start) + (100% - var(--ufo-fade-y-start)) * 0.155),
+      rgb(0 0 0 / 0.896) calc(var(--ufo-fade-y-start) + (100% - var(--ufo-fade-y-start)) * 0.225),
+      rgb(0 0 0 / 0.825) calc(var(--ufo-fade-y-start) + (100% - var(--ufo-fade-y-start)) * 0.29),
+      rgb(0 0 0 / 0.741) calc(var(--ufo-fade-y-start) + (100% - var(--ufo-fade-y-start)) * 0.353),
+      rgb(0 0 0 / 0.648) calc(var(--ufo-fade-y-start) + (100% - var(--ufo-fade-y-start)) * 0.412),
+      rgb(0 0 0 / 0.55) calc(var(--ufo-fade-y-start) + (100% - var(--ufo-fade-y-start)) * 0.472),
+      rgb(0 0 0 / 0.45) calc(var(--ufo-fade-y-start) + (100% - var(--ufo-fade-y-start)) * 0.528),
+      rgb(0 0 0 / 0.352) calc(var(--ufo-fade-y-start) + (100% - var(--ufo-fade-y-start)) * 0.588),
+      rgb(0 0 0 / 0.259) calc(var(--ufo-fade-y-start) + (100% - var(--ufo-fade-y-start)) * 0.647),
+      rgb(0 0 0 / 0.175) calc(var(--ufo-fade-y-start) + (100% - var(--ufo-fade-y-start)) * 0.71),
+      rgb(0 0 0 / 0.104) calc(var(--ufo-fade-y-start) + (100% - var(--ufo-fade-y-start)) * 0.775),
+      rgb(0 0 0 / 0.049) calc(var(--ufo-fade-y-start) + (100% - var(--ufo-fade-y-start)) * 0.845),
+      rgb(0 0 0 / 0.013) calc(var(--ufo-fade-y-start) + (100% - var(--ufo-fade-y-start)) * 0.918),
+      rgb(0 0 0 / 0) 100%
+    );
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    -webkit-mask-size: 100% 100%;
+    mask-size: 100% 100%;
+  }
+  .ufo-fade.ufo-fade-x {
+    -webkit-mask-image: var(--ufo-fade-x);
+    mask-image: var(--ufo-fade-x);
+  }
+  .ufo-fade.ufo-fade-y {
+    -webkit-mask-image: var(--ufo-fade-y);
+    mask-image: var(--ufo-fade-y);
+  }
+  /* Both axes: keep only what both masks keep (their product). */
+  .ufo-fade.ufo-fade-xy {
+    -webkit-mask-image: var(--ufo-fade-x), var(--ufo-fade-y);
+    mask-image: var(--ufo-fade-x), var(--ufo-fade-y);
+    -webkit-mask-composite: source-in;
+    mask-composite: intersect;
+  }
+}

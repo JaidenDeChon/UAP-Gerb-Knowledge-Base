@@ -13,7 +13,7 @@ On the night of the encounter between March and April 1997, Montil was one of th
 
 ## Post-Incident Career
 
-Montil continued a long career in the Marine Corps after Operation Laser Strike, retiring with a prestigious enlisted rank. UAP Gerb identified Montil as a real USMC veteran and wrote to him, along with Allen and Atkins, during his 2025 investigation. Only one of the three replied, and the host has kept that Marine anonymous.
+Montil continued a long career in the Marine Corps after Operation Laser Strike, retiring with a prestigious enlisted rank. UAP Gerb identified Montil as a real USMC veteran and wrote to him, along with Allen and Atkins, during his 2025 investigation. Only one of the three replied, and Gerb has kept that Marine anonymous.
 
 ## Sources
 

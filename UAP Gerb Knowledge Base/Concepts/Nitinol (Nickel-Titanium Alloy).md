@@ -6,7 +6,7 @@ tags:
 
 Nitinol is a near-equiatomic alloy of nickel and titanium first formally documented in the public scientific record in 1961 by Dr. William J. Buehler at the U.S. Naval Ordnance Laboratory. It is commercially significant for two extraordinary material properties: superelasticity (the ability to sustain extreme mechanical deformation and return to original shape upon stress release, with no permanent deformation) and the shape memory effect (the ability to recover a pre-set shape when heated after cold deformation). Nitinol is also elastocaloric — it heats when mechanically stressed and super-cools when the stress is removed, exchanging heat with the environment. These properties make nitinol exceptionally difficult to manufacture, requiring vacuum arc remelting or vacuum induction remelting and extremely tight compositional control due to titanium's high reactivity.
 
-In the context of UAP research, nitinol is central to claims that [[Battelle Memorial Institute]] analyzed material recovered from the [[1947 Roswell Crash]] more than a decade before the alloy's official scientific discovery.
+In the context of UAP research, nitinol is central to claims that [[Battelle Memorial Institute]] analyzed material recovered from the [[Roswell Crash|1947 Roswell crash]] more than a decade before the alloy's official scientific discovery.
 
 ## Roswell Connection
 
@@ -14,7 +14,7 @@ Intelligence officer [[Jesse Marcel]], who inspected the Roswell crash debris fi
 
 In 1949 — twelve years before nitinol's official discovery — [[Battelle Memorial Institute]] was contracted by Wright-Patterson Air Force Base to perform material analysis on shape-memory titanium alloys under contract number 33-38-3736, covering September 1 through October 21, 1949. The research was classified under the [[Atomic Energy Commission]]'s "restricted" standard, a private-sector classification tier inaccessible even to Special Access Program clearance holders. The 1949 Battelle research was not declassified until 2010.
 
-Battelle senior chemical engineer [[EJ Center]], who co-authored the nitinol analysis subsection of the 1949 reports, later disclosed privately that he had studied "Parts retrieved from a flying saucer" during his time at Battelle. This disclosure, made around 1957–1958, was documented by the [[Mutual UFO Network]] in 1992 and published by Dr. [[Irene Scott]] in 1994 — more than fifteen years before the underlying contract documents were declassified.
+Battelle senior chemical engineer [[EJ Center]], who co-authored the nitinol analysis subsection of the 1949 reports, later disclosed privately that he had studied "Parts retrieved from a flying saucer" during his time at Battelle. This disclosure, made around 1957–1958, was documented by the [[MUFON|Mutual UFO Network]] in 1992 and published by Dr. [[Irena Scott]] in 1994 — more than fifteen years before the underlying contract documents were declassified.
 
 ## Significance to UAP Material Research
 
@@ -26,7 +26,7 @@ The nitinol case is also significant for illustrating how the [[Atomic Energy Co
 
 ## Shape Memory Alloy
 
-Nitinol is the most widely known example of a shape memory alloy. The broader class of shape memory alloys — metals that return to a pre-programmed form in response to temperature change or mechanical release — has been associated with multiple UAP crash retrieval accounts. The [[1947 Roswell Crash]] description by Jesse Marcel is among the earliest military witness accounts referencing material with these properties.
+Nitinol is the most widely known example of a shape memory alloy. The broader class of shape memory alloys — metals that return to a pre-programmed form in response to temperature change or mechanical release — has been associated with multiple UAP crash retrieval accounts. The [[Roswell Crash|1947 Roswell crash]] description by Jesse Marcel is among the earliest military witness accounts referencing material with these properties.
 
 ## Sources
 

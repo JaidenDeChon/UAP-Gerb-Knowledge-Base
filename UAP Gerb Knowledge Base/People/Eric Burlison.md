@@ -1,6 +1,7 @@
 ---
 name: "Eric Burlison"
 role: "U.S. Representative for Missouri's 7th congressional district (2023–present); member of the House UAP Caucus"
+wikipedia: "Eric Burlison"
 tags:
   - person
 ---
@@ -15,7 +16,7 @@ As a member of the UAP Caucus, Burlison has supported efforts to:
 - Support legislative provisions requiring UAP program transparency in the National Defense Authorization Act (NDAA)
 - Coordinate congressional hearings featuring UAP whistleblower testimony
 - Advocate for legal protections for whistleblowers disclosing classified UAP information
-- Push for declassification of historical programs such as [[Project Moondust|Project Moon Dust]]
+- Push for declassification of historical programs such as [[Project Moon Dust]]
 
 In a September 2025 hearing, Burlison presented military video footage as part of the caucus's ongoing UAP oversight work.
 

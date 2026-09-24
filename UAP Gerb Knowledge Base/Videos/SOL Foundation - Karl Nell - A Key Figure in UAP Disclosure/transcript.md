@@ -2,8 +2,8 @@
 title: "SOL Foundation: Karl Nell - A Key Figure in UAP Disclosure"
 video_id: kKbSIfc7N7Q
 url: https://www.youtube.com/watch?v=kKbSIfc7N7Q
-date: NA
-duration_seconds: 0
+date: 2024-02-14
+duration_seconds: 1334
 channel: UAP Gerb
 tags:
   - transcript

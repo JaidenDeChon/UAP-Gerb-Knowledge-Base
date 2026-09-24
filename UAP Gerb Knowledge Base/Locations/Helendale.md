@@ -1,5 +1,6 @@
 ---
 name: "Helendale"
+coordinates: [34.8278, -117.305]
 location_type: "facility"
 tags:
   - location

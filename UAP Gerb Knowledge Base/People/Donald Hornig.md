@@ -9,7 +9,7 @@ tags:
 
 ## In UAP research
 
-In *The 1965 Kecksburg, Pennsylvania UFO Crash*, UAP Gerb notes that Hornig met Johnson after lunch on 10 December 1965, the day after the [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg crash]], with [[Robert McNamara]], Cyrus Vance, Bill Moyers and [[Orville Freeman]]. He is also named in Johnson's 18 May 1966 letter thanking [[Eric A. Walker]] for his government service. The host stresses that the science adviser's post was first held by [[Vannevar Bush]] under Franklin D. Roosevelt and Harry Truman, and says this should ring a bell for anyone familiar with the [[Majestic 12]] documents.
+In *The 1965 Kecksburg, Pennsylvania UFO Crash*, UAP Gerb notes that Hornig met Johnson after lunch on 10 December 1965, the day after the [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg crash]], with [[Robert McNamara]], Cyrus Vance, Bill Moyers and [[Orville Freeman]]. He is also named in Johnson's 18 May 1966 letter thanking [[Eric A. Walker]] for his government service. Gerb stresses that the science adviser's post was first held by [[Vannevar Bush]] under Franklin D. Roosevelt and Harry Truman, and says this should ring a bell for anyone familiar with the [[Majestic 12]] documents.
 
 ## Sources
 

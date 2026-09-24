@@ -1,6 +1,7 @@
 ---
 name: "Tom DeLonge"
 role: "Musician; founder of To The Stars Academy (TTSA)"
+wikipedia: "Tom DeLonge"
 tags:
   - person
 ---

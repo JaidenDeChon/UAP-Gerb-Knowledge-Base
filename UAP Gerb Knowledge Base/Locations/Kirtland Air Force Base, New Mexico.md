@@ -1,5 +1,6 @@
 ---
 name: "Kirtland Air Force Base, New Mexico"
+coordinates: [35.0403, -106.6092]
 tags:
   - location
 ---

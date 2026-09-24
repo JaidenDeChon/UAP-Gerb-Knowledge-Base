@@ -1,5 +1,6 @@
 ---
 name: "Tonopah Test Range (TTR)"
+coordinates: [37.7947, -116.7786]
 location_type: "test-range"
 tags:
   - location

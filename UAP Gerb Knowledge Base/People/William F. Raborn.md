@@ -1,6 +1,7 @@
 ---
 name: "William F. Raborn"
 role: "Vice Admiral, US Navy; Director of Central Intelligence; Polaris program director"
+wikipedia: "William Raborn"
 tags:
   - person
 ---

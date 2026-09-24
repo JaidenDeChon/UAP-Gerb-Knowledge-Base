@@ -9,7 +9,7 @@ Douglas "Doug" Wolfe is a retired U.S. intelligence official with a 33-year care
 
 ## Role in UAP Programs
 
-UAP Gerb's *Special Access Required Vol.2* names Wolfe, alongside [[Donald M. Kerr|Don Kerr]], as one of several individuals within the National Reconnaissance Office's acquisitions leadership chain — specifically the DDNI/ATNF role, jointly overseen with the Under Secretary of Defense for Acquisition and Sustainment (USD A&S) — who also served in CIA Directorate of Science and Technology deputy director roles. The presenter cites this personnel overlap between NRO/IC acquisitions leadership and CIA DS&T leadership as evidence of a small, recurring pool of "legacy gatekeepers" moving between these offices, and states bluntly of Wolfe: "Doug Wolfe is a very bad man" — an unsubstantiated characterization offered without further elaboration in the video.
+UAP Gerb's *Special Access Required Vol.2* names Wolfe, alongside [[Donald M. Kerr|Don Kerr]], as one of several individuals within the National Reconnaissance Office's acquisitions leadership chain — specifically the DDNI/ATNF role, jointly overseen with the Under Secretary of Defense for Acquisition and Sustainment (USD A&S) — who also served in CIA Directorate of Science and Technology deputy director roles. Gerb cites this personnel overlap between NRO/IC acquisitions leadership and CIA DS&T leadership as evidence of a small, recurring pool of "legacy gatekeepers" moving between these offices, and states bluntly of Wolfe: "Doug Wolfe is a very bad man" — an unsubstantiated characterization offered without further elaboration in the video.
 
 ## Sources
 

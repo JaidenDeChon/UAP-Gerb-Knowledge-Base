@@ -1,6 +1,7 @@
 ---
 name: "Kevin Randle"
 role: "UFO researcher; author; skeptic of Willingham case"
+wikipedia: "Kevin D. Randle"
 tags:
   - person
 ---

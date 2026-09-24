@@ -2,8 +2,8 @@
 title: "The Alien and UFO Obscure Oddities Iceberg (Level 1)"
 video_id: 1en219Vk9K4
 url: https://www.youtube.com/watch?v=1en219Vk9K4
-date: NA
-duration_seconds: 0
+date: 2024-01-12
+duration_seconds: 2356
 channel: UAP Gerb
 tags:
   - transcript

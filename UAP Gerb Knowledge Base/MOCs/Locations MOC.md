@@ -73,7 +73,6 @@ tags:
 - [[Lancaster, New Hampshire]]
 - [[Langley Air Force Base]]
 - [[Las Palmas, Spain]]
-- [[Lauha, Mexico]]
 - [[Lima, Peru]]
 - [[Lockbourne Air Force Base, Columbus, Ohio]]
 - [[Long Beach, California]]
@@ -150,3 +149,4 @@ tags:
 - [[Fort Hood]]
 - [[Fort Huachuca]]
 - [[Deep Underground Command Center (DUCC)]]
+- [[Johnson Space Center]]
