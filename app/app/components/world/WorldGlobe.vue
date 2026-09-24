@@ -30,15 +30,13 @@ const props = defineProps<{
   places: WorldPlace[]
   selected: string | null
   mode: WorldMode
-  /**
-   * Milliseconds to hold off building the globe: the page passes the UFO
-   * loader's exit time when it arrived through the loader, so the build
-   * (the heaviest work on the page) doesn't stall that animation.
-   */
-  defer?: number
 }>()
 
-const emit = defineEmits<{ select: [slug: string] }>()
+const emit = defineEmits<{
+  select: [slug: string]
+  /** The globe has drawn, or failed to: the page's loader can go. */
+  settled: []
+}>()
 
 const host = ref<HTMLElement | null>(null)
 const ready = ref(false)
@@ -265,7 +263,6 @@ onMounted(async () => {
       import('globe.gl'),
       import('three'),
       loadMapOutlines(),
-      props.defer ? new Promise(r => setTimeout(r, props.defer)) : null,
     ])
     if (!host.value) return
     three = THREE
@@ -350,6 +347,7 @@ onMounted(async () => {
 
     applyColours()
     ready.value = true
+    emit('settled')
 
     ro = new ResizeObserver(() => {
       if (globe && host.value) globe.width(host.value.clientWidth).height(host.value.clientHeight)
@@ -366,6 +364,7 @@ onMounted(async () => {
   catch (err) {
     console.error('[WorldGlobe] could not start', err)
     failed.value = true
+    emit('settled')
   }
 })
 
@@ -403,9 +402,6 @@ defineExpose({ zoom, resetView })
   <div class="ufo-globe">
     <div ref="host" class="ufo-globe-host" :class="{ 'is-ready': ready }" role="img" :aria-label="`Globe with ${places.length} places. The list of places beside it is the accessible version.`" />
 
-    <div v-if="!ready && !failed" class="ufo-globe-status" aria-hidden="true">
-      <span>Loading globe…</span>
-    </div>
     <div v-if="failed" class="ufo-globe-status" role="status">
       <span>This browser can't draw the globe. The list and the maps below still work.</span>
     </div>

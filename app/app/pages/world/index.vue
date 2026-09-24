@@ -13,7 +13,12 @@ import { CONTINENTS, heatColor, hslString, placeSlug } from '@/utils/world'
  * globe, the list, the preview card and the continent maps all follow one
  * selection, and a view can be shared.
  *
- * `lazy`, like /videos: the page shell renders at once and fills in.
+ * `lazy`, like /videos: the page shell renders at once and fills in. The
+ * loading state is the UFO loader, drawn inline at the centre of the
+ * globe's panel (not AppLoadingMark's viewport overlay): it stays there
+ * while the places load and the globe builds, and blurs away as the globe
+ * fades in behind it. Being the panel's own content, nothing on the page can
+ * cover it, whatever the browser does with the globe's WebGL layers.
  */
 const { data } = useFetch<WorldPlaces>('/api/places', { key: 'world-places', lazy: true })
 
@@ -56,17 +61,8 @@ function selectFromMap(slug: string): void {
 
 /* -- continent maps' outlines ------------------------------------------------ */
 
-/*
- * True when the page mounted before its places arrived, so the UFO loader
- * showed. Its exit (AppLoadingMark's blur-out, 460ms) runs just as the
- * places land; the globe waits it out before building, or that work stalls
- * the animation mid-exit, with the page appearing over a frozen loader.
- */
-const viaLoader = ref(false)
-const LOADER_EXIT_MS = 520
-onMounted(() => {
-  viaLoader.value = !data.value
-})
+/** True once the globe has drawn (or given up): the inline loader leaves then. */
+const globeSettled = ref(false)
 
 const outlines = shallowRef<MapOutlines | null>(null)
 onMounted(() => {
@@ -146,28 +142,29 @@ const MODES = [
       </div>
     </header>
 
-    <!-- Until the places arrive the page is the UFO loader alone, as on
-         /videos. When they do, the loader blurs away where it stood; the
-         page below waits that out (`is-arriving`) and then fades in, so
-         the globe's panel (its grid, glow and status line, right under the
-         craft) never shows through the departing loader. -->
-    <div v-if="!data" class="min-h-[50vh]">
-      <AppLoadingMark />
-      <span class="sr-only" role="status">Loading places…</span>
-    </div>
-
-    <div v-else class="ufo-world-body" :class="{ 'is-arriving': viaLoader }">
+    <div class="ufo-world-body">
       <section ref="hero" class="ufo-world-hero mt-6" aria-label="Globe and list of places">
         <div class="ufo-world-stage">
           <div class="ufo-world-glow" aria-hidden="true" />
           <ClientOnly>
-            <WorldGlobe :places="places" :selected="selected" :mode="mode" :defer="viaLoader ? LOADER_EXIT_MS : 0" @select="select" />
-            <template #fallback>
-              <div class="grid h-full place-items-center font-mono text-[11px] uppercase tracking-[0.1em] text-muted-foreground">
-                Loading globe…
-              </div>
-            </template>
+            <WorldGlobe
+              v-if="data"
+              :places="places"
+              :selected="selected"
+              :mode="mode"
+              @select="select"
+              @settled="globeSettled = true"
+            />
           </ClientOnly>
+
+          <Transition name="ufo-world-loader">
+            <div v-if="!globeSettled" class="ufo-world-loader" aria-hidden="true">
+              <div class="ufo-world-loader-craft">
+                <AppUfoLoader />
+              </div>
+            </div>
+          </Transition>
+          <span class="sr-only" role="status">{{ data ? '' : 'Loading places…' }}</span>
 
           <span aria-hidden="true" class="ufo-hud left-[8px] top-[8px] border-l border-t" />
           <span aria-hidden="true" class="ufo-hud right-[8px] top-[8px] border-r border-t" />
@@ -180,7 +177,7 @@ const MODES = [
         </div>
 
         <aside class="ufo-world-rail" aria-label="Places">
-          <WorldPlaceList :places="places" :selected="selected" @select="select" />
+          <WorldPlaceList v-if="data" :places="places" :selected="selected" @select="select" />
         </aside>
       </section>
 
@@ -210,7 +207,7 @@ const MODES = [
         </div>
       </section>
 
-      <footer class="mt-10 space-y-2 font-sans text-[13px] leading-6 text-muted-foreground">
+      <footer v-if="data" class="mt-10 space-y-2 font-sans text-[13px] leading-6 text-muted-foreground">
         <p v-if="unplaced.length">
           Not on the map, for want of a place to pin:
           <template v-for="(u, k) in unplaced" :key="u.path">
@@ -242,22 +239,46 @@ const MODES = [
 </template>
 
 <style scoped>
-/* -- arrival after the loader ----------------------------------------------- */
+/* -- the inline loader ------------------------------------------------------ */
 
-/* Held back for the loader's exit (AppLoadingMark: 460ms blur-out, 200ms
-   fade under reduced motion), then faded in. */
-.ufo-world-body.is-arriving {
-  animation: ufo-world-in 320ms var(--ease-out) 460ms both;
+/* The UFO at the centre of the globe's panel, above the grid and glow and
+   under the HUD corners. It fades in after a beat (a quick load never
+   flashes it), as AppLoadingMark's does, and leaves the same way: a blur
+   and a little growth, as the globe fades in behind it. */
+.ufo-world-loader {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  pointer-events: none;
+}
+.ufo-world-loader-craft {
+  width: min(380px, 68%);
+  animation: ufo-world-loader-in 0.5s var(--ease-standard) 0.25s both;
+}
+@keyframes ufo-world-loader-in {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: none; }
+}
+.ufo-world-loader-leave-active {
+  transition: opacity 460ms cubic-bezier(0.4, 0, 1, 1), filter 460ms cubic-bezier(0.4, 0, 1, 1), transform 460ms cubic-bezier(0.4, 0, 1, 1);
+}
+.ufo-world-loader-leave-to {
+  opacity: 0;
+  filter: blur(18px);
+  transform: scale(1.06);
 }
 @media (prefers-reduced-motion: reduce) {
-  .ufo-world-body.is-arriving {
-    animation-duration: 1ms;
-    animation-delay: 200ms;
+  .ufo-world-loader-craft {
+    animation: none;
   }
-}
-@keyframes ufo-world-in {
-  from { opacity: 0; }
-  to { opacity: 1; }
+  .ufo-world-loader-leave-active {
+    transition: opacity 200ms linear;
+  }
+  .ufo-world-loader-leave-to {
+    filter: none;
+    transform: none;
+  }
 }
 
 /* -- hero: globe beside the list ------------------------------------------- */
