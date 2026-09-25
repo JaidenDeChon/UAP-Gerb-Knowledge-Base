@@ -8,6 +8,11 @@
     "sha256": "ca162480f045503431018cb8fb68e06385990bfe809d456e491e3a72eccc35a9",
     "cold_reader": true
   },
+  "app/app/components/content/WikiInfo.vue": {
+    "humanized_at": "2026-09-25T16:46:50Z",
+    "sha256": "c682a0527fce0765e7720513d66caad89036608b2c7bcf85e81f5487831b7ec1",
+    "cold_reader": true
+  },
   "app/app/components/content/WikiWatch.vue": {
     "humanized_at": "2026-09-25T16:43:13Z",
     "sha256": "22a2ca2dfa7054bc0581f392a17a8492996ab518c377dd52b168372472928a46",
