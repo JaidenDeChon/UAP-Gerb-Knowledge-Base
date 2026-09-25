@@ -629,6 +629,11 @@
     "sha256": "32ab9712be526e0c261b7bfd0e680b609b5051ec139cdf14ae53b2f7f69fd93c",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/National Nuclear Security Administration.md": {
+    "humanized_at": "2026-09-25T23:55:25Z",
+    "sha256": "516b3ea68da70c95e1da191008773ccf1609a33951e6bb4c479d7c36a25dd48a",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
