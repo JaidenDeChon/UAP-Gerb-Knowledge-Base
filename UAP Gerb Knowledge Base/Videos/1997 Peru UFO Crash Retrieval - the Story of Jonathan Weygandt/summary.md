@@ -541,13 +541,13 @@ Gerb breaks the team into three parts and proposes an identity for each:
 **Why:** NEST's job was to be first on scene anywhere in the world, it could commandeer military aircraft, and it works under the [[Atomic Energy Act of 1954]]. The varying levels of MOPP gear suggest protection graded by how close each person would get to the craft.
 ::
 ::wiki-panel{title="The armed men in black"}
-**Seen:** older, unmarked Americans in black, already on the ground before the helicopters, who looked Army to Weygandt by their caps.
+**Seen:** older, unmarked Americans in black, already on the ground before the helicopters. Their caps made them look like Army to Weygandt.
 
 **Gerb's identification:** the [[US Army 7th Special Forces Group]], already in Peru for counterdrug training and "recruited" by NEST as its enforcement arm. NEST personnel were not armed operators.
 
 **Alternatives:** a [[DOE Special Response Teams (SRTs)|DOE Special Response Team]] (all-black kit in the 1980s, trained by [[Wackenhut Services|Wackenhut]], but not known to operate abroad), or a dedicated [[JSOC (Joint Special Operations Command)|JSOC]] retrieval team.
 ::
-::wiki-panel{title="The CH-47 Chinooks"}
+::wiki-panel{title="The CH-47 Chinook helicopters"}
 **Seen:** two to four Army Chinooks with manned guns.
 
 **Gerb's identification:** the [[1st Battalion 228th Aviation Regiment]] of [[Joint Task Force Bravo]], a Southern Command task force based in Panama and Honduras with Chinooks in its fleet, which flew with the 7th Special Forces during the 1995 Peru-Ecuador border dispute.
@@ -628,11 +628,11 @@ Weygandt said the crash was 5 to 10 miles over the Bolivian border. Gerb thinks 
 | What is left | Personnel, gear and ground briefings | About **1 hour**: "a tight squeeze" |
 
 ::wiki-grid{cols=2}
-::wiki-panel{title="Pucallpa: the usual assumption"}
-Laser Strike's primary site, about 300 miles from Lima: under an hour by C-130. Since at least 2001 it has been publicly named as a Laser Strike location. Gerb describes it as a makeshift forward operating base rather than a place with permanent structures.
+::wiki-panel{title="Pucallpa, the base usually assumed"}
+The primary site of Laser Strike, about 300 miles from Lima and under an hour away by C-130. Since at least 2001 it has been publicly named as a Laser Strike location. Gerb describes it as a makeshift forward operating base rather than a place with permanent structures.
 ::
-::wiki-panel{title="Iquitos: Gerb's candidate" tone="accent"}
-More than 630 miles from Lima, close to two hours by C-130, which with one stop fits Weygandt's "several hours" flight. It was home to Air Force Radar Detachment 5, which Gerb found mentioned only once, the Marine riverine training team and NAMRU South. A Marine who served in the operation refused to discuss his base, which Gerb takes as a sign that it was not the already-public Pucallpa.
+::wiki-panel{title="Iquitos, the base Gerb proposes" tone="accent"}
+More than 630 miles from Lima, close to two hours by C-130, which with one stop fits Weygandt's "several hours" flight. It was home to the Marine riverine training team, NAMRU South, and Air Force Radar Detachment 5, which Gerb found mentioned only once. A Marine who served in the operation refused to discuss his base, which Gerb takes as a sign that it was not the already-public Pucallpa.
 ::
 ::
 
@@ -667,13 +667,13 @@ On this reading, the crash lay within about 90 miles of Iquitos, 5 to 10 miles f
 Gerb has "high suspicion" that Weygandt was taken to NAMRU South (formerly NAMRU-6). This is the Navy medical research unit with offices in Lima and Iquitos, part of a worldwide network of biomedical laboratories working on infectious disease and biodefense. The network also has sites at Joint Base San Antonio, Sigonella in Sicily, Singapore, and [[Wright-Patterson Air Force Base]].
 
 ::wiki-grid{cols=2}
-::wiki-panel{title="For NAMRU South" tone="accent"}
+::wiki-panel{title="Evidence for NAMRU South" tone="accent"}
 - Weygandt was soaked twice in the liquid, stripped by suited personnel and isolated from Allen and Atkins, which suggests a contamination scare.
 - It is a sensible quarantine and holding site for a Marine exposed to possibly toxic material.
 - It is within driving distance of Detachment 5, and Weygandt was driven back.
 - NAMRU sites are multinational; German military and diplomatic visits to NAMRU South in Lima are recorded as recently as 2023.
 ::
-::wiki-panel{title="Against"}
+::wiki-panel{title="Evidence against NAMRU South"}
 - He was held for only two days, where a quarantine might take a week.
 - He says he underwent no medical procedures at all.
 - He was held close to the operator and the Air Force lieutenant colonel who threatened him.
