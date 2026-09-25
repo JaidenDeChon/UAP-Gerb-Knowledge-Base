@@ -86,7 +86,7 @@ The skill says "keep what it says; do not make anything up." Here that means:
 - **Quotations stay verbatim.** Text in quotation marks is someone's words. Do not reword it, even if it is full of tells.
 - **Italicised titles stay** (books, films, programs, ships).
 - **Frontmatter stays byte for byte.**
-- **Headings stay byte for byte.** Rich articles link to them by anchor.
+- **Headings stay byte for byte.** Rich articles link to them by anchor. The one exception is the text inside an inline `:wiki-info[...]` popover at the end of a heading: that text is prose you should rewrite (the anchor ignores it), while the heading words before it and any `{label=...}` after it stay byte for byte.
 - **Code blocks, tables' structure, markdown link targets and footnote markers stay.**
 - **Components (`::wiki-...` blocks):** in the YAML body you may edit only the values of `summary`, `significance`, `note`, `help`, `hint`, `caption`, `text`, `via` and `estimate`, plus `label` inside a `::wiki-stat-strip`, `::wiki-chain` or `::wiki-claim` (the block's heading or a branch's name) and `term` inside a `::wiki-claim`. A map's `label` stays locked, because routes find pins by it. Every other key and value (names, dates, other labels, titles, ids, cues, entities, anchors) stays byte for byte, and every line stays in place. Keep the value quoted the way it was quoted; a value you rewrite that now contains a colon followed by a space, a `#`, or starts with a quote must be double-quoted.
 - **The `## Sources` section** and any other list of bare wikilinks: leave alone.

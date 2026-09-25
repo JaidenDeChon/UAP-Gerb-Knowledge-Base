@@ -274,6 +274,14 @@ def split(text: str) -> tuple[str, list[str], str]:
                 # Markdown slot content inside a component is prose.
                 prose.append(line)
             continue
+        # A heading may carry an inline :wiki-info[...] popover. Its text is
+        # prose (the anchor is built from the heading's own words only, see
+        # app/wiki/toc.ts); the heading words and the {attributes} stay locked.
+        im = re.match(r"^(#+ .*? :wiki-info)\[(.*)\](\{[^}]*\})?\s*$", line)
+        if im:
+            locked.append(f"{im.group(1)}[…]{im.group(3) or ''}")
+            prose.append(im.group(2))
+            continue
         if stripped.startswith("#") or re.match(r"^\|?\s*:?-{3,}", stripped):
             locked.append(line)
             continue
