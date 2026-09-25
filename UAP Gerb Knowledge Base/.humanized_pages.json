@@ -554,6 +554,11 @@
     "sha256": "85ead32b9094871d09fd3cc32884b4c9b2eb9db86b9c8d139f09ce4dc1d8b660",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/Martin Marietta.md": {
+    "humanized_at": "2026-09-25T23:53:56Z",
+    "sha256": "2002aee36e7f444505d0b64581e8f647680570355ee2ca7a1c58ed7040b98aff",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
