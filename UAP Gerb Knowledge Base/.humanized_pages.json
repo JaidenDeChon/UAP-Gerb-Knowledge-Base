@@ -28,6 +28,11 @@
     "sha256": "c682a0527fce0765e7720513d66caad89036608b2c7bcf85e81f5487831b7ec1",
     "cold_reader": true
   },
+  "app/app/components/content/WikiMap.vue": {
+    "humanized_at": "2026-09-25T16:55:41Z",
+    "sha256": "f0be4d985956e8bc725261fb517586898b082c03bdc4482249c7018e90728d8e",
+    "cold_reader": true
+  },
   "app/app/components/content/WikiTimeline.vue": {
     "humanized_at": "2026-09-25T16:50:12Z",
     "sha256": "d03dc68c3c8b0264361cea21df683d260878dc59bd4ba0259b338f1b0b1884cb",

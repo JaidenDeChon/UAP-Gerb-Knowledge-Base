@@ -590,7 +590,7 @@ const summary = computed(() => {
   const routes = model.value.routes.length
   const L = locator.value
   const within = insetBox.value && L
-    ? ` An inset marks the area shown ${L.world ? 'on a map of the world' : `within ${L.name}`}.`
+    ? ` A smaller map shows where this area lies ${L.world ? 'in the world' : `within ${L.name}`}.`
     : ''
   return `${where} with ${shown.length} numbered ${shown.length === 1 ? 'place' : 'places'}${routes ? ` and ${routes} ${routes === 1 ? 'route' : 'routes'}` : ''}: ${list}.${within} The same places are listed below.`
 })
@@ -843,7 +843,7 @@ function openPin(i: number) {
             </span>
           </div>
           <p v-if="pin.note" class="ufo-map-item-note">{{ pin.note }}</p>
-          <p v-if="!places[i] && frame" class="ufo-map-item-note is-missing">Not on the map: no coordinates recorded.</p>
+          <p v-if="!places[i] && frame" class="ufo-map-item-note is-missing">Not shown on the map because its location isn't recorded.</p>
         </div>
       </li>
     </ol>
@@ -861,8 +861,8 @@ function openPin(i: number) {
 
     <figcaption v-if="props.caption || frame" class="ufo-map-caption">
       <span v-if="props.caption">{{ props.caption }}</span>
-      <span v-if="frame" class="ufo-map-credit">Outlines: Natural Earth.</span>
-      <span v-if="unplaced.length && !frame" class="ufo-map-credit">No coordinates recorded for these places yet.</span>
+      <span v-if="frame" class="ufo-map-credit">Map outlines from Natural Earth.</span>
+      <span v-if="unplaced.length && !frame" class="ufo-map-credit">These places aren't mapped yet because their locations aren't recorded.</span>
     </figcaption>
   </figure>
 </template>
