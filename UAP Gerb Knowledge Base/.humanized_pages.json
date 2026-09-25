@@ -1618,6 +1618,11 @@
     "sha256": "4fb520c12c04f3bc49a0bced491f9b913dd9d9b590c80f787d74c4d317121545",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/People/RA.md": {
+    "humanized_at": "2026-09-25T19:24:16Z",
+    "sha256": "c8b2a2956df8f2c02a9d12596eaca2743b3050d55029254876791a4aae9cb4e3",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/RB.md": {
     "humanized_at": "2026-09-25T19:23:54Z",
     "sha256": "a7001177201e7fdcf7c570a195de8bd3afc81860a1bc0b32b5c8010ef108e4f6",
