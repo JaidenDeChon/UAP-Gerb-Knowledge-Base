@@ -928,6 +928,11 @@
     "sha256": "50de543782bafe9dce84d17a99fb618a5abcda7d6db7214dadc67ab37a390301",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/People/J. Edgar Hoover.md": {
+    "humanized_at": "2026-09-25T19:16:01Z",
+    "sha256": "72fd064f0f671c7e412a34575ef97cdf8ca67dd9c8c287fec5e4f33ffeb3946f",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/James Forrestal.md": {
     "humanized_at": "2026-09-25T19:15:31Z",
     "sha256": "67b0ba8f6c33d86b0c249287f089eb3f0856189997e7b6f9f889eccfadcba69f",
