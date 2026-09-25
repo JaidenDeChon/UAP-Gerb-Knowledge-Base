@@ -5,23 +5,23 @@ tags:
   - person
 ---
 
-**Jesus Alberto** (full name: Jaime Maussan, also known as "Jay Alberto") is a Mexican government official tasked with setting up UFO disclosure legislation and hearings in Mexico. He is intimately tied to the controversial "Nazca mummies" presentation and has been a prominent figure in Mexican UAP disclosure efforts.
+**Jesus Alberto** (full name: Jaime Maussan, also known as "Jay Alberto") is a Mexican government official tasked with setting up UFO disclosure legislation and hearings in Mexico. He is closely tied to the controversial "Nazca mummies" presentation and has been a prominent figure in Mexican UAP disclosure efforts.
 
 ## Coyame Video Claim
 
-On March 16, 2024, Alberto posted a now-deleted tweet translated as: "I have the video. At your time, it's from another world." Context around the tweet suggested it referenced the [[1974 Coyame, Mexico UFO Crash Retrieval]].
+On March 16, 2024, Alberto posted a now-deleted tweet translated as: "I have the video. At your time, it's from another world." The context of the tweet suggested it referred to the [[1974 Coyame, Mexico UFO Crash Retrieval]].
 
-UAP Gerb contacted Alberto via social media to inquire whether he was referencing the Coyame incident and whether he would share the video. Alberto responded with a thumbs-up emoji about the video referencing the crash. Follow-up requests for:
+Gerb contacted Alberto on social media to ask whether he meant the Coyame incident and whether he would share the video. When asked whether the video referred to the crash, Alberto replied with a thumbs-up emoji. Gerb then asked for the following, and none of these requests got a response:
 
 - Access to the video
 - Witnesses (military or civilian) who could be interviewed
 - Military documents on the case
 
-All follow-up requests were met with no response. As of the publication of UAP Gerb's video on the Coyame case, Alberto has not released the alleged video or provided any additional information.
+By the time Gerb's video on the Coyame case was published, Alberto had not released the alleged video or given any more information.
 
 ## Speculation on Video Content
 
-The nature of the alleged video remains unknown. Possibilities include:
+What the alleged video shows is unknown. Possible contents include:
 
 - Reconnaissance aircraft overflight imagery from 1974
 - Mexican military convoy footage
@@ -29,7 +29,7 @@ The nature of the alleged video remains unknown. Possibilities include:
 - Internal Mexican government documentation
 - Witness testimony recorded on video
 
-Without release of the material, the existence and content of the video cannot be verified. UAP Gerb expressed hope that public pressure via the video's publication might persuade Alberto to release the footage.
+Until the material is released, neither the existence nor the content of the video can be verified. Gerb said he hoped that public pressure from the publication of his video might persuade Alberto to release the footage.
 
 ## Sources
 
