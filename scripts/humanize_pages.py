@@ -107,6 +107,8 @@ ARTICLE_UI = [
     "components/app/AppThemeSwitcher.vue",
 ]
 RICH_LEDGER = VAULT / ".rich_videos.json"
+DIRECTIVE_TEXT_RE = re.compile(r'((?<![\w-])(?:title|caption)=)"([^"]*)"')
+CAPTION_ATTR_RE = re.compile(r'((?<![\w-])caption=)"([^"]*)"')
 
 WIKILINK_RE = re.compile(r"\[\[[^\]]+\]\]")
 URL_RE = re.compile(r"\]\([^)]+\)|https?://\S+")
@@ -254,7 +256,13 @@ def split(text: str) -> tuple[str, list[str], str]:
         if re.match(r"^:{2,}[\w-]", stripped):
             in_component = True
             component = re.match(r"^:{2,}([\w-]+)", stripped).group(1)
-            locked.append(line)
+            # A callout's or panel's title="" and a figure's caption="" are
+            # copy; every other attribute (video, tone, type...) stays locked.
+            # (A ::wiki-watch title is the video's real title: locked.)
+            text_re = DIRECTIVE_TEXT_RE if component in ("wiki-callout", "wiki-panel") else CAPTION_ATTR_RE
+            for m in text_re.finditer(line):
+                prose.append(m.group(2))
+            locked.append(text_re.sub(r'\1"…"', line))
             continue
         if re.match(r"^:{2,}$", stripped):
             in_component = False
