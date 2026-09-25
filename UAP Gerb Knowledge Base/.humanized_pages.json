@@ -1158,6 +1158,11 @@
     "sha256": "2dcb1715dd8c4d6bc5adf2fad3285eb505ff138f584be2bb8ef5bef4ee8067e7",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/People/John Heise.md": {
+    "humanized_at": "2026-09-25T19:19:03Z",
+    "sha256": "cde98f07867deffe9d8436653a48c2e59e9d975e7c7ce624c02959b2f575b019",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/John Torrence Tate.md": {
     "humanized_at": "2026-09-25T19:18:48Z",
     "sha256": "b89b3d3e70615a3765cbe5ddd17a70823fec284adc942fe65657d306cf6de5d0",
