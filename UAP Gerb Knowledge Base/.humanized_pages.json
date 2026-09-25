@@ -109,6 +109,11 @@
     "sha256": "9f3ebce55ed4a198d9a018bd02c61a359a9033c1c0d0722daba8c5c61f7a69cf",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/Air Force Operational Test and Evaluation Center (AFOTEC).md": {
+    "humanized_at": "2026-09-25T23:37:01Z",
+    "sha256": "e9836dd5d222b7f07b144531f42c691e5a39064f37975ef56c1c9c606a6d22b8",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
