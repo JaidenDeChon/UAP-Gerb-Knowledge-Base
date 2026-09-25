@@ -6,9 +6,9 @@ tags:
   - person
 ---
 
-Tom DeLonge is an American musician (co-founder of Blink-182) and the founder of [[To The Stars Academy]] (TTSA), an organization dedicated to researching and disclosing advanced aerospace phenomena. DeLonge has publicly discussed connections to government officials, [[Lockheed Martin Skunk Works]] executives, and intelligence community figures regarding UAP programs.
+Tom DeLonge is an American musician (co-founder of Blink-182) and the founder of [[To The Stars Academy]] (TTSA), an organization set up to research and disclose advanced aerospace phenomena. DeLonge has spoken publicly about his connections to government officials, [[Lockheed Martin Skunk Works]] executives, and intelligence community figures regarding UAP programs.
 
-DeLonge co-authored *Secret Machines*, a novel series blending fiction with alleged real UAP-related information sourced from military insiders, with author [[AJ Hartley]]. Notably, the novel *Locust* describes a triangular craft navigated via a red trackball sphere — a detail that independently mirrors [[Brad Sorenson]]'s description of the [[Alien Reproduction Vehicle (ARV)]] control system and [[Edgar Fouché]]'s account of the [[TR-3B]] cockpit interface. [[Eric Schrock]] allegedly served as an adviser providing factual information to DeLonge for the series.
+With author [[AJ Hartley]], DeLonge co-wrote *Secret Machines*, a novel series that mixes fiction with what is alleged to be real UAP-related information from military insiders. The novel *Locust* describes a triangular craft navigated with a red trackball sphere. The same detail appears independently in [[Brad Sorenson]]'s description of the [[Alien Reproduction Vehicle (ARV)]] control system and in [[Edgar Fouché]]'s account of the [[TR-3B]] cockpit interface. [[Eric Schrock]] was allegedly an adviser who gave DeLonge factual information for the series.
 
 ## Sources
 
