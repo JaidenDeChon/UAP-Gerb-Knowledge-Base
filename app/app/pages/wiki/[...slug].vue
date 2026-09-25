@@ -47,7 +47,7 @@ const meta = metaResult.data
 if (import.meta.server) {
   await metaResult
   if (!meta.value) {
-    throw createError({ statusCode: 404, statusMessage: 'Note not found', fatal: true })
+    throw createError({ statusCode: 404, statusMessage: 'There is no entry at this address.', fatal: true })
   }
 }
 
@@ -57,7 +57,7 @@ if (import.meta.server) {
 if (import.meta.client) {
   watch(status, (value) => {
     if (value === 'success' && !page.value) {
-      showError({ statusCode: 404, statusMessage: 'Note not found' })
+      showError({ statusCode: 404, statusMessage: 'There is no entry at this address.' })
     }
   })
 }
@@ -253,7 +253,7 @@ const articleClass = computed(() => hasRail.value
         <template v-if="isFeature">
           <Separator class="my-10" />
           <h2 class="mb-4 font-display text-[20px] font-semibold uppercase tracking-[0.04em] text-foreground">
-            In the graph
+            Map of related entries
           </h2>
           <WikiLocalMap :path="route.path" />
         </template>
