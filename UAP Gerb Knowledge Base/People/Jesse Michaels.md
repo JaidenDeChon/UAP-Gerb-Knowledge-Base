@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Jesse Michaels is a YouTuber and UAP interviewer known for producing research-oriented content on UFO-related topics. UAP Gerb has recommended Michaels's video on [[T. Townsend Brown]] and [[Electrogravitics]] as essential viewing for understanding the scientific lineage behind electrogravitic propulsion claims. UAP Gerb appeared on a show with Michaels and has cited his work as complementary to the investigations into the [[Alien Reproduction Vehicle (ARV)]] and the [[TR-3B]].
+Jesse Michaels is a YouTuber and UAP interviewer known for research-oriented content on UFO-related topics. Gerb has recommended Michaels's video on [[T. Townsend Brown]] and [[Electrogravitics]] as essential viewing for understanding the scientific lineage behind claims of electrogravitic propulsion. Gerb appeared on a show with Michaels and has cited his work as complementary to the investigations into the [[Alien Reproduction Vehicle (ARV)]] and the [[TR-3B]].
 
 ## Sources
 
