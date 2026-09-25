@@ -5,16 +5,16 @@ tags:
   - organization
 ---
 
-The British Admiralty (formally the Board of Admiralty) was the government department responsible for commanding the Royal Navy from the sixteenth century until its functions were transferred to the Ministry of Defence in 1964. In the UAP and USO context, the Admiralty is relevant as the recipient and custodian of anomalous maritime observation reports submitted by Royal Navy officers and merchant marine captains during the nineteenth and early twentieth centuries — including accounts now recognized as some of the earliest documented [[Maritime Light Wheel]] encounters.
+The British Admiralty (formally the Board of Admiralty) was the government department that commanded the Royal Navy from the sixteenth century until 1964, when its functions were transferred to the Ministry of Defence. It matters to the study of UAPs and USOs because it received and kept reports of anomalous sightings at sea from Royal Navy officers and merchant marine captains during the nineteenth and early twentieth centuries. Some of these accounts are now recognized as among the earliest documented [[Maritime Light Wheel]] encounters.
 
 ## Role in USO Documentation
 
-The Admiralty's hydrographic function included collecting navigational hazard reports and unusual maritime observations submitted through the chain of command. Several key [[Maritime Light Wheel]] cases were formally reported to the Admiralty:
+As part of its hydrographic work, the Admiralty collected reports of navigational hazards and unusual observations at sea, submitted through the chain of command. Several important [[Maritime Light Wheel]] cases were formally reported to it:
 
-- The [[Persian Gulf USO Flap|HMS Vulture case]] of May 15, 1879, was submitted by JE Pringle through Captain Evans, the Admiralty's hydrographer, establishing an official chain of custody for the report
-- The British India Company steamer Patna case of May 1880 involved civilian merchant crew whose report circulated through channels connected to Admiralty records
+- JE Pringle submitted the [[Persian Gulf USO Flap|HMS Vulture case]] of May 15, 1879, through Captain Evans, the Admiralty's hydrographer, which gave the report an official chain of custody.
+- In the case of the British India Company steamer Patna in May 1880, the witnesses were civilian merchant crew, and their report circulated through channels connected to Admiralty records.
 
-The Admiralty's collection of these reports represents an early instance of a government maritime authority receiving and preserving accounts of anomalous transmedium phenomena before formal UAP suppression mechanisms existed. Unlike the post-World War II American regulatory framework ([[OPNAV 3820]], [[JANAP 146C]]) which actively classified and suppressed maritime UAP reports, the nineteenth-century Admiralty preserved these accounts as straightforward navigational and scientific observations.
+These reports are an early example of a government maritime authority receiving and preserving accounts of anomalous transmedium phenomena before formal UAP suppression mechanisms existed. The nineteenth-century Admiralty kept them as ordinary navigational and scientific observations. After World War II, the American regulatory framework ([[OPNAV 3820]], [[JANAP 146C]]) instead actively classified and suppressed maritime UAP reports.
 
 ## Sources
 
