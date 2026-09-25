@@ -15,22 +15,22 @@ tags:
 stats:
   - value: 15
     label: Pages of notes
-    hint: "Davis's record of 16 Oct 2002"
+    hint: "Davis's notes of the car meeting on 16 Oct 2002"
   - value: 45
     label: Days of searching
-    hint: "Wilson's investigation, Apr–Jun 1997"
+    hint: "Wilson's hunt for the program, Apr–Jun 1997"
   - value: "4 of 7"
     label: Program managers
-    hint: "who pointed him to the same program"
+    hint: "Of the managers Wilson called, these sent him to the same program"
   - value: "400–800"
-    label: Workers since inception
-    hint: "per the program manager"
+    label: Workers since it began
+    hint: "The staff count the program's manager gave Wilson"
 ---
 ::
 
 ## Overview
 
-This was Gerb's first video on the channel. It is a line-by-line reading of the [[Wilson-Davis Memo]], 15 pages of notes that leaked in 2018 from the estate of Apollo 14 astronaut [[Edgar Mitchell]]. The notes record an alleged meeting on 16 October 2002 between astrophysicist [[Eric Davis]] and retired Vice Admiral [[Thomas Wilson]], held in Wilson's car outside the defense contractor [[EG&G]]. In them, Wilson recounts how a 1997 Pentagon briefing by [[Steven Greer]], Commander [[Will Miller]] and Mitchell led him to search for a hidden UFO crash-retrieval program. He says he found it inside a set of unacknowledged [[Special Access Programs (SAPs)|special access programs]], run by an unnamed aerospace contractor and guarded by a three-person [[Watch Committee]], which told him the program held "an intact craft they believed could fly" of non-human origin. It then refused to read him in, even though as a senior DIA official he held oversight of every special access program in the Department of Defense.
+This was Gerb's first video on the channel. It is a line-by-line reading of the [[Wilson-Davis Memo]], 15 pages of notes that leaked in 2018 from the estate of Apollo 14 astronaut [[Edgar Mitchell]]. The notes record an alleged meeting on 16 October 2002 between astrophysicist [[Eric Davis]] and retired Vice Admiral [[Thomas Wilson]], held in Wilson's car outside the defense contractor [[EG&G]]. In them, Wilson recounts how a 1997 Pentagon briefing by [[Steven Greer]], Commander [[Will Miller]] and Mitchell led him to search for a hidden UFO crash-retrieval program. He says he found it inside a set of unacknowledged [[Special Access Programs (SAPs)|special access programs]], run by an unnamed aerospace contractor and guarded by a three-person [[Watch Committee]], which told him the program held "an intact craft they believed could fly" of non-human origin. It then refused to read him in (give him access), even though as a senior official of the Defense Intelligence Agency (DIA) he held oversight of every special access program in the Department of Defense.
 
 Gerb opens with how the notes reached the public through [[James Rigny]] and profiles the two men. He then walks through the notes in order: Wilson's 45-day investigation, his confrontation with the watch committee, and the Pentagon review group that upheld the refusal and threatened his career. The last third weighs the evidence for and against authenticity. Wilson denied the meeting in 2020, and Davis will neither confirm nor deny it. On the other side, Mitchell described the same 1997 episode on *Larry King Live* in 2008; [[Oak Shannon]], [[Chris Mellon]], [[Luis Elizondo|Lou Elizondo]], [[Ross Coulthart]] and [[Richard Dolan]] have attested to the document; and it was entered into the Congressional Record in 2022.
 
@@ -40,24 +40,24 @@ Gerb's verdict is that "the memo is real". He argues that Wilson's account of an
 
 ::wiki-timeline{video="yIqkazIZh9I" video-title="The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs"}
 ---
-help: "The bar pinned above the entries is a ruler from 1973 to 2023. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The chapters follow the story rather than the video's running order: Gerb reads the 2002 notes first, and the notes describe 1997. While the video plays, the thicker line shows which entry Gerb is discussing, so expect it to jump back and forth. Timestamps jump the mini-player to that moment."
+help: "The bar above the list runs from 1973 to 2023, with a mark for each entry, coloured by type; taller marks are major entries. Click the bar to jump to a year. The dark line shows where you are reading. The list is in story order, which differs from the video's order. Gerb reads the 2002 notes first, and the notes describe 1997. Play from here starts the video at the entry you are reading. Once the video is playing, a green line shows which entry Gerb has reached, and it will jump back and forth. Click a timestamp to play the video from that moment."
 eras:
   - id: background
     label: "Background"
     from: 1973
     to: 1996
-    summary: "Mitchell goes public about UFOs, and the pieces of the hidden program's paperwork are put in place."
+    summary: "Mitchell starts talking publicly about UFOs, and the program records that Wilson would later see are created."
   - id: search
     label: "Wilson's search"
     from: 1997
     to: 1998
-    summary: "The events the notes describe: a Pentagon briefing, a 45-day hunt, a refusal and a threat."
+    summary: "The events in the notes. A Pentagon briefing about UFOs sends Wilson on a 45-day hunt, which ends with a refusal and a threat to his career."
     anchor: "wilsons-1997-investigation"
   - id: meeting
     label: "The meeting"
     from: 1999
     to: 2015
-    summary: "Wilson leads the DIA, then tells Davis the story in a parked car."
+    summary: "Wilson becomes head of the Defense Intelligence Agency (DIA), then tells Davis his story in a parked car."
     anchor: "the-october-2002-meeting"
   - id: leak
     label: "The leak and its reception"
@@ -79,7 +79,7 @@ events:
     cue: 152
   - date: "1990"
     title: "Program bigot list pages dated 1990 to 1993"
-    summary: "The watch committee later showed Wilson pages of the program's bigot list covering 1990 to 1993. Every name he recognized was a civilian or a Pentagon or NSC official; no politicians, White House staff or members of Congress."
+    summary: "The watch committee later showed Wilson pages of the program's bigot list (the list of people cleared for it) covering 1990 to 1993. Every name he recognized was a civilian or an official of the Pentagon or the National Security Council (NSC). There were no politicians, White House staff or members of Congress."
     category: document
     significance: minor
     entities:
@@ -88,7 +88,7 @@ events:
     cue: 933
   - date: "1994"
     title: "Perry organizes the special project records group"
-    summary: "According to the notes, Secretary of Defense Bill Perry organized a 'special project records group not belonging to usual special access programs' within OUSD(AT) in 1994: a subset of unacknowledged carve-outs and waived programs."
+    summary: "According to the notes, Secretary of Defense Bill Perry organized a 'special project records group not belonging to usual special access programs' in 1994, inside the Office of the Under Secretary of Defense for Acquisition and Technology (OUSD(AT)). It was a subset of unacknowledged carve-outs and waived programs."
     category: policy
     significance: notable
     entities:
@@ -129,7 +129,7 @@ events:
     cue: 780
   - date: "1997"
     title: "SAPOC senior review group sustains the denial"
-    summary: "Back in Washington, Wilson complained to the SAPOC senior review group, which sided with the contractor. Its chairman, John Deutsch, allegedly warned that if Wilson pressed on he would miss promotion to DIA director, be retired early and lose one or two stars."
+    summary: "Back in Washington, Wilson complained to the senior review group of SAPOC, the Special Access Program Oversight Committee, which sided with the contractor. Its chairman, John Deutsch, allegedly warned that if Wilson pressed on he would miss promotion to DIA director, be retired early and lose one or two stars."
     category: event
     significance: major
     entities:
@@ -148,7 +148,7 @@ events:
     cue: 1122
   - date: "1998-01"
     title: "Gansler: UFOs are real"
-    summary: "In January 1998 Wilson spoke with Jacques Gansler and learned someone had read him into the program. Gansler told him 'UFOs are real, so-called alien abductions not real', and would say no more."
+    summary: "In January 1998 Wilson spoke with Jacques Gansler and learned that someone had read Gansler into the program. Gansler told him 'UFOs are real, so-called alien abductions not real', and would say no more."
     category: person
     significance: notable
     entities:
@@ -156,7 +156,7 @@ events:
     cue: 1138
   - date: "1999"
     title: "Wilson becomes Director of the DIA"
-    summary: "Despite the threat, Wilson went on to serve as Director of the Defense Intelligence Agency from 1999 to 2002."
+    summary: "Despite the threat, Wilson was Director of the Defense Intelligence Agency from 1999 to 2002."
     category: person
     significance: minor
     entities:
@@ -176,7 +176,7 @@ events:
     cue: 344
   - date: "2008"
     title: "Mitchell on Larry King Live"
-    summary: "On CNN, Mitchell described taking his story to the Joint Chiefs' intelligence staff with another naval officer, and a vice admiral who traced the black-budget funding, then was told he had no need to know."
+    summary: "On CNN, Mitchell said he and another naval officer took his story to the Joint Chiefs' intelligence staff. A vice admiral traced the black-budget funding and was then told he had no need to know."
     category: event
     significance: notable
     entities:
@@ -201,7 +201,7 @@ events:
     cue: 91
   - date: "2018"
     title: "The notes leak to the public"
-    summary: "The 15-page notes became public; Rigny later explained their origin on Richard Dolan's podcast."
+    summary: "The 15 pages of notes became public. Rigny later explained their origin on Richard Dolan's podcast."
     category: document
     significance: major
     entities:
@@ -211,7 +211,7 @@ events:
     cue: 0
   - date: "2018"
     title: "Knapp leaks the 38 AATIP studies"
-    summary: "George Knapp published reports of 38 studies commissioned under AATIP, confirmed by John Greenewald's 2019 FOIA request. Gerb cites them for Davis's work on wormholes, anti-gravity and vacuum energy."
+    summary: "George Knapp published reports of 38 studies commissioned under the Advanced Aerospace Threat Identification Program (AATIP), later confirmed by John Greenewald's 2019 FOIA request. Gerb credits Davis with the papers among them on wormholes, anti-gravity and vacuum energy."
     category: document
     significance: minor
     entities:
@@ -239,7 +239,7 @@ events:
     cue: 1572
   - date: "2023"
     title: "Grusch's account echoes Wilson's"
-    summary: "Gerb reads Wilson's embedded, nested crash-retrieval program as an almost identical account to the one whistleblower David Grusch gave in 2023."
+    summary: "Gerb sees Wilson's description of an embedded, nested crash-retrieval program as almost identical to the account whistleblower David Grusch gave in 2023."
     category: person
     significance: minor
     entities:
@@ -255,7 +255,7 @@ Nobody knows how Mitchell came to hold the notes. Gerb traces what is known of t
 ::wiki-chain{video="yIqkazIZh9I" video-title="The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs"}
 ---
 kind: transmission
-caption: "How Wilson's account reached the public, as the video traces it. The step from Davis to Mitchell is unexplained: 'nobody knows' how Mitchell came to hold the notes."
+caption: "How Wilson's account reached the public, as Gerb traces it in the video. The step from Davis to Mitchell is unexplained: 'nobody knows' how Mitchell came to hold the notes."
 steps:
   - name: "Thomas Wilson"
     date: "2002-10-16"
@@ -291,9 +291,9 @@ Whatever the route, Gerb notes, Mitchell was deeply involved in ufology after hi
 
 ## The Two Men
 
-**Eric Davis** is an astrophysicist with Department of Defense ties who worked with [[AATIP (Advanced Aerospace Threat Identification Program)|AATIP]] and served as chief science officer at [[EarthTech|EarthTech International]]. In 2018 journalist [[George Knapp]] leaked reports of 38 studies commissioned under AATIP, later confirmed through a 2019 FOIA request by [[John Greenewald]] of The Black Vault. Gerb points to papers among them on traversable wormholes and negative energy, anti-gravity for aerospace applications, and extracting energy from the quantum vacuum, all of which he credits to Davis.
+Eric Davis is an astrophysicist with Department of Defense ties who worked with [[AATIP (Advanced Aerospace Threat Identification Program)|AATIP]] and served as chief science officer at [[EarthTech|EarthTech International]]. In 2018 journalist [[George Knapp]] leaked reports of 38 studies commissioned under AATIP, later confirmed through a 2019 FOIA request by [[John Greenewald]] of The Black Vault. Gerb points to papers among them on traversable wormholes and negative energy, anti-gravity for aerospace applications, and extracting energy from the quantum vacuum, all of which he credits to Davis.
 
-**Vice Admiral Thomas Wilson** was deputy director and then, from 1999 to 2002, Director of the [[Defense Intelligence Agency]], decorated during his Navy career with the Defense Distinguished Service Medal and the Distinguished Service Medal. Gerb stresses what his post meant: in any ordinary case, a DIA deputy director has access to, and oversight of, every special access program in the Department of Defense, acknowledged or unacknowledged.
+Vice Admiral Thomas Wilson was deputy director and then, from 1999 to 2002, Director of the [[Defense Intelligence Agency]], decorated during his Navy career with the Defense Distinguished Service Medal and the Distinguished Service Medal. Gerb stresses what his post meant: in any ordinary case, a DIA deputy director has access to, and oversight of, every special access program in the Department of Defense, acknowledged or unacknowledged.
 
 ## The October 2002 Meeting
 
@@ -313,11 +313,11 @@ The four referring programs were, in the notes' words, "part of it in different 
 
 ::wiki-org-chart
 ---
-caption: "Where the program sat, as Wilson describes it in the notes. The notes don't say how the four referring compartments relate to the core program; Gerb suspects they were nested inside one another."
+caption: "Where the program sat, as Wilson describes it in the notes. Four of the program managers Wilson called sent him to it. The notes don't say how their compartments relate to the core program; Gerb suspects they were nested inside one another."
 root:
   name: "SAPOC (Special Access Program Oversight Committee)"
   label: "Pentagon SAP oversight"
-  note: "Struck a formal agreement with the program after an audit nearly exposed it; its senior review group later upheld Wilson's refusal."
+  note: "Struck a formal agreement with the program after an audit nearly exposed it; its senior review group later upheld the decision to refuse Wilson."
   children:
     - name: "Special project records group"
       label: "OUSD(AT) records, organized 1994 by Bill Perry"
@@ -332,7 +332,7 @@ root:
           children:
             - name: "Watch Committee"
               label: "The program's gatekeepers"
-              note: "Formed to protect the program after a near-exposure."
+              note: "Formed to protect the program after it was nearly exposed."
               children:
                 - name: "Security director"
                   label: "Formerly NSA"
@@ -347,14 +347,14 @@ root:
 
 At the end of May 1997 Wilson made three calls to the program manager, one of them a conference call with the security director and the corporate attorney. He told them he had read their record in the OUSD(AT) SAP records group and asked about their crashed-UFO retrieval program: their role, what they had, and whether they had heard of [[Majestic 12]] or any similar code. They responded with confusion and agitation, and asked who he had spoken to first. Wilson demanded a formal briefing, invoking his authority as deputy director of the DIA and assistant to the Joint Chiefs of Staff for intelligence (J-2). They agreed to meet, and Wilson flew out to see all three in a conference room inside a secure vault.
 
-Asked about their name, they said they had formed the watch committee out of necessity, after a near-disaster almost blew their cover. Wilson pieced together the rest. A past audit had nearly exposed the program and set off a tug-of-war with Pentagon officials over transparency, with money and hiding at its centre. After a threat to "blow the lid off" the program, the auditor was briefed and given a tour. A formal agreement with [[SAPOC (Special Access Program Oversight Committee)|SAPOC]] followed, together with strict access criteria controlled by the committee, which it refused to disclose to Wilson.
+Asked about their name, they said they had formed the watch committee out of necessity, after a near-disaster almost blew their cover. Wilson pieced together the rest. A past audit had nearly exposed the program and set off a tug-of-war with Pentagon officials over transparency, with money and hiding at its centre. After a threat to "blow the lid off" the program, the auditor was briefed and given a tour. A formal agreement with [[SAPOC (Special Access Program Oversight Committee)|SAPOC]], the Pentagon's Special Access Program Oversight Committee, followed, together with strict access criteria controlled by the committee, which it refused to disclose to Wilson.
 
-The purpose of the meeting, they told him, was to say he would not be read in. His clearances were valid, but he was not on the [[Bigot List|bigot list]]. As proof, they showed him pages of the list dated 1990 to 1993. Every name he recognized was a civilian (scientists, technicians, engineers, managers) or an official from OUSD(AT), the [[National Security Council]] or other Pentagon offices. There were no politicians, no White House names, no presidents, members of Congress or staffers, and nobody from the Clinton or George H. W. Bush administrations.
+They told him the meeting was to say that he would not be read in. His clearances were valid, but he was not on the [[Bigot List|bigot list]], the list of people cleared for the program. As proof, they showed him pages of the list dated 1990 to 1993. Every name he recognized was a civilian (scientists, technicians, engineers, managers) or an official from OUSD(AT), the [[National Security Council]] or other Pentagon offices. There were no politicians, no White House names, no presidents, members of Congress or staffers, and nobody from the Clinton or George H. W. Bush administrations.
 
 ::wiki-claim{video="yIqkazIZh9I" video-title="The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs"}
 ---
-label: "The access dispute"
-caption: "Wilson's case for being read in, and who answered it, according to the notes."
+label: "Was Wilson entitled to access?"
+caption: "Wilson's argument, according to the notes, that he had a right to be read into the program, and the responses to it."
 claims:
   - title: "Entitled by statute"
     by: "Thomas Wilson"
@@ -370,7 +370,7 @@ claims:
         cue: 903
       - by: "Gerb"
         stance: supports
-        text: "In every other situation, the DIA deputy director has access to all acknowledged and unacknowledged SAPs."
+        text: "In every other situation, the DIA deputy director has access to all acknowledged and unacknowledged special access programs (SAPs)."
         cue: 925
       - by: ["SAPOC (Special Access Program Oversight Committee)", "John Deutsch"]
         stance: challenges
@@ -382,7 +382,7 @@ claims:
 
 ### What the program had
 
-Before the refusal, the committee described the program. It was not a weapons, intelligence, special operations or logistics program, and fitted none of those categories. After some hesitation ("it's okay to say it"), the security director and the attorney said it was a reverse-engineering program built around "something recovered in the past": technological hardware. Wilson assumed Soviet or Chinese technology, with UFOs as a cover story. They said no. According to the program manager, they had "a craft, an intact craft they believed could fly". Gerb notes that he did not say in what medium. The manager was emphatic that it did not come from overseas. They did not know where it came from, though they had some ideas, and it was technology "not of this Earth, not made by man, not by human hands".
+Before the refusal, the committee described the program. It was not a weapons, intelligence, special operations or logistics program. After some hesitation ("it's okay to say it"), the security director and the attorney said it was a reverse-engineering program built around "something recovered in the past": technological hardware. Wilson assumed Soviet or Chinese technology, with UFOs as a cover story. They said no. According to the program manager, they had "a craft, an intact craft they believed could fly". Gerb notes that he did not say in what medium. The manager was emphatic that it did not come from overseas. They did not know where it came from, though they had some ideas, and it was technology "not of this Earth, not made by man, not by human hands".
 
 Progress had been "agonizingly slow", with little or no success over years. Part of the reason was isolation. The program could not ask the wider scientific community for help, had to use its own facilities and cleared staff, and had involved only 400 to 800 workers since it began. When Wilson asked about Roswell, a Holloman Air Force Base landing, Majestic 12 and the documents leaked about it, and the Zamora and Bentwaters cases, the committee declined to discuss them.
 
@@ -392,12 +392,12 @@ Wilson threatened to take the matter to SAPOC. Back in Washington he did, but it
 
 ## Statements on Authenticity
 
-Gerb sets out who has spoken about the notes since the leak. The principals themselves are the least forthcoming. In a since-deleted segment of *The Basement Office* with [[Steven Greenstreet]], Davis refused to say whether the meeting happened. He confirmed only that the notes "were leaked out of Ed Mitchell's estate", explaining that the Justice Department vigorously prosecutes clearance holders who discuss leaked classified information. Miller, interviewed by researcher Joe Murgia, said he had no recollection of his letter to Davis, or would not discuss it.
+Gerb sets out who has spoken about the notes since the leak. Wilson and Davis themselves have said the least. In a since-deleted segment of *The Basement Office* with [[Steven Greenstreet]], Davis refused to say whether the meeting happened. He confirmed only that the notes "were leaked out of Ed Mitchell's estate", explaining that the Justice Department vigorously prosecutes clearance holders who discuss leaked classified information. Miller, interviewed by researcher Joe Murgia, said he had no recollection of his letter to Davis, or would not discuss it.
 
 ::wiki-claim{video="yIqkazIZh9I" video-title="The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs"}
 ---
 label: "Is the memo real?"
-caption: "Wilson's denial and the responses to it, plus Will Miller's answer to a remark Wilson made in the same interview. Edgar Mitchell's 2008 account is compared with the notes point by point below."
+caption: "Wilson's denial of the notes and the responses to it. The second claim is a remark from the same interview, with Will Miller's answer. Edgar Mitchell's 2008 account is compared with the notes point by point further down the page."
 claims:
   - title: "\"It's all fiction\""
     by: "Thomas Wilson"
@@ -452,7 +452,7 @@ claims:
 ---
 ::
 
-Gerb's main exhibit on the other side is Mitchell himself. On CNN's *Larry King Live* in 2008, years before the notes surfaced from his estate, Mitchell described the same 1997 episode from his end. Miller, for his part, confirmed the 1997 meeting to Murgia and said Wilson took it at Miller's request, adding that DIA Director [[Patrick M. Hughes]] had also asked for a briefing and wanted it expedited. Set side by side, the accounts agree on the Pentagon briefing and part company only where Wilson speaks for himself.
+Gerb's main exhibit on the other side is Mitchell himself. On CNN's *Larry King Live* in 2008, years before the notes surfaced from his estate, Mitchell described the same 1997 episode from his end. Miller, for his part, confirmed the 1997 meeting to Murgia and said Wilson took it at Miller's request, adding that DIA Director [[Patrick M. Hughes]] had also asked for a briefing and wanted it expedited. The accounts agree on the Pentagon briefing and differ only in what Wilson himself later said.
 
 ::wiki-compare{video="yIqkazIZh9I" video-title="The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs"}
 ---
@@ -494,7 +494,7 @@ rows:
 ---
 ::
 
-Miller went further than the others on the underlying question. Asked by Murgia whether the US has intact craft, he said it was his "firm belief" that the US, the Russians, probably the Germans and perhaps the Chinese have at least partial technologies, and the US most likely "entire operational craft", including a "transluminal velocity craft that can take us anywhere in space and time", probably not developed independently. He described a bigot list as a term from the British invasion of German-occupied territory in the Second World War, which today simply means the list of people authorized for a SAP or USAP. How limited the list is depends on how sensitive the program is.
+Miller went further than the others on the underlying question. Asked by Murgia whether the US has intact craft, he said it was his "firm belief" that the US, the Russians, probably the Germans and perhaps the Chinese have at least partial technologies, and the US most likely "entire operational craft", including a "transluminal velocity craft that can take us anywhere in space and time", probably not developed independently. He described a bigot list as a term from the British invasion of German-occupied territory in the Second World War, which today simply means the list of people authorized for a SAP or USAP (a special access program, acknowledged or unacknowledged). How limited the list is depends on how sensitive the program is.
 
 ### Gerb's verdict
 
