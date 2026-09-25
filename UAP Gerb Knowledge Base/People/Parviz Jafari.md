@@ -13,7 +13,7 @@ Vectored toward the large object, Jafari reported that a smaller, brightly lit o
 
 ## In UAP Gerb's coverage
 
-In UAP Gerb's video on physicist [[Kevin Knuth]]'s 2023 [[Sol Foundation 2023 Presentation by Kevin Knuth|Sol Foundation talk]], Jafari's scrambled avionics are the first of Knuth's examples of electronics failing close to a craft, evidence Knuth takes for strong electric and magnetic fields around UAP.
+In Gerb's video on physicist [[Kevin Knuth]]'s 2023 [[Sol Foundation 2023 Presentation by Kevin Knuth|Sol Foundation talk]], Jafari's scrambled avionics are the first of Knuth's examples of electronics failing close to a craft. Knuth takes such failures as evidence of strong electric and magnetic fields around UAP.
 
 ## Sources
 
