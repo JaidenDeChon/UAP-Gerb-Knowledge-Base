@@ -9,11 +9,11 @@ Dawn Meyerriecks is a former senior US intelligence technology and acquisition o
 
 ## Alleged Legacy Program Relevance
 
-In its MITRE investigation, UAP Gerb includes Meyerriecks among the former intelligence officials who moved into MITRE after government service, saying she went to MITRE's corporate leadership "immediately following" her time at the CIA's DS&T (which the video dates 2013–2021). The channel says ADNI/AT&F, together with its Department of Defense counterpart, the Under Secretary of Defense for Acquisition and Sustainment, is imperative to legacy program operations, particularly through National Reconnaissance Office acquisitions. It groups her with [[Donald M. Kerr]], [[Stephanie O'Sullivan]] and [[Susan Gordon]] as a pattern of senior intelligence-community figures with alleged legacy program proximity taking MITRE roles.
+In its MITRE investigation, UAP Gerb includes Meyerriecks among the former intelligence officials who moved into MITRE after government service, saying she joined MITRE's corporate leadership "immediately following" her time at the CIA's Directorate of Science and Technology (DS&T), which the video dates 2013–2021. The channel says the ADNI/AT&F office she once led, together with its Department of Defense counterpart, the Under Secretary of Defense for Acquisition and Sustainment, is essential to legacy program operations, particularly through National Reconnaissance Office acquisitions. It names her alongside [[Donald M. Kerr]], [[Stephanie O'Sullivan]] and [[Susan Gordon]] as part of a pattern: senior intelligence-community figures allegedly close to legacy programs who took roles at MITRE.
 
 ## TRW and Alleged Data Masking
 
-UAP Gerb's *Northrop Grumman & TRW* notes that Meyerriecks worked at TRW from 1981 to 1993, overlapping for about two years with [[Stephanie O'Sullivan]]. Gerb suggests her CV may be "data masked", pointing to a move from a senior vice presidency at AOL and her own consultancy straight into ADNI/AT&F, and speculates that it omits earlier exposure to unacknowledged programs or that her corporate post was interwoven with the CIA. He considers both possibilities feasible.
+UAP Gerb's *Northrop Grumman & TRW* notes that Meyerriecks worked at TRW from 1981 to 1993, overlapping for about two years with [[Stephanie O'Sullivan]]. Gerb suggests her CV may be "data masked", pointing to her move straight into ADNI/AT&F from a senior vice presidency at AOL and her own consultancy. He speculates either that the CV leaves out earlier exposure to unacknowledged programs or that her corporate post was interwoven with the CIA, and he considers both possibilities feasible.
 
 ## Sources
 
