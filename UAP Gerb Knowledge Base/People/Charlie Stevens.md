@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Charlie Stevens was an Aurora, Texas resident whose testimony was gathered during the 1973 [[MUFON]] investigation of the [[Aurora Texas UFO Crash]] led by [[Bill Case]]. Stevens was approximately 10 years old at the time of the alleged April 17, 1897 incident. He told investigators that he personally observed an airship trailing smoke as it flew north toward Aurora. He had wanted to investigate the crash site himself, but his father required him to complete his chores first. His father traveled into Aurora the following day to view the wreckage. Stevens's account provides a direct eyewitness observation of an airship-type object in flight toward the crash location on the day of the alleged incident.
+Charlie Stevens was an Aurora, Texas resident whose testimony was gathered during the 1973 [[MUFON]] investigation of the [[Aurora Texas UFO Crash]] led by [[Bill Case]]. Stevens was about 10 years old at the time of the alleged April 17, 1897 incident. He told investigators that on the day of the alleged incident he himself saw an airship trailing smoke as it flew north toward Aurora and the crash site. He wanted to investigate the crash site himself, but his father made him finish his chores first. His father went into Aurora the following day to see the wreckage.
 
 ## Sources
 
