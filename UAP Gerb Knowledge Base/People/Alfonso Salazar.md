@@ -5,25 +5,21 @@ tags:
   - person
 ---
 
-**Alfonso Salazar** is a Mexican UFO researcher who contributed crucial documentary evidence to the investigation of the [[1974 Coyame, Mexico UFO Crash Retrieval]] case.
+**Alfonso Salazar** is a Mexican UFO researcher who contributed documentary evidence to the investigation of the [[1974 Coyame, Mexico UFO Crash Retrieval]] case.
 
 ## Contribution to the Coyame Investigation
 
-Salazar located a newspaper article from *El Heraldo de Chihuahua*, dated October 27, 1974, that detailed the death of a group of Mexican soldiers in the crash of a "military transport." This article, published just two months after the alleged August 25, 1974 Coyame incident, represents one of the few pieces of contemporaneous documentation that may corroborate elements of the [[Denb Report]].
+Salazar found an article in the newspaper *El Heraldo de Chihuahua*, dated October 27, 1974, reporting that a group of Mexican soldiers had died in the crash of a "military transport." It appeared only two months after the alleged Coyame incident of August 25, 1974, and is one of the few contemporaneous documents that may corroborate parts of the [[Denb Report]].
 
-The article's reference to Mexican soldiers dying in a "military transport" crash could align with the Denb Report's account of Mexican military personnel who located the crashed disc and civilian aircraft, loaded the disc onto a flatbed truck convoy, and subsequently died under mysterious circumstances before reaching their headquarters. However, the article's description as a "military transport" crash may also represent a cover story or misidentification.
+The article's report of Mexican soldiers dying in a "military transport" crash could match the Denb Report's account, in which Mexican military personnel found the crashed disc and civilian aircraft, loaded the disc onto a flatbed truck convoy, and then died under mysterious circumstances before reaching their headquarters. The "military transport" description may also have been a cover story or a misidentification.
 
-Salazar's discovery was cited by researchers [[Noe Torres]] and [[Ruben Uriarte]] in their follow-up book *The Coyame Incident*. The article remains difficult to verify independently, as UAP Gerb was "unable to track this paper" and access the original source.
+Researchers [[Noe Torres]] and [[Ruben Uriarte]] cited Salazar's discovery in their follow-up book *The Coyame Incident*. The article is hard to verify independently, because Gerb was "unable to track this paper" and could not reach the original source.
 
 ## Significance
 
-Salazar's contribution is significant because:
+The article may be a contemporaneous Mexican press account of military deaths in the Coyame region in 1974. Because it comes from the Mexican press, it is domestic documentation rather than US-sourced claims. It also suggests that the incident got some attention in the Mexican media, even if the story it told was a different one.
 
-- It provides a potential contemporaneous Mexican press account of military deaths in the Coyame region in 1974
-- It represents Mexican domestic documentation rather than US-sourced claims
-- It suggests the incident had some level of visibility within Mexican media, even if reported under a different narrative
-
-The extent of Salazar's research into the Coyame case, and whether he uncovered additional documentation or witness testimony, is not detailed in publicly available sources.
+Publicly available sources do not say how far Salazar's research into the Coyame case went, or whether he found other documents or witness testimony.
 
 ## Sources
 
