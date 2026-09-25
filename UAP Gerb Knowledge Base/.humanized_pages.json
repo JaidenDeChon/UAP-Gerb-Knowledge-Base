@@ -494,6 +494,11 @@
     "sha256": "de89f6d57529b4a6161f6171e16180db00f2ae044d59d0cedf9731325c4d0a68",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/Lockheed Martin Skunk Works.md": {
+    "humanized_at": "2026-09-25T23:49:13Z",
+    "sha256": "aaa84bb6316ebe8be6b99bbd1e8f990cdcc5dbf418ae1d4b00928b32f949f0b2",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
