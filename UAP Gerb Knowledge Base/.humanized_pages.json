@@ -1148,6 +1148,11 @@
     "sha256": "b89b3d3e70615a3765cbe5ddd17a70823fec284adc942fe65657d306cf6de5d0",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/People/John Von Neumann.md": {
+    "humanized_at": "2026-09-25T19:18:48Z",
+    "sha256": "edde9745d7f832688255163fcc48b84312ae5c381a55424114d13f939a24f3ef",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/José Ramón Zuazu.md": {
     "humanized_at": "2026-09-25T19:18:13Z",
     "sha256": "b0820dcf4977d5580e8c72433d4e563e02635228398a53f44ab1924ad99b87b0",
