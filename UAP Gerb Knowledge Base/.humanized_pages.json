@@ -543,6 +543,11 @@
     "sha256": "46fb6dd9db5c31e39872cf700bfa51f809aeb3fabfdfdd216f358c0778530941",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/People/Edward Nugent.md": {
+    "humanized_at": "2026-09-25T19:10:33Z",
+    "sha256": "8ce43421009329805d353367f72b07fe59ac0077f637008dce04cf48d557a4be",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/Einstein.md": {
     "humanized_at": "2026-09-25T19:10:19Z",
     "sha256": "cf6ca597be4442e424959d31bf519af0400eb332ad135a5d19e4a66fd9601f24",
