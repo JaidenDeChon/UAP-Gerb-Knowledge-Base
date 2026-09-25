@@ -1618,6 +1618,11 @@
     "sha256": "4fb520c12c04f3bc49a0bced491f9b913dd9d9b590c80f787d74c4d317121545",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/People/RB.md": {
+    "humanized_at": "2026-09-25T19:23:54Z",
+    "sha256": "a7001177201e7fdcf7c570a195de8bd3afc81860a1bc0b32b5c8010ef108e4f6",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/Raymond Fowler.md": {
     "humanized_at": "2026-09-25T19:23:54Z",
     "sha256": "7a461ec7581f22dd0440fb3b8d152b5002dcec2ab930c4a51d7cd6c63448b147",
