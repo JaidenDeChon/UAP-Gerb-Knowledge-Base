@@ -10,7 +10,7 @@ Paul Bennewitz (1927–2003) was an American businessman and physicist in Albuqu
 
 ## As a Comparison Case
 
-In *[[Michael Herrera - Insights into UAP Encounter and Black Program Insiders]]*, [[Joey Is Not My Name]] rejects comparisons between [[Michael Herrera]] and Bennewitz. Bennewitz, he says, had only radio intercepts that he speculated were extraterrestrial, which Doty then encouraged, while Herrera describes a direct, close-range sighting. Joey says Doty told him he had been instructed to feed Bennewitz that material. He argues that if Herrera had invented his encounter, an insider claiming to know about it would be self-evidently lying, so a disinformation approach of the Bennewitz kind makes little sense. Other pages on Herrera's insider raise the Bennewitz case as a possible parallel (see [[The Insider]]).
+In *[[Michael Herrera - Insights into UAP Encounter and Black Program Insiders]]*, [[Joey Is Not My Name]] rejects comparisons between [[Michael Herrera]] and Bennewitz. Bennewitz, he says, had only radio intercepts that he speculated were extraterrestrial, and Doty then encouraged that speculation, while Herrera describes a direct, close-range sighting. Joey says Doty told him he had been instructed to feed Bennewitz that material. He argues that if Herrera had invented his encounter, an insider claiming to know about it would be self-evidently lying, so a disinformation approach of the Bennewitz kind makes little sense. Other pages on Herrera's insider raise the Bennewitz case as a possible parallel (see [[The Insider]]).
 
 ## Sources
 
