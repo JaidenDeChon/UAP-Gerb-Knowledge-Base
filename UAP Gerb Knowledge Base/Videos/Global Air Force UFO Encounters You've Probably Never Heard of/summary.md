@@ -15,15 +15,15 @@ tags:
 stats:
   - value: 4
     label: Air Force encounters
-    hint: "USA, Finland, Peru, Mexico"
+    hint: "One each in the USA, Finland, Peru and Mexico"
   - value: 56
     label: Years spanned
-    hint: "1948–2004"
+    hint: "From 1948 to 2004"
   - value: 64
     label: 30 mm shells fired
-    hint: "at La Joya, to no effect"
+    hint: "Fired at the object over La Joya, Peru, with no effect"
   - value: "14:18"
-    label: Runtime
+    label: Video length
 ---
 ::
 
@@ -36,15 +36,15 @@ This short video collects four official military encounters with UFOs from aroun
 3. the [[La Joya Airbase UFO Intercept]] of 11 April 1980, in which Peruvian Lieutenant [[Oscar Santa Maria Huertas]] fired 64 30 mm shells at a silvery object to no effect, then chased it for 84 km; and
 4. the [[Mexico UFO Incident]] of 5 March 2004, in which a [[Mexican Air Force]] crew filmed 11 lights on infrared over [[Campeche, Mexico|Campeche]], three of which appeared on radar.
 
-For each case Gerb tells the pilot's story in detail, then sets out the official record and any prosaic explanation. Project Sign reduced Gorman's light to a weather balloon or Jupiter; skeptic [[Michael Shermer]] suggests the Mexican lights were oil-platform flares. Gerb closes by ranking the four. The Gorman and Peruvian cases, he says, are the most compelling, with the most sensory data. He leans toward a UFO explanation of the Finnish case on the strength of the pilot's testimony. Of the four, the Mexico sightings have the highest probability of a prosaic explanation, but he is not convinced they were flares.
+For each case Gerb tells the pilot's story in detail, then sets out the official record and any prosaic explanation. Project Sign explained Gorman's light as a weather balloon or Jupiter; skeptic [[Michael Shermer]] suggests the Mexican lights were oil-platform flares. Gerb closes by ranking the four. The Gorman and Peruvian cases, he says, are the most compelling, with the most sensory data. He leans toward a UFO explanation of the Finnish case on the strength of the pilot's testimony. Of the four, the Mexico sightings have the highest probability of a prosaic explanation, but he is not convinced they were flares.
 
 ## The Four Encounters
 
-The four cases share a pattern: a military pilot sent after, or chancing on, something that looks at first like a light or a balloon, which then outperforms the aircraft. The matrix sets them side by side; each has its own section below.
+In each case a military pilot is sent after, or comes across, something that at first looks like a light or a balloon, and it then outperforms the aircraft. The table below sets the four side by side, and each case has its own section after it.
 
 ::wiki-compare{video="6cVe-hdMTCE" video-title="Global Air Force UFO Encounters You've Probably Never Heard of"}
 ---
-caption: "The four encounters as Gerb presents them. Figures are as he gives them in the video."
+caption: "The four encounters side by side, as Gerb presents them. All figures are the ones he gives in the video."
 attributeLabel: "Point"
 subjects:
   - name: "Gorman Dogfight"
@@ -143,7 +143,7 @@ In 1948 UFO investigations belonged to [[Project Sign]], which, Gerb explains, w
 ::wiki-claim{video="6cVe-hdMTCE" video-title="Global Air Force UFO Encounters You've Probably Never Heard of"}
 ---
 term: "Explanation"
-caption: "Project Sign's two readings of the Gorman case, and the answers to the second from Gorman and from Gerb. Gorman's sworn statement came before Sign's final conclusion."
+caption: "Project Sign, which was investigating UFOs at the time, gave two explanations of the Gorman case. Gorman and Gerb both dispute the second. Gorman's sworn statement came before Sign's final conclusion."
 claims:
   - title: "An atomic-powered object"
     by: "Project Sign"
@@ -153,21 +153,21 @@ claims:
     responses:
       - by: "Project Sign"
         stance: challenges
-        text: "After further investigation: the extra radiation came from reduced shielding from radiation at 14,000 ft."
+        text: "After further investigation, Sign put the extra radiation down to reduced shielding from radiation at 14,000 ft."
         cue: 340
   - title: "A weather balloon or Jupiter"
     by: "Project Sign"
-    text: "Having first rolled out weather balloons, jets and the like, Sign concluded that Gorman chased a lit weather balloon or Jupiter, which only appeared to perform fantastic feats from his own frame of reference inside the Mustang."
+    text: "Sign first rolled out weather balloons, jets and the like. It concluded that Gorman chased a lit weather balloon or Jupiter, which only seemed to perform fantastic feats because of his own frame of reference inside the Mustang."
     cue: 335
     responses:
       - by: "George F. Gorman"
         stance: challenges
         date: "1948-10-23"
-        text: "Sworn statement: there was \"definitely thought behind its maneuvers\", and it outturned, outsped and outclimbed his aircraft."
+        text: "In his sworn statement, Gorman said there was \"definitely thought behind its maneuvers\" and that it outturned, outsped and outclimbed his aircraft."
         cue: 222
       - by: "Gerb"
         stance: challenges
-        text: "Ranks the dogfight with the Peruvian case as the most compelling of the four, with the most sensory data and the strongest case against a prosaic origin."
+        text: "Gerb ranks the dogfight with the Peruvian case as the most compelling of the four, with the most sensory data and the strongest case against a prosaic origin."
         cue: 789
 ---
 ::
@@ -190,18 +190,18 @@ Gerb found the Peruvian case in the same [[DOD Joint Chiefs]] briefing that desc
 - **The climb.** Trying, as Gorman had, to get above it, he climbs toward the object, which was holding still at 14,000 ft, but it shadows him all the way up to 19,200 ft (Gerb's figures). :wiki-cue{t=584 video="6cVe-hdMTCE" video-title="Global Air Force UFO Encounters You've Probably Never Heard of" entry-title="The climb"}
 - **The close look.** Low on fuel, he approaches within 100 m. The "balloon" is an object about 10 m across, with a shiny, cream-coloured dome, "similar to a light bulb cut in half", on a wide, circular, silver base that looks metallic. It has no wings, jets, exhaust, windows or antennae, and no visible propulsion. Realising he has engaged a UFO, and with his fuel low, he is paralysed with fear and zigzags away to make himself hard to hit. :wiki-cue{t=598 video="6cVe-hdMTCE" video-title="Global Air Force UFO Encounters You've Probably Never Heard of" entry-title="The close look"}
 
-On his return, multiple eyewitnesses and base personnel also saw the object. That led to the official investigation recorded in the DOD document which, per Gerb, corroborates that he fired 30 mm rounds at the object, which suffered no damage and went on to perform remarkable manoeuvres. :wiki-cue{t=659 video="6cVe-hdMTCE" video-title="Global Air Force UFO Encounters You've Probably Never Heard of" entry-title="Corroboration"}
+On his return, multiple eyewitnesses and base personnel also saw the object. This led to the official investigation recorded in the DOD document. According to Gerb, the document corroborates that he fired 30 mm rounds at the object, which suffered no damage and went on to perform remarkable manoeuvres. :wiki-cue{t=659 video="6cVe-hdMTCE" video-title="Global Air Force UFO Encounters You've Probably Never Heard of" entry-title="Corroboration"}
 
 ## The Campeche Lights (Mexico, 2004)
 
 The last case is the Mexico UFO incident over the southern state of Campeche, which Gerb first dates to 5 March 2005 and later calls the 2004 sightings; it took place on 5 March 2004. A Mexican Air Force crew on a routine anti-drug-trafficking patrol filmed 11 unidentified lights with infrared equipment for a period of minutes. The lights appeared to fly at about 3,500 m and to surround the aircraft; only three showed up on its radar. Major [[Magdaleno Castanon]] said the military jets chased the lights: "I believe they could feel we were pursuing them." :wiki-cue{t=690 video="6cVe-hdMTCE" video-title="Global Air Force UFO Encounters You've Probably Never Heard of" entry-title="The Campeche lights"}
 
-Before playing the footage Gerb reviews the skeptics' case, introducing Michael Shermer, head of [[Skeptic Magazine]], as someone viewers may know from "getting cooked" in a debate with Graham Hancock on The Joe Rogan Experience. His answer to it shifts between the case itself and his closing assessment:
+Before playing the footage Gerb reviews the skeptics' case, introducing Michael Shermer, head of [[Skeptic Magazine]], as someone viewers may know from "getting cooked" in a debate with Graham Hancock on The Joe Rogan Experience. Gerb answers the skeptics twice, once with the case and again in his closing assessment, and the two answers differ:
 
 ::wiki-claim{video="6cVe-hdMTCE" video-title="Global Air Force UFO Encounters You've Probably Never Heard of"}
 ---
 term: "Explanation"
-caption: "The skeptics' explanation of the Campeche lights, and Gerb's two answers to it: one given with the case, one in his closing assessment."
+caption: "Skeptics say the Campeche lights were oil-platform flares. Gerb answers twice, once when he presents the case and again in his closing assessment."
 claim:
   title: "Oil-platform flares"
   by: "Michael Shermer"
@@ -215,7 +215,7 @@ responses:
     cue: 753
   - by: "Gerb"
     stance: unresolved
-    text: "Closing assessment: of the four cases, this has the highest probability of a prosaic explanation, but he is not sure 11 objects, three of them on radar, were just flares. More analysis is needed."
+    text: "In his closing assessment, Gerb says this case has the highest probability of a prosaic explanation of the four, but he is not sure 11 objects, three of them on radar, were just flares. He says more analysis is needed."
     cue: 812
 ---
 ::
@@ -266,7 +266,7 @@ entries:
 - The 12 April 1969 Pori sighting is the only UFO observation acknowledged by the Finnish Air Force; two pilots saw seven pale yellow discs accelerate away against a 180 km/h headwind, and radar at Vaasa, 200 km away, reportedly detected them at about 3,218 m/s.
 - On 11 April 1980, Peruvian Lieutenant Óscar Santa María Huertas fired 64 30 mm shells at a silvery object over La Joya without effect, chased it for 84 km, and at 100 m saw a 10 m craft with a cream dome, a silver metallic base and no visible propulsion; a DOD Joint Chiefs briefing corroborates his account.
 - On 5 March 2004 a Mexican Air Force crew filmed 11 lights on infrared over Campeche, three of which appeared on radar; Major Magdaleno Castañón believed the objects could tell they were being pursued.
-- Michael Shermer's explanation of the Campeche lights as oil-platform flares has not, in Gerb's view, been shown to be right, although the case is the likeliest of the four to have a prosaic explanation.
+- In Gerb's view, Michael Shermer's explanation of the Campeche lights as oil-platform flares has not been shown to be right, although the case is the likeliest of the four to have a prosaic explanation.
 - Gerb rates the Gorman and Peruvian cases the most compelling of the four, and leans toward a UFO explanation of the Finnish case on the strength of the pilot's testimony.
 
 ## Sources
