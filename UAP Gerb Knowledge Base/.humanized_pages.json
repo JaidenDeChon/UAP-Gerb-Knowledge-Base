@@ -409,8 +409,8 @@
     "cold_reader": true
   },
   "app/app/components/wiki/WikiVideoHero.vue": {
-    "humanized_at": "2026-09-25T16:42:08Z",
-    "sha256": "cd34a2bd5c142290c520bdd727d498f2afc8722527c0090b075e3409c9797648",
+    "humanized_at": "2026-09-25T17:36:33Z",
+    "sha256": "9969b0bc716b8cd4eb2ecd43d6feecb7e128d5b2d87a815180d149b84d7214d7",
     "cold_reader": true
   },
   "app/app/layouts/default.vue": {
