@@ -324,6 +324,11 @@
     "sha256": "f4b186357ff10efdacde6a3503162e731f4d669a1ad5aee25659c161eadc4552",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/DOE Special Response Teams (SRTs).md": {
+    "humanized_at": "2026-09-25T23:43:42Z",
+    "sha256": "2b9681115d70681e09a60ce6d2e2c44de42053daf1b09f5026413e7a0ec799de",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
