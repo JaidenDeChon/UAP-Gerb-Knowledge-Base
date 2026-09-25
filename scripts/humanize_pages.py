@@ -330,6 +330,15 @@ def mask_strings(text: str) -> str:
     return STRING_RE.sub(one, text)
 
 
+def mask_text_node(node: str) -> str:
+    """Mask the words in a template text node. Its {{ }} expressions are code,
+    so they must survive in the same order; the words around them may move."""
+    words = re.sub(r"\{\{.*?\}\}", "", node, flags=re.S)
+    if not re.search(r"[A-Za-z]", words) and not ("{{" in node and words.strip()):
+        return node
+    return "§T§" + "".join(re.findall(r"\{\{.*?\}\}", node, flags=re.S))
+
+
 def mask_code(text: str, vue: bool) -> str:
     """Blank out everything a UI copy edit may change, so what is left is code."""
     if not vue:
@@ -343,7 +352,7 @@ def mask_code(text: str, vue: bool) -> str:
             b = MUSTACHE_RE.sub(lambda m: mask_strings(m.group(0)), block)
             b = BOUND_ATTR_RE.sub(lambda m: m.group(1) + '"' + mask_strings(m.group(2)) + '"', b)
             b = TEXT_ATTR_RE.sub(r'\1"§A§"', b)
-            b = TEXT_NODE_RE.sub(lambda m: ">§T§<" if re.search(r"[A-Za-z]", m.group(1)) and "{{" not in m.group(1) and "§S§" not in m.group(1) else m.group(0), b)
+            b = TEXT_NODE_RE.sub(lambda m: ">" + mask_text_node(m.group(1)) + "<", b)
             out.append(b)
         else:
             out.append(block)

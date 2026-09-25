@@ -29,8 +29,8 @@
     "cold_reader": true
   },
   "app/app/components/wiki/WikiLocalMap.vue": {
-    "humanized_at": "2026-09-25T16:46:39Z",
-    "sha256": "0880ae9d0c55482db95a44dccf5fd58138854396aaf5cdd662c599d229600685",
+    "humanized_at": "2026-09-25T16:47:39Z",
+    "sha256": "7e13cbde8a46872050139e1a45caa4e72176a020560b092f7c3fce13d32704d7",
     "cold_reader": true
   },
   "app/app/components/wiki/WikiPersonPortrait.vue": {

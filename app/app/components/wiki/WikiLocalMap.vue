@@ -63,7 +63,7 @@ function onDialogSelect(node: GraphNode): void {
             v-if="truncation"
             class="font-mono text-[11px] uppercase tabular-nums tracking-[0.08em] text-muted-foreground/70"
             :title="`${truncation.total} entries link to or from this one. The map shows the ${truncation.shown} with the most links. Enlarge it to see them all.`"
-          >showing {{ truncation.shown }}/{{ truncation.total }}</span>
+          >{{ truncation.shown }} of {{ truncation.total }} shown</span>
           <button
             type="button"
             class="inline-flex size-6 items-center justify-center rounded-md text-muted-foreground hover:bg-accent hover:text-foreground"
@@ -90,7 +90,7 @@ function onDialogSelect(node: GraphNode): void {
           <DialogTitle class="font-mono text-[13px] font-semibold uppercase tracking-[0.08em] text-muted-foreground">
             Entries linked to this one
             <span v-if="degree" class="ml-1 font-normal tabular-nums text-muted-foreground/70">
-              — showing all {{ degree }} links
+              ({{ degree }})
             </span>
           </DialogTitle>
           <DialogDescription class="sr-only">
