@@ -29,7 +29,7 @@ const shownBack = computed(() => (showAllBack.value ? backlinks.value : backlink
   <div v-if="outgoing.length || backlinks.length" class="flex flex-col gap-10">
     <section v-if="outgoing.length">
       <h2 class="mb-3.5 font-display text-[20px] font-semibold uppercase tracking-[0.04em] text-foreground">
-        Linked entries
+        Entries this one links to
       </h2>
       <div class="flex flex-wrap gap-2">
         <Button
@@ -53,13 +53,13 @@ const shownBack = computed(() => (showAllBack.value ? backlinks.value : backlink
         class="mt-3"
         @click="showAllOut = !showAllOut"
       >
-        {{ showAllOut ? 'Show fewer' : `Show all ${outgoing.length}` }}
+        {{ showAllOut ? 'Show fewer' : `Show all ${outgoing.length} entries` }}
       </Button>
     </section>
 
     <section v-if="backlinks.length">
       <h2 class="mb-3.5 font-display text-[20px] font-semibold uppercase tracking-[0.04em] text-foreground">
-        Backlinks
+        Entries that link here
       </h2>
       <div class="flex flex-wrap gap-2">
         <Button
@@ -83,7 +83,7 @@ const shownBack = computed(() => (showAllBack.value ? backlinks.value : backlink
         class="mt-3"
         @click="showAllBack = !showAllBack"
       >
-        {{ showAllBack ? 'Show fewer' : `Show all ${backlinks.length}` }}
+        {{ showAllBack ? 'Show fewer' : `Show all ${backlinks.length} entries` }}
       </Button>
     </section>
   </div>

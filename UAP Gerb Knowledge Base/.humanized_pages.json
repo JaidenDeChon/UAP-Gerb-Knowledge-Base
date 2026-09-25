@@ -13,6 +13,11 @@
     "sha256": "22a2ca2dfa7054bc0581f392a17a8492996ab518c377dd52b168372472928a46",
     "cold_reader": true
   },
+  "app/app/components/wiki/WikiLinkedEntries.vue": {
+    "humanized_at": "2026-09-25T16:44:51Z",
+    "sha256": "e0ea8e20fb47d3faba1457bc2af896e3c0fce44ff47ec1835b27cdf345f79dd5",
+    "cold_reader": true
+  },
   "app/app/components/wiki/WikiTocRail.vue": {
     "humanized_at": "2026-09-25T16:44:26Z",
     "sha256": "d2062fc2cc83f20a3f1e26e7338032e43d5a9ced898a4449c10d974e5463a915",
