@@ -349,6 +349,11 @@
     "sha256": "6702c0b3b4a3816f0143c14abccd9b3c5542bca84638c3407302807e093262ab",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/Decision Science Applications, Inc. (DSAI).md": {
+    "humanized_at": "2026-09-25T23:45:31Z",
+    "sha256": "bbbf6e5026148f0a866afc73774527c842e739eea114c91382dedf60dbffe2a6",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
