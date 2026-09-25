@@ -613,6 +613,11 @@
     "sha256": "a63e6edea88658f6f090c54e697298be1400b6b8033e9c7bed6c0a9fa8cddfe9",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/People/Eric Schrock.md": {
+    "humanized_at": "2026-09-25T19:12:34Z",
+    "sha256": "92285af0a5f0883e083b4e24ece4d2ace73a2692c0da714d94a4b68d60d51a80",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/Eric Taber.md": {
     "humanized_at": "2026-09-25T19:10:33Z",
     "sha256": "d65560e37f04b1c6f172e43da20f45711e7723a4f132ae3d40e999524718d654",
