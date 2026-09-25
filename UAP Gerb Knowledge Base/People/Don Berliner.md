@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Don Berliner is an American UFO researcher and aviation writer who authored "The Blue Book Unknowns," a paper analyzing the most unexplained cases from [[Project Blue Book]], the US Air Force's official UFO investigation program (1952–1969). Berliner applied rigorous criteria to isolate the strongest unknowns from Blue Book's catalog of over 12,000 reported cases. His analysis identified only four recorded anomalous triangle sightings during the 1950s — often described as colorful, a far cry from the dark gray/black triangles with three white lights that characterize modern sightings.
+Don Berliner is an American UFO researcher and aviation writer who wrote "The Blue Book Unknowns," a paper analyzing the most unexplained cases from [[Project Blue Book]], the US Air Force's official UFO investigation program (1952–1969). Berliner applied strict criteria to pick out the strongest unknowns from Blue Book's catalog of over 12,000 reported cases. His analysis found only four recorded anomalous triangle sightings during the 1950s. They were often described as colorful, very different from the dark gray or black triangles with three white lights typical of modern sightings.
 
 ## The Special Operations Manual
 

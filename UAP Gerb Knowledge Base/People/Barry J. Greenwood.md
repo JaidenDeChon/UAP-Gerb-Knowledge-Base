@@ -5,24 +5,24 @@ tags:
   - person
 ---
 
-Barry J. Greenwood is a prominent UFO researcher and Freedom of Information Act (FOIA) advocate who co-authored *Clear Intent: The Government Coverup of the UFO Experience* with [[Lawrence Fawcett]]. The book, published in 1984, is a landmark work documenting government secrecy surrounding UFO investigations and includes primary source documentation obtained through FOIA requests.
+Barry J. Greenwood is a prominent UFO researcher and Freedom of Information Act (FOIA) advocate. With [[Lawrence Fawcett]], he co-authored *Clear Intent: The Government Coverup of the UFO Experience*, published in 1984. The book documents government secrecy around UFO investigations and includes primary source documents obtained through FOIA requests.
 
 ## *Clear Intent* and NORAD FOIA Requests
 
-*Clear Intent* contains an extremely important section on UFOs and FOIA, including documentation of early attempts to obtain UAP tracking data from [[NORAD]]. The book includes:
+*Clear Intent* has a section on UFOs and FOIA that documents early attempts to obtain UAP tracking data from [[NORAD]]. The book includes:
 
-1. **A scanned NORAD UAP reporting sheet** — demonstrating that NORAD had official protocols for UFO reports
-2. **NORAD's cost-prohibitive FOIA response** — When Greenwood and Fawcett requested UAP tracking data, NORAD responded that fulfilling the request would cost **$155,000** (in 1979 dollars, equivalent to well over $500,000 today)
+1. A scanned NORAD UAP reporting sheet, which shows that NORAD had official procedures for UFO reports.
+2. NORAD's reply when Greenwood and Fawcett requested UAP tracking data: fulfilling the request would cost $155,000 (in 1979 dollars, equivalent to well over $500,000 today), a price that put it out of reach.
 
 ## NORAD Fee Waiver Denial
 
-Three years after the initial request, Greenwood and Fawcett submitted a follow-up request asking NORAD to waive the exorbitant fees. NORAD refused, effectively making the UAP tracking data financially inaccessible to civilian researchers.
+Three years after the first request, Greenwood and Fawcett sent a follow-up asking NORAD to waive the exorbitant fees. NORAD refused, which in effect put the UAP tracking data beyond the means of civilian researchers.
 
 ## Significance
 
-Greenwood's documentation establishes that NORAD possessed extensive UAP tracking data as early as the 1970s, enough that NORAD priced a search of it at $155,000. This aligns with [[J. Allen Hynek]]'s 1967 statement that NORAD had been tracking UFOs since 1957 and that all continental US military UFO cases in [[Project Blue Book]] were designated as NORAD cases.
+Greenwood's documentation establishes that NORAD had extensive UAP tracking data as early as the 1970s, enough that it priced a search of the data at $155,000. This fits [[J. Allen Hynek]]'s 1967 statement that NORAD had been tracking UFOs since 1957, and that all continental US military UFO cases in [[Project Blue Book]] were designated as NORAD cases.
 
-The pattern of NORAD using cost barriers to prevent disclosure — documented by Greenwood in 1979 and continuing through [[John Greenewald]]'s 2013 and 2023 denials — demonstrates a consistent decades-long policy of preventing public access to space-based and ground-based UFO tracking records.
+Greenwood documented NORAD's use of cost barriers to prevent disclosure in 1979, and the practice continued through [[John Greenewald]]'s 2013 and 2023 denials. Together these show a consistent policy, lasting decades, of keeping space-based and ground-based UFO tracking records from the public.
 
 ## Sources
 

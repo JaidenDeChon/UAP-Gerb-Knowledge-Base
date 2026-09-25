@@ -9,9 +9,9 @@ Dr. Howard C. Cross was a researcher at [[Battelle Memorial Institute]] involved
 
 ## Project Stork Memorandum (1953)
 
-On January 9, 1953, Cross authored a memorandum — classified Secret — proposing that Project Stork "assist the Air Force in reassuring the public that everything is well under control with respect to the UFO problem." The memo referenced Captain [[Edward J. Ruppelt]], then director of [[Project Blue Book]], indicating the coordination between Battelle's parallel investigation and the official Air Force public-facing program.
+On January 9, 1953, Cross wrote a memorandum, classified Secret, proposing that Project Stork "assist the Air Force in reassuring the public that everything is well under control with respect to the UFO problem." The memo referred to Captain [[Edward J. Ruppelt]], then director of [[Project Blue Book]], which indicates that Battelle's parallel investigation was coordinated with the Air Force's official, public-facing program.
 
-The memo is significant because it explicitly frames Battelle's UFO investigation role not as dispassionate scientific inquiry but as public reassurance management — establishing early and in writing that Battelle understood its parallel UFO work as serving a disinformation and narrative-control function alongside any genuine analytical work.
+The memo explicitly frames Battelle's role in UFO investigation as managing public reassurance rather than as dispassionate scientific inquiry. It establishes, early and in writing, that Battelle understood its parallel UFO work as serving a disinformation and narrative-control function alongside any genuine analytical work.
 
 ## Sources
 

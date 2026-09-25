@@ -5,13 +5,13 @@ tags:
   - person
 ---
 
-Corey Goode is an American who achieved prominence in the UAP and New Age communities through his claims of having participated in a "20 and back" secret space program — alleging he served 20 years of indentured service working alongside extraterrestrials and humans in a classified space program, with his memories subsequently wiped and his body age-regressed before being returned to civilian life. His claims have been widely disputed within the UAP research community.
+Corey Goode is an American who became well known in the UAP and New Age communities for claiming he took part in a "20 and back" secret space program. He alleges that he served 20 years of indentured service in a classified space program, working alongside extraterrestrials and humans, and that his memories were then wiped and his body age-regressed before he was returned to civilian life. His claims are widely disputed in the UAP research community.
 
 ## "20 and Back" Claims
 
-Goode's central claim involves a multi-decade service obligation in a classified military space program that allegedly operated alongside non-human intelligence entities. The program allegedly involved advanced technology, off-planet operations, and a form of time-acceleration or biological manipulation that allowed personnel to serve full careers without aging in the conventional timeline.
+Goode's central claim concerns a service obligation lasting decades in a classified military space program that allegedly operated alongside non-human intelligence entities. The program allegedly used advanced technology and carried out operations off the planet. It also allegedly used a form of time acceleration or biological manipulation that let personnel serve full careers without aging in the conventional timeline.
 
-Researcher [[Mark McCandlish]] and UAP Gerb have explicitly distinguished the ARV and secret space program claims they find credible from Goode's "20 and back" stories, describing the latter as substantially more fantastical. UAP Gerb noted that Goode reportedly detailed his claims under oath, and that the account constitutes "lies under oath" — suggesting that whatever formal or legal context produced that testimony contradicted Goode's public narrative.
+Researcher [[Mark McCandlish]] and Gerb have explicitly set apart the claims they find credible, about the alien reproduction vehicle (ARV) and a secret space program, from Goode's "20 and back" stories, which they describe as far more fantastical. Gerb noted that Goode reportedly gave a detailed account of his claims under oath, and that the account amounts to "lies under oath". This suggests that whatever formal or legal setting produced that testimony contradicted the story Goode tells in public.
 
 ## Sources
 

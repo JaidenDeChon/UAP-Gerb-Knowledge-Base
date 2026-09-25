@@ -5,9 +5,9 @@ tags:
   - person
 ---
 
-Colin Saunders is a British UAP witness who, along with his family, observed a 50-foot-long triangular craft in March 1999 in the United Kingdom while driving home from dinner. The craft pitched up and down at roughly a 15-degree angle, bobbing as if submerged in water. Its exterior was described as a flowing liquid mercury — a description reminiscent of the "mother of pearl effect" skin described by [[Jonathan Weygandt]] during his Peru UFO crash retrieval encounter.
+Colin Saunders is a British UAP witness. In March 1999, while driving home from dinner in the United Kingdom, he and his family saw a 50-foot-long triangular craft. It pitched up and down at roughly a 15-degree angle, bobbing as if submerged in water. Its exterior was described as looking like flowing liquid mercury, which recalls the "mother of pearl effect" skin that [[Jonathan Weygandt]] described from his Peru UFO crash retrieval encounter.
 
-The top of the craft was not flat but angled with a strange raised pattern that Saunders believed to be some sort of docking mechanism with a larger craft; the same pattern existed on its underside. The pyramid-like upper profile is considered by UAP Gerb to be more consistent with the [[XF-131 Super Sentinel]] than the standard flat-profiled [[TR-3B]].
+The top of the craft was angled rather than flat, with a strange raised pattern that Saunders believed was some sort of mechanism for docking with a larger craft. The same pattern was on its underside. Gerb considers this pyramid-like upper profile more consistent with the [[XF-131 Super Sentinel]] than with the standard flat-profiled [[TR-3B]].
 
 ## Sources
 

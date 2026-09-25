@@ -5,19 +5,19 @@ tags:
   - person
 ---
 
-**Benito Amilcare Andrea Mussolini** (1883–1945) was an Italian dictator who served as Prime Minister of Italy from 1922 to 1943 and founded Italian Fascism. Known as "Il Duce" (The Leader), Mussolini established a totalitarian state characterized by aggressive nationalism, militarism, and strict control over press and information. He led Italy into an alliance with Nazi Germany during World War II as part of the Axis powers.
+**Benito Amilcare Andrea Mussolini** (1883–1945) was an Italian dictator, Prime Minister of Italy from 1922 to 1943 and the founder of Italian Fascism. Known as "Il Duce" (The Leader), he built a totalitarian state marked by aggressive nationalism, militarism and strict control over the press and information. During World War II he took Italy into an alliance with Nazi Germany as one of the Axis powers.
 
 ## Role in 1933 Magenta UFO Retrieval
 
-Following the alleged crash or landing of an unknown craft near [[Magenta, Italy]] in June 1933, Mussolini personally headed a top-secret scientific group called the [[RS-33 (Gabinetto RS 33)]] established to examine the recovered bell-shaped object. According to original Italian government documents provided to researcher [[Roberto Pinotti]], Mussolini initially believed the approximately 10-meter diameter craft to be an unconventional flying vehicle of terrestrial origin from France, Britain, or Germany — not an extraterrestrial craft.
+After the alleged crash or landing of an unknown craft near [[Magenta, Italy]] in June 1933, Mussolini personally headed the [[RS-33 (Gabinetto RS 33)]], a top-secret scientific group set up to examine the recovered bell-shaped object. According to original Italian government documents provided to researcher [[Roberto Pinotti]], Mussolini at first believed the craft, about 10 meters in diameter, was an unconventional flying vehicle of terrestrial origin, built in France, Britain or Germany, and not an extraterrestrial craft.
 
-This interpretation was reportedly contested by [[Guglielmo Marconi]], the Nobel Prize-winning inventor of radio technology and possible RS-33 member, who believed the craft to be of non-human origin. Mussolini's government imposed absolute press silence through the state propaganda agency [[Agenzia Stefani]], ordering journalists to report the craft as a meteor and threatening maximum penalties including appeals to the State Security Court for violators.
+[[Guglielmo Marconi]], the Nobel Prize-winning inventor of radio technology and a possible member of RS-33, reportedly disputed this and believed the craft was of non-human origin. Mussolini's government imposed absolute press silence through the state propaganda agency [[Agenzia Stefani]]. Journalists were ordered to report the craft as a meteor, and violators were threatened with maximum penalties, including appeals to the State Security Court.
 
-The craft remained in Italian possession throughout the fascist regime, allegedly stored first at the [[SIAI-Marchetti Aircraft Company]] hangars in [[Varese, Italy]] and later at Mussolini's enormous bunker under [[Mount Soratte Bunker|Mount Soratte]]. According to journalist [[Christopher Sharp]]'s reporting and whistleblower [[David Grusch]]'s testimony, Mussolini confided information about the craft to [[Pope Pius XII]], who subsequently back-channeled intelligence to the United States. The craft was recovered by U.S. [[Office of Strategic Services (OSS)]] agents in 1944 or 1945 following the collapse of the fascist state.
+The craft stayed in Italian hands for the rest of the fascist regime. It was allegedly stored first in the hangars of the [[SIAI-Marchetti Aircraft Company]] in [[Varese, Italy]] and later in Mussolini's enormous bunker under [[Mount Soratte Bunker|Mount Soratte]]. According to reporting by journalist [[Christopher Sharp]] and testimony by whistleblower [[David Grusch]], Mussolini told [[Pope Pius XII]] about the craft, and the Pope then passed intelligence to the United States through a back channel. Agents of the U.S. [[Office of Strategic Services (OSS)]] recovered the craft in 1944 or 1945, after the fascist state collapsed.
 
 ## Authentication
 
-[[Luis Elizondo]] stated in interviews that he personally viewed validated documentation from Mussolini himself relating to the craft recovery, describing it as "authentic" and "proven to be authentic."
+[[Luis Elizondo]] said in interviews that he personally saw validated documents from Mussolini himself about the recovery of the craft. He described them as "authentic" and "proven to be authentic."
 
 ## Sources
 

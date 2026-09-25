@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-J. Robert Beyster (1924-2014) was an American nuclear physicist and entrepreneur who founded Science Applications, later [[SAIC]] (Science Applications International Corporation), in 1969. He built it into one of the largest employee-owned companies in the United States and one of the country's leading defense and intelligence contractors. UAP Gerb treats the company's design under Beyster, and the people it recruited, as the foundation of its alleged place in the UFO legacy programs.
+J. Robert Beyster (1924-2014) was an American nuclear physicist and entrepreneur who founded Science Applications, later [[SAIC]] (Science Applications International Corporation), in 1969. He built it into one of the largest employee-owned companies in the United States and one of the country's leading defense and intelligence contractors. Gerb treats the way Beyster set up the company, and the people it recruited, as the basis of SAIC's alleged place in the UFO legacy programs.
 
 ## Early career
 
@@ -13,7 +13,7 @@ Beyster served in the U.S. Navy in the Second World War and earned a PhD in nucl
 
 ## Founding SAIC
 
-Beyster started the company in February 1969 (UAP Gerb gives 3 February), staffing it with General Atomics scientists. He made employee ownership its defining feature, using it as a recruiting and retention tool and expecting staff to share in managing the company. According to the video, the stock program "promised to make government officials rich after they left public service", which let Beyster fill the payroll and board with specialists as well as generals, diplomats, spies and cabinet officers, among them [[Bobby Ray Inman]], [[John Deutsch]] and [[William F. Raborn]]. The first government contracts came from the Defense Atomic Support Agency, calculating the output of nuclear devices.
+Beyster started the company in February 1969 (Gerb gives 3 February), staffing it with General Atomics scientists. He made employee ownership its defining feature, using it as a recruiting and retention tool and expecting staff to share in managing the company. According to the video, the stock program "promised to make government officials rich after they left public service", which let Beyster fill the payroll and board with specialists as well as generals, diplomats, spies and cabinet officers, among them [[Bobby Ray Inman]], [[John Deutsch]] and [[William F. Raborn]]. The first government contracts came from the Defense Atomic Support Agency, calculating the output of nuclear devices.
 
 ## Sources
 

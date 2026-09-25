@@ -5,11 +5,11 @@ tags:
   - person
 ---
 
-Susan Gough (sometimes rendered "Sue Gough") is a retired U.S. Army colonel who serves as a Senior Strategic Planner within Department of Defense Public Affairs, where she has held the UAP media-relations portfolio across the Pentagon's UAP Task Force and, subsequently, [[AARO]].
+Susan Gough (sometimes rendered "Sue Gough") is a retired U.S. Army colonel who serves as a Senior Strategic Planner within Department of Defense Public Affairs, where she has held the UAP media-relations portfolio, first for the Pentagon's UAP Task Force and then for [[AARO]].
 
 ## Role in UAP Programs
 
-UAP Gerb accuses Gough of contributing to what the channel characterizes as AARO's narrative-management approach to the UAP topic, citing her authorship of dismissive public language about the "non-existence presence" of extraterrestrials. In *Special Access Required Vol.2*, Gerb cites a secondhand account — an attendee's LinkedIn report from a George Mason University public reception described as [[Sean Kirkpatrick]]'s last public event as AARO director — stating that Gough remained at Kirkpatrick's side for the full hour of the event, with Kirkpatrick visibly pausing to look to her for confirmation before answering audience questions.
+Gerb accuses Gough of contributing to what the channel calls AARO's narrative-management approach to the UAP topic. As evidence he cites her authorship of dismissive public language about the "non-existence presence" of extraterrestrials. In *Special Access Required Vol.2*, Gerb cites a secondhand account: an attendee's LinkedIn report from a public reception at George Mason University, described as [[Sean Kirkpatrick]]'s last public event as AARO director. According to that report, Gough remained at Kirkpatrick's side for the full hour of the event, and Kirkpatrick visibly paused to look to her for confirmation before answering audience questions.
 
 ## Sources
 

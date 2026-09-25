@@ -5,35 +5,35 @@ tags:
   - person
 ---
 
-Colonel John B. Alexander is a retired U.S. Army officer who served in special operations and intelligence roles, becoming a prominent figure in government-affiliated UAP research during the 1980s and 1990s. He is best known for spearheading the classified "Advanced Theoretical Physics Working Group" and authoring *UFOs: Myths, Conspiracies, and Realities*. Alexander was one of several individuals privy to [[Philip J. Corso]]'s original manuscript *Dawn of a New Age* before Corso's death in 1998 and has provided both critical analysis and partial corroboration of Corso's testimony.
+Colonel John B. Alexander is a retired U.S. Army officer who served in special operations and intelligence roles. During the 1980s and 1990s he was a prominent figure in government-affiliated UAP research. He is best known for leading the classified "Advanced Theoretical Physics Working Group" and for writing the book *UFOs: Myths, Conspiracies, and Realities*. Alexander was one of several people who had access to [[Philip J. Corso]]'s original manuscript, *Dawn of a New Age*, before Corso's death in 1998. He has both analysed Corso's testimony critically and partly corroborated it.
 
 ## Advanced Theoretical Physics Conference
 
-From 1982 to 1983, Alexander reported directly to [[Albert Stubblebine]] at US Army [[ISA|INSCOM]]. He spearheaded the Advanced Theoretical Physics Working Group, which held a classified conference at a secure BDM International facility in McLean, Virginia on May 20–25, 1985. Notes from the conference were released by attendee Oke Shannon, formerly a manager for special projects at [[Los Alamos National Laboratory]], and reveal that the group discussed multiple aspects of UFOs, including legacy programs and a major engineering project under [[Bobby Ray Inman]]. The conference used Department of Energy security controls.
+From 1982 to 1983, Alexander reported directly to [[Albert Stubblebine]] at US Army [[ISA|INSCOM]]. He led the Advanced Theoretical Physics Working Group, which held a classified conference on May 20–25, 1985, at a secure BDM International facility in McLean, Virginia. Oke Shannon, an attendee and a former manager for special projects at [[Los Alamos National Laboratory]], released notes from the conference. They show that the group discussed several aspects of UFOs, including legacy programs and a major engineering project under [[Bobby Ray Inman]]. The conference used Department of Energy security controls.
 
-The Advanced Theoretical Physics Conference is considered one of the most significant documented gatherings of senior intelligence and defense figures explicitly discussing UFO programs, establishing a direct link between Army INSCOM leadership, BDM International, Los Alamos, and UAP program knowledge.
+The Advanced Theoretical Physics Conference is considered one of the most significant documented gatherings at which senior intelligence and defense figures explicitly discussed UFO programs. It establishes a direct link between Army INSCOM leadership, BDM International, Los Alamos and knowledge of UAP programs.
 
 ## Analysis of Corso's Testimony
 
-Alexander remarked on sensational details featured in *[[The Day After Roswell]]* that were completely absent from Corso's original manuscript, confirming that co-author [[Bill Burns]] inserted creative liberties and fabricated material into the published version. This included scenes such as Corso allegedly intimidating a CIA director and detailed descriptions of events Corso did not witness.
+Alexander pointed out sensational details in *[[The Day After Roswell]]* that were completely absent from Corso's original manuscript. This confirmed that co-author [[Bill Burns]] took creative liberties and added fabricated material to the published version. The additions included scenes such as Corso allegedly intimidating a CIA director and detailed descriptions of events Corso did not witness.
 
-In his book *UFOs: Myths, Conspiracies, and Realities*, Alexander documented that the Army's [[U.S. Army Foreign Technology Division]] under [[Arthur Trudeau]] was indeed formed as Corso stated, but then "disappeared shortly after his retirement." Alexander confirmed: "It was learned that the Army foreign technology division was formed as Corso stated and then disappeared shortly after his retirement" — lending credibility to the institutional existence of the division while noting the lack of public documentation.
+In his book *UFOs: Myths, Conspiracies, and Realities*, Alexander documented that the Army's [[U.S. Army Foreign Technology Division]] under [[Arthur Trudeau]] was indeed formed as Corso stated, but then "disappeared shortly after his retirement." Alexander confirmed: "It was learned that the Army foreign technology division was formed as Corso stated and then disappeared shortly after his retirement". This lends credibility to the division's existence as an institution, though Alexander also notes that public documentation of it is lacking.
 
-Alexander was also one of the individuals Corso told about his claimed 1957-1958 [[White Sands UAP Close Encounter|telepathic encounter with non-human intelligence]] at [[White Sands Missile Range]], where a being allegedly communicated "A new world if you can take it" in exchange for Corso lowering radar coverage to allow a disabled craft to escape.
+Alexander was also one of the people Corso told about his claimed 1957-1958 [[White Sands UAP Close Encounter|telepathic encounter with non-human intelligence]] at [[White Sands Missile Range]]. There, a being allegedly communicated "A new world if you can take it" in exchange for Corso lowering radar coverage so that a disabled craft could escape.
 
 ## Criticism of Technology Claims
 
-Despite acknowledging some aspects of Corso's testimony, Alexander has been critical of specific technology seeding claims. He had particular issues with Corso's assertions regarding [[Passive Night Vision Technology]], stating that the genealogy of infrared and night vision technology can all be accounted for through conventional development. Alexander stated he spoke to Dr. [[Lou Cameron]], director of the night vision laboratory at Fort Belvoir, Virginia, who flatly denied that an eye lens from a non-human intelligence aided in passive night vision breakthroughs.
+Although he acknowledges some aspects of Corso's testimony, Alexander has criticized specific claims that technology was seeded. He objected in particular to Corso's assertions about [[Passive Night Vision Technology]], saying that the whole lineage of infrared and night vision technology can be accounted for by conventional development. Alexander said he spoke to Dr. [[Lou Cameron]], director of the night vision laboratory at Fort Belvoir, Virginia, who flatly denied that an eye lens from a non-human intelligence had aided breakthroughs in passive night vision.
 
-Alexander also raised concerns about fiber optics and integrated circuit development claims, noting that researchers well-versed in computer science, such as [[Jacques Vallee]], found Corso's assertions regarding integrated circuitry were not documented facts.
+Alexander also raised concerns about the claims on the development of fiber optics and integrated circuits. He noted that researchers well versed in computer science, such as [[Jacques Vallee]], found that Corso's assertions about integrated circuitry were not documented facts.
 
 ## Assessment of Corso's Consistency
 
-Despite his criticisms, Alexander and others including Vallee maintained that Corso's story never wavered across multiple tellings — details were never altered, added, or subtracted. Corso reportedly sounded like "a tape recorder" where you could rewind and fast-forward to parts of his disclosures and always hear the same details with no variation. This consistency suggests either remarkable truthfulness or a carefully constructed and memorized narrative.
+Despite these criticisms, Alexander and others, including Vallee, maintained that Corso's story never wavered across multiple tellings: no detail was ever altered, added or removed. Corso reportedly sounded like "a tape recorder". You could rewind and fast-forward to parts of his disclosures and always hear the same details, with no variation. This consistency suggests either remarkable truthfulness or a carefully constructed and memorized narrative.
 
 ## Correspondence with Ben Rich
 
-Alexander wrote to Lockheed Skunk Works director [[Ben Rich]] on July 10, 1986, proposing two categories of UFOs and seeking Rich's thoughts on the matter. This correspondence is documented as part of Alexander's broader engagement with senior defense and aerospace figures on UAP-related topics.
+On July 10, 1986, Alexander wrote to Lockheed Skunk Works director [[Ben Rich]], proposing two categories of UFOs and asking for Rich's thoughts. This correspondence is documented as part of Alexander's wider contact with senior defense and aerospace figures on UAP topics.
 
 ## Sources
 

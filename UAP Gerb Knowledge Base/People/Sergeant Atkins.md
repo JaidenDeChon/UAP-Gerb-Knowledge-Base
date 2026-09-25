@@ -9,11 +9,11 @@ Sergeant Atkins is a former United States Marine Corps non-commissioned officer 
 
 ## Role in the Peru Incident
 
-Atkins was part of the vanguard team dispatched to investigate a reportedly downed aircraft between March and April 1997. Along with Allen and Weygandt, Atkins was approximately 10–20 meters ahead of the other Marines when they first sighted the craft embedded at a 45-degree angle in a granite ridge. While Weygandt approached the craft closely, Atkins and Allen hung back, shouting at the Lance Corporal not to get any closer. Both sergeants displayed fear and apprehension at the sight. After the arrival of armed men in black fatigues and [[Department of Energy]] personnel in MOPP gear, Atkins was disarmed, detained, and separated from Weygandt.
+Between March and April 1997, Atkins was part of the advance team sent to investigate a reportedly downed aircraft. He, Allen and Weygandt were about 10–20 meters ahead of the other Marines when they first sighted the craft, which was embedded at a 45-degree angle in a granite ridge. Weygandt went up close to the craft, but Atkins and Allen hung back and shouted at the Lance Corporal not to get any closer. Both sergeants showed fear and apprehension at the sight. After armed men in black fatigues and [[Department of Energy]] personnel in MOPP gear arrived, Atkins was disarmed, detained and separated from Weygandt.
 
 ## Post-Incident Career
 
-Atkins continued a long career with the Marine Corps after Operation Laser Strike, eventually retiring at a senior enlisted rank. UAP Gerb identified Atkins as a real USMC veteran and wrote to him, along with Montil and Allen, during his 2025 investigation. Only one of the three replied, and Gerb has kept that Marine anonymous.
+Atkins stayed in the Marine Corps for many years after Operation Laser Strike and eventually retired at a senior enlisted rank. Gerb identified Atkins as a real USMC veteran and wrote to him, along with Montil and Allen, during his 2025 investigation. Only one of the three replied, and Gerb has kept that Marine anonymous.
 
 ## Sources
 

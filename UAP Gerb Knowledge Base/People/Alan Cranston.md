@@ -6,11 +6,11 @@ tags:
   - person
 ---
 
-Alan MacGregor Cranston (1914–2000) was a Democratic US Senator from California who served four terms from 1969 to 1993. He served as Senate Majority Whip from 1977 to 1991 and was a prominent figure in American liberal politics. Cranston was confirmed by [[Brad Sorenson]] to have been present at the November 1988 classified aerospace exhibit at [[Air Force Plant 42]] in Palmdale, California, at which three disc-shaped Alien Reproduction Vehicles were allegedly displayed alongside advanced conventional military aircraft.
+Alan MacGregor Cranston (1914–2000) was a Democratic US Senator from California who served four terms, from 1969 to 1993. He was Senate Majority Whip from 1977 to 1991 and a prominent figure in American liberal politics. [[Brad Sorenson]] confirmed that Cranston was present at the November 1988 classified aerospace exhibit at [[Air Force Plant 42]] in Palmdale, California, where three disc-shaped Alien Reproduction Vehicles were allegedly displayed alongside advanced conventional military aircraft.
 
 ## Presence at the 1988 ARV Exhibit
 
-In his December 3, 1990 interview with [[William B. Scott]] of [[Aviation Week and Space Technology]], Sorenson specifically confirmed Cranston's presence among the approximately 30 senior individuals assembled for the private aerospace briefing. Sorenson also placed Congressman [[George E. Brown Jr.]] on the flight to the exhibit; the video describes him as then chairing a congressional space science committee. The event was styled as an investor briefing designed to attract black budget appropriations for classified aerospace development programs, making the presence of senior legislators significant.
+In his December 3, 1990 interview with [[William B. Scott]] of [[Aviation Week and Space Technology]], Sorenson confirmed that Cranston was among the roughly 30 senior people gathered for the private aerospace briefing. He also placed Congressman [[George E. Brown Jr.]] on the flight to the exhibit; according to the video, Brown was chairing a congressional space science committee at the time. The event was presented as an investor briefing meant to attract black budget appropriations for classified aerospace development programs, so the presence of senior legislators was significant.
 
 ## Sources
 

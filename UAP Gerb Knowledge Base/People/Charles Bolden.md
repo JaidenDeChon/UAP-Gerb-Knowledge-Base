@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Charles Frank Bolden Jr. is a retired U.S. Marine Corps Major General and former NASA astronaut who served as NASA Administrator from 2009 to 2017. Bolden flew four Space Shuttle missions. In UAP research, he appears in a peripheral capacity: a French press article forwarded by [[Alain Boudier]] to [[Steven Greer]] in late February 2009 discussed candidates for the next NASA administrator and referenced Bolden specifically. Greer's handwritten notes from around the same time appear to reference NASA pilots by name (with redactions), raising questions about whether Bolden or other shuttle astronauts were being discussed in connection with the alleged Apollo 8 UFO film that Boudier claimed to have viewed. The precise nature of this connection remains unclear from available documentation.
+Charles Frank Bolden Jr. is a retired U.S. Marine Corps Major General and former NASA astronaut who was NASA Administrator from 2009 to 2017. He flew four Space Shuttle missions. His place in UAP research is a minor one. In late February 2009, [[Alain Boudier]] forwarded [[Steven Greer]] a French press article that discussed candidates for the next NASA administrator and mentioned Bolden by name. Greer's handwritten notes from around the same time appear to name NASA pilots (with redactions). That raises the question of whether Bolden or other shuttle astronauts were being discussed in connection with the alleged Apollo 8 UFO film that Boudier claimed to have seen. The available documents do not make the exact connection clear.
 
 ## Sources
 

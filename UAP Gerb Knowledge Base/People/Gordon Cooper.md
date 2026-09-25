@@ -16,7 +16,7 @@ Cooper said that while he searched the regulations for the right number to repor
 
 ## In UAP Gerb's research
 
-In *UAP Reverse Engineering at Edwards Air Force Base*, UAP Gerb opens his survey of earlier Edwards accounts with Cooper's story, as support for his thesis, drawn from witness [[Ed (Witness 11063)|Ed]], that Edwards is home to a reverse-engineering and test program for non-human craft. He plays a clip of Cooper telling it and says he would like to cover the case in more detail.
+In *UAP Reverse Engineering at Edwards Air Force Base*, Gerb opens his survey of earlier Edwards accounts with Cooper's story. He offers it as support for his thesis, drawn from the witness [[Ed (Witness 11063)|Ed]], that Edwards is home to a reverse-engineering and test program for non-human craft. Gerb plays a clip of Cooper telling the story and says he would like to cover the case in more detail.
 
 ## Sources
 

@@ -5,27 +5,27 @@ tags:
   - person
 ---
 
-Arthur Bray was a Canadian UFO researcher and historian who made significant contributions to the documentary record of early Canadian government engagement with the UFO phenomenon. His archival discoveries in the late 1970s and early 1980s provided critical corroboration of [[Wilbert B. Smith]]'s 1950 claims about US government UFO classification levels, unearthing primary-source documents that validated Smith's account of his meeting with [[Robert Sarbacher]].
+Arthur Bray was a Canadian UFO researcher and historian who added significantly to the documentary record of the Canadian government's early dealings with UFOs. In the late 1970s and early 1980s he found primary-source documents in the archives that strongly corroborated [[Wilbert B. Smith]]'s 1950 claims about the classification level the US government gave to UFOs. The documents validated Smith's account of his meeting with [[Robert Sarbacher]].
 
 ## Discovery of the Smith Documents
 
-Bray's most notable achievement was locating and publishing two pivotal documents from Wilbert B. Smith's estate:
+Bray is best known for finding and publishing two important documents from Wilbert B. Smith's estate:
 
-1. **The 1950 Department of Transport Memo**: Smith's classified memo to the Controller of Telecommunications requesting permission to establish Canada's first official UFO investigation, in which Smith relayed four key claims about the US government's UFO program — claims he attributed to discussions in Washington.
+1. The 1950 Department of Transport memo. In this classified memo to the Controller of Telecommunications, Smith asked permission to set up Canada's first official UFO investigation. He also passed on four main claims about the US government's UFO program, which he attributed to discussions in Washington.
 
-2. **Smith's Handwritten Meeting Notes**: Notes documenting Smith's 1950 meeting with [[Robert Sarbacher]], which provided contemporaneous evidence that Sarbacher had indeed confirmed the existence of a small group headed by [[Vannevar Bush]] studying flying saucers, and that the matter was classified higher than the hydrogen bomb.
+2. Smith's handwritten notes of his 1950 meeting with [[Robert Sarbacher]]. Written at the time, they are evidence that Sarbacher did confirm two things: a small group headed by [[Vannevar Bush]] was studying flying saucers, and the matter was classified higher than the hydrogen bomb.
 
-These documents were discovered in Smith's personal papers and brought to public attention through Bray's research, likely in conjunction with UFO historians aware of Smith's role in founding [[Project Magnet]] and [[Project Second Story]].
+Both documents came from Smith's personal papers. Bray's research brought them to public attention, probably with help from UFO historians who knew Smith had helped found [[Project Magnet]] and [[Project Second Story]].
 
 ## Historical Significance
 
-Before Bray's archival work, Smith's account of his 1950 Washington meeting existed primarily as secondhand testimony and references in UFO literature. The discovery of Smith's handwritten meeting notes — dated contemporaneously to 1950 — provided documentary proof that the conversation with Sarbacher had occurred and that Smith's recollection of what Sarbacher told him was recorded at the time, not reconstructed decades later from memory.
+Before Bray's archival work, Smith's account of his 1950 Washington meeting was known mainly from secondhand testimony and mentions in UFO literature. Smith's handwritten notes, dated to 1950 when the meeting took place, were documentary proof that the conversation with Sarbacher happened. They also showed that Smith wrote down what Sarbacher told him at the time, instead of reconstructing it from memory decades later.
 
-When [[Stanton Friedman]] tracked down [[Robert Sarbacher]] in 1983, Sarbacher independently confirmed the substance of what Smith had documented 33 years earlier, validating both Smith's credibility as a witness and the accuracy of Bray's archival findings.
+When [[Stanton Friedman]] tracked down [[Robert Sarbacher]] in 1983, Sarbacher independently confirmed the substance of what Smith had written down 33 years earlier. That confirmation supported both Smith's credibility as a witness and the accuracy of Bray's archival findings.
 
 ## Legacy
 
-Bray's work exemplifies the importance of archival research in UFO studies. By locating primary-source documents created at the time of the events in question — rather than relying solely on later testimony or hearsay — Bray provided the evidentiary foundation that allowed researchers like Friedman and [[William Steinman]] to follow up with living witnesses and build a case grounded in verifiable documentation.
+Bray's work is an example of what archival research can add to UFO studies. He found primary-source documents written at the time of the events, instead of relying only on later testimony or hearsay. Those documents gave researchers such as Friedman and [[William Steinman]] a foundation of evidence, so they could follow up with living witnesses and build a case on documents that can be checked.
 
 ## Sources
 

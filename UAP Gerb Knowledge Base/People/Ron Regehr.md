@@ -9,7 +9,7 @@ Ronald S. "Ron" Regehr is a retired aerospace engineer and UFO researcher who sp
 
 ## The Tehran printout
 
-According to Graham and Regehr, a DSP computer printout from the time of the September 1976 overflight of Iran shows the satellite detecting an "anomalous object" in Iranian airspace. The printout image that circulated online carries the notation "238 scans possible SR"; since DSP scanned once every ten seconds, Gerb reads this as roughly 39.7 minutes of tracking, and suggests "SR" may stand for strategic reconnaissance. Regehr often cites a declassified article on the Tehran case, "Now You See It, Now You Don't," by USAF Captain Henry S. Shields (the *MIJI Quarterly*, October 1978).
+According to Graham and Regehr, a DSP computer printout from the time of the September 1976 overflight of Iran shows the satellite detecting an "anomalous object" in Iranian airspace. The printout image that circulated online carries the notation "238 scans possible SR". Because DSP scanned once every ten seconds, Gerb reads this as roughly 39.7 minutes of tracking, and he suggests "SR" may stand for strategic reconnaissance. Regehr often cites a declassified article on the Tehran case, "Now You See It, Now You Don't," by USAF Captain Henry S. Shields (the *MIJI Quarterly*, October 1978).
 
 [[Brad Sparks]] later questioned whether the satellite had detected the object or the Iranian F-4 jets scrambled to pursue it. In [[FASTWALKERS – UFOs Outside Earth]], Gerb traces the printout image back through dead web pages to a 1997 post, finds it largely illegible, and leaves the case open.
 

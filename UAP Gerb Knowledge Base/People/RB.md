@@ -7,15 +7,15 @@ tags:
   - person
 ---
 
-"RB" is the initials used for an anonymous former [[United States Marine Corps]] Corporal who claimed that for two weeks in December 1963 he was one of the guards securing a large metal building on an undisclosed military base that housed a 40-foot, seamless, disc-shaped craft that he came to believe was not of human origin. His account first appeared in [[Leonard Stringfield]]'s *UFO Crash/Retrieval Status Report 5* under the case title "Marine Guards a Disc-Shaped Vehicle, 1963." The fuller version was pieced together decades later by aerospace historian [[Michael Schratt]] from Stringfield's private archives. RB has never gone public, never made sensational claims, and never tried to profit from the story.
+"RB" is the initials used for an anonymous former [[United States Marine Corps]] Corporal who claimed that for two weeks in December 1963 he was one of the guards securing a large metal building on an undisclosed military base that housed a 40-foot, seamless, disc-shaped craft that he came to believe was not of human origin. His account first appeared in [[Leonard Stringfield]]'s *UFO Crash/Retrieval Status Report 5* under the case title "Marine Guards a Disc-Shaped Vehicle, 1963." The fuller version was pieced together decades later by aerospace historian [[Michael Schratt]] from Stringfield's private archives. RB has never gone public or tried to profit from the story, and he has never made sensational claims.
 
 ## Background
 
-RB served in the Marines from 1960 to 1966 as a weapons technician, reaching the rank of Corporal and holding an interim Top Secret clearance. UFO researcher [[Michael Johnstone]] put him in touch with Stringfield and interviewed him in 1986, when RB was in his late forties. UAP Gerb notes that a redacted name numbered 10138 on [[Steven Greer]]'s [[Disclosure Project]] witness list appears to be RB, though no documents reveal his identity.
+RB served in the Marines from 1960 to 1966 as a weapons technician, reaching the rank of Corporal and holding an interim Top Secret clearance. UFO researcher [[Michael Johnstone]] put him in touch with Stringfield and interviewed him in 1986, when RB was in his late forties. Gerb notes that a redacted name numbered 10138 on [[Steven Greer]]'s [[Disclosure Project]] witness list appears to be RB, though no documents reveal his identity.
 
 ## The 1963 account
 
-RB said he boarded a windowless plane at [[Cherry Point, North Carolina Marine Corps Air Station]] and flew about three hours to a location he would never reveal. UAP Gerb notes that [[Wright-Patterson Air Force Base]] lies within that range.
+RB said he boarded a windowless plane at [[Cherry Point, North Carolina Marine Corps Air Station]] and flew about three hours to a location he would never reveal. Gerb notes that [[Wright-Patterson Air Force Base]] lies within that range.
 
 The craft, as he described it:
 
@@ -30,9 +30,9 @@ A technical crew spent the fortnight trying to get in. Drills and cutting torche
 
 ## Security regime
 
-- **[[Color-Coded Security Badges|Colour-coded badges]]** matched colour-coded areas, so engineers and scientists could reach only their own sections of the craft. A red badge gave total access.
-- **A [[White Taped Circle Restricted Zone|white-taped circle]]** surrounded the craft. Not even US Air Force generals could cross it, and RB said he personally stopped the Secretary of the Navy from doing so.
-- **A [[Security Oath|security oath]]**, signed when he left the Marines, carried penalties of ten years in prison and a $110,000 fine.
+- [[Color-Coded Security Badges|Colour-coded badges]] matched colour-coded areas, so engineers and scientists could reach only their own sections of the craft. A red badge gave total access.
+- A [[White Taped Circle Restricted Zone|white-taped circle]] surrounded the craft. Not even US Air Force generals could cross it, and RB said he personally stopped the Secretary of the Navy from doing so.
+- A [[Security Oath|security oath]], signed when he left the Marines, carried penalties of ten years in prison and a $110,000 fine.
 
 ## Photograph, transport and hearsay
 
@@ -40,7 +40,7 @@ RB said he photographed the craft with a small German pocket camera. According t
 
 ## Link to the Blue Room
 
-UAP Gerb suggests the building RB guarded may be the "[[Blue Room]]" at Wright-Patterson that Senator [[Barry Goldwater]] was refused entry to. Goldwater's own letter of 28 March 1975 dates his attempt to roughly ten or twelve years earlier, close to RB's December 1963 posting.
+Gerb suggests the building RB guarded may be the "[[Blue Room]]" at Wright-Patterson that Senator [[Barry Goldwater]] was refused entry to. Goldwater's own letter of 28 March 1975 dates his attempt to roughly ten or twelve years earlier, close to RB's December 1963 posting.
 
 ## Sources
 

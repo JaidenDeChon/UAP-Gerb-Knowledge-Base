@@ -9,7 +9,7 @@ Alfred O'Donnell was a senior manager at [[EG&G]], the defense contractor that m
 
 ## The Knapp Account
 
-In 1990, while researching a follow-up on Area 51, S-4 and EG&G, Knapp received a tip from a relative of O'Donnell's and eventually met him. According to Knapp, O'Donnell said that the government, and by inference EG&G, possessed a flying saucer recovered in New Mexico, date unstated, which Knapp believes came from the [[Roswell Crash]], and that a live being came with it. Knapp paraphrased him: "We didn't know what it was... we couldn't communicate with it." O'Donnell said the disc was kept at [[Indian Springs Air Force Base]], now Creech Air Force Base, until 1955 and then moved to a facility adjacent to Area 51. After a meeting between Knapp, O'Donnell and congressional staffer Dick D'Amato, who oversaw special access programs, which an EG&G co-founder approved, O'Donnell stopped discussing the subject.
+In 1990, while researching a follow-up on Area 51, S-4 and EG&G, Knapp received a tip from a relative of O'Donnell's and eventually met him. According to Knapp, O'Donnell said that the government, and by inference EG&G, had a flying saucer recovered in New Mexico, and that a live being came with it. O'Donnell gave no date for the recovery; Knapp believes the craft came from the [[Roswell Crash]]. Knapp paraphrased him: "We didn't know what it was... we couldn't communicate with it." O'Donnell said the disc was kept at [[Indian Springs Air Force Base]], now Creech Air Force Base, until 1955 and then moved to a facility adjacent to Area 51. An EG&G co-founder approved a meeting between Knapp, O'Donnell and Dick D'Amato, a congressional staffer who oversaw special access programs. After that meeting, O'Donnell stopped discussing the subject.
 
 ## The Jacobsen Account
 
@@ -17,7 +17,7 @@ Near the end of his life O'Donnell was a source for Annie Jacobsen's *Area 51: A
 
 ## Interpretation in UAP Gerb's Work
 
-UAP Gerb rejects the Jacobsen version and treats the Knapp account as significant. The usual reading is that the disc moved in 1955 because Area 51 opened that year. Like [[Robert Wood]], Gerb believes underground works at Groom Lake predate 1955. He proposes that the move followed the [[Atomic Energy Act of 1954]], which he believes shifted custody of recovered material into national-laboratory hands and placed it in Nevada Test Site installations most likely run by [[Sandia National Laboratories]]. He notes that Creech today operates extensively at the Sandia-managed [[Tonopah Test Range (TTR)|Tonopah Test Range]].
+Gerb rejects the Jacobsen version and treats the Knapp account as significant. The usual reading is that the disc moved in 1955 because Area 51 opened that year. Like [[Robert Wood]], Gerb believes underground works at Groom Lake predate 1955. He proposes that the move followed the [[Atomic Energy Act of 1954]], which he believes shifted custody of recovered material into national-laboratory hands and placed it in Nevada Test Site installations most likely run by [[Sandia National Laboratories]]. He notes that Creech today operates extensively at the Sandia-managed [[Tonopah Test Range (TTR)|Tonopah Test Range]].
 
 ## Sources
 

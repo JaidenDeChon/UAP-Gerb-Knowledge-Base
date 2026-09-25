@@ -11,7 +11,7 @@ Tarmo Tukeva was the Finnish Air Force pilot-in-training sent to investigate sev
 
 A [[Finnish Defense Force]] flight controller radioed Tukeva to investigate seven presumed air balloons floating 1,500 to 3,000 metres above the airport. On approach he reported that they were not balloons but disc-shaped and slightly round, "like balls with no extremities", and pale yellow. As he tried to close on them, they accelerated away from him at great speed against a headwind of 180 km/h.
 
-A second pilot, [[Jouko Kuronen]], also saw the objects, confirming their anomalous shape and speed. According to Gerb, Pori Airport itself recorded nothing, but radar 200 km away in [[Vaasa, Finland|Vaasa]] detected the seven objects after they had sped away from Tukeva, giving an estimated speed of 3,218 metres per second.
+A second pilot, [[Jouko Kuronen]], also saw the objects and confirmed their anomalous shape and speed. According to Gerb, Pori Airport itself recorded nothing, but radar 200 km away in [[Vaasa, Finland|Vaasa]] detected the seven objects after they had sped away from Tukeva and gave an estimated speed of 3,218 metres per second.
 
 ## Gerb's Assessment
 

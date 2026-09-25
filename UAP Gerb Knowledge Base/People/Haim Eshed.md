@@ -13,19 +13,19 @@ Eshed directed Israel's space security programs from 1981 to 2010. Under his lea
 
 ## 2020 Claims
 
-In December 2020, Eshed gave an interview to the Israeli newspaper Yediot Aharonot (and subsequently in an English-language interview) in which he stated:
+In December 2020, Eshed gave an interview to the Israeli newspaper Yediot Aharonot, followed by an English-language interview. In them he stated:
 
-- A **Galactic Federation** of extraterrestrial species exists.
+- A Galactic Federation of extraterrestrial species exists.
 - Some members of the Galactic Federation are already present on Earth.
 - US President Donald Trump was aware of the extraterrestrials' existence but was asked by the Federation not to announce contact yet, as humanity is not psychologically prepared.
-- There exists a **joint underground base** on Mars where US astronauts and extraterrestrial representatives cooperate.
+- A joint underground base exists on Mars, where US astronauts and extraterrestrial representatives cooperate.
 - He claimed he was revealing this information because "the UFO topic has reached a new dimension" and he felt he could speak freely now that academic institutions and others were beginning to take the subject seriously.
 
-Eshed framed his credibility explicitly: as someone who spent nearly 30 years in charge of classified space programs, he argued he had earned the reputation that made the disclosure worthwhile.
+Eshed openly used his record to support his credibility. He argued that nearly 30 years in charge of classified space programs had earned him the reputation that made the disclosure worthwhile.
 
 ## Related Claims
 
-Former self-described [[CIA]] officer [[John Ramirez]] has made independently similar statements about the existence of a present [[Galactic Federation]] of extraterrestrials.
+Former self-described [[CIA]] officer [[John Ramirez]] has independently made similar statements that a [[Galactic Federation]] of extraterrestrials currently exists.
 
 ## Sources
 

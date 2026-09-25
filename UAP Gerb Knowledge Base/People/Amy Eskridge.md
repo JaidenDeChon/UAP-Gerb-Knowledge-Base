@@ -9,11 +9,11 @@ Dr. Amy Eskridge was an American scientist from Huntsville, Alabama, who co-foun
 
 ## Research and Lectures
 
-Before her death, Eskridge lectured on behalf of [[Holocron Engineering]], a gravity-modification research and development company, on historical anti-gravity experiments and modern black projects associated with developing the anti-gravity [[TR-3B]] craft.
+Before her death, Eskridge gave lectures for [[Holocron Engineering]], a gravity-modification research and development company. Her talks covered historical anti-gravity experiments and the modern black projects associated with developing the anti-gravity [[TR-3B]] craft.
 
 ## Death
 
-UAP Gerb calls Eskridge's case "the best example" of the strange deaths surrounding free-energy and anti-gravity research, and says he may give it a full investigation of its own. He cites it alongside the deaths of documentary filmmaker [[James Allen]] and aerospace illustrator [[Mark McCandlish]], and McCandlish's view that clandestine programs may stop at nothing to keep such technologies from the public and from foreign adversaries.
+Gerb calls Eskridge's case "the best example" of the strange deaths surrounding free-energy and anti-gravity research, and says he may give it a full investigation of its own. He discusses it together with the deaths of documentary filmmaker [[James Allen]] and aerospace illustrator [[Mark McCandlish]]. He also cites McCandlish's view that clandestine programs may stop at nothing to keep such technologies from the public and from foreign adversaries.
 
 ## Sources
 

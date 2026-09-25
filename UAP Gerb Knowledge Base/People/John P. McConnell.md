@@ -9,7 +9,7 @@ tags:
 
 ## In UAP research
 
-UAP Gerb notes in *The 1965 Kecksburg, Pennsylvania UFO Crash* that McConnell was among the Joint Chiefs who met [[Lyndon B. Johnson]] at the Texas White House on 10 December 1965, the day after the [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg crash]]. Gerb stresses whom McConnell had replaced: LeMay, who created the blue-bereted Strategic Air Command Elite Guard linked to the [[Blue Berets]] seen at Kecksburg. LeMay is also said to have denied Senator [[Barry Goldwater]] access to the "Blue Room" at [[Wright-Patterson Air Force Base]].
+In *The 1965 Kecksburg, Pennsylvania UFO Crash*, Gerb notes that McConnell was among the Joint Chiefs who met [[Lyndon B. Johnson]] at the Texas White House on 10 December 1965, the day after the [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg crash]]. Gerb stresses whom McConnell had replaced: LeMay, who created the blue-bereted Strategic Air Command Elite Guard linked to the [[Blue Berets]] seen at Kecksburg. LeMay is also said to have denied Senator [[Barry Goldwater]] access to the "Blue Room" at [[Wright-Patterson Air Force Base]].
 
 ## Sources
 

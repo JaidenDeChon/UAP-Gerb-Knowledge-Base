@@ -14,7 +14,7 @@ An Air Force car and truck arrived within 14 minutes, and men with rifles ordere
 
 ## In UAP Gerb's research
 
-UAP Gerb includes Clayton's account in *UAP Reverse Engineering at Edwards Air Force Base* as one of the Stringfield cases that support his witness [[Ed (Witness 11063)|Ed]]'s claims of non-human craft handled at Edwards. He notes that her description closely resembles the craft of the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg crash]]. In his closing remarks he recalls the craft being swarmed by Air Force crews within about 15 minutes.
+Gerb includes Clayton's account in *UAP Reverse Engineering at Edwards Air Force Base* as one of the Stringfield cases that support his witness [[Ed (Witness 11063)|Ed]]'s claims of non-human craft handled at Edwards. He notes that her description closely resembles the craft of the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg crash]]. In his closing remarks he recalls the craft being swarmed by Air Force crews within about 15 minutes.
 
 ## Sources
 

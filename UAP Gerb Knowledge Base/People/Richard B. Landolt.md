@@ -6,7 +6,7 @@ tags:
   - person
 ---
 
-Richard B. Landolt is a retired United States Navy rear admiral who commanded the Amphibious Force of the US 7th Fleet (Task Force 76), headquartered in Okinawa, Japan. In that post he served as commander of the US joint task force that delivered relief after the [[2009 Sumatra Earthquake|September 2009 earthquake]] near Padang, Sumatra, an operation in which the [[USS Denver]] and its embarked Marines flew supplies to villages cut off by landslides. He retired from the Navy in February 2014.
+Richard B. Landolt is a retired United States Navy rear admiral who commanded the Amphibious Force of the US 7th Fleet (Task Force 76), headquartered in Okinawa, Japan. In that post he was commander of the US joint task force that delivered relief after the [[2009 Sumatra Earthquake|September 2009 earthquake]] near Padang, Sumatra, an operation in which the [[USS Denver]] and its embarked Marines flew supplies to villages cut off by landslides. He retired from the Navy in February 2014.
 
 ## Role in the Herrera Account
 

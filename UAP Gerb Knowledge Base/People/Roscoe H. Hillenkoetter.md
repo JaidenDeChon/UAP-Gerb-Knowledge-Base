@@ -6,7 +6,7 @@ tags:
   - person
 ---
 
-Roscoe Henry Hillenkoetter (1897–1982) was a US Navy officer and naval intelligence specialist who served as the third Director of Central Intelligence from 1947 to 1950, and as such the first director of the newly created [[CIA]]. In the [[MJ-12 Documents]] he is listed as MJ-1, a founding member of [[Majestic 12]], and as the briefing officer named in the [[Eisenhower Briefing Document]] of 18 November 1952.
+Roscoe Henry Hillenkoetter (1897–1982) was a US Navy officer and naval intelligence specialist who served as the third Director of Central Intelligence from 1947 to 1950, which made him the first director of the newly created [[CIA]]. The [[MJ-12 Documents]] list him as MJ-1, a founding member of [[Majestic 12]], and he is the briefing officer named in the [[Eisenhower Briefing Document]] of 18 November 1952.
 
 ## In the Majestic documents
 

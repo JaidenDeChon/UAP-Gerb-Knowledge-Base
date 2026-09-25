@@ -6,11 +6,11 @@ tags:
   - person
 ---
 
-Susan M. Gordon is a former senior U.S. intelligence official who served as Principal Deputy Director of National Intelligence (PDDNI) from 2017 to 2019 under Director of National Intelligence Dan Coats. Prior to that role, Gordon served as the CIA's deputy director for support, director of the CIA's Information Operations Center, and deputy director of the National Geospatial-Intelligence Agency (NGA). She succeeded [[Stephanie O'Sullivan]] as PDDNI, taking the position at the point [[James Clapper]]'s tenure as Director of National Intelligence had ended.
+Susan M. Gordon is a former senior U.S. intelligence official who served as Principal Deputy Director of National Intelligence (PDDNI) from 2017 to 2019 under Director of National Intelligence Dan Coats. Before that, Gordon was the CIA's deputy director for support, director of the CIA's Information Operations Center, and deputy director of the National Geospatial-Intelligence Agency (NGA). She succeeded [[Stephanie O'Sullivan]] as PDDNI, taking the post when [[James Clapper]]'s tenure as Director of National Intelligence had ended.
 
 ## MITRE Board of Trustees
 
-Following her federal intelligence career, Gordon joined the board of trustees of the [[MITRE Corporation]]. UAP Gerb cites Gordon's trajectory — from senior CIA and NGA leadership directly into a MITRE trustee seat — as part of a broader pattern of former senior intelligence officials with alleged UFO legacy program proximity moving into MITRE governance roles, alongside [[Donald M. Kerr]] and [[Dawn Meyerriecks]].
+Following her federal intelligence career, Gordon joined the board of trustees of the [[MITRE Corporation]]. Gerb cites her move from senior CIA and NGA leadership directly into a MITRE trustee seat as part of a broader pattern, in which former senior intelligence officials with alleged proximity to UFO legacy programs move into governance roles at MITRE. He places [[Donald M. Kerr]] and [[Dawn Meyerriecks]] in the same pattern.
 
 ## Sources
 

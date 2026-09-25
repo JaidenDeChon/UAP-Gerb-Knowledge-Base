@@ -9,15 +9,15 @@ tags:
 
 ## Documents Provided
 
-The materials given to Pinotti consisted of classified telegrams sent by the [[Agenzia Stefani]] state propaganda agency on June 13, 1933, internal protocol memorandums bearing the seal of the Kingdom Senate outlining crash retrieval procedures, and handwritten notes describing UFO encounters over Italy between 1933 and 1940. These documents became the foundation for public knowledge of the Magenta retrieval case.
+The materials given to Pinotti were classified telegrams sent by the [[Agenzia Stefani]] state propaganda agency on June 13, 1933; internal protocol memorandums bearing the seal of the Kingdom Senate that set out crash retrieval procedures; and handwritten notes describing UFO encounters over Italy between 1933 and 1940. Public knowledge of the Magenta retrieval case rests on these documents.
 
 ## Authenticity
 
-The documents were subjected to forensic analysis by experts who confirmed the paper and ink dated to the 1930s period. Scientific consultant Antonio Garavaglia publicly stated that the materials could "be considered original and therefore authentic." The documents were later referenced by UAP whistleblowers [[David Grusch]] and [[Luis Elizondo]], with Elizondo stating he personally viewed validated documentation from Mussolini related to the craft recovery.
+Experts carried out a forensic analysis of the documents and confirmed that the paper and ink dated to the 1930s. Scientific consultant Antonio Garavaglia publicly stated that the materials could "be considered original and therefore authentic." UAP whistleblowers [[David Grusch]] and [[Luis Elizondo]] later referred to the documents, and Elizondo said he had personally seen validated documentation from Mussolini related to the craft recovery.
 
 ## Identity Protection
 
-Mr. X's identity has remained protected to this day, likely due to the sensitive nature of the materials and potential political or historical ramifications of being publicly associated with their disclosure.
+Mr. X's identity has stayed protected to this day, likely because the materials are sensitive and being publicly linked to their disclosure could have political or historical consequences.
 
 ## Sources
 

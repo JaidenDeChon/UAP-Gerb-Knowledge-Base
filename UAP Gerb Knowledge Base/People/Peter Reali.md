@@ -4,28 +4,28 @@ tags:
   - person
 ---
 
-Peter A. Reali is a UAP researcher and co-author of the 2019 peer-reviewed paper "Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles," published in *Entropy* alongside [[Kevin Knuth]] and [[Robert M. Powell]]. The paper applies rigorous physics-based analysis to multisensor UAP encounter data, calculating performance characteristics that far exceed known human technology.
+Peter A. Reali is a UAP researcher. With [[Kevin Knuth]] and [[Robert M. Powell]], he co-wrote the 2019 peer-reviewed paper "Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles," published in *Entropy*. The paper applies rigorous physics-based analysis to UAP encounters recorded by several sensors at once, and the performance it calculates for the objects far exceeds known human technology.
 
 ## Academic Work
 
-Reali collaborated with Knuth and Powell to analyze a handful of well-documented UAP cases, among them using conservative physics calculations:
+Reali, Knuth and Powell used conservative physics calculations to analyze a handful of well-documented UAP cases, among them:
 
-- **1951 Bethune encounter** — A US Navy flight crew's sighting over the North Atlantic in February 1951
-- **[[1986 Japan Airlines UFO Incident]]** — Extended encounter with FAA radar tracking
-- **[[2004 Nimitz UAP Encounter (Tic Tac)]]** — Navy carrier group encounter with multiple sensor confirmation
+- The 1951 Bethune encounter, a US Navy flight crew's sighting over the North Atlantic in February 1951
+- The [[1986 Japan Airlines UFO Incident]], a long encounter that FAA radar tracked
+- The [[2004 Nimitz UAP Encounter (Tic Tac)]], an encounter with a Navy carrier group that several sensors confirmed
 
-The team's analysis of the Nimitz Tic Tac calculated that when the craft descended from 28,000 feet to sea level in approximately 78 seconds, it experienced an estimated 5,400 Gs of acceleration. Using a deliberately conservative mass estimate of 1,000 kg (one-tenth that of a similarly-sized F-18), they calculated the acceleration required approximately 1,100 gigawatts of power.
+For the Nimitz Tic Tac, the team calculated that the craft dropped from 28,000 feet to sea level in about 78 seconds, an estimated acceleration of 5,400 Gs. They deliberately used a conservative mass estimate of 1,000 kg, one-tenth that of an F-18 of similar size, and calculated that this acceleration required about 1,100 gigawatts of power.
 
 ## Contribution to UAP Research
 
-The paper co-authored by Reali represents a significant milestone in UAP research by:
+The paper co-written by Reali was a significant step in UAP research:
 
-1. **Applying academic rigor** — Using peer-reviewed publication standards and established physics methodology
-2. **Quantifying anomalies** — Transforming qualitative observations into measurable physical parameters
-3. **Establishing baselines** — Setting conservative lower bounds for UAP performance rather than making exaggerated claims
-4. **Multisensor validation** — Selecting only cases with independent confirmation from multiple detection systems
+1. It applied peer-reviewed publication standards and established physics methods.
+2. It turned qualitative observations into measurable physical quantities.
+3. It set conservative lower bounds for UAP performance instead of making exaggerated claims.
+4. It used only cases that several independent detection systems had confirmed.
 
-This work demonstrates that UAP data can be subjected to serious scientific analysis and peer review, potentially encouraging other academics to engage with the topic.
+The work showed that UAP data can go through serious scientific analysis and peer review, which may encourage other academics to take up the subject.
 
 ## Sources
 

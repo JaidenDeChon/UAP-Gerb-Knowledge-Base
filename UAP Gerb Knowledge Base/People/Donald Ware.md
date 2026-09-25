@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Donald Ware is a retired United States Air Force Colonel who allegedly disclosed that the [[Northrop Grumman]] B-2 stealth bomber carries onboard [[Electrogravitics|electrogravitic]] systems for internal mass reduction. Along with claims reported by [[Richard Boylan]] from three-star generals, Ware's testimony contributed to the thesis that electrogravitic propulsion technology — tracing back to [[T. Townsend Brown]]'s 1930s research — has been secretly incorporated into operational military aircraft.
+Donald Ware is a retired United States Air Force Colonel. He allegedly disclosed that the [[Northrop Grumman]] B-2 stealth bomber carries onboard [[Electrogravitics|electrogravitic]] systems that reduce its internal mass. Ware's testimony, together with claims [[Richard Boylan]] reported from three-star generals, contributed to the thesis that electrogravitic propulsion, which traces back to [[T. Townsend Brown]]'s research in the 1930s, has been secretly built into operational military aircraft.
 
 ## Sources
 

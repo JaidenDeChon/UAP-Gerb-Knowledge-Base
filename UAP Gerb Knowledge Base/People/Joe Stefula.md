@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Joseph J. "Joe" Stefula (d. 2017) was a UFO investigator who, after some twenty years in Army intelligence and as a special agent of the US Army Criminal Investigation Command (CID), retired as a warrant officer and served as New Jersey State Director of the [[MUFON|Mutual UFO Network]]. He is best known for publicizing the [[1984 DSP Indian Ocean Detection]], a [[Fast Walkers|fast walker]] that an anonymous source said a [[Defense Support Program (DSP)]] early-warning satellite tracked on 5 May 1984. The transcript of UAP Gerb's video renders his name "Joe Staulia".
+Joseph J. "Joe" Stefula (d. 2017) was a UFO investigator. He spent some twenty years in Army intelligence and as a special agent of the US Army Criminal Investigation Command (CID), retired as a warrant officer, and served as New Jersey State Director of the [[MUFON|Mutual UFO Network]]. He is best known for publicizing the [[1984 DSP Indian Ocean Detection]], a [[Fast Walkers|fast walker]] that an anonymous source said a [[Defense Support Program (DSP)]] early-warning satellite tracked on 5 May 1984. The transcript of Gerb's video renders his name "Joe Staulia".
 
 ## The 1984 fast walker
 

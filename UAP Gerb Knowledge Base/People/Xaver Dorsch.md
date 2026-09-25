@@ -10,11 +10,11 @@ Franz Xaver Dorsch (1899–1986) was a German civil engineer who led the Organis
 
 ## Postwar Interrogation
 
-Dorsch was captured in 1945 and briefed the Americans on German construction, and did so again in 1949. The full extent of his help is not known. UAP Gerb notes that two declassified 1947 [[Operation Paperclip]] documents record an [[Air Materiel Command]] requirement for four German technicians to consult on a planned underground plant program, and that Dorsch was one of those named.
+Dorsch was captured in 1945 and briefed the Americans on German construction, then briefed them again in 1949. The full extent of his help is not known. Gerb notes that two declassified 1947 [[Operation Paperclip]] documents record an [[Air Materiel Command]] requirement for four German technicians to consult on a planned underground plant program, and that Dorsch was one of those named.
 
 ## Alleged Role in US Underground Bases
 
-In *Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs*, UAP Gerb suggests Dorsch may also have worked on the Regenwurmlager beneath western Poland and the Ohrdruf underground complexes, and that he was a key engineer of the underground facilities of [[Hans Kammler]]. With Dorsch requested by Air Materiel Command and Kammler, in Gerb's view, secretly brought to the US, he argues the two men "could very well be the key architects of modern-day US UFO and DUMB legacy programs". See [[Deep Underground Military Bases (DUMBs)]].
+In *Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs*, Gerb suggests Dorsch may also have worked on the Regenwurmlager beneath western Poland and the Ohrdruf underground complexes, and that he was a key engineer of the underground facilities of [[Hans Kammler]]. Since Air Materiel Command requested Dorsch and, in Gerb's view, Kammler was secretly brought to the US, Gerb argues that the two men "could very well be the key architects of modern-day US UFO and DUMB legacy programs". See [[Deep Underground Military Bases (DUMBs)]].
 
 ## Sources
 
