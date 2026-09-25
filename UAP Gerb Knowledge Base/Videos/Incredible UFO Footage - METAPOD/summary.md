@@ -15,22 +15,22 @@ tags:
 stats:
   - value: 2015
     label: Filmed near El Escorial
-    hint: "6 September"
+    hint: "On 6 September, in Spain"
   - value: "3 of 5"
-    label: AATIP observables
-    hint: "as Gerb reads the footage"
+    label: UAP traits shown
+    hint: "Of the five UAP observables listed by AATIP, as Gerb reads the footage"
   - value: 5
-    label: Other sightings compared
-    hint: "1998–2023"
+    label: Similar recordings compared
+    hint: "Recordings from 1998 to 2023 that Gerb says show the same craft"
   - value: "18:55"
-    label: Runtime
-    hint: "for a 1–2 minute clip"
+    label: Video length
+    hint: "Spent on a clip of 1 to 2 minutes"
 ---
 ::
 
 ## Overview
 
-This video is one of Gerb's footage analyses, devoted to the [[Metapod]]: a short, close-range clip of a small crescent-shaped craft said to have been filmed near [[El Escorial, Madrid, Spain]] on 6 September 2015. Gerb calls it one of his all-time favourite pieces of alleged UFO footage and, if genuine, one of the best close-up views of a UFO ever recorded. Most UFO footage, he notes at the start, is grainy, distant or a handful of pixels on a degraded infrared (FLIR) display; the Metapod shows a structured object in daylight, near enough to see what it is made of.
+This video is one of Gerb's footage analyses. Its subject is the [[Metapod]], a short, close-range clip of a small crescent-shaped craft said to have been filmed near [[El Escorial, Madrid, Spain]] on 6 September 2015. Gerb calls it one of his all-time favourite pieces of alleged UFO footage and, if genuine, one of the best close-up views of a UFO ever recorded. Most UFO footage, he notes at the start, is grainy, distant or a handful of pixels on a degraded infrared (FLIR) display; the Metapod shows a structured object in daylight, near enough to see what it is made of.
 
 The analysis moves in four steps. First Gerb traces the footage to its source, which he stresses he could not do for the [[Flyby Footage]] he analysed earlier: an email sent to the YouTube channel [[UFO VNI]] the day after the sighting by a witness signing himself Modesto. He then follows how the clip travelled online, through a Portuguese forum and the site [[Third Phase of the Sun]] within five days, and explains why he works from a stabilized copy by the channel [[ITBS]]. Second, he describes the craft (a reflective metallic back, a transparent glass-like front) and measures its flight against the [[Five UAP Characteristics (AATIP)|five UAP observables]] associated with [[AATIP (Advanced Aerospace Threat Identification Program)|AATIP]] and [[Luis Elizondo]], finding three. Third, he takes up the debunks (a balloon, an object on a string, CGI) and finds none of them persuasive. Fourth, he sets the clip beside five other recordings from 1998 to 2023, from Peru, Mexico, Vancouver, an alleged US Navy [[US Navy Blue Angels|Blue Angels]] cockpit leak and Texas, that he argues show the same craft.
 
@@ -42,7 +42,7 @@ The Metapod's own story sits in the middle of a longer record: two earlier recor
 
 ::wiki-timeline{video="i6fitvV-aO0" video-title="Incredible UFO Footage - METAPOD"}
 ---
-help: "The ruler spans the recordings Gerb connects to the Metapod, from Peru in 1998 to Texas in 2023. Its ticks are the entries, taller for major ones; click the ruler to jump to the nearest one. While the video plays, the playhead shows which entry Gerb is discussing. Timestamps jump the mini-player to that moment; every cue here was checked against the captions."
+help: "This timeline lists the recordings Gerb connects to the Metapod, from Peru in 1998 to Texas in 2023. Click the bar of years above the list to jump to the nearest entry; taller marks are major entries. Click a timestamp to play the video from that moment in the mini-player. While the video plays, a green line shows which entry Gerb is discussing. Every timestamp here was checked against the video's captions."
 eras:
   - id: before
     label: "Earlier appearances"
@@ -53,21 +53,21 @@ eras:
     label: "The El Escorial footage"
     from: 2015
     to: 2017
-    summary: "The clip is filmed, emailed to UFO VNI, reposted within days, and later taken down."
+    summary: "The Spanish clip is filmed and emailed to the YouTube channel UFO VNI. It is reposted within days and later taken down."
   - id: after
     label: "Later appearances"
     from: 2018
-    summary: "Vancouver, an alleged Blue Angels cockpit leak and Texas: the corroborating footage Gerb gathers."
+    summary: "Footage Gerb gathers as corroboration, from Vancouver, an alleged Blue Angels cockpit leak and Texas."
 events:
   - date: "1998"
     title: "Peru 'parachutes' footage"
-    summary: "The first recording of the Metapod shape that Gerb can trace: footage from Peru, known by a name he renders as the 'parachutes', showing what appear to be five or more pods with the same body and reflective paneling as the Spanish craft."
+    summary: "Footage from Peru, known by a name Gerb renders as the 'parachutes', is the earliest recording of the Metapod shape he can trace. It shows what appear to be five or more pods with the same body and reflective paneling as the Spanish craft."
     category: event
     significance: notable
     cue: 826
   - date: "2006-05-17"
     title: "The Bruja de Monterrey footage"
-    summary: "The 'Monterrey witch' filmed in Mexico, which a Portuguese forum had already likened to the Metapod in 2015. Gerb reads it as the craft's non-transparent back, moving away from the camera through hills and brush in the same vertical position."
+    summary: "The 'Monterrey witch' was filmed in Mexico, and a Portuguese forum had already likened it to the Metapod in 2015. Gerb reads it as the craft's back, the side that is not transparent, moving away from the camera through hills and brush in the same vertical position."
     category: event
     significance: notable
     entities:
@@ -110,13 +110,13 @@ events:
     cue: 188
   - date: "2021"
     title: "Three pods over Vancouver"
-    summary: "Footage from Vancouver shows the same crescent shape and sunlit reflectivity. According to the person who posted it, three objects about 20 feet apart moved north on a horizontal plane before two climbed fast and the third carried on north; of the two, one then went north and the other west."
+    summary: "Footage from Vancouver shows the same crescent shape, reflecting sunlight the same way. According to the person who posted it, three objects about 20 feet apart moved north on a horizontal plane. Two then climbed fast while the third carried on north, and of those two, one went north and the other west."
     category: event
     significance: notable
     cue: 873
   - date: "2022"
     title: "Alleged Blue Angels cockpit leak"
-    summary: "A few frames allegedly leaked from a US Navy Blue Angels cockpit recording, a second-generation copy with a mouse cursor on screen, show a pod dropping rapidly from the clouds with four other signatures nearby. Gerb calls it possibly the most crucial corroboration, while he is still trying to verify it."
+    summary: "A few frames allegedly leaked from a US Navy Blue Angels cockpit recording show a pod dropping rapidly from the clouds, with four other signatures nearby. They are a second-generation copy, with a mouse cursor on screen. Gerb calls them possibly the most crucial corroboration, though he is still trying to verify them."
     category: event
     significance: major
     entities:
@@ -124,7 +124,7 @@ events:
     cue: 908
   - date: "2023"
     title: "Texas hang glider footage"
-    summary: "A hang glider over Texas appears to observe the Metapod. The early and late frames show the vertical pod, but its front-facing view does not match the other footage, and Gerb rates this clip the likeliest of all to be prosaic, such as a balloon."
+    summary: "A hang glider over Texas appears to observe the Metapod. The early and late frames show the vertical pod, but the view of its front does not match the other footage. Gerb rates this clip the likeliest of all to be prosaic, such as a balloon."
     category: event
     significance: notable
     cue: 993
@@ -153,7 +153,7 @@ Posts about the footage appeared almost at once. A Portuguese forum, since taken
 ::wiki-chain{video="i6fitvV-aO0" video-title="Incredible UFO Footage - METAPOD"}
 ---
 kind: transmission
-caption: "How the Metapod clip reached Gerb, as he traces it. The three lanes are the routes he names, not one line of copies: he does not say which upload ITBS stabilized."
+caption: "How the Metapod clip reached Gerb, as he traces it. The three branches are separate routes he names. He does not say which upload ITBS stabilized, so they are not drawn as one line of copies."
 steps:
   - name: "Metapod UFO Sighting"
     date: "2015-09-06"
@@ -170,7 +170,7 @@ steps:
         steps:
           - text: "Portuguese UFO forum"
             date: "2015-09-08"
-            note: "Unsure if real, but struck by the zoom, focus and blur, and the likeness to La Bruja."
+            note: "Unsure whether it was real, but struck by the zoom, focus and blur, and by its likeness to the Bruja de Monterrey footage."
             cue: 425
           - via: "Reposted with the email correspondence"
             name: "Third Phase of the Sun"
@@ -201,7 +201,7 @@ Gerb describes a shape he doubts viewers have seen before: a physical, structure
 ::wiki-claim{video="i6fitvV-aO0" video-title="Incredible UFO Footage - METAPOD"}
 ---
 label: "What is inside the pod"
-caption: "The two accounts of the pod's interior that the video raises. Only the second is answered."
+caption: "Two accounts of what is inside the pod, both raised in the video. Gerb answers only the second."
 claims:
   - title: "Something alive, with limbs"
     by: "Modesto's companion"
@@ -216,7 +216,7 @@ claims:
     responses:
       - by: "Gerb"
         stance: challenges
-        text: "He disagrees: what looks like a bean is simply sunlight reflecting off the transparent front face."
+        text: "He says what looks like a bean is simply sunlight reflecting off the transparent front face."
         cue: 523
 ---
 ::
@@ -225,9 +225,9 @@ claims:
 
 Gerb measures the pod against the [[Five UAP Characteristics (AATIP)|five characteristics of UAP]] listed by [[AATIP (Advanced Aerospace Threat Identification Program)|AATIP]] and [[Luis Elizondo]], and finds three of them:
 
-- **Instantaneous acceleration**, in the pod's sudden drop in altitude.
-- **Anti-gravity, or no visible signs of propulsion.**
-- **Low observability.**
+- Instantaneous acceleration, in the pod's sudden drop in altitude.
+- Anti-gravity, or no visible signs of propulsion.
+- Low observability.
 
 He does not claim the other two, trans-medium travel and hypersonic velocity. Beyond the five, he points to what he calls intelligent flight characteristics: the sudden altitude drop; holding still in a wind that can be heard buffeting the camera's microphone; a straight-line traverse away from the person filming; and a variable but stable rotation about its long axis. He asks viewers to watch in particular for the moment its rotation reverses from counterclockwise to clockwise, accelerating variably in both directions.
 
@@ -235,17 +235,17 @@ On the soundtrack, Gerb overlays a translation of the witnesses' voices made by 
 
 ## The Debunks
 
-Gerb takes up the three explanations most often offered for the clip. He sets out his limits first: he is no VFX artist and cannot comment on visual artefacts that might confirm or deny the footage. The claims below are his summary of the debunkers' arguments, with his replies and the one counter-argument he cites from the sceptics' own side, on [[Mick West]]'s site [[Metabunk]].
+Gerb takes up the three explanations most often offered for the clip. He sets out his limits first: he is no visual-effects (VFX) artist and cannot comment on visual artefacts that might confirm or deny the footage. The claims below are his summary of the debunkers' arguments, with his replies and the one counter-argument he cites from the sceptics' own side, on [[Mick West]]'s site [[Metabunk]].
 
 ::wiki-claim{video="i6fitvV-aO0" video-title="Incredible UFO Footage - METAPOD"}
 ---
 term: "Explanation"
 label: "Three debunks and the replies"
-caption: "The explanations Gerb reviews, in the order he takes them. The Metabunk reply comes from people who favour the balloon explanation."
+caption: "The explanations Gerb reviews, in the order he takes them. The reply from Metabunk, a sceptics' site, comes from people there who favour the balloon explanation."
 claims:
   - title: "A balloon"
     by: "Debunkers"
-    text: "The pod is a balloon, compared with a custom heart-shaped balloon and even an inflatable balloon tent."
+    text: "The pod is a balloon. Debunkers compare it with a custom heart-shaped balloon and even an inflatable balloon tent."
     cue: 734
     responses:
       - by: "Gerb"
@@ -259,11 +259,11 @@ claims:
     responses:
       - by: "Gerb"
         stance: challenges
-        text: "It is the same explanation used to try to debunk the McMinnville photographs, which he considers very real."
+        text: "He notes that the same explanation was used to try to debunk the McMinnville photographs, which he considers very real."
         cue: 751
   - title: "CGI"
     by: "CGI debunkers"
-    text: "Three frames of jitter in the stabilized footage, as the craft drops in altitude, betray computer-generated imagery."
+    text: "Three frames of jitter in the stabilized footage, as the craft drops in altitude, give away computer-generated imagery."
     cue: 759
     responses:
       - by: "Metabunk"
@@ -281,11 +281,11 @@ The string explanation ties the Metapod to the [[McMinnville UFO Photographs]], 
 
 ## Corroborating Footage
 
-Gerb's strongest argument is not the clip itself but its company. Before showing the other recordings he names the four features to watch for in each: the pod's overall crescent-moon shape; the transparent, glass-like material on one face; the sunlight reflecting off its body; and the vertical position it holds as it rotates. The matrix sets out what he says about each recording against those four features.
+Gerb's strongest argument comes from the other recordings he sets beside the clip. Before showing the other recordings he names the four features to watch for in each: the pod's overall crescent-moon shape; the transparent, glass-like material on one face; the sunlight reflecting off its body; and the vertical position it holds as it rotates. The table below sets out what he says about each recording against those four features.
 
 ::wiki-compare{video="i6fitvV-aO0" video-title="Incredible UFO Footage - METAPOD"}
 ---
-caption: "The five recordings Gerb sets beside the 2015 Metapod clip, against the four features he asks viewers to look for. Markers compare each recording with the Metapod; 'Unknown' means the video doesn't say."
+caption: "Five recordings Gerb sets beside the 2015 Metapod clip, checked against the four features he asks viewers to look for. Each marker compares that recording with the Metapod. 'Unknown' means the video doesn't say."
 attributeLabel: "Feature"
 subjects:
   - name: "Peru 'parachutes'"
