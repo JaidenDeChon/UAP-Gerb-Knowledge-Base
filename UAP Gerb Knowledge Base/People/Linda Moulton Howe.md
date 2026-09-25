@@ -13,7 +13,7 @@ Howe is the principal recorder of the best-known words attributed to [[Ben Rich]
 
 ## J. Andrew Kissner's statement
 
-Howe also presented publicly, in 2004, the statement of former New Mexico state representative [[Andrew Kissner]] on UFO crash retrieval and reverse engineering from 1947 to 1994.
+In 2004, Howe also publicly presented the statement of former New Mexico state representative [[Andrew Kissner]] on UFO crash retrieval and reverse engineering from 1947 to 1994.
 
 ## Sources
 
