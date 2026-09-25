@@ -15,16 +15,16 @@ tags:
 stats:
   - value: 18
     label: "Uses of \"non-human intelligence\""
-    hint: "In the Schumer Amendment, per Nell"
+    hint: "Times the Schumer Amendment uses the phrase, according to Nell"
   - value: 40
     label: "Firsthand witnesses"
-    hint: "Interviewed by Grusch; Nell among them"
+    hint: "People David Grusch interviewed; Leslie Kean named Nell as one"
   - value: "0–5"
-    label: "Campaign phases"
-    hint: "Across four lines of effort"
+    label: "Phases in Nell's plan"
+    hint: "The six phases of his UAP campaign plan, run across four lines of effort"
   - value: 2030
-    label: "Nell's inflection point"
-    hint: "Phase 3 target, 1 October"
+    label: "Public acceptance target"
+    hint: "Phase 3 of Nell's plan, due 1 October; he calls it an inflection point"
 ---
 ::
 
@@ -68,7 +68,7 @@ The Amendment is about UAP, not TNOs (temporarily non-attributed objects), and N
 
 ::wiki-compare{video="kKbSIfc7N7Q" video-title="SOL Foundation: Karl Nell - A Key Figure in UAP Disclosure"}
 ---
-caption: "The Schumer Amendment's two classes of unexplained object, as Nell reads them. The Amendment concerns only the first."
+caption: "The Schumer Amendment's two kinds of unexplained object, as Nell reads them: UAP (unidentified anomalous phenomena) and TNOs (temporarily non-attributed objects). The Amendment covers only UAP."
 attributeLabel: "Point"
 subjects:
   - name: "UAP"
@@ -120,7 +120,7 @@ Gerb reports that the Schumer–Rounds amendment was then "watered down and gutt
 
 ## Controlled or Catastrophic Disclosure
 
-Nell draws the key distinction. A **controlled disclosure** follows a campaign plan. A **catastrophic disclosure** opens the floodgates: all the information is dumped at once, possibly by an adversary or by NHI themselves, to cause social disruption or for other ends. The rest of the talk is an argument for the first.
+Nell separates two kinds of disclosure. A **controlled disclosure** follows a campaign plan. A **catastrophic disclosure** opens the floodgates: all the information is dumped at once, possibly by an adversary or by NHI themselves, to cause social disruption or for other ends. The rest of the talk is an argument for the first.
 
 ## Reasons For and Against Non-Disclosure
 
@@ -137,9 +137,9 @@ Under national security, Gerb singles out "new physics and technologies" with un
 
 ::wiki-claim{video="kKbSIfc7N7Q" video-title="SOL Foundation: Karl Nell - A Key Figure in UAP Disclosure"}
 ---
-label: "Reasons for non-disclosure, and the answers"
+label: "Nell's reasons for non-disclosure, and the replies"
 term: "Reason"
-caption: "Three of the six reasons on Nell's slide, with the answers the video gives. The other three (no credible plan, social disruption, organizational inertia) go unanswered."
+caption: "Three of the six reasons for non-disclosure on Nell's slide, each with the responses the video gives. The video offers none for the other three: no credible plan, social disruption and organizational inertia."
 claims:
   - title: "National-security implications"
     by: "Karl Nell"
@@ -191,37 +191,37 @@ The slide that partially leaked in November 2023 is titled "Way Forward: UAP Cam
 
 ::wiki-timeline{video="kKbSIfc7N7Q" video-title="SOL Foundation: Karl Nell - A Key Figure in UAP Disclosure"}
 ---
-help: "The ruler runs from Kean's 2017 article to the last of Nell's target dates. Its bands are the phases of Nell's campaign plan. The slide gives each phase only a target end date, so each band is drawn from one target to the next, and Phase 5 has no date at all. Entries up to February 2024 are events the video describes; the later ones are Nell's targets. Click the ruler to jump to the nearest entry. Timestamps jump the mini-player to that moment in Gerb's video."
+help: "The bar above the list runs from Leslie Kean's 2017 article to the last of Nell's target dates, with a mark for each entry; taller marks are major ones. Click the bar to jump to a year. Its shaded sections are the phases of Nell's campaign plan. His slide gives each phase only a target end date, so each section runs from one target to the next, and Phase 5 has no date at all. Entries up to February 2024 are events the video describes; the later ones are Nell's targets. Play from here starts the video at the entry you are reading, and clicking a timestamp plays Gerb's video from that moment."
 eras:
   - id: phase0
     label: "Phase 0 · Shaping the narrative"
     from: 2017
     to: 2022
-    summary: "AATIP, the DoD videos, the 2017 New York Times article and the UAP Task Force. AARO is not on the slide."
+    summary: "Already achieved through AATIP, the DoD videos, the 2017 New York Times article and the UAP Task Force. AARO is not listed on the slide."
   - id: phase1
     label: "Phase 1 · Government acceptance"
     from: 2023
     to: 2023
-    summary: "Target: 1 January 2024. All but complete, Gerb judges, ending with the Schumer legislation."
+    summary: "Target date 1 January 2024. Gerb judges it all but complete, ending with the Schumer legislation."
   - id: phase2
     label: "Phase 2 · Correlating signatures"
     from: 2024
     to: 2025
-    summary: "Target: 1 January 2026. Harness academia; marked still at risk."
+    summary: "Target date 1 January 2026. Aims to harness academia; the slide marks it still at risk."
   - id: phase3
     label: "Phase 3 · Public acceptance"
     from: 2026
     to: 2030
-    summary: "Target: 1 October 2030. The inflection point, possibly humanity's disclosure point."
+    summary: "Target date 1 October 2030. Nell calls it an inflection point, possibly humanity's disclosure point."
   - id: phase4
     label: "Phase 4 · The five W's"
     from: 2031
     to: 2034
-    summary: "Target: 1 October 2034. Answer who, what, when, where and why; marked off target."
+    summary: "Target date 1 October 2034. Aims to answer who, what, when, where and why; the slide marks it off target."
   - id: phase5
     label: "Phase 5 · Strategic end state"
     from: 2035
-    summary: "No fixed timeline. An interactive approach with UAP."
+    summary: "No fixed timeline. Aims for an interactive approach with UAP."
 events:
   - date: "2017-12-16"
     title: "New York Times article brings the Navy videos into the open"
@@ -246,7 +246,7 @@ events:
     cue: 0
   - date: "2023-07"
     title: "Grusch, Graves and Fravor testify before Congress"
-    summary: "Nell names the congressional testimony of David Grusch, Ryan Graves and David Fravor as the next key step, again lowering the threshold for treating UAP as a respectable topic."
+    summary: "Nell names the congressional testimony of David Grusch, Ryan Graves and David Fravor as the next step, which again lowered the threshold for treating UAP as a respectable topic."
     category: event
     significance: major
     entities:
@@ -301,7 +301,7 @@ events:
     cue: 738
   - date: "2024-02"
     title: "Nell's full presentation is released"
-    summary: "Only in February 2024 could the whole presentation be seen."
+    summary: "The whole presentation became viewable only in February 2024."
     category: document
     significance: minor
     entities:
@@ -319,7 +319,7 @@ events:
     cue: 759
   - date: "2030-10-01"
     title: "Phase 3 target: public acceptance"
-    summary: "Nell's inflection point, possibly the disclosure point for humanity. Gerb calls public acceptance \"a tall ask\"."
+    summary: "Nell calls this an inflection point, possibly the disclosure point for humanity. Gerb calls public acceptance \"a tall ask\"."
     category: policy
     significance: major
     entities:
@@ -373,16 +373,16 @@ Nell offers a handful of ideas for reaching a post-disclosure world. The video p
 
 ## Backup Slides: Beyond the Kardashev Scale
 
-Gerb then turns to two backup slides that weren't shown in Nell's recorded presentation, which Matthew Pines shared. The first proposes replacing the Kardashev scale, a subject Gerb covered in part two of his iceberg series. One line on it catches his eye. It says that, given how varied UAP sightings are, numerous civilizations may be interacting with Earth at the same time.
+Gerb then turns to two backup slides that weren't shown in Nell's recorded presentation, which Matthew Pines shared. The first proposes replacing the Kardashev scale, a subject Gerb covered in part two of his iceberg series. One line on it catches his eye: given how varied UAP sightings are, numerous civilizations may be interacting with Earth at the same time.
 
 ::wiki-compare{video="kKbSIfc7N7Q" video-title="SOL Foundation: Karl Nell - A Key Figure in UAP Disclosure"}
 ---
-caption: "The scale Nell's backup slide would replace, and its proposed successor."
+caption: "The Kardashev scale, which ranks civilizations by the energy they harness, beside the Universal Civilization Development Datum that Nell's backup slide proposes in its place."
 attributeLabel: "Point"
 subjects:
   - name: "Kardashev Scale"
   - name: "Universal Civilization Development Datum"
-    note: "Nell's backup slide, shared by Matthew Pines"
+    note: "Proposed on Nell's backup slide, shared by Matthew Pines"
 rows:
   - attribute: "What it gauges"
     cells:
@@ -409,13 +409,13 @@ rows:
 
 ## A Taxonomy of Origin Hypotheses
 
-The second backup slide is a "proposed taxonomy of UAP and origin hypotheses", and Gerb admits he is "honestly blown away" by it. The hypotheses are sorted into three categories: physical, psychophysical and metaphysical. The captions don't make clear where the physical group ends and the psychophysical begins, so the middle panel below holds the stranger hypotheses Gerb reads next, before he reaches the metaphysical ones.
+The second backup slide is a "proposed taxonomy of UAP and origin hypotheses", and Gerb admits he is "honestly blown away" by it. The hypotheses are sorted into three categories: physical, psychophysical and metaphysical. The slide's captions don't make clear where the physical group ends and the psychophysical begins, so the middle panel below holds the stranger hypotheses Gerb reads next, before he reaches the metaphysical ones.
 
 ::wiki-grid{cols=3}
 ::wiki-panel{title="Physical"}
 From the expected to the bizarre: natural phenomena, humans, intergalactic ETs, protohumans, "stranded gods", unknown regions of spacetime, disconnected hyperspace, and 3D avatars or holograms. Gerb links the last to Grusch's mention of a holographic universe.
 ::
-::wiki-panel{title="Stranger still"}
+::wiki-panel{title="Physical or psychophysical?"}
 Colliding universes, parallel universes, macro quantum fluctuations, pangalactic entanglement and "distance recursion".
 ::
 ::wiki-panel{title="Metaphysical"}
@@ -432,7 +432,7 @@ Gerb ends by asking how Nell became one of the 40 firsthand witnesses Grusch int
 ::wiki-chain{video="kKbSIfc7N7Q" video-title="SOL Foundation: Karl Nell - A Key Figure in UAP Disclosure"}
 ---
 kind: transmission
-caption: "How the video builds its case that Nell is one of Grusch's 40, ending in Gerb's open question."
+caption: "The steps the video follows to show that Nell is one of the 40 firsthand witnesses David Grusch interviewed, ending in a question Gerb leaves open."
 steps:
   - text: "The Debrief article"
     date: "2023-06-05"
@@ -441,7 +441,7 @@ steps:
   - via: "The day after the hearing, on television"
     name: "Leslie Kean"
     date: "2023-07"
-    note: "Asked why none of the 40 had spoken out, she says one was in the article: Karl Nell."
+    note: "Asked why none of Grusch's 40 witnesses had spoken out, she said one was in the article: Karl Nell."
     cue: 1172
   - via: "Picked up on Twitter"
     text: "The UAP News thread"
@@ -449,7 +449,7 @@ steps:
     cue: 1215
   - via: "Quoted from the thread"
     text: "Nell's LinkedIn biography"
-    note: "Foreign materials program command representative to CENTCOM's CFLCC in Kuwait; CJ2 of the captured-material exploitation center in Iraq."
+    note: "Lists him as the foreign materials program's command representative to CENTCOM's land component command (CFLCC) in Kuwait, and CJ2 of the captured-material exploitation center in Iraq."
     cue: 1220
   - via: "Read beside Michael Shellenberger's reporting"
     text: "Gerb's question"
@@ -467,7 +467,7 @@ In the clip Gerb plays, Kean says the silence of the other witnesses isn't surpr
 entries:
   - name: "Karl Nell"
     role: "Retired US Army colonel; former DIA technical intelligence operations officer"
-    note: "The subject of the video: author of the campaign plan, the Schumer Amendment reading and the reasons for and against non-disclosure, and, per Leslie Kean, one of Grusch's 40 witnesses."
+    note: "The subject of the video. The campaign plan, the reading of the Schumer Amendment and the reasons for and against non-disclosure are his. According to Leslie Kean, he is one of Grusch's 40 witnesses."
   - name: "David Grusch"
     role: "Whistleblower, former UAP Task Force colleague of Nell"
     note: "Introduced by the June 2023 Debrief article, where Nell backs him. The video draws on him for the UAP 'cold war' with China and Russia and for crimes, including murder, allegedly committed to keep the secret."
@@ -476,13 +476,13 @@ entries:
     note: "Co-author of the 2017 New York Times article and the 2023 Debrief article. The day after the hearing, she named Nell as one of Grusch's 40."
   - name: "Matthew Pines"
     role: "National security analyst"
-    note: "Shared the two backup slides, the Kardashev replacement and the origin taxonomy, that were not shown in Nell's recorded talk."
+    note: "Shared two backup slides not shown in Nell's recorded talk: the Kardashev replacement and the origin taxonomy."
   - name: "Chris Mellon"
     role: "Former Deputy Assistant Secretary of Defense for Intelligence"
     note: "A SOL Foundation figure whom Nell thanks, with Lue Elizondo, for getting the Navy videos released."
   - name: "Gary Nolan"
     role: "Stanford pathology professor"
-    note: "Host of the symposium's venue. Gerb suspects he added the sixth UAP characteristic, physical or invasive biological effects."
+    note: "The symposium took place at his laboratory at the Stanford School of Medicine. Gerb suspects he added the sixth UAP characteristic, physical or invasive biological effects."
   - name: "Sean Kirkpatrick"
     role: "Former AARO director"
     note: "Gerb imagines him 'seething' that AARO is missing from Nell's Phase 0 list."
@@ -501,7 +501,7 @@ entries:
 - The Amendment's eminent-domain clause would let the government seize technologies of unknown origin and NHI biological evidence, including from private corporations. The provisions were "watered down and gutted" before passage, per the video.
 - Nell distinguishes a controlled disclosure run on a campaign plan from a catastrophic one, in which an adversary or NHI dump all the information at once.
 - His six reasons for non-disclosure are national security, lack of a credible plan, social disruption, covert agreements with NHI, cover for misdeeds and organizational inertia. Against them he sets the risk that the USA may be losing a UAP arms race.
-- Nell's campaign plan targets government acceptance by January 2024, signature correlation by January 2026, public acceptance, possibly humanity's disclosure point, by October 2030, and answers to the five W's by October 2034, before an open-ended strategic end state.
+- Nell's campaign plan sets targets of government acceptance by January 2024, signature correlation by January 2026, public acceptance (possibly humanity's disclosure point) by October 2030 and answers to the five W's by October 2034. An open-ended strategic end state follows.
 - A backup slide would replace the Kardashev scale with a Universal Civilization Development Datum that forecasts NHI motives from what a civilization is, knows and who it is. It allows that numerous civilizations may be interacting with Earth at once.
 - Gerb asks whether Nell's Iraq-era role as the foreign materials program's command representative could have brought him to a downed UAP, the basis of his firsthand testimony.
 
