@@ -13,7 +13,7 @@ Cahn's article named GeBauer as the one and only "Dr. G," the scientist or scien
 
 ## The Revisionist Account
 
-UAP Gerb's 2025 video on Aztec, drawing on [[Scott and Suzanne Ramsey]]'s research and on Scully's correspondence, presents Cahn as the "hero of the hoax" whose own conduct deserves scrutiny. According to that account:
+Gerb's 2025 video on Aztec, drawing on [[Scott and Suzanne Ramsey]]'s research and on Scully's correspondence, presents Cahn as the "hero of the hoax" whose own conduct deserves scrutiny. According to that account:
 
 - In 1949, after reading Scully's *Variety* columns, Cahn tried to buy the saucer story for the *Chronicle* with what the video calls a lowball offer. Scully refused, but Cahn reportedly told his editors the deal had gone through.
 - Introduced to Newton at Scully's home, he pursued Newton to San Francisco and offered $25,000 and 50% of royalties if Newton would assemble the full roster of Dr. G.
