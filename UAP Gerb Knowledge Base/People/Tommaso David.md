@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-**Tommaso David** (1875–1959) was an Italian military officer and intelligence chief who, under the cover name "Dott. De Santis", commanded the counter-intelligence service of Mussolini's Italian Social Republic (the Salò republic) in 1943–1945 and founded its "Volpi Argentate" (Silver Foxes) espionage unit. In UAP research he is notable as the probable real identity of "De Santis", the man to whom the fascist-era crash-recovery protocol of the [[RS-33 (Gabinetto RS 33)|RS-33]] commission was addressed, according to documents tied to the [[1933 Magenta UFO CrashRetrieval|1933 Magenta, Italy crash]].
+**Tommaso David** (1875–1959) was an Italian military officer and intelligence chief who, under the cover name "Dott. De Santis", commanded the counter-intelligence service of Mussolini's Italian Social Republic (the Salò republic) in 1943–1945 and founded its "Volpi Argentate" (Silver Foxes) espionage unit. In UAP research he is known as the probable real identity of "De Santis", the man to whom the fascist-era crash-recovery protocol of the [[RS-33 (Gabinetto RS 33)|RS-33]] commission was addressed, according to documents tied to the [[1933 Magenta UFO CrashRetrieval|1933 Magenta, Italy crash]].
 
 ## Career
 
