@@ -15,25 +15,25 @@ tags:
 stats:
   - value: 1958
     label: MITRE founded
-    hint: "When the video says its Roswell program began"
+    hint: "The year the video says MITRE's Roswell program began"
   - value: 2
     label: Legacy programs
-    hint: "Navy-sponsored waived USAPs"
+    hint: "Waived unacknowledged special access programs, sponsored by the Navy"
   - value: "99%"
     label: Federal funding
     hint: "MITRE's share from the US government"
   - value: 10
     label: City blocks
-    hint: "Alleged size of the Tic Tac Factory"
+    hint: "Alleged size of the undersea object called the Tic Tac Factory"
   - value: 6
     label: FFRDCs run by MITRE
-    hint: "Plus 15 MITRE Labs innovation centers"
+    hint: "Federally funded research centers, plus 15 MITRE Labs innovation centers"
   - value: "~2 yrs"
-    label: Of sourcing
-    hint: "Testimony from MITRE engineers and program managers"
+    label: Of research
+    hint: "Time Gerb spent gathering testimony from MITRE engineers and program managers"
   - value: 2011
     label: Briefing clampdown
-    hint: "Newcomers no longer told the history"
+    hint: "MITRE stops telling newcomers the program's history"
   - value: "2h19m"
     label: Runtime
 ---
@@ -41,7 +41,7 @@ stats:
 
 ## Overview
 
-This video presents UAP Gerb's investigation into the [[MITRE Corporation]], a nonprofit [[Federally Funded Research and Development Center (FFRDC)|FFRDC]] operator founded in 1958 and spun off from [[MIT Lincoln Laboratory]], which Gerb calls the "apex" science and technology institution within the alleged UFO legacy program architecture. Its central thesis rests on roughly two years of research and testimony from several MITRE engineers and program managers, with a knowledge cutoff around 2019. According to the video, MITRE has served since its founding as R&D lead and program manager for two distinct, Navy-sponsored waived unacknowledged special access programs. The first is a decades-old reverse-engineering effort tracing to material recovered at the 1947 [[Roswell Crash]]. The second monitors an enormous unidentified submerged object in the Atlantic nicknamed the "[[Tic Tac Factory]]." The video opens with a primer on the FFRDC model itself: government-owned, contractor-operated institutions trusted with more sensitive material than ordinary defense contractors, yet outside standard federal oversight and FOIA obligations.
+In this video Gerb presents his investigation into the [[MITRE Corporation]], a nonprofit [[Federally Funded Research and Development Center (FFRDC)|FFRDC]] operator founded in 1958 and spun off from [[MIT Lincoln Laboratory]], which Gerb calls the "apex" science and technology institution within the alleged UFO legacy program architecture. His case rests on roughly two years of research and testimony from several MITRE engineers and program managers, with a knowledge cutoff around 2019. According to the video, MITRE has served since its founding as R&D lead and program manager for two distinct, Navy-sponsored waived unacknowledged special access programs. The first is a decades-old reverse-engineering effort tracing to material recovered at the 1947 [[Roswell Crash]]. The second monitors an enormous unidentified submerged object in the Atlantic nicknamed the "[[Tic Tac Factory]]." The video opens with a primer on the FFRDC model itself: government-owned, contractor-operated institutions trusted with more sensitive material than ordinary defense contractors, yet outside standard federal oversight and FOIA obligations.
 
 Gerb traces MITRE's founding to Project SAGE, the United States' first computer-based national air defense system, but argues that its creation about a decade after Roswell was no coincidence. On this account, MITRE's founding scientists, many from Naval special projects (including first technical director [[Robert R. Everett]]), were tasked from 1958 with reverse-engineering exploitable technology from Roswell wreckage held at [[Wright-Patterson Air Force Base]]. The program is alleged to be administered by the US Navy, through the [[Office of Naval Intelligence]] and [[Naval Air Systems Command]], rather than by the Air Force that formally chartered MITRE, with [[Naval Air Station Patuxent River]] as its operational nexus. The Tic Tac Factory is described as an object stationed near [[Bahamas|the Bahamas]] that deploys and recovers smaller transmedium craft. Gerb finds partial corroboration in an anonymous 2023 4chan testimony and in Commander [[David Fravor]]'s 2004 USS Nimitz encounter.
 
@@ -51,7 +51,7 @@ A major secondary thread concerns MITRE's internal security architecture, which 
 
 ::wiki-timeline{video="107BtDYhTkA" video-title="The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs"}
 ---
-help: "The bar pinned above the entries is a ruler running from 1940 to today. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line capped with a downward arrow is where Gerb is. Gerb cross-cuts heavily, so the playhead leaps back and forth. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Every timestamp here was checked against the captions."
+help: "The bar above the list runs from 1940 to today, with a mark for each entry. The colour shows the kind of entry, and taller marks are major ones. Click the bar to jump to the nearest entry. The dark line shows where you are reading. Play from here starts the video at that entry, and once it is playing a green line shows where Gerb is. Gerb jumps back and forth between periods a lot, so the green line does too. Turn on Follow video to have the list scroll along with the video; scrolling yourself turns it off. Click a timestamp to play the video from that moment. Every timestamp here was checked against the video's captions."
 eras:
   - id: before
     label: "Before MITRE"
@@ -67,7 +67,7 @@ eras:
     label: "The Clapper transition"
     from: 2011
     to: 2016
-    summary: "CIA partners arrive, newcomers stop being told the program's history, and the portfolio is drawn toward James Clapper's intelligence-community fold."
+    summary: "CIA partners arrive and newcomers stop being told the program's history. The portfolio is drawn toward the intelligence community under James Clapper."
   - id: after
     label: "After 2017"
     from: 2017
@@ -87,7 +87,7 @@ events:
   - date: "1947-07"
     title: "Roswell crash retrieval"
     cue: 3651
-    summary: "One or several flying discs with non-human biologics aboard allegedly crashed near Roswell, New Mexico. Per the video, the wreckage went to Wright-Patterson Air Force Base, headquarters of Air Materiel Command, and set the Manhattan Project 2.0 in motion."
+    summary: "One or several flying discs with non-human biologics aboard allegedly crashed near Roswell, New Mexico. Per the video, the wreckage went to Wright-Patterson Air Force Base, headquarters of Air Materiel Command, and set in motion what the video calls Manhattan Project 2.0."
     category: event
     significance: major
     entities:
@@ -342,7 +342,7 @@ From the start MITRE sat in the middle of a bitter roles-and-missions fight, wit
 ::wiki-chain{video="107BtDYhTkA" video-title="The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs"}
 ---
 kind: custody
-label: "Lineage"
+label: "From Vannevar Bush to MITRE"
 caption: "How Gerb traces MITRE back to Vannevar Bush, whom he calls its grandfather."
 steps:
   - name: "Vannevar Bush"
@@ -377,7 +377,7 @@ root:
   children:
     - name: National Security Engineering Center (NSEC)
       label: "DoD and USD(R&E); run through AFLCMC"
-      note: "Formerly the C3I FFRDC, at McLean. The FFRDC Gerb wagers is deepest in the legacy programs."
+      note: "Formerly the C3I FFRDC, based at McLean. Gerb wagers it is the one most deeply involved in the legacy programs."
     - name: Center for Advanced Aviation System Development
       label: "Sponsor: FAA"
     - name: Homeland Security Systems Engineering and Development Institute
@@ -410,7 +410,7 @@ Gerb says he knows of two waived unacknowledged special access programs, the mos
 
 ::wiki-compare{video="107BtDYhTkA" video-title="The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs"}
 ---
-caption: "The two MITRE-Navy programs Gerb says he knows of, point by point. The first three rows are what they share; the rest is where they part."
+caption: "The two MITRE-Navy programs Gerb says he knows of, point by point. The first three rows show what they have in common; the rest show how they differ."
 attributeLabel: "Point"
 subjects:
   - name: "Reverse-engineering program"
@@ -663,13 +663,13 @@ Gerb stresses that the 1994 reorganization, when he says control passed to a gro
 
 The video ends by offering its findings to MITRE senior vice president [[Christopher Land]], recipient of Representative Burlison's interrogative, who had been at MITRE only since February. The letter imposes a records-preservation obligation ("no burn bags or shred parties"). Gerb walks through its sections and lists what he believes MITRE must disclose:
 
-- **Preservation:** records at the hidden SSO in McLean, the Pax River umbrella site, the numbered sites, the Love Field station and NSWC Dahlgren.
-- **Contracts and sponsors:** work for ONI, the Naval Research Laboratory, NAVAIR, the Office of Naval Research and NAVSEA, and later the CIA, with MITRE as prime scientific performer and the hidden SSO running interference against Congress and inspectors general.
-- **Classified access:** waived unacknowledged SAPs with managed need-to-know compartments, code words and "handle via special access channels only" handling, plus internally generated nondisclosure agreements.
-- **Sensor data:** extensive MITRE-Navy intelligence holdings on the Tic Tac Factory, which Gerb says should be disclosed even if the derived technologies stay classified.
-- **Materials:** a documented chain of custody from wreckage at Wright-Patterson in the late 1940s, through ARDC and the Navy, to MITRE.
-- **Third parties:** Raytheon, L3Harris, Lockheed Martin and MIT Lincoln Laboratory, with more contractors suspected.
-- **Funding:** money pulled from acknowledged projects, and the "lollipop manufacturers" line for auditors.
+- Preservation: records at the hidden SSO in McLean, the Pax River umbrella site, the numbered sites, the Love Field station and NSWC Dahlgren.
+- Contracts and sponsors: work for ONI, the Naval Research Laboratory, NAVAIR, the Office of Naval Research and NAVSEA, and later the CIA, with MITRE as prime scientific performer and the hidden SSO running interference against Congress and inspectors general.
+- Classified access: waived unacknowledged SAPs with managed need-to-know compartments, code words and "handle via special access channels only" handling, plus internally generated nondisclosure agreements.
+- Sensor data: extensive MITRE-Navy intelligence holdings on the Tic Tac Factory, which Gerb says should be disclosed even if the derived technologies stay classified.
+- Materials: a documented chain of custody from wreckage at Wright-Patterson in the late 1940s, through ARDC and the Navy, to MITRE.
+- Third parties: Raytheon, L3Harris, Lockheed Martin and MIT Lincoln Laboratory, with more contractors suspected.
+- Funding: money pulled from acknowledged projects, and the "lollipop manufacturers" line for auditors.
 
 In his informal closing, Gerb says the video was deliberately shorter than his usual projects and that he will give the names of program personnel to congressional authorities. He also notes that MIT Lincoln Laboratory had still not delivered the Captain Edward J. Ruppelt film owed to Burlison's office.
 
