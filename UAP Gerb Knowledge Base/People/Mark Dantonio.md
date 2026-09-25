@@ -5,21 +5,21 @@ tags:
   - person
 ---
 
-Mark Dantonio is an astronomer and the president of FX Models, a visual effects company that has held contracts with the US Navy. His professional relationship with the Navy resulted in a firsthand encounter with what naval sonar crews refer to as a "fast mover" — an underwater object traveling at speeds far exceeding any known submarine or torpedo technology — an experience Dantonio described publicly in 2017.
+Mark Dantonio is an astronomer and the president of FX Models, a visual effects company that has held contracts with the US Navy. His professional relationship with the Navy led to a firsthand encounter with what naval sonar crews call a "fast mover": an underwater object traveling far faster than any known submarine or torpedo technology. Dantonio described the experience publicly in 2017.
 
 ## Fast Mover Encounter
 
-As a courtesy for FX Models' naval contract work, Dantonio was invited aboard a US Navy submarine. During the voyage, the submarine's sonar team detected an object traveling underwater at several hundred knots. By comparison, most military submarines and torpedoes operate at approximately 40 knots maximum. The sonar contact was distinctive enough that the crew specifically flagged it. The submarine's commanding officer, however, ordered the sonar operator to "log it and dog it" — a colloquial military instruction to log the event and suppress any further discussion of it, effectively burying the encounter within the vessel's routine records without elevating it for official investigation.
+As a courtesy for FX Models' naval contract work, Dantonio was invited aboard a US Navy submarine. During the voyage, the submarine's sonar team detected an object traveling underwater at several hundred knots. Most military submarines and torpedoes have a top speed of about 40 knots. The contact was distinctive enough that the crew flagged it. The commanding officer, however, ordered the sonar operator to "log it and dog it", military slang for recording the event and then suppressing any further discussion of it. In effect, the encounter was buried in the vessel's routine records and never passed up for official investigation.
 
 ## Confirmation of Fast Mover Program
 
-Years after the submarine encounter, Dantonio made inquiries with a senior naval official about the "fast mover program." The official declined to discuss the program but explicitly confirmed its existence, stated that USOs were a common occurrence, and described an institutional system in place to classify, log, and determine the speeds of fast movers — with the resulting reports going into a classified vault. UAP Gerb treats this confirmation as significant: a senior naval official's acknowledgment that a dedicated classification system for high-speed underwater objects exists implies the phenomenon is well-known within relevant naval circles, even as it remains publicly unacknowledged.
+Years after the submarine encounter, Dantonio asked a senior naval official about the "fast mover program." The official declined to discuss the program but explicitly confirmed that it existed. He also said that USOs (unidentified submerged objects) were a common occurrence, and described an established system for classifying and logging fast movers and determining their speeds, with the resulting reports going into a classified vault. Gerb treats this confirmation as significant, because a senior naval official's acknowledgment that a dedicated classification system for high-speed underwater objects exists implies that the phenomenon is well known in the relevant naval circles, even though it has not been acknowledged publicly.
 
-UAP Gerb notes Dantonio's account is unverified testimonial and should be treated with appropriate skepticism given the absence of documentary evidence.
+Gerb notes that Dantonio's account is unverified testimony and, since there is no documentary evidence, should be treated with appropriate skepticism.
 
 ## Significance
 
-Dantonio's account represents one of the few instances where a civilian with active naval contractual relationships reports an in-person underwater fast mover detection, combined with a subsequent implicit confirmation from a naval official. His professional background as an astronomer and his company's verified naval contracts lend his account a degree of contextual credibility.
+Dantonio's account is one of the few in which a civilian with active naval contracts reports being present for the detection of an underwater fast mover, followed later by an implicit confirmation from a naval official. His background as an astronomer and his company's verified naval contracts lend the account a degree of credibility from context.
 
 ## Sources
 

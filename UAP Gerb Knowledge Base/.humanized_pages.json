@@ -1353,6 +1353,11 @@
     "sha256": "9e3018bcae9564da09bf8474126a02c670609b48650d96dc0ccc81bdf5396765",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/People/Mark Dantonio.md": {
+    "humanized_at": "2026-09-25T19:21:00Z",
+    "sha256": "6ea0b529992f55403cc3429bae6cd40f4ff13081b99e29a6698fc0d589378c3f",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/Marshal Ward.md": {
     "humanized_at": "2026-09-25T19:20:44Z",
     "sha256": "519268c043b6afa5c508b1c581a5b22d55cbb2eb91fe3eb4667f9eefc642d3a2",
