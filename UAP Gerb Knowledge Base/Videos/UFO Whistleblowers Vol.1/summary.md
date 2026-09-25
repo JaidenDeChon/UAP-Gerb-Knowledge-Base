@@ -15,15 +15,15 @@ tags:
 stats:
   - value: 2
     label: Whistleblowers
-    hint: "Walter Haut, Steven Lovekin"
+    hint: "Walter Haut and Steven Lovekin"
   - value: 2
     label: Haut affidavits
-    hint: "1993; 2002, released 2007"
+    hint: "Signed by Haut in 1993 and 2002; the second was released in 2007"
   - value: "200–300"
     label: Radar lock-on cases
-    hint: "In the Blue Book files Lovekin saw"
+    hint: "Lovekin's estimate for the classified Project Blue Book files he saw"
   - value: "30m"
-    label: Runtime
+    label: Video length
 ---
 ::
 
@@ -63,24 +63,24 @@ Both of this volume's subjects sit between the two columns. Haut's account rests
 
 ::wiki-timeline{video="EKEZ2BClIb0" video-title="UFO Whistleblowers [Vol.1]"}
 ---
-help: "The ruler pinned above the entries spans 1947 to 2007. Each tick is an entry, coloured by category and taller for major ones; click the ruler to jump to the nearest. The first era is a single week in July 1947, so its ticks crowd together at the left edge. Lovekin's White House years are dated only roughly (c. 1959–1961). The video tells Roswell first and Lovekin second, so while it plays the video marker sweeps the axis twice. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Every timestamp here was checked against the captions."
+help: "The bar above the list runs from 1947 to 2007, with a coloured mark for each entry; taller marks are major entries. Click the bar to jump to the nearest entry. The first group of entries covers a single week in July 1947, so its marks crowd together at the left end. Lovekin's White House years are dated only roughly (c. 1959–1961). The dark line shows the entry you are reading, and Play from here starts the video at that entry. Once the video plays, a green line shows where it is. Gerb tells the Roswell story first and Lovekin's second, so the green line crosses the bar twice. Turn on Follow video to have the list scroll along with the video; scrolling yourself turns it off. Click a timestamp to play the video from that moment. Every timestamp here was checked against the video's captions."
 eras:
   - id: roswell
     label: "Roswell, July 1947"
     from: 1947
     to: 1947
-    summary: "Radar contacts, a crash, two recovery sites, a flying disc press release and a weather-balloon retraction, all within eight days."
+    summary: "Eight days that took in radar contacts, a crash, two recovery sites, a press release announcing a flying disc, and its retraction as a weather balloon."
     anchor: "the-roswell-week"
   - id: whitehouse
     label: "The Eisenhower years"
     from: 1952
     to: 1961
-    summary: "Lovekin at the White House: the classified Blue Book, a piece of the Roswell wreckage, and a President losing control of the problem."
+    summary: "Steven Lovekin's years at the White House. His account covers the classified Blue Book files, a piece of the Roswell wreckage and a President losing control of the UFO problem."
     anchor: "steven-lovekin-the-white-house-witness"
   - id: testimony
     label: "Silence, then testimony"
     from: 1978
-    summary: "Marcel breaks ranks in 1978; Haut signs affidavits in 1993 and 2002; Lovekin goes public through the Disclosure Project."
+    summary: "Jesse Marcel breaks ranks in 1978, Walter Haut signs affidavits in 1993 and 2002, and Steven Lovekin goes public through the Disclosure Project."
     anchor: "walter-haut-the-press-officer"
 events:
   - date: "1947-07-01"
@@ -145,7 +145,7 @@ events:
   - date: "1947-07-08"
     title: "Blanchard dictates the flying disc press release"
     cue: 258
-    summary: "Colonel Blanchard dictated a release to Lieutenant Walter Haut, almost verbatim from a scratch pad, stating that Roswell Army Airfield had a flying saucer found on a ranch and that Marcel would fly it to Ramey's office. Haut took it to Roswell's two radio stations and its two newspapers, the Daily Record and the Morning Dispatch. The headline read that the RAAF had captured a flying saucer."
+    summary: "Colonel Blanchard dictated a release to Lieutenant Walter Haut, almost verbatim from a scratch pad, stating that Roswell Army Airfield had a flying saucer found on a ranch and that Marcel would fly it to Ramey's office. Haut took it to Roswell's two radio stations and its two newspapers, the Daily Record and the Morning Dispatch. The headline read that the RAAF (Roswell Army Airfield) had captured a flying saucer."
     category: document
     significance: major
     entities:
@@ -177,7 +177,7 @@ events:
   - date: "1952-07"
     title: "UFOs over Washington; Ramey and Samford brief the press"
     cue: 1655
-    summary: "After the 1952 wave of UFOs over the capital, Ramey gave a press briefing alongside General John Samford. Gerb points out that the officer who killed the Roswell story was the one explaining away Washington five years later."
+    summary: "After the 1952 wave of UFOs over the capital, Ramey gave a press briefing alongside General John Samford. Gerb points out that the officer who killed the Roswell story was the one explaining away the Washington sightings five years later."
     category: event
     significance: notable
     entities:
@@ -215,7 +215,7 @@ events:
   - date: "c. 1959–1961"
     title: "Lovekin is shown Roswell wreckage with symbols"
     cue: 1060
-    summary: "During a meeting on Blue Book material, Lovekin said a colonel he recalled as Hollard brought out a metal piece like a yardstick. It bore what the colonel called symbols of instruction and came, he said, from a box of material from the 1947 New Mexico crash that the military was working on. Gerb links it to the Marcel I-beam."
+    summary: "During a meeting on Blue Book material, Lovekin said a colonel he recalled as Hollard brought out a metal piece like a yardstick. It bore what the colonel called symbols of instruction and came, he said, from a box of material from the 1947 New Mexico crash that the military was working on. Gerb links it to the marked I-beam among Marcel's Roswell debris."
     category: event
     significance: major
     entities:
@@ -373,7 +373,7 @@ rows:
 
 ### Who gave the orders
 
-The claims in this video depend on who told whom to do what that week. Each officer below is placed in the chain by his own affidavit or by someone else's.
+Much of what this video claims depends on who gave which orders that week. The chart below places each officer by his own affidavit or by someone else's.
 
 ::wiki-org-chart
 ---
@@ -418,8 +418,8 @@ Haut came to Roswell with serious credentials. In the Second World War he flew 3
 - At 9:30 a.m., after dictating the release, Blanchard took Haut into Hangar 84 to see the craft and bodies
 ::
 ::wiki-panel{title="Corroborating affidavits"}
-- **[[Arthur McQuitty]]**, managing editor of the Roswell Morning Dispatch, confirmed receiving Haut's release and then a call from the base retracting it as a balloon. Months later Blanchard told him the material was unlike anything he had seen anywhere in his life
-- **[[Thomas J. DuBose]]** confirmed that the material shown with Marcel in Ramey's office was a weather balloon used as a cover story
+- [[Arthur McQuitty]], managing editor of the Roswell Morning Dispatch, confirmed receiving Haut's release and then a call from the base retracting it as a balloon. Months later Blanchard told him the material was unlike anything he had seen anywhere in his life
+- [[Thomas J. DuBose]] confirmed that the material shown with Marcel in Ramey's office was a weather balloon used as a cover story
 ::
 ::
 
@@ -450,9 +450,9 @@ Lovekin's work at the agency involved codebreaking, and Blue Book was, he said, 
 
 ### A piece of Roswell
 
-This is why Gerb pairs Lovekin with Haut. At a meeting about Blue Book material, Lovekin said, a Colonel "Hollard" brought out a metal piece like a yardstick. It was covered in markings the colonel called symbols of instruction, important enough to keep the military working on them constantly. He said it came from one of the craft that crashed in New Mexico in 1947, out of a box of material the military was working on in what would now be called reverse engineering. The next day the talk turned to bodies: three or five, the count uncertain because the information was incomplete, and one "partially alive" at the time.
+Gerb pairs Lovekin with Haut because of this story. At a meeting about Blue Book material, Lovekin said, a Colonel "Hollard" brought out a metal piece like a yardstick. It was covered in markings the colonel called symbols of instruction, important enough to keep the military working on them constantly. He said it came from one of the craft that crashed in New Mexico in 1947, out of a box of material the military was working on in what would now be called reverse engineering. The next day the talk turned to bodies: three or five, the count uncertain because the information was incomplete, and one "partially alive" at the time.
 
-The markings are the thread Gerb follows through three independent witnesses:
+Gerb follows the markings through three independent witnesses:
 
 ::wiki-compare{video="EKEZ2BClIb0" video-title="UFO Whistleblowers [Vol.1]"}
 ---
@@ -502,7 +502,7 @@ steps:
     cue: 1322
   - via: "led to"
     text: "Control drifts to corporations"
-    note: "Into hands that could be used to the country's detriment, and not the best hands for the phenomenon."
+    note: "In Lovekin's telling, these were hands that could be used to the country's detriment, and not the best hands for the phenomenon."
     cue: 1389
   - via: "with the result that"
     fork:
@@ -525,11 +525,11 @@ In a separate interview with Grant Cameron, Lovekin said he went to Camp David w
 
 ### Threats against witnesses
 
-Lovekin said an older officer with ties to the [[CIA]] and the [[Defense Intelligence Agency]] warned him that uncovering the truth could lead to "somebody being erased." Those threats, the officer said, had been made and carried out, and dated back to 1947, when the Air Force was given absolute control of what Lovekin called the biggest security situation the country had ever dealt with. They would go after not only you but your family. Asked whether people had been killed to protect the secret, Lovekin said it was "an ongoing concern" among the people he talked to. He had heard things he would not repeat, and he agreed he strongly suspected people had been murdered.
+Lovekin said an older officer with ties to the [[CIA]] and the [[Defense Intelligence Agency]] warned him that uncovering the truth could lead to "somebody being erased." Those threats, the officer said, had been made and carried out, and dated back to 1947, when the Air Force was given absolute control of what Lovekin called the biggest security situation the country had ever dealt with. They would go after your family as well as you. Asked whether people had been killed to protect the secret, Lovekin said it was "an ongoing concern" among the people he talked to. He had heard things he would not repeat, and he agreed he strongly suspected people had been murdered.
 
 ## Gerb's assessment
 
-Gerb believes a non-human craft crashed at Roswell in 1947. He sees Roswell as the nexus of the reverse-engineering programs. [[Magenta, Italy]] may have come earlier, he says, but a program then was less concentrated, compartmented and efficient. He rates Haut among the best Roswell whistleblowers because he worked directly with Blanchard and Ramey. He points out that Ramey, the man who killed the Roswell story, also briefed the press with General [[General Samford|Samford]] after the 1952 Washington sightings. He finds Lovekin "quite credible" apart from the militia rank, and values him most for showing where the program "started to spiral out." It is probable, Gerb thinks, that around the 1960s parts of the legacy program moved into the private sector, were funded by private corporations and IRAD, and slipped congressional and presidential oversight. He promises future volumes on crash-retrieval, reverse-engineering, sighting and radar whistleblowers.
+Gerb believes a non-human craft crashed at Roswell in 1947. He sees Roswell as the nexus of the reverse-engineering programs. [[Magenta, Italy]] may have come earlier, he says, but a program then was less concentrated, compartmented and efficient. Haut, in his view, is among the best Roswell whistleblowers because he worked directly with Blanchard and Ramey. Ramey, the man who killed the Roswell story, also briefed the press with General [[General Samford|Samford]] after the 1952 Washington sightings, Gerb points out. He finds Lovekin "quite credible" apart from the militia rank, and values him most for showing where the program "started to spiral out." It is probable, Gerb thinks, that around the 1960s parts of the legacy program moved into the private sector, were funded by private corporations and IRAD, and slipped congressional and presidential oversight. He promises future volumes on crash-retrieval, reverse-engineering, sighting and radar whistleblowers.
 
 ## Key Figures
 
@@ -559,7 +559,7 @@ entries:
     note: "Swore he received Haut's release and then the base's retraction call; a friend of Blanchard's."
   - name: Dwight D. Eisenhower
     role: "34th President of the United States"
-    note: "In Lovekin's telling, deeply concerned with UFOs, then sold out as the problem slipped into corporate hands; the 1961 farewell address as his warning."
+    note: "In Lovekin's telling, he was deeply concerned with UFOs, then sold out as the problem slipped into corporate hands; the 1961 farewell address was his warning."
 ---
 ::
 
