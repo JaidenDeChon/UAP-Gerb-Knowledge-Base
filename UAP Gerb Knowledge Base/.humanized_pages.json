@@ -103,6 +103,11 @@
     "sha256": "bec7fd3dc47cd82db028b59b83a17c7273a01db43e2bbb74e8282f0b72736939",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/People/Barry Goldwater.md": {
+    "humanized_at": "2026-09-25T19:05:42Z",
+    "sha256": "d58a780af8b4d532cd454eeeed6f13cdf75fa471caaec3609525033200e2eb28",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/Bill Burns.md": {
     "humanized_at": "2026-09-25T19:05:09Z",
     "sha256": "7dc149d3ccdb6a7ed55d6811611f3c7e26ba6410f365b7b0884f364872d6f7cc",
