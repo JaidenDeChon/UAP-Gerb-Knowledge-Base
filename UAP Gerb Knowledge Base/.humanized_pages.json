@@ -479,6 +479,11 @@
     "sha256": "fb9b33b49efb559cdfc387042a73cf2921c54a4ec005c316421de10b72ecde84",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/Lawrence Livermore National Laboratory.md": {
+    "humanized_at": "2026-09-25T23:49:13Z",
+    "sha256": "909c33cd01f81cd6364cefe29b36b39d96bf091a209e02da2143de3b81baab49",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
