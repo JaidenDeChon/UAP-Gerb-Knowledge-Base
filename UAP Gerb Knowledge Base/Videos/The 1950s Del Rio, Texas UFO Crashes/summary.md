@@ -17,25 +17,25 @@ stats:
     label: Alleged crashes
     hint: "El Indio, 1950, and Langtry, 1955"
   - value: 4
-    label: Points separating them
-    hint: "Wreckage, dates, geography, radar"
+    label: Points that separate them
+    hint: "Gerb's four: wreckage, dates, geography and radar"
   - value: "~2,000 mph"
     label: Willingham's speed estimate
-    hint: "About four times an F-86's 685 mph"
+    hint: "For the object he saw; about four times his F-86's 685 mph"
   - value: "300 ft"
-    label: Skid across the ground
-    hint: "Disc broken into about three sections"
+    label: Length of the skid
+    hint: "The disc at Langtry skidded this far and lay in about three sections"
   - value: "0 → 3–4"
-    label: Bodies seen, by account
-    hint: "The Other Roswell (2008) vs. Rense (2012)"
+    label: Bodies Willingham saw
+    hint: "None in The Other Roswell (2008); three or four in the Rense interview (2012)"
   - value: 40
-    label: Unknowns in the 6 Dec 1950 alert
-    hint: "At 32,000 ft; cancelled at 1316 hours"
+    label: Unknown aircraft in alert
+    hint: "Nationwide alert of 6 Dec 1950, at 32,000 ft; cancelled at 1316 hours"
   - value: "44 yrs"
-    label: AT&T's management of Sandia
-    hint: "1949–1993, per the video"
+    label: AT&T at Sandia
+    hint: "Years AT&T managed the lab, 1949–1993, per the video"
   - value: "31m"
-    label: Runtime
+    label: Video length
 ---
 ::
 
@@ -51,7 +51,7 @@ The two halves of the video reach different verdicts. Gerb treats Willingham's s
 
 ::wiki-timeline{video="8S9qdRWSnD8" video-title="The 1950s Del Rio, Texas UFO Crashes"}
 ---
-help: "The bar pinned above the entries is a ruler from 1945 to 2025. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. Both crashes sit in the first band, which also holds the December 1950 alert and Sandia's change of management; the long second band is the paper trail through which Willingham's account reached print and changed. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line capped with a downward arrow is where Gerb is. Gerb tells the 1955 story first and doubles back to 1950, so the playhead crosses the ruler backwards halfway through. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Timestamps jump the mini-player to that moment."
+help: "The bar above the list runs from 1945 to 2025, with a mark for each entry. Colours show the type of entry, and taller marks are major ones. Click the bar to jump to the nearest entry. The shaded bands are the page's eras. Both crashes fall in the first, along with the December 1950 alert and the change in who ran Sandia. The long second band covers the years in which Willingham's account reached print and changed. The dark line shows where you are reading. Play from here starts the video at that entry, and once it is playing a green line shows where Gerb is. Gerb tells the 1955 story first and then goes back to 1950, so the green line runs backwards along the bar halfway through. Turn on Follow video to have the list scroll along with the video; scrolling yourself turns it off. Click a timestamp to play the video from that moment."
 eras:
   - id: crashes
     label: "The Crashes and Their Context"
@@ -68,7 +68,7 @@ eras:
   - id: unravels
     label: "The Account Shifts"
     from: 2012
-    summary: "Willingham now says he saw bodies; Torres repeats it; Eric Davis names Del Rio on air."
+    summary: "Willingham now says he saw bodies, and Torres repeats the claim. Eric Davis names Del Rio on air."
     anchor: "a-shifting-account"
 hinges:
   - year: 2012
@@ -77,7 +77,7 @@ events:
   - date: "1949"
     title: "Truman hands Sandia's management to AT&T"
     cue: 1517
-    summary: "President Truman gave managerial responsibility for Sandia, on the grounds of Kirtland Air Force Base in New Mexico, to AT&T, the company behind the transistor. Gerb returns to this in the video's closing thread: the lab said to have received the El Indio debris the following year was run by a telephone company."
+    summary: "President Truman gave managerial responsibility for Sandia, on the grounds of Kirtland Air Force Base in New Mexico, to AT&T, the company behind the transistor. Gerb comes back to this at the end of the video: the lab said to have received the El Indio debris the following year was run by a telephone company."
     category: organization
     significance: major
     entities:
@@ -146,7 +146,7 @@ events:
   - date: "1952"
     title: "Distant early warning radar comes into use, per Gerb"
     cue: 1290
-    summary: "Gerb dates the distant early warning (DEW) radar systems that Willingham says first detected the object to 1952, the fourth of his points separating the cases: no 1950 account could involve them."
+    summary: "Willingham says distant early warning (DEW) radar first detected the object. Gerb dates those systems to 1952, which is the fourth of his points separating the cases: no 1950 account could involve them."
     category: program
     significance: minor
     entities:
@@ -328,7 +328,7 @@ Gerb began expecting to cover a single 1950 event. He had assumed that Willingha
 
 ::wiki-compare{video="8S9qdRWSnD8" video-title="The 1950s Del Rio, Texas UFO Crashes"}
 ---
-caption: "Gerb's four points for why the two crashes cannot be one event. Each point's chip jumps to where he makes it."
+caption: "Gerb's four reasons the two crashes cannot be the same event. Click the timestamp beside a point to play the video where he makes it."
 attributeLabel: "Point"
 subjects:
   - name: "1950 El Indio UFO Crash"
@@ -359,11 +359,11 @@ rows:
 ---
 ::
 
-The third point is easiest to see on a map. Both stories are told from Del Rio, but the two sites lie on opposite sides of it: one about 60 miles up the Rio Grande, the other about 75 miles down it.
+The third point is easiest to see on a map. The two sites lie on opposite sides of Del Rio: one about 60 miles up the Rio Grande, the other about 75 miles down it.
 
 ::wiki-map{video="8S9qdRWSnD8" video-title="The 1950s Del Rio, Texas UFO Crashes"}
 ---
-caption: "The two alleged crash sites, on either side of the town that gave them one name. Distances are Gerb's."
+caption: "The two alleged crash sites lie on either side of Del Rio, the town both stories are named after. Distances are Gerb's."
 pins:
   - name: "Langtry, Texas"
     label: "Langtry"
@@ -396,9 +396,9 @@ On a spring day in 1955, Willingham and other F-86 pilots flew out of [[Carswell
 
 No record of the 1955 sighting survives, so Gerb sets it beside three other episodes:
 
-- **The Condon Report's Case 5 (19 September 1957).** A fireball alternating red and white followed a Carswell-based RB-47 for more than 600 miles. The crew saw it, Carswell radar and the aircraft's radar tracked it, and the ECM equipment registered a strong signal at 2,800 megacycles. Pilot Lewis D. Chase said it looked like "a glowing body as big as a barn". According to the [[Condon Report]], intelligence personnel removed the ECM and radar data on landing. Gerb shows the original CIA report of the incident.
-- **Dallas, 14 May 1954.** Marine reserve jets led by Major Charles Scarborough, about six miles west of Dallas, saw 16 objects in groups of four, alternating white and orange. The objects outran the pilots' attempt to box them in.
-- **San Antonio, 18 July 1955.** Months after the encounter, an unclassified document answered a request from the commander of USAF Security Service in San Antonio for UFO sighting data from the Northeast Air Command and the northwestern United States, specifically from B-47s. Gerb allows this may be coincidence.
+- Case 5 of the Condon Report, from 19 September 1957, describes how a fireball alternating red and white followed a Carswell-based RB-47 for more than 600 miles. The crew saw it, Carswell radar and the aircraft's radar tracked it, and the ECM equipment registered a strong signal at 2,800 megacycles. Pilot Lewis D. Chase said it looked like "a glowing body as big as a barn". According to the [[Condon Report]], intelligence personnel removed the ECM and radar data on landing. Gerb shows the original CIA report of the incident.
+- On 14 May 1954, about six miles west of Dallas, Marine reserve jets led by Major Charles Scarborough saw 16 objects in groups of four, alternating white and orange. The objects outran the pilots' attempt to box them in.
+- On 18 July 1955, months after the encounter, an unclassified document answered a request from the commander of USAF Security Service in San Antonio for UFO sighting data from the Northeast Air Command and the northwestern United States, specifically from B-47s. Gerb allows this may be coincidence.
 
 ### At the wreck
 
@@ -434,7 +434,7 @@ For Gerb, the most troubling part of the case is what Willingham said about bodi
 
 ::wiki-compare{video="8S9qdRWSnD8" video-title="The 1950s Del Rio, Texas UFO Crashes"}
 ---
-caption: "Three tellings of Willingham's story. \"Differs\" marks the details Gerb says contradict one another; a dash means that version does not say."
+caption: "Three versions of Willingham's story, side by side. \"Differs\" marks the details Gerb says contradict one another; a dash means that version does not say."
 attributeLabel: "Detail"
 subjects:
   - name: "1965 article and 1977 affidavit"
@@ -569,7 +569,7 @@ entries:
     note: "Cancelled the nationwide unidentified-aircraft alert of 6 December 1950 at 1316 hours."
   - name: "Edgar Fouche"
     role: "USAF master sergeant; Lockheed claimant"
-    note: "Claimed Lockheed's alleged TR-3B program drew partly on Sandia Labs, which is the end point of the video's Sandia thread."
+    note: "Claimed Lockheed's alleged TR-3B program drew partly on Sandia Labs, the last stop on the video's trail from the El Indio debris."
   - name: "Kevin Randle"
     role: "UFO researcher and author"
     note: "Questions Willingham's Air Force record in Crash: When UFOs Fall from the Sky."
