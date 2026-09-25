@@ -322,8 +322,9 @@ def mask_strings(text: str) -> str:
             return m.group(0)
         body = m.group(0)[1:-1]
         text = re.sub(r"\$\{[^}]*\}", "", body) if m.group(0)[0] == "`" else body
-        prose = (re.search(r"[A-Za-z]", text) and (" " in text.strip() or "…" in text)
-                 or (re.fullmatch(r"[A-Z][a-z]+", text) and text not in CODE_WORDS))
+        bare = text.strip()
+        prose = (re.search(r"[A-Za-z]", text) and (" " in bare or "…" in text or "(" in bare)
+                 or (re.fullmatch(r"[A-Z][a-z]+", bare) and bare not in CODE_WORDS))
         if not prose:
             return m.group(0)
         if m.group(0)[0] == "`":

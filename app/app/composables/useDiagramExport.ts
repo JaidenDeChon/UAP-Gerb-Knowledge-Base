@@ -234,9 +234,9 @@ export function useDiagramExport(options: DiagramExportOptions): DiagramExport {
     // leave us no window to write into.
     const win = window.open('', '_blank')
     if (win) {
-      win.document.title = 'Rendering image…'
+      win.document.title = 'Preparing the image…'
       win.document.body.style.cssText = `margin:0;min-height:100vh;display:grid;place-items:center;background:${backdropColor(options.target() ?? document.body)};color:${resolveColor(document.body, 'hsl(var(--muted-foreground))')};font:13px ${cssVar('--font-sans', 'sans-serif')}`
-      win.document.body.textContent = 'Rendering image…'
+      win.document.body.textContent = 'Preparing the image…'
     }
     void run(async () => {
       const { blob, width, backdrop } = await render()
