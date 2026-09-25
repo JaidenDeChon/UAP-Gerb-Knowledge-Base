@@ -354,6 +354,11 @@
     "sha256": "bbbf6e5026148f0a866afc73774527c842e739eea114c91382dedf60dbffe2a6",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/Defense Advanced Research Center (DARS).md": {
+    "humanized_at": "2026-09-25T23:45:31Z",
+    "sha256": "30a1502eb95a158540d7a8f1c76cd228de782569a04d337c4edd61cbec76a26c",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
