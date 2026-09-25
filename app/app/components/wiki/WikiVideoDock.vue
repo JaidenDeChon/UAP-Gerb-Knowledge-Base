@@ -318,7 +318,7 @@ const style = computed(() => isMobile.value
       :class="{ 'is-mobile': isMobile, 'is-min': dock.minimised.value, 'is-interacting': interacting }"
       :style="style"
       role="complementary"
-      aria-label="Video player"
+      aria-label="Video mini-player"
       @keydown="onKeydown"
     >
       <header
@@ -331,10 +331,10 @@ const style = computed(() => isMobile.value
         @keydown.right.prevent="nudge(16, 0)"
       >
         <span class="ufo-dock-title">{{ dock.title.value || 'Now playing' }}</span>
-        <button type="button" class="ufo-dock-btn" aria-label="Minimise" @click="dock.toggleMinimise()">
+        <button type="button" class="ufo-dock-btn" aria-label="Minimise or restore the mini-player" @click="dock.toggleMinimise()">
           <component :is="dock.minimised.value ? Square : Minus" class="size-3.5" />
         </button>
-        <button type="button" class="ufo-dock-btn" aria-label="Close player" @click="dock.close()">
+        <button type="button" class="ufo-dock-btn" aria-label="Close the mini-player" @click="dock.close()">
           <X class="size-3.5" />
         </button>
       </header>
