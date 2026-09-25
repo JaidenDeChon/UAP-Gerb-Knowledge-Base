@@ -15,25 +15,25 @@ tags:
 stats:
   - value: "45,000"
     label: Aircraft tracked
-    hint: "By Laser Strike radar, Apr 1996–Apr 1997"
+    hint: "By Operation Laser Strike's radars, Apr 1996–Apr 1997"
   - value: "10 × 20 m"
     label: Size of the craft
     hint: "Buried at 45° in a ~200 ft ridge"
   - value: "~30"
-    label: DOE personnel
-    hint: "In MOPP gear and 'DOE' jackets"
+    label: Department of Energy team
+    hint: "In MOPP protective gear and 'DOE' jackets"
   - value: "15–20 min"
     label: Marines' time at the craft
     hint: "Before the armed men intercepted them"
   - value: "~9 h"
-    label: Window to deploy
-    hint: "Host's estimate for the retrieval team"
+    label: Retrieval team's time to arrive
+    hint: "Gerb's estimate, from satellite warning to the site"
   - value: "~90 mi"
-    label: Crash radius from Iquitos
-    hint: "Host's estimate, ±25%"
+    label: Crash site's distance from Iquitos
+    hint: "Gerb's estimate, ±25%"
   - value: "Up to 2 days"
-    label: Held underground
-    hint: "Then 3 weeks kept apart"
+    label: Weygandt held underground
+    hint: "Then kept apart for 3 weeks at his base"
   - value: "1h58m"
     label: Runtime
 ---
@@ -41,23 +41,23 @@ stats:
 
 ## Overview
 
-This video is UAP Gerb's full re-examination of the testimony of [[Jonathan Weygandt]], a former US Marine lance corporal who says that in March or April 1997, while deployed to Peru for the classified counter-narcotics [[Operation Laser Strike]], he came upon a crashed non-human craft and the team sent to retrieve it. Sent with a handful of [[Marine Air Control Group 28]] Marines to secure what they were told was a downed, "possibly friendly" aircraft, Weygandt found a massive metallic egg buried in a jungle ridge. It was dripping a syrupy liquid and had a four-fingered arm hanging from a half-open hatch. He and his sergeants were then held at gunpoint by unmarked, black-clad operators, while about 30 people in "DOE" rain jackets and protective suits marched down to the craft. Weygandt, soaked in the liquid, was stripped, flown away, interrogated and threatened for up to two days, and made to sign two secrecy forms. The event is catalogued here as the [[Peru UFO Crash Incident]].
+This video is UAP Gerb's full re-examination of the testimony of [[Jonathan Weygandt]], a former US Marine lance corporal. He says that in March or April 1997, while deployed to Peru for the classified counter-narcotics [[Operation Laser Strike]], he came upon a crashed non-human craft and the team sent to retrieve it. Sent with a handful of [[Marine Air Control Group 28]] Marines to secure what they were told was a downed, "possibly friendly" aircraft, Weygandt found a massive metallic egg buried in a jungle ridge. It was dripping a syrupy liquid and had a four-fingered arm hanging from a half-open hatch. He and his sergeants were then held at gunpoint by unmarked, black-clad operators, while about 30 people in "DOE" rain jackets and protective suits marched down to the craft. Weygandt, soaked in the liquid, was stripped, flown away, interrogated and threatened for up to two days, and made to sign two secrecy forms. The event is catalogued here as the [[Peru UFO Crash Incident]].
 
 Gerb frames the video as the groundwork for a planned sit-down interview. It revisits a case he covered in one of his first projects, drawing on Weygandt's 2000 tape testimony with [[Steven Greer]] (which, he says, Greer edited, cutting the arm), rougher source tapes from Greer's archive, Weygandt's 1 August 2000 letter to Greer's team, a 2023 podcast with [[Martin Willis]], and new in-person conversations of his own. He credits [[RGH UFOs]] and [[TAGOM]], whose 2023 research reached many of the same conclusions first.
 
-The video then builds a thesis. The science team was the Department of Energy's [[NEST (Nuclear Emergency Support Team)|Nuclear Emergency Support Team]], alerted by satellites and flown from [[Sandia National Laboratories]]. The armed men were probably the [[US Army 7th Special Forces Group]], and the Chinooks probably came from [[Joint Task Force Bravo]]. Weygandt's base was probably [[USAF Radar Detachment 5, Iquitos|USAF Radar Detachment 5]] at [[Iquitos, Peru|Iquitos]], not [[Pucallpa]], and he may have been held at the Navy's [[NAMRU South, Lima, Peru|NAMRU South]]. Gerb reports reaching one of the Marines Weygandt names, who denies the incident, and compares the craft with the [[1953 Camp Polk UFO Crash Retrieval]] and [[Albert Bruce Collins]]'s 1947 sighting. He calls the case one of the most extraordinary encounters with a downed craft on record, while stressing that his reconstruction rests on heavy assumptions.
+Gerb then sets out his own theory of who was there. The science team was the Department of Energy's [[NEST (Nuclear Emergency Support Team)|Nuclear Emergency Support Team]], alerted by satellites and flown from [[Sandia National Laboratories]]. The armed men were probably the [[US Army 7th Special Forces Group]], and the Chinooks probably came from [[Joint Task Force Bravo]]. Weygandt's base was probably [[USAF Radar Detachment 5, Iquitos|USAF Radar Detachment 5]] at [[Iquitos, Peru|Iquitos]], not [[Pucallpa]], and he may have been held at the Navy's [[NAMRU South, Lima, Peru|NAMRU South]]. Gerb reports reaching one of the Marines Weygandt names, who denies the incident, and compares the craft with the [[1953 Camp Polk UFO Crash Retrieval]] and [[Albert Bruce Collins]]'s 1947 sighting. He calls the case one of the most extraordinary encounters with a downed craft on record, while stressing that his reconstruction rests on heavy assumptions.
 
 ## Chronology
 
 ::wiki-timeline{video="7Jc2G5aEH0A" video-title="1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt"}
 ---
-help: "The bar pinned above the entries is a ruler from 1933 to 2025. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line capped with a downward arrow is where Gerb is. Gerb tells Weygandt's story first and then goes back to earlier cases, so the playhead leaps around the ruler. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Timestamps jump the mini-player to that moment."
+help: "The bar above the list runs from 1933 to 2025, with a coloured mark for each entry; taller marks are major entries. Click the bar to jump to a year. The dark line shows the entry you are reading. Play from here starts the video at that entry, and while it plays a green line shows where Gerb is. Gerb tells Weygandt's story first and then goes back to earlier cases, so the green line jumps back and forth along the bar. Turn on Follow video to have the list scroll along with the video; scrolling yourself turns it off. Click a timestamp to play the video from that moment."
 eras:
   - id: precedents
     label: "Precedents"
     from: 1933
     to: 1994
-    summary: "Earlier egg-shaped crashes, rapid recovery teams and the Department of Energy's nuclear emergency apparatus that Gerb uses to read Weygandt's account."
+    summary: "Earlier egg-shaped crashes, rapid recovery teams and the Department of Energy's nuclear emergency apparatus, which Gerb uses to interpret Weygandt's account."
     anchor: "egg-shaped-precedents"
   - id: laserstrike
     label: "Laser Strike"
@@ -77,7 +77,7 @@ events:
   - date: "1933-06"
     title: "Vatican intelligence tips off the US about the Magenta disc"
     cue: 6154
-    summary: "Recalling the 1933 Magenta, Italy case, Gerb notes that, according to David Grusch and the late Harald Malmgren, Vatican intelligence alerted the United States to a lenticular disc in Axis hands, allowing the US to capture it after World War II. He raises it to set up Albert Bruce Collins's claims of joint US-Vatican programs."
+    summary: "Recalling the 1933 Magenta, Italy case, Gerb notes that, according to David Grusch and the late Harald Malmgren, Vatican intelligence alerted the United States to a lenticular disc in Axis hands, allowing the US to capture it after World War II. He brings it up as background to Albert Bruce Collins's claims of joint US-Vatican programs."
     category: event
     significance: minor
     entities:
@@ -121,7 +121,7 @@ events:
   - date: "1954-08"
     title: "Atomic Energy Act of 1954"
     cue: 3339
-    summary: "Gerb calls the Atomic Energy Act, later cited in the Schumer-Rounds legislation as a vehicle for misclassifying UFO material as 'transclassified foreign nuclear information', the primary authority behind NEST, and so the legal umbrella for a Department of Energy team at a crash site."
+    summary: "Gerb calls the Atomic Energy Act the primary authority behind NEST, the Nuclear Emergency Support Team, and so the legal umbrella for a Department of Energy team at a crash site. The Schumer-Rounds legislation later cited the act as a vehicle for misclassifying UFO material as 'transclassified foreign nuclear information'."
     category: policy
     significance: notable
     entities:
@@ -197,7 +197,7 @@ events:
   - date: "1995"
     title: "NEST assessment report secures military airlift"
     cue: 3649
-    summary: "A declassified 1995 NEST assessment team report shows the DOE arranged with the Defense Department for military aircraft to be made immediately available for NEST deployments, and that NEST worked with special operations forces. It also praised the 'relatively high degree of autonomy' of the laboratories' program managers."
+    summary: "A declassified 1995 NEST assessment team report shows the Department of Energy arranged with the Defense Department for military aircraft to be made immediately available for NEST deployments, and that NEST worked with special operations forces. It also praised the 'relatively high degree of autonomy' of the laboratories' program managers."
     category: document
     significance: notable
     entities:
@@ -214,7 +214,7 @@ events:
   - date: "1996"
     title: "NEST briefing describes a first-on-scene team with its own jets"
     cue: 3076
-    summary: "A 1996 NEST briefing, the closest document to the crash, describes NEST restricting access, running diagnostics and handling clean-up at incident sites, staffed by chemists, physicists and engineers and partnered with Raytheon, EG&G and the Los Alamos, Sandia and Lawrence Livermore laboratories. Its fleet included Cessna Citation II jets with a top speed of 464 mph."
+    summary: "A 1996 NEST briefing, the document closest in time to the crash, describes NEST restricting access, running diagnostics and handling clean-up at incident sites, staffed by chemists, physicists and engineers and partnered with Raytheon, EG&G and the Los Alamos, Sandia and Lawrence Livermore laboratories. Its fleet included Cessna Citation II jets with a top speed of 464 mph."
     category: document
     significance: notable
     entities:
@@ -324,7 +324,7 @@ events:
   - date: "1997-05"
     title: "Nightmares, missing time and a push to discredit him"
     cue: 2573
-    summary: "Kept apart with Air Force personnel for three weeks and then sent back to Cherry Point, Weygandt was by May 1997 suffering nightmares, missing time and strange dreams. He maintains the Marine Corps tried to make him appear unstable."
+    summary: "Weygandt was kept apart with Air Force personnel for three weeks and then sent back to Cherry Point. By May 1997 he was suffering nightmares, missing time and strange dreams. He maintains the Marine Corps tried to make him appear unstable."
     category: person
     significance: minor
     entities:
@@ -341,7 +341,7 @@ events:
   - date: "2000-08-01"
     title: "Weygandt writes to Steven Greer's team"
     cue: 5516
-    summary: "On 1 August 2000, about two months before recording his testimony, Weygandt described the encounter and Operation Laser Strike to Steven Greer's team. Gerb says the accuracy of that description argues against invention."
+    summary: "On 1 August 2000, about two months before recording his testimony, Weygandt described the encounter and Operation Laser Strike to Steven Greer's team. Gerb says the description is accurate enough to argue against Weygandt having invented the story."
     category: document
     significance: notable
     entities:
@@ -361,7 +361,7 @@ events:
   - date: "2003"
     title: "CIA Office of Global Access formed"
     cue: 3878
-    summary: "Journalist Christopher Sharp has accused the CIA's Office of Global Access, formed in 2003 out of the Directorate of Science and Technology, of running logistics for foreign crash retrievals, with Joint Special Operations Command as the boots on the ground: the model Gerb tests against the Peru team."
+    summary: "Journalist Christopher Sharp has accused the CIA's Office of Global Access, formed in 2003 out of the Directorate of Science and Technology, of running logistics for foreign crash retrievals, with Joint Special Operations Command as the boots on the ground. Gerb tests this model against the Peru team."
     category: organization
     significance: minor
     entities:
@@ -422,7 +422,7 @@ events:
   - date: "2025"
     title: "Gerb sits down with Weygandt in person"
     cue: 6270
-    summary: "After months of friendship, Gerb recorded new in-person conversations with Weygandt at his home in the South, the first substantial new testimony since 2000, adding that the black-clad men were on site first, that they looked like Army by their caps, and that armed Chinese and German personnel were at the holding site. A full interview is to follow."
+    summary: "After months of friendship, Gerb recorded new in-person conversations with Weygandt at his home in the South, the first substantial new testimony since 2000. They added that the black-clad men were on site first, that they looked like Army by their caps, and that armed Chinese and German personnel were at the holding site. A full interview is to follow."
     category: event
     significance: notable
     entities:
@@ -459,12 +459,12 @@ root:
       children:
         - name: USAF Radar Detachment 5, Iquitos
           label: Air Force radar detachment
-          note: "Candidate for Weygandt's base."
+          note: "Gerb's candidate for Weygandt's base."
         - name: MARFORLANT Riverine Training Team
           label: Riverine training with Peruvian forces
         - name: NAMRU South, Lima, Peru
           label: Navy medical research unit
-          note: "Candidate for where Weygandt was held."
+          note: "Gerb's candidate for where Weygandt was held."
     - name: Marine Air Control Group 28
       label: Perimeter security and air defense
       note: "From MCAS Cherry Point; replacing Hawk batteries with Stinger and Avenger systems."
@@ -485,11 +485,11 @@ On guard in his radar site's command center, Weygandt overheard two Air Force op
 
 The video reconstructs the night of the crash, some time in March or April 1997:
 
-1. **The call.** Between 11 p.m. and midnight, while Weygandt was on guard, [[Sergeant Montil|Staff Sergeant Montil]], [[Sergeant Allen]] and [[Sergeant Atkins]] told him that an aircraft, possibly friendly, had crashed and the Marines were needed to secure the site.
-2. **The approach.** At 3 or 4 a.m. eight to ten Marines set out in five or six Humvees with maps, radios and compasses, then went on foot through the bush. They reached the area around first light, 6 to 7 a.m.
-3. **The gash.** The site was easy to find: something had cut a trench through the jungle, burning trees cleanly "like... a warm butter with a knife", as if by a laser. Weygandt, Allen and Atkins were on point, 10 to 20 m ahead of the others.
-4. **The craft.** Rather than climbing straight up, the three went left to the top of the ridge and saw the craft buried in its side, a rock face at least 200 feet high. It had hit the ground, burned a foot or two into it, and ploughed into the ridge at a 45-degree angle.
-5. **Closer.** The three climbed down toward it. Weygandt ran up closest while Allen and Atkins hung back, shouting at him to stop. The Marines spent 15 to 20 minutes at the site.
+1. Between 11 p.m. and midnight, while Weygandt was on guard, [[Sergeant Montil|Staff Sergeant Montil]], [[Sergeant Allen]] and [[Sergeant Atkins]] told him that an aircraft, possibly friendly, had crashed and the Marines were needed to secure the site.
+2. At 3 or 4 a.m. eight to ten Marines set out in five or six Humvees with maps, radios and compasses, then went on foot through the bush. They reached the area around first light, 6 to 7 a.m.
+3. The site was easy to find: something had cut a trench through the jungle, burning trees cleanly "like... a warm butter with a knife", as if by a laser. Weygandt, Allen and Atkins were on point, 10 to 20 m ahead of the others.
+4. Rather than climbing straight up, the three went left to the top of the ridge and saw the craft buried in its side, a rock face at least 200 feet high. It had hit the ground, burned a foot or two into it, and ploughed into the ridge at a 45-degree angle.
+5. The three climbed down toward it. Weygandt ran up closest while Allen and Atkins hung back, shouting at him to stop. The Marines spent 15 to 20 minutes at the site.
 
 ::wiki-watch{video="7Jc2G5aEH0A" title="1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt"}
 ::
@@ -498,14 +498,14 @@ The video reconstructs the night of the crash, some time in March or April 1997:
 
 From Weygandt's testimony and his sketches:
 
-- A massive metallic egg or teardrop about **10 m high and 20 m long**, which he compares to roughly sixteen 53-foot trailers.
-- **Organic rather than machined**: "it seemed to just like be alive... it looked like it was sculpt[ed]".
+- A massive metallic egg or teardrop about 10 m high and 20 m long, which he compares to roughly sixteen 53-foot trailers.
+- Organic rather than machined: "it seemed to just like be alive... it looked like it was sculpt[ed]".
 - A purple-green surface that kept shifting like soap film on a car or gasoline on water, sometimes going almost silver or near-translucent. Gerb calls it the [[Mother of Pearl Effect]]. Weygandt thought it was a field on the surface, not the material itself.
-- **No shadow and no reflection.** The craft seemed to absorb sunlight; only its vents cast shadows.
-- Large **gill-like vents** down the exposed side, which he guessed were for propulsion and repeated on the hidden side, plus notches and bumps, and something like a "force shield" in a tapering ellipse.
-- **Three non-flush hatches** near the top, one half-open onto blackness "like looking into a closet".
+- No shadow and no reflection. The craft seemed to absorb sunlight; only its vents cast shadows.
+- Large gill-like vents down the exposed side, which he guessed were for propulsion and repeated on the hidden side, plus notches and bumps, and something like a "force shield" in a tapering ellipse.
+- Three non-flush hatches near the top, one half-open onto blackness "like looking into a closet".
 - A single light circling the craft, slowing as a very loud, deep hum faded, until everything shut off. He likens the sound to an unplugged guitar amplifier, "a chemical, watery kind of sound". Gerb notes that [[Michael Herrera]] described the same sound from an octagonal [[Alien Reproduction Vehicle (ARV)|reproduction vehicle]].
-- **Catastrophic damage**: a huge gash in the rear, but no debris. After years of studying the [[MIM-23 Hawk Missile|MIM-23 Hawk]], Weygandt believes an air-burst fragmentation round, probably fired by Peruvian forces, downed it, since the Marines had removed Hawks from Laser Strike in early 1997. Gerb adds that a conventional missile might never hit a moving craft, but a proximity burst could get "just close enough".
+- Catastrophic damage: a huge gash in the rear, but no debris. After years of studying the [[MIM-23 Hawk Missile|MIM-23 Hawk]], Weygandt believes an air-burst fragmentation round, probably fired by Peruvian forces, downed it, since the Marines had removed Hawks from Laser Strike in early 1997. Gerb adds that a conventional missile might never hit a moving craft, but a proximity burst could get "just close enough".
 
 ### The liquid and the occupants
 
@@ -518,13 +518,13 @@ Weygandt also felt a presence, "like if someone was reading your mind", with sta
 
 ## Detention
 
-1. **Intercepted.** Climbing back up the ridge, the Marines saw two to four Army CH-47 Chinooks come in to land in a nearby clearing. At the top they were held at gunpoint by older men, in their late 30s and 40s, in black fatigues with no insignia, name tapes or rank, wearing boonie hats and soft caps and carrying MP5s, Glocks, shotguns and perhaps M16s. They spoke with American accents and, Weygandt is sure, had been on the ground before the helicopters, watching the Marines. The Chinooks carried manned guns, their gunners in skull-like helmets.
-2. **Disarmed.** The operators stripped the Marines of their gear. Weygandt swung at one and hit him in the forehead, and was beaten and forced face down, getting more of the liquid on him.
-3. **The science team.** About 30 people from the helicopters marched past him down to the craft. Many wore rain jackets lettered "Delta, Oscar, Echo" on the back; others wore gas masks and MOPP gear at different levels of protection, or high-tech zip-up containment suits with breathing apparatus, "swarming like rats". They stripped him to his underwear, bound his feet, handcuffed him to a stretcher and loaded him onto a Chinook. Neither sergeant, he believes, got any liquid on them.
-4. **The holding base.** He was flown to a base with permanent structures, which he thought might be Peruvian military, where he saw Americans alongside armed Chinese and German personnel who shouted at him not to look at them. He was taken underground to an interrogation room and handcuffed to a chair for about 15 hours, and held for up to two days.
-5. **The threats.** One of the black-clad men from the site taunted him: "Are you a patriot? You like the Constitution?... Well, we don't... we're on our own program." For eight or nine hours they threatened to throw him out of a helicopter over the jungle and to "do you and your whole family".
-6. **The papers.** Near the end, an Air Force lieutenant colonel with no name tag told him he "never saw this", that "I don't exist", and that he would "come up missing" if he talked, and had him sign two security forms.
-7. **Driven back.** Hooded so he could neither see nor hear, he was *driven* back to his base, which Gerb treats as a key clue that the holding site was nearby. There he was kept apart with Air Force personnel for three weeks, unable to contact Allen, Atkins or the others, before being sent back to Cherry Point.
+1. Climbing back up the ridge, the Marines saw two to four Army CH-47 Chinooks come in to land in a nearby clearing. At the top they were held at gunpoint by older men, in their late 30s and 40s, in black fatigues with no insignia, name tapes or rank, wearing boonie hats and soft caps and carrying MP5s, Glocks, shotguns and perhaps M16s. They spoke with American accents and, Weygandt is sure, had been on the ground before the helicopters, watching the Marines. The Chinooks carried manned guns, their gunners in skull-like helmets.
+2. The operators stripped the Marines of their gear. Weygandt swung at one and hit him in the forehead, and was beaten and forced face down, getting more of the liquid on him.
+3. About 30 people from the helicopters marched past him down to the craft. Many wore rain jackets lettered "Delta, Oscar, Echo" on the back; others wore gas masks and MOPP gear at different levels of protection, or high-tech zip-up containment suits with breathing apparatus, "swarming like rats". They stripped him to his underwear, bound his feet, handcuffed him to a stretcher and loaded him onto a Chinook. Neither sergeant, he believes, got any liquid on them.
+4. He was flown to a base with permanent structures, which he thought might be Peruvian military, where he saw Americans alongside armed Chinese and German personnel who shouted at him not to look at them. He was taken underground to an interrogation room and handcuffed to a chair for about 15 hours, and held for up to two days.
+5. One of the black-clad men from the site taunted him: "Are you a patriot? You like the Constitution?... Well, we don't... we're on our own program." For eight or nine hours they threatened to throw him out of a helicopter over the jungle and to "do you and your whole family".
+6. Near the end, an Air Force lieutenant colonel with no name tag told him he "never saw this", that "I don't exist", and that he would "come up missing" if he talked, and had him sign two security forms.
+7. Hooded so he could neither see nor hear, he was *driven* back to his base, which Gerb treats as a key clue that the holding site was nearby. There he was kept apart with Air Force personnel for three weeks, unable to contact Allen, Atkins or the others, before being sent back to Cherry Point.
 
 By May 1997 Weygandt had nightmares, missing time and strange dreams he had never had before, and he maintains the Marine Corps tried to make him look unstable. By late 1997 he admitted using banned substances so the Corps would discharge him, while his unit and the Criminal Investigation Division made his life "horrific". He was out by March 1998.
 
@@ -536,21 +536,21 @@ Gerb breaks the team into three parts and proposes an identity for each:
 ::wiki-panel{title="The science team" tone="accent"}
 **Seen:** about 30 people in "DOE" rain jackets, gas masks, MOPP gear and containment suits, arriving by Chinook.
 
-**Host's identification:** the [[NEST (Nuclear Emergency Support Team)|Nuclear Emergency Support Team]], the Department of Energy's nuclear emergency force. He says he now holds this "with even stronger conviction", as RGH UFOs did before him.
+**Gerb's identification:** the [[NEST (Nuclear Emergency Support Team)|Nuclear Emergency Support Team]], the Department of Energy's nuclear emergency force. He says he now holds this "with even stronger conviction", as RGH UFOs did before him.
 
 **Why:** NEST's job was to be first on scene anywhere in the world, it could commandeer military aircraft, and it works under the [[Atomic Energy Act of 1954]]. The varying levels of MOPP gear suggest protection graded by how close each person would get to the craft.
 ::
 ::wiki-panel{title="The armed men in black"}
 **Seen:** older, unmarked Americans in black, already on the ground before the helicopters, who looked Army to Weygandt by their caps.
 
-**Host's identification:** the [[US Army 7th Special Forces Group]], already in Peru for counterdrug training and "recruited" by NEST as its enforcement arm. NEST personnel were not armed operators.
+**Gerb's identification:** the [[US Army 7th Special Forces Group]], already in Peru for counterdrug training and "recruited" by NEST as its enforcement arm. NEST personnel were not armed operators.
 
 **Alternatives:** a [[DOE Special Response Teams (SRTs)|DOE Special Response Team]] (all-black kit in the 1980s, trained by [[Wackenhut Services|Wackenhut]], but not known to operate abroad), or a dedicated [[JSOC (Joint Special Operations Command)|JSOC]] retrieval team.
 ::
 ::wiki-panel{title="The CH-47 Chinooks"}
 **Seen:** two to four Army Chinooks with manned guns.
 
-**Host's identification:** the [[1st Battalion 228th Aviation Regiment]] of [[Joint Task Force Bravo]], a Southern Command task force based in Panama and Honduras with Chinooks in its fleet, which flew with the 7th Special Forces during the 1995 Peru-Ecuador border dispute.
+**Gerb's identification:** the [[1st Battalion 228th Aviation Regiment]] of [[Joint Task Force Bravo]], a Southern Command task force based in Panama and Honduras with Chinooks in its fleet, which flew with the 7th Special Forces during the 1995 Peru-Ecuador border dispute.
 
 **Alternative:** the [[160th Special Operations Aviation Regiment]], the "Nightstalkers". Gerb thinks them less likely: they are based at Fort Campbell, Kentucky, too far to reach Peru in time, unless elements were already stationed in the region.
 ::
@@ -598,7 +598,7 @@ root:
 ---
 ::
 
-Gerb adds three threads tying NEST to the case. In February 1997, one to two months before the crash, NEST set up a **Joint Technical Operations team** to support the Defense Department faster than existing teams, around the clock. **The same year, according to Richelson, NEST weighed a deployment to South America**: when Russia's Mars 96 probe, carrying 18 small plutonium-238 power sources, failed to leave Earth orbit, US Space Command expected surviving debris to fall on Bolivia or Colombia, and NEST, working from Space Command and Defense Support Program satellite data, stood down only when it fell into the Pacific. And **DSP satellites watch for UFOs**: contractor [[Bob Fish]] told [[John Podesta]] in the leaked 2016 emails that the DSP program "collects hard data on unidentified flying objects". A fast-walker case relayed to [[Joseph Stafula|Joseph Stefula]] had an object pass within 1.5 miles of a DSP satellite. The satellites are managed by the [[NRO (National Reconnaissance Office)|NRO]], which [[Christopher Sharp]]'s reporting ties to foreign crash retrievals.
+Gerb adds three threads tying NEST to the case. First, in February 1997, one to two months before the crash, NEST set up a Joint Technical Operations team to support the Defense Department faster than existing teams, around the clock. Second, according to Richelson, NEST weighed a deployment to South America the same year. When Russia's Mars 96 probe, carrying 18 small plutonium-238 power sources, failed to leave Earth orbit, US Space Command expected surviving debris to fall on Bolivia or Colombia. NEST, working from Space Command and Defense Support Program (DSP) satellite data, stood down only when the debris fell into the Pacific. Third, DSP satellites watch for UFOs: contractor [[Bob Fish]] told [[John Podesta]] in the leaked 2016 emails that the DSP program "collects hard data on unidentified flying objects". A fast-walker case relayed to [[Joseph Stafula|Joseph Stefula]] had an object pass within 1.5 miles of a DSP satellite. The satellites are managed by the [[NRO (National Reconnaissance Office)|NRO]], which [[Christopher Sharp]]'s reporting ties to foreign crash retrievals.
 
 On the armed men, Gerb sets out Sharp's model of foreign retrievals: the CIA's [[CIA Office of Global Access|Office of Global Access]] handles logistics and JSOC supplies the "boots on the ground". JSOC's units include Delta Force, SEAL Team 6, the 24th Special Tactics Squadron and the shadowy Intelligence Support Activity, which began under Army [[Army INSCOM|INSCOM]], the command later led by General [[Albert Stubblebine]]. Weygandt himself saw special forces training while guarding the radar site.
 
@@ -619,7 +619,7 @@ Putting the pieces together, Gerb proposes this sequence, which he admits rests 
 
 Weygandt said the crash was 5 to 10 miles over the Bolivian border. Gerb thinks he misspoke. His radar site tracked narcotics flights from Bolivia, and 1998 maps of narco routes run through Iquitos. Gerb instead works from Weygandt's timings:
 
-| Leg | Host's assumptions | Result |
+| Leg | Gerb's assumptions | Result |
 |---|---|---|
 | Marines, base to crash | Left 3–4 a.m., arrived 6–7 a.m.: about 2.5 h of driving at a cautious 35 mph, and a 2-mile hike in 30 minutes (Weygandt mentions sweat but not fatigue) | About 88 + 2 miles: a **90-mile radius**, ±25%, from the base |
 | Warning | NRO-managed DSP satellites alerted the team about an hour before the Marines heard | About **9 hours** for the team to gather, brief and arrive |
@@ -638,7 +638,7 @@ More than 630 miles from Lima, close to two hours by C-130, which with one stop 
 
 ::wiki-map
 ---
-caption: "The two candidate bases, and Gerb's 90-mile radius around Iquitos drawn from Weygandt's timings. Borders are today's; Gerb puts the crash 5 to 10 miles from the Colombian or Brazilian border."
+caption: "The two candidate bases for Weygandt's unit. The circle, 90 miles in radius around Iquitos, is Gerb's estimate of where the crash lay, worked out from Weygandt's timings. Borders are today's; Gerb puts the crash 5 to 10 miles from the Colombian or Brazilian border."
 pins:
   - name: "Lima, Peru"
     label: "Lima"
@@ -694,7 +694,7 @@ The sergeant's answer opened with the classification: "The operation is still cl
 ---
 label: "The sergeant's reply and Gerb's answers"
 term: "Point"
-caption: "One of the three sergeants Weygandt names answered Gerb's outreach in 2025; Gerb keeps his identity private. Each of his points as Gerb relays it, with Gerb's answer."
+caption: "One of the three sergeants Weygandt names answered Gerb's outreach in 2025; Gerb keeps his identity private. Below are his points as Gerb relays them, each followed by Gerb's answer."
 claims:
   - title: "No Hawks, so no story"
     by: "One of Weygandt's sergeants"
@@ -745,7 +745,7 @@ Since Jake Barber's testimony, egg-shaped retrievals have become a popular topic
 
 ::wiki-compare{video="7Jc2G5aEH0A" video-title="1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt"}
 ---
-caption: "Weygandt's craft beside the two historical egg-shaped retrievals Gerb chooses as precedents. All three are eggs; the details diverge."
+caption: "Weygandt's craft beside the two historical egg-shaped retrievals Gerb chooses as precedents. All three are egg-shaped, but the details differ."
 attributeLabel: "Detail"
 subjects:
   - name: "Peru UFO Crash Incident"
@@ -794,15 +794,15 @@ rows:
 ---
 ::
 
-**Camp Polk.** In the [[1953 Camp Polk UFO Crash Retrieval]], from [[Leonard Stringfield]]'s *Status Report III*, a 17-year-old private known as HJ saw an egg crash-land at dusk during maneuvers in July 1953. He got within 15 yards before a Lieutenant Whitting ordered his company back, and Gerb says he could place a real Lieutenant Whitting at the base. The three living occupants were 3.5 to 4 feet tall and slight, in dull metallic green, and walked as if they had no knees. One kept looking at the body on the stretcher and "made strange noises". HJ later heard that all of them died in isolation and that the bodies went to a medical center near Washington, which Gerb suggests was Fort Detrick, home of [[Battelle Memorial Institute]]'s biodefense FFRDC. He relates the occupants' lack of response to an anonymous retrieval operator's account of leading occupants out of craft, and to the idea that some are something like biological androids.
+In the [[1953 Camp Polk UFO Crash Retrieval]], from [[Leonard Stringfield]]'s *Status Report III*, a 17-year-old private known as HJ saw an egg crash-land at dusk during maneuvers in July 1953. He got within 15 yards before a Lieutenant Whitting ordered his company back, and Gerb says he could place a real Lieutenant Whitting at the base. The three living occupants were 3.5 to 4 feet tall and slight, in dull metallic green, and walked as if they had no knees. One kept looking at the body on the stretcher and "made strange noises". HJ later heard that all of them died in isolation and that the bodies went to a medical center near Washington, which Gerb suggests was Fort Detrick, home of [[Battelle Memorial Institute]]'s biodefense FFRDC. He relates the occupants' lack of response to an anonymous retrieval operator's account of leading occupants out of craft, and to the idea that some are something like biological androids.
 
-**Berkeley.** In Stringfield's 1991 *Status Report VI*, researcher [[Tim Cooper]] interviewed "Barnabas", [[Albert Bruce Collins]], on 20 November 1990, weeks before Collins's death on 30 December 1990. Collins said he was a metallurgical engineer who had developed alloys for electromagnetic propagation and magnetic-field propulsion from 1942 into the late 1950s; Gerb can confirm only, from his obituary, that he was a veteran. Collins said he watched the egg go into a warehouse at the [[University of California, Berkeley]] in 1947 on a trailer, which reminds Gerb of the Army lowboys described at Kingman and Kecksburg. He also said that by 1949 he had studied metal of unknown origin and learned that the Army, Air Force and Navy intelligence offices, the CIA, the [[RAND Corporation]] and the [[Vatican]] were all working on technologies of unknown origin. The projects he named were:
+In Stringfield's 1991 *Status Report VI*, researcher [[Tim Cooper]] interviewed "Barnabas", [[Albert Bruce Collins]], on 20 November 1990, weeks before Collins's death on 30 December 1990. Collins said he was a metallurgical engineer who had developed alloys for electromagnetic propagation and magnetic-field propulsion from 1942 into the late 1950s; Gerb can confirm only, from his obituary, that he was a veteran. Collins said he watched the egg go into a warehouse at the [[University of California, Berkeley]] in 1947 on a trailer, which reminds Gerb of the Army lowboys described at Kingman and Kecksburg. He also said that by 1949 he had studied metal of unknown origin and learned that the Army, Air Force and Navy intelligence offices, the CIA, the [[RAND Corporation]] and the [[Vatican]] were all working on technologies of unknown origin. The projects he named were:
 
-- **Archangel**, between the CIA, RAND and the Vatican.
-- **Black Book**, under the Air Force.
-- **Blue Book**, the Air Force's public project.
-- **White Book**, between the CIA and the Vatican.
-- **Yellow Book**, a scientific panel of an unknown review board.
+- Archangel, between the CIA, RAND and the Vatican.
+- Black Book, under the Air Force.
+- Blue Book, the Air Force's public project.
+- White Book, between the CIA and the Vatican.
+- Yellow Book, a scientific panel of an unknown review board.
 
 His claim that Los Alamos studied green fireballs lines up with the Atomic Energy Commission's real [[Project Twinkle]]. The Vatican link reminds Gerb of the [[1933 Magenta UFO CrashRetrieval|1933 Magenta case]], in which, according to [[David Grusch]] and the late [[Harold Malmgren|Harald Malmgren]], Vatican intelligence alerted the US to a disc in Axis hands. He also recalls "RK", a gunnery instructor who said he saw a 30-foot teardrop-shaped craft on a platform at Great Lakes Naval Station in 1973, allegedly shot down by a destroyer and recovered by the [[National Underwater Reconnaissance Office]].
 
@@ -810,11 +810,11 @@ His claim that Los Alamos studied green fireballs lines up with the Atomic Energ
 
 In his closing remarks Gerb lists what his conversations with Weygandt added and what they leave unresolved:
 
-- **New details.** The black-clad men were there first, which points to local special forces arriving by vehicle; Weygandt read them as Army by their headgear; the armed Chinese and German personnel at the holding site raise the idea of multinational recovery teams, as in Canadian politician Larry Maguire's letter to his defence minister about Five Eyes projects and retrieval teams; and MOPP gear was graded by proximity to the craft.
-- **Getting it out.** How do you extract a craft that size from a granite cliff face? Were the occupants removed first, and was the liquid contained?
-- **An aquatic crew?** Weygandt now wonders whether the liquid was not fuel but water filling the craft like an aquarium, and whether its occupants were an aquatic species.
-- **Where it went.** Perhaps to the Office of Naval Research, or through NAMRU to Wright-Patterson.
-- **The other Marines.** Seven or more Marines who stayed behind may also have seen the craft; what became of them is unknown.
+- What is new: the black-clad men were there first, which points to local special forces arriving by vehicle; Weygandt read them as Army by their headgear; the armed Chinese and German personnel at the holding site raise the idea of multinational recovery teams, as in Canadian politician Larry Maguire's letter to his defence minister about Five Eyes projects and retrieval teams; and MOPP gear was graded by proximity to the craft.
+- How do you extract a craft that size from a granite cliff face? Were the occupants removed first, and was the liquid contained?
+- Weygandt now wonders whether the liquid was not fuel but water filling the craft like an aquarium, and whether its occupants were an aquatic species.
+- Where the craft went: perhaps to the Office of Naval Research, or through NAMRU to Wright-Patterson.
+- Seven or more Marines who stayed behind may also have seen the craft; what became of them is unknown.
 
 Gerb is planning a longer, more relaxed interview with Weygandt about his life before and after the encounter. He notes that nearly 30 years on, Weygandt remembers less, and he credits him for saying when he does not know or is speculating.
 
@@ -831,7 +831,7 @@ entries:
     note: "On point with Weygandt; by his account saw the craft from a short distance and was detained with him."
   - name: Sergeant Atkins
     role: "Sergeant, MACG-28"
-    note: "The third Marine on point, shouting at Weygandt not to get closer; later a long Marine Corps career."
+    note: "The third Marine on point, shouting at Weygandt not to get closer; he later had a long Marine Corps career."
   - name: Sergeant Montil
     role: "Staff Sergeant, MACG-28"
     note: "Named by Weygandt as knowing of the crash and sending the Marines out. One of the three sergeants answered Gerb and denied the incident."
