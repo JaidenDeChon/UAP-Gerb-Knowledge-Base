@@ -190,10 +190,10 @@ function chapterMeta(chapter: Chapter<Indexed>): string {
 
 function chapterKicker(chapter: Chapter<Indexed>): string {
   if (chapter.kind === 'era' && eraCount.value) {
-    return `Era ${String(chapter.ordinal).padStart(2, '0')} / ${String(eraCount.value).padStart(2, '0')}`
+    return `Era ${String(chapter.ordinal).padStart(2, '0')} of ${String(eraCount.value).padStart(2, '0')}`
   }
-  if (chapter.kind === 'before') return 'Prologue'
-  if (chapter.kind === 'after') return 'Coda'
+  if (chapter.kind === 'before') return 'Before the first era'
+  if (chapter.kind === 'after') return 'After the last era'
   return ''
 }
 
@@ -411,7 +411,7 @@ function opensYear(chapter: Chapter<Indexed>, i: number): boolean {
             :aria-pressed="active === null"
             @click="active = null"
           >
-            All
+            All types
           </button>
           <button
             v-for="category in categories"
@@ -437,7 +437,7 @@ function opensYear(chapter: Chapter<Indexed>, i: number): boolean {
             :aria-pressed="majorOnly"
             @click="majorOnly = !majorOnly"
           >
-            Major only
+            Major entries only
           </button>
         </div>
       </template>
@@ -476,7 +476,7 @@ function opensYear(chapter: Chapter<Indexed>, i: number): boolean {
         <div class="ufo-chapter-meta">
           <span>{{ chapterMeta(chapter) }}</span>
           <span v-if="chapter.estimate" class="ufo-chapter-estimate">
-            Estimate of the situation: {{ chapter.estimate }}
+            Source: {{ chapter.estimate }}
           </span>
           <a v-if="chapter.anchor" :href="`#${chapter.anchor}`" class="ufo-chapter-link">
             Read the analysis
@@ -525,7 +525,7 @@ function opensYear(chapter: Chapter<Indexed>, i: number): boolean {
               </div>
               <span v-if="event.index === nowIndex" class="ufo-now-tag">
                 <span class="ufo-now-tag-dot" aria-hidden="true" />
-                Now discussing
+                Video is here
               </span>
             </div>
             <div class="mt-1 flex flex-wrap items-center gap-2">
