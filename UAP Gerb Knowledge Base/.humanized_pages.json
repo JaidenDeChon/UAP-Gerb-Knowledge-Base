@@ -444,6 +444,11 @@
     "sha256": "277ddf0500c5c5247702f11698ad578d94c9d3a086d0fa6ca43a05553274d3c8",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/Holocron Engineering.md": {
+    "humanized_at": "2026-09-25T23:47:21Z",
+    "sha256": "88d98b9e9ad45cd7cac188ad2e0babc7890ddbd815c3b1a98a17302930837e52",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
