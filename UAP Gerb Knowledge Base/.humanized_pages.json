@@ -659,6 +659,11 @@
     "sha256": "f2ff71ade0e9795f5c4f527e625fe354d68785e16b9b4384845977f7f91a37a5",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/Naval Air Systems Command.md": {
+    "humanized_at": "2026-09-25T23:57:27Z",
+    "sha256": "8cf08245f7beb0bf89d1821fbe5b2b160ca8c1a42da1f48cdea94cf2d1a004e5",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
