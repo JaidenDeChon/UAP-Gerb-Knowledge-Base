@@ -67,7 +67,7 @@ Then read the whole page once more, top to bottom, as a reader would.
 
 ### Controls and explanations inside components
 
-The `help`, `hint`, `caption`, `note` and stat-strip `label` values are what a skimming reader reads most, and they are where the cold-reader rule matters most. A timeline's `help` string, for example, is an explanation of the widget: rewrite it for someone who has never seen it, using the button names in the current component source, in a few short sentences, most useful first. Keep any fact about the video or the subject that it carries (such as "Gerb tells Ed's story first") and every number (the years a bar spans stay, though you may say them differently: "from 1955 to 2025"). The rest of the explanation is yours to reorganise and trim.
+The `help`, `hint`, `caption`, `note` and heading `label` values are what a skimming reader reads most, and they are where the cold-reader rule matters most. A timeline's `help` string, for example, is an explanation of the widget: rewrite it for someone who has never seen it, using the button names in the current component source, in a few short sentences, most useful first. Keep any fact about the video or the subject that it carries (such as "Gerb tells Ed's story first") and every number (the years a bar spans stay, though you may say them differently: "from 1955 to 2025"). The rest of the explanation is yours to reorganise and trim.
 
 Refer to the channel's presenter as Gerb, never as "the host", "the presenter" or "the narrator" (see `CLAUDE.md`).
 
@@ -88,7 +88,7 @@ The skill says "keep what it says; do not make anything up." Here that means:
 - **Frontmatter stays byte for byte.**
 - **Headings stay byte for byte.** Rich articles link to them by anchor.
 - **Code blocks, tables' structure, markdown link targets and footnote markers stay.**
-- **Components (`::wiki-...` blocks):** in the YAML body you may edit only the values of `summary`, `significance`, `note`, `help`, `hint`, `caption`, `text`, `via` and `estimate`, plus `label` inside a `::wiki-stat-strip`. Every other key and value (names, dates, other labels, titles, ids, cues, entities, anchors) stays byte for byte, and every line stays in place. Keep the value quoted the way it was quoted; a value you rewrite that now contains a colon followed by a space, a `#`, or starts with a quote must be double-quoted.
+- **Components (`::wiki-...` blocks):** in the YAML body you may edit only the values of `summary`, `significance`, `note`, `help`, `hint`, `caption`, `text`, `via` and `estimate`, plus `label` inside a `::wiki-stat-strip`, `::wiki-chain` or `::wiki-claim` (the block's heading or a branch's name) and `term` inside a `::wiki-claim`. A map's `label` stays locked, because routes find pins by it. Every other key and value (names, dates, other labels, titles, ids, cues, entities, anchors) stays byte for byte, and every line stays in place. Keep the value quoted the way it was quoted; a value you rewrite that now contains a colon followed by a space, a `#`, or starts with a quote must be double-quoted.
 - **The `## Sources` section** and any other list of bare wikilinks: leave alone.
 - **Dashes:** the skill discourages them (§8). Replace a dash that joins clauses, but keep dashes that are part of a name, a range ("1947–1952"), a title or a quote.
 

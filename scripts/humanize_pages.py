@@ -57,8 +57,11 @@ SKIP_DIRS = {"_templates", ".obsidian"}
 # Inside a ::wiki-* component's YAML body only these keys hold prose.
 PROSE_KEYS = {"summary", "significance", "note", "help", "hint", "caption", "text", "via", "estimate"}
 # Extra prose keys that only hold prose inside one component: a stat strip's
-# `label` is the caption under the number, not an id.
-COMPONENT_PROSE_KEYS = {"wiki-stat-strip": {"label"}}
+# `label` is the caption under the number, a chain's or claim block's `label`
+# is its heading (or a branch's name), and a claim's `term` is its card tag.
+# A map's `label` stays locked: routes match pins by it.
+COMPONENT_PROSE_KEYS = {"wiki-stat-strip": {"label"}, "wiki-chain": {"label"},
+                        "wiki-claim": {"label", "term"}}
 PROSE_KEY_RE = re.compile(r"^(\s*-?\s*)([\w-]+):(.*)$")
 
 # App source files that put text on a rich article page, in sweep order: the
@@ -407,7 +410,7 @@ def cmd_check(page: Path) -> int:
         added = [l for l in new_locked if l not in old_locked]
         detail = "".join(f"\n    - {l}" for l in lost[:10]) + "".join(f"\n    + {l}" for l in added[:10])
         errors.append("headings, code, component directives or component YAML changed "
-                      "(only the values of " + "/".join(sorted(PROSE_KEYS)) + ", and a stat strip's label, may change):" + (detail or " order differs"))
+                      "(only the values of " + "/".join(sorted(PROSE_KEYS)) + ", plus labels in stat strips, chains and claim blocks and a claim's term, may change):" + (detail or " order differs"))
 
     before, after = facts(old_prose), facts(new_prose)
     for kind in ("wikilinks", "links", "numbers", "quotes"):
