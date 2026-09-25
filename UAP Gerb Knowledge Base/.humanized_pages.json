@@ -689,6 +689,11 @@
     "sha256": "c2088b74f9fec9d0f171ebf75b515f72d52954562fa073b8c3219afb56b034dd",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/Naval Undersea Warfare Center Keyport.md": {
+    "humanized_at": "2026-09-25T23:57:28Z",
+    "sha256": "eae6a256c27e2f19d410efc24f3dd743b5a23b0829b197e240907f8101628d4d",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
