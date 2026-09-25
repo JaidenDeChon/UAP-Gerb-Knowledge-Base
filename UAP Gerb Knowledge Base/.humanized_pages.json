@@ -13,6 +13,11 @@
     "sha256": "d3d772ff5f378bcbab6823f7e10fdcda38c6cc9ad8f34a699b908647961e4ff5",
     "cold_reader": true
   },
+  "app/app/components/content/WikiCompare.vue": {
+    "humanized_at": "2026-09-25T16:53:36Z",
+    "sha256": "b3f34b9899a95a70ddc12475635ee78cdae932a5d7fc538111bf83a6d35131f2",
+    "cold_reader": true
+  },
   "app/app/components/content/WikiCue.vue": {
     "humanized_at": "2026-09-25T16:44:05Z",
     "sha256": "ca162480f045503431018cb8fb68e06385990bfe809d456e491e3a72eccc35a9",
