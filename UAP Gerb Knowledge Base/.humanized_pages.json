@@ -314,6 +314,11 @@
     "sha256": "94538199902ea9d17d4e14cd5ada41caf4af3a1c6550c511b12f67211830f97c",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/DHS (Department of Homeland Security).md": {
+    "humanized_at": "2026-09-25T23:43:42Z",
+    "sha256": "e1fb604ed01147ab8c7be0f36c656cb728bb7629739500369ac1128766be556f",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
