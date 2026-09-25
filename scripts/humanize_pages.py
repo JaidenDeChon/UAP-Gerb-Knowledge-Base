@@ -243,6 +243,7 @@ def split(text: str) -> tuple[str, list[str], str]:
     prose: list[str] = []
     in_code = False
     in_component = False
+    in_yaml = False
     component = ""
     for line in text.splitlines():
         stripped = line.strip()
@@ -255,6 +256,7 @@ def split(text: str) -> tuple[str, list[str], str]:
             continue
         if re.match(r"^:{2,}[\w-]", stripped):
             in_component = True
+            in_yaml = False
             component = re.match(r"^:{2,}([\w-]+)", stripped).group(1)
             # A callout's or panel's title="" and a figure's caption="" are
             # copy; every other attribute (video, tone, type...) stays locked.
@@ -276,7 +278,10 @@ def split(text: str) -> tuple[str, list[str], str]:
                 locked.append(f"{pm.group(1)}{pm.group(2)}:")
                 # The value's own quotes are YAML syntax, not a quotation.
                 prose.append(pm.group(3).strip().removeprefix('"').removesuffix('"'))
-            elif line.startswith((" ", "-")) or re.match(r"^[\w-]+:", line) or stripped in ("", "---"):
+            elif stripped == "---":
+                in_yaml = not in_yaml
+                locked.append(line)
+            elif in_yaml or stripped == "":
                 locked.append(line)
             else:
                 # Markdown slot content inside a component is prose.
