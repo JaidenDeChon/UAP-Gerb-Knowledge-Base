@@ -23,6 +23,11 @@
     "sha256": "e0ea8e20fb47d3faba1457bc2af896e3c0fce44ff47ec1835b27cdf345f79dd5",
     "cold_reader": true
   },
+  "app/app/components/wiki/WikiLocalMap.vue": {
+    "humanized_at": "2026-09-25T16:46:39Z",
+    "sha256": "0880ae9d0c55482db95a44dccf5fd58138854396aaf5cdd662c599d229600685",
+    "cold_reader": true
+  },
   "app/app/components/wiki/WikiPersonPortrait.vue": {
     "humanized_at": "2026-09-25T16:45:17Z",
     "sha256": "9b4a18a5858df7ffff771af9f4416f2fee3224a4b153256d6c43a2804325cf79",
