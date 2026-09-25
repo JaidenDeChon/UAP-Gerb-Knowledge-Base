@@ -14,28 +14,28 @@ tags:
 ---
 stats:
   - value: "1,250 sq mi"
-    label: Proving ground
+    label: Proving ground size
     hint: "Larger than Rhode Island"
   - value: 2
-    label: MRTFBs on the range
-    hint: "Army WDTC and the Air Force UTTR's south range"
+    label: Test ranges on site
+    hint: "The Army's West Desert Test Center and the south range of the Air Force's Utah Test and Training Range"
   - value: "2,120"
     label: Employees and residents
-    hint: "2021 Army overview report"
+    hint: "From a 2021 Army overview report"
   - value: "35–40%"
-    label: Of Area 51 moved to Utah
-    hint: "Per Greer's witness AH, 2000"
+    label: Area 51 moved to Utah
+    hint: "Claimed by Greer's witness AH in 2000"
   - value: "77%"
-    label: WDTC work for the CBDP
-    hint: "Fiscal year 2013, per the GAO"
+    label: Chemical and biological work
+    hint: "Share of the West Desert Test Center's work done for the Chemical and Biological Defense Program in fiscal year 2013, per the GAO"
   - value: "6 hrs"
-    label: MS's interrogation
-    hint: "Garrison building, Ditto, 2009"
+    label: Witness MS questioned
+    hint: "In the Garrison building at Ditto Technical Center, 2009"
   - value: 33
-    label: Chronology entries
-    hint: "1942–2024; 9 major"
+    label: Entries in the timeline
+    hint: "From 1942 to 2024; 9 are major"
   - value: "1h17m"
-    label: Runtime
+    label: Video length
 ---
 ::
 
@@ -51,7 +51,7 @@ From this Gerb builds a thesis: a joint Army and Air Force legacy program run be
 
 ::wiki-timeline{video="rePrVmR6a68" video-title="Dugway Proving Ground - UFO Legacy Programs"}
 ---
-help: "The bar pinned above the entries is a ruler from 1940 to 2025, grouped by decade. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The two dashed markers are the video's turning points: the 1997 Popular Mechanics story that made Dugway 'the new Area 51', and MS's 2009 encounter. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line capped with a downward arrow is where Gerb is. The video moves from the base to the lore to the witness, so the playhead leaps around the ruler. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Timestamps jump the mini-player to that moment."
+help: "The bar above the list runs from 1940 to 2025, with a coloured mark for each entry; taller marks are major ones. Click the bar to jump to a year. The two dashed lines on the bar are the video's turning points: the 1997 Popular Mechanics story that made Dugway 'the new Area 51', and MS's 2009 encounter. The dark line shows which entry you are reading. Play from here starts the video at that entry, and once it is playing a green line shows where Gerb is. The video moves from the base to the lore to the witness, so the green line jumps back and forth along the bar. Turn on Follow video to have the list scroll along with the video; scrolling yourself turns it off. Click a timestamp to play the video from that moment."
 hinges:
   - year: 1997
     label: "'The New Area 51'"
@@ -98,7 +98,7 @@ events:
   - date: "1981"
     title: "Workshop on deep underground defense facilities"
     cue: 3055
-    summary: "The US National Research Council held a 1981 and 1982 workshop on technology for the design and construction of deep underground defense facilities, with the Bureau of Reclamation as a key member. Gerb cites it to show that DUMBs were planned in the open."
+    summary: "In 1981 and 1982 the US National Research Council held a workshop on technology for the design and construction of deep underground defense facilities, with the Bureau of Reclamation as a key member. Gerb cites it to show that deep underground military bases (DUMBs) were planned in the open."
     category: document
     significance: minor
     entities:
@@ -125,7 +125,7 @@ events:
   - date: "1988-11-12"
     title: "Brad Sorenson sees the Flux Liner at Norton"
     cue: 862
-    summary: "Brad Sorenson's account of three alien reproduction vehicles at the Norton Air Force Base air show is the comparison point for the 1967 Provo photograph. Gerb notes Norton's closeness to Air Force Plant 42 and Edwards, and reads a Flux Liner testing program as linking two Air Force MRTFBs, as witness Ed and Edgar Fouche described."
+    summary: "Gerb compares the 1967 Provo photograph with Brad Sorenson's account of three alien reproduction vehicles at the Norton Air Force Base air show. He notes that Norton is close to Air Force Plant 42 and Edwards, and reads the Flux Liner as part of a testing program linking two Air Force major test ranges (MRTFBs), as witness Ed and Edgar Fouche described."
     category: event
     significance: minor
     entities:
@@ -134,7 +134,7 @@ events:
   - date: "1990"
     title: "James Goodall's Groom Lake black programs"
     cue: 1370
-    summary: "Jane's Defence writer James Goodall set out a thesis of at least eight black programs flying out of Area 51, including a silent triangle using unconventional technology. One source said UAP positively existed at the base; another said there were things there 'literally out of this world'."
+    summary: "Jane's Defence writer James Goodall argued that at least eight black programs were flying out of Area 51, including a silent triangle using unconventional technology. One source said UAP positively existed at the base; another said there were things there 'literally out of this world'."
     category: event
     significance: notable
     entities:
@@ -185,7 +185,7 @@ events:
   - date: "1996"
     title: "NASA names Michael Army Airfield an X-33 runway"
     cue: 1205
-    summary: "A 1996 NASA announcement said Michael Army Airfield would serve as a runway for several missions of the Mach 15 X-33, a Lockheed Martin Skunk Works vehicle. With the 1997 agreement between Air Force General Howell Estes and NASA administrator Daniel Goldin to share 'redundant assets', it led Popular Mechanics to Utah."
+    summary: "A 1996 NASA announcement said Michael Army Airfield would serve as a runway for several missions of the Mach 15 X-33, a Lockheed Martin Skunk Works vehicle. This announcement and a 1997 agreement between Air Force General Howell Estes and NASA administrator Daniel Goldin to share 'redundant assets' led Popular Mechanics to Utah."
     category: document
     significance: minor
     entities:
@@ -224,7 +224,7 @@ events:
   - date: "1999"
     title: "Geologist tests the Garrison triangle"
     cue: 822
-    summary: "Steve Jones hired geologist Lamont Sorenson to run magnetometer and seismic tests on the triangular formation. He found no underground anomaly but said he did not think the formation was natural."
+    summary: "Steve Jones hired geologist Lamont Sorenson to run magnetometer and seismic tests on the triangular formation. Sorenson found no underground anomaly but said he did not think the formation was natural."
     category: event
     significance: minor
     entities:
@@ -260,7 +260,7 @@ events:
   - date: "2009"
     title: "MS enters the ghost building at Avery"
     cue: 2371
-    summary: "About four months in, reading electrical meters for a sick apprentice, MS opened the door of an unmarked 'ghost building' at Avery Technical Center, was met with an M16 to the chest, and saw white-coated technicians around a seamless, brushed-metal saucer about 10 feet tall hovering silently 10 to 12 inches off the floor, its lower section opened to show a floating conical component."
+    summary: "About four months into the job, while reading electrical meters for a sick apprentice, MS opened the door of an unmarked 'ghost building' at Avery Technical Center and was met with an M16 to the chest. Inside, white-coated technicians stood around a seamless, brushed-metal saucer about 10 feet tall, hovering silently 10 to 12 inches off the floor. Its lower section had been opened to show a floating conical component."
     category: event
     significance: major
     entities:
@@ -340,7 +340,7 @@ events:
   - date: "2023-06"
     title: "Greer tells MS's story at the National Press Club"
     cue: 1784
-    summary: "At his first whistleblower symposium since 2001, Greer described MS as a C Martin contractor who saw an extraterrestrial vehicle under study in 2009, and said the chief scientist had shown MS the location of a DUMB in the Avery sector with an elevator big enough for Air Force One. MS's files later appeared as witness 10655 in Greer's DPI archive."
+    summary: "At his first whistleblower symposium since 2001, Greer described MS as a C Martin contractor who saw an extraterrestrial vehicle under study in 2009, and said the chief scientist had shown MS the location of a deep underground military base (DUMB) in the Avery sector with an elevator big enough for Air Force One. MS's files later appeared as witness 10655 in Greer's DPI archive."
     category: event
     significance: major
     entities:
@@ -362,7 +362,7 @@ events:
 
 Dugway lies 85 miles south-west of [[Salt Lake City, Utah|Salt Lake City]] in [[Tooele County, Utah|Tooele County]], ringed by mountains, salt flats and desert. Gerb describes it as free of urban encroachment, light pollution and stray acoustic and electronic noise, and guarded by a force that will stop approaching civilians with armed personnel and black helicopters. It was founded in 1942, after Pearl Harbor, to test chemical and biological defense systems, and it has since supported Special Forces mission rehearsals, classified testing and urgent-need equipment testing in the war on terror. A 2021 Army report counts 2,120 employees and residents: 784 mainly Army and Air Force contractors, 622 mission and installation contracting staff (on-site security among them) and 486 military or defense agency civilians. Its partners include the Army, the Navy, [[SOCOM]], the 388th Range Squadron, the Departments of Justice, Homeland Security and the Interior, [[NASA]], and three universities. One of them, Utah State University, runs the Space Dynamics Laboratory, a University Affiliated Research Center (UARC) for the Missile Defense Agency. Gerb believes UARCs and [[Federally Funded Research and Development Center (FFRDC)|FFRDCs]] act as project managers and subject-matter experts for joint corporate and government UAP programs, and know far more about them than most defense contractors.
 
-MRTFBs are the DOD's "core set" of test and evaluation infrastructure. They cover more than 10 million acres, employ more than 25,000 people and receive more than $4 billion a year in acknowledged funding. Of the 23 acknowledged bases, eight belong to the Army (including Yuma and [[White Sands Missile Range|White Sands]]), six to the Navy (including Pax River and [[China Lake Naval Air Weapons Station|China Lake]]), seven to the Air Force (including the [[412th Test Wing|Edwards 412th Test Wing]], the [[Nevada Test and Training Range (NTR)|Nevada Test and Training Range]] and Vandenberg), and two to defense agencies. Many of these names recur in the legacy-program literature. Gerb's earlier witness Ed described a joint reverse-engineering program between two Air Force MRTFBs, Edwards and the Nevada range. Dugway gives Gerb a variation on that pattern: two MRTFBs from two different services on one range.
+Major range and test facility bases (MRTFBs) are the DOD's "core set" of test and evaluation infrastructure. They cover more than 10 million acres, employ more than 25,000 people and receive more than $4 billion a year in acknowledged funding. Of the 23 acknowledged bases, eight belong to the Army (including Yuma and [[White Sands Missile Range|White Sands]]), six to the Navy (including Pax River and [[China Lake Naval Air Weapons Station|China Lake]]), seven to the Air Force (including the [[412th Test Wing|Edwards 412th Test Wing]], the [[Nevada Test and Training Range (NTR)|Nevada Test and Training Range]] and Vandenberg), and two to defense agencies. Many of these names recur in the legacy-program literature. Gerb's earlier witness Ed described a joint reverse-engineering program between two Air Force MRTFBs, Edwards and the Nevada range. Dugway gives Gerb a variation on that pattern: two MRTFBs from two different services on one range.
 
 The West Desert Test Center is run by the [[US Army Test and Evaluation Command (ATEC)|Army Test and Evaluation Command]], and Gerb finds its place in the chain of command telling. The Office of Management and Budget and the Office of the Secretary of Defense require Army test and evaluation to be independent of the Army's ordinary research, development, test and evaluation structure. The stated aim is unbiased evaluation, warfighter safety and credibility with decision-makers. Gerb's concern is that the same independence could leave ATEC's programs, and so the West Desert Test Center's, with little oversight.
 
@@ -381,7 +381,7 @@ root:
           label: "Conventional Army RDT&E"
         - name: "US Army Test and Evaluation Command (ATEC)"
           label: "Independent of Army RDT&E"
-          note: "Separation mandated by OMB and OSD for unbiased evaluation. Gerb reads it as a route to weak oversight."
+          note: "The Office of Management and Budget and the Office of the Secretary of Defense require this separation for unbiased evaluation. Gerb reads it as a route to weak oversight."
           children:
             - name: "West Desert Test Center"
               label: "Army MRTFB at Dugway"
@@ -399,14 +399,14 @@ Gerb admits that, apart from MS, little ties Dugway to legacy programs compared 
 
 **"The New Area 51".** *Popular Mechanics*' June 1997 cover story, by Jim Wilson, said the Air Force had left Area 51 for a more private site because of overexposure and a need for a different proving ground for ultra-high-performance aircraft. Working from a 1997 agreement between Air Force General Howell Estes and NASA administrator Daniel Goldin to share "redundant assets", and a 1996 NASA announcement that [[Michael Army Airfield]] would serve several X-33 missions, the magazine settled on Utah: Michael Army Airfield on Dugway, paired with the Green River launch complex about 200 miles away. It was warned that it would be shot down if it overflew the airfield, and was refused satellite imagery of Green River. Gerb notes that the article mocks crash-retrieval believers, yet one of its photographs shows a sticky note reading "call Admiral Inman at Science Applications International". He reads this as a nod to [[Bobby Ray Inman]], the former NSA director and [[SAIC]] board member who told [[Bob Echler]] about recovered craft. :wiki-cue{t=1087 video="rePrVmR6a68" video-title="Dugway Proving Ground - UFO Legacy Programs"}
 
-**Insiders.** Several insiders made similar claims:
+Several insiders made similar claims:
 
-- **Fouche.** In his 1998 International UFO Congress presentation, Edgar Fouche said a source told him the Air Force began a contingency plan in 1992 to move most exotic platforms out of Area 51, to Utah, Colorado, Alaska, Greenland, Diego Garcia and S4.
-- **Goodall.** [[James Goodall]] described at least eight black programs flying out of Groom Lake in 1990, including a silent triangle.
-- **AH.** Witness AH, said to be a former Boeing employee with friends across the intelligence agencies, Area 51 and industry, was taped in 2000 for Greer's 2001 [[Disclosure Project|disclosure]] briefing document. He said 35 to 40% of Area 51, craft included, had moved to an underground Utah base south-west of Salt Lake City that could be reached only by air. Gerb thinks AH is a primary source for Greer.
-- **Greer.** In a 2016 presentation Greer called Dugway "the most critical one" among black-program sites: classified airspace, little to see above ground, everything underground.
-- **Jones.** In a March 1998 email to Greer, Steve Jones said Groom Lake work had moved to an area of Dugway called "Dog", west of the main gate. Since the 1980s he had also logged untarped truckloads left between Hill and Wendover.
-- **Kadok.** Earliest of all, a 1996 email to Greer from AJ (Tony) Kadok, then his webmaster, relayed an insider who checked badges and ran tremor sensors and ground radar. The insider said the programs were not only at Area 51: investigators should look south-west of Tooele County and west of Salt Lake City, where there were nine exclusion zones, four of them with underground locations. The same source mentioned EMP weapons that could fry vehicle electronics.
+- In his 1998 International UFO Congress presentation, Edgar Fouche said a source told him the Air Force began a contingency plan in 1992 to move most exotic platforms out of Area 51, to Utah, Colorado, Alaska, Greenland, Diego Garcia and S4.
+- [[James Goodall]] described at least eight black programs flying out of Groom Lake in 1990, including a silent triangle.
+- Witness AH, said to be a former Boeing employee with friends across the intelligence agencies, Area 51 and industry, was taped in 2000 for Greer's 2001 [[Disclosure Project|disclosure]] briefing document. He said 35 to 40% of Area 51, craft included, had moved to an underground Utah base south-west of Salt Lake City that could be reached only by air. Gerb thinks AH is a primary source for Greer.
+- In a 2016 presentation Greer called Dugway "the most critical one" among black-program sites: classified airspace, little to see above ground, everything underground.
+- In a March 1998 email to Greer, Steve Jones said Groom Lake work had moved to an area of Dugway called "Dog", west of the main gate. Since the 1980s he had also logged untarped truckloads left between Hill and Wendover.
+- Earliest of all, a 1996 email to Greer from AJ (Tony) Kadok, then his webmaster, relayed an insider who checked badges and ran tremor sensors and ground radar. The insider said the programs were not only at Area 51: investigators should look south-west of Tooele County and west of Salt Lake City, where there were nine exclusion zones, four of them with underground locations. The same source mentioned EMP weapons that could fry vehicle electronics.
 
 Gerb stresses that the Kadok exchange predates the *Popular Mechanics* article, Fouche's disclosures and AH's testimony. :wiki-cue{t=1653 video="rePrVmR6a68" video-title="Dugway Proving Ground - UFO Legacy Programs"}
 
@@ -435,10 +435,10 @@ MS opened the door to an M16 in his chest, and believes his level five badge is 
 
 The craft, as Gerb relays MS's account:
 
-- **The disc.** A saucer about 10 feet tall and 20 feet in circumference, hovering 10 to 12 inches off the floor under its own power, with no noise.
-- **The finish.** No seams, fasteners or door. It looked cast in one piece, like brushed metal, "flawless", in a way MS says we could not replicate today.
-- **The component.** The bottom section had been removed, so MS thought it was being dismantled or prepared to move. It exposed a conical or triangular component that seemed to float almost independently and generate power. Gerb compares it to the extraterrestrial reactor [[Bob Lazar]] drew for the "sport model" saucer.
-- **The display.** Beside the craft stood a flat-screen display showing what looked to MS like coordinates on a mapping system.
+- It was a saucer about 10 feet tall and 20 feet in circumference, hovering silently 10 to 12 inches off the floor under its own power.
+- It had no seams, fasteners or door, and looked cast in one piece, like brushed metal, "flawless", in a way MS says we could not replicate today.
+- The bottom section had been removed, so MS thought it was being dismantled or prepared to move. It exposed a conical or triangular component that seemed to float almost independently and generate power. Gerb compares it to the extraterrestrial reactor [[Bob Lazar]] drew for the "sport model" saucer.
+- Beside the craft stood a flat-screen display showing what looked to MS like coordinates on a mapping system.
 
 Gerb identifies the six technicians as probably ATEC and Battelle scientists. He asks the same question of the guards and weighs two possibilities:
 
@@ -447,7 +447,7 @@ Gerb identifies the six technicians as probably ATEC and Battelle scientists. He
 After 9/11 the Army hired private guards through [[Sole Source Arrangement|sole-source contracts]], a method [[Eric Davis]] has said is used for UAP legacy programs. The 2006 [[GAO Report on Army Guard Program|GAO report]] on the Army's guard program shows Dugway used Chenega Integrated Systems. Chenega's subcontractor Vance Federal Security Services and [[Wackenhut Services]], where Bobby Ray Inman once sat on the board, were subcontractors at Army installations. Gerb suspects such firms guard legacy-program sites, but only at the gate: checking badges and scanning vehicles.
 ::
 ::wiki-panel{title="Industrial security specialists" tone="accent"}
-Gerb's conclusion. Industrial security (INDC) personnel manage risk across the defense industrial base: they oversee the National Industrial Security Program, issue facility clearances, mitigate foreign ownership and protect classified technology. An ATEC security specialist posting for Dugway includes serving as alternate special security officer for sensitive compartmented information (SCI) programs. Guards that close to a saucer, he argues, would be highly cleared specialists like these.
+This is Gerb's conclusion. Industrial security (INDC) personnel manage risk across the defense industrial base: they oversee the National Industrial Security Program, issue facility clearances, mitigate foreign ownership and protect classified technology. An ATEC security specialist posting for Dugway includes serving as alternate special security officer for sensitive compartmented information (SCI) programs. Guards that close to a saucer, he argues, would be highly cleared specialists like these.
 ::
 ::
 
@@ -463,10 +463,10 @@ Both GP and a current railroad co-worker of MS told him of a massive underground
 
 According to GP:
 
-- **Size.** The facility lies at an undisclosed depth and spans 1,300 square miles, as much as the proving ground itself.
-- **Rail.** A light rail system connects it to "every base in the nation". The tunnels are wide enough to carry a 747 or the president's plane "anywhere they need to without putting it in the air". Gerb takes the trains to be [[Maglev Underground Transportation|maglev]], which can reach 375 mph, and notes that a 1986 [[Los Alamos National Laboratory|Los Alamos]] study proposed maglev-served tunnels under the Moon.
-- **Entrance and supply.** The surface entrance is only an elevator for personnel, in a tiny building on the West Desert Test Center near German Village. Supplies, food and logistics arrive through the tunnels from other underground sites.
-- **Granite Peak.** Much of the facility lies under Granite Peak, just west of the entrance and the Avery and Ditto areas.
+- The facility lies at an undisclosed depth and spans 1,300 square miles, as much as the proving ground itself.
+- A light rail system connects it to "every base in the nation". The tunnels are wide enough to carry a 747 or the president's plane "anywhere they need to without putting it in the air". Gerb takes the trains to be [[Maglev Underground Transportation|maglev]], which can reach 375 mph, and notes that a 1986 [[Los Alamos National Laboratory|Los Alamos]] study proposed maglev-served tunnels under the Moon.
+- The surface entrance is only an elevator for personnel, in a tiny building on the West Desert Test Center near German Village. Supplies, food and logistics arrive through the tunnels from other underground sites.
+- Much of the facility lies under Granite Peak, just west of the entrance and the Avery and Ditto areas.
 
 Gerb did not reveal the entrance when he first covered MS. He does now because Greer has published it in the DPI archive. It lies close to Avery and Michael Army Airfield, between properties listed as Air Force lease rentals, and Google Earth imagery suggests it was built between 1993 and 2006, though it may be older. The 388th Range Squadron runs several sites on and just north of Granite Peak, including mini-mute threat emitter stations used to train pilots to recognize enemy radar. Gerb wonders whether the Granite Peak South station connects to the facility under the mountain. :wiki-cue{t=3222 video="rePrVmR6a68" video-title="Dugway Proving Ground - UFO Legacy Programs"}
 
@@ -579,10 +579,10 @@ Gerb made the video because Dugway is constantly linked to UFOs with almost no e
 
 Several further threads appear only in the closing remarks:
 
-- **Weinbrenner.** Colonel Weinbrenner was one of two Air Force men who, in the 1970s, showed producers Allan Sandler and Robert Emenegger film of a Holloman Air Force Base landing, a story later told by [[James Fox]]. On his deathbed he reportedly told friends and family that Utah is where the alien bodies are stored. With Dugway's ties to Fort Detrick and its secretive chemical and biological work, Gerb wonders whether it studies biologics as well as craft.
-- **Gerb's friend.** A friend who served in the Army in the early 2010s says he travelled across state lines between underground facilities on a train so fast that it felt like the takeoff acceleration he fears in planes. He entered through a small building that looked like a janitorial or water-treatment shed and led to an elevator, much like the Dugway entrance. Gerb says he has spoken to several such people.
-- **Continuity of government.** Underground sites are real: in the 1990s and 2000s [[AT&T]] kept underground server banks and ICBM storage. GP's line about moving the president's plane reminds Gerb of continuity-of-government installations, and of [[John B. Alexander]]'s claim that [[Majestic 12]] is real and works like a continuity-of-government body.
-- **Missing funds.** Witness Ed, who served at the Pentagon in Air Force [[RDT&E (Research, Development, Test and Evaluation)|RDT&E]], says $34 to $40 billion went missing through non-authorized transfers of authority funds in fiscal years 2013 and 2014. Gerb suggests DOGE examine Air Force and Army RDT&E. :wiki-cue{t=4545 video="rePrVmR6a68" video-title="Dugway Proving Ground - UFO Legacy Programs"}
+- Colonel Weinbrenner was one of two Air Force men who, in the 1970s, showed producers Allan Sandler and Robert Emenegger film of a Holloman Air Force Base landing, a story later told by [[James Fox]]. On his deathbed he reportedly told friends and family that Utah is where the alien bodies are stored. With Dugway's ties to Fort Detrick and its secretive chemical and biological work, Gerb wonders whether it studies biologics as well as craft.
+- A friend of Gerb's who served in the Army in the early 2010s says he travelled across state lines between underground facilities on a train so fast that it felt like the takeoff acceleration he fears in planes. He entered through a small building that looked like a janitorial or water-treatment shed and led to an elevator, much like the Dugway entrance. Gerb says he has spoken to several such people.
+- Underground sites are real: in the 1990s and 2000s [[AT&T]] kept underground server banks and ICBM storage. GP's line about moving the president's plane reminds Gerb of continuity-of-government installations, and of [[John B. Alexander]]'s claim that [[Majestic 12]] is real and works like a continuity-of-government body.
+- Witness Ed, who served at the Pentagon in Air Force [[RDT&E (Research, Development, Test and Evaluation)|RDT&E]], says $34 to $40 billion went missing through non-authorized transfers of authority funds in fiscal years 2013 and 2014. Gerb suggests DOGE examine Air Force and Army RDT&E. :wiki-cue{t=4545 video="rePrVmR6a68" video-title="Dugway Proving Ground - UFO Legacy Programs"}
 
 ## Key Figures
 
