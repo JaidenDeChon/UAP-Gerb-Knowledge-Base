@@ -5,23 +5,23 @@ tags:
   - person
 ---
 
-Lawrence Fawcett is a UFO researcher and co-author, with [[Barry J. Greenwood]], of the book *Clear Intent: The Government Coverup of the UFO Experience*. The book, published by Prentice-Hall in 1984, was one of the first major works to document the US government's use of classification and procedural barriers to block public access to UFO information through Freedom of Information Act requests.
+Lawrence Fawcett is a UFO researcher and co-author, with [[Barry J. Greenwood]], of the book *Clear Intent: The Government Coverup of the UFO Experience*. The book, published by Prentice-Hall in 1984, was one of the first major works to document the US government's use of classification and procedural barriers to block public access to UFO information through Freedom of Information Act (FOIA) requests.
 
 ## NORAD UFO Data FOIA Request
 
-In 1979, Fawcett and Greenwood submitted a FOIA request to [[NORAD]] seeking UFO and UAP tracking data. [[NORAD]] responded that fulfilling the request would cost **$155,000** (approximately $600,000 in 2026 dollars). 
+In 1979, Fawcett and Greenwood submitted a FOIA request to [[NORAD]] seeking UFO and UAP tracking data. [[NORAD]] responded that fulfilling the request would cost $155,000 (approximately $600,000 in 2026 dollars). 
 
-The size of the estimate has been read by researchers as a sign of how much tracking data NORAD held. NORAD also refused to waive the fees on a follow-up request submitted three years later.
+Researchers have read the size of the estimate as a sign of how much tracking data NORAD held. NORAD also refused to waive the fees on a follow-up request submitted three years later.
 
-This response confirmed that NORAD had been systematically collecting and cataloging UFO data on a scale that contradicted the Air Force's public position that UFOs were not seriously investigated after the closure of [[Project Blue Book]] in 1969.
+The response confirmed that NORAD had been systematically collecting and cataloging UFO data, on a scale that contradicted the Air Force's public position that UFOs were not seriously investigated after [[Project Blue Book]] closed in 1969.
 
 ## Documentation in Clear Intent
 
-The book *Clear Intent* contains scanned copies of NORAD UAP reporting sheets and detailed chapters on the difficulties of obtaining UFO information through FOIA, documenting the various tactics employed by military and intelligence agencies to deny, delay, or price out civilian access to UFO records.
+*Clear Intent* contains scanned copies of NORAD UAP reporting sheets. Its detailed chapters on the difficulty of getting UFO information through FOIA document the tactics military and intelligence agencies used to deny, delay or price out civilian access to UFO records.
 
 ## Significance
 
-The Fawcett-Greenwood FOIA request to NORAD remains one of the most significant UFO-related document requests ever filed, as NORAD's response inadvertently confirmed the existence of an enormous classified UFO tracking database — evidence that directly contradicted official statements that UFO investigation had ended with Project Blue Book.
+The Fawcett-Greenwood FOIA request to NORAD remains one of the most significant UFO-related document requests ever filed. NORAD's response inadvertently confirmed that an enormous classified UFO tracking database existed, and that evidence directly contradicted official statements that UFO investigation had ended with Project Blue Book.
 
 ## Sources
 
