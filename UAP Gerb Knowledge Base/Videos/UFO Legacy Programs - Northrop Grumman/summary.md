@@ -14,16 +14,16 @@ tags:
 ---
 stats:
   - value: "$111M"
-    label: TRW settlement Northrop paid, 2003
-    hint: "Almost $200 million today, per Gerb"
+    label: Northrop's 2003 settlement over TRW
+    hint: "Almost $200 million in today's money, per Gerb"
   - value: "29 years"
-    label: TRW as "principal investigator"
-    hint: "Eric Davis, on an unnamed 1960 TRW spin-off"
+    label: TRW's time as "principal investigator"
+    hint: "Eric Davis, describing an unnamed company TRW spun off in 1960"
   - value: "35–40%"
-    label: Of Area 51 said to move to Utah
-    hint: "Arnold House's source; Fouché said the same"
+    label: Area 51 reportedly moved to Utah
+    hint: "The share said to have moved, per Arnold House's source; Fouché said the same"
   - value: "1h05m"
-    label: Runtime
+    label: Video length
 ---
 ::
 
@@ -31,7 +31,7 @@ stats:
 
 This investigation turns UAP Gerb's series on "UFOs in the private sector" to [[Northrop Grumman]], the builder of the B-2 and B-21 stealth bombers and, in Gerb's view, the contractor that stands beside [[Lockheed Martin]] as "the paramount aerospace corporation entrenched in UFO legacy programs". Earlier episodes covered [[Battelle Memorial Institute]] and Lockheed, which have well-known paper trails: Battelle's alleged work on shape-memory alloys from Roswell, and Lockheed's failed 2008 attempt to hand recovered material to [[AAWSAP]]. Northrop has no such story. Even the famous triangle and flux liner testimonies mostly centre on Lockheed. Yet, Gerb says, Northrop is "always alongside in the shadows", and this video sets out to find out how far its involvement goes.
 
-The first half builds a paper trail from Northrop's purchases. The 1994 merger of Northrop and Grumman was followed by [[Teledyne Ryan]] (1999) and, as the "capstone", [[TRW]] (2002). TRW brought its own history: it spun off the [[Aerospace Corporation]] in 1960, the FFRDC that [[Eric Davis]] all but named as a legacy contractor. It is tied to [[Eric A. Walker]], to a rumored crash retrieval program called [[Operation Zodiac|Zodiac]], and to [[BDM International]], whose staff and board included [[Albert Stubblebine]] and [[Sumar Shapiro|Sumner Shapiro]]. Gerb's sharpest argument joins the [[Wilson-Davis Memo|Wilson-Davis notes]] to a court record. The notes say a 1990s audit nearly exposed the legacy programs; in 2003 Northrop paid $111 million to settle a suit over TRW's early-1990s overcharging on space contracts, which Gerb believes was that same audit catching hidden program money.
+The first half builds a paper trail from Northrop's purchases. The 1994 merger of Northrop and Grumman was followed by [[Teledyne Ryan]] (1999) and, as the "capstone", [[TRW]] (2002). TRW brought its own history: it spun off the [[Aerospace Corporation]] in 1960, the federally funded research and development center (FFRDC) that [[Eric Davis]] all but named as a legacy contractor. TRW is also tied to [[Eric A. Walker]], to a rumored crash retrieval program called [[Operation Zodiac|Zodiac]], and to [[BDM International]], whose staff and board included [[Albert Stubblebine]] and [[Sumar Shapiro|Sumner Shapiro]]. Gerb's sharpest argument joins the [[Wilson-Davis Memo|Wilson-Davis notes]] to a court record. The notes say a 1990s audit nearly exposed the legacy programs; in 2003 Northrop paid $111 million to settle a suit over TRW's early-1990s overcharging on space contracts, which Gerb believes was that same audit catching hidden program money.
 
 The second half gathers what witnesses say about Northrop directly. [[Karl Nell]], an Army colonel who says there is "zero doubt" that non-human intelligence exists, spent 13 years as Northrop's deputy CTO. A 1968 Northrop Norair paper on electrostatic drag reduction reportedly vanished in 2002, and some researchers link it to the B-2. [[Bill Hamilton|William Hamilton]], [[Bill McDonald]] and [[Richard Sauder]] each point to Northrop's radar cross-section range at [[Tejon Ranch]] and its alleged underground levels. [[Edgar Fouche|Edgar Fouché]] names Northrop among the [[TR-3B]]'s contractors. [[Steve Wilson|Colonel Steve Wilson]] credits it with an anti-gravity disc nicknamed the "Great Pumpkin". [[Arnold House]]'s source says his paychecks at [[Area 51]] came from Northrop and names the program [[Project Redlight|Project Red Light]]. Gerb concludes that Northrop is one of the "Mount Rushmore" of legacy contractors. Its silence, he argues, reflects secrecy rather than a smaller role.
 
@@ -39,30 +39,30 @@ The second half gathers what witnesses say about Northrop directly. [[Karl Nell]
 
 ::wiki-timeline{video="E-GleS2aGj0" video-title="UFO Legacy Programs - Northrop Grumman"}
 ---
-help: "The video is organised by acquisitions and witnesses, not by date, so this chronology gathers its dated milestones in one place, grouped into three stretches of the story. Ticks on the ruler are entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. While the video plays, Sync seeks it to the entry you are reading and Follow lets it scroll the page. Because Gerb moves back and forth between decades, the playhead jumps around the ruler. Every timestamp here was checked against the captions."
+help: "Gerb organises the video by company purchases and witnesses rather than by date, so this list puts its dated events in order, in three periods. The bar of years above the list has a mark for each entry, coloured by type; taller marks are major entries. Click the bar to jump to a year. The dark line shows which entry you are reading. Play from here starts the video at that entry. Once the video is playing, a green line shows where Gerb is, and it jumps around the bar because he moves back and forth between decades. Turn on Follow video to have the list scroll along with the video. Click a timestamp to play the video from that moment. Every timestamp here was checked against the video's captions."
 eras:
   - id: golden
     label: "The golden age"
     from: 1958
     to: 1969
-    summary: "Corso's golden age of Army R&D, when MITRE, BDM and TRW's Aerospace Corporation were founded, and Northrop's first electrostatic-drag research."
+    summary: "The years Philip Corso called a golden age of Army research and development. MITRE, BDM and TRW's Aerospace Corporation were founded, and Northrop did its first research on electrostatic drag."
     anchor: "the-acquisition-streak"
   - id: starwars
     label: "Star Wars and the Antelope Valley"
     from: 1970
     to: 1993
-    summary: "S-4, Project Red Light and SDI; BDM's hires; and the sightings and books that put Northrop's desert sites on the map."
+    summary: "The S-4 site, Project Red Light and the Strategic Defense Initiative (SDI); the people BDM hired; and the sightings and books that drew attention to Northrop's desert sites."
     anchor: "the-antelope-valley-and-tejon-ranch"
   - id: streak
     label: "The acquisition streak"
     from: 1994
-    summary: "The merger, the audit, and the purchases of Teledyne Ryan, BDM and TRW that Gerb says brought legacy portfolios in-house."
+    summary: "The merger of Northrop and Grumman, the audit, and the purchases of Teledyne Ryan, BDM and TRW, which Gerb says brought portfolios of UFO legacy programs into the company."
     anchor: "the-audit-and-the-111-million-settlement"
 events:
   - date: "1958"
     title: "Corso's golden age of Army R&D begins"
     cue: 660
-    summary: "According to Lt. Col. Philip J. Corso, the Army oversaw a golden age of research and development from 1958 to 1962, leveraging Army assets, universities, laboratories and private industry such as Bell Labs and Sperry Rand to reverse-engineer non-human technology. Gerb argues Northrop's modern legacy work, and the companies it later bought, trace back to this period."
+    summary: "According to Lt. Col. Philip J. Corso, the Army oversaw a golden age of research and development from 1958 to 1962, using Army assets, universities, laboratories and private industry such as Bell Labs and Sperry Rand, to reverse-engineer non-human technology. Gerb argues Northrop's modern legacy work, and the companies it later bought, trace back to this period."
     category: program
     significance: major
     entities:
@@ -81,7 +81,7 @@ events:
   - date: "1960-06"
     title: "TRW spins off the Aerospace Corporation"
     cue: 634
-    summary: "In June 1960 TRW spawned the Aerospace Corporation, an FFRDC that today supports national security space programs for the DoD and Air Force. Eric Davis, who later worked there, said an unnamed 1960 TRW spin-off had been involved in UFO programs, with TRW the 'principal investigator' for roughly 29 years."
+    summary: "In June 1960 TRW spawned the Aerospace Corporation, a federally funded research and development center (FFRDC) that today supports national security space programs for the DoD and Air Force. Eric Davis, who later worked there, said an unnamed 1960 TRW spin-off had been involved in UFO programs, with TRW the 'principal investigator' for roughly 29 years."
     category: organization
     significance: major
     entities:
@@ -131,7 +131,7 @@ events:
   - date: "1980"
     title: "Boeing colleague joins a crash recovery team"
     cue: 3030
-    summary: "Arnold House said an Army CID man involved in crash recoveries since 1947 handpicked one of House's Boeing colleagues for a UFO crash recovery team in northern New Mexico in 1980. The colleague spent 17 years, to 1997, on reverse engineering and testing at Area 51, paid directly by Northrop."
+    summary: "Arnold House said a man from the Army Criminal Investigation Division (CID), who had worked on crash recoveries since 1947, handpicked one of House's Boeing colleagues for a UFO crash recovery team in northern New Mexico in 1980. The colleague spent 17 years, to 1997, on reverse engineering and testing at Area 51, paid directly by Northrop."
     category: event
     significance: major
     entities:
@@ -163,7 +163,7 @@ events:
   - date: "1984"
     title: "Stubblebine leaves INSCOM for BDM"
     cue: 1206
-    summary: "Major General Albert Stubblebine, whose Army INSCOM and its Intelligence Support Activity Gerb ties to crash retrieval, was replaced as INSCOM's head in 1984 and became a vice president of BDM."
+    summary: "Major General Albert Stubblebine was replaced as head of Army INSCOM in 1984 and became a vice president of BDM. Gerb ties INSCOM and its Intelligence Support Activity to crash retrieval."
     category: person
     significance: notable
     entities:
@@ -182,7 +182,7 @@ events:
   - date: "1986"
     title: "Sperry Rand goes defunct"
     cue: 849
-    summary: "Sperry Rand, which Corso's manuscript ties to Army R&D chief Arthur Trudeau through frequent meetings with its board, including General Douglas MacArthur, went defunct in 1986. Its divisions passed to companies including Lockheed Martin, Honeywell and Northrop Grumman."
+    summary: "Sperry Rand went defunct in 1986, and its divisions passed to companies including Lockheed Martin, Honeywell and Northrop Grumman. Corso's manuscript says Army R&D chief Arthur Trudeau met often with its board, which included General Douglas MacArthur."
     category: organization
     significance: notable
     entities:
@@ -222,7 +222,7 @@ events:
   - date: "1992"
     title: "Northrop creates its answer to Skunk Works"
     cue: 1343
-    summary: "In 1992 Northrop created the Northrop Advanced Technology and Design Center (NATDC) to focus on its core defense programs, what Gerb calls Northrop's answer to Lockheed's Skunk Works."
+    summary: "In 1992 Northrop created the Northrop Advanced Technology and Design Center (NATDC) to focus on its core defense programs. Gerb calls it Northrop's answer to Lockheed's Skunk Works."
     category: organization
     significance: notable
     entities:
@@ -361,7 +361,7 @@ events:
   - date: "2003"
     title: "Northrop settles TRW overcharging suit"
     cue: 1043
-    summary: "Northrop Grumman paid $111 million, almost $200 million in today's money, to settle a government lawsuit over TRW overcharging on early-1990s space projects. Gerb suggests the overcharging was really hidden waived USAP funding uncovered in the audit from the Wilson-Davis notes."
+    summary: "Northrop Grumman paid $111 million, almost $200 million in today's money, to settle a government lawsuit over TRW overcharging on early-1990s space projects. Gerb suggests the overcharging was really hidden funding for waived unacknowledged special access programs (USAPs), uncovered in the audit described in the Wilson-Davis notes."
     category: event
     significance: major
     entities:
@@ -409,7 +409,7 @@ events:
 
 ## The Quiet Contractor
 
-The video opens on an archival clip that Gerb later identifies as Jack Northrop, the company's founder. He calls UFO propulsion unique, says it would be "of tremendous value" if it could be developed, and argues the subject deserves serious scientific study. A Northrop Grumman advertisement ("this is where we push the laws of physics") follows, then a speaker who calls it "highly unethical" for the government to hand-receipt recovered material to cleared contractors that then sell insight back at a profit. Gerb has accused Lockheed Martin, Battelle, [[Boeing]], [[SAIC]] and semi-private [[Federally Funded Research and Development Center (FFRDC)|FFRDCs]] and UARCs of holding and experimenting with non-human technology under [[Waived Unacknowledged Special Access Programs (USAPs)|waived unacknowledged special access programs]]. Northrop, he says, has "largely successfully distanced itself from the spotlight".
+The video opens on an archival clip that Gerb later identifies as Jack Northrop, the company's founder. He calls UFO propulsion unique, says it would be "of tremendous value" if it could be developed, and argues the subject deserves serious scientific study. A Northrop Grumman advertisement ("this is where we push the laws of physics") follows, then a speaker who calls it "highly unethical" for the government to hand-receipt recovered material to cleared contractors that then sell insight back at a profit. Gerb has accused Lockheed Martin, Battelle, [[Boeing]], [[SAIC]] and semi-private [[Federally Funded Research and Development Center (FFRDC)|FFRDCs]] and university-affiliated research centers (UARCs) of holding and experimenting with non-human technology under [[Waived Unacknowledged Special Access Programs (USAPs)|waived unacknowledged special access programs]]. Northrop, he says, has "largely successfully distanced itself from the spotlight".
 
 Northrop Grumman employs more than 95,000 people and earns about $30 billion a year. It helped build the James Webb Space Telescope, created the B-2 Spirit and B-21 Raider, and runs four divisions: aeronautics, defense, space and mission systems. It also works in cybersecurity, IT, and radar and sensor systems.
 
@@ -421,7 +421,7 @@ He also recalls a Lockheed ISR case study from his work on witness Ed and the [[
 
 ## The Acquisition Streak
 
-"Northrop made a few very key acquisitions we will continue to reference over and over and over again," Gerb says. The company was formed in 1994 when the Northrop Company merged with the Grumman aircraft company. It bought Teledyne Ryan, a maker of surveillance systems and unmanned aircraft, in 1999. Then in 2002 it bought TRW, an aerospace, electronics and automotive company that built Pioneer 1 and 10 and a number of space observatories. Northrop called TRW its "capstone acquisition", the end of its buying spree. Gerb thinks TRW was the crown jewel because it came with a portfolio of UAP legacy programs. The tree below follows the lines the video traces through the company, including firms whose people or divisions it inherited without buying them outright:
+"Northrop made a few very key acquisitions we will continue to reference over and over and over again," Gerb says. The company was formed in 1994 when the Northrop Company merged with the Grumman aircraft company. It bought Teledyne Ryan, a maker of surveillance systems and unmanned aircraft, in 1999. Then in 2002 it bought TRW, an aerospace, electronics and automotive company that built Pioneer 1 and 10 and a number of space observatories. Northrop called TRW its "capstone acquisition", the end of its buying spree. Gerb thinks TRW was the crown jewel because it came with a portfolio of UAP legacy programs. The chart below shows the companies the video traces into Northrop, including firms whose people or divisions it inherited without buying them outright:
 
 ::wiki-org-chart
 ---
@@ -442,7 +442,7 @@ root:
       children:
         - name: Aerospace Corporation
           label: "Spun off by TRW, June 1960"
-          note: "An independent FFRDC, not a subsidiary; Eric Davis's unnamed 1960 TRW spin-off."
+          note: "An independent federally funded research and development center (FFRDC) rather than a subsidiary. It is the 1960 TRW spin-off that Eric Davis described without naming."
         - name: BDM International
           label: "Bought by TRW, 1997"
           note: "Stubblebine became a vice president; Shapiro sat on its board in 1989."
@@ -457,11 +457,11 @@ root:
 
 ### TRW, the crown jewel
 
-TRW has long been tied to a rumored crash retrieval program run out of [[Wright-Patterson Air Force Base]], which [[Luis Elizondo]] touches on in his book *Imminent*, and researchers such as [[Richard Dolan]] describe TRW as the main contractor behind a crash retrieval program called Zodiac, an MJ-12-like entity. Gerb holds Zodiac for a future video, but thinks TRW may be the paper trail that links it, and Northrop, to legacy operations. TRW's former chairman, in the video's telling, was Eric Walker, one of Gerb's "most crucial names" in 1950s and 1960s crash retrieval. [[Robert Sarbacher]] named Walker as a participant in crash retrieval meetings with [[Vannevar Bush]]. Walker started Penn State's university-affiliated research center, admitted he knew about [[Majestic 12]], and was present at the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg crash]].
+TRW has long been tied to a rumored crash retrieval program run out of [[Wright-Patterson Air Force Base]], which [[Luis Elizondo]] touches on in his book *Imminent*, and researchers such as [[Richard Dolan]] describe TRW as the main contractor behind a crash retrieval program called Zodiac, an MJ-12-like entity. Gerb is saving Zodiac for a future video, but thinks TRW may be the paper trail that links it, and Northrop, to legacy operations. TRW's former chairman, in the video's telling, was Eric Walker, one of Gerb's "most crucial names" in 1950s and 1960s crash retrieval. [[Robert Sarbacher]] named Walker as a participant in crash retrieval meetings with [[Vannevar Bush]]. Walker started Penn State's university-affiliated research center, admitted he knew about [[Majestic 12]], and was present at the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg crash]].
 
 ### The Aerospace Corporation and the golden age
 
-In June 1960 TRW spawned the Aerospace Corporation, where Wilson-Davis physicist Eric Davis later worked. Gerb relates the year to [[Philip J. Corso]]'s claim that 1958 to 1962 was a golden age of Army research and development, when Army assets, universities, laboratories and industry were used to reverse-engineer non-human technology. Army primers from the period do record a burst of innovation. Gerb dates [[MITRE Corporation|MITRE]] to 1959 and suggests it was formed for such work alongside Bell Labs and Sperry Rand; the Aerospace Corporation followed a year later. Both are FFRDCs, and Aerospace today runs one for the DoD and Air Force supporting "national security space programs". In a clip, Davis is asked where FFRDCs fit, and answers that only one, which he won't name, "started out as a contractor in 1960" as a TRW spin-off:
+In June 1960 TRW spawned the Aerospace Corporation, where Wilson-Davis physicist Eric Davis later worked. Gerb connects the date to [[Philip J. Corso]]'s claim that 1958 to 1962 was a golden age of Army research and development, when Army assets, universities, laboratories and industry were used to reverse-engineer non-human technology. Army primers from the period do record a burst of innovation. Gerb dates [[MITRE Corporation|MITRE]] to 1959 and suggests it was formed for such work alongside Bell Labs and Sperry Rand; the Aerospace Corporation followed a year later. Both are FFRDCs, and Aerospace today runs one for the DoD and Air Force supporting "national security space programs". In a clip, Davis is asked where FFRDCs fit, and answers that only one, which he won't name, "started out as a contractor in 1960" as a TRW spin-off:
 
 ::wiki-cue{t=778 video="E-GleS2aGj0" video-title="UFO Legacy Programs - Northrop Grumman" entry-title="Eric Davis on the TRW spin-off"}
 ::
@@ -474,14 +474,14 @@ Corso's manuscript also implicates [[Sperry Rand]], once a leading US electronic
 
 ### BDM
 
-Shortly before Northrop bought TRW, TRW had bought BDM (Braddock, Dunn and McDonald) in 1997. BDM was a technical services firm working in missile guidance, optics, electronic instrumentation and radiation physics, headquartered, per the video, at [[Fort Bliss]], [[White Sands Missile Range]] and Holloman Air Force Base. It too was founded in 1959. In 2000, Navy Commander [[Will Miller]] of the Wilson-Davis notes said that officials such as DIA directors were isolated from UAP knowledge, and that the "keepers of the secrets" sat in DoD middle management and civilian contractors like Boeing, Lockheed and BDM. Northrop Grumman still keeps a major corporate presence in Tysons Corner, near BDM's old headquarters. Two more people with BDM ties join the cast below:
+Shortly before Northrop bought TRW, TRW had bought BDM (Braddock, Dunn and McDonald) in 1997. BDM was a technical services firm working in missile guidance, optics, electronic instrumentation and radiation physics, headquartered, per the video, at [[Fort Bliss]], [[White Sands Missile Range]] and Holloman Air Force Base. It too was founded in 1959. In 2000, Navy Commander [[Will Miller]] of the Wilson-Davis notes said that officials such as DIA directors were isolated from UAP knowledge, and that the "keepers of the secrets" sat in DoD middle management and civilian contractors like Boeing, Lockheed and BDM. Northrop Grumman still keeps a major corporate presence in Tysons Corner, near BDM's old headquarters. The list below gathers the people in this part of the story, including two more with BDM ties:
 
 ::wiki-roster
 ---
 entries:
   - name: Eric A. Walker
     role: Scientist; former TRW chairman, per the video
-    note: "Named by Robert Sarbacher at 1950s crash retrieval meetings with Vannevar Bush; admitted knowing of Majestic 12 and being at Kecksburg in 1965."
+    note: "Robert Sarbacher named him as a participant in 1950s crash retrieval meetings with Vannevar Bush. He admitted knowing of Majestic 12 and being at Kecksburg in 1965."
   - name: Eric Davis
     role: Physicist, Aerospace Corporation and the Wilson-Davis notes
     note: "Said an unnamed 1960 TRW spin-off had been involved, with TRW the 'principal investigator' for roughly 29 years."
@@ -496,7 +496,7 @@ entries:
     note: "Introduced Oechsler to Shapiro while on the boards of SAIC and Wackenhut; Wilson also placed him at the first S-4 anti-gravity flight."
   - name: Will Miller
     role: Navy commander, Wilson-Davis notes
-    note: "Named BDM, with Boeing and Lockheed, among the civilian contractors holding the 'keepers of the secrets' in 2000."
+    note: "Said in 2000 that the 'keepers of the secrets' sat in civilian contractors such as BDM, Boeing and Lockheed."
 ---
 ::
 
@@ -518,7 +518,7 @@ In 2003 Northrop Grumman paid $111 million to settle a government lawsuit over T
 ::wiki-chain{video="E-GleS2aGj0" video-title="UFO Legacy Programs - Northrop Grumman"}
 ---
 kind: consequence
-caption: "Gerb's hypothesis linking the Wilson-Davis audit to the TRW settlement."
+caption: "Gerb's hypothesis that the audit described in the Wilson-Davis notes is what led to Northrop's TRW settlement."
 steps:
   - text: "TRW's early-1990s space contracts"
     note: "Allegedly padded to carry waived USAP funding. To auditors who could not see the programs, the hidden money looked like overcharging."
@@ -543,12 +543,12 @@ steps:
             cue: 1076
           - via: "Settled for $111 million, 2003"
             name: "Northrop Grumman"
-            note: "A year after buying TRW; almost $200 million in today's money."
+            note: "Paid a year after Northrop bought TRW; almost $200 million in today's money."
             cue: 1043
 ---
 ::
 
-"Utterly fascinating if this hypothesis is accurate," he says. Northrop would have settled the suit and reorganized its UAP portfolio under the Senior Review Group, the change that was described to Wilson.
+"Utterly fascinating if this hypothesis is accurate," he says. If so, Northrop would have settled the suit and reorganized its UAP portfolio under the Senior Review Group, the change the gatekeepers described to Wilson.
 
 ## Inside Northrop: Nell, Norair and the B-2
 
@@ -574,7 +574,7 @@ The first real mention of Northrop working with non-human technology, Gerb says,
 Hamilton was one of the first to draw serious attention to the [[Antelope Valley]] near [[Edwards Air Force Base]]. He noted that Lockheed's Skunk Works, Rockwell, McDonnell Douglas and Northrop all had plants in [[Palmdale, California|Palmdale]], then the nation's chief aerospace center, around [[Air Force Plant 42]]. His focus, though, was not Northrop's Palmdale plant. He pointed to its radar cross-section facility at Tejon Ranch in the [[Tehachapi, California|Tehachapi Mountains]] and the underground installation beneath it, which he accused of being a UAP program site.
 
 > [!info] What is a radar cross-section facility?
-> An RCS range tests how visible an aircraft or material is to radar by blasting it with high-frequency radio waves. The sites use large runways and pylons that rise from underground onto concrete "diamonds" used as mounting pads. Many were built during the Cold War, and most of their equipment was placed underground to hide pylons, models and technologies from Soviet spy satellites.
+> A radar cross-section (RCS) range tests how visible an aircraft or material is to radar by blasting it with high-frequency radio waves. The sites use large runways and pylons that rise from underground onto concrete "diamonds" used as mounting pads. Many were built during the Cold War, and most of their equipment was placed underground to hide pylons, models and technologies from Soviet spy satellites.
 
 Hamilton recounted a 1988 sighting of a giant boomerang over the Northrop facility and a flying saucer seen taking off from a building on the property. The site has a history of anomalous sightings, often glowing orbs, and some researchers say it sees disproportionately more than the nearby Lockheed and McDonnell Douglas RCS facilities. Gerb has covered it before, in his work on the [[XF-131 Super Sentinel]]. Forensic artist Bill McDonald's 1992 piece "The Tehachapi Triangle" drew that reverse-engineered triangular craft from the accounts of disgruntled engineers from Northrop's Tejon range and Lockheed's [[Helendale]] RCS plant. They said both facilities doubled as UFO reverse engineering and material exploitation sites. In a clip, Greer, who calls Helendale a staging ground for electrogravitic ARVs, describes flying near the classified site. He says man-made craft "built since 1954, '55" rise silently from its "diamonds" and are struck with electromagnetic weapons to test their hardening. Gerb notes there is valid research on weapons designed to down UAP.
 
@@ -585,7 +585,7 @@ The Northrop, Lockheed and McDonnell Douglas RCS sites all lie close to Edwards,
 ::wiki-map{video="E-GleS2aGj0" video-title="UFO Legacy Programs - Northrop Grumman"}
 ---
 label: "Northrop's neighbours in the Antelope Valley"
-caption: "The sites Gerb sets around Northrop's Tejon range when he asks whether it tests craft from underground. The dashed line stands for the rumored tunnels to Edwards that Sauder reports; it joins the two places and is not a surveyed route. Area 51, which Wilson said the RCS sites reached by underground train, lies about 200 miles to the north-east, off this map."
+caption: "Sites near Northrop's radar test range at Tejon Ranch, which Gerb places together when he asks whether Northrop tests craft from underground. The dashed line marks the rumored tunnels to Edwards that Sauder reports; it simply joins the two places and does not follow a surveyed route. Area 51, which Wilson said the radar test sites reached by underground train, is about 200 miles to the north-east, off this map."
 pins:
   - name: "Tejon Ranch"
     label: "Tejon"
@@ -593,7 +593,7 @@ pins:
     cue: 1659
   - name: "Helendale"
     label: "Helendale"
-    note: "Lockheed's RCS plant; with Tejon, the source of McDonald's engineers."
+    note: "Lockheed's radar cross-section plant. McDonald's engineers came from here and from Tejon."
     cue: 1768
   - name: "Air Force Plant 42"
     label: "Plant 42"
@@ -601,7 +601,7 @@ pins:
     cue: 1641
   - name: "Edwards Air Force Base"
     label: "Edwards AFB"
-    note: "Where Fouché said the TR-3B was test-flown, and Gerb's 412th program ran."
+    note: "Where Fouché said the TR-3B was test-flown, and where, Gerb says, the 412th program ran."
     cue: 2133
   - name: "Norton Air Force Base"
     label: "Norton"
@@ -691,7 +691,7 @@ The name is familiar on the channel. Gerb traces its first mention to the files 
 
 ::wiki-compare{video="E-GleS2aGj0" video-title="UFO Legacy Programs - Northrop Grumman"}
 ---
-caption: "What each of the three witnesses says about Northrop. Markers show the points two or more of them share."
+caption: "What Fouché, Wilson and House each say about Northrop. Points marked Same are shared by two or more of them."
 attributeLabel: "Point"
 subjects:
   - name: "Edgar Fouche"
@@ -729,21 +729,21 @@ rows:
 ---
 ::
 
-Two claims recur across the three: Area 51 work moving to Utah (Fouché and House) and Red Light (Fouché and House). All three tie Northrop to the Edwards and Antelope Valley corridor. Hamilton, McDonald's engineers and Sauder had already pointed there.
+Two claims appear in more than one account, both from Fouché and House: Area 51 work moving to Utah, and Project Red Light. All three tie Northrop to the Edwards and Antelope Valley corridor. Hamilton, McDonald's engineers and Sauder had already pointed there.
 
 ## In the Shadows: Gerb's Verdict
 
 ::wiki-cue{t=3355 video="E-GleS2aGj0" video-title="UFO Legacy Programs - Northrop Grumman" entry-title="Gerb's closing thoughts"}
 ::
 
-In his closing remarks Gerb admits Northrop leaves "a lot less tangible paper trail" than Battelle or Lockheed, with no direct confirmations. He finds that almost more intriguing. The story that emerges is of a company that "seems to purchase up, buy up companies that had legacy operations". Northrop bought TRW for what he believes was six or seven billion dollars, then a year later paid about $200 million in today's money to settle TRW's suit: "a drop in the bucket". Recurring details also strike him: SDI, underground facilities, the move from Area 51 to Dugway, and Area 51 and Edwards in House's, Red Light's and Fouché's accounts. He asks why Northrop, like Boeing and Raytheon, passes under the radar while Lockheed, Battelle and to a degree General Electric are always labelled the prime contractors, and offers a thesis:
+In his closing remarks Gerb admits Northrop leaves "a lot less tangible paper trail" than Battelle or Lockheed, with no direct confirmations. He finds that almost more intriguing. What emerges is a company that "seems to purchase up, buy up companies that had legacy operations". Northrop bought TRW for what he believes was six or seven billion dollars, then a year later paid about $200 million in today's money to settle TRW's suit: "a drop in the bucket". Recurring details also strike him: SDI, underground facilities, the move from Area 51 to Dugway, and Area 51 and Edwards in House's, Red Light's and Fouché's accounts. He asks why Northrop, like Boeing and Raytheon, passes under the radar while Lockheed, Battelle and to a degree General Electric are always labelled the prime contractors, and offers a thesis:
 
 ::wiki-grid{cols=3}
 ::wiki-panel{title="Lockheed Martin: the hound dog"}
-Answers every beck and call and is "the loudest in the room", an opportunist. Its 2008 offer to divest material to AAWSAP, blocked by [[Glenn Gaffney]] of the CIA Directorate of Science and Technology, was probably material it could not crack itself, likely from the [[1953 Kingman, Arizona Crash Retrieval|1953 Kingman crash]], given up to win favour with the CIA and NRO.
+It answers every beck and call and is "the loudest in the room", an opportunist. Its 2008 offer to divest material to AAWSAP, blocked by [[Glenn Gaffney]] of the CIA Directorate of Science and Technology, was probably material it could not crack itself, likely from the [[1953 Kingman, Arizona Crash Retrieval|1953 Kingman crash]], given up to win favour with the CIA and NRO.
 ::
 ::wiki-panel{title="Northrop Grumman: in the shadows" tone="accent"}
-Does not offer to divest material. It is "tag-lined" in testimonies like Fouché's as the one in the shadows. Gerb believes its work is material exploitation, reverse engineering, ARV testing and likely project management of Red Light, if that program still runs after Ed's time at Nellis and Edwards ended around 2006 to 2008.
+It does not offer to divest material, and it is "tag-lined" in testimonies like Fouché's as the one in the shadows. Gerb believes its work is material exploitation, reverse engineering, ARV testing and likely project management of Red Light, if that program still runs after Ed's time at Nellis and Edwards ended around 2006 to 2008.
 ::
 ::wiki-panel{title="Battelle: out of the game"}
 Apart from biological storage, probably at Fort Detrick or Fort Belvoir, Gerb thinks Battelle is "a little bit out of the game" and largely done.

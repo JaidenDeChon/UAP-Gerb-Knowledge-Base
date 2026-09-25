@@ -18,9 +18,9 @@ export const CHAIN_KINDS: readonly ChainKind[] = ['custody', 'consequence', 'tra
 
 /** Visible kicker over the chain, and the list's accessible name. */
 export const CHAIN_KIND_LABEL: Record<ChainKind, string> = {
-  custody: 'Chain of custody',
-  consequence: 'Chain of consequence',
-  transmission: 'Chain of transmission',
+  custody: 'Where it went, step by step',
+  consequence: 'What led to what',
+  transmission: 'How the account was passed on',
 }
 
 /**
@@ -218,9 +218,9 @@ export function splitText(items: ChainItem[], i: number): string {
   if (!fork || fork.type !== 'fork') return ''
   const n = fork.branches.length
   const prev = items[i - 1]
-  if (prev?.type === 'step') return `From ${prev.key}, splits into ${n} branches`
-  if (prev?.type === 'fork') return `Then splits into ${n} branches`
-  return `Starts as ${n} parallel branches`
+  if (prev?.type === 'step') return `After step ${prev.key}, splits into ${n} branches`
+  if (prev?.type === 'fork') return `Splits again into ${n} branches`
+  return `Starts as ${n} separate branches`
 }
 
 /**
@@ -235,7 +235,7 @@ export function joinText(items: ChainItem[], i: number): string {
   const verb = i === 0 ? 'converge' : 'rejoin'
   const range = branchRange(fork.branches)
   return next.type === 'step'
-    ? `Branches ${range} ${verb} at ${next.key}`
+    ? `Branches ${range} ${verb} at step ${next.key}`
     : `Branches ${range} ${verb}`
 }
 

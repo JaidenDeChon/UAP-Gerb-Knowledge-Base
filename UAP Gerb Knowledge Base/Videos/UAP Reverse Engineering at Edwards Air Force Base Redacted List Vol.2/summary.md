@@ -15,25 +15,25 @@ tags:
 stats:
   - value: 11063
     label: Witness number
-    hint: "An entry on Greer's redacted list"
+    hint: "Ed's redacted entry on Greer's witness list"
   - value: "700+"
     label: Names on the list
-    hint: "22 pages of them redacted"
+    hint: "Plus 22 pages of redacted entries"
   - value: 16
     label: Years in the Air Force
-    hint: "1999 to 2015, per the email"
+    hint: "1999 to 2015, per a Disclosure Project email"
   - value: 4
     label: Duty stations
     hint: "Nellis, Hanscom, Edwards, the Pentagon"
   - value: "130+"
     label: Downings and retrievals
-    hint: "Greer's March 2024 presentation"
+    hint: "Of non-human objects, per Greer's March 2024 presentation"
   - value: "$34B → $40B"
-    label: Non-blue transfers
-    hint: "Noted from Ed's Pentagon years"
+    label: Non-Air Force transfers
+    hint: "Non-blue funds Ed noted at the Pentagon"
   - value: "2.9M"
     label: Acres of range
-    hint: "The NTTR, with 5,000 sq mi of airspace"
+    hint: "The Nevada Test and Training Range, plus 5,000 sq mi of airspace"
   - value: "47m"
     label: Runtime
 ---
@@ -41,7 +41,7 @@ stats:
 
 ## Overview
 
-This video is the second in UAP Gerb's "Redacted List" series, which mines the redacted entries in the witness list that [[Steven Greer]] and the [[Disclosure Project]] published in 2024 as part of their document archive. The list holds more than 700 names, including [[Michael Herrera]], [[Robert Wood]], [[Richard Doty]], [[Jonathan Weygandt]] and [[Bob Lazar]], plus 22 pages of redacted ones. The first volume produced the Dugway witness [[MS (Dugway Witness)|MS]] and a more shadowy witness, "TB". This one covers witness 11063, whom Gerb calls [[Ed (Witness 11063)|Ed]]: a career Air Force officer who, according to Greer's files, tested reverse-engineered technology as a test director of an electronic warfare group at [[Edwards Air Force Base]].
+This video is the second in UAP Gerb's "Redacted List" series, which mines the redacted entries in the witness list that [[Steven Greer]] and the [[Disclosure Project]] published in 2024 as part of their document archive. The list holds more than 700 names, including [[Michael Herrera]], [[Robert Wood]], [[Richard Doty]], [[Jonathan Weygandt]] and [[Bob Lazar]], plus 22 pages of redacted ones. The first volume covered the Dugway witness [[MS (Dugway Witness)|MS]] and a more shadowy witness, "TB". This one covers witness 11063, whom Gerb calls [[Ed (Witness 11063)|Ed]]: a career Air Force officer who, according to Greer's files, tested reverse-engineered technology as a test director of an electronic warfare group at [[Edwards Air Force Base]].
 
 Gerb says he has worked out Ed's identity and tried many times to reach him, but will not reveal it, for Ed's operational security and his family's safety. He uses only public sources, and says he has confirmed from them that Ed served at [[Nellis Air Force Base]], Edwards and the [[Pentagon]]. His evidence is two documents Greer uploaded in late summer 2024: an internal Disclosure Project email summarising Ed's background and motives, and two pages of notes from Greer's 25 November 2023 phone call with him. Gerb walks through the notes line by line, following Ed from Nellis and a briefing at [[Area 51]]'s S4 site, through [[Hanscom Air Force Base, Massachusetts|Hanscom]], to the [[Air Force Test Pilot School]] and the [[412th Test Wing]] at Edwards, an aborted Air Force plan to "go public", and a final posting at the Pentagon where he noted large transfers of funds into "non-blue" accounts.
 
@@ -51,7 +51,7 @@ His thesis is that Ed's testimony points to a joint reverse-engineering program 
 
 ::wiki-timeline{video="U_LSMLGBDNg" video-title="UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2]"}
 ---
-help: "The bar pinned above the entries is a ruler from 1955 to 2025. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line capped with a downward arrow is where Gerb is. Gerb tells Ed's story first and turns to Edwards's history afterwards, so the playhead runs forward through Ed's career and then jumps back to 1957. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Timestamps jump the mini-player to that moment."
+help: "The bar above the list runs from 1955 to 2025, with a mark for each entry, coloured by type; taller marks are major entries. Click the bar to jump to a year. The dark line shows the entry you are reading. Play from here starts the video at that entry, and once it is playing a green line shows how far Gerb has got. Gerb tells Ed's story first and then turns back to Edwards's history, so the green line moves forward through Ed's career and then jumps back to 1957. Turn on Follow video to have the list scroll along with the video. Click a timestamp to play the video from that moment."
 eras:
   - id: before
     label: "Edwards Before Ed"
@@ -63,7 +63,7 @@ eras:
     label: "Ed's Air Force Career"
     from: 1999
     to: 2015
-    summary: "Nellis and a briefing at S4, Hanscom, the Edwards test pilot school and electronic warfare group, a killed disclosure plan, and the Pentagon."
+    summary: "Nellis and a briefing at the S4 site, Hanscom, the Edwards test pilot school and electronic warfare group, a killed disclosure plan, and the Pentagon."
     anchor: "eds-career-station-by-station"
   - id: record
     label: "The Paper Trail"
@@ -77,7 +77,7 @@ events:
   - date: "1957"
     title: "Gordon Cooper's crew films a landed disc at Edwards"
     cue: 1787
-    summary: "Mercury astronaut Gordon Cooper, then a project manager at Edwards, said cameramen filming a precision landing facility saw a shiny silver saucer about 30 feet across put down three landing gear on the dry lake bed. They filmed it from within 20 yards before it climbed away. Cooper held the film up to a window before it was flown to Washington by courier, unshown."
+    summary: "Mercury astronaut Gordon Cooper, then a project manager at Edwards, said cameramen filming a precision landing facility saw a shiny silver saucer about 30 feet across put down three landing gear on the dry lake bed. They filmed it from within 20 yards before it climbed away. Cooper held the film up to a window; it was then flown to Washington by courier without being shown."
     category: event
     significance: major
     entities:
@@ -124,7 +124,7 @@ events:
   - date: "1975-03-14"
     title: "Anonymous letter to Stringfield names Hanscom and MIT"
     cue: 1323
-    summary: "An anonymous letter to Leonard Stringfield recounted the testimony of a 'Colonel Sims', a pseudonym, who named Hanscom and MIT among the bases and laboratories performing UFO operations, alongside Edwards, Wright-Patterson, Carswell, Los Alamos and Sandia. It is the only Hanscom–UAP link Gerb found."
+    summary: "An anonymous letter to Leonard Stringfield recounted the testimony of a 'Colonel Sims', a pseudonym, who named Hanscom and MIT among the bases and laboratories performing UFO operations, alongside Edwards, Wright-Patterson, Carswell, Los Alamos and Sandia. It is the only link between Hanscom and UAP that Gerb found."
     category: document
     significance: minor
     entities:
@@ -360,7 +360,7 @@ Ed worked with Lockheed as a range technical contractor at Nellis in the early 2
 
 Greer's notes say Ed was briefed at Area 51's S4, where "a major said they had caught/captured lots of aircraft", by way of a 30-minute video of essentially invisible "inspection craft". Gerb takes these to be either crash retrievals or ARVs shown for inspection. He compares them with the "Flux Liner" ARVs that [[Brad Sorenson]] saw with panels removed at the 1988 exhibit described by [[Mark McCandlish]], shown at [[Norton Air Force Base]], about 80 miles from Edwards. Other witnesses he has covered describe ARVs with cloaking. He notes that the Groom Lake facility is administered by a detachment from Edwards, the base Ed would later move to.
 
-At Nellis, Ed worked at [[Building 200]] under the first commander of the 98th Range Wing, whose name is redacted. The wing, now the Nevada Test and Training Range, began operations in 2001. It is the largest contiguous air and ground space for peacetime military operations in the free world, with 2.9 million acres of land and 5,000 square miles of restricted airspace. It also supports Department of Energy testing and serves as the single point of contact for range customers. Groom Lake sits on its South Range. Gerb could not identify the first commander, so he examines [[Christopher Haave|Colonel Christopher Haave]], commander from 2005 to 2007. Haave later directed global trade controls at Boeing, managed relationships with the Office of the Secretary of Defense for Raytheon, and advised Vice President [[Dick Cheney]] on national security affairs.
+At Nellis, Ed worked at [[Building 200]] under the first commander of the 98th Range Wing, whose name is redacted. The wing, now the Nevada Test and Training Range, began operations in 2001. It is the largest contiguous air and ground space for peacetime military operations in the free world, with 2.9 million acres of land and 5,000 square miles of restricted airspace. It also supports Department of Energy testing and is the single point of contact for range customers. Groom Lake sits on its South Range. Gerb could not identify the first commander, so he examines [[Christopher Haave|Colonel Christopher Haave]], commander from 2005 to 2007. Haave later directed global trade controls at Boeing, managed relationships with the Office of the Secretary of Defense for Raytheon, and advised Vice President [[Dick Cheney]] on national security affairs.
 
 ### Hanscom (2002–2005)
 
@@ -376,11 +376,11 @@ Gerb treats the Edwards period as the most important part of the testimony. The 
 
 According to Greer, in 2008 Ed was part of an Air Force plan to go public, as director of a redacted program. A two-star general killed it in 2009–2010, and Ed moved to the Pentagon. Gerb found no confirming evidence of the plan, but he examined Air Force major generals of the period. Besides the four compared below, he names C. Donald Alston, H. Brent Baker Sr. and Randy A. Kee.
 
-What he weighs for each candidate is his rank when the plan died, and so whether he could have had the decision-making power to kill it, and the posts that link him to the story. Only his "prime suspect", Thomas K. Andersen, was already a major general then. Andersen commanded the Curtis E. LeMay Center for Doctrine Development and Education, which produces Air Force doctrine and input for joint and multinational doctrine, after Air Staff, Joint Staff, combatant command and NATO posts and a spell as chief of staff and director of intelligence at US Strategic Command. Casey D. Blake later oversaw all Air Force contracting for weapon systems, logistics and operational support as Deputy Assistant Secretary for Contracting. Christopher P. Azzano went on to command the [[Air Force Test Center]], a $31 billion enterprise of more than 19,000 people across Edwards, Eglin and Arnold.
+For each candidate he weighs two things: his rank when the plan died, which shows whether he could have had the power to kill it, and the posts that link him to the story. Only his "prime suspect", Thomas K. Andersen, was already a major general then. Andersen commanded the Curtis E. LeMay Center for Doctrine Development and Education, which produces Air Force doctrine and input for joint and multinational doctrine, after Air Staff, Joint Staff, combatant command and NATO posts and a spell as chief of staff and director of intelligence at US Strategic Command. Casey D. Blake later oversaw all Air Force contracting for weapon systems, logistics and operational support as Deputy Assistant Secretary for Contracting. Christopher P. Azzano went on to command the [[Air Force Test Center]], a $31 billion enterprise of more than 19,000 people across Edwards, Eglin and Arnold.
 
 ::wiki-compare{video="U_LSMLGBDNg" video-title="UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2]"}
 ---
-caption: "Four Air Force generals Gerb examines as the two-star who allegedly killed the 2008 go-public plan in 2009–2010."
+caption: "Four Air Force generals Gerb considers as the two-star general who allegedly killed the Air Force's 2008 plan to go public, in 2009–2010."
 attributeLabel: "Candidate"
 subjects:
   - name: "Thomas K. Andersen"
@@ -427,7 +427,7 @@ Greer and Ed said little about his Pentagon work, which was within a research an
 
 ## The Alleged Joint Program
 
-From the S4 briefing, the move to the test pilot school and the electronic warfare group, and Ed's role between engineers and test pilots, Gerb concludes with high confidence that Ed's work centred on using non-human technology to build and test ARVs. The tree below sets out the structure he derives from Ed's testimony, the 1991 document and Greer's sources. It shows Gerb's reading, not an acknowledged organisation.
+From the S4 briefing, the move to the test pilot school and the electronic warfare group, and Ed's role between engineers and test pilots, Gerb concludes with high confidence that Ed's work centred on using non-human technology to build and test ARVs. The tree below sets out the structure he derives from Ed's testimony, the 1991 document and Greer's sources. It shows Gerb's reading; no such organisation has been acknowledged.
 
 ::wiki-org-chart
 ---
@@ -479,11 +479,11 @@ root:
 
 With Area 51 and S4 long associated with Bob Lazar, Gerb asks whether other stories about Edwards support or undercut Ed's claims.
 
-- **1957, Gordon Cooper.** The Mercury astronaut said that while he was a project manager at Edwards, cameramen filming a precision landing facility watched a shiny silver saucer about 30 feet across hover, lower three landing gear and settle on the dry lake bed. They filmed it from within 20 yards before it climbed away at high speed. In a clip, Cooper says he was told by ever more senior officers to send the film to Washington by courier without running it; he held it up to a window and saw good close-up shots.
-- **1972, Project Outgrowth.** A document from the Air Force Rocket Propulsion Laboratory at Edwards, *Advanced Propulsion Concepts: [[Project Outgrowth]]*, discusses an anti-gravity program.
-- **1988, electrostatic propulsion.** A technical report for the Air Force's astronautics laboratory at Edwards explored the [[Biefeld-Brown Effect|Biefeld–Brown effect]]. Around the same time [[SAIC]], which Gerb has tied to the study of off-world technology, studied similar electric propulsion for Edwards.
-- **1990, Aviation Week.** An article reported 45 sightings of aircraft accelerating from near-hover to supersonic speed over Edwards, George Air Force Base and [[China Lake Naval Air Weapons Station|China Lake]]; one was triangular.
-- **1998, Edgar Fouché.** The Air Force master sergeant said that at a defense advanced research facility under the Jet Propulsion Laboratory at Edwards in 1979, a full anti-gravity propulsion system was developed for a secret space fleet. He also said graduates of the Edwards test pilot school flew the TR-3B.
+- Gordon Cooper, the Mercury astronaut, said that in 1957, while he was a project manager at Edwards, cameramen filming a precision landing facility watched a shiny silver saucer about 30 feet across hover, lower three landing gear and settle on the dry lake bed. They filmed it from within 20 yards before it climbed away at high speed. In a clip, Cooper says he was told by ever more senior officers to send the film to Washington by courier without running it; he held it up to a window and saw good close-up shots.
+- A 1972 document from the Air Force Rocket Propulsion Laboratory at Edwards, *Advanced Propulsion Concepts: [[Project Outgrowth]]*, discusses an anti-gravity program.
+- A 1988 technical report for the Air Force's astronautics laboratory at Edwards explored electrostatic propulsion through the [[Biefeld-Brown Effect|Biefeld–Brown effect]]. Around the same time [[SAIC]], which Gerb has tied to the study of off-world technology, studied similar electric propulsion for Edwards.
+- In 1990 an Aviation Week article reported 45 sightings of aircraft accelerating from near-hover to supersonic speed over Edwards, George Air Force Base and [[China Lake Naval Air Weapons Station|China Lake]]; one was triangular.
+- In 1998 testimony, Air Force master sergeant Edgar Fouché said that at a defense advanced research facility under the Jet Propulsion Laboratory at Edwards in 1979, a full anti-gravity propulsion system was developed for a secret space fleet. He also said graduates of the Edwards test pilot school flew the TR-3B.
 
 Edwards also appears many times in Leonard Stringfield's *Crash Retrieval Status Reports*. Gerb takes three cases from them.
 
@@ -503,7 +503,7 @@ Gerb says Epigoni's account, in which the beings walked out of the craft, lay do
 
 ## The 1991 Document and Blackjack
 
-In July 1991 an allegedly classified NRO document leaked. It informed need-to-know groups that civilian flying saucer organisations were planning protests in Nevada. Greer says he gave it to Admiral [[Thomas Wilson]] of the [[Wilson-Davis Memo]]; Gerb says the meeting between them at least can be confirmed. Wilson allegedly told Greer he recognised one of the entities listed and that it was run by a contractor. The addressees include Royal Ops, Cosmic Ops, M Ops and Majic Ops; the Air Force's 26th, 64th, 65th and 527th units; Nellis AFOSI; Groom Lake and Dreamland; Area 51 S4; AquaTech; the Sea Spray special operations group; and a [[Blackjack Team]].
+In July 1991 an allegedly classified NRO document leaked. It informed need-to-know groups that civilian flying saucer organisations were planning protests in Nevada. Greer says he gave it to Admiral [[Thomas Wilson]] of the [[Wilson-Davis Memo]]; Gerb says that at least the meeting between them can be confirmed. Wilson allegedly told Greer he recognised one of the entities listed and that it was run by a contractor. The addressees include Royal Ops, Cosmic Ops, M Ops and Majic Ops; the Air Force's 26th, 64th, 65th and 527th units; Nellis AFOSI; Groom Lake and Dreamland; Area 51 S4; AquaTech; the Sea Spray special operations group; and a [[Blackjack Team]].
 
 Greer says inside sources, including one inside Blackjack Control, told him of two entities that work together. Gerb's narration and a Greer clip in the video then assign them to opposite bases. In the clip, presenting a list of key facilities he says he updated "for the president in '09", Greer names Edwards as a chief one with "a whole constellation" around it: Haystack Butte, China Lake, George Air Force Base, the retired Norton Air Force Base, NASA's Table Mountain Observatory and Blackjack Control.
 
@@ -583,7 +583,7 @@ pins:
 ---
 ::
 
-He wishes he knew more about Ed's Pentagon years, and says Ed has now gone "off books", unreachable by phone, social media or email. If Greer is right and Ed has testified, the testimony is "impactful beyond belief", but he asks whether that is one of Greer's embellishments. He hopes to see Ed before the Senate intelligence committee or at the open hearings expected that November.
+Gerb wishes he knew more about Ed's Pentagon years, and says Ed has now gone "off books", unreachable by phone, social media or email. If Greer is right and Ed has testified, the testimony is "impactful beyond belief", but he asks whether that is one of Greer's embellishments. He hopes to see Ed before the Senate intelligence committee or at the open hearings expected that November.
 
 > [!note] Where the sources differ
 > The documents disagree on a few details. Module 3 says the lieutenant colonel left the Air Force in 2009, while the email gives an early retirement in 2015 after years at the Pentagon. The email gives five years at Edwards, while the call notes span 2006 to 2010. Gerb's narration puts Blackjack Control at Nellis and Blackjack Team at Edwards, but Greer's clip reverses them. Stringfield recorded Epigoni changing the body count from twelve to four. Gerb calls the range wing the "998th"; its designation was the 98th Range Wing.
@@ -622,7 +622,7 @@ entries:
     note: "Allegedly told Greer he recognised a contractor-run entity on the 1991 NRO document."
   - name: "Catherine Austin Fitts"
     role: "Former HUD assistant secretary"
-    note: "Her 2017 black budget paper is Gerb's context for Ed's non-blue transfers."
+    note: "Gerb uses her 2017 paper on the black budget as context for the non-blue, or non-Air Force, transfers Ed noted."
 ---
 ::
 

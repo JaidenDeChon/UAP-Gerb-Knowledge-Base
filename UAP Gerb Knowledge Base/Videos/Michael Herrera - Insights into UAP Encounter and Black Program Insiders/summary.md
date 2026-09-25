@@ -15,32 +15,32 @@ tags:
 stats:
   - value: "6 v 8"
     label: Marines v operators
-    hint: At the clearing, 2009
+    hint: Six Marines held at gunpoint by eight armed men in Indonesia, 2009
   - value: 4
     label: Black trucks
-    hint: Each towing a container
+    hint: Each towed a shipping container onto the platform
   - value: "~10 ft"
-    label: Platform lift
-    hint: Before the craft left
+    label: Platform rose
+    hint: The platform under the craft rose this high before it flew off
   - value: 3
     label: AARO questions
-    hint: All about the operators
+    hint: "Herrera says AARO, the Pentagon's UAP office, asked one thing three times: who were the operators?"
 ---
 ::
 
 ## Overview
 
-This video is an in-person interview with [[Michael Herrera]], a former [[United States Marine Corps]] SAW gunner who says that in October 2009, during a humanitarian relief mission in Indonesia, he and five other Marines came upon a large, silent, octagonal craft on a raised platform, four black trucks towing shipping containers, and eight armed operators who held them at gunpoint. UAP Gerb co-hosts with the researcher [[Joey Is Not My Name]], one of the first people to investigate Herrera's story seriously, who appears on camera here for the first time. Gerb says he was dismissive of Herrera when he first covered him in *[[Videos/The Marines Who Got too Close to UFOs/summary|The Marines Who Got too Close to UFOs]]*, but has since spent months investigating the case privately. The interviewers deliberately ask the "lesser-asked" questions, assuming viewers already know the basics from Gerb's earlier video with Joey or Herrera's appearance on the Shawn Ryan Show.
+This video is an in-person interview with [[Michael Herrera]], a former [[United States Marine Corps]] SAW gunner who says that in October 2009, during a humanitarian relief mission in Indonesia, he and five other Marines came upon a large, silent, octagonal craft on a raised platform, four black trucks towing shipping containers, and eight armed operators who held them at gunpoint. Gerb co-hosts with [[Joey Is Not My Name]], a researcher who was one of the first to investigate Herrera's story seriously; this is Joey's first appearance on camera. Gerb says he was dismissive of Herrera when he first covered him in *[[Videos/The Marines Who Got too Close to UFOs/summary|The Marines Who Got too Close to UFOs]]*, but has since spent months investigating the case privately. The interviewers deliberately ask the "lesser-asked" questions, assuming viewers already know the basics from Gerb's earlier video with Joey or Herrera's appearance on the Shawn Ryan Show.
 
 The interview opens at the moment of the sighting and then goes back through the mission in order. Herrera draws the craft and the trucks on paper. He describes the interception, his disarming and the scanning of his military ID, and the platform rising as the craft turned from matte grey to matte black and flew off. He then walks through life aboard the [[USS Denver]], the wardroom briefing, and the flight to an empty landing zone. Joey brings in open-source material that he says corroborates the setting, including a press briefing by Rear Admiral [[Richard B. Landolt]] and photographs of armed Marines guarding relief helicopters. Herrera insists the craft was man-made and crewed by humans, and that he never told [[AARO]] he saw an extraterrestrial vehicle or US Special Forces, as the [[AARO Historical Report Volume 1]] later stated.
 
-The last third concerns what happened after Herrera went public in June 2023. After his talk at a [[Steven Greer]] event, an insider sent Greer an encrypted message saying he knew what Herrera saw. Herrera later met a man he describes as a CIA [[Non-Official Cover (NOC)|non-official cover]] officer, who was screened for tracking chips, handed him a pistol, apologized for the harassment he had suffered and took him underground. Through these insiders Herrera relays allegations of a war between factions inside an unacknowledged program, shoot-downs of non-human craft, weapons tested on reverse-engineered vehicles, and people taken as "[[Pink Assets|pink assets]]". Joey describes how he verified the meeting on his own by tracking the helicopter flight on radar.
+The last third concerns what happened after Herrera went public in June 2023. After his talk at a [[Steven Greer]] event, an insider sent Greer an encrypted message saying he knew what Herrera saw. Herrera later met a man he describes as a CIA [[Non-Official Cover (NOC)|non-official cover]] officer, who screened him for tracking chips, handed him a pistol, apologized for the harassment he had suffered and took him underground. Through these insiders Herrera relays allegations of a war between factions inside an unacknowledged program, shoot-downs of non-human craft, weapons tested on reverse-engineered vehicles, and people taken as "[[Pink Assets|pink assets]]". Joey describes how he verified the meeting on his own by tracking the helicopter flight on radar.
 
 ## Chronology
 
 ::wiki-timeline{video="4EMO38JUfVE" video-title="Michael Herrera - Insights into UAP Encounter and Black Program Insiders"}
 ---
-help: "The bar above the entries is a ruler from 2009 to 2024. Each tick is an entry, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The thin line with the upward arrow is where you are reading. While the video plays, the thicker line with the downward arrow is where the interview is. The interview opens on the sighting and then goes back to the start of the mission, so the playhead jumps backwards early on. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Timestamps jump the mini-player to that moment."
+help: "The bar above the list runs from 2009 to 2024, with a coloured mark for each entry; taller marks are major entries. Click the bar to jump to a year. The dark line shows which entry you are reading. Play from here starts the video at that entry. Once the video is playing, a green line shows which entry it has reached. The interview opens on the sighting and then goes back to the start of the mission, so the green line jumps backwards early on. Turn on Follow video to have the list scroll along with the video; scrolling yourself turns it off. Click a timestamp to play the video from that moment."
 eras:
   - id: indonesia
     label: "Indonesia, 2009"
@@ -55,7 +55,7 @@ eras:
   - id: forward
     label: "Coming forward"
     from: 2023
-    summary: "AARO, the National Press Club, the insiders, and AARO's account of his testimony."
+    summary: "Herrera testifies to AARO and at the National Press Club, is contacted by insiders, and disputes how AARO later reported his testimony."
 events:
   - date: "2009"
     title: "Forward-deployed to Japan on officer's chow detail"
@@ -200,7 +200,7 @@ events:
   - date: "2023"
     title: "Joey tracks the helicopter on radar"
     cue: 5596
-    summary: "Having secretly recorded a call with Herrera the day before, Joey tracks the helicopter flight to the meeting on radar, checks its take-off time against Herrera's, and cross-checks events on the ground with local news. He calls it the pivotal moment in his own belief."
+    summary: "Having secretly recorded a call with Herrera the day before, Joey tracks the helicopter flight to the meeting on radar, checks its take-off time against Herrera's, and cross-checks events on the ground with local news. He calls it the turning point in his own belief."
     category: event
     significance: notable
     entities:
@@ -245,7 +245,7 @@ events:
 
 ## The Encounter
 
-The interview opens at the top of the hill. Herrera stresses that the Marines at first saw only the top of the object: something changing colour just above the tree line, in an area with no buildings, sticking out "like a sore thumb" against the green. The decision to go down and look was made by the man in charge of the group, not by Herrera, and it meant leaving their post. Nobody chambered a round. They expected to find nothing and walk back up.
+The interview opens at the top of the hill. Herrera stresses that the Marines at first saw only the top of the object: something changing colour just above the tree line, in an area with no buildings, sticking out "like a sore thumb" against the green. The man in charge of the group, not Herrera, decided to go down and look, which meant leaving their post. Nobody chambered a round. They expected to find nothing and walk back up.
 
 The interceptors were on them "as soon as we broke that threshold" into the clearing, where the trees were no thicker than a water bottle and gave no cover. Herrera first heard yelling, then saw rifles aimed at them and heard safeties click off in the silence. The only sound from the craft was a low hum, something like a guitar amp or a transformer. For a moment the Marines thought these might be the Navy SEALs mentioned at the briefing, but the men carried no identifying markings and did not carry themselves like SEALs. Four stood on each side, giving interlocking fields of fire; special operators later told Herrera this was an easy, basic setup. Six Marines with three-round-burst and semi-automatic rifles faced eight men who may have had fully automatic M4s. From what he has since been told, there were more operators out of sight. :wiki-cue{t=315 video="4EMO38JUfVE" video-title="Michael Herrera - Insights into UAP Encounter and Black Program Insiders"}
 
@@ -284,7 +284,7 @@ The briefing came in the Denver's wardroom from a female Marine major in woodlan
 ---
 kind: custody
 label: "The mission, stage by stage"
-caption: "Where Herrera's stick of six Marines went, in the order he recalls it. Each chip jumps to where he describes that stage."
+caption: "Where Herrera's group of six Marines went, in the order he remembers it. Click a timestamp to play the video from where he describes that stop."
 steps:
   - text: "Wardroom, USS Denver"
     note: "A female Marine major briefs the volunteers: security for a supply drop."

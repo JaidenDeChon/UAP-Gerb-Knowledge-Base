@@ -15,16 +15,16 @@ tags:
 stats:
   - value: "20 s"
     label: Length of the clip
-    hint: "on YouTube since 14 May 2008"
+    hint: "The UFO clip has been on YouTube since 14 May 2008."
   - value: "10–15 ft"
-    label: Object from the canopy
-    hint: "per the alleged comms log"
+    label: Distance from the canopy
+    hint: "How far the object hung from the fighter's canopy, according to an allegedly leaked cockpit log."
   - value: "2,820 kt"
-    label: Bogey's closing speed
-    hint: "as the log's WSO calls it"
+    label: Unknown contact's closing speed
+    hint: "The speed of the radar contact, or bogey, as the weapon systems officer calls it in the alleged cockpit log."
   - value: "1,292"
     label: UFO cases analysed
-    hint: "in the alleged report's Section 5"
+    hint: "Counted in Section 5 of the allegedly leaked report."
 ---
 ::
 
@@ -40,18 +40,18 @@ The last and, in Gerb's words, most enigmatic step is an [[Alleged Leaked UAP Ta
 
 Gerb opens by recalling Elizondo's remark that footage has leaked into the public realm that shocked him by never breaking global news, and suggests the Flyby may be such a clip, seen but dismissed as fake or passed over. In the GQ interview, asked about the Gimbal, Go Fast and "Pentagon UFO" videos, Elizondo called them among the least compelling footage the government holds: one unreleased video runs 23 minutes, and in another "this thing is 50 ft away from the cockpit". He added that officials were 99% sure such objects are not foreign adversarial technology, which leaves "someone or something else".
 
-Mellon, the former Deputy Assistant Secretary of Defense for Intelligence and staff director of the [[Senate Select Committee on Intelligence]], made a similar statement on *The Joe Rogan Experience*. Gerb is unsure whether Mellon and Elizondo were describing the same video, and is "100% positive" that Mellon's is not the Flyby footage. His point is narrower: both men's accounts mean that, whatever the Flyby clip is, UFOs have been recorded travelling within about 15 metres of aircraft.
+Mellon, the former Deputy Assistant Secretary of Defense for Intelligence and staff director of the [[Senate Select Committee on Intelligence]], made a similar statement on *The Joe Rogan Experience*. Gerb is unsure whether Mellon and Elizondo were describing the same video, and is "100% positive" that Mellon's is not the Flyby footage. What he takes from both men's accounts is that, whatever the Flyby clip is, UFOs have been recorded travelling within about 15 metres of aircraft.
 
 ## Tracing the Footage
 
 Gerb can follow the clip back only to around April 2008, when it was posted on the website UFO Chronicles under the title "Flying Saucer UFO filmed from jet window". It began appearing on YouTube the following month, and he found no trace of it before April 2008.
 
-The clip is not the original recording. Gerb shows that it is a [[Second-Generation Recording]]: someone filmed the original footage as it played on a computer screen. Reflections of equipment are visible on the glass. One possibility is the camera used to film the screen, but Gerb thinks it more likely that these are objects inside the aircraft's cockpit reflecting off the canopy: a camcorder mounted in the cockpit, with possible further catches of a [[Gentex MBU-23P Pilot Respirator Mask|Gentex MBU-23/P]] pilot's oxygen mask.
+The clip is a [[Second-Generation Recording]], Gerb shows: someone filmed the original footage as it played on a computer screen. Reflections of equipment are visible on the glass. One possibility is the camera used to film the screen, but Gerb thinks it more likely that these are objects inside the aircraft's cockpit reflecting off the canopy: a camcorder mounted in the cockpit and possibly a [[Gentex MBU-23P Pilot Respirator Mask|Gentex MBU-23/P]] pilot's oxygen mask.
 
 ::wiki-chain{video="qD1KnudMCO0" video-title="Incredible UFO Footage - FLYBY"}
 ---
 kind: transmission
-caption: "How the Flyby clip reached the public, as Gerb reconstructs it. The first two steps are his inferences from the image; the trail he can document starts in April 2008."
+caption: "How the Flyby UFO clip reached the public, as Gerb reconstructs it. He infers the first two steps from the picture itself. The trail he can document starts in April 2008."
 steps:
   - text: "Original recording in a military cockpit"
     note: "Gerb's inference: a camcorder behind the pilot's seat, filming through the canopy."
@@ -91,7 +91,7 @@ The clip carries a loud, muffled noise and possibly human voices. Gerb sets out 
 ---
 term: "Explanation"
 label: "Where the sound comes from"
-caption: "Gerb's two explanations for the audio, with the comparison he plays for each and the Reddit analysis he cites."
+caption: "Gerb's two explanations for the sound on the Flyby clip, with the comparison he plays for each and the Reddit analysis he cites."
 claims:
   - title: "The cockpit's own sound"
     by: "Gerb"
@@ -118,11 +118,7 @@ The 2019 comparison is the video of a sphere entering the ocean released by Jere
 
 ## The Craft
 
-Gerb then turns briefly to the object itself, which he says closely resembles the most famous saucer accounts:
-
-- **Robert Jacobs' warhead footage.** The craft is almost identical to the saucer that Lieutenant [[Robert Jacobs]] described in the film of a dummy warhead being shot down (see [[Vandenberg Air Force Base UFO Film Incident]]). Jacobs compared the dome on its upper side to half a ping-pong ball, and the Flyby craft has the same protrusion on top.
-- **The McMinnville photographs.** The same upper protrusion appears in the [[McMinnville UFO Photographs]], which Gerb counts among the most famous UFO pictures ever taken.
-- **The tilt.** The craft flies at an angle, as saucers do in numerous photographs and encounter descriptions. Even [[Bob Lazar]], "controversial as he is", claimed that disc-shaped craft fly "belly towards their destination".
+Gerb then turns briefly to the object itself, which he says closely resembles the most famous saucer accounts. It is almost identical to the saucer that Lieutenant [[Robert Jacobs]] described in the film of a dummy warhead being shot down (see [[Vandenberg Air Force Base UFO Film Incident]]). Jacobs compared the dome on its upper side to half a ping-pong ball, and the Flyby craft has the same protrusion on top. The same feature appears in the [[McMinnville UFO Photographs]], which Gerb counts among the most famous UFO pictures ever taken. The craft also flies at an angle, as saucers do in numerous photographs and encounter descriptions. Even [[Bob Lazar]], "controversial as he is", claimed that disc-shaped craft fly "belly towards their destination".
 
 ## The Leaked Comms Log
 
@@ -138,12 +134,12 @@ The log is a cockpit voice recording of an intercept. Gerb identifies three part
 ---
 kind: consequence
 label: "The intercept, as the alleged log records it"
-caption: "The sequence of the comms log, step by step, as Gerb reads it out. Gerb's glosses on the brevity terms are in the notes."
+caption: "What happens in the allegedly leaked cockpit communications log, in order, as Gerb reads it out. The notes give his explanations of the military radio jargon."
 steps:
   - text: "BLK guides Club 11 toward a bogey"
     note: "A contact seen on radar. The fighter cannot see it at first."
     cue: 615
-  - via: "The WSO catches it on radar"
+  - via: "The weapon systems officer (WSO) catches it on radar"
     text: "Bogey closing at 2,820 knots"
     note: "The WSO tells the pilot it is coming at them."
     cue: 625
@@ -226,16 +222,16 @@ entries:
     note: "Said on The Joe Rogan Experience that he had seen footage of a UAP right next to a pilot. Gerb is certain Mellon did not mean the Flyby clip."
   - name: "Robert Jacobs"
     role: "Former USAF lieutenant, Vandenberg optical instrumentation"
-    note: "The saucer in his warhead-shootdown account, with its dome like half a ping-pong ball, is almost identical to the Flyby craft in Gerb's view."
+    note: "In Gerb's view, the saucer in Jacobs' account of the warhead being shot down, with its dome like half a ping-pong ball, is almost identical to the Flyby craft."
   - name: "Bob Lazar"
     role: "Alleged S-4 reverse-engineering participant"
     note: "His claim that discs fly \"belly towards their destination\" matches the Flyby craft's tilt."
   - name: "K Shakoya"
     role: "Named in the alleged report"
-    note: "Credited with the Section 5 finding of generational changes in UA/SP, and with its latest contribution, in 2020."
+    note: "Credited on the alleged report's Section 5 page with its finding of generational changes in UA/SP (unidentified aerial and submerged phenomena), and with the page's latest contribution, dated 2020."
   - name: "Danny Lampkin"
     role: "YouTube uploader, 2008"
-    note: "The long-dead channel that posted the clip to YouTube, unsure about it but leaving viewers to decide."
+    note: "The long-dead YouTube channel that posted the clip. Its description said the uploader was unsure about it and would leave viewers to decide."
 ---
 ::
 

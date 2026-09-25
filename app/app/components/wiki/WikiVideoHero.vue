@@ -137,7 +137,7 @@ function play(): void {
 
         <dl v-if="runtime" class="ufo-hero-hud mt-6" aria-label="Video details">
           <div class="ufo-hero-hud-item">
-            <dt>Runtime</dt>
+            <dt>Video length</dt>
             <dd class="tabular-nums">{{ runtime }}</dd>
           </div>
         </dl>
@@ -150,12 +150,12 @@ function play(): void {
           <Button v-if="transcriptTo" as-child variant="outline" size="sm">
             <NuxtLink :to="transcriptTo">
               <FileText class="size-3.5" />
-              Transcript
+              Read transcript
             </NuxtLink>
           </Button>
           <Button v-if="watchUrl" as-child variant="ghost" size="sm">
             <a :href="watchUrl" target="_blank" rel="noopener noreferrer">
-              YouTube
+              Watch on YouTube
               <ExternalLink class="size-3.5" />
             </a>
           </Button>

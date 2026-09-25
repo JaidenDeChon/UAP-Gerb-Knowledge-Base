@@ -268,12 +268,20 @@ reader passes each node.
 Controls on the chronometer: click anywhere on the ruler (or a tick) to
 scroll to the nearest entry; drag the reading cursor to scrub, and the page
 scrolls continuously so the cursor stays under the pointer (this also turns
-Follow off); the ruler is a keyboard `slider` (←/→ step,
-PageUp/PageDown ±5, Home/End, Enter = Sync); **Sync** seeks the video to the
-entry being read; **Follow** (only while the dock holds this page's video)
-lets the video scroll the page to each entry as it is discussed, and switches
-itself off the moment the reader scrolls; the filter button opens the
-category / "Major only" chips in a popover; the (i) button shows `help`.
+Follow video off); the ruler is a keyboard `slider` (←/→ step,
+PageUp/PageDown ±5, Home/End, Enter = Play from here); **Play from here**
+(internally "Sync") seeks the video to the entry being read; **Follow video**
+(internally "Follow", only while the dock holds this page's video) lets the
+video scroll the page to each entry as it is discussed, and switches itself
+off the moment the reader scrolls; the filter button opens the "All types" /
+category / "Major entries only" chips in a popover; the (i) button ("How to
+use this timeline") shows `help`.
+
+Reader-facing text never uses the builder names in this section (ruler,
+tick, playhead, cursor, cue, chip, dock). In `help` strings and captions call
+them the bar of years above the list, marks, the dark line (reading
+position), the green line (video position), timestamps and the mini-player,
+and name the buttons exactly as they are labelled.
 
 Props:
 
@@ -306,7 +314,8 @@ hinges:
 Era membership is by year (`eraOf`: the *last* era whose `from` is at or
 before the event's year, so a boundary year belongs to the era that starts
 there). Events before the first era form an automatic "Prologue" chapter,
-events after a closed last era a "Coda", undated ones "Undated". An event can
+events after a closed last era a "Coda", undated ones "Undated". On the page
+the first two are labelled "Before the first era" and "After the last era". An event can
 force its chapter with `era: <id>` — the pilot uses this once, because both
 1994 entries share a year while one closes the Cold War era and the other
 opens the Modern one.
@@ -326,7 +335,7 @@ events:
       - "David Grusch"
       - "Roswell Crash"
     significance: major       # optional — only "major" has any effect
-                               # (bigger dot, "Major only" filter)
+                               # (bigger dot, "Major entries only" filter)
     cue: 1502                 # optional — second offset into `video` where this
                                # entry is discussed. Only rendered when the
                                # block's `video` attribute is also set. See
@@ -352,7 +361,7 @@ Behaviour worth knowing:
   circa date like `"c. 1980s"` groups by `1980`, not into a catch-all.
 - Category filter chips are auto-derived from whatever `category` values are
   present in `events` (deduplicated, sorted) — there's no separate list to
-  maintain. A "Major only" toggle is always shown. Filters hide entries from
+  maintain. A "Major entries only" toggle is always shown. Filters hide entries from
   the list but only *dim* their ticks on the ruler, so the shape of the whole
   span never changes; a dimmed tick is inert, and a ruler click lands on the
   nearest *visible* entry — filters are never cleared behind the reader's back.
@@ -360,7 +369,7 @@ Behaviour worth knowing:
   5-year edges around the earliest/latest event or era, `fractionalYear`
   places a tick by month, `assignLanes` stacks anything closer than ~1.6% of
   the axis. All of it lives in `app/app/utils/timeline.ts` with unit tests.
-- "Now discussing" resolves in **cue order**, not date order (`nowPlayingIndex`:
+- The "Video is here" tag (formerly "Now discussing") resolves in **cue order**, not date order (`nowPlayingIndex`:
   the entry with the greatest `cue` at or before the player's time). The
   pilot's host cross-cuts — the 2002 Northrop/TRW entry is cued inside the
   1953 Kingman segment — so the playhead is allowed to leap backwards on the
@@ -569,7 +578,7 @@ entries:
 
 The outline badge above each name (e.g. "PEOPLE", with the category's icon)
 is the resolved entity's vault category, read via `useWikiResolve`; an entry
-whose `name` doesn't resolve shows "Unlinked" there instead and renders its
+whose `name` doesn't resolve shows "No entry yet" there instead and renders its
 name as plain text (see gotcha 2).
 
 **Portraits.** A person whose ref carries an `image` (see "People
@@ -750,8 +759,8 @@ What else it renders:
   1990s Pentagon audit"): a neutral card with a dashed border. Each card can
   carry a date kicker, a one-line note and a cue chip (`WikiCue`, only when
   the block has `video=`).
-- **Kind.** `kind` sets the kicker over the chain ("Chain of custody",
-  "Chain of consequence", "Chain of transmission") and the default verb.
+- **Kind.** `kind` sets the kicker over the chain ("Where it went, step by step",
+  "What led to what", "How the account was passed on") and the default verb.
   `transmission` draws every line dashed (word of mouth); the others solid.
   `label` overrides the kicker, e.g. "Lineage" or "Chain of ownership".
 - **Accessibility.** The chain is an `<ol>` named by its kicker (and
@@ -905,7 +914,7 @@ Props:
 | `claim` | `Claim` | *(none)* | YAML body. A single claim (shorthand). Ignored when `claims` has entries |
 | `responses` | `Response[]` | `[]` | YAML body. Responses to the single `claim`; wins over a `responses` list nested inside it |
 | `claims` | `Claim[]` | `[]` | YAML body. Several claims, each with its own nested `responses` |
-| `label` | `string` | `''` | YAML body. Replaces the kicker ("Claim and response", or "Claims and responses" for several) |
+| `label` | `string` | `''` | YAML body. Replaces the kicker ("A claim and how people responded", or "Claims and how people responded" for several) |
 | `term` | `string` | `''` | YAML body. The word on each claim's tag; defaults to "Claim" |
 | `caption` | `string` | `''` | YAML body. Shown under the block; also folded into the list's accessible name |
 | `video` | `string` | `''` | Attribute. YouTube id; gates every cue chip |
@@ -1852,8 +1861,11 @@ End to end, from nothing to a page with a working dock and cued timeline:
    see the `::wiki-timeline` props table above).
 6. **Frame the eras.** Add an `eras:` list (and any `hinges:`) to the
    `::wiki-timeline` YAML, using the video's own periodisation, plus a
-   one-paragraph `help:` string. Without `eras` the block still works and
-   groups by decade.
+   one-paragraph `help:` string. Write `help` for a reader who landed from a
+   search and has never seen this widget: a few short sentences, most useful
+   first, using the controls' on-screen names (see the note under "Controls on
+   the chronometer"). Without `eras` the block still works and groups by
+   decade.
 7. **Check the entry point.** A video summary page's hero already carries
    the play button; add a `::wiki-watch` block only where a mid-article
    prompt is wanted.

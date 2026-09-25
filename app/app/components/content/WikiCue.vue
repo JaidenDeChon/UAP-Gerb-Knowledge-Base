@@ -39,7 +39,7 @@ const isApprox = computed(() => props.approx === true || props.approx === 'true'
  * the timeline entry it belongs to.
  */
 const ariaLabel = computed(() => {
-  const base = `Jump to ${label.value} in the video`
+  const base = `Play the video from ${isApprox.value ? 'about ' : ''}${label.value}`
   return props.entryTitle ? `${base} (${props.entryTitle})` : base
 })
 
@@ -76,7 +76,7 @@ function go(): void {
     type="button"
     class="ufo-cue"
     :class="{ 'is-approx': isApprox }"
-    :title="isApprox ? 'Approximate timestamp' : 'Jump to this moment'"
+    :title="isApprox ? 'Play the video from about this moment (the time is an estimate)' : 'Play the video from this moment'"
     :aria-label="ariaLabel"
     @click="go"
   >

@@ -14,17 +14,17 @@ tags:
 ---
 stats:
   - value: 16
-    label: AEC specialists
-    hint: "Bussed to the site, per Stansel"
+    label: Specialists sent in
+    hint: "Atomic Energy Commission (AEC) staff bussed to the crash site, per Stansel"
   - value: "30 ft"
     label: Craft diameter
-    hint: "Uhouse later said 30 m"
+    hint: "Stansel's figure; Uhouse later said 30 m"
   - value: "1,200"
-    label: MPH at impact
-    hint: "Stansel's estimate; not a scratch"
+    label: Impact speed (mph)
+    hint: "Stansel's estimate, yet the craft had not a scratch on it"
   - value: 5
-    label: Years before Marcel
-    hint: "Kingman surfaced in 1973"
+    label: Years before Marcel spoke
+    hint: "Stansel's account came out in 1973, before Jesse Marcel went public about Roswell"
 ---
 ::
 
@@ -32,7 +32,7 @@ stats:
 
 This video examines the alleged crash and recovery of an unknown craft near [[Kingman, Arizona]] on the night of 20–21 May 1953, one of Gerb's "all-time favorite" crash retrievals and, he argues, one massively overshadowed by the 1947 [[Roswell Crash]]. It happened during the UFO wave of 1952–1954 and in the middle of [[Operation Upshot-Knothole]], the [[Atomic Energy Commission]]'s spring 1953 series of eleven nuclear test shots at the [[Nevada National Security Site (Nevada Test Site)|Nevada Proving Ground]]. Gerb's case rests on two witnesses he calls "extremely credible" because their backgrounds can be checked, and on their links to what he calls "our usual suspects": the AEC and [[Wright-Patterson Air Force Base]].
 
-The first witness is [[Arthur Stansel Jr.]], a Wright-Patterson engineer working on blast effects at Upshot-Knothole, whose account [[Raymond Fowler]] made public in 1973 under the pseudonym "Fritz Werner", five years before [[Jesse Marcel]] went public about Roswell. In a sworn affidavit Stansel described being flown and bussed, with fifteen other AEC specialists, to an oval craft about 30 feet across that had buried itself 20 inches in the sand without a scratch, and glimpsing its only occupant, a dead humanoid about four feet tall in a silvery metallic suit, in a guarded tent. Gerb follows Stansel's chain of command to two men with deeper alleged ties to crash retrieval: [[Edward Bushnell Doll|Ed Doll]], Upshot-Knothole's project director, who phoned him the night before, and [[Eric Henry Wang]], head of the special studies office he worked in at Wright Field.
+The first witness is [[Arthur Stansel Jr.]], a Wright-Patterson engineer working on blast effects at Upshot-Knothole, whose account [[Raymond Fowler]] made public in 1973 under the pseudonym "Fritz Werner", five years before [[Jesse Marcel]] went public about Roswell. In a sworn affidavit Stansel described being flown and bussed, with fifteen other AEC specialists, to an oval craft about 30 feet across that had buried itself 20 inches in the sand without a scratch. In a guarded tent he glimpsed its only occupant, a dead humanoid about four feet tall in a silvery metallic suit. Gerb follows Stansel's chain of command to two men with deeper alleged ties to crash retrieval: [[Edward Bushnell Doll|Ed Doll]], Upshot-Knothole's project director, who phoned him the night before, and [[Eric Henry Wang]], head of the special studies office he worked in at Wright Field.
 
 The second witness is [[Bill Uhouse]], a Marine Corps veteran who told [[Steven Greer]]'s [[Disclosure Project]] that the Kingman craft became the model for a flying disc simulator he helped build, and that the craft went to [[Area 51]] and its dead pilots to [[Los Alamos National Laboratory|Los Alamos]]. Gerb argues that disclosing through Greer should not by itself discredit a witness, and relies on [[Richard Geldreich Jr.]]'s newspaper research to verify Uhouse's service. He places the case inside the secrecy that followed it, from [[USAF Regulation 200-2]] to the [[Atomic Energy Act of 1954]], and closes with weaker and false witnesses, including [[Judy Wolcott]], and a debunking theory he finds unconvincing.
 
@@ -40,7 +40,7 @@ The second witness is [[Bill Uhouse]], a Marine Corps veteran who told [[Steven 
 
 ::wiki-timeline{video="41V4Pf_8oo4" video-title="The 1953 Kingman, Arizona UFO Crash"}
 ---
-help: "The bar pinned above the entries is a ruler of the story from Stansel's war service in 1944 to the 2023 defence bill. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The dashed marker is 1978, when Jesse Marcel went public about Roswell. While the video plays, a second line marks where Gerb is. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Every timestamp here was checked against the video's captions."
+help: "The bar above the list runs from Stansel's war service in 1944 to the 2023 defence bill, with a mark for each entry. Marks are coloured by type, and taller ones are major entries. Click the bar to jump to the nearest entry. The dashed line marks 1978, when Jesse Marcel went public about Roswell. The dark line shows the entry you are reading. Play from here starts the video at that entry, and once it is playing a green line shows where Gerb is. Turn on Follow video to have the list scroll along with the video; scrolling yourself turns it off. Click a timestamp to play the video from that moment. Every timestamp here was checked against the video's captions."
 eras:
   - id: before
     label: "The witnesses before Kingman"
@@ -215,13 +215,13 @@ events:
 
 ## Stansel's Night: 20–21 May 1953
 
-On 20 May 1953, by his account, Stansel spent most of the day at [[Frenchman's Flat, Nevada|Frenchman Flat]], measuring the blast effects of the Upshot-Knothole shots on buildings put up for the tests; he was an engineer on Air Force contract to the AEC. That evening Dr. Ed Doll telephoned to say he would be doing a special job the next day. What followed, as Gerb retells it, is a sequence of security measures as much as a journey: the specialists were separated from their valuables, moved by air and then by a bus they could not see out of, told only what their own speciality required, and sworn to silence on the way back.
+On 20 May 1953, by his account, Stansel spent most of the day at [[Frenchman's Flat, Nevada|Frenchman Flat]], measuring the blast effects of the Upshot-Knothole shots on buildings put up for the tests; he was an engineer on Air Force contract to the AEC. That evening Dr. Ed Doll telephoned to say he would be doing a special job the next day. As Gerb retells it, the trip that followed was one security measure after another: the specialists were separated from their valuables, moved by air and then by a bus they could not see out of, told only what their own speciality required, and sworn to silence on the way back.
 
 ::wiki-chain{video="41V4Pf_8oo4" video-title="The 1953 Kingman, Arizona UFO Crash"}
 ---
 kind: custody
-label: "The specialists' night"
-caption: "How Stansel says he was brought to the craft and back, as Gerb retells his statements to Raymond Fowler. Fifteen other AEC specialists made the same trip."
+label: "Stansel's night, step by step"
+caption: "How Stansel says he was brought to the craft and back, as Gerb retells his statements to Raymond Fowler. Fifteen other specialists from the Atomic Energy Commission (AEC) made the same trip."
 steps:
   - name: "Frenchman's Flat, Nevada"
     date: "1953-05-20"
@@ -229,7 +229,7 @@ steps:
     cue: 160
   - via: "That evening, a phone call"
     name: "Edward Bushnell Doll"
-    note: "Upshot-Knothole's project director tells him he will do a special job tomorrow."
+    note: "The project director of the Upshot-Knothole nuclear tests tells him he will do a special job tomorrow."
     cue: 164
   - via: "Reports with 15 other AEC specialists"
     name: "Indian Springs Air Force Base"
@@ -265,7 +265,7 @@ He also glanced into a guarded tent where the dead pilot lay: a humanoid about f
 
 ### The affidavit
 
-On 7 June 1973 Stansel signed a sworn statement, with Fowler as witness, which Fowler reproduced under the heading "Crash Retrievals of the Third Kind" in his book *Casebook of a UFO Investigator*. It swears that during a special assignment with the US Air Force on 21 May 1953 he helped investigate "a crashed unknown object in the vicinity of Kingman, Arizona", and adds details the retelling leaves out: the hatch was about 3½ feet high and 1½ feet wide, his colleague saw an oval cabin, and the occupant had two eyes, two nostrils, two ears and a small round mouth, and wore a skull cap of the same material as the suit, with no face covering or helmet.
+On 7 June 1973 Stansel signed a sworn statement, with Fowler as witness, which Fowler reproduced under the heading "Crash Retrievals of the Third Kind" in his book *Casebook of a UFO Investigator*. It swears that during a special assignment with the US Air Force on 21 May 1953 he helped investigate "a crashed unknown object in the vicinity of Kingman, Arizona", and adds details that Gerb's retelling leaves out: the hatch was about 3½ feet high and 1½ feet wide, his colleague saw an oval cabin, and the occupant had two eyes, two nostrils, two ears and a small round mouth, and wore a skull cap of the same material as the suit, with no face covering or helmet.
 
 ## Who Was "Fritz Werner"?
 
@@ -274,13 +274,13 @@ Fowler later revealed and confirmed that "Fritz Werner" was Arthur Stansel Jr., 
 > [!note] Stansel, not Stancil
 > Gerb points out that the name is often spelled "Stancil", which is wrong. The pseudonym is spelled both ways too: "Fritz Werner" in Fowler's affidavit, "[[Fritz Warner]]" in the video's captions.
 
-The timing matters to Gerb's argument. The story came out in 1973, five years before Jesse Marcel told [[Stanton Friedman]] in 1978 that he had been ordered to pose with fake wreckage of balsa wood and foil while the real disc was whisked away. That, he argues, rules out Stansel riding on Roswell's coat-tails.
+Timing is central to Gerb's argument. The story came out in 1973, five years before Jesse Marcel told [[Stanton Friedman]] in 1978 that he had been ordered to pose with fake wreckage of balsa wood and foil while the real disc was whisked away. So Stansel, he argues, cannot have been riding on Roswell's coat-tails.
 
 ### Doll and Wang
 
 Stansel's account puts him under two men whom Gerb regards as more deeply connected to crash retrieval than Stansel himself. [[Edward Bushnell Doll|Ed Doll]], who made the phone call, was a physicist and project director for Upshot-Knothole at the Nevada Test Site; he has long since died and never said anything about the retrieval. From 1949 to 1960 Stansel worked in the Air Materiel Command's installation division within the office of special studies headed by [[Eric Henry Wang]], an Austrian-born graduate of the Vienna Technical Institute who in 1949 became director of the Department of Special Studies at Wright-Patterson. There Wang worked with scientists from the [[Office of Naval Research]], with [[Vannevar Bush]] and with others from the [[Research and Development Board]]; around the time of Upshot-Knothole he moved his research to [[Kirtland Air Force Base, New Mexico|Kirtland Air Force Base]] in Albuquerque.
 
-Records of Wang are hard to find, Gerb says, but his role in special studies appears in an unclassified Defense Department document on Upshot-Knothole. Wang is suspected in UFO lore of deep ties to reverse engineering and crash retrieval, allegedly led reverse-engineering efforts "under Kissinger", and was known as a close associate of [[Victor Schauberger]], an [[Operation Paperclip]] scientist who developed flying-disc concepts for the Nazis. Gerb flags this as needing more investigation and keeps it outside the video's focus; what matters here is that Stansel served, to an extent, under both Wang and Doll in 1953.
+Records of Wang are hard to find, Gerb says, but his role in special studies appears in an unclassified Defense Department document on Upshot-Knothole. Wang is suspected in UFO lore of deep ties to reverse engineering and crash retrieval, allegedly led reverse-engineering efforts "under Kissinger", and was known as a close associate of [[Victor Schauberger]], an [[Operation Paperclip]] scientist who developed flying-disc concepts for the Nazis. Gerb says this needs more investigation and leaves it outside the video's focus. His point is that Stansel served, to an extent, under both Wang and Doll in 1953.
 
 ## Secrecy Around the Crash
 
@@ -292,13 +292,13 @@ The other thread is the AEC's presence. The [[Atomic Energy Act of 1954]], Gerb 
 
 Stansel, Gerb says, was not the only credible whistleblower to talk about Kingman. [[Bill Uhouse]] appeared on Steven Greer's Disclosure Project in October 2000. He was a mechanical engineer and a 14-year Marine Corps veteran who retired as a captain, with a history of flight-testing exotic experimental aircraft at Wright-Patterson while working for a defence contractor. He claimed to have worked as a pilot and design engineer on a flying disc simulator, based on a recovered disc, that became operational in 1963–1964. In a clip Gerb plays, Uhouse says the simulator was actually operable from around 1958 and that the craft it was modelled on, a 30-metre disc, was the one that crashed at Kingman in 1953. The craft, he says, was taken to Area 51, the Groom Lake facility, and the dead pilots to Los Alamos, which Gerb notes was part of the AEC. Uhouse also spoke of a recovered being codenamed J-Rod, which Gerb leaves aside.
 
-The obvious objection is the platform. Gerb calls Greer egotistical, money-driven and very problematic, but argues that witnesses should be separated from "the stain of Greer": men such as Uhouse and [[Michael Herrera]] went through him because they knew no other route, and many, Herrera among them, have regretted it. What settles it for him is the record. Uhouse claimed 14 years of service, ten in the Corps and four with the Air Force and private industry on experimental testing, and Geldreich found the paper to back it: a 3 March 1949 clipping of his re-enlistment, a 30 March 1953 *Evening Times* article confirming eight years' service, tours in Korea and a demonstration by the Second Engineers Battalion, and a service company report confirming his role in that battalion. A later article on the How and Whys site states that a man from [[Link Aviation]], a simulator manufacturer, invited Uhouse to help build its F-102 and B-47 simulators and later the disc simulator based on the Kingman crash.
+The obvious objection is that Uhouse spoke through Greer. Gerb calls Greer egotistical, money-driven and very problematic, but argues that witnesses should be separated from "the stain of Greer": men such as Uhouse and [[Michael Herrera]] went through him because they knew no other route, and many, Herrera among them, have regretted it. What settles it for him is the record. Uhouse claimed 14 years of service, ten in the Corps and four with the Air Force and private industry on experimental testing, and Geldreich found the paper to back it: a 3 March 1949 clipping of his re-enlistment, a 30 March 1953 *Evening Times* article confirming eight years' service, tours in Korea and a demonstration by the Second Engineers Battalion, and a service company report confirming his role in that battalion. A later article on the How and Whys site states that a man from [[Link Aviation]], a simulator manufacturer, invited Uhouse to help build its F-102 and B-47 simulators and later the disc simulator based on the Kingman crash.
 
 Put on a map, the two accounts cover the region in which the AEC worked: the test range where Stansel was posted, the roundabout route by which he says he was taken to the crash site, and the two destinations Uhouse names for the craft and its occupants.
 
 ::wiki-map{video="41V4Pf_8oo4" video-title="The 1953 Kingman, Arizona UFO Crash"}
 ---
-caption: "The places in the two accounts. The solid line joins the stops Stansel names on 20–21 May, in order; the bus later took him back to Phoenix. The dashed lines are Uhouse's claims about where the craft and the dead pilots went. The crash site is known only as 'in the vicinity of Kingman', so pin 4 marks the city. All lines join named places; none is a known route."
+caption: "The places in the two accounts. The solid line joins the stops Stansel names on 20–21 May, in order; the bus later took him back to Phoenix. The dashed lines are Uhouse's claims about where the craft and the dead pilots went. The crash site is known only as 'in the vicinity of Kingman', so pin 4 marks the city. The lines only connect named places and do not trace the actual routes."
 pins:
   - name: "Frenchman's Flat, Nevada"
     label: "Frenchman Flat"
@@ -351,7 +351,7 @@ The glaring red flag among these unnamed sources, Gerb says, is [[Judy Wolcott]]
 
 ## The Accounts Compared
 
-The three witnesses who describe the craft or its crew agree on the point Gerb asks viewers to remember, the occupants, and part company on the craft's size.
+The three witnesses who describe the craft or its crew agree on the occupants, the detail Gerb asks viewers to remember, but disagree on the craft's size.
 
 ::wiki-compare{video="41V4Pf_8oo4" video-title="The 1953 Kingman, Arizona UFO Crash"}
 ---
@@ -409,7 +409,7 @@ Gerb anticipates two objections to his main witnesses, reports the exposure of t
 
 ::wiki-claim{video="41V4Pf_8oo4" video-title="The 1953 Kingman, Arizona UFO Crash"}
 ---
-caption: "The challenges the video takes up, in the order Gerb raises them, with who answers each."
+caption: "Challenges to the Kingman account, in the order Gerb raises them, and who answers each."
 claims:
   - title: "Riding Roswell's coat-tails"
     by: "A possible objection"

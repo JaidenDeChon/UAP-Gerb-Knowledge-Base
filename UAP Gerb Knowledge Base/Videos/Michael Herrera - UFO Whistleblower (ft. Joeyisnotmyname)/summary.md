@@ -15,16 +15,16 @@ tags:
 stats:
   - value: "300 ft"
     label: Craft diameter
-    hint: Herrera's estimate, from about 150 m
+    hint: Herrera's estimate, made from about 150 m away
   - value: 14
     label: Years of silence
-    hint: October 2009 to summer 2023
+    hint: Herrera said nothing in public from October 2009 to summer 2023
   - value: 4
     label: Mission details checked
-    hint: In Joey's first Reddit post
+    hint: Parts of Herrera's story that Joey, a Reddit researcher, matched to the public record in his first post
   - value: 2
     label: Errors in AARO's summary
-    hint: Per Gerb, in two or three sentences
+    hint: Gerb counts two mistakes in the two or three sentences AARO wrote about Herrera
 ---
 ::
 
@@ -40,13 +40,13 @@ The rest of the video weighs the insider's allegations about a secret "black gro
 
 ::wiki-timeline{video="6DyTfIV87Ck" video-title="Michael Herrera: UFO Whistleblower (ft. Joeyisnotmyname)"}
 ---
-help: "The bar above the entries is a ruler from 2009 to 2024. Each tick is an entry, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The empty band in the middle is Herrera's fourteen years of silence. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line with the downward arrow is where Gerb is. Gerb opens with the 2023 press club event before going back to 2009, and mentions the AARO testimony only near the end, so the playhead jumps around. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Timestamps jump the mini-player to that moment."
+help: "The bar above the list runs from 2009 to 2024, with a mark for each entry; taller marks are major ones. Click the bar to jump to the nearest entry. The empty stretch in the middle is Herrera's fourteen years of silence. The dark line shows where you are reading. Play from here starts the video at that entry, and while it plays a green line shows where Gerb is. That line jumps around, because Gerb opens with the 2023 National Press Club event before going back to 2009, and mentions the AARO testimony only near the end. Turn on Follow video to have the list scroll along with the video; scrolling yourself turns it off. Click a timestamp to play the video from that moment."
 eras:
   - id: indonesia
     label: "Indonesia, 2009"
     from: 2009
     to: 2009
-    summary: "Earthquake relief from the USS Denver, the craft in the clearing, and the silencing that followed."
+    summary: "Herrera's unit joins earthquake relief from the USS Denver and comes upon the craft in a clearing. He is then silenced."
   - id: silence
     label: "Fourteen years of silence"
     from: 2010
@@ -55,7 +55,7 @@ eras:
   - id: forward
     label: "Coming forward"
     from: 2023
-    summary: "AARO, the National Press Club, Joey's investigation, the insider, and AARO's account of his testimony."
+    summary: "Herrera testifies to AARO and speaks at the National Press Club. Joey investigates his story, an insider reaches out, and AARO publishes its account of his testimony."
 events:
   - date: "2009-09-30"
     title: "Earthquake strikes West Sumatra"
@@ -78,7 +78,7 @@ events:
   - date: "2009-10"
     title: "A craft above the tree line"
     cue: 320
-    summary: "Landed by CH-53 at a hasty landing zone near Padang with no radio, the team climbs a ridge of about 300 m. Something 'stuck out like a sore thumb': a craft rotating just above the trees, shifting between light matte grey and dark matte black. The Marines go down to look, and Herrera photographs it."
+    summary: "A CH-53 helicopter drops the team, with no radio, at a hasty landing zone near Padang, and they climb a ridge of about 300 m. Something 'stuck out like a sore thumb': a craft rotating just above the trees, shifting between light matte grey and dark matte black. The Marines go down to look, and Herrera photographs it."
     category: event
     significance: major
     entities:
@@ -163,7 +163,7 @@ events:
   - date: "2023"
     title: "The Sentinels of Ether manuscript"
     cue: 1967
-    summary: "A few weeks after the meeting, the insider says he is writing a book with a ghostwriter that mixes truth and fiction. The two chapters he hands over, under DOPSR review, concern a 2004 event in Mexico, not Herrera's encounter."
+    summary: "A few weeks after the meeting, the insider says he is writing a book with a ghostwriter that mixes truth and fiction. The two chapters he hands over, under review by the Defense Office of Prepublication and Security Review (DOPSR), concern a 2004 event in Mexico, not Herrera's encounter."
     category: document
     significance: notable
     entities:
@@ -194,8 +194,8 @@ Herrera thought they were about to be killed. Instead the operators reloaded the
 ::wiki-chain{video="6DyTfIV87Ck" video-title="Michael Herrera: UFO Whistleblower (ft. Joeyisnotmyname)"}
 ---
 kind: consequence
-label: "After the clearing"
-caption: "How Herrera says he was silenced, from the clearing to the NDA he signed on Okinawa, in the order Gerb recounts it."
+label: "What happened after the encounter"
+caption: "The steps Herrera says were taken to keep him quiet, from the clearing where the craft stood to the NDA he signed on Okinawa, in the order Gerb tells them."
 steps:
   - text: "The clearing"
     note: "The operators rearm the Marines and order them not to look back or speak of it."
@@ -221,13 +221,13 @@ steps:
 
 ## Checking the Mission
 
-Joey says he was drawn in by the reaction to Herrera's story. People dismissed him for what Joey considered flimsy reasons, because his team had no radios or because he misnamed a rifle, while taking seriously the idea of a 300-foot UFO. Joey saw an opening: a humanitarian operation leaves a trail of photojournalism, press coverage, military reports and assessments. If Herrera had lied about any detail of the mission, his whole account could be thrown out. Joey looked for conflicts and found the opposite. :wiki-cue{t=627 video="6DyTfIV87Ck" video-title="Michael Herrera: UFO Whistleblower (ft. Joeyisnotmyname)"}
+Joey says he was drawn in by the reaction to Herrera's story. People dismissed him for what Joey considered flimsy reasons, because his team had no radios or because he misnamed a rifle, while taking seriously the idea of a 300-foot UFO. Joey saw an opening: a humanitarian operation leaves a trail of photojournalism, press coverage, military reports and assessments. If Herrera had lied about any detail of the mission, his whole account could be thrown out. Joey looked for conflicts and found none. :wiki-cue{t=627 video="6DyTfIV87Ck" video-title="Michael Herrera: UFO Whistleblower (ft. Joeyisnotmyname)"}
 
-His Reddit post, "Verifying the events around Michael Herrera's UFO encounter, part one", matched four details of the setting. Gerb stresses what it does not do: it proves nothing about the craft.
+His Reddit post, "Verifying the events around Michael Herrera's UFO encounter, part one", matched four details of the setting. Gerb stresses that it proves nothing about the craft itself.
 
 ::wiki-compare{video="6DyTfIV87Ck" video-title="Michael Herrera: UFO Whistleblower (ft. Joeyisnotmyname)"}
 ---
-caption: "Herrera's account of the mission against what Joey found in the public record and from Marines on the operation. 'Same' marks a detail Joey matched; 'Unknown' marks one his research does not settle."
+caption: "Herrera's account of the relief mission, set against what Joey found in the public record and from Marines who were on the operation. 'Same' means Joey found a match; 'Unknown' means his research does not settle the point."
 attributeLabel: "Detail"
 subjects:
   - name: "Michael Herrera"
@@ -256,7 +256,7 @@ rows:
       - "A hasty LZ near Padang"
       - { text: "A blog post confirms hasty LZs to reach remote areas", mark: same }
   - attribute: "Rifles"
-    note: "Nathan's photograph contests this; see below"
+    note: "A photograph from Herrera's team leader, Nathan, contests this; see below"
     cue: 2435
     cells:
       - "M16A4s, as the first Marines in were armed"
@@ -330,13 +330,13 @@ Joey adds that other people have confirmed the insider's existence to him person
 
 ### Dissenter or psyop?
 
-Why would the insider tell Herrera all this? Gerb sets out two readings and finds both "somewhat logical and plausible". A book the insider says he is writing adds to the doubt. A few weeks after the meeting, he told Herrera it was being written with a ghostwriter and mixed truth and fiction, like [[Tom DeLonge]]'s *Sekret Machines*. Herrera had hoped to be given evidence at the meeting, and this book was presented as corroboration. But *[[Sentinels of Ether]]* concerns a 2004 event in Mexico, in which a black-program paramilitary group allegedly wiped out a JSOC team while moving people in shipping containers to a hidden mountain base. The two chapters the insider provided were under review by the [[DOPSR (Defense Office of Prepublication and Security Review)|Defense Office of Prepublication and Security Review]], the office Gerb notes [[David Grusch]] was then going through. The insider called this playing [[4D Chess on DOPSR|"4D chess" on DOPSR]]: deliberately including deep-black material to see whether the reviewers catch it, so that "any response will provide us with information".
+Gerb sets out two readings of why the insider would tell Herrera all this, and finds both "somewhat logical and plausible". A book the insider says he is writing adds to the doubt. A few weeks after the meeting, he told Herrera it was being written with a ghostwriter and mixed truth and fiction, like [[Tom DeLonge]]'s *Sekret Machines*. Herrera had hoped to be given evidence at the meeting, and this book was presented as corroboration. But *[[Sentinels of Ether]]* concerns a 2004 event in Mexico, in which a black-program paramilitary group allegedly wiped out a JSOC team while moving people in shipping containers to a hidden mountain base. The two chapters the insider provided were under review by the [[DOPSR (Defense Office of Prepublication and Security Review)|Defense Office of Prepublication and Security Review]], the office Gerb notes [[David Grusch]] was then going through. The insider called this playing [[4D Chess on DOPSR|"4D chess" on DOPSR]]: deliberately including deep-black material to see whether the reviewers catch it, so that "any response will provide us with information".
 
 ::wiki-claim{video="6DyTfIV87Ck" video-title="Michael Herrera: UFO Whistleblower (ft. Joeyisnotmyname)"}
 ---
-label: "Two readings of the insider"
-term: "Reading"
-caption: "The two explanations Gerb weighs for why the insider approached Herrera, and what each side says. Gerb ends the video still undecided."
+label: "Why the insider approached Herrera"
+term: "Explanation"
+caption: "The two explanations Gerb weighs for why the insider approached Herrera, and the replies to each. Gerb ends the video still undecided."
 claims:
   - title: "A deliberate disinformation operation"
     by: "Gerb"
@@ -377,7 +377,7 @@ claims:
 
 ## Herrera's Platoon
 
-Joey has spoken to more of Herrera's fellow Marines than almost anyone. The original [[Daily Mail]] article on Herrera reported that the four or five other Marines with him were too scared to come forward, apart from one text message, which Gerb reads out, asking Herrera not to involve the sender because it was not worth risking his family or career. Joey found the platoon itself less supportive. Some of them sent him personal photographs that prove little beyond their presence at Tabing airport, where the relief was coordinated. Two of their challenges get a full hearing:
+Joey has spoken to more of Herrera's fellow Marines than almost anyone. The original [[Daily Mail]] article on Herrera reported that the four or five other Marines with him were too scared to come forward, apart from one text message, which Gerb reads out, asking Herrera not to involve the sender because it was not worth risking his family or career. Joey found the platoon itself less supportive. Some of them sent him personal photographs that prove little beyond their presence at Tabing airport, where the relief was coordinated. The video looks at two of their challenges in detail:
 
 ::wiki-claim{video="6DyTfIV87Ck" video-title="Michael Herrera: UFO Whistleblower (ft. Joeyisnotmyname)"}
 ---
@@ -439,7 +439,7 @@ claims:
         cue: 2514
       - by: "Gerb"
         stance: host
-        text: "Awful writing or purposeful disinformation? He leans towards purposeful, \"a symptom of the larger sickness\" of the report."
+        text: "Gerb asks whether this is awful writing or purposeful disinformation, and leans towards purposeful, \"a symptom of the larger sickness\" of the report."
         cue: 2522
       - by: "Joey Is Not My Name"
         stance: challenges
@@ -496,7 +496,7 @@ entries:
     note: "Has spoken with Herrera. Gerb thinks the armed men in both accounts may belong to the same group."
   - name: "Paul Bennewitz"
     role: "Target of a disinformation campaign"
-    note: "Gerb's precedent for the chance that the insider is feeding Herrera false information."
+    note: "Gerb cites him as an example of how the insider could be feeding Herrera false information."
   - name: "Nathan"
     role: "Herrera's team leader"
     note: "The critic Joey finds most credible: he says a photograph shows Herrera flying in without a rifle."

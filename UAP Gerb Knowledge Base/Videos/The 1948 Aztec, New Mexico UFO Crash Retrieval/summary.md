@@ -23,19 +23,19 @@ stats:
     label: Bodies reported
     hint: "Two slumped at the controls"
   - value: "~200"
-    label: Recovery personnel
-    hint: "Per the Walker AFB airman 'George'"
+    label: People on the recovery
+    hint: "According to 'George', an airman at Walker Air Force Base"
   - value: "2 weeks"
     label: To dismantle and remove
     hint: "Convoyed to Los Alamos in pieces"
   - value: "32 of 33"
     label: Investors satisfied
-    hint: "Herman Flader was the lone complainant"
+    hint: "Of Newton and GeBauer's investors, only Herman Flader complained"
   - value: 6
-    label: Key sources
+    label: Main sources
     hint: "Four pro-Aztec works, two debunks"
   - value: "2h27m"
-    label: Runtime
+    label: Video length
 ---
 ::
 
@@ -45,21 +45,21 @@ This video is UAP Gerb's full investigation of the [[Aztec UFO Crash and Recover
 
 Gerb builds the case on six sources: [[Frank Scully]]'s 1950 bestseller *Behind the Flying Saucers*, which introduced the story; [[William Steinman]]'s rare 1986 book *UFO Crash at Aztec: A Well Kept Secret*, which named an alleged recovery team; [[Scott and Suzanne Ramsey]]'s 2015 *The Aztec UFO Incident*, which found and interviewed new witnesses; and [[Leonard Stringfield]]'s *UFO Crash/Retrieval Status Reports*. Against them he weighs the two main debunks: [[J. P. Cahn]]'s 1952 exposé "The Flying Saucers and the Mysterious Little Men" and Mike McClellan's 1975 "The UFO Crash of 1948 Is a Hoax."
 
-The heart of the video is a re-examination of why Aztec came to be called a hoax. Scully's source was the Denver oilman [[Silas Newton]], who never claimed to have been at the site and said he was repeating what a group of scientists, "Dr. G," had told him. Cahn cast Newton's associate [[Leo GeBauer]] as the one and only Dr. G, and the two men's 1953 fraud conviction over an oil-finding "doodlebug" buried the story for decades. Gerb argues, following the Ramseys and Steinman, that the prosecution looks like targeted retaliation for the leak. He points to [[Air Force Office of Special Investigations|AFOSI]] questioning the man who recorded Newton's 1950 lecture, an Army CID and FBI sting to intercept photographs of the disc, and a trial in which 32 of 33 investors were satisfied and the prosecution's expert tested a surplus-store stand-in rather than GeBauer's device. He then tries to name the Dr. G scientists: Denver geophysicist [[Carl A. Heiland]], whom Steinman calls the original leaker and an alleged [[Majestic 12]] member, and wartime magnetic-detection scientists tied to [[Geophysical Service Inc. (GSI)|Geophysical Service Inc.]] and [[Vannevar Bush]]'s wartime research office.
+Most of the video re-examines why Aztec came to be called a hoax. Scully's source was the Denver oilman [[Silas Newton]], who never claimed to have been at the site and said he was repeating what a group of scientists, "Dr. G," had told him. Cahn cast Newton's associate [[Leo GeBauer]] as the one and only Dr. G, and the two men's 1953 fraud conviction over an oil-finding "doodlebug" buried the story for decades. Gerb argues, following the Ramseys and Steinman, that the prosecution looks like targeted retaliation for the leak. He points to [[Air Force Office of Special Investigations|AFOSI]] questioning the man who recorded Newton's 1950 lecture, an Army CID and FBI sting to intercept photographs of the disc, and a trial in which 32 of 33 investors were satisfied and the prosecution's expert tested a surplus-store stand-in rather than GeBauer's device. He then tries to name the Dr. G scientists: Denver geophysicist [[Carl A. Heiland]], whom Steinman calls the original leaker and an alleged [[Majestic 12]] member, and wartime magnetic-detection scientists tied to [[Geophysical Service Inc. (GSI)|Geophysical Service Inc.]] and [[Vannevar Bush]]'s wartime research office.
 
-The final hour widens the lens: the named eyewitnesses; [[Robert Sarbacher]] and [[Eric A. Walker]], whom Scully's book indirectly exposed as insiders; the [[Interplanetary Phenomenon Unit]] that Steinman says recovered the disc; and the case's revival by [[Robert Spencer Carr]] and Stringfield. Gerb ends convinced that "this case likely happened," while allowing that, as with Roswell, details of more than one crash may have been blended together.
+The final hour turns to the named eyewitnesses; [[Robert Sarbacher]] and [[Eric A. Walker]], whom Scully's book indirectly exposed as insiders; the [[Interplanetary Phenomenon Unit]] that Steinman says recovered the disc; and the case's revival by [[Robert Spencer Carr]] and Stringfield. Gerb ends convinced that "this case likely happened," while allowing that, as with Roswell, details of more than one crash may have been blended together.
 
 ## Chronology
 
 ::wiki-timeline{video="QJxbyu-9Tj0" video-title="The 1948 Aztec, New Mexico UFO Crash Retrieval"}
 ---
-help: "The bar pinned above the entries is a ruler from 1930 to today. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line capped with a downward arrow is where Gerb is. Gerb tells the story thematically rather than in date order, so the playhead leaps back and forth. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Every timestamp here was checked against the captions."
+help: "The bar above the list runs from 1930 to today, with a mark for each entry. The colour shows the type of entry, and taller marks are major ones. Click the bar to jump to a year. The dark line shows the entry you are reading. Play from here starts the video at that entry, and once it is playing, a green line shows where Gerb is. Gerb tells the story by theme, not in date order, so the green line jumps back and forth across the years. Turn on Follow video to have the list scroll along with the video; scrolling yourself turns it off. Click a timestamp to play the video from that moment. Every timestamp here was checked against the video's captions."
 eras:
   - id: before
     label: "Before Aztec"
     from: 1930
     to: 1946
-    summary: "Oil-exploration geophysics is drafted into Vannevar Bush's wartime anti-submarine science, forming the network the video says later produced Dr. G."
+    summary: "Oil-exploration geophysics is drafted into Vannevar Bush's wartime anti-submarine science, forming the network of scientists that the video says later produced Dr. G, the unnamed source of the Aztec story."
   - id: retrieval
     label: "The Retrieval"
     from: 1947
@@ -70,7 +70,7 @@ eras:
     label: "Leak and Reprisal"
     from: 1950
     to: 1956
-    summary: "Newton's lecture and Scully's book are met with AFOSI questioning, an FBI sting, Cahn's exposé and a fraud trial that buries the case."
+    summary: "Newton's lecture and Scully's book are met with questioning by the Air Force Office of Special Investigations (AFOSI), an FBI sting, Cahn's exposé and a fraud trial that buries the case."
     anchor: "the-hoax-verdict-re-examined"
   - id: revival
     label: "Rediscovery"
@@ -102,7 +102,7 @@ events:
   - date: "1942"
     title: "GSI turns to anti-submarine work under Bush's OSRD"
     cue: 4401
-    summary: "After Pearl Harbor, GSI's electronics expertise won it a Navy contract for airborne magnetic submarine detectors under Vannevar Bush's Office of Scientific Research and Development. The video argues this is the bridge between oil-finding doodlebugs and the wartime scientists who became Dr. G."
+    summary: "After Pearl Harbor, GSI's electronics expertise won it a Navy contract for airborne magnetic submarine detectors under Vannevar Bush's Office of Scientific Research and Development. The video argues this links the oil-finding devices known as doodlebugs to the wartime scientists who, it says, became Dr. G, the unnamed source of the Aztec story."
     category: organization
     significance: notable
     entities:
@@ -213,7 +213,7 @@ events:
   - date: "1950-03"
     title: "AFOSI interrogates George Koehler"
     cue: 2153
-    summary: "The day after the lecture, months before Scully's book appeared, AFOSI agents came to KMYR looking for Koehler and, after two days, questioned him about Newton, flying saucers and cube-like radios said to come from the crash. The Ramseys found and reproduced the interrogation."
+    summary: "The day after the lecture, months before Scully's book appeared, agents of the Air Force Office of Special Investigations (AFOSI) came to KMYR looking for Koehler and, after two days, questioned him about Newton, flying saucers and cube-like radios said to come from the crash. The Ramseys found and reproduced the interrogation."
     category: event
     significance: notable
     entities:
@@ -260,7 +260,7 @@ events:
   - date: "1950-09-30"
     title: "Army CID and FBI sting to intercept Aztec photographs"
     cue: 2190
-    summary: "Army CID reported a sting at a Denver hotel bar in which CID and the FBI tried to intercept the sale of photographs of the Aztec saucer to a 'Mr. Klein' of the Baltimore Sun. The Ramseys' FOIA requests for more records were answered that everything had been destroyed, and no Mr. Klein worked for the Sun."
+    summary: "Army CID reported a sting at a Denver hotel bar in which CID and the FBI tried to intercept the sale of photographs of the Aztec saucer to a 'Mr. Klein' of the Baltimore Sun. When the Ramseys asked for more records under FOIA, they were told everything had been destroyed, and no Mr. Klein worked for the Sun."
     category: event
     significance: major
     entities:
@@ -565,7 +565,7 @@ With no helicopter able to lift a 99.9-foot disc, the recovery took up to two we
 ::wiki-chain{video="QJxbyu-9Tj0" video-title="The 1948 Aztec, New Mexico UFO Crash Retrieval"}
 ---
 kind: custody
-caption: "Where the disc and its crew went. The main account is the one the video builds from Steinman and the Ramseys; Robert Spencer Carr's 1974 version, from his five sources, sends everything by air instead. Both are alleged."
+caption: "Where the disc and the bodies of its crew were taken after the crash. The main account is the one the video pieces together from Steinman and the Ramseys. Robert Spencer Carr's 1974 version, from his five sources, has everything flown out instead. Both accounts are alleged."
 steps:
   - name: "Aztec UFO Crash and Recovery"
     date: "1948-03-25"
@@ -613,7 +613,7 @@ Gerb treats Los Alamos as the most consequential detail. In 1994, former New Mex
 
 *Behind the Flying Saucers* (1950), which grew out of Scully's 1949 *Variety* columns, reported the Aztec recovery, four recoveries in all up to 1950, and magnetic propulsion. It also started a separate chain of events: Wilbert B. Smith's questions to Robert Sarbacher (see below). Scully's source was Silas M. Newton of the Newton Oil Company, who claimed no first-hand role in the recovery. His information came from "Dr. G," a group of up to eight scientists with, in Scully's phrase, "more degrees than a thermometer." Dr. G told Scully the craft was recovered intact, taken to Los Alamos and ran on magnetism. They showed him a cube that made radio-like sounds, small gears and discs said to come from the craft, and photographs of the disc, which Scully's widow said she had also seen.
 
-Newton had spoken publicly before the book appeared. On 8 March 1950, billed as "Scientist X," he took the place of the original speaker at a University of Denver lecture. Radio salesman and engineer [[George Koehler]] of KMYR helped set it up, and the Ramseys found the recording and Newton's chalkboard drawings in Scully's archive. The reaction was swift, and it branched in every direction the story went:
+Newton had spoken publicly before the book appeared. On 8 March 1950, billed as "Scientist X," he took the place of the original speaker at a University of Denver lecture. Radio salesman and engineer [[George Koehler]] of KMYR helped set it up, and the Ramseys found the recording and Newton's chalkboard drawings in Scully's archive. The reaction was swift. The chart below follows the story out from Dr. G to each person who took it up, and what happened next:
 
 ::wiki-org-chart
 ---
@@ -678,7 +678,7 @@ Gerb treats J. P. Cahn as the "hero of the hoax" whose honesty deserves the same
 ::wiki-claim{video="QJxbyu-9Tj0" video-title="The 1948 Aztec, New Mexico UFO Crash Retrieval"}
 ---
 label: "Cahn's exposé"
-caption: "The two pillars of Cahn's 1952 debunk, and who answered them."
+caption: "The two main charges in Cahn's 1952 article calling Aztec a hoax, and who answered them."
 claims:
   - title: "The \"gear\" was common aluminium"
     by: "J. P. Cahn"
@@ -688,7 +688,7 @@ claims:
       - by: "Frank Scully"
         stance: challenges
         date: "1952-06-15"
-        text: "In a letter to Newton's attorney: Cahn had admitted to him that he stole Newton's material and replaced it with a slug."
+        text: "In a letter to Newton's attorney, Scully wrote that Cahn had admitted to him that he stole Newton's material and replaced it with a slug."
         cue: 2710
       - by: "Gerb"
         stance: host
@@ -719,7 +719,7 @@ Cahn also found the plaintiff: Denver businessman [[Herman Flader]], who had inv
 ---
 label: "The doodlebug trial"
 term: "Charge"
-caption: "The prosecution's main points against Newton and GeBauer, from William Steinman's reading of the court records, and how the defence and Gerb answered them."
+caption: "The prosecution's main points against Newton and GeBauer at their fraud trial, which centred on GeBauer's oil-detecting device, from William Steinman's reading of the court records, and how the defence and Gerb answered them."
 claims:
   - title: "The device never worked"
     by: "Herman Flader"
@@ -733,7 +733,7 @@ claims:
         cue: 3284
       - by: "A defence witness"
         stance: challenges
-        text: "Photographs of three water wells GeBauer's device had found on his company's land."
+        text: "He showed photographs of three water wells that GeBauer's device had found on his company's land."
         cue: 3270
       - by: "The defence"
         stance: challenges
@@ -828,7 +828,7 @@ Gerb admires Steinman's 1986 book, bought a copy of the 1,000-copy printing for 
 > [!warning] Gerb's reservation about Steinman
 > Steinman states as fact that the IPU recovered the disc, that Marshall got the call and that Bush, Oppenheimer, Bronk, Scherer and Heiland were on site, but he rarely gives his sources or any corroborating evidence. Gerb calls this his "biggest critique" of an otherwise excellent book.
 
-The book's most enduring lead, for Gerb, is Dr. [[Eric Henry Wang]]. Steinman wrote that Wang joined the project in November 1949, a year and a half after the recovery. An Austrian-born engineer who had taught in Cincinnati, Wang consulted for the Wright Air Development Center on aerodynamic and metallurgical design and later headed its Office of Special Studies. In 1956 his department moved to the Sandia complex at [[Kirtland Air Force Base, New Mexico|Kirtland Air Force Base]], where he stayed until his death (his obituary ran in *Mechanical Engineering* in April 1961). [[Arthur Stansel Jr.]] placed Wang at the head of the [[1953 Kingman, Arizona Crash Retrieval|1953 Kingman]] recovery during [[Operation Upshot-Knothole]]. Gerb plays a clip in which a Kingman source says, of a door on a recovered craft, "Oh, yeah. That's the one from Kingman." An Albuquerque contact of Steinman's, "MW," said Wang's papers were seized by military intelligence at his death and locked in a secret section of the Kirtland library. MW never answered Steinman's letters, and Steinman found his mail tampered with and a tracking device on his van.
+The book's most lasting lead, for Gerb, is Dr. [[Eric Henry Wang]]. Steinman wrote that Wang joined the project in November 1949, a year and a half after the recovery. An Austrian-born engineer who had taught in Cincinnati, Wang consulted for the Wright Air Development Center on aerodynamic and metallurgical design and later headed its Office of Special Studies. In 1956 his department moved to the Sandia complex at [[Kirtland Air Force Base, New Mexico|Kirtland Air Force Base]], where he stayed until his death (his obituary ran in *Mechanical Engineering* in April 1961). [[Arthur Stansel Jr.]] placed Wang at the head of the [[1953 Kingman, Arizona Crash Retrieval|1953 Kingman]] recovery during [[Operation Upshot-Knothole]]. Gerb plays a clip in which a Kingman source says, of a door on a recovered craft, "Oh, yeah. That's the one from Kingman." An Albuquerque contact of Steinman's, "MW," said Wang's papers were seized by military intelligence at his death and locked in a secret section of the Kirtland library. MW never answered Steinman's letters, and Steinman found his mail tampered with and a tracking device on his van.
 
 ::wiki-watch{video="QJxbyu-9Tj0" title="The 1948 Aztec, New Mexico UFO Crash Retrieval"}
 ::
@@ -927,7 +927,7 @@ Richard Hall (1980), Steinman (1984) and Timothy Good (1987) all got the same an
 
 ::wiki-claim{video="QJxbyu-9Tj0" video-title="The 1948 Aztec, New Mexico UFO Crash Retrieval"}
 ---
-caption: "The sceptics' reading of the Army's IPU replies, and the answers the video gives."
+caption: "How sceptics read the Army's replies about the Interplanetary Phenomenon Unit (IPU), and the answers the video gives."
 claim:
   title: "A mail room, not a UFO unit"
   by: ["Brad Sparks", "Kevin Randle"]

@@ -15,50 +15,50 @@ tags:
 stats:
   - value: "12,618"
     label: Blue Book reports
-    hint: "701 left unexplained, 1952–1969"
+    hint: "Analysed by Project Blue Book, 1952–1969; 701 stayed unexplained"
   - value: 23
     label: Cases the Robertson Panel reviewed
-    hint: "Of 2,331 on record, January 1953"
+    hint: "Out of 2,331 cases on record in January 1953"
   - value: "25–30%"
-    label: Condon cases unexplained
-    hint: "Left out of Condon's summary"
+    label: Condon cases left unexplained
+    hint: "The Condon study could not explain them; its summary left this out"
   - value: "$313,000"
-    label: Condon's award
-    hint: "For a year's work, 1966"
+    label: Paid to Condon
+    hint: "For a year's work on the civilian UFO study, 1966"
 ---
 ::
 
 ## Overview
 
-This video argues that the [[UFO Stigma]], the cultural and institutional habit of treating serious UFO inquiry as a joke, was a deliberate product of US government policy rather than an organic social development. Gerb follows the paper trail from the 1948 [[Project Sign]] through [[Project Grudge]], [[Project Blue Book]], the CIA's [[Robertson Panel]] and the [[Condon Committee]], and argues that each was presented as a serious investigation while in practice serving to discredit the phenomenon publicly as real research continued out of sight. By 1969, he says, these tools had together allowed the government to say that UFOs do not exist and that it does not study them.
+This video argues that the [[UFO Stigma]], the cultural and institutional habit of treating serious UFO inquiry as a joke, was created on purpose by US government policy and did not simply grow out of society. Gerb follows the paper trail from the 1948 [[Project Sign]] through [[Project Grudge]], [[Project Blue Book]], the CIA's [[Robertson Panel]] and the [[Condon Committee]]. Each, he argues, was presented as a serious investigation but in practice served to discredit the phenomenon in public while real research went on out of sight. By 1969, he says, together they had let the government say that UFOs do not exist and that it does not study them.
 
-The video opens by stating that the reality of unidentified aerial and submerged phenomena "is not up for debate": anomalous signatures in the skies, oceans and near-Earth orbit display instantaneous acceleration, hypersonic velocity, anti-gravity, low observability and transmedial travel, whatever their origin. The question Gerb poses is therefore not whether the phenomena are real but why studying them became a subject of ridicule, and why civilian and military pilots were historically advised not to report sightings for fear of losing their flight status. An archival interview clip sets out three points "even the grossest skeptic can't deny": the reports persist, they are global (from some 140 countries), and many come from highly credible, technically trained observers.
+The video opens by saying that the reality of unidentified aerial and submerged phenomena "is not up for debate". Whatever their origin, anomalous signatures in the skies, oceans and near-Earth orbit show instantaneous acceleration, hypersonic velocity, anti-gravity, low observability and transmedial travel. Gerb takes their reality as given and asks why studying them became a subject of ridicule, and why civilian and military pilots were historically advised not to report sightings for fear of losing their flight status. An archival interview clip makes three points that "even the grossest skeptic can't deny": the reports persist, they are global (from some 140 countries), and many come from highly credible, technically trained observers.
 
-[[J. Allen Hynek]], Blue Book's scientific adviser for its whole run, is the video's recurring witness against the programs he served, describing Grudge as "less science and more of a public relations campaign" and Blue Book as "not a scientific project". Gerb closes by identifying the "sophisticated disinformation campaigns" described by whistleblower [[David Grusch]] with exactly these five programs.
+[[J. Allen Hynek]] was Blue Book's scientific adviser for its whole run, and the video keeps returning to him as a witness against the programs he served. He described Grudge as "less science and more of a public relations campaign" and Blue Book as "not a scientific project". At the end, Gerb says these five programs are exactly the "sophisticated disinformation campaigns" that whistleblower [[David Grusch]] has described.
 
 ## Chronology
 
 ::wiki-timeline{video="xKArN8S9bnM" video-title="The Origin of the UFO Stigma"}
 ---
-help: "The bar pinned above the entries is a ruler from 1947 to 1993. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line capped with a downward arrow is where Gerb is. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Timestamps jump the mini-player to that moment."
+help: "The bar above the list runs from 1947 to 1993, with a mark for each entry. The colour of a mark shows the type of entry, and taller marks are major ones. Click the bar to jump to the nearest entry. The dark line shows which entry you are reading. Play from here starts the video at that entry, and while it plays a green line shows where Gerb has reached. Turn on Follow video to have the list scroll along with the video; scrolling yourself turns it off. Click a timestamp to play the video from that moment in the mini-player."
 eras:
   - id: sign
     label: "Sign and Grudge"
     from: 1947
     to: 1951
-    summary: "The Air Force's first investigations: Sign takes the discs seriously and is shut down; Grudge is set up to explain sightings away."
+    summary: "The Air Force's first UFO investigations. Project Sign takes the flying discs seriously and is shut down. Project Grudge is set up to explain sightings away."
     anchor: "sign-and-grudge-1948-1951"
   - id: bluebook
     label: "Blue Book and the Robertson Panel"
     from: 1952
     to: 1965
-    summary: "Where, Gerb says, the true stigma was born: the Washington sightings, the CIA's panel and a regulation that routed the best reports away from Blue Book."
+    summary: "Gerb says this is where the true stigma was born. The period covers the Washington sightings, the CIA's Robertson Panel and a regulation that sent the best reports to Air Force intelligence instead of Blue Book."
     anchor: "blue-book-and-the-robertson-panel-1952-1965"
   - id: condon
     label: "Congress and the Condon Committee"
     from: 1966
     to: 1970
-    summary: "Ford's hearing leads to a civilian study whose conclusions, Gerb argues, were written before its findings, and whose report closes Blue Book."
+    summary: "A congressional hearing arranged by Gerald Ford leads to a civilian study. Gerb argues that its conclusions were written before its findings. Its report brings Blue Book to an end."
     anchor: "congress-and-the-condon-committee-1966-1970"
 hinges:
   - year: 1953
@@ -68,7 +68,7 @@ hinges:
 events:
   - date: "1947-09-23"
     title: "Twining calls flying discs real"
-    summary: "Lieutenant General Nathan Twining writes that flying discs are \"real and not visionary or fictitious\", the assertion Gerb credits for the program's first name, Project Saucer. The video shows the letter to General George Schulgen of the Army Air Forces."
+    summary: "Lieutenant General Nathan Twining writes that flying discs are \"real and not visionary or fictitious\". Gerb credits this statement with the first UFO program's original name, Project Saucer. The video shows the letter, which is addressed to General George Schulgen of the Army Air Forces."
     category: document
     entities:
       - "Nathan Twining"
@@ -86,7 +86,7 @@ events:
     cue: 192
   - date: "1949"
     title: "Sign shut down; Project Grudge commissioned"
-    summary: "General Hoyt Vandenberg shuts Sign down for \"lack of proof\", and Project Grudge is commissioned the same year, formed, Gerb says, specifically to alleviate public anxiety over UFOs. He calls it the first real breadcrumb of the government trying to alter public perception."
+    summary: "General Hoyt Vandenberg shuts Sign down for \"lack of proof\". Project Grudge is commissioned the same year; Gerb says it was formed specifically to alleviate public anxiety over UFOs. He calls it the first real breadcrumb of the government trying to alter public perception."
     category: program
     significance: major
     entities:
@@ -95,7 +95,7 @@ events:
     cue: 256
   - date: "1951-08"
     title: "Lubbock Lights put down to migrating birds"
-    summary: "Four engineering professors in Lubbock, Texas watch repeated flights of 20 to 30 lights in a perfect semicircle. Grudge marks the case down to migrating birds, an explanation the witnesses did not share."
+    summary: "Four engineering professors in Lubbock, Texas watch repeated flights of 20 to 30 lights in a perfect semicircle. Grudge puts the case down to migrating birds, an explanation the witnesses did not share."
     category: event
     entities:
       - "Lubbock Lights"
@@ -103,7 +103,7 @@ events:
     cue: 321
   - date: "1952"
     title: "Project Blue Book begins"
-    summary: "Blue Book runs until 1969 to judge whether UFOs threaten national security and to analyse the data scientifically. It analyses 12,618 reports, 701 of them unexplained. Gerb calls it the place \"where the true UFO stigma was born\"."
+    summary: "Project Blue Book runs until 1969. Its job is to judge whether UFOs threaten national security and to analyse the data scientifically. It analyses 12,618 reports, and 701 of them remain unexplained. Gerb calls it the place \"where the true UFO stigma was born\"."
     category: program
     significance: major
     entities:
@@ -112,7 +112,7 @@ events:
     cue: 399
   - date: "1952-07"
     title: "Washington DC UFO sightings"
-    summary: "Over a series of nights, lights accompanied by radar returns appear over the capital. Serious consideration is given to an extraterrestrial origin, and 148 national newspapers cover the event over the following six months."
+    summary: "Over a series of nights, lights appear over the capital, along with radar returns. An extraterrestrial origin is seriously considered, and 148 national newspapers cover the event over the following six months."
     category: event
     significance: major
     entities:
@@ -120,7 +120,7 @@ events:
     cue: 494
   - date: "1952-07-29"
     title: "Samford and Ramey Pentagon press conference"
-    summary: "Major General John Samford explains away the bulk of reports as hoaxes, misidentified aircraft or natural phenomena, while conceding that a percentage come from \"credible observers of relatively incredible things\", and denies any link to a secret US development."
+    summary: "At a Pentagon press conference, Major General John Samford explains away most reports as hoaxes, misidentified aircraft or natural phenomena. He concedes that a percentage come from \"credible observers of relatively incredible things\", and denies any link to a secret US development."
     category: event
     entities:
       - "General Samford"
@@ -135,7 +135,7 @@ events:
     cue: 712
   - date: "1953-01"
     title: "Robertson Panel convenes"
-    summary: "The CIA's panel under physicist Howard P. Robertson meets four times, reviews 23 of 2,331 cases, watches two films, hears Major Dewey J. Fournet argue the extraterrestrial hypothesis, and recommends stripping UFOs of \"special status\". Gerb says it flipped Samford's position on its head. Battelle Memorial Institute separately reviewed the same Air Force files at the time."
+    summary: "The CIA's panel, chaired by physicist Howard P. Robertson, meets four times. It reviews 23 of 2,331 cases, watches two films and hears Major Dewey J. Fournet argue the extraterrestrial hypothesis, then recommends stripping UFOs of \"special status\". Gerb says this flipped Samford's position on its head. At the same time, Battelle Memorial Institute was separately reviewing the same Air Force files."
     category: organization
     significance: major
     entities:
@@ -147,7 +147,7 @@ events:
     cue: 600
   - date: "1953-08-26"
     title: "Air Force Regulation 200-2 issued"
-    summary: "The regulation restricts UFO reporting and supersedes AFL 200-5: confirmed reports, including those by Air Force personnel, go to Air Force intelligence rather than Blue Book, which Gerb says kept credible sightings from Congress and the public."
+    summary: "The regulation restricts UFO reporting and supersedes the earlier AFL 200-5. Confirmed reports, including those by Air Force personnel, now go to Air Force intelligence instead of Blue Book. Gerb says this kept credible sightings from Congress and the public."
     category: policy
     entities:
       - "USAF Regulation 200-2"
@@ -169,7 +169,7 @@ events:
     cue: 818
   - date: "1966-04-05"
     title: "House Armed Services Committee UFO hearing"
-    summary: "Congress's first closed session on UFOs, arranged by Gerald Ford. Blue Book head Hector Quintanilla testifies there are no unexplained radar cases; Hynek asks the Air Force to commission a civilian scientific panel."
+    summary: "Congress's first closed session on UFOs, arranged by Gerald Ford. Hector Quintanilla, head of Blue Book, testifies that there are no unexplained radar cases. Hynek asks the Air Force to commission a civilian scientific panel."
     category: event
     significance: major
     entities:
@@ -179,7 +179,7 @@ events:
     cue: 783
   - date: "1966"
     title: "Condon selected to lead the civilian study"
-    summary: "Hynek and physicist James McDonald ask for seats and are refused. Instead physicist Edward Condon of the University of Colorado Boulder is chosen, with $313,000 for a year's work."
+    summary: "Hynek and physicist James McDonald ask for seats on the civilian panel and are refused. Physicist Edward Condon of the University of Colorado Boulder is chosen instead, with $313,000 for a year's work."
     category: organization
     significance: major
     entities:
@@ -189,7 +189,7 @@ events:
     cue: 913
   - date: "1966-08"
     title: "Robert Low's 'trick' memo"
-    summary: "Before the study begins, project coordinator Robert J. Low writes to two university administrators that the study could appear totally objective to the public while signalling to scientists an \"almost zero expectation of finding a saucer\". James McDonald makes the memo public in 1967."
+    summary: "Before the study begins, its project coordinator, Robert J. Low, writes to two university administrators that the study could appear totally objective to the public while signalling to scientists an \"almost zero expectation of finding a saucer\". James McDonald makes the memo public in 1967."
     category: document
     significance: major
     entities:
@@ -205,7 +205,7 @@ events:
     cue: 971
   - date: "1969-01"
     title: "Condon Report released"
-    summary: "Published as a book, the report concludes that nothing from 21 years of UFO study has added to scientific knowledge and recommends ending investigation, while the committee could not explain 25 to 30% of its cases."
+    summary: "The report, published as a book, concludes that nothing from 21 years of UFO study has added to scientific knowledge and recommends ending investigation. Yet the committee itself could not explain 25 to 30% of its cases."
     category: document
     significance: major
     entities:
@@ -221,7 +221,7 @@ events:
     cue: 1249
   - date: "1969-12"
     title: "Project Blue Book terminated"
-    summary: "Gerb's closing point: Sign, Grudge, Blue Book, the Robertson Panel and the Condon Committee all culminate in 1969, leaving the government free to say UFOs do not exist and are not studied."
+    summary: "Gerb's closing point is that Sign, Grudge, Blue Book, the Robertson Panel and the Condon Committee all culminate in 1969. That leaves the government free to say UFOs do not exist and are not studied."
     category: program
     significance: major
     entities:
@@ -236,7 +236,7 @@ events:
     cue: 1265
   - date: "1993-10-03"
     title: "Thornton Page's admission"
-    summary: "Robertson Panel signatory Thornton Page admits, in the statement Gerb dates to this day, that the chairman told members before the meetings to debunk every report and \"reduce public concern\"."
+    summary: "Thornton Page, who signed the Robertson Panel's report, admits that the chairman told members before the meetings to debunk every report and \"reduce public concern\". Gerb dates the statement to this day."
     category: document
     entities:
       - "Thornton Page"
@@ -251,34 +251,34 @@ Gerb notes that the story could begin with the 1947 Kenneth Arnold sightings or 
 
 ### Project Sign
 
-[[Project Sign]], first named Project Saucer, ran from 1948 to 1949 and was established, the video says, by USAF General [[Nathan Twining]], whose letter to General George Schulgen of the Army Air Forces asserted that flying discs are "real and not visionary or fictitious". Sign's written report states that some UFO reports present actual objects whose origins cannot be determined, and [[Edward J. Ruppelt]], later director of Grudge and Blue Book, said Sign endorsed the interplanetary explanation for some unexplained sightings.
+[[Project Sign]], first named Project Saucer, ran from 1948 to 1949. The video says it was established by USAF General [[Nathan Twining]], whose letter to General George Schulgen of the Army Air Forces asserted that flying discs are "real and not visionary or fictitious". Sign's written report states that some UFO reports present actual objects whose origins cannot be determined. [[Edward J. Ruppelt]], later director of Grudge and Blue Book, said Sign endorsed the interplanetary explanation for some unexplained sightings.
 
-Gerb stresses the distribution list. Every Sign report had to be sent to the [[Army and Navy Research and Development Board]], the [[USAF Scientific Advisory Group]] and the [[Atomic Energy Commission]], and he reads this as one more case of an official UFO investigation tracing back to the AEC, parent of today's Department of Energy. General [[Hoyt Vandenberg]] shut Sign down in 1949 for "lack of proof".
+Gerb stresses who received Sign's reports: every one had to be sent to the [[Army and Navy Research and Development Board]], the [[USAF Scientific Advisory Group]] and the [[Atomic Energy Commission]]. He reads this as one more case of an official UFO investigation tracing back to the AEC, parent of today's Department of Energy. General [[Hoyt Vandenberg]] shut Sign down in 1949 for "lack of proof".
 
 ### Project Grudge
 
-[[Project Grudge]] was commissioned the same year and officially ran only through 1949, yet its records were updated until 1999 and a full 707-page report of case analysis was published in 1960. The Air Force formed it specifically to alleviate public anxiety over UFOs, which Gerb calls "the first real breadcrumbs" of the government trying to shape public perception: Grudge was tasked with explaining sightings away as balloons, conventional aircraft, optical illusions, planets or mass hallucination.
+[[Project Grudge]] was commissioned the same year and officially ran only through 1949, yet its records were updated until 1999 and a full 707-page report of case analysis was published in 1960. The Air Force formed it specifically to alleviate public anxiety over UFOs, and it was tasked with explaining sightings away as balloons, conventional aircraft, optical illusions, planets or mass hallucination. Gerb calls this "the first real breadcrumbs" of the government trying to shape public perception.
 
-His example is the [[Lubbock Lights]]. Four engineering professors in [[Lubbock, Texas]] watched several flights of 20 to 30 lights crossing the sky at great speed in a perfect semicircle; Grudge put the case down to a flock of migrating birds, an explanation Gerb calls unsubstantiated and one the witnesses themselves rejected. Hynek later described Grudge as "less science and more of a public relations campaign".
+Gerb's example is the [[Lubbock Lights]]. Four engineering professors in [[Lubbock, Texas]] watched several flights of 20 to 30 lights crossing the sky at great speed in a perfect semicircle. Grudge put the case down to a flock of migrating birds, an explanation Gerb calls unsubstantiated and one the witnesses themselves rejected. Hynek later described Grudge as "less science and more of a public relations campaign".
 
 ## Blue Book and the Robertson Panel (1952-1965)
 
-[[Project Blue Book]], the best known of the official studies, ran from 1952 to 1969 to determine whether UFOs threatened national security and to analyse UFO data scientifically. It analysed 12,618 reports, 701 of which remained unexplained. Gerb calls it the place "where the true UFO stigma was born". Its scientific adviser throughout, astrophysicist [[J. Allen Hynek]], delivered the classic "swamp gas" and "weather balloon" explanations on a national stage; his dissatisfaction with the planned debunking was, Gerb says, an open secret, and after leaving he said openly that Blue Book "was not a scientific project" and that the Air Force never notified the media of an interesting case and "did everything they could to keep it down".
+[[Project Blue Book]], the best known of the official studies, ran from 1952 to 1969 to determine whether UFOs threatened national security and to analyse UFO data scientifically. It analysed 12,618 reports, 701 of which remained unexplained. Gerb calls it the place "where the true UFO stigma was born". Its scientific adviser throughout was astrophysicist [[J. Allen Hynek]], who delivered the classic "swamp gas" and "weather balloon" explanations on a national stage. Gerb says Hynek's dissatisfaction with the planned debunking was an open secret. After leaving, Hynek said openly that Blue Book "was not a scientific project" and that the Air Force never notified the media of an interesting case and "did everything they could to keep it down".
 
 ### The Washington sightings and the Pentagon press conference
 
-Over a series of nights in July 1952 (the video says December), lights accompanied by radar signatures appeared over Washington, D.C., in what became the [[1952 UFOs Over Washington DC|Washington National Airport sightings]]. Physical craft were reported, including by aircrew, an extraterrestrial origin was seriously considered at the time, and 148 national newspapers covered the event over the following six months. On 29 July Major General [[General Samford|John Samford]], director of Air Force intelligence, and [[General Ramey|Roger Ramey]], USAF director of operations (the same Ramey who, Gerb notes, had Jesse Marcel pose with substitute wreckage after Roswell), held a press conference at the Pentagon. Samford explained away most reports "to their own satisfaction" as hoaxes, misidentified aircraft or natural phenomena, but conceded that a certain percentage came from "credible observers of relatively incredible things", and said the Washington sightings were in no way connected with any secret US development.
+Over a series of nights in July 1952 (the video says December), lights accompanied by radar signatures appeared over Washington, D.C., in what became the [[1952 UFOs Over Washington DC|Washington National Airport sightings]]. Witnesses, aircrew among them, reported physical craft. At the time an extraterrestrial origin was seriously considered, and 148 national newspapers covered the event over the following six months. On 29 July Major General [[General Samford|John Samford]], director of Air Force intelligence, and [[General Ramey|Roger Ramey]], USAF director of operations (the same Ramey who, Gerb notes, had Jesse Marcel pose with substitute wreckage after Roswell), held a press conference at the Pentagon. Samford explained away most reports "to their own satisfaction" as hoaxes, misidentified aircraft or natural phenomena, but conceded that a certain percentage came from "credible observers of relatively incredible things", and said the Washington sightings were in no way connected with any secret US development.
 
 ### The Robertson Panel
 
-In January 1953, Gerb says, the government and the CIA "flipped Samford's statements on their head" by forming the [[Robertson Panel]], ostensibly to head off mass panic. Physicist and CIA consultant [[Howard P. Robertson]] was directed to review the Air Force's case files from Sign, Grudge and Blue Book, while at the same time [[Battelle Memorial Institute]], which Gerb ties to UFO material analysis in the 1950s, was separately commissioned to review the same files. The panel met four times: it reviewed 23 of the 2,331 cases on record, watched two UFO films and compared them to seagulls, discussed the problems of monitoring sightings, and heard Major [[Dewey J. Fournet]], who had coordinated UFO affairs for the Pentagon for a year and supported the extraterrestrial hypothesis for some cases. It spent the rest of that fourth day discussing his presentation.
+In January 1953, Gerb says, the government and the CIA "flipped Samford's statements on their head" by forming the [[Robertson Panel]], ostensibly to head off mass panic. Physicist and CIA consultant [[Howard P. Robertson]] was directed to review the Air Force's case files from Sign, Grudge and Blue Book. At the same time [[Battelle Memorial Institute]], which Gerb ties to UFO material analysis in the 1950s, was separately commissioned to review the same files. The panel met four times. It reviewed 23 of the 2,331 cases on record, watched two UFO films and compared them to seagulls, and discussed the problems of monitoring sightings. On the fourth day it heard Major [[Dewey J. Fournet]], who had coordinated UFO affairs for the Pentagon for a year and supported the extraterrestrial hypothesis for some cases, and it spent the rest of that day discussing his presentation.
 
-Its conclusion, and the answers to it that the video collects:
+The panel's conclusion, and the responses to it that the video collects:
 
 ::wiki-claim{video="xKArN8S9bnM" video-title="The Origin of the UFO Stigma"}
 ---
 term: "Finding"
-caption: "The Robertson Panel's recommendation and the three answers to it that Gerb sets against it."
+caption: "What the Robertson Panel recommended about UFOs, and three responses Gerb sets against it."
 claim:
   title: "No special status"
   by: "Robertson Panel"
@@ -289,7 +289,7 @@ responses:
   - by: "Thornton Page"
     stance: challenges
     date: "1993-10-03"
-    text: "A signatory to the report: the chairman told members before the meeting to debunk every report presented and to \"reduce public concern\"."
+    text: "Page, who signed the report, said the chairman told members before the meeting to debunk every report presented and to \"reduce public concern\"."
     cue: 693
   - by: "Gerb"
     stance: challenges
@@ -306,18 +306,18 @@ The panel's timing is part of Gerb's case: a month earlier, in December 1952, US
 
 ### Regulation 200-2
 
-After UFOs had been publicly denounced, the Air Force issued [[USAF Regulation 200-2]] (dated 26 August 1953), which restricted UFO reporting procedures and superseded the earlier AFL 200-5. Under it, all confirmed UFO reports, including those by Air Force personnel, went to Air Force intelligence rather than to Blue Book. Gerb calls this "awfully curious": it kept the most credible sightings from both Congress and the public, while Blue Book remained the public face of the investigation.
+After UFOs had been publicly denounced, the Air Force issued [[USAF Regulation 200-2]] (dated 26 August 1953), which restricted UFO reporting procedures and superseded the earlier AFL 200-5. Under it, all confirmed UFO reports, including those by Air Force personnel, went to Air Force intelligence rather than to Blue Book. Gerb calls this "awfully curious", because it kept the most credible sightings from both Congress and the public while Blue Book remained the public face of the investigation.
 
 ## Congress and the Condon Committee (1966-1970)
 
 ### The 1966 House hearing
 
-On 5 April 1966 Congress held its first closed session on UFOs, before the House Armed Services Committee. Congressman and future President [[Gerald Ford]] had arranged it, noting the ridicule he received for doing so, and was motivated in part by dissatisfaction with Hynek's "swamp gas" explanation of the 1966 Dexter, Michigan mass sighting. The panel was Blue Book head (1963–1969) Major [[Hector Quintanilla]], Hynek, and Secretary of the Air Force Harold Brown.
+On 5 April 1966 Congress held its first closed session on UFOs, before the House Armed Services Committee. Congressman and future President [[Gerald Ford]] had arranged it, and noted the ridicule he received for doing so. He was motivated in part by dissatisfaction with Hynek's "swamp gas" explanation of the 1966 Dexter, Michigan mass sighting. The panel was Major [[Hector Quintanilla]], head of Blue Book from 1963 to 1969, along with Hynek and Secretary of the Air Force Harold Brown.
 
 ::wiki-claim{video="xKArN8S9bnM" video-title="The Origin of the UFO Stigma"}
 ---
 label: "Explanations at the 1966 hearing"
-caption: "Two official explanations from the run-up to and floor of the hearing, and who answered them."
+caption: "Two official explanations, one given before the hearing and one during it, and the people who challenged them."
 claims:
   - title: "Swamp gas at Dexter"
     by: "J. Allen Hynek"
@@ -339,7 +339,7 @@ claims:
     responses:
       - by: "Gerb"
         stance: challenges
-        text: "An irrefutable lie: Blue Book's own reports show numerous radar unknowns with corroborating witness testimony."
+        text: "An irrefutable lie, because Blue Book's own reports show numerous radar unknowns with corroborating witness testimony."
         cue: 855
       - by: "J. Allen Hynek"
         stance: challenges
@@ -354,11 +354,11 @@ Tired, as he put it, of being a "puppet of the Air Force" who "only says what th
 
 Instead, in the summer of 1966, physicist [[Edward Condon]] of the University of Colorado Boulder was chosen. He was known for his dealings with the House Un-American Activities Committee, and was paid what Gerb calls "the modest sum" of $313,000 for a year's work. The [[Condon Committee]] turned down many offers of help: retired Marine Corps Major Donald Keyhoe, the Aerial Phenomena Research Organization, [[National Investigations Committee on Aerial Phenomena|NICAP]], McDonald and Hynek all offered to share their research files. The committee moved slowly, hampered by an apparent lack of funds and method, little subject-matter expertise, and members who usually worked without coordinating with one another. In a public lecture in 1967, Condon said the government should not study UFOs because the subject was nonsense, adding that he was "not supposed to reach that conclusion for another year".
 
-The same year McDonald made public a 1966 memo by the committee's second-in-command, [[Robert J. Low]], a hardened skeptic who, Gerb says, has a paper trail placing him in the CIA before he taught at Boulder. Writing to two university administrators before any investigation, Low called "the trick" describing the project so that it would look totally objective to the public while telling the scientific community the researchers had "an almost zero expectation of finding a saucer". The way to do it was to study the psychology and sociology of the people who report UFOs rather than the physical phenomena. Gerb reads the memo as the stigma's operating manual: forget the sighting, however credible, and question the psychology of the observer.
+The same year McDonald made public a 1966 memo by the committee's second-in-command, [[Robert J. Low]], a hardened skeptic who, Gerb says, has a paper trail placing him in the CIA before he taught at Boulder. Writing to two university administrators before any investigation, Low said "the trick" was to describe the project so that it would look totally objective to the public while telling the scientific community the researchers had "an almost zero expectation of finding a saucer". The way to do it was to study the psychology and sociology of the people who report UFOs rather than the physical phenomena. Gerb reads the memo as a description of how the stigma would work: forget the sighting, however credible, and question the psychology of the observer.
 
 ### The Condon Report and its reception
 
-The [[Condon Report]], released to the public as a book in 1969, recommended that the Air Force and the wider government end UFO investigation. What followed, as Gerb tells it, is a verdict challenged by the two scientists shut out of the study and endorsed by the institutions of mainstream science:
+The [[Condon Report]], released to the public as a book in 1969, recommended that the Air Force and the wider government end UFO investigation. As Gerb tells it, the two scientists shut out of the study challenged the verdict, and the institutions of mainstream science endorsed it:
 
 ::wiki-claim{video="xKArN8S9bnM" video-title="The Origin of the UFO Stigma"}
 ---
@@ -374,7 +374,7 @@ claim:
 responses:
   - by: "James McDonald"
     stance: challenges
-    text: "Inadequate: an examination of only a tiny fraction of the most puzzling reports, and a scientific argument that is wholly unsatisfactory."
+    text: "The report is inadequate. It examined only a tiny fraction of the most puzzling reports, and its scientific argument is wholly unsatisfactory."
     cue: 1156
   - by: ["James McDonald", "J. Allen Hynek"]
     stance: challenges
@@ -402,11 +402,11 @@ The news media praised the report almost universally. Some reviews likened conti
 
 ## Five programs, one pattern
 
-Gerb's closing argument puts the five bodies side by side: each was presented as a serious investigation, and each, he says, served to discredit the phenomenon publicly while real research went on behind the scenes.
+In his closing argument Gerb sets the five bodies side by side. Each was presented as a serious investigation, and each, he says, served to discredit the phenomenon in public while real research went on behind the scenes.
 
 ::wiki-compare{video="xKArN8S9bnM" video-title="The Origin of the UFO Stigma"}
 ---
-caption: "The five official efforts Gerb names as the \"sophisticated disinformation campaigns\" David Grusch describes, as the video presents them."
+caption: "The five official efforts that Gerb identifies with the \"sophisticated disinformation campaigns\" David Grusch describes, compared as the video presents them."
 attributeLabel: "Point"
 subjects:
   - name: "Project Sign"
@@ -465,7 +465,7 @@ rows:
 entries:
   - name: "J. Allen Hynek"
     role: "Astrophysicist; Project Blue Book scientific adviser"
-    note: "Delivered the \"swamp gas\" explanations the stigma was built on, then became the video's chief witness against Grudge, Blue Book, the Robertson Panel and the Condon Report."
+    note: "Gave the \"swamp gas\" explanations the stigma was built on, and later became the video's chief witness against Grudge, Blue Book, the Robertson Panel and the Condon Report."
   - name: "Edward J. Ruppelt"
     role: "USAF captain; later director of Grudge and Blue Book"
     note: "Said Project Sign endorsed the interplanetary explanation; barred in December 1952 from sharing compelling UFO data with the CIA."
@@ -480,7 +480,7 @@ entries:
     note: "Told the 1966 House hearing that Blue Book had no unexplained radar cases, which Gerb calls an irrefutable lie."
   - name: "Gerald Ford"
     role: "Congressman, later President"
-    note: "Arranged the first closed congressional session on UFOs in April 1966, dissatisfied with the swamp-gas explanation of the Dexter, Michigan sighting."
+    note: "Arranged the first closed congressional session on UFOs in April 1966, partly because he was dissatisfied with the swamp-gas explanation of the Dexter, Michigan sighting."
   - name: "Edward Condon"
     role: "Physicist, University of Colorado Boulder"
     note: "Led the $313,000 civilian study whose summary found nothing of scientific value, a conclusion he voiced a year before it was due."
@@ -498,7 +498,7 @@ entries:
 
 ## Key Claims
 
-- The reality of unidentified aerial and submerged phenomena is described as fact, not up for debate, whatever their origin; they exhibit instantaneous acceleration, hypersonic velocity, anti-gravity, low observability and transmedial travel.
+- The video treats the reality of unidentified aerial and submerged phenomena as fact, not up for debate, whatever their origin. They exhibit instantaneous acceleration, hypersonic velocity, anti-gravity, low observability and transmedial travel.
 - UFO reports have been documented in about 140 countries, and military and civilian pilots have historically been advised not to report sightings for fear of losing their flight status.
 - Project Sign (1948) concluded that some UFO reports present actual objects of undeterminable origin; its reports were required to go to the Atomic Energy Commission among others; General Vandenberg shut it down for "lack of proof".
 - Project Grudge was formed to alleviate public anxiety by explaining sightings away, and put the Lubbock Lights down to migrating birds against the witnesses' own view; Hynek called it "less science and more of a public relations campaign".

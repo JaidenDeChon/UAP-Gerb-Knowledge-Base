@@ -14,55 +14,55 @@ tags:
 ---
 stats:
   - value: "12 yrs"
-    label: Ahead of nitinol's discovery
-    hint: "Battelle's reports 1949; Buehler 1961"
+    label: Before nitinol's official discovery
+    hint: "Battelle studied nitinol in 1949; Buehler officially discovered it in 1961"
   - value: "3,200"
     label: Sightings in Special Report 14
-    hint: "Battelle and ATIC, 5 May 1955"
+    hint: "Published by Battelle and the Air Technical Intelligence Center (ATIC) on 5 May 1955"
   - value: "61 yrs"
-    label: Nitinol reports restricted
-    hint: "1949 until declassified in 2010"
+    label: Nitinol reports kept restricted
+    hint: "From 1949 until they were declassified in 2010"
   - value: "$1.9M"
     label: Sand Corp's AARO contract
-    hint: "Overseen by Ronald Moultrie, 2022"
+    hint: "Support contract awarded in 2022 and overseen by Ronald Moultrie"
 ---
 ::
 
 ## Overview
 
-This video opens Gerb's "UFOs in the Private Sector" series, which looks at the defense contractors that figures such as [[David Grusch]], [[Luis Elizondo|Lue Elizondo]], [[Chris Mellon]], [[Eric Davis]] and former Senator [[Harry Reid]] have said have a direct hand in UFO crash retrieval and reverse engineering. Its subject is [[Battelle Memorial Institute]], a private nonprofit applied-sciences company in Columbus, Ohio, with a long record of government work: uranium fabrication research for the [[Manhattan Project]], the photocopier and the UPC barcode, Apollo 11 propellant and electronics work, and chemical and biological defense research. Today it manages or helps manage Department of Energy laboratories, among them [[Los Alamos National Laboratory]], the National Renewable Energy Laboratory and [[Oak Ridge National Laboratory]]. Gerb's charge is that Battelle has a "dark secret": a long history of studying UFOs, of helping the US government and the Air Force cover them up, and of analysing UFO material itself.
+This video opens Gerb's "UFOs in the Private Sector" series on defense contractors. Figures such as [[David Grusch]], [[Luis Elizondo|Lue Elizondo]], [[Chris Mellon]], [[Eric Davis]] and former Senator [[Harry Reid]] have said these companies have a direct hand in UFO crash retrieval and reverse engineering. Its subject is [[Battelle Memorial Institute]], a private nonprofit applied-sciences company in Columbus, Ohio, with a long record of government work: uranium fabrication research for the [[Manhattan Project]], the photocopier and the UPC barcode, Apollo 11 propellant and electronics work, and chemical and biological defense research. Today it manages or helps manage Department of Energy laboratories, among them [[Los Alamos National Laboratory]], the National Renewable Energy Laboratory and [[Oak Ridge National Laboratory]]. Gerb charges that Battelle has a "dark secret": a long history of studying UFOs, of helping the US government and the Air Force cover them up, and of analysing UFO material itself.
 
-The video's central evidence is a contradiction in Battelle's own record. In 1955 Battelle and the Air Force's intelligence center published Special Report 14, which concluded that no physical matter had ever been recovered from a UFO. Yet six years earlier, [[Wright-Patterson Air Force Base]] had contracted Battelle to analyse [[Nitinol (Nickel-Titanium Alloy)|nitinol]], a nickel-titanium shape-memory alloy not officially discovered until 1961. Gerb infers that the alloy came from the 1947 [[Roswell Crash|Roswell crash]], whose debris [[Jesse Marcel]] described as a light metal that kept its shape after deformation and which was supposedly shipped to Wright-Patterson. A co-author of the 1949 reports, chemical engineer [[EJ Center]], allegedly told his daughter's boyfriend in 1958 that he had studied parts of a flying saucer. That account was published in 1994, sixteen years before the 1949 reports were declassified in 2010, and Gerb calls the connection "just obscene".
+The video's central evidence is a contradiction in Battelle's own record. In 1955 Battelle and the Air Force's intelligence center published Special Report 14, which concluded that no physical matter had ever been recovered from a UFO. Yet six years earlier, [[Wright-Patterson Air Force Base]] had contracted Battelle to analyse [[Nitinol (Nickel-Titanium Alloy)|nitinol]], a nickel-titanium shape-memory alloy not officially discovered until 1961. Gerb infers that the alloy came from the 1947 [[Roswell Crash|Roswell crash]], whose debris [[Jesse Marcel]] described as a light metal that kept its shape after deformation and which was supposedly shipped to Wright-Patterson. A co-author of the 1949 reports, chemical engineer [[EJ Center]], allegedly told his daughter's boyfriend in 1958 that he had studied parts of a flying saucer. The account was published in 1994, sixteen years before the 1949 reports were declassified in 2010. Gerb calls the connection "just obscene".
 
-The last strand brings Battelle into the present. [[Ronald S. Moultrie]], the Under Secretary of Defense for Intelligence and Security to whom [[AARO]] and [[Sean Kirkpatrick]] reported, oversaw AARO's $1.9 million support contract with [[Sand Corp]] and joined Kirkpatrick in a December 2022 press conference denying any crash recoveries. He has also, Gerb says, sat on Battelle's advisory board since 2016, a seat he tried to scrub from his record. Gerb's conclusion is that Battelle has played both sides: studying UFO material while helping to quell public interest in it.
+The last part of the video brings Battelle into the present. [[Ronald S. Moultrie]], the Under Secretary of Defense for Intelligence and Security to whom [[AARO]] and [[Sean Kirkpatrick]] reported, oversaw AARO's $1.9 million support contract with [[Sand Corp]] and joined Kirkpatrick in a December 2022 press conference denying any crash recoveries. He has also, Gerb says, sat on Battelle's advisory board since 2016, a seat he tried to scrub from his record. Gerb concludes that Battelle has played both sides, studying UFO material while helping to quell public interest in it.
 
 ## Chronology
 
 ::wiki-timeline{video="tISTJRPOqFo" video-title="UFOs in the Private Sector - Battelle Memorial Institute"}
 ---
-help: "The ruler above the entries spans the video's story from Roswell in 1947 to 2023. Ticks are entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line capped with a downward arrow is where Gerb is. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Timestamps jump the mini-player to that moment in the video."
+help: "The bar above the list runs from Roswell in 1947 to 2023, with a coloured mark for each entry; taller marks are major ones. Click the bar to jump to the nearest entry. The dark line shows the entry you are reading. Play from here starts the video at that entry, and once it is playing a green line shows where Gerb is. Turn on Follow video to have the list scroll along with the video; scrolling yourself turns it off. Click a timestamp to play the video from that moment."
 eras:
   - id: stork
     label: "Stork and the Nitinol Contract"
     from: 1947
     to: 1958
-    summary: "Roswell debris reaches Wright-Patterson, Battelle analyses nitinol for the base, and runs Project Stork while its Special Report 14 says no physical matter has ever been recovered."
+    summary: "Roswell debris reaches Wright-Patterson, and Battelle analyses nitinol for the base. Battelle also runs Project Stork, and its Special Report 14 says no physical matter has ever been recovered from a UFO."
     anchor: "project-stork-and-special-report-14"
   - id: surfaces
     label: "The Record Surfaces"
     from: 1959
     to: 2010
-    summary: "Nitinol is officially discovered, Center's account reaches MUFON and print, and only then are the 1949 reports declassified."
+    summary: "Nitinol is officially discovered, and Battelle engineer EJ Center's account reaches MUFON and then print. Only after that are the 1949 reports declassified."
     anchor: "ej-centers-account"
   - id: modern
     label: "The Modern Thread"
     from: 2011
-    summary: "Moultrie joins Battelle's board, Vallée and Fox hint at a private contractor, and AARO hires Sand Corp and denies any crash recoveries."
+    summary: "Ronald Moultrie joins Battelle's board, and Jacques Vallée and James Fox hint at a private contractor. AARO hires Sand Corp and denies any crash recoveries."
     anchor: "battelle-aaro-and-ronald-moultrie"
 events:
   - date: "1947-07"
     title: "Roswell debris recovered and shipped to Wright-Patterson"
-    summary: "Major Jesse Marcel, taken to the debris field by rancher Mac Brazel, described an exceedingly light metal that would retain its shape after deformation; General Ramey later had him pose with balsa wood and foil to push the weather-balloon explanation. The debris was supposedly shipped to Wright-Patterson Air Force Base."
+    summary: "Major Jesse Marcel, taken to the debris field by rancher Mac Brazel, described an exceedingly light metal that would retain its shape after deformation. General Ramey later had him pose with balsa wood and foil to push the weather-balloon explanation. The debris was supposedly shipped to Wright-Patterson Air Force Base."
     category: event
     significance: major
     entities:
@@ -128,7 +128,7 @@ events:
     cue: 229
   - date: "1957"
     title: "EJ Center leaves Battelle"
-    summary: "Elroy John Center, a senior research chemical engineer at Battelle from 1939 to 1957, co-wrote the second report's section 'Analytical Methods for Titanium Based Alloys', on the titanium purity nitinol requires."
+    summary: "Elroy John Center, a senior research chemical engineer at Battelle from 1939 to 1957, co-wrote a section of the second nitinol progress report, 'Analytical Methods for Titanium Based Alloys', on the titanium purity that nitinol requires."
     category: person
     significance: minor
     entities:
@@ -180,7 +180,7 @@ events:
     cue: 516
   - date: "2016"
     title: "Ronald Moultrie joins Battelle's advisory board"
-    summary: "Ronald Moultrie, later Under Secretary of Defense for Intelligence and Security, has sat on Battelle's advisory board since 2016, according to the video; POGO recorded the seat before he removed it from his LinkedIn page."
+    summary: "According to the video, Ronald Moultrie, later Under Secretary of Defense for Intelligence and Security, has sat on Battelle's advisory board since 2016. The Project On Government Oversight (POGO) recorded the seat before he removed it from his LinkedIn page."
     category: person
     significance: notable
     entities:
@@ -242,15 +242,15 @@ On 5 May 1955 Battelle and ATIC published Special Report 14, an analysis of 3,20
 
 ## The Nitinol Contract (1949)
 
-In 1949 Wright-Patterson Air Force Base contracted Battelle to research titanium alloys. The first and second progress reports, covering 1 September to 21 October 1949 under a contract whose number Gerb reads as 33-38-3736, concentrate on nitinol, a nickel-titanium alloy officially discovered only in 1961, by Dr. William J. Buehler. Gerb describes its properties. It is superelastic, snapping back to its original shape under high stress with no deformation. It has shape memory. It is elastocaloric, heating under mechanical stress and cooling as the stress is removed. It is also very hard to make: the composition must be tightly controlled, titanium is highly reactive, and even in the 21st century the alloy needs vacuum arc or vacuum induction remelting. Yet Battelle, he notes, had it in 1949.
+In 1949 Wright-Patterson Air Force Base contracted Battelle to research titanium alloys. The first and second progress reports, covering 1 September to 21 October 1949 under a contract whose number Gerb reads as 33-38-3736, concentrate on nitinol, a nickel-titanium alloy officially discovered only in 1961, by Dr. William J. Buehler. Gerb describes its properties. It is superelastic, snapping back to its original shape under high stress with no deformation, and it has shape memory. It is also elastocaloric, heating under mechanical stress and cooling as the stress is removed. The alloy is very hard to make: the composition must be tightly controlled, titanium is highly reactive, and even in the 21st century the alloy needs vacuum arc or vacuum induction remelting. Yet Battelle, he notes, had it in 1949.
 
 He sets that against Roswell. Major Jesse Marcel, taken to the debris field by rancher [[Mac Brazel]], described an exceedingly light metal that kept its shape after deformation, and was later told by [[General Ramey|General Roger Ramey]] to pose with balsa wood and foil to support the weather-balloon story. The debris was supposedly shipped to Wright-Patterson. "To summarize," Gerb says, he is directly inferring that the Roswell crash led to the discovery of nitinol, and that this is why Wright-Patterson and the Air Force had Battelle analyse it in 1949.
 
 ::wiki-chain{video="tISTJRPOqFo" video-title="UFOs in the Private Sector - Battelle Memorial Institute"}
 ---
 kind: custody
-label: "Gerb's inference"
-caption: "The route Gerb infers for the material, from the Roswell debris field to a Battelle chemist's titanium analysis. The Roswell-to-Wright-Patterson step is the shipment he calls 'supposed'; the link from Roswell to nitinol is his own inference."
+label: "Gerb's inferred route for the Roswell debris"
+caption: "The path Gerb infers the material took, from the Roswell debris field to a Battelle chemist's titanium analysis. He calls the shipment from Roswell to Wright-Patterson 'supposed', and the link from Roswell to nitinol is his own inference."
 steps:
   - name: "Roswell Crash"
     date: "1947-07"
@@ -282,7 +282,7 @@ Gerb then turns to the summer of 1994 and the *Ohio UFO Notebook* of Dr. [[Irena
 ::wiki-chain{video="tISTJRPOqFo" video-title="UFOs in the Private Sector - Battelle Memorial Institute"}
 ---
 kind: transmission
-caption: "How Center's remark reached print, read forward in time. Gerb's point is the last date: the account was published in 1994, sixteen years before Center's 1949 reports were declassified in 2010."
+caption: "How Battelle engineer EJ Center's remark about flying-saucer parts reached print, in date order. The account was published in 1994, sixteen years before Center's 1949 reports were declassified in 2010, which is the point Gerb makes."
 steps:
   - name: "EJ Center"
     date: "1949"
@@ -321,7 +321,7 @@ The two official denials in the video, sixty-seven years apart, both lead back t
 ::wiki-claim{video="tISTJRPOqFo" video-title="UFOs in the Private Sector - Battelle Memorial Institute"}
 ---
 label: "Two denials, and Gerb's answer"
-caption: "The two official statements the video weighs, each with Gerb's reply."
+caption: "Two official statements that no UFO material has been recovered, each followed by Gerb's reply."
 claims:
   - title: "Special Report 14"
     by: ["Battelle Memorial Institute", "Air Force Technical Intelligence Center"]
@@ -364,7 +364,7 @@ entries:
     note: "His Secret memo of 9 January 1953 proposed that Stork help reassure the public that the UFO problem was 'well under control'."
   - name: Edward J. Ruppelt
     role: Director of Projects Sign, Grudge and Blue Book
-    note: "Named in the Cross memo, which ties Battelle's parallel work to the Air Force's official investigation."
+    note: "Named in Howard C. Cross's memo, which ties Battelle's parallel work to the Air Force's official investigation."
   - name: J. Allen Hynek
     role: Astronomer, Air Force consultant
     note: "Mentioned Project Stork during his attempted testimony at the 1953 Robertson Panel."
@@ -382,7 +382,7 @@ entries:
     note: "Pointed to the contractor indirectly through its role around the 1953 Robertson Panel, which Gerb reads as Battelle."
   - name: Ronald S. Moultrie
     role: Under Secretary of Defense for Intelligence and Security
-    note: "Oversaw AARO and its Sand Corp contract, denied any crash recoveries in December 2022, and has sat on Battelle's advisory board since 2016, per POGO."
+    note: "Oversaw AARO and its Sand Corp contract, denied any crash recoveries in December 2022, and has sat on Battelle's advisory board since 2016, according to the Project On Government Oversight (POGO)."
   - name: Sean Kirkpatrick
     role: First director of AARO
     note: "Reported to Moultrie and shared the December 2022 press conference denying evidence of crashed craft."

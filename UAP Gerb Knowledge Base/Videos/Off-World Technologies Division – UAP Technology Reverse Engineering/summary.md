@@ -21,9 +21,9 @@ stats:
     hint: "A floating sphere and a gauntlet"
   - value: "2,489"
     label: Contract workers at Crane
-    hint: "The pool Gerb's SAIC theory draws on"
+    hint: "The workforce Gerb's SAIC theory draws on"
   - value: "54m"
-    label: Runtime
+    label: Video length
 ---
 ::
 
@@ -31,17 +31,17 @@ stats:
 
 This video presents, for the first time, the firsthand testimony of "[[RA]]," an anonymous US Army Green Beret and 18 Bravo weapons sergeant. RA says that sometime between 2013 and 2015, during a TS/SCI-level weapons course at [[Naval Surface Warfare Center Crane]] in Indiana, he was escorted deep underground into an area his contractor guide casually called the "[[Off-World Technologies Division]]." There, in what looked like an observation room, he says he was shown two objects described as not made by human hands: a seamless metallic sphere that seemed to float off its podium, and a gauntlet-like device identified as a weapon because it had discharged an energy pulse during its recovery. Staff told him both objects interact with human consciousness, responding to some people and not others, and that neither the Navy nor its contractor could work out how to operate them.
 
-UAP Gerb frames the episode as a "primary investigation" built outward from RA's account. The first half establishes RA's credentials, which Gerb says he vetted through RA's certifications and DD214, and lets RA describe the descent, the objects, his oddly clouded memory of the visit, and the aftermath in his own words. Gerb then tests the account against outside material. RA picked attorney [[Daniel Sheehan]]'s description of symbols on a crashed saucer in classified [[Project Blue Book]] photographs out of a set of famous UFO iconography as a close match for the characters the gauntlet projected.
+Gerb calls the episode a "primary investigation" and builds it outward from RA's account. The first half establishes RA's credentials, which Gerb says he vetted through RA's certifications and DD214, and lets RA describe the descent, the objects, his oddly clouded memory of the visit, and the aftermath in his own words. Gerb then tests the account against outside material. Shown a set of famous UFO symbols, RA picked attorney [[Daniel Sheehan]]'s description of the markings on a crashed saucer in classified [[Project Blue Book]] photographs as a close match for the characters the gauntlet projected.
 
 The second half turns to [[SAIC]], which Gerb believes supplied RA's guide. The case rests on SAIC's hundreds of millions of dollars in Crane contracts, several of whose announcements have since vanished from its website; its documented research into anomalous cognition and the [[Project Stargate|Stargate]] program; and the people in its orbit, from Admiral [[Bobby Ray Inman]] to former Pentagon acquisition chief [[Ellen Lord]]. The video closes by widening the net to an alleged 1944 Majestic-12 memo on "non-terrestrial" technology, [[Eric A. Walker]]'s remarks about the "sixth sense," [[Sandia National Laboratories]], Navy officials' accounts of dismantled craft shipped to labs, and [[Salvatore Pais]]'s patents at Crane's sister facility, [[Naval Air Station Patuxent River|Naval Air Station Pax River]]. Gerb notes that the "Off-World Technologies Division" appears in no document or search result he could find.
 
 ## Chronology
 
-The video is an investigation, not a history, and it moves between decades freely. Laid end to end, the dates it cites form a paper trail: early precedents for a technology-exploitation division, SAIC's rise as a consciousness-research contractor with a Navy admiral on its board, RA's visit, and the contract announcements that disappeared afterward. Cues follow the video, which introduces SAIC's contracts before the history behind them, so the playhead jumps back and forth along the ruler.
+The video moves freely between decades as it builds its case. Laid end to end, the dates it cites form a paper trail: early precedents for a technology-exploitation division, SAIC's rise as a consciousness-research contractor with a Navy admiral on its board, RA's visit, and the contract announcements that disappeared afterward. The entries are listed by date, but the video covers SAIC's contracts before the history behind them, so as it plays, the green line marking its position jumps back and forth along the bar of years.
 
 ::wiki-timeline{video="QJ215I85d5M" video-title="Off-World Technologies Division – UAP Technology Reverse Engineering"}
 ---
-help: "The bar pinned above the entries is a ruler of every date the video cites, from an alleged 1944 memo to SAIC's 2024 contract removals. Ticks are entries, coloured by category and taller for major ones; click the ruler to jump to the nearest. The dashed marker is RA's visit to the Off-World Technologies Division. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page. Timestamps jump the mini-player to that moment."
+help: "The bar above the list covers every date the video cites, from an alleged 1944 memo to SAIC's 2024 contract removals. Each entry is a mark on the bar, coloured by category; taller marks are major entries. Click the bar to jump to the nearest entry. The dashed line marks RA's visit to the Off-World Technologies Division. Play from here starts the video at the entry you are reading, and Follow video makes the list scroll along with it. Click a timestamp to play the video from that moment."
 hinges:
   - year: 2013
     label: "RA's visit (2013-2015)"
@@ -59,7 +59,7 @@ events:
   - date: "1947-07"
     title: "Roswell and Corso's Foreign Technology Division"
     cue: 11
-    summary: "The video opens on Philip J. Corso's claim that technologies such as night vision and fiber optics were reverse engineered from the 1947 Roswell, New Mexico crash, as the best-known precedent for a division that exploits recovered technology."
+    summary: "The video opens with Philip J. Corso's claim that technologies such as night vision and fiber optics were reverse engineered from the 1947 Roswell, New Mexico crash. It is the best-known precedent the video gives for a division that exploits recovered technology."
     category: event
     significance: minor
     entities:
@@ -69,7 +69,7 @@ events:
   - date: "c. 1950s"
     title: "The Army's Interplanetary Phenomenon Unit"
     cue: 3
-    summary: "Gerb's other named precedent: the US Army's brief in-house Interplanetary Phenomenon Unit, said to have analyzed UFOs in the 1950s."
+    summary: "The other precedent Gerb names is the US Army's brief in-house Interplanetary Phenomenon Unit, said to have analyzed UFOs in the 1950s."
     category: organization
     significance: minor
     entities:
@@ -86,7 +86,7 @@ events:
   - date: "1969"
     title: "SAIC founded"
     cue: 1871
-    summary: "Science Applications International Corporation is founded in 1969, going on to specialize in information technology, engineering and defense work and to win large Department of Defense contracts. The video presents it as the contractor most likely behind the Off-World Technologies Division."
+    summary: "Science Applications International Corporation is founded in 1969. It went on to specialize in information technology, engineering and defense work, and to win large Department of Defense contracts. The video presents it as the contractor most likely behind the Off-World Technologies Division."
     category: organization
     significance: notable
     entities:
@@ -104,7 +104,7 @@ events:
   - date: "1989"
     title: "Bobby Ray Inman and Sumner Shapiro speak to Bob Oechsler"
     cue: 2705
-    summary: "NASA mission specialist Bob Oechsler asked Admiral Bobby Ray Inman, a former NSA director and Director of Naval Intelligence, whether recovered vehicles would ever be available for research. Inman referred him to Everett Heinman of the CIA's DS&T and to former Director of Naval Intelligence Sumner Shapiro, who reportedly said the US held extraterrestrial vehicles, that he had studied one up close, and that teams disassembled craft and shipped the parts to labs around the country."
+    summary: "NASA mission specialist Bob Oechsler asked Admiral Bobby Ray Inman, a former NSA director and Director of Naval Intelligence, whether recovered vehicles would ever be available for research. Inman referred him to Everett Heinman of the CIA's DS&T and to former Director of Naval Intelligence Sumner Shapiro. Shapiro reportedly said the US held extraterrestrial vehicles, that he had studied one up close, and that teams disassembled craft and shipped the parts to labs around the country."
     category: event
     significance: major
     entities:
@@ -126,7 +126,7 @@ events:
   - date: "1991"
     title: "SAIC writes human-subjects protocols and an anomalous mental phenomena plan for DIA"
     cue: 2286
-    summary: "Two 1991 SAIC documents the video highlights: protocols for the use of human subjects from SAIC's Cognitive Science Laboratory, and a comprehensive research plan for anomalous mental phenomena written for the Defense Intelligence Agency. SAIC coined its own terms, anomalous cognition for extrasensory perception and anomalous perturbation for psychokinesis."
+    summary: "The video points to two 1991 SAIC documents: protocols for the use of human subjects from SAIC's Cognitive Science Laboratory, and a comprehensive research plan for anomalous mental phenomena written for the Defense Intelligence Agency. SAIC coined its own terms, anomalous cognition for extrasensory perception and anomalous perturbation for psychokinesis."
     category: document
     significance: notable
     entities:
@@ -175,7 +175,7 @@ events:
   - date: "2010"
     title: "$351 million SAIC contract supporting JSOC at Crane"
     cue: 1995
-    summary: "A 2010 $351 million contract for SAIC to provide technical engineering services to NSWC Crane in support of what the video calls the Joint Special Operations Response Department, JSOC, which Gerb says has been named with the CIA's Office of Global Access as tasked with UAP crash retrieval."
+    summary: "In 2010 SAIC received a $351 million contract to provide technical engineering services to Naval Surface Warfare Center (NSWC) Crane in support of what the video calls the Joint Special Operations Response Department, JSOC. Gerb says JSOC has been named with the CIA's Office of Global Access as tasked with UAP crash retrieval."
     category: program
     significance: major
     entities:
@@ -186,7 +186,7 @@ events:
   - date: "2012"
     title: "Office of Naval Research paper on a human sixth sense"
     cue: 2339
-    summary: "A 2012 Office of Naval Research paper on a human sixth sense, since deleted, which the video offers as the Navy's own documented interest in the anomalous cognition that RA's consciousness-interactive objects imply."
+    summary: "The video offers this since-deleted 2012 Office of Naval Research paper on a human sixth sense as the Navy's own documented interest in the anomalous cognition that RA's consciousness-interactive objects imply."
     category: document
     significance: notable
     entities:
@@ -194,7 +194,7 @@ events:
   - date: "2013"
     title: "SAIC's $228 million Sandia IT contract"
     cue: 2630
-    summary: "A five-year, $228 million IT consolidation contract between SAIC and Sandia National Laboratories, which Gerb recalls from his Del Rio video as an alleged Atomic Energy Commission storage site for crash material at Kirtland Air Force Base."
+    summary: "SAIC has a five-year, $228 million IT consolidation contract with Sandia National Laboratories. Gerb recalls Sandia from his Del Rio video as an alleged Atomic Energy Commission storage site for crash material at Kirtland Air Force Base."
     category: organization
     significance: minor
     entities:
@@ -203,7 +203,7 @@ events:
   - date: "2013"
     title: "RA enters the Off-World Technologies Division"
     cue: 691
-    summary: "Sometime between 2013 and 2015, Green Beret RA attends a TS/SCI weapons course at NSWC Crane. He and the only other cleared soldier in a class of about ten are taken underground through checkpoints to an area their contractor guide calls the Off-World Technologies Division, where a levitating seamless sphere and a gauntlet-like weapon are on display."
+    summary: "Sometime between 2013 and 2015, Green Beret RA attends a TS/SCI weapons course at Naval Surface Warfare Center (NSWC) Crane. He and the only other cleared soldier in a class of about ten are taken underground through checkpoints to an area their contractor guide calls the Off-World Technologies Division, where a levitating seamless sphere and a gauntlet-like weapon are on display."
     category: event
     significance: major
     entities:
@@ -214,7 +214,7 @@ events:
   - date: "2017"
     title: "Salvatore Pais's triangle-craft patent at Pax River"
     cue: 2839
-    summary: "Navy aerospace engineer Salvatore Pais's patent for a triangle- or diamond-shaped craft that manipulates fields and the quantum vacuum, which Gerb says resembles the alleged TR-3B. The video dates it to 2017 at Naval Air Station Pax River, with support from NAVAIR CTO James Sheehy; Nat Kobitz later told Ross Coulthart his Navy colleagues knew nothing about it."
+    summary: "Navy aerospace engineer Salvatore Pais filed a patent for a triangle- or diamond-shaped craft that manipulates fields and the quantum vacuum. Gerb says it resembles the alleged TR-3B. The video dates it to 2017 at Naval Air Station Pax River, with support from NAVAIR chief technology officer James Sheehy. Nat Kobitz later told Ross Coulthart his Navy colleagues knew nothing about it."
     category: document
     significance: notable
     entities:
@@ -234,7 +234,7 @@ events:
   - date: "2020"
     title: "$133 million contract reaching Crane's special capabilities branch"
     cue: 2140
-    summary: "A 2020 $133 million SAIC contract for mission engineering and integration in Crane's maneuver engagement and surveillance division, an R&D effort under special warfare and expeditionary systems with a subset for Crane's special capabilities branch. Gerb asks whether this money reaches the Off-World Technologies Division. Its announcement was also pulled from SAIC's site."
+    summary: "In 2020 SAIC received a $133 million contract for mission engineering and integration in Crane's maneuver engagement and surveillance division. It is an R&D effort under special warfare and expeditionary systems, with a subset for Crane's special capabilities branch. Gerb asks whether this money reaches the Off-World Technologies Division. Its announcement was also pulled from SAIC's site."
     category: program
     significance: major
     entities:
@@ -243,7 +243,7 @@ events:
   - date: "2023"
     title: "$240 million IDIQ contract for Crane's weapon division"
     cue: 1962
-    summary: "A 2023 $240 million indefinite-delivery, indefinite-quantity SAIC contract supporting Crane's weapon division instrumentation platform. The video notes the announcement disappeared from SAIC's website around January 2024."
+    summary: "In 2023 SAIC received a $240 million indefinite-delivery, indefinite-quantity contract supporting Crane's weapon division instrumentation platform. The video notes the announcement disappeared from SAIC's website around January 2024."
     category: program
     significance: notable
     entities:
@@ -252,7 +252,7 @@ events:
   - date: "2023"
     title: "Crane and Sandia hypersonic technology transfer"
     cue: 2642
-    summary: "A 2023 technology transfer between NSWC Crane, Sandia National Laboratories and other participants for advanced hypersonic technology. Gerb notes it because attorney Daniel Sheehan claimed the same year that Radiance Technologies' prompt global strike program used reverse-engineered UAP technology."
+    summary: "In 2023 NSWC Crane, Sandia National Laboratories and other participants took part in a technology transfer for advanced hypersonic technology. Gerb notes it because attorney Daniel Sheehan claimed the same year that Radiance Technologies' prompt global strike program used reverse-engineered UAP technology."
     category: program
     significance: minor
     entities:
@@ -286,9 +286,9 @@ events:
 
 Gerb calls RA the most accomplished and credentialed soldier he has ever interviewed. RA served in the 1st Special Forces Command (Airborne) as an 18 Bravo weapons sergeant, the Special Forces specialist responsible for small arms, heavy weapons, explosives and mines, trained to operate and maintain both allied and foreign weapons. He supplied a full list of his certifications and his DD214. They include SERE (survival, evasion, resistance and escape) training at Level C, the most demanding tier, the Army's Advanced Leader Course, and a TS/SCI clearance he says stayed active for 12 years. He reached Gerb through mutual contacts, wanting to help disclosure while staying anonymous.
 
-Between 2013 and 2015 RA was sent to Crane for a weapons course (see [[RA's Weapons Training Course at NSWC Crane]]). The course covered a new minigun setup, SOCOM weapons coming online such as new iterations of the SCAR rifle, and captured foreign systems that the students were asked to assess. Among these were Russian rounds the Russians were thought to be experimenting with using biologics, recovered by CIA operatives and brought back to Crane. RA's own inference is the thread the rest of the video pulls on: whatever logistics chain brings captured enemy hardware to Crane could equally bring "whatever else they find."
+Between 2013 and 2015 RA was sent to Crane for a weapons course (see [[RA's Weapons Training Course at NSWC Crane]]). The course covered a new minigun setup, SOCOM weapons coming online such as new iterations of the SCAR rifle, and captured foreign systems that the students were asked to assess. Among these were Russian rounds the Russians were thought to be experimenting with using biologics, recovered by CIA operatives and brought back to Crane. The rest of the video follows RA's own inference: whatever logistics chain brings captured enemy hardware to Crane could equally bring "whatever else they find."
 
-The video sets the scene at Crane itself. NSWC Crane sits within Naval Support Activity Crane, alongside the Army ammunition activity that stockpiles much of the mainland's munitions. Indiana was chosen in World War II because a landlocked site was hard for an enemy to target. Senator Joe Donnelly once called the complex "the Pentagon's best-kept secret." It covers 64,000 acres and more than 3,000 buildings, with underground munitions bunkers and a 100-meter underground firing range, and it employs 2,489 contract workers. Gerb stresses that Crane openly reverse engineers "critical technology." One example is a black box from the AN/SLQ-32 ("Slick 32") shipboard electronic-warfare suite, which was "unknown how it was constructed, functioned, or how to repair it" before Crane's electromagnetic-warfare experts reverse engineered it.
+According to the video, NSWC Crane sits within Naval Support Activity Crane, alongside the Army ammunition activity that stockpiles much of the mainland's munitions. Indiana was chosen in World War II because a landlocked site was hard for an enemy to target. Senator Joe Donnelly once called the complex "the Pentagon's best-kept secret." It covers 64,000 acres and more than 3,000 buildings, with underground munitions bunkers and a 100-meter underground firing range, and it employs 2,489 contract workers. Gerb stresses that Crane openly reverse engineers "critical technology." One example is a black box from the AN/SLQ-32 ("Slick 32") shipboard electronic-warfare suite, which was "unknown how it was constructed, functioned, or how to repair it" before Crane's electromagnetic-warfare experts reverse engineered it.
 
 ## Inside the Off-World Technologies Division
 
@@ -333,7 +333,7 @@ RA separates those human-made triangles from a large triangle a trusted military
 
 ::wiki-compare{video="QJ215I85d5M" video-title="Off-World Technologies Division – UAP Technology Reverse Engineering"}
 ---
-caption: "RA's comparison of the triangles he knows to be human-made with the one his contact described. Every point differs, so no markers are used; the chips jump to where RA makes each point."
+caption: "RA compares the triangles he knows to be human-made with the one his contact described. They differ on every point. Click a timestamp to play the video where RA makes each point."
 attributeLabel: "Point"
 subjects:
   - name: "Human-made triangles"
@@ -372,7 +372,7 @@ During their conversations Gerb showed RA a series of well-known UFO symbols, st
 
 Since Blue Book ran from 1952 to 1969 and the photographs show US airmen in snow, Gerb briefly considers the 1952 [[Spitsbergen, Norway]] case. Its story has "confusing pathways and possible misinformation," but it involved a reported crashed 47-meter disc that drew CIA interest. He finds few other cases that fit and suggests the recovery may have been kept under wraps.
 
-## NSWC Crane: Where the Division Would Sit :wiki-info[The tree combines the video's description of Crane with its reading of SAIC's 2020 contract. It shows where the alleged division and the contract money sit inside the base. It is **not** an official organisation chart, and the Off-World Technologies Division branch rests solely on RA's testimony.]{label="How to read this tree"}
+## NSWC Crane: Where the Division Would Sit :wiki-info[This chart of the base combines the video's description of Crane with its reading of SAIC's 2020 contract, to show where the alleged division and the contract money sit. It is not an official organisation chart. The Off-World Technologies Division branch rests solely on RA's testimony.]{label="How to read this tree"}
 
 The video describes Crane at two levels: the acknowledged base, with its three mission areas and the SAIC contract it traces into a "special capabilities branch," and the unacknowledged underground area RA visited. Gerb's question is whether the first funds the second.
 
@@ -440,7 +440,7 @@ stats:
 ---
 ::
 
-The 2010 award supported what the video calls the Joint Special Operations Response Department, [[JSOC (Joint Special Operations Command)|JSOC]]. Gerb says JSOC has been named alongside the [[CIA Office of Global Access]] as tasked with UAP crash retrieval and collections. The 2020 award is an R&D effort for Crane's maneuver engagement and surveillance work under special warfare and expeditionary systems, and it includes the special capabilities branch shown in the tree above. SAIC also runs small-arms support at Crane. Its manager there, Diane Wilson, describes her team as "totally focused on bringing the best technology and the best weapons into the hands of the war fighter," which Gerb compares to the role of RA's contractor instructor.
+The 2010 award supported what the video calls the Joint Special Operations Response Department, [[JSOC (Joint Special Operations Command)|JSOC]]. Gerb says JSOC has been named alongside the [[CIA Office of Global Access]] as tasked with UAP crash retrieval and collections. The 2020 award is an R&D effort for Crane's maneuver engagement and surveillance work under special warfare and expeditionary systems, and it includes the special capabilities branch shown in the chart above. SAIC also runs small-arms support at Crane. Its manager there, Diane Wilson, describes her team as "totally focused on bringing the best technology and the best weapons into the hands of the war fighter," which Gerb compares to the role of RA's contractor instructor.
 
 On the policy side, SAIC is eligible for the DoD's Corporate Portfolio Program, which Under Secretary [[Ellen Lord]] created in 2020. The program gives defense firms access to DoD executives, scientists and management with broad access to special access program portfolios. After leaving the Pentagon in 2021, Lord joined SAIC as a strategic adviser. Gerb argues that a Navy-SAIC program like the one RA describes would sit in systems engineering and technical-assistance research contracts, with money split between acknowledged and unacknowledged special access programs. This matches [[David Grusch]]'s description of contractors working hand in hand with DoD elements inside such programs.
 

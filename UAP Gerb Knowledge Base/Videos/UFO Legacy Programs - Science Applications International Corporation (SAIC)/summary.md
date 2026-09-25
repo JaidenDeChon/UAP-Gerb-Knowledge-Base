@@ -15,48 +15,48 @@ tags:
 stats:
   - value: "44,000+"
     label: SAIC workforce by 2007
-    hint: "More than Labor, Energy and HUD combined"
+    hint: "More staff than the Departments of Labor, Energy and HUD combined"
   - value: "2 of 6"
-    label: SAPOC members Gerb ties to SAIC
-    hint: "John Deutsch and William A. Owens"
+    label: SAPOC members tied to SAIC
+    hint: "John Deutsch and William A. Owens: members of the SAPOC oversight committee whom Gerb ties to SAIC"
   - value: "1991–1994"
-    label: SAIC runs Project Stargate
-    hint: "Gerb thinks the work went on"
+    label: Years SAIC ran Project Stargate
+    hint: "Gerb thinks the psychic research went on afterwards"
   - value: "2h12m"
-    label: Runtime
+    label: Video length
 ---
 ::
 
 ## Overview
 
-This investigation turns to a contractor UAP Gerb believes "may in fact be even more intimately entwined with UFO legacy program operations and security" than any other American defense firm: [[SAIC|Science Applications International Corporation]] (pronounced "SIC" throughout the narration). Gerb admits the trail is less "clear-cut and glamorous" than the ones he followed for [[Northrop Grumman]], [[Lockheed Martin]] or [[MITRE Corporation|MITRE]]. SAIC has no famous craft and no alien reproduction vehicle attached to its name. He argues instead that studying the company shows how the [[UFO Legacy Program Framework|UFO legacy programs]] are funded, staffed, protected and housed. He sorts the evidence into five areas: black budget money, legacy program gatekeeping, psi research, technologies of unknown origin, and the housing of material and craft.
+In this video Gerb turns to a contractor he believes "may in fact be even more intimately entwined with UFO legacy program operations and security" than any other American defense firm: [[SAIC|Science Applications International Corporation]] (which he pronounces "SIC" throughout). Gerb admits the trail is less "clear-cut and glamorous" than the ones he followed for [[Northrop Grumman]], [[Lockheed Martin]] or [[MITRE Corporation|MITRE]]. SAIC has no famous craft and no alien reproduction vehicle attached to its name. He argues instead that studying the company shows how the [[UFO Legacy Program Framework|UFO legacy programs]] are funded, staffed, protected and housed. He sorts the evidence into five areas: black budget money, legacy program gatekeeping, psi research, technologies of unknown origin, and the housing of material and craft.
 
-The first half is corporate and personal. Founded in 1969 by nuclear physicist [[J. Robert Beyster]], SAIC used employee ownership to fill its board and payroll with generals, admirals, spies and cabinet officers; the video calls it "Washington's shadow", "NSA West" and "the Pentagon's body shop". Gerb traces its tangled lineage through [[Decision Science Applications, Inc. (DSAI)|Decision Science Applications]], [[L3 Communications]] and the 2013 split that created [[Leidos]]. He then lists officials he considers gatekeepers who passed through SAIC: former [[AARO]] director [[Sean Kirkpatrick]], once an SAIC senior research scientist; [[John Deutsch]] and [[William A. Owens]], two of the six people on the restructured [[SAPOC (Special Access Program Oversight Committee)|Special Access Program Oversight Committee]] that stonewalled Vice Admiral [[Thomas Wilson]] in the [[Wilson-Davis Memo|Wilson-Davis notes]]; SAIC analyst [[Will Miller]]; and [[Bobby Ray Inman]], [[William F. Raborn]] and [[Donald M. Kerr]].
+The first half of the video covers the company and its people. Founded in 1969 by nuclear physicist [[J. Robert Beyster]], SAIC used employee ownership to fill its board and payroll with generals, admirals, spies and cabinet officers; the video calls it "Washington's shadow", "NSA West" and "the Pentagon's body shop". Gerb traces its complicated corporate family through [[Decision Science Applications, Inc. (DSAI)|Decision Science Applications]], [[L3 Communications]] and the 2013 split that created [[Leidos]]. He then lists officials who passed through SAIC and who, he believes, guard access to the programs: former [[AARO]] director [[Sean Kirkpatrick]], once an SAIC senior research scientist; [[John Deutsch]] and [[William A. Owens]], two of the six people on the restructured [[SAPOC (Special Access Program Oversight Committee)|Special Access Program Oversight Committee]] that stonewalled Vice Admiral [[Thomas Wilson]] in the [[Wilson-Davis Memo|Wilson-Davis notes]]; SAIC analyst [[Will Miller]]; and [[Bobby Ray Inman]], [[William F. Raborn]] and [[Donald M. Kerr]].
 
-The second half follows money and material. Drawing on [[Catherine Austin Fitts]] and the long-lost 2001 testimony of former SAIC employee [[Denise McKenzie]], Gerb argues that SAIC ran huge contracts with no activity on them, a way to move public funds into black programs. He sets this beside SAIC's lead role in the [[Strategic Defense Initiative (SDI)|Strategic Defense Initiative]], which he and others believe hid UFO programs, and beside a list of costly contract failures. He then turns to SAIC's research record: a 1988 electric propulsion study for Edwards Air Force Base that echoes [[Edgar Fouche|Edgar Fouché]]'s description of the [[TR-3B]], and its 1991-1994 stewardship of [[Project Stargate]]. The video ends at [[Naval Surface Warfare Center Crane]], where Green Beret [[Randy Anderson]] says a contractor showed him the underground [[Off-World Technologies Division]]. There Gerb lays out SAIC's large and partly deleted contracts with the branches he suspects hide it, and names SAIC, with no direct proof, as the most likely contractor running it.
+The second half follows the money and the physical material. Drawing on [[Catherine Austin Fitts]] and the long-lost 2001 testimony of former SAIC employee [[Denise McKenzie]], Gerb argues that SAIC ran huge contracts with no activity on them, as a way to move public funds into secret black-budget programs. He sets this beside SAIC's lead role in the [[Strategic Defense Initiative (SDI)|Strategic Defense Initiative]], which he and others believe hid UFO programs, and beside a list of costly contract failures. He then turns to SAIC's research record: a 1988 electric propulsion study for Edwards Air Force Base that echoes [[Edgar Fouche|Edgar Fouché]]'s description of the [[TR-3B]], and its 1991-1994 stewardship of [[Project Stargate]]. The video ends at [[Naval Surface Warfare Center Crane]], where Green Beret [[Randy Anderson]] says a contractor showed him the underground [[Off-World Technologies Division]]. There Gerb lays out SAIC's large and partly deleted contracts with the branches he suspects hide it, and names SAIC, with no direct proof, as the most likely contractor running it.
 
 ## Chronology
 
 ::wiki-timeline{video="9p99lTsC7wQ" video-title="UFO Legacy Programs - Science Applications International Corporation (SAIC)"}
 ---
-help: "The video is organised by Gerb's five areas of study, not by date, so this chronology gathers its dated milestones in one place, grouped into three stretches of SAIC's life. Ticks on the ruler are entries, coloured by category and taller for major ones; click the ruler to jump. While the video plays, Sync and Follow keep the page and Gerb together. Because Gerb moves between topics, the playhead jumps around the ruler. Every timestamp here was checked against the captions."
+help: "The video is arranged by Gerb's five topics rather than by date, so this timeline collects its dated events in one place, in three periods of SAIC's history. The bar above the list runs from the earliest entry to the latest, with a coloured mark for each; taller marks are major entries. Click the bar to jump to a year. Play from here starts the video at the entry you are reading, and Follow video scrolls the list along with it. Because Gerb moves between topics, the green line that shows where the video is will jump back and forth along the bar. Click a timestamp to play the video from that moment. Every timestamp here was checked against the video's captions."
 eras:
   - id: founding
     label: "Founding and Star Wars"
     from: 1969
     to: 1990
-    summary: "Beyster's employee-owned 'body shop' fills with generals and spies, and SAIC becomes the leading contractor of the Strategic Defense Initiative."
+    summary: "Founder J. Robert Beyster fills his employee-owned 'body shop' with generals and spies, and SAIC becomes the leading contractor on the Strategic Defense Initiative."
     anchor: "washingtons-shadow"
   - id: gatekeepers
     label: "Stargate and the gatekeepers"
     from: 1991
     to: 2012
-    summary: "SAIC takes over Stargate, its alumni sit on the restructured SAP oversight committee, and McKenzie, Wilson and Anderson come forward."
+    summary: "SAIC takes over Project Stargate, former SAIC men sit on the restructured committee that oversees secret special access programs, and Denise McKenzie, Thomas Wilson and Randy Anderson come forward."
     anchor: "the-gatekeepers"
   - id: succession
     label: "Split and succession"
     from: 2013
-    summary: "The Leidos split and new acquisitions, a former SAIC scientist at AARO, and large SAIC contracts at Crane that vanish from its website."
+    summary: "The company splits into SAIC and Leidos and keeps buying others, a former SAIC scientist leads AARO, and large SAIC contracts at Naval Surface Warfare Center Crane vanish from its website."
     anchor: "nswc-crane-and-the-off-world-technologies-division"
 hinges:
   - year: 1994
@@ -125,7 +125,7 @@ events:
   - date: "1978"
     title: "SAIC leads in particle beam weapons"
     cue: 4056
-    summary: "From 1978 and throughout Star Wars, SAIC was the 'best represented contractor' for particle beam weapons, a key SDI technology."
+    summary: "From 1978 and throughout Star Wars, SAIC was the 'best represented contractor' for particle beam weapons, one of the main technologies of the Strategic Defense Initiative."
     category: program
     significance: minor
     entities:
@@ -232,7 +232,7 @@ events:
   - date: "1994-01-05"
     title: "SAP oversight restructured under SAPOC's Senior Review Group"
     cue: 2164
-    summary: "The Deputy Secretary of Defense strengthened special access program management and created the Senior Review Group. According to Thomas Wilson, UFO programs were reorganized under the SAPOC and SRG after an audit nearly exposed them. The reorganizer, William Perry, and the next chairman of SAPOC, John Deutsch, had both served SAIC."
+    summary: "The Deputy Secretary of Defense tightened the management of special access programs and created the Senior Review Group (SRG). According to Thomas Wilson, UFO programs were reorganized under the Special Access Program Oversight Committee (SAPOC) and the SRG after an audit nearly exposed them. William Perry, who ordered the reorganization, and John Deutsch, the next SAPOC chairman, had both served at SAIC."
     category: policy
     significance: major
     entities:
@@ -332,7 +332,7 @@ events:
   - date: "2003"
     title: "CIA Office of Global Access created under Donald Kerr"
     cue: 2877
-    summary: "The Office of Global Access, which Gerb and Christopher Sharp accuse of foreign UFO crash retrievals with JSOC, was set up in the CIA's Directorate of Science and Technology while former SAIC vice president Donald Kerr was its deputy director (2001-2005). The video dates the office to 2002 and 2003 in different places."
+    summary: "The Office of Global Access, which Gerb and Christopher Sharp accuse of foreign UFO crash retrievals with the Joint Special Operations Command (JSOC), was set up in the CIA's Directorate of Science and Technology while former SAIC vice president Donald Kerr was its deputy director (2001-2005). The video dates the office to 2002 and 2003 in different places."
     category: organization
     significance: notable
     entities:
@@ -353,7 +353,7 @@ events:
   - date: "2004-09-15"
     title: "SAIC, EG&G and Parsons form Research and Development Solutions"
     cue: 5100
-    summary: "SAIC, EG&G Technical Services and Parsons Infrastructure and Technology formed Research and Development Solutions LLC, soon assigned a $217 million contract at the DOE's National Energy Technology Laboratory. Gerb compares it to Battelle's Triad National Security, which runs Los Alamos: a way into DOE lab work."
+    summary: "SAIC, EG&G Technical Services and Parsons Infrastructure and Technology formed Research and Development Solutions LLC, soon assigned a $217 million contract at the DOE's National Energy Technology Laboratory. Gerb compares it to Battelle's Triad National Security, which runs Los Alamos, and sees it as a way into DOE lab work."
     category: organization
     significance: notable
     entities:
@@ -506,7 +506,7 @@ events:
 
 ## Washington's Shadow
 
-The video opens with clips placing SAIC at the heart of UFO lore: a speaker naming it, with Lockheed Martin and Northrop, among the "consortium of companies" said to build alien reproduction vehicles, and a *Jane's Defence Weekly* postscript on an SAIC electric propulsion study for the Air Force Astronautics Laboratory that tested theories linking electromagnetism and gravity, "in simplified terms an anti-gravity propulsion system". It also plays a speaker who calls it "highly unethical" for the government to "hand receipt" recovered material to cleared contractors, which then sell insight back to the government for profit.
+The video opens with clips that place SAIC at the center of UFO lore: a speaker naming it, with Lockheed Martin and Northrop, among the "consortium of companies" said to build alien reproduction vehicles, and a *Jane's Defence Weekly* postscript on an SAIC electric propulsion study for the Air Force Astronautics Laboratory that tested theories linking electromagnetism and gravity, "in simplified terms an anti-gravity propulsion system". It also plays a speaker who calls it "highly unethical" for the government to "hand receipt" recovered material to cleared contractors, which then sell insight back to the government for profit.
 
 ### Beyster's employee-owned company
 
@@ -559,8 +559,8 @@ The tangle begins with Colonel [[Steve Wilson]], a whistleblower Gerb treats "wi
 ::wiki-chain{video="9p99lTsC7wQ" video-title="UFO Legacy Programs - Science Applications International Corporation (SAIC)"}
 ---
 kind: custody
-label: "Chain of ownership"
-caption: "DSAI's assets, followed forward from 1977 to SAIC, after the posts of a since-deleted Reddit researcher."
+label: "How DSAI's assets reached SAIC"
+caption: "DSAI's business, traced from its founding in 1977 through mergers, sales and spin-offs to SAIC, following posts by a Reddit researcher that have since been deleted."
 steps:
   - name: "Decision Science Applications, Inc. (DSAI)"
     date: "Founded 4 Jan 1977"
@@ -645,9 +645,9 @@ Two of the six people Wilson dealt with were SAIC alumni, which is why Gerb now 
 
 ### Inman, Raborn and Kerr
 
-- **Bobby Ray Inman** was NSA director, CIA deputy director, DIA vice director and an SAIC board member and chairman. In 1989 he spoke with NASA's [[Bob Echler]] about recovered UFOs becoming available for research; by 2022 he was telling Project Unity he had found plausible answers for all UFO sightings.
-- **William F. Raborn** led development of the Polaris submarine-launched missile before retiring from the Navy in 1963 and heading US intelligence in 1965-1966, and later held senior SAIC roles. Gerb links Polaris to [[John P. Craven]], who wrote in *The Silent War* that the Deep Submergence Systems Project was created to carry out retrievals under [[Project Sanddollar|Sand Dollar]]. Craven described Sand Dollar as a still-classified seabed retrieval program buried inside another secret program within Polaris, and said he was shown an inventory of items on the seabed. Gerb believes it was a UFO crash retrieval program.
-- **Donald M. Kerr** joined SAIC in 1993 as a corporate executive vice president and director, after running Los Alamos (1979-1985) and EG&G (1989-1992). He went on to be CIA deputy director for science and technology (2001-2005), NRO director (2005-2007) and principal deputy DNI (2007-2009). The Office of Global Access was set up in his directorate on his watch. Gerb also points to the notes of [[Oak Shannon|Oke Shannon]], a former Los Alamos special projects manager, from the 1985 Advanced Theoretical Physics working group at [[BDM International|BDM]]'s secure facility in McLean, Virginia. The meeting was supervised by [[John B. Alexander]] a year after General [[Albert Stubblebine]] joined BDM. The notes mention a major engineering project under Inman, underwater UFO hotspots near the Golfo San Matías in Argentina, and an organization that "collects, manages, and destroys" UFO information. Near the end of the page is a plan to approach Donald Kerr for "influence and money".
+- Bobby Ray Inman was NSA director, CIA deputy director, DIA vice director and an SAIC board member and chairman. In 1989 he spoke with NASA's [[Bob Echler]] about recovered UFOs becoming available for research; by 2022 he was telling Project Unity he had found plausible answers for all UFO sightings.
+- William F. Raborn led development of the Polaris submarine-launched missile before retiring from the Navy in 1963 and heading US intelligence in 1965-1966, and later held senior SAIC roles. Gerb links Polaris to [[John P. Craven]], who wrote in *The Silent War* that the Deep Submergence Systems Project was created to carry out retrievals under [[Project Sanddollar|Sand Dollar]]. Craven described Sand Dollar as a still-classified seabed retrieval program buried inside another secret program within Polaris, and said he was shown an inventory of items on the seabed. Gerb believes it was a UFO crash retrieval program.
+- Donald M. Kerr joined SAIC in 1993 as a corporate executive vice president and director, after running Los Alamos (1979-1985) and EG&G (1989-1992). He went on to be CIA deputy director for science and technology (2001-2005), NRO director (2005-2007) and principal deputy DNI (2007-2009). The Office of Global Access was set up in his directorate on his watch. Gerb also points to the notes of [[Oak Shannon|Oke Shannon]], a former Los Alamos special projects manager, from the 1985 Advanced Theoretical Physics working group at [[BDM International|BDM]]'s secure facility in McLean, Virginia. The meeting was supervised by [[John B. Alexander]] a year after General [[Albert Stubblebine]] joined BDM. The notes mention a major engineering project under Inman, underwater UFO hotspots near the Golfo San Matías in Argentina, and an organization that "collects, manages, and destroys" UFO information. Near the end of that page of notes is a plan to approach Donald Kerr for "influence and money".
 
 ::wiki-roster
 ---
@@ -695,7 +695,7 @@ In 1992, while McKenzie was working at a fabric store in a San Diego mall, a par
 
 ::wiki-claim{video="9p99lTsC7wQ" video-title="UFO Legacy Programs - Science Applications International Corporation (SAIC)"}
 ---
-caption: "McKenzie's allegation about SAIC's contract files, and the accounts the video sets beside it."
+caption: "Denise McKenzie's claim that SAIC's contract files held nothing but form letters, and the accounts the video sets beside it."
 claim:
   title: "Contracts with nothing in them"
   by: "Denise McKenzie"
@@ -731,16 +731,16 @@ Gerb then looks for a real case of diverted money, and finds it in the Strategic
 
 SAIC's role in SDI was large. From SDI's start in 1983 the Pentagon relied on SAIC's systems integration more than ever; in 1985 retired two-star General Jasper Welch coordinated SAIC's Star Wars work full time, and SAIC won more SDI contracts that year than General Dynamics, Northrop, Raytheon, Grumman and RAND combined. From 1978 it was also the "best represented contractor" for particle beam weapons. With SAIC's record of diverting money and its size in SDI, Gerb says it is "not at all a stretch" to assume it was a primary contractor in UFO programs hidden inside SDI. He gathers the claims that SDI hid such programs:
 
-- **Edgar Fouché** said in 1998 that the Defense Advanced Research Center (DARC), allegedly underground near Groom Lake, was flush with SDI money in the mid-1980s. He said up to 35% of SDI funding was siphoned to UFO black programs, and that SDI money built the TR-3B, administered by the NRO, NSA and CIA. Gerb adds that a DARC was a real proposal: a declassified 1973 ARPA history shows the Army Ballistic Missile Agency, under [[Wernher von Braun]], was considered for transfer into a Defense Advanced Research Center.
-- **Project Brilliant Buzzard**, according to stealth aircraft researcher Joseph Jones in 2013, was an SDI-born, Boeing-contracted surveillance program. Its boomerang-shaped craft, with an almost indefinite loiter time, would explain some 25,000 sightings of the [[Hudson Valley UFO Flap|Hudson Valley boomerang]] between 1983 and 1989.
-- **The 1989 Moriches Bay case**, from [[Leonard Stringfield]]'s 1991 *UFO Crash Retrievals: The Inner Sanctum* (Status Report 6) and the Long Island UFO Network, alleges that a UFO was deliberately shot down off the south shore of Suffolk County, Long Island, on the early morning of 29 September 1989. Gerb flags a separate 1992 Long Island case for later.
+- Edgar Fouché said in 1998 that the Defense Advanced Research Center (DARC), allegedly underground near Groom Lake, was flush with SDI money in the mid-1980s. He said up to 35% of SDI funding was siphoned to UFO black programs, and that SDI money built the TR-3B, administered by the NRO, NSA and CIA. Gerb adds that a DARC was a real proposal: a declassified 1973 ARPA history shows the Army Ballistic Missile Agency, under [[Wernher von Braun]], was considered for transfer into a Defense Advanced Research Center.
+- Project Brilliant Buzzard, according to stealth aircraft researcher Joseph Jones in 2013, was an SDI-born, Boeing-contracted surveillance program. Its boomerang-shaped craft, with an almost indefinite loiter time, would explain some 25,000 sightings of the [[Hudson Valley UFO Flap|Hudson Valley boomerang]] between 1983 and 1989.
+- The 1989 Moriches Bay case, from [[Leonard Stringfield]]'s 1991 *UFO Crash Retrievals: The Inner Sanctum* (Status Report 6) and the Long Island UFO Network, alleges that a UFO was deliberately shot down off the south shore of Suffolk County, Long Island, on the early morning of 29 September 1989. Gerb flags a separate 1992 Long Island case for later.
 
 ::wiki-grid{cols=3}
 ::wiki-panel{title="An Air Force intelligence colonel"}
-An anonymous colonel said the craft was downed "by the use of a US Star Wars weapon" and retrieved from the dunes, and that the beings aboard killed 18 US servicemen with a device generating extremely low frequency sound. Gerb says he can find no record of those deaths.
+An anonymous colonel said the Moriches Bay craft was downed "by the use of a US Star Wars weapon" and retrieved from the dunes, and that the beings aboard killed 18 US servicemen with a device generating extremely low frequency sound. Gerb says he can find no record of those deaths.
 ::
 ::wiki-panel{title="Dr. Nick of Brookhaven"}
-A Brookhaven National Laboratory scientist, who said he had studied UFOs at Wright-Patterson, told investigators a wedge- or boomerang-shaped object of "shockingly low mass" was taken to Brookhaven, and that the weapon, built by AIL Electronics, was deployed by the laboratory.
+A Brookhaven National Laboratory scientist, who said he had studied UFOs at Wright-Patterson, told investigators that a wedge- or boomerang-shaped object of "shockingly low mass" was taken to Brookhaven. He said the weapon was built by AIL Electronics and deployed by the laboratory.
 ::
 ::wiki-panel{title="Eyewitnesses" tone="accent"}
 Several witnesses, including a commodities broker, said they saw helicopters carrying a large object and military vehicles under police escort heading toward Brookhaven.
@@ -757,13 +757,13 @@ SAIC's record of "convenient ineptitude" goes beyond McKenzie and SDI, Gerb argu
 ---
 stats:
   - value: "$280M"
-    label: Trailblazer, NSA, 2002
-    hint: "Billions within four years"
+    label: NSA Trailblazer contract, 2002
+    hint: "Grew to billions within four years"
   - value: "$361M"
-    label: ExecuteLocus
+    label: ExecuteLocus contract
     hint: "Awarded after Trailblazer failed"
   - value: "$124M"
-    label: Virtual Case File, FBI
+    label: FBI Virtual Case File
     hint: "Written off after three years"
   - value: "1987–1995"
     label: Flat panel display fraud
@@ -791,9 +791,9 @@ Gerb then turns to the 38 Defense Intelligence Reference Documents produced unde
 
 A clip of David Grusch on Joe Rogan suggests that CIA interest in consciousness may be "a reach out from the crash retrieval program": "I need you to look into some weird stuff because it might be the key unlock for something that we got in a warehouse." Gerb often raises the idea that some non-human craft are flown by thought rather than by controls, recently associated with [[Jake Barber]] and [[Psionics|psionics]]. He shows that the idea is much older than Barber:
 
-- **Philip J. Corso** said the Army's Foreign Technology Division under [[Arthur Trudeau]] began a 1961 project on "control guidance by brain waves" after official Roswell files showed the crew were part of the craft's guidance system.
-- **Unnamed speakers in clips** relay the same idea. One says a very senior former Defense Department scientist and others told him the recovered technology involved "a mind interface connection"; another says people who work on it describe a shell with "no control surfaces, no visible propulsion system", "operated by consciousness".
-- **Leonard Stringfield's notes** record a Mr. Hines whose [[Bell Labs]] source saw a UFO retrieval brought onto a California Air Force flight line in the early 1950s, with a cutaway of the craft and the "headband transceiver" worn by its crew. A man who kept a piece of the craft disappeared.
+- Philip J. Corso said the Army's Foreign Technology Division under [[Arthur Trudeau]] began a 1961 project on "control guidance by brain waves" after official Roswell files showed the crew were part of the craft's guidance system.
+- Unnamed speakers in clips relay the same idea. One says a very senior former Defense Department scientist and others told him the recovered technology involved "a mind interface connection"; another says people who work on it describe a shell with "no control surfaces, no visible propulsion system", "operated by consciousness".
+- Leonard Stringfield's notes record a Mr. Hines whose [[Bell Labs]] source saw a UFO retrieval brought onto a California Air Force flight line in the early 1950s, with a cutaway of the craft and the "headband transceiver" worn by its crew. A man who kept a piece of the craft disappeared.
 
 Acknowledged US research into anomalous cognition began in 1977 with what became Project Stargate: a secret Army, DIA, CIA and SRI International program under many code names, including Gondola Wish, Sun Streak, Grill Flame and Center Lane. It was run from Fort Meade, Maryland, with Major General Albert Stubblebine of [[Army INSCOM]] a key sponsor. Gerb notes that INSCOM once commanded the Intelligence Support Activity, later moved under [[JSOC (Joint Special Operations Command)|JSOC]], whose elements he and Christopher Sharp accuse of foreign crash retrievals. He adds that Corso and Greer accused Stubblebine of taking part in material exploitation at Fort Huachuca, and that Greer says Stubblebine offered him $2 billion to absorb his organization. In 1991 the work was consolidated under the Stargate name and moved to SAIC, which ran it until 1994, though Gerb wagers it continued long after. SAIC published ten primary studies and coined two terms:
 
@@ -825,13 +825,13 @@ Naval Support Activity Crane, sometimes called "the Pentagon's best-kept secret"
 
 ::wiki-grid{cols=3}
 ::wiki-panel{title="Data"}
-Naval undersea warfare center divisions such as [[Naval Undersea Warfare Center Keyport|Keyport]], and university-affiliated research centers such as the Applied Research Laboratory at the University of Hawaii at Mānoa.
+Gerb places this work at naval undersea warfare center divisions such as [[Naval Undersea Warfare Center Keyport|Keyport]], and university-affiliated research centers such as the Applied Research Laboratory at the University of Hawaii at Mānoa.
 ::
 ::wiki-panel{title="Hardware" tone="accent"}
-Naval surface warfare centers such as [[Naval Surface Warfare Center Crane|Crane]], which Gerb believes house and exploit technologies of unknown origin.
+Gerb places this work at naval surface warfare centers such as [[Naval Surface Warfare Center Crane|Crane]], which he believes house and exploit technologies of unknown origin.
 ::
 ::wiki-panel{title="Aircraft"}
-NAVAIR installations such as [[China Lake Naval Air Weapons Station|China Lake]] and [[Naval Air Station Patuxent River|Patuxent River]].
+Gerb places this work at NAVAIR installations such as [[China Lake Naval Air Weapons Station|China Lake]] and [[Naval Air Station Patuxent River|Patuxent River]].
 ::
 ::
 
@@ -854,7 +854,7 @@ stats:
     label: SAIC IDIQ, 2023
     hint: "Weapons division instrumentation; vanished around January 2024"
   - value: "2,489"
-    label: Crane contracting force
+    label: Crane's contracting workforce
 ---
 ::
 

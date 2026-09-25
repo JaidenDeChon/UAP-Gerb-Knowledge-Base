@@ -52,22 +52,22 @@ function onDialogSelect(node: GraphNode): void {
 </script>
 
 <template>
-  <section v-if="show" aria-label="Local map" class="mb-10">
+  <section v-if="show" aria-label="Map of related entries" class="mb-10">
     <div class="overflow-hidden rounded-lg border border-primary/70">
       <div class="flex items-center justify-between gap-2 border-b border-border/50 bg-card px-3 py-2">
         <span class="font-mono text-[11px] font-semibold uppercase tracking-[0.08em] text-muted-foreground">
-          Local map
+          Click an entry to open it
         </span>
         <div class="flex items-center gap-2">
           <span
             v-if="truncation"
             class="font-mono text-[11px] uppercase tabular-nums tracking-[0.08em] text-muted-foreground/70"
-            :title="`This note links ${truncation.total} entries; the map shows its ${truncation.shown} most-connected.`"
-          >showing {{ truncation.shown }}/{{ truncation.total }}</span>
+            :title="`${truncation.total} entries link to or from this one. The map shows the ${truncation.shown} with the most links. Enlarge it to see them all.`"
+          >{{ truncation.shown }} of {{ truncation.total }} shown</span>
           <button
             type="button"
             class="inline-flex size-6 items-center justify-center rounded-md text-muted-foreground hover:bg-accent hover:text-foreground"
-            aria-label="Expand the local map"
+            aria-label="Enlarge the map to show every linked entry"
             @click="dialogOpen = true"
           >
             <Maximize2 :size="13" />
@@ -88,13 +88,13 @@ function onDialogSelect(node: GraphNode): void {
       <DialogContent class="gap-3 sm:max-w-[min(1600px,calc(100vw-4rem))]">
         <DialogHeader>
           <DialogTitle class="font-mono text-[13px] font-semibold uppercase tracking-[0.08em] text-muted-foreground">
-            Local map
+            Entries linked to this one
             <span v-if="degree" class="ml-1 font-normal tabular-nums text-muted-foreground/70">
-              — showing all {{ degree }} links
+              ({{ degree }})
             </span>
           </DialogTitle>
           <DialogDescription class="sr-only">
-            The neighbourhood of the current entry in the knowledge graph.
+            A map of every entry that links to or from this one. Click an entry to open it.
           </DialogDescription>
         </DialogHeader>
 

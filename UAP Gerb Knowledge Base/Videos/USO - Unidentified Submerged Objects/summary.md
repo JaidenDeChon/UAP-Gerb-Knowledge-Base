@@ -14,52 +14,52 @@ tags:
 ---
 stats:
   - value: 0
-    label: USO cases in AARO's history
-    hint: Historical Report Vol. 1
+    label: USO cases in AARO's report
+    hint: AARO's Historical Report Vol. 1 mentions no unidentified submerged object (USO) cases.
   - value: 3
-    label: Interloper files surviving
-    hint: Cases 26, 27 and 28
+    label: Surviving Interloper files
+    hint: Only cases 26, 27 and 28 of Project Interloper remain.
   - value: 9
-    label: Submarine–disc reports
-    hint: AFOIN-X-SG, 1952; unavailable
+    label: Submarine contacts with discs
+    hint: Reports forwarded by AFOIN-X-SG in 1952. The reports themselves are unavailable.
   - value: "22,000 ft"
-    label: Depth under Elizondo's case
-    hint: The Puerto Rico Trench
+    label: Depth in Elizondo's story
+    hint: The Puerto Rico Trench, where, in a story Elizondo told, an object pulled a test missile under.
 ---
 ::
 
 ## Overview
 
-This video is UAP Gerb's first survey of [[Unidentified Submerged Object (USO)|unidentified submerged objects]] (USOs): unidentified craft seen operating under water or crossing between sea and sky. Its premise is that the [[Trans-Medium Vehicle|trans-medium]] side of the phenomenon was long forgotten, until Commander [[David Fravor]]'s [[2004 Nimitz UAP Encounter (Tic Tac)|2004 Tic Tac encounter]] suggested something churning beneath the surface, military footage showed UAP entering and leaving the water, and retired Rear Admiral [[Rear Admiral Timothy Gallaudet|Timothy Gallaudet]] began arguing publicly that the ocean deserves as much attention as the sky.
+This video is UAP Gerb's first survey of [[Unidentified Submerged Object (USO)|unidentified submerged objects]] (USOs): unidentified craft seen operating under water or crossing between sea and sky. The video's premise is that this [[Trans-Medium Vehicle|trans-medium]] side of the phenomenon was long forgotten. It stayed that way until Commander [[David Fravor]]'s [[2004 Nimitz UAP Encounter (Tic Tac)|2004 Tic Tac encounter]] suggested something was churning beneath the surface, military footage showed UAP entering and leaving the water, and retired Rear Admiral [[Rear Admiral Timothy Gallaudet|Timothy Gallaudet]] began arguing publicly that the ocean deserves as much attention as the sky.
 
-The video follows the subject through three stages. In the early 1950s there is a real, if thin, paper trail: USAF Major [[Dewey Fett]]'s joint Air Force–Navy [[Project Interloper]] (1951), a 1952 letter from the Air Force intelligence office [[AFOIN Special Group (AFOIN-X-SG)|AFOIN-X-SG]] forwarding nine reports of submarine contacts with flying discs, and word of thousands of [[Office of Naval Intelligence]] UAP reports from 1952 to 1956. Then three reporting rules, [[USAF Regulation 200-2]], the Navy's [[OPNAV 3820]] and [[JANAP 146c]], open what Gerb calls "the dark ages of UFO reporting", when the record goes sparse and the story must rely on testimony: [[Jacques Vallee|Jacques Vallée]]'s source on USO files at [[Norton Air Force Base]], astronomer [[Mark Dantonio]]'s "fast mover", and [[Oak Shannon]]'s 1985 notes on an underwater hotspot off Argentina. Finally, from 2022, USOs move into public view, led by Gallaudet and his 2024 [[Sol Foundation]] white paper [[Beneath the Surface (Gallaudet White Paper)|*Beneath the Surface*]].
+The video follows the subject through three stages. In the early 1950s there is a real, if thin, paper trail: USAF Major [[Dewey Fett]]'s joint Air Force–Navy [[Project Interloper]] (1951), a 1952 letter from the Air Force intelligence office [[AFOIN Special Group (AFOIN-X-SG)|AFOIN-X-SG]] forwarding nine reports of submarine contacts with flying discs, and word of thousands of [[Office of Naval Intelligence]] UAP reports from 1952 to 1956. Next, three reporting rules, [[USAF Regulation 200-2]], the Navy's [[OPNAV 3820]] and [[JANAP 146c]], open what Gerb calls "the dark ages of UFO reporting", when the record goes sparse and the story must rely on testimony: [[Jacques Vallee|Jacques Vallée]]'s source on USO files at [[Norton Air Force Base]], astronomer [[Mark Dantonio]]'s "fast mover", and [[Oak Shannon]]'s 1985 notes on an underwater hotspot off Argentina. Finally, from 2022, USOs move into public view, led by Gallaudet and his 2024 [[Sol Foundation]] white paper [[Beneath the Surface (Gallaudet White Paper)|*Beneath the Surface*]].
 
-The second half of the video turns to military encounters: [[Luis Elizondo]]'s account of a submerged object the size of a small island seizing a test cruise missile over the Puerto Rico Trench, Petty Officer John Bowman's 2010 Tic Tac seen from the USS Carl Vinson, Petty Officer Kevin Thomas's 1991 black triangle rising beside the USS Nimitz, and the contested 1971 [[USS Trepang USO Photographs|USS Trepang photographs]]. Gerb closes with the gap the whole video is built around: AARO's [[AARO Historical Report Volume 1|Historical Report Volume 1]] makes no reference at all to USO cases or maritime whistleblowers. He notes he recorded the video the day after the [[Kona Blue]] files were released, and asks viewers whether they want a follow-up drawn from Project Blue Book's own USO cases (which became [[USO Case Book - Unidentified Submerged Objects Throughout History|the USO Case Book]]).
+The second half of the video turns to military encounters: [[Luis Elizondo]]'s account of a submerged object the size of a small island seizing a test cruise missile over the Puerto Rico Trench, Petty Officer John Bowman's 2010 Tic Tac seen from the USS Carl Vinson, Petty Officer Kevin Thomas's 1991 black triangle rising beside the USS Nimitz, and the contested 1971 [[USS Trepang USO Photographs|USS Trepang photographs]]. Gerb closes on the video's central complaint: AARO's [[AARO Historical Report Volume 1|Historical Report Volume 1]] makes no reference at all to USO cases or maritime whistleblowers. He notes he recorded the video the day after the [[Kona Blue]] files were released, and asks viewers whether they want a follow-up drawn from Project Blue Book's own USO cases (which became [[USO Case Book - Unidentified Submerged Objects Throughout History|the USO Case Book]]).
 
 ## Chronology
 
-The video moves roughly forward in time through its institutional history, then doubles back for the military cases and the Trepang photographs, so while it plays the playhead jumps back across the ruler.
+The video moves roughly forward in time through the institutional history, then goes back for the military cases and the Trepang photographs. If you play the video alongside the timeline below, the green line that marks the video's position will jump back along the bar of years.
 
 ::wiki-timeline{video="U-jrx_giINA" video-title="USO - Unidentified Submerged Objects"}
 ---
-help: "The ruler above the entries runs from Project Interloper in 1951 to Gallaudet's 2024 white paper. Each tick is an entry, coloured by category and taller for major ones; click the ruler to jump to the nearest. The three bands are the video's own stages: the 1950s paper trail, the 'dark ages' of reporting after the 1953–54 rules, and the move into public view from 2022. The dashed marker is the 2004 Tic Tac encounter the video opens on. Every timestamp has been checked against the captions; they open the mini-player at that moment."
+help: "The bar of years above the list runs from Project Interloper in 1951 to Gallaudet's 2024 white paper. Each entry has a mark on it, coloured by type; taller marks are major entries. Click the bar to jump to the nearest entry. Its three shaded sections are the video's own stages: the 1950s paper trail, the 'dark ages' of reporting after the rules of 1953–54, and the move into public view from 2022. The dashed line marks the 2004 Tic Tac encounter, which the video opens on. The dark line shows the entry you are reading, and Play from here starts the video at that entry. Every timestamp has been checked against the video's captions; click one to play the video from that moment in the mini-player."
 eras:
   - id: papertrail
     label: "The 1950s Paper Trail"
     from: 1951
     to: 1954
-    summary: "Interloper, AFOIN's special group and the Office of Naval Intelligence: a real, if thin, documentary record of the military studying USOs, closed off by three reporting rules."
+    summary: "Project Interloper, the special group of AFOIN (the Air Force Office of Intelligence) and the Office of Naval Intelligence left a real, if thin, paper record of the military studying unidentified submerged objects (USOs). Three reporting rules closed it off."
     anchor: "the-1950s-paper-trail"
   - id: darkages
     label: "The Dark Ages of UFO Reporting"
     from: 1955
     to: 2021
-    summary: "With reports routed away from public programs, the record goes sparse and the story rests on claims: files at Norton, a Navy hotspot off Argentina, a sonar 'fast mover' and the sightings of individual sailors."
+    summary: "Once reports were routed away from public programs, the record goes sparse and the story rests on claims: files stored at Norton Air Force Base, a Navy hotspot off Argentina, a 'fast mover' tracked by submarine sonar, and sightings by individual sailors."
     anchor: "the-dark-ages-of-ufo-reporting"
   - id: public
     label: "USOs Go Public"
     from: 2022
-    summary: "USO talk grows louder: Shannon's notes, Ramirez and Elizondo, then Rear Admiral Gallaudet's call to make the ocean a national research priority."
+    summary: "Talk of USOs grows louder, with Oak Shannon's notes, claims from John Ramirez and Luis Elizondo, and then Rear Admiral Gallaudet's call to make the ocean a national research priority."
     anchor: "usos-go-public"
 hinges:
   - year: 2004
@@ -68,7 +68,7 @@ events:
   - date: "1951"
     title: "Project Interloper launched"
     cue: 74
-    summary: "USAF Major Dewey Fett, a sitting Project Blue Book member, began Project Interloper with the aid of the US Navy to investigate both aerial and undersea UAP. The video notes it was run as an extra-governmental investigation, exempt from Freedom of Information Act requests. Only three case files survive (26, 27 and 28); Case 26 describes Navy Lieutenant George P. Williams and his nine-man crew watching a glowing cigar-shaped object of at least 200 feet rise from the ocean between Keflavik, Iceland and Newfoundland."
+    summary: "USAF Major Dewey Fett, a sitting Project Blue Book member, began Project Interloper with help from the US Navy to investigate both aerial and undersea UAP. The video notes it was run as an extra-governmental investigation, exempt from Freedom of Information Act requests. Only three case files survive (26, 27 and 28). Case 26 describes Navy Lieutenant George P. Williams and his nine-man crew watching a glowing cigar-shaped object at least 200 feet long rise from the ocean between Keflavik, Iceland and Newfoundland."
     category: program
     significance: major
     entities:
@@ -87,7 +87,7 @@ events:
   - date: "1952"
     title: "Thousands of ONI UAP reports, 1952 to 1956"
     cue: 225
-    summary: "Citing Timothy Good's book Need to Know, the video relays that researcher Leonard Stringfield was told of thousands of Office of Naval Intelligence UAP reports filed between 1952 and 1956."
+    summary: "Citing Timothy Good's book Need to Know, the video says that researcher Leonard Stringfield was told of thousands of Office of Naval Intelligence UAP reports filed between 1952 and 1956."
     category: document
     significance: notable
     entities:
@@ -139,7 +139,7 @@ events:
   - date: "1960"
     title: "Shelburne Harbor divers report craft on the seabed"
     cue: 950
-    summary: "During a joint US-Canadian minesweeping exercise off Shelburne Harbor, Nova Scotia, Royal Canadian Navy divers reportedly saw two disc-shaped craft on the seabed, with occupants apparently repairing one, and recorded footage. The case, not to be confused with nearby Shag Harbour in 1967, is cited in Rear Admiral Timothy Gallaudet's 2024 white paper."
+    summary: "During a joint US-Canadian minesweeping exercise off Shelburne Harbor, Nova Scotia, Royal Canadian Navy divers reportedly saw two disc-shaped craft on the seabed, with occupants apparently repairing one, and recorded footage. It is a different case from the 1967 one at nearby Shag Harbour. Rear Admiral Timothy Gallaudet cites it in his 2024 white paper."
     category: event
     significance: major
     entities:
@@ -173,7 +173,7 @@ events:
   - date: "1985"
     title: "Vallee told of USO files stored at Norton Air Force Base"
     cue: 425
-    summary: "In Forbidden Science: Pacific Heights, Jacques Vallee writes that a source at NARCAP told him a large collection of UFO and USO files was stored at Norton Air Force Base. The video notes Norton was also named in Steven Greer and the Disclosure Project's alleged 1996 briefing to Congress."
+    summary: "In Forbidden Science: Pacific Heights, Jacques Vallee writes that a source at NARCAP (the National Aviation Reporting Center on Anomalous Phenomena) told him a large collection of UFO and USO files was stored at Norton Air Force Base. The video notes Norton was also named in Steven Greer and the Disclosure Project's alleged 1996 briefing to Congress."
     category: document
     significance: notable
     entities:
@@ -191,7 +191,7 @@ events:
   - date: "2004-11"
     title: "Nimitz Tic Tac over churning water"
     cue: 868
-    summary: "Navy F/A-18F Super Hornet pilots, including Commander David Fravor, watched the Tic Tac hover over roiling whitewater, which the video and Rear Admiral Gallaudet read as a possible larger object below the surface."
+    summary: "Navy F/A-18F Super Hornet pilots, including Commander David Fravor, watched the Tic Tac hover over roiling whitewater. The video and Rear Admiral Gallaudet take the whitewater as a sign of a possible larger object below the surface."
     category: event
     significance: notable
     entities:
@@ -217,7 +217,7 @@ events:
   - date: "2017"
     title: "Mark Dantonio and the 'fast mover'"
     cue: 464
-    summary: "Astronomer Mark Dantonio, president of Navy contractor FX Models, said a submarine sonar team he rode with tracked a 'fast mover' at several hundred knots, against roughly 40 knots for submarines and torpedoes, and the commanding officer ordered it to be 'logged and dogged'. Years later a senior naval figure told him USOs were common and a program existed to classify and log them, but would not discuss it."
+    summary: "Astronomer Mark Dantonio, president of Navy contractor FX Models, said a submarine sonar team he rode with tracked a 'fast mover' at several hundred knots, against roughly 40 knots for submarines and torpedoes. The commanding officer ordered it to be 'logged and dogged'. Years later a senior naval figure told him USOs were common and a program existed to classify and log them, but would not discuss it."
     category: event
     significance: major
     entities:
@@ -235,7 +235,7 @@ events:
   - date: "2022"
     title: "Elizondo's Caribbean cruise-missile story"
     cue: 1010
-    summary: "Interviewed by astronaut Terry Virts, Luis Elizondo described a Navy helicopter crew recovering test cruise missiles off a Caribbean island, over the 22,000-foot Puerto Rico Trench, who twice saw a dark round object the size of a small island rise toward the surface; the second time it pulled the missile under as a frogman scrambled up the rope."
+    summary: "Interviewed by astronaut Terry Virts, Luis Elizondo described a Navy helicopter crew recovering test cruise missiles off a Caribbean island, over the 22,000-foot Puerto Rico Trench. Twice the crew saw a dark round object the size of a small island rise toward the surface. The second time, it pulled the missile under as a frogman scrambled up the rope."
     category: event
     significance: major
     entities:
@@ -284,17 +284,17 @@ Only three case files survive: cases 26, 27 and 28. Case 26 covers US Navy Lieut
 
 On 24 April 1952 the Air Technical Intelligence Center received a letter from [[AFOIN Special Group (AFOIN-X-SG)|AFOIN-X-SG]], addressed to a Colonel Dunn, about the possible connection between submarine contacts and UFOs. It attached nine reports of submarine contacts with flying discs, gathered with the help of the [[Office of Naval Intelligence]]. The reports are unavailable. The video adds, from Timothy Good's book *Need to Know*, that researcher [[Leonard Stringfield]] was told of thousands of ONI UAP reports filed between 1952 and 1956.
 
-Gerb lingers on the sender. AFOIN was the Air Force Office of Intelligence, and he takes "SG" to mean special group. [[Edward J. Ruppelt]], director of [[Project Grudge]] and Blue Book, stated that AFOIN was running a fuller UFO investigation in parallel with Blue Book, connected to the later-uncovered [[Project Stork]] of [[Battelle Memorial Institute]], and named AFOIN's technical capabilities branch and collection control branch as offices doing UFO work. Gerb concludes that this special group, tasked with the nine submarine reports, was likely one of the government's real secret UFO investigation groups. When the Computer UFO Network (CUFON) sought information on it through FOIA in 1979, every request was denied under executive order on national security grounds.
+Gerb spends some time on who sent the letter. AFOIN was the Air Force Office of Intelligence, and he takes "SG" to mean special group. [[Edward J. Ruppelt]], director of [[Project Grudge]] and Blue Book, stated that AFOIN was running a fuller UFO investigation in parallel with Blue Book, connected to the later-uncovered [[Project Stork]] of [[Battelle Memorial Institute]], and named AFOIN's technical capabilities branch and collection control branch as offices doing UFO work. Gerb concludes that this special group, tasked with the nine submarine reports, was likely one of the government's real secret UFO investigation groups. When the Computer UFO Network (CUFON) sought information on it through FOIA in 1979, every request was denied under executive order on national security grounds.
 
 ### Three reporting rules (1953–1954)
 
 Gerb argues that three rules, issued within about a year of each other, closed this early record and began what he calls "the slow descent into the dark ages of UFO reporting", the era of swamp gas and weather-balloon explanations.
 
-[[USAF Regulation 200-2]] is the Air Force rule Gerb says he cites in nearly every video. [[OPNAV 3820]] was the Navy's directive from the Office of the Chief of Naval Operations; a copy appears in Donald Keyhoe's *The Flying Saucer Conspiracy*, and it cites JANAP 146c directly. [[JANAP 146c]], the joint Army, Navy and Air Force publication, was the one that took in the sea. Its penalties came under the Communications Act of 1934 and the espionage laws.
+[[USAF Regulation 200-2]] is the Air Force rule Gerb says he cites in nearly every video. [[OPNAV 3820]] was the Navy's directive from the Office of the Chief of Naval Operations; a copy appears in Donald Keyhoe's *The Flying Saucer Conspiracy*, and it cites JANAP 146c directly. [[JANAP 146c]], the joint Army, Navy and Air Force publication, was the one that also covered sightings at sea. Its penalties came under the Communications Act of 1934 and the espionage laws.
 
 ::wiki-compare{video="U-jrx_giINA" video-title="USO - Unidentified Submerged Objects"}
 ---
-caption: "The three reporting rules that, in Gerb's account, closed the early record. Only JANAP 146c named waterborne sightings."
+caption: "Three US military reporting rules that, in Gerb's account, closed off the early official record of sightings. Only JANAP 146c named waterborne sightings."
 attributeLabel: "Point"
 subjects:
   - name: "USAF Regulation 200-2"
@@ -332,7 +332,7 @@ In *Forbidden Science: Pacific Heights*, a collection of his journals, [[Jacques
 
 ### The "fast mover" (2017)
 
-Gerb flags this story as undocumented. Astronomer [[Mark Dantonio]], president of FX Models, a company with Navy contracts, said he was taken out in a Navy submarine to thank his company for its work. The sonar team picked up what they called a "fast mover" travelling at several hundred knots, against roughly 40 knots for most submarines and torpedoes. The commanding officer told the sonar operator to "log it and dog it", burying the contact. Years later, Dantonio asked a senior naval figure about the "fast mover program" and was told the official could not talk about it. The same figure said USOs were common and that a program existed to classify and log them and measure their speed. Gerb reads this as confirmation that the program exists, while stressing it is alleged testimony.
+Gerb flags this story as undocumented. Astronomer [[Mark Dantonio]], president of FX Models, a company with Navy contracts, said the Navy took him out in a submarine to thank his company for its work. The sonar team picked up what they called a "fast mover" travelling at several hundred knots, against roughly 40 knots for most submarines and torpedoes. The commanding officer told the sonar operator to "log it and dog it", burying the contact. Years later, Dantonio asked a senior naval figure about the "fast mover program" and was told the official could not talk about it. The same figure said USOs were common and that a program existed to classify and log them and measure their speed. Gerb reads this as confirmation that the program exists, while stressing it is alleged testimony.
 
 The Navy sightings of Petty Officers Kevin Thomas (1991) and John Bowman (2010) also fall in this era; they are covered with the other military cases below.
 
@@ -356,11 +356,11 @@ In a NewsNation interview with [[Ross Coulthart]], Gallaudet said Earth is being
 
 His 2024 Sol Foundation white paper, [[Beneath the Surface (Gallaudet White Paper)|*Beneath the Surface: We May Learn More About UAP by Looking in the Ocean*]], treats USO study as both a maritime security issue and an unprecedented scientific opportunity that should be raised to a national research priority. It cites the Defense Department's "concerning non-reaction" to unidentified objects entering US waters, and congressional legislation that defines UAP as trans-medium vehicles. It argues the engineering and physics involved could change almost every economic sector, and that the discoveries could make those of the 17th- and 18th-century Scientific Revolution "look like baby steps". It stresses how little attention the ocean receives compared with the sky, a gap Gerb finds starkest in AARO's [[AARO Historical Report Volume 1|Historical Report Volume 1]], which contains no USO cases or maritime whistleblowers.
 
-The paper's three central cases:
+The paper's three central cases are these:
 
-- **The [[2004 Nimitz UAP Encounter (Tic Tac)|2004 Nimitz Tic Tac]].** F/A-18F Super Hornet pilots saw the object hovering just above roiling whitewater, possibly a sign of a larger object below the surface.
-- **The [[Aguadilla Puerto Rico Trans-Medium UAP Incident|2013 Aguadilla object]].** Filmed by US Customs and Border Protection thermal imaging over about three minutes, it flew at 40 to 120 mph, entered and left the Atlantic without significant deceleration, reached 95 mph underwater and at one point split in two. The analysts quoted in the paper concluded that no known aircraft, vessel, projectile or human-made technology has those capabilities.
-- **The [[Shelburne Harbor USO Incident|1960 Shelburne Harbor case]].** During a joint US-Canadian minesweeping exercise off [[Shelburne Harbor, Nova Scotia]] (close to, but distinct from, Shag Harbour's 1967 case), Royal Canadian Navy divers reportedly saw two disc-shaped craft on the seabed, with occupants apparently repairing one, and filmed them. Gallaudet writes that he found the story implausible until recent US military whistleblower disclosures.
+- The [[2004 Nimitz UAP Encounter (Tic Tac)|2004 Nimitz Tic Tac]], in which F/A-18F Super Hornet pilots saw the object hovering just above roiling whitewater, possibly a sign of a larger object below the surface.
+- The [[Aguadilla Puerto Rico Trans-Medium UAP Incident|2013 Aguadilla object]], filmed by US Customs and Border Protection thermal imaging over about three minutes. It flew at 40 to 120 mph, entered and left the Atlantic without significant deceleration, reached 95 mph underwater and at one point split in two. The analysts quoted in the paper concluded that no known aircraft, vessel, projectile or human-made technology has those capabilities.
+- The [[Shelburne Harbor USO Incident|1960 Shelburne Harbor case]]. During a joint US-Canadian minesweeping exercise off [[Shelburne Harbor, Nova Scotia]] (close to, but distinct from, Shag Harbour's 1967 case), Royal Canadian Navy divers reportedly saw two disc-shaped craft on the seabed, with occupants apparently repairing one, and filmed them. Gallaudet writes that he found the story implausible until recent US military whistleblower disclosures.
 
 The paper also lists the range of USO forms in the literature: luminous orbs, silver and grey discs, triangular and cigar-shaped objects, and large lighted craft seen beneath the surface without ever emerging.
 
@@ -382,21 +382,21 @@ Thirteen years before the Tic Tac, the Nimitz had its own reported USO. Petty Of
 
 The video ends on its most contested evidence: photographs said to have been taken in March 1971 from the attack submarine USS Trepang, between Iceland and Jan Mayen Island, showing at least a triangle and a cigar-shaped craft, and possibly an egg-shaped one, hovering over, entering or leaving the water. They first appeared in the French magazine *Top Secret*, and the original scans went to investigator Alex Mistretta. According to the story, the submarine, under Dean Reynolds Sackett, came on the objects by accident, and officer John Klika first saw them through the periscope. Some frames look like harmless snapshots; others seem to show the objects in distress. The video says it can confirm the Trepang was in the Arctic at the time and was the only vessel in the region. See [[USS Trepang USO Photographs]].
 
-Gerb sets out four readings and says where the evidence he found leaves each:
+Gerb sets out four possible explanations and says how each one stands against the evidence he found:
 
 ::wiki-claim{video="U-jrx_giINA" video-title="USO - Unidentified Submerged Objects"}
 ---
-label: "Four readings of the Trepang photographs"
-term: "Reading"
-caption: "The four readings of the photographs the video records, with the evidence and opinions it weighs against each."
+label: "Four explanations for the USS Trepang photographs"
+term: "Explanation"
+caption: "The four explanations the video gives for the photographs of unidentified objects said to come from the submarine USS Trepang, with the evidence and opinions it weighs on each."
 claims:
   - title: "Genuine USOs"
-    text: "Real trans-medium craft, met by chance."
+    text: "The objects are real craft that cross between air and water, and the submarine met them by chance."
     cue: 1290
     responses:
       - by: "Gerb"
         stance: host
-        text: "Sackett's and Klika's non-answers are compatible with this, if they are bound by security oaths or never knew what the periscope caught. He is undecided, but finds the images \"perplexing to say the least\"."
+        text: "Sackett's and Klika's non-answers are compatible with this, if they are bound by security oaths or never knew what the periscope caught. Gerb is undecided, but finds the images \"perplexing to say the least\"."
         cue: 1422
   - title: "Hoax"
     text: "The photographs are faked."
@@ -408,11 +408,11 @@ claims:
         cue: 1429
       - by: "John Greenewald"
         stance: challenges
-        text: "Though extremely sceptical of the images, he argues the frame was probably enhanced for print, as magazines often did, since the original differs from the published version. One altered frame does not discredit the rest."
+        text: "He is extremely sceptical of the images, but argues the tampered frame was probably enhanced for print, as magazines often did, since the original differs from the published version. One altered frame does not discredit the rest."
         cue: 1441
       - by: "Gerb"
         stance: host
-        text: "He agrees with Greenewald and finds the hypothesis \"pretty plausible\"."
+        text: "Gerb agrees with Greenewald and finds the hypothesis \"pretty plausible\"."
         cue: 1459
   - title: "Balloon training exercise"
     text: "Real photographs, showing the submarine engaging test or barrage balloons."
@@ -420,7 +420,7 @@ claims:
     responses:
       - by: "Gerb"
         stance: challenges
-        text: "He found no evidence that attack submarines carried training balloons, apart from a 1955 joint Navy-CIA test of balloon launches from submarines, and no live-fire records for the Trepang."
+        text: "Gerb found no evidence that attack submarines carried training balloons, apart from a 1955 joint Navy-CIA test of balloon launches from submarines, and no live-fire records for the Trepang."
         cue: 1359
       - by: ["Dean Reynolds Sackett", "John Klika"]
         stance: challenges
@@ -440,7 +440,7 @@ claims:
 entries:
   - name: Rear Admiral Timothy Gallaudet
     role: Retired US Navy rear admiral; former NOAA administrator
-    note: "The video's inspiration and 'most credible figure' on USOs: says NHI are real, and in his 2024 white paper Beneath the Surface asks for the ocean to be made a national research priority."
+    note: "Inspired the video, which calls him the 'most credible figure' on unidentified submerged objects. He says non-human intelligence (NHI) is real, and his 2024 white paper Beneath the Surface asks for the ocean to be made a national research priority."
   - name: Dewey Fett
     role: USAF major; Project Blue Book member
     note: "Launched Project Interloper in 1951, the earliest US government investigation of undersea UAP in the video's history."
@@ -455,7 +455,7 @@ entries:
     note: "His notes from the 1985 Advanced Theoretical Working Group, published in 2022, record Navy intelligence on an underwater hotspot off Argentina."
   - name: John Ramirez
     role: Former CIA operative
-    note: "Said in 2022 he had heard of an Office of Naval Research–CIA WINPAC arrangement for recovering and transferring USO materials."
+    note: "Said in 2022 he had heard of an arrangement between the Office of Naval Research and the CIA's WINPAC for recovering and transferring USO materials."
   - name: Luis Elizondo
     role: Former head of AATIP
     note: "Told Terry Virts in 2022 of a submerged object the size of a small island seizing a test cruise missile over the Puerto Rico Trench."
@@ -467,7 +467,7 @@ entries:
 
 ## Key Claims
 
-- AARO's Historical Report Volume 1 makes no reference to any USO case or maritime whistleblower, a gap highlighted by Rear Admiral Gallaudet and by the video.
+- AARO's Historical Report Volume 1 makes no reference to any USO case or maritime whistleblower, a gap pointed out by Rear Admiral Gallaudet and by the video.
 - Project Interloper (1951), a joint USAF-Navy investigation of aerial and undersea UAP led by Blue Book member Dewey Fett, was run outside FOIA, briefed the CIA in 1953, and never reported to Congress; only three case files survive.
 - A 24 April 1952 letter from AFOIN-X-SG forwarded nine reports of submarine contacts with flying discs, compiled with the Office of Naval Intelligence; Gerb argues AFOIN's special group was a real secret UFO investigation body, and CUFON's 1979 FOIA requests about it were denied on national security grounds.
 - Researcher Leonard Stringfield was told of thousands of ONI UAP reports filed between 1952 and 1956.
@@ -475,7 +475,7 @@ entries:
 - A source at NARCAP told Jacques Vallée in 1985 that a large collection of UFO and USO files was stored at Norton Air Force Base.
 - A senior naval figure allegedly confirmed to Mark Dantonio that USOs are common and that a program exists to classify and log them.
 - Oak Shannon's 1985 Advanced Theoretical Working Group notes record Navy intelligence on an underwater UFO hotspot near Golfo San Matías, Argentina.
-- John Ramirez claimed an Office of Naval Research–CIA WINPAC relationship under which USO materials were recovered and transferred to the CIA.
+- John Ramirez claimed a relationship between the Office of Naval Research and the CIA's WINPAC under which USO materials were recovered and transferred to the CIA.
 - Rear Admiral Gallaudet stated on NewsNation that non-human intelligence is visiting Earth and that it is time to disclose this; his 2024 white paper cites the Tic Tac, Aguadilla and Shelburne Harbor cases.
 - Luis Elizondo described a Navy helicopter crew that twice saw a submerged object the size of a small island rise over the Puerto Rico Trench, the second time pulling a test cruise missile under.
 - John Bowman saw a Tic Tac-shaped USO from the USS Carl Vinson in 2010 and was told not to file a report.

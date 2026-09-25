@@ -56,7 +56,7 @@ const emit = defineEmits<{
         type="button"
         class="ufo-diagram-btn ufo-diagram-split-main"
         :disabled="props.busy"
-        :aria-label="`Download ${props.label} as a PNG image`"
+        :aria-label="`Download the ${props.label} as a PNG image`"
         @click="emit('download')"
       >
         <LoaderCircle v-if="props.busy" class="size-3.5 animate-spin" aria-hidden="true" />
@@ -81,12 +81,12 @@ const emit = defineEmits<{
           </DropdownMenuItem>
           <DropdownMenuItem @select="emit('view')">
             <ExternalLink aria-hidden="true" />
-            View as image
+            Open image in new tab
           </DropdownMenuItem>
         </DropdownMenuContent>
       </DropdownMenu>
     </div>
-    <span class="sr-only" aria-live="polite">{{ props.busy ? 'Rendering image…' : '' }}</span>
+    <span class="sr-only" aria-live="polite">{{ props.busy ? 'Preparing the image…' : '' }}</span>
   </div>
 </template>
 

@@ -107,7 +107,7 @@ function onPointerUp(e: PointerEvent): void {
             {{ props.title }}
           </DialogTitle>
           <DialogDescription :class="props.description ? 'ufo-diagram-dialog-desc' : 'sr-only'">
-            {{ props.description || 'Scroll or drag to pan across the chart.' }}
+            {{ props.description || 'Scroll or drag to move around the chart.' }}
           </DialogDescription>
         </div>
         <div class="flex shrink-0 items-center gap-1.5">

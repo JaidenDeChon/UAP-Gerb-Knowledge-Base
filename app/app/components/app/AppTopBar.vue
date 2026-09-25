@@ -14,7 +14,7 @@ const commandOpen = useCommandOpen()
       class="ufo-menu-btn"
       variant="ghost"
       size="icon"
-      aria-label="Open navigation"
+      aria-label="Show or hide the site menu"
       @click="sidebarOpen = !sidebarOpen"
     >
       <Menu class="size-5" />

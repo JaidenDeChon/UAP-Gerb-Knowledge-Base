@@ -96,7 +96,7 @@ const rows = computed<Row[]>(() => {
   push('Type', field('org_type') ?? field('location_type'))
   push('Coordinates', coordinates(), true)
   push('Date', field('date'), true)
-  push('Span', span(), true)
+  push('Dates', span(), true)
   push('Also known as', alsoKnownAs())
   push('Official name', field('official_name'))
   push('Abbreviation', field('abbreviation'))
@@ -108,7 +108,7 @@ const rows = computed<Row[]>(() => {
     out.push({ type: 'transcript', label: 'Transcript', to: transcriptTo.value })
   }
   if (watchUrl.value) {
-    out.push({ type: 'watch', label: 'Watch', url: watchUrl.value })
+    out.push({ type: 'watch', label: 'Video', url: watchUrl.value })
   }
   return out
 })
@@ -143,12 +143,12 @@ const rows = computed<Row[]>(() => {
               class="inline-flex items-center gap-1.5 text-primary underline-offset-2 hover:underline"
             >
               <FileText class="size-3.5" />
-              Read full transcript
+              Read transcript
             </NuxtLink>
 
             <Button v-else as-child variant="outline" size="sm">
               <a :href="row.url" target="_blank" rel="noopener noreferrer">
-                Watch
+                Watch on YouTube
                 <ExternalLink class="size-3.5" />
               </a>
             </Button>

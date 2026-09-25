@@ -14,46 +14,46 @@ tags:
 ---
 stats:
   - value: 5
-    label: NSC 5412 members
-    hint: "Grusch's 'five people on the NSC'"
+    label: Members of the NSC's 5412 group
+    hint: "Grusch spoke of 'five people on the NSC'"
   - value: "24+"
-    label: Control group since 1994
-    hint: "Quasi-government and industry"
+    label: People in the control group since 1994
+    hint: "An alleged quasi-government and industry group"
   - value: "40–50"
-    label: Know the whole story
-    hint: "Host's estimate of those alive at any time"
+    label: People who know the whole story
+    hint: "Gerb's estimate of how many are alive at any one time"
   - value: "75–80%"
-    label: Acquisition SAPs
-    hint: "Share of all DoD special access programs"
+    label: Are acquisition programs
+    hint: "Share of Defense Department special access programs that protect research, development and procurement"
   - value: "3–10×"
-    label: USAP security cost
-    hint: "vs. acknowledged SAPs (1994 Joint Security Commission)"
+    label: Security cost of an unacknowledged program
+    hint: "Compared with an acknowledged one, per the 1994 Joint Security Commission"
   - value: 0
-    label: Budget lines
-    hint: "In the 1997 record Admiral Wilson found"
+    label: Budget lines in the record
+    hint: "The 1997 program record that Admiral Wilson found"
   - value: 4
-    label: Protection offices
+    label: Program protection offices profiled
     hint: "DARPA SID, AFOSI PJ, AFLCMC IP, DOE OICI"
   - value: "3h23m"
-    label: Runtime
+    label: Video length
 ---
 ::
 
 ## Overview
 
-"Special Access Required" is the second installment of UAP Gerb's two-part investigation into the security and secrecy apparatus alleged to protect [[Manhattan Project 2.0|UFO legacy programs]], following [[Videos/The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1/summary|Part One]]. Where Part One traced the 1947-1994 rise and fragmentation of a once-centralized "Manhattan Project 2.0" security architecture, Part Two moves into the modern era to dissect the legal, bureaucratic and financial mechanisms alleged to keep 21st-century programs for exploiting non-human technology hidden from Congress, the press and most of the executive branch. Gerb frames the investigation with his recurring [[Legacy Program Onion Model|"onion" analogy]]: layers of protection, including [[Special Access Programs (SAPs)|Special Access Programs]] (SAPs), program protection agencies and disinformation campaigns, that must be peeled back to reach the core secret of recovered non-human craft and biologics. Where every other layer of his legacy "pyramid" has decayed since the 1980s, he argues, the security layer that encases it, like the limestone casing of the Giza pyramids, has only grown.
+"Special Access Required" is the second installment of UAP Gerb's two-part investigation into the security and secrecy apparatus alleged to protect [[Manhattan Project 2.0|UFO legacy programs]], following [[Videos/The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1/summary|Part One]]. Where Part One traced the 1947-1994 rise and fragmentation of a once-centralized "Manhattan Project 2.0" security architecture, Part Two moves into the modern era to examine the legal, bureaucratic and financial mechanisms alleged to keep 21st-century programs for exploiting non-human technology hidden from Congress, the press and most of the executive branch. Gerb frames the investigation with his recurring [[Legacy Program Onion Model|"onion" analogy]]: layers of protection, including [[Special Access Programs (SAPs)|Special Access Programs]] (SAPs), program protection agencies and disinformation campaigns, that must be peeled back to reach the core secret of recovered non-human craft and biologics. Where every other layer of his legacy "pyramid" has decayed since the 1980s, he argues, the security layer that encases it, like the limestone casing of the Giza pyramids, has only grown.
 
-The video's central and most heavily emphasized claim is that legacy UFO programs have been run as White House and [[National Security Council]]-controlled SAPs that are deliberately designated **non-covert action** rather than covert action under [[Covert Action Program (50 U.S. Code § 3093)|50 U.S. Code § 3093]], and structured as **[[Content-Only Special Access Program|content-only]]** SAPs. Content-only is a budgetary and administrative designation, not a protection level: the program holds only critical program information (CPI) and carries no dedicated budget line, which Gerb argues waives every statutory reporting and carve-out requirement under both Title 10 and Title 50. The framing is built on statements by [[David Grusch]] in his Judicial Watch interview, which Gerb quotes throughout, and on the alleged [[Wilson-Davis Memo]], connecting Vice Admiral [[Thomas Wilson]]'s 1997 discovery of a records group with "zero budget info" to the content-only theory. "If you recall just two things from this video," he says, they should be non-covert action programs and content-only SAPs.
+The video's central and most heavily emphasized claim is that legacy UFO programs have been run as White House and [[National Security Council]]-controlled SAPs that are deliberately designated non-covert action rather than covert action under [[Covert Action Program (50 U.S. Code § 3093)|50 U.S. Code § 3093]], and structured as [[Content-Only Special Access Program|content-only]] SAPs. Content-only is a budgetary and administrative designation, not a protection level: the program holds only critical program information (CPI) and carries no dedicated budget line, which Gerb argues waives every statutory reporting and carve-out requirement under both Title 10 and Title 50. Gerb builds this on statements by [[David Grusch]] in his Judicial Watch interview, which he quotes throughout, and on the alleged [[Wilson-Davis Memo]], which he uses to connect Vice Admiral [[Thomas Wilson]]'s 1997 discovery of a records group with "zero budget info" to the content-only theory. "If you recall just two things from this video," he says, they should be non-covert action programs and content-only SAPs.
 
 Beyond the SAP legal architecture, the video profiles four "program protection" offices alleged to act as internal security enforcers for the legacy portfolio: the [[DARPA Security and Intelligence Directorate (SID)|DARPA Security and Intelligence Directorate]] (SID), the [[Air Force Office of Special Investigations|AFOSI]] Office of Special Projects (PJ), the [[Air Force Life Cycle Management Center (AFLCMC)|Air Force Life Cycle Management Center's]] Information Protection Directorate (IP) and the [[Office of Intelligence and Counterintelligence|Department of Energy's Office of Intelligence and Counterintelligence]] (OICI). It names individuals Gerb alleges hold or have held key gatekeeping roles, including [[Peter Highnam]], [[Terry Phillips]], [[Lee M. Russ]] and Lieutenant General [[Donna D. Shipton]]. A second thread concerns narrative control, running from the 1953 [[Robertson Panel]] to [[AARO]] under [[Sean Kirkpatrick]], and an extended, pointedly skeptical section on [[Luis Elizondo]], the [[AATIP (Advanced Aerospace Threat Identification Program)|ATIP]] cover story, [[To The Stars Academy]] and the 2025 documentary [[The Age of Disclosure]]. The video closes on "unrivaled secrecy": funding misappropriation, alleged wet works and "administrative terrorism" against whistleblowers, illustrated with statements by Grusch and whistleblower [[Matt Brown]].
 
 ## Chronology
 
-The video is organized by layer, not by date, but its argument rests on a sequence that runs from the 1947 National Security Act to the 2025 *Age of Disclosure*. Gerb divides it the way Part One did: the "Wild West days" of NSC control, the "great schism" of the 1980s, and the post-1994 era in which control sits outside government. Because the video moves back and forth between recap and argument, the playhead jumps back and forth on the ruler as it plays.
+The video is organized by layers of secrecy, but its argument rests on a sequence of events running from the 1947 National Security Act to the 2025 *Age of Disclosure*. Gerb divides it the way Part One did: the "Wild West days" of NSC control, the "great schism" of the 1980s, and the post-1994 era in which control sits outside government. Because the video moves between recap and argument, the green line that marks the video's position on the bar of years above the timeline jumps back and forth as it plays.
 
 ::wiki-timeline{video="6MsmPrpQqa8" video-title="Special Access Required - the Secrecy of UFO Crash Retrieval Programs [VOL.2]"}
 ---
-help: "The bar pinned above the entries is a ruler from 1947 to the present. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line capped with a downward arrow is where Gerb is. Gerb recaps Part One before his main argument, so the playhead jumps back and forth. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Every timestamp has been checked against the captions."
+help: "The bar above the list runs from 1947 to the present, with a mark for each entry, coloured by type; taller marks are major entries. Click the bar to jump to the entry nearest that year. The dark line shows the entry you are reading. Play from here starts the video at that entry, and while it plays a green line shows how far the video has reached. Gerb recaps Part One before his main argument, so the green line jumps back and forth. Turn on Follow video to have the list scroll along with the video; scrolling yourself turns it off. Click any timestamp to play the video from that moment. Every timestamp has been checked against the video's captions."
 eras:
   - id: wildwest
     label: "The Wild West days"
@@ -65,12 +65,12 @@ eras:
     label: "The great schism"
     from: 1982
     to: 1993
-    summary: "EO 12356 and the Yellow Fruit scandal end codeword access and bring in SAP oversight, forcing the programs into cover offices; new statutes require reporting."
+    summary: "Executive Order 12356 and the Yellow Fruit scandal end codeword access and bring in oversight of special access programs (SAPs), which forces the programs into cover offices. New statutes require reporting."
     anchor: "content-only-saps-and-the-non-covert-action-loophole"
   - id: vested
     label: "Control outside government"
     from: 1994
-    summary: "Perry's SAPOC and Senior Review Group gatekeep access while top-level control sits with a quasi-government and industry group; contractors break away and narrative-control campaigns multiply."
+    summary: "The Special Access Program Oversight Committee set up under Bill Perry, with its Senior Review Group, decides who gets access, while top-level control sits with a quasi-government and industry group. Contractors break away, and campaigns to control the public story multiply."
     anchor: "sap-governance-and-gatekeeping"
 hinges:
   - year: 2005
@@ -92,7 +92,7 @@ events:
   - date: "1948"
     title: "Truman's alleged classified orders send recovered discs to AEC laboratories"
     cue: 1016
-    summary: "A series of alleged classified presidential executive orders signed by Truman in 1948 reportedly gave Atomic Energy Commission national laboratories custody of recovered discs, to be studied under Vannevar Bush. Gerb sees this as the root of today's FFRDC and GOCO laboratory infrastructure."
+    summary: "A series of alleged classified presidential executive orders signed by Truman in 1948 reportedly gave Atomic Energy Commission national laboratories custody of recovered discs, to be studied under Vannevar Bush. Gerb sees this as the root of today's federally funded research and development centers (FFRDCs) and government-owned, contractor-operated (GOCO) laboratories."
     category: policy
     significance: notable
     entities:
@@ -122,7 +122,7 @@ events:
   - date: "1953-01"
     title: "Robertson Panel sets the debunking playbook"
     cue: 7860
-    summary: "The CIA's 1953 Robertson Panel review of Blue Book is described as a turning point: the panel was allegedly given a prior mandate to reduce public concern and explain UFOs as prosaic phenomena. Gerb dates the modern narrative-control campaign from here."
+    summary: "The video describes the CIA's 1953 Robertson Panel review of Blue Book as a turning point: the panel was allegedly given a prior mandate to reduce public concern and explain UFOs as prosaic phenomena. Gerb dates the modern campaign to control the public story from here."
     category: event
     significance: major
     entities:
@@ -188,7 +188,7 @@ events:
   - date: "1982"
     title: "Executive Order 12356 ends the Wild West days"
     cue: 1304
-    summary: "Reagan's EO 12356 widened what could be classified but removed top secret codeword access and other ad hoc protocols. Gerb calls it the start of the great schism that ended the unified Manhattan Project 2.0."
+    summary: "Reagan's EO 12356 widened what could be classified but removed top secret codeword access and other ad hoc protocols. Gerb calls it the start of the great schism, the split that ended the unified Manhattan Project 2.0."
     category: policy
     significance: major
   - date: "1983"
@@ -380,7 +380,7 @@ events:
   - date: "2023-07"
     title: "David Grusch's revelations"
     cue: 2383
-    summary: "Grusch's 2023 disclosures are credited with confirming that retrieval, storage and exploitation are housed in national programs, chiefly SAPs. His later accounts of reprisals, which he calls administrative terrorism, and of misappropriated funds run through the rest of the video."
+    summary: "The video credits Grusch's 2023 disclosures with confirming that retrieval, storage and exploitation are housed in national programs, chiefly SAPs. His later accounts of reprisals, which he calls administrative terrorism, and of misappropriated funds run through the rest of the video."
     category: event
     significance: major
     entities:
@@ -420,16 +420,16 @@ events:
 
 ## Recap of Part One and the Onion Model
 
-Gerb opens with an extended recap of Part One's five Manhattan Project security pillars, which he argues were carried straight over to the UFO effort: **compartmentalization**, **organizational architecture** (the Manhattan Engineer District as a container, compared with today's [[Hidden Wing]]), **physical security** (Los Alamos, Oak Ridge and Sandia), **classification and information control** (including the two classification tracks created by the [[Atomic Energy Act of 1954]]) and a **political shield** modeled on the Manhattan Project's Top Policy Group. He restates the thesis that the NSC's 5412 Committee Special Group, which he calls [[Majestic 12]] or "MJ-12," served as the program's control group from the Eisenhower administration, and that the "Wild West days" ran from the 1950s until Reagan's [[Yellow Fruit]]-era reforms of the early 1980s broke the effort apart. In 1994, fearing President Clinton would disclose, the programs allegedly vested control permanently in a "quasi government and industry control group" of just over two dozen people. Grusch is quoted describing a "burn bag and shred party" at an agency in the mid-1990s.
+Gerb opens with an extended recap of Part One's five Manhattan Project security pillars, which he argues were carried straight over to the UFO effort: compartmentalization, organizational architecture (the Manhattan Engineer District as a container, compared with today's [[Hidden Wing]]), physical security (Los Alamos, Oak Ridge and Sandia), classification and information control (including the two classification tracks created by the [[Atomic Energy Act of 1954]]) and a political shield modeled on the Manhattan Project's Top Policy Group. He restates the thesis that the NSC's 5412 Committee Special Group, which he calls [[Majestic 12]] or "MJ-12," served as the program's control group from the Eisenhower administration, and that the "Wild West days" ran from the 1950s until Reagan's [[Yellow Fruit]]-era reforms of the early 1980s broke the effort apart. In 1994, fearing President Clinton would disclose, the programs allegedly vested control permanently in a "quasi government and industry control group" of just over two dozen people. Grusch is quoted describing a "burn bag and shred party" at an agency in the mid-1990s.
 
 Gerb visualizes the resulting structure as a pyramid. A now-amorphous control group sits at the top, with a flat hierarchy in which, since [[Dick Cheney]] left office in 2009, nobody holds full control of all the siloed programs. Below it sit program administrators (silos within specific elements of the armed forces and intelligence community), then [[Federally Funded Research and Development Center (FFRDC)|FFRDCs]] and government-owned, contractor-operated (GOCO) institutions, and at the bottom, the most exposed layer, prime defense contractors and their subcontractors. Security is the casing around all of it. Every oversight reform, he argues, forced legacy activities to hide one more limb inside a cover office such as the Air Force's SAF/AA, and each move added layers to the onion rather than removing them. Add the early-2010s restrictions on briefing new program staff about program history, and he is "willing to wager any amount of money" that only 40 to 50 people alive at any time know the programs' full breadth and history. He ties this to former Navy chief scientist Dr. [[John P. Craven|John Piña Craven]]'s "seventh veil" analogy for the compartmented [[Project Sanddollar|Sand Dollar]] program: even highly cleared people could never be sure they had reached the innermost layer, rather than a cover program serving another cover program.
 
 The rest of the video peels the onion in four layers:
 
-1. **The vessels**: special access programs, and the loopholes that keep them unreported (the outer layers, and the part he asks viewers to remember).
-2. **The antibodies**: program protection offices deputized to neutralize insider and outsider threats (inner layers).
-3. **The surface**: disinformation and narrative control, from the Robertson Panel to AARO and ATIP.
-4. **The sub-layers**: funding schemes, wet works and administrative terrorism, grouped as "unrivaled secrecy."
+1. The vessels: special access programs, and the loopholes that keep them unreported (the outer layers, and the part he asks viewers to remember).
+2. The antibodies: program protection offices deputized to neutralize insider and outsider threats (inner layers).
+3. The surface: disinformation and narrative control, from the Robertson Panel to AARO and ATIP.
+4. The sub-layers: funding schemes, wet works and administrative terrorism, grouped as "unrivaled secrecy."
 
 ## Special Access Programs: Structure, Types, and Protection Levels
 
@@ -437,7 +437,7 @@ The video gives an extended breakdown of the [[Special Access Programs (SAPs)|SA
 
 The term "special access program" was first acknowledged in the 1980s; before that, the equivalents were "black programs," such as the early NRO and Lockheed Skunk Works stealth aircraft. Today SAPs are governed chiefly by Executive Order 13526, which defines a SAP as a program for a specific class of classified information that imposes safeguarding and access requirements beyond those normally required at the same classification level. The intelligence community runs its own equivalent, controlled access programs (CAPs), and the Department of Energy runs its own SAPs under the Atomic Energy Act. Gerb clears up two misconceptions: SAPs are not a way to hide money, and they are not a classification level above top secret. They use the ordinary levels, with tighter access. Well-known examples include the F-117A Nighthawk, B-21 Raider, RQ-180 and Yellow Fruit. Access requires a need-to-know determined by an access approval authority, and read-ins are kept to the minimum needed regardless of rank. Gerb says he knows of a legacy SAP kept so small that a senior scientist also did account management and an industrial security professional also did janitorial work, so that no one else had to be read in.
 
-SAPs nest into **umbrellas**, **compartments** and **sub-compartments**, each grouping similar critical program information. Gerb's examples from Part One are the Polaris submarine program, which housed hidden programs including Sand Dollar, and Yellow Fruit, which housed several classified operations. Names hide information too. A SAP is known by an unclassified two-word nickname, its program identifier (PID), such as Yellow Fruit or [[Kona Blue]], to which the SAP central office may add a classified codeword and control markings such as NOFORN. His example marking is "TS SAR HANGAR BULLY WAIVED": top secret, special access required, the PID, and a waived control. He says whistleblowers have sworn before Congress that legacy SAPs rotate names, possibly monthly, to help trace leaks.
+SAPs nest into umbrellas, compartments and sub-compartments, each grouping similar critical program information. Gerb's examples from Part One are the Polaris submarine program, which housed hidden programs including Sand Dollar, and Yellow Fruit, which housed several classified operations. Names hide information too. A SAP is known by an unclassified two-word nickname, its program identifier (PID), such as Yellow Fruit or [[Kona Blue]], to which the SAP central office may add a classified codeword and control markings such as NOFORN. His example marking is "TS SAR HANGAR BULLY WAIVED": top secret, special access required, the PID, and a waived control. He says whistleblowers have sworn before Congress that legacy SAPs rotate names, possibly monthly, to help trace leaks.
 
 ### Three types
 
@@ -445,19 +445,19 @@ SAPs fall into three functional categories. Gerb illustrates them with a hypothe
 
 ::wiki-grid{cols=3}
 ::wiki-panel{title="Acquisition SAPs" tone="accent"}
-**Protects how it is built.** Research, development, test, evaluation and procurement whose compromise would reveal a technological edge. Makes up 75 to 80% of all DoD SAPs.
+**Protects how a system is built.** Research, development, test, evaluation and procurement whose compromise would reveal a technological edge. Acquisition SAPs make up 75 to 80% of all DoD SAPs.
 
 **Oversight:** Under Secretary of Defense for Acquisition and Sustainment, USD(A&S), formerly OUSD(A&T), the office where the Wilson-Davis notes place the legacy records.
 ::
 ::wiki-panel{title="Intelligence SAPs"}
-**Protects how we know what we know.** The planning and execution of sensitive intelligence and counterintelligence operations; here, the recovery and the judgment that its technology was exploitable.
+**Protects how we know what we know.** The planning and execution of sensitive intelligence and counterintelligence operations. In Gerb's example, that means the recovery of the craft and the judgment that its technology was exploitable.
 
 **Oversight:** [[Office of the Under Secretary of Defense for Intelligence and Security (USDINS)|USD(I&S)]], held by [[James Clapper]] from 2007 to 2010.
 ::
 ::wiki-panel{title="Operations and support SAPs"}
-**Protects how and where it is used.** The planning, execution and logistics of sensitive military operations, such as covert ISR flights once the triangle is fielded.
+**Protects how and where a system is used.** The planning, execution and logistics of sensitive military operations, such as covert ISR flights once Gerb's hypothetical triangular craft is fielded.
 
-**Also relevant:** USD(R&E), which Gerb calls the successor to [[Vannevar Bush]]'s Research and Development Board, cultivates the cutting-edge work that needs SAP protection.
+**Also relevant:** USD(R&E), the Under Secretary of Defense for Research and Engineering, which Gerb calls the successor to [[Vannevar Bush]]'s Research and Development Board, cultivates the cutting-edge work that needs SAP protection.
 ::
 ::
 
@@ -469,7 +469,7 @@ Every SAP carries one of three protection levels. The legacy portfolio, Gerb arg
 
 ::wiki-compare{video="6MsmPrpQqa8" video-title="Special Access Required - the Secrecy of UFO Crash Retrieval Programs [VOL.2]"}
 ---
-caption: "The three SAP protection levels as the video lays them out, each a deeper layer of secrecy than the last. Security costs are from the 1994 Joint Security Commission report and, for waived programs, from statements the Wilson-Davis notes attribute to Major General Michael Kostelnik."
+caption: "The three protection levels for special access programs (SAPs), as the video describes them. Each is more secret than the one before. Security costs are from the 1994 Joint Security Commission report and, for waived programs, from statements the Wilson-Davis notes attribute to Major General Michael Kostelnik."
 attributeLabel: "Point"
 subjects:
   - name: "Acknowledged"
@@ -504,7 +504,7 @@ rows:
 ---
 ::
 
-A waived unacknowledged SAP can also carry the informal control marking **bigoted**, meaning access by name (see [[Bigot List]]), which Gerb attributes to Grusch. The Gang of Eight has clearly not been briefed on the legacy portfolio, he argues. He plays Grusch's account of meeting former Senate Majority Leader [[Harry Reid]] about nine months before Reid's death: Reid, a Gang of Eight member and the sponsor of [[AAWSAP]], allegedly told him "I knew we had UFO material. I was denied access for decades."
+A waived unacknowledged SAP can also carry the informal control marking *bigoted*, meaning access by name (see [[Bigot List]]), which Gerb attributes to Grusch. The Gang of Eight has clearly not been briefed on the legacy portfolio, he argues. He plays Grusch's account of meeting former Senate Majority Leader [[Harry Reid]] about nine months before Reid's death: Reid, a Gang of Eight member and the sponsor of [[AAWSAP]], allegedly told him "I knew we had UFO material. I was denied access for decades."
 
 The Wilson-Davis notes put the legacy security budget at two to three times the program budget, and once as high as six to seven times, according to statements attributed to Air Force Major General Michael Kostelnik. That can look inconsistent with the Joint Security Commission's figures. Gerb argues it is not, because the program record itself carried no budget (see the content-only loophole below).
 
@@ -513,7 +513,7 @@ The Wilson-Davis notes put the legacy security budget at two to three times the 
 
 ## SAP Governance and Gatekeeping
 
-Legacy UFO programs are not reported to Congress, Gerb says, beyond a few members "on the payroll" of the programs. SAP governance is still what decides who gets in. He sets out the chain from the bottom up: component-level SAP central offices (SAPCOs) for each armed service, the Joint Staff, [[DARPA]] and the Missile Defense Agency; then SAPCOs at the level of the Office of the Secretary of Defense; then the DoD-wide SAPCO, the Pentagon's point of contact with Congress and the NSC, which exempts waived SAPs and sub-compartments from congressional access requests. Above them sits the [[SAPOC (Special Access Program Oversight Committee)|Special Access Program Oversight Committee]], established in 1994 and chaired by the Deputy Secretary of Defense (historically [[John Deutsch]] and [[Bill Perry]]), with its **Senior Review Group** (SRG) of senior executives.
+Legacy UFO programs are not reported to Congress, Gerb says, beyond a few members "on the payroll" of the programs. SAP governance is still what decides who gets in. He sets out the chain from the bottom up: component-level SAP central offices (SAPCOs) for each armed service, the Joint Staff, [[DARPA]] and the Missile Defense Agency; then SAPCOs at the level of the Office of the Secretary of Defense; then the DoD-wide SAPCO, the Pentagon's point of contact with Congress and the NSC, which exempts waived SAPs and sub-compartments from congressional access requests. Above them sits the [[SAPOC (Special Access Program Oversight Committee)|Special Access Program Oversight Committee]], established in 1994 and chaired by the Deputy Secretary of Defense (historically [[John Deutsch]] and [[Bill Perry]]), with its Senior Review Group (SRG) of senior executives.
 
 ::wiki-org-chart
 ---
@@ -547,7 +547,7 @@ root:
 ---
 ::
 
-Gerb's key point is about who holds the gate. Citing the Wilson-Davis notes, he says that in 1994, under Perry's expansion of SAP management, the UFO portfolio was reorganized into "a special subset of the unacknowledged carve-outs waived programs not belonging to usual SAP divisions," and that the SAPOC's new SRG was made its access approval authority, able to turn away even agency directors and general officers without need-to-know. H. Marshal Ward, a former DoD SAPCO director and SAPOC executive secretary, allegedly told Wilson the records were in the acquisition office then run by [[Paul Kaminski]], whom Gerb says he knows to have been "a very senior individual" in the legacy portfolio and who later sat on the board of [[MITRE Corporation|MITRE]]. Wilson read the index abstracts, and the record held **zero budget information**, which Gerb calls the most important detail in the entire document.
+Gerb's main point here is who controls access. Citing the Wilson-Davis notes, he says that in 1994, under Perry's expansion of SAP management, the UFO portfolio was reorganized into "a special subset of the unacknowledged carve-outs waived programs not belonging to usual SAP divisions," and that the SAPOC's new SRG was made its access approval authority, able to turn away even agency directors and general officers without need-to-know. H. Marshal Ward, a former DoD SAPCO director and SAPOC executive secretary, allegedly told Wilson the records were in the acquisition office then run by [[Paul Kaminski]], whom Gerb says he knows to have been "a very senior individual" in the legacy portfolio and who later sat on the board of [[MITRE Corporation|MITRE]]. Wilson read the index abstracts, and the record held zero budget information, which Gerb calls the most important detail in the entire document.
 
 He is careful to separate the SAPOC and SRG from the control group. They are the "skeleton gatekeeping structure," not the remnant of Majestic 12 or the quasi-government and industry group. The [[Watch Committee]] of the Wilson-Davis notes, however, may be directly connected to that group, possibly with members carried over. The SRG is also supposed to stop duplicate SAPs, but he says the legacy portfolio is so siloed that the Army and another service run duplicate exotic programs with no shared personnel. In his closing remarks he adds that he knows of a four-star general who had no idea the programs existed and eventually forced his way in using his credentials.
 
@@ -555,12 +555,12 @@ He is careful to separate the SAPOC and SRG from the control group. They are the
 
 This is the section Gerb calls "the most important part of the video." Building on Grusch's Judicial Watch remarks, he argues that because retrieval, storage and exploitation began under the NSC's 5412 Special Group, a body created for covert action, the work was covert action from the start. Covert action is now governed by [[Covert Action Program (50 U.S. Code § 3093)|50 U.S.C. 3093]] and must be reported to the Gang of Eight or Gang of Four, while DoD SAPs answer to 10 U.S.C. 119. Once both statutes were in force, he says, the programs had to "get creative again." Grusch's description of the solution: a White House SAP that is "non-covert action," for which "there are no reporting carve-outs or requirements," known to perhaps five people on the NSC and the president at a time.
 
-Gerb traces the route step by step. A White House SAP is not unheard of; Yankee White, the background check for staff who directly support the White House, is one, though it is properly reported. A covert-action SAP designated non-covert escapes presidential findings and 50 U.S.C. 3093 reporting. Because it was never created as a DoD SAP, it also falls outside 10 U.S.C. 119, sitting in a gray area answerable only to the NSC. The final step is to make it **content-only**.
+Gerb traces the route step by step. A White House SAP is not unheard of; Yankee White, the background check for staff who directly support the White House, is one, though it is properly reported. A covert-action SAP designated non-covert escapes presidential findings and 50 U.S.C. 3093 reporting. Because it was never created as a DoD SAP, it also falls outside 10 U.S.C. 119, sitting in a gray area answerable only to the NSC. The final step is to make it content-only.
 
 ::wiki-chain{video="6MsmPrpQqa8" video-title="Special Access Required - the Secrecy of UFO Crash Retrieval Programs [VOL.2]"}
 ---
 kind: consequence
-caption: "The route Gerb traces, on the strength of Grusch's remarks, from covert action to a program with no reporting duty at all."
+caption: "How, in Gerb's reading of Grusch's remarks, a program begun as covert action could end up with no duty to report at all."
 steps:
   - name: "Covert Action Program (50 U.S. Code § 3093)"
     note: "Work begun under the NSC's covert-action group; covert action must be reported to the Gang of Eight or Gang of Four."
@@ -600,7 +600,7 @@ steps:
 > [!info] Content-only is not a protection level
 > Acknowledged, unacknowledged and waived are protection levels. Content-only is a budgetary and administrative tier: the SAP protects information only and has no funding of its own, or its funding is handled inside a normal budget process. Gerb says it is discussed in only two major official sources: Air Force Instruction 16-701, which calls it "a descriptive term" for a SAP or sub-element that "contains information only," and DoDI 5205.11, which describes a SAP "that protects discrete CPI."
 
-He links this to [[Hidden Wing]] "Witness Ed," a lieutenant colonel in Air Force acquisition, who said money was pulled off the Air Force books into "black holes" before any review by SAF/FM, the Air Force's financial management office. For Gerb the legal point is the troubling one. Answering claims such as [[Steven Greer]]'s that legacy NDAs are unenforceable, he argues that the programs' existence is lawful, built in deliberate gray areas and on classified presidential executive orders from the 1940s and 1950s, even if unconstitutional in spirit. It is their activities that are illegal: misappropriation of funds, white- and blue-collar crime and possible "blue-on-blue" action. That is why even an empowered investigator like Grusch finds it so hard to get an inspector general to follow up.
+He links this to [[Hidden Wing]] "Witness Ed," a lieutenant colonel in Air Force acquisition, who said money was pulled off the Air Force books into "black holes" before any review by SAF/FM, the Air Force's financial management office. The legal position is what troubles Gerb most. Answering claims such as [[Steven Greer]]'s that legacy NDAs are unenforceable, he argues that the programs' existence is lawful, built in deliberate gray areas and on classified presidential executive orders from the 1940s and 1950s, even if unconstitutional in spirit. It is their activities that are illegal: misappropriation of funds, white- and blue-collar crime and possible "blue-on-blue" action. That is why even an empowered investigator like Grusch finds it so hard to get an inspector general to follow up.
 
 ## Department of Energy SAPs
 
@@ -628,11 +628,11 @@ entries:
 ---
 ::
 
-**DARPA SID.** Gerb calls DARPA "strangely and largely missing" from UFO legacy discussions and promises a full investigation. SID plans and directs information, personnel, industrial and physical security at DARPA and at contractor sites. Because it reports to the DARPA director, its line of accountability runs to the Under Secretary of Defense for Research and Engineering. Here he names [[Peter Highnam]], now principal deputy assistant secretary of defense for critical technologies under USD(R&E), formerly a DARPA program manager, director of IARPA, director of research at the [[NGA]], and DARPA's deputy and acting director from 2018 to 2022. He alleges Highnam has been integral to coordinating legacy work between DARPA, USD(R&E) and SID for eight years or more, adding that "critical technologies" in senior DoD titles often signals legacy exposure. Since 2012 SID has partnered with [[System High]], a security firm founded in 2005 ("an important year" for contractor breakaway programs), which won its third consecutive five-year SID contract in 2022. Its president until 2025, Rob Howe, had managed "special activities" at Northrop Grumman, worked as a program security officer for Air Force acquisition and served at the Air Force Test Center. Gerb says he knows the name of one former SID director involved in crimes but will not give it.
+Gerb calls DARPA "strangely and largely missing" from UFO legacy discussions and promises a full investigation. Its Security and Intelligence Directorate (SID) plans and directs information, personnel, industrial and physical security at DARPA and at contractor sites. Because it reports to the DARPA director, its line of accountability runs to the Under Secretary of Defense for Research and Engineering. Here he names [[Peter Highnam]], now principal deputy assistant secretary of defense for critical technologies under USD(R&E), formerly a DARPA program manager, director of IARPA, director of research at the [[NGA]], and DARPA's deputy and acting director from 2018 to 2022. He alleges Highnam has been integral to coordinating legacy work between DARPA, USD(R&E) and SID for eight years or more, adding that "critical technologies" in senior DoD titles often signals legacy exposure. Since 2012 SID has partnered with [[System High]], a security firm founded in 2005 ("an important year" for contractor breakaway programs), which won its third consecutive five-year SID contract in 2022. Its president until 2025, Rob Howe, had managed "special activities" at Northrop Grumman, worked as a program security officer for Air Force acquisition and served at the Air Force Test Center. Gerb says he knows the name of one former SID director involved in crimes but will not give it.
 
-**AFLCMC IP.** Headquartered at [[Wright-Patterson Air Force Base]], AFLCMC is one of six centers under [[Air Force Materiel Command (AFMC)|Air Force Materiel Command]] and manages the entire life cycle of Air Force aircraft, engines, munitions and electronic systems. Its commander, Lieutenant General [[Donna D. Shipton]], previously held a senior acquisition post overseeing more than $60 billion a year in programs, and Gerb calls her a senior figure in Air Force legacy activities. He presents the IP directorate as an addendum to his Hidden Wing video.
+The Air Force Life Cycle Management Center (AFLCMC), home of the Information Protection Directorate (IP), is headquartered at [[Wright-Patterson Air Force Base]]. It is one of six centers under [[Air Force Materiel Command (AFMC)|Air Force Materiel Command]] and manages the entire life cycle of Air Force aircraft, engines, munitions and electronic systems. Its commander, Lieutenant General [[Donna D. Shipton]], previously held a senior acquisition post overseeing more than $60 billion a year in programs, and Gerb calls her a senior figure in Air Force legacy activities. He presents the IP directorate as an addendum to his Hidden Wing video.
 
-**DOE OICI.** OICI's budget is classified within the $81.9 billion fiscal 2026 National Intelligence Program. It is DOE's link to the rest of the intelligence community and specializes in foreign nuclear capabilities, counterintelligence and insider threats, nuclear material security and support to the national laboratories. Gerb is most interested in its Nuclear Materials Information Program and in controls such as transclassified foreign nuclear information, which he believes touch the UFO portfolio. He connects its laboratory field offices to Truman's alleged 1948 orders placing recovered craft in Atomic Energy Commission laboratories such as [[Sandia National Laboratories]], [[Lawrence Livermore National Laboratory]] and [[Oak Ridge National Laboratory]].
+The budget of the Department of Energy's Office of Intelligence and Counterintelligence (OICI) is classified within the $81.9 billion fiscal 2026 National Intelligence Program. It is DOE's link to the rest of the intelligence community and specializes in foreign nuclear capabilities, counterintelligence and insider threats, nuclear material security and support to the national laboratories. Gerb is most interested in its Nuclear Materials Information Program and in controls such as transclassified foreign nuclear information, which he believes touch the UFO portfolio. He connects its laboratory field offices to Truman's alleged 1948 orders placing recovered craft in Atomic Energy Commission laboratories such as [[Sandia National Laboratories]], [[Lawrence Livermore National Laboratory]] and [[Oak Ridge National Laboratory]].
 
 ## Narrative Control and Disinformation
 
@@ -650,7 +650,7 @@ The video's most critical section concerns [[Luis Elizondo]]. Gerb says he stand
 
 ::wiki-compare{video="6MsmPrpQqa8" video-title="Special Access Required - the Secrecy of UFO Crash Retrieval Programs [VOL.2]"}
 ---
-caption: "The two programs Gerb says are often run together. Where Elizondo and The Age of Disclosure describe ATIP differently, the cell is marked disputed."
+caption: "Two programs Gerb says are often confused with each other. Where Elizondo or The Age of Disclosure describe ATIP differently from Gerb, the cell is marked Disputed."
 attributeLabel: "Point"
 subjects:
   - name: "AAWSAP"
@@ -691,7 +691,7 @@ Gerb's main criticism of the film, which he stresses is not aimed at director Da
 
 ::wiki-claim{video="6MsmPrpQqa8" video-title="Special Access Required - the Secrecy of UFO Crash Retrieval Programs [VOL.2]"}
 ---
-caption: "The film's picture of the legacy program, and Gerb's answer to it."
+caption: "How the documentary The Age of Disclosure portrays the legacy UFO program, and how Gerb and David Grusch respond."
 claims:
   - title: "One program, run by the CIA"
     by: "The Age of Disclosure"
@@ -702,7 +702,7 @@ claims:
     responses:
       - by: "Gerb"
         stance: challenges
-        text: "The DOE is baked into every layer, not beholden to the agency; prime contractors, bar those that broke away with IRAD in 2005, are the bottom of the totem pole."
+        text: "The Department of Energy is baked into every layer and is not beholden to the CIA; prime contractors, bar those that broke away with IRAD in 2005, are the bottom of the totem pole."
         cue: 9377
       - by: "Gerb"
         stance: challenges
@@ -710,7 +710,7 @@ claims:
         cue: 9397
       - by: "Gerb"
         stance: host
-        text: "The agency is not the portfolio's lead, though it has played a major role throughout."
+        text: "The CIA is not the lead of the legacy portfolio, though it has played a major role throughout."
         cue: 9412
       - by: "David Grusch"
         stance: challenges
@@ -725,7 +725,7 @@ He closes the section with open questions: what Elizondo's and Clapper's motive 
 
 The closing section gathers smaller layers under the heading "unrivaled secrecy." On funding, Grusch is quoted on Capitol Hill confirming "specific knowledge" of misappropriated money and of US corporations overcharging the government "through something called IRAD." Gerb recalls his Northrop Grumman video's claim that [[Northrop Grumman]] and other contractors began their own breakaway retrieval and exploitation programs in 2005 with little reporting to their sponsors. He adds self-funding cutouts: Lieutenant Colonel Duncan staged his retirement to run Yellow Fruit activities through a consulting firm called BSI, and LTV Aerospace became [[E-Systems]], "a CIA cutout." In a Fox News clip Grusch, a former counter-threat-finance analyst, describes haircuts across black programs, self-funding cutouts and "a government-run criminal enterprise that was siphoning money... to pay for... the crash retrieval operations off books," which he reported to the Department of Justice. Gerb says funding deserves its own future project, possibly two.
 
-On "wet works" he points to Air Force intelligence officer [[Matthew Sullivan|Matthew "Quake" Sullivan]], a Bronze Star recipient who served in Air Force intelligence, the NSA and [[National Air and Space Intelligence Center (NASIC)|NASIC]]. According to Representative Burlison, Sullivan was about to make protected disclosures about legacy programs when he died of what was called an accidental overdose two weeks earlier. Gerb suggests Sullivan is the NASIC analyst Grusch once described as working a "night job" for the legacy program without telling his boss. Grusch calls Sullivan one of his sources and says the death is an ongoing FBI matter.
+On "wet works" he points to Air Force intelligence officer [[Matthew Sullivan|Matthew "Quake" Sullivan]], a Bronze Star recipient who served in Air Force intelligence, the NSA and [[National Air and Space Intelligence Center (NASIC)|NASIC]]. According to Representative Burlison, Sullivan died of what was called an accidental overdose two weeks before he was due to make protected disclosures about legacy programs. Gerb suggests Sullivan is the NASIC analyst Grusch once described as working a "night job" for the legacy program without telling his boss. Grusch calls Sullivan one of his sources and says the death is an ongoing FBI matter.
 
 On [[Administrative Terrorism|administrative terrorism]] the video plays Grusch describing "manufactured allegations" against him, the attempted revocation of his former chief of staff's clearance, the revocation of his NRO boss's clearance, and friends out of work for three and a half years. "The process," he says, "is the punishment." It also plays [[Matt Brown]] naming (redacted in the clip) a current Northrop Grumman figure, formerly "deputy SAPCO for DARPA," as "a nexus point for legacy security" in a "dirty tricks department."
 
@@ -733,7 +733,7 @@ Gerb acknowledges gaps: managed need-to-know (MNTK) codewords and constructs, an
 
 ## Named Figures
 
-Gerb's usual lists of names, gathered here by the role he alleges each played. None of these allegations comes from the individuals themselves.
+As in his other videos, Gerb names many people. They are listed here with the role he alleges each played. None of these allegations comes from the individuals themselves.
 
 ::wiki-roster
 ---

@@ -30,7 +30,7 @@ function imageOf(name: string): NotePortrait | undefined {
 }
 
 function categoryOf(name: string): string {
-  return refs.value.get(name.trim())?.category ?? 'Unlinked'
+  return refs.value.get(name.trim())?.category ?? 'No entry yet'
 }
 
 /** Mirrors the sidebar/command-palette's own `ICONS` map (see `AppSidebarTree.vue`). */

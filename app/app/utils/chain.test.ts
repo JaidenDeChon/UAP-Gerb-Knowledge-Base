@@ -188,15 +188,15 @@ describe('junction wording', () => {
     { fork: [[{ name: 'h' }], [{ name: 'i' }]] },
   ])
   it('names the step a fork splits from, or says it starts the run', () => {
-    expect(splitText(m.items, 0)).toBe('Starts as 3 parallel branches')
-    expect(splitText(m.items, 2)).toBe('From 1, splits into 2 branches')
-    expect(splitText(m.items, 3)).toBe('Then splits into 2 branches')
+    expect(splitText(m.items, 0)).toBe('Starts as 3 separate branches')
+    expect(splitText(m.items, 2)).toBe('After step 1, splits into 2 branches')
+    expect(splitText(m.items, 3)).toBe('Splits again into 2 branches')
     expect(splitText(m.items, 1)).toBe('')
   })
   it('names the branches that come back and the step they come back at', () => {
-    expect(joinText(m.items, 0)).toBe('Branches A–C converge at 1')
+    expect(joinText(m.items, 0)).toBe('Branches A–C converge at step 1')
     expect(joinText(m.items, 2)).toBe('Branches D and E rejoin')
-    expect(joinText(m.items, 3)).toBe('Branches F and G rejoin at 2')
+    expect(joinText(m.items, 3)).toBe('Branches F and G rejoin at step 2')
   })
   it('says nothing when the branches end the chain', () => {
     expect(joinText(m.items, 5)).toBe('')

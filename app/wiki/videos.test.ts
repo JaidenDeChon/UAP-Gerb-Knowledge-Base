@@ -37,6 +37,6 @@ describe('preview leads', () => {
     const leads = Object.values(previews).map(p => p.lead)
     expect(leads.some(lead => /^::|^stats:/.test(lead))).toBe(false)
     const timeline = Object.values(previews).find(p => p.path.includes('/80-years-of-ufo-crash-retrieval'))
-    expect(timeline?.lead).toMatch(/^This video is UAP Gerb's macro-level synthesis/)
+    expect(timeline?.lead).toMatch(/^This video brings the research of the whole UAP Gerb channel together/)
   })
 })

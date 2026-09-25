@@ -117,7 +117,7 @@ function cueTitle(subject: string, attribute: string): string {
     <!-- Narrow container: one card per attribute, each subject's value listed under it. -->
     <div class="ufo-cmp-cards">
       <!-- Subject notes appear once, as a key, rather than in every card. -->
-      <ul v-if="model.subjects.some(s => s.note)" class="ufo-cmp-key" aria-label="Compared">
+      <ul v-if="model.subjects.some(s => s.note)" class="ufo-cmp-key" aria-label="What is being compared">
         <li v-for="(s, si) in model.subjects" :key="si" class="ufo-cmp-key-item">
           <span class="ufo-cmp-key-name">{{ s.name }}</span>
           <span v-if="s.note" class="ufo-cmp-key-note">{{ s.note }}</span>

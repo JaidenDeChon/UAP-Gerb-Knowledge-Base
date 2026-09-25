@@ -265,9 +265,9 @@ function onRulerKey(event: KeyboardEvent): void {
 const readingMark = computed(() => props.marks.find(m => m.index === props.readingIndex) ?? null)
 const sliderText = computed(() => {
   const m = readingMark.value
-  if (!m) return 'No entry'
+  if (!m) return 'No entry selected'
   const position = visibleMarks.value.findIndex(v => v.index === m.index) + 1
-  return `${m.date} — ${m.title} (entry ${position} of ${visibleMarks.value.length}${props.eraLabel ? `, ${props.eraLabel}` : ''})`
+  return `${m.date}: ${m.title} (entry ${position} of ${visibleMarks.value.length}${props.eraLabel ? `, ${props.eraLabel}` : ''})`
 })
 const sliderNow = computed(() => Math.max(0, visibleMarks.value.findIndex(v => v.index === props.readingIndex)))
 
@@ -277,7 +277,7 @@ function bandLabelFits(band: EraBand): boolean {
 }
 
 const kicker = computed(() => (props.eraOrdinal > 0 && props.eraCount > 0
-  ? `Era ${String(props.eraOrdinal).padStart(2, '0')}/${String(props.eraCount).padStart(2, '0')}`
+  ? `Era ${String(props.eraOrdinal).padStart(2, '0')} of ${String(props.eraCount).padStart(2, '0')}`
   : ''))
 </script>
 
@@ -287,7 +287,7 @@ const kicker = computed(() => (props.eraOrdinal > 0 && props.eraCount > 0
     class="ufo-chrono"
     :class="{ 'is-pinned': pinned, 'is-live': playing }"
     role="region"
-    aria-label="Chronology position"
+    aria-label="Timeline controls"
     :style="{ '--cursor': `${cursorPct}%`, '--now': nowPct === null ? '0%' : `${nowPct}%` }"
   >
     <div class="ufo-chrono-row">
@@ -309,10 +309,10 @@ const kicker = computed(() => (props.eraOrdinal > 0 && props.eraCount > 0
       <div v-if="hasVideo" class="ufo-chrono-now">
         <span class="ufo-chrono-live-dot" aria-hidden="true" />
         <span class="ufo-chrono-now-clock" aria-hidden="true">{{ nowClock }}</span>
-        <span class="ufo-chrono-now-title" aria-hidden="true">{{ nowIndex >= 0 ? nowTitle : (playing ? 'Before the first entry' : 'Paused') }}</span>
+        <span class="ufo-chrono-now-title" aria-hidden="true">{{ nowIndex >= 0 ? nowTitle : (playing ? 'Not yet at an entry' : 'Video paused') }}</span>
         <!-- The spoken version changes only when the host reaches a new entry —
              never once a second with the clock. -->
-        <span class="sr-only" aria-live="polite" aria-atomic="true">{{ nowIndex >= 0 ? `Now discussing ${nowTitle}` : '' }}</span>
+        <span class="sr-only" aria-live="polite" aria-atomic="true">{{ nowIndex >= 0 ? `The video is now at: ${nowTitle}` : '' }}</span>
       </div>
 
       <div class="ufo-chrono-actions">
@@ -320,11 +320,11 @@ const kicker = computed(() => (props.eraOrdinal > 0 && props.eraCount > 0
           v-if="canSync"
           type="button"
           class="ufo-chrono-btn"
-          title="Seek the video to the entry you are reading"
+          title="Play the video from the entry you are reading"
           @click="emit('sync')"
         >
           <Crosshair class="size-3.5" aria-hidden="true" />
-          <span>Sync</span>
+          <span>Play from here</span>
         </button>
         <button
           v-if="hasVideo"
@@ -333,16 +333,16 @@ const kicker = computed(() => (props.eraOrdinal > 0 && props.eraCount > 0
           :class="{ 'is-on': follow }"
           role="switch"
           :aria-checked="follow"
-          title="Let the video scroll the page to the entry it is discussing"
+          title="Keep the list scrolled to the entry the video has reached. Scrolling the page yourself turns this off."
           @click="emit('update:follow', !follow)"
         >
           <Radio class="size-3.5" aria-hidden="true" />
-          <span>Follow</span>
+          <span>Follow video</span>
         </button>
 
         <Popover>
           <PopoverTrigger as-child>
-            <button type="button" class="ufo-chrono-btn" :class="{ 'is-on': filtered }" aria-label="Filter entries">
+            <button type="button" class="ufo-chrono-btn" :class="{ 'is-on': filtered }" aria-label="Choose which entries to show">
               <SlidersHorizontal class="size-3.5" aria-hidden="true" />
               <span class="ufo-chrono-count">{{ shown }}<span class="ufo-chrono-count-sep">/</span>{{ total }}</span>
             </button>
@@ -354,7 +354,7 @@ const kicker = computed(() => (props.eraOrdinal > 0 && props.eraCount > 0
 
         <Popover v-if="help">
           <PopoverTrigger as-child>
-            <button type="button" class="ufo-chrono-btn ufo-chrono-btn--icon" aria-label="How to read this timeline">
+            <button type="button" class="ufo-chrono-btn ufo-chrono-btn--icon" aria-label="How to use this timeline">
               <Info class="size-3.5" aria-hidden="true" />
             </button>
           </PopoverTrigger>
@@ -370,7 +370,7 @@ const kicker = computed(() => (props.eraOrdinal > 0 && props.eraCount > 0
       class="ufo-ruler"
       role="slider"
       tabindex="0"
-      aria-label="Chronology ruler"
+      aria-label="Jump to an entry by year"
       aria-orientation="horizontal"
       :aria-valuemin="0"
       :aria-valuemax="Math.max(0, visibleMarks.length - 1)"
@@ -442,7 +442,7 @@ const kicker = computed(() => (props.eraOrdinal > 0 && props.eraCount > 0
       <div
         class="ufo-ruler-cursor"
         :class="{ 'is-scrubbing': scrubbing }"
-        title="Drag to scrub through the timeline"
+        title="You are reading here. Drag to move through the list."
         aria-hidden="true"
         @pointerdown="onCursorDown"
         @pointermove="onCursorMove"

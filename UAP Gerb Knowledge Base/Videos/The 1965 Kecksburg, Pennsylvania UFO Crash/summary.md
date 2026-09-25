@@ -14,28 +14,28 @@ tags:
 ---
 stats:
   - value: "6"
-    label: States saw the fireball
-    hint: "Plus Canada, from Michigan to New York"
+    label: US states saw the fireball
+    hint: "Plus Canada. The sightings ran from Michigan to New York."
   - value: "~17"
-    label: Miles a minute
-    hint: "About 1,020 mph; meteors travel 25,000 mph and up"
+    label: Speed in miles a minute
+    hint: "About 1,020 mph. Meteors travel at 25,000 mph or more."
   - value: "10–12 ft"
     label: Length of the object
-    hint: "A bronze acorn or bell, per Jim Romansky"
+    hint: "A bronze acorn or bell, according to fireman Jim Romansky"
   - value: "25 ft"
     label: Trench at the impact site
-    hint: "Cut at an angle of about 30 degrees"
+    hint: "The object came in at an angle of about 30 degrees"
   - value: "~15 min"
-    label: Before the firemen were ordered out
-    hint: "Troops marched in straight after"
+    label: Until firemen were ordered out
+    hint: "Uniformed troops marched in right after them"
   - value: "13 h"
-    label: Cosmos 96 came down earlier
-    hint: "Over Canada, at about 3:18 a.m."
+    label: Soviet probe fell earlier
+    hint: "Cosmos 96 re-entered over Canada at about 3:18 a.m."
   - value: 1987
-    label: NASA's files lost since
-    hint: "Per the National Archives, in 1996"
+    label: NASA's Kecksburg files lost
+    hint: "The National Archives told NASA in 1996 they had been missing since then"
   - value: "1h16m"
-    label: Runtime
+    label: Video length
 ---
 ::
 
@@ -51,29 +51,29 @@ The second half follows the object after it left the woods. An Air Force guard s
 
 ::wiki-timeline{video="rgBTMzFd-hg" video-title="The 1965 Kecksburg, Pennsylvania UFO Crash"}
 ---
-help: "The bar pinned above the entries is a ruler from 1945 to 2025. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. Most of the story happens in a single night, so the ticks for 9 and 10 December 1965 stack into a tall cluster. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line capped with a downward arrow is where Gerb is. Gerb tells the crash night first and doubles back to the background and the later witnesses, so the playhead jumps around the ruler. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Timestamps jump the mini-player to that moment."
+help: "The bar above the list runs from 1945 to 2025, with a mark for each entry; taller marks are major ones. Most of the story happens in one night, so the marks for 9 and 10 December 1965 pile up in a tall cluster. Click the bar to jump to the nearest entry. The dark line shows the entry you are reading. Play from here starts the video at that entry, and once it is playing a green line shows which entry Gerb has reached. Gerb tells the story of the crash night first, then goes back to the background and the later witnesses, so the green line jumps back and forth along the bar. Turn on Follow video to have the list scroll along with the video; scrolling yourself turns it off. Click a timestamp to play the video from that moment."
 eras:
   - id: background
     label: "Before Kecksburg"
     from: 1945
     to: 1964
-    summary: "Eric Walker's Navy laboratory and crash-retrieval meetings, the blue-bereted SAC Elite Guard, and a run of bell- and acorn-shaped sightings in Blue Book's files."
+    summary: "Eric Walker founds a Navy laboratory at Penn State and attends meetings on crash retrieval. The blue-bereted Strategic Air Command Elite Guard is formed, and Project Blue Book files several sightings of bell- and acorn-shaped objects."
   - id: crash
     label: "The Crash and the Cover"
     from: 1965
     to: 1967
-    summary: "A fireball over six states, a bronze bell in the Kecksburg woods, a military recovery within the hour, Johnson's day of meetings, and Blue Book's meteor verdict."
+    summary: "A fireball crosses six states and a bronze bell comes down in the Kecksburg woods. The military arrives within the hour to recover it, President Johnson spends the next day in meetings, and Project Blue Book calls the object a meteor."
     anchor: "the-night-of-9-december-1965"
   - id: witnesses
     label: "The Witnesses Come Forward"
     from: 1980
     to: 1999
-    summary: "Walker's admission, Romansky, the Lockbourne guard, Myron and JS surface through Stan Gordon, Leonard Stringfield and Unsolved Mysteries, and NASA's files turn out to be lost."
+    summary: "Eric Walker admits he went to the crash site. Jim Romansky, the Lockbourne guard, Myron and JS come forward through Stan Gordon, Leonard Stringfield and the TV programme Unsolved Mysteries, and NASA's files turn out to be lost."
     anchor: "where-the-object-went"
   - id: paper
     label: "The Paper Chase"
     from: 2000
-    summary: "Leslie Kean's conference and lawsuit, NASA's empty search, late witnesses, and Grant Cameron's release of Johnson's schedule."
+    summary: "Journalist Leslie Kean holds a conference on the case and sues NASA, whose search turns up nothing on Kecksburg. More witnesses come forward late, and Grant Cameron releases Johnson's schedule for the days around the crash."
     anchor: "the-fight-for-the-files"
 hinges:
   - year: 1987
@@ -117,7 +117,7 @@ events:
     title: "Acorn-shaped object over Quincy, Louisiana"
     cue: 2071
     era: background
-    summary: "A Project Blue Book case in which several witnesses watched an acorn-shaped object emitting pink, green, red and yellow lights rise and fall for two and a half hours. The first of the bell and acorn cases Gerb sets beside Kecksburg."
+    summary: "In this Project Blue Book case, several witnesses watched an acorn-shaped object with pink, green, red and yellow lights rise and fall for two and a half hours. It is the first of the bell- and acorn-shaped sightings Gerb compares with Kecksburg."
     category: event
     significance: minor
     entities:
@@ -262,7 +262,7 @@ events:
   - date: "1965-12-10"
     title: "Johnson's day of meetings at the Texas White House"
     cue: 2745
-    summary: "From 9:50 a.m. the Joint Chiefs, Defense Secretary Robert McNamara, his deputy Cyrus Vance, Joseph Califano, Bill Moyers, NASA's James Webb, science adviser Donald Hornig, AEC chairman Glenn Seaborg and Agriculture Secretary Orville Freeman arrived at Lyndon B. Johnson's ranch. None of the meetings names Kecksburg, but Gerb argues the roster suggests a day of briefings on the crash."
+    summary: "From 9:50 a.m. the Joint Chiefs, Defense Secretary Robert McNamara, his deputy Cyrus Vance, Joseph Califano, Bill Moyers, NASA's James Webb, science adviser Donald Hornig, AEC chairman Glenn Seaborg and Agriculture Secretary Orville Freeman arrived at Lyndon B. Johnson's ranch. None of the meetings names Kecksburg, but Gerb argues the guest list suggests a day of briefings on the crash."
     category: event
     significance: major
     entities:
@@ -289,7 +289,7 @@ events:
   - date: "1965-12-13"
     title: "Califano's off-record meeting with Buford Ellington"
     cue: 2975
-    summary: "Four days after Kecksburg, Joseph Califano held an off-record meeting with Buford Ellington, director of the Office of Emergency Planning. Gerb notes Califano's Federal Radiation Council role and his recent handling of a 4-5 December midair collision."
+    summary: "Four days after Kecksburg, Joseph Califano held an off-record meeting with Buford Ellington, director of the Office of Emergency Planning. Gerb points out that Califano sat on the Federal Radiation Council and had just handled a midair collision on 4-5 December."
     category: event
     significance: minor
     entities:
@@ -363,7 +363,7 @@ events:
   - date: "1993"
     title: "Romansky on the Montel Williams show"
     cue: 1054
-    summary: "On television Romansky described the trench-coated men and the troops who followed, and said his daughter in the Marine Corps and his son in the Air Force had been made to sign statements about Kecksburg, his son being barred from asking for duty at Wright-Patterson."
+    summary: "On television Romansky described the men in trench coats and the troops who followed them. He said his daughter in the Marine Corps and his son in the Air Force had been made to sign statements about Kecksburg, and that his son was barred from asking for duty at Wright-Patterson."
     category: event
     significance: notable
     entities:
@@ -474,7 +474,7 @@ Romansky, Bush and Betters never compared notes, and the trucker Myron and his c
 
 ::wiki-compare{video="rgBTMzFd-hg" video-title="The 1965 Kecksburg, Pennsylvania UFO Crash"}
 ---
-caption: "Five witnesses' descriptions of the object, in the woods on 9 December, on the flatbed that night and at Wright-Patterson days later. \"Same\" marks the points on which their accounts agree."
+caption: "How five witnesses described the object: in the woods on 9 December, on an Army flatbed that night, and at Wright-Patterson Air Force Base days later. \"Same\" marks the points where a witness agrees with the others."
 attributeLabel: "Feature"
 subjects:
   - name: "Jim Romansky"
@@ -549,7 +549,7 @@ The rapid-reaction unit Stringfield heard about from military sources. After a l
 Created by General [[Curtis LeMay]] in 1956, these air police wore blue fatigues and blue berets and guarded Strategic Air Command headquarters and bases. The unit was still active in December 1965. One SAC base was [[Lockbourne Air Force Base, Columbus, Ohio|Lockbourne]], where a guard later said the Kecksburg object was taken.
 ::
 ::wiki-panel{title="1041st Security Police Squadron"}
-The unit that made the Air Force blue beret famous. It served in the mid-1960s in Operation Safeside, the Air Force's "active defense" combat security police who guarded air bases in Vietnam against raids.
+This unit made the Air Force blue beret famous. It served in the mid-1960s in Operation Safeside, the Air Force's "active defense" combat security police who guarded air bases in Vietnam against raids.
 ::
 ::
 
@@ -565,7 +565,7 @@ Gerb weighs four explanations. Blue Book's meteor verdict was reached under Majo
 ---
 label: "What came down?"
 term: "Explanation"
-caption: "The four explanations the video weighs, who proposed each, and what was said against or for it."
+caption: "Four explanations for what came down at Kecksburg, who put each one forward, and what was said for or against it."
 claims:
   - title: "A meteor"
     by: "Project Blue Book"
@@ -616,7 +616,7 @@ claims:
     responses:
       - by: "Gerb"
         stance: host
-        text: "Something tangible crashed in the woods at Kecksburg, and it was not a meteor. This is his own leaning, on the weight of the testimony."
+        text: "Something tangible crashed in the woods at Kecksburg, and it was not a meteor. Gerb says this is his own leaning, based on the weight of the testimony."
         cue: 4384
 ---
 ::
@@ -627,7 +627,7 @@ claims:
 
 ## Where the Object Went
 
-The witnesses who say they saw the object after it left the woods trace a chain of custody across two states.
+Witnesses who say they saw the object after it left the woods place it at a series of stops across two states.
 
 ::wiki-chain{video="rgBTMzFd-hg" video-title="The 1965 Kecksburg, Pennsylvania UFO Crash"}
 ---
@@ -671,7 +671,7 @@ Put on a map, the object's two journeys run in opposite directions. The fireball
 
 ::wiki-map{video="rgBTMzFd-hg" video-title="The 1965 Kecksburg, Pennsylvania UFO Crash"}
 ---
-caption: "The fireball's reported course on 9 December and the object's alleged route afterwards. The course joins the towns the video names; it is not a surveyed track."
+caption: "The fireball's reported course on 9 December and the object's alleged route afterwards. The fireball's line simply joins the towns the video names and is not a surveyed track."
 pins:
   - text: "Lapeer, Michigan"
     label: "Lapeer"
@@ -738,7 +738,7 @@ Walker's colleague leads Gerb to Penn State itself. A witness Gerb calls "TB" sa
 
 In his 2024 book *Imminent*, [[Luis Elizondo]] named [[Lyndon B. Johnson]] among the presidents briefed on the UFO subject. Johnson's ties to Walker were close. Walker lunched at the White House with Johnson and other university presidents on 3 August 1964, and was the only university president invited to the 1967 Clean Air Act signing. The two also exchanged personal letters. On 10 September 1964 Johnson thanked Walker for his service on the Board of Visitors to the US Military Academy, and on 24 September 1964 he asked Walker to recommend a student to be honoured as a young leader. On 18 May 1966, after the crash, he thanked Walker for his work on the National Science Board and for "the unstinting manner in which you served your government in other areas". As a senator, Johnson had also tried to set up a military subcommittee to report UFO sightings to him personally, and he wrote to thank Major Donald Keyhoe, author of *The Flying Saucer Conspiracy*, for documented evidence on UFOs.
 
-[[Grant Cameron]]'s 2024 release of his research files includes Johnson's schedule for 9 to 11 December 1965. The evening of the 9th, at the Texas White House, is leisure: dinner, a drive, the evening news. At 9:50 the next morning, about an hour after Johnson woke, a large party of guests arrived for a full day of meetings. None of the meetings mentions Kecksburg, Soviet satellites or ICBMs. Gerb argues that every name matters and that the roster may mean a day of briefings on the crash.
+[[Grant Cameron]]'s 2024 release of his research files includes Johnson's schedule for 9 to 11 December 1965. The evening of the 9th, at the Texas White House, is leisure: dinner, a drive, the evening news. At 9:50 the next morning, about an hour after Johnson woke, a large party of guests arrived for a full day of meetings. None of the meetings mentions Kecksburg, Soviet satellites or ICBMs. Gerb argues that every name matters and that the guest list may point to a day of briefings on the crash.
 
 ::wiki-org-chart
 ---

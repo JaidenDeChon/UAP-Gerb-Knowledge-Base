@@ -14,13 +14,13 @@ tags:
 ---
 stats:
   - value: 13
-    label: NRO-linked gatekeepers named
+    label: Officials with NRO ties named as gatekeepers
     hint: "From Kaminski to Sturdivant"
   - value: "31 yrs"
-    label: The NRO's existence kept secret
+    label: Years the NRO's existence was secret
     hint: "Founded 1961, declassified 1992"
   - value: "$3.7B"
-    label: Unspent NRO carryover funds
+    label: Unspent NRO funds carried over
     hint: "The 1995 estimate, up from $1.7B"
   - value: "3h12m"
     label: Runtime
@@ -30,40 +30,40 @@ stats:
 
 ## Overview
 
-This investigation turns UAP Gerb's attention from contractors and laboratories to one of the offices he believes administers the alleged [[UFO Legacy Program Framework|UFO legacy programs]]: the [[NRO (National Reconnaissance Office)|National Reconnaissance Office]], the joint Defense Department and CIA agency that builds and flies America's spy satellites and where [[David Grusch]] once served. In Gerb's usual "pyramid" model (a rotating head such as [[Dick Cheney]], then agency program administrators, then [[Federally Funded Research and Development Center (FFRDC)|FFRDCs]], then prime contractors, bound by the defense industrial base and cased in SAPs and program-protection offices), the NRO belongs in the administrator layer, and he argues it has been there since its founding in 1961.
+In this investigation Gerb turns from contractors and laboratories to one of the offices he believes administers the alleged [[UFO Legacy Program Framework|UFO legacy programs]]: the [[NRO (National Reconnaissance Office)|National Reconnaissance Office]], the joint Defense Department and CIA agency that builds and flies America's spy satellites, where [[David Grusch]] once served. Gerb usually describes the programs as a "pyramid". A rotating head such as [[Dick Cheney]] sits at the top, then agency program administrators, then [[Federally Funded Research and Development Center (FFRDC)|FFRDCs]] (federally funded research and development centers), then prime contractors, all bound together by the defense industrial base and wrapped in special access programs (SAPs) and program-protection offices. He places the NRO in the administrator layer and argues it has been there since its founding in 1961.
 
-The video makes three claims about the NRO's role. First, that its satellites and its AI system [[NRO Sentient]] watch UFOs and route anomalous data away from ordinary analysts, feeding both legacy programs and, since 2017, the separate [[Immaculate Constellation (IMCON)|Immaculate Constellation]] surveillance program, which Gerb insists is *not* a legacy program. Second, that the NRO is the umbrella authority over a siloed crash-retrieval task force of parallel tier 1 units, [[160th Special Operations Aviation Regiment|160th SOAR]] helicopters and Department of Energy response teams. Here Gerb presents, for the first time, an anonymous witness who says he served on an NRO-run rapid reaction team at the [[Nevada National Security Site (Nevada Test Site)|Nevada Test Site]], and sets his account beside those of [[Jonathan Weygandt]], an anonymous former OGA contractor and [[Albert Bruce Collins]], all of which describe egg-shaped craft with layered, "nesting doll" interiors. Third, that the NRO would be among the first agencies to fly [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]] for reconnaissance in denied airspace.
+The video makes three claims about the NRO's role. First, that its satellites and its AI system [[NRO Sentient]] watch UFOs and route anomalous data away from ordinary analysts, feeding both legacy programs and, since 2017, the separate [[Immaculate Constellation (IMCON)|Immaculate Constellation]] surveillance program, which Gerb insists is *not* a legacy program. Second, that the NRO is the umbrella authority over a siloed crash-retrieval task force of parallel tier 1 units, [[160th Special Operations Aviation Regiment|160th SOAR]] helicopters and Department of Energy response teams. Here Gerb presents, for the first time, an anonymous witness who says he served on an NRO-run rapid reaction team at the [[Nevada National Security Site (Nevada Test Site)|Nevada Test Site]]. He sets this account beside those of [[Jonathan Weygandt]], an anonymous former contractor for another government agency (OGA), and [[Albert Bruce Collins]]. All of them describe egg-shaped craft with layered, "nesting doll" interiors. Third, that the NRO would be among the first agencies to fly [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]] for reconnaissance in denied airspace.
 
-The last hour names thirteen officials with NRO ties whom Gerb calls likely current or former legacy-program members or gatekeepers, traced through the NRO, the [[CIA Directorate of Science and Technology|CIA DS&T]] and its [[CIA Office of Global Access|Office of Global Access]], the [[MITRE Corporation]], and the two offices that jointly oversee NRO acquisitions. He also proposes the NRO's 1992-1995 funding scandal as a new candidate for the audit that, per the [[Wilson-Davis Memo|Wilson-Davis notes]], nearly exposed the programs. The video closes with a rebuttal of *[[The Age of Disclosure]]*, released while it was being made, and its picture of a single legacy program run from the CIA DS&T.
+The last hour names thirteen officials with NRO ties whom Gerb calls likely current or former legacy-program members or gatekeepers, traced through the NRO, the [[CIA Directorate of Science and Technology|CIA DS&T]] (Directorate of Science and Technology) and its [[CIA Office of Global Access|Office of Global Access]], the [[MITRE Corporation]], and the two offices that jointly oversee NRO acquisitions. He also proposes the NRO's 1992-1995 funding scandal as a new candidate for the audit that, according to the [[Wilson-Davis Memo|Wilson-Davis notes]], nearly exposed the programs. The video ends with Gerb's rebuttal of *[[The Age of Disclosure]]*, a documentary released while he was making the video, and of its picture of a single legacy program run from the CIA DS&T.
 
 ## Chronology
 
 ::wiki-timeline{video="GM1Qx9vuo2c" video-title="National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers"}
 ---
-help: "The video is organised by theme, not by date, so this chronology gathers its dated milestones in one place: the NRO's secret decades, its exposure and the reorganization of special access program oversight in the 1990s, and the modern era of Sentient, Immaculate Constellation and the witness accounts of a retrieval task force. Ticks on the ruler are entries, coloured by category and taller for major ones; click the ruler to jump. While the video plays, Sync and Follow keep the page and Gerb together. Because Gerb moves between topics rather than through time, the playhead jumps around the ruler. Every timestamp here was checked against the captions."
+help: "The video is arranged by topic, so this list puts its dated events in order: the NRO's secret decades, its exposure and the reorganization of oversight for special access programs in the 1990s, and the recent era of the Sentient AI system, the Immaculate Constellation surveillance program and witnesses to a crash-retrieval task force. The bar of years above the list has a mark for each entry, coloured by type; taller marks are major entries. Click the bar to jump to a year. The dark line shows the entry you are reading. Play from here starts the video at that entry, and once it is playing a green line shows which entry Gerb has reached. Because Gerb moves between topics rather than through time, the green line jumps back and forth along the bar. Turn on Follow video to have the list scroll along with the video. Click a timestamp to play the video from that moment; every timestamp here was checked against the video's captions."
 eras:
   - id: before
     label: "Before the NRO"
     from: 1947
     to: 1960
-    summary: "Recovered craft, Project Pounce and the U-2 shootdown: the UFO interest Gerb says the NRO inherited at birth."
+    summary: "Recovered craft, Project Pounce and the U-2 shootdown. Gerb says the NRO inherited this interest in UFOs when it was founded."
     anchor: "steve-wilson-and-project-pounce"
   - id: secret
     label: "The secret office"
     from: 1961
     to: 1991
-    summary: "Thirty-one classified years: Corona to the KH-11, Programs A to D, NURO, and the Inman-Echler referral to Program B's former director."
+    summary: "Thirty-one years in which the NRO's existence was classified: satellites from Corona to the KH-11, the lettered Programs A to D, the undersea sister office NURO, and Admiral Inman's referral of Bob Echler to Program B's former director."
     anchor: "eyes-and-ears-in-space"
   - id: exposure
     label: "Exposure and reorganization"
     from: 1992
     to: 2009
-    summary: "Declassification, the SAP oversight overhaul, the carryover-funds scandal, the Wilson-Davis notes and the founding of the Office of Global Access."
+    summary: "The NRO is declassified, oversight of special access programs is overhauled, and a scandal breaks over the NRO's unspent carryover funds. The era also covers the Wilson-Davis notes and the founding of the CIA's Office of Global Access."
     anchor: "the-wilson-davis-notes-and-the-nro-audits"
   - id: sentient
     label: "Sentient, IMCON and the task force"
     from: 2010
-    summary: "An AI watching the constellations, a reactive surveillance program, and witnesses to a retrieval task force under NRO authority."
+    summary: "The NRO's Sentient AI watches over the satellite constellations, Immaculate Constellation begins as a reactive surveillance program, and witnesses describe a crash-retrieval task force under NRO authority."
     anchor: "sentient-and-immaculate-constellation"
 hinges:
   - year: 1992
@@ -74,7 +74,7 @@ events:
   - date: "1933-06"
     title: "Bissell's alleged confirmation of the Magenta crash"
     cue: 1080
-    summary: "Harold Malmgren says NRO co-founder Richard Bissell Jr. told him the UFO problem 'didn't start last week', named the 1933 Magenta, Italy crash, said the US had offensively downed UFOs in maritime settings, and briefed him on 'otherworldly technologies'. Gerb believes Malmgren was likely CIA himself."
+    summary: "Harold Malmgren says NRO co-founder Richard Bissell Jr. told him the UFO problem 'didn't start last week', named the 1933 Magenta, Italy crash, said the US had offensively downed UFOs in maritime settings, and briefed him on 'otherworldly technologies'. Gerb believes Malmgren was probably CIA himself."
     category: event
     significance: minor
     entities:
@@ -84,7 +84,7 @@ events:
   - date: "1947"
     title: "Albert Bruce Collins sees an egg-shaped craft at Berkeley"
     cue: 1666
-    summary: "Metallurgical engineer Albert Bruce Collins ('Barnabas') claimed he stood about 100 feet from a recovered oval craft, 30 to 40 feet across, on a flatbed in a University of California, Berkeley warehouse. Like a cracked egg with the yolk inside, it showed a multi-layered honeycomb skin and a shiny inner sphere behind a second bulkhead, a layering Gerb links to later retrieval accounts."
+    summary: "Metallurgical engineer Albert Bruce Collins ('Barnabas') claimed he stood about 100 feet from a recovered oval craft, 30 to 40 feet across, on a flatbed in a University of California, Berkeley warehouse. He described it as like a cracked egg with the yolk inside, with a multi-layered honeycomb skin and a shiny inner sphere behind a second bulkhead. Gerb links this layering to later retrieval accounts."
     category: event
     significance: notable
     entities:
@@ -158,7 +158,7 @@ events:
   - date: "1969"
     title: "National Underwater Reconnaissance Office created"
     cue: 9829
-    summary: "The NRO's still-classified sister agency, NURO, was created in secret in 1969 to consolidate CIA and Navy undersea reconnaissance, and was soon contested between the CIA DS&T and the Navy. Bobby Ray Inman later directed it, and Glenn Gaffney's career allegedly began there."
+    summary: "NURO, the NRO's still-classified sister agency, was created in secret in 1969 to consolidate CIA and Navy undersea reconnaissance. The CIA's Directorate of Science and Technology (DS&T) and the Navy were soon competing for control of it. Bobby Ray Inman later directed it, and Glenn Gaffney's career allegedly began there."
     category: organization
     significance: notable
     entities:
@@ -168,7 +168,7 @@ events:
   - date: "1971-07-18"
     title: "Alleged first anti-gravity flight at S4"
     cue: 5487
-    summary: "Wilson claimed the first successful flight of a reverse-engineered anti-gravity vehicle at Area S4 near Papoose Lake took place on 18 July 1971 with Admiral Bobby Ray Inman present. He said he was reassigned there by men with CIA credentials around 1972 and later headed Project Pounce. Edgar Fouche's account also places the first gravity-warping triangle in the early 1970s."
+    summary: "Colonel Steve Wilson claimed the first successful flight of a reverse-engineered anti-gravity vehicle at Area S4 near Papoose Lake took place on 18 July 1971 with Admiral Bobby Ray Inman present. He said he was reassigned there by men with CIA credentials around 1972 and later headed Project Pounce. Edgar Fouche's account also places the first gravity-warping triangle in the early 1970s."
     category: event
     significance: notable
     entities:
@@ -188,7 +188,7 @@ events:
   - date: "1976"
     title: "KH-11 Kennen launched"
     cue: 1275
-    summary: "The NRO's KH-11 Kennen delivered near-real-time electronic imagery for the first time. By the 1980s keyhole satellites could allegedly resolve objects under 12 inches long, and Gerb is certain they detected UFOs. The same year, US newspapers ran stories about a 'National Reconnaissance Organization'."
+    summary: "The NRO's KH-11 Kennen delivered near-real-time electronic imagery for the first time. That same year, US newspapers ran stories about a 'National Reconnaissance Organization'. By the 1980s keyhole satellites could allegedly resolve objects under 12 inches long, and Gerb is certain they detected UFOs."
     category: program
     significance: notable
     entities:
@@ -196,7 +196,7 @@ events:
   - date: "1982"
     title: "Everett Heinman directs NRO Program B"
     cue: 1394
-    summary: "From 1982 to 1989 R. Everett Heinman directed Program B, the CIA DS&T's satellite program, whose ground station is at Pine Gap, Australia. He was later named by Admiral Inman as the person to ask about recovered UFOs."
+    summary: "From 1982 to 1989 R. Everett Heinman directed Program B, the CIA DS&T's satellite program, whose ground station is at Pine Gap, Australia. Admiral Inman later named him as the person to ask about recovered UFOs."
     category: person
     significance: notable
     entities:
@@ -256,13 +256,13 @@ events:
   - date: "1993-05"
     title: "GAO report on SAP access denials"
     cue: 7997
-    summary: "A May 1993 General Accounting Office report found the Navy and Air Force not following DoD regulation on special access program access. Gerb previously floated it as the audit that nearly exposed the legacy programs."
+    summary: "A May 1993 General Accounting Office report found the Navy and Air Force not following DoD regulation on special access program access. Gerb has previously suggested it was the audit that nearly exposed the legacy programs."
     category: document
     significance: minor
   - date: "1993-08"
     title: "GAO report on Lockheed's special access document control"
     cue: 8051
-    summary: "An August 1993 GAO report detailed poor control and unauthorized destruction of special access documents at 53 control stations of Lockheed's Burbank plant dating to 1986, another candidate audit in Gerb's earlier work."
+    summary: "An August 1993 GAO report detailed poor control and unauthorized destruction of special access documents at 53 control stations of Lockheed's Burbank plant dating to 1986. Gerb has put it forward before as another candidate for that audit."
     category: document
     significance: minor
     entities:
@@ -289,7 +289,7 @@ events:
   - date: "1995"
     title: "NRO carryover-funds scandal"
     cue: 8262
-    summary: "Senator Bryan pressed for a full GAO audit as estimates of the NRO's unspent carryover funds rose from $1.7 billion to $3.7 billion. DCI John Deutch, who had chaired the SAP oversight committee as Deputy Secretary of Defense, then forced out the NRO's director and deputy, saying he was unaware of the surplus. Gerb proposes the affair as another audit that could have threatened the legacy programs."
+    summary: "Senator Bryan pressed for a full GAO audit as estimates of the NRO's unspent carryover funds rose from $1.7 billion to $3.7 billion. Director of Central Intelligence John Deutch, who had chaired the SAP oversight committee as Deputy Secretary of Defense, then forced out the NRO's director and deputy, saying he was unaware of the surplus. Gerb proposes the affair as another audit that could have threatened the legacy programs."
     category: event
     significance: major
     entities:
@@ -299,7 +299,7 @@ events:
   - date: "1995"
     title: "Raytheon acquires E-Systems"
     cue: 5720
-    summary: "LTV, the conglomerate Wilson said built the NRO's truck-mounted 'Equalizer' EMP cannon, had become E-Systems, a contractor to the CIA, NSA and NRO once called a 'CIA front'. Raytheon bought it in 1995, renaming it Raytheon Intelligence and Information Systems."
+    summary: "LTV, the conglomerate Steve Wilson said built the NRO's truck-mounted 'Equalizer' EMP cannon, had become E-Systems, a contractor to the CIA, NSA and NRO once called a 'CIA front'. Raytheon bought it in 1995, renaming it Raytheon Intelligence and Information Systems."
     category: organization
     significance: minor
     entities:
@@ -318,7 +318,7 @@ events:
   - date: "1997"
     title: "Jonathan Weygandt's Peru crash encounter"
     cue: 4345
-    summary: "During Operation Laser Strike in Peru, Marine Lance Corporal Jonathan Weygandt came upon an egg-shaped craft embedded in rock. It cast no shadow and seemed to absorb light, with a shimmering mother-of-pearl field. Men in black fatigues held the Marines at gunpoint as two CH-47s delivered DOE personnel in MOPP gear, whom Gerb identifies as a NEST team."
+    summary: "During Operation Laser Strike in Peru, Marine Lance Corporal Jonathan Weygandt came upon an egg-shaped craft embedded in rock. It cast no shadow and seemed to absorb light, with a shimmering mother-of-pearl field. Men in black fatigues held the Marines at gunpoint as two CH-47s delivered Department of Energy (DOE) personnel in MOPP gear, whom Gerb identifies as a Nuclear Emergency Support Team (NEST)."
     category: event
     significance: major
     entities:
@@ -329,7 +329,7 @@ events:
   - date: "1997"
     title: "Vice Admiral Thomas Wilson stonewalled"
     cue: 7613
-    summary: "According to the Wilson-Davis notes of a 2002 EG&G parking-lot conversation, DIA official Vice Admiral Thomas Wilson was pointed by SAPOC members Paul Kaminski and Michael Kostelnik, among others, to legacy records in the acquisition under secretary's office, then refused access by the program's 'Watch Committee' despite his authority."
+    summary: "According to the Wilson-Davis notes of a 2002 conversation in an EG&G parking lot, members of the SAP Oversight Committee (SAPOC), among them Paul Kaminski and Michael Kostelnik, pointed Vice Admiral Thomas Wilson, a DIA official, to legacy records in the acquisition under secretary's office. The program's 'Watch Committee' then refused him access despite his authority."
     category: document
     significance: major
     entities:
@@ -431,7 +431,7 @@ events:
   - date: "2017"
     title: "Immaculate Constellation established"
     cue: 2396
-    summary: "The unacknowledged SAP Immaculate Constellation was established to collect imagery intelligence on UAP and reproduction vehicles using tasked and untasked resources, reportedly including NRO Sentient. Gerb stresses that it is a reactive surveillance program, not a legacy program, and suspects it originated in the National Security Council."
+    summary: "Immaculate Constellation, an unacknowledged special access program, was established to collect imagery intelligence on UAP and reproduction vehicles using tasked and untasked resources, reportedly including NRO Sentient. Gerb stresses that it is a reactive surveillance program, not a legacy program, and suspects it originated in the National Security Council."
     category: program
     significance: major
     entities:
@@ -440,7 +440,7 @@ events:
   - date: "2017-10-26"
     title: "Tom DeLonge on 'episodic visits'"
     cue: 2967
-    summary: "On Joe Rogan's episode 1029, Tom DeLonge said an adviser 'high up' in the NRO spoke of 'episodic visits', and that an algorithm could predict where craft would appear. Gerb believes this reflects IMCON tasking and that it came from Luis Elizondo, TTSA's liaison to the NRO."
+    summary: "On episode 1029 of Joe Rogan's show, Tom DeLonge said an adviser 'high up' in the NRO spoke of 'episodic visits', and that an algorithm could predict where craft would appear. Gerb believes this reflects IMCON tasking and that it came from Luis Elizondo, To The Stars Academy's liaison to the NRO."
     category: event
     significance: notable
     entities:
@@ -493,7 +493,7 @@ events:
   - date: "2024"
     title: "Matthew Brown's Immaculate Constellation report"
     cue: 2375
-    summary: "Whistleblower Matthew Brown delivered the IMCON report to Congress through Jeremy Corbell. It describes imagery and MASINT of UAP and ARVs, including a 210-420 foot disc using cloud cover over INDOPACOM and a tic-tac over SOUTHCOM, and names NRO Sentient among IMCON's resources."
+    summary: "Whistleblower Matthew Brown delivered the IMCON report to Congress through Jeremy Corbell. It describes imagery and MASINT of UAP and alien reproduction vehicles (ARVs), including a 210-420 foot disc using cloud cover over INDOPACOM and a tic-tac over SOUTHCOM, and names NRO Sentient among IMCON's resources."
     category: document
     significance: major
     entities:
@@ -503,7 +503,7 @@ events:
   - date: "2024"
     title: "Ex-OGA contractor's Reddit account"
     cue: 4926
-    summary: "A former 24th STS combat controller turned OGA contractor posted that his old troop chief joined a tier 1 task force run under its own siloed authority, which recovered a sedan-sized oblong sphere with a 'nesting doll' interior. The chief called the crash 'not one of ours'."
+    summary: "A former combat controller with the 24th Special Tactics Squadron, who later worked as a contractor for another government agency (OGA), posted that his old troop chief joined a tier 1 task force run under its own siloed authority, which recovered a sedan-sized oblong sphere with a 'nesting doll' interior. The chief called the crash 'not one of ours'."
     category: event
     significance: notable
     entities:
@@ -549,7 +549,7 @@ events:
   - date: "2025-11-21"
     title: "The Age of Disclosure released"
     cue: 10467
-    summary: "The documentary's one-program model, run by the CIA DS&T with the DOE, contractors and Air Force special operations as equal branches, is rejected by Gerb in his closing remarks. He calls it 'purposeful misdirection' that leaves out the NRO."
+    summary: "In his closing remarks Gerb rejects the documentary's one-program model, run by the CIA DS&T with the DOE, contractors and Air Force special operations as equal branches. He calls it 'purposeful misdirection' that leaves out the NRO."
     category: event
     significance: notable
     entities:
@@ -561,11 +561,11 @@ events:
 
 ## Eyes and Ears in Space
 
-The NRO develops, acquires, launches and operates US intelligence satellites and ground systems, and its director answers to both the Secretary of Defense and the Director of National Intelligence. Its workforce is split roughly evenly between NRO cadre civilians (31 percent), other government civilians (34 percent) and military personnel (35 percent), but a 1996 congressional appraisal found that its work is done primarily by contractors while it receives "the highest level of funding of any program in the community." It is funded through the National Reconnaissance Program, which also houses its classified sister agency, the [[National Underwater Reconnaissance Office]] (NURO).
+The NRO develops, acquires, launches and operates US intelligence satellites and ground systems, and its director answers to both the Secretary of Defense and the Director of National Intelligence. Its workforce is split roughly evenly between NRO cadre civilians (31 percent), other government civilians (34 percent) and military personnel (35 percent). A 1996 congressional appraisal found, however, that its work is done primarily by contractors, and that it receives "the highest level of funding of any program in the community." It is funded through the National Reconnaissance Program, which also houses its classified sister agency, the [[National Underwater Reconnaissance Office]] (NURO).
 
 The office was created after the Soviet Union shot down a U-2 in 1960, when [[Dwight D. Eisenhower]] and CIA director Allen Dulles consolidated Air Force and CIA reconnaissance and moved it into space. It began with co-directors, Air Force under secretary Joseph V. Charyk and CIA officer [[Richard Bissell Jr.]], the same Bissell whom [[Harold Malmgren]] says confirmed the 1933 [[1933 Magenta UFO CrashRetrieval|Magenta, Italy crash]] to him and briefed him on "otherworldly technologies". By 1962 it had its lasting joint form. It took over [[Project Corona|Corona]], flew the A-12 Oxcart and the Poppy signals satellites, returned the first radar imagery from orbit with Quill in 1964, and in 1976 launched the KH-11 Kennen, a "keyhole" camera that sent images to the ground electronically in near real time. "Did these systems detect UFOs?" Gerb asks. "Of course, this answer is yes."
 
-Until its declassification in 1992 the NRO was organized into four lettered programs. Gerb finds them the clearest way to read the office's early years, and one of them runs through the rest of the video.
+Until its declassification in 1992 the NRO was organized into four lettered programs. Gerb finds them the clearest way to read the office's early years, and one of them, Program B, comes up again and again in the rest of the video.
 
 ::wiki-org-chart
 ---
@@ -597,22 +597,22 @@ root:
 ---
 ::
 
-Gerb's first thesis is that the office's interest in UFOs is as old as the office. He cites [[Albert Bruce Collins]], the "Barnabas" of [[Leonard Stringfield]]'s 1991 Status Report VI, a claimed metallurgical engineer who said he saw a cracked, egg-shaped craft with a multi-layered honeycomb skin in a University of California, Berkeley warehouse in 1947. Collins also asserted that the Talon Gold and Teal Ruby programs "were a direct result of satellite recon photos of orbiting spacecraft of unknown origins" and that this "led to the establishment of the NRO." Gerb cannot confirm Collins's career and notes that newspapers had leaked the NRO's existence in the 1970s, but finds the claim plausible and ties it to his long-held view that the [[Strategic Defense Initiative (SDI)|Strategic Defense Initiative]] hid anti-UFO capabilities.
+Gerb's first thesis is that the office's interest in UFOs is as old as the office. He cites [[Albert Bruce Collins]], the "Barnabas" of [[Leonard Stringfield]]'s 1991 Status Report VI, who claimed to be a metallurgical engineer and said he saw a cracked, egg-shaped craft with a multi-layered honeycomb skin in a University of California, Berkeley warehouse in 1947. Collins also asserted that the Talon Gold and Teal Ruby programs "were a direct result of satellite recon photos of orbiting spacecraft of unknown origins" and that this "led to the establishment of the NRO." Gerb cannot confirm Collins's career, and he notes that newspapers had leaked the NRO's existence in the 1970s. He still finds the claim plausible and ties it to his long-held view that the [[Strategic Defense Initiative (SDI)|Strategic Defense Initiative]] hid anti-UFO capabilities.
 
 ## Sentient and Immaculate Constellation
 
-Why, Gerb asks, have NRO and NGA analysts never reported seeing UFOs on their screens? His answer is that satellite feeds arrive as encrypted raw data that is encoded into pictures before any analyst sees them. He believes anomalous data, such as a UFO or a crash site, is identified at that stage and diverted to "more cleared parties", once by hand and today by software: [[NRO Sentient]]. FOIA releases obtained by John Greenwald of [[The Black Vault]] describe Sentient as an AI research and development program to "revolutionize" the intelligence cycle, and former NGA director [[Robert Cardillo]], whom Gerb links to the [[Kona Blue]] blockage, has described its "automated inferencing". A document the NRO released on 2 June 2022 records Sentient detecting, on 6 May 2021, a possible tic-tac-shaped airborne object under 10 meters across that resembled Navy UAP detections. In 2015, by contrast, the NRO had said UFOs were "outside of the scope of NRO responsibilities."
+Why, Gerb asks, have analysts at the NRO and the NGA (National Geospatial-Intelligence Agency) never reported seeing UFOs on their screens? His answer is that satellite feeds arrive as encrypted raw data that is encoded into pictures before any analyst sees them. He believes anomalous data, such as a UFO or a crash site, is identified at that stage and diverted to "more cleared parties", once by hand and today by software: [[NRO Sentient]]. FOIA releases obtained by John Greenwald of [[The Black Vault]] describe Sentient as an AI research and development program to "revolutionize" the intelligence cycle, and former NGA director [[Robert Cardillo]], whom Gerb links to the [[Kona Blue]] blockage, has described its "automated inferencing". A document the NRO released on 2 June 2022 records Sentient detecting, on 6 May 2021, a possible tic-tac-shaped airborne object under 10 meters across that resembled Navy UAP detections. In 2015, by contrast, the NRO had said UFOs were "outside of the scope of NRO responsibilities."
 
-Gerb believes Sentient, begun in 2010 and built out by 2016, is a primary resource of [[Immaculate Constellation (IMCON)|Immaculate Constellation]], the unacknowledged SAP established in 2017 whose existence whistleblower [[Matt Brown]] reported to Congress in 2024. The IMCON report describes cases Gerb attributes to NRO overhead infrared collection, including a 210 to 420 foot disc over INDOPACOM that rose out of cloud cover and dived back as if aware it was watched, and a tic-tac over SOUTHCOM whose path collection systems seemed to know in advance.
+Gerb believes Sentient, begun in 2010 and built out by 2016, is a primary resource of [[Immaculate Constellation (IMCON)|Immaculate Constellation]], the unacknowledged SAP established in 2017 whose existence whistleblower [[Matt Brown]] reported to Congress in 2024. The IMCON report describes cases Gerb attributes to NRO overhead infrared collection, including a 210 to 420 foot disc over INDOPACOM that rose out of cloud cover and dived back as if aware it was watched, and a tic-tac over SOUTHCOM whose path the collection systems seemed to know in advance.
 
 > [!important] IMCON is not a legacy program
-> Gerb stresses this point repeatedly. Legacy programs have been siloed since at least 1947 and exist to retrieve, store and exploit non-human technology. IMCON is a reactive surveillance program set up in 2017 to watch non-human craft and reproduction vehicles, possibly to gauge other programs' progress, and he suspects it came out of the National Security Council. The two are siloed from each other inside the same agency, and most NRO staff know of neither. Crash imagery is absent from the IMCON report, which he takes as a sign that such data still flows only to the legacy programs.
+> Gerb stresses repeatedly that Immaculate Constellation (IMCON) is not a legacy program. Legacy programs have been siloed since at least 1947 and exist to retrieve, store and exploit non-human technology. IMCON is a reactive surveillance program set up in 2017 to watch non-human craft and reproduction vehicles, possibly to gauge other programs' progress, and he suspects it came out of the National Security Council. The two are siloed from each other inside the same agency, and most NRO staff know of neither. Crash imagery is absent from the IMCON report, which he takes as a sign that such data still flows only to the legacy programs.
 
-That foreknowledge recalls [[Tom DeLonge]]'s October 2017 Joe Rogan interview, in which he said an adviser "high up" in the NRO told him of "episodic visits" and of an algorithm that predicted where craft would arrive. Gerb believes DeLonge was describing IMCON-type tasking in the year IMCON began, and that his likely source was [[Luis Elizondo]], [[To The Stars Academy]]'s liaison to the DIA, CIA and NRO from 2017 to 2021. Gerb suggests this was an authorized, limited disclosure. He adds that Grusch, as an NGA senior technical adviser for UAP and liaison to the UAP Task Force, probably saw Sentient-derived imagery: in July 2023 Grusch told Congress he had reviewed overhead imagery he could not explain, but that he could not discuss crash-site imagery in an open session. Finally Gerb cites [[Jim Shell]], a former NRO technical director, whose September 2025 statement alleged that a "security control system" was supplanting Space Force and Space Command authority.
+The way the systems seemed to know the tic-tac's path in advance recalls [[Tom DeLonge]]'s October 2017 Joe Rogan interview, in which he said an adviser "high up" in the NRO told him of "episodic visits" and of an algorithm that predicted where craft would arrive. Gerb believes DeLonge was describing IMCON-type tasking in the year IMCON began, and that his likely source was [[Luis Elizondo]], [[To The Stars Academy]]'s liaison to the DIA, CIA and NRO from 2017 to 2021. Gerb suggests this was an authorized, limited disclosure. He adds that Grusch, as an NGA senior technical adviser for UAP and liaison to the UAP Task Force, probably saw Sentient-derived imagery: in July 2023 Grusch told Congress he had reviewed overhead imagery he could not explain, but that he could not discuss crash-site imagery in an open session. Finally Gerb cites [[Jim Shell]], a former NRO technical director, whose September 2025 statement alleged that a "security control system" was supplanting Space Force and Space Command authority.
 
 ## The Crash Retrieval Task Force
 
-Gerb's reconstruction starts from [[Christopher Sharp]]'s 20 September 2024 *Liberation Times* article, which attributed retrieval programs to the CIA DS&T and Directorate of Operations, NURO, the Navy, the NRO, Space Command, NGA and [[JSOC (Joint Special Operations Command)|JSOC]], with the [[CIA Office of Global Access]] handling retrievals on foreign soil. He agrees, but adds the pieces he says Sharp missed: helicopter transport, the Department of Energy's scientific teams, and above all the authority that runs the whole effort. In his view that authority is not JSOC or any service chain of command but a siloed umbrella that borrows tier 1 personnel, and it is probably the NRO.
+Gerb's reconstruction starts from [[Christopher Sharp]]'s 20 September 2024 *Liberation Times* article, which attributed retrieval programs to the CIA DS&T and Directorate of Operations, NURO, the Navy, the NRO, Space Command, NGA and [[JSOC (Joint Special Operations Command)|JSOC]], with the [[CIA Office of Global Access]] handling retrievals on foreign soil. He agrees, but adds the pieces he says Sharp missed: helicopter transport, the Department of Energy's scientific teams, and above all the authority that runs the whole effort. In his view that authority is a siloed umbrella outside JSOC and every service chain of command, borrowing tier 1 personnel, and it is probably the NRO.
 
 ::wiki-org-chart
 ---
@@ -633,7 +633,7 @@ root:
           label: "Undersea collection"
     - name: "Direct action"
       label: "Parallel tier 1 units"
-      note: "Secure the site, subdue threats; not JSOC command."
+      note: "They secure the site and subdue threats, outside JSOC's command."
       children:
         - name: "Delta detachment"
           label: "Company-sized, 20 to 40, all in black"
@@ -649,7 +649,7 @@ root:
       children:
         - name: "160th Special Operations Aviation Regiment"
           label: "1st Battalion"
-          note: "CH-47s and MH-47s; the other battalions allegedly unaware."
+          note: "Flies CH-47s and MH-47s; the regiment's other battalions are allegedly unaware."
     - name: "Scientific response and custody"
       label: "DOE and NNSA"
       note: "Authority derived from the Atomic Energy Act of 1954."
@@ -663,7 +663,7 @@ root:
 ---
 ::
 
-JSOC's five tier 1 units (SEAL Team 6, the Army's Regimental Reconnaissance Company, the [[24th Special Tactics Squadron]], Delta Force and the Intelligence Support Activity) supply the direct-action personnel, but Gerb stresses that the teams operate under their own chain. He notes that Elizondo is a former ISA member. The [[160th Special Operations Aviation Regiment|160th SOAR]] and the DOE entries are his own additions, drawn from four accounts that he says fit together.
+JSOC's five tier 1 units (SEAL Team 6, the Army's Regimental Reconnaissance Company, the [[24th Special Tactics Squadron]], Delta Force and the Intelligence Support Activity) supply the direct-action personnel, but Gerb stresses that the teams operate under their own chain of command. He notes that Elizondo is a former member of the Intelligence Support Activity. The [[160th Special Operations Aviation Regiment|160th SOAR]] and the DOE entries are his own additions, drawn from four accounts that he says fit together.
 
 ::wiki-grid{cols=2}
 ::wiki-panel{title="Gerb's witness, Nevada Test Site" tone="accent"}
@@ -672,7 +672,7 @@ Reached in 2025 after a year of trying and vetted over "many many many months", 
 ::wiki-panel{title="Jonathan Weygandt, Peru, 1997"}
 During [[Operation Laser Strike]], Marine Lance Corporal [[Jonathan Weygandt]] found an egg-shaped craft embedded in rock ([[Peru UFO Crash Incident]]). It cast no shadow, seemed to absorb light and had a shimmering green and purple "mother of pearl" field. Men in black fatigues with no insignia, whom Gerb takes for local Army special forces or parallel tier 1 personnel, held the Marines at gunpoint while two Army CH-47s landed DOE personnel in embroidered rain jackets, gas masks and MOPP gear. Gerb identifies them as a [[NEST (Nuclear Emergency Support Team)|NEST]] team.
 ::
-::wiki-panel{title="Ex-OGA contractor, Reddit, 2024"}
+::wiki-panel{title="Ex-contractor for another government agency, Reddit, 2024"}
 A former Air Force combat controller whose last posting was the [[24th Special Tactics Squadron|24th STS]] said that while contracting for an "other government agency" overseas, he saw a tier 1 team fly out on waiting CH-47s and return six hours later. Among them was his old troop chief, who had abruptly left the unit 16 months earlier. His own chief called it a crash retrieval, "not one of ours." The troop chief later said he belonged to a task force of tier 1 personnel under its own umbrella authority, outside ordinary oversight. On one of his three operations it recovered a sedan-sized oblong sphere from a "dry hole" with a "nesting doll" interior, where the air felt "soupy" like the space between two magnets.
 ::
 ::wiki-panel{title="Albert Bruce Collins, Berkeley, 1947"}
@@ -681,11 +681,11 @@ The oldest account: an oval craft 30 to 40 feet across, "similar to an egg with 
 ::
 
 > [!note] The nesting doll
-> Gerb treats the recurrence of this feature across independent accounts, from Collins in 1947 to the Reddit troop chief and his own witness in the 21st century, as the detail to watch for in future crash reports. It describes egg-shaped or oblong craft with layers inside layers. He also sets Weygandt's shimmering field beside the flowing surface [[Dylan Borland]] saw on a triangle at Langley, suggesting both are cloaking systems (see below).
+> Several independent accounts describe egg-shaped or oblong craft with layers inside layers. Gerb treats the recurrence of this feature, from Collins in 1947 to the Reddit troop chief and his own witness in the 21st century, as the detail to watch for in future crash reports. He also sets Weygandt's shimmering field beside the flowing surface [[Dylan Borland]] saw on a triangle at Langley, suggesting both are cloaking systems (see below).
 
 ::wiki-compare{video="GM1Qx9vuo2c" video-title="National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers"}
 ---
-caption: "The four accounts point by point, on the features Gerb says fit together. A dash means the account, as the video gives it, does not say."
+caption: "Four crash-retrieval accounts compared on the features Gerb says fit together. A dash means the video gives no detail from that account."
 attributeLabel: "Feature"
 subjects:
   - name: "Gerb's witness"
@@ -740,13 +740,13 @@ rows:
 
 ## Steve Wilson and Project Pounce
 
-Gerb returns to [[Steve Wilson|Colonel Steve Wilson]], whose claims were gathered by [[Richard Boylan]] in 1996-1997 shortly before Wilson's death. He calls them fascinating but "to be taken with a huge grain of salt": Boylan has not answered his requests for Wilson's records, and he recommends [[Kevin Randle]]'s critiques of Wilson's claimed 40-year career and DD-214. Wilson said he was assigned to [[Majestic 12]] in 1963 while a captain at Wright-Patterson. Around 1972, men with CIA credentials sent him to Area S4 near [[Papoose Lake]], where on the 30th underground floor he saw eight kinds of non-human craft. He said the first successful anti-gravity flight there took place on 18 July 1971 with [[Bobby Ray Inman]] present. He then claimed to have headed [[Project Pounce]], an Air Force and "National Reconnaissance Organization" unit that retrieved downed UFOs and supplied cover stories. Its security team, "Delta", was an arm of the NRO and flew [[XH-75D]] anti-gravity helicopters built by [[Teledyne Ryan]]. It also fielded "the Equalizer", a truck-mounted EMP cannon for shooting down craft, built by LTV.
+Gerb returns to [[Steve Wilson|Colonel Steve Wilson]], whose claims were gathered by [[Richard Boylan]] in 1996-1997 shortly before Wilson's death. He calls them fascinating but "to be taken with a huge grain of salt": Boylan has not answered his requests for Wilson's records, and Gerb recommends [[Kevin Randle]]'s critiques of Wilson's claimed 40-year career and DD-214. Wilson said he was assigned to [[Majestic 12]] in 1963 while a captain at Wright-Patterson. Around 1972, men with CIA credentials sent him to Area S4 near [[Papoose Lake]], where on the 30th underground floor he saw eight kinds of non-human craft. He said the first successful anti-gravity flight there took place on 18 July 1971 with [[Bobby Ray Inman]] present. He then claimed to have headed [[Project Pounce]], an Air Force and "National Reconnaissance Organization" unit that retrieved downed UFOs and supplied cover stories. Its security team, "Delta", was an arm of the NRO and flew [[XH-75D]] anti-gravity helicopters built by [[Teledyne Ryan]]. It also fielded "the Equalizer", a truck-mounted EMP cannon for shooting down craft, built by LTV.
 
 Gerb doubts the truck-mounted cannon but finds three threads worth following:
 
-- **LTV's lineage.** Ling-Temco-Vought's electronics business became [[E-Systems]], called part of "the central nervous system" of the intelligence community, a contractor to the CIA, NSA and NRO and once named a CIA front. Raytheon bought it in 1995. Gerb calls this the same pattern of acquisitions he has traced elsewhere.
-- **The name.** Wilson's "National Reconnaissance Organization" is not the office's real name. But the term appears in 1960s CIA documents from John McCone's tenure, and in 1976 newspapers, so it either reflects agency usage of the time or reveals someone who knew the NRO only from the press.
-- **Pounce itself.** A real Project Pounce appears among the evidence reviewed by the 1953 [[Robertson Panel]]: a Kirtland AFB outline proposed after UFO maneuvers over Albuquerque on 2 August 1952. According to [[Edward J. Ruppelt]], it called for six stripped F-94C interceptors with nose cameras, two of them always on alert, to photograph UFOs. It was shelved only because the aircraft could not be spared. It was an imagery-intelligence mission, Gerb notes, of exactly the kind the NRO would take on nine years later, though how it could have become a retrieval unit remains unclear.
+- LTV's lineage: the electronics business of Ling-Temco-Vought became [[E-Systems]], called part of "the central nervous system" of the intelligence community, a contractor to the CIA, NSA and NRO and once named a CIA front. Raytheon bought it in 1995. Gerb sees in this the same pattern of acquisitions he has traced elsewhere.
+- The name: Wilson's "National Reconnaissance Organization" is not the office's real name, but the term appears in 1960s CIA documents from John McCone's tenure and in 1976 newspapers. It either reflects agency usage of the time or shows that Wilson knew the NRO only from the press.
+- Pounce itself: a real Project Pounce appears among the evidence reviewed by the 1953 [[Robertson Panel]]: a Kirtland AFB outline proposed after UFO maneuvers over Albuquerque on 2 August 1952. According to [[Edward J. Ruppelt]], it called for six stripped F-94C interceptors with nose cameras, two of them always on alert, to photograph UFOs. It was shelved only because the aircraft could not be spared. It was an imagery-intelligence mission, Gerb notes, of exactly the kind the NRO would take on nine years later, though how it could have become a retrieval unit remains unclear.
 
 Wilson also named a "Jason Society" tasked with the "alien question". Gerb notes that the real JASON advisory group, founded in 1960 and run through MITRE, has worked for the NRO.
 
@@ -758,15 +758,15 @@ His main witness is [[Edgar Fouche]], who in 1998 described the TR-3B: a triangl
 
 ## The Wilson-Davis Notes and the NRO Audits
 
-As in most of his investigations, Gerb revisits the [[Wilson-Davis Memo|Wilson-Davis notes]]. These are notes by [[Eric Davis]] of a 2002 conversation in the parking lot of [[EG&G]] with Vice Admiral [[Thomas Wilson]]. He believes their core account is true, despite his public disputes with Davis. In 1997 Wilson was pointed by SAPOC members, including acquisition under secretary [[Paul Kaminski]], to a special records group of legacy "holdover" programs in the Office of the Under Secretary of Defense for Acquisition and Technology. He then met the programs' "Watch Committee", which showed him a bigot list dated 1990 and updated in 1993, and on which he recognized names from that same office. The committee refused him access. The memo says the programs were placed under the [[SAPOC (Special Access Program Oversight Committee)|SAP Oversight Committee]]'s Senior Review Group after an internal audit nearly exposed them, part of the reorganization [[Bill Perry]] began on 5 January 1994.
+As in most of his investigations, Gerb revisits the [[Wilson-Davis Memo|Wilson-Davis notes]]. These are notes by [[Eric Davis]] of a 2002 conversation in the parking lot of [[EG&G]] with Vice Admiral [[Thomas Wilson]]. Gerb believes their core account is true, despite his public disputes with Davis. In 1997 members of the Special Access Program Oversight Committee (SAPOC), including acquisition under secretary [[Paul Kaminski]], pointed Wilson to a special records group of legacy "holdover" programs in the Office of the Under Secretary of Defense for Acquisition and Technology. He then met the programs' "Watch Committee", which showed him a bigot list dated 1990 and updated in 1993, and on which he recognized names from that same office. The committee refused him access. The memo says the programs were placed under the [[SAPOC (Special Access Program Oversight Committee)|SAP Oversight Committee]]'s Senior Review Group after an internal audit nearly exposed them, part of the reorganization [[Bill Perry]] began on 5 January 1994.
 
-Gerb has previously proposed two GAO reports of May and August 1993 as that audit. Here he adds a third candidate: the NRO itself. Senate Select Committee on Intelligence scrutiny of the newly declassified office's finances began in 1992, two years before Perry's reorganization. A 10 August 1994 hearing led by Senator Richard Bryan examined a headquarters whose cost had risen from $168 million to $350 million without being reported to Congress. In 1995 Bryan exposed "rampant mismanagement" of carryover funds: unspent money rolled into later years, estimated first at $1.7 billion and then at $3.7 billion. Gerb says people named in the Wilson-Davis notes have told him that carryover appropriations do fund legacy programs, echoing Grusch's testimony on misappropriated funds. He also notes that [[John Deutch]] had been acquisition under secretary during Perry's reorganization and then, as Deputy Secretary of Defense, chaired SAPOC. As Director of Central Intelligence he then forced out the NRO's director and deputy over the surplus, saying he had been "unaware" of it. Gerb calls this a possible conflict of interest. Perry himself had long advised the NRO, chairing the "Perry panel" on Program B's signals-collection systems. The NRO has been exempt from DoD audit-readiness requirements since 2014 and has audited itself since 2009, which Gerb treats with open sarcasm.
+Gerb has previously proposed two General Accounting Office (GAO) reports, from May and August 1993, as that audit. Here he adds a third candidate: the NRO itself. Senate Select Committee on Intelligence scrutiny of the newly declassified office's finances began in 1992, two years before Perry's reorganization. A 10 August 1994 hearing led by Senator Richard Bryan examined a headquarters whose cost had risen from $168 million to $350 million without being reported to Congress. In 1995 Bryan exposed "rampant mismanagement" of carryover funds: unspent money rolled into later years, estimated first at $1.7 billion and then at $3.7 billion. Gerb says people named in the Wilson-Davis notes have told him that carryover appropriations do fund legacy programs, echoing Grusch's testimony on misappropriated funds. He also notes that [[John Deutch]] had been acquisition under secretary during Perry's reorganization and then, as Deputy Secretary of Defense, chaired SAPOC. Later, as Director of Central Intelligence, he forced out the NRO's director and deputy over the surplus, saying he had been "unaware" of it. Gerb calls this a possible conflict of interest. Perry himself had long advised the NRO, chairing the "Perry panel" on Program B's signals-collection systems. The NRO has been exempt from DoD audit-readiness requirements since 2014 and has audited itself since 2009, which Gerb treats with open sarcasm.
 
 ## Thirteen Gatekeepers
 
 Gerb's gatekeeper section follows one thread: officials who pass through the NRO and a small set of offices he associates with running the programs. These are the acquisition under secretary's office named in the Wilson-Davis notes (today the [[Under Secretary of Defense for Acquisition and Sustainment (USD A&S)|USD(A&S)]]); its intelligence-community counterpart, the ODNI's Deputy Director for Acquisition, Technology and Facilities, which a July 2016 GAO report shows shares milestone authority over NRO acquisitions; the CIA DS&T and its Office of Global Access; and [[MITRE Corporation|MITRE]]. The table maps the connections the video gives for each person.
 
-::wiki-figure{caption="Connections the video cites for each of the thirteen, by office. NURO is the NRO's undersea sister agency. A blank cell means the video names no connection, not that none exists."}
+::wiki-figure{caption="Connections the video cites for each of the thirteen officials, by office. NURO (National Underwater Reconnaissance Office) is the NRO's undersea sister agency. A blank cell means only that the video names no connection."}
 | Official | NRO | CIA DS&T | Office of Global Access | DoD acquisition under secretary | ODNI AT&F | MITRE |
 |---|---|---|---|---|---|---|
 | [[Paul Kaminski]] | Yes, 1971-1976 |  |  | Under secretary, 1994-1997 |  | Board, from 2017 |
@@ -791,10 +791,10 @@ Three of the thirteen get extended treatment. The first is [[Bobby Ray Inman]], 
 entries:
   - name: "Paul Kaminski"
     role: "NRO satellite pioneer; Under Secretary of Defense for Acquisition and Technology"
-    note: "A permanent SAPOC member who, per Wilson, had direct knowledge of the legacy programs; on MITRE's board since 2017."
+    note: "A permanent member of the SAP Oversight Committee who, according to Vice Admiral Thomas Wilson, had direct knowledge of the legacy programs; on MITRE's board since 2017."
   - name: "John Deutch"
     role: "Acquisition under secretary, Deputy Secretary of Defense, DCI"
-    note: "Chaired SAPOC after Perry's reorganization, then removed the NRO's leadership over the carryover funds."
+    note: "Chaired the SAP Oversight Committee after Perry's reorganization, then removed the NRO's leadership over the carryover funds."
   - name: "Bill Perry"
     role: "Deputy Secretary and Secretary of Defense"
     note: "Began the January 1994 SAP reorganization; chaired the Perry panel advising NRO Program B."
@@ -806,7 +806,7 @@ entries:
     note: "Founded the Office of Global Access in 2003 after 16 years in the NRO's CIA component; a 'true program loyalist', per Gerb."
   - name: "Mark Moynihan"
     role: "CIA, NRO and ODNI engineer and manager"
-    note: "Checks every box Gerb draws: DS&T, the Office of Global Access, the NRO and the ODNI acquisition office."
+    note: "Has ties to every office Gerb lists: the CIA DS&T, the Office of Global Access, the NRO and the ODNI acquisition office."
   - name: "Dawn Meyerriecks"
     role: "CIA DS&T deputy director; MITRE board member"
     note: "Began at TRW, which Gerb implicates in derivative-technology work."
@@ -824,7 +824,7 @@ entries:
     note: "Inman's 'best person to ask' about recovered vehicles; his 2022 answer was not a denial."
   - name: "Bobby Ray Inman"
     role: "Admiral; NSA director, CIA deputy director, NURO director"
-    note: "Gerb's most famous accused gatekeeper; Wilson places him at a 1971 anti-gravity test."
+    note: "Gerb's most famous accused gatekeeper; Steve Wilson places him at a 1971 anti-gravity test."
   - name: "Mary K. Sturdivant"
     role: "NRO deputy director for national support; Lockheed Martin VP"
     note: "A possible partner in the Kona Blue blockage, per Gerb."
@@ -844,7 +844,7 @@ claim:
   by: ["Luis Elizondo", "Eric Davis"]
   where: "The Age of Disclosure"
   date: "2025-11-21"
-  text: "A single legacy program. The deputy director of the CIA DS&T has complete control over the portfolio, and three equal branches sit beneath: the Department of Energy with its classification controls, defense prime contractors, and Air Force special operations tier 1 units such as the 24th STS doing the retrievals."
+  text: "There is a single legacy program. The deputy director of the CIA DS&T has complete control over the portfolio, and three equal branches sit beneath: the Department of Energy with its classification controls, defense prime contractors, and Air Force special operations tier 1 units such as the 24th STS doing the retrievals."
   cue: 10501
 responses:
   - by: "Gerb"
@@ -856,28 +856,28 @@ responses:
 
 His own outline, as he restates it against the film:
 
-- **Many siloed programs**, each with its own administrator and non-traditional, "stripped" oversight rather than none.
-- **A rotating head**, a few people like Cheney who can see across silos.
-- **Administrators**, such as a joint Air Force and NRO effort, the [[CIA Directorate of Science and Technology|CIA DS&T]] and its OGA, NURO or DARPA.
-- **GOCOs and FFRDCs.** Following [[Andrew Kissner]], he believes custody of recovered material passed to government-owned, contractor-operated national labs in the early 1950s.
-- **Prime contractors at the bottom.** He thinks most staff there do not know what they work on, apart from special-programs directors. Some corporate programs may have gone rogue after a loss of control around 1989.
-- **Retrieval teams** under their own umbrella authority, not JSOC.
+- Many siloed programs, each with its own administrator and non-traditional, "stripped" oversight rather than none.
+- A rotating head, a few people like Cheney who can see across silos.
+- Administrators, such as a joint Air Force and NRO effort, the [[CIA Directorate of Science and Technology|CIA DS&T]] and its Office of Global Access, the National Underwater Reconnaissance Office (NURO) or DARPA.
+- GOCOs and FFRDCs: following [[Andrew Kissner]], he believes custody of recovered material passed to government-owned, contractor-operated national labs in the early 1950s.
+- Prime contractors at the bottom: he thinks most staff there do not know what they work on, apart from special-programs directors. Some corporate programs may have gone rogue after a loss of control around 1989.
+- Retrieval teams under their own umbrella authority, not JSOC.
 
 He also says the offices under the Secretary of Defense and the DNI matter more than the principals: the acquisition and intelligence under secretaries (which is why he thinks [[Chris Mellon]], a former deputy assistant secretary for intelligence, may know more than he says) and the ODNI acquisition office.
 
 ## Key Claims
 
-- The NRO is alleged to be a UFO legacy-program administrator from its 1961 founding, and possibly created in part because satellites photographed orbiting craft of unknown origin, per Albert Bruce Collins.
+- The NRO has allegedly administered UFO legacy programs since its founding in 1961. According to Albert Bruce Collins, it was possibly created in part because satellites photographed orbiting craft of unknown origin.
 - NRO Sentient allegedly identifies anomalous overhead data and diverts it from ordinary analysts to cleared personnel. It detected a possible tic-tac-shaped object on 6 May 2021, although the NRO said in 2015 that UFOs were outside its responsibilities.
 - Immaculate Constellation, established in 2017, relies on NRO Sentient and NRO overhead collection but is a reactive surveillance program, not a legacy program. Gerb suspects it originated in the National Security Council.
 - Tom DeLonge's 2017 account of NRO "episodic visits" is alleged to reflect IMCON-type tasking, probably relayed by Luis Elizondo as part of an authorized limited disclosure.
 - A crash-retrieval task force of parallel tier 1 units, 160th SOAR 1st Battalion transport, the CIA Office of Global Access and DOE/NNSA teams such as NEST is alleged to operate under its own siloed umbrella authority, likely the NRO.
 - An anonymous 21st-century witness says he served on an NRO rapid reaction team at the Nevada Test Site, with briefing binders marked "Joint Operations Task Force, NRO" and an NRO-marked badge.
 - Egg-shaped craft with layered "nesting doll" interiors recur across independent retrieval accounts, from Collins in 1947 to Gerb's witness.
-- The NRO is argued to be a likely first user of alien reproduction vehicles or derivative cloaking technology for reconnaissance, citing Edgar Fouche's TR-3B account and Dylan Borland's 2012 Langley sighting.
+- Gerb argues that the NRO is a likely first user of alien reproduction vehicles or derivative cloaking technology for reconnaissance, citing Edgar Fouche's TR-3B account and Dylan Borland's 2012 Langley sighting.
 - The NRO's 1992-1995 headquarters and carryover-funds scandal is proposed as a possible audit that prompted the 1994 SAP reorganization described in the Wilson-Davis notes.
 - Thirteen officials with NRO ties (Kaminski, Deutch, Perry, Lord, Wolfe, Moynihan, Meyerriecks, Kirkpatrick, Faga, Kerr, Heinman, Inman and Sturdivant) are named as likely legacy-program members or gatekeepers.
-- *The Age of Disclosure*'s single, CIA DS&T-controlled legacy program is rejected in favor of many siloed programs.
+- Gerb rejects the single legacy program controlled by the CIA DS&T that *The Age of Disclosure* describes, in favor of many siloed programs.
 
 ## Sources
 
