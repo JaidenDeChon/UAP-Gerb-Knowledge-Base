@@ -334,6 +334,11 @@
     "sha256": "35fd07b053972a99e4ec5069e71943a7355c0452ead82f8fb6cefeba4909446f",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/Daily Mail.md": {
+    "humanized_at": "2026-09-25T23:43:42Z",
+    "sha256": "f6d757f25e3eb988b4897dbbb90b8457e2fea2ed73029287b911db6900483fb0",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
