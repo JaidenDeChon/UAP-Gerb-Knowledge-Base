@@ -18,6 +18,11 @@
     "sha256": "71d01ebc82d0d287338b957fac59dd71c8cc1e5000bcfea1368b0ee6ddfd368c",
     "cold_reader": true
   },
+  "app/app/components/app/AppThemeSwitcher.vue": {
+    "humanized_at": "2026-09-25T16:58:42Z",
+    "sha256": "6f32eb86cca292e25ff54c7c59463f1e314453110e60ac64705d55861e10339d",
+    "cold_reader": true
+  },
   "app/app/components/app/AppTopBar.vue": {
     "humanized_at": "2026-09-25T16:57:56Z",
     "sha256": "1d17fd61efe76f7f430039f6f97131bd8f0472db3812269757b3e48c7d04fc1a",

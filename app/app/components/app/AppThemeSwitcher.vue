@@ -43,7 +43,7 @@ function select(id: ThemeId): void {
         variant="outline"
         size="sm"
         class="w-full justify-between"
-        aria-label="Change theme"
+        aria-label="Change the color theme"
       >
         <span class="flex items-center gap-2">
           <component :is="currentIcon" class="size-4" />
@@ -55,7 +55,7 @@ function select(id: ThemeId): void {
         v-else
         variant="ghost"
         size="icon"
-        aria-label="Change theme"
+        aria-label="Change the color theme"
       >
         <component :is="currentIcon" class="size-5" />
       </Button>
@@ -64,7 +64,7 @@ function select(id: ThemeId): void {
     <PopoverContent :align="align" :side="side" :side-offset="8" class="w-[330px] p-3">
       <!-- auto-rows-fr: "less-light · warm paper" wraps to two lines and would
            otherwise make the top row taller than the bottom one. -->
-      <div role="group" aria-label="Choose theme" class="grid auto-rows-fr grid-cols-2 gap-2.5">
+      <div role="group" aria-label="Choose a color theme" class="grid auto-rows-fr grid-cols-2 gap-2.5">
         <button
           v-for="t in THEMES"
           :key="t.id"
