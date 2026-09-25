@@ -499,6 +499,11 @@
     "sha256": "aaa84bb6316ebe8be6b99bbd1e8f990cdcc5dbf418ae1d4b00928b32f949f0b2",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/Lockheed Martin Space Systems.md": {
+    "humanized_at": "2026-09-25T23:51:51Z",
+    "sha256": "c3f17550fc06dda54e99b76137aaf59af50b0a652a5e09155c0a95c8bb371a1a",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
