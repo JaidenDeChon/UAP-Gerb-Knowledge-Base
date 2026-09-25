@@ -737,10 +737,10 @@ SAIC's role in SDI was large. From SDI's start in 1983 the Pentagon relied on SA
 
 ::wiki-grid{cols=3}
 ::wiki-panel{title="An Air Force intelligence colonel"}
-An anonymous colonel said the craft was downed "by the use of a US Star Wars weapon" and retrieved from the dunes, and that the beings aboard killed 18 US servicemen with a device generating extremely low frequency sound. Gerb says he can find no record of those deaths.
+An anonymous colonel said the Moriches Bay craft was downed "by the use of a US Star Wars weapon" and retrieved from the dunes, and that the beings aboard killed 18 US servicemen with a device generating extremely low frequency sound. Gerb says he can find no record of those deaths.
 ::
 ::wiki-panel{title="Dr. Nick of Brookhaven"}
-A Brookhaven National Laboratory scientist, who said he had studied UFOs at Wright-Patterson, told investigators a wedge- or boomerang-shaped object of "shockingly low mass" was taken to Brookhaven, and that the weapon, built by AIL Electronics, was deployed by the laboratory.
+A Brookhaven National Laboratory scientist, who said he had studied UFOs at Wright-Patterson, told investigators that a wedge- or boomerang-shaped object of "shockingly low mass" was taken to Brookhaven. He said the weapon was built by AIL Electronics and deployed by the laboratory.
 ::
 ::wiki-panel{title="Eyewitnesses" tone="accent"}
 Several witnesses, including a commodities broker, said they saw helicopters carrying a large object and military vehicles under police escort heading toward Brookhaven.
@@ -825,13 +825,13 @@ Naval Support Activity Crane, sometimes called "the Pentagon's best-kept secret"
 
 ::wiki-grid{cols=3}
 ::wiki-panel{title="Data"}
-Naval undersea warfare center divisions such as [[Naval Undersea Warfare Center Keyport|Keyport]], and university-affiliated research centers such as the Applied Research Laboratory at the University of Hawaii at Mānoa.
+Gerb places this work at naval undersea warfare center divisions such as [[Naval Undersea Warfare Center Keyport|Keyport]], and university-affiliated research centers such as the Applied Research Laboratory at the University of Hawaii at Mānoa.
 ::
 ::wiki-panel{title="Hardware" tone="accent"}
-Naval surface warfare centers such as [[Naval Surface Warfare Center Crane|Crane]], which Gerb believes house and exploit technologies of unknown origin.
+Gerb places this work at naval surface warfare centers such as [[Naval Surface Warfare Center Crane|Crane]], which he believes house and exploit technologies of unknown origin.
 ::
 ::wiki-panel{title="Aircraft"}
-NAVAIR installations such as [[China Lake Naval Air Weapons Station|China Lake]] and [[Naval Air Station Patuxent River|Patuxent River]].
+Gerb places this work at NAVAIR installations such as [[China Lake Naval Air Weapons Station|China Lake]] and [[Naval Air Station Patuxent River|Patuxent River]].
 ::
 ::
 
