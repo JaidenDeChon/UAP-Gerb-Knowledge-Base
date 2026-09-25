@@ -9,7 +9,7 @@ Irving T. "Irv" Waaland was an American aeronautical engineer at Grumman and the
 
 ## The NATDC Connection
 
-UAP Gerb notes that Waaland delivered the 1991 lecture as vice president and chief designer of the [[Northrop Advanced Technology and Design Center (NATDC)]], Northrop's post-B-2 advanced design group. Gerb points to the lecture's "spectrum of designs" figure, which shows a delta- or diamond-shaped stealth program beside the B-2. He finds it strange that Waaland's career summaries otherwise make no mention of NATDC, and cites this as part of the video's case that the center was deliberately taken dark.
+Gerb notes that Waaland delivered the 1991 lecture as vice president and chief designer of the [[Northrop Advanced Technology and Design Center (NATDC)]], Northrop's post-B-2 advanced design group. Gerb points to the lecture's "spectrum of designs" figure, which shows a delta- or diamond-shaped stealth program beside the B-2. He finds it strange that Waaland's career summaries otherwise never mention NATDC, and he cites this as part of the video's case that the center was deliberately taken dark.
 
 ## Sources
 
