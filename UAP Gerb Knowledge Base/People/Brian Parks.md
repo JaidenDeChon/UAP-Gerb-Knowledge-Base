@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Brian Parks is a UFO researcher who, in 1991, submitted a Freedom of Information Act (FOIA) request regarding the alleged "[[Blue Room]]" at [[Wright-Patterson Air Force Base]] — the classified facility that Senator [[Barry Goldwater]] had sought access to in the 1970s and early 1980s. The response to Parks' request came from USAF Colonel [[Eddie L. Anderson]], who confirmed that materials related to the Blue Room, including film, had been destroyed on September 9, 1965. This FOIA response represents one of the few official government acknowledgments of the Blue Room's existence, even if only as a records-management matter confirming the destruction of its contents.
+Brian Parks is a UFO researcher who in 1991 submitted a Freedom of Information Act (FOIA) request about the alleged "[[Blue Room]]" at [[Wright-Patterson Air Force Base]], the classified facility that Senator [[Barry Goldwater]] had sought access to in the 1970s and early 1980s. USAF Colonel [[Eddie L. Anderson]] answered Parks' request and confirmed that materials related to the Blue Room, including film, had been destroyed on September 9, 1965. The reply is one of the few official government acknowledgments that the Blue Room existed, though only as a records-management matter confirming that its contents were destroyed.
 
 ## Sources
 
