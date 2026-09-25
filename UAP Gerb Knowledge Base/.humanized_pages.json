@@ -1358,6 +1358,11 @@
     "sha256": "73c8074f0baec7abdcf1bec7cddfc80d638fdeb8da10af752dc8ec451052ed29",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/People/MS (Dugway Witness).md": {
+    "humanized_at": "2026-09-25T19:22:25Z",
+    "sha256": "266a67bc1a646062d18b82a2d9bff694976c779cc5d192835699ff34f11cbbf5",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/Mac Brazel.md": {
     "humanized_at": "2026-09-25T19:21:25Z",
     "sha256": "d9dfdaa29ba82ef8c1b0096a46f7054be6eb43a2c4754a2c8d3f0f8424e02925",
