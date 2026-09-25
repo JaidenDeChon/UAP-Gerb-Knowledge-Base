@@ -1168,6 +1168,11 @@
     "sha256": "45c988c48ef49a87a66f0de5fff7167861891fc352fa0f51f021855158d2a1cb",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/People/John Murphy.md": {
+    "humanized_at": "2026-09-25T19:19:11Z",
+    "sha256": "06230e7e8008ed7d081946decd7eadbd10d325000d0a4e5309cc48ce0429e487",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/John Torrence Tate.md": {
     "humanized_at": "2026-09-25T19:18:48Z",
     "sha256": "b89b3d3e70615a3765cbe5ddd17a70823fec284adc942fe65657d306cf6de5d0",
