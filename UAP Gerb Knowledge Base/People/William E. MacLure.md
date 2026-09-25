@@ -9,7 +9,7 @@ William E. MacLure is a member of the Senior Executive Service who served as Dir
 
 ## Legacy activity architecture
 
-UAP Gerb's *Special Access Required Vol.2* names MacLure among a small group of Senior Executive Service officials, with [[Randall G. Walden]], [[Terry Phillips]] and [[Lee M. Russ]], whom Gerb alleges "operate key positions in legacy activity architecture." That video points to a tension in the role. SAF/AAZ is nominally the Air Force component SAPCO, with oversight of Air Force special access programs. Yet Gerb alleges that the Air Force's UFO-related "outside activities", set up under [[Edward C. Aldridge]], were historically routed directly under SAF/AA in a way that bypassed SAF/AAZ's own oversight. On this view, whether a given SAF/AAZ director is read into legacy activities depends on that director and their personal history in the programs.
+UAP Gerb's *Special Access Required Vol.2* names MacLure among a small group of Senior Executive Service officials, with [[Randall G. Walden]], [[Terry Phillips]] and [[Lee M. Russ]], whom Gerb alleges "operate key positions in legacy activity architecture." That video points to a tension in the role. SAF/AAZ is nominally the Air Force component Special Access Program Central Office (SAPCO), with oversight of Air Force special access programs. Yet Gerb alleges that the Air Force's UFO-related "outside activities", set up under [[Edward C. Aldridge]], were historically routed directly under SAF/AA in a way that bypassed SAF/AAZ's own oversight. On this view, whether a given SAF/AAZ director is read into legacy activities depends on that director and their personal history in the programs.
 
 ## Alleged gatekeeper candidate
 
