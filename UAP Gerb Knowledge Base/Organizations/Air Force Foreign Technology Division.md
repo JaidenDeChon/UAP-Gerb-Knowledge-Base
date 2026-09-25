@@ -9,23 +9,23 @@ The Air Force Foreign Technology Division (FTD) was a United States Air Force in
 
 ## Fast Walker Research with NORAD
 
-In 1989, USAF Captain [[Richard P. Osedacz]] authored "Orbit Determination of Sunlit Illuminated Objects Detected by Overhead Platforms," detailing **joint efforts between [[NORAD]] and the Air Force Foreign Technology Division** to investigate uncatalogued spacebound objects detected by [[Defense Support Program (DSP)]] satellite sensors — objects designated as [[Fast Walkers]].
+In 1989, USAF Captain [[Richard P. Osedacz]] wrote "Orbit Determination of Sunlit Illuminated Objects Detected by Overhead Platforms," a paper describing joint work by [[NORAD]] and the Air Force Foreign Technology Division to investigate uncatalogued spacebound objects detected by [[Defense Support Program (DSP)]] satellite sensors. These objects were designated [[Fast Walkers]].
 
-The collaboration between NORAD and FTD on Fast Walker analysis indicates that these detections were treated as potential foreign technology threats requiring intelligence assessment. FTD's involvement suggests the Air Force considered Fast Walkers to be within the scope of foreign technology analysis, though the inability to determine orbit or origin raised questions about whether these objects were actually foreign aerospace systems.
+That NORAD and FTD worked together on Fast Walker analysis indicates the detections were treated as possible foreign technology threats that needed an intelligence assessment. FTD's part in the work suggests the Air Force considered Fast Walkers to fall within foreign technology analysis. Because no one could determine the objects' orbit or origin, however, questions arose about whether they were actually foreign aerospace systems.
 
 ## Unsolvable Classification Problem
 
-Osedacz's 1989 paper noted that determining the orbit or precise trajectory of Fast Walkers had been deemed "unsolvable" by previous researchers, including a scientist named Wong. Despite NORAD and FTD's joint analytical capabilities, the objects defied standard orbital mechanics analysis, suggesting they did not behave like conventional satellites, missiles, or space debris.
+Osedacz's 1989 paper noted that previous researchers, including a scientist named Wong, had deemed the orbit or precise trajectory of Fast Walkers "unsolvable". Even with the combined analytical resources of NORAD and FTD, the objects did not fit standard orbital mechanics analysis, which suggested they did not behave like conventional satellites, missiles, or space debris.
 
 ## Wright-Patterson Intelligence Legacy
 
-FTD's location at [[Wright-Patterson Air Force Base]] connected it to decades of Air Force technical intelligence work, including analysis related to UFO investigations dating back to [[Project Blue Book]]. The division's involvement in Fast Walker research represents a continuation of Wright-Patterson's role as a center for analysis of anomalous aerospace phenomena.
+Because it was based at [[Wright-Patterson Air Force Base]], FTD was part of a site with decades of Air Force technical intelligence work, including analysis related to UFO investigations going back to [[Project Blue Book]]. Its work on Fast Walkers continued Wright-Patterson's role as a center for analyzing anomalous aerospace phenomena.
 
 ## Organizational Evolution
 
-FTD underwent several reorganizations and name changes over the decades, eventually being absorbed into the Air Force National Air and Space Intelligence Center (NASIC), which continues similar foreign technology analysis missions today.
+FTD went through several reorganizations and name changes over the decades and was eventually absorbed into the Air Force National Air and Space Intelligence Center (NASIC), which still carries out similar foreign technology analysis today.
 
-UAP Gerb's *80 Years of UFO Crash Retrieval and Reverse Engineering* identifies FTD's 1961 formation, out of Air Force Systems Command, as the formalization of the Foreign Material Program (FMP) — encompassing foreign material acquisition (FMA) and foreign material exploitation (FME) — itself administered under the Defense Intelligence Agency's Directorate of Science and Technology. The video distinguishes this Air Force FTD explicitly from the separate [[U.S. Army Foreign Technology Division]] that Lieutenant Colonel [[Philip J. Corso]] served under, and identifies FTD as the direct institutional precursor to [[National Air and Space Intelligence Center (NASIC)]], formally established in February 2003.
+UAP Gerb's *80 Years of UFO Crash Retrieval and Reverse Engineering* identifies the formation of FTD in 1961, out of Air Force Systems Command, as the formalization of the Foreign Material Program (FMP). The FMP covered foreign material acquisition (FMA) and foreign material exploitation (FME), and was itself administered under the Defense Intelligence Agency's Directorate of Science and Technology. The video explicitly distinguishes this Air Force FTD from the separate [[U.S. Army Foreign Technology Division]], under which Lieutenant Colonel [[Philip J. Corso]] served. It also identifies FTD as the direct institutional precursor to [[National Air and Space Intelligence Center (NASIC)]], which was formally established in February 2003.
 
 ## Sources
 
