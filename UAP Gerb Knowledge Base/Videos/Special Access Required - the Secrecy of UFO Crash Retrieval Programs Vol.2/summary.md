@@ -445,17 +445,17 @@ SAPs fall into three functional categories. Gerb illustrates them with a hypothe
 
 ::wiki-grid{cols=3}
 ::wiki-panel{title="Acquisition SAPs" tone="accent"}
-**Protects how it is built.** Research, development, test, evaluation and procurement whose compromise would reveal a technological edge. Makes up 75 to 80% of all DoD SAPs.
+**Protects how a system is built.** Research, development, test, evaluation and procurement whose compromise would reveal a technological edge. Acquisition SAPs make up 75 to 80% of all DoD SAPs.
 
 **Oversight:** Under Secretary of Defense for Acquisition and Sustainment, USD(A&S), formerly OUSD(A&T), the office where the Wilson-Davis notes place the legacy records.
 ::
 ::wiki-panel{title="Intelligence SAPs"}
-**Protects how we know what we know.** The planning and execution of sensitive intelligence and counterintelligence operations; here, the recovery and the judgment that its technology was exploitable.
+**Protects how we know what we know.** The planning and execution of sensitive intelligence and counterintelligence operations. In Gerb's example, that means the recovery of the craft and the judgment that its technology was exploitable.
 
 **Oversight:** [[Office of the Under Secretary of Defense for Intelligence and Security (USDINS)|USD(I&S)]], held by [[James Clapper]] from 2007 to 2010.
 ::
 ::wiki-panel{title="Operations and support SAPs"}
-**Protects how and where it is used.** The planning, execution and logistics of sensitive military operations, such as covert ISR flights once the triangle is fielded.
+**Protects how and where a system is used.** The planning, execution and logistics of sensitive military operations, such as covert ISR flights once Gerb's hypothetical triangular craft is fielded.
 
 **Also relevant:** USD(R&E), the Under Secretary of Defense for Research and Engineering, which Gerb calls the successor to [[Vannevar Bush]]'s Research and Development Board, cultivates the cutting-edge work that needs SAP protection.
 ::
