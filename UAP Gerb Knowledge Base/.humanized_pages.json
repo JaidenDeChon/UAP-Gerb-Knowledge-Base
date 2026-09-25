@@ -124,6 +124,11 @@
     "sha256": "0d74b4f27a0a35e87c7284d77841f2516b866d8b815bc2b73a66cdcf26de5824",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/Air Force Systems Command.md": {
+    "humanized_at": "2026-09-25T23:37:02Z",
+    "sha256": "b0e68e7bd7234e74f28e0d2fd7d78e858cf556e6438f4996d5d86e94235bee07",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
