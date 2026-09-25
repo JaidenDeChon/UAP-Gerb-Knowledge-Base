@@ -443,8 +443,8 @@ The craft, as Gerb relays MS's account:
 Gerb identifies the six technicians as probably ATEC and Battelle scientists. He asks the same question of the guards and weighs two possibilities:
 
 ::wiki-grid{cols=2}
-::wiki-panel{title="Contracted installation security"}
-After 9/11 the Army hired private guards through [[Sole Source Arrangement|sole-source contracts]], a method [[Eric Davis]] has said is used for UAP legacy programs. The 2006 [[GAO Report on Army Guard Program|GAO report]] on the Army's guard program shows Dugway used Chenega Integrated Systems. Chenega's subcontractor Vance Federal Security Services and [[Wackenhut Services]], where Bobby Ray Inman once sat on the board, were subcontractors at Army installations. Gerb suspects such firms guard legacy-program sites, but only at the gate: checking badges and scanning vehicles.
+::wiki-panel{title="Contract security guards"}
+After 9/11 the Army hired private guards through [[Sole Source Arrangement|sole-source contracts]], a method [[Eric Davis]] has said is used for UAP legacy programs. The 2006 [[GAO Report on Army Guard Program|GAO report]] on the Army's guard program shows Dugway used Chenega Integrated Systems. Vance Federal Security Services, which subcontracted for Chenega, and [[Wackenhut Services]], whose board once included Bobby Ray Inman, were subcontractors at Army installations. Gerb suspects such firms guard legacy-program sites, but only at the gate: checking badges and scanning vehicles.
 ::
 ::wiki-panel{title="Industrial security specialists" tone="accent"}
 This is Gerb's conclusion. Industrial security (INDC) personnel manage risk across the defense industrial base: they oversee the National Industrial Security Program, issue facility clearances, mitigate foreign ownership and protect classified technology. An ATEC security specialist posting for Dugway includes serving as alternate special security officer for sensitive compartmented information (SCI) programs. Guards that close to a saucer, he argues, would be highly cleared specialists like these.
