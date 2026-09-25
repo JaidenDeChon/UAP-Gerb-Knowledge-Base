@@ -6,11 +6,11 @@ tags:
   - location
 ---
 
-Naval Surface Warfare Center Dahlgren (NSWC Dahlgren) is a U.S. Navy research, development, test, and evaluation facility located in Dahlgren, Virginia, operating under [[Naval Sea Systems Command]] (NAVSEA). The facility conducts weapons systems testing, combat systems engineering, and directed-energy and electromagnetic research for the fleet. In UAP Gerb's investigative framework, NSWC Dahlgren is identified as a major supporting site for an alleged [[MITRE Corporation|MITRE]]-managed UFO technology reverse-engineering program tracing to material recovered at the 1947 [[Roswell Crash]].
+Naval Surface Warfare Center Dahlgren (NSWC Dahlgren) is a U.S. Navy research, development, test, and evaluation facility in Dahlgren, Virginia. It operates under [[Naval Sea Systems Command]] (NAVSEA) and carries out weapons systems testing, combat systems engineering, and directed-energy and electromagnetic research for the fleet. Gerb identifies NSWC Dahlgren as a major supporting site for what he alleges is a UFO technology reverse-engineering program managed by [[MITRE Corporation|MITRE]], traced back to material recovered at the 1947 [[Roswell Crash]].
 
 ## Alleged Role in MITRE Legacy Programs
 
-UAP Gerb alleges that NSWC Dahlgren conducts major testing and deployment exercises in support of the reverse-engineering program, functioning alongside [[Naval Air Station Patuxent River]] and [[Naval Surface Warfare Center Crane]] as part of an integrated Navy triage: [[Naval Undersea Warfare Center Keyport]] processes data, NSWC Crane and NSWC Dahlgren hold and analyze hardware, and Naval Air Station Patuxent River functions as the overall data, hardware, and aircraft integration node.
+Gerb alleges that NSWC Dahlgren runs major testing and deployment exercises for the reverse-engineering program. In his account, it works alongside [[Naval Air Station Patuxent River]] and [[Naval Surface Warfare Center Crane]] as part of an integrated Navy triage. [[Naval Undersea Warfare Center Keyport]] processes data, NSWC Crane and NSWC Dahlgren hold and analyze hardware, and Naval Air Station Patuxent River is the overall integration node for data, hardware, and aircraft.
 
 ## Sources
 
