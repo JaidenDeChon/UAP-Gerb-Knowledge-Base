@@ -43,6 +43,11 @@
     "sha256": "4b12dcf01ecfa62503c2023544f76095ef862f2bb984d80f120097a6ca8a3f30",
     "cold_reader": true
   },
+  "app/app/components/wiki/CompareCell.vue": {
+    "humanized_at": "2026-09-25T16:53:43Z",
+    "sha256": "d87f5d3cb2afa050920e69c1fdba23a1c08c9f7fe2b5dd614e414c9321c7104c",
+    "cold_reader": true
+  },
   "app/app/components/wiki/TimelineChronometer.vue": {
     "humanized_at": "2026-09-25T16:50:38Z",
     "sha256": "d21f2853d110f57459985acb56a56cdc98509d53dbadf320ca7ace2b0656aec9",
