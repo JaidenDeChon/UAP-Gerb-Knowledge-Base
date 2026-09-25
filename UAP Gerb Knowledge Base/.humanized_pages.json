@@ -99,6 +99,11 @@
     "sha256": "bb9ae33ea666021a669b283de5e33e65d7ce3a58a596cc06baffd621604088df",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/Air Force Materiel Command (AFMC).md": {
+    "humanized_at": "2026-09-25T23:37:00Z",
+    "sha256": "bba4114ce9644896d3b5280ebd9f96d2b555c03dfcde00e1d10f7a19ff9c99b1",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
