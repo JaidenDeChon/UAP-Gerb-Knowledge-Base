@@ -5,17 +5,17 @@ tags:
   - organization
 ---
 
-The National Press Club is a professional organization for journalists located in Washington, D.C., that has served as a prominent venue for UAP disclosure events. The Club's facilities have hosted multiple high-profile press conferences featuring military, intelligence, and government witnesses discussing unidentified aerial phenomena and alleged classified programs.
+The National Press Club is a professional organization for journalists in Washington, D.C., and a prominent venue for UAP disclosure events. Several high-profile press conferences have been held there, at which military, intelligence and government witnesses spoke about unidentified aerial phenomena and alleged classified programs.
 
 ## 2001 Disclosure Project Press Conference
 
-On May 9, 2001, [[Steven Greer]] organized the landmark Disclosure Project press conference at the National Press Club, featuring testimony from over 20 military, intelligence, and government witnesses regarding UAP encounters and alleged government knowledge of non-human intelligence. This event remains one of the most significant public UAP disclosure efforts and helped establish the National Press Club as a venue for serious UAP testimony.
+On May 9, 2001, [[Steven Greer]] organized the Disclosure Project press conference at the National Press Club. Over 20 military, intelligence and government witnesses testified about UAP encounters and alleged government knowledge of non-human intelligence. The event is still one of the most significant public efforts at UAP disclosure, and it helped make the National Press Club a venue for serious UAP testimony.
 
 ## 2023 UAP Whistleblower Events
 
-In June 2023, the National Press Club hosted events featuring multiple UAP whistleblowers as part of ongoing disclosure efforts. [[Michael Herrera]] spoke publicly at the National Press Club on June 12, 2023, providing his account of the 2009 Indonesia encounter with an octagonal craft, armed operators, and an apparent human trafficking operation connected to classified programs. This appearance was preceded by a two-day event on June 10-11 where Herrera and other witnesses presented their experiences.
+In June 2023, the National Press Club hosted events with several UAP whistleblowers as part of ongoing disclosure efforts. [[Michael Herrera]] spoke publicly at the National Press Club on June 12, 2023, and gave his account of the 2009 encounter in Indonesia: an octagonal craft, armed operators, and an apparent human trafficking operation connected to classified programs. Before that, on June 10-11, Herrera and other witnesses described their experiences at a two-day event.
 
-Steven Greer helped facilitate Herrera's National Press Club appearance and coordinated with the [[Daily Mail]] to publish Herrera's testimony prior to the event. During these events, alleged insiders from classified UAP programs were present in attendance, though they did not speak publicly. One insider sent an encrypted message to Greer stating they knew what Herrera had witnessed, which led to subsequent contact and meetings between Herrera and individuals claiming involvement in covert programs.
+Steven Greer helped arrange Herrera's National Press Club appearance and worked with the [[Daily Mail]] to publish Herrera's testimony before the event. Alleged insiders from classified UAP programs attended these events but did not speak publicly. One of them sent Greer an encrypted message saying they knew what Herrera had witnessed. This led to further contact, and to meetings between Herrera and people who claimed to be involved in covert programs.
 
 ## Sources
 
