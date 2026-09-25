@@ -5,13 +5,13 @@ tags:
   - organization
 ---
 
-The National Academy of Sciences (NAS) is a prestigious American scientific institution founded in 1863 to advise the federal government on scientific and technical matters. In the context of UAP history, the NAS played a critical role in legitimizing the conclusions of the [[Condon Committee]], reviewing the [[Condon Report]] in 1969 and endorsing its methodology and recommendation that no further formal UFO investigation was necessary. This institutional endorsement by one of the most respected scientific bodies in the United States lent the Condon Report unparalleled credibility and contributed directly to the consolidation of the [[UFO Stigma]].
+The National Academy of Sciences (NAS) is a prestigious American scientific institution, founded in 1863 to advise the federal government on scientific and technical matters. In UAP history, the NAS reviewed the [[Condon Report]] in 1969 and endorsed its methodology and its recommendation that no further formal UFO investigation was necessary. That review was critical in legitimizing the conclusions of the [[Condon Committee]]. Because the endorsement came from one of the most respected scientific bodies in the United States, it gave the Condon Report unparalleled credibility and contributed directly to the consolidation of the [[UFO Stigma]].
 
 ## Review of the Condon Report (1969)
 
-Following the release of the Condon Report, the NAS conducted a formal review of the committee's work. The NAS approved the report's methodology, endorsed its conclusions, and agreed with Dr. [[Edward Condon]]'s recommendation that the Air Force and US government terminate all UFO investigation programs. This endorsement was given despite the fact that the report's own case analyses found 25–30% of examined cases unexplained — a finding Condon's summary omitted.
+After the Condon Report was released, the NAS formally reviewed the committee's work. It approved the report's methodology, endorsed its conclusions, and agreed with Dr. [[Edward Condon]]'s recommendation that the Air Force and US government end all UFO investigation programs. The NAS gave this endorsement even though the report's own case analyses found 25–30% of the examined cases unexplained, a finding that Condon's summary left out.
 
-The NAS review became the scientific establishment's seal of approval for dismissing UFO research as lacking scientific value, effectively foreclosing mainstream academic inquiry for decades.
+The NAS review became the scientific establishment's seal of approval for dismissing UFO research as lacking scientific value. In effect, it closed off mainstream academic inquiry for decades.
 
 ## Sources
 
