@@ -14,17 +14,17 @@ tags:
 ---
 stats:
   - value: 109
-    label: Passengers aboard JK 297
-    hint: "Salzburg to Las Palmas, via Mallorca"
+    label: Passengers on the airliner
+    hint: "Flight JK 297, Salzburg to Las Palmas, via Mallorca"
   - value: "23,000 ft"
-    label: Altitude when the lights appeared
-    hint: "About 23:05, 11 Nov 1979"
+    label: Airliner's altitude
+    hint: "When two red lights appeared, about 23:05 on 11 Nov 1979"
   - value: "Mach 1.4"
-    label: Needed just to see the object
-    hint: "1,074 mph, in a Mirage F1"
+    label: Fighter speed needed
+    hint: "1,074 mph, just for the Mirage F1 pilot to see the object"
   - value: "~90 min"
-    label: Length of the fighter's chase
-    hint: "Ended low on fuel"
+    label: Fighter's chase
+    hint: "The chase ended with the jet low on fuel"
 ---
 ::
 
@@ -32,97 +32,97 @@ stats:
 
 This short documentary covers the [[Manises UFO Incident]] of 11–12 November 1979, Spain's most famous UFO case and, in Gerb's words, the first time a commercial flight was grounded because of UFOs. [[TAE (Trabajos Aéreos y Enlaces)|TAE]] flight JK 297, a Super Caravelle with 109 passengers, was flying from [[Salzburg, Austria|Salzburg]] to [[Las Palmas, Spain|Las Palmas]] when two powerful red lights closed on it over the Mediterranean and mirrored its change of altitude. Captain [[Francisco Javier Lerdo de Tejada]] abandoned the route and made an emergency landing at [[Manises Airport, Valencia, Spain|Manises Airport]] in Valencia, where radar picked up further signals and airport staff and military personnel watched the lights.
 
-The Spanish Air Force then scrambled Captain [[Fernando Cámara]] in a Mirage F1 from [[Los Llanos Airbase, Spain|Los Llanos Air Base]]. By the account Gerb relays, Cámara needed Mach 1.4 just to see a truncated cone of changing colour; chasing a second radar echo near [[Sagunto, Spain|Sagunto]], he had his avionics jammed and a missile-radar lock warning sounded before the object left toward Africa. Gerb opens the video on the stigma that has kept pilots from reporting such encounters (see [[UFO Stigma]]), and illustrates the flight with clips from the channel MPC Flight Recreations, which set the crew's original radio audio to a reconstruction.
+The Spanish Air Force then scrambled Captain [[Fernando Cámara]] in a Mirage F1 from [[Los Llanos Airbase, Spain|Los Llanos Air Base]]. According to the account Gerb relays, Cámara had to reach Mach 1.4 just to see the object, a truncated cone of changing colour. While he chased a second radar echo near [[Sagunto, Spain|Sagunto]], his avionics were jammed and a missile-radar lock warning sounded, and then the object left toward Africa. Gerb opens the video with the stigma that has kept pilots from reporting such encounters (see [[UFO Stigma]]). For the flight itself he uses clips from the channel MPC Flight Recreations, which set the crew's original radio audio to a reconstruction.
 
-What stands out most to Gerb is not the diversion but the fighter's jammed sensors, which he places in a pattern with Major [[Parviz Jafari]]'s F-4 intercept in the [[1976 Tehran UFO Incident]] and Commander [[David Fravor]]'s [[2004 Nimitz UAP Encounter (Tic Tac)|2004 Tic Tac encounter]]. He then takes the case through what he calls a Mick West-level "debunk panel": the [[Spanish Parliament]]'s 1980 verdict of "freak optical illusions", a refinery's flare stacks, Venus or Jupiter, and interference from the [[US 6th Fleet]]. He finds that the explanations require too many coincidences at once, and says plainly that he thinks the case is legitimate.
+Gerb finds the fighter's jammed sensors more striking than the diversion, and places them in a pattern with Major [[Parviz Jafari]]'s F-4 intercept in the [[1976 Tehran UFO Incident]] and Commander [[David Fravor]]'s [[2004 Nimitz UAP Encounter (Tic Tac)|2004 Tic Tac encounter]]. He then takes the case through what he calls a Mick West-level "debunk panel": the [[Spanish Parliament]]'s 1980 verdict of "freak optical illusions", a refinery's flare stacks, Venus or Jupiter, and interference from the [[US 6th Fleet]]. He concludes that together these explanations require too many coincidences at once, and says plainly that he thinks the case is legitimate.
 
 ## The night of 11–12 November 1979
 
-Flight JK 297 left [[Mallorca, Spain|Mallorca]] after a refuelling stop at about 22:47. In the cockpit with Captain Lerdo de Tejada were co-pilot [[José Ramón Zuazu]] and flight mechanic [[Francisco Javier Rodriguez]] (the video's transcript renders the crew's and the fighter pilot's names phonetically: "Javier Leo de Taha", "Jose Ramon ZaZa Ngore" and "Fernando Kamaro"). At about 23:05, near 23,000 feet, Rodriguez pointed out two powerful red lights ahead and to the left. [[Barcelona Air Traffic Control]] said there was no other traffic on or near the route. As the lights drew closer, the crew could make out two strong light sources with no visible solid body. When the captain changed altitude to avoid a collision, the pair matched the aircraft's new trajectory and held between half a mile and five miles away.
+Flight JK 297 left [[Mallorca, Spain|Mallorca]] after a refuelling stop at about 22:47. In the cockpit with Captain Lerdo de Tejada were co-pilot [[José Ramón Zuazu]] and flight mechanic [[Francisco Javier Rodriguez]] (the video's transcript spells the crew's and the fighter pilot's names as they sound: "Javier Leo de Taha", "Jose Ramon ZaZa Ngore" and "Fernando Kamaro"). At about 23:05, near 23,000 feet, Rodriguez pointed out two powerful red lights ahead and to the left. [[Barcelona Air Traffic Control]] said there was no other traffic on or near the route. As the lights drew closer, the crew could make out two strong light sources with no visible solid body. When the captain changed altitude to avoid a collision, the pair matched the aircraft's new trajectory and stayed between half a mile and five miles away.
 
-The captain reasoned that flying on beside an unidentified object broke every rule of air safety, and that he had no way to manoeuvre clear if it came to a collision, so he aborted the flight and landed at Manises. Shortly before the landing the crew detected three new signals on radar, each estimated at about 200 metres across (Gerb's recap later says "two more"). Airport staff saw the lights, as did military personnel at the neighbouring [[Manises Air Force Base, Spain|Manises air base]], whom Gerb describes as Marines; when one signature passed close to the runways, ground crew lit the emergency lights in case it was an aircraft in trouble.
+The captain reasoned that flying on beside an unidentified object broke every rule of air safety, and that he had no way to manoeuvre clear if it came to a collision, so he aborted the flight and landed at Manises. Shortly before the landing the crew detected three new signals on radar, each estimated at about 200 metres across (Gerb's recap later says "two more"). Airport staff saw the lights, as did military personnel at the neighbouring [[Manises Air Force Base, Spain|Manises air base]], whom Gerb describes as Marines. When one of the lights passed close to the runways, ground crew switched on the emergency lights in case it was an aircraft in trouble.
 
-Because of the many sightings, Captain Cámara took off from Los Llanos in a Mirage F1 at about 00:40. The object he first closed on vanished; he was then told of a new radar echo near Sagunto and flew several pursuit vectors over the sea and inland Spain, the object darting away each time. When he finally drew near, it seemed to acknowledge him: the Mirage's flight electronics were jammed, the alert system warned of a continuous-wave missile radar lock, and, he said, his own attempt to lock on with an infrared missile was jammed too. The object accelerated away toward mainland Africa, and after nearly an hour and a half, low on fuel, Cámara returned to base. The case "took Spain by storm", Gerb says, and reached parliament in September 1980.
+Because of the many sightings, Captain Cámara took off from Los Llanos in a Mirage F1 at about 00:40. The first object he closed on vanished. He was then told of a new radar echo near Sagunto and flew several pursuit courses over the sea and inland Spain, but the object darted away each time. When he finally drew near, it seemed to acknowledge him: the Mirage's flight electronics were jammed, the alert system warned of a continuous-wave missile radar lock, and, he said, his own attempt to lock on with an infrared missile was jammed too. The object accelerated away toward mainland Africa, and after nearly an hour and a half, low on fuel, Cámara returned to base. The case "took Spain by storm", Gerb says, and reached parliament in September 1980.
 
 ::wiki-chain{video="K_BZkOAw6E0" video-title="The First Commercial Flight Grounded Due to UFOs"}
 ---
 kind: consequence
 label: "How one sighting grounded an airliner and scrambled a fighter"
-caption: "The night as Gerb tells it, from the refuelling stop to the parliamentary verdict. Times are local, as given in the video; the Mirage's take-off, the transcript's '040 hours', is 00:40 on 12 November."
+caption: "Each step of the night as Gerb tells it, from the airliner's refuelling stop to the Spanish Parliament's verdict. Times are local, as the video gives them. The transcript's '040 hours' for the Mirage's take-off means 00:40 on 12 November."
 steps:
   - name: "Mallorca, Spain"
     date: "11 Nov 1979, c. 22:47"
-    note: "JK 297 leaves after refuelling, bound for Las Palmas with 109 passengers."
+    note: "Flight JK 297 leaves after refuelling, bound for Las Palmas with 109 passengers."
     cue: 108
   - via: "About 23:05, near 23,000 ft"
     text: "Two powerful red lights, ahead and to the left"
     note: "Spotted by flight mechanic Francisco Javier Rodriguez."
     cue: 133
-  - via: "The crew radios for traffic"
+  - via: "The crew checks for other traffic"
     name: "Barcelona Air Traffic Control"
-    note: "No other aircraft on or near the flight path."
+    note: "Reports no other aircraft on or near the flight path."
     cue: 170
   - via: "The captain changes altitude"
     text: "The lights mirror the manoeuvre"
-    note: "Two light sources with no visible body, holding at half a mile to 5 miles."
+    note: "Two light sources with no visible body, staying half a mile to 5 miles away."
     cue: 215
   - via: "Flight aborted as a safety risk"
     name: "Manises Airport, Valencia, Spain"
-    note: "Emergency landing: the first commercial flight grounded by UFOs, Gerb says."
+    note: "An emergency landing. Gerb calls it the first commercial flight grounded by UFOs."
     cue: 279
   - via: "Seen from the ground"
     text: "Radar signals and runway emergency lights"
-    note: "Three new signals of about 200 m; airport staff and air-base personnel watch the lights."
+    note: "The crew picks up three new radar signals of about 200 m each. Airport staff and air-base personnel watch the lights."
     cue: 335
-  - via: "Scrambled from Los Llanos, c. 00:40"
+  - via: "Fighter scrambled from Los Llanos, c. 00:40"
     name: "Fernando Cámara"
-    note: "Needs Mach 1.4 to see a truncated cone of changing colour, which vanishes."
+    note: "He needs Mach 1.4 just to see the object, a truncated cone of changing colour, which then vanishes."
     cue: 372
-  - via: "Sent after a new echo near Sagunto"
+  - via: "Sent after a new radar echo near Sagunto"
     text: "Avionics jammed, missile-radar lock warning"
-    note: "His own infrared-missile lock is jammed too."
+    note: "His own attempt to lock an infrared missile on it is jammed too."
     cue: 436
   - via: "Object leaves toward Africa"
-    text: "Return to base, dangerously low on fuel"
-    note: "After nearly an hour and a half of pursuit."
+    text: "He returns to base, dangerously low on fuel"
+    note: "The chase has lasted nearly an hour and a half."
     cue: 456
   - via: "Deputies ask for an explanation, Sept 1980"
     name: "Spanish Parliament"
-    note: "Dismissed as \"a series of freak optical illusions\"."
+    note: "The parliament dismisses the sighting as \"a series of freak optical illusions\"."
     cue: 468
 ---
 ::
 
 ### Where it happened
 
-The places in the account lie close together around the Gulf of Valencia, with one exception: the refinery blamed for the red lights is at Escombreras, outside Cartagena, far down the coast to the south. Gerb doesn't argue from the distance, but the map shows what the refinery reading has to assume: that the crew mistook distant, fixed lights for ones closing on them.
+Most places in the account lie close together around the Gulf of Valencia. The exception is the refinery that sceptics blame for the red lights, at Escombreras outside Cartagena, far down the coast to the south. Gerb doesn't make an argument from the distance. The map does show what the refinery explanation has to assume, though: that the crew mistook distant, fixed lights for lights closing on them.
 
 ::wiki-map{video="K_BZkOAw6E0" video-title="The First Commercial Flight Grounded Due to UFOs"}
 ---
-caption: "Places named in the video. Lines join named places in order and are not flight tracks: the video gives neither the Caravelle's course after Mallorca nor the Mirage's pursuit vectors, so the fighter's line is dashed. Mallorca is pinned at Palma airport."
+caption: "Places named in the video. The lines join places in the order they come up and are not flight paths. The video gives neither the Caravelle airliner's course after Mallorca nor the Mirage fighter's pursuit courses, so the fighter's line is dashed. Mallorca is pinned at Palma airport."
 pins:
   - name: "Mallorca, Spain"
     label: "Palma"
     coordinates: [39.5517, 2.7389]
     date: "11 Nov 1979"
-    note: "JK 297's refuelling stop; left about 22:47."
+    note: "Flight JK 297's refuelling stop. It left at about 22:47."
     cue: 108
   - name: "Manises Airport, Valencia, Spain"
     label: "Manises"
-    note: "Emergency landing; radar signals and lights seen from the airport and air base."
+    note: "Where the airliner made its emergency landing. Radar signals and lights were seen from the airport and the air base."
     cue: 279
   - name: "Los Llanos Airbase, Spain"
     label: "Los Llanos"
-    note: "The Mirage F1 takes off about 00:40, 12 Nov."
+    note: "The Mirage F1 fighter takes off from here at about 00:40 on 12 Nov."
     cue: 372
   - name: "Sagunto, Spain"
     label: "Sagunto"
-    note: "A new radar echo sends the Mirage after a second object."
+    note: "A new radar echo here sends the Mirage fighter after a second object."
     cue: 418
   - text: "Escombreras refinery, Cartagena"
     label: "Escombreras"
     coordinates: [37.5729, -0.9235]
-    note: "Its flare stacks are the sceptics' source of the crew's red lights."
+    note: "Sceptics say its flare stacks were the red lights the airliner's crew saw."
     cue: 728
 routes:
   - path: [1, 2]
@@ -135,11 +135,11 @@ routes:
 
 ## Jammed sensors: a pattern across military encounters
 
-For Gerb, the heart of the case is not the airliner's diversion but the Mirage's sensor failure, because such jamming "has occurred multiple times in public UFO military cases". He cites two. Commander [[David Fravor]], he notes, says the objects (plural) in his 2004 Tic Tac sighting off San Diego actively jammed the radar and sensors of the Navy jets. In the [[1976 Tehran UFO Incident]], the first of two Imperial Iranian Air Force F-4 Phantom IIs sent after an object hovering over Tehran lost all instruments and communications and turned back. Ten minutes later Major [[Parviz Jafari]], at Mach 1, saw the object jump 10 degrees to his right from 70 miles out, some 26 miles in under a second. As he closed on the apparently diamond-shaped craft, a smaller sphere separated and approached his F-4; when he tried to engage it, his targeting and radio went haywire. He resolved to eject if it came within two miles, flew evasive manoeuvres, and regained his instruments and contact with command once clear. Gerb calls Tehran one of his favourite encounters and promises a video on air force encounters worldwide (the later [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters]]).
+Gerb considers the Mirage's sensor failure more important than the airliner's diversion, because such jamming "has occurred multiple times in public UFO military cases". He cites two other cases. Commander [[David Fravor]], he notes, says the objects (plural) in his 2004 Tic Tac sighting off San Diego actively jammed the radar and sensors of the Navy jets. In the [[1976 Tehran UFO Incident]], the first of two Imperial Iranian Air Force F-4 Phantom IIs sent after an object hovering over Tehran lost all instruments and communications and turned back. Ten minutes later Major [[Parviz Jafari]], flying at Mach 1, saw the object jump 10 degrees to his right from 70 miles away, a distance of some 26 miles, in under a second. As he closed on the apparently diamond-shaped craft, a smaller sphere separated and approached his F-4; when he tried to engage it, his targeting and radio went haywire. He decided to eject if it came within two miles and flew evasive manoeuvres. Once clear, he regained his instruments and contact with command. Gerb calls Tehran one of his favourite encounters and promises a video on air force encounters worldwide (the later [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters]]).
 
 ::wiki-compare{video="K_BZkOAw6E0" video-title="The First Commercial Flight Grounded Due to UFOs"}
 ---
-caption: "The three military encounters Gerb sets side by side, as the video describes them."
+caption: "Three military encounters that Gerb links by their jammed sensors, compared point by point as the video describes them."
 attributeLabel: "Point"
 subjects:
   - name: "Manises UFO Incident"
@@ -184,13 +184,13 @@ rows:
 
 ## The "debunk panel"
 
-"Like with any credible sighting with multiple eyewitnesses and multi-sensory data," Gerb says, the case has to face the sceptics. He starts from the [[Spanish Parliament]]'s September 1980 answer, which dismissed the sighting as optical illusions, then takes the three specific explanations in turn: the Escombreras refinery for the airliner's lights, stars and planets for what was seen from the ground, and the [[US 6th Fleet]] for the fighter's instruments. He calls the fleet explanation "both the most comical and most reasonable", and it is the one Cámara himself answered. His verdict is that the panel "doesn't hold up": it needs confused stars, a pilot's anxiety attack at a refinery tower and a fleet at an unknown distance all at once.
+"Like with any credible sighting with multiple eyewitnesses and multi-sensory data," Gerb says, the case has to face the sceptics. He starts from the [[Spanish Parliament]]'s September 1980 answer, which dismissed the sighting as optical illusions, and then takes the three specific explanations in turn: the Escombreras refinery for the airliner's lights, stars and planets for what was seen from the ground, and the [[US 6th Fleet]] for the fighter's instruments. He calls the fleet explanation "both the most comical and most reasonable", and it is the one Cámara himself answered. His verdict is that the panel "doesn't hold up": it needs confused stars, a pilot's anxiety attack at a refinery tower and a fleet at an unknown distance all at once.
 
 ::wiki-claim{video="K_BZkOAw6E0" video-title="The First Commercial Flight Grounded Due to UFOs"}
 ---
 label: "The official verdict and the sceptics' explanations"
 term: "Explanation"
-caption: "The explanations Gerb reviews, each with the answers given in the video. The video doesn't name who proposed the three specific explanations."
+caption: "The official verdict and three other explanations for the sighting that Gerb reviews, each followed by the replies given in the video. The video doesn't say who proposed the three specific explanations."
 claims:
   - title: "Optical illusions"
     by: "Spanish Parliament"
@@ -200,11 +200,11 @@ claims:
     responses:
       - by: "Gerb"
         stance: challenges
-        text: "Too many coincidences at once: confused stars, a refinery tower, a pilot's anxiety attack and a US fleet \"who knows how nearby\"."
+        text: "It needs too many coincidences at once: confused stars, a refinery tower, a pilot's anxiety attack and a US fleet \"who knows how nearby\"."
         cue: 878
   - title: "The refinery's flare stacks"
     by: "Sceptics"
-    text: "The Caravelle crew saw the combustion towers of the Escombreras refinery near Cartagena, and the captain landed in an anxiety attack."
+    text: "The Caravelle crew saw the combustion towers of the Escombreras refinery near Cartagena, and the captain landed because he was having an anxiety attack."
     cue: 728
     responses:
       - by: "Gerb"
@@ -218,7 +218,7 @@ claims:
     responses:
       - by: "Gerb"
         stance: challenges
-        text: "The explanation offered for every case. Trained observers were watching lights that flashed several colours and moved."
+        text: "This explanation is offered for every case, and here trained observers were watching lights that flashed several colours and moved."
         cue: 791
   - title: "US Sixth Fleet interference"
     by: "Sceptics"
@@ -236,7 +236,7 @@ claims:
 ---
 ::
 
-Gerb closes by granting that, true or false, Manises is "the first recorded story of a commercial airliner being grounded" because of a UFO, a case that "flies kind of under the radar" outside Spain, and by stating his own view that it is legitimate.
+Gerb ends by granting that, true or false, Manises is "the first recorded story of a commercial airliner being grounded" because of a UFO. He adds that the case "flies kind of under the radar" outside Spain, and states his own view that it is legitimate.
 
 ## Key Figures
 
@@ -257,7 +257,7 @@ entries:
     note: "Chased the objects for nearly ninety minutes, reported jammed avionics and a missile-radar lock, and rejected the Sixth Fleet explanation."
   - name: "Parviz Jafari"
     role: "Imperial Iranian Air Force major, F-4 pilot"
-    note: "Gerb's main parallel: his targeting and radio failed as a sphere from the 1976 Tehran object approached his jet."
+    note: "The case Gerb compares most closely: his targeting and radio failed as a sphere from the 1976 Tehran object approached his jet."
   - name: "David Fravor"
     role: "US Navy commander"
     note: "Cited for saying the 2004 Tic Tac objects jammed the jets' radar and sensors."
