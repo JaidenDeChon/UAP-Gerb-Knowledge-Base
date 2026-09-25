@@ -716,7 +716,7 @@ The overlap between the groups is his evidence. Bush sat on the Top Policy Group
 
 ::wiki-grid{cols=3}
 ::wiki-panel{title="Top Policy Group (1940s)"}
-The Manhattan Project's control group:
+The Manhattan Project's control group. Names in bold also appear in another of these three lists.
 
 - President Franklin D. Roosevelt, later [[Harry Truman]]
 - Vice President Henry Wallace
@@ -725,8 +725,8 @@ The Manhattan Project's control group:
 - **[[Vannevar Bush]]**, Office of Scientific Research and Development
 - James Conant, Bush's deputy
 ::
-::wiki-panel{title="Majestic 12, per the Eisenhower Briefing Document" tone="accent"}
-The alleged original membership:
+::wiki-panel{title="Majestic 12, as listed in the Eisenhower Briefing Document" tone="accent"}
+The alleged original members. Names in bold also appear in another of these three lists.
 
 - [[James Forrestal]], replaced by Walter Bedell Smith (1950)
 - Roscoe H. Hillenkoetter
@@ -742,7 +742,7 @@ The alleged original membership:
 - Lloyd Berkner
 ::
 ::wiki-panel{title="NSC 5412 Committee (1954)"}
-The Special Group created by Eisenhower:
+Also called the Special Group, set up by Eisenhower. Its seats are listed below; the name in bold also appears in another of these three lists.
 
 - Deputy Under Secretary of State
 - Deputy Secretary of Defense
