@@ -19,16 +19,16 @@ export const CLAIM_STANCES: readonly ClaimStance[] = ['supports', 'challenges', 
 /** Visible text for each stance tag: stance is never colour alone. */
 export const CLAIM_STANCE_LABEL: Record<ClaimStance, string> = {
   supports: 'Supports',
-  challenges: 'Challenges',
+  challenges: 'Disputes',
   host: 'Gerb\'s view',
-  unresolved: 'Unresolved',
+  unresolved: 'Open question',
 }
 
 /** One-line meaning for each stance, used as the tag's tooltip. */
 export const CLAIM_STANCE_HINT: Record<ClaimStance, string> = {
   supports: 'Backs the claim',
   challenges: 'Disputes the claim',
-  host: 'The video host\'s own reading',
+  host: 'Gerb\'s own view, given in the video',
   unresolved: 'Leaves the question open',
 }
 
