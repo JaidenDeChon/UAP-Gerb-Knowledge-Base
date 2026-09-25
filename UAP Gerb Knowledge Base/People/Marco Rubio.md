@@ -5,13 +5,13 @@ tags:
   - person
 ---
 
-Marco Rubio is a Republican US Senator from Florida who has been one of the most prominent Congressional advocates for UAP transparency and investigation. Rubio co-established congressional UAP inquiry mechanisms beginning in 2017, including provisions in the National Defense Authorization Act that created formal frameworks for reporting and investigating Unidentified Aerial Phenomena within the US military.
+Marco Rubio is a Republican US Senator from Florida who has been one of the most prominent Congressional advocates for UAP transparency and investigation. Starting in 2017, Rubio co-established ways for Congress to look into UAP, including provisions in the National Defense Authorization Act that set up formal frameworks for reporting and investigating Unidentified Aerial Phenomena within the US military.
 
 ## Role in UAP Oversight
 
-Rubio's sustained interest in UAP has made him one of the primary Congressional recipients of UAP whistleblower contact. UAP researcher [[Robert D. Morning Star]] stated that [[Mark McCandlish]] had been in direct contact with Rubio and was scheduled to testify before Senate elements on UAP matters in June 2021 — testimony that never took place due to McCandlish's death on April 13, 2021. The proximity of McCandlish's scheduled testimony to his death has been a central question raised by UAP researchers.
+Rubio's long-running interest in UAP has made him one of the main members of Congress whom UAP whistleblowers contact. UAP researcher [[Robert D. Morning Star]] stated that [[Mark McCandlish]] had been in direct contact with Rubio and was scheduled to testify before Senate elements on UAP matters in June 2021. That testimony never took place, because McCandlish died on April 13, 2021. UAP researchers have made the short gap between his death and the scheduled testimony a central question.
 
-Rubio is also a member of the "Gang of Eight" — the senior Congressional leadership group that receives classified intelligence briefings, which [[Mark McCandlish]] referenced in the context of UAP program oversight.
+Rubio is also a member of the "Gang of Eight", the senior Congressional leadership group that receives classified intelligence briefings. [[Mark McCandlish]] referred to this group when discussing oversight of UAP programs.
 
 ## Sources
 
