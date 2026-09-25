@@ -1183,6 +1183,11 @@
     "sha256": "263bae93807303317745a9826bd1ecfea5a5213e6b2d4add095f3100d4834ca2",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/People/John Podesta.md": {
+    "humanized_at": "2026-09-25T19:19:12Z",
+    "sha256": "42fadbd5c9a77bfe6612e10548710c300d446d043cbf28604476711f32114898",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/John Torrence Tate.md": {
     "humanized_at": "2026-09-25T19:18:48Z",
     "sha256": "b89b3d3e70615a3765cbe5ddd17a70823fec284adc942fe65657d306cf6de5d0",
