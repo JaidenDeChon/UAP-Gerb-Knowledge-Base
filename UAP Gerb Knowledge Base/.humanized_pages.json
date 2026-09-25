@@ -304,6 +304,11 @@
     "sha256": "dd43870b66edf276f9cfec82f4723412d27258c734d991ae5f35a237c5e8fe99",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/DARPA Security and Intelligence Directorate (SID).md": {
+    "humanized_at": "2026-09-25T23:43:41Z",
+    "sha256": "3659911e0109509aa640fdeb497a412df955316366ba6acb553ccac62904092a",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
