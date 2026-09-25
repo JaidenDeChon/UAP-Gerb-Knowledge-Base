@@ -672,7 +672,7 @@ Reached in 2025 after a year of trying and vetted over "many many many months", 
 ::wiki-panel{title="Jonathan Weygandt, Peru, 1997"}
 During [[Operation Laser Strike]], Marine Lance Corporal [[Jonathan Weygandt]] found an egg-shaped craft embedded in rock ([[Peru UFO Crash Incident]]). It cast no shadow, seemed to absorb light and had a shimmering green and purple "mother of pearl" field. Men in black fatigues with no insignia, whom Gerb takes for local Army special forces or parallel tier 1 personnel, held the Marines at gunpoint while two Army CH-47s landed DOE personnel in embroidered rain jackets, gas masks and MOPP gear. Gerb identifies them as a [[NEST (Nuclear Emergency Support Team)|NEST]] team.
 ::
-::wiki-panel{title="Ex-OGA contractor, Reddit, 2024"}
+::wiki-panel{title="Ex-contractor for another government agency, Reddit, 2024"}
 A former Air Force combat controller whose last posting was the [[24th Special Tactics Squadron|24th STS]] said that while contracting for an "other government agency" overseas, he saw a tier 1 team fly out on waiting CH-47s and return six hours later. Among them was his old troop chief, who had abruptly left the unit 16 months earlier. His own chief called it a crash retrieval, "not one of ours." The troop chief later said he belonged to a task force of tier 1 personnel under its own umbrella authority, outside ordinary oversight. On one of his three operations it recovered a sedan-sized oblong sphere from a "dry hole" with a "nesting doll" interior, where the air felt "soupy" like the space between two magnets.
 ::
 ::wiki-panel{title="Albert Bruce Collins, Berkeley, 1947"}
@@ -766,7 +766,7 @@ Gerb has previously proposed two General Accounting Office (GAO) reports, from M
 
 Gerb's gatekeeper section follows one thread: officials who pass through the NRO and a small set of offices he associates with running the programs. These are the acquisition under secretary's office named in the Wilson-Davis notes (today the [[Under Secretary of Defense for Acquisition and Sustainment (USD A&S)|USD(A&S)]]); its intelligence-community counterpart, the ODNI's Deputy Director for Acquisition, Technology and Facilities, which a July 2016 GAO report shows shares milestone authority over NRO acquisitions; the CIA DS&T and its Office of Global Access; and [[MITRE Corporation|MITRE]]. The table maps the connections the video gives for each person.
 
-::wiki-figure{caption="Connections the video cites for each of the thirteen, by office. NURO is the NRO's undersea sister agency. A blank cell means the video names no connection, not that none exists."}
+::wiki-figure{caption="Connections the video cites for each of the thirteen officials, by office. NURO (National Underwater Reconnaissance Office) is the NRO's undersea sister agency. A blank cell means only that the video names no connection."}
 | Official | NRO | CIA DS&T | Office of Global Access | DoD acquisition under secretary | ODNI AT&F | MITRE |
 |---|---|---|---|---|---|---|
 | [[Paul Kaminski]] | Yes, 1971-1976 |  |  | Under secretary, 1994-1997 |  | Board, from 2017 |
@@ -858,7 +858,7 @@ His own outline, as he restates it against the film:
 
 - Many siloed programs, each with its own administrator and non-traditional, "stripped" oversight rather than none.
 - A rotating head, a few people like Cheney who can see across silos.
-- Administrators, such as a joint Air Force and NRO effort, the [[CIA Directorate of Science and Technology|CIA DS&T]] and its OGA, NURO or DARPA.
+- Administrators, such as a joint Air Force and NRO effort, the [[CIA Directorate of Science and Technology|CIA DS&T]] and its Office of Global Access, the National Underwater Reconnaissance Office (NURO) or DARPA.
 - GOCOs and FFRDCs: following [[Andrew Kissner]], he believes custody of recovered material passed to government-owned, contractor-operated national labs in the early 1950s.
 - Prime contractors at the bottom: he thinks most staff there do not know what they work on, apart from special-programs directors. Some corporate programs may have gone rogue after a loss of control around 1989.
 - Retrieval teams under their own umbrella authority, not JSOC.
