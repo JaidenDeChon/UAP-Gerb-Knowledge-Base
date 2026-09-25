@@ -6,7 +6,7 @@ tags:
   - person
 ---
 
-Thornton Leigh Page (1913–1996) was an American astronomer who sat on the [[Robertson Panel]], the CIA-sponsored committee of scientists that met in Washington, D.C. from 14 to 18 January 1953 to review US Air Force UFO case files. He was a signatory to the panel's report, which recommended that national security agencies strip UFOs of their "special status". His later account of how the panel was steered is one of the main pieces of evidence cited for the claim that its conclusions were decided in advance.
+Thornton Leigh Page (1913–1996) was an American astronomer who sat on the [[Robertson Panel]], the CIA-sponsored committee of scientists that met in Washington, D.C. from 14 to 18 January 1953 to review US Air Force UFO case files. He signed the panel's report, which recommended that national security agencies strip UFOs of their "special status". His later account of how the panel was steered is one of the main pieces of evidence cited for the claim that its conclusions were decided in advance.
 
 ## Career
 
