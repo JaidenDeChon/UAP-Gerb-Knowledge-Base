@@ -328,6 +328,11 @@
     "sha256": "7e6c7d584536832e1f880fb37e9b90dd91e858c0299558ae90013957ea9cb320",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/People/Curtis LeMay.md": {
+    "humanized_at": "2026-09-25T19:07:23Z",
+    "sha256": "600aef69c431cc9020c93b595eff4c4c7c1ccbde568759c4a4f50c4970fda642",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/David Hilton.md": {
     "humanized_at": "2026-09-25T19:07:03Z",
     "sha256": "770ee3488306919f7ce5696c5f26986d5e674650caf86561bed52984fb438427",
