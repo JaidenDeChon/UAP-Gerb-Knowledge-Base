@@ -14,33 +14,33 @@ tags:
 ---
 stats:
   - value: 1972
-    label: Fast walker data recorded since
-    hint: "Per the 1989 AFIT thesis"
+    label: First fast walker data
+    hint: "Satellites have logged objects entering or leaving Earth's atmosphere since then, per a 1989 Air Force Institute of Technology thesis"
   - value: "$155,000"
-    label: NORAD's 1979 FOIA quote
-    hint: "For its UAP tracking data"
+    label: NORAD's 1979 fee estimate
+    hint: "Its price for searching its UAP tracking data, in reply to a Freedom of Information Act request"
   - value: "30°"
     label: Course correction
-    hint: "Bob Fish's fast walker"
+    hint: "The turn an object made on its way to Earth, in the account Bob Fish relayed"
   - value: 238
     label: DSP scans, Tehran 1976
-    hint: "About 39.7 minutes"
+    hint: "About 39.7 minutes of tracking, per a Defense Support Program satellite printout"
 ---
 ::
 
 ## Overview
 
-This video is Gerb's introduction to **[[Fast Walkers|fast walkers]]**: the designation that [[NORAD]] and the [[US Space Force]] use for unidentified objects entering or leaving Earth's atmosphere, as opposed to "UFO" or "UAP", which in the government's usage cover only craft in the atmosphere and under the oceans. Slow walkers are the low-velocity counterpart. Gerb's thesis is that the separate term is more than jargon: it lets the government answer Freedom of Information Act requests on fast walkers with blanket classification. He shows the pattern running from NORAD's 1979 reply to [[Barry J. Greenwood]] and [[Lawrence Fawcett]] to the denials [[John Greenewald]] of [[The Black Vault]] received from [[US Northern Command]] in 2013 and from the Space Force in late 2023.
+In this video Gerb introduces [[Fast Walkers|fast walkers]], the term [[NORAD]] and the [[US Space Force]] use for unidentified objects entering or leaving Earth's atmosphere, as opposed to "UFO" or "UAP", which in the government's usage cover only craft in the atmosphere and under the oceans. Slow walkers are the low-velocity counterpart. Gerb argues that the separate term lets the government answer Freedom of Information Act requests on fast walkers with blanket classification. He traces the pattern from NORAD's 1979 reply to [[Barry J. Greenwood]] and [[Lawrence Fawcett]] to the denials [[John Greenewald]] of [[The Black Vault]] received from [[US Northern Command]] in 2013 and from the Space Force in late 2023.
 
-From the two unclassified Air Force theses the 2013 denial did release, Gerb traces fast walker detection to the ballistic missile early warning satellites of the **[[Defense Support Program (DSP)]]**, which the 1989 thesis says have recorded such objects since 1972. He adds [[J. Allen Hynek]]'s 1967 statement that NORAD had been tracking UFOs since 1957, then turns to the centrepiece: a March 2015 email, published by [[WikiLeaks]], in which former government contractor [[Bob Fish]] told [[John Podesta]] that DSP "collects hard data on unidentified flying objects" and described a fast walker that made a 30-degree course correction on its way to Earth.
+From the two unclassified Air Force theses the 2013 denial did release, Gerb traces fast walker detection to the ballistic missile early warning satellites of the [[Defense Support Program (DSP)]], which the 1989 thesis says have recorded such objects since 1972. He adds [[J. Allen Hynek]]'s 1967 statement that NORAD had been tracking UFOs since 1957. The centrepiece of the video is a March 2015 email, published by [[WikiLeaks]], in which former government contractor [[Bob Fish]] told [[John Podesta]] that DSP "collects hard data on unidentified flying objects" and described a fast walker that made a 30-degree course correction on its way to Earth.
 
-Two cases then tie DSP to specific fast walkers: the [[1984 DSP Indian Ocean Detection|5 May 1984 Indian Ocean detection]] publicized by [[Joe Stefula]], and the DSP printout that [[Lee Graham]] and [[Ron Regehr]] of [[Aerojet]] say recorded the [[1976 Tehran UFO Incident]]. Gerb follows both down chains of long-dead web pages and concludes that each ends, for now, in a dead end; he asks viewers for help reading the printout images. He closes on the [[Aerospace Corporation]], which the 2014 DSP fact sheet names as a user of DSP data and which [[Jacques Vallee]]'s journals and [[Ross Coulthart]]'s source both connect to covert UFO work.
+Two cases then tie DSP to specific fast walkers: the [[1984 DSP Indian Ocean Detection|5 May 1984 Indian Ocean detection]] publicized by [[Joe Stefula]], and the DSP printout that [[Lee Graham]] and [[Ron Regehr]] of [[Aerojet]] say recorded the [[1976 Tehran UFO Incident]]. Gerb follows both through long-dead web pages and concludes that, for now, each is a dead end. He asks viewers for help reading the printout images. He closes on the [[Aerospace Corporation]], which the 2014 DSP fact sheet names as a user of DSP data and which [[Jacques Vallee]]'s journals and [[Ross Coulthart]]'s source both connect to covert UFO work.
 
 ## Chronology
 
 ::wiki-timeline{video="Tubx-CaAaOs" video-title="FASTWALKERS – UFOs Outside Earth"}
 ---
-help: "The bar pinned above the entries is a ruler from 1957 to 2023. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line capped with a downward arrow is where Gerb is. The video is not told in date order (it opens on the 2023 denial), so the playhead jumps about. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Timestamps jump the mini-player to that moment."
+help: "The bar above the list runs from 1957 to 2023, with a coloured mark for each entry; taller marks are major ones. Click the bar to jump to a year. The dark line shows where you are reading. Play from here starts the video at that entry, and once it is playing a green line shows where Gerb is. The video does not go in date order (it opens on the Space Force's 2023 denial), so the green line jumps around. Turn on Follow video to have the list scroll along with the video; scrolling yourself turns it off. Click a timestamp to play the video from that moment."
 events:
   - date: "1957"
     title: "NORAD begins tracking UFOs, per Hynek"
@@ -65,7 +65,7 @@ events:
   - date: "1970"
     title: "DSP-1 goes into orbit"
     cue: 368
-    summary: "The first Defense Support Program satellite reaches orbit. DSP is the US's primary ballistic missile early warning system; its data is relayed to NORAD, and the program now sits within the US Space Force."
+    summary: "The first Defense Support Program satellite reaches orbit. DSP is the US's primary ballistic missile early warning system. Its data is relayed to NORAD, and the program is now part of the US Space Force."
     category: program
     significance: notable
     entities:
@@ -97,7 +97,7 @@ events:
   - date: "1979"
     title: "NORAD prices a search of its UFO tracking data at $155,000"
     cue: 240
-    summary: "As documented in Clear Intent by Barry Greenwood and Lawrence Fawcett, NORAD answered a FOIA request for UAP tracking data with a $155,000 estimate, well over half a million dollars today, and three years later refused to waive the fees."
+    summary: "According to Clear Intent by Barry Greenwood and Lawrence Fawcett, NORAD answered a FOIA request for UAP tracking data with a $155,000 estimate, well over half a million dollars today. Three years later it refused to waive the fees."
     category: document
     significance: major
     entities:
@@ -117,7 +117,7 @@ events:
   - date: "1989"
     title: "Osedacz thesis on orbit determination of fast walkers"
     cue: 287
-    summary: "USAF Captain Richard P. Osedacz's AFIT thesis details joint NORAD and Air Force Foreign Technology Division work on uncatalogued spacebound objects seen by reflected sunlight, noting that geosynchronous satellites detect them while ground sensors cannot."
+    summary: "USAF Captain Richard P. Osedacz's Air Force Institute of Technology thesis details joint NORAD and Air Force Foreign Technology Division work on uncatalogued spacebound objects seen by reflected sunlight. It notes that geosynchronous satellites detect them while ground sensors cannot."
     category: document
     significance: notable
     entities:
@@ -169,7 +169,7 @@ events:
   - date: "2008-03"
     title: "Townsend thesis defines fast walkers"
     cue: 381
-    summary: "Captain Bradley R. Townsend's AFIT thesis describes objects moving too fast relative to the image background to be within the atmosphere, 'commonly called Fast Walkers', and still finds no way to determine their range."
+    summary: "Captain Bradley R. Townsend's Air Force Institute of Technology thesis describes objects moving too fast relative to the image background to be within the atmosphere, 'commonly called Fast Walkers', and still finds no way to determine their range."
     category: document
     significance: notable
     entities:
@@ -223,7 +223,7 @@ events:
 
 ## Walkers: UFOs outside the atmosphere
 
-Gerb opens on the terminology. In the US government's usage, "UFO" and "UAP" cover phenomena and trans-medium craft operating within Earth's atmosphere and under its oceans. Objects entering or leaving the atmosphere get a different call sign, the "walker": a **[[Slow Walkers|slow walker]]** at low velocity and a **fast walker** at high velocity. Gerb confines the video to fast walkers. He argues the distinction matters most for disclosure: at a time of increasing, if surface-level, UFO transparency, a request that asks about UFOs never reaches records filed under walkers, and a request that does ask about walkers can be refused outright.
+Gerb opens on the terminology. In the US government's usage, "UFO" and "UAP" cover phenomena and trans-medium craft operating within Earth's atmosphere and under its oceans. Objects entering or leaving the atmosphere get a different call sign, the "walker": a [[Slow Walkers|slow walker]] at low velocity and a fast walker at high velocity. Gerb confines the video to fast walkers. He argues that the distinction matters most for disclosure. UFO transparency is increasing, if only on the surface, but a request that asks about UFOs never reaches records filed under walkers, and one that does ask about walkers can be refused outright.
 
 ## Three denials
 
@@ -268,11 +268,11 @@ rows:
 
 ## The paper trail: the theses, NORAD and DSP
 
-The two papers Northern Command did release are master's theses from the [[Air Force Institute of Technology]]. The first, *Orbit Determination of Sunlight Illuminated Objects Detected by Overhead Platforms* (1989), by USAF Captain [[Richard P. Osedacz]], details joint work by NORAD and the [[Air Force Foreign Technology Division]] on uncatalogued spacebound objects seen by reflected sunlight as they cross satellite sensors: the objects designated fast walkers. It says data on them has been recorded since 1972 by "certain ballistic missile early warning satellite systems located at various geostationary locations". It notes that working out their orbits had defeated an earlier effort by a researcher named Wong. And, strikingly for Gerb, it says fast walker analysis had become an increasingly important issue because geosynchronous satellites detect the objects while ground-based sensors cannot.
+The two papers Northern Command did release are master's theses from the [[Air Force Institute of Technology]]. The first, *Orbit Determination of Sunlight Illuminated Objects Detected by Overhead Platforms* (1989), by USAF Captain [[Richard P. Osedacz]], details joint work by NORAD and the [[Air Force Foreign Technology Division]] on uncatalogued spacebound objects seen by reflected sunlight as they cross satellite sensors: the objects designated fast walkers. It says data on them has been recorded since 1972 by "certain ballistic missile early warning satellite systems located at various geostationary locations". It notes that working out their orbits had defeated an earlier effort by a researcher named Wong. What strikes Gerb most is its statement that fast walker analysis had become an increasingly important issue because geosynchronous satellites detect the objects while ground-based sensors cannot.
 
 Gerb reads the 1972 database as a product of DSP, the US's primary ballistic missile early warning system. Its first satellite went into orbit in 1970, its data is relayed to NORAD, and it is now part of the Space Force. The second thesis, *Space Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors* (2008), by Captain [[Bradley R. Townsend]] at [[Wright-Patterson Air Force Base]], revisits the problem and gives the plainest definition of the term: an object seen in a down-looking satellite image, "moving too fast relative to the background of the image to be located within the atmosphere." It comments on the 1972 study, again cites early warning satellites as the source of the data, and again finds no way to determine the range to a fast walker.
 
-The NORAD thread runs back further. On 6 January 1967, Hynek, scientific adviser to [[Project Blue Book]], said at [[Goddard Space Flight Center]] that NORAD tracks UFOs, had done so since 1957, and that every continental US military UFO case in the Blue Book files is designated a NORAD case.
+NORAD's tracking of UFOs goes back further. On 6 January 1967, J. Allen Hynek, scientific adviser to [[Project Blue Book]], said at [[Goddard Space Flight Center]] that NORAD tracks UFOs, had done so since 1957, and that every continental US military UFO case in the Blue Book files is designated a NORAD case.
 
 ## Bob Fish's email to John Podesta
 
@@ -307,7 +307,7 @@ Toward the end of the email, Fish points to a line in the 2014 DSP fact sheet as
 
 ## The 1984 Indian Ocean fast walker
 
-The first case Gerb uses to connect DSP to a specific fast walker dates to 5 May 1984. An anonymous source told Joe Stefula, a retired Army Criminal Investigation Command agent, that a highly classified DSP satellite had detected a UAP that came within 1.8 miles of it, passed below it over the Indian Ocean at 22,000 mph, changed course, and flew back into outer space. Gerb notes how much this sounds like the incident Fish described to Podesta. With so little published, tracking it down was "an absolute bear". He found two sites, both since taken down, which describe the object as first spotted by the "ultra sensitive" DSP satellite, with the infrared capacity to spot small heat sources on Earth's surface. That matches the 1989 thesis's account of satellites catching light or heat off fast walkers.
+The first case Gerb uses to connect DSP to a specific fast walker dates to 5 May 1984. An anonymous source told Joe Stefula, a retired Army Criminal Investigation Command agent, that a highly classified DSP satellite had detected a UAP that came within 1.8 miles of it, passed below it over the Indian Ocean at 22,000 mph, changed course, and flew back into outer space. Gerb notes how much this sounds like the incident Fish described to Podesta. Little has been published on it, and Gerb calls tracking it down "an absolute bear". He found two sites, both since taken down, which describe the object as first spotted by the "ultra sensitive" DSP satellite, with the infrared capacity to spot small heat sources on Earth's surface. That matches the 1989 thesis's account of satellites catching light or heat off fast walkers.
 
 One of them, the old blog *Deb's UFO Research*, illustrates the event in three images: the DSP-1 satellite, the fast walker heading toward Earth, and its reversal back into open space. It also carries a trajectory diagram credited to Stefula, whose caption has the object passing in front of and within 15 miles of the satellite, curving outward away from Earth without impact or contact, and being tracked for another nine minutes until it disappeared. The site also shows what may be a recreation, or an image, of the top-secret incident report summary. Gerb cannot decode its terms, such as the "UCF" listing and "ST in the field of view", and asks viewers who can to get in touch.
 
@@ -319,7 +319,7 @@ The second case is one of Gerb's favourite encounters, the [[1976 Tehran UFO Inc
 ---
 kind: transmission
 label: "Gerb's search trail"
-caption: "The order in which Gerb followed the links, which runs back in time: each page is older than the one before it, and every site on the trail is now defunct."
+caption: "The pages Gerb followed, in the order he found them. Each is older than the one before, and every site on the trail is now defunct."
 steps:
   - text: "NICAP's report on the 1976 Tehran case"
     note: "Links to a long-dead email chain."
@@ -345,11 +345,11 @@ steps:
 ---
 ::
 
-In the email chain, [[Brad Sparks]], an early founder of [[Citizens Against UFO Secrecy (CAUS)|Citizens Against UFO Secrecy]], raises concerns about the DSP detection: the satellite may have captured the jets scrambled to pursue the UFO rather than the UFO itself, and the "out of focus graphic image" gives the date but not the time. The image's "238 scans possible SR" is what gives the case its duration. DSP scans once every ten seconds, so 238 scans is about 39.7 minutes; Gerb suggests "SR" may stand for [[Strategic Reconnaissance|strategic reconnaissance]].
+In the email chain, [[Brad Sparks]], an early founder of [[Citizens Against UFO Secrecy (CAUS)|Citizens Against UFO Secrecy]], raises concerns about the DSP detection: the satellite may have captured the jets scrambled to pursue the UFO rather than the UFO itself, and the "out of focus graphic image" gives the date but not the time. The image's "238 scans possible SR" gives the case its duration. DSP scans once every ten seconds, so 238 scans is about 39.7 minutes; Gerb suggests "SR" may stand for [[Strategic Reconnaissance|strategic reconnaissance]].
 
 ## Weighing the DSP cases
 
-Gerb sets the three DSP accounts side by side himself: the 1984 case "sounds very similar" to Fish's, and the Tehran printout shows a similar structure to the 1984 one, with the term UCF in both. Both documented cases, though, end without enough data to go further.
+Gerb makes the comparison between the three DSP accounts himself. He says the 1984 case "sounds very similar" to Fish's, and that the Tehran printout has a similar structure to the 1984 one, with the term UCF in both. Neither documented case, though, has enough data to take further.
 
 ::wiki-compare{video="Tubx-CaAaOs" video-title="FASTWALKERS – UFOs Outside Earth"}
 ---
@@ -452,7 +452,7 @@ A source told Ross Coulthart of an aerospace company in [[Long Beach, California
 ::
 ::
 
-Coulthart, Gerb reminds viewers, "is no slouch": he broke the [[David Grusch]] story. The corporation deserves its own investigation, Gerb says, but it is telling that the Space Force and DSP would be analysing DSP data with a company possibly tied to covert UAP study, to develop "portions of a hazard support system that will aid public safety in the future."
+Coulthart, Gerb reminds viewers, "is no slouch": he broke the [[David Grusch]] story. Gerb says the corporation deserves its own investigation, but he finds it telling that the Space Force and DSP would be analysing DSP data with a company possibly tied to covert UAP study, to develop "portions of a hazard support system that will aid public safety in the future."
 
 ## Key Figures
 
@@ -498,7 +498,7 @@ entries:
 - NORAD answered a 1979 request for its UAP tracking data with a $155,000 estimate and refused to waive the fees three years later; US Northern Command called fast walker records "currently and properly classified" in 2013; the US Space Force issued a full denial in late 2023.
 - A 1989 Air Force Institute of Technology thesis states that fast walker data has been recorded since 1972 by ballistic missile early warning satellites at geostationary locations, which Gerb identifies as the Defense Support Program; a 2008 thesis defines fast walkers as objects moving too fast to be within the atmosphere.
 - J. Allen Hynek said in January 1967 that NORAD had tracked UFOs since 1957 and that every continental US military UFO case in the Blue Book files is a NORAD case.
-- In a March 2015 email to John Podesta, published by WikiLeaks, Bob Fish said DSP collects hard data on UFOs and relayed a DSP team member's account of a fast walker that came from deep space, passed close to the satellite and made a 30-degree course correction, indicating controlled flight.
+- In a March 2015 email to John Podesta, published by WikiLeaks, Bob Fish said DSP collects hard data on UFOs and relayed a DSP team member's account of a fast walker that came from deep space, passed close to the satellite and made a 30-degree course correction, which Fish took as a sign of controlled flight.
 - On 5 May 1984, according to an anonymous source who spoke to Joe Stefula, a DSP satellite tracked an object that came within 1.8 miles of it over the Indian Ocean at 22,000 mph before turning back into space; Stefula said the DSP printout for that date matched.
 - Lee Graham and Ron Regehr of Aerojet say a DSP printout recorded an anomalous object during the 1976 Tehran incident ("238 scans possible SR", about 39.7 minutes); Brad Sparks questioned whether it caught the pursuing jets instead.
 - The Aerospace Corporation, named in the 2014 DSP fact sheet as a user of DSP data, is suspected by Jacques Vallee and colleagues, and by Ross Coulthart's source, of involvement in covert UFO work.
