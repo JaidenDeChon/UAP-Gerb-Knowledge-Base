@@ -15,15 +15,15 @@ tags:
 stats:
   - value: 20
     label: Iceberg entries
-    hint: "Layer 1 of 6, \"the Observer layer\""
+    hint: "Layer 1 of the iceberg's 6, which Gerb calls \"the Observer layer\""
   - value: "3 hours"
-    label: "The Hills' missing time"
-    hint: "A 178-mile, 4-hour drive took 7"
+    label: "Betty and Barney Hill's missing time"
+    hint: "Their 178-mile drive should have taken 4 hours but took 7"
   - value: "0.7"
     label: "Earth on the Kardashev scale"
-    hint: "Type I is a planetary civilization"
+    hint: "A Type I civilization harnesses all the energy of its planet"
   - value: "39m"
-    label: Runtime
+    label: Video length
 ---
 ::
 
@@ -37,9 +37,9 @@ The layer's one sustained argument comes at its end. Gerb retells the [[1952 UFO
 
 ## The layer at a glance
 
-Gerb's verdict on each entry, in the order he covers them.
+The table gives Gerb's verdict on each entry, in the order he covers them.
 
-::wiki-figure{caption="The twenty entries of Level 1 and Gerb's take on each. Where he gives no verdict, the take summarizes how he treats the entry."}
+::wiki-figure{caption="Gerb's view of each of the twenty entries on Level 1 of the iceberg. Where he gives no verdict, the last column says how he treats the entry instead."}
 | # | Entry | Kind | Gerb's take |
 |---|---|---|---|
 | 1 | Extraterrestrial life | Concept | Defined only: any life, carbon-based or otherwise, that did not originate on Earth |
@@ -70,7 +70,7 @@ The entries are not in date order, but most of them carry dates. Put together, t
 
 ::wiki-timeline{video="1en219Vk9K4" video-title="The Alien and UFO Obscure Oddities Iceberg (Level 1)"}
 ---
-help: "The dated parts of the layer's twenty entries, gathered into one chronology. The bar pinned above the entries is a ruler of the whole span; its ticks are the entries, coloured by category and taller for major ones. Click the ruler to jump to the nearest one. The dashed marker is the 1953 Robertson Panel, which Gerb treats as the origin of the UFO stigma. While the video plays, the playhead jumps around the ruler, because Gerb covers the entries in the iceberg's order, not by date. Timestamps jump the mini-player to that moment."
+help: "The dated events from the video's twenty iceberg entries, in date order. The bar above the list has a mark for each event at its year, coloured by type; taller marks are major events. Click the bar to jump to a year. The dashed line labelled Robertson Panel marks 1953, where Gerb places the origin of the stigma around UFOs. Play from here starts the video at the event you are reading. While the video plays, a green line shows the event it has reached, and it jumps back and forth because Gerb covers the entries in the iceberg's order, not by date. Click a timestamp to play the video from that moment."
 hinges:
   - year: 1953
     label: "Robertson Panel"
@@ -258,7 +258,7 @@ events:
       - "Phoenix Lights"
   - date: "2013"
     title: "The CIA acknowledges Area 51"
-    summary: "Unacknowledged for decades, the base near Groom Lake, Nevada, was officially acknowledged by the CIA in 2013 in response to a Freedom of Information Act request."
+    summary: "The CIA officially acknowledged the base near Groom Lake, Nevada, in 2013, in response to a Freedom of Information Act request. It had gone unacknowledged for decades."
     category: document
     significance: notable
     cue: 1741
@@ -299,8 +299,9 @@ The silent craft, which reminded Barney of a large pancake, hovered 80 to 100 fe
 
 The couple reached home with incomplete, fragmented memories. About ten days later Betty had vivid dreams on five successive nights, in which small humanoids, 5 feet to 5 feet 4 inches tall, escorted her with Barney walking behind, and later returned her to her car. Their 178-mile drive should have taken about four hours but had taken seven, so the Hills sought hypnosis to explain the three missing hours.
 
-- **Barney's first session**, which Gerb calls extremely disturbing: he recalled fleeing the craft, then feeling an irresistible urge to pull off the road into the woods, where six figures stood on a dirt road. One stared into his eyes: "All I see are these eyes... they're just up close to me, pressing against my eyes."
-- **Betty's sessions**, "remarkably similar" to Barney's: she recalled being aboard the craft, the technology she saw, and a star map in what she guessed was its control room. Some read the map as showing the Sun and the beings' home in the Zeta Reticuli system (see the claims below).
+In his first session, which Gerb calls extremely disturbing, Barney recalled fleeing the craft, then feeling an irresistible urge to pull off the road into the woods, where six figures stood on a dirt road. One stared into his eyes: "All I see are these eyes... they're just up close to me, pressing against my eyes."
+
+Betty's sessions were "remarkably similar" to Barney's. She recalled being aboard the craft, the technology she saw, and a star map in what she guessed was its control room. Some read the map as showing the Sun and the beings' home in the Zeta Reticuli system (see the claims below).
 
 Gerb says there is "a lot more to study" in the case than a segment of a few minutes can cover.
 
@@ -319,8 +320,8 @@ Gerb ends the layer with the case he considers the most consequential. On Saturd
 ::wiki-chain{video="1en219Vk9K4" video-title="The Alien and UFO Obscure Oddities Iceberg (Level 1)"}
 ---
 kind: consequence
-label: "From the radar scopes to the stigma"
-caption: "Gerb's case that the 1952 Washington sightings lead 'directly' to the decades-long stigma around UFOs, step by step as he tells it. The panel's brief is quoted from its report; the last step is his conclusion."
+label: "From radar sightings to the UFO stigma"
+caption: "Gerb's argument, step by step, that the 1952 radar sightings over Washington led 'directly' to the decades-long stigma around UFOs. The Robertson Panel's brief is quoted from its report; the last step is Gerb's own conclusion."
 steps:
   - name: "Edward Nugent"
     date: "1952-07-19"
@@ -355,8 +356,8 @@ Seven entries set a claim or an explanation against an answer. Gerb sides with t
 
 ::wiki-claim{video="1en219Vk9K4" video-title="The Alien and UFO Obscure Oddities Iceberg (Level 1)"}
 ---
-label: "Claims and answers"
-caption: "Claims and explanations the video records for seven entries, and how Gerb and others answer them."
+label: "Claims and how they were answered"
+caption: "The claims and explanations raised by seven of the iceberg entries in this video, with how Gerb and others answer each one."
 claims:
   - title: "Crop circles are man-made"
     by: ["Doug Bower", "Dave Chorley"]
@@ -474,7 +475,7 @@ Three of the layer's entries describe what aliens are supposed to look like, and
 
 ::wiki-compare{video="1en219Vk9K4" video-title="The Alien and UFO Obscure Oddities Iceberg (Level 1)"}
 ---
-caption: "The three alien archetypes on Level 1, point by point, as Gerb describes them."
+caption: "The three kinds of alien on Level 1 of the iceberg, compared point by point as Gerb describes them."
 attributeLabel: "Point"
 subjects:
   - name: "Grays"
