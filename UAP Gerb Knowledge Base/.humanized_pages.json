@@ -98,6 +98,11 @@
     "sha256": "3cf1724caa851c2e66780dde1926e0000dcee9f9ca09b175d6671862d57bdf45",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/People/Barney Hill.md": {
+    "humanized_at": "2026-09-25T19:05:42Z",
+    "sha256": "bec7fd3dc47cd82db028b59b83a17c7273a01db43e2bbb74e8282f0b72736939",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/Bill Burns.md": {
     "humanized_at": "2026-09-25T19:05:09Z",
     "sha256": "7dc149d3ccdb6a7ed55d6811611f3c7e26ba6410f365b7b0884f364872d6f7cc",
