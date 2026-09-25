@@ -9,7 +9,7 @@ James T. Lacatski is a former Defense Intelligence Agency rocket scientist who c
 
 ## Statements
 
-Lacatski has written that the United States was in possession of a craft of unknown origin and had gained access to its interior, a craft with a streamlined shape suited to aerodynamic flight but with no intakes, exhaust, wings or control surfaces. In an interview clip played in UAP Gerb's *Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs*, he declines to go beyond what he wrote, says that going to Congress "would be a red line" for him, and answers a question about a subpoena with "let's cross that bridge when we come to it". Gerb cites this among the reasons he doubts subpoenas would get answers from figures such as Lacatski, [[Glenn Gaffney]] or [[Sean Kirkpatrick]].
+Lacatski has written that the United States had possession of a craft of unknown origin and had gained access to its interior. By his account, the craft had a streamlined shape suited to aerodynamic flight but no intakes, exhaust, wings or control surfaces. In an interview clip that Gerb plays in his video *Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs*, Lacatski declines to go beyond what he wrote, says that going to Congress "would be a red line" for him, and answers a question about a subpoena with "let's cross that bridge when we come to it". Gerb cites this among the reasons he doubts subpoenas would get answers from figures such as Lacatski, [[Glenn Gaffney]] or [[Sean Kirkpatrick]].
 
 ## Sources
 
