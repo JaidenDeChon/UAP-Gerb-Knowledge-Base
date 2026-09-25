@@ -404,6 +404,11 @@
     "sha256": "4e2f49f9249f114b02eb675904085a4dc5c5f252846ea4a6520ce9d3632b802d",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/EarthTech.md": {
+    "humanized_at": "2026-09-25T23:47:19Z",
+    "sha256": "f53a85bf79c14ab9fd5913ee27accb1c533a6700e01421829a4e0cf7ffa7ee96",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
