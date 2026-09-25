@@ -963,6 +963,11 @@
     "sha256": "42a09f5b16f1b33422264a67c5b69d4a9bc05ddc622ab90b42334e50b827f1f0",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/People/Jacques Vallee.md": {
+    "humanized_at": "2026-09-25T19:16:02Z",
+    "sha256": "81aa671fa8bbcf3dbae2f348e5c72f0503d28f96a11b05e2d91d8ce1dcb07f04",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/James Forrestal.md": {
     "humanized_at": "2026-09-25T19:15:31Z",
     "sha256": "67b0ba8f6c33d86b0c249287f089eb3f0856189997e7b6f9f889eccfadcba69f",
