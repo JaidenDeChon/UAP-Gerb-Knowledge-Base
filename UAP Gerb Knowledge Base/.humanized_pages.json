@@ -274,6 +274,11 @@
     "sha256": "da281a02eb7517c4903fdd8f8f75338c862d01df8aa949b6026fc937277654ca",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/CIA.md": {
+    "humanized_at": "2026-09-25T23:42:18Z",
+    "sha256": "ed1c38cd22d32b6035e41a7f810ddeaf6c87970f0cb5ee566377a6fd45765aac",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
