@@ -5,21 +5,21 @@ tags:
   - person
 ---
 
-**Galeazzo Ciano, Count of Cortellazzo and Buccari** (1903–1944) was an Italian diplomat and politician who served as Foreign Minister of Fascist Italy from 1936 to 1943 under his father-in-law, dictator [[Benito Mussolini]]. Ciano married Mussolini's daughter Edda Mussolini in 1930, cementing his position within the fascist inner circle.
+**Galeazzo Ciano, Count of Cortellazzo and Buccari** (1903–1944) was an Italian diplomat and politician who served as Foreign Minister of Fascist Italy from 1936 to 1943 under his father-in-law, dictator [[Benito Mussolini]]. Ciano married Mussolini's daughter Edda Mussolini in 1930, which secured his place in the fascist inner circle.
 
 ## Role in RS-33
 
-Due to the strict information control exercised by the fascist propaganda machine of the [[Agenzia Stefani]], which covered all government communications outside the highest authorities, Ciano was among the very few officials read into the top-secret [[RS-33 (Gabinetto RS 33)]] group examining the craft recovered near [[Magenta, Italy]] in 1933. Along with Mussolini and Air Marshal [[Italo Balbo]], Ciano formed part of the political leadership overseeing the program, while scientific support was provided by astronomer [[Gino Cecchini]] and possibly [[Guglielmo Marconi]].
+The [[Agenzia Stefani]], the fascist propaganda machine, kept strict control of information and handled all government communications outside the highest authorities. Because of this, Ciano was one of very few officials given access to the top-secret [[RS-33 (Gabinetto RS 33)]] group, which examined the craft recovered near [[Magenta, Italy]] in 1933. With Mussolini and Air Marshal [[Italo Balbo]], Ciano was part of the political leadership overseeing the program. Astronomer [[Gino Cecchini]], and possibly [[Guglielmo Marconi]], gave it scientific support.
 
-Ciano's direct involvement is confirmed by his explicit naming in fascist UFO sighting documents from the post-Magenta period, though his famous wartime diaries make no mention of the RS-33 — likely due to the program's extreme classification level.
+Fascist documents on UFO sightings from the period after Magenta name Ciano explicitly, which confirms his direct involvement. His famous wartime diaries never mention RS-33, probably because the program was so highly classified.
 
 ## Connection to US Recovery
 
-Researcher speculation exists around a potential connection between Ciano's wife Edda Ciano (Mussolini's daughter), [[Allan W. Dulles]], the Ciano Diaries, and Operation Sunrise as a possible front or facilitating mechanism for the U.S. recovery of the Magenta craft from the collapsing fascist state in 1944-1945, though this research remains exploratory.
+Some researchers have speculated about a connection between Ciano's wife Edda Ciano (Mussolini's daughter), [[Allan W. Dulles]], the Ciano Diaries and Operation Sunrise. In this theory, Operation Sunrise may have been a front for the US recovery of the Magenta craft from the collapsing fascist state in 1944-1945, or a way to make it happen. The research is still exploratory.
 
 ## Death
 
-Ciano was executed by firing squad in January 1944 following his involvement in the Gran Council of Fascism vote that deposed Mussolini in July 1943.
+Ciano was executed by firing squad in January 1944 after he took part in the Gran Council of Fascism vote that deposed Mussolini in July 1943.
 
 ## Sources
 
