@@ -694,6 +694,11 @@
     "sha256": "eae6a256c27e2f19d410efc24f3dd743b5a23b0829b197e240907f8101628d4d",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/Navy Special Program.md": {
+    "humanized_at": "2026-09-25T23:57:28Z",
+    "sha256": "3aedc094d705f207cf3ab3755844defdfdaa25fbf9787cfaba61110c439eaaa5",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
