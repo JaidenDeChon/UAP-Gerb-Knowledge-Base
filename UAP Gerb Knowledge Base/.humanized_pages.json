@@ -38,6 +38,11 @@
     "sha256": "39d9eeac96534d555c0d784f8525f224d2c586735d6fc5bcf2f7ec2894c131ec",
     "cold_reader": true
   },
+  "app/app/components/content/WikiRoster.vue": {
+    "humanized_at": "2026-09-25T16:56:50Z",
+    "sha256": "3f36ae97291dfb0e5de60c93b8acbb3f279887f0ff861ad3b243fbb9a1964f4e",
+    "cold_reader": true
+  },
   "app/app/components/content/WikiTimeline.vue": {
     "humanized_at": "2026-09-25T16:50:12Z",
     "sha256": "d03dc68c3c8b0264361cea21df683d260878dc59bd4ba0259b338f1b0b1884cb",
