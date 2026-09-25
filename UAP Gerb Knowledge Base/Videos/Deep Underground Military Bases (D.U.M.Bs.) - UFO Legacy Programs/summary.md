@@ -14,26 +14,26 @@ tags:
 ---
 stats:
   - value: "3,500 ft"
-    label: Planned DUCC depth
-    hint: "Below Washington, 1963 memos"
+    label: Planned command-centre depth
+    hint: "A command centre below Washington, in 1963 memos"
   - value: "400 mi"
-    label: Deep tunnels sought
-    hint: "1982 workshop, 2,500–3,500 ft down"
+    label: Deep tunnels called for
+    hint: "1982 workshop report; 2,500–3,500 ft down"
   - value: "14,000 mph"
-    label: RAND tube-train speeds examined
-    hint: "Los Angeles to New York in 21 minutes"
+    label: Tube-train speed studied
+    hint: "Top speed in a RAND study: Los Angeles to New York in 21 minutes"
   - value: "$17B"
-    label: Tunnel network estimate
-    hint: "7,800–8,700 people over 10 years"
+    label: Tunnel network cost
+    hint: "Estimate: 7,800–8,700 people over 10 years"
   - value: "~6"
     label: Veterans who spoke to Gerb
-    hint: "Each says they travelled to a stiff"
+    hint: "Each says they went to an underground facility"
   - value: 3
     label: Books by Richard Sauder
-    hint: "The video's reference spine"
+    hint: "The video's main reference"
   - value: 43
-    label: Chronology entries
-    hint: "1934–2025; 14 major"
+    label: Timeline entries
+    hint: "From 1934 to 2025; 14 major"
   - value: "1h39m"
     label: Runtime
 ---
@@ -41,7 +41,7 @@ stats:
 
 ## Overview
 
-This video is UAP Gerb's first full investigation of [[Deep Underground Military Bases (DUMBs)|deep underground military bases]] (DUMBs) and their alleged role in [[Legacy Programs|UFO legacy programs]]: the black-budget programs that, in Gerb's framing, recover non-human craft, exploit technologies of unknown origin, reverse-engineer them and build [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]]. Programs that Gerb, quoting [[David Grusch]], calls a "multi-decade secret Cold War" need extreme secrecy and strict need-to-know access for research, testing, and storing craft and possibly biologics. So, he argues, we must look underground. His starting point is that DUMBs are not controversial. Acknowledged sites such as the [[Cheyenne Mountain Complex]] and [[Raven Rock Complex (Site R)|Raven Rock]] exist, and a senior [[US Army Corps of Engineers]] official, [[Lloyd A. Duscha]], said publicly that several of the Corps' most interesting underground facilities "are still classified". The open questions are which sites engage with UFO programs, what they do, and whether decades of rumours of tunnels and trains linking them could be true.
+This video is UAP Gerb's first full investigation of [[Deep Underground Military Bases (DUMBs)|deep underground military bases]] (DUMBs) and their alleged role in [[Legacy Programs|UFO legacy programs]]: the black-budget programs that, in Gerb's framing, recover non-human craft, exploit technologies of unknown origin, reverse-engineer them and build [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]]. Gerb, quoting [[David Grusch]], calls these programs a "multi-decade secret Cold War". They need extreme secrecy and strict need-to-know access for research, testing, and storing craft and possibly biologics, so Gerb argues that the place to look for them is underground. His starting point is that DUMBs are not controversial. Acknowledged sites such as the [[Cheyenne Mountain Complex]] and [[Raven Rock Complex (Site R)|Raven Rock]] exist, and a senior [[US Army Corps of Engineers]] official, [[Lloyd A. Duscha]], said publicly that several of the Corps' most interesting underground facilities "are still classified". The open questions are which sites engage with UFO programs, what they do, and whether decades of rumours of tunnels and trains linking them could be true.
 
 The video leans throughout on the three books of Dr. [[Richard Sauder]], which build their case from public records, FOIA releases and declassified documents, and on the late researcher [[Bill Hamilton]]. It follows a documentary trail from Nazi underground factories and [[Operation Paperclip]], through RAND and Corps of Engineers studies of deep bases in the 1950s and 1960s, the proposed [[Deep Underground Command Center (DUCC)|Deep Underground Command Center]] beneath Washington, and a burst of tunneling studies in the early 1970s, to maglev research in the 1990s. Against that trail it sets witness testimony: [[Leonard Stringfield]]'s crash-retrieval files, Hamilton's informants in the [[Antelope Valley]], Sauder's sources at [[China Lake Naval Air Weapons Station|China Lake]] and [[Los Alamos National Laboratory|Los Alamos]], and Gerb's own conversations with nearly half a dozen former military personnel who say they have travelled to underground facilities. Gerb uses this testimony more than he usually does.
 
@@ -51,35 +51,35 @@ Gerb concludes that networks of UFO-related DUMBs probably exist in two regions.
 
 ::wiki-timeline{video="7Ats0lIy3Lo" video-title="Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs"}
 ---
-help: "The bar pinned above the entries is a ruler from 1930 to 2025. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line capped with a downward arrow is where Gerb is. The eras follow Gerb's own order of operations: bases first, then connective tunnels about a decade later, then trains a decade after that. The video is arranged by place and theme, not by date, so the playhead leaps around the ruler. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Timestamps jump the mini-player to that moment."
+help: "The bar above the list runs from 1930 to 2025, with a coloured mark for each entry; taller marks are major entries. Click the bar to jump to the nearest entry. The dark line shows which entry you are reading. Play from here starts the video at that entry. Once the video is playing, a green line shows which entry it has reached, and Follow video makes the list scroll along with it. Gerb arranges the video by place and theme rather than by date, so the green line jumps back and forth across the years. The list is grouped into eras that follow Gerb's own order of building: bases first, connecting tunnels about a decade later, and trains a decade after that. Click a timestamp to play the video from that moment."
 eras:
   - id: nazi
     label: "Nazi precedents"
     from: 1934
     to: 1946
-    summary: "Underground towns, factories and tube-train concepts that Gerb treats as the first look at DUMBs and, through Kammler, possibly at UFO legacy programs."
+    summary: "Nazi Germany's underground towns and factories, and its tube-train concepts. Gerb treats them as the first glimpse of deep underground military bases (DUMBs) and, through SS engineer Hans Kammler, possibly of UFO legacy programs."
   - id: planners
     label: "Paperclip and the planners"
     from: 1947
     to: 1960
-    summary: "Air Materiel Command asks for German underground engineers; RAND and the Corps of Engineers study super-hard deep centres, and the first manuals assume such facilities already exist."
+    summary: "The US Air Materiel Command asks for German underground engineers. RAND and the Corps of Engineers study super-hard deep centres, and the first Corps manuals assume such facilities already exist."
   - id: bases
     label: "The bases"
     from: 1961
     to: 1971
-    summary: "Gerb dates most stiffs of interest to 1961–1989, when the Corps began looking seriously at facilities thousands of feet down, from the DUCC to the 1964 proposals."
-    estimate: "Gerb: most facilities built between 1961 and the late 1990s"
+    summary: "Gerb dates most of the underground facilities that interest him to 1961–1989. In those years the Corps of Engineers began looking seriously at facilities thousands of feet down, from the planned command centre under Washington (the DUCC) to the 1964 proposals."
+    estimate: "Gerb's estimate that most facilities were built between 1961 and the late 1990s"
   - id: tunnels
     label: "The tunnels"
     from: 1972
     to: 1983
-    summary: "A cluster of tunneling committees, subterrene patents, RAND's tube-train study and Bechtel's research plan suggests connective tunnels began around 1972–74."
-    estimate: "Gerb: connective tunnels from about 1974"
+    summary: "A cluster of tunneling committees, patents for the nuclear subterrene (a machine that melts its way through rock), RAND's tube-train study and Bechtel's research plan suggests that tunnels connecting the bases began around 1972–74."
+    estimate: "Gerb's estimate that connecting tunnels began in about 1974"
   - id: trains
     label: "The trains"
     from: 1984
-    summary: "About a decade after the tunnels, Gerb argues, train systems followed, surfacing publicly as 1990s maglev research by the same contractors; witnesses describe riding them."
-    estimate: "Gerb: full train systems a decade after the tunnels"
+    summary: "Gerb argues that train systems followed about a decade after the tunnels, and that they surfaced in public as 1990s research by the same contractors on maglev (magnetically levitated) trains. Witnesses describe riding them."
+    estimate: "Gerb's estimate that full train systems came a decade after the tunnels"
 hinges:
   - year: 1989
     label: "Underground UFO bases enter the lore"
@@ -96,7 +96,7 @@ events:
   - date: "1943"
     title: "Nazis allegedly take the Magenta disc from Italy"
     cue: 752
-    summary: "Gerb says the Nazis purportedly took control of the lenticular disc recovered at Magenta, Italy in 1933 from the Italians in 1943, before Americans recovered it after the war. He names SS engineer Hans Kammler as one of the chief figures who would have studied it."
+    summary: "Gerb says that in 1943 the Nazis purportedly took from the Italians the lenticular disc recovered at Magenta, Italy in 1933, and that Americans recovered it after the war. He names SS engineer Hans Kammler as one of the chief figures who would have studied it."
     category: event
     significance: notable
     entities:
@@ -106,7 +106,7 @@ events:
   - date: "1945-04"
     title: "Speer: Kammler has 'business to offer the Americans'"
     cue: 789
-    summary: "Reich armaments minister Albert Speer claimed that in April 1945 Hans Kammler told him he had business to offer the Americans. According to the book The Hidden Nazi, OSS agent Donald W. Richardson said decades later that the Nazis had brought 'treasure' to the US that served Cold War armament. Gerb argues documents show Kammler was taken alive into US custody, and that Kammler, whose command ran numerous underground tunnels and bases, could be a key architect of US UFO and DUMB legacy programs."
+    summary: "Reich armaments minister Albert Speer claimed that in April 1945 Hans Kammler told him he had business to offer the Americans. According to the book The Hidden Nazi, OSS agent Donald W. Richardson said decades later that the Nazis had brought 'treasure' to the US that served Cold War armament. Gerb argues that documents show Kammler was taken alive into US custody. He also argues that Kammler, whose command ran numerous underground tunnels and bases, could be a key architect of US legacy programs for UFOs and deep underground military bases (DUMBs)."
     category: person
     significance: major
     entities:
@@ -121,7 +121,7 @@ events:
   - date: "1947"
     title: "Air Materiel Command requests German technicians for an underground plant program"
     cue: 657
-    summary: "Two declassified 1947 Paperclip documents record an Air Materiel Command requirement for four German technicians to consult on a planned underground plant program. One named was Xaver Dorsch, director of the Organisation Todt, who helped build massive underground factories late in the war and briefed the Americans after his 1945 capture and again in 1949. Gerb treats 1947 as the start of the period in which stiffs of interest were built."
+    summary: "Two declassified 1947 Paperclip documents record an Air Materiel Command requirement for four German technicians to consult on a planned underground plant program. One named was Xaver Dorsch, director of the Organisation Todt, who helped build massive underground factories late in the war and briefed the Americans after his 1945 capture and again in 1949. Gerb treats 1947 as the start of the period in which the underground facilities that interest him were built."
     category: document
     significance: major
     entities:
@@ -138,7 +138,7 @@ events:
   - date: "1955"
     title: "Look magazine's 'Is This the Real Flying Saucer?'"
     cue: 1566
-    summary: "A 1955 Look article about a Canadian company building a flying saucer depicted a facility under a hill with a vertical shaft to the surface for saucers to depart. Gerb calls it the first true mention of DUMBs and UFOs he can find; further rumours did not really arise until the 1970s."
+    summary: "A 1955 Look article about a Canadian company building a flying saucer depicted a facility under a hill with a vertical shaft to the surface for saucers to depart. Gerb calls it the first true mention he can find of underground bases tied to UFOs. Further rumours did not really arise until the 1970s."
     category: document
     significance: major
   - date: "1957"
@@ -219,7 +219,7 @@ events:
   - date: "1967"
     title: "Commerce report on high-speed ground transportation"
     cue: 4532
-    summary: "Alongside the mid-1960s International Society for Terrain-Vehicle Systems, whose working group coordinated research on high-speed underground tube trains, a Commerce Department panel produced the 1967 report R&D for High-Speed Ground Transportation: 'regardless of the system adopted it can be assumed that extensive tunneling will be involved'. TRW's 1967 abstracts of high-speed ground transportation concepts date from the same effort."
+    summary: "A Commerce Department panel produced the 1967 report R&D for High-Speed Ground Transportation, which stated: 'regardless of the system adopted it can be assumed that extensive tunneling will be involved'. Alongside it, a working group of the International Society for Terrain-Vehicle Systems, founded in the mid-1960s, coordinated research on high-speed underground tube trains. TRW's 1967 abstracts of high-speed ground transportation concepts date from the same effort."
     category: document
     significance: notable
     entities:
@@ -227,7 +227,7 @@ events:
   - date: "1970"
     title: "TRW's 'State-of-the-Art Tube Vehicle System'"
     cue: 4750
-    summary: "For the high-speed ground transportation initiative, TRW, involved in tunnel design and cost studies since 1968, prepared a 1970 study of tube systems and tunnels as deep as 3,000 feet, with trains at about 450 mph. Gerb recalls TRW's later purchase by Northrop Grumman and its alleged link to the MJ-12-like Project Zodiac."
+    summary: "For the high-speed ground transportation initiative, TRW, involved in tunnel design and cost studies since 1968, prepared a 1970 study of tube systems and tunnels as deep as 3,000 feet, with trains at about 450 mph. Gerb points out that Northrop Grumman later bought TRW, and that TRW is allegedly linked to the MJ-12-like Project Zodiac."
     category: document
     significance: notable
     entities:
@@ -242,7 +242,7 @@ events:
   - date: "1972"
     title: "National Research Council forms the US National Committee on Tunneling Technology"
     cue: 3819
-    summary: "In 1972 the National Research Council's governing board formed the USNC/TT as the 'United States focal agency' for tunneling technology. By 1977 it had six major subcommittees, including deep cavities and tunnel support systems, and partnered with bodies such as Sandia National Laboratories and Battelle. Gerb treats 1972–74 as the likely start of connective tunnel construction."
+    summary: "In 1972 the National Research Council's governing board formed this committee, the USNC/TT, as the 'United States focal agency' for tunneling technology. By 1977 it had six major subcommittees, including deep cavities and tunnel support systems, and partnered with bodies such as Sandia National Laboratories and Battelle. Gerb treats 1972–74 as the likely start of work on tunnels connecting the bases."
     category: organization
     significance: major
     entities:
@@ -252,7 +252,7 @@ events:
   - date: "1972"
     title: "RAND's Very High Speed Transit system"
     cue: 4563
-    summary: "Robert Salter's 1972 RAND study described a continental system of 'electromagnetically levitated and propelled cars in an evacuated tunnel', examining speeds up to 14,000 mph (Los Angeles to New York in 21 minutes). Salter wrote that the first line would probably stop at two intermediate staging points, which Gerb reads as the hub-and-spoke pattern of DUMB networks, and his route map closely matches Bill Hamilton's."
+    summary: "Robert Salter's 1972 RAND study described a continental system of 'electromagnetically levitated and propelled cars in an evacuated tunnel', examining speeds up to 14,000 mph (Los Angeles to New York in 21 minutes). Salter wrote that the first line would probably stop at two intermediate staging points. Gerb reads this as the hub-and-spoke pattern of underground base networks, and Salter's route map closely matches Bill Hamilton's."
     category: document
     significance: major
     entities:
@@ -359,7 +359,7 @@ events:
   - date: "1987"
     title: "Hamilton names the Antelope Valley radar cross-section sites"
     cue: 1451
-    summary: "Since at least 1987 researcher Bill Hamilton accused the Northrop Tejon, Lockheed Helendale and McDonnell Douglas radar cross-section facilities of housing UFO legacy programs; his informants described tunnels, an underground command centre and maglev links beneath the valley."
+    summary: "From at least 1987 researcher Bill Hamilton accused the Northrop Tejon, Lockheed Helendale and McDonnell Douglas radar cross-section facilities of housing UFO legacy programs; his informants described tunnels, an underground command centre and maglev links beneath the valley."
     category: person
     significance: notable
     entities:
@@ -453,7 +453,7 @@ events:
   - date: "2025"
     title: "Jake Barber describes weapons to disable craft"
     cue: 1720
-    summary: "Gerb sets whistleblower Jake Barber's 2025 account of an aerospace company's pulsed-microwave weapons used to disable vehicles beside the 1974 Blue Boys letter's electronic warfare system for disabling UFOs."
+    summary: "Gerb compares whistleblower Jake Barber's 2025 account of an aerospace company's pulsed-microwave weapons, used to disable vehicles, with the electronic warfare system for disabling UFOs described in the 1974 Blue Boys letter."
     category: event
     significance: notable
     entities:
@@ -486,10 +486,10 @@ In the 1950s the United States proposed massive underground facilities that then
 
 The [[RAND Corporation]], established in 1948 out of the Army Air Forces' Project RAND, took up underground base construction with the Air Force in the 1950s. Its 1959 symposium *Deep Underground Construction* discussed protecting installations "deep underground or under mountains" in a nuclear war, and its chairman said RAND had been investigating since 1957 the need for "a small number of super hard deep underground centers". A 1960 RAND study for the Air Force examined 12 sites, all more than 1,000 feet deep. Site 3, near Santa Barbara, lies just over 100 miles from the Antelope Valley and under 100 miles from the laboratories of Los Angeles.
 
-The Corps' five-part manual *Design of Underground Installations in Rock* (1959–1961) takes such facilities for granted: "vital government installations have been placed underground". It describes deep workings, "long and tunnel-like", with 50-by-50-foot tunnels and chambers up to 100 feet high, notes that "truck or rail traffic might be important", and advises that portals be as inconspicuous as possible, with camouflage considered. Gerb sets this beside witness MS's account of the Dugway facility's entrance, a small building in the middle of nowhere. A 1963 Corps manual covered self-contained, nuclear-powered underground installations with diesel backup. In 1964 the Corps proposed 12 massive structures up to 4,000 feet deep. Two matter here:
+The Corps' five-part manual *Design of Underground Installations in Rock* (1959–1961) takes such facilities for granted: "vital government installations have been placed underground". It describes deep workings, "long and tunnel-like", with 50-by-50-foot tunnels and chambers up to 100 feet high, notes that "truck or rail traffic might be important", and advises that portals be as inconspicuous as possible, with camouflage considered. Gerb sets this beside witness MS's account of the Dugway facility's entrance, a small building in the middle of nowhere. A 1963 Corps manual covered self-contained, nuclear-powered underground installations with diesel backup. In 1964 the Corps proposed 12 massive structures up to 4,000 feet deep. Two of them matter here:
 
-- **Below Yuma County, Arizona**, reached by vertical or incline shaft. Steven Greer's witness 10773 spoke of a massive research and storage facility for material of unknown origin at Yuma Proving Ground. Like Dugway, Yuma is an Army major range and test facility base run by the Army Test and Evaluation Command, so, Gerb reasons, if one has a stiff, the other likely does too.
-- **In Inyo County, California**, reached by incline shaft, on the boundary of China Lake. A Navy contact told Sauder that the China Lake facility extends a mile deep and holds "weapons more powerful than nuclear weapons".
+- One was planned below Yuma County, Arizona, reached by vertical or incline shaft. Steven Greer's witness 10773 spoke of a massive research and storage facility for material of unknown origin at Yuma Proving Ground. Like Dugway, Yuma is an Army major range and test facility base run by the Army Test and Evaluation Command, so, Gerb reasons, if one has a stiff, the other likely does too.
+- The other was planned in Inyo County, California, reached by incline shaft, on the boundary of China Lake. A Navy contact told Sauder that the China Lake facility extends a mile deep and holds "weapons more powerful than nuclear weapons".
 
 A 1972 Naval Facilities Engineering Command report planned administrative, medical, aircraft maintenance and ammunition facilities underground, and the Seabees are said to maintain underground installations between Camp David and the CIA's Camp Peary. From Air Materiel Command's 1947 request to Duscha's admission, Gerb infers that the stiffs of interest were built across a 42-year window, some before 1961. Groom Lake, built in the 1950s on a former boron mine, may be one: a 1991 DARPA report notes that secret cavities may be found alongside underground mines. Because the literature describes plans for massive bases after 1961, he places most construction between 1961 and 1989. The same 1991 DARPA and Army Missile Command paper, written to train inspectors hunting clandestine nuclear test complexes, states that buildings "can provide cover for shafts or other openings to a secret underground cavity".
 
@@ -533,13 +533,13 @@ Bill Hamilton, the first researcher to coin the term and publish an image of an 
 
 - A man with property on 170th Street West of Tejon told Hamilton the ground opened like a missile silo and a flying saucer took off. The Edwards [[Air Force Office of Special Investigations|OSI]] silenced him.
 - A contractor named Chuck said he dug tunnels beneath the anthill, with round doorways, few doors, and red and green lights for identification and entry.
-- A source who worked on **Project Star Talk** at Tejon described lasers in a big underground building for "bringing in" UFOs, using scalar technology. He also said he saw a UFO in an underground hangar at the McDonnell Douglas site.
-- A source called **Gober**, who worked at Tejon, Helendale and the Nevada range, said alien technology frightened him. Staff rotated every 14 to 16 days, living on site, and a command centre under Haystack Butte at Edwards connected to the anthill.
+- A source who worked on Project Star Talk at Tejon described lasers in a big underground building for "bringing in" UFOs, using scalar technology. He also said he saw a UFO in an underground hangar at the McDonnell Douglas site.
+- A source called Gober, who worked at Tejon, Helendale and the Nevada range, said alien technology frightened him. Staff rotated every 14 to 16 days, living on site, and a command centre under Haystack Butte at Edwards connected to the anthill.
 - Others described discs flown out of Edwards, craft held under the base and beneath a hangar on Edwards North Base, electric cars inside the facilities, and maglev trains linking them.
 
 Forensic artist [[Bill McDonald]] drew the [[XF-131 Super Sentinel]] from the accounts of two Tejon and two Helendale engineers. Gerb has spoken to McDonald many times and gives this testimony a lot of weight. [[Richard Boylan]] names Tejon as a manufacturing site for reverse-engineered vehicles, including an anti-gravity disc he calls the "Great Pumpkin". Greer says he knows the anthill's entrance and has flown over the RCS sites, describing "diamonds" where man-made craft are struck with electromagnetic weapons to test their hardening. :wiki-cue{t=2492 video="7Ats0lIy3Lo" video-title="Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs"} Greer's Boeing insider, witness AH, named a complex near Anza, California, the "Tehachapi" base near Lancaster and Palmdale, and work at March Air Force Base through Project Redlight.
 
-From all this Hamilton pieced together a complex of connected facilities engaged in UFO testing, storage and exploitation. The tree below is Gerb's reading of it, with Edwards as the hub. It shows alleged links, not a surveyed map.
+From all this Hamilton pieced together a complex of connected facilities engaged in UFO testing, storage and exploitation. The tree below is Gerb's reading of it, with Edwards as the hub. Every link in it is alleged.
 
 ::wiki-org-chart
 ---
@@ -550,20 +550,20 @@ root:
   children:
     - name: Tejon Ranch
       label: "Northrop RCS site, the 'anthill'"
-      note: "Up to 42 levels by rumour; the Gober and Chuck accounts, Project Star Talk, the XF-131."
+      note: "Rumoured to go down as many as 42 levels. The Gober and Chuck accounts and Project Star Talk come from here, as do two of the engineers behind the XF-131 drawing."
     - name: Helendale
       label: "Lockheed RCS site"
-      note: "Underground facility confirmed by Sauder; two of McDonald's XF-131 sources."
+      note: "Sauder confirmed an underground facility here. Two of the engineers behind McDonald's XF-131 drawing worked here."
     - name: "McDonnell Douglas RCS site"
       label: "Underground hangar, per Hamilton's source"
     - name: "George Air Force Base"
       label: "On Hamilton's list of connected sites"
     - name: Air Force Research Laboratory
       label: "Rocket test labs, Leuhman Ridge"
-      note: "Named by Hamilton's informants as a stiff tied to the Edwards complex. Underground missile silos; the lab's studies show heavy interest in anti-gravity propulsion."
+      note: "Hamilton's informants named it as an underground facility tied to the Edwards complex. It has underground missile silos, and the lab's studies show heavy interest in anti-gravity propulsion."
     - name: China Lake Naval Air Weapons Station
       label: "Maglev link, per Hamilton's colonel"
-      note: "Sauder's Navy source: a mile deep. The Navy's largest land holding, with 85% of its weapons RDT&E."
+      note: "Sauder's Navy source says the facility is a mile deep. China Lake is the Navy's largest land holding and carries out 85% of its weapons RDT&E."
     - name: Nevada Test and Training Range (NTR)
       label: "Joint program with Edwards, per witness Ed"
       children:
@@ -580,17 +580,17 @@ Edwards stands out. Witness Ed described a joint reverse-engineering program bet
 
 ::wiki-map{video="7Ats0lIy3Lo" video-title="Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs"}
 ---
-caption: "Where the western network Hamilton's informants describe would run. Every line is an alleged underground link from their accounts, drawn straight between the sites; none is a surveyed route. White Sands, New Mexico, where the colonel says he usually entered the network, lies far to the east, off this map."
+caption: "The western underground network that Hamilton's informants describe. Each line joins two sites they say are linked underground; the lines are drawn straight and are not surveyed routes. White Sands, New Mexico, where a colonel among Hamilton's sources says he usually entered the network, lies far to the east, off this map."
 pins:
   - name: "Edwards Air Force Base"
     label: "Edwards AFB"
     note: "The alleged hub, with a command centre said to lie under Haystack Butte."
   - name: "Tejon Ranch"
     label: "Tejon"
-    note: "Northrop's RCS site, the \"anthill\", rumoured to go down as many as 42 levels."
+    note: "Northrop's radar cross-section (RCS) site, the \"anthill\", rumoured to go down as many as 42 levels."
   - name: "Helendale"
     label: "Helendale"
-    note: "Lockheed's RCS site; Sauder confirmed an underground facility."
+    note: "Lockheed's radar cross-section (RCS) site. Sauder confirmed an underground facility there."
   - name: "Air Force Plant 42"
     label: "Plant 42"
     note: "Palmdale's plant and Lockheed's Skunk Works, in the heart of the valley."
@@ -647,7 +647,7 @@ rows:
       - "40"
       - "300"
   - attribute: "Cost"
-    note: "Then, and Gerb's figure for today"
+    note: "Cost at the time, with Gerb's figure in today's money"
     cells:
       - "Over $110 million (about $1.1 billion)"
       - "$310 million (over $3.2 billion)"
@@ -682,7 +682,7 @@ The [[Bureau of Reclamation]] bored hundreds of miles of tunnels up to 28.5 feet
 
 By the same reasoning that dates the bases to 1961–1989, Gerb dates any connective network to the early 1970s, and to 1974 in particular. The National Research Council formed the [[U.S. National Committee on Tunneling Technology]] in 1972 as the "United States focal agency" for tunneling. By 1977 it had six major subcommittees, including deep cavities and tunnel support systems, and partners including Sandia and [[Battelle Memorial Institute]], which Gerb has accused of work at the alleged Dugway DUMB. [[Bechtel Tunneling Report (1974)|Bechtel's 1974 research plan]] called defence demand for underground excavation "large". A 1981–82 workshop with the Army, Air Force, Navy, DOE and National Science Foundation led to a 1982 report calling for 400 miles of tunnels 2,500 to 3,500 feet deep. They were to be up to 16 feet wide, with "interconnecting passageways" for storage and living quarters, powered by fuel cells or reactors, and located, per the *New York Times*, "probably in the desert of the western United States". Boeing studied fuel-cell power for deep ICBM bases in 1984, and by 1988 the committee was publishing on missile systems 3,000 to 8,000 feet down.
 
-Gerb assumes that some underground missile bases served as clandestine research sites, and notes which contractors built them. [[BDM International]] won a 1985 "intercontinental ballistic missile deep basing communication study". TRW had studied high-speed ground transportation tunnels since 1968. In November 1985 United Technologies' Hamilton Standard division was contracted for life support and chemical-biological protection on small ICBM deep-basing programs. The ownership and personnel links are what interest Gerb:
+Gerb assumes that some underground missile bases served as clandestine research sites, and notes which contractors built them. [[BDM International]] won a 1985 "intercontinental ballistic missile deep basing communication study". TRW had studied high-speed ground transportation tunnels since 1968. In November 1985 United Technologies' Hamilton Standard division was contracted for life support and chemical-biological protection on small ICBM deep-basing programs. Gerb is most interested in how these contractors are linked by ownership and staff:
 
 ::wiki-org-chart
 ---
@@ -693,10 +693,10 @@ root:
   children:
     - name: TRW
       label: "Acquired 2002"
-      note: "High-speed ground transportation tunnel studies from 1968; 1967 concept abstracts; the 1970 tube-vehicle study. Long alleged to be behind the MJ-12-like Project Zodiac."
+      note: "Studied high-speed ground transportation tunnels from 1968, and produced the 1967 concept abstracts and the 1970 tube-vehicle study. Long alleged to be behind the MJ-12-like Project Zodiac."
     - name: BDM International
       label: "Acquired by TRW, then Northrop Grumman"
-      note: "1985 ICBM deep-basing communication study; host of the May 1985 Advanced Theoretical Physics conference."
+      note: "Won the 1985 ICBM deep-basing communication study and hosted the May 1985 Advanced Theoretical Physics conference."
       children:
         - name: Albert Stubblebine
           label: "BDM vice president"
