@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Sue C. Payton (born 1950) is a former U.S. defense official who served as Assistant Secretary of the Air Force (Acquisition), the head of [[SAFAQ|SAF/AQ]], from 2006 to 2009 under President George W. Bush. In that role she was the Air Force's senior acquisition executive, responsible for all Air Force research, development and non-space acquisition. She joined [[Martin Marietta]] in Reston, Virginia, in 1989 as senior site systems integration manager. After the merger she moved to [[Lockheed Martin]] as manager of advanced technology in the office of the vice president for business development, and she left the company in the late 1990s. UAP Gerb's video calls her "Susie Payton".
+Sue C. Payton (born 1950) is a former U.S. defense official who served as Assistant Secretary of the Air Force (Acquisition), the head of [[SAFAQ|SAF/AQ]], from 2006 to 2009 under President George W. Bush. In that role she was the Air Force's senior acquisition executive, responsible for all Air Force research, development and non-space acquisition. She joined [[Martin Marietta]] in Reston, Virginia, in 1989 as senior site systems integration manager. After the merger she moved to [[Lockheed Martin]] as manager of advanced technology in the office of the vice president for business development, and she left the company in the late 1990s. In his video, Gerb calls her "Susie Payton".
 
 ## Role in the Hidden Wing thesis
 
