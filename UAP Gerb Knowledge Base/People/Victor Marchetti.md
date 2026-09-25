@@ -10,7 +10,7 @@ tags:
 
 ## UAP Significance
 
-UAP Gerb describes Marchetti as a former special assistant to the CIA's deputy director, and quotes him on "little gray men whose ships had crashed or had been shot down" being kept on ice by the Air Force's technology division at [[Wright-Patterson Air Force Base]]. Gerb uses the statement as rare public confirmation of recovered bodies, alongside [[David Grusch]]'s testimony about dead pilots, in his analysis of the [[Infographic Show Whistleblower]]'s account of biological crews.
+Gerb describes Marchetti as a former special assistant to the CIA's deputy director, and quotes him on "little gray men whose ships had crashed or had been shot down" being kept on ice by the Air Force's technology division at [[Wright-Patterson Air Force Base]]. Gerb uses the statement as rare public confirmation of recovered bodies, alongside [[David Grusch]]'s testimony about dead pilots, in his analysis of the [[Infographic Show Whistleblower]]'s account of biological crews.
 
 ## Sources
 
