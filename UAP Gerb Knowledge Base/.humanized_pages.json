@@ -33,6 +33,11 @@
     "sha256": "f0be4d985956e8bc725261fb517586898b082c03bdc4482249c7018e90728d8e",
     "cold_reader": true
   },
+  "app/app/components/content/WikiOrgChart.vue": {
+    "humanized_at": "2026-09-25T16:56:34Z",
+    "sha256": "39d9eeac96534d555c0d784f8525f224d2c586735d6fc5bcf2f7ec2894c131ec",
+    "cold_reader": true
+  },
   "app/app/components/content/WikiTimeline.vue": {
     "humanized_at": "2026-09-25T16:50:12Z",
     "sha256": "d03dc68c3c8b0264361cea21df683d260878dc59bd4ba0259b338f1b0b1884cb",
