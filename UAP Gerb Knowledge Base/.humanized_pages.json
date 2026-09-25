@@ -3,6 +3,11 @@
     "humanized_at": "2026-09-24T02:09:31Z",
     "sha256": "3c929658bca36c3c30ea11fc5f8aa55a2641e3992f1b07e596c81df50a17f961"
   },
+  "app/app/components/app/AppTopBar.vue": {
+    "humanized_at": "2026-09-25T16:57:56Z",
+    "sha256": "1d17fd61efe76f7f430039f6f97131bd8f0472db3812269757b3e48c7d04fc1a",
+    "cold_reader": true
+  },
   "app/app/components/content/WikiChain.vue": {
     "humanized_at": "2026-09-25T16:52:05Z",
     "sha256": "44bea88977db493a1240eae2f6490a5023eb3342a7eb1f3200439c4ed5314145",
