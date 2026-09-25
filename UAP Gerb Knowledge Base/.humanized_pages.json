@@ -803,6 +803,11 @@
     "sha256": "fd590089deda11fb88c3ea98116e56a1ce378577fd3e93fb5e96acdf633f996a",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/People/Harry Truman.md": {
+    "humanized_at": "2026-09-25T19:13:23Z",
+    "sha256": "cb643b2e28dc24b806234fc29f482dfe91f27a131559c72ad7239301fc021d8c",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/Herman Flader.md": {
     "humanized_at": "2026-09-25T19:13:01Z",
     "sha256": "576a32d7f0ef5616178487975e439b45704e54fa1f5b11b69e5e2e3d3b0d6481",
