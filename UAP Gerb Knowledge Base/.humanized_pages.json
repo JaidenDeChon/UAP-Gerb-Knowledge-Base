@@ -538,6 +538,11 @@
     "sha256": "80a3a3167ef640e7eddda3f2e174148162ef37a1ca6e1bd44194f7800bb05310",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/People/Enrico Fermi.md": {
+    "humanized_at": "2026-09-25T19:10:20Z",
+    "sha256": "39b03363b193c83e05fe4f334f751fa5157e344a48cfdff10f8e8efc5df41db8",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/Felix Zigel.md": {
     "humanized_at": "2026-09-25T19:09:59Z",
     "sha256": "3a33908f171a1523fe6df4f1990ce9e7760c58e46f84400dff41c16d0b2a0073",
