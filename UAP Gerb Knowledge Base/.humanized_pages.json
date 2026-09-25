@@ -414,6 +414,11 @@
     "sha256": "9f1c7cf522afc31ff436b8f48c98be710cefce1583adcab6474aae7d3902f3f8",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/Finnish Air Force.md": {
+    "humanized_at": "2026-09-25T23:47:19Z",
+    "sha256": "8f0525a1bffb6d7aaedb443e8a00cd6d98a73a5943a09de1f1ac2371cf151a77",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
