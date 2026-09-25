@@ -552,7 +552,7 @@ rows:
       - { text: "1961 to 1991", cue: 3603 }
   - attribute: "Remit"
     cells:
-      - "Included "developments not of this world""
+      - "Included 'developments not of this world'"
       - { text: "Reportedly recovered Russian MiGs; perhaps, Gerb thinks, technologies of unknown origin too", cue: 3622 }
   - attribute: "Paper trail"
     cue: 3691

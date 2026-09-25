@@ -578,7 +578,7 @@ root:
           label: "Per a 1996 NEST briefing"
           children:
             - name: Sandia National Laboratories
-              label: "Host's candidate point of departure"
+              label: "Gerb's candidate point of departure"
             - name: Los Alamos National Laboratory
             - name: Lawrence Livermore National Laboratory
             - name: EG&G
