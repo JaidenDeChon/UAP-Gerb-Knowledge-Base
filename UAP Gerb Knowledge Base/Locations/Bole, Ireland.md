@@ -1,5 +1,6 @@
 ---
 name: "Bole, Ireland"
+coordinates: [53.9730, -8.2997]
 tags:
   - location
 ---

@@ -1,5 +1,6 @@
 ---
 name: "Fallon, Nevada"
+coordinates: [39.4735, -118.7774]
 tags:
   - location
 ---

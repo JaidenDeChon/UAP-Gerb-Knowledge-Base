@@ -1,5 +1,6 @@
 ---
 name: "Utah Test and Training Range"
+coordinates: [40.7000, -113.3000]
 tags:
   - location
 ---

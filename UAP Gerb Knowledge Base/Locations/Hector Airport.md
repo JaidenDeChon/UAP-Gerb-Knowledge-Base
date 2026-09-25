@@ -1,5 +1,6 @@
 ---
 name: "Hector Airport"
+coordinates: [46.9207, -96.8158]
 location_type: "facility"
 tags:
   - location

@@ -441,9 +441,9 @@
 }
 
 /* ============================================================
-   Loading skeletons. Pages show the UFO loader (AppLoadingMark)
-   while they load; this pulse is left for small in-page
-   placeholders, like the home page's recent-videos strip.
+   Loading skeletons. A page waits on the UFO loader until it's
+   ready (the page loader, below); this pulse is left for small
+   placeholders inside an already-shown page.
    ============================================================ */
 
 /* The pulse lives on the wrapper, not the individual bars: staggered
@@ -465,36 +465,95 @@
 }
 
 /* ============================================================
-   Content arriving after the UFO loader unblurs into focus. The
-   veil covers the visible content area (below the 56px top bar,
-   beside the 280px sidebar from 901px up), fading from the page
-   colour to clear while its backdrop blur eases down to nothing.
-   Created by AppLoadingMark's hand-off; never created under
-   prefers-reduced-motion.
+   The page loader. While any part of the page isn't ready
+   (usePageReady), <html> carries data-page-loading
+   (plugins/page-load.ts): the page area is hidden and the UFO
+   loader (AppLoadingMark, rendered once by the layout) is all
+   there is. When it's ready, data-page-revealing runs the
+   hand-over: the loader blurs out as the page unblurs in, at
+   the same time. Nothing here is per page.
    ============================================================ */
-.ufo-reveal-veil {
+
+/* The page, hidden while it loads: laid out, fetching and drawing as
+   usual (a globe builds, a map measures), so it's whole the moment it
+   shows. */
+html[data-page-loading] .ufo-page {
+  visibility: hidden;
+}
+
+/* Centred in the visible content area: below the 56px top bar, beside the
+   280px sidebar from 901px up. At rest it's gone the way it leaves:
+   blurred, a touch larger, transparent. */
+.ufo-loading-mark {
   --ufo-rail: 0px;
   position: fixed;
-  z-index: 9; /* under the blurring-out loader (10), over the page */
+  z-index: 10;
+  top: calc(56px + (100dvh - 56px) / 2);
+  left: calc(var(--ufo-rail) + (100vw - var(--ufo-rail)) / 2);
+  width: min(440px, calc((100vw - var(--ufo-rail)) * 0.88));
+  pointer-events: none;
+  opacity: 0;
+  visibility: hidden;
+  filter: blur(22px);
+  transform: translate(-50%, -50%) scale(1.08);
+  transition:
+    opacity 460ms cubic-bezier(0.4, 0, 1, 1),
+    filter 460ms cubic-bezier(0.4, 0, 1, 1),
+    transform 460ms cubic-bezier(0.4, 0, 1, 1),
+    visibility 0s linear 460ms;
+}
+@media (min-width: 901px) {
+  .ufo-loading-mark {
+    --ufo-rail: 280px;
+  }
+}
+/* In after a beat, so a quick load never flashes it; blur and scale snap
+   back, and the craft rises into place instead. */
+html[data-page-loading] .ufo-loading-mark {
+  opacity: 1;
+  visibility: visible;
+  filter: none;
+  transform: translate(-50%, -50%);
+  transition: opacity 0.5s var(--ease-standard) 0.25s, visibility 0s;
+}
+html[data-page-loading] .ufo-loading-mark-inner {
+  animation: ufo-mark-in 0.5s var(--ease-standard) 0.25s both;
+}
+@keyframes ufo-mark-in {
+  from { transform: translateY(6px); }
+  to { transform: none; }
+}
+/* The craft's own loop only runs while it can be seen. */
+html:not([data-page-loading]):not([data-page-revealing]) .ufo-loading-mark * {
+  animation-play-state: paused;
+}
+
+/* The page unblurring in. A veil over the visible content area blurs
+   whatever is behind it, easing the blur down to nothing, so the page
+   genuinely sharpens (a true Gaussian unblur, not a cross-fade). It starts
+   in the page colour and fades to clear, so the page emerges from nothing.
+   Viewport-sized, so it stays cheap however long the page is; under the
+   blurring-out loader (10), over the page. */
+.ufo-reveal-veil {
+  --ufo-rail: 0px;
+  display: none;
+  position: fixed;
+  z-index: 9;
   top: 56px;
   right: 0;
   bottom: 0;
   left: var(--ufo-rail);
   pointer-events: none;
-  -webkit-backdrop-filter: blur(12px);
-  backdrop-filter: blur(12px);
-  animation: ufo-reveal-veil 620ms cubic-bezier(0.2, 0, 0.2, 1) forwards;
 }
 @media (min-width: 901px) {
   .ufo-reveal-veil {
     --ufo-rail: 280px;
   }
 }
-/* The blur radius itself animates, so the page genuinely sharpens (a true
-   Gaussian unblur) rather than cross-fading a blurred copy with a sharp one.
-   The veil also starts out in the page colour and fades to clear, so the
-   new content emerges from nothing instead of popping in behind the blur.
-   It stays cheap because the veil is only ever viewport-sized. */
+html[data-page-revealing] .ufo-reveal-veil {
+  display: block;
+  animation: ufo-reveal-veil 620ms cubic-bezier(0.2, 0, 0.2, 1) forwards;
+}
 @keyframes ufo-reveal-veil {
   from {
     background-color: hsl(var(--background));
@@ -508,6 +567,22 @@
     background-color: hsl(var(--background) / 0);
     -webkit-backdrop-filter: blur(0);
     backdrop-filter: blur(0);
+  }
+}
+
+/* Reduced motion: the loader simply appears, and fades when done; the
+   page just shows (the plugin never sets data-page-revealing). */
+@media (prefers-reduced-motion: reduce) {
+  .ufo-loading-mark {
+    filter: none;
+    transform: translate(-50%, -50%);
+    transition: opacity 200ms linear, visibility 0s linear 200ms;
+  }
+  html[data-page-loading] .ufo-loading-mark {
+    transition: none;
+  }
+  html[data-page-loading] .ufo-loading-mark-inner {
+    animation: none;
   }
 }
 

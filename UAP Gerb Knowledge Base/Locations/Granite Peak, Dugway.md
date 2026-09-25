@@ -1,5 +1,6 @@
 ---
 name: "Granite Peak, Dugway"
+coordinates: [40.1707, -113.2961]
 location_type: "facility"
 tags:
   - location

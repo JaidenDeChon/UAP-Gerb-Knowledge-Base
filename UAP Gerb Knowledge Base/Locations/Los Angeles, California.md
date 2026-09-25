@@ -1,5 +1,6 @@
 ---
 name: "Los Angeles, California"
+coordinates: [34.0522, -118.2437]
 location_type: "city"
 tags:
   - location

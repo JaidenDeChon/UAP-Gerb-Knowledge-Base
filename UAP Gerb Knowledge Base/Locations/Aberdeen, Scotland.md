@@ -1,5 +1,6 @@
 ---
 name: "Aberdeen, Scotland"
+coordinates: [57.1497, -2.0943]
 location_type: "city"
 tags:
   - location

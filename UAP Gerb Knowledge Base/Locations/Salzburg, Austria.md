@@ -1,5 +1,6 @@
 ---
 name: "Salzburg, Austria"
+coordinates: [47.8095, 13.0550]
 location_type: "city"
 tags:
   - location

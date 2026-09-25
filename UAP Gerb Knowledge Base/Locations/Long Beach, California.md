@@ -1,5 +1,6 @@
 ---
 name: "Long Beach, California"
+coordinates: [33.7701, -118.1937]
 location_type: "city"
 tags:
   - location

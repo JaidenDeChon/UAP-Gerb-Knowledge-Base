@@ -1,5 +1,6 @@
 ---
 name: "Hagerstown, Maryland"
+coordinates: [39.6418, -77.7200]
 tags:
   - location
 ---

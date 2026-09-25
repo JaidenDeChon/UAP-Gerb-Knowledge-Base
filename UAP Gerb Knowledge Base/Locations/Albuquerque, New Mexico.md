@@ -1,5 +1,6 @@
 ---
 name: "Albuquerque, New Mexico"
+coordinates: [35.0844, -106.6504]
 tags:
   - location
 ---

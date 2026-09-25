@@ -1,5 +1,6 @@
 ---
 name: "University of Dade City, Florida"
+coordinates: [28.3647, -82.1959]
 location_type: "educational_institution"
 tags:
   - location

@@ -1,5 +1,6 @@
 ---
 name: "El Segundo, California"
+coordinates: [33.9192, -118.4165]
 location_type: "city"
 tags:
   - location

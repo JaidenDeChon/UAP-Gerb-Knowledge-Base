@@ -1,5 +1,6 @@
 ---
 name: "Cedar Hill, New Mexico"
+coordinates: [36.9369, -107.8903]
 tags:
   - location
 ---

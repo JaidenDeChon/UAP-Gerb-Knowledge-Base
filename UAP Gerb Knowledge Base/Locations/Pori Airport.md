@@ -1,5 +1,6 @@
 ---
 name: "Pori Airport"
+coordinates: [61.4617, 21.8000]
 location_type: "facility"
 tags:
   - location

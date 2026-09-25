@@ -1,5 +1,6 @@
 ---
 name: "Cherry Point, North Carolina Marine Corps Air Station"
+coordinates: [34.9008, -76.8807]
 location_type: "base"
 tags:
   - location

@@ -1,5 +1,6 @@
 ---
 name: "Ditto Technical Center"
+coordinates: [40.1994, -112.9375]
 location_type: "facility"
 tags:
   - location

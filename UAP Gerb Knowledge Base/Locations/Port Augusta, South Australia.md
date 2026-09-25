@@ -1,5 +1,6 @@
 ---
 name: "Port Augusta, South Australia"
+coordinates: [-32.4936, 137.7651]
 tags:
   - location
 ---

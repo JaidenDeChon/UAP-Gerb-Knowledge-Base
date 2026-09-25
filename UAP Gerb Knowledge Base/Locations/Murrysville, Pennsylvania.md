@@ -1,5 +1,6 @@
 ---
 name: "Murrysville, Pennsylvania"
+coordinates: [40.4284, -79.6976]
 tags:
   - location
 ---

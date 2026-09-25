@@ -1,5 +1,6 @@
 ---
 name: "Croton Falls Reservoir, New York"
+coordinates: [41.3700, -73.6400]
 tags:
   - location
 ---

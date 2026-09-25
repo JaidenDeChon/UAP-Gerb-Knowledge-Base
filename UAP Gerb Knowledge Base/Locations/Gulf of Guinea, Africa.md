@@ -1,5 +1,6 @@
 ---
 name: "Gulf of Guinea, Africa"
+coordinates: [3.0000, 2.5000]
 location_type: "ocean region"
 tags:
   - location

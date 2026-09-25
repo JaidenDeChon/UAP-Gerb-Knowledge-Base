@@ -1,5 +1,6 @@
 ---
 name: "Antelope Valley"
+coordinates: [34.7500, -118.1500]
 location_type: "region"
 tags:
   - location

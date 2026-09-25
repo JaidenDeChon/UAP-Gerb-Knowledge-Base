@@ -1,5 +1,6 @@
 ---
 name: "Papoose Lake"
+coordinates: [37.1050, -115.8350]
 location_type: "facility"
 tags:
   - location

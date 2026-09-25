@@ -1,5 +1,6 @@
 ---
 name: "Big Sur, California"
+coordinates: [36.2704, -121.8081]
 location_type: "region"
 tags:
   - location

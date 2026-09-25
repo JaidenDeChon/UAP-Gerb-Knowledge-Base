@@ -1,5 +1,6 @@
 ---
 name: "Varginha, Brazil"
+coordinates: [-21.5514, -45.4303]
 location_type: "city"
 tags:
   - location

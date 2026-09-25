@@ -1,5 +1,6 @@
 ---
 name: "Bolivia"
+coordinates: [-16.2902, -63.5887]
 location_type: "region"
 tags:
   - location

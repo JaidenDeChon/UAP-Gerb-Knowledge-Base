@@ -1,5 +1,6 @@
 ---
 name: "Tehran, Iran"
+coordinates: [35.6892, 51.3890]
 tags:
   - location
 ---

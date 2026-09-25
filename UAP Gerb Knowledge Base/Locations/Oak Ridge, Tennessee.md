@@ -1,5 +1,6 @@
 ---
 name: "Oak Ridge, Tennessee"
+coordinates: [36.0104, -84.2696]
 tags:
   - location
 ---

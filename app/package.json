@@ -23,6 +23,7 @@
     "d3-force": "^3.0.0",
     "d3-geo": "^3.1.1",
     "force-graph": "^1.51.4",
+    "globe.gl": "^2.46.2",
     "graphology": "^0.26.0",
     "modern-screenshot": "^4.7.0",
     "nuxt": "^4.4.8",
@@ -30,6 +31,7 @@
     "reka-ui": "^2.10.1",
     "slugify": "1.6.9",
     "tailwind-merge": "^3.6.0",
+    "three": "^0.186.0",
     "vue": "^3.5.39",
     "vue-router": "^5.1.0"
   },
@@ -38,6 +40,7 @@
     "@types/d3-geo": "^3.1.1",
     "@types/geojson": "^7946.0.16",
     "@types/node": "^22",
+    "@types/three": "^0.186.0",
     "@types/topojson-client": "^3.1.5",
     "shadcn-nuxt": "^2.7.4",
     "tailwindcss": "^4.3.2",

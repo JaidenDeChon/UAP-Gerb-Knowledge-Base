@@ -1,5 +1,6 @@
 ---
 name: "Aurora, Texas"
+coordinates: [33.0590, -97.5031]
 tags:
   - location
 ---

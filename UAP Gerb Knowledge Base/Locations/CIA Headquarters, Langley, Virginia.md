@@ -1,5 +1,6 @@
 ---
 name: "CIA Headquarters, Langley, Virginia"
+coordinates: [38.9519, -77.1467]
 tags:
   - location
 ---

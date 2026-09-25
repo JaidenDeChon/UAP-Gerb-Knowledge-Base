@@ -1,5 +1,6 @@
 ---
 name: "Atlanta, Georgia"
+coordinates: [33.7490, -84.3880]
 location_type: "city"
 tags:
   - location

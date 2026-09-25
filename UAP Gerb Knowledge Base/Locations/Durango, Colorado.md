@@ -1,5 +1,6 @@
 ---
 name: "Durango, Colorado"
+coordinates: [37.2753, -107.8801]
 location_type: "city"
 tags:
   - location

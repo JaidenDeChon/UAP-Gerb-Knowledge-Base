@@ -1,5 +1,6 @@
 ---
 name: "Shag Harbour, Nova Scotia"
+coordinates: [43.4950, -65.7140]
 tags:
   - location
 ---

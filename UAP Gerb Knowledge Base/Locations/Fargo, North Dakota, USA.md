@@ -1,5 +1,6 @@
 ---
 name: "Fargo, North Dakota, USA"
+coordinates: [46.8772, -96.7898]
 tags:
   - location
 ---

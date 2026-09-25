@@ -10,11 +10,14 @@ const LIMIT = 6
 // Served from the vault scan baked in at build time (see `wiki/videos.ts`), so
 // a newly processed video lands here on the next deploy without an edit.
 // `lazy` for the same reason the page's own content query is — see index.vue.
-const { data: videos, pending } = useFetch<VideoCard[]>('/api/videos', {
+const { data: videos, pending, status } = useFetch<VideoCard[]>('/api/videos', {
   key: 'recent-videos',
   query: { limit: LIMIT },
   lazy: true,
 })
+
+// Part of the home page: it doesn't show until the strip has its videos.
+usePageReady(() => status.value === 'success' || status.value === 'error')
 
 // Below the container breakpoint the list is a horizontal scroll-snap
 // carousel; these arrows page it (swiping works regardless).

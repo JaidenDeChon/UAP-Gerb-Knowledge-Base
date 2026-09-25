@@ -1,5 +1,6 @@
 ---
 name: "R2508 Complex"
+coordinates: [35.3000, -117.4000]
 location_type: "facility"
 tags:
   - location

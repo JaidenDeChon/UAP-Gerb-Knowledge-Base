@@ -1,5 +1,6 @@
 ---
 name: "Nevada Test and Training Range (NTR)"
+coordinates: [37.4000, -116.3000]
 tags:
   - location
 ---

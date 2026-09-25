@@ -1,5 +1,6 @@
 ---
 name: "Boulder, Colorado"
+coordinates: [40.0150, -105.2705]
 location_type: "city"
 tags:
   - location

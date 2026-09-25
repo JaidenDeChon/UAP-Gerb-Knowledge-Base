@@ -1,5 +1,6 @@
 ---
 name: "Ascension Island"
+coordinates: [-7.9467, -14.3559]
 tags:
   - location
 ---

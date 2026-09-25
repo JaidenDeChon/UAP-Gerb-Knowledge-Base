@@ -1,5 +1,6 @@
 ---
 name: "NAMRU South, Lima, Peru"
+coordinates: [-12.0586, -77.1068]
 tags:
   - location
 ---

@@ -1,5 +1,6 @@
 ---
 name: "Hanscom Air Force Base, Massachusetts"
+coordinates: [42.4620, -71.2890]
 tags:
   - location
 ---

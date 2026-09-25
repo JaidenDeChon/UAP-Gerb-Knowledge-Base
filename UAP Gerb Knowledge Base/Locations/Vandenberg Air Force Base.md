@@ -1,5 +1,6 @@
 ---
 name: "Vandenberg Air Force Base"
+coordinates: [34.7420, -120.5724]
 tags:
   - location
 ---

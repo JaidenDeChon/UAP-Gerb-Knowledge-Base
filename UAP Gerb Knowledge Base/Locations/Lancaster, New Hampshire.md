@@ -1,5 +1,6 @@
 ---
 name: "Lancaster, New Hampshire"
+coordinates: [44.4889, -71.5692]
 tags:
   - location
 ---

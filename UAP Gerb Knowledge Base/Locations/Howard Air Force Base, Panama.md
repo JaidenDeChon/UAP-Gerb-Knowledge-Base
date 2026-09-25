@@ -1,5 +1,6 @@
 ---
 name: "Howard Air Force Base, Panama"
+coordinates: [8.9150, -79.5997]
 tags:
   - location
 ---

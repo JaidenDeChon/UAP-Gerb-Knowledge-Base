@@ -1,5 +1,6 @@
 ---
 name: "Kamchatka Peninsula"
+coordinates: [56.0000, 159.0000]
 tags:
   - location
 ---

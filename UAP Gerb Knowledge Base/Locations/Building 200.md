@@ -1,5 +1,6 @@
 ---
 name: "Building 200"
+coordinates: [36.2361, -115.0342]
 tags:
   - location
 ---

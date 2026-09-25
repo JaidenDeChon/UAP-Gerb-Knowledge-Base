@@ -1,5 +1,6 @@
 ---
 name: "Denver, Colorado"
+coordinates: [39.7392, -104.9903]
 location_type: "city"
 tags:
   - location

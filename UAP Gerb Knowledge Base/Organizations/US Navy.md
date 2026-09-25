@@ -15,7 +15,7 @@ The Navy has been described as operating compartmentalized UAP-related programs 
 
 ## Potential Connection to Flyby Footage
 
-The [[Flyby Footage]] has been analyzed for potential connection to Navy operations or documentation, though the footage's apparent characteristics suggest an F-18 platform more consistent with NASA chase aircraft configuration than standard Navy fighter operations. However, audio waveform analysis of the flyby footage has been compared to ambient sounds from the USS Nitze during the 2019 spherical UAP water entry event, raising questions about where the screen recording that produced the flyby footage may have been created.
+The [[Flyby Footage]] has been analyzed for potential connection to Navy operations or documentation, though the footage's apparent characteristics suggest an F-18 platform more consistent with NASA chase aircraft configuration than standard Navy fighter operations. However, audio waveform analysis of the flyby footage has been compared to ambient sounds from the USS Omaha during the 2019 spherical UAP water entry event, raising questions about where the screen recording that produced the flyby footage may have been created.
 
 ## Sources
 

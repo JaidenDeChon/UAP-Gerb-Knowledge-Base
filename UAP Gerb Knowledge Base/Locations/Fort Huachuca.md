@@ -1,5 +1,6 @@
 ---
 name: "Fort Huachuca"
+coordinates: [31.5545, -110.3485]
 tags:
   - location
 ---

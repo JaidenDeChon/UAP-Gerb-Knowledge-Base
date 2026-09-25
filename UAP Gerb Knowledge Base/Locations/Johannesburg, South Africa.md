@@ -1,5 +1,6 @@
 ---
 name: "Johannesburg, South Africa"
+coordinates: [-26.2041, 28.0473]
 tags:
   - location
 ---

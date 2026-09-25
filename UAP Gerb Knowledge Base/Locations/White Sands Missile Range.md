@@ -1,5 +1,6 @@
 ---
 name: "White Sands Missile Range"
+coordinates: [33.0000, -106.4000]
 location_type: "facility"
 tags:
   - location

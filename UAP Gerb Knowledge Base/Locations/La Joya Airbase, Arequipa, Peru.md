@@ -1,5 +1,6 @@
 ---
 name: "La Joya Airbase, Arequipa, Peru"
+coordinates: [-16.7917, -71.8867]
 location_type: "facility"
 tags:
   - location

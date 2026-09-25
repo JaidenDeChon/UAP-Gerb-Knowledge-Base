@@ -3,6 +3,7 @@ import { computed, onMounted, watch } from 'vue'
 
 const route = useRoute()
 const sidebarOpen = useSidebarOpen()
+const pageLoading = useNuxtApp().$pageLoad.loading
 
 // The full-screen graph lives at /map (and its renderer test routes under
 // /map/*); everything else scrolls its content.
@@ -50,12 +51,24 @@ router.beforeEach((to, from) => {
         class="relative"
         :class="isMap ? 'h-[calc(100dvh-3.5rem)] overflow-hidden' : 'flex-1'"
       >
-        <slot />
+        <!-- Hidden while the page loads (main.css, "The page loader"). Not
+             positioned, so a page's absolutely placed content (the graph at
+             /map) still sits against <main>. -->
+        <div class="ufo-page">
+          <slot />
+        </div>
       </main>
     </div>
 
     <AppCommandPalette />
     <WikiVideoDock />
+
+    <!-- The app's one loader, and the veil the page unblurs through. Shown
+         and hidden by data-page-loading / data-page-revealing on <html>
+         (plugins/page-load.ts); pages hold them with usePageReady. -->
+    <AppLoadingMark />
+    <div class="ufo-reveal-veil" aria-hidden="true" />
+    <span class="sr-only" role="status">{{ pageLoading ? 'Loading…' : '' }}</span>
   </div>
 </template>
 

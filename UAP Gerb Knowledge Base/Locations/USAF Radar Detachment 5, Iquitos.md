@@ -1,5 +1,6 @@
 ---
 name: "USAF Radar Detachment 5, Iquitos"
+coordinates: [-3.7437, -73.2516]
 tags:
   - location
 ---

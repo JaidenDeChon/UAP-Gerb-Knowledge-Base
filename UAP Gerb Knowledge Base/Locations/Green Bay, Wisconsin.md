@@ -1,5 +1,6 @@
 ---
 name: "Green Bay, Wisconsin"
+coordinates: [44.5133, -88.0133]
 tags:
   - location
 ---

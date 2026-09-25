@@ -1,5 +1,6 @@
 ---
 name: "Indonesia"
+coordinates: [-2.5489, 118.0149]
 location_type: "country"
 tags:
   - location

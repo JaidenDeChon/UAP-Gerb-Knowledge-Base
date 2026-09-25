@@ -1,5 +1,6 @@
 ---
 name: "Fort Hood"
+coordinates: [31.1389, -97.7797]
 tags:
   - location
 ---

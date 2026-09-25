@@ -1,5 +1,6 @@
 ---
 name: "Johnson Space Center"
+coordinates: [29.5593, -95.0900]
 location_type: "research_facility"
 tags:
   - location

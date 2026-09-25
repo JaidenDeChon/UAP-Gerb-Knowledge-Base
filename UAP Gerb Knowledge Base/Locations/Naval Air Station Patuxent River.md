@@ -1,5 +1,6 @@
 ---
 name: "Naval Air Station Patuxent River"
+coordinates: [38.2860, -76.4120]
 tags:
   - location
 ---

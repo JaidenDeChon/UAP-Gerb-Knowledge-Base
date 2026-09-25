@@ -1,5 +1,6 @@
 ---
 name: "Pine Gap, Australia"
+coordinates: [-23.7990, 133.7370]
 location_type: "facility"
 tags:
   - location

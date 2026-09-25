@@ -9,6 +9,7 @@ import {
   Clapperboard,
   Compass,
   Crosshair,
+  Earth,
   FileText,
   House,
   MapPin,
@@ -199,6 +200,10 @@ function go(path: string): void {
         <CommandItem value="/map" @select="go('/map')">
           <Radar />
           <span class="flex-1 truncate">Site map (all entries)</span>
+        </CommandItem>
+        <CommandItem value="/world" @select="go('/world')">
+          <Earth />
+          <span class="flex-1 truncate">World map (all locations)</span>
         </CommandItem>
       </CommandGroup>
 

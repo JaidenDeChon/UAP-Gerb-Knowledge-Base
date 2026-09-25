@@ -1,5 +1,6 @@
 ---
 name: "Cheyenne Mountain Complex"
+coordinates: [38.7442, -104.8461]
 location_type: "facility"
 tags:
   - location

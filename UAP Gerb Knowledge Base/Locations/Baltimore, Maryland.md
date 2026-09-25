@@ -1,5 +1,6 @@
 ---
 name: "Baltimore, Maryland"
+coordinates: [39.2904, -76.6122]
 tags:
   - location
 ---

@@ -1,5 +1,6 @@
 ---
 name: "Palm Springs, California"
+coordinates: [33.8303, -116.5453]
 location_type: "city"
 tags:
   - location

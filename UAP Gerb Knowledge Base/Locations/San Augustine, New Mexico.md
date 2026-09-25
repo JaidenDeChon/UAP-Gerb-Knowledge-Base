@@ -1,5 +1,6 @@
 ---
 name: "San Augustine, New Mexico"
+coordinates: [34.0000, -107.6000]
 tags:
   - location
 ---

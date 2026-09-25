@@ -1,5 +1,6 @@
 ---
 name: "Sumatra, Indonesia"
+coordinates: [-0.5891, 101.3431]
 tags:
   - location
 ---

@@ -1,5 +1,6 @@
 ---
 name: "Nuremberg, Holy Roman Empire"
+coordinates: [49.4521, 11.0767]
 tags:
   - location
 ---

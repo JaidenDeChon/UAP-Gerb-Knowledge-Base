@@ -1,5 +1,6 @@
 ---
 name: "Hangar 84"
+coordinates: [33.3016, -104.5306]
 tags:
   - location
 ---

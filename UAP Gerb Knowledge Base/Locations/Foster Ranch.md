@@ -1,5 +1,6 @@
 ---
 name: "Foster Ranch"
+coordinates: [33.9500, -105.3167]
 tags:
   - location
 ---

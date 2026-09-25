@@ -1,5 +1,6 @@
 ---
 name: "Raven Rock Complex (Site R)"
+coordinates: [39.7340, -77.4190]
 location_type: "facility"
 tags:
   - location

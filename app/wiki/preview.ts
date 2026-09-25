@@ -11,9 +11,12 @@ import { VAULT_DIR } from './vault'
  * Built once, at build time, and inlined into the server bundle — the deployed
  * Netlify function has no copy of the vault to read.
  */
-export function buildPreviews(): Record<string, NotePreview & { coordinates?: LatLon }> {
+/** A preview plus the frontmatter only the bake reads (it is not served on `/api/preview`). */
+export type BuiltPreview = NotePreview & { coordinates?: LatLon, locationType?: string }
+
+export function buildPreviews(): Record<string, BuiltPreview> {
   const { stemByPath, nodeByPath } = graphIndex()
-  const previews: Record<string, NotePreview & { coordinates?: LatLon }> = {}
+  const previews: Record<string, BuiltPreview> = {}
 
   for (const [path, stem] of stemByPath) {
     const node = nodeByPath.get(path)
@@ -35,6 +38,7 @@ export function buildPreviews(): Record<string, NotePreview & { coordinates?: La
       lead: extractLead(body),
       tags: frontmatter.tags,
       ...(frontmatter.coordinates ? { coordinates: frontmatter.coordinates } : {}),
+      ...(frontmatter.location_type ? { locationType: frontmatter.location_type } : {}),
     }
   }
 
@@ -49,6 +53,8 @@ interface Frontmatter {
   tags: string[]
   /** `coordinates: [lat, lon]`, inline or as a two-item block list. */
   coordinates?: LatLon
+  /** A Location's kind (`base`, `city`, `facility`…), shown on the world map. */
+  location_type?: string
 }
 
 export function splitFrontmatter(raw: string): { frontmatter: Frontmatter, body: string } {
@@ -79,6 +85,7 @@ export function splitFrontmatter(raw: string): { frontmatter: Frontmatter, body:
     else if (key === 'name') frontmatter.name = unquote(value)
     else if (key === 'tags') frontmatter.tags.push(...parseInlineList(value))
     else if (key === 'coordinates') frontmatter.coordinates = parseCoordinates(value) ?? undefined
+    else if (key === 'location_type') frontmatter.location_type = unquote(value)
   }
   if (!frontmatter.coordinates && coordItems.length) {
     frontmatter.coordinates = parseCoordinates(coordItems) ?? undefined

@@ -1,5 +1,6 @@
 ---
 name: "Cincinnati, Ohio"
+coordinates: [39.1031, -84.5120]
 tags:
   - location
 ---

@@ -1,5 +1,6 @@
 ---
 name: "El Escorial, Madrid, Spain"
+coordinates: [40.5890, -4.1478]
 tags:
   - location
 ---
