@@ -424,6 +424,11 @@
     "sha256": "1db08b669bd96a279896a55866be8123ce2dc47f162e05af14bd4f0bdd802a42",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/Galactic Federation.md": {
+    "humanized_at": "2026-09-25T23:47:20Z",
+    "sha256": "325f51eeee7f6160d72dba67c8d626fa08c40c2bb8c6a86a03b6b2970e07190b",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
