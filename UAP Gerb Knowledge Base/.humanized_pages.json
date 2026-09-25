@@ -18,6 +18,11 @@
     "sha256": "3a2bfd70e8fe0158457d4302391ecce4f3e077753fb14185ae9bf09749b96243",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Videos/The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1/summary.md": {
+    "humanized_at": "2026-09-25T17:14:56Z",
+    "sha256": "7dbbc34df10c02d5b32e759b7479f0206c1cbb08db5cf448146b3a8d0cae82f4",
+    "cold_reader": true
+  },
   "app/app/components/app/AppCommandPalette.vue": {
     "humanized_at": "2026-09-25T16:58:23Z",
     "sha256": "35846ae6b176600f70f9bbf949c8948963b89ad19d441ef5c232e50f7d597c0b",

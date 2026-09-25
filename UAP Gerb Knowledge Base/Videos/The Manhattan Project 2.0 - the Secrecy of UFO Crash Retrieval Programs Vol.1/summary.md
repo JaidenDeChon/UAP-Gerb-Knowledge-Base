@@ -14,26 +14,26 @@ tags:
 ---
 stats:
   - value: 7
-    label: Years to build it
-    hint: "1947–1954, the formation epoch"
+    label: Years to set up the UFO effort
+    hint: "1947 to 1954, which Gerb calls the formation epoch"
   - value: 5
     label: Security pillars
     hint: "Copied from the Manhattan Project"
   - value: "130,000"
     label: Manhattan Project staff
-    hint: "About $24 billion in today's money"
+    hint: "The project cost about $24 billion in today's money"
   - value: 4
-    label: 5412 Committee seats
-    hint: "Created 15 March 1954"
+    label: Seats on the 5412 Committee
+    hint: "The committee was created on 15 March 1954"
   - value: "24+"
-    label: Control group since 1994
-    hint: "Quasi-government and industry"
+    label: People in the control group since 1994
+    hint: "A quasi-government and industry group"
   - value: 2009
-    label: Last central leader leaves
+    label: Last central leader leaves office
     hint: "Vice President Dick Cheney"
   - value: 51
     label: Years covered
-    hint: "Gerb's span, 1943–1994"
+    hint: "The period Gerb covers, 1943 to 1994"
   - value: "3h31m"
     label: Runtime
 ---
@@ -43,19 +43,19 @@ stats:
 
 This video is the first installment of UAP Gerb's two-part investigation into the security architecture behind [[UFO Legacy Program Framework|UFO legacy programs]], which Gerb calls the [[Manhattan Project 2.0]]: an organized, highly classified national effort that took the secrecy apparatus of the atomic bomb program and laid it directly over early UFO crash retrieval and reverse engineering. The thesis rests on [[David Grusch]]'s repeated statement that the government "took the Manhattan Project secrecy and overlaid it on this issue because that secrecy worked well for atomic bomb developments." Gerb argues that in roughly seven years, from 1947 to 1954, the Truman and Eisenhower administrations, guided above all by [[Vannevar Bush]] and [[George C. Marshall]], transplanted five [[Manhattan Project]] security pillars onto a covert UFO effort: compartmentalization, organizational architecture, physical security, classification and information control, and a political shield. The effort was anchored in the [[National Security Council]] and in the [[Atomic Energy Commission]]'s national laboratories.
 
-The video frames the whole apparatus with the [[Legacy Program Onion Model|onion]]: an innermost core of recovered craft, biological occupants and exploitation data, wrapped in layers of classification, cover organizations, program protection offices and disinformation. It sets that onion around Gerb's "legacy pyramid" of control group, program administrators, [[Federally Funded Research and Development Center (FFRDC)|FFRDCs]] and GOCOs, and prime contractors. Grusch is quoted describing both the Manhattan Project overlay and a decades-long "sub rosa Cold War" with rival nations running their own crash retrieval programs.
+The video pictures the whole apparatus as an [[Legacy Program Onion Model|onion]]: an innermost core of recovered craft, biological occupants and exploitation data, wrapped in layers of classification, cover organizations, program protection offices and disinformation. It sets that onion around Gerb's "legacy pyramid" of control group, program administrators, [[Federally Funded Research and Development Center (FFRDC)|FFRDCs]] and GOCOs (government-owned, contractor-operated sites), and prime contractors. Grusch is quoted describing both the Manhattan Project overlay and a decades-long "sub rosa Cold War" with rival nations running their own crash retrieval programs.
 
-The second half follows the Manhattan Project 2.0 through the Cold War. Eisenhower's EO 10501 opened a "wild wild west" of ad hoc top secret codeword access; Nixon's EO 11652 formalized [[Special Access Programs (SAPs)|special access programs]]; and in the early 1980s Reagan's EO 12356, the [[Yellow Fruit]] audit and a series of near-exposures brought on what Gerb calls the "great schism." The programs cut themselves into pieces and hid in cover offices, a process he says was completed in 1994, when [[Bill Perry]]'s reorganization of SAP oversight handed control to a quasi-government and industry group of just over two dozen people. [[Dick Cheney]] is named as the last man to hold the fragments together, until 2009.
+The second half follows the Manhattan Project 2.0 through the Cold War. Eisenhower's Executive Order 10501 opened a "wild wild west" of ad hoc top secret codeword access; Nixon's EO 11652 formalized [[Special Access Programs (SAPs)|special access programs]]; and in the early 1980s Reagan's EO 12356, the [[Yellow Fruit]] audit and a series of near-exposures brought on what Gerb calls the "great schism." The programs cut themselves into pieces and hid in cover offices, a process he says was completed in 1994, when [[Bill Perry]]'s reorganization of SAP oversight handed control to a quasi-government and industry group of just over two dozen people. [[Dick Cheney]] is named as the last man to hold the fragments together, until 2009.
 
 Part One covers roughly 1943 to 1994. [[Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/summary|Part Two]] takes up the modern era: the SAP framework in detail, program protection agencies, funding mechanisms and disinformation.
 
 ## Chronology
 
-The video is organized by security pillar and person rather than by date, so the playhead jumps back and forth on the ruler as it plays. Its own periodization runs from the Manhattan Project blueprint, through a seven-year formation epoch and the "wild wild west" of codeword access, to the great schism of the 1980s and the scattered programs after 1994.
+The video is organized by security pillar and person rather than by date, so as it plays, the green line that marks the video's position jumps back and forth along the bar of years. Its own periodization runs from the Manhattan Project blueprint, through a seven-year formation epoch and the "wild wild west" of codeword access, to the great schism of the 1980s and the scattered programs after 1994.
 
 ::wiki-timeline{video="jR-h5p2bd-A" video-title="The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs [VOL.1]"}
 ---
-help: "The bar pinned above the entries is a ruler from 1942 to the present. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line capped with a downward arrow is where Gerb is. The video is organized by theme, not date, so the playhead jumps back and forth. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Every timestamp has been checked against the captions."
+help: "The bar above the list runs from 1942 to the present, with a mark for each entry, coloured by type; taller marks are major entries. Click the bar to jump to a year. The dark line shows the entry you are reading. Play from here starts the video at that entry, and once it is playing a green line shows where Gerb is. Gerb organizes the video by theme rather than by date, so the green line jumps back and forth. Turn on Follow video to have the list scroll along with the video; scrolling yourself turns it off. Click a timestamp to play the video from that moment. Every timestamp has been checked against the video's captions."
 eras:
   - id: blueprint
     label: "The atomic blueprint"
@@ -74,7 +74,7 @@ eras:
     label: "The wild wild west"
     from: 1955
     to: 1981
-    summary: "The centralized Manhattan Project 2.0's glory days, hidden in the NSC's special groups and protected by ad hoc top secret codeword access, until special access controls begin to expose it."
+    summary: "The glory days of a centralized Manhattan Project 2.0, hidden in the NSC's special groups and protected by ad hoc top secret codeword access, until special access controls begin to expose it."
     anchor: "eisenhower-nixon-and-the-wild-west"
   - id: schism
     label: "The great schism"
@@ -133,7 +133,7 @@ events:
   - date: "1945"
     title: "Truman briefed by the Top Policy Group"
     cue: 5081
-    summary: "Although Truman had chased an unexplained 'expediting production' budget line as head of the Senate's Truman Committee, and was not briefed as FDR's vice president, he learned of the Manhattan Project only from the Top Policy Group on taking office in 1945. Gerb presents the group, which kept presidential control while bypassing normal channels, as the model for the UFO control group."
+    summary: "As head of the Senate's Truman Committee, Truman had chased an unexplained 'expediting production' budget line, and as FDR's vice president he was not briefed. He learned of the Manhattan Project only from the Top Policy Group on taking office in 1945. Gerb presents the group, which kept presidential control while bypassing normal channels, as the model for the UFO control group."
     category: event
     significance: notable
     entities:
@@ -154,7 +154,7 @@ events:
   - date: "1947-01-29"
     title: "Armed Forces Special Weapons Project established"
     cue: 3221
-    summary: "Secretary of War Robert P. Patterson and Secretary of the Navy James Forrestal established AFSWP, a joint Army and Navy venture to manage nuclear weapons after the AEC succeeded the Manhattan Project. Gerb sees it as dual-hatted between the atomic program and the Manhattan Project 2.0, operating at Sandia Base."
+    summary: "Secretary of War Robert P. Patterson and Secretary of the Navy James Forrestal established AFSWP, a joint Army and Navy venture to manage nuclear weapons after the AEC succeeded the Manhattan Project. Gerb sees it as dual-hatted, serving both the atomic program and the Manhattan Project 2.0 from Sandia Base."
     category: organization
     significance: notable
     entities:
@@ -164,7 +164,7 @@ events:
   - date: "1947-07"
     title: "Roswell crashes galvanize the Manhattan Project 2.0"
     cue: 2062
-    summary: "While earlier cases such as 1933's Magenta, Italy suggest prior awareness, Gerb dates the organized national effort to the July 1947 Roswell, New Mexico crashes and later crashes in the American Southwest, including Aztec (1948) and Kingman (1953)."
+    summary: "Earlier cases such as Magenta, Italy, in 1933 suggest prior awareness, but Gerb dates the organized national effort to the July 1947 Roswell, New Mexico crashes and later crashes in the American Southwest, including Aztec (1948) and Kingman (1953)."
     category: event
     significance: major
     entities:
@@ -185,7 +185,7 @@ events:
   - date: "1947-08"
     title: "National Security Council becomes the program coordinator"
     cue: 5249
-    summary: "Agreeing with former New Mexico state representative J. Andrew Kissner, Gerb says coordination of the fledgling Manhattan Project 2.0 was given to the National Security Council, newly formed under the 1947 National Security Act, carrying the Top Policy Group model into the White House."
+    summary: "Gerb agrees with former New Mexico state representative J. Andrew Kissner that coordination of the fledgling Manhattan Project 2.0 went to the National Security Council, newly formed under the 1947 National Security Act. That carried the Top Policy Group model into the White House."
     category: policy
     significance: major
     entities:
@@ -279,7 +279,7 @@ events:
   - date: "1953"
     title: "Kingman retrieval under Operation Upshot-Knothole"
     cue: 3051
-    summary: "Eyewitness Arthur Stansel Jr. named Edward Bushnell Doll, sent to the Upshot-Knothole nuclear tests under an AFSWP-overseen task force, as coordinating the Kingman, Arizona retrieval, and Eric Henry Wang of the Air Research and Development Command as leading its reverse engineering. Gerb thinks crash retrieval was partly housed under ARDC."
+    summary: "Eyewitness Arthur Stansel Jr. named Edward Bushnell Doll as the coordinator of the Kingman, Arizona retrieval; Doll had been sent to the Upshot-Knothole nuclear tests under an AFSWP-overseen task force. Stansel named Eric Henry Wang of the Air Research and Development Command as the leader of its reverse engineering. Gerb thinks crash retrieval was partly housed under ARDC."
     category: event
     significance: notable
     entities:
@@ -292,7 +292,7 @@ events:
   - date: "1953"
     title: "Research and Development Board abolished"
     cue: 6559
-    summary: "The RDB's functions passed to a new Assistant Secretary of Defense for Research and Development, a post that survives as today's Under Secretary of Defense for Research and Engineering, which Gerb ties, with the intelligence and acquisition under secretaries, to legacy activity."
+    summary: "The Research and Development Board's functions passed to a new Assistant Secretary of Defense for Research and Development. The post survives as today's Under Secretary of Defense for Research and Engineering, which Gerb ties to legacy activity along with the under secretaries for intelligence and acquisition."
     category: organization
     significance: minor
     entities:
@@ -355,7 +355,7 @@ events:
   - date: "1964"
     title: "Craven's Deep Submergence Systems Project"
     cue: 10250
-    summary: "Dr. John P. Craven, chief scientist of the Navy's Special Projects Office, led the DSSP to push the Navy's deep-ocean search, rescue, salvage and recovery depth, producing the Mystic and Avalon rescue vehicles."
+    summary: "Dr. John P. Craven, chief scientist of the Navy's Special Projects Office, led the DSSP to extend how deep the Navy could search, rescue, salvage and recover in the ocean. It produced the Mystic and Avalon rescue vehicles."
     category: program
     significance: minor
     entities:
@@ -363,7 +363,7 @@ events:
   - date: "1965"
     title: "Craven briefed into Project Sanddollar"
     cue: 10355
-    summary: "Craven was briefed into Sanddollar, a compartmented seafloor recovery program hidden under layers of cover programs beneath the Polaris missile program. His 'seventh veil', in which no one could be sure of reaching the innermost compartment, is presented as an early statement of the onion."
+    summary: "Craven was briefed into Sanddollar, a compartmented seafloor recovery program hidden under layers of cover programs beneath the Polaris missile program. His 'seventh veil', in which no one could be sure of reaching the innermost compartment, is presented as an early statement of the onion model, Gerb's picture of secrecy as nested layers."
     category: program
     significance: notable
     entities:
@@ -372,7 +372,7 @@ events:
   - date: "1972-03"
     title: "Executive Order 11652 formalizes special access programs"
     cue: 8995
-    summary: "Nixon's EO 11652 formally established a framework for special access programs, shifting from Eisenhower-era ad hoc controls to structured policy while keeping tight limits on congressional and interagency awareness."
+    summary: "Nixon's EO 11652 formally established a framework for special access programs. It replaced Eisenhower-era ad hoc controls with structured policy but kept tight limits on congressional and interagency awareness."
     category: policy
     significance: major
     entities:
@@ -431,7 +431,7 @@ events:
   - date: "c. 1985"
     title: "SAF/AA 'outside activities' under Edward C. Aldridge"
     cue: 10575
-    summary: "An Air Force history of the Administrative Assistant's office, citing a 2018 interview with retired SAF/AA William A. Davidson, describes 'outside activities' in other agencies started in 'Pete Aldridge's day', under SAF/AA control but outside SAF/AAZ, the Air Force SAPCO. Gerb argues Aldridge, then both Under Secretary of the Air Force and NRO director, moved joint NRO and Air Force activities there as a cover office after the mid-1980s audits."
+    summary: "An Air Force history of the office of the Administrative Assistant to the Secretary of the Air Force (SAF/AA) cites a 2018 interview with William A. Davidson, a retired SAF/AA. It describes 'outside activities' in other agencies, started in 'Pete Aldridge's day', that SAF/AA controlled but that sat outside SAF/AAZ, the Air Force's special access program central office. Gerb argues Aldridge, then both Under Secretary of the Air Force and NRO director, moved joint NRO and Air Force activities there as a cover office after the mid-1980s audits."
     category: program
     significance: major
     entities:
@@ -468,7 +468,7 @@ events:
   - date: "1994"
     title: "Perry's reorganization hands control to a quasi-government and industry group"
     cue: 10017
-    summary: "As Deputy Secretary of Defense, William Perry expanded the Special Access Program Central Office and the Special Access Program Oversight Committee and created its Senior Review Group. Gerb says this moved legacy oversight to a panel of 'just over two dozen' people, the last year the programs had any central leadership."
+    summary: "As Deputy Secretary of Defense, William Perry expanded the Special Access Program Central Office and the Special Access Program Oversight Committee and created its Senior Review Group. Gerb says this moved legacy oversight to a panel of 'just over two dozen' people, and that this was the last year the programs had any central leadership."
     category: policy
     significance: major
     entities:
@@ -516,7 +516,7 @@ events:
   - date: "2010"
     title: "Transclassified foreign nuclear information named"
     cue: 4414
-    summary: "The Section 142 category was given the name 'transclassified foreign nuclear information' (TFNI) under 32 CFR Part 2001. TFNI keeps Atomic Energy Act protections, including exemption from declassification, while handled like national security information."
+    summary: "The Section 142 category was given the name 'transclassified foreign nuclear information' (TFNI) under 32 CFR Part 2001. TFNI keeps Atomic Energy Act protections, including exemption from declassification, while being handled like national security information."
     category: policy
     significance: minor
     entities:
@@ -528,14 +528,14 @@ events:
 
 Gerb opens with the question he says is most often asked about UFO legacy programs: how could craft, biologics and whole programs stay secret for nearly 90 years when "the US government can't keep a secret"? His answer is structure. The programs are, in his words, a "labyrinthine, yet fractured ecosystem" of special access, unacknowledged special access and controlled access programs inside the government, armed forces and intelligence community, tasked with retrieving, storing, exploiting and deriving technology from non-human technical vehicles. What was once a unified effort of America's most prestigious scientists, flag officers and statesmen now exists as "scattered fiefdoms," with no recognized oversight group over all of it.
 
-He models the structure as a **pyramid**, then models its protection as an **onion**. The pyramid is the organization; the onion, like the limestone casing that once covered the pyramids of Giza, is the security wrapped around it, and the subject of both parts of the series.
+He models the structure as a pyramid, and its protection as an onion. The pyramid is the organization; the onion, like the limestone casing that once covered the pyramids of Giza, is the security wrapped around it, and the subject of both parts of the series.
 
 ::wiki-org-chart
 ---
 root:
   name: "Control group"
   label: "Top of the pyramid"
-  note: "Once held by presidents, senior statesmen and later Dick Cheney; since 2009 a tenuous seat that sits effectively empty, with perhaps a handful of people who understand the full scope."
+  note: "Once held by presidents and senior statesmen, and later by Dick Cheney. Since 2009 it has been a tenuous seat that sits effectively empty; perhaps a handful of people understand the full scope."
   children:
     - name: "Program administration"
       label: "Siloed containers"
@@ -551,14 +551,14 @@ root:
 ---
 ::
 
-The **onion** explains why even insiders cannot see the whole. Its core holds "the beating heart" of legacy activity, the retrieval, storage, exploitation and derivation of non-human craft and their occasional occupants, and every layer outside it is built to be impassable both to outsiders and to cleared participants confined to one compartment. Gerb cites a source he believes, who he says worked for years on legacy program security for the Navy and for an FFRDC's operations concerning unidentified submerged objects. This source gave an "onion briefing" to senior statesmen and flag officers hundreds of times, and told Gerb: "I was on the legacy program when I found out there were others." Gerb then maps the layers that Part Two will peel, from the outside in:
+The onion explains why even insiders cannot see the whole. Its core holds "the beating heart" of legacy activity, the retrieval, storage, exploitation and derivation of non-human craft and their occasional occupants, and every layer outside it is built to be impassable both to outsiders and to cleared participants confined to one compartment. Gerb cites a source he trusts, who he says worked for years on legacy program security for the Navy and for an FFRDC's operations concerning unidentified submerged objects. This source gave an "onion briefing" to senior statesmen and flag officers hundreds of times, and told Gerb: "I was on the legacy program when I found out there were others." Gerb then maps the layers that Part Two will peel, from the outside in:
 
-1. **Disinformation and narrative management**, the skin: stigma campaigns from the 1950s to [[AARO]], and "partial transparency" efforts such as [[AATIP (Advanced Aerospace Threat Identification Program)|AATIP]], [[To The Stars Academy]] and the attempt to make Hillary Clinton a "disclosure president", which he says came from inside the onion, from the NSC and [[James Clapper]].
-2. **The SAP framework**: how programs hide in special access programs, and how SAPs become waived and unacknowledged to hide even from Congress and presidents.
-3. **Program protection agencies**, the "antibodies" Grusch ran into: SAP central offices, AFOSI's Office of Special Projects (PJ), the [[DARPA Security and Intelligence Directorate (SID)|DARPA Security and Intelligence Directorate]], the Department of Energy's [[Office of Intelligence and Counterintelligence]] and the [[Air Force Life Cycle Management Center (AFLCMC)|AFLCMC]] Information Protection Directorate.
-4. **Unrivaled secrecy**: the many sub-layers between the SAP layer and the core, including cover offices, dual-hatted positions that work like a CIA non-official cover, and funding shaved from many programs.
+1. Disinformation and narrative management, the skin: stigma campaigns from the 1950s to [[AARO]], and "partial transparency" efforts such as [[AATIP (Advanced Aerospace Threat Identification Program)|AATIP]], [[To The Stars Academy]] and the attempt to make Hillary Clinton a "disclosure president", which he says came from inside the onion, from the NSC and [[James Clapper]].
+2. The SAP framework: how programs hide in special access programs, and how SAPs become waived and unacknowledged to hide even from Congress and presidents.
+3. Program protection agencies, the "antibodies" Grusch ran into: SAP central offices, AFOSI's Office of Special Projects (PJ), the [[DARPA Security and Intelligence Directorate (SID)|DARPA Security and Intelligence Directorate]], the Department of Energy's [[Office of Intelligence and Counterintelligence]] and the [[Air Force Life Cycle Management Center (AFLCMC)|AFLCMC]] Information Protection Directorate.
+4. Unrivaled secrecy: the many sub-layers between the SAP layer and the core, including cover offices, dual-hatted positions that work like a CIA non-official cover, and funding shaved from many programs.
 
-Near the end Gerb plays [[David Grusch]] at a space symposium with Jeremy Corbell and Mike Gold, describing the programs as hidden "in an onion fashion" and as scattered grains of rice in a rice bowl, which Gerb takes as independent confirmation of his model. He also rejects [[Hal Puthoff]]'s claim that the portfolio sits wholly with contractors to evade FOIA: contractor custody would be far too exposed to leaks and espionage.
+Near the end Gerb plays [[David Grusch]] at a space symposium with Jeremy Corbell and Mike Gold, describing the programs as hidden "in an onion fashion" and as scattered grains of rice in a rice bowl, which Gerb takes as independent confirmation of his model. He also rejects [[Hal Puthoff]]'s claim that the portfolio sits wholly with contractors to evade FOIA, arguing that contractor custody would be far too exposed to leaks and espionage.
 
 ## The Manhattan Project as Blueprint
 
@@ -566,7 +566,7 @@ The Manhattan Project cost nearly $24 billion in today's money, employed nearly 
 
 ::wiki-compare{video="jR-h5p2bd-A" video-title="The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs [VOL.1]"}
 ---
-caption: "Gerb's five security pillars, and how he argues each was carried into the alleged Manhattan Project 2.0. Each pillar's chip jumps to where his section on it begins; the subsections below take them in turn."
+caption: "Gerb's five security pillars of the Manhattan Project, and how he argues each was carried into the alleged Manhattan Project 2.0. The timestamp beside each pillar plays the video from where Gerb starts on it. The sections below take the pillars one at a time."
 attributeLabel: "Pillar"
 subjects:
   - name: "Manhattan Project"
@@ -604,21 +604,21 @@ rows:
 
 ### Compartmentalization
 
-The Manhattan Project made "need-to-know" famous: bar a handful of scientists, program managers and security staff, personnel were read into only what their task required. Grusch, in a clip, compares it to fuse workers who did not know their fuses were for a nuclear weapon, and calls the practice "debilitating for progress." Gerb notes that for the Manhattan Project 2.0, everyone from Grusch to [[Bob Lazar]] has described the same thing; Lazar said propulsion teams on recovered craft could share findings only with their immediate lab partner, though Gerb leaves Lazar's testimony out of his analysis because of his own bias. His Navy and FFRDC source described programs so tightly held that scientists did accounting so finance staff need not be read in, and industrial security officers did janitorial work so no custodian would see a special access program facility. Compartmentalization, Gerb notes, is also the basis of the modern SAP, a single umbrella containing many compartmented subcomponents.
+The Manhattan Project made "need-to-know" famous: bar a handful of scientists, program managers and security staff, personnel were read into only what their task required. Grusch, in a clip, compares it to fuse workers who did not know their fuses were for a nuclear weapon, and calls the practice "debilitating for progress." Gerb notes that for the Manhattan Project 2.0, everyone from Grusch to [[Bob Lazar]] has described the same thing; Lazar said propulsion teams on recovered craft could share findings only with their immediate lab partner, though Gerb leaves Lazar's testimony out of his analysis because of his own bias. His Navy and FFRDC source described programs so tightly held that scientists did accounting so finance staff need not be read in, and industrial security officers did janitorial work so no custodian would see a special access program facility. Compartmentalization, Gerb notes, is also the basis of the modern special access program (SAP), a single umbrella containing many compartmented subcomponents.
 
 ### Organizational architecture
 
-The project took its name from the Manhattan Engineer District (MED), an Army Corps of Engineers "district" with a deliberately mundane name that served as its legal and administrative shell, handling acquisition, contracting, construction and personnel security. Inside that shell General [[Leslie Groves]] enjoyed near-total autonomy and reported through an extremely short chain, directly to the Secretary of War and Army Chief of Staff George C. Marshall, which let him skirt ordinary acquisition channels.
+The project took its name from the Manhattan Engineer District (MED), an Army Corps of Engineers "district" with a deliberately mundane name that was its legal and administrative shell, handling acquisition, contracting, construction and personnel security. Inside that shell General [[Leslie Groves]] had near-total autonomy and reported through an extremely short chain, directly to the Secretary of War and Army Chief of Staff George C. Marshall, which let him skirt ordinary acquisition channels.
 
-Gerb sees the same design in the Air Force's modern [[Hidden Wing]], which he calls his most important work. Test and evaluation of recovered craft, derivative airframes and alien reproduction vehicles is said to run on the Edwards 412th Test Wing, the Utah Test and Training Range and the Nevada Test and Training Range, supported by GOCO sites such as [[Air Force Plant 42]]. Day-to-day work falls under the Air Force Test Center, part of [[Air Force Materiel Command (AFMC)|Air Force Materiel Command]]; administration and acquisition sit with [[SAFAQ|SAF/AQ]] and the Administrative Assistant to the Secretary of the Air Force (SAF/AA). The key element, Gerb argues, is the [[Rapid Capabilities Office (RCO)|Rapid Capabilities Office]], which can work in the gray area of acquisition with near-limitless budgets and short chains of command, just as Groves used the MED.
+Gerb sees the same design in the Air Force's modern [[Hidden Wing]], which he calls his most important work. Test and evaluation of recovered craft, derivative airframes and alien reproduction vehicles is said to run on the Edwards 412th Test Wing, the Utah Test and Training Range and the Nevada Test and Training Range, supported by GOCO sites such as [[Air Force Plant 42]]. Day-to-day work falls under the Air Force Test Center, part of [[Air Force Materiel Command (AFMC)|Air Force Materiel Command]]; administration and acquisition sit with [[SAFAQ|SAF/AQ]] and the Administrative Assistant to the Secretary of the Air Force (SAF/AA). The most important piece, Gerb argues, is the [[Rapid Capabilities Office (RCO)|Rapid Capabilities Office]], which can work in the gray area of acquisition with near-limitless budgets and short chains of command, just as Groves used the MED.
 
 He then traces AFMC's lineage back to the late 1940s to argue that the Air Force was the primary research, development, test and evaluation element for recovered vehicles from the start. Three of AFMC's six operational areas, the Test Center, AFLCMC and the [[Air Force Research Laboratory]], are said to be directly involved.
 
 ::wiki-chain{video="jR-h5p2bd-A" video-title="The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs [VOL.1]"}
 ---
 kind: custody
-label: "Lineage"
-caption: "Gerb traces AFMC backward from 1992; here the lineage reads forward in time. The dates are the video's."
+label: "Where Air Force Materiel Command came from"
+caption: "Gerb traces Air Force Materiel Command (AFMC) back from 1992; this chart runs forward in time instead. The dates are the ones given in the video."
 steps:
   - name: "Air Materiel Command"
     note: "In 1947 tried to recruit Nazi engineers through Operation Paperclip for an 'underground plant program.'"
@@ -666,7 +666,7 @@ Outside the Air Force, Gerb singles out the [[Armed Forces Special Weapons Proje
 
 The atomic program kept permanent security at Los Alamos, Albuquerque, Oak Ridge and Hanford, and Gerb notes that [[Sandia National Laboratories|Sandia]] and [[Los Alamos National Laboratory|Los Alamos]] remain central to the legacy structure; he has also relayed firsthand testimony about underground work on the skin of recovered craft beneath [[Oak Ridge National Laboratory|Oak Ridge]]'s [[Y-12 Complex]]. But the lesson he emphasizes is hiding in plain sight. [[Enrico Fermi]]'s Chicago Pile-1, the world's first artificial reactor, sat under a squash court beneath the stands of Stagg Field at the University of Chicago, unknown even to the mayor. In the same way, he says, West Coast corporate parks once allegedly held recovered non-human bodies beside ordinary office work, East Coast science parks house material exploitation, and some special access program facilities are entered through doors as ordinary as one in a shopping mall. He adds the Tejon radar cross-section facility, made to look derelict while its underground components stay active.
 
-The legal teeth came from a Truman order. Former New Mexico state representative [[Andrew Kissner|J. Andrew Kissner]], whom Gerb calls "a mini David Grusch prototype," interviewed legacy program firsthanders in the early 1990s; his findings led Congressman [[Steven Schiff]] to open a General Accounting Office inquiry into Roswell. Kissner said recovered UFOs of the 1940s and 1950s were analyzed by teams under Vannevar Bush with Los Alamos and its Z Division at Sandia Base, and that in **July 1948 a classified presidential executive order signed by Truman vested custody of recovered technical vehicles in the Atomic Energy Commission and its national laboratories**, supported by Air Force Systems Command and the Naval Research Laboratory. Gerb calls this the origin of the FFRDC and GOCO layer of his pyramid, a "massive security enforcement layer" that keeps an iron grip on material while controlling what reaches contractors. He believes a series of such orders in 1948, which [[Eric Davis]] has called presidential emergency action documents (PEADs), also set up the NSC as the program's oversight body.
+The legal teeth came from a Truman order. Former New Mexico state representative [[Andrew Kissner|J. Andrew Kissner]], whom Gerb calls "a mini David Grusch prototype," interviewed legacy program firsthanders in the early 1990s; his findings led Congressman [[Steven Schiff]] to open a General Accounting Office inquiry into Roswell. Kissner said recovered UFOs of the 1940s and 1950s were analyzed by teams under Vannevar Bush with Los Alamos and its Z Division at Sandia Base, and that in July 1948 a classified presidential executive order signed by Truman vested custody of recovered technical vehicles in the Atomic Energy Commission and its national laboratories, supported by Air Force Systems Command and the Naval Research Laboratory. Gerb calls this the origin of the FFRDC and GOCO layer of his pyramid, a "massive security enforcement layer" that keeps an iron grip on material while controlling what reaches contractors. He believes a series of such orders in 1948, which [[Eric Davis]] has called presidential emergency action documents (PEADs), also set up the NSC as the program's oversight body.
 
 ### Classification and information control
 
@@ -710,7 +710,7 @@ root:
 
 ### Political shield and cover
 
-The Manhattan Project answered to a tiny **Top Policy Group** through which the president kept control while going around normal channels. Truman, who as a senator had been rebuffed by Henry Stimson when his Truman Committee asked about an unexplained "expediting production" budget line, was not briefed as vice president and learned of the bomb only from the group on taking office in 1945. Gerb argues Truman then carried the model over: in agreement with Kissner, he says coordination of the Manhattan Project 2.0 went to the National Security Council formed in August 1947. Eisenhower "deep-sixed" it further by creating the NSC 5412 Committee, or Special Group, on 15 March 1954, on the same principles: keep the read-in group small, keep the paper trail minimal, and keep presidential control through a trusted intermediary. Because informal meetings of NSC members are held off the books, Gerb argues, "with the stroke of his pen, Eisenhower created the impenetrable UFO control group that would ultimately usurp our system of checks and balances."
+The Manhattan Project answered to a tiny Top Policy Group through which the president kept control while going around normal channels. Truman, who as a senator had been rebuffed by Henry Stimson when his Truman Committee asked about an unexplained "expediting production" budget line, was not briefed as vice president and learned of the bomb only from the group on taking office in 1945. Gerb argues Truman then carried the model over: in agreement with Kissner, he says coordination of the Manhattan Project 2.0 went to the National Security Council formed in August 1947. Eisenhower "deep-sixed" it further by creating the NSC 5412 Committee, or Special Group, on 15 March 1954, on the same principles: keep the read-in group small, keep the paper trail minimal, and keep presidential control through a trusted intermediary. Because informal meetings of NSC members are held off the books, Gerb argues, "with the stroke of his pen, Eisenhower created the impenetrable UFO control group that would ultimately usurp our system of checks and balances."
 
 The overlap between the groups is his evidence. Bush sat on the Top Policy Group and allegedly on Majestic 12, and alleged [[Majestic 12]] member Gordon Gray later held a 5412 seat:
 
@@ -765,10 +765,10 @@ Gerb's second argument is about people: the same individuals, he says, built bot
 
 He gathers four lines of evidence that name Bush as the first man to lead crash retrieval and reverse engineering:
 
-- **Wilbert Smith's 1950 memo.** Canadian radio engineer [[Wilbert B. Smith]] asked Canada's Department of Transport to open a UFO study, relaying a Washington source's claims that the subject was classified higher than the H-bomb, that flying saucers exist, and that "a small group headed by Dr. Vannevar Bush" was studying them. The memo stayed top secret until 15 September 1969; [[Arthur Bray]] and [[Stanton Friedman]] obtained copies in 1978. The source was physicist [[Robert Sarbacher]], a consultant to the Research and Development Board.
-- **Sarbacher's 1983 statements.** Writing to [[William Steinman]], Sarbacher said [[John Von Neumann|John von Neumann]] was definitely involved in 1940s and 1950s crash retrieval and that he strongly suspected Oppenheimer was too. Steinman's interviews with Sarbacher also brought up [[Eric A. Walker]], who admitted attending the 1965 [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg]] crash.
-- **Kissner's account** that recovered vehicles were processed directly under Bush's supervision.
-- **Steinman's 1986 book**, *UFO Crash at Aztec: A Well-Kept Secret*, which argues at length that Bush led the scientific team at the 1948 [[Aztec UFO Crash and Recovery|Aztec, New Mexico retrieval]], alongside alleged MJ-12 members Detlev Bronk, Lloyd Berkner and Jerome Hunsaker, plus Carl A. Hyland, von Neumann and [[J. Robert Oppenheimer]]. Gerb considers Aztec real but says Steinman did not document his sources; he cannot rule out that Steinman drew on the Interplanetary Phenomenon Unit documents before they leaked.
+- In a 1950 memo, Canadian radio engineer [[Wilbert B. Smith]] asked Canada's Department of Transport to open a UFO study, relaying a Washington source's claims that the subject was classified higher than the H-bomb, that flying saucers exist, and that "a small group headed by Dr. Vannevar Bush" was studying them. The memo stayed top secret until 15 September 1969; [[Arthur Bray]] and [[Stanton Friedman]] obtained copies in 1978. The source was physicist [[Robert Sarbacher]], a consultant to the Research and Development Board.
+- In 1983, writing to [[William Steinman]], Sarbacher said [[John Von Neumann|John von Neumann]] was definitely involved in 1940s and 1950s crash retrieval and that he strongly suspected Oppenheimer was too. Steinman's interviews with Sarbacher also brought up [[Eric A. Walker]], who admitted attending the 1965 [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg]] crash.
+- Kissner said that recovered vehicles were processed directly under Bush's supervision.
+- Steinman's 1986 book, *UFO Crash at Aztec: A Well-Kept Secret*, argues at length that Bush led the scientific team at the 1948 [[Aztec UFO Crash and Recovery|Aztec, New Mexico retrieval]], alongside alleged MJ-12 members Detlev Bronk, Lloyd Berkner and Jerome Hunsaker, plus Carl A. Hyland, von Neumann and [[J. Robert Oppenheimer]]. Gerb considers Aztec real but says Steinman did not document his sources; he cannot rule out that Steinman drew on the Interplanetary Phenomenon Unit documents before they leaked.
 
 In a clip, Bush credits Soviet science's postwar surge to pulling commissars out of the laboratories. Gerb suggests this fear and respect of Soviet capability, and the Soviet penetration of the Manhattan Project through Klaus Fuchs, may partly explain why the Manhattan Project 2.0 never moved toward disclosure.
 
@@ -780,7 +780,7 @@ Oppenheimer was named repeatedly in the 1980s as a scientific member of the earl
 
 The Army has confirmed, through institutional memory alone, that an [[Interplanetary Phenomenon Unit]] existed: an in-house project for an unnamed Assistant Chief of Staff for Intelligence (G-2), with no formal mission, disestablished in the late 1950s, whose records went to the Air Force's Office of Special Investigations in connection with Project Blue Book. Researchers [[Ryan S. Wood]] and [[Robert Wood]] argue that the G-2 was a compartmented office and that the unit's real leader was [[George C. Marshall]]: Army Chief of Staff (1939–1945), Secretary of State (1947–1949) and Secretary of Defense (1950–1951). Placing its leadership in a subordinate office would have kept Marshall out of the chain of command, just as the Top Policy Group kept the bomb out of normal channels.
 
-Marshall runs through the disputed documents. An alleged 5 March 1942 memo from Marshall to Roosevelt discusses a craft recovered after the [[Battle of Los Angeles]] and proposes a special intelligence unit. The IPU report dated 22 July 1947 says Marshall was the only cabinet member who knew of the crashed UFOs, that Forrestal would be briefed on parts, and that AEC scientists including Oppenheimer were on the retrieval team. It also says AFSWP's Colonel Sherman V. Hausbrook sent a radiobiological team, a Special Engineer Detachment (SED) and a Sandia security detail to secure the Roswell site. Gerb notes that Hausbrook was a real colonel in postwar nuclear programs who worked closely with Groves and helped build AFSWP. SEDs, created by the Manhattan Engineer District in 1943, really were Army units of scientifically trained soldiers who worked beside civilian scientists at Los Alamos, Sandia Base and Oak Ridge.
+Marshall appears throughout the disputed documents. An alleged 5 March 1942 memo from Marshall to Roosevelt discusses a craft recovered after the [[Battle of Los Angeles]] and proposes a special intelligence unit. The IPU report dated 22 July 1947 says Marshall was the only cabinet member who knew of the crashed UFOs, that Forrestal would be briefed on parts, and that AEC scientists including Oppenheimer were on the retrieval team. It also says AFSWP's Colonel Sherman V. Hausbrook sent a radiobiological team, a Special Engineer Detachment (SED) and a Sandia security detail to secure the Roswell site. Gerb notes that Hausbrook was a real colonel in postwar nuclear programs who worked closely with Groves and helped build AFSWP. SEDs, created by the Manhattan Engineer District in 1943, really were Army units of scientifically trained soldiers who worked beside civilian scientists at Los Alamos, Sandia Base and Oak Ridge.
 
 ### Alsos and T-Force: the blueprint for crash retrieval teams
 
@@ -788,7 +788,7 @@ Gerb's strongest claim about Marshall is that he laid down the model for UFO rap
 
 ::wiki-compare{video="jR-h5p2bd-A" video-title="The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs [VOL.1]"}
 ---
-caption: "The wartime model and the modern teams Gerb says it prefigured, point by point."
+caption: "The wartime Alsos Mission and its T-Forces, compared point by point with the modern UFO recovery teams Gerb says they prefigured."
 attributeLabel: "Element"
 subjects:
   - name: "Alsos Mission"
@@ -825,9 +825,9 @@ Eisenhower's EO 10501 created the modern confidential, secret and top secret lev
 
 ### Reagan, Yellow Fruit and near-exposure
 
-Until the 1980s the equivalents of SAPs were "black programs," including the Lockheed Skunk Works' F-117A and Northrop's B-2, among which Gerb believes derivative technology found its way into human-made airframes such as the large black triangles often reported. Reagan's 1982 **EO 12356** expanded classification but, crucially, standardized SAPs and brought them under consistent oversight. Gerb pauses the video to stress that it "effectively ended the days of the legacy program wild, wild west," forcing the programs to find new ways to stay hidden. A 1985 national security decision directive tightened control further, and the Defense Counterintelligence and Security Agency's SAP course notes that SAPs were first publicly acknowledged in the early 1980s.
+Until the 1980s the equivalents of SAPs were "black programs," including the Lockheed Skunk Works' F-117A and Northrop's B-2, among which Gerb believes derivative technology found its way into human-made airframes such as the large black triangles often reported. Reagan's 1982 Executive Order 12356 expanded classification but also standardized SAPs and brought them under consistent oversight. Gerb pauses the video to stress that it "effectively ended the days of the legacy program wild, wild west," forcing the programs to find new ways to stay hidden. A 1985 national security decision directive tightened control further, and the Defense Counterintelligence and Security Agency's SAP course notes that SAPs were first publicly acknowledged in the early 1980s.
 
-The reason was **[[Yellow Fruit]]** and the Iran-Contra affair. In 1983 a routine DoD audit of cost discrepancies turned up Yellow Fruit, an unacknowledged SAP in the Army's Special Operations Division (SOD) that provided security and counterintelligence for the Contra mission and "other classified operations." Its cover was blown through Lieutenant Colonel James E. Duncan, who supported it from the G-2 staff and had staged a retirement to run a commercial cutout, BSI, which Gerb calls "quite literally data masking." Army Chief of Staff John Wickham said he had never been fully briefed on SOD's black programs. The revelation brought courts-martial, prison terms and much tighter SAP oversight, and helped expose the wider Iran-Contra enterprise, in which National Security Council staff sold arms to Iran from 1981 to 1986 to fund the Contras.
+The reason was [[Yellow Fruit]] and the Iran-Contra affair. In 1983 a routine DoD audit of cost discrepancies turned up Yellow Fruit, an unacknowledged SAP in the Army's Special Operations Division (SOD) that provided security and counterintelligence for the Contra mission and "other classified operations." Its cover was blown through Lieutenant Colonel James E. Duncan, who supported it from the G-2 staff and had staged a retirement to run a commercial cutout, BSI, which Gerb calls "quite literally data masking." Army Chief of Staff John Wickham said he had never been fully briefed on SOD's black programs. The revelation brought courts-martial, prison terms and much tighter SAP oversight, and helped expose the wider Iran-Contra enterprise, in which National Security Council staff sold arms to Iran from 1981 to 1986 to fund the Contras.
 
 Gerb believes the audit nearly exposed a UFO compartment. SAPs nest as a tier-one umbrella, tier-two compartments and tier-three sub-compartments, and Yellow Fruit was an umbrella with several missions. He compares it to the Navy's [[Project Sanddollar]]: Dr. [[John P. Craven]], chief scientist of the Navy's Special Projects Office, led the 1964 Deep Submergence Systems Project, and in 1965 a naval intelligence officer briefed him into Sanddollar, a program to find and recover items of national security interest from the seafloor. The briefing was so secret that even Craven's staff did not know where he went. Sanddollar sat under several layers of cover programs beneath the Polaris missile program, and Craven's "seventh veil", in which no one could be sure of having reached the innermost compartment, is for Gerb an early statement of the onion. He wagers a UFO program sat under the Yellow Fruit umbrella the way Sanddollar sat under Polaris.
 
@@ -847,7 +847,7 @@ The mid-1980s shocks set off what Gerb calls "snowballing protective countermeas
 ---
 kind: consequence
 label: "The great schism"
-caption: "Gerb's chain of dominoes from the end of the 'wild wild west' to today's fractured portfolio. Every link is his reading of events."
+caption: "How Gerb says the UFO programs broke apart, from the end of the 'wild wild west' of loosely controlled codeword access to today's fractured portfolio. Each step is his reading of events."
 steps:
   - text: "End of the 'wild wild west'"
     date: "1982–1985"
@@ -916,7 +916,7 @@ In his closing debrief, recorded with his Chihuahua beside him, Gerb recaps the 
 entries:
   - name: "Vannevar Bush"
     role: "OSRD director, Top Policy Group member, RDB chairman"
-    note: "Named by Gerb as the most pivotal architect of the Manhattan Project 2.0, and by Smith, Sarbacher, Kissner and Steinman as the first leader of crash retrieval and reverse engineering."
+    note: "Named by Gerb as the most important architect of the Manhattan Project 2.0, and by Smith, Sarbacher, Kissner and Steinman as the first leader of crash retrieval and reverse engineering."
   - name: "George C. Marshall"
     role: "Army Chief of Staff, Secretary of State and Secretary of Defense"
     note: "The apex of Groves' short chain of command. Gerb credits him with the Alsos and T-Force model for recovery teams; researchers allege he secretly led the Interplanetary Phenomenon Unit."
