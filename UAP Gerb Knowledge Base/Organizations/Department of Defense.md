@@ -5,16 +5,14 @@ tags:
   - organization
 ---
 
-Alleged operator of UFO retrieval and reverse engineering task forces; Rumsfeld selected Haver as special assistant for intelligence
+The Department of Defense allegedly ran task forces for UFO retrieval and reverse engineering. Rumsfeld selected Haver as special assistant for intelligence.
 
-Department of Defense, referenced as having guidebooks applicable to reverse engineering situations at NSWC Crane
+It is referenced as having guidebooks that apply to reverse engineering situations at NSWC Crane, and as housing elements involved in UFO legacy programs and IMCON.
 
-Referenced as housing elements involved in UFO legacy programs and IMCON
+The department is also referenced in the context of congressional oversight of Special Access Programs under Title 10 US Code Section 119.
 
-Referenced in context of congressional oversight of Special Access Programs under Title 10 US Code Section 119
+As a parent organization, it is referenced in the context of UAP legacy programs and the use of advanced aerospace platforms.
 
-Parent organization referenced in context of UAP legacy programs and use of advanced aerospace platforms
+The Department of Defense is the parent institution of AARO. It is referenced in the context of intelligence community deception about UAPs.
 
-Parent institution of AARO; referenced in context of intelligence community deception regarding UAPs
-
-Senior figures within DOD/IC accused of involvement in UFO legacy programs
+Senior figures within the DOD/IC (the Department of Defense and the intelligence community) have been accused of involvement in UFO legacy programs.
