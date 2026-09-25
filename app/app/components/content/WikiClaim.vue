@@ -72,7 +72,7 @@ function refOf(name: string): NoteRef | undefined {
 }
 
 const many = computed(() => model.value.claims.length > 1)
-const kicker = computed(() => props.label.trim() || (many.value ? 'Claims and responses' : 'Claim and response'))
+const kicker = computed(() => props.label.trim() || (many.value ? 'Claims and how people responded' : 'A claim and how people responded'))
 const term = computed(() => props.term.trim() || 'Claim')
 const listLabel = computed(() => props.caption ? `${kicker.value}: ${props.caption}` : kicker.value)
 
