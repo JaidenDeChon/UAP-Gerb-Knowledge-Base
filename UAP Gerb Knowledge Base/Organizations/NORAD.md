@@ -9,9 +9,9 @@ The North American Aerospace Defense Command (NORAD) is a bi-national United Sta
 
 ## UFO Tracking Since 1957
 
-On January 6, 1967, [[J. Allen Hynek]] — scientific adviser to [[Project Blue Book]] — disclosed at [[Goddard Space Flight Center]] that **NORAD has been tracking UFOs since 1957** and that **every single continental United States military UFO case in Project Blue Book files is designated as a NORAD case**.
+On January 6, 1967, [[J. Allen Hynek]], scientific adviser to [[Project Blue Book]], disclosed at [[Goddard Space Flight Center]] that NORAD has been tracking UFOs since 1957. He added that every single continental United States military UFO case in Project Blue Book files is designated as a NORAD case.
 
-This revelation confirmed that while Project Blue Book conducted public-facing UFO investigations, NORAD maintained parallel classified tracking of unidentified objects using the most sophisticated aerospace surveillance systems available to the US military. NORAD's tracking infrastructure includes:
+Hynek's disclosure confirmed that while Project Blue Book ran the public-facing UFO investigations, NORAD kept its own classified tracking of unidentified objects, using the most sophisticated aerospace surveillance systems available to the US military. NORAD tracks objects with:
 
 - Ground-based radar networks
 - Space-based infrared satellites (including [[Defense Support Program (DSP)]] satellites)
@@ -20,9 +20,9 @@ This revelation confirmed that while Project Blue Book conducted public-facing U
 
 ## Fast Walker Detection and Classification
 
-NORAD, working in coordination with [[US Northern Command]] and [[US Space Force]], developed and uses the designation "[[Fast Walkers]]" for objects detected entering or leaving Earth's atmosphere at extreme velocities — too fast to be atmospheric phenomena. These detections are made primarily by DSP satellites and other space-based sensor systems.
+NORAD, working in coordination with [[US Northern Command]] and [[US Space Force]], developed and uses the designation "[[Fast Walkers]]" for objects detected entering or leaving Earth's atmosphere at speeds too high for atmospheric phenomena. Most of these detections come from DSP satellites and other space-based sensors.
 
-The Fast Walker designation allows NORAD and related commands to classify and withhold UFO detection data by using technical terminology that falls outside standard FOIA requests for "UFO" or "UAP" information.
+Filing detections under the technical term Fast Walker lets NORAD and related commands classify and withhold UFO detection data, because the term falls outside standard FOIA requests for "UFO" or "UAP" information.
 
 ## FOIA Denials and Cost Barriers
 
@@ -30,17 +30,17 @@ NORAD has consistently refused to disclose UFO/Fast Walker tracking data:
 
 ### 1979 Request by Greenwood and Fawcett
 
-[[Barry J. Greenwood]] and [[Lawrence Fawcett]] requested UAP tracking data from NORAD. The command responded that fulfilling the request would cost **$155,000** (in 1979 dollars, over $500,000 today). A follow-up request for fee waiver was denied three years later.
+[[Barry J. Greenwood]] and [[Lawrence Fawcett]] requested UAP tracking data from NORAD. The command replied that fulfilling the request would cost $155,000 (in 1979 dollars, over $500,000 today). A follow-up request for a fee waiver was denied three years later.
 
 ### 2013 Request by John Greenwald
 
 [[John Greenewald]] of [[The Black Vault]] submitted a FOIA request for Fast Walker documentation. US Northern Command (NORAD's parent command) responded that Fast Walker data is "currently and properly classified" under Executive Order 13526 as "critical to National Defense or foreign policy."
 
-However, NORTHCOM did release two unclassified research papers confirming that DSP satellites have been detecting Fast Walkers since 1972.
+NORTHCOM did release two unclassified research papers, which confirm that DSP satellites have been detecting Fast Walkers since 1972.
 
 ## Significance
 
-NORAD's 66-year history (1957-present) of tracking UFOs represents the longest continuous government UFO monitoring program known to exist. The $155,000 price NORAD put on a 1979 search of its records suggests NORAD possesses one of the most comprehensive records of UFO activity over North America and near-Earth space.
+NORAD has tracked UFOs for 66 years (1957-present), the longest continuous government UFO monitoring program known to exist. The $155,000 price NORAD put on a 1979 search of its records suggests that it has one of the most comprehensive records of UFO activity over North America and near-Earth space.
 
 ## Sources
 
