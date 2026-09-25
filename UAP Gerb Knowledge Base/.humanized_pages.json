@@ -159,6 +159,11 @@
     "sha256": "c0e27865893beb42cb8ffd44ad3a8a6831e2edf984b2e2548600de0331b472fa",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/American Association for the Advancement of Science.md": {
+    "humanized_at": "2026-09-25T23:38:34Z",
+    "sha256": "19e91a11c88942d9ab29cc4305af810d7177f668deda039ac6bd6634243d666c",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
