@@ -234,6 +234,11 @@
     "sha256": "9b86244539ab7645e2db387aa24822f7a0507f6a481b8cf2c7566a58bd8b26e7",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/Blue Berets.md": {
+    "humanized_at": "2026-09-25T23:40:23Z",
+    "sha256": "1efa7bb2cce466fdfa0ce4b08ce363fac7263973d651927ddaf29dd0d4573727",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
