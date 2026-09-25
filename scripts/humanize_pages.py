@@ -7,11 +7,24 @@ the page as done.
 
     python3 scripts/humanize_pages.py next             # print the next page to humanize
     python3 scripts/humanize_pages.py status           # counts: done, stale, remaining
+    python3 scripts/humanize_pages.py next --articles  # next item in the article-page sweep
+    python3 scripts/humanize_pages.py status --articles
     python3 scripts/humanize_pages.py check PAGE       # compare PAGE with its HEAD version
     python3 scripts/humanize_pages.py record PAGE      # mark PAGE as humanized
 
 Paths are relative to the repo root, e.g.
 "UAP Gerb Knowledge Base/People/AJ Hartley.md".
+
+The article sweep (`--articles`) covers what a reader sees on a rich video
+article: first the app source files that hold the page's UI text (buttons,
+tooltips, labels, empty states), then every article listed in
+.rich_videos.json. An item counts as done in this sweep only when it was
+recorded with the cold-reader rule (see page-humanizer.md), so articles that
+were humanized before that rule existed come back once.
+
+For an app source file (.vue or .ts), `check` masks every string literal and
+every piece of template text, then requires the rest of the file (the code)
+to be unchanged. <style> blocks must be unchanged too.
 
 `check` exits 1 when the rewrite broke a hard rule (frontmatter, headings,
 component structure, wikilinks, links, numbers, quotes). It also prints
@@ -42,8 +55,55 @@ SKIP_NAMES = {"transcript.md"}
 SKIP_DIRS = {"_templates", ".obsidian"}
 
 # Inside a ::wiki-* component's YAML body only these keys hold prose.
-PROSE_KEYS = {"summary", "significance", "note", "help", "hint"}
-PROSE_KEY_RE = re.compile(r"^(\s*-?\s*)(" + "|".join(sorted(PROSE_KEYS)) + r"):(.*)$")
+PROSE_KEYS = {"summary", "significance", "note", "help", "hint", "caption", "text", "via", "estimate"}
+# Extra prose keys that only hold prose inside one component: a stat strip's
+# `label` is the caption under the number, not an id.
+COMPONENT_PROSE_KEYS = {"wiki-stat-strip": {"label"}}
+PROSE_KEY_RE = re.compile(r"^(\s*-?\s*)([\w-]+):(.*)$")
+
+# App source files that put text on a rich article page, in sweep order: the
+# article's own chrome first, then the components the articles use, then the
+# helpers that hold those components' wording.
+APP = ROOT / "app" / "app"
+ARTICLE_UI = [
+    "pages/wiki/[...slug].vue",
+    "layouts/default.vue",
+    "components/wiki/WikiVideoHero.vue",
+    "components/wiki/WikiVideoDock.vue",
+    "components/content/WikiWatch.vue",
+    "components/content/WikiCue.vue",
+    "components/wiki/WikiTocRail.vue",
+    "components/wiki/WikiLinkedEntries.vue",
+    "components/wiki/WikiFactTable.vue",
+    "components/wiki/WikiPersonPortrait.vue",
+    "components/wiki/WikiLocalMap.vue",
+    "components/content/WikiInfo.vue",
+    "components/content/WikiTimeline.vue",
+    "components/wiki/TimelineChronometer.vue",
+    "utils/timeline.ts",
+    "components/content/WikiChain.vue",
+    "components/wiki/ChainSequence.vue",
+    "utils/chain.ts",
+    "components/content/WikiClaim.vue",
+    "utils/claim.ts",
+    "components/content/WikiCompare.vue",
+    "components/wiki/CompareCell.vue",
+    "utils/compare.ts",
+    "components/content/WikiMap.vue",
+    "utils/map.ts",
+    "components/content/WikiOrgChart.vue",
+    "components/wiki/OrgChartNode.vue",
+    "components/content/WikiRoster.vue",
+    "components/wiki/DiagramFrame.vue",
+    "components/wiki/DiagramToolbar.vue",
+    "components/wiki/DiagramDialog.vue",
+    "components/app/AppTopBar.vue",
+    "components/app/AppSidebar.vue",
+    "components/app/AppSidebarTree.vue",
+    "components/app/AppCommandPalette.vue",
+    "components/app/AppThemeSwitcher.vue",
+]
+RICH_LEDGER = VAULT / ".rich_videos.json"
 
 WIKILINK_RE = re.compile(r"\[\[[^\]]+\]\]")
 URL_RE = re.compile(r"\]\([^)]+\)|https?://\S+")
@@ -101,8 +161,38 @@ def classify() -> tuple[list[Path], list[Path], list[Path]]:
     return new, stale, done
 
 
-def cmd_next() -> int:
-    new, stale, _ = classify()
+def article_items() -> list[Path]:
+    """The article sweep: UI source files, then rich articles newest first."""
+    items = [APP / f for f in ARTICLE_UI if (APP / f).is_file()]
+    rich = json.loads(RICH_LEDGER.read_text(encoding="utf-8")) if RICH_LEDGER.exists() else {}
+    by_id: dict[str, Path] = {}
+    for summary in (VAULT / "Videos").rglob("summary.md"):
+        m = re.search(r"^video_id:\s*\"?([\w-]+)\"?\s*$", summary.read_text(encoding="utf-8"), re.M)
+        if m:
+            by_id[m.group(1)] = summary
+    order = sorted(rich, key=lambda vid: rich[vid].get("published", ""), reverse=True)
+    items += [by_id[vid] for vid in order if vid in by_id]
+    return items
+
+
+def classify_articles() -> tuple[list[Path], list[Path], list[Path]]:
+    """Like classify(), for the article sweep: done means recorded with the
+    cold-reader rule and unchanged since."""
+    ledger = load_ledger()
+    new, stale, done = [], [], []
+    for item in article_items():
+        entry = ledger.get(rel(item))
+        if entry is None or not entry.get("cold_reader"):
+            new.append(item)
+        elif entry.get("sha256") != sha(item):
+            stale.append(item)
+        else:
+            done.append(item)
+    return new, stale, done
+
+
+def cmd_next(articles: bool = False) -> int:
+    new, stale, _ = classify_articles() if articles else classify()
     queue = new + stale
     if not queue:
         print("ALL DONE")
@@ -111,8 +201,8 @@ def cmd_next() -> int:
     return 0
 
 
-def cmd_status() -> int:
-    new, stale, done = classify()
+def cmd_status(articles: bool = False) -> int:
+    new, stale, done = classify_articles() if articles else classify()
     print(f"done: {len(done)}  never humanized: {len(new)}  changed since humanized: {len(stale)}")
     return 0
 
@@ -122,6 +212,7 @@ def cmd_record(page: Path) -> int:
     ledger[rel(page)] = {
         "humanized_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "sha256": sha(page),
+        "cold_reader": True,
     }
     LEDGER.write_text(json.dumps(dict(sorted(ledger.items())), indent=2, ensure_ascii=False) + "\n",
                       encoding="utf-8")
@@ -147,6 +238,7 @@ def split(text: str) -> tuple[str, list[str], str]:
     prose: list[str] = []
     in_code = False
     in_component = False
+    component = ""
     for line in text.splitlines():
         stripped = line.strip()
         if stripped.startswith("```"):
@@ -158,6 +250,7 @@ def split(text: str) -> tuple[str, list[str], str]:
             continue
         if re.match(r"^:{2,}[\w-]", stripped):
             in_component = True
+            component = re.match(r"^:{2,}([\w-]+)", stripped).group(1)
             locked.append(line)
             continue
         if re.match(r"^:{2,}$", stripped):
@@ -166,6 +259,8 @@ def split(text: str) -> tuple[str, list[str], str]:
             continue
         if in_component:
             pm = PROSE_KEY_RE.match(line)
+            if pm and pm.group(2) not in PROSE_KEYS | COMPONENT_PROSE_KEYS.get(component, set()):
+                pm = None
             if pm:
                 locked.append(f"{pm.group(1)}{pm.group(2)}:")
                 # The value's own quotes are YAML syntax, not a quotation.
@@ -201,6 +296,82 @@ def show(counter: Counter) -> str:
     return ", ".join(f"{k!r}" + (f" x{v}" if v > 1 else "") for k, v in sorted(counter.items()))
 
 
+# Comments come first so an apostrophe in a comment never opens a string.
+STRING_RE = re.compile(r"//[^\n]*|/\*.*?\*/|'(?:[^'\\\n]|\\.)*'|\"(?:[^\"\\\n]|\\.)*\"|`(?:[^`\\]|\\.)*`", re.S)
+# Static attributes whose values a reader sees or hears.
+TEXT_ATTR_RE = re.compile(r"(?<![:@\w-])((?:aria-label|aria-description|title|placeholder|alt|label|description)=)\"[^\"]*\"")
+TEXT_NODE_RE = re.compile(r">([^<>\"=]*)<")
+MUSTACHE_RE = re.compile(r"\{\{.*?\}\}", re.S)
+BOUND_ATTR_RE = re.compile(r"((?:[:@#]|v-)[\w:.-]*=)\"([^\"]*)\"")
+
+
+# Single-word strings that are code, not copy: keyboard keys and the like.
+CODE_WORDS = {"Enter", "Escape", "Tab", "Home", "End", "Space", "Backspace", "Delete",
+              "PageUp", "PageDown", "Shift", "Control", "Alt", "Meta", "Root"}
+
+
+def mask_strings(text: str) -> str:
+    """Mask the string literals that read as copy: they hold a space or an
+    ellipsis, or are one capitalised word. Ids, class names, keys and paths
+    stay visible to the check."""
+    def one(m: re.Match) -> str:
+        if m.group(0).startswith("/"):
+            return m.group(0)
+        body = m.group(0)[1:-1]
+        text = re.sub(r"\$\{[^}]*\}", "", body) if m.group(0)[0] == "`" else body
+        prose = (re.search(r"[A-Za-z]", text) and (" " in text.strip() or "…" in text)
+                 or (re.fullmatch(r"[A-Z][a-z]+", text) and text not in CODE_WORDS))
+        if not prose:
+            return m.group(0)
+        if m.group(0)[0] == "`":
+            # Keep the ${...} expressions visible: they are code.
+            return "`" + "§".join(re.findall(r"\$\{[^}]*\}", body)) + "§S§`"
+        return "§S§"
+    return STRING_RE.sub(one, text)
+
+
+def mask_code(text: str, vue: bool) -> str:
+    """Blank out everything a UI copy edit may change, so what is left is code."""
+    if not vue:
+        return mask_strings(text)
+    out = []
+    # Split into top-level blocks; <template> is masked as markup, <script> as code.
+    for block in re.split(r"(?=^<(?:template|script|style)\b)", text, flags=re.M):
+        if block.startswith("<script"):
+            out.append(mask_strings(block))
+        elif block.startswith("<template"):
+            b = MUSTACHE_RE.sub(lambda m: mask_strings(m.group(0)), block)
+            b = BOUND_ATTR_RE.sub(lambda m: m.group(1) + '"' + mask_strings(m.group(2)) + '"', b)
+            b = TEXT_ATTR_RE.sub(r'\1"§A§"', b)
+            b = TEXT_NODE_RE.sub(lambda m: ">§T§<" if re.search(r"[A-Za-z]", m.group(1)) and "{{" not in m.group(1) and "§S§" not in m.group(1) else m.group(0), b)
+            out.append(b)
+        else:
+            out.append(block)
+    return "".join(out)
+
+
+def cmd_check_code(page: Path, old: str, new: str) -> int:
+    vue = page.suffix == ".vue"
+    errors: list[str] = []
+    if vue:
+        styles = lambda t: re.findall(r"^<style\b.*?^</style>", t, re.S | re.M)
+        if styles(old) != styles(new):
+            errors.append("<style> changed; only user-facing text may change")
+    old_code, new_code = mask_code(old, vue).splitlines(), mask_code(new, vue).splitlines()
+    if old_code != new_code:
+        import difflib
+        diff = [l for l in difflib.unified_diff(old_code, new_code, lineterm="", n=0)
+                if l.startswith(("+", "-")) and not l.startswith(("+++", "---"))]
+        errors.append("code changed outside string literals and template text "
+                      "(only user-facing text may change):" + "".join(f"\n    {l}" for l in diff[:20]))
+    for e in errors:
+        print(f"ERROR {e}")
+    if errors:
+        return 1
+    print("ok (now run the app's tests and typecheck: cd app && npx vitest run && npx vue-tsc --noEmit)")
+    return 0
+
+
 def cmd_check(page: Path) -> int:
     try:
         old = subprocess.run(["git", "show", f"HEAD:{rel(page)}"], cwd=ROOT, check=True,
@@ -212,6 +383,8 @@ def cmd_check(page: Path) -> int:
     if old == new:
         print("unchanged")
         return 0
+    if page.suffix in (".vue", ".ts"):
+        return cmd_check_code(page, old, new)
 
     old_fm, old_locked, old_prose = split(old)
     new_fm, new_locked, new_prose = split(new)
@@ -225,7 +398,7 @@ def cmd_check(page: Path) -> int:
         added = [l for l in new_locked if l not in old_locked]
         detail = "".join(f"\n    - {l}" for l in lost[:10]) + "".join(f"\n    + {l}" for l in added[:10])
         errors.append("headings, code, component directives or component YAML changed "
-                      "(only summary/significance/note/help/hint values may change):" + (detail or " order differs"))
+                      "(only the values of " + "/".join(sorted(PROSE_KEYS)) + ", and a stat strip's label, may change):" + (detail or " order differs"))
 
     before, after = facts(old_prose), facts(new_prose)
     for kind in ("wikilinks", "links", "numbers", "quotes"):
@@ -257,10 +430,9 @@ def main(argv: list[str]) -> int:
         print(__doc__)
         return 2
     cmd = argv[1]
-    if cmd == "next":
-        return cmd_next()
-    if cmd == "status":
-        return cmd_status()
+    if cmd in ("next", "status"):
+        articles = "--articles" in argv[2:]
+        return cmd_next(articles) if cmd == "next" else cmd_status(articles)
     if len(argv) != 3:
         print(f"usage: {argv[0]} {cmd} PAGE")
         return 2
