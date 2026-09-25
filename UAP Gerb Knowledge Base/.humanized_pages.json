@@ -529,6 +529,11 @@
     "sha256": "0992b4f32711e6d9c3dcc78105ea5884d2621d35a2fa71b47f1e3d7612161b79",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/MITRE Corporation.md": {
+    "humanized_at": "2026-09-25T23:53:55Z",
+    "sha256": "35899acdcaeee317228be230ff2e6c8e0b31a587cd75e3ba0b75688568356717",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Organizations/MUFON.md": {
     "humanized_at": "2026-09-25T23:51:53Z",
     "sha256": "f81dc23129acd64fcdc19d6e4c848c8c1877bdcbdacfba03eca433b52998268d",
