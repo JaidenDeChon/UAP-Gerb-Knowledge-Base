@@ -39,7 +39,7 @@ const isApprox = computed(() => props.approx === true || props.approx === 'true'
  * the timeline entry it belongs to.
  */
 const ariaLabel = computed(() => {
-  const base = `Play the video from ${label.value}`
+  const base = `Play the video from ${isApprox.value ? 'about ' : ''}${label.value}`
   return props.entryTitle ? `${base} (${props.entryTitle})` : base
 })
 

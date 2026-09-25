@@ -4,8 +4,8 @@
     "sha256": "3c929658bca36c3c30ea11fc5f8aa55a2641e3992f1b07e596c81df50a17f961"
   },
   "app/app/components/content/WikiCue.vue": {
-    "humanized_at": "2026-09-25T16:43:37Z",
-    "sha256": "7677af2d360c9d2b343849ada339c5d58fa47b07e5557297b4b193520613de52",
+    "humanized_at": "2026-09-25T16:44:05Z",
+    "sha256": "ca162480f045503431018cb8fb68e06385990bfe809d456e491e3a72eccc35a9",
     "cold_reader": true
   },
   "app/app/components/content/WikiWatch.vue": {
