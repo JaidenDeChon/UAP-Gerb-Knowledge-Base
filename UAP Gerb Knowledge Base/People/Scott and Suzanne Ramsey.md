@@ -5,13 +5,13 @@ tags:
   - person
 ---
 
-**Scott and Suzanne Ramsey** are American UFO researchers best known for *The Aztec UFO Incident: The Case, Evidence, and Elaborate Cover-up of One of the Most Perplexing Crashes in History* (2015), written with Frank Thayer. It is the most extensive modern study of the [[Aztec UFO Crash and Recovery|1948 Aztec, New Mexico crash]]. UAP Gerb calls it the one book to buy on the case, praising its thorough sourcing and references. Video captions sometimes spell the name "Ramsay."
+Scott and Suzanne Ramsey are American UFO researchers best known for *The Aztec UFO Incident: The Case, Evidence, and Elaborate Cover-up of One of the Most Perplexing Crashes in History* (2015), written with Frank Thayer. It is the most extensive modern study of the [[Aztec UFO Crash and Recovery|1948 Aztec, New Mexico crash]]. Gerb calls it the one book to buy on the case and praises its thorough sourcing and references. Video captions sometimes spell the name "Ramsay."
 
 ## Research on Aztec
 
 Over years of fieldwork the Ramseys tracked down people who had been teenagers or young adults in the Aztec area in 1948. They recorded the testimony of oil worker [[Doug Noland]], deathbed witness [[Ken Farley]], rancher [[Valentine Archuleta]] and others. They also traced policeman [[Manuel Sandoval]] through a relative, though they did not interview him. In 2001 Scott Ramsey interviewed "George," a USAF airman who said he kept personnel records for the recovery at Walker Air Force Base. The couple also met Lee Crane, who recalled Air Force radar personnel describing ducks killed by microwave radar.
 
-Their archival work is equally central to the case as UAP Gerb presents it:
+Their archival work is just as central to the case as Gerb presents it:
 
 - In [[Frank Scully]]'s archive they found the recording of [[Silas Newton]]'s 1950 University of Denver lecture, Newton's chalkboard drawings, and his unfinished 1954 autobiography.
 - They found and reproduced the AFOSI interrogation of radio man [[George Koehler]].
