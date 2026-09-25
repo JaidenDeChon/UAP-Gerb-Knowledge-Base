@@ -9,7 +9,7 @@ Air Force Logistics Command (AFLC) was the U.S. Air Force major command, headqua
 
 ## In the Hidden Wing thesis
 
-UAP Gerb's *The Hidden Wing* says Gerb is "less interested in AFLC and more interested in what this MAJCOM was pre-1961". That was Air Materiel Command, which he believes received the Roswell wreckage at Wright-Patterson and ran a 1947 underground plant program with help from Operation Paperclip. AFLC matters to his argument mainly as the link that carries that lineage into modern AFMC.
+In UAP Gerb's *The Hidden Wing*, Gerb says he is "less interested in AFLC and more interested in what this MAJCOM was pre-1961". That was Air Materiel Command, which he believes received the Roswell wreckage at Wright-Patterson and ran a 1947 underground plant program with help from Operation Paperclip. In his argument, AFLC is mainly the step that carries that lineage into the modern AFMC.
 
 ## Sources
 
