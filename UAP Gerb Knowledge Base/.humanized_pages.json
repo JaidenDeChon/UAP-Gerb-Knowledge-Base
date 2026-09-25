@@ -128,6 +128,11 @@
     "sha256": "fc1f239560e8ba4287937bb434eccee976b3ce88bc161928ae022a236fd2a851",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/People/Betty Hill.md": {
+    "humanized_at": "2026-09-25T19:05:43Z",
+    "sha256": "dc46aecdc41db9573b0ac09fbefa7991d22e2ee4c9e9b522c3930233badb5fb0",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/Bill Burns.md": {
     "humanized_at": "2026-09-25T19:05:09Z",
     "sha256": "7dc149d3ccdb6a7ed55d6811611f3c7e26ba6410f365b7b0884f364872d6f7cc",
