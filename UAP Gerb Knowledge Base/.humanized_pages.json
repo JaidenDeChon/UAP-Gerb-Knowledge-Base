@@ -369,6 +369,11 @@
     "sha256": "2feeb616c437582a3396b266e9f96f5378795771bc59916fffac49a7af788cc6",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/Defense Threat Reduction Agency (DTRA).md": {
+    "humanized_at": "2026-09-25T23:45:32Z",
+    "sha256": "a3704719dd1373b6a5a41510212adf70c9a03d6a37c5f2f69d7ebbc7dab43816",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
