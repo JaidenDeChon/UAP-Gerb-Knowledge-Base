@@ -3,6 +3,11 @@
     "humanized_at": "2026-09-24T02:09:31Z",
     "sha256": "3c929658bca36c3c30ea11fc5f8aa55a2641e3992f1b07e596c81df50a17f961"
   },
+  "app/app/components/content/WikiWatch.vue": {
+    "humanized_at": "2026-09-25T16:43:13Z",
+    "sha256": "22a2ca2dfa7054bc0581f392a17a8492996ab518c377dd52b168372472928a46",
+    "cold_reader": true
+  },
   "app/app/components/wiki/WikiVideoDock.vue": {
     "humanized_at": "2026-09-25T16:43:05Z",
     "sha256": "be0f6d774968326fa27d20483585824c7d6bf8b32345f9d480c6cb379c1d18b6",
