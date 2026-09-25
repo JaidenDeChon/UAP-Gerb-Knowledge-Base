@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Fleet Admiral Nikolai Ivanovich Smirnov was a senior officer in the Soviet Navy who, following a significant USO encounter by the submarine repair ship Vulga in 1977, issued a formal directive mandating that Soviet hydrographic, scientific research, and reconnaissance ships report UFO sightings to naval authorities. His directive represents the Soviet equivalent of American reporting mandates such as [[OPNAV 3820]] and [[JANAP 146C]].
+Fleet Admiral Nikolai Ivanovich Smirnov was a senior officer in the Soviet Navy. After a notable encounter with unidentified submerged objects (USOs) involving the submarine repair ship Vulga in 1977, he issued a formal directive requiring Soviet hydrographic, scientific research and reconnaissance ships to report UFO sightings to naval authorities. The directive was the Soviet counterpart to American reporting mandates such as [[OPNAV 3820]] and [[JANAP 146C]].
 
 ## Mandatory UFO Reporting Directive
 
