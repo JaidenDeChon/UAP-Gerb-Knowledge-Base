@@ -219,6 +219,11 @@
     "sha256": "b99810e7a36116e7bbbac1905f9c7b1261be7339ca9f8a24cd46d057ccc962b5",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/Battelle Memorial Institute.md": {
+    "humanized_at": "2026-09-25T23:40:22Z",
+    "sha256": "1972259da418697b8cd290b10e5469faa46bee0a1aeeafe880d3f04d6d59e867",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
