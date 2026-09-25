@@ -15,34 +15,34 @@ tags:
 stats:
   - value: "1,460"
     label: Document discrepancies
-    hint: "In 40,000 Lockheed documents, GAO, 1986"
+    hint: "Found when the General Accounting Office checked 40,000 Lockheed documents in 1986"
   - value: 63
     label: Documents lost
-    hint: "46 destroyed, 17 transferred out"
+    hint: "Classified documents: 46 destroyed and 17 transferred out of Lockheed"
   - value: "$2.3B"
-    label: Aurora, FY1987
-    hint: "Over double the B-2's cost"
+    label: Aurora budget, FY1987
+    hint: "Planned for a program called Aurora; over double the B-2 bomber's cost"
   - value: "$10B+"
-    label: Black program budgets
-    hint: "Bernard Haisch's 2018 estimate"
+    label: Secret program budgets
+    hint: "Bernard Haisch's 2018 estimate for secret programs housed at contractors"
 ---
 ::
 
 ## Overview
 
-This video, part of Gerb's "UFOs in the Private Sector" series, examines [[Lockheed Martin]]'s alleged involvement in UFO crash retrieval, material storage and reverse engineering. Gerb calls Lockheed, the largest and most advanced US aerospace and defense corporation, "intimately woven" with the study of UFOs, a company whose name is dropped again and again by credible figures such as [[David Grusch]] and [[Gary Nolan]]. Unlike [[Battelle Memorial Institute]], the subject of the previous installment, Lockheed did not work openly with the US Air Force and ATIC on UFO investigations, and it has left what Gerb calls an "astonishingly thin" paper trail. He attributes this to the company's size and its record-keeping: as the nation's largest defense contractor, he supposes, it has very good systems for keeping such things out of view.
+This video, part of Gerb's "UFOs in the Private Sector" series, examines [[Lockheed Martin]]'s alleged involvement in UFO crash retrieval, material storage and reverse engineering. Gerb describes Lockheed, the largest and most advanced US aerospace and defense corporation, as "intimately woven" with the study of UFOs, and notes that credible figures such as [[David Grusch]] and [[Gary Nolan]] name it again and again. Unlike [[Battelle Memorial Institute]], the subject of the previous video in the series, Lockheed did not work openly with the US Air Force and ATIC on UFO investigations, and it has left what Gerb calls an "astonishingly thin" paper trail. He attributes this to the company's size and its record-keeping: as the nation's largest defense contractor, he supposes, it has very good systems for keeping such things out of view.
 
 The video opens with Grusch's claim that Lockheed wanted to divest itself of retrieved material held at a specific facility, and with former Senate Majority Leader [[Harry Reid]]'s 2021 statement that he was told for decades that Lockheed held retrieved materials but was refused Pentagon approval to see them. Gerb then weighs four Lockheed-connected insiders, [[Ben Rich]], [[Don Phillips]], [[Boyd Bushman]] and [[Bernard Haisch]], before turning to [[Edgar Fouche|Edgar Fouché]], an Air Force master sergeant whose [[TR-3B]] claims implicate the company. He ranks the three he assesses directly from most to least credible: Haisch, Bushman, Phillips.
 
-The second half follows the documents: an anti-gravity research line from the Glenn L. Martin Company through [[Martin Marietta]] to Lockheed Martin's own [[Advanced Technology Center (ATC)|Advanced Technology Center]]; a 1953 sighting by Lockheed test pilots that vanished from [[Project Blue Book]]; a 1986 General Accounting Office audit that found Lockheed's control of special access documents badly lacking, which Gerb connects to the audit mentioned in the [[Wilson-Davis Memo]]; and a set of strands tying black triangular craft to a program called [[Aurora Program|Aurora or Astra]]. Gerb closes by admitting that much of the Aurora material is speculation, and that Lockheed is probably as big a player as Battelle but far harder to track.
+The second half follows the documents: an anti-gravity research line from the Glenn L. Martin Company through [[Martin Marietta]] to Lockheed Martin's own [[Advanced Technology Center (ATC)|Advanced Technology Center]]; a 1953 sighting by Lockheed test pilots that vanished from [[Project Blue Book]]; a 1986 General Accounting Office audit that found Lockheed's control of special access documents badly lacking, which Gerb connects to the audit mentioned in the [[Wilson-Davis Memo]]; and several leads tying black triangular craft to a program called [[Aurora Program|Aurora or Astra]]. Gerb closes by admitting that much of the Aurora material is speculation, and that Lockheed is probably as big a player as Battelle but far harder to track.
 
 ## Chronology
 
-The video is organised by witness and by document rather than by date. The chronology puts its dated records in order, from a 1953 test-pilot sighting to the 2022 resurfacing of the Calvine photograph.
+The video is organised by witness and by document rather than by date. The timeline below puts the dated records it mentions in order, from a 1953 test-pilot sighting to the 2022 resurfacing of the Calvine photograph.
 
 ::wiki-timeline{video="tVdzvvbbHW4" video-title="UFOs in the Private Sector - Lockheed Martin"}
 ---
-help: "The bar pinned above the entries is a ruler of the Lockheed paper trail, from 1953 to 2022. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The dashed marker is 1995, when Martin Marietta merged with Lockheed. While the video plays, a second line marks where Gerb is; the video jumps between witnesses, so that line moves back and forth in time. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Every timestamp here was checked against the video's captions."
+help: "The bar above the list runs from 1953 to 2022, with a mark for each entry, coloured by type; taller marks are major entries. Click the bar to jump to the nearest entry. The dashed line at 1995 is when Martin Marietta merged with Lockheed. The dark line shows the entry you are reading, and Play from here starts the video at that entry. Once the video is playing, a green line shows where Gerb is. He moves between witnesses rather than going in date order, so the green line jumps back and forth in time. Turn on Follow video to have the list scroll along with the video. Click any timestamp to play the video from that moment; every timestamp here was checked against the video's captions."
 hinges:
   - year: 1995
     label: "Lockheed Martin formed"
@@ -50,7 +50,7 @@ events:
   - date: "1953"
     title: "Lockheed test pilots report a flying disc"
     cue: 1286
-    summary: "Lockheed test pilots and ground crew observed a flying disc with anomalous acceleration characteristics, and three of the men swore to the sighting as testimony. The report went to Project Blue Book but, curiously in Gerb's view, was never listed again."
+    summary: "Lockheed test pilots and ground crew observed a flying disc with anomalous acceleration characteristics, and three of the men swore to the sighting as testimony. The report went to Project Blue Book but was never listed again, which Gerb finds curious."
     category: event
     significance: notable
     entities:
@@ -69,7 +69,7 @@ events:
   - date: "1965-07-29"
     title: "Newspaper clipping on Don Phillips"
     cue: 501
-    summary: "The only record Gerb could find of Don Phillips: a clipping confirming his role in the Air Force and naming him a graduate of Pierce College, the same college Bob Lazar verifiably attended. It says nothing of his claimed Skunk Works or CIA work."
+    summary: "The only record of Don Phillips that Gerb could find is a newspaper clipping confirming his role in the Air Force and naming him a graduate of Pierce College, the same college Bob Lazar verifiably attended. It says nothing of his claimed Skunk Works or CIA work."
     category: document
     significance: minor
     entities:
@@ -88,7 +88,7 @@ events:
   - date: "1986"
     title: "Aurora appears in DoD budget documents"
     cue: 1518
-    summary: "The first mention Gerb can find of Aurora: Department of Defense documents for fiscal years 1986 and 1987 planning $80 million for an Aurora program in 1986 and $2.3 billion in 1987, more than double the cost of the B-2 Spirit bomber."
+    summary: "The earliest mention of Aurora that Gerb can find is in Department of Defense documents for fiscal years 1986 and 1987, which plan $80 million for an Aurora program in 1986 and $2.3 billion in 1987, more than double the cost of the B-2 Spirit bomber."
     category: program
     significance: major
     entities:
@@ -96,7 +96,7 @@ events:
   - date: "1986-07-10"
     title: "John Alexander's letter and Ben Rich's reply"
     cue: 336
-    summary: "John Alexander wrote to Skunk Works director Ben Rich proposing two categories of UFO, man-made and extraterrestrial. Rich's handwritten reply said he was a believer in both categories, that many of 'our man-made UFOs' are unfunded opportunities, and warned of kooks and charlatans. Gerb treats it as the documented core of Rich's interest."
+    summary: "John Alexander wrote to Skunk Works director Ben Rich proposing two categories of UFO, man-made and extraterrestrial. Rich's handwritten reply said he was a believer in both categories, that many of 'our man-made UFOs' are unfunded opportunities, and warned of kooks and charlatans. Gerb treats the letter as the documented basis of Rich's interest in UFOs."
     category: document
     significance: major
     entities:
@@ -132,7 +132,7 @@ events:
   - date: "1993"
     title: "Ben Rich's UCLA talk"
     cue: 285
-    summary: "Rich allegedly said the means to travel among the stars already exist but are locked up in black projects. No audio or video exists; the quote rests on Linda Moulton Howe and a 2010 MUFON article by Tom Keller. MUFON's Jan Harzan, who attended, confirmed Rich ended on a slide of a black disc and 'we now have the technology to take ET home'."
+    summary: "In a talk at UCLA, Skunk Works director Ben Rich allegedly said the means to travel among the stars already exist but are locked up in black projects. No audio or video of the talk exists. The quote comes from Linda Moulton Howe and from a 2010 MUFON article by Tom Keller. MUFON's Jan Harzan, who attended, confirmed that Rich ended on a slide of a black disc with the words 'we now have the technology to take ET home'."
     category: event
     significance: major
     entities:
@@ -231,7 +231,7 @@ events:
   - date: "2001"
     title: "Haisch's essay 'Black Special Access Programs'"
     cue: 802
-    summary: "Haisch argued that black crash retrieval and reverse-engineering programs can become independent of any administration, beyond the reach of FOIA requests and presidents alike, and most likely fall under the Under Secretary of Defense for Acquisition, Technology and Logistics."
+    summary: "In this essay, Bernard Haisch argued that black crash retrieval and reverse-engineering programs can become independent of any administration, beyond the reach of Freedom of Information Act (FOIA) requests and presidents alike, and most likely fall under the Under Secretary of Defense for Acquisition, Technology and Logistics."
     category: document
     significance: notable
     entities:
@@ -240,7 +240,7 @@ events:
   - date: "2004-06"
     title: "Catherine Austin Fitts's 'The Black Budget of the United States'"
     cue: 1392
-    summary: "The former Assistant Secretary of Housing and Urban Development wrote that a large share of the nation's wealth was being illegally diverted into secret channels, and that Lockheed Martin Information Systems, then an IBM subcontractor on Pentagon systems that failed a GAO audit, may hold data on siphoned DoD funds."
+    summary: "Catherine Austin Fitts, a former Assistant Secretary of Housing and Urban Development, wrote that a large share of the nation's wealth was being illegally diverted into secret channels, and that Lockheed Martin Information Systems, then an IBM subcontractor on Pentagon systems that failed a GAO audit, may hold data on siphoned DoD funds."
     category: document
     significance: notable
     entities:
@@ -257,7 +257,7 @@ events:
   - date: "2014"
     title: "Boyd Bushman's deathbed testimony released"
     cue: 544
-    summary: "The verified Lockheed senior specialist said debris was recovered from crash recoveries in New Mexico, likely Roswell and perhaps Kingman, described Lockheed's anti-gravity work, and said UAP contain three key elements: thoride, germanium and palladium."
+    summary: "Boyd Bushman, whose role as a Lockheed senior specialist is verified, said debris was recovered from crash recoveries in New Mexico, likely Roswell and perhaps Kingman, described Lockheed's anti-gravity work, and said UAP contain three key elements: thoride, germanium and palladium."
     category: event
     significance: major
     entities:
@@ -276,7 +276,7 @@ events:
   - date: "2018"
     title: "Haisch's 'tip of the iceberg' statement"
     cue: 863
-    summary: "After AATIP became public, Haisch said, as conjecture from sources, that four related but separate unacknowledged programs tracing to a 1947 Truman memorandum were housed as of the 1990s in companies such as Lockheed, TRW, Raytheon and the Aerospace Corporation, with budgets 'in the $10 billion range and up'. AATIP found the crash retrieval program through official channels but was denied access, and the DoD refused Harry Reid's request to make AATIP a SAP."
+    summary: "After AATIP (the Advanced Aerospace Threat Identification Program) became public, Bernard Haisch offered what he called conjecture from sources. He said four related but separate unacknowledged programs tracing to a 1947 Truman memorandum were housed as of the 1990s in companies such as Lockheed, TRW, Raytheon and the Aerospace Corporation, with budgets 'in the $10 billion range and up'. AATIP found the crash retrieval program through official channels but was denied access, and the DoD refused Harry Reid's request to make AATIP a special access program (SAP)."
     category: document
     significance: major
     entities:
@@ -299,7 +299,7 @@ events:
   - date: "2022"
     title: "Calvine photo resurfaces, filed under 'Astra / Aurora'"
     cue: 1590
-    summary: "The Calvine UFO photo, taken in Scotland and showing a large diamond-shaped craft, was released in 2022-23. The Ministry of Defence's Project Condign lists it as 'Astra / Aurora photos' among 35mm slides missing from the released file, and Condign's executive summary takes special interest in triangles."
+    summary: "The Calvine UFO photo, taken in Scotland and showing a large diamond-shaped craft, was released in 2022-23. The Ministry of Defence's Project Condign lists it as 'Astra / Aurora photos' among 35mm slides missing from the released file, and Condign's executive summary pays special attention to triangles."
     category: document
     significance: major
     entities:
@@ -316,7 +316,7 @@ The video opens on three clips. In the first, which Gerb attributes to David Gru
 ::wiki-cue{t=0 video="tVdzvvbbHW4" video-title="UFOs in the Private Sector - Lockheed Martin" entry-title="Grusch on Lockheed's 'security catcher mitt'"}
 ::
 
-Gerb sets Harry Reid's 2021 *New York Times* interview beside the clips: Reid said he was told for decades that Lockheed had some of the retrieved materials, and that when he sought a classified approval to go and look at them, the Pentagon would not give it. Before trying to trace what Reid meant, Gerb reviews the company itself: annual revenues in the tens of billions of dollars, over half of its sales going to the Department of Defense and the Department of Energy, and aircraft from the SR-71 Blackbird and F-117 Nighthawk to the F-22 Raptor, along with space-shuttle propellants, the manned maneuvering unit and satellite work. The famed [[Lockheed Martin Skunk Works|Skunk Works]] division is intertwined with DoD special access programs. Gerb's question is what lies deeper than even the Skunk Works, in a company with so much lore and so many whistleblowers but so few documents.
+Gerb sets Harry Reid's 2021 *New York Times* interview beside the clips: Reid said he was told for decades that Lockheed had some of the retrieved materials, and that when he sought a classified approval to go and look at them, the Pentagon would not give it. Before trying to trace what Reid meant, Gerb reviews the company itself: annual revenues in the tens of billions of dollars, over half of its sales going to the Department of Defense and the Department of Energy, and aircraft from the SR-71 Blackbird and F-117 Nighthawk to the F-22 Raptor, along with space-shuttle propellants, the manned maneuvering unit and satellite work. The famed [[Lockheed Martin Skunk Works|Skunk Works]] division is closely tied to DoD special access programs. Gerb's question is what lies deeper than even the Skunk Works, in a company with so much lore and so many whistleblowers but so few documents.
 
 ## The Lockheed Insiders
 
@@ -324,17 +324,17 @@ Gerb sets Harry Reid's 2021 *New York Times* interview beside the clips: Reid sa
 
 [[Ben Rich]], the second Skunk Works director and the father of the F-117, is the name most people connect with Lockheed and UFOs, chiefly through his 1993 talk at [[UCLA (University of California, Los Angeles)|UCLA]], where he allegedly said that the means to travel among the stars already exist but are locked up in black projects. Gerb, who says he will not push unsubstantiated claims to support his thesis, points out that there is no video or audio of Rich saying this. The quote comes from [[Linda Moulton Howe]], whom Gerb describes as known to take some reportorial liberties, though it also appears in a 2010 [[MUFON]] article by Tom Keller.
 
-What is documented is a letter. On 10 July 1986, [[John B. Alexander]] wrote to Rich proposing two categories of UFO, man-made and extraterrestrial, and Rich replied by hand that he was a believer in both categories, that everything is possible, that "many of our man-made UFOs are unfunded opportunities", and that both categories attract kooks and charlatans. The only other first-hand account of the UCLA talk Gerb finds comes from MUFON director [[Jan Harzan]], who attended it with Keller: Rich ended on a slide of a black disc zipping into space and the words "we now have the technology to take ET home." The audience laughed, Harzan recalled, apparently missing that Rich meant it. When an engineer suggested travel to the stars would take too long, Rich reportedly answered that it would not, because "we found an error in the equations." Gerb concludes that Rich's supposed disclosure can be neither confirmed nor denied, but that Rich clearly took an interest in man-made versus non-human UFOs.
+Rich's interest is documented in a letter. On 10 July 1986, [[John B. Alexander]] wrote to Rich proposing two categories of UFO, man-made and extraterrestrial, and Rich replied by hand that he was a believer in both categories, that everything is possible, that "many of our man-made UFOs are unfunded opportunities", and that both categories attract kooks and charlatans. The only other first-hand account of the UCLA talk Gerb finds comes from MUFON director [[Jan Harzan]], who attended it with Keller: Rich ended on a slide of a black disc zipping into space and the words "we now have the technology to take ET home." The audience laughed, Harzan recalled, apparently missing that Rich meant it. When an engineer suggested travel to the stars would take too long, Rich reportedly answered that it would not, because "we found an error in the equations." Gerb concludes that Rich's supposed disclosure can be neither confirmed nor denied, but that Rich clearly took an interest in man-made versus non-human UFOs.
 
 ### Don Phillips
 
-[[Don Phillips]], who described himself as a former Lockheed Skunk Works, US Air Force and CIA contractor, told his story through [[Steven Greer]]'s [[Disclosure Project]] in 2001, at a time when, Gerb says, Greer was still doing largely respectable work. Phillips claimed that Lockheed has extraterrestrial technology from whose study "tremendous technological advances" have come, that the US military did acquire craft from Roswell, and that Lockheed was intimately involved in anti-gravity research. Gerb found it impossible to vet Phillips's Skunk Works and CIA background. The only record he found is a newspaper clipping from 29 July 1965 confirming Phillips's Air Force role and naming him a graduate of Pierce College, the college [[Bob Lazar]] verifiably attended. Gerb views Phillips's Lockheed role through a sceptical lens until it can be proven, while noting that his statements on anti-gravity, Roswell and reverse engineering line up almost exactly with the other witnesses.
+[[Don Phillips]], who described himself as a former Lockheed Skunk Works, US Air Force and CIA contractor, told his story through [[Steven Greer]]'s [[Disclosure Project]] in 2001, at a time when, Gerb says, Greer was still doing largely respectable work. Phillips claimed that Lockheed has extraterrestrial technology from whose study "tremendous technological advances" have come, that the US military did acquire craft from Roswell, and that Lockheed was intimately involved in anti-gravity research. Gerb found it impossible to vet Phillips's Skunk Works and CIA background. The only record he found is a newspaper clipping from 29 July 1965 confirming Phillips's Air Force role and naming him a graduate of Pierce College, the college [[Bob Lazar]] verifiably attended. Gerb treats Phillips's Lockheed role with scepticism until it can be proven, while noting that his statements on anti-gravity, Roswell and reverse engineering line up almost exactly with the other witnesses.
 
 ### Boyd Bushman
 
 [[Boyd Bushman]] is, in Gerb's words, controversial but very verifiable: a senior specialist with Top Secret/SCI/SAP clearance in Lockheed's Department 60-8, the Special Programs Division. His deathbed testimony, released in 2014, states that debris was recovered from crash recoveries, plural, in New Mexico, probably Roswell and perhaps the [[1953 Kingman, Arizona Crash Retrieval|Kingman, Arizona crash]]. He also describes Lockheed's anti-gravity work, and says UAP contain three key elements: thoride, germanium and palladium. Gerb notes that these could make up a thermoelectric or photovoltaic generator with a semiconductor and capacitor, which in his view lends some credence to the claim. In 1999 Bushman came under FBI investigation for suspicious foreign contact, after Lockheed grew concerned he might share sensitive information with contacts in Prague; Gerb's reading is that Bushman was asking them about anti-gravity. Among his many patents is a 1997 patent for a device producing a magnetic monopole beam that emits pulses, levitates, stops electronics and separates materials, though magnetic monopoles have not been shown to exist.
 
-The problem is the alien bodies Bushman showed in photographs. An Above Top Secret forum thread in 2008 claimed the small grey creature was a Kmart Halloween decoration from the late 1990s. Gerb could find no verifiable listing for the toy, but calls the episode "not a great look" and sets out three possibilities (see "Weighing the Disputed Points" below).
+The difficulty is the photographs of alien bodies that Bushman showed. An Above Top Secret forum thread in 2008 claimed the small grey creature was a Kmart Halloween decoration from the late 1990s. Gerb could find no verifiable listing for the toy, but calls the episode "not a great look" and sets out three possibilities (see "Weighing the Disputed Points" below).
 
 ### Bernard Haisch
 
@@ -346,7 +346,7 @@ In 2018, after the [[AATIP (Advanced Aerospace Threat Identification Program)|AA
 
 ::wiki-compare{video="tVdzvvbbHW4" video-title="UFOs in the Private Sector - Lockheed Martin"}
 ---
-caption: "The four Lockheed-connected insiders as the video presents them. Gerb ranks only three of them by credibility; he treats Ben Rich's disclosure as unconfirmable either way."
+caption: "Four insiders with ties to Lockheed, as the video presents them. Gerb ranks only three of them by credibility; he says Ben Rich's alleged disclosure can be neither confirmed nor denied."
 attributeLabel: "Point"
 subjects:
   - name: "Bernard Haisch"
@@ -410,7 +410,7 @@ Three of the video's claims come with an explicit challenge or a caveat, and Ger
 
 ::wiki-claim{video="tVdzvvbbHW4" video-title="UFOs in the Private Sector - Lockheed Martin"}
 ---
-caption: "The contested points in the order Gerb raises them, with who answers each."
+caption: "Disputed claims from the video, in the order Gerb raises them, with the responses to each."
 claims:
   - title: "Rich's words at UCLA"
     by: "Linda Moulton Howe"
@@ -471,17 +471,17 @@ claims:
 
 Gerb asks whether any of Lockheed's alleged exotic work, such as anti-gravity or strange propulsion methods, can be confirmed, and follows one line through the company's corporate ancestry. In 1955 physicist [[Lou Whitten]] was recruited by [[George Trimble]], vice president for aviation and advanced propulsion systems at the Glenn L. Martin Company, into its Research Institute for Advanced Studies (RIAS), to help develop anti-gravity. The Glenn L. Martin Company became [[Martin Marietta]], which merged with Lockheed in 1995. In 2013 Whitten said the team had discovered techniques to harness anti-gravity, testing several ideas including an isotope of bismuth, though he did not expand on it. Gerb says journal evidence proves the research took place, and calls the anti-gravity rabbit hole from 1955 onward a subject for another video.
 
-He then returns to the 1998 Haisch and Puthoff paper on zero-point energy, which he glosses as the lowest possible energy of a quantized field, the minimum that the vacuum's never-ending fluctuations give every field, and "pretty breakthrough stuff". In 2017 inventor [[Salvatore Pais]] and the Navy were awarded a patent for a similar concept: a triangular craft using specific frequencies to interact with the quantum vacuum and generate anti-gravitic effects.
+He then returns to the 1998 Haisch and Puthoff paper on zero-point energy, which he explains as the lowest possible energy of a quantized field, the minimum that the vacuum's never-ending fluctuations give every field, and "pretty breakthrough stuff". In 2017 inventor [[Salvatore Pais]] and the Navy were awarded a patent for a similar concept: a triangular craft using specific frequencies to interact with the quantum vacuum and generate anti-gravitic effects.
 
 The last strand is [[Ron Blackburn]], a retired lieutenant colonel of Lockheed Martin Skunk Works and co-founder of an ATIP group at [[BDM International]]. On 22 August 1998, according to the video, he was awarded a patent for technology increasing a moving vehicle's aerodynamic and hydrodynamic efficiency, including a sketch of a disc. Years later he said on a podcast that he had reverse-engineered a way to eliminate sonic booms at high speed by studying videos of disc-shaped craft he had access to. Gerb notes that this matches two of the UAP observables described by [[Luis Elizondo]]: trans-medium travel and supersonic speed without a sonic boom.
 
 ### Lockheed Martin, unit by unit
 
-The video's witnesses and documents sit in different corners of the company and its predecessors. The chart places each one where the video puts him, so the reader can see which claims come from the Skunk Works, which from the research center and special programs, and which from the Martin side of the 1995 merger.
+The video's witnesses and documents come from different parts of the company and its predecessors. The chart places each person where the video puts him, which shows which claims come from the Skunk Works, which from the research center and special programs, and which from the Martin side of the 1995 merger.
 
 ::wiki-org-chart
 ---
-caption: "Where the video places the people and units it discusses, by affiliation, not by chain of command. Don Phillips's Skunk Works role is his own claim, which Gerb could not verify. Hal Puthoff, Haisch's co-author, was not a Lockheed employee and is left off."
+caption: "Where the video places each person and unit it discusses. The lines show affiliation, not who reported to whom. Don Phillips's Skunk Works role is his own claim, which Gerb could not verify. Hal Puthoff, Haisch's co-author, was not a Lockheed employee and is left off."
 root:
   name: "Lockheed Martin"
   label: "Largest US defense contractor"
@@ -496,10 +496,10 @@ root:
           note: "The 1986 letter and the 1993 UCLA talk."
         - name: "Jack Gordon"
           label: "Former head"
-          note: "Called 'Astra' on the lineage chart an old airliner."
+          note: "Told Nick Cook that 'Astra', listed on the Skunk Works aircraft chart, was an old airliner."
         - name: "Ron Blackburn"
           label: "Retired lieutenant colonel"
-          note: "1998 disc patent; sonic booms eliminated from videos of discs."
+          note: "Won a 1998 patent that includes a disc sketch; says he found how to eliminate sonic booms by studying videos of discs."
         - name: "Don Phillips"
           label: "Claimed contractor"
           note: "Disclosure Project, 2001; background unverified."
@@ -541,19 +541,19 @@ Because this is, as Gerb puts it, a UAP Gerb video, he turns to the documents. T
 
 The second is an audit. Gerb recalls the passage in the [[Wilson-Davis Memo]] in which the watch committee of the black crash retrieval and reverse-engineering program tells Admiral Wilson they were almost outed by an audit. On 24 July 1986, [[Frank Conahan|Frank C. Conahan]], director of the General Accounting Office's National Security and International Affairs Division, testified before a subcommittee on oversight and investigations that Lockheed had a poor control system for classified special access documents and no oversight from the DoD program office, and that the Defense Investigative Service had not been allowed to carry out its semiannual inspections of the contract in question. An inventory of 40,000 documents turned up 1,460 discrepancies; an estimated 46 documents had been destroyed and 17 transferred out of the company and never found. Gerb considers it "extremely suspicious", and a likely candidate for the audit that led the watch committee to reorganize SAP status in the 1990s to hide itself better.
 
-Two later statements, Gerb argues, show Lockheed's hand in special access programs above even DoD oversight. In June 2004, former Assistant Secretary of Housing and Urban Development [[Catherine Austin Fitts]] wrote "The Black Budget of the United States", arguing that a large proportion of the nation's wealth was being illegally diverted into secret, unaccountable channels to support clandestine domestic military R&D. She said Lockheed Martin Information Systems, then one of the IBM subcontractors hired by the Pentagon to manage systems that failed a GAO audit, handled Department of Justice systems and may have data on siphoned DoD funds. And in 2000, Commander [[Will Miller]], the same Miller who appears in the Wilson-Davis memo, told attorney Peter Gersten that senior officials such as a DIA director are isolated from UAP knowledge: the "keepers of the secrets", he said, reside in DoD middle management and in contractors like [[SAIC]], [[Boeing]] and Lockheed, the comptrollers who monitor the flow of money to certain special access programs.
+Two later statements, Gerb argues, show that Lockheed had a hand in special access programs above even DoD oversight. In June 2004, former Assistant Secretary of Housing and Urban Development [[Catherine Austin Fitts]] wrote "The Black Budget of the United States", arguing that a large proportion of the nation's wealth was being illegally diverted into secret, unaccountable channels to support clandestine domestic military R&D. She said Lockheed Martin Information Systems, then one of the IBM subcontractors hired by the Pentagon to manage systems that failed a GAO audit, handled Department of Justice systems and may have data on siphoned DoD funds. And in 2000, Commander [[Will Miller]], the same Miller who appears in the Wilson-Davis memo, told attorney Peter Gersten that senior officials such as a DIA director are isolated from UAP knowledge: the "keepers of the secrets", he said, reside in DoD middle management and in contractors like [[SAIC]], [[Boeing]] and Lockheed, the comptrollers who monitor the flow of money to certain special access programs.
 
 ## Project Aurora / Astra
 
 Black triangles are, in Gerb's words, a legendary UFO shape, the craft behind the 1989 [[Belgian UFO Wave]]. He sets out a paper trail suggesting that the triangle commonly called the TR-3B is a Lockheed Martin reverse-engineering program called Astra or [[Aurora Program|Aurora]]:
 
-- **The budget line.** The first mention Gerb finds of Aurora is in Department of Defense documents for fiscal years 1986 and 1987: $80 million planned for an Aurora program in 1986 and $2.3 billion in 1987, more than double the cost of the B-2 Spirit bomber at the time. In 1997 [[John Greenewald]] of [[The Black Vault]] inquired into Aurora and was denied any access.
-- **The chart at Palmdale.** In the late 1990s, author [[Nick Cook]], writing *The Hunt for Zero Point*, interviewed former Skunk Works head [[Jack Gordon]] at the Lockheed plant in [[Palmdale, California|Palmdale]]. On his way out Cook saw a large chart of every Skunk Works aircraft since the XP-80. Past the DarkStar was something called Astra, an ultra-high-speed reconnaissance craft of triangular shape resembling the triangles seen over Belgium. Asked about it, a flustered Gordon said Astra was nothing but an old airliner.
-- **Fouché's triangles.** The triangular craft Fouché said Lockheed was reverse-engineering at DARC.
-- **The Calvine photo.** The [[Calvine UFO Photo]], taken in Scotland and released in 2022–23, shows a large diamond-shaped craft. In the Ministry of Defence's [[Project Condign]] study, it is listed as "Astra / Aurora photos" among 35mm slides that do not appear in the released file. Condign also took an interest in UAP sourced from US government contractor projects, and its executive summary pays special attention to triangle sightings.
-- **The embassy letter.** On 22 December 1992 the British Embassy in Washington wrote to the Assistant Chief of the Air Staff in London about the US reaction to triangular UAP sightings, including one made three years earlier by a member of the Royal Observer Corps. British inquiries had caused "considerable irritation", and Air Force Secretary [[Donald Rice|Donald B. Rice]] was, the officials wrote, incensed by renewed speculation that he had lied to Congress by stating that Aurora did not exist.
+- The first mention Gerb finds of Aurora is in Department of Defense documents for fiscal years 1986 and 1987: $80 million planned for an Aurora program in 1986 and $2.3 billion in 1987, more than double the cost of the B-2 Spirit bomber at the time. In 1997 [[John Greenewald]] of [[The Black Vault]] inquired into Aurora and was denied any access.
+- In the late 1990s, author [[Nick Cook]], writing *The Hunt for Zero Point*, interviewed former Skunk Works head [[Jack Gordon]] at the Lockheed plant in [[Palmdale, California|Palmdale]]. On his way out Cook saw a large chart of every Skunk Works aircraft since the XP-80. Past the DarkStar was something called Astra, an ultra-high-speed reconnaissance craft of triangular shape resembling the triangles seen over Belgium. Asked about it, a flustered Gordon said Astra was nothing but an old airliner.
+- Fouché said Lockheed was reverse-engineering triangular craft at DARC, the Defense Advanced Research Center beneath Groom Lake.
+- The [[Calvine UFO Photo]], taken in Scotland and released in 2022–23, shows a large diamond-shaped craft. In the Ministry of Defence's [[Project Condign]] study, it is listed as "Astra / Aurora photos" among 35mm slides that do not appear in the released file. Condign also took an interest in UAP sourced from US government contractor projects, and its executive summary pays special attention to triangle sightings.
+- On 22 December 1992 the British Embassy in Washington wrote to the Assistant Chief of the Air Staff in London about the US reaction to triangular UAP sightings, including one made three years earlier by a member of the Royal Observer Corps. British inquiries had caused "considerable irritation", and Air Force Secretary [[Donald Rice|Donald B. Rice]] was, the officials wrote, incensed by renewed speculation that he had lied to Congress by stating that Aurora did not exist.
 
-Gerb concludes that much more work is needed on Aurora and Astra, but that these strings connect triangular craft to both Lockheed Martin and the US Air Force, and show that the British Ministry of Defence was keenly interested in what they were.
+Gerb concludes that much more work is needed on Aurora and Astra, but that these leads connect triangular craft to both Lockheed Martin and the US Air Force, and show that the British Ministry of Defence was keenly interested in what they were.
 
 ## Gerb's Conclusions
 
@@ -566,10 +566,10 @@ Gerb believes Lockheed is as much of a player in the reverse engineering and mat
 entries:
   - name: "Harry Reid"
     role: "Former Senate Majority Leader"
-    note: "Told for decades that Lockheed held retrieved materials, he was refused Pentagon approval to see them; he also asked the DoD to give AATIP SAP status."
+    note: "Said he was told for decades that Lockheed held retrieved materials, but was refused Pentagon approval to see them. He also asked the DoD to make AATIP a special access program."
   - name: "David Grusch"
     role: "Whistleblower, ex-NRO/NGA intelligence officer"
-    note: "The opening clip: Lockheed wanted to divest material at a facility whose address he gave the Inspector General, with the CIA as the other customer."
+    note: "In the video's opening clip, says Lockheed wanted to divest material held at a facility whose address he gave the Inspector General, with the CIA as the other customer."
   - name: "Gary Nolan"
     role: "Stanford immunologist"
     note: "Heard from very informed people that crash materials sit with contractors such as McDonnell Douglas and Lockheed."
@@ -578,7 +578,7 @@ entries:
     note: "Coined 'TR-3B' and placed Lockheed-contracted reverse engineering of triangular craft at DARC beneath Groom Lake."
   - name: "Frank Conahan"
     role: "GAO National Security and International Affairs Division director"
-    note: "His 1986 testimony found 1,460 discrepancies in Lockheed's special access documents, with 63 missing."
+    note: "His 1986 testimony reported 1,460 discrepancies in Lockheed's special access documents, with 63 missing."
   - name: "Nick Cook"
     role: "Aviation journalist, The Hunt for Zero Point"
     note: "Saw 'Astra', a triangular reconnaissance craft, on the Skunk Works lineage chart at Palmdale."
@@ -587,7 +587,7 @@ entries:
     note: "Recruited in 1955 into the Glenn L. Martin Company's RIAS to develop anti-gravity; later said the team found techniques to harness it."
   - name: "Ron Blackburn"
     role: "Retired Lt. Col., Lockheed Martin Skunk Works"
-    note: "Said he eliminated sonic booms by studying videos of disc-shaped craft; patented a disc in 1998."
+    note: "Said he eliminated sonic booms by studying videos of disc-shaped craft; his 1998 patent includes a sketch of a disc."
   - name: "Catherine Austin Fitts"
     role: "Former Assistant Secretary of HUD"
     note: "Her 2004 paper tied Lockheed Martin Information Systems to data on siphoned DoD funds."
