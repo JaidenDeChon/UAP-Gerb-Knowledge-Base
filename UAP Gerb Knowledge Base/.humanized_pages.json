@@ -464,6 +464,11 @@
     "sha256": "8ab3fbde16e6e6bac9e66ef58dc0f0accbe5bbf93550aac30974efb85ec17a48",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/JSOC (Joint Special Operations Command).md": {
+    "humanized_at": "2026-09-25T23:49:12Z",
+    "sha256": "ac3fab7ad3fa120312a579ff8e61183765aab841510e385d6269ebb17da337d9",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
