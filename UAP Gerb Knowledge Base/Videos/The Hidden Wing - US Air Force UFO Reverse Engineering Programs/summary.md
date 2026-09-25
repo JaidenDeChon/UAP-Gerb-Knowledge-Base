@@ -14,11 +14,11 @@ tags:
 ---
 stats:
   - value: "30–40%"
-    label: Share of Air Force budget allegedly sent to the black budget
-    hint: "Witness Ed says the acquisition office, SAF/AQ, diverted this share of total obligation authority"
+    label: Budget allegedly diverted
+    hint: "Share of the Air Force's total obligation authority that witness Ed says the acquisition office, SAF/AQ, sent to the black budget"
   - value: "8 of 14"
-    label: Air Force acquisition chiefs who came from suspect contractors
-    hint: "Former heads of the acquisition office, SAF/AQ, as counted by Gerb"
+    label: Acquisition chiefs from contractors
+    hint: "Former heads of the Air Force acquisition office, SAF/AQ, who came from contractors Gerb suspects, by his count"
   - value: "$82.9B"
     label: Air Force Materiel Command budget, FY2025
     hint: "The Air Force's largest command by funding"

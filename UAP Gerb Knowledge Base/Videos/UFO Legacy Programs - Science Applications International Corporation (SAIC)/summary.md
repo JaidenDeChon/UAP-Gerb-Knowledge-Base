@@ -17,8 +17,8 @@ stats:
     label: SAIC workforce by 2007
     hint: "More staff than the Departments of Labor, Energy and HUD combined"
   - value: "2 of 6"
-    label: Members of the SAPOC oversight committee whom Gerb ties to SAIC
-    hint: "John Deutsch and William A. Owens"
+    label: SAPOC members tied to SAIC
+    hint: "John Deutsch and William A. Owens: members of the SAPOC oversight committee whom Gerb ties to SAIC"
   - value: "1991–1994"
     label: Years SAIC ran Project Stargate
     hint: "Gerb thinks the psychic research went on afterwards"
