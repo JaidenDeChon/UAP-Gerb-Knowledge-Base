@@ -682,11 +682,11 @@ stats:
 Allowing ±20% on Mark's distance, Gerb searches a radius of up to 345 statute miles from Aberdeen. The only water deep enough lies almost due west: the Rockall Trough, east of the Rockall Plateau, which exceeds 8,000 feet. Nuclear Regulatory Commission emails from the 2011 Japanese tsunami confirm that the Navy kept a "very operational ready" DSRV on each coast, consistent with a crew sailing from Virginia. Gerb is still vetting the case. He is trying to identify Mark and the lieutenant commander and to find the sketches, since Bell has died, and is working with high-profile naval officials.
 
 ::wiki-grid{cols=2}
-::wiki-panel{title="An acknowledged DSRV"}
-Mystic and Avalon were rated to just over a mile, short of the 1.5-mile dive, and were built to mate with stranded submarines and transfer crews. Marine Corps divers aboard would also have been unusual.
+::wiki-panel{title="An acknowledged rescue submersible (DSRV)"}
+Mystic and Avalon, the two acknowledged rescue submersibles, were rated to just over a mile, short of Mark's 1.5-mile dive. They were built to mate with stranded submarines and transfer crews. Marine Corps divers aboard would also have been unusual.
 ::
-::wiki-panel{title="Gerb's view: an unacknowledged DSSV" tone="accent"}
-The DSSP planned search vehicles rated to 20,000 feet, with better seafloor navigation and object retrieval, that were never officially built. Mark's mechanical arms and rigging fit that role better, and Gerb suspects such a vehicle was built in secret.
+::wiki-panel{title="Gerb's view: an unacknowledged search vehicle (DSSV)" tone="accent"}
+The Deep Submergence Systems Project (DSSP) planned search vehicles rated to 20,000 feet, with better seafloor navigation and object retrieval, but none was officially built. The mechanical arms and rigging Mark described fit that role better, and Gerb suspects such a vehicle was built in secret.
 ::
 ::
 
@@ -701,10 +701,10 @@ If Sharp's sources are right, recovered craft are stored at naval and ONR sites 
 CPO radar observer Derward "Buddy" Hack walked through the door of a briefly unguarded hangar and saw a massive saucer with rows of windows. Returning guards forced him out and threatened him. His family, including his mother, confirmed the story to Stringfield after a 1978 tip: "It was certainly no aircraft of ours."
 ::
 ::wiki-panel{title="NAS Brunswick, Maine, 1956"}
-A retired Air Force colonel, via a 1979 letter from Joan Jeffers, said Major Lester Goldberg showed a commander's call a film of a grounded silvery disc with a well-lit, smooth-walled interior and at least three short, grey, hairless bodies on tables. Gerb notes that a Major Lester Goldberg did serve at Brunswick then.
+According to a 1979 letter from Joan Jeffers to Stringfield, a retired Air Force colonel said Major Lester Goldberg showed a commander's call a film of a grounded silvery disc with a well-lit, smooth-walled interior and at least three short, grey, hairless bodies on tables. Gerb notes that a Major Lester Goldberg did serve at Brunswick then.
 ::
 ::wiki-panel{title="Naval Air Base Yuma, Arizona, 1967"}
-Former Marine "Pete" said he photographed a saucer at the base, now [[MCAS Yuma]]. Letters to Stringfield were apparently intercepted, the brothers were approached by an agency, and the lead died. Gerb calls it "a massive dead end".
+Former Marine "Pete" said he photographed a saucer at the base, now [[MCAS Yuma]]. Letters to Stringfield were apparently intercepted, Pete and his brother were approached by an agency, and the lead died. Gerb calls it "a massive dead end".
 ::
 ::wiki-panel{title="Great Lakes Naval Base, Illinois, 1973" tone="accent"}
 Gunnery instructor RK, guarding a Quonset hut, saw a 30 ft, light silvery-blue, windowless teardrop with a flange along its top on a wooden platform. A San Diego sailor had told him weeks earlier that the craft was shot down between Hawaii and the mainland and recovered by the Glomar Explorer.
