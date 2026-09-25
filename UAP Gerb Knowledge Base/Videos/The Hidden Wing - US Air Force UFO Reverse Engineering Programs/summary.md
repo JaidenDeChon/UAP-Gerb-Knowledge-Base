@@ -741,11 +741,11 @@ That is where [[Eric Henry Wang]] comes in. [[Arthur Stansel Jr.]] named Wang as
 The video draws on several first-hand accounts. Most of them come from Gerb's earlier investigations and are reread here against the Air Force structure.
 
 ::wiki-grid{cols=3}
-::wiki-panel{title="Ed, Edwards 412th Test Wing" tone="accent"}
-A retired Air Force officer who first approached [[Steven Greer]]. He says he served on a T&E program for manned and unmanned reverse-engineered vehicles at the [[412th Test Wing]] under AF/TE, with pilots from the Test Pilot School. He later worked at the Pentagon connected to SAF/AQ, where he describes the 30-40 percent budget diversion. Gerb says his confidence in Ed has "grown 10,000-fold" and that he has held Ed's records.
+::wiki-panel{title="Ed, 412th Test Wing at Edwards" tone="accent"}
+A retired Air Force officer who first approached [[Steven Greer]]. He says he served on a test and evaluation program for manned and unmanned reverse-engineered vehicles at the [[412th Test Wing]], under the Air Staff test directorate AF/TE, with pilots from the Test Pilot School. He later worked at the Pentagon in a post connected to SAF/AQ, the Air Force acquisition office, and says 30-40 percent of Air Force funding was diverted from there to the black budget. Gerb says his confidence in Ed has "grown 10,000-fold" and that he has held Ed's records.
 ::
 ::wiki-panel{title="Dylan Borland, Langley, 2012"}
-[[Borland's Triangular Craft Sighting|Borland testified]] that at [[Langley Air Force Base]] a white light became a silent, one-to-two-story equilateral triangle. It had black metallic-flake paint and a gold, lava-like plasma flowing over it. His phone froze, and he felt static and smelled a thunderstorm as it left. Gerb attributes it to [[Air Combat Command]] testing an ARV or a derivative cloaking system.
+[[Borland's Triangular Craft Sighting|Borland testified]] that at [[Langley Air Force Base]] a white light became a silent, one-to-two-story equilateral triangle. It had black metallic-flake paint and a gold, lava-like plasma flowing over it. His phone froze, and he felt static and smelled a thunderstorm as it left. Gerb attributes it to [[Air Combat Command]] testing an alien reproduction vehicle (ARV) or a derivative cloaking system.
 ::
 ::wiki-panel{title="MS, Dugway Proving Ground"}
 A contractor at [[Dugway Proving Ground]] who says he came across a seamless, "flawless" disc being dismantled in a hangar in the Avery area near Michael Army Airfield, used by the [[Utah Test and Training Range]]. Gerb notes the [[388th Range Squadron]]'s radars around Granite Peak, where he alleges there is an underground base.
