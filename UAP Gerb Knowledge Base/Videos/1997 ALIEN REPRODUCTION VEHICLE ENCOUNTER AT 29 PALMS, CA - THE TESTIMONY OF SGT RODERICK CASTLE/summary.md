@@ -613,10 +613,10 @@ rows:
 Gerb adds that [[Naval Air Station Patuxent River|Pax River]] patents by Salvatore Pais (around 2017) for an inertial-mass-reduction craft also show a triangle with a large concave centre.
 
 ::wiki-grid{cols=2}
-::wiki-panel{title="Most likely: a TR-3B" tone="accent"}
-A Navy and Air Force triangular ARV based in the R2508 corridor, at Edwards, NAS Lemoore, the Fallon center or perhaps China Lake. It would have been flown by top service pilots and called into Hunter Warrior through the Navy's adjunct. Gerb favours this because of the physical parallels with Fouché's description, the departure bearing, and Ed's account of Edwards.
+::wiki-panel{title="Likeliest, in Gerb's view: a TR-3B" tone="accent"}
+A triangular alien reproduction vehicle (ARV) run by the Navy and Air Force and based in the R2508 corridor, at Edwards, NAS Lemoore, the Fallon warfare center or perhaps China Lake. Top service pilots would have flown it, and the Navy's Hunter Air adjunct would have brought it into the Hunter Warrior exercise. Gerb favours this because of the physical parallels with Edgar Fouché's description, the craft's departure bearing, and the account of Ed, Gerb's witness at Edwards.
 ::
-::wiki-panel{title="Less likely: an XF-131 Super Sentinel"}
+::wiki-panel{title="Less likely, in Gerb's view: an XF-131 Super Sentinel"}
 In spring 1992, forensic artist [[Bill McDonald]] drew this triangle at a Denny's in the [[Antelope Valley]] from the account of four engineers. Two were from Lockheed's [[Helendale]] radar cross-section plant and two from Northrop's [[Tejon Ranch|Tejon]] plant, and the drawing was later used in *The X-Files*. In this version the craft would have been kept at an underground radar cross-section site, test-flown over R2508 by Edwards pilots, and lent to the Navy for the exercise.
 ::
 ::
