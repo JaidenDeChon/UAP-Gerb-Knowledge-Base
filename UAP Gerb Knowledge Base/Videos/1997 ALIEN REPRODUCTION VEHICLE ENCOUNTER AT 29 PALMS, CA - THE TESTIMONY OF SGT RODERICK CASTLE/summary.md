@@ -14,28 +14,28 @@ tags:
 ---
 stats:
   - value: "~300 ft"
-    label: Craft length
-    hint: "Hovering 150–200 ft up"
+    label: Length of the craft
+    hint: "It hovered 150–200 ft above the ground"
   - value: "~30"
-    label: Unmarked operators
-    hint: "About 15 rushed the Marines"
+    label: Armed men in unmarked black
+    hint: "About 15 of them rushed the Marines"
   - value: "3–4 min"
-    label: Whole encounter
-    hint: "Craft left after about 2"
+    label: Length of the encounter
+    hint: "The craft left after about 2 minutes"
   - value: "~5 min"
-    label: Humvee would not start
-    hint: "After the craft departed"
+    label: "Marines' Humvee would not start"
+    hint: "After the craft left"
   - value: "7.5 mi"
-    label: From Emerson Dry Lake
-    hint: "Radius of the encounter site"
+    label: Site to Emerson Dry Lake
+    hint: "The encounter was within this distance of the lake"
   - value: "44.5 mi"
-    label: To R-2508 airspace
-    hint: "The bearing the craft took"
+    label: To R-2508 restricted airspace
+    hint: "Northwest, the way the craft flew off"
   - value: 3
-    label: Marines given boosters
-    hint: "After three separate encounters"
+    label: Marines given anthrax boosters
+    hint: "Each after his own encounter"
   - value: "2h02m"
-    label: Runtime
+    label: Video length
 ---
 ::
 
@@ -43,7 +43,7 @@ stats:
 
 This video is the first of two parts on the testimony of [[Rodrik Castle|Rodrik "Rod" John Castle III]]. He is a former sergeant in the [[United States Marine Corps]] who says that in March 1997, during the [[Hunter Warrior Advanced Warfighting Experiment]] at [[Marine Corps Air Ground Combat Center 29 Palms|Marine Corps Air Ground Combat Center Twentynine Palms]], his Harrier crash-retrieval team came over a hill near [[Emerson Dry Lake]] and found a silent, matte-black equilateral triangle about 300 feet long hovering 150 to 200 feet overhead. Beneath it were about 30 armed men in unmarked black uniforms with blacked-out pickup trucks. Half of them rushed the Marines and held them at gunpoint until the craft climbed away to the northwest at extreme speed. The Marines' Humvee would not start for about five minutes. Their superiors called it "flare activity", and the next day the team was given an unexplained anthrax booster. The second part, the full sit-down interview with Castle, was released separately.
 
-UAP Gerb treats Castle as a *witness* rather than a whistleblower, and argues that his "brief but powerful" account is an unusually well-located glimpse of a UFO legacy program operation on US soil. He argues it shows a triangular [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicle]] and a paramilitary special mission unit working in the shadows alongside unwitting "blue" (friendly) forces. Gerb explicitly turns away from the Marine Corps, which he believes has no role in the UFO portfolio. His case rests on the paper trail of the Navy's late "Hunter Air" adjunct to the exercise, which drew aircrews from the [[Naval Aviation Warfare Development Center (NAWDC)|Naval Strike and Air Warfare Center]] at [[Fallon, Nevada]] and from [[Naval Air Station Lemoore (NAS Lemoore)|Naval Air Station Lemoore]]. It also rests on the craft's northwest departure toward the [[R2508 Complex]] and [[Edwards Air Force Base]].
+Gerb treats Castle as a *witness* rather than a whistleblower. He calls the account "brief but powerful" and argues that, because its location is so precise, it is a rare look at a UFO legacy program operating on US soil. In his reading it shows a triangular [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicle]] and a paramilitary special mission unit working in secret alongside unwitting "blue" (friendly) forces. Gerb explicitly rules out the Marine Corps, which he believes has no role in the UFO portfolio. His case rests instead on two things. One is the paper trail of the Navy's "Hunter Air" element, added late to the exercise, which drew aircrews from the [[Naval Aviation Warfare Development Center (NAWDC)|Naval Strike and Air Warfare Center]] at [[Fallon, Nevada]] and from [[Naval Air Station Lemoore (NAS Lemoore)|Naval Air Station Lemoore]]. The other is the craft's northwest departure toward the [[R2508 Complex]] and [[Edwards Air Force Base]].
 
 From there the video builds three hypotheses. First, the craft was most likely [[Edgar Fouche|Edgar Fouché]]'s [[TR-3B]], flown by top Navy and Air Force pilots, with the [[XF-131 Super Sentinel]] as a less likely alternative. Second, the ground team was a [[DOE Special Response Teams (SRTs)|Department of Energy Special Response Team]] trained and staffed by [[Wackenhut Services|Wackenhut]], the security contractor that tried to recruit Castle in 2002. Third, the way Castle's team was handled foreshadows the harsher treatment given weeks later to [[Jonathan Weygandt]] in Peru, and in 2009 to [[Michael Herrera]] in Sumatra. Like Castle, both Marines reported an anthrax booster after their encounters.
 
@@ -51,7 +51,7 @@ From there the video builds three hypotheses. First, the craft was most likely [
 
 ::wiki-timeline{video="ShoUyC1aip0" video-title="1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - The Testimony of Sgt Roderick Castle"}
 ---
-help: "The bar pinned above the entries is a ruler from 1942 to 2025. Its ticks are the entries, coloured by category and taller for major ones; click the ruler to jump to the nearest one. The thin line with the upward arrow is where you are reading; while the video plays, the thicker line capped with a downward arrow is where Gerb is. Gerb moves back and forth in time, so the playhead leaps around the ruler. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Timestamps jump the mini-player to that moment."
+help: "The bar above the list runs from 1942 to 2025, with a mark for each entry, coloured by type; taller marks are major entries. Click the bar to jump to a year. The dark line shows which entry you are reading. Play from here starts the video at that entry, and once it is playing a green line shows where Gerb is. He moves back and forth in time, so the green line jumps around the bar. Turn on Follow video to have the list scroll along with the video; scrolling yourself turns it off. Click a timestamp to play the video from that moment."
 eras:
   - id: precedents
     label: "Precedents"
@@ -77,7 +77,7 @@ events:
   - date: "1942"
     title: "Center for Naval Analyses traces its origin to anti-submarine research"
     cue: 3432
-    summary: "The Center for Naval Analyses, the Navy FFRDC that later co-published the Hunter Warrior findings, traces its founding to the 1942 Anti-Submarine Warfare Operations Research Group, formed to give the Navy scientific advice on finding and attacking U-boats. The video ties this lineage to the anti-submarine scientists it links to the 1948 Aztec crash."
+    summary: "The Center for Naval Analyses, a Navy federally funded research and development center (FFRDC) that later co-published the Hunter Warrior findings, traces its founding to the 1942 Anti-Submarine Warfare Operations Research Group. That group was formed to give the Navy scientific advice on finding and attacking U-boats. The video connects this origin to the anti-submarine scientists it links to the 1948 Aztec crash."
     category: organization
     significance: minor
     entities:
@@ -86,7 +86,7 @@ events:
   - date: "1945"
     title: "Eric A. Walker establishes Penn State's Applied Research Laboratory"
     cue: 3395
-    summary: "Penn State's Navy university-affiliated research center was established in 1945 by future university president Dr. Eric A. Walker, whom the video names as a participant, alongside Vannevar Bush, in 1950s crash-retrieval and reverse-engineering programs."
+    summary: "Dr. Eric A. Walker, later president of the university, established Penn State's Navy university-affiliated research center in 1945. The video names him, alongside Vannevar Bush, as a participant in 1950s crash-retrieval and reverse-engineering programs."
     category: organization
     significance: minor
     entities:
@@ -95,7 +95,7 @@ events:
   - date: "1954"
     title: "Wackenhut founded"
     cue: 2450
-    summary: "The private security firm Wackenhut, now G4S, was founded in 1954. The video calls it synonymous with UFO legacy programs: perimeter guard at the Nevada Test Site, Area 51 and Los Alamos, and trainer and supplier of Department of Energy Special Response Teams."
+    summary: "The private security firm Wackenhut, now G4S, was founded in 1954. The video calls it synonymous with UFO legacy programs, as the perimeter guard at the Nevada Test Site, Area 51 and Los Alamos and as the trainer and supplier of Department of Energy Special Response Teams."
     category: organization
     significance: notable
     entities:
@@ -151,7 +151,7 @@ events:
   - date: "1989"
     title: "Belgian triangle wave"
     cue: 338
-    summary: "The video places the 1989 Belgian UFO wave at the crescendo of worldwide sightings of prototype triangular craft from the 1970s to the 1990s, many of which Gerb argues were man-made reproduction vehicles."
+    summary: "The video places the 1989 Belgian UFO wave at the peak of worldwide sightings of prototype triangular craft from the 1970s to the 1990s, many of which Gerb argues were man-made reproduction vehicles."
     category: event
     significance: minor
     entities:
@@ -189,7 +189,7 @@ events:
   - date: "1995-12"
     title: "Spane report on sea-based aerial fire support"
     cue: 3528
-    summary: "Vice Admiral Robert Spane, commander of Naval Air Force Pacific, set out in a December 1995 report, 'An Operational Examination of Sea-Based Aerial Fire Support for Engaged Troops', a new mission for carrier aviation supporting troops ashore on a nonlinear battlefield: the doctrinal root of the Navy's part in Hunter Warrior."
+    summary: "In a December 1995 report, 'An Operational Examination of Sea-Based Aerial Fire Support for Engaged Troops', Vice Admiral Robert Spane, commander of Naval Air Force Pacific, set out a new mission for carrier aviation: supporting troops ashore on a nonlinear battlefield. The report is the doctrinal root of the Navy's part in Hunter Warrior."
     category: document
     significance: major
     entities:
@@ -206,7 +206,7 @@ events:
   - date: "1996"
     title: "Krulak brings Fallon and Lemoore aircrews into Hunter Warrior"
     cue: 3563
-    summary: "In late 1996, at the behest of Chief of Naval Operations Admiral Jay Johnson, Commandant General Charles Krulak asked the Fallon warfare center to assemble aircrews from Fallon and NAS Lemoore to explore a 'Hunter Air' concept during Hunter Warrior: an adjunct bolted on late in planning, which Gerb argues gave cover to a clandestine craft and ground team."
+    summary: "In late 1996, at the behest of Chief of Naval Operations Admiral Jay Johnson, Commandant General Charles Krulak asked the Fallon warfare center to assemble aircrews from Fallon and NAS Lemoore to explore a 'Hunter Air' concept during Hunter Warrior. Gerb argues that this add-on, bolted on late in planning, gave cover to a clandestine craft and ground team."
     category: policy
     significance: major
     entities:
@@ -255,7 +255,7 @@ events:
   - date: "1997-08"
     title: "Hunter Warrior findings released"
     cue: 3296
-    summary: "The Marine Corps Combat Development Command and the Center for Naval Analyses released summary findings on Hunter Warrior by 1 August 1997. Gerb asks why a Navy FFRDC reported on a Marine experiment and suggests it could back-channel results to the Navy outside the Marine chain of command."
+    summary: "The Marine Corps Combat Development Command and the Center for Naval Analyses released summary findings on Hunter Warrior by 1 August 1997. Gerb asks why a Navy research center (an FFRDC) reported on a Marine experiment, and suggests it could have passed results back to the Navy outside the Marine chain of command."
     category: document
     significance: notable
     entities:
@@ -263,7 +263,7 @@ events:
   - date: "1997-12"
     title: "DoD mandates anthrax vaccination for all personnel"
     cue: 2272
-    summary: "The Department of Defense's mandate that all US military personnel be vaccinated against anthrax took effect only in December 1997; from the 1991 Gulf War until then, only some troops received the vaccine and boosters, which is why Gerb finds Castle's booster anomalous."
+    summary: "The Department of Defense's mandate that all US military personnel be vaccinated against anthrax took effect only in December 1997. From the 1991 Gulf War until then, only some troops received the vaccine and boosters, which is why Gerb finds Castle's booster anomalous."
     category: policy
     significance: minor
     entities:
@@ -271,7 +271,7 @@ events:
   - date: "1998"
     title: "Edgar Fouché discloses the TR-3B"
     cue: 4693
-    summary: "Fouché went public in 1998 with an account, drawn from himself and five close sources, of the TR-3B: a triangle engineered by Lockheed, Boeing, Northrop, Teledyne and Ryan, managed by the NRO, NSA and CIA, whose mercury-plasma Magnetic Field Disruptor, reverse-engineered at Sandia and Lawrence Livermore, cut its mass by 89%."
+    summary: "Fouché went public in 1998 with an account of the TR-3B drawn from his own knowledge and five close sources. He described a triangle engineered by Lockheed, Boeing, Northrop, Teledyne and Ryan and managed by the NRO, NSA and CIA. Its mercury-plasma Magnetic Field Disruptor, reverse-engineered at Sandia and Lawrence Livermore, cut its mass by 89%."
     category: document
     significance: notable
     entities:
@@ -299,7 +299,7 @@ events:
   - date: "2002"
     title: "Wackenhut tries to recruit Castle"
     cue: 2604
-    summary: "Within three months of leaving the New York Army National Guard, and three years after leaving the Marines, Castle received an unsolicited Wackenhut recruiting approach for its helicopter teams that seemed to know his record, including his flight-medic training. Gerb floats the 'Blue Boys' crash-retrieval teams as the possible destination."
+    summary: "Within three months of leaving the New York Army National Guard, and three years after leaving the Marines, Castle received an unsolicited Wackenhut recruiting approach for its helicopter teams that seemed to know his record, including his flight-medic training. Gerb suggests the job may have led to the 'Blue Boys' crash-retrieval teams."
     category: event
     significance: major
     entities:
@@ -308,7 +308,7 @@ events:
   - date: "2004-11"
     title: "Nimitz Tic Tac encounter"
     cue: 3130
-    summary: "Ross Coulthart has said his sources tie the Tic Tac met by Commander David Fravor off San Diego in 2004 to Lockheed Skunk Works. Gerb explores, without endorsing it, the parallel of a man-made craft testing itself against unwitting 'blue' forces inside an active exercise."
+    summary: "Ross Coulthart has said his sources tie the Tic Tac met by Commander David Fravor off San Diego in 2004 to Lockheed Skunk Works. Gerb explores the parallel without endorsing it: a man-made craft testing itself against unwitting 'blue' (friendly) forces inside an active exercise."
     category: event
     significance: notable
     entities:
@@ -328,7 +328,7 @@ events:
   - date: "2017"
     title: "Salvatore Pais's inertial-mass-reduction craft patents"
     cue: 7017
-    summary: "Patents filed by Salvatore Pais out of Pax River around 2017 for an inertial mass reduction craft show a triangle with a large concave centre, which Gerb compares to the concave feature Castle saw on the craft's underside."
+    summary: "Patents filed by Salvatore Pais out of Naval Air Station Patuxent River (Pax River) around 2017 for an inertial mass reduction craft show a triangle with a large concave centre, which Gerb compares to the concave feature Castle saw on the craft's underside."
     category: document
     significance: minor
     entities:
@@ -359,17 +359,17 @@ events:
 
 Rodrik John Castle III joined the Marine Corps in 1994 and left in 1999 as a sergeant (E-5). His primary military occupational specialty was 6531, aircraft ordnance technician. He served with Marine Aircraft Group 13 of the 3rd Marine Aircraft Wing at [[MCAS Yuma|Marine Corps Air Station Yuma]], in [[VMA-513]], the "Flying Nightmares" AV-8B Harrier attack squadron, where he led a team of six to eight ordnance Marines. Toward the end of his service he trained as a helicopter flight medic. He now works with veterans suffering from PTSD.
 
-Gerb stresses that this background matters. The Harrier is a short-takeoff, vertical-landing jet whose Rolls-Royce Pegasus engine vectors thrust through four rotating nozzles, so it can stand still in the air. Castle therefore knew at first hand what vertical flight looks and sounds like, both from Harriers and from helicopters. Gerb also notes that MCAS Yuma is not part of the nearby Yuma Proving Ground, one of the 23 major range and test facility bases he has previously tied to UFO research, development, test and evaluation.
+Gerb stresses this background because it means Castle knew at first hand what vertical flight looks and sounds like, both from Harriers and from helicopters. The Harrier is a short-takeoff, vertical-landing jet whose Rolls-Royce Pegasus engine vectors thrust through four rotating nozzles, so it can stand still in the air. Gerb also notes that MCAS Yuma is not part of the nearby Yuma Proving Ground, one of the 23 major range and test facility bases he has previously tied to UFO research, development, test and evaluation.
 
 ## The Encounter
 
 Castle's team of five to six Marines was attached to Hunter Warrior's experimental special-purpose Marine air-ground task force as an overnight crash-retrieval crew for the Harriers, working 7 p.m. to 7 a.m. The video reconstructs one night, which Gerb places in the experiment's third phase of major night movement:
 
-1. **The call.** Waiting by their Humvee, the team got a radio call about unexplained or unauthorized "flare activity" three to five miles out, and set off towing a trailer of fire-suppression equipment at 30 to 35 mph.
-2. **Over the hill.** Heading northwest within about 7.5 miles of Emerson Dry Lake, all five Marines saw the triangle at once. It hung motionless, turning slowly counterclockwise, with a black convoy on the ground beneath it about 150 to 200 feet from Castle. The video places the spot inside the FAA restricted airspace it identifies as R2501C, about 90 miles southeast of Edwards Air Force Base.
-3. **Detained.** Within about 30 seconds, roughly 15 of the operators ran up the hill in V formation with submachine guns, shouting at the Marines to get down and keep their heads down, as if they did not want them to see anything. The Marines' M16s were unloaded in the back of the truck. "We came upon something that we shouldn't be involved in," Castle says.
-4. **Departure.** After about two minutes the triangle stopped rotating, rose at an angle while staying level, and, after a slow build-up, shot away to the northwest "to nothing", with no sound or exhaust. The operators sprinted back to their trucks and drove off the same way. The whole encounter lasted three or four minutes at most.
-5. **A dead Humvee.** In shock, the Marines found that their diesel Humvee would not start. It is normally very reliable, and it took about five minutes to get going.
+1. Waiting by their Humvee, the team got a radio call about unexplained or unauthorized "flare activity" three to five miles out, and set off towing a trailer of fire-suppression equipment at 30 to 35 mph.
+2. Coming over a hill while heading northwest, within about 7.5 miles of Emerson Dry Lake, all five Marines saw the triangle at once. It hung motionless, turning slowly counterclockwise, with a black convoy on the ground beneath it about 150 to 200 feet from Castle. The video places the spot inside the FAA restricted airspace it identifies as R2501C, about 90 miles southeast of Edwards Air Force Base.
+3. Within about 30 seconds, roughly 15 of the operators ran up the hill in V formation with submachine guns, shouting at the Marines to get down and keep their heads down, as if they did not want them to see anything. The Marines' M16s were unloaded in the back of the truck. "We came upon something that we shouldn't be involved in," Castle says.
+4. After about two minutes the triangle stopped rotating, rose at an angle while staying level, and, after a slow build-up, shot away to the northwest "to nothing", with no sound or exhaust. The operators sprinted back to their trucks and drove off the same way. The whole encounter lasted three or four minutes at most.
+5. The shocked Marines then found that their diesel Humvee, normally very reliable, would not start. It took about five minutes to get going.
 
 ::wiki-watch{video="ShoUyC1aip0" title="1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - The Testimony of Sgt Roderick Castle"}
 ::
@@ -381,7 +381,7 @@ Castle saw only the underside and part of one side. He describes the craft this 
 - An equilateral triangle with rounded, not pointed, corners, about 300 feet long.
 - Matte black, "blacker than black", with almost no reflectivity, so that it blotted out the stars and the deep blue desert sky.
 - No seams, rivets, bolts or exhaust ports.
-- Unlike a Harrier or helicopter, no wobbling, bobbling or weaving.
+- None of the wobbling, bobbling or weaving of a Harrier or helicopter.
 - At each vertex, a light that looked like a sphere embedded in the hull rather than a flush panel, deeper than an incandescent or LED light. The lights glowed a yellowish, whitish gold that was bright but not blinding, and cast no light on the ground or on the team.
 - An unlit concave, dome-like section in the centre of the underside.
 - What may have been ridges, striations or vents along the sides between the lights.
@@ -399,13 +399,13 @@ The operators wore black helmets, sometimes goggles, balaclava-like masks, black
 
 By the time the team got back to its Quonset hut at 7 a.m., their gunnery sergeant and chief warrant officer were waiting there, which Castle found strange. They asked what the Marines had seen and told them it was only flare activity. The implied message was that they had stumbled on something they should not have seen, and should keep quiet. Castle says he was never made to sign anything about the incident itself. Gerb believes the two officers were not briefed on the craft or the team: under the need-to-know rules of an unacknowledged special access program (USAP), they would only have been told that their Marines had seen sensitive activity and must stay silent.
 
-The next day, Castle and only his team were called to medical and given an anthrax "booster", with a rifleman standing nearby, although they had received the vaccine about a year earlier. Gerb finds this anomalous because the Department of Defense's mandate to vaccinate all personnel did not take effect until December 1997. Between the 1991 Gulf War and then, only some troops received the vaccine. When he asked the two other Marines he had interviewed, both said they had been given anthrax boosters straight after their own encounters. Gerb calls it "a data point we simply cannot ignore".
+The next day, Castle and only his team were called to medical and given an anthrax "booster", with a rifleman standing nearby, although they had received the vaccine about a year earlier. Gerb finds this anomalous because the Department of Defense's mandate to vaccinate all personnel did not take effect until December 1997. Between the 1991 Gulf War and then, only some troops received the vaccine. When Gerb asked the two other Marines he had interviewed, both said they had been given anthrax boosters straight after their own encounters. Gerb calls it "a data point we simply cannot ignore".
 
 Gerb sets Castle's night beside the two other Marine encounters he has covered, those of [[Jonathan Weygandt]] and [[Michael Herrera]]:
 
 ::wiki-compare{video="ShoUyC1aip0" video-title="1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE"}
 ---
-caption: "Three Marines, three all-black teams. \"Same\" and \"Differs\" mark the parallels and the one difference Gerb draws himself."
+caption: "Three Marines' encounters with all-black teams, side by side. \"Same\" marks a parallel that Gerb draws himself, and \"Differs\" marks the one difference he points out."
 attributeLabel: "Point"
 subjects:
   - name: "Rodrik Castle UAP Encounter"
@@ -486,10 +486,10 @@ root:
                   note: "Overnight Harrier crash-retrieval duty when his team met the triangle."
     - name: Center for Naval Analyses
       label: Co-published the findings
-      note: "Navy FFRDC; findings released with the Combat Development Command by 1 August 1997."
+      note: "A Navy federally funded research and development center (FFRDC). It released the findings with the Marine Corps Combat Development Command by 1 August 1997."
     - name: "Hunter Air adjunct"
       label: Navy element bolted on late
-      note: "Requested by Krulak at CNO Johnson's behest, after Spane's 1995 fire-support study."
+      note: "Requested by Krulak at the behest of the Chief of Naval Operations, Admiral Johnson, after Spane's 1995 fire-support study."
       children:
         - name: Naval Aviation Warfare Development Center (NAWDC)
           label: Fallon aircrews
@@ -497,7 +497,7 @@ root:
           label: Lemoore aircrews
         - name: "Triangle and special mission unit"
           label: "Alleged, per Gerb"
-          note: "Gerb's theory: an ARV and ground team using the adjunct to practise unseen beside blue forces."
+          note: "Gerb's theory is that an alien reproduction vehicle (ARV) and its ground team used this Navy add-on to practise unseen beside friendly (blue) forces."
 ---
 ::
 
@@ -536,7 +536,7 @@ root:
 
 ::wiki-map
 ---
-caption: "The encounter site, the triangle's north-west departure and two of the R2508 complex's principal users. The R2508 pin marks the point the video gives for the airspace's southern edge, not the whole complex. NAS Lemoore and Fallon, which supplied the Hunter Air aircrews, lie farther north, off this map."
+caption: "Where Castle's team met the triangle, the north-west course it left on, and two of the main users of the R2508 restricted airspace. The R2508 pin marks only the airspace's southern edge, at the point the video gives. NAS Lemoore and Fallon, which supplied the Navy's Hunter Air aircrews, lie farther north, off this map."
 pins:
   - name: "Emerson Dry Lake"
     label: "Encounter"
@@ -563,7 +563,7 @@ routes:
 ---
 ::
 
-Edwards anchors much of Gerb's wider work. Its main witness there, referred to only as "Ed", is described as a vetted but hostile witness. Ed has said that he was briefed into UFO programs at Area 51 while working on the Nevada range, and that he later ran an electronic-warfare group at the Edwards Air Force Test Center with an acknowledged $700 million test infrastructure budget. There, by his account, he acted as intermediary between scientists and the test pilots of reverse-engineered, sometimes unmanned, copycat vehicles. The Edwards area also figures in an account of three star-like lights that grew into a silhouetted triangle over the base before vanishing.
+Edwards is central to much of Gerb's wider work. His main witness there, known only as "Ed", is described as a vetted but hostile witness. Ed has said that he was briefed into UFO programs at Area 51 while working on the Nevada range, and that he later ran an electronic-warfare group at the Edwards Air Force Test Center with an acknowledged $700 million test infrastructure budget. There, by his account, he acted as intermediary between scientists and the test pilots of reverse-engineered, sometimes unmanned, copycat vehicles. The Edwards area also figures in an account of three star-like lights that grew into a silhouetted triangle over the base before vanishing.
 
 ### TR-3B or XF-131?
 
@@ -571,7 +571,7 @@ According to Air Force Master Sergeant Edgar Fouché, who went public in 1998, t
 
 ::wiki-compare{video="ShoUyC1aip0" video-title="1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE"}
 ---
-caption: "Castle's craft beside Fouché's TR-3B. \"Same\" marks the parallels Gerb draws himself; he calls the edge vents the strongest."
+caption: "What Castle saw, set beside Edgar Fouché's description of the TR-3B. \"Same\" marks a parallel that Gerb draws himself; he calls the vents along the edges the strongest."
 attributeLabel: "Feature"
 subjects:
   - name: "Rodrik Castle UAP Encounter"
@@ -625,19 +625,19 @@ The Antelope Valley is itself home to [[Air Force Plant 42]], Lockheed's Skunk W
 
 ## Who Was the Ground Team?
 
-Gerb rejects the idea that the operators were ordinary Air Force or Navy enlisted personnel, or teams from Joint Special Operations Command or Special Operations Command. His proposal is that they were private operators from Wackenhut working with the Navy and Air Force, specifically a Department of Energy Special Response Team (SRT). He supports this with the following:
+Gerb rejects the idea that the operators were ordinary Air Force or Navy enlisted personnel, or teams from Joint Special Operations Command or Special Operations Command. His proposal is that they were private operators from Wackenhut working with the Navy and Air Force, specifically a Department of Energy Special Response Team (SRT). He gives four reasons.
 
-- **The recruitment.** In 2002, within three months of leaving the New York Army National Guard, Castle received an unsolicited Wackenhut recruiting approach for its helicopter teams. It seemed to know his record, including flight-medic training that was not his specialty and experience with UH-1 Huey and AH-1 Cobra helicopters. Castle now suspects it was "an attempt to pull me in as an asset". Gerb wonders whether the destination was something like the alleged "Blue Boys" crash-retrieval rapid-response teams.
-- **The unit.** SRTs are the DOE's elite protective force, with arrest authority, entrusted with moving nuclear materials around the continental United States. In the 1980s at least, they wore all-black gear like the kit Castle describes. According to the General Accounting Office, from 1987 Wackenhut not only guarded DOE sites but also supplied the SRTs, which it trained and staffed. SRTs work at home, not abroad, which fits a domestic operation.
-- **The legal cover.** As Gerb argued for the [[NEST (Nuclear Emergency Support Team)|Nuclear Emergency Support Team]] in the Weygandt case, a DOE team could invoke the [[Atomic Energy Act of 1954]] to fold any retrieval into "transclassified foreign nuclear information". Gerb has heard from sources of UFO material being trucked across the country labelled as nuclear material under SRT guard.
-- **A precedent.** In 1982, Nevada Test Site guard [[Richard Mingus]] escalated an apparent armed attack on the [[Area 6 (Nevada Test Site)|Area 6]] test area all the way to President Reagan. The attackers turned out to be a Wackenhut drill.
+- In 2002, within three months of leaving the New York Army National Guard, Castle received an unsolicited Wackenhut recruiting approach for its helicopter teams. It seemed to know his record, including flight-medic training that was not his specialty and experience with UH-1 Huey and AH-1 Cobra helicopters. Castle now suspects it was "an attempt to pull me in as an asset". Gerb wonders whether the destination was something like the alleged "Blue Boys" crash-retrieval rapid-response teams.
+- SRTs are the DOE's elite protective force, with arrest authority, entrusted with moving nuclear materials around the continental United States. In the 1980s at least, they wore all-black gear like the kit Castle describes. According to the General Accounting Office, from 1987 Wackenhut not only guarded DOE sites but also supplied the SRTs, which it trained and staffed. SRTs work at home, not abroad, which fits a domestic operation.
+- As Gerb argued for the [[NEST (Nuclear Emergency Support Team)|Nuclear Emergency Support Team]] in the Weygandt case, a DOE team could invoke the [[Atomic Energy Act of 1954]] to fold any retrieval into "transclassified foreign nuclear information". Gerb has heard from sources of UFO material being trucked across the country labelled as nuclear material under SRT guard.
+- There is a precedent. In 1982, Nevada Test Site guard [[Richard Mingus]] escalated an apparent armed attack on the [[Area 6 (Nevada Test Site)|Area 6]] test area all the way to President Reagan. The attackers turned out to be a Wackenhut drill.
 
 ::wiki-org-chart
 ---
 root:
   name: Wackenhut Services
   label: "Private security firm, founded 1954; now G4S"
-  note: "Alleged CIA cover in the Cold War: a March 1963 memo in the JFK files describes the company wishing to serve as CIA cover."
+  note: "Allegedly a CIA cover during the Cold War. A March 1963 memo in the JFK files describes the company wishing to serve as cover for the CIA."
   children:
     - name: "Board of directors"
       label: "Intelligence revolving door"
@@ -651,7 +651,7 @@ root:
           note: "Secretary of Defense; Gerb has wagered he was at the 1988 Norton air show."
         - name: William F. Raborn
           label: 1980s board member
-          note: "Director of the Navy's Polaris program, under which Craven said Project Sand Dollar was nested."
+          note: "Director of the Navy's Polaris program, under which John P. Craven said Project Sand Dollar was nested."
     - name: "DOE guard contracts"
       label: "From 1987, per the GAO"
       children:
@@ -668,7 +668,7 @@ root:
 ---
 ::
 
-In the outro Gerb goes further. In the same book he found that Wackenhut had set up forward operating bases in Peru in the late 1980s and early 1990s. That makes him reconsider whether the team Weygandt met was also a Wackenhut-staffed SRT, a possibility he had set aside in his earlier video because SRTs work domestically.
+In the outro Gerb goes further. In the same book by Edward S. Herman, he found that Wackenhut had set up forward operating bases in Peru in the late 1980s and early 1990s. That makes him reconsider whether the team Weygandt met was also a Wackenhut-staffed SRT, a possibility he had set aside in his earlier video because SRTs work domestically.
 
 ## Coming Forward
 
@@ -698,13 +698,13 @@ entries:
     note: "His December 1995 study of sea-based aerial fire support is the paper trail behind the Navy's part in Hunter Warrior."
   - name: Charles Krulak
     role: "31st Commandant of the Marine Corps"
-    note: "In late 1996 requested Fallon and Lemoore aircrews for the 'Hunter Air' adjunct, at the CNO's behest."
+    note: "In late 1996 requested Fallon and Lemoore aircrews for the Navy's 'Hunter Air' add-on to Hunter Warrior, at the behest of the Chief of Naval Operations."
   - name: Bill McDonald
     role: "Forensic artist"
-    note: "Drew the XF-131 Super Sentinel in 1992 from four radar cross-section engineers, Gerb's alternative candidate for the craft."
+    note: "In 1992 drew the XF-131 Super Sentinel, Gerb's alternative candidate for the craft, from the account of four radar cross-section engineers."
   - name: Kevin Knuth
     role: "Physicist"
-    note: "His 2023 explanation of how a craft's electric field could short out a vehicle's ignition is Gerb's account of the dead Humvee."
+    note: "Gerb uses his 2023 explanation of how a craft's electric field could short out a vehicle's ignition to account for the dead Humvee."
 ---
 ::
 
@@ -716,7 +716,7 @@ entries:
 - The Marines' Humvee would not start for about five minutes, an effect Gerb links to Kevin Knuth's electric-field explanation. He infers that the operators' vehicles were shielded against it.
 - Superiors called the event "flares", and the next day Castle's team received an unexplained anthrax booster under armed watch. Jonathan Weygandt and Michael Herrera both report boosters after their own encounters.
 - Gerb argues that the Marine Corps has no role in UFO legacy programs. In his theory, the Navy (through the Fallon warfare center and NAS Lemoore, added late to Hunter Warrior as the "Hunter Air" adjunct), likely with the Air Force, used the exercise to practise ARV and special-mission-unit operations alongside unwitting blue forces.
-- The Center for Naval Analyses' role in reporting on Hunter Warrior is floated, on the basis of Gerb's sources only, as a possible back channel for sending results to the Navy.
+- On the basis of his sources only, Gerb suggests that the Center for Naval Analyses' role in reporting on Hunter Warrior may have been a back channel for sending results to the Navy.
 - The craft's northwest departure toward the R2508 Complex, about 44.5 miles away and shared by Edwards, China Lake, Fort Irwin and NAS Lemoore, points to an origin in the Edwards and Antelope Valley corridor.
 - The craft is most likely Edgar Fouché's TR-3B, an alien reproduction vehicle with reverse-engineered mass-reduction propulsion. A less likely candidate is the XF-131 Super Sentinel drawn by Bill McDonald.
 - The ground team may have been a Wackenhut-trained and Wackenhut-staffed DOE Special Response Team, which could shield a retrieval under the Atomic Energy Act of 1954. Wackenhut's 2002 attempt to recruit Castle is cited in support.
