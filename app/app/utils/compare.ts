@@ -20,10 +20,10 @@ export const COMPARE_MARK_LABEL: Record<CompareMark, string> = {
 
 /** One-line meaning for each marker, used in the legend and as a tooltip. */
 export const COMPARE_MARK_HINT: Record<CompareMark, string> = {
-  same: 'Agrees with the other subjects on this point',
-  differs: 'Departs from the other subjects on this point',
-  unknown: 'Not described or not known',
-  disputed: 'Contested within the video',
+  same: 'Matches the others on this point',
+  differs: 'Differs from the others on this point',
+  unknown: 'Not described, or not known',
+  disputed: 'Disputed in the video',
 }
 
 /** A subject as authored: a bare page title, or an object with an optional kicker. */
