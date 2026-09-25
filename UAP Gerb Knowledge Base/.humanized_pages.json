@@ -1628,6 +1628,11 @@
     "sha256": "a7001177201e7fdcf7c570a195de8bd3afc81860a1bc0b32b5c8010ef108e4f6",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/People/Ralph Blumenthal.md": {
+    "humanized_at": "2026-09-25T19:24:16Z",
+    "sha256": "1ad1823309239eee352be0fb70e9220eea812452fb13414854136b00e517f633",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/Raymond Fowler.md": {
     "humanized_at": "2026-09-25T19:23:54Z",
     "sha256": "7a461ec7581f22dd0440fb3b8d152b5002dcec2ab930c4a51d7cd6c63448b147",
