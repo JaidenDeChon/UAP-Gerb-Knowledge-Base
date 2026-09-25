@@ -10,11 +10,11 @@ Robert M. Salter Jr. was an American engineer at the [[RAND Corporation]] best k
 
 ## The VHST Study
 
-Salter described a system of cars moving through tubes in underground tunnels at extreme speeds. The study examined speeds as high as 14,000 mph, enough to link Los Angeles and New York in 21 minutes, and recommended placing the system deep underground to avoid grade crossings, weather and existing infrastructure, observing that tunnelling at great depth was not much harder than at shallow depth. He suggested that the first line would probably not be a non-stop link but one stopping at two intermediate staging points. See [[Very High Speed Transit System (VHST)]].
+Salter described a system of cars moving through tubes in underground tunnels at extreme speeds. The study examined speeds as high as 14,000 mph, enough to link Los Angeles and New York in 21 minutes. It recommended placing the system deep underground to avoid grade crossings, weather and existing infrastructure, noting that tunnelling at great depth was not much harder than at shallow depth. He suggested that the first line would probably not be a non-stop link but one stopping at two intermediate staging points. See [[Very High Speed Transit System (VHST)]].
 
 ## In UAP Gerb's Research
 
-In *Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs*, UAP Gerb calls the study "of massive consequence". He reads Salter's intermediate staging points as the hub-and-spoke pattern he argues DUMB networks follow, with central hubs joined to one another and branching to smaller local sites, and finds that the study's route map corresponds strongly to [[Bill Hamilton]]'s 1990 map of connected underground UFO facilities in the western states.
+In *Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs*, Gerb calls the study "of massive consequence". He reads Salter's intermediate staging points as the hub-and-spoke pattern he argues DUMB networks follow, with central hubs joined to one another and branching to smaller local sites, and finds that the study's route map corresponds strongly to [[Bill Hamilton]]'s 1990 map of connected underground UFO facilities in the western states.
 
 ## Sources
 
