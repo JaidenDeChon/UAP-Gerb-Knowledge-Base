@@ -153,6 +153,11 @@
     "sha256": "ef37190d15a6156114ae2da64b06e72109ea538189e1c9cb6ca447455009fa12",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Videos/USO Case Book - Unidentified Submerged Objects Throughout History/summary.md": {
+    "humanized_at": "2026-09-25T17:24:31Z",
+    "sha256": "a7692f21614c3bb7a4ffabad5cdbf60a880d3af1fc36ee731d6dfd515f639c54",
+    "cold_reader": true
+  },
   "app/app/components/app/AppCommandPalette.vue": {
     "humanized_at": "2026-09-25T16:58:23Z",
     "sha256": "35846ae6b176600f70f9bbf949c8948963b89ad19d441ef5c232e50f7d597c0b",
