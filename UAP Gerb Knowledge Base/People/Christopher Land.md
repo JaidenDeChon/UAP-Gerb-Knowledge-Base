@@ -5,11 +5,11 @@ tags:
   - person
 ---
 
-Christopher Land is a senior vice president at the [[MITRE Corporation]] who, as of the 22 May 2026 legislative interrogatories sent by Representative [[Eric Burlison]] (which UAP Gerb credits to Burlison and [[David Grusch]]), had been with MITRE only since that February. Land was the designated recipient of the letter, which establishes a records preservation obligation on MITRE and requests a detailed accounting of the organization's alleged involvement in classified UFO reverse-engineering and USO-monitoring programs.
+Christopher Land is a senior vice president at the [[MITRE Corporation]]. When Representative [[Eric Burlison]] sent MITRE legislative interrogatories on 22 May 2026, Land had been with the company only since February of that year. Gerb credits the letter to Burlison and [[David Grusch]]. Land was its designated recipient. The letter places a records preservation obligation on MITRE and asks for a detailed accounting of the organization's alleged involvement in classified programs for UFO reverse engineering and USO monitoring.
 
 ## Role in UAP Research
 
-UAP Gerb directly addresses Land in its video on MITRE, stating an intent to help "fill in some gaps" of the congressional letter given Land's recent arrival at the company and short tenure with the organization's institutional history, and calling on MITRE to comply fully and truthfully — including preserving records rather than continuing an alleged pattern of periodic destruction of legacy program documentation.
+Gerb addresses Land directly in his video on MITRE. Because Land arrived at the company recently and has had little time with its institutional history, Gerb says he intends to help "fill in some gaps" in the congressional letter. He also calls on MITRE to comply fully and truthfully, which includes preserving its records instead of continuing an alleged pattern of periodically destroying documents from legacy programs.
 
 ## Sources
 
