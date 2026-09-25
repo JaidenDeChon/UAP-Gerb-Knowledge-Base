@@ -189,7 +189,7 @@ function go(path: string): void {
     <CommandInput placeholder="Search entries…" />
     <CommandList>
       <div v-if="isEmpty" class="px-2 py-6 text-center text-sm text-muted-foreground">
-        No results found.
+        No entries match your search.
       </div>
 
       <CommandGroup v-if="showMap" heading="Navigate">
@@ -221,7 +221,7 @@ function go(path: string): void {
           v-if="grp.more > 0"
           class="px-2 py-1.5 font-mono text-[11px] tracking-[0.02em] text-muted-foreground"
         >
-          + {{ grp.more }} more
+          {{ grp.more }} more not shown. Keep typing to narrow the list.
         </div>
       </CommandGroup>
     </CommandList>

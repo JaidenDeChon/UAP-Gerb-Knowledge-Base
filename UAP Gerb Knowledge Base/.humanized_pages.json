@@ -3,6 +3,11 @@
     "humanized_at": "2026-09-24T02:09:31Z",
     "sha256": "3c929658bca36c3c30ea11fc5f8aa55a2641e3992f1b07e596c81df50a17f961"
   },
+  "app/app/components/app/AppCommandPalette.vue": {
+    "humanized_at": "2026-09-25T16:58:23Z",
+    "sha256": "35846ae6b176600f70f9bbf949c8948963b89ad19d441ef5c232e50f7d597c0b",
+    "cold_reader": true
+  },
   "app/app/components/app/AppSidebar.vue": {
     "humanized_at": "2026-09-25T16:58:10Z",
     "sha256": "d5b49a31b6376b934a30e8f332e7efa9b0eef4a98760a9d04acd7ba550eea0bf",
