@@ -15,15 +15,15 @@ tags:
 stats:
   - value: 3
     label: Whistleblower accounts
-    hint: "Bentley, Goldwater, RB"
+    hint: "Harland Bentley, Barry Goldwater and a Marine known as RB"
   - value: "177,000 mph"
     label: Radar-calculated speed
-    hint: "Maryland, May 1958"
+    hint: "Objects tracked leaving a Maryland missile site, May 1958"
   - value: "40 ft"
-    label: Disc RB guarded
-    hint: "December 1963"
+    label: Width of the disc
+    hint: "The craft RB says he guarded in December 1963"
   - value: "31m"
-    label: Runtime
+    label: Video length
 ---
 ::
 
@@ -33,13 +33,13 @@ stats:
 
 The storylines come with very different evidence. Bentley's rests on his own word, with his military and education records unverified. Gerb sets it beside two better-documented 1958 Maryland cases near Nike missile sites. Goldwater's rests on his own letters and a 1975 interview. It is backed by a 1953 [[Air Force Office of Special Investigations]] document about saucers at Wright-Patterson and a 1991 FOIA reply saying Blue Room film was destroyed in 1965. RB's account comes down through a chain of researchers, from [[Michael Johnstone]] to [[Leonard Stringfield]] to [[Michael Schratt]]. Gerb suggests the building RB guarded may be the room Goldwater was barred from.
 
-A long tangent follows Bentley's claim that he overheard an Apollo 8 encounter into [[Steven Greer]]'s [[Disclosure Project]] files. There a separate witness claimed to have seen an uncut NASA film of six UFOs descending to the Moon. By working through Greer's 2009 notes and emails, Gerb identifies that source as [[Alain Boudier]], who then led the French aerospace society's UAP commission and acted as courier for Greer's briefing documents to French President [[Nicholas Sarkozy]].
+In a long tangent, Gerb follows Bentley's claim that he overheard an Apollo 8 encounter into [[Steven Greer]]'s [[Disclosure Project]] files, where a separate witness claimed to have seen an uncut NASA film of six UFOs descending to the Moon. By working through Greer's 2009 notes and emails, Gerb identifies that source as [[Alain Boudier]], who then led the French aerospace society's UAP commission and acted as courier for Greer's briefing documents to French President [[Nicholas Sarkozy]].
 
 ## Chronology
 
 ::wiki-timeline{video="9Xk4X41yl2M" video-title="UFO Whistleblowers [Vol.2]"}
 ---
-help: "The ruler pinned above the entries spans 1953 to 2015. Each tick is an entry, coloured by category and taller for major ones; click the ruler to jump to the nearest. The video moves between its three storylines rather than through the calendar, so while it plays the video marker jumps back and forth along the ruler. Sync seeks the video to the entry you are reading; Follow lets the video scroll the page until you scroll yourself. Every timestamp here was checked against the captions."
+help: "The bar above the list runs from 1953 to 2015, with a mark for each entry; taller marks are major ones. Click the bar to jump to a year. The dark line shows which entry you are reading, and Play from here starts the video at that entry. Once the video is playing, a green line shows which entry the video has reached. Gerb moves between his three storylines rather than in date order, so the green line jumps back and forth. Turn on Follow video to have the list scroll along with the video; scrolling yourself turns it off. Click a timestamp to play the video from that moment. Every timestamp was checked against the video's captions."
 events:
   - date: "1953-04-27"
     title: "AFOSI records Ralph Brown's Wright-Patterson saucer claim"
@@ -54,7 +54,7 @@ events:
   - date: "1954"
     title: "Hermann Oberth lectures on flying-saucer speeds"
     cue: 399
-    summary: "Rocketry pioneer Hermann Oberth gave a lecture on flying saucers describing recorded speeds of 19 km/s (about 42,000 mph). The video raises it as a point of comparison for the speed calculated at Bentley's site."
+    summary: "Rocketry pioneer Hermann Oberth gave a lecture on flying saucers describing recorded speeds of 19 km/s (about 42,000 mph). Gerb compares it with the speed calculated at Bentley's site."
     category: event
     significance: minor
     entities:
@@ -62,7 +62,7 @@ events:
   - date: "1958-05"
     title: "Bentley sees a disc strike a cornfield and fly off"
     cue: 199
-    summary: "At 6:00 a.m. at a Nike Ajax missile site near Olney, Maryland, radar operator Harland Bentley claimed he heard a sound like a pulsating transformer and saw a wobbling, 30-foot disc with pulsing orange, red and white lights hit a cornfield about 2,000 yards away, then take off again, shearing thick tree limbs. US Air Force personnel in radiation suits allegedly gathered the debris, including a white-hot piece the size of a washing machine, with long poles onto a lead-lined truck."
+    summary: "At 6:00 a.m. at a Nike Ajax missile site near Olney, Maryland, radar operator Harland Bentley claimed he heard a sound like a pulsating transformer and saw a wobbling, 30-foot disc with pulsing orange, red and white lights hit a cornfield about 2,000 yards away, then take off again, shearing thick tree limbs. US Air Force personnel in radiation suits allegedly used long poles to load the debris onto a lead-lined truck, including a white-hot piece the size of a washing machine."
     category: event
     significance: major
     entities:
@@ -93,13 +93,13 @@ events:
   - date: "1958-12-23"
     title: "Evening Sun mentions captured saucers"
     cue: 434
-    summary: "The only contemporary trace Gerb could find for Bentley's year: a passing mention in Baltimore's Evening Sun of the US Air Force capturing at least two flying saucers."
+    summary: "The only record from the time of Bentley's sighting that Gerb could find is a passing mention in Baltimore's Evening Sun of the US Air Force capturing at least two flying saucers."
     category: document
     significance: minor
   - date: "c. 1963"
     title: "Goldwater tries to see inside the Wright-Patterson building"
     cue: 1118
-    summary: "By his own 1975 letter, Senator Barry Goldwater made his effort to find out what was stored in a building at Wright-Patterson about ten or twelve years earlier, which Gerb dates to the early 1960s, perhaps 1963. He was denied."
+    summary: "In a 1975 letter, Senator Barry Goldwater said he had tried to find out what was stored in a building at Wright-Patterson about ten or twelve years earlier. Gerb dates this to the early 1960s, perhaps 1963. Goldwater's request was denied."
     category: event
     significance: notable
     entities:
@@ -119,7 +119,7 @@ events:
   - date: "1965-09-09"
     title: "Blue Room film destroyed"
     cue: 1270
-    summary: "In reply to a 1991 FOIA request from Brian Parks, USAF Colonel Eddie L. Anderson said material relating to a Blue Room, in this case a film, had been destroyed on 9 September 1965. Gerb notes the timing, close to Goldwater's request."
+    summary: "In reply to a 1991 FOIA request from Brian Parks, USAF Colonel Eddie L. Anderson said material relating to a Blue Room, in this case a film, had been destroyed on 9 September 1965. Gerb points out that this was close to the time of Goldwater's request."
     category: document
     significance: major
     entities:
@@ -129,7 +129,7 @@ events:
   - date: "1965-12"
     title: "Borman reports a 'bogey' from Gemini 7"
     cue: 747
-    summary: "Astronaut Frank Borman's report of a 'bogey' during Gemini 7, which the media treated as a UFO sighting and Borman himself attributed to the rocket's own booster."
+    summary: "During Gemini 7, astronaut Frank Borman reported a 'bogey'. The media treated it as a UFO sighting; Borman himself put it down to the rocket's own booster."
     category: event
     significance: minor
     entities:
@@ -241,7 +241,7 @@ events:
   - date: "2009-02-28"
     title: "Source forwards an L'Express article on NASA's next chief"
     cue: 855
-    summary: "The source sent Greer an article from France's L'Express on the White House's search for a new NASA administrator, referencing Charles Bolden and his four Space Shuttle flights."
+    summary: "The source sent Greer an article from France's L'Express on the White House's search for a new NASA administrator, which mentions Charles Bolden and his four Space Shuttle flights."
     category: document
     significance: minor
     entities:
@@ -277,13 +277,13 @@ Harland F. Bentley said his electrical engineering degree and graduate work in n
 
 At 6:00 a.m. one day in May 1958, Bentley said, he heard a sound like a pulsating transformer, which Gerb compares to what Michael Herrera described in 2009. He saw a disc hit a civilian cornfield about 2,000 yards away and immediately take off again. The craft was roughly 30 feet across and saucer-like, with ball-like lights around the rim pulsing orange, red and white, and a cake-like structure on top. It was "wobbling" before impact, and as it left it sheared through thick tree limbs like a knife, which Gerb likens to [[Jonathan Weygandt]]'s 1997 Peru account. Gerb notes he has never heard of another crashed UFO flying away. [[US Air Force]] personnel in radiation suits arrived, lifting the scattered debris with long poles onto a lead-lined truck. One piece, the size of a washing machine, glowed white-hot.
 
-Bentley called that the boring part. Between 10 and 11 p.m. the next evening, the Gaithersburg site phoned to report 12 to 15 objects of different shapes, some saucer-like, hovering 50 to 100 feet up. When the other site's operator held his headset out of the van window, Bentley heard the same pulsating sound. On the M-33 radar sweep, Bentley's crew watched every signature leave in a single sweep. Worked out on an analog computer, that meant speeds above 177,000 mph. Gerb sets this against [[Hermann Oberth]]'s 1954 lecture citing recorded saucer speeds of about 42,000 mph. A presiding general debriefed the men and told them the contacts were helicopters on joint Navy, Army and Air Force manoeuvres.
+Bentley called that the boring part. Between 10 and 11 p.m. the next evening, the Gaithersburg site phoned to report 12 to 15 objects of different shapes, some saucer-like, hovering 50 to 100 feet up. When the other site's operator held his headset out of the van window, Bentley heard the same pulsating sound. On the M-33 radar, Bentley's crew watched every signature leave in a single sweep. An analog computer put their speed above 177,000 mph. Gerb sets this against [[Hermann Oberth]]'s 1954 lecture citing recorded saucer speeds of about 42,000 mph. A presiding general debriefed the men and told them the contacts were helicopters on joint Navy, Army and Air Force manoeuvres.
 
 Gerb found no record of the May 1958 events. The nearest thing is a passing mention in Baltimore's *Evening Sun* on 23 December 1958 of the Air Force capturing at least two saucers. He does lay out two other cases from Maryland that year:
 
 ::wiki-compare{video="9Xk4X41yl2M" video-title="UFO Whistleblowers [Vol.2]"}
 ---
-caption: "Bentley's account beside the two documented Maryland cases of 1958. Markers pick out the three things Gerb says connect them: the sound, the sliced branches and a nearby Nike Ajax site. A dash means the video does not say."
+caption: "Harland Bentley's account next to two documented UFO cases from Maryland in 1958. Rows marked Same show the three things Gerb says link them: the sound, the sliced branches and a nearby Nike Ajax missile site. A dash means the video does not say."
 attributeLabel: "Point"
 subjects:
   - name: "Harland Bentley"
@@ -331,23 +331,23 @@ rows:
 ---
 ::
 
-The sound, the sliced branches and the nearby Nike sites are what Gerb sees as connecting Bentley's story to the documented cases.
+Gerb sees the sound, the sliced branches and the nearby Nike sites as the links between Bentley's story and the documented cases.
 
 ## The Apollo 8 threads
 
-Bentley also said that in 1967 or 1968, doing classified NASA contract work in California, he overheard Houston talking to astronauts "doing a loop around the moon." Gerb concludes this must have been Apollo 8, the first crewed mission to orbit the Moon. Bentley said he heard "the bogey coming in at 11:00." The crew asked permission for collision avoidance, got it, then reported that a saucer-like craft was paralleling their course, with portals, and movement visible inside. The crew took photographs before it left. The only other person present told Bentley, "You did not hear anything." For context, Gerb plays the December 1965 Gemini 7 exchange in which [[Frank Borman]] reported a "bogey." Borman later said it was the rocket's own spent booster.
+Bentley also said that in 1967 or 1968, doing classified NASA contract work in California, he overheard Houston talking to astronauts "doing a loop around the moon." Gerb concludes this must have been Apollo 8, the first crewed mission to orbit the Moon. Bentley said he heard "the bogey coming in at 11:00." The crew asked permission for collision avoidance, got it, then reported a saucer-like craft with portals paralleling their course, with movement visible inside. The crew took photographs before it left. The only other person present told Bentley, "You did not hear anything." For context, Gerb plays the December 1965 Gemini 7 exchange in which [[Frank Borman]] reported a "bogey." Borman later said it was the rocket's own spent booster.
 
-Looking into Apollo 8 led Gerb to a separate claim in Greer's files. The two claims share a mission and nothing else:
+Looking into Apollo 8 led Gerb to a separate claim in Greer's files, which has only the mission in common with Bentley's:
 
 ::wiki-compare{video="9Xk4X41yl2M" video-title="UFO Whistleblowers [Vol.2]"}
 ---
-caption: "The two Apollo 8 claims side by side. They share a mission and nothing else."
+caption: "Two separate claims about Apollo 8, the first crewed mission to orbit the Moon: Bentley's overheard radio exchange and a witness's alleged NASA film. They share the mission and nothing else."
 attributeLabel: "Point"
 subjects:
   - name: "Harland Bentley"
     note: "The overheard transmission"
   - name: "Witness 101179"
-    note: "The uncut film, per Greer's list"
+    note: "The uncut film, from Greer's witness list"
 rows:
   - attribute: "What"
     cells:
@@ -372,22 +372,22 @@ Barry Goldwater was a major general in the Air Force Reserve, senator for Arizon
 
 Goldwater's letters, compiled by Stringfield, show his interest over several years:
 
-- **3 December 1974**, to Leonard Stringfield: he had tried to get into the room at Wright-Patterson "where the information was stored" and was denied.
-- **28 March 1975**, to an unknown researcher: ten or twelve years earlier (the early 1960s, perhaps 1963, Gerb notes) he had tried to learn what was in the building, was "understandably denied," and it was still classified Above Top Secret.
-- **19 October 1981**, to researcher [[Lee Graham]]: he knew of no one with access to the Blue Room, did not know its contents or of anything being relocated, and found the subject impossible to get anything on.
+- 3 December 1974, to Leonard Stringfield: he had tried to get into the room at Wright-Patterson "where the information was stored" and was denied.
+- 28 March 1975, to an unknown researcher: ten or twelve years earlier (the early 1960s, perhaps 1963, Gerb notes) he had tried to learn what was in the building, was "understandably denied," and it was still classified Above Top Secret.
+- 19 October 1981, to researcher [[Lee Graham]]: he knew of no one with access to the Blue Room, did not know its contents or of anything being relocated, and found the subject impossible to get anything on.
 
 Two documents suggest the rumours and the secrecy were older than Goldwater's requests. A 27 April 1953 AFOSI record has Captain Plandowski interviewing Master Sergeant [[Ralph Brown]], who relayed that Wright-Patterson held three flying saucers, one damaged and two functional, along with the bodies of their pilots. In 1991, answering a FOIA request from [[Brian Parks]], USAF Colonel [[Eddie L. Anderson]] said material relating to a Blue Room, in this case a film, had been destroyed on 9 September 1965. Gerb notes this was close to the time of Goldwater's request.
 
 ## RB: the Marine who guarded a disc
 
-Gerb says he cannot verify RB's claims, or even who he is, but includes the story for how well it fits Goldwater's account. RB served in the Marines from 1960 to 1966 as a weapons technician, reaching Corporal, with an interim Top Secret clearance. For two weeks in December 1963 he was one of the guards on a large metal building on an undisclosed military base. To get there he flew about three hours in a windowless plane from [[Cherry Point, North Carolina Marine Corps Air Station]], a range Gerb notes takes in Wright-Patterson. A redacted name numbered 10138 on Greer's witness list appears to be RB.
+Gerb says he cannot verify RB's claims, or even who he is, but includes the story for how well it fits Goldwater's account. RB served in the Marines from 1960 to 1966 as a weapons technician, reaching Corporal, with an interim Top Secret clearance. For two weeks in December 1963 he was one of the guards on a large metal building on an undisclosed military base. To get there he flew about three hours in a windowless plane from [[Cherry Point, North Carolina Marine Corps Air Station]], a distance that Gerb notes would put Wright-Patterson within reach. A redacted name numbered 10138 on Greer's witness list appears to be RB.
 
 The account reached the public through a chain of researchers:
 
 ::wiki-chain{video="9Xk4X41yl2M" video-title="UFO Whistleblowers [Vol.2]"}
 ---
 kind: transmission
-caption: "How RB's account reached the record. His name reached Greer's list separately, with nothing to connect the two but Gerb's match."
+caption: "How RB's story was passed on and published. Separately, a redacted entry on Greer's witness list may be RB; only Gerb's match connects it to the rest."
 steps:
   - name: "RB"
     date: "Dec 1963"
@@ -405,7 +405,7 @@ steps:
             name: "Leonard Stringfield"
             note: "'Marine Guards a Disc-Shaped Vehicle, 1963', in Status Report 5."
             cue: 1315
-          - via: "Stringfield's papers kept"
+          - via: "Kept Stringfield's papers"
             name: "MUFON"
             note: "His personal archives, in Cincinnati."
           - via: "Found the letters in the 2000s"
@@ -423,7 +423,7 @@ steps:
 
 Gerb notes that RB has never gone public with his story, made sensational claims or tried to make money from it.
 
-What RB described falls into three parts: the craft itself, the failed efforts to get inside it, and the security around it.
+RB's description covers the craft itself, the failed efforts to get inside it, and the security around it.
 
 ::wiki-grid{cols=3}
 ::wiki-panel{title="The craft"}
@@ -483,10 +483,10 @@ entries:
 
 ## Key Claims
 
-- In May 1958, Harland Bentley claimed to witness a disc-shaped craft crash and regain flight near a Nike Ajax missile site in Maryland; USAF personnel in radiation suits collected debris.
-- Bentley's facility tracked 12 to 15 UFOs departing simultaneously at a calculated speed exceeding 177,000 mph via M-33 radar.
+- In May 1958, Harland Bentley claimed to have seen a disc-shaped craft crash and take off again near a Nike Ajax missile site in Maryland; USAF personnel in radiation suits collected debris.
+- Using M-33 radar, Bentley's site tracked 12 to 15 UFOs leaving at once at a calculated speed of more than 177,000 mph.
 - Bentley claimed to overhear Houston Mission Control and Apollo 8 astronauts discuss a saucer-like craft paralleling their trajectory with visible portals and internal movement.
-- Two other 1958 Maryland cases near Nike missile sites (W-93 on 29 September, Loch Raven Reservoir in October) are offered as context: both describe a close object, and the W-93 case includes sliced branches and scorched earth.
+- Gerb offers two other 1958 Maryland cases near Nike missile sites (W-93 on 29 September, Loch Raven Reservoir in October) as context: both describe a close object, and the W-93 case includes sliced branches and scorched earth.
 - Disclosure Project witness 101179, identified by UAP Gerb as Alain Boudier (spoken in the video as "Elaine Boder"), claimed to have seen an uncut NASA film of six UFOs descending onto the lunar surface, filmed by Frank Borman during Apollo 8 in 1968.
 - Greer's early March 2009 emails name Boudier ("Source One") as the courier of UAP briefing documents to French President Nicolas Sarkozy.
 - Barry Goldwater stated publicly in 1975 that he believed the U.S. government knew about UFOs and that classified materials were stored at Wright-Patterson, described as classified "Above Top Secret."
