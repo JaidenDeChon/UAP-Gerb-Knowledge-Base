@@ -15,15 +15,15 @@ tags:
 stats:
   - value: 20
     label: Iceberg entries
-    hint: "Layer 2 of 6, \"the enjoyer\""
+    hint: "Level 2 of 6, which Gerb calls \"the enjoyer\""
   - value: "84 ± 8 G"
-    label: "Flight 1628's object"
-    hint: "Sustained for 31 minutes, per Knuth"
+    label: "G-force, Flight 1628"
+    hint: "Kevin Knuth's estimate for the object that followed the plane, sustained for 31 minutes"
   - value: 97
     label: Computers McKinnon hacked
-    hint: "US military and NASA, 2001–2002"
+    hint: "US military and NASA computers, 2001–2002"
   - value: "42m"
-    label: Runtime
+    label: Video length
 ---
 ::
 
@@ -31,7 +31,7 @@ stats:
 
 "The Alien and UFO Obscure Oddities Iceberg (Level 2)" is the second episode of UAP Gerb's planned six-part iceberg series, following [[Videos/The Alien and UFO Obscure Oddities Iceberg (Level 1)/summary|Level 1]]. Gerb calls this layer "the enjoyer" and works through twenty entries in turn, from well-documented encounters to theories, ancient-astronaut claims and UFO subcultures, promising to say plainly when he does not like an entry. He keeps that promise: he calls the [[1986 Japan Airlines UFO Incident|Japan Airlines Flight 1628 incident]] one of his all-time favourite cases and [[J. Allen Hynek]] "one of the OG whistleblowers", but dismisses the [[Kimbaya Artifacts|Kimbaya "airplanes"]] as trinkets, says he "despises" the [[Fermi Paradox]], calls the [[Indigo Children]] entry "really stupid", and skips "UFOs over Slovenia" for lack of anything to cover.
 
-The episode's strongest thread concerns official secrecy in the United States. The Flight 1628 encounter, in which a craft the size of an aircraft carrier shadowed a Boeing 747 for 31 minutes on FAA radar, is set against the Mars-and-Jupiter explanation that took hold after it, and against physicist [[Kevin Knuth]]'s estimate of 68 to 84 G sustained for the whole encounter. [[Wright-Patterson Air Force Base]] gets a short "tease" of six dated connections, from the 1947 [[Roswell Crash|Roswell]] shipments to Representative [[Mike Turner]]'s opposition to the [[Schumer Amendment (NDAA)|Schumer amendment]] in 2023. Hynek's criticisms of [[Project Blue Book]], including [[Donald Rumsfeld]]'s 1975 ruling that he had no "need to know", and [[Gary McKinnon]]'s claims from his 2001–2002 hack (an airbrushing laboratory at [[Johnson Space Center]] and a space fleet called [[Solar Warden]]) complete it. Read together, these entries form a chronology that runs from 1947 to 2023.
+The episode's strongest thread concerns official secrecy in the United States. The Flight 1628 encounter, in which a craft the size of an aircraft carrier shadowed a Boeing 747 for 31 minutes on FAA radar, is set against the Mars-and-Jupiter explanation that took hold after it, and against physicist [[Kevin Knuth]]'s estimate of 68 to 84 G sustained for the whole encounter. [[Wright-Patterson Air Force Base]] gets a short "tease" of six dated connections, from the 1947 [[Roswell Crash|Roswell]] shipments to Representative [[Mike Turner]]'s opposition to the [[Schumer Amendment (NDAA)|Schumer amendment]] in 2023. Hynek's criticisms of [[Project Blue Book]], including [[Donald Rumsfeld]]'s 1975 ruling that he had no "need to know", and [[Gary McKinnon]]'s claims from his 2001–2002 hack (an airbrushing laboratory at [[Johnson Space Center]] and a space fleet called [[Solar Warden]]) complete it. Put in date order, these entries run from 1947 to 2023.
 
 The rest of the layer is historical and speculative. Gerb weighs the conventional explanations offered for the [[1561 Celestial Phenomenon over Nuremberg]], the [[Aurora Texas UFO Crash|1897 Aurora, Texas crash]] and the [[2009 Norwegian Spiral Anomaly]], accepting only the last. He retells the [[Voronezh UFO Incident]] of 1989 and the [[Mystery Airship Craze]] of 1896–1897, explains the [[Dyson Sphere]], the Fermi paradox and interplanetary contamination, and compares four claims that aliens shaped human history or govern the galaxy: [[Erich von Däniken]]'s [[Ancient Astronaut Theory]], [[Zecharia Sitchin]]'s [[Anunnaki]], the Kimbaya figurines and [[Haim Eshed]]'s [[Galactic Federation]]. His recurring position is that the phenomenon may well have influenced ancient cultures, while the specific mechanisms these authors propose do not hold up.
 
@@ -70,7 +70,7 @@ Four of the entries (Flight 1628, Wright-Patterson, Hynek and McKinnon) tell one
 
 ::wiki-timeline{video="9FL04mqyZxk" video-title="The Alien and UFO Obscure Oddities Iceberg (Level 2)"}
 ---
-help: "The dated entries from four parts of the video (Flight 1628, Wright-Patterson, J. Allen Hynek and Gary McKinnon), gathered into one chronology. The bar pinned above the entries is a ruler from 1945 to 2025; its ticks are the entries, coloured by category and taller for major ones. Click the ruler to jump to the nearest one. While the video plays, the playhead jumps around the ruler, because Gerb covers these entries out of date order. Timestamps jump the mini-player to that moment."
+help: "This timeline puts the dated events from four parts of the video (Flight 1628, Wright-Patterson, J. Allen Hynek and Gary McKinnon) in date order. The bar above the list runs from 1945 to 2025, with a mark for each entry, coloured by type; taller marks are major entries. Click the bar to jump to a year. The dark line shows which entry you are reading. Play from here starts the video at that entry, and a green line then shows where the video has reached. Gerb covers these events out of date order, so the green line jumps back and forth along the bar as the video plays. Click a timestamp to play the video from that moment."
 hinges:
   - year: 1969
     label: "Blue Book closes"
@@ -113,7 +113,7 @@ events:
       - "J. Allen Hynek"
   - date: "1953"
     title: "The Robertson Panel"
-    summary: "The CIA's panel was used, in Gerb's account, to strip UFOs of their special status and suggest there was no legitimate evidence for them: the root of the 'swamp gas and weather balloon' stigma."
+    summary: "In Gerb's account, this CIA panel was used to strip UFOs of their special status and to suggest there was no legitimate evidence for them. He traces the 'swamp gas and weather balloon' stigma to it."
     category: organization
     significance: notable
     cue: 754
@@ -130,7 +130,7 @@ events:
       - "Wright-Patterson Air Force Base"
   - date: "1969"
     title: "Blue Book closes: 12,618 reports, 701 unexplained"
-    summary: "Over its tenure Blue Book analysed 12,618 UFO reports and classed 701 as unexplained after extensive analysis. The Condon Report, which Gerb says did much the same as the Robertson Panel, came out during these years."
+    summary: "In all, Blue Book analysed 12,618 UFO reports and classed 701 as unexplained after extensive analysis. The Condon Report, which Gerb says did much the same as the Robertson Panel, came out during these years."
     category: document
     significance: notable
     cue: 742
@@ -220,16 +220,13 @@ events:
 
 Gerb opens the layer with one of his favourite cases, which he thinks is "severely underrated". At about 5 p.m. on 17 November 1986, [[Captain Kenju Terauchi]] was flying a Japan Airlines Boeing 747-200F cargo flight from France to Tokyo, on the Reykjavík-to-Anchorage leg. He and two crew members saw a large round craft, about four 747s across, approach from the left at 35,000 feet with two smaller lights. The three followed the aircraft for 31 minutes. The large craft kept about 7.5 miles away and circled the plane, sometimes at a steady speed and sometimes darting in and out of its orbit. FAA FPS-117 long-range 3D phased-array radar tracked it at that distance, occasionally switching sides between the radar's 12-second sweeps.
 
-What interests Gerb most is the physics. [[Kevin Knuth]] (whom Gerb introduces as a New York University professor; Knuth teaches at the University at Albany) co-wrote "Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles", which models this case among others. Knuth's figures:
-
-- **Crossing the circle.** A craft travelling across the diameter of its orbit would have pulled 68 ± 7 G.
-- **Circling.** Counting only the centripetal acceleration of the circular motion, it would have pulled 84 ± 8 G.
+Gerb is most interested in the physics. [[Kevin Knuth]] (whom Gerb introduces as a New York University professor; Knuth teaches at the University at Albany) co-wrote "Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles", which models this case among others. By Knuth's figures, a craft travelling across the diameter of its orbit would have pulled 68 ± 7 G. Counting only the centripetal acceleration of the circular motion, it would have pulled 84 ± 8 G.
 
 Nine G is the limit a trained pilot can take in a sustained turn, Gerb notes, and "sustained" means about a minute, not thirty. Against this he sets the explanation that *Aviation Week & Space Technology* introduced and that caught on: that the crew had seen Mars and Jupiter.
 
 ### Wright-Patterson Air Force Base
 
-Gerb plans whole videos on [[Wright-Patterson Air Force Base]], so here he gives only "a little tease" of its ties to crash retrieval and reverse engineering. He says he has five to ten more. Each of the six is an entry in the chronology above:
+Gerb plans whole videos on [[Wright-Patterson Air Force Base]], so here he gives only "a little tease" of its ties to crash retrieval and reverse engineering. He says he has five to ten more. The six he gives all appear in the timeline above:
 
 - the Roswell shipments of 5 July 1947;
 - [[Battelle Memorial Institute|Battelle]]'s metallurgical work of 1949 to 1955;
@@ -240,7 +237,7 @@ Gerb plans whole videos on [[Wright-Patterson Air Force Base]], so here he gives
 
 ### J. Allen Hynek and Project Blue Book
 
-[[J. Allen Hynek]], "the man featured in the overview of this iceberg tier", was scientific adviser to [[Project Blue Book]] (1952–1969), the best known of the USAF's investigations. Blue Book analysed 12,618 reports and classed 701 as unexplained. Gerb places its reputation in the shadow of the CIA's 1953 [[Robertson Panel]] and the [[Condon Report]], which he credits with the "swamp gas and weather balloon" stigma. Hynek turned on the programs he had served. In his May 1972 book he called Blue Book "a coverup" and a front for a more classified group. In 1979 he described the Robertson Panel's "unwritten law of the Air Force", and said that the Air Force deliberately debunked interesting cases as balloons or planets. Gerb adds, "just think about the Japan cargo Airlines incident." Hynek also dismissed 1949's [[Project Grudge]] as a public-relations campaign and said the Condon committee ignored key evidence. The episode Gerb finds "really crazy" came on 13 April 1975: [[Donald Rumsfeld]] told Hynek at the White House that he had no need to know whether a secret UAP study existed after Blue Book.
+[[J. Allen Hynek]], "the man featured in the overview of this iceberg tier", was scientific adviser to [[Project Blue Book]] (1952–1969), the best known of the USAF's investigations. Blue Book analysed 12,618 reports and classed 701 as unexplained. Gerb sees its reputation as overshadowed by the CIA's 1953 [[Robertson Panel]] and the [[Condon Report]], which he credits with the "swamp gas and weather balloon" stigma. Hynek turned on the programs he had served. In his May 1972 book he called Blue Book "a coverup" and a front for a more classified group. In 1979 he described the Robertson Panel's "unwritten law of the Air Force", and said that the Air Force deliberately debunked interesting cases as balloons or planets. Gerb adds, "just think about the Japan cargo Airlines incident." Hynek also dismissed 1949's [[Project Grudge]] as a public-relations campaign and said the Condon committee ignored key evidence. The episode Gerb finds "really crazy" came on 13 April 1975: [[Donald Rumsfeld]] told Hynek at the White House that he had no need to know whether a secret UAP study existed after Blue Book.
 
 ### Gary McKinnon and Solar Warden
 
@@ -264,8 +261,8 @@ For four of the cases, the video sets a conventional explanation against the evi
 ::wiki-claim{video="9FL04mqyZxk" video-title="The Alien and UFO Obscure Oddities Iceberg (Level 2)"}
 ---
 term: "Explanation"
-label: "Explanations and answers"
-caption: "The prosaic explanations the video records for four cases, and how Gerb and other investigators answer them."
+label: "Ordinary explanations and replies"
+caption: "Four cases for which the video gives an ordinary explanation, and how Gerb and other investigators respond to each."
 claims:
   - title: "Flight 1628: Mars and Jupiter"
     by: "Aviation Week & Space Technology"
@@ -329,10 +326,7 @@ In the [[Mystery Airship Craze]], thousands of people across the United States r
 
 Gerb calls the [[Aurora Texas UFO Crash|Aurora incident]] "the first alleged UFO crash retrieval that I'm aware of". According to locals, a UFO crashed into a windmill on a farm near [[Aurora, Texas]] on 17 April 1897. The *Dallas Morning News* of 19 April reported that its sole occupant had died, his remains badly disfigured, but that "he was not an inhabitant of this world". The paper said the wreck was too damaged to tell how it was built or powered, but that it was made of an unknown metal resembling a mix of aluminium and silver and must have weighed several tons. The wreckage went into a nearby well, and the pilot was buried the next day at noon under a stone slab.
 
-In 1980, [[Etta Pegues]], aged 86, told *Time* the story had been invented to revive the town. In 1973, [[Bill Case]] had led a [[MUFON]] investigation that found two new witnesses:
-
-- **[[Mary Evans]].** Her parents would not let her visit the site, but went themselves and found an alien body.
-- **[[Charlie Stevens]].** Ten years old at the time, he saw an airship trailing smoke as it headed north toward Aurora. His father made him finish his chores, and went to see the wreckage the next day.
+In 1980, [[Etta Pegues]], aged 86, told *Time* the story had been invented to revive the town. In 1973, [[Bill Case]] had led a [[MUFON]] investigation that found two new witnesses. The parents of [[Mary Evans]] would not let her visit the site, but went themselves and found an alien body. [[Charlie Stevens]], ten years old at the time, saw an airship trailing smoke as it headed north toward Aurora; his father made him finish his chores, and went to see the wreckage the next day.
 
 At the Aurora Cemetery, MUFON found a grave marker that seemed to show a flying saucer, and metal-detector readings at the grave, where parts of the ship were said to be buried with the pilot. The cemetery refused permission to exhume. Afterwards the marker disappeared, a 3-inch pipe was found driven into the grave, and the metal readings stopped, which led to the presumption that any metal had been removed.
 
@@ -431,9 +425,9 @@ Gerb adds that [[David Icke]], covered in Level 1, claims the Anunnaki are his r
 
 ## Subcultures and dead ends
 
-- **[[Indigo Children]].** Children said to have unusual or supernatural traits such as telekinesis, a concept from the 1970s associated with [[Nancy Ann Tappe]], who said she began noticing them in the late 1960s. Gerb has "no idea" why the entry is on the iceberg. He guesses the link might be hybrid children, and calls it "really stupid".
-- **[[Heaven's Gate]].** A UFO cult that Gerb says [[Bonnie Nettles]] started in 1974. Members believed they could become immortal extraterrestrial beings by rejecting their human nature and ascending to "the next level". In 1997, as the Hale-Bopp comet passed, they took a UFO said to trail the comet as the only way off Earth, and 39 members died by suicide. Gerb gives only an overview and recommends a fuller treatment by another YouTuber.
-- **UFOs over Slovenia.** Gerb found only a 1970s crop circle reported in a Slovenian village and some grainy Reddit photographs from around summer 2023, and skips the entry.
+- [[Indigo Children]] are children said to have unusual or supernatural traits such as telekinesis, a concept from the 1970s associated with [[Nancy Ann Tappe]], who said she began noticing them in the late 1960s. Gerb has "no idea" why the entry is on the iceberg. He guesses the link might be hybrid children, and calls it "really stupid".
+- [[Heaven's Gate]] was a UFO cult that Gerb says [[Bonnie Nettles]] started in 1974. Members believed they could become immortal extraterrestrial beings by rejecting their human nature and ascending to "the next level". In 1997, as the Hale-Bopp comet passed, they took a UFO said to trail the comet as the only way off Earth, and 39 members died by suicide. Gerb gives only an overview and recommends a fuller treatment by another YouTuber.
+- For UFOs over Slovenia, Gerb found only a 1970s crop circle reported in a Slovenian village and some grainy Reddit photographs from around summer 2023, and skips the entry.
 
 ## Key Figures
 
@@ -442,7 +436,7 @@ Gerb adds that [[David Icke]], covered in Level 1, claims the Anunnaki are his r
 entries:
   - name: "J. Allen Hynek"
     role: "Scientific adviser to Project Blue Book"
-    note: "The figure Gerb credits with this tier's overview. His 1972 'coverup' charge, his 1975 rebuff by Rumsfeld and his 1979 account of the Robertson Panel's 'unwritten law' make him, in Gerb's words, one of the OG whistleblowers."
+    note: "Gerb says he is featured in the overview of this layer of the iceberg. His 1972 'coverup' charge, his 1975 rebuff by Rumsfeld and his 1979 account of the Robertson Panel's 'unwritten law' make him, in Gerb's words, one of the OG whistleblowers."
   - name: "Captain Kenju Terauchi"
     role: "Captain of Japan Airlines Flight 1628"
     note: "Watched an aircraft-carrier-sized craft and two smaller lights shadow his 747 for 31 minutes over Alaska in November 1986."
