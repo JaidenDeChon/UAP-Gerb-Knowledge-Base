@@ -299,6 +299,11 @@
     "sha256": "7a62af095d31ca2421422504b2d09cf8a53893feb9633d423045fc7bf2865947",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/Condon Committee.md": {
+    "humanized_at": "2026-09-25T23:43:41Z",
+    "sha256": "dd43870b66edf276f9cfec82f4723412d27258c734d991ae5f35a237c5e8fe99",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
