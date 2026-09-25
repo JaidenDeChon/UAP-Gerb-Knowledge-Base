@@ -11,7 +11,7 @@ Jim Shell is an American space domain awareness and orbital debris specialist wh
 
 In the statement Shell alleged, with what he called high confidence, that a "security control system" within US national security space was supplanting the direction and authority of the [[US Space Force]] and US Space Command, and was interfering without authorization in the space domain awareness mission in violation of explicit official policy. With medium confidence he alleged misappropriation of funds and a connection to unidentified anomalous phenomena. He also described a complaint to an inspector general.
 
-UAP Gerb cites Shell in his NRO investigation as an example of legacy programs, or the [[Immaculate Constellation (IMCON)|Immaculate Constellation]] program, allegedly commandeering intelligence and space assets under secret control authorities outside the normal chain of command.
+Gerb cites Shell in his investigation of the NRO as an example of legacy programs, or the [[Immaculate Constellation (IMCON)|Immaculate Constellation]] program, allegedly commandeering intelligence and space assets under secret control authorities outside the normal chain of command.
 
 ## Sources
 
