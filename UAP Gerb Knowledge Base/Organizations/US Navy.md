@@ -9,13 +9,13 @@ The United States Navy is the maritime service branch of the U.S. Armed Forces r
 
 ## UAP Encounters and Documentation
 
-The Navy operated the USS Nimitz and its air wing during the 2004 Tic Tac UAP encounter, one of the most well-documented military UAP incidents. In 2019, the Navy filmed a spherical-shaped UAP entering water in footage later released by Jeremy Corbell, demonstrating trans-medium travel capabilities. Navy personnel aboard ships maintain command authority over visiting personnel from other service branches, establishing clear chains of custody and operational control over UAP evidence collected in maritime environments.
+The Navy operated the USS Nimitz and its air wing during the 2004 Tic Tac UAP encounter, one of the most well-documented military UAP incidents. In 2019 the Navy filmed a spherical UAP entering the water. Jeremy Corbell later released the footage, which shows the object's capacity for trans-medium travel. On Navy ships, Navy personnel have command authority over visiting personnel from other service branches. This gives the Navy clear chains of custody and operational control over UAP evidence collected at sea.
 
-The Navy has been described as operating compartmentalized UAP-related programs with little inter-service communication, consistent with broader patterns of siloed legacy program management across the intelligence community and military services.
+The Navy has been described as running compartmentalized UAP-related programs with little communication between service branches, in line with a broader pattern of siloed legacy program management across the intelligence community and the military services.
 
 ## Potential Connection to Flyby Footage
 
-The [[Flyby Footage]] has been analyzed for potential connection to Navy operations or documentation, though the footage's apparent characteristics suggest an F-18 platform more consistent with NASA chase aircraft configuration than standard Navy fighter operations. However, audio waveform analysis of the flyby footage has been compared to ambient sounds from the USS Omaha during the 2019 spherical UAP water entry event, raising questions about where the screen recording that produced the flyby footage may have been created.
+The [[Flyby Footage]] has been examined for a possible link to Navy operations or documentation. Its apparent characteristics suggest an F-18 set up more like a NASA chase aircraft than a standard Navy fighter. Even so, an audio waveform analysis of the flyby footage has been compared with ambient sounds from the USS Omaha during the 2019 event in which a spherical UAP entered the water. That comparison raises the question of where the screen recording that produced the flyby footage was made.
 
 ## Sources
 
