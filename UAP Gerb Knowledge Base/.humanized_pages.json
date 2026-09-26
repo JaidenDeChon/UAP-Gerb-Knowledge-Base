@@ -704,6 +704,11 @@
     "sha256": "2a667c93c6e81ecc77e9e54eb16013752e787b8079ae4763f49cae750b2cfe1a",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/Northrop Grumman.md": {
+    "humanized_at": "2026-09-26T00:00:06Z",
+    "sha256": "337313e449b4b40cad431935643bd6dbb110147d16bdeba8cbcb3e726046b757",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
