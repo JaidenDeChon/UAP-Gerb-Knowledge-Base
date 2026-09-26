@@ -984,6 +984,11 @@
     "sha256": "3ff309b86b8e60a91627aacd9a10f9d5887c511b8b5764a550a74fcba0f9c4ff",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/US 6th Fleet.md": {
+    "humanized_at": "2026-09-26T00:09:18Z",
+    "sha256": "0289cc22bb54decf95cb92a82ca07a1774940430dbeac67c28bf3eca606b4200",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
