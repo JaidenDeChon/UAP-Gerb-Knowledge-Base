@@ -5,8 +5,8 @@ tags:
   - organization
 ---
 
-Speculated as a possible source agency for the coyam/tenet report information
+The NGA is an intelligence agency overseen by the USD/INS.
 
-Theorized as a combat support agency providing ISR for UFO crash retrieval operations
+It has been speculated to be a possible source agency for the information in the coyam/tenet report.
 
-Intelligence agency under oversight of USD/INS
+It has also been theorized to be a combat support agency providing ISR for UFO crash retrieval operations.

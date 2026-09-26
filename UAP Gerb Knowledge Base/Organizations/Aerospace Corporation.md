@@ -5,36 +5,36 @@ tags:
   - organization
 ---
 
-The Aerospace Corporation is a nonprofit federally funded research and development center (FFRDC) headquartered in El Segundo, California, that provides independent technical and scientific research to the U.S. government, primarily the Air Force and Space Force. It was spun off from [[TRW]]'s Space Technology Laboratories (STL) in 1960 under a directive to create an independent advisory body free from direct contractor profit motives. As an FFRDC, Aerospace Corporation has access to classified programs and government facilities that private contractors do not, and it plays an advisory role on [[Special Access Programs (SAPs)]] across the national security space enterprise. [[Edward C. Aldridge]] served as CEO of the Aerospace Corporation following his tenure as Secretary of the Air Force, bridging the organization's FFRDC advisory role with his prior authority over Air Force special access programs.
+The Aerospace Corporation is a nonprofit federally funded research and development center (FFRDC) headquartered in El Segundo, California. It provides independent technical and scientific research to the U.S. government, mainly the Air Force and Space Force. It was spun off from [[TRW]]'s Space Technology Laboratories (STL) in 1960 under a directive to create an independent advisory body free from direct contractor profit motives. As an FFRDC, the Aerospace Corporation has access to classified programs and government facilities that private contractors do not, and it advises on [[Special Access Programs (SAPs)]] across the national security space enterprise. [[Edward C. Aldridge]] was CEO of the Aerospace Corporation after his tenure as Secretary of the Air Force, so the same man held authority over Air Force special access programs and then led the FFRDC that advises on such programs.
 
 ## Alleged UAP Involvement
 
-The Aerospace Corporation is alleged to carry institutional connections to UAP legacy program activities through its TRW lineage and the career of [[Edward C. Aldridge]], who is alleged to have architected the restructuring of UFO legacy programs as "outside activities" during his Air Force tenure before moving to lead the Aerospace Corporation. The organization's unique position — with classified access, FFRDC independence, and deep TRW-derived institutional heritage — is cited as potentially enabling it to serve as an advisory or technical node within the alleged UAP legacy program network.
+The Aerospace Corporation allegedly has institutional connections to UAP legacy program activities through its TRW lineage and through the career of [[Edward C. Aldridge]]. During his Air Force tenure, Aldridge allegedly architected the restructuring of UFO legacy programs as "outside activities", and he later moved to lead the Aerospace Corporation. The organization's unique position, which combines classified access, independence as an FFRDC and a deep institutional heritage from TRW, is cited as a reason it could serve as an advisory or technical node within the alleged UAP legacy program network.
 
 ## Burlison Interrogatory and Executives
 
-UAP Gerb's *Northrop Grumman & TRW* notes that the Aerospace Corporation was one of only two recipients, with the CIA, to respond to Representative [[Eric Burlison]]'s legislative interrogatories, which Burlison says [[David Grusch]] helped write. It sent staff to Washington for a secure briefing that, in Burlison's words, "really didn't turn up anything whatsoever". Gerb argues that Grusch's decision to target the FFRDC signals its depth in legacy programs, and names executives he believes should have answered: [[Randall G. Walden]], elected a trustee on 7 June 2023, and [[Edward C. Aldridge]], its president and CEO for nearly ten years. [[Stephanie O'Sullivan]] joined its board in 2017 and has chaired it since 2021. Gerb likens the 1960 split from TRW's [[Space Technology Laboratories (STL)]] to [[SAIC]]'s spin-off of [[Leidos]].
+According to UAP Gerb's *Northrop Grumman & TRW*, the Aerospace Corporation and the CIA were the only recipients to respond to Representative [[Eric Burlison]]'s legislative interrogatories, which Burlison says [[David Grusch]] helped write. It sent staff to Washington for a secure briefing that, in Burlison's words, "really didn't turn up anything whatsoever". Gerb argues that Grusch's decision to target the FFRDC shows how deeply it is involved in legacy programs. He also names executives he believes should have answered: [[Randall G. Walden]], elected a trustee on 7 June 2023, and [[Edward C. Aldridge]], its president and CEO for nearly ten years. [[Stephanie O'Sullivan]] joined its board in 2017 and has chaired it since 2021. Gerb likens the 1960 split from TRW's [[Space Technology Laboratories (STL)]] to [[SAIC]]'s spin-off of [[Leidos]].
 
 ## DSP Fast Walker Analysis
 
-The 2014 [[Defense Support Program (DSP)]] fact sheet specifically notes that "researchers at the Aerospace Corporation have used DSP to develop portions of a hazard support system that will aid Public Safety in the future." This reference — cited by [[Bob Fish]] in his 2015 email to [[John Podesta]] — indicates ongoing Aerospace Corporation involvement in analyzing DSP satellite data, including [[Fast Walkers|Fast Walker]] detections.
+The 2014 [[Defense Support Program (DSP)]] fact sheet notes that "researchers at the Aerospace Corporation have used DSP to develop portions of a hazard support system that will aid Public Safety in the future." [[Bob Fish]] cited this passage in his 2015 email to [[John Podesta]]. It indicates that the Aerospace Corporation has an ongoing role in analyzing DSP satellite data, including [[Fast Walkers|Fast Walker]] detections.
 
-The corporation's work with DSP data is particularly significant given that DSP satellites have been the primary means of detecting objects entering and leaving Earth's atmosphere at extreme speeds since 1972. Aerospace Corporation's role in developing "hazard support systems" from this data suggests the organization has access to and analyzes some of the most sensitive UAP detection records held by the US government.
+Since 1972, DSP satellites have been the primary means of detecting objects entering and leaving Earth's atmosphere at extreme speeds, which gives the corporation's work with DSP data particular significance. Its role in developing "hazard support systems" from this data suggests that the organization has access to, and analyzes, some of the most sensitive UAP detection records the US government holds.
 
 ## Long Beach Campus and Alleged UAP Access
 
-The Aerospace Corporation's main campus in [[Long Beach, California]] features sprawling gardens and a distinct architectural profile. [[Ross Coulthart]] reported in his book *In Plain Sight* that a source told him about "an aerospace company in Long Beach, California" with access to "the wreckage" from UFO crash retrievals. The source described the company as having "sprawling gardens" — a description that matches only the Aerospace Corporation among major aerospace companies in Long Beach.
+The Aerospace Corporation's main campus in [[Long Beach, California]] has sprawling gardens and a distinctive architectural style. [[Ross Coulthart]] reported in his book *In Plain Sight* that a source told him about "an aerospace company in Long Beach, California" with access to "the wreckage" from UFO crash retrievals. The source described the company as having "sprawling gardens". Among major aerospace companies in Long Beach, only the Aerospace Corporation matches that description.
 
-The Long Beach campus serves as the corporation's primary research and engineering facility, with access to classified programs and direct coordination with [[US Space Force]] and intelligence community partners.
+The Long Beach campus is the corporation's primary research and engineering facility. It has access to classified programs and coordinates directly with the [[US Space Force]] and intelligence community partners.
 
 ## Researcher Identification as UAP Legacy Contractor
 
-In [[Jacques Vallee]]'s *Hidden Science 5* (documenting journals from 2000s-2009), Véalle, [[Kit Green]], [[Hal Puthoff]], [[Eric Davis]], and Kristen B. Zimmerman identified the Aerospace Corporation — alongside [[Lockheed Martin]] and [[Northrop Grumman]] — as among the suspected legacy private corporations engaged in "real UAP research."
+According to [[Jacques Vallee]]'s *Hidden Science 5*, a book of journals from the 2000s to 2009, Véalle, [[Kit Green]], [[Hal Puthoff]], [[Eric Davis]], and Kristen B. Zimmerman identified the Aerospace Corporation, along with [[Lockheed Martin]] and [[Northrop Grumman]], as one of the suspected legacy private corporations engaged in "real UAP research."
 
-This identification by multiple senior researchers with intelligence community backgrounds aligns with:
-- The corporation's documented DSP Fast Walker analysis work
-- Its FFRDC status providing classified access beyond typical contractors
-- The Long Beach campus matching descriptions from Coulthart's source
+Several senior researchers with intelligence community backgrounds made this identification, and it is consistent with:
+- The corporation's documented work analyzing DSP Fast Walker data
+- Its FFRDC status, which gives it classified access beyond that of typical contractors
+- The match between the Long Beach campus and the descriptions from Coulthart's source
 - Its institutional lineage from [[TRW]], which has been repeatedly named in UAP legacy program allegations
 
 ## Sources

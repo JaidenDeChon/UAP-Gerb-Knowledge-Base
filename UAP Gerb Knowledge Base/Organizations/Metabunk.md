@@ -5,7 +5,7 @@ tags:
   - organization
 ---
 
-Metabunk is a skeptical investigation website founded and operated by [[Mick West]] that applies critical thinking, scientific methodology, and technical analysis to extraordinary claims including UFO sightings, conspiracy theories, and alleged paranormal phenomena. The site features a collaborative forum where users analyze evidence, propose prosaic explanations, and conduct detailed debunking investigations.
+Metabunk is a skeptical investigation website founded and run by [[Mick West]]. It applies critical thinking, scientific methodology and technical analysis to extraordinary claims, including UFO sightings, conspiracy theories and alleged paranormal phenomena. Its forum is collaborative: users analyze evidence together, propose prosaic explanations and carry out detailed debunking investigations.
 
 ## Analytical Approach
 
@@ -19,11 +19,11 @@ Metabunk's methodology emphasizes:
 
 ## Metapod Analysis
 
-The [[Metapod]] clip, filmed near El Escorial, Spain, in 2015, has been discussed at length on Metabunk. In his analysis of the footage, Gerb notes that critics who call it CGI point to three frames of jitter as the craft drops in altitude in the stabilized version, but that even the balloon proponents on Metabunk reject that argument: the jitter, they say, is consistent with the object (in their view a balloon) dropping in air currents.
+The [[Metapod]] clip, filmed near El Escorial, Spain, in 2015, has been discussed at length on Metabunk. In his analysis of the footage, Gerb notes that critics who call it CGI point to three frames of jitter in the stabilized version, as the craft drops in altitude. He adds that even the balloon proponents on Metabunk reject that argument. They say the jitter is consistent with the object, which they take to be a balloon, dropping in air currents.
 
 ## Role in UAP Discourse
 
-Metabunk serves as a counterbalance to uncritical acceptance of UAP claims, applying rigorous skepticism to footage and witness testimony. While UAP researchers sometimes criticize the site for dismissiveness or over-application of Occam's Razor, Metabunk's technical analyses have also identified genuine ho axes and misidentifications, contributing to more rigorous standards of evidence in UAP research.
+Metabunk is a counterbalance to uncritical acceptance of UAP claims, and it applies rigorous skepticism to footage and witness testimony. UAP researchers sometimes criticize the site as dismissive, or say it over-applies Occam's Razor. Its technical analyses have also identified genuine hoaxes and misidentifications, which has helped raise the standards of evidence in UAP research.
 
 ## Sources
 

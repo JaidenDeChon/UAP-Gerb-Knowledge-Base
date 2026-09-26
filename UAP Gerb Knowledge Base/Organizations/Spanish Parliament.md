@@ -9,13 +9,13 @@ The Spanish Parliament reviewed the [[Manises UFO Incident]] in September 1980 a
 
 ## Official Response to the Manises Incident
 
-The [[Manises UFO Incident]] reached the Spanish Parliament when representatives demanded an official explanation for an event that involved multiple credible witnesses (commercial pilots, airport personnel, military Marines), radar returns detecting objects up to 200 meters in diameter, and a military fighter jet experiencing avionics jamming and electronic countermeasures during a 90-minute UFO pursuit.
+The [[Manises UFO Incident]] reached the Spanish Parliament when representatives demanded an official explanation for it. The event had multiple credible witnesses, among them commercial pilots, airport personnel and military Marines. Radar detected objects up to 200 meters in diameter, and a military fighter jet had its avionics jammed and met electronic countermeasures during a 90-minute pursuit of the UFO.
 
-Despite the documented evidence and testimony from Captain [[Francisco Javier Lerdo de Tejada]], pilot [[Fernando Cámara]], and numerous other witnesses, the Spanish Parliament officially dismissed the case as "a series of freak optical illusions." This conclusion was challenged by the involved pilots and UFO researchers, who argued that attributing the events to optical illusions required accepting an improbable convergence of simultaneous coincidences involving multiple trained observers and independent sensor systems.
+Despite the documented evidence and the testimony of Captain [[Francisco Javier Lerdo de Tejada]], pilot [[Fernando Cámara]] and numerous other witnesses, the Spanish Parliament officially dismissed the case as "a series of freak optical illusions." The pilots involved and UFO researchers disputed this conclusion. They argued that blaming optical illusions meant accepting that many unlikely coincidences had happened at the same time, across multiple trained observers and independent sensor systems.
 
 ## Broader Context
 
-The Spanish Parliament's dismissal of the Manises case represents a pattern seen in other governmental responses to well-documented UFO encounters, where official explanations minimize or dismiss incidents despite substantial evidence. The case remains one of Spain's most famous UFO incidents, regardless of the official parliamentary conclusion.
+The Spanish Parliament's dismissal of the Manises case fits a pattern seen in other government responses to well-documented UFO encounters, in which official explanations minimize or dismiss incidents despite substantial evidence. Whatever Parliament officially concluded, the case is still one of Spain's most famous UFO incidents.
 
 ## Sources
 

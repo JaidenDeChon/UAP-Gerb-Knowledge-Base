@@ -5,12 +5,12 @@ tags:
   - organization
 ---
 
-Castle and his team were Marines operating in uniform with authority on US soil when intercepted
+Castle and his team were Marines, in uniform and operating with authority on US soil, when they were intercepted.
 
-The witness and his unit were Marines assigned to the ship for a security mission
+The witness and his unit were Marines assigned to the ship for a security mission.
 
-Castle and multiple other Marines were present during the triangular craft encounter near Emerson Dry Lake Bed
+Castle and several other Marines were present during the triangular craft encounter near Emerson Dry Lake Bed.
 
-Jonathan Weygandt's branch of service; Marines Atkins, Allen, and Montgre all had long careers there
+Jonathan Weygandt served in the Marine Corps, and Marines Atkins, Allen, and Montgre all had long careers there.
 
-Branch Weygandt served in; also relevant to Hawk missile battery usage history
+Weygandt served in this branch, which is also relevant to the history of how Hawk missile batteries were used.

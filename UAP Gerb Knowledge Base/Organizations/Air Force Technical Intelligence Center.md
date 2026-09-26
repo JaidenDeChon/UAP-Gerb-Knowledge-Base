@@ -5,11 +5,11 @@ tags:
   - organization
 ---
 
-The Air Force Technical Intelligence Center (ATIC) was the primary U.S. Air Force organization responsible for technical intelligence analysis, including the evaluation of unidentified aerial phenomena reports during the late 1940s and 1950s. ATIC was the authoritative body directing official Air Force UFO investigation programs and is one of the entities authorized to receive restricted Navy UFO sighting reports per 1952 OPNAV directive.
+The Air Force Technical Intelligence Center (ATIC) was the main U.S. Air Force organization for technical intelligence analysis. In the late 1940s and 1950s its work included evaluating reports of unidentified aerial phenomena. ATIC directed the Air Force's official UFO investigation programs, and under a 1952 OPNAV directive it was one of the offices authorized to receive restricted Navy UFO sighting reports.
 
 ## UFO Investigation Role
 
-ATIC directed [[Project Blue Book]] through Captain [[Edward J. Ruppelt]] and other commanders. Operating in parallel, ATIC contracted [[Battelle Memorial Institute]] in 1952 to establish [[Project Stork]], a classified machine-indexing and analysis system for official UFO sighting reports conducted outside the public Blue Book structure. ATIC and Battelle jointly published Special Report 14 in 1955, a comprehensive analysis of 3,200 UFO cases that concluded no physical UFO material had ever been recovered — a conclusion UAP researchers argue is contradicted by Battelle's own 1949 classified nitinol contract work for [[Wright-Patterson Air Force Base]].
+ATIC directed [[Project Blue Book]] through Captain [[Edward J. Ruppelt]] and other commanders. Alongside Blue Book, ATIC hired [[Battelle Memorial Institute]] in 1952 to set up [[Project Stork]], a classified system for machine-indexing and analyzing official UFO sighting reports. Stork ran outside the public Blue Book structure. In 1955 ATIC and Battelle jointly published Special Report 14, a comprehensive analysis of 3,200 UFO cases, which concluded that no physical UFO material had ever been recovered. UAP researchers argue that this conclusion is contradicted by Battelle's own classified nitinol contract work for [[Wright-Patterson Air Force Base]] in 1949.
 
 ## Sources
 

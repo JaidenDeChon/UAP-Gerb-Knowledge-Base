@@ -5,7 +5,7 @@ tags:
   - organization
 ---
 
-Leidos is a U.S. defense, intelligence, civil and health technology contractor. It is the original Science Applications International Corporation, renamed on 27 September 2013 when the company split in two: it spun off a roughly $4 billion government services company that kept the [[SAIC]] name, and the parent took the name Leidos. UAP Gerb treats SAIC and Leidos as a single lineage when discussing the company's alleged role in the UFO legacy programs.
+Leidos is a U.S. defense, intelligence, civil and health technology contractor. It is the original Science Applications International Corporation, renamed on 27 September 2013 when the company split in two. A government services company worth roughly $4 billion was spun off and kept the [[SAIC]] name, while the parent took the name Leidos. UAP Gerb treats SAIC and Leidos as a single lineage when discussing the company's alleged role in the UFO legacy programs.
 
 ## The 2013 split
 

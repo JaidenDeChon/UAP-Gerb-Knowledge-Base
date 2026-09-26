@@ -1,4 +1,1139 @@
 {
+  "UAP Gerb Knowledge Base/Organizations/160th Special Operations Aviation Regiment.md": {
+    "humanized_at": "2026-09-25T23:33:31Z",
+    "sha256": "45937eda4caf4922d4b2c949c54b68bfceddc3ac2d0ed695e8f3dd6c5211dd73",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/1st Battalion 228th Aviation Regiment.md": {
+    "humanized_at": "2026-09-25T23:33:32Z",
+    "sha256": "2590c459f5c96b0b50ae84a50db7734c0141c4fb4d025e2b1f510e999b73d695",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/24th Special Tactics Squadron.md": {
+    "humanized_at": "2026-09-25T23:33:32Z",
+    "sha256": "e250ffe6a20a6ac5648a752d8e2886bbdbaa413a13092aabc40fe610d25e3a2d",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/31st Marine Expeditionary Unit.md": {
+    "humanized_at": "2026-09-25T23:33:32Z",
+    "sha256": "b9b573f9fed2c893f43249bc52658c12b047904cf40b15984eaabf0d1d690e4a",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/388th Range Squadron.md": {
+    "humanized_at": "2026-09-25T23:33:32Z",
+    "sha256": "a82bbcd69ccd0e728a708d0b75e571ced06d061e723e29c05515211b1873ec2f",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/3af-p (French national aeronautical and astronautical Association UAP division).md": {
+    "humanized_at": "2026-09-25T23:33:33Z",
+    "sha256": "e29486a256693bea4115dd2227949b91d19aa7894de62e0ef2f03106e77cfd4e",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/412th Test Wing.md": {
+    "humanized_at": "2026-09-25T23:33:33Z",
+    "sha256": "2025e84d662ec53d8ec306c7e0066d584b1e287c7514d98ec61347e04c806c61",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/509th Bomb Group.md": {
+    "humanized_at": "2026-09-25T23:33:33Z",
+    "sha256": "44ab4891cca8449cf07a8721c4c1094b190c9296679063dda2aef8b47a77fd36",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/AARO.md": {
+    "humanized_at": "2026-09-25T23:33:33Z",
+    "sha256": "f0b51048e00f2da9287393d7729bcd6c57ecae7ff94c84795ac0e69249a7dcc5",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/AFOIN Special Group (AFOIN-X-SG).md": {
+    "humanized_at": "2026-09-25T23:33:33Z",
+    "sha256": "7c5b2b67bd43ca1ba36584bb0e29426b5afea0eff647572e0cee633e4674e759",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/AT&T.md": {
+    "humanized_at": "2026-09-25T23:35:26Z",
+    "sha256": "20f6cdbddcfefadf15b9ea068060a6d0cada120a6ab312ed011aa16fe7c39aec",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Advanced Technology Center (ATC).md": {
+    "humanized_at": "2026-09-25T23:35:26Z",
+    "sha256": "80174a42cafba44d5410dbf608aa9feace3e7fbe4a0be0299eacf2eeb5c58233",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Aerojet.md": {
+    "humanized_at": "2026-09-25T23:35:26Z",
+    "sha256": "1132a081eb5f09fa8e3da866dfcfc0355111a7e435b29fc6ff3cc23e4ff53faa",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Aerospace Corporation.md": {
+    "humanized_at": "2026-09-25T23:35:26Z",
+    "sha256": "ca7e892c9f49c39decc6bdd35f140ac41935f69cb90065060b5c4247ee5062f2",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Agenzia Stefani.md": {
+    "humanized_at": "2026-09-25T23:35:26Z",
+    "sha256": "0844eb5eb68d84bde39ecc09652e6be29aa4af71cdf2cb9a39c9dfe9ff5e8534",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Air Combat Command.md": {
+    "humanized_at": "2026-09-25T23:35:27Z",
+    "sha256": "c2bbafbb189a715fca1916326bbdf6d3d89f5c8ae4ead9f84f3df2d585164bc7",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Air Force Foreign Technology Division.md": {
+    "humanized_at": "2026-09-25T23:35:27Z",
+    "sha256": "e0e36d9f7fb4b874b7cd7a4afa0b6d591ec5a03ba7abd725dcde1aeefc9dba1f",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Air Force Institute of Technology.md": {
+    "humanized_at": "2026-09-25T23:35:27Z",
+    "sha256": "6b1f732d2c3e23674cf7e892347659d638eb05feeeb52540eeb6d27055dfb8a1",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Air Force Life Cycle Management Center (AFLCMC).md": {
+    "humanized_at": "2026-09-25T23:35:27Z",
+    "sha256": "8f46e116441ff5e3d1084a9b58d9ad05adab59d4ab88ddccfafdc424908faa32",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Air Force Logistics Command.md": {
+    "humanized_at": "2026-09-25T23:35:28Z",
+    "sha256": "bb9ae33ea666021a669b283de5e33e65d7ce3a58a596cc06baffd621604088df",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Air Force Materiel Command (AFMC).md": {
+    "humanized_at": "2026-09-25T23:37:00Z",
+    "sha256": "bba4114ce9644896d3b5280ebd9f96d2b555c03dfcde00e1d10f7a19ff9c99b1",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Air Force Office of Special Investigations.md": {
+    "humanized_at": "2026-09-25T23:37:01Z",
+    "sha256": "9f3ebce55ed4a198d9a018bd02c61a359a9033c1c0d0722daba8c5c61f7a69cf",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Air Force Operational Test and Evaluation Center (AFOTEC).md": {
+    "humanized_at": "2026-09-25T23:37:01Z",
+    "sha256": "e9836dd5d222b7f07b144531f42c691e5a39064f37975ef56c1c9c606a6d22b8",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Air Force Research Laboratory.md": {
+    "humanized_at": "2026-09-25T23:37:01Z",
+    "sha256": "e711d5d470e6674d3f4b01d124a17e6e56fa4e2cef455dff827ee4005f82660d",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Air Force Special Weapons Center (AFSWC).md": {
+    "humanized_at": "2026-09-25T23:37:01Z",
+    "sha256": "0d74b4f27a0a35e87c7284d77841f2516b866d8b815bc2b73a66cdcf26de5824",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Air Force Systems Command.md": {
+    "humanized_at": "2026-09-25T23:37:02Z",
+    "sha256": "b0e68e7bd7234e74f28e0d2fd7d78e858cf556e6438f4996d5d86e94235bee07",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Air Force Technical Intelligence Center.md": {
+    "humanized_at": "2026-09-25T23:37:02Z",
+    "sha256": "94aa1f09ef19f3731354c6a9fb775abf235f68344e0845d727a8170d4c267c70",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Air Force Test Center.md": {
+    "humanized_at": "2026-09-25T23:37:02Z",
+    "sha256": "8c44ec71a3ee3058ed427f0e2e3388ec759afb185324bbd76110d9682878ac49",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Air Force Test Pilot School.md": {
+    "humanized_at": "2026-09-25T23:37:03Z",
+    "sha256": "99bc6396c7121ec677e8d2979c373c589de9a1a24a3a19b814e4a35cc197631f",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Air Force Test and Evaluation (AF-TE).md": {
+    "humanized_at": "2026-09-25T23:37:03Z",
+    "sha256": "3af95bbc5555a6a745feceb4089c82caf34a9c8982ccb0d13647a7d0496bf740",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Air Materiel Command.md": {
+    "humanized_at": "2026-09-25T23:38:33Z",
+    "sha256": "9482654a1924ced5232d542d48fc2f48476172aa4bf6d58a1bbf52bccad7b915",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Air Research and Development Command (ARDC).md": {
+    "humanized_at": "2026-09-25T23:38:34Z",
+    "sha256": "c0e27865893beb42cb8ffd44ad3a8a6831e2edf984b2e2548600de0331b472fa",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/American Association for the Advancement of Science.md": {
+    "humanized_at": "2026-09-25T23:38:34Z",
+    "sha256": "19e91a11c88942d9ab29cc4305af810d7177f668deda039ac6bd6634243d666c",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/American Institute of Aeronautics and Astronautics.md": {
+    "humanized_at": "2026-09-25T23:38:34Z",
+    "sha256": "a60ca93134ef0cb1072a80ee0fe893c6b1eb2c571feeab3eb71ca7c564a19e37",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Applied Research Laboratory.md": {
+    "humanized_at": "2026-09-25T23:38:34Z",
+    "sha256": "79297adaa66f4f116e45af46f4e4999d61256e0cbdf9aa939e7d6b0fd5a9bc15",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Armed Forces Special Weapons Project (AFSWP).md": {
+    "humanized_at": "2026-09-25T23:38:35Z",
+    "sha256": "d7b6378a67318ed1bdaffad9707d5b8cb8bb0f1cd091c64edc5235c2cf3eebe6",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Army INSCOM.md": {
+    "humanized_at": "2026-09-25T23:38:35Z",
+    "sha256": "af2f9b268bbea08d10d9d7fee89c6bc026579bbdbb339bcb9d16c0262b447219",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Army and Navy Research and Development Board.md": {
+    "humanized_at": "2026-09-25T23:38:35Z",
+    "sha256": "de2dfee4b2cf41b7adf949137d1756c0df32e54d4b27308193636340491adb42",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Atlantic Undersea Test and Evaluation Center.md": {
+    "humanized_at": "2026-09-25T23:38:35Z",
+    "sha256": "37f539882e91c1a367ee24b69cf8e30cc025722c082557aec29632f89f4ece06",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Atomic Energy Commission.md": {
+    "humanized_at": "2026-09-25T23:38:36Z",
+    "sha256": "8062c38972987a656f3e20d35505127350a254cdda4d396454fab427f34fe847",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Aviation Week and Space Technology.md": {
+    "humanized_at": "2026-09-25T23:40:21Z",
+    "sha256": "15b99a717af09789f614dd5bf7b8b58d770817638c2d5e65e67045e0e51b3d5f",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/BAE Systems.md": {
+    "humanized_at": "2026-09-25T23:40:22Z",
+    "sha256": "a472f7c55384f1ed3441d9b4a770369781bc038a5bedf71cb61efb338ed8b981",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/BDM International.md": {
+    "humanized_at": "2026-09-25T23:40:22Z",
+    "sha256": "0ab5ab9dfb3c6a204ecadb1ebabe7fcfe6e7b967ece880e24a854c8986c03dea",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Barcelona Air Traffic Control.md": {
+    "humanized_at": "2026-09-25T23:40:22Z",
+    "sha256": "b99810e7a36116e7bbbac1905f9c7b1261be7339ca9f8a24cd46d057ccc962b5",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Battelle Memorial Institute.md": {
+    "humanized_at": "2026-09-25T23:40:22Z",
+    "sha256": "1972259da418697b8cd290b10e5469faa46bee0a1aeeafe880d3f04d6d59e867",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Bell Labs.md": {
+    "humanized_at": "2026-09-25T23:40:23Z",
+    "sha256": "49556cfebf6d79e499ff1baddd34a408c2951a6ba075475bd5b5aa0358ce121e",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Bigelow Aerospace Advanced Space Studies.md": {
+    "humanized_at": "2026-09-25T23:40:23Z",
+    "sha256": "9b86244539ab7645e2db387aa24822f7a0507f6a481b8cf2c7566a58bd8b26e7",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Blue Berets.md": {
+    "humanized_at": "2026-09-25T23:40:23Z",
+    "sha256": "1efa7bb2cce466fdfa0ce4b08ce363fac7263973d651927ddaf29dd0d4573727",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Boeing.md": {
+    "humanized_at": "2026-09-25T23:40:23Z",
+    "sha256": "3b37b4299f1f5408d2340a111400fd5f7f312c9400bc070458ecf07770c1a921",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Brera Astronomical Observatory.md": {
+    "humanized_at": "2026-09-25T23:40:23Z",
+    "sha256": "cf16e411216d2097aea48951d7c0be91266c65de79922575558beefcdb92ad2b",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/British Admiralty.md": {
+    "humanized_at": "2026-09-25T23:42:16Z",
+    "sha256": "e7f4a4cdedcd6321eb03b0075dd35d89c8ba5081f028c58ae22238db9cc91f99",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Bureau of Reclamation.md": {
+    "humanized_at": "2026-09-25T23:42:17Z",
+    "sha256": "e462d0a261eb9aad66d24d322b43fea1697d8fb4ab94e50d971c27928675400e",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/C Martin Company.md": {
+    "humanized_at": "2026-09-25T23:42:17Z",
+    "sha256": "675d905d14ada78f2abedbced8f8093f228c093e8dbb3964b4e40850562059bd",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/CIA Directorate of Science and Technology.md": {
+    "humanized_at": "2026-09-25T23:42:17Z",
+    "sha256": "963d39f2c500256a523710a625ff5af70a8220ce827ae2b7c0ca7f261c0c4042",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/CIA Office of Global Access.md": {
+    "humanized_at": "2026-09-25T23:42:17Z",
+    "sha256": "da281a02eb7517c4903fdd8f8f75338c862d01df8aa949b6026fc937277654ca",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/CIA.md": {
+    "humanized_at": "2026-09-25T23:42:18Z",
+    "sha256": "ed1c38cd22d32b6035e41a7f810ddeaf6c87970f0cb5ee566377a6fd45765aac",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Carlyle Group.md": {
+    "humanized_at": "2026-09-25T23:42:18Z",
+    "sha256": "25649f30a2380379afe56cd31f28b1791b7f89fbe3bc6d3ab4b0b7a0b9fb2ec5",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Center for Naval Analyses.md": {
+    "humanized_at": "2026-09-25T23:42:18Z",
+    "sha256": "205ad04941ed9dc22aefea459af5fd701df33ba13a215b1f0b892653006ea2bf",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Citizens Against UFO Secrecy (CAUS).md": {
+    "humanized_at": "2026-09-25T23:42:18Z",
+    "sha256": "40eae2c26334ee20d27d3fdeaedc69b6fd454755c00ab0f2e9b59fe093c2775b",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Company E, 52nd Infantry (LRP).md": {
+    "humanized_at": "2026-09-25T23:42:18Z",
+    "sha256": "7a62af095d31ca2421422504b2d09cf8a53893feb9633d423045fc7bf2865947",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Condon Committee.md": {
+    "humanized_at": "2026-09-25T23:43:41Z",
+    "sha256": "dd43870b66edf276f9cfec82f4723412d27258c734d991ae5f35a237c5e8fe99",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/DARPA Security and Intelligence Directorate (SID).md": {
+    "humanized_at": "2026-09-25T23:43:41Z",
+    "sha256": "3659911e0109509aa640fdeb497a412df955316366ba6acb553ccac62904092a",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/DARPA.md": {
+    "humanized_at": "2026-09-25T23:43:41Z",
+    "sha256": "94538199902ea9d17d4e14cd5ada41caf4af3a1c6550c511b12f67211830f97c",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/DHS (Department of Homeland Security).md": {
+    "humanized_at": "2026-09-25T23:43:42Z",
+    "sha256": "e1fb604ed01147ab8c7be0f36c656cb728bb7629739500369ac1128766be556f",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/DOD Joint Chiefs.md": {
+    "humanized_at": "2026-09-25T23:43:42Z",
+    "sha256": "f4b186357ff10efdacde6a3503162e731f4d669a1ad5aee25659c161eadc4552",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/DOE Special Response Teams (SRTs).md": {
+    "humanized_at": "2026-09-25T23:43:42Z",
+    "sha256": "2b9681115d70681e09a60ce6d2e2c44de42053daf1b09f5026413e7a0ec799de",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/DOPSR (Defense Office of Prepublication and Security Review).md": {
+    "humanized_at": "2026-09-25T23:43:42Z",
+    "sha256": "35fd07b053972a99e4ec5069e71943a7355c0452ead82f8fb6cefeba4909446f",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Daily Mail.md": {
+    "humanized_at": "2026-09-25T23:43:42Z",
+    "sha256": "f6d757f25e3eb988b4897dbbb90b8457e2fea2ed73029287b911db6900483fb0",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Danish Meteorological Institute.md": {
+    "humanized_at": "2026-09-25T23:43:43Z",
+    "sha256": "449ff8338765445b9165c97e5b4b293930f43bc3bf2fd22f8ff85fc13757dabd",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Danny Lampkin.md": {
+    "humanized_at": "2026-09-25T23:43:43Z",
+    "sha256": "6702c0b3b4a3816f0143c14abccd9b3c5542bca84638c3407302807e093262ab",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Decision Science Applications, Inc. (DSAI).md": {
+    "humanized_at": "2026-09-25T23:45:31Z",
+    "sha256": "bbbf6e5026148f0a866afc73774527c842e739eea114c91382dedf60dbffe2a6",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Defense Advanced Research Center (DARS).md": {
+    "humanized_at": "2026-09-25T23:45:31Z",
+    "sha256": "30a1502eb95a158540d7a8f1c76cd228de782569a04d337c4edd61cbec76a26c",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Defense Intelligence Agency.md": {
+    "humanized_at": "2026-09-25T23:45:31Z",
+    "sha256": "bea494f85bdb41e26d2d7521e3be5cd25b2ac0ee5a1695ac838736257e1dfba7",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Defense Support Program (DSP).md": {
+    "humanized_at": "2026-09-25T23:45:32Z",
+    "sha256": "2feeb616c437582a3396b266e9f96f5378795771bc59916fffac49a7af788cc6",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Defense Threat Reduction Agency (DTRA).md": {
+    "humanized_at": "2026-09-25T23:45:32Z",
+    "sha256": "a3704719dd1373b6a5a41510212adf70c9a03d6a37c5f2f69d7ebbc7dab43816",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Denb Team.md": {
+    "humanized_at": "2026-09-25T23:45:32Z",
+    "sha256": "1fbe3994d9e1177b877579005254ef5b943d8a27be335bcc250741073f794d4a",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Department of Defense.md": {
+    "humanized_at": "2026-09-25T23:45:32Z",
+    "sha256": "193962a901668261f887923c01e4a6f4151f6f5255dfa5044c12db2deb1f1d6f",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Department of Energy.md": {
+    "humanized_at": "2026-09-25T23:45:33Z",
+    "sha256": "26379d04d8836d93c38abd9ae97315430d05716e3e3a0ca29d015d0e3db22d4e",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Disclosure Project.md": {
+    "humanized_at": "2026-09-25T23:45:33Z",
+    "sha256": "ff0d87307755707ec9dc3196756fd393f2b98292e11e4b358a7b26df3ee076b3",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/E-Systems.md": {
+    "humanized_at": "2026-09-25T23:45:33Z",
+    "sha256": "40a41a25ac33f7a477a4473cba485133b7fcb003426a6ab752af3299d34c9fa5",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/EG&G.md": {
+    "humanized_at": "2026-09-25T23:47:19Z",
+    "sha256": "4e2f49f9249f114b02eb675904085a4dc5c5f252846ea4a6520ce9d3632b802d",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/EarthTech.md": {
+    "humanized_at": "2026-09-25T23:47:19Z",
+    "sha256": "f53a85bf79c14ab9fd5913ee27accb1c533a6700e01421829a4e0cf7ffa7ee96",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/El Paso Intelligence Center.md": {
+    "humanized_at": "2026-09-25T23:47:19Z",
+    "sha256": "9f1c7cf522afc31ff436b8f48c98be710cefce1583adcab6474aae7d3902f3f8",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Finnish Air Force.md": {
+    "humanized_at": "2026-09-25T23:47:19Z",
+    "sha256": "8f0525a1bffb6d7aaedb443e8a00cd6d98a73a5943a09de1f1ac2371cf151a77",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Finnish Defense Force.md": {
+    "humanized_at": "2026-09-25T23:47:20Z",
+    "sha256": "1db08b669bd96a279896a55866be8123ce2dc47f162e05af14bd4f0bdd802a42",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Galactic Federation.md": {
+    "humanized_at": "2026-09-25T23:47:20Z",
+    "sha256": "325f51eeee7f6160d72dba67c8d626fa08c40c2bb8c6a86a03b6b2970e07190b",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Galileo Project.md": {
+    "humanized_at": "2026-09-25T23:47:20Z",
+    "sha256": "49254b0e0c3d502780b6e27e4a50bef91e81cad99275719d0459a8dca70dc616",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Geophysical Service Inc. (GSI).md": {
+    "humanized_at": "2026-09-25T23:47:20Z",
+    "sha256": "06fd6bf7c3c874ff08f7bcd4021830d62376aa631cc37bc75e9d199f73ac2eda",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Heaven's Gate.md": {
+    "humanized_at": "2026-09-25T23:47:20Z",
+    "sha256": "277ddf0500c5c5247702f11698ad578d94c9d3a086d0fa6ca43a05553274d3c8",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Holocron Engineering.md": {
+    "humanized_at": "2026-09-25T23:47:21Z",
+    "sha256": "88d98b9e9ad45cd7cac188ad2e0babc7890ddbd815c3b1a98a17302930837e52",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Honeywell.md": {
+    "humanized_at": "2026-09-25T23:49:11Z",
+    "sha256": "48ee909711464446590ba55698b023a49ec832608874928e9da6f89633d5fec9",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/ITBS.md": {
+    "humanized_at": "2026-09-25T23:49:12Z",
+    "sha256": "b2b0d40f2d94efc2cc772baa77195088c020bbc6e42eb31acb6c33469f2e532f",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Interplanetary Phenomenon Unit.md": {
+    "humanized_at": "2026-09-25T23:49:12Z",
+    "sha256": "8ab3fbde16e6e6bac9e66ef58dc0f0accbe5bbf93550aac30974efb85ec17a48",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/JSOC (Joint Special Operations Command).md": {
+    "humanized_at": "2026-09-25T23:49:12Z",
+    "sha256": "ac3fab7ad3fa120312a579ff8e61183765aab841510e385d6269ebb17da337d9",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Joint Task Force Bravo.md": {
+    "humanized_at": "2026-09-25T23:49:12Z",
+    "sha256": "16270d345e73ec0ddcc76438b9f114ac7d445e2d944d3c6b00ef8ea36b8df5e9",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/L3 Communications.md": {
+    "humanized_at": "2026-09-25T23:49:12Z",
+    "sha256": "fb9b33b49efb559cdfc387042a73cf2921c54a4ec005c316421de10b72ecde84",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Lawrence Livermore National Laboratory.md": {
+    "humanized_at": "2026-09-25T23:49:13Z",
+    "sha256": "909c33cd01f81cd6364cefe29b36b39d96bf091a209e02da2143de3b81baab49",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Leidos.md": {
+    "humanized_at": "2026-09-25T23:49:13Z",
+    "sha256": "8bd80d954552a6e62f2b0a7f0f1bb85b9192180c4b322f4c46c4440dee9b0499",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Link Aviation.md": {
+    "humanized_at": "2026-09-25T23:49:13Z",
+    "sha256": "de89f6d57529b4a6161f6171e16180db00f2ae044d59d0cedf9731325c4d0a68",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Lockheed Martin Skunk Works.md": {
+    "humanized_at": "2026-09-25T23:49:13Z",
+    "sha256": "aaa84bb6316ebe8be6b99bbd1e8f990cdcc5dbf418ae1d4b00928b32f949f0b2",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Lockheed Martin Space Systems.md": {
+    "humanized_at": "2026-09-25T23:51:51Z",
+    "sha256": "c3f17550fc06dda54e99b76137aaf59af50b0a652a5e09155c0a95c8bb371a1a",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Lockheed Martin.md": {
+    "humanized_at": "2026-09-25T23:51:51Z",
+    "sha256": "9b7f9cab0f7c24f49c4885f5b02b3a581bfdf71bb76e3329987e243c3205c3f2",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Los Alamos National Laboratory.md": {
+    "humanized_at": "2026-09-25T23:51:52Z",
+    "sha256": "1c30f63255f42e3e297a65667db89cfdc79625fde0d662ebf9caba5447eb3b1b",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/MARFORLANT Riverine Training Team.md": {
+    "humanized_at": "2026-09-25T23:51:52Z",
+    "sha256": "e966b509ba0851e8cce69d8fab3986db3d9877537b22cbfa5a317ea0c0ba2346",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/MIT Lincoln Laboratory.md": {
+    "humanized_at": "2026-09-25T23:51:52Z",
+    "sha256": "31ff3fa2ffea9288cc7ba1ec1c5ce14a80c309fe6103814f6c7e28cbc97b0c6f",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/MIT.md": {
+    "humanized_at": "2026-09-25T23:51:52Z",
+    "sha256": "0992b4f32711e6d9c3dcc78105ea5884d2621d35a2fa71b47f1e3d7612161b79",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/MITRE Corporation.md": {
+    "humanized_at": "2026-09-25T23:53:55Z",
+    "sha256": "35899acdcaeee317228be230ff2e6c8e0b31a587cd75e3ba0b75688568356717",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/MUFON.md": {
+    "humanized_at": "2026-09-25T23:51:53Z",
+    "sha256": "f81dc23129acd64fcdc19d6e4c848c8c1877bdcbdacfba03eca433b52998268d",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Majestic 12.md": {
+    "humanized_at": "2026-09-25T23:53:55Z",
+    "sha256": "373235fce3169352660e3cb0ac331d8f0ab289ea63b51793283ee5a3e2670ac1",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Marine Air Control Group 28.md": {
+    "humanized_at": "2026-09-25T23:51:53Z",
+    "sha256": "a22914d7dbebf3698e33314417558dfbf6bbf9e42ea13c70b485c5b78a736b4b",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Marine Corps Warfighting Laboratory.md": {
+    "humanized_at": "2026-09-25T23:53:56Z",
+    "sha256": "85ead32b9094871d09fd3cc32884b4c9b2eb9db86b9c8d139f09ce4dc1d8b660",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Martin Marietta.md": {
+    "humanized_at": "2026-09-25T23:53:56Z",
+    "sha256": "2002aee36e7f444505d0b64581e8f647680570355ee2ca7a1c58ed7040b98aff",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Men in Black.md": {
+    "humanized_at": "2026-09-25T23:53:56Z",
+    "sha256": "fd3d3f2d8cb2d197060c0f077a6ae43147f26eb2bc19b6e1a6a87b75db006f16",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Metabunk.md": {
+    "humanized_at": "2026-09-25T23:53:56Z",
+    "sha256": "a91f9666662d1485d47a523e41de5cfd714d8caab2019d9f350c69d5d664f219",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Mexican Air Force.md": {
+    "humanized_at": "2026-09-25T23:53:57Z",
+    "sha256": "8f7100e4b72cf07ed2b300ffe7daccd563c58538ce7e181d3651b8706ac48daa",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/NAMRU (Naval Medical Research Unit).md": {
+    "humanized_at": "2026-09-25T23:53:57Z",
+    "sha256": "7686818385ff05d4c13c20a8a2f9a606da76e2c1147dd6936b4876f4f54da221",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/NASA.md": {
+    "humanized_at": "2026-09-25T23:53:57Z",
+    "sha256": "cebbf866636ba6e0ca598fa22f5ddffe4102ab6f9d18d110ccf650e9585e7693",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/NEST (Nuclear Emergency Support Team).md": {
+    "humanized_at": "2026-09-25T23:53:57Z",
+    "sha256": "e25802b4ff7fcfb04df8aea146df58853aa05fa92b203001625826f3da947548",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/NGA.md": {
+    "humanized_at": "2026-09-25T23:53:57Z",
+    "sha256": "af69a50728c09916fa7fd47c3bf89e16c1aeae06ae408b585ec8e3ab2a28379f",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/NORAD.md": {
+    "humanized_at": "2026-09-25T23:53:58Z",
+    "sha256": "87cec0082def9335997ff69bbc3a52476b477bb1fb77891769d4ee2468e4d458",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/NRO (National Reconnaissance Office).md": {
+    "humanized_at": "2026-09-25T23:55:24Z",
+    "sha256": "020c9a56ba4d1f12c3bf199d429de1d062cc1362100bf012ba7a98de82894d87",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/NSA.md": {
+    "humanized_at": "2026-09-25T23:55:24Z",
+    "sha256": "1df5ddd2e33844c4238a588ea3b7cd10f9234c5d0ebd59f509386ce4ab733fb3",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/National Academy of Sciences.md": {
+    "humanized_at": "2026-09-25T23:55:24Z",
+    "sha256": "b4b3298f858d4bdcee47bcb5fd017e250aa95724604a688ac2cb3e78044109b9",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/National Air and Space Intelligence Center (NASIC).md": {
+    "humanized_at": "2026-09-25T23:55:24Z",
+    "sha256": "6453496e0b3462987f60de38957c2384015df272a9b865cc06a7250b94dfb683",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/National Investigations Committee on Aerial Phenomena.md": {
+    "humanized_at": "2026-09-25T23:55:25Z",
+    "sha256": "1b26579e674d5dbbbe1a48c42c46a2eeb7e211ba8739512c4c7964e84ad75a2c",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/National Maglev Initiative.md": {
+    "humanized_at": "2026-09-25T23:55:25Z",
+    "sha256": "32ab9712be526e0c261b7bfd0e680b609b5051ec139cdf14ae53b2f7f69fd93c",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/National Nuclear Security Administration.md": {
+    "humanized_at": "2026-09-25T23:55:25Z",
+    "sha256": "516b3ea68da70c95e1da191008773ccf1609a33951e6bb4c479d7c36a25dd48a",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/National Oceanic and Atmospheric Administration (NOAA).md": {
+    "humanized_at": "2026-09-25T23:55:25Z",
+    "sha256": "130688233fc01d2bfd659a792db86ce158a16bb97198cbced9c1bd152ca700e3",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/National Press Club.md": {
+    "humanized_at": "2026-09-25T23:55:26Z",
+    "sha256": "4a1e174f927fb501205274ea83851750ced367f9502672de715a8809a200447f",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/National Security Council.md": {
+    "humanized_at": "2026-09-25T23:55:26Z",
+    "sha256": "a00e9823a02fe0ddce675656a3332f5df12d759659f116a6764f405e11b80ced",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/National Underwater Reconnaissance Office.md": {
+    "humanized_at": "2026-09-25T23:57:26Z",
+    "sha256": "68a685fc05aeae6666a4137892051c541dac93afdddaf0082ddc8f10b9c43d64",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Naval Air Station Lemoore (NAS Lemoore).md": {
+    "humanized_at": "2026-09-25T23:57:27Z",
+    "sha256": "f2ff71ade0e9795f5c4f527e625fe354d68785e16b9b4384845977f7f91a37a5",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Naval Air Systems Command.md": {
+    "humanized_at": "2026-09-25T23:57:27Z",
+    "sha256": "8cf08245f7beb0bf89d1821fbe5b2b160ca8c1a42da1f48cdea94cf2d1a004e5",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Naval Aviation Warfare Development Center (NAWDC).md": {
+    "humanized_at": "2026-09-25T23:57:27Z",
+    "sha256": "06a4efc57cc22d75138ff7c56299370955cec5660e4f07ede14f2d2194e108d3",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Naval Criminal Investigative Service.md": {
+    "humanized_at": "2026-09-25T23:57:27Z",
+    "sha256": "4d673f1534d94260cfb685dfdcf92a8e1f8923da03b1b03e7262a7f30b048ca2",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Naval Sea Systems Command.md": {
+    "humanized_at": "2026-09-25T23:57:27Z",
+    "sha256": "1ffc9ccda749b53869dc64004318dbba40bea71dca689f5f955dc66dde55bdd3",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Naval Surface Warfare Center Crane.md": {
+    "humanized_at": "2026-09-25T23:57:28Z",
+    "sha256": "b308fd004600947b7f7219853666fbf02706843ab404d7c46d788a11c9e35f2f",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Naval Surface Warfare Center Dahlgren.md": {
+    "humanized_at": "2026-09-25T23:57:28Z",
+    "sha256": "c2088b74f9fec9d0f171ebf75b515f72d52954562fa073b8c3219afb56b034dd",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Naval Undersea Warfare Center Keyport.md": {
+    "humanized_at": "2026-09-25T23:57:28Z",
+    "sha256": "eae6a256c27e2f19d410efc24f3dd743b5a23b0829b197e240907f8101628d4d",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Navy Special Program.md": {
+    "humanized_at": "2026-09-25T23:57:28Z",
+    "sha256": "3aedc094d705f207cf3ab3755844defdfdaa25fbf9787cfaba61110c439eaaa5",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Northrop Advanced Technology and Design Center (NATDC).md": {
+    "humanized_at": "2026-09-26T00:00:06Z",
+    "sha256": "2a667c93c6e81ecc77e9e54eb16013752e787b8079ae4763f49cae750b2cfe1a",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Northrop Grumman.md": {
+    "humanized_at": "2026-09-26T00:00:06Z",
+    "sha256": "337313e449b4b40cad431935643bd6dbb110147d16bdeba8cbcb3e726046b757",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Nuclear Regulatory Commission.md": {
+    "humanized_at": "2026-09-26T00:00:07Z",
+    "sha256": "9adba91f7cd77351360bf9baf029e3aa8a30a7cad39389f6f029b2af3309d9dd",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Oak Ridge National Laboratory.md": {
+    "humanized_at": "2026-09-26T00:00:07Z",
+    "sha256": "2f7401a25da0b6a0e0458beffe00b1fccf885e30f9dc7fe0008d0ceee099dfbb",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Office of Intelligence and Counterintelligence.md": {
+    "humanized_at": "2026-09-26T00:00:07Z",
+    "sha256": "a6450567864ab7d93ad7d8d24ac4b289772d22f99f5e37bbeb4d7e2bbb275faa",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Office of Naval Intelligence.md": {
+    "humanized_at": "2026-09-26T00:00:07Z",
+    "sha256": "22aeef15a5de95b6db61ba798fc02f8e805817f764b9b600ca35d3d7c2951433",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Office of Naval Research.md": {
+    "humanized_at": "2026-09-26T00:00:08Z",
+    "sha256": "de1f718a390d4ecc6c6bf4e9927fc7e83396f6ec623e6a20f28f77e3afe413c3",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Office of Secure Transportation (OST).md": {
+    "humanized_at": "2026-09-26T00:00:08Z",
+    "sha256": "4cbe95b3a689f6636a93834beae2a1f7b756bab9d74ac771daabb94b8d5cc859",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Office of Strategic Services (OSS).md": {
+    "humanized_at": "2026-09-26T00:00:08Z",
+    "sha256": "5cc65d1a0b5fa73f7d45a64d300dfa43150792cf3361380c53d1b10b12ec1aa0",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Office of the Under Secretary of Defense for Intelligence and Security (USDINS).md": {
+    "humanized_at": "2026-09-26T00:00:08Z",
+    "sha256": "73c763a0a5d42b2111269d8fe2240ad5ea1aa4aba1ea36f6cca4a0d59ed20172",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Peraton.md": {
+    "humanized_at": "2026-09-26T00:01:55Z",
+    "sha256": "9f56388c5d3c096944f7fbb0872522aa45e6893dabf931c686623d4cfd377a09",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Peruvian Air Force.md": {
+    "humanized_at": "2026-09-26T00:01:55Z",
+    "sha256": "2999b593f00f763a975a7a4b1fda29de15f715c965c5e55d945f209fbc930462",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/RAND Corporation.md": {
+    "humanized_at": "2026-09-26T00:01:55Z",
+    "sha256": "6d23f4a8d47abba6549fb5b451aa066e316ebff0f1552375c81e3bb5ad062934",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/RGH UFOs.md": {
+    "humanized_at": "2026-09-26T00:01:56Z",
+    "sha256": "472c2be9a31a3951f4f7c55a3286627b69b5530da374ab9c66077fa6d550cbfe",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/RS-33 (Gabinetto RS 33).md": {
+    "humanized_at": "2026-09-26T00:01:56Z",
+    "sha256": "28cef0d0e13e3578f9330660ccc5e593ad5febb40903a6d87b582c257a3d55c5",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Radiance Technologies.md": {
+    "humanized_at": "2026-09-26T00:01:56Z",
+    "sha256": "f470f9fa0d77fcf88b02beb1e7f67601065e90c150ce499539dcf83d5ef61217",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Rapid Capabilities Office (RCO).md": {
+    "humanized_at": "2026-09-26T00:01:56Z",
+    "sha256": "9054eeafa80e0ef253cd243731c33f358a40eebf5563a828f2d49b60e9ae8c33",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Raytheon.md": {
+    "humanized_at": "2026-09-26T00:01:56Z",
+    "sha256": "bf45ea9d7d841ef8d0a95ab318cac95649caddfe48b825f4a71bc164544ad292",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Research and Development Board.md": {
+    "humanized_at": "2026-09-26T00:01:57Z",
+    "sha256": "591987887555ee18a8f18320e64072baecd8d1939beada71a1badbf50b88e9db",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/SAFAAZ.md": {
+    "humanized_at": "2026-09-26T00:01:57Z",
+    "sha256": "6c6b720f67e2791501afb067556f6313766ab46e4986259f3961b239cf3a7b98",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/SAFAHA.md": {
+    "humanized_at": "2026-09-26T00:04:29Z",
+    "sha256": "f55926d79fd4dbbd098cd9fdfc8fb9c4a7e1db18635585509564a45fb8566547",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/SAFAQ.md": {
+    "humanized_at": "2026-09-26T00:04:29Z",
+    "sha256": "73cbc22bec7a459190d3f04a403c3897d843704f3a285b3f7a06dd26b4b9e489",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/SAFAQL (Special Programs).md": {
+    "humanized_at": "2026-09-26T00:04:30Z",
+    "sha256": "582f13807d6ff9394ef522b0495e3bab85032e657403f17d4be2acf4ca867067",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/SAFAQR (Science, Technology and Engineering).md": {
+    "humanized_at": "2026-09-26T00:04:30Z",
+    "sha256": "23a1917125b0864746c28185b26bc05ca23b285f6453242fe6e9cf340a487583",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/SAFAQX (Acquisition Integration).md": {
+    "humanized_at": "2026-09-26T00:04:30Z",
+    "sha256": "c00443b9e0de9caeb5a7efdd55a5b44e2fb7b5eb3d9a101255801a4416467ed2",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/SAIC.md": {
+    "humanized_at": "2026-09-26T00:05:47Z",
+    "sha256": "0d7b0dd452c0370da91771f6756b3893960e40504ff7b7989480c5d5cab86c19",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/SAPOC (Special Access Program Oversight Committee).md": {
+    "humanized_at": "2026-09-26T00:04:30Z",
+    "sha256": "4bd231ea038e8b65f1c8a89289bbc9a139ce9325d11a085523b0462bcce8b65e",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/SETI.md": {
+    "humanized_at": "2026-09-26T00:04:31Z",
+    "sha256": "3a43e027045f79bbb73660fd47d990e7d07662999405d24f4d26882af805380a",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/SIAI-Marchetti Aircraft Company.md": {
+    "humanized_at": "2026-09-26T00:04:31Z",
+    "sha256": "34050a8ed85a6c8ad8a75912019b4f133ba7ab0de55c9d7c306c8302ea0bac98",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/SOCOM.md": {
+    "humanized_at": "2026-09-26T00:04:31Z",
+    "sha256": "c5f04157d47ecccd4146068c63173d90b91b2b5128605a7ab4f2b7dece488fc5",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Sand Corp.md": {
+    "humanized_at": "2026-09-26T00:05:47Z",
+    "sha256": "a3e40e7492cfedf5d9fb3946cc4820ceac6132516e2668fd10bc41599ade0d6a",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Sandia National Laboratories.md": {
+    "humanized_at": "2026-09-26T00:05:47Z",
+    "sha256": "290ec19fae69ae47cc2733e1cede622d24e0029390a8c09836b97544d4b6d543",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Senate Select Committee on Intelligence.md": {
+    "humanized_at": "2026-09-26T00:05:48Z",
+    "sha256": "756de01c62d49b038661a34ee399fbec028b02332ca05f4ec0e05525cf217c64",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Skeptic Magazine.md": {
+    "humanized_at": "2026-09-26T00:05:48Z",
+    "sha256": "e5a89af2f199a42ff75584a9a73508e366c48cbef8367843931f737641bd1730",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Skywatchers.md": {
+    "humanized_at": "2026-09-26T00:05:48Z",
+    "sha256": "ff3f4b4ac983e1fba84f4cd89e8a24bb41be715ba89d0cbc4d33b4aea241553c",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Sol Foundation.md": {
+    "humanized_at": "2026-09-26T00:05:48Z",
+    "sha256": "7e4a70498f3b139ca85278c62a178fb65039d8ddc9d56cec70791d30a27d7ae1",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Space Technology Laboratories (STL).md": {
+    "humanized_at": "2026-09-26T00:05:49Z",
+    "sha256": "03a33d3517fc8ee529e1f1a433c2eba23d3b045184fc16dab4f7cd1a5c779c94",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Spanish Parliament.md": {
+    "humanized_at": "2026-09-26T00:05:49Z",
+    "sha256": "484722235fb3c148ebb114a5d7dd73b0f9b53a3e8bc91785cd10bb1cf700fb90",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Sperry Rand.md": {
+    "humanized_at": "2026-09-26T00:05:49Z",
+    "sha256": "70b3fa05cb0f7665bb199d369183852d88ed9f4a339763f88175ac06aff788cb",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/System High.md": {
+    "humanized_at": "2026-09-26T00:05:49Z",
+    "sha256": "8aa85dde0bacaa8ad882806ee9df5ecc3ce920562ebe7a3751fe923f35298639",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/TAE (Trabajos Aéreos y Enlaces).md": {
+    "humanized_at": "2026-09-26T00:07:56Z",
+    "sha256": "6e8d2db2df330335746492740b96889f07bbedf8637829cd7de12e01b740d028",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/TAGOM.md": {
+    "humanized_at": "2026-09-26T00:07:56Z",
+    "sha256": "24c0f8d8ba61fccee627e3ac247fa5dd4ca6243f345f6f49fd6b52870560278f",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/TRW.md": {
+    "humanized_at": "2026-09-26T00:07:57Z",
+    "sha256": "93106011f79ff017e11895ff2de07e34d25c16c2cbca567ff82afd1993529777",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Teledyne Ryan.md": {
+    "humanized_at": "2026-09-26T00:07:57Z",
+    "sha256": "76efe5dbf5ccc5af1ee7dccb258e79faad16ecae944f25a61356bcfcbe925675",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Texas Instruments.md": {
+    "humanized_at": "2026-09-26T00:07:57Z",
+    "sha256": "30a1ab0f742ba98197a55ecc0129ba35c095d801bfe4593457a38c35ef26397e",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/The Black Vault.md": {
+    "humanized_at": "2026-09-26T00:07:57Z",
+    "sha256": "62a72add3591a0d12220e2afd3fbc8bb06fa5be6de1c58fa06109b6c8f5273bc",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/The Infographic Show.md": {
+    "humanized_at": "2026-09-26T00:07:58Z",
+    "sha256": "de6b8b526d45dfef38ee90b0cf3e923c64f8ae0939d223215df80a1585fd2cee",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Third Phase of the Sun.md": {
+    "humanized_at": "2026-09-26T00:07:58Z",
+    "sha256": "a043ffe033c0fc50e11f58c73b356ca042381cf94787c68a0647e5df0530b894",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/To The Stars Academy.md": {
+    "humanized_at": "2026-09-26T00:07:58Z",
+    "sha256": "42197293f7af7a0a0a515043db52d0385bffbfeb1cea1659fca39983dff04e1a",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/U.S. Army Foreign Technology Division.md": {
+    "humanized_at": "2026-09-26T00:07:58Z",
+    "sha256": "bef0ac25e1e899a33179d92de080c39f6b07c357449a88ca01f8270e9177c918",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/U.S. National Committee on Tunneling Technology.md": {
+    "humanized_at": "2026-09-26T00:09:17Z",
+    "sha256": "d873419e59e4eed900666ff518bdf89cce1f7b0659369126bdbc1d7fdc45a704",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/UAP Caucus.md": {
+    "humanized_at": "2026-09-26T00:09:17Z",
+    "sha256": "b3979fba18f00c5718bdfc8bae827342b45faa727ad2cdc215163b52c8a3ded0",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/UAP Task Force.md": {
+    "humanized_at": "2026-09-26T00:09:17Z",
+    "sha256": "3627fd1b7e42b22acaa4d70987c7df08841ac0af0a2e9aca1c4b939324d231bf",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/UAP-X.md": {
+    "humanized_at": "2026-09-26T00:09:17Z",
+    "sha256": "141d2aad65511d1b925dba96f9cbb1615310064af7234d0b913f44ac02144f11",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/UFO Invasions.md": {
+    "humanized_at": "2026-09-26T00:09:18Z",
+    "sha256": "17f48158f65efa06d6878b59f3b2e21fee069a6463f619da73bca4f4a6bb9038",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/UFO VNI.md": {
+    "humanized_at": "2026-09-26T00:09:18Z",
+    "sha256": "f4718a6b276ed077ec72c9434c5ad214e534aefe5eb27ffd537087299fd99561",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/UFO Working Group.md": {
+    "humanized_at": "2026-09-26T00:09:18Z",
+    "sha256": "3ff309b86b8e60a91627aacd9a10f9d5887c511b8b5764a550a74fcba0f9c4ff",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/US 6th Fleet.md": {
+    "humanized_at": "2026-09-26T00:09:18Z",
+    "sha256": "0289cc22bb54decf95cb92a82ca07a1774940430dbeac67c28bf3eca606b4200",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/US Air Force.md": {
+    "humanized_at": "2026-09-26T00:09:18Z",
+    "sha256": "9f20380ad8a56278f0e74c823064ab90f4b789caa1216b32e5f009d223cec2bb",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/US Army 7th Special Forces Group.md": {
+    "humanized_at": "2026-09-26T00:09:19Z",
+    "sha256": "795d1e251e22cd4c201e3f7e84cb4e87ee7b30a6df5ebf43571a14e81400b5d5",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/US Army Corps of Engineers.md": {
+    "humanized_at": "2026-09-26T00:10:36Z",
+    "sha256": "4b15a4939afb540e69a3d1a4b87f8be2c2e3439d1550d8226ac47e997222d758",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/US Army Medical Research Institute of Chemical Defense.md": {
+    "humanized_at": "2026-09-26T00:10:36Z",
+    "sha256": "8a7cf98ece511224bb29691dbd6253d59dc2f89450547375c11846000a06f160",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/US Army Test and Evaluation Command (ATEC).md": {
+    "humanized_at": "2026-09-26T00:10:37Z",
+    "sha256": "c03c0a965a16058d0583c94d83c6cbdb70d0d6c33152e0c2f276264994382dd9",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/US Army.md": {
+    "humanized_at": "2026-09-26T00:10:37Z",
+    "sha256": "2cb4e90c01ee2b7fbec7803785a9cc62a0c0e0d217a29ba77ffc26b75f19c8cd",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/US Congress.md": {
+    "humanized_at": "2026-09-26T00:10:37Z",
+    "sha256": "3453cb416bbf7167c2f09bde2125a9381fd6f7fe6823af93ed24b195e96a089b",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/US Hydrographic Bureau.md": {
+    "humanized_at": "2026-09-26T00:10:37Z",
+    "sha256": "55557147c9a99ea68ca8aadbec1f63405946819679e1843d5efeac137b5e76f5",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/US Navy Blue Angels.md": {
+    "humanized_at": "2026-09-26T00:10:38Z",
+    "sha256": "71f484ff75dad0e6e6f11c17c1ce60e39c0a98ba97ec8b762dc853556a84d212",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/US Navy.md": {
+    "humanized_at": "2026-09-26T00:10:38Z",
+    "sha256": "f4eb2a7dd104a55dcbc2372f1c3dd83d1318d69d2bdc2ca9a0441414704d6f36",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/US Northern Command.md": {
+    "humanized_at": "2026-09-26T00:10:38Z",
+    "sha256": "ef80e008a2aa89c26d9e512cfce1a266f826acb5799d6810d224e27738b5d4fd",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/US SOUTHCOM.md": {
+    "humanized_at": "2026-09-26T00:10:38Z",
+    "sha256": "29b181d2405d7fad0688c262fc0e676b218f397abf6ddb3bba6ad22e74382509",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/US Space Force.md": {
+    "humanized_at": "2026-09-26T00:12:58Z",
+    "sha256": "71fddb6a0095539c5fdc104cecec47f43175ee6594f7d988646c8cb185feeef9",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/USAF 1127th Field Activities Group.md": {
+    "humanized_at": "2026-09-26T00:12:58Z",
+    "sha256": "5c8f4d07c2148c1a5307d4a636e59acf59986f85045d0980af95d444eabd5de7",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/USAF Scientific Advisory Group.md": {
+    "humanized_at": "2026-09-26T00:12:58Z",
+    "sha256": "b0f5587c6f91b19ff0a6c7b61199c20e80e6e1cddf4c63d40d856b7407e5cc1a",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Under Secretary of Defense for Acquisition and Sustainment (USD A&S).md": {
+    "humanized_at": "2026-09-26T00:12:59Z",
+    "sha256": "3e4be12ed579642d457edd76fc5de6703dd595388f024fc32d72edb4df1dc736",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/United States Marine Corps.md": {
+    "humanized_at": "2026-09-26T00:12:59Z",
+    "sha256": "a6f5636b749ecc4e5aec0ab30e331afc3afcee04631f08737f3bd91ff6f14cc7",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/University of Albany.md": {
+    "humanized_at": "2026-09-26T00:12:59Z",
+    "sha256": "ff87a1bb185e484c9221689ea567fe12497483c4047ef9522e07320313ccf1c1",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/University of California, Berkeley.md": {
+    "humanized_at": "2026-09-26T00:12:59Z",
+    "sha256": "b7ff1e2cc80e2a487ad71c5ad5c3dfeb903c1ceb8c59a074337a2a3d67d46344",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/University of Minnesota.md": {
+    "humanized_at": "2026-09-26T00:13:00Z",
+    "sha256": "cb20eb8190c6c1fb42f29b9bc11e268bd83e75dfeda3bc070a25ecb9915ae2d3",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/VMA-513.md": {
+    "humanized_at": "2026-09-26T00:13:00Z",
+    "sha256": "5a3fa27554b52c89cd6930de77809ff5cfbd006f2a346be4cccc41abe9d0e51e",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Vatican.md": {
+    "humanized_at": "2026-09-26T00:13:00Z",
+    "sha256": "ab0004291702e1579197fd2996e5558ead6654ccf3fbf2d7a092f23dd4b08da1",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Wackenhut Services.md": {
+    "humanized_at": "2026-09-26T00:13:00Z",
+    "sha256": "97c3a1a8fdc7195479b024c4ca5d02472baf750ec491daed4b38cf7ff6d11418",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/West Desert Test Center.md": {
+    "humanized_at": "2026-09-26T00:13:01Z",
+    "sha256": "5d1aa24c93fd34950a7a428a38a54344c4a6e489955413b953e0e202222c75d9",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Western Electric.md": {
+    "humanized_at": "2026-09-26T00:13:01Z",
+    "sha256": "3df31f47bd2fe701e51b675269b66ca6aba397b549ceedcdd7a55cf20bf8ed91",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/White House Army Signaling Agency.md": {
+    "humanized_at": "2026-09-26T00:13:01Z",
+    "sha256": "1ab3b50b47e35380f0e49998590baf28cb3ad37434d778092474e85f20d83d24",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/WikiLeaks.md": {
+    "humanized_at": "2026-09-26T00:13:01Z",
+    "sha256": "a412f779fa90681b5949e75b12686740133cab526ce7857e2c28185096218d0f",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Woods Hole Oceanographic Institution.md": {
+    "humanized_at": "2026-09-26T00:13:02Z",
+    "sha256": "26092ecd03f6e23105367458e8a283376d12f5d1608fd23c86e80c8ecb17e74c",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Y-12 Complex.md": {
+    "humanized_at": "2026-09-26T00:13:02Z",
+    "sha256": "05cdea0bc7ea08ca983dabef078a99b956d6cb7e9b79fd7c50557b93d8119230",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",

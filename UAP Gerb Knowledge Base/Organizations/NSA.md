@@ -5,8 +5,8 @@ tags:
   - organization
 ---
 
-Alleged to operate a clandestine facility beneath the Sugar Grove Naval Communication Center in West Virginia
+The NSA is an intelligence agency under the oversight of the USD/INS.
 
-One of three agencies alleged to manage the TR3B program
+It is alleged to operate a clandestine facility beneath the Sugar Grove Naval Communication Center in West Virginia.
 
-Intelligence agency under oversight of USD/INS
+It is also one of three agencies alleged to manage the TR3B program.

@@ -8,7 +8,7 @@ tags:
 
 ## UAP Significance
 
-A witness known as TB, featured in UAP Gerb's video on the [[Off-World Technologies Division]], said a US Army general showed classified UAP-derived cloaking technology to a BAE Systems employee in 2004, and was then investigated, demoted a star and forced to retire. UAP Gerb identifies the general as [[John M. Riggs]], and later suggested that Riggs may also be the [[Infographic Show Whistleblower]].
+A witness known as TB appears in UAP Gerb's video on the [[Off-World Technologies Division]]. TB said that in 2004 a US Army general showed classified cloaking technology derived from UAP to a BAE Systems employee, and that the general was then investigated, demoted by one star and forced to retire. Gerb identifies the general as [[John M. Riggs]], and later suggested that Riggs may also be the [[Infographic Show Whistleblower]].
 
 ## Sources
 

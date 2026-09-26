@@ -5,15 +5,15 @@ tags:
   - organization
 ---
 
-The Lockheed Martin Advanced Technology Center (ATC) is an advanced research and development organization within [[Lockheed Martin]] that has conducted work across optics, nanotechnology, space sciences, guidance systems, and exotic propulsion physics. It was later restructured and renamed STAR. The ATC is significant in UAP research both for its institutional work on [[Zero Point Energy]] propulsion and for its connection to the attempted [[Kona Blue]] material transfer.
+The Lockheed Martin Advanced Technology Center (ATC) is an advanced research and development organization within [[Lockheed Martin]]. It has worked on optics, nanotechnology, space sciences, guidance systems and exotic propulsion physics, and was later restructured and renamed STAR. In UAP research, the ATC matters for two reasons: its institutional work on [[Zero Point Energy]] propulsion, and its connection to the attempted [[Kona Blue]] material transfer.
 
 ## Zero Point Energy Research
 
-In 1998, astrophysicist [[Bernard Haisch]] and physicist [[Hal Puthoff]] co-authored a paper published under the ATC's institutional umbrella focused on [[Zero Point Energy]] of the quantum vacuum. The paper examined one or more resonant frequencies potentially associated with quantum vacuum interaction for propulsion purposes. This constitutes published, institutional evidence that Lockheed Martin conducted research at the ATC level into exotic propulsion physics with potential UAP technology applications — paralleling the theoretical framework later cited by inventor [[Sal Pais]] in his 2017 Navy patent for a triangular craft utilizing quantum vacuum interactions for anti-gravitational capabilities.
+In 1998, astrophysicist [[Bernard Haisch]] and physicist [[Hal Puthoff]] co-authored a paper on the [[Zero Point Energy]] of the quantum vacuum, published under the ATC's name. The paper looked at one or more resonant frequencies that might be tied to interaction with the quantum vacuum, with propulsion in mind. It is published, institutional evidence that Lockheed Martin researched exotic propulsion physics at the ATC, with possible applications to UAP technology. The paper parallels the theoretical framework that inventor [[Sal Pais]] later cited in his 2017 Navy patent for a triangular craft that uses quantum vacuum interactions for anti-gravitational capabilities.
 
 ## Kona Blue Connection
 
-The ATC was also the organizational home of [[James T. Ryder]], a Lockheed Martin Vice President who between 2008 and 2011 attempted to transfer recovered nonhuman craft materials held by Lockheed since the 1950s to the DIA's [[AAWSAP]] program via a proposed waived USAP called [[Kona Blue]]. Ryder's position within the ATC — which covered guidance systems and advanced space sciences — positioned him as the Lockheed executive most relevant to both the custody and potential exploitation of recovered craft materials.
+[[James T. Ryder]], a Lockheed Martin Vice President, was also based at the ATC. Between 2008 and 2011 he attempted to transfer recovered nonhuman craft materials, held by Lockheed since the 1950s, to the [[AAWSAP]] program of the Defense Intelligence Agency (DIA). The transfer was to go through [[Kona Blue]], a proposed waived Unacknowledged Special Access Program (USAP). Because the ATC covered guidance systems and advanced space sciences, Ryder's position there made him the Lockheed executive most relevant to both the custody and the possible exploitation of recovered craft materials.
 
 ## Sources
 

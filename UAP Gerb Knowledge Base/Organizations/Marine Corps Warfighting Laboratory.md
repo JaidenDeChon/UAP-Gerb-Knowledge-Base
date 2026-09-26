@@ -5,13 +5,13 @@ tags:
   - organization
 ---
 
-The Marine Corps Warfighting Laboratory (MCWL) is a United States Marine Corps organization responsible for exploring, developing, and testing experimental methods, equipment, and tactics to enhance the combat effectiveness of Marine units. Established in the mid-1990s, MCWL conducts advanced warfighting experiments to evaluate new technologies and doctrinal concepts.
+The Marine Corps Warfighting Laboratory (MCWL) is a United States Marine Corps organization that explores, develops and tests experimental methods, equipment and tactics meant to make Marine units more effective in combat. Set up in the mid-1990s, it runs advanced warfighting experiments to try out new technologies and ideas about doctrine.
 
 ## Hunter Warrior Experiment
 
-MCWL's most UAP-significant undertaking was the [[Hunter Warrior Advanced Warfighting Experiment]], conducted from approximately March 2-14, 1997, at the [[Marine Corps Air Ground Combat Center 29 Palms]] in Southern California. At the time, Hunter Warrior was the largest experiment conducted by the newly renamed laboratory. The experiment explored dispersed battlefield tactics, C4I digital communications networks, and enhanced fire support targeting through three phases of operations involving experimental special-purpose marine air-ground task forces.
+The MCWL project that matters most for UAP research is the [[Hunter Warrior Advanced Warfighting Experiment]], held from about March 2-14, 1997, at the [[Marine Corps Air Ground Combat Center 29 Palms]] in Southern California. It was the largest experiment the newly renamed laboratory had run up to that time. Over three phases of operations, experimental special-purpose Marine air-ground task forces tested dispersed battlefield tactics, C4I digital communications networks and improved targeting for fire support.
 
-During this experiment, [[Rodrik Castle]] of [[VMA-513 Flying Nightmares]] witnessed a triangular craft and clandestine armed operators, an incident central to UAP Gerb's theories about UFO legacy program operations conducted alongside acknowledged military exercises.
+During the experiment, [[Rodrik Castle]] of [[VMA-513 Flying Nightmares]] witnessed a triangular craft and clandestine armed operators. The incident is central to Gerb's theories that UFO legacy programs carry out operations alongside acknowledged military exercises.
 
 ## Sources
 

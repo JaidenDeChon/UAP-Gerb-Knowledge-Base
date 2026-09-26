@@ -5,33 +5,33 @@ tags:
   - organization
 ---
 
-BDM International was an American defense research and consulting contractor that played a significant role in multiple classified government programs during the Cold War and post-Cold War era. The company was eventually acquired by TRW and subsequently absorbed into Northrop Grumman. BDM is notable in UAP research for its connections to the classified "Advanced Theoretical Physics Conference" and its contract work on deep underground facility systems.
+BDM International was an American defense research and consulting contractor that had a significant role in several classified government programs during and after the Cold War. TRW later acquired the company, and it was then absorbed into Northrop Grumman. In UAP research, BDM is known for hosting the classified "Advanced Theoretical Physics Conference" and for its contract work on deep underground facility systems.
 
 ## Advanced Theoretical Physics Conference (1985)
 
-BDM International hosted the classified "Advanced Theoretical Physics Conference" at a secure facility in McLean, Virginia from May 20–25, 1985. The conference — whose notes were released by attendee Oke Shannon, formerly manager for special projects at Los Alamos National Laboratory — discussed multiple aspects of UFOs, including legacy programs and a "major engineering project" under [[Bobby Ray Inman]]. The conference used Department of Energy security controls, suggesting that classification under the nuclear materials framework was used to secure UAP-related information.
+BDM International hosted the classified "Advanced Theoretical Physics Conference" from May 20–25, 1985, at a secure facility in McLean, Virginia. Notes from the conference were released by Oke Shannon, an attendee who had been manager for special projects at Los Alamos National Laboratory. The conference discussed several aspects of UFOs, including legacy programs and a "major engineering project" under [[Bobby Ray Inman]]. It ran under Department of Energy security controls, which suggests that UAP-related information was being protected by classifying it under the nuclear materials framework.
 
-Key figures connected to this conference include:
-- **[[Albert Stubblebine]]** — Vice President of BDM at the time, and former Commanding General of Army INSCOM
-- **[[John B. Alexander]]** — credited with spearheading the working group that organized the conference, had reported directly to Stubblebine at INSCOM from 1982–1983
+People connected to the conference include:
+- [[Albert Stubblebine]], vice president of BDM at the time and former Commanding General of Army INSCOM
+- [[John B. Alexander]], who is credited with leading the working group that organized the conference. He had reported directly to Stubblebine at INSCOM from 1982–1983.
 
 ## ICBM Deep Basing and Tunnel Research
 
-In 1985, BDM was awarded a contract to conduct an "intercontinental ballistic missile deep basing communication study." This contract for underground missile system communications overlaps temporally with the Advanced Theoretical Physics Conference and Stubblebine's tenure at BDM. UAP Gerb notes the potential intersection of this ICBM deep basing work with UFO legacy program underground facilities.
+In 1985, BDM was awarded a contract for an "intercontinental ballistic missile deep basing communication study." The contract, which covered communications for underground missile systems, falls in the same period as the Advanced Theoretical Physics Conference and Stubblebine's time at BDM. Gerb points out a possible overlap between this ICBM deep basing work and the underground facilities of UFO legacy programs.
 
 ## High-Speed Ground Transportation Research
 
-TRW — later absorbed by Northrop Grumman along with BDM — had been involved in underground transportation studies since at least 1968, including a 1967 study titled "Abstracts of Concepts of High-Speed Ground Transportation Systems" and a 1970 study titled "State-of-the-Art Tube Vehicle System" discussing tube systems and tunnels up to 3,000 feet underground with trains traveling at 450 mph.
+TRW, which Northrop Grumman later absorbed along with BDM, had worked on underground transportation studies since at least 1968. These included a 1967 study titled "Abstracts of Concepts of High-Speed Ground Transportation Systems" and a 1970 study titled "State-of-the-Art Tube Vehicle System", which discussed tube systems and tunnels up to 3,000 feet underground with trains traveling at 450 mph.
 
 ## Acquisition and Legacy
 
-BDM was acquired by TRW, which was itself later purchased by Northrop Grumman. UAP Gerb identifies this acquisition chain as significant: key personnel and program knowledge from BDM's classified work would have transitioned into TRW and then Northrop Grumman, contributing to what UAP Gerb characterizes as Northrop Grumman's central role in current UFO legacy programs.
+BDM was acquired by TRW, which Northrop Grumman later bought. Gerb identifies this chain of acquisitions as significant. In his account, key personnel and program knowledge from BDM's classified work would have passed to TRW and then to Northrop Grumman, contributing to what he describes as Northrop Grumman's central role in current UFO legacy programs.
 
 ## Rear Admiral Sumner Shapiro and the ET Vehicles Disclosure
 
-[[Sumar Shapiro|Rear Admiral Sumner Shapiro]] — former Director of Naval Intelligence — served as a BDM International board member. In 1989, Shapiro told NASA mission specialist [[Bob Echler|Bob Oechsler]] (an introduction arranged by [[Bobby Ray Inman]], then SAIC board member and former NSA Director) that factions within the US possessed extraterrestrial vehicles and that he had personally studied one at close quarters. Shapiro described teams disassembling the craft, packing them up, and shipping them to different facilities, noting the craft featured unique interlocking components requiring disassembly in an exact sequence.
+[[Sumar Shapiro|Rear Admiral Sumner Shapiro]], a former Director of Naval Intelligence, sat on the board of BDM International. He was introduced to NASA mission specialist [[Bob Echler|Bob Oechsler]] by [[Bobby Ray Inman]], then an SAIC board member and former NSA Director. In 1989, Shapiro told Oechsler that factions within the US possessed extraterrestrial vehicles and that he had personally studied one at close quarters. He described teams taking the craft apart, packing them up and shipping them to different facilities, and said the craft had unique interlocking components that had to be disassembled in an exact sequence.
 
-The presence of a Director of Naval Intelligence on BDM's board at the time of this disclosure connects BDM institutionally to the highest levels of US Naval intelligence awareness of non-human technology. UAP Gerb notes that Northrop Grumman maintains a major corporate presence near BDM's former headquarters in Tyson Corner, Virginia.
+With a Director of Naval Intelligence on its board at the time of this disclosure, BDM had an institutional link to the highest levels of US Naval intelligence awareness of non-human technology. Gerb notes that Northrop Grumman has a major corporate presence near BDM's former headquarters in Tyson Corner, Virginia.
 
 ## Sources
 

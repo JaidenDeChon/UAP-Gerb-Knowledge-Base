@@ -4,14 +4,14 @@ tags:
   - organization
 ---
 
-The Massachusetts Institute of Technology (MIT) is a US research university in Cambridge, Massachusetts, with long-standing ties to federal defense and aerospace research through affiliated laboratories, technical partnerships, and military-funded programs. In UAP-related discourse, MIT is frequently referenced in relation to classified propulsion, materials, and systems engineering research ecosystems rather than as a publicly declared UAP program sponsor.
+The Massachusetts Institute of Technology (MIT) is a US research university in Cambridge, Massachusetts, with long-standing ties to federal defense and aerospace research through affiliated laboratories, technical partnerships, and military-funded programs. In discussions of UAPs, MIT comes up most often in connection with classified research on propulsion, materials, and systems engineering. It is not named as a publicly declared sponsor of any UAP program.
 
-In this knowledge base, MIT is cited in testimony linked to [[Hanscom Air Force Base, Massachusetts]], where witness accounts allege collaboration on advanced foreign military asset analysis during the early 2000s. These claims are presented in-source as context from witness testimony and historical UFO literature, not as independently verified institutional admissions by MIT.
+In this knowledge base, MIT appears in testimony about [[Hanscom Air Force Base, Massachusetts]]. Witness accounts allege that MIT collaborated there on the analysis of advanced foreign military assets during the early 2000s. The source presents these claims as context from witness testimony and historical UFO literature; it does not present them as independently verified admissions by MIT as an institution.
 
 ## Related Activity
 
-- Associated in witness narratives with technical work streams connected to [[Hanscom Air Force Base, Massachusetts]].
-- Mentioned alongside military and contractor entities in discussions of compartmentalized aerospace programs.
+- Linked in witness accounts to technical work at [[Hanscom Air Force Base, Massachusetts]].
+- Named alongside military organizations and contractors in discussions of compartmentalized aerospace programs.
 
 ## Sources
 

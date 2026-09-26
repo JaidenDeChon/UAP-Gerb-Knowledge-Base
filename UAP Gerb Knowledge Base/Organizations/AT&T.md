@@ -5,27 +5,27 @@ tags:
   - organization
 ---
 
-AT&T (American Telephone and Telegraph Company) is an American telecommunications conglomerate and one of the largest technology corporations in US history. In UAP research, AT&T is notable for its 1949–1993 management of [[Sandia National Laboratories]] under contract from the US government, and for alleged connections to non-human intelligence (NHI) technology transfers documented in [[Steven Greer]]'s Disclosure Project archives.
+AT&T (American Telephone and Telegraph Company) is an American telecommunications conglomerate and one of the largest technology corporations in US history. It comes up in UAP research for two reasons. It managed [[Sandia National Laboratories]] under a US government contract from 1949 to 1993, and entries in [[Steven Greer]]'s Disclosure Project archives allegedly connect it to transfers of non-human intelligence (NHI) technology.
 
 ## Management of Sandia National Laboratories
 
-In 1949, President Harry Truman transferred managerial responsibility for [[Sandia National Laboratories]] — situated on the property of [[Kirtland Air Force Base, New Mexico]] — to AT&T. AT&T retained this management role until 1993, when control passed to [[Lockheed Martin]]. Sandia during this period operated as the primary engineering laboratory of the US nuclear weapons complex and conducted advanced research across multiple classified domains.
+In 1949, President Harry Truman handed management of [[Sandia National Laboratories]], which is located on the property of [[Kirtland Air Force Base, New Mexico]], to AT&T. AT&T kept that role until 1993, when control passed to [[Lockheed Martin]]. During those years Sandia was the main engineering laboratory of the US nuclear weapons complex, and it carried out advanced research in several classified fields.
 
-The relevance to UAP programs stems from the alleged [[Majestic 12]] Eisenhower Briefing Document's claim that material recovered from a December 6, 1950 UAP crash near [[El Indio, Texas]] was transported to the Atomic Energy Commission's Sandia facility for study. If material from a non-human craft arrived at Sandia in late 1950, AT&T would have been managing the facility at that time. The 2024 National Defense Authorization Act (NDAA) language specifically identified the Atomic Energy Commission as an entity historically used to misclassify and obfuscate UAP information.
+The link to UAP programs comes from the alleged [[Majestic 12]] Eisenhower Briefing Document. It claims that material recovered from a UAP crash near [[El Indio, Texas]] on December 6, 1950, was taken to the Atomic Energy Commission's Sandia facility for study. If material from a non-human craft did reach Sandia in late 1950, AT&T would have been managing the facility at the time. The language of the 2024 National Defense Authorization Act (NDAA) specifically names the Atomic Energy Commission as a body historically used to misclassify and obscure UAP information.
 
 ## Alleged NHI Technology Transfers
 
-[[Steven Greer]]'s Disclosure Project witness archive contains two redacted entries describing alleged ET/NHI technology transfers to AT&T:
-- One entry describes a witness from the AEC with knowledge of ET technology transfer to AT&T.
-- A second entry describes a president of an unnamed organization with knowledge of an ET technology transfer program to AT&T, noting the individual "may have useful pseudonyms" and "knows about the ET technology transfer program."
+Two redacted entries in [[Steven Greer]]'s Disclosure Project witness archive describe alleged ET/NHI technology transfers to AT&T:
+- One describes a witness from the Atomic Energy Commission (AEC) who knew about ET technology transfer to AT&T.
+- The other describes a president of an unnamed organization who knew about an ET technology transfer program to AT&T. It notes that this person "may have useful pseudonyms" and "knows about the ET technology transfer program."
 
 ## AT&T and the Transistor
 
-AT&T Bell Labs developed the transistor in the late 1940s — a technological breakthrough with implications for the development of modern electronics. In UAP research contexts, the timing of this development alongside alleged EBE technology recoveries in the late 1940s has been noted by researchers, including UAP Gerb, as suggestive of potential technology transfer — though no direct evidence has been established.
+AT&T Bell Labs developed the transistor in the late 1940s, a breakthrough with implications for the development of modern electronics. Some UAP researchers, Gerb among them, have noted that this happened at the same time as alleged recoveries of EBE technology in the late 1940s, and see the timing as a possible sign of technology transfer. No direct evidence of such a transfer has been established.
 
 ## Sandia Transition to Lockheed Martin
 
-AT&T's management of Sandia concluded in 1993, when [[Lockheed Martin]] assumed the management contract. UAP Gerb has cited this transition as part of a broader pattern connecting the El Indio crash chain: material sent to Sandia (under AT&T management), alleged technology transfers to AT&T, and Sandia's subsequent transition to Lockheed Martin — the same company whose reverse-engineering programs have been discussed in connection with UAP legacy programs.
+AT&T's management of Sandia ended in 1993, when [[Lockheed Martin]] took over the management contract. Gerb has cited this handover as part of a wider pattern in the chain of events that follows the El Indio crash. Material was sent to Sandia while AT&T managed it, technology was allegedly transferred to AT&T, and Sandia later passed to Lockheed Martin. Lockheed Martin's reverse-engineering programs have been discussed in connection with UAP legacy programs.
 
 ## Sources
 

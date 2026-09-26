@@ -5,11 +5,11 @@ tags:
   - organization
 ---
 
-The 1st Battalion, 228th Aviation Regiment (1-228th Aviation) is a US Army aviation unit assigned to [[Joint Task Force Bravo]], a [[US SOUTHCOM]] forward-based expeditionary task force. During the 1990s, the regiment was headquartered in Panama and Honduras and maintained a fleet of helicopters including CH-47 Chinooks. The 1-228th provided aviation support for SOUTHCOM operations throughout Central and South America, including counter-narcotics missions and support during the 1995 Peru-Ecuador border dispute alongside the [[US Army 7th Special Forces Group]].
+The 1st Battalion, 228th Aviation Regiment (1-228th Aviation) is a US Army aviation unit assigned to [[Joint Task Force Bravo]], a forward-based expeditionary task force of [[US SOUTHCOM]]. In the 1990s the regiment was headquartered in Panama and Honduras, and its helicopter fleet included CH-47 Chinooks. The 1-228th flew in support of SOUTHCOM operations across Central and South America. This work included counter-narcotics missions and, alongside the [[US Army 7th Special Forces Group]], support during the 1995 Peru-Ecuador border dispute.
 
 ## Theorized Role in the Peru UFO Crash Retrieval
 
-UAP Gerb theorizes that CH-47 Chinooks from 1-228th Aviation were used to transport the [[NEST (Nuclear Emergency Support Team)|DOE NEST]] retrieval team and their equipment to the 1997 [[Peru UFO Crash Incident|Peru crash site]]. The 1-228th is favored as the helicopter source over the [[160th Special Operations Aviation Regiment|160th Special Operations Aviation Regiment]] because of its provable CH-47 assets in the SOUTHCOM theater at the time. NEST's documented Department of Defense authority to commandeer military aircraft for emergency deployments supports this theory.
+Gerb theorizes that CH-47 Chinooks from 1-228th Aviation carried the [[NEST (Nuclear Emergency Support Team)|DOE NEST]] retrieval team and its equipment to the 1997 [[Peru UFO Crash Incident|Peru crash site]]. The theory favors the 1-228th over the [[160th Special Operations Aviation Regiment|160th Special Operations Aviation Regiment]] as the source of the helicopters because its CH-47s can be shown to have been in the SOUTHCOM theater at the time. NEST's documented Department of Defense authority to commandeer military aircraft for emergency deployments supports this theory.
 
 ## Sources
 

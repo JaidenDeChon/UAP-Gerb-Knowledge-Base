@@ -9,9 +9,9 @@ The Air Research and Development Command (ARDC) was the US Air Force major comma
 
 ## Alleged Legacy Program Role
 
-UAP Gerb connects ARDC to the earliest chain of custody for recovered UFO material. According to the channel, wreckage from the 1947 [[Roswell Crash]] went to [[Wright-Patterson Air Force Base]], headquarters of Air Materiel Command, which was first tasked with analysing and housing the Roswell recovery; ARDC then inherited AMC's R&D functions in 1951.
+UAP Gerb connects ARDC to the earliest chain of custody for recovered UFO material. According to the channel, wreckage from the 1947 [[Roswell Crash]] went to [[Wright-Patterson Air Force Base]], the headquarters of Air Materiel Command, which was first tasked with analysing and housing the Roswell recovery. ARDC then inherited AMC's R&D functions in 1951.
 
-In its MITRE investigation, the channel says that in MITRE's formative years ARDC and the [[MITRE Corporation]] were "practically inseparable," working together openly on the [[Semi-Automatic Ground Environment (SAGE)|SAGE]] air defense system and at MITRE's first program office at [[Hanscom Air Force Base, Massachusetts|Hanscom Air Force Base]]. Gerb reckons ARDC played a guiding hand in establishing MITRE in 1958 as a trusted, secure R&D partner to adapt technologies from the Roswell wreckage that had been assessed as exploitable around the crash's ten-year anniversary. It says the chain of custody for the resulting reverse-engineering program ran from ARDC at Wright-Patterson to the US Navy and then to MITRE.
+The channel's MITRE investigation says that in MITRE's early years, ARDC and the [[MITRE Corporation]] were "practically inseparable," working together openly on the [[Semi-Automatic Ground Environment (SAGE)|SAGE]] air defense system and at MITRE's first program office at [[Hanscom Air Force Base, Massachusetts|Hanscom Air Force Base]]. Gerb reckons ARDC had a guiding hand in setting up MITRE in 1958 as a trusted, secure R&D partner. In his account, MITRE's job was to adapt technologies from the Roswell wreckage that had been assessed as exploitable around the crash's ten-year anniversary. The channel says the chain of custody for the resulting reverse-engineering program ran from ARDC at Wright-Patterson to the US Navy, and then to MITRE.
 
 ## Sources
 

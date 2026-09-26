@@ -5,7 +5,7 @@ tags:
   - organization
 ---
 
-The U.S. Air Force Test Pilot School (TPS) at [[Edwards Air Force Base]], California, is operated by the [[Air Force Test Center]]. It is where the Air Force's top pilots, navigators and engineers learn to conduct flight tests and produce the data test missions need. With the U.S. Naval Test Pilot School at Naval Air Station Patuxent River, it is one of the two main American military test pilot schools.
+The U.S. Air Force Test Pilot School (TPS) at [[Edwards Air Force Base]], California, is operated by the [[Air Force Test Center]]. It is where the Air Force's top pilots, navigators and engineers learn to conduct flight tests and produce the data that test missions need. With the U.S. Naval Test Pilot School at Naval Air Station Patuxent River, it is one of the two main American military test pilot schools.
 
 ## In UAP research
 

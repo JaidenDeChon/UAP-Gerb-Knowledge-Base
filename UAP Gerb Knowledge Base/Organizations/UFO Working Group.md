@@ -22,9 +22,9 @@ Corso also claimed the group received funding through the US Army's Intelligence
 
 ## Significance in UAP research
 
-UAP Gerb singles out the presence of the CIA's Directorate of Science and Technology, which several researchers, among them [[Eric Davis]] and journalist [[Christopher Sharp]], describe as the place where the government's "UFO portfolio" is held. Gerb links the group to later developments he attributes to the same institutions: former DS&T deputy director [[Doug Wolfe]]'s role in creating the [[CIA Office of Global Access]] in 2003, which Sharp has accused of acting as a logistics coordinator for crash retrievals with [[JSOC (Joint Special Operations Command)|JSOC]], and INSCOM's Intelligence Support Activity passing to JSOC the same year. He likens the working group's cross-agency make-up to the structure attributed to [[Majestic 12]].
+Gerb singles out the presence of the CIA's Directorate of Science and Technology, which several researchers, among them [[Eric Davis]] and journalist [[Christopher Sharp]], describe as the place where the government's "UFO portfolio" is held. Gerb links the group to later developments he attributes to the same institutions: former DS&T deputy director [[Doug Wolfe]]'s role in creating the [[CIA Office of Global Access]] in 2003, which Sharp has accused of acting as a logistics coordinator for crash retrievals with [[JSOC (Joint Special Operations Command)|JSOC]], and INSCOM's Intelligence Support Activity passing to JSOC the same year. He likens the working group's cross-agency make-up to the structure attributed to [[Majestic 12]].
 
-Gerb also notes what the list leaves out. Although he considers the Navy deeply involved in UFO legacy programs, Corso's account of the group names no Navy members.
+Gerb also points out that Corso's account of the group names no Navy members, although he considers the Navy deeply involved in UFO legacy programs.
 
 ## Sources
 
