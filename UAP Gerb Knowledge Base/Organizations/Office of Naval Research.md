@@ -10,7 +10,7 @@ The Office of Naval Research (ONR) is the US Navy's science and technology agenc
 
 ## Alleged role in naval UFO programs
 
-In UAP Gerb's four-pillar model of Navy UFO legacy programs (monitor, collect, store and exploit), ONR is the **store** stage. Craft retrieved at sea by the [[National Underwater Reconnaissance Office]], the [[CIA Directorate of Science and Technology]], [[SOCOM]] and contractor submersibles are allegedly taken to ONR locations. From there they are passed, through [[Federally Funded Research and Development Center (FFRDC)|FFRDCs]] and university-affiliated research centers, to defense contractors. Gerb theorises that naval programs are run out of ONR and the [[Office of Naval Intelligence]].
+In Gerb's four-pillar model of Navy UFO legacy programs (monitor, collect, store and exploit), ONR is the store stage. Craft retrieved at sea by the [[National Underwater Reconnaissance Office]], the [[CIA Directorate of Science and Technology]], [[SOCOM]] and contractor submersibles are allegedly taken to ONR locations. From there they are passed, through [[Federally Funded Research and Development Center (FFRDC)|FFRDCs]] and university-affiliated research centers, to defense contractors. Gerb theorises that naval programs are run out of ONR and the [[Office of Naval Intelligence]].
 
 Gerb links several witness accounts to this pipeline:
 
