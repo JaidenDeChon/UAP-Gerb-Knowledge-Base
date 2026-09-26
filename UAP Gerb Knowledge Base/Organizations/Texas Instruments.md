@@ -8,7 +8,7 @@ tags:
 
 ## UAP Significance
 
-The [[Infographic Show Whistleblower]] names TI as an example of the "little guys" in the program's co-op network: "some guys from TI would get a piece of something and then be asked to figure out how it works, never being told where it came from." UAP Gerb could find only one link between TI and the subject: the research center founded in 1961 by TI's leaders, later the Southwest Center for Advanced Studies, which he says worked on gravitational physics.
+The [[Infographic Show Whistleblower]] names TI as an example of the "little guys" in the program's co-op network: "some guys from TI would get a piece of something and then be asked to figure out how it works, never being told where it came from." Gerb could find only one link between TI and the subject: the research center founded in 1961 by TI's leaders, later the Southwest Center for Advanced Studies, which he says worked on gravitational physics.
 
 ## Sources
 
