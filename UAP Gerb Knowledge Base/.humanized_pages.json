@@ -1084,6 +1084,11 @@
     "sha256": "b7ff1e2cc80e2a487ad71c5ad5c3dfeb903c1ceb8c59a074337a2a3d67d46344",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/University of Minnesota.md": {
+    "humanized_at": "2026-09-26T00:13:00Z",
+    "sha256": "cb20eb8190c6c1fb42f29b9bc11e268bd83e75dfeda3bc070a25ecb9915ae2d3",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
