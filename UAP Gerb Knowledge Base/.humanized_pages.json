@@ -759,6 +759,11 @@
     "sha256": "2999b593f00f763a975a7a4b1fda29de15f715c965c5e55d945f209fbc930462",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/RAND Corporation.md": {
+    "humanized_at": "2026-09-26T00:01:55Z",
+    "sha256": "6d23f4a8d47abba6549fb5b451aa066e316ebff0f1552375c81e3bb5ad062934",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
