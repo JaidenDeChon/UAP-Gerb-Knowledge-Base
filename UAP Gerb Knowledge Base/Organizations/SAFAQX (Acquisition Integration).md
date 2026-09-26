@@ -9,7 +9,7 @@ SAF/AQX, the Directorate of Acquisition Integration, is the office under the Ass
 
 ## Role in the Hidden Wing thesis
 
-UAP Gerb's *The Hidden Wing* describes SAF/AQX as "the lubricant that helps a well-oiled machine run", the administrative and funds-release layer beside the two directorates he believes actually coordinate clandestine RDT&E special access programs, [[SAFAQL (Special Programs)|SAF/AQL]] and [[SAFAQR (Science, Technology and Engineering)|SAF/AQR]]. Gerb says it is a less obvious target than those two, but that testimony he has gathered from individuals with experience of Air Force legacy programs names AQX specifically. The video also relays witness Ed's claim that, while he served at the Pentagon in connection with SAF/AQ, 30 to 40 percent of Air Force total obligation authority was diverted into the black budget before Air Force financial management could assess it.
+In *The Hidden Wing*, Gerb describes SAF/AQX as "the lubricant that helps a well-oiled machine run". In his account it is the administrative and funds-release layer beside [[SAFAQL (Special Programs)|SAF/AQL]] and [[SAFAQR (Science, Technology and Engineering)|SAF/AQR]], the two directorates he believes actually coordinate clandestine RDT&E special access programs. Gerb says AQX is a less obvious target than those two, but that testimony he has gathered from people with experience of Air Force legacy programs names it specifically. The video also relays witness Ed's claim that, while he served at the Pentagon in connection with SAF/AQ, 30 to 40 percent of Air Force total obligation authority was diverted into the black budget before Air Force financial management could assess it.
 
 ## Sources
 
