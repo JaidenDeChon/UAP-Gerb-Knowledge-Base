@@ -1009,6 +1009,11 @@
     "sha256": "8a7cf98ece511224bb29691dbd6253d59dc2f89450547375c11846000a06f160",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/US Army Test and Evaluation Command (ATEC).md": {
+    "humanized_at": "2026-09-26T00:10:37Z",
+    "sha256": "c03c0a965a16058d0583c94d83c6cbdb70d0d6c33152e0c2f276264994382dd9",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
