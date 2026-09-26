@@ -839,6 +839,11 @@
     "sha256": "34050a8ed85a6c8ad8a75912019b4f133ba7ab0de55c9d7c306c8302ea0bac98",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/SOCOM.md": {
+    "humanized_at": "2026-09-26T00:04:31Z",
+    "sha256": "c5f04157d47ecccd4146068c63173d90b91b2b5128605a7ab4f2b7dece488fc5",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
