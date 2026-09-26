@@ -769,6 +769,11 @@
     "sha256": "472c2be9a31a3951f4f7c55a3286627b69b5530da374ab9c66077fa6d550cbfe",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/RS-33 (Gabinetto RS 33).md": {
+    "humanized_at": "2026-09-26T00:01:56Z",
+    "sha256": "28cef0d0e13e3578f9330660ccc5e593ad5febb40903a6d87b582c257a3d55c5",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
