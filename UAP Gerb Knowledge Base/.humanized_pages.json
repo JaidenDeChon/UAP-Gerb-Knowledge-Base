@@ -779,6 +779,11 @@
     "sha256": "f470f9fa0d77fcf88b02beb1e7f67601065e90c150ce499539dcf83d5ef61217",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/Rapid Capabilities Office (RCO).md": {
+    "humanized_at": "2026-09-26T00:01:56Z",
+    "sha256": "9054eeafa80e0ef253cd243731c33f358a40eebf5563a828f2d49b60e9ae8c33",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
