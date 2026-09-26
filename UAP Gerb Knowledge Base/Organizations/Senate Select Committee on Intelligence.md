@@ -5,13 +5,13 @@ tags:
   - organization
 ---
 
-The Senate Select Committee on Intelligence (SSCI) is a U.S. Senate committee responsible for oversight of the United States Intelligence Community. The committee conducts investigations, holds hearings, and exercises legislative and budgetary authority over intelligence operations and agencies.
+The Senate Select Committee on Intelligence (SSCI) is a U.S. Senate committee that oversees the United States Intelligence Community. It holds hearings and investigations, and it has legislative and budgetary authority over intelligence agencies and their operations.
 
 ## UAP-Related Activity
 
-The SSCI allegedly investigated National Reconnaissance Office financials between 1992 and 1995 following declassification, during a period when UAP researchers claim the NRO played a significant role in crash retrieval and surveillance operations. [[Chris Mellon]] served as staff director of the SSCI and worked alongside [[Mary K. Sturdivant]] in that capacity, both of whom later became central figures in UAP disclosure and alleged program access efforts.
+Following declassification, the SSCI allegedly investigated the finances of the National Reconnaissance Office between 1992 and 1995. UAP researchers claim that during this period the NRO played a significant role in crash retrieval and surveillance operations. [[Chris Mellon]] was staff director of the SSCI and worked alongside [[Mary K. Sturdivant]] in that role. Both later became central figures in UAP disclosure and in alleged program access efforts.
 
-During witness testimony about UAP encounters, SSCI members reportedly asked witnesses to arrange for fellow Marines to provide anonymous testimony about related incidents, indicating the committee's active interest in gathering firsthand accounts of military UAP encounters.
+When witnesses testified about UAP encounters, SSCI members reportedly asked them to arrange for fellow Marines to give anonymous testimony about related incidents. The request indicates that the committee was actively interested in gathering firsthand accounts of military UAP encounters.
 
 ## Sources
 
