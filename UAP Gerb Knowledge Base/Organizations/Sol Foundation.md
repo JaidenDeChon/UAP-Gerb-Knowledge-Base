@@ -5,24 +5,24 @@ tags:
   - organization
 ---
 
-The Sol Foundation is a research and educational organization focused on academic study of unidentified aerial phenomena and their implications for science, policy, and society. The foundation hosts symposiums, releases interviews and panel discussions with prominent UAP researchers, and promotes scholarly investigation of the phenomenon.
+The Sol Foundation is a research and educational organization devoted to the academic study of unidentified aerial phenomena and what they mean for science, policy, and society. It hosts symposiums, releases interviews and panel discussions with prominent UAP researchers, and promotes scholarly investigation of the phenomenon.
 
 ## February 2024 Interview Release
 
-On or around February 11, 2024, the Sol Foundation released a series of interviews and panel discussions featuring key figures in UAP research and disclosure efforts, including:
-- [[David Grusch]] — UAP whistleblower who testified before Congress about alleged crash retrieval programs
-- [[Chris Mellon]] — Former Deputy Assistant Secretary of Defense for Intelligence who has advocated for UAP transparency
-- [[Kevin Knuth]] — Professor of Physics who presented research on UAP flight characteristics
+On or around February 11, 2024, the Sol Foundation released a series of interviews and panel discussions with leading figures in UAP research and the push for disclosure, including:
+- [[David Grusch]], a UAP whistleblower who testified before Congress about alleged crash retrieval programs
+- [[Chris Mellon]], a former Deputy Assistant Secretary of Defense for Intelligence who has advocated for UAP transparency
+- [[Kevin Knuth]], a Professor of Physics who presented research on UAP flight characteristics
 
-UAP Gerb referenced this release in his Metapod video, noting his intention to review and analyze these Sol Foundation materials in a subsequent video. The release represented a significant moment in academic UAP discourse, bringing together whistleblowers, former government officials, and scientists in a formal research context.
+Gerb mentioned this release in his Metapod video and said he intended to review and analyze the Sol Foundation materials in a later video. The release was a significant moment in academic UAP discussion, since it brought whistleblowers, former government officials, and scientists together in a formal research setting.
 
 ## November 2023 Symposium
 
-The Sol Foundation hosted a symposium in November 2023 at the Nolan laboratory of the Stanford School of Medicine, featuring presentations from key figures in UAP disclosure including [[Karl Nell]], [[David Grusch]], [[Chris Mellon]], [[Kevin Knuth]], [[Gary Nolan]], and [[Jacques Vallee]].
+In November 2023 the Sol Foundation hosted a symposium at the Nolan laboratory of the Stanford School of Medicine. The speakers included leading figures in UAP disclosure such as [[Karl Nell]], [[David Grusch]], [[Chris Mellon]], [[Kevin Knuth]], [[Gary Nolan]], and [[Jacques Vallee]].
 
 ## Academic Approach
 
-The Sol Foundation represents an effort to bring rigorous academic standards and scholarly credibility to UAP research, positioning the topic as worthy of serious scientific and policy investigation rather than fringe speculation. By hosting events featuring credentialed researchers like Kevin Knuth and government insiders like Grusch and Mellon, the organization seeks to elevate the discourse around unidentified aerial phenomena.
+The Sol Foundation tries to bring rigorous academic standards and scholarly credibility to UAP research, and to present the topic as a subject for serious scientific and policy investigation instead of fringe speculation. Its events bring together credentialed researchers such as Kevin Knuth and government insiders such as Grusch and Mellon, with the aim of raising the standard of discussion about unidentified aerial phenomena.
 
 ## Sources
 
