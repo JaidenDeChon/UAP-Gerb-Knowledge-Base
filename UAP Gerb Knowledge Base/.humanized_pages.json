@@ -934,6 +934,11 @@
     "sha256": "de6b8b526d45dfef38ee90b0cf3e923c64f8ae0939d223215df80a1585fd2cee",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/Third Phase of the Sun.md": {
+    "humanized_at": "2026-09-26T00:07:58Z",
+    "sha256": "a043ffe033c0fc50e11f58c73b356ca042381cf94787c68a0647e5df0530b894",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
