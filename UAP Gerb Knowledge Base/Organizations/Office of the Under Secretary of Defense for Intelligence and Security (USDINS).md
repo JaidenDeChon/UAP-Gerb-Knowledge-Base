@@ -5,4 +5,4 @@ tags:
   - organization
 ---
 
-High-level OSD directorate covering intelligence, counterintelligence, security, and sensitive activities; exercises oversight over DIA, NGA, NRO, and NSA; theorized to be integral to NSC-led UAP legacy programs
+A high-level OSD directorate responsible for intelligence, counterintelligence, security and sensitive activities. It oversees DIA, NGA, NRO and NSA, and is theorized to be integral to NSC-led UAP legacy programs.
