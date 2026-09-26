@@ -1004,6 +1004,11 @@
     "sha256": "4b15a4939afb540e69a3d1a4b87f8be2c2e3439d1550d8226ac47e997222d758",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/US Army Medical Research Institute of Chemical Defense.md": {
+    "humanized_at": "2026-09-26T00:10:36Z",
+    "sha256": "8a7cf98ece511224bb29691dbd6253d59dc2f89450547375c11846000a06f160",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
