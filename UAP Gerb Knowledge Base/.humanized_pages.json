@@ -1059,6 +1059,11 @@
     "sha256": "5c8f4d07c2148c1a5307d4a636e59acf59986f85045d0980af95d444eabd5de7",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/USAF Scientific Advisory Group.md": {
+    "humanized_at": "2026-09-26T00:12:58Z",
+    "sha256": "b0f5587c6f91b19ff0a6c7b61199c20e80e6e1cddf4c63d40d856b7407e5cc1a",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
