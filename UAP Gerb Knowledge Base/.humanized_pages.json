@@ -869,6 +869,11 @@
     "sha256": "e5a89af2f199a42ff75584a9a73508e366c48cbef8367843931f737641bd1730",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/Skywatchers.md": {
+    "humanized_at": "2026-09-26T00:05:48Z",
+    "sha256": "ff3f4b4ac983e1fba84f4cd89e8a24bb41be715ba89d0cbc4d33b4aea241553c",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
