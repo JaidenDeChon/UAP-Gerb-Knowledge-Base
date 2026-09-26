@@ -1074,6 +1074,11 @@
     "sha256": "a6f5636b749ecc4e5aec0ab30e331afc3afcee04631f08737f3bd91ff6f14cc7",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/University of Albany.md": {
+    "humanized_at": "2026-09-26T00:12:59Z",
+    "sha256": "ff87a1bb185e484c9221689ea567fe12497483c4047ef9522e07320313ccf1c1",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
