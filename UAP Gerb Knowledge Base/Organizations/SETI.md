@@ -5,28 +5,28 @@ tags:
   - organization
 ---
 
-SETI (Search for Extraterrestrial Intelligence) is a collective term for scientific research programs dedicated to detecting signs of intelligent life beyond Earth. The contemporary institutional home for most SETI programs is the SETI Institute, a non-profit research organization based in Mountain View, California, founded in 1984. SETI research primarily involves monitoring electromagnetic radiation — particularly radio waves and laser signals — for patterns that would indicate artificial origin. While scientifically mainstream, SETI's foundational methodology is subject to substantive criticism regarding its assumptions and scope.
+SETI (Search for Extraterrestrial Intelligence) is the collective name for scientific research programs that look for signs of intelligent life beyond Earth. Most SETI programs today are based at the SETI Institute, a non-profit research organization founded in 1984 in Mountain View, California. SETI research mainly monitors electromagnetic radiation, particularly radio waves and laser signals, for patterns that would point to an artificial origin. SETI is part of mainstream science, but its basic method draws serious criticism for its assumptions and its scope.
 
 ## Methodology
 
-The dominant SETI approach scans sky regions and individual star systems for narrow-band radio signals — signals that would be unusual in nature and suggest artificial transmission. The approach is premised on the assumption that extraterrestrial civilizations would communicate using radio waves, as Earth did from the mid-20th century onward, and that such signals would be intentionally or incidentally detectable across interstellar distances.
+The most common SETI approach scans regions of the sky and individual star systems for narrow-band radio signals, which would be unusual in nature and suggest an artificial transmission. It assumes that extraterrestrial civilizations would communicate by radio, as Earth has since the mid-20th century, and that their signals, whether sent on purpose or leaked by accident, could be detected across interstellar distances.
 
-Key programs and milestones include:
+Major programs and milestones include:
 
-- **Project Ozma (1960)**: Frank Drake's first systematic radio search for ETI signals, targeting stars Tau Ceti and Epsilon Eridani.
-- **The Wow! Signal (1977)**: A 72-second narrowband radio signal detected by Ohio State University's Big Ear telescope, which matched the expected parameters of an ETI signal but was never repeated or confirmed.
-- **The Phoenix Project and Allen Telescope Array**: Major institutional SETI efforts in subsequent decades.
-- **Breakthrough Listen (2015–present)**: A well-funded private SETI initiative led by the Breakthrough Initiatives, using major observatories to conduct the most comprehensive radio and laser searches to date.
+- Project Ozma (1960): Frank Drake's first systematic radio search for signals from extraterrestrial intelligence (ETI), aimed at the stars Tau Ceti and Epsilon Eridani.
+- The Wow! Signal (1977): a 72-second narrowband radio signal picked up by Ohio State University's Big Ear telescope. It matched the expected parameters of an ETI signal, but it never repeated and was never confirmed.
+- The Phoenix Project and the Allen Telescope Array: major institutional SETI efforts in the decades that followed.
+- Breakthrough Listen (2015–present): a well-funded private SETI initiative led by the Breakthrough Initiatives. It uses major observatories to run the most comprehensive radio and laser searches to date.
 
 ## Criticisms
 
-SETI is subject to several fundamental methodological criticisms:
+SETI's method faces several basic criticisms:
 
-- **Scope**: At any given time, SETI monitors only a narrow conical section of the observable universe — a tiny fraction of even the Milky Way — with finite bandwidth. Absence of detection is statistically meaningless given the vastness of the search space.
-- **Radio-centrism**: The assumption that advanced civilizations communicate via radio may be deeply species-centric. A civilization millions of years more advanced than humanity may use neutrino communication, quantum entanglement, gravitational wave modulation, or methods not yet conceived by human science.
-- **Signal vs. Techno-signature**: Traditional SETI requires that a civilization be intentionally or incidentally transmitting a detectable signal. It cannot detect civilizations that are not broadcasting. [[Dysonian SETI (CTI)]] addresses this by seeking physical techno-signatures (e.g., [[Dyson Sphere]] heat anomalies) that would be detectable regardless of communicative intent.
+- Scope: at any one time, SETI monitors only a narrow cone of the observable universe, a tiny fraction of even the Milky Way, and only across a limited bandwidth. Given how vast the search space is, the absence of a detection is statistically meaningless.
+- Radio-centrism: the assumption that advanced civilizations communicate by radio may be deeply species-centric. A civilization millions of years more advanced than humanity may use neutrino communication, quantum entanglement, modulated gravitational waves, or methods human science has not yet conceived.
+- Signal versus techno-signature: traditional SETI can only find a civilization that is transmitting a detectable signal, on purpose or by accident, so it cannot detect civilizations that are not broadcasting. [[Dysonian SETI (CTI)]] addresses this by looking for physical techno-signatures, such as heat anomalies from a [[Dyson Sphere]], which could be detected whether or not the civilization meant to communicate.
 
-In UAP research circles, SETI is criticized for its institutional tendency to ignore the substantial body of credible evidence for non-human intelligence already present in Earth's near environment in favor of looking for radio signals at interstellar distances.
+Critics in UAP research circles say SETI, as an institution, tends to ignore the substantial body of credible evidence for non-human intelligence already present in Earth's near environment, and looks instead for radio signals at interstellar distances.
 
 ## Sources
 

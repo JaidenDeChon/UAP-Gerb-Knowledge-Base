@@ -829,6 +829,11 @@
     "sha256": "4bd231ea038e8b65f1c8a89289bbc9a139ce9325d11a085523b0462bcce8b65e",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/SETI.md": {
+    "humanized_at": "2026-09-26T00:04:31Z",
+    "sha256": "3a43e027045f79bbb73660fd47d990e7d07662999405d24f4d26882af805380a",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
