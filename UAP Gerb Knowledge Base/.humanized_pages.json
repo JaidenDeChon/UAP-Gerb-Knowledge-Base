@@ -944,6 +944,11 @@
     "sha256": "42197293f7af7a0a0a515043db52d0385bffbfeb1cea1659fca39983dff04e1a",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/U.S. Army Foreign Technology Division.md": {
+    "humanized_at": "2026-09-26T00:07:58Z",
+    "sha256": "bef0ac25e1e899a33179d92de080c39f6b07c357449a88ca01f8270e9177c918",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
