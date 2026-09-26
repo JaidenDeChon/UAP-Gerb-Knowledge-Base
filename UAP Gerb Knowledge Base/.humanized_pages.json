@@ -889,6 +889,11 @@
     "sha256": "484722235fb3c148ebb114a5d7dd73b0f9b53a3e8bc91785cd10bb1cf700fb90",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/Sperry Rand.md": {
+    "humanized_at": "2026-09-26T00:05:49Z",
+    "sha256": "70b3fa05cb0f7665bb199d369183852d88ed9f4a339763f88175ac06aff788cb",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",

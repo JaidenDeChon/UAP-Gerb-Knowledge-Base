@@ -9,13 +9,13 @@ tags:
 
 ## Corso and the Army's golden age
 
-In his manuscript, Corso referenced the personal memoirs of Lieutenant General [[Arthur Trudeau]], chief of Army Research and Development and founder of the Army's [[U.S. Army Foreign Technology Division|Foreign Technology Division]]. He described how Trudeau held frequent meetings with Sperry Rand's board, which included General Douglas MacArthur, then the company's chairman. UAP Gerb places these meetings in what Corso called the golden age of Army research and development, 1958 to 1962, when Army assets, universities, laboratories and industry, including Bell Labs and Sperry Rand, were allegedly used to reverse-engineer non-human technology. Gerb suggests the [[MITRE Corporation]] and the [[Aerospace Corporation]] were formed for the same work.
+In his manuscript, Corso cited the personal memoirs of Lieutenant General [[Arthur Trudeau]], chief of Army Research and Development and founder of the Army's [[U.S. Army Foreign Technology Division|Foreign Technology Division]]. He described how Trudeau held frequent meetings with Sperry Rand's board, which included General Douglas MacArthur, then the company's chairman. Gerb places these meetings in what Corso called the golden age of Army research and development, 1958 to 1962, when Army assets, universities, laboratories and industry, including Bell Labs and Sperry Rand, were allegedly used to reverse-engineer non-human technology. Gerb suggests the [[MITRE Corporation]] and the [[Aerospace Corporation]] were formed for the same work.
 
 ## Successors
 
-In UAP Gerb's *UFO Legacy Programs - Northrop Grumman*, Gerb says Sperry Rand's former divisions became part of [[Lockheed Martin]], Raytheon, [[Honeywell]] and [[Northrop Grumman]], "all companies implicated in UFO legacy programs". He counts Sperry Rand among the threads connecting Northrop's long run of acquisitions to Corso's testimony.
+In UAP Gerb's *UFO Legacy Programs - Northrop Grumman*, Gerb says Sperry Rand's former divisions became part of [[Lockheed Martin]], Raytheon, [[Honeywell]] and [[Northrop Grumman]], "all companies implicated in UFO legacy programs". He counts Sperry Rand among the links between Northrop's long run of acquisitions and Corso's testimony.
 
-In UAP Gerb's video on Corso, Gerb adds that Corso mentions Sperry Rand many times in *Dawn of a New Age*, and cautions that it should not be confused with the RAND Corporation FFRDC.
+In his video on Corso, Gerb adds that Corso mentions Sperry Rand many times in *Dawn of a New Age*, and cautions that it should not be confused with the RAND Corporation FFRDC.
 
 ## Sources
 
