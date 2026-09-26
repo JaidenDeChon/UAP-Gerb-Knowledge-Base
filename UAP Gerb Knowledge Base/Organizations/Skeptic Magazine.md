@@ -5,7 +5,7 @@ tags:
   - organization
 ---
 
-Skeptic Magazine is a publication associated with [[Michael Shermer]], who offered a prosaic explanation for the 2004 [[Mexico UFO Incident]], suggesting the lights filmed by the [[Mexican Air Force]] were burnoff flares on an offshore oil platform in the [[Gulf of Mexico]].
+Skeptic Magazine is a publication associated with [[Michael Shermer]]. Shermer offered a prosaic explanation for the 2004 [[Mexico UFO Incident]]: he suggested that the lights the [[Mexican Air Force]] filmed were burnoff flares on an offshore oil platform in the [[Gulf of Mexico]].
 
 ## Sources
 
