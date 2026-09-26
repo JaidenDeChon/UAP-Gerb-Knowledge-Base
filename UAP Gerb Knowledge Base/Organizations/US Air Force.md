@@ -5,14 +5,14 @@ tags:
   - organization
 ---
 
-Central subject of investigation regarding modern 21st-century UAP legacy program operations
+The Air Force is a central subject of investigation into how UAP legacy programs have operated in the 21st century.
 
-Personnel observed entering the Kecksburg crash area alongside Army and civilian-clothed men
+Air Force personnel were seen entering the Kecksburg crash area alongside Army men and men in civilian clothes.
 
-Central organization in allegations regarding storage of UFO craft and bodies at Wright-Patterson
+It is the central organization in allegations that UFO craft and bodies were stored at Wright-Patterson.
 
-Connected to TR-3B program and the Boscombe Down crash retrieval
+The Air Force is also connected to the TR-3B program and the Boscombe Down crash retrieval.
 
-An Air Force colonel allegedly confiscated radar tracking log books containing data on anomalous aerial objects
+An Air Force colonel allegedly confiscated radar tracking log books containing data on anomalous aerial objects.
 
-USAF crew swarmed the acorn-shaped craft within 15 minutes; also involved in the alleged 1957 Holloman AFB landing
+A USAF crew swarmed the acorn-shaped craft within 15 minutes. The Air Force was also involved in the alleged 1957 landing at Holloman AFB.
