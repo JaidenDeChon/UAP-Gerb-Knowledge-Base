@@ -994,6 +994,11 @@
     "sha256": "9f20380ad8a56278f0e74c823064ab90f4b789caa1216b32e5f009d223cec2bb",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/US Army 7th Special Forces Group.md": {
+    "humanized_at": "2026-09-26T00:09:19Z",
+    "sha256": "795d1e251e22cd4c201e3f7e84cb4e87ee7b30a6df5ebf43571a14e81400b5d5",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
