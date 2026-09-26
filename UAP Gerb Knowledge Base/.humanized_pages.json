@@ -1129,6 +1129,11 @@
     "sha256": "26092ecd03f6e23105367458e8a283376d12f5d1608fd23c86e80c8ecb17e74c",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/Y-12 Complex.md": {
+    "humanized_at": "2026-09-26T00:13:02Z",
+    "sha256": "05cdea0bc7ea08ca983dabef078a99b956d6cb7e9b79fd7c50557b93d8119230",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/AJ Hartley.md": {
     "humanized_at": "2026-09-25T19:29:06Z",
     "sha256": "389fc8ba2566419bff4aeebe4ec7ef9b43fa52072fb7bc0d0a089ec73741d87a",
