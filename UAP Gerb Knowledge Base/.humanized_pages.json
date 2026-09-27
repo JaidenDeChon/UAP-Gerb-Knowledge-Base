@@ -69,6 +69,11 @@
     "sha256": "b1d442dd8cc0aa4d377b0356efa38eeb967a290ae4952cd57f096f524ca5e6e4",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Operations/Operation Desert Storm.md": {
+    "humanized_at": "2026-09-27T01:25:05Z",
+    "sha256": "db7a02211c5b2fc6ee2f091343b5f71d8ec9f2ba2a5f8d414e958beffdf19d92",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Organizations/160th Special Operations Aviation Regiment.md": {
     "humanized_at": "2026-09-25T23:33:31Z",
     "sha256": "45937eda4caf4922d4b2c949c54b68bfceddc3ac2d0ed695e8f3dd6c5211dd73",
