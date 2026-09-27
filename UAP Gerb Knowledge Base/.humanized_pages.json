@@ -499,6 +499,11 @@
     "sha256": "c8a0fa4969d37bc1c184df34dc76eb9a51e4fe80cf1e6dfde317bbca48820762",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Events/Witness Employment at Dugway Proving Ground.md": {
+    "humanized_at": "2026-09-27T20:16:32Z",
+    "sha256": "51386d771974b9d7d6e8efd7c0e06641e06bd315d9d23b5674f8589f7b397786",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
