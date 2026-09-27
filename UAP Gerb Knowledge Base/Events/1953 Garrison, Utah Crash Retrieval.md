@@ -9,13 +9,13 @@ The **1953 Garrison, Utah crash retrieval** is an alleged UFO crash and burial i
 
 ## The investigation
 
-Jones was introduced to the case in 1993 by a group called the Phoenix Project. A member named Al passed round 10 to 15 large aerial photographs dated June 1953 that showed a large valley with a triangular area on the ground beside DRES. The group also showed Jones a DRES log book from 1979 to 1980 with unusual entries: Air Force and Army personnel from Fort Carson, Colorado, USAF command centre personnel and representatives of a defense contractor. The Phoenix Project believed DRES was a front for a secret facility studying the buried craft.
+Jones was introduced to the case in 1993 by a group called the Phoenix Project. A member named Al passed round 10 to 15 large aerial photographs dated June 1953 that showed a large valley with a triangular area on the ground beside DRES. The group also showed Jones a DRES log book from 1979 to 1980 with unusual entries listing Air Force and Army personnel from Fort Carson, Colorado, USAF command centre personnel and representatives of a defense contractor. The Phoenix Project believed DRES was a front for a secret facility studying the buried craft.
 
-On his visits to the site, Jones found witnesses. Local resident Bart Wright said that as a child living about eight miles outside Garrison he saw a blue light streak across the sky and crash near the side of the valley, shaking the ground and lighting up the sky. In 1999 Jones hired a geologist, Lamont Sorenson, to run magnetometer and seismic surveys of the triangle. He found no underground anomaly but said he did not think the formation was natural, and that some kind of artificial digging had taken place.
+On his visits to the site, Jones found witnesses. Local resident Bart Wright said that as a child living about eight miles outside Garrison he saw a blue light streak across the sky and crash near the side of the valley, shaking the ground and lighting up the sky. In 1999 Jones hired a geologist, Lamont Sorenson, to run magnetometer and seismic surveys of the triangle. Sorenson found no underground anomaly, but he said he did not think the formation was natural and that some kind of artificial digging had taken place.
 
 ## Assessment
 
-UAP Gerb recounts the case in his investigation of Dugway as part of the lore linking the area to UFOs, and notes that Jones later told [[Steven Greer]] that Area 51 work had moved to Dugway. He finds the buried-craft story intriguing but concludes that the Garrison case is ultimately a dead end.
+Gerb recounts the case in his investigation of Dugway as part of the lore linking the area to UFOs, and notes that Jones later told [[Steven Greer]] that Area 51 work had moved to Dugway. He finds the buried-craft story intriguing but concludes that the Garrison case is ultimately a dead end.
 
 ## Sources
 
