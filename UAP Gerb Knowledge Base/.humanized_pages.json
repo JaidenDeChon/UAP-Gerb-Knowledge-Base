@@ -349,6 +349,11 @@
     "sha256": "f344cbb93284d52010832e1988f10fb352bf69ee05a1ef02c67b47483df9d651",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Events/Persian Gulf USO Flap.md": {
+    "humanized_at": "2026-09-27T20:15:09Z",
+    "sha256": "c50f30fbae711224ceb16e38f7f1d120cbe4f8b794dcf11314b55e4e585401cb",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
