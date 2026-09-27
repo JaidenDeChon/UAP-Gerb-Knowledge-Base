@@ -5,23 +5,17 @@ tags:
   - event
 ---
 
-The Ship Adhy Maritime Light Wheel Sighting of March 27, 1873, is the earliest documented instance of the [[Maritime Light Wheel]] phenomenon in the historical record. Captain Lebman of the ship Adhy, voyaging from Lebanon to Singapore, observed a blinding milky white light beneath the ocean waves following the vessel at four to five knots for approximately half an hour. The case is preserved in the National Library of Australia, reported in the 1873 newspaper *The Argus*.
+The Ship Adhy Maritime Light Wheel Sighting of March 27, 1873, is the earliest documented case of the [[Maritime Light Wheel]] phenomenon in the historical record. Captain Lebman of the ship Adhy, sailing from Lebanon to Singapore, saw a blinding milky white light beneath the waves that followed the vessel at four to five knots for about half an hour. The account appeared in the 1873 newspaper *The Argus* and is preserved in the National Library of Australia.
 
 ## Incident Description
 
-Captain Lebman observed a milky white light beneath the waves approximately two ship-lengths from the vessel. Lebman described the light's emission pattern as: "like flakes of snow when driven over the rocks by a strong wind." Key characteristics:
-
-- **Position**: Beneath the ocean surface, approximately two ship-lengths from the vessel
-- **Color**: Blinding milky white
-- **Behavior**: The light followed the ship's course and speed at approximately four to five knots for roughly half an hour
-- **Duration**: Approximately 30 minutes before slowly disappearing
-- **Witness experience**: Lebman stated he had never encountered anything similar in his 26 years of maritime experience
+The light was beneath the surface, about two ship-lengths from the vessel. Lebman said it was a blinding milky white and described the way it gave off light as "like flakes of snow when driven over the rocks by a strong wind." It kept to the ship's course and speed, about four to five knots, for roughly 30 minutes, then slowly disappeared. Lebman stated that in his 26 years at sea he had never encountered anything similar.
 
 ## Significance
 
-As the earliest documented case in the light wheel category, the Adhy encounter establishes that the [[Maritime Light Wheel]] phenomenon predates the more detailed multi-witness accounts of the [[Persian Gulf USO Flap]] (1879–1901) by six years. Lebman's 26-year maritime career at the time of the sighting means his assessment that he had never seen anything comparable carries weight as a baseline for experienced observer testimony.
+Because the Adhy encounter is the earliest documented light wheel case, it shows that the [[Maritime Light Wheel]] phenomenon was reported six years before the more detailed multi-witness accounts of the [[Persian Gulf USO Flap]] (1879–1901). Lebman had spent 26 years at sea by the time of the sighting, so his statement that he had never seen anything comparable carries weight as a baseline for testimony from experienced observers.
 
-The case's preservation in a 19th-century newspaper archived by the National Library of Australia provides a contemporaneous documentary record at a period when few maritime anomaly cases were systematically collected or preserved.
+The account survives in a 19th-century newspaper archived by the National Library of Australia. That gives a record written at the time, from a period when few maritime anomaly cases were systematically collected or preserved.
 
 ## Sources
 
