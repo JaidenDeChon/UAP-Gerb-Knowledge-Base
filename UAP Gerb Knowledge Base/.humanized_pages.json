@@ -79,6 +79,11 @@
     "sha256": "1d604a2375d410edba5e5affdf07b1be76db19734edb2e6abb900345aae3ba95",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Events/1991 North Atlantic USO Retrieval.md": {
+    "humanized_at": "2026-09-27T20:12:48Z",
+    "sha256": "4699eebc9f983e43ef2e6e60de883f8e877ac8d2fccb27bf9a2606466e31e890",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Events/1996 Bole, Ireland Crash Retrieval.md": {
     "humanized_at": "2026-09-27T20:12:19Z",
     "sha256": "56779a8c6c4c4483cc7b8744158234b0a29f9cb0aff61eb4f00ca62eb4adad45",
