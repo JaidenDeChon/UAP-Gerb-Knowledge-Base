@@ -309,6 +309,11 @@
     "sha256": "ca345227e8c8b085edaebc7871540a22bb1da8dd9d209a4487d8e08693fcc235",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Events/Metapod UFO Sighting.md": {
+    "humanized_at": "2026-09-27T20:14:44Z",
+    "sha256": "0e9f82f93c43e98428717d24229fb09fb8d0586e1ad1a41d04479fe3f6c4be5f",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
