@@ -279,6 +279,11 @@
     "sha256": "03d6aedd63738a6628233127a7bdb55e15a44384ddbce00a2364d5799a3f102a",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Events/MV Marala North Atlantic Sighting.md": {
+    "humanized_at": "2026-09-27T20:14:20Z",
+    "sha256": "70bb205fc55a4eb737eb8515be7c5647246b6e5f862c6d86819e551d8be2f0ab",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
