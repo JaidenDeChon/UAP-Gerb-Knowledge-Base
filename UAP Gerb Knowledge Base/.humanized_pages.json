@@ -419,6 +419,11 @@
     "sha256": "fd808bbf010245d8cd2f20123f0f5a1445aa763d3a5f2b8fff835d145a8c814a",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Events/SS Patna Light Wheel Sighting.md": {
+    "humanized_at": "2026-09-27T20:15:56Z",
+    "sha256": "321f17335e569bced18d8f753bb9d29940d798adc02a37e80c22c1ef99459796",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
