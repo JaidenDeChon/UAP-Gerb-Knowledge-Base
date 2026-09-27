@@ -69,6 +69,11 @@
     "sha256": "f636937112ce969ca7f452102a5e2e90eb37672abd8bc711533104d91ee4eeb6",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Events/1986 Japan Airlines UFO Incident.md": {
+    "humanized_at": "2026-09-27T20:12:48Z",
+    "sha256": "04b020da0f40bebff16a4419c31ca107fb3a0ace7a23b2ac29f53f096e10d1ca",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Events/1996 Bole, Ireland Crash Retrieval.md": {
     "humanized_at": "2026-09-27T20:12:19Z",
     "sha256": "56779a8c6c4c4483cc7b8744158234b0a29f9cb0aff61eb4f00ca62eb4adad45",
