@@ -429,6 +429,11 @@
     "sha256": "7801c3a467be98553fb2ce6c5479c90b6e8d7c9d9b14ceb2cb974462053f07cc",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Events/SS Siberian USO Encounter.md": {
+    "humanized_at": "2026-09-27T20:15:56Z",
+    "sha256": "c2555a0367bc9f826fc1ab5351ca6d678e48abcdf0f7c514d7e9cbd7e0fd9d09",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
