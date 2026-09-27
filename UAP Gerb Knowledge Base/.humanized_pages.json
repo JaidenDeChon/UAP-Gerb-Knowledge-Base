@@ -219,6 +219,11 @@
     "sha256": "d91d698c940ee05b94182ce31045d50277dd4ec090bb6b6eaa0f36c763853a1f",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Events/F-117A photo controversy.md": {
+    "humanized_at": "2026-09-27T20:13:40Z",
+    "sha256": "1d803a0617da192636f68e503b110805a60d590a77882f4012036315b76cb33b",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
