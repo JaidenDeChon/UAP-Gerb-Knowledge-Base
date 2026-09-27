@@ -4,4 +4,4 @@ tags:
   - operation
 ---
 
-A team of roughly 30 personnel in protective gear bearing three-letter designation Delta, Oscar, Echo arrived at the UAP incident site via CH47 helicopters, suggesting an organized response operation
+A team of roughly 30 people in protective gear marked with the three-letter designation Delta, Oscar, Echo arrived at the UAP incident site in CH47 helicopters. Their arrival suggests an organized response operation.
