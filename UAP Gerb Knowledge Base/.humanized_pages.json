@@ -144,6 +144,11 @@
     "sha256": "32104e4a12c3a740d4fde55c41c457899d280f44349e86eb56b288b4cd49ff16",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Events/Battle of Los Angeles.md": {
+    "humanized_at": "2026-09-27T20:12:49Z",
+    "sha256": "4eb3f299c129dd05e4d31ae7d1cea208c531a1f3eae6f140903e1d084fcfb409",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Events/Bob Fish Email to John Podesta.md": {
     "humanized_at": "2026-09-27T20:11:59Z",
     "sha256": "dffae510df9afe46bc5276b9b8cbab27e0d618de4f32e646a4961ee5e5e8b0d4",
