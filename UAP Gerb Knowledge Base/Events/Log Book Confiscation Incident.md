@@ -4,4 +4,4 @@ tags:
   - event
 ---
 
-An Air Force colonel entered a command center approximately 30 minutes after personnel discussed anomalous objects re-entering the atmosphere and confiscated flight tracking log books; reportedly occurred multiple times.
+About 30 minutes after personnel in a command center discussed anomalous objects re-entering the atmosphere, an Air Force colonel came in and confiscated the flight tracking log books. This reportedly happened more than once.

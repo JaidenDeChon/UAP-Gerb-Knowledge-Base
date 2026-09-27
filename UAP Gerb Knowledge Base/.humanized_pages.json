@@ -269,6 +269,11 @@
     "sha256": "45f96757892a61e0d68c0626815aae20acd22978a1ed0ee17f5863818173a00e",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Events/Log Book Confiscation Incident.md": {
+    "humanized_at": "2026-09-27T20:14:19Z",
+    "sha256": "14552d0694b1ce54f6f5877d0edf1d806e30078a037c061fe584a3b3c89822c0",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
