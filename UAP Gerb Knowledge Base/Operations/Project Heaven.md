@@ -22,7 +22,7 @@ Stringfield noted that Epigoni later changed the number of bodies from twelve to
 
 ## In UAP Gerb's research
 
-UAP Gerb cites Project Heaven in *UAP Reverse Engineering at Edwards Air Force Base* as one of several Stringfield cases supporting witness [[Ed (Witness 11063)|Ed]]'s account of reverse-engineering work at Edwards. The detail that the beings walked out of the craft, lay down and seemingly turned themselves off reminds him of the craft donation theory, the idea discussed by [[David Grusch]] and others that some craft are found intact and unattended rather than crashed. He compares it with the alleged 1957 landing at Holloman Air Force Base and suggests the beings may have been something like biological robots. He says he will return to Epigoni's more detailed account in future.
+Gerb cites Project Heaven in *UAP Reverse Engineering at Edwards Air Force Base* as one of several Stringfield cases supporting witness [[Ed (Witness 11063)|Ed]]'s account of reverse-engineering work at Edwards. The detail that the beings walked out of the craft, lay down and seemingly turned themselves off reminds him of the craft donation theory, the idea, discussed by [[David Grusch]] and others, that some craft are found intact and unattended rather than crashed. He compares it with the alleged 1957 landing at Holloman Air Force Base and suggests the beings may have been something like biological robots. He says he will return to Epigoni's more detailed account in future.
 
 ## Sources
 
