@@ -254,6 +254,11 @@
     "sha256": "7e99359fb33dda003aaf88e72ac030da1cafe0e7eb71172cbc0ff3ed7efd5c66",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Events/GAO Report on Army Guard Program.md": {
+    "humanized_at": "2026-09-27T20:14:01Z",
+    "sha256": "3d34b0b5135b0bcb1ae559a8cb0e6690028f63bed0e2113dc5a13686e034c965",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
