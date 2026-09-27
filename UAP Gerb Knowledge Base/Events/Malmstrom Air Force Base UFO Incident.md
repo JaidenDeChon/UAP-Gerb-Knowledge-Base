@@ -5,17 +5,17 @@ tags:
   - event
 ---
 
-The Malmstrom Air Force Base UFO Incident occurred on the night of March 24, 1967, at [[Malmstrom Air Force Base]] in Montana. A pulsating red oval-shaped craft approximately 30 to 40 feet in diameter hovered over the base's front gate while simultaneously all 10 Minuteman nuclear [[ICBM (Intercontinental Ballistic Missile)|ICBMs]] assigned to an underground launch control facility showed guidance and control system failures — rendering every missile unable to launch. The incident is among the most formally documented cases of [[UFO Interference with Nuclear Weapons]] in the unclassified record, with four personnel submitting sworn affidavits.
+The Malmstrom Air Force Base UFO Incident occurred on the night of March 24, 1967, at [[Malmstrom Air Force Base]] in Montana. A pulsating red oval-shaped craft approximately 30 to 40 feet in diameter hovered over the base's front gate. At the same time, all 10 Minuteman nuclear [[ICBM (Intercontinental Ballistic Missile)|ICBMs]] assigned to an underground launch control facility showed guidance and control system failures, which left every missile unable to launch. Four personnel later submitted sworn affidavits, making the incident one of the most formally documented cases of [[UFO Interference with Nuclear Weapons]] in the unclassified record.
 
 ## Sequence of Events
 
-US Air Force First Lieutenant [[Robert Salas]], on-duty commander of the underground launch control facility assigned to the 490th Minuteman Missile Squadron, received the first of two calls from a flight security controller (FSC) reporting unusual lights in the sky: high velocity, abrupt direction changes, and no engine noise. Minutes later, the FSC called again in an urgent state, reporting that a glowing red oval craft was hovering over the front gate and that security personnel with weapons drawn were outside.
+US Air Force First Lieutenant [[Robert Salas]], on-duty commander of the underground launch control facility assigned to the 490th Minuteman Missile Squadron, received the first of two calls from a flight security controller (FSC) reporting unusual lights in the sky that moved at high velocity, changed direction abruptly and made no engine noise. Minutes later the FSC called again, urgently, to report that a glowing red oval craft was hovering over the front gate and that security personnel were outside with weapons drawn.
 
-Simultaneously, alarms and fault indicators began triggering at Salas's launch commander console. All 10 Minuteman missiles showed red fault status — a guidance and control system failure state indicating the missiles could not launch. The craft then departed without interaction. For the remainder of the night the missiles remained inoperable. Subsequent inspection found no permanent damage.
+At the same moment, alarms and fault indicators went off at Salas's launch commander console. All 10 Minuteman missiles showed red fault status, a guidance and control system failure state meaning the missiles could not launch. The craft then departed without interaction. The missiles stayed inoperable for the rest of the night, and a later inspection found no permanent damage.
 
 ## Official Response
 
-The following morning, squadron commander Colonel George Eldridge briefed Salas and his crew, confirming the incident was not part of any Air Force exercise. An officer from the Air Force Office of Security and Intelligence classified the event as Secret and directed personnel not to discuss it.
+The following morning, squadron commander Colonel George Eldridge briefed Salas and his crew and confirmed that the incident was not part of any Air Force exercise. An officer from the Air Force Office of Security and Intelligence classified the event as Secret and directed personnel not to discuss it.
 
 ## Corroboration
 
@@ -26,13 +26,13 @@ Four Malmstrom Air Force Base personnel later submitted sworn affidavits on reco
 - Patrick McDonough, then an airman first class
 - Dwynne Arneson, then the officer in charge of the base communications centre
 
-Gerb's video renders these three names as "Robert C. Jameson", "Patrick McDonah" and "Dwin C. Arneson".
+In Gerb's video, the last three names appear as "Robert C. Jameson", "Patrick McDonah" and "Dwin C. Arneson".
 
 According to Gerb, [[David Grusch]] directly confirmed the Malmstrom incident as fact in his NewsNation interview with [[Ross Coulthart]].
 
 ## Significance
 
-The simultaneous failure of 10 nuclear missiles during the presence of a craft that security personnel witnessed is interpreted by researchers as evidence that UFOs are capable of remotely disabling nuclear weapons systems. The case directly contradicted [[Project Blue Book]]'s 1969 public conclusion that UFOs posed no national security threat. Gerb pairs the Malmstrom incident with the [[Vandenberg Air Force Base UFO Film Incident]] (1964), and sets both beside the [[1984 Indian Point UFO Incident]] at a nuclear power plant, as anchor points in the broader pattern of [[UFO-Nuclear Connection|UFO nuclear interference]].
+Researchers interpret the failure of 10 nuclear missiles at once, while security personnel watched a craft over the base, as evidence that UFOs can remotely disable nuclear weapons systems. The case directly contradicted [[Project Blue Book]]'s 1969 public conclusion that UFOs posed no national security threat. Gerb pairs the Malmstrom incident with the [[Vandenberg Air Force Base UFO Film Incident]] (1964), and sets both beside the [[1984 Indian Point UFO Incident]] at a nuclear power plant, as central cases in the wider pattern of [[UFO-Nuclear Connection|UFO nuclear interference]].
 
 ## Sources
 
