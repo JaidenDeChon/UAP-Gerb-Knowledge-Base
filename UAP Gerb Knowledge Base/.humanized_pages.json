@@ -439,6 +439,11 @@
     "sha256": "4026a028f303668b1494fbd74751b17ad8a0b0c0cfbfe571a7a69ee6b9427e41",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Events/Shelburne Harbor USO Incident.md": {
+    "humanized_at": "2026-09-27T20:15:57Z",
+    "sha256": "674d080503d2367d92863c4fe742dfc00c1f7b9a4e6c61b5cff8772c5cdbb11d",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
