@@ -409,6 +409,11 @@
     "sha256": "80da1e457af533b62f5898f1f5a9d9d33f8fddb15a462877db5f6cee0b59ea3a",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Events/SS Kila Light Shaft Sighting.md": {
+    "humanized_at": "2026-09-27T20:15:55Z",
+    "sha256": "c1a493501c9253d4f0051a6ac1fd107aefe47eff53c22704ff33f0b9a007aefd",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",

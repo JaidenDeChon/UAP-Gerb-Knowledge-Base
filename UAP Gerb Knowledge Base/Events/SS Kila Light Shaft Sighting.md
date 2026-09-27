@@ -13,15 +13,11 @@ Captain Hosan's account:
 
 > "Vast shafts of light suddenly appeared. Shaft followed shaft upon the surface of the sea, but it was only a faint light, and in about 15 minutes died out, having appeared suddenly and having died out gradually. These shafts revolved at a velocity of about 60 mph."
 
-Key characteristics:
-- **Initial appearance**: Sudden, without observed buildup
-- **Fading**: Gradual over approximately 15 minutes
-- **Rotational velocity**: Approximately 60 mph
-- **Pattern**: Multiple successive shafts on the surface
+The shafts appeared suddenly, with no buildup observed beforehand, and faded gradually over approximately 15 minutes. Several shafts followed one another across the surface, rotating at approximately 60 mph.
 
 ## Significance
 
-The explicit velocity estimate of 60 mph is the most precise speed data in any Maritime Light Wheel account. It distinguishes the Kila encounter from bioluminescent pressure wave explanations, under which rotational speed would depend on acoustic wave propagation in calm water — a mechanism that would be expected to produce much slower and less regular motion than 60 mph rotational sweeping. The pattern of sudden appearance and gradual fading (rather than appearing and disappearing at the same rate) may suggest a power-down sequence rather than a natural dissipation pattern.
+Captain Hosan's explicit estimate of 60 mph is the most precise speed data in any Maritime Light Wheel account. It sets the Kila encounter apart from explanations based on bioluminescent pressure waves. Under those explanations, the speed of rotation would depend on how acoustic waves travel through calm water, which would be expected to produce much slower and less regular motion than shafts sweeping round at 60 mph. The shafts also appeared suddenly but faded gradually, instead of appearing and disappearing at the same rate. This may suggest a power-down sequence rather than natural dissipation.
 
 ## Sources
 
