@@ -89,6 +89,11 @@
     "sha256": "477454cd3eeb2664c28dc5ea9fa9581d2e9ea238568a3cd2a87239c580cc6af7",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Events/2009 Norwegian Spiral Anomaly.md": {
+    "humanized_at": "2026-09-27T20:12:20Z",
+    "sha256": "f859d46d3327b3d20cc186fc8c317bf89588f8bea24057f61ecd429981d342cd",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Events/Bob Fish Email to John Podesta.md": {
     "humanized_at": "2026-09-27T20:11:59Z",
     "sha256": "dffae510df9afe46bc5276b9b8cbab27e0d618de4f32e646a4961ee5e5e8b0d4",
