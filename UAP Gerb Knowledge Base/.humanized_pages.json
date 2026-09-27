@@ -94,6 +94,11 @@
     "sha256": "f859d46d3327b3d20cc186fc8c317bf89588f8bea24057f61ecd429981d342cd",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Events/2009 Sumatra Earthquake.md": {
+    "humanized_at": "2026-09-27T20:12:20Z",
+    "sha256": "116125cca8e4b76f1944bc51b046655f92e16faa51726db32e8d9d531eb6c047",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Events/Bob Fish Email to John Podesta.md": {
     "humanized_at": "2026-09-27T20:11:59Z",
     "sha256": "dffae510df9afe46bc5276b9b8cbab27e0d618de4f32e646a4961ee5e5e8b0d4",
