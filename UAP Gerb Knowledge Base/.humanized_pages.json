@@ -469,6 +469,11 @@
     "sha256": "5d0a2085520a104f306ee020384bb9bc5dbf324de137074cf5813761c931c346",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Events/USS Carl Vinson USO Sighting.md": {
+    "humanized_at": "2026-09-27T20:16:24Z",
+    "sha256": "ccbc4e3a61745987dd4630dbc8c469f0f7725b3288da850a601c028b2c858baa",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Events/Vandenberg Air Force Base UFO Film Incident.md": {
     "humanized_at": "2026-09-27T20:16:13Z",
     "sha256": "c635c7c030c6d095db887ae1303b9e7f357942306330961bc72cad64af2dcd25",
