@@ -259,6 +259,11 @@
     "sha256": "3d34b0b5135b0bcb1ae559a8cb0e6690028f63bed0e2113dc5a13686e034c965",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Events/Gorman Dogfight.md": {
+    "humanized_at": "2026-09-27T20:14:01Z",
+    "sha256": "bf75933f9f7dbab20334310f1d3dd063526105e5b1fa3aa29c98c7b6794d7708",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",

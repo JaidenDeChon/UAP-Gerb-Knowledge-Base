@@ -5,7 +5,7 @@ tags:
   - event
 ---
 
-The Gorman Dogfight was a roughly 27-minute pursuit of an unidentified light over [[Fargo, North Dakota, USA|Fargo, North Dakota]] on the night of October 1, 1948, in which Second Lieutenant [[George F. Gorman]] of the North Dakota National Guard chased a small ball of light in his P-51 Mustang. Captain [[Edward J. Ruppelt]], who later headed [[Project Grudge]] and [[Project Blue Book]], wrote of it as one of three classic 1948 incidents that "proved to Air Force intelligence specialists that UFOs were real." [[Project Sign]] investigated and concluded that Gorman had chased a lit weather balloon or the planet Jupiter.
+The Gorman Dogfight was a roughly 27-minute pursuit of an unidentified light over [[Fargo, North Dakota, USA|Fargo, North Dakota]] on the night of October 1, 1948. Second Lieutenant [[George F. Gorman]] of the North Dakota National Guard chased a small ball of light in his P-51 Mustang. Captain [[Edward J. Ruppelt]], who later headed [[Project Grudge]] and [[Project Blue Book]], wrote of it as one of three classic 1948 incidents that "proved to Air Force intelligence specialists that UFOs were real." [[Project Sign]] investigated and concluded that Gorman had chased a lit weather balloon or the planet Jupiter.
 
 ## The Encounter
 
@@ -22,11 +22,11 @@ The controller at Hector, [[L.D. Jensen]], watched the object pass overhead thro
 
 ## Gorman's Sworn Statement
 
-On October 23, 1948, Gorman swore his account into the record. He said he was convinced "there was definitely thought behind its maneuvers", that the object obeyed the laws of inertia (its acceleration was "rapid but not immediate", and it followed a natural curve in turns), that he blacked out briefly trying to turn with it, and that it could outturn, outspeed and outclimb his aircraft, holding a rate of climb far beyond the Mustang's.
+On October 23, 1948, Gorman swore his account into the record. He said he was convinced "there was definitely thought behind its maneuvers". In his account the object obeyed the laws of inertia: its acceleration was "rapid but not immediate", and it followed a natural curve in turns. He blacked out briefly trying to turn with it. It could outturn, outspeed and outclimb his aircraft, and it held a rate of climb far beyond the Mustang's.
 
 ## The Project Sign Investigation
 
-[[Project Sign]], created after Lieutenant General [[Nathan Twining]] asserted that flying discs were "real and not visionary or fictitious", was then responsible for UFO investigations; its reports went to the [[Army and Navy Research and Development Board]], the USAF Scientific Advisory Board and the [[Atomic Energy Commission]]. Sign interviewed Gorman and other witnesses and checked his Mustang for radiation. The aircraft was measurably more radioactive than other fighters, and investigators first concluded it had flown close to an "atomic powered object".
+[[Project Sign]], created after Lieutenant General [[Nathan Twining]] asserted that flying discs were "real and not visionary or fictitious", was then responsible for UFO investigations. Its reports went to the [[Army and Navy Research and Development Board]], the USAF Scientific Advisory Board and the [[Atomic Energy Commission]]. Sign interviewed Gorman and other witnesses and checked his Mustang for radiation. The aircraft was measurably more radioactive than other fighters, and investigators first concluded it had flown close to an "atomic powered object".
 
 After further investigation, Sign attributed the radiation to reduced shielding from radiation at 14,000 feet, and concluded that Gorman had chased either a lit weather balloon or Jupiter, which only appeared to perform remarkable feats from his own frame of reference inside the moving Mustang.
 
