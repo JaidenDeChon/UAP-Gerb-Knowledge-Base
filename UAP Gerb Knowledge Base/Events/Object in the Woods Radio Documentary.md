@@ -5,4 +5,4 @@ tags:
   - event
 ---
 
-John Murphy produced a radio documentary about the Kecksburg crash that was subsequently heavily censored, with a disclaimer denying government influence and witnesses withdrawing due to fear of Army reprisals
+John Murphy produced a radio documentary about the Kecksburg crash. It was later heavily censored. The documentary carried a disclaimer denying government influence, and witnesses withdrew because they feared Army reprisals.
