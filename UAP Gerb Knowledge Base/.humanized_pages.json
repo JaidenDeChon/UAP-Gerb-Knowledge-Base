@@ -434,6 +434,11 @@
     "sha256": "c2555a0367bc9f826fc1ab5351ca6d678e48abcdf0f7c514d7e9cbd7e0fd9d09",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Events/Schumer Amendment (NDAA).md": {
+    "humanized_at": "2026-09-27T20:15:56Z",
+    "sha256": "4026a028f303668b1494fbd74751b17ad8a0b0c0cfbfe571a7a69ee6b9427e41",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
