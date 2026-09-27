@@ -54,6 +54,11 @@
     "sha256": "f0b8f5f97874a146136ddeef9948905505de9c47ab8e3d99c44ef17963e8a34b",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Events/Boscombe Down Incident.md": {
+    "humanized_at": "2026-09-27T20:11:59Z",
+    "sha256": "549499d56521a1100941de20a125c4ba13bc212e3227e7ffc34c22fb1a25bcf2",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
