@@ -394,6 +394,11 @@
     "sha256": "2895af023b35880a8b1a70bd75f6457888aadd19b002b314955c1ab88dca8e98",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Events/SOL Foundation Symposium.md": {
+    "humanized_at": "2026-09-27T20:15:36Z",
+    "sha256": "c5355077f1e425eddc4113360536368e3693f0a859f4491937922bcab6117ce6",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
