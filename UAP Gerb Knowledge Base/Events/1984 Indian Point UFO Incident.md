@@ -9,15 +9,15 @@ The 1984 Indian Point UFO Incident is a reported sighting over the Indian Point 
 
 ## The Sighting
 
-In the account given in [[Videos/UFOs and Nuclear Weapons - A Fascinating Connection/summary|Gerb's video on UFOs and nuclear weapons]], the plant's security police reported a conically shaped UFO as long as three football fields, with white, yellow and blue oscillating lights. As it flew overhead, the plant's movement sensors, alarms and security control computers failed. Other accounts of the Indian Point sightings describe guards watching the object hover near the plant for several minutes, and residents of the surrounding area reporting a large lighted object the same night; guards had reported a similar object over the plant on 14 June 1984.
+In the account given in [[Videos/UFOs and Nuclear Weapons - A Fascinating Connection/summary|Gerb's video on UFOs and nuclear weapons]], the plant's security police reported a conically shaped UFO as long as three football fields, with white, yellow and blue oscillating lights. As it flew overhead, the plant's movement sensors, alarms and security control computers failed. Other accounts of the Indian Point sightings describe guards watching the object hover near the plant for several minutes, and residents of the surrounding area reporting a large lighted object the same night. Guards had reported a similar object over the plant on 14 June 1984.
 
 ## Official Response
 
-According to the video, over the following two days agents of the US [[Nuclear Regulatory Commission]] (NRC) took over the plant's security operations and confiscated the video and audio records of the event. Gerb uses the case to ask how active the NRC, created in 1974 from the [[Atomic Energy Commission]] alongside the [[Department of Energy]], has been in the UFO cover-up, noting that around the same time the NRC also opened an incident file on a black triangle seen over Cooper Nuclear Station in Nebraska.
+According to the video, over the following two days agents of the US [[Nuclear Regulatory Commission]] (NRC) took over the plant's security operations and confiscated the video and audio records of the event. Gerb uses the case to ask how active the NRC has been in the UFO cover-up. The agency was created in 1974 from the [[Atomic Energy Commission]], alongside the [[Department of Energy]]. Gerb notes that around the same time the NRC also opened an incident file on a black triangle seen over Cooper Nuclear Station in Nebraska.
 
 ## Significance
 
-Gerb presents Indian Point as evidence that UFOs have shown interest in nuclear power as well as nuclear weapons. Its pattern (a craft seen at the time, the failure of the facility's systems, and the removal of the records) parallels the [[Vandenberg Air Force Base UFO Film Incident]] of 1964 and the [[Malmstrom Air Force Base UFO Incident]] of 1967.
+Gerb presents Indian Point as evidence that UFOs have shown interest in nuclear power as well as nuclear weapons. The case follows the same pattern as the [[Vandenberg Air Force Base UFO Film Incident]] of 1964 and the [[Malmstrom Air Force Base UFO Incident]] of 1967: a craft is seen, the facility's systems fail, and the records are taken away.
 
 ## Sources
 
