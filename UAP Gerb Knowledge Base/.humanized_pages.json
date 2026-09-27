@@ -364,6 +364,11 @@
     "sha256": "5d5d473f5ac4411f2663f1aad070efca3483c268a3778fc7d57ff90b1631df8f",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Events/Pori Airport UFO Incident.md": {
+    "humanized_at": "2026-09-27T20:15:28Z",
+    "sha256": "cc70c278b3faf072e0ec2ab5d5a8162dea6ab4442414a3393edbd08861e77ddd",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",

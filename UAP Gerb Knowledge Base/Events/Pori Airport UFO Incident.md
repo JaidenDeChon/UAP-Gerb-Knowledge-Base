@@ -9,11 +9,11 @@ The Pori Airport UFO Incident of April 12, 1969, is the only UFO observation ack
 
 ## The Pilots' Observations
 
-As Gerb recounts it in [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters You've Probably Never Heard of]], Tukeva reported on approach that the objects were not balloons but disc-shaped and slightly round, "like balls with no extremities", and pale yellow. As he tried to close on them they accelerated away from him at great speed, against a headwind of 180 km/h. Kuronen observed them as well, confirming their anomalous shape and speed.
+As Gerb recounts it in [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters You've Probably Never Heard of]], Tukeva reported on approach that the objects were not balloons but disc-shaped and slightly round, "like balls with no extremities", and pale yellow. As he tried to close on them they accelerated away from him at great speed, against a headwind of 180 km/h. Kuronen also saw them and confirmed their anomalous shape and speed.
 
 ## Radar
 
-Pori Airport itself recorded no signatures of the objects (Gerb says "sonar"), but, according to Gerb, radar 200 km away in [[Vaasa, Finland|Vaasa]] detected the seven objects after they had accelerated away from Tukeva, giving an estimated speed of 3,218 metres per second.
+Pori Airport itself recorded no signatures of the objects (Gerb says "sonar"). According to Gerb, radar 200 km away in [[Vaasa, Finland|Vaasa]] detected the seven objects after they had accelerated away from Tukeva and gave an estimated speed of 3,218 metres per second.
 
 ## Gerb's Assessment
 
