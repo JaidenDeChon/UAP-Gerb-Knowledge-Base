@@ -384,6 +384,11 @@
     "sha256": "b96d8fa50306f1c3ef533e2804b51839b6623eed0b20dc2947b4cf5b7e82b19d",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Events/Rodrik Castle UAP Encounter.md": {
+    "humanized_at": "2026-09-27T20:15:35Z",
+    "sha256": "94a475e6db587fec5da923b2a8a6935ce242cc3c749f4cc38dd7b806b2969ad9",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
