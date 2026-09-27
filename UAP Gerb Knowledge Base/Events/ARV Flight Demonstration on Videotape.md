@@ -5,11 +5,11 @@ tags:
   - event
 ---
 
-At the November 1988 classified aerospace exhibit at [[Air Force Plant 42]] in Palmdale, California, a three-star general displayed the flight capabilities of the [[Alien Reproduction Vehicle (ARV)|Alien Reproduction Vehicle (Flux Liner)]] on a continuous-loop videotape shown alongside an easel with craft blueprints. The tape showed one of the ARV craft hovering over a dry lake bed in the desert, then making three quick sideways hops before ascending vertically at extraordinary speed, disappearing from the camera's view in approximately half a second.
+At the November 1988 classified aerospace exhibit at [[Air Force Plant 42]] in Palmdale, California, a three-star general showed what the [[Alien Reproduction Vehicle (ARV)|Alien Reproduction Vehicle (Flux Liner)]] could do on a continuous-loop videotape, played next to an easel holding the craft's blueprints. The tape showed one of the ARV craft hovering over a dry lake bed in the desert, making three quick hops to the side, and then climbing straight up at extraordinary speed. It was out of the camera's view in about half a second.
 
-[[Brad Sorenson]] witnessed this demonstration and relayed it to [[Mark McCandlish]] at a lunch meeting the following week. McCandlish described the footage as depicting an object that "went from a hovering position, made these three little sort of hops going to the side, and then as the camera followed it, it just went straight up, disappeared outside down to nothing in just a matter of a second or half a second or so."
+[[Brad Sorenson]] saw this demonstration and described it to [[Mark McCandlish]] at a lunch meeting the following week. According to McCandlish, the footage showed an object that "went from a hovering position, made these three little sort of hops going to the side, and then as the camera followed it, it just went straight up, disappeared outside down to nothing in just a matter of a second or half a second or so."
 
-The video footage served as an in-person proof-of-concept demonstration for the select audience of senior military, government, and private sector attendees who had been flown to the facility to attract investor funding for black budget ARV development programs.
+The footage was an in-person proof-of-concept demonstration for a select audience of senior military, government and private sector attendees. They had been flown to the facility to attract investor funding for black budget ARV development programs.
 
 ## Sources
 
