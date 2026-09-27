@@ -5,7 +5,7 @@ tags:
   - event
 ---
 
-The **1974 Coyame, Mexico UFO Crash Retrieval** is an alleged UAP crash and covert recovery operation that occurred on August 25–27, 1974, near [[Coyame, Chihuahua, Mexico]]. According to the [[Denb Report]], an unidentified object tracked by US Air Defense radar collided mid-air with a civilian aircraft, crashed in northern Mexico, was located by Mexican military forces who subsequently died under mysterious circumstances, and was then covertly retrieved by a [[CIA]]-coordinated recovery team staged at [[Fort Bliss]], Texas.
+The **1974 Coyame, Mexico UFO Crash Retrieval** is an alleged UAP crash and covert recovery operation near [[Coyame, Chihuahua, Mexico]] on August 25–27, 1974. According to the [[Denb Report]], US Air Defense radar tracked an unidentified object that collided mid-air with a civilian aircraft and crashed in northern Mexico. In the report's account, the Mexican military forces who located the object later died under mysterious circumstances, and a [[CIA]]-coordinated recovery team staged at [[Fort Bliss]], Texas, then retrieved it covertly.
 
 ## Chronology
 
@@ -58,12 +58,12 @@ The Coyame case is notable for:
 - The use of unmarked helicopters, bio-protection suits, and high explosives to sanitize the site
 - Corroboration from [[Leonard Stringfield]], who independently heard of a US cross-border retrieval in Chihuahua in the late 1970s
 - Its listing by the [[UAP Caucus]] as a case to bring before Congress
-- A corroborating newspaper article from *El Heraldo de Chihuahua* (October 27, 1974) located by Mexican UFO researcher [[Alfonso Salazar]], reporting the death of a group of Mexican soldiers in what was described as a "military transport" crash — two months after the alleged incident
+- A corroborating newspaper article from *El Heraldo de Chihuahua* (October 27, 1974) located by Mexican UFO researcher [[Alfonso Salazar]], which reported, two months after the alleged incident, that a group of Mexican soldiers had died in what was described as a "military transport" crash
 - Parallels drawn by researchers with fatal contamination incidents described in the [[MJ-12 Documents]] and an [[Interplanetary Phenomenon Unit]] summary report
 - An unsourced 2012 Wikipedia edit by the user "Mercy 11" that named six alleged American team members and four Mexican soldiers, before the page was deleted in 2014
 - Parallels with the [[Peru UFO Crash Incident|1997 Peru UFO Crash Retrieval]] involving [[Jonathan Weygandt]]
 
-The case is frequently referred to as "Mexico's Roswell" and represents one of the most extensively documented alleged UAP crash retrievals outside the United States.
+The case is often called "Mexico's Roswell" and is one of the most extensively documented alleged UAP crash retrievals outside the United States.
 
 ## Sources
 
