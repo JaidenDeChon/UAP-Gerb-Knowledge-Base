@@ -214,6 +214,11 @@
     "sha256": "08d11746c295428e0c60e1199af8047eb8b4ff6bb65694ac1cdac34b3b6e46fc",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Events/Condon Report Publication.md": {
+    "humanized_at": "2026-09-27T20:13:53Z",
+    "sha256": "1fc1b19343b0fa943b1d1a08017e0cd775c499832a668e41c365fcac2743d8cf",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Events/DOD IRAD Policy Reform.md": {
     "humanized_at": "2026-09-27T20:13:39Z",
     "sha256": "5322de0e245ba49aaa61a054cbf8ad24924861f02a874129629236ff28c81e86",

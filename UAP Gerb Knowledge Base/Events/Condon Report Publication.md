@@ -5,22 +5,22 @@ tags:
   - event
 ---
 
-The Condon Report Publication refers to the January 1969 release of the [[Condon Committee]]'s final report, formally titled *Scientific Study of Unidentified Flying Objects*, to the public. The report concluded that "nothing has come from the study of UFOs in the past 21 years that has added to scientific knowledge" and recommended the US Air Force terminate all UFO investigation programs. The report's publication marked the culmination of the architectural suppression of UFO research: it received near-universal praise from major scientific institutions, led directly to the termination of [[Project Blue Book]] in December 1969, and finalized the [[UFO Stigma]] that persisted for decades.
+The Condon Report Publication was the public release, in January 1969, of the [[Condon Committee]]'s final report, formally titled *Scientific Study of Unidentified Flying Objects*. The report concluded that "nothing has come from the study of UFOs in the past 21 years that has added to scientific knowledge" and recommended that the US Air Force end all UFO investigation programs. Its publication was the final step in the systematic suppression of UFO research. Major scientific institutions praised it almost without exception, it led directly to the closure of [[Project Blue Book]] in December 1969, and it fixed in place the [[UFO Stigma]] that persisted for decades.
 
 ## Contradictions in the Report
 
-Dr. [[Edward Condon]]'s summary ignored the report's case analyses, which found that 25–30% of examined UFO cases could not be explained. Both [[J. Allen Hynek]] and [[James McDonald]] publicly criticized the report for ignoring key evidence. McDonald stated the report "represents an examination of only a tiny fraction of the most puzzling UFO reports of the past two decades" and that its "quality of scientific argument is wholly unsatisfactory."
+Dr. [[Edward Condon]]'s summary ignored the report's case analyses, which found that 25–30% of examined UFO cases could not be explained. Both [[J. Allen Hynek]] and [[James McDonald]] publicly criticized the report for ignoring important evidence. McDonald stated the report "represents an examination of only a tiny fraction of the most puzzling UFO reports of the past two decades" and that its "quality of scientific argument is wholly unsatisfactory."
 
 ## Institutional Endorsement
 
-Despite these criticisms, the Condon Report received widespread institutional praise:
+Despite these criticisms, many institutions praised the Condon Report:
 
 - *Science*, the publication of the [[American Association for the Advancement of Science]], called it "unquestionably the most thorough and sophisticated investigation of the nebulous UFO phenomena ever conducted"
-- The [[National Academy of Sciences]] reviewed and approved the report's methodology, recommending no further formal UFO investigation
-- The [[American Institute of Aeronautics and Astronautics]] issued a 1970 statement agreeing little of scientific value had been uncovered by UFO studies
+- The [[National Academy of Sciences]] reviewed and approved the report's methodology and recommended no further formal UFO investigation
+- The [[American Institute of Aeronautics and Astronautics]] issued a statement in 1970 agreeing that UFO studies had uncovered little of scientific value
 - Major newspapers and magazines published positive reviews and editorials comparing belief in UFOs to belief in a flat Earth
 
-This unified institutional response effectively ruled UFO research out of bounds for mainstream science and government for decades.
+With these institutions in agreement, UFO research was effectively off limits to mainstream science and government for decades.
 
 ## Sources
 
