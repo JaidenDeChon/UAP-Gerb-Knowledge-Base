@@ -8,7 +8,7 @@ tags:
 
 ## In UAP Gerb's research
 
-In *UAP Reverse Engineering at Edwards Air Force Base*, UAP Gerb lists Project Outgrowth among the documents showing Edwards's long-standing interest in unconventional propulsion. He pairs it with a 1988 report for the base's astronautics laboratory on the [[Biefeld-Brown Effect]] and with [[SAIC]]'s electric-propulsion studies for Edwards at about the same time. He presents them as context for witness [[Ed (Witness 11063)|Ed]]'s claim that Edwards hosts a program testing craft reverse-engineered from non-human technology, and for [[Edgar Fouche|Edgar Fouché]]'s claim that a full anti-gravity propulsion system was developed there by 1979.
+In *UAP Reverse Engineering at Edwards Air Force Base*, Gerb lists Project Outgrowth among the documents showing Edwards's long-standing interest in unconventional propulsion. He pairs it with a 1988 report for the base's astronautics laboratory on the [[Biefeld-Brown Effect]] and with [[SAIC]]'s electric-propulsion studies for Edwards at about the same time. He presents them as context for witness [[Ed (Witness 11063)|Ed]]'s claim that Edwards hosts a program testing craft reverse-engineered from non-human technology, and for [[Edgar Fouche|Edgar Fouché]]'s claim that a full anti-gravity propulsion system was developed there by 1979.
 
 ## Sources
 

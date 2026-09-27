@@ -8,7 +8,7 @@ Project Condign was a UK Ministry of Defence study of unidentified aerial phenom
 
 ## The Lockheed Martin video
 
-In "UFOs in the Private Sector - Lockheed Martin", Gerb highlights three things about Condign: its special interest in triangle sightings, its interest in UAP that might come from US government contractor projects, and a listing of the [[Calvine UFO Photo]] as "Astra / Aurora photos" among other 35mm slides not included in the released file. He takes these as evidence that the British suspected the triangles were a US program, the alleged [[Aurora Program|Aurora or Astra]] craft he connects to [[Lockheed Martin]].
+In "UFOs in the Private Sector - Lockheed Martin", Gerb points to three details in Condign: its special interest in triangle sightings, its interest in UAP that might come from US government contractor projects, and a list of 35mm slides left out of the released file, which includes the [[Calvine UFO Photo]] under the label "Astra / Aurora photos". He takes these as evidence that the British suspected the triangles were a US program, the alleged [[Aurora Program|Aurora or Astra]] craft he connects to [[Lockheed Martin]].
 
 ## Sources
 

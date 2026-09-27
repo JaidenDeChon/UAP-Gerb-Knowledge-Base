@@ -1,4 +1,209 @@
 {
+  "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
+    "humanized_at": "2026-09-27T01:20:58Z",
+    "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/AAWSAP.md": {
+    "humanized_at": "2026-09-27T01:20:58Z",
+    "sha256": "66eec4be15994002c1fbe727aa28ad49c8f11d63c1322b25dcca9dff0bbb826d",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Alsos Mission.md": {
+    "humanized_at": "2026-09-27T01:20:58Z",
+    "sha256": "f95e5a213a6b535782a7e6600a66109d9cd7edf11b6e95573fdc265037d7e032",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Aurora Program.md": {
+    "humanized_at": "2026-09-27T01:20:59Z",
+    "sha256": "1990530121f93d3069cc6a84b580b48eb739e611dc62ef6b9c5c1a0fedfb04f2",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Blackjack Team.md": {
+    "humanized_at": "2026-09-27T01:20:59Z",
+    "sha256": "c1006ed1114ff936da7401ed0e0f9fd64f4f630edfdbab8245785ccca58013a5",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Deep Submergence Systems Project (DSSP).md": {
+    "humanized_at": "2026-09-27T01:20:59Z",
+    "sha256": "ab873d417796e7e1a618576d1dd351cb68795f90dd578ec2210b5428df1267d9",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Delta Oscar Echo (DOE) Science Team Deployment.md": {
+    "humanized_at": "2026-09-27T01:20:59Z",
+    "sha256": "9a4ce97d3b1a7185cc3626487c68ed719be4634e74724a9647f3c959835d0e9f",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Guardian Angel Program.md": {
+    "humanized_at": "2026-09-27T01:23:13Z",
+    "sha256": "2c6d0e2229f183fe9cbb37ffbe0c137fc2922e96cd1ae0051c3fce76259769f5",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Kona Blue.md": {
+    "humanized_at": "2026-09-27T01:23:13Z",
+    "sha256": "706aa370b659b5c729d3a070405c3b691ecedf1894a9a4205364f71b7d46da14",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Manhattan Project.md": {
+    "humanized_at": "2026-09-27T01:23:13Z",
+    "sha256": "e7e394b80dd281927116b24a94936022881a0771873d02275b68b924a83b8152",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Missile Test 1802 Data Recovery.md": {
+    "humanized_at": "2026-09-27T01:23:13Z",
+    "sha256": "d70f5f52c583f5fbf8d7dba5fbaaa9598b7ad551d4e1eb57b78e07ba46eba1e6",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Operation Achse.md": {
+    "humanized_at": "2026-09-27T01:23:13Z",
+    "sha256": "78763f87bf01d452582339784f3115fd64f7ccc3cc5c974c7992fb25eeb4b09f",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Operation Bluefly.md": {
+    "humanized_at": "2026-09-27T01:23:13Z",
+    "sha256": "50f4ae599d892797d63aa63de6404ddcb5a12c5219b34fc9d9b8a850b1332c7f",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Operation Desert Shield.md": {
+    "humanized_at": "2026-09-27T01:23:14Z",
+    "sha256": "b1d442dd8cc0aa4d377b0356efa38eeb967a290ae4952cd57f096f524ca5e6e4",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Operation Desert Storm.md": {
+    "humanized_at": "2026-09-27T01:25:05Z",
+    "sha256": "db7a02211c5b2fc6ee2f091343b5f71d8ec9f2ba2a5f8d414e958beffdf19d92",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Operation Laser Strike.md": {
+    "humanized_at": "2026-09-27T01:25:05Z",
+    "sha256": "825f4fb969a151b6a6fe302dcba9002dbad2c994cb97e5c9a8ac4d7c1835ed7a",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Operation Menu.md": {
+    "humanized_at": "2026-09-27T01:25:06Z",
+    "sha256": "037fa5bf5c8ef9e8fc89e72848535e02585448929ac185bc7b484b95218426d2",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Operation Paperclip.md": {
+    "humanized_at": "2026-09-27T01:25:06Z",
+    "sha256": "95ce6b04d73f52b90b75e57414e02c822258ecdbe68a88ff109c77e59a37c938",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Operation Upshot-Knothole.md": {
+    "humanized_at": "2026-09-27T01:25:06Z",
+    "sha256": "e3829a3ee7974264cf93fe611268761f5ffdebca2717e3cf1800e1d70db9c5e2",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Operation Zodiac.md": {
+    "humanized_at": "2026-09-27T01:25:06Z",
+    "sha256": "d1ff762024046057a86274df02128ee4031b45de8222fd4eae102bc7b3d67d6d",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Project Alberta.md": {
+    "humanized_at": "2026-09-27T01:25:06Z",
+    "sha256": "3b115382fed1493a1f4eb4461cebd63d7e5c4de2fe9aa85f479df106cf79fea2",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Project Azorian.md": {
+    "humanized_at": "2026-09-27T01:26:48Z",
+    "sha256": "6fa1af1c7d0b97f871388af2b2e5711613d790023681755710ffe2f4c6e7c545",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Project Blue Book.md": {
+    "humanized_at": "2026-09-27T01:26:48Z",
+    "sha256": "184596ee02eb5fe84ae5d998c4df466f766961d58610971154cf6368b707fa5c",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Project Condign.md": {
+    "humanized_at": "2026-09-27T01:26:49Z",
+    "sha256": "21738eb4349175a3c3bcbd9a5652c063e7c25d15a23bd604901405ef5fe402c1",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Project Corona.md": {
+    "humanized_at": "2026-09-27T01:26:49Z",
+    "sha256": "2ad93058c4d3a8c012c492b53c13f8ce45e8384960e0500709ef3e9f605022d0",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Project Grudge.md": {
+    "humanized_at": "2026-09-27T01:26:49Z",
+    "sha256": "9b22a299efb4be68f80d4ded24e555b38e0a6d4498b59a9f5664a93848612630",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Project Heaven.md": {
+    "humanized_at": "2026-09-27T01:26:49Z",
+    "sha256": "88c7f65655f1cfc27b6fe5d6270ac6a9259d4ff962527aa6ef59c3cf34e08299",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Project Interloper.md": {
+    "humanized_at": "2026-09-27T01:26:49Z",
+    "sha256": "5ee870d49657e7baaad62ab4ecca86d9255dc39478c9005293330b0a305dc6d7",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Project Magnet.md": {
+    "humanized_at": "2026-09-27T01:28:55Z",
+    "sha256": "85774a7f36cad752cd327c6197ca70eec38692d39ab65ce13cb5c43c688f1658",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Project Moon Dust.md": {
+    "humanized_at": "2026-09-27T01:28:56Z",
+    "sha256": "60faf379196c792b32d17903792875efa7aa9ddd24ca1f95261af523da30ca86",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Project Outgrowth.md": {
+    "humanized_at": "2026-09-27T01:28:56Z",
+    "sha256": "1a5e9147d0be843217d79f16cc8dcb2fd74654cdc0d254cd22069bab9009feaf",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Project Palladium.md": {
+    "humanized_at": "2026-09-27T01:28:56Z",
+    "sha256": "fa6c69fd5ea6ea9a974176ff90897d62dde24fbe0a3a807dc5ec68b3ce5b94ac",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Project Pounce.md": {
+    "humanized_at": "2026-09-27T01:28:56Z",
+    "sha256": "ba583d8899d3017e78da127c8b67d3e9aa378de2f42f7b560d734ed3407e0bf6",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Project Redlight.md": {
+    "humanized_at": "2026-09-27T01:28:56Z",
+    "sha256": "790dc5487c9b4f0caba4da610043038b3317f2b05032b5636c14af6e9ad21f2a",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Project Sanddollar.md": {
+    "humanized_at": "2026-09-27T01:28:56Z",
+    "sha256": "e277d3aabd08921fa555f7a937af085cfbb1c6b96180067dc35d298bff0ad52d",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Project Second Story.md": {
+    "humanized_at": "2026-09-27T01:30:42Z",
+    "sha256": "12b9656914c80698465487f7e041e5d4b364a51787a68c055334201d868c7204",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Project Sign.md": {
+    "humanized_at": "2026-09-27T01:30:42Z",
+    "sha256": "e173ca2e28b781c7c4b2f23908fa4d6ea9bc1e93f745d2bd9998c0c29ebca492",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Project Stork.md": {
+    "humanized_at": "2026-09-27T01:30:42Z",
+    "sha256": "d851bcd90bf37e2d20cccd2e9117990daf8b0b9b995c7838b1621a0e49784d17",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/UAP Campaign Plan - Way Forward.md": {
+    "humanized_at": "2026-09-27T01:30:43Z",
+    "sha256": "821de7c05d759324e1b588e7dffb7b2cf84157dbdea36ea86ca917cd7c94b981",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/UFO Crash Retrieval Operations (JSOC).md": {
+    "humanized_at": "2026-09-27T01:30:43Z",
+    "sha256": "5d79403c26ba4909aa80fb22757895aadb75ef540d260db86b789d037e964743",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Operations/Yellow Fruit.md": {
+    "humanized_at": "2026-09-27T01:30:43Z",
+    "sha256": "cf937a69aeaf6b108a43f8253ce9c55bc42f933f5f98316c94e49055f902bff2",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Organizations/160th Special Operations Aviation Regiment.md": {
     "humanized_at": "2026-09-25T23:33:31Z",
     "sha256": "45937eda4caf4922d4b2c949c54b68bfceddc3ac2d0ed695e8f3dd6c5211dd73",
