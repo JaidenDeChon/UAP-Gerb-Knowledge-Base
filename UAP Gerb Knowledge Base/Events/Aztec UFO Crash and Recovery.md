@@ -35,7 +35,7 @@ Journalist [[J. P. Cahn]], who had failed to buy the story, published "The Flyin
 
 ## Significance in Legacy Program Research
 
-UAP Gerb treats Aztec as a record of the first year of organised crash retrieval. It shows a recovery run with new people and procedures after Roswell, material placed in Atomic Energy Commission custody at Los Alamos, and a coordinated effort to discredit those who leaked it. Other videos trace the craft exploitation that researchers associate with Aztec-era material through Atomic Energy Commission-connected personnel, then through [[TRW]] Systems Group, and ultimately to [[Northrop Grumman]] after TRW's acquisition in 2002. The same recovery methods and personnel, notably Eric Henry Wang, recur in the [[1953 Kingman, Arizona Crash Retrieval]].
+Gerb treats Aztec as a record of the first year of organised crash retrieval. It shows a recovery run with new people and procedures after Roswell, material placed in Atomic Energy Commission custody at Los Alamos, and a coordinated effort to discredit those who leaked it. Other videos trace the craft exploitation that researchers associate with Aztec-era material through Atomic Energy Commission-connected personnel, then through [[TRW]] Systems Group, and ultimately to [[Northrop Grumman]] after TRW's acquisition in 2002. The same recovery methods and personnel, notably Eric Henry Wang, recur in the [[1953 Kingman, Arizona Crash Retrieval]].
 
 ## Sources
 

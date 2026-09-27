@@ -9,7 +9,7 @@ The 1958 Trindade Island UFO photographs are a sequence of images of a Saturn-sh
 
 ## The sighting
 
-According to the account UAP Gerb summarizes, Baraúna and many of the other people on deck, including Lieutenant Homero, saw a gleaming object fly toward the island and pass behind Desejado Peak. Seconds later it reversed direction and came back closer, lower and noticeably faster. Baraúna photographed it as it went. The object was described as gray, metallic and solid-looking, surrounded by a greenish haze or mist, with a ring running through its midsection, like a flattened version of the planet Saturn.
+According to the account Gerb summarizes, Baraúna and many of the other people on deck, including Lieutenant Homero, saw a gleaming object fly toward the island and pass behind Desejado Peak. Seconds later it reversed direction and came back closer, lower and noticeably faster. Baraúna photographed it as it went. The object was described as gray, metallic and solid-looking, surrounded by a greenish haze or mist, with a ring running through its midsection, like a flattened version of the planet Saturn.
 
 Brazilian president Juscelino Kubitschek released the photographs to the public in February 1958.
 

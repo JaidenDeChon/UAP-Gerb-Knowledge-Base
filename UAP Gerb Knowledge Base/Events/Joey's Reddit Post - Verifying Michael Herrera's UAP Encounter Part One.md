@@ -20,7 +20,7 @@ Joey noted explicitly that these corroborations do not prove the UAP sighting oc
 
 Joey went on to play a broader investigative role in the Herrera case beyond the Reddit post. Joey served informally as a [[Dead Man Switch]] contact while Herrera was meeting with an anonymous insider allegedly connected through [[Steven Greer]], and later claimed to have verified travel data and location indicators confirming that the secure-facility meeting Herrera described took place.
 
-The UAP Gerb episode covering Joey's investigation also addresses a dispute between Joey's findings and the way [[AARO Historical Report Volume 1]] characterized Herrera's account. Joey and UAP Gerb argue that the report misrepresented material elements of Herrera's testimony, particularly whether Herrera identified the operators as U.S. Special Forces and whether he described the craft as extraterrestrial or reverse-engineered.
+The UAP Gerb episode covering Joey's investigation also addresses a dispute between Joey's findings and the way [[AARO Historical Report Volume 1]] characterized Herrera's account. Joey and Gerb argue that the report misrepresented material elements of Herrera's testimony, particularly whether Herrera identified the operators as U.S. Special Forces and whether he described the craft as extraterrestrial or reverse-engineered.
 
 ## Sources
 

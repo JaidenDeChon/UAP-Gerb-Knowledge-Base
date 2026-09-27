@@ -17,7 +17,7 @@ The ship's communication links malfunctioned for the whole encounter. The same p
 
 The Vulga incident prompted a formal response from the Soviet Navy. [[Fleet Admiral Nikolai Smirnov]] issued a directive that made UFO reporting mandatory for Soviet hydrographic, scientific research and reconnaissance ships. It was authorized by naval officer and UFO researcher [[Vladimir Azhazha]] and signed by Naval Deputy Chief of Staff P. Noitov. The directive covered research and hydrographic vessels, not combat ships, which suggests the navy recognized that scientific survey work made USO phenomena more likely to be encountered and documented.
 
-UAP Gerb explicitly compares this Soviet mandatory reporting directive with the American [[OPNAV 3820]]. He notes that both were issued in response to significant encounters, and that both sent reports through intelligence channels instead of public-facing programs.
+Gerb explicitly compares this Soviet mandatory reporting directive with the American [[OPNAV 3820]]. He notes that both were issued in response to significant encounters, and that both sent reports through intelligence channels instead of public-facing programs.
 
 ## Sources
 

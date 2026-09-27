@@ -5,7 +5,7 @@ tags:
   - event
 ---
 
-The Ascension Island USO Sighting occurred on June 25, 1960, during the [[Missile Test 1802 Data Recovery]] operation near [[Ascension Island]] in the South Atlantic. Several technical witnesses, among them an [[RCA]] photographer and test observer, the missile recovery dive team and the aircraft crew, saw a light emerge from beneath the ocean surface near the data cassette they were recovering. [[Project Blue Book]] attributed the sighting to a flare, but the investigation confirmed no flare was released at the location. UAP Gerb connects this case to [[Luis Elizondo]]'s account of a Navy diving team encountering a massive [[Unidentified Submerged Object (USO)]] during a similar missile recovery operation.
+The Ascension Island USO Sighting occurred on June 25, 1960, during the [[Missile Test 1802 Data Recovery]] operation near [[Ascension Island]] in the South Atlantic. Several technical witnesses, among them an [[RCA]] photographer and test observer, the missile recovery dive team and the aircraft crew, saw a light emerge from beneath the ocean surface near the data cassette they were recovering. [[Project Blue Book]] attributed the sighting to a flare, but the investigation confirmed no flare was released at the location. Gerb connects this case to [[Luis Elizondo]]'s account of a Navy diving team encountering a massive [[Unidentified Submerged Object (USO)]] during a similar missile recovery operation.
 
 ## Incident Description
 
@@ -17,7 +17,7 @@ Blue Book attributed the sighting to a flare. However, investigation established
 
 ## Connection to Elizondo Account
 
-UAP Gerb explicitly connects this case to an account told by [[Luis Elizondo]]. In it, a Navy helicopter crew on routine cruise missile recovery operations encountered a massive dark circular object emerging from thousands of feet below the surface, and the object ultimately pulled the recovered missile back into the ocean. The two cases share the same structure, a USO emerging from depth during a missile recovery operation, and this is treated as a meaningful pattern rather than coincidence.
+Gerb explicitly connects this case to an account told by [[Luis Elizondo]]. In it, a Navy helicopter crew on routine cruise missile recovery operations encountered a massive dark circular object emerging from thousands of feet below the surface, and the object ultimately pulled the recovered missile back into the ocean. The two cases share the same structure, a USO emerging from depth during a missile recovery operation, and this is treated as a meaningful pattern rather than coincidence.
 
 ## Sources
 
