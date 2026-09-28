@@ -1009,6 +1009,11 @@
     "sha256": "20f8a505cf675c3ea2b7c7c7d6f6b1aea35ec7aea1b6fca3c9f50ca155d73d88",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Los Llanos Airbase, Spain.md": {
+    "humanized_at": "2026-09-28T21:00:27Z",
+    "sha256": "6e7dcf1a09eab5d1d2eb65d3a4a08f9a8a9790ff526959c6f11dd7b2a73109f2",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
