@@ -1074,6 +1074,11 @@
     "sha256": "0ce014d046dfb7557ba51df74a3752719f74ceb885c48b74f3473025d14e4a41",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/McMinnville, Oregon.md": {
+    "humanized_at": "2026-09-28T21:09:45Z",
+    "sha256": "779656de50a4179cf58ead8620375fc0eede3b280fa3b5e5b27d866b06640c78",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
