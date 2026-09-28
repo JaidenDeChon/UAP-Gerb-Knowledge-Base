@@ -724,6 +724,11 @@
     "sha256": "1e0cf1814a0d0789aeb5c926af969658ace79b72b81903c37ba976475b956b43",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Ditto Technical Center.md": {
+    "humanized_at": "2026-09-28T20:09:33Z",
+    "sha256": "e2a559b4609da2704780134e1c752fa6b860976ca2db1287e00becdc9914fa40",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
