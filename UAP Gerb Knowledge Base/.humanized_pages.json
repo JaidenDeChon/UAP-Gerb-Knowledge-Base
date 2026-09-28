@@ -1144,6 +1144,11 @@
     "sha256": "b9f161c05aba7fd762a9f22c829ea38b2257941f330a1b9cd441c0be84ac4ba4",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Nuremberg, Holy Roman Empire.md": {
+    "humanized_at": "2026-09-28T21:22:33Z",
+    "sha256": "8e65c4c2d50934a1bf42b8359d0738c057ae5b9139450d365ec1cc5cd7263198",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
