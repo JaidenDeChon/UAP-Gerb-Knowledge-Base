@@ -10,13 +10,13 @@ La Joya Airbase is a [[Peruvian Air Force]] military installation in the Arequip
 
 ## The 1980 UFO Intercept
 
-On the early morning of April 11, 1980, a strange silvery object was spotted floating near the end of La Joya's runway, at a time of heightened concern about espionage in Peru. Santa María described its presence, in restricted airspace without authorization, as "a grave challenge to national sovereignty."
+Early on the morning of April 11, 1980, a strange silvery object was spotted floating near the end of La Joya's runway, at a time of heightened concern about espionage in Peru. Santa María described its presence, in restricted airspace without authorization, as "a grave challenge to national sovereignty."
 
-He engaged the object with a burst of 64 30mm shells that had no effect on it, then, according to Gerb's account, chased it at Mach 1.6 for 84 kilometres before it stopped dead, evaded a second attack run, and shadowed his climb until he broke off, low on fuel.
+He fired a burst of 64 30mm shells at the object, which had no effect on it. According to Gerb's account, Santa María then chased it at Mach 1.6 for 84 kilometres until it stopped dead; the object evaded a second attack run and shadowed his climb until he broke off, low on fuel.
 
 ## Witness Corroboration
 
-On Santa María's return to La Joya, multiple eyewitnesses and base personnel also observed the object. The incident was the subject of an official investigation recorded in a [[DOD Joint Chiefs]] briefing document, the same one that describes the [[1968 Nepal Circular Disc Crash|1968 crash disc in Nepal]], which Gerb came across while researching [[Project Moon Dust]].
+When Santa María returned to La Joya, multiple eyewitnesses and base personnel also saw the object. An official investigation of the incident is recorded in a [[DOD Joint Chiefs]] briefing document. The same document describes the [[1968 Nepal Circular Disc Crash|1968 crash disc in Nepal]], and Gerb came across it while researching [[Project Moon Dust]].
 
 ## Sources
 

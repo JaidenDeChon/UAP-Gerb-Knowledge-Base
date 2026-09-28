@@ -959,6 +959,11 @@
     "sha256": "e519df7232bd3e2de1a00f150475596321dece4e96c5e3315b7aeb26baf829ac",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/La Joya Airbase, Arequipa, Peru.md": {
+    "humanized_at": "2026-09-28T20:52:25Z",
+    "sha256": "34b5728a6db8de78550c9db63fea8668da08191a91b00969588a3dabfa165df2",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
