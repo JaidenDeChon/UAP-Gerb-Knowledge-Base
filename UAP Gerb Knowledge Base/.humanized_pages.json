@@ -994,6 +994,11 @@
     "sha256": "6742d83efbde2c3e60d4533f3b712c0fb0987e7bb35be64ce1a35ec648079842",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Lockbourne Air Force Base, Columbus, Ohio.md": {
+    "humanized_at": "2026-09-28T20:57:41Z",
+    "sha256": "4a32228f3970eec31316d83cdb100a4f3f012c3c5ed6d369d48232fef61ada24",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
