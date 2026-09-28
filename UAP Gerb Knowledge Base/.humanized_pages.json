@@ -1344,6 +1344,11 @@
     "sha256": "4fbab1e0815c2bf9e4276d5d28b9f9fffa5e9979b08f566a605a455aee2232c5",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/University of Dade City, Florida.md": {
+    "humanized_at": "2026-09-28T21:58:59Z",
+    "sha256": "0c658ecf42aebcd66974386aa3836041ec65a5c0c3e1a671dea942a5423d4932",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
