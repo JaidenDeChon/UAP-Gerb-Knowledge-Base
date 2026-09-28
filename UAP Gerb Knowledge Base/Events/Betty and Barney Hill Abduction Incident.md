@@ -5,7 +5,7 @@ tags:
   - event
 ---
 
-The Betty and Barney Hill abduction incident is a UFO encounter and alleged alien abduction involving [[Betty Hill]] and [[Barney Hill]] on the night of September 19–20, 1961, near Lancaster, New Hampshire. It is the first extensively publicized, clinically investigated alien abduction case in United States history and one of the most consequential events in the development of modern UFO culture. The couple's account was corroborated by physical symptoms, missing time, separate hypnotic regression sessions and a report to a federal investigation committee. It established many of the story elements that define the typical abduction account.
+The Betty and Barney Hill abduction incident is a UFO encounter and alleged alien abduction involving [[Betty Hill]] and [[Barney Hill]] on the night of September 19–20, 1961, near Lancaster, New Hampshire. It is the first extensively publicized, clinically investigated alien abduction case in United States history and one of the most consequential events in the development of modern UFO culture. The couple's account was corroborated by physical symptoms, missing time, separate hypnotic regression sessions and a report to NICAP, a civilian UFO research organization. It established many of the story elements that define the typical abduction account.
 
 ## Background
 
