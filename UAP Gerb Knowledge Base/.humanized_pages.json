@@ -1029,6 +1029,11 @@
     "sha256": "d3cd3f45d1cdf7bc0c99bc1abb6afeae4edfa21b3ec27bb5fbfa2a470c3b03c6",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Magenta, Italy.md": {
+    "humanized_at": "2026-09-28T21:03:11Z",
+    "sha256": "d06e583e26fed6be2f63d7c2fcf14081b490f6c519e4bdcd91e232942a230ff2",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
