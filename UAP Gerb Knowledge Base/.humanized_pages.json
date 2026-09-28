@@ -934,6 +934,11 @@
     "sha256": "daefad4f583735ebd5652852c5cee7e1a8d9ade3ac5c3304f725940f992bd11d",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Kingman, Arizona.md": {
+    "humanized_at": "2026-09-28T20:48:16Z",
+    "sha256": "c71145a3bfef61e0956540286c8cdf87fd62b09544d6356ab2f7559c67c0cc8c",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
