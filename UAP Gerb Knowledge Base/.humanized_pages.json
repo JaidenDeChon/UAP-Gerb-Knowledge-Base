@@ -1224,6 +1224,11 @@
     "sha256": "ed450485d874872f6b78e318d114648e2d59fe2897669032d132f561bbf2292e",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Sagunto, Spain.md": {
+    "humanized_at": "2026-09-28T21:37:35Z",
+    "sha256": "85a60cdffe2cc91bae9fc32a3b2f100361dad1304a363c4562c9fa43584aa305",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
