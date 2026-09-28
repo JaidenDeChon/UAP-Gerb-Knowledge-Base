@@ -764,6 +764,11 @@
     "sha256": "41e2cdd00aadffd52cdb26a4c27ec63445ebe4bb47811d8cf44bc64dfcac131a",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Ent Air Force Base, Colorado.md": {
+    "humanized_at": "2026-09-28T20:20:34Z",
+    "sha256": "1f3482a4f7d5843840766b0971ef0e3aa67cea153c29efe532d965d98b434e77",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
