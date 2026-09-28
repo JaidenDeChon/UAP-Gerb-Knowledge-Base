@@ -644,6 +644,11 @@
     "sha256": "bccda5fec5014498421615f64e8c40c3cb50ed2b49b7948ae145a4f74e04745c",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Cedar Hill, New Mexico.md": {
+    "humanized_at": "2026-09-28T19:54:58Z",
+    "sha256": "9aedac38f8b6da81501a13bb2c5ffc0eb80853e488a82461c64fd6ae6f516a8c",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
