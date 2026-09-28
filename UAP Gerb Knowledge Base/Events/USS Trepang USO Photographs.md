@@ -15,7 +15,7 @@ The images first appeared in the French magazine *Top Secret*, and the original 
 
 ## Competing Explanations
 
-UAP Gerb sets out four positions that have been argued since the photographs surfaced:
+Gerb sets out four positions that have been argued since the photographs surfaced:
 
 - **Genuine.** The images show real trans-medium craft encountered by the submarine.
 - **Hoax.** The images were fabricated or staged.

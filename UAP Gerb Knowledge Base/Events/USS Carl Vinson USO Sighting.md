@@ -9,7 +9,7 @@ The USS Carl Vinson USO Sighting is a 2010 account by US Navy Petty Officer John
 
 ## The Sighting
 
-In Bowman's words as quoted in [[USO - Unidentified Submerged Objects]], he was staring into the water from above when a large, fat, white Tic Tac-shaped object about 20 feet long suddenly appeared below him, moving right, and darted into the depths as fast as it had appeared. He described it as definitely a solid object, but said that as it descended its forward end "rapidly collapsed in on itself" and it disappeared.
+In Bowman's words as quoted in [[USO - Unidentified Submerged Objects]], he was staring into the water from above when a large, fat, white Tic Tac-shaped object about 20 feet long suddenly appeared below him. It moved to the right and darted into the depths as fast as it had appeared. He described it as definitely a solid object, but said that as it descended its forward end "rapidly collapsed in on itself" and it disappeared.
 
 ## Aftermath
 

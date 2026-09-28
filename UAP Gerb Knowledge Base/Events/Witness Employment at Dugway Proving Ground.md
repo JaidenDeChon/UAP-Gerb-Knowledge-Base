@@ -5,4 +5,4 @@ tags:
   - event
 ---
 
-The witness began working for C Martin at Dugway Proving Ground as a maintenance painter and sign technician; approximately four months in, he was tasked with electrical meter reading that led him to observe unusual facilities.
+The witness began working for C Martin at Dugway Proving Ground as a maintenance painter and sign technician. About four months in, he was assigned to read electrical meters, and that work led him to observe unusual facilities.

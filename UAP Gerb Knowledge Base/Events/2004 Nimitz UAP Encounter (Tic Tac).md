@@ -9,11 +9,11 @@ The 2004 Nimitz UAP encounter, known as the "Tic Tac" encounter, is a series of 
 
 ## The encounter
 
-Fravor, then commanding officer of the VFA-41 "Black Aces", was sent to intercept an object the fleet's radar had been tracking. He and the other aircrew saw the Tic Tac moving over a patch of roiling white water that looked as if something large lay below the surface; the object rose toward Fravor's jet, then shot away. Later that day another crew filmed an object with their jet's targeting pod, the footage now known as the FLIR video. Some accounts in UAP Gerb's coverage also describe the objects as jamming the Navy jets' radar and sensors.
+Fravor, then commanding officer of the VFA-41 "Black Aces", was sent to intercept an object the fleet's radar had been tracking. He and the other aircrew saw the Tic Tac moving over a patch of roiling white water that looked as if something large lay below the surface; the object rose toward Fravor's jet, then shot away. Later that day another crew filmed an object with their jet's targeting pod, the footage now known as the FLIR video. Some accounts in Gerb's coverage also say the objects jammed the Navy jets' radar and sensors.
 
 ## Flight characteristics
 
-Physicist [[Kevin Knuth]] and his co-authors [[Robert M. Powell]] and [[Peter Reali]] analysed the encounter in their 2019 *Entropy* paper, "Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles", and Knuth returned to it in his 2023 [[Sol Foundation 2023 Presentation by Kevin Knuth|Sol Foundation talk]]. As UAP Gerb relays it:
+Physicist [[Kevin Knuth]] and his co-authors [[Robert M. Powell]] and [[Peter Reali]] analysed the encounter in their 2019 *Entropy* paper, "Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles", and Knuth returned to it in his 2023 [[Sol Foundation 2023 Presentation by Kevin Knuth|Sol Foundation talk]]. As Gerb relays it:
 
 - The object dropped from 28,000 feet to sea level in about 78 seconds, reaching about 42,000 mph mid-descent. The lower bound on its acceleration is about 5,000 G; Gerb gives 5,400 G. By comparison, a human survives about 16 G for under a minute, an F-35's wings come off at about 13 G, and the best ballistic missiles fail at around 100 G.
 - Assuming a deliberately low mass of 1,000 kg, a tenth of a similarly sized F-18, the manoeuvre needed about 1,100 gigawatts of power, which Gerb puts at ten times the total nuclear output of the United States.
@@ -23,7 +23,7 @@ Gerb uses these figures to answer the claim that UAP are foreign adversary techn
 
 ## Attribution claims and the submerged-object reading
 
-Journalist [[Ross Coulthart]] has said he knows the Tic Tac to be Lockheed Martin technology, and [[Steven Greer]] says he told Fravor it came out of the Lockheed Skunk Works; UAP Gerb's Lockheed coverage records both claims, and Gerb thinks there are both human-made and non-human Tic Tacs. The churning water beneath the object has been read as evidence of a large [[Unidentified Submerged Object (USO)|submerged object]]: Rear Admiral [[Rear Admiral Timothy Gallaudet|Timothy Gallaudet]] cites it in his 2024 white paper *Beneath the Surface*, and Gerb's MITRE video connects it to the alleged "[[Tic Tac Factory]]". Gerb's USO video also sets it beside the earlier [[USS Nimitz 1991 USO Encounter]].
+Journalist [[Ross Coulthart]] has said he knows the Tic Tac to be Lockheed Martin technology, and [[Steven Greer]] says he told Fravor it came out of the Lockheed Skunk Works. Gerb's Lockheed coverage records both claims, and he thinks some Tic Tacs are human-made and others non-human. The churning water beneath the object has been read as evidence of a large [[Unidentified Submerged Object (USO)|submerged object]]: Rear Admiral [[Rear Admiral Timothy Gallaudet|Timothy Gallaudet]] cites it in his 2024 white paper *Beneath the Surface*, and Gerb's MITRE video connects it to the alleged "[[Tic Tac Factory]]". Gerb's USO video also sets it beside the earlier [[USS Nimitz 1991 USO Encounter]].
 
 ## Sources
 

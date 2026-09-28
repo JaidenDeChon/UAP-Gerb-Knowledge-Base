@@ -13,18 +13,13 @@ Captain Gabe described:
 
 > "Long arms issuing from a center around which the whole system appeared to rotate."
 
-Key parameters:
-- **Position**: Submerged beneath the ocean surface
-- **Scale**: So large that only half of the wheel could be seen at one time, with the center near the horizon
-- **Behavior**: The wheel moved forward and varied in speed and rotation
-- **Disappearance**: The wheel faded or disappeared when its center was directly beneath the vessel
-- **Location**: Strait of Malacca
+The wheel was submerged beneath the ocean surface in the Strait of Malacca. It was so large that only half of it could be seen at one time, with the center near the horizon. It moved forward and varied in speed and rotation, and it faded or disappeared when its center was directly beneath the vessel.
 
-The disappearance of the wheel when its center reached the observer's position is a structurally significant detail. If the wheel were a natural bioluminescent phenomenon radiating uniformly from a central disturbance, it would not specifically disappear when the center reached the observer — a property more consistent with a rotating structure with a fixed orientation relative to the ship than with a passive optical phenomenon.
+The way the wheel disappeared when its center reached the observer's position is an important detail. A natural bioluminescent phenomenon radiating uniformly from a central disturbance would not specifically disappear when the center reached the observer. That behavior is more consistent with a rotating structure held at a fixed orientation relative to the ship than with a passive optical phenomenon.
 
 ## Publication Record
 
-The case's appearance in *Scientific American* via the Danish Meteorological Institute's annual establishes contemporaneous scientific documentation — it was not merely a sailors' log entry but a case deemed worthy of publication in a major scientific journal of the era, however tentatively framed.
+Because the case reached *Scientific American* through the Danish Meteorological Institute's annual, it has contemporaneous scientific documentation. It was more than a sailors' log entry: a major scientific journal of the era judged it worth publishing, however tentatively it framed the case.
 
 ## Sources
 

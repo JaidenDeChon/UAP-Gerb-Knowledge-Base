@@ -13,7 +13,7 @@ As Gerb recounts it in [[Videos/Global Air Force UFO Encounters You've Probably 
 
 ## The Flare Explanation
 
-Shermer, head of [[Skeptic Magazine]], and other detractors suggest the lights were burn-off flares on an offshore oil platform. Gerb first says he chooses to believe the military pilots, while leaving viewers free to side with Shermer. In his closing assessment he rates the Mexico sightings as the case, of the four he covers, with the highest probability of a prosaic explanation, but says he is not sure the 11 objects, three of them on radar, were just flares, and that more analysis is needed. He notes that the case is famous in Mexico but gets little attention in the United States.
+Shermer, head of [[Skeptic Magazine]], and other detractors suggest the lights were burn-off flares on an offshore oil platform. Gerb first says he chooses to believe the military pilots, while leaving viewers free to side with Shermer. In his closing assessment he rates the Mexico sightings as the case, of the four he covers, with the highest probability of a prosaic explanation. He still says he is not sure the 11 objects, three of them on radar, were just flares, and that more analysis is needed. He notes that the case is famous in Mexico but gets little attention in the United States.
 
 ## Sources
 

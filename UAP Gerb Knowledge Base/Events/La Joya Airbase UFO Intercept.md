@@ -11,12 +11,12 @@ The La Joya Airbase UFO Intercept took place early on April 11, 1980, over Arequ
 
 As Gerb recounts it in [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters You've Probably Never Heard of]]:
 
-- **Scramble.** Santa María is ordered up to intercept the object, which he describes as "in restricted airspace without authorization, representing a grave challenge to national sovereignty". Peru is on alert for espionage.
-- **Attack run.** He climbs to 2,500 metres and, assuming a balloon, fires 64 30mm shells, "a cone-shaped wall of fire that would normally obliterate anything in its path". The barrage has no effect.
-- **The chase.** The object shoots skyward. On afterburner, at Mach 1.6, he follows it for 84 kilometres until it stops dead and he must turn sharply to avoid a collision.
-- **Second attack.** He closes in and locks on, but the object climbs fast again: "I was left underneath it. It broke the attack."
-- **The climb.** Trying, like [[George F. Gorman]] in 1948, to get above it, he climbs after the object, which shadows him from 14,000 feet up to 19,200 (Gerb's figures).
-- **The close look.** Low on fuel, he approaches within 100 metres (see below), then zigzags away in fear, hoping to be hard to hit.
+- Santa María is ordered up to intercept the object, which he describes as "in restricted airspace without authorization, representing a grave challenge to national sovereignty". Peru is on alert for espionage.
+- He climbs to 2,500 metres and, taking the object for a balloon, fires 64 30mm shells, "a cone-shaped wall of fire that would normally obliterate anything in its path". The shells have no effect.
+- The object shoots upward. He follows it on afterburner at Mach 1.6 for 84 kilometres, until it stops dead and he has to turn sharply to avoid hitting it.
+- On a second attack he closes in and locks on, but the object climbs fast again: "I was left underneath it. It broke the attack."
+- He then tries to get above it, as [[George F. Gorman]] did in 1948. The object shadows him as he climbs from 14,000 feet to 19,200 (Gerb's figures).
+- Low on fuel, he approaches to within 100 metres for a close look (see below), then zigzags away in fear, hoping to be hard to hit.
 
 ## The Object
 
@@ -24,11 +24,11 @@ Up close, Santa María said, "the balloon was not a balloon at all". It measured
 
 ## Corroboration
 
-On his return to base, multiple eyewitnesses and base personnel also observed the object. The official investigation that followed is recorded in the DOD Joint Chiefs briefing, the same document that describes the [[1968 Nepal Circular Disc Crash]]. Per Gerb, it corroborates that Santa María fired 30mm rounds at the object, which suffered no damage and went on to perform remarkable manoeuvres.
+Several eyewitnesses and base personnel also saw the object when he returned to base. The official investigation that followed is recorded in the DOD Joint Chiefs briefing, the same document that describes the [[1968 Nepal Circular Disc Crash]]. According to Gerb, the document confirms that Santa María fired 30mm rounds at the object, which was not damaged and went on to perform remarkable manoeuvres.
 
 ## Gerb's Assessment
 
-Gerb ranks the La Joya intercept, with the [[Gorman Dogfight]], as the most compelling of the four cases in his video, with the most sensory data and the strongest case for a UFO rather than a prosaic origin.
+Gerb ranks the La Joya intercept and the [[Gorman Dogfight]] as the most compelling of the four cases in his video. In his view they have the most sensory data and the strongest case for a UFO over an ordinary explanation.
 
 ## Sources
 

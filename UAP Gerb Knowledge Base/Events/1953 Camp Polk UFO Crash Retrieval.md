@@ -5,7 +5,7 @@ tags:
   - event
 ---
 
-The 1953 Camp Polk UFO crash retrieval is an alleged crash-landing and recovery of an egg-shaped craft, with one dead and three living occupants, at the US Army's [[Camp Polk, Louisiana]] in July 1953. It is known from a single anonymous witness, "HJ", whose account researcher [[Leonard Stringfield]] published in his 1982 *UFO Crash/Retrieval Status Report III*. UAP Gerb presents it as one of the closest historical parallels to the 1997 [[Peru UFO Crash Incident]].
+The 1953 Camp Polk UFO crash retrieval is an alleged crash-landing and recovery of an egg-shaped craft, with one dead and three living occupants, at the US Army's [[Camp Polk, Louisiana]] in July 1953. It is known from a single anonymous witness, "HJ", whose account researcher [[Leonard Stringfield]] published in his 1982 *UFO Crash/Retrieval Status Report III*. Gerb presents it as one of the closest historical parallels to the 1997 [[Peru UFO Crash Incident]].
 
 ## The witness
 
@@ -13,7 +13,7 @@ Stringfield learned of HJ between 1980 and 1982, and describes him as a sergeant
 
 ## The crash
 
-At dusk, around 7 p.m., HJ's platoon saw an egg-shaped object crash-land "out in the boondocks". Authorities and A and B Companies were ordered to the site. HJ got within about 15 yards before a Lieutenant Whitting ordered B Company back to 100 yards, telling "peons" like HJ to get out of the way; Gerb says he could place a real Lieutenant Whitting at Camp Polk at the time. The ground around the craft was burned into a powder like crushed brick, and heat still came off the object.
+At dusk, around 7 p.m., HJ's platoon saw an egg-shaped object crash-land "out in the boondocks". Authorities and A and B Companies were ordered to the site. HJ got within about 15 yards before a Lieutenant Whitting ordered B Company back to 100 yards, telling "peons" like HJ to get out of the way. Gerb says he could place a real Lieutenant Whitting at Camp Polk at the time. The ground around the craft was burned into a powder like crushed brick, and heat still came off the object.
 
 The craft was a large windowless, lightless ovoid as wide as a three-bedroom single-storey ranch house, which Gerb puts at 35 to 70 feet, "surrounded by a fin-like protrusion on its equator which was still rotating".
 
@@ -27,12 +27,12 @@ He described them as 3.5 to 4 feet tall and slightly built, walking stiffly as i
 
 Gerb lists the parallels with [[Jonathan Weygandt]]'s 1997 account:
 
-- **Shape.** Both craft were large eggs; HJ's was 35 to 70 feet wide, Weygandt's about 20 m (roughly 66 feet) long.
-- **A moving band.** HJ's rotating equatorial fin echoes the light Weygandt saw circling the craft's circumference until it slowed and stopped.
-- **Occupants at an open hatch.** HJ saw occupants taken out through a hatch; Weygandt saw a four-fingered arm hanging from a half-open one.
-- **A rapid, specialised team.** In both, a dedicated detachment with medical or protective equipment arrived soon after first responders.
+- Both craft were large and egg-shaped. HJ's was 35 to 70 feet wide, and Weygandt's was about 20 m (roughly 66 feet) long.
+- Both had a moving band around the middle. HJ's rotating fin on the craft's equator resembles the light Weygandt saw circling the craft's circumference until it slowed and stopped.
+- Both involved occupants at an open hatch. HJ saw occupants taken out through a hatch, and Weygandt saw a four-fingered arm hanging from a half-open one.
+- In both, a dedicated detachment with medical or protective equipment arrived soon after the first responders.
 
-He also connects HJ's description of occupants led out "like children", barely responding to stimuli, with an anonymous retrieval operator's account that crews often had to lead cognitively limited occupants out of craft, which some take as evidence that certain occupants are something like biological androids.
+Gerb also links HJ's description of occupants led out "like children", barely responding to stimuli, to the account of an anonymous retrieval operator. According to that operator, crews often had to lead cognitively limited occupants out of craft. Some take this as evidence that certain occupants are something like biological androids.
 
 ## Sources
 

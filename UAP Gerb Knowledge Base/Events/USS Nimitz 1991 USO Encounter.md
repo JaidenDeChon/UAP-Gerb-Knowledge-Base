@@ -15,7 +15,7 @@ According to Thomas, the ship had been ordered to darken and clear its decks, bu
 
 The next day, men in civilian clothes came aboard the Nimitz and questioned Thomas about why he had been outside and what he had seen. Thomas told them nothing, out of fear of being disciplined.
 
-In [[USO - Unidentified Submerged Objects]], UAP Gerb says he was unable to locate Thomas's service record and asks viewers to weigh the account accordingly.
+In [[USO - Unidentified Submerged Objects]], Gerb says he was unable to locate Thomas's service record and asks viewers to weigh the account accordingly.
 
 ## Sources
 

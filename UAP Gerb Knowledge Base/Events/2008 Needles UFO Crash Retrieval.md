@@ -5,7 +5,7 @@ tags:
   - event
 ---
 
-The 2008 Needles UFO crash retrieval is an alleged incident of 14 May 2008 in which an unidentified object fell out of the sky onto the bank of the Colorado River south of Needles, California, near the Nevada and Arizona borders. Witnesses said it was removed by government personnel. Las Vegas journalist [[George Knapp]] investigated the case over several years, and UAP Gerb cites it as evidence that the Department of Energy's [[Office of Secure Transportation (OST)|Office of Secure Transportation]] takes part in crash recoveries.
+The 2008 Needles UFO crash retrieval is an alleged incident of 14 May 2008 in which an unidentified object fell out of the sky onto the bank of the Colorado River south of Needles, California, near the Nevada and Arizona borders. Witnesses said it was removed by government personnel. Las Vegas journalist [[George Knapp]] investigated the case over several years, and Gerb cites it as evidence that the Department of Energy's [[Office of Secure Transportation (OST)|Office of Secure Transportation]] takes part in crash recoveries.
 
 ## The Incident
 
@@ -13,11 +13,11 @@ In the early morning, witnesses including former police officer Frank Costigan s
 
 ## The Government Connection
 
-According to Costigan and other witnesses, some of the personnel wore uniforms marked "Nevada Test Site" or badges of the [[National Nuclear Security Administration]]. Knapp's reporting, including a 14 May 2020 article titled "Strange Object Crashes in Needles, Investigation Leads to Secretive Government Agency", identified the convoys as belonging to the NNSA's Office of Secure Transportation, which moves nuclear weapons and special nuclear material in unmarked convoys. A contemporary news report also floated a link to the recent launch of a secret military payload.
+According to Costigan and other witnesses, some of the personnel wore uniforms marked "Nevada Test Site" or badges of the [[National Nuclear Security Administration]]. Knapp's reporting, including a 14 May 2020 article titled "Strange Object Crashes in Needles, Investigation Leads to Secretive Government Agency", identified the convoys as belonging to the NNSA's Office of Secure Transportation, which moves nuclear weapons and special nuclear material in unmarked convoys. A news report at the time also suggested a link to the recent launch of a secret military payload.
 
 ## Interpretation
 
-In his investigation of [[Sandia National Laboratories]], UAP Gerb uses the Needles case to support his theory that the NNSA, working with national laboratories such as Sandia, uses OST, the [[NEST (Nuclear Emergency Support Team)|Nuclear Emergency Support Team]] and the [[DOE Special Response Teams (SRTs)|Special Response Teams]] to recover and move downed craft within the United States under the authority of the [[Atomic Energy Act of 1954]].
+In his investigation of [[Sandia National Laboratories]], Gerb uses the Needles case to support his theory that the NNSA, working with national laboratories such as Sandia, uses OST, the [[NEST (Nuclear Emergency Support Team)|Nuclear Emergency Support Team]] and the [[DOE Special Response Teams (SRTs)|Special Response Teams]] to recover and move downed craft within the United States under the authority of the [[Atomic Energy Act of 1954]].
 
 ## Sources
 

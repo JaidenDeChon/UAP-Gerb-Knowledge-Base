@@ -16,13 +16,13 @@ Captain Moore, navigating the SS Siberian approximately 10 nautical miles off Ca
 3. Moving toward the craft
 4. Speeding away into the sky
 
-The US Hydrographic Bureau's characterization of the event as an electrical phenomenon reflects the limited explanatory vocabulary available in 1887 for an observed light emerging from the ocean surface and ascending with apparent directed movement.
+The US Hydrographic Bureau classed the event as an electrical phenomenon. The label reflects how little explanatory vocabulary existed in 1887 for a light that emerged from the ocean surface and rose with apparent directed movement.
 
 ## Official Response
 
-The US Hydrographic Bureau in Washington collected and documented this report, making it one of the earliest officially recorded USO or anomalous maritime sighting cases in an American government archive. The bureau's acknowledgment that the event was "one of the most rare and most difficult to explain electrical phenomena" is notable in that it does not dismiss the account outright but concedes the absence of a satisfactory conventional explanation.
+The US Hydrographic Bureau in Washington collected and documented this report, which makes it one of the earliest USO or anomalous maritime sightings officially recorded in an American government archive. The bureau did not dismiss the account outright. By calling the event "one of the most rare and most difficult to explain electrical phenomena", it conceded that it had no satisfactory conventional explanation.
 
-UAP Gerb notes that no documented cases of ball lightning exiting the sea are known — making the "electrical phenomena" categorization provisional at best and suggesting the US Hydrographic Bureau had no better framework for the observation than to classify it under the broadest available anomalous electrical category.
+Gerb notes that no documented cases of ball lightning exiting the sea are known. That makes the "electrical phenomena" categorization provisional at best, and it suggests the US Hydrographic Bureau had no better framework for the observation than to file it under the broadest anomalous electrical category available.
 
 ## Sources
 

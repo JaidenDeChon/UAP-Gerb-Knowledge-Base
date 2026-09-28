@@ -5,11 +5,11 @@ tags:
   - event
 ---
 
-The SS Morgantown Victory Sighting is a [[Project Blue Book]] case from January 11, 1966, in which the third mate, helmsman, and bow lookout of the SS Morgantown Victory observed a large cigar-shaped luminous object perform controlled maneuvers before entering the sea approximately 1,000 miles southeast of Tokyo. Blue Book attributed the case to the reentry of the Cosmos 33 satellite — an explanation UAP Gerb argues cannot account for the object's hovering and controlled directional changes.
+The SS Morgantown Victory Sighting is a [[Project Blue Book]] case from January 11, 1966, in which the third mate, helmsman, and bow lookout of the SS Morgantown Victory observed a large cigar-shaped luminous object perform controlled maneuvers before entering the sea approximately 1,000 miles southeast of Tokyo. Blue Book attributed the case to the reentry of the Cosmos 33 satellite. Gerb argues that this explanation cannot account for the object's hovering and controlled changes of direction.
 
 ## Incident Description
 
-Three crew members — the third mate, helmsman, and bow lookout — observed an object approach the starboard side of the ship from the horizon. The object had an orange-yellow glow at its front with a dimmer dorsal glow and two lights on top. It was estimated at 200 to 250 feet long and 35 to 40 feet wide. The sequence of behavior was:
+Three crew members (the third mate, the helmsman and the bow lookout) watched an object approach the starboard side of the ship from the horizon. It had an orange-yellow glow at the front, a dimmer glow along its upper side and two lights on top. It was estimated at 200 to 250 feet long and 35 to 40 feet wide. In order, the object:
 
 1. Approached from the horizon on the starboard side
 2. Turned 180 degrees to avoid passing directly over the vessel
@@ -23,7 +23,7 @@ The entire incident lasted three minutes. The ship master believed a plane had c
 
 ## Blue Book Classification and Critique
 
-Blue Book attributed the sighting to the decay of the Cosmos 33 Soviet satellite. UAP Gerb's critique is direct: a decaying satellite follows a ballistic reentry trajectory determined by atmospheric drag and orbital mechanics. It cannot hover, reverse direction 180 degrees, or perform independent course changes. The Cosmos 33 explanation fails on the basic physics of reentry dynamics.
+Blue Book attributed the sighting to the decay of the Cosmos 33 Soviet satellite. Gerb's critique is that a decaying satellite follows a ballistic reentry trajectory set by atmospheric drag and orbital mechanics. It cannot hover, reverse direction 180 degrees or change course on its own, so the Cosmos 33 explanation fails on the basic physics of reentry dynamics.
 
 ## Sources
 

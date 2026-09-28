@@ -13,7 +13,7 @@ Between 11 p.m. and midnight, [[Sergeant Montil|Staff Sergeant Montil]], [[Serge
 
 ## The craft
 
-The object was a massive metallic [[Egg-shaped UAP|egg or teardrop]] about 10 m high and 20 m long, embedded at 45 degrees. Its surface looked organic and sculpted, and shifted in colour between purple, green and near-silver like soap film (the [[Mother of Pearl Effect]]), sometimes becoming almost translucent. It absorbed sunlight and cast no shadow. It had large gill-like vents, notches and bumps, and three non-flush hatches, one half-open. A single light circled its circumference, slowing as a deep, loud hum like an unplugged guitar amplifier faded and the craft powered down. There was no debris, but a large gash in the rear, which Weygandt attributes to fragmentation from a [[MIM-23 Hawk Missile|Hawk missile]], probably fired by Peruvian forces, since the Marines had stopped using Hawks in Laser Strike in early 1997.
+The object was a massive metallic [[Egg-shaped UAP|egg or teardrop]] about 10 m high and 20 m long, embedded at 45 degrees. Its surface looked organic and sculpted, and shifted in colour between purple, green and near-silver like soap film (the [[Mother of Pearl Effect]]), sometimes becoming almost translucent. It absorbed sunlight and cast no shadow. It had large gill-like vents, notches and bumps, and three non-flush hatches, one half-open. A single light circled its circumference, slowing as a deep, loud hum like an unplugged guitar amplifier faded and the craft powered down. There was no debris, but there was a large gash in the rear. Weygandt attributes it to fragmentation from a [[MIM-23 Hawk Missile|Hawk missile]], probably fired by Peruvian forces, since the Marines had stopped using Hawks in Laser Strike in early 1997.
 
 A clear liquid as thick as maple syrup dripped from the broken hatch and coated the foliage. Weygandt, who went closest, was soaked by it; it discoloured his uniform like acid, and he says it permanently took the hair from his legs. Compasses spun and radios failed. Through the half-open hatch he saw a four-fingered arm hanging limply, and he felt telepathic contact from occupants, which he later pictured as tall grey beings, asking for help.
 
@@ -23,24 +23,24 @@ After 15 to 20 minutes at the craft, the Marines were intercepted at the top of 
 
 ## Detention and aftermath
 
-Weygandt was held at a base with permanent structures and armed American, Chinese and German personnel, in an underground interrogation room, for up to two days. He was threatened with death by an operator and by an unnamed Air Force lieutenant colonel and made to sign two secrecy forms, then driven back to his base, kept apart with Air Force personnel for three weeks and returned to [[Cherry Point, North Carolina Marine Corps Air Station|Cherry Point]]. He left the Marine Corps in March 1998.
+For up to two days, Weygandt was held in an underground interrogation room at a base with permanent structures and armed American, Chinese and German personnel. An operator and an unnamed Air Force lieutenant colonel threatened him with death, and he was made to sign two secrecy forms. He was then driven back to his base, kept apart with Air Force personnel for three weeks and returned to [[Cherry Point, North Carolina Marine Corps Air Station|Cherry Point]]. He left the Marine Corps in March 1998.
 
 ## UAP Gerb's reconstruction
 
-In a 2025 investigation, UAP Gerb reconstructed the incident as follows:
+In a 2025 investigation, Gerb reconstructed the incident as follows:
 
-- **Detection.** Laser Strike radars, and probably [[NRO (National Reconnaissance Office)|NRO]]-managed [[Defense Support Program (DSP)]] satellites, tracked the object, giving the retrieval team perhaps an hour's warning.
-- **The science team.** It was the Department of Energy's [[NEST (Nuclear Emergency Support Team)|Nuclear Emergency Support Team]], which works under the [[Atomic Energy Act of 1954]]. Gerb estimates it could have flown from [[Sandia National Laboratories]] to [[Iquitos, Peru|Iquitos]] in Cessna Citation II jets in about seven and a half hours, within the roughly nine hours available.
-- **The armed men.** Most likely the [[US Army 7th Special Forces Group]], already training in the region; less likely a [[DOE Special Response Teams (SRTs)|DOE Special Response Team]].
-- **The helicopters.** Most likely from the [[1st Battalion 228th Aviation Regiment]] of [[Joint Task Force Bravo]]; possibly the [[160th Special Operations Aviation Regiment]].
-- **The location.** Weygandt's base was probably [[USAF Radar Detachment 5, Iquitos]] rather than [[Pucallpa]], and the crash lay within about 90 miles of Iquitos, near the Colombian or Brazilian border.
-- **The holding site.** Possibly the Navy's [[NAMRU South, Lima, Peru|NAMRU South]], as a quarantine site for a contaminated Marine, although Weygandt says he received no medical procedures there.
+- Detection: Laser Strike radars, and probably [[NRO (National Reconnaissance Office)|NRO]]-managed [[Defense Support Program (DSP)]] satellites, tracked the object and gave the retrieval team perhaps an hour's warning.
+- The science team: the Department of Energy's [[NEST (Nuclear Emergency Support Team)|Nuclear Emergency Support Team]], which works under the [[Atomic Energy Act of 1954]]. Gerb estimates it could have flown from [[Sandia National Laboratories]] to [[Iquitos, Peru|Iquitos]] in Cessna Citation II jets in about seven and a half hours, within the roughly nine hours available.
+- The armed men: most likely the [[US Army 7th Special Forces Group]], already training in the region; less likely a [[DOE Special Response Teams (SRTs)|DOE Special Response Team]].
+- The helicopters: most likely from the [[1st Battalion 228th Aviation Regiment]] of [[Joint Task Force Bravo]]; possibly the [[160th Special Operations Aviation Regiment]].
+- The location: Weygandt's base was probably [[USAF Radar Detachment 5, Iquitos]] rather than [[Pucallpa]], and the crash lay within about 90 miles of Iquitos, near the Colombian or Brazilian border.
+- The holding site: possibly the Navy's [[NAMRU South, Lima, Peru|NAMRU South]], as a quarantine site for a contaminated Marine, although Weygandt says he received no medical procedures there.
 
-One of the sergeants Weygandt names answered Gerb, saying the operation is still classified, that no unique downed aircraft incident happened that he knew of, and that Weygandt never deployed to Laser Strike. Gerb disputes the last point.
+One of the sergeants Weygandt names replied to Gerb. He said the operation is still classified, that no unique downed aircraft incident happened that he knew of, and that Weygandt never deployed to Laser Strike. Gerb disputes the last point.
 
 ## Historical parallels
 
-Gerb sets the case beside other egg-shaped crash accounts, the [[1953 Camp Polk UFO Crash Retrieval]] and [[Albert Bruce Collins]]'s 1947 sighting at Berkeley, and beside other alleged rapid recovery units, from the Blue Berets at the [[1965 Kecksburg, Pennsylvania Crash Retrieval]] to the Fort Bliss team at the [[1974 Coyame, Mexico UFO Crash Retrieval]]. It also parallels the 1997 encounter of [[Rodrik Castle]] at Twentynine Palms and the 2009 encounter of [[Michael Herrera]], in which Marines met unmarked armed teams and were afterwards given anthrax boosters.
+Gerb compares the case with other egg-shaped crash accounts: the [[1953 Camp Polk UFO Crash Retrieval]] and [[Albert Bruce Collins]]'s 1947 sighting at Berkeley. He also compares it with other alleged rapid recovery units, from the Blue Berets at the [[1965 Kecksburg, Pennsylvania Crash Retrieval]] to the Fort Bliss team at the [[1974 Coyame, Mexico UFO Crash Retrieval]]. It also parallels the 1997 encounter of [[Rodrik Castle]] at Twentynine Palms and the 2009 encounter of [[Michael Herrera]], in which Marines met unmarked armed teams and were afterwards given anthrax boosters.
 
 ## Sources
 

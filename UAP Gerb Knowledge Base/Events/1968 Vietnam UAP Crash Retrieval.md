@@ -4,7 +4,7 @@ tags:
   - event
 ---
 
-The **1968 Vietnam UAP crash retrieval** is an alleged crash of an egg-shaped craft in the jungle near the Vietnam–Cambodia border, described by the [[Infographic Show Whistleblower]]. UAP Gerb dates it to between October and December 1968 and places it with [[Company E, 52nd Infantry (LRP)]] of the 1st Cavalry Division, operating out of Phuoc Vinh.
+The **1968 Vietnam UAP crash retrieval** is an alleged crash of an egg-shaped craft in the jungle near the Vietnam–Cambodia border, described by the [[Infographic Show Whistleblower]]. Gerb dates it to between October and December 1968 and places it with [[Company E, 52nd Infantry (LRP)]] of the 1st Cavalry Division, operating out of Phuoc Vinh.
 
 ## Account
 
@@ -14,7 +14,7 @@ When they called it in, they were told "birds" were already on the way. A pair o
 
 ## Corroboration Cited
 
-UAP Gerb ties the bombing raid to [[Operation Menu]], which began on 18 March 1969. He compares the red-orange glow to a November 1968 NICAP case at Albany, Georgia, a December 1968 case in France and the [[Malmstrom Air Force Base UFO Incident]]. He compares the seamless egg to [[Eric Taber]]'s account of an egg at [[Area 51]] (see [[Egg-shaped UAP]]), and the F-4s to [[James McCampbell]]'s report that F-4s carried UAP detection equipment in Vietnam.
+Gerb ties the bombing raid to [[Operation Menu]], which began on 18 March 1969. He compares the red-orange glow to a November 1968 NICAP case at Albany, Georgia, a December 1968 case in France and the [[Malmstrom Air Force Base UFO Incident]]. He compares the seamless egg to [[Eric Taber]]'s account of an egg at [[Area 51]] (see [[Egg-shaped UAP]]), and the F-4s to [[James McCampbell]]'s report that F-4s carried UAP detection equipment in Vietnam.
 
 ## Sources
 

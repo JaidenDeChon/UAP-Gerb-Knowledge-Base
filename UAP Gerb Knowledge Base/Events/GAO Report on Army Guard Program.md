@@ -5,4 +5,4 @@ tags:
   - event
 ---
 
-General Accounting Office published a report titled 'Army's Guard Program Requires Greater Oversight and Reassessment of Acquisition Approach,' discussing contracted security at Dugway Proving Ground.
+The General Accounting Office published a report on contracted security at Dugway Proving Ground, titled 'Army's Guard Program Requires Greater Oversight and Reassessment of Acquisition Approach.'
