@@ -1049,6 +1049,11 @@
     "sha256": "6f9e4d16849a1cc6a8e30100e914847f2e124be2cbd59cbaa355fc9cbfd9ccc7",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Manises Air Force Base, Spain.md": {
+    "humanized_at": "2026-09-28T21:06:14Z",
+    "sha256": "c393789dd001eca782004c3bead34c6f469e53a2764a999557397976adecb89a",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",

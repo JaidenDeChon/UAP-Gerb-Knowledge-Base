@@ -5,4 +5,4 @@ tags:
   - location
 ---
 
-Nearby military base whose Marine personnel witnessed the anomalous lights during the incident.
+Manises Air Force Base is a nearby military base. Its Marine personnel witnessed the anomalous lights during the incident.
