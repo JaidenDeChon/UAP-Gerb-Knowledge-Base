@@ -5,17 +5,17 @@ tags:
   - location
 ---
 
-The capital and largest city of Peru, located on the Pacific coast. In the UAP context, Lima serves primarily as a reference point and distance benchmark used by researchers analyzing the logistics of the 1997 Peru UAP crash retrieval case, particularly in determining travel times between candidate base locations and the crash site in the northeastern Amazonian jungle.
+Lima is the capital and largest city of Peru, on the country's Pacific coast. In UAP research it appears mainly as a reference point for measuring distances. Researchers studying the logistics of the 1997 Peru UAP crash retrieval case have used it to work out travel times between possible base locations and the crash site in the Amazonian jungle of northeastern Peru.
 
 ## Role in Crash Site Logistics Analysis
 
-Lima's position on Peru's Pacific coast — approximately 600–700 miles by air from Iquitos in the Amazon basin — was used to calculate maximum possible travel distances and times in the reconstruction of the 1997 Operation Laser Strike crash event. Researchers used Lima as a fixed reference point to evaluate whether various candidate staging locations, including [[Pucallpa|Bukulpa]] and [[Iquitos, Peru|Iquitos]], were consistent with the documented response timeline of personnel and equipment reaching the crash site.
+Lima lies approximately 600–700 miles by air from Iquitos in the Amazon basin. In reconstructions of the 1997 Operation Laser Strike crash event, its position was used to calculate the maximum possible travel distances and times. Researchers took Lima as a fixed reference point to test whether candidate staging locations, including [[Pucallpa|Bukulpa]] and [[Iquitos, Peru|Iquitos]], fit the documented timeline for personnel and equipment reaching the crash site.
 
-Lima also hosted the German Military Visit to NAMRU Lima — the Naval Medical Research Unit, a US Navy medical research installation — in events connected to the broader Operation Laser Strike period.
+Lima was also the site of the German Military Visit to NAMRU Lima, one of the events connected to the wider Operation Laser Strike period. NAMRU Lima was the Naval Medical Research Unit, a US Navy medical research installation.
 
 ## Military Presence
 
-Lima was home to NAMRU Lima (Naval Medical Research Unit Lima), a US Navy–operated biomedical research facility in Peru that was active during the Cold War and post-Cold War periods. NAMRU Lima's presence in the Peruvian capital placed US military medical and research personnel in the country during the 1997 period, as part of the larger network of US defense relationships with Peru during counter-narcotics operations.
+NAMRU Lima (Naval Medical Research Unit Lima) was a biomedical research facility run by the US Navy, active in Peru during the Cold War and post-Cold War periods. Because it was based in the Peruvian capital, US military medical and research personnel were in the country around 1997. The unit was part of the larger network of US defense relationships with Peru during counter-narcotics operations.
 
 ## Sources
 
