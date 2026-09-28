@@ -509,6 +509,11 @@
     "sha256": "829f278f56c1d4f364ed9dfcd0266f05ef2fd24ed49e641d344947bff66657c2",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Aberdeen, Scotland.md": {
+    "humanized_at": "2026-09-28T19:29:47Z",
+    "sha256": "2884255632171f8443eddaa189e7285ff8783fd31145c72e4e8e79ea62ec0d45",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
