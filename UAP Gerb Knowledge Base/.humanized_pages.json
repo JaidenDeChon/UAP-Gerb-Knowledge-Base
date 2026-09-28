@@ -939,6 +939,11 @@
     "sha256": "c71145a3bfef61e0956540286c8cdf87fd62b09544d6356ab2f7559c67c0cc8c",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Kirby, England.md": {
+    "humanized_at": "2026-09-28T20:49:10Z",
+    "sha256": "affc5037c69f7c1ab667a4e131b90390eac4b20489724013d868f1e8368a2f61",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
