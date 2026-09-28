@@ -929,6 +929,11 @@
     "sha256": "2d9d49865dfe6fe151662159aaf9e15b8d4702e4f5a0407c31f9acfb08b62aaf",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Kecksburg, Pennsylvania.md": {
+    "humanized_at": "2026-09-28T20:47:40Z",
+    "sha256": "daefad4f583735ebd5652852c5cee7e1a8d9ade3ac5c3304f725940f992bd11d",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
