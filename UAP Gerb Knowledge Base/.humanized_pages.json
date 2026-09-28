@@ -984,6 +984,11 @@
     "sha256": "29e566ba2605a890221796d2bd666957911e4e6b5f2faff6db3277348dbf5df3",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Las Palmas, Spain.md": {
+    "humanized_at": "2026-09-28T20:56:01Z",
+    "sha256": "abbaebbfca62b6cb7862155cb8d95ac2069d73922921c806cc9bae185bacf9e5",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
