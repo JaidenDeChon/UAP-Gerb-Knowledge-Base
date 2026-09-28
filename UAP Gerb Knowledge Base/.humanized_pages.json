@@ -524,6 +524,11 @@
     "sha256": "dbfdf21d62bb88576c133675ef1a40d257117993b022a5984c210c8b682a222e",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Alamogordo, New Mexico.md": {
+    "humanized_at": "2026-09-28T19:32:49Z",
+    "sha256": "cfef4e1b909d89fb2718f29fe520598936da08b0bc4362a4b8596265f7e3d457",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",

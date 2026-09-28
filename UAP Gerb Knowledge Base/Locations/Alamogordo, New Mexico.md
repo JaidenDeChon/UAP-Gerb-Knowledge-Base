@@ -5,15 +5,15 @@ tags:
   - location
 ---
 
-A city in Otero County, southern New Mexico, located adjacent to Holloman Air Force Base and White Sands Missile Range. In the UAP context, Alamogordo is referenced in connection with nuclear testing activities in July 1945, as documented in home movie footage attributed to Philip J. Corso, and as a geographic node in the broader New Mexico UAP legacy program infrastructure.
+Alamogordo is a city in Otero County in southern New Mexico, next to Holloman Air Force Base and White Sands Missile Range. It comes up in UAP discussions for two reasons: nuclear testing in July 1945, recorded in home movie footage attributed to Philip J. Corso, and its place in the wider New Mexico infrastructure of the UAP legacy program.
 
 ## Nuclear Testing Connection
 
-Alamogordo is the nearest population center to the Trinity Site, where the first nuclear weapon was detonated on July 16, 1945. The city was referenced by [[Philip J. Corso]] in home movie footage associated with this nuclear bomb testing period. The convergence of nuclear testing, advanced aerospace research at nearby [[Holloman Air Force Base]], and the subsequent wave of alleged UAP crashes in New Mexico during 1947–1948 has led researchers to theorize that the Trinity detonation and subsequent tests attracted non-human intelligence observation of the region.
+Alamogordo is the nearest population center to the Trinity Site, where the first nuclear weapon was detonated on July 16, 1945. [[Philip J. Corso]] referred to the city in home movie footage connected with this period of nuclear bomb testing. Nuclear testing and advanced aerospace research at nearby [[Holloman Air Force Base]] were followed by a wave of alleged UAP crashes in New Mexico in 1947–1948. That sequence has led researchers to theorize that the Trinity detonation and the tests after it drew non-human intelligence to observe the region.
 
 ## Proximity to Key Sites
 
-Alamogordo sits at a geographic nexus of several locations relevant to the UFO legacy program narrative: [[Holloman Air Force Base]] (approximately 8 miles west), [[White Sands Missile Range]] (to the west and north), and [[Roswell, New Mexico]] (approximately 90 miles northeast). This cluster of high-security military installations in the Tularosa Basin has made the Alamogordo area a recurring reference point in discussions of early post-war UAP activity.
+Several places that figure in the UFO legacy program story lie near Alamogordo: [[Holloman Air Force Base]], about 8 miles west; [[White Sands Missile Range]], to the west and north; and [[Roswell, New Mexico]], about 90 miles northeast. Because these high-security military installations are clustered in the Tularosa Basin, the Alamogordo area comes up often in discussions of early post-war UAP activity.
 
 ## Sources
 
