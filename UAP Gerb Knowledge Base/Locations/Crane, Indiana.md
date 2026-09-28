@@ -5,19 +5,19 @@ tags:
   - location
 ---
 
-**Crane, Indiana** is a small town in Martin County, Indiana, best known as the home of the [[Naval Surface Warfare Center Crane]] (NSWC Crane). The site was selected during World War II for munitions stockpiling specifically because of its landlocked, geographically isolated location — considered difficult to target in a strike on the continental United States. It is of significant interest in UAP research due to its alleged association with the [[Off-World Technologies Division]], a name used to describe what a credible military witness claims is an underground reverse engineering program.
+**Crane, Indiana** is a small town in Martin County, Indiana, best known as the home of the [[Naval Surface Warfare Center Crane]] (NSWC Crane). The site was chosen during World War II for stockpiling munitions because it is landlocked and geographically isolated, which was thought to make it hard to target in a strike on the continental United States. UAP researchers are interested in the town because of its alleged association with the [[Off-World Technologies Division]]. That is the name given to what a credible military witness claims is an underground reverse engineering program.
 
 ## UAP Significance
 
-Crane, Indiana itself is historically relevant primarily as the community surrounding NSWC Crane, the Navy federal laboratory that spans 64,000 acres across the surrounding countryside. The choice of this rural, landlocked site during World War II for classified munitions work established an institutional culture of extreme secrecy and geographic separation from population centers that persisted into the modern era.
+Historically, Crane, Indiana matters mainly as the community around NSWC Crane, the Navy federal laboratory that covers 64,000 acres of the surrounding countryside. Choosing this rural, landlocked site for classified munitions work during World War II set up an institutional culture of extreme secrecy and distance from population centers that has lasted into the modern era.
 
-According to a testimony explored in depth by UAP Gerb, a Green Beret known as "RA" — a verified TS/SCI-cleared [[18 Bravo Weapons Sergeant]] assigned to the First Special Forces Airborne Command — was escorted underground at NSWC Crane between 2013 and 2015 during a classified weapons training course. His guide — believed to be an [[SAIC]] contractor — casually referred to the underground section as the "off-world technologies division." What RA reportedly observed there included a seamless levitating metallic sphere with a mother-of-pearl surface effect that appeared to respond selectively to human consciousness, and a gauntlet-style weapon system that projected hieroglyphic symbols matching those described by [[Daniel Sheehan]] from classified [[Project Blue Book]] photos he reviewed in 1977.
+According to a testimony Gerb explores in depth, a Green Beret known as "RA" was escorted underground at NSWC Crane between 2013 and 2015, during a classified weapons training course. RA was a verified TS/SCI-cleared [[18 Bravo Weapons Sergeant]] assigned to the First Special Forces Airborne Command. His guide, believed to be an [[SAIC]] contractor, casually called the underground section the "off-world technologies division." There RA reportedly saw a seamless, levitating metallic sphere with a mother-of-pearl effect on its surface, which appeared to respond selectively to human consciousness. He also reportedly saw a gauntlet-style weapon system that projected hieroglyphic symbols. The symbols matched those [[Daniel Sheehan]] described from classified [[Project Blue Book]] photos he reviewed in 1977.
 
-The town's proximity to and dependence on NSWC Crane makes it a key geographic anchor for understanding the alleged program's physical location.
+Because the town lies close to NSWC Crane and depends on it, it is an important geographic marker for where the alleged program is physically located.
 
 ## Related Facilities
 
-- **[[Naval Surface Warfare Center Crane]]** — Primary federal laboratory and alleged site of the Off-World Technologies Division
+- **[[Naval Surface Warfare Center Crane]]**: the primary federal laboratory and alleged site of the Off-World Technologies Division
 
 ## Sources
 
