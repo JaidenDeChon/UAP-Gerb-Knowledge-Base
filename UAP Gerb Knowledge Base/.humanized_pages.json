@@ -704,6 +704,11 @@
     "sha256": "a87b2d24c14dfdd80f93e8ce99cadf60b93d2761f2c5bbe56f6670cd5ea62f3c",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Deep Underground Command Center (DUCC).md": {
+    "humanized_at": "2026-09-28T20:05:46Z",
+    "sha256": "95112e43bbe80524aa22734f980f4d5429bfa832ad829dcea7fc70b4a79d236a",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
