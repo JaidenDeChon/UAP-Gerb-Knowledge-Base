@@ -1269,6 +1269,11 @@
     "sha256": "a27872db674bca5a92e7fd6c1522c4a6258d270b456c1b5f355432c71a1dc649",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Shelburne Harbor, Nova Scotia.md": {
+    "humanized_at": "2026-09-28T21:46:00Z",
+    "sha256": "79972f8623d26f63bf0c961a28f97e273ba1852ba4d3292a87d5425aab494b06",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
