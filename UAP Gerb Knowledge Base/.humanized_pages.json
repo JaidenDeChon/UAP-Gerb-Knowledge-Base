@@ -884,6 +884,11 @@
     "sha256": "9ae981fe4cb434aa9b2d12374da1b2888b71878d6bd36baa0b1b3a6bcf28b5b7",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Hoia Baciu Forest, Romania.md": {
+    "humanized_at": "2026-09-28T20:41:00Z",
+    "sha256": "15f5a52d924ab41016dd55130efb761a7d81a3164dbdb1db0162f049b393dfd4",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
