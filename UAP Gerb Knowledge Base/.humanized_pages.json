@@ -664,6 +664,11 @@
     "sha256": "ee86c19ab5d46668f4bc3692da128f482f556ae6804345bfd295b402b4521961",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Cincinnati, Ohio.md": {
+    "humanized_at": "2026-09-28T19:58:51Z",
+    "sha256": "8ffd66a46bf0a033450e20e5a3501e7864ba40462dda4a62cd4aacd2b7269825",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
