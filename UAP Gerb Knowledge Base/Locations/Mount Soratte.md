@@ -5,21 +5,21 @@ tags:
   - location
 ---
 
-Mount Soratte is an isolated limestone massif north of Rome, Italy, known for a large network of underground tunnels and bunkers expanded during the fascist period and used for military command and shelter functions in World War II.
+Mount Soratte is an isolated limestone massif north of Rome, Italy, known for a large network of underground tunnels and bunkers expanded during the fascist period and used as a military command post and shelter in World War II.
 
-In UAP-related narratives, the site is notable because it is alleged to have served as a temporary custody location for material connected to the 1933 Magenta incident.
+In UAP-related accounts, the mountain is alleged to have been a temporary holding place for material connected to the 1933 Magenta incident.
 
 ## Historical Infrastructure
 
-The mountain's tunnel system was developed into a hardened command complex, with extensive underground chambers designed to withstand bombardment and support sustained military operations.
+The tunnels were developed into a hardened command complex, with large underground chambers built to withstand bombing and to support sustained military operations.
 
 Its physical characteristics made it suitable for secure wartime storage and restricted access.
 
 ## Role in the Magenta Case Narrative
 
-[[Videos/The 1933 Magenta, Italy UFO Crash/summary|The 1933 Magenta, Italy UFO Crash]] presents Mount Soratte as a possible relocation site after material was initially stored near [[Varese, Italy]]. The claim is linked to wartime instability, shifting Axis control, and later reported transfer to U.S. custody via [[Office of Strategic Services (OSS)]].
+[[Videos/The 1933 Magenta, Italy UFO Crash/summary|The 1933 Magenta, Italy UFO Crash]] suggests that material first stored near [[Varese, Italy]] may have been moved to Mount Soratte. The claim is tied to wartime instability and shifting Axis control, and to the material's later reported transfer to U.S. custody through the [[Office of Strategic Services (OSS)]].
 
-The video treats this segment as plausible but not fully documented, noting the need for stronger archival corroboration.
+The video treats this part of the story as plausible but not fully documented, and says it needs stronger corroboration from archives.
 
 ## Sources
 
