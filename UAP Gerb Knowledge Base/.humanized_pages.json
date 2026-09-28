@@ -709,6 +709,11 @@
     "sha256": "95112e43bbe80524aa22734f980f4d5429bfa832ad829dcea7fc70b4a79d236a",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Del Rio, Texas.md": {
+    "humanized_at": "2026-09-28T20:06:50Z",
+    "sha256": "e88430f83f20f294037678915d1f548d67a3cb7d4046d095b075f22f85a8ea71",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
