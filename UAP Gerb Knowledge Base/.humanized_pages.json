@@ -1314,6 +1314,11 @@
     "sha256": "edb687d5f2bc035984f84a31f6465b3455f7b71801c5981c767df307d8a28623",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Tooele County, Utah.md": {
+    "humanized_at": "2026-09-28T21:54:12Z",
+    "sha256": "7f3c042da24705501130d12259de7aa70edadf43e0930cf1c38ab5886b9617a4",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
