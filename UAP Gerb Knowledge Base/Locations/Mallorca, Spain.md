@@ -9,7 +9,7 @@ Mallorca (Majorca) is the largest of Spain's Balearic Islands in the western Med
 
 ## The Manises incident
 
-On 11 November 1979, [[TAE (Trabajos Aéreos y Enlaces)|TAE]] flight JK 297, a Super Caravelle carrying 109 passengers from [[Salzburg, Austria|Salzburg]] to [[Las Palmas, Spain|Las Palmas]], left Mallorca after a refuelling stop at about 22:47. Some twenty minutes later the crew saw the two red lights that led Captain [[Francisco Javier Lerdo de Tejada]] to abandon the flight and land at [[Manises Airport, Valencia, Spain|Manises Airport]], the start of the [[Manises UFO Incident]].
+On 11 November 1979, [[TAE (Trabajos Aéreos y Enlaces)|TAE]] flight JK 297 left Mallorca at about 22:47 after a refuelling stop. The aircraft, a Super Caravelle, was carrying 109 passengers from [[Salzburg, Austria|Salzburg]] to [[Las Palmas, Spain|Las Palmas]]. Some twenty minutes later the crew saw two red lights, which led Captain [[Francisco Javier Lerdo de Tejada]] to abandon the flight and land at [[Manises Airport, Valencia, Spain|Manises Airport]]. This diversion was the start of the [[Manises UFO Incident]].
 
 ## Sources
 
