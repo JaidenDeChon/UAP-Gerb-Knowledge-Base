@@ -609,6 +609,11 @@
     "sha256": "da7ddd71ac754c88b903468885e7bd5d45cb1f0623e589ee513f06deef2c9ddc",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Brownsville, Texas.md": {
+    "humanized_at": "2026-09-28T19:49:17Z",
+    "sha256": "bafb68f915c6451dad76a69f0c8bdfcf1d10f7aebf96695b9738841599f958e9",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
