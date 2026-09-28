@@ -1139,6 +1139,11 @@
     "sha256": "5bc42422e90438aa433a59727a3d2a6cb2360bc0173e309403c8db8a222eebce",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Norton Air Force Base.md": {
+    "humanized_at": "2026-09-28T21:21:39Z",
+    "sha256": "b9f161c05aba7fd762a9f22c829ea38b2257941f330a1b9cd441c0be84ac4ba4",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
