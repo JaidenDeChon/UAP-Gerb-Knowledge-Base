@@ -734,6 +734,11 @@
     "sha256": "9e0ae04fb24ea967aadea70381112524f37887c95940d1e2f5e0c32c9a73f79b",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Durango, Colorado.md": {
+    "humanized_at": "2026-09-28T20:14:13Z",
+    "sha256": "2c91db5fea2d426cec67e6b4ddcb81658e9369515fa9fde68f036ebfad277d99",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
