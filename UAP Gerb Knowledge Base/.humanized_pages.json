@@ -1109,6 +1109,11 @@
     "sha256": "a237f7a03c15bb3d1cba05ce7cb23aa81d92f4d2eab597a940144fbc7364f30b",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/NAMRU South, Lima, Peru.md": {
+    "humanized_at": "2026-09-28T21:15:39Z",
+    "sha256": "3254f03f7727001fa2c326a0b6686ceca3a8902ec49411bc401418fc048b6a8f",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
