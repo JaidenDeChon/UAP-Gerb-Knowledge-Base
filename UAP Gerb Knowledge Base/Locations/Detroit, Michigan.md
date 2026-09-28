@@ -15,7 +15,7 @@ The Detroit area lies in the densely populated corridor of the Midwest and Great
 
 ## Source Limitations
 
-Detroit appears in the UAP Gerb knowledge base only because of the video surveying the TR-3B and flying triangles. The video mentions the Detroit sighting briefly as one entry in a global inventory and does not analyze it as a case of its own. It gives no specific dates, witness names, or detailed descriptions of the Detroit incident.
+Detroit appears in the UAP Gerb knowledge base through the video surveying the TR-3B and flying triangles. The video mentions the Detroit sighting briefly as one entry in a global inventory and does not analyze it as a case of its own. It gives no specific dates, witness names, or detailed descriptions of the Detroit incident.
 
 ## Sources
 
