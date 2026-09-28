@@ -9,13 +9,13 @@ The **Malabar Coast** is the southwestern coastline of India, facing the Arabian
 
 ## UAP Significance
 
-On the night of January 5, 1880, Commander Ari Harris, commanding the British steam vessel SS Shahian, observed an anomalous circular luminous object in the sky off the Malabar Coast. The conditions at the time of the sighting were ideal for observation — a clear night, calm waters, bright stars, and no moon. The event occurred at approximately 10 PM. Harris described the object as milky white and circular, resembling what he called "the nebula sometimes seen in the heavens." He and the third officer were sufficiently puzzled by the sight that they stopped the vessel entirely to observe it.
+On the night of January 5, 1880, Commander Ari Harris, in command of the British steam vessel SS Shahian, saw an anomalous circular object glowing in the sky off the Malabar Coast. It was about 10 PM, and conditions were ideal for watching the sky: the night was clear, the water calm and the stars bright, with no moon. Harris described the object as milky white and circular, like what he called "the nebula sometimes seen in the heavens." He and the third officer were puzzled enough to stop the ship completely so they could watch it.
 
-The SS Shahian sighting is discussed in the context of a broader cluster of late 19th-century maritime luminous phenomena reported throughout the Indian Ocean, Persian Gulf, and surrounding seas. During this period, captains and crews of numerous vessels — including British India Company steamers and Royal Navy ships — reported large revolving underwater light wheels, hovering aerial objects, and other anomalous luminous phenomena that could not be attributed to natural weather or astronomical sources. The persistence and variety of these sightings across unrelated vessels and crew members, combined with their consistency of description, make them significant in the historical record of UAP and USO (Unidentified Submerged Object) activity.
+The SS Shahian sighting is discussed as part of a wider cluster of lights reported at sea in the late 19th century across the Indian Ocean, the Persian Gulf, and nearby seas. In that period the captains and crews of many ships, among them British India Company steamers and Royal Navy vessels, reported large revolving wheels of light under the water, objects hovering in the air, and other anomalous lights that could not be attributed to natural weather or astronomical sources. The reports kept coming from unrelated ships and crews and took many forms, yet their descriptions were consistent, which makes them significant in the historical record of UAP and USO (Unidentified Submerged Object) activity.
 
 ## Geography
 
-The Malabar Coast stretches roughly from Goa in the north to the southern tip of India, encompassing the present-day state of Kerala and parts of Karnataka. In the 19th century it was a major maritime trade corridor between Europe, the Middle East, and Southeast Asia, with heavy British commercial and naval traffic.
+The Malabar Coast stretches roughly from Goa in the north to the southern tip of India and takes in the present-day state of Kerala and parts of Karnataka. In the 19th century it was a major sea trade route between Europe, the Middle East, and Southeast Asia, and carried heavy British commercial and naval traffic.
 
 ## Sources
 
