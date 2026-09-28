@@ -849,6 +849,11 @@
     "sha256": "d5e1b88f60c0cace3c4d64fddb173bf0f84cf9271212d0c50be5d948c4093591",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Hagerstown, Maryland.md": {
+    "humanized_at": "2026-09-28T20:35:18Z",
+    "sha256": "7f889feaa2a4cf12fa500452a7f650648592d091a6437baf7e1a42141ecfea42",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
