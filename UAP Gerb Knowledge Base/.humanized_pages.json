@@ -1374,6 +1374,11 @@
     "sha256": "197b3d0f5b6d3f2883c332ee5e1a77b6116920f63df064ea38423b004405dca7",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Varginha, Brazil.md": {
+    "humanized_at": "2026-09-28T22:03:20Z",
+    "sha256": "f485ad1668bee2de182ce446e51a32ea27974f0e8c436e3dd4ce96e162f67716",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
