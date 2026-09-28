@@ -874,6 +874,11 @@
     "sha256": "dc9de13c21d602d1fd5b7aa13d2f8b13842015ff2f61a95be85182cf18dfba15",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Helendale.md": {
+    "humanized_at": "2026-09-28T20:39:31Z",
+    "sha256": "b5366dd77511b4b8700a0e84282cf08c3b2d1cfd1a7088828a49e493703326fe",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
