@@ -1149,6 +1149,11 @@
     "sha256": "8e65c4c2d50934a1bf42b8359d0738c057ae5b9139450d365ec1cc5cd7263198",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Oak Ridge, Tennessee.md": {
+    "humanized_at": "2026-09-28T21:23:39Z",
+    "sha256": "0fb99b0c6cfe46c3fd747313d715b4b30a2b2203c6bce90258486e799d4f3de1",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
