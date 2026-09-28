@@ -869,6 +869,11 @@
     "sha256": "6acbf3ef1d43df6d129c875296816010571f3684bfd9abadaed76256788feda3",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Hector Airport.md": {
+    "humanized_at": "2026-09-28T20:38:45Z",
+    "sha256": "dc9de13c21d602d1fd5b7aa13d2f8b13842015ff2f61a95be85182cf18dfba15",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
