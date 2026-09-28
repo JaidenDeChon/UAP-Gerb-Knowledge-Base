@@ -6,13 +6,13 @@ tags:
   - location
 ---
 
-Camp Polk (now Fort Polk) is a United States Army installation in Vernon Parish, Louisiana, used historically for troop training and field maneuvers. It is the site of the alleged [[1953 Camp Polk UFO Crash Retrieval]], an [[Egg-shaped UAP|egg-shaped craft]] crash and recovery documented by researcher [[Leonard Stringfield]] in *UFO Crash/Retrieval Status Report 3*.
+Camp Polk (now Fort Polk) is a United States Army installation in Vernon Parish, Louisiana, historically used for troop training and field maneuvers. It is the site of the alleged [[1953 Camp Polk UFO Crash Retrieval]], the crash and recovery of an [[Egg-shaped UAP|egg-shaped craft]] that researcher [[Leonard Stringfield]] documented in *UFO Crash/Retrieval Status Report 3*.
 
 ## 1953 Egg-Shaped Craft Incident
 
-In July 1953, a witness known only as HJ, a 17-year-old private in B Company who was later a sergeant in the Army's 24th Infantry, observed an egg-shaped object crash-land in a remote area of the base during evening duty maneuvers. Both A and B companies were ordered to the crash site. The ovoid craft was as wide as a three-bedroom house, with no windows or lights, and featured a rotating fin-like protrusion on its equator. The ground around the craft was burned to a powdery substance, and heat was still emanating from the vehicle. A special detachment with medics recovered one dead occupant on a stretcher and three living beings described as 3.5–4 feet tall in tight-fitting metallic green uniforms.
+In July 1953, during evening duty maneuvers, a witness known only as HJ saw an egg-shaped object crash-land in a remote area of the base. HJ was then a 17-year-old private in B Company and later became a sergeant in the Army's 24th Infantry. Both A and B companies were ordered to the crash site. The ovoid craft was as wide as a three-bedroom house and had no windows or lights. A rotating, fin-like protrusion sat on its equator. The ground around it was burned to a powdery substance, and the craft was still giving off heat. A special detachment with medics recovered one dead occupant on a stretcher and three living beings described as 3.5–4 feet tall in tight-fitting metallic green uniforms.
 
-The Camp Polk incident shares striking similarities with the 1997 [[Peru UFO Crash Incident]], including the egg-shaped morphology, rotating circumferential features, and the rapid arrival of specialized retrieval teams.
+The Camp Polk incident closely resembles the 1997 [[Peru UFO Crash Incident]]. In both cases the craft was egg-shaped with a rotating feature around its middle, and specialized retrieval teams arrived quickly.
 
 ## Sources
 
