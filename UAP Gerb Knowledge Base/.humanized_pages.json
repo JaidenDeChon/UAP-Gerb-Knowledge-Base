@@ -654,6 +654,11 @@
     "sha256": "b9b8ce28c2f1c04f35d75ad295ae72871ec12024126539ed1243ade71a708b00",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Cheyenne Mountain Complex.md": {
+    "humanized_at": "2026-09-28T19:56:33Z",
+    "sha256": "22cae051316553033159e73be8b33f458d8420deea8f9ab8158f293e72078657",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
