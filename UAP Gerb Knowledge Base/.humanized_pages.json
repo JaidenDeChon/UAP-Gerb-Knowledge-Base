@@ -1104,6 +1104,11 @@
     "sha256": "639df14f22e33e3f63c429a09481fa39fb1c5bd2a2ecf842c33d5c6d35150824",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Murrysville, Pennsylvania.md": {
+    "humanized_at": "2026-09-28T21:14:48Z",
+    "sha256": "a237f7a03c15bb3d1cba05ce7cb23aa81d92f4d2eab597a940144fbc7364f30b",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
