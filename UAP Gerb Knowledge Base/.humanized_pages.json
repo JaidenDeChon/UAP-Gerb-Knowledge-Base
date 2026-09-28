@@ -574,6 +574,11 @@
     "sha256": "3ecfe72d638a4f8f425e09256079685febfca538de7f9d418cd49ea7a8f52431",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Aztec, New Mexico.md": {
+    "humanized_at": "2026-09-28T19:43:27Z",
+    "sha256": "c746cd4a7b6a2f3152ef6a48336187d7a6fa263ca4cb04e46e601a9381b0a58f",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
