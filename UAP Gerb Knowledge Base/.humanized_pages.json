@@ -1254,6 +1254,11 @@
     "sha256": "c94f26ef30431da778525a3e994450105601a78ccc54905b9ad0c9ee18b44066",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Scott Air Force Base, Illinois.md": {
+    "humanized_at": "2026-09-28T21:43:19Z",
+    "sha256": "a69f9eab4a099f926a7321c54f9950ba8c26520144c77813e91e24d201c280a0",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
