@@ -1194,6 +1194,11 @@
     "sha256": "e488cabbaf0207fd6190be56025962a5911834f53f447bad2aa4292aa5c7af90",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Port Augusta, South Australia.md": {
+    "humanized_at": "2026-09-28T21:32:28Z",
+    "sha256": "35b824a90db50b393bb91de884572d5a3d80bb61116a5e58295ea07390fe9fa4",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
