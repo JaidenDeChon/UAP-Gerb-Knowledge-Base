@@ -739,6 +739,11 @@
     "sha256": "2c91db5fea2d426cec67e6b4ddcb81658e9369515fa9fde68f036ebfad277d99",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Edwards Air Force Base.md": {
+    "humanized_at": "2026-09-28T20:15:48Z",
+    "sha256": "6cd0e7b0f70cf62dd69551389dc9255f1c2691636a17f7d8554433b9474348eb",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
