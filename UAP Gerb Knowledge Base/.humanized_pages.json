@@ -549,6 +549,11 @@
     "sha256": "2c09be174a55c70568922df12e2975b73cd7559c1a670010ebbe8440078957f3",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Ascension Island.md": {
+    "humanized_at": "2026-09-28T19:37:56Z",
+    "sha256": "ce9c8c50280ef6aab9f8c52590705a26903943e5469b4ceefe3cfc58edec7aaf",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
