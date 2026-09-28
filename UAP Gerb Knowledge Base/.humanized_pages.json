@@ -839,6 +839,11 @@
     "sha256": "397513481f59bf875509727fad5ad4115b043d62b262646f0b2dc031ca367e5c",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Guerrero, Mexico.md": {
+    "humanized_at": "2026-09-28T20:33:27Z",
+    "sha256": "ae9bd1ba54147b1b4538e588bd5c4764e7095be23a1df6c18d2d65c86dd02772",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
