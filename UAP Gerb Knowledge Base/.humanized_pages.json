@@ -629,6 +629,11 @@
     "sha256": "fe553b42908f1b52717875da73be54ba9c19409529541669f1f2ae020ac6fd9a",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Campeche, Mexico.md": {
+    "humanized_at": "2026-09-28T19:52:22Z",
+    "sha256": "7095ff7841d97c3ce9a4893e882df3824ce7d396c7d372c869703e063ccb9933",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
