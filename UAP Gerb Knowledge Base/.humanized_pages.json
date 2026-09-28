@@ -559,6 +559,11 @@
     "sha256": "f534bf8a1cda179c3c8b816c2820136e695cea935e9494d250789a27e0549f63",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Aurora, Texas.md": {
+    "humanized_at": "2026-09-28T19:39:27Z",
+    "sha256": "6f3bb24b8036146f13dcec38bd80e52ff5d720359bcc9800e533deb033c7d80e",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
