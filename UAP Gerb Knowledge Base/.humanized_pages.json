@@ -1299,6 +1299,11 @@
     "sha256": "576c9fbaa94320fcf01e309e620023531f7d717f30c081554904bcc7f0f9325a",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Tehran, Iran.md": {
+    "humanized_at": "2026-09-28T21:50:51Z",
+    "sha256": "b4d3b2d2b6ce4ed5f94c6cf90412aedb97cac91c953151d4a130c7849c82b3bb",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
