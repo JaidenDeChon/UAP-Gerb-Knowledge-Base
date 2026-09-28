@@ -1294,6 +1294,11 @@
     "sha256": "f55a6408f3448c26fc1f204c278b39466d5552a44160711a8fea7586380930ec",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Tehachapi, California.md": {
+    "humanized_at": "2026-09-28T21:50:01Z",
+    "sha256": "576c9fbaa94320fcf01e309e620023531f7d717f30c081554904bcc7f0f9325a",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
