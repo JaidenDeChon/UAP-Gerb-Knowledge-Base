@@ -1159,6 +1159,11 @@
     "sha256": "b97be383f0c80d935eba2a2e258ff39e7cdb87da9698cf20f57edc08d8343602",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Palmdale, California.md": {
+    "humanized_at": "2026-09-28T21:25:43Z",
+    "sha256": "ed93fec4f0170a61a4f7b5f012259e2f88ca2305cd7e6430aeab659050672b94",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
