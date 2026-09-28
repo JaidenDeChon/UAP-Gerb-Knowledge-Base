@@ -1094,6 +1094,11 @@
     "sha256": "d87fdc63e09d2e22208978c19cf095752acc40e1e3f771d139534fbf06386d7e",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Mojave Desert, California.md": {
+    "humanized_at": "2026-09-28T21:13:15Z",
+    "sha256": "b1bf9ea2bd9a4bc73b3e3f44ed36ac74ffd031c7bf4a9d3a307b0dee9d258a27",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
