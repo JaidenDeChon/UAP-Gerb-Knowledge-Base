@@ -579,6 +579,11 @@
     "sha256": "c746cd4a7b6a2f3152ef6a48336187d7a6fa263ca4cb04e46e601a9381b0a58f",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Bahamas.md": {
+    "humanized_at": "2026-09-28T19:44:15Z",
+    "sha256": "7bc19e52bf4dd6397bcc3873e32767c0f2c8d343ecbf7ed49858d267fb5ed60f",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
