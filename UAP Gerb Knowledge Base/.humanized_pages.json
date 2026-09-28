@@ -1219,6 +1219,11 @@
     "sha256": "0633528c92130b4a8b589809767749253fd377cdf9c948787065730907b35b80",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Roswell, New Mexico.md": {
+    "humanized_at": "2026-09-28T21:36:47Z",
+    "sha256": "ed450485d874872f6b78e318d114648e2d59fe2897669032d132f561bbf2292e",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
