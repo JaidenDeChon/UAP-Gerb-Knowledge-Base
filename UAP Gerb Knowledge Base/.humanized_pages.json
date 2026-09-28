@@ -1339,6 +1339,11 @@
     "sha256": "68780ccb381f5be1b3615ced81cb809d9f2edb08bcd5da88867753bda322c016",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Underground Facility at NSWC Crane.md": {
+    "humanized_at": "2026-09-28T21:58:08Z",
+    "sha256": "4fbab1e0815c2bf9e4276d5d28b9f9fffa5e9979b08f566a605a455aee2232c5",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
