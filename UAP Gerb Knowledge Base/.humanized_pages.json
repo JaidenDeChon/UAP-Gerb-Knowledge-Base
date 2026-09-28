@@ -949,6 +949,11 @@
     "sha256": "b168a9a1e81787fb9ccae4c714fa339e48f59462dbd1f29016ff66bbe075eef5",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Kville, Utah.md": {
+    "humanized_at": "2026-09-28T20:50:44Z",
+    "sha256": "77d2157cc2a839aac6c38f69beb8d5a5493247cdf18f8b952b289dcbf31ea303",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
