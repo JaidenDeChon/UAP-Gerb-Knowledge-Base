@@ -804,6 +804,11 @@
     "sha256": "6c231c71c9e96cd990fc1f9d3d286c51167dbe0572d4b4da4eafed210ea48b38",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Foster Ranch.md": {
+    "humanized_at": "2026-09-28T20:27:17Z",
+    "sha256": "82d8daa15c07501e0e00ff362101e4f68b2f31caeae8f477f51c479c5447e2a6",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
