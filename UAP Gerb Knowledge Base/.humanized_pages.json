@@ -719,6 +719,11 @@
     "sha256": "0d3b0feceba9426d3aef9b9e07ea0d943c78af2c1c31ab3ca2a2ab306db63f1a",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Detroit, Michigan.md": {
+    "humanized_at": "2026-09-28T20:08:48Z",
+    "sha256": "913b59e56b1f9aef2e811ff8f927616365703d0c954f161b8703d7ff06adddac",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
