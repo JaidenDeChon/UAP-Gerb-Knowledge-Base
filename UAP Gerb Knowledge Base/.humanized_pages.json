@@ -714,6 +714,11 @@
     "sha256": "e88430f83f20f294037678915d1f548d67a3cb7d4046d095b075f22f85a8ea71",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Denver, Colorado.md": {
+    "humanized_at": "2026-09-28T20:07:57Z",
+    "sha256": "0d3b0feceba9426d3aef9b9e07ea0d943c78af2c1c31ab3ca2a2ab306db63f1a",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
