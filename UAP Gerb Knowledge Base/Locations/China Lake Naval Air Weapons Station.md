@@ -6,22 +6,22 @@ tags:
   - location
 ---
 
-Naval Air Weapons Station (NAWS) China Lake is the US Navy's largest single land holding, encompassing approximately 1.1 million acres in the Mojave Desert of Kern and San Bernardino counties, California. Located near Ridgecrest in the Antelope Valley region, China Lake is the Navy's premier major range and test facility base (MRTFB) for weapons research, development, testing, and evaluation, representing approximately 85% of the Navy's weapons and armaments RDT&E programs. The installation includes two separate ranges — the Ranges and Sea Test Range — connected by a large mainside community.
+Naval Air Weapons Station (NAWS) China Lake is the US Navy's largest single land holding, covering about 1.1 million acres of the Mojave Desert in Kern and San Bernardino counties, California. It lies near Ridgecrest in the Antelope Valley region. China Lake is the Navy's premier major range and test facility base (MRTFB) for weapons research, development, testing, and evaluation (RDT&E), and it accounts for about 85% of the Navy's weapons and armaments RDT&E programs. The installation has two separate ranges, the Ranges and Sea Test Range, connected by a large mainside community.
 
 ## Significance to UAP Research
 
-China Lake is one of the most frequently cited locations in UAP legacy program allegations concerning underground facilities in the [[Antelope Valley]] network:
+China Lake is one of the locations cited most often in allegations about UAP legacy programs and their underground facilities in the [[Antelope Valley]] network:
 
-- A 1964 US Army Corps of Engineers study titled "Feasibility of Constructing Large Underground Cavities" examined a location in Inyo County, California, which shares territory with China Lake. The proposed underground cavity would extend 4,000 feet deep and was to be accessed via an incline shaft. It is unknown whether this facility was built.
+- A 1964 US Army Corps of Engineers study, "Feasibility of Constructing Large Underground Cavities", examined a site in Inyo County, California, which shares territory with China Lake. The proposed underground cavity would reach 4,000 feet deep, with an incline shaft for access. It is unknown whether this facility was built.
 - [[Richard Sauder]] received testimony from Navy veterans stationed at China Lake who confirmed the facility extends one mile deep and contains "weapons more powerful than nuclear weapons."
-- [[Bill Hamilton]] had an informant who alleged to have served as an aerospace engineering consultant to a colonel at China Lake, claiming the colonel worked at an underground installation connecting China Lake, Edwards Air Force Base, and the Nevada Test Site — and that he entered the system through a DUMB beneath White Sands Missile Range.
+- [[Bill Hamilton]] had an informant who alleged that he had been an aerospace engineering consultant to a colonel at China Lake. The informant claimed the colonel worked at an underground installation connecting China Lake, Edwards Air Force Base, and the Nevada Test Site, and that he entered the system through a deep underground military base (DUMB) beneath White Sands Missile Range.
 - Multiple Hamilton informants described ground vehicles and maglev train systems within the network connecting China Lake to other Antelope Valley facilities.
 
-China Lake is not directly mentioned in the "Ed" testimony (the primary USAF witness for the Edwards-NTTR joint program), but UAP Gerb argues its role as the Navy's largest weapons RDT&E installation makes cross-program cooperation with USAF programs at Edwards likely, with underground infrastructure enabling secure inter-service materials and technology sharing.
+China Lake is not directly mentioned in the testimony of "Ed", the primary USAF witness for the Edwards-NTTR joint program. Gerb argues that because China Lake is the Navy's largest weapons RDT&E installation, cooperation with USAF programs at Edwards is likely, and that underground infrastructure would let the two services share materials and technology securely.
 
 ## Proximity to Antelope Valley Network
 
-China Lake sits approximately 55 miles northwest of Edwards Air Force Base and approximately 80 miles east-northeast of the Northrop Tehachapi (Anthill) facility. At TBM boring rates of 10 miles per year, these facilities could be connected by tunnel within 5.5–8 years, making China Lake a plausible node in the alleged southwestern DUMB network.
+China Lake is about 55 miles northwest of Edwards Air Force Base and about 80 miles east-northeast of the Northrop Tehachapi (Anthill) facility. At a tunnel boring machine (TBM) rate of 10 miles per year, tunnels could link these facilities within 5.5–8 years. That would make China Lake a plausible part of the alleged southwestern DUMB network.
 
 ## Sources
 

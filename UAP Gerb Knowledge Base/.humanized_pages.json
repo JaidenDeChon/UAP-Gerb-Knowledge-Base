@@ -659,6 +659,11 @@
     "sha256": "22cae051316553033159e73be8b33f458d8420deea8f9ab8158f293e72078657",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/China Lake Naval Air Weapons Station.md": {
+    "humanized_at": "2026-09-28T19:57:45Z",
+    "sha256": "ee86c19ab5d46668f4bc3692da128f482f556ae6804345bfd295b402b4521961",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
