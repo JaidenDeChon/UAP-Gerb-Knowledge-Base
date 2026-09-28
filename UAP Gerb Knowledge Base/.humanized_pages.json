@@ -1389,6 +1389,11 @@
     "sha256": "7024fc767cb884694cc04ed39ed64a0eb769eba99117880252fb3a232bd29097",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Wright Field.md": {
+    "humanized_at": "2026-09-28T22:05:54Z",
+    "sha256": "837c58f9238333b303642db8e34b32d6e40cceec1ecb29d3d57720f14c7bcd7f",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
