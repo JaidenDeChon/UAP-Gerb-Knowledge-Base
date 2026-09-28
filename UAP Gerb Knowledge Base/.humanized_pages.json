@@ -924,6 +924,11 @@
     "sha256": "61a0a285dadc9cdc3d04c011eadc04d5deceecd7e2bf853691bbb6e6e9fee039",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Kamchatka Peninsula.md": {
+    "humanized_at": "2026-09-28T20:46:51Z",
+    "sha256": "2d9d49865dfe6fe151662159aaf9e15b8d4702e4f5a0407c31f9acfb08b62aaf",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
