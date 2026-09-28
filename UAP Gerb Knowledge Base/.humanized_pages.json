@@ -954,6 +954,11 @@
     "sha256": "77d2157cc2a839aac6c38f69beb8d5a5493247cdf18f8b952b289dcbf31ea303",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/La Jolla, California.md": {
+    "humanized_at": "2026-09-28T20:51:44Z",
+    "sha256": "e519df7232bd3e2de1a00f150475596321dece4e96c5e3315b7aeb26baf829ac",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
