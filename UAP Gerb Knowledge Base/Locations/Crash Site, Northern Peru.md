@@ -4,17 +4,17 @@ tags:
   - location
 ---
 
-The estimated location of the craft that USMC Lance Corporal Jonathan Weygandt encountered in March–April 1997 during Operation Laser Strike. The site is believed to be within a 90-mile radius of [[Iquitos, Peru|Iquitos]], located 5–10 miles from either the Colombian or Brazilian border in the dense Amazonian jungle of northeastern Peru.
+This is the estimated location of the craft that USMC Lance Corporal Jonathan Weygandt encountered in March–April 1997 during Operation Laser Strike. The site is believed to lie within 90 miles of [[Iquitos, Peru|Iquitos]] and 5–10 miles from either the Colombian or the Brazilian border, in the dense Amazonian jungle of northeastern Peru.
 
 ## Location Estimate
 
-The crash site was reached by Weygandt's Marine patrol after traveling in Humvees toward the estimated impact zone, then continuing on foot through jungle terrain. Weygandt described the site as easily locatable due to "a huge gash in the land where something had landed." The area's proximity to the Colombia and Brazil borders is consistent with the operational zone of Operation Laser Strike, a counter-narcotics mission covering Peruvian airspace under US SOUTHCOM jurisdiction. The site falls within the vast Loreto Region, the largest and most sparsely populated department of Peru.
+Weygandt's Marine patrol drove Humvees toward the estimated impact zone, then went the rest of the way to the crash site on foot through the jungle. Weygandt said the site was easy to find because of "a huge gash in the land where something had landed." Its nearness to the borders with Colombia and Brazil fits the area covered by Operation Laser Strike, a counter-narcotics mission over Peruvian airspace under US SOUTHCOM jurisdiction. The site is in the Loreto Region, the largest and most sparsely populated department of Peru.
 
 ## The Craft at the Site
 
-The crashed object Weygandt observed was egg-shaped with its narrow end jutting from a cliff face. Its surface appeared metallic but displayed liquid-like fluctuations described as "gasoline dripping into water." The craft featured large gill-like vents and emitted a low humming sound that instilled psychological fear in the Marines. A large gash in the craft's side was theorized by Weygandt to have been caused by a [[MIM-23 Hawk Missile|Hawk missile system]].
+The crashed object Weygandt saw was egg-shaped, with its narrow end jutting out of a cliff face. Its surface looked metallic but shifted like a liquid, in a way described as "gasoline dripping into water." The craft had large gill-like vents and gave off a low hum that filled the Marines with fear. Weygandt theorized that a large gash in its side had been made by a [[MIM-23 Hawk Missile|Hawk missile system]].
 
-A purple-green viscous liquid of apparently organic consistency was distributed across the surrounding vegetation. The craft cast no shadow despite direct sunlight exposure. Shortly after Weygandt's approach, he was arrested by personnel in black fatigues, hazmat suits, and Department of Energy rain jackets who arrived in US Army CH-47 helicopters.
+A viscous purple-green liquid that seemed organic was spread across the surrounding vegetation. The craft cast no shadow, even in direct sunlight. Soon after Weygandt approached it, personnel arrived in US Army CH-47 helicopters and arrested him. They wore black fatigues, hazmat suits and Department of Energy rain jackets.
 
 ## Sources
 
