@@ -13,7 +13,7 @@ After the [[2009 Sumatra Earthquake]], the *Denver* and the destroyer USS *McCam
 
 ## The Herrera Account
 
-[[Michael Herrera]] says he was aboard the *Denver* on officer's chow detail, having gone forward to Japan weeks before the main Marine element, when a female Marine major briefed volunteers in the ship's wardroom for a security mission ashore. He says the group flew by CH-53 to an airfield, then on to a landing zone in the hills, where six Marines came upon a large craft and eight armed operators, and that a CH-53 later returned them to the ship (see [[2009 Indonesia UFO Encounter (Herrera)]]). He recalls that the ship's phone banks were switched off for about two weeks, and that after the mission the group returned its loaned rifles and magazines to the ship's armory.
+[[Michael Herrera]] says he had gone forward to Japan weeks before the main Marine element and was aboard the *Denver* on officer's chow detail when a female Marine major briefed volunteers in the ship's wardroom for a security mission ashore. By his account, the group flew by CH-53 to an airfield and then on to a landing zone in the hills, where six Marines came upon a large craft and eight armed operators. A CH-53 later returned them to the ship, he says (see [[2009 Indonesia UFO Encounter (Herrera)]]). He recalls that the ship's phone banks were switched off for about two weeks, and that after the mission the group returned its loaned rifles and magazines to the ship's armory.
 
 ## Sources
 

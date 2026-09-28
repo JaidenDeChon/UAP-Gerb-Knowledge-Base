@@ -1329,6 +1329,11 @@
     "sha256": "0981daef946df771a30775b54112ff589579740a2849693584c62d2b88f5ce54",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/USS Denver.md": {
+    "humanized_at": "2026-09-28T21:56:16Z",
+    "sha256": "3a9ad406a670910b77dc97e92b2254d928499dffd6613edc2e3826b2d2287953",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
