@@ -1084,6 +1084,11 @@
     "sha256": "24e6c389ed204cac1b28fb418619d4ae1c3b0535955193dc7ae2e284e2abb791",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Milan, Italy.md": {
+    "humanized_at": "2026-09-28T21:11:20Z",
+    "sha256": "04addae4e650d9419afbd2299c9f12dabe29f8867ebc246d6778a2cc00daf42f",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
