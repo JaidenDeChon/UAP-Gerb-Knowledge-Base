@@ -899,6 +899,11 @@
     "sha256": "8bd0e73bbcd33dc8ac4323dd0ea784fb94e8d5a5d24b6b01b843d3cb04f06522",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Indonesia.md": {
+    "humanized_at": "2026-09-28T20:43:46Z",
+    "sha256": "23662dd00b75241aff4f90d40cad9f2b61f388f3088ce44cf2f8d45f5069c154",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
