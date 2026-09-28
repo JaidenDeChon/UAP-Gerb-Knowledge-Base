@@ -6,21 +6,21 @@ tags:
   - location
 ---
 
-The R2508 Complex is a vast section of restricted airspace and associated land in the upper Mojave Desert region of Southern California, managed jointly by [[Edwards Air Force Base]] (412th Test Wing), [[China Lake|Naval Air Weapons Station China Lake]], and National Training Center Fort Irwin. The complex encompasses some of the most active military flight test and training airspace in the world, supporting everything from experimental aircraft evaluation to weapons testing and large-force tactical exercises.
+The R2508 Complex is a large area of restricted airspace and associated land in the upper Mojave Desert of Southern California. It is managed jointly by [[Edwards Air Force Base]] (412th Test Wing), [[China Lake|Naval Air Weapons Station China Lake]], and National Training Center Fort Irwin. The complex contains some of the most active military flight test and training airspace in the world, and its uses range from experimental aircraft evaluation to weapons testing and large-force tactical exercises.
 
 ## Access and Poncho-3 Clearance
 
-Access to R2508 is tightly controlled through a system of clearances. Poncho-3 clearance permits only locally based aircraft access to specific restricted sections of R2508 and is held by a small number of facilities: Edwards AFB, China Lake, [[NAS Lemoore|Naval Air Station Lemoore]], and Palmdale Plant 42. This restrictive access framework is significant in UAP research because it limits which units and installations can operate in airspace where alleged alien reproduction vehicles are theorized to be tested and deployed.
+A system of clearances tightly controls access to R2508. Poncho-3 clearance lets only locally based aircraft into specific restricted sections of R2508, and only a small number of facilities hold it: Edwards AFB, China Lake, [[NAS Lemoore|Naval Air Station Lemoore]], and Palmdale Plant 42. These limits matter in UAP research because they restrict which units and installations can operate in airspace where alleged alien reproduction vehicles are theorized to be tested and deployed.
 
 ## UAP Significance
 
-The R2508 Complex sits at the heart of what UAP Gerb identifies as a corridor of facilities connected to UFO legacy program operations. The complex is bordered by or contains:
-- **Edwards Air Force Base** — Home of the [[Air Force Test Center]] and 412th Test Wing, where [[Edgar Fouche]] claimed [[TR-3B]] pilots were sourced from the Test Pilot School
-- **China Lake** — A massive weapons testing installation with underground facilities
-- **Plant 42, Palmdale** — Where [[Lockheed Martin|Lockheed Martin Skunk Works]] and Northrop Grumman operate classified aircraft programs
-- **Helendale** — Lockheed's radar cross-section measurement range
+The R2508 Complex is at the center of what Gerb identifies as a corridor of facilities connected to UFO legacy program operations. The complex is bordered by or contains these sites:
+- Edwards Air Force Base, home of the [[Air Force Test Center]] and the 412th Test Wing. [[Edgar Fouche]] claimed that [[TR-3B]] pilots were drawn from its Test Pilot School.
+- China Lake, a very large weapons testing installation with underground facilities.
+- Plant 42 in Palmdale, where [[Lockheed Martin|Lockheed Martin Skunk Works]] and Northrop Grumman operate classified aircraft programs.
+- Helendale, Lockheed's radar cross-section measurement range.
 
-The 2004 [[2004 Nimitz UAP Encounter (Tic Tac)|Nimitz Tic Tac encounter]] occurred in Warning Areas adjacent to R2508, and the [[Marine Corps Air Ground Combat Center 29 Palms]] — site of [[Rodrik Castle]]'s 1997 encounter — is located to the east of the complex. This geographic concentration of UAP-associated facilities and encounter locations supports theories of a coordinated operational infrastructure for alien reproduction vehicle testing and deployment.
+The 2004 [[2004 Nimitz UAP Encounter (Tic Tac)|Nimitz Tic Tac encounter]] took place in Warning Areas next to R2508. The [[Marine Corps Air Ground Combat Center 29 Palms]], where [[Rodrik Castle]]'s 1997 encounter happened, lies east of the complex. This concentration of UAP-associated facilities and encounter sites in one region supports theories of a coordinated operational infrastructure for testing and deploying alien reproduction vehicles.
 
 ## Sources
 

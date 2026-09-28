@@ -1204,6 +1204,11 @@
     "sha256": "f6dd24bd57b20d857dad5045a248daf13c953a6b27c2f761f38ed0c0914648db",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/R2508 Complex.md": {
+    "humanized_at": "2026-09-28T21:33:55Z",
+    "sha256": "a188e7dfb5227bb543984eed6776e84f8830e121bb23fb626897831303a620a5",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
