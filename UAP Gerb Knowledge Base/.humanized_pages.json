@@ -1054,6 +1054,11 @@
     "sha256": "c393789dd001eca782004c3bead34c6f469e53a2764a999557397976adecb89a",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Manises Airport, Valencia, Spain.md": {
+    "humanized_at": "2026-09-28T21:07:06Z",
+    "sha256": "bee39fdfbf49f60ac90be68274dce80fa68875e0ae0597f4abd4642f0448ab2d",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
