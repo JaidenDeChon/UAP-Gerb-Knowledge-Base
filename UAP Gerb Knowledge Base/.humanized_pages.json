@@ -1334,6 +1334,11 @@
     "sha256": "3a9ad406a670910b77dc97e92b2254d928499dffd6613edc2e3826b2d2287953",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/USS Omaha.md": {
+    "humanized_at": "2026-09-28T21:56:56Z",
+    "sha256": "68780ccb381f5be1b3615ced81cb809d9f2edb08bcd5da88867753bda322c016",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
