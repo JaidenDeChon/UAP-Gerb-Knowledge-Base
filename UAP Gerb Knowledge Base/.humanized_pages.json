@@ -779,6 +779,11 @@
     "sha256": "79d2b7cd3dd7109a87bc9b2005299b5d591ee4714bd69f66d3e362abec0118f3",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Fort Bliss.md": {
+    "humanized_at": "2026-09-28T20:23:14Z",
+    "sha256": "288ff298c5689f0a9eb9794f43f9505bd24031c295482f68f854104c1c5ef5ce",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
