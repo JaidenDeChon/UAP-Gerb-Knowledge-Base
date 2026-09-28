@@ -1259,6 +1259,11 @@
     "sha256": "a69f9eab4a099f926a7321c54f9950ba8c26520144c77813e91e24d201c280a0",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Shag Harbour, Canada.md": {
+    "humanized_at": "2026-09-28T21:44:13Z",
+    "sha256": "2b4241d203ea21b35b225feae678635943f2eeb2a35a5f92d828a19466f4c00e",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
