@@ -729,6 +729,11 @@
     "sha256": "e2a559b4609da2704780134e1c752fa6b860976ca2db1287e00becdc9914fa40",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Dugway Proving Ground.md": {
+    "humanized_at": "2026-09-28T20:13:09Z",
+    "sha256": "9e0ae04fb24ea967aadea70381112524f37887c95940d1e2f5e0c32c9a73f79b",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
