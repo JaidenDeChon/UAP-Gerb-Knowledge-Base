@@ -1274,6 +1274,11 @@
     "sha256": "79972f8623d26f63bf0c961a28f97e273ba1852ba4d3292a87d5425aab494b06",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Spitsbergen, Norway.md": {
+    "humanized_at": "2026-09-28T21:46:52Z",
+    "sha256": "cb511374ec9eacf8d1d9e3067d867b4fb6e221a9375b399254b17c2abac16c63",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
