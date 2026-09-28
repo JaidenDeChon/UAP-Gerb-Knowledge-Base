@@ -1184,6 +1184,11 @@
     "sha256": "a1273c5608e08fe5f62ddf8ddbf74c74ca095b359e106d7853aaee7b254cb294",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Pittsburgh, Pennsylvania.md": {
+    "humanized_at": "2026-09-28T21:31:03Z",
+    "sha256": "4b4753380c9210230fa154ed1b8a4d3da263db2652ce35824f1748e2a27835ab",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
