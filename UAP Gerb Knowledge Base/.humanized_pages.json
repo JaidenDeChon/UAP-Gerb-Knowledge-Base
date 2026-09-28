@@ -1244,6 +1244,11 @@
     "sha256": "d474d3e850cbe6d3f53d9f06c51bf568acd88bd8726e1dc17912001bca57a79e",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/San Diego, California, USA.md": {
+    "humanized_at": "2026-09-28T21:41:30Z",
+    "sha256": "7f98a7368e6fb591547957fc861e59e472bb667385a509e67f19527d4454c33a",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
