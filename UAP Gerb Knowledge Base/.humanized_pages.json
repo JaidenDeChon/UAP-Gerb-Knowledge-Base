@@ -529,6 +529,11 @@
     "sha256": "cfef4e1b909d89fb2718f29fe520598936da08b0bc4362a4b8596265f7e3d457",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Albuquerque, New Mexico.md": {
+    "humanized_at": "2026-09-28T19:33:40Z",
+    "sha256": "126f9bf0d1fe0f69b6e95d79a955f3966a49d11446dca03209175cecd78414e5",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
