@@ -514,6 +514,11 @@
     "sha256": "2884255632171f8443eddaa189e7285ff8783fd31145c72e4e8e79ea62ec0d45",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Aguadilla, Puerto Rico.md": {
+    "humanized_at": "2026-09-28T19:30:49Z",
+    "sha256": "7e6d243beb517b8000940fe863230f5bcd5a49950f206938289bfe98d16c5047",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
