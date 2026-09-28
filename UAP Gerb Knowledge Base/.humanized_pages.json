@@ -1119,6 +1119,11 @@
     "sha256": "741a3a71a0aa07219fe463ccfe8cf9b302782d180fffa941c711ea69d8e9eac1",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Nazca Desert, Peru.md": {
+    "humanized_at": "2026-09-28T21:17:49Z",
+    "sha256": "85f639292a89b7108c68931065729498554232881c1507a540f080ded527a6d9",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
