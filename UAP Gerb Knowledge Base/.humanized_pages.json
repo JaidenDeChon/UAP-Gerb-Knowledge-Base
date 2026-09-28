@@ -544,6 +544,11 @@
     "sha256": "a3ceb36b295689bc9750cbc4f25312dd5e77ba0a1926ca1478b15066dd4c22dc",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Area 6 (Nevada Test Site).md": {
+    "humanized_at": "2026-09-28T19:37:03Z",
+    "sha256": "2c09be174a55c70568922df12e2975b73cd7559c1a670010ebbe8440078957f3",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
