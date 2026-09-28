@@ -834,6 +834,11 @@
     "sha256": "9e1a4fdd3bcc2a482eb7cb00ba07919f5f006da83ef7c15178af6b54e2bedcb3",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Greensburg, Pennsylvania.md": {
+    "humanized_at": "2026-09-28T20:32:39Z",
+    "sha256": "397513481f59bf875509727fad5ad4115b043d62b262646f0b2dc031ca367e5c",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
