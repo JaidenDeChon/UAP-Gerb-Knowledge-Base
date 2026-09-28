@@ -1044,6 +1044,11 @@
     "sha256": "771abe12fdc3c8222e8c27a1420339d9fc6a2c0ac0140be94d07ecdcff68918a",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Malmstrom Air Force Base.md": {
+    "humanized_at": "2026-09-28T21:05:43Z",
+    "sha256": "6f9e4d16849a1cc6a8e30100e914847f2e124be2cbd59cbaa355fc9cbfd9ccc7",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
