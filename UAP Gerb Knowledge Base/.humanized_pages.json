@@ -1289,6 +1289,11 @@
     "sha256": "82fdd14fc784504aad6320b3383b54409e2e5db2c5e79a5448cdb71207210ae8",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Sumatra, Indonesia.md": {
+    "humanized_at": "2026-09-28T21:49:05Z",
+    "sha256": "f55a6408f3448c26fc1f204c278b39466d5552a44160711a8fea7586380930ec",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
