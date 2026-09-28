@@ -584,6 +584,11 @@
     "sha256": "7bc19e52bf4dd6397bcc3873e32767c0f2c8d343ecbf7ed49858d267fb5ed60f",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Baltimore, Maryland.md": {
+    "humanized_at": "2026-09-28T19:45:13Z",
+    "sha256": "438b692e619576a614379ddb1f16ff4ec399c98c656bc4fcd1c98175ff5a4848",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
