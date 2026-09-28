@@ -5,4 +5,4 @@ tags:
   - location
 ---
 
-Nearest major city to Dugway Proving Ground, located 85 miles northeast.
+Salt Lake City is the nearest major city to Dugway Proving Ground. It lies 85 miles to the northeast.
