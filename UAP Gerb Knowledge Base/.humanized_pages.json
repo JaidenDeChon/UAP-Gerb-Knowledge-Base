@@ -1364,6 +1364,11 @@
     "sha256": "faab3e3d12cae76d01bcff41fd503b6222a67d0167de1f89b6eb9c03bd5f3d80",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Vandenberg Air Force Base.md": {
+    "humanized_at": "2026-09-28T22:01:48Z",
+    "sha256": "4f77bb06119230e144289396b3e75c4d19142fee0a2b508d45c84645e7d3212c",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
