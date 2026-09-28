@@ -604,6 +604,11 @@
     "sha256": "9af382ce3288b20cf9d470bb15392d2114a984aec6acabffd60c0f59cfdd6559",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Boulder, Colorado.md": {
+    "humanized_at": "2026-09-28T19:48:47Z",
+    "sha256": "da7ddd71ac754c88b903468885e7bd5d45cb1f0623e589ee513f06deef2c9ddc",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
