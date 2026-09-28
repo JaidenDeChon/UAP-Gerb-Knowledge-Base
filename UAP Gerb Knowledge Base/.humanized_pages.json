@@ -689,6 +689,11 @@
     "sha256": "1979394b27a99aeebcf8e6a9e7e46bbb3cc2b8df1a180f620b00c1aa8dd3fac3",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Croton Falls Reservoir, New York.md": {
+    "humanized_at": "2026-09-28T20:03:30Z",
+    "sha256": "400b8d3d4ea122e322296ff1801da34ce88038a16ca99ec235cae78587911ef7",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",
