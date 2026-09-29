@@ -20,7 +20,7 @@ The Joint Chiefs considered the austere facility too small. The memo said there 
 
 After Lyndon B. Johnson took office, Walt Rostow wrote to McGeorge Bundy on 16 January 1964 that the DUCC concept should proceed. A same-day memo between Bundy and Carl Kaysen, Deputy Special Assistant for National Security Affairs, showed planning had continued since the start of the Johnson administration and noted that Kaysen had spoken to Harold Brown, Director of Defense Research and Engineering from 1961 to 1965. A final top-secret Bureau of the Budget memo, estimated to date from 1963–64, is more than 40% redacted.
 
-## UAP Gerb's View
+## Gerb's View
 
 In *Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs*, Gerb argues that the DUCC was built. Sources have told him of firsthand encounters in an enormous cavernous facility deep under the Pentagon. He says he has good insight that the [[CIA Directorate of Science and Technology]] runs facilities there. He names the same office as the one that blocked a 2008 transfer of material from [[Lockheed Martin]] to [[AAWSAP]] tied to the [[1953 Kingman, Arizona Crash Retrieval|1953 Kingman crash]]. He reasons that a site whose existence is publicly denied would deal with matters critical to national security, and that UFO programs, according to [[Robert Sarbacher]]'s 1950 statement, are classified above the H-bomb. He places the DUCC at the centre of an eastern network of [[Deep Underground Military Bases (DUMBs)|deep underground bases]] that also includes the [[Warrenton, Virginia|Warrenton]] training centre, Camp Peary and Camp David. In his account, the network serves the contractors and FFRDCs of nearby [[Crystal City, Virginia|Crystal City]].
 

@@ -19,7 +19,7 @@ Gerb's "80 Years of UFO Crash Retrieval and Reverse Engineering" timeline video 
 
 Edwards lies near [[Helendale]] (Lockheed's radar cross-section range), USAF [[Air Force Plant 42|Plant 42]] in Palmdale and the Northrop Grumman [[Tehachapi, California|Tehachapi]] Mountain facility, which puts it at the center of a cluster of alleged reverse engineering locations in the Antelope Valley region.
 
-## Earlier accounts gathered by UAP Gerb
+## Earlier accounts gathered by Gerb
 
 In *UAP Reverse Engineering at Edwards Air Force Base*, Gerb tests Ed's account against older stories about the base:
 
