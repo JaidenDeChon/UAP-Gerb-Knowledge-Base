@@ -9,11 +9,11 @@ Murrysville is a municipality in Westmoreland County, Pennsylvania, between Pitt
 
 ## Jerry Betters and the Kecksburg Case
 
-Jerry Betters lived in Murrysville at the time of the Kecksburg incident. He is one of the civilian witnesses whose accounts were compiled in the investigation of the crash retrieval. Murrysville lies about 20 miles west of Kecksburg along the Route 22 corridor, so Betters was within the area where the object's descent and the military response that followed would have been visible or audible.
+Jerry Betters lived in Murrysville at the time of the Kecksburg incident. He is one of the civilian witnesses whose accounts were compiled in the investigation of the crash retrieval. Murrysville, on the Route 22 corridor, lies about 20 miles northwest of Kecksburg, so Betters was within the area where the object's descent and the military response that followed would have been visible or audible.
 
 ## Geographic Context
 
-Murrysville sits between [[Pittsburgh, Pennsylvania|Pittsburgh]] (approximately 20 miles to the west) and [[Greensburg, Pennsylvania|Greensburg]] (approximately 10 miles to the east), along one of the main travel corridors connecting the Pittsburgh metropolitan area to the Kecksburg area. That location would have made Murrysville residents potential witnesses to the fireball's descent path and to any military vehicles moving along Route 22 on the night of the incident.
+Murrysville sits between [[Pittsburgh, Pennsylvania|Pittsburgh]] (approximately 20 miles to the west) and [[Greensburg, Pennsylvania|Greensburg]] (approximately 10 miles to the southeast), along one of the main travel corridors connecting the Pittsburgh metropolitan area to the Kecksburg area. That location would have made Murrysville residents potential witnesses to the fireball's descent path and to any military vehicles moving along Route 22 on the night of the incident.
 
 ## Sources
 

@@ -97,7 +97,7 @@ Naval operations at Tonopah ended in 1993, the same year Lockheed Martin's Sandi
 
 Tonopah's role as a test site for the F-117 Nighthawk stealth fighter is publicly acknowledged. The F-117, designed by Lockheed Skunk Works, operated in secret at Tonopah for nearly a decade before it was disclosed to the public. This shows that TTR can hide revolutionary aerospace technology from the public and from foreign intelligence, a capability that would apply to even more exotic craft.
 
-## 1986 Lockheed Radio Telemetry to Palmdale Skunk Works
+## 2007 Lockheed Radio Telemetry to Palmdale Skunk Works
 
 Beginning in 2007, Lockheed radio telemetry data was detected being transmitted from TTR coordinates 7 miles west of the south end of the runway to 1011 Lockheed Way, Building 601, Palmdale, California. That is the address of Lockheed Martin Aeronautics Corporation in the Antelope Valley, home to [[Lockheed Martin Skunk Works]].
 
