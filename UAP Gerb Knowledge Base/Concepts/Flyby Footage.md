@@ -8,7 +8,7 @@ The Flyby Footage is a video clip of about 20 seconds that appears to show a dis
 
 ## Technical characteristics
 
-The clip is well below 240p, and it is a [[Second-Generation Recording]]: someone filmed the original footage as it played on a computer screen. Reflections of equipment are visible on the glass. Gerb considers them more likely to come from inside the aircraft than from the camera filming the screen: a camcorder mounted in the cockpit, with possible catches of a [[Gentex MBU-23P Pilot Respirator Mask|Gentex MBU-23/P]] oxygen mask. This would place the original camera inside a military jet. [[NASA]]'s F/A-18 chase aircraft carry just such a camcorder behind the pilot's seat, able to film to either side. The clip shows a wing filmed on the port side with empty wingtip missile pylons, and Gerb finds that the wing angle and pylons match a cockpit view from an F/A-18 Super Hornet.
+The clip is well below 240p, and it is a [[Second-Generation Recording]]: someone filmed the original footage as it played on a computer screen. Reflections of equipment are visible on the glass. Gerb thinks they more likely come from inside the aircraft than from the camera filming the screen. In his reading they show a camcorder mounted in the cockpit, and possibly glimpses of a [[Gentex MBU-23P Pilot Respirator Mask|Gentex MBU-23/P]] oxygen mask. This would place the original camera inside a military jet. [[NASA]]'s F/A-18 chase aircraft carry just such a camcorder behind the pilot's seat, able to film to either side. The clip shows a port-side wing with empty wingtip missile pylons, and Gerb finds that the wing angle and pylons match a cockpit view from an F/A-18 Super Hornet.
 
 ## Audio
 

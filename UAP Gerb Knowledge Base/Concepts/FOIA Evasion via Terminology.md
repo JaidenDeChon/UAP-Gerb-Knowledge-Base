@@ -4,37 +4,37 @@ tags:
   - concept
 ---
 
-**FOIA Evasion via Terminology** refers to the practice by US government agencies of using specific technical or bureaucratic terms to classify and withhold information that would otherwise be subject to disclosure under Freedom of Information Act (FOIA) requests using more common terminology. By maintaining parallel classification systems with distinct terminology, agencies can deny FOIA requests for "UFO" or "UAP" data while continuing to collect the same information under different designations.
+**FOIA Evasion via Terminology** is the practice of US government agencies using specific technical or bureaucratic terms to classify and withhold information that would otherwise have to be released in response to Freedom of Information Act (FOIA) requests phrased in more common terms. Because agencies keep parallel classification systems with their own terminology, they can deny FOIA requests for "UFO" or "UAP" data while still collecting the same information under different names.
 
 ## Fast Walker / Slow Walker Terminology
 
-The clearest example is the military's use of "[[Fast Walkers]]" and "Slow Walkers" to designate objects detected entering or leaving Earth's atmosphere by space-based sensors. These terms are functionally equivalent to "UFOs" or "UAPs" detected in space, but allow classification under different protocols.
+The clearest example is the military's use of "[[Fast Walkers]]" and "Slow Walkers" for objects that space-based sensors detect entering or leaving Earth's atmosphere. The terms mean the same thing as "UFOs" or "UAPs" detected in space, but they allow the data to be classified under different protocols.
 
-According to the FASTWALKERS video, this distinction is **crucial** because "during an age of increasing albeit surface level UFO transparency, it allows the USG to avoid declassification/Freedom of Information Act requests for fast Walkers and slow walkers."
+According to the FASTWALKERS video, the distinction is important because "during an age of increasing albeit surface level UFO transparency, it allows the USG to avoid declassification/Freedom of Information Act requests for fast Walkers and slow walkers."
 
 ## Pattern of Denials Using Terminological Distinction
 
 [[John Greenewald]] of [[The Black Vault]] received denials from:
-- **[[US Space Force]]** (2023): Cited FOIA Exception One (national security) for Fast Walker information
-- **[[US Northern Command]]/[[NORAD]]** (2013): Stated Fast Walker data is "critical to National Defense"
+- [[US Space Force]] (2023), which cited FOIA Exception One (national security) to withhold Fast Walker information
+- [[US Northern Command]]/[[NORAD]] (2013), which stated that Fast Walker data is "critical to National Defense"
 
-Meanwhile, some UAP-related information has been disclosed under pressure, suggesting agencies treat "UAP" and "Fast Walker" as legally distinct categories even when describing the same phenomena.
+Meanwhile, some UAP-related information has been disclosed under pressure. This suggests that agencies treat "UAP" and "Fast Walker" as legally distinct categories even when both describe the same phenomena.
 
 ## Executive Order 13526 Classification Authority
 
-All Fast Walker denials cite Executive Order 13526, which allows classification of information deemed "critical to National Defense or foreign policy." By maintaining Fast Walkers as a separate classified program with distinct terminology, agencies invoke this executive order to prevent disclosure even as they release limited information on atmospheric UAPs.
+Every Fast Walker denial cites Executive Order 13526, which allows the classification of information deemed "critical to National Defense or foreign policy." Because Fast Walkers are kept as a separate classified program with its own terminology, agencies can invoke this order to block disclosure even as they release limited information on atmospheric UAPs.
 
 ## Historical Precedent
 
-This pattern extends back decades:
-- **1979**: [[NORAD]] told [[Barry J. Greenwood]] and [[Lawrence Fawcett]] that fulfilling their UAP tracking data request would cost $155,000 (over $500,000 today), effectively pricing civilian researchers out of access
-- **1967**: [[J. Allen Hynek]] revealed that all [[Project Blue Book]] UFO cases were designated as "NORAD cases," suggesting parallel classification using military terminology even during official UFO investigation
+The pattern goes back decades:
+- In 1979, [[NORAD]] told [[Barry J. Greenwood]] and [[Lawrence Fawcett]] that fulfilling their request for UAP tracking data would cost $155,000 (over $500,000 today), which in effect priced civilian researchers out of access.
+- In 1967, [[J. Allen Hynek]] revealed that all [[Project Blue Book]] UFO cases were designated as "NORAD cases," which suggests a parallel classification using military terminology even during an official UFO investigation.
 
 ## Significance
 
-The use of specialized terminology demonstrates sophisticated information control: agencies can claim transparency on "UAP" while maintaining absolute secrecy on "Fast Walkers" — even though both terms describe unidentified objects detected in Earth's vicinity. This approach allows selective disclosure while protecting core surveillance capabilities and the most sensitive detection records.
+The use of specialized terminology shows a sophisticated form of information control. Agencies can claim transparency on "UAP" while keeping complete secrecy on "Fast Walkers", even though both terms describe unidentified objects detected in Earth's vicinity. This lets them disclose selectively while protecting core surveillance capabilities and the most sensitive detection records.
 
-[[Bob Fish]]'s 2015 email to [[John Podesta]] — disclosed via [[WikiLeaks]] rather than official channels — bypassed this terminological barrier by using insider knowledge to identify the [[Defense Support Program (DSP)]] as the specific program collecting "hard data on unidentified flying objects." This demonstrates that terminological evasion can be circumvented by insiders willing to bridge the classification vocabulary gap.
+[[Bob Fish]]'s 2015 email to [[John Podesta]], which became public through [[WikiLeaks]] rather than official channels, got around this terminological barrier. Using insider knowledge, Fish identified the [[Defense Support Program (DSP)]] as the specific program collecting "hard data on unidentified flying objects." The case shows that insiders willing to bridge the gap between the two classification vocabularies can get around this kind of evasion.
 
 ## Sources
 

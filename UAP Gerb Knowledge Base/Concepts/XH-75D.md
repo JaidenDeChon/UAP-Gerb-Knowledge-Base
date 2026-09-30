@@ -6,11 +6,11 @@ tags:
   - aircraft
 ---
 
-The **XH-75D**, also referred to as the "XH Shark," is an alleged anti-gravity helicopter described in the whistleblower testimony of [[Colonel Steve Wilson]] as designed by [[Teledyne Ryan]]'s San Diego division. Wilson claimed this craft was assigned to Delta 4/[[NRO (National Reconnaissance Office)|NRO]] for UFO crash retrieval operations. He produced a hand-drawn schematic of the vehicle in 1997 depicting a dual-rotor helicopter design.
+The **XH-75D**, also called the "XH Shark," is an alleged anti-gravity helicopter. According to the whistleblower testimony of [[Colonel Steve Wilson]], it was designed by [[Teledyne Ryan]]'s San Diego division. Wilson claimed the craft was assigned to Delta 4/[[NRO (National Reconnaissance Office)|NRO]] for UFO crash retrieval operations. In 1997 he produced a hand-drawn schematic of the vehicle, showing a helicopter with two rotors.
 
-No confirmed documentation of the XH-75D exists beyond Wilson's testimony and drawing. UAP Gerb notes that Wilson's 1997 schematic bears a striking visual resemblance to Lockheed subsidiary Sikorsky's 2019 **Raider X** concept helicopter — a "agile, survivable compound co-axial helicopter" designed for peer/near-peer conflict environments in extreme conditions. Wilson's design predated the Raider X by 22 years, though the connection remains speculative in the absence of hard evidence.
+No confirmed documentation of the XH-75D exists beyond Wilson's testimony and drawing. Gerb notes that Wilson's 1997 schematic looks strikingly like the Raider X, a 2019 concept helicopter from Sikorsky, a Lockheed subsidiary. The Raider X is an "agile, survivable compound co-axial helicopter" designed for peer/near-peer conflict environments in extreme conditions. Wilson's design came 22 years before it, though without hard evidence the connection remains speculative.
 
-The intended application of any onboard anti-gravity system was never elaborated upon in Wilson's testimony.
+Wilson's testimony never explained what any onboard anti-gravity system was meant to do.
 
 ## Sources
 

@@ -9,17 +9,17 @@ Raelism (also Raelianism or the Raelian Movement) is a UFO religion founded in F
 
 ## Core Beliefs
 
-- **The Elohim**: An advanced extraterrestrial civilization that created all life on Earth approximately 25,000 years ago using advanced biotechnology. The plural Hebrew word *Elohim* (commonly translated as "God" or "gods") is interpreted by Raelism as a direct reference to this species.
-- **Prophets as Elohim hybrids**: Key religious figures in human history — including Buddha, Jesus, Moses, Muhammad, and 36 others — are identified as one of 40 Elohim-human hybrid "prophets" sent to guide humanity toward peaceful technological development.
-- **Raël as final prophet**: Vorilhon claims he was contacted by an Elohim on December 13, 1973, near Clermont-Ferrand, France, and designated as the final prophet — the one who will inform humanity of its true origins before the Elohim return.
-- **Age of Apocalypse**: The 1945 [[Bombing of Hiroshima]] inaugurated an "Age of Apocalypse" in which humanity entered the technological phase capable of nuclear self-destruction. The Elohim will not return until humanity demonstrates it can manage its technology peacefully.
-- **Embassy**: Raelists seek to construct a formal embassy with extraterrestrial landing facilities for the Elohim's return visit, originally intended to be built in Israel.
+- The Elohim are an advanced extraterrestrial civilization that created all life on Earth about 25,000 years ago using advanced biotechnology. Raelism reads the plural Hebrew word *Elohim* (commonly translated as "God" or "gods") as a direct reference to this species.
+- Major religious figures in human history, including Buddha, Jesus, Moses, Muhammad and 36 others, are each identified as one of 40 Elohim-human hybrid "prophets" sent to guide humanity toward peaceful technological development.
+- Vorilhon claims that an Elohim contacted him on December 13, 1973, near Clermont-Ferrand, France, and designated him the final prophet: the one who will tell humanity its true origins before the Elohim return.
+- The 1945 [[Bombing of Hiroshima]] began an "Age of Apocalypse", in which humanity reached a level of technology capable of nuclear self-destruction. The Elohim will not return until humanity shows it can manage its technology peacefully.
+- Raelists seek to build a formal embassy with extraterrestrial landing facilities for the Elohim's return visit. It was originally intended to be built in Israel.
 
 ## Organization and Activities
 
-The Raelian Movement is legally registered as a religion in some jurisdictions and operates openly, holding annual events and maintaining publications in multiple languages. It attracted significant controversy in 2002 when a Raelian biotech company, Clonaid, claimed to have produced the first human clone — a claim that was never independently verified.
+The Raelian Movement is legally registered as a religion in some jurisdictions. It operates openly, holds annual events and keeps publications in multiple languages. In 2002 it drew significant controversy when Clonaid, a Raelian biotech company, claimed to have produced the first human clone. That claim was never independently verified.
 
-Gerb describes the movement as a curiosity — unusual but not dangerous — and distinct from harmful UFO cults.
+Gerb describes the movement as a curiosity that is unusual but not dangerous, and he sets it apart from harmful UFO cults.
 
 ## Sources
 

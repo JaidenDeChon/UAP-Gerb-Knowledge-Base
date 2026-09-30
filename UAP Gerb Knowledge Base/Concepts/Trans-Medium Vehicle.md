@@ -4,34 +4,34 @@ tags:
   - concept
 ---
 
-A trans-medium vehicle (also: transmedium object, trans-medium craft) is an unidentified craft or object documented transitioning between two or more distinct physical media — typically water and atmosphere, but in some cases atmosphere and near-space — without an apparent change in propulsion system, structural configuration, or flight characteristics. The concept is central to contemporary UAP research and has been discussed at length by physicists, naval officers, and government officials as representing a technology category with no known human analog.
+A trans-medium vehicle (also called a transmedium object or trans-medium craft) is an unidentified craft or object documented moving between two or more distinct physical media, usually water and the atmosphere but sometimes the atmosphere and near-space, with no apparent change in its propulsion system, structural configuration or flight characteristics. The idea is central to current UAP research. Physicists, naval officers and government officials have discussed it at length as a category of technology with no known human analog.
 
-The term entered mainstream UAP discourse primarily through the [[2004 Nimitz UAP Encounter (Tic Tac)]], in which Commander [[David Fravor]] and other pilots reported an object that appeared to be operating from a position below the ocean surface before ascending and maneuvering at extreme speed in the atmosphere. It has since been applied retroactively to a large historical corpus of [[Unidentified Submerged Object (USO)]] cases spanning centuries.
+The term reached mainstream UAP discussion mainly through the [[2004 Nimitz UAP Encounter (Tic Tac)]]. In that encounter, Commander [[David Fravor]] and other pilots reported an object that appeared to be operating from below the ocean surface before it climbed and maneuvered at extreme speed in the atmosphere. The term has since been applied after the fact to a large historical body of [[Unidentified Submerged Object (USO)]] cases going back centuries.
 
 ## Documented Characteristics
 
-Across the historical and contemporary record, trans-medium objects share several physical behaviors that distinguish them from conventional submarines, aircraft, or missiles:
+Across the historical and contemporary record, trans-medium objects share several physical behaviors that set them apart from conventional submarines, aircraft and missiles:
 
-- **Surface transition without disturbance**: objects entering or exiting water without producing a wake, splash, or surface disruption, implying either that they do not interact with water through normal hydrodynamic drag or that they actively suppress these effects
-- **Continuous operation across media**: no propulsion change, speed reduction, or structural alteration observed during media transitions
-- **Extreme velocity in multiple media**: some objects are tracked at supersonic speeds in atmosphere and at speeds dramatically exceeding known submarine capability underwater
-- **Electromagnetic effects**: disruption of compass readings, ship and aircraft electronics, radio communications, and engine function in proximity events — consistent across aerial and aquatic encounter contexts
-- **Gyroscopic or rotational motion**: many trans-medium objects are described as wobbling, quivering, gyrating, or rotating during flight, even when moving in a straight line
+- They enter or leave the water without producing a wake, a splash or any other disturbance of the surface. This implies either that normal hydrodynamic drag does not act on them or that they actively suppress these effects.
+- They keep operating as they cross from one medium to another, with no observed change in propulsion, loss of speed or change in structure.
+- Some are tracked at supersonic speeds in the atmosphere, and underwater at speeds far beyond what any known submarine can reach.
+- When they come close, compasses, ship and aircraft electronics, radio communications and engines are disrupted. These electromagnetic effects are consistent across aerial and underwater encounters.
+- Many are described as wobbling, quivering, gyrating or rotating in flight, even when moving in a straight line.
 
 ## Physical Implications
 
-The ability to operate efficiently in both water (density approximately 800 times that of air) and atmosphere without structural transition implies either a propulsion system that is medium-agnostic — such as one generating a field that modifies the local medium around the craft — or materials and structural properties unlike any known aerospace or marine engineering. [[Kevin Knuth]] at the [[Sol Foundation]] has discussed the physics of such a propulsion system in the context of the Nimitz Tic Tac encounter, noting that the observed maneuvers imply acceleration profiles that would be instantly lethal to human occupants under conventional inertial physics.
+Water is approximately 800 times denser than air. A craft that operates efficiently in both, without changing its structure, implies one of two things. Either its propulsion works the same in any medium, for example by generating a field that alters the medium around the craft, or its materials and structure are unlike anything in known aerospace or marine engineering. [[Kevin Knuth]] of the [[Sol Foundation]] has discussed the physics of such a propulsion system in relation to the Nimitz Tic Tac encounter. He notes that the observed maneuvers imply accelerations that would instantly kill human occupants under conventional inertial physics.
 
-[[Rear Admiral Timothy Gallaudet]], in his 2024 white paper *Beneath the Surface*, argued that confirmation of trans-medium craft as a real technology would constitute scientific and strategic implications larger than those of the Scientific Revolution. His position has been stated publicly in interviews with journalist [[Ross Coulthart]].
+In his 2024 white paper *Beneath the Surface*, [[Rear Admiral Timothy Gallaudet]] argued that confirming trans-medium craft as a real technology would have scientific and strategic implications larger than those of the Scientific Revolution. He has stated this position publicly in interviews with journalist [[Ross Coulthart]].
 
 ## Historical Documentation
 
-Trans-medium behavior has been documented in maritime records predating modern aviation:
+Maritime records from before modern aviation document trans-medium behavior:
 
-- The [[Maritime Light Wheel]] phenomenon (1873–1910) includes cases of wheel-like luminous objects observed both submerged and hovering above the ocean surface within the same encounter type
-- [[Project Blue Book]] ship cases including the [[SS Morgantown Victory Sighting]] (1966) and the [[Ascension Island USO Sighting]] (1960) document objects entering the sea following aerial maneuvers or emerging from beneath the surface
-- Soviet hydrologist records from [[Kamchatka Lake USO Sighting (1970)]] describe an oval object rising from a lake while suppressing engine function
-- The [[2004 Nimitz UAP Encounter (Tic Tac)]] brought the concept into contemporary public and government awareness
+- The [[Maritime Light Wheel]] phenomenon (1873–1910) includes cases in which wheel-like luminous objects were seen both underwater and hovering above the ocean surface within the same type of encounter.
+- [[Project Blue Book]] ship cases, including the [[SS Morgantown Victory Sighting]] (1966) and the [[Ascension Island USO Sighting]] (1960), document objects that entered the sea after maneuvering in the air, or that emerged from beneath the surface.
+- Soviet hydrologists' records of the [[Kamchatka Lake USO Sighting (1970)]] describe an oval object that rose from a lake and suppressed engine function.
+- The [[2004 Nimitz UAP Encounter (Tic Tac)]] brought the concept to the attention of the public and the government in the present day.
 
 ## Related Pages
 

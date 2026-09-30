@@ -5,27 +5,27 @@ tags:
   - concept
 ---
 
-The Mystery Airship Craze was a wave of mass UFO sightings that swept across the United States between approximately November 1896 and May 1897, producing thousands of eyewitness reports of large, powered, maneuverable aerial craft — described as resembling airships or dirigibles — exhibiting capabilities beyond any publicly known technology of the era. The craze represents the first documented mass aerial mystery phenomenon in American history and is considered a predecessor to the modern UFO wave episodes that began in 1947.
+The Mystery Airship Craze was a wave of mass UFO sightings across the United States between approximately November 1896 and May 1897. Thousands of eyewitnesses reported large, powered aerial craft that resembled airships or dirigibles, could maneuver, and did things no publicly known technology of the era could do. The craze was the first documented mass aerial mystery in American history and is considered a predecessor to the modern UFO waves that began in 1947.
 
 ## Overview
 
-The sightings began in California in November 1896 and spread eastward across the country over the following six months. Witnesses in hundreds of locations reported seeing illuminated, elongated aerial objects traveling at significant speeds, often at night. A distinguishing feature of the 1896–1897 reports \u2014 compared to later UFO waves \u2014 is that many witnesses described the craft as having visible crew members who appeared human. Some reports included accounts of landing craft, interactions with crew, and detailed descriptions of what witnesses assumed to be a human inventor's private prototype.
+The sightings began in California in November 1896 and spread eastward across the country over the following six months. Witnesses in hundreds of locations reported illuminated, elongated objects moving at significant speeds through the sky, often at night. Unlike later UFO waves, the 1896–1897 reports often described visible crew members who appeared human. Some reports told of craft landing and of witnesses interacting with the crew, and gave detailed descriptions of what witnesses assumed was a human inventor's private prototype.
 
 ## Technology Context
 
-At the time of the craze, powered heavier-than-air flight had not yet been demonstrated (the Wright Brothers would achieve the first powered flight in 1903). Lighter-than-air airship technology did exist: [[Solomon Andrews]] had demonstrated controlled hydrogen airship flight with his Aereon airship in 1863, and gas-bag dirigibles with steam or electric propulsion were being developed by inventors in Europe and the United States. However, the capabilities described by witnesses \u2014 sustained powered flight at significant altitude and speed, long-distance travel, precise maneuvering \u2014 substantially exceeded what any known prototype of the era could perform.
+At the time of the craze, nobody had yet demonstrated powered heavier-than-air flight (the Wright Brothers would achieve the first powered flight in 1903). Lighter-than-air airships did exist. [[Solomon Andrews]] had demonstrated controlled hydrogen airship flight with his Aereon airship in 1863, and inventors in Europe and the United States were developing gas-bag dirigibles with steam or electric propulsion. Witnesses, however, described sustained powered flight at significant altitude and speed, long-distance travel and precise maneuvering, which was far more than any known prototype of the era could do.
 
 ## Competing Explanations
 
-**Inventor hypothesis**: Many contemporaries believed an unknown genius inventor had secretly developed a workable airship but was not yet prepared to reveal the discovery publicly. Press coverage frequently speculated about a mysterious inventor. No such inventor or aircraft was ever identified.
+Under the inventor hypothesis, many contemporaries believed an unknown genius inventor had secretly built a workable airship but was not yet ready to reveal it. Newspapers often speculated about this mysterious inventor, but no such inventor or aircraft was ever identified.
 
-**Hoax and misidentification**: Skeptics attributed many reports to hoaxes, kite lights, balloons, planets, or simple hysteria. The period was also known for creative newspaper fabrication (the era of "yellow journalism"), and some individual reports are likely invented. However, the geographic spread and consistency of the wave makes a purely hoax-based explanation difficult to sustain.
+Skeptics attributed many reports to hoaxes or misidentification: kite lights, balloons, planets, or simple hysteria. Newspapers of the period were also known for inventing stories (the era of "yellow journalism"), and some individual reports are likely fabricated. Even so, the wave's geographic spread and the consistency of the reports make it hard to explain everything as a hoax.
 
-**UFO phenomenon hypothesis**: Some researchers argue that the mystery airship wave represents the same unidentified phenomenon observed throughout UFO history, expressing itself through technology familiar and comprehensible to the observers of each era \u2014 in 1897, airships; by the 1940s, the same phenomenon appeared as disc-shaped "flying saucers." Under this interpretation, the craft were no more human-built in 1897 than reported saucers in 1947.
+A third view, the UFO phenomenon hypothesis, is argued by some researchers. They say the mystery airships were the same unidentified phenomenon seen throughout UFO history, which takes the form of whatever technology the observers of each era can recognize and understand. In 1897 it took the form of airships, and by the 1940s it appeared as disc-shaped "flying saucers." In this reading, the craft of 1897 were no more human-built than the saucers reported in 1947.
 
 ## Aurora, Texas Connection
 
-The [[Aurora Texas UFO Crash]] of April 17, 1897, is embedded directly in the Mystery Airship Craze \u2014 the alleged crash occurring at the height of the wave. Witness [[Charlie Stevens]] reported seeing an airship trailing smoke heading northward toward Aurora on the day of the alleged crash, framing the Aurora incident as one data point within the broader national phenomenon.
+The alleged [[Aurora Texas UFO Crash]] of April 17, 1897, happened at the height of the Mystery Airship Craze. On the day of the alleged crash, witness [[Charlie Stevens]] reported seeing an airship trailing smoke as it headed north toward Aurora, which places the Aurora incident within the wider national wave.
 
 ## Sources
 

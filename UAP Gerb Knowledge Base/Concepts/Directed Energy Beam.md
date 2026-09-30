@@ -4,21 +4,21 @@ tags:
   - concept
 ---
 
-A directed energy beam, in the context of UAP research, refers to a focused beam of light or energy reportedly emitted by an unidentified craft — most prominently documented in the [[Vandenberg Air Force Base UFO Film Incident]] of 1964, in which a disc-shaped craft fired four such beams at a dummy nuclear warhead during a USAF ICBM test flight. The beams caused the warhead to deviate from its trajectory.
+In UAP research, a directed energy beam is a focused beam of light or energy that an unidentified craft reportedly emits. The best-documented case is the [[Vandenberg Air Force Base UFO Film Incident]] of 1964, when a disc-shaped craft fired four such beams at a dummy nuclear warhead during a USAF ICBM test flight. The beams knocked the warhead off its trajectory.
 
 ## The 1964 Vandenberg Incident
 
-On September 14, 1964, Lieutenant [[Robert Jacobs]] and his optical instrumentation unit filmed a missile launch from [[Vandenberg Air Force Base]] near [[Big Sur, California]]. At the fringe of space, a craft exhibiting a classic saucer morphology — two discs pressed together with a dome hemisphere on top — entered the camera frame. The beam was emitted from the dome structure. The craft executed four distinct pass-and-fire maneuvers: one from above, one on a secondary approach, one from below, and a final beam before departing. The warhead fell out of the frame following the fourth impact.
+On September 14, 1964, Lieutenant [[Robert Jacobs]] and his optical instrumentation unit filmed a missile launch from [[Vandenberg Air Force Base]] near [[Big Sur, California]]. At the edge of space, a craft with the classic saucer shape (two discs pressed together with a dome hemisphere on top) entered the camera frame. The beam came from the dome. The craft made four separate passes, firing on each: one from above, one on a second approach, one from below, and a final beam before it left. After the fourth hit, the warhead fell out of the frame.
 
-The physical nature of the beam — whether particle beam, laser, or some other directed energy mechanism — was not and could not be determined from the film. Jacobs described it as a "beam of light." The effect on the warhead (loss of trajectory following multiple strikes) is consistent with a physical force being applied to the object.
+What kind of beam it was, whether a particle beam, a laser or some other form of directed energy, was never determined and could not be determined from the film. Jacobs described it as a "beam of light." The warhead lost its trajectory after several strikes, which is consistent with a physical force acting on it.
 
 ## Cover Story: Laser Tracking Strikes
 
-Following the incident, Major [[Florence J. Mansman]] ordered Jacobs to describe the beam events as "[[Laser Tracking Strikes]]" — a fabricated cover story that Jacobs identified as impossible in 1964, when lasers were still in experimental development and had no operational tracking applications. The instruction to use this specific technical-sounding cover term reflects awareness that the beam footage required an official prosaic explanation.
+After the incident, Major [[Florence J. Mansman]] ordered Jacobs to describe the beam events as "[[Laser Tracking Strikes]]". Jacobs called this a fabricated cover story and pointed out that it was impossible in 1964, when lasers were still experimental and had no working tracking use. Choosing a technical-sounding term like this suggests an awareness that the beam footage needed an official, ordinary explanation.
 
 ## Broader Significance
 
-Directed energy weaponry or technology is considered an advanced capability well beyond human engineering of the 1960s. The specific targeting precision shown in the Vandenberg footage — four separate beam strikes from four distinct approach vectors against a warhead moving at 6,000–8,000 mph — is cited as evidence of controlled, intelligent operation rather than passive observation. The incident sits at the intersection of [[UFO Interference with Nuclear Weapons]] and advanced non-human technology.
+Directed energy weapons or technology are considered far beyond what human engineering could do in the 1960s. The Vandenberg footage shows four separate beam strikes, each from a different direction, on a warhead moving at 6,000–8,000 mph. That precision is cited as evidence that the craft was under controlled, intelligent operation and was not simply observing. The incident is a case of both [[UFO Interference with Nuclear Weapons]] and advanced non-human technology.
 
 ## Sources
 

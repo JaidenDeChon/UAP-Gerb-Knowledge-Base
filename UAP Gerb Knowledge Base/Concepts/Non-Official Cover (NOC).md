@@ -4,42 +4,42 @@ tags:
   - concept
 ---
 
-Non-Official Cover (NOC) is a CIA designation for operatives who work without the protection of official diplomatic cover or government affiliation, making their status completely deniable. Unlike officers working under official cover (typically as embassy staff or State Department personnel with diplomatic immunity), NOC operatives pose as private citizens — businesspeople, journalists, academics, or other civilian professionals — and have no legal protections if discovered or captured. This makes NOC postings among the most dangerous and clandestine roles in intelligence work.
+Non-Official Cover (NOC) is a CIA designation for operatives who work without the protection of official diplomatic cover or government affiliation, which makes their status completely deniable. Officers under official cover usually work as embassy staff or State Department personnel and have diplomatic immunity. NOC operatives instead pose as private citizens, such as businesspeople, journalists, academics or other civilian professionals, and have no legal protection if they are discovered or captured. NOC postings are among the most dangerous and clandestine roles in intelligence work.
 
 ## Characteristics of NOC Operations
 
 NOC operatives typically:
-- Maintain elaborate civilian cover identities supported by real employment or business ventures
-- Cannot seek protection from US embassies or diplomatic channels if compromised
-- Face full legal consequences under local law if exposed, including espionage charges
-- Operate with complete deniability, meaning the US government will not acknowledge their affiliation
-- Are used for the most sensitive operations where government fingerprints cannot be visible
-- May work for years or decades maintaining their cover before activation for specific missions
+- Keep up elaborate civilian cover identities backed by real jobs or businesses
+- Cannot turn to US embassies or diplomatic channels for protection if their cover is blown
+- Face the full force of local law if exposed, including espionage charges
+- Operate with complete deniability: the US government will not acknowledge that they work for it
+- Are used for the most sensitive operations, where no trace of government involvement can show
+- May keep up their cover for years or decades before being activated for specific missions
 
 ## UAP Program Connection: Michael Herrera Contact
 
-In June 2023, following [[Michael Herrera]]'s public testimony at the [[National Press Club]], a CIA NOC operative made contact with Herrera through [[Steven Greer]]'s network. An insider at the NPC event sent Greer an encrypted message stating they knew what Herrera had witnessed during his 2009 Indonesia encounter. Greer subsequently provided Herrera with contact information for the NOC operative.
+In June 2023, after [[Michael Herrera]] testified publicly at the [[National Press Club]], a CIA NOC operative contacted Herrera through [[Steven Greer]]'s network. An insider at the event sent Greer an encrypted message saying they knew what Herrera had seen during his 2009 encounter in Indonesia. Greer then gave Herrera the operative's contact information.
 
 ### The Meeting
 
-After deliberation about whether it was safe, Herrera contacted the operative and was flown to an undisclosed location for a face-to-face meeting. The operative:
-- Used **chip-detection devices** to ensure Herrera was not carrying tracking equipment (noting that program personnel are "chipped")
+After weighing whether it was safe, Herrera contacted the operative and was flown to an undisclosed location to meet him in person. The operative:
+- Used chip-detection devices to make sure Herrera was not carrying tracking equipment, noting that program personnel are "chipped"
 - Required Herrera's phone to be turned off during the meeting
-- Appeared nervous and fidgety despite having conducted extensive background research on Herrera
-- **Provided Herrera with a loaded sidearm** as a trust-building gesture, demonstrating vulnerability
+- Seemed nervous and fidgety, even though he had researched Herrera's background extensively
+- Gave Herrera a loaded sidearm to build trust, leaving himself vulnerable
 - Apologized to Herrera for the harassment and trauma caused by the 2009 encounter
-- Took Herrera to an **underground facility** to prove his identity and the reality of the classified programs
-- Stated he would "never kill a patriot" or innocent person, though acknowledged murders have occurred to protect program secrecy
+- Took Herrera to an underground facility to prove who he was and that the classified programs were real
+- Said he would "never kill a patriot" or innocent person, but acknowledged that murders have occurred to keep the programs secret
 
-The operative provided Herrera with information about what he had actually witnessed — not drug trafficking as initially believed, but a human recruitment and trafficking operation targeting disaster victims for use as "pink assets" (biological subjects) in classified UAP programs.
+The operative told Herrera what he had actually witnessed. It was not drug trafficking, as initially believed, but a human recruitment and trafficking operation that targeted disaster victims for use as "pink assets" (biological subjects) in classified UAP programs.
 
 ### Insider Network
 
-The NOC operative appears to be part of a network of individuals within classified UAP programs who oppose certain practices (particularly the treatment of human subjects) and support measured disclosure and Congressional oversight. This network facilitated contact between Herrera and multiple insiders, with the NOC serving as an initial trust broker. The operative's willingness to reveal his affiliation, show Herrera classified facilities, and provide detailed information suggests he views disclosure as worth the enormous personal and legal risks inherent in breaking NOC cover.
+The NOC operative appears to belong to a network of people inside classified UAP programs who oppose certain practices, particularly the treatment of human subjects, and who support measured disclosure and Congressional oversight. This network put Herrera in touch with multiple insiders, and the NOC operative was the first go-between to earn his trust. The operative was willing to reveal his affiliation, show Herrera classified facilities and give him detailed information. That suggests he considers disclosure worth the enormous personal and legal risks of breaking NOC cover.
 
 ## Verification
 
-Herrera's associate, Joey Is Not My Name, independently tracked via radar the helicopter transport used for someone to meet an insider, verifying location and timing details Herrera provided after the fact. This lends credibility to Herrera's claims about the meeting and suggests the operative had access to significant resources and transportation capabilities consistent with a well-supported intelligence operation.
+Herrera's associate, Joey Is Not My Name, independently used radar to track the helicopter that carried someone to meet an insider, verifying the location and timing details Herrera provided after the fact. This lends credibility to Herrera's claims about the meeting. It also suggests the operative had access to significant resources and transportation, consistent with a well-supported intelligence operation.
 
 ## Sources
 

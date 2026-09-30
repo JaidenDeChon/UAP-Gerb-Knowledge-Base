@@ -4,58 +4,58 @@ tags:
   - concept
 ---
 
-**Spacebound UAP** refers to unidentified aerial/anomalous phenomena detected in space or transiting between space and Earth's atmosphere, as distinct from objects operating solely within the atmosphere or oceans. The US government and military, particularly [[NORAD]], [[US Space Force]], and the [[Defense Support Program (DSP)]], use the terminology [[Fast Walkers]] and [[Slow Walkers]] to classify these objects rather than "UAP" or "UFO."
+**Spacebound UAP** are unidentified aerial/anomalous phenomena detected in space or crossing between space and Earth's atmosphere, as opposed to objects that stay within the atmosphere or the oceans. The US government and military, particularly [[NORAD]], [[US Space Force]] and the [[Defense Support Program (DSP)]], classify these objects as [[Fast Walkers]] and [[Slow Walkers]] rather than as "UAP" or "UFO."
 
 ## Definitional Distinction
 
-According to the FASTWALKERS video, the terms "UFO" and "UAP" as used by the US government are **limited** and apply specifically to:
+According to the FASTWALKERS video, the US government uses the terms "UFO" and "UAP" in a limited sense. They cover only:
 - Phenomena operating within Earth's atmosphere
 - Transmedium craft operating under the planet's oceans
 
-By contrast, the USG — particularly NORAD and Space Force — uses entirely different designations ([[Fast Walkers|Fast Walkers/Slow Walkers]]) for objects entering or leaving Earth's atmosphere from space.
+For objects entering or leaving Earth's atmosphere from space, the US government, particularly NORAD and Space Force, uses entirely different designations ([[Fast Walkers|Fast Walkers/Slow Walkers]]).
 
 ## Detection Systems
 
 Spacebound UAP are detected by:
-- **[[Defense Support Program (DSP)]] satellites**: Infrared sensors in geosynchronous orbit detecting objects via heat signatures and reflected light
-- **Space-based optical sensors**: Tracking systems monitoring near-Earth space
-- **Data fusion systems**: Integration of multiple sensor platforms managed by [[NORAD]] and Space Force
+- [[Defense Support Program (DSP)]] satellites, whose infrared sensors in geosynchronous orbit pick up objects by their heat signatures and reflected light
+- Space-based optical sensors, tracking systems that monitor near-Earth space
+- Data fusion systems, which combine several sensor platforms and are managed by [[NORAD]] and Space Force
 
-Ground-based sensors generally **cannot** detect spacebound UAP, as confirmed in both [[Richard P. Osedacz]]'s 1989 paper and [[Bradley R. Townsend]]'s 2008 study.
+Ground-based sensors generally cannot detect spacebound UAP. Both [[Richard P. Osedacz]]'s 1989 paper and [[Bradley R. Townsend]]'s 2008 study confirm this.
 
 ## Characteristics of Spacebound UAP
 
-Based on documented detection cases, spacebound UAP exhibit:
+Documented detection cases describe spacebound UAP with the following traits:
 
-1. **Extreme velocities**: Objects traveling at speeds up to 22,000 mph or higher
-2. **Course corrections**: [[Bob Fish]] described a 30-degree course change indicating controlled flight
-3. **Deep space origin**: Objects entering "from the backside" of DSP satellites, suggesting they come from beyond Earth orbit
-4. **Atmospheric transit**: Capability to enter Earth's atmosphere, maneuver, and return to space
-5. **Prolonged tracking**: Some detections last nearly 40 minutes (238 DSP scans)
+1. Extreme speed: objects travel at up to 22,000 mph or higher.
+2. Course corrections: [[Bob Fish]] described a 30-degree change of course that indicated controlled flight.
+3. Origin in deep space: objects enter "from the backside" of DSP satellites, which suggests they come from beyond Earth orbit.
+4. Passage through the atmosphere: they can enter Earth's atmosphere, maneuver, and return to space.
+5. Long tracking times: some detections last nearly 40 minutes (238 DSP scans).
 
 ## Historical Detection Timeline
 
 - **1957**: [[J. Allen Hynek]] disclosed that [[NORAD]] began tracking UFOs
 - **1972**: [[Defense Support Program (DSP)]] began systematically recording Fast Walker data
-- **1976**: [[1976 Tehran UFO Incident]] confirmed tracked by DSP satellites
-- **1984**: [[1984 DSP Indian Ocean Detection|Indian Ocean case]] - object passed within 1.8 miles of DSP satellite
+- **1976**: The [[1976 Tehran UFO Incident]] was confirmed as tracked by DSP satellites
+- **1984**: In the [[1984 DSP Indian Ocean Detection|Indian Ocean case]], an object passed within 1.8 miles of a DSP satellite
 - **1980s-1990s**: [[Bob Fish]] witnessed DSP personnel discussing Fast Walker detections
 - **Present**: Detection continues under [[US Space Force]] management
 
 ## Classification and Terminology
 
-The use of "Fast Walker" / "Slow Walker" terminology instead of "UAP" serves multiple purposes:
-1. **FOIA evasion**: Allows denials of "UAP" requests while maintaining separate Fast Walker classification
-2. **Program compartmentation**: TS/SCI protection limits access even among cleared personnel
-3. **Technical specificity**: Distinguishes space-transiting objects from atmospheric phenomena
+Using the terms "Fast Walker" and "Slow Walker" instead of "UAP" has several purposes:
+1. FOIA evasion: agencies can deny requests about "UAP" while keeping a separate Fast Walker classification.
+2. Program compartmentation: TS/SCI protection limits access even among personnel who hold clearances.
+3. Technical precision: the terms separate objects that travel through space from atmospheric phenomena.
 
 ## Significance
 
-The existence of spacebound UAP detected continuously for over 50 years suggests:
-- Non-human or highly advanced technology with space transit capabilities
-- Regular traffic between Earth and deep space by unidentified craft
-- US military awareness and tracking far exceeding public disclosure
-- Separate classification system more protective than standard UAP protocols
+Spacebound UAP have been detected continuously for over 50 years. This suggests:
+- Non-human or highly advanced technology capable of travelling through space
+- Regular traffic of unidentified craft between Earth and deep space
+- US military awareness and tracking that go far beyond what has been publicly disclosed
+- A separate classification system that protects the information more than standard UAP protocols do
 
 ## Sources
 

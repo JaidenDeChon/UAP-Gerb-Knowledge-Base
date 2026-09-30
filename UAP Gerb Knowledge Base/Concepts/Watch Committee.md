@@ -5,31 +5,31 @@ tags:
   - organization
 ---
 
-The **Watch Committee** is the informal name given to a three-person oversight group that, according to the [[Wilson-Davis Memo]], controlled access to and managed a crash retrieval and reverse engineering program housed within an aerospace contractor. The committee consisted of a security director (former NSA), a program director, and a corporate attorney.
+The **Watch Committee** is the informal name for a three-person group that, according to the [[Wilson-Davis Memo]], managed a crash retrieval and reverse engineering program housed inside an aerospace contractor and controlled who could access it. Its members were a security director (formerly of the NSA), a program director and a corporate attorney.
 
 ## Formation and Purpose
 
-According to Vice Admiral [[Thomas Wilson]]'s account in the Wilson-Davis memo, when he inquired about the name "watch committee," the three overseers explained they had formed it "out of necessity to protect themselves after a near-disaster almost blew their cover."
+According to Vice Admiral [[Thomas Wilson]]'s account in the Wilson-Davis memo, when he asked about the name "watch committee," the three overseers told him they had formed it "out of necessity to protect themselves after a near-disaster almost blew their cover."
 
-Wilson pieced together that a past audit investigation had nearly exposed the program, leading to a tug-of-war over program transparency with Pentagon officials, with money and hiding being central issues. A threat was levied to blow the lid off the program. The investigator conducting the audit was eventually briefed and given a tour of the program. Following this incident, a formal agreement was struck with [[SAPOC (Special Access Program Oversight Committee)|SAPOC]] to prevent future discovery of the program, and the watch committee was established to enforce special access criteria.
+Wilson gathered that an earlier audit investigation had nearly exposed the program. This led to a struggle with Pentagon officials over how open the program should be, in which money and hiding the program were central issues, and a threat was made to blow the lid off it. The investigator running the audit was eventually briefed on the program and given a tour. Afterwards, a formal agreement was struck with [[SAPOC (Special Access Program Oversight Committee)|SAPOC]] to keep the program from being discovered in future, and the watch committee was set up to enforce the special access criteria.
 
 ## Authority and Access Control
 
-The watch committee established rigorous criteria to control all access to the program: **no United States government personnel could access the program unless they met strict, undisclosed criteria.** The committee refused to tell Wilson exactly what these criteria were.
+The watch committee set strict criteria controlling all access to the program. No United States government personnel could access it unless they met these criteria, which were never disclosed; the committee refused to tell Wilson exactly what they were.
 
-When Wilson demanded access based on his position as Deputy Director of the Defense Intelligence Agency with statutory oversight and regulatory authority over all DoD special access programs (both acknowledged and unacknowledged), the watch committee denied that his regulatory authority applied to their program. They showed him pages of a [[Bigot List]] to demonstrate the types of individuals cleared for the program—all were civilians (scientists, engineers, technicians, managers), with no politicians, White House officials, presidents, or congressional members.
+Wilson demanded access on the strength of his position as Deputy Director of the Defense Intelligence Agency, which gave him statutory oversight and regulatory authority over all DoD special access programs, acknowledged and unacknowledged. The watch committee denied that his regulatory authority applied to their program. To show him the kind of people cleared for it, they showed him pages of a [[Bigot List]]. All were civilians (scientists, engineers, technicians and managers), with no politicians, White House officials, presidents or members of Congress.
 
 ## Program Details
 
-The watch committee oversaw a reverse engineering program focused on recovered technological hardware. According to the memo, the program manager told Wilson they had **"a craft, an intact craft they believed could fly"** that was **"not of this Earth, not made by man, not by human hands."**
+The watch committee oversaw a reverse engineering program working on recovered technological hardware. According to the memo, the program manager told Wilson they had "a craft, an intact craft they believed could fly" that was "not of this Earth, not made by man, not by human hands."
 
-The program had been attempting to understand and exploit the technology for years with slow progress and little success, partly due to inability to collaborate with outside scientific experts. The program was described as not fitting into standard categories: it was not a weapons, intelligence, special operations, or logistics program. Only 400 to 800 workers total had been involved since the program's inception.
+For years the program had tried to understand and exploit the technology, with slow progress and little success, partly because it could not work with outside scientific experts. It was described as fitting none of the standard categories: it was not a weapons, intelligence, special operations or logistics program. Only 400 to 800 workers in total had been involved since it began.
 
-The program was coordinated by an aerospace technology contractor described as "the best one of them," active in defense and intelligence work—likely [[Lockheed Martin]] based on subsequent whistleblower accounts and statements by Senator Harry Reid.
+The program was coordinated by an aerospace technology contractor described as "the best one of them," which was active in defense and intelligence work. Based on later whistleblower accounts and statements by Senator Harry Reid, the contractor was likely [[Lockheed Martin]].
 
 ## Denial of Wilson's Access
 
-Despite Wilson's seniority and clearance level, the watch committee—backed by [[SAPOC (Special Access Program Oversight Committee)|SAPOC]]—sustained the denial of access. When Wilson complained to the SAPOC senior review group at the Pentagon, the group's chairman, [[John Deutsch]], threatened Wilson that if he did not drop the matter, "he would not see the Director of DIA promotion, he would get an early retirement, and lose one to two stars."
+Despite Wilson's seniority and clearance level, the watch committee, backed by [[SAPOC (Special Access Program Oversight Committee)|SAPOC]], kept refusing him access. When Wilson complained to the SAPOC senior review group at the Pentagon, the group's chairman, [[John Deutsch]], threatened him: if he did not drop the matter, "he would not see the Director of DIA promotion, he would get an early retirement, and lose one to two stars."
 
 ## Sources
 

@@ -5,47 +5,39 @@ tags:
   - concept
 ---
 
-The Grays are the dominant archetype of extraterrestrial beings in modern UFO culture. They are described consistently across thousands of independent accounts as small, hairless humanoids with disproportionately large heads, large wrap-around black eyes, vestigial noses and mouths, minimal musculature, and visible skeletal structure. Height is typically between 3 and 5 feet. The archetype has appeared in the majority of documented alien abduction accounts since the 1960s and constitutes the cultural default image of an extraterrestrial being in the Western world.
+The Grays are the most common type of extraterrestrial being in modern UFO culture. Thousands of independent accounts describe them in much the same way: small, hairless humanoids with disproportionately large heads, large wrap-around black eyes, vestigial noses and mouths, little musculature and a visible skeletal structure. They are typically between 3 and 5 feet tall. Grays have appeared in most documented alien abduction accounts since the 1960s, and they are the default image of an extraterrestrial in the Western world.
 
 ## Physical Description
 
-The canonical Gray presents with:
-- **Skin**: Gray to gray-white; hairless
-- **Head**: Disproportionately large relative to the body; ovoid or slightly triangular
-- **Eyes**: Very large; dark; almond-shaped or wrap-around; sometimes described as having no discernible pupil or iris
-- **Nose**: Vestigial or absent; sometimes two small nostril slits
-- **Mouth**: Small, slit-like; often described as non-functional for speech
-- **Build**: Slight; minimal musculature; skeletal frame visible
-- **Height**: 3–5 feet
-- **Communication**: Usually described as telepathic
+In the standard description, a Gray has gray to gray-white, hairless skin. Its head is disproportionately large for its body and ovoid or slightly triangular in shape. The eyes are very large, dark, and almond-shaped or wrap-around, and are sometimes described as having no visible pupil or iris. The nose is vestigial or absent, sometimes no more than two small nostril slits, and the mouth is a small slit that is often described as useless for speech. The build is slight, with little musculature and a visible skeletal frame. Grays stand 3–5 feet tall and are usually said to communicate by telepathy.
 
 ## Historical Emergence
 
-The Gray archetype as it is now recognized crystallized in the late 1940s and 1950s. Crowley's 1917 portrait of the entity he called [[Lam]] bears a remarkable morphological resemblance to the modern Gray, though its connection is disputed. The beings reportedly recovered at the [[Roswell Crash]] (1947) are described in accounts of that incident as matching the basic Gray profile. The 1961 [[Betty and Barney Hill Abduction Incident]] provided the first extensively publicized, clinically documented account featuring these beings. Whitley Strieber's 1987 memoir *Communion* — whose cover image became iconic — cemented the Gray as the default extraterrestrial image in popular culture.
+The Gray as it is now recognized took shape in the late 1940s and 1950s. Crowley's 1917 portrait of the entity he called [[Lam]] closely resembles the modern Gray, though any connection between the two is disputed. Accounts of the [[Roswell Crash]] (1947) describe the beings reportedly recovered there as matching the basic Gray profile. The 1961 [[Betty and Barney Hill Abduction Incident]] was the first extensively publicized, clinically documented account to feature these beings. Whitley Strieber's 1987 memoir *Communion*, whose cover image became iconic, fixed the Gray as the default extraterrestrial in popular culture.
 
 ## Statistical Prevalence
 
-The Gray is the dominant type in abduction research globally, though with significant regional variation:
+Grays are the most common type in abduction research worldwide, but their share varies considerably by region:
 - United States: approximately 73% of abduction claims feature Gray-type beings
 - Australia: approximately 50%
 - Continental Europe: approximately 48%
 - United Kingdom: approximately 12%
 
-The lower prevalence in the UK is sometimes attributed to that region's greater relative reporting of alternative humanoid types.
+The lower figure for the UK is sometimes attributed to the region reporting other humanoid types relatively more often.
 
 ## Theories on Nature and Origin
 
-Multiple competing theories circulate regarding what Grays are, assuming their reality:
+Assuming Grays are real, several competing theories try to explain what they are.
 
-**Biological drones**: Grays' emotionless, hive-minded, task-oriented behavior suggests to some researchers that they function as engineered biological constructs operated by or serving a separate, more advanced extraterrestrial civilization.
+Some researchers think Grays are biological drones: engineered biological constructs operated by, or serving, a separate and more advanced extraterrestrial civilization. They base this on the Grays' emotionless, hive-minded, task-oriented behavior.
 
-**Future humans**: Some theorists propose Grays are evolved future humans who have adapted over millennia to sedentary, indoor, technology-dependent lifestyles — accounting for their reduced musculature, hair loss, large eyes adapted to screen-lit environments, and small mouth consistent with reduced oral communication.
+Some theorists propose that Grays are future humans who have evolved over millennia to suit sedentary, indoor lives that depend on technology. This would account for their reduced musculature and hair loss, their large eyes adapted to screen-lit environments, and their small mouths, which fit a reduced need for oral communication.
 
-**Independent extraterrestrial evolution**: The simplest interpretation — that Grays are beings from another world with humanoid morphology arising from parallel evolutionary pressures.
+The simplest interpretation is independent extraterrestrial evolution: Grays are beings from another world whose humanoid morphology arose from parallel evolutionary pressures.
 
 ## Connection to Travis Walton
 
-[[Travis Walton]]'s 1975 abduction account notably describes encountering both Gray-type beings and [[Nordic Aliens|Nordic-type]] beings aboard the same craft, suggesting to some researchers that two distinct types may operate together or in hierarchy.
+In his account of his 1975 abduction, [[Travis Walton]] describes meeting both Gray-type beings and [[Nordic Aliens|Nordic-type]] beings aboard the same craft. Some researchers take this to mean that two distinct types may work together or in a hierarchy.
 
 ## Sources
 

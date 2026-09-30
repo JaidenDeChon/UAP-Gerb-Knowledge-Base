@@ -4,7 +4,7 @@ tags:
   - concept
 ---
 
-The Major Range and Test Facility Base (MRTFB) is the Department of Defense's designated set of national test and evaluation ranges and facilities, governed by DoD Directive 3200.11, which are kept as a core capability for testing weapon systems across the services. UAP Gerb's *The Hidden Wing* counts 23 MRTFBs across the continental United States: eight Army, six Navy, seven Air Force and two defense-agency sites. Within the Air Force, authority over MRTFB test and evaluation is delegated to the Secretary of the Air Force and exercised through [[Air Force Test and Evaluation (AF-TE)]].
+The Major Range and Test Facility Base (MRTFB) is the Department of Defense's designated set of national test and evaluation ranges and facilities. It is governed by DoD Directive 3200.11, and its sites are kept as a core capability for testing weapon systems across the services. UAP Gerb's *The Hidden Wing* counts 23 MRTFBs across the continental United States: eight Army, six Navy, seven Air Force and two defense-agency sites. Within the Air Force, authority over MRTFB test and evaluation is delegated to the Secretary of the Air Force and exercised through [[Air Force Test and Evaluation (AF-TE)]].
 
 ## Air Force MRTFBs named in the video
 
@@ -16,7 +16,7 @@ The video says the Air Force MRTFBs on the western ranges alone cover more than 
 
 ## In UAP research
 
-UAP Gerb calls the MRTFBs "critical cores" and has argued across many videos that they are central to UFO legacy operations. In *The Hidden Wing* he places the Air Force's test and evaluation of recovered non-human craft, [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]] and derivative airframes on the western MRTFBs, which together make up his [[Hidden Wing]].
+Gerb calls the MRTFBs "critical cores" and has argued in many videos that they are central to UFO legacy operations. In *The Hidden Wing* he places the Air Force's test and evaluation of recovered non-human craft, [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]] and derivative airframes on the western MRTFBs, which together make up his [[Hidden Wing]].
 
 ## Sources
 

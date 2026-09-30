@@ -4,31 +4,31 @@ tags:
   - concept
 ---
 
-[[Defense Support Program (DSP)]] satellites use ultra-sensitive infrared sensors capable of detecting small heat sources and reflected light on Earth's surface and in space. Originally designed to detect the infrared signature of ballistic missile launches, these sensors have proven capable of detecting much smaller and faster-moving objects, including [[Fast Walkers]] — anomalous objects entering or leaving Earth's atmosphere.
+[[Defense Support Program (DSP)]] satellites carry ultra-sensitive infrared sensors that can detect small heat sources and reflected light, both on Earth's surface and in space. The sensors were designed to spot the infrared signature of ballistic missile launches, but they have also detected much smaller and faster objects, including [[Fast Walkers]]: anomalous objects entering or leaving Earth's atmosphere.
 
 ## Technical Capabilities
 
-DSP infrared sensors operate from geosynchronous orbit approximately 22,000 miles above Earth, providing continuous monitoring of large portions of the planet's surface and near-space environment. The sensors detect:
+DSP infrared sensors work from geosynchronous orbit, about 22,000 miles above Earth. From there they continuously watch large parts of the planet's surface and the space around it. The sensors detect:
 
-- **Heat signatures**: Missile plumes, explosions, and other thermal events
-- **Reflected sunlight**: Objects passing through the satellite's field of view that reflect sunlight
-- **Small objects at extreme velocities**: Objects moving too fast to be atmospheric, including Fast Walkers
+- heat signatures, such as missile plumes, explosions and other thermal events
+- sunlight reflected off objects passing through the satellite's field of view
+- small objects moving too fast to be in the atmosphere, including Fast Walkers
 
 ## Scan Rate and Tracking
 
-DSP satellites scan once every 10 seconds, allowing continuous tracking of objects over extended periods. The [[1976 Tehran UFO Incident]] detection showed **238 scans**, representing approximately **39.7 minutes of continuous tracking** — demonstrating the ability to maintain lock on fast-moving objects over extended durations.
+DSP satellites scan once every 10 seconds, so they can track an object continuously for a long time. The detection during the [[1976 Tehran UFO Incident]] showed 238 scans, or about 39.7 minutes of continuous tracking, which shows the satellites can stay locked on a fast-moving object for that long.
 
 ## Detection Range Limitations
 
-One of the persistent challenges in Fast Walker analysis is the inability to determine precise range to targets. Both [[Richard P. Osedacz]]'s 1989 study and [[Bradley R. Townsend]]'s 2008 follow-up noted that calculating orbit or exact distance to Fast Walkers remained an "unsolvable" problem, as the objects don't follow predictable trajectories that would allow standard orbital mechanics calculations.
+A persistent problem in Fast Walker analysis is that the precise range to a target cannot be determined. [[Richard P. Osedacz]]'s 1989 study and [[Bradley R. Townsend]]'s 2008 follow-up both noted that calculating the orbit of a Fast Walker, or its exact distance, remained an "unsolvable" problem, because the objects don't follow the predictable trajectories that standard orbital mechanics calculations need.
 
 ## Sensitivity Threshold
 
-The extreme sensitivity of DSP infrared sensors is what allows detection of Fast Walkers that ground-based systems miss. [[Bob Fish]] noted that DSP personnel in [[El Segundo, California]] required **TS/SCI clearance** to access facilities where this data was processed, indicating the sensitivity of the sensor capabilities and the data they collect.
+Because DSP infrared sensors are so sensitive, they can detect Fast Walkers that ground-based systems miss. [[Bob Fish]] noted that DSP personnel in [[El Segundo, California]] needed TS/SCI clearance to enter the facilities where this data was processed, which indicates how sensitive the sensors' capabilities and the data they collect are.
 
 ## Dual-Use Implications
 
-The fact that DSP satellites designed for missile warning also detect and track anomalous objects suggests these sensors are among the most capable space-based detection systems operated by the US military. The [[Aerospace Corporation]]'s documented work using DSP data to develop "hazard support systems" indicates ongoing analysis of this dual detection capability.
+DSP satellites were designed for missile warning, yet they also detect and track anomalous objects. This suggests the sensors are among the most capable space-based detection systems the US military operates. The [[Aerospace Corporation]] has documented work using DSP data to develop "hazard support systems", which indicates ongoing analysis of this dual detection capability.
 
 ## Sources
 

@@ -4,38 +4,38 @@ tags:
   - concept
 ---
 
-**Executive Order 13526**, titled "Classified National Security Information," is a December 2009 executive order issued by President Barack Obama that prescribes a uniform system for classifying, safeguarding, and declassifying national security information in the United States. The order establishes the criteria and procedures for original classification, derivative classification, declassification, and safeguarding of classified information.
+**Executive Order 13526**, titled "Classified National Security Information," is an executive order that President Barack Obama issued in December 2009. It sets a single system for classifying, safeguarding and declassifying national security information in the United States, with criteria and procedures for original classification, derivative classification, declassification and safeguarding.
 
 ## Use in Fast Walker FOIA Denials
 
-Executive Order 13526 has been invoked repeatedly to deny FOIA requests for [[Fast Walkers|Fast Walker]] and [[Slow Walkers|Slow Walker]] detection data:
+Agencies have repeatedly cited Executive Order 13526 to deny FOIA requests for [[Fast Walkers|Fast Walker]] and [[Slow Walkers|Slow Walker]] detection data.
 
 ### Section 1.4 Classification Criteria
 
-The order allows classification of information that could reasonably be expected to cause damage to national security if disclosed. Specifically, agencies cite the provision protecting information deemed **"critical to National Defense or foreign policy."**
+The order allows information to be classified if its disclosure could reasonably be expected to damage national security. Agencies cite the provision that protects information deemed "critical to National Defense or foreign policy."
 
 ### 2013 US Northern Command Denial
 
-[[US Northern Command]]/[[NORAD]] told [[John Greenewald]] that Fast Walker documentation is "currently and properly classified" under Executive Order 13526, stating it is "considered critical to National Defense or foreign policy and is thus controlled by the US government."
+[[US Northern Command]]/[[NORAD]] told [[John Greenewald]] that Fast Walker documentation is "currently and properly classified" under Executive Order 13526, and said it is "considered critical to National Defense or foreign policy and is thus controlled by the US government."
 
 ### 2023 US Space Force Denial
 
-[[US Space Force]] issued a complete denial citing **FOIA Exception One**, which implements Executive Order 13526's classification authority for national defense and foreign policy information.
+[[US Space Force]] denied the request in full, citing FOIA Exception One, which applies Executive Order 13526's classification authority to national defense and foreign policy information.
 
 ## Pattern Across Decades
 
-While Executive Order 13526 dates to 2009, similar classification invocations occurred under previous executive orders:
-- **1979**: [[NORAD]] refused to process [[Barry J. Greenwood]] and [[Lawrence Fawcett]]'s UAP tracking request, citing costs of $155,000
-- **2013**: NORTHCOM cited EO 13526 for Fast Walker classification
-- **2023**: Space Force maintained classification under the same executive order
+Executive Order 13526 dates to 2009, but similar classification claims were made under earlier executive orders:
+- 1979: [[NORAD]] refused to process [[Barry J. Greenwood]] and [[Lawrence Fawcett]]'s UAP tracking request, citing costs of $155,000.
+- 2013: NORTHCOM (US Northern Command) cited EO 13526 to keep Fast Walker records classified.
+- 2023: Space Force kept the records classified under the same executive order.
 
-This demonstrates consistent policy across presidential administrations (Reagan through Biden) to protect space-based UFO detection records.
+Together these show a consistent policy, across presidential administrations from Reagan to Biden, of protecting space-based UFO detection records.
 
 ## Significance
 
-The consistent invocation of Executive Order 13526 for Fast Walker data indicates this information is treated as among the most sensitive held by US military space commands — arguably more protected than many conventional defense programs. The fact that classification has been maintained across multiple administrations and organizational restructurings (Air Force Space Command → Space Force) suggests institutional permanence of this secrecy policy.
+The repeated use of Executive Order 13526 for Fast Walker data indicates that US military space commands treat this information as among the most sensitive they hold, arguably more protected than many conventional defense programs. The classification has lasted through several administrations and organizational restructurings (Air Force Space Command became Space Force), which suggests the secrecy policy is a permanent part of these institutions.
 
-The executive order approach also means Congress would need to mandate disclosure through legislation that overrides executive classification authority — standard FOIA processes cannot penetrate this level of protection.
+Because the secrecy rests on an executive order, standard FOIA processes cannot get past it. Congress would need to pass legislation that overrides executive classification authority to force disclosure.
 
 ## Sources
 
