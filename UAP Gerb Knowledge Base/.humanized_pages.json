@@ -674,6 +674,11 @@
     "sha256": "c19e50248e795f18ccbbeceedd7ed19439345dcdddfd8e2dffd65b2870c2f5c3",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/Special Operations Manual (SOM 1-01).md": {
+    "humanized_at": "2026-09-30T02:42:47Z",
+    "sha256": "54eb48c7e405bd2e91c9b48a4baed6be8ce911e96bf44557f5468e4862b5c5fc",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Events/1561 Celestial Phenomenon over Nuremberg.md": {
     "humanized_at": "2026-09-27T20:09:57Z",
     "sha256": "c85c07bd50acc648bab990af506a4fd0218a192d4d18a823bb559b8cfd973df9",
