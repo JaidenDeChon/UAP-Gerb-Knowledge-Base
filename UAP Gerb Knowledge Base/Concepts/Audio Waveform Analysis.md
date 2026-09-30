@@ -4,13 +4,13 @@ tags:
   - concept
 ---
 
-Audio waveform analysis is a forensic technique used to examine the amplitude and frequency patterns of audio tracks in video footage to determine characteristics such as continuity, synchronization with visual elements, source origin, and potential manipulation. By visualizing audio as a waveform, analysts can identify cuts, splices, ambient noise patterns, and whether audio matches the visual timeline of a recording.
+Audio waveform analysis is a forensic technique for examining the amplitude and frequency patterns of the audio track in video footage. Analysts use it to judge continuity, whether the sound is synchronized with the picture, where the audio came from, and whether it has been manipulated. Seen as a waveform, the audio shows cuts, splices and ambient noise patterns, and analysts can check whether it matches the visual timeline of a recording.
 
 ## Application to Flyby Footage
 
-In analyzing the [[Flyby Footage]], a Reddit user conducted audio waveform analysis to determine whether the audio track represented original cockpit sound or ambient noise from the screen recording environment. The analysis revealed that the audio waveform does not exhibit a cut or discontinuity at the point where there is a visible footage cut (a frame jump) in the video. This finding provides strong evidence that the audio heard in the footage is not synchronized original cockpit audio but rather continuous ambient sound from the location where someone was filming the computer screen playing the original footage.
+A Reddit user ran an audio waveform analysis on the [[Flyby Footage]] to find out whether the audio track was original cockpit sound or ambient noise from wherever the screen was being recorded. The video has a visible cut, a frame jump, but the audio waveform shows no cut or break at that point. This is strong evidence that the sound in the footage is continuous ambient noise from the place where someone filmed a computer screen as it played the original footage, and that it is not synchronized original cockpit audio.
 
-This conclusion supports the interpretation that the flyby footage is a [[Second-Generation Recording]]— a recording of a screen rather than a direct file copy— and suggests the ambient sounds heard may represent noise from a ship, operations center, or other military facility where the screen recording was captured. Comparison has been made to ambient audio from the USS Omaha during the 2019 spherical UAP water entry event, with similarities noted in the background noise profile.
+This conclusion supports the view that the flyby footage is a [[Second-Generation Recording]], meaning a recording of a screen and not a direct copy of the file. It also suggests the ambient sounds may be noise from a ship, an operations center or another military facility where the screen was filmed. The audio has been compared with ambient audio from the USS Omaha during the 2019 spherical UAP water entry event, and similarities were noted in the background noise profile.
 
 ## Sources
 
