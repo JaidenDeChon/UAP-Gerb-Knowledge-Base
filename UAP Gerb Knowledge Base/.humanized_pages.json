@@ -434,6 +434,11 @@
     "sha256": "5514ae836ea78f84401ae88a650c8783144b2d6028b964e06b23f24e4b5674c2",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/MJ-12 Documents.md": {
+    "humanized_at": "2026-09-30T02:35:03Z",
+    "sha256": "b52992c4d27d11799d3c0d0c258350daa9786d4243e7c17f8d5d3de453481541",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Concepts/Maglev Underground Transportation.md": {
     "humanized_at": "2026-09-30T02:33:34Z",
     "sha256": "8ba36a9f94b1fa70dc9009bc4710e78a2e17c41f72607aafa7b470773b46804b",
