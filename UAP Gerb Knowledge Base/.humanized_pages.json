@@ -649,6 +649,11 @@
     "sha256": "9dff8f5432012dd0973d7d1019f834572c50ec6b5cbee6cb9f1014370cd97d42",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/Slow Walkers.md": {
+    "humanized_at": "2026-09-30T02:42:46Z",
+    "sha256": "e71d41abe20a1a2a129bada8d522e3fe7752e749d5b7d798d10aa3fb433b139a",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Events/1561 Celestial Phenomenon over Nuremberg.md": {
     "humanized_at": "2026-09-27T20:09:57Z",
     "sha256": "c85c07bd50acc648bab990af506a4fd0218a192d4d18a823bb559b8cfd973df9",
