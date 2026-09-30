@@ -724,6 +724,11 @@
     "sha256": "3853d9acfe38904f2b255f2e1f6636216ab7ccef5dd8032f92ed7fb8c690ddc7",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/Tunnel Boring Machine (TBM).md": {
+    "humanized_at": "2026-09-30T02:44:17Z",
+    "sha256": "7e35430a532cec5ac89b704ca381fac07e2a416c860616418ad648db653edd15",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Concepts/UAP Taxonomy.md": {
     "humanized_at": "2026-09-30T02:44:04Z",
     "sha256": "3d5fc089abd57c915a558e106d671e6e39134b3808310648eea48f0838fd669c",
