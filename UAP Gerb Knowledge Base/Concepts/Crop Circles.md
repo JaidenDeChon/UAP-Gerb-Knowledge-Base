@@ -4,25 +4,25 @@ tags:
   - concept
 ---
 
-Crop circles are large-scale geometric designs created in agricultural fields — typically wheat, barley, or rapeseed — by the systematic flattening of the standing crop. They range from simple circular formations to highly intricate geometric and fractal patterns spanning hundreds of meters. While initially attributed to paranormal or extraterrestrial phenomena, the phenomenon is widely accepted to be of human origin, primarily following the 1991 public confession of [[Doug Bower]] and [[Dave Chorley]], who demonstrated that they had been creating formations across southern England since approximately 1976 using basic hand tools.
+Crop circles are large geometric designs made in farm fields by flattening part of a standing crop, typically wheat, barley or rapeseed. They range from simple circles to highly complex geometric and fractal patterns hundreds of meters across. They were at first attributed to paranormal or extraterrestrial causes, but they are now widely accepted to be made by people. The main reason is the 1991 public confession of [[Doug Bower]] and [[Dave Chorley]], who showed that they had been making formations across southern England since about 1976 with basic hand tools.
 
 ## History
 
-Simple circular formations in crops had been documented in scientific literature and folklore for centuries, but the modern crop circle phenomenon emerged in earnest in the late 1970s in Wiltshire, England. Formations grew increasingly complex through the 1980s, generating significant media attention and spawning a research subculture known as "cereology." The complexity of the designs — their geometric precision, bilateral symmetry, and scale — led many observers and researchers to conclude that human creation overnight was implausible.
+Simple circular formations in crops had been documented in scientific literature and folklore for centuries. The modern crop circle phenomenon took off in the late 1970s in Wiltshire, England. Through the 1980s the formations grew more complex, drew heavy media attention and gave rise to a subculture of researchers who called their field "cereology." The geometric precision, bilateral symmetry and scale of the designs led many observers and researchers to conclude that people could not plausibly have made them overnight.
 
 ## Bower and Chorley Confession
 
-In 1991, Doug Bower and Dave Chorley came forward to the British press and demonstrated their technique live. Their method was simple: a plank of wood attached to a rope anchored at a central point was used to flatten crops in controlled arcs; a wire sight fitted to a baseball cap enabled navigation of straight lines. They produced complex, geometrically precise formations in darkness in a matter of hours, settling the core question of feasibility.
+In 1991 Doug Bower and Dave Chorley went to the British press and demonstrated their technique live. The method was simple. They flattened the crop in controlled arcs with a plank of wood tied to a rope anchored at a central point, and they kept straight lines on course with a wire sight fitted to a baseball cap. Working in the dark, they produced complex, geometrically precise formations in a matter of hours, which settled the main question of whether people could make them at all.
 
-The confession triggered a partial collapse of the cereology research community. Some researchers accepted it; others noted that formations had appeared simultaneously in multiple countries and argued that Bower and Chorley could not account for the full global phenomenon. In practice, their confession established that the technique required no special expertise or equipment, enabling copycat formations worldwide and the development of a professional "circlemaker" artform that continues today.
+The confession brought about a partial collapse of the cereology research community. Some researchers accepted it. Others pointed out that formations had appeared at the same time in several countries and argued that Bower and Chorley could not account for the whole worldwide phenomenon. In practice, the confession showed that the technique needed no special expertise or equipment. Copycat formations followed around the world, and a professional "circlemaker" art form developed that continues today.
 
 ## Additional Explanations
 
-In 1992, researchers in Hungary documented a method of bending crops after recent rainfall, using the temporary pliability of wet stalks to create formations without visible stem damage. This technique, combined with the Bower-Chorley demonstration, provided a complete mechanical account of crop circle formation.
+In 1992 researchers in Hungary documented another method: bending crops soon after rain, while the wet stalks are temporarily pliable, to make formations without visible damage to the stems. Together with the Bower and Chorley demonstration, this technique gave a complete mechanical account of how crop circles are formed.
 
 ## Assessment in UAP Research
 
-Gerb explicitly dismisses crop circles as a distraction from genuine UAP evidence, noting that the confession and the well-understood human techniques make them of no evidentiary value for non-human intelligence research.
+Gerb explicitly dismisses crop circles as a distraction from genuine UAP evidence. He notes that because of the confession and the well-understood techniques people use to make them, crop circles have no value as evidence in research into non-human intelligence.
 
 ## Sources
 
