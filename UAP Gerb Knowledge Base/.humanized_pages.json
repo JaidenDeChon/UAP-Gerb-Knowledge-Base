@@ -524,6 +524,11 @@
     "sha256": "fca37f214d3bbd16b03d085a271ad212ae195960537127cc6b909d198a2f8117",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/Nuclear Security Enterprise (NSE).md": {
+    "humanized_at": "2026-09-30T02:36:24Z",
+    "sha256": "576eac74d6c5fe19feeae9ded81b6c0aeea2916cf4c6c41cac3aacfc687a9a42",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Events/1561 Celestial Phenomenon over Nuremberg.md": {
     "humanized_at": "2026-09-27T20:09:57Z",
     "sha256": "c85c07bd50acc648bab990af506a4fd0218a192d4d18a823bb559b8cfd973df9",
