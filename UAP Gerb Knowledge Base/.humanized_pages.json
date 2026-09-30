@@ -269,6 +269,11 @@
     "sha256": "83634f18fe9c7d222c7f1b213585ad5a31d71395d96e5fb431a43fbc1b692c0c",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/FOIA Evasion via Terminology.md": {
+    "humanized_at": "2026-09-30T02:29:52Z",
+    "sha256": "323edc61f3ffe6f695cd11f177c125f8cd4eb2527601f3ba43413f5c74c8013b",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Concepts/Fabrication Hypothesis.md": {
     "humanized_at": "2026-09-30T02:28:14Z",
     "sha256": "d8c2ebf67636c6fd8f73816d99e181e922348481a7da5a3738cc6794a45d0437",
