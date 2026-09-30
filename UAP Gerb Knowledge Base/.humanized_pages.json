@@ -54,6 +54,11 @@
     "sha256": "56a501f6990f7496d013e043c52f089ca1b9d7ee8ca6d1033913e9c9c3155ed2",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/Atomic Energy Act of 1954.md": {
+    "humanized_at": "2026-09-30T02:20:45Z",
+    "sha256": "f588c8f833ce547e7965383b5c8315cdd8dd8ef6c40520d8837ce4a21a014ab6",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Events/1561 Celestial Phenomenon over Nuremberg.md": {
     "humanized_at": "2026-09-27T20:09:57Z",
     "sha256": "c85c07bd50acc648bab990af506a4fd0218a192d4d18a823bb559b8cfd973df9",
