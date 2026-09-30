@@ -114,6 +114,11 @@
     "sha256": "65dfd7ec3ce20e67429f6742d4eb4ec422e9c1e721d5e51c4e473d79080573ce",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/Brain Wave Aircraft Control.md": {
+    "humanized_at": "2026-09-30T02:22:13Z",
+    "sha256": "f7e91f8c8c99e40ccddcdb5e222ce8f2e604b7c71352da00efbc5e991aa15365",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Events/1561 Celestial Phenomenon over Nuremberg.md": {
     "humanized_at": "2026-09-27T20:09:57Z",
     "sha256": "c85c07bd50acc648bab990af506a4fd0218a192d4d18a823bb559b8cfd973df9",
