@@ -694,6 +694,11 @@
     "sha256": "a361b7d18f61f139db7d61e81429b4e54b2ca5e85b1a881755ab5db621a377a3",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/TR-3B.md": {
+    "humanized_at": "2026-09-30T02:44:03Z",
+    "sha256": "089f923d993e24c9322cace57dde428b798cd3e22f6ec703c0c0e13e0021f8b5",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Concepts/The Age of Disclosure.md": {
     "humanized_at": "2026-09-30T02:44:02Z",
     "sha256": "2e4f4f5d63dc0e73708fbdf75b5dec4096ec5ab221739292e1ea4a5c2a343781",
