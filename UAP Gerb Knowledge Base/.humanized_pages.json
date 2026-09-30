@@ -544,6 +544,11 @@
     "sha256": "8b2daf263abc563f353705e0fa4cd6971ecd8b164a1e919f577543d0d447c6d9",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/Ooid Cross-Section.md": {
+    "humanized_at": "2026-09-30T02:38:54Z",
+    "sha256": "01b69e7134c3abef6a433e342dee241b9d8225de6d77986071af29650ab3e4d9",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Events/1561 Celestial Phenomenon over Nuremberg.md": {
     "humanized_at": "2026-09-27T20:09:57Z",
     "sha256": "c85c07bd50acc648bab990af506a4fd0218a192d4d18a823bb559b8cfd973df9",
