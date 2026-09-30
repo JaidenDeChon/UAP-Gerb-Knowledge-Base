@@ -4,4 +4,4 @@ tags:
   - concept
 ---
 
-A proposed organizational structure in which defense industrial base prime contractors operate at the bottom of a pyramid with only select need-to-know personnel read in under SAP or controlled access programs.
+The UFO Legacy Program Framework is a proposed organizational structure shaped like a pyramid. Prime contractors from the defense industrial base sit at the bottom, and only select need-to-know personnel are read in, under SAP or controlled access programs.
