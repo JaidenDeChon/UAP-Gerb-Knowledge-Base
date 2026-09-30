@@ -284,6 +284,11 @@
     "sha256": "e167f023ec95a16f26b6081292f04bf0deb5206a0be7a2fe70005c26aac0936a",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/Fermi Paradox.md": {
+    "humanized_at": "2026-09-30T02:28:15Z",
+    "sha256": "0e10d051ac8e44adc206206b7f56d46e7318b42213bd30e88fe0d47cf44b4242",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Events/1561 Celestial Phenomenon over Nuremberg.md": {
     "humanized_at": "2026-09-27T20:09:57Z",
     "sha256": "c85c07bd50acc648bab990af506a4fd0218a192d4d18a823bb559b8cfd973df9",
