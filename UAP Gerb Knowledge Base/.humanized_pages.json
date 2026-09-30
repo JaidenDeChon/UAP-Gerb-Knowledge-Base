@@ -444,6 +444,11 @@
     "sha256": "7765bc58577c310eacd77fa5271667d30845d283583988e3ebffdf5e3b926d2d",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/Manhattan Project 2.0.md": {
+    "humanized_at": "2026-09-30T02:35:02Z",
+    "sha256": "efd59e0b1eeaf67dac9ca2ce41e40dc2da74b03240542b6577b6c7da319f391e",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Events/1561 Celestial Phenomenon over Nuremberg.md": {
     "humanized_at": "2026-09-27T20:09:57Z",
     "sha256": "c85c07bd50acc648bab990af506a4fd0218a192d4d18a823bb559b8cfd973df9",
