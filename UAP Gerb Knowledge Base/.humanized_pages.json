@@ -189,6 +189,11 @@
     "sha256": "2409157a56f16e0dc433316b75b617801d9536771052d4b0d5bd678153ee0fe3",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/DEW Radar Systems.md": {
+    "humanized_at": "2026-09-30T02:26:38Z",
+    "sha256": "7766f827f08f079b6050637cb54b349b8d2a7fa8ff2631d0f08bec8d21bed71f",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Concepts/Dark Forest Theory.md": {
     "humanized_at": "2026-09-30T02:26:36Z",
     "sha256": "79c3011a36272c234df7f2d9b4fea161dc59f7c458220e7ffe0a283d307171a7",
