@@ -504,6 +504,11 @@
     "sha256": "562f2275eb2e5d01fe0a8bed8da1ddebc1001c7fc423e54bf2be1b66196a3da9",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/Nitinol (Nickel-Titanium Alloy).md": {
+    "humanized_at": "2026-09-30T02:36:23Z",
+    "sha256": "0e0071229f559d93f0cdf511ac42e1b81c205741303c2b89df3f2d57168fc2ed",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Events/1561 Celestial Phenomenon over Nuremberg.md": {
     "humanized_at": "2026-09-27T20:09:57Z",
     "sha256": "c85c07bd50acc648bab990af506a4fd0218a192d4d18a823bb559b8cfd973df9",
