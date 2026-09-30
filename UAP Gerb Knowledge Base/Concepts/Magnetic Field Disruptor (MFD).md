@@ -4,17 +4,17 @@ tags:
   - concept
 ---
 
-The Magnetic Field Disruptor (MFD) is a purported reverse-engineered propulsion component allegedly developed by [[Sandia National Laboratories]] and [[Lawrence Livermore National Laboratory]] as part of the [[TR-3B]] program. The MFD is described as a plasma-filled accelerator ring that generates a magnetic vortex field capable of disrupting or neutralizing the effects of gravity on a mass within its field — reportedly achieving an 89% reduction in the apparent mass of the vehicle and its occupants.
+The Magnetic Field Disruptor (MFD) is a purported reverse-engineered propulsion component that [[Sandia National Laboratories]] and [[Lawrence Livermore National Laboratory]] allegedly developed for the [[TR-3B]] program. It is described as a plasma-filled accelerator ring whose magnetic vortex field can disrupt or neutralize the effects of gravity on a mass inside it. The ring reportedly reduces the apparent mass of the vehicle and its occupants by 89%.
 
 ## Technical Description
 
-According to [[Edgar Fouche]], the MFD consists of a toroidal (ring-shaped) accelerator containing mercury-based plasma that is pressurized to approximately 250,000 atmospheres and heated to 150 degrees Kelvin. When accelerated to an extremely high rotational velocity, this plasma generates a magnetic vortex field that interacts with the gravitational field in a way that dramatically reduces the effective mass within the torus. The MFD ring is positioned as the central structural element of the TR-3B's triangular airframe, surrounding a rotatable crew compartment.
+According to [[Edgar Fouche]], the MFD is a toroidal (ring-shaped) accelerator holding mercury-based plasma that is pressurized to approximately 250,000 atmospheres and heated to 150 degrees Kelvin. When the plasma is accelerated to an extremely high rotational velocity, it generates a magnetic vortex field that interacts with the gravitational field and dramatically reduces the effective mass within the torus. The ring is the central structural element of the TR-3B's triangular airframe and surrounds a rotatable crew compartment.
 
-The 89% mass reduction achieved by the MFD means that only 11% of the vehicle's true mass needs to be overcome by conventional thrust — enabling the TR-3B's extreme performance characteristics (rapid acceleration, hovering, and silent operation) with relatively modest multi-mode rocket thrusters positioned at each vertex of the triangular airframe. This explains how the craft can achieve performance that appears to defy known physics while still relying on established (if classified) engineering principles for its residual propulsion needs.
+With the MFD cutting mass by 89%, conventional thrust only has to overcome 11% of the vehicle's true mass. That lets relatively modest multi-mode rocket thrusters, one at each vertex of the triangular airframe, give the TR-3B its extreme performance: rapid acceleration, hovering and silent operation. This explains how the craft can perform in ways that appear to defy known physics while its residual propulsion still relies on established, if classified, engineering principles.
 
 ## Development History
 
-Fouché stated that the MFD technology was developed through reverse-engineering of recovered non-human craft, with the core research conducted at Sandia and Livermore — both [[Department of Energy]] national laboratories with existing expertise in plasma physics, nuclear weapons design, and advanced materials science. The classification of MFD technology under the [[Atomic Energy Act of 1954]] would place it within the DOE's transclassified foreign nuclear information framework, potentially explaining why it has remained outside normal military classification channels.
+Fouché stated that the MFD technology was developed by reverse-engineering recovered non-human craft, with the core research done at Sandia and Livermore. Both are [[Department of Energy]] national laboratories with existing expertise in plasma physics, nuclear weapons design and advanced materials science. Classifying MFD technology under the [[Atomic Energy Act of 1954]] would place it within the DOE's transclassified foreign nuclear information framework, which could explain why it has stayed outside normal military classification channels.
 
 ## Sources
 
