@@ -639,6 +639,11 @@
     "sha256": "3d2d8f3b9cf8d1f2cf267a62428c7616cd660ec23aa53af56c19e2f0cb999b3f",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/Sentinels of Ether.md": {
+    "humanized_at": "2026-09-30T02:42:45Z",
+    "sha256": "9c696e03aa90745c3d34c325d9a0980b4a66ffa1f4e15c2f5f6777647fd6e6d5",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Events/1561 Celestial Phenomenon over Nuremberg.md": {
     "humanized_at": "2026-09-27T20:09:57Z",
     "sha256": "c85c07bd50acc648bab990af506a4fd0218a192d4d18a823bb559b8cfd973df9",
