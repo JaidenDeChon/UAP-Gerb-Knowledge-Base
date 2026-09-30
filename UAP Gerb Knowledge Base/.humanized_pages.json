@@ -269,6 +269,11 @@
     "sha256": "83634f18fe9c7d222c7f1b213585ad5a31d71395d96e5fb431a43fbc1b692c0c",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/Fabrication Hypothesis.md": {
+    "humanized_at": "2026-09-30T02:28:14Z",
+    "sha256": "d8c2ebf67636c6fd8f73816d99e181e922348481a7da5a3738cc6794a45d0437",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Events/1561 Celestial Phenomenon over Nuremberg.md": {
     "humanized_at": "2026-09-27T20:09:57Z",
     "sha256": "c85c07bd50acc648bab990af506a4fd0218a192d4d18a823bb559b8cfd973df9",
