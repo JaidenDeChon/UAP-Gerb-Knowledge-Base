@@ -94,6 +94,11 @@
     "sha256": "f135e4cfe4f1c6b3e2eee07e554020827ffca76924d07ce14a216c78f6911568",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/Biefeld-Brown Effect.md": {
+    "humanized_at": "2026-09-30T02:22:12Z",
+    "sha256": "4abfcd3bdeed371c65fb94a37c6e90a30b59c0a109c98dcaed43e5817a90eac6",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Events/1561 Celestial Phenomenon over Nuremberg.md": {
     "humanized_at": "2026-09-27T20:09:57Z",
     "sha256": "c85c07bd50acc648bab990af506a4fd0218a192d4d18a823bb559b8cfd973df9",
