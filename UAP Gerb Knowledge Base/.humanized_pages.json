@@ -704,6 +704,11 @@
     "sha256": "14609e41b1429e66f05e6fbff2c5b4255efabff5f3c57574e6640bc4b43a138b",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/TSSCI Clearance.md": {
+    "humanized_at": "2026-09-30T02:44:03Z",
+    "sha256": "d714d8b7bed83a611227182ec4926ad4b5ad1e6f2a884f479b0b8d679389d5da",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Concepts/The Age of Disclosure.md": {
     "humanized_at": "2026-09-30T02:44:02Z",
     "sha256": "2e4f4f5d63dc0e73708fbdf75b5dec4096ec5ab221739292e1ea4a5c2a343781",
