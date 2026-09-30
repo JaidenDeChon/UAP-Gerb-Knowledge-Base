@@ -124,6 +124,11 @@
     "sha256": "5caa3aa67309ff5ea71878996b3ce65ffbbadc12313fa33a279c5e81e13a1e02",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/C4ISR.md": {
+    "humanized_at": "2026-09-30T02:22:14Z",
+    "sha256": "28abe072c80da07c5e8d1db61c68386f86ee8e1dbd73c8ab87b820e5a0aaa1ab",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Events/1561 Celestial Phenomenon over Nuremberg.md": {
     "humanized_at": "2026-09-27T20:09:57Z",
     "sha256": "c85c07bd50acc648bab990af506a4fd0218a192d4d18a823bb559b8cfd973df9",
