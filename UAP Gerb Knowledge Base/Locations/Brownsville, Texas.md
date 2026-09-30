@@ -5,4 +5,4 @@ tags:
   - location
 ---
 
-The object entered Mexican airspace approximately 40 miles southwest of Brownsville; also referenced in relation to civilian radar coverage.
+The object entered Mexican airspace about 40 miles southwest of Brownsville. The city also comes up in discussion of civilian radar coverage.

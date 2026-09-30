@@ -5,15 +5,15 @@ tags:
   - location
 ---
 
-Roswell Army Air Field (RAAF) was a major U.S. Army Air Forces installation in New Mexico and home to the 509th Bomb Group in 1947. It is the core military location in the Roswell incident record, including the original "flying disc" press release and subsequent transfer of authority to Fort Worth command channels.
+Roswell Army Air Field (RAAF) was a major U.S. Army Air Forces installation in New Mexico and home to the 509th Bomb Group in 1947. It is the main military site in the record of the Roswell incident. The original "flying disc" press release came from here, and authority later passed to command channels at Fort Worth.
 
 ## Operational Significance
 
-RAAF hosted strategic bomber capabilities and personnel with high-level security responsibilities in the immediate postwar period. This context is frequently cited by researchers who argue Roswell response decisions were treated as a priority national security matter.
+In the years just after the war, RAAF housed strategic bombers and personnel with high-level security responsibilities. Researchers who argue that decisions about the Roswell response were treated as a priority national security matter often cite this background.
 
 ## Roswell Incident Role
 
-In July 1947, reports of unusual debris from Foster Ranch moved through Roswell command staff. Lieutenant Walter Haut issued the initial press release from this installation. Later witness narratives also place guarded hangar activity at the base, including references to Hangar 84 as a temporary holding site for recovered material.
+In July 1947, reports of unusual debris from Foster Ranch passed through the command staff at Roswell. Lieutenant Walter Haut issued the initial press release from this installation. Later witness accounts also describe activity at guarded hangars on the base, and some refer to Hangar 84 as a temporary holding site for recovered material.
 
 ## Sources
 

@@ -5,4 +5,4 @@ tags:
   - location
 ---
 
-The tracked object's initial projected intercept point with US territory, approximately 40 miles southwest; used as a radar reference location.
+The tracked object was at first projected to reach US territory approximately 40 miles southwest of Corpus Christi. The city was used as a reference location for radar.

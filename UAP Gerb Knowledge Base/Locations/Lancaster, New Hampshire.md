@@ -5,17 +5,17 @@ tags:
   - location
 ---
 
-A town in Coos County, northern New Hampshire, notable in the UAP context as a geographic reference point for the 1961 Betty and Barney Hill abduction case — one of the most documented and debated alien abduction accounts in UFO history.
+Lancaster is a town in Coos County in northern New Hampshire. In UAP discussions it is known as a geographic reference point for the 1961 abduction case of Betty and Barney Hill, one of the most documented and debated alien abduction accounts in UFO history.
 
 ## The Hill Abduction
 
-On the night of September 19–20, 1961, Betty and Barney Hill were traveling south on U.S. Route 3 through the White Mountains of New Hampshire. South of Lancaster, the couple observed a strange light in the sky that appeared to follow and approach their car. Barney Hill pulled over and observed the object through binoculars, describing a pancake-shaped craft with beings visible through illuminated windows. The Hills reported missing time of roughly two hours, and under subsequent hypnotic regression — conducted separately — both described being taken aboard a craft and subjected to medical examinations.
+On the night of September 19–20, 1961, Betty and Barney Hill were traveling south on U.S. Route 3 through the White Mountains of New Hampshire. South of Lancaster, the couple saw a strange light in the sky that appeared to follow their car and come closer. Barney Hill pulled over and watched the object through binoculars. He described a pancake-shaped craft with beings visible through lit windows. The Hills reported roughly two hours of missing time. Later, under hypnotic regression conducted with each of them separately, both described being taken aboard a craft and subjected to medical examinations.
 
-Betty Hill's account included a star map shown to her by the beings, later famously interpreted by researcher Marjorie Fish as depicting the Zeta Reticuli star system.
+Betty Hill's account included a star map shown to her by the beings. In a well-known interpretation, the researcher Marjorie Fish later read the map as depicting the Zeta Reticuli star system.
 
 ## Significance
 
-The Betty and Barney Hill case became the first widely reported [[Alien Abduction]] case in the United States and established many of the experiential elements — missing time, physical examination, memory suppression — that became standard reference points in abduction research. Lancaster and the surrounding White Mountains region remain associated with the case in UFO literature.
+The Betty and Barney Hill case became the first widely reported [[Alien Abduction]] case in the United States. It established many of the elements of the experience that later became standard reference points in abduction research, such as missing time, a physical examination and suppressed memories. UFO literature still links Lancaster and the surrounding White Mountains region with the case.
 
 ## Sources
 

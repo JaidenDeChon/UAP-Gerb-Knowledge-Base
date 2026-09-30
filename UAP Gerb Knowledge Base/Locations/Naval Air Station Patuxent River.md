@@ -5,25 +5,25 @@ tags:
   - location
 ---
 
-Naval Air Station Patuxent River ("Pax River"), located in St. Mary's County, Maryland, is one of roughly 23 U.S. Department of Defense major range and test facility bases (MRTFBs) — a category that also includes [[Edwards Air Force Base]], the Nevada Test and Training Range, the Utah Test and Training Range, [[Dugway Proving Ground]], and [[China Lake Naval Air Weapons Station|China Lake]]. Pax River serves as the headquarters of [[Naval Air Systems Command]] (NAVAIR), the Naval Air Warfare Center Aircraft Division (NAWCAD), and the U.S. Navy Test Pilot School (USNTPS). In UAP Gerb's investigative framework, Pax River is identified as the operational and administrative nexus — the "beating heart" — of an alleged [[MITRE Corporation|MITRE]]-managed UFO technology reverse-engineering program tracing to material recovered at the 1947 [[Roswell Crash]].
+Naval Air Station Patuxent River ("Pax River"), located in St. Mary's County, Maryland, is one of roughly 23 U.S. Department of Defense major range and test facility bases (MRTFBs). The same category includes [[Edwards Air Force Base]], the Nevada Test and Training Range, the Utah Test and Training Range, [[Dugway Proving Ground]], and [[China Lake Naval Air Weapons Station|China Lake]]. Pax River is the headquarters of [[Naval Air Systems Command]] (NAVAIR), the Naval Air Warfare Center Aircraft Division (NAWCAD), and the U.S. Navy Test Pilot School (USNTPS). Gerb identifies Pax River as the operational and administrative hub, the "beating heart", of an alleged [[MITRE Corporation|MITRE]]-managed program to reverse-engineer UFO technology, a program he traces to material recovered at the 1947 [[Roswell Crash]].
 
 ## Role as Program Nexus
 
-UAP Gerb alleges that NAVAIR's program executive offices (PEOs) at Pax River house, both administratively and operationally, the core of the reverse-engineering program, working in concert with [[Naval Surface Warfare Center Dahlgren]], [[Naval Surface Warfare Center Crane]], and [[Naval Undersea Warfare Center Keyport]] in what UAP Gerb describes as an integrated triage: Keyport processing data, Crane and Dahlgren holding and analyzing hardware, and Pax River serving as the overall integration node for data, hardware, and aircraft.
+Gerb alleges that NAVAIR's program executive offices (PEOs) at Pax River house the core of the reverse-engineering program, both administratively and operationally. He describes an integrated triage in which Pax River works with [[Naval Surface Warfare Center Dahlgren]], [[Naval Surface Warfare Center Crane]], and [[Naval Undersea Warfare Center Keyport]]. Keyport processes data, Crane and Dahlgren hold and analyze hardware, and Pax River is the overall integration point for data, hardware, and aircraft.
 
 ## Congressional Site Visit
 
-Representative [[Eric Burlison]] conducted a site visit to Pax River, accompanied by White House staff, specifically looking for hangar facilities that could have been used to store recovered non-human vehicles. Burlison reported he did not find direct evidence of such storage but stated the facility would be, logistically, "the perfect venue" for a vehicle transfer — referencing infrastructure reportedly considered for a transfer of material from Lockheed Martin to Bigelow Aerospace. Investigative journalist [[Christopher Sharp]] of Liberation Times separately reported, citing sources, that a vehicle or vehicles of unknown origin were or currently are being stored at Pax River.
+Representative [[Eric Burlison]] visited Pax River with White House staff, looking specifically for hangars that could have been used to store recovered non-human vehicles. Burlison reported that he did not find direct evidence of such storage. He said, however, that logistically the facility would be "the perfect venue" for a vehicle transfer, referring to infrastructure reportedly considered for a transfer of material from Lockheed Martin to Bigelow Aerospace. Separately, investigative journalist [[Christopher Sharp]] of Liberation Times reported, citing sources, that one or more vehicles of unknown origin were stored at Pax River, or still are.
 
 ## The Pais Patents and the Crane Connection
 
-In *[[Off-World Technologies Division – UAP Technology Reverse Engineering]]*, UAP Gerb calls Pax River "almost a counterpart" to [[Naval Surface Warfare Center Crane]], the alleged home of the [[Off-World Technologies Division]]. He points to three threads:
+In *[[Off-World Technologies Division – UAP Technology Reverse Engineering]]*, Gerb calls Pax River "almost a counterpart" to [[Naval Surface Warfare Center Crane]], the alleged home of the [[Off-World Technologies Division]]. He points to three threads:
 
-- **The Pais patents.** Navy aerospace engineer [[Salvatore Pais]], working at Pax River, filed a patent for a triangle- or diamond-shaped craft that manipulates fields and the quantum vacuum around itself. The video likens it to the alleged [[TR-3B]]. NAVAIR's chief technology officer, James Sheehy, backed it.
-- **Kobitz's inquiries.** Former Navy science and technology official [[Nat Kobitz]] told [[Ross Coulthart]] that his discreet inquiries at NAVAIR and Pax River turned up no one who knew anything about Pais or his patents.
-- **SAIC.** Pax River, like Crane, has a long history of contracts with [[SAIC]], the contractor Gerb considers the likely private partner at Crane.
+- While working at Pax River, Navy aerospace engineer [[Salvatore Pais]] filed a patent for a triangle- or diamond-shaped craft that manipulates fields and the quantum vacuum around itself. The video likens the design to the alleged [[TR-3B]]. James Sheehy, NAVAIR's chief technology officer, backed the patent.
+- Former Navy science and technology official [[Nat Kobitz]] told [[Ross Coulthart]] that his discreet inquiries at NAVAIR and Pax River turned up no one who knew anything about Pais or his patents.
+- Pax River, like Crane, has a long history of contracts with [[SAIC]], the contractor Gerb considers the likely private partner at Crane.
 
-On this basis Gerb suggests that non-human technology reverse-engineering work similar to the alleged Crane division may also be conducted at Pax River.
+On this basis Gerb suggests that work on reverse-engineering non-human technology, similar to that of the alleged Crane division, may also be done at Pax River.
 
 ## Sources
 

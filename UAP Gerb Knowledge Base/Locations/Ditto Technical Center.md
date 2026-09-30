@@ -10,7 +10,7 @@ tags:
 
 ## In UAP research
 
-According to witness [[MS (Dugway Witness)|MS]], after he walked in on a hovering saucer at Avery in 2009, guards took him to the Garrison building at Ditto, where two men in black suits interrogated him for six hours. UAP Gerb initially suspected that the encounter itself took place in one of Ditto's chemical and biological test facilities, since MS described a clean room, but concluded it happened at Avery because Ditto's buildings are well known and numbered. According to MS's source GP, much of Dugway's alleged underground facility lies under [[Granite Peak, Dugway|Granite Peak]], just west of the Avery and Ditto areas.
+According to witness [[MS (Dugway Witness)|MS]], after he walked in on a hovering saucer at Avery in 2009, guards took him to the Garrison building at Ditto, where two men in black suits interrogated him for six hours. Because MS described a clean room, Gerb at first suspected that the encounter itself took place in one of Ditto's chemical and biological test facilities. He concluded it happened at Avery instead, since Ditto's buildings are well known and numbered. According to MS's source GP, much of Dugway's alleged underground facility lies under [[Granite Peak, Dugway|Granite Peak]], just west of the Avery and Ditto areas.
 
 ## Sources
 

@@ -6,27 +6,27 @@ tags:
   - location
 ---
 
-The Antelope Valley is a high desert region in northern Los Angeles County and eastern Kern County, California, situated in the western portion of the Mojave Desert. It is home to an unrivaled concentration of US aerospace defense facilities, research institutions, and classified contractor installations, making it arguably the most consequential geographic region in UAP legacy program research. Key installations include [[Edwards Air Force Base]], [[Air Force Plant 42]] at Palmdale, [[Tehachapi, California|Northrop Tehachapi Ranch (the "Anthill")]], the Lockheed Helendale radar cross-section range, the McDonald Douglas RCS facility, and the former [[Norton Air Force Base]].
+The Antelope Valley is a high desert region in the western part of the Mojave Desert, covering northern Los Angeles County and eastern Kern County, California. It has an unrivaled concentration of US aerospace defense facilities, research institutions and classified contractor installations, which arguably makes it the most consequential region in UAP legacy program research. The main installations are [[Edwards Air Force Base]], [[Air Force Plant 42]] at Palmdale, [[Tehachapi, California|Northrop Tehachapi Ranch (the "Anthill")]], the Lockheed Helendale radar cross-section range, the McDonald Douglas RCS facility, and the former [[Norton Air Force Base]].
 
 ## Aerospace Significance
 
-The Antelope Valley has served as the primary production and testing corridor for many of the United States' most advanced classified aircraft programs. Aircraft developed or tested in the region include the B-2 Spirit bomber, B-21 Raider, F-117 Nighthawk, F-35 Lightning II, and RQ-4 Global Hawk. The region's combination of remote terrain, restricted airspace, and deep aerospace industry concentration has historically made it the natural locus for classified test programs that require both physical space and tight security.
+The Antelope Valley has been the main production and testing corridor for many of the United States' most advanced classified aircraft programs. Aircraft developed or tested there include the B-2 Spirit bomber, B-21 Raider, F-117 Nighthawk, F-35 Lightning II and RQ-4 Global Hawk. Its remote terrain, restricted airspace and heavy concentration of aerospace industry have long made it the natural choice for classified test programs that need both physical space and tight security.
 
 ## UAP Legacy Program Significance
 
-The Antelope Valley is described by UAP Gerb as "the most consequential location that has ever come up in all of my research." The concentration of UAP legacy program allegations in the region includes:
+UAP Gerb describes the Antelope Valley as "the most consequential location that has ever come up in all of my research." Allegations about UAP legacy programs in the region include:
 
-- [[Norton Air Force Base]]: Where primary witness [[Brad Sorenson]] allegedly observed the "Flux Liner" Alien Reproduction Vehicle at a 1988 air show static display.
-- [[Edwards Air Force Base]]: Where witness "Ed" (a vetted USAF veteran) claimed to serve as test director for reverse-engineered vehicles out of the 412th Test Group, and where multiple informants to [[Bill Hamilton]] described underground storage of extraterrestrial discs.
-- [[Tehachapi, California|Tehachapi (Anthill)]]: Alleged to house up to 42 underground levels connected by tunnels extending to Edwards and other installations; the subject of intensive investigation by Hamilton.
-- Lockheed [[Helendale]]: RCS facility implicated in UAP legacy programs, with engineers providing testimony to [[Bill McDonald]] about the [[XF-131 Super Sentinel]].
-- McDonald Douglas RCS facility: Informants to Hamilton described observing a UAP held in an underground hangar here.
+- [[Norton Air Force Base]]: Primary witness [[Brad Sorenson]] allegedly saw the "Flux Liner" Alien Reproduction Vehicle on static display at an air show here in 1988.
+- [[Edwards Air Force Base]]: A witness known as "Ed", a vetted USAF veteran, claimed he was test director for reverse-engineered vehicles out of the 412th Test Group. Several informants told [[Bill Hamilton]] that extraterrestrial discs were stored underground at the base.
+- [[Tehachapi, California|Tehachapi (Anthill)]]: The site allegedly has up to 42 underground levels, linked by tunnels that reach Edwards and other installations. Hamilton investigated it intensively.
+- Lockheed [[Helendale]]: This radar cross-section (RCS) facility has been implicated in UAP legacy programs, and engineers have given testimony to [[Bill McDonald]] about the [[XF-131 Super Sentinel]].
+- McDonald Douglas RCS facility: Informants told Hamilton they had seen a UAP held in an underground hangar here.
 
-A contractor to Hamilton, in testimony about working at the Anthill, described tunnels with round doorways and red/green entry lights, and a command center under Haystack Butte at Edwards. Ground transport within the DUMBs was described as electric vehicles, with a maglev train system connecting facilities.
+A contractor who gave Hamilton testimony about working at the Anthill described tunnels with round doorways and red and green entry lights, along with a command center under Haystack Butte at Edwards. According to that testimony, people moved around inside the deep underground military bases (DUMBs) in electric vehicles, and a maglev train system connected the facilities.
 
 ## Bill Hamilton's Network Map
 
-[[Bill Hamilton]] compiled what is likely the most detailed map of this alleged underground network from his informants. The map identifies connected nodes at Tehachapi, Helendale, McDonald Douglas, George AFB, Edwards AFB, the NASA rocket test site, and China Lake. UAP Gerb has spoken to individuals who claim to have traveled below the Antelope Valley, and on the basis of this testimony combined with Hamilton's research, concludes that an underground network analogous to the "Anthill" does exist and operates on UAP legacy programs.
+From his informants' accounts, [[Bill Hamilton]] compiled what is likely the most detailed map of this alleged underground network. It shows connected nodes at Tehachapi, Helendale, McDonald Douglas, George AFB, Edwards AFB, the NASA rocket test site and China Lake. UAP Gerb has spoken with people who claim to have traveled beneath the Antelope Valley. Based on their testimony and Hamilton's research, he concludes that an underground network similar to the "Anthill" does exist and that it operates on UAP legacy programs.
 
 ## Sources
 

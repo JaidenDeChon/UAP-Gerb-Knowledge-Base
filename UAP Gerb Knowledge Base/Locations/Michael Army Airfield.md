@@ -10,11 +10,11 @@ tags:
 
 ## "The New Area 51"
 
-In June 1997 *Popular Mechanics* ran a cover story by Jim Wilson arguing that the Air Force had moved its most secret testing from Area 51 to a more private site. Drawing on a 1997 agreement between Air Force General Howell Estes and NASA administrator Daniel Goldin to share "redundant assets", and a 1996 NASA announcement that Michael Army Airfield would serve as a runway for several missions of the Lockheed Martin X-33, the magazine pointed to the airfield together with the Green River, Utah launch complex. It reported that it was warned it would be shot down if it flew over the airfield.
+In June 1997 *Popular Mechanics* ran a cover story by Jim Wilson arguing that the Air Force had moved its most secret testing from Area 51 to a more private site. The magazine pointed to the airfield, together with the Green River, Utah launch complex. It drew on two things: a 1997 agreement between Air Force General Howell Estes and NASA administrator Daniel Goldin to share "redundant assets", and a 1996 NASA announcement that Michael Army Airfield would serve as a runway for several missions of the Lockheed Martin X-33. The magazine also reported that it had been warned it would be shot down if it flew over the airfield.
 
 ## In UAP research
 
-UAP Gerb considers the airfield, with Avery, the operational above-ground location of an alleged joint Army and Air Force UFO legacy program at Dugway, and notes that it lies close to the building he and [[Steven Greer]] identify as the entrance to an underground facility near German Village.
+Gerb considers the airfield and Avery to be the operational above-ground location of an alleged joint Army and Air Force UFO legacy program at Dugway. He notes that the airfield lies close to the building that he and [[Steven Greer]] identify as the entrance to an underground facility near German Village.
 
 ## Sources
 

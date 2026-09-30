@@ -5,4 +5,4 @@ tags:
   - location
 ---
 
-Mentioned as another contested UFO crash case claimed to be genuine by the insider 'Uncle'
+Johannesburg is mentioned as another contested UFO crash case, one the insider 'Uncle' claimed was genuine.

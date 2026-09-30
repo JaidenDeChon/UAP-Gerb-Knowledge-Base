@@ -5,4 +5,4 @@ tags:
   - location
 ---
 
-Location of the Lubbock Lights sighting witnessed by engineering/STEM professors
+Lubbock, Texas, is where the Lubbock Lights sighting took place. The lights were witnessed by professors in engineering and other STEM fields.

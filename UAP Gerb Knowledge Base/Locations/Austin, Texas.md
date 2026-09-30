@@ -5,4 +5,4 @@ tags:
   - location
 ---
 
-Location where the interview with Jesse Michaels was being conducted
+Austin, Texas, is where the interview with Jesse Michaels was conducted.

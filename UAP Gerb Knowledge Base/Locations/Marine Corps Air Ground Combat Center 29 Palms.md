@@ -16,7 +16,7 @@ In March 1997 the base hosted the [[Hunter Warrior Advanced Warfighting Experime
 
 Castle says that one night during the experiment his team, sent to check reported flare activity, came over a hill within about 7.5 miles of [[Emerson Dry Lake]], northwest of the main base. There they saw a silent black triangular craft some 300 feet long hovering 150–200 feet up. They were then detained at gunpoint by about 30 unmarked, black-clad operators. The video places the spot inside the FAA restricted airspace it identifies as R2501C, about 90 miles southeast of [[Edwards Air Force Base]] and roughly 44.5 miles from the southern edge of the [[R2508 Complex]]. The craft, and then the ground team, left to the northwest, toward R2508.
 
-UAP Gerb stresses that he does not regard the base, or the Marine Corps, as a UFO legacy program operator. In his reading, Twentynine Palms matters only because the Hunter Warrior exercise gave Navy and Air Force programs a busy area of operations in which to practise unseen. He also notes that Jeremy Corbell released footage in 2023 of a supposed triangle over Twentynine Palms, which is still disputed as either a craft or flares, but treats it as unrelated.
+Gerb stresses that he does not regard the base, or the Marine Corps, as a UFO legacy program operator. In his reading, Twentynine Palms matters only because the Hunter Warrior exercise gave Navy and Air Force programs a busy area of operations in which to practise unseen. He also mentions the footage Jeremy Corbell released in 2023 of a supposed triangle over Twentynine Palms, which is still disputed as either a craft or flares, but he treats it as unrelated.
 
 ## Sources
 

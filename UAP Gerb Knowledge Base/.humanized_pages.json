@@ -509,6 +509,896 @@
     "sha256": "829f278f56c1d4f364ed9dfcd0266f05ef2fd24ed49e641d344947bff66657c2",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Aberdeen, Scotland.md": {
+    "humanized_at": "2026-09-28T19:29:47Z",
+    "sha256": "2884255632171f8443eddaa189e7285ff8783fd31145c72e4e8e79ea62ec0d45",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Aguadilla, Puerto Rico.md": {
+    "humanized_at": "2026-09-28T19:30:49Z",
+    "sha256": "7e6d243beb517b8000940fe863230f5bcd5a49950f206938289bfe98d16c5047",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Air Force Plant 42.md": {
+    "humanized_at": "2026-09-28T19:31:51Z",
+    "sha256": "dbfdf21d62bb88576c133675ef1a40d257117993b022a5984c210c8b682a222e",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Alamogordo, New Mexico.md": {
+    "humanized_at": "2026-09-28T19:32:49Z",
+    "sha256": "cfef4e1b909d89fb2718f29fe520598936da08b0bc4362a4b8596265f7e3d457",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Albuquerque, New Mexico.md": {
+    "humanized_at": "2026-09-28T19:33:40Z",
+    "sha256": "126f9bf0d1fe0f69b6e95d79a955f3966a49d11446dca03209175cecd78414e5",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Antelope Valley.md": {
+    "humanized_at": "2026-09-28T19:34:48Z",
+    "sha256": "59cd1d564e5efae80582b46ab9c035f4b485ca23e5e4766d6a33e69a4ee10100",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Area 51.md": {
+    "humanized_at": "2026-09-28T19:35:48Z",
+    "sha256": "a3ceb36b295689bc9750cbc4f25312dd5e77ba0a1926ca1478b15066dd4c22dc",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Area 6 (Nevada Test Site).md": {
+    "humanized_at": "2026-09-28T19:37:03Z",
+    "sha256": "2c09be174a55c70568922df12e2975b73cd7559c1a670010ebbe8440078957f3",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Ascension Island.md": {
+    "humanized_at": "2026-09-28T19:37:56Z",
+    "sha256": "ce9c8c50280ef6aab9f8c52590705a26903943e5469b4ceefe3cfc58edec7aaf",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Atlanta, Georgia.md": {
+    "humanized_at": "2026-09-28T19:38:51Z",
+    "sha256": "f534bf8a1cda179c3c8b816c2820136e695cea935e9494d250789a27e0549f63",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Aurora, Texas.md": {
+    "humanized_at": "2026-09-28T19:39:27Z",
+    "sha256": "6f3bb24b8036146f13dcec38bd80e52ff5d720359bcc9800e533deb033c7d80e",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Austin, Texas.md": {
+    "humanized_at": "2026-09-28T19:40:21Z",
+    "sha256": "2c575baaa3be919c55290a2b62052281fbac07555563f103734363246ae41568",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Avery Technical Center.md": {
+    "humanized_at": "2026-09-28T19:42:14Z",
+    "sha256": "3ecfe72d638a4f8f425e09256079685febfca538de7f9d418cd49ea7a8f52431",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Aztec, New Mexico.md": {
+    "humanized_at": "2026-09-28T19:43:27Z",
+    "sha256": "c746cd4a7b6a2f3152ef6a48336187d7a6fa263ca4cb04e46e601a9381b0a58f",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Bahamas.md": {
+    "humanized_at": "2026-09-28T19:44:15Z",
+    "sha256": "7bc19e52bf4dd6397bcc3873e32767c0f2c8d343ecbf7ed49858d267fb5ed60f",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Baltimore, Maryland.md": {
+    "humanized_at": "2026-09-28T19:45:31Z",
+    "sha256": "422394553193430e9f7b9186a4acf59fc3ecb89d1536dabac088a1ce45e63d8c",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Big Sur, California.md": {
+    "humanized_at": "2026-09-28T19:46:18Z",
+    "sha256": "93039748839115d4fa79477967467072316d043344659533af9bee8306a4facc",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Bole, Ireland.md": {
+    "humanized_at": "2026-09-28T19:47:14Z",
+    "sha256": "4cff1a705dbc7a98636afa48bdb7fa0e99df4c924787855048368baed2f7d755",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Bolivia.md": {
+    "humanized_at": "2026-09-28T19:47:59Z",
+    "sha256": "9af382ce3288b20cf9d470bb15392d2114a984aec6acabffd60c0f59cfdd6559",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Boulder, Colorado.md": {
+    "humanized_at": "2026-09-28T19:48:47Z",
+    "sha256": "da7ddd71ac754c88b903468885e7bd5d45cb1f0623e589ee513f06deef2c9ddc",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Brownsville, Texas.md": {
+    "humanized_at": "2026-09-28T19:49:17Z",
+    "sha256": "bafb68f915c6451dad76a69f0c8bdfcf1d10f7aebf96695b9738841599f958e9",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Building 200.md": {
+    "humanized_at": "2026-09-28T19:49:52Z",
+    "sha256": "6708f93e15c658cfbc659feac1c40d5e28e0c79e256cdad84b0f7bcd961095e7",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/CIA Headquarters, Langley, Virginia.md": {
+    "humanized_at": "2026-09-28T19:50:42Z",
+    "sha256": "ec04beb530a8abdd3509b78eb87d38b8cfecaed2b7c1ffecd0aca5b555489688",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Camp Polk, Louisiana.md": {
+    "humanized_at": "2026-09-28T19:51:30Z",
+    "sha256": "fe553b42908f1b52717875da73be54ba9c19409529541669f1f2ae020ac6fd9a",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Campeche, Mexico.md": {
+    "humanized_at": "2026-09-28T19:52:22Z",
+    "sha256": "7095ff7841d97c3ce9a4893e882df3824ce7d396c7d372c869703e063ccb9933",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Cape Race, Newfoundland.md": {
+    "humanized_at": "2026-09-28T19:53:13Z",
+    "sha256": "98ada7d4bbd8678f876f8d5c96bb8471412d05f1e841b596a74a1f5ed63b29ee",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Carswell Air Force Base.md": {
+    "humanized_at": "2026-09-28T19:54:09Z",
+    "sha256": "bccda5fec5014498421615f64e8c40c3cb50ed2b49b7948ae145a4f74e04745c",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Cedar Hill, New Mexico.md": {
+    "humanized_at": "2026-09-28T19:54:58Z",
+    "sha256": "9aedac38f8b6da81501a13bb2c5ffc0eb80853e488a82461c64fd6ae6f516a8c",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Cherry Point, North Carolina Marine Corps Air Station.md": {
+    "humanized_at": "2026-09-28T19:55:39Z",
+    "sha256": "b9b8ce28c2f1c04f35d75ad295ae72871ec12024126539ed1243ade71a708b00",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Cheyenne Mountain Complex.md": {
+    "humanized_at": "2026-09-28T19:56:33Z",
+    "sha256": "22cae051316553033159e73be8b33f458d8420deea8f9ab8158f293e72078657",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/China Lake Naval Air Weapons Station.md": {
+    "humanized_at": "2026-09-28T19:57:45Z",
+    "sha256": "ee86c19ab5d46668f4bc3692da128f482f556ae6804345bfd295b402b4521961",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Cincinnati, Ohio.md": {
+    "humanized_at": "2026-09-28T19:58:51Z",
+    "sha256": "8ffd66a46bf0a033450e20e5a3501e7864ba40462dda4a62cd4aacd2b7269825",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Corpus Christi, Texas.md": {
+    "humanized_at": "2026-09-28T19:59:32Z",
+    "sha256": "77e2b7e7fc025a5f330b1737833a87b8883e1019327bbad2704f30f7f7ec2b9a",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Coyame, Chihuahua, Mexico.md": {
+    "humanized_at": "2026-09-28T20:00:20Z",
+    "sha256": "3ade3b71d1162ee1a8b038d01dc27103a60e72930e266e469b37fa66850aa43a",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Crane, Indiana.md": {
+    "humanized_at": "2026-09-28T20:01:38Z",
+    "sha256": "8233ea99084f00b9cdd638bd83ce0327c33f5227a2c05dc326edf99b94d980fd",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Crash Site, Northern Peru.md": {
+    "humanized_at": "2026-09-28T20:02:42Z",
+    "sha256": "1979394b27a99aeebcf8e6a9e7e46bbb3cc2b8df1a180f620b00c1aa8dd3fac3",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Croton Falls Reservoir, New York.md": {
+    "humanized_at": "2026-09-28T20:03:30Z",
+    "sha256": "400b8d3d4ea122e322296ff1801da34ce88038a16ca99ec235cae78587911ef7",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Crystal City, Virginia.md": {
+    "humanized_at": "2026-09-28T20:04:15Z",
+    "sha256": "229381c3cdb9bdb0ef70f03a33565708d3972997a54fd759aaf9abd05b9e9725",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Cuba, New Mexico.md": {
+    "humanized_at": "2026-09-28T20:04:58Z",
+    "sha256": "a87b2d24c14dfdd80f93e8ce99cadf60b93d2761f2c5bbe56f6670cd5ea62f3c",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Deep Underground Command Center (DUCC).md": {
+    "humanized_at": "2026-09-29T18:43:31Z",
+    "sha256": "8acb89383f39ba78e325d0f19959c33bc5d668fe2b9e23c4134e8ab6a0bf21bd",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Del Rio, Texas.md": {
+    "humanized_at": "2026-09-28T20:06:50Z",
+    "sha256": "e88430f83f20f294037678915d1f548d67a3cb7d4046d095b075f22f85a8ea71",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Denver, Colorado.md": {
+    "humanized_at": "2026-09-28T20:07:57Z",
+    "sha256": "0d3b0feceba9426d3aef9b9e07ea0d943c78af2c1c31ab3ca2a2ab306db63f1a",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Detroit, Michigan.md": {
+    "humanized_at": "2026-09-28T20:09:10Z",
+    "sha256": "1e0cf1814a0d0789aeb5c926af969658ace79b72b81903c37ba976475b956b43",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Ditto Technical Center.md": {
+    "humanized_at": "2026-09-28T20:09:33Z",
+    "sha256": "e2a559b4609da2704780134e1c752fa6b860976ca2db1287e00becdc9914fa40",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Dugway Proving Ground.md": {
+    "humanized_at": "2026-09-28T20:13:09Z",
+    "sha256": "9e0ae04fb24ea967aadea70381112524f37887c95940d1e2f5e0c32c9a73f79b",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Durango, Colorado.md": {
+    "humanized_at": "2026-09-28T20:14:13Z",
+    "sha256": "2c91db5fea2d426cec67e6b4ddcb81658e9369515fa9fde68f036ebfad277d99",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Edwards Air Force Base.md": {
+    "humanized_at": "2026-09-29T18:43:31Z",
+    "sha256": "56481b926aec9239f3751f6be8f631fcae8258045b352875ed4fdacf48302e57",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/El Escorial, Madrid, Spain.md": {
+    "humanized_at": "2026-09-28T20:16:35Z",
+    "sha256": "26e2505fb5dae2033b65d1ee9b52870eced46c5a69899f99a5d1b20fd8343222",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/El Indio, Texas.md": {
+    "humanized_at": "2026-09-29T18:43:32Z",
+    "sha256": "33f25ab7133b99507dd73d4287811d02a4bd84e6d8a40a5cfa1d021972a7cf96",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/El Segundo, California.md": {
+    "humanized_at": "2026-09-28T20:18:47Z",
+    "sha256": "23591b2fcfc185769be409c92053422f8271612adcdda78b6fe162e2e3809edc",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Emerson Dry Lake.md": {
+    "humanized_at": "2026-09-28T20:19:36Z",
+    "sha256": "41e2cdd00aadffd52cdb26a4c27ec63445ebe4bb47811d8cf44bc64dfcac131a",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Ent Air Force Base, Colorado.md": {
+    "humanized_at": "2026-09-28T20:20:34Z",
+    "sha256": "1f3482a4f7d5843840766b0971ef0e3aa67cea153c29efe532d965d98b434e77",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Fallon, Nevada.md": {
+    "humanized_at": "2026-09-28T20:21:21Z",
+    "sha256": "d27ff3662aee4c9d0b609f9f81b2189b4535ce77298843229db835d2753673eb",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Fargo, North Dakota, USA.md": {
+    "humanized_at": "2026-09-28T20:22:20Z",
+    "sha256": "79d2b7cd3dd7109a87bc9b2005299b5d591ee4714bd69f66d3e362abec0118f3",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Fort Bliss.md": {
+    "humanized_at": "2026-09-28T20:23:14Z",
+    "sha256": "288ff298c5689f0a9eb9794f43f9505bd24031c295482f68f854104c1c5ef5ce",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Fort Hood.md": {
+    "humanized_at": "2026-09-29T18:43:31Z",
+    "sha256": "b9c702e4a04ed7e44d98626b9b5b3b9818e3a84f0621186546ecb6e878d313cd",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Fort Huachuca.md": {
+    "humanized_at": "2026-09-28T20:24:56Z",
+    "sha256": "8280e6ecfd2370fad161324a4888773fe16923eadb83d0c7b9bbc4e92a15d52f",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Fort Riley, Kansas.md": {
+    "humanized_at": "2026-09-28T20:25:49Z",
+    "sha256": "77763c19da872a30bcf82be0740f281082e210a3b477457e5b4140503fbe7180",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Fort Worth, Texas.md": {
+    "humanized_at": "2026-09-28T20:26:38Z",
+    "sha256": "6c231c71c9e96cd990fc1f9d3d286c51167dbe0572d4b4da4eafed210ea48b38",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Foster Ranch.md": {
+    "humanized_at": "2026-09-28T20:27:17Z",
+    "sha256": "82d8daa15c07501e0e00ff362101e4f68b2f31caeae8f477f51c479c5447e2a6",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Frasier Island, Australia.md": {
+    "humanized_at": "2026-09-28T20:28:19Z",
+    "sha256": "26ca5f9a956388f1b5934336be230fe70e44f351f5937e9c19ba63f3eb275e61",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Frenchman's Flat, Nevada.md": {
+    "humanized_at": "2026-09-28T20:29:08Z",
+    "sha256": "187bdc952bcf9a07c2abb71955ef1a8c86fb2be29c5467589593f4aa788c2aa3",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Goddard Space Flight Center.md": {
+    "humanized_at": "2026-09-28T20:30:00Z",
+    "sha256": "b5b1253112c355040d4ba4034cf6bbc002d1826bc20725035a2398d364e47478",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Granite Peak, Dugway.md": {
+    "humanized_at": "2026-09-28T20:31:04Z",
+    "sha256": "dd963d1c97455eb686662b93b2a90f95303cec6488bbdd9948a944d415dae5ff",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Green Bay, Wisconsin.md": {
+    "humanized_at": "2026-09-28T20:31:46Z",
+    "sha256": "9e1a4fdd3bcc2a482eb7cb00ba07919f5f006da83ef7c15178af6b54e2bedcb3",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Greensburg, Pennsylvania.md": {
+    "humanized_at": "2026-09-28T20:32:39Z",
+    "sha256": "397513481f59bf875509727fad5ad4115b043d62b262646f0b2dc031ca367e5c",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Guerrero, Mexico.md": {
+    "humanized_at": "2026-09-28T20:33:27Z",
+    "sha256": "ae9bd1ba54147b1b4538e588bd5c4764e7095be23a1df6c18d2d65c86dd02772",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Gulf of Guinea, Africa.md": {
+    "humanized_at": "2026-09-28T20:34:26Z",
+    "sha256": "d5e1b88f60c0cace3c4d64fddb173bf0f84cf9271212d0c50be5d948c4093591",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Hagerstown, Maryland.md": {
+    "humanized_at": "2026-09-28T20:35:18Z",
+    "sha256": "7f889feaa2a4cf12fa500452a7f650648592d091a6437baf7e1a42141ecfea42",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Hangar 6.md": {
+    "humanized_at": "2026-09-28T20:36:09Z",
+    "sha256": "b131743396de80ad534220facd9b9ec41c23c0641fe57a8d4e8faead4987024d",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Hangar 84.md": {
+    "humanized_at": "2026-09-28T20:36:45Z",
+    "sha256": "103ac625b4662b8eb8e2b566d7146e7805a536b50a3fc38443ecc294238060c5",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Hanscom Air Force Base, Massachusetts.md": {
+    "humanized_at": "2026-09-28T20:37:50Z",
+    "sha256": "6acbf3ef1d43df6d129c875296816010571f3684bfd9abadaed76256788feda3",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Hector Airport.md": {
+    "humanized_at": "2026-09-28T20:38:45Z",
+    "sha256": "dc9de13c21d602d1fd5b7aa13d2f8b13842015ff2f61a95be85182cf18dfba15",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Helendale.md": {
+    "humanized_at": "2026-09-28T20:39:31Z",
+    "sha256": "b5366dd77511b4b8700a0e84282cf08c3b2d1cfd1a7088828a49e493703326fe",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Hill Air Force Base.md": {
+    "humanized_at": "2026-09-28T20:40:12Z",
+    "sha256": "9ae981fe4cb434aa9b2d12374da1b2888b71878d6bd36baa0b1b3a6bcf28b5b7",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Hoia Baciu Forest, Romania.md": {
+    "humanized_at": "2026-09-28T20:41:00Z",
+    "sha256": "15f5a52d924ab41016dd55130efb761a7d81a3164dbdb1db0162f049b393dfd4",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Howard Air Force Base, Panama.md": {
+    "humanized_at": "2026-09-28T20:42:00Z",
+    "sha256": "a30606f3b45fe9412613cfc4d0e4abee7de3981bdf0985ed9cec18509db318e2",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Indian Springs Air Force Base.md": {
+    "humanized_at": "2026-09-28T20:42:43Z",
+    "sha256": "8bd0e73bbcd33dc8ac4323dd0ea784fb94e8d5a5d24b6b01b843d3cb04f06522",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Indonesia.md": {
+    "humanized_at": "2026-09-28T20:43:46Z",
+    "sha256": "23662dd00b75241aff4f90d40cad9f2b61f388f3088ce44cf2f8d45f5069c154",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Iquitos, Peru.md": {
+    "humanized_at": "2026-09-28T20:44:23Z",
+    "sha256": "9909e3aa43f2fd2bdad7851b61a8d5f67b64a30de87f05bd9f0d1c38f84cf3ca",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Johannesburg, South Africa.md": {
+    "humanized_at": "2026-09-28T20:44:59Z",
+    "sha256": "fe78c933fbd37e9028decf2e5633b644627dee9c30e2e1631b0f41d604d84514",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Johnson Space Center.md": {
+    "humanized_at": "2026-09-28T20:45:39Z",
+    "sha256": "3e7da6700893540b3c68f58b6c155a0f79b721f7e5237de9c7d7db94b786c3ea",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Jungle Crash Site (unspecified).md": {
+    "humanized_at": "2026-09-28T20:46:13Z",
+    "sha256": "61a0a285dadc9cdc3d04c011eadc04d5deceecd7e2bf853691bbb6e6e9fee039",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Kamchatka Peninsula.md": {
+    "humanized_at": "2026-09-28T20:46:51Z",
+    "sha256": "2d9d49865dfe6fe151662159aaf9e15b8d4702e4f5a0407c31f9acfb08b62aaf",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Kecksburg, Pennsylvania.md": {
+    "humanized_at": "2026-09-28T20:47:40Z",
+    "sha256": "daefad4f583735ebd5652852c5cee7e1a8d9ade3ac5c3304f725940f992bd11d",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Kingman, Arizona.md": {
+    "humanized_at": "2026-09-28T20:48:16Z",
+    "sha256": "c71145a3bfef61e0956540286c8cdf87fd62b09544d6356ab2f7559c67c0cc8c",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Kirby, England.md": {
+    "humanized_at": "2026-09-28T20:49:10Z",
+    "sha256": "affc5037c69f7c1ab667a4e131b90390eac4b20489724013d868f1e8368a2f61",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Kirtland Air Force Base, New Mexico.md": {
+    "humanized_at": "2026-09-28T20:50:10Z",
+    "sha256": "b168a9a1e81787fb9ccae4c714fa339e48f59462dbd1f29016ff66bbe075eef5",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Kville, Utah.md": {
+    "humanized_at": "2026-09-28T20:50:44Z",
+    "sha256": "77d2157cc2a839aac6c38f69beb8d5a5493247cdf18f8b952b289dcbf31ea303",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/La Jolla, California.md": {
+    "humanized_at": "2026-09-28T20:51:44Z",
+    "sha256": "e519df7232bd3e2de1a00f150475596321dece4e96c5e3315b7aeb26baf829ac",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/La Joya Airbase, Arequipa, Peru.md": {
+    "humanized_at": "2026-09-28T20:52:25Z",
+    "sha256": "34b5728a6db8de78550c9db63fea8668da08191a91b00969588a3dabfa165df2",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Lancaster, New Hampshire.md": {
+    "humanized_at": "2026-09-28T20:53:12Z",
+    "sha256": "e5b986db8cac17ca5441a6509d5b04ed7ad3164ada2e0111bf57775feb366ec7",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Langley Air Force Base.md": {
+    "humanized_at": "2026-09-28T20:53:58Z",
+    "sha256": "036027522b1962b52bd38adbd29cd8da495977c4d8dd991ec23497938e2ca0eb",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Langley, Virginia.md": {
+    "humanized_at": "2026-09-28T20:54:55Z",
+    "sha256": "0e19f7a2fb13cfd1b05b3aa04cb5448b648cb8b3978b3660b1448b3b78af380c",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Langtry, Texas.md": {
+    "humanized_at": "2026-09-28T20:55:35Z",
+    "sha256": "29e566ba2605a890221796d2bd666957911e4e6b5f2faff6db3277348dbf5df3",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Las Palmas, Spain.md": {
+    "humanized_at": "2026-09-28T20:56:01Z",
+    "sha256": "abbaebbfca62b6cb7862155cb8d95ac2069d73922921c806cc9bae185bacf9e5",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Lima, Peru.md": {
+    "humanized_at": "2026-09-28T20:56:41Z",
+    "sha256": "6742d83efbde2c3e60d4533f3b712c0fb0987e7bb35be64ce1a35ec648079842",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Lockbourne Air Force Base, Columbus, Ohio.md": {
+    "humanized_at": "2026-09-28T20:57:41Z",
+    "sha256": "4a32228f3970eec31316d83cdb100a4f3f012c3c5ed6d369d48232fef61ada24",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Long Beach, California.md": {
+    "humanized_at": "2026-09-28T20:58:43Z",
+    "sha256": "632eb056e4868b29a4698db21cda021a9c05024ef504ac38c178a0822045ece1",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Los Angeles, California.md": {
+    "humanized_at": "2026-09-28T21:00:01Z",
+    "sha256": "20f8a505cf675c3ea2b7c7c7d6f6b1aea35ec7aea1b6fca3c9f50ca155d73d88",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Los Llanos Airbase, Spain.md": {
+    "humanized_at": "2026-09-28T21:00:27Z",
+    "sha256": "6e7dcf1a09eab5d1d2eb65d3a4a08f9a8a9790ff526959c6f11dd7b2a73109f2",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Lubbock, Texas.md": {
+    "humanized_at": "2026-09-28T21:01:05Z",
+    "sha256": "ebf19b013d81d787148b5480d52963b71f7e43461a6aeebe562f3245dc3efb75",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/MCAS Yuma.md": {
+    "humanized_at": "2026-09-28T21:01:42Z",
+    "sha256": "91d6cf220be6a5681edb2ce97bcff433ef8a49bf241ec3047eafb71852ebc843",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Madison, Wisconsin.md": {
+    "humanized_at": "2026-09-28T21:02:15Z",
+    "sha256": "d3cd3f45d1cdf7bc0c99bc1abb6afeae4edfa21b3ec27bb5fbfa2a470c3b03c6",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Magenta, Italy.md": {
+    "humanized_at": "2026-09-28T21:03:11Z",
+    "sha256": "d06e583e26fed6be2f63d7c2fcf14081b490f6c519e4bdcd91e232942a230ff2",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Malabar Coast, India.md": {
+    "humanized_at": "2026-09-28T21:04:12Z",
+    "sha256": "12d00f328c2ad156b76878f6b928ace3dabbfbc687ddfea7b8b1f5813dfcd4d1",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Mallorca, Spain.md": {
+    "humanized_at": "2026-09-28T21:04:52Z",
+    "sha256": "771abe12fdc3c8222e8c27a1420339d9fc6a2c0ac0140be94d07ecdcff68918a",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Malmstrom Air Force Base.md": {
+    "humanized_at": "2026-09-28T21:05:43Z",
+    "sha256": "6f9e4d16849a1cc6a8e30100e914847f2e124be2cbd59cbaa355fc9cbfd9ccc7",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Manises Air Force Base, Spain.md": {
+    "humanized_at": "2026-09-28T21:06:14Z",
+    "sha256": "c393789dd001eca782004c3bead34c6f469e53a2764a999557397976adecb89a",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Manises Airport, Valencia, Spain.md": {
+    "humanized_at": "2026-09-28T21:07:06Z",
+    "sha256": "bee39fdfbf49f60ac90be68274dce80fa68875e0ae0597f4abd4642f0448ab2d",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Marine Corps Air Ground Combat Center 29 Palms.md": {
+    "humanized_at": "2026-09-28T21:07:42Z",
+    "sha256": "5c46f63a7b4a16fca4a5fa3f0fc7ae6e0a6b757ee0f54d44c835c978f7c9afc3",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Maury Island, Washington.md": {
+    "humanized_at": "2026-09-28T21:08:16Z",
+    "sha256": "067c5d3f5099d51dbf4d3aa5769b2d80e77da943b354b5d4c6e683f3e322ab6f",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/McLean, Virginia.md": {
+    "humanized_at": "2026-09-28T21:08:58Z",
+    "sha256": "0ce014d046dfb7557ba51df74a3752719f74ceb885c48b74f3473025d14e4a41",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/McMinnville, Oregon.md": {
+    "humanized_at": "2026-09-28T21:09:45Z",
+    "sha256": "779656de50a4179cf58ead8620375fc0eede3b280fa3b5e5b27d866b06640c78",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Michael Army Airfield.md": {
+    "humanized_at": "2026-09-28T21:10:29Z",
+    "sha256": "24e6c389ed204cac1b28fb418619d4ae1c3b0535955193dc7ae2e284e2abb791",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Milan, Italy.md": {
+    "humanized_at": "2026-09-28T21:11:20Z",
+    "sha256": "04addae4e650d9419afbd2299c9f12dabe29f8867ebc246d6778a2cc00daf42f",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Minot Air Force Base, North Dakota.md": {
+    "humanized_at": "2026-09-28T21:12:15Z",
+    "sha256": "d87fdc63e09d2e22208978c19cf095752acc40e1e3f771d139534fbf06386d7e",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Mojave Desert, California.md": {
+    "humanized_at": "2026-09-28T21:13:15Z",
+    "sha256": "b1bf9ea2bd9a4bc73b3e3f44ed36ac74ffd031c7bf4a9d3a307b0dee9d258a27",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Mount Soratte.md": {
+    "humanized_at": "2026-09-28T21:14:03Z",
+    "sha256": "639df14f22e33e3f63c429a09481fa39fb1c5bd2a2ecf842c33d5c6d35150824",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Murrysville, Pennsylvania.md": {
+    "humanized_at": "2026-09-29T18:43:32Z",
+    "sha256": "a8b8fd8ac13f7ea09ed34063dfc4a84e7db4181c71bd83e009f6db9c794828ba",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/NAMRU South, Lima, Peru.md": {
+    "humanized_at": "2026-09-28T21:15:39Z",
+    "sha256": "3254f03f7727001fa2c326a0b6686ceca3a8902ec49411bc401418fc048b6a8f",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Naval Air Station Patuxent River.md": {
+    "humanized_at": "2026-09-28T21:16:49Z",
+    "sha256": "741a3a71a0aa07219fe463ccfe8cf9b302782d180fffa941c711ea69d8e9eac1",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Nazca Desert, Peru.md": {
+    "humanized_at": "2026-09-28T21:17:49Z",
+    "sha256": "85f639292a89b7108c68931065729498554232881c1507a540f080ded527a6d9",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Nellis Air Force Base.md": {
+    "humanized_at": "2026-09-28T21:18:47Z",
+    "sha256": "ac04a9ee7b2794d50626f3e016de581454eda0e290b6e499037138ce712ca4ac",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Nevada National Security Site (Nevada Test Site).md": {
+    "humanized_at": "2026-09-28T21:19:51Z",
+    "sha256": "c172abc0f9e8dc6a1d24656975484eb0809b3be44a5d841edf954575838e5d59",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Nevada Test and Training Range (NTR).md": {
+    "humanized_at": "2026-09-28T21:20:47Z",
+    "sha256": "5bc42422e90438aa433a59727a3d2a6cb2360bc0173e309403c8db8a222eebce",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Norton Air Force Base.md": {
+    "humanized_at": "2026-09-28T21:21:39Z",
+    "sha256": "b9f161c05aba7fd762a9f22c829ea38b2257941f330a1b9cd441c0be84ac4ba4",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Nuremberg, Holy Roman Empire.md": {
+    "humanized_at": "2026-09-28T21:22:33Z",
+    "sha256": "8e65c4c2d50934a1bf42b8359d0738c057ae5b9139450d365ec1cc5cd7263198",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Oak Ridge, Tennessee.md": {
+    "humanized_at": "2026-09-28T21:23:39Z",
+    "sha256": "0fb99b0c6cfe46c3fd747313d715b4b30a2b2203c6bce90258486e799d4f3de1",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Palm Springs, California.md": {
+    "humanized_at": "2026-09-28T21:24:42Z",
+    "sha256": "b97be383f0c80d935eba2a2e258ff39e7cdb87da9698cf20f57edc08d8343602",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Palmdale, California.md": {
+    "humanized_at": "2026-09-28T21:25:43Z",
+    "sha256": "ed93fec4f0170a61a4f7b5f012259e2f88ca2305cd7e6430aeab659050672b94",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Papoose Lake.md": {
+    "humanized_at": "2026-09-28T21:26:30Z",
+    "sha256": "4738b016b117b25d1e2fe1ed60dc0f0b806122f3fa52d356aeab72d36c2be976",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Pentagon.md": {
+    "humanized_at": "2026-09-28T21:27:38Z",
+    "sha256": "4950b6d41b18ed8bd9639504e578dc0a5205ddef12eae96ffd09116157e29ea0",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Phoenix, Arizona.md": {
+    "humanized_at": "2026-09-28T21:28:55Z",
+    "sha256": "31d6aef55b10ab391748a2f406ce67819619a8476690bf01f252b489f2033163",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Pine Gap, Australia.md": {
+    "humanized_at": "2026-09-28T21:30:12Z",
+    "sha256": "a1273c5608e08fe5f62ddf8ddbf74c74ca095b359e106d7853aaee7b254cb294",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Pittsburgh, Pennsylvania.md": {
+    "humanized_at": "2026-09-28T21:31:03Z",
+    "sha256": "4b4753380c9210230fa154ed1b8a4d3da263db2652ce35824f1748e2a27835ab",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Pori Airport.md": {
+    "humanized_at": "2026-09-28T21:31:53Z",
+    "sha256": "e488cabbaf0207fd6190be56025962a5911834f53f447bad2aa4292aa5c7af90",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Port Augusta, South Australia.md": {
+    "humanized_at": "2026-09-28T21:32:28Z",
+    "sha256": "35b824a90db50b393bb91de884572d5a3d80bb61116a5e58295ea07390fe9fa4",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Pucallpa.md": {
+    "humanized_at": "2026-09-28T21:33:05Z",
+    "sha256": "f6dd24bd57b20d857dad5045a248daf13c953a6b27c2f761f38ed0c0914648db",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/R2508 Complex.md": {
+    "humanized_at": "2026-09-28T21:33:55Z",
+    "sha256": "a188e7dfb5227bb543984eed6776e84f8830e121bb23fb626897831303a620a5",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Raven Rock Complex (Site R).md": {
+    "humanized_at": "2026-09-28T21:34:56Z",
+    "sha256": "26082b388b4686e20ab4cea0de2071db34d418906e376898b122acaa17fd4b86",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Roswell Army Airfield.md": {
+    "humanized_at": "2026-09-28T21:35:45Z",
+    "sha256": "0633528c92130b4a8b589809767749253fd377cdf9c948787065730907b35b80",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Roswell, New Mexico.md": {
+    "humanized_at": "2026-09-29T18:43:32Z",
+    "sha256": "e1a2f8ca84fa399847381cad05d5a573a65b5cf11630ec75323e0a8a99bda2ec",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Sagunto, Spain.md": {
+    "humanized_at": "2026-09-28T21:37:35Z",
+    "sha256": "85a60cdffe2cc91bae9fc32a3b2f100361dad1304a363c4562c9fa43584aa305",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Salt Lake City, Utah.md": {
+    "humanized_at": "2026-09-28T21:38:16Z",
+    "sha256": "760b981363d9847f0c754b5eb4d1271697fd469c2cbae0546782a784bbb54eca",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Salzburg, Austria.md": {
+    "humanized_at": "2026-09-28T21:39:25Z",
+    "sha256": "5019a18b03eddd3ba9dc39b2e6b35b53aa83f9227a888c0c153e3558442079fe",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/San Augustine, New Mexico.md": {
+    "humanized_at": "2026-09-28T21:40:20Z",
+    "sha256": "d474d3e850cbe6d3f53d9f06c51bf568acd88bd8726e1dc17912001bca57a79e",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/San Diego, California, USA.md": {
+    "humanized_at": "2026-09-28T21:41:30Z",
+    "sha256": "7f98a7368e6fb591547957fc861e59e472bb667385a509e67f19527d4454c33a",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/San Francisco, California.md": {
+    "humanized_at": "2026-09-28T21:42:27Z",
+    "sha256": "c94f26ef30431da778525a3e994450105601a78ccc54905b9ad0c9ee18b44066",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Scott Air Force Base, Illinois.md": {
+    "humanized_at": "2026-09-28T21:43:19Z",
+    "sha256": "a69f9eab4a099f926a7321c54f9950ba8c26520144c77813e91e24d201c280a0",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Shag Harbour, Canada.md": {
+    "humanized_at": "2026-09-28T21:44:13Z",
+    "sha256": "2b4241d203ea21b35b225feae678635943f2eeb2a35a5f92d828a19466f4c00e",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Shag Harbour, Nova Scotia.md": {
+    "humanized_at": "2026-09-28T21:45:11Z",
+    "sha256": "a27872db674bca5a92e7fd6c1522c4a6258d270b456c1b5f355432c71a1dc649",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Shelburne Harbor, Nova Scotia.md": {
+    "humanized_at": "2026-09-28T21:46:00Z",
+    "sha256": "79972f8623d26f63bf0c961a28f97e273ba1852ba4d3292a87d5425aab494b06",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Spitsbergen, Norway.md": {
+    "humanized_at": "2026-09-28T21:46:52Z",
+    "sha256": "cb511374ec9eacf8d1d9e3067d867b4fb6e221a9375b399254b17c2abac16c63",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/St. Clair, Southern Illinois.md": {
+    "humanized_at": "2026-09-28T21:47:27Z",
+    "sha256": "13819bac5d029b3a080c442ecde591ac7c2c4da657b3c9a680ae50d0cc7a8d2c",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Sugar Grove Naval Communication Center, West Virginia.md": {
+    "humanized_at": "2026-09-28T21:48:09Z",
+    "sha256": "82fdd14fc784504aad6320b3383b54409e2e5db2c5e79a5448cdb71207210ae8",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Sumatra, Indonesia.md": {
+    "humanized_at": "2026-09-28T21:49:05Z",
+    "sha256": "f55a6408f3448c26fc1f204c278b39466d5552a44160711a8fea7586380930ec",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Tehachapi, California.md": {
+    "humanized_at": "2026-09-28T21:50:01Z",
+    "sha256": "576c9fbaa94320fcf01e309e620023531f7d717f30c081554904bcc7f0f9325a",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Tehran, Iran.md": {
+    "humanized_at": "2026-09-28T21:50:51Z",
+    "sha256": "b4d3b2d2b6ce4ed5f94c6cf90412aedb97cac91c953151d4a130c7849c82b3bb",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Tejon Ranch.md": {
+    "humanized_at": "2026-09-28T21:51:42Z",
+    "sha256": "164a501337afbf778946a669b9703054d938277dfad47f7e570ca9a4e6635c98",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Tonopah Test Range (TTR).md": {
+    "humanized_at": "2026-09-29T18:43:32Z",
+    "sha256": "46cfdd9393a6772f41f3ed2c423dd1c35fb093c4d52e890395f71b5a6e740bc3",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Tooele County, Utah.md": {
+    "humanized_at": "2026-09-28T21:54:12Z",
+    "sha256": "7f3c042da24705501130d12259de7aa70edadf43e0930cf1c38ab5886b9617a4",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/UCLA (University of California, Los Angeles).md": {
+    "humanized_at": "2026-09-28T21:54:53Z",
+    "sha256": "f33e0805d153d3cbc67ecb6a923f52394f6766d4ef58950e8193a4f32aa80333",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/USAF Radar Detachment 5, Iquitos.md": {
+    "humanized_at": "2026-09-28T21:55:42Z",
+    "sha256": "0981daef946df771a30775b54112ff589579740a2849693584c62d2b88f5ce54",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/USS Denver.md": {
+    "humanized_at": "2026-09-28T21:56:16Z",
+    "sha256": "3a9ad406a670910b77dc97e92b2254d928499dffd6613edc2e3826b2d2287953",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/USS Omaha.md": {
+    "humanized_at": "2026-09-28T21:56:56Z",
+    "sha256": "68780ccb381f5be1b3615ced81cb809d9f2edb08bcd5da88867753bda322c016",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Underground Facility at NSWC Crane.md": {
+    "humanized_at": "2026-09-28T21:58:08Z",
+    "sha256": "4fbab1e0815c2bf9e4276d5d28b9f9fffa5e9979b08f566a605a455aee2232c5",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/University of Dade City, Florida.md": {
+    "humanized_at": "2026-09-28T21:58:59Z",
+    "sha256": "0c658ecf42aebcd66974386aa3836041ec65a5c0c3e1a671dea942a5423d4932",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Utah Test and Training Range.md": {
+    "humanized_at": "2026-09-28T21:59:48Z",
+    "sha256": "fd0901fbf61974f23db627c376a32da5b3f72582d9bb0137383eaccd2fffd31b",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Vaasa, Finland.md": {
+    "humanized_at": "2026-09-28T22:00:25Z",
+    "sha256": "5bbb312cb0365e71c0f5fe4213aec58282645f40f94709b81161d694af15e33b",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Valentine, Texas.md": {
+    "humanized_at": "2026-09-28T22:01:01Z",
+    "sha256": "faab3e3d12cae76d01bcff41fd503b6222a67d0167de1f89b6eb9c03bd5f3d80",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Vandenberg Air Force Base.md": {
+    "humanized_at": "2026-09-28T22:01:48Z",
+    "sha256": "4f77bb06119230e144289396b3e75c4d19142fee0a2b508d45c84645e7d3212c",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Varese, Italy.md": {
+    "humanized_at": "2026-09-28T22:02:23Z",
+    "sha256": "197b3d0f5b6d3f2883c332ee5e1a77b6116920f63df064ea38423b004405dca7",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Varginha, Brazil.md": {
+    "humanized_at": "2026-09-28T22:03:20Z",
+    "sha256": "f485ad1668bee2de182ce446e51a32ea27974f0e8c436e3dd4ce96e162f67716",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Warrenton, Virginia.md": {
+    "humanized_at": "2026-09-28T22:04:03Z",
+    "sha256": "d17583aff8bfbfa0e0e19b60ad084f8ee7b934caa0b39a60296d98d94345087b",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/White Sands Missile Range.md": {
+    "humanized_at": "2026-09-28T22:04:54Z",
+    "sha256": "7024fc767cb884694cc04ed39ed64a0eb769eba99117880252fb3a232bd29097",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Wright Field.md": {
+    "humanized_at": "2026-09-28T22:05:54Z",
+    "sha256": "837c58f9238333b303642db8e34b32d6e40cceec1ecb29d3d57720f14c7bcd7f",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Wright-Patterson Air Force Base.md": {
+    "humanized_at": "2026-09-28T22:07:05Z",
+    "sha256": "99abb0f5dfb7762312c0a5b5651e7bef782e62dea372d881e5e260f89085b979",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Operations/AATIP (Advanced Aerospace Threat Identification Program).md": {
     "humanized_at": "2026-09-27T01:20:58Z",
     "sha256": "e50b9c887daa712e7244e01319f868e0d9465f25fa70ff9f8d2eaad27dfe414d",

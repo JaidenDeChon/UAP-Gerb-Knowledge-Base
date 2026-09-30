@@ -6,15 +6,15 @@ tags:
   - location
 ---
 
-Iquitos is the capital of Peru's Loreto Region and the largest city of the Peruvian Amazon, on the Amazon River near the borders with Colombia and Brazil. It has no road connection to the rest of Peru and is reached by air or river. In the 1990s it hosted several US military and government installations, and UAP Gerb places it at the centre of the 1997 [[Peru UFO Crash Incident]] described by Marine Lance Corporal [[Jonathan Weygandt]]. Transcripts of the channel's videos sometimes render the name "Ikitos" or "Aikitos".
+Iquitos is the capital of Peru's Loreto Region and the largest city of the Peruvian Amazon, on the Amazon River near the borders with Colombia and Brazil. It has no road connection to the rest of Peru and is reached by air or river. In the 1990s it hosted several US military and government installations, and Gerb places it at the centre of the 1997 [[Peru UFO Crash Incident]] described by Marine Lance Corporal [[Jonathan Weygandt]]. Transcripts of the channel's videos sometimes render the name "Ikitos" or "Aikitos".
 
 ## US presence in the 1990s
 
 Three US installations at Iquitos figure in Gerb's reconstruction:
 
-- **[[USAF Radar Detachment 5, Iquitos]]**, an Air Force radar site and one of the three [[Operation Laser Strike]] locations, alongside [[Pucallpa]] and Andoas. Gerb proposes it as Weygandt's base.
-- **The [[MARFORLANT Riverine Training Team]]**, placed at Iquitos by US Southern Command for Laser Strike, where US special forces trained with Peruvian forces.
-- **[[NAMRU South, Lima, Peru|NAMRU South]]** (formerly NAMRU-6), the Navy medical research unit with offices in Lima and Iquitos, which Gerb suggests as the place Weygandt was held and quarantined.
+- [[USAF Radar Detachment 5, Iquitos]], an Air Force radar site and one of the three [[Operation Laser Strike]] locations, alongside [[Pucallpa]] and Andoas. Gerb proposes it as Weygandt's base.
+- The [[MARFORLANT Riverine Training Team]], placed at Iquitos by US Southern Command for Laser Strike, where US special forces trained with Peruvian forces.
+- [[NAMRU South, Lima, Peru|NAMRU South]] (formerly NAMRU-6), the Navy medical research unit with offices in Lima and Iquitos, which Gerb suggests as the place Weygandt was held and quarantined.
 
 ## Role in the crash reconstruction
 

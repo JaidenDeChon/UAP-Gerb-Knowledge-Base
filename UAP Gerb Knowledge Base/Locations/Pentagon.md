@@ -10,20 +10,20 @@ The Pentagon is the headquarters of the United States Department of Defense, loc
 
 ## Underground Facilities and the DUCC
 
-In addition to its well-known surface structure, the Pentagon is alleged to sit above deep underground facilities of national security significance. An acknowledged underground National Military Command Center (NMCC) exists below the Pentagon, responsible for generating emergency action messages to nuclear forces.
+Besides the building above ground, the Pentagon is alleged to sit above deep underground facilities that are important to national security. One underground facility below the Pentagon is officially acknowledged: the National Military Command Center (NMCC), which generates emergency action messages to nuclear forces.
 
-A much larger proposed facility — the Deep Underground Command Center (DUCC) — was first proposed in classified documents dated November 7, 1963 (three weeks before the assassination of President Kennedy). Former Secretary of Defense Robert McNamara proposed meetings to discuss the construction of a National Underground Command Center. Declassified documents detail two proposed configurations:
+A much larger facility, the Deep Underground Command Center (DUCC), was first proposed in classified documents dated November 7, 1963, three weeks before the assassination of President Kennedy. Former Secretary of Defense Robert McNamara proposed meetings to discuss building a National Underground Command Center. Declassified documents describe two proposed designs:
 
-1. An austere facility with 10,000 total square feet accommodating 40 people, built 3,500 feet below the surface at a cost of over $110 million (approximately $1.1 billion in 2024 dollars).
-2. A moderate-sized facility with 100,000 total square feet accommodating 300 people at the same 3,500-foot depth, costing $310 million (over $3.2 billion today).
+1. An austere facility of 10,000 square feet in total for 40 people, 3,500 feet below the surface, costing over $110 million (about $1.1 billion in 2024 dollars).
+2. A moderate-sized facility of 100,000 square feet in total for 300 people at the same 3,500-foot depth, costing $310 million (over $3.2 billion today).
 
-On January 16, 1964, a memorandum from Walt Rostow to McGeorge Bundy stated the DUCC concept should proceed, confirming planning continued into the early Johnson administration. The Joint Chiefs proposed even the austere option was too small. A final classified Bureau of the Budget memorandum — over 40% redacted — also addressed the DUCC.
+A memorandum from Walt Rostow to McGeorge Bundy on January 16, 1964, said the DUCC concept should go ahead, which confirms that planning continued into the early Johnson administration. The Joint Chiefs suggested that even the austere option was too small. A final classified memorandum from the Bureau of the Budget, with over 40% of it redacted, also dealt with the DUCC.
 
-Conventional sources assert the DUCC was never built. UAP Gerb strongly disputes this, based on firsthand accounts from multiple sources who have described an enormous subterranean facility below the Pentagon. UAP Gerb believes this facility is run by the [[CIA Directorate of Science and Technology]] — the same CIA office alleged to have blocked a 2008 material transfer from Lockheed Martin to the AAWSAP program connected to the 1953 Kingman crash.
+Conventional sources say the DUCC was never built. Gerb strongly disputes this, citing firsthand accounts from multiple sources who have described an enormous underground facility below the Pentagon. He believes it is run by the [[CIA Directorate of Science and Technology]]. The same CIA office is alleged to have blocked a 2008 material transfer from Lockheed Martin to the AAWSAP program connected to the 1953 Kingman crash.
 
 ## Crystal City Proximity
 
-The Pentagon is situated near Crystal City, a dense commercial and government district in Arlington that houses eight of the top ten US defense contractors (including Northrop Grumman, Lockheed Martin, Boeing, Raytheon, General Dynamics, L3, Aerojet Rocketdyne) within a small neighborhood. Crystal City is also home or adjacent to multiple FFRDCs including RAND, Aerospace Corporation, Center for Naval Analyses, and Institute for Defense Analyses, and multiple DOD research agencies including DARPA and the Office of Naval Research. UAP Gerb hypothesizes that Crystal City, rather than remote desert locations, is where the majority of UAP unacknowledged special access programs are created, maintained, and kept secure — with any underground facility below the Pentagon serving as the physical nexus.
+The Pentagon is near Crystal City, a dense commercial and government district in Arlington. Eight of the top ten US defense contractors are housed within this small neighborhood, including Northrop Grumman, Lockheed Martin, Boeing, Raytheon, General Dynamics, L3 and Aerojet Rocketdyne. Crystal City is also home to, or next to, multiple FFRDCs, among them RAND, Aerospace Corporation, the Center for Naval Analyses and the Institute for Defense Analyses, and multiple DOD research agencies, including DARPA and the Office of Naval Research. Gerb hypothesizes that most UAP unacknowledged special access programs are created, maintained and kept secure in Crystal City rather than at remote desert locations, and that any underground facility below the Pentagon is their physical nexus.
 
 ## Sources
 
