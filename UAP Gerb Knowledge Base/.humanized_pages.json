@@ -289,6 +289,11 @@
     "sha256": "0e10d051ac8e44adc206206b7f56d46e7318b42213bd30e88fe0d47cf44b4242",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/Five UAP Characteristics (AATIP).md": {
+    "humanized_at": "2026-09-30T02:29:51Z",
+    "sha256": "cb0877489c466da33cc0d680df593b7c18eea8f5428c68c2bd64300bb887858a",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Events/1561 Celestial Phenomenon over Nuremberg.md": {
     "humanized_at": "2026-09-27T20:09:57Z",
     "sha256": "c85c07bd50acc648bab990af506a4fd0218a192d4d18a823bb559b8cfd973df9",
