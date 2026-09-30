@@ -4,11 +4,11 @@ tags:
   - concept
 ---
 
-The Bechtel tunneling report is a 1974 study by the American engineering, procurement and construction firm Bechtel, *Research Program Plan for Meeting Tomorrow's Needs in Tunneling and Excavation: Final Report*. It assessed future US demand for tunneling and listed experimental excavation methods then in research and development. UAP Gerb cites it as one of a cluster of early-1970s documents suggesting that large-scale connective tunnels between [[Deep Underground Military Bases (DUMBs)|deep underground military bases]] began around 1974. Bechtel itself has often been named by researchers as one of the corporations responsible for DUMB tunnel systems. (The auto-generated transcript renders the company's name as "Beal", and this page was formerly titled "Beal Report".)
+The Bechtel tunneling report is a 1974 study by the American engineering, procurement and construction firm Bechtel, *Research Program Plan for Meeting Tomorrow's Needs in Tunneling and Excavation: Final Report*. It assessed future US demand for tunneling and listed experimental excavation methods then in research and development. UAP Gerb cites it as one of a cluster of early-1970s documents suggesting that large-scale connective tunnels between [[Deep Underground Military Bases (DUMBs)|deep underground military bases]] began around 1974. Researchers have often named Bechtel itself as one of the corporations responsible for DUMB tunnel systems. (The auto-generated transcript renders the company's name as "Beal", and this page was formerly titled "Beal Report".)
 
 ## Contents
 
-The report states that "the demand for tunneling and underground excavation for national defense needs is believed to be large", giving as examples "hard rock silos, command posts, communication systems, personnel shelters, storage and power generation facilities". It also includes a long list of novel ground-disintegration techniques at the R&D stage in 1972, beyond conventional [[Tunnel Boring Machine (TBM)|tunnel boring machines]].
+The report states that "the demand for tunneling and underground excavation for national defense needs is believed to be large", giving as examples "hard rock silos, command posts, communication systems, personnel shelters, storage and power generation facilities". It also has a long list of new ground-disintegration techniques that were at the R&D stage in 1972, other than conventional [[Tunnel Boring Machine (TBM)|tunnel boring machines]].
 
 ## Place in the Tunneling Timeline
 
