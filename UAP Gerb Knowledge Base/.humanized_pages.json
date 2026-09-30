@@ -164,6 +164,11 @@
     "sha256": "d9b087a1b2fa0faf50309beab227663b1c6ddbf7b3d764383102956f49255f2d",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/Course Correction (Controlled Flight).md": {
+    "humanized_at": "2026-09-30T02:24:33Z",
+    "sha256": "8f33219c2c144de1a1e8e1153c2bd195a33c6d175750959e6985c83be1dbc08c",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Events/1561 Celestial Phenomenon over Nuremberg.md": {
     "humanized_at": "2026-09-27T20:09:57Z",
     "sha256": "c85c07bd50acc648bab990af506a4fd0218a192d4d18a823bb559b8cfd973df9",
