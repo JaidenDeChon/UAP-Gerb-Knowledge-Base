@@ -69,6 +69,11 @@
     "sha256": "0f6da4da42086cb83c483745d97772e94929c0583b3fd6306b3da0e9def815dd",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/Ballistic Missile Early Warning System.md": {
+    "humanized_at": "2026-09-30T02:20:46Z",
+    "sha256": "952597d35fc858f846d7dfc4faf037a52d3602ef2dbcf97e25fb295f3d9a50d3",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Concepts/Ballistic and Fragging Pattern Analysis.md": {
     "humanized_at": "2026-09-30T02:20:46Z",
     "sha256": "3816f3ed7fc7264ac25271f0e1943b7d79d9aa9567c79ba30eaeb03dcbf409d9",
