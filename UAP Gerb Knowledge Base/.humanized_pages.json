@@ -814,6 +814,11 @@
     "sha256": "cd5521f76cdce45421c7360e685033f8ae74b9df85cf12e9ef44d6d5d4a046f4",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/Zero Point Energy.md": {
+    "humanized_at": "2026-09-30T02:46:29Z",
+    "sha256": "0557e108d7ea54887aad48f8860bc73c5648a815b54424d46bcbb7d2679985a6",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Events/1561 Celestial Phenomenon over Nuremberg.md": {
     "humanized_at": "2026-09-27T20:09:57Z",
     "sha256": "c85c07bd50acc648bab990af506a4fd0218a192d4d18a823bb559b8cfd973df9",
