@@ -564,6 +564,11 @@
     "sha256": "65a9df165ac2237c0d8e892791f29699ba0633758af1a46db5fb7d002db918e3",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/Pink Assets.md": {
+    "humanized_at": "2026-09-30T02:38:55Z",
+    "sha256": "418f47b2c57504838bf67bf1bd53fe13c0e8c0b76478ced86b7f2f6895556ff7",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Events/1561 Celestial Phenomenon over Nuremberg.md": {
     "humanized_at": "2026-09-27T20:09:57Z",
     "sha256": "c85c07bd50acc648bab990af506a4fd0218a192d4d18a823bb559b8cfd973df9",
