@@ -449,6 +449,11 @@
     "sha256": "efd59e0b1eeaf67dac9ca2ce41e40dc2da74b03240542b6577b6c7da319f391e",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/Maritime Light Wheel.md": {
+    "humanized_at": "2026-09-30T02:35:02Z",
+    "sha256": "5506465b8d110e32fa2ed12b63128ea2ec937e9b422a38f05043609d501abc56",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Events/1561 Celestial Phenomenon over Nuremberg.md": {
     "humanized_at": "2026-09-27T20:09:57Z",
     "sha256": "c85c07bd50acc648bab990af506a4fd0218a192d4d18a823bb559b8cfd973df9",
