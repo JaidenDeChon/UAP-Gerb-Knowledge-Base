@@ -4,31 +4,31 @@ tags:
   - concept
 ---
 
-The egg-shaped — or ovoid/teardrop-shaped — UAP is a recurring craft morphology described across multiple alleged crash retrieval incidents spanning decades of testimony. Unlike disc or triangular UAP types, egg-shaped craft are most frequently reported in the context of crash and recovery events, often featuring organic-looking construction, anomalous light interaction, and biological occupants.
+The egg-shaped (or ovoid or teardrop-shaped) UAP is a craft shape that recurs in several alleged crash retrieval incidents, in testimony spanning decades. Unlike disc or triangular UAP, egg-shaped craft are reported most often in crash and recovery events. Accounts often describe organic-looking construction, anomalous behavior with light, and biological occupants.
 
 ## Notable Cases
 
 ### 1997 Peru Crash ([[Jonathan Weygandt]])
-The most detailed account describes a massive metallic egg or teardrop measuring approximately 10 meters high and 20 meters long, embedded in a granite cliff face during [[Operation Laser Strike]]. The craft displayed the [[Mother of Pearl Effect]] — a fluctuating purplish-green color like gasoline on water. It absorbed rather than reflected sunlight, cast no shadow, and appeared organic and sculpted rather than machined. Features included gill-like vents, three non-flush hatches, and a sweeping band of light around its circumference. A clear viscous liquid with the consistency of maple syrup leaked from the craft.
+The most detailed account describes a huge metallic egg or teardrop, about 10 meters high and 20 meters long, embedded in a granite cliff face during [[Operation Laser Strike]]. The craft showed the [[Mother of Pearl Effect]], a shifting purplish-green color like gasoline on water. It absorbed sunlight instead of reflecting it and cast no shadow, and it looked organic and sculpted rather than machined. It had gill-like vents, three hatches that did not sit flush, and a band of light that swept around its circumference. A clear, thick liquid with the consistency of maple syrup leaked from it.
 
 ### 1953 Camp Polk Incident ([[1953 Camp Polk UFO Crash Retrieval|HJ]])
-A 17-year-old Army private witnessed an ovoid craft as wide as a three-bedroom house crash-land at [[Camp Polk, Louisiana]]. The craft had no windows or lights and featured a fin-like protrusion on its equator that was still rotating — strikingly similar to Weygandt's circling band of light. Three living occupants and one dead were recovered.
+A 17-year-old Army private saw an ovoid craft as wide as a three-bedroom house crash-land at [[Camp Polk, Louisiana]]. It had no windows or lights. A fin-like protrusion on its equator was still rotating, much like the band of light that circled Weygandt's craft. Three occupants were recovered alive and one dead.
 
 ### 1947 UC Berkeley Sighting ([[Albert Bruce Collins]])
-Collins claimed to observe an oval craft "like an egg with the shell cracked" on a flatbed trailer at the University of California, Berkeley. It featured honeycomb skin construction, a central shiny sphere, and a seam running along its edge. Dimensions were 30–40 feet in diameter.
+Collins claimed he saw an oval craft "like an egg with the shell cracked" on a flatbed trailer at the University of California, Berkeley. It had a honeycomb skin, a shiny sphere at its center and a seam running along its edge, and it measured 30–40 feet in diameter.
 
 ### 1968 Vietnam Crash ([[1968 Vietnam UAP Crash Retrieval]])
-An anonymous whistleblower serving with [[Company E, 52nd Infantry (LRP)]] of the 1st Cavalry Division describes an egg-shaped object appearing overhead emitting a bright red-orange glow before crashing into the Vietnamese jungle along the Cambodia border in late 1968. The craft was dull gray and metallic, appearing to have been formed from a single piece of material with no seams, bolts, or fasteners — a description that closely matches the seamless construction described in multiple other accounts. This crash event led directly to the witness's subsequent induction into the classified crash retrieval program.
+An anonymous whistleblower who served with [[Company E, 52nd Infantry (LRP)]] of the 1st Cavalry Division describes an egg-shaped object that appeared overhead with a bright red-orange glow, then crashed into the Vietnamese jungle along the Cambodia border in late 1968. The craft was dull gray and metallic and seemed to have been formed from a single piece of material, with no seams, bolts or fasteners. Several other accounts describe the same kind of seamless construction. The crash led directly to the witness being brought into the classified crash retrieval program.
 
 ### Area 51 Intact Specimen ([[Eric Taber]])
-Taber's AARO testimony describes his great-uncle — a security contractor at Area 51 — disclosing that an egg-shaped UAP was found intact in the Nevada desert and stored at the base. The egg was found undamaged, consistent with the witness's observation that not all eggs arrive via crash; some appear to have been deliberately placed or "donated."
+In his AARO testimony, Taber says his great-uncle, a security contractor at Area 51, told him that an egg-shaped UAP was found intact in the Nevada desert and stored at the base. That the egg was undamaged fits the witness's observation that not all eggs arrive by crashing: some appear to have been deliberately placed or "donated."
 
 ### Jake Barber Testimony
-[[Jake Barber]] described a smaller SUV-sized smooth white egg recovered in a more recent alleged retrieval, as discussed in the context of [[Psionics]] and consciousness-controlled craft.
+[[Jake Barber]] described a smaller, SUV-sized, smooth white egg recovered in a more recent alleged retrieval. His account comes up in discussions of [[Psionics]] and consciousness-controlled craft.
 
 ## Common Characteristics
 
-Across cases, egg-shaped craft share recurring physical properties:
+Egg-shaped craft in these cases share several physical traits:
 - Metallic but organic-looking surface construction
 - Light-absorbing or anomalous optical properties
 - Rotating bands, fins, or circumferential features
