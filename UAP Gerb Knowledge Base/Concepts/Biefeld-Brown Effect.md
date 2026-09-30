@@ -4,7 +4,7 @@ tags:
   - concept
 ---
 
-The Biefeld-Brown Effect is an electrostatic phenomenon: when a high enough voltage is applied across an asymmetric capacitor assembly, it produces a net thrust toward the positive electrode. The effect is named for the American inventor [[T. Townsend Brown]] and his mentor, the physicist Paul Alfred Biefield, who discovered it and first described it in the 1920s. Brown spent decades trying to turn the effect into a practical propulsion system. His experiments with high-voltage capacitor arrays produced measurable lift and directional movement both in air and in a vacuum.
+The Biefeld-Brown Effect is an electrostatic phenomenon: when a high enough voltage is applied across an asymmetric capacitor assembly, it produces a net thrust toward the positive electrode. The effect is named for the American inventor [[T. Townsend Brown]] and his mentor, the physicist Paul Alfred Biefeld, who discovered it and first described it in the 1920s. Brown spent decades trying to turn the effect into a practical propulsion system. His experiments with high-voltage capacitor arrays produced measurable lift and directional movement both in air and in a vacuum.
 
 ## Relationship to ARV Propulsion
 

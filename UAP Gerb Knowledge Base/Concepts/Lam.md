@@ -8,7 +8,7 @@ Lam is an entity that the British occultist [[Aleister Crowley]] claimed to have
 
 ## Crowley's Account
 
-The Amalantrah Workings were a series of sexual magick rituals that Crowley conducted in New York City in 1917–2018. They were reportedly meant to establish contact with extra-dimensional intelligences. Crowley described Lam as an entity he contacted across space and dimensions during these workings. His pencil portrait was signed and published as the frontispiece to a limited magical publication in the early 1920s. The being in it is effectively indistinguishable in proportions and features from the modern description of a Gray, down to the large cranium, the dark wrap-around eyes and the minimal facial features.
+The Amalantrah Workings were a series of sexual magick rituals that Crowley conducted in New York City in 1917–1918. They were reportedly meant to establish contact with extra-dimensional intelligences. Crowley described Lam as an entity he contacted across space and dimensions during these workings. His pencil portrait was signed and published as the frontispiece to a limited magical publication in the early 1920s. The being in it is effectively indistinguishable in proportions and features from the modern description of a Gray, down to the large cranium, the dark wrap-around eyes and the minimal facial features.
 
 ## Relationship to Gray Alien Archetype
 
