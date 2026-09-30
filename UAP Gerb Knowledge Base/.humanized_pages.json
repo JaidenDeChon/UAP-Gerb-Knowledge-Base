@@ -104,6 +104,11 @@
     "sha256": "78b4a054cbbecb9c51cc94d9b4c9c01fc0ff777b9f53f3dc6075fd1a1f8ce914",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/Blue Room.md": {
+    "humanized_at": "2026-09-30T02:22:13Z",
+    "sha256": "7db6678ebc8fae6d87fe282d7da9805544121509a0fe83a590526f77bd7fac11",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Events/1561 Celestial Phenomenon over Nuremberg.md": {
     "humanized_at": "2026-09-27T20:09:57Z",
     "sha256": "c85c07bd50acc648bab990af506a4fd0218a192d4d18a823bb559b8cfd973df9",
