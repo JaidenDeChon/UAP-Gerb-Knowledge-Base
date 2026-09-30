@@ -409,6 +409,11 @@
     "sha256": "c87d85d28046769fa24f6defadd74a723c823a46f4b779e556fe80f34698ac64",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/Laser Tracking Strikes.md": {
+    "humanized_at": "2026-09-30T02:33:33Z",
+    "sha256": "9a80c5d63247302a78256ea8e065c8c29eb680fbd62e07e69b0360e2fe259544",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Events/1561 Celestial Phenomenon over Nuremberg.md": {
     "humanized_at": "2026-09-27T20:09:57Z",
     "sha256": "c85c07bd50acc648bab990af506a4fd0218a192d4d18a823bb559b8cfd973df9",
