@@ -494,6 +494,11 @@
     "sha256": "3225edce442b4b51e1678f530142eeb3282cadec750f2b53186edee74fcf177e",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/NATO Brevity Language.md": {
+    "humanized_at": "2026-09-30T02:36:23Z",
+    "sha256": "b2f0bd83b451fdda7918a4e9d4d4efc2841013d76d04db80c66d88b727ef441a",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Concepts/National Program Special Management Staff (NPMS).md": {
     "humanized_at": "2026-09-30T02:36:22Z",
     "sha256": "562f2275eb2e5d01fe0a8bed8da1ddebc1001c7fc423e54bf2be1b66196a3da9",
