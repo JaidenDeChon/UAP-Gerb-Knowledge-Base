@@ -389,6 +389,11 @@
     "sha256": "1f7fad41aa763f57e32b1a585a9ad372a159d17fe41aeba00f08a15d3facc28a",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/Kardashev Scale.md": {
+    "humanized_at": "2026-09-30T02:33:32Z",
+    "sha256": "0da706909f67beaf875cd5cdc18325ac92d319b3db915897aa43acad036e9b90",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Events/1561 Celestial Phenomenon over Nuremberg.md": {
     "humanized_at": "2026-09-27T20:09:57Z",
     "sha256": "c85c07bd50acc648bab990af506a4fd0218a192d4d18a823bb559b8cfd973df9",
