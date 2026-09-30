@@ -12,26 +12,26 @@ The panel was assembled amid the [[UAP Mass Wave of 1952–1954]], a surge in pu
 
 ## Findings and Recommendations
 
-The panel reviewed selected Project Blue Book cases and concluded that while some sightings remained unexplained, there was no evidence that UFOs represented extraterrestrial visitors or advanced foreign technology. The panel's primary recommendation, however, was not scientific but strategic: **the government should undertake a public campaign to reduce public interest in UFOs**. The panel recommended:
+The panel reviewed selected Project Blue Book cases and concluded that while some sightings remained unexplained, there was no evidence that UFOs represented extraterrestrial visitors or advanced foreign technology. Its main recommendation, however, was a strategic one: the government should undertake a public campaign to reduce public interest in UFOs. Specifically, the panel recommended:
 
 - Public education programs to "debunk" UFO sightings and promote prosaic explanations
 - Monitoring and potentially controlling civilian UFO research groups
 - Using mass media, educators, and opinion leaders to reduce the "aura of mystery" surrounding UFOs
 - Stripping UFO reports of their special status to prevent public fascination
 
-This recommendation is widely cited in UAP research as the origin of the institutionalized UFO stigma — a deliberate policy to discourage scientific inquiry, public discourse, and media coverage of the phenomenon.
+UAP researchers widely cite this recommendation as the origin of the institutionalized UFO stigma, a deliberate policy to discourage scientific inquiry, public discourse and media coverage of the phenomenon.
 
 ## Connection to Crash Retrievals
 
-The Robertson Panel convened in January 1953, just four months before the alleged [[1953 Kingman, Arizona Crash Retrieval]] in May 1953. Researchers argue that the panel's recommendations — followed three months after Kingman by the issuance of [[USAF Regulation 200-2]], which rerouted UFO reports away from public oversight — represent an institutional response not only to public sightings but to the growing problem of managing knowledge about recovered non-human craft. The temporal proximity of the Robertson Panel, the Kingman crash, and Regulation 200-2 is cited as evidence of a coordinated strategy to centralize control over UAP information and prevent leaks about crash retrieval operations.
+The Robertson Panel convened in January 1953, just four months before the alleged [[1953 Kingman, Arizona Crash Retrieval]] in May 1953. Three months after Kingman came [[USAF Regulation 200-2]], which rerouted UFO reports away from public oversight. Researchers argue that the panel's recommendations and this regulation were an institutional response to public sightings and also to the growing problem of managing knowledge about recovered non-human craft. The closeness in time of the Robertson Panel, the Kingman crash and Regulation 200-2 is cited as evidence of a coordinated strategy to centralize control over UAP information and prevent leaks about crash retrieval operations.
 
 ## Declassification and Legacy
 
-The Robertson Panel's report was partially declassified in the 1970s. Subsequent FOIA releases and congressional inquiries revealed the extent to which the panel's recommendations were implemented through Pentagon public affairs operations, Air Force debunking efforts, and intelligence community monitoring of civilian UFO organizations. The panel's influence is regarded by UAP historians as foundational to the decades-long suppression of serious scientific engagement with the phenomenon.
+The Robertson Panel's report was partially declassified in the 1970s. Later FOIA releases and congressional inquiries showed how far the panel's recommendations were carried out through Pentagon public affairs operations, Air Force debunking efforts, and intelligence community monitoring of civilian UFO organizations. UAP historians regard the panel's influence as foundational to the decades-long suppression of serious scientific engagement with the phenomenon.
 
 ## Battelle Memorial Institute Involvement
 
-The [[Robertson Panel]] convened in January 1953 during the same period that [[Battelle Memorial Institute]] was conducting [[Project Stork]] — a parallel, classified UFO investigation program commissioned by [[Air Force Technical Intelligence Center]]. Dr. [[J. Allen Hynek]] attempted to reference Project Stork during his testimony at the panel. Because Battelle was the only contractor running a parallel classified UFO investigation at the time of the Robertson Panel, UAP researchers use the panel as a chronological reference point to identify Battelle when the organization is described indirectly. This identification method was used on the December 4, 2020 Joe Rogan Experience episode (#1574) when filmmaker [[James Fox]] implicitly named Battelle in response to [[Jacques Vallee]]'s reference to a private contractor holding UFO materials.
+The [[Robertson Panel]] convened in January 1953 during the same period that [[Battelle Memorial Institute]] was conducting [[Project Stork]], a parallel, classified UFO investigation program commissioned by [[Air Force Technical Intelligence Center]]. Dr. [[J. Allen Hynek]] tried to refer to Project Stork while testifying before the panel. Because Battelle was the only contractor running a parallel classified UFO investigation at the time of the Robertson Panel, UAP researchers use the panel as a point in time to identify Battelle when someone describes the organization without naming it. This method was used on the December 4, 2020 Joe Rogan Experience episode (#1574) when filmmaker [[James Fox]] implicitly named Battelle in response to [[Jacques Vallee]]'s reference to a private contractor holding UFO materials.
 
 ## Sources
 
