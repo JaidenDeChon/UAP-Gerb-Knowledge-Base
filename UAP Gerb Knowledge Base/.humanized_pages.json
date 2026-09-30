@@ -194,6 +194,11 @@
     "sha256": "7766f827f08f079b6050637cb54b349b8d2a7fa8ff2631d0f08bec8d21bed71f",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/DSP Infrared Detection.md": {
+    "humanized_at": "2026-09-30T02:26:39Z",
+    "sha256": "23ff47e0a1c1a4a19dad211bc64e5d6bc465cddf44bd176dfa4176f28bd6d1e6",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Concepts/Dark Forest Theory.md": {
     "humanized_at": "2026-09-30T02:26:36Z",
     "sha256": "79c3011a36272c234df7f2d9b4fea161dc59f7c458220e7ffe0a283d307171a7",
