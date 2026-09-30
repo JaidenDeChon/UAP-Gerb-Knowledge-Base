@@ -17,7 +17,7 @@ Nordic-type beings also appear in some abduction reports alongside the Grays. Th
 
 ## Gerb's view
 
-Covering the entry in the first episode of his iceberg series, Gerb says he does not know whether the Nordics are real. He prefers not to dwell on abduction stories or on sorting extraterrestrial races. His starting point is that something of non-human intelligence is in the sky, and he says there is a great deal to establish before deciding what these things are, or whether they are extraterrestrial at all.
+Gerb covers the Nordics as an entry in the first episode of his iceberg series and says he does not know whether they are real. He prefers not to dwell on abduction stories or on sorting extraterrestrial races. His starting point is that something of non-human intelligence is in the sky, and he says there is a great deal to establish before deciding what these things are, or whether they are extraterrestrial at all.
 
 ## Sources
 
