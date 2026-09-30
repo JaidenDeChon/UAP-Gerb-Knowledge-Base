@@ -689,6 +689,11 @@
     "sha256": "96030b2a7f79ee90dbd6b46cdea087b1d45282a391bfb44064fe4482eae8302d",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/Subterranean Facility (STIF).md": {
+    "humanized_at": "2026-09-30T02:44:02Z",
+    "sha256": "a361b7d18f61f139db7d61e81429b4e54b2ca5e85b1a881755ab5db621a377a3",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Events/1561 Celestial Phenomenon over Nuremberg.md": {
     "humanized_at": "2026-09-27T20:09:57Z",
     "sha256": "c85c07bd50acc648bab990af506a4fd0218a192d4d18a823bb559b8cfd973df9",
