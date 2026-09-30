@@ -14,7 +14,7 @@ The book describes an event in Mexico in 2004:
 - The black program team wipes out the entire JSOC team
 - Human beings are transported inside shipping containers to a hidden base in a mountain
 
-The shipping containers echo [[Michael Herrera]]'s 2009 encounter in Indonesia, where he saw F-350 trucks haul containers with large black cylinders onto an octagonal craft. Herrera at first guessed the containers held narcotics or oxygen equipment; [[The Insider]] later revealed they were used to transport humans recruited for the [P3 program]].
+The shipping containers echo [[Michael Herrera]]'s 2009 encounter in Indonesia, where he saw F-350 trucks haul containers with large black cylinders onto an octagonal craft. Herrera at first guessed the containers held narcotics or oxygen equipment; [[The Insider]] later revealed they were used to transport humans recruited for the [[Psionic Abilities (P3)|P3 program]].
 
 ## Authorship and Publication Status
 
@@ -60,7 +60,7 @@ Analysts have raised several concerns.
 
 The method is convoluted. It is unclear why an insider would hide information in fiction instead of blowing the whistle directly through established legal channels, as [[David Grusch]] did.
 
-Mixing truth and fiction mirrors the CIA's disinformation campaign against [[Paul Bennewitz]] in 1989, in which genuine UFO information was deliberately mixed with false claims to discredit and destabilize Benowitz.
+Mixing truth and fiction mirrors the CIA's disinformation campaign against [[Paul Bennewitz]] in 1989, in which genuine UFO information was deliberately mixed with false claims to discredit and destabilize Bennewitz.
 
 Nothing has been independently verified: not the manuscript's content, not DOPSR's response, and not whether the "4D chess" strategy has produced any actual intelligence.
 
@@ -79,7 +79,7 @@ As of this writing:
 
 Whether "Sentinels of Ether" is real cannot be verified. It could be one of three things:
 1. A genuine disclosure strategy, in which an insider works between classification rules and public revelation
-2. Sophisticated disinformation: a psychological operation to introduce false narratives while appearing credibleprogrammed
+2. Sophisticated disinformation: a psychological operation to introduce false narratives while appearing credible
 3. A fabrication: a book that does not exist, used as a prop to keep up the insider's mystique
 
 Without the manuscript itself, independent verification or DOPSR documentation, "Sentinels of Ether" is only a claimed book in an unverified disclosure story.
