@@ -239,6 +239,11 @@
     "sha256": "0eecc2f3ec35972b076c8880e67bcb18ddcfae8af2f8c0aa0386f4f3fc42969b",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/Dysonian SETI (CTI).md": {
+    "humanized_at": "2026-09-30T02:28:13Z",
+    "sha256": "538f20ab5d181556cd902ed42fcc51820c3a0cf79206ac40d82a2c6c567cf6ae",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Events/1561 Celestial Phenomenon over Nuremberg.md": {
     "humanized_at": "2026-09-27T20:09:57Z",
     "sha256": "c85c07bd50acc648bab990af506a4fd0218a192d4d18a823bb559b8cfd973df9",
