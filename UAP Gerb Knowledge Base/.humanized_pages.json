@@ -429,6 +429,11 @@
     "sha256": "01a92fc6ee3823a57a92d16db32e15cb15a85cb49be62851fff7834a1a45c0b5",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/MIM-23 Hawk Missile.md": {
+    "humanized_at": "2026-09-30T02:35:03Z",
+    "sha256": "5514ae836ea78f84401ae88a650c8783144b2d6028b964e06b23f24e4b5674c2",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Concepts/Maglev Underground Transportation.md": {
     "humanized_at": "2026-09-30T02:33:34Z",
     "sha256": "8ba36a9f94b1fa70dc9009bc4710e78a2e17c41f72607aafa7b470773b46804b",
