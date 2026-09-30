@@ -219,6 +219,11 @@
     "sha256": "7a966e55354006efe0befdb406a97ed60c51c2ce398393ee89500c528b446e24",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/Die Glocke (The Bell).md": {
+    "humanized_at": "2026-09-30T02:26:38Z",
+    "sha256": "205c291b911f40d586539834cac1fe44bb3ca35337f15bf346511301a622d69b",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Events/1561 Celestial Phenomenon over Nuremberg.md": {
     "humanized_at": "2026-09-27T20:09:57Z",
     "sha256": "c85c07bd50acc648bab990af506a4fd0218a192d4d18a823bb559b8cfd973df9",
