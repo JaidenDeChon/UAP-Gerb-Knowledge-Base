@@ -1158,5 +1158,50 @@
     ],
     "dates": "partial",
     "corrections": 3
+  },
+  "Ellen Lord": {
+    "enriched_at": "2026-10-01T22:06:32Z",
+    "videos": 4,
+    "components": [
+      "wiki-affiliations"
+    ],
+    "dates": "partial",
+    "corrections": 0
+  },
+  "RA": {
+    "enriched_at": "2026-10-01T22:06:32Z",
+    "videos": 1,
+    "components": [],
+    "dates": "none",
+    "corrections": 8
+  },
+  "Dawn Meyerriecks": {
+    "enriched_at": "2026-10-01T22:06:32Z",
+    "videos": 4,
+    "components": [
+      "wiki-affiliations"
+    ],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "Lee Graham": {
+    "enriched_at": "2026-10-01T22:06:32Z",
+    "videos": 3,
+    "components": [
+      "wiki-claim"
+    ],
+    "dates": "none",
+    "corrections": 3
+  },
+  "Curtis LeMay": {
+    "enriched_at": "2026-10-01T22:06:32Z",
+    "videos": 6,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 6
   }
 }
