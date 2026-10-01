@@ -220,7 +220,7 @@ In 2025 one of the sergeants Weygandt names told Gerb that the operation is stil
 ::wiki-claim{video="7Jc2G5aEH0A" video-title="1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt"}
 ---
 term: "Point"
-caption: "Two of the sergeant's points about Weygandt himself, as Gerb relays them in 2025, with Gerb's answers. Gerb keeps the sergeant's identity private."
+caption: "Two things one of Weygandt's former sergeants told Gerb about him in 2025, each followed by Gerb's answer. Gerb does not name the sergeant."
 claims:
   - title: "Never deployed"
     by: "One of Weygandt's sergeants"
@@ -247,7 +247,7 @@ The craft invites comparison with other egg-shaped accounts, including the [[195
 
 ## Comparison with Coyame
 
-Gerb sets Weygandt's account beside the [[1974 Coyame, Mexico UFO Crash Retrieval]] as a possible shared operational template for cross-border retrievals. In both, the [[CIA]] is involved, a twin-rotor helicopter brings in the recovery personnel, and the personnel wear hazmat or bio-protection suits. In both, there are signs of harm from proximity to the craft: Weygandt's intense, unexplainable fear, and the deaths of the Mexican soldiers who first recovered the Coyame disc.
+Gerb sets Weygandt's account beside the [[1974 Coyame, Mexico UFO Crash Retrieval]] and suggests the two may follow the same operational template for retrievals across borders. Both involve the [[CIA]], and in both a twin-rotor helicopter brings in recovery personnel wearing hazmat or bio-protection suits. Both also show signs of harm from being near the craft: Weygandt's intense, unexplainable fear, and the deaths of the Mexican soldiers who first recovered the Coyame disc.
 
 ## Sources
 

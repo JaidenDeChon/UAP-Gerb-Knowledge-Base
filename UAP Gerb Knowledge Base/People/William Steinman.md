@@ -81,7 +81,7 @@ entries:
 
 ## Investigation of the Aztec Case
 
-Steinman put substantial effort into investigating the alleged 1948 Aztec crash. He analyzed court records from the fraud trial of [[Silas Newton]] and [[Leo GeBauer]], the two con men whose claims about the Aztec case were later used to discredit it, looking for evidence that a genuine recovery event had occurred independently of their fraudulent claims.
+Steinman investigated the alleged 1948 Aztec crash at length. He analyzed court records from the fraud trial of [[Silas Newton]] and [[Leo GeBauer]], the two con men whose claims about the Aztec case were later used to discredit it, looking for evidence that a genuine recovery event had occurred independently of their fraudulent claims.
 
 ### UFO Crash at Aztec (1986)
 
@@ -102,7 +102,7 @@ Steinman traced the one man Sarbacher remembered attending every meeting to [[Er
 
 ## Significance
 
-Steinman's contacts with Sarbacher in 1983 and Walker in 1987 were a turning point in UAP research. Two high-ranking, government-connected individuals, contacted independently by a civilian researcher, gave consistent admissions about crash retrieval programs and the involvement of the US government's most senior wartime scientists. The resulting letters and interview notes are primary source documents that remain central to the evidentiary record.
+Steinman's contacts with Sarbacher in 1983 and Walker in 1987 were a turning point in UAP research. A civilian researcher had reached two high-ranking, government-connected men independently, and both gave consistent admissions about crash retrieval programs and the involvement of the US government's most senior wartime scientists. The letters and interview notes from these contacts are primary sources and remain central to the evidentiary record.
 
 ## Sources
 

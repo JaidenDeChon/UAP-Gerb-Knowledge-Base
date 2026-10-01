@@ -7,7 +7,7 @@ tags:
   - person
 ---
 
-Christopher Sharp is a London-based investigative journalist who covers UAP. He founded and edits *Liberation Times*, an independent publication that covers government transparency about unidentified aerial phenomena, national security, and classified crash retrieval programs. Sharp is known for cultivating sources in the US intelligence and defense communities and for publishing disclosures about how UAP legacy programs are structured. He has said publicly that this work puts him at personal risk.
+Christopher Sharp is a London-based investigative journalist who covers UAP. He founded and edits *Liberation Times*, an independent publication covering government transparency about unidentified aerial phenomena, national security and classified crash retrieval programs. Sharp is known for his sources in the US intelligence and defense communities and for his reports on how UAP legacy programs are structured. He has said publicly that this work puts him at personal risk.
 
 ## On the Record
 
@@ -39,11 +39,11 @@ items:
 
 ## "All UFO Disclosure Roads Lead to Rome" (2021)
 
-In December 2021, Sharp wrote an article titled "All UFO Disclosure Roads Lead to Rome," about the Vatican's alleged role in the [[The 1933 Magenta, Italy UFO Crash|1933 Magenta, Italy UFO crash/retrieval]] case. It appeared about eighteen months before David Grusch's public whistleblower testimony and laid early investigative groundwork connecting Pope Pius XII to the transfer of the Italian-held craft to US possession through the Office of Strategic Services.
+In December 2021, Sharp wrote an article titled "All UFO Disclosure Roads Lead to Rome," about the Vatican's alleged role in the [[The 1933 Magenta, Italy UFO Crash|1933 Magenta, Italy UFO crash/retrieval]] case. It appeared about eighteen months before David Grusch's public whistleblower testimony, and was an early piece of reporting to connect Pope Pius XII with the transfer of the Italian-held craft to the United States through the Office of Strategic Services.
 
 ## UAP Transparency Legislation Reporting (September 2024)
 
-On 20 September 2024, Sharp published an article in *Liberation Times* titled "Paradigm Changing UFO Transparency Legislation Fails in Congress for Second Consecutive Year," about the exclusion of the UAP Disclosure Act from the fiscal year 2025 National Defense Authorization Act. The article soon turned to a much bigger disclosure: multiple programs run by the CIA's Directorate of Science and Technology (DS&T) and Directorate of Operations, alongside Department of Defense and Department of Energy components, had for decades bypassed democratic oversight to retrieve advanced technologies of unknown origin.
+On 20 September 2024, Sharp published an article in *Liberation Times* titled "Paradigm Changing UFO Transparency Legislation Fails in Congress for Second Consecutive Year," about the exclusion of the UAP Disclosure Act from the fiscal year 2025 National Defense Authorization Act. Most of the article, though, reported a larger claim: that multiple programs run by the CIA's Directorate of Science and Technology (DS&T) and Directorate of Operations, alongside Department of Defense and Department of Energy components, had for decades bypassed democratic oversight to retrieve advanced technologies of unknown origin.
 
 ## The Undersea Retrieval Article and Retraction Sequence
 
@@ -53,11 +53,11 @@ By 22 September 2024, Sharp had revised the article to remove all information ab
 
 By 25 September 2024, five days after the original post, Sharp had restored the removed details and expanded the article further, stating: "Okay, so someone has recklessly put me at extreme risk. So, I've updated last week's article relating to the UAPDA, reverting back to details previously mentioned. This time the details are far more specific." This third version described the undersea retrieval program in more detail than the original, including the claim that recovered craft are "transferred to the Office of Naval Research, which subsequently hands them over to defense contractors for detailed analysis," and that the [[Woods Hole Oceanographic Institution]] had "provided deep submergence vehicles to support these retrieval efforts."
 
-Gerb treats this sequence as evidence that disclosures about active undersea retrieval programs are extremely sensitive. The article was published, then redacted, then restored, and Sharp stated explicitly that he had been threatened for revealing the information.
+Gerb treats this sequence as evidence that disclosures about active undersea retrieval programs are extremely sensitive: the article was published, redacted and restored, and Sharp stated explicitly that he had been threatened for revealing the information.
 
 In his video on the [[NRO (National Reconnaissance Office)|NRO]], Gerb calls the article a cornerstone of his research and starts his own reconstruction of a crash-retrieval task force from it. He agrees with Sharp's list of agencies but argues that it misses the helicopter transport, the Department of Energy's scientific teams and the authority running the whole effort, which he believes is probably the NRO.
 
-Sharp's earlier identification of the CIA DS&T as a gatekeeper of UAP materials is consistent with other sources. Former CIA DS&T director [[Glenn Gaffney]] has been labeled as the gatekeeper who blocked [[Lockheed Martin]]'s attempts to divest UFO materials, which Gerb's Navy video dates to 2008, and former CIA DS&T deputy director [[Doug Wolfe]] helped found the [[CIA Office of Global Access]] in 2003.
+Sharp's earlier identification of the CIA DS&T as a gatekeeper of UAP materials is consistent with other sources. Former CIA DS&T director [[Glenn Gaffney]] has been called the gatekeeper who blocked [[Lockheed Martin]]'s attempts to divest UFO materials, which Gerb's Navy video dates to 2008, and former CIA DS&T deputy director [[Doug Wolfe]] helped found the [[CIA Office of Global Access]] in 2003.
 
 ## Lockheed Martin and Kona Blue (2024)
 
