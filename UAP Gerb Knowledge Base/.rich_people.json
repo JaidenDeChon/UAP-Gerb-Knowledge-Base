@@ -756,5 +756,51 @@
     ],
     "dates": "verified",
     "corrections": 4
+  },
+  "Lyndon B. Johnson": {
+    "enriched_at": "2026-10-01T20:53:12Z",
+    "videos": 2,
+    "components": [
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 5
+  },
+  "Edward C. Aldridge": {
+    "enriched_at": "2026-10-01T20:53:12Z",
+    "videos": 4,
+    "components": [
+      "wiki-affiliations"
+    ],
+    "dates": "verified",
+    "corrections": 4
+  },
+  "John Von Neumann": {
+    "enriched_at": "2026-10-01T20:53:12Z",
+    "videos": 4,
+    "components": [
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 5
+  },
+  "Albert Bruce Collins": {
+    "enriched_at": "2026-10-01T20:53:12Z",
+    "videos": 3,
+    "components": [],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "Jacques Vallee": {
+    "enriched_at": "2026-10-01T20:53:12Z",
+    "videos": 10,
+    "components": [
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 5
   }
 }
