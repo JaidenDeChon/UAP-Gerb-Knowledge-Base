@@ -854,5 +854,48 @@
     ],
     "dates": "verified",
     "corrections": 4
+  },
+  "Richard Dolan": {
+    "enriched_at": "2026-10-01T20:57:49Z",
+    "videos": 7,
+    "components": [
+      "wiki-record"
+    ],
+    "dates": "verified",
+    "corrections": 3
+  },
+  "Donna D. Shipton": {
+    "enriched_at": "2026-10-01T20:57:49Z",
+    "videos": 3,
+    "components": [
+      "wiki-affiliations"
+    ],
+    "dates": "partial",
+    "corrections": 5
+  },
+  "Jake Barber": {
+    "enriched_at": "2026-10-01T20:57:49Z",
+    "videos": 5,
+    "components": [],
+    "dates": "partial",
+    "corrections": 5
+  },
+  "Jim Romansky": {
+    "enriched_at": "2026-10-01T20:57:49Z",
+    "videos": 1,
+    "components": [
+      "wiki-record"
+    ],
+    "dates": "verified",
+    "corrections": 5
+  },
+  "Dylan Borland": {
+    "enriched_at": "2026-10-01T20:57:49Z",
+    "videos": 6,
+    "components": [
+      "wiki-record"
+    ],
+    "dates": "partial",
+    "corrections": 3
   }
 }
