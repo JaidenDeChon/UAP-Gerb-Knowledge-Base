@@ -98,3 +98,23 @@ Read this whole file before proposing, and never re-propose an idea already list
   ```
 - **Implementation plan:** This is the heaviest proposal. Location pages need `coordinates: [lat, lon]` in their frontmatter: none of the 178 have it today. The enricher would add coordinates as it goes, checked online, and a one-off pass could backfill them. The map would be `WikiMap.vue` with a small bundled SVG outline (Natural Earth, public domain) and a d3-geo projection (d3 is already partly in the tree via `d3-force`). There are no tile servers or third-party requests. Pins resolve through `useWikiResolve`. The resolve API or content index would need to expose each page's coordinates. Check in all four themes.
 
+
+### Affiliations over time — `::wiki-affiliations`
+
+- **Status:** shipped (2026-10-01). Requested directly by the user for People pages ("when they were active … companies … they're known to be associated with"), so built without a separate proposal round. Built as `WikiAffiliations.vue` (+ `utils/affiliations.ts`, unit-tested), documented in `docs/wiki-components.md`. First used on the David Grusch pilot.
+- **Premise:** A person's career is a set of overlapping tenures. A timeline shows moments rather than spans, and an org chart shows hierarchy with no sense of time.
+- **Needed by:** People pages for officials, officers and executives (Grusch, Elizondo, Kirkpatrick, Corso, Walker…).
+- **What the reader sees:** One row per organization, with the role and the years in words, and a bar on a shared axis of years. Desktop: labels beside the bars. Phone: each label above its bar.
+- **Why the kit falls short:** `::wiki-timeline` plots points; `::wiki-org-chart` and `::wiki-chain` have no time axis.
+- **Authoring sketch:** see the component doc.
+- **Implementation plan:** done; no dependencies, theme tokens only, years always in text.
+
+### On the record — `::wiki-record`
+
+- **Status:** shipped (2026-10-01). Requested directly by the user for People pages ("memos they wrote"), so built without a separate proposal round. Built as `WikiRecord.vue` (+ `utils/record.ts`, unit-tested), documented in `docs/wiki-components.md`. First used on the David Grusch pilot.
+- **Premise:** What a person said or wrote, and where (memos, letters, testimony, interviews, books), is scattered across many videos, and readers want it in one list.
+- **Needed by:** People pages for witnesses, whistleblowers and officials who left a paper trail (Grusch, Wilson, Davis, Sarbacher, Corso…).
+- **What the reader sees:** Dated cards, each with its kind as a word and an icon, title, venue, note, an optional verbatim quote, the people involved and the article it came from, with kind filters on longer lists.
+- **Why the kit falls short:** `::wiki-timeline` has no slot for a venue, co-authors, a quote or a source; `::wiki-claim` is for disputes.
+- **Authoring sketch:** see the component doc.
+- **Implementation plan:** done; no dependencies, theme tokens only, kind never shown by icon alone.

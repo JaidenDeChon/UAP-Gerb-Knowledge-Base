@@ -1,5 +1,5 @@
 import type { MaybeRefOrGetter } from 'vue'
-import type { GraphPayload, NoteLinks, NotePreview, TreeItem } from '#shared/types/wiki'
+import type { GraphPayload, NoteLinks, NotePreview, PersonProfile, TreeItem } from '#shared/types/wiki'
 
 /**
  * The whole knowledge graph, fetched client-only (~165 KB). Keyed so the
@@ -39,4 +39,13 @@ export function fetchNotePreview(path: string): Promise<NotePreview> {
   })
   previewCache.set(path, request)
   return request
+}
+
+/** A People note's videos and connections (`/api/person`); re-fetches when `path` changes. */
+export function usePersonProfile(path: MaybeRefOrGetter<string>) {
+  return useAsyncData<PersonProfile>(
+    `wiki:person:${toValue(path)}`,
+    () => $fetch<PersonProfile>('/api/person', { query: { path: toValue(path) } }),
+    { watch: [() => toValue(path)] },
+  )
 }

@@ -3,7 +3,7 @@ import { describe, expect, it } from 'vitest'
 import { graphIndex } from './graph'
 import { buildPreviews } from './preview'
 import { VAULT_DIR, walkVault } from './vault'
-import { buildVideos } from './videos'
+import { buildVideos, publishDate } from './videos'
 
 // These run against the real vault, like the ingest pipeline that feeds it: the
 // point is that a processed video needs nothing beyond its summary and ledger entry.
@@ -38,5 +38,19 @@ describe('preview leads', () => {
     expect(leads.some(lead => /^::|^stats:/.test(lead))).toBe(false)
     const timeline = Object.values(previews).find(p => p.path.includes('/80-years-of-ufo-crash-retrieval'))
     expect(timeline?.lead).toMatch(/^This video brings the research of the whole UAP Gerb channel together/)
+  })
+})
+
+describe('publishDate', () => {
+  it('keeps a YYYY-MM-DD date and drops anything else', () => {
+    expect(publishDate('2026-09-18')).toBe('2026-09-18')
+    expect(publishDate(' 2026-09-18 ')).toBe('2026-09-18')
+    expect(publishDate('NA')).toBeNull()
+    expect(publishDate('2026-09')).toBeNull()
+    expect(publishDate(undefined)).toBeNull()
+  })
+
+  it('gives every video summary in the vault a publish date', () => {
+    expect(buildVideos().every(v => v.pub)).toBe(true)
   })
 })

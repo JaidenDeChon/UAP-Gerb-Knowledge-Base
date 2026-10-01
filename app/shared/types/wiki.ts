@@ -203,6 +203,8 @@ export interface BakedVideo {
   at: string | null
   /** Runtime in seconds, when the summary records one. */
   dur: number | null
+  /** Publish date (`YYYY-MM-DD`), from the summary's `date:` frontmatter. */
+  pub: string | null
 }
 
 export interface WikiData {
@@ -263,6 +265,41 @@ export interface WorldPlaces {
 
 /** Sparse node index -> portrait. */
 export type BakedPortraits = Record<number, NotePortrait>
+
+/* ---------------------------------------------------------------- people -- */
+
+/** A video whose summary links to a person, as `/api/person` serves it. */
+export interface PersonVideo {
+  path: string
+  title: string
+  videoId: string | null
+  /** Publish date, `YYYY-MM-DD`, when the summary records one. */
+  published: string | null
+}
+
+/**
+ * An entry a person's page is linked with, in either direction, with how
+ * strongly: `shared` counts the person's videos whose summaries link to both.
+ */
+export interface PersonConnection extends NoteRef {
+  shared: number
+  /** The person's page links to this entry. */
+  linksTo: boolean
+  /** This entry's page links to the person. */
+  linkedFrom: boolean
+}
+
+/** Everything the People page derives from the link graph, with no authoring. */
+export interface PersonProfile {
+  /** Videos that cover the person, oldest published first. */
+  videos: PersonVideo[]
+  /** Every linked entry except videos, strongest first. */
+  connections: PersonConnection[]
+  /** How many videos the channel has in the vault, for "N of M". */
+  channelVideos: number
+  /** The channel's first and latest publish dates in the vault (`YYYY-MM-DD`), or null when none is dated. */
+  channelSpan: [string, string] | null
+}
 
 /* ---------------------------------------------------------------- videos -- */
 

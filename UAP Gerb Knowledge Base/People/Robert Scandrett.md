@@ -1,11 +1,15 @@
 ---
 name: "Robert Scandrett"
-role: "Rockwell International engineer"
+role: "Rockwell International engineer; mentor of Bill McDonald's father"
 tags:
   - person
 ---
 
-Robert Scandrett was an engineer who worked for Rockwell International's Strategic Systems Division. He is significant in the [[XF-131 Super Sentinel]] investigation as the mentor of one of [[Bill McDonald]]'s four engineers. Specifically, he was the father of the engineer who testified about the triangular craft's design at the Denny's meeting. McDonald confirmed the testimony of two of the four engineers (those who claimed to be [[Northrop Grumman]] employees from the [[Tehachapi, California|Tehachapi]] facility) through friends of this engineer's father and through Scandrett's known connections at Rockwell International.
+Robert Scandrett was an engineer in Rockwell International's Strategic Systems Division. He appears in the story of the [[XF-131 Super Sentinel]] as the mentor of [[Bill McDonald]]'s father, and is known in Gerb's coverage only through that connection.
+
+## Role in the XF-131 Account
+
+In the spring of 1992, McDonald met four engineers at a Denny's in the [[Antelope Valley]]. Two said they worked for [[Northrop Grumman]] at a facility near [[Tehachapi, California|Tehachapi]], and two said they worked for [[Ben Rich]] at [[Lockheed Martin Skunk Works]]. Their work was so tightly compartmentalized that each knew only part of the story of the triangular craft people in the valley had reported for years, the XF-131 Super Sentinel. McDonald says he was able to confirm the Northrop engineers' testimony through friends of his father and through his father's mentor, Scandrett.
 
 ## Sources
 

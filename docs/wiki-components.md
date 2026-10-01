@@ -1219,6 +1219,119 @@ Authoring rules:
   unmapped).
 - **Cues follow the timeline's rule** (gotcha 8).
 
+### `::wiki-affiliations`
+
+Source: `app/app/components/content/WikiAffiliations.vue` (normalisation and
+geometry in `app/app/utils/affiliations.ts`, unit-tested in
+`affiliations.test.ts`)
+
+Where a person worked, served or belonged, and when: one row per
+organization or post, each with a bar on one shared axis of years, so the
+overlaps and gaps in a career read at a glance. Built for People pages (see
+"People pages" below) but usable anywhere a set of tenures matters.
+
+What it renders:
+
+- **A row per post**, sorted by start date. The label column carries the
+  organization (an entity chip when `name` resolves, plain text for `text`),
+  the role, and the years in words ("2016 to 2021", "Since 2025", "About 2009
+  to 2023"), so the bar is never the only way to read the dates. A `note`
+  sits under the bar.
+- **Bars** on a shared axis snapped to 5-year marks (10-year steps past 40
+  years, 20 past 80), tinted with the organization's category surface and
+  border. A bare year spans the whole year, so "2016 to 2021" runs to the end
+  of 2021. An `approx` row has dashed borders; a row that runs to `present`
+  or has no end loses its right edge and fades out, so it never claims to
+  have ended.
+- **Layout.** From a 36rem container the labels sit in a column beside the
+  bars; below that each label sits above its bar. Nothing scrolls sideways.
+- **Accessibility.** An `<ol>` named by the kicker and caption; every date is
+  real text; bars and gridlines are `aria-hidden`. Nothing animates. Theme
+  tokens only.
+
+Props (YAML body):
+
+| Prop | Type | Default | Notes |
+|---|---|---|---|
+| `rows` | `Row[]` | `[]` | See schema below. A row without a name or a usable `from` is dropped |
+| `label` | `string` | `''` | Replaces the "Affiliations over time" kicker |
+| `caption` | `string` | `''` | Under the chart; say where the dates come from |
+
+```yaml
+rows:
+  - name: "NRO (National Reconnaissance Office)"   # PLAIN page title (gotchas 1/2), or…
+    text: "University of Pittsburgh"               # …a body with no page, never resolved
+    role: "Senior intelligence officer"            # optional
+    from: "2016-04"                                # required: YYYY, YYYY-MM or YYYY-MM-DD
+    to: "2021-11"                                  # optional: same formats, or "present"
+    approx: true                                   # optional: either end is an estimate
+    note: "One line on what they did there."       # optional
+```
+
+Authoring rules:
+
+- **Two or more posts with verified years**, or it belongs in a sentence.
+- **Only verified dates** (see `person-enricher.md`, Phase 2). Mark an
+  estimate `approx: true` and say why in the caption.
+- **A post with no page is fine as `text:`.** Don't invent a page title.
+
+### `::wiki-record`
+
+Source: `app/app/components/content/WikiRecord.vue` (normalisation in
+`app/app/utils/record.ts`, unit-tested in `record.test.ts`)
+
+What a person put on the record, in date order: memos, letters, sworn
+testimony, interviews, books, papers, complaints and public statements. It
+answers "what did they actually say or write, and where?" so the reader
+doesn't have to hunt through every video.
+
+What it renders:
+
+- **One card per item**, with the date in a column beside it (or above it
+  when the container is narrower than 34rem). Each card has its kind as a word plus an icon ("Memo",
+  "Testimony", "Interview"), the title, where it was given or published (a
+  link when that's a page title), a note, an optional verbatim quote, the
+  other people involved as entity chips ("With"), and the page it was drawn
+  from ("Source", usually a video article).
+- **Kind filters.** With two or more kinds and five or more items, a row of
+  small buttons ("All 7", "Interviews 3"…) narrows the list.
+- **Order.** By year, undated last; within a year, items that both give a
+  month go by month and day, and a bare year keeps its authored place.
+- **Accessibility.** An `<ol>` named by the kicker and caption; the filter
+  buttons are a labelled group with `aria-pressed`. Nothing animates. Theme
+  tokens only.
+
+Props (YAML body):
+
+| Prop | Type | Default | Notes |
+|---|---|---|---|
+| `items` | `Item[]` | `[]` | See schema below. An item without a `title` is dropped |
+| `label` | `string` | `''` | Replaces the "On the record" kicker |
+| `caption` | `string` | `''` | Under the list |
+
+```yaml
+items:
+  - date: "2023-07-26"            # YYYY, YYYY-MM or YYYY-MM-DD; formatted like the timeline's
+    kind: testimony               # testimony | interview | memo | letter | report | book |
+                                  # article | paper | statement | complaint | lawsuit | patent;
+                                  # aliases: hearing, deposition, podcast, memorandum, email,
+                                  # op-ed, speech, filing…; anything else shows as "Record"
+    title: "Sworn testimony on UAP and national security"   # required; a document's real title where it has one
+    where: "House Oversight Committee"   # optional: page title (linked) or plain text
+    with: ["Ryan Graves", "David Fravor"]   # optional: page titles or plain names
+    note: "One or two lines on what it says."   # optional
+    quote: "Verbatim words from it."   # optional; never paraphrased
+    source: "80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline"   # optional: the article it's drawn from
+```
+
+Authoring rules:
+
+- **Two or more items, each with at least a year.**
+- **Quotes are verbatim** from the transcript, the document or a reliable
+  report of it.
+- **Attribute.** A note says what the item claims ("Alleges that…"), never
+  whether it's true.
+
 ### `::wiki-panel` (Tier 1 primitive)
 
 Source: `app/app/components/content/WikiPanel.vue`
@@ -1365,7 +1478,7 @@ layout is final.
 Renders a `NuxtLink` tinted by `tintFor(refData.category)` when `refData` is
 present, otherwise a plain `<span>{{ name }}</span>`. This is the shared
 "resolved-or-plain-text" leaf used by `WikiTimeline`, `WikiRoster`,
-`OrgChartNode`, `WikiCompare`, `WikiChain`, `WikiClaim` and `WikiMap`. Lives in `components/wiki/` (not `components/content/`)
+`OrgChartNode`, `WikiCompare`, `WikiChain`, `WikiClaim`, `WikiMap`, `WikiAffiliations`, `WikiRecord` and `WikiPersonConnections`. Lives in `components/wiki/` (not `components/content/`)
 because it is never referenced directly from an MDC block — only from other
 components.
 
@@ -1677,6 +1790,60 @@ Worth knowing if you're touching this component:
   `prefers-reduced-motion: reduce`.
 - See gotcha 5 above for the mount-node replacement issue this component
   works around (`.ufo-dock-stage`).
+
+---
+
+## People pages
+
+Every note in `People/` gets three blocks from the page template
+(`app/app/pages/wiki/[...slug].vue`) without anyone writing them. All three read
+`/api/person` (`server/api/person.get.ts`), which derives them from the baked
+link graph with `buildPersonProfile` (`server/utils/personProfile.ts`,
+unit-tested in `personProfile.test.ts`), fetched once per page through
+`usePersonProfile` (`composables/useGraph.ts`).
+
+- **At a glance** (`components/wiki/WikiPersonGlance.vue`), under the fact
+  table: born, died (with the age at death when both dates are exact to the
+  day), active years, "In Gerb's videos: 36 of 53" with the first and latest
+  month, and the number of linked entries. Under the figures, two bars draw
+  the person's life and active years to scale on a shared axis marked in
+  decades (`lifeBar` in `utils/person.ts`, unit-tested in `person.test.ts`).
+  The life bar has the dates written inside it ("1987 – ", or
+  "1 Jul 1924 – 30 Jun 2008"). With no death date, the bar ends at today and
+  fades out over its last tenth. The space after the dash stays empty, so
+  the bar never states that the person is alive. The bar has a one-sentence
+  screen-reader summary. With no dates in the frontmatter, only the figures
+  show.
+- **Videos about the person** (`components/wiki/WikiPersonVideos.vue`),
+  after the article: every video summary that links to the person, newest
+  first, with thumbnails and publish dates, above a line spanning the
+  channel's whole run with a mark where each one came out. Eight show
+  before "Show all".
+- **Connected to the person** (`components/wiki/WikiPersonConnections.vue`):
+  every other entry linked with the person in either direction (videos and
+  the home page excluded), ranked by how many of the person's videos link to
+  both, then by whether the link runs both ways. A meter shows that count
+  against the strongest connection. Category buttons narrow the list; twelve
+  show before "Show all". These two blocks replace the generic "Entries this
+  one links to" and "Entries that link here" lists on People pages.
+
+The dates come from optional frontmatter, read by `readPersonDates`:
+
+```yaml
+born: "1987"          # YYYY, YYYY-MM, YYYY-MM-DD or "c. 1920"
+died: "2011-05-03"
+active_from: 2009     # first year active in the record
+active_to: 2026       # a year, or "present"
+```
+
+Video publish dates come from each summary's `date:` frontmatter, baked as
+`BakedVideo.pub` (`publishDate` in `wiki/videos.ts`).
+
+The `person-enricher` agent (`.claude/agents/person-enricher.md`) adds
+authored profiles (a career chart, a timeline, a record, a cast), most
+connected person first, and lists each one in `UAP Gerb Knowledge Base/.rich_people.json`.
+The two pilots are `People/David Grusch.md` (36 videos: every component) and
+`People/Robert Scandrett.md` (one video: corrected prose, no components).
 
 ---
 

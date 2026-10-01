@@ -3925,8 +3925,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/David Grusch.md": {
-    "humanized_at": "2026-09-25T19:08:53Z",
-    "sha256": "487265eb2cc88a21c88fff5dd7c619acb9545ff1a00051288ec7b0441fec017d",
+    "humanized_at": "2026-10-01T18:24:03Z",
+    "sha256": "ed9b89160617f76578ef6a622e7560078e266c4c4186036ff8e5d6fd70a871c7",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/David Hilton.md": {
@@ -5375,8 +5375,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Robert Scandrett.md": {
-    "humanized_at": "2026-09-25T19:26:54Z",
-    "sha256": "41049ac2d11198ce08177ed67b204593d53b8a3cd1f0764c1540c8f85e6d9f1f",
+    "humanized_at": "2026-10-01T18:24:03Z",
+    "sha256": "1f751ea58df1239f8ac3873a1a129192342b94b6ed2ceb82e60c13ef3808df36",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Robert Spencer Carr.md": {
@@ -6049,6 +6049,11 @@
     "sha256": "1d17fd61efe76f7f430039f6f97131bd8f0472db3812269757b3e48c7d04fc1a",
     "cold_reader": true
   },
+  "app/app/components/content/WikiAffiliations.vue": {
+    "humanized_at": "2026-10-01T18:23:17Z",
+    "sha256": "16a74c6114fd5e96a40bda8e4eae0ad6287770e17567a7bbba6635e701b4d6fd",
+    "cold_reader": true
+  },
   "app/app/components/content/WikiChain.vue": {
     "humanized_at": "2026-09-25T16:52:05Z",
     "sha256": "44bea88977db493a1240eae2f6490a5023eb3342a7eb1f3200439c4ed5314145",
@@ -6082,6 +6087,11 @@
   "app/app/components/content/WikiOrgChart.vue": {
     "humanized_at": "2026-09-25T16:56:34Z",
     "sha256": "39d9eeac96534d555c0d784f8525f224d2c586735d6fc5bcf2f7ec2894c131ec",
+    "cold_reader": true
+  },
+  "app/app/components/content/WikiRecord.vue": {
+    "humanized_at": "2026-10-01T18:23:25Z",
+    "sha256": "63ae2952ade9ae4579fb0f3d62de0e80dbf68398020f054d9349b7170baa4c81",
     "cold_reader": true
   },
   "app/app/components/content/WikiRoster.vue": {
@@ -6149,9 +6159,24 @@
     "sha256": "7e13cbde8a46872050139e1a45caa4e72176a020560b092f7c3fce13d32704d7",
     "cold_reader": true
   },
+  "app/app/components/wiki/WikiPersonConnections.vue": {
+    "humanized_at": "2026-10-01T18:23:06Z",
+    "sha256": "963f242511949474db9e253437e3763a4312351904a68f9c7622fe4b6ce9e401",
+    "cold_reader": true
+  },
+  "app/app/components/wiki/WikiPersonGlance.vue": {
+    "humanized_at": "2026-10-01T19:21:58Z",
+    "sha256": "cddefeb31bb9d49bdbc5198f2a0a4b4db74a29b655e3f4cbdd19f72b826a4265",
+    "cold_reader": true
+  },
   "app/app/components/wiki/WikiPersonPortrait.vue": {
     "humanized_at": "2026-09-25T16:45:17Z",
     "sha256": "9b4a18a5858df7ffff771af9f4416f2fee3224a4b153256d6c43a2804325cf79",
+    "cold_reader": true
+  },
+  "app/app/components/wiki/WikiPersonVideos.vue": {
+    "humanized_at": "2026-10-01T18:22:38Z",
+    "sha256": "f113e3f6bc598c5f2d87db31aedda0c9c24fb03e6506db5de93906c528c796a1",
     "cold_reader": true
   },
   "app/app/components/wiki/WikiTocRail.vue": {
@@ -6175,8 +6200,13 @@
     "cold_reader": true
   },
   "app/app/pages/wiki/[...slug].vue": {
-    "humanized_at": "2026-09-25T16:41:03Z",
-    "sha256": "2ba01c76472ea4c722e5aa1c1b6d084e4ff564ee332afd034467a9c6681e6720",
+    "humanized_at": "2026-10-01T18:21:16Z",
+    "sha256": "f59d02537f3ffb823c50df4b68c99ea5bef8d739e07c3afc187fb7007e70e987",
+    "cold_reader": true
+  },
+  "app/app/utils/affiliations.ts": {
+    "humanized_at": "2026-10-01T18:23:17Z",
+    "sha256": "adf4a91741193dd02a4e6ea6882ac0d0a33975050c1baa7fa7bed8e5845643ef",
     "cold_reader": true
   },
   "app/app/utils/chain.ts": {
@@ -6197,6 +6227,16 @@
   "app/app/utils/map.ts": {
     "humanized_at": "2026-09-25T16:55:55Z",
     "sha256": "d5df80ea95dc15867df3c8acf7415ca3981e95874e5f6a2e27bfeb1a335317bb",
+    "cold_reader": true
+  },
+  "app/app/utils/person.ts": {
+    "humanized_at": "2026-10-01T18:22:20Z",
+    "sha256": "06fe78002bc5343c49ed345373f15b3a6a25a98d790291bd4be4f374b8d072ca",
+    "cold_reader": true
+  },
+  "app/app/utils/record.ts": {
+    "humanized_at": "2026-10-01T18:23:25Z",
+    "sha256": "57db3b14e3b9769bfc233c6a4a38baa64de8fe0bf62dd21bc95e53a0ffc98ddc",
     "cold_reader": true
   },
   "app/app/utils/timeline.ts": {
