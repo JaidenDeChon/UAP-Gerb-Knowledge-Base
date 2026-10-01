@@ -8,7 +8,7 @@ tags:
   - person
 ---
 
-Habib "Henry" Azadehdel, born in Soviet Armenia and later living in Nottingham, England, wrote on UFOs, mind control and crop circles under the pseudonym Dr. Armen Victorian. He made his name in the early 1990s on UFO bulletin boards and in magazines such as *Lobster*, and his book *The Mind Controllers* came out in 1999. Before that he had been convicted of orchid smuggling at the Old Bailey in 1989. John Lundberg's 2004 documentary *The Mythologist* is about him. In Gerb's videos he matters for one thing: his recorded conversations with Penn State president [[Eric A. Walker]].
+Habib "Henry" Azadehdel, born in Soviet Armenia and later living in Nottingham, England, wrote on UFOs, mind control and crop circles under the pseudonym Dr. Armen Victorian. He made his name in the early 1990s on UFO bulletin boards and in magazines such as *Lobster*, and his book *The Mind Controllers* came out in 1999. Before that he had been convicted of orchid smuggling at the Old Bailey in 1989. John Lundberg's 2004 documentary *The Mythologist* is about him. Gerb's videos mention him only for his recorded conversations with Penn State president [[Eric A. Walker]].
 
 ## Conversations with Eric Walker
 

@@ -17,7 +17,7 @@ Gerb has never made a video about General Dynamics. In his Lockheed Martin video
 - He dates Martin Marietta's purchase of its Space Systems Division to 1993, two years before Martin Marietta merged with Lockheed. He argues that this purchase, with GE Aerospace and the [[Sandia National Laboratories]] management contract, tied Martin Marietta to the UFO portfolio.
 - In his Northrop Grumman and TRW video, he says the people he has spoken to who claim to have worked in legacy programs often name [[MITRE Corporation|MITRE]], Lockheed Martin, Boeing and Raytheon, and "occasionally General Dynamics".
 - In *The Hidden Wing*, he finds that eight of 14 former heads of the Air Force acquisition office SAF/AQ had worked before their government service at contractors he has accused of legacy work, a list that includes General Dynamics.
-- In his DUMBs video, he notes that Boeing Aerospace and General Dynamics studied superconducting levitation for the [[National Maglev Initiative]] in the early 1990s. He reads this open maglev research as a sign of clandestine electromagnetic work long before.
+- In his DUMBs video, he notes that Boeing Aerospace and General Dynamics studied superconducting levitation for the [[National Maglev Initiative]] in the early 1990s. He takes this open maglev research as a sign that clandestine electromagnetic work had begun long before.
 - In his SAIC video, he cites a report that in 1985 [[SAIC]] won more [[Strategic Defense Initiative (SDI)|Strategic Defense Initiative]] contracts than General Dynamics, Northrop, Raytheon, Grumman and RAND combined.
 - In the McCandlish video, he notes that the [[Carlyle Group]], chaired by [[Frank Carlucci]] from 1992 to 2003, bought the electronics division of General Dynamics.
 

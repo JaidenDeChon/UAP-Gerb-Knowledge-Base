@@ -264,9 +264,19 @@
     "sha256": "36eb5b4579914ce7a5556431281c075dfb97ff61a2cfb9925d19e74a4bde361e",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/Executive Order 10501.md": {
+    "humanized_at": "2026-10-01T22:58:44Z",
+    "sha256": "a2fd7650e6bba4803d03dbafdffc69900d83a5cee1aaa8a0a49285ca060641d3",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Concepts/Executive Order 13526.md": {
     "humanized_at": "2026-09-30T02:28:14Z",
     "sha256": "83634f18fe9c7d222c7f1b213585ad5a31d71395d96e5fb431a43fbc1b692c0c",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Concepts/Extraterrestrial Biological Entity.md": {
+    "humanized_at": "2026-10-01T22:58:44Z",
+    "sha256": "1b708ebb62223a00b00d422813b06ad7275b6f890daf408a08ac56a81778b00d",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/Concepts/FOIA Evasion via Terminology.md": {
@@ -312,6 +322,11 @@
   "UAP Gerb Knowledge Base/Concepts/Geosynchronous Satellites.md": {
     "humanized_at": "2026-09-30T02:29:52Z",
     "sha256": "20ce410d51ecc00eafb42394c829ea7d514579878253bf8354d4b62682dcd639",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Concepts/Golden Age of Army R&D.md": {
+    "humanized_at": "2026-10-01T22:58:44Z",
+    "sha256": "2159152170207ed662a22fca313909fc0e66b401b826e49fedf2ff6893bdb3f2",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/Concepts/Gray Alien Morphology.md": {
@@ -559,6 +574,11 @@
     "sha256": "999b3be144ea8c539ab707187287e1d1b39319c27facc16c36c64d5d95b091ee",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/Passive Night Vision Technology.md": {
+    "humanized_at": "2026-10-01T22:58:44Z",
+    "sha256": "e8d7d3119db3001f2dadcbb668d80d9c75465059c6e06073716955522d92fb03",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Concepts/Pentagon UFO Videos.md": {
     "humanized_at": "2026-09-30T02:38:55Z",
     "sha256": "65a9df165ac2237c0d8e892791f29699ba0633758af1a46db5fb7d002db918e3",
@@ -617,6 +637,11 @@
   "UAP Gerb Knowledge Base/Concepts/Robertson Panel.md": {
     "humanized_at": "2026-09-30T02:40:15Z",
     "sha256": "fbe3dae246fb956c84a691b730c96bdc101cde3b68144536fb6b561db4225d33",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Concepts/Roswell File.md": {
+    "humanized_at": "2026-10-01T22:58:44Z",
+    "sha256": "6dbc034d4d9155c24bee85619745b17168052c6fed2915d3a793ebb2a5d67701",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/Concepts/Seamless Craft Hull.md": {
@@ -709,9 +734,19 @@
     "sha256": "d714d8b7bed83a611227182ec4926ad4b5ad1e6f2a884f479b0b8d679389d5da",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/Technologies of Unknown Origin.md": {
+    "humanized_at": "2026-10-01T22:58:43Z",
+    "sha256": "8980984c1271ac2455aae3d959473c35461f6ac64e0dfc97f5bdd07c133ffd57",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Concepts/The Age of Disclosure.md": {
     "humanized_at": "2026-09-30T02:44:02Z",
     "sha256": "2e4f4f5d63dc0e73708fbdf75b5dec4096ec5ab221739292e1ea4a5c2a343781",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Concepts/The Day After Roswell.md": {
+    "humanized_at": "2026-10-01T22:58:43Z",
+    "sha256": "9dcf407dd038cf8cd7233392353039a5bdcabb3ab9e6df75ea9accc7c2527075",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/Concepts/Tic Tac Factory.md": {
@@ -1134,14 +1169,14 @@
     "sha256": "e482a6b15990efb34bddaf75ed472988e47dcff8d88676f728b86706a2cb49b7",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/Events/McCandlish Planned Senate Testimony.md": {
-    "humanized_at": "2026-09-27T20:14:51Z",
-    "sha256": "fc09659930da3f60529459f92921870969739c6a4a4a3f7646eb891a8b368ec4",
-    "cold_reader": true
-  },
   "UAP Gerb Knowledge Base/Events/Maury Island Incident.md": {
     "humanized_at": "2026-09-27T20:14:52Z",
     "sha256": "b2e5c5f9ddd095796760b7cd3c8b63466fd3207cb7845a61832cb19551657cbe",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Events/McCandlish Planned Senate Testimony.md": {
+    "humanized_at": "2026-09-27T20:14:51Z",
+    "sha256": "fc09659930da3f60529459f92921870969739c6a4a4a3f7646eb891a8b368ec4",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/Events/McMinnville UFO Photographs.md": {
@@ -1709,6 +1744,11 @@
     "sha256": "15f5a52d924ab41016dd55130efb761a7d81a3164dbdb1db0162f049b393dfd4",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Holloman Air Force Base.md": {
+    "humanized_at": "2026-10-01T22:58:44Z",
+    "sha256": "9d4d10bddaa66cf0b50baf26cc2dd91b3d867b5c1462dbc89d887d83c01f1f4d",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Locations/Howard Air Force Base, Panama.md": {
     "humanized_at": "2026-09-28T20:42:00Z",
     "sha256": "a30606f3b45fe9412613cfc4d0e4abee7de3981bdf0985ed9cec18509db318e2",
@@ -2022,6 +2062,11 @@
   "UAP Gerb Knowledge Base/Locations/Pucallpa.md": {
     "humanized_at": "2026-09-28T21:33:05Z",
     "sha256": "f6dd24bd57b20d857dad5045a248daf13c953a6b27c2f761f38ed0c0914648db",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Puerto Rico Trench.md": {
+    "humanized_at": "2026-10-01T22:58:44Z",
+    "sha256": "a8586b490dd97d301083ac5bddab59323f28351bb0fb046ea266f2fef4a0d8f3",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/Locations/R2508 Complex.md": {
@@ -2604,6 +2649,11 @@
     "sha256": "d7b6378a67318ed1bdaffad9707d5b8cb8bb0f1cd091c64edc5235c2cf3eebe6",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/Army Ballistic Missile Agency.md": {
+    "humanized_at": "2026-10-01T22:58:44Z",
+    "sha256": "a79b86e97c97cb32f97d6bb6e3710cbc3ed9e82cbb10f63d651de6bebfe813db",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Organizations/Army INSCOM.md": {
     "humanized_at": "2026-09-25T23:38:35Z",
     "sha256": "af2f9b268bbea08d10d9d7fee89c6bc026579bbdbb339bcb9d16c0262b447219",
@@ -2859,6 +2909,11 @@
     "sha256": "49254b0e0c3d502780b6e27e4a50bef91e81cad99275719d0459a8dca70dc616",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/General Dynamics.md": {
+    "humanized_at": "2026-10-01T22:58:44Z",
+    "sha256": "3fa228051c2b83e93143890dece1e4ad888df0a16e02d0dfb78ed33cc5bdfc88",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Organizations/Geophysical Service Inc. (GSI).md": {
     "humanized_at": "2026-09-25T23:47:20Z",
     "sha256": "06fd6bf7c3c874ff08f7bcd4021830d62376aa631cc37bc75e9d199f73ac2eda",
@@ -2897,6 +2952,11 @@
   "UAP Gerb Knowledge Base/Organizations/Joint Task Force Bravo.md": {
     "humanized_at": "2026-09-25T23:49:12Z",
     "sha256": "16270d345e73ec0ddcc76438b9f114ac7d445e2d944d3c6b00ef8ea36b8df5e9",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Kecksburg Volunteer Fire Department.md": {
+    "humanized_at": "2026-10-01T22:58:44Z",
+    "sha256": "b73ecccb03f6e35c17e9dcba5a21505763a82be6250db2c4a97399ae050c10ef",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/Organizations/L3 Communications.md": {
@@ -2984,6 +3044,11 @@
     "sha256": "2002aee36e7f444505d0b64581e8f647680570355ee2ca7a1c58ed7040b98aff",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/McDonnell Douglas.md": {
+    "humanized_at": "2026-10-01T22:58:44Z",
+    "sha256": "71f9b8f089fc2cc70ac0198d465ff58dadce948c02d42d5bbb465f2d79adae9d",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Organizations/Men in Black.md": {
     "humanized_at": "2026-09-25T23:53:56Z",
     "sha256": "fd3d3f2d8cb2d197060c0f077a6ae43147f26eb2bc19b6e1a6a87b75db006f16",
@@ -3032,6 +3097,11 @@
   "UAP Gerb Knowledge Base/Organizations/NSA.md": {
     "humanized_at": "2026-09-25T23:55:24Z",
     "sha256": "1df5ddd2e33844c4238a588ea3b7cd10f9234c5d0ebd59f509386ce4ab733fb3",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/NSC 5412 Committee.md": {
+    "humanized_at": "2026-10-01T22:58:43Z",
+    "sha256": "7df44a021b86e7787970c055c390d5ec2de309ce2878ee8966085024e7492729",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/Organizations/National Academy of Sciences.md": {
@@ -3167,6 +3237,11 @@
   "UAP Gerb Knowledge Base/Organizations/Office of Strategic Services (OSS).md": {
     "humanized_at": "2026-09-26T00:00:08Z",
     "sha256": "5cc65d1a0b5fa73f7d45a64d300dfa43150792cf3361380c53d1b10b12ec1aa0",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Office of the Director of National Intelligence (ODNI).md": {
+    "humanized_at": "2026-10-01T22:58:43Z",
+    "sha256": "5b7e2d644d9a5191d5a0aa0b251931372027d68e40e71c5fcb1395d8fb835678",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/Organizations/Office of the Under Secretary of Defense for Intelligence and Security (USDINS).md": {
@@ -3317,6 +3392,11 @@
   "UAP Gerb Knowledge Base/Organizations/Sperry Rand.md": {
     "humanized_at": "2026-09-26T00:05:49Z",
     "sha256": "70b3fa05cb0f7665bb199d369183852d88ed9f4a339763f88175ac06aff788cb",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Strategic Air Command Elite Guard.md": {
+    "humanized_at": "2026-10-01T22:58:44Z",
+    "sha256": "779d6cd53f3a07e803fe86577acf78c7645bf5545f07b812d93e5b8b19a402c6",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/Organizations/System High.md": {
@@ -3472,6 +3552,11 @@
   "UAP Gerb Knowledge Base/Organizations/US SOUTHCOM.md": {
     "humanized_at": "2026-09-26T00:10:38Z",
     "sha256": "29b181d2405d7fad0688c262fc0e676b218f397abf6ddb3bba6ad22e74382509",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/US Space Command.md": {
+    "humanized_at": "2026-10-01T22:58:43Z",
+    "sha256": "805a278ce031a2b8f221b0d90e144970e2a76d3a49371fd366833e360daaa175",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/Organizations/US Space Force.md": {
@@ -3739,11 +3824,6 @@
     "sha256": "cd195cd963005b456ef293fa11295c2311c80db0075e81c8e7fff1c4b1222ac8",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/People/Bob Oechsler.md": {
-    "humanized_at": "2026-10-01T20:24:50Z",
-    "sha256": "2f296b7f2e97b3d4ef96a7d600639f0c8dfc766f0e7162dbe23efd7d11f17ba3",
-    "cold_reader": true
-  },
   "UAP Gerb Knowledge Base/People/Bob Fish.md": {
     "humanized_at": "2026-10-01T20:45:35Z",
     "sha256": "b19d25f74b79f6b8c42b06580deefbff2ee5d8cf8a13af882969011841fb8efc",
@@ -3752,6 +3832,11 @@
   "UAP Gerb Knowledge Base/People/Bob Lazar.md": {
     "humanized_at": "2026-10-01T20:37:50Z",
     "sha256": "5c981716734c9a2756b823c58df34e1c48195b63fa9fd60a3d4ab8141e711eb9",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/People/Bob Oechsler.md": {
+    "humanized_at": "2026-10-01T20:24:50Z",
+    "sha256": "2f296b7f2e97b3d4ef96a7d600639f0c8dfc766f0e7162dbe23efd7d11f17ba3",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Bobby Ray Inman.md": {
@@ -4012,6 +4097,11 @@
   "UAP Gerb Knowledge Base/People/Donald Hornig.md": {
     "humanized_at": "2026-09-25T19:07:24Z",
     "sha256": "767f162971b327455072eb2e87ab34b6a6929de37d7ee02423f38aaaf16e899f",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/People/Donald Keyhoe.md": {
+    "humanized_at": "2026-10-01T22:58:44Z",
+    "sha256": "aeeccb325afea384dfca5ae05060992933a26e4cb826d32714613eb41b252860",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Donald M. Kerr.md": {
@@ -4424,6 +4514,11 @@
     "sha256": "c1ae0d15a2f8cc807673833121687317a6fa3a2bcb3ae99c6fbc28993671fa3e",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/People/Henry Azadehdel.md": {
+    "humanized_at": "2026-10-01T22:58:43Z",
+    "sha256": "31fce0fdefc8d4b48d3a6a68725d22a506ed12b0c22a85388bc76b59ca92c051",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/Herman Flader.md": {
     "humanized_at": "2026-09-25T19:13:01Z",
     "sha256": "576a32d7f0ef5616178487975e439b45704e54fa1f5b11b69e5e2e3d3b0d6481",
@@ -4437,6 +4532,11 @@
   "UAP Gerb Knowledge Base/People/Hermann Oberth.md": {
     "humanized_at": "2026-09-25T19:13:02Z",
     "sha256": "f0e96249b0c4fe1f3222be790f711eac035acf41ce15bb7e5a25a4f0bfd9b0e6",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/People/Hillary Clinton.md": {
+    "humanized_at": "2026-10-01T22:58:43Z",
+    "sha256": "ea1b6a00457b177498bec4f80b69efeec7c51feb1e8ab2120d8674590be5bcea",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Hillary S. McCaron.md": {

@@ -7,7 +7,7 @@ tags:
   - organization
 ---
 
-The Office of the Director of National Intelligence (ODNI) is the US government office that leads and coordinates the intelligence community. It was created by the Intelligence Reform and Terrorism Prevention Act of 2004, which President George W. Bush signed on 17 December 2004, and it opened on 22 April 2005. It is headed by the Director of National Intelligence (DNI). Gerb's videos are less concerned with the office as a whole than with a few of the people who ran it and with its acquisition office, which he counts among the gatekeepers of the UFO legacy programs.
+The Office of the Director of National Intelligence (ODNI) is the US government office that leads and coordinates the intelligence community. It was created by the Intelligence Reform and Terrorism Prevention Act of 2004, which President George W. Bush signed on 17 December 2004, and it opened on 22 April 2005. It is headed by the Director of National Intelligence (DNI). Gerb's videos deal mostly with a few of the people who ran it and with its acquisition office, which he counts among the gatekeepers of the UFO legacy programs.
 
 ## Clapper's ODNI
 

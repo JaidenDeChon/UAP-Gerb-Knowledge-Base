@@ -4,7 +4,7 @@ tags:
   - concept
 ---
 
-The "golden age" of Army research and development is retired Lieutenant Colonel [[Philip J. Corso]]'s name for the years from 1958 to 1963, when Lieutenant General [[Arthur Trudeau]] ran Army R&D. Corso set it against the "dark ages" of 1947 to 1958, which he described as a disorganized period in which the Army lost ground on several fronts. Gerb takes the term from Corso's manuscript *Dawn of a New Age* and uses it for the period he believes the UFO legacy programs began actively reverse-engineering recovered technology instead of only collecting and studying it.
+The "golden age" of Army research and development is retired Lieutenant Colonel [[Philip J. Corso]]'s name for the years from 1958 to 1963, when Lieutenant General [[Arthur Trudeau]] ran Army R&D. Corso set it against the "dark ages" of 1947 to 1958, which he described as a disorganized period in which the Army lost ground on several fronts. Gerb takes the term from Corso's manuscript *Dawn of a New Age* and uses it for the period in which he believes the UFO legacy programs began actively reverse-engineering recovered technology instead of only collecting and studying it.
 
 ## Corso's account
 

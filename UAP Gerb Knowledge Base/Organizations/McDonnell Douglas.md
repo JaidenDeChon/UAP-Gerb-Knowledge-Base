@@ -13,7 +13,7 @@ McDonnell Douglas was an American aerospace manufacturer formed on 28 April 1967
 
 Most of Gerb's coverage of McDonnell Douglas concerns its facilities in the [[Antelope Valley]] of California. Gerb lists McDonnell Douglas, with Lockheed's Skunk Works, Rockwell and Northrop, among the companies that had plants in [[Palmdale, California|Palmdale]] around [[Air Force Plant 42]]. The valley also held three radar cross-section (RCS) ranges: Northrop's site at [[Tejon Ranch]] in the [[Tehachapi, California|Tehachapi Mountains]], Lockheed's [[Helendale]] site and a McDonnell Douglas site. Most of their equipment was built underground during the Cold War to keep it hidden from Soviet satellites. Gerb's DUMBs video says the Northrop, Helendale and McDonnell Douglas ranges all have underground facilities, and asks how big and how deep they are.
 
-The researcher [[Bill Hamilton]] accused these RCS ranges from at least 1987 of housing UFO legacy programs. Gerb relays several of his informants' claims:
+From at least 1987, the researcher [[Bill Hamilton]] accused these RCS ranges of housing UFO legacy programs. Gerb relays several of his informants' claims:
 
 - A source who said he worked on "Project Star Talk" at Tejon also said he saw a UFO held in an underground hangar at the McDonnell Douglas site.
 - Informants described a network of underground facilities and transport links joining Tehachapi, McDonnell Douglas, Helendale, George Air Force Base, [[Edwards Air Force Base|Edwards]], the NASA rocket test site and China Lake.

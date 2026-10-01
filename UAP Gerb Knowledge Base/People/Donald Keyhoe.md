@@ -17,9 +17,10 @@ Gerb mentions Keyhoe in passing in four videos:
 - In the USO video, Gerb notes that a copy of the Navy directive [[OPNAV 3820]] appears in *The Flying Saucer Conspiracy*, and that the directive cites [[JANAP 146c]] directly.
 - In the Kecksburg video, Gerb says Senator [[Lyndon B. Johnson]] wrote to Keyhoe, whom he calls "an excellent ufologist", in 1960 to thank him for documented evidence on UFOs.
 - In the UFO stigma video, Gerb lists Keyhoe, by then a retired Marine major, among those who offered to brief the [[Condon Committee]] and share their files. [[Edward Condon]] turned down many of these offers.
+
 ## Background
 
-Keyhoe was born in Ottumwa, Iowa, on 20 June 1897 and graduated from the US Naval Academy in 1919. He flew as a Marine Corps aviator until injuries from a 1922 crash on Guam forced him to retire, and he then made a living writing about aviation. He was recalled to active duty during the Second World War. He became NICAP's director in January 1957 and was forced out in December 1969. He died in New Market, Virginia, on 29 November 1988.
+Keyhoe was born in Ottumwa, Iowa, on 20 June 1897 and graduated from the US Naval Academy in 1919. He flew as a Marine Corps aviator until injuries from a 1922 crash on Guam forced him to retire, after which he made a living writing about aviation. He was recalled to active duty during the Second World War. His time as NICAP's director ran from January 1957 until he was forced out in December 1969. Keyhoe died in New Market, Virginia, on 29 November 1988.
 
 ## Sources
 
