@@ -1805,12 +1805,15 @@ unit-tested in `personProfile.test.ts`), fetched once per page through
 - **At a glance** (`components/wiki/WikiPersonGlance.vue`), under the fact
   table: born, died (with the age at death when both dates are exact to the
   day), active years, "In Gerb's videos: 36 of 53" with the first and latest
-  month, and the number of linked entries. Under the figures, a bar draws
-  the life, the active years and the stretch of the person's videos to scale
-  on one decade axis (`lifeBar` in `utils/person.ts`, unit-tested in
-  `person.test.ts`). With no death date the life bar fades out to today: it
-  never says the person is alive. The bar has a one-sentence screen-reader
-  summary. With no dates in the frontmatter, only the figures show.
+  month, and the number of linked entries. Under the figures, two bars draw
+  the person's life and active years to scale on a shared axis marked in
+  decades (`lifeBar` in `utils/person.ts`, unit-tested in `person.test.ts`).
+  The life bar has the dates written inside it ("1987 – ", or
+  "1 Jul 1924 – 30 Jun 2008"). With no death date, the bar ends at today and
+  fades out over its last tenth. The space after the dash stays empty, so
+  the bar never states that the person is alive. The bar has a one-sentence
+  screen-reader summary. With no dates in the frontmatter, only the figures
+  show.
 - **Videos about the person** (`components/wiki/WikiPersonVideos.vue`),
   after the article: every video summary that links to the person, newest
   first, with thumbnails and publish dates, above a line spanning the

@@ -6165,8 +6165,8 @@
     "cold_reader": true
   },
   "app/app/components/wiki/WikiPersonGlance.vue": {
-    "humanized_at": "2026-10-01T18:24:03Z",
-    "sha256": "02bbdbd35bb4a190126b71e4144fd8f54ffa3e1e04879f6dbb2aa643091cf8e1",
+    "humanized_at": "2026-10-01T19:21:58Z",
+    "sha256": "cddefeb31bb9d49bdbc5198f2a0a4b4db74a29b655e3f4cbdd19f72b826a4265",
     "cold_reader": true
   },
   "app/app/components/wiki/WikiPersonPortrait.vue": {

@@ -38,7 +38,13 @@ const now = (() => {
   return d.getUTCFullYear() + d.getUTCMonth() / 12
 })()
 
-const bar = computed(() => lifeBar(dates.value, now, coverage.value))
+const bar = computed(() => lifeBar(dates.value, now))
+
+/** "1987 – " or "1 Jul 1924 – 30 Jun 2008", written inside the life bar. */
+const lifeText = computed(() => {
+  const { born, died } = dates.value
+  return born ? `${formatLifeDate(born)} – ${died ? formatLifeDate(died) : ''}` : ''
+})
 
 interface Figure { label: string, value: string, hint?: string }
 
@@ -82,10 +88,6 @@ const summary = computed(() => {
     else if (activeTo === null || activeTo === activeFrom) clauses.push(`was active ${activeTo === null ? 'from' : 'in'} ${activeFrom}`)
     else clauses.push(`was active from ${activeFrom} to ${activeTo}`)
   }
-  if (coverage.value) {
-    const span = spanText(coverage.value)
-    clauses.push(`was covered in Gerb's videos ${span.includes(' to ') ? 'from' : 'in'} ${span}`)
-  }
   if (!clauses.length) return ''
   const last = clauses.pop()!
   return `${name.value} ${clauses.length ? `${clauses.join(', ')} and ${last}` : last}.`
@@ -126,7 +128,9 @@ const show = computed(() => hasPersonDates(dates.value) || videoCount.value > 0)
               class="ufo-glance-span is-life"
               :class="{ 'is-open': bar.life.open }"
               :style="{ left: `${bar.life.from}%`, width: `${Math.max(0.8, bar.life.to - bar.life.from)}%` }"
-            />
+            >
+              <span class="ufo-glance-span-text">{{ lifeText }}</span>
+            </span>
           </span>
         </div>
         <div v-if="bar.active" class="ufo-glance-row">
@@ -136,15 +140,6 @@ const show = computed(() => hasPersonDates(dates.value) || videoCount.value > 0)
               class="ufo-glance-span is-active"
               :class="{ 'is-open': bar.active.open }"
               :style="{ left: `${bar.active.from}%`, width: `${Math.max(0.8, bar.active.to - bar.active.from)}%` }"
-            />
-          </span>
-        </div>
-        <div v-if="bar.coverage" class="ufo-glance-row">
-          <span class="ufo-glance-row-label">Videos</span>
-          <span class="ufo-glance-track">
-            <span
-              class="ufo-glance-span is-videos"
-              :style="{ left: `${bar.coverage.from}%`, width: `${Math.max(0.8, bar.coverage.to - bar.coverage.from)}%` }"
             />
           </span>
         </div>
@@ -160,14 +155,6 @@ const show = computed(() => hasPersonDates(dates.value) || videoCount.value > 0)
           </span>
         </div>
       </div>
-      <figcaption class="ufo-glance-caption">
-        <template v-if="bar.life?.open">
-          The Life bar fades out because no date of death is recorded.
-        </template>
-        <template v-if="bar.coverage">
-          The Videos bar runs from the first to the last of Gerb's videos about {{ name }}.
-        </template>
-      </figcaption>
     </figure>
   </section>
 </template>
@@ -248,7 +235,7 @@ const show = computed(() => hasPersonDates(dates.value) || videoCount.value > 0)
 }
 .ufo-glance-track {
   position: relative;
-  height: 12px;
+  height: 16px;
   border-radius: 9999px;
   background: hsl(var(--muted-foreground) / 0.12);
 }
@@ -261,18 +248,27 @@ const show = computed(() => hasPersonDates(dates.value) || videoCount.value > 0)
 .ufo-glance-span.is-life {
   background: hsl(var(--graph-cat-people));
 }
+.ufo-glance-span-text {
+  position: absolute;
+  inset: 0 8px;
+  overflow: hidden;
+  font-family: var(--font-mono);
+  font-size: 9.5px;
+  font-weight: 700;
+  line-height: 16px;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  color: hsl(var(--background));
+}
 .ufo-glance-span.is-active {
   background: hsl(var(--primary));
-}
-.ufo-glance-span.is-videos {
-  background: hsl(var(--graph-cat-videos));
-  border: 1px solid hsl(var(--foreground) / 0.35);
 }
 /* An open end fades out rather than stopping: no claim that the span ended. */
 .ufo-glance-span.is-open {
   border-top-right-radius: 0;
   border-bottom-right-radius: 0;
-  mask-image: linear-gradient(to right, #000 70%, transparent);
+  mask-image: linear-gradient(to right, #000 90%, transparent);
 }
 .ufo-glance-axis {
   position: relative;
@@ -291,15 +287,5 @@ const show = computed(() => hasPersonDates(dates.value) || videoCount.value > 0)
 }
 .ufo-glance-tick:last-child {
   transform: translateX(-100%);
-}
-.ufo-glance-caption {
-  margin-top: 6px;
-  font-family: var(--font-sans);
-  font-size: 12px;
-  line-height: 18px;
-  color: hsl(var(--muted-foreground));
-}
-.ufo-glance-caption:empty {
-  display: none;
 }
 </style>
