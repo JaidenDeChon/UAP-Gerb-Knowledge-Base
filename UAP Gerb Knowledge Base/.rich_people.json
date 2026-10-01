@@ -123,5 +123,63 @@
     "components": [],
     "dates": "none",
     "corrections": 2
+  },
+  "Harry Truman": {
+    "enriched_at": "2026-10-01T20:23:01Z",
+    "videos": 8,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 3
+  },
+  "Luis Elizondo": {
+    "enriched_at": "2026-10-01T20:23:01Z",
+    "videos": 23,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "partial",
+    "corrections": 5
+  },
+  "Rodrik Castle": {
+    "enriched_at": "2026-10-01T20:23:01Z",
+    "videos": 6,
+    "components": [
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "Terry Phillips": {
+    "enriched_at": "2026-10-01T20:23:01Z",
+    "videos": 5,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 3
+  },
+  "Eric Henry Wang": {
+    "enriched_at": "2026-10-01T20:23:01Z",
+    "videos": 6,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "partial",
+    "corrections": 2
   }
 }
