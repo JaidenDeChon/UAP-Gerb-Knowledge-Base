@@ -6175,8 +6175,8 @@
     "cold_reader": true
   },
   "app/app/pages/wiki/[...slug].vue": {
-    "humanized_at": "2026-09-25T16:41:03Z",
-    "sha256": "2ba01c76472ea4c722e5aa1c1b6d084e4ff564ee332afd034467a9c6681e6720",
+    "humanized_at": "2026-10-01T18:21:16Z",
+    "sha256": "f59d02537f3ffb823c50df4b68c99ea5bef8d739e07c3afc187fb7007e70e987",
     "cold_reader": true
   },
   "app/app/utils/chain.ts": {
