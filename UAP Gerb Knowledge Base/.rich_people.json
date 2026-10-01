@@ -1203,5 +1203,53 @@
     ],
     "dates": "verified",
     "corrections": 6
+  },
+  "Raymond Fowler": {
+    "enriched_at": "2026-10-01T22:07:17Z",
+    "videos": 2,
+    "components": [],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "Rear Admiral Timothy Gallaudet": {
+    "enriched_at": "2026-10-01T22:07:17Z",
+    "videos": 3,
+    "components": [
+      "wiki-affiliations",
+      "wiki-record"
+    ],
+    "dates": "verified",
+    "corrections": 7
+  },
+  "Ronald S. Moultrie": {
+    "enriched_at": "2026-10-01T22:07:17Z",
+    "videos": 8,
+    "components": [
+      "wiki-record",
+      "wiki-claim"
+    ],
+    "dates": "partial",
+    "corrections": 4
+  },
+  "Nicholas Johnson": {
+    "enriched_at": "2026-10-01T22:07:17Z",
+    "videos": 1,
+    "components": [],
+    "dates": "partial",
+    "corrections": 2
+  },
+  "Anna Paulina Luna": {
+    "enriched_at": "2026-10-01T22:07:17Z",
+    "videos": 3,
+    "components": [],
+    "dates": "verified",
+    "corrections": 2
+  },
+  "Edward Condon": {
+    "enriched_at": "2026-10-01T22:07:17Z",
+    "videos": 1,
+    "components": [],
+    "dates": "verified",
+    "corrections": 3
   }
 }
