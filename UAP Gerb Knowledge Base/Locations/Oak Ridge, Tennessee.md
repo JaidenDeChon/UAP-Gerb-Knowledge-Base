@@ -15,7 +15,7 @@ The Oak Ridge site was chosen in 1942 because it was remote, had land available 
 
 The Oak Ridge Reservation now covers about 35,000 acres and holds several separate federal installations:
 
-- [[Oak Ridge National Laboratory]] is the DOE's largest science and energy laboratory. It does research in neutron science, nuclear physics, energy technologies and national security applications, and it is a [[Federally Funded Research and Development Centers (FFRDCs)|Federally Funded Research and Development Center]] sponsored by the [[National Nuclear Security Administration|NNSA]] and the DOE.
+- [[Oak Ridge National Laboratory]] is the DOE's largest science and energy laboratory. It does research in neutron science, nuclear physics, energy technologies and national security applications, and it is a [[Federally Funded Research and Development Center (FFRDC)|Federally Funded Research and Development Center]] sponsored by the [[National Nuclear Security Administration|NNSA]] and the DOE.
 - The [[Y-12 Complex]] is the nation's primary facility for processing, fabricating and storing highly enriched uranium (HEU), and a core production site within the [[Nuclear Security Enterprise (NSE)]].
 - East Tennessee Technology Park, formerly K-25, is where gaseous diffusion enrichment used to take place. The site is now managed for cleanup and redevelopment.
 

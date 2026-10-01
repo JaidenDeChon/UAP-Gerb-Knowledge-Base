@@ -32,7 +32,7 @@ Mitchell described the episode on CNN's *Larry King Live* in 2008, years before 
 
 ## The memo and his estate
 
-Mitchell died unexpectedly in February 2016. His family invited a confidential source who had known several Apollo astronauts to help disperse the estate, much of which was marked for destruction. The source told [[James Rigny]] about UFO-related papers among Mitchell's belongings, and Rigny copied several documents, including the Wilson-Davis notes, which became public in 2018. How Mitchell came to hold the notes is not known. Physicist [[Eric Davis]], who is said to have written them, has confirmed only that they "were leaked out of Ed Mitchell's estate."
+Mitchell died unexpectedly in February 2016. His family invited a confidential source who had known several Apollo astronauts to help disperse the estate, much of which was marked for destruction. The source told [[James Rigney]] about UFO-related papers among Mitchell's belongings, and Rigney copied several documents, including the Wilson-Davis notes, which researchers saw from late 2018 and which became public in 2019. How Mitchell came to hold the notes is not known. Physicist [[Eric Davis]], who is said to have written them, has confirmed only that they "were leaked out of Ed Mitchell's estate."
 
 Gerb counts Mitchell, with [[Luis Elizondo|Lou Elizondo]], [[Chris Mellon]] and [[Ross Coulthart]], among those who have attested to the memo's authenticity, and argues that Mitchell "confirmed the meeting before his notes were found in his estate".
 

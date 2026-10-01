@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Jeremy Rys, known online as Alien Scientist, is a UFO researcher and YouTuber and one of the most prominent critics of [[Edgar Fouché]]'s [[TR-3B]] testimony. Rys met Fouché in 2009 and at first considered him a close friend and a legitimate whistleblower. He later published damaging criticism alleging that Fouché had fabricated his disclosures.
+Jeremy Rys, known online as Alien Scientist, is a UFO researcher and YouTuber and one of the most prominent critics of [[Edgar Fouche|Edgar Fouché]]'s [[TR-3B]] testimony. Rys met Fouché in 2009 and at first considered him a close friend and a legitimate whistleblower. He later published damaging criticism alleging that Fouché had fabricated his disclosures.
 
 ## Criticism of Fouché
 

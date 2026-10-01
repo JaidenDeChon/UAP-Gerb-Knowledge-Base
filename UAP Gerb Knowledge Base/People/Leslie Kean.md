@@ -80,7 +80,7 @@ Working with the Coalition for Freedom of Information (CFi), which she had co-fo
 - search for the relevant Kecksburg files and provide them to Kean and CFi
 - pay the legal fees incurred by Kean and CFi
 
-NASA finished its search in August 2009. It posted 20 pages of documents about [[Project Moon Dust]], a Cold War program for recovering foreign space vehicles that had come down, but none of them bore on Kecksburg. According to a statement from NASA's public affairs office, the agency had sent its Kecksburg files to the [[National Archives]] for safekeeping two years after the 1965 incident, and in 1996 the National Archives told NASA that the files had been marked as lost since 1987.
+NASA finished its search in August 2009. It posted 20 pages of documents about [[Project Moon Dust]], a Cold War program for recovering foreign space vehicles that had come down, but none of them bore on Kecksburg. According to a statement from NASA's public affairs office, the agency had sent its Kecksburg files to the National Archives for safekeeping two years after the 1965 incident, and in 1996 the National Archives told NASA that the files had been marked as lost since 1987.
 
 News of the lawsuit also drew out a new witness: a man called Joel contacted the Kecksburg investigator [[Stan Gordon]] after hearing local coverage of Kean's effort.
 

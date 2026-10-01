@@ -45,7 +45,7 @@ This video is UAP Gerb's first deep investigation of the [[US Navy]]'s alleged U
 
 The starting point is [[Christopher Sharp]]'s September 2024 *Liberation Times* reporting. Sharp named the [[CIA Directorate of Science and Technology]] and Directorate of Operations, the [[National Underwater Reconnaissance Office]] (NURO), the Navy, the [[NRO (National Reconnaissance Office)|NRO]], the [[NGA]], [[JSOC (Joint Special Operations Command)|Joint Special Operations Command]], [[SOCOM]] and submersibles from the [[Woods Hole Oceanographic Institution]] as participants in undersea retrievals. He said recovered craft go to the [[Office of Naval Research]] (ONR) and then to defense contractors. Gerb adds what he calls the missing intermediary, [[Federally Funded Research and Development Center (FFRDC)|FFRDCs]] and university-affiliated research centers. He then follows the thread through NURO, a black agency protected in its entirety by a [[Special Access Programs (SAPs)|special access program]], whose one self-acknowledged director is Admiral [[Bobby Ray Inman]].
 
-The evidence falls into three kinds. The first is testimony from senior naval officials: Inman's 1989 remarks to [[Bob Echler]], former Director of Naval Intelligence [[Sumar Shapiro|Sumner Shapiro]]'s account of craft dismantled and shipped between laboratories, and the deathbed disclosures of the Navy's chief R&D scientist [[Nat Kobitz]] to [[Ross Coulthart]]. The second is the Navy's deep-ocean machinery: [[John P. Craven]]'s [[Deep Submergence Systems Project (DSSP)|Deep Submergence Systems Project]], the compartmented seafloor-recovery program [[Project Sanddollar|Sand Dollar]], the [[Deep Submergence Rescue Vehicle (DSRV)|DSRV]] submersibles and the CIA's Glomar Explorer. The third is witness cases: the video's centrepiece, a triangular craft allegedly raised from nearly a mile and a half down in the North Atlantic in 1991, and [[Leonard Stringfield]]'s files on craft and bodies held at naval bases. Gerb closes on the [[Navy Special Program]], an umbrella office he believes hides NURO and naval retrieval work, and on the Navy's 1985 procurement scandals as a possible funding channel. Several of his sources, he says, call the Navy's programs the most secretive of all.
+The evidence falls into three kinds. The first is testimony from senior naval officials: Inman's 1989 remarks to [[Bob Oechsler]], former Director of Naval Intelligence [[Sumner Shapiro]]'s account of craft dismantled and shipped between laboratories, and the deathbed disclosures of the Navy's chief R&D scientist [[Nat Kobitz]] to [[Ross Coulthart]]. The second is the Navy's deep-ocean machinery: [[John P. Craven]]'s [[Deep Submergence Systems Project (DSSP)|Deep Submergence Systems Project]], the compartmented seafloor-recovery program [[Project Sanddollar|Sand Dollar]], the [[Deep Submergence Rescue Vehicle (DSRV)|DSRV]] submersibles and the CIA's Glomar Explorer. The third is witness cases: the video's centrepiece, a triangular craft allegedly raised from nearly a mile and a half down in the North Atlantic in 1991, and [[Leonard Stringfield]]'s files on craft and bodies held at naval bases. Gerb closes on the [[Navy Special Program]], an umbrella office he believes hides NURO and naval retrieval work, and on the Navy's 1985 procurement scandals as a possible funding channel. Several of his sources, he says, call the Navy's programs the most secretive of all.
 
 ## Chronology
 
@@ -269,35 +269,35 @@ events:
     entities:
       - "Northrop Grumman"
   - date: "1989"
-    title: "Inman-Echler telephone call"
+    title: "Inman-Oechsler telephone call"
     cue: 2087
-    summary: "Introduced through Admiral Lord Hill-Norton, NASA mission specialist Bob Echler asked Inman whether recovered vehicles might ever be available for research outside military circles. Inman said the answer ten years earlier 'would have been no', and named CIA DS&T deputy director Everett Heinman as the best person to ask. A later call from Inman's office warned Echler about the secrecy laws."
+    summary: "Introduced through Admiral Lord Hill-Norton, NASA mission specialist Bob Oechsler asked Inman whether recovered vehicles might ever be available for research outside military circles. Inman said the answer ten years earlier 'would have been no', and named CIA DS&T deputy director Everett Heinman as the best person to ask. A later call from Inman's office warned Oechsler about the secrecy laws."
     category: event
     significance: major
     entities:
-      - "Inman-Echler Telephone Call"
+      - "Inman-Oechsler Telephone Call"
       - "Bobby Ray Inman"
-      - "Bob Echler"
+      - "Bob Oechsler"
       - "Everett Heinman"
   - date: "1989-08-10"
     title: "Heinman denies knowledge at CIA headquarters"
     cue: 2203
-    summary: "Echler met Heinman at CIA headquarters in Langley, Virginia, where Heinman denied any knowledge of UFOs or legacy programs. Heinman had been DS&T deputy director from 1979 to 1982 and then ran the NRO's Program B from 1982 to 1989, including as the first chief of its Pine Gap ground element."
+    summary: "Oechsler met Heinman at CIA headquarters in Langley, Virginia, where Heinman denied any knowledge of UFOs or legacy programs. Heinman had been DS&T deputy director from 1979 to 1982 and then ran the NRO's Program B from 1982 to 1989, including as the first chief of its Pine Gap ground element."
     category: event
     significance: notable
     entities:
       - "Everett Heinman"
-      - "Bob Echler"
+      - "Bob Oechsler"
       - "Pine Gap, Australia"
   - date: "1989"
-    title: "Sumner Shapiro tells Echler craft are dismantled and shipped between laboratories"
+    title: "Sumner Shapiro tells Oechsler craft are dismantled and shipped between laboratories"
     cue: 2277
-    summary: "Former Director of Naval Intelligence Sumner Shapiro, then a BDM International executive, told Echler that factions in the US held extraterrestrial vehicles he had studied at close quarters, which teams took apart in an exact sequence of interlocking components and shipped to laboratories around the country. A second meeting at his Virginia home in 1990 ended when Echler showed a hologram of an alien head."
+    summary: "Former Director of Naval Intelligence Sumner Shapiro, then a BDM International executive, told Oechsler that factions in the US held extraterrestrial vehicles he had studied at close quarters, which teams took apart in an exact sequence of interlocking components and shipped to laboratories around the country. A second meeting at his Virginia home in 1990 ended when Oechsler showed a hologram of an alien head."
     category: event
     significance: major
     entities:
-      - "Sumar Shapiro"
-      - "Bob Echler"
+      - "Sumner Shapiro"
+      - "Bob Oechsler"
       - "BDM International"
   - date: "1991"
     title: "DSRV crew recovers a triangular craft from the North Atlantic"
@@ -393,7 +393,7 @@ events:
   - date: "2022"
     title: "Inman tells Project Unity he found plausible explanations"
     cue: 1936
-    summary: "On the Project Unity show, Inman said he had found plausible explanations for virtually every UFO sighting, which Gerb sets against his 1989 remarks to Echler. The same year Heinman told researcher RGH UFOs he was 'a long way' from the area being researched, offered to answer questions, then stopped replying."
+    summary: "On the Project Unity show, Inman said he had found plausible explanations for virtually every UFO sighting, which Gerb sets against his 1989 remarks to Oechsler. The same year Heinman told researcher RGH UFOs he was 'a long way' from the area being researched, offered to answer questions, then stopped replying."
     category: person
     significance: notable
     entities:
@@ -525,7 +525,7 @@ rows:
 ---
 ::
 
-The CIA DS&T has been accused before. Gerb recalls that former DS&T director [[Glenn Gaffney]] is described as the gatekeeper who stopped Lockheed Martin from moving UFO materials, likely from the [[1953 Kingman, Arizona Crash Retrieval|1953 Kingman crash]], to the OSAP program in 2008. Former DS&T deputy director [[Doug Wolfe|Doug Wolf]] helped found the CIA's Office of Global Access in 2003.
+The CIA DS&T has been accused before. Gerb recalls that former DS&T director [[Glenn Gaffney]] is described as the gatekeeper who stopped Lockheed Martin from moving UFO materials, likely from the [[1953 Kingman, Arizona Crash Retrieval|1953 Kingman crash]], to the OSAP program in 2008. Gerb's later Lockheed video instead ties Gaffney to the 2011 Kona Blue attempt, and recalls [[James Clapper]] shutting down the 2008–09 one. Former DS&T deputy director [[Doug Wolfe|Doug Wolf]] helped found the CIA's Office of Global Access in 2003.
 
 ## The National Underwater Reconnaissance Office
 
@@ -549,26 +549,26 @@ On the Project Unity show in 2022, Inman said he had found "plausible explanatio
 
 ## Senior Naval Officials Who Spoke
 
-### The Echler inquiries
+### The Oechsler inquiries
 
-In 1989 NASA mission specialist Bob Echler, introduced through Admiral Lord Hill-Norton, asked Inman whether recovered vehicles might ever be available for research outside military circles. In the recorded [[Inman-Echler Telephone Call]], Inman said that "ten years ago, the answer would have been no", and that openness might be evolving. He named the CIA's deputy director for science and technology, [[Everett Heinman]], as the best place to start, since his imminent retirement might make him more willing to talk. A later call from Inman's office warned Echler that discussing Inman's involvement would breach confidence or the secrecy laws. Gerb notes that Inman, a NURO director, sent Echler to the DS&T, one of NURO's two founding agencies.
+In 1989 NASA mission specialist Bob Oechsler, introduced through Admiral Lord Hill-Norton, asked Inman whether recovered vehicles might ever be available for research outside military circles. In the recorded [[Inman-Oechsler Telephone Call]], Inman said that "ten years ago, the answer would have been no", and that openness might be evolving. He named the CIA's deputy director for science and technology, [[Everett Heinman]], as the best place to start, since his imminent retirement might make him more willing to talk. A later call from Inman's office warned Oechsler that discussing Inman's involvement would breach confidence or the secrecy laws. Gerb notes that Inman, a NURO director, sent Oechsler to the DS&T, one of NURO's two founding agencies.
 
 ::wiki-chain{video="H9GSqOEvoBE" video-title="US Navy UFO Crash Retrieval & Reverse Engineering Programs"}
 ---
 kind: transmission
-label: "Who sent Echler to whom"
-caption: "How Echler's question was passed from one official to the next, from 1989 to 1990."
+label: "Who sent Oechsler to whom"
+caption: "How Oechsler's question was passed from one official to the next, from 1989 to 1990."
 steps:
-  - name: "Bob Echler"
+  - name: "Bob Oechsler"
     note: "NASA mission specialist asking whether recovered vehicles would ever be released for research."
-  - via: "Put Echler in touch"
+  - via: "Put Oechsler in touch"
     text: "Admiral Lord Hill-Norton"
     cue: 2056
   - via: "Recorded telephone call, 1989"
     name: "Bobby Ray Inman"
-    note: "Confirmed the US held craft \"in operational condition\"; his office later warned Echler off."
+    note: "Confirmed the US held craft \"in operational condition\"; his office later warned Oechsler off."
     cue: 2090
-  - via: "Referred Echler on"
+  - via: "Referred Oechsler on"
     fork:
       - label: "CIA DS&T"
         steps:
@@ -578,16 +578,16 @@ steps:
             cue: 2206
       - label: "Naval intelligence"
         steps:
-          - name: "Sumar Shapiro"
+          - name: "Sumner Shapiro"
             date: "1989–1990"
             note: "Said he had studied craft at close quarters; ended the second meeting, suspecting false pretenses."
             cue: 2279
 ---
 ::
 
-Heinman was DS&T deputy director from 1979 to 1982 and then ran the NRO's Program B, the CIA's satellite SIGINT effort, from 1982 to 1989, as the first chief of its ground element at [[Pine Gap, Australia]]. He met Echler at CIA headquarters on 10 August 1989 and denied any knowledge. In 2022, when [[RGH UFOs]] contacted him, he did not deny it, writing that he was "a long way and quite a few years from working in the area you are researching". He offered to answer questions but never replied, and Gerb's own attempts to reach him have gone unanswered.
+Heinman was DS&T deputy director from 1979 to 1982 and then ran the NRO's Program B, the CIA's satellite SIGINT effort, from 1982 to 1989, as the first chief of its ground element at [[Pine Gap, Australia]]. He met Oechsler at CIA headquarters on 10 August 1989 and denied any knowledge. In 2022, when [[RGH UFOs]] contacted him, he did not deny it, writing that he was "a long way and quite a few years from working in the area you are researching". He offered to answer questions but never replied, and Gerb's own attempts to reach him have gone unanswered.
 
-Shapiro, a retired Director of Naval Intelligence then working as an executive at [[BDM International]] (later bought by [[Northrop Grumman]]), met Echler in 1989. He said factions within the US held extraterrestrial vehicles that he had studied at close quarters. Teams took them apart, packed them and shipped them to laboratories around the country. Their interlocking components had to be disassembled in an exact sequence. He never said where. At a second meeting at his Virginia home in 1990, Echler showed him a small hologram of an alien head. Shapiro, unable to reach Inman to confirm the meeting, became visibly upset and ended it, suspecting false pretenses. Echler also claimed that the Navy used EMP generators, Empress and Empress II, out of Pensacola Naval Air Station to bring down UFOs for retrieval.
+Shapiro, a retired Director of Naval Intelligence then working as an executive at [[BDM International]] (later bought by [[Northrop Grumman]]), met Oechsler in 1989. He said factions within the US held extraterrestrial vehicles that he had studied at close quarters. Teams took them apart, packed them and shipped them to laboratories around the country. Their interlocking components had to be disassembled in an exact sequence. He never said where. At a second meeting at his Virginia home in 1990, Oechsler showed him a small hologram of an alien head. Shapiro, unable to reach Inman to confirm the meeting, became visibly upset and ended it, suspecting false pretenses. Oechsler also claimed that the Navy used EMP generators, Empress and Empress II, out of Pensacola Naval Air Station to bring down UFOs for retrieval.
 
 ### Nat Kobitz
 
@@ -823,14 +823,14 @@ In closing, Gerb lists what he wants to pursue:
 entries:
   - name: Bobby Ray Inman
     role: "Admiral; Director of Naval Intelligence and of NURO from 1974"
-    note: "The only person on record as a NURO director. Told Echler in 1989 that craft were held in operational condition, and later said everything had plausible explanations."
+    note: "The only person on record as a NURO director. Told Oechsler in 1989 that craft were held in operational condition, and later said everything had plausible explanations."
   - name: Christopher Sharp
     role: "Journalist, Liberation Times"
     note: "His three-version September 2024 article named NURO, Woods Hole, SOCOM and ONR in an undersea retrieval pipeline, and prompted the investigation."
-  - name: Bob Echler
+  - name: Bob Oechsler
     role: "NASA mission specialist"
     note: "Reached both Heinman and Shapiro through Inman in 1989–1990. These contacts are the video's core paper trail from senior officials."
-  - name: Sumar Shapiro
+  - name: Sumner Shapiro
     role: "Former Director of Naval Intelligence; BDM International executive"
     note: "Said he had studied extraterrestrial vehicles that were dismantled in sequence and shipped to laboratories."
   - name: Everett Heinman
@@ -853,7 +853,7 @@ entries:
 - Gerb theorises that US Navy UFO legacy programs perform four functions (monitor, collect, store and exploit), run through ONR and ONI with SOCOM, NURO, the Navy Special Program, naval stations such as NAWC China Lake and NSWC Crane, and contractors and FFRDCs such as Lockheed Martin.
 - Christopher Sharp's sources allege that undersea retrievals involve the CIA's Directorate of Operations, NURO, SOCOM and Woods Hole submersibles, and that recovered craft go to the Office of Naval Research and then to defense contractors. Sharp removed and then restored these details, citing threats.
 - NURO, founded in 1969 by agreement between the CIA and the Navy, is described by the Association of Former Intelligence Officers as an entire agency protected by a special access program. Bobby Ray Inman says he directed it from 13 September 1974.
-- In 1989 Inman told Bob Echler that the US held craft in operational condition and referred him to CIA DS&T deputy director Everett Heinman, who denied any knowledge.
+- In 1989 Inman told Bob Oechsler that the US held craft in operational condition and referred him to CIA DS&T deputy director Everett Heinman, who denied any knowledge.
 - Former Director of Naval Intelligence Sumner Shapiro allegedly said he had studied extraterrestrial vehicles at close quarters, and that teams dismantled them in an exact sequence and shipped them to laboratories around the country.
 - Nat Kobitz, the Navy's long-time Director of Science and Technology Development, told Ross Coulthart he was officially briefed on multiple retrieved non-human craft and shown an atomically bonded bulkhead deep underground at Wright-Patterson.
 - According to Harold Malmgren, the 1962 Bluegill Triple Prime test downed a UFO, and the USS Safeguard recovered a "pod" from the sea.
@@ -878,9 +878,9 @@ entries:
 
 ## Related Pages
 
-- **People**: [[Bobby Ray Inman]], [[Sumar Shapiro]], [[Everett Heinman]], [[Bob Echler]], [[Nat Kobitz]], [[Ross Coulthart]], [[John P. Craven]], [[Leonard Stringfield]], [[Christopher Sharp]], [[Daniel Sheehan]], [[Rear Admiral Timothy Gallaudet]], [[Harold Malmgren]], [[Andrew Kissner]], [[Eric A. Walker]], [[Robert Sarbacher]], [[Vannevar Bush]], [[Glenn Gaffney]], [[Doug Wolfe]], [[Eric Davis]], [[Randy Anderson]], [[Edgar Fouche]], [[Chris Mellon]], [[Richard Sauder]], [[Robert Wood]], [[John F. Kennedy]]
+- **People**: [[Bobby Ray Inman]], [[Sumner Shapiro]], [[Everett Heinman]], [[Bob Oechsler]], [[Nat Kobitz]], [[Ross Coulthart]], [[John P. Craven]], [[Leonard Stringfield]], [[Christopher Sharp]], [[Daniel Sheehan]], [[Rear Admiral Timothy Gallaudet]], [[Harold Malmgren]], [[Andrew Kissner]], [[Eric A. Walker]], [[Robert Sarbacher]], [[Vannevar Bush]], [[Glenn Gaffney]], [[Doug Wolfe]], [[Eric Davis]], [[Randy Anderson]], [[Edgar Fouche]], [[Chris Mellon]], [[Richard Sauder]], [[Robert Wood]], [[John F. Kennedy]]
 - **Organizations**: [[US Navy]], [[National Underwater Reconnaissance Office]], [[Navy Special Program]], [[Office of Naval Research]], [[Office of Naval Intelligence]], [[CIA Directorate of Science and Technology]], [[CIA Office of Global Access]], [[NRO (National Reconnaissance Office)]], [[NGA]], [[JSOC (Joint Special Operations Command)]], [[SOCOM]], [[Woods Hole Oceanographic Institution]], [[Naval Surface Warfare Center Crane]], [[Center for Naval Analyses]], [[SAIC]], [[Wackenhut Services]], [[Lockheed Martin]], [[Northrop Grumman]], [[BDM International]], [[Atomic Energy Commission]], [[Majestic 12]], [[RGH UFOs]]
 - **Operations**: [[Project Sanddollar]], [[Deep Submergence Systems Project (DSSP)]], [[Project Azorian]], [[Project Palladium]]
-- **Events**: [[1991 North Atlantic USO Retrieval]], [[Bluegill Triple Prime UFO Recovery]], [[Inman-Echler Telephone Call]], [[1965 Kecksburg, Pennsylvania Crash Retrieval]]
+- **Events**: [[1991 North Atlantic USO Retrieval]], [[Bluegill Triple Prime UFO Recovery]], [[Inman-Oechsler Telephone Call]], [[1965 Kecksburg, Pennsylvania Crash Retrieval]]
 - **Concepts**: [[Deep Submergence Rescue Vehicle (DSRV)]], [[Unidentified Submerged Object (USO)]], [[Special Access Programs (SAPs)]], [[Federally Funded Research and Development Center (FFRDC)]], [[MJ-12 Documents]], [[Off-World Technologies Division]], [[OPNAV 3820]], [[Alien Reproduction Vehicle (ARV)]], [[TR-3B]]
 - **Locations**: [[Aberdeen, Scotland]], [[Pine Gap, Australia]], [[Wright-Patterson Air Force Base]], [[MCAS Yuma]], [[China Lake Naval Air Weapons Station]], [[Crystal City, Virginia]]

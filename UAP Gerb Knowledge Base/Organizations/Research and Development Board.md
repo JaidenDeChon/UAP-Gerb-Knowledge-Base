@@ -26,7 +26,7 @@ Sarbacher's testimony placed the R&D Board at the center of the US government's 
 
 ## Connection to the Wright Field Meeting
 
-The alleged [[Wright Field Crash Retrieval Meeting]] of 1949–1950, which [[Eric A. Walker]] attended and Sarbacher referred to, is believed to have been organized under the R&D Board or a closely related body, the [[Defense Research Board]]. The meeting brought the nation's top scientists together to discuss recovered UAP materials, occupants, and how to reverse engineer them.
+The alleged [[Wright Field Crash Retrieval Meeting]] of 1949–1950, which [[Eric A. Walker]] attended and Sarbacher referred to, is believed to have been organized under the R&D Board or a closely related body, the Defense Research Board. The meeting brought the nation's top scientists together to discuss recovered UAP materials, occupants, and how to reverse engineer them.
 
 Sarbacher's account suggests that the R&D Board's UAP work was compartmentalized even inside the board, with access to the crash retrieval program granted only to a small subset of members who had a need to know. That would explain why the program stayed secret for decades even though the board had a fairly large membership.
 

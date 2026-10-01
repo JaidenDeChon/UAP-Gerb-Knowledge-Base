@@ -15,7 +15,7 @@ The US Navy assisted with Interloper, which set an early precedent for the USAF 
 
 ## Known Case Files
 
-Of the surviving Interloper cases (numbered 26, 27, and 28), only Case 26 is directly relevant to USO research. It records that [[Lieutenant George P. Williams]] and his nine-man Navy Fleet Logistics Air Wing crew saw a trans-medium UFO rise out of the ocean and fly across the sky between Keflavik, Iceland, and Newfoundland. The object was described as elliptical or cigar-shaped and at least 200 feet long, with a red-orange glow around its edge.
+Of the surviving Interloper cases (numbered 26, 27, and 28), only Case 26 is directly relevant to USO research. It records that Lieutenant George P. Williams and his nine-man Navy Fleet Logistics Air Wing crew saw a trans-medium UFO rise out of the ocean and fly across the sky between Keflavik, Iceland, and Newfoundland. The object was described as elliptical or cigar-shaped and at least 200 feet long, with a red-orange glow around its edge.
 
 ## Significance
 

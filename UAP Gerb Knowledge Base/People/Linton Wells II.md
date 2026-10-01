@@ -10,7 +10,7 @@ Linton Wells II is a retired U.S. Navy officer who served 26 years in the Navy a
 
 ## Role in UAP Programs
 
-Wells was not publicly employed by [[MITRE Corporation|MITRE]], but Gerb states he is aware that Wells was briefed into MITRE's alleged UFO legacy programs at least in the mid-to-late 2000s. Gerb cites Wells's SAPOC SRG membership, and his MITRE briefing in the same period, as further evidence that the Pentagon's formal gatekeeping structure for Special Access Programs overlapped with senior personnel who knew about MITRE's alleged reverse-engineering and USO-monitoring programs. The channel attributes the same pattern to [[Paul Kaminski]] and [[John Deutsch|John M. Deutsch]].
+Wells was not publicly employed by [[MITRE Corporation|MITRE]], but Gerb states he is aware that Wells was briefed into MITRE's alleged UFO legacy programs at least in the mid-to-late 2000s. Gerb cites Wells's SAPOC SRG membership, and his MITRE briefing in the same period, as further evidence that the Pentagon's formal gatekeeping structure for Special Access Programs overlapped with senior personnel who knew about MITRE's alleged reverse-engineering and USO-monitoring programs. The channel attributes the same pattern to [[Paul Kaminski]] and [[John Deutch|John M. Deutch]].
 
 ## Sources
 
@@ -21,4 +21,4 @@ Wells was not publicly employed by [[MITRE Corporation|MITRE]], but Gerb states 
 - [[MITRE Corporation]]
 - [[Special Access Programs (SAPs)]]
 - [[Paul Kaminski]]
-- [[John Deutsch]]
+- [[John Deutch]]

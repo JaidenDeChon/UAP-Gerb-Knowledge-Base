@@ -191,36 +191,36 @@ Gerb's broader timeline of the legacy program points to National Security Action
 
 ### As U.S. Senator
 
-During his time in the U.S. Senate, Johnson publicly called for a military subcommittee that would report UFO sightings directly to him. He wrote to ufologist [[Major Donald Keyhoe]], author of *The Flying Saucer Conspiracy*, to thank him for providing documented evidence on UFOs; Gerb dates the letter to 1960. This early interest suggests Johnson took the subject seriously, as a matter of national security.
+During his time in the U.S. Senate, Johnson publicly called for a military subcommittee that would report UFO sightings directly to him. He wrote to ufologist [[Donald Keyhoe|Major Donald Keyhoe]], author of *The Flying Saucer Conspiracy*, to thank him for providing documented evidence on UFOs; Gerb dates the letter to 1960. This early interest suggests Johnson took the subject seriously, as a matter of national security.
 
 ### December 10, 1965 Meetings at Texas Residence
 
 The day after the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]], President Johnson met senior officials at his Texas residence for most of the day. According to Johnson's schedule (compiled by researcher [[Grant Cameron]]), the guests arrived at 9:50 AM, about an hour after the president woke, and the meetings went on throughout the day. Those attending included:
 
 - The [[DOD Joint Chiefs|Joint Chiefs of Staff]]:
-  - Admiral [[Donald L. McDonald]], Chief of Naval Operations
-  - General [[Wallace M. Greene]], Commandant of the U.S. Marine Corps
+  - Admiral Donald L. McDonald, Chief of Naval Operations
+  - General Wallace M. Greene, Commandant of the U.S. Marine Corps
   - General [[John P. McConnell]], U.S. Air Force Chief of Staff (who had succeeded [[Curtis LeMay]] in February 1965)
   - General [[Earl Wheeler]], Chairman of the Joint Chiefs of Staff
   - General [[Harold K. Johnson]], U.S. Army Chief of Staff, who had led the 8th Cavalry Regiment
 - Secretary of Defense [[Robert McNamara]]
 - Deputy Secretary of Defense [[Cyrus Vance]]
-- [[Joseph Califano|Joe Califano]], special assistant to the Secretary and Deputy Secretary of Defense and a member of the [[Federal Radiation Council]], who had handled aerial collisions requiring Atomic Energy Commission involvement
+- [[Joseph Califano|Joe Califano]], special assistant to the Secretary and Deputy Secretary of Defense and a member of the Federal Radiation Council, who had handled aerial collisions requiring Atomic Energy Commission involvement
 - NASA Director [[James E. Webb|James Webb]]
 - Presidential Science Adviser [[Donald Hornig|Dr. Donald Hornig]]
 - Atomic Energy Commission Chairman [[Glenn Seaborg|Dr. Glenn Seaborg]]
 - Secretary of Agriculture [[Orville Freeman]]
-- Aide [[Bill Moyers]]
+- Aide Bill Moyers
 
 The first session ran from 10:10 AM to 12:51 PM and included the Joint Chiefs, McNamara, Vance, Califano, and Moyers. Afterwards every chief except Wheeler took a car ride with Johnson. After lunch Johnson met McNamara, Vance, Moyers, Hornig and Freeman. No meeting on the schedule explicitly mentions Kecksburg, Soviet satellites or ICBMs. Gerb still argues that the guest list may point to a day of briefings on a significant UAP event that required a coordinated military, scientific, and intelligence response. The guests included the Joint Chiefs of Staff (JCS), Defense leadership, NASA, the Atomic Energy Commission (AEC) chairman and the presidential science adviser.
 
-Four days after the Kecksburg crash, on December 13, 1965, Califano held a meeting with [[Buford Ellington]], Director of the Office of Emergency Planning, that the LBJ Presidential Library marked off the record. The subject of this meeting is unknown.
+Four days after the Kecksburg crash, on December 13, 1965, Califano held a meeting with Buford Ellington, Director of the Office of Emergency Planning, that the LBJ Presidential Library marked off the record. The subject of this meeting is unknown.
 
 ### Relationship with Dr. Eric A. Walker
 
 Johnson had a close personal and professional relationship with [[Eric A. Walker|Dr. Eric A. Walker]], president of Penn State University, who has repeatedly been identified as central to U.S. UAP crash retrieval programs. Walker lunched at the White House with Johnson and other university presidents on 3 August 1964, and was the only university president invited to attend the signing of the Clean Air Act at the White House in 1967. The two exchanged multiple letters throughout Johnson's presidency: on 10 September 1964 Johnson thanked Walker for his service on the Board of Visitors to the US Military Academy, and on 24 September 1964 he asked Walker to recommend a student to be honoured as a young leader.
 
-In a letter dated May 18, 1966, several months after the Kecksburg incident, Johnson thanked Walker profusely for his service as a member and chairman of the [[National Science Board]]. He added, cryptically: "I should also like to thank you for the unstinting manner in which you served your government in other areas", including his recent tenure on the [[Defense Science Board]]. In an interview with Armen Victorian, Walker said he went to the Kecksburg crash site with two off-duty military men and a colleague, but when asked whether a UFO was recovered, he said: "I cannot comment on that. I cannot tell you."
+In a letter dated May 18, 1966, several months after the Kecksburg incident, Johnson thanked Walker profusely for his service as a member and chairman of the National Science Board. He added, cryptically: "I should also like to thank you for the unstinting manner in which you served your government in other areas", including his recent tenure on the Defense Science Board. In an interview with Armen Victorian, Walker said he went to the Kecksburg crash site with two off-duty military men and a colleague, but when asked whether a UFO was recovered, he said: "I cannot comment on that. I cannot tell you."
 
 ### Other Connections
 

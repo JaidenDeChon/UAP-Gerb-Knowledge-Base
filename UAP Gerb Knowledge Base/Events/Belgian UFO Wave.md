@@ -17,7 +17,7 @@ Internal DOD documents, once classified, show that US authorities investigated t
 
 ## Fouché Controversy
 
-Critics of [[Edgar Fouché]], particularly [[Jeremy Rys]], alleged that Fouché fabricated his TR-3B testimony, combining stories about the Nazi Bell device with the Belgian wave sightings to make it more believable. Gerb considers this criticism too simplistic. He points out that Fouché's disclosures contain far more specific detail than could be drawn from the Belgian sightings alone.
+Critics of [[Edgar Fouche|Edgar Fouché]], particularly [[Jeremy Rys]], alleged that Fouché fabricated his TR-3B testimony, combining stories about the Nazi Bell device with the Belgian wave sightings to make it more believable. Gerb considers this criticism too simplistic. He points out that Fouché's disclosures contain far more specific detail than could be drawn from the Belgian sightings alone.
 
 ## Sources
 

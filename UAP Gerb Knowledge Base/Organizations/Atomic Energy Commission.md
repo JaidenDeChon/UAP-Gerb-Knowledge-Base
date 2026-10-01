@@ -5,7 +5,7 @@ tags:
   - organization
 ---
 
-The Atomic Energy Commission (AEC) was a United States government agency established in 1946 to manage the nation's nuclear weapons program and promote peaceful uses of atomic energy. For UFO investigations, it was one of three bodies required to receive every [[Project Sign]] UFO investigation report, along with the [[Army and Navy Research and Development Board]] and the [[USAF Scientific Advisory Board]].
+The Atomic Energy Commission (AEC) was a United States government agency established in 1946 to manage the nation's nuclear weapons program and promote peaceful uses of atomic energy. For UFO investigations, it was one of three bodies required to receive every [[Project Sign]] UFO investigation report, along with the [[Army and Navy Research and Development Board]] and the [[USAF Scientific Advisory Group|USAF Scientific Advisory Board]].
 
 ## Role in Early UFO Investigations
 

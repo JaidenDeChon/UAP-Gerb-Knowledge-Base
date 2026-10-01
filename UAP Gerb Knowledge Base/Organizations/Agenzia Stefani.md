@@ -35,7 +35,7 @@ The three Stefani telegrams from June 13, 1933 were among the authenticated docu
 
 ## Parallel to Modern Disinformation
 
-The Stefani model of rapid, centralized media control and coordinated cover stories anticipates modern allegations about UAP-related disinformation campaigns. In a single day, Stefani moved from an order of silence to the meteor explanation to a complete news blackout. Modern UAP researchers have documented similar rapid shifts in the official account after significant UAP incidents, such as the [[1947 Roswell Crash]], which went from "flying disc" to "weather balloon" within 24 hours.
+The Stefani model of rapid, centralized media control and coordinated cover stories anticipates modern allegations about UAP-related disinformation campaigns. In a single day, Stefani moved from an order of silence to the meteor explanation to a complete news blackout. Modern UAP researchers have documented similar rapid shifts in the official account after significant UAP incidents, such as the [[Roswell Crash|1947 Roswell Crash]], which went from "flying disc" to "weather balloon" within 24 hours.
 
 ## Sources
 

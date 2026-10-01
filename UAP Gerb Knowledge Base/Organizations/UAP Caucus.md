@@ -14,7 +14,7 @@ As of 2024, the UAP Caucus included the following Congressional representatives:
 - Representative [[Tim Burchett]] (R-TN)
 - Representative [[Anna Paulina Luna]] (R-FL)
 - Representative [[Eric Burlison]] (R-MO)
-- Representative [[Jared Moskowitz]] (D-FL)
+- Representative [[Representative Moskowitz|Jared Moskowitz]] (D-FL)
 
 Its membership shows bipartisan interest in UAP transparency and in oversight of alleged legacy programs.
 
@@ -36,7 +36,7 @@ The UAP Caucus's stated objectives are to:
 - Investigate alleged crash retrieval and reverse engineering operations
 - Provide Congressional oversight of UAP-related Special Access Programs
 - Protect UAP whistleblowers from retaliation
-- Bring credible UAP incidents (including historical crashes such as Bolivia, [[Roswell]], and others) into formal Congressional inquiry
+- Bring credible UAP incidents (including historical crashes such as Bolivia, [[Roswell Crash|Roswell]], and others) into formal Congressional inquiry
 
 ## Sources
 

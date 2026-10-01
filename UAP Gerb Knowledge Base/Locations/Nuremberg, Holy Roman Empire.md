@@ -13,7 +13,7 @@ On an unspecified morning in 1561, a broadsheet news article printed and distrib
 
 The event is one of the earliest examples in recorded Western history of a mass sighting consistent with modern UAP descriptions. The account includes craft of several distinct shapes, apparently structured behavior, and an ending interpreted as a crash. The broadsheet's descriptions are detailed and consistent from one witness to the next, which makes dismissive explanations difficult. Skeptics have proposed mass hysteria or a sun dog (a refraction phenomenon caused by ice crystals in the atmosphere), but neither explanation adequately accounts for the variety of shapes described, the apparent direction and motion of the objects, or the reported crash of some of them near the ground.
 
-The 1561 Nuremberg event is often cited alongside cases such as the [[1566 Basel UFO Sighting]] and the [[1897 Aurora, Texas UFO Crash]] as evidence that the UAP phenomenon predates the modern era of aviation and cannot be explained solely by misidentification of human technology.
+The 1561 Nuremberg event is often cited alongside cases such as the 1566 Basel UFO Sighting and the [[Aurora Texas UFO Crash|1897 Aurora, Texas UFO Crash]] as evidence that the UAP phenomenon predates the modern era of aviation and cannot be explained solely by misidentification of human technology.
 
 ## Sources
 

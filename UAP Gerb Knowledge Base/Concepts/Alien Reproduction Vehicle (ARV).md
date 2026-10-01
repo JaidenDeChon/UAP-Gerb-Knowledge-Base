@@ -4,7 +4,7 @@ tags:
   - concept
 ---
 
-An Alien Reproduction Vehicle (ARV) is an alleged human-built aircraft or spacecraft that copies technology reverse engineered from recovered craft built by a non-human intelligence. The term was first used for the 1988 exhibit at [[Norton Air Force Base]] that [[Brad Sorenson]] witnessed, where the DOD and private industry displayed their attempts to reproduce anti-gravity flying saucers. On November 13, 2024, the term "ARV" entered the Congressional hearing record through the [[Immaculate Constellation (IMCON)]] report, which used it for triangular craft that [[INDOPACOM]] intelligence assets had captured.
+An Alien Reproduction Vehicle (ARV) is an alleged human-built aircraft or spacecraft that copies technology reverse engineered from recovered craft built by a non-human intelligence. The term was first used for the 1988 exhibit at [[Norton Air Force Base]] that [[Brad Sorenson]] witnessed, where the DOD and private industry displayed their attempts to reproduce anti-gravity flying saucers. On November 13, 2024, the term "ARV" entered the Congressional hearing record through the [[Immaculate Constellation (IMCON)]] report, which used it for triangular craft that INDOPACOM intelligence assets had captured.
 
 ## Morphologies
 
@@ -12,7 +12,7 @@ UAP researchers and alleged insiders describe at least two main ARV shapes.
 
 The first is the disc or saucer, called the Flux Liner. This is the original ARV that Brad Sorenson saw at Norton AFB in 1988 and that [[Mark McCandlish]] illustrated. It is a smooth, seamless disc with a central column ringed by concentric capacitor plates and a crew compartment above them. It allegedly runs on [[Electrogravitics]], magnetohydrodynamics or zero-point energy systems. The pilot steers it with a red sphere or trackball mounted on the armrest.
 
-The second is the triangle, the TR-3B and its variants: a pitch-black equilateral craft with a bright white light at each corner and a red or amber light in the center of the underside. The [[TR-3B]] is the best documented of these and allegedly uses a [[Magnetic Field Disruptor (MFD)]] to cut its mass by 89%. Other alleged triangle variants include the [[XF-131 Super Sentinel]], [[TR-3A]], and TR-3E. According to AARO historical reports, triangular ARVs make up 3–4% of all reported UAPs.
+The second is the triangle, the TR-3B and its variants: a pitch-black equilateral craft with a bright white light at each corner and a red or amber light in the center of the underside. The [[TR-3B]] is the best documented of these and allegedly uses a [[Magnetic Field Disruptor (MFD)]] to cut its mass by 89%. Other alleged triangle variants include the [[XF-131 Super Sentinel]], TR-3A, and TR-3E. According to AARO historical reports, triangular ARVs make up 3–4% of all reported UAPs.
 
 ## Immaculate Constellation Report
 

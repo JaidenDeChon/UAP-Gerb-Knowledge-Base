@@ -20,7 +20,7 @@ Gordon has followed the Kecksburg case since the night it happened, but many of 
 
 Gordon's investigation includes:
 
-- **Records on Cosmos 96.** Through FOIA requests to [[US Space Command]] and the [[Naval Surveillance Center]], Gordon obtained records showing that the Soviet probe [[Cosmos 96]] entered the atmosphere over Canada at about 3:18 a.m. Eastern time on 9 December 1965, roughly 13 hours before the Kecksburg fireball. He concluded that Cosmos 96 did not cause the event.
+- **Records on Cosmos 96.** Through FOIA requests to [[US Space Command]] and the Naval Surveillance Center, Gordon obtained records showing that the Soviet probe [[Cosmos 96]] entered the atmosphere over Canada at about 3:18 a.m. Eastern time on 9 December 1965, roughly 13 hours before the Kecksburg fireball. He concluded that Cosmos 96 did not cause the event.
 - **The WHJB tapes.** Gordon has said he received notarized documents from employees of the radio station WHJB claiming that elements of the U.S. government confiscated news tapes of eyewitness accounts and would not let them be broadcast.
 - **The Lockbourne guard and Myron.** A former member of an Air Force security team contacted Gordon before the 1990 *Unsolved Mysteries* broadcast on Kecksburg. He said he had guarded a bronze, bell-shaped object backed into a hangar at [[Lockbourne Air Force Base, Columbus, Ohio|Lockbourne Air Force Base]] early on 10 December 1965. The trucker known as "[[Myron]]" first contacted Gordon after the broadcast, and Stringfield interviewed him later.
 - **Eric Walker.** Gordon had a report of someone matching the description of [[Eric A. Walker]], then president of Penn State, at the crash site. Walker later told the researcher Armen Victorian that he went there.

@@ -9,7 +9,7 @@ David Icke (born 1952) is a British former television sportscaster and author wh
 
 ## Reptilian Theory
 
-Icke's central claim is that a group of interdimensional reptilian beings, which he calls the "Reptilians" or "Anunnaki" and treats as one and the same, have manipulated human civilization from behind the scenes for thousands of years. He claims prominent political figures, royalty, and corporate leaders are either members of this bloodline or controlled by them. He introduced the idea in his 1999 book *The Big Secret*, where he said the reptilians came from the [[Alpha Draconis]] star system. The theory draws on anti-Semitic conspiracy tropes, as critics and watchdog organizations have documented at length.
+Icke's central claim is that a group of interdimensional reptilian beings, which he calls the "Reptilians" or "Anunnaki" and treats as one and the same, have manipulated human civilization from behind the scenes for thousands of years. He claims prominent political figures, royalty, and corporate leaders are either members of this bloodline or controlled by them. He introduced the idea in his 1999 book *The Big Secret*, where he said the reptilians came from the Alpha Draconis star system. The theory draws on anti-Semitic conspiracy tropes, as critics and watchdog organizations have documented at length.
 
 Equating the reptilians with [[Zecharia Sitchin]]'s [[Anunnaki]] is Icke's own idea. Sitchin himself rejected this interpretation before his death.
 

@@ -11,7 +11,7 @@ The UFO-nuclear connection is an observed and historically documented pattern: u
 The correlation between nuclear activity and UAP interest is clearest in when significant UAP events happened compared with major nuclear milestones:
 
 - The first US atomic tests were conducted 1942–1944.
-- The atomic bombings of [[Hiroshima]] and [[Nagasaki]] occurred in August 1945.
+- The atomic bombings of Hiroshima and Nagasaki occurred in August 1945.
 - The [[Roswell Crash]], the most prominent alleged crash retrieval of non-human technology, occurred in 1947.
 - UFO incidents at US nuclear weapons facilities escalated through the 1950s–1970s.
 
@@ -28,7 +28,7 @@ In several documented cases, the phenomena did more than observe. The full case 
 
 ## Classification Infrastructure
 
-The US government built specific classification structures to contain UAP nuclear records. The [[Atomic Energy Commission]] (AEC) was reportedly used to misclassify UFO records under "trans-classified foreign nuclear information" beginning in 1954, which put them outside normal oversight and [[Freedom of Information Act (FOIA)|FOIA]] access. The AEC's successor agencies, the Nuclear Regulatory Commission (NRC) and the [[Department of Energy]], inherited this institutional context.
+The US government built specific classification structures to contain UAP nuclear records. The [[Atomic Energy Commission]] (AEC) was reportedly used to misclassify UFO records under "trans-classified foreign nuclear information" beginning in 1954, which put them outside normal oversight and FOIA access. The AEC's successor agencies, the Nuclear Regulatory Commission (NRC) and the [[Department of Energy]], inherited this institutional context.
 
 ## Sources
 

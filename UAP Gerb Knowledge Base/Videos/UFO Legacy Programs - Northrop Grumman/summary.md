@@ -31,7 +31,7 @@ stats:
 
 This investigation turns UAP Gerb's series on "UFOs in the private sector" to [[Northrop Grumman]], the builder of the B-2 and B-21 stealth bombers and, in Gerb's view, the contractor that stands beside [[Lockheed Martin]] as "the paramount aerospace corporation entrenched in UFO legacy programs". Earlier episodes covered [[Battelle Memorial Institute]] and Lockheed, which have well-known paper trails: Battelle's alleged work on shape-memory alloys from Roswell, and Lockheed's failed 2008 attempt to hand recovered material to [[AAWSAP]]. Northrop has no such story. Even the famous triangle and flux liner testimonies mostly centre on Lockheed. Yet, Gerb says, Northrop is "always alongside in the shadows", and this video sets out to find out how far its involvement goes.
 
-The first half builds a paper trail from Northrop's purchases. The 1994 merger of Northrop and Grumman was followed by [[Teledyne Ryan]] (1999) and, as the "capstone", [[TRW]] (2002). TRW brought its own history: it spun off the [[Aerospace Corporation]] in 1960, the federally funded research and development center (FFRDC) that [[Eric Davis]] all but named as a legacy contractor. TRW is also tied to [[Eric A. Walker]], to a rumored crash retrieval program called [[Operation Zodiac|Zodiac]], and to [[BDM International]], whose staff and board included [[Albert Stubblebine]] and [[Sumar Shapiro|Sumner Shapiro]]. Gerb's sharpest argument joins the [[Wilson-Davis Memo|Wilson-Davis notes]] to a court record. The notes say a 1990s audit nearly exposed the legacy programs; in 2003 Northrop paid $111 million to settle a suit over TRW's early-1990s overcharging on space contracts, which Gerb believes was that same audit catching hidden program money.
+The first half builds a paper trail from Northrop's purchases. The 1994 merger of Northrop and Grumman was followed by [[Teledyne Ryan]] (1999) and, as the "capstone", [[TRW]] (2002). TRW brought its own history: it spun off the [[Aerospace Corporation]] in 1960, the federally funded research and development center (FFRDC) that [[Eric Davis]] all but named as a legacy contractor. TRW is also tied to [[Eric A. Walker]], to a rumored crash retrieval program called [[Operation Zodiac|Zodiac]], and to [[BDM International]], whose staff and board included [[Albert Stubblebine]] and [[Sumner Shapiro]]. Gerb's sharpest argument joins the [[Wilson-Davis Memo|Wilson-Davis notes]] to a court record. The notes say a 1990s audit nearly exposed the legacy programs; in 2003 Northrop paid $111 million to settle a suit over TRW's early-1990s overcharging on space contracts, which Gerb believes was that same audit catching hidden program money.
 
 The second half gathers what witnesses say about Northrop directly. [[Karl Nell]], an Army colonel who says there is "zero doubt" that non-human intelligence exists, spent 13 years as Northrop's deputy CTO. A 1968 Northrop Norair paper on electrostatic drag reduction reportedly vanished in 2002, and some researchers link it to the B-2. [[Bill Hamilton|William Hamilton]], [[Bill McDonald]] and [[Richard Sauder]] each point to Northrop's radar cross-section range at [[Tejon Ranch]] and its alleged underground levels. [[Edgar Fouche|Edgar Fouché]] names Northrop among the [[TR-3B]]'s contractors. [[Steve Wilson|Colonel Steve Wilson]] credits it with an anti-gravity disc nicknamed the "Great Pumpkin". [[Arnold House]]'s source says his paychecks at [[Area 51]] came from Northrop and names the program [[Project Redlight|Project Red Light]]. Gerb concludes that Northrop is one of the "Mount Rushmore" of legacy contractors. Its silence, he argues, reflects secrecy rather than a smaller role.
 
@@ -215,8 +215,8 @@ events:
     category: event
     significance: major
     entities:
-      - "Sumar Shapiro"
-      - "Bob Echler"
+      - "Sumner Shapiro"
+      - "Bob Oechsler"
       - "Bobby Ray Inman"
       - "BDM International"
   - date: "1992"
@@ -379,7 +379,7 @@ events:
   - date: "2008"
     title: "Lockheed offers to divest material to AAWSAP"
     cue: 3592
-    summary: "Gerb recounts Lockheed's 2008 offer to transfer recovered material, likely from the 1953 Kingman crash, to the AAWSAP program, blocked by Glenn Gaffney of the CIA Directorate of Science and Technology. He contrasts Lockheed's opportunism with Northrop, which never offers to give material up."
+    summary: "Gerb recounts Lockheed's 2008 offer to transfer recovered material, likely from the 1953 Kingman crash, to the AAWSAP program, blocked by Glenn Gaffney of the CIA Directorate of Science and Technology. (Gerb's later Lockheed video ties Gaffney to the 2011 Kona Blue attempt and James Clapper to the 2008–09 one.) He contrasts Lockheed's opportunism with Northrop, which never offers to give material up."
     category: event
     significance: notable
     entities:
@@ -488,7 +488,7 @@ entries:
   - name: Albert Stubblebine
     role: Major general; INSCOM commander, then BDM vice president
     note: "Replaced at INSCOM in 1984 and joined BDM, which the next year hosted a theoretical physics conference on UFO reverse engineering opportunities."
-  - name: Sumar Shapiro
+  - name: Sumner Shapiro
     role: Rear admiral; former Director of Naval Intelligence; BDM board member
     note: "In 1989 told NASA's Bob Oechsler that he had studied an extraterrestrial craft at close quarters."
   - name: Bobby Ray Inman
@@ -500,7 +500,7 @@ entries:
 ---
 ::
 
-Stubblebine's [[Army INSCOM|INSCOM]] and its Intelligence Support Activity are, Gerb says, historically involved with crash retrieval. Shapiro's account came through [[Bobby Ray Inman]], who in 1989 introduced NASA mission specialist [[Bob Echler|Bob Oechsler]] to him. Inman was then on the boards of SAIC and [[Wackenhut Services|Wackenhut]]. Shapiro said factions in the US held extraterrestrial vehicles and that teams dismantled craft and shipped them across the country. Their interlocking parts had to be taken apart in an exact sequence to be put back together.
+Stubblebine's [[Army INSCOM|INSCOM]] and its Intelligence Support Activity are, Gerb says, historically involved with crash retrieval. Shapiro's account came through [[Bobby Ray Inman]], who in 1989 introduced NASA mission specialist [[Bob Oechsler]] to him. Inman was then on the boards of SAIC and [[Wackenhut Services|Wackenhut]]. Shapiro said factions in the US held extraterrestrial vehicles and that teams dismantled craft and shipped them across the country. Their interlocking parts had to be taken apart in an exact sequence to be put back together.
 
 For Gerb, TRW, Teledyne Ryan and BDM show how "Northrop Grumman and its many acquisitions interweave intimately" with cases the channel has covered. If Corso is right, Northrop's modern legacy work goes back to the 1958-1962 golden age, and many of its purchases were of companies with legacy programs already running.
 
@@ -740,7 +740,7 @@ In his closing remarks Gerb admits Northrop leaves "a lot less tangible paper tr
 
 ::wiki-grid{cols=3}
 ::wiki-panel{title="Lockheed Martin: the hound dog"}
-It answers every beck and call and is "the loudest in the room", an opportunist. Its 2008 offer to divest material to AAWSAP, blocked by [[Glenn Gaffney]] of the CIA Directorate of Science and Technology, was probably material it could not crack itself, likely from the [[1953 Kingman, Arizona Crash Retrieval|1953 Kingman crash]], given up to win favour with the CIA and NRO.
+It answers every beck and call and is "the loudest in the room", an opportunist. Its 2008 offer to divest material to AAWSAP, blocked by [[Glenn Gaffney]] of the CIA Directorate of Science and Technology (his later Lockheed video ties Gaffney to the 2011 attempt instead), was probably material it could not crack itself, likely from the [[1953 Kingman, Arizona Crash Retrieval|1953 Kingman crash]], given up to win favour with the CIA and NRO.
 ::
 ::wiki-panel{title="Northrop Grumman: in the shadows" tone="accent"}
 It does not offer to divest material, and it is "tag-lined" in testimonies like Fouché's as the one in the shadows. Gerb believes its work is material exploitation, reverse engineering, ARV testing and likely project management of Red Light, if that program still runs after Ed's time at Nellis and Edwards ended around 2006 to 2008.
@@ -772,7 +772,7 @@ His "Mount Rushmore of legacy operations" is Lockheed, Boeing (likely a project 
 
 ## Related Pages
 
-- **People**: [[Karl Nell]], [[Eric A. Walker]], [[Eric Davis]], [[Philip J. Corso]], [[Arthur Trudeau]], [[Robert Sarbacher]], [[Vannevar Bush]], [[Albert Stubblebine]], [[Sumar Shapiro]], [[Bob Echler]], [[Bobby Ray Inman]], [[Will Miller]], [[Thomas Wilson]], [[Catherine Austin Fitts]], [[Edgar Fouche]], [[Steve Wilson]], [[Arnold House]], [[Richard Boylan]], [[Bill Hamilton]], [[Bill McDonald]], [[Richard Sauder]], [[Leonard Stringfield]], [[Michael Schratt]], [[Nick Cook]], [[T. Townsend Brown]], [[Steven Greer]], [[Curtis LeMay]], [[Brad Sorenson]], [[Mark McCandlish]], [[Kevin Randle]], [[Richard Dolan]], [[Luis Elizondo]], [[Jake Barber]], [[David Grusch]], [[Christopher Sharp]], [[Glenn Gaffney]], [[Bob Lazar]]
+- **People**: [[Karl Nell]], [[Eric A. Walker]], [[Eric Davis]], [[Philip J. Corso]], [[Arthur Trudeau]], [[Robert Sarbacher]], [[Vannevar Bush]], [[Albert Stubblebine]], [[Sumner Shapiro]], [[Bob Oechsler]], [[Bobby Ray Inman]], [[Will Miller]], [[Thomas Wilson]], [[Catherine Austin Fitts]], [[Edgar Fouche]], [[Steve Wilson]], [[Arnold House]], [[Richard Boylan]], [[Bill Hamilton]], [[Bill McDonald]], [[Richard Sauder]], [[Leonard Stringfield]], [[Michael Schratt]], [[Nick Cook]], [[T. Townsend Brown]], [[Steven Greer]], [[Curtis LeMay]], [[Brad Sorenson]], [[Mark McCandlish]], [[Kevin Randle]], [[Richard Dolan]], [[Luis Elizondo]], [[Jake Barber]], [[David Grusch]], [[Christopher Sharp]], [[Glenn Gaffney]], [[Bob Lazar]]
 - **Organizations**: [[Northrop Grumman]], [[Northrop Advanced Technology and Design Center (NATDC)]], [[TRW]], [[Teledyne Ryan]], [[BDM International]], [[Aerospace Corporation]], [[MITRE Corporation]], [[Sperry Rand]], [[Honeywell]], [[Lockheed Martin]], [[Lockheed Martin Skunk Works]], [[Boeing]], [[SAIC]], [[Battelle Memorial Institute]], [[Decision Science Applications, Inc. (DSAI)]], [[EG&G]], [[Sandia National Laboratories]], [[Lawrence Livermore National Laboratory]], [[Los Alamos National Laboratory]], [[SAPOC (Special Access Program Oversight Committee)]], [[Army INSCOM]], [[U.S. Army Foreign Technology Division]], [[Majestic 12]], [[NRO (National Reconnaissance Office)]], [[NSA]], [[NGA]], [[JSOC (Joint Special Operations Command)]], [[CIA Office of Global Access]], [[UAP Task Force]], [[Disclosure Project]], [[Wackenhut Services]], [[412th Test Wing]], [[Naval Surface Warfare Center Crane]]
 - **Locations**: [[Tejon Ranch]], [[Tehachapi, California]], [[Helendale]], [[Antelope Valley]], [[Palmdale, California]], [[Air Force Plant 42]], [[Edwards Air Force Base]], [[Norton Air Force Base]], [[Area 51]], [[Papoose Lake]], [[Dugway Proving Ground]], [[Wright-Patterson Air Force Base]], [[Vandenberg Air Force Base]], [[Cheyenne Mountain Complex]], [[Nellis Air Force Base]], [[Nevada Test and Training Range (NTR)]], [[Fort Bliss]], [[White Sands Missile Range]]
 - **Concepts**: [[UFO Legacy Program Framework]], [[Waived Unacknowledged Special Access Programs (USAPs)]], [[Federally Funded Research and Development Center (FFRDC)]], [[C4ISR]], [[Strategic Defense Initiative (SDI)]], [[Wilson-Davis Memo]], [[Electrogravitics]], [[Alien Reproduction Vehicle (ARV)]], [[TR-3B]], [[XF-131 Super Sentinel]], [[XH-75D]], [[Nuclear Subterrene]], [[Deep Underground Military Bases (DUMBs)]], [[Robertson Panel]], [[Off-World Technologies Division]], [[Hidden Wing]]

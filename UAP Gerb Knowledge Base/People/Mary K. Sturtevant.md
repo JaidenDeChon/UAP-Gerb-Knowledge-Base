@@ -1,6 +1,6 @@
 ---
-name: "Mary K. Sturdivant"
-aliases: ["Mary K. Sturtevant", "Mary Sturtevant"]
+name: "Mary K. Sturtevant"
+aliases: ["Mary K. Sturdivant", "Mary Sturtevant"]
 role: "Former CIA officer, Senate Intelligence Committee budget director, NSC senior director and NRO deputy director; Lockheed Martin vice president (2006-2021)"
 active_from: 1985
 active_to: 2021
@@ -10,7 +10,7 @@ tags:
 
 Mary K. Sturtevant, whose surname Gerb's videos also render as Sturdivant, is a former US intelligence and national security official whose career ran through the [[CIA]], the [[Senate Select Committee on Intelligence]], the [[National Security Council]] and the [[NRO (National Reconnaissance Office)|NRO]] before she became a vice president at [[Lockheed Martin]]. Gerb "formally" identifies her as a high-level member of Lockheed's UFO legacy program operations, and argues that during the failed 2011 [[Kona Blue]] transfer her loyalty to the CIA may have outweighed her duties at Lockheed. He calls the case for that "very strong" while saying it remains unknown.
 
-The White House statement on her 2001 appointment to the National Security Council and Gerb's own posts spell the name Sturtevant. The video captions mostly give "Sturivant" or "Sturdivant", which is where this page's title comes from.
+The White House statement on her 2001 appointment to the National Security Council and Gerb's own posts spell the name Sturtevant. The video captions mostly give "Sturivant" or "Sturdivant".
 
 ## Career
 
@@ -26,7 +26,7 @@ Little about Sturtevant is online, and Gerb calls her "largely a ghost." He piec
 
 ### BDM in Gerb's coverage
 
-Gerb dwells on BDM because he has implicated it, its 1997 buyer TRW and TRW's 2002 buyer [[Northrop Grumman]] in UFO legacy programs. BDM worked from Fort Bliss, Texas, White Sands Missile Range and Holloman Air Force Base on missile guidance, applied optics, electronic instrumentation and radiation physics. It was founded in 1959, around the same time as [[MITRE Corporation|MITRE]] and the [[Aerospace Corporation]], two federally funded research and development centres he considers central to legacy programs. In the [[Wilson-Davis Memo|Wilson-Davis notes]], Commander [[Will Miller]] named BDM, with Boeing, Lockheed and SAIC, among the contractors where the "keepers of the secrets" resided. [[Albert Stubblebine]] became a BDM vice president after leaving INSCOM in 1984, and the firm hosted an advanced theoretical physics conference the following year to discuss UFO reverse-engineering opportunities. Rear Admiral [[Sumar Shapiro]], who described recovered craft to [[Bob Echler]] at [[Bobby Ray Inman]]'s recommendation, sat on its board. Gerb says Stubblebine and Sturtevant "could have certainly crossed paths at BDM."
+Gerb dwells on BDM because he has implicated it, its 1997 buyer TRW and TRW's 2002 buyer [[Northrop Grumman]] in UFO legacy programs. BDM worked from Fort Bliss, Texas, White Sands Missile Range and Holloman Air Force Base on missile guidance, applied optics, electronic instrumentation and radiation physics. It was founded in 1959, around the same time as [[MITRE Corporation|MITRE]] and the [[Aerospace Corporation]], two federally funded research and development centres he considers central to legacy programs. In the [[Wilson-Davis Memo|Wilson-Davis notes]], Commander [[Will Miller]] named BDM, with Boeing, Lockheed and SAIC, among the contractors where the "keepers of the secrets" resided. [[Albert Stubblebine]] became a BDM vice president after leaving INSCOM in 1984, and the firm hosted an advanced theoretical physics conference the following year to discuss UFO reverse-engineering opportunities. Rear Admiral [[Sumner Shapiro]], who described recovered craft to [[Bob Oechsler]] at [[Bobby Ray Inman]]'s recommendation, sat on its board. Gerb says Stubblebine and Sturtevant "could have certainly crossed paths at BDM."
 
 ## Alleged Role in Blocking Kona Blue
 

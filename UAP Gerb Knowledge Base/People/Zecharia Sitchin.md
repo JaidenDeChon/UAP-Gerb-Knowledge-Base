@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Zecharia Sitchin (1920–2010) was a Soviet-born American author best known for his highly contested interpretations of ancient Sumerian cuneiform texts. Beginning with his 1976 book *The 12th Planet*, Sitchin proposed that the Sumerian pantheon of gods, the [[Anunnaki]], were physical extraterrestrial beings from an undiscovered planet called [[Nibiru]]. In his account, they arrived on Earth hundreds of thousands of years ago, mined gold, and genetically engineered *Homo sapiens* as a slave labor species by merging their own DNA with that of *Homo erectus*. His interpretations are widely rejected by academic Assyriologists and Sumerian scholars.
+Zecharia Sitchin (1920–2010) was a Soviet-born American author best known for his highly contested interpretations of ancient Sumerian cuneiform texts. Beginning with his 1976 book *The 12th Planet*, Sitchin proposed that the Sumerian pantheon of gods, the [[Anunnaki]], were physical extraterrestrial beings from an undiscovered planet called Nibiru. In his account, they arrived on Earth hundreds of thousands of years ago, mined gold, and genetically engineered *Homo sapiens* as a slave labor species by merging their own DNA with that of *Homo erectus*. His interpretations are widely rejected by academic Assyriologists and Sumerian scholars.
 
 ## Claims and Published Works
 

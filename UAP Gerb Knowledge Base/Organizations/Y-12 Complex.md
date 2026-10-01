@@ -19,7 +19,7 @@ For more than six decades, Y-12 has been the national center for handling, proce
 
 ## Connection to UAP Legacy Program Allegations
 
-Y-12 shares the Oak Ridge Reservation with [[Oak Ridge National Laboratory]]. That puts it, geographically and institutionally, within allegations that the [[Office of Intelligence and Counterintelligence]] (OICI) runs UAP legacy program operations at DOE [[Federally Funded Research and Development Centers (FFRDCs)|FFRDCs]] in the Oak Ridge area. When this alleged legacy program connection is discussed, Y-12 is cited alongside Oak Ridge National Laboratory because it handles the most sensitive nuclear materials in the U.S. stockpile and operates under extraordinary levels of physical security and compartmentalization.
+Y-12 shares the Oak Ridge Reservation with [[Oak Ridge National Laboratory]]. That puts it, geographically and institutionally, within allegations that the [[Office of Intelligence and Counterintelligence]] (OICI) runs UAP legacy program operations at DOE [[Federally Funded Research and Development Center (FFRDC)|FFRDCs]] in the Oak Ridge area. When this alleged legacy program connection is discussed, Y-12 is cited alongside Oak Ridge National Laboratory because it handles the most sensitive nuclear materials in the U.S. stockpile and operates under extraordinary levels of physical security and compartmentalization.
 
 ## Sources
 

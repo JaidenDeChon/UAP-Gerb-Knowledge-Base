@@ -13,7 +13,7 @@ Witnesses across Norway and Sweden saw a pulsing blue-white light coming from a 
 
 ## Official Explanation
 
-On December 10, 2009, the Russian Defense Ministry announced that the phenomenon had been caused by a failed test of a [[Bulava ballistic missile]]. The missile's third stage failed to separate, and propellant vented sideways out of the spinning missile. As it traveled through the upper atmosphere, the missile threw fuel and exhaust outward in all directions, which produced the spiral.
+On December 10, 2009, the Russian Defense Ministry announced that the phenomenon had been caused by a failed test of a Bulava ballistic missile. The missile's third stage failed to separate, and propellant vented sideways out of the spinning missile. As it traveled through the upper atmosphere, the missile threw fuel and exhaust outward in all directions, which produced the spiral.
 
 Scientists and skeptics widely accepted the explanation. The time and location of the missile test matched exactly when the spiral was seen and where the witnesses were.
 

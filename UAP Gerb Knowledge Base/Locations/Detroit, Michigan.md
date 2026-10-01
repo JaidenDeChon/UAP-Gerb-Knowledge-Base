@@ -11,7 +11,7 @@ Detroit is the largest city in Michigan and a major industrial and population ce
 
 Detroit is cited as part of a global pattern of triangular UAP sightings, which Gerb analyzes in connection with allegations about man-made alien reproduction vehicles (ARVs) and classified triangular craft programs. The sightings catalogued in his video span multiple countries and decades. The craft described have consistent features: they are large, slow-moving equilateral triangles, silent or near-silent, with lights at each vertex and often a central glow.
 
-The Detroit area lies in the densely populated corridor of the Midwest and Great Lakes region, which has produced numerous triangular craft reports with multiple witnesses. Gerb sets these reports against the claims of figures including USAF Master Sergeant [[Edgar Fouché]], who described the TR-3B as a triangular craft developed at classified facilities including [[Area 51]] and related ranges. He also compares them with sightings from the same era in Wisconsin, England, and elsewhere.
+The Detroit area lies in the densely populated corridor of the Midwest and Great Lakes region, which has produced numerous triangular craft reports with multiple witnesses. Gerb sets these reports against the claims of figures including USAF Master Sergeant [[Edgar Fouche|Edgar Fouché]], who described the TR-3B as a triangular craft developed at classified facilities including [[Area 51]] and related ranges. He also compares them with sightings from the same era in Wisconsin, England, and elsewhere.
 
 ## Source Limitations
 

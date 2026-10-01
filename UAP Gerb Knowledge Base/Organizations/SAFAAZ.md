@@ -9,7 +9,7 @@ SAF/AAZ is the Air Force Directorate of Security, Special Program Oversight and 
 
 ## Role in the Hidden Wing thesis
 
-In the video *The Hidden Wing*, Gerb pairs SAF/AAZ with its sister office for sensitive activities ([[SAFAHA|SAF/AAH]]) as the administrative and security envelope around Air Force UFO legacy programs. He singles out nuclear information security because he argues that nuclear classification and "transclassification" have long been used to hide such programs. He presents [[William E. MacLure]], SAF/AAZ director from 2019 to 2021 (rendered "McClure" in the video), as one of two candidates for the redacted "SES-2 Air Force gatekeeper" in [[Chris Mellon]]'s 2024 Signal screenshots. The other candidate is SAF/AAH director [[Russell E. Wiler]].
+In the video *The Hidden Wing*, Gerb pairs SAF/AAZ with its sister office for sensitive activities ([[SAFAHA|SAF/AAH]]) as the administrative and security envelope around Air Force UFO legacy programs. He singles out nuclear information security because he argues that nuclear classification and "transclassification" have long been used to hide such programs. He presents [[William E. MacLure]], SAF/AAZ director from 2019 to 2021 (rendered "McClure" in the video), as one of two candidates for the redacted "SES-2 Air Force gatekeeper" in [[Chris Mellon]]'s 2024 Signal screenshots. The other candidate is SAF/AAH director [[Russell E. Wyler]].
 
 ## Sources
 

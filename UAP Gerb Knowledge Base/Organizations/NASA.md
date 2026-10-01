@@ -13,7 +13,7 @@ NASA operates modified F-18A aircraft with cameras mounted inside, behind the pi
 
 ## UAP-Related Activity
 
-NASA staff have occasionally come up in UAP research. Bob Echler, a NASA mission specialist, reportedly carried out a UFO-related inquiry with [[Bobby Ray Inman|Inman]], but the details of that investigation remain vague. NASA's unique access to aerospace technology, tracking systems, and scientific expertise makes it a potential player in government UAP analysis. Its official involvement in UAP research, however, has been limited and narrowly defined compared with DoD programs.
+NASA staff have occasionally come up in UAP research. Bob Oechsler, a NASA mission specialist, reportedly carried out a UFO-related inquiry with [[Bobby Ray Inman|Inman]], but the details of that investigation remain vague. NASA's unique access to aerospace technology, tracking systems, and scientific expertise makes it a potential player in government UAP analysis. Its official involvement in UAP research, however, has been limited and narrowly defined compared with DoD programs.
 
 ## Sources
 

@@ -55,6 +55,12 @@ The vault has aliased wikilinks like
 is "Strategic Defense Initiative (SDI)". Only the real title resolves through
 `/api/resolve`. Aliases, partial titles, and typos do not.
 
+A page's frontmatter `aliases:` list does not help either. Neither
+`resolveWikiTarget` in `app/wiki/vault.ts` nor `/api/resolve` reads it, and
+Obsidian does not follow a bare `[[Alias]]` link. To fix a link written to an
+alias, point it at the real file and keep the old text as the label:
+`[[Real Page Name|old text]]`.
+
 **A name that doesn't resolve fails silently.** It just renders as plain,
 unlinked text — no error, no dead-link warning, no console message. A typo
 is trivially easy to miss during authoring. When you write an entity name
@@ -1274,6 +1280,9 @@ Authoring rules:
 - **Only verified dates** (see `person-enricher.md`, Phase 2). Mark an
   estimate `approx: true` and say why in the caption.
 - **A post with no page is fine as `text:`.** Don't invent a page title.
+- **Leave out `to` only when the end is unknown.** The row then reads "From
+  2016" and its bar is a one-year stub that fades out; it does not run to
+  today. For a post the person still holds, write `to: "present"`.
 
 ### `::wiki-record`
 

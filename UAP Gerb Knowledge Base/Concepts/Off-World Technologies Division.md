@@ -64,7 +64,7 @@ Staff explicitly told [[RA]] that both objects "somehow interacted with consciou
 - It was unclear what decides who gets a response; it might relate to DNA, type of consciousness or other factors
 - No one at the facility appeared to understand how the interaction works
 - This fits [[SAIC]]'s documented research into anomalous cognition, remote viewing and consciousness-based phenomena
-- It resembles the account of independent witness [[Martin (witness)]], in which scientists presented a consciousness-interactive sphere in a briefcase
+- It resembles the account of independent witness Martin (witness), in which scientists presented a consciousness-interactive sphere in a briefcase
 
 ### Incomprehensibility to Human Scientists
 
@@ -138,7 +138,7 @@ Personnel exposed to the Off-World Technologies Division reported significant ef
 - a natural psychological response to ontological shock
 - a combination of factors
 
-This fits research by [[Gary Nolan]] on UAP-induced cognitive effects and the alleged use of "[[Anchors (UAP Recovery Protocol)]]" by recovery operators to keep personnel grounded in reality.
+This fits research by [[Gary Nolan]] on UAP-induced cognitive effects and the alleged use of "Anchors (UAP Recovery Protocol)" by recovery operators to keep personnel grounded in reality.
 
 ### Ontological Shock
 
@@ -171,7 +171,7 @@ The testimony about the Off-World Technologies Division is considered credible f
 - Alignment with documented [[SAIC]] contracts with Crane totaling hundreds of millions of dollars
 - Consistency with [[SAIC]]'s consciousness research and historical UAP involvement
 - The connection between JSOC and Crane, which establishes a logistics pathway for crash retrieval
-- Independent witness [[Martin (witness)]] describing a strikingly similar consciousness-interactive sphere
+- Independent witness Martin (witness) describing a strikingly similar consciousness-interactive sphere
 - Lack of apparent financial motive or attention-seeking behavior by [[RA]]
 
 ## Sources
@@ -184,13 +184,13 @@ The testimony about the Off-World Technologies Division is considered credible f
 - [[RA]]
 - [[SAIC]]
 - [[Consciousness-Interactive Technology]]
-- [[Reverse Engineering (UAP/UFO technology)]]
-- [[NHI Symbolism/Language]]
-- [[JSOC]]
-- [[Foreign Technology Division]]
+- Reverse Engineering (UAP/UFO technology)
+- NHI Symbolism/Language
+- [[JSOC (Joint Special Operations Command)|JSOC]]
+- Foreign Technology Division
 - [[Interplanetary Phenomenon Unit]]
 - [[Project Blue Book]]
 - [[Daniel Sheehan]]
 - [[Gary Nolan]]
-- [[Anchors (UAP Recovery Protocol)]]
-- [[Off-World Technology]]
+- Anchors (UAP Recovery Protocol)
+- Off-World Technology

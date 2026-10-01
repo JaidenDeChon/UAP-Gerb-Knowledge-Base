@@ -91,15 +91,15 @@ events:
       - "Oak Shannon"
       - "BDM International"
   - date: "1989"
-    title: "The Inman-Echler telephone call"
+    title: "The Inman-Oechsler telephone call"
     summary: "Tells NASA's Bob Oechsler that ten years earlier recovered vehicles would not have been made available for research, and names Everett Heinman as the best person to ask. He also puts Oechsler in touch with Sumner Shapiro."
     category: event
     significance: major
     entities:
-      - "Inman-Echler Telephone Call"
-      - "Bob Echler"
+      - "Inman-Oechsler Telephone Call"
+      - "Bob Oechsler"
       - "Everett Heinman"
-      - "Sumar Shapiro"
+      - "Sumner Shapiro"
   - date: "1989"
     title: "Elected a Caltech trustee"
     category: organization
@@ -127,7 +127,7 @@ items:
     kind: statement
     title: "Recorded telephone call with Bob Oechsler"
     with:
-      - "Bob Echler"
+      - "Bob Oechsler"
     note: "Asked whether recovered vehicles might become available for research outside military circles, he says the answer ten years earlier would have been no, and names Everett Heinman as the person to ask."
     quote: "10 years ago, the answer would have been no."
     source: "US Navy UFO Crash Retrieval & Reverse Engineering Programs"
@@ -152,13 +152,13 @@ items:
 ::wiki-roster
 ---
 entries:
-  - name: "Bob Echler"
+  - name: "Bob Oechsler"
     role: "NASA mission specialist (Bob Oechsler)"
     note: "Phoned Inman in 1989 about recovered vehicles and was referred on to Heinman and Shapiro."
   - name: "Everett Heinman"
     role: "CIA science and technology official; NRO Program B director, 1982 to 1989"
     note: "Named by Inman as the best person to ask. Denied everything to Oechsler; in 2022 neither confirmed nor denied."
-  - name: "Sumar Shapiro"
+  - name: "Sumner Shapiro"
     role: "Former Director of Naval Intelligence (Sumner Shapiro)"
     note: "Introduced to Oechsler by Inman; reportedly described recovered craft dismantled in sequence and shipped between laboratories."
   - name: "Steve Wilson"
@@ -176,17 +176,17 @@ Inman took charge of the [[National Underwater Reconnaissance Office]] on 13 Sep
 
 Inman stated that he was exposed to the Glomar Explorer's activities in Hawaii during 1972–1974, while serving there as assistant chief of staff for intelligence and before he formally took charge of NURO. Those years cover an alleged 1973 UFO retrieval, attributed to the Glomar Explorer, in waters between Hawaii and the mainland.
 
-## 1989 Disclosures to Bob Echler
+## 1989 Disclosures to Bob Oechsler
 
-In 1989 NASA mission specialist [[Bob Echler|Bob Oechsler]] (spelled Echler in the vault and in many captions) telephoned Inman to ask whether recovered UFO vehicles could be made available for civilian scientific research. British Admiral Lord Hill Norton had arranged the introduction, and Gerb's timeline video places the call in October. Inman confirmed that such vehicles existed. He said that ten years earlier the answer to making them available for outside research would have been "no," but that the situation might be changing. He directed Echler to CIA DS&T Deputy Director [[Everett Heinman]] (R. Everett Heinman, who directed the NRO's Program B from 1982 to 1989) as "the best person to ask". Gerb's NRO video says Echler met Heinman at Langley on 10 August 1989, where Heinman denied any knowledge. UAP researchers treat this specific referral as evidence that Inman knew how recovered craft programs were managed within the CIA.
+In 1989 NASA mission specialist [[Bob Oechsler]] (spelled Echler in many captions) telephoned Inman to ask whether recovered UFO vehicles could be made available for civilian scientific research. British Admiral Lord Hill Norton had arranged the introduction, and Gerb's timeline video places the call in October. Inman confirmed that such vehicles existed. He said that ten years earlier the answer to making them available for outside research would have been "no," but that the situation might be changing. He directed Oechsler to CIA DS&T Deputy Director [[Everett Heinman]] (R. Everett Heinman, who directed the NRO's Program B from 1982 to 1989) as "the best person to ask". Gerb's NRO video says Oechsler met Heinman at Langley on 10 August 1989, where Heinman denied any knowledge. UAP researchers treat this specific referral as evidence that Inman knew how recovered craft programs were managed within the CIA.
 
-A later call from Inman's office warned Echler that by discussing Inman's involvement he would be "breaching confidence and/or violation of the secrecy laws". Part of the original 1989 phone call between Inman and Echler is available as a recording.
+A later call from Inman's office warned Oechsler that by discussing Inman's involvement he would be "breaching confidence and/or violation of the secrecy laws". Part of the original 1989 phone call between Inman and Oechsler is available as a recording.
 
-Inman also introduced Echler to former Director of Naval Intelligence [[Sumar Shapiro|Sumner Shapiro]], who told Echler separately in 1989 that he had personally studied extraterrestrial vehicles at close quarters. By sending Echler to both Heinman (CIA DS&T) and Shapiro (Director of Naval Intelligence), Inman linked Navy intelligence and CIA DS&T directly to the alleged structure of the UFO legacy program.
+Inman also introduced Oechsler to former Director of Naval Intelligence [[Sumner Shapiro]], who told Oechsler separately in 1989 that he had personally studied extraterrestrial vehicles at close quarters. By sending Oechsler to both Heinman (CIA DS&T) and Shapiro (Director of Naval Intelligence), Inman linked Navy intelligence and CIA DS&T directly to the alleged structure of the UFO legacy program.
 
 ## Public Statements and Contradictions
 
-In 2022, Inman appeared on the *Project Unity* program and claimed publicly that he had found "plausible explanations for virtually everything that we had observed" about UAP during his active service. UAP researchers describe this statement as a direct contradiction of his private 1989 disclosures to Echler, and cite it as an example of a legacy program being managed through public misdirection. Gerb also sets it against a long line of Navy denials going back to 1951, when Office of Naval Research physicist Urner Liddel claimed that all reports were mirages or balloons.
+In 2022, Inman appeared on the *Project Unity* program and claimed publicly that he had found "plausible explanations for virtually everything that we had observed" about UAP during his active service. UAP researchers describe this statement as a direct contradiction of his private 1989 disclosures to Oechsler, and cite it as an example of a legacy program being managed through public misdirection. Gerb also sets it against a long line of Navy denials going back to 1951, when Office of Naval Research physicist Urner Liddel claimed that all reports were mirages or balloons.
 
 ## Sources
 

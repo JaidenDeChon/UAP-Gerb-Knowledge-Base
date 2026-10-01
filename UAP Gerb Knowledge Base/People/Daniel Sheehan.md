@@ -68,7 +68,7 @@ In Sheehan's words: *"Here's the semicircle of the craft like this and the edges
 
 ### RA's Identification
 
-During his conversations with Green Beret [[RA]], Gerb showed him many of the best-known symbols in ufology, including the [[Roswell I-Beam]]. RA recognised none of them until Gerb reached Sheehan's description, a relatively obscure reference. RA said the symbols drawn from it "look quite close to the symbols projected from this anomalous technology": the characters he says were projected, with no visible projection mechanism, from the gauntlet-like device at the [[Off-World Technologies Division]]. Gerb calls the connection "truly truly fantastic stuff."
+During his conversations with Green Beret [[RA]], Gerb showed him many of the best-known symbols in ufology, including the Roswell I-Beam. RA recognised none of them until Gerb reached Sheehan's description, a relatively obscure reference. RA said the symbols drawn from it "look quite close to the symbols projected from this anomalous technology": the characters he says were projected, with no visible projection mechanism, from the gauntlet-like device at the [[Off-World Technologies Division]]. Gerb calls the connection "truly truly fantastic stuff."
 
 ### A Possible Source Incident: Spitsbergen, 1952
 
@@ -107,5 +107,5 @@ Sheehan represents former AATIP director [[Luis Elizondo]]. In May 2021, with Sh
 - [[Luis Elizondo]]
 - [[Philip J. Corso]]
 - [[Radiance Technologies]]
-- [[Roswell I-Beam]]
+- Roswell I-Beam
 - [[Spitsbergen, Norway]]

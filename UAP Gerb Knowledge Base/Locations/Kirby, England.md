@@ -9,7 +9,7 @@ Kirby, England is the site of a 1999 sighting of a triangular UAP. Gerb identifi
 
 ## The 1999 Sighting
 
-The Kirby sighting was reported in 1999. Gerb's analysis of the [[Flying Triangles]] phenomenon catalogues it alongside a similar 1999 sighting by [[Colin Saunders]] and his family elsewhere in the United Kingdom. The Saunders account described a 50-foot triangular craft with a pyramid-shaped upper profile, a flowing exterior like liquid mercury, and a raised pattern resembling a docking mechanism on its top and bottom surfaces. The craft pitched up and down approximately 15 degrees as if submerged in water. Both the Kirby and Saunders sightings are assessed as closer to the XF-131 Super Sentinel than to the standard TR-3B, mainly because both describe a pyramid-shaped upper fuselage, which the TR-3B's documented profile lacks.
+The Kirby sighting was reported in 1999. Gerb's analysis of the Flying Triangles phenomenon catalogues it alongside a similar 1999 sighting by [[Colin Saunders]] and his family elsewhere in the United Kingdom. The Saunders account described a 50-foot triangular craft with a pyramid-shaped upper profile, a flowing exterior like liquid mercury, and a raised pattern resembling a docking mechanism on its top and bottom surfaces. The craft pitched up and down approximately 15 degrees as if submerged in water. Both the Kirby and Saunders sightings are assessed as closer to the XF-131 Super Sentinel than to the standard TR-3B, mainly because both describe a pyramid-shaped upper fuselage, which the TR-3B's documented profile lacks.
 
 ## XF-131 Super Sentinel Identification
 

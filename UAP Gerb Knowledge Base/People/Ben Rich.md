@@ -117,7 +117,7 @@ Rich's interest in UFOs is documented in writing. On 10 July 1986, [[John B. Ale
 
 ## Corroboration by James Goodall
 
-Aviation journalist [[James Goodall]], a close friend of Rich, provided further corroboration. In a conversation with [[Jesse Michaels]], Goodall said Rich told him: "We have things out there that are literally out of this world. Better than Star Trek or anything you can see in the movies."
+Aviation journalist [[James Goodall]], a close friend of Rich, provided further corroboration. In a conversation with [[Jesse Michels]], Goodall said Rich told him: "We have things out there that are literally out of this world. Better than Star Trek or anything you can see in the movies."
 
 During a hospital visit before Rich's death, Rich told Goodall: "Jim, we have things out in the desert that is 50 years beyond what you can comprehend. If you've seen movies like Star Trek or Star Wars, we've been there, done that, or decided it wasn't worth the effort." Rich specified, however, that the advanced technology was "not at Area 51. It's out in the desert there", possibly a reference to [[Helendale]], [[Tehachapi, California|Tehachapi]] or other Lockheed test ranges. Gerb calls the Goodall account the most interesting mention of Rich.
 

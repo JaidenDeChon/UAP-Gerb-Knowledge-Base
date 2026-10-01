@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Second Lieutenant George F. Gorman was an experienced World War II veteran pilot who became a second lieutenant in the [[North Dakota National Guard]] after 1945. On October 1, 1948, Gorman chased an unidentified glowing object over [[Fargo, North Dakota, USA|Fargo, North Dakota]] for 27 minutes, an incident that became known as the [[Gorman Dogfight]]. Captain [[Edward J. Ruppelt]], who later headed [[Project Grudge]] and [[Project Blue Book]], cited the Gorman case as one of three classic UFO incidents in 1948 that "proved to Air Force intelligence specialists that UFOs were real."
+Second Lieutenant George F. Gorman was an experienced World War II veteran pilot who became a second lieutenant in the North Dakota National Guard after 1945. On October 1, 1948, Gorman chased an unidentified glowing object over [[Fargo, North Dakota, USA|Fargo, North Dakota]] for 27 minutes, an incident that became known as the [[Gorman Dogfight]]. Captain [[Edward J. Ruppelt]], who later headed [[Project Grudge]] and [[Project Blue Book]], cited the Gorman case as one of three classic UFO incidents in 1948 that "proved to Air Force intelligence specialists that UFOs were real."
 
 ## The Gorman Dogfight Encounter
 

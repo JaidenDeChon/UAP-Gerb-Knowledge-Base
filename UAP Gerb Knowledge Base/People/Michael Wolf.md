@@ -13,7 +13,7 @@ Wolf claimed to have been a scientific consultant to the National Security Counc
 
 ## SR-33A and Aurora Craft
 
-Wolf introduced the designation SR-33A for a craft described as similar to the [[TR-3B]] and the Lockheed Pulsar. It allegedly combined conventional fuel with anti-gravity field propulsion and operated under a secret space program. The SR-33A is considered part of the wider [[Aurora Craft|Aurora family]] of classified aerospace vehicles developed under the [[Aurora Program]] and funded through the Strategic Defense Initiative (SDI) and black budget appropriations.
+Wolf introduced the designation SR-33A for a craft described as similar to the [[TR-3B]] and the Lockheed Pulsar. It allegedly combined conventional fuel with anti-gravity field propulsion and operated under a secret space program. The SR-33A is considered part of the wider [[Aurora Program|Aurora family]] of classified aerospace vehicles developed under the [[Aurora Program]] and funded through the Strategic Defense Initiative (SDI) and black budget appropriations.
 
 UAP researchers treat Wolf's claims with caution, and they remain unverified, but the SR-33A designation has made its way into the wider literature on alleged reverse-engineered triangular craft.
 

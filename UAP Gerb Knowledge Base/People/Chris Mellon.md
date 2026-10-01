@@ -12,7 +12,7 @@ Chris Mellon is a former senior U.S. government official. He was Deputy Assistan
 
 ## Career
 
-Mellon was born on 2 October 1957 in Topeka, Kansas, into the Mellon family of Pittsburgh. He took a degree in economics at Colby College in 1980 and a master's in international relations at Yale in 1984. He spent about twelve years on Capitol Hill, much of it as a professional staff member of the Senate Select Committee on Intelligence; Gerb puts his committee service at 1989 to 1996 and cites a 1989 memorandum for record that places him at a committee briefing with [[Mary K. Sturdivant]]. At the [[Department of Defense]] he became special assistant to the Secretary of Defense for intelligence policy in November 1997, a post Gerb identifies as the one Dick Cheney had created for [[Richard Haver]]. He was then deputy assistant secretary for security and information operations from June 1998, and deputy assistant secretary for intelligence from November 1999 to January 2002. He returned to the Senate committee as minority staff director under Senator Jay Rockefeller. In 2017 he joined To The Stars Academy as its national security affairs adviser, and he left with [[Luis Elizondo]] and Steve Justice at the start of 2021.
+Mellon was born on 2 October 1957 in Topeka, Kansas, into the Mellon family of Pittsburgh. He took a degree in economics at Colby College in 1980 and a master's in international relations at Yale in 1984. He spent about twelve years on Capitol Hill, much of it as a professional staff member of the Senate Select Committee on Intelligence; Gerb puts his committee service at 1989 to 1996 and cites a 1989 memorandum for record that places him at a committee briefing with [[Mary K. Sturtevant]]. At the [[Department of Defense]] he became special assistant to the Secretary of Defense for intelligence policy in November 1997, a post Gerb identifies as the one Dick Cheney had created for [[Richard Haver]]. He was then deputy assistant secretary for security and information operations from June 1998, and deputy assistant secretary for intelligence from November 1999 to January 2002. He returned to the Senate committee as minority staff director under Senator Jay Rockefeller. In 2017 he joined To The Stars Academy as its national security affairs adviser, and he left with [[Luis Elizondo]] and Steve Justice at the start of 2021.
 
 ::wiki-affiliations
 ---
@@ -98,13 +98,13 @@ entries:
   - name: "Sean Kirkpatrick"
     role: "Former AARO director"
     note: "Named Mellon among the small group he blamed for a 2008 conspiracy. Mellon says he introduced Kirkpatrick to three witnesses, who got no feedback."
-  - name: "Mary K. Sturdivant"
+  - name: "Mary K. Sturtevant"
     role: "Former Senate intelligence committee staffer, later a Lockheed Martin vice president"
     note: "A committee colleague of Mellon's. Gerb suspects Mellon may be protecting her and has asked him to comment on her."
   - name: "Richard Haver"
     role: "First Assistant to the Secretary of Defense for Intelligence Policy"
     note: "Held the intelligence-policy post Mellon later filled."
-  - name: "Russell E. Wiler"
+  - name: "Russell E. Wyler"
     role: "Director, Air Force Sensitive Activities Office"
     note: "Researcher Alex Catz's candidate for the redacted \"SES2 Air Force gatekeeper\" in Mellon's Signal exchange. Gerb leans toward him too."
   - name: "Tom DeLonge"
@@ -125,9 +125,9 @@ Gerb names Mellon, with Elizondo, [[Oak Shannon]], [[Ross Coulthart]] and [[Rich
 
 ## Role in UAP Programs
 
-On 23 April 2024, Mellon posted partially redacted screenshots on Twitter of a 2020 Signal messaging exchange with an unidentified person. That person claimed their group was making "massive progress" in accessing the UAP crash retrieval portfolio and had deciphered its management structure, security control system, and program ownership. They also mentioned the [[1953 Kingman, Arizona Crash Retrieval|1953 Kingman, Arizona landing]] and a still-classified Secretary of the Air Force memo from the 1950s that is allegedly still in effect. Researcher [[Alex Catz]] later counted the characters in the redacted name from the exchange and identified [[Russell E. Wiler]] as the most probable candidate for the senior Air Force official described as gatekeeper for the crash retrieval portfolio; Gerb offers [[William E. MacLure]] as the alternative.
+On 23 April 2024, Mellon posted partially redacted screenshots on Twitter of a 2020 Signal messaging exchange with an unidentified person. That person claimed their group was making "massive progress" in accessing the UAP crash retrieval portfolio and had deciphered its management structure, security control system, and program ownership. They also mentioned the [[1953 Kingman, Arizona Crash Retrieval|1953 Kingman, Arizona landing]] and a still-classified Secretary of the Air Force memo from the 1950s that is allegedly still in effect. Researcher Alex Catz later counted the characters in the redacted name from the exchange and identified [[Russell E. Wyler]] as the most probable candidate for the senior Air Force official described as gatekeeper for the crash retrieval portfolio; Gerb offers [[William E. MacLure]] as the alternative.
 
-In "The Hidden Wing", Gerb says he hesitates to trust Mellon, because of his involvement with Elizondo in what Gerb calls the fake AATIP cover program, and because Mellon may be protecting his former Senate committee colleague Mary K. Sturdivant. He alleges that Mellon, Elizondo and their faction have pushed for limited transparency. Gerb has asked Mellon publicly to comment on Sturdivant, and says Mellon did not help when asked before. He also suspects that Mellon, as a former deputy assistant secretary for intelligence, "might know a little bit more than what they're saying", and suggests someone ask him about a 1975 memo on the National Security Program.
+In "The Hidden Wing", Gerb says he hesitates to trust Mellon, because of his involvement with Elizondo in what Gerb calls the fake AATIP cover program, and because Mellon may be protecting his former Senate committee colleague Mary K. Sturtevant. He alleges that Mellon, Elizondo and their faction have pushed for limited transparency. Gerb has asked Mellon publicly to comment on Sturtevant, and says Mellon did not help when asked before. He also suspects that Mellon, as a former deputy assistant secretary for intelligence, "might know a little bit more than what they're saying", and suggests someone ask him about a 1975 memo on the National Security Program.
 
 Gerb also notes a theory that Elizondo and Mellon steered Tom DeLonge into reviving "Project Forum", a disclosure-through-popular-figures idea in the 2009 [[Bigelow Aerospace Advanced Space Studies|BAASS]] ten-month report. In his reading, AATIP and TTSA were meant to support only a partial disclosure.
 

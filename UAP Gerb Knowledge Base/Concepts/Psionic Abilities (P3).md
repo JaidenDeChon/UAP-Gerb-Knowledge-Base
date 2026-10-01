@@ -4,7 +4,7 @@ tags:
   - concept
 ---
 
-P3 (phonetically "P-three") is the alleged designation for people with psionic or psychic abilities who are recruited by the [[Black Group]]. According to what an anonymous insider told whistleblower [[Michael Herrera]], the group needs these people to interface with and control non-human intelligence technology that cannot be operated by conventional mechanical means.
+P3 (phonetically "P-three") is the alleged designation for people with psionic or psychic abilities who are recruited by the Black Group. According to what an anonymous insider told whistleblower [[Michael Herrera]], the group needs these people to interface with and control non-human intelligence technology that cannot be operated by conventional mechanical means.
 
 ## Recruitment Protocol
 

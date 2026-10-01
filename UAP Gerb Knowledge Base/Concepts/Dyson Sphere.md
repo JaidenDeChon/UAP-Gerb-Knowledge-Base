@@ -4,7 +4,7 @@ tags:
   - concept
 ---
 
-A Dyson Sphere is a hypothetical megastructure that would completely enclose a star and capture all of its energy output. The theoretical physicist Freeman Dyson proposed it in a 1960 paper in the journal *Science*. Building one is the defining technological ability of a [[Kardashev Type II Civilization]], which by definition uses the full energy of its host star. A Dyson Sphere, or the more commonly discussed Dyson Swarm of separate collector units, would sharply change the light we observe from the enclosed star. That change is a techno-signature that [[Dysonian SETI (CTI)]] searches could detect.
+A Dyson Sphere is a hypothetical megastructure that would completely enclose a star and capture all of its energy output. The theoretical physicist Freeman Dyson proposed it in a 1960 paper in the journal *Science*. Building one is the defining technological ability of a Kardashev Type II Civilization, which by definition uses the full energy of its host star. A Dyson Sphere, or the more commonly discussed Dyson Swarm of separate collector units, would sharply change the light we observe from the enclosed star. That change is a techno-signature that [[Dysonian SETI (CTI)]] searches could detect.
 
 ## Concept and Physical Basis
 
@@ -19,7 +19,7 @@ A complete or partly assembled Dyson structure would absorb the star's energy an
 
 ## Construction Method
 
-The most plausible way to build a Dyson Sphere uses [[von Neumann self-replicating probes]]. These are autonomous robots programmed to mine asteroids, moons and other planetary bodies for material and to make copies of themselves, so the swarm grows gradually without any living workers in space. That avoids the long delays that direct human (or alien) labor in deep space would cause.
+The most plausible way to build a Dyson Sphere uses von Neumann self-replicating probes. These are autonomous robots programmed to mine asteroids, moons and other planetary bodies for material and to make copies of themselves, so the swarm grows gradually without any living workers in space. That avoids the long delays that direct human (or alien) labor in deep space would cause.
 
 ## Dysonian SETI
 

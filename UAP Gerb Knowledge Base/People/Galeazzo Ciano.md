@@ -15,7 +15,7 @@ Fascist documents on UFO sightings from the period after Magenta name Ciano expl
 
 ## Connection to US Recovery
 
-Some researchers have speculated about a connection between Ciano's wife Edda Ciano (Mussolini's daughter), [[Allan W. Dulles]], the Ciano Diaries and Operation Sunrise. In this theory, Operation Sunrise may have been a front for the US recovery of the Magenta craft from the collapsing fascist state in 1944-1945, or a way to make it happen. The research is still exploratory.
+Some researchers have speculated about a connection between Ciano's wife Edda Ciano (Mussolini's daughter), Allan W. Dulles, the Ciano Diaries and Operation Sunrise. In this theory, Operation Sunrise may have been a front for the US recovery of the Magenta craft from the collapsing fascist state in 1944-1945, or a way to make it happen. The research is still exploratory.
 
 ## Death
 

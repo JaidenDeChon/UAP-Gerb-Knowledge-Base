@@ -4,11 +4,11 @@ tags:
   - concept
 ---
 
-EMP-like weaponry is the term for the alleged electromagnetic pulse or directed energy weapons that the [[Black Group]] has reportedly developed to target, disrupt, and disable unidentified anomalous phenomena (UAP) so that the craft can be retrieved after they crash. According to an anonymous insider who spoke to whistleblower [[Michael Herrera]], these weapons have moved the effort from passively observing UAP to actively capturing them.
+EMP-like weaponry is the term for the alleged electromagnetic pulse or directed energy weapons that the Black Group has reportedly developed to target, disrupt, and disable unidentified anomalous phenomena (UAP) so that the craft can be retrieved after they crash. According to an anonymous insider who spoke to whistleblower [[Michael Herrera]], these weapons have moved the effort from passively observing UAP to actively capturing them.
 
 ## Capabilities
 
-In the insider's account, the weapons are designed or tuned to affect non-human intelligence craft and their propulsion and control systems. They can cause temporary or permanent malfunctions in a UAP's flight systems and force the craft to land or crash, which makes it recoverable. This lets the [[Black Group]]'s crash retrieval program acquire intact or semi-intact craft and their occupants.
+In the insider's account, the weapons are designed or tuned to affect non-human intelligence craft and their propulsion and control systems. They can cause temporary or permanent malfunctions in a UAP's flight systems and force the craft to land or crash, which makes it recoverable. This lets the Black Group's crash retrieval program acquire intact or semi-intact craft and their occupants.
 
 ## Operational Use
 
@@ -35,7 +35,7 @@ If EMP-like weapons can reliably disable UAP, it suggests an understanding of we
 Earlier allegations have also described directed energy weapons aimed at UAP:
 - Researcher [[Philip J. Corso]] claimed that weapons were developed during the Cold War to intercept UFOs.
 - Multiple witnesses have described craft behaving erratically near military installations before crashing.
-- The [[1953 Kingman Arizona UFO crash]] and other incidents allegedly involved radar or signal interference that caused the craft to crash.
+- The [[1953 Kingman, Arizona Crash Retrieval|1953 Kingman Arizona UFO crash]] and other incidents allegedly involved radar or signal interference that caused the craft to crash.
 
 The insider's claims are a more explicit and operational version of these long-standing allegations. In this account, crash retrievals are orchestrated by bringing craft down with weapons instead of waiting for chance crashes.
 

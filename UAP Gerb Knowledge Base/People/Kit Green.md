@@ -9,7 +9,7 @@ Dr. Christopher "Kit" Green is a former CIA medical and scientific intelligence 
 
 ## Aerospace Corporation Identification
 
-With [[Jacques Vallee]], [[Hal Puthoff]], [[Eric Davis]], and Kristen B. Zimmerman, Green co-authored research that identified [[The Aerospace Corporation]] in [[Long Beach, California]] as one of the suspected legacy private corporations engaged in "real UAP research." The analysis is recorded in Vallee's journal compilations, published as *Hidden Science 5*, which cover the period from the 2000s to 2009.
+With [[Jacques Vallee]], [[Hal Puthoff]], [[Eric Davis]], and Kristen B. Zimmerman, Green identified [[Aerospace Corporation|the Aerospace Corporation]], with [[Lockheed Martin]] and [[Northrop Grumman]], as suspected legacy contractors engaged in "real UAP research." The analysis is recorded in Vallee's journals for 2000 to 2009, *Forbidden Science 5* (Gerb's video calls it *Hidden Science 5*). Separately, Gerb matches a [[Long Beach, California|Long Beach]] company described by [[Ross Coulthart]]'s source to the Aerospace Corporation.
 
 The group's identification of Aerospace Corporation fits several other lines of evidence:
 - The corporation's documented work with [[Defense Support Program (DSP)]] satellites analyzing [[Fast Walkers]]

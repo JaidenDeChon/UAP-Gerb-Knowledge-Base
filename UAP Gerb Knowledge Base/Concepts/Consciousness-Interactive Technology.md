@@ -40,7 +40,7 @@ There also appeared to be a hand-sized indentation on top of the sphere. It is u
 
 ### Martin's Briefcase Sphere
 
-[[Martin (witness)]], an independent witness who claimed involvement in alleged remote viewing programs, gave a very similar account:
+Martin (witness), an independent witness who claimed involvement in alleged remote viewing programs, gave a very similar account:
 
 - Scientists brought a briefcase containing a sphere about the size of a basketball.
 - The sphere was described as very clear looking, which is consistent with RA's description.
@@ -72,7 +72,7 @@ If recovered technology responds only to certain individuals, the programs that 
 - set up biological or neurological tests for candidates
 - keep rosters of "compatible" personnel who can work with the technology
 
-This need could explain why consciousness research programs such as Stargate and SAIC's psionic research exist, and it could potentially explain why [[SAIC]] continued consciousness research after the [[Stargate Program]]. On this reading, the programs served to select and train operators for technology controlled through consciousness, as well as to gather intelligence.
+This need could explain why consciousness research programs such as Stargate and SAIC's psionic research exist, and it could potentially explain why [[SAIC]] continued consciousness research after the [[Project Stargate|Stargate Program]]. On this reading, the programs served to select and train operators for technology controlled through consciousness, as well as to gather intelligence.
 
 ### Training Requirements
 
@@ -115,7 +115,7 @@ Defense contractor [[SAIC]] has done extensive research into consciousness pheno
 
 - Anomalous Cognition research (extrasensory perception, remote viewing)
 - Anomalous Perturbation research (psychokinesis)
-- research that continued after the [[Stargate Program]] was terminated (1995)
+- research that continued after the [[Project Stargate|Stargate Program]] was terminated (1995)
 - formal terms it coined for psionic phenomena
 - contracts worth hundreds of millions that it maintains with [[Naval Surface Warfare Center Crane]], the facility where the technology is allegedly stored
 
@@ -158,7 +158,7 @@ The most radical interpretation is that the technology itself has:
 
 ## Connection to UAP Recovery Protocols
 
-Crash retrieval operators allegedly use [[Anchors (UAP Recovery Protocol)]], which are psychological grounding tools. The concept suggests that:
+Crash retrieval operators allegedly use Anchors (UAP Recovery Protocol), which are psychological grounding tools. The concept suggests that:
 
 - consciousness-interactive technology may affect the people handling it even when they are not consciously operating it
 - being near the technology may cause cognitive or perceptual effects
@@ -194,10 +194,10 @@ If consciousness-interactive technology exists, it would mean:
 - [[RA]]
 - [[Gary Nolan]]
 - [[SAIC]]
-- [[Remote Viewing]]
-- [[Stargate Program]]
-- [[Martin (witness)]]
-- [[UAP-Induced Cognitive Effects]]
-- [[Memory Suppression/Fuzzing]]
-- [[Anchors (UAP Recovery Protocol)]]
+- Remote Viewing
+- [[Project Stargate|Stargate Program]]
+- Martin (witness)
+- UAP-Induced Cognitive Effects
+- Memory Suppression/Fuzzing
+- Anchors (UAP Recovery Protocol)
 - [[Naval Surface Warfare Center Crane]]

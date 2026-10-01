@@ -11,7 +11,7 @@ UFO crash retrieval operations are alleged clandestine direct-action missions to
 The most detailed account of how crash retrievals are organized comes from the [[National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers]] video. It argues that the NRO is the alleged directing authority, rather than the CIA Directorate of Science and Technology or Air Force special operations, as competing accounts claim. The same organizations recur across multiple retrieval accounts:
 
 - The [[160th Special Operations Aviation Regiment]] (1st Battalion) is the suspected helicopter transport provider, flying CH-47 and MH-47 aircraft.
-- [[JSOC (Joint Special Operations Command)]] units, including [[Delta Force]] and [[Navy SEAL Team 6]], are alleged to be the direct-action forces that hold the perimeter and carry out extraction.
+- [[JSOC (Joint Special Operations Command)]] units, including Delta Force and Navy SEAL Team 6, are alleged to be the direct-action forces that hold the perimeter and carry out extraction.
 - [[Department of Energy]] personnel, [[NEST (Nuclear Emergency Support Team)]] and [[National Nuclear Security Administration]] scientific response teams are deployed to assess CBR (chemical, biological, radiological) risk and do the initial handling of materials.
 - The [[Office of Secure Transportation (OST)]] is responsible for moving the material afterward.
 
@@ -23,7 +23,7 @@ The "Hidden Wing" investigation, working independently, also notes that JSOC Tie
 
 **Anonymous 21st-Century Witness:** A source who claims to have served on a rapid reaction crash retrieval team described operations based at the [[Nevada National Security Site (Nevada Test Site)]] and cited the NRO as the focal point. According to the source, a company-sized Delta Detachment of 20–40 personnel dressed all in black was first on scene.
 
-**Vietnam-Era Witness (1968–2004):** A U.S. Army LRRP veteran who came across a crashed egg-shaped craft in Vietnam described multiple "rapid reaction units stationed throughout in theater" kept on standby for retrievals, with [[Special Operations Forces|SOF]], Navy and Air Force officials on site. This mix of services follows the same organizational pattern seen in later accounts.
+**Vietnam-Era Witness (1968–2004):** A U.S. Army LRRP veteran who came across a crashed egg-shaped craft in Vietnam described multiple "rapid reaction units stationed throughout in theater" kept on standby for retrievals, with SOF, Navy and Air Force officials on site. This mix of services follows the same organizational pattern seen in later accounts.
 
 ## Craft Pattern
 

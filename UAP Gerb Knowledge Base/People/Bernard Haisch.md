@@ -4,11 +4,11 @@ tags:
   - person
 ---
 
-Bernard Haisch is an American astrophysicist and author who did research for the [[Lockheed Martin Advanced Technology Center (ATC)]]. In a series of public statements and publications, he has linked classified US government programs to UAP crash retrieval, reverse engineering and extraterrestrial biology. Gerb rates him the most credible of the Lockheed-connected insiders discussed in connection with the company's alleged involvement in UAP programs.
+Bernard Haisch is an American astrophysicist and author who did research for the [[Advanced Technology Center (ATC)|Lockheed Martin Advanced Technology Center (ATC)]]. In a series of public statements and publications, he has linked classified US government programs to UAP crash retrieval, reverse engineering and extraterrestrial biology. Gerb rates him the most credible of the Lockheed-connected insiders discussed in connection with the company's alleged involvement in UAP programs.
 
 ## Research at Lockheed Martin Advanced Technology Center
 
-Haisch co-wrote a paper for the [[Lockheed Martin Advanced Technology Center (ATC)]] with physicist [[Hal Puthoff]] on the Zero Point Energy of the quantum vacuum. The paper examined one or more resonant frequencies that may be associated with quantum vacuum interaction for propulsion, a subject that bears directly on the theory behind non-conventional aerospace propulsion. It is documented, published evidence that Lockheed Martin researched exotic propulsion physics at an institutional level.
+Haisch co-wrote a paper for the [[Advanced Technology Center (ATC)|Lockheed Martin Advanced Technology Center (ATC)]] with physicist [[Hal Puthoff]] on the Zero Point Energy of the quantum vacuum. The paper examined one or more resonant frequencies that may be associated with quantum vacuum interaction for propulsion, a subject that bears directly on the theory behind non-conventional aerospace propulsion. It is documented, published evidence that Lockheed Martin researched exotic propulsion physics at an institutional level.
 
 ## "Black Special Access Programs" Essay (2001)
 
@@ -22,7 +22,7 @@ These arguments anticipated the post-2023 testimony of [[David Grusch]] by more 
 
 ## 2018 Public Statements
 
-After the Pentagon's [[ATIP]] program was revealed in December 2017, Haisch made a series of public statements that set out in more detail what he claimed to know. He called the following "conjecture", though informed by sources:
+After the Pentagon's [[AATIP (Advanced Aerospace Threat Identification Program)|ATIP]] program was revealed in December 2017, Haisch made a series of public statements that set out in more detail what he claimed to know. He called the following "conjecture", though informed by sources:
 
 - Four related but separate unacknowledged special access programs (SAPs), which trace back to a 1947 Truman memorandum, still existed and, as of the 1990s, were housed in major aerospace companies including [[Lockheed Martin]], [[TRW]], Raytheon and others.
 - Together, these programs have budgets "in the $10 billion range and up."

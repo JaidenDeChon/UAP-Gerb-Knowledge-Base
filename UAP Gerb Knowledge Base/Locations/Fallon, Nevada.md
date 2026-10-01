@@ -13,7 +13,7 @@ NAS Fallon hosts the NAWDC, the Navy's foremost advanced tactical air combat tra
 
 ## UAP Relevance
 
-In the UAP research community, the Fallon Range and Training Complex has been cited as a possible site for covert operations involving [[Reverse Engineered Craft (ARV)|alien reproduction vehicles]]. Its isolated desert terrain, large restricted airspace zones and proximity to other major legacy program sites in Nevada and California make Fallon a recurring reference point in theories about the operational testing of retrieved or reverse-engineered non-human craft.
+In the UAP research community, the Fallon Range and Training Complex has been cited as a possible site for covert operations involving [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]]. Its isolated desert terrain, large restricted airspace zones and proximity to other major legacy program sites in Nevada and California make Fallon a recurring reference point in theories about the operational testing of retrieved or reverse-engineered non-human craft.
 
 ## Sources
 

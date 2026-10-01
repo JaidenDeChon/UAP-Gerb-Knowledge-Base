@@ -36,7 +36,7 @@ responses:
 Wilson claimed to have served across several elite units over a 40-year career:
 
 - 1963: Assigned as a captain in a tactical fighter squadron at [[Wright-Patterson Air Force Base]], recruited into [[Majestic 12|Majestic-12]] and promoted to major. He was briefed on MJ-12's mission: "UFO surveillance and interdictions, retrievals and analysis of records of extraterrestrial spacecraft and occupants, and public access to any information about these matters."
-- 9 years: Assigned to [[First Special Forces Air Command]], where he received special training with [[Delta Force]] and the Black Beret. MJ-12 tasked him with making contact with key personnel at nearly every Air Force base in the world.
+- 9 years: Assigned to First Special Forces Air Command, where he received special training with Delta Force and the Black Beret. MJ-12 tasked him with making contact with key personnel at nearly every Air Force base in the world.
 - 1972: Reassigned as a lieutenant colonel from First Special Forces Air Command at [[Vandenberg Air Force Base]] to [[Area 51]]'s S-4 facility by men presenting CIA credentials.
 - After S-4: Claimed to head [[Project Pounce]], an elite Air Force-[[NRO (National Reconnaissance Office)|NRO]] Special Forces unit for retrieving downed UFOs.
 
@@ -69,7 +69,7 @@ items:
 
 ## S-4 Assignment and Underground Facility
 
-Wilson said S-4 was near [[Papoose Lake]], south of Area 51, and that he went 30 stories underground there. He claimed to have seen eight different kinds of non-human craft, as well as an extremely tall woman who appeared to be extraterrestrial. According to Wilson, S-4 existed to test reverse-engineered anti-gravity vehicles. He stated that the first successful test flight took place on July 18, 1971, one year before his own assignment, and that [[Bobby Ray Inman|Admiral Bobby Ray Inman]] was present for it. Gerb calls this an "interesting connection" to Inman's later introduction of [[Bob Echler|Bob Oechsler]] to [[Sumar Shapiro|Rear Admiral Sumner Shapiro]], a former Director of Naval Intelligence who reportedly told Oechsler that factions within the US possessed extraterrestrial vehicles and that he had studied one at close quarters.
+Wilson said S-4 was near [[Papoose Lake]], south of Area 51, and that he went 30 stories underground there. He claimed to have seen eight different kinds of non-human craft, as well as an extremely tall woman who appeared to be extraterrestrial. According to Wilson, S-4 existed to test reverse-engineered anti-gravity vehicles. He stated that the first successful test flight took place on July 18, 1971, one year before his own assignment, and that [[Bobby Ray Inman|Admiral Bobby Ray Inman]] was present for it. Gerb calls this an "interesting connection" to Inman's later introduction of [[Bob Oechsler]] to [[Sumner Shapiro|Rear Admiral Sumner Shapiro]], a former Director of Naval Intelligence who reportedly told Oechsler that factions within the US possessed extraterrestrial vehicles and that he had studied one at close quarters.
 
 ## Project Pounce, Delta and the NRO
 
@@ -94,7 +94,7 @@ Shortly before his death, Wilson produced a chart titled "Star Wars City" showin
 
 - An SDI headquarters under Cheyenne Mountain as the nexus of UAP legacy operations
 - The NRO, National Security Council, NSA, CIA, NORAD and [[Majestic 12|Majestic-12]] around it
-- Defense contractors including Northrop Grumman, [[Lockheed Martin]], [[Boeing]], McDonnell Douglas, Rockwell, Martin Marietta, IBM, [[Ford Aerospace]] and [[Teledyne Ryan]]
+- Defense contractors including Northrop Grumman, [[Lockheed Martin]], [[Boeing]], McDonnell Douglas, Rockwell, Martin Marietta, IBM, Ford Aerospace and [[Teledyne Ryan]]
 - [[Decision Science Applications, Inc. (DSAI)|Decision Science Applications Inc.]] (DSAI), led according to Wilson by former Admiral [[Bobby Ray Inman]], as a board of the directors of the contractors' UFO black-budget divisions
 
 The chart supports Wilson's broader testimony that SDI, though publicly presented as a defense against Soviet ICBMs, was the financial and operational cover structure for UAP legacy programs. In his [[SAIC]] video Gerb adds Wilson's claim that DSAI and SAIC were "one and the same", and follows DSAI's assets forward to SAIC and L3Harris.

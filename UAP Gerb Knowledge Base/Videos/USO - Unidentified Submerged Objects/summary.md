@@ -404,11 +404,11 @@ claims:
     responses:
       - by: "Wim Van Utrecht"
         stance: supports
-        text: "One of the best images of the set shows signs of tampering, the only such example Gerb knows of."
+        text: "One of the best images of the set shows signs of tampering, the only such example Gerb knows of. Van Utrecht is extremely sceptical of the images."
         cue: 1429
       - by: "John Greenewald"
         stance: challenges
-        text: "He is extremely sceptical of the images, but argues the tampered frame was probably enhanced for print, as magazines often did, since the original differs from the published version. One altered frame does not discredit the rest."
+        text: "He argues the tampered frame was probably enhanced for print, as magazines often did, since the original differs from the published version. One altered frame does not discredit the rest."
         cue: 1441
       - by: "Gerb"
         stance: host

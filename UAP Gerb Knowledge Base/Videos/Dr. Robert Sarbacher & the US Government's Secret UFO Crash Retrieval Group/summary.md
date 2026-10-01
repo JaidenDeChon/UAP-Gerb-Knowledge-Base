@@ -219,10 +219,10 @@ events:
       - "Stanton Friedman"
       - "Robert Sarbacher"
       - "Wright Field Crash Retrieval Meeting"
-  - date: "1987"
+  - date: "1986–1987"
     title: "Sarbacher dies; his son speaks to D.M. Duncan"
     cue: 133
-    summary: "Close to Sarbacher's death in 1987, researcher D.M. Duncan located his son, Robert Sarbacher Jr., who said his father knew UFOs were real because they flew at 600 mph and turned 90 degrees without slowing, and that he was called in to build camera-carrying missiles, like those on the V-2s, to track rather than destroy them."
+    summary: "Close to Sarbacher's death (1987 in the video; he died on 26 July 1986), researcher D.M. Duncan located his son, Robert Sarbacher Jr., who said his father knew UFOs were real because they flew at 600 mph and turned 90 degrees without slowing, and that he was called in to build camera-carrying missiles, like those on the V-2s, to track rather than destroy them."
     category: person
     significance: notable
     entities:
@@ -279,7 +279,7 @@ The source was Sarbacher. He confirmed it himself in 1983, and historian [[Arthu
 
 ::wiki-grid{cols=3}
 ::wiki-panel{title="The son's account" tone="accent"}
-Close to Sarbacher's death in 1987, researcher D.M. Duncan located [[Robert Sarbacher Jr.]] His father spoke sparingly about UFOs, he said, but knew they were real because they would go 600 mph and then turn 90 degrees in midair without slowing. He was called in to build a missile that could track them, not destroy them, fitted with cameras like those on the V-2 rockets.
+Close to Sarbacher's death (1987 in the video; he died on 26 July 1986), researcher D.M. Duncan located [[Robert Sarbacher Jr.]] His father spoke sparingly about UFOs, he said, but knew they were real because they would go 600 mph and then turn 90 degrees in midair without slowing. He was called in to build a missile that could track them, not destroy them, fitted with cameras like those on the V-2 rockets.
 ::
 ::wiki-panel{title="Project Twinkle, 31 August 1950"}
 [[Project Twinkle]], set up in 1949 to observe green fireballs alongside [[Project Grudge]], records on page 33 of its report an incident in which the phenomenon was seen after a V-2 launch. Plans were then made for aircraft from Holloman Air Force Base to pursue the objects and photograph them at close range.
@@ -345,7 +345,7 @@ entries:
 
 ## Dr. Eric A. Walker
 
-[[Eric A. Walker]] was president of Penn State University from 1956 to 1971, chairman of the Institute for Defense Analyses and executive secretary of the Defense Research Board in 1950-1951: "a very serious and accredited man", in Gerb's words. Once Friedman made his name public, researchers including William Steinman and Henry Azadehdel, who wrote as Armen Victorian, began questioning him. Across those conversations, the video says, Walker claimed involvement in the 1965 Kecksburg crash, confirmed the existence of Majestic 12 or a similar group, said contact had been made with non-human intelligence, and called reverse-engineering efforts a waste of time because the technology was far beyond human understanding.
+[[Eric A. Walker]] was president of Penn State University from 1956 to 1971 (Gerb's figure; Walker stepped down in 1970), chairman of the Institute for Defense Analyses and executive secretary of the Defense Research Board in 1950-1951: "a very serious and accredited man", in Gerb's words. Once Friedman made his name public, researchers including William Steinman and Henry Azadehdel, who wrote as Armen Victorian, began questioning him. Across those conversations, the video says, Walker claimed involvement in the 1965 Kecksburg crash, confirmed the existence of Majestic 12 or a similar group, said contact had been made with non-human intelligence, and called reverse-engineering efforts a waste of time because the technology was far beyond human understanding.
 
 Walker's first interview, with Steinman in 1987, came weeks after the MJ-12 documents were made public. Three years later Henry Azadehdel recorded three calls with him, which also took in the [[1978 Bolivia UFO Crash]] and the possibility that insect-like bodies had been recovered. The third call was the most cryptic of all. The table below sets the two sets of conversations side by side; they cover much of the same ground.
 
@@ -426,7 +426,7 @@ root:
               label: "Three recorded calls, 1990"
               note: "Wrote as Armen Victorian. Walker told him MJ-12 was real but its documents were likely forged."
     - name: "Robert Sarbacher Jr."
-      label: "His son, c. 1987"
+      label: "His son, c. 1986–87"
       note: "Told D.M. Duncan about the camera-carrying missiles built to track UFOs."
 ---
 ::

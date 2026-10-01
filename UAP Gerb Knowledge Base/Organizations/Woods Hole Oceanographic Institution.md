@@ -23,7 +23,7 @@ In 1985, the US Navy sent a classified mission to investigate the wrecks of the 
 
 ## Government and Military Relationships
 
-WHOI manages the Navy Oceanographic Research Laboratory for the Department of the Navy, a laboratory now incorporated into the Naval Research Laboratory (NRL). The original Oceanographic Research Laboratory was set up as a Federal Contract Research Center (FCRC). FCRCs were the predecessor to the [[Federally Funded Research and Development Centers (FFRDCs)]], a structure that Gerb argues acts as an intermediary between the US government and defense contractors in programs that exploit UAP material.
+WHOI manages the Navy Oceanographic Research Laboratory for the Department of the Navy, a laboratory now incorporated into the Naval Research Laboratory (NRL). The original Oceanographic Research Laboratory was set up as a Federal Contract Research Center (FCRC). FCRCs were the predecessor to the [[Federally Funded Research and Development Center (FFRDC)|Federally Funded Research and Development Centers (FFRDCs)]], a structure that Gerb argues acts as an intermediary between the US government and defense contractors in programs that exploit UAP material.
 
 Since 2002, WHOI has been awarded over $3.4 billion in federal contracts, subcontracts, and grants. The contracts most relevant to UAP research include:
 

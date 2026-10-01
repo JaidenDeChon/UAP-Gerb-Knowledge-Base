@@ -1089,7 +1089,7 @@
     "sha256": "7395a454846e568138be59798023b3e81e5f4a35b1d448b399e412014a2d8fff",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/Events/Inman-Echler Telephone Call.md": {
+  "UAP Gerb Knowledge Base/Events/Inman-Oechsler Telephone Call.md": {
     "humanized_at": "2026-09-27T20:14:37Z",
     "sha256": "04a69424985716b2ce663b056f2d7bed73b889a5b2769a1c3463844f8fbcf855",
     "cold_reader": true
@@ -1134,7 +1134,7 @@
     "sha256": "e482a6b15990efb34bddaf75ed472988e47dcff8d88676f728b86706a2cb49b7",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/Events/Mark Mandel Planned Congressional Testimony.md": {
+  "UAP Gerb Knowledge Base/Events/McCandlish Planned Senate Testimony.md": {
     "humanized_at": "2026-09-27T20:14:51Z",
     "sha256": "fc09659930da3f60529459f92921870969739c6a4a4a3f7646eb891a8b368ec4",
     "cold_reader": true
@@ -3739,7 +3739,7 @@
     "sha256": "cd195cd963005b456ef293fa11295c2311c80db0075e81c8e7fff1c4b1222ac8",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/People/Bob Echler.md": {
+  "UAP Gerb Knowledge Base/People/Bob Oechsler.md": {
     "humanized_at": "2026-10-01T20:24:50Z",
     "sha256": "2f296b7f2e97b3d4ef96a7d600639f0c8dfc766f0e7162dbe23efd7d11f17ba3",
     "cold_reader": true
@@ -4087,11 +4087,6 @@
   "UAP Gerb Knowledge Base/People/Ed (Witness 11063).md": {
     "humanized_at": "2026-10-01T22:10:01Z",
     "sha256": "fcc168d75e3a8eec46ea1efd4a8a30d7cfb36f052694fa13988b653b4a56676c",
-    "cold_reader": true
-  },
-  "UAP Gerb Knowledge Base/People/Ed Doll.md": {
-    "humanized_at": "2026-09-25T19:10:44Z",
-    "sha256": "ff494c997a4e7e2ada76f6df5de84bbc642e20c7b2aa30d2026a55d317ac8680",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Eddie L. Anderson.md": {
@@ -4589,7 +4584,7 @@
     "sha256": "991c649342d75ded51b83d54456e43d5550518c93fdcb5a9f8ce562d88777f00",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/People/James Rigny.md": {
+  "UAP Gerb Knowledge Base/People/James Rigney.md": {
     "humanized_at": "2026-09-25T19:16:24Z",
     "sha256": "192673fef7aacbfe7830443827575020c14b9233351e3691221fbb9c6b8cd72a",
     "cold_reader": true
@@ -4649,7 +4644,7 @@
     "sha256": "a6292aa164ac21aa969168145e567202b1a90e13996317af093dd0c8db486e96",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/People/Jesse Michaels.md": {
+  "UAP Gerb Knowledge Base/People/Jesse Michels.md": {
     "humanized_at": "2026-09-25T19:16:04Z",
     "sha256": "bb6a7f5a082f70a9bee95e216c408876fef28c386fa5e4fc7cc1802a6b4edcc1",
     "cold_reader": true
@@ -4700,11 +4695,6 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/John Deutch.md": {
-    "humanized_at": "2026-09-25T19:17:44Z",
-    "sha256": "c3bbd53dca0161fe37a3411a65bf2ecd524d09fad249cc9effe521d4c35ba691",
-    "cold_reader": true
-  },
-  "UAP Gerb Knowledge Base/People/John Deutsch.md": {
     "humanized_at": "2026-10-01T20:49:58Z",
     "sha256": "c75ce6e9eaccc5dc773f23867a09bd85c7eb888422a15af449d5121b6c3437cf",
     "cold_reader": true
@@ -4979,7 +4969,7 @@
     "sha256": "3074b53fced44323a831b330e4528afc797c6fb5d2fb829df859f96ab07ab69e",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/People/Mary K. Sturdivant.md": {
+  "UAP Gerb Knowledge Base/People/Mary K. Sturtevant.md": {
     "humanized_at": "2026-10-01T22:05:06Z",
     "sha256": "68f51fad1cdbd41806fb00976ed6286598d98c2977fd154117ec3e944ec276b5",
     "cold_reader": true
@@ -5434,7 +5424,7 @@
     "sha256": "82571b9b30be2db3530773e8a3bbfc35d433d4636dd963aa3c48cad549a39762",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/People/Russell E. Wiler.md": {
+  "UAP Gerb Knowledge Base/People/Russell E. Wyler.md": {
     "humanized_at": "2026-10-01T22:10:01Z",
     "sha256": "6ba0fbd9a7fabc2befd5e335fffa763c49265161b36248d46321c6c757fafa09",
     "cold_reader": true
@@ -5554,7 +5544,7 @@
     "sha256": "2bb34c0f04edb220abdcc1401858aef717e535fd148ea291847726c878d3a1db",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/People/Sumar Shapiro.md": {
+  "UAP Gerb Knowledge Base/People/Sumner Shapiro.md": {
     "humanized_at": "2026-10-01T20:45:35Z",
     "sha256": "b572641509bed1c8a178d77387322b9d06a2891e75d494132627e031c6be7fb8",
     "cold_reader": true

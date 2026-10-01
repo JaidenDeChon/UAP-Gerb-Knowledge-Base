@@ -60,7 +60,7 @@ entries:
   - name: "James T. Ryder"
     role: "Lockheed Martin Space Systems vice president"
     note: "Proposed moving Lockheed's 1950s crash retrieval material into Kona Blue, the transfer Cardillo allegedly blocked."
-  - name: "Mary K. Sturdivant"
+  - name: "Mary K. Sturtevant"
     role: "Lockheed Martin vice president"
     note: "Another possible blocker, Gerb suggests, through her CIA ties."
   - name: "Christopher Sharp"
@@ -77,7 +77,7 @@ entries:
 
 ## Alleged Role in Kona Blue Blocking
 
-At the time of the 2011 [[Kona Blue]] transfer attempt, Cardillo was Deputy Director of National Intelligence for Intelligence Integration. In his 2025 video on [[Lockheed Martin]], Gerb names him as a third possible blocker alongside [[Glenn Gaffney]] and [[Mary K. Sturdivant]]: "The research of Jones, the words of Eric Davis and reporting of journalist Christopher Sharp has brought forth one Robert Cardillo as a possible final authority in blocking the material transfer." The transfer would have moved [[James T. Ryder]]'s 1950s crash retrieval material out of Lockheed through Kona Blue, a prospective waived special access program at the Department of Homeland Security, to the DIA's [[AAWSAP]] work with [[Bigelow Aerospace Advanced Space Studies]]. The video stresses that Cardillo's veto remains an allegation.
+At the time of the 2011 [[Kona Blue]] transfer attempt, Cardillo was Deputy Director of National Intelligence for Intelligence Integration. In his 2025 video on [[Lockheed Martin]], Gerb names him as a third possible blocker alongside [[Glenn Gaffney]] and [[Mary K. Sturtevant]]: "The research of Jones, the words of Eric Davis and reporting of journalist Christopher Sharp has brought forth one Robert Cardillo as a possible final authority in blocking the material transfer." The transfer would have moved [[James T. Ryder]]'s 1950s crash retrieval material out of Lockheed through Kona Blue, a prospective waived special access program at the Department of Homeland Security, to the DIA's [[AAWSAP]] work with [[Bigelow Aerospace Advanced Space Studies]]. The video stresses that Cardillo's veto remains an allegation.
 
 The document Representative Tim Burchett entered into the record in November 2024 names Glenn Gaffney, the CIA Deputy Director for Science and Technology, as the official who killed the technology transfer agreement; Gaffney has denied involvement. Gerb believes an earlier attempt, in 2008 or 2009, was shut down with James Clapper's help, and that the 2011 attempt was stopped by Gaffney "and possibly Robert Cardillo." By his 2026 Northrop Grumman video Gerb had hardened his view, calling Cardillo "a man that I am certain was involved in blocking Lockheed Martin from divesting itself of UFO materials."
 

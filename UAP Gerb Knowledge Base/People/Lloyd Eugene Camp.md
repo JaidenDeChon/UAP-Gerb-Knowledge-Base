@@ -27,7 +27,7 @@ Camp's observations match documented UAP activity at White Sands in the same per
 
 ## Significance
 
-Camp is one of a class of military witnesses, the radar operators and technical personnel, whose observations were made both by eye and by radar or other instruments. Such accounts are some of the most credible UAP evidence. His account documents early UAP interest in US ballistic missile programs. The pattern recurred throughout the Cold War, including in the famous [[1964 Big Sur Incident]] in which a UAP allegedly disabled a test warhead tracked by Lieutenant [[Robert Jacobs]].
+Camp is one of a class of military witnesses, the radar operators and technical personnel, whose observations were made both by eye and by radar or other instruments. Such accounts are some of the most credible UAP evidence. His account documents early UAP interest in US ballistic missile programs. The pattern recurred throughout the Cold War, including in the famous 1964 Big Sur Incident in which a UAP allegedly disabled a test warhead tracked by Lieutenant [[Robert Jacobs]].
 
 ## Sources
 

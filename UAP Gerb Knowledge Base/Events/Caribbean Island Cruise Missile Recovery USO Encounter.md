@@ -5,7 +5,7 @@ tags:
   - event
 ---
 
-The Caribbean Island Cruise Missile Recovery USO Encounter is a military incident described by [[Luis Elizondo]] in a 2022 interview with NASA astronaut [[Terry Virts]]. It involves two separate sightings, on cruise missile recovery operations in consecutive months, of a large, dark, circular unidentified submerged object rising from the depths of the [[Puerto Rico Trench]] near a Caribbean island.
+The Caribbean Island Cruise Missile Recovery USO Encounter is a military incident described by [[Luis Elizondo]] in a 2022 interview with NASA astronaut Terry Virts. It involves two separate sightings, on cruise missile recovery operations in consecutive months, of a large, dark, circular unidentified submerged object rising from the depths of the [[Puerto Rico Trench]] near a Caribbean island.
 
 ## Background
 

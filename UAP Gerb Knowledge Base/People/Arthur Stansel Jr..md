@@ -169,7 +169,7 @@ entries:
 
 ## The Kingman Incident
 
-On the evening of May 20, 1953, Stansel got a telephone call from [[Ed Doll]], physicist and project director for [[Operation Upshot-Knothole]] at the Nevada Test Site, telling him of a special assignment the next day. Stansel reported to [[Indian Springs Air Force Base]] and handed his valuables to military police. He was flown to Phoenix, then driven for approximately four hours in a bus with blacked-out windows. On the way, a U.S. Air Force Colonel briefed the personnel, saying that a "super secret Air Force vehicle" had crashed and that each specialist was to investigate only within their own area of expertise.
+On the evening of May 20, 1953, Stansel got a telephone call from [[Edward Bushnell Doll|Ed Doll]], physicist and project director for [[Operation Upshot-Knothole]] at the Nevada Test Site, telling him of a special assignment the next day. Stansel reported to [[Indian Springs Air Force Base]] and handed his valuables to military police. He was flown to Phoenix, then driven for approximately four hours in a bus with blacked-out windows. On the way, a U.S. Air Force Colonel briefed the personnel, saying that a "super secret Air Force vehicle" had crashed and that each specialist was to investigate only within their own area of expertise.
 
 On arrival, two high-intensity spotlights lit up a crashed object surrounded by armed guards. Stansel described it in an affidavit sworn on June 7, 1973, with Raymond Fowler as witness, which Fowler published in *Casebook of a UFO Investigator*:
 

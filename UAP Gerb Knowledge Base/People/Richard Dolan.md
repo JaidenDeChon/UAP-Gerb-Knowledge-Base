@@ -8,7 +8,7 @@ tags:
   - person
 ---
 
-Richard Dolan is an American historian, author and UFO researcher, best known for his book series *UFOs and the National Security State*, a chronological history of how the US military and intelligence agencies have dealt with UFOs since the Second World War. Gerb's videos draw on him as a source. [[James Rigny]] explained where the [[Wilson-Davis Memo]] came from on Dolan's podcast, Dolan read out a leak in 2021 about exotic propulsion projects at [[Tonopah Test Range (TTR)|Tonopah]], and he says he identified the people behind the Zodiac crash retrieval story. Gerb calls him "the legend Richard Dolan" and "respected UFO historian Richard Dolan".
+Richard Dolan is an American historian, author and UFO researcher, best known for his book series *UFOs and the National Security State*, a chronological history of how the US military and intelligence agencies have dealt with UFOs since the Second World War. Gerb's videos draw on him as a source. [[James Rigney]] explained where the [[Wilson-Davis Memo]] came from on Dolan's podcast, Dolan read out a leak in 2021 about exotic propulsion projects at [[Tonopah Test Range (TTR)|Tonopah]], and he says he identified the people behind the Zodiac crash retrieval story. Gerb calls him "the legend Richard Dolan" and "respected UFO historian Richard Dolan".
 
 ## Career
 
@@ -41,7 +41,7 @@ items:
 
 ## The Wilson-Davis Memo
 
-[[James Rigny]] copied the [[Wilson-Davis Memo]] from the estate of Apollo 14 astronaut [[Edgar Mitchell]] after Mitchell's death in 2016. The notes record Vice Admiral [[Thomas Wilson]]'s alleged discovery in 1997 of a crash retrieval program, and his denial of access to it. Rigny's name became public when he appeared on Dolan's podcast to discuss the memo's origin and contents. Gerb also names Dolan, with [[Chris Mellon]], [[Ross Coulthart]] and [[Luis Elizondo|Lou Elizondo]], among those who have confirmed the document's authenticity. It was entered into the US Congressional Record in 2022.
+[[James Rigney]] copied the [[Wilson-Davis Memo]] from the estate of Apollo 14 astronaut [[Edgar Mitchell]] after Mitchell's death in 2016. The notes record Vice Admiral [[Thomas Wilson]]'s alleged discovery in 1997 of a crash retrieval program, and his denial of access to it. Rigney's name became public when he appeared on Dolan's podcast to discuss the memo's origin and contents. Gerb also names Dolan, with [[Chris Mellon]], [[Ross Coulthart]] and [[Luis Elizondo|Lou Elizondo]], among those who have confirmed the document's authenticity. It was entered into the US Congressional Record in 2022.
 
 ## The Advanced Group Six Leak
 

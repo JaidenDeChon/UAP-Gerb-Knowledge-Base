@@ -285,7 +285,7 @@ Stringfield documented at length an alleged elite rapid-reaction military unit c
 
 At a lecture at the University of Dade City, Florida, Stringfield met a former member of this unit, referred to as "Cam," who described the unit's structure and operations, including deployments in Vietnam. Cam said he had never taken part in a UFO retrieval himself, but knew a fellow Blue Beret who had recovered a "big head" from an alien craft.
 
-Between 1985 and 1987, a man named [[Jeff Morse]] contacted Stringfield and claimed to be a former Blue Beret. Morse described an incident at [[Fort Maguire Air Force Base]] (likely Fort Dix-McGuire) in which a non-human entity was shot to death by U.S. forces. Stringfield's Status Report IV is titled after the case: *The Fatal Encounter at Fort Dix-McGuire*.
+Between 1985 and 1987, a man named Jeff Morse contacted Stringfield and claimed to be a former Blue Beret. Morse described an incident at Fort Maguire Air Force Base (likely Fort Dix-McGuire) in which a non-human entity was shot to death by U.S. forces. Stringfield's Status Report IV is titled after the case: *The Fatal Encounter at Fort Dix-McGuire*.
 
 ## Investigation of the Kecksburg Case
 
@@ -293,7 +293,7 @@ Stringfield worked closely with Pennsylvania researcher [[Stan Gordon]] on the [
 
 ### Key Witness Interviews
 
-Stringfield personally interviewed trucker "[[Myron]]," who claimed to have delivered radiation-shielding bricks to [[Wright-Patterson Air Force Base|Wright-Patterson AFB]] days after the Kecksburg crash and to have glimpsed the bell-shaped craft inside a warehouse. The interview was videotaped at Myron's home by Stringfield's medical friend and research associate Dr. [[Brian Thompson]]. After long questioning, Stringfield wrote: "I feel convinced of Myron's sincerity."
+Stringfield personally interviewed trucker "[[Myron]]," who claimed to have delivered radiation-shielding bricks to [[Wright-Patterson Air Force Base|Wright-Patterson AFB]] days after the Kecksburg crash and to have glimpsed the bell-shaped craft inside a warehouse. The interview was videotaped at Myron's home by Stringfield's medical friend and research associate Dr. Brian Thompson. After long questioning, Stringfield wrote: "I feel convinced of Myron's sincerity."
 
 Stringfield also interviewed Myron's cousin "JS." When Stringfield first reached him on 3 October 1990, JS confirmed the brick delivery, the guards in protective clothing and a technician with a blowtorch, but was reluctant to say more for family reasons. Interviewed again from March 30 to April 1, 1991, he told a new story: he had made a solo delivery the day before he and Myron went to Wright-Patterson together, and had seen the object, shaped like the Liberty Bell, upright under a tarp on a lowboy trailer.
 

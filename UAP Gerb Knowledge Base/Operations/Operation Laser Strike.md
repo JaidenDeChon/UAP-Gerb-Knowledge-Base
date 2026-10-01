@@ -4,7 +4,7 @@ tags:
   - operation
 ---
 
-Operation Laser Strike was a classified US military counter-narcotics operation conducted in [[Peru]] under the authority of [[US SOUTHCOM|US Southern Command]] during 1996–1997. It used ground-based and aerial radar systems to track, identify, and interdict drug trafficking aircraft entering or leaving Peruvian airspace. Up to 20 US agencies took part, including the USMC, [[Drug Enforcement Administration]], US Air Force, CIA, National Guard, and US Army Special Forces, alongside local Peruvian forces such as the [[Peruvian Air Force]] (FAP).
+Operation Laser Strike was a classified US military counter-narcotics operation conducted in Peru under the authority of [[US SOUTHCOM|US Southern Command]] during 1996–1997. It used ground-based and aerial radar systems to track, identify, and interdict drug trafficking aircraft entering or leaving Peruvian airspace. Up to 20 US agencies took part, including the USMC, Drug Enforcement Administration, US Air Force, CIA, National Guard, and US Army Special Forces, alongside local Peruvian forces such as the [[Peruvian Air Force]] (FAP).
 
 ## Operational Scope
 
@@ -14,7 +14,7 @@ Over the 12 months from April 1996 to April 1997, Laser Strike radar tracked 45,
 
 ## Preceding Operations
 
-Laser Strike succeeded [[Operation Green Clover]] (1996), a similar but smaller US SOUTHCOM operation against narcotics transfer in Peru and Colombia. US Army Special Forces had deployed to the region before, through operations such as [[Operation Snow Cap]], a DEA counter-narcotics mission across nine Latin American countries.
+Laser Strike succeeded Operation Green Clover (1996), a similar but smaller US SOUTHCOM operation against narcotics transfer in Peru and Colombia. US Army Special Forces had deployed to the region before, through operations such as Operation Snow Cap, a DEA counter-narcotics mission across nine Latin American countries.
 
 ## UAP Connection
 

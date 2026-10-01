@@ -208,7 +208,7 @@ Other people in the ARV and free-energy research community have also died in str
 
 ## Related Figures and Context
 
-In his video on McCandlish, Gerb also sets the Flux Liner beside other alleged ARV-related accounts: [[Edgar Fouché]]'s claims about the triangular [[TR-3B]], [[Gary McKinnon]]'s alleged discovery of non-terrestrial USAF personnel records, and his own work on an alleged reverse-engineering group of the [[412th Test Wing]] at Edwards and Nellis Air Force Bases. Gerb counts some 10 to 15 alleged craft built with non-human intelligence technology to some extent, among them the Flux Liner, the [[Aurora Program|Aurora]] and the TR-3B. In later videos he notes that the cradled control sphere McCandlish and Sorenson described recurs in other triangle accounts, and that McCandlish reportedly saw a TR-3B-type triangle at a Lockheed Martin facility.
+In his video on McCandlish, Gerb also sets the Flux Liner beside other alleged ARV-related accounts: [[Edgar Fouche|Edgar Fouché]]'s claims about the triangular [[TR-3B]], [[Gary McKinnon]]'s alleged discovery of non-terrestrial USAF personnel records, and his own work on an alleged reverse-engineering group of the [[412th Test Wing]] at Edwards and Nellis Air Force Bases. Gerb counts some 10 to 15 alleged craft built with non-human intelligence technology to some extent, among them the Flux Liner, the [[Aurora Program|Aurora]] and the TR-3B. In later videos he notes that the cradled control sphere McCandlish and Sorenson described recurs in other triangle accounts, and that McCandlish reportedly saw a TR-3B-type triangle at a Lockheed Martin facility.
 
 ## Sources
 

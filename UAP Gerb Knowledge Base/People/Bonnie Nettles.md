@@ -15,7 +15,7 @@ Nettles' main theological contribution was the idea that the human body was mere
 
 ## Death
 
-Nettles died of cancer in 1985, 12 years before the 1997 mass suicide that killed 39 Heaven's Gate members in Rancho Santa Fe, California. The group worked her death into its theology: Applewhite taught that Nettles had successfully graduated to the Next Level and was waiting for them there. This belief contributed to the group's willingness to follow Applewhite into the 1997 collective suicide, which was timed to the passage of the [[Hale-Bopp Comet]].
+Nettles died of cancer in 1985, 12 years before the 1997 mass suicide that killed 39 Heaven's Gate members in Rancho Santa Fe, California. The group worked her death into its theology: Applewhite taught that Nettles had successfully graduated to the Next Level and was waiting for them there. This belief contributed to the group's willingness to follow Applewhite into the 1997 collective suicide, which was timed to the passage of the Hale-Bopp Comet.
 
 ## Sources
 

@@ -5,7 +5,7 @@ tags:
   - organization
 ---
 
-The **U.S. Department of Energy** (DOE) is a cabinet-level federal agency. It advances U.S. national security by maintaining and developing the nuclear weapons stockpile, promotes scientific and technological innovation, and oversees energy policy and nuclear waste management. The DOE runs a large network of national laboratories, production facilities and research sites. Many of them operate as [[Federally Funded Research and Development Centers (FFRDCs)|Federally Funded Research and Development Centers]] (FFRDCs) under contracts with major universities and private companies.
+The **U.S. Department of Energy** (DOE) is a cabinet-level federal agency. It advances U.S. national security by maintaining and developing the nuclear weapons stockpile, promotes scientific and technological innovation, and oversees energy policy and nuclear waste management. The DOE runs a large network of national laboratories, production facilities and research sites. Many of them operate as [[Federally Funded Research and Development Center (FFRDC)|Federally Funded Research and Development Centers]] (FFRDCs) under contracts with major universities and private companies.
 
 Its main sub-agencies and components include the [[National Nuclear Security Administration]] (NNSA), which manages the [[Nuclear Security Enterprise (NSE)]] and its weapons laboratories; the [[Office of Intelligence and Counterintelligence]] (OICI), the DOE's in-house intelligence agency; and the Office of Secure Transportation (OST), which moves nuclear materials and weapons components between facilities under heavily armed escort.
 
@@ -29,7 +29,7 @@ UAP research cites the DOE, together with the Department of Defense and major de
 - The Office of Secure Transportation (OST) is alleged to be used to move recovered UAP materials between secure DOE facilities under the same protocols used for nuclear weapons components.
 - The [[NEST (Nuclear Emergency Support Team)]], which operates under NNSA, is alleged to provide rapid radiological assessment teams at UAP crash sites. This matches reported observations of DOE personnel wearing MOPP gear at the alleged 1997 [[Peru UFO Crash Incident]].
 
-The *Age of Disclosure* documentary also names the DOE as one of four core institutions involved in legacy programs. The DOE manages the [[Tonopah Test Range]], a leading classified weapons testing facility with significant connections to UAP-related programs and lore.
+The *Age of Disclosure* documentary also names the DOE as one of four core institutions involved in legacy programs. The DOE manages the [[Tonopah Test Range (TTR)|Tonopah Test Range]], a leading classified weapons testing facility with significant connections to UAP-related programs and lore.
 
 ## Sources
 

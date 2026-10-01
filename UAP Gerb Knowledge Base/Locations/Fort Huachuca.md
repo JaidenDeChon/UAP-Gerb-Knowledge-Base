@@ -9,7 +9,7 @@ Fort Huachuca is a US Army installation in Cochise County, southern Arizona, fou
 
 ## Alleged UFO Connections
 
-[[Philip J. Corso]] and [[Steven Greer]] have accused Stubblebine, founder of [[Army INSCOM]], of taking part in UFO craft storage and material exploitation while he headed Army intelligence at Fort Huachuca. Gerb has repeated the accusation in several videos, and he estimates that the fort is heavily involved in UFO programs.
+[[Philip J. Corso]] and [[Steven Greer]] have accused Stubblebine, who commanded [[Army INSCOM]] from 1981 to 1984, of taking part in UFO craft storage and material exploitation while he headed Army intelligence at Fort Huachuca. Gerb has repeated the accusation in several videos, and he estimates that the fort is heavily involved in UFO programs.
 
 ## On Hamilton's Map
 

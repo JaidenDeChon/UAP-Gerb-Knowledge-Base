@@ -49,7 +49,7 @@ The person holding the information must be reliable and willing to follow throug
 ### Alternative Strategies
 
 Other whistleblowers have used variations on the idea:
-- Encrypted files given to several parties, with the decryption keys released on the owner's death (for example, [[Julian Assange]]'s insurance files)
+- Encrypted files given to several parties, with the decryption keys released on the owner's death (for example, Julian Assange's insurance files)
 - Automated services that require regular check-ins and release the information automatically if one is missed
 - Information left in legal custody with attorneys, under protected disclosure
 

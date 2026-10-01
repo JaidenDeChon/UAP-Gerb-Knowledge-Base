@@ -15,7 +15,7 @@ Several trained military observers watched the UAP for a sustained period, groun
 
 ## DSP Satellite Detection and Tracking
 
-[[Lee Graham]] and [[Ron Regehr]], satellite sensor technicians at [[Aerojet]] in California, established through their research that United States military [[Defense Support Program (DSP)]] satellites tracked the Tehran UFO Incident. During their investigation they found a computer printout from the time of the Iranian UFO overflight, which confirmed that the DSP satellite had detected an anomalous object in [[Iranian airspace]].
+[[Lee Graham]] and [[Ron Regehr]], satellite sensor technicians at [[Aerojet]] in California, established through their research that United States military [[Defense Support Program (DSP)]] satellites tracked the Tehran UFO Incident. During their investigation they found a computer printout from the time of the Iranian UFO overflight, which confirmed that the DSP satellite had detected an anomalous object in Iranian airspace.
 
 The printout showed:
 - 238 scans of the object
@@ -26,7 +26,7 @@ The data established that US space-based surveillance systems monitored the inci
 
 ## Technical Analysis Debate
 
-UFO researcher [[Brad Sparks]], an early co-founder of [[CAUS|Citizens Against UFO Secrecy]], analyzed the DSP detection data. He questioned whether the satellite had tracked the UFO itself or had instead detected the Iranian Mirage F-4 jets scrambled to pursue it. He also raised concerns about an "out of focus graphic image" that gave the date but no specific time, which made it hard to match the DSP detections precisely to the phases of the aerial encounter.
+UFO researcher [[Brad Sparks]], an early co-founder of [[Citizens Against UFO Secrecy (CAUS)|Citizens Against UFO Secrecy]], analyzed the DSP detection data. He questioned whether the satellite had tracked the UFO itself or had instead detected the Iranian Mirage F-4 jets scrambled to pursue it. He also raised concerns about an "out of focus graphic image" that gave the date but no specific time, which made it hard to match the DSP detections precisely to the phases of the aerial encounter.
 
 Whatever the answer, DSP tracking data for the incident exists, and getting access to it required substantial classification review. That shows US military space surveillance systems monitored the event and that the data remains sensitive decades later.
 

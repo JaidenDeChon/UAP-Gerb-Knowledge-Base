@@ -428,12 +428,12 @@ events:
   - date: "1989"
     title: "Sumner Shapiro describes craft shipped in pieces"
     cue: 1435
-    summary: "Referred by Admiral Bobby Ray Inman, NASA's Bob Echler met former Director of Naval Intelligence Sumner Shapiro, who said teams took recovered craft apart in an exact sequence and shipped them to laboratories around the country. Gerb asks whether Shapiro was describing Aztec."
+    summary: "Referred by Admiral Bobby Ray Inman, NASA's Bob Oechsler met former Director of Naval Intelligence Sumner Shapiro, who said teams took recovered craft apart in an exact sequence and shipped them to laboratories around the country. Gerb asks whether Shapiro was describing Aztec."
     category: event
     significance: notable
     entities:
-      - "Sumar Shapiro"
-      - "Bob Echler"
+      - "Sumner Shapiro"
+      - "Bob Oechsler"
       - "Bobby Ray Inman"
   - date: "1991"
     title: "Stringfield publishes the 'crash at Farmington' report"
@@ -603,7 +603,7 @@ steps:
 ---
 ::
 
-Two later accounts echo this. Admiral [[Bobby Ray Inman]] reportedly told NASA mission specialist [[Bob Echler]] in 1989 that the US held craft in operational condition, and pointed him to former Director of Naval Intelligence [[Sumar Shapiro|Sumner Shapiro]], who described craft of interlocking parts disassembled in an exact sequence and shipped between laboratories. And [[Edgar Fouche]]'s [[TR-3B]] has a rotatable crew compartment inside a magnetic field disruptor ring, which he said Sandia and Livermore reverse-engineered from non-human propulsion.
+Two later accounts echo this. Admiral [[Bobby Ray Inman]] reportedly told NASA mission specialist [[Bob Oechsler]] in 1989 that the US held craft in operational condition, and pointed him to former Director of Naval Intelligence [[Sumner Shapiro]], who described craft of interlocking parts disassembled in an exact sequence and shipped between laboratories. And [[Edgar Fouche]]'s [[TR-3B]] has a rotatable crew compartment inside a magnetic field disruptor ring, which he said Sandia and Livermore reverse-engineered from non-human propulsion.
 
 ### Who held the wreckage
 
@@ -917,7 +917,7 @@ rows:
 
 Gerb argues that one of the book's most important effects was to expose two insiders. In 1950 [[Wilbert B. Smith]] wrote a top-secret memo to Canada's Department of Transport saying that saucers exist, that the subject was classified higher than the H-bomb, and that a small group under Vannevar Bush was studying them. The memo was downgraded in 1969 and found by [[Arthur Bray]] and [[Stanton Friedman]] in 1978. Smith's source was [[Robert Sarbacher]], a physicist and consultant to Bush's Research and Development Board, whom Smith interviewed on 15 September 1950 precisely to ask how much of Scully's book was true. "The facts reported in the book are substantially correct," Sarbacher replied. Smith went on to lead Canada's Projects Magnet and Second Story. Decades later Sarbacher told Steinman that recovery meetings were held at Wright-Patterson with Bush, von Neumann and Oppenheimer, and that the materials were "extremely light and very tough." He said he had the impression the occupants were "constructed like certain insects." He told Friedman in 1983 that one man had attended every meeting: an RDB member who wrote a book on electrical engineering and headed the electrical engineering department at a university in Pennsylvania.
 
-Steinman traced that man to [[Eric A. Walker]], Penn State president, founder of its Applied Research Laboratory, and the RDB's executive secretary from 1950 to 1952. Friedman found an early-1950s Army document on "indoctrination for special intelligence for Mr. Eric Arthur Walker," and Walker later worked on Project Azorian. His replies to Steinman were strange: a cut-up letter reading "Stop. Don't try and find me," then, in a 30 August 1987 phone call, "Yes, I attended meetings concerning that subject matter," along with the admission that he had known of MJ-12 for 40 years. He told Henry Azadehdel he had been at the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg recovery]]. Gerb believes Walker, who joined the Research and Development Board a year after Aztec, knew a great deal about it.
+Steinman traced that man to [[Eric A. Walker]], Penn State president, founder of its Applied Research Laboratory, and the RDB's executive secretary from 1950 to 1952 (Gerb's Sarbacher and Kecksburg videos say 1950 to 1951). Friedman found an early-1950s Army document on "indoctrination for special intelligence for Mr. Eric Arthur Walker," and Walker later worked on Project Azorian. His replies to Steinman were strange: a cut-up letter reading "Stop. Don't try and find me," then, in a 30 August 1987 phone call, "Yes, I attended meetings concerning that subject matter," along with the admission that he had known of MJ-12 for 40 years. He told Henry Azadehdel he had been at the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg recovery]]. Gerb believes Walker, who joined the Research and Development Board a year after Aztec, knew a great deal about it.
 
 ## The Interplanetary Phenomenon Unit
 
@@ -984,7 +984,7 @@ Speaking to camera at the end, Gerb explains why he took up a case he had once d
 
 ## Related Pages
 
-- **People**: [[Silas Newton]], [[Leo GeBauer]], [[Frank Scully]], [[J. P. Cahn]], [[Herman Flader]], [[George Koehler]], [[Carl A. Heiland]], [[John Torrence Tate]], [[Eric Henry Wang]], [[William Steinman]], [[Scott and Suzanne Ramsey]], [[Leonard Stringfield]], [[Robert Spencer Carr]], [[Bill Moore]], [[Richard Doty]], [[Valentine Archuleta]], [[Doug Noland]], [[Manuel Sandoval]], [[Ken Farley]], [[George C. Marshall]], [[Vannevar Bush]], [[Detlev Bronk]], [[J. Robert Oppenheimer]], [[John Von Neumann]], [[Robert Sarbacher]], [[Wilbert B. Smith]], [[Eric A. Walker]], [[Arthur Bray]], [[Stanton Friedman]], [[J. Edgar Hoover]], [[Guy Hottel]], [[Andrew Kissner]], [[Bobby Ray Inman]], [[Bob Echler]], [[Sumar Shapiro]], [[Edgar Fouche]], [[Philip J. Corso]], [[Arthur Stansel Jr.]], [[James Forrestal]], [[Brad Sparks]], [[Kevin Randle]], [[Tim Cooper]], [[Robert Wood]], [[Ross Coulthart]], [[Jonathan Weygandt]], [[Mark McCandlish]]
+- **People**: [[Silas Newton]], [[Leo GeBauer]], [[Frank Scully]], [[J. P. Cahn]], [[Herman Flader]], [[George Koehler]], [[Carl A. Heiland]], [[John Torrence Tate]], [[Eric Henry Wang]], [[William Steinman]], [[Scott and Suzanne Ramsey]], [[Leonard Stringfield]], [[Robert Spencer Carr]], [[Bill Moore]], [[Richard Doty]], [[Valentine Archuleta]], [[Doug Noland]], [[Manuel Sandoval]], [[Ken Farley]], [[George C. Marshall]], [[Vannevar Bush]], [[Detlev Bronk]], [[J. Robert Oppenheimer]], [[John Von Neumann]], [[Robert Sarbacher]], [[Wilbert B. Smith]], [[Eric A. Walker]], [[Arthur Bray]], [[Stanton Friedman]], [[J. Edgar Hoover]], [[Guy Hottel]], [[Andrew Kissner]], [[Bobby Ray Inman]], [[Bob Oechsler]], [[Sumner Shapiro]], [[Edgar Fouche]], [[Philip J. Corso]], [[Arthur Stansel Jr.]], [[James Forrestal]], [[Brad Sparks]], [[Kevin Randle]], [[Tim Cooper]], [[Robert Wood]], [[Ross Coulthart]], [[Jonathan Weygandt]], [[Mark McCandlish]]
 - **Organizations**: [[Interplanetary Phenomenon Unit]], [[Majestic 12]], [[Air Force Office of Special Investigations]], [[Geophysical Service Inc. (GSI)]], [[Los Alamos National Laboratory]], [[Sandia National Laboratories]], [[Atomic Energy Commission]], [[Armed Forces Special Weapons Project (AFSWP)]], [[Research and Development Board]], [[Bureau of Reclamation]]
 - **Locations**: [[Aztec, New Mexico]], [[Durango, Colorado]], [[Cuba, New Mexico]], [[Cedar Hill, New Mexico]], [[Roswell Army Airfield]], [[Kirtland Air Force Base, New Mexico]], [[Wright-Patterson Air Force Base]], [[Edwards Air Force Base]], [[White Sands Missile Range]]
 - **Concepts**: [[Hottel Memo]], [[MJ-12 Documents]], [[Project Twinkle]], [[TR-3B]], [[Strategic Defense Initiative (SDI)]]

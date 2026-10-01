@@ -5,7 +5,7 @@ tags:
   - location
 ---
 
-**Tehran** is the capital and largest city of Iran. It is where the [[1976 Tehran UFO Incident]] unfolded, one of the most rigorously documented UAP encounters involving military aviators in history. Two Imperial Iranian Air Force [[F-4 Phantom]] jets were scrambled to intercept a UAP hovering over the city. Both pilots lost all of their avionics as they approached it, and the main craft apparently released a second object.
+**Tehran** is the capital and largest city of Iran. It is where the [[1976 Tehran UFO Incident]] unfolded, one of the most rigorously documented UAP encounters involving military aviators in history. Two Imperial Iranian Air Force F-4 Phantom jets were scrambled to intercept a UAP hovering over the city. Both pilots lost all of their avionics as they approached it, and the main craft apparently released a second object.
 
 ## UAP Significance
 
@@ -15,7 +15,7 @@ The main object appeared diamond-shaped. As Jafari moved to engage it, a smaller
 
 A [[Defense Support Program (DSP)]] satellite tracked the event independently. Lee Graham and Ron Regehr, researchers who worked as satellite sensor technicians at Aerojet in California, later found a DSP computer printout confirming that an anomalous object was detected in Iranian airspace during the incident. The printout gave the pilots' testimony confirmation from a second source.
 
-In his physics analysis of UAP, [[Dr. Kevin Knuth]] cites the Tehran incident as a representative case of electromagnetic field effects disrupting aircraft avionics. Such effects are consistent with the electromagnetic propulsion signatures theorized to surround advanced craft that use non-Newtonian propulsion systems.
+In his physics analysis of UAP, [[Kevin Knuth|Dr. Kevin Knuth]] cites the Tehran incident as a representative case of electromagnetic field effects disrupting aircraft avionics. Such effects are consistent with the electromagnetic propulsion signatures theorized to surround advanced craft that use non-Newtonian propulsion systems.
 
 ## Sources
 

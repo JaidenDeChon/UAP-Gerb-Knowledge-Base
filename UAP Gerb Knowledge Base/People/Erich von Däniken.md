@@ -14,7 +14,7 @@ Von Däniken argues that ancient structures, artwork and religious texts around 
 - Megalithic structures such as the Pyramids of Giza, Easter Island's moai and Stonehenge required engineering knowledge beyond what ancient human civilizations had. Von Däniken attributes their construction to extraterrestrial help or instruction.
 - Many ancient carvings, paintings and sculptures, he says, depict astronauts in space suits, spacecraft and advanced technology. One of the pieces of evidence he cites most often is the so-called "Palenque astronaut" carved on a Mayan sarcophagus lid.
 - Major religious traditions, he argues, are records of contact with extraterrestrials whom ancient humans took for gods. His readings of the Old Testament include two in particular:
-  - He reinterprets the prophet [[Ezekiel]]'s visions of "wheels within wheels" and of four-faced beings ([[Biblically Accurate Angels]]) as encounters with advanced spacecraft.
+  - He reinterprets the prophet Ezekiel's visions of "wheels within wheels" and of four-faced beings (Biblically Accurate Angels) as encounters with advanced spacecraft.
   - He proposes that the destruction of Sodom and Gomorrah by "fire and brimstone" records a nuclear detonation.
 - The Nazca Lines, large geoglyphs etched into the Peruvian desert, were in his view landing strips or navigational markers for extraterrestrial aircraft.
 

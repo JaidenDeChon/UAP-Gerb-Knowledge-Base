@@ -103,7 +103,7 @@ Alexander was also one of the people Corso told about his claimed 1957-1958 [[Wh
 
 ## Criticism of Technology Claims
 
-Although he acknowledges some aspects of Corso's testimony, Alexander has criticized specific claims that technology was seeded. He objected in particular to Corso's assertions about [[Passive Night Vision Technology]], saying that the whole lineage of infrared and night vision technology can be accounted for by conventional development. Alexander said he spoke to Dr. [[Lou Cameron]], director of the night vision laboratory at Fort Belvoir, Virginia, who flatly denied that an eye lens from a non-human intelligence had aided breakthroughs in passive night vision.
+Although he acknowledges some aspects of Corso's testimony, Alexander has criticized specific claims that technology was seeded. He objected in particular to Corso's assertions about [[Passive Night Vision Technology]], saying that the whole lineage of infrared and night vision technology can be accounted for by conventional development. Alexander said he spoke to Dr. Lou Cameron, director of the night vision laboratory at Fort Belvoir, Virginia, who flatly denied that an eye lens from a non-human intelligence had aided breakthroughs in passive night vision.
 
 Gerb sets Alexander's objection beside that of [[Jacques Vallee]], who is well versed in computer science and found that Corso's assertions about integrated circuitry were not documented facts.
 

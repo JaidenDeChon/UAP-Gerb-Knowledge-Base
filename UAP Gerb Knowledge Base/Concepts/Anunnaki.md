@@ -12,7 +12,7 @@ In Mesopotamian religion, the Anunnaki were a pantheon of fifty or more deities,
 
 ## Sitchin's Extraterrestrial Interpretation
 
-[[Zecharia Sitchin]] claimed in his 1976 book *The 12th Planet* and later works that his translations of Sumerian cuneiform tablets showed the Anunnaki to be real, physical extraterrestrial beings. In his account they came from an undiscovered planet called [[Nibiru]], which follows an extremely elongated elliptical orbit around the Sun. According to Sitchin:
+[[Zecharia Sitchin]] claimed in his 1976 book *The 12th Planet* and later works that his translations of Sumerian cuneiform tablets showed the Anunnaki to be real, physical extraterrestrial beings. In his account they came from an undiscovered planet called Nibiru, which follows an extremely elongated elliptical orbit around the Sun. According to Sitchin:
 
 - The Anunnaki arrived on Earth approximately 450,000–500,000 years ago.
 - They set up operations on Earth mainly to extract gold.
@@ -23,7 +23,7 @@ Academic Assyriologists and Sumerian linguists have rejected Sitchin's translati
 
 ## Connection to Other Theories
 
-[[David Icke]] has claimed that the Anunnaki are the same entities as his proposed [[Reptilian]] extraterrestrial controlling class, a position Sitchin himself rejected. The Anunnaki mythology also overlaps with alternative interpretations of human genetic origins and ancient religion, and with the hypothesis that the UAP phenomenon has been present in human experience for millennia.
+[[David Icke]] has claimed that the Anunnaki are the same entities as his proposed [[Reptilian Theory|Reptilian]] extraterrestrial controlling class, a position Sitchin himself rejected. The Anunnaki mythology also overlaps with alternative interpretations of human genetic origins and ancient religion, and with the hypothesis that the UAP phenomenon has been present in human experience for millennia.
 
 ## Sources
 

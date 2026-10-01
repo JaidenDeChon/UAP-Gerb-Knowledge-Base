@@ -4,7 +4,7 @@ tags:
   - concept
 ---
 
-"Sentinels of Ether" is an unpublished book reportedly being written by an anonymous insider who contacted whistleblower [[Michael Herrera]] following Herrera's testimony at the 2023 National Press Club event. The book is described as a mix of truth and fiction, like [[Tom DeLonge]]'s "Secret Machines" series, and is allegedly part of a disclosure strategy the insider calls "[[4D Chess on DOPSR]]."
+"Sentinels of Ether" is a book about a 2004 operation in Mexico. In his 2024 video on whistleblower [[Michael Herrera]], Gerb says it was being written by an anonymous insider who contacted Herrera after his testimony at the 2023 National Press Club event. In his 2025 video on deep underground military bases, Gerb calls it [[Jake Barber]]'s roman à clef. The book is described as a mix of truth and fiction, like [[Tom DeLonge]]'s "Secret Machines" series, and is allegedly part of a disclosure strategy the insider calls "[[4D Chess on DOPSR]]."
 
 ## Content and Setting
 
@@ -18,7 +18,8 @@ The shipping containers echo [[Michael Herrera]]'s 2009 encounter in Indonesia, 
 
 ## Authorship and Publication Status
 
-- The author is an anonymous insider who claims 30+ years in classified UAP programs.
+- In the 2024 Herrera video, the author is an anonymous insider who claims 30+ years in classified UAP programs.
+- In the 2025 DUMBs video, Gerb names the author as Jake Barber. Neither video says whether the insider and Barber are the same person.
 - A professional ghost writer is writing the book.
 - The manuscript has been submitted to the [[DOPSR (Defense Office of Prepublication and Security Review)|Defense Office of Prepublication and Security Review]] (DOPSR) for clearance before publication.
 - The Insider gave Michael Herrera a two-chapter excerpt that is currently under DOPSR review.

@@ -9,7 +9,7 @@ tags:
 
 Randy Anderson is a former US Army Special Forces (Green Beret) 18 Bravo weapons sergeant and a personal friend of Gerb. He says that during an advanced weapons course at [[Naval Surface Warfare Center Crane|Naval Surface Warfare Center (NSWC) Crane]] in Indiana, a contractor took him to an underground site called the "[[Off-World Technologies Division]]" and showed him two recovered objects. His account is one of the main sources for Gerb's investigations into NSWC Crane and into [[SAIC]], which Gerb believes ran the division. Anderson has also told Gerb that he saw triangular craft operating on Department of Energy land near [[Area 51]].
 
-Gerb first presented his testimony on 17 July 2024 without naming him, as "[[RA]]". Anderson later told his story under his own name to [[Jesse Michaels|Jesse Michels]] on the *American Alchemy* channel, and Gerb took his first video down so that the interview could reach a wider audience.
+Gerb first presented his testimony on 17 July 2024 without naming him, as "[[RA]]", and his Dugway Proving Ground video calls it "the testimony of RA or we now know Randy Anderson". The RA page covers that anonymous account. Anderson later told his story under his own name to [[Jesse Michels]] on the *American Alchemy* channel, and Gerb took his first video down so that the interview could reach a wider audience.
 
 ## On the Record
 
@@ -28,7 +28,7 @@ items:
     title: "Interview with Jesse Michels"
     where: "American Alchemy"
     with:
-      - "Jesse Michaels"
+      - "Jesse Michels"
     note: "Anderson tells the Crane story under his own name. Gerb calls it his \"excellent interview on Jesse Michaels\"."
     source: "UFO Legacy Programs - Science Applications International Corporation (SAIC)"
 ---

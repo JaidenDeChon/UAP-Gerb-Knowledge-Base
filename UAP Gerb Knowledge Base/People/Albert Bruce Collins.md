@@ -17,7 +17,7 @@ Gerb says the multi-layered honeycomb skin is the detail that lends Collins some
 
 ## Alleged Knowledge of UAP Programs
 
-Collins claimed that around 1949 he studied metal of unknown composition and origin in an official capacity, and in doing so learned of multiple agencies involved in [[Technologies of Unknown Origin (TUO)]] research. These included the intelligence offices of the US Army, Air Force, and Navy, the [[CIA]], the [[RAND Corporation]] (founded the year before), and the [[Vatican]]. He named several alleged joint projects:
+Collins claimed that around 1949 he studied metal of unknown composition and origin in an official capacity, and in doing so learned of multiple agencies involved in [[Technologies of Unknown Origin|Technologies of Unknown Origin (TUO)]] research. These included the intelligence offices of the US Army, Air Force, and Navy, the [[CIA]], the [[RAND Corporation]] (founded the year before), and the [[Vatican]]. He named several alleged joint projects:
 
 - Project Archangel, between the CIA, RAND, and the Vatican
 - Project Black Book, under the Air Force

@@ -7,7 +7,7 @@ tags:
   - person
 ---
 
-R. Evans "Evan" Hineman, called Everett Heinman in Gerb's videos and on this site, is a retired CIA official. He was the CIA's Deputy Director for Science and Technology, the head of the [[CIA Directorate of Science and Technology]] (DS&T), and at the same time director of [[NRO (National Reconnaissance Office)|NRO]] Program B, the CIA's satellite reconnaissance program, from 1982 until he retired in 1989. He was the first chief of Program B's ground element at [[Pine Gap, Australia]]. His name entered UAP research through the 1989 [[Inman-Echler Telephone Call]], in which Admiral [[Bobby Ray Inman]] named him as the person to ask whether recovered UFO vehicles might be made available for research. Gerb counts him among thirteen officials with NRO ties he considers likely current or former legacy-program members or gatekeepers.
+R. Evans "Evan" Hineman, called Everett Heinman in Gerb's videos and on this site, is a retired CIA official. He was the CIA's Deputy Director for Science and Technology, the head of the [[CIA Directorate of Science and Technology]] (DS&T), and at the same time director of [[NRO (National Reconnaissance Office)|NRO]] Program B, the CIA's satellite reconnaissance program, from 1982 until he retired in 1989. He was the first chief of Program B's ground element at [[Pine Gap, Australia]]. His name entered UAP research through the 1989 [[Inman-Oechsler Telephone Call]], in which Admiral [[Bobby Ray Inman]] named him as the person to ask whether recovered UFO vehicles might be made available for research. Gerb counts him among thirteen officials with NRO ties he considers likely current or former legacy-program members or gatekeepers.
 
 The name is often garbled. Gerb notes that it "gets quite convoluted sometimes" and gives it as "R. Everett or Evans Heinman"; the CIA's published chronology of its senior management and his later professional biographies spell it R. Evans Hineman.
 
@@ -75,20 +75,20 @@ events:
     entities:
       - "Navy Special Program"
   - date: "1989"
-    title: "Inman names him to Bob Echler"
-    summary: "In a recorded call, Admiral Bobby Ray Inman tells NASA mission specialist Bob Echler that the CIA's deputy director for science and technology would be high on the list of people to ask whether recovered vehicles might become available for research."
+    title: "Inman names him to Bob Oechsler"
+    summary: "In a recorded call, Admiral Bobby Ray Inman tells NASA mission specialist Bob Oechsler that the CIA's deputy director for science and technology would be high on the list of people to ask whether recovered vehicles might become available for research."
     category: event
     significance: major
     entities:
       - "Bobby Ray Inman"
-      - "Bob Echler"
-      - "Inman-Echler Telephone Call"
+      - "Bob Oechsler"
+      - "Inman-Oechsler Telephone Call"
   - date: "1989-08-10"
-    title: "Meets Echler at CIA headquarters"
+    title: "Meets Oechsler at CIA headquarters"
     summary: "At Langley, Heinman denies any knowledge of UFOs or UFO legacy programs."
     category: event
     entities:
-      - "Bob Echler"
+      - "Bob Oechsler"
   - date: "1989-09"
     title: "Retires from government"
     category: person
@@ -101,13 +101,13 @@ events:
 ---
 ::
 
-## The 1989 Referral and Meeting with Bob Echler
+## The 1989 Referral and Meeting with Bob Oechsler
 
-Admiral Lord Hill-Norton put NASA mission specialist [[Bob Echler]] in touch with Inman. In their recorded 1989 call, Echler asked whether recovered vehicles might ever be available for research outside the military, and Inman answered that "ten years ago, the answer would have been no". He then named Heinman as a place to start:
+Admiral Lord Hill-Norton put NASA mission specialist [[Bob Oechsler]] in touch with Inman. In their recorded 1989 call, Oechsler asked whether recovered vehicles might ever be available for research outside the military, and Inman answered that "ten years ago, the answer would have been no". He then named Heinman as a place to start:
 
 > "The deputy director for science and technology at CIA is named Everett Heinman. He is in fact getting ready to retire in the very near future. That may make him somewhat more willing to have dialogues than he otherwise would have had. When I knew him in the period 7 to 10 years ago, he was a person of very substantial integrity and just good common sense. So, as a place to start, he would clearly be high on the list."
 
-Inman also put Echler in touch with former Director of Naval Intelligence [[Sumar Shapiro|Sumner Shapiro]]. Echler met Heinman at CIA headquarters in Langley, Virginia, on 10 August 1989, and Heinman denied any knowledge of UFOs or UFO legacy programs. Gerb notes that Inman, a former director of the [[National Underwater Reconnaissance Office]] (NURO), sent Echler to the head of the DS&T, one of NURO's two founding agencies.
+Inman also put Oechsler in touch with former Director of Naval Intelligence [[Sumner Shapiro]]. Oechsler met Heinman at CIA headquarters in Langley, Virginia, on 10 August 1989, and Heinman denied any knowledge of UFOs or UFO legacy programs. Gerb notes that Inman, a former director of the [[National Underwater Reconnaissance Office]] (NURO), sent Oechsler to the head of the DS&T, one of NURO's two founding agencies.
 
 ## 2022 Contact by RGH UFOs
 

@@ -9,6 +9,8 @@ tags:
 
 RA is an anonymous US Army Special Forces operator, a Green Beret who served in the 1st Special Forces Command (Airborne) as an 18 Bravo weapons sergeant. The Army describes the soldiers in this specialty as among the most highly skilled in the world. 18 Bravos operate and maintain a wide range of weapons, including small arms, heavy weapons, bombs and mines, both allied and foreign. RA says that sometime between 2013 and 2015, while holding a TS/SCI clearance, he was sent to the [[Naval Surface Warfare Center Crane]] in Indiana for a weapons course (see [[RA's Weapons Training Course at NSWC Crane]]). He claims that during this assignment he was escorted into a deep underground area his guide called the "[[Off-World Technologies Division]]", where he saw two pieces of technology described as non-human in origin: a seamless metallic sphere said to interact with consciousness, and a gauntlet-like device identified as a weapon because it had discharged an energy pulse during its recovery. Gerb presented his testimony for the first time in July 2024.
 
+RA is the name Gerb gave this witness in that anonymous July 2024 account. The witness later went public as [[Randy Anderson]], and Gerb's Dugway Proving Ground video refers to "the testimony of RA or we now know Randy Anderson". This page covers the anonymous account; his later, named account is on the Randy Anderson page.
+
 ## Background and Credentials
 
 Gerb calls RA "easily the most accomplished and credentialed US soldier" he has spoken to, and says his credentials were "thoroughly vetted": RA gave him a full list of his certifications and his DD214 discharge record. According to Gerb, they include:

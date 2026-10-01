@@ -24,7 +24,7 @@ This claim is demonstrably false. Moon Dust documents have since been obtained t
 
 ## Timing and SAP Reorganization
 
-The Air Force's denial and alleged document destruction in the mid-1990s coincided with what Admiral [[Admiral Thomas Wilson|Thomas Wilson]] described in the [[Wilson-Davis Memo]] as a reorganization of Special Access Programs in the early 1990s. According to Wilson, crash retrieval and reverse engineering programs were reorganized into deeper compartments (SAP-X structures) to make them inaccessible even to senior intelligence officials.
+The Air Force's denial and alleged document destruction in the mid-1990s coincided with what Admiral [[Thomas Wilson|Thomas Wilson]] described in the [[Wilson-Davis Memo]] as a reorganization of Special Access Programs in the early 1990s. According to Wilson, crash retrieval and reverse engineering programs were reorganized into deeper compartments (SAP-X structures) to make them inaccessible even to senior intelligence officials.
 
 The timing suggests the Air Force may have destroyed or reclassified Moon Dust files as part of this broader compartmentalization effort, using the reorganization as cover to deny Congressional access to UAP legacy program documentation.
 
@@ -32,7 +32,7 @@ The timing suggests the Air Force may have destroyed or reclassified Moon Dust f
 
 Domenici's persistent interest in Moon Dust fits New Mexico's unique place in UFO history:
 
-- [[Roswell]], New Mexico, site of the famous 1947 crash
+- [[Roswell, New Mexico|Roswell]], New Mexico, site of the famous 1947 crash
 - Multiple alleged retrieval sites and underground facilities
 - High concentration of sensitive military installations including [[White Sands Missile Range]] and [[Sandia National Laboratories]]
 

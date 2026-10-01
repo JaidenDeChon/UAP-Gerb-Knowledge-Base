@@ -15,7 +15,7 @@ Betty Hill's account included a star map shown to her by the beings. In a well-k
 
 ## Significance
 
-The Betty and Barney Hill case became the first widely reported [[Alien Abduction]] case in the United States. It established many of the elements of the experience that later became standard reference points in abduction research, such as missing time, a physical examination and suppressed memories. UFO literature still links Lancaster and the surrounding White Mountains region with the case.
+The Betty and Barney Hill case became the first widely reported Alien Abduction case in the United States. It established many of the elements of the experience that later became standard reference points in abduction research, such as missing time, a physical examination and suppressed memories. UFO literature still links Lancaster and the surrounding White Mountains region with the case.
 
 ## Sources
 

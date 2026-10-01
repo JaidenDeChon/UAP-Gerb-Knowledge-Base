@@ -17,7 +17,7 @@ According to the Wilson-Davis Memo, Wilson used his J2 position to search Pentag
 
 ## Significance
 
-The event is frequently cited as evidence that [[Unacknowledged Special Access Program (USAP)|unacknowledged SAPs]] related to UAP have escaped congressional and senior military oversight, and that private-sector contractors, not government agencies, are the true custodians of retrieved craft. Wilson's alleged encounter with these gatekeepers fits the arrangement [[David Grusch]] described in his 2023 congressional testimony.
+The event is frequently cited as evidence that unacknowledged SAPs related to UAP have escaped congressional and senior military oversight, and that private-sector contractors, not government agencies, are the true custodians of retrieved craft. Wilson's alleged encounter with these gatekeepers fits the arrangement [[David Grusch]] described in his 2023 congressional testimony.
 
 ## Sources
 

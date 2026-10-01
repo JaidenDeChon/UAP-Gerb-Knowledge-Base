@@ -309,7 +309,7 @@ Through these insider contacts, Herrera learned:
 - The operation he witnessed was human trafficking for classified programs, not drug trafficking
 - Individuals are recruited from disaster zones under false pretenses and used as "pink assets" (biological subjects/equipment)
 - Participants are heavily drugged and do not fully understand or remember their involvement
-- Two groups within the US government study UAP: the "Blue Group" (programs with congressional oversight, such as AARO, AATIP, and Project Blue Book) and the "Black Group" (an organization founded in the 1940s to reverse engineer non-human intelligence technology, which operates without oversight in a way that mirrors the [[Wilson Davis Memo]])
+- Two groups within the US government study UAP: the "Blue Group" (programs with congressional oversight, such as AARO, AATIP, and Project Blue Book) and the "Black Group" (an organization founded in the 1940s to reverse engineer non-human intelligence technology, which operates without oversight in a way that mirrors the [[Wilson-Davis Memo|Wilson Davis Memo]])
 - The Black Group has successfully reverse-engineered non-human intelligence (NHI) craft to an unknown degree and uses these craft in operations. Flying craft are considered "boring tech" compared with its other technologies
 - EMP-like weapons have been developed that can target, disrupt, and disable UAP so that they can be retrieved after a crash
 - The program recruits people with psionic abilities (called "P3"), often from third-world nations, because such people are needed to interface with and control NHI technology
@@ -333,7 +333,7 @@ Herrera says he has been in contact with David Grusch and has put insiders in to
 
 Herrera's account closely resembles other UAP encounter testimonies that Gerb has documented:
 
-- Like [[Rodrik Castle]] and [[Jonathan Weygandt]], Herrera encountered personnel in all-black or unmarked gear who could not be identified as conventional military. Gerb's theory is that these were [[Wackenhut Corporation|Wackenhut]]-trained [[DOE Special Response Teams|DOE Special Response Teams (SRTs)]]
+- Like [[Rodrik Castle]] and [[Jonathan Weygandt]], Herrera encountered personnel in all-black or unmarked gear who could not be identified as conventional military. Gerb's theory is that these were [[Wackenhut Services|Wackenhut]]-trained [[DOE Special Response Teams (SRTs)|DOE Special Response Teams (SRTs)]]
 - All three witnesses were detained, debriefed, and warned against disclosure
 - After his encounter, Herrera received an anthrax booster shot, the same post-encounter medical protocol given to Castle and Weygandt. Gerb theorizes that this may be connected to proximity to nuclear-powered craft or to materials associated with the [[Atomic Energy Act of 1954]]
 - All three witnesses were active-duty Marines at the time of their encounters

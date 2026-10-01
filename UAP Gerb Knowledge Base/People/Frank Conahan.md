@@ -4,7 +4,7 @@ tags:
   - person
 ---
 
-Frank C. Conahan was Director of the National Security and International Affairs Division of the US [[General Accounting Office]] (GAO). UAP researchers know him for his July 24, 1986 testimony to Congress before the Subcommittee on Oversight and Investigation, in which he described severe failures of document control and gaps in oversight in [[Lockheed Martin]]'s (then Lockheed Corporation's) classified special access programs.
+Frank C. Conahan was Director of the National Security and International Affairs Division of the US General Accounting Office (GAO). UAP researchers know him for his July 24, 1986 testimony to Congress before the Subcommittee on Oversight and Investigation, in which he described severe failures of document control and gaps in oversight in [[Lockheed Martin]]'s (then Lockheed Corporation's) classified special access programs.
 
 ## 1986 GAO Testimony
 

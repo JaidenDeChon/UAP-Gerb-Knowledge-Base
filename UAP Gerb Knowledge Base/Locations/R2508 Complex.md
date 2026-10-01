@@ -6,11 +6,11 @@ tags:
   - location
 ---
 
-The R2508 Complex is a large area of restricted airspace and associated land in the upper Mojave Desert of Southern California. It is managed jointly by [[Edwards Air Force Base]] (412th Test Wing), [[China Lake|Naval Air Weapons Station China Lake]], and National Training Center Fort Irwin. The complex contains some of the most active military flight test and training airspace in the world, and its uses range from experimental aircraft evaluation to weapons testing and large-force tactical exercises.
+The R2508 Complex is a large area of restricted airspace and associated land in the upper Mojave Desert of Southern California. It is managed jointly by [[Edwards Air Force Base]] (412th Test Wing), [[China Lake Naval Air Weapons Station|Naval Air Weapons Station China Lake]], and National Training Center Fort Irwin. The complex contains some of the most active military flight test and training airspace in the world, and its uses range from experimental aircraft evaluation to weapons testing and large-force tactical exercises.
 
 ## Access and Poncho-3 Clearance
 
-A system of clearances tightly controls access to R2508. Poncho-3 clearance lets only locally based aircraft into specific restricted sections of R2508, and only a small number of facilities hold it: Edwards AFB, China Lake, [[NAS Lemoore|Naval Air Station Lemoore]], and Palmdale Plant 42. These limits matter in UAP research because they restrict which units and installations can operate in airspace where alleged alien reproduction vehicles are theorized to be tested and deployed.
+A system of clearances tightly controls access to R2508. Poncho-3 clearance lets only locally based aircraft into specific restricted sections of R2508, and only a small number of facilities hold it: Edwards AFB, China Lake, [[Naval Air Station Lemoore (NAS Lemoore)|Naval Air Station Lemoore]], and Palmdale Plant 42. These limits matter in UAP research because they restrict which units and installations can operate in airspace where alleged alien reproduction vehicles are theorized to be tested and deployed.
 
 ## UAP Significance
 

@@ -4,7 +4,7 @@ tags:
   - concept
 ---
 
-Zero Point Energy (ZPE) is the lowest possible energy state of a quantum mechanical system. It is the energy a system still has at absolute zero temperature, and no amount of cooling can remove it. In quantum field theory, the vacuum of space is filled with fluctuating quantum fields, and ZPE is the ground-state energy of those fields throughout spacetime. Physicist [[James Clerk Maxwell]] calculated that the energy density of this vacuum fluctuation is so large that the energy in a single cubic yard of empty space, if it could all be extracted, would be enough to boil all of Earth's oceans. More recent theoretical estimates cited by researcher [[Mark McCandlish]] put the ZPE density at approximately 10^109 joules per cubic centimeter.
+Zero Point Energy (ZPE) is the lowest possible energy state of a quantum mechanical system. It is the energy a system still has at absolute zero temperature, and no amount of cooling can remove it. In quantum field theory, the vacuum of space is filled with fluctuating quantum fields, and ZPE is the ground-state energy of those fields throughout spacetime. Physicist James Clerk Maxwell calculated that the energy density of this vacuum fluctuation is so large that the energy in a single cubic yard of empty space, if it could all be extracted, would be enough to boil all of Earth's oceans. More recent theoretical estimates cited by researcher [[Mark McCandlish]] put the ZPE density at approximately 10^109 joules per cubic centimeter.
 
 ## Role in ARV Propulsion Claims
 

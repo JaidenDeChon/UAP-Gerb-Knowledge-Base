@@ -5,7 +5,7 @@ tags:
   - location
 ---
 
-Cedar Hill is a small community in San Juan County, in northwestern New Mexico. In UAP accounts it is where Ken Farley was heading on the day he turned off instead to investigate anomalous activity at Hart Canyon Road near Aztec, the site of the alleged 1948 [[Aztec UFO Case|Aztec UFO crash]].
+Cedar Hill is a small community in San Juan County, in northwestern New Mexico. In UAP accounts it is where Ken Farley was heading on the day he turned off instead to investigate anomalous activity at Hart Canyon Road near Aztec, the site of the alleged 1948 [[Aztec UFO Crash and Recovery|Aztec UFO crash]].
 
 ## Connection to the Aztec Case
 

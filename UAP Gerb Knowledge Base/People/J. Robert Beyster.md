@@ -13,7 +13,7 @@ Beyster served in the U.S. Navy in the Second World War and earned a PhD in nucl
 
 ## Founding SAIC
 
-Beyster started the company in February 1969 (Gerb gives 3 February), staffing it with General Atomics scientists. He made employee ownership its defining feature, using it as a recruiting and retention tool and expecting staff to share in managing the company. According to the video, the stock program "promised to make government officials rich after they left public service", which let Beyster fill the payroll and board with specialists as well as generals, diplomats, spies and cabinet officers, among them [[Bobby Ray Inman]], [[John Deutsch]] and [[William F. Raborn]]. The first government contracts came from the Defense Atomic Support Agency, calculating the output of nuclear devices.
+Beyster started the company in February 1969 (Gerb gives 3 February), staffing it with General Atomics scientists. He made employee ownership its defining feature, using it as a recruiting and retention tool and expecting staff to share in managing the company. According to the video, the stock program "promised to make government officials rich after they left public service", which let Beyster fill the payroll and board with specialists as well as generals, diplomats, spies and cabinet officers, among them [[Bobby Ray Inman]], [[John Deutch]] and [[William F. Raborn]]. The first government contracts came from the Defense Atomic Support Agency, calculating the output of nuclear devices.
 
 ## Sources
 

@@ -108,20 +108,20 @@ events:
     category: event
     significance: major
     entities:
-      - "Bob Echler"
+      - "Bob Oechsler"
       - "Bobby Ray Inman"
-      - "Sumar Shapiro"
+      - "Sumner Shapiro"
       - "Everett Heinman"
   - date: "c. 1990"
     title: "SAIC's electric propulsion study"
     cue: 2170
-    summary: "Around 1990 SAIC published an Electric Propulsion Study, cited by Jesse Michaels in connection with T. Townsend Brown, that discusses electrogravitics: the propulsion RA links to human-made triangle craft and that Mark McCandlish tied to the alleged Flux Liner reproduction vehicle."
+    summary: "Around 1990 SAIC published an Electric Propulsion Study, cited by Jesse Michels in connection with T. Townsend Brown, that discusses electrogravitics: the propulsion RA links to human-made triangle craft and that Mark McCandlish tied to the alleged Flux Liner reproduction vehicle."
     category: document
     significance: notable
     entities:
       - "SAIC"
       - "T. Townsend Brown"
-      - "Jesse Michaels"
+      - "Jesse Michels"
       - "Electrogravitics"
   - date: "1991"
     title: "SAIC writes human-subjects protocols and an anomalous mental phenomena plan for DIA"
@@ -446,7 +446,7 @@ On the policy side, SAIC is eligible for the DoD's Corporate Portfolio Program, 
 
 ### Consciousness research
 
-For Gerb, SAIC's interest in consciousness is the strangest link, given that RA was told the objects respond to consciousness. The CIA's Stargate remote-viewing program, run by SRI International, was terminated in 1995 for want of useful results. SAIC did parallel work and, per a 1995 *Evaluation of a Program on Anomalous Mental Phenomena*, evaluated the SRI and Stargate research in order to continue it internally. Two 1991 SAIC documents stand out: human-subjects protocols from its Cognitive Science Laboratory, and a comprehensive research plan on anomalous mental phenomena written for the [[Defense Intelligence Agency]]. SAIC coined its own vocabulary: *anomalous cognition* for extrasensory perception and *anomalous perturbation* for psychokinesis. Gerb places this beside a since-deleted 2012 [[Office of Naval Research]] paper on a human "sixth sense," [[Ross Coulthart]]'s advice to watch the word "[[Psionics|psionic]]," and Grusch's comments on Stargate to Joe Rogan. SAIC also published an *Electric Propulsion Study* around 1990 on [[Electrogravitics|electrogravitics]], which [[Jesse Michaels]] has linked to [[T. Townsend Brown]] and which Gerb ties to [[Mark McCandlish]]'s account of the Flux Liner alleged reverse-engineered vehicle.
+For Gerb, SAIC's interest in consciousness is the strangest link, given that RA was told the objects respond to consciousness. The CIA's Stargate remote-viewing program, run by SRI International, was terminated in 1995 for want of useful results. SAIC did parallel work and, per a 1995 *Evaluation of a Program on Anomalous Mental Phenomena*, evaluated the SRI and Stargate research in order to continue it internally. Two 1991 SAIC documents stand out: human-subjects protocols from its Cognitive Science Laboratory, and a comprehensive research plan on anomalous mental phenomena written for the [[Defense Intelligence Agency]]. SAIC coined its own vocabulary: *anomalous cognition* for extrasensory perception and *anomalous perturbation* for psychokinesis. Gerb places this beside a since-deleted 2012 [[Office of Naval Research]] paper on a human "sixth sense," [[Ross Coulthart]]'s advice to watch the word "[[Psionics|psionic]]," and Grusch's comments on Stargate to Joe Rogan. SAIC also published an *Electric Propulsion Study* around 1990 on [[Electrogravitics|electrogravitics]], which [[Jesse Michels]] has linked to [[T. Townsend Brown]] and which Gerb ties to [[Mark McCandlish]]'s account of the Flux Liner alleged reverse-engineered vehicle.
 
 ### SAIC's orbit
 
@@ -484,7 +484,7 @@ Gerb says a search for "Off-World Technologies Division" returns nothing, and th
 Gerb also looks at three more Navy and laboratory threads:
 
 - **Sandia.** In his Del Rio video Gerb tied crash material allegedly stored at the Atomic Energy Commission's [[Sandia National Laboratories|Sandia]] facility at [[Kirtland Air Force Base, New Mexico|Kirtland Air Force Base]] to [[AT&T]], then Sandia's manager. SAIC holds a 2013 five-year, $228 million IT contract with Sandia. In 2023 Crane, Sandia and others shared advanced hypersonic technology, and sources connected to the intelligence community told Gerb that Sandia's stealth plasma physics for hypersonic craft is of real interest. In the same year Sheehan claimed that [[Radiance Technologies]]' prompt global strike program used reverse-engineered UAP technology. Gerb allows that there is "probably not much of a connection."
-- **Oechsler, Inman and Shapiro.** In 1989 NASA mission specialist [[Bob Echler|Bob Oechsler]] asked Admiral Bobby Ray Inman whether recovered vehicles might become available for research. Inman said ten years earlier the answer would have been no and that things might be opening up. He referred Oechsler to [[Everett Heinman]] of the CIA's DS&T and to former Director of Naval Intelligence [[Sumar Shapiro|Sumner Shapiro]]. According to Timothy Good's *Alien Contact*, Shapiro told Oechsler the US had extraterrestrial vehicles, that he had studied one up close, and that teams disassembled craft and shipped the parts to labs across the country. Gerb asks whether Crane received such a component, perhaps one thought to be a weapon. Oechsler has also claimed the Navy may use EMP weapons to bring down craft.
+- **Oechsler, Inman and Shapiro.** In 1989 NASA mission specialist [[Bob Oechsler]] asked Admiral Bobby Ray Inman whether recovered vehicles might become available for research. Inman said ten years earlier the answer would have been no and that things might be opening up. He referred Oechsler to [[Everett Heinman]] of the CIA's DS&T and to former Director of Naval Intelligence [[Sumner Shapiro]]. According to Timothy Good's *Alien Contact*, Shapiro told Oechsler the US had extraterrestrial vehicles, that he had studied one up close, and that teams disassembled craft and shipped the parts to labs across the country. Gerb asks whether Crane received such a component, perhaps one thought to be a weapon. Oechsler has also claimed the Navy may use EMP weapons to bring down craft.
 - **Pax River.** In 2017, per the video, [[Salvatore Pais]] filed a patent at Naval Air Station Pax River, with support from NAVAIR chief technology officer James Sheehy, for a triangle- or diamond-shaped craft that manipulates fields and the quantum vacuum. Gerb says it resembles the alleged TR-3B. [[Nat Kobitz]] told Ross Coulthart that his discreet inquiries at NAVAIR found no one who knew of Pais or his patents. Gerb calls Pax River "almost a counterpart" to Crane, with its own long SAIC history, and suggests similar work may go on there.
 
 ## Other Consciousness-Linked Accounts
@@ -505,7 +505,7 @@ entries:
   - name: "Denise McKenzie"
     role: "Former SAIC employee"
     note: "Her 2001 testimony that black-budget money hides in SAIC contracts is the starting point of Gerb's case against SAIC."
-  - name: "Bob Echler"
+  - name: "Bob Oechsler"
     role: "NASA mission specialist (Bob Oechsler)"
     note: "His 1989 inquiries drew statements about recovered vehicles from Admiral Inman and, reportedly, Sumner Shapiro's account of dismantled craft shipped to labs."
   - name: "Eric A. Walker"
@@ -541,7 +541,7 @@ entries:
 
 ## Related Pages
 
-- **People**: [[RA]], [[Daniel Sheehan]], [[Jimmy Carter]], [[Steven Lovekin]], [[Jonathan Weygandt]], [[Gary Nolan]], [[Philip J. Corso]], [[Denise McKenzie]], [[Steven Greer]], [[Bobby Ray Inman]], [[Bob Echler]], [[Everett Heinman]], [[Sumar Shapiro]], [[Ellen Lord]], [[Sean Kirkpatrick]], [[Will Miller]], [[Catherine Austin Fitts]], [[David Grusch]], [[Luis Elizondo]], [[Chris Mellon]], [[Ross Coulthart]], [[Jesse Michaels]], [[T. Townsend Brown]], [[Mark McCandlish]], [[Ryan S. Wood]], [[Vannevar Bush]], [[Robert Sarbacher]], [[Stanton Friedman]], [[Eric A. Walker]], [[Salvatore Pais]], [[Nat Kobitz]], [[Michael Herrera]]
+- **People**: [[RA]], [[Daniel Sheehan]], [[Jimmy Carter]], [[Steven Lovekin]], [[Jonathan Weygandt]], [[Gary Nolan]], [[Philip J. Corso]], [[Denise McKenzie]], [[Steven Greer]], [[Bobby Ray Inman]], [[Bob Oechsler]], [[Everett Heinman]], [[Sumner Shapiro]], [[Ellen Lord]], [[Sean Kirkpatrick]], [[Will Miller]], [[Catherine Austin Fitts]], [[David Grusch]], [[Luis Elizondo]], [[Chris Mellon]], [[Ross Coulthart]], [[Jesse Michels]], [[T. Townsend Brown]], [[Mark McCandlish]], [[Ryan S. Wood]], [[Vannevar Bush]], [[Robert Sarbacher]], [[Stanton Friedman]], [[Eric A. Walker]], [[Salvatore Pais]], [[Nat Kobitz]], [[Michael Herrera]]
 - **Organizations**: [[Naval Surface Warfare Center Crane]], [[SAIC]], [[Project Blue Book]], [[AARO]], [[Disclosure Project]], [[JSOC (Joint Special Operations Command)]], [[CIA Office of Global Access]], [[Defense Intelligence Agency]], [[Office of Naval Research]], [[Sandia National Laboratories]], [[AT&T]], [[Radiance Technologies]], [[Majestic 12]], [[Interplanetary Phenomenon Unit]], [[U.S. Army Foreign Technology Division]], [[Naval Air Systems Command]]
 - **Locations**: [[Crane, Indiana]], [[Underground Facility at NSWC Crane]], [[Area 51]], [[Spitsbergen, Norway]], [[Kirtland Air Force Base, New Mexico]], [[Del Rio, Texas]], [[Naval Air Station Patuxent River]]
 - **Concepts**: [[Off-World Technologies Division]], [[Consciousness-Interactive Technology]], [[Project Stargate]], [[Psionics]], [[Electrogravitics]], [[TR-3B]], [[Special Operations Manual (SOM 1-01)]]

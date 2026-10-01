@@ -10,9 +10,9 @@ Pine Gap is a joint United States–Australian intelligence facility located in 
 
 ## Heinman's Role at Pine Gap
 
-[[Everett Heinman]] was the first chief of the ground element at Pine Gap for [[Program B]], a joint CIA and NRO effort to build and operate signals intelligence satellites. Heinman was Deputy Director of the CIA Directorate of Science and Technology (DS&T) from 1979 to 1982, then directed Program B through the NRO from 1982 to 1989. Managing Pine Gap in this period put him where the CIA's most sensitive technical collection programs met.
+[[Everett Heinman]] was the first chief of the ground element at Pine Gap for Program B, a joint CIA and NRO effort to build and operate signals intelligence satellites. Heinman was Deputy Director of the CIA Directorate of Science and Technology (DS&T) from 1979 to 1982, then directed Program B through the NRO from 1982 to 1989. Managing Pine Gap in this period put him where the CIA's most sensitive technical collection programs met.
 
-Heinman matters to UAP research because of a 1989 phone call. In it, Admiral [[Bobby Ray Inman]], who had been Director of Naval Intelligence, Director of the NSA and Director of the classified National Underwater Reconnaissance Office, directed NASA mission specialist [[Bob Echler]] to Heinman as "the best person to ask" about recovered UAP vehicles being made available for technological research. When Echler later met Heinman at CIA headquarters in Langley, Virginia, on August 10, 1989, Heinman denied any knowledge of UFO or UFO legacy programs. In 2022, however, Twitter user RGH_UFOs contacted Heinman to ask about Inman's comments. This time Heinman did not deny involvement; he offered to answer questions and then went silent.
+Heinman matters to UAP research because of a 1989 phone call. In it, Admiral [[Bobby Ray Inman]], who had been Director of Naval Intelligence, Director of the NSA and Director of the classified National Underwater Reconnaissance Office, directed NASA mission specialist [[Bob Oechsler]] to Heinman as "the best person to ask" about recovered UAP vehicles being made available for technological research. When Oechsler later met Heinman at CIA headquarters in Langley, Virginia, on August 10, 1989, Heinman denied any knowledge of UFO or UFO legacy programs. In 2022, however, Twitter user RGH_UFOs contacted Heinman to ask about Inman's comments. This time Heinman did not deny involvement; he offered to answer questions and then went silent.
 
 ## Speculation on UAP Legacy Program Connections
 
@@ -24,8 +24,8 @@ The facility's remoteness, its classification level and its dual CIA/NRO command
 
 ## Related Figures and Programs
 
-- [[Bobby Ray Inman]]: the admiral who referred Echler to Heinman as the best contact for recovered vehicle research
-- [[Program B]]: the joint CIA/NRO signals intelligence (SIGINT) satellite program that Heinman directed from Pine Gap
+- [[Bobby Ray Inman]]: the admiral who referred Oechsler to Heinman as the best contact for recovered vehicle research
+- Program B: the joint CIA/NRO signals intelligence (SIGINT) satellite program that Heinman directed from Pine Gap
 - [[NRO (National Reconnaissance Office)]]: operates Pine Gap together with the CIA DS&T
 
 ## Sources

@@ -11,7 +11,7 @@ tags:
 
 As the scientific consultant to the top-secret RS-33 commission, Cecchini would have been responsible for analyzing the physical and flight characteristics of the recovered bell-shaped object and judging whether they matched known terrestrial technology or pointed to something anomalous. His involvement suggests the Italian government wanted expert astronomical and scientific analysis, separate from the military aviation expertise that Air Marshal [[Italo Balbo]] provided.
 
-Politically, the RS-33 was led by [[Benito Mussolini]], [[Galeazzo Ciano]], and Balbo. Cecchini served alongside them, and the Nobel laureate [[Guglielmo Marconi]] may have given further scientific support. According to original fascist-era documents, one of the RS-33's protocols required all UFO sighting reports to be forwarded to the central meteorological office at [[La Sapienza University]] in Rome. This suggests that a scientific infrastructure was set up to support the investigation.
+Politically, the RS-33 was led by [[Benito Mussolini]], [[Galeazzo Ciano]], and Balbo. Cecchini served alongside them, and the Nobel laureate [[Guglielmo Marconi]] may have given further scientific support. According to original fascist-era documents, one of the RS-33's protocols required all UFO sighting reports to be forwarded to the central meteorological office at La Sapienza University in Rome. This suggests that a scientific infrastructure was set up to support the investigation.
 
 ## Sources
 

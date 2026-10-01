@@ -7,7 +7,7 @@ tags:
 
 The Mutual UFO Network (MUFON) is a US-based non-profit organization, founded in 1969 for the scientific study and investigation of unidentified flying objects. It is one of the oldest and largest civilian UFO research organizations in the world. It runs a network of field investigators, a case management system for UFO reports from the public, and an annual symposium. MUFON publishes the MUFON UFO Journal.
 
-MUFON comes up in connection with 'Tarzan', a former MUFON director who was charged with disturbing crimes.
+MUFON comes up in connection with its former executive director [[Jan Harzan]], who was charged with disturbing crimes.
 
 A MUFON publication carried Tom Keller's article confirming Ben Rich's 1993 UCLA statements.
 

@@ -22,7 +22,7 @@ In his publication *Crash Retrievals of the Third Kind: A Case Study of Alleged 
 
 Stringfield claimed to have met a former member of the Blue Berets during a lecture at the University of Dade City, Florida. The man, known as "Cam," described the unit's structure and operations, including covert deployments behind enemy lines in Vietnam. Cam said he had never taken part in a UFO crash retrieval himself, but he knew a fellow Blue Beret who had been involved in recovering a "big head" from an alien craft.
 
-Between 1985 and 1987, [[Jeff Morse]] contacted Stringfield, claiming to be a former Blue Beret. Morse described an incident at [[Fort Maguire Air Force Base]] (likely Fort Dix-McGuire) in which U.S. forces shot a non-human entity to death. Stringfield considered Morse's testimony credible and consistent with other accounts.
+Between 1985 and 1987, Jeff Morse contacted Stringfield, claiming to be a former Blue Beret. Morse described an incident at Fort Maguire Air Force Base (likely Fort Dix-McGuire) in which U.S. forces shot a non-human entity to death. Stringfield considered Morse's testimony credible and consistent with other accounts.
 
 ## Official U.S. Air Force Blue Beret Units
 
@@ -30,11 +30,11 @@ The blue beret has a documented history in the U.S. Air Force. Whether the offic
 
 ### Strategic Air Command Elite Guard (1956–1966)
 
-In 1956, General [[Curtis LeMay]] created the Strategic Air Command (SAC) Elite Guard. LeMay is a figure repeatedly associated with UFO secrecy and with denial of access to classified materials at [[Wright-Patterson AFB]]. The Elite Guard wore blue fatigues and blue berets and was an Air Force police force guarding Strategic Air Command headquarters and installations. It operated from 1956 to 1966, a span that includes the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]].
+In 1956, General [[Curtis LeMay]] created the Strategic Air Command (SAC) Elite Guard. LeMay is a figure repeatedly associated with UFO secrecy and with denial of access to classified materials at [[Wright-Patterson Air Force Base|Wright-Patterson AFB]]. The Elite Guard wore blue fatigues and blue berets and was an Air Force police force guarding Strategic Air Command headquarters and installations. It operated from 1956 to 1966, a span that includes the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]].
 
 ### USAF 1041 Security Police Squadron (1965–1967)
 
-The USAF 1041 Security Police Squadron made the blue beret famous during [[Operation Safeside]] in Vietnam (1965–1967). The 1041st deployed as "active defense" units to repel raids on U.S. air bases. Its highly trained combat security police wore blue berets as part of their distinctive uniform.
+The USAF 1041 Security Police Squadron made the blue beret famous during Operation Safeside in Vietnam (1965–1967). The 1041st deployed as "active defense" units to repel raids on U.S. air bases. Its highly trained combat security police wore blue berets as part of their distinctive uniform.
 
 Both of these official units wore blue berets, but neither has been officially confirmed as having UFO retrieval duties. Witnesses at Kecksburg, however, specifically described Air Force personnel in blue fatigues and blue berets arriving on scene shortly after the crash, which raises the question of whether an official or covert blue-bereted unit was involved.
 
@@ -55,14 +55,14 @@ The blue-bereted Air Force personnel at Kecksburg fit Stringfield's descriptions
 
 The Blue Berets remain one of the more speculative elements of UFO crash retrieval lore. Stringfield's testimony is generally considered credible, but no official documentation, unit patches or confirmed rosters have surfaced to prove that a dedicated UFO retrieval unit by that name existed. Skeptics argue that witnesses may have observed legitimate Air Force Security Police units (SAC Elite Guard or 1041st) performing routine security duties unrelated to UFOs.
 
-Still, the speed and scale of the military response at Kecksburg, together with the blue-bereted personnel, the figures in hazmat suits and the rapid transport of the object to [[Wright-Patterson AFB]], suggest coordination beyond a routine meteor investigation.
+Still, the speed and scale of the military response at Kecksburg, together with the blue-bereted personnel, the figures in hazmat suits and the rapid transport of the object to [[Wright-Patterson Air Force Base|Wright-Patterson AFB]], suggest coordination beyond a routine meteor investigation.
 
 ## Related Concepts
 
-- [[UFO Crash Retrieval]]
-- [[Strategic Air Command]]
+- [[Crash Retrieval|UFO Crash Retrieval]]
+- Strategic Air Command
 - [[Project Blue Book]]
-- [[Witness Suppression]]
+- Witness Suppression
 
 ## Sources
 

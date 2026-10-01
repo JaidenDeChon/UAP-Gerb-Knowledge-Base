@@ -73,7 +73,7 @@ Blue Book's case files were eventually declassified and are open to the public. 
 
 ## Additional References
 
-Project Blue Book documents were reportedly found scattered inside the [[Tejon Ranch facility]].
+Project Blue Book documents were reportedly found scattered inside the [[Tejon Ranch|Tejon Ranch facility]].
 
 ## Sources
 

@@ -23,18 +23,16 @@ Since 1972, DSP satellites have been the primary means of detecting objects ente
 
 ## Long Beach Campus and Alleged UAP Access
 
-The Aerospace Corporation's main campus in [[Long Beach, California]] has sprawling gardens and a distinctive architectural style. [[Ross Coulthart]] reported in his book *In Plain Sight* that a source told him about "an aerospace company in Long Beach, California" with access to "the wreckage" from UFO crash retrievals. The source described the company as having "sprawling gardens". Among major aerospace companies in Long Beach, only the Aerospace Corporation matches that description.
-
-The Long Beach campus is the corporation's primary research and engineering facility. It has access to classified programs and coordinates directly with the [[US Space Force]] and intelligence community partners.
+[[Ross Coulthart]] reported in his book *In Plain Sight* that a source told him about "an aerospace company in Long Beach, California" with access to "the wreckage" from UFO crash retrievals. The source described the company as having "sprawling gardens". Gerb matches that company to the Aerospace Corporation, which he calls "the only major Aerospace company in Long Beach California that has this type of Campus". The Long Beach location comes from Gerb's reading of the source; this page has no other source for an Aerospace Corporation campus in [[Long Beach, California|Long Beach]].
 
 ## Researcher Identification as UAP Legacy Contractor
 
-According to [[Jacques Vallee]]'s *Hidden Science 5*, a book of journals from the 2000s to 2009, Véalle, [[Kit Green]], [[Hal Puthoff]], [[Eric Davis]], and Kristen B. Zimmerman identified the Aerospace Corporation, along with [[Lockheed Martin]] and [[Northrop Grumman]], as one of the suspected legacy private corporations engaged in "real UAP research."
+According to [[Jacques Vallee]]'s *Forbidden Science 5* (Gerb's video calls it *Hidden Science 5*), a book of journals from the 2000s to 2009, Vallée, [[Kit Green]], [[Hal Puthoff]], [[Eric Davis]], and Kristen B. Zimmerman identified the Aerospace Corporation, along with [[Lockheed Martin]] and [[Northrop Grumman]], as one of the suspected legacy private corporations engaged in "real UAP research."
 
 Several senior researchers with intelligence community backgrounds made this identification, and it is consistent with:
 - The corporation's documented work analyzing DSP Fast Walker data
 - Its FFRDC status, which gives it classified access beyond that of typical contractors
-- The match between the Long Beach campus and the descriptions from Coulthart's source
+- Gerb's match between the Aerospace Corporation and the Long Beach company described by Coulthart's source
 - Its institutional lineage from [[TRW]], which has been repeatedly named in UAP legacy program allegations
 
 ## Sources

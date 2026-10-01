@@ -15,7 +15,7 @@ tags:
 stats:
   - value: 13
     label: Officials with NRO ties named as gatekeepers
-    hint: "From Kaminski to Sturdivant"
+    hint: "From Kaminski to Sturtevant"
   - value: "31 yrs"
     label: Years the NRO's existence was secret
     hint: "Founded 1961, declassified 1992"
@@ -52,7 +52,7 @@ eras:
     label: "The secret office"
     from: 1961
     to: 1991
-    summary: "Thirty-one years in which the NRO's existence was classified: satellites from Corona to the KH-11, the lettered Programs A to D, the undersea sister office NURO, and Admiral Inman's referral of Bob Echler to Program B's former director."
+    summary: "Thirty-one years in which the NRO's existence was classified: satellites from Corona to the KH-11, the lettered Programs A to D, the undersea sister office NURO, and Admiral Inman's referral of Bob Oechsler to Program B's former director."
     anchor: "eyes-and-ears-in-space"
   - id: exposure
     label: "Exposure and reorganization"
@@ -213,24 +213,24 @@ events:
       - "Strategic Defense Initiative (SDI)"
       - "Albert Bruce Collins"
   - date: "1989"
-    title: "Inman-Echler telephone call"
+    title: "Inman-Oechsler telephone call"
     cue: 9675
-    summary: "In a recorded 1989 call arranged through Admiral Lord Hill-Norton, Admiral Bobby Ray Inman told NASA mission specialist Bob Echler that the CIA's deputy director for science and technology, Everett Heinman, would be the 'best person to ask' whether recovered vehicles might become available for research."
+    summary: "In a recorded 1989 call arranged through Admiral Lord Hill-Norton, Admiral Bobby Ray Inman told NASA mission specialist Bob Oechsler that the CIA's deputy director for science and technology, Everett Heinman, would be the 'best person to ask' whether recovered vehicles might become available for research."
     category: event
     significance: major
     entities:
-      - "Inman-Echler Telephone Call"
+      - "Inman-Oechsler Telephone Call"
       - "Bobby Ray Inman"
-      - "Bob Echler"
+      - "Bob Oechsler"
       - "Everett Heinman"
   - date: "1989-08-10"
-    title: "Echler meets Heinman at CIA headquarters"
+    title: "Oechsler meets Heinman at CIA headquarters"
     cue: 9747
-    summary: "Echler met Heinman at Langley on 10 August 1989, where Heinman denied any knowledge of UFOs or legacy programs."
+    summary: "Oechsler met Heinman at Langley on 10 August 1989, where Heinman denied any knowledge of UFOs or legacy programs."
     category: event
     significance: notable
     entities:
-      - "Bob Echler"
+      - "Bob Oechsler"
       - "Everett Heinman"
       - "CIA Headquarters, Langley, Virginia"
   - date: "1991"
@@ -375,13 +375,13 @@ events:
       - "Donald M. Kerr"
       - "MITRE Corporation"
   - date: "2006"
-    title: "Mary K. Sturdivant leaves the NRO for Lockheed Martin"
+    title: "Mary K. Sturtevant leaves the NRO for Lockheed Martin"
     cue: 10029
-    summary: "After serving as the NRO's Deputy Director for National Support (2004-2006), Sturdivant joined Lockheed Martin as vice president of government affairs and later of intelligence, joint, and science and technology programs, a post she held around the time of the Kona Blue attempt."
+    summary: "After serving as the NRO's Deputy Director for National Support (2004-2006), Sturtevant joined Lockheed Martin as vice president of government affairs and later of intelligence, joint, and science and technology programs, a post she held around the time of the Kona Blue attempt."
     category: person
     significance: notable
     entities:
-      - "Mary K. Sturdivant"
+      - "Mary K. Sturtevant"
       - "Lockheed Martin"
   - date: "2010"
     title: "NRO Sentient development begins"
@@ -394,13 +394,13 @@ events:
   - date: "2011"
     title: "Kona Blue transfer blocked"
     cue: 9990
-    summary: "An attempt to move UFO materials from Lockheed VP Jim Ryder's program to the OSAP program under the Kona Blue program access procedure was allegedly blocked by CIA DS&T deputy director Glenn Gaffney, possibly aided by Robert Cardillo and Mary K. Sturdivant. Cardillo later joined the board of Peraton, carved out of Lockheed's black-program group."
+    summary: "An attempt to move UFO materials from Lockheed VP Jim Ryder's program to the OSAP program under the Kona Blue program access procedure was allegedly blocked by CIA DS&T deputy director Glenn Gaffney, possibly aided by Robert Cardillo and Mary K. Sturtevant. Cardillo later joined the board of Peraton, carved out of Lockheed's black-program group."
     category: program
     significance: major
     entities:
       - "Kona Blue"
       - "Glenn Gaffney"
-      - "Mary K. Sturdivant"
+      - "Mary K. Sturtevant"
       - "Robert Cardillo"
   - date: "2012"
     title: "Dylan Borland's triangle at Langley"
@@ -601,7 +601,7 @@ Gerb's first thesis is that the office's interest in UFOs is as old as the offic
 
 ## Sentient and Immaculate Constellation
 
-Why, Gerb asks, have analysts at the NRO and the NGA (National Geospatial-Intelligence Agency) never reported seeing UFOs on their screens? His answer is that satellite feeds arrive as encrypted raw data that is encoded into pictures before any analyst sees them. He believes anomalous data, such as a UFO or a crash site, is identified at that stage and diverted to "more cleared parties", once by hand and today by software: [[NRO Sentient]]. FOIA releases obtained by John Greenwald of [[The Black Vault]] describe Sentient as an AI research and development program to "revolutionize" the intelligence cycle, and former NGA director [[Robert Cardillo]], whom Gerb links to the [[Kona Blue]] blockage, has described its "automated inferencing". A document the NRO released on 2 June 2022 records Sentient detecting, on 6 May 2021, a possible tic-tac-shaped airborne object under 10 meters across that resembled Navy UAP detections. In 2015, by contrast, the NRO had said UFOs were "outside of the scope of NRO responsibilities."
+Why, Gerb asks, have analysts at the NRO and the NGA (National Geospatial-Intelligence Agency) never reported seeing UFOs on their screens? His answer is that satellite feeds arrive as encrypted raw data that is encoded into pictures before any analyst sees them. He believes anomalous data, such as a UFO or a crash site, is identified at that stage and diverted to "more cleared parties", once by hand and today by software: [[NRO Sentient]]. FOIA releases obtained by [[John Greenewald]] of [[The Black Vault]] describe Sentient as an AI research and development program to "revolutionize" the intelligence cycle, and former NGA director [[Robert Cardillo]], whom Gerb links to the [[Kona Blue]] blockage, has described its "automated inferencing". A document the NRO released on 2 June 2022 records Sentient detecting, on 6 May 2021, a possible tic-tac-shaped airborne object under 10 meters across that resembled Navy UAP detections. In 2015, by contrast, the NRO had said UFOs were "outside of the scope of NRO responsibilities."
 
 Gerb believes Sentient, begun in 2010 and built out by 2016, is a primary resource of [[Immaculate Constellation (IMCON)|Immaculate Constellation]], the unacknowledged SAP established in 2017 whose existence whistleblower [[Matt Brown]] reported to Congress in 2024. The IMCON report describes cases Gerb attributes to NRO overhead infrared collection, including a 210 to 420 foot disc over INDOPACOM that rose out of cloud cover and dived back as if aware it was watched, and a tic-tac over SOUTHCOM whose path the collection systems seemed to know in advance.
 
@@ -781,10 +781,10 @@ Gerb's gatekeeper section follows one thread: officials who pass through the NRO
 | [[Donald M. Kerr]] | Director, 2005-2007 | Deputy director |  |  |  | Trustee |
 | [[Everett Heinman]] | Program B director | Deputy director |  |  |  |  |
 | [[Bobby Ray Inman]] | NURO director |  |  |  |  |  |
-| [[Mary K. Sturdivant]] | Deputy director for national support |  |  |  |  |  |
+| [[Mary K. Sturtevant]] | Deputy director for national support |  |  |  |  |  |
 ::
 
-Three of the thirteen get extended treatment. The first is [[Bobby Ray Inman]], for whom Gerb plays his 1989 recorded call with NASA's [[Bob Echler]] ([[Inman-Echler Telephone Call]]). Echler reached him through Admiral Lord Hill-Norton, and Inman described [[Everett Heinman]], then the CIA's deputy director for science and technology, as a person "of very substantial integrity" who would be "high on the list" to ask about recovered vehicles. The second is Heinman himself, who denied everything when Echler met him at Langley on 10 August 1989. In 2022 he told RGH_UFOs only that he was "a long way and quite a few years" from the subject, then stopped replying. Inman himself directed NURO from 1974, and [[Glenn Gaffney]], the CIA DS&T deputy director allegedly behind the [[Kona Blue]] blockage, is said to have started his career there. The third is [[Mary K. Sturdivant]]. She went from BDM and the CIA's Technology Transfer Assessment Center to eight years as budget director of the [[Senate Select Committee on Intelligence]], then to CIA comptroller, the National Security Council, and the NRO's deputy directorship for national support (2004-2006). She then joined [[Lockheed Martin]], where she held intelligence and S&T programs around the time of the 2010-2011 Kona Blue attempt. Gerb thinks her loyalty to the CIA DS&T made her a likely partner in blocking the transfer. [[Chris Mellon]], her former SSCI colleague, has declined to ask her about it.
+Three of the thirteen get extended treatment. The first is [[Bobby Ray Inman]], for whom Gerb plays his 1989 recorded call with NASA's [[Bob Oechsler]] ([[Inman-Oechsler Telephone Call]]). Oechsler reached him through Admiral Lord Hill-Norton, and Inman described [[Everett Heinman]], then the CIA's deputy director for science and technology, as a person "of very substantial integrity" who would be "high on the list" to ask about recovered vehicles. The second is Heinman himself, who denied everything when Oechsler met him at Langley on 10 August 1989. In 2022 he told RGH_UFOs only that he was "a long way and quite a few years" from the subject, then stopped replying. Inman himself directed NURO from 1974, and [[Glenn Gaffney]], the CIA DS&T deputy director allegedly behind the [[Kona Blue]] blockage, is said to have started his career there. The third is [[Mary K. Sturtevant]]. She went from BDM and the CIA's Technology Transfer Assessment Center to eight years as budget director of the [[Senate Select Committee on Intelligence]], then to CIA comptroller, the National Security Council, and the NRO's deputy directorship for national support (2004-2006). She then joined [[Lockheed Martin]], where she held intelligence and S&T programs around the time of the 2010-2011 Kona Blue attempt. Gerb thinks her loyalty to the CIA DS&T made her a likely partner in blocking the transfer. [[Chris Mellon]], her former SSCI colleague, has declined to ask her about it.
 
 ::wiki-roster
 ---
@@ -825,7 +825,7 @@ entries:
   - name: "Bobby Ray Inman"
     role: "Admiral; NSA director, CIA deputy director, NURO director"
     note: "Gerb's most famous accused gatekeeper; Steve Wilson places him at a 1971 anti-gravity test."
-  - name: "Mary K. Sturdivant"
+  - name: "Mary K. Sturtevant"
     role: "NRO deputy director for national support; Lockheed Martin VP"
     note: "A possible partner in the Kona Blue blockage, per Gerb."
 ---
@@ -876,7 +876,7 @@ He also says the offices under the Secretary of Defense and the DNI matter more 
 - Egg-shaped craft with layered "nesting doll" interiors recur across independent retrieval accounts, from Collins in 1947 to Gerb's witness.
 - Gerb argues that the NRO is a likely first user of alien reproduction vehicles or derivative cloaking technology for reconnaissance, citing Edgar Fouche's TR-3B account and Dylan Borland's 2012 Langley sighting.
 - The NRO's 1992-1995 headquarters and carryover-funds scandal is proposed as a possible audit that prompted the 1994 SAP reorganization described in the Wilson-Davis notes.
-- Thirteen officials with NRO ties (Kaminski, Deutch, Perry, Lord, Wolfe, Moynihan, Meyerriecks, Kirkpatrick, Faga, Kerr, Heinman, Inman and Sturdivant) are named as likely legacy-program members or gatekeepers.
+- Thirteen officials with NRO ties (Kaminski, Deutch, Perry, Lord, Wolfe, Moynihan, Meyerriecks, Kirkpatrick, Faga, Kerr, Heinman, Inman and Sturtevant) are named as likely legacy-program members or gatekeepers.
 - Gerb rejects the single legacy program controlled by the CIA DS&T that *The Age of Disclosure* describes, in favor of many siloed programs.
 
 ## Sources
@@ -885,9 +885,9 @@ He also says the offices under the Secretary of Defense and the DNI matter more 
 
 ## Related Pages
 
-- **People**: [[Paul Kaminski]], [[John Deutch]], [[Bill Perry]], [[Ellen Lord]], [[Doug Wolfe]], [[Mark Moynihan]], [[Dawn Meyerriecks]], [[Sean Kirkpatrick]], [[Martin C. Faga]], [[Donald M. Kerr]], [[Everett Heinman]], [[Bobby Ray Inman]], [[Mary K. Sturdivant]], [[Glenn Gaffney]], [[Robert Cardillo]], [[Richard Bissell Jr.]], [[Harold Malmgren]], [[Albert Bruce Collins]], [[Leonard Stringfield]], [[Tim Cooper]], [[Jonathan Weygandt]], [[Steve Wilson]], [[Richard Boylan]], [[Kevin Randle]], [[Edward J. Ruppelt]], [[Edgar Fouche]], [[Dylan Borland]], [[Thomas Wilson]], [[Eric Davis]], [[David Grusch]], [[Matt Brown]], [[Tom DeLonge]], [[Luis Elizondo]], [[Christopher Sharp]], [[Jim Shell]], [[Bob Echler]], [[Chris Mellon]], [[Andrew Kissner]], [[Dick Cheney]], [[Dwight D. Eisenhower]]
+- **People**: [[Paul Kaminski]], [[John Deutch]], [[Bill Perry]], [[Ellen Lord]], [[Doug Wolfe]], [[Mark Moynihan]], [[Dawn Meyerriecks]], [[Sean Kirkpatrick]], [[Martin C. Faga]], [[Donald M. Kerr]], [[Everett Heinman]], [[Bobby Ray Inman]], [[Mary K. Sturtevant]], [[Glenn Gaffney]], [[Robert Cardillo]], [[Richard Bissell Jr.]], [[Harold Malmgren]], [[Albert Bruce Collins]], [[Leonard Stringfield]], [[Tim Cooper]], [[Jonathan Weygandt]], [[Steve Wilson]], [[Richard Boylan]], [[Kevin Randle]], [[Edward J. Ruppelt]], [[Edgar Fouche]], [[Dylan Borland]], [[Thomas Wilson]], [[Eric Davis]], [[David Grusch]], [[Matt Brown]], [[Tom DeLonge]], [[Luis Elizondo]], [[Christopher Sharp]], [[Jim Shell]], [[Bob Oechsler]], [[Chris Mellon]], [[Andrew Kissner]], [[Dick Cheney]], [[Dwight D. Eisenhower]]
 - **Organizations**: [[NRO (National Reconnaissance Office)]], [[National Underwater Reconnaissance Office]], [[NGA]], [[CIA Directorate of Science and Technology]], [[CIA Office of Global Access]], [[MITRE Corporation]], [[JSOC (Joint Special Operations Command)]], [[24th Special Tactics Squadron]], [[160th Special Operations Aviation Regiment]], [[Department of Energy]], [[National Nuclear Security Administration]], [[NEST (Nuclear Emergency Support Team)]], [[DOE Special Response Teams (SRTs)]], [[Office of Secure Transportation (OST)]], [[SAPOC (Special Access Program Oversight Committee)]], [[Senate Select Committee on Intelligence]], [[Under Secretary of Defense for Acquisition and Sustainment (USD A&S)]], [[E-Systems]], [[Teledyne Ryan]], [[EG&G]], [[Lockheed Martin]], [[To The Stars Academy]], [[The Black Vault]], [[Majestic 12]]
 - **Locations**: [[Nevada National Security Site (Nevada Test Site)]], [[Area 51]], [[Papoose Lake]], [[Pine Gap, Australia]], [[Kirtland Air Force Base, New Mexico]], [[Langley Air Force Base]], [[University of California, Berkeley]], [[CIA Headquarters, Langley, Virginia]]
 - **Concepts**: [[NRO Sentient]], [[UFO Legacy Program Framework]], [[Alien Reproduction Vehicle (ARV)]], [[Egg-shaped UAP]], [[XH-75D]], [[Wilson-Davis Memo]], [[Strategic Defense Initiative (SDI)]], [[The Age of Disclosure]]
 - **Operations**: [[Immaculate Constellation (IMCON)]], [[Kona Blue]], [[Project Pounce]], [[Project Corona]], [[Operation Laser Strike]]
-- **Events**: [[Peru UFO Crash Incident]], [[Inman-Echler Telephone Call]], [[Borland's Triangular Craft Sighting]], [[1933 Magenta UFO CrashRetrieval]], [[Robertson Panel]]
+- **Events**: [[Peru UFO Crash Incident]], [[Inman-Oechsler Telephone Call]], [[Borland's Triangular Craft Sighting]], [[1933 Magenta UFO CrashRetrieval]], [[Robertson Panel]]

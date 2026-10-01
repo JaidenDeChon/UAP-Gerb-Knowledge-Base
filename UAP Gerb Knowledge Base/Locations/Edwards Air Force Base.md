@@ -15,7 +15,7 @@ Gerb's "80 Years of UFO Crash Retrieval and Reverse Engineering" timeline video 
 
 ## Connection to TR-3B and Edgar Fouché
 
-[[Edgar Fouché]] was recruited to [[Area 51]] Groom Lake from his station at the Jet Propulsion Laboratory at Edwards Air Force Base, which he claimed also housed deep underground facilities. Fouché was assigned to Detachment 3 AFTC (Air Force Flight Test Center), the Edwards detachment that runs operations at Area 51. One of Fouché's five main sources, "Doc," was an SR-71 spy pilot and USAF test pilot at Edwards. Fouché claimed he saw triangular [[TR-3B]] prototypes high in the atmosphere over Edwards one night in 1975, and again in 1976 in the southern Nellis range and in 1979 at Groom Lake.
+[[Edgar Fouche|Edgar Fouché]] was recruited to [[Area 51]] Groom Lake from his station at the Jet Propulsion Laboratory at Edwards Air Force Base, which he claimed also housed deep underground facilities. Fouché was assigned to Detachment 3 AFTC (Air Force Flight Test Center), the Edwards detachment that runs operations at Area 51. One of Fouché's five main sources, "Doc," was an SR-71 spy pilot and USAF test pilot at Edwards. Fouché claimed he saw triangular [[TR-3B]] prototypes high in the atmosphere over Edwards one night in 1975, and again in 1976 in the southern Nellis range and in 1979 at Groom Lake.
 
 Edwards lies near [[Helendale]] (Lockheed's radar cross-section range), USAF [[Air Force Plant 42|Plant 42]] in Palmdale and the Northrop Grumman [[Tehachapi, California|Tehachapi]] Mountain facility, which puts it at the center of a cluster of alleged reverse engineering locations in the Antelope Valley region.
 

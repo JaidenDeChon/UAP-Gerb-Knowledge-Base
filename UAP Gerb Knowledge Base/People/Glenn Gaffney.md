@@ -97,7 +97,7 @@ entries:
   - name: "James T. Ryder"
     role: "Vice president, Lockheed Martin Space Systems"
     note: "Proposed the divestment of Lockheed's 1950s material into Kona Blue, the transfer Gaffney allegedly killed."
-  - name: "Mary K. Sturdivant"
+  - name: "Mary K. Sturtevant"
     role: "Lockheed Martin vice president, former CIA official"
     note: "Gerb believes her CIA ties led her to back-channel to Gaffney and help block the transfer."
   - name: "Robert Cardillo"
@@ -168,7 +168,7 @@ As head of the DS&T during the Kona Blue period, Gaffney sat where these alleged
 
 ## Potential Connections to Lockheed Personnel
 
-[[Mary K. Sturdivant]] was Lockheed Martin VP for intelligence, joint, and science and technology programs during the same period as the Kona Blue attempts. She had an extensive CIA background, including work in a joint venture between the CIA DS&T and the Directorate of Operations. Because she was at Lockheed Martin while Gaffney blocked the transfer, and because of the "once agency, always agency" principle, Gerb has argued that she may have been a CIA liaison within Lockheed, and later said she back-channeled to Gaffney about the proposed transfer. A third possible blocker, [[Robert Cardillo]], was raised by researcher Rob Jones.
+[[Mary K. Sturtevant]] was Lockheed Martin VP for intelligence, joint, and science and technology programs during the same period as the Kona Blue attempts. She had an extensive CIA background, including work in a joint venture between the CIA DS&T and the Directorate of Operations. Because she was at Lockheed Martin while Gaffney blocked the transfer, and because of the "once agency, always agency" principle, Gerb has argued that she may have been a CIA liaison within Lockheed, and later said she back-channeled to Gaffney about the proposed transfer. A third possible blocker, [[Robert Cardillo]], was raised by researcher Rob Jones.
 
 ## Sources
 

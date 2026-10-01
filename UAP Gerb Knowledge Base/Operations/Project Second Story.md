@@ -36,11 +36,11 @@ Both programs showed that Canada formally accepted that the UFO phenomenon deser
 
 Project Second Story ran during a period of intense UAP activity over North America. Events of the time included:
 
-- The 1952 [[Washington DC UFO Incident]], in which multiple unidentified objects appeared over the US capital on radar and were observed visually.
+- The 1952 [[1952 UFOs Over Washington DC|Washington DC UFO Incident]], in which multiple unidentified objects appeared over the US capital on radar and were observed visually.
 - Continued sightings over sensitive military installations, including atomic research facilities and air defense radar networks.
 - Rising Cold War tensions, which raised the possibility that UFOs might be Soviet reconnaissance technology.
 
-Because Canada shared intelligence with the United States through the [[Five Eyes Nations|Five Eyes]] relationship, Canadian officials had access to some US UAP data. The full extent of the US crash retrieval and reverse engineering programs that Sarbacher described still stayed compartmentalized, even from close allies.
+Because Canada shared intelligence with the United States through the Five Eyes relationship, Canadian officials had access to some US UAP data. The full extent of the US crash retrieval and reverse engineering programs that Sarbacher described still stayed compartmentalized, even from close allies.
 
 ## Public Records and Closure
 

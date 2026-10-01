@@ -29,7 +29,7 @@ Older claims tie the office to the subject from its founding. [[Albert Bruce Col
 
 ## Alleged Gatekeepers
 
-Gerb names thirteen officials with NRO ties as likely current or former legacy-program members or gatekeepers: [[Paul Kaminski]], [[John Deutch]], [[Bill Perry]], [[Ellen Lord]], [[Doug Wolfe]], [[Mark Moynihan]], [[Dawn Meyerriecks]], [[Sean Kirkpatrick]], [[Martin C. Faga]], [[Donald M. Kerr]], [[Everett Heinman]], [[Bobby Ray Inman]] and [[Mary K. Sturdivant]]. The common threads he traces are the NRO, the CIA's Directorate of Science and Technology (DS&T) and its [[CIA Office of Global Access|Office of Global Access]], the [[MITRE Corporation]], and the two offices that jointly oversee NRO acquisitions: the [[Under Secretary of Defense for Acquisition and Sustainment (USD A&S)|DoD acquisition under secretary]] and the ODNI's Deputy Director for Acquisition, Technology and Facilities.
+Gerb names thirteen officials with NRO ties as likely current or former legacy-program members or gatekeepers: [[Paul Kaminski]], [[John Deutch]], [[Bill Perry]], [[Ellen Lord]], [[Doug Wolfe]], [[Mark Moynihan]], [[Dawn Meyerriecks]], [[Sean Kirkpatrick]], [[Martin C. Faga]], [[Donald M. Kerr]], [[Everett Heinman]], [[Bobby Ray Inman]] and [[Mary K. Sturtevant]]. The common threads he traces are the NRO, the CIA's Directorate of Science and Technology (DS&T) and its [[CIA Office of Global Access|Office of Global Access]], the [[MITRE Corporation]], and the two offices that jointly oversee NRO acquisitions: the [[Under Secretary of Defense for Acquisition and Sustainment (USD A&S)|DoD acquisition under secretary]] and the ODNI's Deputy Director for Acquisition, Technology and Facilities.
 
 ## Sources
 

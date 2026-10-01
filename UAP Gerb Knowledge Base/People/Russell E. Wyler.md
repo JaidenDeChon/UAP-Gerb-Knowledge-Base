@@ -1,5 +1,6 @@
 ---
-name: "Russell E. Wiler"
+name: "Russell E. Wyler"
+aliases: ["Russell E. Wiler"]
 role: "Former Director, Air Force Sensitive Activities (SAF/AAH), Defense Intelligence Senior Executive Service"
 active_from: 2009
 active_to: 2025
@@ -7,7 +8,7 @@ tags:
   - person
 ---
 
-Russell E. Wyler is a member of the Defense Intelligence Senior Executive Service (DISES) who directed the Air Force Sensitive Activities Office ([[SAFAHA|SAF/AAH]]), part of the Office of the Administrative Assistant to the Secretary of the Air Force at Headquarters Air Force in Arlington, Virginia, from 2009 to 2024. His official Air Force biography spells the surname Wyler; the captions of Gerb's video, and so this page's title, spell it Wiler. In *The Hidden Wing* Gerb presents him as a leading candidate for the redacted "SES2 Air Force gatekeeper" in a Signal exchange that [[Chris Mellon]] made public.
+Russell E. Wyler is a member of the Defense Intelligence Senior Executive Service (DISES) who directed the Air Force Sensitive Activities Office ([[SAFAHA|SAF/AAH]]), part of the Office of the Administrative Assistant to the Secretary of the Air Force at Headquarters Air Force in Arlington, Virginia, from 2009 to 2024. His official Air Force biography spells the surname Wyler; the captions of Gerb's video spell it Wiler. In *The Hidden Wing* Gerb presents him as a leading candidate for the redacted "SES2 Air Force gatekeeper" in a Signal exchange that [[Chris Mellon]] made public.
 
 ## Career
 

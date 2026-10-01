@@ -84,7 +84,7 @@ events:
     summary: "In March his successor as Deputy Secretary, John Deutch, takes over as chair of the SAP Oversight Committee."
     category: organization
     entities:
-      - "John Deutsch"
+      - "John Deutch"
   - date: "1997-01-23"
     title: "Leaves the Pentagon"
     category: organization
@@ -111,7 +111,7 @@ entries:
   - name: "Marshal Ward"
     role: "Former DoD SAP central office director"
     note: "Gave Wilson the same advice as Perry, according to the notes."
-  - name: "John Deutsch"
+  - name: "John Deutch"
     role: "Perry's successor as Deputy Secretary"
     note: "Chaired the SAP Oversight Committee after Perry's reorganization. Gerb says both men had served on SAIC's board."
   - name: "Paul Kaminski"

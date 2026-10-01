@@ -46,14 +46,14 @@ events:
     category: program
     entities:
       - "AAWSAP"
-  - date: "2018"
+  - date: "2019"
     title: "The Wilson notes leak"
     summary: "The notes surface from the estate of Apollo 14 astronaut Edgar Mitchell. Davis will neither confirm nor deny the meeting."
     category: document
     significance: major
     entities:
       - "Edgar Mitchell"
-      - "James Rigny"
+      - "James Rigney"
   - date: "2018-06"
     title: "Names Del Rio on Coast to Coast AM"
     summary: "Tells George Knapp that after Roswell, 'Del Rio, Texas, that was a 1950s case' is a good bet, and that others are still classified."
@@ -80,7 +80,7 @@ events:
 
 ::wiki-record
 ---
-caption: "Papers and statements of Davis's that Gerb's videos draw on. The Wilson notes were never published by Davis; they leaked in 2018."
+caption: "Papers and statements of Davis's that Gerb's videos draw on. The Wilson notes were never published by Davis; they leaked in 2019."
 items:
   - date: "2002-10-16"
     kind: memo
@@ -160,9 +160,9 @@ In 2018 journalist [[George Knapp]] leaked reports of 38 studies commissioned un
 
 In 2002 Davis was under contract to the Department of Defense and had been investigating a UFO crash retrieval program embedded within the United States government. The investigation led him to seek a meeting with Vice Admiral Thomas Wilson, who had recently retired as Deputy Director and Director of the Defense Intelligence Agency.
 
-[[Oak Shannon]], a former manager of special projects at [[Los Alamos National Laboratories]] and a former Department of Energy nuclear physicist, arranged the meeting. Shannon asked Wilson to speak to Davis about what Wilson had told [[Will Miller]] about crashed or retrieved UFO craft.
+[[Oak Shannon]], a former manager of special projects at [[Los Alamos National Laboratory|Los Alamos National Laboratories]] and a former Department of Energy nuclear physicist, arranged the meeting. Shannon asked Wilson to speak to Davis about what Wilson had told [[Will Miller]] about crashed or retrieved UFO craft.
 
-Before the meeting with Wilson, Davis had received a letter from Commander Will Miller offering to research crash retrieval programs under contract. Miller claimed to know of special crash retrieval teams (possibly projects code-named [[Project Moon Dust|Moon Dust]], [[Blue Fly]], or [[Zodiac]]), a senior officer with firsthand knowledge of [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]], and civilian contractors who knew about "alien-derived technologies, crashes, landings, and associated events."
+Before the meeting with Wilson, Davis had received a letter from Commander Will Miller offering to research crash retrieval programs under contract. Miller claimed to know of special crash retrieval teams (possibly projects code-named [[Project Moon Dust|Moon Dust]], [[Operation Bluefly|Blue Fly]], or [[Operation Zodiac|Zodiac]]), a senior officer with firsthand knowledge of [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]], and civilian contractors who knew about "alien-derived technologies, crashes, landings, and associated events."
 
 ## The October 16, 2002 Wilson Meeting
 
@@ -186,7 +186,7 @@ In June 2018 journalist George Knapp interviewed Davis on *Coast to Coast AM*. S
 
 ## Legacy Program Research
 
-Davis helped outline the legacy program structure that UAP researchers have since critiqued and analyzed. Gerb's investigation of the [[TR-3B]] puts Davis at its center. Gerb notes that what Davis recorded in the Wilson-Davis memo would implicate the [[CIA]] Directorate of Science and Technology as leading the teams behind UFO crash retrievals, with support from agencies such as the [[NRO (National Reconnaissance Office)|NRO]], the National Underwater Reconnaissance Office, the [[NGA (National Geospatial-Intelligence Agency)|National Geospatial-Intelligence Agency]], and likely the [[NSA]].
+Davis helped outline the legacy program structure that UAP researchers have since critiqued and analyzed. Gerb's investigation of the [[TR-3B]] puts Davis at its center. Gerb notes that what Davis recorded in the Wilson-Davis memo would implicate the [[CIA]] Directorate of Science and Technology as leading the teams behind UFO crash retrievals, with support from agencies such as the [[NRO (National Reconnaissance Office)|NRO]], the National Underwater Reconnaissance Office, the [[NGA|National Geospatial-Intelligence Agency]], and likely the [[NSA]].
 
 ::wiki-claim{video="-IXSZe4xVv4" video-title="The Hidden Wing - US Air Force UFO Reverse Engineering Programs"}
 ---

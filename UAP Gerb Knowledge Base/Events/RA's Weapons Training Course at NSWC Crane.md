@@ -5,7 +5,7 @@ tags:
   - event
 ---
 
-Between 2013 and 2015, [[RA]], a U.S. Army Green Beret serving as an 18 Bravo weapons sergeant in the [[First Special Forces Airborne Command]], attended a TS/SCI-level weapons training course at [[Naval Surface Warfare Center Crane]] in Indiana. The course covered new minigun systems, SCAR rifle iterations, and foreign adversarial weapons delivered to Crane via CIA logistics channels. It is notable mainly because, during the course, RA and one fellow TS/SCI-cleared soldier were separated from their class and escorted deep underground to a classified division explicitly labeled the "[[Off-World Technologies Division]]". There they observed two objects described as non-human technology.
+Between 2013 and 2015, [[RA]], a U.S. Army Green Beret serving as an 18 Bravo weapons sergeant in the First Special Forces Airborne Command, attended a TS/SCI-level weapons training course at [[Naval Surface Warfare Center Crane]] in Indiana. The course covered new minigun systems, SCAR rifle iterations, and foreign adversarial weapons delivered to Crane via CIA logistics channels. It is notable mainly because, during the course, RA and one fellow TS/SCI-cleared soldier were separated from their class and escorted deep underground to a classified division explicitly labeled the "[[Off-World Technologies Division]]". There they observed two objects described as non-human technology.
 
 ## The Course
 
@@ -13,11 +13,11 @@ Out of approximately ten soldiers in RA's training class, only RA and one other 
 
 ## Observation of the Underground Facility
 
-A private contractor guide, likely an [[SAIC]] employee given SAIC's dominant contracting presence at Crane, casually referred to the area as the "off-world technologies division," and the phrase induced immediate [[Ontological Shock]] in both soldiers.
+A private contractor guide, likely an [[SAIC]] employee given SAIC's dominant contracting presence at Crane, casually referred to the area as the "off-world technologies division," and the phrase induced immediate Ontological Shock in both soldiers.
 
 In a viewing room apparently set up for controlled observation, two pieces of alleged non-human technology were on display.
 
-The first was a seamless metallic sphere, a basketball-sized object with no visible joints, welds, or manufacturing marks. Its surface appeared almost liquid yet clearly metallic, and RA compared it to the "mother of pearl effect" described by [[Jonathan Weygandt]] from the [[1997 Peru UFO Crash]]. The sphere appeared to float, or to be repelled off its podium by an unknown force. Staff told RA that both objects interacted selectively with human consciousness, responding to some individuals and not others, possibly based on DNA or consciousness type.
+The first was a seamless metallic sphere, a basketball-sized object with no visible joints, welds, or manufacturing marks. Its surface appeared almost liquid yet clearly metallic, and RA compared it to the "mother of pearl effect" described by [[Jonathan Weygandt]] from the [[Peru UFO Crash Incident|1997 Peru UFO Crash]]. The sphere appeared to float, or to be repelled off its podium by an unknown force. Staff told RA that both objects interacted selectively with human consciousness, responding to some individuals and not others, possibly based on DNA or consciousness type.
 
 The second was a gauntlet weapon system, a device resembling a gauntlet or arm-worn tablet. It was identified as a weapon system because it had discharged an energy pulse during recovery, injuring at least one person. The device projected hieroglyphic-like symbols with no visible projection mechanism. These symbols closely matched those described by attorney [[Daniel Sheehan]] from classified [[Project Blue Book]] photographs he reviewed at the Library of Congress in 1977 under orders from President [[Jimmy Carter]].
 

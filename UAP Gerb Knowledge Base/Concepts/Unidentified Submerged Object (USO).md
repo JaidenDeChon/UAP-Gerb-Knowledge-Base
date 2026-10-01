@@ -48,7 +48,7 @@ UAP researchers and government officials have argued that USOs may be the most s
 - **Concepts**: [[Trans-Medium Vehicle]], [[Maritime Light Wheel]], [[OPNAV 3820]], [[JANAP 146C]], [[Fast Walkers]], [[Tic Tac Factory]]
 - **Organizations**: [[Project Blue Book]], [[Project Sign]], [[Project Grudge]]
 - **People**: [[Rear Admiral Timothy Gallaudet]], [[Paul Stonehill]], [[Philip Mantle]], [[Fleet Admiral Nikolai Smirnov]], [[Vladimir Azhazha]], [[Felix Zigel]], [[Kevin Knuth]]
-- **Events**: [[MV Marala North Atlantic Sighting]], [[SS City of Alako Hawaiian Islands Sighting]], [[Ascension Island USO Sighting]], [[SS Morgantown Victory Sighting]], [[Soviet Submarine Repair Ship Vulga Sighting]], [[Kamchatka Lake USO Sighting (1970)]], [[Soviet Ship Nooget USO Sighting]], [[Persian Gulf USO Flap]], [[Maritime Light Wheel Sightings]]
+- **Events**: [[MV Marala North Atlantic Sighting]], [[SS City of Alako Hawaiian Islands Sighting]], [[Ascension Island USO Sighting]], [[SS Morgantown Victory Sighting]], [[Soviet Submarine Repair Ship Vulga Sighting]], [[Kamchatka Lake USO Sighting (1970)]], [[Soviet Ship Nooget USO Sighting]], [[Persian Gulf USO Flap]], [[Maritime Light Wheel|Maritime Light Wheel Sightings]]
 
 ## Sources
 

@@ -50,7 +50,7 @@ Several senior intelligence officials worked together to kill the 2011 Kona Blue
 - Later joined the board of [[Peraton]] in 2019. Peraton is the corporation that may ultimately have received Lockheed's divested materials through a separate corporate transaction
 
 **Possible [[Lockheed Martin]] Internal Opposition:**
-[[Mary K. Sturdivant]] was Lockheed VP for Intelligence, Joint, and Science and Technology Programs during this period. Given her extensive CIA background and prior work in the joint CIA DS&T/Directorate of Operations office, she may have coordinated with Gaffney from inside Lockheed.
+[[Mary K. Sturtevant]] was Lockheed VP for Intelligence, Joint, and Science and Technology Programs during this period. Given her extensive CIA background and prior work in the joint CIA DS&T/Directorate of Operations office, she may have coordinated with Gaffney from inside Lockheed.
 
 ## Official Justification for Rejection
 

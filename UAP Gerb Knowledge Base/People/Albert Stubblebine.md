@@ -143,7 +143,7 @@ entries:
   - name: "Hans Adam II"
     role: "Prince of Liechtenstein"
     note: "Accused in the 1997 letter to Greer of funding TREAT, the team Gerb links to Stubblebine."
-  - name: "Sumar Shapiro"
+  - name: "Sumner Shapiro"
     role: "Retired rear admiral"
     note: "Sat on BDM's board in 1989; Gerb names the two as BDM's links to legacy programs."
 ---
@@ -161,7 +161,7 @@ Stubblebine was one of the main sponsors of the Army's research into psychic phe
 
 After leaving INSCOM in 1984, Stubblebine became a vice president of [[BDM International]]. From 20 to 25 May 1985, BDM held the classified "Advanced Theoretical Physics" conference at its secure facility in McLean, Virginia, under Department of Energy classification controls. [[Oak Shannon|Oke Shannon]], formerly manager for special projects at Los Alamos National Laboratory, attended and later released his notes. According to Gerb, they cover UFOs, legacy programs, a "major engineering project under [[Bobby Ray Inman]]", underwater UFO hotspots off Argentina, an organization that "collects, manages, and destroys" UFO information, and a plan to approach [[Donald M. Kerr]] for "influence and money".
 
-The working group behind the conference was led by Army Colonel [[John B. Alexander]], who had reported directly to Stubblebine from 1982 to 1983. Gerb wonders whether the conference, Stubblebine, a 1985 BDM contract for an ICBM deep-basing communication study, and the working group Corso described are connected. Rear Admiral [[Sumar Shapiro|Sumner Shapiro]], who described disassembled craft to [[Bob Echler]], also sat on BDM's board, and Commander [[Will Miller]] named BDM among the civilian contractors he said kept "the secrets".
+The working group behind the conference was led by Army Colonel [[John B. Alexander]], who had reported directly to Stubblebine from 1982 to 1983. Gerb wonders whether the conference, Stubblebine, a 1985 BDM contract for an ICBM deep-basing communication study, and the working group Corso described are connected. Rear Admiral [[Sumner Shapiro]], who described disassembled craft to [[Bob Oechsler]], also sat on BDM's board, and Commander [[Will Miller]] named BDM among the civilian contractors he said kept "the secrets".
 
 ## UFO Crash Retrieval and Storage Allegations
 

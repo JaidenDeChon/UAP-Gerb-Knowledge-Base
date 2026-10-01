@@ -35,7 +35,7 @@ In her sessions, Betty described being escorted aboard and talking with a leader
 
 ## The Star Map
 
-Betty drew a reconstruction of the star map from memory after her hypnosis. In 1968, amateur astronomer Marjorie Fish analyzed the configuration and proposed it matched a view of the Sun and nearby stars from the direction of the [[Zeta Reticuli Star System]]. Some UFO researchers cited this interpretation as compelling. [[Carl Sagan]] challenged it in his *Cosmos* series, arguing that the way the stars were selected could produce apparent matches with any number of configurations.
+Betty drew a reconstruction of the star map from memory after her hypnosis. In 1968, amateur astronomer Marjorie Fish analyzed the configuration and proposed it matched a view of the Sun and nearby stars from the direction of the Zeta Reticuli Star System. Some UFO researchers cited this interpretation as compelling. [[Carl Sagan]] challenged it in his *Cosmos* series, arguing that the way the stars were selected could produce apparent matches with any number of configurations.
 
 ## Significance
 

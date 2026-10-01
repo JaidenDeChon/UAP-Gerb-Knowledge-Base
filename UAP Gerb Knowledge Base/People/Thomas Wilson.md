@@ -64,7 +64,7 @@ eras:
     summary: "He leads the DIA, retires, and allegedly tells Eric Davis the whole story."
   - id: public
     label: "The notes go public"
-    from: 2018
+    from: 2019
     summary: "The notes leak, Wilson denies them, and Gerb builds a series of videos on them."
 events:
   - date: "1946-03-04"
@@ -104,11 +104,11 @@ events:
       - "Bigot List"
   - date: "1997"
     title: "The review group upholds the refusal"
-    summary: "SAPOC's senior review group sides with the contractor. Its chairman, John Deutsch, allegedly warns him that pressing on would cost him promotion to DIA director and one or two stars."
+    summary: "SAPOC's senior review group sides with the contractor. Its chairman, John Deutch, allegedly warns him that pressing on would cost him promotion to DIA director and one or two stars."
     category: event
     entities:
       - "SAPOC (Special Access Program Oversight Committee)"
-      - "John Deutsch"
+      - "John Deutch"
   - date: "1998-01"
     title: "Gansler: 'UFOs are real'"
     summary: "Jacques Gansler, who had been read into the program, allegedly tells him 'UFOs are real, so-called alien abductions not real' and will say no more."
@@ -134,7 +134,7 @@ events:
       - "Eric Davis"
       - "Oak Shannon"
       - "EG&G"
-  - date: "2018"
+  - date: "2019"
     title: "The notes leak"
     summary: "Fifteen pages of Davis's notes surface from the estate of Edgar Mitchell, who died in 2016."
     category: document
@@ -167,7 +167,7 @@ items:
     where: "Wilson's car, outside EG&G"
     with:
       - "Eric Davis"
-    note: "Fifteen pages of notes in which Wilson allegedly describes finding a contractor-run crash-retrieval program and being refused access. Leaked in 2018."
+    note: "Fifteen pages of notes in which Wilson allegedly describes finding a contractor-run crash-retrieval program and being refused access. Leaked in 2019."
     quote: "absurdly close held subject matter"
     source: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs"
   - date: "2020"
@@ -200,7 +200,7 @@ entries:
   - name: "Marshal Ward"
     role: "Air Force general"
     note: "With Bill Perry, pointed Wilson to the special records group in the acquisition office."
-  - name: "John Deutsch"
+  - name: "John Deutch"
     role: "Chairman, SAPOC senior review group (per the notes)"
     note: "Allegedly threatened Wilson's promotion and stars if he did not drop the matter."
   - name: "Jacques Gansler"
@@ -232,7 +232,7 @@ The committee showed Wilson pages of a [[Bigot List]] dated 1990 to 1993. Every 
 
 ## Denial of Access and Threats
 
-Despite his position and clearance level, the watch committee denied Wilson access because he was not on the bigot list and did not meet their undisclosed special access criteria. Wilson complained to the SAPOC senior review group (SRG) at the Pentagon, but the SRG upheld the contractor's decision to deny him access. The SRG's chairman, [[John Deutsch]], threatened that if Wilson did not drop the matter, "he would not see the Director of DIA promotion, he would get an early retirement, and lose one to two stars."
+Despite his position and clearance level, the watch committee denied Wilson access because he was not on the bigot list and did not meet their undisclosed special access criteria. Wilson complained to the SAPOC senior review group (SRG) at the Pentagon, but the SRG upheld the contractor's decision to deny him access. The SRG's chairman, [[John Deutch]], threatened that if Wilson did not drop the matter, "he would not see the Director of DIA promotion, he would get an early retirement, and lose one to two stars."
 
 In January 1998 Wilson spoke to [[Jacques Gansler]], who had been read into the program. Gansler told him: "UFOs are real, so-called alien abductions not real," and would say nothing more on the topic.
 

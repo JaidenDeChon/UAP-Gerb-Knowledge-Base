@@ -25,7 +25,7 @@ Multiple sources allege that the base houses non-human biologics and technical v
 Wright-Patterson was a primary recipient of materials collected under [[Project Moon Dust]], the classified Air Force program that investigated and retrieved UFOs and foreign space vehicles from at least 1961 through the mid-1990s. Multiple Moon Dust cables and memos were addressed to the Foreign Technology Division at Wright-Patterson. Two examples:
 
 - 1968, Nepal: a Moon Dust cable about a crashed circular metal disc in Nepal was sent to DIA, the [[USAF 1127th Field Activities Group|1127th USAF Field Activities Group]], and Wright-Patterson.
-- 1976, Canada: Moon Dust requested photos of metal fragments "of particular interest" to the USAF Foreign Technology Division at Wright-Patterson and the [[CIA Office of Weapons Intelligence]].
+- 1976, Canada: Moon Dust requested photos of metal fragments "of particular interest" to the USAF Foreign Technology Division at Wright-Patterson and the CIA Office of Weapons Intelligence.
 
 The repeated routing of Moon Dust materials to Wright-Patterson supports the base's role as a central collection and analysis hub for anomalous aerospace objects.
 
@@ -42,7 +42,7 @@ In "The Alien and UFO Obscure Oddities Iceberg (Level 2)", Gerb gives a quick sa
 
 ## Office of Special Studies
 
-In 1949, Dr. [[Eric Wang]] headed the Office of Special Studies at Wright-Patterson Air Field (as it was then known) and began secret government work that may have been connected to early UAP research and analysis.
+In 1949, Dr. [[Eric Henry Wang|Eric Wang]] headed the Office of Special Studies at Wright-Patterson Air Field (as it was then known) and began secret government work that may have been connected to early UAP research and analysis.
 
 ## Connection to Specific UFO Cases
 
@@ -64,9 +64,9 @@ In a 1998 interview, Myron added that he had also seen a small non-human body on
 
 Myron's cousin "JS" corroborated the brick delivery and confirmed that he had seen the object the day before Myron did, sitting upright under a tarp on a lowboy trailer. JS described it as shaped like the Liberty Bell, 8 to 10 feet tall and wide, guarded by armed personnel and men in fatigue suits.
 
-[[Leonard Stringfield]], who extensively interviewed Myron on videotape with the assistance of medical researcher Dr. [[Brian Thompson]], stated: "I feel convinced of Myron's sincerity." Stringfield and Pennsylvania researcher [[Stan Gordon]] worked together investigating the Kecksburg case for over a decade.
+[[Leonard Stringfield]], who extensively interviewed Myron on videotape with the assistance of medical researcher Dr. Brian Thompson, stated: "I feel convinced of Myron's sincerity." Stringfield and Pennsylvania researcher [[Stan Gordon]] worked together investigating the Kecksburg case for over a decade.
 
-The Kecksburg object was allegedly first transported to [[Lockbourne Air Force Base]] (now Rickenbacker Air National Guard Base) before being moved to Wright-Patterson for examination and storage. Wright-Patterson has repeatedly been named as the final destination for high-priority UAP retrieval cases because of its Foreign Technology Division and alleged secure storage facilities such as the [[Blue Room|Blue Room]].
+The Kecksburg object was allegedly first transported to [[Lockbourne Air Force Base, Columbus, Ohio|Lockbourne Air Force Base]] (now Rickenbacker Air National Guard Base) before being moved to Wright-Patterson for examination and storage. Wright-Patterson has repeatedly been named as the final destination for high-priority UAP retrieval cases because of its Foreign Technology Division and alleged secure storage facilities such as the [[Blue Room|Blue Room]].
 
 The base also houses a NAMRU D (Naval Medical Research Unit) installation that has historically been associated with UAP biological research.
 

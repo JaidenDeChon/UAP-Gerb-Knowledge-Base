@@ -22,7 +22,7 @@ Unlike the telegrams and memorandums related to the [[RS-33 (Gabinetto RS 33)]] 
 
 ## Later Craft Movement
 
-According to researcher accounts, the craft did not stay in the Varese hangars indefinitely. A fire broke out at a SIAI facility in Varese on March 17, 1943; whether it had anything to do with the stored craft is unclear. The craft was allegedly moved later to [[Benito Mussolini]]'s massive underground bunker at [[Mount Soratte Bunker|Mount Soratte]], about 27 miles north of Rome, and stayed there until agents of the U.S. [[Office of Strategic Services (OSS)]] recovered it in 1944-1945.
+According to researcher accounts, the craft did not stay in the Varese hangars indefinitely. A fire broke out at a SIAI facility in Varese on March 17, 1943; whether it had anything to do with the stored craft is unclear. The craft was allegedly moved later to [[Benito Mussolini]]'s massive underground bunker at [[Mount Soratte|Mount Soratte]], about 27 miles north of Rome, and stayed there until agents of the U.S. [[Office of Strategic Services (OSS)]] recovered it in 1944-1945.
 
 ## Company History
 

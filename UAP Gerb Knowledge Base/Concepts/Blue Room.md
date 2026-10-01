@@ -14,7 +14,7 @@ When Goldwater asked General [[Curtis LeMay]] in person, LeMay became angry and 
 
 ## AFOSI Documentation
 
-An April 27, 1953 AFOSI document records Captain [[Plandowski]] interviewing Master Sergeant [[Ralph Brown]], who conveyed that Wright-Patterson held three flying saucers (one damaged, two functional) and the bodies of their pilots. The document is older than Goldwater's attempts to get in. It shows that by the early 1950s, Air Force investigators already knew of Wright-Patterson as a place where recovered craft were stored.
+An April 27, 1953 AFOSI document records Captain Plandowski interviewing Master Sergeant [[Ralph Brown]], who conveyed that Wright-Patterson held three flying saucers (one damaged, two functional) and the bodies of their pilots. The document is older than Goldwater's attempts to get in. It shows that by the early 1950s, Air Force investigators already knew of Wright-Patterson as a place where recovered craft were stored.
 
 ## FOIA Confirmation of Film Destruction
 

@@ -13,7 +13,7 @@ On the evening of December 9, 1965, thousands of witnesses across six U.S. state
 
 The case drew national attention because of the extensive witness testimony, local press reports of a military presence, and a contradictory official explanation. [[Project Blue Book]] classified the event as a meteor, even though there was evidence of controlled flight and of military retrieval operations, and no meteor fragments were found. Investigator [[Stan Gordon]] spent decades collecting witness accounts and obtaining government records that debunked the official explanations.
 
-Kecksburg is still one of the most significant alleged UAP crash retrieval cases. It is often compared to [[Roswell]] for the credibility of its witnesses and the scale of the alleged military response.
+Kecksburg is still one of the most significant alleged UAP crash retrieval cases. It is often compared to [[Roswell Crash|Roswell]] for the credibility of its witnesses and the scale of the alleged military response.
 
 ## Geography
 
