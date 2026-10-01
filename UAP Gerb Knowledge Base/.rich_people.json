@@ -802,5 +802,57 @@
     ],
     "dates": "verified",
     "corrections": 5
+  },
+  "John B. Alexander": {
+    "enriched_at": "2026-10-01T20:55:40Z",
+    "videos": 6,
+    "components": [
+      "wiki-affiliations",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "George Knapp": {
+    "enriched_at": "2026-10-01T20:55:40Z",
+    "videos": 6,
+    "components": [
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 1
+  },
+  "Edgar Mitchell": {
+    "enriched_at": "2026-10-01T20:55:40Z",
+    "videos": 1,
+    "components": [],
+    "dates": "verified",
+    "corrections": 2
+  },
+  "Eric Burlison": {
+    "enriched_at": "2026-10-01T20:55:40Z",
+    "videos": 6,
+    "components": [
+      "wiki-affiliations",
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 4
+  },
+  "Chris Mellon": {
+    "enriched_at": "2026-10-01T20:55:40Z",
+    "videos": 16,
+    "components": [
+      "wiki-affiliations",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 4
   }
 }
