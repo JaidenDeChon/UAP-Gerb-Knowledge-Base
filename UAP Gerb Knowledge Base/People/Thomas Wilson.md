@@ -16,7 +16,7 @@ Vice Admiral Thomas R. Wilson is a retired U.S. Navy intelligence officer who wa
 
 Wilson was born in Columbus, Ohio, in 1946 and graduated from Ohio State University in 1968. He served in the [[US Navy]] from 1969 to 2002 as an intelligence officer. His flag posts included Director of Intelligence for U.S. Atlantic Command, Vice Director of Intelligence on the Joint Staff, Associate Director of Central Intelligence for Military Support at the CIA, and Director for Intelligence (J-2) of the Joint Staff, the post he held as a rear admiral in 1997. On 27 July 1999 he became the 13th Director of the DIA, with the rank of vice admiral, and he served until July 2002, retiring from the Navy that year. His awards include the Defense Distinguished Service Medal and the Navy Distinguished Service Medal.
 
-The Wilson-Davis notes, and Gerb in reading them, describe his 1997 post as deputy director of the DIA and assistant to the Joint Chiefs of Staff for intelligence (J-2). Gerb stresses what the post meant: in any ordinary case it carried statutory oversight and regulatory authority over every special access program in the Department of Defense, acknowledged or unacknowledged.
+The Wilson-Davis notes, and Gerb when he reads from them, describe his 1997 post as deputy director of the DIA and assistant to the Joint Chiefs of Staff for intelligence (J-2). Gerb stresses what the post meant: in any ordinary case it carried statutory oversight and regulatory authority over every special access program in the Department of Defense, acknowledged or unacknowledged.
 
 ::wiki-affiliations
 ---
@@ -159,7 +159,7 @@ events:
 
 ::wiki-record
 ---
-caption: "Wilson's own accounts, as Gerb's videos cover them. The 2002 account survives only in Eric Davis's notes, which Wilson has denied. Greer's claim that Wilson recognised a name on a leaked document is Greer's account, not Wilson's, so it is told in the text below."
+caption: "Wilson's own accounts, as Gerb's videos cover them. The 2002 account survives only in Eric Davis's notes, which Wilson has denied. Greer's claim that Wilson recognised a name on a leaked document comes from Greer rather than Wilson, so it is covered in the text below."
 items:
   - date: "2002-10-16"
     kind: memo
@@ -263,7 +263,7 @@ claim:
 responses:
   - by: "Gerb"
     stance: challenges
-    text: "In the notes Wilson promises to deny the meeting, and he knew his career was at stake. His denial is exactly what the notes predict."
+    text: "In the notes Wilson promises to deny the meeting, and he knew his career was at stake, so his denial is exactly what the notes predict."
     cue: 1365
   - by: "Eric Davis"
     stance: unresolved

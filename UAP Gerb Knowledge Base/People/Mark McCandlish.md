@@ -34,7 +34,7 @@ eras:
   - id: public
     label: "Going public"
     from: 2001
-    summary: "He presents the ARV at the National Press Club, pays for it, and keeps researching until his death."
+    summary: "He presents the ARV at the National Press Club, pays a heavy price for it and keeps researching until his death."
 events:
   - date: "1953-03-25"
     title: "Born"

@@ -62,11 +62,11 @@ eras:
     label: "Director of AARO"
     from: 2022
     to: 2023
-    summary: "He stands up the Pentagon's UAP office and hears whistleblowers as Grusch goes public."
+    summary: "He sets up the Pentagon's UAP office and hears whistleblowers as Grusch goes public."
   - id: after
     label: "After AARO"
     from: 2024
-    summary: "Oak Ridge, an op-ed, and a running dispute with whistleblowers and Gerb."
+    summary: "He moves to Oak Ridge, writes an op-ed and keeps up a running dispute with whistleblowers and Gerb."
 events:
   - date: "1995"
     title: "Doctorate in physics"
@@ -98,7 +98,7 @@ events:
       - "Ronald S. Moultrie"
   - date: "2022"
     title: "Sand Corp support contract"
-    summary: "The Department of Defense awards Sand Corp $1.9 million for 'AARO Support Services'. Gerb calls it the most damning evidence against Kirkpatrick's AARO, describing the firm as a specialist in stopping leaks."
+    summary: "The Department of Defense awards Sand Corp $1.9 million for 'AARO Support Services'. Gerb calls it the most damning evidence against Kirkpatrick's AARO and describes the firm as a specialist in stopping leaks."
     category: document
     entities:
       - "Sand Corp"
@@ -281,7 +281,7 @@ On 10 February 2023, former Air Force officer [[Robert Jacobs]] gave sworn testi
 
 ## Nonlinear Solutions and MITRE Subcontracting
 
-Gerb's investigation into [[MITRE Corporation|MITRE]] notes that Nonlinear Solutions, the LLC Kirkpatrick registered shortly before leaving AARO, is now subcontracting under MITRE in connection with work for U.S. Space Command. It also notes that [[Ronald S. Moultrie]], who established Kirkpatrick's AARO directorship and was his superior as Under Secretary of Defense for Intelligence and Security (USD I&S), has separately removed MITRE from his public curriculum vitae.
+Gerb's investigation into [[MITRE Corporation|MITRE]] notes that Nonlinear Solutions, the LLC Kirkpatrick registered shortly before leaving AARO, is now subcontracting under MITRE on work for U.S. Space Command. It also notes that [[Ronald S. Moultrie]], who made Kirkpatrick director of AARO and was his superior as Under Secretary of Defense for Intelligence and Security (USD I&S), has separately removed MITRE from his public curriculum vitae.
 
 ## Post-AARO Connections and Departure
 

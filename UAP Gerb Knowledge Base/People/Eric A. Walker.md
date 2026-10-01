@@ -10,7 +10,7 @@ tags:
   - person
 ---
 
-**Dr. Eric Arthur Walker** (1910–1995) was an engineer who was president of Pennsylvania State University from 1956 to 1970, founded the Navy laboratory at Penn State that became its [[Applied Research Laboratory]], and sat on many high-level government science boards, among them the Pentagon's [[Research and Development Board]] under [[Vannevar Bush]]. Researchers believe he knew about classified UFO crash retrieval programs and may have been a member of [[Majestic 12]]. In the 1980s and 1990 he gave cryptic interviews in which he said he had attended meetings on recovered saucers, had known of MJ-12 for 40 years, and had been at the site of the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg crash]]. Gerb calls him one of the most crucial names in the crash retrieval programs of the 1950s and 1960s, and has brought him into fourteen videos.
+Dr. Eric Arthur Walker (1910–1995) was an engineer who was president of Pennsylvania State University from 1956 to 1970, founded the Navy laboratory at Penn State that became its [[Applied Research Laboratory]], and sat on many high-level government science boards, among them the Pentagon's [[Research and Development Board]] under [[Vannevar Bush]]. Researchers believe he knew about classified UFO crash retrieval programs and may have been a member of [[Majestic 12]]. In the 1980s and 1990 he gave cryptic interviews in which he said he had attended meetings on recovered saucers, had known of MJ-12 for 40 years, and had been at the site of the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg crash]]. Gerb calls him one of the most crucial names in the crash retrieval programs of the 1950s and 1960s, and has brought him into fourteen videos.
 
 ## Career
 
