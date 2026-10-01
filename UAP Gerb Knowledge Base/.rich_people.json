@@ -181,5 +181,63 @@
     ],
     "dates": "partial",
     "corrections": 2
+  },
+  "Leonard Stringfield": {
+    "enriched_at": "2026-10-01T20:23:11Z",
+    "videos": 22,
+    "components": [
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 4
+  },
+  "Michael Herrera": {
+    "enriched_at": "2026-10-01T20:23:11Z",
+    "videos": 13,
+    "components": [
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "partial",
+    "corrections": 4
+  },
+  "Philip J. Corso": {
+    "enriched_at": "2026-10-01T20:23:11Z",
+    "videos": 12,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 2
+  },
+  "Eric Davis": {
+    "enriched_at": "2026-10-01T20:23:11Z",
+    "videos": 17,
+    "components": [
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "partial",
+    "corrections": 4
+  },
+  "Brad Sorenson": {
+    "enriched_at": "2026-10-01T20:23:11Z",
+    "videos": 11,
+    "components": [
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "none",
+    "corrections": 2
   }
 }
