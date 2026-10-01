@@ -123,20 +123,20 @@ The Woods carried out forensic ink and paper analysis on the [[Bowen Manuscript]
 
 ## Early Douglas Aircraft UFO Program
 
-In about 1967, Wood convinced his management at Douglas Aircraft Company that investigating UFO propulsion was worthwhile, asking "are we going to figure out how the UFOs work before or after Lockheed does?" Over a couple of years, through the merger that created McDonnell Douglas, the company spent internal R&D money equivalent to about $4.5 million on gravity experiments and theory, interviews with abductees and field investigations. Ryan Wood recalls going to the Mojave Desert at 13 or 14, where one of his father's engineers used magnetometers and strip chart recorders to document anomalous events.
+In about 1967, Wood convinced his management at Douglas Aircraft Company that UFO propulsion was worth investigating. He asked them, "are we going to figure out how the UFOs work before or after Lockheed does?" Over a couple of years, through the merger that created McDonnell Douglas, the company spent internal R&D money equivalent to about $4.5 million on gravity experiments and theory, interviews with abductees and field investigations. Ryan Wood recalls going to the Mojave Desert at 13 or 14, where one of his father's engineers used magnetometers and strip chart recorders to document anomalous events.
 
 During this period Wood hired [[Stanton Friedman]] to examine the nuclear physics of UFO propulsion. The team had no access to classified information.
 
 ## Other Research Cited by Gerb
 
-- **The Interplanetary Phenomenon Unit.** The Army has acknowledged that an [[Interplanetary Phenomenon Unit]] existed as an in-house project for an unnamed Assistant Chief of Staff for Intelligence (G-2). Ryan and Robert Wood argue that the G-2 was a compartmented office and that the unit's real leader was [[George C. Marshall]].
-- **Groom Lake.** Gerb agrees with Wood that underground installations at Groom Lake, built in an old mine, probably predate the official opening of Area 51 in 1955.
-- **Project Palladium.** Gerb cites the Woods' moderate-to-high rating of a Majestic document dated 28 June 1961, in which [[John F. Kennedy]] allegedly asks CIA director Allen Dulles for a review of MJ-12 intelligence operations.
-- **The Disclosure Project list.** Wood is among the named witnesses on the list of more than 700 names that [[Steven Greer]]'s Disclosure Project published in 2024.
+- The Army has acknowledged that an [[Interplanetary Phenomenon Unit]] existed as an in-house project for an unnamed Assistant Chief of Staff for Intelligence (G-2). Ryan and Robert Wood argue that the G-2 was a compartmented office and that the unit's real leader was [[George C. Marshall]].
+- Gerb agrees with Wood that underground installations at Groom Lake, built in an old mine, probably predate the official opening of Area 51 in 1955.
+- For Project Palladium, Gerb cites the Woods' moderate-to-high rating of a Majestic document dated 28 June 1961, in which [[John F. Kennedy]] allegedly asks CIA director Allen Dulles for a review of MJ-12 intelligence operations.
+- Wood is among the named witnesses on the list of more than 700 names that [[Steven Greer]]'s Disclosure Project published in 2024.
 
 ## Collaboration with a Forensic Illustrator
 
-Gerb has featured the designs of the extraterrestrial entities EBE-1 and EBE-2, as described in the Special Operations Manual, that forensic illustrator [[Bill McDonald]] drew with Wood. McDonald's reconstructions of the Roswell craft and the [[1976 Tehran UFO Incident|1976 Tehran incident]] are his own work.
+Forensic illustrator [[Bill McDonald]] and Wood drew the extraterrestrial entities EBE-1 and EBE-2 as the Special Operations Manual describes them, and Gerb has featured those designs. McDonald's reconstructions of the Roswell craft and the [[1976 Tehran UFO Incident|1976 Tehran incident]] are his own work.
 
 ## Sources
 

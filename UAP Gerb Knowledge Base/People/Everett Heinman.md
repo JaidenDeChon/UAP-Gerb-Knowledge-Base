@@ -115,7 +115,7 @@ In 2022, the researcher [[RGH UFOs]] contacted Heinman about Inman's claim that 
 
 ## Significance
 
-Gerb treats several facts together as circumstantial evidence that the CIA DS&T had a central part in managing alleged UAP material holdings. Heinman headed the DS&T, one of NURO's founding agencies. He ran NRO Program B, whose satellite reconnaissance and ground station at Pine Gap, a joint US–Australian facility, would be relevant to tracking UAP; Gerb wonders whether this is where a NURO director and an NRO program director first encountered UFO legacy programs together. In 1984 his department was proposed for a committee on the Navy Special Program. And Inman named him, unprompted, as the right contact for research on recovered vehicles.
+Gerb treats several facts together as circumstantial evidence that the CIA DS&T had a central part in managing alleged UAP material holdings. Heinman headed the DS&T, one of NURO's founding agencies. He ran NRO Program B, whose satellite reconnaissance and ground station at Pine Gap, a joint US-Australian facility, would be relevant to tracking UAP; Gerb wonders whether this is where a NURO director and an NRO program director first encountered UFO legacy programs together. In 1984 his department was proposed for a committee on the Navy Special Program. And Inman named him, unprompted, as the right contact for research on recovered vehicles.
 
 ## Sources
 

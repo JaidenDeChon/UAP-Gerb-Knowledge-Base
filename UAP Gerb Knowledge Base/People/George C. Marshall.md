@@ -152,7 +152,7 @@ Marshall also sat at the top of the extremely short chain of command to which Ma
 
 ## The Alsos Missions
 
-The secrecy around the Manhattan Project was so tight that military intelligence could not be briefed on atomic matters, which left it with no means of assessing German progress on atomic weapons. In 1943 Marshall proposed a solution: a separate intelligence operation under the Manhattan Engineer District, the [[Alsos Mission|Alsos Missions]], run completely outside standard military intelligence channels. Gerb says the missions were overseen by Groves, Marshall, Colonel Boris Pash, whom he describes as Marshall's G-2 at the time, and Bush, and notes that Marshall "was fully prepared to utilize his G-2 for covert and unacknowledged missions." Alsos ran in three phases, in Italy, France and Germany, from an original detachment of 13 military personnel, including interpreters, and five scientists.
+The secrecy around the Manhattan Project was so tight that military intelligence could not be briefed on atomic matters, which left it with no means of assessing German progress on atomic weapons. In 1943 Marshall proposed a separate intelligence operation under the Manhattan Engineer District, the [[Alsos Mission|Alsos Missions]], to run completely outside standard military intelligence channels. Gerb says the missions were overseen by Groves, Marshall, Colonel Boris Pash, whom he describes as Marshall's G-2 at the time, and Bush, and notes that Marshall "was fully prepared to utilize his G-2 for covert and unacknowledged missions." Alsos ran in three phases, in Italy, France and Germany, from an original detachment of 13 military personnel, including interpreters, and five scientists.
 
 Alsos relied on T-Forces, an operational arm of the Supreme Headquarters Allied Expeditionary Force, to secure German scientists, technology, laboratories and materials on the front lines. Their methods were described as sometimes resembling "kidnapping at night by state officials who offered no evidence of identity," and they captured atomic processing plants inside Soviet-controlled territory. In the end Alsos captured Werner Heisenberg and other leading German atomic scientists, along with stores of uranium ore, heavy water and research documents.
 
@@ -170,7 +170,7 @@ According to [[William Steinman]]'s sources, the impact area of the craft in the
 
 ## Secretary of State and Secretary of Defense
 
-Marshall was Secretary of State from 1947 to 1949, the period right after the alleged Roswell crash when, in Gerb's account, the Manhattan Project 2.0 was being organized, and Secretary of Defense from 1950 to 1951. The two posts put him at the top of the civilian defense and foreign policy establishment during the formative years of the alleged UFO legacy program. When Truman presented him with a Distinguished Service Medal in 1945, he said that although millions gave America extraordinary service, Marshall gave it victory.
+Marshall was Secretary of State from 1947 to 1949 and Secretary of Defense from 1950 to 1951. His time at State came right after the alleged Roswell crash, when, in Gerb's account, the Manhattan Project 2.0 was being organized. The two posts put him at the top of the civilian defense and foreign policy establishment during the formative years of the alleged UFO legacy program. When Truman presented him with a Distinguished Service Medal in 1945, he said that although millions gave America extraordinary service, Marshall gave it victory.
 
 ## Sources
 
