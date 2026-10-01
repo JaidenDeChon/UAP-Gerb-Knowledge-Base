@@ -1294,5 +1294,33 @@
     ],
     "dates": "partial",
     "corrections": 3
+  },
+  "Steven Lovekin": {
+    "enriched_at": "2026-10-01T22:15:17Z",
+    "videos": 4,
+    "components": [
+      "wiki-timeline"
+    ],
+    "dates": "verified",
+    "corrections": 1
+  },
+  "Tim Burchett": {
+    "enriched_at": "2026-10-01T22:15:17Z",
+    "videos": 4,
+    "components": [
+      "wiki-affiliations",
+      "wiki-record"
+    ],
+    "dates": "verified",
+    "corrections": 3
+  },
+  "Gary McKinnon": {
+    "enriched_at": "2026-10-01T22:15:17Z",
+    "videos": 2,
+    "components": [
+      "wiki-timeline"
+    ],
+    "dates": "verified",
+    "corrections": 3
   }
 }
