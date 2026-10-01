@@ -6089,6 +6089,11 @@
     "sha256": "39d9eeac96534d555c0d784f8525f224d2c586735d6fc5bcf2f7ec2894c131ec",
     "cold_reader": true
   },
+  "app/app/components/content/WikiRecord.vue": {
+    "humanized_at": "2026-10-01T18:23:25Z",
+    "sha256": "63ae2952ade9ae4579fb0f3d62de0e80dbf68398020f054d9349b7170baa4c81",
+    "cold_reader": true
+  },
   "app/app/components/content/WikiRoster.vue": {
     "humanized_at": "2026-09-25T16:56:50Z",
     "sha256": "3f36ae97291dfb0e5de60c93b8acbb3f279887f0ff861ad3b243fbb9a1964f4e",
