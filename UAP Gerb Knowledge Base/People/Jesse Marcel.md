@@ -10,7 +10,7 @@ tags:
   - person
 ---
 
-Major Jesse Antoine Marcel Sr. (1907–1986) was the intelligence officer of the [[509th Bomb Group]] at [[Roswell Army Airfield]], New Mexico, and the first military officer sent to investigate the debris field from the alleged [[Roswell Crash]] of July 1947. Within a day the Army Air Forces recast the find as a weather balloon, and Marcel was photographed with substitute material for the press. In 1978 he told the UFO researcher [[Stanton Friedman]] that he believed the debris was not of this Earth and that he had been ordered to take part in a cover-up. His disclosure reignited public interest in the Roswell incident and launched the modern era of crash retrieval research. In Gerb's videos Marcel is the starting point of the paper trail on crash retrievals, and his description of the debris recurs as the standard against which other material is compared.
+Major Jesse Antoine Marcel Sr. (1907–1986) was the intelligence officer of the [[509th Bomb Group]] at [[Roswell Army Airfield]], New Mexico, and the first military officer sent to investigate the debris field from the alleged [[Roswell Crash]] of July 1947. Within a day the Army Air Forces recast the find as a weather balloon, and Marcel was photographed with substitute material for the press. In 1978 he told the UFO researcher [[Stanton Friedman]] that he believed the debris was not of this Earth and that he had been ordered to take part in a cover-up. His disclosure revived public interest in the Roswell incident and began the modern era of crash retrieval research. In Gerb's videos Marcel is the starting point of the paper trail on crash retrievals, and his description of the debris recurs as the standard against which other material is compared.
 
 ## Background
 
@@ -115,11 +115,11 @@ Gerb uses the date of Marcel's admission as a fixed point. Because [[Arthur Stan
 
 ## Suppression of Information
 
-Marcel is cited as an example of the broader government pattern of silencing military witnesses to UAP-related events. Marcel and other Roswell witnesses were kept from speaking freely about what they saw by men in military fatigues, in Gerb's words, rather than by the suit-clad [[Men in Black]] of UFO folklore. The suppression parallels what [[Robert Jacobs]] and others experienced.
+Marcel is cited as one example of a government pattern of silencing military witnesses to UAP-related events. Marcel and other Roswell witnesses were kept from speaking freely about what they saw by men in military fatigues, in Gerb's words, rather than by the suit-clad [[Men in Black]] of UFO folklore. The suppression parallels what [[Robert Jacobs]] and others experienced.
 
 ## Connection to Battelle Nitinol Research
 
-Marcel described the anomalous debris as exceedingly light metallic foil that returned to its original shape after being deformed. That description corresponds to the material properties of [[Nitinol (Nickel-Titanium Alloy)]], a shape-memory alloy not officially discovered until 1961. In 1949 [[Wright-Patterson Air Force Base]] contracted [[Battelle Memorial Institute]] to analyze a nickel-titanium shape-memory alloy. Gerb argues that Marcel's description of the Roswell debris, combined with the material's reported transport to Wright-Patterson and Battelle's 1949 contract research on the same type of alloy, forms a traceable chain from crash retrieval to private-sector material analysis.
+Marcel described the anomalous debris as exceedingly light metallic foil that returned to its original shape after being deformed. That description matches the properties of [[Nitinol (Nickel-Titanium Alloy)]], a shape-memory alloy not officially discovered until 1961. In 1949 [[Wright-Patterson Air Force Base]] contracted [[Battelle Memorial Institute]] to analyze a nickel-titanium shape-memory alloy. Gerb argues that Marcel's description of the Roswell debris, combined with the material's reported transport to Wright-Patterson and Battelle's 1949 contract research on the same type of alloy, forms a traceable chain from crash retrieval to private-sector material analysis.
 
 The alleged [[MJ-12 Documents|Majestic 12 documents]] also echo Marcel. Gerb notes that the *Special Operations Manual* describes crash materials as extremely strong for their weight, resembling aluminum foil or magnesium sheeting and bearing inscriptions, "identical to the claims" of Marcel, and that the IPU report places "the debris field seen by Brazel and Marcel" at the first of two Roswell sites.
 

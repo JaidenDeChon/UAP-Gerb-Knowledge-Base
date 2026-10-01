@@ -9,7 +9,7 @@ tags:
   - person
 ---
 
-Wilbert Brockhouse Smith was a senior Canadian government radio engineer who worked in the Department of Transport's Broadcast and Measurements Section. In 1950 he wrote two foundational documents in UAP history. One was a set of handwritten notes on a meeting with US physicist and DoD consultant [[Robert Sarbacher]], in which Sarbacher told him that flying saucers were the most highly classified subject in the US government, rated above the hydrogen bomb. The other was a classified memo to the Controller of Telecommunications that relayed those claims and asked permission for Canada to begin an official UFO investigation. Smith then founded and directed [[Project Magnet]], Canada's first official investigation into UAP propulsion, and was a central figure in Canada's early formal engagement with the UFO phenomenon. Gerb uses his memo as the "estimate of the situation" for 1950: a fixed point from a credible witness of the time against which other claims about the early crash retrieval program can be checked.
+Wilbert Brockhouse Smith was a senior Canadian government radio engineer who worked in the Department of Transport's Broadcast and Measurements Section. In 1950 he wrote two foundational documents in UAP history. One was a set of handwritten notes on a meeting with US physicist and DoD consultant [[Robert Sarbacher]], in which Sarbacher told him that flying saucers were the most highly classified subject in the US government, rated above the hydrogen bomb. The other was a classified memo to the Controller of Telecommunications that relayed those claims and asked permission for Canada to begin an official UFO investigation. Smith then founded and directed [[Project Magnet]], Canada's first official investigation into UAP propulsion, and was a central figure in the Canadian government's early official work on UFOs. Gerb uses his memo as the "estimate of the situation" for 1950: a fixed point from a credible witness of the time against which other claims about the early crash retrieval program can be checked.
 
 ## Career
 
@@ -198,7 +198,7 @@ As a direct result of Smith's 1950 memo, the Canadian government set up two offi
 - [[Project Magnet]], approved in December 1950 and directed by Smith himself, studied the feasibility of reverse-engineering UAP magnetic propulsion concepts to exploit Earth's magnetic field as an energy and propulsion source.
 - [[Project Second Story]], an interdepartmental committee formed in April 1952, was to recommend a course of government action on the UFO phenomenon. Smith reported Project Magnet's findings to it.
 
-Canada's work on UAP through these projects reflects Smith's unique role as a conduit between American classified knowledge and Canadian science policy.
+Both projects grew out of Smith's unique position as a go-between, carrying what he learned of American classified knowledge into Canadian science policy.
 
 ## Later Recognition
 
@@ -206,7 +206,7 @@ In 1983, [[Stanton Friedman]] learned of the memo and tracked down [[Robert Sarb
 
 ## Significance
 
-Wilbert B. Smith is a rare case in UAP research: a credentialed government official whose written records give a contemporaneous, primary-source account of an insider disclosure about the classification level of US UAP programs. His work made Canada an early institutional participant in the international study of the UFO phenomenon. It also produced two of the most consequential documents in UAP history, one of which led directly to Project Magnet.
+Wilbert B. Smith is a rare case in UAP research: a credentialed government official who wrote down, at the time, what an insider told him about how highly the US classified its UAP programs. Through his work Canada took part officially and early in the international study of UFOs. It also produced two of the most consequential documents in UAP history, one of which led directly to Project Magnet.
 
 ## Sources
 

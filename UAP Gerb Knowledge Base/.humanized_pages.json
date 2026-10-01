@@ -3615,8 +3615,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Andrew Kissner.md": {
-    "humanized_at": "2026-09-25T19:01:34Z",
-    "sha256": "1d5675f70685af954d9d360fe301c534459ce99419bf7afecb68b10567aed396",
+    "humanized_at": "2026-10-01T20:41:08Z",
+    "sha256": "b369bb1637e7f1c27cb3e545310aad5fcc65b780d73e5164a223eed745d4ef68",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Anna Paulina Luna.md": {
@@ -4335,8 +4335,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Glenn Gaffney.md": {
-    "humanized_at": "2026-09-25T19:12:59Z",
-    "sha256": "2232fec929ee2a1468f87a2e1b422c9b3f0eae2dfec8761b36a9595c92502739",
+    "humanized_at": "2026-10-01T20:41:08Z",
+    "sha256": "7174cb937ad0d208ac904ccc4042ac8a3f6b0bc9f2d395c5657266e1157578fe",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Glenn Seaborg.md": {
@@ -4645,8 +4645,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Jesse Marcel.md": {
-    "humanized_at": "2026-09-25T19:16:03Z",
-    "sha256": "18ebfecc996a03b22ff09665d8c3cb0e272de96076f9db9c79a9126ddb31e533",
+    "humanized_at": "2026-10-01T20:41:08Z",
+    "sha256": "a6292aa164ac21aa969168145e567202b1a90e13996317af093dd0c8db486e96",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Jesse Michaels.md": {
@@ -5510,8 +5510,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Stanton Friedman.md": {
-    "humanized_at": "2026-09-25T19:28:55Z",
-    "sha256": "56bdf5554ed25a1b33674788d426fd44355ec7020cd5b0dd53d719243d030a63",
+    "humanized_at": "2026-10-01T20:41:07Z",
+    "sha256": "43844841e94f8d41df0c9fe346e112c0943218e97f1e17f344b4dde0c1a81028",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Stephanie O'Sullivan.md": {
@@ -5690,8 +5690,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Wilbert B. Smith.md": {
-    "humanized_at": "2026-09-25T19:30:52Z",
-    "sha256": "f1bc92287f9da1e549534c6685c2ba2649aed3be8337aeb0a8009c522f7a650e",
+    "humanized_at": "2026-10-01T20:41:07Z",
+    "sha256": "fa57ee27279abd53eca022c8babced489cab14b8e1384e4dda0534038af3defe",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Will Miller.md": {
@@ -6240,8 +6240,8 @@
     "cold_reader": true
   },
   "app/app/utils/record.ts": {
-    "humanized_at": "2026-10-01T18:23:25Z",
-    "sha256": "57db3b14e3b9769bfc233c6a4a38baa64de8fe0bf62dd21bc95e53a0ffc98ddc",
+    "humanized_at": "2026-10-01T20:41:07Z",
+    "sha256": "0c9974fca0b84ef5b5e56a67d97e674e61b417f330ec8af641d31210a96b24ac",
     "cold_reader": true
   },
   "app/app/utils/timeline.ts": {
