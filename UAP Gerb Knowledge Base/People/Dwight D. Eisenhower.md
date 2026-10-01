@@ -149,7 +149,7 @@ events:
 
 ::wiki-record
 ---
-caption: "The orders, laws and speech of Eisenhower's that Gerb's videos build on. Each note gives Gerb's reading, not the document's stated purpose."
+caption: "The orders, laws and speech of Eisenhower's that Gerb's videos build on. Where a note goes beyond what the document says, it gives Gerb's reading of it."
 items:
   - date: "1953-11-05"
     kind: statement
@@ -165,7 +165,7 @@ items:
   - date: "1954-08"
     kind: statement
     title: "Atomic Energy Act of 1954"
-    note: "Signed into law by Eisenhower. Section 51 defines special nuclear material; Section 142 underlies what became TFNI."
+    note: "Signed into law by Eisenhower. Section 51 defines special nuclear material; Section 142 underlies what became transclassified foreign nuclear information (TFNI)."
     source: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1"
   - date: "1961-01-17"
     kind: speech
@@ -229,9 +229,11 @@ The [[Atomic Energy Act of 1954]], signed by Eisenhower, is where, in Gerb's phr
 
 ## Other Ties in Gerb's Videos
 
-- **Corso and the NSC.** [[Philip J. Corso]] served on the staff of Eisenhower's [[National Security Council]] from 1953 to 1957 and sat on its Operations Coordinating Board, which Eisenhower created under Executive Order 10483. Corso claimed nine clearances above top secret, known only to Eisenhower and his superior, C. D. Jackson.
-- **The NRO.** After the Soviet Union shot down a U-2 in 1960, Eisenhower and CIA director Allen Dulles moved to consolidate Air Force and CIA reconnaissance and take it into space, which led to the [[NRO (National Reconnaissance Office)|National Reconnaissance Office]], first co-directed by [[Richard Bissell Jr.]].
-- **Space weapons.** In his second Northrop Grumman video, Gerb suggests that the idea of space-based microwave weapons against UFOs began under Eisenhower.
+[[Philip J. Corso]] served on the staff of Eisenhower's [[National Security Council]] from 1953 to 1957 and sat on its Operations Coordinating Board, which Eisenhower created under Executive Order 10483. Corso claimed nine clearances above top secret, known only to Eisenhower and his superior, C. D. Jackson.
+
+After the Soviet Union shot down a U-2 in 1960, Eisenhower and CIA director Allen Dulles moved to consolidate Air Force and CIA reconnaissance and take it into space, which led to the [[NRO (National Reconnaissance Office)|National Reconnaissance Office]], first co-directed by [[Richard Bissell Jr.]].
+
+In his second Northrop Grumman video, Gerb suggests that the idea of space-based microwave weapons against UFOs began under Eisenhower.
 
 ## Sources
 

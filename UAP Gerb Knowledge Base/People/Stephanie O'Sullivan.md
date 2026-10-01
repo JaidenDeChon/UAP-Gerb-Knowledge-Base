@@ -61,7 +61,7 @@ eras:
     label: "TRW and naval intelligence"
     from: 1982
     to: 1994
-    summary: "Sensitive projects at TRW and R&D programs at the Office of Naval Intelligence, years Gerb calls data masked."
+    summary: "Sensitive projects at TRW and R&D programs at the Office of Naval Intelligence. Gerb says these years are data masked, meaning the classified work is kept off her CV."
   - id: cia
     label: "CIA"
     from: 1995
@@ -156,7 +156,7 @@ events:
 entries:
   - name: "James Clapper"
     role: "Director of National Intelligence, 2010–2017"
-    note: "Recommended her as his principal deputy. Gerb believes he recruited her to share dual-hatted ODNI and legacy-program roles."
+    note: "Recommended her as his principal deputy. Gerb believes he recruited her so the two could hold ODNI posts and legacy-program roles at the same time."
   - name: "David Grusch"
     role: "UAP whistleblower"
     note: "Named her in January 2026 among those \"in rooms discussing this issue\" and asked her to come forward."
@@ -188,7 +188,7 @@ The support Gerb cites is [[David Grusch]]'s appearance on Megyn Kelly's show in
 
 Gerb's video *Northrop Grumman & TRW* places O'Sullivan in a line of officials who passed through TRW on their way to the top of the intelligence community. She joined TRW around 1982, and overlapped there for about two years with [[Dawn Meyerriecks]], who later served under her and Clapper. Gerb calls the thin public record of her TRW and naval intelligence years "data masking", meaning classified work obscured on a CV; beyond a 2018 alumni article and her Battelle biography, he says, almost nothing about them can be found. He thinks she likely crossed paths at the Office of Naval Intelligence with [[Richard Haver]], its deputy director from 1985 to 1989, and asks why former ONI official [[Jay Stratton]] has not discussed her. Gerb ranks her CV with those of [[Edward C. Aldridge]] and [[Donald M. Kerr]], and treats the DS&T posts she held as significant in the legacy structure, as with [[Glenn Gaffney]], [[Doug Wolfe|Doug Wolf]] and Meyerriecks.
 
-He also reads her later boards as part of the pattern. Battelle and Booz Allen Hamilton are, in his words, channel regulars; Huntington Ingalls was spun off from Northrop in 2011; Oak Ridge is where [[Sean Kirkpatrick]] went after AARO; at In-Q-Tel she worked alongside Gaffney; and at Peraton she shares the board with former NGA director [[Robert Cardillo]], whom Gerb is certain was involved in blocking Lockheed Martin from passing UFO materials to AAWSAP. Whatever legacy exposure O'Sullivan carried through TRW, he says, is "now owned by Northrop Grumman."
+He also reads her later boards as part of the pattern. Battelle and Booz Allen Hamilton are, in his words, channel regulars; Huntington Ingalls was spun off from Northrop in 2011; Oak Ridge is where [[Sean Kirkpatrick]] went after AARO; at In-Q-Tel she worked alongside Gaffney; and at Peraton she shares the board with former NGA director [[Robert Cardillo]], who Gerb is certain was involved in blocking Lockheed Martin from passing UFO materials to AAWSAP. Whatever legacy exposure O'Sullivan carried through TRW, he says, is "now owned by Northrop Grumman."
 
 ## MITRE Timing Coincidence
 

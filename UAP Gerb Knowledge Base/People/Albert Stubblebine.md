@@ -10,7 +10,7 @@ tags:
   - person
 ---
 
-Major General Albert N. "Bert" Stubblebine III (1930–2017) was a United States Army officer who was commanding general of the US Army Intelligence and Security Command ([[Army INSCOM|INSCOM]]) from 1981 to 1984, at the end of a 32-year career. He then became a vice president of [[BDM International]]. He is known for his interest in parapsychology and psychic phenomena, and he was a key sponsor of the Army's remote-viewing work. Gerb calls him "one of the primary characters of this channel": Gerb, [[Philip J. Corso]] and [[Steven Greer]] accuse him of taking part in UFO crash retrieval, craft storage and material exploitation, and Gerb ties him to a classified 1985 physics conference at BDM and to an alleged Men in Black unit called [[TREAT]].
+Major General Albert N. "Bert" Stubblebine III (1930–2017) was a United States Army officer who was commanding general of the US Army Intelligence and Security Command ([[Army INSCOM|INSCOM]]) from 1981 to 1984, at the end of a 32-year career. He then became a vice president of [[BDM International]]. He is known for his interest in parapsychology and psychic phenomena, and he was one of the main sponsors of the Army's remote-viewing work. Gerb calls him "one of the primary characters of this channel": Gerb, [[Philip J. Corso]] and [[Steven Greer]] accuse him of taking part in UFO crash retrieval, craft storage and material exploitation, and Gerb ties him to a classified 1985 physics conference at BDM and to an alleged Men in Black unit called [[TREAT]].
 
 ## Career
 
@@ -68,7 +68,7 @@ events:
       - "US Army"
   - date: "1981"
     title: "Takes command of INSCOM"
-    summary: "Leads the Army Intelligence and Security Command until 1984. He is a key sponsor of the Army's remote-viewing research, part of the effort later consolidated as Project Stargate."
+    summary: "Leads the Army Intelligence and Security Command until 1984. He is one of the main sponsors of the Army's remote-viewing research, part of the effort later consolidated as Project Stargate."
     category: organization
     significance: major
     entities:
@@ -151,9 +151,9 @@ entries:
 
 ## INSCOM and Psychic Research
 
-As commanding general of INSCOM from 1981 to 1984, Stubblebine oversaw the Army's main signals intelligence, human intelligence and counterintelligence operations. INSCOM then also commanded the Intelligence Support Activity, the secretive special missions unit sometimes called "Task Force Orange", which was handed to [[JSOC (Joint Special Operations Command)|JSOC]] in 2003. Gerb and journalist [[Christopher Sharp]] accuse JSOC elements of taking part in foreign UFO crash retrievals alongside the CIA's [[CIA Office of Global Access|Office of Global Access]], set up the same year, and Gerb traces that line back through the ISA to Stubblebine's INSCOM.
+As commanding general of INSCOM from 1981 to 1984, Stubblebine oversaw the Army's main signals intelligence, human intelligence and counterintelligence operations. INSCOM then also commanded the Intelligence Support Activity, the secretive special missions unit sometimes called "Task Force Orange", which was handed to [[JSOC (Joint Special Operations Command)|JSOC]] in 2003. Gerb and journalist [[Christopher Sharp]] accuse JSOC elements of taking part in foreign UFO crash retrievals alongside the CIA's [[CIA Office of Global Access|Office of Global Access]], set up the same year, and Gerb traces that line back through the Intelligence Support Activity to Stubblebine's INSCOM.
 
-Stubblebine was a key sponsor of the Army's research into psychic phenomena for military use. Acknowledged US work on anomalous cognition began in 1977 as a joint Army, DIA, CIA and SRI International program run from Fort Meade, Maryland, under a series of code names, Grill Flame among them for INSCOM's part; it was consolidated as [[Project Stargate]] in 1991 and moved to SAIC. Jon Ronson's book *The Men Who Stare at Goats*, and the film made from it, describe Stubblebine's interest in remote viewing, spoon-bending and related subjects while he led INSCOM. In Gerb's words he was "obsessed with what you could call psychic phenomena for military application."
+Stubblebine was one of the main sponsors of the Army's research into psychic phenomena for military use. The acknowledged US work on anomalous cognition began in 1977 as a joint program of the Army, DIA, CIA and SRI International, run from Fort Meade, Maryland. It went through a series of code names (Grill Flame was one of the names for INSCOM's part) and was consolidated as [[Project Stargate]] in 1991 and moved to SAIC. Jon Ronson's book *The Men Who Stare at Goats*, and the film made from it, describe Stubblebine's interest in remote viewing, spoon-bending and related subjects while he led INSCOM. In Gerb's words he was "obsessed with what you could call psychic phenomena for military application."
 
 [[Philip J. Corso]] claimed that in February 1987 a [[UFO Working Group]], chaired by Colonel Harold E. Phillips of the Defense Intelligence Agency, was set up and saw ample funding from Army INSCOM under General Stubblebine.
 
