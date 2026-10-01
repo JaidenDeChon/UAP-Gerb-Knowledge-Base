@@ -8,7 +8,7 @@ tags:
   - person
 ---
 
-**Leslie Kean** is an American investigative journalist and author, and one of the most influential figures in modern UAP reporting and disclosure efforts. She co-wrote the 2017 *New York Times* article that revealed the Pentagon's [[AATIP (Advanced Aerospace Threat Identification Program)|AATIP]] (Advanced Aerospace Threat Identification Program) and, in Gerb's words, brought the [[Pentagon UFO Videos|Pentagon UAP videos]] ("FLIR", "Gimbal" and "GoFast") and AATIP into the public zeitgeist. In 2023 she co-wrote the article in *The Debrief* that introduced the whistleblower [[David Grusch]]. Earlier, she led a lawsuit lasting several years to force [[NASA]] to release its documents on the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]].
+**Leslie Kean** is an American investigative journalist and author, and one of the most influential people in modern UAP reporting and the push for disclosure. She co-wrote the 2017 *New York Times* article that revealed the Pentagon's [[AATIP (Advanced Aerospace Threat Identification Program)|AATIP]] (Advanced Aerospace Threat Identification Program) and, in Gerb's words, brought the [[Pentagon UFO Videos|Pentagon UAP videos]] ("FLIR", "Gimbal" and "GoFast") and AATIP into the public zeitgeist. In 2023 she co-wrote the article in *The Debrief* that introduced the whistleblower [[David Grusch]]. Earlier, she led a lawsuit lasting several years to force [[NASA]] to release its documents on the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]].
 
 ## Career
 
@@ -18,7 +18,7 @@ Kean began covering UFOs in 2000 with a feature story in the *Boston Globe*. Bef
 
 ::wiki-record
 ---
-caption: "What Kean has published or said that Gerb's videos draw on. Her career dates come from her publishers' author pages and Wikipedia."
+caption: "Kean's articles, book, talks and lawsuit that Gerb's videos draw on. Dates for her career come from her publishers' author pages and Wikipedia."
 items:
   - date: "2000-05"
     kind: statement
@@ -92,7 +92,7 @@ On 16 December 2017, Helene Cooper, [[Ralph Blumenthal]] and Kean published the 
 - military encounters with UAP, documented in Navy videos released through the efforts of [[Luis Elizondo]] and [[Chris Mellon]]
 - the account of former Pentagon official [[Luis Elizondo]], who ran AATIP and resigned in protest at the lack of attention given to UAP
 
-In his SOL Foundation presentation, [[Karl Nell]] cites the article as a major paradigm shift that brought the FLIR, Gimbal and GoFast videos into the public domain, and Gerb's iceberg video credits the *Times*, with Kean and Blumenthal, with publishing them. The article was a turning point for the subject in mainstream media, and preceded the congressional hearings and the creation of [[AARO]] in the years that followed.
+In his SOL Foundation presentation, [[Karl Nell]] cites the article as a major paradigm shift that brought the FLIR, Gimbal and GoFast videos into the public domain, and Gerb's iceberg video credits the *Times*, with Kean and Blumenthal, with publishing them. The article changed how mainstream media treated the subject, and came before the congressional hearings and the creation of [[AARO]] in the years that followed.
 
 ## The Debrief and David Grusch
 
@@ -116,7 +116,7 @@ entries:
     note: "His account and resignation were central to the 2017 article."
   - name: "David Grusch"
     role: "UAP whistleblower"
-    note: "Introduced to the public by her and Blumenthal's Debrief article in June 2023."
+    note: "Her Debrief article with Blumenthal introduced him to the public in June 2023."
   - name: "Karl Nell"
     role: "Retired Army colonel"
     note: "Quoted backing Grusch in the Debrief article; she later named him as one of Grusch's 40 witnesses."

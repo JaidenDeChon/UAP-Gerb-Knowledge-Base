@@ -19,7 +19,7 @@ Forrestal was born on 15 February 1892. After Princeton he joined the Wall Stree
 ::wiki-affiliations
 ---
 label: "Where he worked, and when"
-caption: "Dates come from Forrestal's Wikipedia biography and the Princeton University finding aid for his papers; his letter of resignation, accepted by Truman, is in the American Presidency Project."
+caption: "Dates come from Forrestal's Wikipedia biography and the Princeton University finding aid for his papers. His letter of resignation, accepted by Truman, is in the American Presidency Project."
 rows:
   - text: "Dillon, Read & Co."
     role: "Investment banker; president from 1937"
@@ -43,7 +43,7 @@ rows:
     from: "1947-09"
     to: "1949-03"
     approx: true
-    note: "A member as Secretary of Defense; the months follow his term in that office."
+    note: "He sat on the council as Secretary of Defense, so the months shown follow his term in that office."
 ---
 ::
 
@@ -51,7 +51,7 @@ rows:
 
 ::wiki-timeline
 ---
-help: "Forrestal's life and the parts of it that Gerb's videos connect to UFO secrecy, in date order. Entries drawn from the Majestic 12 documents describe what those disputed papers say, not established fact. Click a year on the bar above the list to jump to the nearest entry there. To see only one type of entry, or only the major ones, open the button that shows how many entries are listed. Names in an entry link to the people, programs and organizations involved. His birth, death and office dates come from his Wikipedia biography."
+help: "Events in Forrestal's life, including the ones Gerb's videos connect to UFO secrecy, in date order. Entries taken from the disputed Majestic 12 documents only report what those papers say. Click a year on the bar of years above the list to jump to the entry nearest it. To show only one type of entry, or only the major ones, use the button that shows the number of entries. Names in an entry link to the people, programs and organizations involved. Dates for his birth, death and time in office come from his Wikipedia biography."
 events:
   - date: "1892-02-15"
     title: "Born"
@@ -121,7 +121,7 @@ events:
 
 ## Role in the Early Legacy Programs
 
-On 29 January 1947, as Navy Secretary, Forrestal and Secretary of War Robert P. Patterson established the [[Armed Forces Special Weapons Project (AFSWP)|Armed Forces Special Weapons Project]], a joint Army and Navy body to manage nuclear weapons after the [[Atomic Energy Commission]] succeeded the [[Manhattan Project]]. AFSWP and the Los Alamos weapons division set up at Sandia Base, now part of [[Sandia National Laboratories|Sandia]]'s home at Kirtland. Gerb argues that AFSWP served both the atomic program and the early UFO effort he calls the [[Manhattan Project 2.0]], and notes that AFSWP recurs in every early crash-retrieval source he examines. In his video on the [[Aztec UFO Crash and Recovery|Aztec crash]], he floats the idea that AFSWP handled the Roswell and Aztec wreckage.
+On 29 January 1947 Forrestal, then Navy Secretary, and Secretary of War Robert P. Patterson established the [[Armed Forces Special Weapons Project (AFSWP)|Armed Forces Special Weapons Project]], a joint Army and Navy body to manage nuclear weapons after the [[Atomic Energy Commission]] succeeded the [[Manhattan Project]]. AFSWP and the Los Alamos weapons division set up at Sandia Base, now part of [[Sandia National Laboratories|Sandia]]'s home at Kirtland. Gerb argues that AFSWP served both the atomic program and the early UFO effort he calls the [[Manhattan Project 2.0]], and notes that AFSWP recurs in every early crash-retrieval source he examines. In his video on the [[Aztec UFO Crash and Recovery|Aztec crash]], he floats the idea that AFSWP handled the Roswell and Aztec wreckage.
 
 ## Majestic 12
 

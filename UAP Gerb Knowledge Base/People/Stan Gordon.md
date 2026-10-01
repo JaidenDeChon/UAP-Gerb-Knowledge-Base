@@ -8,7 +8,7 @@ tags:
   - person
 ---
 
-**Stan Gordon** is a UFO researcher and investigator from [[Greensburg, Pennsylvania|Greensburg]], Pennsylvania, and the longest-serving investigator of the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]]. Gerb calls him "the most seasoned Kecksburg investigator" and leans mainly on his work, and on that of [[Leonard Stringfield]], with whom Gordon shared much of his research and many of his witnesses. Over the decades Gordon has interviewed witnesses, obtained government records through FOIA requests and produced a documentary on the case.
+**Stan Gordon** is a UFO researcher and investigator from [[Greensburg, Pennsylvania|Greensburg]], Pennsylvania, and the longest-serving investigator of the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]]. Gerb calls him "the most seasoned Kecksburg investigator" and draws mainly on his work and on that of [[Leonard Stringfield]], with whom Gordon shared much of his research and many of his witnesses. Over the decades Gordon has interviewed witnesses, obtained government records through FOIA requests and produced a documentary on the case.
 
 ## Career
 
@@ -20,9 +20,9 @@ Gordon has followed the Kecksburg case since the night it happened, but many of 
 
 Gordon's investigation includes:
 
-- **Records on Cosmos 96.** Through FOIA requests to [[US Space Command]] and the [[Naval Surveillance Center]], Gordon obtained records showing that the Soviet probe [[Cosmos 96]] entered the atmosphere over Canada at about 3:18 a.m. Eastern time on 9 December 1965, roughly 13 hours before the Kecksburg fireball. He concluded that the event was not caused by Cosmos 96.
+- **Records on Cosmos 96.** Through FOIA requests to [[US Space Command]] and the [[Naval Surveillance Center]], Gordon obtained records showing that the Soviet probe [[Cosmos 96]] entered the atmosphere over Canada at about 3:18 a.m. Eastern time on 9 December 1965, roughly 13 hours before the Kecksburg fireball. He concluded that Cosmos 96 did not cause the event.
 - **The WHJB tapes.** Gordon has said he received notarized documents from employees of the radio station WHJB claiming that elements of the U.S. government confiscated news tapes of eyewitness accounts and would not let them be broadcast.
-- **The Lockbourne guard and Myron.** A former member of an Air Force security team contacted Gordon before the 1990 *Unsolved Mysteries* broadcast on Kecksburg. He said he had guarded a bronze, bell-shaped object backed into a hangar at [[Lockbourne Air Force Base, Columbus, Ohio|Lockbourne Air Force Base]] early on 10 December 1965. The trucker known as "[[Myron]]" first contacted Gordon after the broadcast, and was then interviewed by Stringfield.
+- **The Lockbourne guard and Myron.** A former member of an Air Force security team contacted Gordon before the 1990 *Unsolved Mysteries* broadcast on Kecksburg. He said he had guarded a bronze, bell-shaped object backed into a hangar at [[Lockbourne Air Force Base, Columbus, Ohio|Lockbourne Air Force Base]] early on 10 December 1965. The trucker known as "[[Myron]]" first contacted Gordon after the broadcast, and Stringfield interviewed him later.
 - **Eric Walker.** Gordon had a report of someone matching the description of [[Eric A. Walker]], then president of Penn State, at the crash site. Walker later told the researcher Armen Victorian that he went there.
 - **Joel.** Prompted by local news of [[Leslie Kean]]'s effort to free NASA's Kecksburg files, a witness called Joel contacted Gordon, who met him at his home in late 2002. Joel said he had watched an Army general strike the object with a probe, after which a hatch swung open with a whirring, hissing sound.
 
@@ -32,7 +32,7 @@ In the proceedings of the 2003 annual crash retrieval conference, Gordon wrote o
 
 ## Documentary
 
-Gordon produced and released *Kecksburg: The Untold Story* in 1998, a 92-minute documentary that won the 1998 EBE award for best historical UFO documentary at the International UFO Congress. Gerb lists it, with the *Unsolved Mysteries* episode and *Kecksburg: The New Roswell*, among the coverage that has made the case so widely known. At one point in the video Gerb dates Gordon's documentary to 1993; its release year is 1998.
+Gordon produced and released *Kecksburg: The Untold Story* in 1998, a 92-minute documentary that won the 1998 EBE award for best historical UFO documentary at the International UFO Congress. Gerb lists it, with the *Unsolved Mysteries* episode and *Kecksburg: The New Roswell*, among the coverage that has made the case so widely known. At one point in the video Gerb dates Gordon's documentary to 1993, but it was released in 1998.
 
 ## Sources
 

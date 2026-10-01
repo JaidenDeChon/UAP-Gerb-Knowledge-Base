@@ -24,7 +24,7 @@ items:
     title: "Mexico's Roswell: The Chihuahua UFO Crash"
     with:
       - "Noe Torres"
-    note: "An account of the 1974 Coyame case built on the authors' fieldwork in Chihuahua. Proposes that the lost plane was a Cessna 180 on a low-altitude smuggling run."
+    note: "An account of the 1974 Coyame case built on the authors' fieldwork in Chihuahua. It proposes that the lost plane was a Cessna 180 on a low-altitude smuggling run."
     source: "The 1974 Coyame, Mexico UFO Crash"
   - date: "2008"
     kind: book
