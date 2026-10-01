@@ -73,8 +73,10 @@ function spanText([first, last]: [string, string]): string {
 const summary = computed(() => {
   const { born, died, activeFrom, activeTo } = dates.value
   const clauses: string[] = []
-  if (born) clauses.push(`was born in ${formatLifeDate(born)}`)
-  if (died) clauses.push(`died in ${formatLifeDate(died)}`)
+  // "Born on 8 Jul 1947" for a full date, "born in 1947" or "in Jul 1947" otherwise.
+  const on = (date: string): string => (/^\d{4}-\d{2}-\d{2}$/.test(date) ? 'on' : 'in')
+  if (born) clauses.push(`was born ${on(born)} ${formatLifeDate(born)}`)
+  if (died) clauses.push(`died ${on(died)} ${formatLifeDate(died)}`)
   if (activeFrom !== null) {
     if (activeTo === 'present') clauses.push(`has been active since ${activeFrom}`)
     else if (activeTo === null || activeTo === activeFrom) clauses.push(`was active ${activeTo === null ? 'from' : 'in'} ${activeFrom}`)

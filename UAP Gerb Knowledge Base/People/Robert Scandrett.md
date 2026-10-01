@@ -9,7 +9,7 @@ Robert Scandrett was an engineer in Rockwell International's Strategic Systems D
 
 ## Role in the XF-131 Account
 
-In the spring of 1992, McDonald met four engineers at a Denny's in the [[Antelope Valley]]. Two said they worked for [[Northrop Grumman]] at a facility near [[Tehachapi, California|Tehachapi]], and two said they worked for [[Ben Rich]] at [[Lockheed Martin Skunk Works]]. Their work was so tightly compartmentalized that each held only a piece of the puzzle about the triangular craft valley residents had reported for years, the XF-131 Super Sentinel. McDonald says he was able to confirm the Northrop engineers' testimony through friends of his father and through his father's mentor, Scandrett.
+In the spring of 1992, McDonald met four engineers at a Denny's in the [[Antelope Valley]]. Two said they worked for [[Northrop Grumman]] at a facility near [[Tehachapi, California|Tehachapi]], and two said they worked for [[Ben Rich]] at [[Lockheed Martin Skunk Works]]. Their work was so tightly compartmentalized that each knew only part of the story of the triangular craft people in the valley had reported for years, the XF-131 Super Sentinel. McDonald says he was able to confirm the Northrop engineers' testimony through friends of his father and through his father's mentor, Scandrett.
 
 ## Sources
 

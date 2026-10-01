@@ -3925,8 +3925,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/David Grusch.md": {
-    "humanized_at": "2026-09-25T19:08:53Z",
-    "sha256": "487265eb2cc88a21c88fff5dd7c619acb9545ff1a00051288ec7b0441fec017d",
+    "humanized_at": "2026-10-01T18:24:03Z",
+    "sha256": "ed9b89160617f76578ef6a622e7560078e266c4c4186036ff8e5d6fd70a871c7",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/David Hilton.md": {
@@ -5375,8 +5375,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Robert Scandrett.md": {
-    "humanized_at": "2026-09-25T19:26:54Z",
-    "sha256": "41049ac2d11198ce08177ed67b204593d53b8a3cd1f0764c1540c8f85e6d9f1f",
+    "humanized_at": "2026-10-01T18:24:03Z",
+    "sha256": "1f751ea58df1239f8ac3873a1a129192342b94b6ed2ceb82e60c13ef3808df36",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Robert Spencer Carr.md": {
@@ -6165,8 +6165,8 @@
     "cold_reader": true
   },
   "app/app/components/wiki/WikiPersonGlance.vue": {
-    "humanized_at": "2026-10-01T18:22:14Z",
-    "sha256": "28a161cfd8e222b1d62a488f36e354be2bb02eac2135c88452a0782aad912863",
+    "humanized_at": "2026-10-01T18:24:03Z",
+    "sha256": "02bbdbd35bb4a190126b71e4144fd8f54ffa3e1e04879f6dbb2aa643091cf8e1",
     "cold_reader": true
   },
   "app/app/components/wiki/WikiPersonPortrait.vue": {
