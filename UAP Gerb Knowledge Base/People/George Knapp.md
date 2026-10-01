@@ -9,7 +9,7 @@ tags:
   - person
 ---
 
-George Knapp is an American investigative journalist and television news anchor based in Las Vegas, Nevada, widely regarded as one of the leading mainstream journalists covering UAP and related phenomena. He is a host of *Coast to Coast AM*, the syndicated overnight radio program, where he has interviewed many prominent UAP witnesses and researchers. In Gerb's videos he is a source rather than a subject: the journalist who heard [[Alfred O'Donnell]]'s account of a saucer held by [[EG&G]], who reported the [[2008 Needles UFO Crash Retrieval|2008 Needles crash]], who published the list of [[AATIP (Advanced Aerospace Threat Identification Program)|AATIP]] studies, and who drew Del Rio out of [[Eric Davis]] on the radio.
+George Knapp is an American investigative journalist and television news anchor based in Las Vegas, Nevada. He is widely regarded as one of the leading mainstream journalists covering UAP and related phenomena. As a host of *Coast to Coast AM*, the syndicated overnight radio program, he has interviewed many well-known UAP witnesses and researchers. Gerb's videos cite him as a source more than they discuss him. He is the journalist who heard [[Alfred O'Donnell]]'s account of a saucer held by [[EG&G]], who reported the [[2008 Needles UFO Crash Retrieval|2008 Needles crash]], who published the list of [[AATIP (Advanced Aerospace Threat Identification Program)|AATIP]] studies, and who drew Del Rio out of [[Eric Davis]] on the radio.
 
 ## Career
 
@@ -77,7 +77,7 @@ In June 2018, Knapp interviewed physicist and UAP researcher [[Eric Davis]] on *
 
 [[Philip J. Corso]] told Knapp, as he told [[John B. Alexander]] and [[Jacques Vallee]], about his claimed encounter with a non-human being at White Sands. A long-lost interview in which Corso draws the being was later shown on *Weaponized*.
 
-According to Gerb, Knapp released in July 2018 a leaked list of the 38 Defense Intelligence Reference Documents commissioned under [[AATIP (Advanced Aerospace Threat Identification Program)|AATIP]], later confirmed through FOIA requests by [[John Greenewald]] of The Black Vault. Gerb credits Eric Davis with the papers among them on traversable wormholes, anti-gravity and energy from the quantum vacuum. Gerb has also said he would like to ask Knapp whether the Russian UFO files Knapp reportedly smuggled out of Russia include material on unidentified submerged objects.
+According to Gerb, in July 2018 Knapp released a leaked list of the 38 Defense Intelligence Reference Documents commissioned under [[AATIP (Advanced Aerospace Threat Identification Program)|AATIP]]. FOIA requests by [[John Greenewald]] of The Black Vault later confirmed the list. Gerb credits Eric Davis with the papers in it on traversable wormholes, anti-gravity and energy from the quantum vacuum. Gerb has also said he would like to ask Knapp whether the Russian UFO files Knapp reportedly smuggled out of Russia include material on unidentified submerged objects.
 
 ### Alfred O'Donnell and the Needles Crash
 

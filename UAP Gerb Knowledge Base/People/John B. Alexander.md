@@ -89,13 +89,13 @@ entries:
 
 From 1982 to 1983, Alexander reported directly to [[Albert Stubblebine]] at US Army [[Army INSCOM|INSCOM]]. He led the Advanced Theoretical Physics Working Group, which held a classified conference on May 20–25, 1985, at a secure [[BDM International]] facility in McLean, Virginia, a year after Stubblebine joined BDM. Oke Shannon, an attendee and a former manager for special projects at [[Los Alamos National Laboratory]], released notes from the conference. They show that the group discussed several aspects of UFOs: legacy programs, a major engineering project under [[Bobby Ray Inman]], underwater UFO hotspots near the Golfo San Matías in Argentina, an organization that "collects, manages, and destroys" UFO information, and a plan to approach [[Donald M. Kerr]] for "influence and money". The conference used Department of Energy security controls.
 
-The conference is one of the few documented gatherings at which senior intelligence and defense figures discussed UFO programs, and it links Army INSCOM leadership, BDM International, Los Alamos and knowledge of UAP programs.
+Few other documented gatherings had senior intelligence and defense figures discussing UFO programs. The conference connects Army INSCOM's leadership, BDM International and Los Alamos with knowledge of UAP programs.
 
 ## Analysis of Corso's Testimony
 
 Alexander was among those shown Corso's completed manuscript around the time *[[The Day After Roswell]]* came out, and he remarked on sensational details in the book that are missing from the manuscript. Gerb draws on this to argue that the book, written with co-author [[Bill Burns]], added material Corso never wrote. Gerb's own example is a scene in which Corso intimidates the CIA's director of covert operations, which appears in the book but not in the manuscript.
 
-In his book *UFOs: Myths, Conspiracies, and Realities*, Alexander documented that the Army's [[U.S. Army Foreign Technology Division]] under [[Arthur Trudeau]] was indeed formed as Corso stated, but then "disappeared shortly after his retirement." He wrote: "It was learned that the Army foreign technology division was formed as Corso stated and then disappeared shortly after his retirement". This lends credibility to the division's existence as an institution, though Alexander also notes that public documentation of it is lacking.
+In his book *UFOs: Myths, Conspiracies, and Realities*, Alexander wrote that the Army's [[U.S. Army Foreign Technology Division]] under [[Arthur Trudeau]] was formed as Corso stated and then "disappeared shortly after his retirement." His exact words were: "It was learned that the Army foreign technology division was formed as Corso stated and then disappeared shortly after his retirement". The passage supports the division's existence as an institution, although Alexander also notes that there is little public documentation of it.
 
 Corso and Alexander appeared together on Art Bell's *Coast to Coast AM*, where Corso put the division's budget at about $2 billion.
 
@@ -105,11 +105,11 @@ Alexander was also one of the people Corso told about his claimed 1957-1958 [[Wh
 
 Although he acknowledges some aspects of Corso's testimony, Alexander has criticized specific claims that technology was seeded. He objected in particular to Corso's assertions about [[Passive Night Vision Technology]], saying that the whole lineage of infrared and night vision technology can be accounted for by conventional development. Alexander said he spoke to Dr. [[Lou Cameron]], director of the night vision laboratory at Fort Belvoir, Virginia, who flatly denied that an eye lens from a non-human intelligence had aided breakthroughs in passive night vision.
 
-Gerb sets Alexander's objection beside that of [[Jacques Vallee]], who, being well versed in computer science, found that Corso's assertions about integrated circuitry were not documented facts.
+Gerb sets Alexander's objection beside that of [[Jacques Vallee]], who is well versed in computer science and found that Corso's assertions about integrated circuitry were not documented facts.
 
 ## Assessment of Corso's Consistency
 
-Despite these criticisms, Alexander and others, including Vallee, maintained that Corso's story never wavered across multiple tellings: no detail was ever altered, added or removed. Corso reportedly sounded like "a tape recorder". You could rewind and fast-forward to parts of his disclosures and always hear the same details, with no variation. This consistency suggests either remarkable truthfulness or a carefully constructed and memorized narrative.
+Despite these criticisms, Alexander and others, including Vallee, maintained that Corso told his story the same way every time, never altering, adding or removing a detail. Corso reportedly sounded like "a tape recorder": you could rewind and fast-forward to any part of his account and hear exactly the same details. Such consistency suggests either that he was remarkably truthful or that he had carefully built and memorized the story.
 
 ## Correspondence with Ben Rich
 

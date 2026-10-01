@@ -12,12 +12,12 @@ Chris Mellon is a former senior U.S. government official. He was Deputy Assistan
 
 ## Career
 
-Mellon was born on 2 October 1957 in Topeka, Kansas, into the Mellon family of Pittsburgh. He took a degree in economics at Colby College in 1980 and a master's in international relations at Yale in 1984. He spent about twelve years on Capitol Hill, much of it as a professional staff member of the Senate Select Committee on Intelligence; Gerb puts his committee service at 1989 to 1996 and cites a 1989 memorandum for record that places him at a committee briefing with [[Mary K. Sturdivant]]. At the [[Department of Defense]] he was special assistant to the Secretary of Defense for intelligence policy from November 1997, which Gerb identifies as the post Dick Cheney had created for [[Richard Haver]], then deputy assistant secretary for security and information operations from June 1998, and deputy assistant secretary for intelligence from November 1999 to January 2002. He returned to the Senate committee as minority staff director under Senator Jay Rockefeller. In 2017 he joined To The Stars Academy as its national security affairs adviser, and he left with [[Luis Elizondo]] and Steve Justice at the start of 2021.
+Mellon was born on 2 October 1957 in Topeka, Kansas, into the Mellon family of Pittsburgh. He took a degree in economics at Colby College in 1980 and a master's in international relations at Yale in 1984. He spent about twelve years on Capitol Hill, much of it as a professional staff member of the Senate Select Committee on Intelligence; Gerb puts his committee service at 1989 to 1996 and cites a 1989 memorandum for record that places him at a committee briefing with [[Mary K. Sturdivant]]. At the [[Department of Defense]] he became special assistant to the Secretary of Defense for intelligence policy in November 1997, a post Gerb identifies as the one Dick Cheney had created for [[Richard Haver]]. He was then deputy assistant secretary for security and information operations from June 1998, and deputy assistant secretary for intelligence from November 1999 to January 2002. He returned to the Senate committee as minority staff director under Senator Jay Rockefeller. In 2017 he joined To The Stars Academy as its national security affairs adviser, and he left with [[Luis Elizondo]] and Steve Justice at the start of 2021.
 
 ::wiki-affiliations
 ---
 label: "Where he worked, and when"
-caption: "Defense Department and To The Stars dates from Mellon's Wikipedia biography, with the 2021 departure also reported by Mystery Wire. The first committee span is the one Gerb gives (1989 to 1996), so it is marked approximate. The minority staff director dates are from SourceWatch; Wikipedia gives 2002 to 2004."
+caption: "Defense Department and To The Stars dates are from Mellon's Wikipedia biography, with the 2021 departure also reported by Mystery Wire. The first Senate committee bar uses the dates Gerb gives (1989 to 1996). The minority staff director dates are from SourceWatch; Wikipedia gives 2002 to 2004. A dashed outline marks both Senate bars as approximate."
 rows:
   - name: "Senate Select Committee on Intelligence"
     role: "Professional staff member"
@@ -100,13 +100,13 @@ entries:
     note: "Named Mellon among the small group he blamed for a 2008 conspiracy. Mellon says he introduced Kirkpatrick to three witnesses, who got no feedback."
   - name: "Mary K. Sturdivant"
     role: "Former Senate intelligence committee staffer, later a Lockheed Martin vice president"
-    note: "A committee colleague of Mellon's; Gerb suspects Mellon may be protecting her and has asked him to comment on her."
+    note: "A committee colleague of Mellon's. Gerb suspects Mellon may be protecting her and has asked him to comment on her."
   - name: "Richard Haver"
     role: "First Assistant to the Secretary of Defense for Intelligence Policy"
     note: "Held the intelligence-policy post Mellon later filled."
   - name: "Russell E. Wiler"
     role: "Director, Air Force Sensitive Activities Office"
-    note: "Researcher Alex Catz's candidate, and Gerb's lean, for the redacted \"SES2 Air Force gatekeeper\" in Mellon's Signal exchange."
+    note: "Researcher Alex Catz's candidate for the redacted \"SES2 Air Force gatekeeper\" in Mellon's Signal exchange. Gerb leans toward him too."
   - name: "Tom DeLonge"
     role: "Founder of To The Stars Academy"
     note: "Named Mellon among TTSA's advisers in October 2017."
@@ -115,7 +115,7 @@ entries:
 
 ## Public Statements on Close-Proximity UAP Encounters
 
-On *The Joe Rogan Experience*, Mellon said he had personally seen footage of a UAP right next to a pilot's aircraft. [[Luis Elizondo]] has spoken of government-held footage showing UAP as close as 50 feet from the cockpit. Gerb is not sure whether the two men were describing the same video, but is "100% positive" that Mellon's is not the Flyby clip; what he takes from both accounts is that UFOs have been recorded within about 15 metres of aircraft.
+On *The Joe Rogan Experience*, Mellon said he had personally seen footage of a UAP right next to a pilot's aircraft. [[Luis Elizondo]] has spoken of government-held footage showing UAP as close as 50 feet from the cockpit. Gerb is not sure whether the two men were describing the same video, but is "100% positive" that Mellon's is not the Flyby clip. He takes from both accounts that UFOs have been recorded within about 15 metres of aircraft.
 
 Mellon has also confirmed, with the pilots, that part of the Gimbal footage, in which the object is said to join other craft in a V formation, remains classified, and he has said that 4K satellite footage of UAP exists but is classified or has been tampered with. Karl Nell has thanked Mellon and Elizondo for their work getting the FLIR, Gimbal and GoFast videos released through *The New York Times* in December 2017. A slide from an AATIP presentation leaked from Mellon's website mentions the effect of craft on human cognition.
 
@@ -133,7 +133,7 @@ Gerb also notes a theory that Elizondo and Mellon steered Tom DeLonge into reviv
 
 ## Response to Kirkpatrick's AARO Claims
 
-[[Sean Kirkpatrick]] wrote an op-ed in *Scientific American* that blamed the reverse-engineering story on a 2008 conspiracy among a small group that included Mellon, and claimed that no whistleblowers had approached AARO with evidence. Mellon replied with a public rebuttal saying he was "astonished" by the claim. Mellon wrote that he personally introduced Kirkpatrick to [[Luis Elizondo]], [[Eric Davis]], and [[Hal Puthoff]], each of whom spent hours briefing Kirkpatrick in a classified setting, and that "none have received any feedback." He also called on AARO's forthcoming congressional report to describe what specific claims these witnesses made and what AARO did to evaluate them.
+[[Sean Kirkpatrick]] wrote an op-ed in *Scientific American* that blamed the reverse-engineering story on a 2008 conspiracy among a small group that included Mellon, and claimed that no whistleblowers had approached AARO with evidence. Mellon replied with a public rebuttal saying he was "astonished" by the claim. He wrote that he personally introduced Kirkpatrick to [[Luis Elizondo]], [[Eric Davis]], and [[Hal Puthoff]], each of whom spent hours briefing Kirkpatrick in a classified setting, and that "none have received any feedback." He also called on AARO's forthcoming congressional report to describe what specific claims these witnesses made and what AARO did to evaluate them.
 
 ::wiki-claim{video="hK24ZdkvwN4" video-title="The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies"}
 ---

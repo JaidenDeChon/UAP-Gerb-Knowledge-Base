@@ -18,7 +18,7 @@ Burlison was born in Springfield, Missouri. He was elected to the Missouri House
 ::wiki-affiliations
 ---
 label: "Where he has served, and when"
-caption: "Dates from Burlison's Wikipedia and Ballotpedia biographies and his congressional profile. He was elected to the Missouri House in 2008 and left at the end of 2016, and elected to the Missouri Senate in 2018; the January start and end months follow the legislatures' terms."
+caption: "Dates from Burlison's Wikipedia and Ballotpedia biographies and his congressional profile. He was elected to the Missouri House in 2008 and left at the end of 2016, and was elected to the Missouri Senate in 2018. The bars start and end in January because the legislatures' terms do."
 rows:
   - text: "Missouri House of Representatives"
     role: "State representative"
@@ -51,7 +51,7 @@ items:
     kind: hearing
     title: "Video of a Hellfire missile striking a UAP off Yemen"
     where: "Task Force on the Declassification of Federal Secrets"
-    note: "Shows for the first time footage, which he says came from a whistleblower, of an MQ-9 drone's missile hitting a fast-moving orb that keeps flying."
+    note: "Shows footage of an MQ-9 drone's missile hitting a fast-moving orb that keeps flying, the first time it was shown. He says it came from a whistleblower."
   - date: "2026-05"
     kind: letter
     title: "Request to MIT Lincoln Laboratory for the 1952 \"Flying Saucer Talk\" film"
@@ -77,10 +77,10 @@ items:
 entries:
   - name: "David Grusch"
     role: "UAP whistleblower; his special adviser in 2025"
-    note: "Helps with Burlison's interrogatories to the CIA, the Aerospace Corporation and the Navy, by Burlison's account; Gerb credits the MITRE letter to both men."
+    note: "By Burlison's account, helps with his interrogatories to the CIA, the Aerospace Corporation and the Navy. Gerb credits the MITRE letter to both men."
   - name: "Anna Paulina Luna"
     role: "U.S. Representative, UAP Caucus"
-    note: "Met, with Burlison, a whistleblower from a \"nautical source\" who described a structure in the deep ocean."
+    note: "With Burlison, met a whistleblower from a \"nautical source\" who described a structure in the deep ocean."
   - name: "Christopher Land"
     role: "MITRE senior vice president"
     note: "The recipient of Burlison's 2026 interrogatory to MITRE."
@@ -102,7 +102,7 @@ Burlison is a member of the UAP Caucus, the group of lawmakers whose work, Gerb 
 
 On the SecoActivo podcast, Burlison said he had sent legal interrogatories to the CIA, the [[Aerospace Corporation]] and the Navy, and that Grusch would keep helping with more. The CIA declined to answer and referred him to [[AARO]]. The Aerospace Corporation gave a briefing in a secure setting which, Burlison said, "really didn't turn up" anything. Gerb takes the fact that an interrogatory was aimed at the Aerospace Corporation as evidence that it is deep in the programs.
 
-Burlison has also named the 1952 film briefing *Flying Saucer Talk* (AF-ATIC-film 0352), given by Captain [[Edward J. Ruppelt]], as held at [[MIT Lincoln Laboratory]]. And, according to Burlison, Air Force intelligence officer [[Matthew Sullivan]] died of what was called an accidental overdose two weeks before he was due to make protected disclosures about legacy programs.
+Burlison has also said that [[MIT Lincoln Laboratory]] holds the 1952 film briefing *Flying Saucer Talk* (AF-ATIC-film 0352), given by Captain [[Edward J. Ruppelt]]. According to Burlison, Air Force intelligence officer [[Matthew Sullivan]] died of what was called an accidental overdose two weeks before he was due to make protected disclosures about legacy programs.
 
 ## MITRE Interrogative Letter
 
@@ -110,7 +110,7 @@ Working with [[David Grusch]], Burlison sent the [[MITRE Corporation]] a detaile
 
 ## Naval Whistleblower Meeting
 
-Burlison has described a meeting that he and fellow UAP Caucus member [[Anna Paulina Luna]] held with a whistleblower from a "nautical source". Getting to the meeting took a full day of travel. Burlison said the whistleblower's account of underwater activity was reminiscent of the film *The Abyss*. He was referring to a structure in the deep ocean, not to the film's aquatic beings. Gerb connects this account to his own reporting on an alleged MITRE-administered USO monitoring program in the Atlantic.
+Burlison has described a meeting that he and fellow UAP Caucus member [[Anna Paulina Luna]] held with a whistleblower from a "nautical source". Getting to the meeting took a full day of travel. Burlison said the whistleblower's account of underwater activity was reminiscent of the film *The Abyss*, meaning a structure in the deep ocean rather than the film's aquatic beings. Gerb connects this account to his own reporting on an alleged MITRE-administered USO monitoring program in the Atlantic.
 
 ## Pax River Site Visit
 
