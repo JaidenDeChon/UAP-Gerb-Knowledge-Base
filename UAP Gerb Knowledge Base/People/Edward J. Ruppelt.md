@@ -22,7 +22,7 @@ Gerb's videos sometimes give Ruppelt a longer tenure than this. *MOON DUST* says
 
 ::wiki-timeline
 ---
-help: "Ruppelt's life and the episodes of his career that Gerb's videos cover, in date order. Click a year on the bar above the list to jump to the nearest entry there. To see only one type of entry, or only the major ones, open the button that shows how many entries are listed. Names in an entry link to the people, programs and places involved."
+help: "Ruppelt's life and the episodes of his career that Gerb's videos cover, in date order. Click a year on the bar above the list to jump to the entry closest to it. To see only one type of entry, or only the major ones, open the button that shows how many entries are listed. Names in an entry link to the people, programs and places involved."
 eras:
   - id: before
     label: "Before he joined the project"
@@ -190,7 +190,7 @@ In December 1952, USAF Colonel Donald L. Bower forbade Ruppelt from visiting the
 
 ## Flying Saucer Talk
 
-Representative [[Eric Burlison]] has called out by name and file designation (AF-ATIC-film 0352) a 1952 filmed briefing by Ruppelt titled *Flying Saucer Talk*, held at [[MIT Lincoln Laboratory]], a federally funded research and development center descended from Vannevar Bush's MIT Radiation Laboratory. Gerb asks why Lincoln Laboratory holds the film and why it was never volunteered to the National Archives, and suspects the films there depict sensitive briefings on non-human craft. In his video on [[MITRE Corporation|MITRE]], he notes that Lincoln Laboratory had still not delivered the film to Burlison's office.
+Representative [[Eric Burlison]] has named a 1952 filmed briefing by Ruppelt, *Flying Saucer Talk*, by title and file designation (AF-ATIC-film 0352), as held at [[MIT Lincoln Laboratory]], a federally funded research and development center descended from Vannevar Bush's MIT Radiation Laboratory. Gerb asks why Lincoln Laboratory holds the film and why it was never volunteered to the National Archives, and suspects the films there depict sensitive briefings on non-human craft. In his video on [[MITRE Corporation|MITRE]], he notes that Lincoln Laboratory had still not delivered the film to Burlison's office.
 
 ## Project Pounce
 

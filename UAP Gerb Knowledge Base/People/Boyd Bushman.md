@@ -43,7 +43,7 @@ Bushman's claims of working on UAP research and development for Lockheed were re
 
 - Debris and materials were recovered from crash recoveries, plural, in New Mexico: likely the [[Roswell Crash|Roswell crash]] and perhaps the [[1953 Kingman, Arizona Crash Retrieval|Kingman, Arizona crash]].
 - Lockheed carried out work on anti-gravity, which matches what other Lockheed-connected sources allege about the company's black programs.
-- His work on UAP craft concluded that they contain three key elements: thoride, germanium and palladium. Gerb notes that these could make up a thermoelectric or photovoltaic generator with a semiconductor and capacitor: pure germanium was the first metallic material to become a superconductor in the presence of an electromagnetic field, palladium is crucial to capacitors, and thoride alloys have thermoelectric or photovoltaic properties. In Gerb's view this materials science lends some credence to the claim.
+- His work on UAP craft concluded that they contain three key elements: thoride, germanium and palladium. Gerb notes that these could make up a thermoelectric or photovoltaic generator with a semiconductor and capacitor: pure germanium was the first metallic material to become a superconductor in the presence of an electromagnetic field, palladium is essential to capacitors, and thoride alloys have thermoelectric or photovoltaic properties. In Gerb's view this materials science lends some credence to the claim.
 - He also showed photographs of what he said were alien bodies: small grey creatures.
 
 ## FBI Investigation (1999)

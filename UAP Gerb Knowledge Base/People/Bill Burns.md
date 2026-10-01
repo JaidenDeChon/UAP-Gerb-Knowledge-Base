@@ -8,7 +8,7 @@ tags:
   - person
 ---
 
-William J. "Bill" Birnes (born 1944) is an American author and ghostwriter who co-wrote *The Day After Roswell* (1997) with retired U.S. Army Lieutenant Colonel [[Philip J. Corso]]. The captions of Gerb's videos spell his name "Bill Burns", which is why this page carries that title. Birnes later published *UFO Magazine* and was a lead investigator on the History Channel's *UFO Hunters*. Corso's son, and others who read Corso's original manuscript, say the published book contains sensational details that Corso never wrote, and Gerb suggests these creative liberties were possibly inserted by Birnes.
+William J. "Bill" Birnes (born 1944) is an American author and ghostwriter who co-wrote *The Day After Roswell* (1997) with retired U.S. Army Lieutenant Colonel [[Philip J. Corso]]. The captions of Gerb's videos spell his name "Bill Burns", which is why this page carries that title. Birnes later published *UFO Magazine* and was a lead investigator on the History Channel's *UFO Hunters*. Corso's son, and others who read Corso's original manuscript, say the published book contains sensational details that Corso never wrote, and Gerb suggests that Birnes possibly inserted them as creative liberties.
 
 ## The Day After Roswell Controversy
 

@@ -16,7 +16,7 @@ John Greenewald Jr. is an American researcher and Freedom of Information Act (FO
 ::wiki-record
 ---
 label: "Requests and releases"
-caption: "The FOIA requests and releases of Greenewald's that Gerb's videos cite, with the answer each one got. Dates are as Gerb gives them."
+caption: "Greenewald's Freedom of Information Act (FOIA) requests and releases that Gerb's videos cite, with the answer each one got. Dates are as Gerb gives them."
 items:
   - date: "1997"
     kind: filing
@@ -137,7 +137,7 @@ In July 2024 Greenewald and The Black Vault published FBI documents on [[Philip 
 
 ## Significance
 
-Greenewald's FOIA requests have put on the public record a consistent pattern of classification and denial around space-based detection of unidentified objects. Through them, the record shows that the US military has tracked objects entering and leaving Earth's atmosphere since at least 1972, and that this data is among the most tightly held of the government's UAP-related information. In Gerb's argument, the term "fast walker" works in practice as a shield against FOIA requests that ask about "UFOs" or "UAP".
+Taken together, Greenewald's FOIA requests show a consistent pattern of classification and denial around space-based detection of unidentified objects. The records he obtained show that the US military has tracked objects entering and leaving Earth's atmosphere since at least 1972, and that this data is among the most tightly held of the government's UAP-related information. In Gerb's argument, the term "fast walker" works in practice as a shield against FOIA requests that ask about "UFOs" or "UAP".
 
 ## Sources
 
