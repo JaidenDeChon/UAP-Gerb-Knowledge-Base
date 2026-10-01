@@ -3,11 +3,276 @@ name: "David Grusch"
 role: "UAP whistleblower; former National Geospatial-Intelligence Agency (NGA) officer; former National Reconnaissance Office (NRO) representative to the UAP Task Force"
 wikipedia: "David Grusch UFO whistleblower claims"
 wikipedia_image: "File:David Grusch giving testimony on 26 July 2023 before the US House Subcommittee on National Security the Border and Foreign Affairs.png"
+born: "1987"
+active_from: 2009
+active_to: 2026
 tags:
   - person
 ---
 
 David Grusch is a former U.S. intelligence officer who served at the National Geospatial-Intelligence Agency (NGA) and as the NRO's representative to the UAP Task Force. In 2023 he became the most high-profile UAP whistleblower in U.S. history when he testified under oath before the House Oversight Committee. He alleged that the U.S. government has held non-human intelligence craft and biologics for decades and has illegally withheld this information from Congress. His testimony drew wide media attention and led to further congressional UAP investigations. Grusch filed a whistleblower complaint with the Intelligence Community Inspector General, which was reportedly found credible and urgent.
+
+
+## Career
+
+Grusch was born in 1987 in [[Pittsburgh, Pennsylvania|Pittsburgh]] and studied physics at the University of Pittsburgh, where he took part in Air Force ROTC. He spent 14 years as an intelligence officer in the [[US Air Force]], on active duty and later in the Air National Guard and the Reserve, and reached the rank of Major. His service included a combat tour in Afghanistan. As a civilian he worked at the [[NRO (National Reconnaissance Office)|NRO]] and then the [[NGA]], and from 2019 he represented each of them in turn on the [[UAP Task Force]]. He left government in April 2023. In April 2025 Representative [[Eric Burlison]] took him on as a special adviser on UAP matters for four months.
+
+::wiki-affiliations
+---
+label: "Where he worked, and when"
+caption: "Dates come from the biography Grusch submitted for the July 2023 House hearing and from Representative Burlison's office. The Air Force start is approximate: he was commissioned after graduating in 2009."
+rows:
+  - name: "US Air Force"
+    role: "Intelligence officer; reached the rank of Major"
+    from: 2009
+    to: 2023
+    approx: true
+    note: "Fourteen years across active duty, the Air National Guard and the Reserve, including a combat tour in Afghanistan."
+  - name: "NRO (National Reconnaissance Office)"
+    role: "Senior intelligence officer"
+    from: "2016-04"
+    to: "2021-11"
+  - name: "UAP Task Force"
+    role: "Representative of the NRO, then of NGA"
+    from: 2019
+    to: "2022-07"
+    note: "The task force was later replaced by AARO."
+  - name: "NGA"
+    role: "Co-lead for UAP analysis"
+    from: 2021
+    to: "2023-04"
+    note: "He filed his whistleblower complaint while at NGA, in 2022, and left government in April 2023."
+  - name: "Eric Burlison"
+    role: "Special adviser on UAP to Representative Burlison"
+    from: "2025-04"
+    to: "2025-07"
+    note: "A four-month appointment that came with his security clearance reinstated."
+---
+::
+
+## Timeline
+
+::wiki-timeline
+---
+help: "This is Grusch's life and public record in date order, as covered across Gerb's videos. The bar of years above the list marks every entry; click it to jump to a year. Use the filter button to show one type of entry, or only the major ones. Entries link to the people, programs and organizations involved."
+eras:
+  - id: service
+    label: "Intelligence career"
+    from: 2009
+    to: 2022
+    summary: "Air Force intelligence officer, then a civilian at the NRO and NGA and their representative to the UAP Task Force."
+  - id: public
+    label: "Going public"
+    from: 2023
+    summary: "His complaint becomes public, he testifies to Congress, and he keeps naming programs, officials and cases in interviews."
+events:
+  - date: "1987"
+    title: "Born in Pittsburgh"
+    category: person
+    entities:
+      - "Pittsburgh, Pennsylvania"
+  - date: "2009"
+    title: "Physics degree and Air Force commission"
+    summary: "Graduates from the University of Pittsburgh with a degree in physics after Air Force ROTC, and begins 14 years as an Air Force intelligence officer."
+    category: organization
+    entities:
+      - "US Air Force"
+  - date: "2016-04"
+    title: "Joins the National Reconnaissance Office"
+    summary: "Serves as a senior intelligence officer at the NRO until November 2021."
+    category: organization
+    entities:
+      - "NRO (National Reconnaissance Office)"
+  - date: "2019"
+    title: "NRO representative to the UAP Task Force"
+    summary: "Represents the NRO on the Pentagon's UAP Task Force until 2021, and then represents NGA until July 2022."
+    category: program
+    significance: major
+    entities:
+      - "UAP Task Force"
+      - "NRO (National Reconnaissance Office)"
+  - date: "2021-05"
+    title: "Task force consulted on collection assets"
+    summary: "FOIA records show NGA, NASIC, DIA and the NRO consulting the UAP Task Force about collection assets. Gerb notes that Grusch was the task force's liaison for the NRO and NGA at the time."
+    category: document
+    entities:
+      - "UAP Task Force"
+  - date: "2021"
+    title: "Co-leads UAP analysis at NGA"
+    summary: "Moves to the National Geospatial-Intelligence Agency, where he co-leads its UAP analysis until July 2022."
+    category: organization
+    entities:
+      - "NGA"
+  - date: "2022"
+    title: "Whistleblower complaint to the Inspector General"
+    summary: "Files a complaint with the Intelligence Community Inspector General alleging that crash retrieval programs were hidden from Congress. It was reportedly found credible and urgent."
+    category: document
+    significance: major
+  - date: "2023-04"
+    title: "Leaves government"
+    category: person
+  - date: "2023-06-05"
+    title: "The Debrief article"
+    summary: "Leslie Kean and Ralph Blumenthal publish the article that introduces Grusch and his claims. Karl Nell, who worked with him on the task force, is quoted backing him."
+    category: document
+    significance: major
+    entities:
+      - "Leslie Kean"
+      - "Ralph Blumenthal"
+      - "Karl Nell"
+  - date: "2023-06-11"
+    title: "NewsNation interview with Ross Coulthart"
+    summary: "On camera, Grusch names the 1933 Magenta, Italy recovery as the first, ties the Vatican to its transfer to the US, and confirms the 1967 Malmstrom missile incident as fact."
+    category: event
+    entities:
+      - "Ross Coulthart"
+      - "1933 Magenta UFO CrashRetrieval"
+  - date: "2023-07-26"
+    title: "Testifies under oath to Congress"
+    summary: "Tells a House Oversight subcommittee he was informed of a multi-decade crash retrieval and reverse-engineering program, funded in part, he says, through misappropriated money and contractor IRAD. Ryan Graves and David Fravor testify beside him."
+    category: event
+    significance: major
+    entities:
+      - "Ryan Graves"
+      - "David Fravor"
+      - "Representative Moskowitz"
+  - date: "2024-02"
+    title: "Sol Foundation interviews released"
+    summary: "The Sol Foundation releases interviews and panels with Grusch, Chris Mellon, Kevin Knuth and Hal Puthoff."
+    category: event
+    entities:
+      - "Sol Foundation"
+      - "Sol Foundation Interview Release"
+  - date: "2025"
+    title: "Rodrik Castle approaches him"
+    summary: "Former Marine Rodrik Castle contacts Grusch in early 2025, offering sworn testimony to Congress about his 1997 encounter at 29 Palms."
+    category: person
+    entities:
+      - "Rodrik Castle"
+  - date: "2025-04-01"
+    title: "Special adviser to Representative Burlison"
+    summary: "Begins a four-month appointment as Burlison's special adviser on UAP, with his security clearance reinstated."
+    category: person
+    significance: major
+    entities:
+      - "Eric Burlison"
+  - date: "2026-01"
+    title: "Names Clapper on Megyn Kelly's show"
+    summary: "Responding to James Clapper's appearance in The Age of Disclosure, Grusch says Clapper managed the crash retrieval issue and calls on him and Stephanie O'Sullivan to come forward. He also says some contractors, Northrop above all, used IRAD to keep retrieving craft early in the War on Terror."
+    category: event
+    entities:
+      - "James Clapper"
+      - "Stephanie O'Sullivan"
+      - "The Age of Disclosure"
+      - "Northrop Grumman"
+  - date: "2026-05-05"
+    title: "Judicial Watch interview"
+    summary: "Sets out how legacy programs avoid congressional reporting through non-covert-action White House special access programs, and describes reprisals against himself and former colleagues."
+    category: event
+    entities:
+      - "National Security Council"
+  - date: "2026-05-22"
+    title: "Records letter to MITRE"
+    summary: "Representative Burlison sends MITRE a records-preservation letter of more than ten pages, which Gerb credits to Burlison and Grusch."
+    category: document
+    entities:
+      - "Eric Burlison"
+      - "MITRE Corporation"
+---
+::
+
+## On the Record
+
+::wiki-record
+---
+caption: "What Grusch has said or filed in public, and where. The article and the letter carry other people's names, but each records his account."
+items:
+  - date: "2022"
+    kind: complaint
+    title: "Whistleblower complaint"
+    where: "Intelligence Community Inspector General"
+    note: "Alleges that UAP crash retrieval programs were kept from Congress. Reportedly found credible and urgent."
+  - date: "2023-06-05"
+    kind: article
+    title: "Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin"
+    where: "The Debrief"
+    with:
+      - "Leslie Kean"
+      - "Ralph Blumenthal"
+    note: "The article that made his claims public. Karl Nell is quoted saying Grusch is fundamentally correct."
+    source: "SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure"
+  - date: "2023-06-11"
+    kind: interview
+    title: "We Are Not Alone: The UFO Whistleblower Speaks"
+    where: "NewsNation"
+    with:
+      - "Ross Coulthart"
+    quote: "In 1933 was the first recovery in Europe in Magenta, Italy. They recovered a partially intact vehicle. It's true, it's real. That actually happened."
+    source: "The 1933 Magenta, Italy UFO Crash"
+  - date: "2023-07-26"
+    kind: testimony
+    title: "Sworn testimony on UAP and national security"
+    where: "House Oversight Committee subcommittee hearing"
+    with:
+      - "Ryan Graves"
+      - "David Fravor"
+    note: "Says he has specific knowledge of misappropriated funds and of contractors overcharging through IRAD, and describes reprisals he calls administrative terrorism."
+    quote: "I was informed in the course of my official duties of a multi-decade UAP crash retrieval and reverse-engineering program to which I was denied access."
+    source: "80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline"
+  - date: "2026-01"
+    kind: interview
+    title: "Appearance on Megyn Kelly's show"
+    note: "Says James Clapper managed the crash retrieval issue and asks Clapper, Stephanie O'Sullivan and others who were in the room to come forward."
+    source: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2"
+  - date: "2026-05-05"
+    kind: interview
+    title: "On Watch interview"
+    where: "Judicial Watch"
+    note: "Explains the 5412 Committee origins he alleges for the programs and the non-covert-action loophole."
+    quote: "five people in the [NSC]... and the president at one time"
+    source: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2"
+  - date: "2026-05-22"
+    kind: letter
+    title: "Records-preservation letter to MITRE"
+    where: "MITRE Corporation"
+    with:
+      - "Eric Burlison"
+    note: "More than ten pages of questions, asking MITRE to preserve records on two alleged Navy-administered programs."
+    source: "The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs"
+---
+::
+
+## People Around Him
+
+::wiki-roster
+---
+entries:
+  - name: "Ross Coulthart"
+    role: "Journalist"
+    note: "Interviewed Grusch for NewsNation in June 2023, the interview in which he named the Magenta case."
+  - name: "Leslie Kean"
+    role: "Journalist"
+    note: "Co-wrote the June 2023 Debrief article that introduced him, and later named Karl Nell as one of his 40 witnesses."
+  - name: "Karl Nell"
+    role: "Retired Army colonel, former UAP Task Force colleague"
+    note: "Quoted in the Debrief article saying Grusch is fundamentally correct."
+  - name: "Eric Burlison"
+    role: "U.S. Representative"
+    note: "Questioned him at the 2023 hearing, hired him as a special adviser in 2025, and sent the 2026 letter to MITRE."
+  - name: "Michael Herrera"
+    role: "Whistleblower"
+    note: "Has confirmed speaking with Grusch as part of wider efforts to coordinate disclosure."
+  - name: "Sean Kirkpatrick"
+    role: "Former AARO director"
+    note: "Wrote that no whistleblower had come to AARO. Grusch says he tried and got no answer."
+  - name: "James Clapper"
+    role: "Former Director of National Intelligence"
+    note: "Named by Grusch in 2026 as having managed the crash retrieval issue."
+  - name: "Rodrik Castle"
+    role: "Former Marine sergeant"
+    note: "Approached Grusch in early 2025 offering sworn testimony about 29 Palms."
+---
+::
 
 ## Role in UAP Programs
 
@@ -38,6 +303,26 @@ Grusch has been in contact with other UAP whistleblowers, including [[Michael He
 ## Attempts to Contact AARO
 
 Grusch has publicly stated that he tried to approach [[AARO]] and its director [[Sean Kirkpatrick]] but received no response. This directly contradicts [[Sean Kirkpatrick]]'s claim, in his *Scientific American* op-ed, that no whistleblowers chose to contact AARO. The two men differ in one significant respect: Grusch has testified before Congress under oath, and Kirkpatrick has not.
+
+::wiki-claim{video="hK24ZdkvwN4" video-title="The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies"}
+---
+caption: "Kirkpatrick's claim about whistleblowers, and Grusch's answer, as Gerb sets them side by side."
+claim:
+  title: "No whistleblower came to AARO"
+  by: "Sean Kirkpatrick"
+  where: "Scientific American op-ed"
+  text: "As of his departure, none of the \"conspiracy-minded whistleblowers in the public eye\" had elected to come to AARO with their evidence, despite numerous invitations."
+  cue: 326
+responses:
+  - by: "David Grusch"
+    stance: challenges
+    text: "He has said several times that he tried to approach AARO and Kirkpatrick and never heard back."
+    cue: 331
+  - by: "Gerb"
+    stance: host
+    text: "Of the two men, Grusch is the one who has testified to Congress under oath, and Gerb chooses to believe him."
+---
+::
 
 ## Judicial Watch Interview: SAP Loopholes and Legacy Program Structure
 

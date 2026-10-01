@@ -74,6 +74,8 @@ const category = computed<Category>(() =>
 const isTranscript = computed(() => page.value?.stem.endsWith('/transcript') ?? false)
 /** A People note's portrait, from the baked meta (see wiki/portraits.ts). */
 const portrait = computed(() => (category.value === 'People' ? meta.value?.image : undefined))
+/** People pages get the at-a-glance block, their videos and their connections. */
+const isPerson = computed(() => category.value === 'People')
 const videoTitle = computed(() => (page.value ? videoTitleFromStem(page.value.stem) : null))
 
 /**
@@ -238,6 +240,8 @@ const articleClass = computed(() => hasRail.value
 
           <WikiFactTable :page="page" />
 
+          <WikiPersonGlance v-if="isPerson" :page="page" :path="route.path" />
+
           <WikiLocalMap :path="route.path" />
         </template>
 
@@ -260,7 +264,14 @@ const articleClass = computed(() => hasRail.value
 
         <Separator class="my-8" />
 
-        <WikiLinkedEntries :path="route.path" />
+        <!-- A person's links are sorted into their videos and their
+             connections, which together cover everything the generic
+             link lists would. -->
+        <div v-if="isPerson" class="flex flex-col gap-10">
+          <WikiPersonVideos :path="route.path" :name="page.title" />
+          <WikiPersonConnections :path="route.path" :name="page.title" />
+        </div>
+        <WikiLinkedEntries v-else :path="route.path" />
       </article>
 
       <!-- The aside itself is the sticky element: in the rail's flex row it can

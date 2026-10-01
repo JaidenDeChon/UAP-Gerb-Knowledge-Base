@@ -16,9 +16,9 @@ Paths are relative to the repo root, e.g.
 "UAP Gerb Knowledge Base/People/AJ Hartley.md".
 
 The article sweep (`--articles`) covers what a reader sees on a rich video
-article: first the app source files that hold the page's UI text (buttons,
-tooltips, labels, empty states), then every article listed in
-.rich_videos.json. An item counts as done in this sweep only when it was
+article or an enriched People page: first the app source files that hold the
+page's UI text (buttons, tooltips, labels, empty states), then every article
+listed in .rich_videos.json, then every person listed in .rich_people.json. An item counts as done in this sweep only when it was
 recorded with the cold-reader rule (see page-humanizer.md), so articles that
 were humanized before that rule existed come back once.
 
@@ -59,9 +59,13 @@ PROSE_KEYS = {"summary", "significance", "note", "help", "hint", "caption", "tex
 # Extra prose keys that only hold prose inside one component: a stat strip's
 # `label` is the caption under the number, a chain's or claim block's `label`
 # is its heading (or a branch's name), and a claim's `term` is its card tag.
-# A map's `label` stays locked: routes match pins by it.
+# A map's `label` stays locked: routes match pins by it. An affiliations
+# block's `label` is its heading and `role` describes a job; a record's `label`
+# is its heading (an item's `title` stays locked: it may be a real title).
 COMPONENT_PROSE_KEYS = {"wiki-stat-strip": {"label"}, "wiki-chain": {"label"},
-                        "wiki-claim": {"label", "term"}}
+                        "wiki-claim": {"label", "term"},
+                        "wiki-affiliations": {"label", "role"},
+                        "wiki-record": {"label"}}
 PROSE_KEY_RE = re.compile(r"^(\s*-?\s*)([\w-]+):(.*)$")
 
 # App source files that put text on a rich article page, in sweep order: the
@@ -80,6 +84,10 @@ ARTICLE_UI = [
     "components/wiki/WikiFactTable.vue",
     "components/wiki/WikiPersonPortrait.vue",
     "components/wiki/WikiLocalMap.vue",
+    "components/wiki/WikiPersonGlance.vue",
+    "utils/person.ts",
+    "components/wiki/WikiPersonVideos.vue",
+    "components/wiki/WikiPersonConnections.vue",
     "components/content/WikiInfo.vue",
     "components/content/WikiTimeline.vue",
     "components/wiki/TimelineChronometer.vue",
@@ -97,6 +105,10 @@ ARTICLE_UI = [
     "components/content/WikiOrgChart.vue",
     "components/wiki/OrgChartNode.vue",
     "components/content/WikiRoster.vue",
+    "components/content/WikiAffiliations.vue",
+    "utils/affiliations.ts",
+    "components/content/WikiRecord.vue",
+    "utils/record.ts",
     "components/wiki/DiagramFrame.vue",
     "components/wiki/DiagramToolbar.vue",
     "components/wiki/DiagramDialog.vue",
@@ -107,6 +119,7 @@ ARTICLE_UI = [
     "components/app/AppThemeSwitcher.vue",
 ]
 RICH_LEDGER = VAULT / ".rich_videos.json"
+RICH_PEOPLE = VAULT / ".rich_people.json"
 DIRECTIVE_TEXT_RE = re.compile(r'((?<![\w-])(?:title|caption)=)"([^"]*)"')
 CAPTION_ATTR_RE = re.compile(r'((?<![\w-])caption=)"([^"]*)"')
 
@@ -177,6 +190,12 @@ def article_items() -> list[Path]:
             by_id[m.group(1)] = summary
     order = sorted(rich, key=lambda vid: rich[vid].get("published", ""), reverse=True)
     items += [by_id[vid] for vid in order if vid in by_id]
+    # Then the enriched People pages (see person-enricher.md), newest first.
+    people = json.loads(RICH_PEOPLE.read_text(encoding="utf-8")) if RICH_PEOPLE.exists() else {}
+    for name in sorted(people, key=lambda n: people[n].get("enriched_at", ""), reverse=True):
+        page = VAULT / "People" / f"{name}.md"
+        if page.is_file():
+            items.append(page)
     return items
 
 
@@ -432,7 +451,7 @@ def cmd_check(page: Path) -> int:
         added = [l for l in new_locked if l not in old_locked]
         detail = "".join(f"\n    - {l}" for l in lost[:10]) + "".join(f"\n    + {l}" for l in added[:10])
         errors.append("headings, code, component directives or component YAML changed "
-                      "(only the values of " + "/".join(sorted(PROSE_KEYS)) + ", plus labels in stat strips, chains and claim blocks and a claim's term, may change):" + (detail or " order differs"))
+                      "(only the values of " + "/".join(sorted(PROSE_KEYS)) + ", plus labels in stat strips, chains, claim, affiliations and record blocks, a claim's term and an affiliation's role, may change):" + (detail or " order differs"))
 
     before, after = facts(old_prose), facts(new_prose)
     for kind in ("wikilinks", "links", "numbers", "quotes"):

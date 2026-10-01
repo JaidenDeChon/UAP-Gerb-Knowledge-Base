@@ -32,6 +32,12 @@ function parseTimestamp(value: string | undefined): number {
   return Date.parse(/[zZ]|[+-]\d\d:?\d\d$/.test(value) ? value : `${value}Z`)
 }
 
+/** A `date:` value as `YYYY-MM-DD`, or null for `NA` and anything unparseable. */
+export function publishDate(value: string | undefined): string | null {
+  const match = value ? /^(\d{4})-(\d{2})-(\d{2})$/.exec(value.trim()) : null
+  return match ? match[0] : null
+}
+
 /**
  * Every video summary in the vault, most recently processed first.
  *
@@ -68,6 +74,7 @@ export function buildVideos(): BakedVideo[] {
       id,
       at: Number.isFinite(processed) ? new Date(processed).toISOString() : null,
       dur: Number.isFinite(seconds) && seconds > 0 ? seconds : null,
+      pub: publishDate(frontmatterValue(raw, 'date')),
     })
   }
 
