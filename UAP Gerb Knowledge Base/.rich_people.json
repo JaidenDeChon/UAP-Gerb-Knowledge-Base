@@ -239,5 +239,65 @@
     ],
     "dates": "none",
     "corrections": 2
+  },
+  "Thomas Wilson": {
+    "enriched_at": "2026-10-01T20:25:00Z",
+    "videos": 12,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 6
+  },
+  "Sean Kirkpatrick": {
+    "enriched_at": "2026-10-01T20:25:00Z",
+    "videos": 17,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "partial",
+    "corrections": 4
+  },
+  "Robert Sarbacher": {
+    "enriched_at": "2026-10-01T20:25:00Z",
+    "videos": 11,
+    "components": [
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 4
+  },
+  "Mark McCandlish": {
+    "enriched_at": "2026-10-01T20:25:00Z",
+    "videos": 13,
+    "components": [
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 7
+  },
+  "Eric A. Walker": {
+    "enriched_at": "2026-10-01T20:25:00Z",
+    "videos": 14,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 7
   }
 }
