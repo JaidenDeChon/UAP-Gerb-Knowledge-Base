@@ -6149,6 +6149,11 @@
     "sha256": "7e13cbde8a46872050139e1a45caa4e72176a020560b092f7c3fce13d32704d7",
     "cold_reader": true
   },
+  "app/app/components/wiki/WikiPersonConnections.vue": {
+    "humanized_at": "2026-10-01T18:23:06Z",
+    "sha256": "963f242511949474db9e253437e3763a4312351904a68f9c7622fe4b6ce9e401",
+    "cold_reader": true
+  },
   "app/app/components/wiki/WikiPersonGlance.vue": {
     "humanized_at": "2026-10-01T18:22:14Z",
     "sha256": "28a161cfd8e222b1d62a488f36e354be2bb02eac2135c88452a0782aad912863",

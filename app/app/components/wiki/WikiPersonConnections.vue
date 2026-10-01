@@ -38,9 +38,9 @@ const shown = computed(() => (showAll.value ? filtered.value : filtered.value.sl
 const maxShared = computed(() => Math.max(1, ...connections.value.map(c => c.shared)))
 
 function together(c: PersonConnection): string {
-  if (c.shared === 0) return 'Linked between the two pages, not through a video'
-  if (videoCount.value === 1) return 'In the same video'
-  return `In ${c.shared} of the same ${c.shared === 1 ? 'video' : 'videos'}`
+  if (c.shared === 0) return 'Page link only, in none of their videos'
+  if (videoCount.value === 1) return 'Appears with them in their only video'
+  return `Appears with them in ${c.shared} ${c.shared === 1 ? 'video' : 'videos'}`
 }
 </script>
 
@@ -52,7 +52,7 @@ function together(c: PersonConnection): string {
     <p class="mb-4 font-sans text-[14px] leading-6 text-muted-foreground">
       {{ connections.length }} {{ connections.length === 1 ? 'entry links' : 'entries link' }} to or from this page.
       <template v-if="videoCount > 1">
-        The ones that come up in the most of the same videos are listed first.
+        Entries that share the most videos with this person are listed first.
       </template>
     </p>
 
