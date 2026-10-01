@@ -609,5 +609,49 @@
     "components": [],
     "dates": "partial",
     "corrections": 3
+  },
+  "Donald M. Kerr": {
+    "enriched_at": "2026-10-01T20:46:28Z",
+    "videos": 6,
+    "components": [
+      "wiki-affiliations"
+    ],
+    "dates": "verified",
+    "corrections": 0
+  },
+  "Joey Is Not My Name": {
+    "enriched_at": "2026-10-01T20:46:28Z",
+    "videos": 2,
+    "components": [],
+    "dates": "none",
+    "corrections": 2
+  },
+  "Tim Cooper": {
+    "enriched_at": "2026-10-01T20:46:28Z",
+    "videos": 5,
+    "components": [
+      "wiki-timeline"
+    ],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "Randall G. Walden": {
+    "enriched_at": "2026-10-01T20:46:28Z",
+    "videos": 2,
+    "components": [
+      "wiki-affiliations"
+    ],
+    "dates": "partial",
+    "corrections": 2
+  },
+  "Karl Nell": {
+    "enriched_at": "2026-10-01T20:46:28Z",
+    "videos": 6,
+    "components": [
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "partial",
+    "corrections": 3
   }
 }

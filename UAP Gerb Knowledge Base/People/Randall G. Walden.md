@@ -1,19 +1,55 @@
 ---
 name: "Randall G. Walden"
-role: "Director and Program Executive Officer (PEO) of the Rapid Capabilities Office (RCO), Senior Executive Service"
+role: "Former Director and Program Executive Officer (PEO) of the Department of the Air Force Rapid Capabilities Office (RCO); Aerospace Corporation trustee"
+active_from: 1982
+active_to: 2023
 tags:
   - person
 ---
 
-Randall G. Walden is a member of the Senior Executive Service and the Director and Program Executive Officer (PEO) of the Department of the Air Force [[Rapid Capabilities Office (RCO)]]. In this role he oversees the RCO's work of speeding up the development, acquisition, and fielding of critical Air Force capabilities. It does this through streamlined acquisition processes that can bypass standard congressional and service-branch oversight. The RCO reports to a board chaired by the [[Under Secretary of Defense for Acquisition and Sustainment (USD A&S)]], which gives it a uniquely short chain of command compared with most acquisition programs.
+Randall G. Walden is a retired US Air Force officer and Senior Executive Service civilian who was Director and Program Executive Officer (PEO) of the Department of the Air Force [[Rapid Capabilities Office (RCO)]] from 2014 to 2022, where he oversaw programs including the B-21 Raider. The RCO speeds up the development, acquisition and fielding of critical Air Force capabilities through streamlined acquisition processes that, Gerb argues, can bypass standard congressional and service-branch oversight. It reports to a board chaired by the [[Under Secretary of Defense for Acquisition and Sustainment (USD A&S)]], which gives it an unusually short chain of command. Since June 2023 Walden has been a trustee of the [[Aerospace Corporation]]. Gerb counts him among five "hostile witnesses" he wants the administration to question about alleged UFO legacy programs.
+
+## Career
+
+Walden graduated from Christopher Newport College in Virginia in 1982 and was commissioned in the [[US Air Force]] the same year. He served as a flight test engineer at [[Edwards Air Force Base]], Naval Air Station Patuxent River and [[Nellis Air Force Base]], and from 1997 to 1998 commanded a classified flight test squadron at Nellis. He retired from active duty in 2002 and moved into the civilian Senior Executive Service, holding posts in the Air Force Directorate of Special Programs ([[SAFAQL (Special Programs)|SAF/AQL]]), where he was technical director, and serving as director of [[Air Force Test and Evaluation (AF-TE)]]. He took over the RCO in 2014. In July 2022 he left it to become a senior executive adviser to [[William LaPlante]] in the Office of the Under Secretary of Defense for Acquisition and Sustainment, and he retired from the Senior Executive Service that year. On 7 June 2023 he was elected to the Aerospace Corporation's board of trustees.
+
+::wiki-affiliations
+---
+label: "Where he worked, and when"
+caption: "Dates come from Walden's Air Force and Aerospace Corporation biographies and from Air & Space Forces Magazine's July 2022 report of his move from the RCO. His years at SAF/AQL and AF/TE are not dated in those sources, so they are left out."
+rows:
+  - name: "US Air Force"
+    role: "Officer and flight test engineer"
+    from: 1982
+    to: 2002
+    note: "Flight test at Edwards, Patuxent River and Nellis. He retired from active duty in 2002."
+  - name: "Nellis Air Force Base"
+    role: "Commander of a classified flight test squadron"
+    from: 1997
+    to: 1998
+  - name: "Rapid Capabilities Office (RCO)"
+    role: "Director and Program Executive Officer"
+    from: 2014
+    to: "2022-07"
+    note: "Its portfolio included the B-21 Raider and the X-37B."
+  - name: "Under Secretary of Defense for Acquisition and Sustainment (USD A&S)"
+    role: "Senior executive adviser to William LaPlante"
+    from: "2022-07"
+    to: 2022
+    note: "He retired from the Senior Executive Service in 2022."
+  - name: "Aerospace Corporation"
+    role: "Trustee"
+    from: "2023-06-07"
+---
+::
 
 ## Role in UAP Programs
 
 In "The Hidden Wing", Gerb identifies Walden as one of the most important current Air Force officials to question about alleged UFO legacy program operations, because of the [[Rapid Capabilities Office (RCO)|RCO]]'s theorized role as the arm that carries out legacy program acquisition. Gerb specifically calls on the current presidential administration to question Walden directly. He argues that the RCO's narrow oversight chain, its ability to keep the number of read-in personnel small, and its access to carve-out contracting mechanisms make it a plausible vehicle for managing [[Waived Unacknowledged Special Access Programs (USAPs)]] related to non-human technology exploitation.
 
-## Career and the 2018 Mitchell Institute speech
+## The Hidden Wing and the 2018 Mitchell Institute speech
 
-*The Hidden Wing* sets out Walden's career. He was commissioned in 1982 and served as a flight test engineer in Air Force Materiel Command at [[Edwards Air Force Base]], Naval Air Station Patuxent River and [[Nellis Air Force Base]]. From 1997 to 1998 he commanded a classified flight test squadron at Nellis. He then held posts in the Air Force Directorate of Special Programs, including deputy chief of the advanced technology division, chief of the special studies division and technical director, and was director of [[Air Force Test and Evaluation (AF-TE)]] before taking over the RCO. Gerb treats Edwards, Nellis, Pax River and AFMC as red flags for legacy-program experience.
+*The Hidden Wing* reads Walden's career closely. It quotes his official biography on his flight test work in Air Force Materiel Command and lists his posts in the Air Force Directorate of Special Programs: deputy chief of the advanced technology division, chief of the special studies division and technical director. Gerb treats Edwards, Nellis, Pax River and AFMC as red flags for legacy-program experience. The video, published in January 2026, describes Walden as the RCO's current director; he had left the post in 2022, and Gerb's later Northrop Grumman video calls him its former director.
 
 The video plays parts of a rare 2018 speech Walden gave at the Mitchell Institute for Aerospace Studies. In it he said the RCO borrows about ten of Kelly Johnson's 15 [[Lockheed Martin Skunk Works|Skunk Works]] rules and the streamlined practices of the early NRO, runs with only 200 to 250 people, and leans heavily on the [[Air Force Office of Special Investigations]] to secure its programs. According to the video, he also said the RCO manages more than 30 programs as secret as, or more secret than, the B-21 and X-37B. Gerb lists Walden among five "hostile witnesses" he urges the administration to question.
 
