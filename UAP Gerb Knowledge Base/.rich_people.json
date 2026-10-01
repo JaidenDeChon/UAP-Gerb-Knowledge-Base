@@ -74,5 +74,54 @@
     ],
     "dates": "partial",
     "corrections": 3
+  },
+  "Steven Greer": {
+    "enriched_at": "2026-10-01T20:20:00Z",
+    "videos": 26,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 3
+  },
+  "Vannevar Bush": {
+    "enriched_at": "2026-10-01T20:20:00Z",
+    "videos": 15,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 4
+  },
+  "Bob Echler": {
+    "enriched_at": "2026-10-01T20:20:00Z",
+    "videos": 10,
+    "components": [
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 2
+  },
+  "Robert Jacobs": {
+    "enriched_at": "2026-10-01T20:20:00Z",
+    "videos": 8,
+    "components": [
+      "wiki-claim"
+    ],
+    "dates": "partial",
+    "corrections": 4
+  },
+  "Gary Nolan": {
+    "enriched_at": "2026-10-01T20:20:00Z",
+    "videos": 5,
+    "components": [],
+    "dates": "none",
+    "corrections": 2
   }
 }
