@@ -76,7 +76,7 @@ Wood traces the leaks through a handful of recipients, the largest cache going t
 
 Wood strongly disputes [[John B. Alexander|Colonel John B. Alexander]]'s claim that [[Special Operations Manual (SOM 1-01)|SOM 1-01]] was created in 1954 as Soviet disinformation. He argues that exposing detailed crash retrieval infrastructure, facility locations, entity descriptions, and protocols merely to deceive the Soviets makes no sense as psychological warfare. If SOM 1-01 were disinformation aimed at the Soviets, he argues, it would not be part of a 19-year leak campaign of 3,500 pages from seven different sources using multiple delivery methods. He notes that the Soviets had their own crashes and had penetrated the Manhattan Project within a year, so they would certainly have intelligence on U.S. UAP activities.
 
-Wood states: "I don't have any information that any document that's listed on the website is fake. I have no credible evidence that it's genuinely faked." He says he has found "no credible objections" that withstand forensic scrutiny. He maintains that some documents remain in his "neutral basket" until there is further evidence, but he believes the core documents show overwhelming signs of authenticity.
+Wood states: "I don't have any information that any document that's listed on the website is fake. I have no credible evidence that it's genuinely faked." He says he has found "no credible objections" that withstand forensic scrutiny. Some documents stay in his "neutral basket" until there is further evidence, but he believes the core documents show overwhelming signs of authenticity.
 
 ::wiki-claim{video="vzB87RJkQVU" video-title="The Majestic-12 Documents [With Ryan S. Wood]"}
 ---
@@ -112,7 +112,7 @@ claims:
 
 ## UFO DX Research Tool
 
-Wood created UFO DX (UFO-dx.com), a ChatGPT tool trained on 500-800 UFO books, so that researchers can query the accumulated knowledge of ufology. Users can ask natural language questions on any topic in ufology, and the tool bases its answers on Wood's curated library of research materials. Gerb says he has used it dozens of times in his own research.
+Wood created UFO DX (UFO-dx.com), a ChatGPT tool trained on 500-800 UFO books. Researchers can ask it questions in plain language on any topic in ufology, and it bases its answers on Wood's curated library of research materials. Gerb says he has used it dozens of times in his own research.
 
 ## Coyame Case Assessment
 
