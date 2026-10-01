@@ -567,5 +567,47 @@
     ],
     "dates": "verified",
     "corrections": 2
+  },
+  "John Podesta": {
+    "enriched_at": "2026-10-01T20:43:11Z",
+    "videos": 6,
+    "components": [
+      "wiki-affiliations",
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 3
+  },
+  "Sumar Shapiro": {
+    "enriched_at": "2026-10-01T20:43:11Z",
+    "videos": 7,
+    "components": [],
+    "dates": "verified",
+    "corrections": 1
+  },
+  "Steve Wilson": {
+    "enriched_at": "2026-10-01T20:43:11Z",
+    "videos": 3,
+    "components": [
+      "wiki-claim",
+      "wiki-record"
+    ],
+    "dates": "partial",
+    "corrections": 5
+  },
+  "Bob Fish": {
+    "enriched_at": "2026-10-01T20:43:11Z",
+    "videos": 2,
+    "components": [],
+    "dates": "partial",
+    "corrections": 4
+  },
+  "Bill McDonald": {
+    "enriched_at": "2026-10-01T20:43:11Z",
+    "videos": 4,
+    "components": [],
+    "dates": "partial",
+    "corrections": 3
   }
 }
