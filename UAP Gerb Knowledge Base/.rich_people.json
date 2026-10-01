@@ -986,5 +986,50 @@
     "components": [],
     "dates": "none",
     "corrections": 2
+  },
+  "J. Allen Hynek": {
+    "enriched_at": "2026-10-01T21:03:46Z",
+    "videos": 9,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 2
+  },
+  "Cyrus Vance": {
+    "enriched_at": "2026-10-01T21:03:46Z",
+    "videos": 2,
+    "components": [
+      "wiki-affiliations"
+    ],
+    "dates": "verified",
+    "corrections": 3
+  },
+  "Arthur Bray": {
+    "enriched_at": "2026-10-01T21:03:46Z",
+    "videos": 4,
+    "components": [],
+    "dates": "none",
+    "corrections": 2
+  },
+  "Bill Bully Bush": {
+    "enriched_at": "2026-10-01T21:03:46Z",
+    "videos": 1,
+    "components": [],
+    "dates": "none",
+    "corrections": 5
+  },
+  "Alfred O'Donnell": {
+    "enriched_at": "2026-10-01T21:03:46Z",
+    "videos": 2,
+    "components": [
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 1
   }
 }
