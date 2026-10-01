@@ -8,7 +8,7 @@ tags:
   - person
 ---
 
-**Silas M. Newton** (died 1972) was a Denver-based oil entrepreneur and geophysicist whose disclosure of the [[Aztec UFO Crash and Recovery|1948 Aztec crash]] made him one of the most controversial figures in UFO history. Newton was the primary source for [[Frank Scully]]'s 1950 bestseller *Behind the Flying Saucers*, which first brought the Aztec case to public attention.
+Silas M. Newton (died 1972) was a Denver-based oil entrepreneur and geophysicist whose account of the [[Aztec UFO Crash and Recovery|1948 Aztec crash]] made him one of the most controversial figures in UFO history. Newton was the primary source for [[Frank Scully]]'s 1950 bestseller *Behind the Flying Saucers*, which first brought the Aztec case to public attention.
 
 ## Career
 
@@ -227,11 +227,11 @@ Researchers including [[William Steinman]] and Scott and Suzanne Ramsey argue th
 
 ## Never-Finished Autobiography
 
-A 1954 manuscript found in Scully's archive gives Newton's own view of the case. He described his University of Denver lecture as the focal point of persecution, writing:
+A 1954 manuscript found in Scully's archive gives Newton's own view of the case. He saw his University of Denver lecture as the point where the persecution began, writing:
 
 > "As to my talk, it wasn't long before the finger of prosecution began pointing my way, and they've scorched my hide already, but I haven't recanted."
 
-Newton maintained that he had not originated the Aztec story and had only repeated what credible scientists told him. He also expressed admiration for [[Wilbert B. Smith]]'s work on flying saucer magnetic propulsion.
+Newton maintained that he had not originated the Aztec story and had only repeated what credible scientists told him. He also praised [[Wilbert B. Smith]]'s work on flying saucer magnetic propulsion.
 
 
 ## The Pflock Diary Claim

@@ -122,13 +122,13 @@ entries:
 ---
 ::
 
-Trudeau was influential enough to be one of only eight former generals included in the Army's 1970s oral history project. When Corso was interviewed for the project, he was with his friend Trudeau in his kitchen. The two had a close personal and professional relationship that extended beyond their service.
+Trudeau was influential enough to be one of only eight former generals included in the Army's 1970s oral history project. When Corso was interviewed for it, he was in Trudeau's kitchen with his friend. The two were close friends as well as colleagues, and their bond went beyond their service.
 
 ## Golden Age of Army R&D (1958-1963)
 
 In 1958, Trudeau established the [[Office of the Chief of Army R&D]], which brought all Army research and development under a single department for the first time. This ended what [[Philip J. Corso]] called the "dark ages" of Army R&D (1947-1958) and began the "[[Golden Age of Army R&D]]", which lasted from 1958 to 1963.
 
-During this period, Trudeau oversaw all personnel, technical services, laboratories, installations and budget for Army R&D. The unified department was created around the same time as several other changes: [[NASA]] was founded (which killed the Army's [[Project Horizon]] moon base initiative), [[DARPA|ARPA (Advanced Research Projects Agency)]] was established, and atomic energy was transferred from the Army to the [[Atomic Energy Commission]]. Trudeau faced opposition from the CIA, the Department of State and other agencies hostile to Army R&D, and that opposition contributed to the hyper-secrecy surrounding "out-of-this-world" R&D data.
+During this period, Trudeau oversaw all personnel, technical services, laboratories, installations and budget for Army R&D. Several other changes came at about the same time as the unified department: [[NASA]] was founded (which killed the Army's [[Project Horizon]] moon base initiative), [[DARPA|ARPA (Advanced Research Projects Agency)]] was established, and atomic energy was transferred from the Army to the [[Atomic Energy Commission]]. Trudeau faced opposition from the CIA, the Department of State and other agencies hostile to Army R&D, and that opposition contributed to the hyper-secrecy surrounding "out-of-this-world" R&D data.
 
 Trudeau brought large industry, selected laboratories and leading universities into Army R&D work. According to Corso, Trudeau contacted the top 25 industries on the Fortune 500 list and arranged meetings with their boards of directors. He strengthened ties with Army R&D laboratories and set out to recruit the best scientists, including foreign scientists brought in through Operation Paperclip. Together, the contractors, [[Federally Funded Research and Development Center (FFRDC)|Federally Funded Research and Development Centers (FFRDCs)]], [[University Affiliated Research Centers (UARCs)]], universities and Army laboratories formed a powerful team tasked with exploiting technologies of unknown origin.
 
@@ -162,7 +162,7 @@ Davis asked Bush whether Corso could have been mistaken about the material he wa
 
 ## Promise and Oath of Secrecy
 
-Trudeau made Corso promise not to discuss their work on UAP technology exploitation until after Trudeau's death. Corso kept this oath of secrecy for approximately 35 years and did not share the information even with his own family. Trudeau died in 1991. Corso began writing his account only after the general's death ("he died three years ago and I started to write it", he said in an interview), keeping his promise to his mentor and friend.
+Trudeau made Corso promise not to discuss their work on UAP technology exploitation until after Trudeau's death. Corso kept this oath of secrecy for approximately 35 years and did not share the information even with his own family. Trudeau, his mentor and friend, died in 1991, and Corso kept his promise by starting to write his account only after the general's death ("he died three years ago and I started to write it", he said in an interview).
 
 ## Sources
 

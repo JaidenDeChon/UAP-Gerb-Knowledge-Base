@@ -195,9 +195,9 @@ Fouché based his TR-3B testimony on information from five close friends within 
 
 ## Credibility Controversies
 
-Fouché's disclosures drew wide attention and controversy. [[Jeremy Rys]] (Alien Scientist), who met Fouché in 2009 and at first considered him a legitimate whistleblower, later accused him of fabricating the TR-3B testimony by combining stories about the Nazi Bell device with the [[Belgian UFO Wave]]. Rys also alleged Fouché used a stolen F-117A photograph and faked military documents. YouTuber [[David Hilton]] posted a 2013 video titled "Edgar Fouche Fake Documents" that made similar accusations. Both Rys and Hilton later removed or unlisted their critical videos.
+Fouché's disclosures were widely discussed and disputed. [[Jeremy Rys]] (Alien Scientist), who met Fouché in 2009 and at first considered him a legitimate whistleblower, later accused him of fabricating the TR-3B testimony by combining stories about the Nazi Bell device with the [[Belgian UFO Wave]]. Rys also alleged Fouché used a stolen F-117A photograph and faked military documents. YouTuber [[David Hilton]] posted a 2013 video titled "Edgar Fouche Fake Documents" that made similar accusations. Both Rys and Hilton later removed or unlisted their critical videos.
 
-Researcher [[Andrew Johnson]], who interviewed Fouché many times, spoke highly of him. Researcher [[Dan Benkert]], who co-authored work with [[Michael Schratt]], argued against the criticism. In a June 2012 Skype conversation, Hilton made concerning remarks to Dan Benkert: he claimed he worked for a monitoring agency and asserted control over Fouché.
+Researcher [[Andrew Johnson]], who interviewed Fouché many times, spoke highly of him. Researcher [[Dan Benkert]], who co-authored work with [[Michael Schratt]], argued against the criticism. In a June 2012 Skype conversation with Dan Benkert, Hilton made concerning remarks: he claimed he worked for a monitoring agency and said he controlled Fouché.
 
 ::wiki-claim{video="B7JP0uX0GwY" video-title="Alien Reproduction Vehicle - TR-3B and the Flying Triangles"}
 ---

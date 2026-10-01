@@ -10,7 +10,7 @@ tags:
   - person
 ---
 
-Ben Rich (1925–1995) was an American aerospace engineer and the second director of [[Lockheed Martin Skunk Works|Lockheed's Advanced Development Programs (Skunk Works)]], from 1975 to 1991, succeeding the legendary [[Kelly Johnson]]. He is known as the "father of stealth" for leading the F-117A Nighthawk program. Rich is among the most controversial figures in UAP research because of alleged statements suggesting that Lockheed had achieved interstellar travel and possessed knowledge of extraterrestrial technology.
+Ben Rich (1925–1995) was an American aerospace engineer and the second director of [[Lockheed Martin Skunk Works|Lockheed's Advanced Development Programs (Skunk Works)]], from 1975 to 1991, succeeding [[Kelly Johnson]]. He is known as the "father of stealth" for leading the F-117A Nighthawk program. Rich is among the most controversial figures in UAP research because of alleged statements suggesting that Lockheed had achieved interstellar travel and possessed knowledge of extraterrestrial technology.
 
 ## Career
 
@@ -135,9 +135,9 @@ Asked whether Kelly Johnson had been the senior project designer for the [[TR-3B
 
 ## Controversy and Skepticism
 
-Rich's alleged statements are controversial. [[Jan Harzan]], the former MUFON director who corroborated the UCLA lecture, was later charged with crimes involving a minor, which may undermine his credibility as a witness; Gerb says he has no interest in pursuing the Howe and Harzan accounts for that reason. Rich also made these statements, if they are authentic, at a public university lecture and not in a secure briefing. That raises questions about whether they were hyperbole, misdirection or genuine disclosure.
+[[Jan Harzan]], the former MUFON director who corroborated the UCLA lecture, was later charged with crimes involving a minor, which may undermine his credibility as a witness; Gerb says he has no interest in pursuing the Howe and Harzan accounts for that reason. If the statements are authentic, Rich made them at a public university lecture and not in a secure briefing, which leaves open whether they were hyperbole, misdirection or genuine disclosure.
 
-However, the accounts from multiple independent witnesses (Keller, Harzan, Goodall) are consistent, and as Skunk Works director Rich oversaw the most classified aerospace programs in US history. Together these lend weight to the possibility that he possessed direct knowledge of reverse-engineered non-human technology.
+On the other hand, the accounts from multiple independent witnesses (Keller, Harzan, Goodall) are consistent, and as Skunk Works director Rich oversaw the most classified aerospace programs in US history. Taken together, these make it more plausible that he had direct knowledge of reverse-engineered non-human technology.
 
 ## Sources
 
