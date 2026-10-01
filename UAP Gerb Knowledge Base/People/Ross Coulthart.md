@@ -7,7 +7,7 @@ tags:
   - person
 ---
 
-Ross Coulthart is an award-winning Australian investigative journalist and author known for his reporting on unidentified aerial phenomena and alleged government UAP programs. He is a former correspondent for Australia's *60 Minutes*, the author of *In Plain Sight: An Investigation into UFOs and Impossible Science* (2021), and since 2023 a special correspondent for the US cable network NewsNation, where he presents *Reality Check*. In June 2023 he interviewed [[David Grusch]] on NewsNation, and Gerb credits him with breaking the Grusch story. Across Gerb's videos he is most often the person to whom an insider first told his story.
+Ross Coulthart is an award-winning Australian investigative journalist and author known for his reporting on unidentified aerial phenomena and alleged government UAP programs. He is a former correspondent for Australia's *60 Minutes*, the author of *In Plain Sight: An Investigation into UFOs and Impossible Science* (2021), and since 2023 a special correspondent for the US cable network NewsNation, where he presents *Reality Check*. In June 2023 he interviewed [[David Grusch]] on NewsNation, and Gerb credits him with breaking the Grusch story. In Gerb's videos he most often appears as the journalist an insider first told his story to.
 
 ## Career
 
@@ -17,7 +17,7 @@ Coulthart spent three decades in Australian newspapers and television before tur
 
 ::wiki-record
 ---
-caption: "Coulthart's reporting as Gerb's videos draw on it. Dates come from the publishers and broadcasters: HarperCollins for the book, NewsNation for the interviews, and coverage of the Need to Know episode of July 2025. The year of the Kobitz account is Gerb's."
+caption: "Coulthart's reporting that Gerb's videos draw on. Dates come from the publishers and broadcasters: HarperCollins for the book, NewsNation for the interviews, and coverage of the Need to Know episode of July 2025. The year of the Kobitz account is Gerb's."
 items:
   - date: "2021-07"
     kind: book
@@ -110,7 +110,7 @@ Coulthart has interviewed many military and intelligence figures about UAP encou
 
 The deathbed account of [[Nat Kobitz]] is the part of his reporting Gerb uses most. Kobitz, the Navy's chief R&D scientist for over 30 years, told Coulthart in 2021 that he had been briefed into a program that had retrieved multiple non-human craft and had been shown an atomically bonded bulkhead deep underground at [[Wright-Patterson Air Force Base]]. Coulthart's statement on [[Jesse Michaels]]'s show that Kobitz told him the Aztec case was real is one of the reasons Gerb gave the [[Aztec UFO Crash and Recovery|1948 Aztec case]] a fresh look. In *In Plain Sight* Coulthart also relays Kobitz's inquiries at NAVAIR about [[Salvatore Pais]]'s patents, and a source's description of an aerospace company in [[Long Beach, California]] with access to "the wreckage", which Gerb identifies as the [[Aerospace Corporation]]. In a Reddit AMA Coulthart said the word to pay attention to is "psionic".
 
-Gerb names Coulthart among those who have confirmed the authenticity of the [[Wilson-Davis Memo]], alongside [[Chris Mellon]], [[Luis Elizondo]] and [[Richard Dolan]]. He also appears in Gerb's coverage of [[Sean Kirkpatrick]]: Gerb learned of the Inspector General's January 2024 finding on UAP policy through a Coulthart post, and relays Coulthart's reporting that Kirkpatrick, after leaving [[AARO]], was registered with a North Carolina LLC, Nonlinear Solutions, and with [[Oak Ridge National Laboratory]]. In the MITRE video Gerb says that, in his interview with Coulthart, Coulthart said he knew of similar restrictions on historical briefings at other institutions in the early 2010s, like the ones Gerb alleges at [[MITRE Corporation|MITRE]].
+Gerb names Coulthart among those who have confirmed the authenticity of the [[Wilson-Davis Memo]], alongside [[Chris Mellon]], [[Luis Elizondo]] and [[Richard Dolan]]. He also appears in Gerb's coverage of [[Sean Kirkpatrick]]: Gerb learned of the Inspector General's January 2024 finding on UAP policy through a Coulthart post, and relays Coulthart's reporting that Kirkpatrick, after leaving [[AARO]], was registered with a North Carolina LLC, Nonlinear Solutions, and with [[Oak Ridge National Laboratory]]. In the MITRE video Gerb says Coulthart told him in an interview that he knew of restrictions on historical briefings at other institutions in the early 2010s, similar to the ones Gerb alleges at [[MITRE Corporation|MITRE]].
 
 In early 2026, on his NewsNation show, Coulthart praised one of Gerb's videos for naming names and himself named [[Terry Phillips]], Northrop Grumman's vice president for security, as a key gatekeeper of the legacy program. Gerb, who had named Phillips first, says he had never spoken with Coulthart about it and was encouraged by the support.
 

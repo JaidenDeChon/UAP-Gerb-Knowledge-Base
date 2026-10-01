@@ -6,7 +6,7 @@ tags:
   - person
 ---
 
-**Nick Redfern** is an English-born author and UFO researcher, born in 1964 in Pelsall, near Walsall, who now lives in Texas. He has written many books on UFOs, alleged government cover-ups, cryptozoology and conspiracy topics. In Gerb's videos he appears twice: as one of the researchers who were anonymously mailed the [[Denb Report]] on the Coyame crash, and as the author who showed that [[Judy Wolcott]]'s Kingman story did not add up.
+Nick Redfern is an English-born author and UFO researcher, born in 1964 in Pelsall, near Walsall, who now lives in Texas. He has written many books on UFOs, alleged government cover-ups, cryptozoology and conspiracy topics. In Gerb's videos he appears twice: as one of the researchers who were anonymously mailed the [[Denb Report]] on the Coyame crash, and as the author who showed that [[Judy Wolcott]]'s Kingman story did not add up.
 
 ## Role in the Coyame Case
 

@@ -17,7 +17,7 @@ Brown worked in national security inside the Office of the Secretary of Defense,
 
 ::wiki-record
 ---
-caption: "Brown's statements as Gerb's videos draw on them. The 2025 date of his first Weaponized interview comes from the podcast and NewsNation's coverage; the others are Gerb's."
+caption: "Brown's statements that Gerb's videos draw on. The 2025 date of his first Weaponized interview comes from the podcast and NewsNation's coverage; the others are Gerb's."
 items:
   - date: "2024"
     kind: report

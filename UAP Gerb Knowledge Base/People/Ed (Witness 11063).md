@@ -26,7 +26,7 @@ Greer's witness list describes 11063 as a career Air Force officer at Nellis and
 - In 2008–2010, Greer writes, Ed was director of a redacted program and part of an Air Force plan to go public in 2008, which a two-star general killed in 2009–2010.
 - At the Pentagon (2010–2015) he worked within a research and development panel chain. Greer's notes record "$34 billion then $40 billion to non-Air Force authorization, non-blue TOA", which Gerb reads as transfers of authority into black programs. In his Dugway video Gerb places the two sums in fiscal years 2013 and 2014, "I think", and in *The Hidden Wing* he describes Ed's Pentagon post as connected to the Air Force acquisition office, [[SAFAQ|SAF/AQ]], where, Ed says, 30 to 40 percent of Air Force funding was pulled into the black budget before the financial management office could review it.
 
-Ed also told Greer that [[Wright-Patterson Air Force Base]] has close ties to Edwards, guessed that its [[Hangar 6]] is significant, and has threatened legal action against Lockheed and [[Boeing]].
+Ed also told Greer that [[Wright-Patterson Air Force Base]] has close ties to Edwards, and guessed that its [[Hangar 6]] is significant. He has threatened legal action against Lockheed and [[Boeing]].
 
 ## In UAP Gerb's research
 
