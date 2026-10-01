@@ -299,5 +299,61 @@
     ],
     "dates": "verified",
     "corrections": 7
+  },
+  "Edgar Fouche": {
+    "enriched_at": "2026-10-01T20:32:51Z",
+    "videos": 17,
+    "components": [
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 2
+  },
+  "Ben Rich": {
+    "enriched_at": "2026-10-01T20:32:51Z",
+    "videos": 4,
+    "components": [
+      "wiki-affiliations",
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 2
+  },
+  "Arthur Trudeau": {
+    "enriched_at": "2026-10-01T20:32:51Z",
+    "videos": 6,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 3
+  },
+  "Robert Willingham": {
+    "enriched_at": "2026-10-01T20:32:51Z",
+    "videos": 3,
+    "components": [
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 1
+  },
+  "Silas Newton": {
+    "enriched_at": "2026-10-01T20:32:51Z",
+    "videos": 1,
+    "components": [
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "partial",
+    "corrections": 2
   }
 }
