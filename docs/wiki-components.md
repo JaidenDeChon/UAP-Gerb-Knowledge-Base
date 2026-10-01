@@ -1849,21 +1849,23 @@ The two pilots are `People/David Grusch.md` (36 videos: every component) and
 
 ## Home page: Most referenced
 
-`app/app/components/home/HomeMostReferenced.vue`, under "Recently processed"
-on the home page. One button per kind (People, Organizations, Operations,
-Events, Locations, Concepts) switches between the six entries the rest of the
-wiki links to most. Each card has the roster card's look: a band across the
-top holding a person's portrait (cropped from the top and eased into the
-card with `ufo-fade`) or the kind's icon, a category badge and rank, the
-title, the first lines of the lead, and a meter of how many entries link in
-("Linked from 124 entries, 36 of them videos"). Every card has the same band,
-so the rows line up. Below a 36rem container it is a swipeable carousel, as
-"Recently processed" is.
+`app/app/components/home/HomeMostReferenced.vue` sits under "Recently
+processed" on the home page. It has one button per kind (People,
+Organizations, Operations, Events, Locations, Concepts), and each button shows
+the six entries of that kind that the rest of the wiki links to most. The
+cards look like the roster's. A band across the top holds a person's portrait
+(cropped from the top and eased into the card with `ufo-fade`) or the kind's
+icon. Below it are a category badge and rank, the title, the first lines of
+the lead, and a meter of how many entries link in ("Linked from 124 entries,
+36 of them videos"). Every card has the same band, so the rows line up. When
+the container is narrower than 36rem, the cards become a swipeable carousel,
+like "Recently processed".
 
-Served by `/api/top` (`?per=N`, default 6, at most 24) from the baked link
-graph: `buildTopEntries` in `server/utils/topEntries.ts` (unit-tested in
-`topEntries.test.ts`) ranks each kind by distinct entries linking in, then
-videos among them, then title. Videos and maps of content get no list.
+The data comes from `/api/top` (`?per=N`, default 6, at most 24), which reads
+the baked link graph. `buildTopEntries` in `server/utils/topEntries.ts`
+(unit-tested in `topEntries.test.ts`) ranks each kind by the number of
+distinct entries linking in, then by how many of those are videos, then by
+title. Videos and maps of content get no list.
 
 ---
 
