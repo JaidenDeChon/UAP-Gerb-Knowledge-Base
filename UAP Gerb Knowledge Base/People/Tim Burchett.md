@@ -47,7 +47,7 @@ rows:
 
 After Grusch's claims became public in June 2023, Burchett and Representative [[Anna Paulina Luna]], both Republicans on the House Oversight Committee, pushed for a hearing on them. It was held on 26 July 2023 by an Oversight subcommittee, with Grusch, [[David Fravor]] and [[Ryan Graves]] testifying. In August 2023 Burchett launched the UAP Caucus and led five colleagues, including Luna, [[Eric Burlison]] and [[Representative Moskowitz|Jared Moskowitz]], in a letter to the Inspector General of the Intelligence Community asking for follow-up on Grusch's testimony. Gerb names Burchett, Luna, Burlison and Moskowitz as members of Congress behind the caucus, and says its work brought the [[1978 Bolivia UFO Crash]], his favourite [[Project Moon Dust]] case, to his attention.
 
-A 2024 intelligence briefing module in [[Steven Greer]]'s archive describes a retired Air Force lieutenant colonel, known in the vault as [[Ed (Witness 11063)]], who managed pilots at Edwards Air Force Base and says he trained those who flew man-made UFOs. Greer had introduced him to the Senate intelligence and armed services committees, and he was eager to testify openly before the House Oversight Committee, though two key members, Luna and Burchett, had not yet replied.
+A 2024 intelligence briefing module in [[Steven Greer]]'s archive describes a retired Air Force lieutenant colonel, known in the vault as [[Ed (Witness 11063)]], who managed pilots at Edwards Air Force Base and says he trained those who flew man-made UFOs. Greer had introduced him to the Senate intelligence and armed services committees, and he was eager to testify openly before the House Oversight Committee, though two of its leading members, Luna and Burchett, had not yet replied.
 
 ## On the Record
 

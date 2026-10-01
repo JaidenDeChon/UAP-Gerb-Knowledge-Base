@@ -13,7 +13,7 @@ Steven Lovekin (1940–2009; his own records spell the name Stephen) was a U.S. 
 
 ## Service
 
-Lovekin was born in Cynwyd, Pennsylvania. He entered the Army in 1958 and joined the Pentagon's radio frequency engineering office. In 1959 he moved to the White House Army Signal Agency as a technical specialist, holding an above-top-secret clearance, and served into the Kennedy administration until his honorable discharge in June 1961. His work there involved codebreaking and secure communications. In an interview with author [[Grant Cameron]], he said he went to Camp David with Eisenhower and other staff several times. Though only a sergeant, he found the President made a point of knowing every staff member's name.
+Lovekin was born in Cynwyd, Pennsylvania. He entered the Army in 1958 and joined the Pentagon's radio frequency engineering office. In 1959 he moved to the White House Army Signal Agency as a technical specialist, holding an above-top-secret clearance, and served into the Kennedy administration until his honorable discharge in June 1961. His work there involved codebreaking and secure communications. In an interview with author [[Grant Cameron]], he said he went to Camp David with Eisenhower and other staff several times. Lovekin was only a sergeant, but he found that the President made a point of knowing every staff member's name.
 
 After the Army he took a degree at Catawba College in 1964 and a law degree from Wake Forest in 1967, and practised as a lawyer in Hickory, North Carolina, where he died in November 2009.
 
@@ -25,7 +25,7 @@ Several sources, including researcher Joe Murgia, place Lovekin at the briefing 
 
 ::wiki-timeline
 ---
-help: "Lovekin's life and the dated parts of his account, in date order. His claims about Blue Book, the Roswell wreckage and Eisenhower belong to his White House years, 1959 to 1961, and are told in the sections below. Click a year on the bar above the list to jump to the nearest entry there. To see only one type of entry, open the button that shows how many entries are listed."
+help: "Lovekin's life and the dated parts of his account, in date order. His claims about Blue Book, the Roswell wreckage and Eisenhower belong to his White House years, 1959 to 1961, and are told in the sections below. Click a year on the bar above the list to jump to the nearest entry there. To show only one type of entry, open the button with the entry count and pick a type."
 events:
   - date: "1940-08-01"
     title: "Born in Cynwyd, Pennsylvania"
@@ -90,7 +90,7 @@ Lovekin said an older officer with [[CIA]] and [[Defense Intelligence Agency]] t
 
 ## In Gerb's Later Videos
 
-Gerb returns three times to Lovekin's claim that a classified part of Blue Book held Roswell debris. In his Majestic-12 video he sets it beside the MJ-12 briefing document's statement that the public projects Sign, Grudge and Blue Book had "very limited interaction" with MJ-12. In his Kecksburg video it is one of the parallels he draws for the debris and hieroglyph-like markings reported there. In his video on the [[Off-World Technologies Division]], Lovekin's testimony is what comes to mind when he turns to attorney [[Daniel Sheehan]]'s account of searching the classified portions of Blue Book in 1977.
+Gerb returns three times to Lovekin's claim that a classified part of Blue Book held Roswell debris. In his Majestic-12 video he sets it beside the MJ-12 briefing document's statement that the public projects Sign, Grudge and Blue Book had "very limited interaction" with MJ-12. In his Kecksburg video it is one of the parallels he draws for the debris and hieroglyph-like markings reported there. In his video on the [[Off-World Technologies Division]], he is reminded of Lovekin's testimony when he turns to attorney [[Daniel Sheehan]]'s account of searching the classified portions of Blue Book in 1977.
 
 ## Sources
 

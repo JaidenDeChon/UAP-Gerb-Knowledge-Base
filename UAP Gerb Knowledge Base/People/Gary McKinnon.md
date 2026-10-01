@@ -14,7 +14,7 @@ Gary McKinnon (born 10 February 1966 in Glasgow) is a Scottish systems administr
 
 ::wiki-timeline
 ---
-help: "McKinnon's hack and the legal case that followed, in date order. Click a year on the bar above the list to jump to the nearest entry there. To see only one type of entry, open the button that shows how many entries are listed."
+help: "McKinnon's hack and the legal case that followed, in date order. Click a year on the bar above the list to jump to the nearest entry there. To show only one type of entry, open the button with the entry count and pick a type."
 events:
   - date: "1966-02-10"
     title: "Born in Glasgow"
