@@ -408,5 +408,55 @@
     ],
     "dates": "verified",
     "corrections": 4
+  },
+  "Robert Wood": {
+    "enriched_at": "2026-10-01T20:37:16Z",
+    "videos": 7,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "partial",
+    "corrections": 4
+  },
+  "Bill Hamilton": {
+    "enriched_at": "2026-10-01T20:37:16Z",
+    "videos": 3,
+    "components": [],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "Everett Heinman": {
+    "enriched_at": "2026-10-01T20:37:16Z",
+    "videos": 5,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline"
+    ],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "George C. Marshall": {
+    "enriched_at": "2026-10-01T20:37:16Z",
+    "videos": 2,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 3
+  },
+  "Dick Cheney": {
+    "enriched_at": "2026-10-01T20:37:16Z",
+    "videos": 9,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 4
   }
 }
