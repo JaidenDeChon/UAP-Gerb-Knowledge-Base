@@ -41,7 +41,7 @@ rows:
 
 ::wiki-timeline
 ---
-help: "Greer's life and his part in the stories Gerb covers, in date order. Click a year on the bar above the list to jump to the nearest entry there. To see only one type of entry, or only the major ones, open the button that shows how many entries are listed. Names in an entry link to the people, places and organizations involved."
+help: "Greer's life and his part in the stories Gerb covers, in date order. Click a year on the bar above the list to jump to the nearest entry there. To see only one type of entry, or only the major ones, click the button that shows how many entries are listed. Names in an entry link to the people, places and organizations involved."
 eras:
   - id: early
     label: "CSETI and the first briefings"
@@ -300,7 +300,7 @@ Greer played a major part in first bringing the testimony of [[Jonathan Weygandt
 
 ## Involvement with Michael Herrera
 
-Greer played a major part in putting [[Michael Herrera]] in contact with sources inside classified UAP programs. Herrera first met him in [[Boulder, Colorado|Boulder]] in 2017 and now volunteers as his security. In June 2023 Greer set up Herrera's Daily Mail interview with reporter Josh Boswell and his appearance at the National Press Club on 12 June, preceded by a two-day event. After Herrera presented his theory that the containers he saw held drugs, Greer pulled him aside in the green room and showed him an encrypted message from an insider in attendance: "I don't want to leave Michael hanging, but I know what Michael saw." The insider asked Greer to make the connection, and Greer later texted Herrera, at 2 a.m., the number of a man Herrera describes as a CIA [[Non-Official Cover (NOC)|non-official cover]] officer. Herrera himself says Greer has embellished details of his story: Greer has said guns were put to the Marines' heads, while Herrera says the operators held them from a distance.
+It was largely through Greer that [[Michael Herrera]] came into contact with sources inside classified UAP programs. Herrera first met him in [[Boulder, Colorado|Boulder]] in 2017 and now volunteers as his security. In June 2023 Greer set up Herrera's Daily Mail interview with reporter Josh Boswell and his appearance at the National Press Club on 12 June, preceded by a two-day event. After Herrera presented his theory that the containers he saw held drugs, Greer pulled him aside in the green room and showed him an encrypted message from an insider in attendance: "I don't want to leave Michael hanging, but I know what Michael saw." The insider asked Greer to make the connection, and Greer later texted Herrera, at 2 a.m., the number of a man Herrera describes as a CIA [[Non-Official Cover (NOC)|non-official cover]] officer. Herrera himself says Greer has embellished details of his story: Greer has said guns were put to the Marines' heads, while Herrera says the operators held them from a distance.
 
 ## Witness Files and Locations
 

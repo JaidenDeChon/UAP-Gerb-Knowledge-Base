@@ -3740,8 +3740,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Bob Echler.md": {
-    "humanized_at": "2026-09-25T19:06:15Z",
-    "sha256": "269a9ac130e3ae7b37b2fee08e4e402bbd58a1c4e10933c306dd6afb69d18b20",
+    "humanized_at": "2026-10-01T20:24:50Z",
+    "sha256": "2f296b7f2e97b3d4ef96a7d600639f0c8dfc766f0e7162dbe23efd7d11f17ba3",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Bob Fish.md": {
@@ -4275,8 +4275,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Gary Nolan.md": {
-    "humanized_at": "2026-09-25T19:12:25Z",
-    "sha256": "1ba110b1a9c08853f30da6b4327b2bf5f3e4b7e9d9c0296e0e961014c131b5de",
+    "humanized_at": "2026-10-01T20:24:50Z",
+    "sha256": "d45e414f816a1fa09c94e4e55b2753d2373843884beebe2640a7e0462d94543c",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/General Ramey.md": {
@@ -5335,8 +5335,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Robert Jacobs.md": {
-    "humanized_at": "2026-09-25T19:25:07Z",
-    "sha256": "be5015b308842715318921c18fcf65abdaf4d058228d91b621aa3ccc41172318",
+    "humanized_at": "2026-10-01T20:24:50Z",
+    "sha256": "689514efb2f944288bd611ed2656d9ae79865ac66b38a72c5000b9b48e559cff",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Robert M. Powell.md": {
@@ -5530,8 +5530,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Steven Greer.md": {
-    "humanized_at": "2026-09-25T19:27:35Z",
-    "sha256": "1aa14e8ecda3ab6698aaedf8cda6472afe2d04261fa8568ed9ec249d403ff28a",
+    "humanized_at": "2026-10-01T20:24:50Z",
+    "sha256": "93611844a16ac5b064815f5470ccba0344bb08551ecb53b55f5dc7ea43e3bd5f",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Steven Lovekin.md": {
@@ -5655,8 +5655,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Vannevar Bush.md": {
-    "humanized_at": "2026-09-25T19:29:57Z",
-    "sha256": "b2444917f2fdecfa37ec43d28572a0972755989bad1719a8ff8ea11593b8c3d4",
+    "humanized_at": "2026-10-01T20:24:50Z",
+    "sha256": "24a8a35a5ec5a1a6135758ed8cbaa890dea07b175f5a2bc1079d3ec215e1fa4d",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Victor Marchetti.md": {
@@ -6110,8 +6110,8 @@
     "cold_reader": true
   },
   "app/app/components/home/HomeMostReferenced.vue": {
-    "humanized_at": "2026-10-01T20:19:42Z",
-    "sha256": "58c4a8c4181abae4a366ec908823bd1ab4b187eccaf99d70f329dc445a7c9184",
+    "humanized_at": "2026-10-01T20:24:50Z",
+    "sha256": "837612a2e2db7b7d8594b8e9e2147e481c5c32db93f2ac13f13c33757ce7a897",
     "cold_reader": true
   },
   "app/app/components/wiki/ChainSequence.vue": {

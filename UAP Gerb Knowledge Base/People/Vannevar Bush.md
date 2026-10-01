@@ -10,7 +10,7 @@ tags:
   - person
 ---
 
-Dr. Vannevar Bush was one of the most powerful American science administrators of the twentieth century. He chaired the National Advisory Committee for Aeronautics (NACA, the predecessor to NASA) from 1939 to 1941, directed the Office of Scientific Research and Development (OSRD) through World War II, and after the war chaired the Joint Research and Development Board and then the [[Research and Development Board]]. Multiple independent sources in the UFO research community name Bush as the leader or a key member of a small classified US government group tasked with studying recovered UAP craft and non-human materials from the late 1940s into the early 1950s. Gerb goes further: in his reading, Bush built the secrecy, the laboratories and the contracting model on which UFO legacy programs still rest.
+Dr. Vannevar Bush was one of the most powerful American science administrators of the twentieth century. He chaired the National Advisory Committee for Aeronautics (NACA, the predecessor to NASA) from 1939 to 1941, directed the Office of Scientific Research and Development (OSRD) through World War II, and after the war chaired the Joint Research and Development Board and then the [[Research and Development Board]]. Multiple independent sources in the UFO research community name Bush as the leader or a leading member of a small classified US government group tasked with studying recovered UAP craft and non-human materials from the late 1940s into the early 1950s. Gerb goes further: in his reading, Bush built the secrecy, the laboratories and the contracting model on which UFO legacy programs still rest.
 
 ## Career
 
@@ -53,7 +53,7 @@ rows:
     role: "Director"
     from: 1947
     to: 1962
-    note: "AT&T took over the running of Sandia Laboratory in 1949, which Gerb points out."
+    note: "Gerb points out that AT&T took over the running of Sandia Laboratory in 1949."
 ---
 ::
 
@@ -61,7 +61,7 @@ rows:
 
 ::wiki-timeline
 ---
-help: "Bush's career and the claims made about him, in date order. Entries after 1948 are allegations or testimony about him, several made after his death. Click a year on the bar above the list to jump to the nearest entry there. To see only one type of entry, or only the major ones, open the button that shows how many entries are listed."
+help: "Bush's career and the claims made about him, in date order. Entries after 1948 are allegations or testimony about him, several made after his death. Click a year on the bar above the list to jump to the nearest entry there. To see only one type of entry, or only the major ones, click the button that shows how many entries are listed."
 eras:
   - id: war
     label: "Wartime science"
@@ -205,7 +205,7 @@ entries:
 
 ## Wartime Scientific Leadership
 
-Bush was the principal architect of the United States' wartime scientific mobilization. The OSRD, which he directed, coordinated the early Manhattan Project, developed radar and oversaw numerous classified weapons programs. His role gave him broad authority over the country's most sensitive scientific programs and direct access to Presidents Roosevelt and Truman.
+Bush was the chief organizer of the United States' wartime scientific mobilization. The OSRD, which he directed, coordinated the early Manhattan Project, developed radar and oversaw numerous classified weapons programs. His role gave him broad authority over the country's most sensitive scientific programs and direct access to Presidents Roosevelt and Truman.
 
 ## The Research and Development Board
 
@@ -225,7 +225,7 @@ Bush appears in multiple independent lines of UAP testimony and documentation:
 
 ## National Advisory Committee for Aeronautics (NACA)
 
-As chairman of NACA from 1939 to 1941, Bush was tied to the institution that became NASA in 1958. NACA's mandate was to advance aeronautics, which put it at the forefront of interest in any anomalous flight characteristics. Kissner's sources name NACA among the bodies that played a major role in the months after the 1947 crashes.
+As chairman of NACA from 1939 to 1941, Bush headed the institution that became NASA in 1958. NACA's mandate was to advance aeronautics, so any anomalous flight characteristics fell squarely within its interest. Kissner's sources name NACA among the bodies that played a major role in the months after the 1947 crashes.
 
 ## Assessment
 
@@ -235,7 +235,7 @@ Bush's place in UAP lore comes from the convergent testimony of independent insi
 
 Gerb's investigation into the [[Manhattan Project 2.0]] identifies Bush as the single most important figure in building the security architecture of early UFO legacy programs. As OSRD director and RDB chairman, Bush built US military-scientific infrastructure while also holding the nation's most sensitive nuclear secrets. He established the OSRD's system of self-censorship and publication control, an informal practice of treating nuclear physics data as inherently secret that the 1946 Atomic Energy Act later formalized as "restricted data". The investigation identifies this system as the direct precursor to the classification system that protects UFO legacy programs.
 
-Bush also invented the FFRDC/GOCO institutional model: government-owned, contractor-operated research labs that attract top scientific talent while the government keeps strict control over materials and deliverables. The investigation describes this model as a core architectural feature of the Manhattan Project 2.0, embodied in Atomic Energy Commission national labs such as [[Sandia National Laboratories]], [[Los Alamos National Laboratory]] and [[Oak Ridge National Laboratory]]. Compartmented military GOCO contracts for science and RDT&E exist today because of Bush's foundational work. Kissner's sources add that classified Truman executive orders of 1948 vested custody of recovered discs in those AEC laboratories, to be studied under Bush.
+Bush also invented the FFRDC/GOCO institutional model: government-owned, contractor-operated research labs that attract top scientific talent while the government keeps strict control over materials and deliverables. The investigation describes this model as a core architectural feature of the Manhattan Project 2.0, embodied in Atomic Energy Commission national labs such as [[Sandia National Laboratories]], [[Los Alamos National Laboratory]] and [[Oak Ridge National Laboratory]]. Compartmented military GOCO contracts for science and RDT&E exist today because of the groundwork Bush laid. Kissner's sources add that classified Truman executive orders of 1948 vested custody of recovered discs in those AEC laboratories, to be studied under Bush.
 
 Gerb identifies Bush's Research and Development Board (RDB, 1947–1953) as the probable scientific administration hub for crash retrieval and analysis in those years. It was then reorganized into the Assistant Secretary of Defense for Research and Development, the office that now exists as the Under Secretary of Defense for Research and Engineering.
 

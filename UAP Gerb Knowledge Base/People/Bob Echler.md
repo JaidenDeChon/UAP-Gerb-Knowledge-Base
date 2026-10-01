@@ -15,7 +15,7 @@ Bob Echler (more commonly spelled **Bob Oechsler**, and rendered "Eschler" in so
 
 Echler was born in 1949 and lived for some forty years in Edgewater, Maryland. According to his obituary he worked for NASA as a mission specialist, including on the docking collar for the Apollo-Soyuz mission, and became a well-known UFO investigator in the 1980s and 1990s. He died on 6 June 2020.
 
-His inquiry was facilitated by Admiral of the Fleet Lord Hill-Norton, a former Chief of the British Defence Staff and Chairman of NATO's Military Committee, who had relationships with senior figures in the US and UK intelligence communities. Hill-Norton's introduction gave Echler access to officials who would not otherwise have engaged with civilian UAP researchers. The British researcher Timothy Good, who was present at Echler's home for his first call to Inman's office, later published his account.
+Admiral of the Fleet Lord Hill-Norton, a former Chief of the British Defence Staff and Chairman of NATO's Military Committee, facilitated the inquiry. He had relationships with senior figures in the US and UK intelligence communities. Hill-Norton's introduction gave Echler access to officials who would not otherwise have engaged with civilian UAP researchers. The British researcher Timothy Good, who was present at Echler's home for his first call to Inman's office, later published his account.
 
 ## 1989 Phone Call with Bobby Ray Inman
 
@@ -27,7 +27,7 @@ A portion of the Inman–Echler call is available as recorded audio, and Gerb pl
 
 ## Meeting with Everett Heinman at CIA Langley
 
-Following Inman's referral, Echler met [[Everett Heinman]] at CIA headquarters in Langley, Virginia, on 10 August 1989. Heinman denied any knowledge of UFOs or UFO legacy programs at this meeting. In 2022, the researcher [[RGH UFOs]] contacted Heinman and cited Inman's claim that Heinman was the right person to ask. This time Heinman did not issue a flat denial. He said instead that he was "a long way and quite a few years from working in the area you are researching", offered to answer questions, and then stopped replying. Gerb's own attempts to reach him have gone unanswered.
+Following Inman's referral, Echler met [[Everett Heinman]] at CIA headquarters in Langley, Virginia, on 10 August 1989. Heinman denied any knowledge of UFOs or UFO legacy programs at this meeting. In 2022, the researcher [[RGH UFOs]] contacted Heinman and cited Inman's claim that Heinman was the right person to ask. This time, instead of a flat denial, Heinman said that he was "a long way and quite a few years from working in the area you are researching", offered to answer questions, and then stopped replying. Gerb's own attempts to reach him have gone unanswered.
 
 ## Meetings with Sumner Shapiro
 
