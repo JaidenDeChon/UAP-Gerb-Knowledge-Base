@@ -1251,5 +1251,48 @@
     "components": [],
     "dates": "verified",
     "corrections": 3
+  },
+  "Ross Coulthart": {
+    "enriched_at": "2026-10-01T22:07:27Z",
+    "videos": 14,
+    "components": [
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "partial",
+    "corrections": 2
+  },
+  "Nick Redfern": {
+    "enriched_at": "2026-10-01T22:07:27Z",
+    "videos": 2,
+    "components": [],
+    "dates": "verified",
+    "corrections": 3
+  },
+  "Ed (Witness 11063)": {
+    "enriched_at": "2026-10-01T22:07:27Z",
+    "videos": 1,
+    "components": [],
+    "dates": "none",
+    "corrections": 2
+  },
+  "Russell E. Wiler": {
+    "enriched_at": "2026-10-01T22:07:27Z",
+    "videos": 1,
+    "components": [
+      "wiki-affiliations"
+    ],
+    "dates": "partial",
+    "corrections": 2
+  },
+  "Matt Brown": {
+    "enriched_at": "2026-10-01T22:07:27Z",
+    "videos": 6,
+    "components": [
+      "wiki-record"
+    ],
+    "dates": "partial",
+    "corrections": 3
   }
 }
