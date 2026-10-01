@@ -51,7 +51,7 @@ const figures = computed<Figure[]>(() => {
     out.push({ label: 'Died', value: formatLifeDate(died), hint: age === null ? undefined : `Aged ${age}` })
   }
   const active = activeLabel(dates.value)
-  if (active) out.push({ label: 'Active', value: active })
+  if (active) out.push({ label: 'Years active', value: active })
   if (profile.value) {
     out.push({
       label: 'In Gerb\'s videos',
@@ -160,10 +160,10 @@ const show = computed(() => hasPersonDates(dates.value) || videoCount.value > 0)
       </div>
       <figcaption class="ufo-glance-caption">
         <template v-if="bar.life?.open">
-          The life bar fades out where no date of death is recorded.
+          The Life bar fades out because no date of death is recorded.
         </template>
         <template v-if="bar.coverage">
-          "Videos" marks the stretch of time in which Gerb's videos about {{ name }} came out.
+          The Videos bar runs from the first to the last of Gerb's videos about {{ name }}.
         </template>
       </figcaption>
     </figure>
