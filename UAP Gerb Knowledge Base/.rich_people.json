@@ -708,5 +708,53 @@
     ],
     "dates": "partial",
     "corrections": 5
+  },
+  "Kevin Knuth": {
+    "enriched_at": "2026-10-01T20:51:00Z",
+    "videos": 7,
+    "components": [
+      "wiki-affiliations",
+      "wiki-record"
+    ],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "Randy Anderson": {
+    "enriched_at": "2026-10-01T20:51:00Z",
+    "videos": 9,
+    "components": [
+      "wiki-record"
+    ],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "James T. Ryder": {
+    "enriched_at": "2026-10-01T20:51:00Z",
+    "videos": 5,
+    "components": [
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "partial",
+    "corrections": 5
+  },
+  "Leo GeBauer": {
+    "enriched_at": "2026-10-01T20:51:00Z",
+    "videos": 1,
+    "components": [],
+    "dates": "partial",
+    "corrections": 5
+  },
+  "Hal Puthoff": {
+    "enriched_at": "2026-10-01T20:51:00Z",
+    "videos": 12,
+    "components": [
+      "wiki-affiliations",
+      "wiki-record",
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 4
   }
 }
