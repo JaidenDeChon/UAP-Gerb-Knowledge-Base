@@ -6049,6 +6049,11 @@
     "sha256": "1d17fd61efe76f7f430039f6f97131bd8f0472db3812269757b3e48c7d04fc1a",
     "cold_reader": true
   },
+  "app/app/components/content/WikiAffiliations.vue": {
+    "humanized_at": "2026-10-01T18:23:17Z",
+    "sha256": "16a74c6114fd5e96a40bda8e4eae0ad6287770e17567a7bbba6635e701b4d6fd",
+    "cold_reader": true
+  },
   "app/app/components/content/WikiChain.vue": {
     "humanized_at": "2026-09-25T16:52:05Z",
     "sha256": "44bea88977db493a1240eae2f6490a5023eb3342a7eb1f3200439c4ed5314145",
