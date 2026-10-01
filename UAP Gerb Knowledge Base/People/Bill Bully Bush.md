@@ -17,7 +17,7 @@ In the clip he describes how it came down: "just like if it was radio controlled
 
 ## The Object
 
-Bush walked into the woods and found a metallic, acorn-shaped object embedded about a foot to a foot and a half into the ground. It bore the same strange writing that Romansky saw. He saw no welding and no windows on it, and on the back a ring carrying what looked to him like Egyptian writing. Blue light arced from it at intervals. In his words, it "stunk like rotten eggs", and it was sizzling, with sparks coming off "just like if it was cooling off"; it was red hot.
+Bush walked into the woods and found a metallic, acorn-shaped object embedded about a foot to a foot and a half into the ground. It bore the same strange writing that Romansky saw. Bush saw no welding or windows on it. On the back was a ring carrying what looked to him like Egyptian writing, and blue light arced from the object at intervals. It was red hot and sizzling, with sparks coming off "just like if it was cooling off", and in his words it "stunk like rotten eggs".
 
 Gerb compares the rotten-egg, sulphurous smell with the strong ammonia smell witnesses described in the [[Varginha, Brazil]] case.
 

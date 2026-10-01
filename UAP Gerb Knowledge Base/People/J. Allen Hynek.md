@@ -244,9 +244,9 @@ Tired, as he put it, of being a "puppet of the Air Force" who "only says what th
 
 ## NORAD UFO Tracking Revelation
 
-On January 6, 1967, Hynek took part in a discussion at [[Goddard Space Flight Center]] where he made a significant disclosure. He said that [[NORAD]] (North American Aerospace Defense Command) had been tracking UFOs since 1957, and that every continental United States military UFO case in the [[Project Blue Book]] files was designated as a NORAD case.
+On January 6, 1967, during a discussion at [[Goddard Space Flight Center]], Hynek said that [[NORAD]] (North American Aerospace Defense Command) had been tracking UFOs since 1957, and that every continental United States military UFO case in the [[Project Blue Book]] files was designated as a NORAD case.
 
-This confirmed that NORAD, the military command responsible for aerospace warning and control, was carrying out its own parallel tracking and analysis of unidentified objects in North American airspace, far more serious than Blue Book's. Project Blue Book, meanwhile, was publicly presenting UFO investigation as a largely dismissive scientific exercise. The implication was that the US military had continuous surveillance data on UFOs from its defense tracking systems, and that this data was never fully disclosed to Project Blue Book investigators or the public.
+This confirmed that NORAD, the military command responsible for aerospace warning and control, was running its own parallel tracking and analysis of unidentified objects in North American airspace, far more serious than Blue Book's. In public, Project Blue Book presented UFO investigation as a largely dismissive scientific exercise. The implication was that the US military had continuous surveillance data on UFOs from its defense tracking systems and never fully disclosed it to Project Blue Book investigators or the public.
 
 ## Disclosure of Parallel Classified Programs
 

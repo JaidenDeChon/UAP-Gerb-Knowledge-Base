@@ -9,7 +9,7 @@ tags:
   - person
 ---
 
-Alfred J. O'Donnell Jr. (1922–2015) was a senior manager at [[EG&G]], the defense contractor that provided timing, firing and high-speed photography for nuclear weapons tests and ran operations at the Nevada Test Site and [[Area 51]]. Associated at MIT with the three professors who founded EG&G, he moved to Las Vegas in 1952 to open the company's office and laboratory there in support of the Nevada Test Site, and retired after 26 years with the company. He specialized in recording the energy released by nuclear explosions. He is known in UFO research for two contradictory accounts of a recovered craft, one given to journalist [[George Knapp]] and one to author Annie Jacobsen.
+Alfred J. O'Donnell Jr. (1922–2015) was a senior manager at [[EG&G]], the defense contractor that provided timing, firing and high-speed photography for nuclear weapons tests and ran operations at the Nevada Test Site and [[Area 51]]. At MIT he was associated with the three professors who founded EG&G. In 1952 he moved to Las Vegas to open the company's office and laboratory there in support of the Nevada Test Site, and he retired after 26 years with the company. He specialized in recording the energy released by nuclear explosions. He is known in UFO research for two contradictory accounts of a recovered craft, one given to journalist [[George Knapp]] and one to author Annie Jacobsen.
 
 ## The Knapp Account
 
@@ -21,7 +21,7 @@ Near the end of his life O'Donnell was a source for Annie Jacobsen's *Area 51: A
 
 ## Interpretation in Gerb's Work
 
-Gerb sets the two stories side by side in his Sandia video, rejecting the Jacobsen version and treating the Knapp account as significant.
+Gerb sets the two stories side by side in his Sandia video. He rejects the Jacobsen version and treats the Knapp account as significant.
 
 ::wiki-claim{video="mHkPHd_eOXI" video-title="Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs"}
 ---
@@ -51,7 +51,7 @@ claims:
 ---
 ::
 
-The usual reading is that the disc moved in 1955 because Area 51 officially opened that year. Gerb notes that others argue Area 51 existed earlier, in the early 1950s, and that researcher [[Ryan S. Wood]] has proposed that boron mines near Area 51 served as a precursor legacy-program site. Gerb's own alternative is that the move followed the [[Atomic Energy Act of 1954]], which he believes gave rise to the classification and gatekeeping structures around UFO legacy programs and placed the material in Nevada Test Site installations most likely run by [[Sandia National Laboratories]]. He notes that Creech today operates extensively at the Sandia-managed [[Tonopah Test Range (TTR)|Tonopah Test Range]].
+The usual reading is that the disc moved in 1955 because Area 51 officially opened that year. Gerb notes that others argue Area 51 existed earlier, in the early 1950s, and that researcher [[Ryan S. Wood]] has proposed that boron mines near Area 51 were a precursor legacy-program site. Gerb's own alternative is that the move followed the [[Atomic Energy Act of 1954]], which he believes gave rise to the classification and gatekeeping structures around UFO legacy programs and placed the material in Nevada Test Site installations most likely run by [[Sandia National Laboratories]]. He notes that Creech today operates extensively at the Sandia-managed [[Tonopah Test Range (TTR)|Tonopah Test Range]].
 
 ## Sources
 
