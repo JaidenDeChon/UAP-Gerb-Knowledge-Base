@@ -46,7 +46,7 @@ const failed = ref(new Set<string>())
     <p class="mb-4 font-sans text-[14px] leading-6 text-muted-foreground">
       {{ name }} comes up in {{ videos.length }} of Gerb's {{ profile?.channelVideos }} videos.
       <template v-if="marks.length > 1">
-        Each mark on the line below is one of them, placed by the date it came out.
+        Each dot on the line below is one of them, placed by the date it came out. The line runs from Gerb's first video to the latest.
       </template>
     </p>
 

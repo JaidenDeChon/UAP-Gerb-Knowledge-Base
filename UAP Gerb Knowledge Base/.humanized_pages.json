@@ -6159,6 +6159,11 @@
     "sha256": "9b4a18a5858df7ffff771af9f4416f2fee3224a4b153256d6c43a2804325cf79",
     "cold_reader": true
   },
+  "app/app/components/wiki/WikiPersonVideos.vue": {
+    "humanized_at": "2026-10-01T18:22:38Z",
+    "sha256": "f113e3f6bc598c5f2d87db31aedda0c9c24fb03e6506db5de93906c528c796a1",
+    "cold_reader": true
+  },
   "app/app/components/wiki/WikiTocRail.vue": {
     "humanized_at": "2026-09-25T16:44:26Z",
     "sha256": "d2062fc2cc83f20a3f1e26e7338032e43d5a9ced898a4449c10d974e5463a915",
