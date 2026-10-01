@@ -1847,6 +1847,26 @@ The two pilots are `People/David Grusch.md` (36 videos: every component) and
 
 ---
 
+## Home page: Most referenced
+
+`app/app/components/home/HomeMostReferenced.vue`, under "Recently processed"
+on the home page. One button per kind (People, Organizations, Operations,
+Events, Locations, Concepts) switches between the six entries the rest of the
+wiki links to most. Each card has the roster card's look: a band across the
+top holding a person's portrait (cropped from the top and eased into the
+card with `ufo-fade`) or the kind's icon, a category badge and rank, the
+title, the first lines of the lead, and a meter of how many entries link in
+("Linked from 124 entries, 36 of them videos"). Every card has the same band,
+so the rows line up. Below a 36rem container it is a swipeable carousel, as
+"Recently processed" is.
+
+Served by `/api/top` (`?per=N`, default 6, at most 24) from the baked link
+graph: `buildTopEntries` in `server/utils/topEntries.ts` (unit-tested in
+`topEntries.test.ts`) ranks each kind by distinct entries linking in, then
+videos among them, then title. Videos and maps of content get no list.
+
+---
+
 ## People portraits (`app/scripts/fetch-people-images.mjs`)
 
 Person cards show a photo when one is available: the roster, the person's
