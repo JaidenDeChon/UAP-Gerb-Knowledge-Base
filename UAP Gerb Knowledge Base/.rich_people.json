@@ -2,7 +2,13 @@
   "David Grusch": {
     "enriched_at": "2026-10-01T18:00:00Z",
     "videos": 36,
-    "components": ["wiki-affiliations", "wiki-timeline", "wiki-record", "wiki-roster", "wiki-claim"],
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
     "dates": "verified",
     "corrections": 0,
     "note": "Pilot for a well-connected person."
@@ -14,5 +20,59 @@
     "dates": "none",
     "corrections": 1,
     "note": "Pilot for a sparse person. Corrected: he was the mentor of Bill McDonald's father, not the father of one of the engineers."
+  },
+  "Jonathan Weygandt": {
+    "enriched_at": "2026-10-01T20:18:43Z",
+    "videos": 18,
+    "components": [
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "partial",
+    "corrections": 0
+  },
+  "Christopher Sharp": {
+    "enriched_at": "2026-10-01T20:18:43Z",
+    "videos": 12,
+    "components": [
+      "wiki-record"
+    ],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "Bobby Ray Inman": {
+    "enriched_at": "2026-10-01T20:18:43Z",
+    "videos": 11,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "James Clapper": {
+    "enriched_at": "2026-10-01T20:18:43Z",
+    "videos": 6,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 2
+  },
+  "William Steinman": {
+    "enriched_at": "2026-10-01T20:18:43Z",
+    "videos": 7,
+    "components": [
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "partial",
+    "corrections": 3
   }
 }
