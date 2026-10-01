@@ -205,7 +205,7 @@ entries:
 
 ### Mission Context
 
-In October 2009, Herrera was deployed aboard the [[USS Denver]] as part of a humanitarian relief operation after a major earthquake in Indonesia. He was on officer's chow detail with other Marines when a female USMC major briefed volunteers for a security mission in the wardroom. The briefing showed pictures of [[Barack Obama]] as a child, along with references to his time in Indonesia. Herrera and his team were issued M16 rifles (Herrera normally carried a SAW). A CH-53 Super Stallion helicopter flew them first to Tobing Airport, which is described as having distinctive blue roofs, and then on to a hasty landing zone in hilly, heavily vegetated terrain.
+In October 2009, Herrera was deployed aboard the [[USS Denver]] as part of a humanitarian relief operation after a major earthquake in Indonesia. He was on officer's chow detail with other Marines when a female USMC major briefed volunteers for a security mission in the wardroom. The briefing showed pictures of [[Barack Obama]] as a child, along with references to his time in Indonesia. Herrera and his team were issued M16 rifles (Herrera normally carried a SAW). A CH-53 Super Stallion helicopter flew them first to Tobing Airport, described as having distinctive blue roofs, and then on to a hasty landing zone in hilly, heavily vegetated terrain.
 
 The stated purpose of the mission was to guard supply deliveries to remote villages, justified by the region's reputation as the second-largest terrorist capital in the world. Yet Herrera's team was dropped at a landing zone (LZ) with no other personnel present, no radio communications, and no clear extraction timeline, which is unusual for a routine security detail.
 
@@ -264,9 +264,9 @@ Herrera stayed silent about his encounter for about 14 years, bound by a non-dis
 
 ### AARO Testimony (April 2023)
 
-In late April 2023, Herrera testified to [[AARO]] (All-domain Anomaly Resolution Office) in a secure facility (SKIF). He describes the session as being like an interrogation. He says that [[Sean Kirkpatrick]], AARO's director, showed little interest and asked only three questions, over and over, all aimed at identifying the operators Herrera had met. Kirkpatrick said AARO had access to satellite imagery of the location and promised to follow up. Herrera says that more than a year later, no one had contacted him again to review the imagery.
+In late April 2023, Herrera testified to [[AARO]] (All-domain Anomaly Resolution Office) in a secure facility (SKIF). He compares the session to an interrogation. He says that [[Sean Kirkpatrick]], AARO's director, showed little interest and asked only three questions, over and over, all aimed at identifying the operators Herrera had met. Kirkpatrick said AARO had access to satellite imagery of the location and promised to follow up. Herrera says that more than a year later, no one had contacted him again to review the imagery.
 
-Herrera alleges that AARO's Historical Report Volume 1 deliberately misrepresented his testimony. According to him, it falsely attributes two statements to him: that he saw an "extraterrestrial vehicle" and that the operators were "US Special Forces". He adamantly denies saying either. He asserts that the omission and distortion were deliberate and not an innocent error, and notes that another person who was in the SKIF can corroborate that he never made those statements.
+Herrera alleges that AARO's Historical Report Volume 1 deliberately misrepresented his testimony. According to him, it falsely attributes two statements to him: that he saw an "extraterrestrial vehicle" and that the operators were "US Special Forces". He adamantly denies saying either, maintains that the omission and distortion were deliberate, and notes that another person who was in the SKIF can corroborate that he never made those statements.
 
 ::wiki-claim{video="4EMO38JUfVE" video-title="Michael Herrera - Insights into UAP Encounter and Black Program Insiders"}
 ---
@@ -285,7 +285,7 @@ responses:
 ---
 ::
 
-Gerb goes further. In his video with Joey he calls the report an "abomination" and leans towards reading the misstatement as purposeful, and in a later video on the SAIC he notes that Herrera's AARO memorandum for record shows he never claimed to meet an extraterrestrial spaceship or US special forces.
+In his video with Joey, Gerb calls the report an "abomination" and leans towards reading the misstatement as purposeful. In a later video on the SAIC he notes that Herrera's AARO memorandum for record shows he never claimed to meet an extraterrestrial spaceship or US special forces.
 
 ### National Press Club (June 2023)
 
@@ -325,13 +325,13 @@ The Insider also told Herrera he is writing a book titled "Sentinels of Ether" w
 
 Reddit investigator [[Joey Is Not My Name]] carried out extensive open-source verification of Herrera's account. Joey independently confirmed the main operational details, including the USS Denver's sole assignment to the West Coast of Indonesia, the presence of the 31st Marine Expeditionary Unit, the use of CH-53 Super Stallion helicopters, and the setting up of hasty landing zones in remote terrain. Joey's research corroborated every verifiable detail of the military operation described in Herrera's testimony.
 
-Joey also used objective data, including flight records and other intelligence, to independently verify that Herrera was indeed flown to a secure facility to meet an insider. Before the meeting, Joey recorded a phone call in which Herrera described his apprehension and the meeting details. The recording served as documentary evidence and as a "dead man switch" in case Herrera disappeared. Joey's verification relied on tracking the movements and checking the facility's location objectively, rather than on trusting Herrera's word.
+Joey also used flight records and other intelligence to verify independently that Herrera was flown to a secure facility to meet an insider. Before the meeting, Joey recorded a phone call in which Herrera described his apprehension and the meeting details. The recording served as documentary evidence and as a "dead man switch" in case Herrera disappeared. Because Joey tracked the movements and checked the facility's location against objective data, the verification does not depend on Herrera's word.
 
-Herrera says he has been in contact with David Grusch and has successfully put insiders in touch with prominent figures in the disclosure movement. He sees the harassment he continues to face as confirmation that the information he is revealing is accurate.
+Herrera says he has been in contact with David Grusch and has put insiders in touch with prominent figures in the disclosure movement. He sees the harassment he continues to face as confirmation that the information he is revealing is accurate.
 
 ## Parallels with Other Witnesses
 
-Herrera's account is strikingly similar to other UAP encounter testimonies that Gerb has documented:
+Herrera's account closely resembles other UAP encounter testimonies that Gerb has documented:
 
 - Like [[Rodrik Castle]] and [[Jonathan Weygandt]], Herrera encountered personnel in all-black or unmarked gear who could not be identified as conventional military. Gerb's theory is that these were [[Wackenhut Corporation|Wackenhut]]-trained [[DOE Special Response Teams|DOE Special Response Teams (SRTs)]]
 - All three witnesses were detained, debriefed, and warned against disclosure

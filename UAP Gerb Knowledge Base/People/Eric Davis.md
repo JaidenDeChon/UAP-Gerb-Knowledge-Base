@@ -8,7 +8,7 @@ tags:
   - scientist
 ---
 
-Dr. Eric Davis is an American astrophysicist and UAP researcher best known for his role in the [[Wilson-Davis Memo]]. The memo purports to record an October 16, 2002 conversation between Davis and Vice Admiral [[Thomas Wilson]] about a classified UFO crash retrieval and reverse engineering program, which Wilson discovered in 1997 and was then denied access to. It has become one of the most significant documents in the modern debate over UAP disclosure.
+Dr. Eric Davis is an American astrophysicist and UAP researcher best known for his role in the [[Wilson-Davis Memo]]. The memo purports to record an October 16, 2002 conversation between Davis and Vice Admiral [[Thomas Wilson]] about a classified UFO crash retrieval and reverse engineering program, which Wilson discovered in 1997 and was then denied access to. It is now one of the most significant documents in the modern debate over UAP disclosure.
 
 ## Career
 
@@ -154,7 +154,7 @@ entries:
 
 ## Studies for the Pentagon
 
-In 2018 journalist [[George Knapp]] leaked reports of 38 studies commissioned under the Pentagon's UAP program (AAWSAP, which Gerb's video calls AATIP). [[John Greenewald]] of The Black Vault later confirmed them through a 2019 Freedom of Information Act request. Among the studies were research proposals by Eric Davis titled "Traversible Wormholes, Stargates and Negative Energy," "Anti-Gravity for Aerospace Applications," and "Concepts for Extracting Energy from the Quantum Vacuum". These papers show that Davis has worked at the cutting edge of advanced science, on topics with potential applications to UAP propulsion and physics.
+In 2018 journalist [[George Knapp]] leaked reports of 38 studies commissioned under the Pentagon's UAP program (AAWSAP, which Gerb's video calls AATIP). [[John Greenewald]] of The Black Vault later confirmed them through a 2019 Freedom of Information Act request. Among the studies were research proposals by Eric Davis titled "Traversible Wormholes, Stargates and Negative Energy," "Anti-Gravity for Aerospace Applications," and "Concepts for Extracting Energy from the Quantum Vacuum". The papers show Davis working at the cutting edge of advanced science, on topics that could apply to UAP propulsion and physics.
 
 ## Investigation of Crash Retrieval Programs
 
@@ -182,11 +182,11 @@ Davis would not confirm or deny the meeting itself, but he did confirm that the 
 
 ## Del Rio Endorsement
 
-In June 2018 journalist George Knapp interviewed Davis on *Coast to Coast AM*. Speaking about UFO crash retrievals, Davis said: "Yeah, they've got—I would say, you know, if you're going to throw your bets on Roswell, your bets really good. Del Rio, Texas—that was a 1950s case. That was another one. And the other ones I won't bring up because those are still classified." Gerb cites this endorsement of the [[Del Rio, Texas]] region as a high-credibility crash retrieval case as context for the 1950 and 1955 incidents.
+In June 2018 journalist George Knapp interviewed Davis on *Coast to Coast AM*. Speaking about UFO crash retrievals, Davis said: "Yeah, they've got—I would say, you know, if you're going to throw your bets on Roswell, your bets really good. Del Rio, Texas—that was a 1950s case. That was another one. And the other ones I won't bring up because those are still classified." Gerb reads this as Davis vouching for the [[Del Rio, Texas]] region as a high-credibility crash retrieval case, and uses it as context for the 1950 and 1955 incidents.
 
 ## Legacy Program Research
 
-Davis helped outline the legacy program structure that UAP researchers have since critiqued and analyzed. In his investigation of the [[TR-3B]], Gerb identified Davis as a key figure. Gerb notes that Davis's insights from the Wilson-Davis memo would implicate the [[CIA]] Directorate of Science and Technology as leading the teams behind UFO crash retrievals, with support from agencies such as the [[NRO (National Reconnaissance Office)|NRO]], the National Underwater Reconnaissance Office, the [[NGA (National Geospatial-Intelligence Agency)|National Geospatial-Intelligence Agency]], and likely the [[NSA]].
+Davis helped outline the legacy program structure that UAP researchers have since critiqued and analyzed. Gerb's investigation of the [[TR-3B]] puts Davis at its center. Gerb notes that what Davis recorded in the Wilson-Davis memo would implicate the [[CIA]] Directorate of Science and Technology as leading the teams behind UFO crash retrievals, with support from agencies such as the [[NRO (National Reconnaissance Office)|NRO]], the National Underwater Reconnaissance Office, the [[NGA (National Geospatial-Intelligence Agency)|National Geospatial-Intelligence Agency]], and likely the [[NSA]].
 
 ::wiki-claim{video="-IXSZe4xVv4" video-title="The Hidden Wing - US Air Force UFO Reverse Engineering Programs"}
 ---

@@ -17,7 +17,7 @@ According to Castle, he entered the Marine Corps in 1994 and left in 1999 as a s
 
 ::wiki-timeline
 ---
-help: "Castle's service, his encounter and his steps toward testifying, in date order, as Gerb's video gives them. Click a year on the bar above the list to jump to the nearest entry there. Names in an entry link to the people, programs and organizations involved."
+help: "Castle's service, his encounter and his steps toward testifying, in date order, as Gerb's video gives them. Click a year on the bar above the list to jump to the nearest entry there. To see only one type of entry, or only the major ones, open the button that shows how many entries are listed. Names in an entry link to the people, programs and organizations involved."
 events:
   - date: "1994"
     title: "Enters the Marine Corps"
@@ -136,7 +136,7 @@ In Gerb's 2025 investigation built around his testimony, Castle is treated as a 
 
 ## Wackenhut Recruitment
 
-In 2002, three years after he left the Marines and within three months of leaving the reserves, Castle received a letter from [[Wackenhut Services|Wackenhut Corporation (now G4S)]] inviting him to a recruiting event for its helicopter teams. Wackenhut appeared to know about his training as a helicopter flight medic, which was not part of his official MOS. At the time Castle assumed he was simply on a list of veterans; looking back, he says, "it was an attempt to pull me in as an asset." Gerb goes further and theorizes that Wackenhut may have been recruiting him for clandestine teams, possibly a group like the "Blue Boys", the alleged UFO crash retrieval rapid response teams.
+In 2002, three years after he left the Marines and within three months of leaving the reserves, Castle received a letter from [[Wackenhut Services|Wackenhut Corporation (now G4S)]] inviting him to a recruiting event for its helicopter teams. Wackenhut appeared to know about his training as a helicopter flight medic, which was not part of his official MOS. At the time Castle assumed he was simply on a list of veterans; looking back, he says, "it was an attempt to pull me in as an asset." Gerb takes the idea further: he theorizes that Wackenhut may have been recruiting him for clandestine teams, possibly a group like the "Blue Boys", the alleged UFO crash retrieval rapid response teams.
 
 ## Disclosure Efforts
 

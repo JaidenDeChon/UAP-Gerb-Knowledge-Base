@@ -8,7 +8,7 @@ tags:
   - person
 ---
 
-**Dr. Eric Henry Wang** (died 1960) was an Austrian-born engineer who headed the Office of Special Studies at the Wright Air Development Center at [[Wright-Patterson Air Force Base]], and later worked at [[Kirtland Air Force Base, New Mexico|Kirtland Air Force Base]]. Researchers suspect that he led UFO crash retrieval and reverse-engineering work in the late 1940s and 1950s: [[William Steinman]] tied him to the [[Aztec UFO Crash and Recovery|1948 Aztec crash]], and [[Arthur Stansel Jr.]] named him as a lead of the team that examined the craft at the [[1953 Kingman, Arizona Crash Retrieval|1953 Kingman retrieval]].
+Dr. Eric Henry Wang (died 1960) was an Austrian-born engineer who headed the Office of Special Studies at the Wright Air Development Center at [[Wright-Patterson Air Force Base]], and later worked at [[Kirtland Air Force Base, New Mexico|Kirtland Air Force Base]]. Researchers suspect that he led UFO crash retrieval and reverse-engineering work in the late 1940s and 1950s: [[William Steinman]] tied him to the [[Aztec UFO Crash and Recovery|1948 Aztec crash]], and [[Arthur Stansel Jr.]] named him as a lead of the team that examined the craft at the [[1953 Kingman, Arizona Crash Retrieval|1953 Kingman retrieval]].
 
 Very little biographical information about Wang is available, and Steinman believed his career had been deliberately kept off the public record. In *The Hidden Wing* (2026), Gerb found his obituary and the first known photograph of him.
 
@@ -44,7 +44,7 @@ rows:
 
 ::wiki-timeline
 ---
-help: "Wang's career and the crash retrieval stories tied to him, in date order. Click a year on the bar above the list to jump to the nearest entry there. Names in an entry link to the people, programs and places involved."
+help: "Wang's career and the crash retrieval stories tied to him, in date order. Click a year on the bar above the list to jump to the nearest entry there. To see only one type of entry, or only the major ones, open the button that shows how many entries are listed. Names in an entry link to the people, programs and places involved."
 events:
   - date: "1943"
     title: "Begins teaching at the University of Cincinnati"
@@ -132,7 +132,7 @@ Witness [[Arthur Stansel Jr.]] also named Wang as a lead of the reverse-engineer
 
 ## Records Suppression
 
-Wang has proven exceedingly difficult to trace in historical records, as if he had been deliberately erased from public documentation. [[William Steinman]] believed that [[Majestic 12]] wanted to keep their "prize scientist" off the public record.
+Wang is exceedingly difficult to trace in historical records, as if he had been deliberately erased from public documentation. [[William Steinman]] believed that [[Majestic 12]] wanted to keep their "prize scientist" off the public record.
 
 A person known only as "MW" told Steinman that when Wang died, military intelligence confiscated all of his personal papers and locked them away in a highly secret section of the library at Kirtland Air Force Base. Steinman wrote to MW to follow up but never received a reply. He also noticed that his own mail was being tampered with and that there was a tracking device on his van.
 

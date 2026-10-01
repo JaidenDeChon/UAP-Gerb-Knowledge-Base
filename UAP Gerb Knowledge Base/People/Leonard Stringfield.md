@@ -10,7 +10,7 @@ tags:
   - person
 ---
 
-Leonard H. Stringfield (1920–1994) was an American UFO researcher widely considered the pioneering investigator of UFO crash retrieval cases. Over several decades he collected firsthand witness testimony and published it in a series of *UFO Crash/Retrieval Status Reports*, which documented alleged cases of downed non-human craft recovered by US military and government teams. His work established crash retrievals as a distinct area of UFO research. Gerb calls the seven reports "a Bible of sorts" and the best work on crash retrieval operations by any investigator, and draws on them in more than twenty videos.
+Leonard H. Stringfield (1920–1994) was an American UFO researcher widely considered the pioneering investigator of UFO crash retrieval cases. Over several decades he collected firsthand witness testimony and published it in a series of *UFO Crash/Retrieval Status Reports* on alleged cases of downed non-human craft recovered by US military and government teams. His work made crash retrievals a distinct area of UFO research. Gerb calls the seven reports "a Bible of sorts" and the best work on crash retrieval operations by any investigator, and draws on them in more than twenty videos.
 
 ## Career
 
@@ -169,7 +169,7 @@ events:
 
 ::wiki-record
 ---
-caption: "The seven crash retrieval Status Reports and the foreword Gerb cites, with what each contributes to the cases Gerb covers. Titles and years from the published editions; Gerb's Kecksburg video dates Status Report III to 1993, but it appeared in 1982."
+caption: "The seven crash retrieval Status Reports and the foreword Gerb cites, with what each contributes to the cases Gerb covers. Titles and years are from the published editions. Gerb's Kecksburg video dates Status Report III to 1993, but it appeared in 1982."
 items:
   - date: "1978"
     kind: paper
@@ -273,7 +273,7 @@ Stringfield's status reports, published between 1978 and 1994, compiled testimon
 - The "Blue Boys", helicopter units for rapid retrieval and transport that were allegedly dedicated to UFO crash recovery.
 - Numerous cases of specialized military teams in hazmat or containment gear arriving at crash sites remarkably fast. These accounts introduced the idea of rapid-reaction recovery units to the crash retrieval literature.
 
-Stringfield's method of collecting and preserving witness testimony, often from sources who insisted on anonymity, laid the groundwork for the systematic investigation of crash retrieval claims that researchers still carry on today.
+He collected and preserved witness testimony, often from sources who insisted on anonymity, and that method became the basis for the systematic investigation of crash retrieval claims that researchers still carry on.
 
 ## The Blue Berets
 
@@ -305,11 +305,11 @@ Stringfield took a balanced approach to the Kecksburg case and recorded testimon
 - The [[Fort Riley, Kansas|Fort Riley]] and [[Johannesburg, South Africa]] crash cases were genuine
 - Disinformation was a significant concern in UAP research
 
-Stringfield did not dismiss Uncle's claims, but he kept investigating the Kecksburg case for well over a decade. This suggests he found the witness testimony and physical evidence compelling despite the other explanations offered.
+Stringfield did not dismiss Uncle's claims, but he kept investigating the Kecksburg case for well over a decade. That suggests he still found the witness testimony and physical evidence compelling.
 
 ### Collaboration with Stan Gordon
 
-Stringfield and Gordon cross-checked witness accounts, shared documents, and worked together to establish that the Kecksburg account was credible. Gordon's Freedom of Information Act (FOIA) requests and Stringfield's witness interviews complemented each other, and together they produced one of the most thoroughly documented crash retrieval cases in UFO history.
+Stringfield and Gordon cross-checked witness accounts and shared documents as they worked to establish that the Kecksburg account was credible. Gordon filed Freedom of Information Act (FOIA) requests while Stringfield interviewed witnesses, and between them they produced one of the most thoroughly documented crash retrieval cases in UFO history.
 
 ## Underground Base Cases
 
@@ -319,9 +319,9 @@ Besides documenting crash retrievals on the surface, Stringfield compiled testim
 - In 1975 a USAF Lieutenant Colonel told him of an underground project at [[Fort Hood]]. In 1976 a man from McGregor, Texas, gave a secondhand account that his father had worked below Fort Hood on a UFO program, and quoted him: "the technology that is being applied in this underground complex would remind someone of a science fiction thriller. It is unbelievable what they know and what they can do."
 - From the late 1970s through the 1980s, Stringfield received multiple reports of an underground facility beneath Wright-Patterson Air Force Base housing preserved non-human biologics. One source, known as "JK," claimed to have seen nine alien bodies in glass cases below Wright-Patterson in 1966.
 - An anonymous, undated letter from a US Airman stationed at Kirtland Air Force Base relayed stories of UFOs stored in the Manzano Mountain storage area.
-- An anonymous letter dated March 14, 1975, relayed testimony from a "Lieutenant Colonel Sims" (pseudonym) describing underground installations with sophisticated computer equipment and squadrons of unmarked helicopters sent to areas of UFO activity. The account is strikingly similar to the 1974 Fort Hood letter.
+- An anonymous letter dated March 14, 1975, relayed testimony from a "Lieutenant Colonel Sims" (pseudonym) describing underground installations with sophisticated computer equipment and squadrons of unmarked helicopters sent to areas of UFO activity. The account closely resembles the 1974 Fort Hood letter.
 
-Together, these accounts are one of the earliest documented bodies of testimony that specifically link deep underground military bases (DUMBs) to UAP storage and research programs.
+These accounts are among the earliest documented testimony to link deep underground military bases (DUMBs) specifically to UAP storage and research programs.
 
 ## Edwards AFB Cases in Stringfield Files
 
@@ -349,11 +349,11 @@ Gerb's video on Navy programs draws most of its storage cases from Stringfield. 
 
 ## The RB Case
 
-In *UFO Crash/Retrieval Status Report 5*, Stringfield published a brief account titled "Marine Guards a Disc-Shaped Vehicle, 1963," which was based on information from UFO researcher [[Michael Johnstone]], who put Stringfield in contact with the anonymous source known as "[[RB]]." RB was a former Marine Corporal who claimed that in December 1963 he guarded a 40-foot disc-shaped craft of non-human origin at an undisclosed military base. Stringfield's notes kept his correspondence with Johnstone, which records the full account. After Stringfield's death, [[Michael Schratt]] was given access to these personal archives at MUFON in Cincinnati. He interviewed Johnstone in 2015 and published a fuller reconstruction of the case. Stringfield also collected a series of letters from Senator [[Barry Goldwater]] about Goldwater's attempts to get into a classified UFO storage facility at [[Wright-Patterson Air Force Base]]. These letters give context that supports the RB account.
+In *UFO Crash/Retrieval Status Report 5*, Stringfield published a brief account titled "Marine Guards a Disc-Shaped Vehicle, 1963," which was based on information from UFO researcher [[Michael Johnstone]], who put Stringfield in contact with the anonymous source known as "[[RB]]." RB was a former Marine Corporal who claimed that in December 1963 he guarded a 40-foot disc-shaped craft of non-human origin at an undisclosed military base. Stringfield's notes kept his correspondence with Johnstone, which records the full account. After Stringfield's death, [[Michael Schratt]] was given access to these personal archives at MUFON in Cincinnati. He interviewed Johnstone in 2015 and published a fuller reconstruction of the case. Stringfield also collected a series of letters from Senator [[Barry Goldwater]] about Goldwater's attempts to get into a classified UFO storage facility at [[Wright-Patterson Air Force Base]]. The letters give context that supports RB's account.
 
 ## Legacy
 
-Leonard Stringfield's careful documentation of crash retrieval testimony gave the field a foundation that researchers still build on. His work on the Kecksburg case in particular shows him preserving witness accounts, cross-checking testimony and staying intellectually honest when faced with contradictory information. His collaboration with Stan Gordon produced one of the most credible and thoroughly researched alleged UAP retrieval cases in history.
+Researchers still build on Leonard Stringfield's careful record of crash retrieval testimony. On the Kecksburg case he preserved witness accounts, cross-checked them, and kept the testimony that contradicted the case on the record alongside the testimony that supported it. With Stan Gordon he produced one of the most credible and thoroughly researched alleged UAP retrieval cases in history.
 
 ## Sources
 
