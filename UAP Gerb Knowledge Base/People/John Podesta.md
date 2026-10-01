@@ -49,7 +49,7 @@ rows:
 
 ::wiki-record
 ---
-caption: "Podesta's own public statements on UFO records, and the two emails sent to him that Gerb draws on. The emails were written by Bob Fish and Tom DeLonge, not by Podesta; WikiLeaks published both in 2016. The 2002 and 2015 statements are quoted from CNN and the Washington Times."
+caption: "Podesta's own public statements on UFO records, plus two emails that Bob Fish and Tom DeLonge sent him, which Gerb draws on. WikiLeaks published both emails in 2016. The 2002 and 2015 statements are quoted from CNN and the Washington Times."
 items:
   - date: "2002-10-22"
     kind: statement
@@ -102,17 +102,17 @@ entries:
     note: "The candidate Gerb says Podesta's effort sought to position as the disclosure president."
   - name: "James Clapper"
     role: "Former Director of National Intelligence"
-    note: "Said by Gerb to have given top cover to the partial-disclosure effort that Podesta's initiative grew out of."
+    note: "Gerb says he gave top cover to the partial-disclosure effort that Podesta's initiative grew out of."
 ---
 ::
 
 ## WikiLeaks Email Disclosure on DSP and Fast Walkers
 
-In March 2015, weeks after leaving the White House to lead Hillary Clinton's campaign, Podesta received a detailed [[Bob Fish Email to John Podesta|email]] from [[Bob Fish]], a former US government contractor who had managed highly classified government communications systems. [[WikiLeaks]] later published the email as part of the leaked Clinton campaign emails. It made significant claims about US government satellites tracking UFOs.
+In March 2015, weeks after leaving the White House to lead Hillary Clinton's campaign, Podesta received a detailed [[Bob Fish Email to John Podesta|email]] from [[Bob Fish]], a former US government contractor who had managed highly classified government communications systems. [[WikiLeaks]] later published it with the other leaked Clinton campaign emails. In it, Fish claimed that US government satellites were tracking UFOs.
 
 Fish's email stated that "one of the government programs that collects hard data on unidentified flying objects is the USAF [[Defense Support Program (DSP)|DSP]] satellite program" and described a [[Fast Walkers|Fast Walker]] incident in which a DSP satellite detected an object entering from deep space that made a 30-degree course correction, indicating controlled flight.
 
-The email was a rare on-the-record claim from a cleared contractor with direct access to DSP personnel, sent to one of the most senior political figures in the United States. Because it was preserved in campaign communications and later released by WikiLeaks, it is one of the few documented cases of UAP-related information being shared at the highest levels of US political leadership. Gerb returns to it in his video on the [[Peru UFO Crash Incident|1997 Peru crash]], where he argues that NRO-managed DSP satellites likely gave the retrieval team about an hour's warning.
+Fish was a cleared contractor with direct access to DSP personnel, and he put the claim on the record to one of the most senior political figures in the United States. Because the campaign kept the email and WikiLeaks later released it, it is one of the few documented cases of UAP-related information reaching the highest levels of US political leadership. Gerb returns to it in his video on the [[Peru UFO Crash Incident|1997 Peru crash]], where he argues that NRO-managed DSP satellites likely gave the retrieval team about an hour's warning.
 
 ## DeLonge's Message About General McCasland
 
@@ -120,7 +120,7 @@ The leaked emails also include a message from [[Tom DeLonge]] to Podesta about r
 
 ## Alleged "Disclosure President" Effort
 
-Gerb connects Podesta to an alleged effort to position [[Hillary Clinton]] as a "disclosure president" if she won the 2016 presidential election. In Gerb's account, [[AATIP (Advanced Aerospace Threat Identification Program)|AATIP]] served as cover for National Security Council activities, given "top cover" by DNI [[James Clapper]], for a partial-disclosure initiative, and those efforts led to the attempts with Podesta. Gerb describes the effort as connected to [[To The Stars Academy]], alongside Podesta, Major General Neil McCasland, Lockheed Skunk Works personnel and possibly intelligence officials, and says it allegedly sought to coordinate narratives and release partial information while protecting the legacy programs. He also finds [[Andrew Kissner]]'s mention of the Rockefeller Institute intriguing, since the Rockefellers seemed to play a hand in Podesta's initiative. When Clinton lost and To The Stars Academy faltered, Gerb says, the effort changed shape and resurfaced as *The Age of Disclosure*.
+Gerb connects Podesta to an alleged effort to position [[Hillary Clinton]] as a "disclosure president" if she won the 2016 presidential election. In Gerb's account, [[AATIP (Advanced Aerospace Threat Identification Program)|AATIP]] was cover for National Security Council work on a partial-disclosure initiative, which DNI [[James Clapper]] gave "top cover", and that work led to the attempts with Podesta. Gerb describes the effort as connected to [[To The Stars Academy]], alongside Podesta, Major General Neil McCasland, Lockheed Skunk Works personnel and possibly intelligence officials, and says it allegedly sought to coordinate narratives and release partial information while protecting the legacy programs. He also finds [[Andrew Kissner]]'s mention of the Rockefeller Institute intriguing, since the Rockefellers seemed to play a hand in Podesta's initiative. When Clinton lost and To The Stars Academy faltered, Gerb says, the effort changed shape and resurfaced as *The Age of Disclosure*.
 
 ## To The Stars Academy
 

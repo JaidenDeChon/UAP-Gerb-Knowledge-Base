@@ -21,13 +21,13 @@ He turned their account into the drawing titled *Tehachapi Triangle 1992*. Gerb 
 
 ## Helendale and Tejon
 
-McDonald said the Helendale site was designed to hide in plain sight behind the cover of a radar cross-section facility, and that its storm-drain flood-control channel really serves as a short runway or platform for testing craft. Gerb notes that McDonald said this five years before [[Steven Greer]] first named the Helendale plant as a program location. Helendale lies close to [[Edwards Air Force Base]] and [[Air Force Plant 42]] in Palmdale, both of which Gerb has accused of housing reverse-engineering programs.
+McDonald said the Helendale site was designed to hide in plain sight behind the cover of a radar cross-section facility, and that its storm-drain flood-control channel is really used as a short runway or platform for testing craft. Gerb notes that McDonald said this five years before [[Steven Greer]] first named the Helendale plant as a program location. Helendale lies close to [[Edwards Air Force Base]] and [[Air Force Plant 42]] in Palmdale, both of which Gerb has accused of housing reverse-engineering programs.
 
 In Gerb's Northrop Grumman and underground-bases videos, McDonald's engineers are one of several sources that point to Tejon as a site of UFO reverse engineering and material exploitation, alongside [[Bill Hamilton|William Hamilton]], [[Richard Sauder]] and [[Richard Boylan]]. Gerb puts "much credence" in McDonald's testimony.
 
 ## The X-Files Connection
 
-On the drawing, McDonald asks whether viewers recognise the craft. Fox contracted his work and made a computer render of the vehicle for "Deep Throat", the first regular episode of *The X-Files*, which aired on 17 September 1993. In the episode, Mulder investigates the disappearance of an Air Force test pilot, learns that a craft is reverse-engineered from the 1947 Roswell crash, and watches a triangular craft dart and hover over the airfield. Rumours that the show's creator, [[Chris Carter]], was asked by military officers how he knew so much have no credible source that Gerb can find.
+On the drawing, McDonald asks whether viewers recognise the craft. Fox contracted his work and made a computer render of the vehicle for "Deep Throat", the first regular episode of *The X-Files*, which aired on 17 September 1993. In the episode, Mulder investigates the disappearance of an Air Force test pilot, learns that a craft is reverse-engineered from the 1947 Roswell crash, and watches a triangular craft dart and hover over the airfield. Gerb can find no credible source for rumours that military officers asked the show's creator, [[Chris Carter]], how he knew so much.
 
 ## The 29 Palms Encounter
 

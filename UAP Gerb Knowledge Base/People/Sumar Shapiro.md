@@ -17,7 +17,7 @@ Shapiro was born in Nashua, New Hampshire, in 1926. He graduated from the US Nav
 
 ## 1989 Disclosure to Bob Echler
 
-In 1989, [[Bob Echler]] was put in touch with Shapiro by Admiral [[Bobby Ray Inman]], a fellow former Director of Naval Intelligence who had also been Director of the NSA, Deputy Director of the CIA and, by his own admission, Director of the classified [[National Underwater Reconnaissance Office]] (NURO). In the same recorded 1989 phone call, Inman pointed Echler to [[Everett Heinman|R. Everett Heinman]] of the CIA's Directorate of Science and Technology. Echler met Shapiro under the pretense that he was interested in working with the "group" that managed UFO information. By then Shapiro had retired as Director of Naval Intelligence and was an executive with BDM International. Gerb notes that it is unknown whether Shapiro, like Inman, served at NURO.
+In 1989, Admiral [[Bobby Ray Inman]] put [[Bob Echler]] in touch with Shapiro. Inman was a fellow former Director of Naval Intelligence who had also been Director of the NSA, Deputy Director of the CIA and, by his own admission, Director of the classified [[National Underwater Reconnaissance Office]] (NURO). In the same recorded 1989 phone call, Inman pointed Echler to [[Everett Heinman|R. Everett Heinman]] of the CIA's Directorate of Science and Technology. Echler met Shapiro under the pretense that he was interested in working with the "group" that managed UFO information. By then Shapiro had retired as Director of Naval Intelligence and was an executive with BDM International. Gerb notes that it is unknown whether Shapiro, like Inman, served at NURO.
 
 Shapiro told Echler that factions within the US government possessed extraterrestrial vehicles and that he had personally studied one at close quarters. He described in concrete terms how recovered craft were handled:
 
@@ -28,7 +28,7 @@ Shapiro told Echler that factions within the US government possessed extraterres
 
 ## Second Meeting (1990)
 
-A second meeting was held at Shapiro's home in Virginia in 1990. It ended abruptly when Echler displayed a small hologram of an alien head, trying to draw a link between the technology and its non-human source. According to Echler, as relayed by author Timothy Good, Shapiro became visibly upset and paced about his living room. He voiced concern that he had been unable to reach Inman to confirm the recommended meeting, wondered aloud why Inman had not directed Echler to the current Director of Naval Intelligence instead, and ended the visit, suspecting that Echler was there under false pretenses.
+The two met again at Shapiro's home in Virginia in 1990. That meeting ended abruptly when Echler displayed a small hologram of an alien head, trying to draw a link between the technology and its non-human source. According to Echler, as relayed by author Timothy Good, Shapiro became visibly upset and paced about his living room. He voiced concern that he had been unable to reach Inman to confirm the recommended meeting, wondered aloud why Inman had not directed Echler to the current Director of Naval Intelligence instead, and ended the visit, suspecting that Echler was there under false pretenses.
 
 ## Significance
 

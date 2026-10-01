@@ -11,11 +11,11 @@ Bob Fish is a former United States government contractor who was program manager
 
 ## Vetting
 
-As a side note in his video on fast walkers, Gerb mentions that Fish was vetted by investigative journalist [[Ross Coulthart]].
+In an aside in his video on fast walkers, Gerb mentions that investigative journalist [[Ross Coulthart]] vetted Fish.
 
 ## 2015 Email to John Podesta
 
-In March 2015, Fish sent a detailed [[Bob Fish Email to John Podesta|email]] to [[John Podesta]], who had just left the White House to lead Hillary Clinton's presidential campaign. The email became public when [[WikiLeaks]] published Podesta's emails during the 2016 campaign. It contained claims that the US government tracks UAP with satellite systems.
+In March 2015, Fish sent a detailed [[Bob Fish Email to John Podesta|email]] to [[John Podesta]], who had just left the White House to lead Hillary Clinton's presidential campaign. The email became public when [[WikiLeaks]] published Podesta's emails during the 2016 campaign. In it, Fish claimed that the US government tracks UAP with satellite systems.
 
 In the email, Fish stated unequivocally: "One of the government programs that collects hard data on unidentified flying objects is the USAF DSP satellite program."
 
@@ -23,7 +23,7 @@ In the email, Fish stated unequivocally: "One of the government programs that co
 
 Fish wrote that he was never fully briefed into the [[Defense Support Program (DSP)]] directly, but was introduced to its people as the US prepared for [[Operation Desert Shield]] and [[Operation Desert Storm]]. He sometimes had lunch with a few of them in the cafeteria of a highly classified organization in [[El Segundo, California]]. No one could enter the cafeteria without a TS/SCI clearance, so, in his words, "this was not a lightweight group of gossipers".
 
-On one of these occasions a member of the group, excited, said they had just picked up a "[[Fast Walkers|Fast Walker]]", Fish assumed that same day. According to Fish's account of what he was told, the object:
+On one of these occasions a member of the group, excited, said they had just picked up a "[[Fast Walkers|Fast Walker]]", which Fish took to mean that same day. According to Fish's account of what he was told, the object:
 
 - Entered Earth's atmosphere from deep space, origin unknown
 - Came from the backside of the DSP satellite

@@ -36,7 +36,7 @@ responses:
 Wilson claimed to have served across several elite units over a 40-year career:
 
 - 1963: Assigned as a captain in a tactical fighter squadron at [[Wright-Patterson Air Force Base]], recruited into [[Majestic 12|Majestic-12]] and promoted to major. He was briefed on MJ-12's mission: "UFO surveillance and interdictions, retrievals and analysis of records of extraterrestrial spacecraft and occupants, and public access to any information about these matters."
-- 9 years: Assigned to [[First Special Forces Air Command]], where he received special training with [[Delta Force]] and the Black Beret. On behalf of MJ-12, he was tasked with making contact with key personnel at nearly every Air Force base in the world.
+- 9 years: Assigned to [[First Special Forces Air Command]], where he received special training with [[Delta Force]] and the Black Beret. MJ-12 tasked him with making contact with key personnel at nearly every Air Force base in the world.
 - 1972: Reassigned as a lieutenant colonel from First Special Forces Air Command at [[Vandenberg Air Force Base]] to [[Area 51]]'s S-4 facility by men presenting CIA credentials.
 - After S-4: Claimed to head [[Project Pounce]], an elite Air Force-[[NRO (National Reconnaissance Office)|NRO]] Special Forces unit for retrieving downed UFOs.
 
@@ -73,7 +73,7 @@ Wilson said S-4 was near [[Papoose Lake]], south of Area 51, and that he went 30
 
 ## Project Pounce, Delta and the NRO
 
-Wilson described Project Pounce as an Air Force and "National Reconnaissance Organization" unit that retrieved downed UFOs and supplied cover stories. Its security team, "Delta", was an arm of the NRO and, he said, flew [[XH-75D]] anti-gravity helicopters. It also fielded "the Equalizer", a truck-mounted EMP cannon for shooting down craft, built by LTV. He also named a "Jason Society" tasked with the "alien question".
+Wilson described Project Pounce as an Air Force and "National Reconnaissance Organization" unit that retrieved downed UFOs and supplied cover stories. Its security team, "Delta", was an arm of the NRO and, he said, flew [[XH-75D]] anti-gravity helicopters. It also fielded "the Equalizer", a truck-mounted EMP cannon for shooting down craft, built by LTV. Wilson named a "Jason Society" too, tasked with the "alien question".
 
 Gerb doubts the truck-mounted cannon and finds no evidence or corroborating testimony for the XH-75D, but he follows four threads:
 
@@ -105,7 +105,7 @@ Wilson claimed that the Northrop, Lockheed and [[McDonnell Douglas]] radar cross
 
 ## Assessment
 
-Gerb ranks Wilson's testimony well below that of David Grusch, Dylan Borland or Edgar Fouche, but finds that it intersects with other accounts in several places: Project Pounce appears in the disputed [[Majestic 12|MJ-12]] documents and the 1953 [[Robertson Panel]] report; Teledyne Ryan was a real Northrop Grumman acquisition; Northrop's underground facility at Tejon Ranch is discussed by forensic artist [[Bill McDonald]] and researchers [[Bill Hamilton|William Hamilton]] and [[Richard Sauder|Dr. Richard Sauder]]; and the SDI-UAP connection is referenced by several other witnesses. Without published military records, Gerb treats Wilson's legitimacy in the Air Force as "still shrouded in mystery", and says the colonel deserves a video of his own.
+Gerb ranks Wilson's testimony well below that of David Grusch, Dylan Borland or Edgar Fouche, but finds that it intersects with other accounts in several places: Project Pounce appears in the disputed [[Majestic 12|MJ-12]] documents and the 1953 [[Robertson Panel]] report; Teledyne Ryan was a real Northrop Grumman acquisition; forensic artist [[Bill McDonald]] and researchers [[Bill Hamilton|William Hamilton]] and [[Richard Sauder|Dr. Richard Sauder]] discuss Northrop's underground facility at Tejon Ranch; and several other witnesses refer to the SDI-UAP connection. Without published military records, Gerb treats Wilson's legitimacy in the Air Force as "still shrouded in mystery", and says the colonel deserves a video of his own.
 
 ## Sources
 
