@@ -1070,5 +1070,46 @@
     "components": [],
     "dates": "verified",
     "corrections": 1
+  },
+  "Scott and Suzanne Ramsey": {
+    "enriched_at": "2026-10-01T22:03:24Z",
+    "videos": 1,
+    "components": [],
+    "dates": "partial",
+    "corrections": 1
+  },
+  "Denise McKenzie": {
+    "enriched_at": "2026-10-01T22:03:24Z",
+    "videos": 2,
+    "components": [
+      "wiki-claim"
+    ],
+    "dates": "partial",
+    "corrections": 2
+  },
+  "James Fox": {
+    "enriched_at": "2026-10-01T22:03:24Z",
+    "videos": 3,
+    "components": [],
+    "dates": "partial",
+    "corrections": 1
+  },
+  "Oak Shannon": {
+    "enriched_at": "2026-10-01T22:03:24Z",
+    "videos": 4,
+    "components": [
+      "wiki-record"
+    ],
+    "dates": "partial",
+    "corrections": 1
+  },
+  "Wernher von Braun": {
+    "enriched_at": "2026-10-01T22:03:24Z",
+    "videos": 5,
+    "components": [
+      "wiki-affiliations"
+    ],
+    "dates": "verified",
+    "corrections": 4
   }
 }
