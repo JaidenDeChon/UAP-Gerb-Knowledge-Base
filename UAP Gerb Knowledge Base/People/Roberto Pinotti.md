@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-**Roberto Pinotti** is an Italian ufologist and aerospace researcher who brought the [[1933 Magenta UFO Crash/Retrieval|1933 Magenta, Italy UFO crash/retrieval]] case to international attention in 1996, when he received and published original Italian government documents about the incident from the fascist era.
+**Roberto Pinotti** is an Italian ufologist and aerospace researcher who brought the [[1933 Magenta UFO CrashRetrieval|1933 Magenta, Italy UFO crash/retrieval]] case to international attention in 1996, when he received and published original Italian government documents about the incident from the fascist era.
 
 ## Receipt of Magenta Documents
 

@@ -23,7 +23,7 @@ The telegrams show how quickly and completely the fascist state could suppress i
 
 During the 1930s, Stefani held a monopoly on official news within Italy. All media outlets had to use Stefani dispatches for their news stories. Departing from the official version could bring severe penalties, including imprisonment, seizure of assets, or referral to the State Security Court, Mussolini's special tribunal for political crimes.
 
-The agency also actively shaped the narrative. In the [[1933 Magenta UFO Crash/Retrieval]] case, Stefani suppressed unwanted stories and supplied a pre-fabricated cover story (the meteor explanation) for journalists to use, so that the disinformation campaign ran in a coordinated way instead of leaving a gap in the news.
+The agency also actively shaped the narrative. In the [[1933 Magenta UFO CrashRetrieval|1933 Magenta UFO Crash/Retrieval]] case, Stefani suppressed unwanted stories and supplied a pre-fabricated cover story (the meteor explanation) for journalists to use, so that the disinformation campaign ran in a coordinated way instead of leaving a gap in the news.
 
 ## Integration with RS-33 Protocols
 

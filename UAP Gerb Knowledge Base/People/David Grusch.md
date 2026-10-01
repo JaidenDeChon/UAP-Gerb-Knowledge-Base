@@ -280,7 +280,7 @@ In sworn congressional testimony, Grusch alleged that UAP legacy programs are fu
 
 ## 1933 Magenta, Italy UFO Crash
 
-In his News Nation interview with journalist [[Ross Coulthart]], Grusch publicly identified the [[1933 Magenta UFO Crash/Retrieval|1933 Magenta, Italy UFO crash/retrieval]] as the first non-human intelligence craft forcibly recovered by U.S. forces. He said:
+In his News Nation interview with journalist [[Ross Coulthart]], Grusch publicly identified the [[1933 Magenta UFO CrashRetrieval|1933 Magenta, Italy UFO crash/retrieval]] as the first non-human intelligence craft forcibly recovered by U.S. forces. He said:
 
 > "In 1933 was the first recovery in Europe in Magenta, Italy. They recovered a partially intact vehicle. It's true, it's real. That actually happened. The Italian government moved it to a secure airbase in Italy for the rest of the fascist regime until 1944, 1945. And the Pope, Pius XII, back-channeled that — so the Vatican was involved — and told the Americans what the Italians had, and we ended up scooping it."
 

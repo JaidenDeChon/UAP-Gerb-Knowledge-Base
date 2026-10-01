@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-**William Brophy** (or his grandson, sources vary) claimed that biological entities or bodies were recovered from the [[1933 Magenta UFO Crash/Retrieval|1933 Magenta, Italy UFO crash]] site. Nothing in the original fascist-era Italian government materials provided to researcher [[Roberto Pinotti]] supports this claim.
+**William Brophy** (or his grandson, sources vary) claimed that biological entities or bodies were recovered from the [[1933 Magenta UFO CrashRetrieval|1933 Magenta, Italy UFO crash]] site. Nothing in the original fascist-era Italian government materials provided to researcher [[Roberto Pinotti]] supports this claim.
 
 ## Credibility Issues
 
@@ -13,7 +13,7 @@ According to UAP researcher analysis, Brophy was allegedly involved in other UFO
 
 ## Distinction from Authenticated Evidence
 
-The core [[1933 Magenta UFO Crash/Retrieval]] case rests on physical documents that have been forensically validated as authentic 1930s-era Italian government materials. Brophy's claims about bodies are not part of this documentary evidence and appear to be later additions or embellishments not supported by the original source materials.
+The core [[1933 Magenta UFO CrashRetrieval|1933 Magenta UFO Crash/Retrieval]] case rests on physical documents that have been forensically validated as authentic 1930s-era Italian government materials. Brophy's claims about bodies are not part of this documentary evidence and appear to be later additions or embellishments not supported by the original source materials.
 
 ## Sources
 

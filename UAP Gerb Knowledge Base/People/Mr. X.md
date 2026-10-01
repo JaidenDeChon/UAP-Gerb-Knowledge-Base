@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-**Mr. X** is the pseudonym of an anonymous Italian senator who in 1996 provided Italian UFO researcher [[Roberto Pinotti]] with original fascist-era government documents related to the [[1933 Magenta UFO Crash/Retrieval|1933 Magenta, Italy UFO crash/retrieval]]. The senator claimed to have inherited the documents from a family member who worked on [[Benito Mussolini]]'s alleged UFO program, the [[RS-33 (Gabinetto RS 33)]].
+**Mr. X** is the pseudonym of an anonymous Italian senator who in 1996 provided Italian UFO researcher [[Roberto Pinotti]] with original fascist-era government documents related to the [[1933 Magenta UFO CrashRetrieval|1933 Magenta, Italy UFO crash/retrieval]]. The senator claimed to have inherited the documents from a family member who worked on [[Benito Mussolini]]'s alleged UFO program, the [[RS-33 (Gabinetto RS 33)]].
 
 ## Documents Provided
 
