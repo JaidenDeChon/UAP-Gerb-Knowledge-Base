@@ -16,7 +16,7 @@ According to the Wilson-Davis memo, the meeting opened with Wilson bringing up S
 
 ## Confirmation of Authenticity
 
-Shannon later confirmed the authenticity of the Wilson-Davis memo in a 2022 interview with Jay Anderson for the Project Unity podcast. Gerb gives his confirmation particular weight for two reasons: he managed special projects at Los Alamos, one of the most sensitive research facilities in the United States, and he was directly involved in setting up the meeting. In the video's weighing of the memo, Shannon stands with [[Chris Mellon]], [[Luis Elizondo]], [[Ross Coulthart]] and [[Richard Dolan]] among those who attest to it.
+Shannon later confirmed the authenticity of the Wilson-Davis memo in a 2022 interview with Jay Anderson for the Project Unity podcast. Gerb gives his confirmation particular weight for two reasons: he managed special projects at Los Alamos, one of the most sensitive research facilities in the United States, and he was directly involved in setting up the meeting. When the video weighs the memo, it counts Shannon with [[Chris Mellon]], [[Luis Elizondo]], [[Ross Coulthart]] and [[Richard Dolan]] among those who vouch for it.
 
 ## Notes from the 1985 Advanced Theoretical Physics Working Group
 
@@ -27,7 +27,7 @@ From 20 to 25 May 1985, [[BDM International]] hosted a classified Advanced Theor
 - an organization that "collects, manages, and destroys" UFO information;
 - a plan to approach [[Donald M. Kerr]], a future SAIC executive, for "influence and money", and elsewhere the entry "Don K/ET" beside other names, which Gerb takes to mean Kerr.
 
-Gerb cites the Argentina hotspot as part of the growing evidence for a classified Navy program that tracks UAP at sea, and points to Shannon's position in highly sensitive government research as lending it weight. In his DUMBs video he wonders whether the working group, Stubblebine, a 1985 BDM study of deep-basing ICBMs and the working group [[Philip J. Corso]] described are connected. In his SAIC video he says he would like to speak to Shannon himself.
+Gerb cites the Argentina hotspot as part of the growing evidence for a classified Navy program that tracks UAP at sea, and says Shannon's position in highly sensitive government research gives it weight. In his DUMBs video he wonders whether the working group, Stubblebine, a 1985 BDM study of deep-basing ICBMs and the working group [[Philip J. Corso]] described are connected. In his SAIC video he says he would like to speak to Shannon himself.
 
 ## On the Record
 
@@ -41,7 +41,7 @@ items:
     where: "BDM International"
     with:
       - "John B. Alexander"
-    note: "Notes from the classified McLean meetings, published in 2022. Mention a major engineering project under Inman, an underwater UFO hotspot off Argentina, a group that destroys UFO information, and a plan to approach Donald Kerr."
+    note: "Notes from the classified meetings in McLean, published in 2022. They mention a major engineering project under Inman, an underwater UFO hotspot off Argentina, a group that destroys UFO information, and a plan to approach Donald Kerr."
     source: "UFO Legacy Programs - Science Applications International Corporation (SAIC)"
   - date: "2022"
     kind: interview

@@ -15,7 +15,7 @@ McKenzie was working at a fabric store in a San Diego mall in 1992 when a part-t
 
 ## Contracts with no activity
 
-McKenzie's duties picked up when letters arrived from the U.S. military and defense contractors asking for project report updates. Her superiors told her to answer with a generic "we're working on it". When she pulled the relevant files and disks, she found that every contract held only two or three form letters saying "it's being worked on" and no other activity at all. Some of the contracts were recent, and some were several years old and worth millions of dollars. Some of the letters were signed by senior SAIC personnel and some were unsigned. She reported this to Sophia, who reportedly worked under SAIC's head scientist, and Sophia grew furious. McKenzie was ordered to hand over all the files and disks and forget the matter.
+McKenzie's duties picked up when letters arrived from the U.S. military and defense contractors asking for project report updates. Her superiors told her to answer with a generic "we're working on it". When she pulled the relevant files and disks, she found that every contract held only two or three form letters saying "it's being worked on" and no other activity at all. A few contracts were recent; others were several years old and worth millions of dollars. Senior SAIC personnel had signed some of the letters, and the rest were unsigned. She reported this to Sophia, who reportedly worked under SAIC's head scientist, and Sophia grew furious. McKenzie was ordered to hand over all the files and disks and forget the matter.
 
 In the short time she remained, McKenzie was harassed by her head supervisor, a man named Stuart Stanley. She left after choking on food at work while her immediate supervisor watched without helping or calling an ambulance. Searching the early internet afterwards, she found Sophia's photograph, with a different first name and the same surname, on a CIA web page listing deceased agents. This "Sophia" had supposedly died in 1987 or 1988, years before McKenzie met her.
 
@@ -43,7 +43,7 @@ responses:
     cue: 3838
   - by: "Gerb"
     stance: host
-    text: "SAIC ran enormous contracts with no activity on them, implying the money was funneled from legitimate projects into black budget operations."
+    text: "SAIC ran enormous contracts with no activity on them, which suggests the money was funneled from legitimate projects into black budget operations."
     cue: 3859
 ---
 ::
@@ -52,11 +52,11 @@ responses:
 
 The Disclosure Project gathered dozens of military, intelligence and government witnesses who said UAP programs are real; many of them spoke at its May 2001 event at the [[National Press Club]], and their accounts were compiled in a briefing document. McKenzie's account appears there, from her March 2001 interview:
 
-- Of the government contracts behind hundreds of millions of dollars awarded to SAIC, most showed almost no activity for what they were worth.
+- Most of the government contracts that brought SAIC hundreds of millions of dollars showed almost no activity for what they were worth.
 - She concluded that black budget money is hidden inside legitimate SAIC programs and contracts to fund classified projects without congressional oversight or public accountability.
 - After she raised these discrepancies inside SAIC, she was harassed within the company.
 
-Gerb treats this testimony as the starting point for his case that SAIC is a channel for hiding UAP-related or black program funding inside ordinary defense budgets. He sets two other things beside it. Commander [[Will Miller]], one of the key figures in the [[Wilson-Davis Memo]], named SAIC among the civilian contractors where any "keepers of the keys" would reside, and several SAIC contract announcements for [[Naval Surface Warfare Center Crane]] were removed from the company's website around January 2024.
+Gerb treats this testimony as the starting point for his case that SAIC is a channel for hiding UAP-related or black program funding inside ordinary defense budgets. He sets two other things beside it. Commander [[Will Miller]], a central figure in the [[Wilson-Davis Memo]], named SAIC among the civilian contractors where any "keepers of the keys" would reside, and several SAIC contract announcements for [[Naval Surface Warfare Center Crane]] were removed from the company's website around January 2024.
 
 ## Rediscovered tape
 

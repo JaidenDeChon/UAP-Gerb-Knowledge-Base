@@ -13,7 +13,7 @@ Scott and Suzanne Ramsey are an American couple who research UFOs. They are best
 
 Building on [[William Steinman]]'s 1986 book, the Ramseys spent years finding people who were in the Aztec area in 1948 and recording what they remembered. Gerb draws on their work for the account of oil worker [[Doug Noland]], and in 1999 [[Ken Farley]] described the crash site to Scott Ramsey on his deathbed. Rancher [[Valentine Archuleta]] had first told his story to Steinman in 1982; the Ramseys looked for the cliff he said the disc struck, and believe they found it. Their book also names policeman [[Manuel Sandoval]] as one of the officers at the scene, although, as [[Kevin Randle]] pointed out in a 2012 review, they did not interview him: his account reached them through a relative. In 2001 Scott Ramsey interviewed "George," a USAF airman who said he kept personnel records for the recovery at Walker Air Force Base. The couple also met Lee Crane, who recalled Air Force radar personnel describing ducks killed by microwave radar.
 
-Their archival work is just as central to the case as Gerb presents it:
+Their finds in the archives matter just as much to the case as Gerb tells it:
 
 - In [[Frank Scully]]'s archive they found the recording of [[Silas Newton]]'s 1950 University of Denver lecture, Newton's chalkboard drawings, and his unfinished 1954 autobiography.
 - They found and reproduced the AFOSI interrogation of radio man [[George Koehler]].

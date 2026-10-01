@@ -23,7 +23,7 @@ On December 4, 2020, Fox appeared with [[Jacques Vallee]] on episode #1574 of th
 
 ## The Holloman Film
 
-In an interview with [[Jesse Michaels]], Fox described a film of a UFO landing at Holloman Air Force Base, which his friend Allan Sandler had seen. In the 1970s Sandler and his co-producer Robert Emenegger, then working on a UAP documentary, were shown the film by two Air Force men and licensed to use it, but the licence was soon withdrawn. Gerb's Dugway video picks up the story because one of the two men, Colonel Weinbrenner, reportedly said on his deathbed that Utah is where the alien bodies are stored.
+In an interview with [[Jesse Michaels]], Fox described a film of a UFO landing at Holloman Air Force Base, which his friend Allan Sandler had seen. In the 1970s Sandler and his co-producer Robert Emenegger, then working on a UAP documentary, were shown the film by two Air Force men and licensed to use it, but the licence was soon withdrawn. Gerb's video on Dugway picks up the story because one of the two men, Colonel Weinbrenner, reportedly said on his deathbed that Utah is where the alien bodies are stored.
 
 ## Sources
 
