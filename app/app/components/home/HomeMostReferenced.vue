@@ -9,9 +9,11 @@ import { portraitAlt, portraitCredit } from '@/utils/portrait'
 /**
  * "Most referenced": the entries the rest of the wiki links to most, one
  * kind at a time (People, Organizations, Operations, Events, Locations,
- * Concepts). Cards follow `::wiki-roster`'s look (a person's portrait across
- * the top, eased into the card) plus the lead and a meter of how many entries
- * link in. Served from the baked link graph (`/api/top`), so it updates with
+ * Concepts). Cards follow `::wiki-roster`'s look (a person's whole portrait
+ * across the top, eased into the card) plus the lead and a meter of how many
+ * entries link in. Cards with and without a portrait differ in height, so
+ * where two or more columns fit they're packed as a mosaic (useMosaic) that
+ * takes the least height it can; on a phone they're a swipeable carousel. Served from the baked link graph (`/api/top`), so it updates with
  * every build and needs no authoring.
  */
 const PER = 6
@@ -29,7 +31,14 @@ const groups = computed(() => data.value ?? [])
 const active = ref<Category>('People')
 const current = computed(() =>
   groups.value.find(g => g.category === active.value) ?? groups.value[0])
-const max = computed(() => Math.max(1, ...(current.value?.entries ?? []).map(e => e.links)))
+const entries = computed(() => current.value?.entries ?? [])
+const max = computed(() => Math.max(1, ...entries.value.map(e => e.links)))
+
+// Same numbers as the fallback grid's CSS (538px and 812px containers).
+const { root, layout, cardStyle, setCard, pending } = useMosaic(
+  () => entries.value.length,
+  { gap: 10, minColumn: 264, ready: () => status.value === 'success' },
+)
 
 const ICONS: Partial<Record<Category, Component>> = {
   People: Users,
@@ -43,6 +52,7 @@ const iconFor = (category: Category): Component => ICONS[category] ?? FileText
 
 /** "Linked from 124 entries, 36 of them videos". */
 function counts(entry: TopEntry): string {
+  if (entry.videos === entry.links) return `Linked from ${entry.links} ${entry.links === 1 ? 'video' : 'videos'}`
   const links = `Linked from ${entry.links} ${entry.links === 1 ? 'entry' : 'entries'}`
   return entry.videos ? `${links}, ${entry.videos} of them ${entry.videos === 1 ? 'a video' : 'videos'}` : links
 }
@@ -72,25 +82,35 @@ function counts(entry: TopEntry): string {
       </button>
     </div>
 
-    <ol v-if="current" class="ufo-top-grid" :aria-label="`Most referenced ${CATEGORY_LABEL[current.category].toLowerCase()}`">
-      <li v-for="(entry, i) in current.entries" :key="entry.path">
-        <NuxtLink :to="entry.path" class="ufo-top-card">
-          <!-- Every card gets the same band, so the rows line up: a person's
-               portrait, cropped from the top, or the kind's icon. -->
-          <div class="ufo-top-band" :style="{ '--top-mark': categoryMark(entry.category) }">
-            <img
-              v-if="entry.image"
-              :src="entry.image.src"
-              :width="entry.image.width"
-              :height="entry.image.height"
-              :alt="portraitAlt(entry.title)"
-              :title="portraitCredit(entry.image)"
-              loading="lazy"
-              decoding="async"
-              class="ufo-top-portrait ufo-fade"
-            >
-            <component :is="iconFor(entry.category)" v-else class="ufo-top-glyph" aria-hidden="true" />
-          </div>
+    <ol
+      v-if="current"
+      ref="root"
+      class="ufo-top-grid"
+      :class="{ 'is-pending': pending, 'is-mosaic': layout }"
+      :style="layout ? { height: `${layout.height}px` } : undefined"
+      :aria-label="`Most referenced ${CATEGORY_LABEL[current.category].toLowerCase()}`"
+    >
+      <li
+        v-for="(entry, i) in entries"
+        :key="entry.path"
+        :ref="el => setCard(i, el)"
+        class="ufo-top-item"
+        :style="cardStyle(i)"
+      >
+        <NuxtLink :to="entry.path" class="ufo-top-card" :class="{ 'has-portrait': entry.image }">
+          <!-- ::wiki-roster's card: the whole portrait across the top at its
+               own shape, eased into the card, with the text on its faded foot. -->
+          <img
+            v-if="entry.image"
+            :src="entry.image.src"
+            :width="entry.image.width"
+            :height="entry.image.height"
+            :alt="portraitAlt(entry.title)"
+            :title="portraitCredit(entry.image)"
+            loading="lazy"
+            decoding="async"
+            class="ufo-top-portrait ufo-fade"
+          >
           <div class="ufo-top-content">
             <div class="flex items-center justify-between gap-2">
               <Badge variant="outline" class="bg-card/70">
@@ -162,43 +182,54 @@ function counts(entry: TopEntry): string {
 }
 
 /* Phone: a swipeable carousel bleeding to the page gutters, as the
-   "Recently processed" strip does. From 36rem it settles into a grid. */
+   "Recently processed" strip does. From 538px (two 264px columns and the
+   gap, useMosaic's numbers) a grid, which useMosaic then packs as a mosaic
+   once it has measured the cards. */
 .ufo-top-grid {
-  @apply -mx-8 flex snap-x snap-mandatory gap-3 overflow-x-auto scroll-px-8 px-8 pb-1;
+  @apply -mx-8 flex snap-x snap-mandatory items-start gap-3 overflow-x-auto scroll-px-8 px-8 pb-1;
   scrollbar-width: none;
   overscroll-behavior-x: contain;
 }
 .ufo-top-grid::-webkit-scrollbar {
   display: none;
 }
-.ufo-top-grid > li {
-  @apply flex w-[78%] max-w-[300px] shrink-0 snap-start;
+.ufo-top-item {
+  @apply w-[78%] max-w-[300px] shrink-0 snap-start;
+  transition: opacity var(--dur-base) var(--ease-standard);
 }
-@container (min-width: 36rem) {
+@container (min-width: 538px) {
   .ufo-top-grid {
-    @apply mx-0 grid grid-cols-2 gap-2.5 overflow-visible px-0 pb-0;
+    @apply mx-0 grid grid-cols-2 items-start gap-2.5 overflow-visible px-0 pb-0;
   }
-  .ufo-top-grid > li {
+  .ufo-top-item {
     @apply w-auto max-w-none;
   }
+  .ufo-top-grid.is-pending .ufo-top-item {
+    opacity: 0;
+  }
 }
-@container (min-width: 42rem) {
+@container (min-width: 812px) {
   .ufo-top-grid {
     @apply grid-cols-3;
   }
 }
+.ufo-top-grid.is-mosaic {
+  display: block;
+  position: relative;
+}
+@media (prefers-reduced-motion: reduce) {
+  .ufo-top-item {
+    transition: none;
+  }
+}
 
-/* ::wiki-roster's card: neutral surface, hairline border, the portrait
-   across the top eased into the card, the text pulled onto its faded foot. */
 .ufo-top-card {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
+  display: block;
   overflow: hidden;
   border: 1px solid hsl(var(--border));
   border-radius: 8px;
   background: hsl(var(--card));
-  transition: border-color var(--dur-fast) var(--ease-standard), background-color var(--dur-fast) var(--ease-standard);
+  transition: border-color var(--dur-fast) var(--ease-standard);
 }
 .ufo-top-card:hover {
   border-color: hsl(var(--foreground) / 0.35);
@@ -207,38 +238,20 @@ function counts(entry: TopEntry): string {
   outline: 2px solid hsl(var(--ring));
   outline-offset: 2px;
 }
-.ufo-top-band {
-  position: relative;
-  display: grid;
-  height: 120px;
-  place-items: center;
-  overflow: hidden;
-  background: linear-gradient(to bottom, hsl(var(--muted) / 0.5), transparent);
-}
 .ufo-top-portrait {
-  position: absolute;
-  inset: 0;
+  display: block;
   width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center 25%;
-  --ufo-fade-y-start: 45%;
+  height: auto;
+  --ufo-fade-y-start: 62%;
   -webkit-mask-image: var(--ufo-fade-y);
   mask-image: var(--ufo-fade-y);
 }
-.ufo-top-glyph {
-  width: 44px;
-  height: 44px;
-  color: var(--top-mark);
-  opacity: 0.35;
-}
 .ufo-top-content {
   position: relative;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  margin-top: -18px;
-  padding: 0 16px 14px;
+  padding: 12px 16px 14px;
+}
+.ufo-top-card.has-portrait .ufo-top-content {
+  margin-top: -20px;
 }
 .ufo-top-rank {
   font-family: var(--font-mono);
@@ -269,8 +282,7 @@ function counts(entry: TopEntry): string {
   display: flex;
   align-items: center;
   gap: 8px;
-  margin-top: auto;
-  padding-top: 10px;
+  margin-top: 10px;
 }
 .ufo-top-meter {
   position: relative;

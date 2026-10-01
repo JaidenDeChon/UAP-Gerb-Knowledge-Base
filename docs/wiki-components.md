@@ -1853,13 +1853,16 @@ The two pilots are `People/David Grusch.md` (36 videos: every component) and
 processed" on the home page. It has one button per kind (People,
 Organizations, Operations, Events, Locations, Concepts), and each button shows
 the six entries of that kind that the rest of the wiki links to most. The
-cards look like the roster's. A band across the top holds a person's portrait
-(cropped from the top and eased into the card with `ufo-fade`) or the kind's
-icon. Below it are a category badge and rank, the title, the first lines of
-the lead, and a meter of how many entries link in ("Linked from 124 entries,
-36 of them videos"). Every card has the same band, so the rows line up. When
-the container is narrower than 36rem, the cards become a swipeable carousel,
-like "Recently processed".
+cards are the roster's: a person's whole portrait across the top at its own
+shape, eased into the card with `ufo-fade`, and no band at all on a card
+without one. Below it are a category badge and rank, the title, the first
+lines of the lead, and a meter of how many entries link in ("Linked from 124
+entries, 36 of them videos"). Because the cards differ in height, wherever
+two or more columns fit they are packed as a mosaic that takes the least
+height it can, with the same `useMosaic` composable the roster uses
+(`composables/useMosaic.ts`, built on `layoutMosaic`). When the container is
+narrower than 538px, the cards become a swipeable carousel, like "Recently
+processed".
 
 The data comes from `/api/top` (`?per=N`, default 6, at most 24), which reads
 the baked link graph. `buildTopEntries` in `server/utils/topEntries.ts`

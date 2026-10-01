@@ -12,10 +12,8 @@ import {
   MapPin,
   Users,
 } from '@lucide/vue'
-import { useElementSize } from '@vueuse/core'
 import { CATEGORY_ICON, type Category, type NotePortrait } from '#shared/types/wiki'
 import { Badge } from '@/components/ui/badge'
-import { layoutMosaic, mosaicColumns } from '@/utils/mosaic'
 import { portraitAlt, portraitCredit } from '@/utils/portrait'
 
 interface Entry { name: string, role?: string, note?: string }
@@ -53,79 +51,14 @@ function iconFor(name: string): Component {
 
 // -- Mosaic ------------------------------------------------------------------
 // Cards with a portrait stand much taller than cards without, so wherever
-// there's room for more than one column the roster is a mosaic rather than
-// rows (where each row is as tall as its tallest card). Which card goes in
-// which column is worked out by `layoutMosaic` so the columns end as level
-// as they can, and the section after the roster isn't pushed down by one
-// long column. Until the cards are measured (and on the server) it's the
-// plain grid, whose columns are the same width, so measuring there gives the
-// same heights. The numbers below match that grid's CSS.
-const GAP = 10
-const MIN_COLUMN = 264
-
-const root = ref<HTMLElement | null>(null)
-const { width } = useElementSize(root)
-const columns = computed(() => mosaicColumns(width.value, MIN_COLUMN, GAP))
-
-// Function refs, not a `ref` array: a `v-for` ref array isn't guaranteed to
-// follow source order.
-const cardEls: Array<HTMLElement | null> = []
-const heights = ref<number[]>([])
-
-function measure(): void {
-  const next = props.entries.map((_, i) => cardEls[i]?.offsetHeight ?? 0)
-  if (next.some((h, i) => h !== heights.value[i]) || next.length !== heights.value.length)
-    heights.value = next
-}
-
-let observer: ResizeObserver | undefined
-function setCard(i: number, el: unknown): void {
-  const prev = cardEls[i]
-  const next = el instanceof HTMLElement ? el : null
-  if (prev === next) return
-  if (prev) observer?.unobserve(prev)
-  cardEls[i] = next
-  if (next) observer?.observe(next)
-}
-
-onMounted(() => {
-  observer = new ResizeObserver(measure)
-  for (const el of cardEls) if (el) observer.observe(el)
-  measure()
-})
-onBeforeUnmount(() => observer?.disconnect())
-watch(() => props.entries.length, (n) => {
-  cardEls.length = n
-  nextTick(measure)
-})
-
-const layout = computed(() => {
-  if (columns.value < 2 || !ready.value) return null
-  const h = heights.value
-  if (h.length !== props.entries.length || h.some(v => !v)) return null
-  return layoutMosaic(h, columns.value, GAP)
-})
-
-/** One column's width, as a CSS length (the gaps come out of the whole). */
-const columnWidth = computed(() =>
-  `((100% - ${(columns.value - 1) * GAP}px) / ${columns.value})`)
-
-function cardStyle(i: number): Record<string, string> | undefined {
-  const item = layout.value?.items[i]
-  if (!item) return undefined
-  return {
-    position: 'absolute',
-    top: `${item.top}px`,
-    left: `calc(${item.column} * (${columnWidth.value} + ${GAP}px))`,
-    width: `calc(${columnWidth.value})`,
-  }
-}
-
-// Held back until the names resolve (a card that turns out to have a
-// portrait grows by its photo band) and, in a mosaic, until the cards have
-// been placed: both should happen before anyone sees the cards.
-const pending = computed(() =>
-  !ready.value || !width.value || (columns.value > 1 && !layout.value))
+// there's room for more than one column the roster is a mosaic (see
+// useMosaic). The numbers match the fallback grid's CSS below. The cards are
+// held back until the names resolve (a card that turns out to have a
+// portrait grows by its photo band) and, in a mosaic, until they're placed.
+const { root, layout, cardStyle, setCard, pending } = useMosaic(
+  () => props.entries.length,
+  { gap: 10, minColumn: 264, ready },
+)
 </script>
 
 <template>
