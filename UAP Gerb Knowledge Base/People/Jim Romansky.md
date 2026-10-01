@@ -27,7 +27,7 @@ Romansky, who said he had been a machinist for almost 30 years, described the ob
 - Raised band: a ring or "bumper" 8 to 10 inches wide around the object.
 - Markings: strange symbols on the band, "characters of broken and straight lines, dots, rectangles and circles", which he compared to ancient Egyptian hieroglyphics.
 
-Some believe the object was a Soviet space capsule and the markings Cyrillic. Romansky told Stringfield he knew the markings were not Russian. His father could read and write Polish and Russian, and when Romansky asked him to write something in both, he found that "the Polish and Russian writing I seen doesn't come nowhere near" the markings on the object. Gerb stresses this point.
+Some believe the object was a Soviet space capsule and the markings Cyrillic. Romansky told Stringfield he knew the markings were not Russian, a point Gerb stresses. His father could read and write Polish and Russian, and when Romansky asked him to write something in both, he found that "the Polish and Russian writing I seen doesn't come nowhere near" the markings on the object.
 
 ## Going Public
 

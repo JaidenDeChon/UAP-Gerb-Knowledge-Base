@@ -8,7 +8,7 @@ tags:
   - person
 ---
 
-Richard Dolan is an American historian, author and UFO researcher, best known for his book series *UFOs and the National Security State*, a chronological history of how the US military and intelligence agencies have dealt with UFOs since the Second World War. In Gerb's videos he appears as a source rather than a subject: the podcast on which [[James Rigny]] explained where the [[Wilson-Davis Memo]] came from, the man who in 2021 read out a leak about exotic propulsion projects at [[Tonopah Test Range (TTR)|Tonopah]], and the researcher who says he identified the people behind the Zodiac crash retrieval story. Gerb calls him "the legend Richard Dolan" and "respected UFO historian Richard Dolan".
+Richard Dolan is an American historian, author and UFO researcher, best known for his book series *UFOs and the National Security State*, a chronological history of how the US military and intelligence agencies have dealt with UFOs since the Second World War. Gerb's videos draw on him as a source. [[James Rigny]] explained where the [[Wilson-Davis Memo]] came from on Dolan's podcast, Dolan read out a leak in 2021 about exotic propulsion projects at [[Tonopah Test Range (TTR)|Tonopah]], and he says he identified the people behind the Zodiac crash retrieval story. Gerb calls him "the legend Richard Dolan" and "respected UFO historian Richard Dolan".
 
 ## Career
 
@@ -45,7 +45,7 @@ items:
 
 ## The Advanced Group Six Leak
 
-In 2021 Dolan read out information leaked to him by a source familiar with the classified [[UAP Task Force]] report presented to Congress. It listed energy pulse, ion, anti-gravity, antimatter, ramjet hydrogen and compressed nuclear propulsion, and advanced uses of exotic elements from recovered non-human technology, in projects controlled by [[DARPA]], managed by a group called "Advanced Group Six" and paid for from black intelligence funds and partly by contractors. Prototypes were said to fly only at [[Area 51]] and Tonopah. Gerb says Dolan is the only researcher he has seen link Tonopah to legacy programs. Because [[Lockheed Martin]] ran [[Sandia National Laboratories]], and through it Tonopah, until 2017, Gerb reads the leak as implying Lockheed's involvement. In his Sandia video he wonders whether the Nevada Test Site's Area 6 is tied to the same programs, and floats, without support, that "Advanced Group Six" takes its name from Area 6.
+In 2021 Dolan read out information leaked to him by a source familiar with the classified [[UAP Task Force]] report presented to Congress. It listed energy pulse, ion, anti-gravity, antimatter, ramjet hydrogen and compressed nuclear propulsion, and advanced uses of exotic elements from recovered non-human technology, in projects controlled by [[DARPA]], managed by a group called "Advanced Group Six" and paid for from black intelligence funds and partly by contractors. Prototypes were said to fly only at [[Area 51]] and Tonopah. Gerb says Dolan is the only researcher he has seen link Tonopah to legacy programs. Because [[Lockheed Martin]] ran [[Sandia National Laboratories]], and through it Tonopah, until 2017, Gerb reads the leak as implying Lockheed's involvement. In his Sandia video he wonders whether the Nevada Test Site's Area 6 is tied to the same programs, and suggests, without offering support, that "Advanced Group Six" takes its name from Area 6.
 
 ## The Zodiac Story
 

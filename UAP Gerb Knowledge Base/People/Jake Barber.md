@@ -11,7 +11,7 @@ Jake Barber is a former US Air Force airman and combat controller who says he la
 
 ## Background
 
-Barber served in the Air Force as an aerospace mechanic in the late 1990s before joining its combat control special operations field, where he earned a NATO top-secret clearance through service in Bosnia. He says he went on to work for the Department of Defense and the intelligence community in a non-official capacity, including as a contracted helicopter pilot on retrieval missions. According to Gerb, Barber was in the audience at [[Steven Greer]]'s June 2023 whistleblower symposium at the National Press Club, the event that featured the first public disclosures of [[Michael Herrera]].
+Barber served in the Air Force as an aerospace mechanic in the late 1990s before joining its combat control special operations field, where he earned a NATO top-secret clearance through service in Bosnia. He says he went on to work for the Department of Defense and the intelligence community in a non-official capacity, including as a contracted helicopter pilot on retrieval missions. According to Gerb, Barber was in the audience at [[Steven Greer]]'s June 2023 whistleblower symposium at the National Press Club, where [[Michael Herrera]] made his first public disclosures.
 
 ## Weapons to Disable Craft
 
