@@ -1282,13 +1282,13 @@ Source: `app/app/components/content/WikiRecord.vue` (normalisation in
 
 What a person put on the record, in date order: memos, letters, sworn
 testimony, interviews, books, papers, complaints and public statements. It
-answers "what did they actually say or write, and where?" without the reader
-hunting through every video.
+answers "what did they actually say or write, and where?" so the reader
+doesn't have to hunt through every video.
 
 What it renders:
 
-- **One card per item**, the date in a column beside it (above it below a
-  34rem container). Each card has its kind as a word plus an icon ("Memo",
+- **One card per item**, with the date in a column beside it (or above it
+  when the container is narrower than 34rem). Each card has its kind as a word plus an icon ("Memo",
   "Testimony", "Interview"), the title, where it was given or published (a
   link when that's a page title), a note, an optional verbatim quote, the
   other people involved as entity chips ("With"), and the page it was drawn
@@ -1796,7 +1796,7 @@ Worth knowing if you're touching this component:
 ## People pages
 
 Every note in `People/` gets three blocks from the page template
-(`app/app/pages/wiki/[...slug].vue`), with no authoring. All three read
+(`app/app/pages/wiki/[...slug].vue`) without anyone writing them. All three read
 `/api/person` (`server/api/person.get.ts`), which derives them from the baked
 link graph with `buildPersonProfile` (`server/utils/personProfile.ts`,
 unit-tested in `personProfile.test.ts`), fetched once per page through
@@ -1836,9 +1836,9 @@ active_to: 2026       # a year, or "present"
 Video publish dates come from each summary's `date:` frontmatter, baked as
 `BakedVideo.pub` (`publishDate` in `wiki/videos.ts`).
 
-Authored profiles (a career chart, a timeline, a record, a cast) are added
-by the `person-enricher` agent (`.claude/agents/person-enricher.md`), most
-connected person first, and listed in `UAP Gerb Knowledge Base/.rich_people.json`.
+The `person-enricher` agent (`.claude/agents/person-enricher.md`) adds
+authored profiles (a career chart, a timeline, a record, a cast), most
+connected person first, and lists each one in `UAP Gerb Knowledge Base/.rich_people.json`.
 The two pilots are `People/David Grusch.md` (36 videos: every component) and
 `People/Robert Scandrett.md` (one video: corrected prose, no components).
 

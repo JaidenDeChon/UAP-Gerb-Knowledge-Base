@@ -21,13 +21,13 @@ Run `python3 scripts/enrich_people.py status` and tell the user how many People 
 
 1. Dispatch the `person-enricher` agent in the foreground, one at a time. Parallel runs would pick the same person and collide on the ledger. Pass the page if one was given.
 2. Read its report:
-   - **`ALL DONE`** → stop.
-   - **A blocker** → tell the user what's blocking and stop.
-   - **`## Question for the user`** → handle it exactly as the enrich-videos skill does (Approve, Decline, Change it; record the answer in `docs/component-proposals.md` and commit).
+   - If it says `ALL DONE`, stop.
+   - If it reports a blocker, tell the user what's blocking and stop.
+   - If it has a `## Question for the user`, handle it exactly as the enrich-videos skill does (Approve, Decline, Change it; record the answer in `docs/component-proposals.md` and commit).
 3. Dispatch the `page-humanizer` agent on the page the enricher just committed (pass its path), so every new sentence and caption is humanized. Spot-check its commit as the humanize-pages skill says.
 4. Push every 5 people, and at the end: `git push -u origin <current branch>`. If there's no open PR for the branch, open one. Never push to the default branch.
 5. Give the user a one-paragraph status per person: the dates added and their sources, any corrections, the components used.
 
 ## Pacing
 
-Each run reads every summary and transcript passage about one person and checks dates online, so a well-connected person takes a while. For an unattended loop, prefer `/loop /enrich-people 5` or a scheduled Routine that invokes this skill with a number.
+Each run reads every summary and transcript passage about one person and checks dates online, so a well-connected person can take a long time. For an unattended loop, prefer `/loop /enrich-people 5` or a scheduled Routine that invokes this skill with a number.
