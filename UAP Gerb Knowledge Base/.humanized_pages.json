@@ -6199,6 +6199,11 @@
     "sha256": "f59d02537f3ffb823c50df4b68c99ea5bef8d739e07c3afc187fb7007e70e987",
     "cold_reader": true
   },
+  "app/app/utils/affiliations.ts": {
+    "humanized_at": "2026-10-01T18:23:17Z",
+    "sha256": "adf4a91741193dd02a4e6ea6882ac0d0a33975050c1baa7fa7bed8e5845643ef",
+    "cold_reader": true
+  },
   "app/app/utils/chain.ts": {
     "humanized_at": "2026-09-25T16:52:39Z",
     "sha256": "3d4bb78a6e773b1abf3a41e0bf508f753c1634d15062e5345e90413eaadcb6fa",
