@@ -19,7 +19,7 @@ During the night of March 24, 1967, Salas received the first in a series of incr
 
 At the same time, alarms and indicators on Salas's launch commander console began to fail in rapid succession. All 10 Minuteman nuclear missiles showed red fault status, a guidance and control system failure state that left every missile unable to launch. The craft then departed. The missiles stayed inoperable for the rest of the night, though a later inspection found no permanent damage.
 
-The following morning, squadron commander Colonel George Eldridge briefed Salas and his crew. Eldridge confirmed the incident was not part of any Air Force exercise and offered no explanation for why it had occurred. An officer from the Air Force Office of Security and Intelligence informed the Malmstrom crew that the event was classified Secret and directed them not to discuss it.
+The following morning, squadron commander Colonel George Eldridge briefed Salas and his crew. Eldridge confirmed the incident was not part of any Air Force exercise and offered no explanation for why it had occurred. An officer from the Air Force Office of Security and Intelligence told the Malmstrom crew that the event was classified Secret and ordered them not to discuss it.
 
 ## Corroboration and Documentation
 
@@ -35,7 +35,7 @@ With four sworn statements about the same incident, Salas's among them, the Malm
 
 ## Significance
 
-Salas's account is one of the main cases cited to establish a pattern of UFO interference with US nuclear weapons systems during the Cold War (see [[UFO-Nuclear Connection]]). Gerb pairs it with [[Robert Jacobs]]'s account of a UFO striking a dummy warhead in 1964, and treats the simultaneous failure of 10 ICBMs as a demonstration of an apparent capability to disable nuclear deterrent assets without physical access. [[David Grusch]] confirmed the Malmstrom incident as fact in his interview with [[Ross Coulthart]] on NewsNation. Gerb also cites Salas when weighing other accounts: the red-orange colour of the Malmstrom object in the [[Infographic Show Whistleblower]]'s Vietnam story, and the UFO activity reported around the 1953 nuclear tests in the Kingman case. In his whistleblower series he groups Salas with [[Michael Herrera]] as witnesses whose testimony is sworn into the legal record.
+Salas's account is one of the main cases cited to establish a pattern of UFO interference with US nuclear weapons systems during the Cold War (see [[UFO-Nuclear Connection]]). Gerb pairs it with [[Robert Jacobs]]'s account of a UFO striking a dummy warhead in 1964, and treats the simultaneous failure of 10 ICBMs as showing an apparent ability to disable nuclear deterrent assets without physical access. [[David Grusch]] confirmed the Malmstrom incident as fact in his interview with [[Ross Coulthart]] on NewsNation. Gerb also cites Salas when weighing other accounts: the red-orange colour of the Malmstrom object in the [[Infographic Show Whistleblower]]'s Vietnam story, and the UFO activity reported around the 1953 nuclear tests in the Kingman case. In his whistleblower series he groups Salas with [[Michael Herrera]] as witnesses whose testimony is sworn into the legal record.
 
 ## Sources
 

@@ -62,7 +62,7 @@ items:
 
 ## Black Budget Research
 
-The part of Fitts's work most cited in UAP research is her analysis of what she calls unauthorized or "missing" government spending. In 2017 she and Michigan State University economist Mark Skidmore, working from Inspector General reports, found as much as $21 trillion in unsupported accounting adjustments at the Department of Defense and the Department of Housing and Urban Development between 1998 and 2015. Fitts believes much of this money went to "clandestine military R&D". She has also suggested to the interviewer Dark Journalist that up to $60 trillion may have gone into secret space programs and UFO technology, and that technologies of unknown origin may be worth up to $150 trillion, and she credits [[Richard Dolan]]'s *UFOs and the National Security State* with describing the subject best.
+The part of Fitts's work most cited in UAP research is her analysis of what she calls unauthorized or "missing" government spending. In 2017 she and Michigan State University economist Mark Skidmore, working from Inspector General reports, found as much as $21 trillion in unsupported accounting adjustments at the Department of Defense and the Department of Housing and Urban Development between 1998 and 2015. Fitts believes much of this money went to "clandestine military R&D". She has also suggested to the interviewer Dark Journalist that up to $60 trillion may have gone into secret space programs and UFO technology, and that technologies of unknown origin may be worth up to $150 trillion. She credits [[Richard Dolan]]'s *UFOs and the National Security State* with describing the subject best.
 
 Gerb cites Fitts's findings as a plausible way UAP legacy programs could have been paid for over several decades. He argues that unauthorized DOD spending on this scale is more than enough to fund classified underground construction, retrieval operations, reverse engineering programs and the infrastructure around them, without Congress or the public knowing about the expenditures. He sets her figures beside [[David Grusch]]'s 2023 testimony that contractors' overcharging fed programs through IRAD, and calls contractors' own IRAD budgets "puny" by comparison.
 
@@ -74,7 +74,7 @@ Gerb suggests that this paper and the later Michigan State research on $21 trill
 
 ## Connection to the Wilson-Davis Memo
 
-In the [[Wilson-Davis Memo]], Admiral [[Thomas Wilson]] relayed that the "watch committee", the group that controlled access to the UAP legacy programs, told him their programs were reorganized after an audit in the 1990s nearly exposed them. Fitts's research covers the same period of irregular accounting by defense contractors. Gerb argues that it offers a financial mechanism by which UAP program funding could have looked to auditors like routine contract overcharging, as in the [[TRW]] lawsuit that [[Northrop Grumman]] settled in 2003.
+In the [[Wilson-Davis Memo]], Admiral [[Thomas Wilson]] relayed that the "watch committee", the group that controlled access to the UAP legacy programs, told him their programs were reorganized after an audit in the 1990s nearly exposed them. Fitts's research covers the same period of irregular accounting by defense contractors. Gerb argues that it points to a financial mechanism that could have made UAP program funding look to auditors like routine contract overcharging, as in the [[TRW]] lawsuit that [[Northrop Grumman]] settled in 2003.
 
 ## Sources
 
