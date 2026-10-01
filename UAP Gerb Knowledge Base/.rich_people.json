@@ -511,5 +511,61 @@
     ],
     "dates": "partial",
     "corrections": 4
+  },
+  "Albert Stubblebine": {
+    "enriched_at": "2026-10-01T20:39:22Z",
+    "videos": 7,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 3
+  },
+  "Stephanie O'Sullivan": {
+    "enriched_at": "2026-10-01T20:39:22Z",
+    "videos": 4,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 4
+  },
+  "Leslie Groves": {
+    "enriched_at": "2026-10-01T20:39:22Z",
+    "videos": 3,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 2
+  },
+  "Will Miller": {
+    "enriched_at": "2026-10-01T20:39:22Z",
+    "videos": 7,
+    "components": [
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "none",
+    "corrections": 2
+  },
+  "Dwight D. Eisenhower": {
+    "enriched_at": "2026-10-01T20:39:22Z",
+    "videos": 11,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 2
   }
 }
