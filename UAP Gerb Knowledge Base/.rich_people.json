@@ -1111,5 +1111,52 @@
     ],
     "dates": "verified",
     "corrections": 4
+  },
+  "Boyd Bushman": {
+    "enriched_at": "2026-10-01T22:04:00Z",
+    "videos": 2,
+    "components": [
+      "wiki-record",
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 0
+  },
+  "Bill Burns": {
+    "enriched_at": "2026-10-01T22:04:00Z",
+    "videos": 2,
+    "components": [],
+    "dates": "verified",
+    "corrections": 0
+  },
+  "John Greenewald": {
+    "enriched_at": "2026-10-01T22:04:00Z",
+    "videos": 5,
+    "components": [
+      "wiki-record",
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 1
+  },
+  "Edward J. Ruppelt": {
+    "enriched_at": "2026-10-01T22:04:00Z",
+    "videos": 7,
+    "components": [
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 4
+  },
+  "Lee M. Russ": {
+    "enriched_at": "2026-10-01T22:04:00Z",
+    "videos": 3,
+    "components": [
+      "wiki-affiliations"
+    ],
+    "dates": "partial",
+    "corrections": 3
   }
 }
