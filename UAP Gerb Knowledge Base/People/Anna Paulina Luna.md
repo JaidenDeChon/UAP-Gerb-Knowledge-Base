@@ -20,7 +20,7 @@ Burlison has described a meeting at which he and Luna met a whistleblower from a
 
 ## The Edwards Witness
 
-A 2024 intelligence briefing module in [[Steven Greer]]'s Disclosure Project Intelligence Archive describes a lieutenant colonel who managed pilots at Edwards Air Force Base and trained those who flew man-made UFOs, known in the vault as [[Ed (Witness 11063)]]. Greer introduced him to the Senate intelligence and armed services committees, and he was eager to testify openly before the House Oversight Committee, though responses from key members, Representatives Luna and Burchett, had not yet been received.
+A 2024 intelligence briefing module in [[Steven Greer]]'s Disclosure Project Intelligence Archive describes a lieutenant colonel who managed pilots at Edwards Air Force Base and trained those who flew man-made UFOs, known in the vault as [[Ed (Witness 11063)]]. Greer introduced him to the Senate intelligence and armed services committees, and he was eager to testify openly before the House Oversight Committee, though two key members, Representatives Luna and Burchett, had not yet replied.
 
 ## Later Oversight Work
 

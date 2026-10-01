@@ -9,7 +9,7 @@ tags:
   - person
 ---
 
-Dr. Edward U. Condon (1902–1974) was an American physicist at the University of Colorado Boulder. He directed the US Air Force-funded [[Condon Committee]] (1966–1968), the last official government UFO study before [[Project Blue Book]] was terminated. In "The Origin of the UFO Stigma", Gerb treats the committee as the last of five official efforts, after [[Project Sign]], [[Project Grudge]], Blue Book and the [[Robertson Panel]], that were presented as serious investigations but served to discredit the phenomenon in public. He points to a project memo that set out the committee's approach before any investigation, to Condon's own remark that he was "not supposed to reach that conclusion for another year", and to a summary that left out the cases the study could not explain. The [[Condon Report]], published in 1969, became the public and scientific foundation for the modern [[UFO Stigma]].
+Dr. Edward U. Condon (1902–1974) was an American physicist at the University of Colorado Boulder. He directed the US Air Force-funded [[Condon Committee]] (1966–1968), the last official government UFO study before [[Project Blue Book]] was terminated. In "The Origin of the UFO Stigma", Gerb treats the committee as the last of five official efforts, after [[Project Sign]], [[Project Grudge]], Blue Book and the [[Robertson Panel]], that were presented as serious investigations but served to discredit the phenomenon in public. He points to a project memo that set out the committee's approach before any investigation, to Condon's own remark that he was "not supposed to reach that conclusion for another year", and to a summary that left out the cases the study could not explain. The [[Condon Report]], published in 1969, gave the modern [[UFO Stigma]] its public and scientific basis.
 
 ## Career
 
@@ -25,7 +25,7 @@ The committee turned down offers of help from retired Marine Corps Major Donald 
 
 In 1966 the committee's second-in-command, [[Robert J. Low]], whom Gerb calls an alleged CIA asset, wrote to two University of Colorado administrators about how to present the project. "The trick," he wrote, would be to describe it so that "to the public it would appear a totally objective study but to the scientific community would present the image of a group of non-believers trying their best to be objective but having an almost zero expectation of finding a saucer." One way to do this was to stress investigation not of the physical phenomena but of "the psychology and sociology of persons and groups who report seeing UFOs." McDonald made the memo public in 1967.
 
-In late 1967, Condon said in a public lecture that he thought the government should not study UFOs because the subject was nonsense, adding: "but I'm not supposed to reach that conclusion for another year." Gerb calls this a very strange statement from a man contracted to investigate UFOs, not to have a conclusion already.
+In late 1967, Condon said in a public lecture that he thought the government should not study UFOs because the subject was nonsense, adding: "but I'm not supposed to reach that conclusion for another year." Gerb calls this a very strange statement from a man contracted to investigate UFOs before reaching any conclusion about them.
 
 ## The Condon Report
 

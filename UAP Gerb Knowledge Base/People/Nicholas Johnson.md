@@ -18,11 +18,11 @@ In May 2000, journalist [[Leslie Kean]] organized a conference titled *"Combatin
 
 Johnson analyzed the orbital data of the Soviet Venus probe Cosmos 96, which sceptics such as [[James Oberg]] had proposed as an explanation for the Kecksburg object. As Kean reported them, he reached three conclusions:
 
-1. **Cosmos 96 could not have been responsible.** Johnson obtained the coordinates of Cosmos 96 to calculate whether any part of it could have stayed in orbit after its re-entry that morning and later landed in Pennsylvania. He determined that it was "impossible that that could have been Cosmos 96."
+1. Cosmos 96 could not have been responsible. Johnson obtained the coordinates of Cosmos 96 to calculate whether any part of it could have stayed in orbit after its re-entry that morning and later landed in Pennsylvania. He determined that it was "impossible that that could have been Cosmos 96."
 
-2. **No man-made object landed.** Johnson went further: "there is no man-made object that came down over Pennsylvania" at about 5:00 p.m. on December 9, 1965. He said he had the databases and the knowledge to determine this even if the object had been part of some kind of secret experiment.
+2. No man-made object landed. Johnson went further: "there is no man-made object that came down over Pennsylvania" at about 5:00 p.m. on December 9, 1965. He said he had the databases and the knowledge to determine this even if the object had been part of some kind of secret experiment.
 
-3. **Project Corona was ruled out.** Johnson also eliminated [[Project Corona]], the US spy satellite program whose satellites dropped film canisters over the United States for retrieval, as a possible explanation.
+3. Project Corona was not the explanation either. Johnson ruled out [[Project Corona]], the US spy satellite program whose satellites dropped film canisters over the United States for retrieval, as a possible explanation.
 
 Johnson's analysis agreed with earlier findings. A NASA press release had said that Cosmos 96 came down over Canada about 13 hours before the Kecksburg event, and [[Stan Gordon]] had obtained records through FOIA from US Space Command and the Naval Surveillance Center putting its re-entry at about 3:18 a.m. that morning.
 

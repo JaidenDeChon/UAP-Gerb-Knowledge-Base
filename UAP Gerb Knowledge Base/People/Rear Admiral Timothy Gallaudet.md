@@ -76,7 +76,7 @@ In a NewsNation interview with investigative journalist [[Ross Coulthart]], Gall
 
 ## SOL Foundation Panel and Removed Footage
 
-On the [[Sol Foundation]]'s November 2023 panel, Gallaudet said that as an ocean scientist of three and a half decades he was mystified that more of his colleagues were not intellectually curious about what he called "the story of the century" happening in the water. He also described receiving the GIMBAL and GOFAST UAP videos, which were later mysteriously removed from his inbox. In a later tweet, he commented on an anomaly off Southern California, possibly USO-related, being scrubbed from Google Earth.
+On the [[Sol Foundation]]'s November 2023 panel, Gallaudet said that as an ocean scientist of three and a half decades he was mystified that more of his colleagues were not intellectually curious about what he called "the story of the century" happening in the water. He also described receiving the GIMBAL and GOFAST UAP videos, which later disappeared from his inbox without explanation. In a later tweet, he commented on an anomaly off Southern California, possibly USO-related, being scrubbed from Google Earth.
 
 ## 2024 White Paper: *Beneath the Surface*
 
@@ -92,7 +92,7 @@ The paper concludes that the study of UAP in the ocean should be made a national
 
 ## Naval Legacy Programs
 
-In Gerb's video on US Navy crash retrieval programs, Gallaudet's openness marks the end of a long line of Navy denials that Gerb traces back to Office of Naval Research physicist Urner Liddel's 1951 claim that all UFO reports were mirages or balloons. Gerb also cites Gallaudet's statement on the congressional record that, while he is aware of testimony about naval UFO legacy programs, he never directly encountered them and was not briefed on them during his Navy career. Gerb argues this fits programs compartmented within the Navy Special Program. In another video Gerb names Gallaudet, who speaks openly about UAP, as one sign of the Navy's long involvement with the subject, alongside the OPNAV regulations restricting UAP reporting and the [[Wilson-Davis Memo]].
+In Gerb's video on US Navy crash retrieval programs, Gallaudet's openness ends a long line of Navy denials, which Gerb traces back to Office of Naval Research physicist Urner Liddel's 1951 claim that all UFO reports were mirages or balloons. Gerb also cites Gallaudet's statement on the congressional record that, while he is aware of testimony about naval UFO legacy programs, he never directly encountered them and was not briefed on them during his Navy career. Gerb argues this fits programs compartmented within the Navy Special Program. In another video Gerb names Gallaudet, who speaks openly about UAP, as one sign of the Navy's long involvement with the subject, alongside the OPNAV regulations restricting UAP reporting and the [[Wilson-Davis Memo]].
 
 ## Sources
 
