@@ -355,5 +355,58 @@
     ],
     "dates": "partial",
     "corrections": 2
+  },
+  "Barry Goldwater": {
+    "enriched_at": "2026-10-01T20:34:54Z",
+    "videos": 6,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 2
+  },
+  "J. Robert Oppenheimer": {
+    "enriched_at": "2026-10-01T20:34:54Z",
+    "videos": 5,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 2
+  },
+  "Ryan S. Wood": {
+    "enriched_at": "2026-10-01T20:34:54Z",
+    "videos": 9,
+    "components": [
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "partial",
+    "corrections": 5
+  },
+  "Bob Lazar": {
+    "enriched_at": "2026-10-01T20:34:54Z",
+    "videos": 15,
+    "components": [],
+    "dates": "partial",
+    "corrections": 2
+  },
+  "Bill Perry": {
+    "enriched_at": "2026-10-01T20:34:54Z",
+    "videos": 8,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 4
   }
 }
