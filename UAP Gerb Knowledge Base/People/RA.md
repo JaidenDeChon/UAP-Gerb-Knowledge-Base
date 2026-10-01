@@ -7,7 +7,7 @@ tags:
   - person
 ---
 
-RA is an anonymous US Army Special Forces operator, a Green Beret who served in the 1st Special Forces Command (Airborne) as an 18 Bravo weapons sergeant, a specialty the Army describes as among the most highly skilled soldiers in the world. 18 Bravos operate and maintain a wide range of weapons, including small arms, heavy weapons, bombs and mines, both allied and foreign. RA says that sometime between 2013 and 2015, while holding a TS/SCI clearance, he was sent to the [[Naval Surface Warfare Center Crane]] in Indiana for a weapons course (see [[RA's Weapons Training Course at NSWC Crane]]). He claims that during this assignment he was escorted into a deep underground area his guide called the "[[Off-World Technologies Division]]", where he saw two pieces of technology described as non-human in origin: a seamless metallic sphere said to interact with consciousness, and a gauntlet-like device identified as a weapon because it had discharged an energy pulse during its recovery. Gerb presented his testimony for the first time in July 2024.
+RA is an anonymous US Army Special Forces operator, a Green Beret who served in the 1st Special Forces Command (Airborne) as an 18 Bravo weapons sergeant. The Army describes the soldiers in this specialty as among the most highly skilled in the world. 18 Bravos operate and maintain a wide range of weapons, including small arms, heavy weapons, bombs and mines, both allied and foreign. RA says that sometime between 2013 and 2015, while holding a TS/SCI clearance, he was sent to the [[Naval Surface Warfare Center Crane]] in Indiana for a weapons course (see [[RA's Weapons Training Course at NSWC Crane]]). He claims that during this assignment he was escorted into a deep underground area his guide called the "[[Off-World Technologies Division]]", where he saw two pieces of technology described as non-human in origin: a seamless metallic sphere said to interact with consciousness, and a gauntlet-like device identified as a weapon because it had discharged an energy pulse during its recovery. Gerb presented his testimony for the first time in July 2024.
 
 ## Background and Credentials
 
@@ -19,7 +19,7 @@ Gerb calls RA "easily the most accomplished and credentialed US soldier" he has 
 - the Army's ALC (Advanced Leader Course; Gerb calls it the "advanced learning course")
 - a [[TSSCI Clearance|TS/SCI clearance]] that RA says was active for 12 years
 
-Gerb says the credentials back RA's account, along with his "verified placement" at [[Naval Surface Warfare Center Crane]], where he says the division is kept.
+Gerb says these credentials, together with RA's "verified placement" at [[Naval Surface Warfare Center Crane]], the alleged home of the division, back up his account.
 
 ## Assignment to NSWC Crane (2013-2015)
 
@@ -28,7 +28,7 @@ Between 2013 and 2015, RA was sent to NSWC Crane to train with advanced foreign 
 - a new minigun setup
 - SOCOM weapons coming online, such as new iterations of the SCAR rifle
 - foreign weapon systems recovered by CIA operatives and brought back to Crane, which the students were asked to assess
-- Russian rounds that the Russians were thought to be experimenting with using biologics
+- Russian rounds, which the Russians were thought to be using in experiments with biologics
 
 Of the roughly ten soldiers in the class, only RA and one other held TS/SCI clearances, and only those two were taken to see what was described as "foreign adversarial tech", with orders not to tell the rest of the class.
 
@@ -41,7 +41,7 @@ RA and the other Green Beret surrendered all their electronics and were then esc
 - an area that looked strikingly modern compared with the run-down buildings on the surface, which he believes are kept that way deliberately
 - signs underground marking which section you were in, which he took to mean the complex was large
 
-Their guide was a private contractor, former military, and the same man leading their weapons training. He told them "quite nonchalantly" that they were entering the "off-world technologies division". RA says his reaction was stoic, as he had been trained, but that by the time he reached his hotel he was "freaking out". Gerb describes what the two soldiers went through as "ontological shock".
+Their guide was a former military man working as a private contractor, and he was also leading their weapons training. He told them "quite nonchalantly" that they were entering the "off-world technologies division". RA says his reaction was stoic, as he had been trained, but that by the time he reached his hotel he was "freaking out". Gerb describes what the two soldiers went through as "ontological shock".
 
 ## Technology Observed
 
@@ -58,7 +58,7 @@ RA saw a sphere no bigger than a basketball on a podium:
 
 Gerb wonders whether the surface resembles the "mother of pearl" effect [[Jonathan Weygandt]] described at the [[Peru UFO Crash Incident|1997 Peru crash]].
 
-Of both objects, RA recalls the guide saying "we don't understand quite how to operate the systems... but they do interact with consciousness." Some people approach an object and it responds; with others it does nothing, perhaps, RA speculates, because of DNA or type of consciousness.
+Of both objects, RA recalls the guide saying "we don't understand quite how to operate the systems... but they do interact with consciousness." An object responds to some people who approach it and does nothing for others. RA speculates that the difference may come down to DNA or type of consciousness.
 
 ### Gauntlet/Weapon System Device
 
@@ -83,7 +83,7 @@ Gerb links this to [[Gary Nolan]]'s research on the phenomenon's effects on huma
 
 ## Current Activities
 
-According to Gerb, RA still performs OPFOR (opposing force) training exercises for Special Forces units at [[Area 51]], working with the DoD and the Department of Energy, which "hold all the contracts up there". Through this work he has been exposed to advanced drone technology, including sphere drones he says are often mistaken for UAP and drones disguised as local fauna during the invasion of Syria, and he estimates that many modern UAP sightings are military drones. He believes there are human-made triangular craft that use electrogravitic propulsion, and he separates them from a much larger, silent triangle a trusted military contact described to him, which he believes was non-human and not the alleged [[TR-3B]]. In RA's words, all the human-made technology he has seen "pales in comparison" to what he saw at the Off-World Technologies Division.
+According to Gerb, RA still performs OPFOR (opposing force) training exercises for Special Forces units at [[Area 51]], working with the DoD and the Department of Energy, which "hold all the contracts up there". Through this work he has seen advanced drone technology. It includes sphere drones that he says are often mistaken for UAP, and drones disguised as local fauna during the invasion of Syria. He estimates that many modern UAP sightings are military drones. He believes there are human-made triangular craft that use electrogravitic propulsion. He sets them apart from a much larger, silent triangle a trusted military contact described to him, which he believes was non-human and not the alleged [[TR-3B]]. In RA's words, all the human-made technology he has seen "pales in comparison" to what he saw at the Off-World Technologies Division.
 
 ## Disclosure Efforts
 

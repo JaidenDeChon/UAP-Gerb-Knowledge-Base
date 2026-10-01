@@ -10,7 +10,7 @@ tags:
   - person
 ---
 
-**General Curtis Emerson LeMay** (1906–1990) was a highly decorated US Air Force general who commanded Strategic Air Command (SAC) from 1948 to 1957 and was Chief of Staff of the US Air Force from 1961 to 1965. Gerb, who says he has spoken about LeMay "many times", treats him as a key figure in UFO secrecy for two reasons: he created the [[Strategic Air Command Elite Guard]], the Air Force's first unit to wear blue berets, and, by Senator [[Barry Goldwater]]'s account, he angrily refused Goldwater's request to see the "[[Blue Room]]" at [[Wright-Patterson Air Force Base]].
+**General Curtis Emerson LeMay** (1906–1990) was a highly decorated US Air Force general who commanded Strategic Air Command (SAC) from 1948 to 1957 and was Chief of Staff of the US Air Force from 1961 to 1965. Gerb, who says he has spoken about LeMay "many times", treats him as an important figure in UFO secrecy for two reasons: he created the [[Strategic Air Command Elite Guard]], the Air Force's first unit to wear blue berets, and, by Senator [[Barry Goldwater]]'s account, he angrily refused Goldwater's request to see the "[[Blue Room]]" at [[Wright-Patterson Air Force Base]].
 
 ## Career
 
@@ -63,7 +63,7 @@ events:
     significance: major
   - date: "1956-12"
     title: "Creates the SAC Elite Guard"
-    summary: "Air police in blue fatigues and blue berets who guard SAC headquarters and bases until 1966. Gerb traces the blue berets reported at the 1965 Kecksburg crash site to this unit or to the rapid-reaction team Leonard Stringfield called the Blue Berets."
+    summary: "An air police unit in blue fatigues and blue berets that guards SAC headquarters and bases until 1966. Gerb traces the blue berets reported at the 1965 Kecksburg crash site to this unit or to the rapid-reaction team Leonard Stringfield called the Blue Berets."
     category: organization
     significance: major
     entities:
@@ -129,10 +129,10 @@ entries:
     note: "Relieved LeMay on 1 February 1965 and sat with the Joint Chiefs at Johnson's ranch the day after Kecksburg."
   - name: "Earl Wheeler"
     role: "Chairman of the Joint Chiefs of Staff"
-    note: "Rose to the top with little combat experience, which drew LeMay's criticism, as Gerb notes in his Kecksburg video."
+    note: "LeMay criticized him for rising to the top with little combat experience, as Gerb notes in his Kecksburg video."
   - name: "Leonard Stringfield"
     role: "UFO researcher"
-    note: "Described a rapid-reaction crash retrieval unit called the Blue Berets, which Gerb sets beside LeMay's blue-bereted Elite Guard."
+    note: "Described a rapid-reaction crash retrieval unit called the Blue Berets, which Gerb compares with LeMay's blue-bereted Elite Guard."
 ---
 ::
 
@@ -146,19 +146,19 @@ Kecksburg residents described several kinds of military men at the site, among t
 
 LeMay is best known in UFO research for refusing Senator Barry Goldwater access to the "Blue Room" at [[Wright-Patterson Air Force Base]], where retrieved UFO material was allegedly kept. Goldwater, a major general in the Air Force Reserve, told an interviewer in 1975: "I called Curtis LeMay and I said General, I know we have a room at Wright-Patterson where you put all this secret stuff, can I go in there? I've never heard him get mad, but he got mad as hell at me, cussed me out, said don't ever ask me that question again."
 
-Goldwater's letters, which Gerb reads from Stringfield's compilation, show him trying to learn what was in the building as early as the early 1960s, perhaps 1963 by Gerb's reckoning. In another video Gerb dates the rebuff to 28 December 1973. In his coverage of the Infographic Show whistleblower, who calls Wright-Patterson a "red herring", Gerb suggests that the base may have held records of the program rather than the material itself. Gerb sets the rebuff beside LeMay's post-war demand that the Air Force be allowed to develop "unhindered, unchained": "there must be no ceilings, no boundaries, no limitations to our air development."
+Goldwater's letters, which Gerb reads from Stringfield's compilation, show him trying to learn what was in the building as early as the start of the 1960s, perhaps 1963 by Gerb's reckoning. In another video Gerb dates the rebuff to 28 December 1973. In his coverage of the Infographic Show whistleblower, who calls Wright-Patterson a "red herring", Gerb suggests that the base may have held records of the program rather than the material itself. Gerb sets the rebuff beside LeMay's post-war demand that the Air Force be allowed to develop "unhindered, unchained": "there must be no ceilings, no boundaries, no limitations to our air development."
 
 ## Air Force Chief of Staff
 
-LeMay was Air Force Chief of Staff from 1961 until General [[John P. McConnell]] relieved him on 1 February 1965. The Kecksburg crash came ten months later, on McConnell's watch: on 10 December 1965, the day after it, McConnell attended President [[Lyndon B. Johnson]]'s meetings at his Texas ranch with the rest of the Joint Chiefs of Staff and senior officials. Gerb, introducing McConnell, reminds viewers that he had succeeded LeMay, "the general who denied Senator Barry Goldwater" the Blue Room. Gerb also notes that LeMay criticized the chairman of the Joint Chiefs, General [[Earl Wheeler]], for rising to the top without much combat experience.
+LeMay was Air Force Chief of Staff from 1961 until General [[John P. McConnell]] relieved him on 1 February 1965. The Kecksburg crash came ten months later, on McConnell's watch. On 10 December 1965, the day after the crash, McConnell joined the rest of the Joint Chiefs of Staff and senior officials at President [[Lyndon B. Johnson]]'s meetings at his Texas ranch. Gerb, introducing McConnell, reminds viewers that he had succeeded LeMay, "the general who denied Senator Barry Goldwater" the Blue Room. Gerb also notes that LeMay criticized the chairman of the Joint Chiefs, General [[Earl Wheeler]], for rising to the top without much combat experience.
 
 ## Other Claims Linking LeMay to UFOs
 
-- **The Cooper commendation.** In Gerb's interview on the [[Majestic 12]] documents, [[Ryan S. Wood]] cites a commendation signed by LeMay for Master Sergeant Harry B. Cooper, father of [[Tim Cooper]], who received many of the documents. Cooper headed the camera section and printing management at [[Ent Air Force Base, Colorado|Ent Air Force Base]] from 1957 to 1963. Wood believes Cooper photographed UFOs and printed classified material there, and asks why LeMay would sign such a commendation "if it's not totally real".
-- **Arnold House.** [[Arnold House]], a Boeing surface technician who appears as "AH" in [[Steven Greer]]'s 2001 Disclosure Project briefing document, called himself a friend of the four-star general and said that around 1987, at LeMay's home, LeMay confirmed the [[Roswell Crash|Roswell crash]] to him. Gerb stresses that House's testimony is secondhand.
-- **The golden era.** In his crash retrieval timeline, Gerb names LeMay with [[Vannevar Bush]] and Henry Kissinger among the "best of the best" brought into the centralized UFO programs of the early Cold War.
-- **A 1999 MUFON report.** Gerb cites a July 1999 *MUFON UFO Journal* article that places LeMay at what Gerb calls James Conley Air Force Base during a close encounter between an F-89J Scorpion and a 30-foot object with four blue-white lights. After a near collision, the object reportedly shot away vertically and disappeared at 990,000 feet.
-- **Solar Warden.** One of the two ships [[Gary McKinnon]] says he found named in Pentagon files on [[Solar Warden]] was the USSS *LeMay*.
+- In Gerb's interview on the [[Majestic 12]] documents, [[Ryan S. Wood]] cites a commendation signed by LeMay for Master Sergeant Harry B. Cooper, father of [[Tim Cooper]], who received many of the documents. Cooper headed the camera section and printing management at [[Ent Air Force Base, Colorado|Ent Air Force Base]] from 1957 to 1963. Wood believes Cooper photographed UFOs and printed classified material there, and asks why LeMay would sign such a commendation "if it's not totally real".
+- [[Arnold House]], a Boeing surface technician who appears as "AH" in [[Steven Greer]]'s 2001 Disclosure Project briefing document, called himself a friend of the four-star general and said that around 1987, at LeMay's home, LeMay confirmed the [[Roswell Crash|Roswell crash]] to him. Gerb stresses that House's testimony is secondhand.
+- In his crash retrieval timeline, Gerb names LeMay with [[Vannevar Bush]] and Henry Kissinger among the "best of the best" brought into the centralized UFO programs during their golden era in the early Cold War.
+- Gerb cites a 1999 MUFON report, an article in the July 1999 *MUFON UFO Journal*, that places LeMay at what Gerb calls James Conley Air Force Base during a close encounter between an F-89J Scorpion and a 30-foot object with four blue-white lights. After a near collision, the object reportedly shot away vertically and disappeared at 990,000 feet.
+- One of the two ships [[Gary McKinnon]] says he found named in Pentagon files on [[Solar Warden]] was the USSS *LeMay*.
 
 ## Sources
 

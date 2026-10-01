@@ -16,7 +16,7 @@ Meyerriecks began her career in aerospace, at TRW (now part of [[Northrop Grumma
 ::wiki-affiliations
 ---
 label: "Where she worked, and when"
-caption: "Dates come from her biographies at USGIF and the Potomac Officers Club, CIA appointment notices (as quoted in those biographies) and MITRE's February 2022 announcement. Her DISA years are approximate: the sources give nearly ten years ending before she joined AOL in 2004. Her earlier work at TRW and JPL is left off because no source dates it; Gerb puts TRW at 1981 to 1993."
+caption: "Dates come from her biographies at USGIF and the Potomac Officers Club, CIA appointment notices (as quoted in those biographies) and MITRE's February 2022 announcement. Her years at the Defense Information Systems Agency are approximate: the sources say nearly ten years, ending before she joined AOL in 2004. Her earlier work at TRW and the Jet Propulsion Laboratory is left off because no source dates it, though Gerb puts TRW at 1981 to 1993."
 rows:
   - text: "Defense Information Systems Agency"
     role: "Chief technology officer; technical director of the Joint Interoperability and Engineering Organization"
@@ -27,12 +27,12 @@ rows:
     role: "Senior vice president for product technology"
     from: 2004
     to: 2006
-    note: "Gerb points to this post, her own consultancy and her jump into ADNI/AT&F as possible signs of a masked CV."
+    note: "Gerb points to this post, her own consultancy and her jump into ADNI/AT&F as possible signs that her CV is masked."
   - text: "Office of the Director of National Intelligence"
     role: "Assistant Director of National Intelligence for Acquisition, Technology and Facilities"
     from: 2009
     to: 2013
-    note: "The office shares oversight of NRO acquisitions with its Pentagon counterpart, which Gerb calls imperative to legacy program operations."
+    note: "The office shares oversight of National Reconnaissance Office acquisitions with its Pentagon counterpart. Gerb calls the two offices imperative to legacy program operations."
   - name: "CIA Directorate of Science and Technology"
     role: "Associate deputy director, then deputy director (from 21 October 2015)"
     from: "2013-06-17"
@@ -46,7 +46,7 @@ rows:
 
 ## Alleged Legacy Program Relevance
 
-In his video on the [[NRO (National Reconnaissance Office)|NRO]], Gerb lists Meyerriecks among thirteen officials with NRO ties whom he names as likely legacy-program members or gatekeepers. He notes that she began her career at TRW, a company he has "directly implicated" in work on derivative technologies, and that she served as CIA DS&T deputy director "for 8 years following her three-year position" as ADNI/AT&F. Her CV has no direct reference to the NRO or the [[CIA Office of Global Access]], but Gerb says "we can strongly assume she performed intimate work with both offices" in those two posts, and he shows a photograph of her with [[Glenn Gaffney]]. In *Special Access Required* Vol. 2 he names her and [[Doug Wolfe]] as "spook legacy gatekeepers" who both served in the ODNI acquisition office and as deputy directors of the DS&T.
+In his video on the [[NRO (National Reconnaissance Office)|NRO]], Gerb names Meyerriecks as one of thirteen officials with NRO ties who he believes are likely legacy-program members or gatekeepers. He notes that she began her career at TRW, a company he has "directly implicated" in work on derivative technologies, and that she served as CIA DS&T deputy director "for 8 years following her three-year position" as ADNI/AT&F. Her CV has no direct reference to the NRO or the [[CIA Office of Global Access]], but Gerb says "we can strongly assume she performed intimate work with both offices" in those two posts, and he shows a photograph of her with [[Glenn Gaffney]]. In *Special Access Required* Vol. 2 he names her and [[Doug Wolfe]] as "spook legacy gatekeepers" who both served in the ODNI acquisition office and as deputy directors of the DS&T.
 
 In his MITRE investigation, Gerb says that "immediately following agency DS&T" Meyerriecks joined "the corporate board of MITRE". He says the ADNI/AT&F office she once led, together with its Department of Defense counterpart, the [[Under Secretary of Defense for Acquisition and Sustainment (USD A&S)]], is "imperative to legacy program operations, specifically through NRO acquisitions." He names her alongside [[Donald M. Kerr]], [[Stephanie O'Sullivan]] and [[Susan Gordon]] as part of a pattern: senior intelligence-community figures allegedly close to legacy programs who took roles at MITRE.
 

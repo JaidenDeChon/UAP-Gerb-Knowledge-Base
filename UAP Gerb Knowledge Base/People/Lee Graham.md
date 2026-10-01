@@ -15,7 +15,7 @@ Gerb spent a long time trying to confirm the claim. He found little beyond a dec
 
 ::wiki-claim{video="Tubx-CaAaOs" video-title="FASTWALKERS – UFOs Outside Earth"}
 ---
-caption: "Graham and Regehr's printout claim, and the answers Gerb's fast walker video gives."
+caption: "Graham and Regehr's claim that a missile-warning satellite printout recorded the Tehran object, and the replies given in Gerb's video."
 claim:
   title: "DSP saw the Tehran object"
   by: ["Lee Graham", "Ron Regehr"]
@@ -31,7 +31,7 @@ responses:
     cue: 971
   - by: "Gerb"
     stance: unresolved
-    text: "Beyond \"UCF\" and the scan count the image is illegible, and upscaling it failed: a dead end until someone can read it."
+    text: "Beyond \"UCF\" and the scan count the image is illegible, and upscaling it failed, so the case is a dead end until someone can read it."
     cue: 1053
 ---
 ::
