@@ -21,7 +21,9 @@ As Gerb summarises Taber's account, the craft was kept at Area 51 in the 1980s. 
 
 - the egg-shaped craft [[Jonathan Weygandt]] says he found at the 1997 [[Peru UFO Crash Incident|Peru crash site]], which differed mainly in having gill-like vents. Gerb cites both as technology he doubts humans have been able to reverse-engineer;
 - the egg-shaped craft, with no windows, wings or landing gear, that [[Walter Haut]]'s 2002 affidavit places in Building 84 at Roswell;
-- the egg made from one piece of metal that the [[Infographic Show Whistleblower]] says was recovered after a crash in Vietnam. Because Taber's egg was simply found untouched in the desert, Gerb also ties it to the [[Craft Donation Theory]], the idea that some craft were left to be recovered.
+- the egg made from one piece of metal that the [[Infographic Show Whistleblower]] says was recovered after a crash in Vietnam.
+
+Because Taber's egg was found untouched in the desert, Gerb also ties it to the [[Craft Donation Theory]], the idea that some craft were left to be recovered.
 
 ## Sources
 

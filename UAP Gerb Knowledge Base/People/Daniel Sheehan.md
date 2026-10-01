@@ -13,9 +13,9 @@ Daniel Sheehan is an American constitutional and public interest attorney and ac
 
 ## Background and Legal Career
 
-Sheehan was born on 9 April 1945 in Glens Falls, New York, and grew up in nearby Warrensburg. He graduated from Harvard College in 1967 and from Harvard Law School in 1970, and later also studied at Harvard Divinity School. In 1971 he was co-counsel defending *The New York Times*'s right to publish the Pentagon Papers. He went on to work on the Watergate break-in case, the Karen Silkwood case against Kerr-McGee, the Greensboro massacre case and the La Penca bombing case. He co-founded two non-profit public policy centres, the Christic Institute (in 1980), which he led as president and chief counsel and through which he brought the Iran-Contra lawsuit, and the Romero Institute. His autobiography is *The People's Advocate*. His recent work centres on UAP disclosure through the New Paradigm Institute.
+Sheehan was born on 9 April 1945 in Glens Falls, New York, and grew up in nearby Warrensburg. He graduated from Harvard College in 1967 and from Harvard Law School in 1970, and later also studied at Harvard Divinity School. In 1971 he was co-counsel defending *The New York Times*'s right to publish the Pentagon Papers. He went on to work on the Watergate break-in case, the Karen Silkwood case against Kerr-McGee, the Greensboro massacre case and the La Penca bombing case. He co-founded two non-profit public policy centres: the Christic Institute (in 1980), which he led as president and chief counsel and through which he brought the Iran-Contra lawsuit, and the Romero Institute. His autobiography is *The People's Advocate*. His recent work centres on UAP disclosure through the New Paradigm Institute.
 
-Much of his legal work has touched on government secrecy, national security operations and whistleblower protection, which drew him to represent people involved in UAP disclosure.
+Much of his legal work has dealt with government secrecy, national security operations and whistleblower protection, and that work drew him to represent people involved in UAP disclosure.
 
 ## On the Record
 
@@ -68,7 +68,7 @@ In Sheehan's words: *"Here's the semicircle of the craft like this and the edges
 
 ### RA's Identification
 
-During his conversations with Green Beret [[RA]], Gerb showed him many of the best-known symbols in ufology, including the [[Roswell I-Beam]]. RA recognised none of them until Gerb reached the relatively obscure reference of Sheehan's description. RA said the symbols drawn from it "look quite close to the symbols projected from this anomalous technology": the characters he says were projected, with no visible projection mechanism, from the gauntlet-like device at the [[Off-World Technologies Division]]. Gerb calls the connection "truly truly fantastic stuff."
+During his conversations with Green Beret [[RA]], Gerb showed him many of the best-known symbols in ufology, including the [[Roswell I-Beam]]. RA recognised none of them until Gerb reached Sheehan's description, a relatively obscure reference. RA said the symbols drawn from it "look quite close to the symbols projected from this anomalous technology": the characters he says were projected, with no visible projection mechanism, from the gauntlet-like device at the [[Off-World Technologies Division]]. Gerb calls the connection "truly truly fantastic stuff."
 
 ### A Possible Source Incident: Spitsbergen, 1952
 
@@ -80,11 +80,11 @@ Gerb returns to Sheehan's description when other witnesses describe writing on a
 
 ## Philip Corso's Film
 
-Sheehan says he was shown a posthumous 8mm home movie that [[Philip J. Corso]] made for his grandchildren, and calls it "extraordinarily persuasive." Because of it, he gives Corso's account of Roswell technology "a considerable amount of credibility," and says the aerospace companies' own histories of the silicon chip and fiber optics are "exactly what they would do" to obscure where the technology came from. Sheehan places Corso's encounter with a landed craft at Alamogordo in July 1945. Gerb says Sheehan "is indeed incorrect about the 1945 date": Corso set the encounter at the Red Canyon missile range, part of White Sands, where he was commander in 1957 and 1958.
+Sheehan says he was shown a posthumous 8mm home movie that [[Philip J. Corso]] made for his grandchildren, and calls it "extraordinarily persuasive." Because of it, he gives Corso's account of Roswell technology "a considerable amount of credibility," and he says the aerospace companies' own histories of the silicon chip and fiber optics are "exactly what they would do" to obscure where the technology came from. Sheehan places Corso's encounter with a landed craft at Alamogordo in July 1945. Gerb says Sheehan "is indeed incorrect about the 1945 date": Corso set the encounter at the Red Canyon missile range, part of White Sands, where he was commander in 1957 and 1958.
 
 ## Connection to Radiance Technologies and Hypersonics
 
-In 2023 Sheehan alleged that the defense contractor [[Radiance Technologies]] was involved in UAP reverse engineering, and that its prompt global strike program used reverse-engineered UAP technology in developing hypersonic missiles. Gerb mentions the claim beside a 2023 hypersonics technology transfer between [[Naval Surface Warfare Center Crane]], [[Sandia National Laboratories]] and other participants, given [[SAIC]]'s ties to both, though he allows that there is "probably not much of a connection here."
+In 2023 Sheehan alleged that the defense contractor [[Radiance Technologies]] was involved in UAP reverse engineering, and that its prompt global strike program used reverse-engineered UAP technology in developing hypersonic missiles. Gerb raises the claim alongside a 2023 hypersonics technology transfer between [[Naval Surface Warfare Center Crane]], [[Sandia National Laboratories]] and other participants, because [[SAIC]] has ties to both, though he allows that there is "probably not much of a connection here."
 
 ## Role as Luis Elizondo's Attorney
 

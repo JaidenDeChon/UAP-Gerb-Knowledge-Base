@@ -9,7 +9,7 @@ tags:
   - person
 ---
 
-Enrico Fermi (1901–1954) was an Italian-American physicist, widely regarded as one of the most important scientists of the 20th century. He made foundational contributions to nuclear physics and quantum mechanics, built the world's first nuclear reactor, Chicago Pile-1, in 1942, and played a central role in the [[Manhattan Project]]. In discussions of UAP and astrobiology he is best known for a question he asked over lunch at Los Alamos in the summer of 1950, "where is everybody?", which gave the [[Fermi Paradox]] its name. Gerb's coverage also ties him to fascist Italy's alleged study of a crashed craft: in his legacy-program timeline, Gerb says that according to [[Guglielmo Marconi]]'s family it was Fermi, not Marconi, who spearheaded the secret [[RS-33 (Gabinetto RS 33)|Gabinetto RS/33]] set up after the alleged 1933 recovery near [[Magenta, Italy]].
+Enrico Fermi (1901–1954) was an Italian-American physicist, widely regarded as one of the most important scientists of the 20th century. He did foundational work in nuclear physics and quantum mechanics, built the world's first nuclear reactor, Chicago Pile-1, in 1942, and was one of the central figures of the [[Manhattan Project]]. In discussions of UAP and astrobiology he is best known for a question he asked over lunch at Los Alamos in the summer of 1950, "where is everybody?", which gave the [[Fermi Paradox]] its name. Gerb's coverage also ties him to fascist Italy's alleged study of a crashed craft: in his legacy-program timeline, Gerb says that according to [[Guglielmo Marconi]]'s family it was Fermi, not Marconi, who spearheaded the secret [[RS-33 (Gabinetto RS 33)|Gabinetto RS/33]] set up after the alleged 1933 recovery near [[Magenta, Italy]].
 
 ## Career
 

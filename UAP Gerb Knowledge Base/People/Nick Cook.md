@@ -12,7 +12,7 @@ Nick Cook is a British aviation journalist turned defence consultant, best known
 
 ## The Hunt for Zero Point
 
-*The Hunt for Zero Point* was published by Century in the UK in 2001 and by Broadway Books in the US in 2002. It sets out Cook's years-long investigation into evidence that the United States and other nations have secretly pursued anti-gravity propulsion, drawing on documents, interviews with engineers and visits to aerospace facilities. It traces a line from the alleged Nazi "bell" experiments, [[Die Glocke (The Bell)|Die Glocke]], to American black programs of the Cold War. Gerb calls it "excellent" and recommends it for readers interested in [[Zero Point Energy|zero-point]] and free-energy systems. In his Kecksburg video he leaves Die Glocke, whose shape he likens to the Kecksburg bell, and "Nick Cook's work in the hunt for zero point and the Nazi connection to UAP" for a video of their own.
+*The Hunt for Zero Point* was published by Century in the UK in 2001 and by Broadway Books in the US in 2002. It sets out Cook's years-long investigation into evidence that the United States and other nations have secretly pursued anti-gravity propulsion. Cook draws on documents, interviews with engineers and visits to aerospace facilities. It traces a line from the alleged Nazi "bell" experiments, [[Die Glocke (The Bell)|Die Glocke]], to American black programs of the Cold War. Gerb calls it "excellent" and recommends it for readers interested in [[Zero Point Energy|zero-point]] and free-energy systems. In his Kecksburg video he leaves Die Glocke, whose shape he likens to the Kecksburg bell, and "Nick Cook's work in the hunt for zero point and the Nazi connection to UAP" for a video of their own.
 
 ## Encounter with the Astra Lineage Chart
 
@@ -22,7 +22,7 @@ Gerb places Cook's sighting in a paper trail that he says points to a Lockheed r
 
 ## The Northrop Paper
 
-In *The Hunt for Zero Point*, a source in the British aerospace industry who goes by the pseudonym "Dan Marcus" tells Cook about a 1968 paper on electro-aerodynamics in supersonic flow by M. S. Cahn and G. M. Andrew of Northrop Norair. According to Marcus, the Pentagon pulled the paper in 2002 and "made it disappear", and the B-2 Spirit bomber applied its concepts, using an electrostatic field around the aircraft to cut drag. Gerb cites this as possibly [[Northrop Grumman]]'s earliest contribution to legacy programs, and notes that it may remind some of [[T. Townsend Brown]] and [[Electrogravitics|electrogravitics]].
+In *The Hunt for Zero Point*, a source in the British aerospace industry who goes by the pseudonym "Dan Marcus" tells Cook about a 1968 paper on electro-aerodynamics in supersonic flow by M. S. Cahn and G. M. Andrew of Northrop Norair. According to Marcus, the Pentagon pulled the paper in 2002 and "made it disappear", and the B-2 Spirit bomber applied its concepts, using an electrostatic field around the aircraft to cut drag. Gerb cites this as possibly [[Northrop Grumman]]'s earliest contribution to legacy programs, and says it may remind some of [[T. Townsend Brown]] and [[Electrogravitics|electrogravitics]].
 
 ## Sources
 
