@@ -7,11 +7,11 @@ tags:
   - person
 ---
 
-Karl Nell is a retired United States Army colonel and former [[Defense Intelligence Agency]] (DIA) technical intelligence operations officer who has become one of the most prominent credentialed voices in the UAP disclosure movement. He was deputy chief technology officer at [[Northrop Grumman]], ended his Army career as the Army's director supporting the [[UAP Task Force]] (2021–2022), where he worked with [[David Grusch]], and advised Army Futures Command. In June 2023 he publicly backed Grusch's account, and [[Leslie Kean]] has identified him as one of the 40 firsthand witnesses Grusch interviewed. Gerb's coverage centres on his November 2023 [[SOL Foundation Symposium]] talk, a plan for controlled disclosure, and on his May 2024 statement that there is "zero doubt" non-human intelligence exists.
+Karl Nell is a retired United States Army colonel and former [[Defense Intelligence Agency]] (DIA) technical intelligence operations officer who is now one of the most prominent advocates of UAP disclosure with official credentials. He was deputy chief technology officer at [[Northrop Grumman]], ended his Army career as the Army's director supporting the [[UAP Task Force]] (2021–2022), where he worked with [[David Grusch]], and advised Army Futures Command. In June 2023 he publicly backed Grusch's account, and [[Leslie Kean]] has identified him as one of the 40 firsthand witnesses Grusch interviewed. Gerb's coverage centres on his November 2023 [[SOL Foundation Symposium]] talk, a plan for controlled disclosure, and on his May 2024 statement that there is "zero doubt" non-human intelligence exists.
 
 ## Military Career
 
-Nell's service record is that of a senior specialist in military intelligence and foreign technology:
+Nell held senior specialist posts in military intelligence and foreign technology:
 
 - DIA Technical Intelligence Operations Officer, a role that assessed foreign technology capabilities for the Defense Intelligence Agency
 - First DIA Directorate Representative deployed for multi-agency planning of Operation Iraqi Freedom
@@ -106,7 +106,7 @@ Nell's campaign plan works through four channels (public sector, philosophical, 
 | 4 | October 2034 | Answer the five W's of UAP (marked off target on the slide) |
 | 5 | Indefinite | Interactive integration of NHI and NHI technology with Earth civilization |
 
-Phase 3 is identified as the critical threshold for public disclosure. Nell warns that "catastrophic disclosure", an uncontrolled information dump, possibly by adversaries or NHI, would be more dangerous than managed disclosure.
+The plan marks Phase 3 as the critical threshold for public disclosure. Nell warns that "catastrophic disclosure" (an uncontrolled information dump, possibly by adversaries or NHI) would be more dangerous than managed disclosure.
 
 ### Reasons for Non-Disclosure
 
@@ -122,7 +122,7 @@ In a clip Gerb plays in his McCandlish video, Nell says: "Faster-than-light trav
 
 ## Significance
 
-Nell combines a background in military intelligence and foreign materials at the DIA, a senior post at a defense contractor Gerb ties to classified aerospace programs, and, according to Kean, firsthand witness status. Gerb also cites him as one of the avenues, with Grusch and a reformed AARO, that he hopes future whistleblowers will use instead of going through [[Steven Greer]]. His approach to disclosure is structured and analytical, covering legislative, strategic, scientific and philosophical ground, and aims at change in institutions and policy rather than individual testimony.
+Nell has a background in military intelligence and foreign materials at the DIA and held a senior post at a defense contractor Gerb ties to classified aerospace programs. According to Kean, he is also a firsthand witness. Gerb also cites him as one of the avenues, with Grusch and a reformed AARO, that he hopes future whistleblowers will use instead of going through [[Steven Greer]]. His approach to disclosure is structured and analytical. It covers legislative, strategic, scientific and philosophical ground, and it aims to change institutions and policy instead of resting on individual testimony.
 
 ## Sources
 

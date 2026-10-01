@@ -7,7 +7,7 @@ tags:
   - person
 ---
 
-Timothy S. Cooper is an American UFO researcher, based in Big Bear Lake, California, who received the largest share of the [[MJ-12 Documents]]. Most of the drops Gerb's videos date came in the 1990s, from 1992 to 1999, though the Peru video places them in the 1980s. That made him one of the main channels through which these disputed documents entered the public record. He also recorded one of the last interviews with [[Albert Bruce Collins]], the engineer known as "Barnabas", in 1990. His father, USAF Master Sergeant Harry B. Cooper, received a commendation signed by General [[Curtis LeMay]], which [[Ryan S. Wood]] and Gerb describe as praising his work on the "USAF UFO program".
+Timothy S. Cooper is an American UFO researcher, based in Big Bear Lake, California, who received the largest share of the [[MJ-12 Documents]]. Where Gerb's videos give dates for the drops, most fall in the 1990s, from 1992 to 1999, though the Peru video places them in the 1980s. He was one of the main routes by which these disputed documents became public. He also recorded one of the last interviews with [[Albert Bruce Collins]], the engineer known as "Barnabas", in 1990. His father, USAF Master Sergeant Harry B. Cooper, received a commendation signed by General [[Curtis LeMay]], which [[Ryan S. Wood]] and Gerb describe as praising his work on the "USAF UFO program".
 
 ## Timeline
 
@@ -76,7 +76,7 @@ Cooper's father, Master Sergeant Harry B. Cooper, received a commendation signed
 
 ## Interview with Albert Bruce Collins
 
-On November 20, 1990, Cooper interviewed [[Albert Bruce Collins]] (pseudonym "Barnabas"), a self-described metallurgical engineer who claimed government involvement in UAP technology research. It proved to be one of Collins's final interviews: he died on December 30, 1990, just weeks later. Collins told Cooper he had watched an egg-shaped craft taken into a warehouse at the [[University of California, Berkeley]] in 1947 and his knowledge of multiple alleged joint UAP research programs, including Project Archangel between the CIA, RAND, and Vatican. He also claimed that [[Los Alamos National Laboratory|Los Alamos National Labs]] had been studying green fireballs and strange debris. The crash retrieval researcher [[Leonard Stringfield]] later referenced Cooper's documentation of Collins's testimony in *UFO Crash Retrievals: The Inner Sanctum, Status Report 6* (1991).
+On November 20, 1990, Cooper interviewed [[Albert Bruce Collins]] (pseudonym "Barnabas"), a self-described metallurgical engineer who claimed government involvement in UAP technology research. It was one of Collins's last interviews, as he died weeks later, on December 30, 1990. Collins told Cooper he had watched an egg-shaped craft being taken into a warehouse at the [[University of California, Berkeley]] in 1947, and described what he knew of several alleged joint UAP research programs, including Project Archangel between the CIA, RAND, and Vatican. He also claimed that [[Los Alamos National Laboratory|Los Alamos National Labs]] had been studying green fireballs and strange debris. The crash retrieval researcher [[Leonard Stringfield]] later cited Cooper's record of Collins's testimony in *UFO Crash Retrievals: The Inner Sanctum, Status Report 6* (1991).
 
 ## Sources
 

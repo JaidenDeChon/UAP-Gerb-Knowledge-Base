@@ -45,7 +45,7 @@ rows:
 
 ## Role in UAP Programs
 
-In "The Hidden Wing", Gerb identifies Walden as one of the most important current Air Force officials to question about alleged UFO legacy program operations, because of the [[Rapid Capabilities Office (RCO)|RCO]]'s theorized role as the arm that carries out legacy program acquisition. Gerb specifically calls on the current presidential administration to question Walden directly. He argues that the RCO's narrow oversight chain, its ability to keep the number of read-in personnel small, and its access to carve-out contracting mechanisms make it a plausible vehicle for managing [[Waived Unacknowledged Special Access Programs (USAPs)]] related to non-human technology exploitation.
+In "The Hidden Wing", Gerb identifies Walden as one of the most important current Air Force officials to question about alleged UFO legacy program operations, because of the [[Rapid Capabilities Office (RCO)|RCO]]'s theorized role as the arm that carries out legacy program acquisition. He calls on the current presidential administration to question Walden directly, arguing that the RCO's narrow oversight chain, its ability to keep the number of read-in personnel small, and its access to carve-out contracting mechanisms make it a plausible vehicle for managing [[Waived Unacknowledged Special Access Programs (USAPs)]] related to non-human technology exploitation.
 
 ## The Hidden Wing and the 2018 Mitchell Institute speech
 
