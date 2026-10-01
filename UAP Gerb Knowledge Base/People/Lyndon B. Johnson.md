@@ -9,11 +9,11 @@ tags:
   - person
 ---
 
-**Lyndon Baines Johnson** (1908–1973) was the 36th President of the United States, from 1963 to 1969. Apart from his well-documented record in domestic and foreign policy, Johnson had a documented personal interest in UFOs. He also had relationships with leading figures allegedly involved in UAP crash retrieval programs, including [[Eric A. Walker|Dr. Eric A. Walker]]. According to former Pentagon official [[Luis Elizondo|Lou Elizondo]]'s 2024 book *Imminent*, Johnson was among the U.S. presidents briefed into "some to all" of the UFO phenomenon.
+**Lyndon Baines Johnson** (1908–1973) was the 36th President of the United States, from 1963 to 1969. Besides his well-documented record in domestic and foreign policy, Johnson had a documented personal interest in UFOs. He also had relationships with leading figures allegedly involved in UAP crash retrieval programs, including [[Eric A. Walker|Dr. Eric A. Walker]]. According to former Pentagon official [[Luis Elizondo|Lou Elizondo]]'s 2024 book *Imminent*, Johnson was among the U.S. presidents briefed into "some to all" of the UFO phenomenon.
 
 ## Career
 
-Johnson was a U.S. Senator from Texas from January 1949 to January 1961, Vice President under John F. Kennedy from January 1961, and President from Kennedy's assassination on 22 November 1963 until January 1969. He died in January 1973. Gerb's coverage touches his Senate years, when he took an interest in UFO reports, and his presidency, when the National Security Council's covert-activities group was renamed and when, the day after the [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg crash]], he held a long day of meetings with his national security chiefs.
+Johnson was a U.S. Senator from Texas from January 1949 to January 1961, Vice President under John F. Kennedy from January 1961, and President from Kennedy's assassination on 22 November 1963 until January 1969. He died in January 1973. Gerb's coverage touches his Senate years, when he took an interest in UFO reports, and his presidency. In those years the National Security Council's covert-activities group was renamed, and the day after the [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg crash]] he spent a long day in meetings with his national security chiefs.
 
 ## Timeline
 
@@ -187,15 +187,15 @@ entries:
 
 ### The 303 Committee (June 1964)
 
-Gerb's broader timeline of the legacy program points to National Security Action Memorandum 303, issued under Johnson on 2 June 1964. It renamed the covert-activities "Special Group", set up under [[Dwight D. Eisenhower]]'s NSC 5412 Committee, the "303 Committee." The video treats the renaming as "little more than a name change", useful for bookkeeping. It uses it to trace the alleged Majestic 12 control body as it continued from the Eisenhower administration through Johnson and into the Nixon administration that followed (see [[Richard Nixon]]). In the same video Gerb says that after Eisenhower only trusted presidents were kept connected to the program: in his view John F. Kennedy and Jimmy Carter were left out, while Johnson and Nixon "absolutely were involved".
+Gerb's broader timeline of the legacy program points to National Security Action Memorandum 303, issued under Johnson on 2 June 1964. It renamed the covert-activities "Special Group", set up under [[Dwight D. Eisenhower]]'s NSC 5412 Committee, the "303 Committee." The video calls the renaming "little more than a name change" and uses it for bookkeeping, to trace the alleged Majestic 12 control body as it continued from the Eisenhower administration through Johnson and into the Nixon administration that followed (see [[Richard Nixon]]). In the same video Gerb says that after Eisenhower only trusted presidents were kept connected to the program: in his view John F. Kennedy and Jimmy Carter were left out, while Johnson and Nixon "absolutely were involved".
 
 ### As U.S. Senator
 
-During his time in the U.S. Senate, Johnson publicly called for the establishment of a military subcommittee to report UFO sightings directly to him. He wrote to ufologist [[Major Donald Keyhoe]], author of *The Flying Saucer Conspiracy*, to thank him for providing documented evidence on UFOs; Gerb dates the letter to 1960. This early interest suggests Johnson viewed the subject as a matter of national security rather than fringe speculation.
+During his time in the U.S. Senate, Johnson publicly called for a military subcommittee that would report UFO sightings directly to him. He wrote to ufologist [[Major Donald Keyhoe]], author of *The Flying Saucer Conspiracy*, to thank him for providing documented evidence on UFOs; Gerb dates the letter to 1960. This early interest suggests Johnson took the subject seriously, as a matter of national security.
 
 ### December 10, 1965 Meetings at Texas Residence
 
-The day after the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]], President Johnson held extensive high-level meetings at his Texas residence. According to Johnson's schedule (compiled by researcher [[Grant Cameron]]), the guests arrived at 9:50 AM, about an hour after the president woke, and the meetings went on throughout the day. Attendees included:
+The day after the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]], President Johnson met senior officials at his Texas residence for most of the day. According to Johnson's schedule (compiled by researcher [[Grant Cameron]]), the guests arrived at 9:50 AM, about an hour after the president woke, and the meetings went on throughout the day. Those attending included:
 
 - The [[DOD Joint Chiefs|Joint Chiefs of Staff]]:
   - Admiral [[Donald L. McDonald]], Chief of Naval Operations
@@ -212,7 +212,7 @@ The day after the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg 
 - Secretary of Agriculture [[Orville Freeman]]
 - Aide [[Bill Moyers]]
 
-The first session ran from 10:10 AM to 12:51 PM and included the Joint Chiefs, McNamara, Vance, Califano, and Moyers. Afterwards every chief except Wheeler took a car ride with Johnson. After lunch Johnson met McNamara, Vance, Moyers, Hornig and Freeman. No meeting on the schedule explicitly mentions Kecksburg, Soviet satellites or ICBMs. Still, Gerb argues that the list of attendees, which included the JCS, Defense leadership, NASA, the AEC chairman, and the presidential science adviser, may point to a day of briefings on a significant UAP event that required a coordinated military, scientific, and intelligence response.
+The first session ran from 10:10 AM to 12:51 PM and included the Joint Chiefs, McNamara, Vance, Califano, and Moyers. Afterwards every chief except Wheeler took a car ride with Johnson. After lunch Johnson met McNamara, Vance, Moyers, Hornig and Freeman. No meeting on the schedule explicitly mentions Kecksburg, Soviet satellites or ICBMs. Gerb still argues that the guest list may point to a day of briefings on a significant UAP event that required a coordinated military, scientific, and intelligence response. The guests included the Joint Chiefs of Staff (JCS), Defense leadership, NASA, the Atomic Energy Commission (AEC) chairman and the presidential science adviser.
 
 Four days after the Kecksburg crash, on December 13, 1965, Califano held a meeting with [[Buford Ellington]], Director of the Office of Emergency Planning, that the LBJ Presidential Library marked off the record. The subject of this meeting is unknown.
 
@@ -224,11 +224,11 @@ In a letter dated May 18, 1966, several months after the Kecksburg incident, Joh
 
 ### Other Connections
 
-On July 9, 1947, two days after the [[Roswell crash]], James Webb, then Director of the Bureau of the Budget under President Truman, made late-evening calls to Norris E. Dodd, Under Secretary of Agriculture. It is unknown whether these calls related to Roswell, and Gerb admits the link may be a stretch. He raises it because at Johnson's December 10, 1965 meetings, Webb, by then NASA Director, was joined by Secretary of Agriculture [[Orville Freeman]]. That raises the question of why an agriculture secretary would attend meetings with Defense, NASA, and Joint Chiefs leadership.
+On July 9, 1947, two days after the [[Roswell crash]], James Webb, then Director of the Bureau of the Budget under President Truman, made late-evening calls to Norris E. Dodd, Under Secretary of Agriculture. It is unknown whether these calls related to Roswell, and Gerb admits the link may be a stretch. He raises it because at Johnson's December 10, 1965 meetings, Webb, by then NASA Director, was joined by Secretary of Agriculture [[Orville Freeman]], and it is not clear why an agriculture secretary would attend meetings with Defense, NASA, and Joint Chiefs leadership.
 
 ## Legacy in UAP Disclosure
 
-Johnson's documented interest in UFOs as a Senator, his meetings the day after Kecksburg, and his relationship with Dr. Eric A. Walker make him a significant figure in the history of presidents' involvement with the UAP phenomenon. [[Luis Elizondo|Lou Elizondo]] named Johnson alongside Truman, Eisenhower, JFK, Carter, Reagan, H.W. Bush, and Trump as presidents who were briefed into the subject.
+Johnson's documented interest in UFOs as a Senator, his meetings the day after Kecksburg and his relationship with Dr. Eric A. Walker give him a significant place in the history of presidents' involvement with the UAP phenomenon. [[Luis Elizondo|Lou Elizondo]] named Johnson alongside Truman, Eisenhower, JFK, Carter, Reagan, H.W. Bush, and Trump as presidents who were briefed into the subject.
 
 ## Sources
 

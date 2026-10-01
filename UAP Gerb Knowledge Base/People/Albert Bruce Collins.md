@@ -25,11 +25,11 @@ Collins claimed that around 1949 he studied metal of unknown composition and ori
 - Project White Book, between the CIA and the Vatican
 - Project Yellow Book, a scientific panel of an unknown government scientific review board
 
-Collins also said he had heard that [[Los Alamos National Laboratory|Los Alamos National Labs]] had been studying green fireballs and strange debris found in the desert. Gerb notes that the claim matches [[Project Twinkle]], a real Atomic Energy Commission investigation of green fireballs at Los Alamos, Sandia, White Sands, and Holloman Air Force Base in the late 1940s and early 1950s. Gerb mentions that Collins also claimed knowledge that Project Archangel had determined some UFO occupants were biological extraterrestrials, and says he may return to these claims in future.
+Collins also said he had heard that [[Los Alamos National Laboratory|Los Alamos National Labs]] had been studying green fireballs and strange debris found in the desert. Gerb notes that the claim matches [[Project Twinkle]], a real Atomic Energy Commission investigation of green fireballs at Los Alamos, Sandia, White Sands, and Holloman Air Force Base in the late 1940s and early 1950s. Gerb mentions that Collins also claimed to know that Project Archangel had determined some UFO occupants were biological extraterrestrials, and says he may return to these claims in future.
 
 ## The NRO and the "Black Sky" Threat
 
-Collins asserted that the NRO not only collected imagery and other intelligence on "orbiting spacecraft of unknown origin" but was founded for that purpose. In his words:
+Collins asserted that the NRO collected imagery and other intelligence on "orbiting spacecraft of unknown origin" and had been founded for that purpose. In his words:
 
 > "The Air Force wanted to counter the black sky UFO threat by the formation of the high frontier programs for space-based weapon systems in the early 1960s. Talon Gold and Teal Ruby projects were a direct result of satellite recon photos of orbiting spacecraft of unknown origins. This led to the establishment of the NRO in 1960."
 

@@ -34,7 +34,7 @@ rows:
     role: "Director"
     from: "1981-08"
     to: "1988-12"
-    note: "Held alongside both Air Force posts, the dual-hatted role at the centre of Gerb's case."
+    note: "Held at the same time as both Air Force posts. This double role is at the centre of Gerb's case."
   - name: "US Air Force"
     role: "Secretary of the Air Force"
     from: 1986
@@ -67,9 +67,9 @@ An Air Force History and Museums document titled "A History of the Office of the
 - Operated exclusively under SAF/AA
 - Were not subject to oversight by [[SAFAAZ|SAF/AAZ]], the Air Force's own Special Access Program Central Office (SAPCO)
 
-In effect, the programs sat outside both standard Air Force SAP oversight and standard inter-agency accountability. Gerb doubts that the activities were created in Aldridge's day. He theorizes that they began as joint NRO/Air Force programs housed at the NRO, and that Aldridge moved them under SAF/AA, as a cover office, after the mid-1980s audits and SAP reforms that followed Reagan's 1982 Executive Order 12356 and the [[Yellow Fruit]] scandal. That order stripped away the ad hoc security protocols and loose top-secret codeword access the programs had previously exploited. The arrangement let legacy programs bypass even the Air Force's own component-level SAPCO while retaining Air Force administrative and operational control. Gerb adds that Davidson later joined the advisory board of Percepta, a company he links to Veritas Capital's alleged attempt to acquire the Kona Blue material.
+The programs therefore sat outside both standard Air Force SAP oversight and standard inter-agency accountability. Gerb doubts that the activities were created in Aldridge's day. He theorizes that they began as joint NRO/Air Force programs housed at the NRO, and that Aldridge moved them under SAF/AA, as a cover office, after the mid-1980s audits and SAP reforms that followed Reagan's 1982 Executive Order 12356 and the [[Yellow Fruit]] scandal. That order stripped away the ad hoc security protocols and loose top-secret codeword access the programs had previously exploited. The arrangement let legacy programs bypass even the Air Force's own component-level SAPCO while retaining Air Force administrative and operational control. Gerb adds that Davidson later joined the advisory board of Percepta, a company he links to Veritas Capital's alleged attempt to acquire the Kona Blue material.
 
-It is one example of how UFO legacy programs burrowed deeper into the onion when they came under outside pressure: they hid as "outside activities" inside a cover office instead of using acknowledged SAP channels. Gerb sees this as a root of the siloed, extremely compartmentalized structure he describes today.
+It is one example of how UFO legacy programs burrowed deeper into the onion under outside pressure, hiding as "outside activities" inside a cover office and staying out of acknowledged SAP channels. Gerb sees this as a root of the siloed, extremely compartmentalized structure he describes today.
 
 ## Aerospace Corporation
 

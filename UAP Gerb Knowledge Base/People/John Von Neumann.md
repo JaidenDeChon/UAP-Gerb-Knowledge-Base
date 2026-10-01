@@ -16,7 +16,7 @@ John Von Neumann was a Hungarian-American mathematician, physicist, and polymath
 
 Von Neumann (born János Lajos Neumann in Budapest on 28 December 1903) was recognized as a child prodigy and received his doctorate in mathematics from the University of Budapest in 1926, at the age of 22. He first came to Princeton in 1930, and in 1933 he became a professor of mathematics at the Institute for Advanced Study, where Albert Einstein also worked; he stayed there until his death. By the 1940s he was regarded as one of the most brilliant scientific minds of the 20th century, with expertise in pure mathematics, theoretical physics, economics, and computer architecture.
 
-During World War II, Von Neumann worked on the Manhattan Project, joining [[Los Alamos National Laboratory|Los Alamos]] as a consultant in September 1943, particularly on the implosion mechanism for the plutonium bomb. After the war he was a central figure in US defense science. He consulted for the Armed Forces Special Weapons Project, the RAND Corporation and the CIA, and served on the Atomic Energy Commission from March 1955 until his death in February 1957.
+During World War II, Von Neumann worked on the Manhattan Project. He joined [[Los Alamos National Laboratory|Los Alamos]] as a consultant in September 1943 and worked mainly on the implosion mechanism for the plutonium bomb. After the war he was a central figure in US defense science. He consulted for the Armed Forces Special Weapons Project, the RAND Corporation and the CIA, and served on the Atomic Energy Commission from March 1955 until his death in February 1957.
 
 ## Involvement in UAP Analysis
 
@@ -36,7 +36,7 @@ claim:
 responses:
   - by: "Gerb"
     stance: unresolved
-    text: "Steinman did not meticulously detail his sources or how he arrived at the roster. Gerb cannot rule out that he drew on the Interplanetary Phenomenon Unit documents before they leaked."
+    text: "Steinman did not document in detail his sources or how he arrived at the roster. Gerb cannot rule out that he drew on the Interplanetary Phenomenon Unit documents before they leaked."
 ---
 ::
 
@@ -52,11 +52,11 @@ Von Neumann's 1940s theoretical work on self-replicating automata, known as the 
 
 Von Neumann's universal constructor theory describes how a civilization unable to travel faster than light could colonize a galaxy by sending out self-replicating robotic or nanorobotic systems that reproduce from locally available materials. Gerb suggests that such a replicator hub might sit near the asteroid belt or in a dark region of the solar system, manufacturing craft and crew without any living intelligence having to make the journey.
 
-The anonymous whistleblower states that the program tasked [[NASA]] with searching for the heat signatures such a manufacturing facility would emit if it were in the solar system, since "it's hard to hide heat in space". The witness is unsure whether the facility was ever found: "I don't know if they ever found anything though." The vault files this idea as the [[Fabrication Hypothesis]].
+The anonymous whistleblower states that the program tasked [[NASA]] with searching for the heat signatures such a manufacturing facility would emit if it were in the solar system, since "it's hard to hide heat in space". The witness is unsure whether the facility was ever found: "I don't know if they ever found anything though." This wiki covers the idea under [[Fabrication Hypothesis]].
 
 ## Death and Legacy
 
-Von Neumann died of cancer in Washington, D.C., on 8 February 1957, at age 53. His contributions to computer science, game theory, and nuclear strategy remain foundational. If confirmed, his alleged work analyzing recovered UAP materials would be one of the most significant and highly classified chapters of his career, hidden from the public for decades. UAP researchers still cite his universal constructor theory as a framework for understanding how non-human technological systems might operate without biological operators having to travel interstellar distances.
+Von Neumann died of cancer in Washington, D.C., on 8 February 1957, at age 53. His contributions to computer science, game theory, and nuclear strategy remain foundational. If confirmed, his alleged work analyzing recovered UAP materials would be one of the most significant and most highly classified parts of his career, kept from the public for decades. UAP researchers still cite his universal constructor theory to explain how non-human technological systems might operate without biological operators having to travel interstellar distances.
 
 ## Sources
 

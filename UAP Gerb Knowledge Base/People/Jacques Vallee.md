@@ -8,7 +8,7 @@ tags:
   - person
 ---
 
-Jacques Vallée is a French-American computer scientist and astronomer, and a prominent UFO researcher whose work has significantly influenced the study of unidentified aerial phenomena. Born in Pontoise, France, in 1939, he worked with Dr. [[J. Allen Hynek]] at Northwestern University in the 1960s while earning a doctorate in computer science. Vallée has written numerous books and papers on UFO cases, anomalous phenomena, and where science meets the paranormal, and has kept a journal for decades, published as the *Forbidden Science* series. Gerb draws on him across ten videos, most often as a recorder of what insiders told him: his journals preserve accounts from [[Eric Davis]] and others about legacy programs, contractors and audits, and in 2020 he spoke publicly about a private contractor holding UFO materials.
+Jacques Vallée is a French-American computer scientist and astronomer. He is also a prominent UFO researcher, and his work has had a significant influence on the study of unidentified aerial phenomena. Born in Pontoise, France, in 1939, he worked with Dr. [[J. Allen Hynek]] at Northwestern University in the 1960s while earning a doctorate in computer science. Vallée has written numerous books and papers on UFO cases, anomalous phenomena, and where science meets the paranormal, and has kept a journal for decades, published as the *Forbidden Science* series. Gerb draws on him across ten videos, most often as a recorder of what insiders told him: his journals preserve accounts from [[Eric Davis]] and others about legacy programs, contractors and audits, and in 2020 he spoke publicly about a private contractor holding UFO materials.
 
 ## On the Record
 
@@ -83,7 +83,7 @@ entries:
 
 ## Canadian Air Force 1953 UFO Case
 
-Vallée summarized and reported on an August 1953 Canadian Air Force UFO sighting and its photographic evidence, adding to the record of early military UFO encounters. In a talk Gerb covers, physicist [[Kevin Knuth]] cites the case: Dr. Bruce Maccabee measured the exposure of the original photograph and found luminosities of 2,000 to 30,000 megacandelas, which Knuth suggests may be a byproduct of the propulsion.
+Vallée summarized and reported on an August 1953 Canadian Air Force UFO sighting and its photographic evidence. In a talk Gerb covers, physicist [[Kevin Knuth]] cites the case: Dr. Bruce Maccabee measured the exposure of the original photograph and found luminosities of 2,000 to 30,000 megacandelas, which Knuth suggests may be a byproduct of the propulsion.
 
 ## Aerospace Corporation Connection
 
@@ -91,16 +91,16 @@ In *Forbidden Science 5: Pacific Heights*, which covers his journals from 2000 t
 
 ## Battelle Identification on Joe Rogan Experience
 
-On December 4, 2020, in Joe Rogan Experience episode #1574 with documentary filmmaker [[James Fox]], Vallée said that one of the entities that helps control the study of the UFO phenomenon within the intelligence agencies is "a private contractor". He nervously declined to name the organization that holds recovered UFO materials. Fox then identified it indirectly by mentioning its involvement with the January 1953 [[Robertson Panel]]. That pointer is consistent specifically with [[Battelle Memorial Institute]], the contractor running the parallel [[Project Stork]] investigation at the time. Gerb cited this part of the episode (starting about one hour and forty-two minutes in) as corroboration of the Battelle material recovery hypothesis.
+On December 4, 2020, in Joe Rogan Experience episode #1574 with documentary filmmaker [[James Fox]], Vallée said that one of the entities that helps control the study of the UFO phenomenon within the intelligence agencies is "a private contractor". He nervously declined to name the organization that holds recovered UFO materials. Fox then identified it indirectly by mentioning its involvement with the January 1953 [[Robertson Panel]]. That detail fits [[Battelle Memorial Institute]] specifically, the contractor running the parallel [[Project Stork]] investigation at the time. Gerb cited this part of the episode (starting about one hour and forty-two minutes in) as corroboration of the Battelle material recovery hypothesis.
 
 ## Accounts in the Forbidden Science Journals
 
 Several of Gerb's videos lean on entries in Vallée's journals:
 
-- **Zodiac and the TRW study.** A 3 March 2001 entry records [[Eric Davis]] relaying the Zodiac story and describing a ten-volume binder at [[Wright-Patterson Air Force Base]] holding data from the Roswell crash and "a special study done by TRW". Gerb would like Davis to expand on it, though he says his own trust in Davis is "wafer-thin".
-- **The Bowsher audit.** A 24 September 2004 entry says that Charles Bowsher, Comptroller General from 1981 to 1996, found a crashed-UFO program known to "less than a handful of officials" during a massive audit of classified projects, and considered turning it over for prosecution until "a powerful person in DoD quenched it". In his Lockheed Martin video Gerb wonders whether that person was Secretary of Defense Caspar Weinberger.
-- **George H. W. Bush on Corso.** In *Forbidden Science: Pacific Heights*, Eric Davis asks former president George H. W. Bush whether the material [[Philip J. Corso]] handled could have been Nazi hardware. Bush says that was impossible, and that a conversation with [[Arthur Trudeau]] about Corso's planned testimony at the 1968 Mendel Rivers hearings led to that testimony being squashed.
-- **F-4s and UAP detection.** In June 1986, former Battelle contractor [[James McCampbell]] told Vallée that a Wild Weasel contact said F-4s were fitted with electromagnetic equipment to detect UAP during the Vietnam War, a detail Gerb ties to the F-4s over the crash in the Infographic Show whistleblower's account.
+- A 3 March 2001 entry records [[Eric Davis]] relaying the Zodiac story and describing a ten-volume binder at [[Wright-Patterson Air Force Base]] holding data from the Roswell crash and "a special study done by TRW". Gerb would like Davis to expand on it, though he says his own trust in Davis is "wafer-thin".
+- A 24 September 2004 entry says that Charles Bowsher, Comptroller General from 1981 to 1996, found a crashed-UFO program known to "less than a handful of officials" during a massive audit of classified projects, and considered turning it over for prosecution until "a powerful person in DoD quenched it". In his Lockheed Martin video Gerb wonders whether that person was Secretary of Defense Caspar Weinberger.
+- In *Forbidden Science: Pacific Heights*, Eric Davis asks former president George H. W. Bush whether the material [[Philip J. Corso]] handled could have been Nazi hardware. Bush says that was impossible, and that a conversation with [[Arthur Trudeau]] about Corso's planned testimony at the 1968 Mendel Rivers hearings led to that testimony being squashed.
+- In June 1986, former Battelle contractor [[James McCampbell]] told Vallée that a Wild Weasel contact said F-4s were fitted with electromagnetic equipment to detect UAP during the Vietnam War. Gerb ties the F-4 detail to the F-4s over the crash in the Infographic Show whistleblower's account.
 
 ## Critic of Corso
 
