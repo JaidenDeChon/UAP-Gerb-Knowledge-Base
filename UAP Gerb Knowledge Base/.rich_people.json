@@ -1031,5 +1031,44 @@
     ],
     "dates": "verified",
     "corrections": 1
+  },
+  "Eric Taber": {
+    "enriched_at": "2026-10-01T22:03:01Z",
+    "videos": 4,
+    "components": [],
+    "dates": "partial",
+    "corrections": 1
+  },
+  "Daniel Sheehan": {
+    "enriched_at": "2026-10-01T22:03:01Z",
+    "videos": 4,
+    "components": [
+      "wiki-record"
+    ],
+    "dates": "verified",
+    "corrections": 4
+  },
+  "Nick Cook": {
+    "enriched_at": "2026-10-01T22:03:01Z",
+    "videos": 4,
+    "components": [],
+    "dates": "verified",
+    "corrections": 1
+  },
+  "Mary K. Sturdivant": {
+    "enriched_at": "2026-10-01T22:03:01Z",
+    "videos": 5,
+    "components": [
+      "wiki-roster"
+    ],
+    "dates": "partial",
+    "corrections": 4
+  },
+  "Enrico Fermi": {
+    "enriched_at": "2026-10-01T22:03:01Z",
+    "videos": 3,
+    "components": [],
+    "dates": "verified",
+    "corrections": 1
   }
 }

@@ -1,86 +1,80 @@
 ---
 name: "Mary K. Sturdivant"
-role: "CIA analyst; NRO Deputy Director for National Support; NSC Senior Director; Lockheed Martin VP (2006-2021)"
+aliases: ["Mary K. Sturtevant", "Mary Sturtevant"]
+role: "Former CIA officer, Senate Intelligence Committee budget director, NSC senior director and NRO deputy director; Lockheed Martin vice president (2006-2021)"
+active_from: 1985
+active_to: 2021
 tags:
   - person
 ---
 
-Mary K. Sturdivant (alternate spelling: Sturivant) is a former US intelligence and national security official whose career spanned the [[CIA]], the [[NRO (National Reconnaissance Office)]], the [[National Security Council]] and [[Lockheed Martin]]. UAP researchers see her as possibly a central figure in the alleged blocking of the [[Kona Blue]] UAP material transfer, because during the 2008-2011 period she held a unique position bridging CIA intelligence structures and Lockheed Martin's UAP-related programs. Her career is an example of the revolving door between intelligence agencies and defense contractors, and it raises questions about where her ultimate loyalties lay during the Kona Blue episode.
+Mary K. Sturtevant, whose surname Gerb's videos also render as Sturdivant, is a former US intelligence and national security official whose career ran through the [[CIA]], the [[Senate Select Committee on Intelligence]], the [[National Security Council]] and the [[NRO (National Reconnaissance Office)|NRO]] before she became a vice president at [[Lockheed Martin]]. Gerb "formally" identifies her as a high-level member of Lockheed's UFO legacy program operations, and argues that during the failed 2011 [[Kona Blue]] transfer her loyalty to the CIA may have outweighed her duties at Lockheed. He calls the case for that "very strong" while saying it remains unknown.
 
-## Early Career and BDM Corporation
+The White House statement on her 2001 appointment to the National Security Council and Gerb's own posts spell the name Sturtevant. The video captions mostly give "Sturivant" or "Sturdivant", which is where this page's title comes from.
 
-Before her government service, Sturdivant worked at [[BDM International]] (Braddock, Dunn, and MacDonald Corporation), a technical services firm headquartered at Fort Bliss, Texas, White Sands Missile Range, New Mexico, and Holloman Air Force Base, New Mexico. At BDM she researched and analyzed defense and arms control issues, focusing specifically on technology transfer projects. That experience later informed her CIA work analyzing Soviet acquisition of Western dual-use technology.
+## Career
 
-BDM itself is significant in UAP research:
-- The corporation specialized in missile guidance, applied optics, electronic instrumentation, and radiation physics
-- Founded in 1959 alongside [[MITRE Corporation]] and [[Aerospace Corporation]] (both DOE FFRDCs implicated in UAP programs)
-- Named specifically by Commander Will Miller in the [[Wilson-Davis notes]] as one of the contractors where "keepers of the secrets" resided, alongside Boeing, Lockheed, and SAIC
-- Had [[Albert Stubblebine]] as VP after he left US Army [[INSCOM]] (Intelligence and Security Command) in 1984, an organization also implicated in UAP crash retrieval operations
-- Hosted an advanced theoretical physics conference in 1985 to discuss UFO reverse engineering opportunities
-- Had Rear Admiral Sumar Shapiro on its board. Shapiro told Bob Echler (at Admiral Bobby Ray Inman's recommendation) about recovered UFOs he had studied personally
+Little about Sturtevant is online, and Gerb calls her "largely a ghost." He pieces her career together from a "glowing celebration of her work" in volume 3 of the NRO's *Leaders of the NRO*, old Senate Intelligence Committee documents and the White House statement on her NSC appointment:
 
-Her time at BDM may have placed her near UAP-related technical work early in her career.
+- **BDM.** Before government service she worked at [[BDM International]] (the Braddock, Dunn and McDonald Corporation), where she "conducted research and analysis on a wide range of defense and arms control issues" and, according to the White House statement, worked on technology transfer projects.
+- **CIA, from 1985.** She began at the Directorate of Intelligence's Technology Transfer Assessment Center as an analyst of the role of Soviet intelligence in acquiring Western dual-use technology, and later worked in the CIA Counterintelligence Center.
+- **Senate Select Committee on Intelligence, eight years.** She "evaluated tactical military programs, provided advice on CIA programs, and served as budget director responsible for all the staff support for the annual authorization of the intelligence budget."
+- **CIA again.** She returned as agency comptroller, supporting the Director of Central Intelligence's strategic decisions and bringing information technology into the office's work. In 1999 she was named deputy director of the Clandestine Information Technology Office, a joint venture of the CIA's Directorate of Operations and its [[CIA Directorate of Science and Technology|Directorate of Science and Technology]]. The White House statement says she held senior posts in both directorates and played a key role in developing the CIA's information operations program.
+- **National Security Council, from July 2001.** Special Assistant to the President and Senior Director for Intelligence Programs under George W. Bush, effective 9 July 2001. The White House statement gives her education as a BA in history and Russian area studies from the University of California, Santa Barbara, and an MA in Soviet studies and international economics from the Johns Hopkins School of Advanced International Studies.
+- **NRO, 2004 to 2006.** Deputy Director for National Support.
+- **Lockheed Martin, 2006 to 2021.** Vice president for government affairs, and vice president for intelligence, joint, and science and technology programs, a role Gerb finds documented from at least 2011 to 2015. Her online footprint largely disappears once she joins Lockheed.
 
-## CIA Career
+### BDM in Gerb's coverage
 
-Sturdivant began her CIA career in 1985 at the [[CIA Directorate of Intelligence]]'s Technology Transfer Assessment Center, analyzing the role of Soviet intelligence in acquiring Western dual-use technology. She then moved to the [[CIA Counterintelligence Center]]. In 1999 she was appointed Deputy Director of the Clandestine Information Technology Office at the CIA.
+Gerb dwells on BDM because he has implicated it, its 1997 buyer TRW and TRW's 2002 buyer [[Northrop Grumman]] in UFO legacy programs. BDM worked from Fort Bliss, Texas, White Sands Missile Range and Holloman Air Force Base on missile guidance, applied optics, electronic instrumentation and radiation physics. It was founded in 1959, around the same time as [[MITRE Corporation|MITRE]] and the [[Aerospace Corporation]], two federally funded research and development centres he considers central to legacy programs. In the [[Wilson-Davis Memo|Wilson-Davis notes]], Commander [[Will Miller]] named BDM, with Boeing, Lockheed and SAIC, among the contractors where the "keepers of the secrets" resided. [[Albert Stubblebine]] became a BDM vice president after leaving INSCOM in 1984, and the firm hosted an advanced theoretical physics conference the following year to discuss UFO reverse-engineering opportunities. Rear Admiral [[Sumar Shapiro]], who described recovered craft to [[Bob Echler]] at [[Bobby Ray Inman]]'s recommendation, sat on its board. Gerb says Stubblebine and Sturtevant "could have certainly crossed paths at BDM."
 
-The post matters because the Clandestine Information Technology Office was a joint venture between the [[CIA Directorate of Operations]] (the Clandestine Service) and the [[CIA Directorate of Science and Technology]]. Gerb has previously implicated both directorates in UFO legacy program operations:
-- The Directorate of Science and Technology (DS&T) has been linked to technical intelligence on UAP crash retrievals, oversight of recovered materials programs, and creation of the [[CIA Office of Global Access]] for foreign crash retrieval logistics
-- The Directorate of Operations has been implicated in naval UFO recovery missions and clandestine crash retrieval operations
+## Alleged Role in Blocking Kona Blue
 
-Her 1999 position put her where the operations of the two directorates met, at a time when both were allegedly active in UAP-related work.
+In 2011 Lockheed vice president [[James T. Ryder]] tried to divest recovered material, which Gerb believes came from the 1953 [[1953 Kingman, Arizona Crash Retrieval|Kingman]] crash, through Kona Blue, a proposed special access program at the Department of Homeland Security, to [[AAWSAP]]. [[Glenn Gaffney]], deputy director of the CIA's Directorate of Science and Technology, allegedly killed the transfer. Sturtevant was then a senior Lockheed vice president and Ryder's colleague.
 
-## Senate Select Committee on Intelligence
+Gerb asks whether she worked with Gaffney to thwart her co-worker. His reasoning rests on her 1999 post in the office the Directorate of Science and Technology ran jointly with the Directorate of Operations, two parts of the CIA he has tied to UFO legacy programs (the science and technology directorate also created the [[CIA Office of Global Access]] in 2003), and on the principle that "once an individual joins the agency, they are agency for life." He sets her beside [[Donald M. Kerr]], who also moved between the CIA's science and technology directorate, the NRO and contractors. In the Lockheed video he says whether she helped is "of course unknown"; in the NRO video he wagers that her allegiance to the NSC and the CIA directorate "would likely have commanded her to aid in the blockage." By his Northrop Grumman videos he states it as settled: that she "liaised between" Ryder and Gaffney, and "back-channeled" to Gaffney about the proposed transfer. His crash retrieval timeline names Gaffney and her, as "elements of the DS&T", as the ones who killed it.
 
-After her CIA work, Sturdivant was recruited to the [[Senate Select Committee on Intelligence]] (SSCI), where she served for approximately eight years. In this role, she:
-- Evaluated tactical military programs
-- Provided advice on CIA programs
-- Served as budget director responsible for all staff support for the annual authorization of the intelligence budget
+Researcher Rob Jones offers a third possible figure, [[Robert Cardillo]], then deputy director of national intelligence for intelligence integration, as the final authority who blocked the transfer.
 
-During her SSCI tenure, Sturdivant worked closely with [[Chris Mellon]], who served as a professional staff member on SSCI from 1989 to 1996. Documentary evidence shows the two attended the same SSCI briefings and professional meetings from at least 1989 through 1996. Their per diem and transportation costs were identical in January-March 1996, which suggests they traveled together to the same series of meetings.
+## The Chris Mellon Connection
 
-Mellon was later involved with [[To The Stars Academy]] alongside Lockheed Skunk Works veteran [[Steve Justice]]. That adds another connection between Sturdivant, Lockheed UAP programs and public UAP disclosure efforts.
+[[Chris Mellon]], later a public advocate for UAP disclosure with [[To The Stars Academy]], served as a professional staff member on the Senate Intelligence Committee from 1989 to 1996, alongside Sturtevant. Gerb shows a 1989 memorandum for record of an SSCI meeting both attended, documents showing they kept attending the same briefings up to at least 1992, and identical per diem and transportation costs for 1 January to 31 March 1996, which he says imply they travelled to the same meetings. Gerb asked Mellon to question her about Kona Blue; Mellon did not help. In later videos Gerb says he believes Mellon "may be protecting" his former colleague, and urges him to ask her again and "stop protecting her."
 
-## National Reconnaissance Office and National Security Council
+## People Around Her
 
-After SSCI, Sturdivant returned to the executive branch intelligence community, serving as:
-- CIA Agency Comptroller, supporting the Director of Central Intelligence's strategic decisions and introducing information technology to office functions
-- NRO Deputy Director for National Support (2004-2006), a senior leadership position at the National Reconnaissance Office, the agency responsible for satellite reconnaissance and overhead collection
-- Special Assistant to the President and Senior Director for Intelligence Programs, National Security Council (2001), coordinating intelligence program policy at the White House level under President George W. Bush
+::wiki-roster
+---
+entries:
+  - name: "James T. Ryder"
+    role: "Lockheed Martin vice president"
+    note: "Her Lockheed colleague, whose 2011 attempt to transfer recovered material through Kona Blue was blocked."
+  - name: "Glenn Gaffney"
+    role: "CIA deputy director for science and technology"
+    note: "Allegedly killed the Kona Blue transfer. Gerb argues she worked with him to block it."
+  - name: "Chris Mellon"
+    role: "Former Senate Intelligence Committee staff member"
+    note: "Her SSCI colleague from 1989. Gerb asked him to question her about Kona Blue, and says he may be protecting her."
+  - name: "Robert Cardillo"
+    role: "Former deputy director of national intelligence"
+    note: "Put forward by researcher Rob Jones as a possible final authority in blocking the transfer."
+  - name: "Donald M. Kerr"
+    role: "Former CIA science and technology chief and NRO director"
+    note: "The model Gerb compares her to: a senior official who moved between the agency and its contractors."
+  - name: "Richard Haver"
+    role: "TRW and Northrop Grumman vice president for intelligence programs"
+    note: "Held the post Gerb calls the mirror of hers at a rival prime contractor."
+---
+::
 
-Her path from CIA analyst to NRO deputy director to NSC senior director was an extraordinary rise through the intelligence community's most sensitive and compartmentalized structures.
+## Other Mentions
 
-## Lockheed Martin Career (2006-2021)
-
-In 2006 Sturdivant moved to the private sector and joined [[Lockheed Martin]] as:
-- Vice President for Government Affairs (2006-2021)
-- Vice President for Intelligence, Joint, and Science and Technology Programs (at least 2011-2015)
-
-At Lockheed Martin she held significant authority over the corporation's most classified programs at the very time [[James T. Ryder]] was trying to transfer recovered UAP materials to [[AAWSAP]] via [[Kona Blue]]. As VP for Intelligence, Joint, and Science and Technology Programs, Sturdivant would have had visibility into, and potentially oversight authority over, any Lockheed programs involving technologies of unknown origin.
-
-## Role in Alleged Kona Blue Blocking
-
-UAP researchers theorize that Sturdivant may have helped coordinate the CIA's stonewalling of the Kona Blue technology transfer, possibly acting as a CIA liaison inside Lockheed Martin. The circumstantial evidence for this theory includes:
-
-1. Sturdivant was a Lockheed VP during the 2008-2011 Kona Blue attempts
-2. Her role as VP for Intelligence, Joint, and Science and Technology Programs would have covered any UAP material custody programs
-3. Her 1999 role in the joint DS&T/Directorate of Operations office gave her professional ties to the directorate that [[Glenn Gaffney]] would later lead as Deputy Director when he blocked the transfer
-4. Under the principle of "once agency, always agency", CIA officers maintain lifelong loyalty to the agency even after moving to private-sector roles
-5. Sturdivant and [[James T. Ryder]] both held VP-level positions at Lockheed Martin Space Systems during the transfer attempts, which suggests they worked in close professional proximity
-
-According to the theory, Sturdivant may have been one of the Lockheed executives Gaffney met to block the transfer, and she may have coordinated with Gaffney to make sure the transfer was killed from both the CIA side and the Lockheed side.
-
-## Christopher Mellon Connection
-
-When UAP researchers suggested approaching [[Chris Mellon]] to ask about Sturdivant's role in Kona Blue, Mellon reportedly declined to question her. Mellon worked closely with Sturdivant on the SSCI in the 1990s and later took a prominent role in UAP disclosure through [[To The Stars Academy]]. He has publicly advocated for UAP transparency while potentially protecting a former colleague who may have been instrumental in blocking Congressional oversight of UAP materials.
-
-## NRO Leadership Recognition
-
-Sturdivant is recognized in the National Reconnaissance Office's "Leaders of the NRO" Volume 3 publication, though specific details of her contributions remain classified. Her online footprint is sparse, which is unusual for someone of her seniority, and suggests she actively manages her public profile, possibly for operational security reasons tied to the continued sensitivity of her past work.
+Among thirteen officials with NRO ties whom Gerb names in his NRO video as likely current or former legacy program members or gatekeepers, Sturtevant is the last. In his video on Air Force reverse-engineering programs, he says the career of [[Lawrence J. Delaney]] resembles hers, and calls her "a career CIA spook and decades-long VP of Lockheed Martin."
 
 ## Sources
 
 - [[Videos/Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/summary|Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
 - [[Videos/National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers/summary|National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers]]
 - [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
+- [[Videos/Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2/summary|Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2]]
+- [[Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/summary|The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
+- White House, "Statement on the Appointment of Mary K. Sturtevant", July 2001 (via the Federation of American Scientists)
