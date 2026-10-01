@@ -1,51 +1,41 @@
 ---
 name: "Stan Gordon"
-role: "UFO researcher and investigator"
+role: "UFO researcher and investigator; primary investigator of the 1965 Kecksburg incident"
+born: "1949"
+active_from: 1965
+active_to: "present"
 tags:
   - person
 ---
 
-**Stan Gordon** is a Pennsylvania-based UFO researcher and investigator who has spent decades documenting the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]]. He is considered the foremost researcher on the Kecksburg case. He has conducted hundreds of interviews with witnesses, obtained government documents through FOIA requests, and produced documentaries that brought the incident national attention.
+**Stan Gordon** is a UFO researcher and investigator from [[Greensburg, Pennsylvania|Greensburg]], Pennsylvania, and the longest-serving investigator of the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]]. Gerb calls him "the most seasoned Kecksburg investigator" and leans mainly on his work, and on that of [[Leonard Stringfield]], with whom Gordon shared much of his research and many of his witnesses. Over the decades Gordon has interviewed witnesses, obtained government records through FOIA requests and produced a documentary on the case.
+
+## Career
+
+Born in 1949, Gordon has lived in Greensburg, a few miles from Kecksburg, all his life. He was 16 on the evening of 9 December 1965, when he heard the first radio reports that something had come down in the woods near the village, and he has carried out field investigations of UFO reports and other unexplained events in Pennsylvania since that year. He founded a series of volunteer research groups in the state, beginning with the Westmoreland County UFO Study Group in 1970, and was for many years Pennsylvania State Director of the [[MUFON|Mutual UFO Network]]. Beyond Kecksburg, he is known for investigating the Pennsylvania wave of UFO and Bigfoot reports in 1973, and he has written books on the state's UFO and cryptid cases.
 
 ## Kecksburg Investigation
 
-Gordon became involved with the Kecksburg case years after the event of December 9, 1965, when witnesses who had stayed silent out of fear began to come forward. In 1987, [[Jim Romansky]], a volunteer fireman who had been at the crash site, first approached Gordon with his testimony. From there Gordon began a full investigation of what has become one of the most thoroughly documented UAP crash retrieval cases in history.
+Gordon has followed the Kecksburg case since the night it happened, but many of its witnesses reached him only years later. The volunteer fireman [[Jim Romansky]] had feared ridicule for years before he first approached Gordon in 1987 to tell his story. He later took Gordon to the exact site of the crash, which lined up with the description given by [[Bill Bully Bush]], who as far as Gerb knows never compared notes with Romansky. Romansky told Gordon of the object's colour: "never in my life have I seen the color of that metal in any shape or form."
 
-### Key Contributions
+Gordon's investigation includes:
 
-Gordon's investigative work on Kecksburg includes:
+- **Records on Cosmos 96.** Through FOIA requests to [[US Space Command]] and the [[Naval Surveillance Center]], Gordon obtained records showing that the Soviet probe [[Cosmos 96]] entered the atmosphere over Canada at about 3:18 a.m. Eastern time on 9 December 1965, roughly 13 hours before the Kecksburg fireball. He concluded that the event was not caused by Cosmos 96.
+- **The WHJB tapes.** Gordon has said he received notarized documents from employees of the radio station WHJB claiming that elements of the U.S. government confiscated news tapes of eyewitness accounts and would not let them be broadcast.
+- **The Lockbourne guard and Myron.** A former member of an Air Force security team contacted Gordon before the 1990 *Unsolved Mysteries* broadcast on Kecksburg. He said he had guarded a bronze, bell-shaped object backed into a hangar at [[Lockbourne Air Force Base, Columbus, Ohio|Lockbourne Air Force Base]] early on 10 December 1965. The trucker known as "[[Myron]]" first contacted Gordon after the broadcast, and was then interviewed by Stringfield.
+- **Eric Walker.** Gordon had a report of someone matching the description of [[Eric A. Walker]], then president of Penn State, at the crash site. Walker later told the researcher Armen Victorian that he went there.
+- **Joel.** Prompted by local news of [[Leslie Kean]]'s effort to free NASA's Kecksburg files, a witness called Joel contacted Gordon, who met him at his home in late 2002. Joel said he had watched an Army general strike the object with a probe, after which a hatch swung open with a whirring, hissing sound.
 
-- Gordon interviewed dozens of witnesses at length, including firsthand observers such as [[Jim Romansky]], [[Bill Bully Bush]] and [[Jerry Betters]]. The interviews were methodical and often videotaped, which left a permanent record of the testimony.
-- Through Freedom of Information Act (FOIA) requests to several agencies, including [[US Space Command]] and the [[Naval Surveillance Center]], Gordon obtained documents confirming that the Soviet spacecraft [[Cosmos 96]] entered the atmosphere over Canada at 3:18 AM EST on December 9, 1965. That was roughly 13 hours before the Kecksburg event, which definitively ruled the spacecraft out as the cause.
-- Employees of the WHJB radio station gave Gordon notarized documents claiming that elements of the U.S. government confiscated news tapes of eyewitness accounts and prevented them from being broadcast.
-- Gordon produced the documentary *Kecksburg: The Untold Story* (1998), which presented new witness testimony. One witness, a trucker called "Myron", claimed to have seen the craft and an alien body at [[Wright-Patterson Air Force Base|Wright-Patterson AFB]].
+### Bodies
 
-### Collaboration with Leonard Stringfield
+In the proceedings of the 2003 annual crash retrieval conference, Gordon wrote of rumours of bodies at the site: "in more recent years I have heard rumors that are not widely known that two small bodies were supposedly found at the impact location in 1965. I have generally accepted this as hearsay since there has never been any evidence to back up these claims." One such account came from Myron, who in 1998, in poor health, agreed to be filmed for Gordon's documentary *Kecksburg: The Untold Story*. During the interview he said for the first time that he had also seen a small body under a sheet on a workbench beside the object at [[Wright-Patterson Air Force Base]]. Gerb at first found this late addition a red flag, but notes that Myron said he had held it back out of fear.
 
-Gordon worked closely with legendary UFO crash retrieval researcher [[Leonard Stringfield]], sharing witness testimony and documentation. Stringfield used Gordon's findings extensively in his *UFO Crash Retrievals: The Inner Sanctum* status reports, and the two men cross-referenced witness accounts to establish that the Kecksburg story was credible and consistent.
+## Documentary
 
-## Later Research and Public Appearances
-
-Gordon's work helped renew public interest in the Kecksburg case. His findings appeared in:
-
-- *Unsolved Mysteries* (1990 episode on Kecksburg)
-- The 2003 Annual Crash Retrieval Conference, where Gordon discussed rumors of bodies recovered at the crash site
-- Various media interviews and conferences advocating for document disclosure
-
-Gordon played a major part in supporting journalist [[Leslie Kean|Leslie Keen]]'s legal effort to compel [[NASA]] to release its Kecksburg documents. NASA eventually reported that the files had been lost since 1987, but Gordon's FOIA work and public advocacy kept government agencies under pressure to address the case.
-
-## UFO Research Beyond Kecksburg
-
-Kecksburg is Gordon's best-known case, but he has also investigated many other UFO sightings and anomalous events in Pennsylvania and the surrounding states. He is known for a very careful approach that combines an open mind with critical skepticism, and for checking testimony against documents and other accounts.
-
-## Impact and Legacy
-
-Gordon's decades of work on Kecksburg have made him one of the most respected figures in UAP crash retrieval research. His methodical record of witness testimony, together with the official records he obtained that contradicted government conclusions, established Kecksburg as one of the most credible and well-researched UFO cases in history.
-
-His work preserved witness testimony for future researchers, particularly that of [[Jim Romansky]] and [[Bill Bully Bush]], and used verifiable evidence to thoroughly debunk the inconsistent official explanations (a meteor, Cosmos 96).
+Gordon produced and released *Kecksburg: The Untold Story* in 1998, a 92-minute documentary that won the 1998 EBE award for best historical UFO documentary at the International UFO Congress. Gerb lists it, with the *Unsolved Mysteries* episode and *Kecksburg: The New Roswell*, among the coverage that has made the case so widely known. At one point in the video Gerb dates Gordon's documentary to 1993; its release year is 1998.
 
 ## Sources
 
 - [[Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/summary|The 1965 Kecksburg, Pennsylvania UFO Crash]]
 - Stan Gordon, *Kecksburg: The Untold Story* (1998)
-- Leonard Stringfield, *UFO Crash Retrievals: The Inner Sanctum* series
+- Stan Gordon's official site, stangordon.info: biography and Kecksburg pages

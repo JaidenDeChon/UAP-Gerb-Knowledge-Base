@@ -897,5 +897,51 @@
     ],
     "dates": "partial",
     "corrections": 3
+  },
+  "Stan Gordon": {
+    "enriched_at": "2026-10-01T20:58:48Z",
+    "videos": 1,
+    "components": [],
+    "dates": "partial",
+    "corrections": 5
+  },
+  "Leslie Kean": {
+    "enriched_at": "2026-10-01T20:58:48Z",
+    "videos": 3,
+    "components": [
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "partial",
+    "corrections": 6
+  },
+  "Ruben Uriarte": {
+    "enriched_at": "2026-10-01T20:58:48Z",
+    "videos": 2,
+    "components": [
+      "wiki-record"
+    ],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "John P. Craven": {
+    "enriched_at": "2026-10-01T20:58:48Z",
+    "videos": 8,
+    "components": [
+      "wiki-timeline"
+    ],
+    "dates": "verified",
+    "corrections": 3
+  },
+  "James Forrestal": {
+    "enriched_at": "2026-10-01T20:58:48Z",
+    "videos": 4,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 2
   }
 }
