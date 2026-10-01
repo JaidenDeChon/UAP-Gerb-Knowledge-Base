@@ -943,5 +943,48 @@
     ],
     "dates": "verified",
     "corrections": 2
+  },
+  "Infographic Show Whistleblower": {
+    "enriched_at": "2026-10-01T21:02:00Z",
+    "videos": 1,
+    "components": [],
+    "dates": "none",
+    "corrections": 1
+  },
+  "Arthur Stansel Jr.": {
+    "enriched_at": "2026-10-01T21:02:00Z",
+    "videos": 7,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 7
+  },
+  "Catherine Austin Fitts": {
+    "enriched_at": "2026-10-01T21:02:00Z",
+    "videos": 8,
+    "components": [
+      "wiki-affiliations",
+      "wiki-record"
+    ],
+    "dates": "partial",
+    "corrections": 4
+  },
+  "Robert Salas": {
+    "enriched_at": "2026-10-01T21:02:00Z",
+    "videos": 4,
+    "components": [],
+    "dates": "partial",
+    "corrections": 2
+  },
+  "The Insider": {
+    "enriched_at": "2026-10-01T21:02:00Z",
+    "videos": 2,
+    "components": [],
+    "dates": "none",
+    "corrections": 2
   }
 }
