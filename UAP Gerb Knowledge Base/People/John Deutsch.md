@@ -67,10 +67,10 @@ entries:
     note: "Followed Deutch in the acquisition post and sat on SAPOC as a permanent member. Gerb calls him a lifelong MITRE man."
   - name: "William A. Owens"
     role: "Admiral, Vice Chairman of the Joint Chiefs of Staff"
-    note: "A permanent SAPOC member after the restructuring who later led SAIC, which with Deutch makes two SAIC alumni among the six SAPOC figures Wilson dealt with."
+    note: "A permanent SAPOC member after the restructuring. He later led SAIC, so counting Deutch, two of the six SAPOC figures Wilson dealt with were SAIC alumni."
   - name: "Linton Wells II"
     role: "Permanent Senior Review Group member"
-    note: "Another member of the review group Deutch chaired, allegedly briefed into MITRE's legacy programs."
+    note: "Another member of the review group Deutch chaired. He was allegedly briefed into MITRE's legacy programs."
 ---
 ::
 
@@ -86,23 +86,23 @@ The notes date this to 1997. By then Deutch had left the Pentagon (May 1995) and
 
 Gerb treats the threat as significant for several reasons:
 
-1. It shows the oversight body protecting the program threatening an officer whose post, Gerb stresses, ordinarily carried statutory oversight of every DoD special access program.
+1. The oversight body was protecting the program, and it threatened an officer whose post, Gerb stresses, ordinarily carried statutory oversight of every DoD special access program.
 
 2. The threat was specific: Wilson would lose his expected promotion to DIA director, be forced into early retirement, and potentially lose one or two of his three stars.
 
 3. Deutch's career ran from the acquisition office that allegedly held legacy files, to the SAPOC chair, to the CIA (1995–1996). That last post fits researchers' claims that the [[CIA]] Directorate of Science and Technology has played a leading role in crash retrievals.
 
-4. It shows the institutional mechanisms that protected unacknowledged programs, even from senior military intelligence officials with the right clearances.
+4. It shows how institutions shielded unacknowledged programs, even from senior military intelligence officials who held the right clearances.
 
 Wilson did not give up at once. According to the notes, in January 1998 he spoke to the new Under Secretary, [[Jacques Gansler]], and learned that Gansler had been read into the program. Wilson went on to become Director of the DIA (1999–2002).
 
 ## SAIC Connection
 
-In his video on [[SAIC]], Gerb introduces Deutch among the senior officials the company recruited, and says that before 1995, possibly while he was Deputy Secretary and in the acquisition office, Deutch was an SAIC director who even worked in its La Jolla office. Gerb also says he consulted for TRW, Los Alamos and MITRE before his time on SAPOC: "three institutions I directly accuse of being involved in UFO programs." Since the reorganizer, Bill Perry, had also served on SAIC's board, Gerb concludes "with a high degree of certainty" that Deutch served as a gatekeeper for UFO legacy programs, and he wagers that SAIC was the unnamed contractor in the Wilson-Davis notes. He lists Deutch among the living gatekeepers Congress should subpoena.
+In his video on [[SAIC]], Gerb introduces Deutch among the senior officials the company recruited, and says that before 1995, possibly while he was Deputy Secretary and in the acquisition office, Deutch was an SAIC director who even worked in its La Jolla office. Gerb also says he consulted for TRW, Los Alamos and MITRE before his time on SAPOC: "three institutions I directly accuse of being involved in UFO programs." Since Bill Perry, who reorganized SAP oversight, had also served on SAIC's board, Gerb concludes "with a high degree of certainty" that Deutch served as a gatekeeper for UFO legacy programs, and he wagers that SAIC was the unnamed contractor in the Wilson-Davis notes. He lists Deutch among the living gatekeepers Congress should subpoena.
 
 ## SAP Governance Role
 
-Gerb's *Special Access Required Vol.2* names Deutch, alongside [[Bill Perry]], as a chair of the [[SAPOC (Special Access Program Oversight Committee)|SAPOC]], established in 1994. Its Senior Review Group is the apex of access to the most sensitive DoD special access programs, including those Gerb alleges belong to the UFO legacy program portfolio. Gerb ties Perry's SAP reforms, and Deutch's role, to the 1994 move of program control out of the National Security Council, which he says was driven by fear of President Clinton's disclosures.
+Gerb's *Special Access Required Vol.2* names Deutch, alongside [[Bill Perry]], as a chair of the [[SAPOC (Special Access Program Oversight Committee)|SAPOC]], established in 1994. Its Senior Review Group is the top level of access to the most sensitive DoD special access programs, including those Gerb alleges belong to the UFO legacy program portfolio. Gerb ties Perry's SAP reforms, and Deutch's role, to the 1994 move of program control out of the National Security Council, which he says was driven by fear of President Clinton's disclosures.
 
 ## MITRE Board Membership
 

@@ -56,7 +56,7 @@ rows:
 entries:
   - name: "Glenn Gaffney"
     role: "CIA Deputy Director for Science and Technology"
-    note: "Named in the document Representative Burchett entered into the record as the official who killed the transfer. Gaffney has denied involvement; Cardillo is the possible higher authority behind it."
+    note: "Named in the document Representative Burchett entered into the record as the official who killed the transfer. Gaffney has denied involvement. Gerb suggests Cardillo may be the higher authority behind it."
   - name: "James T. Ryder"
     role: "Lockheed Martin Space Systems vice president"
     note: "Proposed moving Lockheed's 1950s crash retrieval material into Kona Blue, the transfer Cardillo allegedly blocked."
@@ -94,7 +94,7 @@ Rob Jones's paper *Sub Rosa* asks what became of Lockheed's material after the f
 ---
 kind: custody
 label: "Where the material went, according to Sub Rosa"
-caption: "Rob Jones' theory of where Lockheed's material went after the failed transfers: out with the unit Lockheed sold in 2010, through its successor companies under Veritas Capital, to Peraton. The company sales are on record. That the material went with them is the theory."
+caption: "Rob Jones' theory of where Lockheed's material went after the failed transfers: out with the unit Lockheed sold in 2010, through its successor companies under Veritas Capital, to Peraton. The company sales are on record, while the claim that the material went with them is the theory."
 steps:
   - name: "Lockheed Martin"
     date: "2008–2011"

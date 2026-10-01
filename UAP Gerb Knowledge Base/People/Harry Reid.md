@@ -74,7 +74,7 @@ items:
 entries:
   - name: "David Grusch"
     role: "Whistleblower, ex-NRO/NGA intelligence officer"
-    note: "Met Reid about nine months before his death and recounts Reid saying he was denied access for decades. Grusch also says Reid's request to move Lockheed's material into AAWSAP was killed."
+    note: "Met Reid about nine months before Reid's death and recounts him saying he was denied access for decades. Grusch also says Reid's request to move Lockheed's material into AAWSAP was killed."
   - name: "Robert Bigelow"
     role: "Founder of Bigelow Aerospace"
     note: "His Bigelow Aerospace Advanced Space Studies held the DIA contract for AAWSAP, the program Reid started."
@@ -83,7 +83,7 @@ entries:
     note: "Allegedly proposed moving Lockheed's 1950s crash retrieval material into the waived program Reid was championing."
   - name: "Glenn Gaffney"
     role: "CIA Deputy Director for Science and Technology"
-    note: "According to the documents Gerb cites, killed the transfer Reid wanted."
+    note: "According to the documents Gerb cites, he killed the transfer Reid wanted."
   - name: "Luis Elizondo"
     role: "Former AATIP figure"
     note: "Says Reid sponsored the funding for AATIP. Gerb does not trust Elizondo's account of how the programs were structured."

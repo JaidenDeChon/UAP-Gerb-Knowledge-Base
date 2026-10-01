@@ -112,7 +112,7 @@ Despite the controversy over the book's main sources, [[Robert Sarbacher]] told 
 
 ## Significance in UAP History
 
-Scully's book set the pattern for the crash retrieval stories that dominated UAP discussion for decades: circular craft, small humanoid occupants, recovered materials and government concealment. Whether or not the Aztec case he described is authentic, *Behind the Flying Saucers* shaped how researchers and the public later interpreted and investigated the subject.
+The crash retrieval stories that dominated UAP discussion for decades followed the pattern Scully's book set: circular craft, small humanoid occupants, recovered materials and government concealment. Whether or not the Aztec case Scully described is authentic, *Behind the Flying Saucers* shaped how researchers and the public later interpreted and investigated the subject.
 
 ## Sources
 
