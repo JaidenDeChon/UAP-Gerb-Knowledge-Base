@@ -2,56 +2,140 @@
 name: "Robert Cardillo"
 role: "Deputy Director of National Intelligence (DDNI) for Intelligence Integration; Director of NGA; Deputy Director of DIA"
 wikipedia: "Robert Cardillo"
+active_from: 1983
+active_to: 2019
 tags:
   - person
 ---
 
-Robert Cardillo is a former senior US intelligence official. His career included service as the sixth Director of the National Geospatial-Intelligence Agency (NGA), Deputy Director of the Defense Intelligence Agency (DIA), and Deputy Director of National Intelligence for Intelligence Integration (DDNI). UAP researchers identify Cardillo as a potential final authority in blocking the [[Kona Blue]] technology transfer of recovered UAP materials from [[Lockheed Martin]] to [[AAWSAP]]. They also note his 2019 appointment to the advisory board of [[Peraton]], the corporation theorized to have ultimately received Lockheed's divested materials through an alternate corporate transaction.
+Robert Cardillo is a former senior US intelligence official. His career included service as Deputy Director of the Defense Intelligence Agency (DIA), the first Deputy Director of National Intelligence for Intelligence Integration (DDNI), and the sixth Director of the National Geospatial-Intelligence Agency (NGA). In Gerb's videos he appears as a possible final authority in blocking the [[Kona Blue]] transfer of recovered UAP material from [[Lockheed Martin]], an allegation drawn from the research of Gerb's friend Rob Jones. Gerb also points to his 2019 appointment to the advisory board of [[Peraton]], the company that Jones theorizes ultimately received Lockheed's divested material through a corporate sale.
+
+## Career
+
+Cardillo holds a B.A. in government from Cornell University and an M.A. in national security studies from Georgetown University. He joined the [[Defense Intelligence Agency]] in 1983 as an imagery analyst and entered the Senior Executive Service in 2000. From 2002 to 2006 he led analysis and production, and then source operations and management, at what became the [[NGA]]. He returned to DIA as deputy director for analysis and then deputy director (2006–2010), became the first Deputy Director of National Intelligence for Intelligence Integration (2010–2014), and was NGA's director from 2014 until he retired in February 2019. In May 2019 he joined Peraton's advisory board.
+
+::wiki-affiliations
+---
+label: "Where he served, and when"
+caption: "Dates from his NGA and USGIF biographies and Wikipedia, which agree; the Peraton appointment from Peraton's own announcement of 1 May 2019. The first DIA row is approximate: his biographies also mention posts with the Chairman of the Joint Chiefs of Staff in those years."
+rows:
+  - name: "Defense Intelligence Agency"
+    role: "Imagery analyst, rising to the Senior Executive Service in 2000"
+    from: 1983
+    to: 2002
+    approx: true
+  - name: "NGA"
+    role: "Head of analysis and production, then of source operations and management"
+    from: 2002
+    to: 2006
+  - name: "Defense Intelligence Agency"
+    role: "Deputy director for analysis, then deputy director"
+    from: 2006
+    to: 2010
+  - text: "Office of the Director of National Intelligence"
+    role: "First Deputy Director of National Intelligence for Intelligence Integration"
+    from: 2010
+    to: 2014
+    note: "The post he held at the time of the 2011 Kona Blue transfer attempt."
+  - name: "NGA"
+    role: "Sixth director"
+    from: 2014
+    to: "2019-02"
+  - name: "Peraton"
+    role: "Advisory board member"
+    from: "2019-05"
+    to: "present"
+    note: "Gerb says he still sits on it, alongside Stephanie O'Sullivan."
+---
+::
+
+## People Around Him
+
+::wiki-roster
+---
+entries:
+  - name: "Glenn Gaffney"
+    role: "CIA Deputy Director for Science and Technology"
+    note: "Named in the document Representative Burchett entered into the record as the official who killed the transfer. Gaffney has denied involvement; Cardillo is the possible higher authority behind it."
+  - name: "James T. Ryder"
+    role: "Lockheed Martin Space Systems vice president"
+    note: "Proposed moving Lockheed's 1950s crash retrieval material into Kona Blue, the transfer Cardillo allegedly blocked."
+  - name: "Mary K. Sturdivant"
+    role: "Lockheed Martin vice president"
+    note: "Another possible blocker, Gerb suggests, through her CIA ties."
+  - name: "Christopher Sharp"
+    role: "UK journalist"
+    note: "His reporting on the two Lockheed transfer attempts is one of the three sources Gerb cites for Cardillo's alleged role."
+  - name: "Eric Davis"
+    role: "AAWSAP physicist"
+    note: "His remarks are another of the sources Gerb cites for Cardillo's alleged role."
+  - name: "Stephanie O'Sullivan"
+    role: "Former Principal Deputy DNI"
+    note: "Shares Peraton's board with Cardillo, Gerb notes."
+---
+::
 
 ## Alleged Role in Kona Blue Blocking
 
-At the time of the 2011 [[Kona Blue]] material transfer attempts, Cardillo was Deputy Director of National Intelligence for Intelligence Integration. According to reporting by [[Christopher Sharp]], statements by [[Eric Davis]], and research by Rob Jones, Cardillo allegedly exercised veto authority over the proposed Program Acquisition Plan that would have transferred [[Lockheed Martin]]'s recovered UAP materials to [[Bigelow Aerospace Advanced Space Studies]] under DIA's [[AAWSAP]] contract.
+At the time of the 2011 [[Kona Blue]] transfer attempt, Cardillo was Deputy Director of National Intelligence for Intelligence Integration. In his 2025 video on [[Lockheed Martin]], Gerb names him as a third possible blocker alongside [[Glenn Gaffney]] and [[Mary K. Sturdivant]]: "The research of Jones, the words of Eric Davis and reporting of journalist Christopher Sharp has brought forth one Robert Cardillo as a possible final authority in blocking the material transfer." The transfer would have moved [[James T. Ryder]]'s 1950s crash retrieval material out of Lockheed through Kona Blue, a prospective waived special access program at the Department of Homeland Security, to the DIA's [[AAWSAP]] work with [[Bigelow Aerospace Advanced Space Studies]]. The video stresses that Cardillo's veto remains an allegation.
 
-[[Glenn Gaffney]], the CIA Deputy Director for Science and Technology, is confirmed as a primary blocker who met directly with Lockheed executives. As DDNI, Cardillo would have had oversight authority over cross-agency intelligence programs and technology transfers. The DDNI for Intelligence Integration specifically coordinates intelligence activities across the 18-agency intelligence community, which is the type of authority needed to block a transfer initiative involving the DIA, the CIA and a contractor.
+The document Representative Tim Burchett entered into the record in November 2024 names Glenn Gaffney, the CIA Deputy Director for Science and Technology, as the official who killed the technology transfer agreement; Gaffney has denied involvement. Gerb believes an earlier attempt, in 2008 or 2009, was shut down with James Clapper's help, and that the 2011 attempt was stopped by Gaffney "and possibly Robert Cardillo." By his 2026 Northrop Grumman video Gerb had hardened his view, calling Cardillo "a man that I am certain was involved in blocking Lockheed Martin from divesting itself of UFO materials."
 
-Cardillo's alleged veto is less well documented than Gaffney's, but it is supported by:
-- His position at DNI during the relevant period
-- Eric Davis's references to multiple blockers beyond Gaffney
-- Rob Jones's research connecting Cardillo to the later disposition of Lockheed materials
+Gerb rests the case on three things:
+- Cardillo's post at the Office of the Director of National Intelligence during the relevant period, which coordinated activity across the intelligence community
+- Eric Davis's references to blockers beyond Gaffney
+- Rob Jones's research connecting Cardillo to the later fate of Lockheed's material
 
-## Peraton Advisory Board (2019-Present)
+## The Sub Rosa Theory and Peraton
 
-In May 2019, Robert Cardillo joined the advisory board of [[Peraton]], a corporation formed through multiple mergers and acquisitions under the private equity firm Veritas Capital. According to Rob Jones's "Sub Rosa" research, the appointment is significant for these reasons:
+Rob Jones's paper *Sub Rosa* asks what became of Lockheed's material after the failed transfers, and proposes that Lockheed sold it off with part of itself. In 2010 Veritas Capital bought Lockheed's Enterprise Integration Group (EIG), "a unit deeply involved in highly classified systems engineering for US intelligence agencies," for $815 million in cash, and rebranded it the SI Organization. Through further mergers under Veritas, its black-program work passed to Vencore, then Perspecta, and in 2021 to Peraton.
 
-1. In 2010, Veritas Capital acquired [[Lockheed Martin]]'s Enterprise Integration Group (EIG) for $815 million in cash
-2. EIG was a Lockheed unit "deeply involved in highly classified systems engineering for US intelligence agencies"
-3. The sale came shortly after the failed Kona Blue transfers (2008-2011)
-4. Veritas rebranded EIG as "SAIC Organization Inc." and later merged it, through multiple corporate restructurings, into what became Peraton
-5. Many of Lockheed's black program contracts moved to Peraton through this lineage
+::wiki-chain{video="X6JfbfmvgMo" video-title="Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs"}
+---
+kind: custody
+label: "Where the material went, according to Sub Rosa"
+caption: "Rob Jones' theory of where Lockheed's material went after the failed transfers: out with the unit Lockheed sold in 2010, through its successor companies under Veritas Capital, to Peraton. The company sales are on record. That the material went with them is the theory."
+steps:
+  - name: "Lockheed Martin"
+    date: "2008–2011"
+    note: "Two attempts to divest its 1950s crash retrieval material, both blocked."
+    cue: 9321
+  - via: "Offloaded with its Enterprise Integration Group, sold to Veritas Capital for $815M"
+    text: "SI Organization"
+    date: "2010"
+    note: "Classified systems engineering for the NSA, NRO and CIA; a large share of Lockheed's black program work."
+    cue: 9349
+  - via: "Merged under Veritas and rebranded"
+    text: "Vencore"
+    date: "2014"
+    cue: 9404
+  - via: "Merged with other firms"
+    text: "Perspecta"
+    cue: 9417
+  - via: "Taken private for $7.1B and combined"
+    name: "Peraton"
+    date: "2021"
+    note: "Robert Cardillo has sat on its advisory board since May 2019; it has since bought Northrop Grumman's federal IT business for $3.4B."
+    cue: 9425
+---
+::
 
-Jones theorizes that when the formal Kona Blue government transfer was blocked, [[Lockheed Martin]] may have divested the materials another way, by including them in the EIG sale to Veritas Capital. The materials would then have followed the corporate lineage: EIG → SAIC Org → Vencore → Perspecta → Peraton.
+On this theory Lockheed "severed a limb of its own" to be rid of the material. Gerb's point is that by 2019 Cardillo, who may have blocked the official transfer, sat on the advisory board of the company that may have received the material through a private sale. Peraton announced his appointment on 1 May 2019, two years before it combined with Perspecta.
 
-Cardillo joined Peraton's advisory board in 2019, eight years after he allegedly blocked the Kona Blue government transfer. That makes a striking connection: the official who may have prevented government custody of the materials later joined the board of the company that may have ultimately received them through a private transaction.
+## NRO Sentient
 
-## Intelligence Community Career
-
-Besides his DDNI role, Cardillo held many senior intelligence positions:
-- Director of the National Geospatial-Intelligence Agency (2014-2019), where he led the intelligence community's geospatial intelligence and overhead imagery analysis organization
-- Deputy Director of the Defense Intelligence Agency, second-in-command at DIA during a period that overlapped early AAWSAP operations
-- Senior positions across multiple agencies within the 18-member intelligence community
-
-This breadth of experience across NGA, DIA and DNI gave Cardillo unique insight into compartmented technical intelligence programs and contractor relationships. That is the knowledge required to understand, and potentially control access to, arrangements for the custody of UAP material.
+In his video on the [[NRO (National Reconnaissance Office)|NRO]], Gerb notes that Cardillo, as a former NGA director, described the NRO's AI program [[NRO Sentient]] as a system meant to use "automated inferencing" to aid intelligence collection. Gerb believes anomalous data such as a UFO is identified and diverted to "more cleared parties" before analysts see the imagery, today by software like Sentient, and he reminds viewers of Cardillo's possible part in the Kona Blue blockage.
 
 ## Significance for UAP Research
 
-Cardillo's case illustrates three patterns in the alleged gatekeeping of UAP legacy programs:
-1. Senior intelligence officials blocking Congressional oversight. Even Senator Harry Reid's direct sponsorship could not overcome resistance at the DNI level.
-2. The revolving door, in which intelligence officials move into advisory roles at defense contractors where UAP materials may reside.
-3. Alternate pathways for disposing of material. When government transfers are blocked, corporate transactions may achieve the same result while avoiding Congressional visibility.
-
-If Jones's Peraton theory is accurate, Cardillo's path from blocking a government UAP material transfer to advising the company that may have privately received those same materials would be one of the most significant examples of self-dealing on UAP issues by the military-industrial-intelligence complex.
+Gerb uses Cardillo's case to illustrate three patterns he sees in the alleged gatekeeping of UAP legacy programs:
+1. Senior intelligence officials allegedly blocking a transfer that Senator Harry Reid had championed.
+2. The revolving door, in which intelligence officials move into advisory roles at defense contractors where UAP material may reside.
+3. Alternate pathways for disposing of material: when a government transfer is blocked, a corporate transaction may achieve the same result out of Congress's view.
 
 ## Sources
 
 - [[Videos/Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/summary|Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
-- Rob Jones, "Sub Rosa" (analysis of Veritas Capital/Peraton connection)
+- [[Videos/National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers/summary|National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers]]
+- [[Videos/Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2/summary|Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2]]
+- Rob Jones, *Sub Rosa* (analysis of the Veritas Capital and Peraton connection)

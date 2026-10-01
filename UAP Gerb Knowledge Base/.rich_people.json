@@ -653,5 +653,60 @@
     ],
     "dates": "partial",
     "corrections": 3
+  },
+  "John Deutsch": {
+    "enriched_at": "2026-10-01T20:47:20Z",
+    "videos": 4,
+    "components": [
+      "wiki-affiliations",
+      "wiki-roster"
+    ],
+    "dates": "partial",
+    "corrections": 4
+  },
+  "Harry Reid": {
+    "enriched_at": "2026-10-01T20:47:20Z",
+    "videos": 6,
+    "components": [
+      "wiki-affiliations",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 1
+  },
+  "Frank Scully": {
+    "enriched_at": "2026-10-01T20:47:20Z",
+    "videos": 2,
+    "components": [
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 2
+  },
+  "Edward Bushnell Doll": {
+    "enriched_at": "2026-10-01T20:47:20Z",
+    "videos": 4,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 3
+  },
+  "Robert Cardillo": {
+    "enriched_at": "2026-10-01T20:47:20Z",
+    "videos": 3,
+    "components": [
+      "wiki-affiliations",
+      "wiki-roster",
+      "wiki-chain"
+    ],
+    "dates": "partial",
+    "corrections": 5
   }
 }
