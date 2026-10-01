@@ -458,5 +458,58 @@
     ],
     "dates": "verified",
     "corrections": 4
+  },
+  "Stanton Friedman": {
+    "enriched_at": "2026-10-01T20:38:15Z",
+    "videos": 10,
+    "components": [
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 2
+  },
+  "Wilbert B. Smith": {
+    "enriched_at": "2026-10-01T20:38:15Z",
+    "videos": 5,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 1
+  },
+  "Jesse Marcel": {
+    "enriched_at": "2026-10-01T20:38:15Z",
+    "videos": 7,
+    "components": [
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 2
+  },
+  "Andrew Kissner": {
+    "enriched_at": "2026-10-01T20:38:15Z",
+    "videos": 8,
+    "components": [],
+    "dates": "none",
+    "corrections": 1
+  },
+  "Glenn Gaffney": {
+    "enriched_at": "2026-10-01T20:38:15Z",
+    "videos": 7,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "partial",
+    "corrections": 4
   }
 }
