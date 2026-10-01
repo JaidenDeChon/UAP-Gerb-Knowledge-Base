@@ -41,7 +41,7 @@ Gerb argues that GeBauer's doodlebug was probably an early magnetic anomaly dete
 
 ## Later Reassessment
 
-The conviction discredited both GeBauer and the Aztec case for decades. The case was reopened by Steinman's 1986 book and later by the Ramseys' research, which treat GeBauer and Newton as possible victims of a campaign to bury the Aztec story and to punish those who leaked it.
+The conviction discredited both GeBauer and the Aztec case for decades. Steinman's 1986 book reopened the case, and the Ramseys' research followed. Both treat GeBauer and Newton as possible victims of a campaign to bury the Aztec story and to punish those who leaked it.
 
 ## Sources
 

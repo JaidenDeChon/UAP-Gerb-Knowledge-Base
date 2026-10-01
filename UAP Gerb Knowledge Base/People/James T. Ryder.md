@@ -20,7 +20,7 @@ Ryder's early published work in the Defense Technical Information Center archive
 
 ::wiki-timeline
 ---
-help: "Ryder's career and the story of the Lockheed material transfer, in date order, as Gerb's videos cover it. Click a year on the bar above the list to jump to the nearest entry there. To see only one type of entry, or only the major ones, open the button that shows how many entries are listed. His papers and talks are listed separately under On the Record."
+help: "Ryder's career and the story of the Lockheed material transfer, in date order, as Gerb's videos cover it. Click a year on the bar above the list to jump to the nearest entry. To see only one type of entry, or only the major ones, press the button with the entry count. His papers and talks are listed separately under On the Record."
 eras:
   - id: lockheed
     label: "At Lockheed Martin"
@@ -153,7 +153,7 @@ entries:
     note: "Allegedly killed Ryder's technology transfer into Kona Blue. Gerb says Gaffney has denied to reporters that he was involved."
   - name: "Mary K. Sturdivant"
     role: "Lockheed Martin vice president"
-    note: "A senior colleague whom Gerb says worked closely with Ryder and liaised with Gaffney during Kona Blue. Gerb asks whether she helped block it."
+    note: "A senior colleague who, Gerb says, worked closely with Ryder and liaised with Gaffney during Kona Blue. Gerb asks whether she helped block the transfer."
   - name: "Eric Davis"
     role: "Physicist, AAWSAP"
     note: "Worked with AAWSAP on the Lockheed transfer and later sat with Ryder on the Starfire science review team. Gerb suspects Ryder drew him in, or fed him a cover story."
@@ -185,7 +185,7 @@ Some of Gerb's sources say the materials included craft hull fragments, or possi
 
 ## Post-Lockheed Work and Esoteric Interests
 
-After retiring from Lockheed Martin, Ryder joined [[Hal Puthoff]] and [[Eric Davis]] on the Starfire project's science review team, which explored the controversial electric Sun hypothesis. The work kept Ryder in professional contact with two of the most prominent physicists associated with research into UAP legacy programs.
+After retiring from Lockheed Martin, Ryder joined [[Hal Puthoff]] and [[Eric Davis]] on the Starfire project's science review team, which explored the controversial electric Sun hypothesis. Through it he stayed in professional contact with two of the best-known physicists associated with research into UAP legacy programs.
 
 Between 2015 and his death in 2018, Ryder gave a series of talks for the Lucis Trust, an esoteric organization that promotes spiritual principles. The talks touched on UAP phenomena, consciousness, physics and extrasensory perception (ESP). They included:
 
@@ -193,15 +193,15 @@ Between 2015 and his death in 2018, Ryder gave a series of talks for the Lucis T
 - "The Soul Is Light: What Then Is Light?" (2015). It explored where esotericism meets physics, touching on Big Bang theories, light as both physical and metaphysical, and human consciousness as an interconnected cosmic matrix, and quoted Puthoff.
 - "The Garment of God" (2018). It contrasted the suppression of ESP research in the United States with state support for it in Russia. Gerb sets this beside [[Ben Rich]]'s alleged remarks about ESP and interstellar travel, and [[Eric A. Walker]]'s question about access to the programs: "How good is your sixth sense? How much do you know about ESP?"
 
-Ryder's turn toward consciousness and esoteric topics after retirement mirrors a pattern Gerb sees in other alleged insiders of UAP legacy programs. Army Colonel [[Karl Nell]], for example, spoke about consciousness and engineering at the Archives of the Impossible conference in 2025.
+Gerb sees Ryder's turn toward consciousness and esoteric topics after retirement as part of a pattern among alleged insiders of UAP legacy programs. Army Colonel [[Karl Nell]], for example, spoke about consciousness and engineering at the Archives of the Impossible conference in 2025.
 
 ## Named as a Gatekeeper
 
-On 9 September 2025, testifying under oath before the House Oversight Committee, journalist [[George Knapp]] was asked to name gatekeepers "within the root cell of the UAP SAP Federation". He named "Dr. James Ryder at Lockheed", adding that he did not fault the contractors, who are "supposed to lie" and were told to keep quiet primarily by the CIA; Glenn Gaffney of the CIA was named alongside him. Gerb plays the exchange in his Lockheed Martin video. As Vice President of Space Systems and head of the Advanced Technology Center, Ryder would have had oversight authority over Lockheed's most compartmentalized programs, potentially including those related to technologies of unknown origin.
+On 9 September 2025, testifying under oath before the House Oversight Committee, journalist [[George Knapp]] was asked to name gatekeepers "within the root cell of the UAP SAP Federation". He named "Dr. James Ryder at Lockheed", adding that he did not fault the contractors, who are "supposed to lie" and were told to keep quiet primarily by the CIA; Glenn Gaffney of the CIA was named alongside him. Gerb plays the exchange in his Lockheed Martin video. As Vice President of Space Systems and head of the Advanced Technology Center, Ryder would have had oversight authority over Lockheed's most compartmentalized programs, possibly including programs on technologies of unknown origin.
 
 ## Death
 
-Ryder died suddenly in 2018, shortly after his last Lucis Trust talks, at a time when he appeared to be actively exploring consciousness, metaphysics, and the meeting point of advanced physics and esoteric knowledge. Gerb says he sees nothing suspicious in his death, but notes that it meant the loss of a potential key witness to Lockheed Martin's alleged custody of UAP material.
+Ryder died suddenly in 2018, shortly after his last Lucis Trust talks, when he appeared to be actively exploring consciousness, metaphysics and the meeting point of advanced physics and esoteric knowledge. Gerb says he sees nothing suspicious in his death, but notes that it removed a potentially important witness to Lockheed Martin's alleged custody of UAP material.
 
 ## Sources
 

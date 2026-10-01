@@ -9,7 +9,7 @@ tags:
   - person
 ---
 
-Kevin H. Knuth is a physics professor at the [[University of Albany|University at Albany]] (SUNY) and a former NASA research scientist who has become one of the most prominent academic voices in UAP research. He earned his PhD in physics at the [[University of Minnesota]] and works on information physics, the foundations of quantum mechanics and Bayesian data analysis. He is vice president of [[UAP-X]], a nonprofit UFO field research group, and a research affiliate of [[Avi Loeb]]'s [[Galileo Project]]. Gerb calls him the one accomplished academic who publicly takes the physics of UFOs seriously, at a time when the rest of academia scoffs at the subject.
+Kevin H. Knuth is a physics professor at the [[University of Albany|University at Albany]] (SUNY) and a former NASA research scientist, and one of the best-known academics working on UAP. He earned his PhD in physics at the [[University of Minnesota]] and works on information physics, the foundations of quantum mechanics and Bayesian data analysis. He is vice president of [[UAP-X]], a nonprofit UFO field research group, and a research affiliate of [[Avi Loeb]]'s [[Galileo Project]]. Gerb calls him the one accomplished academic who publicly takes the physics of UFOs seriously, at a time when the rest of academia scoffs at the subject.
 
 ## Career
 
@@ -18,7 +18,7 @@ Knuth was born in 1965 in Fond du Lac, Wisconsin. He took a bachelor's degree in
 ::wiki-affiliations
 ---
 label: "Where he has worked, and when"
-caption: "Dates come from Knuth's Wikipedia biography, his university and UAPx biographies, and UAPx's October 2021 announcement of his promotion. His Galileo Project affiliation is left off because no start date could be verified."
+caption: "Dates come from Knuth's Wikipedia biography, his university and UAPx biographies, and UAPx's October 2021 announcement of his promotion. His Galileo Project affiliation is not shown because no start date could be verified."
 rows:
   - name: "NASA"
     role: "Research scientist, Intelligent Systems Division, Ames Research Center"
@@ -40,7 +40,7 @@ rows:
 
 ::wiki-record
 ---
-caption: "Knuth's UAP work as Gerb's videos cover it. The quote is Knuth's, as Gerb reads it out in his video on the talk."
+caption: "Knuth's UAP work as covered in Gerb's videos. The quote is Knuth's own words, read out by Gerb in his video on the Sol Foundation talk."
 items:
   - date: "2019-09-25"
     kind: paper
