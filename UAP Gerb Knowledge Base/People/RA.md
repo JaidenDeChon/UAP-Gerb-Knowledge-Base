@@ -1,113 +1,109 @@
 ---
 name: "RA"
-role: "US Army Green Beret; 18 Bravo Weapons Sergeant; Special Forces Operator"
+role: "Anonymous US Army Green Beret; 18 Bravo weapons sergeant; witness to the alleged Off-World Technologies Division at NSWC Crane"
+active_from: 2013
+active_to: 2024
 tags:
   - person
 ---
 
-RA is an anonymous US Army Special Forces operator who served with the First Special Forces Airborne Command as an 18 Bravo weapons sergeant, one of the most highly skilled soldier specializations in the world. The role involves operating and maintaining a wide range of weapons, including small arms, heavy weapons, explosives, and both allied and foreign weaponry. Between 2013 and 2015, while holding an active TS/SCI (Top Secret Sensitive Compartmented Information) clearance, RA was sent to the [[Naval Surface Warfare Center Crane]] in Indiana for advanced weapons training. He claims that during this assignment he was escorted into a deep underground facility explicitly identified as the "[[Off-World Technologies Division]]," where he saw two pieces of technology described as non-human in origin: a seamless, consciousness-interactive metallic sphere, and a gauntlet-like device identified as a weapon system that had discharged an energy pulse during recovery.
+RA is an anonymous US Army Special Forces operator, a Green Beret who served in the 1st Special Forces Command (Airborne) as an 18 Bravo weapons sergeant. The Army describes the soldiers in this specialty as among the most highly skilled in the world. 18 Bravos operate and maintain a wide range of weapons, including small arms, heavy weapons, bombs and mines, both allied and foreign. RA says that sometime between 2013 and 2015, while holding a TS/SCI clearance, he was sent to the [[Naval Surface Warfare Center Crane]] in Indiana for a weapons course (see [[RA's Weapons Training Course at NSWC Crane]]). He claims that during this assignment he was escorted into a deep underground area his guide called the "[[Off-World Technologies Division]]", where he saw two pieces of technology described as non-human in origin: a seamless metallic sphere said to interact with consciousness, and a gauntlet-like device identified as a weapon because it had discharged an energy pulse during its recovery. Gerb presented his testimony for the first time in July 2024.
+
+RA is the name Gerb gave this witness in that anonymous July 2024 account. The witness later went public as [[Randy Anderson]], and Gerb's Dugway Proving Ground video refers to "the testimony of RA or we now know Randy Anderson". This page covers the anonymous account; his later, named account is on the Randy Anderson page.
 
 ## Background and Credentials
 
-RA's military credentials have been thoroughly vetted and include:
+Gerb calls RA "easily the most accomplished and credentialed US soldier" he has spoken to, and says his credentials were "thoroughly vetted": RA gave him a full list of his certifications and his DD214 discharge record. According to Gerb, they include:
 
-- 18 Bravo Weapons Sergeant designation within US Army Special Forces
-- Service in the First Special Forces Airborne Command
-- Completion of SERE Level C training (Survival, Evasion, Resistance, and Escape), the most challenging tier of high-risk training
-- A TS/SCI security clearance, held actively for 12 years
-- Completion of the US Army's Advanced Learning Course (ALC)
-- Full verification through his DD214 discharge documentation
+- the 18 Bravo weapons sergeant specialty in US Army Special Forces
+- service in the 1st Special Forces Command (Airborne)
+- SERE (survival, evasion, resistance and escape) training at Level C, the hardest and most challenging tier
+- the Army's ALC (Advanced Leader Course; Gerb calls it the "advanced learning course")
+- a [[TSSCI Clearance|TS/SCI clearance]] that RA says was active for 12 years
 
-RA gave his complete service record and certifications to the UAP researcher Gerb, who confirmed his Green Beret credentials and verified that he was at [[Naval Surface Warfare Center Crane]] during the stated period.
+Gerb says these credentials, together with RA's "verified placement" at [[Naval Surface Warfare Center Crane]], the alleged home of the division, back up his account.
 
 ## Assignment to NSWC Crane (2013-2015)
 
-Between 2013 and 2015, RA was sent to NSWC Crane for what was officially described as advanced weapons training. It focused on:
+Between 2013 and 2015, RA was sent to NSWC Crane to train with advanced foreign and domestic weapon technologies. The course covered:
 
-- New minigun system configurations
-- SOCOM weapons coming online, including SCAR rifle iterations
-- Foreign and adversarial weapon technologies recovered by CIA operatives
-- Experimental systems such as alleged Russian bullets incorporating biologics
+- a new minigun setup
+- SOCOM weapons coming online, such as new iterations of the SCAR rifle
+- foreign weapon systems recovered by CIA operatives and brought back to Crane, which the students were asked to assess
+- Russian rounds, which the Russians were thought to be using in experiments with biologics
 
-The course was classified at the TS/SCI level, and some parts of the training could not be written down or disclosed in official course descriptions. Of the roughly 10 soldiers in the class, only RA and one other held TS/SCI clearance, and only those two were taken to view what was described as "foreign adversarial tech" in the underground facility.
+Of the roughly ten soldiers in the class, only RA and one other held TS/SCI clearances, and only those two were taken to see what was described as "foreign adversarial tech", with orders not to tell the rest of the class.
 
 ## Encounter with the Off-World Technologies Division
 
-RA and his fellow Green Beret handed over all their electronics and were then escorted deep underground at Crane through several security checkpoints. They described:
+RA and the other Green Beret surrendered all their electronics and were then escorted underground through several checkpoints. RA describes:
 
-- Taking an elevator down to a depth where the temperature noticeably dropped because they were "some significant amount below the surface"
-- Passing through compartmentalized security layers resembling a SCIF (Sensitive Compartmented Information Facility)
-- Entering an area that looked strikingly modern and advanced compared with the deliberately deteriorated buildings on the surface
-- Seeing direction signs underground, which suggested a facility large enough to need navigation markers
+- taking an elevator down until the warm day outside gave way to real cold, so that "we had to be some significant amount below the surface"
+- passing through door-within-a-door security layers that he treated as a SCIF (Sensitive Compartmented Information Facility)
+- an area that looked strikingly modern compared with the run-down buildings on the surface, which he believes are kept that way deliberately
+- signs underground marking which section you were in, which he took to mean the complex was large
 
-RA's guide, a private contractor, casually referred to the section as the "off-world technologies division". RA says the remark caused him what he calls "ontological shock," though he kept his outward composure as he had been trained to.
+Their guide was a former military man working as a private contractor, and he was also leading their weapons training. He told them "quite nonchalantly" that they were entering the "off-world technologies division". RA says his reaction was stoic, as he had been trained, but that by the time he reached his hotel he was "freaking out". Gerb describes what the two soldiers went through as "ontological shock".
 
 ## Technology Observed
 
+The room was set up as a viewing gallery looking into a laboratory. Present were RA, the other Green Beret, the guide and one normally dressed staff member.
+
 ### Seamless Metallic Sphere
 
-RA saw a basketball-sized sphere on a podium in what appeared to be a scientific observation or viewing room. The sphere had highly anomalous properties:
+RA saw a sphere no bigger than a basketball on a podium:
 
-- Seamless construction, with no visible joints, welds, or manufacturing marks
-- A surface described as "almost liquid but clearly metallic", unlike any known human-made material
-- Apparent levitation or repulsion off its podium, as if held by an unknown force
-- A surface quality reminiscent of the "mother of pearl effect" reported by [[Jonathan Weygandt]] from the 1997 Peru UAP crash
-- An indentation on top about the size of a hand, though RA acknowledged this could be a human interpretation
-- Staff stated that the sphere responds to some individuals but not others, possibly depending on their DNA or type of consciousness
+- seamless metal, with no visible joints
+- a surface "almost liquid but clearly metallic"; RA likens it to oil on water, with the oil clear
+- it did not seem connected to the podium and "looked like it was almost repelled off the podium"
+- an indentation on top about the size of a hand, though RA declines to say it was meant for a hand
+
+Gerb wonders whether the surface resembles the "mother of pearl" effect [[Jonathan Weygandt]] described at the [[Peru UFO Crash Incident|1997 Peru crash]].
+
+Of both objects, RA recalls the guide saying "we don't understand quite how to operate the systems... but they do interact with consciousness." An object responds to some people who approach it and does nothing for others. RA speculates that the difference may come down to DNA or type of consciousness.
 
 ### Gauntlet/Weapon System Device
 
-The second device resembled a gauntlet or tablet, something designed to be worn on the arm. Personnel identified it as a weapon system because it had discharged an energy pulse during recovery operations, injuring at least one person. It projected hieroglyphic-like symbols with no visible projection mechanism, which led RA to wonder whether the characters were being displayed directly into observers' minds. The symbols closely matched iconography that attorney [[Daniel Sheehan]] described from classified [[Project Blue Book]] photographs he reviewed in 1977 under orders from President [[Jimmy Carter]].
+The second device was hard for RA to describe: something like a tablet or a gauntlet "you would put your arm inside". Staff said it was a weapon system because, while it was being recovered from a craft, it had "discharged an energy pulse or something" and someone was injured. It displayed writing that reminded RA of hieroglyphics, with no visible projection mechanism, and he wondered whether it was being shown directly into his mind. When Gerb showed him a set of well-known UFO symbols, RA recognised none until a relatively obscure one: the markings attorney [[Daniel Sheehan]] said he saw in photographs of a downed craft in classified portions of [[Project Blue Book]], which Sheehan says he searched in 1977 under orders from President [[Jimmy Carter]].
 
 ## Memory Effects and Cognitive Phenomena
 
-RA reported an unusual effect when he recalls the encounter:
+RA says he has a near-photographic memory, yet his memory of the underground visit goes "real fuzzy":
 
-- His normally photographic memory becomes "real fuzzy" only when he reaches for memories of the underground facility
-- This memory suppression is very unusual for him. He can recall small details from other military operations but struggles with specifics from the Off-World Technologies Division
-- He described an "unnatural feeling" while in the underground area, as if "we were doing something that wasn't normal"
-- Staff discussed the technology casually ("like over a coffee break"), in sharp contrast with the profound nature of what RA was being shown
+- he can recall small details from other operations, but struggles with specifics from the Off-World Technologies Division, and recovers more when he meditates
+- he describes "an unnatural feeling" down there: "it felt like we were doing something that wasn't normal"
+- the staff talked about the technology as if "it was like over a coffee break", which unsettled him: "I'm freaking out inside and these guys were talking about it like it's no big deal like we're at lunch"
 
-This is consistent with research by [[Gary Nolan]] on UAP-induced cognitive effects, and with the concept of "[[Anchors (UAP Recovery Protocol)]]", which recovery operators allegedly use to keep personnel grounded in reality.
+Gerb links this to [[Gary Nolan]]'s research on the phenomenon's effects on human cognition, and to the [[Infographic Show Whistleblower]]'s claim that recovery operators use "anchors" to stay grounded in reality.
 
 ## Post-Encounter
 
-After viewing the technology:
-
-- RA and his fellow soldier were escorted out and returned to their training room for a brief debrief
-- They likely signed non-disclosure agreements, though RA notes this was routine and the exact moment is unclear
-- Back at their hotel, both soldiers experienced severe ontological shock, repeatedly asking "what the fuck?" and talking about how "the whole world is different to me"
-- RA lost contact with the other witness, who was stationed in a different unit. He later heard unconfirmed rumors that the soldier was killed in a combat operation.
+- RA and the other soldier were escorted out the way they came and given a brief debrief.
+- They may have signed non-disclosure agreements; RA signed so many routinely that he cannot place one.
+- Back at their hotel, both were shaken ("What the [ __ ] dude?... So this shit's all real?"). RA says "now like the whole world is different to me".
+- The two lost contact because they were not stationed together. RA has heard rumors that the other soldier was killed during a combat operation, and Gerb says he and RA are trying to reach him.
 
 ## Current Activities
 
-RA still works in classified roles:
-
-- He runs OP4 (Opposing Force) training exercises for special forces units at [[Area 51]]
-- He holds contracts with the Department of Defense and Department of Energy
-- He held an active TS/SCI clearance for 12 years
-- He has been exposed to advanced drone technology, including sphere drones and drones disguised as fauna, which leads him to estimate that many modern UAP orb sightings are actually advanced military drones
-
-RA states that in his later classified work he has been exposed to highly advanced human-made technology, including alleged human-built triangular craft using electrogravitic propulsion, yet nothing he has seen there "pales in comparison" to what he witnessed at the Off-World Technologies Division.
+According to Gerb, RA still performs OPFOR (opposing force) training exercises for Special Forces units at [[Area 51]], working with the DoD and the Department of Energy, which "hold all the contracts up there". Through this work he has seen advanced drone technology. It includes sphere drones that he says are often mistaken for UAP, and drones disguised as local fauna during the invasion of Syria. He estimates that many modern UAP sightings are military drones. He believes there are human-made triangular craft that use electrogravitic propulsion. He sets them apart from a much larger, silent triangle a trusted military contact described to him, which he believes was non-human and not the alleged [[TR-3B]]. In RA's words, all the human-made technology he has seen "pales in comparison" to what he saw at the Off-World Technologies Division.
 
 ## Disclosure Efforts
 
-- RA reached Gerb through mutual contacts because he wanted to contribute to disclosure while remaining anonymous
-- He deliberately chose not to contact [[AARO]], [[Luis Elizondo]], [[David Grusch]], or [[Chris Mellon]]
-- In late July 2023, RA emailed [[Steven Greer]]'s Disclosure Project about his experience but never received a response
-- He is listed as witness #10127 in the Disclosure Project files
-- RA and Gerb are working together on technical drawings and possible 3D models of the technology he saw
+- RA reached Gerb through mutual contacts, wanting to help disclosure while remaining anonymous.
+- He did not contact [[AARO]], [[David Grusch]], [[Luis Elizondo]] or [[Chris Mellon]].
+- In late July 2023, by Gerb's account, RA emailed [[Steven Greer]]'s [[Disclosure Project]] about his experience but never heard back. Gerb believes he is witness number 10127 in its files.
+- Gerb says he is working with RA on drawings and possible 3D models of what he saw.
 
-## Significance
+## Gerb's Case for the Account
 
-RA's testimony is considered credible because of:
+Gerb puts weight on RA's testimony because of:
 
-- His thoroughly vetted military credentials and verified placement at NSWC Crane
-- Specific technical details about the facility layout, security procedures, and technology
-- The match between the iconography he saw and [[Daniel Sheehan]]'s independent 1977 description
-- Consistency with other reports of consciousness-interactive technology, including witness [[Martin (witness)]]'s account of a similar sphere
-- Its fit with documented [[SAIC]] contracts with Crane totaling hundreds of millions of dollars for classified programs
-- His lack of any apparent financial motive or public attention-seeking
+- his vetted military credentials and his placement at NSWC Crane
+- the specific details he gives of the facility's layout, its security procedures and the objects
+- the match he made between the gauntlet's writing and the symbols [[Daniel Sheehan]] described from 1977
+- its fit with other accounts of consciousness-interactive technology, including that of a witness named Martin, who says he was shown a clear, basketball-sized sphere that "chose" who it interacted with
+- [[SAIC]]'s contracts at Crane, worth hundreds of millions of dollars, and Gerb's belief that RA's guide worked for SAIC
+- RA's wish to stay anonymous
 
 ## Sources
 
@@ -116,11 +112,9 @@ RA's testimony is considered credible because of:
 ## Related Pages
 
 - [[Off-World Technologies Division]]
+- [[RA's Weapons Training Course at NSWC Crane]]
 - [[Naval Surface Warfare Center Crane]]
 - [[SAIC]]
-- [[18 Bravo Weapons Sergeant]]
-- [[TS/SCI Clearance]]
+- [[TSSCI Clearance]]
 - [[Consciousness-Interactive Technology]]
-- [[NHI Symbolism/Language]]
 - [[Area 51]]
-- [[Anchors (UAP Recovery Protocol)]]

@@ -13,7 +13,7 @@ According to allegations in UAP research, AFP 42 is one of several western range
 
 [[Brad Sorenson]] identified AFP 42 as the specific location of the November 1988 classified aerospace exhibit at which he witnessed three disc-shaped Alien Reproduction Vehicles (ARVs). Sorenson flew there on a military Boeing 727 from nearby [[Norton Air Force Base]]. His escort was a client whom [[Mark McCandlish]] identified with high confidence as [[Frank Carlucci]], then Secretary of Defense. The exhibit was held in a Palmdale hangar. McCandlish noted that the hangar was Lockheed's original 1960s construction site for the L-1011 TriStar airliner and later became a Skunk Works facility.
 
-Holding the ARV exhibit at AFP 42 fits McCandlish's broader thesis of a joint reverse engineering program based at AFP 42 and [[Edwards Air Force Base]]. The Edwards and Palmdale facilities are less than 30 miles apart, both host [[Northrop Grumman]] and [[Lockheed Martin Skunk Works]] operations, and both are named repeatedly in claims about the alleged [[412th Reverse Engineering Group]].
+Holding the ARV exhibit at AFP 42 fits McCandlish's broader thesis of a joint reverse engineering program based at AFP 42 and [[Edwards Air Force Base]]. The Edwards and Palmdale facilities are less than 30 miles apart, both host [[Northrop Grumman]] and [[Lockheed Martin Skunk Works]] operations, and both are named repeatedly in claims about the alleged 412th Reverse Engineering Group.
 
 ## Sources
 

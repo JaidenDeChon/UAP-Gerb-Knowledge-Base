@@ -19,7 +19,7 @@ This explanation was quickly debunked on four grounds.
 
 ### 1. Reentry Time and Location
 
-Through FOIA requests, researcher [[Stan Gordon]] obtained official documents from [[US Space Command]] and the [[Naval Surveillance Center]]. They confirm that Cosmos 96 reentered the atmosphere over Canada at approximately 3:18 AM EST on December 9, 1965. That was roughly 13 hours and 42 minutes before the Kecksburg event, which took place at approximately 4:47 PM EST.
+Through FOIA requests, researcher [[Stan Gordon]] obtained official documents from [[US Space Command]] and the Naval Surveillance Center. They confirm that Cosmos 96 reentered the atmosphere over Canada at approximately 3:18 AM EST on December 9, 1965. That was roughly 13 hours and 42 minutes before the Kecksburg event, which took place at approximately 4:47 PM EST.
 
 The probe came down over northern Canada, thousands of miles from Pennsylvania. No plausible trajectory would let debris from a 3:18 AM reentry over Canada stay aloft for more than 13 hours and then fall in Pennsylvania in the late afternoon.
 

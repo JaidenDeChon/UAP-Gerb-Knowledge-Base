@@ -15,7 +15,7 @@ Jets were scrambled from Newcastle Air Force Base in Delaware. They found no obj
 
 ## Second Wave (July 26–27, 1952)
 
-The sightings returned on July 26, 1952. A pilot and a stewardess on a National Airlines flight inbound to Washington DC described erratic lights moving above their aircraft. Within minutes, radar centers at Washington National Airport and [[Andrews Air Force Base]] were both tracking the objects, so each confirmed the other independently. Jets were scrambled again and again reported nothing visible at their positions.
+The sightings returned on July 26, 1952. A pilot and a stewardess on a National Airlines flight inbound to Washington DC described erratic lights moving above their aircraft. Within minutes, radar centers at Washington National Airport and Andrews Air Force Base were both tracking the objects, so each confirmed the other independently. Jets were scrambled again and again reported nothing visible at their positions.
 
 The events made front-page headlines across the country. General Roger Ramey and General John Samford then held a press conference, the largest the Air Force had held since World War II. They acknowledged the sightings but attributed them to radar anomalies caused by temperature inversions in the atmosphere. Many air traffic controllers rejected this explanation at the time.
 

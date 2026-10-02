@@ -13,7 +13,7 @@ Teledyne Ryan played a significant part in the [[Strategic Defense Initiative (S
 
 ## Colonel Steve Wilson's Claims
 
-[[Colonel Steve Wilson]] named Teledyne Ryan's San Diego division as the designer of the XH-75D ("XH Shark"), an alleged anti-gravity helicopter assigned to Delta Force/[[NRO (National Reconnaissance Office)|NRO]] for UFO crash retrieval operations. Wilson's 1997 hand-drawn schematic showed a dual-rotor helicopter, and Gerb notes that it looks strikingly similar to the Raider X, a 2019 concept helicopter from Sikorsky, a Lockheed subsidiary. Wilson also listed Teledyne Ryan, along with Northrop Grumman and other contractors, on his "Star Wars City" organizational chart of UAP legacy program contractors.
+[[Steve Wilson|Colonel Steve Wilson]] named Teledyne Ryan's San Diego division as the designer of the XH-75D ("XH Shark"), an alleged anti-gravity helicopter assigned to Delta Force/[[NRO (National Reconnaissance Office)|NRO]] for UFO crash retrieval operations. Wilson's 1997 hand-drawn schematic showed a dual-rotor helicopter, and Gerb notes that it looks strikingly similar to the Raider X, a 2019 concept helicopter from Sikorsky, a Lockheed subsidiary. Wilson also listed Teledyne Ryan, along with Northrop Grumman and other contractors, on his "Star Wars City" organizational chart of UAP legacy program contractors.
 
 [[Edgar Fouche|Edgar Fuché]] named Teledyne Ryan as one of the primary contractors that built the [[TR-3B]] triangular craft, alongside Lockheed Martin, Boeing, and Northrop Grumman.
 

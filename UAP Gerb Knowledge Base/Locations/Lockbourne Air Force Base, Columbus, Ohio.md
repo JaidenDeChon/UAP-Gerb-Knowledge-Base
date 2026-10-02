@@ -16,7 +16,7 @@ On the strength of this testimony, Lockbourne is the first confirmed military fa
 
 ## Strategic Air Command Connection
 
-As a SAC installation, Lockbourne came under the command of General [[Curtis LeMay]]. UAP researchers have repeatedly associated LeMay with UFO secrecy and with restricting access to classified materials. In 1956 LeMay's SAC created the [[Blue Berets|Strategic Air Command Elite Guard]], a blue-bereted Air Force police unit. Multiple witnesses saw its members at the Kecksburg crash site. It is not known whether Lockbourne's part in the Kecksburg transfer was coordinated at SAC command level or handled by the base's own personnel.
+As a SAC installation, Lockbourne came under the command of General [[Curtis LeMay]]. UAP researchers have repeatedly associated LeMay with UFO secrecy and with restricting access to classified materials. In 1956 LeMay's SAC created the [[Strategic Air Command Elite Guard]], a blue-bereted Air Force police unit. Multiple witnesses saw its members at the Kecksburg crash site. It is not known whether Lockbourne's part in the Kecksburg transfer was coordinated at SAC command level or handled by the base's own personnel.
 
 ## Sources
 

@@ -8,7 +8,7 @@ A sole source arrangement, in the context of alleged UAP legacy programs, is a c
 
 ## Mechanism
 
-In a sole source arrangement, the government entity that controls recovered UAP materials gives a single cleared contractor access to them under an [[Unacknowledged Special Access Program (USAP)]] or a comparable classification structure. That entity is theorized to include elements of the [[NRO (National Reconnaissance Office)]], the successor agencies of the [[Atomic Energy Commission]], or Air Force sensitive activities offices. There is no competitive bidding. The contractor funds its own research through [[Independent Research and Development (IRAD)]] charges or other mechanisms and develops technology or knowledge from the materials. It then sells the resulting products or services back to the same government channels through classified procurement, often at substantial profit margins.
+In a sole source arrangement, the government entity that controls recovered UAP materials gives a single cleared contractor access to them under an Unacknowledged Special Access Program (USAP) or a comparable classification structure. That entity is theorized to include elements of the [[NRO (National Reconnaissance Office)]], the successor agencies of the [[Atomic Energy Commission]], or Air Force sensitive activities offices. There is no competitive bidding. The contractor funds its own research through [[Independent Research and Development (IRAD)]] charges or other mechanisms and develops technology or knowledge from the materials. It then sells the resulting products or services back to the same government channels through classified procurement, often at substantial profit margins.
 
 ## Criticisms
 

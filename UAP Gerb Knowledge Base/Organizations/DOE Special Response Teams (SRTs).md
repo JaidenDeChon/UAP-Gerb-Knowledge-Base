@@ -4,7 +4,7 @@ tags:
   - concept
 ---
 
-Department of Energy Special Response Teams (SRTs) are elite tactical units that guard US nuclear weapons and materials. They were trained and historically staffed by [[Wackenhut Corporation]] (now G4S Solutions). SRTs are entrusted with transporting the nation's nuclear arsenals across the continental United States, and they have the authority to make arrests on site. At the height of their operations in the 1980s and 1990s, SRT members reportedly wore all-black clothing and gear with no identifying insignia.
+Department of Energy Special Response Teams (SRTs) are elite tactical units that guard US nuclear weapons and materials. They were trained and historically staffed by [[Wackenhut Services|Wackenhut Corporation]] (now G4S Solutions). SRTs are entrusted with transporting the nation's nuclear arsenals across the continental United States, and they have the authority to make arrests on site. At the height of their operations in the 1980s and 1990s, SRT members reportedly wore all-black clothing and gear with no identifying insignia.
 
 ## Operations and Authority
 
@@ -20,7 +20,7 @@ Gerb theorizes that DOE SRTs, or units modeled on them, may be the clandestine a
 - [[Jonathan Weygandt]] (1997): In Peru, Weygandt encountered a similar clandestine team during a UAP recovery operation. Wackenhut had set up forward operating bases in Peru in the late 1980s and early 1990s, which gives a plausible way for SRTs to have been deployed there.
 - [[Michael Herrera]] (2009): In Sumatra, Herrera encountered armed operators in unmarked gear next to an octagonal craft, the same pattern as the other two cases.
 
-Several factors support the theory that these operators were DOE SRTs and not conventional military special operations forces. They wore no identifying insignia and apparently had the authority to operate independently of the acknowledged military chain of command. Witnesses were given [[Anthrax Vaccine|anthrax boosters]], which suggests proximity to nuclear materials. The classification framework of the Atomic Energy Act would also explain the extreme secrecy surrounding their operations.
+Several factors support the theory that these operators were DOE SRTs and not conventional military special operations forces. They wore no identifying insignia and apparently had the authority to operate independently of the acknowledged military chain of command. Witnesses were given anthrax boosters, which suggests proximity to nuclear materials. The classification framework of the Atomic Energy Act would also explain the extreme secrecy surrounding their operations.
 
 ## Sources
 

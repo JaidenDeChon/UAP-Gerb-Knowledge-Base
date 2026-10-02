@@ -137,7 +137,7 @@ events:
       - "Atlanta, Georgia"
       - "Wright-Patterson Air Force Base"
   - date: "1974-08-30"
-    title: "Mexican pilot Enrique Rivera Gutierrez dies of plane-crash injuries"
+    title: "Mexican pilot Enrique Riviera Gutierrez dies of plane-crash injuries"
     cue: 1238
     summary: "Torres and Uriarte cite a Ciudad Juarez newspaper report that a 50-year-old pilot died on 30 August 1974 of injuries from a plane crash on an unknown date. The authors suggest he may be the Denb Report's pilot; Gerb finds that highly unlikely after a collision thousands of feet up."
     category: person
@@ -461,7 +461,7 @@ Stringfield's endorsement matters to Gerb because Stringfield had heard of the c
 
 The collision of a disc with a light aircraft is, for Gerb, the most improbable part of the case and also its key. The FAA had no record, and Gerb found none in Embry-Riddle's accident archives or the Aviation Safety Network's 1974 listings for Mexico. Torres and Uriarte think the plane was a Cessna 180, whose 17,700-foot service ceiling fits a collision at or below the object's last recorded altitude of 20,000 feet. They suggest it was flying low and slow on an illegal run such as drug smuggling. Gerb notes how pressing border smuggling was in 1974. On 21 October that year the Mexican president told [[Gerald Ford]] that along the border "it is very easy for small planes to take off and land in small private ranches."
 
-Two newspaper leads survive. In *The Coyame Incident*, Torres and Uriarte cite a Ciudad Juárez paper's report that a 50-year-old pilot, Enrique Rivera Gutierrez, died on 30 August 1974 of injuries from a plane crash on an unknown date. Gerb doubts he could be the Denb pilot after a collision thousands of feet up. Mexican researcher [[Alfonso Salazar]] found an *El Heraldo de Chihuahua* story of 27 October 1974 about Mexican soldiers killed in the crash of a "military transport". Gerb calls it the only real lead on the soldiers' fate, though he could not locate the article himself.
+Two newspaper leads survive. In *The Coyame Incident*, Torres and Uriarte cite a Ciudad Juárez paper's report that a 50-year-old pilot, Enrique Riviera Gutierrez, died on 30 August 1974 of injuries from a plane crash on an unknown date. Gerb doubts he could be the Denb pilot after a collision thousands of feet up. Mexican researcher [[Alfonso Salazar]] found an *El Heraldo de Chihuahua* story of 27 October 1974 about Mexican soldiers killed in the crash of a "military transport". Gerb calls it the only real lead on the soldiers' fate, though he could not locate the article himself.
 
 ## The American Response
 

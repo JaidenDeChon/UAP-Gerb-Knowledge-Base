@@ -21,7 +21,7 @@ The SCU's analysis concluded that "no known aircraft, naval vessel, projectile, 
 
 ## Significance
 
-The Aguadilla footage stands out for several reasons. Trained federal personnel captured it with government equipment, and the analysis used a methodology comparable to peer-reviewed scientific standards. It also shows an object passing from air to water and back into the air more clearly than virtually any other video evidence in the UAP record. Rear Admiral Gallaudet and other researchers have noted that the object was close to the [[Puerto Rican Trench]], the deepest part of the Atlantic Ocean at approximately 28,000 feet, and that this location may be relevant.
+The Aguadilla footage stands out for several reasons. Trained federal personnel captured it with government equipment, and the analysis used a methodology comparable to peer-reviewed scientific standards. It also shows an object passing from air to water and back into the air more clearly than virtually any other video evidence in the UAP record. Rear Admiral Gallaudet and other researchers have noted that the object was close to the [[Puerto Rico Trench|Puerto Rican Trench]], the deepest part of the Atlantic Ocean at approximately 28,000 feet, and that this location may be relevant.
 
 ## Sources
 

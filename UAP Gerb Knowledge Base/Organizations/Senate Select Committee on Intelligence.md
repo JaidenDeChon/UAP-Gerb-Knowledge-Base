@@ -9,7 +9,7 @@ The Senate Select Committee on Intelligence (SSCI) is a U.S. Senate committee th
 
 ## UAP-Related Activity
 
-Following declassification, the SSCI allegedly investigated the finances of the National Reconnaissance Office between 1992 and 1995. UAP researchers claim that during this period the NRO played a significant role in crash retrieval and surveillance operations. [[Chris Mellon]] was staff director of the SSCI and worked alongside [[Mary K. Sturdivant]] in that role. Both later became central figures in UAP disclosure and in alleged program access efforts.
+Following declassification, the SSCI allegedly investigated the finances of the National Reconnaissance Office between 1992 and 1995. UAP researchers claim that during this period the NRO played a significant role in crash retrieval and surveillance operations. [[Chris Mellon]] was staff director of the SSCI and worked alongside [[Mary K. Sturtevant]] in that role. Both later became central figures in UAP disclosure and in alleged program access efforts.
 
 When witnesses testified about UAP encounters, SSCI members reportedly asked them to arrange for fellow Marines to give anonymous testimony about related incidents. The request indicates that the committee was actively interested in gathering firsthand accounts of military UAP encounters.
 

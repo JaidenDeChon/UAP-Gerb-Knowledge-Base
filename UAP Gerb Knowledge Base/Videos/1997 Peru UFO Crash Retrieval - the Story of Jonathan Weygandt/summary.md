@@ -167,7 +167,7 @@ events:
   - date: "1990-11-20"
     title: "Tim Cooper interviews Albert Bruce Collins"
     cue: 5931
-    summary: "Researcher Tim Cooper, who received Majestic 12 document drops in the 1980s, interviewed Collins (pseudonym 'Barnabas') on 20 November 1990, weeks before his death on 30 December 1990. Leonard Stringfield published the account in his 1991 Status Report VI, 'The Inner Sanctum'."
+    summary: "Researcher Tim Cooper, who received Majestic 12 document drops (in the 1980s, Gerb says here; his Majestic-12 video dates the drops from 1992), interviewed Collins (pseudonym 'Barnabas') on 20 November 1990, weeks before his death on 30 December 1990. Leonard Stringfield published the account in his 1991 Status Report VI, 'The Inner Sanctum'."
     category: document
     significance: minor
     entities:
@@ -869,7 +869,7 @@ entries:
 
 ## Related Pages
 
-- **People**: [[Jonathan Weygandt]], [[Sergeant Allen]], [[Sergeant Atkins]], [[Sergeant Montil]], [[Steven Greer]], [[James Fox]], [[Martin Willis]], [[Michael Herrera]], [[Rodrik Castle]], [[Jake Barber]], [[Philip J. Corso]], [[Jeffrey T. Richelson]], [[Bob Fish]], [[John Podesta]], [[Joseph Stafula]], [[Christopher Sharp]], [[Albert Stubblebine]], [[Bob Lazar]], [[David Grusch]], [[Harold Malmgren]], [[Leonard Stringfield]], [[Albert Bruce Collins]], [[Tim Cooper]]
+- **People**: [[Jonathan Weygandt]], [[Sergeant Allen]], [[Sergeant Atkins]], [[Sergeant Montil]], [[Steven Greer]], [[James Fox]], [[Martin Willis]], [[Michael Herrera]], [[Jake Barber]], [[Philip J. Corso]], [[Jeffrey T. Richelson]], [[Bob Fish]], [[John Podesta]], [[Joseph Stafula]], [[Christopher Sharp]], [[Albert Stubblebine]], [[Bob Lazar]], [[David Grusch]], [[Harold Malmgren]], [[Leonard Stringfield]], [[Albert Bruce Collins]], [[Tim Cooper]]
 - **Organizations**: [[United States Marine Corps]], [[Marine Air Control Group 28]], [[US SOUTHCOM]], [[Peruvian Air Force]], [[US Army 7th Special Forces Group]], [[MARFORLANT Riverine Training Team]], [[Joint Task Force Bravo]], [[1st Battalion 228th Aviation Regiment]], [[160th Special Operations Aviation Regiment]], [[Department of Energy]], [[NEST (Nuclear Emergency Support Team)]], [[DOE Special Response Teams (SRTs)]], [[Wackenhut Services]], [[Sandia National Laboratories]], [[Los Alamos National Laboratory]], [[Lawrence Livermore National Laboratory]], [[EG&G]], [[Battelle Memorial Institute]], [[NRO (National Reconnaissance Office)]], [[Defense Support Program (DSP)]], [[CIA]], [[CIA Office of Global Access]], [[JSOC (Joint Special Operations Command)]], [[SOCOM]], [[Army INSCOM]], [[NAMRU (Naval Medical Research Unit)]], [[RAND Corporation]], [[Vatican]], [[National Underwater Reconnaissance Office]], [[Disclosure Project]], [[RGH UFOs]], [[TAGOM]], [[Skywatchers]]
 - **Locations**: [[Iquitos, Peru]], [[USAF Radar Detachment 5, Iquitos]], [[Pucallpa]], [[Lima, Peru]], [[NAMRU South, Lima, Peru]], [[Crash Site, Northern Peru]], [[Cherry Point, North Carolina Marine Corps Air Station]], [[Howard Air Force Base, Panama]], [[Wright-Patterson Air Force Base]], [[Camp Polk, Louisiana]], [[University of California, Berkeley]], [[Fort Bliss]], [[Bolivia]]
 - **Concepts**: [[Egg-shaped UAP]], [[Mother of Pearl Effect]], [[MIM-23 Hawk Missile]], [[Psionics]], [[Alien Reproduction Vehicle (ARV)]], [[Atomic Energy Act of 1954]], [[Rapid Reaction Recovery Unit]], [[Aquatic Species Theory]], [[Fast Walkers]], [[Project Twinkle]]

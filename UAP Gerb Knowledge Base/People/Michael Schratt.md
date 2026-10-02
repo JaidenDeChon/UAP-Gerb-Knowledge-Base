@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Michael Schratt is an aerospace historian and UAP researcher. He has worked extensively with [[Dan Benkert]], investigating sightings of triangular craft and the credibility of [[Edgar Fouché]]'s [[TR-3B]] testimony. Schratt gained access to the long-lost files of [[Leonard Stringfield]] in Mufon, Ohio, and published cases from Stringfield's archives that had never appeared in the *Crash Retrieval Status Reports 1–7*.
+Michael Schratt is an aerospace historian and UAP researcher. He has worked extensively with [[Dan Benkert]], investigating sightings of triangular craft and the credibility of [[Edgar Fouche|Edgar Fouché]]'s [[TR-3B]] testimony. Schratt gained access to the long-lost files of [[Leonard Stringfield]] in Mufon, Ohio, and published cases from Stringfield's archives that had never appeared in the *Crash Retrieval Status Reports 1–7*.
 
 ## Key Contributions
 

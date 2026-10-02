@@ -9,7 +9,7 @@ The Battle of Los Angeles, also called the Great Los Angeles Air Raid, was a mil
 
 ## Background
 
-The incident occurred fewer than three months after the [[Attack on Pearl Harbor]] (December 7, 1941), when American war anxiety on the Pacific Coast was at its peak. On February 23, 1942, a Japanese submarine had shelled an oil refinery near Santa Barbara. It was the first attack on the continental US since the War of 1812, and it raised alert levels across the region.
+The incident occurred fewer than three months after the Attack on Pearl Harbor (December 7, 1941), when American war anxiety on the Pacific Coast was at its peak. On February 23, 1942, a Japanese submarine had shelled an oil refinery near Santa Barbara. It was the first attack on the continental US since the War of 1812, and it raised alert levels across the region.
 
 ## The Incident
 

@@ -19,7 +19,7 @@ Castanon commented on the objects' apparent awareness, saying he believed "they 
 
 ## Skeptical Explanations
 
-Skeptic [[Michael Shermer]], head of [[Skeptic Magazine]], suggested the lights were burnoff flares from an offshore oil platform in the [[Gulf of Mexico]]. The explanation has been considered but has not been conclusively confirmed. The case remains notable for its multiple infrared detections, the partial radar corroboration, and the Mexican Air Force's willingness to release the footage publicly.
+Skeptic [[Michael Shermer]], head of [[Skeptic Magazine]], suggested the lights were burnoff flares from an offshore oil platform in the Gulf of Mexico. The explanation has been considered but has not been conclusively confirmed. The case remains notable for its multiple infrared detections, the partial radar corroboration, and the Mexican Air Force's willingness to release the footage publicly.
 
 ## Sources
 

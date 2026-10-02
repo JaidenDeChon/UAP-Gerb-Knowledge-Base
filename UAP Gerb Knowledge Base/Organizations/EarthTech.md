@@ -19,7 +19,7 @@ EarthTech International was named alongside Bigelow Aerospace as an intended rec
 
 ## Aerospace Corporation Research
 
-Working through EarthTech, Davis and Puthoff collaborated with [[Jacques Vallee]], [[Kit Green]], and Kristen B. Zimmerman to identify [[The Aerospace Corporation]] as one of the suspected legacy private corporations engaged in covert UAP research. Vallee documented this analysis in *Hidden Science 5*. It gives context for Aerospace Corporation's documented work with [[Defense Support Program (DSP)]] satellites and [[Fast Walkers]] detection systems.
+Working through EarthTech, Davis and Puthoff collaborated with [[Jacques Vallee]], [[Kit Green]], and Kristen B. Zimmerman to identify [[Aerospace Corporation|The Aerospace Corporation]] as one of the suspected legacy private corporations engaged in covert UAP research. Vallee documented this analysis in *Forbidden Science 5*, which Gerb's video calls *Hidden Science 5*. It gives context for Aerospace Corporation's documented work with [[Defense Support Program (DSP)]] satellites and [[Fast Walkers]] detection systems.
 
 ## Sources
 

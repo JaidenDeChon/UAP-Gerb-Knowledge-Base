@@ -45,7 +45,7 @@ In this video Gerb presents his investigation into the [[MITRE Corporation]], a 
 
 Gerb traces MITRE's founding to Project SAGE, the United States' first computer-based national air defense system, but argues that its creation about a decade after Roswell was no coincidence. On this account, MITRE's founding scientists, many from Naval special projects (including first technical director [[Robert R. Everett]]), were tasked from 1958 with reverse-engineering exploitable technology from Roswell wreckage held at [[Wright-Patterson Air Force Base]]. The program is alleged to be administered by the US Navy, through the [[Office of Naval Intelligence]] and [[Naval Air Systems Command]], rather than by the Air Force that formally chartered MITRE, with [[Naval Air Station Patuxent River]] as its operational nexus. The Tic Tac Factory is described as an object stationed near [[Bahamas|the Bahamas]] that deploys and recovers smaller transmedium craft. Gerb finds partial corroboration in an anonymous 2023 4chan testimony and in Commander [[David Fravor]]'s 2004 USS Nimitz encounter.
 
-A major secondary thread concerns MITRE's internal security architecture, which a source described to Gerb as the literal origin of the "onion" model of nested secrecy used across the [[Legacy Program Onion Model|legacy program]] apparatus. The video details an alleged "hidden" MITRE Special Security Office staffed with nonofficial-cover personnel, a 2011 clampdown on historical program briefings that coincided with the arrival of CIA partners, and an alleged 2017 loss of MITRE's control over the reverse-engineering program linked to [[James Clapper]]'s tenure as Director of National Intelligence. It closes by listing former senior intelligence and acquisition officials who later held senior MITRE posts, among them [[Donald M. Kerr]], [[Susan Gordon]], [[Dawn Meyerriecks]], [[Paul Kaminski]], [[John Deutsch|John M. Deutsch]], [[Linton Wells II]] and [[William LaPlante]]. It then ties the investigation to the legislative interrogative that Representative [[Eric Burlison]] sent MITRE in May 2026, which the video credits to Burlison and whistleblower [[David Grusch]].
+A major secondary thread concerns MITRE's internal security architecture, which a source described to Gerb as the literal origin of the "onion" model of nested secrecy used across the [[Legacy Program Onion Model|legacy program]] apparatus. The video details an alleged "hidden" MITRE Special Security Office staffed with nonofficial-cover personnel, a 2011 clampdown on historical program briefings that coincided with the arrival of CIA partners, and an alleged 2017 loss of MITRE's control over the reverse-engineering program linked to [[James Clapper]]'s tenure as Director of National Intelligence. It closes by listing former senior intelligence and acquisition officials who later held senior MITRE posts, among them [[Donald M. Kerr]], [[Susan Gordon]], [[Dawn Meyerriecks]], [[Paul Kaminski]], [[John Deutch|John M. Deutch]], [[Linton Wells II]] and [[William LaPlante]]. It then ties the investigation to the legislative interrogative that Representative [[Eric Burlison]] sent MITRE in May 2026, which the video credits to Burlison and whistleblower [[David Grusch]].
 
 ## Chronology
 
@@ -187,13 +187,13 @@ events:
   - date: "1994"
     title: "Control group of 27 formed; SAP gatekeeping tightened"
     cue: 6286
-    summary: "To hide from President Clinton's appetite for disclosure, Gerb alleges, legacy control passed to a 27-member government-industry group, while Bill Perry's reforms strengthened the Special Access Program Oversight Committee. Paul Kaminski sat on it as Under Secretary of Defense for Acquisition and Technology; John M. Deutsch, a MITRE board member, chaired it."
+    summary: "To hide from President Clinton's appetite for disclosure, Gerb alleges, legacy control passed to a 27-member government-industry group, while Bill Perry's reforms strengthened the Special Access Program Oversight Committee. Paul Kaminski sat on it as Under Secretary of Defense for Acquisition and Technology; John M. Deutch, a MITRE board member, chaired it."
     category: policy
     significance: major
     entities:
       - "Bill Perry"
       - "Paul Kaminski"
-      - "John Deutsch"
+      - "John Deutch"
   - date: "2004-11"
     title: "USS Nimitz Tic Tac encounter"
     cue: 5184
@@ -639,7 +639,7 @@ entries:
   - name: Paul Kaminski
     role: "Under Secretary of Defense for Acquisition and Technology, 1994–1997"
     note: "A permanent member of the Special Access Program Oversight Committee during the 1994 reorganization. On MITRE's board 2017–2025, per the video."
-  - name: John Deutsch
+  - name: John Deutch
     role: "Chair of the SAP Oversight Committee in 1994"
     note: "Served on MITRE's board before and during his senior Pentagon posts, according to the video."
   - name: Linton Wells II
@@ -681,7 +681,7 @@ In his informal closing, Gerb says the video was deliberately shorter than his u
 - MITRE's legacy program security runs through an unacknowledged "hidden" Special Security Office near Crystal City, staffed by nonofficial-cover personnel, exempt from audits, and funded by money skimmed from acknowledged MITRE and Navy projects. A source called it the origin of the legacy programs' onion model.
 - In 2011, with CIA partners newly introduced, MITRE stopped briefing program newcomers on history and origins; in 2017 MITRE allegedly lost control of the reverse-engineering program, a transition Gerb ties to James Clapper's tenure as DNI.
 - MITRE has periodically destroyed legacy program records at the Fairfax County, Virginia waste management depot, including around 2011 and 2017, Gerb alleges.
-- Former senior officials including Donald M. Kerr, Susan Gordon, Dawn Meyerriecks, Paul Kaminski, John M. Deutsch and William LaPlante held MITRE board or senior leadership posts after government roles Gerb ties to SAP oversight. Linton Wells II was allegedly briefed into MITRE's programs.
+- Former senior officials including Donald M. Kerr, Susan Gordon, Dawn Meyerriecks, Paul Kaminski, John M. Deutch and William LaPlante held MITRE board or senior leadership posts after government roles Gerb ties to SAP oversight. Linton Wells II was allegedly briefed into MITRE's programs.
 - A 2023 anonymous 4chan post describing an undersea "construction facility" is, in Gerb's view, substantially accurate and may have come from someone on or near the MITRE program.
 - Representative Eric Burlison's ten-plus-page legislative interrogative to MITRE, which the video credits to Burlison and David Grusch, obliges MITRE to preserve records and account for its alleged legacy program role.
 
@@ -691,7 +691,7 @@ In his informal closing, Gerb says the video was deliberately shorter than his u
 
 ## Related Pages
 
-- **People**: [[David Grusch]], [[James Clapper]], [[Dick Cheney]], [[Stephanie O'Sullivan]], [[Donald M. Kerr]], [[Susan Gordon]], [[Dawn Meyerriecks]], [[Paul Kaminski]], [[John Deutsch]], [[Linton Wells II]], [[William LaPlante]], [[Bill Perry]], [[Robert R. Everett]], [[Neil McElroy]], [[Philip J. Corso]], [[Arthur Trudeau]], [[Vannevar Bush]], [[David Fravor]], [[Tim Burchett]], [[Eric Burlison]], [[Anna Paulina Luna]], [[Christopher Sharp]], [[Christopher Land]], [[Terry Phillips]], [[John P. Craven]], [[Randy Anderson]], [[Ross Coulthart]], [[Sean Kirkpatrick]], [[Ronald S. Moultrie]], [[Donna D. Shipton]]
+- **People**: [[David Grusch]], [[James Clapper]], [[Dick Cheney]], [[Stephanie O'Sullivan]], [[Donald M. Kerr]], [[Susan Gordon]], [[Dawn Meyerriecks]], [[Paul Kaminski]], [[John Deutch]], [[Linton Wells II]], [[William LaPlante]], [[Bill Perry]], [[Robert R. Everett]], [[Neil McElroy]], [[Philip J. Corso]], [[Arthur Trudeau]], [[Vannevar Bush]], [[David Fravor]], [[Tim Burchett]], [[Eric Burlison]], [[Anna Paulina Luna]], [[Christopher Sharp]], [[Christopher Land]], [[Terry Phillips]], [[John P. Craven]], [[Randy Anderson]], [[Ross Coulthart]], [[Sean Kirkpatrick]], [[Ronald S. Moultrie]], [[Donna D. Shipton]]
 - **Organizations**: [[MITRE Corporation]], [[MIT Lincoln Laboratory]], [[RAND Corporation]], [[Aerospace Corporation]], [[US Navy]], [[CIA]], [[Office of Naval Intelligence]], [[Naval Air Systems Command]], [[Naval Sea Systems Command]], [[Naval Surface Warfare Center Dahlgren]], [[Naval Surface Warfare Center Crane]], [[Naval Undersea Warfare Center Keyport]], [[Naval Criminal Investigative Service]], [[Air Force Office of Special Investigations]], [[Atlantic Undersea Test and Evaluation Center]], [[Air Force Life Cycle Management Center (AFLCMC)]], [[Air Research and Development Command (ARDC)]], [[Air Force Materiel Command (AFMC)]], [[NORAD]], [[Lockheed Martin]]
 - **Locations**: [[Crystal City, Virginia]], [[McLean, Virginia]], [[Naval Air Station Patuxent River]], [[Bahamas]], [[Hanscom Air Force Base, Massachusetts]], [[Wright-Patterson Air Force Base]]
 - **Concepts**: [[Federally Funded Research and Development Center (FFRDC)]], [[Semi-Automatic Ground Environment (SAGE)]], [[Tic Tac Factory]], [[Unidentified Submerged Object (USO)]], [[Legacy Program Onion Model]], [[Special Access Programs (SAPs)]], [[Waived Unacknowledged Special Access Programs (USAPs)]], [[Immaculate Constellation (IMCON)]], [[Hidden Wing]], [[Atomic Energy Act of 1954]]

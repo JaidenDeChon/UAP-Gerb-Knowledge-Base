@@ -22,7 +22,7 @@ SAIC is eligible under the DoD's Corporate Portfolio Program. The program gives 
 
 ## Corporate History and Lineage
 
-SAIC was founded in February 1969 by nuclear physicist [[J. Robert Beyster]] as one of the first employee-owned companies. According to Gerb's 2025 investigation of SAIC, its stock plan "promised to make government officials rich after they left public service" and let Beyster fill the board and senior staff with generals, admirals, spies and cabinet officers, including [[Bobby Ray Inman]], [[John Deutsch]] and [[William F. Raborn]]. One description quoted in the investigation says they had "better access to the Pentagon than the government's own attorneys". SAIC's first contracts, from the Defense Atomic Support Agency, calculated the output of nuclear devices. By 2007, when it had more than 44,000 staff, *Vanity Fair* called it a "body shop in the brain business". A *Baltimore Sun* article and James Bamford's *The Shadow Factory* describe it as "NSA West", a revolving door with the [[NSA]].
+SAIC was founded in February 1969 by nuclear physicist [[J. Robert Beyster]] as one of the first employee-owned companies. According to Gerb's 2025 investigation of SAIC, its stock plan "promised to make government officials rich after they left public service" and let Beyster fill the board and senior staff with generals, admirals, spies and cabinet officers, including [[Bobby Ray Inman]], [[John Deutch]] and [[William F. Raborn]]. One description quoted in the investigation says they had "better access to the Pentagon than the government's own attorneys". SAIC's first contracts, from the Defense Atomic Support Agency, calculated the output of nuclear devices. By 2007, when it had more than 44,000 staff, *Vanity Fair* called it a "body shop in the brain business". A *Baltimore Sun* article and James Bamford's *The Shadow Factory* describe it as "NSA West", a revolving door with the [[NSA]].
 
 The same video traces SAIC's tangled family of related companies:
 
@@ -36,7 +36,7 @@ The same video traces SAIC's tangled family of related companies:
 Gerb argues that many officials he regards as gatekeepers of UFO legacy programs passed through SAIC:
 
 - **[[Sean Kirkpatrick]]** was a senior research scientist at SAIC around 2000 and later became the first [[AARO]] director.
-- **[[John Deutsch]]** and **[[William A. Owens]]** were two of the six [[SAPOC (Special Access Program Oversight Committee)|SAPOC]] figures that Vice Admiral [[Thomas Wilson]] dealt with in the [[Wilson-Davis Memo|Wilson-Davis notes]]. [[Bill Perry]], who restructured SAP oversight in 1994, had also served on SAIC's board. On this basis Gerb bets that SAIC was the unnamed contractor that, together with SAPOC, kept Wilson out.
+- **[[John Deutch]]** and **[[William A. Owens]]** were two of the six [[SAPOC (Special Access Program Oversight Committee)|SAPOC]] figures that Vice Admiral [[Thomas Wilson]] dealt with in the [[Wilson-Davis Memo|Wilson-Davis notes]]. [[Bill Perry]], who restructured SAP oversight in 1994, had also served on SAIC's board. On this basis Gerb bets that SAIC was the unnamed contractor that, together with SAPOC, kept Wilson out.
 - **[[Will Miller]]**, a senior analyst at SAIC, named SAIC as one of the possible "keepers of the keys".
 - **[[Donald M. Kerr]]** was an SAIC executive from 1993 before he ran CIA science and technology and the NRO.
 
@@ -110,7 +110,7 @@ SAIC carried out extensive research into human consciousness phenomena, remote v
 
 ### Post-Stargate Continuation
 
-The CIA's [[Stargate Program]] (remote viewing and psychic phenomena research) was officially terminated in 1995, but SAIC continued consciousness research internally after the programs moved out of direct military oversight. SAIC research documents from this work include:
+The CIA's [[Project Stargate|Stargate Program]] (remote viewing and psychic phenomena research) was officially terminated in 1995, but SAIC continued consciousness research internally after the programs moved out of direct military oversight. SAIC research documents from this work include:
 
 - **"Protocols for the Use of Human Subjects"** (1991) from SAIC's Cognitive Science Laboratory
 - **"A Comprehensive Research Plan for Anomalous Mental Phenomena"** (1991) submitted to the Defense Intelligence Agency
@@ -130,9 +130,9 @@ A now-deleted 2012 [[Office of Naval Research]] paper explicitly discussed resea
 
 ## Electrogravitics and Propulsion Research
 
-Around 1990 SAIC published a paper titled "Electric Propulsion Study," which discussed electrogravidics in relation to [[T. Townsend Brown]] and UAP propulsion mechanisms. Researcher [[Jesse Michaels]] has referred to the study, which relates directly to:
+Around 1990 SAIC published a paper titled "Electric Propulsion Study," which discussed electrogravidics in relation to [[T. Townsend Brown]] and UAP propulsion mechanisms. Researcher [[Jesse Michels]] has referred to the study, which relates directly to:
 
-- Alleged reverse-engineered craft such as the [[Flux Liner]] and [[Alien Reproduction Vehicle (ARV)]] described by aerospace illustrator [[Mark McCandlish]]
+- Alleged reverse-engineered craft such as the Flux Liner and [[Alien Reproduction Vehicle (ARV)]] described by aerospace illustrator [[Mark McCandlish]]
 - Human-made triangular craft using electrogravitic propulsion, which [[RA]] said he has heard credible reports about from military contacts
 - The propulsion systems potentially being reverse engineered from recovered UAP technology
 
@@ -149,7 +149,7 @@ SAIC holds very large contracts with [[Sandia National Laboratories]], which has
 
 ### Naval Air Station Pax River
 
-SAIC has extensive contracts with [[Naval Air Station Patuxent River|Naval Air Station Pax River]] in Virginia, Crane's sister facility, where aerospace engineer [[Salvatore Pais]] filed patents for a triangular or diamond-shaped anti-gravity craft that uses quantum vacuum manipulation. Naval Air Enterprise CTO [[James Sheehy]] supported the patents, and they were then approved even though Navy colleagues knew nothing of Pais or the programs.
+SAIC has extensive contracts with [[Naval Air Station Patuxent River|Naval Air Station Pax River]] in Virginia, Crane's sister facility, where aerospace engineer [[Salvatore Pais]] filed patents for a triangular or diamond-shaped anti-gravity craft that uses quantum vacuum manipulation. Naval Air Enterprise CTO James Sheehy supported the patents, and they were then approved even though Navy colleagues knew nothing of Pais or the programs.
 
 ## Leadership and Revolving Door
 
@@ -187,12 +187,12 @@ Based on [[RA]]'s testimony and investigative analysis:
 - [[Off-World Technologies Division]]
 - [[RA]]
 - [[Consciousness-Interactive Technology]]
-- [[Stargate Program]]
-- [[Remote Viewing]]
+- [[Project Stargate|Stargate Program]]
+- Remote Viewing
 - [[Electrogravitics]]
-- [[JSOC]]
+- [[JSOC (Joint Special Operations Command)|JSOC]]
 - [[Sandia National Laboratories]]
 - [[Naval Air Station Patuxent River|Naval Air Station Pax River]]
 - [[Salvatore Pais]]
-- [[Corporate Portfolio Program]]
-- [[Black Budget Funding]]
+- Corporate Portfolio Program
+- Black Budget Funding

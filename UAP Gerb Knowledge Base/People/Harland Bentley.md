@@ -9,7 +9,7 @@ Harland F. Bentley is a UAP whistleblower who claimed to have witnessed a UFO cr
 
 ## 1958 Nike Ajax Missile Site UFO Encounter
 
-Bentley claimed to have been stationed at a Nike Ajax missile facility north of Washington, D.C., near Olney, Maryland, likely either Site W-92 (Gaithersburg) or W-93 (Olney). The Nike Ajax program, led by Bell Labs, deployed surface-to-air missile systems across the U.S. and [[NATO]] during the Cold War to defend against enemy bomber aircraft.
+Bentley claimed to have been stationed at a Nike Ajax missile facility north of Washington, D.C., near Olney, Maryland, likely either Site W-92 (Gaithersburg) or W-93 (Olney). The Nike Ajax program, led by Bell Labs, deployed surface-to-air missile systems across the U.S. and NATO during the Cold War to defend against enemy bomber aircraft.
 
 Bentley claimed that at approximately 6:00 a.m. in May 1958 he saw a disc-shaped craft hit the ground in a civilian cornfield roughly 2,000 yards from his position and then immediately take flight again. He described it as roughly 30 feet in diameter, with a cake-like structure on top and circular, ball-like pulsating lights that cycled between orange, red, and white. A crashed craft taking flight again is noted as unusual in crash retrieval accounts. Metallic debris was left at the impact site, including a washing machine-sized piece glowing white hot. Soon afterwards, [[US Air Force]] personnel in radiation protection suits arrived with long poles and a lead-lined truck to collect the material. Bentley did not learn where the debris was taken.
 

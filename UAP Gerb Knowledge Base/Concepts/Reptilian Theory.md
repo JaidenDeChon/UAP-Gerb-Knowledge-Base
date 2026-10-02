@@ -4,7 +4,7 @@ tags:
   - concept
 ---
 
-The Reptilian Theory is a conspiracy theory first set out in full by the British author [[David Icke]] in his 1999 book *The Big Secret*. It holds that a race of shape-shifting reptilian extraterrestrials from the [[Alpha Draconis]] star system takes human form and secretly controls human civilization from within. Icke claims that prominent political dynasties, royal families, and corporate and media elites either belong to a reptilian bloodline or are under direct reptilian control.
+The Reptilian Theory is a conspiracy theory first set out in full by the British author [[David Icke]] in his 1999 book *The Big Secret*. It holds that a race of shape-shifting reptilian extraterrestrials from the Alpha Draconis star system takes human form and secretly controls human civilization from within. Icke claims that prominent political dynasties, royal families, and corporate and media elites either belong to a reptilian bloodline or are under direct reptilian control.
 
 ## Core Claims
 

@@ -12,7 +12,7 @@ Joey chose details that could be verified without access to classified records. 
 
 - USS Denver assignment: Herrera named the [[USS Denver]] (LPD-9) as the vessel his Marine element deployed from. Joey confirmed that the ship was assigned to the region and was taking part in relief operations after the [[2009 Sumatra Earthquake]].
 - 31st Marine Expeditionary Unit: Herrera named the [[31st Marine Expeditionary Unit]] as the parent unit for his element's deployment. Joey confirmed that the 31st MEU was in the area at the relevant time.
-- CH-53 Super Stallion helicopters: Herrera said CH-53 Super Stallion helicopters were the lift aircraft used in the logistics operations near [[Padang]], Indonesia. Joey confirmed that CH-53s were consistent with the rotary-wing assets available to the 31st MEU and USS Denver at that time.
+- CH-53 Super Stallion helicopters: Herrera said CH-53 Super Stallion helicopters were the lift aircraft used in the logistics operations near Padang, Indonesia. Joey confirmed that CH-53s were consistent with the rotary-wing assets available to the 31st MEU and USS Denver at that time.
 
 Joey noted explicitly that these corroborations do not prove the UAP sighting occurred. They show only that the operational backdrop Herrera described is consistent with verifiable public records. Someone constructing a false account would need detailed knowledge of the specific ship assignments, unit rotations, and helicopter allocations for the humanitarian mission. Joey treated it as unlikely that a non-specialist could invent that knowledge independently without genuine firsthand exposure.
 

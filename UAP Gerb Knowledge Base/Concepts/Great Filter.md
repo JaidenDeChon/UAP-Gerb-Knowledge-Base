@@ -18,7 +18,7 @@ If the filter is ahead of us, the dangerous threshold is still to come. Candidat
 
 In the context of UAP research, nuclear fission (the splitting of atomic nuclei to release energy) is specifically identified as a likely filter gate. A civilization that successfully weaponizes fission has the means to destroy itself. It would pass the filter by successfully developing controlled nuclear fusion, which fuses hydrogen nuclei as stars do and produces more energy than it consumes. Fusion would give a civilization abundant clean energy and remove the survival pressure that drives arms races. As of the mid-2020s, humanity had achieved only brief, unsustained fusion reactions, and had no controlled fusion capability that yields net energy.
 
-UAP researchers point to the timing. The first US atomic tests occurred in 1942–1944, the atomic bombings of [[Hiroshima]] and [[Nagasaki]] took place in 1945, and the [[Roswell Crash]], the most prominent alleged crash retrieval of non-human technology, occurred in 1947. They cite the closeness of these dates as circumstantial evidence that extraterrestrial monitoring of Earth intensified at the moment humanity demonstrated nuclear capability.
+UAP researchers point to the timing. The first US atomic tests occurred in 1942–1944, the atomic bombings of Hiroshima and Nagasaki took place in 1945, and the [[Roswell Crash]], the most prominent alleged crash retrieval of non-human technology, occurred in 1947. They cite the closeness of these dates as circumstantial evidence that extraterrestrial monitoring of Earth intensified at the moment humanity demonstrated nuclear capability.
 
 ## UFO-Nuclear Interference
 

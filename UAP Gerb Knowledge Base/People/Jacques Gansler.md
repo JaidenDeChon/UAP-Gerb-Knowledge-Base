@@ -10,7 +10,7 @@ Jacques S. Gansler was Under Secretary of Defense for Acquisition and Technology
 
 ## Involvement in the Wilson Affair
 
-According to the Wilson-Davis memo, between June and December 1997, after Wilson's meeting with the [[Watch Committee]] and his complaint to the [[SAPOC (Special Access Program Oversight Committee)|SAPOC]] senior review group, Jacques Gansler replaced [[Paul Kaminski]] and Brigadier General Ward at [[OUSD(AT) (Office of the Under Secretary of Defense for Acquisition and Technology)|OUSD(AT)]].
+According to the Wilson-Davis memo, between June and December 1997, after Wilson's meeting with the [[Watch Committee]] and his complaint to the [[SAPOC (Special Access Program Oversight Committee)|SAPOC]] senior review group, Jacques Gansler replaced [[Paul Kaminski]] and Brigadier General Ward at OUSD(AT).
 
 When Wilson spoke to Gansler in January 1998, he learned that someone had read Gansler into the program. Gansler told Wilson, "UFOs are real, so-called alien abductions not real," and would say nothing more on the topic.
 

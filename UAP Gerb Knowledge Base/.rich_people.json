@@ -2,7 +2,13 @@
   "David Grusch": {
     "enriched_at": "2026-10-01T18:00:00Z",
     "videos": 36,
-    "components": ["wiki-affiliations", "wiki-timeline", "wiki-record", "wiki-roster", "wiki-claim"],
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
     "dates": "verified",
     "corrections": 0,
     "note": "Pilot for a well-connected person."
@@ -14,5 +20,1307 @@
     "dates": "none",
     "corrections": 1,
     "note": "Pilot for a sparse person. Corrected: he was the mentor of Bill McDonald's father, not the father of one of the engineers."
+  },
+  "Jonathan Weygandt": {
+    "enriched_at": "2026-10-01T20:18:43Z",
+    "videos": 18,
+    "components": [
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "partial",
+    "corrections": 0
+  },
+  "Christopher Sharp": {
+    "enriched_at": "2026-10-01T20:18:43Z",
+    "videos": 12,
+    "components": [
+      "wiki-record"
+    ],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "Bobby Ray Inman": {
+    "enriched_at": "2026-10-01T20:18:43Z",
+    "videos": 11,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "James Clapper": {
+    "enriched_at": "2026-10-01T20:18:43Z",
+    "videos": 6,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 2
+  },
+  "William Steinman": {
+    "enriched_at": "2026-10-01T20:18:43Z",
+    "videos": 7,
+    "components": [
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "Steven Greer": {
+    "enriched_at": "2026-10-01T20:20:00Z",
+    "videos": 26,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 3
+  },
+  "Vannevar Bush": {
+    "enriched_at": "2026-10-01T20:20:00Z",
+    "videos": 15,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 4
+  },
+  "Bob Oechsler": {
+    "enriched_at": "2026-10-01T20:20:00Z",
+    "videos": 10,
+    "components": [
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 2
+  },
+  "Robert Jacobs": {
+    "enriched_at": "2026-10-01T20:20:00Z",
+    "videos": 8,
+    "components": [
+      "wiki-claim"
+    ],
+    "dates": "partial",
+    "corrections": 4
+  },
+  "Gary Nolan": {
+    "enriched_at": "2026-10-01T20:20:00Z",
+    "videos": 5,
+    "components": [],
+    "dates": "none",
+    "corrections": 2
+  },
+  "Harry Truman": {
+    "enriched_at": "2026-10-01T20:23:01Z",
+    "videos": 8,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 3
+  },
+  "Luis Elizondo": {
+    "enriched_at": "2026-10-01T20:23:01Z",
+    "videos": 23,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "partial",
+    "corrections": 5
+  },
+  "Rodrik Castle": {
+    "enriched_at": "2026-10-01T20:23:01Z",
+    "videos": 6,
+    "components": [
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "Terry Phillips": {
+    "enriched_at": "2026-10-01T20:23:01Z",
+    "videos": 5,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 3
+  },
+  "Eric Henry Wang": {
+    "enriched_at": "2026-10-01T20:23:01Z",
+    "videos": 6,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "partial",
+    "corrections": 2
+  },
+  "Leonard Stringfield": {
+    "enriched_at": "2026-10-01T20:23:11Z",
+    "videos": 22,
+    "components": [
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 4
+  },
+  "Michael Herrera": {
+    "enriched_at": "2026-10-01T20:23:11Z",
+    "videos": 13,
+    "components": [
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "partial",
+    "corrections": 4
+  },
+  "Philip J. Corso": {
+    "enriched_at": "2026-10-01T20:23:11Z",
+    "videos": 12,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 2
+  },
+  "Eric Davis": {
+    "enriched_at": "2026-10-01T20:23:11Z",
+    "videos": 17,
+    "components": [
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "partial",
+    "corrections": 4
+  },
+  "Brad Sorenson": {
+    "enriched_at": "2026-10-01T20:23:11Z",
+    "videos": 11,
+    "components": [
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "none",
+    "corrections": 2
+  },
+  "Thomas Wilson": {
+    "enriched_at": "2026-10-01T20:25:00Z",
+    "videos": 12,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 6
+  },
+  "Sean Kirkpatrick": {
+    "enriched_at": "2026-10-01T20:25:00Z",
+    "videos": 17,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "partial",
+    "corrections": 4
+  },
+  "Robert Sarbacher": {
+    "enriched_at": "2026-10-01T20:25:00Z",
+    "videos": 11,
+    "components": [
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 4
+  },
+  "Mark McCandlish": {
+    "enriched_at": "2026-10-01T20:25:00Z",
+    "videos": 13,
+    "components": [
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 7
+  },
+  "Eric A. Walker": {
+    "enriched_at": "2026-10-01T20:25:00Z",
+    "videos": 14,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 7
+  },
+  "Edgar Fouche": {
+    "enriched_at": "2026-10-01T20:32:51Z",
+    "videos": 17,
+    "components": [
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 2
+  },
+  "Ben Rich": {
+    "enriched_at": "2026-10-01T20:32:51Z",
+    "videos": 4,
+    "components": [
+      "wiki-affiliations",
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 2
+  },
+  "Arthur Trudeau": {
+    "enriched_at": "2026-10-01T20:32:51Z",
+    "videos": 6,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 3
+  },
+  "Robert Willingham": {
+    "enriched_at": "2026-10-01T20:32:51Z",
+    "videos": 3,
+    "components": [
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 1
+  },
+  "Silas Newton": {
+    "enriched_at": "2026-10-01T20:32:51Z",
+    "videos": 1,
+    "components": [
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "partial",
+    "corrections": 2
+  },
+  "Barry Goldwater": {
+    "enriched_at": "2026-10-01T20:34:54Z",
+    "videos": 6,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 2
+  },
+  "J. Robert Oppenheimer": {
+    "enriched_at": "2026-10-01T20:34:54Z",
+    "videos": 5,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 2
+  },
+  "Ryan S. Wood": {
+    "enriched_at": "2026-10-01T20:34:54Z",
+    "videos": 9,
+    "components": [
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "partial",
+    "corrections": 5
+  },
+  "Bob Lazar": {
+    "enriched_at": "2026-10-01T20:34:54Z",
+    "videos": 15,
+    "components": [],
+    "dates": "partial",
+    "corrections": 2
+  },
+  "Bill Perry": {
+    "enriched_at": "2026-10-01T20:34:54Z",
+    "videos": 8,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 4
+  },
+  "Robert Wood": {
+    "enriched_at": "2026-10-01T20:37:16Z",
+    "videos": 7,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "partial",
+    "corrections": 4
+  },
+  "Bill Hamilton": {
+    "enriched_at": "2026-10-01T20:37:16Z",
+    "videos": 3,
+    "components": [],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "Everett Heinman": {
+    "enriched_at": "2026-10-01T20:37:16Z",
+    "videos": 5,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline"
+    ],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "George C. Marshall": {
+    "enriched_at": "2026-10-01T20:37:16Z",
+    "videos": 2,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 3
+  },
+  "Dick Cheney": {
+    "enriched_at": "2026-10-01T20:37:16Z",
+    "videos": 9,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 4
+  },
+  "Stanton Friedman": {
+    "enriched_at": "2026-10-01T20:38:15Z",
+    "videos": 10,
+    "components": [
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 2
+  },
+  "Wilbert B. Smith": {
+    "enriched_at": "2026-10-01T20:38:15Z",
+    "videos": 5,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 1
+  },
+  "Jesse Marcel": {
+    "enriched_at": "2026-10-01T20:38:15Z",
+    "videos": 7,
+    "components": [
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 2
+  },
+  "Andrew Kissner": {
+    "enriched_at": "2026-10-01T20:38:15Z",
+    "videos": 8,
+    "components": [],
+    "dates": "none",
+    "corrections": 1
+  },
+  "Glenn Gaffney": {
+    "enriched_at": "2026-10-01T20:38:15Z",
+    "videos": 7,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "partial",
+    "corrections": 4
+  },
+  "Albert Stubblebine": {
+    "enriched_at": "2026-10-01T20:39:22Z",
+    "videos": 7,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 3
+  },
+  "Stephanie O'Sullivan": {
+    "enriched_at": "2026-10-01T20:39:22Z",
+    "videos": 4,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 4
+  },
+  "Leslie Groves": {
+    "enriched_at": "2026-10-01T20:39:22Z",
+    "videos": 3,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 2
+  },
+  "Will Miller": {
+    "enriched_at": "2026-10-01T20:39:22Z",
+    "videos": 7,
+    "components": [
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "none",
+    "corrections": 2
+  },
+  "Dwight D. Eisenhower": {
+    "enriched_at": "2026-10-01T20:39:22Z",
+    "videos": 11,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 2
+  },
+  "John Podesta": {
+    "enriched_at": "2026-10-01T20:43:11Z",
+    "videos": 6,
+    "components": [
+      "wiki-affiliations",
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 3
+  },
+  "Sumner Shapiro": {
+    "enriched_at": "2026-10-01T20:43:11Z",
+    "videos": 7,
+    "components": [],
+    "dates": "verified",
+    "corrections": 1
+  },
+  "Steve Wilson": {
+    "enriched_at": "2026-10-01T20:43:11Z",
+    "videos": 3,
+    "components": [
+      "wiki-claim",
+      "wiki-record"
+    ],
+    "dates": "partial",
+    "corrections": 5
+  },
+  "Bob Fish": {
+    "enriched_at": "2026-10-01T20:43:11Z",
+    "videos": 2,
+    "components": [],
+    "dates": "partial",
+    "corrections": 4
+  },
+  "Bill McDonald": {
+    "enriched_at": "2026-10-01T20:43:11Z",
+    "videos": 4,
+    "components": [],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "Donald M. Kerr": {
+    "enriched_at": "2026-10-01T20:46:28Z",
+    "videos": 6,
+    "components": [
+      "wiki-affiliations"
+    ],
+    "dates": "verified",
+    "corrections": 0
+  },
+  "Joey Is Not My Name": {
+    "enriched_at": "2026-10-01T20:46:28Z",
+    "videos": 2,
+    "components": [],
+    "dates": "none",
+    "corrections": 2
+  },
+  "Tim Cooper": {
+    "enriched_at": "2026-10-01T20:46:28Z",
+    "videos": 5,
+    "components": [
+      "wiki-timeline"
+    ],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "Randall G. Walden": {
+    "enriched_at": "2026-10-01T20:46:28Z",
+    "videos": 2,
+    "components": [
+      "wiki-affiliations"
+    ],
+    "dates": "partial",
+    "corrections": 2
+  },
+  "Karl Nell": {
+    "enriched_at": "2026-10-01T20:46:28Z",
+    "videos": 6,
+    "components": [
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "John Deutch": {
+    "enriched_at": "2026-10-01T20:47:20Z",
+    "videos": 4,
+    "components": [
+      "wiki-affiliations",
+      "wiki-roster"
+    ],
+    "dates": "partial",
+    "corrections": 4
+  },
+  "Harry Reid": {
+    "enriched_at": "2026-10-01T20:47:20Z",
+    "videos": 6,
+    "components": [
+      "wiki-affiliations",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 1
+  },
+  "Frank Scully": {
+    "enriched_at": "2026-10-01T20:47:20Z",
+    "videos": 2,
+    "components": [
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 2
+  },
+  "Edward Bushnell Doll": {
+    "enriched_at": "2026-10-01T20:47:20Z",
+    "videos": 4,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 3
+  },
+  "Robert Cardillo": {
+    "enriched_at": "2026-10-01T20:47:20Z",
+    "videos": 3,
+    "components": [
+      "wiki-affiliations",
+      "wiki-roster",
+      "wiki-chain"
+    ],
+    "dates": "partial",
+    "corrections": 5
+  },
+  "Kevin Knuth": {
+    "enriched_at": "2026-10-01T20:51:00Z",
+    "videos": 7,
+    "components": [
+      "wiki-affiliations",
+      "wiki-record"
+    ],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "Randy Anderson": {
+    "enriched_at": "2026-10-01T20:51:00Z",
+    "videos": 9,
+    "components": [
+      "wiki-record"
+    ],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "James T. Ryder": {
+    "enriched_at": "2026-10-01T20:51:00Z",
+    "videos": 5,
+    "components": [
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "partial",
+    "corrections": 5
+  },
+  "Leo GeBauer": {
+    "enriched_at": "2026-10-01T20:51:00Z",
+    "videos": 1,
+    "components": [],
+    "dates": "partial",
+    "corrections": 5
+  },
+  "Hal Puthoff": {
+    "enriched_at": "2026-10-01T20:51:00Z",
+    "videos": 12,
+    "components": [
+      "wiki-affiliations",
+      "wiki-record",
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 4
+  },
+  "Lyndon B. Johnson": {
+    "enriched_at": "2026-10-01T20:53:12Z",
+    "videos": 2,
+    "components": [
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 5
+  },
+  "Edward C. Aldridge": {
+    "enriched_at": "2026-10-01T20:53:12Z",
+    "videos": 4,
+    "components": [
+      "wiki-affiliations"
+    ],
+    "dates": "verified",
+    "corrections": 4
+  },
+  "John Von Neumann": {
+    "enriched_at": "2026-10-01T20:53:12Z",
+    "videos": 4,
+    "components": [
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 5
+  },
+  "Albert Bruce Collins": {
+    "enriched_at": "2026-10-01T20:53:12Z",
+    "videos": 3,
+    "components": [],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "Jacques Vallee": {
+    "enriched_at": "2026-10-01T20:53:12Z",
+    "videos": 10,
+    "components": [
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 5
+  },
+  "John B. Alexander": {
+    "enriched_at": "2026-10-01T20:55:40Z",
+    "videos": 6,
+    "components": [
+      "wiki-affiliations",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "George Knapp": {
+    "enriched_at": "2026-10-01T20:55:40Z",
+    "videos": 6,
+    "components": [
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 1
+  },
+  "Edgar Mitchell": {
+    "enriched_at": "2026-10-01T20:55:40Z",
+    "videos": 1,
+    "components": [],
+    "dates": "verified",
+    "corrections": 2
+  },
+  "Eric Burlison": {
+    "enriched_at": "2026-10-01T20:55:40Z",
+    "videos": 6,
+    "components": [
+      "wiki-affiliations",
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 4
+  },
+  "Chris Mellon": {
+    "enriched_at": "2026-10-01T20:55:40Z",
+    "videos": 16,
+    "components": [
+      "wiki-affiliations",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 4
+  },
+  "Richard Dolan": {
+    "enriched_at": "2026-10-01T20:57:49Z",
+    "videos": 7,
+    "components": [
+      "wiki-record"
+    ],
+    "dates": "verified",
+    "corrections": 3
+  },
+  "Donna D. Shipton": {
+    "enriched_at": "2026-10-01T20:57:49Z",
+    "videos": 3,
+    "components": [
+      "wiki-affiliations"
+    ],
+    "dates": "partial",
+    "corrections": 5
+  },
+  "Jake Barber": {
+    "enriched_at": "2026-10-01T20:57:49Z",
+    "videos": 5,
+    "components": [],
+    "dates": "partial",
+    "corrections": 5
+  },
+  "Jim Romansky": {
+    "enriched_at": "2026-10-01T20:57:49Z",
+    "videos": 1,
+    "components": [
+      "wiki-record"
+    ],
+    "dates": "verified",
+    "corrections": 5
+  },
+  "Dylan Borland": {
+    "enriched_at": "2026-10-01T20:57:49Z",
+    "videos": 6,
+    "components": [
+      "wiki-record"
+    ],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "Stan Gordon": {
+    "enriched_at": "2026-10-01T20:58:48Z",
+    "videos": 1,
+    "components": [],
+    "dates": "partial",
+    "corrections": 5
+  },
+  "Leslie Kean": {
+    "enriched_at": "2026-10-01T20:58:48Z",
+    "videos": 3,
+    "components": [
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "partial",
+    "corrections": 6
+  },
+  "Ruben Uriarte": {
+    "enriched_at": "2026-10-01T20:58:48Z",
+    "videos": 2,
+    "components": [
+      "wiki-record"
+    ],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "John P. Craven": {
+    "enriched_at": "2026-10-01T20:58:48Z",
+    "videos": 8,
+    "components": [
+      "wiki-timeline"
+    ],
+    "dates": "verified",
+    "corrections": 3
+  },
+  "James Forrestal": {
+    "enriched_at": "2026-10-01T20:58:48Z",
+    "videos": 4,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 2
+  },
+  "Infographic Show Whistleblower": {
+    "enriched_at": "2026-10-01T21:02:00Z",
+    "videos": 1,
+    "components": [],
+    "dates": "none",
+    "corrections": 1
+  },
+  "Arthur Stansel Jr.": {
+    "enriched_at": "2026-10-01T21:02:00Z",
+    "videos": 7,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 7
+  },
+  "Catherine Austin Fitts": {
+    "enriched_at": "2026-10-01T21:02:00Z",
+    "videos": 8,
+    "components": [
+      "wiki-affiliations",
+      "wiki-record"
+    ],
+    "dates": "partial",
+    "corrections": 4
+  },
+  "Robert Salas": {
+    "enriched_at": "2026-10-01T21:02:00Z",
+    "videos": 4,
+    "components": [],
+    "dates": "partial",
+    "corrections": 2
+  },
+  "The Insider": {
+    "enriched_at": "2026-10-01T21:02:00Z",
+    "videos": 2,
+    "components": [],
+    "dates": "none",
+    "corrections": 2
+  },
+  "J. Allen Hynek": {
+    "enriched_at": "2026-10-01T21:03:46Z",
+    "videos": 9,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 2
+  },
+  "Cyrus Vance": {
+    "enriched_at": "2026-10-01T21:03:46Z",
+    "videos": 2,
+    "components": [
+      "wiki-affiliations"
+    ],
+    "dates": "verified",
+    "corrections": 3
+  },
+  "Arthur Bray": {
+    "enriched_at": "2026-10-01T21:03:46Z",
+    "videos": 4,
+    "components": [],
+    "dates": "none",
+    "corrections": 2
+  },
+  "Bill Bully Bush": {
+    "enriched_at": "2026-10-01T21:03:46Z",
+    "videos": 1,
+    "components": [],
+    "dates": "none",
+    "corrections": 5
+  },
+  "Alfred O'Donnell": {
+    "enriched_at": "2026-10-01T21:03:46Z",
+    "videos": 2,
+    "components": [
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 1
+  },
+  "Eric Taber": {
+    "enriched_at": "2026-10-01T22:03:01Z",
+    "videos": 4,
+    "components": [],
+    "dates": "partial",
+    "corrections": 1
+  },
+  "Daniel Sheehan": {
+    "enriched_at": "2026-10-01T22:03:01Z",
+    "videos": 4,
+    "components": [
+      "wiki-record"
+    ],
+    "dates": "verified",
+    "corrections": 4
+  },
+  "Nick Cook": {
+    "enriched_at": "2026-10-01T22:03:01Z",
+    "videos": 4,
+    "components": [],
+    "dates": "verified",
+    "corrections": 1
+  },
+  "Mary K. Sturtevant": {
+    "enriched_at": "2026-10-01T22:03:01Z",
+    "videos": 5,
+    "components": [
+      "wiki-roster"
+    ],
+    "dates": "partial",
+    "corrections": 4
+  },
+  "Enrico Fermi": {
+    "enriched_at": "2026-10-01T22:03:01Z",
+    "videos": 3,
+    "components": [],
+    "dates": "verified",
+    "corrections": 1
+  },
+  "Scott and Suzanne Ramsey": {
+    "enriched_at": "2026-10-01T22:03:24Z",
+    "videos": 1,
+    "components": [],
+    "dates": "partial",
+    "corrections": 1
+  },
+  "Denise McKenzie": {
+    "enriched_at": "2026-10-01T22:03:24Z",
+    "videos": 2,
+    "components": [
+      "wiki-claim"
+    ],
+    "dates": "partial",
+    "corrections": 2
+  },
+  "James Fox": {
+    "enriched_at": "2026-10-01T22:03:24Z",
+    "videos": 3,
+    "components": [],
+    "dates": "partial",
+    "corrections": 1
+  },
+  "Oak Shannon": {
+    "enriched_at": "2026-10-01T22:03:24Z",
+    "videos": 4,
+    "components": [
+      "wiki-record"
+    ],
+    "dates": "partial",
+    "corrections": 1
+  },
+  "Wernher von Braun": {
+    "enriched_at": "2026-10-01T22:03:24Z",
+    "videos": 5,
+    "components": [
+      "wiki-affiliations"
+    ],
+    "dates": "verified",
+    "corrections": 4
+  },
+  "Boyd Bushman": {
+    "enriched_at": "2026-10-01T22:04:00Z",
+    "videos": 2,
+    "components": [
+      "wiki-record",
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 0
+  },
+  "Bill Burns": {
+    "enriched_at": "2026-10-01T22:04:00Z",
+    "videos": 2,
+    "components": [],
+    "dates": "verified",
+    "corrections": 0
+  },
+  "John Greenewald": {
+    "enriched_at": "2026-10-01T22:04:00Z",
+    "videos": 5,
+    "components": [
+      "wiki-record",
+      "wiki-claim"
+    ],
+    "dates": "verified",
+    "corrections": 1
+  },
+  "Edward J. Ruppelt": {
+    "enriched_at": "2026-10-01T22:04:00Z",
+    "videos": 7,
+    "components": [
+      "wiki-timeline",
+      "wiki-record",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 4
+  },
+  "Lee M. Russ": {
+    "enriched_at": "2026-10-01T22:04:00Z",
+    "videos": 3,
+    "components": [
+      "wiki-affiliations"
+    ],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "Ellen Lord": {
+    "enriched_at": "2026-10-01T22:06:32Z",
+    "videos": 4,
+    "components": [
+      "wiki-affiliations"
+    ],
+    "dates": "partial",
+    "corrections": 0
+  },
+  "RA": {
+    "enriched_at": "2026-10-01T22:06:32Z",
+    "videos": 1,
+    "components": [],
+    "dates": "none",
+    "corrections": 8
+  },
+  "Dawn Meyerriecks": {
+    "enriched_at": "2026-10-01T22:06:32Z",
+    "videos": 4,
+    "components": [
+      "wiki-affiliations"
+    ],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "Lee Graham": {
+    "enriched_at": "2026-10-01T22:06:32Z",
+    "videos": 3,
+    "components": [
+      "wiki-claim"
+    ],
+    "dates": "none",
+    "corrections": 3
+  },
+  "Curtis LeMay": {
+    "enriched_at": "2026-10-01T22:06:32Z",
+    "videos": 6,
+    "components": [
+      "wiki-affiliations",
+      "wiki-timeline",
+      "wiki-roster"
+    ],
+    "dates": "verified",
+    "corrections": 6
+  },
+  "Raymond Fowler": {
+    "enriched_at": "2026-10-01T22:07:17Z",
+    "videos": 2,
+    "components": [],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "Rear Admiral Timothy Gallaudet": {
+    "enriched_at": "2026-10-01T22:07:17Z",
+    "videos": 3,
+    "components": [
+      "wiki-affiliations",
+      "wiki-record"
+    ],
+    "dates": "verified",
+    "corrections": 7
+  },
+  "Ronald S. Moultrie": {
+    "enriched_at": "2026-10-01T22:07:17Z",
+    "videos": 8,
+    "components": [
+      "wiki-record",
+      "wiki-claim"
+    ],
+    "dates": "partial",
+    "corrections": 4
+  },
+  "Nicholas Johnson": {
+    "enriched_at": "2026-10-01T22:07:17Z",
+    "videos": 1,
+    "components": [],
+    "dates": "partial",
+    "corrections": 2
+  },
+  "Anna Paulina Luna": {
+    "enriched_at": "2026-10-01T22:07:17Z",
+    "videos": 3,
+    "components": [],
+    "dates": "verified",
+    "corrections": 2
+  },
+  "Edward Condon": {
+    "enriched_at": "2026-10-01T22:07:17Z",
+    "videos": 1,
+    "components": [],
+    "dates": "verified",
+    "corrections": 3
+  },
+  "Ross Coulthart": {
+    "enriched_at": "2026-10-01T22:07:27Z",
+    "videos": 14,
+    "components": [
+      "wiki-record",
+      "wiki-roster",
+      "wiki-claim"
+    ],
+    "dates": "partial",
+    "corrections": 2
+  },
+  "Nick Redfern": {
+    "enriched_at": "2026-10-01T22:07:27Z",
+    "videos": 2,
+    "components": [],
+    "dates": "verified",
+    "corrections": 3
+  },
+  "Ed (Witness 11063)": {
+    "enriched_at": "2026-10-01T22:07:27Z",
+    "videos": 1,
+    "components": [],
+    "dates": "none",
+    "corrections": 2
+  },
+  "Russell E. Wyler": {
+    "enriched_at": "2026-10-01T22:07:27Z",
+    "videos": 1,
+    "components": [
+      "wiki-affiliations"
+    ],
+    "dates": "partial",
+    "corrections": 2
+  },
+  "Matt Brown": {
+    "enriched_at": "2026-10-01T22:07:27Z",
+    "videos": 6,
+    "components": [
+      "wiki-record"
+    ],
+    "dates": "partial",
+    "corrections": 3
+  },
+  "Steven Lovekin": {
+    "enriched_at": "2026-10-01T22:15:17Z",
+    "videos": 4,
+    "components": [
+      "wiki-timeline"
+    ],
+    "dates": "verified",
+    "corrections": 1
+  },
+  "Tim Burchett": {
+    "enriched_at": "2026-10-01T22:15:17Z",
+    "videos": 4,
+    "components": [
+      "wiki-affiliations",
+      "wiki-record"
+    ],
+    "dates": "verified",
+    "corrections": 3
+  },
+  "Gary McKinnon": {
+    "enriched_at": "2026-10-01T22:15:17Z",
+    "videos": 2,
+    "components": [
+      "wiki-timeline"
+    ],
+    "dates": "verified",
+    "corrections": 3
   }
 }

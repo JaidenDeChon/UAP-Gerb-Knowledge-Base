@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Major General John A. Samford was Director of Air Force Intelligence. In UAP history he is known for holding the largest US Air Force press conference since World War II, after the [[1952 UFOs Over Washington DC|1952 Washington DC UFO sightings]]. In July 1952 Samford and USAF Director of Operations [[Roger Ramey]] faced the press at the Pentagon to address the wave of UFO reports over the nation's capital.
+Major General John A. Samford was Director of Air Force Intelligence. In UAP history he is known for holding the largest US Air Force press conference since World War II, after the [[1952 UFOs Over Washington DC|1952 Washington DC UFO sightings]]. In July 1952 Samford and USAF Director of Operations [[General Ramey|Roger Ramey]] faced the press at the Pentagon to address the wave of UFO reports over the nation's capital.
 
 ## The 1952 Pentagon Press Conference
 

@@ -21,7 +21,7 @@ In 1953, Project Interloper briefed the CIA on its findings. This set a pattern 
 
 Only three case files from Project Interloper are known to survive: cases 26, 27 and 28. Of these, Case 26 is the one directly relevant to USO research.
 
-Case 26 documents [[Lieutenant George P. Williams]] and his nine-man crew from the US Navy Fleet Logistics Air Wing watching a trans-medium UFO emerge from the ocean between Keflavik, Iceland, and Newfoundland. At first the object looked like a ship. It then rose from beneath the cloud deck and approached the Navy aircraft at what the crew described as a "terrifying closing rate." It hovered near the aircraft's port side before accelerating away. The object was elliptical or cigar-shaped, estimated to be at least 200 feet long, with a red-orange glow around its edges.
+Case 26 documents Lieutenant George P. Williams and his nine-man crew from the US Navy Fleet Logistics Air Wing watching a trans-medium UFO emerge from the ocean between Keflavik, Iceland, and Newfoundland. At first the object looked like a ship. It then rose from beneath the cloud deck and approached the Navy aircraft at what the crew described as a "terrifying closing rate." It hovered near the aircraft's port side before accelerating away. The object was elliptical or cigar-shaped, estimated to be at least 200 feet long, with a red-orange glow around its edges.
 
 Cases 27 and 28 are not maritime USO cases and fall outside the main scope of Gerb's USO investigation.
 
@@ -29,7 +29,7 @@ Cases 27 and 28 are not maritime USO cases and fall outside the main scope of Ge
 
 Project Interloper came to light decades after it operated. Its existence suggests that the US government recognized the USO phenomenon as early as 1951 and deliberately built investigative infrastructure for it outside any publicly accountable process. The project's FOIA exemption, its practice of briefing only the CIA, and the loss of nearly all its case files are consistent with the broader pattern of maritime UAP data being more heavily classified than aerial UAP data.
 
-The [[Office of Naval Intelligence (ONI)]] helped compile related reports, including the nine submarine contact reports submitted through AFOIN-X-SG in April 1952.
+The [[Office of Naval Intelligence|Office of Naval Intelligence (ONI)]] helped compile related reports, including the nine submarine contact reports submitted through AFOIN-X-SG in April 1952.
 
 ## Sources
 

@@ -6,7 +6,7 @@ tags:
   - location
 ---
 
-The Nazca Desert (Spanish: *Desierto de Nazca*) is a high arid plateau in southern Peru, part of the larger Sechura Desert. It is best known as the site of the [[Nazca Lines]], vast geoglyphs made by removing the reddish iron-oxide pebbles that cover the desert floor to expose the lighter earth beneath. The resulting patterns and figures are visible only from elevated vantage points or from the air.
+The Nazca Desert (Spanish: *Desierto de Nazca*) is a high arid plateau in southern Peru, part of the larger Sechura Desert. It is best known as the site of the Nazca Lines, vast geoglyphs made by removing the reddish iron-oxide pebbles that cover the desert floor to expose the lighter earth beneath. The resulting patterns and figures are visible only from elevated vantage points or from the air.
 
 ## The Nazca Lines
 

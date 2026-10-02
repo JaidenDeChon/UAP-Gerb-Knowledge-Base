@@ -10,7 +10,7 @@ Frank Charles Carlucci III (1930–2018) was an American diplomat, politician an
 
 ## Wackenhut Board
 
-Carlucci served on the board of directors of [[Wackenhut Corporation]], the private security firm associated with classified government installations including [[Area 51|Groom Lake (Area 51)]] and the [[Nevada Test Site]]. UAP researchers cite his seat on the Wackenhut board, alongside figures such as [[Bobby Ray Inman]] and [[William F. Raborn]], as evidence of deep connections between senior defense and intelligence officials and the private security infrastructure around UFO legacy program facilities.
+Carlucci served on the board of directors of [[Wackenhut Services|Wackenhut Corporation]], the private security firm associated with classified government installations including [[Area 51|Groom Lake (Area 51)]] and the [[Nevada National Security Site (Nevada Test Site)|Nevada Test Site]]. UAP researchers cite his seat on the Wackenhut board, alongside figures such as [[Bobby Ray Inman]] and [[William F. Raborn]], as evidence of deep connections between senior defense and intelligence officials and the private security infrastructure around UFO legacy program facilities.
 
 ## 1988 Norton Air Force Base Connection
 

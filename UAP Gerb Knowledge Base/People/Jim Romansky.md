@@ -1,49 +1,79 @@
 ---
 name: "Jim Romansky"
-role: "Volunteer fireman and eyewitness"
+role: "Volunteer fireman and machinist; eyewitness to the 1965 Kecksburg crash"
+born: "1946-02-13"
+died: "2021-08-18"
+active_from: 1965
+active_to: 1993
 tags:
   - person
 ---
 
-**Jim Romansky** (often referred to as "Romansky" in official reports) was a volunteer fireman for the [[Kecksburg, Pennsylvania|Kecksburg]] fire department and one of the most credible firsthand witnesses to the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]]. An experienced machinist by trade, Romansky gave detailed technical observations of the crashed object. He became a passionate advocate for disclosure, despite government pressure and consequences for his family.
+**James "Jim" Romansky** (1946–2021) was a volunteer fireman with the [[Kecksburg, Pennsylvania|Kecksburg]] fire company and a firsthand witness to the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]]. He was among the firemen who reached the object in the woods on the night of 9 December 1965, and both [[Stan Gordon]] and [[Leonard Stringfield]] questioned him at length. A machinist by trade, he described the object's metal and construction in unusual detail. Gerb calls him "probably my favorite eyewitness of any case".
 
 ## The Night of December 9, 1965
 
-On the evening of December 9, 1965, Romansky was part of the volunteer fire crew dispatched to search for what was initially believed to be a downed aircraft in the woods near [[Kecksburg, Pennsylvania]]. After the first search team radioed that it had found the crash site, Romansky and his team rushed to the location. Instead of aircraft wreckage, they found a large metallic object half-buried in the ground, with a 25-foot trench and broken tree limbs around it that indicated a controlled descent at about a 30-degree angle. There was no fire damage.
+Romansky, then 19, was part of the volunteer fire crew sent to search for what was thought to be a downed aircraft in the woods near Kecksburg. When the first rescue team radioed the fire hall that it had found the crash site, Romansky and his team hurried there, "expecting a smashed up airplane". Instead they found a large metallic object half-buried at the end of a 25-foot trench. It had come down through the trees at about 30 degrees, breaking limbs, and there was no sign of fire.
 
-Romansky and the fire crew spent about 15 minutes inspecting the object before men in trench coats, with crew cuts, arrived and ordered them to leave. Within minutes, Army and Air Force personnel in full uniform, along with men in civilian clothing, flooded the area.
+After 10 or 15 minutes of looking for survivors and examining the object, the firemen were met by two men in trench coats, "ramrod stiff, crew cut", who declared it a restricted area and ordered them out. The firemen had gone only 15 or 20 feet when uniformed troops came marching in the other direction with flashlights. The military had taken over a farmhouse at the top of the hill, and by the time the firemen had walked back to the fire hall it was "wall to wall" with military trucks, jeeps and guards.
 
 ## Description of the Object
 
-Romansky was a professional machinist with nearly 30 years of experience, and his testimony about how the object was built and what it was made of is uniquely technical. He described it this way:
+Romansky, who said he had been a machinist for almost 30 years, described the object this way:
 
-- Shape: a large bronze or off-gold metallic acorn or bell, 10 to 12 feet long and 8 to 10 feet in diameter.
-- Construction: seamless and rivetless, with no doors, windows, or visible propulsion systems, and a perfectly flat bottom.
-- Material: the object appeared to have been "made from a liquid metal mold," a single continuous piece unlike any fabrication method Romansky had seen. He said: "Never in my life have I seen the color of that metal in any shape or form."
-- Raised band: a ring or "bumper" about 8 to 10 inches wide ran around the object at its widest point.
-- Markings: strange symbols along the raised band, described as "characters of broken and straight lines, dots, rectangles, and circles," that resembled Egyptian hieroglyphics but were definitively not Russian or Polish.
+- Shape: a large metallic acorn or bell, 10 to 12 feet long and 8 to 10 feet in diameter, of a bronze or off-gold colour.
+- Construction: wingless, seamless and rivetless, with no doors, windows or any way in that he could see.
+- Material: it looked to him almost as if it had been made from a liquid metal mould. He told Stan Gordon: "Never in my life have I seen the color of that metal in any shape or form."
+- Raised band: a ring or "bumper" 8 to 10 inches wide around the object.
+- Markings: strange symbols on the band, "characters of broken and straight lines, dots, rectangles and circles", which he compared to ancient Egyptian hieroglyphics.
 
-Romansky's father was originally from Kiev and spoke fluent Russian and Polish. Romansky told investigators explicitly that the markings he saw were not Russian or Polish script. His statement contradicts theories that the object was a Soviet space capsule.
+Some believe the object was a Soviet space capsule and the markings Cyrillic. Romansky told Stringfield he knew the markings were not Russian, a point Gerb stresses. His father could read and write Polish and Russian, and when Romansky asked him to write something in both, he found that "the Polish and Russian writing I seen doesn't come nowhere near" the markings on the object.
 
 ## Going Public
 
-Fearing ridicule, Romansky kept quiet about his experience for over two decades. In 1987 he first approached researcher [[Stan Gordon]] to tell his story publicly. In 1993 he appeared on the *Montel Williams* show and spoke passionately about what he had witnessed and about the lasting consequences his family faced because of his involvement.
+Fearing ridicule, Romansky kept his experience to himself for years. In 1987 he approached Stan Gordon to tell his story, and he later took Gordon to the exact site of the crash. It matched the description given by [[Bill Bully Bush|Bill "Bully" Bush]], who to the best of researchers' knowledge had no contact with Romansky but described the same object and writing. Romansky's account also lines up with that of [[Jerry Betters]], who says he saw an acorn-shaped object hauled out of the woods on a flatbed truck.
+
+::wiki-record
+---
+caption: "Romansky's account as Gerb's Kecksburg video quotes it. The dates are the ones the video gives."
+items:
+  - date: "1987"
+    kind: interview
+    title: "Account to Stan Gordon"
+    with:
+      - "Stan Gordon"
+    note: "After years of fearing ridicule, approaches Gordon to tell his story, and later takes him to the impact site."
+    quote: "Never in my life have I seen the color of that metal in any shape or form."
+    source: "The 1965 Kecksburg, Pennsylvania UFO Crash"
+  - date: "1993"
+    kind: interview
+    title: "Appearance on The Montel Williams Show"
+    note: "Describes the men in trench coats and the troops who followed them, and says his daughter in the Marine Corps and his son in the Air Force were made to sign statements about Kecksburg."
+    quote: "The government is covering this up. They don't want no one to know. They want no one to get access to anything because they're afraid people will find out the truth."
+    source: "The 1965 Kecksburg, Pennsylvania UFO Crash"
+---
+::
 
 ### Impact on Family
 
-On the *Montel Williams* show, Romansky gave disturbing details of how the U.S. government monitored and intimidated his family:
+On *The Montel Williams Show* in 1993, Romansky described what followed for his children:
 
-- His daughter joined the U.S. Marine Corps. After her father's name appeared on a military computer system, she was required to sign a statement pledging she would never request information about Kecksburg.
-- His son enlisted in the U.S. Air Force. He was also required to sign two statements, and because his father was a witness he was explicitly barred from requesting duty at [[Wright-Patterson Air Force Base]], the alleged destination of the Kecksburg craft.
+- His daughter, who was in the U.S. Marine Corps, had to sign a statement that she would never request information about Kecksburg, because his name came up as her father.
+- His son, in the U.S. Air Force, had to sign two statements and was told he could not even request duty at [[Wright-Patterson Air Force Base]], "where my UFO is sitting".
 
-Romansky sounded frustrated and defiant on *Montel Williams*. He challenged the authorities' claims that nothing had been found, saying: "The government is covering this up. They don't want no one to know. They want no one to get access to anything because they're afraid people will find out the truth."
+Romansky was angry and defiant on the show. When it was put to him that he had no need to know, he answered that he had held some of the highest clearances in the country and still had seen nothing, and he said: "The government is covering this up. They don't want no one to know. They want no one to get access to anything because they're afraid people will find out the truth."
 
-## Credibility
+## Later Parallels
 
-Romansky is widely regarded as one of the most credible witnesses in UFO crash retrieval history. His experience as a machinist gave weight to what he said about the object's material and construction. His independent account matched that of civilian witness [[Bill Bully Bush]], who had no known contact with Romansky but described the same object, location, and markings. Researchers [[Leonard Stringfield]] and [[Stan Gordon]] both considered Romansky a reliable and passionate witness whose testimony stayed consistent over decades.
+Gerb compares Romansky's liquid-metal mould with an anonymous, since deleted, Reddit post by someone who claimed to have worked with non-human technology until 2018 and wrote that "every shape is custom molded in a metallic material". He also notes that the post's craft, "shaped like a dreidel without the handle", resembles the object Romansky, Bush and Betters described.
+
+## Later Life
+
+Romansky later worked as a machinist at Latrobe Die Casting until he retired. He died at his home in Derry Township, Pennsylvania, on 18 August 2021, aged 75.
 
 ## Sources
 
 - [[Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/summary|The 1965 Kecksburg, Pennsylvania UFO Crash]]
-- Stan Gordon, *Kecksburg: The Untold Story* (1998)
-- *Montel Williams Show*, 1993 episode on Kecksburg
+- Stan Gordon, *Kecksburg: The Untold Story* (documentary, 1998)
+- *The Montel Williams Show*, 1993 episode on UFOs
+- Obituary of James R. Romansky, Merlin Funeral Home, 2021

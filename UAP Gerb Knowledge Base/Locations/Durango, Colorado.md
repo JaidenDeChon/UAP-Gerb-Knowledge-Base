@@ -14,7 +14,7 @@ According to accounts examined in [[Videos/The 1948 Aztec, New Mexico UFO Crash 
 
 The first civilian witnesses on scene, including oil worker [[Doug Noland]] and rancher [[Valentine Archuleta]], said military personnel arrived quickly, gathered all the witnesses for debriefing, and ordered them under national security directives never to speak of the event. Archuleta described the disc as wobbly and fluttering like a leaf as it passed within 200 yards of him. Gerb has noted that the speed and apparent pre-positioning of the military responders are consistent either with early foreknowledge of the craft's distress or with an exceptionally well-coordinated rapid response to an unusual aerial event.
 
-A USAF veteran cited in the video under the pseudonym George claimed the Aztec retrieval was coordinated out of [[Roswell Army Airfield|Walker Air Force Base]] (formerly Roswell Army Airfield), drawing on institutional experience from the earlier [[Roswell Incident]] of 1947. In this sequence Durango was a nearby transit hub, with no role as a command or storage site.
+A USAF veteran cited in the video under the pseudonym George claimed the Aztec retrieval was coordinated out of [[Roswell Army Airfield|Walker Air Force Base]] (formerly Roswell Army Airfield), drawing on institutional experience from the earlier [[Roswell Crash|Roswell Incident]] of 1947. In this sequence Durango was a nearby transit hub, with no role as a command or storage site.
 
 ## Sources
 

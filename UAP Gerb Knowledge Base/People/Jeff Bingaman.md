@@ -19,7 +19,7 @@ The exchange is one of the rare cases in which Congressional oversight got past 
 
 New Mexico has a central role in UFO history, which makes Bingaman's interest in Moon Dust particularly notable:
 
-- [[Roswell]], New Mexico, site of the famous 1947 UFO crash
+- [[Roswell, New Mexico|Roswell]], New Mexico, site of the famous 1947 UFO crash
 - Multiple alleged crash retrieval sites within New Mexico
 - Dulce Base and other rumored underground facilities
 - [[White Sands Missile Range]], [[Sandia National Laboratories]], and other sensitive installations with alleged UAP connections

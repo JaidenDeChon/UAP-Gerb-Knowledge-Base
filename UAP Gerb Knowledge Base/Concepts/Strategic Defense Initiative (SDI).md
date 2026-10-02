@@ -8,7 +8,7 @@ The Strategic Defense Initiative (SDI), colloquially known as "Star Wars," was a
 
 ## Alleged UAP Connection
 
-[[Edgar Fouché]] claimed that his sources estimated up to 35% of SDI's annual funding was siphoned off to USAF black programs beginning in 1982. This money allegedly supported the Defense Advanced Research Center (DARC) at [[Area 51]] and paid for the development of the [[TR-3B]] and other craft under the [[Aurora Program]]. The Reagan administration purportedly placed extreme importance on building [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]].
+[[Edgar Fouche|Edgar Fouché]] claimed that his sources estimated up to 35% of SDI's annual funding was siphoned off to USAF black programs beginning in 1982. This money allegedly supported the Defense Advanced Research Center (DARC) at [[Area 51]] and paid for the development of the [[TR-3B]] and other craft under the [[Aurora Program]]. The Reagan administration purportedly placed extreme importance on building [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]].
 
 [[Brad Sorenson]]'s 1988 testimony corroborates the link between SDI and ARV development. At the [[Norton Air Force Base]] exhibit where Sorenson saw the Flux Liner ARV, program officials told attendees they were asking Congress for additional funding to build more reverse-engineered craft. This was during the same period in which SDI was receiving massive appropriations.
 

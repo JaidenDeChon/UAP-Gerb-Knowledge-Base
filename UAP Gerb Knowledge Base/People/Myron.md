@@ -52,9 +52,9 @@ Between March 30 and April 1, 1991, [[Leonard Stringfield]] interviewed JS, who 
 
 ## Credibility Assessment
 
-Leonard Stringfield, who extensively interviewed Myron on videotape with the assistance of medical researcher Dr. [[Brian Thompson]], stated: "**I feel convinced of Myron's sincerity.**" Stringfield was known for a balanced approach to witness testimony and would not have said this lightly.
+Leonard Stringfield, who extensively interviewed Myron on videotape with the assistance of medical researcher Dr. Brian Thompson, stated: "**I feel convinced of Myron's sincerity.**" Stringfield was known for a balanced approach to witness testimony and would not have said this lightly.
 
-Myron's decision to hold back the body claim for nearly a decade before revealing it in 1998 raises questions. He said he delayed out of fear of government reprisal. Other UAP cases show the same pattern of late disclosure: [[Robert Willingham]], a witness in the [[1955 Del Rio UFO case]], at first denied seeing bodies and changed his account years later.
+Myron's decision to hold back the body claim for nearly a decade before revealing it in 1998 raises questions. He said he delayed out of fear of government reprisal. Other UAP cases show the same pattern of late disclosure: [[Robert Willingham]], a witness in the [[1955 Langtry UFO Crash|1955 Del Rio UFO case]], at first denied seeing bodies and changed his account years later.
 
 [[Stan Gordon]], speaking at the 2003 Annual Crash Retrieval Conference, noted: "In more recent years I have heard rumors that are not widely known that two small bodies were supposedly found at the impact location in 1965. I have generally accepted this as hearsay since there has never been any evidence to back up these claims." Gordon acknowledged the problems with credibility but noted that independent witnesses gave consistent physical descriptions.
 

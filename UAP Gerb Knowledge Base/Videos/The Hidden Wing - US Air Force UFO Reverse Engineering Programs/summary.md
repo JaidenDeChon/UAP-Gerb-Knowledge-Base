@@ -24,7 +24,7 @@ stats:
     hint: "The Air Force's largest command by funding"
   - value: 5
     label: Officials Gerb calls "hostile witnesses"
-    hint: "Phillips, Russ, McClure, Wiler, Walden"
+    hint: "Phillips, Russ, McClure, Wyler, Walden"
 ---
 ::
 
@@ -34,7 +34,7 @@ stats:
 
 The video's central thesis, which Gerb asks viewers to remember even if they forget everything else, is the [[Hidden Wing]]. On this view, a test and evaluation portfolio for derivative vehicles, [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]] and non-human craft that humans have learned to operate runs across the Western Ranges. Its hub is the Edwards [[412th Test Wing]] under the [[Air Force Test Center]]. It uses pilots from the Air Force and Navy test pilot schools and draws R&D from the [[Air Force Research Laboratory]] and the [[Antelope Valley]] contractors at [[Air Force Plant 42]]. The main witness is "Ed", a retired Air Force officer. Gerb says he has held Ed's records, which show that Ed served on a reverse-engineered-vehicle program at the 412th under AF/TE and later worked at the Pentagon in a post connected to SAF/AQ.
 
-The video is also Gerb's most direct naming of names. He calls five officials "hostile witnesses" and asks the administration to subpoena them or serve interrogatories. They are former AFOSI/PJ executive director [[Terry Phillips]], his successor [[Lee M. Russ]], SAF/AAZ director [[William E. MacLure|William E. McClure]], sensitive-activities director [[Russell E. Wiler]] and RCO director [[Randall G. Walden]]. He also urges scrutiny of Lieutenant General [[Donna D. Shipton]] and Major General [[Dawn M. Dunlop]]. A long closing section traces AFMC's lineage back to the 1946 [[Air Materiel Command]] and to the [[Air Force Special Weapons Center (AFSWC)]], where the enigmatic Dr. [[Eric Henry Wang]] worked. In that section Gerb presents what he says is the first public photograph of Wang.
+The video is also Gerb's most direct naming of names. He calls five officials "hostile witnesses" and asks the administration to subpoena them or serve interrogatories. They are former AFOSI/PJ executive director [[Terry Phillips]], his successor [[Lee M. Russ]], SAF/AAZ director [[William E. MacLure|William E. McClure]], sensitive-activities director [[Russell E. Wyler]] and RCO director [[Randall G. Walden]]. He also urges scrutiny of Lieutenant General [[Donna D. Shipton]] and Major General [[Dawn M. Dunlop]]. A long closing section traces AFMC's lineage back to the 1946 [[Air Materiel Command]] and to the [[Air Force Special Weapons Center (AFSWC)]], where the enigmatic Dr. [[Eric Henry Wang]] worked. In that section Gerb presents what he says is the first public photograph of Wang.
 
 ## Chronology
 
@@ -273,13 +273,13 @@ events:
       - "SAFAHA"
       - "Office of the Under Secretary of Defense for Intelligence and Security (USDINS)"
   - date: "2009"
-    title: "Russell Wiler takes over Air Force Sensitive Activities"
+    title: "Russell Wyler takes over Air Force Sensitive Activities"
     cue: 4841
-    summary: "Russell E. Wiler retired from a 36-year Army career in 2009 and directed the Sensitive Activities Office (SAF/AAH) from 2009 to 2024, then the successor post, director of plans and effects in the Office of Competitive Activities, until about mid-2025. Researcher Alex Catz proposes him as the redacted 'SES-2 Air Force gatekeeper' in Chris Mellon's Signal exchange."
+    summary: "Russell E. Wyler retired from a 36-year Army career in 2009 and directed the Sensitive Activities Office (SAF/AAH) from 2009 to 2024, then the successor post, director of plans and effects in the Office of Competitive Activities, until about mid-2025. Researcher Alex Catz proposes him as the redacted 'SES-2 Air Force gatekeeper' in Chris Mellon's Signal exchange."
     category: person
     significance: major
     entities:
-      - "Russell E. Wiler"
+      - "Russell E. Wyler"
       - "SAFAHA"
   - date: "2009"
     title: "Dawn Dunlop leads the 412th Test Wing"
@@ -344,12 +344,13 @@ events:
   - date: "2021-03-04"
     title: "Phillips briefs the DoD Inspector General's UAP evaluation"
     cue: 8852
-    summary: "FOIA records later published by John Greenwald show Terry Phillips taking part in numerous classified conversations for the DoD Inspector General's UAP evaluation (project D2021-DEVSEN-0116.000), alongside former AFOSI commander Brigadier General Terry Bullard. In one meeting on 4 March 2021 the deputy inspector general shared redacted 'nuggets' Phillips supplied as a subject-matter expert."
+    summary: "FOIA records later published by John Greenewald show Terry Phillips taking part in numerous classified conversations for the DoD Inspector General's UAP evaluation (project D2021-DEVSEN-0116.000), alongside former AFOSI commander Brigadier General Terry Bullard. In one meeting on 4 March 2021 the deputy inspector general shared redacted 'nuggets' Phillips supplied as a subject-matter expert."
     category: document
     significance: major
     entities:
       - "Terry Phillips"
       - "The Black Vault"
+      - "John Greenewald"
   - date: "2022-07-20"
     title: "AARO announced under Moultrie"
     cue: 4151
@@ -382,7 +383,7 @@ events:
     entities:
       - "Chris Mellon"
       - "1953 Kingman, Arizona Crash Retrieval"
-      - "Russell E. Wiler"
+      - "Russell E. Wyler"
       - "William E. MacLure"
   - date: "2024"
     title: "Eric Davis says no alien reproduction vehicles exist"
@@ -478,7 +479,7 @@ root:
       children:
         - name: "SAFAHA"
           label: "Sensitive activities (SAF/AAH)"
-          note: "Runs under DoD directive S-5210.36; Russell E. Wiler, 2009-2024."
+          note: "Runs under DoD directive S-5210.36; Russell E. Wyler, 2009-2024."
         - name: "SAFAAZ"
           label: "Security, special program oversight"
           note: "The Air Force's special access program central office and insider-threat focal point; William E. McClure, 2019-2021."
@@ -501,7 +502,7 @@ root:
 
 [[SAFAQ|SAF/AQ]] oversees Air Force research, development, acquisition and sustainment. It is responsible for everything from basic research to the F-35 and B-21, and it appoints the commander of AFRL. Gerb builds on his NRO investigation, which located that agency's legacy programs in NRO acquisition, and names three SAF/AQ directorates. [[SAFAQL (Special Programs)|SAF/AQL]] (Special Programs) directs SAP advanced technology development. [[SAFAQR (Science, Technology and Engineering)|SAF/AQR]] (Science, Technology and Engineering) is the Air Force Science and Technology Executive and, by its own published mission, "integrates special access program and non-SAP RDT&E" and monitors new technologies with AQL. [[SAFAQX (Acquisition Integration)|SAF/AQX]] (Acquisition Integration) is "the lubricant" that handles funds release and oversight. Gerb says testimony he has gathered names AQX specifically. The bluntest claim comes from witness Ed, who says that over consecutive fiscal years, 30 to 40 percent of Air Force total obligation authority was cut and sent to the black budget before Air Force financial management could review it. The video pairs this with testimony, apparently from Grusch's closed-door answers to Congress, about misappropriated funds.
 
-Gerb then asks who has run the office. Of 14 former assistant secretaries, he finds eight with prior careers at contractors he has accused of legacy work: Lockheed Martin, SAIC, Northrop Grumman, TRW, LTV, [[E-Systems]], the Aerospace Corporation and General Dynamics. His examples are [[Lawrence J. Delaney]], who moved through the Institute for Defense Analyses, the Aerospace Corporation, [[Martin Marietta]], SAIC and [[BDM International|BDM]], and [[Sue C. Payton]] (2006-2009), a Martin Marietta and Lockheed Martin advanced-technology manager. The video dates Delaney's tenure to 1991-1992, while published biographies give 1999-2001. Gerb also urges a "friendly subpoena" for Lieutenant General [[Donna D. Shipton]], SAF/AQ's military deputy from August 2022 to December 2023 and now commander of the [[Air Force Life Cycle Management Center (AFLCMC)]]. Citing Catherine Austin Fitts, he suggests the Air Force's total spend on this work could run from hundreds of billions to low trillions of dollars.
+Gerb then asks who has run the office. Of 14 former assistant secretaries, he finds eight with prior careers at contractors he has accused of legacy work: Lockheed Martin, SAIC, Northrop Grumman, TRW, LTV, [[E-Systems]], the Aerospace Corporation and General Dynamics. His examples are [[Lawrence J. Delaney]], who moved through the Institute for Defense Analyses, the Aerospace Corporation, [[Martin Marietta]], SAIC and [[BDM International|BDM]], and [[Sue C. Payton]] (2006-2009), a Martin Marietta and Lockheed Martin advanced-technology manager. The video dates Delaney's tenure to 1991-1992, while published biographies give 1999-2001. Gerb also urges a "friendly subpoena" for Lieutenant General [[Donna D. Shipton]], SAF/AQ's military deputy from August 2022 to December 2023 and now commander of the [[Air Force Life Cycle Management Center (AFLCMC)]]. Citing [[Catherine Austin Fitts]], he suggests the Air Force's total spend on this work could run from hundreds of billions to low trillions of dollars.
 
 The vehicle he believes lets SAF/AQ do this outside normal oversight is the [[Rapid Capabilities Office (RCO)]]. It has fewer than 200 people and a "short and narrow chain of command". Its portfolio includes the B-21 and the X-37B, and it reports to a board of directors chaired by the [[Under Secretary of Defense for Acquisition and Sustainment (USD A&S)]], an office Gerb already tied to NRO legacy programs. His sources, he says, describe the RCO as a controlling office that packages SAF/AQ's involvement "in the gray area of standard acquisition", outside congressional, Air Force and presidential oversight. Its director, [[Randall G. Walden]], is a former Nellis classified flight-test squadron commander, special programs official and director of AF/TE. In a 2018 Mitchell Institute speech Walden said the RCO runs more than 30 programs as secret as the B-21. He described it as modeled on [[Lockheed Martin Skunk Works|Skunk Works]] and the early NRO, and thanked AFOSI for securing it.
 
@@ -509,16 +510,16 @@ The vehicle he believes lets SAF/AQ do this outside normal oversight is the [[Ra
 
 The second part of the headquarters is the Administrative Assistant's office. [[SAFAHA|SAF/AAH]] (Sensitive Activities) is, under a 2014 mission directive, the Air Force's single office of primary responsibility for combatant-command and combat-support-agency needs involving "sensitive activities and operational concepts". Those activities are defined in classified DoD directive S-5210.36 (6 November 2008), whose office of primary responsibility is the [[Office of the Under Secretary of Defense for Intelligence and Security (USDINS)|Under Secretary of Defense for Intelligence and Security]]. Gerb argues that USD(I&S) is one of the most critical linchpins of National Security Council UFO programs. He focuses on its [[National Program Special Management Staff (NPMS)]], whose director coordinates NSC SAPs with the DoD and intelligence community and is "usually the most cleared person in the entire DoD besides the Secretary of Defense". He also notes that USD(I&S) [[Ronald S. Moultrie]] announced [[AARO]] on 20 July 2022 and installed [[Sean Kirkpatrick]], and he calls AARO a whistleblower honeypot. Kirkpatrick, he says, went on to the [[Oak Ridge National Laboratory]] FFRDC, which [[Battelle Memorial Institute|Battelle]] manages, and Moultrie dropped a Battelle advisory-board post from his CV. As examples of SAF/AAH's work, Gerb imagines it supporting a SOCOM retrieval abroad, or [[Air Combat Command]] fielding derivative technology; he links the second to [[Dylan Borland]]'s triangle over Langley.
 
-This leads into research by Alex Catz on the Signal screenshots [[Chris Mellon]] posted on 23 April 2024. In a 2020 exchange, an unknown correspondent said their group was making "massive progress" on the crash-retrieval portfolio. The correspondent said the group had deciphered its management structure, security controls and ownership, was dealing with the craft that "landed in Kingman, Arizona in 1953", and knew of a still-classified 1950s Secretary of the Air Force memo that keeps the cover on UAPs. The correspondent then wrote "We also know the SES2 who's the Air Force gatekeeper", followed by a redacted name. Gerb says he distrusts Mellon because of his tie to [[Luis Elizondo]] and the "fake AATIP cover program", and because Mellon may be protecting his former Senate intelligence committee colleague [[Mary K. Sturdivant]]. He nevertheless takes the exchange seriously. His closing remarks add that it came out after [[Sean Kirkpatrick]] passed Signal messages with Mellon to [[The Black Vault]].
+This leads into research by Alex Catz on the Signal screenshots [[Chris Mellon]] posted on 23 April 2024. In a 2020 exchange, an unknown correspondent said their group was making "massive progress" on the crash-retrieval portfolio. The correspondent said the group had deciphered its management structure, security controls and ownership, was dealing with the craft that "landed in Kingman, Arizona in 1953", and knew of a still-classified 1950s Secretary of the Air Force memo that keeps the cover on UAPs. The correspondent then wrote "We also know the SES2 who's the Air Force gatekeeper", followed by a redacted name. Gerb says he distrusts Mellon because of his tie to [[Luis Elizondo]] and the "fake AATIP cover program", and because Mellon may be protecting his former Senate intelligence committee colleague [[Mary K. Sturtevant]]. He nevertheless takes the exchange seriously. His closing remarks add that it came out after [[Sean Kirkpatrick]] passed Signal messages with Mellon to [[The Black Vault]].
 
-Catz and Gerb test two candidates against the clues in the exchange: an SES tier 2 grade and a redacted name Catz measured at 12 characters. Gerb allows about two characters of error in that count. For Wiler he adds that his official biography's "sensitive activities managed by other government agencies" echoes directive S-5210.36. He notes that McClure's official Air Force biography spells the name MacLure, and says both men have legacy involvement whichever is the gatekeeper.
+Catz and Gerb test two candidates against the clues in the exchange: an SES tier 2 grade and a redacted name Catz measured at 12 characters. Gerb allows about two characters of error in that count. For Wyler he adds that his official biography's "sensitive activities managed by other government agencies" echoes directive S-5210.36. He notes that McClure's official Air Force biography spells the name MacLure, and says both men have legacy involvement whichever is the gatekeeper.
 
 ::wiki-compare{video="-IXSZe4xVv4" video-title="The Hidden Wing - US Air Force UFO Reverse Engineering Programs"}
 ---
 caption: "The two candidates for the \"SES2 Air Force gatekeeper\" named in Chris Mellon's redacted Signal exchange, tested against its clues."
 attributeLabel: "Clue"
 subjects:
-  - name: "Russell E. Wiler"
+  - name: "Russell E. Wyler"
     note: "Alex Catz's candidate"
   - name: "William E. MacLure"
     note: "Gerb's second candidate"
@@ -556,7 +557,7 @@ He also names Major General [[Dawn M. Dunlop]]. She directed the DoD Special Acc
 
 Before descending to the major commands, Gerb turns to program protection, the "limestone casing" of his pyramid. He targets one part of the [[Air Force Office of Special Investigations]], its Office of Special Projects (AFOSI/PJ), and does not accuse the agency as a whole. PJ describes its most critical mission as preserving the most classified technologies, with agents "trained and equipped to secure, recover, and protect" them, and it provides security and counterintelligence for every Air and Space Force SAP. Its 31 acknowledged locations include the Pentagon, [[Crystal City, Virginia|Crystal City]], Hanscom, Palmdale, El Segundo, Wright-Patterson, Las Vegas, Hill, Kirtland and [[Naval Surface Warfare Center Dahlgren|Dahlgren]]. Gerb ties each location to earlier investigations. He quotes a former SAP security specialist: "The answers to everything you are looking for lie in Crystal City." He notes that [[Hoyt Vandenberg]], an alleged [[Majestic 12]] member, empowered OSI's counterintelligence role on 15 July 1948, the same month as the classified executive orders described by [[Andrew Kissner]]. He also recounts the 1979 [[Guardian Angel Program]], which put FBI agents inside Air Force SAPs, and asks whether its successors explain the FBI harassment that several non-public legacy insiders have reported.
 
-At the center is [[Terry Phillips]]. He was a PJ program security officer by 2001, AFOSI counterintelligence director from 2012 to 2015, and from December 2016 to December 2021 both Air Force SAP Security Director and PJ executive director, becoming the first PJ head at SES tier 1 in August 2020. He then became a senior vice president at [[Leidos]], an [[SAIC]] spin-off, and vice president for security at [[Northrop Grumman]]. Gerb calls him a "boogeyman" and suspects PJ was behind reprisals against [[David Grusch]] and [[Dylan Borland]]. As hard evidence of a UFO connection, he cites FOIA records obtained by John Greenwald. They show Phillips as a subject-matter expert in the DoD Inspector General's classified UAP evaluation, including a 4 March 2021 meeting, and listed among UAP points of contact with USD(A&S), USD(I&S), SAPCO and SAF/AAZ. Gerb also names Phillips's successor, [[Lee M. Russ]]. He sets aside the testimony of former AFOSI agent [[Richard Doty]], who says he was read into a UFO program under the access code "Yankee Black" in 1979, as likely disinformation.
+At the center is [[Terry Phillips]]. He was a PJ program security officer by 2001, AFOSI counterintelligence director from 2012 to 2015, and from December 2016 to December 2021 both Air Force SAP Security Director and PJ executive director, becoming the first PJ head at SES tier 1 in August 2020. He then became a senior vice president at [[Leidos]], an [[SAIC]] spin-off, and vice president for security at [[Northrop Grumman]]. Gerb calls him a "boogeyman" and suspects PJ was behind reprisals against [[David Grusch]] and [[Dylan Borland]]. As hard evidence of a UFO connection, he cites FOIA records obtained by [[John Greenewald]]. They show Phillips as a subject-matter expert in the DoD Inspector General's classified UAP evaluation, including a 4 March 2021 meeting, and listed among UAP points of contact with USD(A&S), USD(I&S), SAPCO and SAF/AAZ. Gerb also names Phillips's successor, [[Lee M. Russ]]. He sets aside the testimony of former AFOSI agent [[Richard Doty]], who says he was read into a UFO program under the access code "Yankee Black" in 1979, as likely disinformation.
 
 ## Major Commands and the Hidden Wing
 
@@ -775,7 +776,7 @@ entries:
   - name: "William E. MacLure"
     role: "Former director, SAF/AAZ (2019-2021), SES-2"
     note: "Rendered 'McClure' in the video; Gerb's second candidate for Mellon's SES-2 gatekeeper."
-  - name: "Russell E. Wiler"
+  - name: "Russell E. Wyler"
     role: "Former director, SAF/AAH sensitive activities (2009-2024), DISES"
     note: "Alex Catz's candidate for the SES-2 gatekeeper. Gerb leans about 60-40 toward him."
   - name: "Randall G. Walden"
@@ -799,7 +800,7 @@ entries:
 - According to witness Ed, SAF/AQ diverted 30 to 40 percent of Air Force total obligation authority to the black budget in consecutive years before financial management could review it.
 - Eight of 14 former Air Force acquisition chiefs allegedly came to the post from contractors Gerb accuses of legacy work.
 - The sensitive-activities office SAF/AAH, operating under classified DoD directive S-5210.36 and USD(I&S), and the security office SAF/AAZ form the programs' administrative and security envelope. The director of USD(I&S)'s National Program Special Management Staff is called one of the most important "above board" roles in NSC-led UFO programs.
-- The "SES2 Air Force gatekeeper" in Chris Mellon's redacted Signal exchange is alleged to be either Russell E. Wiler (Gerb's lean, about 60 percent) or William E. McClure.
+- The "SES2 Air Force gatekeeper" in Chris Mellon's redacted Signal exchange is alleged to be either Russell E. Wyler (Gerb's lean, about 60 percent) or William E. McClure.
 - The Hidden Wing, a T&E program for derivative vehicles, ARVs and non-human craft, allegedly runs across the Western Ranges from the Edwards 412th Test Wing under the Air Force Test Center and AFMC. AF/TE is said to be the top of its hands-on chain, with pilots from the Air Force and Navy test pilot schools and R&D from AFRL and the Plant 42 contractors.
 - AFOSI's Office of Special Projects is alleged to be the programs' security enforcer. Its former executive director Terry Phillips is accused of reprisals against whistleblowers and is shown in FOIA records as a UAP subject-matter expert to the DoD Inspector General.
 - AFMC's predecessors allegedly include the command that received the Roswell wreckage (Air Materiel Command) and the Air Force Special Weapons Center, where Dr. Eric Henry Wang, named at the Kingman and Aztec retrievals, headed special studies.
@@ -812,7 +813,7 @@ entries:
 
 ## Related Pages
 
-- **People**: [[Terry Phillips]], [[Lee M. Russ]], [[William E. MacLure]], [[Russell E. Wiler]], [[Randall G. Walden]], [[Donna D. Shipton]], [[Dawn M. Dunlop]], [[Lawrence J. Delaney]], [[Sue C. Payton]], [[Neil McCasland]], [[Eric Henry Wang]], [[Arthur Stansel Jr.]], [[William Steinman]], [[Richard Doty]], [[Hoyt Vandenberg]], [[Andrew Kissner]], [[Ronald S. Moultrie]], [[Sean Kirkpatrick]], [[Chris Mellon]], [[Luis Elizondo]], [[Mary K. Sturdivant]], [[Eric Davis]], [[Hal Puthoff]], [[David Grusch]], [[Dylan Borland]], [[Edgar Fouche]], [[Rodrik Castle]], [[Marshal Ward]], [[Tom DeLonge]], [[John Podesta]], [[Steven Greer]]
+- **People**: [[Terry Phillips]], [[Lee M. Russ]], [[William E. MacLure]], [[Russell E. Wyler]], [[Randall G. Walden]], [[Donna D. Shipton]], [[Dawn M. Dunlop]], [[Lawrence J. Delaney]], [[Sue C. Payton]], [[Neil McCasland]], [[Eric Henry Wang]], [[Arthur Stansel Jr.]], [[William Steinman]], [[Richard Doty]], [[Hoyt Vandenberg]], [[Andrew Kissner]], [[Ronald S. Moultrie]], [[Sean Kirkpatrick]], [[Chris Mellon]], [[Luis Elizondo]], [[Mary K. Sturtevant]], [[Eric Davis]], [[Hal Puthoff]], [[David Grusch]], [[Dylan Borland]], [[Edgar Fouche]], [[Rodrik Castle]], [[Marshal Ward]], [[Tom DeLonge]], [[John Podesta]], [[Steven Greer]]
 - **Organizations**: [[US Air Force]], [[SAFAQ]], [[SAFAQL (Special Programs)]], [[SAFAQR (Science, Technology and Engineering)]], [[SAFAQX (Acquisition Integration)]], [[Rapid Capabilities Office (RCO)]], [[SAFAHA]], [[SAFAAZ]], [[Air Force Test and Evaluation (AF-TE)]], [[Air Force Operational Test and Evaluation Center (AFOTEC)]], [[Air Force Office of Special Investigations]], [[Air Force Materiel Command (AFMC)]], [[Air Force Test Center]], [[412th Test Wing]], [[Air Force Test Pilot School]], [[Air Force Research Laboratory]], [[Air Force Life Cycle Management Center (AFLCMC)]], [[Air Materiel Command]], [[Air Force Logistics Command]], [[Air Force Systems Command]], [[Air Research and Development Command (ARDC)]], [[Air Force Special Weapons Center (AFSWC)]], [[Air Combat Command]], [[24th Special Tactics Squadron]], [[JSOC (Joint Special Operations Command)]], [[160th Special Operations Aviation Regiment]], [[Under Secretary of Defense for Acquisition and Sustainment (USD A&S)]], [[Office of the Under Secretary of Defense for Intelligence and Security (USDINS)]], [[National Program Special Management Staff (NPMS)]], [[AARO]], [[Leidos]], [[SAIC]], [[Northrop Grumman]], [[Lockheed Martin]], [[Lockheed Martin Skunk Works]], [[Battelle Memorial Institute]], [[Oak Ridge National Laboratory]], [[The Black Vault]]
 - **Locations**: [[Edwards Air Force Base]], [[Nevada Test and Training Range (NTR)]], [[Utah Test and Training Range]], [[Dugway Proving Ground]], [[Langley Air Force Base]], [[Wright-Patterson Air Force Base]], [[Kirtland Air Force Base, New Mexico]], [[Nellis Air Force Base]], [[Crystal City, Virginia]], [[Antelope Valley]], [[Air Force Plant 42]], [[Area 51]]
 - **Concepts**: [[Hidden Wing]], [[UFO Legacy Program Framework]], [[Major Range and Test Facility Bases (MRTFBs)]], [[Alien Reproduction Vehicle (ARV)]], [[Waived Unacknowledged Special Access Programs (USAPs)]], [[Magnetic Field Disruptor (MFD)]], [[Yankee Blue]], [[The Age of Disclosure]]

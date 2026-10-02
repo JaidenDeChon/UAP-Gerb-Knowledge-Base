@@ -110,7 +110,7 @@ UAP researchers theorize that this audit nearly exposed Lockheed's UFO legacy pr
 
 ## Aerospace Corporation Research Identification
 
-In [[Jacques Vallee]]'s *Hidden Science 5*, Vallee, [[Kit Green]], [[Hal Puthoff]], [[Eric Davis]], and Kristen B. Zimmerman identified Lockheed Martin as one of the suspected legacy private corporations engaged in "real UAP research", along with [[Northrop Grumman]] and [[Aerospace Corporation|The Aerospace Corporation]]. They based this on analysis covering the 2000s to 2009.
+In [[Jacques Vallee]]'s *Forbidden Science 5* (*Hidden Science 5* in Gerb's video), Vallee, [[Kit Green]], [[Hal Puthoff]], [[Eric Davis]], and Kristen B. Zimmerman identified Lockheed Martin as one of the suspected legacy private corporations engaged in "real UAP research", along with [[Northrop Grumman]] and [[Aerospace Corporation|The Aerospace Corporation]]. They based this on analysis covering the 2000s to 2009.
 
 ## Sources
 

@@ -10,7 +10,7 @@ Ron Blackburn is a retired United States Air Force lieutenant colonel who served
 
 On August 22, 1998, Blackburn was awarded a US patent for technology increasing the aerodynamic and hydrodynamic efficiency of a vehicle in motion. The patent documentation included a sketch of a disc-shaped craft. In later public statements, including a podcast appearance, Blackburn explained that he had reverse-engineered the capability to eliminate sonic booms at high speeds by using videos of disc-shaped craft he had access to.
 
-The patent combines aerodynamic efficiency, hydrodynamic efficiency (which indicates trans-medium capability) and supersonic travel without a sonic boom. Together these correspond directly to three of the UAP observables catalogued by [[Luis Elizondo]] and the [[ATIP]] program: trans-medium travel, hypersonic velocity, and no acoustic signature. Gerb treats Blackburn's acknowledgment that these capabilities were derived from studying disc-craft footage as circumstantial but significant evidence of UAP reverse engineering activity within Lockheed's Skunk Works.
+The patent combines aerodynamic efficiency, hydrodynamic efficiency (which indicates trans-medium capability) and supersonic travel without a sonic boom. Together these correspond directly to three of the UAP observables catalogued by [[Luis Elizondo]] and the [[AATIP (Advanced Aerospace Threat Identification Program)|ATIP]] program: trans-medium travel, hypersonic velocity, and no acoustic signature. Gerb treats Blackburn's acknowledgment that these capabilities were derived from studying disc-craft footage as circumstantial but significant evidence of UAP reverse engineering activity within Lockheed's Skunk Works.
 
 ## ATIP Group at BDM International
 

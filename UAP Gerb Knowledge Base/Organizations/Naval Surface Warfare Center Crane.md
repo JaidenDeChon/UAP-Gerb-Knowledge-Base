@@ -132,7 +132,7 @@ The private contractor staff talked about the technology casually, which suggest
 The alleged Off-World Technologies Division's focus on consciousness-interactive technology matches:
 
 - [[SAIC]]'s documented research into anomalous cognition (remote viewing, extrasensory perception)
-- SAIC's continued consciousness research after the [[Stargate Program]] ended in 1995
+- SAIC's continued consciousness research after the [[Project Stargate|Stargate Program]] ended in 1995
 - The U.S. Navy's documented interest in "sixth sense" research (Office of Naval Research, 2012)
 - The need for specialized personnel who can interact with or operate recovered technology
 
@@ -188,10 +188,10 @@ Gerb states in *80 Years of UFO Crash Retrieval and Reverse Engineering* that ar
 - [[Off-World Technologies Division]]
 - [[RA]]
 - [[SAIC]]
-- [[JSOC]]
+- [[JSOC (Joint Special Operations Command)|JSOC]]
 - [[Consciousness-Interactive Technology]]
-- [[Reverse Engineering (UAP/UFO technology)]]
-- [[Electronic Warfare]]
+- Reverse Engineering (UAP/UFO technology)
+- Electronic Warfare
 - [[Naval Air Station Patuxent River|Naval Air Station Pax River]]
 - [[Sandia National Laboratories]]
 - [[Area 51]]

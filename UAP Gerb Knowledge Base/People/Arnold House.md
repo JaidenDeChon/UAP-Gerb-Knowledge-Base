@@ -15,7 +15,7 @@ A friend of House's in the Army Criminal Investigation Division (CID), who had w
 
 ## Project Red Light
 
-House's source named the Area 51 program that tested non-human vehicles and exploited recovered materials as [[Project Redlight|Project Red Light]]. He described "a base near Lancaster in Palmdale area" with an underground area near Northrop, which is consistent with independent descriptions of the [[Tejon Ranch]] facility. He also mentioned underground research at Anza, California and at [[March Air Force Base]]. According to the source, 35–40% of Area 51's UAP operations were moved to Utah (identified as [[Dugway Proving Ground]]) in the early 1990s. This corroborates the identical claim made independently by [[Edgar Fouche|Edgar Fuché]].
+House's source named the Area 51 program that tested non-human vehicles and exploited recovered materials as [[Project Redlight|Project Red Light]]. He described "a base near Lancaster in Palmdale area" with an underground area near Northrop, which is consistent with independent descriptions of the [[Tejon Ranch]] facility. He also mentioned underground research at Anza, California and at March Air Force Base. According to the source, 35–40% of Area 51's UAP operations were moved to Utah (identified as [[Dugway Proving Ground]]) in the early 1990s. This corroborates the identical claim made independently by [[Edgar Fouche|Edgar Fuché]].
 
 ## Additional Disclosures
 
@@ -24,7 +24,7 @@ House said he learned the following from his contacts:
 - Henry Kissinger, George H.W. Bush, Ronald Reagan, and Mikhail Gorbachev were all aware of the UAP subject
 - CIA and USAF had downed non-human craft
 - FBI radar testing had interfered with some craft, causing them to crash, an account that echoes [[Philip J. Corso|Lieutenant Colonel Philip J. Corso]]'s Roswell analysis
-- Underground bases testing and maintaining TUOs existed at [[Dugway Proving Ground]], [[Palmdale, California|Palmdale]], [[Edwards Air Force Base]], [[Eglin Air Force Base]], and others
+- Underground bases testing and maintaining TUOs existed at [[Dugway Proving Ground]], [[Palmdale, California|Palmdale]], [[Edwards Air Force Base]], Eglin Air Force Base, and others
 
 ## Sources
 

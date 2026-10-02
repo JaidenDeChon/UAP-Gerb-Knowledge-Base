@@ -1,43 +1,33 @@
 ---
 name: "Anna Paulina Luna"
 role: "US Representative from Florida (R-FL); member of UAP Caucus"
+born: "1989-05-06"
+active_from: 2023
+active_to: "present"
 tags:
   - person
 ---
 
-Anna Paulina Luna is a United States Representative from Florida's 13th congressional district and a member of the bipartisan [[UAP Caucus]], a group of legislators focused on UAP transparency and disclosure. She has taken an active part in Congressional efforts to investigate alleged UFO crash retrieval programs and to push for the declassification of UAP-related materials.
+Anna Paulina Luna (born 1989) is a Republican United States Representative for Florida's 13th congressional district, in office since January 2023, and an Air Force veteran who served in the Air National Guard from 2009 to 2014. Gerb counts her among the members of Congress behind the [[UAP Caucus]], with Representatives [[Tim Burchett]], [[Eric Burlison]] and [[Representative Moskowitz|Jared Moskowitz]]. In Gerb's videos she appears three times: as part of the caucus whose work drew his attention to a Moon Dust case, as Burlison's companion at a meeting with a naval whistleblower, and as one of the House Oversight Committee members an Edwards Air Force Base witness hoped would hear his testimony.
 
-## UAP Caucus Membership
+## UAP Caucus and the Bolivia Crash
 
-As a member of the [[UAP Caucus]] alongside Representatives [[Tim Burchett]], [[Eric Burlison]], and [[Jared Moskowitz]], Luna has worked to:
-
-- Bring historical UFO crash retrieval events (including the [[1978 Bolivia UFO Crash]]) to Congressional attention
-- Support legislative provisions in the National Defense Authorization Act (NDAA) requiring UAP program transparency
-- Coordinate Congressional hearings with testimony from UAP whistleblowers
-- Advocate for protections for whistleblowers who come forward with classified UAP information
-
-## Legislative Focus
-
-Luna's work on UAP oversight addresses Congressional concerns about:
-
-- Alleged Special Access Programs operating beyond Constitutional oversight
-- Lack of transparency in defense programs related to recovered non-human technology
-- Misappropriation of defense appropriations for unacknowledged crash retrieval programs
-- Constitutional and separation-of-powers questions about programs that evade Congressional authority
-
-## Role in Disclosure Efforts
-
-Luna has supported efforts to require transparency about historical UAP programs such as [[Project Moon Dust]], which carried out UFO crash retrieval operations from at least 1961 through the mid-1990s. The UAP Caucus has pointed to Moon Dust as documentary evidence that the US government kept an active capability to collect UFOs beyond the publicly acknowledged [[Project Blue Book]] era.
+Gerb says the [[1978 Bolivia UFO Crash]], his favourite [[Project Moon Dust]] case, was brought to his attention by the work of the UAP Caucus, a legislative group on UAP backed by members of Congress including Representatives Burchett, Luna, Burlison and Moskowitz.
 
 ## Naval Whistleblower Meeting
 
-Luna and fellow UAP Caucus member [[Eric Burlison]] have been described as having met with a whistleblower from a "nautical source" about underwater activity. Burlison said the meeting required a full day of travel, and that what the whistleblower described was reminiscent of the film *The Abyss*. Gerb connects this account to his own reporting on an alleged USO monitoring program, nicknamed the "[[Tic Tac Factory]]," that [[MITRE Corporation|MITRE]] administers in the Atlantic Ocean.
+Burlison has described a meeting at which he and Luna met a whistleblower from a "nautical source". Burlison said it took him an entire day to travel there and back, that the whistleblower talked about activity happening under the ocean, and that what he described "almost reminded me of the movie Abyss", though the whistleblower did not say so himself. Gerb connects this account to his own reporting on an alleged USO monitoring program, nicknamed the "[[Tic Tac Factory]]", that he says [[MITRE Corporation|MITRE]] administers in the Atlantic Ocean.
 
-## Significance
+## The Edwards Witness
 
-Representative Luna's membership in the UAP Caucus is one sign of bipartisan Congressional interest in UFO transparency. Her public engagement with UAP issues lends the topic legitimacy and gives political cover to whistleblowers and researchers who advocate for disclosure.
+A 2024 intelligence briefing module in [[Steven Greer]]'s Disclosure Project Intelligence Archive describes a lieutenant colonel who managed pilots at Edwards Air Force Base and trained those who flew man-made UFOs, known in the vault as [[Ed (Witness 11063)]]. Greer introduced him to the Senate intelligence and armed services committees, and he was eager to testify openly before the House Oversight Committee, though two key members, Representatives Luna and Burchett, had not yet replied.
+
+## Later Oversight Work
+
+In 2025 Luna chaired the House Oversight Committee's Task Force on the Declassification of Federal Secrets. On September 9, 2025, the task force held a hearing, "Restoring Public Trust Through UAP Transparency and Whistleblower Protection", with testimony from witnesses including [[Dylan Borland]] and journalist [[George Knapp]].
 
 ## Sources
 
 - [[Videos/MOON DUST - The Pentagon's Secret UFO Programs/summary|MOON DUST - The Pentagon's Secret UFO Programs]]
 - [[Videos/The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs/summary|The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]
+- [[Videos/UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2/summary|UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2]]

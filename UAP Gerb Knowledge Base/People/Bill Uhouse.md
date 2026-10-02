@@ -20,7 +20,7 @@ By his own account, the 14 years were made up of 10 years in the Corps and four 
 
 Uhouse claimed that a representative from [[Link Aviation]], a simulator manufacturer, invited him to contribute to the construction of flight simulators. The work included an F-102 simulator, a B-47 simulator, and later a flying disc simulator. According to Uhouse, the disc simulator was modeled on the [[1953 Kingman, Arizona Crash Retrieval|Kingman crash craft]], which he described as approximately 30 meters in diameter. He stated the simulator became operable around 1958 and fully operational in 1963 to 1964.
 
-Uhouse further claimed that the recovered Kingman craft was transported to [[Area 51]] (Groom Lake) and the dead pilots were taken to [[Los Alamos National Laboratory]], the primary facility of the [[Atomic Energy Commission]] in New Mexico, which also oversaw [[Operation Upshot-Knothole]]. He also mentioned a recovered extraterrestrial humanoid codenamed [[J-Rod]], although this was not the focus of his Kingman-related testimony.
+Uhouse further claimed that the recovered Kingman craft was transported to [[Area 51]] (Groom Lake) and the dead pilots were taken to [[Los Alamos National Laboratory]], the primary facility of the [[Atomic Energy Commission]] in New Mexico, which also oversaw [[Operation Upshot-Knothole]]. He also mentioned a recovered extraterrestrial humanoid codenamed J-Rod, although this was not the focus of his Kingman-related testimony.
 
 ## Credibility Assessment
 

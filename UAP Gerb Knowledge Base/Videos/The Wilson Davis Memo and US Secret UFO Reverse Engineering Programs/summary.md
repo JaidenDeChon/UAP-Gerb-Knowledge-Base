@@ -30,9 +30,9 @@ stats:
 
 ## Overview
 
-This was Gerb's first video on the channel. It is a line-by-line reading of the [[Wilson-Davis Memo]], 15 pages of notes that leaked in 2018 from the estate of Apollo 14 astronaut [[Edgar Mitchell]]. The notes record an alleged meeting on 16 October 2002 between astrophysicist [[Eric Davis]] and retired Vice Admiral [[Thomas Wilson]], held in Wilson's car outside the defense contractor [[EG&G]]. In them, Wilson recounts how a 1997 Pentagon briefing by [[Steven Greer]], Commander [[Will Miller]] and Mitchell led him to search for a hidden UFO crash-retrieval program. He says he found it inside a set of unacknowledged [[Special Access Programs (SAPs)|special access programs]], run by an unnamed aerospace contractor and guarded by a three-person [[Watch Committee]], which told him the program held "an intact craft they believed could fly" of non-human origin. It then refused to read him in (give him access), even though as a senior official of the Defense Intelligence Agency (DIA) he held oversight of every special access program in the Department of Defense.
+This was Gerb's first video on the channel. It is a line-by-line reading of the [[Wilson-Davis Memo]], 15 pages of notes that leaked in 2019 from the estate of Apollo 14 astronaut [[Edgar Mitchell]]. The notes record an alleged meeting on 16 October 2002 between astrophysicist [[Eric Davis]] and retired Vice Admiral [[Thomas Wilson]], held in Wilson's car outside the defense contractor [[EG&G]]. In them, Wilson recounts how a 1997 Pentagon briefing by [[Steven Greer]], Commander [[Will Miller]] and Mitchell led him to search for a hidden UFO crash-retrieval program. He says he found it inside a set of unacknowledged [[Special Access Programs (SAPs)|special access programs]], run by an unnamed aerospace contractor and guarded by a three-person [[Watch Committee]], which told him the program held "an intact craft they believed could fly" of non-human origin. It then refused to read him in (give him access), even though as a senior official of the Defense Intelligence Agency (DIA) he held oversight of every special access program in the Department of Defense.
 
-Gerb opens with how the notes reached the public through [[James Rigny]] and profiles the two men. He then walks through the notes in order: Wilson's 45-day investigation, his confrontation with the watch committee, and the Pentagon review group that upheld the refusal and threatened his career. The last third weighs the evidence for and against authenticity. Wilson denied the meeting in 2020, and Davis will neither confirm nor deny it. On the other side, Mitchell described the same 1997 episode on *Larry King Live* in 2008; [[Oak Shannon]], [[Chris Mellon]], [[Luis Elizondo|Lou Elizondo]], [[Ross Coulthart]] and [[Richard Dolan]] have attested to the document; and it was entered into the Congressional Record in 2022.
+Gerb opens with how the notes reached the public through [[James Rigney]] and profiles the two men. He then walks through the notes in order: Wilson's 45-day investigation, his confrontation with the watch committee, and the Pentagon review group that upheld the refusal and threatened his career. The last third weighs the evidence for and against authenticity. Wilson denied the meeting in 2020, and Davis will neither confirm nor deny it. On the other side, Mitchell described the same 1997 episode on *Larry King Live* in 2008; [[Oak Shannon]], [[Chris Mellon]], [[Luis Elizondo|Lou Elizondo]], [[Ross Coulthart]] and [[Richard Dolan]] have attested to the document; and it was entered into the Congressional Record in 2022.
 
 Gerb's verdict is that "the memo is real". He argues that Wilson's account of an embedded crash-retrieval program mirrors [[David Grusch]]'s, that Wilson's denial is exactly what the notes have him promise to do, and he adds that he has spoken to Chris Mellon about the memo himself.
 
@@ -129,12 +129,12 @@ events:
     cue: 780
   - date: "1997"
     title: "SAPOC senior review group sustains the denial"
-    summary: "Back in Washington, Wilson complained to the senior review group of SAPOC, the Special Access Program Oversight Committee, which sided with the contractor. Its chairman, John Deutsch, allegedly warned that if Wilson pressed on he would miss promotion to DIA director, be retired early and lose one or two stars."
+    summary: "Back in Washington, Wilson complained to the senior review group of SAPOC, the Special Access Program Oversight Committee, which sided with the contractor. Its chairman, John Deutch, allegedly warned that if Wilson pressed on he would miss promotion to DIA director, be retired early and lose one or two stars."
     category: event
     significance: major
     entities:
       - "SAPOC (Special Access Program Oversight Committee)"
-      - "John Deutsch"
+      - "John Deutch"
     cue: 1092
   - date: "1997-06"
     title: "OUSD(AT) officials replaced"
@@ -183,30 +183,30 @@ events:
       - "Edgar Mitchell"
     cue: 1479
   - date: "c. 2013"
-    title: "James Rigny meets his confidential source"
-    summary: "At a space conference in the US, Rigny befriended a source close to several Apollo astronauts, including Mitchell."
+    title: "James Rigney meets his confidential source"
+    summary: "At a space conference in the US, Rigney befriended a source close to several Apollo astronauts, including Mitchell."
     category: person
     significance: minor
     entities:
-      - "James Rigny"
+      - "James Rigney"
     cue: 72
   - date: "2016-02"
     title: "Mitchell dies; his estate is dispersed"
-    summary: "After Mitchell's unexpected death, his family invited Rigny's source to help disperse the estate, much of it marked for destruction. Rigny was told of UFO-related papers, was granted access, and copied several, including the Wilson-Davis notes."
+    summary: "After Mitchell's unexpected death, his family invited Rigney's source to help disperse the estate, much of it marked for destruction. Rigney was told of UFO-related papers, was granted access, and copied several, including the Wilson-Davis notes."
     category: event
     significance: notable
     entities:
       - "Edgar Mitchell"
-      - "James Rigny"
+      - "James Rigney"
     cue: 91
-  - date: "2018"
+  - date: "2019"
     title: "The notes leak to the public"
-    summary: "The 15 pages of notes became public. Rigny later explained their origin on Richard Dolan's podcast."
+    summary: "The 15 pages of notes became public, after circulating privately among a few researchers from late 2018. Rigney later explained their origin on Richard Dolan's podcast."
     category: document
     significance: major
     entities:
       - "Wilson-Davis Memo"
-      - "James Rigny"
+      - "James Rigney"
       - "Richard Dolan"
     cue: 0
   - date: "2018"
@@ -250,7 +250,7 @@ events:
 
 ## How the Notes Surfaced
 
-Nobody knows how Mitchell came to hold the notes. Gerb traces what is known of their route from there. Around 2013, James Rigny befriended a confidential source at a US space conference, someone close to several Apollo astronauts. When Mitchell died unexpectedly in February 2016, his family invited that source to help disperse the estate, much of which was marked for destruction. The source told Rigny about papers referring to UFOs, and Rigny asked for access and copied several documents, the Wilson-Davis notes among them. His name became public when he explained the notes' origin on Richard Dolan's podcast.
+Nobody knows how Mitchell came to hold the notes. Gerb traces what is known of their route from there. Around 2013, James Rigney befriended a confidential source at a US space conference, someone close to several Apollo astronauts. When Mitchell died unexpectedly in February 2016, his family invited that source to help disperse the estate, much of which was marked for destruction. The source told Rigney about papers referring to UFOs, and Rigney asked for access and copied several documents, the Wilson-Davis notes among them. His name became public when he explained the notes' origin on Richard Dolan's podcast.
 
 ::wiki-chain{video="yIqkazIZh9I" video-title="The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs"}
 ---
@@ -270,16 +270,16 @@ steps:
     note: "The notes sit among his papers until his death in February 2016."
     cue: 206
   - via: "Invited by the family to help disperse the estate"
-    text: "Rigny's confidential source"
-    note: "Close to several Apollo astronauts; tells Rigny about the UFO papers."
+    text: "Rigney's confidential source"
+    note: "Close to several Apollo astronauts; tells Rigney about the UFO papers."
     cue: 91
   - via: "Granted access; copies the documents"
-    name: "James Rigny"
+    name: "James Rigney"
     note: "Later explains the notes' origin on Richard Dolan's podcast."
     cue: 222
-  - via: "Leaked, 2018"
+  - via: "Leaked, 2019"
     text: "Public release"
-    note: "The 15-page notes circulate from 2018."
+    note: "The 15-page notes circulate privately from late 2018 and publicly from 2019."
     cue: 0
   - via: "Entered, 2022"
     text: "US Congressional Record"
@@ -372,7 +372,7 @@ claims:
         stance: supports
         text: "In every other situation, the DIA deputy director has access to all acknowledged and unacknowledged special access programs (SAPs)."
         cue: 925
-      - by: ["SAPOC (Special Access Program Oversight Committee)", "John Deutsch"]
+      - by: ["SAPOC (Special Access Program Oversight Committee)", "John Deutch"]
         stance: challenges
         where: "SAPOC senior review group, the Pentagon"
         text: "The review group sustains the contractor and tells Wilson to drop the matter. Its chairman warns he would miss promotion to DIA director, be retired early and lose one or two stars."
@@ -388,7 +388,7 @@ Progress had been "agonizingly slow", with little or no success over years. Part
 
 ### The review group and the threat
 
-Wilson threatened to take the matter to SAPOC. Back in Washington he did, but its senior review group upheld the contractor, and chairman [[John Deutsch]] delivered the warning about his career. Between June and December 1997, after the review, the OUSD(AT) officials Wilson had dealt with, "Paul and Mike" ([[Paul Kaminski]] was then Under Secretary), were replaced by [[Jacques Gansler]] and Air Force Brigadier General Ward. In January 1998 Wilson spoke to Gansler and found that someone had read him into the program. Gansler told him "UFOs are real, so-called alien abductions not real", and would say nothing more. The notes end with Davis promising to keep the meeting private and for his personal use only.
+Wilson threatened to take the matter to SAPOC. Back in Washington he did, but its senior review group upheld the contractor, and chairman [[John Deutch]] delivered the warning about his career. Between June and December 1997, after the review, the OUSD(AT) officials Wilson had dealt with, "Paul and Mike" ([[Paul Kaminski]] was then Under Secretary), were replaced by [[Jacques Gansler]] and Air Force Brigadier General Ward. In January 1998 Wilson spoke to Gansler and found that someone had read him into the program. Gansler told him "UFOs are real, so-called alien abductions not real", and would say nothing more. The notes end with Davis promising to keep the meeting private and for his personal use only.
 
 ## Statements on Authenticity
 
@@ -520,13 +520,13 @@ entries:
   - name: "Steven Greer"
     role: "UFO disclosure advocate"
     note: "Gave the April 1997 Pentagon briefing that, per the notes, started Wilson's search."
-  - name: "James Rigny"
+  - name: "James Rigney"
     role: "Source of the leak"
     note: "Copied the notes from Mitchell's estate through a confidential source and explained their origin on Richard Dolan's podcast."
   - name: "Oak Shannon"
     role: "Former Los Alamos special projects manager"
     note: "Asked Wilson to speak with Davis, and later confirmed the memo's authenticity."
-  - name: "John Deutsch"
+  - name: "John Deutch"
     role: "Chairman, SAPOC senior review group"
     note: "Allegedly threatened Wilson's promotion and stars if he did not drop the matter."
   - name: "Jacques Gansler"
@@ -540,14 +540,14 @@ entries:
 
 ## Key Claims
 
-- A 15-page set of notes that leaked in 2018 from Edgar Mitchell's estate records an alleged 16 October 2002 meeting between Eric Davis and Vice Admiral Thomas Wilson, held in Wilson's car outside EG&G.
+- A 15-page set of notes that leaked in 2019 from Edgar Mitchell's estate records an alleged 16 October 2002 meeting between Eric Davis and Vice Admiral Thomas Wilson, held in Wilson's car outside EG&G.
 - In April 1997, Steven Greer briefed Wilson, Will Miller and Mitchell in a Pentagon conference room about UFOs, Roswell and crashed craft; Miller says DIA Director Patrick Hughes also requested a briefing.
 - Wilson then spent 45 days (April to June 1997) searching OUSD(AT) records, advised by General Marshal Ward and Secretary of Defense Bill Perry, and found a "special project records group" of unacknowledged carve-outs and waived programs that Perry allegedly organized in 1994.
 - Of seven program managers Wilson called, four referred him to one program run by a three-person "watch committee": a former-NSA security director, a program director and a corporate attorney.
 - The program was allegedly coordinated by an aerospace contractor ("the best one of them"), carried no listed budget, and was protected by a formal agreement with SAPOC made after an audit nearly exposed it. Gerb believes the contractor is Lockheed Martin.
 - The committee allegedly told Wilson the program was reverse-engineering "an intact craft they believed could fly", of non-human origin, with agonizingly slow progress and only 400 to 800 workers since inception.
 - Wilson was refused access for not being on the program's bigot list; the 1990–1993 pages he was shown contained no politicians, White House or congressional names.
-- The SAPOC senior review group upheld the refusal, and its chairman John Deutsch allegedly threatened Wilson's promotion to DIA director and his stars.
+- The SAPOC senior review group upheld the refusal, and its chairman John Deutch allegedly threatened Wilson's promotion to DIA director and his stars.
 - Jacques Gansler, read into the program, allegedly told Wilson in January 1998 that "UFOs are real, so-called alien abductions not real".
 - Wilson denied the 2002 meeting in 2020, while admitting he had met Greer and Mitchell. Davis will neither confirm nor deny it.
 - Mitchell described the 1997 episode on *Larry King Live* in 2008; Oak Shannon, Chris Mellon, Lou Elizondo, Ross Coulthart and Richard Dolan are cited as attesting to the memo, which was entered into the Congressional Record in 2022.
@@ -559,7 +559,7 @@ entries:
 
 ## Related Pages
 
-- **People**: [[Thomas Wilson]], [[Eric Davis]], [[Edgar Mitchell]], [[Will Miller]], [[Steven Greer]], [[James Rigny]], [[Oak Shannon]], [[Patrick M. Hughes]], [[Marshal Ward]], [[Bill Perry]], [[John Deutsch]], [[Paul Kaminski]], [[Jacques Gansler]], [[Chris Mellon]], [[Luis Elizondo]], [[Ross Coulthart]], [[Richard Dolan]], [[Steven Greenstreet]], [[George Knapp]], [[John Greenewald]], [[Hal Puthoff]], [[David Grusch]], [[Harry Reid]], [[Gordon Cooper]], [[Robert Jacobs]], [[Jonathan Weygandt]]
+- **People**: [[Thomas Wilson]], [[Eric Davis]], [[Edgar Mitchell]], [[Will Miller]], [[Steven Greer]], [[James Rigney]], [[Oak Shannon]], [[Patrick M. Hughes]], [[Marshal Ward]], [[Bill Perry]], [[John Deutch]], [[Paul Kaminski]], [[Jacques Gansler]], [[Chris Mellon]], [[Luis Elizondo]], [[Ross Coulthart]], [[Richard Dolan]], [[Steven Greenstreet]], [[George Knapp]], [[John Greenewald]], [[Hal Puthoff]], [[David Grusch]], [[Harry Reid]], [[Gordon Cooper]], [[Robert Jacobs]], [[Jonathan Weygandt]]
 - **Organizations**: [[Defense Intelligence Agency]], [[SAPOC (Special Access Program Oversight Committee)]], [[National Security Council]], [[EG&G]], [[Lockheed Martin]], [[EarthTech]], [[NASA]], [[US Congress]], [[Majestic 12]]
 - **Locations**: [[Pentagon]], [[Los Alamos National Laboratory]]
 - **Concepts**: [[Wilson-Davis Memo]], [[Watch Committee]], [[Bigot List]], [[Special Access Programs (SAPs)]], [[Waived Unacknowledged Special Access Programs (USAPs)]], [[Alien Reproduction Vehicle (ARV)]]

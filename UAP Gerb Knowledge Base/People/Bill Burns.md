@@ -1,31 +1,34 @@
 ---
 name: "Bill Burns"
-role: "Co-author; writer"
+role: "Author and ghostwriter; co-author of The Day After Roswell"
+born: "1944-11-07"
+active_from: 1997
+active_to: 1997
 tags:
   - person
 ---
 
-William J. "Bill" Burns (also published as William Birnes) was the co-author of *The Day After Roswell* (1997) with retired U.S. Army Lieutenant Colonel [[Philip J. Corso]]. Corso's own family, and researchers who know Corso's original manuscript, have accused Burns of taking creative liberties and of adding sensational embellishments and fabricated details that are not in Corso's source material.
+William J. "Bill" Birnes (born 1944) is an American author and ghostwriter who co-wrote *The Day After Roswell* (1997) with retired U.S. Army Lieutenant Colonel [[Philip J. Corso]]. The captions of Gerb's videos spell his name "Bill Burns", which is why this page carries that title. Birnes later published *UFO Magazine* and was a lead investigator on the History Channel's *UFO Hunters*. Corso's son, and others who read Corso's original manuscript, say the published book contains sensational details that Corso never wrote, and Gerb suggests that Birnes possibly inserted them as creative liberties.
 
 ## The Day After Roswell Controversy
 
-According to [[Philip Corso Jr.]], Corso's son, the published version of *The Day After Roswell* contained so many inaccuracies and additions that Corso Sr. went through the book highlighting everything he had not said or did not like, and gave up halfway through out of frustration. For the rest of his life, Corso Sr. was furious with the finished book. Corso Jr. said he had never planned to release his father's manuscript, *Dawn of a New Age*, and did so only to correct the mistakes in the bestselling book that had angered his father.
+Gerb sets *The Day After Roswell* aside and works only from *Dawn of a New Age*, Corso's own notes and manuscript, released in Italy in 2003 and in the US in 2011, after Corso's death in 1998. According to [[Philip Corso Jr.]], Corso went through the published book highlighting everything he did not say or did not like, and gave up halfway through out of frustration. Corso Jr. had not planned to release his father's manuscript, and did so to correct the mistakes in the bestseller that had made his father furious during his lifetime.
 
-Several people who saw Corso's original manuscript before his death, including Colonel [[John B. Alexander]], have pointed out sensational details in *The Day After Roswell* that do not appear in the manuscript at all. They include:
+Several people saw the manuscript before Corso died, including Colonel [[John B. Alexander]], who remarked on sensational details in the book that are missing from the manuscript. The book is 130 pages longer than the manuscript, though the two cover roughly the same concepts. Gerb gives three examples of what the book adds:
 
-- A scene in which Corso allegedly intimidated the CIA director of covert operations into self-deletion
-- The opening chapter, "The Roswell Desert", which describes the Roswell crash in painstaking detail even though Corso was not there
-- A foreword by Senator [[Strom Thurmond]], quickly retracted when Thurmond learned the book was about UAP rather than Corso's general military career
-- Claims about [[Roscoe Hillenkoetter]] and [[Majestic 12]] personnel that appear embellished
+- A scene in which Corso intimidates the CIA's director of covert operations. The manuscript has no such tale.
+- A foreword by Senator [[Strom Thurmond]], who angrily withdrew his statements on learning that the book centered on UAP, which led to an early reprint. The manuscript mentions Corso's relationship with Thurmond but no endorsement from the senator. [[Stanton Friedman]] adds that the foreword had been written for an entirely different book about Corso's activities.
+- The opening chapter, "The Roswell Desert", which describes the [[Roswell Crash|Roswell crash]] in painstaking detail and passes it off as accurate, although Corso was not there.
 
-*The Day After Roswell* is 130 pages longer than *Dawn of a New Age* though the two cover roughly the same core ideas. This suggests that Burns padded and expanded the text substantially beyond Corso's original testimony.
+Gerb also notes the book's too-perfect account of [[Roscoe H. Hillenkoetter|Roscoe Hillenkoetter]] and [[Majestic 12]].
 
 ## Alleged Creative Liberties
 
-Researchers who have compared the two texts found that Burns appears to have given Corso only 24 hours to review the final manuscript. In effect, the subject of a non-fiction book had no creative control over it. The short deadline may explain why Corso could not remove or correct Burns' additions and embellishments before publication.
+Corso allegedly had only 24 hours to edit *The Day After Roswell*, which left no oversight of the creative liberties in it. Gerb asks why the subject of a non-fiction book was stripped of all creative control over it. For anyone judging whether Corso is credible, he treats the difference between the two texts as the key: the manuscript is Corso's unfiltered account, while the book carries an unknown amount of dramatization that, in Gerb's view, may be Birnes's. Most criticism of Corso, including Stanton Friedman's, is aimed at the book.
 
-Researchers trying to judge whether Corso's claims are credible consider the difference between his original manuscript and Burns' co-written version critical. The manuscript is Corso's unfiltered account, while the published book contains an unknown amount of dramatization and speculation added by Burns.
+Gerb returns to the book in his video on [[Sandia National Laboratories]], describing *The Day After Roswell*, "co-written by Bill Burns", as containing "a mountain of added fluff", such as Corso implying that he was present at the 1947 Roswell crash. He contrasts the book's claim that technologies with clear development histories, such as the transistor and fiber optics, were reverse-engineered from non-human craft with the manuscript's more modest account, in which recovered technology helped mature human technologies already in development.
 
 ## Sources
 
 - [[Videos/Philip J. Corso - US Army UFO Technology Research & Development/summary|Philip J. Corso - US Army UFO Technology Research & Development]]
+- [[Videos/Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/summary|Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]

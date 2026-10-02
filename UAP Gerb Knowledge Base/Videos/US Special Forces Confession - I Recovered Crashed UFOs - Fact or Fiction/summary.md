@@ -277,7 +277,7 @@ events:
   - date: "2004"
     title: "The witness leaves the program"
     cue: 905
-    summary: "The witness, now about 74 or older, has been out of the program for some twenty years. By Gerb's count he served in it from about 1969 to 2004, ending on the administrative side. He never learned the whole truth but knew enough to feel compelled to come forward."
+    summary: "The witness, whom Gerb puts at about 74 or older, has been out of the program for some twenty years. By Gerb's count he served in it from about 1969 to 2004, ending on the administrative side. He never learned the whole truth but knew enough to feel compelled to come forward."
     category: person
     significance: major
     entities:
@@ -334,7 +334,7 @@ After the reading-in, the unit went back on duty but was broken up and put into 
 3. Removing deaths from non-hostile causes leaves 8.
 4. Of these, Gerb judges 5 to be the witness's likely platoon mates.
 
-The witness puts his age at about 74 or older and says he has been out of the program for twenty years, so Gerb dates his service to about 1969 to 2004. The witness praises [[David Grusch]] as a patriot for his approach to going public, and confirms that aerospace contractors are involved and that a sophisticated disinformation effort exists.
+Gerb puts the witness's age at about 74 or older. The witness says he has been out of the program for twenty years, so Gerb dates his service to about 1969 to 2004. The witness praises [[David Grusch]] as a patriot for his approach to going public, and confirms that aerospace contractors are involved and that a sophisticated disinformation effort exists.
 
 ## How the Program Worked
 

@@ -5,7 +5,7 @@ tags:
   - organization
 ---
 
-The Defense Advanced Research Center (DARC) is an alleged clandestine underground facility between [[Area 51]] Groom Lake and the Nevada Test Site. It should not be confused with [[DARPA]] (Defense Advanced Research Projects Agency). According to [[Edgar Fouché]], the DARC was an underground installation at least 10 stories deep, and he worked there in 1979 with advanced digital technologies and learned about human-made reverse-engineered craft.
+The Defense Advanced Research Center (DARC) is an alleged clandestine underground facility between [[Area 51]] Groom Lake and the Nevada Test Site. It should not be confused with [[DARPA]] (Defense Advanced Research Projects Agency). According to [[Edgar Fouche|Edgar Fouché]], the DARC was an underground installation at least 10 stories deep, and he worked there in 1979 with advanced digital technologies and learned about human-made reverse-engineered craft.
 
 The DARC's origins can be traced through declassified ARPA documents. A 1973 historical evaluation of ARPA's R&D management noted a Department of Defense directive that proposed moving the Army Ballistic Missile Agency into a Defense Advanced Research Center. The proposal also linked the new institution to the Jet Propulsion Laboratory. The Army Ballistic Missile Agency was commanded by [[Wernher von Braun]], the former Nazi V-2 rocket scientist transferred to the US under [[Operation Paperclip]].
 

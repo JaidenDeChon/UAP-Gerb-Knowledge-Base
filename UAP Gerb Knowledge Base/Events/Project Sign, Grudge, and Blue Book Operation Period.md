@@ -9,7 +9,7 @@ The **Project Sign, Grudge, and Blue Book Operation Period** spans 1948 to 1969 
 
 ## Project Sign (1948–1949)
 
-[[Project Sign]] was established in 1948 by Lieutenant General [[Nathan Twining]], whose memo to AAF Commanding General [[George Lugan]] asserted that flying discs were "real and not visionary or fictitious." Sign's final written report concluded that some UFO reports presented actual objects of undeterminable origin, and future director [[Edward J. Ruppelt]] stated that Sign endorsed the interplanetary explanation for some unexplained sightings. Sign required all reports to be distributed to the Army and Navy Research and Development Board, the USAF Scientific Advisory Group, and the [[Atomic Energy Commission]]. That distribution list indicates institutional involvement well beyond the Air Force chain of command.
+[[Project Sign]] was established in 1948 by Lieutenant General [[Nathan Twining]], whose memo to AAF Commanding General George Lugan asserted that flying discs were "real and not visionary or fictitious." Sign's final written report concluded that some UFO reports presented actual objects of undeterminable origin, and future director [[Edward J. Ruppelt]] stated that Sign endorsed the interplanetary explanation for some unexplained sightings. Sign required all reports to be distributed to the Army and Navy Research and Development Board, the USAF Scientific Advisory Group, and the [[Atomic Energy Commission]]. That distribution list indicates institutional involvement well beyond the Air Force chain of command.
 
 Sign was shut down in 1949 by General [[Hoyt Vandenberg]], who cited a lack of proof. Sign's positive conclusion, that some UFOs were real and unexplained, was institutionally unacceptable.
 

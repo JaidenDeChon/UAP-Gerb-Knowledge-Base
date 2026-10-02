@@ -6,7 +6,7 @@ tags:
   - location
 ---
 
-Shag Harbour is a small fishing community in Shelburne County, Nova Scotia, Canada, on the southwestern shore of the province. It is the site of the [[Shag Harbour Incident]], a 1967 UAP case that ranks among the most thoroughly documented and officially acknowledged UAP events in Canadian history, and among the most significant internationally. This wiki uses Shag Harbour as a benchmark case when comparing crash retrieval incidents outside the U.S., alongside the [[Varginha Incident]] in Brazil and the [[1974 Coyame, Mexico UFO Crash Retrieval|Coyame Incident]] in Mexico, as documented in [[Videos/The 1974 Coyame, Mexico UFO Crash/summary|The 1974 Coyame, Mexico UFO Crash]].
+Shag Harbour is a small fishing community in Shelburne County, Nova Scotia, Canada, on the southwestern shore of the province. It is the site of the Shag Harbour Incident, a 1967 UAP case that ranks among the most thoroughly documented and officially acknowledged UAP events in Canadian history, and among the most significant internationally. This wiki uses Shag Harbour as a benchmark case when comparing crash retrieval incidents outside the U.S., alongside the Varginha Incident in Brazil and the [[1974 Coyame, Mexico UFO Crash Retrieval|Coyame Incident]] in Mexico, as documented in [[Videos/The 1974 Coyame, Mexico UFO Crash/summary|The 1974 Coyame, Mexico UFO Crash]].
 
 ## The Shag Harbour Incident (1967)
 

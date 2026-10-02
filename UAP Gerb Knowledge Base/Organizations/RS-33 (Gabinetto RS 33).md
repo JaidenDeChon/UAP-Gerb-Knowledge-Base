@@ -37,7 +37,7 @@ Through OVRA, the fascist secret police, the group set up a network across Italy
 
 ## Parallel to US Programs
 
-RS-33's structure, protocols, and autonomous authority closely parallel allegations about the U.S. [[Majestic 12]] group, which allegedly emerged in the late 1940s and early 1950s after the [[1947 Roswell Crash]]. Both organizations allegedly operated:
+RS-33's structure, protocols, and autonomous authority closely parallel allegations about the U.S. [[Majestic 12]] group, which allegedly emerged in the late 1940s and early 1950s after the [[Roswell Crash|1947 Roswell Crash]]. Both organizations allegedly operated:
 - Outside normal governmental oversight
 - With the authority to manage or detain witnesses immediately
 - Through dedicated disinformation campaigns

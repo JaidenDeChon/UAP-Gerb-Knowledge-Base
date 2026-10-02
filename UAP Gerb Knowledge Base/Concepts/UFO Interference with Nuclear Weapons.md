@@ -15,7 +15,7 @@ On September 14, 1964, Lieutenant [[Robert Jacobs]] filmed a disc-shaped craft i
 On March 24, 1967, a pulsating red oval craft hovered over a nuclear weapon silo at [[Malmstrom Air Force Base]], Montana, while all 10 of the site's Minuteman [[ICBM (Intercontinental Ballistic Missile)|ICBMs]] simultaneously failed their guidance and control systems. The event was classified Secret. Four personnel, including Lieutenant [[Robert Salas]], later submitted sworn affidavits. See: [[Malmstrom Air Force Base UFO Incident]].
 
 **1975 NORAD Log**
-A NORAD log released through the [[Freedom of Information Act (FOIA)|Freedom of Information Act]] in 1977 documented 33 separate UFO nuclear incidents over a two-week period in 1975. The log contradicted [[Project Blue Book]]'s 1969 public conclusion that UFOs posed no national security threat.
+A NORAD log released through the Freedom of Information Act in 1977 documented 33 separate UFO nuclear incidents over a two-week period in 1975. The log contradicted [[Project Blue Book]]'s 1969 public conclusion that UFOs posed no national security threat.
 
 **1984 Indian Point Nuclear Power Plant**
 On July 24, 1984, security police at the Indian Point nuclear power plant in Buchanan, New York, saw a conical UFO about three football fields long. At the same time, the plant's movement sensors, alarms and security control computers failed. Nuclear Regulatory Commission agents later confiscated all video and audio records of the event.

@@ -55,6 +55,12 @@ The vault has aliased wikilinks like
 is "Strategic Defense Initiative (SDI)". Only the real title resolves through
 `/api/resolve`. Aliases, partial titles, and typos do not.
 
+A page's frontmatter `aliases:` list does not help either. Neither
+`resolveWikiTarget` in `app/wiki/vault.ts` nor `/api/resolve` reads it, and
+Obsidian does not follow a bare `[[Alias]]` link. To fix a link written to an
+alias, point it at the real file and keep the old text as the label:
+`[[Real Page Name|old text]]`.
+
 **A name that doesn't resolve fails silently.** It just renders as plain,
 unlinked text — no error, no dead-link warning, no console message. A typo
 is trivially easy to miss during authoring. When you write an entity name
@@ -1274,6 +1280,9 @@ Authoring rules:
 - **Only verified dates** (see `person-enricher.md`, Phase 2). Mark an
   estimate `approx: true` and say why in the caption.
 - **A post with no page is fine as `text:`.** Don't invent a page title.
+- **Leave out `to` only when the end is unknown.** The row then reads "From
+  2016" and its bar is a one-year stub that fades out; it does not run to
+  today. For a post the person still holds, write `to: "present"`.
 
 ### `::wiki-record`
 
@@ -1844,6 +1853,31 @@ authored profiles (a career chart, a timeline, a record, a cast), most
 connected person first, and lists each one in `UAP Gerb Knowledge Base/.rich_people.json`.
 The two pilots are `People/David Grusch.md` (36 videos: every component) and
 `People/Robert Scandrett.md` (one video: corrected prose, no components).
+
+---
+
+## Home page: Most referenced
+
+`app/app/components/home/HomeMostReferenced.vue` sits under "Recently
+processed" on the home page. It has one button per kind (People,
+Organizations, Operations, Events, Locations, Concepts), and each button shows
+the six entries of that kind that the rest of the wiki links to most. The
+cards are the roster's: a person's whole portrait across the top at its own
+shape, eased into the card with `ufo-fade`, and no band at all on a card
+without one. Below it are a category badge and rank, the title, the first
+lines of the lead, and a meter of how many entries link in ("Linked from 124
+entries, 36 of them videos"). Because the cards differ in height, wherever
+two or more columns fit they are packed as a mosaic that takes the least
+height it can, with the same `useMosaic` composable the roster uses
+(`composables/useMosaic.ts`, built on `layoutMosaic`). When the container is
+narrower than 538px, the cards become a swipeable carousel, like "Recently
+processed".
+
+The data comes from `/api/top` (`?per=N`, default 6, at most 24), which reads
+the baked link graph. `buildTopEntries` in `server/utils/topEntries.ts`
+(unit-tested in `topEntries.test.ts`) ranks each kind by the number of
+distinct entries linking in, then by how many of those are videos, then by
+title. Videos and maps of content get no list.
 
 ---
 

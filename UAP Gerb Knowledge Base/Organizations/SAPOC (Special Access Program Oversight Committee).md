@@ -18,7 +18,7 @@ In *Special Access Required Vol.2*, Gerb lays out SAP governance as a series of 
 - **DoD SAPCO**: the department-wide central office, the primary point of contact with Congress and the [[National Security Council]], which processes congressional program access requests and exempts waived SAPs from them. Past directors named by Gerb include General [[Marshal Ward|H. Marshal Ward]] and Major General Dawn Dunlop.
 - **SAPOC and its Senior Review Group**: the top tier. The SRG's senior executive members are meant, among other things, to stop the same program being duplicated across SAP categories.
 
-Past chairs named by Gerb include Deputy Secretaries of Defense [[John Deutsch]] and [[Bill Perry]].
+Past chairs named by Gerb include Deputy Secretaries of Defense [[John Deutch]] and [[Bill Perry]].
 
 ## Alleged role as legacy gatekeeper
 

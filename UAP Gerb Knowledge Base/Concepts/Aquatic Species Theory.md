@@ -14,7 +14,7 @@ Weygandt's observations raise the possibility that some UAP, unlike remote-contr
 
 ## Connection to USO Phenomena
 
-The theory overlaps with wider research into [[USO - Unidentified Submerged Objects|Unidentified Submerged Objects (USOs)]], which are UAP that operate beneath water, and into [[Air-Water Interface Crossing]] phenomena, in which craft are seen moving smoothly between air and water.
+The theory overlaps with wider research into [[USO - Unidentified Submerged Objects|Unidentified Submerged Objects (USOs)]], which are UAP that operate beneath water, and into Air-Water Interface Crossing phenomena, in which craft are seen moving smoothly between air and water.
 
 ## Sources
 

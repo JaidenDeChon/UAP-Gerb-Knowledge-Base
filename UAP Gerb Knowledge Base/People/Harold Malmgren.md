@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Harold Malmgren is an American economist who spent many years as a senior government adviser, working closely with several US administrations and intelligence figures. He is associated with the [[Institute for Defense Analysis]], a Federally Funded Research and Development Center (FFRDC) connected to the wider national security apparatus. His name entered UAP research mainly through claims he made about conversations with [[Richard Bissell Jr.]], the first co-director of the [[NRO (National Reconnaissance Office)]].
+Harold Malmgren is an American economist who spent many years as a senior government adviser, working closely with several US administrations and intelligence figures. He is associated with the Institute for Defense Analysis, a Federally Funded Research and Development Center (FFRDC) connected to the wider national security apparatus. His name entered UAP research mainly through claims he made about conversations with [[Richard Bissell Jr.]], the first co-director of the [[NRO (National Reconnaissance Office)]].
 
 ## Role in UAP Programs
 

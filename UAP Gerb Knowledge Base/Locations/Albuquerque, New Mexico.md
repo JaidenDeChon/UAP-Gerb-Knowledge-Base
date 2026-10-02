@@ -9,7 +9,7 @@ Albuquerque is New Mexico's largest city and the home of Kirtland Air Force Base
 
 ## SOM 1-01 Document Research
 
-Researchers trying to identify the people whose initials appear on the document control page of the [[SOM 1-01 Manual (Psalm 101)|Special Operations Manual]] searched Albuquerque city phone directories from the years 1954–1957. The search was part of a wider effort to authenticate the document by matching the personnel it lists to verifiable New Mexico addresses from that period.
+Researchers trying to identify the people whose initials appear on the document control page of the [[Special Operations Manual (SOM 1-01)|Special Operations Manual]] searched Albuquerque city phone directories from the years 1954–1957. The search was part of a wider effort to authenticate the document by matching the personnel it lists to verifiable New Mexico addresses from that period.
 
 ## Kirtland Air Force Base and Sandia
 

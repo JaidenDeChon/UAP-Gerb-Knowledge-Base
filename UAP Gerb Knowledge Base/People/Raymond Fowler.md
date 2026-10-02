@@ -1,22 +1,26 @@
 ---
 name: "Raymond Fowler"
 role: "UFO researcher; author; witness to sworn affidavit"
+born: "1933-11-11"
+active_from: 1973
+active_to: 1981
 tags:
   - person
 ---
 
-Raymond E. Fowler was an American UFO researcher and author, best known for documenting the account of [[Arthur Stansel Jr.]] and for bringing the [[1953 Kingman, Arizona Crash Retrieval]] to public attention in 1973. That was five years before [[Jesse Marcel]] publicly disclosed his role in the [[Roswell UFO Crash]] cover-up. Fowler was the witness who signed Stansel's sworn affidavit on June 7, 1973, which gave the testimony a level of formal documentation rare in UAP disclosure cases. He published the account in his book *Casebook of a UFO Investigator*, which remains a primary source for the Kingman case.
+Raymond E. Fowler (born 1933) is an American UFO researcher and author, best known in Gerb's coverage for documenting the account of [[Arthur Stansel Jr.]] and so bringing the [[1953 Kingman, Arizona Crash Retrieval]] to public attention in 1973. That was five years before [[Jesse Marcel]] publicly disclosed his role in the [[Roswell Crash|Roswell UFO crash]] cover-up, which Gerb argues rules out Stansel copying the Roswell story. Fowler signed Stansel's sworn affidavit as its witness on June 7, 1973, and few UAP disclosure cases have testimony documented that formally. He later reproduced the affidavit in his 1981 book *Casebook of a UFO Investigator*, still a primary source for the Kingman case.
 
 ## Role in the Kingman Case
 
-Stansel, who had previously disclosed only under the pseudonym "Fritz Werner," allowed Fowler to witness and record a sworn affidavit detailing his May 21, 1953, investigation of a crashed unknown craft near [[Kingman, Arizona]]. Fowler published the affidavit text and background details in 1973, which brought the case to the attention of the wider research community. He also tried, without success, to obtain a statement from [[Ed Doll]], the physicist Stansel identified as the project director who recruited him for the Kingman assignment. Doll had died by the time follow-up was possible.
+In 1973 Stansel told Fowler his story and signed a sworn affidavit, witnessed by Fowler, detailing his May 21, 1953, investigation of a crashed unknown craft near [[Kingman, Arizona]]. In it Fowler referred to Stansel by the pseudonym "Fritz Werner" (spelled "[[Fritz Warner]]" in the video's captions). Fowler made the statements public that year, bringing the case to the wider research community, and later printed the affidavit under the heading "Crash Retrievals of the Third Kind" in *Casebook of a UFO Investigator*. He also later revealed and confirmed that "Fritz Werner" was Arthur Stansel Jr.
 
-Fowler later confirmed Stansel's true identity after Stansel permitted his real name to be published. He also recorded where the pseudonym came from: it was borrowed from a German rocket engineer.
+Fowler tried to track down [[Edward Bushnell Doll|Ed Doll]], the physicist and Upshot-Knothole project director whom Stansel named as the man who phoned him about the assignment, with little to no success. Gerb says that [[Bill Moore]], who admitted to operating within UFO circles on behalf of the intelligence community, seemingly ran interference against Fowler contacting Doll. Doll has since died and never made any statement about the alleged retrieval.
 
 ## Broader Work
 
-Beyond the Kingman case, Fowler was a prolific investigator who documented numerous alleged UFO encounters. He is associated with investigations into the UFO abduction phenomenon and wrote several books on unexplained aerial encounters. From the 1970s through the 1990s he established himself as a methodical researcher within the American UAP research community.
+Born in Salem, Massachusetts, Fowler served in the US Air Force before joining the National Investigations Committee on Aerial Phenomena (NICAP) and investigating UFO cases in his spare time. He later directed investigations for MUFON and was a scientific associate of [[J. Allen Hynek]]'s Center for UFO Studies. His 1979 book *The Andreasson Affair*, on the alleged abduction of Betty Andreasson, is regarded as having introduced the topic of alien implants to ufology, and he wrote several further books on UFO encounters and abductions.
 
 ## Sources
 
 - [[Videos/The 1953 Kingman, Arizona UFO Crash/summary|The 1953 Kingman, Arizona UFO Crash]]
+- [[Videos/Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2/summary|Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2]]

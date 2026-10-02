@@ -5,7 +5,7 @@ tags:
   - organization
 ---
 
-The U.S. Army Foreign Technology Division was a classified intelligence and research division set up in 1960 under Lieutenant General [[Arthur Trudeau]]'s [[Office of the Chief of Army R&D]]. According to Lieutenant Colonel [[Philip J. Corso]], who was its chief, the division tracked conventional foreign technological developments and also "foreign intelligence and developments not of this world", meaning the exploitation of [[Technologies of Unknown Origin]] from UAP crash retrievals.
+The U.S. Army Foreign Technology Division was a classified intelligence and research division set up in 1960 under Lieutenant General [[Arthur Trudeau]]'s Office of the Chief of Army R&D. According to Lieutenant Colonel [[Philip J. Corso]], who was its chief, the division tracked conventional foreign technological developments and also "foreign intelligence and developments not of this world", meaning the exploitation of [[Technologies of Unknown Origin]] from UAP crash retrievals.
 
 ## Establishment and Mission
 
@@ -37,25 +37,25 @@ Trudeau ordered the development of [[Passive Night Vision Technology]] after Cor
 
 ## Technology Seeding Program
 
-The Foreign Technology Division's main function was [[Technology Seeding]]: feeding Technologies of Unknown Origin into U.S. industry, disguised as normal research and development proposals. Corso worked out a program under which industry scientists in related research areas would receive UAP-derived artifacts or technical information, on these conditions:
+The Foreign Technology Division's main function was Technology Seeding: feeding Technologies of Unknown Origin into U.S. industry, disguised as normal research and development proposals. Corso worked out a program under which industry scientists in related research areas would receive UAP-derived artifacts or technical information, on these conditions:
 
 - Industry could hold patents on resulting developments
 - Results had to be fed back to the Army to provide a competitive edge
 - Technologies would be made available to the American people and the world when necessary
 
 The division contacted the top 25 industries on the Fortune 500 list and arranged meetings with their boards of directors. Partnerships were established with:
-- Major defense contractors like [[Bell Labs]], [[Sperry Rand Corporation]], and [[AT&T]]
-- [[Federally Funded Research and Development Centers (FFRDCs)]]
-- [[University Affiliated Research Centers (UARCs)]]
+- Major defense contractors like [[Bell Labs]], [[Sperry Rand|Sperry Rand Corporation]], and [[AT&T]]
+- [[Federally Funded Research and Development Center (FFRDC)|Federally Funded Research and Development Centers (FFRDCs)]]
+- University Affiliated Research Centers (UARCs)
 - Army R&D laboratories including the night vision laboratory at Fort Belvoir
 
 Technologies allegedly seeded included:
-- [[Image Intensifiers|Passive night vision]] technology
-- [[Fiber Optics]] from craft wiring materials
-- [[Transistor]] and [[Integrated Circuit]] technology
-- [[Laser]] systems believed to be NHI communication technology
-- [[Super Tenacity Fibers]] for flak jackets and parachutes
-- [[Molecular Alignment]] techniques for radiation-resistant materials
+- [[Passive Night Vision Technology|Passive night vision]] technology
+- Fiber Optics from craft wiring materials
+- Transistor and Integrated Circuit technology
+- Laser systems believed to be NHI communication technology
+- Super Tenacity Fibers for flak jackets and parachutes
+- Molecular Alignment techniques for radiation-resistant materials
 
 ## Extreme Secrecy and Compartmentalization
 
@@ -67,7 +67,7 @@ The secrecy had several causes:
 - Fear of being labeled incompetent or delusional ("cooks") and losing budget
 - Opposition from the CIA, the Department of State and other agencies hostile to Army R&D
 - The fig leaf policy, which treated NHI as a parallel threat to the Soviets but not an outright enemy
-- Competition with [[ARPA]], [[NASA]], and the [[Atomic Energy Commission]] over budgets and mission scope
+- Competition with [[DARPA|ARPA]], [[NASA]], and the [[Atomic Energy Commission]] over budgets and mission scope
 
 ## Network of Nazi Scientists and Operation Paperclip
 
@@ -75,16 +75,16 @@ The division led a team of U.S. scientists and technicians that also included Na
 
 ## UFO Working Group Connection
 
-Corso claimed that in February 1987 a UFO Working Group was set up, chaired by DIA Colonel [[Harold E. Phillips]]. Its 17 members included Army and Air Force generals, DIA scientists, NSA officials and CIA personnel from the Science and Technology Directorate. The Working Group allegedly received funding from U.S. Army [[ISA|INSCOM]] under Major General [[Albert Stubblebine]]'s direction. This suggests that Army intelligence kept institutional knowledge and oversight of UAP technology programs even after the Foreign Technology Division's apparent dissolution.
+Corso claimed that in February 1987 a UFO Working Group was set up, chaired by DIA Colonel Harold E. Phillips. Its 17 members included Army and Air Force generals, DIA scientists, NSA officials and CIA personnel from the Science and Technology Directorate. The Working Group allegedly received funding from U.S. Army INSCOM under Major General [[Albert Stubblebine]]'s direction. This suggests that Army intelligence kept institutional knowledge and oversight of UAP technology programs even after the Foreign Technology Division's apparent dissolution.
 
 ## Dissolution and Disappearance
 
-General Trudeau retired in 1962 and was succeeded by four-star General [[Dwight E. Beach]]. After this change, the Foreign Technology Division appears to have been dissolved or drastically reorganized. Colonel Alexander notes that it "disappeared shortly after [Corso's] retirement" in 1963.
+General Trudeau retired in 1962 and was succeeded by four-star General Dwight E. Beach. After this change, the Foreign Technology Division appears to have been dissolved or drastically reorganized. Colonel Alexander notes that it "disappeared shortly after [Corso's] retirement" in 1963.
 
 No public records, FOIA documents, newspapers or institutional histories mention the division outside Corso's military service documents. The total lack of documentation for a program that allegedly had a $2 billion budget has led to two competing interpretations:
 
 1. The skeptical view: the division never existed as Corso described, or was mischaracterized in scope and mission
-2. The legacy program view: the division operated under such extreme classification that it left no public trace, possibly with its functions absorbed into [[Unacknowledged Waived Special Access Programs (UASAPs)]] that remain active today through defense contractors, FFRDCs, and intelligence agencies
+2. The legacy program view: the division operated under such extreme classification that it left no public trace, possibly with its functions absorbed into [[Waived Unacknowledged Special Access Programs (USAPs)|Unacknowledged Waived Special Access Programs (UASAPs)]] that remain active today through defense contractors, FFRDCs, and intelligence agencies
 
 ## Presidential Briefing by Trudeau
 

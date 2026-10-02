@@ -69,6 +69,8 @@ tags:
 - Encrypted Communication Platform
 - Establishing Trust
 - Ethical Tug of War
+- [[Executive Order 10501]]
+- [[Extraterrestrial Biological Entity]]
 - Extraterrestrial Life
 - [[Fabrication Hypothesis]]
 - [[FOIA Evasion via Terminology]]
@@ -83,6 +85,7 @@ tags:
 - [[Galactic Federation]]
 - Generation Two Star
 - [[Gentex MBU-23P Pilot Respirator Mask]]
+- [[Golden Age of Army R&D]]
 - [[Gray Alien Morphology]]
 - [[Grays]]
 - [[Great Filter]]
@@ -144,6 +147,7 @@ tags:
 - Outside Activities
 - Oxygen Supply Cylinders
 - PTSD-Driven Alcoholism
+- [[Passive Night Vision Technology]]
 - Pelican Cases
 - [[Pentagon UFO Videos]]
 - Personnel Transport Mission
@@ -157,6 +161,7 @@ tags:
 - [[Rapid Reaction Recovery Unit]]
 - [[Reptilian Theory]]
 - Roman à clef
+- [[Roswell File]]
 - SAW Drum Pouches
 - SAW Gunner
 - Scramjet Technology
@@ -175,9 +180,11 @@ tags:
 - [[Subterranean Facility (STIF)]]
 - Sworn Affidavit
 - [[The Age of Disclosure]]
+- [[The Day After Roswell]]
 - [[TSSCI Clearance]]
 - Tactical Elevated Position
 - Tardigrades on the Moon
+- [[Technologies of Unknown Origin]]
 - [[Great Filter]]
 - Three-Round Burst  Semi-Automatic Fire
 - [[Trans-Medium Vehicle]]

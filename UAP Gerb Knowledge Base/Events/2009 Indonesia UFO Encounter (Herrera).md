@@ -6,7 +6,7 @@ tags:
 ---
 
 
-The 2009 Indonesia UFO Encounter is an incident in which [[USMC]] Rifleman [[Michael Herrera]] and five other Marines saw unmarked US forces loading a large octagonal, pyramid-shaped craft. It happened during a humanitarian relief mission in Indonesia after the October 2009 Sumatra earthquake and tsunami. Armed operators in black fatigues held the Marines at gunpoint and threatened to kill them if they disclosed what they had seen. Herrera stayed silent for 14 years, then testified to [[AARO]] in April 2023 and spoke at the [[National Press Club]] in June 2023.
+The 2009 Indonesia UFO Encounter is an incident in which [[United States Marine Corps|USMC]] Rifleman [[Michael Herrera]] and five other Marines saw unmarked US forces loading a large octagonal, pyramid-shaped craft. It happened during a humanitarian relief mission in Indonesia after the October 2009 Sumatra earthquake and tsunami. Armed operators in black fatigues held the Marines at gunpoint and threatened to kill them if they disclosed what they had seen. Herrera stayed silent for 14 years, then testified to [[AARO]] in April 2023 and spoke at the [[National Press Club]] in June 2023.
 
 ## Mission Context
 
@@ -60,22 +60,22 @@ Back at the LZ, Herrera's team met an unknown Gunnery Sergeant who was not weari
 
 At Subic Bay, Herrera asked a fellow Marine whether he would tell anyone about the incident. The Marine said "absolutely not," and the team kept quiet. None of the other Marines has come forward publicly. When Senate Intelligence Committee representatives asked one of them to give anonymous testimony, he replied by text message: "leave me out of that".
 
-## Herrera's account was allegedly threatened further by a [[USAF Lieutenant Colonel]] who stated: "You're not allowed to talk about what happened. You will go to prison or you will die."
+## Herrera's account was allegedly threatened further by a USAF Lieutenant Colonel who stated: "You're not allowed to talk about what happened. You will go to prison or you will die."
 
 ## Significance and Implications
 
 If Herrera's account is accurate, the encounter is evidence of four things:
 
-1. Operational [[Alien Reproduction Vehicles (ARVs)]]. The large octagonal craft had characteristics unlike those of any known conventional aircraft and may have been non-human technology that was successfully reverse-engineered.
+1. Operational [[Alien Reproduction Vehicle (ARV)|Alien Reproduction Vehicles (ARVs)]]. The large octagonal craft had characteristics unlike those of any known conventional aircraft and may have been non-human technology that was successfully reverse-engineered.
 2. Shadow military operations. Unmarked US forces ran logistics operations with advanced craft outside the official military chain of command.
 3. Human trafficking for classified programs. Disaster zones were allegedly used to recruit "pink assets" under false pretenses for classified biological or technological programs.
 4. Advanced weapons. Herrera later learned from insiders that the programs have [[EMP-like weaponry]] that can target and disable UAP so they can be retrieved after a crash.
 
-The encounter falls in the same general period as other alleged ARV sightings, including reports of triangular craft during the 1990 [[Belgian UFO Wave]] and [[Sergeant Roderick Castle]]'s 1997 encounter with a triangular craft at [[29 Palms Marine Corps Base]].
+The encounter falls in the same general period as other alleged ARV sightings, including reports of triangular craft during the 1990 [[Belgian UFO Wave]] and [[Rodrik Castle|Sergeant Roderick Castle]]'s 1997 encounter with a triangular craft at [[Marine Corps Air Ground Combat Center 29 Palms|29 Palms Marine Corps Base]].
 
 ## Connection to [[Steven Greer]]'s ARV Theory
 
-Herrera's testimony came out through [[Steven Greer]]'s disclosure efforts. Greer is known for promoting the theory that most UFOs are [[Alien Reproduction Vehicles (ARVs)]], human-made craft reverse-engineered from non-human technology. Several whistleblowers, including [[Bob Lazar]], [[David Grusch]] and [[Ross Coulthart]], as well as the [[Wilson Davis Memo]], suggest instead that recovered non-human technology is so far beyond human understanding that copying it may be impossible. That casts doubt on whether the craft Herrera saw was really human-made or of non-human origin.
+Herrera's testimony came out through [[Steven Greer]]'s disclosure efforts. Greer is known for promoting the theory that most UFOs are [[Alien Reproduction Vehicle (ARV)|Alien Reproduction Vehicles (ARVs)]], human-made craft reverse-engineered from non-human technology. Several whistleblowers, including [[Bob Lazar]], [[David Grusch]] and [[Ross Coulthart]], as well as the [[Wilson-Davis Memo|Wilson Davis Memo]], suggest instead that recovered non-human technology is so far beyond human understanding that copying it may be impossible. That casts doubt on whether the craft Herrera saw was really human-made or of non-human origin.
 
 ## Sources
 

@@ -6,7 +6,7 @@ tags:
   - location
 ---
 
-Varginha is a city in the state of Minas Gerais, Brazil. It is the site of the [[Varginha Incident]], a 1996 UAP case that has become one of the best-known alleged crash retrievals and non-human entity encounters outside the United States. In this wiki, Varginha comes up as a point of comparison in analyses of crash retrieval cases outside the US, especially the [[1974 Coyame, Mexico UFO Crash Retrieval|1974 Coyame, Mexico UFO Crash]] and the [[The 1965 Kecksburg, Pennsylvania UFO Crash|1965 Kecksburg, Pennsylvania crash]].
+Varginha is a city in the state of Minas Gerais, Brazil. It is the site of the Varginha Incident, a 1996 UAP case that has become one of the best-known alleged crash retrievals and non-human entity encounters outside the United States. In this wiki, Varginha comes up as a point of comparison in analyses of crash retrieval cases outside the US, especially the [[1974 Coyame, Mexico UFO Crash Retrieval|1974 Coyame, Mexico UFO Crash]] and the [[The 1965 Kecksburg, Pennsylvania UFO Crash|1965 Kecksburg, Pennsylvania crash]].
 
 ## The Varginha Incident
 
@@ -16,7 +16,7 @@ In January 1996, three young women, Liliane Silva, Valquíria Silva and Katia An
 
 ## Significance as a Comparative Case
 
-Gerb cites Varginha alongside the [[Shag Harbour Incident]] in Canada and the [[1974 Coyame, Mexico UFO Crash Retrieval|Coyame Incident]] in Mexico as an internationally significant UAP case: an alleged crash retrieval outside the United States, with government involvement and testimony from civilian witnesses. The Coyame case follows the same operational pattern as other retrieval incidents, with CIA coordination, helicopter transport, hazmat protocols and biological containment. Within that pattern, Varginha is cited as a case where civilian witnesses directly saw the entities being recovered, instead of the recovery being inferred only from physical evidence.
+Gerb cites Varginha alongside the Shag Harbour Incident in Canada and the [[1974 Coyame, Mexico UFO Crash Retrieval|Coyame Incident]] in Mexico as an internationally significant UAP case: an alleged crash retrieval outside the United States, with government involvement and testimony from civilian witnesses. The Coyame case follows the same operational pattern as other retrieval incidents, with CIA coordination, helicopter transport, hazmat protocols and biological containment. Within that pattern, Varginha is cited as a case where civilian witnesses directly saw the entities being recovered, instead of the recovery being inferred only from physical evidence.
 
 Gerb treats the ammonia-like smell at Varginha as a meaningful data point because it matches smells reported independently in other crash and entity encounter cases. Marco Chereze's death resembles patterns in other retrieval accounts, in which personnel who touched recovered materials or entities later developed health problems.
 

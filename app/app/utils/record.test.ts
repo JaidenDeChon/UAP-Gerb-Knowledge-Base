@@ -1,14 +1,14 @@
 import { describe, expect, it } from 'vitest'
-import { buildRecord, compareDates, normalizeKind } from './record'
+import { buildRecord, compareDates, normalizeRecordKind } from './record'
 
-describe('normalizeKind', () => {
+describe('normalizeRecordKind', () => {
   it('accepts the listed kinds and common aliases, and falls back to other', () => {
-    expect(normalizeKind('Testimony')).toBe('testimony')
-    expect(normalizeKind('podcast')).toBe('interview')
-    expect(normalizeKind('memorandum')).toBe('memo')
-    expect(normalizeKind('op-ed')).toBe('article')
-    expect(normalizeKind('carrier pigeon')).toBe('other')
-    expect(normalizeKind(undefined)).toBe('other')
+    expect(normalizeRecordKind('Testimony')).toBe('testimony')
+    expect(normalizeRecordKind('podcast')).toBe('interview')
+    expect(normalizeRecordKind('memorandum')).toBe('memo')
+    expect(normalizeRecordKind('op-ed')).toBe('article')
+    expect(normalizeRecordKind('carrier pigeon')).toBe('other')
+    expect(normalizeRecordKind(undefined)).toBe('other')
   })
 })
 

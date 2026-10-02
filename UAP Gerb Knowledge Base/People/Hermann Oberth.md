@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-Hermann Oberth (1894–1989) was a Romanian-born German physicist and engineer considered one of the founding fathers of rocketry and astronautics. He was the mentor of [[Wernher von Braun]], and UAP researchers note that he studied UFOs extensively. His interest in unidentified flying objects lent the subject credibility at a time when mainstream science largely dismissed it. Because he took part in both the early rocket programs and UFO research, his career links mid-20th century aerospace development with the alleged reverse engineering programs discussed by [[Edgar Fouché]] and others.
+Hermann Oberth (1894–1989) was a Romanian-born German physicist and engineer considered one of the founding fathers of rocketry and astronautics. He was the mentor of [[Wernher von Braun]], and UAP researchers note that he studied UFOs extensively. His interest in unidentified flying objects lent the subject credibility at a time when mainstream science largely dismissed it. Because he took part in both the early rocket programs and UFO research, his career links mid-20th century aerospace development with the alleged reverse engineering programs discussed by [[Edgar Fouche|Edgar Fouché]] and others.
 
 ## Famous Quote
 

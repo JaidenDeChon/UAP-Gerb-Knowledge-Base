@@ -134,9 +134,9 @@ events:
       - "Kingman, Arizona"
       - "Arthur Stansel Jr."
     cue: 202
-  - date: "1953"
+  - date: "1953–1956"
     title: "Wang moves his research to Kirtland"
-    summary: "Around the time of Upshot-Knothole, Wang relocates his research from Wright Field to Kirtland Air Force Base in Albuquerque. Gerb notes that Wang is suspected of deep ties to reverse engineering and crash retrieval, and was known as a close associate of Operation Paperclip scientist Victor Schauberger."
+    summary: "Around the time of Upshot-Knothole, Wang relocates his research from Wright Field to Kirtland Air Force Base in Albuquerque. (Gerb's later timeline video, citing Wang's obituary, and his Aztec video date the move to 1956.) Gerb notes that Wang is suspected of deep ties to reverse engineering and crash retrieval, and was known as a close associate of Operation Paperclip scientist Victor Schauberger."
     category: organization
     entities:
       - "Eric Henry Wang"
@@ -278,7 +278,7 @@ Timing is central to Gerb's argument. The story came out in 1973, five years bef
 
 ### Doll and Wang
 
-Stansel's account puts him under two men whom Gerb regards as more deeply connected to crash retrieval than Stansel himself. [[Edward Bushnell Doll|Ed Doll]], who made the phone call, was a physicist and project director for Upshot-Knothole at the Nevada Test Site; he has long since died and never said anything about the retrieval. From 1949 to 1960 Stansel worked in the Air Materiel Command's installation division within the office of special studies headed by [[Eric Henry Wang]], an Austrian-born graduate of the Vienna Technical Institute who in 1949 became director of the Department of Special Studies at Wright-Patterson. There Wang worked with scientists from the [[Office of Naval Research]], with [[Vannevar Bush]] and with others from the [[Research and Development Board]]; around the time of Upshot-Knothole he moved his research to [[Kirtland Air Force Base, New Mexico|Kirtland Air Force Base]] in Albuquerque.
+Stansel's account puts him under two men whom Gerb regards as more deeply connected to crash retrieval than Stansel himself. [[Edward Bushnell Doll|Ed Doll]], who made the phone call, was a physicist and project director for Upshot-Knothole at the Nevada Test Site; he has long since died and never said anything about the retrieval. From 1949 to 1960 Stansel worked in the Air Materiel Command's installation division within the office of special studies headed by [[Eric Henry Wang]], an Austrian-born graduate of the Vienna Technical Institute who in 1949 became director of the Department of Special Studies at Wright-Patterson. There Wang worked with scientists from the [[Office of Naval Research]], with [[Vannevar Bush]] and with others from the [[Research and Development Board]]; around the time of Upshot-Knothole he moved his research to [[Kirtland Air Force Base, New Mexico|Kirtland Air Force Base]] in Albuquerque. Gerb's later videos, citing Wang's obituary, date the move to 1956.
 
 Records of Wang are hard to find, Gerb says, but his role in special studies appears in an unclassified Defense Department document on Upshot-Knothole. Wang is suspected in UFO lore of deep ties to reverse engineering and crash retrieval, allegedly led reverse-engineering efforts "under Kissinger", and was known as a close associate of [[Victor Schauberger]], an [[Operation Paperclip]] scientist who developed flying-disc concepts for the Nazis. Gerb says this needs more investigation and leaves it outside the video's focus. His point is that Stansel served, to an extent, under both Wang and Doll in 1953.
 
@@ -329,7 +329,7 @@ pins:
     cue: 892
   - name: "Kirtland Air Force Base, New Mexico"
     label: "Kirtland"
-    note: "Where Eric Wang moved his research around the time of Upshot-Knothole."
+    note: "Where Eric Wang moved his research around the time of Upshot-Knothole, by this video's account (later videos say 1956)."
     cue: 608
 routes:
   - path: [1, 2, 3, 4]
@@ -477,7 +477,7 @@ entries:
     note: "Telephoned Stansel on 20 May 1953 about the next day's special job. He never spoke about the retrieval before his death."
   - name: "Eric Henry Wang"
     role: "Director of special studies, Wright-Patterson"
-    note: "Stansel's department head from 1949; moved his research to Kirtland around 1953. Suspected in UFO lore of deep ties to reverse engineering and crash retrieval."
+    note: "Stansel's department head from 1949; moved his research to Kirtland around 1953 by this video's account (1956 in Gerb's later videos). Suspected in UFO lore of deep ties to reverse engineering and crash retrieval."
   - name: "Bill Uhouse"
     role: "Marine Corps captain; mechanical engineer; defence contractor"
     note: "The second whistleblower. Told the Disclosure Project a flying disc simulator was built from the Kingman craft, which went to Area 51 while the dead pilots went to Los Alamos."

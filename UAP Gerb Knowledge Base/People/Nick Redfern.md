@@ -1,24 +1,22 @@
 ---
 name: "Nick Redfern"
-role: "UAP researcher/author"
+role: "UFO researcher and author"
+born: "1964"
 tags:
   - person
 ---
 
-**Nick Redfern** is a British-American author and UAP researcher who has written extensively on alleged government cover-ups, crash retrieval cases and classified UFO programs. His many books cover UFOs, cryptozoology and conspiracy topics.
+Nick Redfern is an English-born author and UFO researcher, born in 1964 in Pelsall, near Walsall, who now lives in Texas. He has written many books on UFOs, alleged government cover-ups, cryptozoology and conspiracy topics. In Gerb's videos he appears twice: as one of the researchers who were anonymously mailed the [[Denb Report]] on the Coyame crash, and as the author who showed that [[Judy Wolcott]]'s Kingman story did not add up.
 
 ## Role in the Coyame Case
 
-In early summer 1993, Redfern received copies of the [[Denb Report]] (also called the "tenet/coyam report") in the mail from an anonymous sender. It is an anomalous document describing the [[1974 Coyame, Mexico UFO Crash Retrieval]], dated March 23, 1992. Its author, a person or organization, is identified only as "[[JS (Denb Report Author)|JS]]". The report first surfaced in 1992 on an electronic bulletin board and was later mailed anonymously to selected UFO researchers.
-
-Redfern was one of several researchers, among them [[Elaine Douglas]], who received the document by anonymous post. The [[MJ-12 Documents]] were mailed out anonymously in the same way in the 1980s. That parallel raises the question of whether the Denb Report came from a similar insider source or was part of a deliberate leak or disinformation campaign.
-
-Redfern's copy helped the document circulate more widely in the UFO research community, and it established the report as a primary source for investigating the Coyame incident.
+The [[Denb Report]] is an anonymous memo describing the [[1974 Coyame, Mexico UFO Crash Retrieval]]. It is dated 23 March 1992 and addressed from "[[JS (Denb Report Author)|JS]]" to "all Denb team members". It first appeared in 1992 on an electronic bulletin board, and in early summer 1993 paper copies were mailed anonymously to researchers including Redfern and [[Elaine Douglas]]. Douglas passed the originals to [[Leonard Stringfield]], who discussed the report in his crash-retrieval status reports. Gerb compares the anonymous mailing with the way the [[MJ-12 Documents]] surfaced in the 1980s.
 
 ## Role in the Kingman Case
 
-Redfern investigated the claims of [[Judy Wolcott]], who told researcher [[Don Schmidt]] that her husband, a Vietnam-era military officer, had written to her about witnessing the [[1953 Kingman, Arizona Crash Retrieval]] and the recovery of non-human biologics. Redfern exposed Wolcott's account as fabricated: her husband had not died in Vietnam as claimed, multiple details were inconsistent, and her own daughter confirmed she frequently invented stories. His investigation is cited as a cautionary example of false witnesses being injected into crash retrieval cases, whether for personal aggrandizement or as deliberate disinformation.
+[[Judy Wolcott]] told researcher [[Don Schmidt]] that her husband, an officer in the Vietnam War, had written to her that he had been present at the [[1953 Kingman, Arizona Crash Retrieval]], where biologics were recovered, and that he had then been killed by the North Vietnamese Army. Redfern found that her story did not add up: her husband had not died in Vietnam, and her own daughter said Judy often lied and made up stories. Gerb calls Wolcott the "glaring red flag" among Kingman's unnamed sources, and says it is unknown whether her story was a bid for fame or deliberate disinformation.
 
 ## Sources
 
 - [[Videos/The 1974 Coyame, Mexico UFO Crash/summary|The 1974 Coyame, Mexico UFO Crash]]
+- [[Videos/The 1953 Kingman, Arizona UFO Crash/summary|The 1953 Kingman, Arizona UFO Crash]]

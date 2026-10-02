@@ -15,7 +15,7 @@ As the craft departed, Borland reported feeling strong static electricity and sm
 
 ## Significance
 
-Borland has said he believes [[AARO]] would have answers about the origin and nature of what he saw. The UAP Gerb "Hidden Wing" presentation cites his account as consistent with the alleged testing and evaluation of derivative or reverse-engineered non-human airframes under the [[Hidden Wing]] program portfolio, possibly involving assets operating out of the [[412th Test Wing|Edwards 412th Test Wing]]. Researchers place the sighting within the alleged portfolio of reverse-engineered UAP technology being tested within U.S. Air Force infrastructure, because of Langley's association with [[Air Combat Command]] and the craft's observed characteristics, including the plasma-like surface effect and the electro-optic cloaking.
+Borland has said he believes [[AARO]] would have answers about the origin and nature of what he saw. Gerb's *Hidden Wing* video cites his account as consistent with the alleged testing and evaluation of derivative or reverse-engineered non-human airframes under the [[Hidden Wing]] program portfolio. Gerb thinks Borland may have seen an alien reproduction vehicle or a man-made triangular airframe "undergoing test flights by elements of air combat command", which is stationed at Langley. Researchers place the sighting within the alleged portfolio of reverse-engineered UAP technology being tested within U.S. Air Force infrastructure, because of Langley's association with [[Air Combat Command]] and the craft's observed characteristics, including the plasma-like surface effect and the electro-optic cloaking.
 
 ## Sources
 

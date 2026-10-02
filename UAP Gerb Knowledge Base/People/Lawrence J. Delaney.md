@@ -13,7 +13,7 @@ Delaney worked at the Institute for Defense Analyses, an FFRDC, in 1961-1962. Fr
 
 ## Role in the Hidden Wing thesis
 
-In *The Hidden Wing*, Gerb offers Delaney as the first example of a pattern he finds among Air Force acquisition chiefs. In eight of the 14 former heads of SAF/AQ he examined, he finds prior corporate careers at contractors he has accused of legacy-program work, including [[Lockheed Martin]], SAIC, Northrop Grumman, TRW, LTV, E-Systems, the Aerospace Corporation and General Dynamics. He compares Delaney's route, from FFRDCs to contractors to government, with gatekeepers such as [[Mary K. Sturdivant]] and [[Terry Phillips]], and argues Delaney had exposure to UFO programs before taking office. The video dates his SAF/AQ tenure to 1991-1992. Published biographies place it in 1999-2001.
+In *The Hidden Wing*, Gerb offers Delaney as the first example of a pattern he finds among Air Force acquisition chiefs. In eight of the 14 former heads of SAF/AQ he examined, he finds prior corporate careers at contractors he has accused of legacy-program work, including [[Lockheed Martin]], SAIC, Northrop Grumman, TRW, LTV, E-Systems, the Aerospace Corporation and General Dynamics. He compares Delaney's route, from FFRDCs to contractors to government, with gatekeepers such as [[Mary K. Sturtevant]] and [[Terry Phillips]], and argues Delaney had exposure to UFO programs before taking office. The video dates his SAF/AQ tenure to 1991-1992. Published biographies place it in 1999-2001.
 
 ## Sources
 

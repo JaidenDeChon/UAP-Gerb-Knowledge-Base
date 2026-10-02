@@ -1,37 +1,27 @@
 ---
 name: "Bill Bully Bush"
-role: "Civilian witness"
+role: "Civilian witness to the 1965 Kecksburg crash"
+active_from: 1965
+active_to: 1965
 tags:
   - person
 ---
 
-**Bill "Bully" Bush** was a civilian who lived near [[Kecksburg, Pennsylvania]] and independently witnessed the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]]. His detailed firsthand account corroborated the testimony of volunteer fireman [[Jim Romansky]], although the two had no known contact. Bush is the only witness who reported a strong sulfuric odor at the crash site.
+**Bill "Bully" Bush** was a civilian who lived near [[Kecksburg, Pennsylvania]] and says he reached the object of the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]] before anyone else. His account of the object matches that of volunteer fireman [[Jim Romansky]], although, as far as researchers know, the two had no contact. Gerb knows of no other witness who describes a smell at the site.
 
-## The Sighting and Investigation
+## The Sighting
 
-On the afternoon of December 9, 1965, Bully Bush was driving when he saw a brilliant fireball streak across the sky. He stated: "The object appeared to hesitate over the Ligonier area, then made a turn and then began to travel northeast towards Kecksburg," where he saw it descending. Bush immediately turned his car and drove to the top of a hill near the crash site (later known as "Meteor Road") to watch the area.
+On the afternoon of 9 December 1965, Bush saw the fireball cross the sky. Gerb's narration has him driving his car at the time; in the clip Gerb plays, Bush says he was working on a car at home when he saw a red ball of fire heading toward the mountain. In a statement Gerb reads out, Bush said the object appeared to hesitate, then made a turn and travelled north-east toward Kecksburg, where he saw it descend. He drove to the top of the hill now called Meteor Road and, as the sky grew dark, saw blue lights flashing in the woods.
 
-As darkness fell, Bush saw blue flashing lights in the woods and walked into the forest toward the crash site to investigate. There he found a large, metallic, acorn-shaped object embedded in the ground, partly buried about a foot to a foot and a half deep. According to Bush, the object had "belly-landed," knocking out the tops of trees as it came down and leaving a path of destruction through the woods.
+In the clip he describes how it came down: "just like if it was radio controlled it made a figure eight and it come right down in here and belly landed right in here knocked the top of the trees out." Gerb says his description supports the view that the object was probably not a meteorite, the explanation [[Project Blue Book]] gave.
 
-## Description of the Object
+## The Object
 
-Bush's description of the object closely matched that of [[Jim Romansky]], though the two witnesses had no known interaction. He described it as metallic and shaped like an acorn. It appeared to have come down in a controlled way, making a "figure eight" maneuver before landing, "just like if it was radio controlled". A raised ring or band around its base carried strange writing resembling "Egyptian-like" symbols.
+Bush walked into the woods and found a metallic, acorn-shaped object embedded about a foot to a foot and a half into the ground. It bore the same strange writing that Romansky saw. Bush saw no welding or windows on it. On the back was a ring carrying what looked to him like Egyptian writing, and blue light arced from the object at intervals. It was red hot and sizzling, with sparks coming off "just like if it was cooling off", and in his words it "stunk like rotten eggs".
 
-At intervals, Bush saw blue electrical discharges arcing from the object, and he described it as "sizzling" and giving off sparks "like it was cooling off". He also noticed a strong rotten egg odor, a sulfuric smell that no other witness on record describes. The object looked red-hot and was still cooling when Bush saw it.
+Gerb compares the rotten-egg, sulphurous smell with the strong ammonia smell witnesses described in the [[Varginha, Brazil]] case.
 
-## Unique Details
-
-Several of Bush's observations are not corroborated by other witnesses. The rotten egg smell appears only in his testimony. Similar sulfuric or ammonia-like odors have been reported in other UAP cases, including the [[Varginha, Brazil|1997 Varginha Brazil UFO Case]], which suggests that crash sites may have something in common in their environment or in propulsion residue. Bush also said explicitly that the object made a figure-eight maneuver before descending, which strongly contradicts the [[Project Blue Book]] conclusion that it was a meteor. The blue arcing light and sizzling sounds suggested that the craft was either cooling down or discharging energy.
-
-## Departure from the Scene
-
-Bully Bush fled the woods when he heard the crew from the [[Kecksburg Volunteer Fire Department]], including [[Jim Romansky]], approaching. He had no contact with the fire crew or the military personnel, but he later came forward and told his account to investigators, among them [[Stan Gordon]].
-
-## Significance
-
-Because Bush independently corroborates Romansky's testimony, his account is critical to the credibility of the Kecksburg case. Without any coordination, the two men described the same object, location and markings, and their timelines fit together seamlessly: Bush saw the object while it was still cooling, and Romansky arrived minutes later with the fire response.
-
-Bush's description of controlled flight maneuvers and of the sulfuric odor adds sensory and behavioral details that are absent from Project Blue Book's meteor explanation.
+Bush fled the woods when he heard the Kecksburg volunteer firemen approaching. Romansky later took researcher [[Stan Gordon]] to the exact impact site, which matched Bush's independent description.
 
 ## Sources
 

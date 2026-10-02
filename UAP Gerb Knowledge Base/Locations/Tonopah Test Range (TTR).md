@@ -8,11 +8,11 @@ tags:
   - nevada
 ---
 
-Tonopah Test Range (TTR), also known as Area 52 and sometimes Area 54, is a highly classified weapons testing range of the Department of Energy and the Department of Defense. It lies in the northern part of the Nevada Test and Training Range, about 140 miles northwest of Las Vegas, in the remote Cactus Flat Valley of the Great Basin Desert. The range has been publicly accused of housing recovered UAP craft and of operating as a reverse-engineering RDT&E site for exotic propulsion systems. It has also been accused of serving as a critical node in alleged alien reproduction vehicle programs. From 1993 to 2017, Tonopah was managed by [[Lockheed Martin]] through its subsidiary [[Sandia Corporation]], which administered [[Sandia National Laboratories]].
+Tonopah Test Range (TTR), also known as Area 52 and sometimes Area 54, is a highly classified weapons testing range of the Department of Energy and the Department of Defense. It lies in the northern part of the Nevada Test and Training Range, about 140 miles northwest of Las Vegas, in the remote Cactus Flat Valley of the Great Basin Desert. The range has been publicly accused of housing recovered UAP craft and of operating as a reverse-engineering RDT&E site for exotic propulsion systems. It has also been accused of serving as a critical node in alleged alien reproduction vehicle programs. From 1993 to 2017, Tonopah was managed by [[Lockheed Martin]] through its subsidiary Sandia Corporation, which administered [[Sandia National Laboratories]].
 
 ## Establishment and Official Mission
 
-The Atomic Energy Commission (AEC) established Tonopah Test Range in 1957 as a permanent ballistics test range for unarmed nuclear weapon shapes. After AEC surveys for an ideal isolated location, the site was recommended in 1956 by the Naval Air Special Weapons Facility (now the [[Naval Air Warfare Center Weapons Division]], based mainly at [[China Lake]]).
+The Atomic Energy Commission (AEC) established Tonopah Test Range in 1957 as a permanent ballistics test range for unarmed nuclear weapon shapes. After AEC surveys for an ideal isolated location, the site was recommended in 1956 by the Naval Air Special Weapons Facility (now the Naval Air Warfare Center Weapons Division, based mainly at [[China Lake Naval Air Weapons Station|China Lake]]).
 
 Official mission statements describe TTR as "The test range of choice for all national security missions". They also call it a provider of "research and development test support for the Department of Energy's weapons programs", offering a "unique test environment for use by other government agencies and their contractors".
 
@@ -24,7 +24,7 @@ From 1993 until 2017, Tonopah was managed by Sandia Corporation, a subsidiary of
 
 UAP researchers consider these 24 years of Lockheed control over Tonopah highly significant:
 - Tonopah was managed by the same defense contractor that has been accused of holding recovered UAP craft materials since the 1950s.
-- [[Edgar Fouché]] stated that [[Sandia National Laboratories]] and [[Lawrence Livermore National Laboratory]] reverse-engineered the propulsion systems for the [[TR-3B]] alien reproduction vehicle.
+- [[Edgar Fouche|Edgar Fouché]] stated that [[Sandia National Laboratories]] and [[Lawrence Livermore National Laboratory]] reverse-engineered the propulsion systems for the [[TR-3B]] alien reproduction vehicle.
 - The TR-3B allegedly became operational in 1994, one year after Lockheed's Sandia subsidiary took control of Tonopah.
 - Lockheed could have used Tonopah's isolation, its dual DOE/DoD oversight and its classified storage facilities to exploit UAP material away from the Air Force's traditional oversight structures.
 
@@ -45,7 +45,7 @@ Tonopah has an acknowledged Site 4, which appears on unclassified Sandia TTR map
 
 The Air Force 554th Range Squadron manages this part of TTR in support of the Tonopah Electronic Combat Range (TECR). Site 4 is in the eastern section of TTR designated the TEWR (Tonopah Electronic Warfare Range) HQ compound.
 
-Some researchers have alleged that Bob Lazar fabricated [[Area 51 S4]] by borrowing from Tonopah's Site 4. UAP researchers generally reject this theory:
+Some researchers have alleged that Bob Lazar fabricated Area 51 S4 by borrowing from Tonopah's Site 4. UAP researchers generally reject this theory:
 - Lazar described S4 as lying near [[Papoose Lake]], with hangars built into mountainsides, which does not match the location or layout of Tonopah Site 4.
 - Tonopah Site 4 appears on unclassified maps, whereas Lazar described S4 as a completely unacknowledged facility.
 - The two sites are not mutually exclusive, and both could serve UAP-related functions.
@@ -110,7 +110,7 @@ This direct telemetry link between Tonopah test operations and Skunk Works headq
 
 Tonopah is one part of the wider Nevada Test and Training Range network, which also includes:
 - [[Area 51]] Groom Lake, an acknowledged UAP testing site according to multiple witnesses
-- [[Area 51 S4]] (alleged, near Papoose Lake), the facility where Bob Lazar claimed UAP craft were examined
+- Area 51 S4 (alleged, near Papoose Lake), the facility where Bob Lazar claimed UAP craft were examined
 - Nellis Air Force Base, the primary NTTR command center
 - Nevada National Security Site (formerly the Nevada Test Site), the DOE's nuclear weapons testing site
 

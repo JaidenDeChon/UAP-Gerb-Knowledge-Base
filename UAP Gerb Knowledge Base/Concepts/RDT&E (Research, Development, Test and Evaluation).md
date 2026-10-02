@@ -10,7 +10,7 @@ tags:
 
 [[Air Force Materiel Command (AFMC)]], which oversees most Air Force RDT&E activity, has a budget portfolio of $82.9 billion in fiscal year 2025. Gerb identifies AFMC as the single most significant part of the Air Force for alleged legacy program activity. His reason is that RDT&E contracts let classified program work be funded outside standard appropriations channels, with minimal congressional visibility.
 
-Three SAFAQ directorates are alleged to coordinate clandestine RDT&E special access programs (SAPs). [[SAFAQR (Science, Technology and Engineering)]] is the Air Force Science and Technology Executive and coordinates RDT&E SAPs. [[SAFAQL (Special Programs)]] manages deep-classified advanced technology development, and [[SAFAQX (Acquisition Integration Directorate)]] allegedly provides administrative support to clandestine RDT&E SAPs.
+Three SAFAQ directorates are alleged to coordinate clandestine RDT&E special access programs (SAPs). [[SAFAQR (Science, Technology and Engineering)]] is the Air Force Science and Technology Executive and coordinates RDT&E SAPs. [[SAFAQL (Special Programs)]] manages deep-classified advanced technology development, and [[SAFAQX (Acquisition Integration)|SAFAQX (Acquisition Integration Directorate)]] allegedly provides administrative support to clandestine RDT&E SAPs.
 
 Of the contractors with classified RDT&E access to [[Air Force Plant 42]] in Palmdale, California, [[Lockheed Martin]], [[Northrop Grumman]] and [[Boeing]] are the ones UAP whistleblowers most often allege reverse engineer non-human and derivative airframes under RDT&E contract authority.
 

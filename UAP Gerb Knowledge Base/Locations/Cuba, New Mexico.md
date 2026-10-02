@@ -9,7 +9,7 @@ Cuba is a small village in Sandoval County, in north-central New Mexico. In UAP 
 
 ## Manuel Sandoval and the Aztec Case
 
-Manuel Sandoval, a law enforcement officer from Cuba, responded to reports of an unusual object downed at Hart Canyon Road near [[Aztec UFO Case|Aztec]], New Mexico. His arrival makes Cuba one of the nearby communities whose residents and officials had early, direct contact with what witnesses described as a large metallic disc that had come down in the canyon. Sandoval's account is part of the witness record on the Aztec case compiled by researchers including Leonard Stringfield and, later, Ryan S. Wood.
+Manuel Sandoval, a law enforcement officer from Cuba, responded to reports of an unusual object downed at Hart Canyon Road near [[Aztec UFO Crash and Recovery|Aztec]], New Mexico. His arrival makes Cuba one of the nearby communities whose residents and officials had early, direct contact with what witnesses described as a large metallic disc that had come down in the canyon. Sandoval's account is part of the witness record on the Aztec case compiled by researchers including Leonard Stringfield and, later, Ryan S. Wood.
 
 ## Geographic Context
 

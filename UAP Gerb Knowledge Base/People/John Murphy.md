@@ -35,7 +35,7 @@ John Murphy died in a hit-and-run incident shortly after the Kecksburg event. Re
 
 ## Legacy
 
-Murphy's censored documentary, together with his widow's revelation that he saw the object himself, makes him a central figure in the Kecksburg case. What happened to him is an example of the [[Media Censorship of UAP Events]] and [[Witness Suppression]] that marked the official response to the incident.
+Murphy's censored documentary, together with his widow's revelation that he saw the object himself, makes him a central figure in the Kecksburg case. What happened to him is an example of the [[Media Censorship of UAP Events]] and Witness Suppression that marked the official response to the incident.
 
 ## Sources
 

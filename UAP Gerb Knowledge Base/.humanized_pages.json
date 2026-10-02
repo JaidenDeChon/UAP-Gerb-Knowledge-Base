@@ -264,9 +264,19 @@
     "sha256": "36eb5b4579914ce7a5556431281c075dfb97ff61a2cfb9925d19e74a4bde361e",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/Executive Order 10501.md": {
+    "humanized_at": "2026-10-01T22:58:44Z",
+    "sha256": "a2fd7650e6bba4803d03dbafdffc69900d83a5cee1aaa8a0a49285ca060641d3",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Concepts/Executive Order 13526.md": {
     "humanized_at": "2026-09-30T02:28:14Z",
     "sha256": "83634f18fe9c7d222c7f1b213585ad5a31d71395d96e5fb431a43fbc1b692c0c",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Concepts/Extraterrestrial Biological Entity.md": {
+    "humanized_at": "2026-10-01T22:58:44Z",
+    "sha256": "1b708ebb62223a00b00d422813b06ad7275b6f890daf408a08ac56a81778b00d",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/Concepts/FOIA Evasion via Terminology.md": {
@@ -312,6 +322,11 @@
   "UAP Gerb Knowledge Base/Concepts/Geosynchronous Satellites.md": {
     "humanized_at": "2026-09-30T02:29:52Z",
     "sha256": "20ce410d51ecc00eafb42394c829ea7d514579878253bf8354d4b62682dcd639",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Concepts/Golden Age of Army R&D.md": {
+    "humanized_at": "2026-10-01T22:58:44Z",
+    "sha256": "2159152170207ed662a22fca313909fc0e66b401b826e49fedf2ff6893bdb3f2",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/Concepts/Gray Alien Morphology.md": {
@@ -559,6 +574,11 @@
     "sha256": "999b3be144ea8c539ab707187287e1d1b39319c27facc16c36c64d5d95b091ee",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/Passive Night Vision Technology.md": {
+    "humanized_at": "2026-10-01T22:58:44Z",
+    "sha256": "e8d7d3119db3001f2dadcbb668d80d9c75465059c6e06073716955522d92fb03",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Concepts/Pentagon UFO Videos.md": {
     "humanized_at": "2026-09-30T02:38:55Z",
     "sha256": "65a9df165ac2237c0d8e892791f29699ba0633758af1a46db5fb7d002db918e3",
@@ -617,6 +637,11 @@
   "UAP Gerb Knowledge Base/Concepts/Robertson Panel.md": {
     "humanized_at": "2026-09-30T02:40:15Z",
     "sha256": "fbe3dae246fb956c84a691b730c96bdc101cde3b68144536fb6b561db4225d33",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Concepts/Roswell File.md": {
+    "humanized_at": "2026-10-01T22:58:44Z",
+    "sha256": "6dbc034d4d9155c24bee85619745b17168052c6fed2915d3a793ebb2a5d67701",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/Concepts/Seamless Craft Hull.md": {
@@ -709,9 +734,19 @@
     "sha256": "d714d8b7bed83a611227182ec4926ad4b5ad1e6f2a884f479b0b8d679389d5da",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Concepts/Technologies of Unknown Origin.md": {
+    "humanized_at": "2026-10-01T22:58:43Z",
+    "sha256": "8980984c1271ac2455aae3d959473c35461f6ac64e0dfc97f5bdd07c133ffd57",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Concepts/The Age of Disclosure.md": {
     "humanized_at": "2026-09-30T02:44:02Z",
     "sha256": "2e4f4f5d63dc0e73708fbdf75b5dec4096ec5ab221739292e1ea4a5c2a343781",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Concepts/The Day After Roswell.md": {
+    "humanized_at": "2026-10-01T22:58:43Z",
+    "sha256": "9dcf407dd038cf8cd7233392353039a5bdcabb3ab9e6df75ea9accc7c2527075",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/Concepts/Tic Tac Factory.md": {
@@ -1089,7 +1124,7 @@
     "sha256": "7395a454846e568138be59798023b3e81e5f4a35b1d448b399e412014a2d8fff",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/Events/Inman-Echler Telephone Call.md": {
+  "UAP Gerb Knowledge Base/Events/Inman-Oechsler Telephone Call.md": {
     "humanized_at": "2026-09-27T20:14:37Z",
     "sha256": "04a69424985716b2ce663b056f2d7bed73b889a5b2769a1c3463844f8fbcf855",
     "cold_reader": true
@@ -1134,14 +1169,14 @@
     "sha256": "e482a6b15990efb34bddaf75ed472988e47dcff8d88676f728b86706a2cb49b7",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/Events/Mark Mandel Planned Congressional Testimony.md": {
-    "humanized_at": "2026-09-27T20:14:51Z",
-    "sha256": "fc09659930da3f60529459f92921870969739c6a4a4a3f7646eb891a8b368ec4",
-    "cold_reader": true
-  },
   "UAP Gerb Knowledge Base/Events/Maury Island Incident.md": {
     "humanized_at": "2026-09-27T20:14:52Z",
     "sha256": "b2e5c5f9ddd095796760b7cd3c8b63466fd3207cb7845a61832cb19551657cbe",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Events/McCandlish Planned Senate Testimony.md": {
+    "humanized_at": "2026-09-27T20:14:51Z",
+    "sha256": "fc09659930da3f60529459f92921870969739c6a4a4a3f7646eb891a8b368ec4",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/Events/McMinnville UFO Photographs.md": {
@@ -1709,6 +1744,11 @@
     "sha256": "15f5a52d924ab41016dd55130efb761a7d81a3164dbdb1db0162f049b393dfd4",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Locations/Holloman Air Force Base.md": {
+    "humanized_at": "2026-10-01T22:58:44Z",
+    "sha256": "9d4d10bddaa66cf0b50baf26cc2dd91b3d867b5c1462dbc89d887d83c01f1f4d",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Locations/Howard Air Force Base, Panama.md": {
     "humanized_at": "2026-09-28T20:42:00Z",
     "sha256": "a30606f3b45fe9412613cfc4d0e4abee7de3981bdf0985ed9cec18509db318e2",
@@ -2022,6 +2062,11 @@
   "UAP Gerb Knowledge Base/Locations/Pucallpa.md": {
     "humanized_at": "2026-09-28T21:33:05Z",
     "sha256": "f6dd24bd57b20d857dad5045a248daf13c953a6b27c2f761f38ed0c0914648db",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Locations/Puerto Rico Trench.md": {
+    "humanized_at": "2026-10-01T22:58:44Z",
+    "sha256": "a8586b490dd97d301083ac5bddab59323f28351bb0fb046ea266f2fef4a0d8f3",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/Locations/R2508 Complex.md": {
@@ -2604,6 +2649,11 @@
     "sha256": "d7b6378a67318ed1bdaffad9707d5b8cb8bb0f1cd091c64edc5235c2cf3eebe6",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/Army Ballistic Missile Agency.md": {
+    "humanized_at": "2026-10-01T22:58:44Z",
+    "sha256": "a79b86e97c97cb32f97d6bb6e3710cbc3ed9e82cbb10f63d651de6bebfe813db",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Organizations/Army INSCOM.md": {
     "humanized_at": "2026-09-25T23:38:35Z",
     "sha256": "af2f9b268bbea08d10d9d7fee89c6bc026579bbdbb339bcb9d16c0262b447219",
@@ -2859,6 +2909,11 @@
     "sha256": "49254b0e0c3d502780b6e27e4a50bef91e81cad99275719d0459a8dca70dc616",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/General Dynamics.md": {
+    "humanized_at": "2026-10-01T22:58:44Z",
+    "sha256": "3fa228051c2b83e93143890dece1e4ad888df0a16e02d0dfb78ed33cc5bdfc88",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Organizations/Geophysical Service Inc. (GSI).md": {
     "humanized_at": "2026-09-25T23:47:20Z",
     "sha256": "06fd6bf7c3c874ff08f7bcd4021830d62376aa631cc37bc75e9d199f73ac2eda",
@@ -2897,6 +2952,11 @@
   "UAP Gerb Knowledge Base/Organizations/Joint Task Force Bravo.md": {
     "humanized_at": "2026-09-25T23:49:12Z",
     "sha256": "16270d345e73ec0ddcc76438b9f114ac7d445e2d944d3c6b00ef8ea36b8df5e9",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Kecksburg Volunteer Fire Department.md": {
+    "humanized_at": "2026-10-01T22:58:44Z",
+    "sha256": "b73ecccb03f6e35c17e9dcba5a21505763a82be6250db2c4a97399ae050c10ef",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/Organizations/L3 Communications.md": {
@@ -2984,6 +3044,11 @@
     "sha256": "2002aee36e7f444505d0b64581e8f647680570355ee2ca7a1c58ed7040b98aff",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/McDonnell Douglas.md": {
+    "humanized_at": "2026-10-01T22:58:44Z",
+    "sha256": "71f9b8f089fc2cc70ac0198d465ff58dadce948c02d42d5bbb465f2d79adae9d",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Organizations/Men in Black.md": {
     "humanized_at": "2026-09-25T23:53:56Z",
     "sha256": "fd3d3f2d8cb2d197060c0f077a6ae43147f26eb2bc19b6e1a6a87b75db006f16",
@@ -3032,6 +3097,11 @@
   "UAP Gerb Knowledge Base/Organizations/NSA.md": {
     "humanized_at": "2026-09-25T23:55:24Z",
     "sha256": "1df5ddd2e33844c4238a588ea3b7cd10f9234c5d0ebd59f509386ce4ab733fb3",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/NSC 5412 Committee.md": {
+    "humanized_at": "2026-10-01T22:58:43Z",
+    "sha256": "7df44a021b86e7787970c055c390d5ec2de309ce2878ee8966085024e7492729",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/Organizations/National Academy of Sciences.md": {
@@ -3167,6 +3237,11 @@
   "UAP Gerb Knowledge Base/Organizations/Office of Strategic Services (OSS).md": {
     "humanized_at": "2026-09-26T00:00:08Z",
     "sha256": "5cc65d1a0b5fa73f7d45a64d300dfa43150792cf3361380c53d1b10b12ec1aa0",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Office of the Director of National Intelligence (ODNI).md": {
+    "humanized_at": "2026-10-01T22:58:43Z",
+    "sha256": "5b7e2d644d9a5191d5a0aa0b251931372027d68e40e71c5fcb1395d8fb835678",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/Organizations/Office of the Under Secretary of Defense for Intelligence and Security (USDINS).md": {
@@ -3317,6 +3392,11 @@
   "UAP Gerb Knowledge Base/Organizations/Sperry Rand.md": {
     "humanized_at": "2026-09-26T00:05:49Z",
     "sha256": "70b3fa05cb0f7665bb199d369183852d88ed9f4a339763f88175ac06aff788cb",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/Organizations/Strategic Air Command Elite Guard.md": {
+    "humanized_at": "2026-10-01T22:58:44Z",
+    "sha256": "779d6cd53f3a07e803fe86577acf78c7645bf5545f07b812d93e5b8b19a402c6",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/Organizations/System High.md": {
@@ -3474,6 +3554,11 @@
     "sha256": "29b181d2405d7fad0688c262fc0e676b218f397abf6ddb3bba6ad22e74382509",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/Organizations/US Space Command.md": {
+    "humanized_at": "2026-10-01T22:58:43Z",
+    "sha256": "805a278ce031a2b8f221b0d90e144970e2a76d3a49371fd366833e360daaa175",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/Organizations/US Space Force.md": {
     "humanized_at": "2026-09-26T00:12:58Z",
     "sha256": "71fddb6a0095539c5fdc104cecec47f43175ee6594f7d988646c8cb185feeef9",
@@ -3575,13 +3660,13 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Albert Bruce Collins.md": {
-    "humanized_at": "2026-09-25T18:59:32Z",
-    "sha256": "de53131195317c352eee340dc42d3585574ba658c966a8e0514f5dbf9ab9a7a6",
+    "humanized_at": "2026-10-01T20:57:02Z",
+    "sha256": "8280bfb9557b56af911625ce0d08661eb5ec64e545d89909abbef4f601516d27",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Albert Stubblebine.md": {
-    "humanized_at": "2026-09-25T18:59:32Z",
-    "sha256": "6ff07b46886c4cbaa63f64c84a9760325ac73e89a98acb7a5f2f672c8f79cf91",
+    "humanized_at": "2026-10-01T20:42:42Z",
+    "sha256": "956bd3586b45ffbca1b42d5df2f753a8e43e1727190c3de78fff6a16b82e15d1",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Aleister Crowley.md": {
@@ -3595,8 +3680,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Alfred O'Donnell.md": {
-    "humanized_at": "2026-09-25T18:59:32Z",
-    "sha256": "6e4f2683533721c99297ccd0e4dcdd7abec661e1dff80877c7c1b2d5b2ef48cd",
+    "humanized_at": "2026-10-01T21:58:04Z",
+    "sha256": "669082c31c8f5c971dbfee70ade53b4b0887bdb79bc08c850f37b509bf0d4e88",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Almiro Baraúna.md": {
@@ -3615,13 +3700,13 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Andrew Kissner.md": {
-    "humanized_at": "2026-09-25T19:01:34Z",
-    "sha256": "1d5675f70685af954d9d360fe301c534459ce99419bf7afecb68b10567aed396",
+    "humanized_at": "2026-10-01T20:41:08Z",
+    "sha256": "b369bb1637e7f1c27cb3e545310aad5fcc65b780d73e5164a223eed745d4ef68",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Anna Paulina Luna.md": {
-    "humanized_at": "2026-09-25T19:01:34Z",
-    "sha256": "116e4f0438159bca54fdca290d66c5c40190139cca9ac653a1eb33899451a94b",
+    "humanized_at": "2026-10-01T22:09:20Z",
+    "sha256": "754d171126e72e52e57b7dbe5d98d90fb307f0a0c09d93f9c797efb16136d62a",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Arnold House.md": {
@@ -3630,8 +3715,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Arthur Bray.md": {
-    "humanized_at": "2026-09-25T19:01:34Z",
-    "sha256": "27bff839635e65b8a7b115d4fbb976b6d6559187d8b1b412339d5464f3cc0904",
+    "humanized_at": "2026-10-01T21:58:04Z",
+    "sha256": "af072397ccef20575778316219924c23082490a98438b6cfe0c1490eeb8dbe27",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Arthur McQuitty.md": {
@@ -3640,13 +3725,13 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Arthur Stansel Jr..md": {
-    "humanized_at": "2026-09-25T19:01:35Z",
-    "sha256": "b6a8c415fe699609a642c74378a65ac9dff8357fa82431d21bd2def64a4c2efd",
+    "humanized_at": "2026-10-01T21:04:39Z",
+    "sha256": "9081391a37cc662b41b6804e90bfbefee4ee3d54900e0147f2537cf66e9bfc78",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Arthur Trudeau.md": {
-    "humanized_at": "2026-09-25T19:01:35Z",
-    "sha256": "127a17a2f206921b246416c964746343ab091ecacbdeed3eecb733023ef105aa",
+    "humanized_at": "2026-10-01T20:35:29Z",
+    "sha256": "9f3e9cd1e66c394b6a9cd4952ef10894f784138daa9314a9136eb0c2d8b3fa02",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Avi Loeb.md": {
@@ -3665,8 +3750,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Barry Goldwater.md": {
-    "humanized_at": "2026-09-25T19:05:42Z",
-    "sha256": "d58a780af8b4d532cd454eeeed6f13cdf75fa471caaec3609525033200e2eb28",
+    "humanized_at": "2026-10-01T20:37:50Z",
+    "sha256": "732cec244df9937a9c735d5640f0067e321e10856bd5fc11b47167f85a849121",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Barry J. Greenwood.md": {
@@ -3675,8 +3760,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Ben Rich.md": {
-    "humanized_at": "2026-09-25T19:05:42Z",
-    "sha256": "104612bc760425154fa6a45d0e33b5b4b3d6df7aaac00e0653ccf8b807d85da9",
+    "humanized_at": "2026-10-01T20:35:28Z",
+    "sha256": "30ce45bb73a717e487867489f99b8fed012ad9f4d1793855527f019ce764ecab",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Benito Mussolini.md": {
@@ -3700,13 +3785,13 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Bill Bully Bush.md": {
-    "humanized_at": "2026-09-25T19:05:44Z",
-    "sha256": "d57ee568c78d26c75cdfcded96e4403c0b3207d4dfe5485d8318cfa78b6b4372",
+    "humanized_at": "2026-10-01T21:58:04Z",
+    "sha256": "fa6872b701a4c99d30b0aadde90717d9582a07e8cc69dfa9179b4b450743301a",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Bill Burns.md": {
-    "humanized_at": "2026-09-25T19:05:09Z",
-    "sha256": "7dc149d3ccdb6a7ed55d6811611f3c7e26ba6410f365b7b0884f364872d6f7cc",
+    "humanized_at": "2026-10-01T22:05:49Z",
+    "sha256": "19e199ad7f37eced3ac766c10d55cd3d48b57ba5f3086d85fdfaebdfaeb8baab",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Bill Case.md": {
@@ -3715,13 +3800,13 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Bill Hamilton.md": {
-    "humanized_at": "2026-09-25T19:05:09Z",
-    "sha256": "712f9d3065f6d0624362d237422cf49f2ed44bb649c35c9c34331e9d77909a3d",
+    "humanized_at": "2026-10-01T20:39:41Z",
+    "sha256": "5aec2fd5145f9c61755bbca9f2583dd99d2a4cf8d1acc17b7dcb43db303a118d",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Bill McDonald.md": {
-    "humanized_at": "2026-09-25T19:05:09Z",
-    "sha256": "5f14fc79f781224aaf4104a358e2aa5504bfda4d9fa439e9a9a420188aa53cae",
+    "humanized_at": "2026-10-01T20:45:36Z",
+    "sha256": "591fa7013ac96b289f609a276fe6ff9738e41909ebd4c217ebe71df9acc4f34d",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Bill Moore.md": {
@@ -3730,8 +3815,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Bill Perry.md": {
-    "humanized_at": "2026-09-25T19:06:14Z",
-    "sha256": "d0fcd6cbc1f0268801cec62910b4d2f6b7e96a6873c1c1df355704407eb1fdbc",
+    "humanized_at": "2026-10-01T20:37:50Z",
+    "sha256": "d984438c3d6aef052df49b1054e1e2be80424a193c7eed23a9bfba94997cf0a4",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Bill Uhouse.md": {
@@ -3739,24 +3824,24 @@
     "sha256": "cd195cd963005b456ef293fa11295c2311c80db0075e81c8e7fff1c4b1222ac8",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/People/Bob Echler.md": {
-    "humanized_at": "2026-09-25T19:06:15Z",
-    "sha256": "269a9ac130e3ae7b37b2fee08e4e402bbd58a1c4e10933c306dd6afb69d18b20",
-    "cold_reader": true
-  },
   "UAP Gerb Knowledge Base/People/Bob Fish.md": {
-    "humanized_at": "2026-09-25T19:06:15Z",
-    "sha256": "2c7ac096d34e9a6e6b4c860c8ab706bbab3adb6e5587172566ab1a6c68173af0",
+    "humanized_at": "2026-10-01T20:45:35Z",
+    "sha256": "b19d25f74b79f6b8c42b06580deefbff2ee5d8cf8a13af882969011841fb8efc",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Bob Lazar.md": {
-    "humanized_at": "2026-09-25T19:06:15Z",
-    "sha256": "97728a95944546b19ded779d8415c15b5a21c6e57c908543f1449f2c2e64bb0b",
+    "humanized_at": "2026-10-01T20:37:50Z",
+    "sha256": "5c981716734c9a2756b823c58df34e1c48195b63fa9fd60a3d4ab8141e711eb9",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/People/Bob Oechsler.md": {
+    "humanized_at": "2026-10-01T20:24:50Z",
+    "sha256": "2f296b7f2e97b3d4ef96a7d600639f0c8dfc766f0e7162dbe23efd7d11f17ba3",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Bobby Ray Inman.md": {
-    "humanized_at": "2026-09-25T19:05:44Z",
-    "sha256": "f92a2da1663f3c7250679ccc0b7358fcd0f644ea89d7f22759bb72b4a7096465",
+    "humanized_at": "2026-10-01T20:22:31Z",
+    "sha256": "a26834a083d5fd52e860eb7f0ac3b7f61c0a851d15fcc358b1382234414d64e7",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Bonnie Nettles.md": {
@@ -3765,13 +3850,13 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Boyd Bushman.md": {
-    "humanized_at": "2026-09-25T19:05:44Z",
-    "sha256": "089782b47190fe2163abec772215df1c9677669d924bf6fa2d87aef92fa2e5b9",
+    "humanized_at": "2026-10-01T22:05:48Z",
+    "sha256": "377dd875186e32d81762ac43be4cb6b3baf0bbd966a59e0c052976ee5c6dbb91",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Brad Sorenson.md": {
-    "humanized_at": "2026-09-25T19:05:45Z",
-    "sha256": "600ac20768c6656685c641388dd393e6aa2cf646ac90b8722d127f4fbb71aee0",
+    "humanized_at": "2026-10-01T20:27:32Z",
+    "sha256": "fccbcc47164a2aae7254bdd00760b8eb414f7c22cebbf2d6684dad3abe6fb3a1",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Brad Sparks.md": {
@@ -3825,8 +3910,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Catherine Austin Fitts.md": {
-    "humanized_at": "2026-09-25T19:04:51Z",
-    "sha256": "f9a732b64b45996e88b40822262e28f7197badf6303e2b89e4b0a9d66e452b2f",
+    "humanized_at": "2026-10-01T21:04:39Z",
+    "sha256": "dbe334ae16c029cfdd77df8e094111fa2729d407d73d00435f7648016a0974ae",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Charles Bolden.md": {
@@ -3850,8 +3935,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Chris Mellon.md": {
-    "humanized_at": "2026-09-25T19:04:52Z",
-    "sha256": "0043e3556aadb4dec83f56ad4ce1516a9966fbfea73d052451ef73248d38f956",
+    "humanized_at": "2026-10-01T20:58:48Z",
+    "sha256": "db67680734f3cc5a54fabefe0baa6fa1a109b0f666018a3cb07c1f07498b7dac",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Christopher Haave.md": {
@@ -3865,8 +3950,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Christopher Sharp.md": {
-    "humanized_at": "2026-09-25T19:07:13Z",
-    "sha256": "6f4b3e36822d446c13a49d9a7eb0654a9b856b450ecf606d0815bbcbf240064b",
+    "humanized_at": "2026-10-01T20:22:31Z",
+    "sha256": "204d3d38f443dfd91ccc9a111f7eb4b4eb8ca73c8c0d1c4a71f1fdb3ed6b6ff2",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Claude Vorilhon.md": {
@@ -3890,13 +3975,13 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Curtis LeMay.md": {
-    "humanized_at": "2026-09-25T19:07:23Z",
-    "sha256": "600aef69c431cc9020c93b595eff4c4c7c1ccbde568759c4a4f50c4970fda642",
+    "humanized_at": "2026-10-01T22:09:36Z",
+    "sha256": "4968298e0e3c3611bf6a0bc4adb9a294349c178eef45e81e8453fdb83aa189d7",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Cyrus Vance.md": {
-    "humanized_at": "2026-09-25T19:07:23Z",
-    "sha256": "d21db4fbf6c7df0872ec6fefc7bdd649309f98bb0920a6e6ebdc5807b99fa447",
+    "humanized_at": "2026-10-01T21:58:03Z",
+    "sha256": "14a7e1e7e4d054dcba7adb15394563570d3201780947aa63511bd532abcddcea",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Dan Benkert.md": {
@@ -3905,8 +3990,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Daniel Sheehan.md": {
-    "humanized_at": "2026-09-25T19:08:52Z",
-    "sha256": "0b33ec2499aeb216d9a00344ac3721a9ea8b6eac43e60f4bd11a726139cc5924",
+    "humanized_at": "2026-10-01T22:05:06Z",
+    "sha256": "8a20c5ff53bc35b85249188e4e0f0f5f81609c6556e7648b07c17b66084fbb9b",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Dave Chorley.md": {
@@ -3925,8 +4010,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/David Grusch.md": {
-    "humanized_at": "2026-10-01T18:24:03Z",
-    "sha256": "ed9b89160617f76578ef6a622e7560078e266c4c4186036ff8e5d6fd70a871c7",
+    "humanized_at": "2026-10-01T20:54:36Z",
+    "sha256": "36331215d4bb266e802584d4f00c91523b85b1849035c847d58a67884332274e",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/David Hilton.md": {
@@ -3950,8 +4035,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Dawn Meyerriecks.md": {
-    "humanized_at": "2026-09-25T19:07:04Z",
-    "sha256": "a08ec747de44f6b26feaf7f89d60afadf8c273aad352e6632f9b2dced2f1042a",
+    "humanized_at": "2026-10-01T22:09:35Z",
+    "sha256": "f5c58b4c0bbdec79903286675ffd2afc9444e4a919eb53cd873776870bbfaec8",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Debbie Clayton.md": {
@@ -3960,8 +4045,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Denise McKenzie.md": {
-    "humanized_at": "2026-09-25T19:08:01Z",
-    "sha256": "01b505e131920e20c948796cf795e956ec6eebed45d1f7694f00cf7fa485e2ec",
+    "humanized_at": "2026-10-01T22:05:13Z",
+    "sha256": "fc5065535f3a511e9e756ac36aeed95fa591581fb1c8e6b9f39caeba8b05620a",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Dennis Stacy.md": {
@@ -3985,8 +4070,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Dick Cheney.md": {
-    "humanized_at": "2026-09-25T19:07:36Z",
-    "sha256": "2ce26a412d339a92202e926390e3d5caba4cad11e5af1e445988ca359d7af2c8",
+    "humanized_at": "2026-10-01T20:39:42Z",
+    "sha256": "b5f6554d07a2c4747868433f71bf5e96c5f39d31a73afd3024fb7604fe62676e",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Don Berliner.md": {
@@ -4014,9 +4099,14 @@
     "sha256": "767f162971b327455072eb2e87ab34b6a6929de37d7ee02423f38aaaf16e899f",
     "cold_reader": true
   },
+  "UAP Gerb Knowledge Base/People/Donald Keyhoe.md": {
+    "humanized_at": "2026-10-01T22:58:44Z",
+    "sha256": "aeeccb325afea384dfca5ae05060992933a26e4cb826d32714613eb41b252860",
+    "cold_reader": true
+  },
   "UAP Gerb Knowledge Base/People/Donald M. Kerr.md": {
-    "humanized_at": "2026-09-25T19:07:24Z",
-    "sha256": "a83aacbe09b2b6bb8742ab8788f4ec69f4f57c241e48baef5e5c668e5739c2b6",
+    "humanized_at": "2026-10-01T20:49:02Z",
+    "sha256": "d6677ddfe6d6f05f01771e1db81b564bb15b7b53a435e21f6aaa97581ed8a97b",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Donald Menzel.md": {
@@ -4040,8 +4130,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Donna D. Shipton.md": {
-    "humanized_at": "2026-09-25T19:08:10Z",
-    "sha256": "c75b9308605845eb3945b711be49746917ab1ad138d54f3530b7fb09f4934ce4",
+    "humanized_at": "2026-10-01T20:59:46Z",
+    "sha256": "f462977fc38d6c086cdf0859626b61327cd04385d0f3cf35510c9069b3d17cfa",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Donna Hare.md": {
@@ -4065,13 +4155,13 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Dwight D. Eisenhower.md": {
-    "humanized_at": "2026-09-25T19:09:41Z",
-    "sha256": "71fbdba2645725cf9ad12babaa61e2e0c5f55ec7c50abf45c90b1d4ac75ab7de",
+    "humanized_at": "2026-10-01T20:42:42Z",
+    "sha256": "1fea606fa60770acc7917e98472378316607e9486fe61f4fae3d55af009aa8f0",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Dylan Borland.md": {
-    "humanized_at": "2026-09-25T19:09:41Z",
-    "sha256": "07c20ee19bd7f3fe59b6b67cb4d286e46bf48a2bcb73ec2a6fddcb6825511b4c",
+    "humanized_at": "2026-10-01T20:59:46Z",
+    "sha256": "5e45627828694b2d4f96931da6545c080be17e15b30ae9b293461d48cc69513f",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/EJ Center.md": {
@@ -4085,13 +4175,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Ed (Witness 11063).md": {
-    "humanized_at": "2026-09-25T19:10:43Z",
-    "sha256": "c1dec3348b7c42ffa5f40bd6e3645a7a1957f70a00e891c5f50919e51f6fec02",
-    "cold_reader": true
-  },
-  "UAP Gerb Knowledge Base/People/Ed Doll.md": {
-    "humanized_at": "2026-09-25T19:10:44Z",
-    "sha256": "ff494c997a4e7e2ada76f6df5de84bbc642e20c7b2aa30d2026a55d317ac8680",
+    "humanized_at": "2026-10-01T22:10:01Z",
+    "sha256": "fcc168d75e3a8eec46ea1efd4a8a30d7cfb36f052694fa13988b653b4a56676c",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Eddie L. Anderson.md": {
@@ -4100,33 +4185,33 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Edgar Fouche.md": {
-    "humanized_at": "2026-09-25T19:10:44Z",
-    "sha256": "fd35a6a28f1c0926f4f0b7e0334a21dc042202ac85d0fe0b003735b3ac610851",
+    "humanized_at": "2026-10-01T20:35:28Z",
+    "sha256": "1f58a5206d506a353da101542a81d1f24d4d6d1af1e28d76960f3ec5789ffac4",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Edgar Mitchell.md": {
-    "humanized_at": "2026-09-25T19:10:44Z",
-    "sha256": "c7744609b64d3270e29af045331d09bb8f22d12e55004be1d5ffb97f36483762",
+    "humanized_at": "2026-10-01T20:58:48Z",
+    "sha256": "d86cb4e29e05dd1a3aa0e2317375c6dad4ff0ae0a2811cb1f2a1e0398d13f191",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Edward Bushnell Doll.md": {
-    "humanized_at": "2026-09-25T19:10:32Z",
-    "sha256": "cb3a508ddbfab8068616cc923c2d1fb2be6ed555d976d78d58a7f438e67ce951",
+    "humanized_at": "2026-10-01T20:49:58Z",
+    "sha256": "cfe4dbc2f4b6afde5919f893848cd595b6f64d6fde2e2f12878138334ec8148d",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Edward C. Aldridge.md": {
-    "humanized_at": "2026-09-25T19:10:32Z",
-    "sha256": "44230854d72bbbba339dbcb7b76d6816867f1902a1ffce13cfb2fad45c37cc16",
+    "humanized_at": "2026-10-01T20:57:02Z",
+    "sha256": "268e6fa30719396079b907f45fa56f42be14b1342fb2f00d5114417a9a1cd06f",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Edward Condon.md": {
-    "humanized_at": "2026-09-25T19:10:32Z",
-    "sha256": "3a2c73ff289ff20b16f8e3f69b1a2989653b9ecac03caca3e6c290b1b96a5710",
+    "humanized_at": "2026-10-01T22:09:20Z",
+    "sha256": "92ce4c59900d9c6b165ac0dd87bdf4a47e10e4ef95f306b15e26d67e87ca1014",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Edward J. Ruppelt.md": {
-    "humanized_at": "2026-09-25T19:10:32Z",
-    "sha256": "46fb6dd9db5c31e39872cf700bfa51f809aeb3fabfdfdd216f358c0778530941",
+    "humanized_at": "2026-10-01T22:05:49Z",
+    "sha256": "7979bcc7ff1972c29f0ff76211336f1aa8b66d0aef8c4ffc45d72262e150f05d",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Edward Nugent.md": {
@@ -4145,33 +4230,33 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Ellen Lord.md": {
-    "humanized_at": "2026-09-25T19:10:19Z",
-    "sha256": "80a3a3167ef640e7eddda3f2e174148162ef37a1ca6e1bd44194f7800bb05310",
+    "humanized_at": "2026-10-01T22:09:35Z",
+    "sha256": "b46cf48a13a0806919c49538ff840efbd8d034139ba737aa2873a9640b617386",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Enrico Fermi.md": {
-    "humanized_at": "2026-09-25T19:10:20Z",
-    "sha256": "39b03363b193c83e05fe4f334f751fa5157e344a48cfdff10f8e8efc5df41db8",
+    "humanized_at": "2026-10-01T22:05:06Z",
+    "sha256": "dcaef69338309100d7a35646ebfd2c6a50dbd319ffd5214d63c4e76460cd5faa",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Eric A. Walker.md": {
-    "humanized_at": "2026-09-25T19:12:33Z",
-    "sha256": "cd08f52b41009493d58e4e34e2db1cbc8b51417888b5d3edc56f71385965d170",
+    "humanized_at": "2026-10-01T20:28:04Z",
+    "sha256": "8f5f73df267b78128f48362dfa845d775040c40deb02a2541c8f06a96b2e29ee",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Eric Burlison.md": {
-    "humanized_at": "2026-09-25T19:12:33Z",
-    "sha256": "ce1485519a5c8757f03977becb7a842d557a3ba970c804d6f6c5205bf113d971",
+    "humanized_at": "2026-10-01T20:58:48Z",
+    "sha256": "712f6c11e5d9f445f925391338715ce1fd863b97ba3b9fdef3dc6317b30efb11",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Eric Davis.md": {
-    "humanized_at": "2026-09-25T19:12:33Z",
-    "sha256": "77289493a3276417519ec42b969d7f573795ff7fb5436fb86097edeb870c46b7",
+    "humanized_at": "2026-10-01T20:27:32Z",
+    "sha256": "b724f4f74276c936e3ae01ae30df9568c9f8a42001e87e540289e16858438e1b",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Eric Henry Wang.md": {
-    "humanized_at": "2026-09-25T19:12:33Z",
-    "sha256": "a63e6edea88658f6f090c54e697298be1400b6b8033e9c7bed6c0a9fa8cddfe9",
+    "humanized_at": "2026-10-01T20:27:33Z",
+    "sha256": "22ea01e062982d43df32543e1137a50c14a560fd5493a810762c9250639fd1ac",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Eric Schrock.md": {
@@ -4180,8 +4265,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Eric Taber.md": {
-    "humanized_at": "2026-09-25T19:10:33Z",
-    "sha256": "d65560e37f04b1c6f172e43da20f45711e7723a4f132ae3d40e999524718d654",
+    "humanized_at": "2026-10-01T22:05:05Z",
+    "sha256": "c27fac2d47ab94add652bc976751f3475b325975c62c0fb598f99c005ed93ab3",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Erich von Däniken.md": {
@@ -4200,8 +4285,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Everett Heinman.md": {
-    "humanized_at": "2026-09-25T19:10:34Z",
-    "sha256": "3a9282e6dd9c9e66420ea1df2b190ab5bd3c14a29a302cc2955294d04426dcd7",
+    "humanized_at": "2026-10-01T20:39:41Z",
+    "sha256": "fff90c021d48ec6dcbd42cc1fde2e89373deba9538b0b837aa709b08fbae8f0e",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Felix Zigel.md": {
@@ -4255,8 +4340,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Frank Scully.md": {
-    "humanized_at": "2026-09-25T19:12:24Z",
-    "sha256": "77f7b7c0c03426931e35f555f6fb313ab8f05e6a95ef173967e245fb28c4b984",
+    "humanized_at": "2026-10-01T20:49:58Z",
+    "sha256": "063e9cb0aacf516f6e90ecaefcf36b66ae60910ce8c5c011bc298d228e69046c",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Fritz Warner.md": {
@@ -4270,13 +4355,13 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Gary McKinnon.md": {
-    "humanized_at": "2026-09-25T19:12:24Z",
-    "sha256": "a8cfa28f5b5398208fc3b8f71b9cb95cca379d461ec5d76eb69baac0118a5e12",
+    "humanized_at": "2026-10-01T22:17:15Z",
+    "sha256": "8fb6fc20ed3dd806e2f3bbbe302ad6172522f609229d4d235fa82cbf113c2e98",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Gary Nolan.md": {
-    "humanized_at": "2026-09-25T19:12:25Z",
-    "sha256": "1ba110b1a9c08853f30da6b4327b2bf5f3e4b7e9d9c0296e0e961014c131b5de",
+    "humanized_at": "2026-10-01T20:24:50Z",
+    "sha256": "d45e414f816a1fa09c94e4e55b2753d2373843884beebe2640a7e0462d94543c",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/General Ramey.md": {
@@ -4290,8 +4375,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/George C. Marshall.md": {
-    "humanized_at": "2026-09-25T19:13:50Z",
-    "sha256": "5f4a886a3d6325a88f44eb1d897f5190edbf3d35514f10d5e10f3c34fea39521",
+    "humanized_at": "2026-10-01T20:39:42Z",
+    "sha256": "aecde51a9082625221803782aa40eac50923882ccd34a15cbb88a2fafe04533d",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/George E. Brown Jr..md": {
@@ -4305,8 +4390,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/George Knapp.md": {
-    "humanized_at": "2026-09-25T19:12:58Z",
-    "sha256": "907399bcd76df307ed471ba70d4095b9a1295fcfeecf399995fe7960979e2817",
+    "humanized_at": "2026-10-01T20:58:48Z",
+    "sha256": "95f78f0c7e26ed86b768192fc85294c057813b23090329ba552058a131fe25ff",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/George Koehler.md": {
@@ -4335,8 +4420,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Glenn Gaffney.md": {
-    "humanized_at": "2026-09-25T19:12:59Z",
-    "sha256": "2232fec929ee2a1468f87a2e1b422c9b3f0eae2dfec8761b36a9595c92502739",
+    "humanized_at": "2026-10-01T20:41:08Z",
+    "sha256": "7174cb937ad0d208ac904ccc4042ac8a3f6b0bc9f2d395c5657266e1157578fe",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Glenn Seaborg.md": {
@@ -4375,8 +4460,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Hal Puthoff.md": {
-    "humanized_at": "2026-09-25T19:13:52Z",
-    "sha256": "3a616e5c55b3ac5dcf549c15847fb4a595eb63a358995ff70f2ba694e0ed0121",
+    "humanized_at": "2026-10-01T20:54:36Z",
+    "sha256": "f2bbc19cad57b04055068f9ad298dd1bbbc48a6ca772a2eec2033bdf5ecf3d2c",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Hans Adam II.md": {
@@ -4410,13 +4495,13 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Harry Reid.md": {
-    "humanized_at": "2026-09-25T19:13:23Z",
-    "sha256": "fd590089deda11fb88c3ea98116e56a1ce378577fd3e93fb5e96acdf633f996a",
+    "humanized_at": "2026-10-01T20:49:58Z",
+    "sha256": "0cd9d1ecc9cf7c622d21c09b0109c5cc9e8cf7c91191aaf259f0a972b23b9434",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Harry Truman.md": {
-    "humanized_at": "2026-09-25T19:13:23Z",
-    "sha256": "cb643b2e28dc24b806234fc29f482dfe91f27a131559c72ad7239301fc021d8c",
+    "humanized_at": "2026-10-01T20:27:32Z",
+    "sha256": "d98c6548c2685f8f70a87e0f876d88206fdb0caae7c3aac90070232c5763a6fe",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Harvey Williams.md": {
@@ -4427,6 +4512,11 @@
   "UAP Gerb Knowledge Base/People/Hector Quintanilla.md": {
     "humanized_at": "2026-09-25T19:13:23Z",
     "sha256": "c1ae0d15a2f8cc807673833121687317a6fa3a2bcb3ae99c6fbc28993671fa3e",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/People/Henry Azadehdel.md": {
+    "humanized_at": "2026-10-01T22:58:43Z",
+    "sha256": "31fce0fdefc8d4b48d3a6a68725d22a506ed12b0c22a85388bc76b59ca92c051",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Herman Flader.md": {
@@ -4442,6 +4532,11 @@
   "UAP Gerb Knowledge Base/People/Hermann Oberth.md": {
     "humanized_at": "2026-09-25T19:13:02Z",
     "sha256": "f0e96249b0c4fe1f3222be790f711eac035acf41ce15bb7e5a25a4f0bfd9b0e6",
+    "cold_reader": true
+  },
+  "UAP Gerb Knowledge Base/People/Hillary Clinton.md": {
+    "humanized_at": "2026-10-01T22:58:43Z",
+    "sha256": "ea1b6a00457b177498bec4f80b69efeec7c51feb1e8ab2120d8674590be5bcea",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Hillary S. McCaron.md": {
@@ -4465,8 +4560,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Infographic Show Whistleblower.md": {
-    "humanized_at": "2026-09-25T19:15:18Z",
-    "sha256": "7d8230d1e83da121656944165c9ecd4beef27446350a03f02c9310d65aaae4eb",
+    "humanized_at": "2026-10-01T21:04:39Z",
+    "sha256": "9c409be728ca976a6a1e306bff8547aab07d44e9fed19da96579baba94cddf95",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Irena Scott.md": {
@@ -4485,8 +4580,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/J. Allen Hynek.md": {
-    "humanized_at": "2026-09-25T19:16:00Z",
-    "sha256": "50de543782bafe9dce84d17a99fb618a5abcda7d6db7214dadc67ab37a390301",
+    "humanized_at": "2026-10-01T21:58:03Z",
+    "sha256": "3a72a51a7c3c1922db480743e47647fa2087cccb850d4063c89597bc9bc5f66c",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/J. Edgar Hoover.md": {
@@ -4505,8 +4600,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/J. Robert Oppenheimer.md": {
-    "humanized_at": "2026-09-25T19:16:01Z",
-    "sha256": "9e20a2f12ab611e8f73c6f4a980a76304d28feed62e019540253bb2277c12c85",
+    "humanized_at": "2026-10-01T20:37:50Z",
+    "sha256": "73562709415c88662bbabda358645429e372b730c4330dedfb71f939f7a583e6",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Jack Gordon.md": {
@@ -4525,8 +4620,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Jacques Vallee.md": {
-    "humanized_at": "2026-09-25T19:16:02Z",
-    "sha256": "81aa671fa8bbcf3dbae2f348e5c72f0503d28f96a11b05e2d91d8ce1dcb07f04",
+    "humanized_at": "2026-10-01T20:57:02Z",
+    "sha256": "a083c065a2d9fa951b37daa128c70f111e2acfec9b8b597eee8c9cc4c9811e87",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Jaime Shandera.md": {
@@ -4535,8 +4630,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Jake Barber.md": {
-    "humanized_at": "2026-09-25T19:16:22Z",
-    "sha256": "74277b29b2061de90140fcca5607085b3f41c641466bcf6b70003239a43f63a3",
+    "humanized_at": "2026-10-01T20:59:46Z",
+    "sha256": "796857a1b56775ab2abfe9a052aad650eae0415bbe7db64101752eae9d033de8",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/James Allen.md": {
@@ -4545,8 +4640,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/James Clapper.md": {
-    "humanized_at": "2026-09-25T19:16:23Z",
-    "sha256": "850ff47d2d5a8d628769cd052d09e6cd4cd714ef73d35e663b8473ec334d63a3",
+    "humanized_at": "2026-10-01T20:22:32Z",
+    "sha256": "4e71a20b279df5c44b6ee27a62bfc6f8fa0720383f9cd6e6ca0a52b4ac527310",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/James E. Webb.md": {
@@ -4555,13 +4650,13 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/James Forrestal.md": {
-    "humanized_at": "2026-09-25T19:15:31Z",
-    "sha256": "67b0ba8f6c33d86b0c249287f089eb3f0856189997e7b6f9f889eccfadcba69f",
+    "humanized_at": "2026-10-01T21:01:21Z",
+    "sha256": "f295032a6e7d209c74f005607cdac0060f4c150a86299fa56be4961c92e8c534",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/James Fox.md": {
-    "humanized_at": "2026-09-25T19:15:32Z",
-    "sha256": "958212a84474cc1e5e545626bbb3f46eda94de208d264536b9cbe9e858dc859e",
+    "humanized_at": "2026-10-01T22:05:13Z",
+    "sha256": "a8e11f459e585d8bf2c751732cc92d9339ba1ba159753d7b00d11589850992b2",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/James Goodall.md": {
@@ -4589,14 +4684,14 @@
     "sha256": "991c649342d75ded51b83d54456e43d5550518c93fdcb5a9f8ce562d88777f00",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/People/James Rigny.md": {
+  "UAP Gerb Knowledge Base/People/James Rigney.md": {
     "humanized_at": "2026-09-25T19:16:24Z",
     "sha256": "192673fef7aacbfe7830443827575020c14b9233351e3691221fbb9c6b8cd72a",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/James T. Ryder.md": {
-    "humanized_at": "2026-09-25T19:16:24Z",
-    "sha256": "06fb7e9bea34e0e7c3e49e93245401040eaefa4ede92da218bd87ba481902546",
+    "humanized_at": "2026-10-01T20:54:36Z",
+    "sha256": "90d8dd67aeb2bd2b0d0a915f7c9535809c3c8ad4494d3fb8c00cbe80c35e684c",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Jan Harzan.md": {
@@ -4645,11 +4740,11 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Jesse Marcel.md": {
-    "humanized_at": "2026-09-25T19:16:03Z",
-    "sha256": "18ebfecc996a03b22ff09665d8c3cb0e272de96076f9db9c79a9126ddb31e533",
+    "humanized_at": "2026-10-01T20:41:08Z",
+    "sha256": "a6292aa164ac21aa969168145e567202b1a90e13996317af093dd0c8db486e96",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/People/Jesse Michaels.md": {
+  "UAP Gerb Knowledge Base/People/Jesse Michels.md": {
     "humanized_at": "2026-09-25T19:16:04Z",
     "sha256": "bb6a7f5a082f70a9bee95e216c408876fef28c386fa5e4fc7cc1802a6b4edcc1",
     "cold_reader": true
@@ -4665,8 +4760,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Jim Romansky.md": {
-    "humanized_at": "2026-09-25T19:17:17Z",
-    "sha256": "d82d293517da467b8e7ccae7a4caf0e5a395f343b2055d132659478f4b3ca464",
+    "humanized_at": "2026-10-01T20:59:46Z",
+    "sha256": "c1757b17d23842ce3264365c5d9ba87495bb8aeea0627064ae32c923fe94cae6",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Jim Shell.md": {
@@ -4685,13 +4780,13 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Joey Is Not My Name.md": {
-    "humanized_at": "2026-09-25T19:17:43Z",
-    "sha256": "a15147f3944c658d25d0bdf634cded023f64cd9da44226123ac5c74e1eee52d7",
+    "humanized_at": "2026-10-01T20:49:03Z",
+    "sha256": "69e8ba354f74793cb8c95e56475eb6e6fe26d1299243aa60dfea24fcff3a4ed7",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/John B. Alexander.md": {
-    "humanized_at": "2026-09-25T19:17:43Z",
-    "sha256": "464bb28cfcc28f9e158e946eaab714e0f194fcf9f6cc129f497dc88903184198",
+    "humanized_at": "2026-10-01T20:58:47Z",
+    "sha256": "3801d147513638b63df495f536837602f421d79bf9df7a17bd79fe2909ab1431",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/John DeSouza.md": {
@@ -4700,13 +4795,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/John Deutch.md": {
-    "humanized_at": "2026-09-25T19:17:44Z",
-    "sha256": "c3bbd53dca0161fe37a3411a65bf2ecd524d09fad249cc9effe521d4c35ba691",
-    "cold_reader": true
-  },
-  "UAP Gerb Knowledge Base/People/John Deutsch.md": {
-    "humanized_at": "2026-09-25T19:19:02Z",
-    "sha256": "27013d8d8393f287715127fbbce4ced8e9dd7929167c2dddd57d27b22f58daa2",
+    "humanized_at": "2026-10-01T20:49:58Z",
+    "sha256": "c75ce6e9eaccc5dc773f23867a09bd85c7eb888422a15af449d5121b6c3437cf",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/John F. Kennedy.md": {
@@ -4715,8 +4805,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/John Greenewald.md": {
-    "humanized_at": "2026-09-25T19:19:03Z",
-    "sha256": "2dcb1715dd8c4d6bc5adf2fad3285eb505ff138f584be2bb8ef5bef4ee8067e7",
+    "humanized_at": "2026-10-01T22:05:49Z",
+    "sha256": "17679d30698ef1193046c4fb7b352a5af9ecc661295558c1c17c2a60f4356b7e",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/John Heise.md": {
@@ -4735,8 +4825,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/John P. Craven.md": {
-    "humanized_at": "2026-09-25T19:19:12Z",
-    "sha256": "d7e2892422fd995fe10bf34a5cfb0e184b2497cd24b8c7402281799e663e2654",
+    "humanized_at": "2026-10-01T21:01:21Z",
+    "sha256": "1e52de81b49e3ecc511647a3029bfeeaa8988d411e4788853e36b4dcf3f44d82",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/John P. McConnell.md": {
@@ -4745,8 +4835,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/John Podesta.md": {
-    "humanized_at": "2026-09-25T19:19:12Z",
-    "sha256": "42fadbd5c9a77bfe6612e10548710c300d446d043cbf28604476711f32114898",
+    "humanized_at": "2026-10-01T20:45:35Z",
+    "sha256": "05475690631fc18c5af0d962033e3dfcca8a3270b6c5e5f6d9a8a9c6529d1a01",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/John Ramirez.md": {
@@ -4760,13 +4850,13 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/John Von Neumann.md": {
-    "humanized_at": "2026-09-25T19:18:48Z",
-    "sha256": "edde9745d7f832688255163fcc48b84312ae5c381a55424114d13f939a24f3ef",
+    "humanized_at": "2026-10-01T20:57:02Z",
+    "sha256": "284313c260d3b6782d23699d4abe2365b9868968d87aa433b001279b53581167",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Jonathan Weygandt.md": {
-    "humanized_at": "2026-09-25T19:18:48Z",
-    "sha256": "15ef2808359c7c9cdbaa49a740afe0431d7736b0efd5e80ef75a1edd4fe4e18a",
+    "humanized_at": "2026-10-01T20:22:31Z",
+    "sha256": "6f61d350a1e7b74dc46a45b006b8920bd5b7a8c519e8f12fbbf8869014558150",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Joseph Califano.md": {
@@ -4800,8 +4890,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Karl Nell.md": {
-    "humanized_at": "2026-09-25T19:18:14Z",
-    "sha256": "70305f8cc4d10eda837c7b8ba67cf82b7d1bd9e738f6fe159a9644241cebec98",
+    "humanized_at": "2026-10-01T20:49:03Z",
+    "sha256": "7dfacae2d4ee4fb278e18ba0ffeb392caa59380d8b353ba42296de75a747378a",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Kelly Johnson.md": {
@@ -4815,8 +4905,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Kevin Knuth.md": {
-    "humanized_at": "2026-09-25T19:18:22Z",
-    "sha256": "2480baef5e2e682cfcb373a5f74c4aa90e824352c0a1f928539c8226ccc2811c",
+    "humanized_at": "2026-10-01T20:54:36Z",
+    "sha256": "ec35a259d40db539813005e243b1e51a42d79f53abb30d35a1e5251910bd298f",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Kevin Randle.md": {
@@ -4850,33 +4940,33 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Lee Graham.md": {
-    "humanized_at": "2026-09-25T19:18:05Z",
-    "sha256": "3b362119186047eadecdf42b0f7a92bcd888dde21785bf7b4ff3fd4de52f8144",
+    "humanized_at": "2026-10-01T22:09:35Z",
+    "sha256": "7b63b7d9a63ae9a9f98752b6f82482a9c333fcc1fd87ec837e0ea0e5a5b71107",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Lee M. Russ.md": {
-    "humanized_at": "2026-09-25T19:20:59Z",
-    "sha256": "d348a8d9513698ba2d61dc822ec2a05971506d9b91e2790a83f956445a15b14b",
+    "humanized_at": "2026-10-01T22:05:49Z",
+    "sha256": "2947084f244c0594745cba162b4f55042d10234d046e97400af3c19156004fa3",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Leo GeBauer.md": {
-    "humanized_at": "2026-09-25T19:20:59Z",
-    "sha256": "8a6f03039b66490f8f8f593772e49695d65a5793b8e88dacaf4c4e4fdb500ed0",
+    "humanized_at": "2026-10-01T20:54:36Z",
+    "sha256": "d56779b0ff13b73962b932987d649fd591a63e12e2e9e8aefc22410af86c7545",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Leonard Stringfield.md": {
-    "humanized_at": "2026-09-25T19:20:59Z",
-    "sha256": "5cdad4a4fef45335001f8e5d1bd3ee16b7b149029f9af79dc390e23dd248d040",
+    "humanized_at": "2026-10-01T20:27:31Z",
+    "sha256": "4ff19a9fbd4f7af84a99900dd8d2905e1452a0b5a3f2cd44eff855640fae7d7e",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Leslie Groves.md": {
-    "humanized_at": "2026-09-25T19:20:59Z",
-    "sha256": "b09d8c58030f4a6fbca630ebd210fd99d7e040ca3a894626f9bd53f8afdacfeb",
+    "humanized_at": "2026-10-01T20:42:42Z",
+    "sha256": "95b2a4904bc60078108fea9577c53e267f6a59ef36371ed05e1f165b0ac61b6b",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Leslie Kean.md": {
-    "humanized_at": "2026-09-25T19:21:00Z",
-    "sha256": "74258459f35f82e748552cf9b6cf2a08d272f8a4102240eaaacfba3ae79837ae",
+    "humanized_at": "2026-10-01T21:01:20Z",
+    "sha256": "37d2d90c39fbe18a868e467d09c6a92283795c5eed9003f64a753a5b71c897f6",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Linda Moulton Howe.md": {
@@ -4905,13 +4995,13 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Luis Elizondo.md": {
-    "humanized_at": "2026-09-25T19:21:24Z",
-    "sha256": "228f4ed577131e1fe60211ccf1b3f7b83bf1c405aecddedc43b94e378d2d8a0f",
+    "humanized_at": "2026-10-01T20:27:32Z",
+    "sha256": "0716f212575d66fc2998c1675168ba12e1bc3b8dda457ac1cf10aae991e29390",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Lyndon B. Johnson.md": {
-    "humanized_at": "2026-09-25T19:21:24Z",
-    "sha256": "8aefe074b99e96c4dc0a27507f674f8fc35dbb68d8421200bdf399457a06f3ed",
+    "humanized_at": "2026-10-01T20:57:02Z",
+    "sha256": "0beb4f8b31194431c19864c7f4aa87dcb34783ae8f7313296688793fc02dbbb3",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/M. Harmon.md": {
@@ -4950,8 +5040,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Mark McCandlish.md": {
-    "humanized_at": "2026-09-25T19:21:01Z",
-    "sha256": "9030afa07e2df1a993f7c9039f520d9517e780e9bd951cb2c48dcd849a3c62f6",
+    "humanized_at": "2026-10-01T20:28:04Z",
+    "sha256": "b4382fa8e40b06e79a58a3fd8cb287201bc5221ec32553b48df91c7e63566876",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Mark Moynihan.md": {
@@ -4979,14 +5069,14 @@
     "sha256": "3074b53fced44323a831b330e4528afc797c6fb5d2fb829df859f96ab07ab69e",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/People/Mary K. Sturdivant.md": {
-    "humanized_at": "2026-09-25T19:20:46Z",
-    "sha256": "4e869a2037b6b64f41b0cea09596edb328a6bc905b5fa279a0e9ddfefb105d32",
+  "UAP Gerb Knowledge Base/People/Mary K. Sturtevant.md": {
+    "humanized_at": "2026-10-01T22:05:06Z",
+    "sha256": "68f51fad1cdbd41806fb00976ed6286598d98c2977fd154117ec3e944ec276b5",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Matt Brown.md": {
-    "humanized_at": "2026-09-25T19:19:59Z",
-    "sha256": "3f909388a340313f10443ffe05e9afe111ecdf34c04870b9f4dba529f137b243",
+    "humanized_at": "2026-10-01T22:10:02Z",
+    "sha256": "d7471cd1c5e8c13ee362dbd9ec1c0bccc2429b8667659ca802961c232fcd43be",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Matthew Pines.md": {
@@ -5010,8 +5100,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Michael Herrera.md": {
-    "humanized_at": "2026-09-25T19:23:53Z",
-    "sha256": "2769c850e057d4d9b70c963ca9b4d5983e5c12bd87ccea19bfb102cbe84d969a",
+    "humanized_at": "2026-10-01T20:27:32Z",
+    "sha256": "f2a32e9566f4c138cf2cee4d524d70ffb5b54bbc25adcb1e9d38a28d412d04fa",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Michael Johnstone.md": {
@@ -5095,8 +5185,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Nicholas Johnson.md": {
-    "humanized_at": "2026-09-25T19:21:46Z",
-    "sha256": "fe44daa44819b6a72d3c511d8bfc4c61bf857db437409a116dbc14eb8341a43a",
+    "humanized_at": "2026-10-01T22:09:20Z",
+    "sha256": "d33b43001da0a2f4f9402f501eb5dda973d7e220da08f2ef827c17b14c867300",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Nicholas Sarkozy.md": {
@@ -5105,13 +5195,13 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Nick Cook.md": {
-    "humanized_at": "2026-09-25T19:23:40Z",
-    "sha256": "9078e2b0e9786d0fde13ae63cbd4843e25e9cf86cf2ca1afa5a36ef8cc87b175",
+    "humanized_at": "2026-10-01T22:05:06Z",
+    "sha256": "fc7e961cfe94e63fd73a14935932c335e1772fffcae9a1ed26f77763a5b0ffcf",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Nick Redfern.md": {
-    "humanized_at": "2026-09-25T19:23:40Z",
-    "sha256": "983850962055c45b6f7d139c3e7c741c08d3aa10960bbf0d38bdbb1d449475b8",
+    "humanized_at": "2026-10-01T22:10:01Z",
+    "sha256": "f3e6ab0ba0ba9c500561fa36a81ed71cb5769efb9de5e524d9f52bb985b2ab07",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Nikolai Kardashev.md": {
@@ -5125,8 +5215,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Oak Shannon.md": {
-    "humanized_at": "2026-09-25T19:23:41Z",
-    "sha256": "ae906c95ca382a069e6997f2eafb9271a53f3ca7db53cad0c6eb0ef55a00c86b",
+    "humanized_at": "2026-10-01T22:05:13Z",
+    "sha256": "4c70a367fb24adbcceca5269e951aef50daebce147d8650207753b2c25f9f811",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Orville Freeman.md": {
@@ -5190,8 +5280,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Philip J. Corso.md": {
-    "humanized_at": "2026-09-25T19:25:53Z",
-    "sha256": "e249632da4534d0c48b8a2c06631c84dd076842cd5b6e3698f03307393519528",
+    "humanized_at": "2026-10-01T20:27:32Z",
+    "sha256": "a135964d0f9ea288bd20b6a1f924289cabecb1577bc2fcdf0b3adb3ca3d6257e",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Philip Mantle.md": {
@@ -5205,8 +5295,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/RA.md": {
-    "humanized_at": "2026-09-25T19:24:16Z",
-    "sha256": "c8b2a2956df8f2c02a9d12596eaca2743b3050d55029254876791a4aae9cb4e3",
+    "humanized_at": "2026-10-01T22:09:35Z",
+    "sha256": "0eec2b862f834e18a46209c4da13e6be7f9b3eed4b1b4f27a904a6995869da4c",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/RB.md": {
@@ -5225,23 +5315,23 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Randall G. Walden.md": {
-    "humanized_at": "2026-09-25T19:24:16Z",
-    "sha256": "efe8566171cd5e8fea456c824958b9be7e1d8a70a9e7b2b744e8779bfbaae6ca",
+    "humanized_at": "2026-10-01T20:49:03Z",
+    "sha256": "1d4dc4cfb1d5e1f9b45a9e8e689d5acc2975fc0bd60e6be041cdd301946c1a7b",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Randy Anderson.md": {
-    "humanized_at": "2026-09-25T19:24:16Z",
-    "sha256": "ad9ec3344196124380a8b30afe97fa70588af9dc81ed3ba594a97400f3d9425e",
+    "humanized_at": "2026-10-01T20:54:36Z",
+    "sha256": "565270e2cf09e1286d8d34024bfe6ee4e12f4c4250cea4e328066ea0db8af7e7",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Raymond Fowler.md": {
-    "humanized_at": "2026-09-25T19:23:54Z",
-    "sha256": "7a461ec7581f22dd0440fb3b8d152b5002dcec2ab930c4a51d7cd6c63448b147",
+    "humanized_at": "2026-10-01T22:09:20Z",
+    "sha256": "957fc482820c385512b3e196c5b8889e7ecb10577975bb91bf8ef09c37d411b7",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Rear Admiral Timothy Gallaudet.md": {
-    "humanized_at": "2026-09-25T19:23:54Z",
-    "sha256": "1de58581006a804eb836f49f5d5d3323de5bd2d38047172d5d1a5da7b20a64a2",
+    "humanized_at": "2026-10-01T22:09:20Z",
+    "sha256": "cdfe6dece57b3566719c91340987e76352d6b7a6f78e41617c25728f291a42bb",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Representative Moskowitz.md": {
@@ -5265,8 +5355,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Richard Dolan.md": {
-    "humanized_at": "2026-09-25T19:23:18Z",
-    "sha256": "e83538e931c2f8e4a3b21c29cbc18087915fad336ebd3bcb98807e49abc7e4ec",
+    "humanized_at": "2026-10-01T20:59:46Z",
+    "sha256": "424339b20c79b2c876ecc51660416fb01e4f47dca2f1ba700460fee4165ac9dc",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Richard Doty.md": {
@@ -5315,8 +5405,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Robert Cardillo.md": {
-    "humanized_at": "2026-09-25T19:25:16Z",
-    "sha256": "5bd99737c349ae0c8a300a1af384c0ac91e30c1479ef50a797d034fe38a44030",
+    "humanized_at": "2026-10-01T20:49:58Z",
+    "sha256": "d03f05765bc9a0c7062132e818f60d6a58e7d4918e326a9eb2caa728d4c246e4",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Robert D. Morning Star.md": {
@@ -5335,8 +5425,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Robert Jacobs.md": {
-    "humanized_at": "2026-09-25T19:25:07Z",
-    "sha256": "be5015b308842715318921c18fcf65abdaf4d058228d91b621aa3ccc41172318",
+    "humanized_at": "2026-10-01T20:24:50Z",
+    "sha256": "689514efb2f944288bd611ed2656d9ae79865ac66b38a72c5000b9b48e559cff",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Robert M. Powell.md": {
@@ -5360,8 +5450,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Robert Salas.md": {
-    "humanized_at": "2026-09-25T19:26:53Z",
-    "sha256": "2661278d19b4adcfe2301d816b680534f49537fa4dee527c0b84e40a4aff0b8c",
+    "humanized_at": "2026-10-01T21:04:39Z",
+    "sha256": "a103127a35bcc22efe2622a15252409c6d532ce467250bdad9a7611fcdfb79fc",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Robert Sarbacher Jr..md": {
@@ -5370,8 +5460,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Robert Sarbacher.md": {
-    "humanized_at": "2026-09-25T19:26:54Z",
-    "sha256": "671107e50be8de671247fe8e8ce5f986bb6e3a302b0e5593606f4e88fc07715b",
+    "humanized_at": "2026-10-01T20:28:04Z",
+    "sha256": "46269bde31f13226f228ba37cece151cfb306d9baf1c6c30e7283dbf287aff3c",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Robert Scandrett.md": {
@@ -5385,13 +5475,13 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Robert Willingham.md": {
-    "humanized_at": "2026-09-25T19:27:52Z",
-    "sha256": "79329e780e77360ff1848f4e22d1cbf1e5ab43c7ede204a56a4bc9a52f7230e6",
+    "humanized_at": "2026-10-01T20:35:29Z",
+    "sha256": "c514bd2a953a2b34d67adceb1f251d068583934a2f3b61457547d2ba405c9d8f",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Robert Wood.md": {
-    "humanized_at": "2026-09-25T19:27:52Z",
-    "sha256": "34adcbdd62c44f19c8434fe1c81e0cb993bbf709a49c8581c9f56cb68bef701e",
+    "humanized_at": "2026-10-01T20:39:41Z",
+    "sha256": "4063aa704431a56a8a4edd4808a46994880428f0783f9339d0262a61e3c31b8d",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Roberto Pinotti.md": {
@@ -5400,8 +5490,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Rodrik Castle.md": {
-    "humanized_at": "2026-09-25T19:27:53Z",
-    "sha256": "2cddfe962ba89186a03d6ff7977d56af36816d97a725c16697756b8424c4473d",
+    "humanized_at": "2026-10-01T20:27:32Z",
+    "sha256": "a054b98e5f5f7a7b70c035a064aba7078137a521e81a5d133eec7b9cb74a7b0e",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Ron Blackburn.md": {
@@ -5415,8 +5505,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Ronald S. Moultrie.md": {
-    "humanized_at": "2026-09-25T19:26:14Z",
-    "sha256": "6b20f0a5053adf33389527cbfcf8640bc937bdade810e12fd02a63bf450e94be",
+    "humanized_at": "2026-10-01T22:09:20Z",
+    "sha256": "972e0459e9e0f36a93554763e1359acad26a837c32fe9dad700af12ce268eb67",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Roscoe H. Hillenkoetter.md": {
@@ -5425,18 +5515,18 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Ross Coulthart.md": {
-    "humanized_at": "2026-09-25T19:26:14Z",
-    "sha256": "4fe8db79dd06cfed3487456ea58a6cfa6a77d56d4e86ccd187a0230df124f69b",
+    "humanized_at": "2026-10-01T22:10:01Z",
+    "sha256": "f4538f140e4158fce892e7f45f0093f89d8a7e8615565b04a0b0ca71ba79ce6d",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Ruben Uriarte.md": {
-    "humanized_at": "2026-09-25T19:27:34Z",
-    "sha256": "988f3ab4fdd924d01090e1e32dcdf12b064d3960b2478faecf5ff374d0be232d",
+    "humanized_at": "2026-10-01T21:01:21Z",
+    "sha256": "82571b9b30be2db3530773e8a3bbfc35d433d4636dd963aa3c48cad549a39762",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/People/Russell E. Wiler.md": {
-    "humanized_at": "2026-09-25T19:27:34Z",
-    "sha256": "5c362bdd73a03f9e981deef96c47ad6dfb5029a43fb09f8be6f7468538a38d87",
+  "UAP Gerb Knowledge Base/People/Russell E. Wyler.md": {
+    "humanized_at": "2026-10-01T22:10:01Z",
+    "sha256": "6ba0fbd9a7fabc2befd5e335fffa763c49265161b36248d46321c6c757fafa09",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Ryan Graves.md": {
@@ -5445,8 +5535,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Ryan S. Wood.md": {
-    "humanized_at": "2026-09-25T19:27:35Z",
-    "sha256": "df123f4af16caef7bacf564d725606b073690a57d0822764e7ff05ad0d3b7d3e",
+    "humanized_at": "2026-10-01T20:37:50Z",
+    "sha256": "0bfb75c2fb3a52595ef242612bd91b4fd1460b50c0a876c9af716c3c660ff66f",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Ryan W Harris.md": {
@@ -5465,13 +5555,13 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Scott and Suzanne Ramsey.md": {
-    "humanized_at": "2026-09-25T19:27:09Z",
-    "sha256": "cad71846c9a5069867ca5b21008a774d5d5e50efbc892aa24b538e462dcd203f",
+    "humanized_at": "2026-10-01T22:05:13Z",
+    "sha256": "c33929112a04f27f4ecfe10fc435d8e5ee3f4c73030e9c22bd1ebb0f905ce2bb",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Sean Kirkpatrick.md": {
-    "humanized_at": "2026-09-25T19:27:10Z",
-    "sha256": "5b50f5917b578af93383c26744370196066d337df4ea87aa436883438d5dea1b",
+    "humanized_at": "2026-10-01T20:28:03Z",
+    "sha256": "50a60d238d79ddd8426687799a0ea34c06d94bf12626c828e8602d37d1f1a211",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Sergeant Allen.md": {
@@ -5495,8 +5585,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Silas Newton.md": {
-    "humanized_at": "2026-09-25T19:27:02Z",
-    "sha256": "8e72afd6e907e278c75e1c74ea142dc9ec0e739bb4ab385d16a8ea8e4c0a4512",
+    "humanized_at": "2026-10-01T20:35:29Z",
+    "sha256": "7f1659bc758967c6498e3f426df99b20b769651c3257bdf66c73503cb7ff83f7",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Solomon Andrews.md": {
@@ -5505,23 +5595,23 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Stan Gordon.md": {
-    "humanized_at": "2026-09-25T19:28:55Z",
-    "sha256": "908eb8a75f02d5f25b403aefd05970c2d528ee5be6aca6e0a09172483d3081fb",
+    "humanized_at": "2026-10-01T21:01:20Z",
+    "sha256": "50057723ee1a867f22b34dd20100d1761b9363cbb616b9973e6babfd3bab1e84",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Stanton Friedman.md": {
-    "humanized_at": "2026-09-25T19:28:55Z",
-    "sha256": "56bdf5554ed25a1b33674788d426fd44355ec7020cd5b0dd53d719243d030a63",
+    "humanized_at": "2026-10-01T20:41:07Z",
+    "sha256": "43844841e94f8d41df0c9fe346e112c0943218e97f1e17f344b4dde0c1a81028",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Stephanie O'Sullivan.md": {
-    "humanized_at": "2026-09-25T19:28:55Z",
-    "sha256": "993bbf789271e8e83e388c499ab73a1dfa87ab462e23004275726d4cd277460e",
+    "humanized_at": "2026-10-01T20:42:42Z",
+    "sha256": "18b099b87e2efa60a2f707841ed1aea1dca2776a81472914cef316afd9a85491",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Steve Wilson.md": {
-    "humanized_at": "2026-09-25T19:28:56Z",
-    "sha256": "35129542c645b43d6826fb6baaa9dc598d1291cb966ec15420a4861d8e78a0bb",
+    "humanized_at": "2026-10-01T20:45:35Z",
+    "sha256": "76b3e44d9dcae2a19569f5803fca48bd2339bb828378ffcad0ff3f8751ec11e1",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Steven Greenstreet.md": {
@@ -5530,13 +5620,13 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Steven Greer.md": {
-    "humanized_at": "2026-09-25T19:27:35Z",
-    "sha256": "1aa14e8ecda3ab6698aaedf8cda6472afe2d04261fa8568ed9ec249d403ff28a",
+    "humanized_at": "2026-10-01T20:24:50Z",
+    "sha256": "93611844a16ac5b064815f5470ccba0344bb08551ecb53b55f5dc7ea43e3bd5f",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Steven Lovekin.md": {
-    "humanized_at": "2026-09-25T19:27:36Z",
-    "sha256": "45caa706e2ec80a51609486a581163a667581d4fa5aaf37302cf5d9e430e439c",
+    "humanized_at": "2026-10-01T22:17:14Z",
+    "sha256": "9c6795f76213c9d9032510885258e31d3a96622d6adfc30eff6056ad5d8f0377",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Steven Schiff.md": {
@@ -5554,9 +5644,9 @@
     "sha256": "2bb34c0f04edb220abdcc1401858aef717e535fd148ea291847726c878d3a1db",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/People/Sumar Shapiro.md": {
-    "humanized_at": "2026-09-25T19:27:37Z",
-    "sha256": "fccd27ffd4ff257d12aa3f29f94eea0a8e8dcbc337d91dbe47a2c6fcfe363c15",
+  "UAP Gerb Knowledge Base/People/Sumner Shapiro.md": {
+    "humanized_at": "2026-10-01T20:45:35Z",
+    "sha256": "b572641509bed1c8a178d77387322b9d06a2891e75d494132627e031c6be7fb8",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Susan Gordon.md": {
@@ -5585,13 +5675,13 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Terry Phillips.md": {
-    "humanized_at": "2026-09-25T19:27:53Z",
-    "sha256": "0940704bcf54f12da9f0f66acdb916984d0443ed04e87b17b30e517c1dfee8fe",
+    "humanized_at": "2026-10-01T20:27:33Z",
+    "sha256": "bb3657a8185af71a88bda4c66be0ec06bb36b45397c7f1d829432b2a30111a5c",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/The Insider.md": {
-    "humanized_at": "2026-09-25T19:27:54Z",
-    "sha256": "b0b60c491bc513dc18f6df4d64f4f00578fee9a92dc2ed2d4e829a96b78f4d13",
+    "humanized_at": "2026-10-01T21:04:39Z",
+    "sha256": "6816e9a73951ffaf753f6cb67199a8a88fcb34a4472c7902da6894d7266b7bb1",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Thomas Cantwheel.md": {
@@ -5605,8 +5695,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Thomas Wilson.md": {
-    "humanized_at": "2026-09-25T19:30:05Z",
-    "sha256": "25cc42886a4892c5cd05a86fb4fd2f8030e44c001384a88fabc4ea1caf0257fe",
+    "humanized_at": "2026-10-01T20:28:03Z",
+    "sha256": "a9d04d1068be20e8ded617ad8e33e9baa11583e3ee3fb5b2949e5df73630ffde",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Thornton Page.md": {
@@ -5615,13 +5705,13 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Tim Burchett.md": {
-    "humanized_at": "2026-09-25T19:30:06Z",
-    "sha256": "3a421692536f8268602f20666f4d1b0faddbdc304bab94fc2d2d3a5cd6f24d99",
+    "humanized_at": "2026-10-01T22:17:14Z",
+    "sha256": "51aa4ec99134f9cbcba1ce4d784246c971a2513bbcd8ac0ee5f61410dddf5d37",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Tim Cooper.md": {
-    "humanized_at": "2026-09-25T19:30:06Z",
-    "sha256": "117fcde5a7fb2d927c6fc29d382c8e3cb51d646a1a6ca3d45d0fd6e193db669f",
+    "humanized_at": "2026-10-01T20:49:03Z",
+    "sha256": "515a63cc564929195fbe01c334115b9c9d49a7a9e0a70fd047be2f664cb1deac",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Tim Schwartz.md": {
@@ -5655,8 +5745,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Vannevar Bush.md": {
-    "humanized_at": "2026-09-25T19:29:57Z",
-    "sha256": "b2444917f2fdecfa37ec43d28572a0972755989bad1719a8ff8ea11593b8c3d4",
+    "humanized_at": "2026-10-01T20:24:50Z",
+    "sha256": "24a8a35a5ec5a1a6135758ed8cbaa890dea07b175f5a2bc1079d3ec215e1fa4d",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Victor Marchetti.md": {
@@ -5685,18 +5775,18 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Wernher von Braun.md": {
-    "humanized_at": "2026-09-25T19:30:52Z",
-    "sha256": "5c75167051ec2a773152a2e2845e367855f218d1c776b1e877e8345ade979584",
+    "humanized_at": "2026-10-01T22:05:13Z",
+    "sha256": "b8655ee47acc99fc9f6e6ee51d541b9d7af4b866a1ca1007f7abb8af5a9f31cc",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Wilbert B. Smith.md": {
-    "humanized_at": "2026-09-25T19:30:52Z",
-    "sha256": "f1bc92287f9da1e549534c6685c2ba2649aed3be8337aeb0a8009c522f7a650e",
+    "humanized_at": "2026-10-01T20:41:07Z",
+    "sha256": "fa57ee27279abd53eca022c8babced489cab14b8e1384e4dda0534038af3defe",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Will Miller.md": {
-    "humanized_at": "2026-09-25T19:30:53Z",
-    "sha256": "51a6e9f59bf546d80e46def67b652e5ef5acb6642fba60540a25a7d92523cb83",
+    "humanized_at": "2026-10-01T20:42:42Z",
+    "sha256": "b98334cf0795f0b0d6e08b0433e3fdc21726cfd5fc345f8be7cd510eaddd2e1b",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/William A. Owens.md": {
@@ -5745,8 +5835,8 @@
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/William Steinman.md": {
-    "humanized_at": "2026-09-25T19:30:15Z",
-    "sha256": "5a20887563bf1ff8a1f2035e048442a4c7802d8651c64755d22ae7d0e72de710",
+    "humanized_at": "2026-10-01T20:22:32Z",
+    "sha256": "8e0674ab5f08f350f6bc0330ccc0f516038315e624e033208187e653b28499ac",
     "cold_reader": true
   },
   "UAP Gerb Knowledge Base/People/Xaver Dorsch.md": {
@@ -6109,6 +6199,11 @@
     "sha256": "22a2ca2dfa7054bc0581f392a17a8492996ab518c377dd52b168372472928a46",
     "cold_reader": true
   },
+  "app/app/components/home/HomeMostReferenced.vue": {
+    "humanized_at": "2026-10-01T20:24:50Z",
+    "sha256": "837612a2e2db7b7d8594b8e9e2147e481c5c32db93f2ac13f13c33757ce7a897",
+    "cold_reader": true
+  },
   "app/app/components/wiki/ChainSequence.vue": {
     "humanized_at": "2026-09-25T16:52:11Z",
     "sha256": "4b12dcf01ecfa62503c2023544f76095ef862f2bb984d80f120097a6ca8a3f30",
@@ -6235,8 +6330,8 @@
     "cold_reader": true
   },
   "app/app/utils/record.ts": {
-    "humanized_at": "2026-10-01T18:23:25Z",
-    "sha256": "57db3b14e3b9769bfc233c6a4a38baa64de8fe0bf62dd21bc95e53a0ffc98ddc",
+    "humanized_at": "2026-10-01T20:41:07Z",
+    "sha256": "0c9974fca0b84ef5b5e56a67d97e674e61b417f330ec8af641d31210a96b24ac",
     "cold_reader": true
   },
   "app/app/utils/timeline.ts": {

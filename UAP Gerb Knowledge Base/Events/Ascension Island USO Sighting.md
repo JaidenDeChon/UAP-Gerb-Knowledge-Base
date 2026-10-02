@@ -5,7 +5,7 @@ tags:
   - event
 ---
 
-The Ascension Island USO Sighting occurred on June 25, 1960, during the [[Missile Test 1802 Data Recovery]] operation near [[Ascension Island]] in the South Atlantic. Several technical witnesses, among them an [[RCA]] photographer and test observer, the missile recovery dive team and the aircraft crew, saw a light emerge from beneath the ocean surface near the data cassette they were recovering. [[Project Blue Book]] attributed the sighting to a flare, but the investigation confirmed no flare was released at the location. Gerb connects this case to [[Luis Elizondo]]'s account of a Navy helicopter crew and frogman encountering a massive [[Unidentified Submerged Object (USO)]] during a similar missile recovery operation.
+The Ascension Island USO Sighting occurred on June 25, 1960, during the [[Missile Test 1802 Data Recovery]] operation near [[Ascension Island]] in the South Atlantic. Several technical witnesses, among them an RCA photographer and test observer, the missile recovery dive team and the aircraft crew, saw a light emerge from beneath the ocean surface near the data cassette they were recovering. [[Project Blue Book]] attributed the sighting to a flare, but the investigation confirmed no flare was released at the location. Gerb connects this case to [[Luis Elizondo]]'s account of a Navy helicopter crew and frogman encountering a massive [[Unidentified Submerged Object (USO)]] during a similar missile recovery operation.
 
 ## Incident Description
 

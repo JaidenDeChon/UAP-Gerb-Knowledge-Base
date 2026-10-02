@@ -301,6 +301,21 @@ export interface PersonProfile {
   channelSpan: [string, string] | null
 }
 
+/* ------------------------------------------------------------- top lists -- */
+
+/** One of the most referenced entries of its kind, as `/api/top` serves it. */
+export interface TopEntry extends NoteRef {
+  /** First paragraph, trimmed (from the baked preview). */
+  lead: string
+  /** Distinct entries that link to it. */
+  links: number
+  /** Video summaries among them. */
+  videos: number
+}
+
+/** The most referenced entries of each kind, in `CATEGORY_ORDER`. */
+export type TopEntries = { category: Category, entries: TopEntry[] }[]
+
 /* ---------------------------------------------------------------- videos -- */
 
 /** A video summary as `/api/videos` serves it — enough to render a card. */

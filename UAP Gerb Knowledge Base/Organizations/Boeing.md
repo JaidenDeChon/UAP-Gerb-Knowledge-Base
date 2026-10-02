@@ -5,7 +5,7 @@ tags:
   - organization
 ---
 
-Boeing is an American multinational aerospace and defense corporation. It is one of the major contractors alleged to have helped develop the [[TR-3B]] and other reverse-engineered craft. [[Edgar Fouché]] named Boeing, [[Lockheed Martin]], [[Northrop Grumman]], and Teledyne Ryan as the primary contractors doing compartmentalized R&D for the TR-3B program.
+Boeing is an American multinational aerospace and defense corporation. It is one of the major contractors alleged to have helped develop the [[TR-3B]] and other reverse-engineered craft. [[Edgar Fouche|Edgar Fouché]] named Boeing, [[Lockheed Martin]], [[Northrop Grumman]], and Teledyne Ryan as the primary contractors doing compartmentalized R&D for the TR-3B program.
 
 Boeing, Northrop Grumman, and Lockheed Martin are the three contractors with classified RDT&E access to [[Air Force Plant 42]] in Palmdale, California. A witness known as "Ed," director of the 412th Electronic Warfare Group at [[Edwards Air Force Base]], said he worked alongside Boeing and Lockheed on reverse-engineered craft systems at the [[Nellis Air Force Base|Nellis range]]. Stealth aircraft researcher John Joseph claimed Boeing was the primary contractor on Project Brilliant, a [[Strategic Defense Initiative (SDI)]] program meant to deploy an electromagnetic shield around the United States using a boomerang-shaped craft that could loiter over cities.
 

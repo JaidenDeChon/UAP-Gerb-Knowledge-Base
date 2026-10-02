@@ -14,7 +14,7 @@ Journal evidence confirms that this anti-gravity research took place within RIAS
 
 ## Corporate Lineage Significance
 
-The Glenn L. Martin Company became Martin Marietta, which merged with Lockheed Corporation in 1995 to form [[Lockheed Martin]]. Whitten's account therefore places anti-gravity research in the direct institutional ancestry of Lockheed Martin. It traces a line of research from the 1955 experiments at RIAS to later theoretical work by [[Bernard Haisch]] and [[Hal Puthoff]] at the [[Lockheed Martin Advanced Technology Center (ATC)]] in 1998.
+The Glenn L. Martin Company became Martin Marietta, which merged with Lockheed Corporation in 1995 to form [[Lockheed Martin]]. Whitten's account therefore places anti-gravity research in the direct institutional ancestry of Lockheed Martin. It traces a line of research from the 1955 experiments at RIAS to later theoretical work by [[Bernard Haisch]] and [[Hal Puthoff]] at the [[Advanced Technology Center (ATC)|Lockheed Martin Advanced Technology Center (ATC)]] in 1998.
 
 ## Sources
 

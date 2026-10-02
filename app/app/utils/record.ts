@@ -82,7 +82,7 @@ const KIND_ALIASES: Record<string, RecordKind> = {
   suit: 'lawsuit',
 }
 
-export function normalizeKind(value: unknown): RecordKind {
+export function normalizeRecordKind(value: unknown): RecordKind {
   const s = String(value ?? '').trim().toLowerCase()
   if ((RECORD_KINDS as readonly string[]).includes(s)) return s as RecordKind
   return KIND_ALIASES[s] ?? 'other'
@@ -161,7 +161,7 @@ export function buildRecord(items: RecordInput[]): { items: RecordItem[], kinds:
       key: `${i}:${title}`,
       date,
       shownDate: date ? formatDate(date) : '',
-      kind: normalizeKind(item.kind),
+      kind: normalizeRecordKind(item.kind),
       title,
       where: str(item.where),
       with: [...new Set(withList)],

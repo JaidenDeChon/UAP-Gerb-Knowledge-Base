@@ -23,7 +23,7 @@ The [[RS-33 (Gabinetto RS 33)]] protocol explicitly barred "pontifical universit
 
 ## Precedent for Government Use of Scientific Authority
 
-The Brera Observatory attribution in the Magenta case set a pattern in which governments cite respected scientific institutions to make UFO debunking stories credible. The practice was repeated in later cases around the world. In the United States, for example, the cover story for the [[1947 Roswell Crash]] identified the object as a meteorological balloon, and Project Blue Book routinely dismissed UAP sightings with scientific-sounding explanations such as temperature inversions, Venus or swamp gas, sometimes without consulting any actual expert.
+The Brera Observatory attribution in the Magenta case set a pattern in which governments cite respected scientific institutions to make UFO debunking stories credible. The practice was repeated in later cases around the world. In the United States, for example, the cover story for the [[Roswell Crash|1947 Roswell Crash]] identified the object as a meteorological balloon, and Project Blue Book routinely dismissed UAP sightings with scientific-sounding explanations such as temperature inversions, Venus or swamp gas, sometimes without consulting any actual expert.
 
 ## Institutional Reputation
 
