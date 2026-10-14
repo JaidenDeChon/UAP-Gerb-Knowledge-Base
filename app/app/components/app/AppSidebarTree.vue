@@ -1,34 +1,20 @@
 <script setup lang="ts">
-import type { Component } from 'vue'
 import { computed, watch } from 'vue'
-import {
-  Atom,
-  Building2,
-  CalendarClock,
-  ChevronRight,
-  Clapperboard,
-  Compass,
-  Crosshair,
-  Earth,
-  FileText,
-  Folder,
-  House,
-  MapPin,
-  Radar,
-  Users,
-} from '@lucide/vue'
-import {
-  CATEGORY_ICON,
-  type Category,
-  type TreeFolder,
-  type TreeItem,
-} from '#shared/types/wiki'
+import { ChevronRight, FileText } from '@lucide/vue'
+import type { TreeItem } from '#shared/types/wiki'
 import { Collapsible, CollapsibleContent, CollapsibleTrigger } from '@/components/ui/collapsible'
+import { ancestorsOf, folderIcon, folderLabel, navIcon, sectionIcon } from '~/utils/sidebarNav'
 
 defineOptions({ name: 'AppSidebarTree' })
 
-const props = withDefaults(defineProps<{ items?: TreeItem[], depth?: number }>(), {
+const props = withDefaults(defineProps<{
+  items?: TreeItem[]
+  depth?: number
+  /** Px taken off every row's indent: the rail's popovers start a level deep. */
+  indentOffset?: number
+}>(), {
   depth: 0,
+  indentOffset: 0,
 })
 
 const isRoot = props.items === undefined
@@ -37,39 +23,11 @@ const route = useRoute()
 // Only the root instance fetches; every nested instance receives `items` as a prop.
 const tree = isRoot ? useTree().data : null
 const entries = computed<TreeItem[]>(() => props.items ?? tree?.value ?? [])
-const indentPx = computed(() => 12 + props.depth * 16)
+const indentPx = computed(() => 12 + props.depth * 16 - props.indentOffset)
 
 // Expansion + "has ever been opened" persist globally so state survives remounts.
 const expanded = useState<Record<string, boolean>>('shell:tree', () => ({}))
 const opened = useState<Record<string, boolean>>('shell:tree:opened', () => ({}))
-
-const ICONS: Record<string, Component> = {
-  'compass': Compass,
-  'users': Users,
-  'building-2': Building2,
-  'crosshair': Crosshair,
-  'calendar-clock': CalendarClock,
-  'map-pin': MapPin,
-  'atom': Atom,
-  'clapperboard': Clapperboard,
-}
-
-function sectionIcon(item: TreeFolder): Component {
-  return ICONS[CATEGORY_ICON[item.name as Category]] ?? Folder
-}
-
-function folderIcon(item: TreeFolder): Component {
-  return item.id.startsWith('Videos/') ? Clapperboard : Folder
-}
-
-// The `MOCs` folder reads as an acronym; spell it out in the sidebar.
-const FOLDER_LABEL: Record<string, string> = {
-  MOCs: 'Maps of Content',
-}
-
-function folderLabel(item: TreeFolder): string {
-  return FOLDER_LABEL[item.id] ?? item.name
-}
 
 // Ancestors of the active route, derived at render time so SSR and the client's
 // first render agree (a watcher would run before async tree data resolves on the
@@ -91,38 +49,10 @@ function isActive(path: string): boolean {
   return route.path === path
 }
 
-// The tree's leading `Home` (`/`), `Site map` (`/map`) and `World map` (`/world`) rows are app-wide nav,
-// not vault content — styled like the mono `//` category headers below them
-// rather than the plain note-row treatment used for actual wiki pages.
-const NAV_ICON: Record<string, Component> = {
-  '/': House,
-  '/map': Radar,
-  '/world': Earth,
-}
-
-function navIcon(path: string): Component | undefined {
-  return NAV_ICON[path]
-}
-
 function setOpen(id: string, value: boolean): void {
   expanded.value[id] = value
   if (value)
     opened.value[id] = true
-}
-
-function ancestorsOf(list: TreeItem[], target: string, trail: string[] = []): string[] | null {
-  for (const item of list) {
-    if (item.type === 'note') {
-      if (item.path === target)
-        return trail
-    }
-    else {
-      const found = ancestorsOf(item.children, target, [...trail, item.id])
-      if (found)
-        return found
-    }
-  }
-  return null
 }
 
 if (isRoot) {
@@ -194,7 +124,7 @@ if (isRoot) {
         </CollapsibleTrigger>
         <CollapsibleContent>
           <div v-if="isOpened(item.id)" class="pb-1">
-            <AppSidebarTree :items="item.children" :depth="depth + 1" />
+            <AppSidebarTree :items="item.children" :depth="depth + 1" :indent-offset="indentOffset" />
           </div>
         </CollapsibleContent>
       </Collapsible>
@@ -219,7 +149,7 @@ if (isRoot) {
         </CollapsibleTrigger>
         <CollapsibleContent>
           <div v-if="isOpened(item.id)">
-            <AppSidebarTree :items="item.children" :depth="depth + 1" />
+            <AppSidebarTree :items="item.children" :depth="depth + 1" :indent-offset="indentOffset" />
           </div>
         </CollapsibleContent>
       </Collapsible>

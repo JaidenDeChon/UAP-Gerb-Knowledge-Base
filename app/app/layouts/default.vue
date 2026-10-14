@@ -86,6 +86,11 @@ router.beforeEach((to, from) => {
   display: none;
 }
 
+/* The sidebar's width: the full 280px, or the 64px icon rail on desktop. */
+.ufo-sidebar {
+  width: 280px;
+}
+
 @media (max-width: 900px) {
   .ufo-sidebar {
     position: fixed;
@@ -101,6 +106,15 @@ router.beforeEach((to, from) => {
   .ufo-menu-btn {
     display: inline-flex;
   }
+  .ufo-collapse-btn {
+    display: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ufo-sidebar {
+    transition: none !important;
+  }
 }
 
 @media (min-width: 901px) {
@@ -108,6 +122,10 @@ router.beforeEach((to, from) => {
     position: sticky;
     top: 0;
     height: 100dvh;
+    transition: width var(--dur-slow) var(--ease-out);
+  }
+  .ufo-sidebar.is-collapsed {
+    width: 64px;
   }
   .ufo-scrim {
     display: none;
