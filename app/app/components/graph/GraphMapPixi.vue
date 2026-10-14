@@ -240,7 +240,7 @@ const listHover = shallowRef<number | null>(null)
 /** The camera should glide to the fan once the next pin is laid out. */
 let flyPending = false
 /** Pan the camera is gliding toward, or null. */
-let fly: { x: number, y: number } | null = null
+let fly: { x: number, y: number, k: number } | null = null
 
 /**
  * Pin `i` (null closes). `walk` keeps the current pin on the Back trail —
@@ -300,6 +300,9 @@ const camera = useMapCamera(containerRef, {
     focusDirty = true
     dirty = true
   },
+  // A fifth of the whole-map fit: room to shrink a big pinned fan right down,
+  // without letting the map vanish into a speck.
+  minZoom: () => overviewK > 0 ? overviewK * 0.2 : 0,
 })
 
 function hitTest(sx: number, sy: number): number | null {
@@ -315,10 +318,7 @@ function clearNodeHover(): void {
 }
 
 watch([camera.pan, camera.k], ([, k], [, prevK]) => {
-  if (k !== prevK) {
-    kDirty = true
-    fly = null // a zoom mid-glide would aim the glide at the old scale
-  }
+  if (k !== prevK) kDirty = true
   // The fan edges are drawn in screen space — repaint them with every pan
   // frame so they stay glued to their nodes mid-gesture, not just at the end.
   focusDirty = true
@@ -500,7 +500,20 @@ let curScale = 1
 /** Drawn screen radius of node `i`: full size in the pinned fan, zoom-scaled elsewhere. */
 function drawR(i: number, d: number): number {
   const r = nodeRadius(d)
-  return pinSet?.has(i) ? r : Math.max(1.5, r * curScale)
+  return pinSet?.has(i) ? r * curFanScale : Math.max(1.5, r * curScale)
+}
+/** fanScale() at the current zoom; set at the top of each drawn frame. */
+let curFanScale = 1
+
+/**
+ * Size of the pinned fan (discs, plates, title) relative to how it was laid
+ * out. The fan is solved in screen px at the zoom it opened at; zooming out
+ * from there shrinks the whole arrangement with the map, so a big
+ * neighbourhood can be taken in at once. Zooming in leaves it at full size
+ * and just spreads it out.
+ */
+function fanScale(k: number): number {
+  return spreadMode ? Math.min(1, k / lastSpreadK) : 1
 }
 const LABEL_MAX = 40 // resting labels truncate past this many characters
 const PLATE_MAX = 44 // fan name plates truncate past this many characters
@@ -529,7 +542,7 @@ const spreadActive = new Set<number>()
 let spreadSettled = true
 /** True while the pinned fan-out is displayed (plates, spread offsets). */
 let spreadMode = false
-/** Camera scale the fan was last solved at (plates don't scale with zoom). */
+/** Camera scale the fan was solved at; it draws at full size from here in (see fanScale). */
 let lastSpreadK = 1
 /** Nodes lifted into the crisp pin layer (the pinned node + its fan). */
 let pinMembers: number[] = []
@@ -656,12 +669,16 @@ function stepSpread(dt: number): void {
   spreadSettled = settled
 }
 
+/** Smallest the auto-fit shrinks a fan to; past this the plates get hard to read. */
+const FAN_FIT_MIN = 0.55
+
 /**
  * Aim the camera glide so the fan sits in the open part of the screen: right
  * of the pinned panel on wide screens, above the bottom sheet on narrow ones.
- * A fan too big for that area is centred on the pinned node instead, so the
- * node itself never ends up off to one side. `fx`/`fy` and `b` are in
- * `graph × k` units.
+ * A fan too big for that area is zoomed out to fit (down to FAN_FIT_MIN; the
+ * reader can zoom out further by hand), and if it still doesn't fit it's
+ * centred on the pinned node, so the node never ends up off to one side.
+ * `fx`/`fy` and `b` are in `graph × k` units at the current zoom.
  */
 function aimFly(b: Bounds, fx: number, fy: number): void {
   const { w, h } = camera.size.value
@@ -670,13 +687,19 @@ function aimFly(b: Bounds, fx: number, fy: number): void {
   const left = wide ? 352 : 0
   const top = 56
   const bottom = wide ? 0 : Math.min(h * 0.42, 340)
-  const aw = w - left
-  const ah = h - top - bottom
-  const cx = left + aw / 2
-  const cy = top + ah / 2
-  const bx = b.maxX - b.minX > aw ? fx : (b.minX + b.maxX) / 2
-  const by = b.maxY - b.minY > ah ? fy : (b.minY + b.maxY) / 2
-  fly = { x: cx - bx, y: cy - by }
+  const aw = w - left - 24
+  const ah = h - top - bottom - 24
+  const cx = left + 12 + aw / 2
+  const cy = top + 12 + ah / 2
+  const bw = b.maxX - b.minX
+  const bh = b.maxY - b.minY
+  // Never glide below the camera's zoom floor (see minZoom above).
+  const floorF = overviewK > 0 ? (overviewK * 0.2) / camera.k.value : 0
+  const f = Math.max(FAN_FIT_MIN, floorF, Math.min(1, aw / bw, ah / bh))
+  const bx = bw * f > aw ? fx : (b.minX + b.maxX) / 2
+  const by = bh * f > ah ? fy : (b.minY + b.maxY) / 2
+  fly = { x: cx - bx * f, y: cy - by * f, k: camera.k.value * f }
+  camera.userAdjusted.value = false // a wheel, pinch or drag from here on cancels the glide
 }
 
 /* --------------------------------------------------------------- physics -- */
@@ -1259,9 +1282,10 @@ function update(ticker?: any): void {
   }
   if (revealing) stepReveal(now)
 
-  // Camera glide toward a freshly pinned fan. Grabbing the map cancels it.
+  // Camera glide toward a freshly pinned fan. Any pan, wheel or pinch from
+  // the reader cancels it (each sets userAdjusted; the glide's own writes don't).
   if (fly) {
-    if (camera.grabbing.value) {
+    if (camera.grabbing.value || camera.userAdjusted.value) {
       fly = null
     }
     else {
@@ -1269,12 +1293,15 @@ function update(ticker?: any): void {
       const e = 1 - 0.86 ** dt
       const nx = cur.x + (fly.x - cur.x) * e
       const ny = cur.y + (fly.y - cur.y) * e
-      if (Math.abs(fly.x - nx) < 0.5 && Math.abs(fly.y - ny) < 0.5) {
-        camera.pan.value = fly
+      const nk = camera.k.value + (fly.k - camera.k.value) * e
+      if (Math.abs(fly.x - nx) < 0.5 && Math.abs(fly.y - ny) < 0.5 && Math.abs(fly.k - nk) < 0.0005) {
+        camera.pan.value = { x: fly.x, y: fly.y }
+        camera.k.value = fly.k
         fly = null
       }
       else {
         camera.pan.value = { x: nx, y: ny }
+        camera.k.value = nk
       }
     }
   }
@@ -1342,12 +1369,9 @@ function update(ticker?: any): void {
       flyPending = false
       syncPlates()
     }
-    else if (spreadMode && focus != null && Math.abs(k / lastSpreadK - 1) > 0.15) {
-      // Plates and radii are screen px — a significant zoom re-solves the fan.
-      setSpreadTargets(src)
-    }
   }
   hoverIndex.value = focus
+  curFanScale = fanScale(k)
 
   const neighbours = focus != null ? new Set(adjacency.value[focus] ?? []) : null
   const catDim = focus == null ? catFocus.value : null
@@ -1458,10 +1482,10 @@ function update(ticker?: any): void {
       const nbrs = activeNeighbours(focus)
       // Sonar: two rings expanding out of the pinned node.
       if (pulsing) {
-        const r0 = nodeRadius(p.nodes[focus]!.d) + 5
+        const r0 = drawR(focus, p.nodes[focus]!.d) + 5 * curFanScale
         for (let s = 0; s < 2; s++) {
           const ph = ((now / 2200) + s * 0.5) % 1
-          focusG.circle(fx, fy, r0 + ph * 70).stroke({ width: 1.5, color: palette.primary, alpha: 0.55 * (1 - ph) })
+          focusG.circle(fx, fy, r0 + ph * 70 * curFanScale).stroke({ width: 1.5, color: palette.primary, alpha: 0.55 * (1 - ph) })
         }
       }
       for (const j of nbrs) {
@@ -1477,7 +1501,7 @@ function update(ticker?: any): void {
           const ph = ((now / 1600) + q * 0.618) % 1
           const tx = px + (nj.x + offX[j]!) * k
           const ty = py + (nj.y + offY[j]!) * k
-          focusG.circle(fx + (tx - fx) * ph, fy + (ty - fy) * ph, 2.4)
+          focusG.circle(fx + (tx - fx) * ph, fy + (ty - fy) * ph, 2.4 * Math.max(0.5, curFanScale))
             .fill({ color: nodeTint[j] ?? palette.primary, alpha: Math.sin(ph * Math.PI) })
         }
       }
@@ -1595,8 +1619,10 @@ function update(ticker?: any): void {
   const panel = hoverPanelRef.value
   if (panel && focus != null) {
     const nf = src[focus]!
-    const pr = drawR(focus, p.nodes[focus]!.d) + 3
-    panel.style.transform = `translate(${px + nf.x * k}px, ${py + nf.y * k + pr + 7}px) translateX(-50%)`
+    const fs = curFanScale
+    const pr = drawR(focus, p.nodes[focus]!.d) + 3 * fs
+    panel.style.transformOrigin = '50% 0'
+    panel.style.transform = `translate(${px + nf.x * k}px, ${py + nf.y * k + pr + 7 * fs}px) translateX(-50%) scale(${fs})`
   }
 
   // Neighbour plates: while pinned they track their fanned positions,
@@ -1611,9 +1637,12 @@ function update(ticker?: any): void {
       if (spreadMode) {
         const ca = Math.cos(spreadAng[i]!)
         const sa = Math.sin(spreadAng[i]!)
-        const sx = px + (src[i]!.x + offX[i]!) * k + ca * (r + 5)
-        const sy = py + (src[i]!.y + offY[i]!) * k + sa * (r + 5)
-        el.style.transform = `translate(${sx}px, ${sy}px) translate(${ca * 50 - 50}%, ${sa * 50 - 50}%)`
+        const fs = curFanScale
+        const sx = px + (src[i]!.x + offX[i]!) * k + ca * (r + 5 * fs)
+        const sy = py + (src[i]!.y + offY[i]!) * k + sa * (r + 5 * fs)
+        // Scaled about the anchor point, which is where the plate meets its node.
+        el.style.transformOrigin = `${50 - ca * 50}% ${50 - sa * 50}%`
+        el.style.transform = `translate(${sx}px, ${sy}px) translate(${ca * 50 - 50}%, ${sa * 50 - 50}%) scale(${fs})`
       }
       else {
         const sx = px + (src[i]!.x + offX[i]!) * k

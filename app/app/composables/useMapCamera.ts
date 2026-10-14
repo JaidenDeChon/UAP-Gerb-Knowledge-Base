@@ -7,6 +7,8 @@ export interface MapCameraCallbacks {
   onTap?: (x: number, y: number) => void
   /** Pointer resting/moving over the map without dragging, or leaving (null). */
   onHover?: (pos: { x: number, y: number } | null) => void
+  /** Lowest zoom the user may reach, if tighter than MIN_ZOOM (read per gesture). */
+  minZoom?: () => number
 }
 
 /**
@@ -25,6 +27,11 @@ export function useMapCamera(containerRef: Ref<HTMLElement | null>, cb: MapCamer
   const grabbing = shallowRef(false)
   /** True once the user pans/zooms; auto-refit on resize stops until re-fit. */
   const userAdjusted = shallowRef(false)
+
+  /** The zoom floor: the caller's, never below the absolute MIN_ZOOM. */
+  function floor(): number {
+    return Math.max(MIN_ZOOM, cb.minZoom?.() ?? MIN_ZOOM)
+  }
 
   /* ------------------------------------------------------------- pointers -- */
 
@@ -105,7 +112,7 @@ export function useMapCamera(containerRef: Ref<HTMLElement | null>, cb: MapCamer
       const mx = (pts[0].x + pts[1].x) / 2 - ox
       const my = (pts[0].y + pts[1].y) / 2 - oy
       const dist = Math.max(1, Math.hypot(pts[0].x - pts[1].x, pts[0].y - pts[1].y))
-      const next = clamp(pinchK0 * (dist / pinchDist0), MIN_ZOOM, MAX_ZOOM)
+      const next = clamp(pinchK0 * (dist / pinchDist0), floor(), MAX_ZOOM)
       pan.value = { x: mx - pinchGX * next, y: my - pinchGY * next }
       k.value = next
       userAdjusted.value = true
@@ -171,7 +178,7 @@ export function useMapCamera(containerRef: Ref<HTMLElement | null>, cb: MapCamer
     wheelRaf = requestAnimationFrame(() => {
       wheelRaf = 0
       const cur = k.value
-      const next = clamp(cur * pendingFactor, MIN_ZOOM, MAX_ZOOM)
+      const next = clamp(cur * pendingFactor, Math.min(floor(), cur), MAX_ZOOM)
       pendingFactor = 1
       if (next === cur) return
       const gx = (wheelX - pan.value.x) / cur
