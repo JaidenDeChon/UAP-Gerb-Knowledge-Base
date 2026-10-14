@@ -2,28 +2,28 @@
 import type { Category, GraphEdge, GraphNode, GraphPayload } from '#shared/types/wiki'
 import { ArrowLeft, ArrowUpRight, Key, Maximize2, Play, Search, SlidersHorizontal, X } from '@lucide/vue'
 import { useLocalStorage } from '@vueuse/core'
-import { type Bounds, buildAdjacency, fanLayout } from '~/utils/graph'
+import { type Bounds, buildAdjacency, fanLayout, fitView } from '~/utils/graph'
 import { CATEGORY_COLOR_VAR, CATEGORY_LEGEND_ORDER, nodeRadius, readCategoryColors, readGraphPalette, type GraphPalette } from '~/utils/graphLab'
 import { gridStep, LabelGrid, labelMinZoom, searchNodes } from '~/utils/siteMap'
 
 /**
  * The site map (`/map`): a home-brew renderer on Pixi.js v8 + d3-force.
  *
- * Layout: every category gets an anchor on an ellipse shaped like the
- * container, and its nodes are pulled toward personal targets scattered over
- * that cluster's disc. Collision keeps nodes apart, so the graph settles into
- * loose per-type clusters. The physics is tuned once and fixed: the old
- * sliders (cluster pull, spacing, link distance, charge) barely changed the
- * settled result, so the controls now act on what you SEE instead: which
- * types are shown, how connected a page must be to appear, and labels.
+ * Layout: every category gets its own arc of a ring shaped like the
+ * container, and its nodes are pulled gently toward personal targets
+ * scattered over that cluster's disc. The layout is solved once, off screen
+ * behind the page loader, then a collision-only pass clears any overlap left
+ * over. Nothing is simulated while you look at it. Node discs shrink as you
+ * zoom out (nodeScale), so they stay apart at every zoom; zooming in spreads
+ * them out.
  *
- * Opening: nodes join the live simulation in per-frame batches, hubs first,
- * popping in as they land, so the map assembles itself like constellations
- * filling in. Users who prefer reduced motion get the settled layout at once.
+ * Opening: nodes fade in where they'll stay, in a slow ripple from the centre
+ * outward. Nothing moves and the camera holds still. Users who prefer reduced
+ * motion get the finished map at once.
  *
  * Reading it: hubs are labelled from the first frame, and more names appear as
  * you zoom in (greedy collision culling keeps them from piling up). Category
- * titles sit over their clusters at overview zoom.
+ * titles sit on the map's rim at overview zoom.
  *
  * Interaction:
  * - Hover a node to light up its links in place.
@@ -36,7 +36,7 @@ import { gridStep, LabelGrid, labelMinZoom, searchNodes } from '~/utils/siteMap'
  *
  * Nodes are sprites sharing one circle texture (one instanced batch on the
  * GPU) tinted per category, each with a soft glow sprite behind it; edges are
- * one Graphics mesh, rebuilt only while the layout is moving.
+ * one Graphics mesh, rebuilt only when what's shown changes.
  *
  * Pixi and d3-force are imported dynamically: browser-only, and they must not
  * ride into the SSR bundle or any other route's chunk.
@@ -490,7 +490,15 @@ const labelGrid = new LabelGrid(48)
 /** Camera scale of the last whole-map fit; label thresholds are relative to it. */
 let overviewK = 0
 
-const GLOW_MUL = 3.4 // glow radius as a multiple of the node radius
+const GLOW_MUL = 2.6 // glow radius as a multiple of the node radius
+/** nodeScale() at the current zoom; set at the top of each drawn frame. */
+let curScale = 1
+
+/** Drawn screen radius of node `i`: full size in the pinned fan, zoom-scaled elsewhere. */
+function drawR(i: number, d: number): number {
+  const r = nodeRadius(d)
+  return pinSet?.has(i) ? r : Math.max(1.5, r * curScale)
+}
 const LABEL_MAX = 40 // resting labels truncate past this many characters
 const PLATE_MAX = 44 // fan name plates truncate past this many characters
 
@@ -559,7 +567,7 @@ function pickDisplayed(src: any[], sx: number, sy: number): number | null {
     const n = src[i]!
     const dx = px + (n.x + offX[i]!) * k - sx
     const dy = py + (n.y + offY[i]!) * k - sy
-    const r = nodeRadius(n.d) + 4
+    const r = Math.max(drawR(i, n.d) + 3, 6)
     const d2 = dx * dx + dy * dy
     if (d2 <= r * r && d2 < bestDist) {
       bestDist = d2
@@ -670,58 +678,74 @@ function aimFly(b: Bounds, fx: number, fy: number): void {
 
 /* --------------------------------------------------------------- physics -- */
 
-const CHARGE_RANGE = 350 // base px reach of node-node repulsion (see REPEL_RANGE)
-const VELOCITY_DECAY = 0.55 // > d3's 0.4 default; damps the spring oscillation
-const ALPHA_DECAY = 0.02
-// The tail is a glide-out: through the cooling band the damping ramps from its
-// running value toward a near-total stop, so the graph bleeds off its momentum
-// and coasts to rest instead of freezing mid-drift.
-const ALPHA_COOL = 0.07 // alpha at which the glide-out begins
-const ALPHA_PARK = 0.005 // alpha at which the sim parks
-const COOL_DECAY = 0.96 // velocity decay at the far end of the glide-out
+// The layout is solved ONCE, behind the page loader, before anything is drawn
+// (see stepSolve): the map never jostles on screen. Earlier versions ran the
+// simulation live while nodes streamed in and the camera chased the growing
+// bounds, which read as the whole map shaking.
+const CHARGE_RANGE = 350 // base reach of node-node repulsion (see REPEL_RANGE)
 const HUB_EXP = 0.75 // spring damping exponent by larger endpoint degree
-// Intra-category links get a real strength floor; cross-category links keep
-// only a fraction of it so the connective tissue can't drag clusters together.
-const LINK_MIN = 0.18
+// Intra-category links get a strength floor; cross-category links keep only a
+// fraction of it so the connective tissue can't drag clusters together.
+const LINK_MIN = 0.12
 const LINK_DIST = 350
-const CROSS_CAT_DAMP = 0.45 // extra spring damping when a link crosses categories
-const CLUSTER_PULL = 0.4 // strength of each node's pull toward its cluster target
-// Keep-apart multiplier on the collision radius. Collision is the binding
-// constraint at equilibrium, so this is what sets the packing density.
+const CROSS_CAT_DAMP = 0.45
+// Keeps each type in its own region. On its own a pull this strong crushes
+// nodes past their collision radius; the collision-only relax pass at the end
+// of the solve (stepSolve) is what then guarantees the spacing.
+const CLUSTER_PULL = 0.3
+// Graph units per screen px at full node size. Collision radii are designed in
+// screen px and multiplied by this; nodeScale() shrinks the drawn discs in
+// step with the zoom, so spacing and size stay in proportion.
 const SPACING = 4.5
-const PACKING = 0.55 // assumed disc packing efficiency when sizing clusters
+const PACKING = 0.5 // assumed disc packing efficiency when sizing clusters
 const RING_SHARE = 0.62 // anchor ring radius as a share of the packed-graph radius (floor)
 const RING_SPREAD = 0.95 // ring circumference relative to the clusters' summed diameters
-const FIT_PAD = 72 // px margin the auto-fit keeps around the layout (rim titles included)
+const FIT_PAD = 72 // px margin the fit keeps around the layout (rim titles included)
 // Per-node anchor scatter: every node gets a personal gravity target on its
-// cluster's disc (deterministic hash of its index), so the interior settles as
-// an organic cloud instead of concentric shells around one shared point.
+// cluster's disc, so the interior settles as an organic cloud instead of
+// concentric shells around one shared point.
 const SCATTER = 0.85
 const REPEL = 700
-const REPEL_RANGE = CHARGE_RANGE * (0.5 + REPEL / 240) // ~1200 px
+const REPEL_RANGE = CHARGE_RANGE * (0.5 + REPEL / 240)
+const SOLVE_TICKS = 260 // full-force ticks; alpha decays to ~0.001 across them
+const RELAX_TICKS = 70 // collision-only ticks afterwards: clears leftover overlaps
+const SOLVE_BUDGET_MS = 14 // per frame, so the loader keeps animating
 
 let d3: any = null
 let sim: any = null
+let solving = false
+let solveTick = 0
 
-/* ------------------------------------------------------------ staged build -- */
+// Same shape pickDisplayed expects (x, y, d) plus the category driving the
+// cluster forces; d3-force adds vx/vy in place.
+let simNodes: { i: number, x: number, y: number, d: number, c: Category }[] | null = null
 
-// The graph doesn't appear all at once: nodes join the live simulation in
-// per-frame batches, hubs first, popping in as they land. Grown incrementally
-// from near-equilibrium seeds, the layout stays calm the whole way.
-const BUILD_MS = 3200 // wall-clock target for the full grow-in
-const FADE_MS = 520 // per-node pop-in once added
-let building = false
-let addOrder: number[] = []
-let activeCursor = 0
+/**
+ * Drawn size of a resting node relative to its full size: discs shrink as
+ * you zoom out (sub-linearly, so hubs stay findable), keeping clear space
+ * between them at every zoom. The pinned fan always draws at full size.
+ */
+function nodeScale(k: number): number {
+  return Math.min(1, Math.max(0.24, (k * SPACING) ** 0.75))
+}
+
+/* ----------------------------------------------------------------- reveal -- */
+
+// The opening: nodes fade in where they'll stay, in a ripple from the centre
+// of the map outward. Nothing moves; the camera holds still.
+const REVEAL_MS = 1500 // centre to rim
+const FADE_MS = 450 // per-node fade once its turn comes
+let revealing = false
+let revealStart = 0
+let revealOrder: number[] = []
+let revealAt = new Float32Array(0)
+let revealCursor = 0
+/** Per node: revealed (drawn, hit-testable). */
 let activeFlag = new Uint8Array(0)
-let activeNodes: any[] = [] // the slice d3 currently simulates
-let activeLinks: any[] = [] // links with both endpoints active
-let incident: number[][] = [] // payload edge indices per node
-let linkObjs: any[] = [] // one object per payload edge, registered as it completes
 let fadeA = new Float32Array(0)
 const fadingNodes = new Set<number>()
 
-/** mulberry32: a small seeded PRNG, so every load grows in the same way. */
+/** mulberry32: a small seeded PRNG, so the layout is the same on every load. */
 function seeded(seed: number): () => number {
   let a = seed >>> 0
   return () => {
@@ -732,64 +756,66 @@ function seeded(seed: number): () => number {
   }
 }
 
-function beginBuild(): void {
-  if (!simNodes || !sim) return
+function beginReveal(): void {
+  if (!simNodes) return
+  setPin(null)
   const n = simNodes.length
   activeFlag = new Uint8Array(n)
   fadeA = new Float32Array(n)
-  activeNodes = []
-  activeLinks = []
   fadingNodes.clear()
-  activeCursor = 0
-  // Hubs first, then everything else in a jittered order: the big stars light
-  // up across every cluster, and their satellites fill in around them.
-  const rand = seeded(0x2545F491)
-  const key = simNodes.map(nd => Math.log1p(nd.d) + rand() * 0.9)
-  addOrder = Array.from({ length: n }, (_, i) => i).sort((a, b) => key[b]! - key[a]!)
-  sim.nodes(activeNodes)
-  sim.force('link').links(activeLinks)
-  sim.alpha(0.5)
-  building = true
-  // A pinned fan can't survive a rebuild — its neighbourhood is regrowing.
-  setPin(null)
+  if (reducedMotion) {
+    activeFlag.fill(1)
+    fadeA.fill(1)
+    revealing = false
+  }
+  else {
+    let cx = 0
+    let cy = 0
+    for (const nd of simNodes) {
+      cx += nd.x
+      cy += nd.y
+    }
+    cx /= n || 1
+    cy /= n || 1
+    let maxD = 1
+    const dist = simNodes.map((nd) => {
+      const d = Math.hypot(nd.x - cx, nd.y - cy)
+      if (d > maxD) maxD = d
+      return d
+    })
+    const rand = seeded(0x2545F491)
+    revealAt = new Float32Array(n)
+    for (let i = 0; i < n; i++) revealAt[i] = (dist[i]! / maxD) * REVEAL_MS + rand() * 160
+    revealOrder = Array.from({ length: n }, (_, i) => i).sort((a, b) => revealAt[a]! - revealAt[b]!)
+    revealCursor = 0
+    revealStart = performance.now()
+    revealing = true
+  }
+  geomDirty = true
   kDirty = true
+  focusDirty = true
+  dirty = true
 }
 
-/** Move one per-frame batch of nodes (and their completed links) into the sim. */
-function stepBuild(deltaMS: number): void {
-  if (!building || !simNodes) return
-  const n = simNodes.length
-  const add = Math.max(1, Math.round((n * deltaMS) / BUILD_MS))
-  for (let b = 0; b < add && activeCursor < n; b++) {
-    const i = addOrder[activeCursor++]!
+function stepReveal(now: number): void {
+  const t = now - revealStart
+  let added = false
+  while (revealCursor < revealOrder.length && revealAt[revealOrder[revealCursor]!]! <= t) {
+    const i = revealOrder[revealCursor++]!
     activeFlag[i] = 1
-    activeNodes.push(simNodes[i])
     fadeA[i] = 0
     fadingNodes.add(i)
-    for (const e of incident[i] ?? []) {
-      const l = linkObjs[e]!
-      if (activeFlag[l.a === i ? l.b : l.a]) activeLinks.push(l)
-    }
+    added = true
   }
-  sim.nodes(activeNodes)
-  sim.force('link').links(activeLinks)
-  // Held warm for the whole grow-in; decays to a freeze once complete.
-  sim.alpha(Math.max(sim.alpha(), 0.35))
-  kDirty = true
-  if (activeCursor >= n) {
-    building = false
+  if (added) {
+    geomDirty = true // edges appear as both their ends do
+    kDirty = true
+  }
+  if (revealCursor >= revealOrder.length) {
+    revealing = false
     fanDirty = true
   }
 }
-
-/**
- * Auto-fit serves the initial settle (and Replay) only. Once the simulation
- * cools, or the user takes the camera, it latches off.
- */
-let autoFit = true
-// Same shape pickDisplayed expects (x, y, d) plus the category driving the
-// cluster forces; d3-force adds vx/vy in place.
-let simNodes: { i: number, x: number, y: number, d: number, c: Category }[] | null = null
 
 interface Cluster {
   x: number
@@ -872,11 +898,12 @@ function seedSimulation(): void {
   }
 }
 
-// Nodes render at a fixed *screen* radius while collision runs in graph units,
-// so the keep-apart distance scales with the render radius to buy hubs screen
-// room proportional to their size.
+// Keep-apart radius, designed in screen px at full node size (then scaled by
+// SPACING into graph units). It grows faster than the drawn radius, so hubs
+// get room in proportion to how big they're drawn, and every node keeps a
+// clear margin.
 function collideRadius(n: { d: number }): number {
-  return (nodeRadius(n.d) * 2.2 + 12) * SPACING
+  return (nodeRadius(n.d) * 2.6 + 10) * SPACING
 }
 
 function anchorX(n: { i: number, c: Category }): number {
@@ -893,48 +920,55 @@ function buildSimulation(p: GraphPayload): void {
   computeScatter(p.nodes.length)
   simNodes = p.nodes.map(n => ({ i: n.i, x: n.x, y: n.y, d: n.d, c: n.c }))
   // Spring strength damped by the larger endpoint degree, then floored (see
-  // LINK_MIN). `a`/`b` keep the payload indices: d3 rewrites source/target to
-  // node objects on registration, and the staged build needs the raw endpoints.
-  linkObjs = p.edges.map(([source, target]) => {
+  // LINK_MIN).
+  const links = p.edges.map(([source, target]) => {
     const a = p.nodes[source]!
     const b = p.nodes[target]!
     const hub = Math.max(LINK_MIN, Math.min(1, 1 / Math.max(a.d, b.d, 1) ** HUB_EXP))
-    return { source, target, a: source, b: target, s: hub * (aliasCat(a.c) === aliasCat(b.c) ? 1 : CROSS_CAT_DAMP) }
+    return { source, target, s: hub * (aliasCat(a.c) === aliasCat(b.c) ? 1 : CROSS_CAT_DAMP) }
   })
-  incident = Array.from({ length: p.nodes.length }, () => [])
-  p.edges.forEach(([a, b], e) => {
-    incident[a]!.push(e)
-    incident[b]!.push(e)
-  })
-  // The sim starts EMPTY — the staged build grows its membership. The id
-  // accessor resolves links by payload index, so registration is independent
-  // of activation order.
-  sim = d3.forceSimulation([])
+  seedSimulation()
+  sim = d3.forceSimulation(simNodes)
     .force('charge', d3.forceManyBody().strength(-REPEL).theta(0.9).distanceMax(REPEL_RANGE))
-    .force('link', d3.forceLink([]).id((nd: any) => nd.i).distance(LINK_DIST).strength((l: any) => l.s))
-    .force('collide', d3.forceCollide().radius(collideRadius).strength(0.8).iterations(2))
+    .force('link', d3.forceLink(links).id((nd: any) => nd.i).distance(LINK_DIST).strength((l: any) => l.s))
+    .force('collide', d3.forceCollide().radius(collideRadius).strength(0.9).iterations(2))
     .force('cx', d3.forceX(anchorX).strength(CLUSTER_PULL))
     .force('cy', d3.forceY(anchorY).strength(CLUSTER_PULL))
-    .velocityDecay(VELOCITY_DECAY)
-    .alphaDecay(ALPHA_DECAY)
-    .stop() // ticked manually from the render loop
-  seedSimulation()
-}
-
-/** Re-anchor the clusters (container aspect changed) and push them into the forces. */
-function reanchor(alpha: number): void {
-  if (!sim || !payload.value) return
-  computeClusters(payload.value)
-  sim.force('cx').x(anchorX)
-  sim.force('cy').y(anchorY)
-  sim.alpha(Math.max(sim.alpha(), alpha))
-  dirty = true
+    .alphaDecay(1 - 0.001 ** (1 / SOLVE_TICKS))
+    .stop() // ticked by stepSolve, off screen
+  solveTick = 0
+  solving = true
 }
 
 /**
- * Bounding box of the live nodes — or of every node, while none are live yet
- * (the first frame of the build), so the camera starts framed on the seeds.
+ * Advance the off-screen solve by one frame's budget. After the full-force
+ * ticks, a collision-only pass pushes apart whatever the other forces left
+ * overlapping. Then the simulation is dropped, the camera frames the result,
+ * and the reveal starts.
  */
+function stepSolve(): void {
+  const total = SOLVE_TICKS + RELAX_TICKS
+  const t0 = performance.now()
+  while (solveTick < total && performance.now() - t0 < SOLVE_BUDGET_MS) {
+    if (solveTick === SOLVE_TICKS) {
+      sim.force('charge', null).force('link', null).force('cx', null).force('cy', null)
+      sim.force('collide').strength(1).iterations(4)
+      sim.alpha(1).alphaDecay(0)
+    }
+    sim.tick()
+    solveTick++
+  }
+  if (solveTick < total) return
+  solving = false
+  sim.stop()
+  sim = null
+  fitAll()
+  beginReveal()
+  ready.value = true
+  emit('ready')
+}
+
+/** Bounding box of the live nodes — or of every node, while none are live yet. */
 function currentBounds(): Bounds {
   const p = payload.value!
   const src: { x: number, y: number }[] = simNodes ?? p.nodes
@@ -944,7 +978,7 @@ function currentBounds(): Bounds {
     let maxX = -Infinity
     let maxY = -Infinity
     for (let i = 0; i < src.length; i++) {
-      if (liveOnly && !isLive(i)) continue
+      if (liveOnly ? !isLive(i) : !shownFlag[i]) continue
       const n = src[i]!
       if (n.x < minX) minX = n.x
       if (n.y < minY) minY = n.y
@@ -959,54 +993,30 @@ function currentBounds(): Bounds {
   return Number.isFinite(all.minX) ? all : p.bounds
 }
 
-/** Fit the camera to everything currently shown. */
+/**
+ * Fit the camera to everything currently shown, in the area the overlays
+ * leave free: below the search bar, and left of the key/View cards when
+ * they're open on a wide screen.
+ */
 function fitAll(): void {
   if (!payload.value) return
+  const { w, h } = camera.size.value
+  if (w <= 0 || h <= 0) return
   fly = null
-  camera.fitTo(currentBounds(), FIT_PAD)
-  overviewK = camera.k.value
+  const right = w >= 900 && (legendOpen.value || controlsOpen.value) ? 232 : 0
+  const top = 48
+  const v = fitView(currentBounds(), w - right, h - top, FIT_PAD)
+  camera.pan.value = { x: v.x, y: v.y + top }
+  camera.k.value = v.k
+  camera.userAdjusted.value = false
+  overviewK = v.k
 }
 
-/**
- * Settle synchronously and show the result at once (reduced motion). The
- * whole graph is registered and relaxed in ~150 ticks from near-equilibrium
- * seeds, then the simulation is parked.
- */
-const STATIC_TICKS = 150
-function settleStatic(): void {
-  if (!sim || !simNodes) return
-  building = false
-  fadingNodes.clear()
-  const n = simNodes.length
-  activeFlag = new Uint8Array(n).fill(1)
-  fadeA = new Float32Array(n).fill(1)
-  activeNodes = simNodes.slice()
-  activeLinks = linkObjs.slice()
-  sim.nodes(activeNodes)
-  sim.force('link').links(activeLinks)
-  sim.velocityDecay(VELOCITY_DECAY)
-  sim.alpha(0.5)
-  for (let t = 0; t < STATIC_TICKS && sim.alpha() > 0.025; t++) sim.tick()
-  sim.alpha(0) // parked
-  geomDirty = true
-  kDirty = true
-  focusDirty = true
-  dirty = true
-}
-
-/** Replay: re-seed and grow the map in again from nothing. */
+/** Replay: fade the map in again from the centre, and frame it. */
 function replay(): void {
-  if (!payload.value || !sim) return
-  setPin(null)
-  reanchor(0)
-  seedSimulation()
-  if (reducedMotion) settleStatic()
-  else beginBuild()
-  autoFit = true
+  if (!simNodes || solving) return
   fitAll()
-  geomDirty = true
-  focusDirty = true
-  dirty = true
+  beginReveal()
 }
 
 /* ------------------------------------------------------------------ init -- */
@@ -1165,18 +1175,10 @@ function buildSceneIfReady(): void {
 
   recomputeShown()
   computeClusters(p)
-  buildSimulation(p)
   applyPalette()
-  if (reducedMotion) settleStatic()
-  else beginBuild()
-  autoFit = true
-  fitAll()
-  kDirty = true
-  focusDirty = true
-  geomDirty = true
-  dirty = true
-  ready.value = true
-  emit('ready')
+  // The layout solves off screen over the next few frames (stepSolve); the
+  // page stays on its loader until it's done.
+  buildSimulation(p)
 }
 
 function applyPalette(): void {
@@ -1225,13 +1227,6 @@ function rebuildEdges(src: { x: number, y: number }[]): void {
   edgesG.tint = palette.edge
 }
 
-/** Ease-out with a small overshoot: the pop as a node lands. */
-function popEase(t: number): number {
-  const c = 1.9
-  const u = t - 1
-  return 1 + (c + 1) * u * u * u + c * u * u
-}
-
 /** Move a node's glow, ring and disc into `layer` (glow under ring under disc). */
 function lift(i: number, into: 'pin' | 'world'): void {
   if (into === 'pin') {
@@ -1246,7 +1241,7 @@ function lift(i: number, into: 'pin' | 'world'): void {
   }
 }
 
-/** One pass per frame while anything is dirty, animating or the simulation is hot. */
+/** One pass per frame while anything is dirty or animating. */
 function update(ticker?: any): void {
   const p = payload.value
   if (!p || !world) return
@@ -1254,32 +1249,12 @@ function update(ticker?: any): void {
   const dms = ticker?.deltaMS ?? 16.7
   const now = performance.now()
 
-  if (building && sim) stepBuild(dms)
-
-  const hot = sim && sim.alpha() > ALPHA_PARK
-  if (hot) {
-    // Damping is re-derived from alpha every tick, so a reheat lifts alpha
-    // back out of the cooling band and gets the running decay again.
-    const a = sim.alpha()
-    const t = a >= ALPHA_COOL ? 0 : (ALPHA_COOL - a) / (ALPHA_COOL - ALPHA_PARK)
-    sim.velocityDecay(VELOCITY_DECAY + (COOL_DECAY - VELOCITY_DECAY) * t * t)
-    sim.tick()
-    geomDirty = true
-    dirty = true
-    // Keep the settling layout in frame, gliding rather than snapping (the
-    // staged build grows the bounds in steps).
-    if (autoFit && !camera.userAdjusted.value) {
-      camera.fitTo(currentBounds(), FIT_PAD, 1 - 0.92 ** dt)
-      overviewK = camera.k.value
-    }
+  // Layout still solving off screen (the page is on its loader).
+  if (solving) {
+    stepSolve()
+    return
   }
-  else {
-    autoFit = false
-    if (sim && sim.alpha() > 0) {
-      sim.alpha(0)
-      sim.velocityDecay(VELOCITY_DECAY)
-    }
-  }
+  if (revealing) stepReveal(now)
 
   // Camera glide toward a freshly pinned fan. Grabbing the map cancels it.
   if (fly) {
@@ -1302,7 +1277,7 @@ function update(ticker?: any): void {
   }
 
   const pulsing = spreadMode && !reducedMotion
-  const animating = (spreadActive.size > 0 && !spreadSettled) || fadingNodes.size > 0 || building
+  const animating = (spreadActive.size > 0 && !spreadSettled) || fadingNodes.size > 0 || revealing
     || blurCurrent !== blurTarget || fly != null || pulsing
   if (animating) dirty = true
   if (!dirty) return
@@ -1315,6 +1290,7 @@ function update(ticker?: any): void {
   world.scale.set(k)
   pinLayer.position.set(px, py)
   pinLayer.scale.set(k)
+  curScale = nodeScale(k)
 
   // Parallax dot grid behind the canvas, glued to the camera.
   const el = containerRef.value
@@ -1386,7 +1362,7 @@ function update(ticker?: any): void {
   }
 
   // Spread offsets ride on top of the true positions. Applied after the
-  // geomDirty pass so a hot sim doesn't stomp them.
+  // geomDirty pass so a position refresh doesn't stomp them.
   if (spreadActive.size) {
     if (!spreadSettled) stepSpread(dt)
     for (const i of spreadActive) {
@@ -1399,8 +1375,8 @@ function update(ticker?: any): void {
     }
   }
 
-  // Counter-scale so nodes hold their screen-px radius at any zoom.
-  const glowBase = darkBg ? 0.34 : 0.2
+  // Counter-scale the world transform so each disc draws at drawR() screen px.
+  const glowBase = darkBg ? 0.13 : 0.07
   if (kDirty || focusDirty) {
     kDirty = false
     const dimmed = focus != null || catDim != null
@@ -1419,13 +1395,13 @@ function update(ticker?: any): void {
       const lit = focus != null
         ? (i === focus || neighbours!.has(i))
         : catDim != null && aliasCat(n.c) === catDim
-      const r = nodeRadius(n.d) + (i === focus ? 3 : 0)
+      const r = drawR(i, n.d) + (i === focus ? 2 : 0)
       const tint = nodeTint[i] ?? palette.node
       s.scale.set((r * 2) / 128 / k)
       s.alpha = dimmed && !lit ? 0.22 : 1
       s.tint = tint
       glow.scale.set((r * GLOW_MUL * 2) / 128 / k)
-      glow.alpha = dimmed && !lit ? glowBase * 0.15 : glowBase * (i === focus ? 2 : 1)
+      glow.alpha = dimmed && !lit ? glowBase * 0.15 : glowBase * (i === focus ? 2.5 : 1)
       glow.tint = tint
       // Rings render only as halos: the focus, and a neighbour hovered in the panel.
       const halo = i === focus || i === listHover.value
@@ -1447,7 +1423,8 @@ function update(ticker?: any): void {
     if (blurCurrent === 0 && blurTarget === 0 && world.filters) world.filters = null
   }
 
-  // Pop-ins override the alpha and scale the pass above assigned.
+  // Fade-ins override the alpha and scale the pass above assigned: a soft
+  // ease-out from slightly smaller, in place.
   if (fadingNodes.size) {
     for (const i of fadingNodes) {
       const f = Math.min(1, fadeA[i]! + dms / FADE_MS)
@@ -1458,18 +1435,17 @@ function update(ticker?: any): void {
         dirty = true
         continue
       }
-      const r = nodeRadius(p.nodes[i]!.d)
-      const pop = Math.max(0.001, popEase(f))
-      sprites[i]!.alpha = Math.min(1, f * 2)
-      sprites[i]!.scale.set((r * 2 * pop) / 128 / k)
-      // The glow flares as the node lands, then settles to its resting level.
-      glows[i]!.alpha = glowBase * (1 + 2.2 * (1 - f)) * Math.min(1, f * 3)
-      glows[i]!.scale.set((r * GLOW_MUL * 2 * (0.6 + 0.8 * f)) / 128 / k)
+      const r = drawR(i, p.nodes[i]!.d)
+      const e = 1 - (1 - f) ** 3
+      sprites[i]!.alpha = e
+      sprites[i]!.scale.set((r * 2 * (0.7 + 0.3 * e)) / 128 / k)
+      glows[i]!.alpha = glowBase * e
+      glows[i]!.scale.set((r * GLOW_MUL * 2) / 128 / k)
     }
   }
 
   // Focus edges, screen space, following the DISPLAYED (spread) positions.
-  if (focusDirty || hot || animating) {
+  if (focusDirty || animating) {
     focusDirty = false
     focusG.clear()
     if (focus != null) {
@@ -1503,7 +1479,14 @@ function update(ticker?: any): void {
         }
       }
     }
-    edgesG.alpha = focus != null || catDim != null ? 0.07 : 0.16
+  }
+  // Edges stay a faint texture at overview (thousands of them otherwise read
+  // as haze) and firm up as you zoom in.
+  {
+    const relK = overviewK > 0 ? k / overviewK : 1
+    // Dark edges on a light page read heavier than light ones on a dark page.
+    const base = Math.min(0.18, 0.06 + 0.04 * (relK - 1)) * (darkBg ? 1 : 0.6)
+    edgesG.alpha = focus != null || catDim != null ? base * 0.45 : Math.max(darkBg ? 0.06 : 0.036, base)
   }
 
   // Resting labels: hubs first, culled by collision and by a per-degree zoom
@@ -1522,8 +1505,10 @@ function update(ticker?: any): void {
     let gy = 0
     let total = 0
     const acc = new Map<Category, { x: number, y: number, ids: number[] }>()
+    // Placed from every shown node, revealed yet or not, so the titles sit
+    // still while the opening ripple fills in behind them.
     for (let i = 0; i < src.length; i++) {
-      if (!isLive(i)) continue
+      if (!shownFlag[i]) continue
       gx += src[i]!.x
       gy += src[i]!.y
       total++
@@ -1558,7 +1543,7 @@ function update(ticker?: any): void {
       const tx = gx + dx * r
       const ty = gy + dy * r
       t.visible = true
-      t.alpha = titleAlpha * 0.9
+      t.alpha = titleAlpha * 0.9 * (revealing ? Math.min(1, (now - revealStart) / REVEAL_MS) : 1)
       t.scale.set(1 / k)
       t.anchor.set(0.5 - dx * 0.5, 0.5 - dy * 0.5)
       t.position.set(tx, ty)
@@ -1589,7 +1574,7 @@ function update(ticker?: any): void {
       if (existing) existing.visible = false
       continue
     }
-    const r = nodeRadius(n.d)
+    const r = drawR(i, n.d)
     const half = (Math.min(n.l.length, LABEL_MAX) * 5.9 + 4) / 2
     const top = sy + r + 2
     if (!labelGrid.tryPlace(sx - half, top, sx + half, top + 14)) {
@@ -1607,7 +1592,7 @@ function update(ticker?: any): void {
   const panel = hoverPanelRef.value
   if (panel && focus != null) {
     const nf = src[focus]!
-    const pr = nodeRadius(p.nodes[focus]!.d) + 3
+    const pr = drawR(focus, p.nodes[focus]!.d) + 3
     panel.style.transform = `translate(${px + nf.x * k}px, ${py + nf.y * k + pr + 7}px) translateX(-50%)`
   }
 
@@ -1619,7 +1604,7 @@ function update(ticker?: any): void {
     for (const { i } of neighbourPlates.value) {
       const el = plateEls.get(i)
       if (!el) continue
-      const r = nodeRadius(p.nodes[i]!.d)
+      const r = drawR(i, p.nodes[i]!.d)
       if (spreadMode) {
         const ca = Math.cos(spreadAng[i]!)
         const sa = Math.sin(spreadAng[i]!)
@@ -1642,19 +1627,15 @@ function update(ticker?: any): void {
 watch(payload, () => buildSceneIfReady())
 
 // The camera's ResizeObserver reassigns size as a fresh object every callback,
-// so compare dimensions before reacting. Once the settle completes or the user
-// takes the camera, a resize changes nothing: re-anchoring then would drag the
-// layout out from under the settled view.
+// so compare dimensions before reacting. Until the user takes the camera (or
+// pins a node), a resize re-frames the whole map.
 let lastW = 0
 let lastH = 0
 watch(() => camera.size.value, ({ w, h }) => {
   if (w === lastW && h === lastH) return
   lastW = w
   lastH = h
-  if (payload.value && w > 0 && h > 0 && !camera.userAdjusted.value && autoFit) {
-    if (sim) reanchor(0.3) // anchors follow the new aspect
-    fitAll()
-  }
+  if (simNodes && !solving && w > 0 && h > 0 && !camera.userAdjusted.value && pinned.value == null) fitAll()
   kDirty = true
   dirty = true
 })
