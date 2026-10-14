@@ -10,13 +10,11 @@ const rail = computed(() => collapsed.value && !mobile.value)
 </script>
 
 <template>
-  <!-- Width animates between 280px and the 64px rail (layout CSS). Both views
+  <!-- Width animates between 280px and the 64px rail (--ufo-sidebar-w, set
+       from data-sidebar on <html> by the layout). Both views
        are mounted and cross-fade, each laid out at its own fixed width so
        nothing reflows while the edge slides. -->
-  <aside
-    class="flex h-full shrink-0 flex-col overflow-hidden border-r border-border/50 bg-card"
-    :class="{ 'is-collapsed': collapsed }"
-  >
+  <aside class="flex h-full shrink-0 flex-col overflow-hidden border-r border-border/50 bg-card">
     <!-- h-14 + border-b mirrors AppTopBar so the two header bottom borders
          align. The logo is the home link; collapsing fades the wordmark and
          leaves the ring, which sits centred in the rail. -->

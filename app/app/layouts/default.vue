@@ -3,6 +3,17 @@ import { computed, onMounted, watch } from 'vue'
 
 const route = useRoute()
 const sidebarOpen = useSidebarOpen()
+const { collapsed } = useSidebarCollapsed()
+
+// The sidebar's width lives in one CSS variable (main.css, --ufo-sidebar-w),
+// switched by this attribute so the sidebar and everything positioned beside
+// it (the loader, the reveal veil) agree. On <html> and server-rendered, so
+// the first paint already has the right width.
+useHead({
+  htmlAttrs: {
+    'data-sidebar': computed(() => (collapsed.value ? 'rail' : 'full')),
+  },
+})
 const pageLoading = useNuxtApp().$pageLoad.loading
 
 // The full-screen graph lives at /map (and its renderer test routes under
@@ -86,7 +97,8 @@ router.beforeEach((to, from) => {
   display: none;
 }
 
-/* The sidebar's width: the full 280px, or the 64px icon rail on desktop. */
+/* The drawer is always full width; on desktop the width follows
+   --ufo-sidebar-w (main.css), which the rail narrows. */
 .ufo-sidebar {
   width: 280px;
 }
@@ -122,10 +134,8 @@ router.beforeEach((to, from) => {
     position: sticky;
     top: 0;
     height: 100dvh;
+    width: var(--ufo-sidebar-w);
     transition: width var(--dur-slow) var(--ease-out);
-  }
-  .ufo-sidebar.is-collapsed {
-    width: 64px;
   }
   .ufo-scrim {
     display: none;
