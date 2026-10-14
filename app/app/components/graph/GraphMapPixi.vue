@@ -30,9 +30,9 @@ import { gridStep, LabelGrid, labelMinZoom, searchNodes } from '~/utils/siteMap'
  * - Click (or search for) a node to PIN it: the camera glides over, its
  *   neighbourhood fans out into rings with name plates, the rest of the map
  *   blurs behind it, and a panel lists every connection by type. Click a
- *   fanned node (or the pinned one) to open that page; click a name in the
- *   panel to walk the graph to it (Back retraces your steps); click anywhere
- *   else or press Esc to close.
+ *   fanned node (or a name in the panel) to walk the pin to it — Back
+ *   retraces your steps. Click the pinned node itself to open its page.
+ *   Click anywhere else or press Esc to close.
  *
  * Nodes are sprites sharing one circle texture (one instanced batch on the
  * GPU) tinted per category, each with a soft glow sprite behind it; edges are
@@ -279,9 +279,12 @@ function openNode(i: number): void {
 function nodeTapped(i: number | null): void {
   if (pinned.value != null) {
     // While pinned, only the pinned node and its fanned neighbours are live
-    // targets. Everything else — blank space or a blurred background node —
-    // closes the pin; nothing can be hit through the backdrop.
-    if (i != null && pinSet?.has(i)) openNode(i)
+    // targets. Clicking the pinned node opens its page; clicking a neighbour
+    // walks the pin to it (so a page only opens on the second click, once
+    // it's the subject). Everything else — blank space or a blurred
+    // background node — closes the pin; nothing can be hit through the backdrop.
+    if (i != null && i === pinned.value) openNode(i)
+    else if (i != null && pinSet?.has(i)) setPin(i, true)
     else setPin(null)
     return
   }
@@ -1832,6 +1835,9 @@ onBeforeUnmount(() => {
           Linked to {{ pinInfo.total }} {{ pinInfo.total === 1 ? 'page' : 'pages' }}<template v-if="pinInfo.hiddenCount">
             ({{ pinInfo.hiddenCount }} more hidden by filters)
           </template>
+        </p>
+        <p class="mt-1.5 font-sans text-[11px] leading-4 text-muted-foreground">
+          Click a linked node to explore it. Click this one again to open its page.
         </p>
         <button
           type="button"
