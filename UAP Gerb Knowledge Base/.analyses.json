@@ -440,7 +440,7 @@
       "id": "L0005",
       "slice": "S001-links",
       "found_at": "2026-10-16T03:34:34Z",
-      "status": "open",
+      "status": "written",
       "duplicate_of": null,
       "problems": [],
       "kind": "hidden-link",
@@ -492,7 +492,9 @@
       "not_said_check": "Searched all transcripts for Fermi and caption forms ('Fermi', 'Fermy', 'Furmi'): only Manhattan Project 2.0 (Chicago Pile-1) and 80 Years (the RS33 line); the Iceberg Level 2 transcript has no match under these spellings, and the Magenta transcript never names Fermi. Searched 'strategic services'/'OSS': only the Magenta video, which never mentions Fermi or Los Alamos.",
       "weakest_link": "The Fermi-RS/33 claim is second-hand family hearsay that Gerb relays in one sentence, and the OSS recovery is itself unverified (Gerb says he has no paper trail). Fermi's emigration and Los Alamos dates are solid, so the lead stands or falls on the family claim.",
       "surprise": 3,
-      "support": 2
+      "support": 2,
+      "resolved_at": "2026-10-16T05:39:21Z",
+      "analysis": "Analyses/Alsos was questioning Fermi's old Rome group when the OSS allegedly took the Magenta craft.md"
     },
     {
       "id": "L0006",
@@ -1035,7 +1037,7 @@
       "id": "L0014",
       "slice": "S004-patterns",
       "found_at": "2026-10-16T04:25:10Z",
-      "status": "open",
+      "status": "written",
       "duplicate_of": null,
       "problems": [],
       "kind": "hidden-link",
@@ -1088,7 +1090,9 @@
       "not_said_check": "Alsos/T-Force appear only in five transcripts (Manhattan 2.0, Special Access Vol.2, 80 Years, Peru/Weygandt, US Special Forces Confession). Of these only Manhattan 2.0 and 80 Years also mention Magenta, Mussolini or the Vatican, and in both the Magenta passages are separate from the Alsos passages; neither ties Alsos to the craft. The Magenta transcript never mentions Alsos, Pash, Groves or T-Force. 'Soratte' (captioned 'serade') appears only in the Magenta video. Searched 'Moe Berg'/'berg': no hit in an Alsos or OSS context.",
       "weakest_link": "Everything on the Magenta side is Gerb's relay of Sharp/Pinotti sources plus his own 'likely' about Soratte, with no paper trail (he says so). The Alsos side needs outside dates: that the Italian Alsos team under Pash entered Rome with the troops in early June 1944, around when the Germans left Soratte, and that it worked with OSS there. These are checkable in Groves's and Pash's histories (Pash, 'The Alsos Mission'; Groves, 'Now It Can Be Told') and the Moe Berg OSS record. If Alsos Italy had left before the Soratte area was taken, or never went north of Rome, the timing link fails and only the analogy remains.",
       "surprise": 3,
-      "support": 2
+      "support": 2,
+      "resolved_at": "2026-10-16T05:39:21Z",
+      "analysis": "Analyses/Alsos was questioning Fermi's old Rome group when the OSS allegedly took the Magenta craft.md"
     },
     {
       "id": "L0015",
