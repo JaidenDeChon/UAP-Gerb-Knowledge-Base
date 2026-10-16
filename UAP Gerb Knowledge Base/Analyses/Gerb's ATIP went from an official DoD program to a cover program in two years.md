@@ -14,7 +14,7 @@ If you watched Gerb's early 2024 videos, you heard [[AATIP (Advanced Aerospace T
 
 ## The finding
 
-Between January 2024 and June 2026, the way Gerb describes ATIP and Elizondo's place in it changed from official program with a former director to a cover program that was never a real one. That is on the record in the transcripts. The claim here is about framing, not about how far Gerb once trusted Elizondo. In 2024, "former atip director" may have been the standard label of the time rather than a view Gerb had weighed. The dated videos also point to what moved him: Elizondo's CIFA background and his changing account of his ATIP role (both named in September 2025), *[[The Age of Disclosure]]* (released 21 November 2025, during the making of the NRO video), and Elizondo's own interview answers that Gerb plays in 2026.
+The transcripts show that between January 2024 and June 2026, Gerb's description of ATIP and of Elizondo's place in it changed from an official program with a former director to a cover program that was never a real one. The claim here concerns that framing only and says nothing about how far Gerb once trusted Elizondo. In 2024, "former atip director" may have been the standard label of the time rather than a view Gerb had weighed. The dated videos also point to what moved him: Elizondo's CIFA background and his changing account of his ATIP role (both named in September 2025), *[[The Age of Disclosure]]* (released 21 November 2025, during the making of the NRO video), and Elizondo's own interview answers that Gerb plays in 2026.
 
 ## The evidence
 
@@ -32,7 +32,7 @@ Between January 2024 and June 2026, the way Gerb describes ATIP and Elizondo's p
 
 The change comes in three steps. Through 2024, ATIP is an official program and Elizondo its former director, a label Gerb uses to give weight to the memo and to his answer to Kirkpatrick. By June 2025, ATIP is "likely a white world cover" tied to [[AAWSAP]]'s classified work, and Gerb calls the office one Elizondo "claimed" to direct. From September 2025, Gerb gives his reasons for distrusting Elizondo (the CIFA role and the shifting account of his ATIP role). After *The Age of Disclosure* he moves ATIP out of the AAWSAP picture altogether and places it in the National Security Council under [[James Clapper]]'s top cover. In *The Hidden Wing* he credits [[David Grusch]] with naming Clapper.
 
-This suggests a view that changed as new material reached Gerb, not a slip. Two of his 2024 arguments rested in part on the older framing, though. Elizondo was one of the four backers he named for the Wilson-Davis Memo, and ATIP's official standing was part of his answer to Kirkpatrick. His 2026 description of ATIP as a narrative-control effort run by a small circle also moves partway toward the kind of charge he called "blatantly false" in 2024. It only goes partway: Kirkpatrick says the story was invented, while Gerb says ATIP let out part of a real one.
+This suggests that Gerb's view changed as new material reached him, rather than that he misspoke. Two of his 2024 arguments did rest in part on the older framing. Elizondo was one of the four backers he named for the Wilson-Davis Memo, and ATIP's official standing was part of his answer to Kirkpatrick. His 2026 description of ATIP as a narrative-control effort run by a small circle also moves partway toward the kind of charge he called "blatantly false" in 2024. The overlap has a limit: Kirkpatrick says the story was invented, while Gerb says ATIP let out part of a real one.
 
 ## What cuts against it
 
