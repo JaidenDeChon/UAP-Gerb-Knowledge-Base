@@ -3418,7 +3418,7 @@
       "id": "L0049",
       "slice": "S025-focus",
       "found_at": "2026-10-16T19:12:10Z",
-      "status": "open",
+      "status": "written",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -3472,7 +3472,9 @@
       "weakest_link": "The Corso clip is a short interview excerpt: 'we finally gave it a name' could be loose phrasing for adopting a term rather than inventing it, and the speaker's 'I told her' context is unclear in the captions; the writer should confirm against the full interview or The Day After Roswell. Not a slip by Gerb: the disagreement is between Corso's words, his affidavit and the briefing document. Checkable via Corso's book/affidavit text and the EBD text (Bronk team suggested 'EBEs'). Web check found no source establishing the term before the 1984 film release, so the 'Corso borrowed it' reading is inference only.",
       "impact": 4,
       "support": 4,
-      "slip": false
+      "slip": false,
+      "resolved_at": "2026-10-16T19:19:57Z",
+      "analysis": "Analyses/The EBE term Corso shares with MJ-12 was public a decade before he used it.md"
     },
     {
       "id": "L0050",
