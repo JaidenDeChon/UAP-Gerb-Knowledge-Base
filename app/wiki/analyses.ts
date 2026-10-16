@@ -11,10 +11,23 @@ function frontmatterBlock(raw: string): string {
   return /^---\r?\n([\s\S]*?)\r?\n---/.exec(raw)?.[1] ?? ''
 }
 
+// YAML's escapes: `\"` and `\\` inside double quotes, `''` inside single quotes.
+const unescapeDouble = (s: string): string => s.replace(/\\(["\\])/g, '$1')
+const unescapeSingle = (s: string): string => s.replace(/''/g, "'")
+
+/** Strip YAML quotes from a value and undo their escapes. Unquoted values pass through. */
+function unquote(value: string): string {
+  const double = /^"(.*)"$/.exec(value)
+  if (double) return unescapeDouble(double[1]!)
+  const single = /^'(.*)'$/.exec(value)
+  if (single) return unescapeSingle(single[1]!)
+  return value
+}
+
 /** A top-level scalar from a frontmatter block, unquoted. */
-function scalar(block: string, key: string): string | undefined {
+export function scalar(block: string, key: string): string | undefined {
   const value = new RegExp(`^${key}:\\s*(.+)$`, 'm').exec(block)?.[1]?.trim()
-  return value?.replace(/^(["'])(.*)\1$/, '$2') || undefined
+  return (value && unquote(value)) || undefined
 }
 
 /**
@@ -27,7 +40,7 @@ export function listValue(block: string, key: string): string[] {
   if (inline !== undefined) {
     const items: string[] = []
     for (const m of inline.matchAll(/\s*(?:"((?:[^"\\]|\\.)*)"|'((?:[^']|'')*)'|([^,]+))/g)) {
-      const item = (m[1] ?? m[2] ?? m[3] ?? '').trim()
+      const item = (m[1] !== undefined ? unescapeDouble(m[1]) : m[2] !== undefined ? unescapeSingle(m[2]) : m[3] ?? '').trim()
       if (item) items.push(item)
     }
     return items
@@ -35,7 +48,7 @@ export function listValue(block: string, key: string): string[] {
   const lines = new RegExp(`^${key}:\\s*\\r?\\n((?:[ \\t]*-.*(?:\\r?\\n|$))+)`, 'm').exec(block)?.[1]
   return (lines ?? '')
     .split(/\r?\n/)
-    .map(line => line.replace(/^\s*-\s*/, '').trim().replace(/^(["'])(.*)\1$/, '$2'))
+    .map(line => unquote(line.replace(/^\s*-\s*/, '').trim()))
     .filter(Boolean)
 }
 

@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest'
 import { readFileSync } from 'node:fs'
 import { ANALYSIS_CONFIDENCES, ANALYSIS_KINDS, ANALYSIS_NOVELTIES } from '../shared/types/wiki'
-import { buildAnalyses, buildFootnotes, countFootnoteEntries, listValue } from './analyses'
+import { buildAnalyses, buildFootnotes, countFootnoteEntries, listValue, scalar } from './analyses'
 import { graphIndex } from './graph'
 import { VAULT_DIR, walkVault } from './vault'
 
@@ -85,5 +85,19 @@ describe('listValue', () => {
   it('gives [] for a missing or empty list', () => {
     expect(listValue('title: X', 'videos')).toEqual([])
     expect(listValue('videos: []', 'videos')).toEqual([])
+  })
+
+  it('undoes YAML quote escapes in list items', () => {
+    expect(listValue('videos: ["Say \\"hi\\"", \'It\'\'s\']', 'videos')).toEqual(['Say "hi"', "It's"])
+    expect(listValue('videos:\n  - "A \\"b\\""\n  - \'c\'\'d\'', 'videos')).toEqual(['A "b"', "c'd"])
+  })
+})
+
+describe('scalar', () => {
+  it('unquotes a value and undoes its YAML escapes', () => {
+    expect(scalar('dek: "Says \\"one craft\\" twice"', 'dek')).toBe('Says "one craft" twice')
+    expect(scalar("dek: 'Gerb''s gloss'", 'dek')).toBe("Gerb's gloss")
+    expect(scalar('dek: plain text', 'dek')).toBe('plain text')
+    expect(scalar('title: X', 'dek')).toBeUndefined()
   })
 })
