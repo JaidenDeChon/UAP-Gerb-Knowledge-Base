@@ -473,8 +473,8 @@
         "Battelle Memorial Institute"
       ],
       "handed_out": "2026-10-16T19:45:34Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-16T19:52:50Z",
+      "leads": 1
     },
     "S032-timeline": {
       "lens": "timeline",
@@ -482,8 +482,8 @@
         "1990s"
       ],
       "handed_out": "2026-10-16T19:45:34Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-16T19:52:50Z",
+      "leads": 3
     },
     "S033-focus": {
       "lens": "focus",
@@ -491,8 +491,8 @@
         "AARO"
       ],
       "handed_out": "2026-10-16T19:45:34Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-16T19:52:50Z",
+      "leads": 1
     }
   },
   "leads": [
@@ -4097,6 +4097,302 @@
       "slip": false,
       "resolved_at": "2026-10-16T19:34:01Z",
       "analysis": "Analyses/The pod in the Safeguard's logs fits Bluegill Triple Prime's own instrument pods.md"
+    },
+    {
+      "id": "L0059",
+      "slice": "S031-focus",
+      "found_at": "2026-10-16T19:52:50Z",
+      "status": "footnote-candidate",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "The 'restricted' stamp Gerb calls a private-sector tier is the government grade his later videos say Eisenhower abolished",
+      "claim": "In the Battelle video (February 2024) Gerb reads the 'restricted' marking on Battelle's 1949 titanium-alloy progress reports as 'a private sector classification standard', ties it to the Atomic Energy Commission, and uses it to support Grusch's point that contractors have their own classification that SAP-cleared officials can't breach. In his later videos Gerb himself describes Restricted as an ordinary US security classification, the grade below Confidential that Eisenhower's EO 10501 removed in November 1953 (80 Years timeline; Special Access Required Vol.2; and the MJ-12 video, where he says 'restricted classification Falls below confidential'). The contract number the vault records, AF 33(038)-3736, is an Air Force (Air Materiel Command) contract, not an AEC one. On Gerb's own later account, then, the 1949 stamp is the standard lowest government grade of its day, not evidence of a private-sector tier; the nitinol reading and the EJ Center story are untouched. Best handled as a footnote on the Battelle summary and the Battelle page sentence that repeats the 'private-sector classification tier' reading.",
+      "entities": [
+        "Battelle Memorial Institute",
+        "Atomic Energy Commission",
+        "David Grusch"
+      ],
+      "videos": [
+        "UFOs in the Private Sector - Battelle Memorial Institute",
+        "80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline",
+        "Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2",
+        "The Majestic-12 Documents With Ryan S. Wood"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/UFOs in the Private Sector - Battelle Memorial Institute/transcript.md",
+          "quote": "this study by battel into titanium based Alloys was a research and development project under the atomic energy commission",
+          "note": "Gerb attributes the 1949 work to the AEC.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UFOs in the Private Sector - Battelle Memorial Institute/transcript.md",
+          "quote": "it's not labeled as classified unclassified or Declassified but rather is labeled as restricted essentially this is a private sector classification standard in which only need to know readin access is solely allowed",
+          "note": "Gerb's 2024 reading of the 'restricted' stamp as a private-sector tier, which he then ties to Grusch's contractor-classification point.",
+          "verified": true
+        },
+        {
+          "source": "Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/transcript.md",
+          "quote": "This executive order removed the restricted US security classification [music] and introduced the modern US classification framework of confidential, secret, and top secrets.",
+          "note": "Later video: Restricted was a US government classification, abolished by EO 10501 (November 1953).",
+          "verified": true
+        },
+        {
+          "source": "Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/transcript.md",
+          "quote": "we referenced Eisenhower's Executive Order 10501, which removed the restricted classification designation",
+          "note": "Same point repeated in a second later video.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Majestic-12 Documents With Ryan S. Wood/transcript.md",
+          "quote": "restricted classification Falls below confidential and top secret",
+          "note": "Gerb (on MJ-12 skeptics) places Restricted in the government hierarchy below Confidential.",
+          "verified": true
+        },
+        {
+          "source": "Organizations/Battelle Memorial Institute.md",
+          "quote": "contract AF 33(038)-3736 (which Gerb reads as 33-38-3736)",
+          "note": "The catalogued contract is an Air Force contract, not an AEC one.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Grepped all transcripts for 'restricted', 'restricted data', 'private sector classification', '10501', and Battelle spellings (battel, batel, battelle, patel, vattel, mattel). The 'private sector classification' reading appears only in the Battelle video; the EO 10501 / Restricted-as-government-grade statements appear only in the 80 Years, SAR Vol.2 and MJ-12 videos, none of which mention the Battelle reports. No transcript sets the two side by side.",
+      "weakest_link": "A single loose gloss in one video could explain it (Gerb may have meant AEC 'Restricted Data' or simply misdescribed a stamp), and his later videos state the correct reading, so this is a footnote, not a post. The stamp itself is known only from Gerb's on-screen document; the DTIC scan (ADB816149) would confirm the marking and whether it reads RESTRICTED or AEC Restricted Data. That Restricted was a US military grade until EO 10501 (effective December 1953) is public record.",
+      "impact": 3,
+      "support": 4,
+      "slip": true
+    },
+    {
+      "id": "L0060",
+      "slice": "S032-timeline",
+      "found_at": "2026-10-16T19:52:50Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "Castle's anthrax shots and hot night sit oddly with a March 1997 date",
+      "claim": "Gerb anchors Rodrik Castle's triangle encounter to the Hunter Warrior experiment at Twentynine Palms (2 to 14 March 1997), and his whole reading of the case (the Navy's late adjunct to Hunter Warrior, NAWDC Fallon, NAS Lemoore, the CNA report) rests on that date. Two details from the same video pull against it. First, the anthrax history. Gerb says Castle had already had the vaccine and a booster shortly before Hunter Warrior and got another booster the day after the encounter. Castle says they 'signed something like we did before', and denies they were about to deploy anywhere with an anthrax scare. Gerb himself notes that the DoD-wide anthrax mandate only took effect in December 1997 and that only some troops got the vaccine before then. He reads the booster as sinister. He never considers the plainer reading: a Marine already in a shot series with forms to sign fits the post-December 1997 Anthrax Vaccine Immunization Program better than a CONUS Harrier squadron in early March 1997. Second, Castle opens his account with 'It's it's hot out there', on an overnight shift in early March in the high desert, where nights are usually cool. Castle served until 1999, and Harrier crash-retrieval crews from Yuma support exercises at Twentynine Palms many times a year. So the narrow, unsaid point is that two of Castle's own details fit a date after December 1997 (or at least a warmer month) better than the Hunter Warrior window. That date was supplied or confirmed by the experiment's calendar, not by any document of Castle's. If the encounter came later, the Hunter Warrior and Navy-adjunct reasoning loses its anchor, though the encounter itself does not. Framed as an open question, not a correction of the witness.",
+      "entities": [
+        "Rodrik Castle",
+        "Rodrik Castle UAP Encounter",
+        "Hunter Warrior Advanced Warfighting Experiment",
+        "Marine Corps Air Ground Combat Center 29 Palms"
+      ],
+      "videos": [
+        "1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE/transcript.md",
+          "quote": "Castle had shortly before Hunter Warrior already received a booster for his already taken anthrax vaccine.",
+          "note": "Castle was already in an anthrax series before the encounter.",
+          "verified": true
+        },
+        {
+          "source": "Videos/1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE/transcript.md",
+          "quote": "Indeed, DoD mandates for all US military personnel to vaccinate against anthrax did not go effect until December 1997.",
+          "note": "Gerb flags the anomaly himself but reads it as sinister, not as a dating clue.",
+          "verified": true
+        },
+        {
+          "source": "Videos/1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE/transcript.md",
+          "quote": "we signed something like we did before first time we signed the uh took the anthrax vaccine",
+          "note": "A routine-sounding procedure with paperwork, repeated from an earlier shot.",
+          "verified": true
+        },
+        {
+          "source": "Videos/1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE/transcript.md",
+          "quote": "Um and a routine night. It's it's hot out there.",
+          "note": "A hot overnight in the Mojave is odd for early March.",
+          "verified": true
+        },
+        {
+          "source": "Videos/1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE/transcript.md",
+          "quote": "Castle sighting of the triangle and its operational ground team occurred within the area of operations of Marine Corps Air Ground Combat Center 29 Palms during the 2nd to 14 March 1997 Hunter Warrior Advanced Warfighting Experiment",
+          "note": "Gerb's thesis depends on this window.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for Castle, Hunter Warrior, anthrax, booster, vaccin and mandate. Only the Castle video discusses the anthrax shots (with Herrera's and Weygandt's later boosters, which come after the mandate). Gerb treats the booster only as suspicious and never as evidence on the date. No transcript questions the March 1997 dating. A web search shows Castle independently dating his encounter to 29 Palms in 1997 (Coulthart Reality Check listing), so the year is his own. Whether Castle himself named Hunter Warrior, or Gerb matched the encounter to it, is not clear from the transcript.",
+      "weakest_link": "Castle publicly says 1997, and if he himself remembers Hunter Warrior (a large, memorable experiment) the March date is solid and the anthrax detail is just an unexplained oddity. Pre-1998 anthrax shots did happen for some units (Gulf deployers), and 'hot' may mean nothing. Checkable: VMA-513's participation in Hunter Warrior (MCWL/CNA after-action reports), Castle's service medical record (vaccination dates), and asking Castle how he fixed the date. Not a Gerb slip.",
+      "impact": 4,
+      "support": 2,
+      "slip": false
+    },
+    {
+      "id": "L0061",
+      "slice": "S032-timeline",
+      "found_at": "2026-10-16T19:52:50Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "timeline",
+      "headline": "The Phoenix Lights fell inside Hunter Warrior's twelve nights, and both triangles were put down to flares",
+      "claim": "Gerb dates Rodrik Castle's encounter with a silent, roughly 300-foot black triangle near Emerson Dry Lake to one night of the Hunter Warrior experiment, 2 to 14 March 1997. His Level 1 iceberg covers the Phoenix Lights of 13 March 1997, a vast silent V or delta seen from the Nevada border down through Arizona, which the official account put down to flares. That date falls on the experiment's penultimate night, about 250 miles east of Twentynine Palms. Castle's team was sent out to check 'flare activity', and afterwards their gunnery sergeant and warrant officer told them it was 'just simple flares'. So in the same fortnight, two large silent triangles were reported in the desert Southwest and both were explained the same way. Gerb ties both craft separately to Fouché's TR-3B (he even plays Fouché's 'hovering over Phoenix' line in the Castle video) but never notes that the Phoenix Lights happened during Hunter Warrior. The finding is the date overlap and the shared flare explanation only. It does not show that they were the same craft or the same night.",
+      "entities": [
+        "Phoenix Lights",
+        "Rodrik Castle UAP Encounter",
+        "Hunter Warrior Advanced Warfighting Experiment",
+        "TR-3B",
+        "Fife Symington"
+      ],
+      "videos": [
+        "1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE",
+        "The Alien and UFO Obscure Oddities Iceberg (Level 1)",
+        "Alien Reproduction Vehicle - TR-3B and the Flying Triangles"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE/transcript.md",
+          "quote": "Castle sighting of the triangle and its operational ground team occurred within the area of operations of Marine Corps Air Ground Combat Center 29 Palms during the 2nd to 14 March 1997 Hunter Warrior Advanced Warfighting Experiment",
+          "note": "Castle's window includes 13 March.",
+          "verified": true
+        },
+        {
+          "source": "Videos/1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE/transcript.md",
+          "quote": "reminded the men whatever they encountered was just simple flares and to not tell others",
+          "note": "Flare explanation given to Castle's team.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Alien and UFO Obscure Oddities Iceberg (Level 1)/transcript.md",
+          "quote": "the Phoenix Lights refers to a mass UFO sighting in a boomerang or v formation over Phoenix Arizona in March 13th 1997",
+          "note": "Phoenix date.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Alien and UFO Obscure Oddities Iceberg (Level 1)/transcript.md",
+          "quote": "official narrative that these sightings was due to flares and flying formations of A10 Thunderbolt 2 aircrafts",
+          "note": "Same flare explanation.",
+          "verified": true
+        },
+        {
+          "source": "Videos/1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE/transcript.md",
+          "quote": "It may be stealthily hovering over Phoenix, Belgium, or your city.",
+          "note": "Fouché clip played in the Castle video. It mentions Phoenix generically, not the March 1997 date.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for phoenix, Symington, Hunter Warrior and Castle. Phoenix appears only in the iceberg (Level 1) video (the 1997 event) and in the Fouché clip played in the TR-3B and Castle videos. Hunter Warrior and Castle never appear in the same passage as the Phoenix Lights event or its date. Gerb mentions Corbell's 2023 29 Palms triangle-or-flares footage in the Castle video and dismisses it as irrelevant. The iceberg ties Corbell's Palm Springs footage to the Phoenix flares, but never Castle.",
+      "weakest_link": "Pure date coincidence: Castle's night is unknown within the 12 days (or may not be in March at all; see the companion lead). Directions and times don't match: the Phoenix V moved south from Nevada around 7:30 to 8:45 pm MST, while Castle's craft left north-west late at night (around 2:30). The Phoenix flares were the 10 pm Maryland ANG A-10 drop over the Goldwater range, a different event from the V. 'Flares' is the military's stock answer to night lights. Without a shared night, this is speculative and needs impact 5 to publish, which it probably doesn't reach. Checkable only through Castle pinning his night.",
+      "impact": 4,
+      "support": 2,
+      "slip": false
+    },
+    {
+      "id": "L0062",
+      "slice": "S032-timeline",
+      "found_at": "2026-10-16T19:52:50Z",
+      "status": "footnote-candidate",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "Gerb calls Wilson DIA director in 1997, when Hughes held the post",
+      "claim": "In the 80 Years timeline (and the Special Forces video) Gerb says that in 1997 'Vice Admiral and DIA director Thomas Wilson' tried to force a read-in. In 1997 the DIA director was Lt Gen Patrick M. Hughes (February 1996 to July 1999), who appears in the same story as the official who also wanted a briefing. Wilson became director only on 27 July 1999. Gerb's own reading of the notes has the SRG chairman threatening that Wilson 'would not see the director of the DIA promotion', and his other videos call Wilson deputy director in 1997. A probable slip, so it belongs in a footnote on the 80 Years summary and on the Thomas Wilson page.",
+      "entities": [
+        "Thomas Wilson",
+        "Patrick M. Hughes",
+        "Wilson-Davis Memo"
+      ],
+      "videos": [
+        "80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline",
+        "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs",
+        "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/transcript.md",
+          "quote": "1997 saw Vice Admiral and DIA director Thomas Wilson attempt to force a readen into the legacy program portfolio",
+          "note": "The slip.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs/transcript.md",
+          "quote": "the srg chairman John Deutsch told Wilson if he did not follow their suggestion quote he would not see the director of the DIA promotion",
+          "note": "In Gerb's own reading, the directorship was still a future promotion in 1997.",
+          "verified": true
+        },
+        {
+          "source": "People/Patrick M. Hughes.md",
+          "quote": "served as the twelfth Director of the [[Defense Intelligence Agency]] from February 1996 to July 1999",
+          "note": "The actual director in 1997.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Grepped all transcripts for 'DIA director', 'director of the DIA' and 'deputy director of the D'. 80 Years and Special Forces Confession call Wilson DIA director in 1997. The Wilson Davis, Manhattan Project 2.0 and Special Access Required Vol.2 videos call him deputy director then. The NRO, SAIC and Lockheed videos say 'former DIA director' (correct for 2002). No existing gerb- footnote covers this. The 80 Years summary repeats 'director of the Defense Intelligence Agency (DIA)' for 1997.",
+      "weakest_link": "A single slip of 'director' for 'deputy director' explains it entirely. No consequence for the story.",
+      "impact": 2,
+      "support": 4,
+      "slip": true
+    },
+    {
+      "id": "L0063",
+      "slice": "S033-focus",
+      "found_at": "2026-10-16T19:52:50Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "hidden-link",
+      "headline": "Kirkpatrick's CIA years were spent in the directorate O'Sullivan ran",
+      "claim": "Sean Kirkpatrick, AARO's first director, converted from the Air Force to the CIA in 2005 and served as a staff scientist in the CIA Directorate of Science and Technology until about 2007 (his DoD and AFCEA biographies; Gerb gives 2005 to 2007 in the NRO video). Stephanie O'Sullivan headed that directorate from 2005 until December 2009, after two years as its deputy (her biographies; Gerb says she held the post 'for four years'). So Kirkpatrick's only years inside the CIA proper were spent in O'Sullivan's directorate while she ran it. Gerb raises each half separately: in the NRO video he names the DS&T years as one place Kirkpatrick may first have been exposed to legacy programs, and in Northrop Grumman & TRW Vol.2 he relays Grusch's claim that O'Sullivan supported Clapper in managing the crash retrieval issue and ties her to Kirkpatrick only through Oak Ridge, the lab he joined after AARO (she sat on its advisory board and on the board of Battelle, which manages it). He never notes that Kirkpatrick worked under her at the CIA. The narrow inference: the CIA posting Gerb flags as Kirkpatrick's possible point of exposure falls inside the tenure of an official Grusch names as part of the crash retrieval management, and the same official later sat on the board of the company that runs the lab that hired him off AARO. It shows a shared chain of command, not personal contact or any briefing.",
+      "entities": [
+        "Sean Kirkpatrick",
+        "Stephanie O'Sullivan",
+        "CIA Directorate of Science and Technology",
+        "AARO",
+        "Oak Ridge National Laboratory",
+        "Battelle Memorial Institute",
+        "David Grusch",
+        "James Clapper"
+      ],
+      "videos": [
+        "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers",
+        "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers/transcript.md",
+          "quote": "or possibly when he joined the CIA DS&T as a staff scientist from 2005 to 2007.",
+          "note": "Gerb names Kirkpatrick's DS&T years as a possible point of prior exposure to legacy programs, but doesn't say who ran the directorate then.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2/transcript.md",
+          "quote": "Prior to PDDNI, O'Sullivan served as Deputy Director of the CIA >> [music] >> and Deputy Director of CIA's Directorate of Science and Technology, aka DS&T, for [music] four years.",
+          "note": "Gerb gives O'Sullivan four years at the head of the DS&T (the head's title is Deputy Director for S&T), which is 2005 to 2009 on her record.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2/transcript.md",
+          "quote": "David Grusch spoke that James Clapper had control over elements of the crash retrieval issue, and he was supported greatly by his PDDNI, Principal Deputy Director of National Intelligence, Stephanie O'Sullivan.",
+          "note": "Why O'Sullivan matters: Grusch, as Gerb relays him, places her in the management of the crash retrieval issue.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2/transcript.md",
+          "quote": "O'Sullivan additionally formally served on the Board of Advisors for Oak Ridge National Labs, a DOE [music] and NNSA sponsored FFRDC national lab that Sean Kirkpatrick ran off to post-AARO",
+          "note": "The only tie Gerb draws between the two runs through Oak Ridge after AARO, not through the CIA years.",
+          "verified": true
+        },
+        {
+          "source": "People/Sean Kirkpatrick.md",
+          "quote": "in 2005 he moved to the CIA's [[CIA Directorate of Science and Technology|Directorate of Science and Technology]] as a staff scientist",
+          "note": "Page's research from his DoD biography: the 2005 conversion to the CIA's DS&T.",
+          "verified": true
+        },
+        {
+          "source": "People/Stephanie O'Sullivan.md",
+          "quote": "She became deputy director of the DS&T in 2003, headed the directorate for four years, and in December 2009 was named Associate Deputy Director of the CIA.",
+          "note": "Puts her at the head of the DS&T from about 2005 to December 2009, covering all of Kirkpatrick's 2005-2007 posting.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for O'Sullivan (5 videos: 80 Years, Northrop Grumman & TRW Vol.2, Hidden Wing, MITRE, Manhattan Project 2.0) and checked each passage for Kirkpatrick/AARO: the only co-mention is the Oak Ridge advisory-board line in Northrop Vol.2. Searched 'staff scientist' (only the NRO video, with no mention of O'Sullivan). Searched Kirkpatrick (and the caption spellings Kirkpatre, Kurpatre, Kirk Patrick, Kurt Patrick) near DS&T, Gaffney and O'Sullivan: none says who led the DS&T during his time there. I also checked a Donald Kerr version (Kerr ran the DS&T 2001 to July 2005), but Kirkpatrick's 2003-2005 NRO post was as an Air Force civilian before he converted to the CIA, so the Kerr overlap is only a few months at best and was dropped.",
+      "weakest_link": "The DS&T is a large directorate. Being a staff scientist while O'Sullivan headed it shows a shared chain of command, not that they worked together or that she had anything to do with his later appointment. The finding only holds if it is framed that narrowly. Dates can be checked: Kirkpatrick's 2005 conversion and DS&T staff-scientist role are in his July 2022 DoD biography (media.defense.gov) and AFCEA bio, and O'Sullivan's 2005-2009 DS&T tenure is in her Wikipedia/ODNI biographies. The end date of his DS&T posting (2007, when his bio says he became CTO of a joint CIA-DIA program office) comes from his bio and Gerb. The Grusch premise rests on Gerb's paraphrase of Grusch's Megyn Kelly interview and should be checked against the interview itself. Not a slip: both halves come from biographies, not from Gerb's wording.",
+      "impact": 4,
+      "support": 3,
+      "slip": false
     }
   ]
 }
