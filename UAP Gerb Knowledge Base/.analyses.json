@@ -2088,7 +2088,7 @@
       "id": "L0030",
       "slice": "S013-focus",
       "found_at": "2026-10-16T14:07:43Z",
-      "status": "open",
+      "status": "shelved",
       "duplicate_of": null,
       "problems": [],
       "kind": "timeline",
@@ -2156,7 +2156,9 @@
       "weakest_link": "Grusch's list may be loose. 'DIA director' could be shorthand, and he may only mean that Clapper placed people when he held those jobs, not that he managed the issue continuously from 1991. Grusch gives no dates, so the 1991-95 overlap is inference from his wording plus Clapper's public CV (checkable: DIA and ODNI official bios). It is not a slip by Gerb; the clip is played verbatim. 'Clapper, I'm looking at you' may count as Gerb half-drawing the 1994 line, which would narrow novelty to the Cheney-SecDef overlap. Nothing ties the unnamed shred-party agency to DIA, so the claim must stay at timing.",
       "impact": 4,
       "surprise": 4,
-      "support": 3
+      "support": 3,
+      "resolved_at": "2026-10-16T14:09:03Z",
+      "reason": "Narrowed to a minor date overlap: Gerb already names Clapper as DIA director (Northrop & TRW Vol.2) and points at him right after the 1994 control-group handover ('Clapper, I'm looking at you', Special Access Required Vol.2), so all that is unsaid is that Clapper's DIA term (Nov 1991) overlapped Cheney's last 14 months as SecDef, which every DIA director of that era shares; Grusch's list of posts is undated and may mean only that he placed people while in them. Impact 2-3."
     },
     {
       "id": "L0031",
