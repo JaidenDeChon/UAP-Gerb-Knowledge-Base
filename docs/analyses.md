@@ -38,7 +38,7 @@ Every analysis carries one label. Pick the lowest that fits.
 | `moderate` | The facts are solid, but joining them needs an assumption the evidence makes likely without proving it. | Probably the same person (same surname, rank and base), or the timing fits but the place is only regional. |
 | `speculative` | Worth flagging, but it rests on a coincidence, an unverified identity or one ambiguous line. | A name that might be a mis-transcription; a date known only to the year. |
 
-When a web page can't be fetched, a fact confirmed only by search-result snippets counts as verified if two independent results agree. If one snippet is all there is, the finding can be `moderate` at most.
+A library, archive or government catalog record (DTIC, the National Archives, a university repository) counts as primary verification for a document's title, number and date. When a web page can't be fetched, a fact confirmed only by search-result snippets counts as verified if two independent results agree. If one snippet is all there is, the finding can be `moderate` at most.
 
 Common names, years that are crowded with events (1947, 1952, 1997), and caption errors in the transcripts all inflate apparent links. Weigh them before choosing a label.
 
