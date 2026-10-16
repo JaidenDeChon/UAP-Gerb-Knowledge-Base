@@ -260,9 +260,6 @@ const articleClass = computed(() => hasRail.value
             </h1>
 
             <WikiAnalysisStrip v-if="analysis" :meta="analysis" />
-            <p v-else-if="isFootnotesLog" class="mb-7 font-sans text-[13px] leading-5 text-muted-foreground">
-              Small corrections where a video probably misspoke. Each one is also footnoted where it appears.
-            </p>
 
             <p v-if="article.lead" class="mb-7 font-sans text-[20px] leading-[30px] text-muted-foreground">
               {{ article.lead }}

@@ -44,6 +44,8 @@ A footnote corrects a probable slip. It isn't an analysis, so it carries no conf
 2. **On the most relevant entity page**, the same way, on the sentence that repeats the slip. Leave the page's other text alone.
 3. **On the log page** `UAP Gerb Knowledge Base/Analyses/Footnotes and Corrections.md` (frontmatter `kind: footnotes`, `title: "Footnotes and Corrections"`), as one `## <short title>` entry, newest first. Each entry gives the date, what the video says (verbatim), the likely correction, the source for the correction, and links to the summary and entity page it's footnoted on.
 
+Adding a footnote doesn't change what a paragraph says, so it needs no `> [!edit]` card (see "Edit cards" in CLAUDE.md). If you also correct the paragraph's own wording, that correction does need one.
+
 Never put a footnote in a page's opening paragraph: the app turns that paragraph into a plain-text lead and the marker would vanish. Footnote the first later sentence that carries the claim instead.
 
 The note itself is one or two plain sentences: what Gerb says, what the record or the clip says, and a source. Phrase it as a likely slip, never as a gotcha: "Gerb glosses Condron Field as Roswell; Condron Field was the White Sands range airfield, about 130 miles away (WSMR Museum)." Quote the transcript verbatim. Corrections of outside facts follow the same verification rules as posts.

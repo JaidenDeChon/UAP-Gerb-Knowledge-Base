@@ -1961,8 +1961,8 @@ counting its entries as its `## ` headings outside fenced code
 (`countFootnoteEntries`), and `/api/footnotes` serves its path, title and
 count (or nothing while the vault has no log). `/analyses` shows a
 "Footnotes and corrections · N entries" link under the intro. On the log
-page itself the header strip gives way to one muted line saying what the
-log is.
+page itself there is no header strip; the log's own opening paragraph,
+shown as the page's lead, says what the log is.
 
 Analyses are their own category (`Analyses`, amber, the `lightbulb` glyph).
 `Analyses` is last in `FOLDER_PRIORITY` (`wiki/naming.ts`), so a headline
