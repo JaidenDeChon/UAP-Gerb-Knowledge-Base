@@ -328,3 +328,5 @@ Report:
 - **Encyclopedic voice.** Formal but accessible. No first person, no casual language.
 - **Additive by default.** Integrate new information into existing content — don't bulldoze pages that already have substance. Reserve full rewrites for stubs and genuinely bad pages.
 - **Scope judgment.** Not every noun needs a wiki page. Use judgment about what's meaningful to document.
+
+**Edit cards.** When you correct, re-attribute or remove a fact in an existing paragraph, put a `> [!edit]` card beneath it, following the "Edit cards" section of CLAUDE.md. New material from a video doesn't need one.

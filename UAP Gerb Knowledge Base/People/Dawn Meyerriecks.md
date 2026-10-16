@@ -46,7 +46,10 @@ rows:
 
 ## Alleged Legacy Program Relevance
 
-In his video on the [[NRO (National Reconnaissance Office)|NRO]], Gerb names Meyerriecks as one of thirteen officials with NRO ties who he believes are likely legacy-program members or gatekeepers. He notes that she began her career at TRW, a company he has "directly implicated" in work on derivative technologies, and that she served as CIA DS&T deputy director "for 8 years following her three-year position" as ADNI/AT&F. Her CV has no direct reference to the NRO or the [[CIA Office of Global Access]], but Gerb says "we can strongly assume she performed intimate work with both offices" in those two posts, and he shows a photograph of her with [[Glenn Gaffney]]. In *Special Access Required* Vol. 2 he names her and [[Doug Wolfe]] as "spook legacy gatekeepers" who both served in the ODNI acquisition office and as deputy directors of the DS&T.
+In his video on the [[NRO (National Reconnaissance Office)|NRO]], Gerb names Meyerriecks as one of thirteen officials with NRO ties who he believes are likely legacy-program members or gatekeepers. He notes that she began her career at TRW, a company he has "directly implicated" in work on derivative technologies, and that she served as CIA DS&T deputy director "for 8 years following her three-year position" as ADNI/AT&F. Her published record differs in detail: she was ADNI/AT&F for about four years, from 2009 to 2013, and joined the DS&T in June 2013 as associate deputy director, becoming deputy director only in October 2015. Gerb's eight years match her whole time at the DS&T, to 2021, not her time as its deputy director. Her CV has no direct reference to the NRO or the [[CIA Office of Global Access]], but Gerb says "we can strongly assume she performed intimate work with both offices" in those two posts, and he shows a photograph of her with [[Glenn Gaffney]]. In *Special Access Required* Vol. 2 he names her and [[Doug Wolfe]] as "spook legacy gatekeepers" who both served in the ODNI acquisition office and as deputy directors of the DS&T.
+
+> [!edit] Clarified 16 October 2026
+> Added her published ODNI and CIA DS&T dates beside Gerb's "8 years" quote, which matches her whole time at the DS&T rather than her time as its deputy director.
 
 In his MITRE investigation, Gerb says that "immediately following agency DS&T" Meyerriecks joined "the corporate board of MITRE". He says the ADNI/AT&F office she once led, together with its Department of Defense counterpart, the [[Under Secretary of Defense for Acquisition and Sustainment (USD A&S)]], is "imperative to legacy program operations, specifically through NRO acquisitions." He names her alongside [[Donald M. Kerr]], [[Stephanie O'Sullivan]] and [[Susan Gordon]] as part of a pattern: senior intelligence-community figures allegedly close to legacy programs who took roles at MITRE.
 
@@ -60,6 +63,9 @@ In *Northrop Grumman & TRW* Vol. 2, Gerb says Meyerriecks worked at TRW from 198
 - [[Videos/Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2/summary|Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2]]
 - [[Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/summary|Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2]]
 - [[Videos/The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs/summary|The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]
+- [USGIF, "Dawn Meyerriecks" (biography)](https://usgif.org/biography/dawn-meyerriecks/)
+- [Potomac Officers Club, "Dawn Meyerriecks" (speaker biography)](https://www.potomacofficersclub.com/speakers/dawn-meyerriecks/)
+- [Nextgov, "Dawn Meyerriecks takes tech job at CIA" (May 2013)](https://www.nextgov.com/cybersecurity/2013/05/dawn-meyerriecks-takes-tech-job-at-cia/246734/)
 
 ## Related Pages
 

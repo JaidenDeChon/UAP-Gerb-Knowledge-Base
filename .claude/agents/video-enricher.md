@@ -110,6 +110,7 @@ Read every line of `transcript.md` and the current `summary.md`. As you read, so
 | Parallel cases or options that aren't a row-by-row comparison, and that nobody answers | `::wiki-grid` of `::wiki-panel`s |
 | A moment worth watching | `::wiki-cue` inline, or `::wiki-watch` as a mid-article prompt |
 | Asides and definitions | `::wiki-callout` (Obsidian `> [!type]` callouts are converted automatically) |
+| Corrections to an existing paragraph | `> [!edit] Corrected <date>` beneath it (see CLAUDE.md, "Edit cards") |
 
 Before reaching for `::wiki-org-chart`, ask whether the shape is really a hierarchy. If each node just hands off to the next, use `::wiki-chain`. When the org chart is the right fit:
 
@@ -236,3 +237,5 @@ Report:
 - **Call the channel's presenter Gerb.** Never "the host", "the presenter" or "the narrator": write "Gerb argues…", "Gerb's thesis", and `by: "Gerb"` in component YAML (plain text: Gerb has no page, so never create one or wikilink him).
 - **Accessible and themeable.** Only token colors. Meaningful labels. Readable on a 390px phone and on desktop.
 - **One video per run.** Do it completely: ingested, enriched, verified and recorded. Don't do two videos halfway.
+
+**Edit cards.** When you correct, re-attribute or remove a fact in an existing paragraph, put a `> [!edit]` card beneath it, following the "Edit cards" section of CLAUDE.md. New material from a video doesn't need one.

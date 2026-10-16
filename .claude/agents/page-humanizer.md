@@ -142,3 +142,5 @@ End with a short report:
 - the next item in the queue (`python3 scripts/humanize_pages.py next`, with `--articles` in the article sweep), or `ALL DONE`
 
 If you hit a blocker (the page has uncommitted changes, the check fails and you cannot fix it without losing meaning), say so plainly, leave the page uncommitted and unrecorded, and stop.
+
+**Edit cards.** `> [!edit]` callouts record past corrections (see CLAUDE.md). You may reword the body like any callout, but keep its title, date and every fact, and never remove one.

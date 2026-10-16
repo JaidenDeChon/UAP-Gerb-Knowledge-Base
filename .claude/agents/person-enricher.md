@@ -163,3 +163,5 @@ Work from `app/`. Install dependencies once if needed with `bun install --frozen
 - **Use components for structure.** Every component must make something clearer than prose could.
 - **Accessible and themeable.** Only token colours. Readable on a 390px phone and on desktop.
 - **One person per run**, done completely.
+
+**Edit cards.** When you correct, re-attribute or remove a fact in an existing paragraph, put a `> [!edit]` card beneath it, following the "Edit cards" section of CLAUDE.md. New material from a video doesn't need one.
