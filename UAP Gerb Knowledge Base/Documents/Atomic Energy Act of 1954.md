@@ -22,10 +22,13 @@ For national security and oversight, the Act's most important feature is the "Re
 - It is established by statute rather than executive decree, so a president cannot unilaterally declassify it.
 - It is "born classified": information about nuclear weapons design, production processes and special nuclear materials is classified automatically by operation of law, even if no one has ever formally reviewed or stamped it.
 - It is exempt from the standard FOIA processes that apply to other federal records.
-- It stays Restricted Data until the Commission (today the Department of Energy) declassifies it: section 142 gives that power to the agency, not to Congress or the President.
+- It stays Restricted Data until the Commission (today the Department of Energy) declassifies it: section 142 gives that power to the agency, not to Congress. For data relating mainly to the military use of atomic weapons, the Commission and the Department of Defense decide jointly, and the President decides if they disagree (section 142 c.).
 
 > [!edit] Corrected 16 October 2026
 > Earlier versions said Restricted Data could leave the classification system only by specific congressional action. Section 142(a) of the Act has the Commission itself determine what can be declassified.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said section 142 gives the declassification power to the agency and not to the President. Section 142 c. has the Commission and the Department of Defense decide jointly on Restricted Data relating primarily to the military utilization of atomic weapons, with the President deciding when they do not agree.
 
 A related category, Transclassified Foreign Nuclear Information (TFNI), covers information about nuclear programs that foreign governments originally classified and that has been incorporated into U.S. classified holdings.
 
