@@ -305,6 +305,33 @@
       "handed_out": "2026-10-16T14:16:22Z",
       "ingested": "2026-10-16T14:21:29Z",
       "leads": 0
+    },
+    "S019-focus": {
+      "lens": "focus",
+      "items": [
+        "Steven Greer"
+      ],
+      "handed_out": "2026-10-16T14:36:13Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S020-accounts": {
+      "lens": "accounts",
+      "items": [
+        "Steven Greer"
+      ],
+      "handed_out": "2026-10-16T14:36:13Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S021-focus": {
+      "lens": "focus",
+      "items": [
+        "Lockheed Martin"
+      ],
+      "handed_out": "2026-10-16T14:36:13Z",
+      "ingested": null,
+      "leads": 0
     }
   },
   "leads": [
