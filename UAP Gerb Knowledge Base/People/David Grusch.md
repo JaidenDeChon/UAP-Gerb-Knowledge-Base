@@ -302,7 +302,7 @@ Grusch has been in contact with other UAP whistleblowers, including [[Michael He
 
 ## Attempts to Contact AARO
 
-Grusch has publicly stated that he tried to approach [[AARO]] and its director [[Sean Kirkpatrick]] but received no response. This directly contradicts [[Sean Kirkpatrick]]'s claim, in his *Scientific American* op-ed, that no whistleblowers chose to contact AARO. Unlike Kirkpatrick, Grusch has testified before Congress under oath.
+According to Gerb, Grusch has said he tried to approach [[AARO]] and its director [[Sean Kirkpatrick]] but received no response. After Kirkpatrick said at an October 2023 press roundtable that AARO had invited Grusch at least four or five times, Grusch told NewsNation he had "zero emails or calls from them". AARO records released to The Black Vault through FOIA in April 2024 say Kirkpatrick arranged an interview that Grusch did not attend and that a renewed invitation was declined. Gerb sets Grusch's account against [[Sean Kirkpatrick]]'s claim, in his *Scientific American* op-ed, that no whistleblowers chose to contact AARO. Unlike Kirkpatrick, Grusch has testified before Congress under oath.
 
 ::wiki-claim{video="hK24ZdkvwN4" video-title="The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies"}
 ---
@@ -349,3 +349,4 @@ Grusch worked with Representative [[Eric Burlison]] to send [[MITRE Corporation]
 - [[Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/summary|Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2]]
 - [[Videos/The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs/summary|The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]
 - [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
+- AARO's attempts to interview Grusch: [NewsNation](https://digital-release.newsnationnow.com/?p=2785068); [The Black Vault FOIA release](https://www.theblackvault.com/documentarchive/?p=19383); [Jason Colavito](https://www.jasoncolavito.com/blog/documents-detail-david-gruschs-efforts-to-avoid-speaking-to-aaro)
