@@ -9,6 +9,7 @@
     python3 scripts/analyses.py list [STATUS]     # leads, best first (default: open)
     python3 scripts/analyses.py resolve ID written "Analyses/<Headline>.md"
     python3 scripts/analyses.py resolve ID discarded "<reason>"
+    python3 scripts/analyses.py resolve ID footnoted "<footnote id, e.g. gerb-condron-field>"
     python3 scripts/analyses.py signals LENS [N]  # preview a lens's raw signals without handing out a slice
 
 A *slice* is one scout's share of the vault, seen through one of four lenses:
@@ -114,7 +115,8 @@ class Vault:
         self.folder = {name: path.parent.name for name, path in self.entities.items()}
         self.summaries = {p.parent.name: p for p in sorted((VAULT / "Videos").glob("*/summary.md"))}
         self.transcripts = {p.parent.name: p for p in sorted((VAULT / "Videos").glob("*/transcript.md"))}
-        self.analyses = sorted((VAULT / "Analyses").glob("*.md")) if (VAULT / "Analyses").exists() else []
+        # The footnotes log lives in Analyses/ but isn't an analysis.
+        self.analyses = [p for p in sorted((VAULT / "Analyses").glob("*.md")) if p.stem != "Footnotes and Corrections"] if (VAULT / "Analyses").exists() else []
 
         self.out: dict[str, set[str]] = {}
         for name, path in self.entities.items():
@@ -497,15 +499,16 @@ def cmd_list(status: str) -> None:
 
 
 def cmd_resolve(lead_id: str, outcome: str, detail: str) -> None:
-    if outcome not in {"written", "discarded"}:
-        sys.exit("outcome must be 'written' or 'discarded'")
+    if outcome not in {"written", "discarded", "footnoted"}:
+        sys.exit("outcome must be 'written', 'discarded' or 'footnoted'")
     ledger = load()
     lead = next((l for l in ledger["leads"] if l["id"] == lead_id), None)
     if not lead:
         sys.exit(f"no lead {lead_id}")
     if outcome == "written" and not (VAULT / detail).is_file():
         sys.exit(f"no such analysis: {detail}")
-    lead.update(status=outcome, resolved_at=now(), **({"analysis": detail} if outcome == "written" else {"reason": detail}))
+    field = {"written": "analysis", "discarded": "reason", "footnoted": "footnote"}[outcome]
+    lead.update(status=outcome, resolved_at=now(), **{field: detail})
     for dup in ledger["leads"]:
         if dup.get("duplicate_of") == lead_id:
             dup.update(status=outcome, resolved_at=now())

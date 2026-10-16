@@ -23,10 +23,28 @@ A finding must be all three:
 |---|---|---|
 | `hidden-link` | Two entities that never appear together are tied by a shared person, employer, base, contractor, document or date. | X's employer in video 12 is the contractor Y names in video 31. |
 | `timeline` | Events from different videos that line up in time (and usually place) once they share one timeline. | The week of A's sighting is the week B says a recovery team deployed nearby. |
-| `contradiction` | Accounts that disagree on a name, date, place, sequence, number or who said what. This includes Gerb's coverage disagreeing with itself, and a page disagreeing with a transcript. | Video 4 puts the meeting in 1997; video 19 puts the same meeting in 1994. |
+| `contradiction` | Sources that disagree on a name, date, place, sequence, number or who said what, in a way a slip can't explain (see "Contradiction or footnote?" below). It also covers a view Gerb has clearly changed across several videos. | One witness puts the landing in 1954 and the filmed account puts it in 1964; the confirmation Gerb ties to one belongs to the other. |
 | `pattern` | The same mechanism recurring across three or more cases, at least two from different videos. | The same handoff from base security to an outside team, in four crash accounts. |
 
+### Contradiction or footnote?
+
+Before treating a disagreement as a contradiction, ask whether Gerb could simply have misspoken. That's always a realistic possibility, even when it isn't the likeliest one: a swapped acronym (DS&T for ODNI), a misremembered year, a gloss on a place name ("which is of course Roswell"), a paraphrase that drifts from the clip he has just played, or a date carried over from a neighbouring line.
+
+- **If a single slip like that could explain it, it's a footnote, not an analysis.** It gets a short correction where it happens (see "Footnotes" below). No post is written.
+- **It's a contradiction only when the disagreement is in the subject matter itself** and no slip explains it: witness against witness, document against document, a claim against the record, or one source's detail that breaks another source's story. The Holloman post is the model: the confirmation Gerb attaches to the 1954 story belongs to a different, filmed event.
+- **A view Gerb has clearly changed** (stated one way in one video and another way in later videos, more than once) stays an analysis, framed as a change of view. Always say plainly that Gerb's understanding may have changed as new information reached him, name that information if the transcripts or the dates point to it, and never present the change as a gotcha. The Grusch and AARO post is the model.
+
 A contradiction is a finding, not an error report. Present both sides with their sources, say which the evidence favours if it does, and never "correct" a witness. If the contradiction is only an error in one of this vault's own pages (the transcript is clear and the page misread it), it isn't an analysis: fix the page instead and note the fix in the run's report.
+
+## Footnotes
+
+A footnote corrects a probable slip. It isn't an analysis, so it carries no confidence or novelty labels. It appears in three places, all with the same text:
+
+1. **On the sentence in the video's `summary.md`** where the slip is reported, as a GFM footnote: `...which is of course Roswell.[^gerb-condron-field]`, with `[^gerb-condron-field]: <the note>` at the end of the page. Footnote ids always start with `gerb-` and are unique across the vault.
+2. **On the most relevant entity page**, the same way, on the sentence that repeats the slip. Leave the page's other text alone.
+3. **On the log page** `UAP Gerb Knowledge Base/Analyses/Footnotes and Corrections.md` (frontmatter `kind: footnotes`, `title: "Footnotes and Corrections"`), as one `## <short title>` entry, newest first. Each entry gives the date, what the video says (verbatim), the likely correction, the source for the correction, and links to the summary and entity page it's footnoted on.
+
+The note itself is one or two plain sentences: what Gerb says, what the record or the clip says, and a source. Phrase it as a likely slip, never as a gotcha: "Gerb glosses Condron Field as Roswell; Condron Field was the White Sands range airfield, about 130 miles away (WSMR Museum)." Quote the transcript verbatim. Corrections of outside facts follow the same verification rules as posts.
 
 ## Confidence
 
@@ -113,6 +131,7 @@ The writer discards a lead, and records why, when any of these hold:
 - It rests on a caption error, or on two different people who share a name.
 - It's trivial: a shared country, decade or famous agency, or a contractor that turns up in every list of suspected contractors (Lockheed, Boeing, McDonnell Douglas, Northrop, Raytheon). A big name only counts when something specific to this case ties it in: a named person, site, contract or date.
 - Its deciding premise can't be checked *and* nothing specific is left once that premise is set aside. If the finding stands or falls on Gerb's paraphrase of another source ("Gerb says the book says X") that can't be confirmed, it can still run as a speculative open question, provided the post says plainly that the premise is unconfirmed and what would confirm it.
+- It's a probable slip (see "Contradiction or footnote?"). Write a footnote instead and resolve the lead as `footnoted`.
 - It duplicates a published analysis. Extend that analysis instead, if the new evidence adds something.
 
 A discarded lead is a good outcome when one of these holds. When none does, downgrade instead (see "Publishing bar").
