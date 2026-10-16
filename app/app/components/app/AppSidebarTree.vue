@@ -13,6 +13,7 @@ import {
   FileText,
   Folder,
   House,
+  Lightbulb,
   MapPin,
   Radar,
   Users,
@@ -52,6 +53,7 @@ const ICONS: Record<string, Component> = {
   'map-pin': MapPin,
   'atom': Atom,
   'clapperboard': Clapperboard,
+  'lightbulb': Lightbulb,
 }
 
 function sectionIcon(item: TreeFolder): Component {
@@ -91,13 +93,14 @@ function isActive(path: string): boolean {
   return route.path === path
 }
 
-// The tree's leading `Home` (`/`), `Site map` (`/map`) and `World map` (`/world`) rows are app-wide nav,
+// The tree's leading `Home` (`/`), `Site map` (`/map`), `World map` (`/world`) and `Analyses` (`/analyses`) rows are app-wide nav,
 // not vault content — styled like the mono `//` category headers below them
 // rather than the plain note-row treatment used for actual wiki pages.
 const NAV_ICON: Record<string, Component> = {
   '/': House,
   '/map': Radar,
   '/world': Earth,
+  '/analyses': Lightbulb,
 }
 
 function navIcon(path: string): Component | undefined {

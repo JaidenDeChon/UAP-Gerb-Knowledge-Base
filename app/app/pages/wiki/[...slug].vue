@@ -4,6 +4,7 @@ import type { WikiPage } from '@/utils/content'
 import { ChevronRight } from '@lucide/vue'
 import { Badge } from '@/components/ui/badge'
 import { Separator } from '@/components/ui/separator'
+import { readAnalysisMeta } from '@/utils/analysis'
 import { firstParagraph, firstSentence, hasTocRail } from '@/utils/content'
 import { warmContentComponents } from '@/utils/warmContentComponents'
 
@@ -79,6 +80,19 @@ const isPerson = computed(() => category.value === 'People')
 const videoTitle = computed(() => (page.value ? videoTitleFromStem(page.value.stem) : null))
 
 /**
+ * An analysis gets a strip under its title (kind, confidence, novelty, date
+ * and what an analysis is) in place of the fact table, and its `dek:` as the
+ * lead. Read from frontmatter, hoisted to a column or left in `meta`.
+ */
+const isAnalysis = computed(() => category.value === 'Analyses')
+const analysis = computed(() => {
+  if (!isAnalysis.value || !page.value) return null
+  const note = page.value as unknown as Record<string, unknown>
+  const meta = page.value.meta as Record<string, unknown> | undefined
+  return readAnalysisMeta(key => note[key] ?? meta?.[key])
+})
+
+/**
  * A video's summary note gets the feature treatment: the hero title card in
  * place of the plain header + fact table, numbered chapters, a reading
  * progress line, and the local map moved below the body so the page opens
@@ -112,6 +126,7 @@ const CATEGORY_SELF_TAG: Partial<Record<Category, string>> = {
   Videos: 'video',
   Operations: 'operation',
   MOCs: 'moc',
+  Analyses: 'analysis',
 }
 
 const tags = computed<string[]>(() => {
@@ -125,7 +140,11 @@ const article = computed<{ lead: string, doc: WikiPage | null }>(() => {
   if (!page.value) return { lead: '', doc: null }
   // The video hero shows only the lead's first sentence, so a feature page
   // keeps the whole paragraph in its body rather than losing the rest of it.
-  const { lead, value } = splitLead(page.value.body, page.value.description, { keepParagraph: isFeature.value })
+  // An analysis's dek stands in for the lead; its opening paragraph stays put.
+  const dek = analysis.value?.dek
+  const { lead, value } = dek
+    ? splitLead(page.value.body, dek, { keepParagraph: true })
+    : splitLead(page.value.body, page.value.description, { keepParagraph: isFeature.value })
   return { lead, doc: { ...page.value, body: { ...page.value.body, value } } }
 })
 
@@ -233,12 +252,14 @@ const articleClass = computed(() => hasRail.value
               {{ page.title }}
             </h1>
 
+            <WikiAnalysisStrip v-if="analysis" :meta="analysis" />
+
             <p v-if="article.lead" class="mb-7 font-sans text-[20px] leading-[30px] text-muted-foreground">
               {{ article.lead }}
             </p>
           </div>
 
-          <WikiFactTable :page="page" />
+          <WikiFactTable v-if="!isAnalysis" :page="page" />
 
           <WikiPersonGlance v-if="isPerson" :page="page" :path="route.path" />
 

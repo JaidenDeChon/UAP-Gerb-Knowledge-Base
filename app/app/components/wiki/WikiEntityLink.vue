@@ -9,6 +9,7 @@ import {
   Crosshair,
   FileText,
   House,
+  Lightbulb,
   MapPin,
   Users,
 } from '@lucide/vue'
@@ -72,6 +73,7 @@ const ICONS: Record<string, Component> = {
   'map-pin': MapPin,
   'atom': Atom,
   'clapperboard': Clapperboard,
+  'lightbulb': Lightbulb,
 }
 const icon = computed<Component>(() =>
   props.refData ? (ICONS[CATEGORY_ICON[props.refData.category]] ?? FileText) : FileText)

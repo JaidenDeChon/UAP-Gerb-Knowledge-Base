@@ -1,0 +1,889 @@
+{
+  "slices": {
+    "S001-links": {
+      "lens": "links",
+      "items": [
+        "Lockheed Martin|McDonnell Douglas",
+        "Bill McDonald|McDonnell Douglas",
+        "Ed (Witness 11063)|MITRE Corporation",
+        "AAWSAP|Stephanie O'Sullivan",
+        "Project Redlight|Rodrik Castle",
+        "McDonnell Douglas|Project Redlight",
+        "Patrick M. Hughes|Steven Lovekin",
+        "Aurora Program|Steve Wilson",
+        "Denver, Colorado|Frank Scully",
+        "Enrico Fermi|Office of Strategic Services (OSS)",
+        "EarthTech|Kristen B. Zimmerman",
+        "Strategic Air Command Elite Guard|Wright-Patterson Air Force Base",
+        "Mary K. Sturtevant|Oak Shannon",
+        "Holloman Air Force Base|Philip J. Corso",
+        "Chris Mellon|Sol Foundation 2023 Presentation by Kevin Knuth",
+        "Arnold House|McDonnell Douglas",
+        "Sol Foundation 2023 Presentation by Kevin Knuth|UAP Campaign Plan - Way Forward",
+        "Holloman Air Force Base|TRW",
+        "Kevin Knuth|Rear Admiral Timothy Gallaudet",
+        "Aerospace Corporation|Hillary Clinton"
+      ],
+      "handed_out": "2026-10-16T02:44:41Z",
+      "ingested": "2026-10-16T03:34:34Z",
+      "leads": 5
+    },
+    "S002-accounts": {
+      "lens": "accounts",
+      "items": [
+        "David Grusch"
+      ],
+      "handed_out": "2026-10-16T02:44:41Z",
+      "ingested": "2026-10-16T03:34:34Z",
+      "leads": 3
+    },
+    "S003-timeline": {
+      "lens": "timeline",
+      "items": [
+        "1940s"
+      ],
+      "handed_out": "2026-10-16T02:44:42Z",
+      "ingested": "2026-10-16T03:34:34Z",
+      "leads": 5
+    }
+  },
+  "leads": [
+    {
+      "id": "L0001",
+      "slice": "S001-links",
+      "found_at": "2026-10-16T03:34:33Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "hidden-link",
+      "headline": "The Long Beach Company Was Probably McDonnell Douglas",
+      "claim": "In his FASTWALKERS video Gerb takes the source Ross Coulthart quotes in In Plain Sight, who described 'an aerospace company in Long Beach California' with sprawling gardens and access to crash wreckage, and matches it to the Aerospace Corporation, calling it 'the only major Aerospace company in Long Beach California that has this type of Campus'. The vault's own Aerospace Corporation page says that company is headquartered in El Segundo and finds no Long Beach campus for it. The major aerospace company in Long Beach was Douglas Aircraft, whose Long Beach plant became McDonnell Douglas's main airliner and transport works from 1967 and Boeing's after 1997. Two other videos point the same way without ever mentioning Long Beach. In UFOs in the Private Sector - Lockheed Martin, Gerb plays Gary Nolan saying well-informed people told him crash materials sit with contractors, naming 'McDonald Douglas' first. In the Majestic-12 video, Ryan Wood says his father Robert Wood got Douglas Aircraft management to spend internal R&D money on UFO propulsion around 1967, carried through the McDonnell Douglas merger. Inference: Coulthart's Long Beach company fits McDonnell Douglas (or its successor at the site, Boeing) better than the Aerospace Corporation, and that would tie Coulthart's source, Nolan's remark and the Woods' story to the same firm.",
+      "entities": [
+        "McDonnell Douglas",
+        "Aerospace Corporation",
+        "Ross Coulthart",
+        "Gary Nolan",
+        "Robert Wood",
+        "Ryan S. Wood",
+        "Boeing"
+      ],
+      "videos": [
+        "FASTWALKERS – UFOs Outside Earth",
+        "UFOs in the Private Sector - Lockheed Martin",
+        "The Majestic-12 Documents With Ryan S. Wood"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/FASTWALKERS – UFOs Outside Earth/transcript.md",
+          "quote": "he writes that A source told him about an aerospace company in Long Beach California with access to quote the wreckage",
+          "note": "Coulthart's source places the company in Long Beach.",
+          "verified": true
+        },
+        {
+          "source": "Videos/FASTWALKERS – UFOs Outside Earth/transcript.md",
+          "quote": "The Source said that the company had sprawling Gardens and the only major Aerospace company in Long Beach California that has this type of Campus is the Aerospace Corporation",
+          "note": "Gerb's identification of the company as the Aerospace Corporation.",
+          "verified": true
+        },
+        {
+          "source": "Organizations/Aerospace Corporation.md",
+          "quote": "The Aerospace Corporation is a nonprofit federally funded research and development center (FFRDC) headquartered in El Segundo, California.",
+          "note": "The Aerospace Corporation is in El Segundo, not Long Beach.",
+          "verified": true
+        },
+        {
+          "source": "Organizations/Aerospace Corporation.md",
+          "quote": "The Long Beach location comes from Gerb's reading of the source; this page has no other source for an Aerospace Corporation campus in [[Long Beach, California|Long Beach]].",
+          "note": "The vault itself flags that the Long Beach match is unsupported.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UFOs in the Private Sector - Lockheed Martin/transcript.md",
+          "quote": "those reside in the custody of not the US government but of EXA contractors that work for the US government Aerospace defense contractor right McDonald Douglas loat Etc",
+          "note": "Gary Nolan names McDonnell Douglas as a holder of crash materials.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Majestic-12 Documents With Ryan S. Wood/transcript.md",
+          "quote": "he spent internal R&D Douglas Aircraft Company money and then uh then the merger happened uh to McDonald Douglas but so for a couple years they spent the equivalent of four and a half million working on uh gravity",
+          "note": "Ryan Wood: Douglas, then McDonnell Douglas, funded UFO propulsion work internally.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for 'Long Beach' (only FASTWALKERS, in the Coulthart passage), and for McDonnell Douglas spellings ('McDonnell', 'McDonald Douglas'); no transcript that mentions McDonnell Douglas mentions Long Beach, and the FASTWALKERS passage never names Douglas, McDonnell Douglas or Boeing as candidates. Also checked 'Douglas Aircraft' and 'Robert Wood'/'Bob Wood': only the MJ-12 video, with no Long Beach or Coulthart link.",
+      "weakest_link": "Whether Coulthart's book actually says Long Beach (Gerb paraphrases it) and whether the source meant the company's headquarters; Boeing has held the Long Beach site since 1997, so the match may be Boeing rather than McDonnell Douglas. Douglas also had sites in Santa Monica and Huntington Beach, and Robert Wood's own work location is not given in the vault.",
+      "surprise": 4,
+      "support": 3
+    },
+    {
+      "id": "L0002",
+      "slice": "S001-links",
+      "found_at": "2026-10-16T03:34:34Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "hidden-link",
+      "headline": "Ed's Pentagon Years and MITRE's Man at Air Force Acquisition",
+      "claim": "Witness Ed (11063) spent 2010 to 2015 at the Pentagon. In The Hidden Wing Gerb places him in Air Force acquisition (SAF/AQ), where Ed says 30 to 40 percent of Air Force total obligation authority was moved into the black budget before financial management could review it, and Greer's notes give the sums as $34 billion and then $40 billion, which Gerb dates to fiscal years 2013 and 2014. In his separate MITRE video Gerb profiles William LaPlante, who left MITRE in 2013 to run that same office as Assistant Secretary of the Air Force for Acquisition and then went back to MITRE to run its National Security Engineering Center. So the head of SAF/AQ during Ed's last Pentagon years, and during the fiscal years of the transfers Ed describes, was a MITRE executive who left MITRE for the post and returned to it afterwards. Gerb never puts Ed and LaPlante in the same passage; the only Ed-MITRE tie he draws is Ed's earlier posting to Hanscom.",
+      "entities": [
+        "Ed (Witness 11063)",
+        "William LaPlante",
+        "MITRE Corporation",
+        "SAFAQ",
+        "Hidden Wing"
+      ],
+      "videos": [
+        "UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2",
+        "The Hidden Wing - US Air Force UFO Reverse Engineering Programs",
+        "The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs",
+        "Dugway Proving Ground - UFO Legacy Programs"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2/transcript.md",
+          "quote": "from 2010 to 2015 following the failed coming forward plan Ed moved to the Pentagon where according to Greer he operated within research and development panel Chain",
+          "note": "Ed's Pentagon dates.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/transcript.md",
+          "quote": "It was in SAFQ that Ed learned that during consecutive fiscal years 30 to 40% of total Air Force TOA or total obligation authority budget was actually slashed and sent to the Air Force black budget before any analysis and assessment by Air Force FM or financial management.",
+          "note": "Gerb places Ed in SAF/AQ and gives his budget claim.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Dugway Proving Ground - UFO Legacy Programs/transcript.md",
+          "quote": "he claims that $34 and $40 billion went missing to non-authorized transfer of authority funds in fiscal year I think 2013 and 2014",
+          "note": "Gerb dates the transfers to FY2013 and FY2014.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs/transcript.md",
+          "quote": "Lelant joined MITER in 2011 as the missile defense portfolio director. He would leave MITER in 2013 to serve as ASACF FATNL only to return to MITER in 2015 to serve as senior VP and general manager for the MITER NSAC.",
+          "note": "LaPlante went from MITRE to the head of Air Force acquisition and back.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs/transcript.md",
+          "quote": "Lelant also served as the assistant secretary of the air force for acquisition technology and logistics or ASAC ATNL from 2014 to [music] 2017. I spent nearly my entire Air Force hidden wing project explaining why this position in Air Force Acquisition or SAF AQ specifically SAF AQR, SAF AQX, and SAF [music] AQL are the lifeblood of Air Force Legacy Administration.",
+          "note": "Gerb links LaPlante's office to the Hidden Wing thesis but not to Ed.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for LaPlante and caption forms ('LaPlante', 'La Plante', 'Lelant', 'Leelant', 'Leela'): only the MITRE video, which never mentions Ed apart from his Hanscom posting. Searched 'SAF AQ'/'SAFAQ'/'SAF/AQ' with Ed: Hidden Wing and Special Access Required Vol.2 discuss Ed at SAF/AQ but never name LaPlante or any office holder during Ed's tenure. Searched 'Hanscom': the MITRE video ties Ed to MITRE only through Hanscom, so the SAF/AQ overlap is unsaid.",
+      "weakest_link": "Dates. Gerb's 2014-2017 tenure and 'dual-hatted 2015-2017' claim are wrong on the public record: the Air Force and Wikipedia give LaPlante's confirmed tenure as 12 February 2014 to 18 November 2015 (he was principal deputy, then acting, from 2013). The overlap with Ed (to 2015) and with FY2013-14 still holds, but it rests on Ed being in SAF/AQ itself rather than a nearby R&D panel, which only Greer's notes and Gerb's reading support.",
+      "surprise": 3,
+      "support": 3
+    },
+    {
+      "id": "L0003",
+      "slice": "S001-links",
+      "found_at": "2026-10-16T03:34:34Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "hidden-link",
+      "headline": "Cardillo Worked Under Clapper Both Times Kona Blue Was Blocked",
+      "claim": "Gerb tells the Kona Blue story in pieces across videos. In the Lockheed Martin video he says the first attempt to move Lockheed's material, to a DIA program in 2008 or 2009, was shut down with James Clapper's help, and that the 2011 attempt was stopped by Glenn Gaffney 'and possibly Robert Cardillo', who was then Deputy Director of National Intelligence for Intelligence Integration. Separately, in the 80 Years timeline and the Northrop Grumman & TRW video, he names Clapper's inner circle on the NSC crash retrieval portfolio as PDDNI Stephanie O'Sullivan and the DDNI for Intelligence Integration, Michael Dempsey (2014-2017). Put together: Cardillo was the first holder of that same DDNI/II post (2010-2014), so he served directly under DNI Clapper beside O'Sullivan, and Dempsey was his successor. Before that, Cardillo was DIA deputy director (2006-2010), which covers the September 2008 award of AAWSAP, the DIA program meant to receive the material, and the 2008-09 attempt, when Clapper was Under Secretary of Defense for Intelligence over the DIA. The two blocked transfers that Gerb treats as separate events both ran through one Clapper-Cardillo chain of command, and the post Gerb counts among Clapper's 'goons' was Cardillo's before it was Dempsey's.",
+      "entities": [
+        "Robert Cardillo",
+        "Kona Blue",
+        "AAWSAP",
+        "James Clapper",
+        "Stephanie O'Sullivan",
+        "Michael Dempsey",
+        "Glenn Gaffney"
+      ],
+      "videos": [
+        "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs",
+        "80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline",
+        "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "Um maybe a DIA program back in 2008/209. I'm running this off the top of my head, but I believe that uh James Clapper was involved in shutting this down if I'm trying to remember correctly.",
+          "note": "Gerb ties the first blocked transfer to Clapper.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "At the time of the locked transfer, Cardillo served as DDNI or deputy director of national intelligence for intelligence integration.",
+          "note": "Cardillo's post at the time of the 2011 attempt.",
+          "verified": true
+        },
+        {
+          "source": "Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/transcript.md",
+          "quote": "This, of course, was former DNI James Clapper and his goons, PDDNI Stephanie O'Sullivan, and Deputy Director of National Intelligence for Intelligence Integration, Michael Dempsey.",
+          "note": "Gerb names the DDNI/II post as part of Clapper's NSC portfolio team.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2/transcript.md",
+          "quote": "served from 2014 to 2017 as the deputy director of national intelligence for intelligence integration under the Obama administration",
+          "note": "Dempsey held the post from 2014, i.e. after Cardillo.",
+          "verified": true
+        },
+        {
+          "source": "People/Robert Cardillo.md",
+          "quote": "He returned to DIA as deputy director for analysis and then deputy director (2006–2010), became the first Deputy Director of National Intelligence for Intelligence Integration (2010–2014)",
+          "note": "Cardillo's DIA and ODNI dates (from his NGA/USGIF biographies per the page).",
+          "verified": true
+        },
+        {
+          "source": "Operations/AAWSAP.md",
+          "quote": "The DIA awarded AAWSAP through a sole-source contract dated September 22, 2008",
+          "note": "AAWSAP was awarded while Cardillo was DIA deputy director.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for Cardillo and caption forms ('Cardillo', 'Cardio', 'Cardi', 'Cardo'): Lockheed Martin, NRO and Northrop Grumman & TRW Vol.2. None calls him Dempsey's predecessor, places him under Clapper, or connects his DIA deputy directorship to AAWSAP; the Northrop video links him to O'Sullivan only through the Peraton board. Searched 'Dempsey'/'intelligence integration': 80 Years, Northrop Vol.2 and Manhattan Project 2.0 name Dempsey's post but never Cardillo in it.",
+      "weakest_link": "Cardillo's role in blocking the transfer is itself an allegation from Rob Jones's research; and holding the DDNI/II post does not by itself put him in the Kona Blue decision. The 2008-09 attempt is from Gerb's memory ('off the top of my head').",
+      "surprise": 3,
+      "support": 3
+    },
+    {
+      "id": "L0004",
+      "slice": "S001-links",
+      "found_at": "2026-10-16T03:34:34Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "Gerb Gives the Holloman Landing Two Different Years",
+      "claim": "Gerb refers to the alleged landing of a non-human craft at Holloman Air Force Base in three videos and never examines it. In UFO Whistleblowers Vol.1 and the Corso video (relaying George H. W. Bush via Eric Davis) it is the 1954 landing where Eisenhower struck a deal. In UAP Reverse Engineering at Edwards Air Force Base it is 'the alleged 1957 Hollman Air Force Base Landing', mentioned in the same stretch of the video as Gordon Cooper's 1957 Edwards lakebed landing, which may be where the year came from. The 1957 date also lines up with Corso's own claimed alien encounter at Red Canyon on the White Sands range next to Holloman, which Gerb dates to 1957-58 in the Corso video without connecting the two. The lead is the internal disagreement (1954 vs 1957) and what it hides: the Eisenhower story is usually told about Muroc/Edwards in February 1954, and the Holloman film story Gerb retells from James Fox (Sandler and Emenegger) is usually dated 1964 or 1971, so Gerb's coverage may have merged two or three separate stories.",
+      "entities": [
+        "Holloman Air Force Base",
+        "Philip J. Corso",
+        "Dwight D. Eisenhower",
+        "Eric Davis",
+        "Edwards Air Force Base"
+      ],
+      "videos": [
+        "UFO Whistleblowers Vol.1",
+        "Philip J. Corso - US Army UFO Technology Research & Development",
+        "UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2",
+        "Dugway Proving Ground - UFO Legacy Programs"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/UFO Whistleblowers Vol.1/transcript.md",
+          "quote": "the astonishing story of Eisenhower meeting with a group of extraterrestrials after their landing at Hollowman Air Force Base in 1954",
+          "note": "1954 version.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Philip J. Corso - US Army UFO Technology Research & Development/transcript.md",
+          "quote": "Bush expanded on the 1954 alleged Landing of non-human intelligence at Hollman Air Force Base where allegedly Eisenhower and nhi brokered a deal",
+          "note": "1954 again, via Davis and Bush.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2/transcript.md",
+          "quote": "this story reminded mostely of the alleged 1957 Hollman Air Force Base Landing in which a flying suer saucer touchdown at Hollman Air Force Base and occupants walked out of the craft to interact with USAF Personnel",
+          "note": "1957 version.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2/transcript.md",
+          "quote": "we can go all the way back to 1957 to the testimony of mercury astronaut Gordon cooper",
+          "note": "Cooper's 1957 Edwards landing is in the same video, a likely source of the year.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Philip J. Corso - US Army UFO Technology Research & Development/transcript.md",
+          "quote": "Coro claimed this event occurred when commander of the ballistic missile firing range at Red Canyon part of Whit Sands this station was in 1957 to 1958",
+          "note": "Corso's encounter beside Holloman in 1957-58.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for Holloman and caption forms ('Holloman', 'Hollowman', 'Hollowan', 'Hollman', 'Halloman'): it appears once per transcript in Whistleblowers Vol.1, Corso, Edwards Vol.2, Dugway, Wilson-Davis, Sandia, Aztec, Peru and Lockheed, so no video sets two dates side by side. 'Red Canyon' appears only in the Corso video, with no mention of Holloman nearby.",
+      "weakest_link": "It may be a slip of the tongue rather than a real disagreement in sources; the writer needs the outside literature (Emenegger/Sandler, the Muroc 1954 story) to say which version Gerb's sources actually support. The Corso coincidence is weak on its own (a different place on the range, and only the year matches).",
+      "surprise": 2,
+      "support": 4
+    },
+    {
+      "id": "L0005",
+      "slice": "S001-links",
+      "found_at": "2026-10-16T03:34:34Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "hidden-link",
+      "headline": "RS-33's Alleged Chief Was at Los Alamos When the OSS Took the Craft",
+      "claim": "In the 80 Years timeline Gerb relays that, according to Marconi's family, Enrico Fermi rather than Marconi 'spearheaded' Gabinetto RS/33, the body set up to study the 1933 Magenta craft. In the Magenta video, the craft stays in Mussolini's hands until US agents of the Office of Strategic Services recover it in 1944 or 1945 and it is brought to the US around the end of 1944. Fermi left Italy in 1938, was in the US from January 1939, and was an associate director at Los Alamos in 1944-45. If both claims hold, the scientist said to have led Italy's study of the craft was already inside the US atomic program when the OSS took custody of it, which gives the transfer a much more direct route than the Pius XII back channel Gerb describes, and gives Fermi's 1950 Los Alamos question 'where is everybody?' an ironic edge. The two videos also disagree with each other: the Magenta video says RS-33 was headed by Mussolini, Ciano and Balbo, with Marconi only possibly involved, and never names Fermi.",
+      "entities": [
+        "Enrico Fermi",
+        "Office of Strategic Services (OSS)",
+        "RS-33 (Gabinetto RS 33)",
+        "1933 Magenta UFO CrashRetrieval",
+        "Guglielmo Marconi"
+      ],
+      "videos": [
+        "80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline",
+        "The 1933 Magenta, Italy UFO Crash"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/transcript.md",
+          "quote": "Though according to his family, it was actually Enrio Fermy, creator of the world's first artificial nuclear reactor during the Manhattan project who spearheaded RS33.",
+          "note": "Fermi named as head of RS/33.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1933 Magenta, Italy UFO Crash/transcript.md",
+          "quote": "the UFO remained in the possession of melini's regime until the fall of the Axis powers and was recovered by us agents of the office of strategic services in 1944 or 1945",
+          "note": "OSS recovery date.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1933 Magenta, Italy UFO Crash/transcript.md",
+          "quote": "this top secret group was actually headed by prime minister Bonito musolini and foreign minister galazo siano air marshall Italo Balbo with scientific support from astronomer Gino saini and possibly Senator and founder of the radio gugo Marone",
+          "note": "The Magenta video's version of RS-33's leadership, with no Fermi.",
+          "verified": true
+        },
+        {
+          "source": "People/Enrico Fermi.md",
+          "quote": "That year he left fascist Italy, and in January 1939 he joined Columbia University.",
+          "note": "Fermi in the US from 1939.",
+          "verified": true
+        },
+        {
+          "source": "People/Enrico Fermi.md",
+          "quote": "from 1944 to 1945 he was an associate director of the Los Alamos laboratory",
+          "note": "Fermi at Los Alamos during the alleged OSS recovery.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for Fermi and caption forms ('Fermi', 'Fermy', 'Furmi'): only Manhattan Project 2.0 (Chicago Pile-1) and 80 Years (the RS33 line); the Iceberg Level 2 transcript has no match under these spellings, and the Magenta transcript never names Fermi. Searched 'strategic services'/'OSS': only the Magenta video, which never mentions Fermi or Los Alamos.",
+      "weakest_link": "The Fermi-RS/33 claim is second-hand family hearsay that Gerb relays in one sentence, and the OSS recovery is itself unverified (Gerb says he has no paper trail). Fermi's emigration and Los Alamos dates are solid, so the lead stands or falls on the family claim.",
+      "surprise": 3,
+      "support": 2
+    },
+    {
+      "id": "L0006",
+      "slice": "S002-accounts",
+      "found_at": "2026-10-16T03:34:34Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "timeline",
+      "headline": "Grusch's Clapper timeline starts in 1991, not 2009",
+      "claim": "Gerb consistently casts James Clapper as the man who 'picked up the pieces' of the legacy programs after Dick Cheney left office in January 2009. But in the Megyn Kelly clip Gerb plays in at least three videos, Grusch says Clapper managed the crash retrieval issue 'when he was the DNI, USDI and DIA director'. Clapper ran the DIA from November 1991 to August 1995 (vault Clapper page) and was USD(I) from 2007 to 2010, so by Grusch's own words Clapper's role began during Cheney's tenure as Secretary of Defense and ran through the 1994 restructuring that Gerb dates to the Clinton years. Two years after Clapper left DIA, the Wilson-Davis notes have Vice Admiral Thomas Wilson, then deputy DIA director/J2, refused access in 1997 by a gatekeeping structure that Gerb says was put in place in 1994. Commander Will Miller adds in 2000 that DIA directors are kept away from UAP knowledge. Put together: either Clapper's access went with him personally and not with the DIA directorship, or the 1994 reorganization is what shut DIA leadership out after Clapper left. Either way, Gerb's Cheney-then-Clapper sequence leaves out the decade Grusch himself points to.",
+      "entities": [
+        "James Clapper",
+        "David Grusch",
+        "Dick Cheney",
+        "Thomas Wilson",
+        "Wilson-Davis Memo",
+        "Defense Intelligence Agency",
+        "Will Miller",
+        "Luis Elizondo"
+      ],
+      "videos": [
+        "The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs",
+        "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2",
+        "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1",
+        "80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline",
+        "Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2",
+        "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs",
+        "UFOs in the Private Sector - Lockheed Martin"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs/transcript.md",
+          "quote": "I will say that General Clapper was well aware of the crash retrieval issue, managed the crash retrieval issue and when he was the DNI, USDI and DIA director, he placed people in critical roles uh to manage this issue",
+          "note": "Grusch (Megyn Kelly, Jan 2026) names the DIA directorship among the posts from which Clapper managed the issue. The same clip appears in the Northrop Vol.2 and Manhattan Project 2.0 transcripts.",
+          "verified": true
+        },
+        {
+          "source": "People/James Clapper.md",
+          "quote": "ending as director of the [[Defense Intelligence Agency]] from November 1991 to August 1995",
+          "note": "Dates Clapper's DIA tenure. The page cites DIA, NGA and Air Force biographies.",
+          "verified": true
+        },
+        {
+          "source": "Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/transcript.md",
+          "quote": "He leaves office in 2009. Once Cheney leaves, Clapper is there to pick up the pieces.",
+          "note": "Gerb's framing: Clapper's role begins after Cheney.",
+          "verified": true
+        },
+        {
+          "source": "Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/transcript.md",
+          "quote": "January of 2009 saw the departure of the last great leader to rule the legacy programs with an iron fist. The late Dick Cheney, Darth Vader himself. Cheni's replacement served as mob boss in a severely diminished capacity",
+          "note": "Same framing in the timeline narration: Clapper as Cheney's 2009 replacement.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/transcript.md",
+          "quote": "from what I understand from the Wilson Davis notes that this is indeed true is in 1994 the SAP and the SAPOX SRG kind of got put in place as a gatekeeping structure uh for access into the legacy programs.",
+          "note": "Gerb dates the gatekeeping structure that later blocked Wilson to 1994, inside Clapper's DIA tenure.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs/transcript.md",
+          "quote": "Wilson demanded a formal briefing and tore exploiting his regulatory Authority as the deputy director of the DIA SL assistant joint Chief of Staff J2",
+          "note": "Wilson's DIA authority was not enough in 1997.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs/transcript.md",
+          "quote": "at the end of May 97 Wilson made three calls to the program manager",
+          "note": "Dates Wilson's lockout to 1997, two years after Clapper left DIA.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UFOs in the Private Sector - Lockheed Martin/transcript.md",
+          "quote": "in 2000 Commander will Miller yes the same Miller from the Wilson Davis memo told Attorney Peter gon that senior government officials such as a Dia director are isolated from UAP knowledge",
+          "note": "Miller says DIA directors are excluded, which sits badly with Grusch's claim that Clapper managed the issue as DIA director.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/transcript.md",
+          "quote": "Well, I I worked with Jim Clapper. Actually, I worked for Jim Clapper, as a lot of people know, uh when he was under secretary of defense for intelligence after he was the director there at DIA",
+          "note": "Elizondo independently places Clapper's DIA directorship before his USD(I) role.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Grepped all transcripts for 'Clapper' within 1,500 characters of any 1990s year, '90s' or 'mid 90', and for 'Clapper' near 'Wilson Davis', 'Thomas Wilson' or 'Admiral Wilson'. No transcript gives Clapper's DIA dates or puts his DIA tenure next to the 1994 reorganization, the shred party or Wilson's 1997 lockout. Clapper and Wilson never appear in the same passage. Nearest miss: Special Access Required Vol.2 says '1994 saw the programs vest management outside of the US government into a quasi government and industry control group that still features statutory controls and involvement by the National Security Council. Clapper, I'm looking at you.' This nods at Clapper in a 1994 context but reads as a jab about present-day NSC involvement, and gives no DIA tenure or dates. The writer should weigh it.",
+      "weakest_link": "Grusch's 'when he was the DNI, USDI and DIA director' may be a loose list of Clapper's posts rather than a claim that he managed the issue at DIA in 1991-95. The 'Clapper, I'm looking at you' line may also count as Gerb having half-drawn the 1994 connection.",
+      "surprise": 4,
+      "support": 3
+    },
+    {
+      "id": "L0007",
+      "slice": "S002-accounts",
+      "found_at": "2026-10-16T03:34:34Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "Grusch never dated the shred party to 1994 or named the CIA",
+      "claim": "Gerb's 80-year timeline says Grusch, on Judicial Watch, stated that 'the CIA and other agencies' held a burnback and shred party 'in 1994', and he uses it to anchor his 1994 transfer of program control to a 27-person group. The David Grusch page repeats this as Grusch's own statement. The Judicial Watch clip Gerb plays in Special Access Required Vol.2 says something narrower: 'a burn bag and shred party um at a particular agency in the mid '90s'. Grusch names no agency and gives no year. In the same video Gerb says 'it appears Dave Grush agrees' with the 1994 vesting, on the strength of that clip alone. Gerb's coverage disagrees with itself: the CIA attribution and the exact 1994 date are Gerb's, and they carry weight in his 1994 era boundary that Grusch's words don't support.",
+      "entities": [
+        "David Grusch",
+        "Bill Perry",
+        "CIA"
+      ],
+      "videos": [
+        "80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline",
+        "Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/transcript.md",
+          "quote": "David Grush commented on this in the Judicial Watch podcast, stating the CIA and other agencies had a tremendous burnback and shred party in 1994 to erase as many physical records as possible.",
+          "note": "Gerb's paraphrase names the CIA and the year 1994.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/transcript.md",
+          "quote": "Well, there was a burn bag and shred party um at a particular agency in the mid '90s I'm aware of.",
+          "note": "Grusch's own words, from the Judicial Watch clip: an unnamed agency in the mid '90s.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/transcript.md",
+          "quote": "permanently vested the UFO legacy program control group in 1994 into a quasi industry and government control group of just over two dozen. And again, it appears Dave Grush agrees with this statement.",
+          "note": "Gerb treats the clip as Grusch backing the 1994 vesting.",
+          "verified": true
+        },
+        {
+          "source": "Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/transcript.md",
+          "quote": "We kind of [music] see a continuation on that to the 1994 shred party to hide from Bill Clinton.",
+          "note": "The 1994 date then becomes a fixed point in Gerb's comparison with the Roswell records destruction.",
+          "verified": true
+        },
+        {
+          "source": "People/David Grusch.md",
+          "quote": "On the Judicial Watch podcast, Grusch said that the CIA and other agencies held a major burn-back and \"shred party\" in 1994",
+          "note": "The vault page passes on Gerb's paraphrase as Grusch's statement.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Grepped all transcripts for 'shred', 'burn bag', 'burnback', 'burn back' and 'particular agency'. Only two videos mention the shred party, Timeline (CIA, 1994) and Special Access Required Vol.2 (Grusch clip: particular agency, mid '90s). The MITRE video's 'shred party' lines are about MITRE in Fairfax County. No transcript notes the gap between the two versions or asks which agency Grusch meant.",
+      "weakest_link": "Grusch may name the CIA or give 1994 elsewhere in the full Judicial Watch interview, which the vault holds only as clips. If so, Gerb's paraphrase is fair and this collapses into a page-level nuance.",
+      "surprise": 2,
+      "support": 4
+    },
+    {
+      "id": "L0008",
+      "slice": "S002-accounts",
+      "found_at": "2026-10-16T03:34:34Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "Gerb's account of Grusch and AARO flipped between 2024 and 2026",
+      "claim": "In January 2024 Gerb rebutted Sean Kirkpatrick's claim that no whistleblower came to AARO by saying Grusch 'tried to approach arrow and Kirk Patrick but never heard back', and chose to believe Grusch. By 2026 Gerb's own description has changed. In The Hidden Wing (January 2026) he describes 'David Grush clearly not trusting Arrow and not talking to Arrow', and in Special Access Required Vol.2 (June 2026) he answers Kirkpatrick's claim that Grusch 'ghosted Arrow for meetings' with 'Gosh, I wonder why', which concedes the avoidance and justifies it. In that same video Grusch says he 'met with Arrow twice as a staff member about a year ago', which would be in his 2025 role advising Burlison, after Kirkpatrick had left. The 2024 rebuttal says Grusch tried and AARO stayed silent. The 2026 videos say Grusch kept away from AARO, then met it later. Read together, Kirkpatrick's 'ghosted' story and the 'never heard back' story can't both be the whole picture, and Gerb's coverage accepts each one at a different time.",
+      "entities": [
+        "David Grusch",
+        "Sean Kirkpatrick",
+        "AARO",
+        "Eric Burlison"
+      ],
+      "videos": [
+        "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies",
+        "The Hidden Wing - US Air Force UFO Reverse Engineering Programs",
+        "Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies/transcript.md",
+          "quote": "Kirk Patrick alleges that no whistleblowers have spoken to him and this is also false gresa stated multiple times that he tried to approach arrow and Kirk Patrick but never heard back at them one of these people has testified to Congress one hasn't that is grush we choose to believe him",
+          "note": "2024 version: Grusch tried and was ignored.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/transcript.md",
+          "quote": "And this was in relation to David Grush clearly not trusting Arrow and not talking to Arrow and Sean Kirkpatrick throwing a fissy hissy fit about that.",
+          "note": "2026 version: Grusch chose not to talk to AARO.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/transcript.md",
+          "quote": "Kirkpatre even establishing a pitiful story to paint Grush as a villain by stating he ghosted Arrow for meetings. Gosh, I wonder why.",
+          "note": "Gerb implicitly accepts the avoidance and justifies it.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/transcript.md",
+          "quote": "I've tried to help. I certainly uh met with Arrow twice as a staff member about a year ago. I actually offered to depose hostile witnesses in front of Arrow leadership.",
+          "note": "Grusch's own later account: he met AARO twice as a congressional staffer, which fits the April to July 2025 Burlison appointment on his page.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Grepped all transcripts for 'ghosted', 'not talking to Arrow', 'tried to approach', 'met with Arrow' and Grusch/Grush/gresa near 'Arrow'/'AARO'. The 'never heard back' claim appears only in the Kirkpatrick video, the 'not trusting / ghosted' framing only in The Hidden Wing and Special Access Required Vol.2, and no transcript sets the two side by side or reconciles them.",
+      "weakest_link": "Both can be true in sequence. Grusch may have tried early, got no answer, then refused later meetings once he stopped trusting AARO. If so, the finding shrinks to Gerb's framing moving on without saying so.",
+      "surprise": 3,
+      "support": 3
+    },
+    {
+      "id": "L0009",
+      "slice": "S003-timeline",
+      "found_at": "2026-10-16T03:34:34Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "timeline",
+      "headline": "Battelle's 1949 alloy reports fit the Aztec clock, not Roswell's",
+      "claim": "Gerb dates Battelle's titanium-alloy (nitinol) progress reports for Wright-Patterson to 1 September to 21 October 1949 and infers the material came from Roswell, two years earlier. His Aztec video, though, gives a sequence that lands at the same base in the same months: the Aztec disc went to Los Alamos in March 1948 and 'remained at Los Alamos for over a year before being transported again' (so it moved no earlier than spring 1949); Robert Spencer Carr said the craft ended up at Wright-Patterson; Eric Henry Wang, whom the Aztec video describes as a consultant to the Wright Air Development Center on 'aerodynamic metallurgical design', took over the Department of Special Studies at Wright-Patterson in 1949 (Kingman video) and, according to Steinman, was called onto the Aztec project in November 1949. So a metallurgy specialist was brought onto the Aztec material at Wright-Patterson within weeks of Battelle's alloy reports for the same base. The inference: if Steinman's chronology holds, the 1949 Battelle work fits a late-1949 Aztec materials push at Wright-Patterson at least as well as it fits Roswell debris. No video puts Battelle and Wang, or Battelle and the Aztec craft's move, together.",
+      "entities": [
+        "Battelle Memorial Institute",
+        "Eric Henry Wang",
+        "Aztec UFO Crash and Recovery",
+        "Wright-Patterson Air Force Base",
+        "William Steinman",
+        "Robert Spencer Carr",
+        "Nitinol (Nickel-Titanium Alloy)",
+        "Roswell Crash"
+      ],
+      "videos": [
+        "UFOs in the Private Sector - Battelle Memorial Institute",
+        "The 1948 Aztec, New Mexico UFO Crash Retrieval",
+        "The 1953 Kingman, Arizona UFO Crash"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/UFOs in the Private Sector - Battelle Memorial Institute/transcript.md",
+          "quote": "in 1949 battel had been contracted by none other than Wright Patterson Air Force Bas to perform analysis on shape memory Alloys see on screen now and in the video notes the first and second progress report covering the period of September 1st to October 21st 1949 on research and development of titanium Alloys contract number 3338 3736",
+          "note": "Dates the Battelle work to September and October 1949, for Wright-Patterson.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UFOs in the Private Sector - Battelle Memorial Institute/transcript.md",
+          "quote": "so to summarize I am directly inferring that the 1947 Roswell crash led to the discovery of the material known as nitol and thus Wright Patterson Air Force Base and the US Air Force contracted Batel to perform a material analysis on nitol in 1949",
+          "note": "Gerb assigns the material to Roswell.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/transcript.md",
+          "quote": "The bodies were transported away likely to Wright Patterson Air Force Base and the craft remained at Los Alamos for over a year before being transported again.",
+          "note": "The Aztec craft leaves Los Alamos no earlier than spring 1949.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/transcript.md",
+          "quote": "Carr claimed the craft and bodies of Aztec were flown to Edwards Air Force Base and ultimately taken to Wright Patterson",
+          "note": "One Aztec source puts the craft's final destination at Wright-Patterson.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/transcript.md",
+          "quote": "A little over a year and a half after the recovery, November of 1949 to be exact, Dr. Eric Henry Wang was called onto the project.",
+          "note": "Steinman's date for Wang joining the Aztec project.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/transcript.md",
+          "quote": "Wang worked as a consultant to the right air development center on aerodynamic metallurgical design for the structure division and served on the staff for the University of Cincinnati.",
+          "note": "Wang's specialty is metallurgy, the subject of the Battelle reports.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1953 Kingman, Arizona UFO Crash/transcript.md",
+          "quote": "in 49 Wang became the director of the Department of special studies at Wright Patterson where he worked with Scientists from the office of Naval Research and Dr vavar Bush",
+          "note": "Wang heads a special studies office at the same base in 1949.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/transcript.md",
+          "quote": "As in my video on Battel Memorial Institute, I discussed the contractor receiving pieces of the Roswell wreckage to test on the now coveted material",
+          "note": "In the Aztec video itself Gerb mentions Battelle but routes it to Roswell, not Aztec or Wang.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for Wang (7 videos) and for Battelle/Batel/Battel/titanium/nitol/memory metal. Battelle appears beside Aztec only in the Aztec transcript's Sarbacher passage, where Gerb ties it to Roswell wreckage. No transcript mentions Wang and Battelle together, and none sets Battelle's September–October 1949 dates against Wang's November 1949 Aztec date or the craft leaving Los Alamos.",
+      "weakest_link": "Steinman's November 1949 date for Wang is unsourced (Gerb says so), and the main Aztec account sends the craft to Los Alamos, not Wright-Patterson. Carr's Wright-Patterson destination is a single 1974 claim. The Battelle contract may also have started before September 1949, and nothing ties its sample to any crash.",
+      "surprise": 4,
+      "support": 3
+    },
+    {
+      "id": "L0010",
+      "slice": "S003-timeline",
+      "found_at": "2026-10-16T03:34:34Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "timeline",
+      "headline": "Corso's Fort Riley crate only fits the earliest Roswell clock",
+      "claim": "Corso swore that on or about 6 July 1947, at Fort Riley, Kansas, he saw a body in one of five crates on trucks that came 'from an Airfield in in New Mexico' and were headed for Wright-Patterson on Route 40. Gerb says Corso's records put him at Fort Riley on that date. Gerb's Roswell chronology in UFO Whistleblowers Vol.1 (crash likely 4 July; bodies shipped out of Hangar 84 on 5 July 'to either right Pat or Fort wor') and Iceberg Level 2 (5 July shipment to Wright-Patterson) leaves about a day and a half for a truck convoy to reach Fort Riley, which fits Corso's account closely. In the Kecksburg video, though, Gerb dates the crash to 7 July ('July 9th 1947 just 2 days after the Roswell crash'). On that date Corso's crate would have been in Kansas the day before the crash. Gerb's MJ-12 video also has the IPU field order of 4 July answering 'a situation occurring the day before'. Gerb never sets Corso's date against any of these, so his coverage carries two incompatible clocks, and only the early one supports Corso.",
+      "entities": [
+        "Philip J. Corso",
+        "Fort Riley, Kansas",
+        "Roswell Crash",
+        "Hangar 84",
+        "Wright-Patterson Air Force Base",
+        "James E. Webb",
+        "Interplanetary Phenomenon Unit"
+      ],
+      "videos": [
+        "Philip J. Corso - US Army UFO Technology Research & Development",
+        "UFO Whistleblowers Vol.1",
+        "The Alien and UFO Obscure Oddities Iceberg (Level 2)",
+        "The 1965 Kecksburg, Pennsylvania UFO Crash",
+        "The Majestic-12 Documents With Ryan S. Wood"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/Philip J. Corso - US Army UFO Technology Research & Development/transcript.md",
+          "quote": "that on or about July 6th 1947 while stationed at Fort Riley Kansas I personally observed a 4-foot non-human creature",
+          "note": "Corso's affidavit date.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Philip J. Corso - US Army UFO Technology Research & Development/transcript.md",
+          "quote": "he said well five trucks came through coming through here from an Airfield in in New Mexico and they're heading for right pison Air Force",
+          "note": "The crates came by road from New Mexico, bound for Wright-Patterson.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Philip J. Corso - US Army UFO Technology Research & Development/transcript.md",
+          "quote": "Corso's official records do indeed Place him at Fort Riley at this date",
+          "note": "Gerb confirms the place and date from records.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UFO Whistleblowers Vol.1/transcript.md",
+          "quote": "on July 4th a UFO disappears off radar scope this is likely the crash date the following day July 5th the area of North Roswell is quarantined guards were stationed north of town on Highway 285 blocking roads this same day debris and bodies were shipped out of Roswell Hangar 84 to either right Pat or Fort wor North Texas",
+          "note": "The early chronology: crash 4 July, bodies out on 5 July.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Alien and UFO Obscure Oddities Iceberg (Level 2)/transcript.md",
+          "quote": "dating back all the way to July 5th of 1947 where it is said that debris and bodies were shipped out of Hangar 84 in Roswell New Mexico to wrright Patterson Air Force Base",
+          "note": "Same 5 July shipment to Wright-Patterson in another video.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/transcript.md",
+          "quote": "I take you to July 9th 1947 just 2 days after the Roswell crash",
+          "note": "The late chronology: crash on 7 July.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Majestic-12 Documents With Ryan S. Wood/transcript.md",
+          "quote": "the interplanetary phenomenon field order lists of July 4th 1947 correspondence of a situation occurring the day before",
+          "note": "The IPU field order implies an event on 3 July.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for Fort Riley/Riley (Corso and Kecksburg only; Kecksburg's mention is Stringfield's separate Fort Riley crash case), Hangar 84 (Whistleblowers Vol.1 and Iceberg L2 only, neither mentions Corso), Corso/Corsa (14 videos, none with the July 5 shipment), and July 4/5/6/9 date phrasings. Gerb never compares Corso's 6 July date with any Roswell crash or shipment date.",
+      "weakest_link": "Corso says 'on or about' and Gerb's '2 days after' in the Kecksburg video may just reflect the publicly reported date (Brazel's report and the 8 July release) rather than a considered crash date. The finding is then a timing fit for Corso plus a loose phrase, not a hard contradiction. The truck transit time (Roswell to Fort Riley in about 36 hours) needs checking.",
+      "surprise": 3,
+      "support": 4
+    },
+    {
+      "id": "L0011",
+      "slice": "S003-timeline",
+      "found_at": "2026-10-16T03:34:34Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "hidden-link",
+      "headline": "Kissner's dead servicemen and the IPU's dead Sandia technicians",
+      "claim": "In the Sandia video Gerb reports two separate claims of deaths in the summer 1947 recoveries and never sets them side by side. Andrew Kissner's 1994 statement says discs may have contributed to the deaths of 'several US servicemen' between 9 May and 31 July 1947. The IPU report (surfaced July 1995) says a Sandia radiobiological team went in with a Special Engineering Detachment and that three Sandia technicians died of contamination after the 4–6 July 1947 recoveries. SEDs were Army units of uniformed technicians, so the IPU's dead 'technicians' could be Kissner's dead 'servicemen'. Gerb pairs the two sources only on AFSWP's presence at Sandia, and he suggests the IPU papers might have copied Kissner. But Kissner's statement was only presented publicly in 2004, so a 1995 forger could hardly have copied it. If the two accounts are independent, a matching casualty claim is a second, unremarked point of agreement. A side detail: Kissner's death window opens on 9 May, six days before his first downing event on 15 May.",
+      "entities": [
+        "Andrew Kissner",
+        "Interplanetary Phenomenon Unit",
+        "Sandia National Laboratories",
+        "Armed Forces Special Weapons Project (AFSWP)",
+        "Roswell Crash"
+      ],
+      "videos": [
+        "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs",
+        "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1",
+        "The 1974 Coyame, Mexico UFO Crash",
+        "The Majestic-12 Documents With Ryan S. Wood"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "According to these sources, flying discs may in fact have contributed to the deaths of several US servicemen from 9 May to 31 July 1947.",
+          "note": "Kissner's casualty claim.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "Kistner's sources detail the series of events beginning 15 May 1947 that led to elements of the United States Army offensively acting and downing two to four {quote unquote} flying discs.",
+          "note": "Kissner's first event is 15 May, after the death window opens on 9 May.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "According to the report, multiple MPs suffered nervous breakdowns and three technicians from Sandia died due to some sort of ambiguous [music] contamination.",
+          "note": "The IPU's casualty claim, in the same video.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "a special radiobiological [music] team, accompanied by a special engineering detachment, or SED, a term used to describe a group of technical personnel assigned to the Manhattan Project",
+          "note": "The IPU team included an SED.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1/summary.md",
+          "quote": "SEDs, created by the Manhattan Engineer District in 1943, really were Army units of scientifically trained soldiers who worked beside civilian scientists at Los Alamos, Sandia Base and Oak Ridge.",
+          "note": "SED technicians were servicemen.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "so if anything, there's a possibility that the IPU docs actually ripped off Kisner's disclosures.",
+          "note": "Gerb links the two sources only on AFSWP and raises copying.",
+          "verified": true
+        },
+        {
+          "source": "People/Andrew Kissner.md",
+          "quote": "Researcher [[Linda Moulton Howe]] presented Kissner's disclosures publicly at the second annual UFO Crash Retrieval Conference in 2004.",
+          "note": "Kissner's statement went public nine years after the IPU report surfaced.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for contaminat*, death/deaths/died near 1947, and Kissner's caption spellings (Kissner/Kisner/Kistner/Knisser/Kner/Kissinger). The IPU deaths come up in the Sandia, Coyame and MJ-12 videos; Kissner's servicemen deaths appear only in the Sandia video, about 40 lines earlier, and Gerb compares the IPU deaths only with Coyame, never with Kissner.",
+      "weakest_link": "'Contributed to the deaths' in Kissner may mean deaths during offensive downings rather than contamination, and 'technicians from Sandia' could be civilians. Kissner's private 1994 statement may also have circulated before 2004, which would reopen the copying explanation.",
+      "surprise": 3,
+      "support": 3
+    },
+    {
+      "id": "L0012",
+      "slice": "S003-timeline",
+      "found_at": "2026-10-16T03:34:34Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "One craft or several: Hillenkoetter's memo against the IPU report",
+      "claim": "Within the Majestic papers Gerb presents, the IPU report of 22 July 1947 describes 'multiple fallen objects' recovered 4–6 July 1947 at two sites, while the Hillenkoetter memo to the Joint Intelligence Committee dated 19 September 1947, two months later, says 'we recovered one craft captured one'. Kissner (two to four discs) and Corso's Roswell File (Roswell plus San Augustine) also count more than one. Gerb covers both documents in the MJ-12 video without noting the count mismatch, which bears on whether the documents share an author or a consistent story.",
+      "entities": [
+        "Roscoe H. Hillenkoetter",
+        "Interplanetary Phenomenon Unit",
+        "Roswell Crash",
+        "Andrew Kissner"
+      ],
+      "videos": [
+        "The Majestic-12 Documents With Ryan S. Wood",
+        "The 1948 Aztec, New Mexico UFO Crash Retrieval",
+        "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The Majestic-12 Documents With Ryan S. Wood/transcript.md",
+          "quote": "the memo requests a classified intelligence project we recovered one craft captured one endot",
+          "note": "Hillenkoetter memo of 19 September 1947: one craft.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/transcript.md",
+          "quote": "The intelligence assessment references recovery of multiple fallen objects from 4 to 6th July 1947.",
+          "note": "IPU report: multiple objects.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Majestic-12 Documents With Ryan S. Wood/transcript.md",
+          "quote": "this document explores in great detail the events of the Roswell UFO crash including initial tracking and assessment of the two sites of the crashed disc",
+          "note": "Same video, IPU report covered just before.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "Kistner's sources detail the series of events beginning 15 May 1947 that led to elements of the United States Army offensively acting and downing two to four {quote unquote} flying discs.",
+          "note": "Kissner also counts several.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for 'one craft' (MJ-12 video only) and for multiple/several/two objects or discs near IPU. Gerb never compares the memo's count with the IPU report's.",
+      "weakest_link": "'Recovered one craft' may mean one intact craft among debris, or the MJ-12 video's two sites may be read as one disc in two places (Gerb says 'the two sites of the crashed disc'), which would dissolve the conflict. Both documents are disputed, so the payoff is limited.",
+      "surprise": 2,
+      "support": 3
+    },
+    {
+      "id": "L0013",
+      "slice": "S003-timeline",
+      "found_at": "2026-10-16T03:34:34Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "timeline",
+      "headline": "Vandenberg's July 1948 and the Sign memo he had destroyed",
+      "claim": "Gerb ties Kissner's classified July 1948 executive order (custody of recovered discs vested in the AEC and its laboratories) to Hoyt Vandenberg's General Order No. 29 of 15 July 1948 (Hidden Wing). In a different video (Special Access Required), he recounts Ruppelt's claim that Vandenberg ordered a 1948 Project Sign memo concluding that UFOs were interplanetary destroyed. Outside sources date that 'Estimate of the Situation' to late summer or September 1948, after the Chiles–Whitted sighting of late July, so the rejection came within weeks to months of the custody order Kissner describes. Read together: the Air Force's own analysts reached an interplanetary verdict just after (per Kissner) the material had been moved out of Air Force custody, and the chief of staff who had just signed OSI's counterintelligence order threw it out. Gerb never puts the July 1948 orders and the Sign memo on one timeline.",
+      "entities": [
+        "Hoyt Vandenberg",
+        "Andrew Kissner",
+        "Project Sign",
+        "Edward J. Ruppelt",
+        "Air Force Office of Special Investigations",
+        "Atomic Energy Commission"
+      ],
+      "videos": [
+        "The Hidden Wing - US Air Force UFO Reverse Engineering Programs",
+        "Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2",
+        "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/transcript.md",
+          "quote": "Indeed, it was Air Force Chief of Staff Hoy Vandenberg that signed General Order number 29 on 15 July 1948 that actually empowered OSI to engage in counterintelligence activities.",
+          "note": "Vandenberg's July 1948 order, tied by Gerb to Kissner's July 1948 orders.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1/transcript.md",
+          "quote": "Kistner stated that in July of 1948, a classified presidential executive order signed by Truman vested custody of recovered technical vehicles within the Atomic Energy Commission and its national laboratories.",
+          "note": "Kissner's custody order.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/transcript.md",
+          "quote": "This memo, according to Rupel, was ordered for destruction by General Hoy Vandenberg, one of the original accused members of Match 12.",
+          "note": "The Sign memo Vandenberg had destroyed, dated only to 1948 in the vault.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for Vandenberg/Vandenburg/Hoy and 'July of 1948'. The Sign-memo destruction appears only in Special Access Required and the July 1948 orders in Hidden Wing, Manhattan Project 2.0 and 80 Years; none mentions both. The Origin of the UFO Stigma covers Vandenberg closing Sign in 1949, not the memo.",
+      "weakest_link": "The vault dates the Sign memo only to the year 1948; the month comes from outside sources (late summer or September 1948, rejection after that) and the Estimate's existence is disputed. Vandenberg's rejection is also usually explained by lack of physical evidence, so the timing may mean nothing.",
+      "surprise": 3,
+      "support": 2
+    }
+  ]
+}

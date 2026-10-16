@@ -28,6 +28,7 @@ export default defineNuxtConfig({
   routeRules: {
     '/': PAGE_CACHE,
     '/videos': PAGE_CACHE,
+    '/analyses': PAGE_CACHE,
     '/wiki/**': PAGE_CACHE,
   },
   content: {
