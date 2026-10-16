@@ -3010,7 +3010,7 @@
       "id": "L0044",
       "slice": "S021-focus",
       "found_at": "2026-10-16T14:41:44Z",
-      "status": "open",
+      "status": "written",
       "duplicate_of": null,
       "problems": [],
       "kind": "hidden-link",
@@ -3079,7 +3079,9 @@
       "weakest_link": "Three soft premises. (1) 'Like Sandia with 1953's Kingman' is a passing guess Gerb hedges ('probably'), and Kingman = Kona Blue rests on his unnamed sources and Puthoff rumor; Gerb's other witnesses put Kingman at Area 51 (Uhouse) or S4 (Burisch). (2) Ryder was VP of Lockheed Martin Space Systems, a different arm from Sandia Corporation, and DOE-owned Sandia holdings were not Lockheed's to divest; the AAWSAP insider says Lockheed had the collection 'since before it got shut down in '89', i.e. before the 1993 Sandia contract. So the finding cannot claim the material came from Sandia, only that Gerb's custody explanation ignores Lockheed's own role as Sandia's operator. (3) Not a slip: it is a gap between three positions in three videos. Checkable only in part: Sandia Corporation's status as a wholly owned Lockheed subsidiary 1993-2017 is public record (DOE/NNSA), the facility Grusch gave the IG is not.",
       "impact": 4,
       "support": 3,
-      "slip": false
+      "slip": false,
+      "resolved_at": "2026-10-16T14:51:57Z",
+      "analysis": "Analyses/Gerb's Kona Blue custody theory leaves out that Lockheed ran Sandia.md"
     },
     {
       "id": "L0045",
