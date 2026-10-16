@@ -3803,7 +3803,7 @@
       "id": "L0055",
       "slice": "S028-accounts",
       "found_at": "2026-10-16T19:30:20Z",
-      "status": "open",
+      "status": "written",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -3908,7 +3908,9 @@
       "weakest_link": "Not a slip: the change shows across at least six videos over 2.5 years, so no single misstatement explains it. The weak point is how much of the early framing was Gerb's own view. 'Former ATIP director' may have been an inherited title, and 'official ... contracted by the dod' may have meant AAWSAP (Gerb ran the two together then). So the post should claim a change in how Gerb frames ATIP and Elizondo, not that he once vouched for Elizondo's whole account. The convergence with Kirkpatrick is only partial: Kirkpatrick says the ATIP circle invented a story, while Gerb 2026 says it was partly disclosing a real one. The writer should not overstate that. Everything can be checked from video publication dates and the transcripts. The outside events Gerb reacts to (Age of Disclosure premiere 21 Nov 2025; Elizondo's sub-SAP remark at a Corbell live show) can be dated from public sources.",
       "impact": 4,
       "support": 4,
-      "slip": false
+      "slip": false,
+      "resolved_at": "2026-10-16T19:40:30Z",
+      "analysis": "Analyses/Gerb's ATIP went from an official DoD program to a cover program in two years.md"
     },
     {
       "id": "L0056",
