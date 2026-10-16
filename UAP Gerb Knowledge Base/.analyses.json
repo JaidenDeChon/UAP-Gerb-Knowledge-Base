@@ -590,7 +590,7 @@
       "id": "L0007",
       "slice": "S002-accounts",
       "found_at": "2026-10-16T03:34:34Z",
-      "status": "written",
+      "status": "footnoted",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -641,8 +641,8 @@
       "weakest_link": "Grusch may name the CIA or give 1994 elsewhere in the full Judicial Watch interview, which the vault holds only as clips. If so, Gerb's paraphrase is fair and this collapses into a page-level nuance.",
       "surprise": 2,
       "support": 4,
-      "resolved_at": "2026-10-16T04:47:46Z",
-      "analysis": "Analyses/The Grusch shred party clip Gerb plays names no agency and no year.md"
+      "resolved_at": "2026-10-16T05:08:15Z",
+      "footnote": "gerb-shred-party"
     },
     {
       "id": "L0008",
@@ -1234,7 +1234,7 @@
       "id": "L0017",
       "slice": "S006-accounts",
       "found_at": "2026-10-16T04:25:10Z",
-      "status": "written",
+      "status": "footnoted",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -1283,8 +1283,8 @@
       "weakest_link": "Rests on Gerb's reading of the document; the writer must check the field order's actual text (majesticdocuments.com, or Wood's Majic Eyes Only) to confirm it says Condron Field and not something the caption garbled. Condron's 1947 status is uncertain: the airfields site dates it to 1947-48 from sectional charts, while a Wikipedia list gives 1945, and an NMSU caption says it was named for a WWII-era pilot; the anachronism point should stay secondary unless a firm construction date turns up (WSMR history office). Even without the anachronism, the core point (Condron is White Sands, not Roswell) survives if the document text is confirmed.",
       "surprise": 3,
       "support": 3,
-      "resolved_at": "2026-10-16T04:42:55Z",
-      "analysis": "Analyses/The IPU field order sends its team to a White Sands airfield, not Roswell.md"
+      "resolved_at": "2026-10-16T05:08:15Z",
+      "footnote": "gerb-condron-field"
     },
     {
       "id": "L0018",

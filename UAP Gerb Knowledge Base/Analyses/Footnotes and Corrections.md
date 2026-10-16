@@ -1,0 +1,27 @@
+---
+title: "Footnotes and Corrections"
+kind: footnotes
+tags: [analysis]
+---
+
+These are small corrections for places where a video probably misspoke: a gloss, a paraphrase or a detail that doesn't match the record or the clip Gerb plays. Each one is also footnoted where it appears, on the video's summary and on the most relevant page.
+
+## Grusch's shred party: one agency in the mid '90s
+
+2026-10-16
+
+In [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|the 80-year timeline]], Gerb says Grusch spoke about it "in the Judicial Watch podcast, stating the CIA and other agencies had a tremendous burnback and shred party in 1994 to erase as many physical records as possible."
+
+The likely correction: the Judicial Watch clip Gerb plays in [[Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/summary|Special Access Required Vol.2]] has Grusch saying "there was a burn bag and shred party um at a particular agency in the mid '90s I'm aware of", with no agency named and no year. The CIA probably carried over from earlier in the same answer, where Grusch mentions "the CIA office of policy strategy". The source is the clip itself, in that video's transcript.
+
+Footnoted on [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval]] and [[David Grusch]].
+
+## Condron Field is at White Sands, not Roswell
+
+2026-10-16
+
+In [[Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/summary|the Aztec video]], Gerb reads the 4 July 1947 IPU field order: "The one-page memo directs a commanding officer to take a counter inelligence team to a UFO crash site and report to the G2 at Condrinfield, New Mexico, which is of course Roswell." ("Condrinfield" is the captions' spelling of Condron Field.)
+
+The likely correction: Condron Field was the airfield of the White Sands range, about 130 miles from Roswell, so the gloss is probably a slip. Sources: the WSMR Museum's [history of White Sands Proving Ground](https://wsmrmuseum.com/2020/09/21/a-brief-history-of-white-sands-proving-ground-1941-1965/5/) and GlobalSecurity's [Condron Army Airfield](https://www.globalsecurity.org/military/facility/condron.htm). One airfield history, [Paul Freeman's](https://www.airfields-freeman.com/NM/Airfields_NM_Alamagordo.htm), doesn't find it on charts before 1948.
+
+Footnoted on [[Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/summary|The 1948 Aztec, New Mexico UFO Crash Retrieval]] and [[Interplanetary Phenomenon Unit]].

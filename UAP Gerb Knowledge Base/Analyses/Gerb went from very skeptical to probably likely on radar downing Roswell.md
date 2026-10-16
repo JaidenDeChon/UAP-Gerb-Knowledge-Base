@@ -9,7 +9,7 @@ videos: ["Philip J. Corso - US Army UFO Technology Research & Development", "The
 tags: [analysis]
 ---
 
-If you watched Gerb's January 2025 video on [[Philip J. Corso]], you heard him set aside the idea that military radar knocked the 1947 craft out of the sky: "I am still very skeptical on this point". Twenty months later, in his 80-year timeline, he says it is "probably likely" that radar or electromagnetic interference brought down the [[Roswell Crash|Roswell]] craft. He never says his view changed. The videos in between do show how it changed, one step at a time.
+If you watched Gerb's January 2025 video on [[Philip J. Corso]], you heard him set aside the idea that military radar knocked the 1947 craft out of the sky: "I am still very skeptical on this point". Twenty months later, in his 80-year timeline, he says it is "probably likely" that radar or electromagnetic interference brought down the [[Roswell Crash|Roswell]] craft. He never says his view changed. The videos in between do show how it changed, one step at a time. His understanding may simply have changed as new information reached him: first the [[Scott and Suzanne Ramsey|Ramseys']] book on the Aztec case, then [[Andrew Kissner]]'s 1994 statement.
 
 ## The finding
 

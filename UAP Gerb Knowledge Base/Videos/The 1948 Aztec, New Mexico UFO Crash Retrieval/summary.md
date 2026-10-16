@@ -949,7 +949,7 @@ responses:
 ---
 ::
 
-Timothy Good and the Woods point higher than MacArthur, to George C. Marshall, whom Steinman says mobilised the IPU for Aztec. Majestic documents include a 4 July 1947 IPU field order and a 22 July 1947 IPU report on Roswell, both delivered to [[Tim Cooper]] in the mid-1990s.
+Timothy Good and the Woods point higher than MacArthur, to George C. Marshall, whom Steinman says mobilised the IPU for Aztec. Majestic documents include a 4 July 1947 IPU field order[^gerb-condron-field] and a 22 July 1947 IPU report on Roswell, both delivered to [[Tim Cooper]] in the mid-1990s.
 
 The 22 July 1947 report, if genuine, closely matches Steinman's Aztec account, which appeared nine years before it surfaced. It describes multiple objects recovered on 4–6 July 1947, a Sandia radiobiological team with an AFSWP security detail, AEC scientists including Oppenheimer, Bronk in charge of autopsies, recovered craft stored at Los Alamos under a Lieutenant General Collins, and Marshall as the only cabinet member who knew. It also mentions three Sandia technicians killed in a containment accident, which Gerb has linked to the 1974 Coyame case. Gerb concludes that the unit existed but its records have been destroyed. He cannot lean on the disputed documents for anything definitive, but the parallels between Roswell and Aztec, eight months apart, are striking.
 
@@ -990,3 +990,5 @@ Speaking to camera at the end, Gerb explains why he took up a case he had once d
 - **Concepts**: [[Hottel Memo]], [[MJ-12 Documents]], [[Project Twinkle]], [[TR-3B]], [[Strategic Defense Initiative (SDI)]]
 - **Operations**: [[Operation Upshot-Knothole]]
 - **Events**: [[Aztec UFO Crash and Recovery]], [[Roswell Crash]], [[1953 Kingman, Arizona Crash Retrieval]], [[1965 Kecksburg, Pennsylvania Crash Retrieval]]
+
+[^gerb-condron-field]: Gerb says the field order has the team "report to the G2 at Condrinfield, New Mexico, which is of course Roswell", probably a slip in the gloss: Condron Field was the White Sands range airfield, about 130 miles from Roswell ([WSMR Museum](https://wsmrmuseum.com/2020/09/21/a-brief-history-of-white-sands-proving-ground-1941-1965/5/); [GlobalSecurity](https://www.globalsecurity.org/military/facility/condron.htm)), and one airfield history doesn't find it on charts before 1948 ([Paul Freeman](https://www.airfields-freeman.com/NM/Airfields_NM_Alamagordo.htm)).
