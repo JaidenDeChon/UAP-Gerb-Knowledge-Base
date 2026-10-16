@@ -109,10 +109,12 @@
       "retrieved": "2026-10-16"
     },
     "GAO Roswell Report (1995)": {
-      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/9719015a29bfb9294b4f41db94ab6567ad4f5b465b8ae2c9530faaf22ad466c4.pdf",
-      "sha256": "9719015a29bfb9294b4f41db94ab6567ad4f5b465b8ae2c9530faaf22ad466c4",
-      "bytes": 326773,
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/bd26d91cfc8d72754236c93f51dc455abff93998cca55e881de9e47e13d4f79f.pdf",
+      "sha256": "bd26d91cfc8d72754236c93f51dc455abff93998cca55e881de9e47e13d4f79f",
+      "bytes": 284862,
       "pages": 26,
+      "ocr": "skip-text",
+      "sourceSha256": "9719015a29bfb9294b4f41db94ab6567ad4f5b465b8ae2c9530faaf22ad466c4",
       "thumb": {
         "src": "/documents/gao-roswell-report-1995.webp",
         "width": 320,

@@ -88,7 +88,7 @@ PDFs are not in git. The bucket holds the only hosted copy, and `documents.json`
 
 Many government files are scans: page images with no text, or with a poor text layer from an old OCR pass. `fetch` handles both with [ocrmypdf](https://ocrmypdf.readthedocs.io/) (Tesseract underneath):
 
-- **No text** (under 200 characters a page): it runs `ocrmypdf --skip-text`, which adds an invisible text layer to the pages that lack one and leaves the page images untouched.
+- **No text** on any page (under 200 characters on it): it runs `ocrmypdf --skip-text`, which adds an invisible text layer to the pages that lack one and leaves the page images and the other pages' text untouched. One such page is enough, so a born-digital report with scanned appendices gets its appendices OCR'd.
 - **A poor existing layer:** add `ocr: redo` to the note and run `fetch "Title" --force`. That runs `--force-ocr`, which discards the old layer and OCRs every page afresh from its image. It re-renders each page, so the file grows (the Hottel memo went from 133 KB to 943 KB); use it only on pure scans.
 - `ocr: off` skips OCR for a file whose text should be left as it is.
 

@@ -242,14 +242,24 @@ function pageCount(pdfPath) {
   return pages
 }
 
-/** Characters of extractable text per page, ignoring whitespace. */
-function textPerPage(pdfPath, pages) {
+/** Characters of extractable text on each page, ignoring whitespace. */
+function textByPage(pdfPath, pages) {
   const text = execFileSync('pdftotext', [pdfPath, '-'], { encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore'], maxBuffer: 256 * 1024 * 1024 })
-  return text.replace(/\s+/g, '').length / pages
+  // pdftotext ends every page with a form feed.
+  return text.split('\f').slice(0, pages).map(page => page.replace(/\s+/g, '').length)
 }
 
-/** Below this much text per page a file is treated as a scan with no usable text layer. */
+/** Below this much text a page is treated as a scan with no usable text layer. */
 const MIN_TEXT_PER_PAGE = 200
+
+/**
+ * The number of pages that look like bare scans. Any at all means OCR: a
+ * born-digital report with scanned appendices (GAO/NSIAD-95-187) has plenty of
+ * text on average, but none on the pages a reader most needs to search.
+ */
+function scannedPages(pdfPath, pages) {
+  return textByPage(pdfPath, pages).filter(chars => chars < MIN_TEXT_PER_PAGE).length
+}
 
 /**
  * Adds a text layer with ocrmypdf. `skip-text` OCRs only the pages with no
@@ -363,7 +373,7 @@ async function fetchOne(doc, manifest) {
 
   let ocr = null
   if (doc.ocr === 'redo') ocr = 'force-ocr'
-  else if (doc.ocr === 'auto' && textPerPage(sourcePath, pages) < MIN_TEXT_PER_PAGE) ocr = 'skip-text'
+  else if (doc.ocr === 'auto' && scannedPages(sourcePath, pages) > 0) ocr = 'skip-text'
   let pdfPath = sourcePath
   if (ocr) {
     console.log(`  running ocrmypdf (${ocr}) on ${pages} ${pages === 1 ? 'page' : 'pages'}…`)
@@ -508,7 +518,7 @@ async function probe() {
   const text = execFileSync('pdftotext', ['-l', '2', path, '-'], { encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore'] })
   console.log(`From:   ${got.from}\nFile:   ${path}\nSize:   ${(got.bytes.length / 1e3).toFixed(0)} KB, sha256 ${sha256}`)
   console.log(info.split('\n').filter(l => /^(Title|Author|Creator|CreationDate|Pages):/.test(l)).join('\n'))
-  console.log(`Text:   ${textPerPage(path, pages) < MIN_TEXT_PER_PAGE ? 'little or none (a scan; it will be OCR\'d)' : 'yes'}\n--- first two pages ---\n${text.trim().slice(0, 3000)}`)
+  console.log(`Text:   ${(n => (n === 0 ? 'yes' : n === pages ? 'little or none (a scan; it will be OCR\'d)' : `missing on ${n} of ${pages} pages (those will be OCR'd)`))(scannedPages(path, pages))}\n--- first two pages ---\n${text.trim().slice(0, 3000)}`)
 }
 
 async function main() {
