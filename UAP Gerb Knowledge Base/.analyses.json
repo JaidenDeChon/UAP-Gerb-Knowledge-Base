@@ -1809,7 +1809,7 @@
       "id": "L0025",
       "slice": "S010-accounts",
       "found_at": "2026-10-16T05:48:03Z",
-      "status": "footnote-candidate",
+      "status": "footnoted",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -1839,7 +1839,9 @@
       "weakest_link": "This is a slip, either by Gerb or in the captions (fifty-three heard as seventy-three). It is footnote-only and has no analytic residue. The date is checkable in the Durant report and CIA records.",
       "surprise": 1,
       "support": 5,
-      "slip": true
+      "slip": true,
+      "resolved_at": "2026-10-16T14:15:37Z",
+      "footnote": "gerb-robertson-1973"
     },
     {
       "id": "L0026",

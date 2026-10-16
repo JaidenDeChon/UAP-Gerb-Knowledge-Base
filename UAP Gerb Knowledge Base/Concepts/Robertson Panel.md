@@ -23,7 +23,7 @@ UAP researchers widely cite this recommendation as the origin of the institution
 
 ## Connection to Crash Retrievals
 
-The Robertson Panel convened in January 1953, just four months before the alleged [[1953 Kingman, Arizona Crash Retrieval]] in May 1953. Three months after Kingman came [[USAF Regulation 200-2]], which rerouted UFO reports away from public oversight. Researchers argue that the panel's recommendations and this regulation were an institutional response to public sightings and also to the growing problem of managing knowledge about recovered non-human craft. The closeness in time of the Robertson Panel, the Kingman crash and Regulation 200-2 is cited as evidence of a coordinated strategy to centralize control over UAP information and prevent leaks about crash retrieval operations.
+The Robertson Panel convened in January 1953,[^gerb-robertson-1973] just four months before the alleged [[1953 Kingman, Arizona Crash Retrieval]] in May 1953. Three months after Kingman came [[USAF Regulation 200-2]], which rerouted UFO reports away from public oversight. Researchers argue that the panel's recommendations and this regulation were an institutional response to public sightings and also to the growing problem of managing knowledge about recovered non-human craft. The closeness in time of the Robertson Panel, the Kingman crash and Regulation 200-2 is cited as evidence of a coordinated strategy to centralize control over UAP information and prevent leaks about crash retrieval operations.
 
 ## Declassification and Legacy
 
@@ -40,3 +40,6 @@ The [[Robertson Panel]] convened in January 1953 during the same period that [[B
 - [[Videos/The Origin of the UFO Stigma/summary|The Origin of the UFO Stigma]]
 - [[Videos/The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies/summary|The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies]]
 - [[Videos/UFOs in the Private Sector - Battelle Memorial Institute/summary|UFOs in the Private Sector - Battelle Memorial Institute]]
+- [[Videos/National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers/summary|National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers]]
+
+[^gerb-robertson-1973]: In the captions Gerb dates the panel to 1953, then says a few sentences later "From the Robertson panel, we can see evidence presented from 14 to 17 January 1973." The panel met in mid-January 1953 (the CIA report covers 14 to 18 January 1953), so 1973 is probably a slip of the tongue or a caption mishearing ([CIA Reading Room](https://cia.gov/readingroom/node/2011053); [Wikipedia](https://en.wikipedia.org/wiki/Robertson_Panel)).
