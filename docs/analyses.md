@@ -38,6 +38,8 @@ Every analysis carries one label. Pick the lowest that fits.
 | `moderate` | The facts are solid, but joining them needs an assumption the evidence makes likely without proving it. | Probably the same person (same surname, rank and base), or the timing fits but the place is only regional. |
 | `speculative` | Worth flagging, but it rests on a coincidence, an unverified identity or one ambiguous line. | A name that might be a mis-transcription; a date known only to the year. |
 
+When a web page can't be fetched, a fact confirmed only by search-result snippets counts as verified if two independent results agree. If one snippet is all there is, the finding can be `moderate` at most.
+
 Common names, years that are crowded with events (1947, 1952, 1997), and caption errors in the transcripts all inflate apparent links. Weigh them before choosing a label.
 
 ## Novelty
@@ -86,6 +88,7 @@ Length: as short as the evidence allows, usually 400 to 900 words.
 - Call the presenter **Gerb**, never "the host" or "the narrator". Never wikilink his name; he has no page.
 - Attribute every claim: "Fouche says", "according to Weygandt". A witness's account is reported, not endorsed and not debunked. The analysis's own inference is marked as inference: "this suggests", "if these are the same man".
 - Quotes from transcripts are verbatim, including their stumbles. Fix nothing inside quotation marks.
+- Confirm who is speaking before you attribute a quote. Cold-open montages, clips Gerb plays and interview cross-talk run speakers together in the captions. If the speaker isn't clear from the passage, say so ("a voice in the montage says") or don't rely on the quote.
 - The page-humanizer pass runs after the writer, but write cleanly in the first place.
 - Don't add an authorship note to the body. The app's header strip on every analysis already says that an AI research agent found and wrote it from the knowledge base and checked it against the transcripts.
 
@@ -100,7 +103,8 @@ The writer discards a lead, and records why, when any of these hold:
 - A transcript already makes the connection.
 - The evidence doesn't say what the lead claims, or a quote doesn't appear in its source.
 - It rests on a caption error, or on two different people who share a name.
-- It's trivial (shared country, shared famous agency, shared decade).
+- It's trivial: a shared country, decade or famous agency, or a contractor that turns up in every list of suspected contractors (Lockheed, Boeing, McDonnell Douglas, Northrop, Raytheon). A big name only counts when something specific to this case ties it in: a named person, site, contract or date.
+- Its deciding premise can't be checked. If the finding stands or falls on a fact that is only Gerb's paraphrase of another source ("Gerb says the book says X"), that source has to be confirmed (a quote, a snippet of the passage, a second report of it). Otherwise discard the lead as unverifiable, and say what would revive it.
 - It duplicates a published analysis. Extend that analysis instead, if the new evidence adds something.
 
 A discarded lead is a good outcome. Publishing fewer, sounder analyses is the point.

@@ -66,6 +66,7 @@ Use `WebSearch` and `WebFetch`.
 
 - **Discard** when any discard rule in `docs/analyses.md` holds. Run `python3 scripts/analyses.py resolve <id> discarded "<one-sentence reason>"`, commit the ledger with a message like `Discard analysis lead L0007: already made in the Kecksburg video`, and go to the report.
 - **Fix a page instead** when the "finding" turns out to be a mistake in one of the vault's own pages: correct that page against the transcript (keep its links and quotations), discard the lead with the reason `page error, fixed <page>`, and commit both.
+- **Report, don't fix,** a page that's wrong against outside facts rather than a transcript (an out-of-date headquarters, a wrong birth year). List it under "Page issues" in your report so the enricher agents can pick it up.
 - **Write it** otherwise, choosing `confidence` and `novelty` by the tables in the standard. When in doubt between two confidence labels, take the lower.
 
 ## Phase 5: write the post

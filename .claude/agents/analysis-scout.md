@@ -75,6 +75,7 @@ Write exactly one file, the `leads_file` path you were given (e.g. `.analysis_in
 
 - `source` is relative to the vault folder. `quote` must be copied exactly from that file, because the ingest step checks each quote verbatim and flags any it can't find. Prefer transcript quotes; use a summary or entity page when the transcript is ambiguous or the fact comes from the page's own research.
 - `entities` are exact page titles (file names without `.md`) that exist in the vault.
+- `weakest_link` also says whether that link can be checked at all, and how (a document, a book passage, a public record). A lead that rests on Gerb's paraphrase of a book, or on a montage quote whose speaker is unclear, must say so here.
 - `surprise` (1 to 5): how much it would change a viewer's reading of the videos. `support` (1 to 5): how directly the evidence carries it, before any web check. Score honestly. The queue serves the highest product first.
 - Write `{"slice": "...", "leads": []}` when nothing holds up.
 
