@@ -376,6 +376,52 @@
       "handed_out": "2026-10-16T15:02:36Z",
       "ingested": "2026-10-16T15:07:59Z",
       "leads": 1
+    },
+    "S025-focus": {
+      "lens": "focus",
+      "items": [
+        "Majestic 12"
+      ],
+      "handed_out": "2026-10-16T19:05:45Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S026-links": {
+      "lens": "links",
+      "items": [
+        "Battelle Memorial Institute|Project Sign, Grudge, and Blue Book Operation Period",
+        "Bernard Haisch|Sean Kirkpatrick",
+        "David Grusch|Project Sign, Grudge, and Blue Book Operation Period",
+        "Eric Davis|UAP Campaign Plan - Way Forward",
+        "Edgar Mitchell|TRW",
+        "AARO|Edgar Mitchell",
+        "Langtry, Texas|Roswell Crash",
+        "Harry Truman|Jacques Vallee",
+        "Ed (Witness 11063)|Ross Coulthart",
+        "Building 200|Sandia National Laboratories",
+        "Holloman Air Force Base|Steven Greer",
+        "Project Moon Dust|TRW",
+        "Northrop Grumman|Office of the Director of National Intelligence (ODNI)",
+        "MITRE Corporation|Pentagon",
+        "Holloman Air Force Base|Luis Elizondo",
+        "Betty Sapp|Luis Elizondo",
+        "Holloman Air Force Base|Northrop Grumman",
+        "CIA|Steve Wilson",
+        "CIA Office of Global Access|Stephanie O'Sullivan",
+        "Project Sign, Grudge, and Blue Book Operation Period|Wright-Patterson Air Force Base"
+      ],
+      "handed_out": "2026-10-16T19:06:04Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S027-focus": {
+      "lens": "focus",
+      "items": [
+        "Leonard Stringfield"
+      ],
+      "handed_out": "2026-10-16T19:06:04Z",
+      "ingested": null,
+      "leads": 0
     }
   },
   "leads": [
