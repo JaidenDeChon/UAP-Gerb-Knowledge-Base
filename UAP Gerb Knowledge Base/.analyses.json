@@ -178,8 +178,8 @@
         "Project Blue Book"
       ],
       "handed_out": "2026-10-16T05:40:22Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-16T05:48:03Z",
+      "leads": 2
     },
     "S011-timeline": {
       "lens": "timeline",
@@ -187,8 +187,8 @@
         "1960s"
       ],
       "handed_out": "2026-10-16T05:40:22Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-16T05:48:03Z",
+      "leads": 3
     },
     "S012-patterns": {
       "lens": "patterns",
@@ -213,8 +213,8 @@
         "1968 Vietnam UAP Crash Retrieval"
       ],
       "handed_out": "2026-10-16T05:40:22Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-16T05:48:03Z",
+      "leads": 1
     }
   },
   "leads": [
@@ -1695,6 +1695,345 @@
       "support": 3,
       "resolved_at": "2026-10-16T05:24:42Z",
       "footnote": "gerb-owens-saic-dates"
+    },
+    {
+      "id": "L0024",
+      "slice": "S010-accounts",
+      "found_at": "2026-10-16T05:48:03Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "The Army letter sent the IPU records to AFOSI, not into Blue Book's reports",
+      "claim": "In the Aztec video Gerb quotes the Army counterintelligence reply as saying the Interplanetary Phenomenon Unit's records were 'surrendered to the US Air Force Office of Special Investigations with Operation Blue Book', then summarizes it as records surrendered 'to the Air Force in conjunction with Project Blue Book' and asks why no IPU records appear in Blue Book's many reports. The letter he quotes names AFOSI, a counterintelligence agency, as the recipient, and the next sentence of the same video says AFOSI later told CUFON the IPU material had been destroyed. The Majestic-12 video also says the records went 'to Blue Book', while the later Manhattan Project 2.0 video restores 'AFOSI'. The question in the Aztec video rests on a paraphrase that dropped the recipient. This is most likely a footnote on the Aztec summary and the IPU page rather than a post.",
+      "entities": [
+        "Interplanetary Phenomenon Unit",
+        "Air Force Office of Special Investigations",
+        "Project Blue Book"
+      ],
+      "videos": [
+        "The 1948 Aztec, New Mexico UFO Crash Retrieval",
+        "The Majestic-12 Documents With Ryan S. Wood",
+        "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/transcript.md",
+          "quote": "All records pertaining to this unit were surrendered to the US Air Force Office of Special Investigations with Operation Blue Book.",
+          "note": "The quoted Army letter names AFOSI as the recipient.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/transcript.md",
+          "quote": "C. The IPU records were quote unquote surrendered to the Air Force in conjunction with Project Blue Book.",
+          "note": "Gerb's summary point drops AFOSI.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/transcript.md",
+          "quote": "If IPU records were given over to Project Blue Book, why are there no records of IPU in Blue Book's many reports?",
+          "note": "The question assumes Blue Book received the records.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/transcript.md",
+          "quote": "Kufon or the computer UFO network received a reply from AFOSI that IPU material had been destroyed but offered no further information.",
+          "note": "In the same passage, AFOSI is the office that answered for the material.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Majestic-12 Documents With Ryan S. Wood/transcript.md",
+          "quote": "even though Hall's 1980 request oversaw the Army director of Counter Intelligence State all ipu records were surrendered to Blue Book",
+          "note": "An earlier video gives the same shortened version.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1/transcript.md",
+          "quote": "The IPU records were surrendered [music] to the Air Force AFOSI in conjunction with Project Blue Book",
+          "note": "A later video restores AFOSI.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Grepped all transcripts for 'surrendered', 'IPU', 'interplanetary phenomenon' and 'AFOSI'. Only Aztec, Majestic-12 and Manhattan 2.0 discuss where the records went. None of them says the Blue Book question is answered by the letter naming AFOSI.",
+      "weakest_link": "A single paraphrase drift by Gerb fully explains it: he quotes the letter correctly and mentions AFOSI's reply a sentence later. So this is a footnote, and surprise is scored for the small residue: the question he raises is answered by his own quote. The letter text (Hall 1980, Steinman 1984, Good 1987 replies) is checkable in published FOIA reproductions.",
+      "surprise": 2,
+      "support": 5
+    },
+    {
+      "id": "L0025",
+      "slice": "S010-accounts",
+      "found_at": "2026-10-16T05:48:03Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "The Robertson Panel met in January 1953, not 1973",
+      "claim": "In the NRO video Gerb calls the Robertson Panel 'a 1953 panel', then a few sentences later says the evidence was presented '14 to 17 January 1973'. The panel met 14 to 17 January 1953. The video's summary already silently gives 1953, but no footnote records the slip.",
+      "entities": [
+        "Robertson Panel"
+      ],
+      "videos": [
+        "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers/transcript.md",
+          "quote": "project Pounce was actually discussed within the Robertson panel a 1953 3 panel constructed specifically to debunk",
+          "note": "Gerb dates the panel to 1953.",
+          "verified": true
+        },
+        {
+          "source": "Videos/National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers/transcript.md",
+          "quote": "From the Robertson panel, we can see evidence presented from 14 to 17 January 1973.",
+          "note": "A few sentences later, the year reads 1973.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Grepped all transcripts for 'Robertson' near '1973'. This is the only instance, and the other Robertson Panel mentions give 1953.",
+      "weakest_link": "This is a slip, either by Gerb or in the captions (fifty-three heard as seventy-three). It is footnote-only and has no analytic residue. The date is checkable in the Durant report and CIA records.",
+      "surprise": 1,
+      "support": 5
+    },
+    {
+      "id": "L0026",
+      "slice": "S011-timeline",
+      "found_at": "2026-10-16T05:48:03Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "timeline",
+      "headline": "Webb met Johnson the day after Kecksburg with Gemini 7 in orbit",
+      "claim": "In the Kecksburg video Gerb reads President Johnson's 10 December 1965 schedule at the Texas ranch (the Joint Chiefs, McNamara, Vance, Califano, Hornig, NASA's James Webb, AEC chairman Glenn Seaborg and Agriculture Secretary Orville Freeman) as a possible day of briefings on the crash, and finds Webb's and Freeman's presence especially odd. In a different video (UFO Whistleblowers Vol.2) Gerb plays Frank Borman's December 1965 Gemini 7 'bogey' exchange. Put on one timeline, NASA had two astronauts (Borman and Lovell) in orbit on Gemini 7 that very week (launched 4 December, splashed down 18 December 1965, with Gemini 6A's first launch attempt on 12 December), so Webb had an obvious reason to see the President on 10 December. The mix of department heads (Defense, NASA, AEC, Agriculture) also fits the December budget reviews Johnson held at the ranch each year (a December 1966 ranch defense budget review included the Joint Chiefs, McNamara and Vance). The narrow, vault-backed finding: Webb's attendance falls in the middle of a crewed NASA mission, which gives the 'weird' attendee an ordinary explanation that neither video points out. It doesn't rule out Kecksburg coming up, but it takes away the attendance as evidence that it did.",
+      "entities": [
+        "James E. Webb",
+        "Frank Borman",
+        "Lyndon B. Johnson",
+        "Orville Freeman",
+        "Glenn Seaborg",
+        "1965 Kecksburg, Pennsylvania Crash Retrieval",
+        "Grant Cameron"
+      ],
+      "videos": [
+        "The 1965 Kecksburg, Pennsylvania UFO Crash",
+        "UFO Whistleblowers Vol.2"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/transcript.md",
+          "quote": "high up USG officials NASA director James web and more while no meetings this day make explicit mention of kebur Soviet spy satellites or icbms",
+          "note": "Webb is on the 10 December 1965 roster; Gerb concedes that no meeting mentions Kecksburg.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/transcript.md",
+          "quote": "why would a former Marine and secretary of agriculture be present at a meeting with three secretaries of defense and the science adviser to the president what is even weirder here is the presence of James Webb alongside an under secretary of agriculture",
+          "note": "Gerb treats Webb's and Freeman's presence as anomalous and looks for a UFO reason (Webb's 1947 calls).",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/transcript.md",
+          "quote": "the JCS and every single individual summoned to Johnson's Texas residence the day after kbur holds massive importance and possibly signifies a day of briefings and meetings on the crash",
+          "note": "Gerb's inference from the roster.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/transcript.md",
+          "quote": "Dr Glenn seaborg who was a Nobel prizewinning chemist and atomic energy chairman from 61 to 71",
+          "note": "AEC chairman also present: Defense, NASA, AEC and Agriculture heads together fits a budget-review day.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UFO Whistleblowers Vol.2/transcript.md",
+          "quote": "Bor German had famously what the media ran with as a UFO sighting on board NASA Gemini 8 in December of 1965 clear seven go ahead this is Houston",
+          "note": "Gerb plays the December 1965 Gemini 7 ('seven') exchange in another video. He says 'Gemini 8', a slip; the clip and the Borman page say Gemini 7.",
+          "verified": true
+        },
+        {
+          "source": "People/Frank Borman.md",
+          "quote": "He had earlier flown on the Gemini 7 mission in December 1965.",
+          "note": "Vault places Gemini 7 in December 1965; the exact dates (4 to 18 December) need the NASA record.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for 'gemini' (hits only in Kecksburg [a Gemini capsule as a crash candidate], Wilson Davis Memo [Gordon Cooper], Whistleblowers Vol.2 [Borman bogey]) and for 'budget' in the Kecksburg transcript (only Webb's 1947 Bureau of the Budget post). No transcript ties Webb's 10 December attendance to Gemini 7 or to a budget review.",
+      "weakest_link": "The vault dates Gemini 7 only to 'December 1965'; the 4 to 18 December flight dates and the 12 December Gemini 6A attempt come from the NASA record (easy to check). The budget-review reading of 10 December 1965 is not confirmed for that date: a web search found Johnson-McNamara calls on 2, 20 and 22 December 1965 about the FY1967 defense budget and a December 1966 ranch budget review with the Joint Chiefs, but not the 10 December 1965 agenda. The LBJ Library Daily Diary for 10 December 1965 would settle it. The finding only takes away the evidence from attendance. It does not show that Kecksburg never came up.",
+      "surprise": 3,
+      "support": 3
+    },
+    {
+      "id": "L0027",
+      "slice": "S011-timeline",
+      "found_at": "2026-10-16T05:48:03Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "LeMay left the Air Force's top job in February 1965, which dates Goldwater's Blue Room request",
+      "claim": "Gerb gives three dates for Goldwater being refused the Wright-Patterson room and cursed out by Curtis LeMay: early 1960s/'maybe 1963' (Whistleblowers Vol.2, from Goldwater's March 1975 letter), 28 December 1973 (Iceberg Level 2) and 1975 (Special Forces video). In his Kecksburg video Gerb himself says McConnell relieved LeMay as Air Force Chief of Staff on 1 February 1965, and in Vol.2 he gives Goldwater's Senate terms as 1953-65 and 1969-87. Together these bound the LeMay call to before early 1965, while both men were in office. The 1973 and 1975 dates are probably the dates of Goldwater's later statements (letters of 1974-75, the 1975 interview), carried over as the date of the event. It also means the Blue Room film destruction of 9 September 1965, which Gerb calls 'curiously around the time of Senator Goldwater's request', came seven months after LeMay had left the post and eight months after Goldwater had left the Senate.",
+      "entities": [
+        "Barry Goldwater",
+        "Curtis LeMay",
+        "John P. McConnell",
+        "Blue Room",
+        "Eddie L. Anderson"
+      ],
+      "videos": [
+        "UFO Whistleblowers Vol.2",
+        "The Alien and UFO Obscure Oddities Iceberg (Level 2)",
+        "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction",
+        "The 1965 Kecksburg, Pennsylvania UFO Crash"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/UFO Whistleblowers Vol.2/transcript.md",
+          "quote": "10 or 12 years before so the early 1960s maybe 1963 and remember that date",
+          "note": "Gerb's dating of the request from the March 1975 letter.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UFO Whistleblowers Vol.2/transcript.md",
+          "quote": "I call Curtis L and I said General uh I know we have a room at right back where you put all this secret stuff can I go in there",
+          "note": "Goldwater's 1975 interview: the refusal came from LeMay.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Alien and UFO Obscure Oddities Iceberg (Level 2)/transcript.md",
+          "quote": "how about the 28th of December 1973 were Senator Barry Goldwater is denied access to UAP information at Wright Patterson Air Force Base",
+          "note": "Second date, 1973, with LeMay named in the same passage.",
+          "verified": true
+        },
+        {
+          "source": "Videos/US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction/transcript.md",
+          "quote": "Senator Barry Goldwater who in 1975 was stonewalled by General Curtis lame into accessing the Blue Room",
+          "note": "Third date, 1975.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/transcript.md",
+          "quote": "USF General JP McConnell served as chief of staff for the US Air Force upon taking his position on February 1st 1965 he relieved General Curtis lame",
+          "note": "Gerb's own date for the end of LeMay's tenure.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UFO Whistleblowers Vol.2/transcript.md",
+          "quote": "senator of Arizona from 53 to 65 and 69 to 87",
+          "note": "Goldwater was out of the Senate from January 1965 to January 1969.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UFO Whistleblowers Vol.2/transcript.md",
+          "quote": "a film was destroyed on the 9th of September 1965 which is of course curiously around the time of Senator goldwater's request",
+          "note": "The film destruction came after both men had left the posts the story needs.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Read every Goldwater passage in all transcripts (Moon Dust, Kecksburg, Iceberg L2, MJ-12 with Wood, Whistleblowers Vol.2, Special Forces). Only Kecksburg gives LeMay's February 1965 exit, and there Gerb uses it to introduce McConnell, not to date Goldwater's request. No transcript notes that the 1973 or 1975 dates fall after LeMay's tenure. The vault's Goldwater page already lists the three dates but doesn't resolve them.",
+      "weakest_link": "Probably a footnote, not a post: each of the 1973 and 1975 dates is best explained by a single slip (the date of Goldwater's statement taken as the date of the event), and the videos don't show a consistent change of view (Jan 2024: 1973; May 2024: ~1963; June 2024: 1975). After the slips are set aside, what's left is small: 'around the time' is loose (1963 to 1965), and LeMay could in principle have been phoned after he retired. Checkable from LeMay's and Goldwater's service records; the source of '28 December 1973' (perhaps a letter date in Stringfield's compilation) is unknown.",
+      "surprise": 2,
+      "support": 4
+    },
+    {
+      "id": "L0028",
+      "slice": "S011-timeline",
+      "found_at": "2026-10-16T05:48:03Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "Palladium's 1962 naming came before the DS&T Gerb credits it to",
+      "claim": "In the US Navy video Gerb says Project Palladium got its name in April 1962 'when Dr. Albert Wen [Wheelon] took over as head of CIA DS&T'. In his 80-year timeline he dates the founding of the CIA's Directorate of Science and Technology to 1963, as does the vault's DS&T page. CIA records put Wheelon at the Office of Scientific Intelligence in 1962 and make him the first Deputy Director for Science and Technology on 5 August 1963. The April 1962 naming therefore happened under OSI, more than a year before the DS&T existed. The vault's Project Palladium page repeats the error.",
+      "entities": [
+        "Project Palladium",
+        "CIA Directorate of Science and Technology"
+      ],
+      "videos": [
+        "US Navy UFO Crash Retrieval & Reverse Engineering Programs",
+        "80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/US Navy UFO Crash Retrieval & Reverse Engineering Programs/transcript.md",
+          "quote": "Although palladium didn't get its iconic name until April 1962 when Dr. Albert Wen took over as head of CIA DS&T",
+          "note": "Gerb ties the 1962 naming to Wheelon heading the DS&T.",
+          "verified": true
+        },
+        {
+          "source": "Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/transcript.md",
+          "quote": "Moving forward to 1963, we now celebrate the founding of the CIA's Directorate of Science and Technology or DS&T",
+          "note": "Gerb's own founding date for DS&T is 1963.",
+          "verified": true
+        },
+        {
+          "source": "Operations/Project Palladium.md",
+          "quote": "Palladium did not receive its code name until April 1962, when Dr. Albert Wheelon took over as head of the CIA's Directorate of Science and Technology (DS&T)",
+          "note": "Vault page repeats the slip.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for 'Wheelon', 'Wen ', 'Office of Scientific Intelligence' and 'DS&T' with 1962/1963. Only the Navy video names Wheelon, and no transcript notes that the DS&T didn't exist in 1962.",
+      "weakest_link": "A footnote, not a post: one swapped office name (DS&T for OSI) explains it completely, and it may come from Gerb's source (Poteat or Cruickshank). Nothing changes for Palladium apart from which office named it. Checkable: CIA reading room records give Wheelon as OSI director 1962-63 and DDS&T from 5 August 1963.",
+      "surprise": 1,
+      "support": 4
+    },
+    {
+      "id": "L0029",
+      "slice": "S012-patterns",
+      "found_at": "2026-10-16T05:48:03Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "hidden-link",
+      "headline": "The Carswell base of the 1950 El Indio document is the Fort Worth field that took the Roswell debris",
+      "claim": "In the Del Rio video Gerb cites Todd Zechel's claim of a declassified USAF document saying an object recovered on 6 or 7 December 1950 was 'transported back to Carswell AFB', and he names Carswell as Willingham's base in 1955. In UFO Whistleblowers Vol.1 he quotes Colonel Thomas DuBose's affidavit that the Roswell material was sent from RAAF 'to Fort Worth' and on to Wright Field. No video says these are the same base: Fort Worth Army Air Field was renamed Carswell AFB in January 1948, and it was the Eighth Air Force headquarters that General Ramey commanded until June 1950. If Zechel's document is genuine, the 1950 object took the same first leg as the Roswell debris three years earlier, to the same field and the same Eighth Air Force headquarters. That reading would also square Zechel's document (Carswell) with the Eisenhower Briefing Document (Sandia) as a staging stop followed by a lab, the way Roswell went Fort Worth and then Wright Field. It also puts the Ramey detail Gerb gives (he cancelled the 6 December 1950 alert) in context: by then Ramey had left Carswell for USAF Director of Operations in Washington, the post that matches a nationwide alert.",
+      "entities": [
+        "Carswell Air Force Base",
+        "Fort Worth, Texas",
+        "General Ramey",
+        "Todd Zechel",
+        "Thomas J. DuBose",
+        "1950 El Indio UFO Crash",
+        "Roswell Crash"
+      ],
+      "videos": [
+        "The 1950s Del Rio, Texas UFO Crashes",
+        "UFO Whistleblowers Vol.1"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The 1950s Del Rio, Texas UFO Crashes/transcript.md",
+          "quote": "obtained a Declassified USAF document stating the military had recovered a foreign object on December 6th or 7th of 1950 and transported it back to Carswell AFB but this unwillingness to provide any shred of proof of this document means we cannot consider this part of the case",
+          "note": "Zechel's document routes the 1950 object to Carswell. Gerb sets it aside because Zechel never produced it.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1950s Del Rio, Texas UFO Crashes/transcript.md",
+          "quote": "also from Carswell Air Force Base in Fort Worth",
+          "note": "Gerb places Carswell in Fort Worth but never says it was the 1947 Fort Worth Army Air Field.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UFO Whistleblowers Vol.1/transcript.md",
+          "quote": "he states he was in charge of arranging the requested materials be sent from raaf to Fort Worth which were then sent on to General chidlaw at right field",
+          "note": "DuBose affidavit: the Roswell material went to Fort Worth first, then on to Wright Field. This is the staging pattern the 1950 claim would repeat.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1950s Del Rio, Texas UFO Crashes/transcript.md",
+          "quote": "General Ry yes the same general from Roswell canel this alert at 1316 hours",
+          "note": "Gerb ties Ramey from Roswell to the 1950 alert, but not to the base the 1950 object allegedly went to.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs/transcript.md",
+          "quote": "this underground facility according to the witness was tied with NORAD in Cheyenne Mountain Colorado right Patterson Air Force Base Ohio Tinker Air Force Base Oklahoma Carswell Air Force Base Texas and others",
+          "note": "Background: Carswell turns up again in an unrelated anonymous account of retrieval infrastructure.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched every transcript for 'carswell' (and 'carswel', 'cars well'): only Del Rio, DUMBs and Edwards Vol.2 have it, and none mentions Roswell or 1947 near it. 'fort worth' appears only in Del Rio (as Carswell's city) and UFO Whistleblowers Vol.1 (Roswell). No transcript says Fort Worth Army Air Field became Carswell, or links the 1950 Carswell claim to the Roswell route. The vault's Carswell AFB and Fort Worth pages don't make the link either. Web check: Carswell Wikipedia and the Texas Historical Commission give the January 1948 renaming; a Fort Worth Star-Telegram caption dated 14 June 1950 has Ramey leaving Carswell to become Director of Operations at USAF HQ.",
+      "weakest_link": "The 1950 Carswell leg rests on Zechel's document, which has never been produced and which Gerb himself says he can't consider. If it doesn't exist, all that's left is the base identity, which researchers already know well. So the lead can only run as a speculative open question, or as a footnote-sized note on the Carswell page. It can be checked against Zechel's papers or published writings (a NICAP or Ground Saucer Watch file) for the document's text and number. The renaming and Ramey's 1950 move are public record. No Gerb slip is involved.",
+      "surprise": 2,
+      "support": 3
     }
   ]
 }
