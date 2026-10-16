@@ -13,7 +13,7 @@ On or around July 3–4, 1947, rancher Mac Brazel discovered unusual debris scat
 
 ## Battelle Memorial Institute Analysis
 
-The alleged connection between Roswell crash material and Battelle's 1949 nickel-titanium alloy research (contract 33-38-3736 with Wright-Patterson AFB) is a central part of the Roswell evidence put together on this channel. Battelle researcher E.J. Center, who left the institute in 1957, allegedly told family members that he had worked on "parts retrieved from a flying saucer." MUFON reported this connection in the summer of 1994, about sixteen years before Center's 1949 nitinol research was declassified in 2010.
+The alleged connection between Roswell crash material and Battelle's 1949 titanium-alloy research, which Gerb identifies as nickel-titanium (contract AF 33(038)-3736 with Wright-Patterson AFB, which Gerb reads as 33-38-3736), is a central part of the Roswell evidence put together on this channel. Battelle researcher E.J. Center, who left the institute in 1957, allegedly told family members that he had worked on "parts retrieved from a flying saucer." MUFON reported this connection in the summer of 1994, about sixteen years before Center's 1949 nitinol research was declassified in 2010.
 
 ## Jesse Marcel and the Cover-Up
 

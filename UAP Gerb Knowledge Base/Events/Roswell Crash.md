@@ -31,7 +31,7 @@ Gerb's timeline video "80 Years of UFO Crash Retrieval and Reverse Engineering" 
 
 ## Battelle Material Analysis Connection
 
-Gerb's video on [[Battelle Memorial Institute]] argues that debris from the 1947 Roswell crash, specifically the anomalous metallic material described by [[Jesse Marcel]], was later shipped to [[Wright-Patterson Air Force Base]], which contracted Battelle in 1949 to analyze it. Battelle's classified research on [[Nitinol (Nickel-Titanium Alloy)]] under contract 33-38-3736, performed years before nitinol's official public discovery in 1961, is cited as the main documentary evidence for this chain of events. Battelle senior engineer [[EJ Center]] privately disclosed in the late 1950s that he had studied "parts retrieved from a flying saucer" during his Battelle tenure.
+Gerb's video on [[Battelle Memorial Institute]] argues that debris from the 1947 Roswell crash, specifically the anomalous metallic material described by [[Jesse Marcel]], was later shipped to [[Wright-Patterson Air Force Base]], which contracted Battelle in 1949 to analyze it. Battelle's restricted titanium-alloy research under contract AF 33(038)-3736 (which Gerb reads as 33-38-3736), which Gerb argues was work on [[Nitinol (Nickel-Titanium Alloy)]] performed years before nitinol's official public discovery in 1961, is cited as the main documentary evidence for this chain of events. Battelle senior engineer [[EJ Center]] privately disclosed in the late 1950s that he had studied "parts retrieved from a flying saucer" during his Battelle tenure.
 
 ## Sources
 
