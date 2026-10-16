@@ -3256,7 +3256,7 @@
       "id": "L0047",
       "slice": "S023-focus",
       "found_at": "2026-10-16T15:07:59Z",
-      "status": "footnote-candidate",
+      "status": "footnoted",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -3289,7 +3289,9 @@
       "weakest_link": "A single slip (USDI for DNI) explains it fully; footnote only. Checkable against Clapper's official ODNI biography.",
       "impact": 2,
       "support": 5,
-      "slip": true
+      "slip": true,
+      "resolved_at": "2026-10-16T19:05:14Z",
+      "footnote": "gerb-clapper-usdi-tenure"
     },
     {
       "id": "L0048",
