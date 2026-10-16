@@ -364,7 +364,7 @@ events:
   - date: "1994"
     title: "Legacy program control shifts to a 27-person quasi-industry/government group"
     cue: 6912
-    summary: "The video alleges that in 1994, amid concern over what was seen as President Bill Clinton's openness to disclosure, control of the legacy programs was moved out of the National Security Council's oversight of covert activities and handed to an informal 27-person control group drawn from industry and government. The move came as Secretary of Defense William Perry expanded security controls on Special Access Programs. Gerb says David Grusch described the CIA and other agencies carrying out a major effort to destroy records that year; in the Judicial Watch clip Gerb plays elsewhere, Grusch names "a particular agency in the mid '90s"."
+    summary: "The video alleges that in 1994, amid concern over what was seen as President Bill Clinton's openness to disclosure, control of the legacy programs was moved out of the National Security Council's oversight of covert activities and handed to an informal 27-person control group drawn from industry and government. The move came as Secretary of Defense William Perry expanded security controls on Special Access Programs. Gerb says David Grusch described the CIA and other agencies carrying out a major effort to destroy records that year; in the Judicial Watch clip Gerb plays elsewhere, Grusch names only a particular agency in the mid '90s."
     category: policy
     significance: major
     entities:
