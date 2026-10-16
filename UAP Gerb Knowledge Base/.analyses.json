@@ -356,7 +356,7 @@
         "Aurora Texas UFO Crash"
       ],
       "handed_out": "2026-10-16T15:02:36Z",
-      "ingested": null,
+      "ingested": "2026-10-16T15:07:59Z",
       "leads": 0
     },
     "S023-focus": {
@@ -365,8 +365,8 @@
         "Luis Elizondo"
       ],
       "handed_out": "2026-10-16T15:02:36Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-16T15:07:59Z",
+      "leads": 2
     },
     "S024-timeline": {
       "lens": "timeline",
@@ -374,8 +374,8 @@
         "1980s"
       ],
       "handed_out": "2026-10-16T15:02:36Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-16T15:07:59Z",
+      "leads": 1
     }
   },
   "leads": [
@@ -3169,6 +3169,198 @@
       "slip": true,
       "resolved_at": "2026-10-16T15:02:11Z",
       "footnote": "gerb-teledyne-ryan-lockheed"
+    },
+    {
+      "id": "L0046",
+      "slice": "S023-focus",
+      "found_at": "2026-10-16T15:07:59Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "hidden-link",
+      "headline": "DeLonge's 'high up' NRO adviser fits McCasland's career, not Elizondo's",
+      "claim": "Gerb's case that Luis Elizondo leaked Immaculate Constellation material to Tom DeLonge rests on DeLonge telling Joe Rogan (episode 1029, released 26 October 2017) that 'one of my advisers was from the National Reconnaissance Office, high up'. Gerb names Elizondo as that adviser because Elizondo later acted as TTSA's liaison to the DIA, CIA and NRO. But Elizondo's career (Army counterintelligence, CIFA, OUSD(I), NPMS) never put him in the NRO, and he had only just resigned from government (October 2017) when the Rogan episode aired. On Gerb's own adviser list, read out in the same NRO video, the one figure with an actual NRO career is Major General Neil McCasland, whom Gerb describes in The Hidden Wing as having 'performed much work closely with the National Reconnaissance Office' (his Air Force biography lists the Secretary of the Air Force Office of Special Projects, the NRO's Air Force arm, and the NRO's Aerospace Data Facility at Buckley). McCasland was already advising DeLonge in 2016 per the Podesta emails Gerb quotes. The narrow finding: the person 'from' the NRO among DeLonge's named advisers is more plausibly McCasland than Elizondo. A corollary: McCasland retired in 2013, four years before the 2017 IMCON establishment Gerb cites, so if he was the source, DeLonge's 'episodic visits' knowledge would predate IMCON rather than reflect its tasking.",
+      "entities": [
+        "Luis Elizondo",
+        "Neil McCasland",
+        "Tom DeLonge",
+        "To The Stars Academy",
+        "NRO (National Reconnaissance Office)",
+        "Immaculate Constellation (IMCON)",
+        "John Podesta"
+      ],
+      "videos": [
+        "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers",
+        "The Hidden Wing - US Air Force UFO Reverse Engineering Programs",
+        "Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers/transcript.md",
+          "quote": "one one of my adviserss was from the National Reconnaissance Office. High up high high up. And um they call it episodic visits.",
+          "note": "DeLonge on Rogan, played by Gerb: the adviser was 'from' the NRO, not merely in contact with it.",
+          "verified": true
+        },
+        {
+          "source": "Videos/National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers/transcript.md",
+          "quote": "a group of his advised by Air Force Major General Neil McCassland, Air Force Major General Michael Kerry",
+          "note": "Gerb's own adviser list for DeLonge in the same video, McCasland first.",
+          "verified": true
+        },
+        {
+          "source": "Videos/National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers/transcript.md",
+          "quote": "Well, putting some pieces together here, I believe this is likely Luis Alzando himself.",
+          "note": "Gerb's attribution of the NRO adviser to Elizondo.",
+          "verified": true
+        },
+        {
+          "source": "Videos/National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers/transcript.md",
+          "quote": "While director of global security and special programs for to the stars academy from 2017 to 2021, Alzando performed liaison duties with multiple US agencies for TTSA, including the DIA, CIA, and NRO.",
+          "note": "Gerb's only basis for the Elizondo-NRO tie is a post-government TTSA liaison role, not an NRO career.",
+          "verified": true
+        },
+        {
+          "source": "Videos/National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers/transcript.md",
+          "quote": "the same year of Imcon's establishment 2017",
+          "note": "Gerb dates IMCON to 2017; McCasland retired in 2013.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/transcript.md",
+          "quote": "Tom was also advised by numerous highlevel military personnel. These included Air Force Major General Neil McCassland, who from 2011 to 2013 served as commander for the Air Force Research Lab out of Wright Patterson Air Force Base.",
+          "note": "Gerb identifies McCasland as a DeLonge adviser.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/transcript.md",
+          "quote": "and performed much work closely with the National Reconnaissance Office.",
+          "note": "Gerb himself gives McCasland the NRO background, in the same passage where he repeats the Elizondo attribution.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/transcript.md",
+          "quote": "I believe this NSE program was undertaken by Luis Alzando, who even performed authorized disclosures of the immaculate constellation USA to Tom Dong in 2017.",
+          "note": "Same passage, a few sentences earlier: both halves sit side by side and are never joined.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for McCasland and its caption variants (McCassland, McCasteland, McCasslin, McCastlin, McCastland, Macasand, Macastland, McCaslin): hits only in the NRO, Hidden Wing, SAR Vol.2, Manhattan Project 2.0 and Lockheed Martin videos, always as an adviser-list name, an AFRL/Wright-Patterson figure or 'got a slap on the wrist'; never linked to DeLonge's NRO adviser or to 'episodic visits'. Searched 'episodic' and 'high up' across all transcripts: only the NRO and SAR Vol.2 videos, both attributing the source to Elizondo. Checked Michael Carey/Kerry, Weiss, Justice, Puthoff and Mellon: none is given an NRO background in any transcript.",
+      "weakest_link": "DeLonge never named the adviser, and his public list was not exhaustive, so an unnamed NRO official could be the source; the finding can only say McCasland fits better than Elizondo among the named advisers, not that it was him. 'High up' is DeLonge's word; McCasland's NRO-linked posts (SAF Office of Special Projects, Aerospace Data Facility, Pentagon director of special programs) were mid-career, which is checkable in his Air Force biography (af.mil article 104776). Gerb could answer that Elizondo was 'from' the NRO in the liaison sense. Not a slip: it is an inference Gerb builds deliberately across three videos.",
+      "impact": 4,
+      "support": 3,
+      "slip": false
+    },
+    {
+      "id": "L0047",
+      "slice": "S023-focus",
+      "found_at": "2026-10-16T15:07:59Z",
+      "status": "footnote-candidate",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "Gerb puts Clapper's USD(I) tenure at 2010 to 2017",
+      "claim": "In Manhattan Project 2.0 Gerb says Clapper may have given cover to AATIP and Elizondo 'in his tenure from 2010 to 2017 as USDI'. Those are Clapper's DNI years; Gerb himself gives USD(I) as 2007 to 2010 and DNI as 2010 to 2017 in Special Access Required Vol.2 and elsewhere in Manhattan Project 2.0. Probable slip of office title.",
+      "entities": [
+        "James Clapper",
+        "Luis Elizondo",
+        "AATIP (Advanced Aerospace Threat Identification Program)"
+      ],
+      "videos": [
+        "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1",
+        "Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1/transcript.md",
+          "quote": "And of course, James Clapper who may or may not have provided some cover for the AATIP programs and Luis Elizondo in his tenure from 2010 to 2017 as USDI.",
+          "note": "The slip.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/transcript.md",
+          "quote": "whilst he was DNI from 2010 to 2017 [music] where he previously served as USD INS from 2007 to 2010.",
+          "note": "Gerb's correct dates elsewhere.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Read every Clapper date in Manhattan Project 2.0; the same video gives DNI 2010 to 2017 twice, so this is a one-off swap of title.",
+      "weakest_link": "A single slip (USDI for DNI) explains it fully; footnote only. Checkable against Clapper's official ODNI biography.",
+      "impact": 2,
+      "support": 5,
+      "slip": true
+    },
+    {
+      "id": "L0048",
+      "slice": "S024-timeline",
+      "found_at": "2026-10-16T15:07:59Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "The Palladium documents weren't in Shandera's 1984 film",
+      "claim": "In his Navy video Gerb argues that Project Palladium details appear in 'early MJ12 documents dropped to Jaime Shandera in 1984', and since Palladium stayed secret until Gene Poteat's 1998 CIA journal article, whoever wrote them must have known the program from the inside. But the documents he cites are the 28 June 1961 'TUR' memo from Kennedy to the DCI and a Dulles 'Operation Review' of 5 November 1961. In his Majestic-12 video with Ryan Wood, Gerb himself credits the 'JFK to director of the CIA documents' to Thomas Cantwheel's mailbox drops to Tim Cooper, which began in 1992. Wood says the 1984 film held the Eisenhower Briefing Document. So the Palladium-bearing papers surfaced sometime between 1992 and 1999, not in 1984. That cuts the head start Gerb's argument relies on from 14 years to six at most, and to none if the TUR memo arrived with the 1999 Cooper material. The authenticity argument for these documents is much weaker than the Navy video presents it.",
+      "entities": [
+        "Project Palladium",
+        "Jaime Shandera",
+        "Tim Cooper",
+        "Thomas Cantwheel",
+        "MJ-12 Documents",
+        "Eisenhower Briefing Document",
+        "Navy Special Program"
+      ],
+      "videos": [
+        "US Navy UFO Crash Retrieval & Reverse Engineering Programs",
+        "The Majestic-12 Documents With Ryan S. Wood"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/US Navy UFO Crash Retrieval & Reverse Engineering Programs/transcript.md",
+          "quote": "The tur memo dated 28th June 1961 is a majestic document Ryan and Robert Wood have rated with a moderate to high authenticity.",
+          "note": "The Palladium argument rests on the TUR memo (Kennedy to DCI Dulles) and the 5 November 1961 Operation Review.",
+          "verified": true
+        },
+        {
+          "source": "Videos/US Navy UFO Crash Retrieval & Reverse Engineering Programs/transcript.md",
+          "quote": "Details of Project Palladium appearing in early MJ12 documents dropped to Jaime Chanderey in 1984 prove significant",
+          "note": "Gerb dates the Palladium documents to Shandera's 1984 drop.",
+          "verified": true
+        },
+        {
+          "source": "Videos/US Navy UFO Crash Retrieval & Reverse Engineering Programs/transcript.md",
+          "quote": "Since palladium was not declassified until long after 1984, this implies whoever wrote these select majestic documents was well aware or a part of project palladium.",
+          "note": "The inference depends entirely on the 1984 date.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Majestic-12 Documents With Ryan S. Wood/transcript.md",
+          "quote": "the first event was in 1984 when Jamie chander which was in LA producer uh TV producer I believe uh received the Eisenhower briefing document",
+          "note": "Wood says the 1984 film delivered the Eisenhower Briefing Document. Nothing ties the 1961 Kennedy/Dulles papers to it.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Majestic-12 Documents With Ryan S. Wood/transcript.md",
+          "quote": "we can also find a 1961 document allegedly sent by JFK to the director of the CIA requesting an update on the psychological warfare plans related to The Majestic 12",
+          "note": "This is the TUR memo, described in the same terms as in the Navy video.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Majestic-12 Documents With Ryan S. Wood/transcript.md",
+          "quote": "there are three major sources of document leaks one can wheel who supplied much of the material we've covered today to Tim Cooper such as the ipu report in field order Hillen coder magic memo first annual report and the JFK to director of the CIA documents",
+          "note": "Gerb credits the JFK-to-DCI documents to Cantwheel and Cooper, not to Shandera.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Majestic-12 Documents With Ryan S. Wood/transcript.md",
+          "quote": "as K wheel took ownership for many of the mailbox Majestic document drops starting in 1992",
+          "note": "Cantwheel's drops start in 1992, eight years after the Shandera film.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched every transcript for palladium/paladium, Poteat (and the captions' Potit/Petite), TUR memo, 'psychological warfare', 'operation review', Cantwheel and Cooper. Palladium is discussed only in the Navy video, which ties it to Shandera and 1984. The Ryan Wood video ties the JFK-to-DCI documents to Cantwheel and Cooper but never mentions Palladium, Poteat or the 1998 article. No transcript puts the two together.",
+      "weakest_link": "One slip by Gerb (giving the first and best-known MJ-12 recipient, Shandera, and his date of 1984 to all 'early' Majestic documents) explains the Navy line, so this is a footnote, not a post. What survives the slip is the shorter head start, and that depends on when Cooper actually received the TUR memo and the Operation Review. Gerb's Majestic video puts the JFK-to-DCI documents among Cantwheel's drops (1992 onward). A quick web search found no firm date of receipt, and one source puts related Cooper material in 1999. The provenance of the Operation Review is not stated in any transcript. To check: Wood's Majic Eyes Only or majesticdocuments.com provenance notes for each document, and the public text of the Eisenhower Briefing Document, which does not mention Palladium.",
+      "impact": 4,
+      "support": 4,
+      "slip": true
     }
   ]
 }
