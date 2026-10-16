@@ -35,7 +35,10 @@ According to the memo, the program manager stated they had "a craft, an intact c
 
 As Deputy Director of the DIA, Wilson had statutory oversight and regulatory authority over all DoD special access programs. The watch committee still denied him access, because he was not on the bigot list and did not meet their undisclosed special criteria.
 
-Wilson complained to the SAPOC senior review group (SRG) at the Pentagon, but the SRG upheld the contractor's access denial and ordered Wilson to drop the matter. SRG chairman [[John Deutch]] (former CIA Director) threatened Wilson that if he did not comply, "he would not see the Director of DIA promotion, he would get an early retirement, and lose one to two stars."
+Wilson complained to the SAPOC senior review group (SRG) at the Pentagon, but the SRG upheld the contractor's access denial and ordered Wilson to drop the matter. The SRG chairman threatened Wilson that if he did not comply, "he would not see the Director of DIA promotion, he would get an early retirement, and lose one to two stars." Gerb's 2024 reading of the notes names the chairman as [[John Deutch]].[^gerb-deutch-srg-1997]
+
+> [!edit] Attribution clarified 16 October 2026
+> Earlier versions said, as fact, that SRG chairman John Deutch (former CIA Director) made the threat. Transcribed copies of the notes quoted online leave the chairman unnamed here, and Deutch had left the Deputy Secretary post that chaired the group in May 1995; the name comes from Gerb's reading in his 2024 video.
 
 Wilson apparently heeded the threat, and he later served as Director of the DIA from 1999 to 2002. In January 1998, he spoke to [[Jacques Gansler]] (Under Secretary of Defense for Acquisition and Technology), who had been read into the program. Gansler told Wilson: "UFOs are real, so-called alien abductions not real," and refused to discuss it further.
 
@@ -87,3 +90,5 @@ The memo's entry into the U.S. Congressional Record in 2022 gave it added instit
 - [[Videos/The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs/summary|The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs]]
 - [[Videos/The 1950s Del Rio, Texas UFO Crashes/summary|The 1950s Del Rio, Texas UFO Crashes]]
 - [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
+
+[^gerb-deutch-srg-1997]: Gerb reads the notes as saying "the srg chairman John Deutsch" made the threat; transcribed copies of the notes quoted online give only the "Senior Review Group chairman", unnamed, and Deutch had left the Deputy Secretary of Defense post that chaired the group on 10 May 1995. In mid-1997 the Deputy Secretary was John P. White (to 15 July 1997), followed by John Hamre (DoD Historical Office, Deputy Secretaries of Defense).

@@ -3916,7 +3916,7 @@
       "id": "L0056",
       "slice": "S029-focus",
       "found_at": "2026-10-16T19:30:20Z",
-      "status": "footnote-candidate",
+      "status": "footnoted",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -3963,13 +3963,15 @@
       "weakest_link": "The memo's own wording, which could not be fetched here (archive.org, Scribd and blog copies were blocked). If the notes themselves call Deutch the 1997 SRG chairman, this is not a slip but an anachronism inside the document, a much bigger finding (impact 5, whether the memo holds together). If the notes name Deutch only as the 1994 chair, it is a single misreading by Gerb in his first video, a footnote. One search snippet of a transcribed copy says the threat passage does not name the chairman directly, which favours the slip. Checkable against the annotated transcript at archive.org (annotated_wilson_memo) or the Scribd copy.",
       "impact": 3,
       "support": 3,
-      "slip": true
+      "slip": true,
+      "resolved_at": "2026-10-16T19:44:40Z",
+      "footnote": "gerb-deutch-srg-1997"
     },
     {
       "id": "L0057",
       "slice": "S029-focus",
       "found_at": "2026-10-16T19:30:20Z",
-      "status": "footnote-candidate",
+      "status": "shelved",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -4016,7 +4018,9 @@
       "weakest_link": "Rests on Gerb's paraphrase of a memo whose text could not be fetched here. If the notes really do name Perry as an adviser, it is an anachronism in the document (bigger, but Perry could have advised informally as a former secretary, so still weak). The 'Paul and Mike as mentioned above' line in the same reading makes a paraphrase slip the likelier reading. Checkable against the annotated transcript on archive.org or the Scribd copy.",
       "impact": 2,
       "support": 3,
-      "slip": true
+      "slip": true,
+      "resolved_at": "2026-10-16T19:44:40Z",
+      "reason": "Not a Gerb slip: the notes themselves name Perry as an adviser ('Ran into Bill Perry in May '97 - talked about this quietly - he suggested the same thing', per blog and Dolan transcriptions). Perry was then a former SecDef, advising informally, so no anachronism; would need re-scoping as a post (and memo text) to go further."
     },
     {
       "id": "L0058",

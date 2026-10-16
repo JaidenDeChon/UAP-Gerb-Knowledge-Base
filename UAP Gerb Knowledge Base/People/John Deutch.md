@@ -59,7 +59,7 @@ rows:
 entries:
   - name: "Thomas Wilson"
     role: "Vice Admiral; later Director of the DIA"
-    note: "According to the Wilson-Davis notes, Deutch warned him in 1997 to drop his attempt to be read into a crash retrieval program."
+    note: "According to Gerb's 2024 reading of the Wilson-Davis notes, Deutch warned him in 1997 to drop his attempt to be read into a crash retrieval program."
   - name: "Bill Perry"
     role: "Deputy Secretary, then Secretary of Defense"
     note: "Restructured SAP oversight in early 1994, just before Deutch succeeded him as Deputy Secretary and SAPOC chair. Gerb notes that Perry also once sat on SAIC's board."

@@ -104,7 +104,7 @@ events:
       - "Bigot List"
   - date: "1997"
     title: "The review group upholds the refusal"
-    summary: "SAPOC's senior review group sides with the contractor. Its chairman, John Deutch, allegedly warns him that pressing on would cost him promotion to DIA director and one or two stars."
+    summary: "SAPOC's senior review group sides with the contractor. Its chairman (John Deutch, in Gerb's 2024 reading) allegedly warns him that pressing on would cost him promotion to DIA director and one or two stars."
     category: event
     entities:
       - "SAPOC (Special Access Program Oversight Committee)"
@@ -235,7 +235,10 @@ The committee showed Wilson pages of a [[Bigot List]] dated 1990 to 1993. Every 
 
 ## Denial of Access and Threats
 
-Despite his position and clearance level, the watch committee denied Wilson access because he was not on the bigot list and did not meet their undisclosed special access criteria. Wilson complained to the SAPOC senior review group (SRG) at the Pentagon, but the SRG upheld the contractor's decision to deny him access. The SRG's chairman, [[John Deutch]], threatened that if Wilson did not drop the matter, "he would not see the Director of DIA promotion, he would get an early retirement, and lose one to two stars."
+Despite his position and clearance level, the watch committee denied Wilson access because he was not on the bigot list and did not meet their undisclosed special access criteria. Wilson complained to the SAPOC senior review group (SRG) at the Pentagon, but the SRG upheld the contractor's decision to deny him access. The SRG's chairman threatened that if Wilson did not drop the matter, "he would not see the Director of DIA promotion, he would get an early retirement, and lose one to two stars." Gerb's 2024 reading of the notes names the chairman as [[John Deutch]].
+
+> [!edit] Attribution clarified 16 October 2026
+> Earlier versions said, as fact, that the SRG's chairman was John Deutch. Transcribed copies of the notes quoted online leave the chairman unnamed here, and Deutch had left the Deputy Secretary post that chaired the group in May 1995; the name comes from Gerb's reading in his 2024 video.
 
 In January 1998 Wilson spoke to [[Jacques Gansler]], who had been read into the program. Gansler told him: "UFOs are real, so-called alien abductions not real," and would say nothing more on the topic.
 
