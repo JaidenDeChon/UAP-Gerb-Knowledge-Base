@@ -2164,7 +2164,7 @@
       "id": "L0031",
       "slice": "S013-focus",
       "found_at": "2026-10-16T14:07:43Z",
-      "status": "open",
+      "status": "shelved",
       "duplicate_of": null,
       "problems": [],
       "kind": "hidden-link",
@@ -2230,7 +2230,9 @@
       "weakest_link": "The Northrop dates. A quick web search finds Nell's own speaker bios calling him deputy CTO of an unnamed '$2 billion company', and one names 'Northrop Grumman / TASC'. TASC was a Northrop-owned services unit from the 2001 Litton purchase to its 2009 sale, so the deputy-CTO post may be at TASC, possibly after 2003, and possibly not concurrent with the Iraq FMP role. Gerb's '13 years' and 'concurrent' come from a LinkedIn summary relayed by a Twitter account. Checkable against Nell's LinkedIn or TASC records. Even if the dates fit, the inference is only that the timing lines up, and Gerb already wondered whether Nell's certainty came from Northrop. The new piece is only Grusch's breakaway window.",
       "impact": 4,
       "surprise": 4,
-      "support": 2
+      "support": 2,
+      "resolved_at": "2026-10-16T14:10:40Z",
+      "reason": "Impact 3 after narrowing: Gerb already ties Nell's certainty to Northrop (Northrop vol.1) and his Iraq FMP role to crash retrieval (SOL video); the only unsaid piece is that a reported 13-year Northrop tenure overlaps Grusch's loosely dated 'early GWOT' IRAD window, which any long tenure would. The concurrency premise rests on a relayed LinkedIn summary; Nell's own bios put the deputy-CTO post at an unnamed systems engineering company (Northrop Grumman/TASC), and the SOL transcript has the 2003 Iraq FMP job as a DIA role."
     },
     {
       "id": "L0032",
