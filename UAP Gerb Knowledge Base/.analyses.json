@@ -366,7 +366,7 @@
       "id": "L0006",
       "slice": "S002-accounts",
       "found_at": "2026-10-16T03:34:34Z",
-      "status": "open",
+      "status": "discarded",
       "duplicate_of": null,
       "problems": [],
       "kind": "timeline",
@@ -450,7 +450,9 @@
       "not_said_check": "Grepped all transcripts for 'Clapper' within 1,500 characters of any 1990s year, '90s' or 'mid 90', and for 'Clapper' near 'Wilson Davis', 'Thomas Wilson' or 'Admiral Wilson'. No transcript gives Clapper's DIA dates or puts his DIA tenure next to the 1994 reorganization, the shred party or Wilson's 1997 lockout. Clapper and Wilson never appear in the same passage. Nearest miss: Special Access Required Vol.2 says '1994 saw the programs vest management outside of the US government into a quasi government and industry control group that still features statutory controls and involvement by the National Security Council. Clapper, I'm looking at you.' This nods at Clapper in a 1994 context but reads as a jab about present-day NSC involvement, and gives no DIA tenure or dates. The writer should weigh it.",
       "weakest_link": "Grusch's 'when he was the DNI, USDI and DIA director' may be a loose list of Clapper's posts rather than a claim that he managed the issue at DIA in 1991-95. The 'Clapper, I'm looking at you' line may also count as Gerb having half-drawn the 1994 connection.",
       "surprise": 4,
-      "support": 3
+      "support": 3,
+      "resolved_at": "2026-10-16T03:40:24Z",
+      "reason": "Premise fails: Gerb does not start Clapper's role in 2009 (Northrop Vol.2 says Clapper had prior need-to-know access before ODNI, the Lockheed video and SAR Vol.2 put him at work as USDI in 2007-09, SAR Vol.2 ties him to the 1994 restructuring), and the 1991-95 DIA overlap with 1994 and Wilson's 1997 lockout is a base-rate coincidence for a man who held a senior intelligence post in most years from 1991 to 2017"
     },
     {
       "id": "L0007",
