@@ -2723,7 +2723,7 @@
       "id": "L0039",
       "slice": "S019-focus",
       "found_at": "2026-10-16T14:41:43Z",
-      "status": "open",
+      "status": "shelved",
       "duplicate_of": null,
       "problems": [],
       "kind": "timeline",
@@ -2785,7 +2785,9 @@
       "weakest_link": "It is a coincidence of dates in a crowded year (1997), and there is no shared place or person beyond Greer, who only met Weygandt in 2000. Weygandt's date is known only as 'March or April'. The 25 March shootdown is Gerb's suggestion, not Weygandt's date, and the dates of Wilson's search rest on the disputed Wilson-Davis notes (Wilson denies the Davis meeting, though he admits meeting Greer and Mitchell). Neither side can easily be checked further. Weygandt's discharge records would not date the event, and the notes are the only source for April to June. The Wilson Davis passage that names 'Peru in 97' beside the meeting could also be read as Gerb already putting them together, so the writer should judge that passage. This would publish only as a speculative open question.",
       "impact": 4,
       "support": 3,
-      "slip": false
+      "slip": false,
+      "resolved_at": "2026-10-16T14:53:57Z",
+      "reason": "Speculative date coincidence scored impact 3 after testing: 1997 is crowded (named in 30 transcripts), Weygandt's date is only 'March or April' and Wilson's April-June window rests solely on the disputed Wilson-Davis notes, with no shared place, person or mechanism beyond Greer (who met Weygandt in 2000); the Wilson Davis video already sets 'Peru in 97' beside the 1997 Pentagon meeting, so only a weeks-level refinement is unsaid. Below the impact-5 bar for a speculative finding."
     },
     {
       "id": "L0040",
