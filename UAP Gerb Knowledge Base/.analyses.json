@@ -2855,7 +2855,7 @@
       "id": "L0041",
       "slice": "S019-focus",
       "found_at": "2026-10-16T14:41:44Z",
-      "status": "footnote-candidate",
+      "status": "footnoted",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -2889,7 +2889,9 @@
       "weakest_link": "Almost certainly a single slip of the year. The open part is whether Lovekin was at the Pentagon meeting at all. Miller's list as Gerb relays it (Mitchell, Wilson, Greer, Hughes) leaves him out, but Gerb's 'and others' leaves room for him. Greer's Hidden Truth and Disclosure accounts of the April 1997 briefings would settle it.",
       "impact": 2,
       "support": 3,
-      "slip": true
+      "slip": true,
+      "resolved_at": "2026-10-16T15:02:11Z",
+      "footnote": "gerb-lovekin-wilson-1998"
     },
     {
       "id": "L0042",
@@ -3089,7 +3091,7 @@
       "id": "L0045",
       "slice": "S021-focus",
       "found_at": "2026-10-16T14:41:44Z",
-      "status": "footnote-candidate",
+      "status": "footnoted",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -3120,7 +3122,9 @@
       "weakest_link": "Plainly a single slip (Lockheed for Northrop). Northrop's 1999 purchase of Teledyne Ryan is public record (Northrop Grumman press releases, 1999).",
       "impact": 1,
       "support": 5,
-      "slip": true
+      "slip": true,
+      "resolved_at": "2026-10-16T15:02:11Z",
+      "footnote": "gerb-teledyne-ryan-lockheed"
     }
   ]
 }
