@@ -10,7 +10,7 @@ Project Palladium was a classified CIA program active in the 1960s that used nav
 
 Palladium used clandestine naval assets (submarines and surface vessels) along with airborne electronic countermeasure equipment and balloon decoys to generate realistic UAP signatures in Soviet radar systems. It was designed to serve two purposes at once: to map the precise parameters of Soviet air defenses and to provide a "true picture of how Soviet air defenses perceived UFOs." To do both, the false signatures had to look genuine enough to test Soviet radar operators, which required detailed knowledge of what genuine UAP radar returns looked like.
 
-Palladium did not receive its code name until April 1962, when Dr. Albert Wheelon took over as head of the CIA's Directorate of Science and Technology (DS&T), although the operational concept existed before then. According to Poteat, only six people knew about Palladium in the 1960s.
+Palladium did not receive its code name until April 1962, when Dr. Albert Wheelon took over as head of the CIA's Directorate of Science and Technology (DS&T), although the operational concept existed before then.[^gerb-palladium-dst] According to Poteat, only six people knew about Palladium in the 1960s.
 
 ## Majestic-12 Document Connections
 
@@ -27,3 +27,5 @@ Gene Poteat ran Palladium while he was technical director of the Navy Special Pr
 ## Sources
 
 - [[US Navy UFO Crash Retrieval & Reverse Engineering Programs]]
+
+[^gerb-palladium-dst]: Gerb says Palladium "didn't get its iconic name until April 1962 when Dr. Albert Wen took over as head of CIA DS&T", but in 1962 Albert "Bud" Wheelon took over the Office of Scientific Intelligence; the DS&T was set up only on 5 August 1963, with Wheelon as its first head, the 1963 founding date Gerb himself gives in his 80-year timeline, so "DS&T" is probably a slip for his later post ([CIA reading room](https://www.cia.gov/readingroom/node/1092657); [CIA, Highlights in the History of the DS&T](https://www.cia.gov/readingroom/document/cia-rdp85b00803r000200060002-5)).

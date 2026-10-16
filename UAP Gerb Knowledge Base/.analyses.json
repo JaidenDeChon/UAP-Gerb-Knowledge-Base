@@ -1959,7 +1959,7 @@
       "id": "L0027",
       "slice": "S011-timeline",
       "found_at": "2026-10-16T05:48:03Z",
-      "status": "footnote-candidate",
+      "status": "footnoted",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -2026,13 +2026,15 @@
       "weakest_link": "Probably a footnote, not a post: each of the 1973 and 1975 dates is best explained by a single slip (the date of Goldwater's statement taken as the date of the event), and the videos don't show a consistent change of view (Jan 2024: 1973; May 2024: ~1963; June 2024: 1975). After the slips are set aside, what's left is small: 'around the time' is loose (1963 to 1965), and LeMay could in principle have been phoned after he retired. Checkable from LeMay's and Goldwater's service records; the source of '28 December 1973' (perhaps a letter date in Stringfield's compilation) is unknown.",
       "surprise": 2,
       "support": 4,
-      "slip": true
+      "slip": true,
+      "resolved_at": "2026-10-16T14:18:24Z",
+      "footnote": "gerb-goldwater-lemay-date"
     },
     {
       "id": "L0028",
       "slice": "S011-timeline",
       "found_at": "2026-10-16T05:48:03Z",
-      "status": "footnote-candidate",
+      "status": "footnoted",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -2070,7 +2072,9 @@
       "weakest_link": "A footnote, not a post: one swapped office name (DS&T for OSI) explains it completely, and it may come from Gerb's source (Poteat or Cruickshank). Nothing changes for Palladium apart from which office named it. Checkable: CIA reading room records give Wheelon as OSI director 1962-63 and DDS&T from 5 August 1963.",
       "surprise": 1,
       "support": 4,
-      "slip": true
+      "slip": true,
+      "resolved_at": "2026-10-16T14:18:24Z",
+      "footnote": "gerb-palladium-dst"
     },
     {
       "id": "L0029",
