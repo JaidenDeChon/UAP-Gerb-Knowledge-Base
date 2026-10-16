@@ -2644,7 +2644,7 @@
       "id": "L0037",
       "slice": "S017-focus",
       "found_at": "2026-10-16T14:21:29Z",
-      "status": "footnote-candidate",
+      "status": "footnoted",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -2675,7 +2675,9 @@
       "weakest_link": "This is a single slip by Gerb (a misremembered month), and he gives the right dates elsewhere. The B-52 detail is probably a slip too: the B-52 was not in service in 1952, and the 1952 airborne witnesses were airline crews and F-94 pilots. Easy to check (Ruppelt's book, the 1952 Samford press conference).",
       "impact": 2,
       "support": 5,
-      "slip": true
+      "slip": true,
+      "resolved_at": "2026-10-16T14:37:40Z",
+      "footnote": "gerb-washington-december"
     },
     {
       "id": "L0038",
