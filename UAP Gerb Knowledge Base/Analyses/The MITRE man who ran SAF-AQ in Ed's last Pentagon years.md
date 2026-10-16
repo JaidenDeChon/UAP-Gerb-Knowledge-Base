@@ -15,15 +15,15 @@ In *The Hidden Wing* Gerb puts [[Ed (Witness 11063)|Ed]] in the Air Force acquis
 
 LaPlante left MITRE for SAF/AQ in May 2013, as principal deputy. He was confirmed as assistant secretary in February 2014 and went back to MITRE at the end of November 2015. Ed's Pentagon years, by Greer's account, run from 2010 to 2015. Gerb dates Ed's two sums to fiscal years 2013 and 2014, and only the second of those falls fully under LaPlante. During most of fiscal 2013 the post had no confirmed head.
 
-That is the whole claim. It does not show that LaPlante knew of, approved or took part in anything Ed describes.
+The finding goes no further than those dates. It does not show that LaPlante knew of, approved or took part in anything Ed describes.
 
 ## What cuts against it
 
-- **The link is close to automatic.** Anyone who worked in SAF/AQ in 2014 or 2015 worked under LaPlante. What gives the match any interest is the MITRE round trip Gerb describes in a different video.
-- **It's not certain that Ed was in SAF/AQ.** According to Greer, Ed worked in a "research and development panel Chain". *The Hidden Wing* puts it more loosely: he "served in the Pentagon connected to" SAF/AQ.
-- **The fiscal years are uncertain.** Gerb gives them with an "I think".
-- **"Non-blue" is a standard budget term.** Greer's note reads "non-blue TOA". The Air Force uses "non-blue" for money it carries in its budget for other agencies, mainly intelligence, and doesn't manage. One 2016 trade-press piece, seen only as a search snippet, put the non-blue share of the FY2017 request at $34.2 billion. If Ed's sums are that line, the money left the Air Force through the budget process, not through SAF/AQ. Ed's account is still his, and nothing here tests it.
-- **Gerb's dates for LaPlante are off.** He gives LaPlante's tenure as 2014 to 2017, with both jobs held at once from 2015. The public record ends the Air Force post in November 2015.
+- The link is close to automatic. Anyone who worked in SAF/AQ in 2014 or 2015 worked under LaPlante. The match is only of interest because of the MITRE round trip Gerb describes in a different video.
+- It's not certain that Ed was in SAF/AQ. According to Greer, Ed worked in a "research and development panel Chain". *The Hidden Wing* puts it more loosely: he "served in the Pentagon connected to" SAF/AQ.
+- The fiscal years are uncertain. Gerb gives them with an "I think".
+- "Non-blue" is a standard budget term. Greer's note reads "non-blue TOA". The Air Force uses "non-blue" for money it carries in its budget for other agencies, mainly intelligence, and doesn't manage. One 2016 trade-press piece, seen only as a search snippet, put the non-blue share of the FY2017 request at $34.2 billion. If Ed's sums are that line, the money left the Air Force through the budget process, not through SAF/AQ. Nothing here tests Ed's account, which remains his own.
+- Gerb's dates for LaPlante are off. He gives LaPlante's tenure as 2014 to 2017, with both jobs held at once from 2015. The public record ends the Air Force post in November 2015.
 
 ## The evidence
 
@@ -34,7 +34,7 @@ That is the whole claim. It does not show that LaPlante knew of, approved or too
 
 ## Already known?
 
-No source turned up that sets LaPlante next to Ed or to Greer's witness 11063. Search results from the Air Force and the trade press agree on LaPlante's dates: he started as principal deputy on 6 May 2013, when the post had been vacant since March 2012, was confirmed on 12 February 2014, and on 18 November 2015 the Air Force announced he was leaving for MITRE.
+No source turned up that sets LaPlante next to Ed or to Greer's witness 11063. Search results from the Air Force and the trade press agree on LaPlante's dates: he started as principal deputy on 6 May 2013, after the post had been vacant since March 2012, and was confirmed on 12 February 2014. On 18 November 2015 the Air Force announced he was leaving for MITRE.
 
 ## What would settle it
 
