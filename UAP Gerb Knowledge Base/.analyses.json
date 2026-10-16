@@ -171,6 +171,50 @@
       "handed_out": "2026-10-16T04:49:41Z",
       "ingested": "2026-10-16T04:56:41Z",
       "leads": 1
+    },
+    "S010-accounts": {
+      "lens": "accounts",
+      "items": [
+        "Project Blue Book"
+      ],
+      "handed_out": "2026-10-16T05:40:22Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S011-timeline": {
+      "lens": "timeline",
+      "items": [
+        "1960s"
+      ],
+      "handed_out": "2026-10-16T05:40:22Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S012-patterns": {
+      "lens": "patterns",
+      "items": [
+        "Project Sign",
+        "Project Stork",
+        "UAP Campaign Plan - Way Forward",
+        "UFO Crash Retrieval Operations (JSOC)",
+        "Yellow Fruit",
+        "1561 Celestial Phenomenon over Nuremberg",
+        "1933 Magenta UFO CrashRetrieval",
+        "1950 El Indio UFO Crash",
+        "1952 UFOs Over Washington DC",
+        "1953 Camp Polk UFO Crash Retrieval",
+        "1953 Garrison, Utah Crash Retrieval",
+        "1953 Kingman, Arizona Crash Retrieval",
+        "1955 Langtry UFO Crash",
+        "1958 Trindade Island UFO Photographs",
+        "1961 Karachi Pakistan UFO Sighting",
+        "1965 Kecksburg, Pennsylvania Crash Retrieval",
+        "1968 Nepal Circular Disc Crash",
+        "1968 Vietnam UAP Crash Retrieval"
+      ],
+      "handed_out": "2026-10-16T05:40:22Z",
+      "ingested": null,
+      "leads": 0
     }
   },
   "leads": [
