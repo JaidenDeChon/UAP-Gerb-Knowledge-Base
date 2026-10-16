@@ -14,13 +14,13 @@ In his video on the [[1974 Coyame, Mexico UFO Crash Retrieval|1974 Coyame crash]
 
 ## The finding
 
-The 1978 warning does not single out Coyame. Stringfield already had a Mexican crash with an American recovery team in hand, and he was about to present it. A warning about "crash information in Mexico" fits that case at least as well as a 1974 crash that, on Gerb's own timeline, people only started talking about in the early 1980s. The warning is therefore weak evidence for Coyame, not independent evidence.
+The 1978 warning does not single out Coyame. Stringfield already had a Mexican crash with an American recovery team in hand, and he was about to present it. A warning about "crash information in Mexico" fits that case at least as well as a 1974 crash that, on Gerb's own timeline, people only started talking about in the early 1980s. That makes the warning weak evidence for Coyame, and it can't count as independent support for it.
 
-This doesn't show that Coyame didn't happen, and it doesn't question Stringfield's memory of hearing about a US team crossing into Mexico. It only removes one support Gerb puts under the case.
+None of this shows that Coyame didn't happen, or casts doubt on Stringfield's memory of hearing about a US team crossing into Mexico. It removes only one of the supports Gerb gives the case.
 
 ## The evidence
 
-1. In [[Videos/The 1974 Coyame, Mexico UFO Crash/summary|the Coyame video]], Gerb reads Stringfield's 1994 recollection: "I heard of the Chihuahua case before either in the late 1970s or early 1980s the only detail I vaguely recall is that the US military team had covertly crossed into Mexico to retrieve the object end quote". He names no year and no place for the crash.
+1. In [[Videos/The 1974 Coyame, Mexico UFO Crash/summary|the Coyame video]], Gerb reads Stringfield's 1994 recollection: "I heard of the Chihuahua case before either in the late 1970s or early 1980s the only detail I vaguely recall is that the US military team had covertly crossed into Mexico to retrieve the object end quote". Stringfield names no year and no place for the crash.
 2. In the same video, Gerb adds the warning: "what is crucial to remember here is Stringfield had heard rumors of this case around a decade prior and let's note in stringfield's own words when presenting his initial retrievals of the Third Kind at muon in 1978 he was quote unquote informed circuitously by the CIA several days in advance it would be inadvisable for him to discuss crash information in Mexico or West Germany".
 3. Earlier in that video, Gerb dates the first Coyame stories: "in the early 1980s Whispers of a 1974 collision between a small private plane in disc-shaped UFO occurring near coyame Chihuahua Mexico began circulating".
 4. Kevin Randle quotes Stringfield's 1978 paper as describing a crash that "occurred about 30 miles inside the Mexican border across from Laredo, Texas, and was recovered by U.S. troops after it was tracked on radar screens". According to Randle, Stringfield got this from Zechel in 1977, and Zechel's source was a technician whose uncle, a provost marshal at Carswell, had helped seal off the site in 1948. Noe Torres's NOUFORS site gives the same Laredo account and credits it to Stringfield's 1978 report.
@@ -46,7 +46,7 @@ No source found sets the 1978 CIA warning against the Laredo case in Stringfield
 
 ## What would settle it
 
-The text of Status Report VII where Stringfield brings up the warning, and the full 1978 MUFON Symposium proceedings. If Status Report VII ties the warning only to Chihuahua, or if the Laredo case turns out to have been cut from the talk, the finding weakens. If the proceedings also carry a West German case, the warning reads as a response to the paper itself.
+Two documents would settle it: the passage in Status Report VII where Stringfield brings up the warning, and the full proceedings of the 1978 MUFON Symposium. If Status Report VII ties the warning only to Chihuahua, or if the Laredo case turns out to have been cut from the talk, the finding weakens. If the proceedings also carry a West German case, the warning reads as a response to the paper itself.
 
 ## Sources
 
