@@ -731,7 +731,7 @@
       "id": "L0011",
       "slice": "S003-timeline",
       "found_at": "2026-10-16T03:34:34Z",
-      "status": "open",
+      "status": "written",
       "duplicate_of": null,
       "problems": [],
       "kind": "hidden-link",
@@ -797,7 +797,9 @@
       "not_said_check": "Searched all transcripts for contaminat*, death/deaths/died near 1947, and Kissner's caption spellings (Kissner/Kisner/Kistner/Knisser/Kner/Kissinger). The IPU deaths come up in the Sandia, Coyame and MJ-12 videos; Kissner's servicemen deaths appear only in the Sandia video, about 40 lines earlier, and Gerb compares the IPU deaths only with Coyame, never with Kissner.",
       "weakest_link": "'Contributed to the deaths' in Kissner may mean deaths during offensive downings rather than contamination, and 'technicians from Sandia' could be civilians. Kissner's private 1994 statement may also have circulated before 2004, which would reopen the copying explanation.",
       "surprise": 3,
-      "support": 3
+      "support": 3,
+      "resolved_at": "2026-10-16T04:17:20Z",
+      "analysis": "Analyses/Kissner and the IPU report both claim deaths in the 1947 recoveries.md"
     },
     {
       "id": "L0012",
