@@ -16,9 +16,9 @@ In his Sandia video Gerb offers a working theory for why the CIA blocked [[Lockh
 
 From 1993 to April 2017 Sandia was run, under contract to the Department of Energy, by Sandia Corporation, a wholly owned subsidiary of Martin Marietta and, after the 1995 merger, of Lockheed Martin. Gerb's dates for the attempted transfers (2008 to 2011) and AARO's dates for Kona Blue itself (set up in 2011, ordered shut down about six months later) both fall inside that period.
 
-Gerb's theory rests on a clean split: corporations on one side, government-owned FFRDCs on the other. In Lockheed's case that split doesn't hold. Lockheed was a corporation holding material, and it was also the operator of an FFRDC that, on Gerb's account, should have been holding that material.
+Gerb's theory rests on a clean split: corporations on one side, government-owned FFRDCs on the other. In Lockheed's case that split doesn't hold. Lockheed was a corporation holding material, and it also operated an FFRDC that, on Gerb's account, should have been holding that material.
 
-This post claims no more than that. It does not claim the Kona Blue material came from Sandia or passed through it.
+That is the whole claim. This post does not say the Kona Blue material came from Sandia or passed through it.
 
 ## The evidence
 
@@ -36,14 +36,14 @@ All along, though, he says the labs are contractor-operated and that Lockheed op
 
 ## What cuts against it
 
-- **Two separate parts of Lockheed.** The cleared document Gerb cites calls [[James T. Ryder]] a vice president of [[Lockheed Martin Space Systems]], not of Sandia Corporation. Under the contract, what Sandia held belonged to DOE, not to Lockheed. The company didn't own Sandia's holdings, so it couldn't have given them away.
-- **The material predates the Sandia contract.** In a clip in the Lockheed video, an [[AAWSAP]] insider says the company had held "their collection of crash retrieval materials that they've had since before it got shut down in '89". That is four years before Martin Marietta took over Sandia. In the MITRE video, a speaker in a clip, not named in the captions, describes being on site at "that facility that they were going to transfer from Loheed Martin to Bigalow Airspace" at [[Naval Air Station Patuxent River|Pax River]], a Navy site, not a DOE one.
-- **Gerb calls it unfinished.** He describes the custody theory as "still a working theory in its infancy". It also doesn't depend on Lockheed being an outsider to FFRDCs. The CIA could have objected to material held outside DOE custody whoever ran Sandia.
-- **The official record gives a different reason.** [[AARO]] says the DHS deputy secretary turned Kona Blue down because the justification and supporting information were too thin. It mentions no CIA veto and no question of custody.
+- The cleared document Gerb cites calls [[James T. Ryder]] a vice president of [[Lockheed Martin Space Systems]], not of Sandia Corporation, so he and Sandia sat in separate parts of Lockheed. Under the contract, what Sandia held belonged to DOE, not to Lockheed. The company didn't own Sandia's holdings, so it couldn't have given them away.
+- In a clip in the Lockheed video, an [[AAWSAP]] insider says the company had held "their collection of crash retrieval materials that they've had since before it got shut down in '89". That is four years before Martin Marietta took over Sandia, so on this account the material predates the Sandia contract. In the MITRE video, a speaker in a clip whom the captions don't name describes being on site at "that facility that they were going to transfer from Loheed Martin to Bigalow Airspace" at [[Naval Air Station Patuxent River|Pax River]], a Navy site, not a DOE one.
+- Gerb himself calls the custody theory "still a working theory in its infancy". The theory also doesn't depend on Lockheed being an outsider to FFRDCs. The CIA could have objected to material held outside DOE custody whoever ran Sandia.
+- The official record gives a different reason. [[AARO]] says the DHS deputy secretary turned Kona Blue down because the justification and supporting information were too thin, and it mentions no CIA veto and no question of custody.
 
 ## Already known?
 
-Nothing turned up. Sandia's own history and DOE's contract records make the management dates easy to find, but no article, forum thread or podcast description found in searches sets Lockheed's Sandia contract beside the Kona Blue transfer or the custody argument. The Lockheed–Kona Blue link itself rests on Christopher Sharp's reporting and the documents entered into the record at the November 2024 hearing. The search-result summaries of AARO's report don't mention Lockheed at all.
+Nothing turned up. Sandia's own history and DOE's contract records make the management dates easy to find, but no article, forum thread or podcast description found in searches sets Lockheed's Sandia contract beside the Kona Blue transfer or the custody argument. The link between Lockheed and Kona Blue itself rests on Christopher Sharp's reporting and the documents entered into the record at the November 2024 hearing. The search-result summaries of AARO's report don't mention Lockheed at all.
 
 ## What would settle it
 
