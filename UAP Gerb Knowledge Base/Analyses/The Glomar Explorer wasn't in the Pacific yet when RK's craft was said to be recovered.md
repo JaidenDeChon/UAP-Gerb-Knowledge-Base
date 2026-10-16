@@ -10,13 +10,13 @@ videos: ["US Navy UFO Crash Retrieval & Reverse Engineering Programs", "1997 Per
 tags: [analysis]
 ---
 
-Gerb introduces case A7 in [[Leonard Stringfield]]'s third Status Report as "Our most fruitful case in Stringfield status reports". A witness known as RK says he saw a teardrop-shaped craft in a Quonset hut at Great Lakes Naval Base in September 1973. A sailor had told him it was shot down between Hawaii and the mainland in June 1973 and recovered by the Hughes Glomar Explorer. The ship is what makes the case matter to Gerb: it turns the story into a [[National Underwater Reconnaissance Office]] (NURO) operation, and it leads him to ask whether [[Bobby Ray Inman]] was involved. The ship's record for 1973 doesn't allow it. In June 1973 the Glomar Explorer was still in the Atlantic after sea trials off the East Coast. It came round Cape Horn in September and reached Long Beach on 30 September, after RK says he saw the craft in Illinois.
+Gerb introduces case A7 in [[Leonard Stringfield]]'s third Status Report as "Our most fruitful case in Stringfield status reports". A witness known as RK says he saw a teardrop-shaped craft in a Quonset hut at Great Lakes Naval Base in September 1973. A sailor had told him it was shot down between Hawaii and the mainland in June 1973 and recovered by the Hughes Glomar Explorer. The ship is what makes the case matter to Gerb: it turns the story into a [[National Underwater Reconnaissance Office]] (NURO) operation, and it leads him to ask whether [[Bobby Ray Inman]] was involved. The ship's record for 1973 rules out that recovery. In June 1973 the Glomar Explorer was still in the Atlantic after sea trials off the East Coast. It came round Cape Horn in September and reached Long Beach on 30 September, after RK says he saw the craft in Illinois.
 
 ## The finding
 
-As Gerb relays it, the account dates the shoot-down to June 1973 and has the Glomar Explorer recovering the craft, which then went to Hawaii, the mainland and Chicago by September. The ship's documented movements rule out a Glomar recovery in Pacific waters at any point in that window. So either a different vessel did the recovery or the dates are wrong. In both cases the case loses the detail that ties it to NURO and to Inman.
+As Gerb relays it, the account dates the shoot-down to June 1973 and has the Glomar Explorer recovering the craft, which then went to Hawaii, the mainland and Chicago by September. The ship's documented movements rule out a Glomar recovery in Pacific waters at any point in that window. So either a different vessel did the recovery or the dates are wrong. Either way, the account loses the detail that ties it to NURO and to Inman.
 
-This is a finding about how the account fits together. It doesn't show that RK saw nothing, or that no craft was shot down. It shows that the ship named in the story can't have done what the story says, when the story says it.
+The finding concerns how the account fits together: the ship named in the story can't have done what the story says at the time the story gives. It leaves open whether RK saw a craft and whether one was shot down.
 
 ## The evidence
 
@@ -28,13 +28,13 @@ This is a finding about how the account fits together. It doesn't show that RK s
 
 ## How it fits together
 
-The ship was launched at Sun Shipbuilding in Chester, Pennsylvania, in November 1972. That is a hull leaving the slipway, not a working ship. The US Naval Institute's history of Project Azorian says sea trials began in April 1973, "culminating in an around-the-Horn transit to Long Beach", where it docked at Pier E on 30 September 1973. It was too wide for the Panama Canal. The CIA's own declassified history independently puts the ship at Valparaíso, Chile, on 12 September 1973, the day after the coup there, still on its way north. A ship coming up the Pacific coast of South America in mid-September was not lifting a craft off Hawaii in June.
+The ship was launched at Sun Shipbuilding in Chester, Pennsylvania, in November 1972. Launching only put the hull in the water, and the ship was not yet in service. The US Naval Institute's history of Project Azorian says sea trials began in April 1973, "culminating in an around-the-Horn transit to Long Beach", where it docked at Pier E on 30 September 1973. It was too wide for the Panama Canal. The CIA's own declassified history independently puts the ship at Valparaíso, Chile, on 12 September 1973, the day after the coup there, still on its way north. A ship coming up the Pacific coast of South America in mid-September was not lifting a craft off Hawaii in June.
 
 That leaves three readings:
 
-- **The ship is wrong.** Something else lifted the craft. A wreck in about 350 feet of water, the depth the sailor gives, is within reach of ordinary Navy salvage ships. On this reading the story stands, but the NURO and Inman links go.
-- **The year is wrong.** In 1974 the Glomar was in the Pacific, but the dates are tight. It left Long Beach on 20 June 1974, reached the K-129 site on 4 July, and spent July and August on that lift. RK's posting at Great Lakes, as Gerb gives it, ended in September 1974. A second recovery fitted around the best-documented weeks of the ship's life is hard to square with that record.
-- **The detail was added later.** RK told Stringfield his story on 14 July 1980. By then the Glomar Explorer had been world news for five years: the Los Angeles Times linked it to the CIA on 7 February 1975, and Jack Anderson and the New York Times followed in March. Gerb suggests the Glomar "wasn't very wellnown, if at all, at this time". That holds for NURO, but not for the ship. A sailor in 1973, or RK in 1980, could have reached for the best-known secret salvage ship of the decade.
+- The ship is wrong, and something else lifted the craft. A wreck in about 350 feet of water, the depth the sailor gives, is within reach of ordinary Navy salvage ships. On this reading the story stands, but the NURO and Inman links go.
+- The year is wrong. In 1974 the Glomar was in the Pacific, but the dates are tight. It left Long Beach on 20 June 1974, reached the K-129 site on 4 July, and spent July and August on that lift. RK's posting at Great Lakes, as Gerb gives it, ended in September 1974. A second recovery fitted around the best-documented weeks of the ship's life is hard to square with that record.
+- The ship's name was added to the story later. RK told Stringfield his story on 14 July 1980. By then the Glomar Explorer had been world news for five years: the Los Angeles Times linked it to the CIA on 7 February 1975, and Jack Anderson and the New York Times followed in March. Gerb suggests the Glomar "wasn't very wellnown, if at all, at this time". That holds for NURO, but not for the ship. A sailor in 1973, or RK in 1980, could have reached for the best-known secret salvage ship of the decade.
 
 ## What cuts against it
 
@@ -46,11 +46,11 @@ That leaves three readings:
 
 ## Already known?
 
-The web check found no researcher who sets the Great Lakes account against the Glomar Explorer's 1973 movements. Searches for Stringfield's case with the ship's name turned up nothing beyond the case itself. The ship's dates are standard Project Azorian history: the Naval Institute article, the CIA's declassified history (released through the National Security Archive in 2010) and the CIA's own account of the 1975 press exposure.
+A web search found no researcher who sets the Great Lakes account against the Glomar Explorer's 1973 movements. Searches for Stringfield's case with the ship's name turned up nothing beyond the case itself. The ship's dates are standard Project Azorian history: the Naval Institute article, the CIA's declassified history (released through the National Security Archive in 2010) and the CIA's own account of the 1975 press exposure.
 
 ## What would settle it
 
-The text of case A7 in Status Report III (1982), to confirm that Stringfield names the Glomar Explorer and dates the shoot-down to June 1973. RK's identity, which Gerb says he knows and is vetting, along with his service record, would show whether his Great Lakes dates are right. A deck log or salvage record for any Navy recovery off Hawaii in mid-1973 would show what, if anything, did the lifting.
+The text of case A7 in Status Report III (1982) would show whether Stringfield names the Glomar Explorer and dates the shoot-down to June 1973. RK's identity, which Gerb says he knows and is vetting, along with his service record, would show whether his Great Lakes dates are right. A deck log or salvage record for any Navy recovery off Hawaii in mid-1973 would show what, if anything, did the lifting.
 
 ## Sources
 
