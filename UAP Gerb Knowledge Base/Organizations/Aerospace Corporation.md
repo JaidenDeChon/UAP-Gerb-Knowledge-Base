@@ -7,6 +7,9 @@ tags:
 
 The Aerospace Corporation is a nonprofit federally funded research and development center (FFRDC) headquartered in Chantilly, Virginia. It was based in El Segundo, California, until March 2024, when it moved its corporate headquarters to the Washington, D.C. area; El Segundo remains its main technical campus. It provides independent technical and scientific research to the U.S. government, mainly the Air Force and Space Force. It was spun off from [[TRW]]'s Space Technology Laboratories (STL) in 1960 under a directive to create an independent advisory body free from direct contractor profit motives. As an FFRDC, the Aerospace Corporation has access to classified programs and government facilities that private contractors do not, and it advises on [[Special Access Programs (SAPs)]] across the national security space enterprise. [[Edward C. Aldridge]] was CEO of the Aerospace Corporation after his tenure as Secretary of the Air Force, so the same man held authority over Air Force special access programs and then led the FFRDC that advises on such programs.
 
+> [!edit] Corrected 16 October 2026
+> Earlier versions gave the headquarters as El Segundo, California. The corporation moved its headquarters to Chantilly, Virginia in March 2024.
+
 ## Alleged UAP Involvement
 
 The Aerospace Corporation allegedly has institutional connections to UAP legacy program activities through its TRW lineage and through the career of [[Edward C. Aldridge]]. During his Air Force tenure, Aldridge allegedly architected the restructuring of UFO legacy programs as "outside activities", and he later moved to lead the Aerospace Corporation. The organization's unique position, which combines classified access, independence as an FFRDC and a deep institutional heritage from TRW, is cited as a reason it could serve as an advisory or technical node within the alleged UAP legacy program network.

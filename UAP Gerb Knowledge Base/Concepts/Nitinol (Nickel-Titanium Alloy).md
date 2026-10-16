@@ -14,6 +14,9 @@ Intelligence officer [[Jesse Marcel]] inspected the Roswell crash debris field w
 
 In 1949, twelve years before nitinol's official discovery, Wright-Patterson Air Force Base contracted [[Battelle Memorial Institute]] for titanium-alloy research. The progress reports are titled "Research and Development on Titanium Alloys", and Gerb describes the work as analysis of shape-memory alloys focused mostly on nitinol. The contract is AF 33(038)-3736 in archive catalogs (Gerb reads it as 33-38-3736), and Gerb gives the reports' period as September 1 through October 21, 1949. According to Gerb, it carried the [[Atomic Energy Commission]]'s "restricted" label rather than a classification, a private-sector classification tier that even holders of Special Access Program clearance could not access. The 1949 Battelle research was not declassified until 2010.
 
+> [!edit] Attribution clarified 16 October 2026
+> Earlier versions stated as fact that Battelle analysed shape-memory titanium alloys under contract 33-38-3736 and that the work was classified. The reports are catalogued as "Research and Development on Titanium Alloys", contract AF 33(038)-3736. That they deal with nitinol is Gerb's reading, and Gerb says the work was labelled "restricted", not classified.
+
 [[EJ Center]], a senior chemical engineer at Battelle, co-authored the nitinol analysis subsection of the 1949 reports. He later disclosed privately that he had studied "Parts retrieved from a flying saucer" during his time at Battelle. He made this disclosure around 1957–1958. The [[MUFON|Mutual UFO Network]] documented it in 1992, and Dr. [[Irena Scott]] published it in 1994, more than fifteen years before the underlying contract documents were declassified.
 
 ## Significance to UAP Material Research

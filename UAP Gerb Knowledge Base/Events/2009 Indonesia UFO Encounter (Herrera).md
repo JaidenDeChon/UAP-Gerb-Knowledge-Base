@@ -8,11 +8,20 @@ tags:
 
 The 2009 Indonesia UFO Encounter is an incident in which [[United States Marine Corps|USMC]] Rifleman [[Michael Herrera]] and five other Marines saw unmarked US forces loading a large octagonal, pyramid-shaped craft. It happened in October 2009, during a humanitarian relief mission in Indonesia after the 30 September 2009 earthquake off Padang, West Sumatra, which Gerb's videos call "the Sumatra earthquake and tsunami". Armed operators in black fatigues held the Marines at gunpoint and threatened to kill them if they disclosed what they had seen. Herrera stayed silent for 14 years, then testified to [[AARO]] in April 2023 and spoke at the [[National Press Club]] in June 2023.
 
+> [!edit] Corrected 16 October 2026
+> Earlier versions dated the earthquake to October 2009. It struck off Padang on 30 September 2009; the encounter itself was in October. "Tsunami" is kept only as Gerb's wording.
+
 ## Mission Context
 
 In October 2009, Herrera, then 20 years old, was deployed aboard the [[USS Denver]] for a humanitarian relief operation after a major earthquake in Indonesia. The Denver reached Padang on 9 October, which Herrera points out was nine or ten days after the earthquake. He was on officer's chow detail when a female USMC major briefed him and other Marines for a security mission. The briefing included photographs of [[Barack Obama]] as a child and references to his time in Indonesia.
 
+> [!edit] Clarified 16 October 2026
+> Added the USS Denver's arrival at Padang on 9 October 2009, from US Navy and Stars and Stripes reporting.
+
 The team was issued M16 rifles, although Herrera normally carried a SAW. A CH-53 Super Stallion helicopter flew them first to Tabing Airfield near Padang ("Tobing airport" in the interview transcript) and then to a hasty landing zone in thick vegetation. The mission was described as guarding supply deliveries to remote villages in a region described as the "second-largest terrorist capital in the world." Yet the landing zone (LZ) where Herrera's team was dropped had no other personnel, no radio communications and no clear extraction timeline, which was very unusual for a routine security detail.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions named the airfield "Tobing Airport", as the transcript spells it. It is Tabing Airfield, near Padang.
 
 ## The Craft
 

@@ -304,6 +304,9 @@ Grusch has been in contact with other UAP whistleblowers, including [[Michael He
 
 According to Gerb, Grusch has said he tried to approach [[AARO]] and its director [[Sean Kirkpatrick]] but received no response. After Kirkpatrick said at an October 2023 press roundtable that AARO had invited Grusch at least four or five times, Grusch told NewsNation he had "zero emails or calls from them". AARO records released to The Black Vault through FOIA in April 2024 say Kirkpatrick arranged an interview that Grusch did not attend and that a renewed invitation was declined. Gerb sets Grusch's account against [[Sean Kirkpatrick]]'s claim, in his *Scientific American* op-ed, that no whistleblowers chose to contact AARO. Unlike Kirkpatrick, Grusch has testified before Congress under oath.
 
+> [!edit] Attribution clarified 16 October 2026
+> Earlier versions stated as fact that Grusch got no reply from AARO, sourced only to Gerb's 2024 video. The claim is now attributed, with Grusch's "zero emails or calls" statement and the AARO records, released through FOIA, that say he missed a scheduled interview and declined a renewed invitation.
+
 ::wiki-claim{video="hK24ZdkvwN4" video-title="The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies"}
 ---
 caption: "Kirkpatrick's claim about whistleblowers, and Grusch's answer, as Gerb sets them side by side."

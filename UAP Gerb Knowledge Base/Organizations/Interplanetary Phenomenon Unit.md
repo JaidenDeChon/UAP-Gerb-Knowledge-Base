@@ -35,7 +35,13 @@ This interpretation does not account for the specific wording of the Army FOIA r
 
 Two documents allegedly from the IPU appear in the Majestic Documents collection. One is an IPU Field Order dated July 4, 1947, directing a commanding officer to take a counterintelligence team to a UFO crash site and "report to the G2 at Condron Field, New Mexico", which Gerb glosses as "of course Roswell". Condron Field was in fact the airfield of the White Sands Proving Ground (today's [[White Sands Missile Range]]), in southern New Mexico. The other is an IPU Report dated July 22, 1947, which details the recovery of multiple craft and names scientists including Dr. J. Robert Oppenheimer and Dr. Detlev Bronk, both of whom are also connected to the Aztec case.
 
+> [!edit] Attribution clarified 16 October 2026
+> Earlier versions said the field order sent the team to Roswell. The order says "Condron Field, New Mexico", the White Sands Proving Ground airfield; Roswell is Gerb's reading.
+
 Thomas Cantwell gave these documents to researcher Timothy Cooper: according to Gerb, the field order arrived by UPS between 1993 and 1996, and Cantwell handed Cooper the IPU report in person in July 1995. They predate [[William Steinman]]'s published theories but mirror many of his conclusions.
+
+> [!edit] Clarified 16 October 2026
+> Added Gerb's account of how each document reached Cooper: the field order by UPS between 1993 and 1996, the report in person in July 1995.
 
 ## Special Engineer Detachment (SED) Personnel
 

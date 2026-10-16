@@ -7,9 +7,15 @@ tags:
 
 Elroy John Center (referred to in documents as "EJ Center") was a senior research chemical engineer at [[Battelle Memorial Institute]] in Columbus, Ohio, where he worked from 1939 to 1957. He matters to UAP research for two linked reasons. He took a documented part in Battelle's restricted 1949 titanium-alloy research, which Gerb argues was an analysis of [[Nitinol (Nickel-Titanium Alloy)]], a shape-memory alloy not officially discovered until 1961. After leaving Battelle in 1957, he also said privately that he had been responsible for studying "Parts retrieved from a flying saucer."
 
+> [!edit] Attribution clarified 16 October 2026
+> Earlier versions called the 1949 work "classified" nitinol analysis. Gerb says it was "restricted", not classified, and that it concerned nitinol is his argument.
+
 ## Nitinol Research at Battelle (1949)
 
 Center co-authored the subsection "Analytical Methods for Titanium Based Alloys" in Battelle's 1949 progress reports, titled "Research and Development on Titanium Alloys". Gerb describes the reports as work on shape-memory alloys that focuses mostly on nitinol. The research was done under contract with [[Wright-Patterson Air Force Base]] (contract AF 33(038)-3736 in archive catalogs, which Gerb reads as 33-38-3736), and Gerb gives the reports' period as September 1 through October 21, 1949. According to Gerb, the work fell under the [[Atomic Energy Commission]] and carried a "restricted" label rather than a classification, a private-sector classification standard that even cleared Special Access Program holders could not access, and it was not declassified until 2010.
+
+> [!edit] Attribution clarified 16 October 2026
+> Earlier versions gave the contract as 33-38-3736 and stated the nitinol focus and the "restricted" label as fact. The catalogue title and contract number, AF 33(038)-3736, are now given, with Gerb's reading beside them.
 
 Nitinol, formally a nickel-titanium alloy, has two properties of particular interest. It is superelastic, meaning it cannot be permanently deformed under high mechanical stress, and it has shape memory, meaning it returns to its original form when heated after deformation. These properties match the anomalous debris described by intelligence officer [[Jesse Marcel]] after he inspected the [[Roswell Crash|1947 Roswell crash]] debris field with rancher [[Mac Brazel]]. Marcel described material that was exceedingly light and would retain its shape after deformation. The Roswell debris was later shipped to Wright-Patterson Air Force Base, the same installation that contracted Battelle in 1949.
 

@@ -7,6 +7,9 @@ tags:
 
 Kona Blue was a proposed waived Unacknowledged Special Access Program (USAP) that would have acted as a Department of Homeland Security Science and Technology "catcher's mitt" for recovered non-human craft materials held by [[Lockheed Martin]] since the 1950s. Senator [[Harry Reid]] championed the program as part of the [[AAWSAP]] initiative to bring alleged UAP crash retrieval materials into a government-controlled research framework with Congressional oversight. Kona Blue is documented evidence of an attempt to formally transfer UAP materials from a defense contractor to a government-controlled program. Gerb describes Lockheed's efforts, between 2008 and 2011, to divest the materials to Bigelow Aerospace Advanced Space Studies under the DIA-sponsored AAWSAP program, and says CIA and DNI officials stonewalled them. Kona Blue itself was the second of those attempts, a prospective DHS Science and Technology program that AARO dates from July 2011 to its termination in February 2012.
 
+> [!edit] Corrected 16 October 2026
+> Earlier versions called Kona Blue a DIA-administered program stonewalled between 2008 and 2011, which contradicted the body of the page. The lead now separates the earlier AAWSAP/BASS attempts, as Gerb describes them, from Kona Blue itself, a DHS S&T proposal that AARO dates from July 2011 to February 2012.
+
 ## Program Structure and Intent
 
 Kona Blue was designed as a PAP (prospective special access program). It would have set up a secure Special Access Program structure to:
@@ -24,6 +27,9 @@ The program's name "Kona Blue" appears to follow the standard DoD/IC cryptonym c
 
 **First Attempt (~2008-2009):**
 Speaking from memory, Gerb says that according to the reporting of [[Christopher Sharp]] and AARO's Historical Record Report, Vol. 1, there seems to have been an initial attempt around 2008/09 to divest the materials from Lockheed to an AAWSAP-like entity, possibly a DIA program. That would put it shortly after AAWSAP's contract was awarded to BASS in September 2008. Gerb believes, "if I'm trying to remember correctly", that [[James Clapper]] was involved in shutting it down.
+
+> [!edit] Attribution clarified 16 October 2026
+> Earlier versions sourced this attempt to Eric Davis and said Clapper "or other senior DoD/IC officials" blocked it. Gerb's sources are Christopher Sharp's reporting and AARO's report, and he gives Clapper's role from memory, so both are now attributed to him.
 
 **Second Attempt (2011):**
 A more formal attempt followed in 2011, using the Kona Blue PAP structure. Documents that Representative Tim Burchett entered into the record of the November 2024 House Oversight UAP hearing give these details:
@@ -56,11 +62,17 @@ Several senior intelligence officials worked together to kill the 2011 Kona Blue
 
 In the Lockheed video, Gerb summarizes the official explanation as DHS and the other agencies involved shutting down the proposal "due to skepticism regarding the authenticity of the purported materials". AARO's Historical Record Report, Vol. 1 (March 2024) gives a different reason: the Deputy Secretary of Homeland Security disapproved Kona Blue as a SAP and ordered its immediate termination over concerns about the adequacy of the program's justification and the sufficiency of the information behind the proposal, including personnel and budget requirements. AARO also found that no data or material of any kind was ever transferred to DHS under Kona Blue. Gerb argues the official explanation contradicts testimony and documents suggesting that high-level stakeholders blocked the transfer to keep control of siloed programs, not because they doubted the materials were authentic.
 
+> [!edit] Corrected 16 October 2026
+> Earlier versions quoted "skepticism regarding the authenticity" as AARO's stated reason. That wording is Gerb's summary. AARO's Historical Record Report, Vol. 1 cites the program's justification and the information behind the proposal, and is now paraphrased beside it.
+
 ## AARO Declassification and Tim Phillips Statements
 
 On July 30, 2025, former AARO Deputy Director Tim Phillips made controversial public statements about Kona Blue. He claimed it was established "as the home for all this paranormal UFO crap" and alleged that multiple whistleblowers had cited Kona Blue to justify their claims to Congress. Phillips gave no examples or evidence for these assertions.
 
 [[AARO]] released a declassified Kona Blue slide deck that confirmed the program's structure and DHS involvement but framed it as a proposal that DHS leadership never approved. UAP researchers dispute that account; they see the declassified materials as confirming the program's legitimacy rather than its supposed paranormal focus.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said AARO framed the proposal as rejected over doubts about the materials' authenticity. AARO says DHS leadership disapproved it for the reasons above.
 
 ## Significance for UAP Disclosure
 
