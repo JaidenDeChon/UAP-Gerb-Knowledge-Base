@@ -222,13 +222,6 @@ export const ANALYSIS_CONFIDENCES: AnalysisConfidence[] = ['strong', 'moderate',
 export const ANALYSIS_NOVELTIES: AnalysisNovelty[] = ['new', 'known-elsewhere', 'partly-known']
 
 /**
- * The `kind:` of the one running log of footnotes and corrections
- * (`Analyses/Footnotes and Corrections.md`). It lives beside the analyses but
- * isn't one, so every list of analyses skips it.
- */
-export const FOOTNOTES_KIND = 'footnotes'
-
-/**
  * One `Analyses/<Headline>.md` note, as `wiki/analyses.ts` bakes it. Title
  * comes from the matching `BakedPreview`, path from the `GraphNode`, both
  * indexed by `i`. A frontmatter value outside its enum bakes as null.
@@ -247,14 +240,6 @@ export interface BakedAnalysis {
   videos: number
 }
 
-/** The footnotes log (`kind: footnotes`), as `wiki/analyses.ts` bakes it. */
-export interface BakedFootnotes {
-  /** Index into `GraphPayload.nodes` / `WikiData.previews`. */
-  i: number
-  /** How many corrections it logs: one per `## ` heading. */
-  entries: number
-}
-
 export interface WikiData {
   tree: TreeItem[]
   graph: GraphPayload
@@ -264,8 +249,6 @@ export interface WikiData {
   videos: BakedVideo[]
   /** Every analysis, newest `date` first. See `wiki/analyses.ts`. */
   analyses: BakedAnalysis[]
-  /** The footnotes log, or null while the vault has none. */
-  footnotes: BakedFootnotes | null
   /** `[lat, lon]` for each note with `coordinates:` frontmatter, keyed by `GraphNode.i`. */
   geo: BakedGeo
   /** Portrait for each People note in `wiki/people-images.json`, keyed by `GraphNode.i`. */
@@ -396,11 +379,4 @@ export interface AnalysisCard {
   videoCount: number
   /** Distinct entries it links to, videos, maps of content and other analyses aside. */
   entityCount: number
-}
-
-/** The footnotes log, for the link on `/analyses` (`/api/footnotes`). */
-export interface FootnotesLog {
-  path: string
-  title: string
-  entries: number
 }

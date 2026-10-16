@@ -1921,22 +1921,19 @@ dropped rather than shown.
   meter (one bar for speculative, three for strong); the labels live in
   `utils/analysis.ts`.
 
-### Footnotes and corrections
+### Footnotes
 
 Footnotes are small corrections for places where Gerb probably slipped: a
 gloss, a swapped acronym, a wrong year, a paraphrase that drifts from the clip
 he plays. They are not analyses. Each one is a GFM footnote whose label starts
 `gerb-` and is unique across the vault (`[^gerb-condron]`), and it appears in
-three places:
+two places:
 
 1. On the relevant sentence of the video's `summary.md`:
    `… the Condron Committee[^gerb-condron] …`, with
    `[^gerb-condron]: Gerb says "Condron"; the committee is [[Edward Condon]]'s.`
    at the foot of the note.
 2. As the same footnote on the most relevant entity page.
-3. As one `## ` entry on the running log,
-   `Analyses/Footnotes and Corrections.md`, whose frontmatter is
-   `title: "Footnotes and Corrections"` and `kind: footnotes`.
 
 Keep footnotes out of a note's opening paragraph: that paragraph becomes the
 page's lead, which is plain text, so its marker would be lost.
@@ -1953,16 +1950,6 @@ kept, no preview, no external-link icon). The wiki page styles the marker
 and the section as small print (scoped CSS in `pages/wiki/[...slug].vue`),
 and `cleanTocLabels` (`wiki/toc.ts`) keeps the `footnote-label` heading out
 of the TOC rail.
-
-The log is not an analysis. `buildAnalyses` skips any note with
-`kind: footnotes`, so it never gets a card on `/analyses` or the home page
-or counts toward "N analyses". `buildFootnotes` bakes it separately,
-counting its entries as its `## ` headings outside fenced code
-(`countFootnoteEntries`), and `/api/footnotes` serves its path, title and
-count (or nothing while the vault has no log). `/analyses` shows a
-"Footnotes and corrections · N entries" link under the intro. On the log
-page itself there is no header strip; the log's own opening paragraph,
-shown as the page's lead, says what the log is.
 
 Analyses are their own category (`Analyses`, amber, the `lightbulb` glyph).
 `Analyses` is last in `FOLDER_PRIORITY` (`wiki/naming.ts`), so a headline

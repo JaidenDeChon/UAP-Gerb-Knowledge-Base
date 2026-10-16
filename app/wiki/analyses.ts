@@ -1,7 +1,7 @@
 import { readFileSync } from 'node:fs'
 // Relative rather than the `#shared` alias — see the note in ./graph.ts.
-import { ANALYSIS_CONFIDENCES, ANALYSIS_KINDS, ANALYSIS_NOVELTIES, FOOTNOTES_KIND } from '../shared/types/wiki'
-import type { BakedAnalysis, BakedFootnotes } from '../shared/types/wiki'
+import { ANALYSIS_CONFIDENCES, ANALYSIS_KINDS, ANALYSIS_NOVELTIES } from '../shared/types/wiki'
+import type { BakedAnalysis } from '../shared/types/wiki'
 import { graphIndex } from './graph'
 import { VAULT_DIR } from './vault'
 import { publishDate } from './videos'
@@ -74,17 +74,11 @@ function* analysesNotes(): Generator<{ i: number, raw: string }> {
   }
 }
 
-/** Whether a frontmatter block marks the footnotes log rather than an analysis. */
-function isFootnotesLog(block: string): boolean {
-  return scalar(block, 'kind')?.toLowerCase() === FOOTNOTES_KIND
-}
-
 /**
  * Every analysis in the vault, newest `date` first.
  *
  * An analysis is any note directly under `Analyses/`, written by the analysis
- * agents with a fixed frontmatter schema (see docs/wiki-components.md), apart
- * from the footnotes log (`kind: footnotes`; see `buildFootnotes`). It is
+ * agents with a fixed frontmatter schema (see docs/wiki-components.md). It is
  * read off the frontmatter alone, so a new post lists on the next build with
  * nobody touching the app. No `Analyses/` folder, or an empty one, bakes as [].
  */
@@ -93,7 +87,6 @@ export function buildAnalyses(): BakedAnalysis[] {
 
   for (const { i, raw } of analysesNotes()) {
     const block = frontmatterBlock(raw)
-    if (isFootnotesLog(block)) continue
     analyses.push({
       i,
       date: publishDate(scalar(block, 'date')),
@@ -107,31 +100,4 @@ export function buildAnalyses(): BakedAnalysis[] {
 
   // Newest first; undated last, in graph (alphabetical) order.
   return analyses.sort((a, b) => (b.date ?? '').localeCompare(a.date ?? '') || a.i - b.i)
-}
-
-/**
- * How many corrections a footnotes log holds: its `## ` headings, one per
- * entry, outside fenced code. Counted from the markdown rather than kept in
- * frontmatter, so it can't drift from the page.
- */
-export function countFootnoteEntries(raw: string): number {
-  let fenced = false
-  let count = 0
-  for (const line of raw.replace(/^---\r?\n[\s\S]*?\r?\n---/, '').split(/\r?\n/)) {
-    if (/^(```|~~~)/.test(line)) fenced = !fenced
-    else if (!fenced && /^## \S/.test(line)) count++
-  }
-  return count
-}
-
-/**
- * The running log of footnotes and corrections (`kind: footnotes`), which
- * `/analyses` links to with its entry count. Null when the vault has none;
- * should there ever be two, the first in graph order wins.
- */
-export function buildFootnotes(): BakedFootnotes | null {
-  for (const { i, raw } of analysesNotes()) {
-    if (isFootnotesLog(frontmatterBlock(raw))) return { i, entries: countFootnoteEntries(raw) }
-  }
-  return null
 }

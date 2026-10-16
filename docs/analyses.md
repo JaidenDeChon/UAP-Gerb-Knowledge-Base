@@ -38,11 +38,10 @@ A contradiction is a finding, not an error report. Present both sides with their
 
 ## Footnotes
 
-A footnote corrects a probable slip. It isn't an analysis, so it carries no confidence or novelty labels. It appears in three places, all with the same text:
+A footnote corrects a probable slip. It isn't an analysis, so it carries no confidence or novelty labels. It appears in two places, both with the same text:
 
 1. **On the sentence in the video's `summary.md`** where the slip is reported, as a GFM footnote: `...which is of course Roswell.[^gerb-condron-field]`, with `[^gerb-condron-field]: <the note>` at the end of the page. Footnote ids always start with `gerb-` and are unique across the vault.
 2. **On the most relevant entity page**, the same way, on the sentence that repeats the slip. Leave the page's other text alone.
-3. **On the log page** `UAP Gerb Knowledge Base/Analyses/Footnotes and Corrections.md` (frontmatter `kind: footnotes`, `title: "Footnotes and Corrections"`), as one `## <short title>` entry, newest first. Each entry gives the date, what the video says (verbatim), the likely correction, the source for the correction, and links to the summary and entity page it's footnoted on.
 
 Adding a footnote doesn't change what a paragraph says, so it needs no `> [!edit]` card (see "Edit cards" in CLAUDE.md). If you also correct the paragraph's own wording, that correction does need one.
 

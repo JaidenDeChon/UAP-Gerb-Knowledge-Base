@@ -1,15 +1,11 @@
 <script setup lang="ts">
-import type { AnalysisCard, FootnotesLog } from '#shared/types/wiki'
-import { ArrowRight, Lightbulb } from '@lucide/vue'
+import type { AnalysisCard } from '#shared/types/wiki'
+import { Lightbulb } from '@lucide/vue'
 
 // Every analysis, newest first — the build-time list from `wiki/analyses.ts`,
 // so a new post shows up on the next deploy with nobody touching the app.
 // `lazy` for the reason given in index.vue.
 const { data: analyses, status } = useFetch<AnalysisCard[]>('/api/analyses', { key: 'all-analyses', lazy: true })
-
-// The footnotes log sits in the same folder but isn't an analysis, so it gets
-// one link under the intro instead of a card. Nothing shows until it exists.
-const { data: footnotes } = useFetch<FootnotesLog | null>('/api/footnotes', { key: 'footnotes-log', lazy: true })
 
 usePageReady(() => status.value === 'success' || status.value === 'error')
 
@@ -24,18 +20,6 @@ useHead({ title: 'Analyses' })
     </h1>
     <p class="mt-4 max-w-[640px] font-sans text-[16px] leading-[26px] text-muted-foreground">
       Connections, coincidences, contradictions and patterns found across Gerb's videos.
-    </p>
-    <p v-if="footnotes" class="mt-3">
-      <NuxtLink
-        :to="footnotes.path"
-        class="inline-flex items-center gap-1.5 font-sans text-[14px] font-medium text-primary underline-offset-2 hover:underline"
-      >
-        Footnotes and corrections
-        <span class="font-mono text-[11px] font-normal uppercase tracking-[0.1em] text-muted-foreground">
-          · {{ footnotes.entries }} {{ footnotes.entries === 1 ? 'entry' : 'entries' }}
-        </span>
-        <ArrowRight class="size-3.5" />
-      </NuxtLink>
     </p>
     <p class="mb-8 mt-3 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground">
       <template v-if="analyses?.length">{{ analyses.length }} {{ analyses.length === 1 ? 'analysis' : 'analyses' }} · newest first</template>

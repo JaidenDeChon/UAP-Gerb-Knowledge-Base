@@ -133,8 +133,7 @@ class Vault:
         self.folder = {name: path.parent.name for name, path in self.entities.items()}
         self.summaries = {p.parent.name: p for p in sorted((VAULT / "Videos").glob("*/summary.md"))}
         self.transcripts = {p.parent.name: p for p in sorted((VAULT / "Videos").glob("*/transcript.md"))}
-        # The footnotes log lives in Analyses/ but isn't an analysis.
-        self.analyses = [p for p in sorted((VAULT / "Analyses").glob("*.md")) if p.stem != "Footnotes and Corrections"] if (VAULT / "Analyses").exists() else []
+        self.analyses = sorted((VAULT / "Analyses").glob("*.md")) if (VAULT / "Analyses").exists() else []
 
         self.out: dict[str, set[str]] = {}
         for name, path in self.entities.items():

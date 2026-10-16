@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import type { Category } from '#shared/types/wiki'
-import { FOOTNOTES_KIND } from '#shared/types/wiki'
 import type { WikiPage } from '@/utils/content'
 import { ChevronRight } from '@lucide/vue'
 import { Badge } from '@/components/ui/badge'
@@ -91,11 +90,8 @@ function readFrontmatter(key: string): unknown {
   const meta = page.value?.meta as Record<string, unknown> | undefined
   return note?.[key] ?? meta?.[key]
 }
-/** The footnotes log shares the folder but isn't an analysis: no strip, just a line saying what it is. */
-const isFootnotesLog = computed(() =>
-  isAnalysis.value && String(readFrontmatter('kind') ?? '').trim().toLowerCase() === FOOTNOTES_KIND)
 const analysis = computed(() => {
-  if (!isAnalysis.value || isFootnotesLog.value || !page.value) return null
+  if (!isAnalysis.value || !page.value) return null
   return readAnalysisMeta(readFrontmatter)
 })
 
