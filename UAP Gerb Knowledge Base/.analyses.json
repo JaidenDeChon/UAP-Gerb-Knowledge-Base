@@ -4455,7 +4455,7 @@
       "id": "L0064",
       "slice": "S035-focus",
       "found_at": "2026-10-16T20:08:07Z",
-      "status": "open",
+      "status": "shelved",
       "duplicate_of": null,
       "problems": [],
       "kind": "timeline",
@@ -4523,7 +4523,9 @@
       "weakest_link": "The 12 November 1988 date rests on McCandlish's retelling. I could not confirm a Norton air show on that date, and if the exhibit was on another date the ten-day gap goes. Plant 42 is a big complex: the B-2 was rolled out from Northrop's Site 4, while McCandlish puts the exhibit in the old L-1011 (Lockheed, later Skunk Works) hangar, so 'same plant' does not mean the same hangar. The overlap may be pure coincidence, since VIP black-program briefings at Palmdale were not rare in 1988. Checkable through the Norton AFB open-house date (San Bernardino Sun archive), Cranston's and Brown's schedules for 12 November 1988, and 1988 press coverage of the pre-rollout congressional visits. This is not a Gerb slip. As a timeline finding it is moderate on the facts and speculative on what it means.",
       "impact": 4,
       "support": 3,
-      "slip": false
+      "slip": false,
+      "resolved_at": "2026-10-16T20:10:29Z",
+      "reason": "Speculative timing coincidence at impact 4: the B-2 rollout (22 Nov 1988, Plant 42) is solid, but the 12 Nov exhibit date rests only on McCandlish's retelling (Sorenson's 1990 account as read gives no date, no Norton show on that date found), the exhibit was in a different site of a 5,800-acre complex, and November 1988 was crowded with stealth reveals (F-117 acknowledged 10 Nov), so the overlap shows setting, not connection; revive if a dated source puts the exhibit in the rollout week or ties Cranston/Brown to pre-rollout visits."
     },
     {
       "id": "L0065",
