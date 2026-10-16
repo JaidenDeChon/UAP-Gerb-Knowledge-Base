@@ -55,6 +55,9 @@ KINDS = {"hidden-link", "timeline", "contradiction", "pattern"}
 LENSES = ["links", "accounts", "timeline", "patterns"]
 
 LINKS_PER_SLICE = 20
+# Leads of the same kind whose entity sets overlap at least this much (Jaccard) fold together.
+# Roswell, the IPU and a few people recur everywhere, so this has to be high.
+DUPLICATE_OVERLAP = 0.75
 # An accounts slice takes subjects until their videos add up to this many passages to compare.
 ACCOUNTS_PASSAGES_PER_SLICE = 40
 PATTERNS_PER_SLICE = 18
@@ -440,7 +443,7 @@ def cmd_ingest() -> None:
             dup = next(
                 (o["id"] for o in ledger["leads"]
                  if o["kind"] == lead.get("kind") and o["status"] in {"open", "written"}
-                 and ents and len(ents & set(o["entities"])) / len(ents | set(o["entities"])) >= 0.5),
+                 and ents and len(ents & set(o["entities"])) / len(ents | set(o["entities"])) >= DUPLICATE_OVERLAP),
                 None,
             )
             ledger["leads"].append({
