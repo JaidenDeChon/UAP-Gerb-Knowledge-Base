@@ -3174,7 +3174,7 @@
       "id": "L0046",
       "slice": "S023-focus",
       "found_at": "2026-10-16T15:07:59Z",
-      "status": "open",
+      "status": "written",
       "duplicate_of": null,
       "problems": [],
       "kind": "hidden-link",
@@ -3248,7 +3248,9 @@
       "weakest_link": "DeLonge never named the adviser, and his public list was not exhaustive, so an unnamed NRO official could be the source; the finding can only say McCasland fits better than Elizondo among the named advisers, not that it was him. 'High up' is DeLonge's word; McCasland's NRO-linked posts (SAF Office of Special Projects, Aerospace Data Facility, Pentagon director of special programs) were mid-career, which is checkable in his Air Force biography (af.mil article 104776). Gerb could answer that Elizondo was 'from' the NRO in the liaison sense. Not a slip: it is an inference Gerb builds deliberately across three videos.",
       "impact": 4,
       "support": 3,
-      "slip": false
+      "slip": false,
+      "resolved_at": "2026-10-16T15:14:12Z",
+      "analysis": "Analyses/DeLonge's NRO adviser fits McCasland's career better than Elizondo's.md"
     },
     {
       "id": "L0047",
