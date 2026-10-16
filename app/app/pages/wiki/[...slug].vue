@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import type { Category } from '#shared/types/wiki'
+import { FOOTNOTES_KIND } from '#shared/types/wiki'
 import type { WikiPage } from '@/utils/content'
 import { ChevronRight } from '@lucide/vue'
 import { Badge } from '@/components/ui/badge'
@@ -85,11 +86,17 @@ const videoTitle = computed(() => (page.value ? videoTitleFromStem(page.value.st
  * lead. Read from frontmatter, hoisted to a column or left in `meta`.
  */
 const isAnalysis = computed(() => category.value === 'Analyses')
+function readFrontmatter(key: string): unknown {
+  const note = page.value as unknown as Record<string, unknown> | null
+  const meta = page.value?.meta as Record<string, unknown> | undefined
+  return note?.[key] ?? meta?.[key]
+}
+/** The footnotes log shares the folder but isn't an analysis: no strip, just a line saying what it is. */
+const isFootnotesLog = computed(() =>
+  isAnalysis.value && String(readFrontmatter('kind') ?? '').trim().toLowerCase() === FOOTNOTES_KIND)
 const analysis = computed(() => {
-  if (!isAnalysis.value || !page.value) return null
-  const note = page.value as unknown as Record<string, unknown>
-  const meta = page.value.meta as Record<string, unknown> | undefined
-  return readAnalysisMeta(key => note[key] ?? meta?.[key])
+  if (!isAnalysis.value || isFootnotesLog.value || !page.value) return null
+  return readAnalysisMeta(readFrontmatter)
 })
 
 /**
@@ -253,6 +260,9 @@ const articleClass = computed(() => hasRail.value
             </h1>
 
             <WikiAnalysisStrip v-if="analysis" :meta="analysis" />
+            <p v-else-if="isFootnotesLog" class="mb-7 font-sans text-[13px] leading-5 text-muted-foreground">
+              Small corrections where a video probably misspoke. Each one is also footnoted where it appears.
+            </p>
 
             <p v-if="article.lead" class="mb-7 font-sans text-[20px] leading-[30px] text-muted-foreground">
               {{ article.lead }}
@@ -380,6 +390,57 @@ const articleClass = computed(() => hasRail.value
   letter-spacing: 0.14em;
   line-height: 1;
   color: hsl(var(--primary));
+}
+
+/* GFM footnotes (remark-gfm's markup: see "Footnotes" in
+   docs/wiki-components.md). The marker is a small mono numeral that keeps
+   the line box steady (`line-height: 0` on the <sup>) and takes the global
+   focus ring; its padding widens the tap target a little. */
+.wiki-prose :deep(sup:has(> a[data-footnote-ref])) {
+  line-height: 0;
+}
+.wiki-prose :deep(a[data-footnote-ref]) {
+  margin-inline-start: 1px;
+  padding: 0 2px;
+  border-radius: 3px;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 600;
+}
+/* The section closes the note as small print, like the rail's "On this page"
+   label: a hairline, a mono label and muted 14px notes. remark-gfm marks the
+   label `sr-only`; it is shown here instead, and kept out of the TOC at parse
+   time (wiki/toc.ts). On a feature page it takes no chapter number. */
+.wiki-prose :deep(section[data-footnotes]) {
+  @apply mt-12 border-t border-border pt-5;
+}
+.wiki-prose :deep(section[data-footnotes] > h2) {
+  @apply not-sr-only m-0 mb-3 border-0 p-0 font-mono text-[11px] font-semibold uppercase leading-4 tracking-[0.12em] text-muted-foreground;
+}
+.wiki-prose.is-feature :deep(section[data-footnotes] > h2) {
+  counter-increment: none;
+}
+.wiki-prose.is-feature :deep(section[data-footnotes] > h2)::before {
+  content: none;
+}
+.wiki-prose :deep(section[data-footnotes] ol) {
+  @apply my-0 list-decimal space-y-2 pl-5;
+}
+.wiki-prose :deep(section[data-footnotes] li) {
+  @apply rounded-sm text-[14px] leading-[22px] text-muted-foreground marker:font-mono marker:text-[12px];
+  overflow-wrap: anywhere;
+}
+/* Whichever end of the pair was just jumped to is tinted, so it's found at once. */
+.wiki-prose :deep(section[data-footnotes] li:target),
+.wiki-prose :deep(a[data-footnote-ref]:target) {
+  background: hsl(var(--primary) / 0.12);
+}
+.wiki-prose :deep(a[data-footnote-backref]) {
+  margin-inline-start: 2px;
+  padding: 0 3px;
+  border-radius: 3px;
+  font-family: var(--font-mono);
+  font-variant-emoji: text;
 }
 
 /*

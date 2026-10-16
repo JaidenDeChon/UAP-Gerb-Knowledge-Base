@@ -18,6 +18,7 @@ declare module '#wiki-data' {
   export const previews: import('./wiki').BakedPreview[]
   export const videos: import('./wiki').BakedVideo[]
   export const analyses: import('./wiki').BakedAnalysis[]
+  export const footnotes: import('./wiki').BakedFootnotes | null
   export const geo: import('./wiki').BakedGeo
   export const portraits: import('./wiki').BakedPortraits
   export const places: import('./wiki').BakedPlaces

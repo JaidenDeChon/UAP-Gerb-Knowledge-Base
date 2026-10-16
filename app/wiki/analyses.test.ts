@@ -1,20 +1,34 @@
 import { describe, expect, it } from 'vitest'
+import { readFileSync } from 'node:fs'
 import { ANALYSIS_CONFIDENCES, ANALYSIS_KINDS, ANALYSIS_NOVELTIES } from '../shared/types/wiki'
-import { buildAnalyses, listValue } from './analyses'
+import { buildAnalyses, buildFootnotes, countFootnoteEntries, listValue } from './analyses'
 import { graphIndex } from './graph'
-import { walkVault } from './vault'
+import { VAULT_DIR, walkVault } from './vault'
+
+/** Notes directly under `Analyses/` whose frontmatter says `kind: footnotes`. */
+function footnotesLogs(): string[] {
+  return walkVault()
+    .filter(stem => /^Analyses\/[^/]+$/.test(stem))
+    .filter(stem => /^kind:\s*["']?footnotes["']?\s*$/m.test(readFileSync(`${VAULT_DIR}/${stem}.md`, 'utf8').split(/\r?\n---/)[0]!))
+}
 
 // These run against the real vault, like ./videos.test.ts. The Analyses folder
-// may be empty or missing (it is until the first post lands), and every
-// assertion below must hold then too.
+// may be empty or missing (it is until the first post lands), and so may the
+// footnotes log; every assertion below must hold then too.
 describe('buildAnalyses', () => {
   const analyses = buildAnalyses()
   const { nodes } = graphIndex().payload
 
-  it('lists every note under Analyses/, and nothing else', () => {
+  it('lists every note under Analyses/ but the footnotes log, and nothing else', () => {
     const notes = walkVault().filter(stem => /^Analyses\/[^/]+$/.test(stem))
-    expect(analyses).toHaveLength(notes.length)
+    expect(analyses).toHaveLength(notes.length - footnotesLogs().length)
     expect(analyses.every(a => nodes[a.i]!.c === 'Analyses')).toBe(true)
+  })
+
+  it('never lists the footnotes log', () => {
+    const log = buildFootnotes()
+    expect(footnotesLogs().length > 0).toBe(log !== null)
+    if (log) expect(analyses.some(a => a.i === log.i)).toBe(false)
   })
 
   it('orders by date, newest first, undated last', () => {
@@ -29,6 +43,30 @@ describe('buildAnalyses', () => {
       expect(a.confidence === null || ANALYSIS_CONFIDENCES.includes(a.confidence)).toBe(true)
       expect(a.novelty === null || ANALYSIS_NOVELTIES.includes(a.novelty)).toBe(true)
     }
+  })
+})
+
+describe('countFootnoteEntries', () => {
+  it('counts the `## ` headings, skipping frontmatter, deeper headings and fenced code', () => {
+    const raw = [
+      '---',
+      'kind: footnotes',
+      '## not a heading in frontmatter',
+      '---',
+      '# Footnotes and Corrections',
+      '## One',
+      'text',
+      '### A detail',
+      '```',
+      '## inside a fence',
+      '```',
+      '## Two',
+    ].join('\n')
+    expect(countFootnoteEntries(raw)).toBe(2)
+  })
+
+  it('gives 0 for a log with no entries yet', () => {
+    expect(countFootnoteEntries('---\nkind: footnotes\n---\nNothing yet.')).toBe(0)
   })
 })
 

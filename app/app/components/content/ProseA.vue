@@ -14,6 +14,12 @@ const props = withDefaults(
 )
 
 const isInternal = computed(() => props.href.startsWith('/'))
+/**
+ * An in-page anchor: a GFM footnote's marker or back-link. Those carry the ids
+ * and aria attributes the pair navigate by, so they keep every attribute and
+ * get neither a preview nor the external-link treatment.
+ */
+const isHash = computed(() => props.href.startsWith('#'))
 
 const preview = ref<NotePreview | null>(null)
 const loading = ref(false)
@@ -81,6 +87,8 @@ async function load(open: boolean): Promise<void> {
       </div>
     </HoverCardContent>
   </HoverCard>
+
+  <a v-else-if="isHash" v-bind="$attrs" :href="href"><slot /></a>
 
   <a
     v-else
