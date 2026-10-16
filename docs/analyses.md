@@ -13,7 +13,7 @@ Both agents read this file at the start of every run.
 
 A finding must be all three:
 
-1. **Unsaid.** No video makes the connection. Gerb may cover both halves in different videos, or both in one video without putting them together; either qualifies. If a transcript already draws the line, even in passing, it is not a finding. Search the transcripts before believing otherwise.
+1. **Unsaid.** No video makes the connection. When the videos make the broad point and only a narrower version is unsaid, the narrow version has to stand on its own as a finding. A date or two added to something Gerb already said usually doesn't. Gerb may cover both halves in different videos, or both in one video without putting them together; either qualifies. If a transcript already draws the line, even in passing, it is not a finding. Search the transcripts before believing otherwise.
 2. **Supported.** Every fact it rests on is in the vault (a transcript, a summary or an entity page) and, for identifying facts such as dates, employers, ranks and places, checkable online. The *inference* is new; the facts are not.
 3. **Worth a reader's time.** It changes how you read at least one video. "Both men worked in aerospace" or "both incidents happened in the United States" is not a finding. "The program manager Witness A names in 1997 ran the office Witness B says took the material in 1989" is.
 

@@ -56,6 +56,8 @@ Work through each of these and write down what you found:
 
 ## Phase 3: check the web
 
+If Phase 2 has already killed the lead on vault evidence alone, skip this phase and go to Phase 4.
+
 Use `WebSearch` and `WebFetch`.
 
 1. **Identifying facts.** Verify every date, rank, employer, post and place the finding depends on (Wikipedia or Wikidata, official biographies, obituaries, reputable news, archive records). A fact that can't be verified either stays attributed to the witness ("Castle says he was at...") or weakens the confidence. A fact the web contradicts may kill the lead.
