@@ -96,15 +96,23 @@ Length: as short as the evidence allows, usually 400 to 900 words.
 
 All three confidence labels are published. A speculative analysis is worth a post when it's specific and honestly labelled; what keeps a lead out is the discard rules below, not its confidence.
 
+**Downgrade before you discard.** When a lead's facts check out but the inference is weaker than the scout claimed (the timing fits more than one explanation, the match isn't unique, the premise rests on a source that can't be checked from here), don't discard it. Narrow the claim to what the evidence does support and publish it as a `speculative` *open question*:
+
+- The headline asks or states the narrower point, never the scout's stronger one.
+- It's short, 250 to 500 words, and uses the usual sections. `## What cuts against it` comes straight after `## The finding`, ahead of the evidence, so the reader meets the weaknesses first.
+- `## What would settle it` names the specific document, passage or record that would confirm or kill it.
+
+"Publishing fewer, sounder analyses" still holds for anything labelled `strong` or `moderate`.
+
 ## Discard rules
 
 The writer discards a lead, and records why, when any of these hold:
 
 - A transcript already makes the connection.
-- The evidence doesn't say what the lead claims, or a quote doesn't appear in its source.
+- The evidence doesn't say what the lead claims and no narrower claim survives, or a quote doesn't appear in its source.
 - It rests on a caption error, or on two different people who share a name.
 - It's trivial: a shared country, decade or famous agency, or a contractor that turns up in every list of suspected contractors (Lockheed, Boeing, McDonnell Douglas, Northrop, Raytheon). A big name only counts when something specific to this case ties it in: a named person, site, contract or date.
-- Its deciding premise can't be checked. If the finding stands or falls on a fact that is only Gerb's paraphrase of another source ("Gerb says the book says X"), that source has to be confirmed (a quote, a snippet of the passage, a second report of it). Otherwise discard the lead as unverifiable, and say what would revive it.
+- Its deciding premise can't be checked *and* nothing specific is left once that premise is set aside. If the finding stands or falls on Gerb's paraphrase of another source ("Gerb says the book says X") that can't be confirmed, it can still run as a speculative open question, provided the post says plainly that the premise is unconfirmed and what would confirm it.
 - It duplicates a published analysis. Extend that analysis instead, if the new evidence adds something.
 
-A discarded lead is a good outcome. Publishing fewer, sounder analyses is the point.
+A discarded lead is a good outcome when one of these holds. When none does, downgrade instead (see "Publishing bar").
