@@ -8,6 +8,7 @@ issuer: "General Accounting Office"
 doc_kind: report
 provenance: official
 rights: public-domain
+ocr: redo
 source_url: "https://www.gao.gov/assets/nsiad-86-191.pdf"
 tags:
   - document

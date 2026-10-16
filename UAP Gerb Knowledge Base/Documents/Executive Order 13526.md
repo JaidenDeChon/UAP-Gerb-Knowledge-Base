@@ -1,5 +1,11 @@
 ---
 name: "Executive Order 13526"
+date: "2009-12-29"
+issuer: "President of the United States"
+doc_kind: executive-order
+provenance: official
+rights: public-domain
+source_url: "https://www.govinfo.gov/content/pkg/FR-2010-01-05/pdf/E9-31418.pdf"
 tags:
   - document
 ---
@@ -12,7 +18,10 @@ Agencies have repeatedly cited Executive Order 13526 to deny FOIA requests for [
 
 ### Section 1.4 Classification Criteria
 
-The order allows information to be classified if its disclosure could reasonably be expected to damage national security. Agencies cite the provision that protects information deemed "critical to National Defense or foreign policy."
+The order allows information to be classified if its disclosure could reasonably be expected to damage national security. The order lists the categories of information that may be classified in section 1.4, (a) to (h), among them military plans, intelligence activities and sources, and foreign relations. The phrase "critical to National Defense or foreign policy" is NORAD's, from its reply below, not the order's.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions quoted "critical to National Defense or foreign policy" as a provision of the order. The phrase does not appear in it (75 FR 707); it comes from NORAD's letter to John Greenewald.
 
 ### 2013 US Northern Command Denial
 

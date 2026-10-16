@@ -51,6 +51,7 @@ git merge-base --is-ancestor origin/main HEAD || git merge --no-edit origin/main
 2. `docs/component-proposals.md`: component ideas already proposed, approved, declined or shipped. Never re-propose something already listed.
 3. The pilot page and its `cues.json`.
 4. `.claude/agents/video-ingestor.md`: its research, tone and entity-page standards apply to everything you write, and you follow its phases when a video still needs ingesting.
+5. `docs/documents.md`: how documents are identified, sourced, hosted, OCR'd and transcribed.
 
 ---
 
@@ -86,12 +87,15 @@ If the target's id is **not** a key in `UAP Gerb Knowledge Base/.processed_video
 - fetch the complete transcript
 - write the standard summary
 - create and expand entity pages
+- document pages, hosting, OCR and transcriptions (Phase 5b)
 - handle duplicates
 - mark it processed
 
 The rich article is built on top of that work, and its YAML references entity pages, which must exist first.
 
 If the transcript can't be fetched (the ingestor explains the IP-block case), stop and report. Never build a rich article without the full transcript.
+
+If the video **was** ingested earlier, run the ingestor's **Phase 5b (Documents)** on it anyway, for every document it discusses or shows: videos ingested before documents had their own category never got that pass. A document already sourced, hosted and transcribed needs nothing more.
 
 ## Phase 2: Read everything
 
@@ -192,6 +196,7 @@ Edit `summary.md` in place:
 - Prose sections keep `[[wikilinks]]` on first mention.
 - Inside component YAML, use plain page titles only (gotcha 1).
 - Before using any entity name in YAML, confirm the page exists with exactly that title (a case-insensitive `find`/`grep` over the vault). Create or expand the page per the ingestor's Phase 5 when the video warrants it. Otherwise leave the name as plain unlinked text.
+- Where the article turns on a document's own words (a figure Gerb quotes, a passage he puts on screen, a line a claim rests on) and that document is hosted, set the passage into the article with `::wiki-document`, using `region` to show just the lines that matter (find them with `pdftotext -bbox`, as the component doc explains). Its caption says what the excerpt shows, in the document's terms. Use one where it earns its place, not as decoration.
 - When a `::wiki-map` pin names a Location page that has no `coordinates:` in its frontmatter, add verified coordinates to that page: `coordinates: [lat, lon]` in decimal degrees, latitude first, checked online (Wikipedia or Wikidata's coordinate for the place, or a cited description of a facility's position; put a facility's own position on a facility page, not the nearest town's). Add them only for places you actually map, and name the source for each in your report. For a place with no page, or a non-Location page, write `coordinates` on the pin instead. See `::wiki-map` in `docs/wiki-components.md`.
 
 ## Phase 6: Verify, then record
@@ -224,6 +229,7 @@ Report:
 - cue status: how many were hand-verified, and how many are approximate
 - any component extensions, with the files touched
 - entity pages created or expanded
+- documents: pages created or expanded, sourced, hosted, OCR'd and transcribed, and any `::wiki-document` excerpts placed
 - anything you left out and why
 - `## Question for the user`, only when you made a new proposal
 

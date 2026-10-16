@@ -1,5 +1,9 @@
 ---
 name: "Denb Report"
+date: "1992-03-23"
+doc_kind: memo
+provenance: disputed
+rights: unclear
 tags:
   - document
 ---
@@ -8,7 +12,10 @@ The **Denb Report** is an anomalous document of unknown origin and the primary s
 
 ## Authorship and Provenance
 
-The report is signed by a person or group identified only as "[[JS (Denb Report Author)|JS]]" and is dated March 23, 1992. It is addressed "to all Denb team members" and labelled "File UFO 3263," which suggests it was one of many UAP cases the [[DENB Team]] studied. According to the report, its facts were "gathered from two eyewitness accounts, documentation illegally copied, and a partially destroyed document" by a person, now dead, in 1978. The DENB group received these notes and documents in February 1992.
+The report is signed by a person or group identified only as "[[JS (Denb Report Author)|JS]]" and is dated March 23, 1992. It is addressed "To: All Deneb Team Members". The "File: UFO3263" heading on the copies in circulation is the file number of the UFO BBS archive that preserved the text, not a case number of the [[DENB Team]]. According to the report, its facts were "gathered from two eyewitness accounts, documentation illegally copied, and a partially destroyed document" by a person, now dead, in 1978. The DENB group received these notes and documents in February 1992.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions gave the addressee as "Denb team members" and read "File UFO 3263" as a sign the team studied many cases. The text addresses the "Deneb Team", and the file number belongs to the UFO BBS archive (textfiles.com, ufo/UFOBBS/3000/3263.ufo).
 
 There are several ideas about who wrote it:
 - JS may be an acronym for Joint Staff, Joint Services, or another government or military department.
@@ -55,7 +62,10 @@ The DENB Team used early internet message boards to distribute the report. It wa
 
 The original scans of the Denb Report were hosted on [[Elaine Douglas]]'s website (www.elainedouglas.com). Since her death in 2014 they have been missing from the Web Archive copy of the site. [[Ryan S. Wood]] has no copies of the original document for forensic analysis, which is a serious setback for anyone trying to authenticate it.
 
-Inquiries to the FAA turned up no documents about the civilian aircraft crash, likely because it involved no US aircraft and did not happen over US airspace. NORAD was suggested as a possible holder of space tracking records if the object came in from orbital altitude, but no records have been released.
+According to the report itself, inquiries to the FAA turned up no documents about the civilian aircraft crash, likely because it involved no US aircraft and did not happen over US airspace. NORAD was suggested as a possible holder of space tracking records if the object came in from orbital altitude, but no records have been released.
+
+> [!edit] Attribution clarified 16 October 2026
+> Earlier versions stated the FAA and NORAD findings as current fact. They come from the report itself.
 
 The Denb Report is still the most detailed primary source for the Coyame case, and researchers looking into alleged cross-border UAP crash retrieval operations continue to cite it.
 

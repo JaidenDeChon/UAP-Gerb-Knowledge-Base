@@ -3,6 +3,7 @@ import tailwindcss from '@tailwindcss/vite'
 import { bakeWikiDataModule } from './wiki/bake'
 import { movedNoteRedirects } from './wiki/moved'
 import { cleanTocLabels } from './wiki/toc'
+import { escapeEditorialBrackets, isTranscriptionFile } from './wiki/transcription'
 import { replaceObsidianCallouts, replaceWikiLinks } from './wiki/vault'
 
 const PAGE_CACHE = { isr: true, headers: { 'Netlify-Vary': 'cookie=uapgdb-theme' } }
@@ -75,7 +76,9 @@ export default defineNuxtConfig({
     // rewrite both into things @nuxt/content understands before parsing.
     'content:file:beforeParse'(ctx) {
       if (ctx.collection.name !== 'wiki') return
-      ctx.file.body = replaceObsidianCallouts(replaceWikiLinks(String(ctx.file.body)))
+      const body = replaceObsidianCallouts(replaceWikiLinks(String(ctx.file.body)))
+      // A transcription's square brackets are editorial marks, not MDC spans.
+      ctx.file.body = isTranscriptionFile(String(ctx.file.id)) ? escapeEditorialBrackets(body) : body
     },
     // A heading carrying an MDC component gets that component's body text
     // flattened into its TOC entry — see ./wiki/toc.ts.

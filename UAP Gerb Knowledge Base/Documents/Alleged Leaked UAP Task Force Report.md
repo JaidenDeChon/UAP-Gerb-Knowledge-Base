@@ -1,5 +1,8 @@
 ---
 name: "Alleged Leaked UAP Task Force Report"
+doc_kind: report
+provenance: disputed
+rights: unclear
 tags:
   - document
 ---
@@ -21,7 +24,10 @@ The log is presented as the cockpit voice recording of an intercept involving th
 
 The Section 5 page uses the term UA/SP, for unidentified aerial and submerged phenomena. Gerb considers this distinction a small point in the document's favour. The page concludes that UAP are either remote or autonomous drones or a form of mechanical life, and that an "organic species" has been deploying UA/SP whose rapidly improving flight performance indicates a "stepped virtual evolution process". It names [[M. Harmon]], [[S. McCaron]] and [[K Shakoya]], credits Shakoya with the finding that gradual changes in UA/SP appearance and behaviour reflect generational changes, and mentions a "Blackout Flower report" and a "Layer Three Behavioral Assessment".
 
-Gerb found almost nothing on the names or the report titles and assumes the names are pseudonyms or have had their first names removed. His one lead is [[Hillary S. McCaron]], a research neuroscientist at the [[US Army Medical Research Institute of Chemical Defense]] according to her LinkedIn page. Because the latest contribution, Shakoya's, is dated 2020, while the UAP Task Force was operating (2017 to 2022), Gerb suggests the document may be an internal Task Force report.
+Gerb found almost nothing on the names or the report titles and assumes the names are pseudonyms or have had their first names removed. His one lead is [[Hillary S. McCaron]], a research neuroscientist at the [[US Army Medical Research Institute of Chemical Defense]] according to her LinkedIn page. Because the latest contribution, Shakoya's, is dated 2020, while the UAP Task Force was operating (Gerb gives 2017 to 2022; the Pentagon set it up in August 2020 and replaced it in November 2021), Gerb suggests the document may be an internal Task Force report.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions gave the task force's years as 2017 to 2022 without attribution. Those are Gerb's figures; the Department of Defense established the UAPTF in August 2020 and replaced it with the AOIMSG in November 2021.
 
 ## Significance
 

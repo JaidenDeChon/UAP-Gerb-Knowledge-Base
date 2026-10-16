@@ -1,5 +1,9 @@
 ---
 name: "The Day After Roswell"
+date: "1997"
+issuer: "Pocket Books"
+doc_kind: book
+rights: copyrighted
 tags:
   - document
 ---

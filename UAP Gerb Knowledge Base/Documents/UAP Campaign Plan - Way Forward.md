@@ -1,5 +1,10 @@
 ---
 name: "UAP Campaign Plan - Way Forward"
+date: "2023-11"
+issuer: "Karl Nell"
+doc_kind: slides
+provenance: official
+rights: copyrighted
 tags:
   - document
 ---

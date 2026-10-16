@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { frontmatterScalars, joinDocument, parseDocumentFrontmatter, parseDocumentManifest } from './documents'
+import { frontmatterScalars, joinDocument, parseDocumentFrontmatter, parseDocumentManifest, transcriptionStem } from './documents'
 
 const file = {
   url: 'https://example.supabase.co/storage/v1/object/public/documents/' + 'a'.repeat(64) + '.pdf',
@@ -48,6 +48,10 @@ describe('parseDocumentManifest', () => {
     expect(parseDocumentManifest({ documents: { 'Hottel Memo': file } })).toEqual({ 'Hottel Memo': file })
   })
 
+  it('flags a file whose text layer came from OCR', () => {
+    expect(parseDocumentManifest({ documents: { X: { ...file, ocr: 'force-ocr', sourceSha256: 'b'.repeat(64) } } }).X).toEqual({ ...file, ocr: true })
+  })
+
   it('drops an entry with a missing or malformed field', () => {
     for (const bad of [
       { ...file, sha256: 'nothex' },
@@ -69,5 +73,11 @@ describe('joinDocument', () => {
     expect(joinDocument({ rights: 'unclear' }, file)).toEqual({ rights: 'unclear' })
     expect(joinDocument({ rights: 'copyrighted' }, file)).toEqual({ rights: 'copyrighted' })
     expect(joinDocument({}, file)).toEqual({})
+  })
+})
+
+describe('transcriptionStem', () => {
+  it('suffixes the title so a bare wikilink still finds the document', () => {
+    expect(transcriptionStem('Hottel Memo')).toBe('Documents/Transcriptions/Hottel Memo (Transcription)')
   })
 })

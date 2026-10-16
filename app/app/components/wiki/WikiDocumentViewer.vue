@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import type { PDFDocumentProxy, PDFPageProxy } from 'pdfjs-dist'
 import type { NoteDocument } from '#shared/types/wiki'
-import { ChevronLeft, ChevronRight, Download, ExternalLink, Minus, Plus } from '@lucide/vue'
+import { ChevronLeft, ChevronRight, Download, ExternalLink, Minus, Plus, ScrollText } from '@lucide/vue'
 import { closePdf, loadPdfjs, openPdf } from '@/utils/pdf'
 
 /**
@@ -243,6 +243,10 @@ const sizeLabel = computed(() => {
             <Plus class="ufo-doc-icon" aria-hidden="true" />
           </button>
         </template>
+        <NuxtLink v-if="document.transcription" class="ufo-doc-btn ufo-doc-btn-text" :to="document.transcription">
+          <ScrollText class="ufo-doc-icon" aria-hidden="true" />
+          Transcription
+        </NuxtLink>
         <a class="ufo-doc-btn ufo-doc-btn-text" :href="file.url" target="_blank" rel="noopener noreferrer">
           <Download class="ufo-doc-icon" aria-hidden="true" />
           PDF
@@ -283,6 +287,9 @@ const sizeLabel = computed(() => {
     <figcaption v-if="document.source" class="ufo-doc-caption">
       Retrieved {{ file.retrieved }} from <a :href="document.source" target="_blank" rel="noopener noreferrer">{{ sourceHost }}<ExternalLink class="ufo-doc-icon-inline" aria-hidden="true" /></a><template v-if="file.fetchedFrom !== document.source">
         (via <a :href="file.fetchedFrom" target="_blank" rel="noopener noreferrer">an archived copy</a>)</template>.
+      <template v-if="file.ocr">
+        The selectable text was added by OCR and may misread the scan<template v-if="document.transcription">; the <NuxtLink :to="document.transcription">transcription</NuxtLink> is checked against the page images</template>.
+      </template>
     </figcaption>
   </figure>
 

@@ -52,7 +52,7 @@ FOLDER_ORDER = ["Home.md", "MOCs", "Videos", "Events", "Operations",
                 "People", "Organizations", "Concepts", "Documents", "Locations"]
 # Verbatim captions, templates and non-page files are never rewritten.
 SKIP_NAMES = {"transcript.md"}
-SKIP_DIRS = {"_templates", ".obsidian"}
+SKIP_DIRS = {"_templates", ".obsidian", "Transcriptions"}
 
 # Inside a ::wiki-* component's YAML body only these keys hold prose.
 PROSE_KEYS = {"summary", "significance", "note", "help", "hint", "caption", "text", "via", "estimate"}

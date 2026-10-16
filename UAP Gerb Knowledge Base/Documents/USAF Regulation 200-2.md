@@ -1,5 +1,11 @@
 ---
 name: "USAF Regulation 200-2"
+date: "1953-08-26"
+issuer: "Department of the Air Force"
+doc_kind: regulation
+provenance: official
+rights: public-domain
+source_url: "https://www.nicap.org/directives/AFR200-2_26Aug1953.pdf"
 tags:
   - document
 ---

@@ -6,6 +6,7 @@ doc_kind: memo
 provenance: official
 rights: public-domain
 thumb_page: 2
+ocr: redo
 source_url: "https://vault.fbi.gov/hottel_guy/Guy%20Hottel%20Part%2001%20(Final)/at_download/file"
 tags:
   - document

@@ -3,8 +3,12 @@
 // Documented in docs/documents.md.
 //
 //   node scripts/fetch-documents.mjs init                create the public bucket
-//   node scripts/fetch-documents.mjs fetch [targets]     download, render, upload
+//   node scripts/fetch-documents.mjs fetch [targets]     download, OCR, render, upload
 //   node scripts/fetch-documents.mjs check [targets]     report what's missing
+//   node scripts/fetch-documents.mjs text "Title" [N-M]  print a hosted file's text, page by page
+//   node scripts/fetch-documents.mjs page "Title" N      render page N to a PNG to read by eye
+//   node scripts/fetch-documents.mjs lookup <url>        list the Wayback captures under a URL
+//   node scripts/fetch-documents.mjs probe <url>         download a candidate PDF and show what it is
 //
 // Targets: every Documents note (default), or page titles as arguments
 // ("Hottel Memo" "Robertson Panel Report").
@@ -19,6 +23,14 @@
 //      the newest capture of that URL and downloads the original bytes from
 //      there (`id_`), recording which it used;
 //   2. checks the bytes are a PDF and reads the page count with `pdfinfo`;
+//   2b. adds a text layer with `ocrmypdf` when the file has little or none (a
+//      scan), so the viewer's text is selectable and `text` has something to
+//      print. `ocr: redo` on the note throws away a poor existing OCR layer
+//      and OCRs the scan afresh (ocrmypdf `--force-ocr`, which re-renders each
+//      page as an image, so use it only on pure scans); `ocr: off` skips OCR.
+//      Otherwise the page images are never altered (no deskew, no rotation,
+//      no optimisation). The OCR'd file is the one hosted; the manifest keeps
+//      the hash of the file as downloaded too;
 //   3. renders page 1 (or `thumb_page:`, for a file that opens on a FOIA cover
 //      sheet) with `pdftoppm` and re-encodes it to a 320px-wide WebP
 //      (`cwebp`) under `public/documents/<slug>.webp`, for hover cards and the
@@ -30,7 +42,13 @@
 // A note already in the manifest, with its thumbnail on disk and its
 // `source_url` unchanged, is skipped without any request. `--force` redoes it.
 //
-// Needs poppler (pdfinfo, pdftoppm) and cwebp, and SUPABASE_URL plus
+// `text` and `page` exist for transcribing (see "Transcriptions" in
+// docs/documents.md): they print the raw OCR text and render a page image to
+// check it against. `lookup` helps find a source on a site that refuses
+// scripts.
+//
+// Needs poppler (pdfinfo, pdftoppm, pdftotext), cwebp and ocrmypdf
+// (`brew install poppler webp ocrmypdf`), and SUPABASE_URL plus
 // SUPABASE_SERVICE_ROLE_KEY in the environment or in app/.env.local (never
 // committed). The service-role key can write to storage; it stays on the
 // machine that runs this script and is never sent to the site.
@@ -63,8 +81,8 @@ const MAX_BYTES = 50 * 1024 * 1024
 const [command = 'fetch', ...rest] = process.argv.slice(2)
 const flags = new Set(rest.filter(a => a.startsWith('--')))
 const names = rest.filter(a => !a.startsWith('--'))
-if (!['init', 'fetch', 'check'].includes(command)) {
-  console.error('Usage: node scripts/fetch-documents.mjs <init|fetch|check> ["Page title" ...] [--force]')
+if (!['init', 'fetch', 'check', 'text', 'page', 'lookup', 'probe'].includes(command)) {
+  console.error('Usage: node scripts/fetch-documents.mjs <init|fetch|check|text|page|lookup|probe> ["Page title" ...] [--force]')
   process.exit(1)
 }
 
@@ -114,6 +132,7 @@ function readDocument(title) {
     fetchUrl: fm.fetch_url ?? '',
     rights: fm.rights ?? '',
     thumbPage: Math.max(1, Number.parseInt(fm.thumb_page ?? '1', 10) || 1),
+    ocr: ['redo', 'off'].includes(fm.ocr) ? fm.ocr : 'auto',
   }
 }
 
@@ -174,13 +193,18 @@ async function download(url) {
   return isPdf(bytes) ? bytes : null
 }
 
-/** The newest Wayback capture of `url`, as a link to its original bytes. */
+/**
+ * The newest Wayback capture of `url`, as a link to its original bytes. The
+ * availability API misses some captures the CDX index has, so the index is
+ * asked when it finds nothing.
+ */
 async function waybackCopy(url) {
   const res = await politeFetch(`https://archive.org/wayback/available?url=${encodeURIComponent(url)}`)
-  if (!res.ok) return null
-  const closest = (await res.json())?.archived_snapshots?.closest
-  if (!closest?.available || closest.status !== '200') return null
-  return `https://web.archive.org/web/${closest.timestamp}id_/${url}`
+  const closest = res.ok ? (await res.json())?.archived_snapshots?.closest : null
+  if (closest?.available && closest.status === '200') return `https://web.archive.org/web/${closest.timestamp}id_/${url}`
+  const cdx = await politeFetch(`https://web.archive.org/cdx/search/cdx?url=${encodeURIComponent(url)}&filter=statuscode:200&fl=timestamp&limit=-1`)
+  const timestamp = cdx.ok ? (await cdx.text()).trim().split('\n').pop() : ''
+  return timestamp ? `https://web.archive.org/web/${timestamp}id_/${url}` : null
 }
 
 async function fetchPdf(doc) {
@@ -202,6 +226,34 @@ function pageCount(pdfPath) {
   const pages = Number(/^Pages:\s+(\d+)/m.exec(info)?.[1])
   if (!pages) throw new Error('pdfinfo reported no pages')
   return pages
+}
+
+/** Characters of extractable text per page, ignoring whitespace. */
+function textPerPage(pdfPath, pages) {
+  const text = execFileSync('pdftotext', [pdfPath, '-'], { encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore'], maxBuffer: 256 * 1024 * 1024 })
+  return text.replace(/\s+/g, '').length / pages
+}
+
+/** Below this much text per page a file is treated as a scan with no usable text layer. */
+const MIN_TEXT_PER_PAGE = 200
+
+/**
+ * Adds a text layer with ocrmypdf. `skip-text` OCRs only the pages with no
+ * text; `force-ocr` discards whatever text the file has and OCRs every page
+ * from its image. Returns the new file's path.
+ */
+function runOcr(pdfPath, mode) {
+  const out = pdfPath.replace(/\.pdf$/, `.${mode}.pdf`)
+  execFileSync('ocrmypdf', [
+    '--quiet',
+    `--${mode}`,
+    '--output-type', 'pdf',
+    '--optimize', '0',
+    '--language', 'eng',
+    pdfPath,
+    out,
+  ], { stdio: ['ignore', 'ignore', 'inherit'] })
+  return out
 }
 
 /** One page as a WebP; returns its pixel size. */
@@ -272,37 +324,56 @@ async function fetchOne(doc, manifest) {
   const slug = slugify(doc.title)
   const thumbFile = resolve(OUT_DIR, `${slug}.webp`)
   const prior = manifest.documents[doc.title]
-  if (!flags.has('--force') && prior && prior.source === doc.source && (prior.thumbPage ?? 1) === doc.thumbPage && existsSync(thumbFile)) {
+  const sameOcr = (prior?.ocrRequest ?? 'auto') === doc.ocr
+  if (!flags.has('--force') && prior && prior.source === doc.source && (prior.thumbPage ?? 1) === doc.thumbPage && sameOcr && existsSync(thumbFile)) {
     console.log(`= ${doc.title} (already archived)`)
     return
   }
 
   console.log(`> ${doc.title}`)
-  const got = await fetchPdf(doc)
+  // Redoing a file whose source hasn't changed (new OCR mode, new thumbnail
+  // page) starts from the cached download instead of asking the site again.
+  const cached = prior && prior.source === doc.source && resolve(CACHE, `${prior.sourceSha256 ?? prior.sha256}.pdf`)
+  const got = cached && existsSync(cached)
+    ? { bytes: readFileSync(cached), from: prior.fetchedFrom }
+    : await fetchPdf(doc)
   if (!got) {
     console.warn(`  ! no PDF from ${doc.fetchUrl || doc.source} or the Wayback Machine; skipped`)
     return
   }
-  if (got.bytes.length > MAX_BYTES) {
-    console.warn(`  ! ${(got.bytes.length / 1e6).toFixed(1)} MB is over the bucket's limit; split it or raise the limit`)
+  const sourceSha256 = createHash('sha256').update(got.bytes).digest('hex')
+  mkdirSync(CACHE, { recursive: true })
+  const sourcePath = resolve(CACHE, `${sourceSha256}.pdf`)
+  writeFileSync(sourcePath, got.bytes)
+  const pages = pageCount(sourcePath)
+
+  let ocr = null
+  if (doc.ocr === 'redo') ocr = 'force-ocr'
+  else if (doc.ocr === 'auto' && textPerPage(sourcePath, pages) < MIN_TEXT_PER_PAGE) ocr = 'skip-text'
+  let pdfPath = sourcePath
+  if (ocr) {
+    console.log(`  running ocrmypdf (${ocr}) on ${pages} ${pages === 1 ? 'page' : 'pages'}…`)
+    pdfPath = runOcr(sourcePath, ocr)
+  }
+  const bytes = readFileSync(pdfPath)
+  if (bytes.length > MAX_BYTES) {
+    console.warn(`  ! ${(bytes.length / 1e6).toFixed(1)} MB is over the bucket's limit; split it or raise the limit`)
     return
   }
-
-  const sha256 = createHash('sha256').update(got.bytes).digest('hex')
-  mkdirSync(CACHE, { recursive: true })
-  const pdfPath = resolve(CACHE, `${sha256}.pdf`)
-  writeFileSync(pdfPath, got.bytes)
-  const pages = pageCount(pdfPath)
+  const sha256 = createHash('sha256').update(bytes).digest('hex')
+  if (pdfPath !== resolve(CACHE, `${sha256}.pdf`)) writeFileSync(resolve(CACHE, `${sha256}.pdf`), bytes)
 
   mkdirSync(OUT_DIR, { recursive: true })
   const { width, height } = renderThumb(pdfPath, Math.min(doc.thumbPage, pages), thumbFile)
 
-  const url = await upload(got.bytes, `${sha256}.pdf`)
+  const url = await upload(bytes, `${sha256}.pdf`)
   manifest.documents[doc.title] = {
     url,
     sha256,
-    bytes: got.bytes.length,
+    bytes: bytes.length,
     pages,
+    ...(ocr ? { ocr, sourceSha256 } : {}),
+    ...(doc.ocr === 'auto' ? {} : { ocrRequest: doc.ocr }),
     thumb: { src: `/documents/${slug}.webp`, width, height },
     thumbPage: Math.min(doc.thumbPage, pages),
     source: doc.source,
@@ -310,11 +381,92 @@ async function fetchOne(doc, manifest) {
     retrieved: new Date().toISOString().slice(0, 10),
   }
   writeManifest(manifest)
-  console.log(`  ✓ ${pages} ${pages === 1 ? 'page' : 'pages'}, ${(got.bytes.length / 1e3).toFixed(0)} KB, ${sha256.slice(0, 12)}…`)
+  console.log(`  ✓ ${pages} ${pages === 1 ? 'page' : 'pages'}, ${(bytes.length / 1e3).toFixed(0)} KB, ${sha256.slice(0, 12)}…${ocr ? ` (OCR: ${ocr})` : ''}`)
+}
+
+/** The hosted copy of a document, from the cache or downloaded again from the bucket. */
+async function hostedPdf(title) {
+  const entry = readManifest().documents?.[title]
+  if (!entry) throw new Error(`"${title}" isn't in wiki/documents.json; fetch it first`)
+  const path = resolve(CACHE, `${entry.sha256}.pdf`)
+  if (!existsSync(path)) {
+    const res = await fetch(entry.url)
+    if (!res.ok) throw new Error(`HTTP ${res.status} for ${entry.url}`)
+    mkdirSync(CACHE, { recursive: true })
+    writeFileSync(path, Buffer.from(await res.arrayBuffer()))
+  }
+  return { path, entry }
+}
+
+/** `text "Title" [N-M]`: each page's text, headed `=== Page N ===`. */
+async function printText() {
+  const [title, range = ''] = names
+  if (!title) throw new Error('Usage: text "Page title" [N-M]')
+  const { path, entry } = await hostedPdf(title)
+  const [from, to] = range ? range.split('-').map(Number) : [1, entry.pages]
+  for (let n = from; n <= (to || from); n++) {
+    const text = execFileSync('pdftotext', ['-f', String(n), '-l', String(n), path, '-'], { encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore'] })
+    console.log(`=== Page ${n} ===\n${text.replace(/\f/g, '').trimEnd()}\n`)
+  }
+}
+
+/** `page "Title" N`: page N as a 1400px-wide PNG, for reading what OCR couldn't. */
+async function renderPage() {
+  const [title, n = '1'] = names
+  if (!title) throw new Error('Usage: page "Page title" N')
+  const { path } = await hostedPdf(title)
+  const dir = resolve(CACHE, 'pages')
+  mkdirSync(dir, { recursive: true })
+  const out = resolve(dir, `${slugify(title)}-${n}`)
+  execFileSync('pdftoppm', ['-f', n, '-l', n, '-singlefile', '-png', '-scale-to-x', '1400', '-scale-to-y', '-1', path, out], { stdio: 'ignore' })
+  console.log(`${out}.png`)
+}
+
+/** `lookup <url>`: Wayback captures under a URL prefix, newest last. */
+async function lookup() {
+  const [url] = names
+  if (!url) throw new Error('Usage: lookup <url or url prefix>')
+  const query = `https://web.archive.org/cdx/search/cdx?url=${encodeURIComponent(url)}&matchType=prefix&filter=statuscode:200&collapse=urlkey&fl=timestamp,original,mimetype,length&limit=200`
+  const res = await politeFetch(query)
+  if (!res.ok) throw new Error(`HTTP ${res.status} from the Wayback Machine`)
+  const rows = (await res.text()).trim().split('\n').filter(Boolean)
+  if (!rows.length) console.log('No captures.')
+  for (const row of rows) {
+    const [timestamp, original, mime, length] = row.split(' ')
+    console.log(`${mime.padEnd(16)} ${String(length).padStart(9)}  https://web.archive.org/web/${timestamp}id_/${original}`)
+  }
+}
+
+/**
+ * `probe <url>`: download a candidate (falling back to its newest Wayback
+ * capture) into the cache and print its metadata and first two pages of text,
+ * to check it is the document before its URL goes into `source_url`. A scan
+ * with no text says so; render its pages with pdftoppm to read them.
+ */
+async function probe() {
+  const [url] = names
+  if (!url) throw new Error('Usage: probe <url>')
+  const got = await fetchPdf({ source: url, fetchUrl: '' })
+  if (!got) throw new Error('No PDF there, directly or in the Wayback Machine')
+  const sha256 = createHash('sha256').update(got.bytes).digest('hex')
+  const dir = resolve(CACHE, 'probe')
+  mkdirSync(dir, { recursive: true })
+  const path = resolve(dir, `${sha256}.pdf`)
+  writeFileSync(path, got.bytes)
+  const info = execFileSync('pdfinfo', [path], { encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore'] })
+  const pages = Number(/^Pages:\s+(\d+)/m.exec(info)?.[1]) || 1
+  const text = execFileSync('pdftotext', ['-l', '2', path, '-'], { encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore'] })
+  console.log(`From:   ${got.from}\nFile:   ${path}\nSize:   ${(got.bytes.length / 1e3).toFixed(0)} KB, sha256 ${sha256}`)
+  console.log(info.split('\n').filter(l => /^(Title|Author|Creator|CreationDate|Pages):/.test(l)).join('\n'))
+  console.log(`Text:   ${textPerPage(path, pages) < MIN_TEXT_PER_PAGE ? 'little or none (a scan; it will be OCR\'d)' : 'yes'}\n--- first two pages ---\n${text.trim().slice(0, 3000)}`)
 }
 
 async function main() {
   if (command === 'init') return initBucket()
+  if (command === 'probe') return probe()
+  if (command === 'text') return printText()
+  if (command === 'page') return renderPage()
+  if (command === 'lookup') return lookup()
 
   const manifest = readManifest()
   manifest.documents ??= {}

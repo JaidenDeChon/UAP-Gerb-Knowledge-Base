@@ -1,5 +1,11 @@
 ---
 name: "Beneath the Surface (Gallaudet White Paper)"
+date: "2024-03"
+issuer: "The Sol Foundation"
+doc_kind: paper
+provenance: official
+rights: copyrighted
+source_url: "https://thesolfoundation.org/publications/beneath-the-surface-we-may-learn-more-about-uap-by-looking-in-the-ocean/"
 tags:
   - document
 ---
@@ -8,9 +14,15 @@ tags:
 
 ## Argument
 
-Gallaudet calls for action to uncover the "unknown unknowns" of UAP and USOs. He cites what he calls the Department of Defense's "concerning non-reaction" to unidentified objects with unexplainable characteristics entering US waters. The executive summary notes that pilots, credible observers and calibrated military instruments have recorded objects crossing the air-sea interface in ways not possible for human-made craft. It also notes that congressional legislation defines UAP as trans-medium vehicles. The paper argues that the engineering, materials science and physics behind such objects could transform transportation, energy, agriculture, communication, computing, manufacturing and space travel, and that further study "may lead to discoveries that make those of the Scientific Revolution in the 17th and 18th centuries look like baby steps."
+Gallaudet calls for action to uncover the "unknown unknowns" of UAP and USOs. Gerb sums up the paper's complaint as the Department of Defense's "concerning non-reaction" to unidentified objects with unexplainable characteristics entering US waters. The executive summary notes that pilots, credible observers and calibrated military instruments have recorded objects crossing the air-sea interface in ways not possible for human-made craft. It also notes that congressional legislation defines UAP as trans-medium vehicles. The paper argues that the engineering, materials science and physics behind such objects could transform transportation, energy, agriculture, communication, computing, manufacturing and space travel, and that further study "may lead to discoveries that make those of the Scientific Revolution in the 17th and 18th centuries look like baby steps."
 
-The paper stresses the gap between the attention paid to UAP in the sky and in the ocean. It points to AARO's [[AARO Historical Report Volume 1|Historical Report Volume 1]], which contains no reference to any USO case or maritime whistleblower.
+> [!edit] Attribution clarified 16 October 2026
+> Earlier versions gave the phrase "concerning non-reaction" as Gallaudet's. It is Gerb's, from his USO video; the paper itself does not use it.
+
+The paper stresses the gap between the attention paid to UAP in the sky and in the ocean. Gerb adds that AARO's [[AARO Historical Report Volume 1|Historical Report Volume 1]] contains no reference to any USO case or maritime whistleblower.
+
+> [!edit] Attribution clarified 16 October 2026
+> Earlier versions said the paper points to AARO's Historical Report Volume 1. That observation is Gerb's, in his USO video; the paper discusses AARO's 2023 annual report instead.
 
 ## Cases Cited
 

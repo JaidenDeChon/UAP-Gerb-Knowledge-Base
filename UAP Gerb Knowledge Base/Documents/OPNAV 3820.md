@@ -1,5 +1,7 @@
 ---
 name: "OPNAV 3820"
+doc_kind: directive
+provenance: official
 tags:
   - document
   - regulation
@@ -9,7 +11,10 @@ OPNAV 3820 is a directive issued on January 23, 1954 by the Office of the Chief 
 
 ## Content and Requirements
 
-The directive required every UAP sighting by Navy personnel or platforms to be sent to three intelligence recipients at once: the director of ATIC (the Air Force's main technical intelligence body), the director of USAF Intelligence, and the Director of Naval Intelligence. Naval UAP data therefore reached Air Force intelligence immediately. It went to ATIC rather than to Project Blue Book, which kept credible Navy sightings out of any publicly accountable investigation.
+The directive required every UAP sighting by Navy personnel or platforms to be sent to three intelligence recipients at once: the director of ATIC (the Air Force's main technical intelligence body), the director of USAF Intelligence, and the Director of Naval Intelligence. Naval UAP data therefore reached Air Force intelligence immediately. ATIC also ran Project Blue Book; researchers argue that routing Navy reports straight to the intelligence directors kept credible sightings out of any publicly accountable investigation.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said the reports went to ATIC "rather than to Project Blue Book". Blue Book was an ATIC project, so the contrast doesn't hold; the claim about accountability is the researchers'.
 
 The directive used the term "flying object reports" instead of "UFO" or a similar name. This added to the mix of terms that has historically made FOIA searches for military UAP records harder.
 
@@ -21,9 +26,12 @@ A copy of OPNAV 3820 appears in Donald Keyhoe's book *The Flying Saucer Conspira
 
 OPNAV 3820 was one of several regulations that shaped military UAP reporting from 1953 to 1969 and beyond:
 
-- [[USAF Regulation 200-2]] (1953): sent confirmed Air Force UFO reports to ATIC rather than Blue Book.
+- [[USAF Regulation 200-2]] (1953): made ATIC, which ran Project Blue Book, responsible for analysing Air Force UFO reports.
 - [[JANAP 146c]] (1954): prohibited public discussion of officially reported sightings, under criminal penalties.
 - OPNAV 3820 (January 1954): set Navy reporting requirements under the authority of JANAP 146c.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said AFR 200-2 sent reports to ATIC "rather than Blue Book"; Blue Book was ATIC's project (AFR 200-2, 26 August 1953, paragraph 4a).
 
 Together, these regulations created a closed system that sent every credible military UAP report, including maritime [[Unidentified Submerged Object (USO)|USO]] sightings, into classified channels managed by ATIC. The system had no mechanism for public disclosure.
 

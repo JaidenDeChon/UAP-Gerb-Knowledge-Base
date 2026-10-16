@@ -165,6 +165,8 @@ export interface NoteDocument {
   source?: string
   /** The hosted file, when there is one. */
   file?: DocumentFile
+  /** Route of its reading text in `Documents/Transcriptions/`, when there is one. */
+  transcription?: string
 }
 
 export type DocumentProvenance = 'official' | 'leaked' | 'disputed'
@@ -183,6 +185,8 @@ export interface DocumentFile {
   fetchedFrom: string
   /** `YYYY-MM-DD`. */
   retrieved: string
+  /** The text layer was added by OCR (`ocrmypdf`), so it may hold misreadings. */
+  ocr?: boolean
 }
 
 export interface NoteLinks {

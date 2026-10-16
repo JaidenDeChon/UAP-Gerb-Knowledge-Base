@@ -63,7 +63,11 @@ cd app
 node scripts/fetch-documents.mjs check                 # what's archived, what's still to fetch, what's link-only
 node scripts/fetch-documents.mjs fetch                 # every Documents note with a source and hostable rights
 node scripts/fetch-documents.mjs fetch "Hottel Memo"   # just one
-node scripts/fetch-documents.mjs fetch "Hottel Memo" --force   # redo it
+node scripts/fetch-documents.mjs fetch "Hottel Memo" --force   # redo it (starts from the cached download)
+node scripts/fetch-documents.mjs lookup https://www.cia.gov/readingroom/docs/   # Wayback captures under a URL
+node scripts/fetch-documents.mjs probe <url>           # download a candidate and show what it is
+node scripts/fetch-documents.mjs text "Hottel Memo" 2-2   # a hosted file's text, page by page
+node scripts/fetch-documents.mjs page "Hottel Memo" 2     # render a page to a PNG
 ```
 
 For each document it:
@@ -74,11 +78,68 @@ For each document it:
 4. Uploads the PDF to the public `documents` bucket in the site's Supabase project (`uap-gerb-kb`), named `<sha256>.pdf`. A file never changes under its name, so it's served with a one-year cache.
 5. Records URL, hash, size, page count, thumbnail, source, the copy it fetched from and the date in `app/wiki/documents.json`.
 
-It needs poppler (`pdfinfo`, `pdftoppm`) and `cwebp` (`brew install poppler webp`), and `SUPABASE_URL` plus `SUPABASE_SERVICE_ROLE_KEY` in the environment or in `app/.env.local`, which git ignores. The service-role key can write to the bucket, so it never leaves the machine that runs the script and never reaches the site. Get it from the Supabase dashboard (Project settings → API keys) or with `supabase projects api-keys --project-ref xecbgycxisqdrsswtecs`. `fetch-documents.mjs init` creates the bucket. It has already been run.
+It needs poppler (`pdfinfo`, `pdftoppm`, `pdftotext`), `cwebp` and `ocrmypdf` (`brew install poppler webp ocrmypdf`), and `SUPABASE_URL` plus `SUPABASE_SERVICE_ROLE_KEY` in the environment or in `app/.env.local`, which git ignores. The service-role key can write to the bucket, so it never leaves the machine that runs the script and never reaches the site. Get it from the Supabase dashboard (Project settings → API keys) or with `supabase projects api-keys --project-ref xecbgycxisqdrsswtecs`. `fetch-documents.mjs init` creates the bucket. It has already been run.
 
 The bucket's file size limit is 50 MB. Very large collections (Blue Book) should go up as individual case files, not merged volumes.
 
 PDFs are not in git. The bucket holds the only hosted copy, and `documents.json` holds each file's hash and where it came from, so any file can be fetched again and checked.
+
+## OCR
+
+Many government files are scans: page images with no text, or with a poor text layer from an old OCR pass. `fetch` handles both with [ocrmypdf](https://ocrmypdf.readthedocs.io/) (Tesseract underneath):
+
+- **No text** (under 200 characters a page): it runs `ocrmypdf --skip-text`, which adds an invisible text layer to the pages that lack one and leaves the page images untouched.
+- **A poor existing layer:** add `ocr: redo` to the note and run `fetch "Title" --force`. That runs `--force-ocr`, which discards the old layer and OCRs every page afresh from its image. It re-renders each page, so the file grows (the Hottel memo went from 133 KB to 943 KB); use it only on pure scans.
+- `ocr: off` skips OCR for a file whose text should be left as it is.
+
+The OCR'd file is the one hosted, so the viewer's text is selectable and searchable. The manifest records `ocr` (which mode ran) and `sourceSha256` (the file as downloaded) beside the hosted file's `sha256`. The viewer says when a text layer came from OCR.
+
+OCR output is raw: misread letters, broken words, stamps and handwriting read as noise. Readers get it cleaned up in a transcription.
+
+## Transcriptions
+
+A transcription is a clean reading text of a document, checked against the page images. Write one for every hosted document whose text came from OCR, or whose own text layer is visibly bad. A born-digital file (the AARO and ODNI reports) doesn't need one.
+
+It lives at `Documents/Transcriptions/<Document title> (Transcription).md`. The suffix keeps a bare `[[Document title]]` link pointing at the document's page, not its transcription. Transcriptions stay out of the knowledge graph, like video transcripts. The sidebar lists them under Documents → Transcriptions, and the document's viewer links to its own. The humanizer skips the folder.
+
+```markdown
+---
+name: "Hottel Memo (Transcription)"
+document: "Hottel Memo"
+transcribed: "2026-10-16"
+method: "ocrmypdf 17.13 (Tesseract 5.5, force-ocr), checked line by line against the page images"
+tags:
+  - transcription
+---
+
+A reading text of the [[Hottel Memo]], from the FBI Vault's two-page release. …
+
+## Page 1
+…
+```
+
+**How to make one:**
+
+1. `node scripts/fetch-documents.mjs text "Title"` prints the OCR text page by page (`text "Title" 3-5` for a range).
+2. For each page, `node scripts/fetch-documents.mjs page "Title" N` renders it to a PNG; read it. The image is the authority, and the OCR is only a first draft. Never transcribe a page you haven't looked at.
+3. Write the page under `## Page N`, following the conventions below. A long document can be done in batches of pages, but finish every page before you commit; a half-done transcription is worse than none.
+
+**Conventions.** The aim is a text that reads smoothly and says exactly what the page says, no more:
+
+- **Fix what OCR broke; keep what the document says.** Correct misread letters (`Wemberger` → `Weinberger`, `mdlvidual` → `individual`) silently, since those are the scan's errors, not the author's. Keep the author's own errors as written and mark each one `[sic]` once: `the controling [sic] mechanism`. If you can't tell whether a mistake is the author's or the scan's, look at the image; if it's still unclear, keep the letters as printed and add `[?]`.
+- **Reflow prose.** Join lines broken mid-paragraph, rejoin words hyphenated across a line break (`approxi- mately` → `approximately`), and keep the document's paragraph breaks. Keep a hyphen that belongs in the word (`set-up`, `high-powered`).
+- **Keep the layout that carries meaning.** Put memo headers (TO, FROM, SUBJECT, DATE) in a two-column table, which renders the same in Obsidian and on the site. Keep lists, numbered paragraphs, headings and signature blocks as they are. A table in the document becomes a Markdown table when its cells are legible. A single line break inside a paragraph is lost on the site, so put lines that must stay separate (an address block, a cover sheet) in separate paragraphs.
+- **Square brackets are the transcriber's, everything else is the document's:**
+  - `[redacted]` for a blacked-out passage. Note the FOIA exemption marked beside it when there is one: `[redacted (b)(6)]`.
+  - `[illegible]` for unreadable text, or `[illegible, about 3 words]`.
+  - `[t]est`, `sauc[ers]` for letters hidden by a mark or a punch hole but certain from what remains and the context. Supply them only when no other reading fits. Otherwise use `[illegible]`.
+  - `[word?]` for a reading you think likely but can't confirm.
+  - `[sic]` as above.
+  - Italic bracketed notes for what isn't the body text: `*[handwritten: Flying Discs or Flying Saucers]*`, `*[stamp: RECEIVED]*`, `*[margin: b7C]*`, `*[printed form header: …]*`, `*[page blank]*`. Gather the stamps and marginal marks of a busy page in a short list after its text, top to bottom, so they don't break up the prose.
+- **No leaps.** Don't expand an abbreviation the document doesn't expand, don't guess at a redacted name (even one that is "known" from elsewhere), and don't modernise spelling or punctuation. Don't summarise, and don't comment on what a passage means; that belongs on the document's page.
+- **Repeated boilerplate** (a declassification stamp on every page) is noted once, under the first page that carries it, as `*[on every page: Declassified and Approved For Release 2013/06/26 : CIA-RDP79B00752A000300100010-4]*`.
+
+Then check the document's own page against the transcription. If the transcription shows the page wrong about something (a date, a figure, who wrote it), correct the page and add an edit card (see "Edit cards" in CLAUDE.md).
 
 ## How the site shows them
 
@@ -90,8 +151,22 @@ pdf.js (`pdfjs-dist`, the legacy build, since the default build needs very recen
 
 The bake (`app/wiki/documents.ts`) joins each Documents note's frontmatter with its manifest entry. It drops a file whose `rights` don't allow hosting, so an upload made by mistake can't reach a page. `/api/meta`, `/api/preview` and `/api/resolve` carry the result as `document` on the note.
 
+## In the daily video run
+
+New videos are processed by a launchd job on Jaiden's Mac, not cron, so a run missed while the Mac slept happens at the next wake. `~/Library/LaunchAgents/com.jaiden.uapgerb-check.plist` runs `~/bin/uapgerb-check.sh` every day at 9:07. When the channel has a video not yet in `.rich_videos.json`, it prepares a branch in the `~/Library/Repos/uapgerb-auto` worktree and opens Warp, where `~/bin/uapgerb-run.sh` starts Claude on `/enrich-videos N`. That skill drives `.claude/agents/video-enricher.md`, which ingests through `.claude/agents/video-ingestor.md`. The ingestor's Phase 5b does the documents work above for every document a video discusses or shows: page, source, hosting, OCR, transcription. The enricher runs that phase on already-ingested videos too, and places `::wiki-document` excerpts.
+
+For that to work unattended:
+
+- the worktree has its own `app/.env.local` with the Supabase keys (ignored by git, so it survives the run's checkouts);
+- the run's permission file, `~/Library/Application Support/uapgerb/claude-settings.json`, allows `node scripts/fetch-documents.mjs`, `pdfinfo`, `pdftotext`, `pdftoppm`, `ocrmypdf` and `WebFetch`, so sourcing and OCR don't stop for approval. `curl` is deliberately not allowed: `fetch-documents.mjs lookup` and `probe` cover what sourcing needs;
+- poppler, cwebp and ocrmypdf are installed through Homebrew, on the PATH the run scripts set.
+
 ## Still to do
 
-- **OCR.** Several scans have no text layer, including the CIA's copy of the Robertson Panel report. Running them through `ocrmypdf` before upload would make their text selectable and searchable. That needs `brew install ocrmypdf`; it isn't installed yet.
-- **The other 20 moved pages** have no `source_url` yet. Many are federal documents with an obvious official copy (both executive orders, the Atomic Energy Act, AFR 200-2, JANAP 146, the Condon Report, the Avery Technical Center environmental assessment, the 2006 GAO report). Others will stay link-only or have no public copy (the Denb Report, the Bowen Manuscript, the leaked UAPTF report).
-- **Documents mentioned without a page yet**, for example: the Twining memo, the Project Sign "Estimate of the Situation", the Moon Dust cables, the Kona Blue packet, the Immaculate Constellation report, Grusch's IG complaint (not public), the NRO "Recent Sentient Highlights" and the Wilbert Smith memo.
+- **OPNAV 3820** has no source. No copy of a 23 January 1954 OPNAV 3820 was found; the nearest is OPNAV Instruction 3820.9 of 10 November 1955 in Texas Tech's Vietnam Archive. The page still describes the 1954 directive from secondary sources.
+- **Aggregator copies.** AFR 200-2 and JANAP 146c are hosted from NICAP's scans, the only copies found. If an official copy turns up (NARA's Project Blue Book microfilm, a service archive), switch `source_url` to it.
+- **The Condon Report** is linked, not hosted: its title page carries the University of Colorado's copyright. Some claims on its page (the RB-47 launching from Carswell, the 600-mile pursuit, a CIA report of the incident) aren't in volume 1 and still need a source.
+- **The Avery Technical Center assessment** is hosted as a federal work, since the Army Corps of Engineers prepared it for the Air Force, with help from a contractor. If that call is ever doubted, set `rights: unclear` and it becomes link-only.
+- **No public copy** is known for the Bechtel tunneling report (catalogued by NTIS as PB-242 777, with no full text online), the Denb Report, SOM 1-01 or the Bowen Manuscript beyond aggregator samples, or the alleged UAPTF report beyond forum reposts.
+- **Long transcriptions can be cut off.** The API's output filter has stopped long runs of verbatim text from widely published documents (it happened with the Robertson Panel report). Transcribe such a document a few pages per pass, saving after each page.
+- **Documents mentioned without a page yet**, for example: the Twining memo, the Project Sign "Estimate of the Situation", the Moon Dust cables, the Kona Blue packet, the Immaculate Constellation report, Grusch's IG complaint (not public), the NRO "Recent Sentient Highlights" and the Wilbert Smith memo. The daily run's documents phase picks these up as videos mention them.

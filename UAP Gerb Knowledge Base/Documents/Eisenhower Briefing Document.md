@@ -1,5 +1,10 @@
 ---
 name: "Eisenhower Briefing Document"
+date: "1952-11-18"
+doc_kind: briefing
+provenance: disputed
+rights: unclear
+source_url: "https://vault.fbi.gov/Majestic%2012/Majestic%2012%20Part%2001%20(Final)/view"
 tags:
   - document
 ---
@@ -12,7 +17,10 @@ Television producer [[Jaime Shandera]] received the document on undeveloped 35 m
 
 ## Contents
 
-The document lists the twelve MJ-12 members. One of them is General Walter B. Smith, and the document names [[Walter Bedell Smith|Smith]] as the replacement for the late Forrestal on 1 August 1950. It recounts the 1947 saucer sightings, then the July 1947 [[Roswell Crash]], in which [[Nathan Twining]] and Bush directed the recovery of craft and bodies and [[Detlev Bronk]] performed autopsies and coined the term "EBE". A team including [[Donald Menzel]] concluded that the craft was non-human and probably from a distant solar system. It says [[Project Sign]], Grudge and [[Project Blue Book]] had only limited contact with MJ-12. It also describes a December 1950 crash near the Mexico–Texas border between El Indio and Guerrero involving the [[Atomic Energy Commission]] and [[Sandia National Laboratories]] (see [[1950 El Indio UFO Crash]]). It ends by citing Contingency Plan MJ-1949-04P/78 for public disclosure, a plan the [[Special Operations Manual (SOM 1-01)]] also references.
+The document lists the twelve MJ-12 members. One of them is General Walter B. Smith, and the document names [[Walter Bedell Smith|Smith]] as the replacement for the late Forrestal on 1 August 1950. It recounts the 1947 saucer sightings, then the July 1947 [[Roswell Crash]], after which, it says, [[Nathan Twining]] and Bush organised the analytical effort, and [[Detlev Bronk]] arranged the analysis of the four bodies recovered and coined the term "EBE". A team including [[Donald Menzel]] concluded that the craft was non-human and probably from a distant solar system. It says [[Project Sign]], Grudge and [[Project Blue Book]] had only limited contact with MJ-12. It also describes a December 1950 crash near the Mexico–Texas border between El Indio and Guerrero involving the [[Atomic Energy Commission]] and [[Sandia National Laboratories]] (see [[1950 El Indio UFO Crash]]). It ends by citing Contingency Plan MJ-1949-04P/78 for public disclosure, a plan the [[Special Operations Manual (SOM 1-01)]] also references.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said Twining and Bush directed the recovery and Bronk performed autopsies. The document has Twining and Bush directing the analytical effort and says the analysis of the bodies "was arranged by Dr. Bronk". Source: the copy in the FBI Vault's Majestic 12 file.
 
 ## Authentication
 

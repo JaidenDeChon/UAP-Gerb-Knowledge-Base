@@ -3,7 +3,7 @@ import { resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
 // Relative rather than the `#shared` alias — see the note in ./graph.ts.
 import type { DocumentFile, DocumentProvenance, DocumentRights, NoteDocument } from '../shared/types/wiki'
-import { VAULT_DIR } from './vault'
+import { stemToPath, VAULT_DIR } from './vault'
 
 /**
  * Primary-source documents.
@@ -110,7 +110,7 @@ export function parseDocumentManifest(raw: unknown): Record<string, DocumentFile
     const retrieved = str(e.retrieved)
     if (!title.trim() || !HTTP_RE.test(url) || !SHA_RE.test(sha256) || !bytes || !pages) continue
     if (!THUMB_RE.test(src) || !width || !height || !HTTP_RE.test(fetchedFrom) || !DAY_RE.test(retrieved)) continue
-    out[title.trim()] = { url, sha256, bytes, pages, thumb: { src, width, height }, fetchedFrom, retrieved }
+    out[title.trim()] = { url, sha256, bytes, pages, thumb: { src, width, height }, fetchedFrom, retrieved, ...(str(e.ocr) ? { ocr: true } : {}) }
   }
   return out
 }
@@ -129,12 +129,18 @@ function loadManifest(): Record<string, DocumentFile> {
   }
 }
 
+/** The vault stem of a document's transcription (see docs/documents.md, "Transcriptions"). */
+export function transcriptionStem(title: string): string {
+  return `Documents/Transcriptions/${title} (Transcription)`
+}
+
 /** Document facts and file, keyed by vault stem (`Documents/Hottel Memo`), for every Documents note. */
 export function loadDocuments(stems: string[]): Record<string, NoteDocument> {
   const manifest = loadManifest()
+  const all = new Set(stems)
   const out: Record<string, NoteDocument> = {}
   for (const stem of stems) {
-    if (!stem.startsWith('Documents/')) continue
+    if (!stem.startsWith('Documents/') || stem.startsWith('Documents/Transcriptions/')) continue
     let raw: string
     try {
       raw = readFileSync(`${VAULT_DIR}/${stem}.md`, 'utf8')
@@ -143,7 +149,10 @@ export function loadDocuments(stems: string[]): Record<string, NoteDocument> {
       continue
     }
     const title = stem.slice('Documents/'.length)
-    out[stem] = joinDocument(parseDocumentFrontmatter(frontmatterScalars(raw)), manifest[title])
+    const doc = joinDocument(parseDocumentFrontmatter(frontmatterScalars(raw)), manifest[title])
+    const transcription = transcriptionStem(title)
+    if (all.has(transcription)) doc.transcription = stemToPath(transcription)
+    out[stem] = doc
   }
   return out
 }

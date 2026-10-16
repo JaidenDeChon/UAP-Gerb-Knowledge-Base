@@ -1,6 +1,12 @@
 ---
 name: "Schumer Amendment (NDAA)"
-date: 2023
+date: "2023-07-13"
+issuer: "United States Senate"
+doc_kind: amendment
+provenance: official
+rights: public-domain
+source_url: "https://www.congress.gov/amendment/118th-congress/senate-amendment/797/text"
+fetch_url: "https://www.govinfo.gov/content/pkg/CREC-2023-07-13/pdf/CREC-2023-07-13-pt1-PgS2953.pdf"
 tags:
   - document
 ---

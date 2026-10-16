@@ -1,5 +1,9 @@
 ---
 name: "Special Operations Manual (SOM 1-01)"
+date: "1954-04"
+doc_kind: manual
+provenance: disputed
+rights: unclear
 tags:
   - document
 ---

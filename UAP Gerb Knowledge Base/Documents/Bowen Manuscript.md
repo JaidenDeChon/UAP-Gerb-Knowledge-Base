@@ -1,10 +1,16 @@
 ---
 name: "Bowen Manuscript"
+doc_kind: manuscript
+provenance: disputed
+rights: copyrighted
 tags:
   - document
 ---
 
-The Bowen Manuscript is the typed manuscript of *Encyclopedia of Flying Saucers* by Vernon Bowen, a history of UFO cases up to 1960. Bowen sent it to the US Air Force for review in 1960 and never got it back. It resurfaced in 1999, when researcher [[Tim Cooper]] obtained it from the Freedom of Information Act office at Fort Meade, Maryland, stamped Top Secret MAGIC and annotated by hand. [[Ryan S. Wood]] cites it as one of the few [[MJ-12 Documents]] that exist as original paper rather than photocopies or film.
+The Bowen Manuscript is the typed manuscript of *Encyclopedia of Flying Saucers* by Vernon Bowen, a history of UFO cases from 1947 to 1954, dated "1959?" by the researchers who published it. Bowen sent it to the US Air Force for review in 1960 and never got it back. It resurfaced in 1999, when researcher [[Tim Cooper]] obtained it from the Freedom of Information Act office at Fort Meade, Maryland, stamped Top Secret MAGIC and annotated by hand. [[Ryan S. Wood]] cites it as one of the few [[MJ-12 Documents]] that exist as original paper rather than photocopies or film.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions described it as a history of cases up to 1960. The copy published on majesticdocuments.com (a sample of 14 of its 339 pages) describes it as covering 1947 to 1954 and dates it "1959?".
 
 ## Annotations
 

@@ -6,6 +6,7 @@ import { buildPlaces } from './places'
 import { loadPortraits } from './portraits'
 import { buildPreviews } from './preview'
 import { buildTree } from './tree'
+import { walkVault } from './vault'
 import { buildVideos } from './videos'
 
 /**
@@ -64,7 +65,8 @@ export function bakeWikiData(): WikiData {
   })
 
   // Sparse too: Documents notes, with their file when one is hosted.
-  const byDocStem = loadDocuments([...stemByPath.values()])
+  // Every stem, not just the graph's: transcriptions stay out of the graph.
+  const byDocStem = loadDocuments(walkVault())
   const documents: BakedDocuments = {}
   payload.nodes.forEach((node) => {
     const stem = stemByPath.get(node.p)

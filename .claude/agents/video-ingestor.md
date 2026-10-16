@@ -278,6 +278,23 @@ Use as many sections as the available information warrants.]
 
 ---
 
+## Phase 5b: Documents
+
+Gerb builds most videos on documents: memos, reports, letters, FOIA releases, regulations, laws, testimony. Each document the video discusses or shows on screen ("on screen now", "this memo", "page 32 of the report") gets a page in `Documents/`, and, where its rights allow, its PDF hosted, OCR'd and transcribed. `docs/documents.md` is the full reference; read it before your first document. Per document:
+
+1. **Find or create its page.** Search `Documents/` (and Concepts/Events/Operations, where older document pages may still sit) for the document under every name the transcript uses. Write or expand the page per Phase 5's standards, tagged `document`: who issued it, when, what it says, and how Gerb uses it. A whole collection (MJ-12, Blue Book) stays a Concepts or Operations page, and its individual documents get their own pages when the video treats them individually.
+2. **Pin down which document it is.** Real title, date, issuer, report number. Gerb sometimes misdates a document or credits the wrong person; the page uses the document's own details and says what Gerb said.
+3. **Source it.** Find the issuer's own copy in the order `docs/documents.md` gives (agency reading rooms first, then the National Archives, then foreign archives, then aggregators only as a last resort, labelled as such). Government CDNs often refuse scripts: `node scripts/fetch-documents.mjs lookup <url-prefix>` (from `app/`) lists the Wayback Machine's captures under a URL, and `node scripts/fetch-documents.mjs probe <url>` downloads a candidate (through the Wayback Machine if the site refuses) and prints its metadata and opening text. Check it really is this document (title, date and issuer in its text or page images; a cover letter is not the report it covers). Never guess a URL into `source_url`.
+4. **Set the frontmatter** (`date`, `issuer`, `doc_kind`, `provenance`, `rights`, `source_url`, and `fetch_url` / `thumb_page` / `ocr` when needed). Be conservative on `rights`: only US federal works and openly licensed material are `public-domain` / `open-licence`. Books, private papers and leaks are `copyrighted` or `unclear` and are linked, never hosted. A document that isn't public at all keeps a page with no `source_url`.
+5. **Archive it.** From `app/`, run `node scripts/fetch-documents.mjs fetch "<Title>"`. It downloads, adds an OCR text layer to scans, renders the thumbnail, uploads to the Supabase bucket and records the file in `app/wiki/documents.json`. Read its output. If a file already carries a poor text layer (gibberish in `text`), set `ocr: redo` and run it again with `--force`.
+6. **Transcribe it** when its text came from OCR or is visibly bad: `Documents/Transcriptions/<Title> (Transcription).md`, every page checked against its image (`fetch-documents.mjs text` for the OCR draft, `fetch-documents.mjs page "<Title>" N` for the image, which you read). Follow the transcription conventions in `docs/documents.md` exactly: OCR misreads corrected silently, the author's own errors kept with `[sic]`, prose reflowed, editorial marks in square brackets, no guessing at redactions and no leaps. For a very long document (over about 60 pages), transcribe the pages the video discusses and list the rest in your report as left to do; never commit a page you haven't read.
+7. **Check the page against the document.** Where the document shows the page (or the video summary) wrong about a fact, correct it and add an edit card beneath the paragraph (see "Edit cards" in CLAUDE.md).
+8. **Link it.** The video summary links the document's page on first mention.
+
+List every document in your summary: created or expanded, source found (or why not), hosted or linked-only, OCR mode, transcription done (and any pages left), and every correction made.
+
+---
+
 ## Phase 6: Handle Duplicates
 
 If you find multiple pages for the same entity during your searches:
@@ -317,6 +334,7 @@ Report:
 - Any ambiguous duplicates flagged for user review
 - Any wikilinks updated to canonical pages
 - Any entities you couldn't create a page for and why
+- Documents (Phase 5b): each one's page, source, hosting, OCR and transcription status, and corrections
 
 ---
 

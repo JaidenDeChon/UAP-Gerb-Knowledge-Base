@@ -1,10 +1,19 @@
 ---
 name: "Executive Order 10501"
+date: "1953-11-05"
+issuer: "President of the United States"
+doc_kind: executive-order
+provenance: official
+rights: public-domain
+source_url: "https://www.govinfo.gov/content/pkg/FR-1953-11-10/pdf/FR-1953-11-10.pdf"
 tags:
   - document
 ---
 
-Executive Order 10501, "Safeguarding Official Information in the Interests of the Defense of the United States," is the classification order President [[Dwight D. Eisenhower]] issued on 5 November 1953. It replaced Truman's Executive Order 10290 and took effect on 15 December 1953. It set three levels of classified defense information, Top Secret, Secret and Confidential, and dropped the "Restricted" level that had been in use before. It also cut back the number of agencies allowed to classify information: original classification authority was withdrawn from 28 agencies and limited to the agency head in 17 others, leaving it mainly with agencies directly responsible for national defense.
+Executive Order 10501, "Safeguarding Official Information in the Interests of the Defense of the United States," is the classification order President [[Dwight D. Eisenhower]] issued on 5 November 1953. It replaced Truman's Executive Order 10290 and took effect on 15 December 1953. It set three levels of classified defense information, Top Secret, Secret and Confidential, and dropped the "Restricted" level that had been in use before. It also cut back the number of agencies allowed to classify information. Section 2 gives no original classification authority to agencies with no direct responsibility for national defense, and lets agencies with partial responsibility classify only through their head, leaving it mainly with agencies directly responsible for national defense. Accounts of the order put the result at 28 agencies stripped of the authority and 17 limited to their heads; those figures are not in the order itself.
+
+> [!edit] Attribution clarified 16 October 2026
+> Earlier versions gave the figures of 28 and 17 agencies as the order's own. The order (18 FR 7049, section 2) sets out three tiers of agencies without counting them; the figures come from accounts of the order.
 
 ## In Gerb's research
 
