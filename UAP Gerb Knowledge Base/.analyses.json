@@ -315,7 +315,7 @@
       "id": "L0004",
       "slice": "S001-links",
       "found_at": "2026-10-16T03:34:34Z",
-      "status": "open",
+      "status": "written",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -369,7 +369,9 @@
       "not_said_check": "Searched all transcripts for Holloman and caption forms ('Holloman', 'Hollowman', 'Hollowan', 'Hollman', 'Halloman'): it appears once per transcript in Whistleblowers Vol.1, Corso, Edwards Vol.2, Dugway, Wilson-Davis, Sandia, Aztec, Peru and Lockheed, so no video sets two dates side by side. 'Red Canyon' appears only in the Corso video, with no mention of Holloman nearby.",
       "weakest_link": "It may be a slip of the tongue rather than a real disagreement in sources; the writer needs the outside literature (Emenegger/Sandler, the Muroc 1954 story) to say which version Gerb's sources actually support. The Corso coincidence is weak on its own (a different place on the range, and only the year matches).",
       "surprise": 2,
-      "support": 4
+      "support": 4,
+      "resolved_at": "2026-10-16T04:24:08Z",
+      "analysis": "Analyses/The Holloman landing Bush confirmed is the film story, not Eisenhower's 1954 deal.md"
     },
     {
       "id": "L0005",
