@@ -9,20 +9,20 @@ videos: ["Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Le
 tags: [analysis]
 ---
 
-Gerb tells the [[Kona Blue]] story as two blocked transfers with two sets of villains: [[James Clapper]] for a first attempt in 2008 or 2009, and [[Glenn Gaffney]] "and possibly" [[Robert Cardillo]] for the 2011 one. In other videos he names Clapper's inner circle on the crash-retrieval portfolio, and one of its seats is the Deputy Director of National Intelligence for Intelligence Integration, held by [[Michael Dempsey]]. Gerb never mentions that Cardillo was the first person to hold that seat, appointed by Clapper, and was in it in 2011.
+Gerb tells the [[Kona Blue]] story as two blocked transfers with two sets of villains: [[James Clapper]] for a first attempt in 2008 or 2009, and [[Glenn Gaffney]] "and possibly" [[Robert Cardillo]] for the 2011 one. In other videos he names Clapper's inner circle on the crash-retrieval portfolio, and one of its seats is the Deputy Director of National Intelligence for Intelligence Integration, held by [[Michael Dempsey]]. Gerb never mentions that Cardillo was the first person to hold that seat, that Clapper appointed him to it, or that he held it in 2011.
 
 ## The finding
 
 From September 2010 to 2014 Cardillo was Clapper's Deputy DNI for Intelligence Integration. Dempsey took the post in August 2014. So if Cardillo had a part in stopping the 2011 transfer, as Gerb suspects, he did it from inside Clapper's own office, in the seat Gerb lists among Clapper's "goons". The two blocked attempts that Gerb tells separately might then lead back to the same man at the top.
 
-That's as far as the evidence goes. It doesn't show that Cardillo blocked anything, or that Clapper had any role in 2011.
+The evidence goes no further than that. It doesn't show that Cardillo blocked anything, or that Clapper had any role in 2011.
 
 ## What cuts against it
 
 - The link is almost automatic. Every Deputy DNI serves under the DNI, and Clapper was DNI from 9 August 2010.
 - Cardillo's role is an allegation. Gerb credits it to Rob Jones, [[Eric Davis]] and [[Christopher Sharp]], and calls it "still alleged". The document Gerb cites names Gaffney, and Gaffney has denied it.
 - The Clapper half rests on memory. Gerb ties Clapper to the first attempt "off the top of my head".
-- The scout's earlier link doesn't hold. The lead had Cardillo as DIA deputy director when [[AAWSAP]] was awarded in September 2008. His NGA biography lumps his DIA jobs together as 2006 to 2010, and Wikipedia gives his term as deputy director as April to August 2010. In 2008 he was probably DIA's deputy director for analysis, which is too far removed to count.
+- An earlier version of this link doesn't hold. It had Cardillo as DIA deputy director when [[AAWSAP]] was awarded in September 2008. His NGA biography lumps his DIA jobs together as 2006 to 2010, and Wikipedia gives his term as deputy director as April to August 2010. In 2008 he was probably DIA's deputy director for analysis, which is too far removed to count.
 - The official record says something different. [[AARO]]'s history of Kona Blue, as search results summarize it, says the DHS deputy secretary turned the proposal down for lack of justification. It mentions no ODNI or CIA veto.
 
 ## The evidence
@@ -37,7 +37,7 @@ No source turned up that ties Cardillo's ODNI post, or Clapper, to the Kona Blue
 
 ## What would settle it
 
-The decision memo or briefing record for the 2011 Kona Blue request would settle it, if it shows whether ODNI signed off or objected. So would the unredacted document Representative Burchett entered into the record, which names Gaffney. If either one names the Deputy DNI for Intelligence Integration, or Clapper, this stops being a coincidence of the org chart.
+The decision memo or briefing record for the 2011 Kona Blue request would answer the question if it shows whether ODNI signed off or objected. So would the unredacted document Representative Burchett entered into the record, which names Gaffney. If either one names the Deputy DNI for Intelligence Integration, or Clapper, this stops being a coincidence of the org chart.
 
 ## Sources
 
