@@ -110,6 +110,8 @@ Length: as short as the evidence allows, usually 400 to 900 words.
 - Call the presenter **Gerb**, never "the host" or "the narrator". Never wikilink his name; he has no page.
 - Attribute every claim: "Fouche says", "according to Weygandt". A witness's account is reported, not endorsed and not debunked. The analysis's own inference is marked as inference: "this suggests", "if these are the same man".
 - Quotes from transcripts are verbatim, including their stumbles. Fix nothing inside quotation marks.
+- Never mention how the post was made: no "scout", "lead", "writer", "slice" or "the pipeline". The reader sees a researched post, not its workflow.
+- Keep quotation marks out of the `dek`; put quotes in the body.
 - Confirm who is speaking before you attribute a quote. Cold-open montages, clips Gerb plays and interview cross-talk run speakers together in the captions. If the speaker isn't clear from the passage, say so ("a voice in the montage says") or don't rely on the quote.
 - The page-humanizer pass runs after the writer, but write cleanly in the first place.
 - Don't add an authorship note to the body. The app's header strip on every analysis already says that an AI research agent found and wrote it from the knowledge base and checked it against the transcripts.
