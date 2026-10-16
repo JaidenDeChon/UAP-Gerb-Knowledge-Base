@@ -78,7 +78,7 @@ events:
   - date: "1952-04-24"
     title: "Ruppelt points to parallel programs"
     cue: 126
-    summary: "Having concluded that UFOs had an 'interplanetary explanation', Ruppelt suggested on 24 April 1952 that programs parallel to the official investigation were 'conducting a more complete investigation'. Blue Book's scientific adviser J. Allen Hynek likewise said other classified programs were studying UFOs."
+    summary: "Having, by Gerb's account, concluded that UFOs had an 'interplanetary explanation', Ruppelt suggested on 24 April 1952 that programs parallel to the official investigation were 'conducting a more complete investigation'. Blue Book's scientific adviser J. Allen Hynek likewise said other classified programs were studying UFOs."
     category: document
     significance: major
     entities:
@@ -221,6 +221,11 @@ events:
 ## Parallel Programs
 
 Gerb begins with the official investigations. By his account, Captain [[Edward J. Ruppelt]] ran the first official US government study of UFOs under [[Project Grudge]] in 1948–1949, and went on to direct [[Project Sign]] and [[Project Blue Book]]. As director, Ruppelt concluded that UFOs had an "interplanetary explanation", and on 24 April 1952 he suggested that programs parallel to the official investigation were "conducting a more complete investigation". Dr. [[J. Allen Hynek]], Blue Book's scientific adviser (whom Gerb covered on layer two of his iceberg video), said the same: alongside Blue Book, other classified programs were studying UFOs. One of them, Gerb suggests, could have been an inconspicuous crash retrieval program that "unless you look hard enough you'll never know existed".
+
+Ruppelt's own book tells it differently. He took over Grudge in late 1951 and wrote about Sign from its files. The interplanetary conclusion he describes is that of Sign's Top Secret [[Project Sign Estimate of the Situation (1948)|Estimate of the Situation]] of 1948, which General [[Hoyt Vandenberg]] rejected for lack of proof. No copy of the Estimate has been made public.
+
+> [!edit] Clarified 16 October 2026
+> The paragraph above gives Gerb's account, in which Ruppelt himself concluded as director that UFOs were interplanetary. This note was added because in Ruppelt's book the conclusion belongs to Project Sign's 1948 Estimate of the Situation, written three years before he joined the project. The timeline entry and Ruppelt's roster note now credit the claim to Gerb.
 
 ## Moon Dust's Charter
 
@@ -416,7 +421,7 @@ He ends by asking viewers whether Moon Dust was, at least at one point, responsi
 entries:
   - name: "Edward J. Ruppelt"
     role: "US Air Force captain; ran Grudge, Sign and Blue Book"
-    note: "Concluded UFOs had an 'interplanetary explanation' and in April 1952 pointed to parallel programs 'conducting a more complete investigation'."
+    note: "Said by Gerb to have concluded that UFOs had an 'interplanetary explanation'; in April 1952 he pointed to parallel programs 'conducting a more complete investigation'."
   - name: "J. Allen Hynek"
     role: "Scientific adviser to Project Blue Book"
     note: "Said other classified programs were studying UFOs alongside Blue Book."

@@ -99,12 +99,13 @@ events:
       - "Harry Truman"
       - "Vannevar Bush"
   - date: "1948"
-    title: "Project Sign and the destroyed interplanetary memo"
+    title: "Project Sign and the Estimate of the Situation"
     cue: 7743
-    summary: "The Air Force's first official UFO investigation, Project Sign, began in 1948. Captain Edward J. Ruppelt later wrote that he saw a 1948 Sign memo concluding UFOs were of interplanetary origin, and that General Hoyt Vandenberg ordered it destroyed."
+    summary: "The Air Force's first official UFO investigation, Project Sign, began in 1948. Captain Edward J. Ruppelt later wrote that Sign's 1948 Estimate of the Situation concluded UFOs were interplanetary, that General Hoyt Vandenberg rejected it for lack of proof, and that it was later burned, though he saw one of a few copies kept. Gerb calls it a memo and says Vandenberg ordered it destroyed."
     category: program
     significance: notable
     entities:
+      - "Project Sign Estimate of the Situation (1948)"
       - "Project Sign"
       - "Edward J. Ruppelt"
       - "Hoyt Vandenberg"
@@ -636,7 +637,10 @@ The budget of the Department of Energy's Office of Intelligence and Counterintel
 
 ## Narrative Control and Disinformation
 
-Gerb treats disinformation as the onion's surface layer, used since 1947 to stigmatize the subject and keep the public and lawmakers confused. The official lineage runs from [[Project Sign]] (1948) through [[Project Grudge]] (1949-1951) to [[Project Blue Book]] (1952-1969). Captain [[Edward J. Ruppelt]] wrote that a 1948 Sign memo concluding UFOs were interplanetary was ordered destroyed by General [[Hoyt Vandenberg]], "one of the original accused members" of MJ-12. A 1952 Ruppelt film briefing, *Flying Saucer Talk* (AF-ATIC-film 0352), which Representative [[Eric Burlison]] has named, is held at [[MIT Lincoln Laboratory]], an FFRDC descended from Vannevar Bush's MIT Radiation Laboratory. Gerb asks why it was never handed over to the National Archives. The schism came with the CIA's 1953 [[Robertson Panel]], which he says was given a mandate in advance to play down public concern. The same playbook ran through the 1969 [[Condon Committee]], which [[J. Allen Hynek]] said ignored key evidence, and through [[AARO]].
+Gerb treats disinformation as the onion's surface layer, used since 1947 to stigmatize the subject and keep the public and lawmakers confused. The official lineage runs from [[Project Sign]] (1948) through [[Project Grudge]] (1949-1951) to [[Project Blue Book]] (1952-1969). Gerb cites Captain [[Edward J. Ruppelt]]'s 1956 book for a 1948 Sign "memo" concluding that UFOs were of "interplanetary origin", which he says General [[Hoyt Vandenberg]], "one of the original accused members" of MJ-12, ordered destroyed. Ruppelt calls the document Sign's Top Secret [[Project Sign Estimate of the Situation (1948)|Estimate of the Situation]]. He writes that Vandenberg rejected it because it "lacked proof" and that it was later declassified and burned, with a few copies kept, but he doesn't say who ordered the burning. No copy has been made public. A 1952 Ruppelt film briefing, *Flying Saucer Talk* (AF-ATIC-film 0352), which Representative [[Eric Burlison]] has named, is held at [[MIT Lincoln Laboratory]], an FFRDC descended from Vannevar Bush's MIT Radiation Laboratory. Gerb asks why it was never handed over to the National Archives. The schism came with the CIA's 1953 [[Robertson Panel]], which he says was given a mandate in advance to play down public concern. The same playbook ran through the 1969 [[Condon Committee]], which [[J. Allen Hynek]] said ignored key evidence, and through [[AARO]].
+
+> [!edit] Corrected 16 October 2026
+> This paragraph, and the 1948 timeline entry, used to say that Ruppelt wrote that Vandenberg ordered a 1948 Sign memo destroyed. That is Gerb's reading. Ruppelt's book calls the document an Estimate of the Situation and says Vandenberg rejected it, without saying who ordered the copies burned.
 
 ### AARO and Yankee Blue
 
