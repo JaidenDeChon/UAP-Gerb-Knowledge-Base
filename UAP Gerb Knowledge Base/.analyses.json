@@ -2512,7 +2512,7 @@
       "id": "L0036",
       "slice": "S017-focus",
       "found_at": "2026-10-16T14:21:29Z",
-      "status": "open",
+      "status": "written",
       "duplicate_of": null,
       "problems": [],
       "kind": "pattern",
@@ -2609,7 +2609,9 @@
       "weakest_link": "Three identity facts sit outside the vault, and all can be checked. (a) Special Report 14's official title is 'Project Blue Book Special Report No. 14'. This is well documented (NARA, NICAP, the Battelle report scans). (b) 'Colonel Dunn' is Col. Frank L. Dunn, ATIC's chief in 1952. Ruppelt's 1956 book names him, but the letter itself (CUFON/Good) should be checked for his first name and office. (c) The 1961 AFCIN-1E-O memo of 3 November 1961 (released 1979; transcriptions on textfiles/sacred-texts) ties the 1127th's UFO duty to AFR 200-2. It was a draft, 'not for action', so it shows intent, not an adopted order. A further caveat: AFR 200-2 did restrict what could be released to the press, so Gerb's broader point that 200-2 kept sightings from the public survives. Only his routing claim, 'not Blue Book', falls. Being routed to ATIC also doesn't prove that nothing was compartmented above ATIC. The claim must stay narrow: these four documents feed Blue Book's chain; they do not prove a hidden body. A single slip can't explain this, because the framing recurs in at least six videos.",
       "impact": 4,
       "support": 3,
-      "slip": false
+      "slip": false,
+      "resolved_at": "2026-10-16T14:34:40Z",
+      "analysis": "Analyses/Gerb's paper trail for a UFO study beside Blue Book runs back to Blue Book's own center.md"
     },
     {
       "id": "L0037",
