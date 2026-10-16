@@ -13,7 +13,7 @@ If you watched Gerb's January 2024 video on [[Sean Kirkpatrick]], you came away 
 
 ## The finding
 
-Gerb's own description of the Grusch and AARO dispute changed between January 2024 and 2026, from "AARO ignored him" to "he chose not to engage, with good reason". That much is on the record in the transcripts. The likely reason, which is this analysis's inference, is the FOIA release of AARO's records on its attempts to reach Grusch, published by [[The Black Vault]] in April 2024. Gerb mentions that release in *The Hidden Wing* as the context for Grusch "not talking to Arrow". A view that changes when new documents appear is normal. The point is that viewers of the 2024 video were never told that it changed.
+Gerb's own description of the Grusch and AARO dispute changed between January 2024 and 2026, from "AARO ignored him" to "he chose not to engage, with good reason". That much is on the record in the transcripts. The likely reason, which is this analysis's inference, is the FOIA release of AARO's records on its attempts to reach Grusch, published by [[The Black Vault]] in April 2024. Gerb mentions that release in *The Hidden Wing* as the context for Grusch "not talking to Arrow". Changing a view when new documents appear is normal, but viewers of the 2024 video were never told that this one had changed.
 
 ## The evidence
 
@@ -28,13 +28,13 @@ In 2024 Gerb uses the "never heard back" line to call Kirkpatrick's statement fa
 
 ## What cuts against it
 
-- **Both can be partly true.** Grusch has said he spoke to Kirkpatrick in a classified setting in April 2022, before Kirkpatrick took over AARO, and heard nothing more. "Tried and never heard back" may describe that, and "kept away" may describe 2023.
-- **The 2024 line was Gerb reporting Grusch.** Gerb was relaying Grusch's position as it stood then. On the web record, Grusch's November 2023 statement was that AARO had sent him "zero emails or calls", which isn't quite the same as saying he approached AARO himself.
-- **Gerb never says why.** The link to the FOIA release is an inference from where Gerb places his own remark, not something he states.
+- Both versions can be partly true. Grusch has said he spoke to Kirkpatrick in a classified setting in April 2022, before Kirkpatrick took over AARO, and heard nothing more. "Tried and never heard back" may describe that, and "kept away" may describe 2023.
+- In the 2024 line Gerb was reporting Grusch, relaying his position as it stood then. According to what the web check found, Grusch's November 2023 statement was that AARO had sent him "zero emails or calls", which isn't quite the same as saying he approached AARO himself.
+- Gerb never says why his account changed. The link to the FOIA release is inferred from where he places his own remark; he doesn't state it.
 
 ## Already known?
 
-The dispute itself is well covered. NewsNation reported Grusch calling Kirkpatrick's account "a lie" in November 2023. The Black Vault's April 2024 release and Jason Colavito's write-up of it set out AARO's side. No source turned up that notes the change in Gerb's coverage, so the novelty here is limited to the channel.
+The dispute itself is well covered. NewsNation reported Grusch calling Kirkpatrick's account "a lie" in November 2023. The Black Vault's April 2024 release and Jason Colavito's write-up of it set out AARO's side. No source turned up that notes the change in Gerb's coverage, so the only new point here is about the channel itself.
 
 ## What would settle it
 
