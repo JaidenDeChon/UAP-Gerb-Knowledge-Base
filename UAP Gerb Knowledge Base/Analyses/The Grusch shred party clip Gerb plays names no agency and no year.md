@@ -13,14 +13,14 @@ Gerb's 1994 turning point, when he says the legacy programs moved out of governm
 
 ## The finding
 
-Going by the transcripts in this vault, Gerb's two descriptions of the same Grusch remark don't match. The clip names no agency and no year. Gerb's later paraphrase names the [[CIA]] "and other agencies" and the year 1994, and he uses that to support his own 1994 date for the control group's move out of government. The vault holds only clips of the Judicial Watch interview, so it's possible Grusch named the CIA or said 1994 somewhere else in it. That premise is unconfirmed, which is why this is an open question.
+Going by the transcripts in this vault, Gerb's two descriptions of the same Grusch remark don't match. The clip names no agency and no year. Gerb's later paraphrase names the [[CIA]] "and other agencies" and the year 1994, and he uses that to support his own 1994 date for the control group's move out of government. The vault holds only clips of the Judicial Watch interview, so it's possible Grusch named the CIA or said 1994 somewhere else in it. Nobody has confirmed that either way, which is why this is an open question.
 
 ## What cuts against it
 
-- **The rest of the interview.** Gerb calls it the interview "we might have quoted a dozen times now". He has heard all of it, and the vault has only clips. A web search found no other wording of the remark, but one secondary write-up was all it turned up.
-- **"Mid '90s" fits 1994.** On the year, Gerb's version narrows Grusch's words without contradicting them. The disagreement that matters is over who did it, not when.
+- **The rest of the interview.** Gerb calls it the interview "we might have quoted a dozen times now". He has heard all of it, while the vault has only clips. A web search found no other wording of the remark, though it turned up only one secondary write-up.
+- **"Mid '90s" fits 1994.** On the year, Gerb's version narrows Grusch's words without contradicting them. The disagreement that matters is over who did it.
 - **The CIA comes up in the same answer.** A few sentences before the shred party line, Grusch says the program's "genesis was was in the Truman and Eisenhower National Security Council and and the CIA office of policy strategy". Gerb may simply have carried the CIA from the early-era remark over to the 1990s one. That would be a slip of memory rather than an invention, but it still changes what Grusch is quoted as saying.
-- **The 1994 date doesn't need Grusch.** Gerb's 1994 boundary comes mainly from [[Bill Perry]]'s reorganization of special access program oversight and the [[Wilson-Davis Memo|Wilson-Davis notes]]. Grusch is offered as agreement, not as the source.
+- **The 1994 date doesn't need Grusch.** Gerb's 1994 boundary comes mainly from [[Bill Perry]]'s reorganization of special access program oversight and the [[Wilson-Davis Memo|Wilson-Davis notes]]. Grusch is cited only as someone who agrees with it.
 
 ## The evidence
 
@@ -31,11 +31,11 @@ Going by the transcripts in this vault, Gerb's two descriptions of the same Grus
 
 ## How it fits together
 
-In June Gerb plays Grusch's words and says only that Grusch "appears" to agree with the 1994 vesting. By September that has become a direct statement, with the CIA named and the year fixed, and it anchors one end of a line Gerb draws back to the destroyed Roswell records. The remark ends up carrying more weight in the timeline than the words Gerb played can bear.
+In June Gerb plays Grusch's words and says only that Grusch "appears" to agree with the 1994 vesting. By September that has become a direct statement, with the CIA named and the year fixed, and it anchors one end of a line Gerb draws back to the destroyed Roswell records. In the timeline, the remark carries more weight than the words Gerb played can bear.
 
 ## Already known?
 
-Web searches for Grusch, Judicial Watch, "shred party", "burn bag", the CIA and 1994 found no source that names the CIA or gives 1994 for this remark. One secondary write-up of the interview (Stranger Than Fiction, May 2026) also describes the shred party as being at an unnamed agency in the mid-1990s. It couldn't be opened from here, so that rests on a single search snippet. No source was found that compares Gerb's two versions.
+Web searches for Grusch, Judicial Watch, "shred party", "burn bag", the CIA and 1994 found no source that names the CIA or gives 1994 for this remark. One secondary write-up of the interview (Stranger Than Fiction, May 2026) also describes the shred party as being at an unnamed agency in the mid-1990s. The write-up itself couldn't be opened, so that detail rests on a single search snippet. No source was found that compares Gerb's two versions.
 
 ## What would settle it
 
