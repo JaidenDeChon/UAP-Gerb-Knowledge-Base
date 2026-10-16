@@ -259,6 +259,52 @@
       "handed_out": "2026-10-16T05:53:08Z",
       "ingested": "2026-10-16T14:07:43Z",
       "leads": 2
+    },
+    "S016-timeline": {
+      "lens": "timeline",
+      "items": [
+        "1970s"
+      ],
+      "handed_out": "2026-10-16T14:16:03Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S017-focus": {
+      "lens": "focus",
+      "items": [
+        "Project Blue Book"
+      ],
+      "handed_out": "2026-10-16T14:16:03Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S018-links": {
+      "lens": "links",
+      "items": [
+        "1978 Bolivia UFO Crash|Steven Greer",
+        "Project Alberta|Roswell Crash",
+        "Lockheed Martin|RA",
+        "Edgar Mitchell|Sean Kirkpatrick",
+        "Luis Elizondo|Office of the Director of National Intelligence (ODNI)",
+        "Bernard Haisch|Eric Davis",
+        "Lockheed Martin|Steven Lovekin",
+        "Ed (Witness 11063)|Sandia National Laboratories",
+        "Hillary Clinton|Sean Kirkpatrick",
+        "Hillary Clinton|Ross Coulthart",
+        "Edgar Fouche|General Dynamics",
+        "Lockheed Martin|Sol Foundation",
+        "NRO (National Reconnaissance Office)|US Space Force",
+        "Infographic Show Whistleblower|MITRE Corporation",
+        "Eric Davis|US Space Command",
+        "Los Alamos National Laboratory|UFO Crash Retrieval Operations (JSOC)",
+        "Eric Davis|Kevin Knuth",
+        "Hillary Clinton|NRO (National Reconnaissance Office)",
+        "Ed (Witness 11063)|Luis Elizondo",
+        "Edgar Fouche|McDonnell Douglas"
+      ],
+      "handed_out": "2026-10-16T14:16:22Z",
+      "ingested": null,
+      "leads": 0
     }
   },
   "leads": [
