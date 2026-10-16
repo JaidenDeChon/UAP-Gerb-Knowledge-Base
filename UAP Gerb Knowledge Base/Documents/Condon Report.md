@@ -1,7 +1,7 @@
 ---
 name: "Condon Report"
 tags:
-  - concept
+  - document
   - ufo-investigation
 ---
 

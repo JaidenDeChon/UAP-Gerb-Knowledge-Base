@@ -1,7 +1,7 @@
 ---
 name: "OPNAV 3820"
 tags:
-  - concept
+  - document
   - regulation
 ---
 

@@ -2,7 +2,7 @@
 name: "Environmental Assessment Report on Avery Technical Center"
 date: 2012-07
 tags:
-  - event
+  - document
 ---
 
 An unclassified July 2012 report titled 'Environmental Assessment of the Continued Exclusive Use of Department of the Army Land Located at US Army Dugway Proving Ground by Members of the US Air Force' gave a good deal of information about Avery Technical Center.

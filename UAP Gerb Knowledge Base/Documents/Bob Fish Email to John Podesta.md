@@ -2,7 +2,7 @@
 name: "Bob Fish Email to John Podesta"
 date: 2015-03
 tags:
-  - event
+  - document
 ---
 
 The Bob Fish email to John Podesta is a March 2015 message in which [[Bob Fish]], a former program manager for classified US government advanced communications projects, told [[John Podesta]] that "one of the government programs that collects hard data on unidentified flying objects is the USAF DSP satellite program." It became public when [[WikiLeaks]] published Podesta's emails during the 2016 US presidential campaign, and it is the centrepiece of UAP Gerb's [[FASTWALKERS – UFOs Outside Earth]].

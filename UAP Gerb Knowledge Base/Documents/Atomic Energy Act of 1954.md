@@ -1,7 +1,7 @@
 ---
 name: "Atomic Energy Act of 1954"
 tags:
-  - concept
+  - document
 ---
 
 The **Atomic Energy Act of 1954** is the main U.S. federal statute governing civilian and military uses of nuclear energy and materials. It replaced the Atomic Energy Act of 1946 and set the legal framework for nuclear weapons development, nuclear power, and the control of nuclear information. The Act created the Atomic Energy Commission (AEC), which was later reorganized into the [[Department of Energy]] and the [[Nuclear Regulatory Commission]]. It also defined the federal government's authority over "special nuclear material" (enriched uranium and plutonium) and related technologies.

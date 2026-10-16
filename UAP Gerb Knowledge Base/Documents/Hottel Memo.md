@@ -1,7 +1,13 @@
 ---
 name: "Hottel Memo"
+date: "1950-03-22"
+issuer: "Federal Bureau of Investigation"
+doc_kind: memo
+provenance: official
+rights: public-domain
+thumb_page: 2
+source_url: "https://vault.fbi.gov/hottel_guy/Guy%20Hottel%20Part%2001%20(Final)/at_download/file"
 tags:
-  - concept
   - document
 ---
 

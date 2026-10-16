@@ -1,7 +1,7 @@
 ---
 name: "Executive Order 10501"
 tags:
-  - concept
+  - document
 ---
 
 Executive Order 10501, "Safeguarding Official Information in the Interests of the Defense of the United States," is the classification order President [[Dwight D. Eisenhower]] issued on 5 November 1953. It replaced Truman's Executive Order 10290 and took effect on 15 December 1953. It set three levels of classified defense information, Top Secret, Secret and Confidential, and dropped the "Restricted" level that had been in use before. It also cut back the number of agencies allowed to classify information: original classification authority was withdrawn from 28 agencies and limited to the agency head in 17 others, leaving it mainly with agencies directly responsible for national defense.

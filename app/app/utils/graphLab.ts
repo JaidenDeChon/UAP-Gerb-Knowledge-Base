@@ -84,6 +84,7 @@ const CATEGORY_FALLBACK: Record<Category, string> = {
   Events: '#7439c6',
   Locations: '#6d8722',
   Concepts: '#e87ba4',
+  Documents: '#bc6c0f',
   Videos: '#b7bbc2',
 }
 
@@ -100,6 +101,7 @@ export const CATEGORY_LEGEND_ORDER: Category[] = [
   'Events',
   'Operations',
   'Concepts',
+  'Documents',
   'Videos',
 ]
 

@@ -1,7 +1,13 @@
 ---
 name: "AARO Historical Report Volume 1"
+date: "2024-03"
+issuer: "All-domain Anomaly Resolution Office"
+doc_kind: report
+provenance: official
+rights: public-domain
+source_url: "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF"
 tags:
-  - concept
+  - document
 ---
 
 The AARO Historical Report Volume 1 is an official report by the All-domain Anomaly Resolution Office (AARO) on the history of U.S. government involvement with unidentified anomalous phenomena from 1945 to October 2023. Many in the UAP community have criticized it for allegedly misrepresenting witness testimony and for reaching conclusions that firsthand accounts contradict, especially in its treatment of [[Michael Herrera]]'s testimony.

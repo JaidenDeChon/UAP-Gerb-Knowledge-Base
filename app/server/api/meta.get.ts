@@ -1,5 +1,5 @@
 import type { NoteMeta, TreeItem } from '#shared/types/wiki'
-import { graph, portraits, previews, tree, videos } from '#wiki-data'
+import { documents, graph, portraits, previews, tree, videos } from '#wiki-data'
 
 let videoIdByNode: Map<number, string> | undefined
 let transcriptTitles: Map<string, string> | undefined
@@ -41,6 +41,7 @@ export default defineEventHandler((event): NoteMeta => {
       lead: previews[index]?.lead ?? '',
       videoId: videoIdByNode.get(index) ?? null,
       ...(portraits[index] ? { image: portraits[index] } : {}),
+      ...(documents[index] ? { document: documents[index] } : {}),
     }
   }
 

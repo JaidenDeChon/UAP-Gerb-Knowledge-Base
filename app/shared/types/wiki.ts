@@ -14,6 +14,7 @@ export type Category =
   | 'Events'
   | 'Locations'
   | 'Concepts'
+  | 'Documents'
   | 'Videos'
 
 /** Order the sidebar and any category listing render in. */
@@ -25,6 +26,7 @@ export const CATEGORY_ORDER: Category[] = [
   'Events',
   'Locations',
   'Concepts',
+  'Documents',
   'Videos',
 ]
 
@@ -38,6 +40,7 @@ export const CATEGORY_ICON: Record<Category, string> = {
   Events: 'calendar-clock',
   Locations: 'map-pin',
   Concepts: 'atom',
+  Documents: 'file-text',
   Videos: 'clapperboard',
 }
 
@@ -115,6 +118,11 @@ export interface NoteRef {
    * site's own `/people/`). Every other ref omits the key.
    */
   image?: NotePortrait
+  /**
+   * A Documents note's document facts and hosted file (see `NoteDocument`).
+   * Every other ref omits the key.
+   */
+  document?: NoteDocument
 }
 
 /**
@@ -137,6 +145,46 @@ export interface NotePortrait {
   source: string
 }
 
+/**
+ * A primary-source document on a Documents note: what the page's frontmatter
+ * says about it, plus, when the file is hosted, what
+ * `scripts/fetch-documents.mjs` recorded in `wiki/documents.json`.
+ */
+export interface NoteDocument {
+  /** `date:` frontmatter, `YYYY`, `YYYY-MM` or `YYYY-MM-DD`. */
+  date?: string
+  /** `issuer:`, the body that wrote or released it. */
+  issuer?: string
+  /** `doc_kind:`, e.g. `memo`, `report`, `letter`. */
+  kind?: string
+  /** `provenance:`: `official` (released by its issuer), `leaked` or `disputed`. */
+  provenance?: DocumentProvenance
+  /** `rights:`, why the file may or may not be hosted here. */
+  rights?: DocumentRights
+  /** `source_url:`, the issuer's own copy, checked by hand. */
+  source?: string
+  /** The hosted file, when there is one. */
+  file?: DocumentFile
+}
+
+export type DocumentProvenance = 'official' | 'leaked' | 'disputed'
+export type DocumentRights = 'public-domain' | 'open-licence' | 'copyrighted' | 'unclear'
+
+/** A document's PDF in the site's Supabase bucket, and its first page as an image. */
+export interface DocumentFile {
+  /** Public URL of the PDF, named by its SHA-256. */
+  url: string
+  sha256: string
+  bytes: number
+  pages: number
+  /** The page-1 thumbnail, site-relative (`/documents/<slug>.webp`). */
+  thumb: { src: string, width: number, height: number }
+  /** Where the bytes were downloaded from (the source, or a Wayback copy of it). */
+  fetchedFrom: string
+  /** `YYYY-MM-DD`. */
+  retrieved: string
+}
+
 export interface NoteLinks {
   /** Notes this note links out to, deduplicated, in first-appearance order. */
   outgoing: NoteRef[]
@@ -151,6 +199,8 @@ export interface NotePreview extends NoteRef {
   tags: string[]
   /** The note's portrait, when it has one (see `NoteRef.image`). */
   image?: NotePortrait
+  /** A Documents note's document facts and file, when it has any. */
+  document?: NoteDocument
 }
 
 /**
@@ -168,6 +218,8 @@ export interface NoteMeta {
   videoId: string | null
   /** The note's portrait, for a People note that has one; otherwise absent. */
   image?: NotePortrait
+  /** A Documents note's document facts and file; otherwise absent. */
+  document?: NoteDocument
 }
 
 /* ------------------------------------------------------------ baked data -- */
@@ -220,6 +272,8 @@ export interface WikiData {
   portraits: BakedPortraits
   /** Every Location note, placed or not, for the `/world` page. See `wiki/places.ts`. */
   places: BakedPlaces
+  /** Document facts and file for each Documents note, keyed by `GraphNode.i`. See `wiki/documents.ts`. */
+  documents: BakedDocuments
 }
 
 /** Sparse node index -> `[lat, lon]`. */
@@ -262,6 +316,9 @@ export interface WorldPlace {
 export interface WorldPlaces {
   places: WorldPlace[]
 }
+
+/** Sparse node index -> document. */
+export type BakedDocuments = Record<number, NoteDocument>
 
 /** Sparse node index -> portrait. */
 export type BakedPortraits = Record<number, NotePortrait>

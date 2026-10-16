@@ -1,7 +1,6 @@
 ---
 name: "Beneath the Surface (Gallaudet White Paper)"
 tags:
-  - concept
   - document
 ---
 

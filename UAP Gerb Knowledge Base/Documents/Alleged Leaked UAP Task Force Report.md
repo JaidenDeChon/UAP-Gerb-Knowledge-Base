@@ -1,7 +1,7 @@
 ---
 name: "Alleged Leaked UAP Task Force Report"
 tags:
-  - concept
+  - document
 ---
 
 The Alleged Leaked UAP Task Force Report is a set of purported pages from a longer, classified version of a [[UAP Task Force]] report prepared for Congress. The pages circulated online in 2021 or 2022, including in a post on 4chan. Two pages are discussed in Gerb's analysis of the [[Flyby Footage]]: a cockpit communications log of a fighter intercept, and a page from a section titled "Behavioral Data Analysis". Gerb argues that the intercept the log describes lines up almost exactly with the Flyby clip.

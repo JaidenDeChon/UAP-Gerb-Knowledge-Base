@@ -2,7 +2,7 @@
 name: "Schumer Amendment (NDAA)"
 date: 2023
 tags:
-  - event
+  - document
 ---
 
 The Schumer Amendment, also called the Schumer–Rounds amendment or the UAP Disclosure Act of 2023, is a legislative proposal on unidentified anomalous phenomena (UAP) attached to the National Defense Authorization Act for fiscal year 2024. Senators Chuck Schumer and Mike Rounds sponsored it. It set out to collect all government UAP records in the National Archives under an independent review board, and to give the federal government eminent domain over recovered technologies of unknown origin and biological evidence of non-human intelligence (NHI). According to the video, opponents of disclosure "watered down and gutted" it before the NDAA passed at the end of 2023.

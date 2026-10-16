@@ -4,7 +4,7 @@
     "sha256": "2f84cf7a86a2004c7517811da07f94a1985ec391fced61345ea4f671690c13ad",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/Concepts/AARO Historical Report Volume 1.md": {
+  "UAP Gerb Knowledge Base/Documents/AARO Historical Report Volume 1.md": {
     "humanized_at": "2026-09-30T02:19:10Z",
     "sha256": "94f360246d44c7a92ff270c67a2d8bd5e6f5e76621a36f810933d8893e6ef368",
     "cold_reader": true
@@ -34,7 +34,7 @@
     "sha256": "89d4ca76be4c03df10287f620e0d5b39e4a13beed54d6ced8a780dd678c4eb03",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/Concepts/Alleged Leaked UAP Task Force Report.md": {
+  "UAP Gerb Knowledge Base/Documents/Alleged Leaked UAP Task Force Report.md": {
     "humanized_at": "2026-09-30T02:19:11Z",
     "sha256": "a1cd43df56dc47951ee6aea2162dc0b088fd1985399620c95421e88947d56b65",
     "cold_reader": true
@@ -59,7 +59,7 @@
     "sha256": "56a501f6990f7496d013e043c52f089ca1b9d7ee8ca6d1033913e9c9c3155ed2",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/Concepts/Atomic Energy Act of 1954.md": {
+  "UAP Gerb Knowledge Base/Documents/Atomic Energy Act of 1954.md": {
     "humanized_at": "2026-09-30T02:20:45Z",
     "sha256": "f588c8f833ce547e7965383b5c8315cdd8dd8ef6c40520d8837ce4a21a014ab6",
     "cold_reader": true
@@ -79,7 +79,7 @@
     "sha256": "3816f3ed7fc7264ac25271f0e1943b7d79d9aa9567c79ba30eaeb03dcbf409d9",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/Concepts/Bechtel Tunneling Report (1974).md": {
+  "UAP Gerb Knowledge Base/Documents/Bechtel Tunneling Report (1974).md": {
     "humanized_at": "2026-09-30T02:20:46Z",
     "sha256": "69c6d3384fc4c9b6e2c76da043dced5b438ffaa1d9b24d2df562659b87ad6538",
     "cold_reader": true
@@ -89,7 +89,7 @@
     "sha256": "747e017b8b27c536e806a3636a0362f72885de480e5819a07c9ad8499cba7ddd",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/Concepts/Beneath the Surface (Gallaudet White Paper).md": {
+  "UAP Gerb Knowledge Base/Documents/Beneath the Surface (Gallaudet White Paper).md": {
     "humanized_at": "2026-09-30T02:22:12Z",
     "sha256": "f135e4cfe4f1c6b3e2eee07e554020827ffca76924d07ce14a216c78f6911568",
     "cold_reader": true
@@ -109,7 +109,7 @@
     "sha256": "7db6678ebc8fae6d87fe282d7da9805544121509a0fe83a590526f77bd7fac11",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/Concepts/Bowen Manuscript.md": {
+  "UAP Gerb Knowledge Base/Documents/Bowen Manuscript.md": {
     "humanized_at": "2026-09-30T02:22:13Z",
     "sha256": "65dfd7ec3ce20e67429f6742d4eb4ec422e9c1e721d5e51c4e473d79080573ce",
     "cold_reader": true
@@ -139,7 +139,7 @@
     "sha256": "e0404d5057c9e05079f2c01d7192f15443294f95d01b036721835d955c91c659",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/Concepts/Condon Report.md": {
+  "UAP Gerb Knowledge Base/Documents/Condon Report.md": {
     "humanized_at": "2026-09-30T02:24:32Z",
     "sha256": "e20d08674dd8ba45bf04780eba74e339551c8625a53de64b2702d8a630a9c61c",
     "cold_reader": true
@@ -219,7 +219,7 @@
     "sha256": "077abdb14128a3efc20228cbfea4d748fde68d71351c0a723329f913bf0a6914",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/Concepts/Denb Report.md": {
+  "UAP Gerb Knowledge Base/Documents/Denb Report.md": {
     "humanized_at": "2026-09-30T02:26:37Z",
     "sha256": "7a966e55354006efe0befdb406a97ed60c51c2ce398393ee89500c528b446e24",
     "cold_reader": true
@@ -254,7 +254,7 @@
     "sha256": "c4c98961acd190856fbd351f50efc14ae158c7c9c1327dddf5c5e7f2ad5e0f86",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/Concepts/Eisenhower Briefing Document.md": {
+  "UAP Gerb Knowledge Base/Documents/Eisenhower Briefing Document.md": {
     "humanized_at": "2026-09-30T02:28:13Z",
     "sha256": "e1fb225d66e9db7693d14e674dd74187ea342a72afeb5e8f7c9f67b15ac0964e",
     "cold_reader": true
@@ -264,12 +264,12 @@
     "sha256": "36eb5b4579914ce7a5556431281c075dfb97ff61a2cfb9925d19e74a4bde361e",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/Concepts/Executive Order 10501.md": {
+  "UAP Gerb Knowledge Base/Documents/Executive Order 10501.md": {
     "humanized_at": "2026-10-01T22:58:44Z",
     "sha256": "a2fd7650e6bba4803d03dbafdffc69900d83a5cee1aaa8a0a49285ca060641d3",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/Concepts/Executive Order 13526.md": {
+  "UAP Gerb Knowledge Base/Documents/Executive Order 13526.md": {
     "humanized_at": "2026-09-30T02:28:14Z",
     "sha256": "83634f18fe9c7d222c7f1b213585ad5a31d71395d96e5fb431a43fbc1b692c0c",
     "cold_reader": true
@@ -354,7 +354,7 @@
     "sha256": "d0fde64702ad01cd356cf20c0f70a5d0a00e0514e8feff5a243f2ed8040f1544",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/Concepts/Hottel Memo.md": {
+  "UAP Gerb Knowledge Base/Documents/Hottel Memo.md": {
     "humanized_at": "2026-09-30T02:31:42Z",
     "sha256": "239c526c00e490f0c96439065ec9085d5e1d3844d32d816f33c75c495b5eded2",
     "cold_reader": true
@@ -394,7 +394,7 @@
     "sha256": "46f2e35428e510d6c2e1584d3bd8dabd240bf2c937bccb1144dc78e9c512adec",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/Concepts/JANAP 146c.md": {
+  "UAP Gerb Knowledge Base/Documents/JANAP 146c.md": {
     "humanized_at": "2026-09-30T02:31:44Z",
     "sha256": "35bf7a2d3142d080ed25581431d43bea8b5f6a3fe7a6f435df7afad503dbb282",
     "cold_reader": true
@@ -554,7 +554,7 @@
     "sha256": "2ca3d7b8ccc6badc40e5ef9f70b8161e357752f1e13cbfa8fc152c2e568901ae",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/Concepts/OPNAV 3820.md": {
+  "UAP Gerb Knowledge Base/Documents/OPNAV 3820.md": {
     "humanized_at": "2026-09-30T02:38:54Z",
     "sha256": "1b6995ff0c1203915d3434a9c63091afb04192b007cfa39e46cdfb56910ba58f",
     "cold_reader": true
@@ -699,7 +699,7 @@
     "sha256": "c19e50248e795f18ccbbeceedd7ed19439345dcdddfd8e2dffd65b2870c2f5c3",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/Concepts/Special Operations Manual (SOM 1-01).md": {
+  "UAP Gerb Knowledge Base/Documents/Special Operations Manual (SOM 1-01).md": {
     "humanized_at": "2026-09-30T02:42:47Z",
     "sha256": "54eb48c7e405bd2e91c9b48a4baed6be8ce911e96bf44557f5468e4862b5c5fc",
     "cold_reader": true
@@ -744,7 +744,7 @@
     "sha256": "2e4f4f5d63dc0e73708fbdf75b5dec4096ec5ab221739292e1ea4a5c2a343781",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/Concepts/The Day After Roswell.md": {
+  "UAP Gerb Knowledge Base/Documents/The Day After Roswell.md": {
     "humanized_at": "2026-10-01T22:58:43Z",
     "sha256": "9dcf407dd038cf8cd7233392353039a5bdcabb3ab9e6df75ea9accc7c2527075",
     "cold_reader": true
@@ -789,7 +789,7 @@
     "sha256": "aa5d7dc8431bf109b3b5c2b7f3b9d0c81455bdb780e255a8556d5b02e8b6ef3c",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/Concepts/USAF Regulation 200-2.md": {
+  "UAP Gerb Knowledge Base/Documents/USAF Regulation 200-2.md": {
     "humanized_at": "2026-09-30T02:46:26Z",
     "sha256": "bdd0de6ecda96f813cebda9ac29f5926e504999938abb5d6fcf43cc644b103a3",
     "cold_reader": true
@@ -829,7 +829,7 @@
     "sha256": "0ce711f2b374e93c5dd5c41070dd68789afaf40166f1c962f1432866f3040598",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/Concepts/Wilson-Davis Memo.md": {
+  "UAP Gerb Knowledge Base/Documents/Wilson-Davis Memo.md": {
     "humanized_at": "2026-09-30T02:46:28Z",
     "sha256": "2638ec565e567009f8df456e02631995ed37584134bded3cf0e44d8bead11c99",
     "cold_reader": true
@@ -1039,7 +1039,7 @@
     "sha256": "09f6378ce0ce8303b8aa2668629753ae620d178a96a2236cce93b0bc12d3230b",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/Events/Bob Fish Email to John Podesta.md": {
+  "UAP Gerb Knowledge Base/Documents/Bob Fish Email to John Podesta.md": {
     "humanized_at": "2026-09-27T20:11:59Z",
     "sha256": "dffae510df9afe46bc5276b9b8cbab27e0d618de4f32e646a4961ee5e5e8b0d4",
     "cold_reader": true
@@ -1089,7 +1089,7 @@
     "sha256": "8796c4aa50fca6612556fc91fa54af38816b9d05790cbeea064ff1a97149f8ca",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/Events/Environmental Assessment Report on Avery Technical Center.md": {
+  "UAP Gerb Knowledge Base/Documents/Environmental Assessment Report on Avery Technical Center.md": {
     "humanized_at": "2026-09-27T20:13:39Z",
     "sha256": "d91d698c940ee05b94182ce31045d50277dd4ec090bb6b6eaa0f36c763853a1f",
     "cold_reader": true
@@ -1109,7 +1109,7 @@
     "sha256": "7e99359fb33dda003aaf88e72ac030da1cafe0e7eb71172cbc0ff3ed7efd5c66",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/Events/GAO Report on Army Guard Program.md": {
+  "UAP Gerb Knowledge Base/Documents/GAO Report on Army Guard Program.md": {
     "humanized_at": "2026-09-27T20:14:01Z",
     "sha256": "3d34b0b5135b0bcb1ae559a8cb0e6690028f63bed0e2113dc5a13686e034c965",
     "cold_reader": true
@@ -1289,7 +1289,7 @@
     "sha256": "c2555a0367bc9f826fc1ab5351ca6d678e48abcdf0f7c514d7e9cbd7e0fd9d09",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/Events/Schumer Amendment (NDAA).md": {
+  "UAP Gerb Knowledge Base/Documents/Schumer Amendment (NDAA).md": {
     "humanized_at": "2026-09-27T20:15:56Z",
     "sha256": "4026a028f303668b1494fbd74751b17ad8a0b0c0cfbfe571a7a69ee6b9427e41",
     "cold_reader": true
@@ -2454,7 +2454,7 @@
     "sha256": "d851bcd90bf37e2d20cccd2e9117990daf8b0b9b995c7838b1621a0e49784d17",
     "cold_reader": true
   },
-  "UAP Gerb Knowledge Base/Operations/UAP Campaign Plan - Way Forward.md": {
+  "UAP Gerb Knowledge Base/Documents/UAP Campaign Plan - Way Forward.md": {
     "humanized_at": "2026-09-27T01:30:43Z",
     "sha256": "821de7c05d759324e1b588e7dffb7b2cf84157dbdea36ea86ca917cd7c94b981",
     "cold_reader": true

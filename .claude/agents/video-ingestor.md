@@ -203,6 +203,7 @@ Use subsections if needed. Repeat for each major topic the video covers.]
 - **Organizations**: [[Org 1]]
 - **Locations**: [[Location 1]]
 - **Concepts**: [[Concept 1]]
+- **Documents**: [[Document 1]]
 - **Operations**: [[Operation 1]]
 - **Events**: [[Event 1]]
 ```
@@ -217,11 +218,12 @@ From your transcript notes, identify every significant entity: people, organizat
 - A named person who played a role in the events discussed → yes
 - A government program, military operation, or contractor discussed at length → yes
 - A concept or phenomenon central to the video → yes
+- A specific memo, report, letter, regulation, law or other written document the video discusses or shows → yes, in `Documents/`, tagged `document`. Its frontmatter records `date`, `issuer`, `doc_kind` and `provenance` (`official`, `leaked` or `disputed`), and `rights` and `source_url` only once you have checked them; see `docs/documents.md`. A corpus of many documents (MJ-12, Blue Book) stays a Concepts or Operations page.
 - A city mentioned only as a passing geographic reference → probably not
 - A generic noun → no
 
 **Before creating any page:**
-- Search the relevant folder (`People/`, `Organizations/`, `Locations/`, `Concepts/`, `Events/`, `Operations/`) for the entity
+- Search the relevant folder (`People/`, `Organizations/`, `Locations/`, `Concepts/`, `Documents/`, `Events/`, `Operations/`) for the entity
 - Check name variants: "Dr. John Smith" vs "John Smith", "NATO" vs "North Atlantic Treaty Organization", alternate spellings
 - Use grep with case-insensitive patterns to catch partial matches
 - If an existing page is found, assess it (see below) — never create a duplicate

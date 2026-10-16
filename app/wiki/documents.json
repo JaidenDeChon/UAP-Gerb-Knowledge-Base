@@ -1,0 +1,79 @@
+{
+  "$comment": "Written by app/scripts/fetch-documents.mjs; baked by app/wiki/documents.ts. Keys are Documents page titles.",
+  "documents": {
+    "AARO Historical Report Volume 1": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868.pdf",
+      "sha256": "8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868",
+      "bytes": 726657,
+      "pages": 63,
+      "thumb": {
+        "src": "/documents/aaro-historical-report-volume-1.webp",
+        "width": 320,
+        "height": 415
+      },
+      "source": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+      "fetchedFrom": "https://web.archive.org/web/20261009071205id_/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+      "retrieved": "2026-10-16"
+    },
+    "GAO Report on Special Access Contracts (1986)": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/9e929a95d4d6ff7ae3290f4d46eef05b2e48ca6a4b1ef4bc66608e37505ea41e.pdf",
+      "sha256": "9e929a95d4d6ff7ae3290f4d46eef05b2e48ca6a4b1ef4bc66608e37505ea41e",
+      "bytes": 930169,
+      "pages": 16,
+      "thumb": {
+        "src": "/documents/gao-report-on-special-access-contracts-1986.webp",
+        "width": 320,
+        "height": 410
+      },
+      "thumbPage": 1,
+      "source": "https://www.gao.gov/assets/nsiad-86-191.pdf",
+      "fetchedFrom": "https://web.archive.org/web/20250208205408id_/https://www.gao.gov/assets/nsiad-86-191.pdf",
+      "retrieved": "2026-10-16"
+    },
+    "Hottel Memo": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/05ac550c99d6fd02efa2e07ff2fcb4e2b9e917a812ba554efe51d702fcc728cb.pdf",
+      "sha256": "05ac550c99d6fd02efa2e07ff2fcb4e2b9e917a812ba554efe51d702fcc728cb",
+      "bytes": 125931,
+      "pages": 2,
+      "thumb": {
+        "src": "/documents/hottel-memo.webp",
+        "width": 320,
+        "height": 414
+      },
+      "thumbPage": 2,
+      "source": "https://vault.fbi.gov/hottel_guy/Guy%20Hottel%20Part%2001%20(Final)/at_download/file",
+      "fetchedFrom": "https://vault.fbi.gov/hottel_guy/Guy%20Hottel%20Part%2001%20(Final)/at_download/file",
+      "retrieved": "2026-10-16"
+    },
+    "ODNI Preliminary Assessment (2021)": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/3b699a825c53aab7816b50ffe0c45d4f424ca43da5eaa421736e529f2ac00ac9.pdf",
+      "sha256": "3b699a825c53aab7816b50ffe0c45d4f424ca43da5eaa421736e529f2ac00ac9",
+      "bytes": 385812,
+      "pages": 9,
+      "thumb": {
+        "src": "/documents/odni-preliminary-assessment-2021.webp",
+        "width": 320,
+        "height": 415
+      },
+      "thumbPage": 1,
+      "source": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
+      "fetchedFrom": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
+      "retrieved": "2026-10-16"
+    },
+    "Robertson Panel Report": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/3cd626bea4447e9246cf7ad210d18856cf5dea028336ae9fa832e4a1b4609345.pdf",
+      "sha256": "3cd626bea4447e9246cf7ad210d18856cf5dea028336ae9fa832e4a1b4609345",
+      "bytes": 2059479,
+      "pages": 38,
+      "thumb": {
+        "src": "/documents/robertson-panel-report.webp",
+        "width": 320,
+        "height": 415
+      },
+      "thumbPage": 1,
+      "source": "https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf",
+      "fetchedFrom": "https://web.archive.org/web/20250518191301id_/https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf",
+      "retrieved": "2026-10-16"
+    }
+  }
+}

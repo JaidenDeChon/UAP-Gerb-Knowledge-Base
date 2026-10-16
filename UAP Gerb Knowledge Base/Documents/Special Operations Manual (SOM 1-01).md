@@ -1,7 +1,7 @@
 ---
 name: "Special Operations Manual (SOM 1-01)"
 tags:
-  - concept
+  - document
 ---
 
 The Special Operations Manual, designated SOM 1-01 and titled *Extraterrestrial Entities and Technology, Recovery and Disposal*, is one of the [[MJ-12 Documents]]: an alleged 1954 field manual, classified Top Secret MAJIC Eyes Only, written for "Majestic 12 units" and "authorized personnel" of the [[Majestic 12]] group. It is said to describe MJ-12's purpose, the craft and beings it recovered, and how recovery teams were to secure, ship and conceal them. Researchers [[Ryan S. Wood]] and [[Robert Wood]] rate it among the most authentic of the Majestic documents, and [[Stanton Friedman]] called it "very likely genuine".

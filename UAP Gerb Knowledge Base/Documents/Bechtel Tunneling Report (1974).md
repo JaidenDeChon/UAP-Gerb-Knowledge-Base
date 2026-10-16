@@ -1,7 +1,7 @@
 ---
 name: "Bechtel Tunneling Report (1974)"
 tags:
-  - concept
+  - document
 ---
 
 The Bechtel tunneling report is a 1974 study by the American engineering, procurement and construction firm Bechtel, *Research Program Plan for Meeting Tomorrow's Needs in Tunneling and Excavation: Final Report*. It assessed future US demand for tunneling and listed experimental excavation methods then in research and development. UAP Gerb cites it as one of a cluster of early-1970s documents suggesting that large-scale connective tunnels between [[Deep Underground Military Bases (DUMBs)|deep underground military bases]] began around 1974. Researchers have often named Bechtel itself as one of the corporations responsible for DUMB tunnel systems. (The auto-generated transcript renders the company's name as "Beal", and this page was formerly titled "Beal Report".)

@@ -51,6 +51,7 @@ const ICONS: Record<string, Component> = {
   'calendar-clock': CalendarClock,
   'map-pin': MapPin,
   'atom': Atom,
+  'file-text': FileText,
   'clapperboard': Clapperboard,
 }
 

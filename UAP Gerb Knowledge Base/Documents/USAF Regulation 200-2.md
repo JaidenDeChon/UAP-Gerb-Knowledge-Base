@@ -1,7 +1,7 @@
 ---
 name: "USAF Regulation 200-2"
 tags:
-  - concept
+  - document
 ---
 
 USAF Regulation 200-2 was a United States Air Force regulation, issued in the early Cold War, that set rules for reporting, investigating and handling unidentified aerial sightings and for what the public was told about them. Discussions of UAP history often cite it as one of the main policies used to centralize control of UFO-related information.

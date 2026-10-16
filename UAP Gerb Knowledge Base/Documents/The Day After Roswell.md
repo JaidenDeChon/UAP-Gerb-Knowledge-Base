@@ -1,7 +1,6 @@
 ---
 name: "The Day After Roswell"
 tags:
-  - concept
   - document
 ---
 

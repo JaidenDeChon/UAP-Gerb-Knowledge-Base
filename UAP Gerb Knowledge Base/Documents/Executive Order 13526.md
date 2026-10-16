@@ -1,7 +1,7 @@
 ---
 name: "Executive Order 13526"
 tags:
-  - concept
+  - document
 ---
 
 **Executive Order 13526**, titled "Classified National Security Information," is an executive order that President Barack Obama issued in December 2009. It sets a single system for classifying, safeguarding and declassifying national security information in the United States, with criteria and procedures for original classification, derivative classification, declassification and safeguarding.

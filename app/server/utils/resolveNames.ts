@@ -1,4 +1,4 @@
-import type { BakedGeo, BakedPortraits, GraphNode, NoteRef } from '../../shared/types/wiki'
+import type { BakedDocuments, BakedGeo, BakedPortraits, GraphNode, NoteRef } from '../../shared/types/wiki'
 import { resolveName } from '../../wiki/resolve'
 
 /**
@@ -29,13 +29,15 @@ export function normalizeNameParam(name: string | string[] | undefined): string[
  * `geo` (the baked `[lat, lon]` of every note that has coordinates) adds a
  * `coordinates` field to those refs, for `::wiki-map`; `portraits` (the baked
  * portrait of every People note that has one) adds an `image` field, for
- * person cards.
+ * person cards; `documents` adds a `document` field to Documents notes, for
+ * `::wiki-document`.
  */
 export function resolveNames(
   requested: string[],
   index: Map<string, GraphNode>,
   geo: BakedGeo = {},
   portraits: BakedPortraits = {},
+  documents: BakedDocuments = {},
 ): (NoteRef | null)[] {
   const result = requested.map((name): NoteRef | null => {
     const node = resolveName(name, index)
@@ -47,6 +49,8 @@ export function resolveNames(
     if (coordinates) ref.coordinates = [coordinates[0], coordinates[1]]
     const image = portraits[node.i]
     if (image) ref.image = image
+    const document = documents[node.i]
+    if (document) ref.document = document
     return ref
   })
 

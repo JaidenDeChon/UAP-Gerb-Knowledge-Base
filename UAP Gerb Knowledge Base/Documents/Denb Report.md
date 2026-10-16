@@ -1,7 +1,7 @@
 ---
 name: "Denb Report"
 tags:
-  - concept
+  - document
 ---
 
 The **Denb Report** is an anomalous document of unknown origin and the primary source for the [[1974 Coyame, Mexico UFO Crash Retrieval]] case. Titled "Research Findings on Chihuahua Disc Crash," it first appeared on an electronic bulletin board in 1992. Copies were later mailed anonymously to a few UFO researchers, among them [[Elaine Douglas]] and [[Nick Redfern]].

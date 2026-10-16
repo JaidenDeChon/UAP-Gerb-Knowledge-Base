@@ -1,6 +1,7 @@
 import { fileURLToPath } from 'node:url'
 import tailwindcss from '@tailwindcss/vite'
 import { bakeWikiDataModule } from './wiki/bake'
+import { movedNoteRedirects } from './wiki/moved'
 import { cleanTocLabels } from './wiki/toc'
 import { replaceObsidianCallouts, replaceWikiLinks } from './wiki/vault'
 
@@ -29,11 +30,22 @@ export default defineNuxtConfig({
     '/': PAGE_CACHE,
     '/videos': PAGE_CACHE,
     '/wiki/**': PAGE_CACHE,
+    ...movedNoteRedirects(),
   },
   content: {
     renderer: { anchorLinks: false },
   },
   nitro: {
+    // pdf.js fetches these at runtime while drawing a document: WebAssembly
+    // image decoders (JBIG2 and JPEG 2000, common in scanned government
+    // files), CMaps, the standard fonts and ICC profiles. Served from the
+    // site, straight out of the installed package, so they always match the
+    // pdf.js version and never sit in git. See app/utils/pdf.ts.
+    publicAssets: ['wasm', 'cmaps', 'standard_fonts', 'iccs'].map(dir => ({
+      baseURL: `/pdfjs/${dir}`,
+      dir: fileURLToPath(new URL(`./node_modules/pdfjs-dist/${dir}`, import.meta.url)),
+      maxAge: 60 * 60 * 24 * 30,
+    })),
     virtual: {
       // The vault lives beside the app in the repo, so it exists while this
       // builds — but it is not traced into the deployed server bundle. Scan it

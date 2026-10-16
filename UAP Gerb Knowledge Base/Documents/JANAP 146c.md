@@ -1,7 +1,7 @@
 ---
 name: "JANAP 146c"
 tags:
-  - concept
+  - document
   - regulation
 ---
 

@@ -1,7 +1,12 @@
 ---
 name: "Wilson-Davis Memo"
+date: "2002-10-16"
+doc_kind: notes
+provenance: leaked
+rights: unclear
+source_url: "https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf"
 tags:
-  - concept
+  - document
   - classified-document
 ---
 

@@ -49,7 +49,7 @@ LEDGER = VAULT / ".humanized_pages.json"
 
 # Order of the sweep. Anything not listed comes last, alphabetically.
 FOLDER_ORDER = ["Home.md", "MOCs", "Videos", "Events", "Operations",
-                "People", "Organizations", "Concepts", "Locations"]
+                "People", "Organizations", "Concepts", "Documents", "Locations"]
 # Verbatim captions, templates and non-page files are never rewritten.
 SKIP_NAMES = {"transcript.md"}
 SKIP_DIRS = {"_templates", ".obsidian"}

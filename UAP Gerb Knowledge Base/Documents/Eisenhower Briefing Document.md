@@ -1,7 +1,7 @@
 ---
 name: "Eisenhower Briefing Document"
 tags:
-  - concept
+  - document
 ---
 
 The Eisenhower Briefing Document (EBD) is the first and best known of the [[MJ-12 Documents]]: a purported Top Secret MAJIC Eyes Only briefing dated 18 November 1952, prepared for President-elect [[Dwight D. Eisenhower]] with [[Roscoe H. Hillenkoetter]] named as briefing officer. It describes [[Majestic 12]] as a top secret research and development and intelligence operation reporting only to the President. According to the document, the group was set up by a classified executive order of [[Harry Truman]] on 24 September 1947, on the recommendation of [[Vannevar Bush]] and [[James Forrestal]].

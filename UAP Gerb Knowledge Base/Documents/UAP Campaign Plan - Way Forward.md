@@ -1,7 +1,7 @@
 ---
 name: "UAP Campaign Plan - Way Forward"
 tags:
-  - operation
+  - document
 ---
 
 The UAP Campaign Plan — Way Forward is a five-phase roadmap for UAP disclosure drawn up by retired U.S. Army Colonel [[Karl Nell]], who presented it at the [[SOL Foundation Symposium]] in November 2023. It runs along four channels at the same time (public sector, philosophical investigation, scientific research and private sector) and sets a series of phase transition points between January 2024 and October 2034. Phase 3, in October 2030, is identified as the potential inflection point for public disclosure to humanity. On the public record, it is one of the most detailed strategic disclosure frameworks put forward by a credentialed firsthand UAP witness.
