@@ -4167,7 +4167,7 @@
       "id": "L0060",
       "slice": "S032-timeline",
       "found_at": "2026-10-16T19:52:50Z",
-      "status": "open",
+      "status": "discarded",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -4218,13 +4218,15 @@
       "weakest_link": "Castle publicly says 1997, and if he himself remembers Hunter Warrior (a large, memorable experiment) the March date is solid and the anthrax detail is just an unexplained oddity. Pre-1998 anthrax shots did happen for some units (Gulf deployers), and 'hot' may mean nothing. Checkable: VMA-513's participation in Hunter Warrior (MCWL/CNA after-action reports), Castle's service medical record (vaccination dates), and asking Castle how he fixed the date. Not a Gerb slip.",
       "impact": 4,
       "support": 2,
-      "slip": false
+      "slip": false,
+      "resolved_at": "2026-10-16T19:56:30Z",
+      "reason": "Anthrax detail does not discriminate March from any other 1997 date (AVIP shots only began March 1998, Castle puts his first shot a year earlier, Weygandt's April 1997 booster is equally pre-mandate) and 'hot' is one ambiguous word; the remaining point (Gerb, not Castle on camera, supplies the Hunter Warrior window) is too thin to stand alone"
     },
     {
       "id": "L0061",
       "slice": "S032-timeline",
       "found_at": "2026-10-16T19:52:50Z",
-      "status": "open",
+      "status": "shelved",
       "duplicate_of": null,
       "problems": [],
       "kind": "timeline",
@@ -4278,7 +4280,9 @@
       "weakest_link": "Pure date coincidence: Castle's night is unknown within the 12 days (or may not be in March at all; see the companion lead). Directions and times don't match: the Phoenix V moved south from Nevada around 7:30 to 8:45 pm MST, while Castle's craft left north-west late at night (around 2:30). The Phoenix flares were the 10 pm Maryland ANG A-10 drop over the Goldwater range, a different event from the V. 'Flares' is the military's stock answer to night lights. Without a shared night, this is speculative and needs impact 5 to publish, which it probably doesn't reach. Checkable only through Castle pinning his night.",
       "impact": 4,
       "support": 2,
-      "slip": false
+      "slip": false,
+      "resolved_at": "2026-10-16T19:56:30Z",
+      "reason": "True date overlap but a coincidence: Castle's night within the 1-15 March window is unknown, the Phoenix V (about 8 pm, moving south) and Castle's craft (before 2:30 am, leaving north-west) do not match in time or direction, and flares is the stock military answer; speculative at best and below impact 5"
     },
     {
       "id": "L0062",
