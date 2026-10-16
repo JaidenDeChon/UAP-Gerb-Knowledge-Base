@@ -39,7 +39,7 @@ So the confirmation Gerb uses for an Eisenhower deal in 1954 looks like it belon
 - Vallee's text could not be read here. Secondary accounts of the entry disagree on the year: one gives 1971, and Davis's later tellings give 1964. Neither mentions 1954 or Eisenhower, though that comes from search snippets; the book itself was not read.
 - Holloman lore has more than two dates. One researcher, Art Campbell, puts an Eisenhower visit in February 1955. Gerb may have drawn on a source that merges Good's story with the film story.
 - The 1957 date may just be a slip of the tongue in an unscripted closing segment, which would make the disagreement real but small.
-- [[Philip J. Corso]]'s claimed encounter at Red Canyon on the White Sands range in 1957–58, which the scout raised, does not help. It's a different place and a different kind of event, and only the year matches.
+- [[Philip J. Corso]]'s claimed encounter at Red Canyon on the White Sands range in 1957–58, which might look related, does not help. It's a different place and a different kind of event, and only the year matches.
 - None of this bears on whether any landing happened. All three stories rest on witnesses and informants who are reported here, not tested.
 
 ## Already known?

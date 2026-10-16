@@ -25,7 +25,7 @@ Over five videos from January 2025 to September 2026, Gerb's position on the rad
 
 ## How it fits together
 
-The order matters. The softening starts in the Aztec video, four months before Kissner's radar claim appears on the channel, and it rests on the Ramseys' duck story plus Gerb's existing view of SDI as an anti-UFO weapons effort. Kissner then supplies a named source for the radar network itself. By the timeline video, Gerb gives both as his reasons in the same breath. So the scout's reading that the shift simply tracks Kissner is too narrow. The transcripts point to two sources, the Ramseys first.
+The order matters. The softening starts in the Aztec video, four months before Kissner's radar claim appears on the channel, and it rests on the Ramseys' duck story plus Gerb's existing view of SDI as an anti-UFO weapons effort. Kissner then supplies a named source for the radar network itself. By the timeline video, Gerb gives both as his reasons in the same breath. So reading the shift as simply tracking Kissner is too narrow. The transcripts point to two sources, the Ramseys first.
 
 ## What cuts against it
 
