@@ -312,8 +312,8 @@
         "Steven Greer"
       ],
       "handed_out": "2026-10-16T14:36:13Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-16T14:41:44Z",
+      "leads": 3
     },
     "S020-accounts": {
       "lens": "accounts",
@@ -321,8 +321,8 @@
         "Steven Greer"
       ],
       "handed_out": "2026-10-16T14:36:13Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-16T14:41:44Z",
+      "leads": 2
     },
     "S021-focus": {
       "lens": "focus",
@@ -330,8 +330,8 @@
         "Lockheed Martin"
       ],
       "handed_out": "2026-10-16T14:36:13Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-16T14:41:44Z",
+      "leads": 2
     }
   },
   "leads": [
@@ -2718,6 +2718,403 @@
       "slip": true,
       "resolved_at": "2026-10-16T14:21:34Z",
       "reason": "duplicate of L0025, already footnoted as gerb-robertson-1973"
+    },
+    {
+      "id": "L0039",
+      "slice": "S019-focus",
+      "found_at": "2026-10-16T14:41:43Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "timeline",
+      "headline": "Weygandt's Peru retrieval fell in the weeks Greer sent Wilson hunting for the program",
+      "claim": "Gerb dates Jonathan Weygandt's Peru crash retrieval to a night in March or April 1997, and his earlier video points to an A-37 shootdown on 25 March 1997. Gerb dates Steven Greer's Pentagon briefing of the then J-2, Thomas Wilson (with Will Miller and Edgar Mitchell), to 1997, and the Wilson-Davis notes Gerb reads put Wilson's 45-day search for the crash retrieval program at April to June 1997. According to those notes, Wilson was calling the program manager at the end of May and was refused access. Three years later, Weygandt's account reached the public through Greer too. Put on one timeline, the retrieval that Gerb treats as the best window on how a US rapid-reaction recovery team works (DOE NEST, with EG&G in support, on Gerb's reading) happened in the same weeks, or at most a few weeks before, the Joint Staff's intelligence chief started looking for that program. Gerb never sets the two side by side. The finding is the timing only. It does not show that Wilson knew of Peru or that the team Weygandt met belonged to the contractor program Wilson describes. Castle's 29 Palms encounter (2 to 14 March 1997), which Gerb already ties to Weygandt, falls just before both.",
+      "entities": [
+        "Jonathan Weygandt",
+        "Thomas Wilson",
+        "Steven Greer",
+        "Wilson-Davis Memo",
+        "Peru UFO Crash Incident",
+        "1997 Meeting (Wilson, Miller, Mitchell, Greer, Hughes)",
+        "Operation Laser Strike"
+      ],
+      "videos": [
+        "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs",
+        "The Marines Who Got too Close to UFOs",
+        "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The Marines Who Got too Close to UFOs/transcript.md",
+          "quote": "during a late night guard detail in March or April Jonathan staff sergeant montra Sergeant Allen and Sergeant Atkins were all ordered to secure the crash site of a potentially friendly downed aircraft we can see in the image on screen a shootdown occurred on the 25th of March by an a37",
+          "note": "Dates the Peru retrieval to March or April 1997, with a candidate shootdown on 25 March.",
+          "verified": true
+        },
+        {
+          "source": "Videos/1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt/transcript.md",
+          "quote": "In 1997, WGant and the USMC MAC G28 were deployed to Bukalpa, Peru to support Operation Laser Strike",
+          "note": "The year and the operation, from Gerb's 2025 video.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs/transcript.md",
+          "quote": "Wilson then discusses how Steven Greer spoke to him Miller and Edgar Mitchell in 1997 in a Pentagon conference room about UFOs Roswell and crashed UFOs",
+          "note": "Greer's briefing is the trigger for Wilson's search.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs/transcript.md",
+          "quote": "the two then Focus back on Wilson's subsequent 45-day investigation in April to June of 97",
+          "note": "Wilson's search window overlaps or follows the Peru retrieval within weeks.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs/transcript.md",
+          "quote": "at the end of May 97 Wilson made three calls to the program manager",
+          "note": "Wilson reaches the program about two months after the 25 March shootdown.",
+          "verified": true
+        },
+        {
+          "source": "Videos/1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt/transcript.md",
+          "quote": "NEG's Nevada parking lot also served as the meeting place for the disputed but likely accurate 2002 Wilson Davis meeting notes.",
+          "note": "Gerb touches the Wilson-Davis notes in the Peru video only through EG&G as a meeting place, not through dates.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Grepped every transcript that mentions Peru or Laser Strike (17) for Wilson: the Peru video names the Wilson-Davis notes only as an EG&G parking-lot aside; The Marines Who Got too Close to UFOs names the memo only on whether ARVs work; Castle's video has no Wilson. The Wilson Davis video mentions Weygandt's 'crashed UFO in Peru in 97' in the same passage as the 1997 meeting, but only as an example of Greer's good work in that era. It never puts the crash date against Wilson's April to June search. No transcript says 45-day, 'April to June' or 'end of May' near Peru, Wagant/Weygandt/Wgant/Wayant.",
+      "weakest_link": "It is a coincidence of dates in a crowded year (1997), and there is no shared place or person beyond Greer, who only met Weygandt in 2000. Weygandt's date is known only as 'March or April'. The 25 March shootdown is Gerb's suggestion, not Weygandt's date, and the dates of Wilson's search rest on the disputed Wilson-Davis notes (Wilson denies the Davis meeting, though he admits meeting Greer and Mitchell). Neither side can easily be checked further. Weygandt's discharge records would not date the event, and the notes are the only source for April to June. The Wilson Davis passage that names 'Peru in 97' beside the meeting could also be read as Gerb already putting them together, so the writer should judge that passage. This would publish only as a speculative open question.",
+      "impact": 4,
+      "support": 3,
+      "slip": false
+    },
+    {
+      "id": "L0040",
+      "slice": "S019-focus",
+      "found_at": "2026-10-16T14:41:44Z",
+      "status": "discarded",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "Greer's list makes Ed a wing commander his own career can't fit",
+      "claim": "Gerb opens his Edwards video by calling witness 11063 (Ed) 'this former Wing Commander at Edwards', following Greer's witness-list entry. Greer's own notes, as Gerb reads them, start Ed as a first lieutenant at Nellis in 1999 to 2002 and put him at Edwards in 2006 to 2010. In The Hidden Wing Gerb says Ed holds letters of commendation from Dawn Dunlop, who was vice commander and then commander of the 412th Test Wing from 2009 to 2012. Greer's Module 3 and Gerb's later videos make Ed a lieutenant colonel. On those dates Ed could not have commanded the wing, so the witness-list label overstates his post. It may be a garbled rank: RAF 'Wing Commander' is the equivalent of a USAF lieutenant colonel. Gerb's later videos drop the label without comment, and the Sandia video calls Ed 'an Air Force colonel'. This is a footnote on the Edwards video's opening, not a post.",
+      "entities": [
+        "Ed (Witness 11063)",
+        "Steven Greer",
+        "Dawn M. Dunlop",
+        "412th Test Wing",
+        "Edwards Air Force Base"
+      ],
+      "videos": [
+        "UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2",
+        "The Hidden Wing - US Air Force UFO Reverse Engineering Programs",
+        "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2/transcript.md",
+          "quote": "two simple documents on this former Wing Commander at Edwards",
+          "note": "Gerb adopts the label.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2/transcript.md",
+          "quote": "was at the Pentagon doe Wing Commander at Edwards contacted us in 2023",
+          "note": "Greer's witness-list wording.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2/transcript.md",
+          "quote": "the idea Ed was read into UAP programs at Nellis Air Force Base as a first lieutenant from 1999 to 2002",
+          "note": "A 1999 first lieutenant cannot command a wing by 2006 to 2010.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/transcript.md",
+          "quote": "Perhaps then it is also interesting that from 2009 to 2012 Dunlop served as vice commander and commander of the Edwards 412 test wing. Oh, and yeah, Ed has literally received letters of commendation signed by Dunlop during his time in legacy at the 412th.",
+          "note": "The wing had another commander during Ed's time there.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "Ed retired as an Air Force Lieutenant Colonel",
+          "note": "Gerb's later rank for Ed.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Grepped all transcripts for 'wing commander'. Outside the Edwards video it appears only in the McCandlish video, about Norton. Searched Ed's rank across videos: the Lockheed and Special Access Required videos say lieutenant colonel, Sandia says colonel, and The Hidden Wing says 'retired Air Force officer'. Gerb never says the wing-commander label is wrong.",
+      "weakest_link": "It is probably a carried-over label rather than a finding. 'Wing Commander' may be Greer's shorthand for the lieutenant-colonel rank, or the entry may mean something else (the transcript run 'was at the Pentagon doe Wing Commander' is ambiguous). This can be checked against the witness-list PDF in the Disclosure Project archive and the 412th Test Wing's list of commanders on af.mil.",
+      "impact": 2,
+      "support": 4,
+      "slip": true,
+      "resolved_at": "2026-10-16T14:41:49Z",
+      "reason": "duplicate of L0042 (same Ed wing-commander finding; its evidence goes to L0042's writer)"
+    },
+    {
+      "id": "L0041",
+      "slice": "S019-focus",
+      "found_at": "2026-10-16T14:41:44Z",
+      "status": "footnote-candidate",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "Lovekin and the 1998 date for the Wilson briefing",
+      "claim": "In UFO Whistleblowers Vol.1 Gerb says Steven Lovekin attended 'the 1998 briefing' with Greer, Mitchell, Wilson and Miller that features in the Wilson-Davis memo. Everywhere else, Gerb and the notes date that Pentagon briefing to 1997 (April 1997 in the notes' chronology, ahead of the April to June search). The year is very probably a slip. Lovekin's presence at the Pentagon meeting is not in any other transcript and could not be confirmed with a quick search. He may instead have been at the separate 1997 Washington briefings Greer held for congressional and executive staff.",
+      "entities": [
+        "Steven Lovekin",
+        "Thomas Wilson",
+        "1997 Meeting (Wilson, Miller, Mitchell, Greer, Hughes)",
+        "Steven Greer"
+      ],
+      "videos": [
+        "UFO Whistleblowers Vol.1",
+        "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/UFO Whistleblowers Vol.1/transcript.md",
+          "quote": "was also an attendee to the 1998 briefing with Dr Greer Dr Mitchell rear Admiral Thomas Wilson Commander will Miller and others",
+          "note": "The 1998 date and Lovekin as an attendee.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs/transcript.md",
+          "quote": "Wilson then discusses how Steven Greer spoke to him Miller and Edgar Mitchell in 1997 in a Pentagon conference room about UFOs Roswell and crashed UFOs",
+          "note": "The 1997 date, with no Lovekin.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Grepped all transcripts for Lovekin/lovkin/lovein. He is named in five videos (Whistleblowers Vol.1 and Vol.2, Off-World, Kecksburg, MJ-12 with Ryan Wood), but only Vol.1 ties him to the Wilson briefing. Every other transcript that dates the Greer-Wilson meeting says 1997 (Wilson Davis, SAIC, US Navy).",
+      "weakest_link": "Almost certainly a single slip of the year. The open part is whether Lovekin was at the Pentagon meeting at all. Miller's list as Gerb relays it (Mitchell, Wilson, Greer, Hughes) leaves him out, but Gerb's 'and others' leaves room for him. Greer's Hidden Truth and Disclosure accounts of the April 1997 briefings would settle it.",
+      "impact": 2,
+      "support": 3,
+      "slip": true
+    },
+    {
+      "id": "L0042",
+      "slice": "S020-accounts",
+      "found_at": "2026-10-16T14:41:44Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "Greer's list calls Ed a wing commander at Edwards, but his own career dates rule it out",
+      "claim": "Greer's 2024 witness list describes witness 11063 (Ed) as a 'Wing Commander at Edwards', and Gerb opens his Edwards Redacted List video by calling Ed 'this former Wing Commander at Edwards'. The career Greer's own call notes give cannot hold that post: Ed was a first lieutenant at Nellis from 1999 to 2002, was at Hanscom until 2005, and reached Edwards in 2006, where he headed an electronic warfare group as a test director. Greer's Module 3 calls him a lieutenant colonel who managed pilots. A junior field-grade officer in those years would not command the 412th Test Wing, a colonel or brigadier general billet. In The Hidden Wing Gerb himself says Dawn Dunlop served as vice commander and then commander of the 412th from 2009 to 2012 and signed Ed's letters of commendation, which puts Ed under the wing commander, not in the post. Public Edwards records give the wing's commanders across Ed's 2006 to 2010 tour as Col. Arnold Bunch (Feb 2006 to May 2008), Col. William Thornton (from May 2008) and then Dunlop. The inference is that the headline credential on one of the channel's most-cited witnesses is inflated in Greer's file, the same kind of title inflation Gerb criticised Greer for with Steven Lovekin's 'brigadier general'. The narrower claim stops there: it says nothing against what Ed says he did in the electronic warfare group.",
+      "entities": [
+        "Ed (Witness 11063)",
+        "Steven Greer",
+        "412th Test Wing",
+        "Dawn M. Dunlop",
+        "Edwards Air Force Base",
+        "Steven Lovekin"
+      ],
+      "videos": [
+        "UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2",
+        "The Hidden Wing - US Air Force UFO Reverse Engineering Programs",
+        "UFO Whistleblowers Vol.1"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2/transcript.md",
+          "quote": "this astonishing entry reads quote career Air Force Nellis Edwards test director of electronics Warfare group tested reverse engineer technology was at the Pentagon doe Wing Commander at Edwards contacted us in 2023 end quote",
+          "note": "Greer's list entry: the wing commander title sits beside a test director role.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2/transcript.md",
+          "quote": "from two simple documents on this former Wing Commander at Edwards",
+          "note": "Gerb repeats the title in the video's opening without qualification.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2/transcript.md",
+          "quote": "the idea Ed was read into UAP programs at Nellis Air Force Base as a first lieutenant from 1999 to 2002",
+          "note": "Ed was a first lieutenant until 2002, so at most a captain or junior major during his Edwards tour.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2/transcript.md",
+          "quote": "the document state Ed served at Nellis until 2002 and was then sent to Edwards in 2006",
+          "note": "Dates of the Edwards tour from Greer's notes.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2/transcript.md",
+          "quote": "a lieutenant colonel who managed Pilots at Edwards Air Force Base and is responsible for training pilots who operated man-made UFOs",
+          "note": "Greer's own Module 3 gives a lower rank and a pilot-management role, not wing command.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/transcript.md",
+          "quote": "Perhaps then it is also interesting that from 2009 to 2012 Dunlop served as vice commander and commander of the Edwards 412 test wing. Oh, and yeah, Ed has literally received letters of commendation signed by Dunlop during his time in legacy at the 412th.",
+          "note": "Gerb's own records put Ed under the wing commander during his last Edwards years.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UFO Whistleblowers Vol.1/transcript.md",
+          "quote": "so Greer embellished lovekins credentials or didn't vet this through enough",
+          "note": "Gerb's standard for Greer's title inflation, which he did not apply to Ed's.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched every transcript for 'wing commander' (only Edwards Vol.2 applies it to Ed; the McCandlish video uses it for Norton) and for Dunlop (Hidden Wing, Special Access Required Vol.2). No transcript sets Ed's 'Wing Commander' title against his first-lieutenant start, his lieutenant-colonel rank in Module 3 or Dunlop's command; the Castle and Hidden Wing passages on Ed discuss his SSCI appearance and records, not his title. The Ed page notes the 2009 vs 2015 retirement mismatch but not the title.",
+      "weakest_link": "'Wing Commander' may be loose shorthand in Greer's list for a command inside the wing (a squadron or group), or a typist's slip on Greer's side, in which case the finding shrinks to a sloppy label rather than an inflated credential. It is not a slip by Gerb, who quotes the entry verbatim, though his own 'former Wing Commander' gloss is one. Checkable: the 412th TW commander list on edwards.af.mil (Bunch 2006-2008, Thornton from May 2008, Dunlop 2009-2011) and Ed's own records, which Gerb says he has held but which are not public. Ed's identity is withheld, so his actual rank and billets cannot be checked from here.",
+      "impact": 4,
+      "support": 4,
+      "slip": false
+    },
+    {
+      "id": "L0043",
+      "slice": "S020-accounts",
+      "found_at": "2026-10-16T14:41:44Z",
+      "status": "discarded",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "Gerb dates the Wilson briefing Lovekin attended to 1998",
+      "claim": "In UFO Whistleblowers Vol.1 Gerb says Steven Lovekin attended 'the 1998 briefing' with Greer, Mitchell, Thomas Wilson and Will Miller featured in the Wilson-Davis memo. In The Wilson Davis Memo video, and in the SAIC and US Navy videos, Gerb dates that meeting to 1997 (the record gives 9 April 1997). The 1998 is a probable slip for a footnote on the Vol.1 summary and the Lovekin page. Gerb also calls Wilson 'rear Admiral' there; Wilson was a vice admiral and DIA director at the time.",
+      "entities": [
+        "Steven Lovekin",
+        "Thomas Wilson",
+        "1997 Meeting (Wilson, Miller, Mitchell, Greer, Hughes)",
+        "Steven Greer"
+      ],
+      "videos": [
+        "UFO Whistleblowers Vol.1",
+        "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/UFO Whistleblowers Vol.1/transcript.md",
+          "quote": "lovkin was also an attendee to the 1998 briefing with Dr Greer Dr Mitchell rear Admiral Thomas Wilson Commander will Miller and others this meeting featured in The Wilson Davis memo was confirmed by Wilson himself to be true",
+          "note": "1998 and 'rear Admiral'.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs/transcript.md",
+          "quote": "Wilson then discusses how Steven Greer spoke to him Miller and Edgar Mitchell in 1997 in a Pentagon conference room about UFOs Roswell and crashed UFOs",
+          "note": "Same meeting dated 1997 in Gerb's own memo video.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched transcripts for Lovekin (Vol.1, Vol.2, Off-World) and for the 1997 meeting (Wilson Davis, SAIC, US Navy); only Vol.1 says 1998. The Lovekin page already flags the date, so this is a footnote only.",
+      "weakest_link": "A single misremembered year explains it; checkable against the 9 April 1997 date in the Wilson-Davis notes and Wilson's own admission. Whether Lovekin was at the Pentagon meeting itself (rather than Greer's separate April 1997 congressional briefing) rests on Gerb's citation of Joe Murgia and is not settled here.",
+      "impact": 2,
+      "support": 4,
+      "slip": true,
+      "resolved_at": "2026-10-16T14:41:49Z",
+      "reason": "duplicate of L0041"
+    },
+    {
+      "id": "L0044",
+      "slice": "S021-focus",
+      "found_at": "2026-10-16T14:41:44Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "hidden-link",
+      "headline": "Lockheed was running Sandia when Kona Blue was blocked",
+      "claim": "In his Sandia video (November 2025) Gerb offers a working theory for why the CIA's science and technology directorate killed Lockheed's 2008-2011 attempts to divest recovered material: Lockheed was 'still housing recovered materials in a corporate warehouse' and tried to move them 'through an unsanctioned UFO legacy program custodial chain, whereas FFRDCs ... are supposed to house materials', naming Sandia as such an FFRDC. In the same video he states that Martin Marietta and then Lockheed Martin managed Sandia from 1993 to 2017, so throughout both transfer attempts Lockheed (through its Sandia Corporation subsidiary) was itself the operator of the FFRDC his theory treats as the proper custodian. His MITRE video (August 2026) goes further and places the 1953 Kingman craft with Sandia ('like Sandia with 1953's Kingman'), while his Lockheed video holds 'with rather moderate to high conviction' that the Kona Blue material was part or all of Kingman. Gerb never puts these together: in the Lockheed video he contrasts Lockheed with FFRDCs while explicitly setting Sandia aside, and in the Sandia video he does not note that the 'corporate' holder in his custody theory was Sandia's manager at the time. The narrow, unsaid point: on Gerb's own premises (Kingman went to Sandia; FFRDCs hold such material; Kona Blue was Kingman), the 'Lockheed facility' and the 'FFRDC' are not cleanly separate, and the blocked divestment fell inside Lockheed's Sandia tenure. That either undercuts the custody explanation for the block or suggests the material's path ran through Lockheed's management of Sandia, a question none of his videos ask.",
+      "entities": [
+        "Lockheed Martin",
+        "Sandia National Laboratories",
+        "Kona Blue",
+        "James T. Ryder",
+        "1953 Kingman, Arizona Crash Retrieval",
+        "Glenn Gaffney",
+        "CIA Directorate of Science and Technology",
+        "Tonopah Test Range (TTR)"
+      ],
+      "videos": [
+        "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs",
+        "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs",
+        "The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "When Dr. James Ryder of Lockheed Martin attempted to dole out craft material to another, {quote} {unquote}, uninitiated contractor, Lockheed Martin, still housing recovered materials in a corporate warehouse, lit up the CIA's radar like a nuke flash code.",
+          "note": "Gerb's custody explanation for the block: Lockheed held material as a corporation, outside FFRDC custody.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "Kona Blue may have been ultimately killed because Lockheed attempted to divest materials through an unsanctioned UFO legacy program custodial chain, whereas FFRDCs, because they're partly government-owned, are supposed to house materials.",
+          "note": "States the theory; just before it he names 'FFRDCs like the MITRE Corporation or Sandia' as the intended custodians.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "This includes Martin Marietta and Lockheed Martin from 1993 to 2017 as well as a Honeywell subsidiary from 2017 to present.",
+          "note": "Same video: Lockheed managed Sandia across the whole 2008-2011 window.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs/transcript.md",
+          "quote": "There were probably Southwest systems to intake craft at this point, like Sandia with 1953's Kingman.",
+          "note": "Gerb places the Kingman craft with Sandia.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "I believe with rather moderate to high conviction, the materials in question was part to the entirety of the 1953 Kingman, Arizona crash.",
+          "note": "Gerb identifies the Kona Blue material as Kingman, held by Lockheed.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "The Lockheed Corporation has existed before most FFRDC's. I'm not talking about the Sandia.",
+          "note": "When asking why Lockheed enjoys FFRDC-like access to material, Gerb sets Sandia aside rather than citing Lockheed's management of it.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "Lheed had administrative duties over Sandia, which administrated Tonipa.",
+          "note": "Gerb knows of the management link and ties it to Tonopah storage, but never to the Kona Blue material.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched every transcript for windows of 1,500 characters around 'Kona', 'Ryder'/'Rider' and 'divest' that also contain 'Sandia'; hits only in the Sandia, 80 Years and Lockheed videos, and none says Lockheed was managing Sandia at the time of the transfer or links the Kona Blue material to Sandia (80 Years hit is the Doll/AFSWP Kingman passage). Searched the same windows for 'Tonopah' spellings (tonopa, tonapa, tonipa): only the Lockheed video, where Tonopah storage and Kona Blue are discussed separately. Read the MITRE Kingman/Sandia passage and the MITRE custody passage ('Do you give the technology to Lockheed or Northrup'); neither mentions Lockheed's Sandia contract.",
+      "weakest_link": "Three soft premises. (1) 'Like Sandia with 1953's Kingman' is a passing guess Gerb hedges ('probably'), and Kingman = Kona Blue rests on his unnamed sources and Puthoff rumor; Gerb's other witnesses put Kingman at Area 51 (Uhouse) or S4 (Burisch). (2) Ryder was VP of Lockheed Martin Space Systems, a different arm from Sandia Corporation, and DOE-owned Sandia holdings were not Lockheed's to divest; the AAWSAP insider says Lockheed had the collection 'since before it got shut down in '89', i.e. before the 1993 Sandia contract. So the finding cannot claim the material came from Sandia, only that Gerb's custody explanation ignores Lockheed's own role as Sandia's operator. (3) Not a slip: it is a gap between three positions in three videos. Checkable only in part: Sandia Corporation's status as a wholly owned Lockheed subsidiary 1993-2017 is public record (DOE/NNSA), the facility Grusch gave the IG is not.",
+      "impact": 4,
+      "support": 3,
+      "slip": false
+    },
+    {
+      "id": "L0045",
+      "slice": "S021-focus",
+      "found_at": "2026-10-16T14:41:44Z",
+      "status": "footnote-candidate",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "Teledyne Ryan was bought by Northrop, not Lockheed",
+      "claim": "In the opening of Northrop Grumman & TRW Vol.2 Gerb lists 'the alleged Colonel Steve Wilson's claims regarding Teledyne Ryan that would be purchased by Lockheed'. Teledyne Ryan was acquired by Northrop Grumman in 1999; the same video later lists Teledyne Ryan among Northrop's acquisitions, and the Lockheed video describes Northrop's purchases of TRW and Teledyne Ryan. A single slip of company name, for a footnote.",
+      "entities": [
+        "Northrop Grumman",
+        "Lockheed Martin"
+      ],
+      "videos": [
+        "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2/transcript.md",
+          "quote": "the alleged Colonel Steve Wilson's claims regarding Teledyne Ryan that would be [music] purchased by Lockheed serving as a core legacy program contractor",
+          "note": "The slip.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2/transcript.md",
+          "quote": "These [music] numerous and infamous acquisitions include Teledyne Ryan, elements of Sperry Rand, Litton Industries, [music] Aerojet, and most importantly in my opinion, Thompson Ramo Wooldridge, aka TRW Inc.",
+          "note": "Same video lists Teledyne Ryan among Northrop's acquisitions.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Grepped the Northrop Vol.2 transcript for Teledyne/Teladine/Teledine Ryan with purchas/acqui/bought; only the one 'purchased by Lockheed' line contradicts the Northrop acquisition list.",
+      "weakest_link": "Plainly a single slip (Lockheed for Northrop). Northrop's 1999 purchase of Teledyne Ryan is public record (Northrop Grumman press releases, 1999).",
+      "impact": 1,
+      "support": 5,
+      "slip": true
     }
   ]
 }
