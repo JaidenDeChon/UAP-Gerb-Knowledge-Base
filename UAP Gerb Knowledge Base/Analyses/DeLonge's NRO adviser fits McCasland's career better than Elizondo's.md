@@ -16,7 +16,7 @@ In his NRO video Gerb plays a clip of [[Tom DeLonge]] on Joe Rogan's show in Oct
 
 DeLonge said his adviser was "from" the NRO. Among the advisers Gerb names (McCasland, Michael Carey, [[John Podesta]], [[Hal Puthoff]], [[Chris Mellon]], Elizondo, Rob Weiss and Steve Justice), McCasland is the only one whose published career includes NRO assignments. Elizondo's published career has none. His only NRO tie in Gerb's account is the liaison work he did for [[To The Stars Academy]] after leaving the Pentagon. When the episode came out, he had been out of government for about three weeks.
 
-The claim is limited. This post does not say McCasland was the adviser. DeLonge never named that person, and his advisers were not all public. The narrower point is this: the description DeLonge gave fits McCasland's record and doesn't fit Elizondo's, so the clip doesn't support Gerb's identification as well as he suggests.
+This post does not say McCasland was the adviser. DeLonge never named that person, and not all of his advisers were public. The claim is narrower: the description DeLonge gave fits McCasland's record and doesn't fit Elizondo's, so the clip doesn't support Gerb's identification as well as he suggests.
 
 ## The evidence
 
@@ -34,7 +34,7 @@ Elizondo's record is different. A Pentagon memo released through The Black Vault
 
 None of the other advisers has an NRO career on the record either. Michael Carey's Air Force biography covers space, missile and nuclear staff posts and command of 20th Air Force, the ICBM force. Mellon was a Senate intelligence committee staffer and a deputy assistant secretary of defense; his NRO connection is a Gold Medal the agency awarded him, not a job there. Puthoff's background is SRI and contract work for the CIA, and Justice and Weiss came from Lockheed Martin's Skunk Works.
 
-If DeLonge meant one of these people, McCasland is the only one who fits. There is also a consequence for Gerb's IMCON argument. Gerb dates IMCON to "the same year of Imcon's establishment 2017". McCasland had been retired for four years by then, so if he was DeLonge's source, the "episodic visits" talk would be older than IMCON rather than taken from its tasking.
+If DeLonge meant one of these people, McCasland is the only one who fits. This also bears on Gerb's argument about Immaculate Constellation (IMCON), which he dates to "the same year of Imcon's establishment 2017". McCasland had been retired for four years by then, so if he was DeLonge's source, the "episodic visits" talk would be older than IMCON rather than taken from its tasking.
 
 ## What cuts against it
 
