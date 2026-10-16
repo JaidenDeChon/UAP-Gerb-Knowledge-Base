@@ -43,6 +43,8 @@ grep -il "<surname or key term B>" "UAP Gerb Knowledge Base/Videos/"*/transcript
 
 Read the passages in any transcript that names both.
 
+For every quote you cite, read a few paragraphs on either side of it. A later sentence in the same transcript often undercuts the argument the quote seemed to support (a date given elsewhere, a source named a minute later).
+
 If the lead depends on what Gerb thinks or says ("Gerb dates X to 2009", "Gerb never questions Y"), search for counter-quotes as hard as for the connection itself. A position built from two or three quotes is often wrong once you read his other videos on the same subject. If Gerb (or a guest) already draws the line, drop the lead. Captions misspell names ("Grusch" as "Grush", "Fouche" as "Foosh"), so also search likely mis-spellings. Record what you searched for in `not_said_check`.
 
 ## Output
