@@ -18,6 +18,9 @@ useHead({ title: 'Analyses' })
     <h1 class="font-display text-[clamp(32px,5vw,56px)] font-extrabold uppercase leading-none tracking-[0.02em] text-foreground">
       Analyses
     </h1>
+    <p class="mt-4 max-w-[640px] font-sans text-[16px] leading-[26px] text-muted-foreground">
+      Connections, coincidences, contradictions and patterns found across Gerb's videos.
+    </p>
     <p class="mb-8 mt-3 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground">
       <template v-if="analyses?.length">{{ analyses.length }} {{ analyses.length === 1 ? 'analysis' : 'analyses' }} · newest first</template>
       <template v-else>&nbsp;</template>
