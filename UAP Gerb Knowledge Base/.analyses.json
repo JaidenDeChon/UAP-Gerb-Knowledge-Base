@@ -2439,7 +2439,7 @@
       "id": "L0035",
       "slice": "S016-timeline",
       "found_at": "2026-10-16T14:21:29Z",
-      "status": "open",
+      "status": "written",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -2504,7 +2504,9 @@
       "weakest_link": "The account is third-hand (a sailor to RK to Stringfield to Gerb), so the Glomar detail or the year may simply be the sailor's error. That makes this a finding about the account's internal fit, not proof the event didn't happen. Without the Glomar detail the craft and shoot-down stay unrefuted. They lose only their NURO and Inman link. The sticking point isn't a Gerb slip: Gerb reports the sailor's claim accurately, and the conflict is between the account and the ship's record. Checkable: the CIA's declassified Azorian history (National Security Archive EBB 305), USNI and ASME give the 1973 build, trial and transit dates. Also confirm from Status Report III that Stringfield's text names the Glomar and isn't Gerb's gloss.",
       "impact": 4,
       "support": 4,
-      "slip": false
+      "slip": false,
+      "resolved_at": "2026-10-16T14:26:26Z",
+      "analysis": "Analyses/The Glomar Explorer wasn't in the Pacific yet when RK's craft was said to be recovered.md"
     },
     {
       "id": "L0036",
