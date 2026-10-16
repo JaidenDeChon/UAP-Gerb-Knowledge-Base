@@ -1917,8 +1917,7 @@ dropped rather than shown.
   the title of every post, in place of the fact table: the same three chips
   (`components/analysis/AnalysisMarks.vue`), the date, and one muted line
   saying an AI research agent found and wrote the post from the knowledge
-  base, checked it against the transcripts, and that it draws inferences, not
-  established fact. The `dek:` becomes the page's lead. Confidence shows as a three-step
+  base and checked it against the transcripts. The `dek:` becomes the page's lead. Confidence shows as a three-step
   meter (one bar for speculative, three for strong); the labels live in
   `utils/analysis.ts`.
 

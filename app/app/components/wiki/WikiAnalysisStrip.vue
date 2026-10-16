@@ -27,7 +27,7 @@ const published = computed(() => formatDay(props.meta.date))
     </div>
     <p class="mt-2.5 font-sans text-[13px] leading-5 text-muted-foreground">
       Found and written by an AI research agent working from the knowledge base, and checked against the
-      video transcripts. It draws inferences from the evidence in Gerb's videos; it is not established fact.
+      video transcripts.
     </p>
   </section>
 </template>
