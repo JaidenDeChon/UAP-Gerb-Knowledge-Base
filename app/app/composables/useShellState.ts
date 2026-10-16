@@ -17,3 +17,22 @@ export function useSidebarOpen() {
 export function useCommandOpen() {
   return useState<boolean>('shell:command', () => false)
 }
+
+/**
+ * Desktop only: the sidebar slimmed to an icon rail. Kept in a cookie so the
+ * server renders the same width the reader left it at (no flash on load), and
+ * mirrored in shared state so every reader sees a toggle at once.
+ */
+export function useSidebarCollapsed() {
+  const cookie = useCookie<boolean>('uapgdb-sidebar-collapsed', {
+    default: () => false,
+    maxAge: 60 * 60 * 24 * 365,
+    sameSite: 'lax',
+  })
+  const collapsed = useState<boolean>('shell:sidebar-collapsed', () => cookie.value === true)
+  function toggle(): void {
+    collapsed.value = !collapsed.value
+    cookie.value = collapsed.value
+  }
+  return { collapsed, toggle }
+}

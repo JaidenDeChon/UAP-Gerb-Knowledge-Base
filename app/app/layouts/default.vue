@@ -3,6 +3,17 @@ import { computed, onMounted, watch } from 'vue'
 
 const route = useRoute()
 const sidebarOpen = useSidebarOpen()
+const { collapsed } = useSidebarCollapsed()
+
+// The sidebar's width lives in one CSS variable (main.css, --ufo-sidebar-w),
+// switched by this attribute so the sidebar and everything positioned beside
+// it (the loader, the reveal veil) agree. On <html> and server-rendered, so
+// the first paint already has the right width.
+useHead({
+  htmlAttrs: {
+    'data-sidebar': computed(() => (collapsed.value ? 'rail' : 'full')),
+  },
+})
 const pageLoading = useNuxtApp().$pageLoad.loading
 
 // The full-screen graph lives at /map (and its renderer test routes under
@@ -86,6 +97,12 @@ router.beforeEach((to, from) => {
   display: none;
 }
 
+/* The drawer is always full width; on desktop the width follows
+   --ufo-sidebar-w (main.css), which the rail narrows. */
+.ufo-sidebar {
+  width: 280px;
+}
+
 @media (max-width: 900px) {
   .ufo-sidebar {
     position: fixed;
@@ -101,6 +118,15 @@ router.beforeEach((to, from) => {
   .ufo-menu-btn {
     display: inline-flex;
   }
+  .ufo-collapse-btn {
+    display: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ufo-sidebar {
+    transition: none !important;
+  }
 }
 
 @media (min-width: 901px) {
@@ -108,6 +134,8 @@ router.beforeEach((to, from) => {
     position: sticky;
     top: 0;
     height: 100dvh;
+    width: var(--ufo-sidebar-w);
+    transition: width var(--dur-slow) var(--ease-out);
   }
   .ufo-scrim {
     display: none;
