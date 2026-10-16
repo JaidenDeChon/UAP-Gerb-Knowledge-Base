@@ -383,8 +383,8 @@
         "Majestic 12"
       ],
       "handed_out": "2026-10-16T19:05:45Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-16T19:12:10Z",
+      "leads": 2
     },
     "S026-links": {
       "lens": "links",
@@ -411,7 +411,7 @@
         "Project Sign, Grudge, and Blue Book Operation Period|Wright-Patterson Air Force Base"
       ],
       "handed_out": "2026-10-16T19:06:04Z",
-      "ingested": null,
+      "ingested": "2026-10-16T19:12:10Z",
       "leads": 0
     },
     "S027-focus": {
@@ -420,8 +420,8 @@
         "Leonard Stringfield"
       ],
       "handed_out": "2026-10-16T19:06:04Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-16T19:12:10Z",
+      "leads": 4
     }
   },
   "leads": [
@@ -3413,6 +3413,335 @@
       "slip": true,
       "resolved_at": "2026-10-16T19:03:46Z",
       "footnote": "gerb-palladium-shandera"
+    },
+    {
+      "id": "L0049",
+      "slice": "S025-focus",
+      "found_at": "2026-10-16T19:12:10Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "Corso says his team named the EBEs; the MJ-12 briefing document credits Bronk in 1947",
+      "claim": "In his Corso video Gerb treats the phrase 'extraterrestrial biological entity' (EBE) as a link between Corso and the Majestic 12 Special Operations Manual, noting that EBE-1 closely matches Corso's Fort Riley body. But the sources disagree on where the term came from. In an interview clip in the same video, Corso says the name came out of his own work: once his group concluded the beings were clones, 'the name came out' EBE. Gerb places that clone conclusion with Corso and the OCRD, i.e. 1961 onward. The Eisenhower Briefing Document, as Gerb reads it in his Ryan Wood video, says Dr. Detlev Bronk performed the 1947 Roswell autopsies and coined the term, and the briefing document is dated 1952 and SOM 1-01 1954, both before Corso's Pentagon tour. Corso's own affidavit adds a third version: the 1947 Walter Reed autopsy reports he read in 1961 already used the phrase. So the shared term cannot do the corroborating work Gerb gives it: either the term existed by 1947-1954 (and Corso's coinage story is wrong), or Corso's team coined it in the 1960s (and the 1952/1954 documents are using it before it existed). The inference is narrow: the overlap in wording is not independent support for either source, and it is consistent with Corso (book 1997) having taken the term from the MJ-12 material, public since 1987.",
+      "entities": [
+        "Philip J. Corso",
+        "Extraterrestrial Biological Entity",
+        "Special Operations Manual (SOM 1-01)",
+        "Eisenhower Briefing Document",
+        "Detlev Bronk",
+        "Majestic 12"
+      ],
+      "videos": [
+        "Philip J. Corso - US Army UFO Technology Research & Development",
+        "The Majestic-12 Documents With Ryan S. Wood"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/Philip J. Corso - US Army UFO Technology Research & Development/transcript.md",
+          "quote": "the body was referred to as an Ebe extraterrestrial biological entity the same phrase us used in The Majestic 12 special operations manual this manual describes two sets of Ebe Ebe 1 and 2 ebe1 closely matches the description of Corso's observed body",
+          "note": "Gerb uses the shared term and EBE-1 description as a point of agreement between Corso and SOM 1-01.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Philip J. Corso - US Army UFO Technology Research & Development/transcript.md",
+          "quote": "corso and the ocrd believed these beans to be cloned or at the very least Expendable creatures sent by some sort of intelligence",
+          "note": "The clone conclusion is placed with Corso and the OCRD, i.e. his 1961-63 Army R&D tour.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Philip J. Corso - US Army UFO Technology Research & Development/transcript.md",
+          "quote": "so when I start putting all this on the exur together we finally gave it a name I told her looks like you know these are clones and so the name came out extra extraterrestrial biological entity",
+          "note": "Corso (interview clip) says the name came out of his own analysis, after the clone conclusion.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Philip J. Corso - US Army UFO Technology Research & Development/transcript.md",
+          "quote": "that the autopsy report referred to the creature as an extraterrestrial biological entity",
+          "note": "Corso's affidavit says the 1947 Walter Reed autopsy reports already used the term, which conflicts with his clip.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Majestic-12 Documents With Ryan S. Wood/transcript.md",
+          "quote": "Dr detlev Bron performed autopsies on the bodies and coined the term Ebe or extraterrestrial biological entity",
+          "note": "Per the Eisenhower Briefing Document (dated 18 November 1952), Bronk coined the term in 1947.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for 'EBE', 'EBEs', 'biological entit', 'coined', 'clones' and 'Bronk'/'Bron'. EBE appears only in the Corso and Wood videos; 'clones' only in the Corso video; Bronk only in the Wood, Manhattan Project 2.0 and Sandia videos, never alongside Corso's coinage claim. No transcript sets Corso's coinage against Bronk's or against the 1952/1954 document dates. Note: the vault's own Extraterrestrial Biological Entity page already lists the two origins side by side, but no video does.",
+      "weakest_link": "The Corso clip is a short interview excerpt: 'we finally gave it a name' could be loose phrasing for adopting a term rather than inventing it, and the speaker's 'I told her' context is unclear in the captions; the writer should confirm against the full interview or The Day After Roswell. Not a slip by Gerb: the disagreement is between Corso's words, his affidavit and the briefing document. Checkable via Corso's book/affidavit text and the EBD text (Bronk team suggested 'EBEs'). Web check found no source establishing the term before the 1984 film release, so the 'Corso borrowed it' reading is inference only.",
+      "impact": 4,
+      "support": 4,
+      "slip": false
+    },
+    {
+      "id": "L0050",
+      "slice": "S025-focus",
+      "found_at": "2026-10-16T19:12:10Z",
+      "status": "footnote-candidate",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "Bush had left the RDB and NACA chairs before Sarbacher's 1950 'small group'",
+      "claim": "In his Sarbacher video Gerb says that when Sarbacher told Wilbert Smith (15 September 1950) that a small group headed by Vannevar Bush studied UFOs, Bush was 'at this time' chairman of the Research and Development Board and chairman of NACA, and that Bush's Joint Research and Development Board was 'established in 1941' with twelve members. Bush chaired the RDB from 30 September 1947 to 14 October 1948 (Karl Compton then Webster followed); Gerb himself gives 1947 to 1948 in his Manhattan Project 2.0 video. Bush chaired NACA 1939-41; in 1950 NACA's chairman was Jerome Hunsaker, himself a listed MJ-12 member. The JRDB dates from 1946, not 1941. Probable slip in the early Sarbacher video, corrected implicitly later. Narrow point of interest for the footnote: in 1950 Bush held neither post, so whatever 'small group' he headed was not the RDB in his capacity as chairman.",
+      "entities": [
+        "Vannevar Bush",
+        "Robert Sarbacher",
+        "Research and Development Board",
+        "Majestic 12"
+      ],
+      "videos": [
+        "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group",
+        "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1",
+        "The 1948 Aztec, New Mexico UFO Crash Retrieval"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group/transcript.md",
+          "quote": "sarbacher told Wilbert the study of UFOs in the United States government was done by a small group spearheaded by Dr vavar Bush who was at this time the chairman of the research and development board to which sarbacher belonged and the chairman for the national advisory committee for Aeronautics which would later become NASA",
+          "note": "Gives Bush both chairs in 1950.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group/transcript.md",
+          "quote": "joint research and development board established in 1941 which consisted of you guessed it 12 members",
+          "note": "JRDB was created in 1946; 1941 is the year OSRD was set up.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1/transcript.md",
+          "quote": "helped establish the Research and Development Board RDB on which he would serve as chairman from 1947 to 1948",
+          "note": "Gerb's later video gives the correct RDB tenure.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/transcript.md",
+          "quote": "Recall how Sarbacher said in 1950 as consultant to the defense research board UFO crash retrieval meetings were held at Wright Patterson by the R&D board spearheaded by Vanavar Bush.",
+          "note": "The 1950 RDB-under-Bush framing recurs in the Aztec video.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for 'chairman of the research and development', 'RDB', 'Compton', 'Webster', 'Hunsaker', 'national advisory committee'. Only Manhattan Project 2.0 gives Bush's 1947-1948 RDB tenure; no transcript notes that Bush had left the RDB or NACA chair by 1950, or that Hunsaker chaired NACA then. Compton appears only in the Navy video, not as RDB chair.",
+      "weakest_link": "Mostly a slip by Gerb (a title carried forward from Bush's earlier career, and 1941 for 1946), so it belongs in the footnote queue. Checkable: Bush RDB tenure 30 Sep 1947-14 Oct 1948 (Wikipedia; Physics Today 1948 'Vannevar Bush resigns'); NACA chairmanship Bush 1939-41, Hunsaker 1941-56 (NASA history). The Aztec framing partly follows Sarbacher's own words, so the 1950 'R&D board spearheaded by Bush' wording may be Sarbacher's memory as much as Gerb's.",
+      "impact": 2,
+      "support": 4,
+      "slip": true
+    },
+    {
+      "id": "L0051",
+      "slice": "S027-focus",
+      "found_at": "2026-10-16T19:12:10Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "hidden-link",
+      "headline": "The IPU papers Gerb treats as independent of Steinman came from a man who said he knew Stringfield",
+      "claim": "In the Aztec video Gerb finds it 'utterly fascinating' that William Steinman's sources put George Marshall and the Interplanetary Phenomenon Unit at the 1948 Aztec recovery years before the IPU report and field order surfaced (handed to Tim Cooper by 'Thomas Cantwheel' in 1993-96), and he lists the Bronk and Oppenheimer overlaps between those documents and Steinman's account as parallels. He raises the possibility of copying only in general terms ('from researchers such as Steinman and Hall'). The videos hold a more specific channel that he never joins up. Steinman got into Aztec through Leonard Stringfield's Status Reports, and Stringfield wrote the foreword to Steinman's 1986 book, the book that introduced the IPU into the Aztec story. In the Majestic-12 video Ryan Wood says Cantwheel, the self-described IPU officer who supplied both IPU documents, wrote to Cooper as he was dying describing 'his relationship with Stringfield and fredman'. And the recipient, Cooper, was himself a contributor to Stringfield: his November 1990 interview with Albert Bruce Collins ('Barnabas') ran in Status Report VI (1991), a year before Cantwheel's drops began in 1992. So the IPU-Aztec claim in Steinman's book and the IPU documents that seem to echo it both pass through Stringfield's circle. This doesn't show copying, but it means the parallels Gerb sees can't be counted as independent confirmation.",
+      "entities": [
+        "Thomas Cantwheel",
+        "Tim Cooper",
+        "William Steinman",
+        "Leonard Stringfield",
+        "Interplanetary Phenomenon Unit",
+        "Aztec UFO Crash and Recovery",
+        "MJ-12 Documents",
+        "Albert Bruce Collins"
+      ],
+      "videos": [
+        "The 1948 Aztec, New Mexico UFO Crash Retrieval",
+        "The Majestic-12 Documents With Ryan S. Wood",
+        "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt",
+        "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers",
+        "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/transcript.md",
+          "quote": "I do find it utterly fascinating the sources of Steinman informed him Marshall and the IPU helmed the Aztec recovery many years before the quote unquote leaks of these documents",
+          "note": "Gerb treats the Steinman account and the later IPU documents as two separate lines that agree.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/transcript.md",
+          "quote": "So if it is a hoax, the authors of the hoax could have easily copied known IPU details from researchers such as Steinman and Hall",
+          "note": "The general copying possibility is raised. No named route is given, and Stringfield doesn't come into it.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/transcript.md",
+          "quote": "the IPU report dated July 1947 given to Cooper from Canwell personally in July of 1995",
+          "note": "Cantwheel is the source of the IPU report.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/transcript.md",
+          "quote": "Steinman became intrigued with behind the flying saucers after he once read about the Aztec case in Stringfield's UFO crash retrieval status reports 1 through 7",
+          "note": "Steinman's way into Aztec ran through Stringfield.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/transcript.md",
+          "quote": "Stringfield was approached by Steinman in 1985 to write the forward for the 1986 epic that is the ultra rare UFO crash at Aztec a well-kept secret",
+          "note": "Stringfield wrote the foreword to the book that put the IPU at Aztec.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Majestic-12 Documents With Ryan S. Wood/transcript.md",
+          "quote": "he goes on to um describe you know his relationship with Stringfield and fredman",
+          "note": "Wood, describing Cantwheel's deathbed letter to Cooper.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Majestic-12 Documents With Ryan S. Wood/transcript.md",
+          "quote": "in his letter to Cooper Thomas K wheel took ownership for many of the mailbox Majestic document drops starting in 1992",
+          "note": "The drops start in 1992, after Cooper had already supplied Stringfield with the Collins material.",
+          "verified": true
+        },
+        {
+          "source": "Videos/1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt/transcript.md",
+          "quote": "Anyways, Cooper interviewed Barnabas aka Albert Bruce Collins shortly before his 1990 New Year's Eve death on 20 November 1990",
+          "note": "Cooper was a Stringfield contributor (Status Report VI, 1991) before he received the IPU papers.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for Cantwheel spellings (cantwheel, can wheel, canwell, kwell, kheel, cantwell) and for Stringfield/Springfield/'string field'. Cantwheel and Stringfield appear together only in Wood's sentence in the Majestic-12 video, and Steinman never comes up there. In the Aztec video Gerb skips Cantwheel ('I'm going to skip over Thomas Canwell') and raises copying only from 'Steinman and Hall'. The Sandia video turns the borrowing idea toward Kissner, not Stringfield. The Peru and NRO videos tie Cooper to Stringfield through Collins but never mention the IPU. No transcript links Cantwheel's Stringfield tie to Steinman or Aztec.",
+      "weakest_link": "'His relationship with Stringfield' is Ryan Wood's spoken paraphrase of Cantwheel's letter. The letter may be checkable through Cooper's affidavit and the Cantwheel material on majesticdocuments.com, but nothing here says what the relationship was (correspondent, source, acquaintance). The IPU name was also public by the early 1980s (Hall's FOIA, Steinman's 1986 book), so a forger needed no tie to Stringfield. The finding is narrower than 'copied': it shows that both lines share a node, so they can't serve as independent confirmation of each other. Not a Gerb slip.",
+      "impact": 4,
+      "support": 3,
+      "slip": false
+    },
+    {
+      "id": "L0052",
+      "slice": "S027-focus",
+      "found_at": "2026-10-16T19:12:10Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "hidden-link",
+      "headline": "Stringfield's Kecksburg trucker puts the Navy in charge at Wright-Patterson, the service behind Walker's lab",
+      "claim": "In the Kecksburg video Gerb asks whether Eric A. Walker, who admitted being at the crash site, and a colleague examined the object for a program in Penn State's Applied Research Laboratory, which Walker founded in 1945 'at the behest of the US Navy' and which is a Navy UARC. In the same video, but in a different section, Gerb reports Stringfield's witness Myron, the only custody witness at Wright-Patterson. Myron said the US Navy was the customer for the shielding bricks and sent a representative to inspect them, and that the men unloading at the warehouse wore Navy, not Air Force, insignia. Gerb passes over the Navy detail without comment and never sets it beside Walker's Navy lab. His Navy programs video does bring up Walker at Kecksburg, as part of its survey of craft held by the Navy, but leaves out Myron's Navy men. Lined up, the two halves give Gerb's Penn State/Navy hypothesis a witness at the receiving end: the Air Force base held the object, but on Myron's account the Navy handled it there.",
+      "entities": [
+        "Myron",
+        "Eric A. Walker",
+        "Applied Research Laboratory",
+        "US Navy",
+        "1965 Kecksburg, Pennsylvania Crash Retrieval",
+        "Leonard Stringfield",
+        "Wright-Patterson Air Force Base"
+      ],
+      "videos": [
+        "The 1965 Kecksburg, Pennsylvania UFO Crash",
+        "US Navy UFO Crash Retrieval & Reverse Engineering Programs"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/transcript.md",
+          "quote": "the company was contracted for a large order of special glazed bricks to write Patterson Air Force Base the customer the US Navy according to myON sent a representative to the business to select and inspect the bricks",
+          "note": "Myron, as recorded by Stringfield: the Navy ordered and inspected the bricks.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/transcript.md",
+          "quote": "Myra noticed the men were Navy not Air Force by Insignia on their uniforms",
+          "note": "Navy personnel at the warehouse holding the bell.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/transcript.md",
+          "quote": "Pennsylvania State University does indeed have a uarc the applied research laboratory for the US Navy in fact Walker would help create the applied Research Center at the behest of the US Navy in 1945",
+          "note": "Walker's lab is a Navy UARC.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/transcript.md",
+          "quote": "could Walker and his colleague have been tasked with investigating the kbur crash for UAP program stemming from Penn State University",
+          "note": "Gerb's hypothesis, stated with no reference to Myron's Navy men.",
+          "verified": true
+        },
+        {
+          "source": "Videos/US Navy UFO Crash Retrieval & Reverse Engineering Programs/transcript.md",
+          "quote": "Not only admitting he himself was present at the 1965 Kexsburg, Pennsylvania UFO crash",
+          "note": "The Navy video has Walker at Kecksburg but not Myron's Navy-run delivery.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for Myron spellings (myron, myon, myan, myin), 'brick', 'glazed' and 'insignia': Myron and the Navy bricks appear only in the Kecksburg video. Read every 'Navy/naval' hit in the Kecksburg transcript: the Walker/ARL paragraph, the Joint Chiefs list and the two Myron sentences. Gerb never comments on the Navy detail or connects it to Walker. The Navy video mentions Walker at Kecksburg but has no 'brick' or Myron hit.",
+      "weakest_link": "Myron is a single witness whose story grew over time (the body on the workbench appears only in 1998), and Stringfield's insider 'Uncle' called Kecksburg a crashed spy plane. 'Navy' could mean any Navy office at Wright-Patterson, not Walker's ARL. And since Gerb already ties Kecksburg to the Navy through Walker, the finding adds independent support rather than a new direction, so the writer should weigh whether that clears impact 4. Checkable only through Stringfield's Status Report VI text (whether Myron's Navy wording is his own) and Stan Gordon's Kecksburg book. Not a slip.",
+      "impact": 4,
+      "support": 3,
+      "slip": false
+    },
+    {
+      "id": "L0053",
+      "slice": "S027-focus",
+      "found_at": "2026-10-16T19:12:10Z",
+      "status": "footnote-candidate",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "Gerb dates Stringfield's Kingman pilot to 1997, three years after Stringfield died",
+      "claim": "In the Kingman video Gerb says that 'in 1997' Leonard Stringfield was approached by a pilot after a lecture at Lunken Airport in Cincinnati, then says JLD came to Stringfield 'in 1994'. Stringfield died on 18 December 1994, so the pilot encounter must predate 1997. This is a probable slip (perhaps a transposed 1979 or a year carried over from another case). The vault page and summary already correct it in their text, but no gerb- footnote exists.",
+      "entities": [
+        "Leonard Stringfield",
+        "1953 Kingman, Arizona Crash Retrieval"
+      ],
+      "videos": [
+        "The 1953 Kingman, Arizona UFO Crash"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The 1953 Kingman, Arizona UFO Crash/transcript.md",
+          "quote": "in 1997 Leonard Stringfield a respected UFO researcher was approached by a pilot after a lecture at the lcan airport in Cincinnati Ohio",
+          "note": "The date that is impossible.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "No transcript gives another date for the Lunken Airport encounter. The Stringfield page gives his death as 1994-12-18.",
+      "weakest_link": "A single slip by Gerb, or a caption error, explains it fully. The true year is not in the vault and needs checking against Stringfield's Status Report text before a footnote gives a corrected year; otherwise the footnote should only say it must predate December 1994.",
+      "impact": 2,
+      "support": 4,
+      "slip": true
+    },
+    {
+      "id": "L0054",
+      "slice": "S027-focus",
+      "found_at": "2026-10-16T19:12:10Z",
+      "status": "footnote-candidate",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "Gerb puts Tim Cooper's MJ-12 drops in the 1980s; they began in 1992",
+      "claim": "In both the Peru and NRO videos Gerb introduces Tim Cooper, the source of Stringfield's Albert Bruce Collins material, as 'one of the primary researchers who received significant drops of Majestic 12 documents in the 1980s'. In the Majestic-12 video Gerb's own narration says Cantwheel's mailbox drops to Cooper started in 1992, and the Aztec video dates the IPU papers to 1993-96 and July 1995. Cooper's Collins interview (20 November 1990) and Stringfield's use of it in Status Report VI (1991) therefore came before Cooper received any MJ-12 material, not after. This is a probable slip repeated in a reused script paragraph.",
+      "entities": [
+        "Tim Cooper",
+        "Albert Bruce Collins",
+        "Leonard Stringfield",
+        "MJ-12 Documents"
+      ],
+      "videos": [
+        "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt",
+        "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers",
+        "The Majestic-12 Documents With Ryan S. Wood"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers/transcript.md",
+          "quote": "Much of Stringfield's work here came from UFO researcher Tim Cooper, one of the primary researchers who received significant drops of Majestic 12 documents in the 1980s",
+          "note": "The 1980s date (the same sentence appears in the Peru video).",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Majestic-12 Documents With Ryan S. Wood/transcript.md",
+          "quote": "in his letter to Cooper Thomas K wheel took ownership for many of the mailbox Majestic document drops starting in 1992",
+          "note": "Gerb's own narration elsewhere: 1992.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched the transcripts for 'Tim Cooper'/'Timothy Cooper'. Only the Peru and NRO videos use 'in the 1980s'. The Wood and Aztec videos give 1992 to 1999 dates. Gerb never reconciles them.",
+      "weakest_link": "A single slip explains it, perhaps by conflating Cooper with the 1984 Shandera film drop. Cooper's 1992 start can be checked on majesticdocuments.com (Timothy S. Cooper source page). The Tim Cooper vault page already notes the Peru discrepancy.",
+      "impact": 2,
+      "support": 4,
+      "slip": true
     }
   ]
 }
