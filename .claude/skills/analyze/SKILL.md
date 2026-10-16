@@ -23,15 +23,16 @@ If it lists slices that were handed out but never ingested (a scout died mid-run
 ## Each iteration
 
 1. **Scout when the queue runs low.** If fewer than 5 leads are open (`python3 scripts/analyses.py list`), run a scouting round:
-   1. `python3 scripts/analyses.py next-slices 3`. It prints one entry per slice, each with its `slice` id, `packet` and `leads_file`, rotating through the four lenses (links, accounts, timeline, patterns).
+   1. `python3 scripts/analyses.py next-slices 3`. It prints one entry per slice, each with its `slice` id, `packet` and `leads_file`, rotating through the lenses with `focus` (one of the most-referenced subjects) every other slice.
    2. Dispatch one `analysis-scout` per slice **in a single message so they run in parallel**, passing each its slice id, packet path and leads-file path. Keep it to 3 at a time.
    3. When all have returned, run `python3 scripts/analyses.py ingest` and commit `UAP Gerb Knowledge Base/.analyses.json` with a message like `Scout analysis leads: S004-S006 (7 leads)`.
    4. Pass on to the user any page errors the scouts reported. Don't fix them here.
    5. If `next-slices` prints nothing (`ALL SWEPT`) and no leads are open, report that and stop.
-2. **Write one lead.** Dispatch `analysis-writer` in the foreground, one at a time (parallel writers would take the same lead). Pass the lead id if one was given.
-3. **Humanize.** If the writer published a post, dispatch `page-humanizer` on that post's path. Spot-check its commit as the humanize-pages skill says: every fact, quote, wikilink and the frontmatter must survive.
-4. **Push** after every 3 resolved leads, and at the end: `git push -u origin <current branch>`. If there's no open PR for the branch, open one. Never push to the default branch.
-5. **Report** each resolved lead to the user in a short paragraph: the headline and decision, the kind, confidence and novelty, and the single strongest piece of evidence, or the reason for the discard.
+2. **Footnotes, in batches.** When no open lead is left (`python3 scripts/analyses.py next` prints `NO LEADS`) but `next-footnote` has candidates, dispatch one `analysis-writer` to footnote up to three of them in one run (the footnote route in its instructions), then continue. Footnotes are cheap and never outrank a real lead.
+3. **Write one lead.** Dispatch `analysis-writer` in the foreground, one at a time (parallel writers would take the same lead). Pass the lead id if one was given.
+4. **Humanize.** If the writer published a post, dispatch `page-humanizer` on that post's path. Spot-check its commit as the humanize-pages skill says: every fact, quote, wikilink and the frontmatter must survive.
+5. **Push** after every 3 resolved leads, and at the end: `git push -u origin <current branch>`. If there's no open PR for the branch, open one. Never push to the default branch.
+6. **Report** each resolved lead to the user in a short paragraph: the headline and decision, the kind, confidence and novelty, and the single strongest piece of evidence, or the reason for the discard.
 
 ## Pacing and cost
 

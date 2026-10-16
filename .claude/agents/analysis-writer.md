@@ -66,13 +66,14 @@ Use `WebSearch` and `WebFetch`.
 
 ## Phase 4: decide
 
+- **Shelve** when the finding, once narrowed by the break-it phase, falls below the impact bar in "Publishing bar" (impact under 4, or a `speculative` finding under 5): `python3 scripts/analyses.py resolve <id> shelved "<why>"`. A solid but minor finding is a shelve, not a post. If it's really a slip, footnote it instead.
 - **Downgrade** when the facts hold but the inference is weaker than the lead claims: narrow the claim and write a `speculative` open question as "Publishing bar" in `docs/analyses.md` describes. Try this before discarding.
 - **Discard** when any discard rule in `docs/analyses.md` holds. Run `python3 scripts/analyses.py resolve <id> discarded "<one-sentence reason>"`, commit the ledger with a message like `Discard analysis lead L0007: already made in the Kecksburg video`, and go to the report.
 - **Fix a page instead** when the "finding" turns out to be a mistake in one of the vault's own pages: correct that page against the transcript (keep its links and quotations, and put a `> [!edit]` card beneath the corrected paragraph as the "Edit cards" section of CLAUDE.md describes), discard the lead with the reason `page error, fixed <page>`, and commit both.
 - **Footnote** a probable slip instead of writing a post: a disagreement a single misstatement could explain (a swapped acronym, a misremembered year, a gloss, a paraphrase that drifts from the clip). Follow "Contradiction or footnote?" and "Footnotes" in `docs/analyses.md`: add the same `[^gerb-…]` footnote to the video summary sentence and to the most relevant entity page, add a `## ` entry to `Analyses/Footnotes and Corrections.md` (create it with `kind: footnotes` frontmatter if it doesn't exist), then run `python3 scripts/analyses.py resolve <id> footnoted "<footnote id>"` and commit those files with the ledger.
 - **Frame a change of view fairly.** When the finding is that Gerb's view changed across videos, say plainly that his understanding may have changed as new information reached him, and name that information if the transcripts or dates point to it.
 - **Report, don't fix,** a page that's wrong against outside facts rather than a transcript (an out-of-date headquarters, a wrong birth year). List it under "Page issues" in your report so the enricher agents can pick it up.
-- **Write it** otherwise, choosing `confidence` and `novelty` by the tables in the standard. When in doubt between two confidence labels, take the lower.
+- **Write it** otherwise, and add `impact: <4 or 5>` to the post's frontmatter, choosing `confidence` and `novelty` by the tables in the standard. When in doubt between two confidence labels, take the lower.
 
 ## Phase 5: write the post
 

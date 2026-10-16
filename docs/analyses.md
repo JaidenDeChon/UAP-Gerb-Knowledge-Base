@@ -118,9 +118,21 @@ Length: as short as the evidence allows, usually 400 to 900 words.
 
 ## Publishing bar
 
-All three confidence labels are published. A speculative analysis is worth a post when it's specific and honestly labelled; what keeps a lead out is the discard rules below, not its confidence.
+Only the juiciest findings are published. "Juicy" is about **impact**, not confidence: how much the finding changes the story of a subject viewers care about. Every lead carries an `impact` score.
 
-**Downgrade before you discard.** When a lead's facts check out but the inference is weaker than the scout claimed (the timing fits more than one explanation, the match isn't unique, the premise rests on a source that can't be checked from here), don't discard it. Narrow the claim to what the evidence does support and publish it as a `speculative` *open question*:
+| `impact` | Means | Example shape |
+|---|---|---|
+| 5 | Changes how a central case, person or program reads: a flagship witness's account, where crash material went, who controlled a program, whether a key document holds together. | The officer a famous witness says briefed him was elsewhere that year; the custody chain of a major crash runs through a different agency than every video assumes. |
+| 4 | Materially changes a significant thread about a well-covered subject. | A senior official's dates put him on the other side of the contractor line during an episode Gerb treats as central. |
+| 3 | An interesting detail that changes a minor thread. | Two minor figures from different videos served at the same base. |
+| 1-2 | Trivia, or a correction with no consequence for the story. | A date off by a year in a passing remark. |
+
+- **Impact 4 or 5 is required to publish.** Below 4, a lead is shelved (or footnoted if it's a slip), however solid it is.
+- **Confidence and impact trade off.** `strong` or `moderate` needs impact 4 or more. `speculative` needs impact 5: a low-confidence finding is only worth a reader's time when it would matter a lot if true.
+- **Prefer the big subjects.** A finding about one of the most-referenced people, programs or cases (`python3 scripts/analyses.py signals focus`) is worth more than the same finding about a minor one. Impact 5 almost always involves one of them.
+- **Score honestly after the break-it phase,** not before. A lead the scout scored 4 that shrinks to a minor point once narrowed is shelved.
+
+**Downgrade before you discard,** as long as the bar above still holds. When a lead's facts check out but the inference is weaker than the scout claimed (the timing fits more than one explanation, the match isn't unique, the premise rests on a source that can't be checked from here), don't discard it. Narrow the claim to what the evidence does support and publish it as a `speculative` *open question*:
 
 - The headline asks or states the narrower point, never the scout's stronger one.
 - It's short, about 300 to 750 words including quotes (verbatim quotes run long), and uses the usual sections. `## What cuts against it` comes straight after `## The finding`, ahead of the evidence, so the reader meets the weaknesses first.

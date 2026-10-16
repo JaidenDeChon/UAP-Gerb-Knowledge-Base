@@ -5,16 +5,23 @@
     python3 scripts/analyses.py next-slices K     # hand out K unswept slices, one packet file each
     python3 scripts/analyses.py ingest            # add every scout's leads file to the queue
     python3 scripts/analyses.py next              # the highest-scoring open lead, as JSON
+    python3 scripts/analyses.py next-footnote     # the best footnote candidate (a probable slip), as JSON
     python3 scripts/analyses.py show ID           # one lead, with any duplicates folded into it
     python3 scripts/analyses.py list [STATUS]     # leads, best first (default: open)
     python3 scripts/analyses.py resolve ID written "Analyses/<Headline>.md"
     python3 scripts/analyses.py resolve ID discarded "<reason>"
     python3 scripts/analyses.py resolve ID footnoted "<footnote id, e.g. gerb-condron-field>"
+    python3 scripts/analyses.py resolve ID shelved "<why it falls below the impact bar>"
     python3 scripts/analyses.py signals LENS [N]  # preview a lens's raw signals without handing out a slice
 
-A *slice* is one scout's share of the vault, seen through one of four lenses:
+A *slice* is one scout's share of the vault, seen through one of five lenses:
 
-- links: entity pairs that share many neighbours in the link graph but never
+- focus: one of the most-referenced people, programs or cases, read across
+  every video that covers it. This is the main lens: the subjects viewers care
+  about most have the widest pool of material, and a finding about them matters
+  most. It comes up every other slice.
+
+- links: entity pairs, at least one of them well covered, that share many neighbours in the link graph but never
   link each other, never appear in the same video summary, and are never
   named within a few paragraphs of each other in any transcript. These are the
   near misses where a connection may exist that no video made.
@@ -22,8 +29,12 @@ A *slice* is one scout's share of the vault, seen through one of four lenses:
   whose accounts can be compared for contradictions.
 - timeline: dated sentences for one decade, led by month-precise dates that
   pages from unrelated videos share.
-- patterns: batches of Events and Operations pages to read for a mechanism
-  that repeats across unrelated cases.
+- patterns: batches of Events and Operations pages, most-covered first, to
+  read for a mechanism that repeats across unrelated cases.
+
+Leads carry an `impact` score (1-5). Below MIN_IMPACT they're kept out of the
+writer's queue: a probable slip (`slip: true`) goes to the footnote queue, and
+anything else is shelved, where it can be revived if new evidence raises it.
 
 Swept items are recorded, so new videos produce new slices and nothing is
 swept twice. The queue lives in `UAP Gerb Knowledge Base/.analyses.json`;
@@ -53,9 +64,16 @@ PAIR_DIRS = {"People", "Organizations", "Operations", "Events", "Locations"}
 ACCOUNT_DIRS = {"People", "Events", "Operations"}
 PATTERN_DIRS = ["Events", "Operations"]
 KINDS = {"hidden-link", "timeline", "contradiction", "pattern"}
-LENSES = ["links", "accounts", "timeline", "patterns"]
+# Focus every other slice: the most-covered subjects are where findings matter most.
+LENSES = ["focus", "links", "focus", "accounts", "focus", "patterns", "focus", "timeline"]
 
 LINKS_PER_SLICE = 20
+# Only leads with at least this impact reach the writer (see "Publishing bar" in docs/analyses.md).
+MIN_IMPACT = 4
+# A focus subject is covered by at least this many videos; a links pair needs one side with HUB_MIN_VIDEOS.
+FOCUS_MIN_VIDEOS = 8
+HUB_MIN_VIDEOS = 5
+FOCUS_DIRS = {"People", "Organizations", "Operations", "Events", "Concepts"}
 # Leads of the same kind whose entity sets overlap at least this much (Jaccard) fold together.
 # Roswell, the IPU and a few people recur everywhere, so this has to be high.
 DUPLICATE_OVERLAP = 0.75
@@ -185,10 +203,15 @@ def near_misses(vault: Vault) -> list[dict]:
             continue
         for a, b in combinations(pairable, 2):
             candidates[(a, b)] += weight
-    ranked = [
-        (pair, score) for pair, score in candidates.most_common()
-        if pair[1] not in vault.adj[pair[0]] and not (vault.videos_of[pair[0]] & vault.videos_of[pair[1]])
-    ][:600]
+    # Weight each pair by how well covered its entities are, and skip pairs where
+    # neither side is a subject viewers know: those findings matter to no one.
+    cover = lambda n: len(vault.videos_of[n])
+    weighted = [
+        ((a, b), s * math.log(2 + cover(a) + cover(b))) for (a, b), s in candidates.items()
+        if max(cover(a), cover(b)) >= HUB_MIN_VIDEOS
+        and b not in vault.adj[a] and not (vault.videos_of[a] & vault.videos_of[b])
+    ]
+    ranked = sorted(weighted, key=lambda r: (-r[1], r[0]))[:600]
     pos = transcript_positions(vault, {n for pair, _ in ranked for n in pair})
     out = []
     for (a, b), score in ranked:
@@ -258,11 +281,22 @@ def dated_sentences(vault: Vault, decade: str) -> tuple[list[dict], list[dict]]:
 
 
 def pattern_pages(vault: Vault) -> list[dict]:
-    return [
+    rows = [
         {"key": name, "page": vault.rel(path), "videos": len(vault.videos_of[name])}
         for name, path in vault.entities.items()
         if vault.folder[name] in PATTERN_DIRS
     ]
+    return sorted(rows, key=lambda r: (-r["videos"], r["key"]))
+
+
+def focus_subjects(vault: Vault) -> list[dict]:
+    """The most-referenced subjects, most-covered first: one per focus slice."""
+    rows = [
+        {"key": name, "name": name, "page": vault.rel(vault.entities[name]), "videos": sorted(vault.videos_of[name])}
+        for name in vault.entities
+        if vault.folder[name] in FOCUS_DIRS and len(vault.videos_of[name]) >= FOCUS_MIN_VIDEOS
+    ]
+    return sorted(rows, key=lambda r: (-len(r["videos"]), r["name"]))
 
 
 # ------------------------------------------------------------------ ledger --
@@ -283,8 +317,13 @@ def swept(ledger: dict, lens: str) -> set[str]:
     return {i for s in ledger["slices"].values() if s["lens"] == lens for i in s["items"]}
 
 
+def impact(lead: dict) -> int:
+    """How much the finding changes the story of a major subject (older leads scored it as `surprise`)."""
+    return lead.get("impact", lead.get("surprise", 0))
+
+
 def score(lead: dict) -> int:
-    return lead.get("surprise", 0) * lead.get("support", 0)
+    return impact(lead) * lead.get("support", 0)
 
 
 # ----------------------------------------------------------------- packets --
@@ -348,6 +387,28 @@ def packet_timeline(decade: str, sentences: list[dict], clusters: list[dict]) ->
     return "\n".join(lines)
 
 
+def packet_focus(vault: Vault, row: dict) -> str:
+    name = row["name"]
+    co = Counter(n for v in row["videos"] for n in vault.entities if v in vault.videos_of[n] and n != name)
+    published = [p.stem for p in (VAULT / "Analyses").glob("*.md") if name in p.read_text(encoding="utf-8")] \
+        if (VAULT / "Analyses").exists() else []
+    lines = [
+        f"Focus subject: {name}, covered by {len(row['videos'])} videos. It's one of the most-referenced",
+        "subjects in the vault, so a finding about it matters to more viewers than almost anything else.",
+        "Read its page, then what every video below says about it. Look for all four kinds of finding:",
+        "a hidden link to another well-known subject, a timing that lines up across videos, a contradiction",
+        "between sources (not a slip by Gerb), or a pattern. Only high-impact findings are worth a lead.",
+        "",
+        f"- page: {row['page']}",
+    ]
+    lines += [f"- Videos/{v}/summary.md  +  transcript.md" for v in row["videos"]]
+    lines += ["", "## Most often covered alongside it (shared videos)", ""]
+    lines += [f"- {n} ({c}) | {vault.rel(vault.entities[n])}" for n, c in co.most_common(15)]
+    lines += ["", "## Already published or footnoted about it (don't re-find these)", ""]
+    lines += [f"- {s}" for s in published] or ["(none)"]
+    return "\n".join(lines)
+
+
 def packet_patterns(rows: list[dict]) -> str:
     lines = [
         "Read every page below in full. Look for a mechanism that repeats across cases that",
@@ -379,6 +440,7 @@ def cmd_next_slices(k: int) -> None:
     INBOX.mkdir(exist_ok=True)
     made = []
     pools = {
+        "focus": lambda: [r for r in focus_subjects(vault) if r["key"] not in swept(ledger, "focus")][:1],
         "links": lambda: [r for r in near_misses(vault) if r["key"] not in swept(ledger, "links")][:LINKS_PER_SLICE],
         "accounts": lambda: take_passages([r for r in multi_video(vault) if r["key"] not in swept(ledger, "accounts")]),
         "timeline": lambda: [d for d in DECADES if d not in swept(ledger, "timeline")][:1],
@@ -386,7 +448,7 @@ def cmd_next_slices(k: int) -> None:
     }
     exhausted: set[str] = set()
     turn = len(ledger["slices"])
-    while len(made) < k and len(exhausted) < len(LENSES):
+    while len(made) < k and len(exhausted) < len(set(LENSES)):
         lens = LENSES[turn % len(LENSES)]
         turn += 1
         if lens in exhausted:
@@ -396,7 +458,9 @@ def cmd_next_slices(k: int) -> None:
             exhausted.add(lens)
             continue
         slice_id = f"S{len(ledger['slices']) + 1:03d}-{lens}"
-        if lens == "links":
+        if lens == "focus":
+            items, text = [rows[0]["key"]], packet_focus(vault, rows[0])
+        elif lens == "links":
             items, text = [r["key"] for r in rows], packet_links(vault, rows)
         elif lens == "accounts":
             items, text = [r["key"] for r in rows], packet_accounts(vault, rows)
@@ -448,9 +512,15 @@ def cmd_ingest() -> None:
                  and ents and len(ents & set(o["entities"])) / len(ents | set(o["entities"])) >= DUPLICATE_OVERLAP),
                 None,
             )
+            if dup:
+                status = "duplicate"
+            elif impact(lead) >= MIN_IMPACT:
+                status = "open"
+            else:
+                status = "footnote-candidate" if lead.get("slip") else "shelved"
             ledger["leads"].append({
                 "id": lead_id, "slice": slice_id, "found_at": now(),
-                "status": "duplicate" if dup else "open", "duplicate_of": dup,
+                "status": status, "duplicate_of": dup,
                 "problems": problems, **lead,
             })
             added += 1
@@ -482,6 +552,16 @@ def cmd_next() -> None:
     print(json.dumps(with_duplicates(ledger, open_leads[0]), indent=2, ensure_ascii=False))
 
 
+def cmd_next_footnote() -> None:
+    ledger = load()
+    queue = sorted((l for l in ledger["leads"] if l["status"] == "footnote-candidate"),
+                   key=lambda l: (bool(l["problems"]), -l.get("support", 0), l["id"]))
+    if not queue:
+        print("NO FOOTNOTES")
+        return
+    print(json.dumps(queue[0], indent=2, ensure_ascii=False))
+
+
 def cmd_show(lead_id: str) -> None:
     ledger = load()
     lead = next((l for l in ledger["leads"] if l["id"] == lead_id), None)
@@ -499,15 +579,15 @@ def cmd_list(status: str) -> None:
 
 
 def cmd_resolve(lead_id: str, outcome: str, detail: str) -> None:
-    if outcome not in {"written", "discarded", "footnoted"}:
-        sys.exit("outcome must be 'written', 'discarded' or 'footnoted'")
+    if outcome not in {"written", "discarded", "footnoted", "shelved"}:
+        sys.exit("outcome must be 'written', 'discarded', 'footnoted' or 'shelved'")
     ledger = load()
     lead = next((l for l in ledger["leads"] if l["id"] == lead_id), None)
     if not lead:
         sys.exit(f"no lead {lead_id}")
     if outcome == "written" and not (VAULT / detail).is_file():
         sys.exit(f"no such analysis: {detail}")
-    field = {"written": "analysis", "discarded": "reason", "footnoted": "footnote"}[outcome]
+    field = {"written": "analysis", "discarded": "reason", "footnoted": "footnote", "shelved": "reason"}[outcome]
     lead.update(status=outcome, resolved_at=now(), **{field: detail})
     for dup in ledger["leads"]:
         if dup.get("duplicate_of") == lead_id:
@@ -542,8 +622,11 @@ def cmd_signals(lens: str, n: int) -> None:
             print(f"{decade}: {len(sentences)} dated sentences, {len(clusters)} month clusters")
     elif lens == "patterns":
         print(f"{len(pattern_pages(vault))} Events and Operations pages")
+    elif lens == "focus":
+        for r in focus_subjects(vault)[:n]:
+            print(f"{len(r['videos']):>3}  {r['name']}")
     else:
-        sys.exit(f"lens must be one of {LENSES}")
+        sys.exit(f"lens must be one of {sorted(set(LENSES))}")
 
 
 def main(argv: list[str]) -> None:
@@ -558,6 +641,8 @@ def main(argv: list[str]) -> None:
         cmd_ingest()
     elif cmd == "next":
         cmd_next()
+    elif cmd == "next-footnote":
+        cmd_next_footnote()
     elif cmd == "show" and args:
         cmd_show(args[0])
     elif cmd == "list":
