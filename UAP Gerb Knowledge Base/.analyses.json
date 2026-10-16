@@ -1169,7 +1169,7 @@
       "id": "L0017",
       "slice": "S006-accounts",
       "found_at": "2026-10-16T04:25:10Z",
-      "status": "open",
+      "status": "written",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -1217,7 +1217,9 @@
       "not_said_check": "Searched all transcripts and vault pages for 'condr' (Condron, Condrin): one hit, the Aztec transcript passage above. Searched 'field order' across transcripts: only the Aztec and Majestic-12 videos, neither of which mentions White Sands in that context. The Interplanetary Phenomenon Unit page repeats the Roswell reading. Web: airfields-freeman.com (Alamogordo/White Sands page) and an NMSU photo record identify Condron Field as the White Sands range's southern airfield.",
       "weakest_link": "Rests on Gerb's reading of the document; the writer must check the field order's actual text (majesticdocuments.com, or Wood's Majic Eyes Only) to confirm it says Condron Field and not something the caption garbled. Condron's 1947 status is uncertain: the airfields site dates it to 1947-48 from sectional charts, while a Wikipedia list gives 1945, and an NMSU caption says it was named for a WWII-era pilot; the anachronism point should stay secondary unless a firm construction date turns up (WSMR history office). Even without the anachronism, the core point (Condron is White Sands, not Roswell) survives if the document text is confirmed.",
       "surprise": 3,
-      "support": 3
+      "support": 3,
+      "resolved_at": "2026-10-16T04:42:55Z",
+      "analysis": "Analyses/The IPU field order sends its team to a White Sands airfield, not Roswell.md"
     },
     {
       "id": "L0018",
