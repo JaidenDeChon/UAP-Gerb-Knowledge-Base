@@ -98,7 +98,7 @@ OCR output is raw: misread letters, broken words, stamps and handwriting read as
 
 ## Transcriptions
 
-A transcription is a clean reading text of a document, checked against the page images. Write one for every hosted document whose text came from OCR, or whose own text layer is visibly bad. A born-digital file (the AARO and ODNI reports) doesn't need one.
+A transcription is a clean reading text of a document, checked against the page images, so a reader can read the document as text on the site rather than only page by page in the viewer. Every hosted document gets one. For a born-digital file (the AARO and ODNI reports) the draft's words are already exact, and the work is mostly restoring structure: headings, lists, tables, footnotes.
 
 It lives at `Documents/Transcriptions/<Document title> (Transcription).md`. The suffix keeps a bare `[[Document title]]` link pointing at the document's page, not its transcription. Transcriptions stay out of the knowledge graph, like video transcripts. The sidebar lists them under Documents â†’ Transcriptions, and the document's viewer links to its own. The humanizer skips the folder.
 
@@ -120,9 +120,10 @@ A reading text of the [[Hottel Memo]], from the FBI Vault's two-page release. â€
 
 **How to make one:**
 
-1. `node scripts/fetch-documents.mjs text "Title"` prints the OCR text page by page (`text "Title" 3-5` for a range).
-2. For each page, `node scripts/fetch-documents.mjs page "Title" N` renders it to a PNG; read it. The image is the authority, and the OCR is only a first draft. Never transcribe a page you haven't looked at.
-3. Write the page under `## Page N`, following the conventions below. A long document can be done in batches of pages, but finish every page before you commit; a half-done transcription is worse than none.
+1. `node scripts/fetch-documents.mjs draft "Title"` (from `app/`) writes a first draft from the file's text layer: one `## Page N` section per page, lines reflowed into paragraphs and broken words rejoined. It goes to `app/scripts/.cache/documents/drafts/<Title> (Transcription).md`, outside the vault. `draft "Title" 11-38` appends a range to an existing draft.
+2. For each page, `node scripts/fetch-documents.mjs page "Title" N` renders it to a PNG; read it. The image is the authority, and the draft is only a first pass. Never pass a page you haven't looked at.
+3. Correct the draft against the image with small edits, a word, a phrase or a sentence at a time, following the conventions below: OCR misreads, headings run into text, tables, stamps, `[sic]`. Don't retype whole pages. Long verbatim output from a well-known document can be stopped by the API's output filter, while small edits get through.
+4. When every page has been checked, move the file into `Documents/Transcriptions/`. A half-done transcription stays in the drafts folder; a long one can be finished over several sessions.
 
 **Conventions.** The aim is a text that reads smoothly and says exactly what the page says, no more:
 
@@ -168,5 +169,4 @@ For that to work unattended:
 - **The Condon Report** is linked, not hosted: its title page carries the University of Colorado's copyright. Some claims on its page (the RB-47 launching from Carswell, the 600-mile pursuit, a CIA report of the incident) aren't in volume 1 and still need a source.
 - **The Avery Technical Center assessment** is hosted as a federal work, since the Army Corps of Engineers prepared it for the Air Force, with help from a contractor. If that call is ever doubted, set `rights: unclear` and it becomes link-only.
 - **No public copy** is known for the Bechtel tunneling report (catalogued by NTIS as PB-242 777, with no full text online), the Denb Report, SOM 1-01 or the Bowen Manuscript beyond aggregator samples, or the alleged UAPTF report beyond forum reposts.
-- **Long transcriptions can be cut off.** The API's output filter has stopped long runs of verbatim text from widely published documents (it happened with the Robertson Panel report). Transcribe such a document a few pages per pass, saving after each page.
 - **Documents mentioned without a page yet**, for example: the Twining memo, the Project Sign "Estimate of the Situation", the Moon Dust cables, the Kona Blue packet, the Immaculate Constellation report, Grusch's IG complaint (not public), the NRO "Recent Sentient Highlights" and the Wilbert Smith memo. The daily run's documents phase picks these up as videos mention them.

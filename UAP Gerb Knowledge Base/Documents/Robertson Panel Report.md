@@ -18,8 +18,12 @@ The Robertson Panel Report is the CIA's record of the [[Robertson Panel]], the s
 ## What it contains
 
 - **The panel's report (Tab A).** The conclusions and recommendations that later made the panel notorious: no evidence that the reports showed a direct threat to national security, and a recommendation that the government reduce public interest in UFOs through education and "debunking", and keep watch on civilian UFO groups.
-- **The evidence reviewed.** Case files and films from [[Project Grudge]] and [[Project Blue Book]], and work by [[Project Stork]], the [[Battelle Memorial Institute]] study.
+- **The evidence reviewed.** Status reports of [[Project Grudge]] and [[Project Blue Book]], the Tremonton, Utah and Great Falls, Montana films, and work by [[Project Stork]], the [[Battelle Memorial Institute]] study (Tab B).
 - **The participants.** Robertson, with panel members including [[Thornton Page]], and [[J. Allen Hynek]] among the associate members.
+- **Later pages.** The CREST copy ends (pages 33 to 38) with excerpts from Blue Book Special Report No. 14, dated 5 May 1955, filed with the memorandum.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said the panel reviewed case files and films from Grudge and Blue Book. Tab B lists Grudge and Blue Book status reports and, separately, the Tremonton and Great Falls films. The note on the copy's last pages is new, from the transcription.
 
 ## In Gerb's videos
 

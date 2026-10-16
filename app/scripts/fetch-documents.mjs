@@ -9,6 +9,7 @@
 //   node scripts/fetch-documents.mjs page "Title" N      render page N to a PNG to read by eye
 //   node scripts/fetch-documents.mjs lookup <url>        list the Wayback captures under a URL
 //   node scripts/fetch-documents.mjs probe <url>         download a candidate PDF and show what it is
+//   node scripts/fetch-documents.mjs draft "Title" [N-M] start a transcription from the text layer
 //
 // Targets: every Documents note (default), or page titles as arguments
 // ("Hottel Memo" "Robertson Panel Report").
@@ -58,6 +59,7 @@ import { existsSync, mkdirSync, mkdtempSync, readdirSync, readFileSync, rmSync, 
 import { tmpdir } from 'node:os'
 import { dirname, join, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
+import { reflowPage } from './documents-lib.mjs'
 import { slugify } from './people-images-lib.mjs'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
@@ -81,8 +83,8 @@ const MAX_BYTES = 50 * 1024 * 1024
 const [command = 'fetch', ...rest] = process.argv.slice(2)
 const flags = new Set(rest.filter(a => a.startsWith('--')))
 const names = rest.filter(a => !a.startsWith('--'))
-if (!['init', 'fetch', 'check', 'text', 'page', 'lookup', 'probe'].includes(command)) {
-  console.error('Usage: node scripts/fetch-documents.mjs <init|fetch|check|text|page|lookup|probe> ["Page title" ...] [--force]')
+if (!['init', 'fetch', 'check', 'text', 'page', 'lookup', 'probe', 'draft'].includes(command)) {
+  console.error('Usage: node scripts/fetch-documents.mjs <init|fetch|check|text|page|lookup|probe|draft> ["Page title" ...] [--force]')
   process.exit(1)
 }
 
@@ -149,6 +151,18 @@ function readManifest() {
   catch {
     return { documents: {} }
   }
+}
+
+/**
+ * Records one document's entry. The manifest is read again just before the
+ * write and only this entry changes, so runs fetching different documents at
+ * the same time don't overwrite each other's results.
+ */
+function saveEntry(title, entry) {
+  const manifest = readManifest()
+  manifest.documents ??= {}
+  manifest.documents[title] = entry
+  writeManifest(manifest)
 }
 
 function writeManifest(manifest) {
@@ -367,7 +381,7 @@ async function fetchOne(doc, manifest) {
   const { width, height } = renderThumb(pdfPath, Math.min(doc.thumbPage, pages), thumbFile)
 
   const url = await upload(bytes, `${sha256}.pdf`)
-  manifest.documents[doc.title] = {
+  saveEntry(doc.title, {
     url,
     sha256,
     bytes: bytes.length,
@@ -379,8 +393,7 @@ async function fetchOne(doc, manifest) {
     source: doc.source,
     fetchedFrom: got.from,
     retrieved: new Date().toISOString().slice(0, 10),
-  }
-  writeManifest(manifest)
+  })
   console.log(`  ✓ ${pages} ${pages === 1 ? 'page' : 'pages'}, ${(bytes.length / 1e3).toFixed(0)} KB, ${sha256.slice(0, 12)}…${ocr ? ` (OCR: ${ocr})` : ''}`)
 }
 
@@ -408,6 +421,43 @@ async function printText() {
     const text = execFileSync('pdftotext', ['-f', String(n), '-l', String(n), path, '-'], { encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore'] })
     console.log(`=== Page ${n} ===\n${text.replace(/\f/g, '').trimEnd()}\n`)
   }
+}
+
+/**
+ * `draft "Title" [N-M]`: a first draft of a transcription, written by this
+ * script from the hosted file's text layer, page by page, into
+ * `scripts/.cache/documents/drafts/<Title> (Transcription).md` (or appended
+ * to it, for a range). The transcriber then corrects it against the page
+ * images with small edits and moves it into the vault when every page is
+ * checked. Drafting here rather than retyping keeps long verbatim passages
+ * out of the model's output, which the API's output filter can stop.
+ */
+async function draftTranscription() {
+  const [title, range = ''] = names
+  if (!title) throw new Error('Usage: draft "Page title" [N-M]')
+  const { path, entry } = await hostedPdf(title)
+  const [from, to] = range ? range.split('-').map(Number) : [1, entry.pages]
+  const dir = resolve(CACHE, 'drafts')
+  mkdirSync(dir, { recursive: true })
+  const out = resolve(dir, `${title} (Transcription).md`)
+  let body = existsSync(out) ? readFileSync(out, 'utf8').trimEnd() : [
+    '---',
+    `name: "${title} (Transcription)"`,
+    `document: "${title}"`,
+    `transcribed: "${new Date().toISOString().slice(0, 10)}"`,
+    `method: "${entry.ocr ? `ocrmypdf (Tesseract, ${entry.ocr})` : 'the file\'s own text layer'}, checked page by page against the page images"`,
+    'tags:',
+    '  - transcription',
+    '---',
+    '',
+    `A reading text of the [[${title}]]. Editorial marks are in square brackets; see "Transcriptions" in the site's documents guide for what each one means.`,
+  ].join('\n')
+  for (let n = from; n <= (to || from); n++) {
+    const text = execFileSync('pdftotext', ['-f', String(n), '-l', String(n), path, '-'], { encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore'] })
+    body += `\n\n## Page ${n}\n\n${reflowPage(text) || '*[page blank]*'}`
+  }
+  writeFileSync(out, `${body}\n`)
+  console.log(out)
 }
 
 /** `page "Title" N`: page N as a 1400px-wide PNG, for reading what OCR couldn't. */
@@ -464,6 +514,7 @@ async function probe() {
 async function main() {
   if (command === 'init') return initBucket()
   if (command === 'probe') return probe()
+  if (command === 'draft') return draftTranscription()
   if (command === 'text') return printText()
   if (command === 'page') return renderPage()
   if (command === 'lookup') return lookup()
