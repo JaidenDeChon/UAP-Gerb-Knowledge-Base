@@ -4020,7 +4020,7 @@
       "id": "L0058",
       "slice": "S030-patterns",
       "found_at": "2026-10-16T19:30:20Z",
-      "status": "open",
+      "status": "written",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -4061,7 +4061,9 @@
       "weakest_link": "The deciding fact (Fishbowl Thor launches carried parachute-recovered instrument pods, and the Safeguard's 'pod' is one of them) is not in the vault; it comes from a web search hit on a declassified General Dynamics report on DTIC (ADA995471) which speaks of the Blue Gill flight generally, and that particular snippet may describe the failed earlier Bluegill attempts rather than Triple Prime. The writer must confirm from DTIC or the Operation Dominic DNA history that Triple Prime carried pods and which ship recovered them. Secondary issue: web results credit the downed-UFO argument to Australian intelligence officer Geoff Cruickshank (in an interview with Ross Coulthart), using these same deck logs, not to Malmgren; if Malmgren never discussed Bluegill, Gerb's attribution is itself a likely slip (footnote). Not a Gerb slip as a whole: the issue is the evidence, not a misspoken word.",
       "impact": 4,
       "support": 2,
-      "slip": false
+      "slip": false,
+      "resolved_at": "2026-10-16T19:34:01Z",
+      "analysis": "Analyses/The pod in the Safeguard's logs fits Bluegill Triple Prime's own instrument pods.md"
     }
   ]
 }
