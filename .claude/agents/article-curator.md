@@ -266,3 +266,5 @@ Report:
 - **Additive by default.** Integrate into existing content; rewrite only stubs and bad pages.
 - **Scope judgment.** A specific name with no findable context is a candidate for deletion, not a stub worth keeping indefinitely.
 - **Connect orphans.** Every improved page should have at least one other existing page linking back to it.
+
+**Edit cards.** When you correct, re-attribute or remove a fact in an existing paragraph, put a `> [!edit]` card beneath it, following the "Edit cards" section of CLAUDE.md. New material from a video doesn't need one.

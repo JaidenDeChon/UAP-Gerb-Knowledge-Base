@@ -9,9 +9,15 @@ Fort Riley is a United States Army installation near Junction City, Kansas. In U
 
 ## Corso's 1947 Encounter
 
-On or about July 6, 1947, Corso was serving as post duty officer at Fort Riley. He claims that he came across a crate in a storage area that held a non-human body preserved in a bluish liquid. In his sworn affidavit, Corso described the entity as approximately four feet tall, with an oversized incandescent light bulb-shaped head, almond-shaped eye sockets, four-fingered hands, thin legs, and no facial hair or eyebrows. Gerb treats the affidavit as substantially more credible than the later co-written book *The Day After Roswell*. Skull features were arranged in a small circle on the lower part of an enlarged cranium.
+On or about July 6, 1947, Corso was serving as post duty officer at Fort Riley. He claims that he came across a crate in a storage area that held a non-human body floating in fluid. In his sworn affidavit, Corso described the entity as approximately four feet tall, with an oversized incandescent light bulb-shaped head, almond-shaped eye sockets, four-fingered hands, thin legs, and no facial hair or eyebrows. Gerb treats the affidavit as substantially more credible than the later co-written book *The Day After Roswell*. Skull features were arranged in a small circle on the lower part of an enlarged cranium.
 
-Corso later determined that the crate was part of a convoy of five trucks carrying biological entities from an airfield in New Mexico westward along Route 40 through Fort Riley, with [[Wright-Patterson Air Force Base]] cited as the final destination. His official military records confirm that he was posted at Fort Riley on that date. Gerb sees this as a meaningful detail that corroborates the timing of his account.
+> [!edit] Corrected 16 October 2026
+> Earlier versions said the body was preserved in a bluish liquid. Corso says it was floating in fluid, and no source for the colour was found.
+
+Corso later determined that the crate was part of a convoy of five trucks carrying biological entities from an airfield in New Mexico along Route 40 through Fort Riley, with [[Wright-Patterson Air Force Base]] cited as the final destination. His official military records confirm that he was posted at Fort Riley on that date. Gerb sees this as a meaningful detail that corroborates the timing of his account.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said the convoy was heading westward. It ran from New Mexico toward Wright-Patterson in Ohio, so the direction was dropped.
 
 ## Credibility Context
 

@@ -6,13 +6,22 @@ tags:
 ---
 
 
-The 2009 Indonesia UFO Encounter is an incident in which [[United States Marine Corps|USMC]] Rifleman [[Michael Herrera]] and five other Marines saw unmarked US forces loading a large octagonal, pyramid-shaped craft. It happened during a humanitarian relief mission in Indonesia after the October 2009 Sumatra earthquake and tsunami. Armed operators in black fatigues held the Marines at gunpoint and threatened to kill them if they disclosed what they had seen. Herrera stayed silent for 14 years, then testified to [[AARO]] in April 2023 and spoke at the [[National Press Club]] in June 2023.
+The 2009 Indonesia UFO Encounter is an incident in which [[United States Marine Corps|USMC]] Rifleman [[Michael Herrera]] and five other Marines saw unmarked US forces loading a large octagonal, pyramid-shaped craft. It happened in October 2009, during a humanitarian relief mission in Indonesia after the 30 September 2009 earthquake off Padang, West Sumatra, which Gerb's videos call "the Sumatra earthquake and tsunami". Armed operators in black fatigues held the Marines at gunpoint and threatened to kill them if they disclosed what they had seen. Herrera stayed silent for 14 years, then testified to [[AARO]] in April 2023 and spoke at the [[National Press Club]] in June 2023.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions dated the earthquake to October 2009. It struck off Padang on 30 September 2009; the encounter itself was in October. "Tsunami" is kept only as Gerb's wording.
 
 ## Mission Context
 
-In October 2009, Herrera, then 20 years old, was deployed aboard the [[USS Denver]] for a humanitarian relief operation after a major earthquake in Indonesia. He was on officer's chow detail when a female USMC major briefed him and other Marines for a security mission. The briefing included photographs of [[Barack Obama]] as a child and references to his time in Indonesia.
+In October 2009, Herrera, then 20 years old, was deployed aboard the [[USS Denver]] for a humanitarian relief operation after a major earthquake in Indonesia. The Denver reached Padang on 9 October, which Herrera points out was nine or ten days after the earthquake. He was on officer's chow detail when a female USMC major briefed him and other Marines for a security mission. The briefing included photographs of [[Barack Obama]] as a child and references to his time in Indonesia.
 
-The team was issued M16 rifles, although Herrera normally carried a SAW. A CH-53 Super Stallion helicopter flew them first to Tobing Airport and then to a hasty landing zone in thick vegetation. The mission was described as guarding supply deliveries to remote villages in a region described as the "second-largest terrorist capital in the world." Yet the landing zone (LZ) where Herrera's team was dropped had no other personnel, no radio communications and no clear extraction timeline, which was very unusual for a routine security detail.
+> [!edit] Clarified 16 October 2026
+> Added the USS Denver's arrival at Padang on 9 October 2009, from US Navy and Stars and Stripes reporting.
+
+The team was issued M16 rifles, although Herrera normally carried a SAW. A CH-53 Super Stallion helicopter flew them first to Tabing Airfield near Padang ("Tobing airport" in the interview transcript) and then to a hasty landing zone in thick vegetation. The mission was described as guarding supply deliveries to remote villages in a region described as the "second-largest terrorist capital in the world." Yet the landing zone (LZ) where Herrera's team was dropped had no other personnel, no radio communications and no clear extraction timeline, which was very unusual for a routine security detail.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions named the airfield "Tobing Airport", as the transcript spells it. It is Tabing Airfield, near Padang.
 
 ## The Craft
 
@@ -82,3 +91,8 @@ Herrera's testimony came out through [[Steven Greer]]'s disclosure efforts. Gree
 - [[Videos/The Marines Who Got too Close to UFOs/summary|The Marines Who Got too Close to UFOs]]
 - [[Videos/Michael Herrera - Insights into UAP Encounter and Black Program Insiders/summary|Michael Herrera - Insights into UAP Encounter and Black Program Insiders]]
 - [[Videos/Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)/summary|Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)]]
+- [NPR, "Powerful Earthquake Rocks Western Indonesia" (30 September 2009)](https://www.npr.org/2009/09/30/113335068/powerful-earthquake-rocks-western-indonesia)
+- [EMSC, "Mw 7.6 Southern Sumatra, Indonesia on September 30th 2009"](https://emsc-csem.org/Special_reports/?id=101)
+- [US Navy, "Navy and Marine Helicopters Begin Relief Flights in Indonesia" (9 October 2009), via GlobalSecurity.org](https://www.globalsecurity.org/security/library/news/2009/10/sec-091009-nns01.htm)
+- [353rd Special Operations Wing, "Air Commandos take advantage of relief efforts to further partnerships"](https://www.353sow.af.mil/News/Stories/Article/459790/air-commandos-take-advantage-of-relief-efforts-to-further-partnerships)
+- [Stars and Stripes, "Military heading home after relief missions to Indonesia, Philippines" (16 October 2009)](https://www.stripes.com/news/2009-10-16/military-heading-home-after-relief-missions-to-indonesia-philippines-1991953.html)

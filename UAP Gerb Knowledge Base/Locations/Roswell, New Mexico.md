@@ -9,11 +9,17 @@ A city in Chaves County, southeastern New Mexico, and the site of the most famou
 
 ## The 1947 Crash
 
-On or around July 3–4, 1947, rancher Mac Brazel discovered unusual debris scattered across a field northwest of Roswell. Major Jesse Marcel, intelligence officer of the 509th Bomb Group at Roswell Army Air Field, was dispatched to collect the material. Marcel later described recovering an exceedingly light metal that retained its shape after deformation. Those properties are consistent with nitinol, a nickel-titanium shape-memory alloy. Battelle Memorial Institute was contracted to study nitinol in 1949 at Wright-Patterson Air Force Base, more than a decade before it was "officially" discovered in 1961.
+On or around July 3–4, 1947, rancher Mac Brazel discovered unusual debris scattered across a field northwest of Roswell. Major Jesse Marcel, intelligence officer of the 509th Bomb Group at Roswell Army Air Field, was dispatched to collect the material. Marcel later described recovering an exceedingly light metal that retained its shape after deformation. Those properties are consistent with nitinol, a nickel-titanium shape-memory alloy. In 1949 Wright-Patterson Air Force Base contracted Battelle Memorial Institute for titanium-alloy research, which Gerb argues was a study of nitinol more than a decade before it was "officially" discovered in 1961.
+
+> [!edit] Attribution clarified 16 October 2026
+> Earlier versions said Battelle was contracted in 1949 to study nitinol. The contract was for titanium-alloy research; that it concerned nitinol is Gerb's argument.
 
 ## Battelle Memorial Institute Analysis
 
-The alleged connection between Roswell crash material and Battelle's 1949 nickel-titanium alloy research (contract 33-38-3736 with Wright-Patterson AFB) is a central part of the Roswell evidence put together on this channel. Battelle researcher E.J. Center, who left the institute in 1957, allegedly told family members that he had worked on "parts retrieved from a flying saucer." MUFON reported this connection in the summer of 1994, about sixteen years before Center's 1949 nitinol research was declassified in 2010.
+The alleged connection between Roswell crash material and Battelle's 1949 titanium-alloy research, which Gerb identifies as nickel-titanium (contract AF 33(038)-3736 with Wright-Patterson AFB, which Gerb reads as 33-38-3736), is a central part of the Roswell evidence put together on this channel. Battelle researcher E.J. Center, who left the institute in 1957, allegedly told family members that he had worked on "parts retrieved from a flying saucer." MUFON reported this connection in the summer of 1994, about sixteen years before Center's 1949 nitinol research was declassified in 2010.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions gave the contract number as 33-38-3736, which is Gerb's reading. Archive catalogues list it as AF 33(038)-3736.
 
 ## Jesse Marcel and the Cover-Up
 

@@ -5,7 +5,10 @@ tags:
   - organization
 ---
 
-The Aerospace Corporation is a nonprofit federally funded research and development center (FFRDC) headquartered in El Segundo, California. It provides independent technical and scientific research to the U.S. government, mainly the Air Force and Space Force. It was spun off from [[TRW]]'s Space Technology Laboratories (STL) in 1960 under a directive to create an independent advisory body free from direct contractor profit motives. As an FFRDC, the Aerospace Corporation has access to classified programs and government facilities that private contractors do not, and it advises on [[Special Access Programs (SAPs)]] across the national security space enterprise. [[Edward C. Aldridge]] was CEO of the Aerospace Corporation after his tenure as Secretary of the Air Force, so the same man held authority over Air Force special access programs and then led the FFRDC that advises on such programs.
+The Aerospace Corporation is a nonprofit federally funded research and development center (FFRDC) headquartered in Chantilly, Virginia. It was based in El Segundo, California, until March 2024, when it moved its corporate headquarters to the Washington, D.C. area; El Segundo remains its main technical campus. It provides independent technical and scientific research to the U.S. government, mainly the Air Force and Space Force. It was spun off from [[TRW]]'s Space Technology Laboratories (STL) in 1960 under a directive to create an independent advisory body free from direct contractor profit motives. As an FFRDC, the Aerospace Corporation has access to classified programs and government facilities that private contractors do not, and it advises on [[Special Access Programs (SAPs)]] across the national security space enterprise. [[Edward C. Aldridge]] was CEO of the Aerospace Corporation after his tenure as Secretary of the Air Force, so the same man held authority over Air Force special access programs and then led the FFRDC that advises on such programs.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions gave the headquarters as El Segundo, California. The corporation moved its headquarters to Chantilly, Virginia in March 2024.
 
 ## Alleged UAP Involvement
 
@@ -40,3 +43,4 @@ Several senior researchers with intelligence community backgrounds made this ide
 - [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]
 - [[Videos/Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2/summary|Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2]]
 - [[Videos/UFO Legacy Programs - Northrop Grumman/summary|UFO Legacy Programs - Northrop Grumman]]
+- Headquarters move to Chantilly, Virginia (March 2024): [The Aerospace Corporation](https://aerospace.org/news/aerospace-corp-invest-100-million-el-segundo-campus-moves-headquarters-washington-dc-area); [Northern Virginia Magazine](https://northernvirginiamag.com/culture/news/2024/03/27/aerospace-corp-moves-headquarters-to-chantilly-from-california/)

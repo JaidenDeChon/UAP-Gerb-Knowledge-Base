@@ -205,7 +205,10 @@ entries:
 
 ### Mission Context
 
-In October 2009, Herrera was deployed aboard the [[USS Denver]] as part of a humanitarian relief operation after a major earthquake in Indonesia. He was on officer's chow detail with other Marines when a female USMC major briefed volunteers for a security mission in the wardroom. The briefing showed pictures of [[Barack Obama]] as a child, along with references to his time in Indonesia. Herrera and his team were issued M16 rifles (Herrera normally carried a SAW). A CH-53 Super Stallion helicopter flew them first to Tobing Airport, described as having distinctive blue roofs, and then on to a hasty landing zone in hilly, heavily vegetated terrain.
+In October 2009, Herrera was deployed aboard the [[USS Denver]] as part of a humanitarian relief operation after a major earthquake in Indonesia. He was on officer's chow detail with other Marines when a female USMC major briefed volunteers for a security mission in the wardroom. The briefing showed pictures of [[Barack Obama]] as a child, along with references to his time in Indonesia. Herrera and his team were issued M16 rifles (Herrera normally carried a SAW). A CH-53 Super Stallion helicopter flew them first to Tabing Airfield near Padang ("Tobing airport" in the interview transcript), described as having distinctive blue roofs, and then on to a hasty landing zone in hilly, heavily vegetated terrain.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions named the airfield "Tobing Airport", as the transcript spells it. It is Tabing Airfield, near Padang.
 
 The stated purpose of the mission was to guard supply deliveries to remote villages, justified by the region's reputation as the second-largest terrorist capital in the world. Yet Herrera's team was dropped at a landing zone (LZ) with no other personnel present, no radio communications, and no clear extraction timeline, which is unusual for a routine security detail.
 
