@@ -310,7 +310,7 @@ events:
   - date: "2002"
     title: "Thomas Wilson and Eric Davis in the EG&G parking lot"
     cue: 2084
-    summary: "The Wilson-Davis notes record Vice Admiral Thomas Wilson describing how he found, but was stonewalled from, UFO recovery programs protected by SAPOC, its Senior Review Group and a large defense contractor. Two of the six SAPOC members he dealt with were SAIC alumni, which is why Gerb wagers the contractor was SAIC."
+    summary: "The Wilson-Davis notes record Vice Admiral Thomas Wilson describing how he found, but was stonewalled from, UFO recovery programs protected by SAPOC, its Senior Review Group and a large defense contractor. Gerb counts two of six SAPOC members after the 1994 restructuring as SAIC alumni, which is why he wagers the contractor was SAIC."
     category: document
     significance: major
     entities:
@@ -638,7 +638,10 @@ root:
 ---
 ::
 
-Two of the six people Wilson dealt with were SAIC alumni, which is why Gerb now wagers that the unnamed contractor working alongside SAPOC was SAIC. A third figure in the notes points the same way: Naval Reserve Commander Will Miller, who attended a 1997 meeting with Wilson and [[Steven Greer]] and whose 2002 letter Davis showed Wilson in the EG&G parking lot. In it Miller asked for anonymity and offered Davis and [[Hal Puthoff]] a senior official who knew about alien reproduction vehicles, a list of civilian contractors in crash retrieval programs, and a team possibly involved in retrievals. Miller had worked for SAIC as a senior analyst in future counter-threat planning, directed energy weapons and space systems. In emails with attorney Peter Gersten quoted in Patrick Huyghe's *Swamp Gas Times*, he wrote:
+Gerb counts two of these six, Deutch and Owens, as "former SIC alumni",[^gerb-owens-saic-dates] which is why he now wagers that the unnamed contractor working alongside SAPOC was SAIC. A third figure in the notes points the same way: Naval Reserve Commander Will Miller, who attended a 1997 meeting with Wilson and [[Steven Greer]] and whose 2002 letter Davis showed Wilson in the EG&G parking lot. In it Miller asked for anonymity and offered Davis and [[Hal Puthoff]] a senior official who knew about alien reproduction vehicles, a list of civilian contractors in crash retrieval programs, and a team possibly involved in retrievals. Miller had worked for SAIC as a senior analyst in future counter-threat planning, directed energy weapons and space systems. In emails with attorney Peter Gersten quoted in Patrick Huyghe's *Swamp Gas Times*, he wrote:
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said these were two of the six people Wilson dealt with. Gerb never says Wilson dealt with Owens or Deutch: he names Kostelnik and Kaminski as the SAPOC members Wilson spoke to, and counts Deutch and Owens among six members of the committee after its 1994 restructuring.
 
 > [!quote] Commander Will Miller
 > "If there are any keepers of the keys, they reside in DoD middle management and civilian DoD contractors, BDM, SAIC, Boeing, Lockheed, and the controllers who monitor the flow of money to certain classified and special access programs."
@@ -898,13 +901,16 @@ He considers the SAIC whistleblowers his most tangible evidence, and names gatek
 - SAIC was, from its 1969 founding, deliberately staffed with senior military and intelligence officials, and Gerb believes it may be more deeply entwined with UFO legacy program operations and security than any other US defense contractor.
 - Colonel Steve Wilson claimed DSAI and SAIC were one and the same, that Bobby Ray Inman ran DSAI, and that DSAI was paramount to UFO programs hidden in the Strategic Defense Initiative; DSAI's assets ended up at both SAIC and L3Harris.
 - Former AARO director Sean Kirkpatrick was an SAIC senior research scientist, and after AARO moved to Oak Ridge and a MITRE subcontract; FOIA documents record his 2023 SpaceCom briefing on "UAP response and recovery and material transfer".
-- Two of the six SAPOC figures Vice Admiral Thomas Wilson dealt with, John Deutch and William A. Owens, were SAIC alumni, and the reorganizer William Perry had served on SAIC's board, so Gerb wagers SAIC was the unnamed contractor in the Wilson-Davis notes.
+- Two of the six SAPOC members Gerb lists after the 1994 restructuring, John Deutch and William A. Owens, were SAIC alumni, and the reorganizer William Perry had served on SAIC's board, so Gerb wagers SAIC was the unnamed contractor in the Wilson-Davis notes.
 - SAIC analyst Commander Will Miller named SAIC among possible "keepers of the keys", and Oke Shannon's 1985 notes planned to approach future SAIC executive Donald Kerr for "influence and money".
 - Former SAIC employee Denise McKenzie testified that in 1992 multi-million-dollar SAIC contracts at La Jolla showed no activity at all, and that the recruiter who hired her later appeared, under another name, among deceased CIA agents.
 - As SDI's leading contractor, SAIC was allegedly well placed to divert money to UFO programs that Edgar Fouché said absorbed up to 35% of SDI's budget; SAIC also worked with Brookhaven, which allegedly downed a UFO off Long Island in 1989, on SDI lethality programs.
 - SAIC's 1988 *Electric Propulsion Study* proposed rotating mercury cylinders for anti-gravity, the mechanism Fouché attributed to the TR-3B.
 - SAIC ran Project Stargate from 1991 to 1994, coined "anomalous cognition" and "anomalous perturbation", and verified the first but not the second; Gerb believes the work continued.
 - Gerb names SAIC as the most likely contractor running the alleged Off-World Technologies Division under NSWC Crane's Special Capabilities Branch, citing large Crane contracts that were later removed from SAIC's website.
+
+> [!edit] Corrected 16 October 2026
+> The Deutch and Owens claim used to call them two of the six SAPOC figures Vice Admiral Thomas Wilson dealt with. Gerb counts them among six SAPOC members after the 1994 restructuring; he names Kostelnik and Kaminski as the members Wilson spoke to.
 
 ## Sources
 
@@ -918,3 +924,5 @@ He considers the SAIC whistleblowers his most tangible evidence, and names gatek
 - **Concepts**: [[UFO Legacy Program Framework]], [[Independent Research and Development (IRAD)]], [[Strategic Defense Initiative (SDI)]], [[Wilson-Davis Memo]], [[AARO Historical Report Volume 1]], [[Off-World Technologies Division]], [[Project Stargate]], [[Psionics]], [[TR-3B]], [[Alien Reproduction Vehicle (ARV)]], [[Biefeld-Brown Effect]], [[Immaculate Constellation (IMCON)]], [[Majestic 12]]
 - **Operations**: [[Project Sanddollar]], [[AATIP (Advanced Aerospace Threat Identification Program)]], [[Kona Blue]]
 - **Events**: [[Hudson Valley UFO Flap]]
+
+[^gerb-owens-saic-dates]: Gerb counts Owens among the "former SIC alumni" on SAPOC and says he "served as the CEO for SIC". Owens sat on SAPOC as Vice Chairman of the Joint Chiefs (1994 to 1996, per a [November 1994 DoD bulletin](https://sgp.fas.org/othergov/sapoc.html)) and joined SAIC only after retiring from the Navy in 1996, as president, chief operating officer and vice chairman rather than CEO, leaving in 1998 ([Nextgov, July 1998](https://www.nextgov.com/digital-government/1998/07/intercepts/227594/); [Wipro board biography](https://wipro.com/leadership/william-arthur-owens)).

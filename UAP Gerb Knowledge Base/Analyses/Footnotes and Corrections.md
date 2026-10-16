@@ -6,6 +6,16 @@ tags: [analysis]
 
 These are small corrections for places where a video probably misspoke: a gloss, a paraphrase or a detail that doesn't match the record or the clip Gerb plays. Each one is also footnoted where it appears, on the video's summary and on the most relevant page.
 
+## Owens joined SAIC after his SAPOC seat, not before
+
+2026-10-16
+
+In [[Videos/UFO Legacy Programs - Science Applications International Corporation (SAIC)/summary|the SAIC video]], Gerb says: "A permanent SAP member post SAP restructuring is Admiral William A. Owens, former vice chairman of the Joint Chiefs of Staff. Outside of his prestigious naval career and service as senior military assistant to Dick Cheney, Owens additionally served as the CEO for SIC. All in all, the SAPO [...] saw two of six personnel as former SIC alumni."
+
+The likely correction: Owens's SAIC service came after his time on the committee, and he was never its CEO. A [November 1994 DoD bulletin](https://sgp.fas.org/othergov/sapoc.html) lists him as a permanent SAPOC member in his capacity as Vice Chairman of the Joint Chiefs, the post he held from 1994 to 1996. He joined SAIC after retiring from the Navy in 1996 and left in 1998 as president, chief operating officer and vice chairman ([Nextgov, July 1998](https://www.nextgov.com/digital-government/1998/07/intercepts/227594/); [Wipro board biography](https://wipro.com/leadership/william-arthur-owens), which gives June 1996 to August 1998). So Owens wasn't an SAIC alumnus while he sat on SAPOC, and in 1997, the year the Wilson-Davis notes give for Wilson's search, he was at SAIC rather than on the committee. Whether that matters depends on Gerb's wager that SAIC was the contractor in the notes, which nothing here confirms.
+
+Footnoted on [[Videos/UFO Legacy Programs - Science Applications International Corporation (SAIC)/summary|UFO Legacy Programs - Science Applications International Corporation (SAIC)]] and [[William A. Owens]].
+
 ## Ruppelt's parallel-programs remark carries the letter's date
 
 2026-10-16

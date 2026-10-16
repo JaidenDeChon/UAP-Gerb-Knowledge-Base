@@ -1592,7 +1592,7 @@
       "id": "L0023",
       "slice": "S009-links",
       "found_at": "2026-10-16T04:56:41Z",
-      "status": "open",
+      "status": "footnoted",
       "duplicate_of": null,
       "problems": [],
       "kind": "hidden-link",
@@ -1640,7 +1640,9 @@
       "not_said_check": "Grepped all transcripts for 'owens' (only the SAIC video) and 'vice chairman of the joint' (only the same passage); Owens never appears in the Wilson Davis video. Searched 'Deutsch/Deutch' near '1997', 'no longer', 'had left' and 'CIA director'; no transcript discusses either man's dates against the 1997 episode. The SAIC summary roster says Owens 'went on to lead SAIC', with no year given.",
       "weakest_link": "Owens's SAIC dates rest on outside sources: a 1998 Nextgov item says he left SAIC in June 1998 as vice chairman and COO, and bios say he joined after retiring from the Navy in 1996. The exact start month, and whether VCJCS was formally a SAPOC member in 1994 to 1996 (Gerb's claim, not the memo's), both need checking against Owens's official Navy biography and the 1994 SAPOC charter or DoD directive. The Wilson-Davis notes never name Owens, so this reorders Gerb's own roster; it says nothing about Owens's conduct.",
       "surprise": 3,
-      "support": 3
+      "support": 3,
+      "resolved_at": "2026-10-16T05:24:42Z",
+      "footnote": "gerb-owens-saic-dates"
     }
   ]
 }

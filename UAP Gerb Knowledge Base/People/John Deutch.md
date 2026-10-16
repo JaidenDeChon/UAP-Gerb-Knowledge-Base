@@ -68,7 +68,7 @@ entries:
     note: "Followed Deutch in the acquisition post and sat on SAPOC as a permanent member. Gerb calls him a lifelong MITRE man."
   - name: "William A. Owens"
     role: "Admiral, Vice Chairman of the Joint Chiefs of Staff"
-    note: "A permanent SAPOC member after the restructuring. He later led SAIC, so counting Deutch, two of the six SAPOC figures Wilson dealt with were SAIC alumni."
+    note: "A permanent SAPOC member after the restructuring. He later led SAIC, so counting Deutch, Gerb has two of six SAPOC members as SAIC alumni."
   - name: "Linton Wells II"
     role: "Permanent Senior Review Group member"
     note: "Another member of the review group Deutch chaired. He was allegedly briefed into MITRE's legacy programs."

@@ -220,7 +220,10 @@ Wilson then began a 45-day investigation that ran from April to June 1997. Gener
 
 ## Discovery of the Program
 
-According to the Wilson-Davis memo, Wilson found the unusual records group in the index abstracts and called seven program managers. Four of them referred him to the same program, run by three people who called themselves the "[[Watch Committee]]": a security director (formerly of the NSA), a program director and a corporate attorney. Wilson would not give Davis the compartment's name, calling it a "core secret", but described the project coordinator as an aerospace technology contractor active in defense and intelligence, "the best one of them". In his first video Gerb guessed the contractor was [[Lockheed Martin]]; by 2025 he had come to believe it was [[SAIC]], because two of the SAPOC figures Wilson dealt with were SAIC alumni.
+According to the Wilson-Davis memo, Wilson found the unusual records group in the index abstracts and called seven program managers. Four of them referred him to the same program, run by three people who called themselves the "[[Watch Committee]]": a security director (formerly of the NSA), a program director and a corporate attorney. Wilson would not give Davis the compartment's name, calling it a "core secret", but described the project coordinator as an aerospace technology contractor active in defense and intelligence, "the best one of them". In his first video Gerb guessed the contractor was [[Lockheed Martin]]; by 2025 he had come to believe it was [[SAIC]], because he counts two of the six SAPOC members after the 1994 restructuring, [[John Deutch]] and [[William A. Owens]], as SAIC alumni.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said these were SAPOC figures Wilson dealt with. Gerb never says Wilson dealt with Deutch or Owens; he names Kostelnik and Kaminski as the SAPOC members Wilson spoke to.
 
 At the end of May 1997, Wilson made three calls to the program manager, including a conference call with the security director and corporate attorney. He told them he had read into their program record and wanted to know about their crashed UFO retrieval program. They reacted with confusion and agitation. Invoking his regulatory authority, Wilson demanded a formal briefing, and the overseers agreed to meet him in person.
 
