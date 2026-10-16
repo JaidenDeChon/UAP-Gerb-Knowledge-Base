@@ -6,6 +6,16 @@ tags: [analysis]
 
 These are small corrections for places where a video probably misspoke: a gloss, a paraphrase or a detail that doesn't match the record or the clip Gerb plays. Each one is also footnoted where it appears, on the video's summary and on the most relevant page.
 
+## Ruppelt's parallel-programs remark carries the letter's date
+
+2026-10-16
+
+In [[Videos/MOON DUST - The Pentagon's Secret UFO Programs/summary|MOON DUST]], Gerb says: "Rupel concluded UFOs had a quote interplanetary explanation on the 24th of April 1952 ruple suggested programs parallel to the official USG investigation where quote conducting a more complete investigation".
+
+The likely correction: 24 April 1952 is the date of a different document. In [[Videos/USO - Unidentified Submerged Objects/summary|USO]], Gerb gives it to the letter "written by afoi n-x SG regarding the possible connection of Submarine contacts", and a few sentences later cites the same Ruppelt remark ("Rupel stated that afo was conducting a more complete investigation of UFOs parallel to Blue Book") without a date. The date in MOON DUST has probably carried over from the letter. The source is the USO transcript. Web searches found no dated source for Ruppelt's remark, so the remark's real date is still open.
+
+Footnoted on [[Videos/MOON DUST - The Pentagon's Secret UFO Programs/summary|MOON DUST - The Pentagon's Secret UFO Programs]] and [[Edward J. Ruppelt]].
+
 ## Grusch's shred party: one agency in the mid '90s
 
 2026-10-16

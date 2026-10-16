@@ -1345,7 +1345,7 @@
       "id": "L0019",
       "slice": "S007-timeline",
       "found_at": "2026-10-16T04:56:41Z",
-      "status": "open",
+      "status": "footnoted",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -1390,7 +1390,9 @@
       "not_said_check": "Searched all transcripts for 'more complete investigation' (only MOON DUST and USO), 'technical capabilities branch'/'collection control' (USO only), '24th of April'/'april 24' (MOON DUST and USO only), AFOIN spellings ('afo', 'afoi n', 'Air Force Office of Intelligence': USO only) and 'moon dust'/'moondust' in USO (absent). MOON DUST never mentions AFOIN, Stork or Battelle; USO never mentions Moon Dust. No video sets the two passages together.",
       "weakest_link": "Whether Ruppelt's remark really carries the date 24 April 1952 or Gerb borrowed the letter's date; and the MOON DUST wording is hedged ('could have been'), so Gerb never claims Ruppelt meant Moon Dust specifically. Checkable: the CUFON release of the 24 April 1952 AFOIN-X-SG letter and the Project Stork/Ruppelt material it rests on (Ruppelt papers, Battelle Stork memos) would show where the 'more complete investigation' wording and its date come from. Could not confirm the phrase online with a quick search.",
       "surprise": 3,
-      "support": 3
+      "support": 3,
+      "resolved_at": "2026-10-16T05:21:00Z",
+      "footnote": "gerb-ruppelt-date"
     },
     {
       "id": "L0020",
