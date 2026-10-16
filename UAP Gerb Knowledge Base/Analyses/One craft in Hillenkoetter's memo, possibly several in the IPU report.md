@@ -13,15 +13,15 @@ Two of the papers Gerb reads from the [[Majestic 12]] collection describe the sa
 
 ## The finding
 
-The claim is narrow. If the IPU report's "multiple fallen objects" means more than one craft, as Gerb suggests in his 2025 videos, it doesn't match the Hillenkoetter memo's count of one craft. Both papers are unauthenticated, so the clash says nothing about what happened in 1947. It only bears on whether the papers tell one consistent story. Gerb's own earlier description of the IPU report, a single disc found at two sites, would fit the memo.
+The claim is narrow. If the IPU report's "multiple fallen objects" means more than one craft, as Gerb suggests in his 2025 videos, it doesn't match the Hillenkoetter memo's count of one craft. Both papers are unauthenticated, so the clash bears only on whether they tell one consistent story and says nothing about what happened in 1947. Gerb's own earlier description of the IPU report, a single disc found at two sites, would fit the memo.
 
 ## What cuts against it
 
 - **Gerb's 2024 reading fits the memo.** In the Majestic-12 video he says the IPU report covers "the two sites of the crashed disc", which is one disc. The debris field and a second site belonging to the same craft is the usual Roswell story, and "multiple fallen objects" could just mean pieces of it.
 - **The deciding words are Gerb's paraphrase.** "Multiple fallen objects" is Gerb summarising the document. He doesn't read it out. The IPU report's text couldn't be checked here: the Majestic Documents site didn't resolve, and searches turned up no copy of it.
 - **The memo's line is garbled in the captions.** "we recovered one craft captured one endot" may be cut short. "Captured one" could refer to a being, not a second craft, and "one craft" could mean one intact craft found among other wreckage.
-- **Provenance.** Neither paper has an archival record. A CIA FOIA search found no Majestic 12 records. Gerb himself says the Majestic documents "should not be taken as a concrete source of confirmation or evidence". If the papers came from different forgers, or arrived at different times, an inconsistency is no surprise.
-- **Other counts are separate sources.** The scout also cited [[Andrew Kissner]]'s "two to four" discs and [[Philip J. Corso]]'s Roswell plus San Augustine crashes. Those are different sources. They don't show what either paper says.
+- **Neither paper has an archival record.** A CIA FOIA search found no Majestic 12 records. Gerb himself says the Majestic documents "should not be taken as a concrete source of confirmation or evidence". If the papers came from different forgers, or arrived at different times, an inconsistency is no surprise.
+- **Other counts are separate sources.** Two other counts came up while this post was researched: [[Andrew Kissner]]'s "two to four" discs and [[Philip J. Corso]]'s Roswell plus San Augustine crashes. They come from different sources and don't show what either paper says.
 
 ## The evidence
 
@@ -41,7 +41,7 @@ Nothing turned up. Search results describe the Hillenkoetter memo only in outlin
 
 ## What would settle it
 
-The IPU report's own wording on what was recovered between 4 and 6 July: whether it numbers or describes separate craft, or debris from one craft at two landing zones. The memo's full sentence after "captured one" would settle the other side. Both papers are on Ryan S. Wood's Majestic Documents site. A statement from Gerb on which reading he now holds would also answer it.
+The IPU report's own wording on what was recovered between 4 and 6 July would settle one side, by showing whether it numbers or describes separate craft or debris from one craft at two landing zones. The memo's full sentence after "captured one" would settle the other. Both papers are on Ryan S. Wood's Majestic Documents site. A statement from Gerb on which reading he now holds would also answer it.
 
 ## Sources
 
