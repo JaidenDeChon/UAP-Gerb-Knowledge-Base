@@ -11,17 +11,23 @@ tags:
   - document
 ---
 
-The Schumer Amendment, also called the Schumer–Rounds amendment or the UAP Disclosure Act of 2023, is a legislative proposal on unidentified anomalous phenomena (UAP) attached to the National Defense Authorization Act for fiscal year 2024. Senators Chuck Schumer and Mike Rounds sponsored it. It set out to collect all government UAP records in the National Archives under an independent review board, and to give the federal government eminent domain over recovered technologies of unknown origin and biological evidence of non-human intelligence (NHI). According to the video, opponents of disclosure "watered down and gutted" it before the NDAA passed at the end of 2023.
+The Schumer Amendment, also called the Schumer–Rounds amendment or the UAP Disclosure Act of 2023, is a legislative proposal on unidentified anomalous phenomena (UAP) attached to the National Defense Authorization Act for fiscal year 2024. Senator Chuck Schumer submitted it on 13 July 2023 as amendment SA 797 to S. 2226, for himself and Senators Mike Rounds, Marco Rubio, Kirsten Gillibrand, Todd Young and Martin Heinrich. It set out to collect all government UAP records in the National Archives under an independent review board, and to give the federal government eminent domain over recovered technologies of unknown origin and biological evidence of non-human intelligence (NHI). According to the video, opponents of disclosure "watered down and gutted" it before the NDAA passed at the end of 2023.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions named only Schumer and Rounds as sponsors. The Congressional Record of 13 July 2023 (page S2953) prints SA 797 as submitted by Schumer for himself and Senators Rounds, Rubio, Gillibrand, Young and Heinrich.
 
 ## Definitions
 
 [[Karl Nell]] analysed the amendment at the November 2023 [[SOL Foundation Symposium]]. He stresses how deliberately it targets the non-human:
 
 - **UAP** are objects lacking *prosaic attribution*, meaning a human origin, foreign or domestic, because of performance characteristics not known to be achievable under commonly understood physics.
-- **Temporarily non-attributed objects (TNOs)** resist attribution at first because of the limits of the observation, but have a known human origin. Nell puts most of [[Project Blue Book]]'s caseload in this class.
+- **Temporarily non-attributed objects (TNOs)** resist attribution at first because of the limits of the observation, but ultimately have an accepted human origin or a known physical cause, and include natural celestial, weather and undersea phenomena. Nell puts most of [[Project Blue Book]]'s caseload in this class.
 - **Non-human intelligence** is any sentient, intelligent non-human life form presumed responsible for UAP. Nell counts at least 18 uses of the term.
 - **[[Legacy Programs|Legacy programs]]** are all government, commercial, academic and private-sector efforts to collect, exploit or reverse-engineer technologies of unknown origin or NHI biological evidence.
 - **Technology of unknown origin** covers any material, crash debris, machinery or intact or damaged craft associated with UAP that lacks prosaic attribution or any known means of human manufacture. This definition is what the eminent-domain clause turns on.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said temporarily non-attributed objects have a known human origin. The amendment's definition (section \_\_\_03(19), page S2953) says "an accepted human origin or known physical cause", and its list of them includes natural celestial, meteorological and undersea weather phenomena.
 
 The amendment also references six characteristics of UAP. The sixth, "physical or invasive biological effects", extends the [[Five UAP Characteristics (AATIP)|five observables]] associated with [[Luis Elizondo]].
 
