@@ -10,7 +10,7 @@ videos: ["Philip J. Corso - US Army UFO Technology Research & Development", "The
 tags: [analysis]
 ---
 
-In his Corso video Gerb picks out "an interesting line": [[Philip J. Corso]]'s 1998 affidavit calls the Fort Riley body an [[Extraterrestrial Biological Entity|extraterrestrial biological entity]], "the same phrase" used in the [[Majestic 12]] [[Special Operations Manual (SOM 1-01)|Special Operations Manual]]. It reads like two sources agreeing. But the sources don't agree on where the name came from, and by the time Corso used it in public the term had been in circulation for about ten years, in a document Gerb says Corso knew about. The match tells a viewer nothing about whether either source is genuine.
+In his Corso video Gerb picks out "an interesting line": [[Philip J. Corso]]'s 1998 affidavit calls the Fort Riley body an [[Extraterrestrial Biological Entity|extraterrestrial biological entity]], "the same phrase" used in the [[Majestic 12]] [[Special Operations Manual (SOM 1-01)|Special Operations Manual]]. It reads like two sources agreeing. They disagree, though, on where the name came from, and by the time Corso used it in public the term had been in circulation for about ten years, in a document Gerb says Corso knew about. So the match tells a viewer nothing about whether either source is genuine.
 
 ## The finding
 
@@ -38,7 +38,7 @@ Whichever account is right, the term was public by 1987, when the briefing docum
 - A garbled line follows in the captions: "we never used the letters each there was no such thing". It may say the group didn't use the abbreviation, but it's too unclear to rely on, and so is "I told her".
 - If the term really was classified jargon from 1947, a genuine Corso and a genuine MJ-12 would use it anyway. The finding doesn't rule that out. It shows only that the match can't tell that case apart from one where one source took the term from the other.
 - "Extraterrestrial biological entity" is a plain description. Two people could reach it separately.
-- Gerb never calls the match proof. He calls it an interesting line, and he treats the book's MJ-12 material with suspicion elsewhere in the video.
+- Gerb presents the match only as an interesting line, never as proof, and elsewhere in the video he treats the book's MJ-12 material with suspicion.
 
 ## Already known?
 
