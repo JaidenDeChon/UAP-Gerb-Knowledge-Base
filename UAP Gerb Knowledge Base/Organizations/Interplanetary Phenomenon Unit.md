@@ -33,10 +33,13 @@ This interpretation does not account for the specific wording of the Army FOIA r
 
 ## Majestic Documents Connection
 
-Two documents allegedly from the IPU appear in the Majestic Documents collection. One is an IPU Field Order dated July 4, 1947, directing a commanding officer to take a counterintelligence team to a UFO crash site and "report to the G2 at Condron Field, New Mexico", which Gerb glosses as "of course Roswell".[^gerb-condron-field] Condron Field was in fact the airfield of the White Sands Proving Ground (today's [[White Sands Missile Range]]), in southern New Mexico. The other is an IPU Report dated July 22, 1947, which details the recovery of multiple craft and names scientists including Dr. J. Robert Oppenheimer and Dr. Detlev Bronk, both of whom are also connected to the Aztec case.
+Two documents allegedly from the IPU appear in the Majestic Documents collection. One is an IPU Field Order dated July 4, 1947, directing a commanding officer to take a counterintelligence team to a UFO crash site and "report to the G2 at Condron Field, New Mexico", which Gerb glosses as "of course Roswell".[^gerb-condron-field] Condron Field was in fact the airfield of the White Sands Proving Ground (today's [[White Sands Missile Range]]), in southern New Mexico. The other is an IPU Report dated July 22, 1947, which, in Gerb's words, "references recovery of multiple fallen objects from 4 to 6th July 1947" and names scientists including Dr. J. Robert Oppenheimer and Dr. Detlev Bronk, both of whom are also connected to the Aztec case.
 
 > [!edit] Attribution clarified 16 October 2026
 > Earlier versions said the field order sent the team to Roswell. The order says "Condron Field, New Mexico", the White Sands Proving Ground airfield; Roswell is Gerb's reading.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said the IPU report details the recovery of multiple craft. Gerb says it refers to "multiple fallen objects", which he thinks possibly points to several Roswell retrievals; in the Majestic-12 video he describes it as covering "the two sites of the crashed disc".
 
 Thomas Cantwell gave these documents to researcher Timothy Cooper: according to Gerb, the field order arrived by UPS between 1993 and 1996, and Cantwell handed Cooper the IPU report in person in July 1995. They predate [[William Steinman]]'s published theories but mirror many of his conclusions.
 

@@ -981,7 +981,7 @@
       "id": "L0012",
       "slice": "S003-timeline",
       "found_at": "2026-10-16T03:34:34Z",
-      "status": "open",
+      "status": "written",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -1027,7 +1027,9 @@
       "not_said_check": "Searched all transcripts for 'one craft' (MJ-12 video only) and for multiple/several/two objects or discs near IPU. Gerb never compares the memo's count with the IPU report's.",
       "weakest_link": "'Recovered one craft' may mean one intact craft among debris, or the MJ-12 video's two sites may be read as one disc in two places (Gerb says 'the two sites of the crashed disc'), which would dissolve the conflict. Both documents are disputed, so the payoff is limited.",
       "surprise": 2,
-      "support": 3
+      "support": 3,
+      "resolved_at": "2026-10-16T05:47:41Z",
+      "analysis": "Analyses/One craft in Hillenkoetter's memo, possibly several in the IPU report.md"
     },
     {
       "id": "L0013",
