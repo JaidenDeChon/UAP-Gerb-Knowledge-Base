@@ -518,7 +518,7 @@
       "id": "L0008",
       "slice": "S002-accounts",
       "found_at": "2026-10-16T03:34:34Z",
-      "status": "open",
+      "status": "written",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -564,7 +564,9 @@
       "not_said_check": "Grepped all transcripts for 'ghosted', 'not talking to Arrow', 'tried to approach', 'met with Arrow' and Grusch/Grush/gresa near 'Arrow'/'AARO'. The 'never heard back' claim appears only in the Kirkpatrick video, the 'not trusting / ghosted' framing only in The Hidden Wing and Special Access Required Vol.2, and no transcript sets the two side by side or reconciles them.",
       "weakest_link": "Both can be true in sequence. Grusch may have tried early, got no answer, then refused later meetings once he stopped trusting AARO. If so, the finding shrinks to Gerb's framing moving on without saying so.",
       "surprise": 3,
-      "support": 3
+      "support": 3,
+      "resolved_at": "2026-10-16T04:11:59Z",
+      "analysis": "Analyses/Gerb's Grusch went from ignored by AARO to keeping away from it.md"
     },
     {
       "id": "L0009",
