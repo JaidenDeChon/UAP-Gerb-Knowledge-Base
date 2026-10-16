@@ -566,7 +566,7 @@
       "id": "L0009",
       "slice": "S003-timeline",
       "found_at": "2026-10-16T03:34:34Z",
-      "status": "open",
+      "status": "discarded",
       "duplicate_of": null,
       "problems": [],
       "kind": "timeline",
@@ -640,7 +640,9 @@
       "not_said_check": "Searched all transcripts for Wang (7 videos) and for Battelle/Batel/Battel/titanium/nitol/memory metal. Battelle appears beside Aztec only in the Aztec transcript's Sarbacher passage, where Gerb ties it to Roswell wreckage. No transcript mentions Wang and Battelle together, and none sets Battelle's September–October 1949 dates against Wang's November 1949 Aztec date or the craft leaving Los Alamos.",
       "weakest_link": "Steinman's November 1949 date for Wang is unsourced (Gerb says so), and the main Aztec account sends the craft to Los Alamos, not Wright-Patterson. Carr's Wright-Patterson destination is a single 1974 claim. The Battelle contract may also have started before September 1949, and nothing ties its sample to any crash.",
       "surprise": 4,
-      "support": 3
+      "support": 3,
+      "resolved_at": "2026-10-16T03:42:53Z",
+      "reason": "Evidence doesn't support the claim: the Sept-Oct 1949 reports are one reporting window of a multi-year Air Force titanium-alloy contract (AF 33(038)-3736, reports through 1952), so their dates can't favour Aztec over Roswell; Wang's Nov 1949 date postdates them, rests on Steinman's unsourced claim, and the main Aztec account keeps the craft at Los Alamos with no dated Wright-Patterson arrival"
     },
     {
       "id": "L0010",
