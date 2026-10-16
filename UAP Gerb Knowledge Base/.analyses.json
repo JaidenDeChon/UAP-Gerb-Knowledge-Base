@@ -3295,7 +3295,7 @@
       "id": "L0048",
       "slice": "S024-timeline",
       "found_at": "2026-10-16T15:07:59Z",
-      "status": "open",
+      "status": "footnoted",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -3362,7 +3362,9 @@
       "weakest_link": "One slip by Gerb (giving the first and best-known MJ-12 recipient, Shandera, and his date of 1984 to all 'early' Majestic documents) explains the Navy line, so this is a footnote, not a post. What survives the slip is the shorter head start, and that depends on when Cooper actually received the TUR memo and the Operation Review. Gerb's Majestic video puts the JFK-to-DCI documents among Cantwheel's drops (1992 onward). A quick web search found no firm date of receipt, and one source puts related Cooper material in 1999. The provenance of the Operation Review is not stated in any transcript. To check: Wood's Majic Eyes Only or majesticdocuments.com provenance notes for each document, and the public text of the Eisenhower Briefing Document, which does not mention Palladium.",
       "impact": 4,
       "support": 4,
-      "slip": true
+      "slip": true,
+      "resolved_at": "2026-10-16T19:03:46Z",
+      "footnote": "gerb-palladium-shandera"
     }
   ]
 }
