@@ -222,8 +222,8 @@
         "David Grusch"
       ],
       "handed_out": "2026-10-16T05:53:08Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-16T14:07:43Z",
+      "leads": 2
     },
     "S014-patterns": {
       "lens": "patterns",
@@ -248,8 +248,8 @@
         "Battle of Los Angeles"
       ],
       "handed_out": "2026-10-16T05:53:08Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-16T14:07:43Z",
+      "leads": 1
     },
     "S015-focus": {
       "lens": "focus",
@@ -257,8 +257,8 @@
         "Roswell Crash"
       ],
       "handed_out": "2026-10-16T05:53:08Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-16T14:07:43Z",
+      "leads": 2
     }
   },
   "leads": [
@@ -2083,6 +2083,295 @@
       "weakest_link": "The 1950 Carswell leg rests on Zechel's document, which has never been produced and which Gerb himself says he can't consider. If it doesn't exist, all that's left is the base identity, which researchers already know well. So the lead can only run as a speculative open question, or as a footnote-sized note on the Carswell page. It can be checked against Zechel's papers or published writings (a NICAP or Ground Saucer Watch file) for the document's text and number. The renaming and Ramey's 1950 move are public record. No Gerb slip is involved.",
       "surprise": 2,
       "support": 3
+    },
+    {
+      "id": "L0030",
+      "slice": "S013-focus",
+      "found_at": "2026-10-16T14:07:43Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "timeline",
+      "headline": "Grusch's Clapper was running DIA under Secretary of Defense Cheney",
+      "claim": "In the Megyn Kelly clip Gerb plays in three 2026 videos, Grusch says Clapper 'managed the crash retrieval issue' and placed people in critical roles to manage it 'when he was the DNI, USDI, and DIA Director'. Clapper ran DIA from November 1991 to August 1995. That puts him managing the issue, on Grusch's own account, while Dick Cheney was Secretary of Defense (to January 1993; DIA is a DoD agency) and through the 1994 handover to the 'quasi industry and government control group' and the mid-'90s 'burn bag and shred party at a particular agency' that Grusch describes. Gerb treats Clapper only as Cheney's successor ('Cheni's replacement', mob boss from 2010 after Cheney left in 2009), and always quotes the DIA line without dating it. Grusch's own wording makes Clapper a manager under Cheney's Pentagon and in the 1994 transition, a generation earlier than the Obama-era role Gerb builds around him. The narrow, checkable point is the date overlap; whether Clapper's DIA role had anything to do with the 1994 move or the shred party is open.",
+      "entities": [
+        "James Clapper",
+        "Dick Cheney",
+        "David Grusch",
+        "Defense Intelligence Agency",
+        "Richard Haver"
+      ],
+      "videos": [
+        "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2",
+        "Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2",
+        "80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline",
+        "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1",
+        "The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2/transcript.md",
+          "quote": "I will say that General Clapper was well aware of the crash retrieval issue, managed the crash retrieval issue, and when he was the DNI, USDI, and DIA Director, he placed people in critical roles uh to manage this issue",
+          "note": "Grusch (Megyn Kelly, January 2026) names DIA director among the roles in which Clapper managed the issue.",
+          "verified": true
+        },
+        {
+          "source": "People/James Clapper.md",
+          "quote": "director of the [[Defense Intelligence Agency]] from November 1991 to August 1995",
+          "note": "Clapper's DIA dates (vault page; public record).",
+          "verified": true
+        },
+        {
+          "source": "Videos/Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2/transcript.md",
+          "quote": "Seen as Cheney operated as the head of the snake for UFO legacy programs whilst VP for George Bush from 2001 to 2009 and likely served the same role years prior when Secretary of Defense from 1989 to 1993.",
+          "note": "Gerb himself puts Cheney at the head as SecDef 1989-93, overlapping Clapper's first two DIA years, but never sets the two side by side.",
+          "verified": true
+        },
+        {
+          "source": "Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/transcript.md",
+          "quote": "Cheni's replacement served as mob boss in a severely diminished capacity, primarily over the remnants of the National Security Council's UFO Legacy Program portfolio.",
+          "note": "Gerb's framing: Clapper as Cheney's successor after 2009.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2/transcript.md",
+          "quote": "I will go so far as to say Clapper is likely the closest thing legacy programs have had as a singular controlling figure since Dick Cheney left in 2009.",
+          "note": "Same framing; Clapper's role starts after Cheney.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/transcript.md",
+          "quote": "Well, there was a burn bag and shred party um at a particular agency in the mid '90s I'm aware of.",
+          "note": "Grusch's mid-'90s destruction, inside Clapper's DIA window (agency unnamed).",
+          "verified": true
+        },
+        {
+          "source": "Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/transcript.md",
+          "quote": "1994 saw the programs vest management outside of the US government into a quasi government and industry control group that still features statutory controls and involvement by the National Security Council. Clapper, I'm looking at you.",
+          "note": "Closest Gerb comes; 'still features' reads as present-day NSC involvement, not Clapper's 1994 role. The writer should weigh this.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Grepped all transcripts for Clapper (8 videos) and read every passage. Gerb dates Clapper only as USDI 2007-2010 and DNI 2010-2017, plus SRA International 1998-2001; no transcript gives 1991 or 1995 for him or puts his DIA tenure next to Cheney's time as SecDef, the 1994 control group or the shred party. The one near-miss is 'Clapper, I'm looking at you' after the 1994 sentence in Special Access Required Vol.2. Elizondo's clip mentions Clapper 'after he was the director there at DIA' with no date. Also grepped Cheney (10 videos): Cheney is paired with Haver, never with Clapper's DIA years.",
+      "weakest_link": "Grusch's list may be loose. 'DIA director' could be shorthand, and he may only mean that Clapper placed people when he held those jobs, not that he managed the issue continuously from 1991. Grusch gives no dates, so the 1991-95 overlap is inference from his wording plus Clapper's public CV (checkable: DIA and ODNI official bios). It is not a slip by Gerb; the clip is played verbatim. 'Clapper, I'm looking at you' may count as Gerb half-drawing the 1994 line, which would narrow novelty to the Cheney-SecDef overlap. Nothing ties the unnamed shred-party agency to DIA, so the claim must stay at timing.",
+      "impact": 4,
+      "surprise": 4,
+      "support": 3
+    },
+    {
+      "id": "L0031",
+      "slice": "S013-focus",
+      "found_at": "2026-10-16T14:07:43Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "hidden-link",
+      "headline": "Nell's Northrop-and-foreign-materiel years are the window Grusch gives for the IRAD breakaway",
+      "claim": "In January 2026 Grusch told Megyn Kelly that 'early on the global war on terror' some contractors used IRAD to retrieve and exploit things on their own, loosely accountable to their government handlers. Gerb names Northrop Grumman as the main one and dates the shift to 2004-2005. In a 2025 video Gerb says Karl Nell spent 13 years as Northrop's deputy CTO and, while in that post, was the CENTCOM command representative for the Army Foreign Materiel Program, the job that took him into Operation Iraqi Freedom's captured-material exploitation center in 2003. Nell worked with Grusch on the UAP Task Force, endorsed his account in The Debrief, and Leslie Kean names him as one of Grusch's 40 witnesses. If Gerb's résumé details hold, Grusch's leading corroborator sat at the crossing of Northrop and foreign-materiel exploitation during the very years Grusch dates the contractor breakaway. Gerb's Northrop Vol.2 and 80-year timeline, both built on that IRAD claim, never mention Nell. This is an open question about where Nell's certainty and Grusch's IRAD account come from, not a claim that Nell was involved.",
+      "entities": [
+        "Karl Nell",
+        "David Grusch",
+        "Northrop Grumman",
+        "Independent Research and Development (IRAD)"
+      ],
+      "videos": [
+        "UFO Legacy Programs - Northrop Grumman",
+        "SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure",
+        "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2",
+        "80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/UFO Legacy Programs - Northrop Grumman/transcript.md",
+          "quote": "after all while serving as northrup's Deputy CTO Nell was additionally serving as command representative to us centcom for Army foreign material program",
+          "note": "Gerb places Nell's Northrop and Army FMP roles at the same time.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UFO Legacy Programs - Northrop Grumman/transcript.md",
+          "quote": "one has to wonder if this absence of Doubt arose from Nell's position as Deputy CTO and director of systems engineering and integration for 13 years on Northrup Grumman",
+          "note": "Gerb's 2025 suspicion, made before Grusch's IRAD-breakaway remark existed.",
+          "verified": true
+        },
+        {
+          "source": "Videos/SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure/transcript.md",
+          "quote": "as the foreign materials program command representative to us centcom cflcc in Kuwait served as the cj2 for the onestar combined joint captured material exploitation Center in Iraq",
+          "note": "Nell's LinkedIn as read by Gerb: FMP rep for Operation Iraqi Freedom, the start of the GWOT.",
+          "verified": true
+        },
+        {
+          "source": "Videos/SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure/transcript.md",
+          "quote": "one of them actually was in our article in the debrief I a former army colonel named Carl Nell",
+          "note": "Kean: Nell is one of Grusch's 40 witnesses.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2/transcript.md",
+          "quote": "Uh early on the global war on terror a lot of the money that was initially given to these companies was essentially reallocated uh for overseas contingency operations and these contractors essentially uh started to do their own thing",
+          "note": "Grusch's dating of the contractor breakaway.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2/transcript.md",
+          "quote": "And I believe the biggest contractor to build their own unaccountable set of legacy activities is [music] Northrop Grumman.",
+          "note": "Gerb's attribution of the breakaway to Northrop.",
+          "verified": true
+        },
+        {
+          "source": "Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/transcript.md",
+          "quote": "Moving forward from 2004 to 2005, we have a truly startling paradigm shift within the legacy programs.",
+          "note": "Gerb's date for the IRAD breakaway.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Grepped all transcripts for Nell / Carl Nell / Karl Nell. He appears in 7 videos (SOL, Northrop vol.1, Lockheed 2025, Herrera, McCandlish, Del Rio, Knuth), none of which discusses Grusch's GWOT/IRAD remark, which first appears in Northrop & TRW Vol.2 (March 2026). Nell is absent from Northrop Vol.2, 80 Years, Manhattan 2.0 and Special Access Required Vol.2, the videos built on the IRAD claim. Grepped 'TASC' and 'Analytic Sciences': nothing in any transcript or page.",
+      "weakest_link": "The Northrop dates. A quick web search finds Nell's own speaker bios calling him deputy CTO of an unnamed '$2 billion company', and one names 'Northrop Grumman / TASC'. TASC was a Northrop-owned services unit from the 2001 Litton purchase to its 2009 sale, so the deputy-CTO post may be at TASC, possibly after 2003, and possibly not concurrent with the Iraq FMP role. Gerb's '13 years' and 'concurrent' come from a LinkedIn summary relayed by a Twitter account. Checkable against Nell's LinkedIn or TASC records. Even if the dates fit, the inference is only that the timing lines up, and Gerb already wondered whether Nell's certainty came from Northrop. The new piece is only Grusch's breakaway window.",
+      "impact": 4,
+      "surprise": 4,
+      "support": 2
+    },
+    {
+      "id": "L0032",
+      "slice": "S014-patterns",
+      "found_at": "2026-10-16T14:07:43Z",
+      "status": "footnote-candidate",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "slip": true,
+      "headline": "Gerb puts Weygandt's name on Herrera's 2009 Sumatra encounter",
+      "claim": "In the Castle video, when Gerb lines up the three Marine encounters, he says \"In Wagant's case, in 2009\" and then describes Michael Herrera's Sumatra encounter (containers loaded under an octagonal reproduction vehicle). The next sentence correctly gives Weygandt's case as 1997 in Peru, so the first name is a swap of Weygandt for Herrera. The video's summary repeats the swap in its cast list, where the Jonathan Weygandt entry says he saw a clandestine team under a 300-foot octagonal vehicle in 2009. Footnote material only.",
+      "entities": [
+        "Jonathan Weygandt",
+        "Michael Herrera",
+        "2009 Indonesia UFO Encounter (Herrera)",
+        "Peru UFO Crash Incident"
+      ],
+      "videos": [
+        "1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE/transcript.md",
+          "quote": "As I have already mentioned, Castle's experience strikes similar chords to that of Herrera and Wagant. In Wagant's case, in 2009, the young Marines stumbled upon a clandestine team with tactical vehicles actively loading containers",
+          "note": "Describes Herrera's 2009 Sumatra encounter under Weygandt's name.",
+          "verified": true
+        },
+        {
+          "source": "Videos/1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE/transcript.md",
+          "quote": "In Wayan's case in 1997, just days or a few weeks after Castle's experience, the young Marine was detained and interrogated by a clandestine team in all black that seemingly sprung out of nowhere",
+          "note": "The next sentence gives Weygandt's real case, which shows the first name was a slip.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Checked the surrounding passage. Gerb names Herrera correctly elsewhere in the same video (the anthrax booster passage: 'in Michael's case, a team of black operators and an enormous 300 ft diameter 8gon').",
+      "weakest_link": "It could be a caption error rather than Gerb misspeaking, but either way it's a swapped name with no bearing on the story. It can be checked against the audio.",
+      "surprise": 1,
+      "support": 5,
+      "impact": 1
+    },
+    {
+      "id": "L0033",
+      "slice": "S015-focus",
+      "found_at": "2026-10-16T14:07:43Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "pattern",
+      "headline": "Gerb's 1954 'Ka' crash puts a second saucer and bodies 25 to 30 miles from Roswell",
+      "claim": "In the Special Forces Confession video Gerb cites Stringfield's witness 'Ka', who on 12 April 1954 went out with a USAF crash-rescue crew from the Roswell base to a saucer crashed edgewise in sand 25 to 30 miles northwest of Roswell, found a ground crew in fatigues already tagging debris and scattered bodies, and was then debriefed for three days under threat of prison and discharge. Gerb uses Ka only as a parallel for forced secrecy and never sets the account beside Roswell itself. Lined up with the Aztec video, where the airman 'George' says the 1948 Aztec recovery was run out of Walker AFB (the renamed Roswell Army Air Field) with new people and procedures after 1947 ('no more screw-ups'), and with Haut's 2002 affidavit putting the 1947 primary site about 40 miles north of town, Ka's account means one of two things, and both matter: either the Roswell base stayed a crash-recovery launch point for years after 1947 (1947 Roswell, 1948 Aztec, 1954 Ka), with an outside team on scene before the base crew, which is the doctrine George describes; or Ka's story is a misdated 1947 impact-site account (saucer with dome, bodies, northwest of Roswell, three-day threats). The narrow, testable claim is that the videos hold a second bodies-recovered crash in the Roswell area that Gerb never connects to the 1947 case.",
+      "entities": [
+        "Roswell Crash",
+        "Roswell Army Airfield",
+        "Leonard Stringfield",
+        "Aztec UFO Crash and Recovery",
+        "Walter Haut"
+      ],
+      "videos": [
+        "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction",
+        "The 1948 Aztec, New Mexico UFO Crash Retrieval",
+        "UFO Whistleblowers Vol.1"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction/transcript.md",
+          "quote": "this draws my attention to an alleged crash retrieval that occurred on April 12th 1954 relayed to Leonard Springfield by a witness Ka you can read about this in stringfield's UFO crash retrieval status report 3",
+          "note": "Date and source of the Ka account (Stringfield Status Report III, 1982).",
+          "verified": true
+        },
+        {
+          "source": "Videos/US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction/transcript.md",
+          "quote": "in this incident Ka and a USAF crew rescue four out of Roswell Air Force Base were dispatched to a site 25 to 30 miles Northwest where they observed a metallic saucer crashed edge-wise into the sand with a dome in its Center a ground crew in fatigues was already at this site prevented the men from getting closer and began tagging debris and Scattered nhi bodies",
+          "note": "Roswell-based crew, site northwest of Roswell, bodies, and an outside team already in control.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/transcript.md",
+          "quote": "George claimed the Aztec retrieval was indeed coordinated out of Walker AFB, perfectly suited after Roswell Army Airfield had garnered experience retrieving nonhuman craft solely 8 months prior.",
+          "note": "The same base as the launch point for the next New Mexico recovery.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/transcript.md",
+          "quote": "Look, they had the recovery back in 1947. They blew it. They put the thing out, tried to cover it up. From that time on, no more screw-ups.",
+          "note": "George's post-1947 doctrine, which matches the pre-positioned ground crew Ka found.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UFO Whistleblowers Vol.1/transcript.md",
+          "quote": "the freshly discovered debris field found 75 Mi Northwest of Roswell and the primary site 40 m north of town",
+          "note": "The 1947 primary site in Haut's affidavit, the same general area as Ka's site.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Grepped all transcripts for 'April 12th 1954', '25 to 30 miles', 'living hell', 'Walker Air Force', 'Walker AFB', '1954 Roswell'. The Ka account appears only in the Special Forces Confession video, used solely as a debriefing parallel; Walker AFB appears only in the Aztec video, which never mentions a 1954 Roswell-area crash. No transcript sets Ka beside the 1947 case or the Aztec 'George' account.",
+      "weakest_link": "Everything rests on Gerb's paraphrase of Stringfield's Status Report III, which couldn't be checked from here (a web search found only listings of the report). The date (1954), the distance and the base name ('Roswell Air Force Base', which was the base's name only from late 1947 to January 1948, before it became Walker AFB) need checking against the report itself, since a misdated 1947 account and a separate 1954 crash lead to different posts. Not a Gerb slip either way: the tension is between the accounts.",
+      "surprise": 4,
+      "support": 2,
+      "impact": 4,
+      "slip": false
+    },
+    {
+      "id": "L0034",
+      "slice": "S015-focus",
+      "found_at": "2026-10-16T14:07:43Z",
+      "status": "footnote-candidate",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "Corso's convoy came from Fort Bliss, not to it",
+      "claim": "In the Coyame video Gerb says that according to Corso's The Day After Roswell the Roswell debris and bodies were 'shipped to Fort Bliss Texas'. The book's account, as published reviews summarise it, has the crates arriving at Fort Riley from Fort Bliss and bound for Wright Field. Corso's own interview, played in the Corso video, says the five trucks came 'from an Airfield in in New Mexico' and were 'heading for right pison'. Fort Bliss was the convoy's origin in the book, not its destination: probably a slip of the preposition. The vault's Fort Bliss page repeats it. This matters for the published Fort Riley post too: the book routes the 6 July convoy through El Paso, a longer road trip than the straight Roswell to Fort Riley line that post measures, and the book and the interview give different origins.",
+      "entities": [
+        "Philip J. Corso",
+        "Fort Bliss",
+        "The Day After Roswell",
+        "Fort Riley, Kansas",
+        "Roswell Crash"
+      ],
+      "videos": [
+        "The 1974 Coyame, Mexico UFO Crash",
+        "Philip J. Corso - US Army UFO Technology Research & Development"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The 1974 Coyame, Mexico UFO Crash/transcript.md",
+          "quote": "Fort Bliss is mentioned by Colonel Philip J Corso in his book The Day After Roswell according to Corso debris and bodies from the 1947 Roswell crash were shipped to Fort Bliss Texas",
+          "note": "Gerb makes Fort Bliss the destination.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Philip J. Corso - US Army UFO Technology Research & Development/transcript.md",
+          "quote": "five trucks came through coming through here from an Airfield in in New Mexico and they're heading for right pison Air Force",
+          "note": "Corso's own words: origin a New Mexico airfield, destination Wright-Patterson. Fort Bliss isn't mentioned in the Corso video at all.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Grepped all transcripts for 'Bliss'. It appears in the Coyame, Peru (Weygandt), Lockheed and Northrop videos (as the Coyame staging base and as BDM's headquarters), never in the Corso video, and nowhere is Fort Bliss given as the convoy's origin.",
+      "weakest_link": "A single slip by Gerb ('to' for 'from') explains the Coyame line completely, so this is a footnote (Coyame summary and the Fort Bliss page), plus possibly an extra point for the published Fort Riley post. The book's 'from Fort Bliss, bound for Wright Field' detail comes from a 1997 CNI News description found by web search; the writer should confirm it against the book's Fort Riley chapter.",
+      "surprise": 2,
+      "support": 4,
+      "impact": 2,
+      "slip": true
     }
   ]
 }
