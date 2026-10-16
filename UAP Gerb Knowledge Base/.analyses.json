@@ -69,8 +69,8 @@
         "Operation Paperclip"
       ],
       "handed_out": "2026-10-16T04:18:12Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-16T04:25:10Z",
+      "leads": 1
     },
     "S005-links": {
       "lens": "links",
@@ -97,8 +97,8 @@
         "Karl Nell|RA"
       ],
       "handed_out": "2026-10-16T04:18:44Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-16T04:25:10Z",
+      "leads": 1
     },
     "S006-accounts": {
       "lens": "accounts",
@@ -106,8 +106,8 @@
         "Roswell Crash"
       ],
       "handed_out": "2026-10-16T04:18:44Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-16T04:25:10Z",
+      "leads": 3
     }
   },
   "leads": [
@@ -965,6 +965,308 @@
       "weakest_link": "The vault dates the Sign memo only to the year 1948; the month comes from outside sources (late summer or September 1948, rejection after that) and the Estimate's existence is disputed. Vandenberg's rejection is also usually explained by lack of physical evidence, so the timing may mean nothing.",
       "surprise": 3,
       "support": 2
+    },
+    {
+      "id": "L0014",
+      "slice": "S004-patterns",
+      "found_at": "2026-10-16T04:25:10Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "hidden-link",
+      "headline": "Gerb's crash-retrieval blueprint was working in Italy when the Magenta craft left",
+      "claim": "In the Manhattan Project 2.0 video Gerb names the Alsos Mission, run by Marshall's G-2 under Colonel Boris Pash, as the blueprint for UFO crash retrieval teams, and quotes the remit of its first phase in Italy: to secure important persons, laboratories and scientific information as they became available. In his Magenta video he places the 1933 craft, after Operation Achse in September 1943, probably in Mussolini's bunker under Mount Soratte north of Rome, then commandeered as a German command post, and says OSS agents recovered it in 1944 or 1945 and brought it to the US around the end of 1944. Gerb never puts these together. The narrow point: by his own accounts, the wartime US unit whose job was to seize enemy scientific material in Italy was operating there in the same 1944 window in which, he says, the OSS took the craft out of Italy, so Alsos (which the OSS is known to have worked alongside in Rome in 1944) is a candidate route for the transfer that the videos attribute only to the OSS and a Vatican back channel. This is an open question, not a demonstrated link.",
+      "entities": [
+        "Alsos Mission",
+        "Operation Achse",
+        "1933 Magenta UFO CrashRetrieval",
+        "Office of Strategic Services (OSS)",
+        "George C. Marshall",
+        "Leslie Groves"
+      ],
+      "videos": [
+        "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1",
+        "The 1933 Magenta, Italy UFO Crash"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1/transcript.md",
+          "quote": "Phase one of Alsos saw operations in Italy, whose objective was to {quote} obtain advanced information regarding scientific development in enemy research and development, and to secure all important persons, laboratories, [music] and scientific information immediately upon their becoming available.",
+          "note": "Gerb's own description of Alsos's Italian phase: a remit to seize scientific material in Italy.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1/transcript.md",
+          "quote": "This sounds an awful lot like the intelligence apparatus behind UFO crash retrieval teams, does it not?",
+          "note": "Gerb treats Alsos only as an analogy for later retrieval teams, not as a possible actor in Magenta.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1933 Magenta, Italy UFO Crash/transcript.md",
+          "quote": "rumors circulated the Bunger was used to house military equipment possibly a recovered nhi Craft on the 8th of September 1943 the Germans executed operation Ox disarming all Italian units and Comm Deering the bunker",
+          "note": "Gerb's chain puts the craft in the Soratte bunker, under German control from September 1943.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1933 Magenta, Italy UFO Crash/transcript.md",
+          "quote": "the UFO remained in the possession of melini's regime until the fall of the Axis powers and was recovered by us agents of the office of strategic services in 1944 or 1945",
+          "note": "The transfer window and the agency Gerb names.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1933 Magenta, Italy UFO Crash/transcript.md",
+          "quote": "after the war or the end of 1944 the craft was brought to the US",
+          "note": "Narrows the window to 1944.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Alsos/T-Force appear only in five transcripts (Manhattan 2.0, Special Access Vol.2, 80 Years, Peru/Weygandt, US Special Forces Confession). Of these only Manhattan 2.0 and 80 Years also mention Magenta, Mussolini or the Vatican, and in both the Magenta passages are separate from the Alsos passages; neither ties Alsos to the craft. The Magenta transcript never mentions Alsos, Pash, Groves or T-Force. 'Soratte' (captioned 'serade') appears only in the Magenta video. Searched 'Moe Berg'/'berg': no hit in an Alsos or OSS context.",
+      "weakest_link": "Everything on the Magenta side is Gerb's relay of Sharp/Pinotti sources plus his own 'likely' about Soratte, with no paper trail (he says so). The Alsos side needs outside dates: that the Italian Alsos team under Pash entered Rome with the troops in early June 1944, around when the Germans left Soratte, and that it worked with OSS there. These are checkable in Groves's and Pash's histories (Pash, 'The Alsos Mission'; Groves, 'Now It Can Be Told') and the Moe Berg OSS record. If Alsos Italy had left before the Soratte area was taken, or never went north of Rome, the timing link fails and only the analogy remains.",
+      "surprise": 3,
+      "support": 2
+    },
+    {
+      "id": "L0015",
+      "slice": "S005-links",
+      "found_at": "2026-10-16T04:25:10Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "In 2008 Gaffney was at the ODNI, not running the CIA's DS&T",
+      "claim": "Three of Gerb's early-2025 videos (Corso, January 2025; Northrop Grumman part one, January 2025; US Navy programs, April 2025) say Glenn Gaffney, as head of the CIA Directorate of Science and Technology, blocked Lockheed Martin's transfer of material to AAWSAP in 2008. The Lockheed video (September 2025) and the 80-year timeline tell it differently: a first attempt in 2008 or 2009 that Gerb, from memory, ties to James Clapper, and a 2011 Kona Blue attempt that Gaffney killed. Gerb never sets the two versions side by side, and no video mentions that Gaffney spent 2008 at the ODNI as Deputy DNI for Collection. A 2016 AFIO notice and the vault's own Gaffney page put him there in 2008, with the DS&T post following (the vault says from 2009). If those dates hold, 'DS&T head Gaffney blocked the 2008 transfer' cannot be right as stated: either the year is wrong or the post is. Gaffney's CV fits Gerb's later account, with Gaffney at DS&T for the 2011 Kona Blue block, better than the earlier one. The claim is limited to that. It does not say who, if anyone, blocked a 2008 or 2009 attempt.",
+      "entities": [
+        "Glenn Gaffney",
+        "Office of the Director of National Intelligence (ODNI)",
+        "CIA Directorate of Science and Technology",
+        "Kona Blue",
+        "AAWSAP",
+        "James Clapper",
+        "Lockheed Martin"
+      ],
+      "videos": [
+        "Philip J. Corso - US Army UFO Technology Research & Development",
+        "UFO Legacy Programs - Northrop Grumman",
+        "US Navy UFO Crash Retrieval & Reverse Engineering Programs",
+        "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs",
+        "80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline",
+        "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/Philip J. Corso - US Army UFO Technology Research & Development/transcript.md",
+          "quote": "Glenn Gaffney was the individual who stopped locked Martin from divesting UAP material to assap in 2008",
+          "note": "January 2025: Gaffney, described in the same sentence as director of the CIA DS&T, blocks the transfer in 2008.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UFO Legacy Programs - Northrop Grumman/transcript.md",
+          "quote": "the 2008 material transfer to assap that was blocked by gen Glenn Gaffney in the CIA uh directorate of Science and Technology",
+          "note": "January 2025: the same 2008 dating, with Gaffney placed in DS&T.",
+          "verified": true
+        },
+        {
+          "source": "Videos/US Navy UFO Crash Retrieval & Reverse Engineering Programs/transcript.md",
+          "quote": "Glenn Gaffne, former CIA DS&T director, has been labeled as the gatekeeper who ceased Loheed Martin's attempts to divest UFO materials, likely the 1953 Kingman, Arizona crash, to the Osat program in 2008.",
+          "note": "April 2025: third video giving 2008.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "Um maybe a DIA program back in 2008/209. I'm running this off the top of my head, but I believe that uh James Clapper was involved in shutting this down if I'm trying to remember correctly. But then of course in the 2011 transfer this was shut down by the CIA DS&T uh Glenn Gaffne and possibly Robert Cardillo.",
+          "note": "September 2025: Gerb's later version. 2008/09 goes to Clapper and Gaffney is moved to 2011.",
+          "verified": true
+        },
+        {
+          "source": "Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/transcript.md",
+          "quote": "In the same year of 2011, we have the Kona Blue perspective special access program.",
+          "note": "The timeline video dates the Kona Blue block, which it credits to Gaffney, to 2011.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2/transcript.md",
+          "quote": "Gaffney's claim to fame is shutting down the late 2000s Kona Blue PSAP",
+          "note": "March 2026: still blurs the two, calling the Kona Blue block 'late 2000s'.",
+          "verified": true
+        },
+        {
+          "source": "People/Glenn Gaffney.md",
+          "quote": "He was Deputy Director of National Intelligence for Collection from 2008, became head of the DS&T in 2009",
+          "note": "The vault's own research, from In-Q-Tel, AFCEA and ODNI biographies. No transcript mentions the ODNI collection post.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Grepped all transcripts for Gaffney (and the caption spellings Gaffne, Gafney). Hits were in Corso, Northrop pt1, Navy, Lockheed, NRO, 80 Years and Northrop Vol.2. None mentions 'for collection', 'Deputy Director of National Intelligence' or the ODNI next to Gaffney, and none notes that the 2008 and 2011 datings conflict. The NRO video covers only Gaffney's alleged NURO start. A web search found a 2016 AFIO notice saying that 'in 2008 [Gaffney] was Deputy Director of National Intelligence for Collection', after Mary Margaret Graham (2005-2008). Clapper was USD(I), not DNI, in 2008-09. The Cardillo analysis covers the two-attempt structure but not Gaffney's 2008 post or the dating conflict.",
+      "weakest_link": "When Gaffney moved from ODNI to DS&T. Search results confirm the ODNI collection post in 2008 (AFIO) but give no start date for DS&T. The vault's 2009 comes from bios the writer should recheck. If he took DS&T early in 2009 and the first Lockheed attempt was in 2009, not 2008, then the early videos are only off by a year and the finding shrinks to Gerb's date slip. The date of the first attempt is also unverified, coming from Sharp's reporting and the AARO history volume as Gerb remembers them. It can be checked against ODNI and CIA press releases from 2008-2009 and against AARO Historical Report Vol.1 on the Kona Blue chronology.",
+      "surprise": 3,
+      "support": 3
+    },
+    {
+      "id": "L0016",
+      "slice": "S006-accounts",
+      "found_at": "2026-10-16T04:25:10Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "Gerb ships the Roswell bodies out of Hangar 84 three days before Haut sees them there",
+      "claim": "In UFO Whistleblowers Vol.1 Gerb gives a Roswell chronology in which debris and bodies were shipped out of Hangar 84 on 5 July 1947, a date he repeats in Iceberg Level 2. Later in the same video he reads Walter Haut's 2002 sealed affidavit: on the morning of 8 July, after the staff meeting and the 9:30 press release, Colonel Blanchard took Haut into Building 84, a guarded B-29 hangar, where he saw the egg-shaped craft and a couple of child-sized bodies under a tarp, with a temporary morgue set up. Both accounts can only be true if the 5 July shipment was partial and some bodies stayed at the base for at least three more days. Gerb never sets the two side by side. It matters beyond this video because the published analysis on Corso's Fort Riley crate leans on the 5 July departure from this same video, and the Haut affidavit that Gerb treats as one of his strongest Roswell sources puts bodies still at Roswell on the 8th.",
+      "entities": [
+        "Hangar 84",
+        "Walter Haut",
+        "William Blanchard",
+        "Roswell Crash",
+        "Philip J. Corso",
+        "Fort Riley, Kansas"
+      ],
+      "videos": [
+        "UFO Whistleblowers Vol.1",
+        "The Alien and UFO Obscure Oddities Iceberg (Level 2)",
+        "Philip J. Corso - US Army UFO Technology Research & Development"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/UFO Whistleblowers Vol.1/transcript.md",
+          "quote": "the following day July 5th the area of North Roswell is quarantined guards were stationed north of town on Highway 285 blocking roads this same day debris and bodies were shipped out of Roswell Hangar 84 to either right Pat or Fort wor North Texas",
+          "note": "Gerb's own chronology: bodies leave Hangar 84 on 5 July.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UFO Whistleblowers Vol.1/transcript.md",
+          "quote": "on the morning of July 8th Walter attended the staff meeting with Colonel blanchford General Ramy and Chief of Staff Colonel dubos among others",
+          "note": "Haut's 2002 affidavit, as Gerb reads it, opens on 8 July.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UFO Whistleblowers Vol.1/transcript.md",
+          "quote": "before leaving the base blanchfield took the 509th lieutenant to building 84 a b29 hanger that was under heavy guard control on both the interior and exterior once inside hot was allowed to view what had been recovered just north of town",
+          "note": "Same morning, after the 9:30 press release: Haut is inside Building 84.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UFO Whistleblowers Vol.1/transcript.md",
+          "quote": "Additionally the lieutenant saw a couple bodies under a canvas tarp only the heads were visible",
+          "note": "Bodies still in the hangar on 8 July, three days after the shipment date Gerb gives.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Alien and UFO Obscure Oddities Iceberg (Level 2)/transcript.md",
+          "quote": "dating back all the way to July 5th of 1947 where it is said that debris and bodies were shipped out of Hangar 84 in Roswell New Mexico to wrright Patterson Air Force Base",
+          "note": "Gerb repeats the 5 July Hangar 84 shipment in a second video.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for 'hangar 84', 'hanger 84', 'building 84', 'hangar 18', 'Haut'/'Walter H', 'July 5th' and 'two/second/several/multiple shipments'. Hangar 84 appears only in Whistleblowers Vol.1 and Iceberg Level 2; Haut's hangar visit only in Whistleblowers Vol.1. No passage notes the clash or proposes a split shipment. The 80 Years and Corso videos mention Haut only in passing. The Hangar 84 entity page puts both claims in consecutive sentences without remarking on the conflict.",
+      "weakest_link": "Gerb's 5 July chronology says 'debris and bodies were shipped', not 'all bodies', so a partial shipment with some bodies left behind reconciles the two; the post must present it as a tension in Gerb's account, not an impossibility. The source of the 5 July chronology is not named in the video (it resembles the Carey and Schmitt timeline) and should be identified. Haut's 2002 affidavit is public (published in Carey and Schmitt, Witness to Roswell, 2007) and can be checked for the 8 July date and the Building 84 wording. Overlaps with the published Corso analysis, so the writer may prefer to extend that post.",
+      "surprise": 3,
+      "support": 4
+    },
+    {
+      "id": "L0017",
+      "slice": "S006-accounts",
+      "found_at": "2026-10-16T04:25:10Z",
+      "status": "duplicate",
+      "duplicate_of": "L0012",
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "The IPU field order sends its team to a White Sands airfield, not Roswell",
+      "claim": "In the Aztec video Gerb reads the alleged IPU field order of 4 July 1947 as directing a counter-intelligence team to 'report to the G2 at Condron Field, New Mexico, which is of course Roswell'. Condron Field (Condron Army Airfield) is the airstrip of White Sands Proving Ground (now White Sands Missile Range) near Las Cruces, not Roswell Army Air Field. Read as written, the field order points the team at White Sands, which fits the Roswell-and-White-Sands picture Gerb takes from Andrew Kissner in other videos better than his own gloss does. A second, separately checkable point: one airfield history finds Condron absent from the September 1947 Roswell sectional chart and first charted in September 1948, which, if confirmed, would make a 4 July 1947 order naming it anachronistic. Gerb never mentions White Sands in connection with the field order.",
+      "entities": [
+        "Interplanetary Phenomenon Unit",
+        "White Sands Missile Range",
+        "Roswell Crash",
+        "Andrew Kissner",
+        "Roswell Army Airfield"
+      ],
+      "videos": [
+        "The 1948 Aztec, New Mexico UFO Crash Retrieval",
+        "The Majestic-12 Documents With Ryan S. Wood",
+        "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs",
+        "80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/transcript.md",
+          "quote": "The one-page memo directs a commanding officer to take a counter inelligence team to a UFO crash site and report to the G2 at Condrinfield, New Mexico, which is of course Roswell.",
+          "note": "Gerb's reading of the field order; 'Condrinfield' is the caption's rendering of Condron Field. The gloss 'which is of course Roswell' is Gerb's.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Majestic-12 Documents With Ryan S. Wood/transcript.md",
+          "quote": "the interplanetary phenomenon field order lists of July 4th 1947 correspondence of a situation occurring the day before the memo requesting Personnel including an aeronautical engineer and medical doctor cleared for quote need to know end quote and this date should ring a bell as occurring right before the Roswell crash",
+          "note": "Gerb's other description of the field order ties it to Roswell by date only and names no destination.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "And the subject of these interviews, well, crashed extraterrestrial discs retrieved in Roswell and White Sands, New Mexico [music] in 1947.",
+          "note": "Kissner's sources place 1947 recoveries at White Sands as well as Roswell.",
+          "verified": true
+        },
+        {
+          "source": "Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/transcript.md",
+          "quote": "In short, one or more likely several manned UFOs were recovered in New Mexico around Roswell and White Sands, processed at the nearby Roswell Army airfield",
+          "note": "Gerb's own summary includes White Sands, but he never connects the field order's destination to it.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts and vault pages for 'condr' (Condron, Condrin): one hit, the Aztec transcript passage above. Searched 'field order' across transcripts: only the Aztec and Majestic-12 videos, neither of which mentions White Sands in that context. The Interplanetary Phenomenon Unit page repeats the Roswell reading. Web: airfields-freeman.com (Alamogordo/White Sands page) and an NMSU photo record identify Condron Field as the White Sands range's southern airfield.",
+      "weakest_link": "Rests on Gerb's reading of the document; the writer must check the field order's actual text (majesticdocuments.com, or Wood's Majic Eyes Only) to confirm it says Condron Field and not something the caption garbled. Condron's 1947 status is uncertain: the airfields site dates it to 1947-48 from sectional charts, while a Wikipedia list gives 1945, and an NMSU caption says it was named for a WWII-era pilot; the anachronism point should stay secondary unless a firm construction date turns up (WSMR history office). Even without the anachronism, the core point (Condron is White Sands, not Roswell) survives if the document text is confirmed.",
+      "surprise": 3,
+      "support": 3
+    },
+    {
+      "id": "L0018",
+      "slice": "S006-accounts",
+      "found_at": "2026-10-16T04:25:10Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "Gerb went from very skeptical to 'probably likely' on radar downing the Roswell craft",
+      "claim": "In January 2025, discussing Corso, Gerb calls the theory that radar systems interfered with craft and caused the 1947 crashes 'a common theory by corso and some Roswell researchers' and says 'I am still very skeptical on this point'. In November 2025 (Sandia) he calls radars bringing down craft 'very, very, very bizarre' but then links it to SDI-era weapons. In May 2026 (Manhattan Project 2.0) he lists Kissner's point that radar arrays were possibly responsible for early crashes among things he is 'in firm agreement with', and in September 2026 (80 Years) he says 'I think it probably likely that the Roswell craft had some sort sort of interference with uh radar systems'. He never says he changed his mind or why; the shift tracks his growing reliance on Kissner, whom he says he has spoken to personally. The finding is the change in Gerb's own position, not whether radar downed anything.",
+      "entities": [
+        "Roswell Crash",
+        "Philip J. Corso",
+        "Andrew Kissner",
+        "Aztec UFO Crash and Recovery"
+      ],
+      "videos": [
+        "Philip J. Corso - US Army UFO Technology Research & Development",
+        "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs",
+        "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1",
+        "80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/Philip J. Corso - US Army UFO Technology Research & Development/transcript.md",
+          "quote": "a common theory by corso and some Roswell researchers is radar systems interfered with craft navigation leading to crashes I am still very skeptical on this point",
+          "note": "January 2025: Gerb is very skeptical.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "Now, I know radars bringing down craft is very, very, very bizarre. However, viewers of my channel will recall",
+          "note": "November 2025: still 'bizarre', but he starts building a case for it.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1/transcript.md",
+          "quote": "Kisner's disclosures are intriguing, most of which I am in firm agreement with, including the inclusion of Air Force major commands and the AFSWP within early legacy efforts, and the presence of high-powered triangulated radar arrays, such as the lash-up network, possibly being incidentally responsible for early UFO crash retrievals, such as 1948's Aztec.",
+          "note": "May 2026: radar causation is among Kissner's points he firmly agrees with (hedged 'possibly', example is Aztec).",
+          "verified": true
+        },
+        {
+          "source": "Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/transcript.md",
+          "quote": "so I think it probably likely that the Roswell craft had some sort sort of interference with uh radar systems or sort of EM interference at the time and thus one or several crashes occurred in the American Southwest.",
+          "note": "September 2026: Gerb now thinks it probably likely, for Roswell specifically.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Grepped all transcripts for 'radar' within 40 characters of 'interfer': hits in the Sarbacher (2024-04, neutral, Carl Howe memo), Corso (2025-01, skeptical), Northrop Grumman (2025-01, neutral 'echoes Corso'), Aztec (2025-07, neutral), Sandia (2025-11), and 80 Years (2026-09) videos, plus Manhattan Project 2.0 (2026-05) via 'triangulated radar arrays'. Searched 'changed my mind', 'change my mind', 'used to be skeptical', 'I was skeptical': no hits. No passage acknowledges the shift.",
+      "weakest_link": "The intermediate statements are hedged ('possibly', 'bizarre'), and the 2026 Manhattan quote is about Aztec, not Roswell; only the Jan 2025 and Sept 2026 quotes are clean opposites, and the 80 Years line is in a loose end-of-video section. A shift of opinion over 20 months is ordinary, so the post must be framed as how Gerb's view moved and what it moved with (Kissner), not as a gotcha. Fully checkable from the transcripts and their publication dates.",
+      "surprise": 2,
+      "support": 4
     }
   ]
 }
