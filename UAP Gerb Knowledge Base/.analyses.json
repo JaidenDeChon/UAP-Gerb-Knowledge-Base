@@ -3531,7 +3531,7 @@
       "id": "L0051",
       "slice": "S027-focus",
       "found_at": "2026-10-16T19:12:10Z",
-      "status": "open",
+      "status": "shelved",
       "duplicate_of": null,
       "problems": [],
       "kind": "hidden-link",
@@ -3608,7 +3608,9 @@
       "weakest_link": "'His relationship with Stringfield' is Ryan Wood's spoken paraphrase of Cantwheel's letter. The letter may be checkable through Cooper's affidavit and the Cantwheel material on majesticdocuments.com, but nothing here says what the relationship was (correspondent, source, acquaintance). The IPU name was also public by the early 1980s (Hall's FOIA, Steinman's 1986 book), so a forger needed no tie to Stringfield. The finding is narrower than 'copied': it shows that both lines share a node, so they can't serve as independent confirmation of each other. Not a Gerb slip.",
       "impact": 4,
       "support": 3,
-      "slip": false
+      "slip": false,
+      "resolved_at": "2026-10-16T19:13:57Z",
+      "reason": "Gerb already raises non-independence both ways (Aztec: hoaxers could copy IPU details from Steinman and Hall; Manhattan Project 2.0: can't rule out Steinman drew on IPU documents circulating before the leaks), so only a possible Stringfield route is left; it rests on Wood's paraphrase of an unlocated Cantwheel letter, the IPU name and Steinman's book were public by 1986, and the narrowed point is speculative at impact 3."
     },
     {
       "id": "L0052",
