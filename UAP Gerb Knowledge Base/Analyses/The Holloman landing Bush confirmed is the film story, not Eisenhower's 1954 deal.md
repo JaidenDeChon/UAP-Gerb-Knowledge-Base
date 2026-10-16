@@ -15,7 +15,7 @@ Gerb mentions an alleged landing of a non-human craft at [[Holloman Air Force Ba
 
 Gerb's coverage gives the Holloman landing as 1954 (*UFO Whistleblowers Vol.1*, the Corso video) and as 1957 (the Edwards video). Both 1954 mentions come with [[Dwight D. Eisenhower]] meeting the visitors and making an agreement. Outside the channel, the 1954 Eisenhower meetings at Holloman are a claim of the British author Timothy Good. Bush's reported confirmation, which Gerb attaches to them, concerns a different story: the Holloman landing said to have been filmed by the Air Force, which Davis says Bush dated to April 1964. In the Dugway video Gerb tells that film story through [[James Fox]] without any date, and he never links it to Bush. This analysis found no outside source for a 1957 landing with occupants.
 
-The limit: the exact wording of the journal entry by [[Jacques Vallee]] that Gerb was reading from couldn't be checked from here. If that entry itself says 1954 and Eisenhower, the mix-up is Vallee's or his informants', not Gerb's.
+One limit applies. The exact wording of the journal entry by [[Jacques Vallee]] that Gerb was reading from couldn't be checked from here. If that entry itself says 1954 and Eisenhower, the mix-up is Vallee's or his informants', not Gerb's.
 
 ## The evidence
 
@@ -28,17 +28,17 @@ The limit: the exact wording of the journal entry by [[Jacques Vallee]] that Ger
 
 Outside reporting separates the threads that Gerb's mentions run together:
 
-- **1954, Eisenhower.** In 2012 Timothy Good said Eisenhower met extraterrestrials three times in 1954, the later meetings at Holloman. The February 1954 trip at the centre of the lore was officially a visit to a dentist in Los Angeles, and some versions put that first meeting at Edwards. This matches Gerb's 1954 mentions.
-- **The film.** Robert Emenegger and Allan Sandler said that in the early 1970s, while making *UFOs: Past, Present, and Future*, they were promised Air Force footage of a 1964 landing at Holloman, and the offer was then withdrawn. That's Gerb's Dugway story.
-- **Bush.** In *The Age of Disclosure* (November 2025), Davis says Bush told him in 2003 about a landing at a New Mexico air base in April 1964 and was refused more detail. Reports on Vallee's March 2004 journal entry, which relays the same story through [[Hal Puthoff]], describe Bush calling the Holloman film "the real thing", with a secret project whose security was "obscene". Gerb's own paraphrase, "a secret project with obscene security", matches that wording.
+- The 1954 Eisenhower meetings come from Timothy Good, who said in 2012 that Eisenhower met extraterrestrials three times in 1954, the later meetings at Holloman. The February 1954 trip at the centre of the lore was officially a visit to a dentist in Los Angeles, and some versions put that first meeting at Edwards. This matches Gerb's 1954 mentions.
+- The film story comes from Robert Emenegger and Allan Sandler. They said that in the early 1970s, while making *UFOs: Past, Present, and Future*, they were promised Air Force footage of a 1964 landing at Holloman, and the offer was then withdrawn. That's Gerb's Dugway story.
+- As for Bush, in *The Age of Disclosure* (November 2025), Davis says Bush told him in 2003 about a landing at a New Mexico air base in April 1964 and was refused more detail. Reports on Vallee's March 2004 journal entry, which relays the same story through [[Hal Puthoff]], describe Bush calling the Holloman film "the real thing", with a secret project whose security was "obscene". Gerb's own paraphrase, "a secret project with obscene security", matches that wording.
 
 So the confirmation Gerb uses for an Eisenhower deal in 1954 looks like it belongs to the 1964 film story. Gerb tells that story about seven weeks later in the Dugway video, through Fox, as if it were a separate tale. The 1957 date in the Edwards video matches none of these. The likeliest source, and this is an inference, is Cooper's 1957 Edwards landing, which comes earlier in the same video and is also a craft touching down at an Air Force base.
 
 ## What cuts against it
 
-- Vallee's text could not be read here. Secondary accounts of the entry disagree on the year: one gives 1971, and Davis's later tellings give 1964. Neither mentions 1954 or Eisenhower, but that is an absence in snippets, not a reading of the book.
+- Vallee's text could not be read here. Secondary accounts of the entry disagree on the year: one gives 1971, and Davis's later tellings give 1964. Neither mentions 1954 or Eisenhower, though that comes from search snippets; the book itself was not read.
 - Holloman lore has more than two dates. One researcher, Art Campbell, puts an Eisenhower visit in February 1955. Gerb may have drawn on a source that merges Good's story with the film story.
-- The 1957 date may just be a slip of the tongue in an unscripted closing segment. That makes the disagreement real but small.
+- The 1957 date may just be a slip of the tongue in an unscripted closing segment, which would make the disagreement real but small.
 - [[Philip J. Corso]]'s claimed encounter at Red Canyon on the White Sands range in 1957–58, which the scout raised, does not help. It's a different place and a different kind of event, and only the year matches.
 - None of this bears on whether any landing happened. All three stories rest on witnesses and informants who are reported here, not tested.
 
