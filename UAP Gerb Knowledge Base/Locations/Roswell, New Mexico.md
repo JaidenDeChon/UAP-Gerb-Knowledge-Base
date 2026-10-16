@@ -9,7 +9,7 @@ A city in Chaves County, southeastern New Mexico, and the site of the most famou
 
 ## The 1947 Crash
 
-On or around July 3–4, 1947, rancher Mac Brazel discovered unusual debris scattered across a field northwest of Roswell. Major Jesse Marcel, intelligence officer of the 509th Bomb Group at Roswell Army Air Field, was dispatched to collect the material. Marcel later described recovering an exceedingly light metal that retained its shape after deformation. Those properties are consistent with nitinol, a nickel-titanium shape-memory alloy. Battelle Memorial Institute was contracted to study nitinol in 1949 at Wright-Patterson Air Force Base, more than a decade before it was "officially" discovered in 1961.
+On or around July 3–4, 1947, rancher Mac Brazel discovered unusual debris scattered across a field northwest of Roswell. Major Jesse Marcel, intelligence officer of the 509th Bomb Group at Roswell Army Air Field, was dispatched to collect the material. Marcel later described recovering an exceedingly light metal that retained its shape after deformation. Those properties are consistent with nitinol, a nickel-titanium shape-memory alloy. In 1949 Wright-Patterson Air Force Base contracted Battelle Memorial Institute for titanium-alloy research, which Gerb argues was a study of nitinol more than a decade before it was "officially" discovered in 1961.
 
 ## Battelle Memorial Institute Analysis
 
