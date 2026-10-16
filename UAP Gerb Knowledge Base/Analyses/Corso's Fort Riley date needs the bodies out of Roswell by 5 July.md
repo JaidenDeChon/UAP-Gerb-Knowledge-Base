@@ -13,11 +13,11 @@ tags: [analysis]
 
 ## The finding
 
-For Corso's crate to be in Kansas around 6 July, the bodies had to leave the [[Roswell Crash]] area by road about a day earlier. That matches the chronology Gerb gives in UFO Whistleblowers Vol.1 (crash likely 4 July, bodies out of [[Hangar 84]] on 5 July). It doesn't fit the 7 July date Gerb ties to the crash in the Majestic-12 and Kecksburg videos. This is an open question, not a proven contradiction.
+For Corso's crate to be in Kansas around 6 July, the bodies had to leave the [[Roswell Crash]] area by road about a day earlier. That matches the chronology Gerb gives in UFO Whistleblowers Vol.1 (crash likely 4 July, bodies out of [[Hangar 84]] on 5 July). It doesn't fit the 7 July date Gerb ties to the crash in the Majestic-12 and Kecksburg videos. Whether the accounts really contradict each other is still an open question.
 
 ## What cuts against it
 
-- Corso says "on or about". A few days' slack dissolves most of the tension.
+- Corso says "on or about", and a few days' slack would remove most of the conflict.
 - The 7 July date is borrowed: the [[Eisenhower Briefing Document]]'s start of recovery in one video, an aside about [[James E. Webb]]'s phone calls in the other.
 - Roswell's dates are disputed, and Gerb separates the debris field from the bodies site. The two dates may describe different sites.
 - The Hangar 84 account doesn't say the bodies went by road.
@@ -32,11 +32,11 @@ For Corso's crate to be in Kansas around 6 July, the bodies had to leave the [[R
 
 ## How it fits together
 
-Roswell is about 580 miles from Fort Riley in a straight line, so a convoy leaving on 5 July could plausibly reach Kansas by the 6th. If the recovery began on 7 July, the crate was at Fort Riley before the bodies were picked up.
+Roswell is about 580 miles from Fort Riley in a straight line, so a convoy leaving on 5 July could plausibly reach Kansas by the 6th. If the recovery began on 7 July, the crate would have been at Fort Riley before the bodies were picked up.
 
 ## Already known?
 
-No source found sets Corso's 6 July date against the Roswell chronologies. Wikipedia notes critics found chronological problems in *[[The Day After Roswell]]* generally. A Black Vault case file on Corso's Form 66 record lists a Fort Riley assignment from 21 April 1947 (one search snippet), which fits Gerb's statement but doesn't confirm July.
+The web check found no source that sets Corso's 6 July date against the Roswell chronologies. Wikipedia notes that critics found chronological problems in *[[The Day After Roswell]]* as a whole. A Black Vault case file on Corso's Form 66 record lists a Fort Riley assignment from 21 April 1947, according to a single search snippet. That fits Gerb's statement about Corso's records but doesn't confirm he was there in July.
 
 ## What would settle it
 
