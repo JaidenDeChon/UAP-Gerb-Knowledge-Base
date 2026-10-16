@@ -108,6 +108,21 @@
       "fetchedFrom": "https://web.archive.org/web/20250208205408id_/https://www.gao.gov/assets/nsiad-86-191.pdf",
       "retrieved": "2026-10-16"
     },
+    "GAO Roswell Report (1995)": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/9719015a29bfb9294b4f41db94ab6567ad4f5b465b8ae2c9530faaf22ad466c4.pdf",
+      "sha256": "9719015a29bfb9294b4f41db94ab6567ad4f5b465b8ae2c9530faaf22ad466c4",
+      "bytes": 326773,
+      "pages": 26,
+      "thumb": {
+        "src": "/documents/gao-roswell-report-1995.webp",
+        "width": 320,
+        "height": 415
+      },
+      "thumbPage": 1,
+      "source": "https://www.gao.gov/assets/nsiad-95-187.pdf",
+      "fetchedFrom": "https://web.archive.org/web/20261005224158id_/https://www.gao.gov/assets/nsiad-95-187.pdf",
+      "retrieved": "2026-10-16"
+    },
     "Hottel Memo": {
       "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/935aa48e2169c55914ad9a2265947066ab2ae54cb8c1e01b8cf26a7048bc2567.pdf",
       "sha256": "935aa48e2169c55914ad9a2265947066ab2ae54cb8c1e01b8cf26a7048bc2567",
@@ -223,6 +238,23 @@
       "thumbPage": 1,
       "source": "https://www.congress.gov/amendment/118th-congress/senate-amendment/797/text",
       "fetchedFrom": "https://www.govinfo.gov/content/pkg/CREC-2023-07-13/pdf/CREC-2023-07-13-pt1-PgS2953.pdf",
+      "retrieved": "2026-10-16"
+    },
+    "Twining Memo": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/3a44e62b30c19118930aa193a6a72687af96d8f01017205151b24a8ea87f33e1.pdf",
+      "sha256": "3a44e62b30c19118930aa193a6a72687af96d8f01017205151b24a8ea87f33e1",
+      "bytes": 492582,
+      "pages": 3,
+      "ocr": "skip-text",
+      "sourceSha256": "1232029134966ddf66b14c99a3f651483daf39c56d3751541852c8b0354cc2bb",
+      "thumb": {
+        "src": "/documents/twining-memo.webp",
+        "width": 320,
+        "height": 427
+      },
+      "thumbPage": 1,
+      "source": "https://www.nicap.org/docs/1947_Twining_memo.pdf",
+      "fetchedFrom": "https://www.nicap.org/docs/1947_Twining_memo.pdf",
       "retrieved": "2026-10-16"
     },
     "USAF Regulation 200-2": {
