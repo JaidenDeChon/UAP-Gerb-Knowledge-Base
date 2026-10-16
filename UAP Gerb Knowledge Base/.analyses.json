@@ -466,6 +466,33 @@
       "handed_out": "2026-10-16T19:25:19Z",
       "ingested": "2026-10-16T19:30:20Z",
       "leads": 1
+    },
+    "S031-focus": {
+      "lens": "focus",
+      "items": [
+        "Battelle Memorial Institute"
+      ],
+      "handed_out": "2026-10-16T19:45:34Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S032-timeline": {
+      "lens": "timeline",
+      "items": [
+        "1990s"
+      ],
+      "handed_out": "2026-10-16T19:45:34Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S033-focus": {
+      "lens": "focus",
+      "items": [
+        "AARO"
+      ],
+      "handed_out": "2026-10-16T19:45:34Z",
+      "ingested": null,
+      "leads": 0
     }
   },
   "leads": [
