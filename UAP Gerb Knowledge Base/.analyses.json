@@ -2345,7 +2345,7 @@
       "id": "L0034",
       "slice": "S015-focus",
       "found_at": "2026-10-16T14:07:43Z",
-      "status": "footnote-candidate",
+      "status": "footnoted",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -2381,7 +2381,9 @@
       "surprise": 2,
       "support": 4,
       "impact": 2,
-      "slip": true
+      "slip": true,
+      "resolved_at": "2026-10-16T14:15:37Z",
+      "footnote": "gerb-corso-fort-bliss"
     }
   ]
 }

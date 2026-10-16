@@ -13,7 +13,10 @@ Gerb sets the book aside and works from Corso's own manuscript, *Dawn of a New A
 
 Gerb notes the book's troubled reception. Senator [[Strom Thurmond]] withdrew his foreword after learning the book was about UFOs, and [[Stanton Friedman]] said a colonel with a PhD had sent him a list of 92 false claims in it. Gerb points out that these objections are aimed mainly at the book and not at the manuscript. He also finds it strange that the manuscript never mentions the body Corso said he saw at [[Fort Riley, Kansas]], although both the book and Corso's 1998 affidavit describe it. [[John B. Alexander]] was among those shown the manuscript around the time the book came out.
 
-Gerb still draws on the book for a few details. In his video on the 1974 Coyame crash he notes Corso's statement in *The Day After Roswell* that debris and bodies from Roswell were shipped to [[Fort Bliss]].
+Gerb still draws on the book for a few details. In his video on the 1974 Coyame crash he says that according to the book, debris and bodies from Roswell were shipped to [[Fort Bliss]]. In the book the crates Corso saw at Fort Riley had come from Fort Bliss and were bound for Wright Field, so the base was their origin, not their destination.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions credited the book with saying that Roswell debris and bodies were shipped to Fort Bliss. In the book they were shipped from Fort Bliss, bound for Wright Field ([archived 1997 review of the book](https://www.geocities.ws/server2/homestead/area51/Shadowlands/6583/roswell014.html)).
 
 ## Sources
 
