@@ -485,8 +485,19 @@ html[data-page-loading] .ufo-page {
   visibility: hidden;
 }
 
+/* The desktop sidebar's width: the full 280px, or the 64px icon rail.
+   The layout sets data-sidebar on <html> (server-rendered, from the
+   collapse cookie), and everything that sits beside the sidebar reads
+   this one variable: the sidebar itself, the loader, the reveal veil. */
+:root {
+  --ufo-sidebar-w: 280px;
+}
+html[data-sidebar='rail'] {
+  --ufo-sidebar-w: 64px;
+}
+
 /* Centred in the visible content area: below the 56px top bar, beside the
-   280px sidebar from 901px up. At rest it's gone the way it leaves:
+   sidebar from 901px up. At rest it's gone the way it leaves:
    blurred, a touch larger, transparent. */
 .ufo-loading-mark {
   --ufo-rail: 0px;
@@ -508,7 +519,7 @@ html[data-page-loading] .ufo-page {
 }
 @media (min-width: 901px) {
   .ufo-loading-mark {
-    --ufo-rail: 280px;
+    --ufo-rail: var(--ufo-sidebar-w);
   }
 }
 /* In after a beat, so a quick load never flashes it; blur and scale snap
@@ -551,7 +562,7 @@ html:not([data-page-loading]):not([data-page-revealing]) .ufo-loading-mark * {
 }
 @media (min-width: 901px) {
   .ufo-reveal-veil {
-    --ufo-rail: 280px;
+    --ufo-rail: var(--ufo-sidebar-w);
   }
 }
 html[data-page-revealing] .ufo-reveal-veil {

@@ -13,8 +13,13 @@ export function clamp(v: number, lo: number, hi: number): number {
   return v < lo ? lo : v > hi ? hi : v
 }
 
-/** Interactive zoom range shared by the map camera and fit-to-view. */
-export const MIN_ZOOM = 0.05
+/**
+ * Interactive zoom range shared by the map camera and fit-to-view. The floor
+ * is an absolute backstop only: the site map's laid-out graph is large enough
+ * that its own overview fit sits near 0.05, so the camera takes a tighter,
+ * content-relative floor from its caller (see useMapCamera's `minZoom`).
+ */
+export const MIN_ZOOM = 0.005
 export const MAX_ZOOM = 4
 
 /**
