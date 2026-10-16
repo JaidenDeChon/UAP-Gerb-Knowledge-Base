@@ -4531,7 +4531,7 @@
       "id": "L0065",
       "slice": "S036-accounts",
       "found_at": "2026-10-16T20:08:07Z",
-      "status": "open",
+      "status": "written",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -4588,7 +4588,9 @@
       "weakest_link": "The deciding premise is what Stringfield himself wrote in Status Report VII. If he explicitly tied the 1978 CIA warning to Chihuahua, or gave detail that only fits Coyame (a 1974 date, a collision with a plane, dead Mexican soldiers), the alternative collapses. Gerb quotes only fragments, and the vault does not have the text. Also unchecked: whether the 1978 MUFON paper ('Retrievals of the Third Kind') already carried a Mexico case such as Willingham's or the 1948 Laredo story. A quick web search could not confirm this. Both can be checked against copies of Status Reports I and VII. Against the lead: the Denb Report says its facts were gathered in 1978, the same year as the warning, which could equally fit Coyame. This is not a slip.",
       "impact": 4,
       "support": 2,
-      "slip": false
+      "slip": false,
+      "resolved_at": "2026-10-16T20:17:02Z",
+      "analysis": "Analyses/Stringfield's 1978 paper already had a Mexico crash when the CIA warned him off Mexico.md"
     },
     {
       "id": "L0066",
