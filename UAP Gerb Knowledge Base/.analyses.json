@@ -52,7 +52,7 @@
       "id": "L0001",
       "slice": "S001-links",
       "found_at": "2026-10-16T03:34:33Z",
-      "status": "open",
+      "status": "discarded",
       "duplicate_of": null,
       "problems": [],
       "kind": "hidden-link",
@@ -113,7 +113,9 @@
       "not_said_check": "Searched all transcripts for 'Long Beach' (only FASTWALKERS, in the Coulthart passage), and for McDonnell Douglas spellings ('McDonnell', 'McDonald Douglas'); no transcript that mentions McDonnell Douglas mentions Long Beach, and the FASTWALKERS passage never names Douglas, McDonnell Douglas or Boeing as candidates. Also checked 'Douglas Aircraft' and 'Robert Wood'/'Bob Wood': only the MJ-12 video, with no Long Beach or Coulthart link.",
       "weakest_link": "Whether Coulthart's book actually says Long Beach (Gerb paraphrases it) and whether the source meant the company's headquarters; Boeing has held the Long Beach site since 1997, so the match may be Boeing rather than McDonnell Douglas. Douglas also had sites in Santa Monica and Huntington Beach, and Robert Wood's own work location is not given in the vault.",
       "surprise": 4,
-      "support": 3
+      "support": 3,
+      "resolved_at": "2026-10-16T03:38:07Z",
+      "reason": "Rests on Gerb's unverified paraphrase that Coulthart's source said Long Beach; even granting it, McDonnell Douglas is only the largest of several Long Beach-area candidates (Boeing, Rockwell at Seal Beach), and the Nolan and Wood threads only show a famous contractor being named in UFO stories, which is trivial."
     },
     {
       "id": "L0002",
