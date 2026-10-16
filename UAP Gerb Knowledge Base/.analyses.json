@@ -1105,7 +1105,7 @@
       "id": "L0016",
       "slice": "S006-accounts",
       "found_at": "2026-10-16T04:25:10Z",
-      "status": "open",
+      "status": "written",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -1159,7 +1159,9 @@
       "not_said_check": "Searched all transcripts for 'hangar 84', 'hanger 84', 'building 84', 'hangar 18', 'Haut'/'Walter H', 'July 5th' and 'two/second/several/multiple shipments'. Hangar 84 appears only in Whistleblowers Vol.1 and Iceberg Level 2; Haut's hangar visit only in Whistleblowers Vol.1. No passage notes the clash or proposes a split shipment. The 80 Years and Corso videos mention Haut only in passing. The Hangar 84 entity page puts both claims in consecutive sentences without remarking on the conflict.",
       "weakest_link": "Gerb's 5 July chronology says 'debris and bodies were shipped', not 'all bodies', so a partial shipment with some bodies left behind reconciles the two; the post must present it as a tension in Gerb's account, not an impossibility. The source of the 5 July chronology is not named in the video (it resembles the Carey and Schmitt timeline) and should be identified. Haut's 2002 affidavit is public (published in Carey and Schmitt, Witness to Roswell, 2007) and can be checked for the 8 July date and the Building 84 wording. Overlaps with the published Corso analysis, so the writer may prefer to extend that post.",
       "surprise": 3,
-      "support": 4
+      "support": 4,
+      "resolved_at": "2026-10-16T04:30:01Z",
+      "analysis": "Analyses/Corso's Fort Riley date needs the bodies out of Roswell by 5 July.md"
     },
     {
       "id": "L0017",
