@@ -9,13 +9,13 @@ videos: ["Philip J. Corso - US Army UFO Technology Research & Development", "UFO
 tags: [analysis]
 ---
 
-*Updated 16 October 2026: added the Haut affidavit, which Gerb reads later in the same video and which has bodies still in Hangar 84 on 8 July. The 5 July shipment this post leans on is contested inside Gerb's own Roswell account.*
+*Updated 16 October 2026: added Walter Haut's affidavit, which Gerb reads later in UFO Whistleblowers Vol.1. It has bodies still in Hangar 84 on 8 July, so Gerb's own Roswell account contests the 5 July shipment this post relies on.*
 
 [[Philip J. Corso]] swore he saw a body in a crate at [[Fort Riley, Kansas]] around 6 July 1947, trucked from New Mexico. Gerb gives Roswell dates in four other videos but never sets them beside Corso's, and they don't all leave room for him.
 
 ## The finding
 
-For Corso's crate to be in Kansas around 6 July, the bodies had to leave the [[Roswell Crash]] area by road about a day earlier. That matches the chronology Gerb gives in UFO Whistleblowers Vol.1 (crash likely 4 July, bodies out of [[Hangar 84]] on 5 July). It doesn't fit the 7 July date Gerb ties to the crash in the Majestic-12 and Kecksburg videos. And the 5 July shipment isn't the only word on the bodies even in that one video: a few minutes later Gerb reads [[Walter Haut]]'s 2002 affidavit, in which Haut sees bodies in the same hangar on the morning of 8 July. Gerb never sets the two side by side. Whether the accounts really contradict each other is still an open question.
+For Corso's crate to be in Kansas around 6 July, the bodies had to leave the [[Roswell Crash]] area by road about a day earlier. That matches the chronology Gerb gives in UFO Whistleblowers Vol.1 (crash likely 4 July, bodies out of [[Hangar 84]] on 5 July). It doesn't fit the 7 July date Gerb ties to the crash in the Majestic-12 and Kecksburg videos. That video also has bodies in the hangar later. A few minutes after the 5 July shipment, Gerb reads [[Walter Haut]]'s 2002 affidavit, in which Haut sees bodies in the same hangar on the morning of 8 July, and he doesn't compare the two dates. Whether the accounts really contradict each other is still an open question.
 
 ## What cuts against it
 
@@ -23,8 +23,8 @@ For Corso's crate to be in Kansas around 6 July, the bodies had to leave the [[R
 - The 7 July date is borrowed: the [[Eisenhower Briefing Document]]'s start of recovery in one video, an aside about [[James E. Webb]]'s phone calls in the other.
 - Roswell's dates are disputed, and Gerb separates the debris field from the bodies site. The two dates may describe different sites.
 - The Hangar 84 account doesn't say the bodies went by road.
-- Gerb's own strongest Roswell witness puts bodies at the base three days after the 5 July shipment. Haut says Colonel [[William Blanchard]] took him into Building 84 on 8 July, where he saw "a couple bodies under a canvas tarp" and a temporary morgue. Both accounts can hold only if the 5 July shipment was partial and some bodies stayed behind. Gerb says "debris and bodies were shipped", not all of them, and Corso describes a single creature, so a partial shipment is possible. But it is an extra assumption, and the 5 July date can't carry this post on its own.
-- Gerb doesn't say where the 5 July chronology comes from, and the web check couldn't trace it to a named researcher. Haut's account is at least a signed document. It is also contested: Wikipedia notes criticism that it conflicts with what Haut said earlier, including a 1989 interview in which he said he knew "nothing" about what was recovered.
+- Gerb's own strongest Roswell witness puts bodies at the base three days after the 5 July shipment. Haut says Colonel [[William Blanchard]] took him into Building 84 on 8 July, where he saw "a couple bodies under a canvas tarp" and a temporary morgue. Both accounts can hold only if the 5 July shipment was partial and some bodies stayed behind. Gerb says "debris and bodies were shipped", not all of them, and Corso describes a single creature, so a partial shipment is possible. It is still an extra assumption, and the 5 July date can't support this post on its own.
+- Gerb doesn't say where the 5 July chronology comes from, and the web check couldn't trace it to a named researcher. Haut's account is at least a signed document, though it is contested too: Wikipedia notes criticism that it conflicts with what Haut said earlier, including a 1989 interview in which he said he knew "nothing" about what was recovered.
 
 ## The evidence
 
@@ -37,7 +37,7 @@ For Corso's crate to be in Kansas around 6 July, the bodies had to leave the [[R
 
 ## How it fits together
 
-Roswell is about 580 miles from Fort Riley in a straight line, so a convoy leaving on 5 July could plausibly reach Kansas by the 6th. If the recovery began on 7 July, the crate would have been at Fort Riley before the bodies were picked up. Haut's affidavit sides with the later dates: on the record Gerb reads, there were still bodies in the hangar on the 8th. For Corso's date to stand, a first shipment had to leave on 5 July with at least one body while others stayed at Roswell. No video says that happened.
+Roswell is about 580 miles from Fort Riley in a straight line, so a convoy leaving on 5 July could plausibly reach Kansas by the 6th. If the recovery began on 7 July, the crate would have been at Fort Riley before the bodies were picked up. Haut's affidavit fits the later dates: in the version Gerb reads, bodies were still in the hangar on the 8th. For Corso's date to stand, a first shipment had to leave on 5 July with at least one body while others stayed at Roswell. No video says that happened.
 
 ## Already known?
 
