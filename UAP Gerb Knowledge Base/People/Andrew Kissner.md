@@ -7,6 +7,9 @@ tags:
 
 J. Andrew Kissner is described in Gerb's videos as a former New Mexico state legislator. (The captions of Gerb's videos spell his name in many ways, among them "Kner", "Kisner", "Kistner", "Kitchener" and "Knisser".) In the early 1990s he spent years privately interviewing people in the US armed forces, the intelligence community, the Department of Energy and private industry about alleged UFO crash-retrieval and reverse-engineering programs. Gerb calls him "a mini David Grusch prototype". His findings led New Mexico congressman [[Steven Schiff]] to open a General Accounting Office inquiry into the Roswell incident. Its report of 28 July 1995 found that Roswell Army Airfield's outgoing messages for July 1947 had been destroyed without proper authorization. Kissner's 1994 statement is the "estimate of the situation" Gerb uses to close his Cold War era of the legacy programs, and he returns to it in at least eight videos.
 
+> [!edit] Attribution clarified 16 October 2026
+> Earlier versions stated as fact that Kissner was a New Mexico state representative. Legislature rosters and obituaries did not confirm it, so it is now attributed to Gerb's videos.
+
 ## The 1994 Estimate of the Situation
 
 In 1994, Kissner compiled a statement summarizing his research. It drew on interviews with personnel connected to [[White Sands Missile Range|White Sands Proving Ground]], the Naval Research Laboratory and former [[Atomic Energy Commission]] laboratories, as well as former military officers and private defense contractors. The findings covered the period from the alleged 1947 Roswell and White Sands crash retrievals through 1994. Researcher [[Linda Moulton Howe]] presented Kissner's disclosures publicly at the second annual UFO Crash Retrieval Conference in 2004.

@@ -29,9 +29,15 @@ The world's most sensitive nuclear programs were concentrated in the New Mexicoâ
 
 Gerb's timeline video "80 Years of UFO Crash Retrieval and Reverse Engineering" opens with the 1933 [[1933 Magenta UFO CrashRetrieval|Magenta, Italy crash]] as a preliminary, pre-1947 entry, but argues that Roswell, not Magenta, is the true founding event and "impetus" of the entire US UFO legacy program apparatus. He gives two reasons. First, although the US likely gained indirect knowledge of anomalous recoveries earlier, through the Magenta case (back-channelled to the US via the [[Office of Strategic Services (OSS)|OSS]]) and through the [[Office of Naval Intelligence|ONI]] (the US's oldest intelligence service, founded in 1882), which he believes likely had run-ins with downed anomalous vehicles, Roswell was unprecedented because it allegedly yielded humanoid biologics and/or technology that human science could at least partly understand, which the Magenta case did not. Second, the secrecy that followed served two purposes. It avoided public panic so soon after a global war that killed over 70 million people and during an escalating US-Soviet atomic arms race, and it preserved a potential asymmetric technological or warfare advantage. Gerb argues this fits the legacy program apparatus's decades-long emphasis on asymmetric warfare advantage. Biologics and materials from the recovery were primarily taken to then-[[Wright Field]], now [[Wright-Patterson Air Force Base]], while initial press releases describing a recovered "flying disc" were quickly retracted and a press blackout was enacted.
 
+> [!edit] Corrected 16 October 2026
+> Earlier versions named the Office of Strategic Services as the US's oldest intelligence service, founded in 1882. That is the Office of Naval Intelligence; the OSS was formed in 1942. Gerb ties the OSS to the Magenta case.
+
 ## Battelle Material Analysis Connection
 
 Gerb's video on [[Battelle Memorial Institute]] argues that debris from the 1947 Roswell crash, specifically the anomalous metallic material described by [[Jesse Marcel]], was later shipped to [[Wright-Patterson Air Force Base]], which contracted Battelle in 1949 to analyze it. Battelle's restricted titanium-alloy research under contract AF 33(038)-3736 (which Gerb reads as 33-38-3736), which Gerb argues was work on [[Nitinol (Nickel-Titanium Alloy)]] performed years before nitinol's official public discovery in 1961, is cited as the main documentary evidence for this chain of events. Battelle senior engineer [[EJ Center]] privately disclosed in the late 1950s that he had studied "parts retrieved from a flying saucer" during his Battelle tenure.
+
+> [!edit] Attribution clarified 16 October 2026
+> Earlier versions called this classified nitinol research under contract 33-38-3736. The contract, AF 33(038)-3736, was for titanium-alloy research marked "restricted"; the nitinol link is Gerb's argument.
 
 ## Sources
 

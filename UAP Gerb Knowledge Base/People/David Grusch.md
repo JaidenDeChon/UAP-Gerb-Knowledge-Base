@@ -292,6 +292,9 @@ It was the first time a credentialed U.S. intelligence whistleblower had publicl
 
 On the Judicial Watch podcast, Grusch said that people in the program expected Clinton to disclose in the '90s, and that he was aware of "a burn bag and shred party um at a particular agency in the mid '90s". In his 80-year timeline Gerb describes this as the CIA and other agencies destroying as many physical records as possible in 1994; the clip he plays names neither the agency nor the year.[^gerb-shred-party] Gerb's broader legacy-program timeline places this alongside an alleged 1994 move of program control entirely out of National Security Council oversight and into an informal 27-person quasi-industry-and-government control group. That move coincided with Secretary of Defense [[Bill Perry]]'s tightening of Special Access Program controls, and the video attributes the shift to concern over President Clinton's disclosure instincts. Gerb presents the destruction as a direct parallel to the Air Force's earlier, similarly unauthorized destruction of Roswell Army Airfield's outgoing message traffic from July 1947, which the 1995 [[Steven Schiff]] GAO probe later brought to light.
 
+> [!edit] Attribution clarified 16 October 2026
+> Earlier versions said, as Grusch's claim, that the CIA and other agencies held a records "shred party" in 1994. In the Judicial Watch clip Gerb plays, Grusch names only "a particular agency in the mid '90s"; the CIA and the 1994 date are Gerb's reading.
+
 ## 2023 Congressional Testimony: Recovered Craft and Vehicle Morphologies
 
 In his July 2023 congressional testimony and later interviews (including a Dr. Phil appearance), Grusch stated that the crash retrieval program has likely collected between 25 and 100 recovered UFOs. He said the recovered vehicles come in several distinct morphologies, or shapes: saucers, a "sunfish" or boot-heel-shaped craft, boomerangs, crescent-moon-shaped craft, tic tacs and eggs. Some show more advanced technology than others, and in Grusch's own words there are "similarities in operation and technology" across the set. He has tied this inventory to a decades-long "subrosa cold war" with peer adversaries, waged for an advantage in asymmetric warfare.
@@ -303,6 +306,9 @@ Grusch has been in contact with other UAP whistleblowers, including [[Michael He
 ## Attempts to Contact AARO
 
 According to Gerb, Grusch has said he tried to approach [[AARO]] and its director [[Sean Kirkpatrick]] but received no response. After Kirkpatrick said at an October 2023 press roundtable that AARO had invited Grusch at least four or five times, Grusch told NewsNation he had "zero emails or calls from them". AARO records released to The Black Vault through FOIA in April 2024 say Kirkpatrick arranged an interview that Grusch did not attend and that a renewed invitation was declined. Gerb sets Grusch's account against [[Sean Kirkpatrick]]'s claim, in his *Scientific American* op-ed, that no whistleblowers chose to contact AARO. Unlike Kirkpatrick, Grusch has testified before Congress under oath.
+
+> [!edit] Attribution clarified 16 October 2026
+> Earlier versions stated as fact that Grusch got no reply from AARO, sourced only to Gerb's 2024 video. The claim is now attributed, with Grusch's "zero emails or calls" statement and the AARO records, released through FOIA, that say he missed a scheduled interview and declined a renewed invitation.
 
 ::wiki-claim{video="hK24ZdkvwN4" video-title="The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies"}
 ---

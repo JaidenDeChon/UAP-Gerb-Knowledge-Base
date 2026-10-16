@@ -245,6 +245,9 @@ Kirkpatrick wrote an op-ed in *Scientific American*, "Here's What I Learned as t
 
 In the same op-ed, Kirkpatrick wrote that none of the whistleblowers in the public eye had come to AARO. Mellon and Elizondo both publicly rebutted this. Mellon stated he personally introduced Kirkpatrick to Elizondo, Davis, and Puthoff, each of whom spent hours briefing Kirkpatrick in a classified setting with zero follow-up. According to Gerb, [[David Grusch]] has said he tried to approach AARO but received no response. After Kirkpatrick said at an October 2023 press roundtable that AARO had invited Grusch at least four or five times, Grusch told NewsNation he had "zero emails or calls from them". AARO records released to The Black Vault through FOIA in April 2024 say Kirkpatrick arranged an interview that Grusch did not attend and that a renewed invitation was declined. Gerb also sets the op-ed's description of AARO as "unwaveringly committed to harnessing science and technology" to resolve the issue against a finding of the DoD Office of the Inspector General. In the unclassified summary of its UAP evaluation, released on 25 January 2024, the Inspector General found that the DoD "has no overarching UAP policy".
 
+> [!edit] Attribution clarified 16 October 2026
+> Earlier versions stated as fact that Grusch got no reply from AARO, sourced only to Gerb's 2024 video. The claim is now attributed, with Grusch's "zero emails or calls" statement and the AARO records, released through FOIA, that say he missed a scheduled interview and declined a renewed invitation.
+
 ::wiki-claim{video="hK24ZdkvwN4" video-title="The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies"}
 ---
 caption: "Kirkpatrick's claim about whistleblowers, and the answers Gerb sets against it. The claim is quoted as Chris Mellon quotes it."
