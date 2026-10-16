@@ -519,7 +519,7 @@
         "Bernard Haisch|Northrop Grumman"
       ],
       "handed_out": "2026-10-16T20:02:06Z",
-      "ingested": null,
+      "ingested": "2026-10-16T20:08:06Z",
       "leads": 0
     },
     "S035-focus": {
@@ -528,8 +528,8 @@
         "Alien Reproduction Vehicle (ARV)"
       ],
       "handed_out": "2026-10-16T20:02:06Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-16T20:08:07Z",
+      "leads": 1
     },
     "S036-accounts": {
       "lens": "accounts",
@@ -538,8 +538,8 @@
         "Jonathan Weygandt"
       ],
       "handed_out": "2026-10-16T20:02:06Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-16T20:08:07Z",
+      "leads": 2
     }
   },
   "leads": [
@@ -4450,6 +4450,182 @@
       "slip": false,
       "resolved_at": "2026-10-16T19:53:48Z",
       "reason": "Impact 3 after narrowing: Gerb already names Kirkpatrick's 2005-2007 CIA DS&T posting as his possible point of exposure (NRO video), already calls the DS&T head a significant legacy-program figure and lists O'Sullivan among them (Northrop Vol.2, 80 Years), and already ties O'Sullivan to Kirkpatrick via Oak Ridge; the only new piece is that her 2005-2009 tenure covers his posting, a shared chain of command in a large directorate with no evidence of contact. Grusch's own words put O'Sullivan 'in rooms discussing this issue'; 'supported greatly' and managing it are Gerb's paraphrase."
+    },
+    {
+      "id": "L0064",
+      "slice": "S035-focus",
+      "found_at": "2026-10-16T20:08:07Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "timeline",
+      "headline": "Sorenson's Plant 42 exhibit came ten days before the B-2's invitation-only rollout at the same plant",
+      "claim": "Gerb dates Brad Sorenson's visit to the classified exhibit to the 12 November 1988 Norton air show, and says Sorenson was flown from Norton to Air Force Plant 42 in Palmdale. In the 1990 Aviation Week interview Gerb reads out, Sorenson says the exhibit included the losing B-2 competitor prototypes, that Senator Alan Cranston was among about 30 senior people, and that the purpose of the meeting was 'appropriations of billions of dollars to develop new Craft'. Ten days later, on 22 November 1988, the Air Force and Northrop rolled out the B-2 in public for the first time at the same Plant 42. That was an invitation-only ceremony for about 500 guests, including thirteen members of Congress, and it was widely described as a way of showing Congress what it was paying for. No video puts the two events together. Gerb notes that Plant 42 built the B-2 but never mentions its rollout, and the McCandlish clip he plays places the B-2's 'first unveiling publicly' at a 1992 Edwards air show. The narrow, unsaid point is that the ARV exhibit, as Sorenson describes it, happened at the plant and in the fortnight when the Air Force was hosting congressional and VIP visitors for its biggest black-program unveiling of the decade. That gives the central ARV event a documented setting and a way to check it, through Cranston's and Brown's travel that month, Plant 42 visitor records, and press coverage of the pre-rollout visits. It does not show that the exhibit was part of the B-2 events, or that the ARVs existed.",
+      "entities": [
+        "Alien Reproduction Vehicle (ARV)",
+        "Brad Sorenson",
+        "Air Force Plant 42",
+        "Norton Air Force Base Air Show",
+        "Alan Cranston",
+        "George E. Brown Jr.",
+        "Mark McCandlish"
+      ],
+      "videos": [
+        "Alien Reproduction Vehicle - the Testimony of Mark McCandlish",
+        "80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline",
+        "1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/transcript.md",
+          "quote": "On 12th November 1988, inventor, industrial designer, and prototype designer Brad Sorenson attended the Norton Air Force Base air show",
+          "note": "Gerb's date for the exhibit.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Alien Reproduction Vehicle - the Testimony of Mark McCandlish/transcript.md",
+          "quote": "they flew from nor Air Force Base up to Air Force plant 42",
+          "note": "McCandlish (clip) puts the exhibit at Plant 42 in Palmdale.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Alien Reproduction Vehicle - the Testimony of Mark McCandlish/transcript.md",
+          "quote": "that's what the whole meeting was for appropriations of billions of dollars to develop new Craft",
+          "note": "Sorenson's 1990 interview as Gerb reads it: the exhibit was a funding pitch.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Alien Reproduction Vehicle - the Testimony of Mark McCandlish/transcript.md",
+          "quote": "the witness also confirmed the presence of California state Senator Alan Cranston the rest of the crowd all appeared to be senior individuals 40 5 to 60 years old",
+          "note": "A member of Congress in a small, senior audience.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Alien Reproduction Vehicle - the Testimony of Mark McCandlish/transcript.md",
+          "quote": "one of the enclosures featured the losing B2 bomber prototypes",
+          "note": "The exhibit itself was tied to the B-2 program.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Alien Reproduction Vehicle - the Testimony of Mark McCandlish/transcript.md",
+          "quote": "Kent sellin that I met at an air show at Edwards Air Force Base in 1992 the first unveiling publicly of the B2 bom B",
+          "note": "McCandlish dates the B-2's public unveiling to 1992 at Edwards. Gerb lets it pass, so the 22 November 1988 Plant 42 rollout never enters the story.",
+          "verified": true
+        },
+        {
+          "source": "Videos/1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE/transcript.md",
+          "quote": "Air Force Plant 42 alone producing many of the United States most famous advanced aerospace platforms such as the RQ4 Global Hawk, the B2 Spirit Bomber",
+          "note": "Gerb knows Plant 42 built the B-2, but never mentions its rollout date.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for 'November 22', '22nd November', '22 November', 'rollout', 'rolled out', 'unveil' and 'B2'/'B-2' near 1988. No transcript gives the B-2 rollout date or puts it next to the Norton/Plant 42 exhibit. The only 'unveiling' of the B-2 mentioned is McCandlish's '1992 Edwards' line. The B-2 comes up in the ARV videos only as the losing competitor at the exhibit, as Plant 42's product list, as the Belgian-wave denial, and in the electrogravitics speculation. Gerb also reconciles Sorenson's 'no stars' remark with the three-star briefer, and McCandlish's Norton hangar with the Plant 42 flight, so those were dropped as already said. Web: the B-2 rollout at Plant 42 on 22 November 1988, with 500 invited guests including 13 members of Congress, is confirmed (Air & Space Forces 'On Stealthy Wings', Feb 1989; History.com). No source found that names Cranston at the rollout.",
+      "weakest_link": "The 12 November 1988 date rests on McCandlish's retelling. I could not confirm a Norton air show on that date, and if the exhibit was on another date the ten-day gap goes. Plant 42 is a big complex: the B-2 was rolled out from Northrop's Site 4, while McCandlish puts the exhibit in the old L-1011 (Lockheed, later Skunk Works) hangar, so 'same plant' does not mean the same hangar. The overlap may be pure coincidence, since VIP black-program briefings at Palmdale were not rare in 1988. Checkable through the Norton AFB open-house date (San Bernardino Sun archive), Cranston's and Brown's schedules for 12 November 1988, and 1988 press coverage of the pre-rollout congressional visits. This is not a Gerb slip. As a timeline finding it is moderate on the facts and speculative on what it means.",
+      "impact": 4,
+      "support": 3,
+      "slip": false
+    },
+    {
+      "id": "L0065",
+      "slice": "S036-accounts",
+      "found_at": "2026-10-16T20:08:07Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "Stringfield's 1978 Mexico warning may have been about Willingham's crash, not Coyame",
+      "claim": "In the Coyame video Gerb counts two things from Leonard Stringfield as early, independent knowledge of the 1974 Chihuahua crash: Stringfield's 1994 memory of hearing 'in the late 1970s or early 1980s' that a US military team covertly crossed into Mexico to retrieve an object, and the CIA's 'circuitous' warning before his 1978 MUFON paper not to discuss crash information from Mexico. Gerb's own Del Rio video shows that another Mexican crash fitting that vague memory was already in circulation. Robert Willingham's story of a crash south of the border, guarded by Mexican troops for 'the American Air Force' to 'clean this all up', was in a 1960s newspaper clipping held in NICAP's files, where Stringfield was public relations adviser from 1957 to 1970, and in an affidavit Todd Zechel obtained in 1977, a year before the warning. Stringfield later carried the case himself, as the Del Rio, Texas 1950 entry. So neither the 1978 warning nor the vague 'US team crossed into Mexico' memory points uniquely to Coyame, and Gerb never puts the two videos side by side. The narrow claim is that this corroboration for Coyame is weaker than the Coyame video presents it. It does not show that Coyame is false.",
+      "entities": [
+        "Leonard Stringfield",
+        "1974 Coyame, Mexico UFO Crash Retrieval",
+        "Denb Report"
+      ],
+      "videos": [
+        "The 1974 Coyame, Mexico UFO Crash",
+        "The 1950s Del Rio, Texas UFO Crashes"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The 1974 Coyame, Mexico UFO Crash/transcript.md",
+          "quote": "I heard of the Chihuahua case before either in the late 1970s or early 1980s the only detail I vaguely recall is that the US military team had covertly crossed into Mexico to retrieve the object end quote",
+          "note": "Stringfield's 1994 memory, as Gerb reads it: the date is vague, he names no place or year for the crash, and he recalls only a US team crossing into Mexico.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1974 Coyame, Mexico UFO Crash/transcript.md",
+          "quote": "what is crucial to remember here is Stringfield had heard rumors of this case around a decade prior and let's note in stringfield's own words when presenting his initial retrievals of the Third Kind at muon in 1978 he was quote unquote informed circuitously by the CIA several days in advance it would be inadvisable for him to discuss crash information in Mexico or West Germany",
+          "note": "Gerb presents the 1978 warning as support for Stringfield's earlier knowledge of Coyame specifically.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1950s Del Rio, Texas UFO Crashes/transcript.md",
+          "quote": "Martinez told Robert quote we can't let anyone close to it the American Air Force will be here very soon to clean this all up",
+          "note": "Willingham's Mexican crash also has a US team coming across the border to retrieve the object, the one detail Stringfield recalled.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1950s Del Rio, Texas UFO Crashes/transcript.md",
+          "quote": "researchers found clippings of this article in the NCAP the national investig ation committee on aerial phenomenon lost in the annals of Nik Cap's files researcher Todd zetel Tracked Down Willingham and made him signed an affidavit",
+          "note": "Willingham's story was in NICAP's files, and Gerb dates the affidavit to 1977 in the same passage ('affidavit from 77'), a year before the 1978 warning.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1950s Del Rio, Texas UFO Crashes/transcript.md",
+          "quote": "Drager first appears in Leonard stringfield's UFO crash retrievals reports in an entry titled Del Rio Texas 1950",
+          "note": "Stringfield himself later reported the Mexican border crash, so it was a case in his field of view.",
+          "verified": true
+        },
+        {
+          "source": "People/Leonard Stringfield.md",
+          "quote": "from 1957 he advised the National Investigations Committee on Aerial Phenomena (NICAP) on public relations",
+          "note": "Ties Stringfield to the organization whose files held the Willingham clipping.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched every transcript for 'circuitous', 'West Germany', 'Willingham', 'Zechel/zetel', 'Del Rio', 'El Indio' and 'Coyame/Chihuahua'. The CIA warning appears only in the Coyame video. Willingham appears only in the Del Rio, Sandia and Kecksburg videos. The Coyame video mentions El Indio and Del Rio once, about Sandia in MJ-12 documents, never about Stringfield's warning. No video connects the 1978 warning, or Stringfield's memory of a US team crossing into Mexico, to Willingham.",
+      "weakest_link": "The deciding premise is what Stringfield himself wrote in Status Report VII. If he explicitly tied the 1978 CIA warning to Chihuahua, or gave detail that only fits Coyame (a 1974 date, a collision with a plane, dead Mexican soldiers), the alternative collapses. Gerb quotes only fragments, and the vault does not have the text. Also unchecked: whether the 1978 MUFON paper ('Retrievals of the Third Kind') already carried a Mexico case such as Willingham's or the 1948 Laredo story. A quick web search could not confirm this. Both can be checked against copies of Status Reports I and VII. Against the lead: the Denb Report says its facts were gathered in 1978, the same year as the warning, which could equally fit Coyame. This is not a slip.",
+      "impact": 4,
+      "support": 2,
+      "slip": false
+    },
+    {
+      "id": "L0066",
+      "slice": "S036-accounts",
+      "found_at": "2026-10-16T20:08:07Z",
+      "status": "footnote-candidate",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "NEST's Mars 96 alert came before Weygandt's crash, not after it",
+      "claim": "To tie the Department of Energy's Nuclear Emergency Support Team to South America in Weygandt's year, Gerb cites Richelson's account of NEST weighing a deployment to Bolivia or Colombia for the falling Mars 96 probe. The Weygandt video dates the episode 'Around 1997', and the Sandia video dates it 'Around November 1997, just months after' Weygandt's encounter. Mars 96 was launched and re-entered on 16 to 17 November 1996, about four months before the March or April 1997 crash. This is a probable misremembered year, so it belongs in a footnote. The Sandia summary already notes the 1996 date, but the Weygandt summary does not.",
+      "entities": [
+        "Jonathan Weygandt",
+        "NEST (Nuclear Emergency Support Team)",
+        "Jeffrey T. Richelson"
+      ],
+      "videos": [
+        "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt",
+        "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "Around November 1997, just months after Waken ants encounter, Russia blasted a probe from the Baikonur Cosmodrome in Kazakhstan carrying the Mars 96 probe.",
+          "note": "Gerb puts the episode after Weygandt's encounter.",
+          "verified": true
+        },
+        {
+          "source": "Videos/1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt/transcript.md",
+          "quote": "Around 1997, Russia blasted a probe from the Biconor Cosmo drone in Kazakhstan carrying the Mars 96 probe.",
+          "note": "The earlier video's date, which the Weygandt summary repeats without correction.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for 'Mars 96'. It appears only in the Weygandt and Sandia videos, and both give 1997.",
+      "weakest_link": "A single misremembered year explains it completely, so this is a slip. The launch date of 16 November 1996 is public record (NASA NSSDCA). The order of events matters only slightly to Gerb's argument.",
+      "impact": 2,
+      "support": 5,
+      "slip": true
     }
   ]
 }
