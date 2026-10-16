@@ -648,7 +648,7 @@
       "id": "L0010",
       "slice": "S003-timeline",
       "found_at": "2026-10-16T03:34:34Z",
-      "status": "open",
+      "status": "written",
       "duplicate_of": null,
       "problems": [],
       "kind": "timeline",
@@ -717,7 +717,9 @@
       "not_said_check": "Searched all transcripts for Fort Riley/Riley (Corso and Kecksburg only; Kecksburg's mention is Stringfield's separate Fort Riley crash case), Hangar 84 (Whistleblowers Vol.1 and Iceberg L2 only, neither mentions Corso), Corso/Corsa (14 videos, none with the July 5 shipment), and July 4/5/6/9 date phrasings. Gerb never compares Corso's 6 July date with any Roswell crash or shipment date.",
       "weakest_link": "Corso says 'on or about' and Gerb's '2 days after' in the Kecksburg video may just reflect the publicly reported date (Brazel's report and the 8 July release) rather than a considered crash date. The finding is then a timing fit for Corso plus a loose phrase, not a hard contradiction. The truck transit time (Roswell to Fort Riley in about 36 hours) needs checking.",
       "surprise": 3,
-      "support": 4
+      "support": 4,
+      "resolved_at": "2026-10-16T03:55:33Z",
+      "analysis": "Analyses/Corso's Fort Riley date needs the bodies out of Roswell by 5 July.md"
     },
     {
       "id": "L0011",
