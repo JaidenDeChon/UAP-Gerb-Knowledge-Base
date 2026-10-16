@@ -99,7 +99,7 @@ All three confidence labels are published. A speculative analysis is worth a pos
 **Downgrade before you discard.** When a lead's facts check out but the inference is weaker than the scout claimed (the timing fits more than one explanation, the match isn't unique, the premise rests on a source that can't be checked from here), don't discard it. Narrow the claim to what the evidence does support and publish it as a `speculative` *open question*:
 
 - The headline asks or states the narrower point, never the scout's stronger one.
-- It's short, 250 to 500 words, and uses the usual sections. `## What cuts against it` comes straight after `## The finding`, ahead of the evidence, so the reader meets the weaknesses first.
+- It's short, about 300 to 600 words including quotes, and uses the usual sections. `## What cuts against it` comes straight after `## The finding`, ahead of the evidence, so the reader meets the weaknesses first.
 - `## What would settle it` names the specific document, passage or record that would confirm or kill it.
 
 "Publishing fewer, sounder analyses" still holds for anything labelled `strong` or `moderate`.

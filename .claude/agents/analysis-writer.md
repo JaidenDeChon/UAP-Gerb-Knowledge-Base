@@ -88,7 +88,7 @@ Work from `app/`. Install dependencies once if needed with `bun install --frozen
 1. `npx vitest run` passes.
 2. Start `bun run dev`. Open `localhost:3000/analyses` and the post at `localhost:3000/wiki/analyses/<slug>` in a browser (Playwright with the pre-installed Chromium is fine). Confirm that the post appears in the index with its labels, every wikilink resolves (no broken-link styling), any component renders (a YAML mistake renders nothing, silently), and there are no console errors.
 3. Resolve every entity name used in component YAML with `/api/resolve?name=...`. A `null` is a typo or a missing page.
-4. Stop the dev server.
+4. Stop the dev server by its PID (start it in the background and note `$!`). Never use a broad `pkill`, which can kill your own shell.
 5. `python3 scripts/analyses.py resolve <id> written "Analyses/<Headline>.md"`.
 6. Commit the post and the ledger on the current branch with a message like `Add analysis: "<Headline>"`. **Never push.**
 
