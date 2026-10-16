@@ -215,6 +215,50 @@
       "handed_out": "2026-10-16T05:40:22Z",
       "ingested": "2026-10-16T05:48:03Z",
       "leads": 1
+    },
+    "S013-focus": {
+      "lens": "focus",
+      "items": [
+        "David Grusch"
+      ],
+      "handed_out": "2026-10-16T05:53:08Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S014-patterns": {
+      "lens": "patterns",
+      "items": [
+        "Roswell Crash",
+        "2004 Nimitz UAP Encounter (Tic Tac)",
+        "Norton Air Force Base Air Show",
+        "Peru UFO Crash Incident",
+        "Schumer Amendment (NDAA)",
+        "1976 Tehran UFO Incident",
+        "2009 Indonesia UFO Encounter (Herrera)",
+        "Aztec UFO Crash and Recovery",
+        "1974 Coyame, Mexico UFO Crash Retrieval",
+        "Belgian UFO Wave",
+        "Hunter Warrior Advanced Warfighting Experiment",
+        "2009 Sumatra Earthquake",
+        "McMinnville UFO Photographs",
+        "1978 Bolivia UFO Crash",
+        "1986 Japan Airlines UFO Incident",
+        "1997 Meeting (Wilson, Miller, Mitchell, Greer, Hughes)",
+        "Aguadilla Puerto Rico Trans-Medium UAP Incident",
+        "Battle of Los Angeles"
+      ],
+      "handed_out": "2026-10-16T05:53:08Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S015-focus": {
+      "lens": "focus",
+      "items": [
+        "Roswell Crash"
+      ],
+      "handed_out": "2026-10-16T05:53:08Z",
+      "ingested": null,
+      "leads": 0
     }
   },
   "leads": [
@@ -1700,7 +1744,7 @@
       "id": "L0024",
       "slice": "S010-accounts",
       "found_at": "2026-10-16T05:48:03Z",
-      "status": "open",
+      "status": "footnoted",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -1757,7 +1801,9 @@
       "not_said_check": "Grepped all transcripts for 'surrendered', 'IPU', 'interplanetary phenomenon' and 'AFOSI'. Only Aztec, Majestic-12 and Manhattan 2.0 discuss where the records went. None of them says the Blue Book question is answered by the letter naming AFOSI.",
       "weakest_link": "A single paraphrase drift by Gerb fully explains it: he quotes the letter correctly and mentions AFOSI's reply a sentence later. So this is a footnote, and surprise is scored for the small residue: the question he raises is answered by his own quote. The letter text (Hall 1980, Steinman 1984, Good 1987 replies) is checkable in published FOIA reproductions.",
       "surprise": 2,
-      "support": 5
+      "support": 5,
+      "resolved_at": "2026-10-16T07:22:23Z",
+      "footnote": "gerb-ipu-records"
     },
     {
       "id": "L0025",

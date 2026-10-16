@@ -5,11 +5,14 @@ tags:
   - organization
 ---
 
-The **Interplanetary Phenomenon Unit** (IPU) was reportedly a U.S. Army intelligence unit tasked with UFO crash retrieval and analysis operations in the late 1940s and 1950s. Army FOIA responses confirm that the unit existed, stating it was "disestablished in the late 1950s," though all of its records were allegedly transferred to the U.S. Air Force in conjunction with Project Blue Book.
+The **Interplanetary Phenomenon Unit** (IPU) was reportedly a U.S. Army intelligence unit tasked with UFO crash retrieval and analysis operations in the late 1940s and 1950s. Army FOIA responses confirm that the unit existed, stating it was "disestablished in the late 1950s," and that all of its records were surrendered to the U.S. Air Force Office of Special Investigations (AFOSI) "with Operation Blue Book".
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said the records were "allegedly" transferred to the U.S. Air Force in conjunction with Project Blue Book. The transfer is the Army's own statement, and its 1980 reply, quoted below, names AFOSI as the recipient.
 
 ## Official Acknowledgment
 
-In 1980, researcher Richard Hall filed a FOIA request with the U.S. Army regarding UFO intelligence records. Colonel William Guild, director of Army Counter Intelligence, responded that the IPU "was disestablished in the late 1950s and never reactivated," and that all records were "surrendered to the US Air Force Office of Special Investigations with Operation Blue Book."
+In 1980, researcher Richard Hall filed a FOIA request with the U.S. Army regarding UFO intelligence records. Colonel William Guild, director of Army Counter Intelligence, responded that the IPU "was disestablished in the late 1950s and never reactivated," and that all records were "surrendered to the US Air Force Office of Special Investigations with Operation Blue Book."[^gerb-ipu-records]
 
 Later FOIA requests by [[William Steinman]] (1984) and Timothy Good (1987) received the same response. The Army remembered the unit but said that no records remained. According to Lieutenant Colonel Lance Cornine, the IPU was formed as an "in-house project as an interest item for an assistant chief of staff for intelligence" and "never [had] a unit or formally recognized mission or authority."
 
@@ -63,3 +66,4 @@ Drawing on research by Ryan S. Wood and the late Robert Wood, UAP Gerb's investi
 - [Abandoned & Little-Known Airfields: New Mexico, Alamogordo area](https://airfields-freeman.com/NM/Airfields_NM_Alamagordo.htm)
 
 [^gerb-condron-field]: Gerb says the field order has the team "report to the G2 at Condrinfield, New Mexico, which is of course Roswell", probably a slip in the gloss: Condron Field was the White Sands range airfield, about 130 miles from Roswell ([WSMR Museum](https://wsmrmuseum.com/2020/09/21/a-brief-history-of-white-sands-proving-ground-1941-1965/5/); [GlobalSecurity](https://www.globalsecurity.org/military/facility/condron.htm)), and one airfield history doesn't find it on charts before 1948 ([Paul Freeman](https://www.airfields-freeman.com/NM/Airfields_NM_Alamagordo.htm)).
+[^gerb-ipu-records]: Gerb's shorthand puts the IPU records with Blue Book ("surrendered to the Air Force in conjunction with Project Blue Book" in the Aztec video, "surrendered to Blue Book" in the Majestic-12 video), but the Army's 1980 reply he reads in the Aztec video names the recipient: "All records pertaining to this unit were surrendered to the US Air Force Office of Special Investigations with Operation Blue Book." He restores AFOSI in the Manhattan Project 2.0 video, and [UFO Explorations](https://www.ufoexplorations.com/us-army-secret-ufo-study) gives the letter the same wording.
