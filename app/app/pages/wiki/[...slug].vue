@@ -243,6 +243,8 @@ const articleClass = computed(() => hasRail.value
 
           <WikiFactTable :page="page" />
 
+          <WikiTranscriptionLink v-if="noteDocument" :document="noteDocument" />
+
           <WikiDocumentViewer v-if="noteDocument" :document="noteDocument" :title="page.title" />
 
           <WikiPersonGlance v-if="isPerson" :page="page" :path="route.path" />
