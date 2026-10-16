@@ -527,7 +527,7 @@
       "id": "L0007",
       "slice": "S002-accounts",
       "found_at": "2026-10-16T03:34:34Z",
-      "status": "open",
+      "status": "written",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -577,7 +577,9 @@
       "not_said_check": "Grepped all transcripts for 'shred', 'burn bag', 'burnback', 'burn back' and 'particular agency'. Only two videos mention the shred party, Timeline (CIA, 1994) and Special Access Required Vol.2 (Grusch clip: particular agency, mid '90s). The MITRE video's 'shred party' lines are about MITRE in Fairfax County. No transcript notes the gap between the two versions or asks which agency Grusch meant.",
       "weakest_link": "Grusch may name the CIA or give 1994 elsewhere in the full Judicial Watch interview, which the vault holds only as clips. If so, Gerb's paraphrase is fair and this collapses into a page-level nuance.",
       "surprise": 2,
-      "support": 4
+      "support": 4,
+      "resolved_at": "2026-10-16T04:47:46Z",
+      "analysis": "Analyses/The Grusch shred party clip Gerb plays names no agency and no year.md"
     },
     {
       "id": "L0008",
