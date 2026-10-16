@@ -493,6 +493,53 @@
       "handed_out": "2026-10-16T19:45:34Z",
       "ingested": "2026-10-16T19:52:50Z",
       "leads": 1
+    },
+    "S034-links": {
+      "lens": "links",
+      "items": [
+        "AFOIN Special Group (AFOIN-X-SG)|J. Allen Hynek",
+        "Harry Reid|Stephanie O'Sullivan",
+        "La Jolla, California|MITRE Corporation",
+        "Lawrence Livermore National Laboratory|UFO Crash Retrieval Operations (JSOC)",
+        "Arthur Stansel Jr.|EG&G",
+        "Philip J. Corso|Roscoe H. Hillenkoetter",
+        "Holloman Air Force Base|Sandia National Laboratories",
+        "Luis Elizondo|The Insider",
+        "Albert Bruce Collins|Roswell Crash",
+        "Edward Condon|Project Moon Dust",
+        "Majestic 12|McDonnell Douglas",
+        "NRO (National Reconnaissance Office)|NSC 5412 Committee",
+        "Lockheed Martin Skunk Works|The Insider",
+        "Project Palladium|Stanton Friedman",
+        "Ed (Witness 11063)|Kona Blue",
+        "Air Force Special Weapons Center (AFSWC)|Sandia National Laboratories",
+        "Hal Puthoff|SOL Foundation Symposium",
+        "Mark McCandlish|McDonnell Douglas",
+        "EG&G|Ed (Witness 11063)",
+        "Bernard Haisch|Northrop Grumman"
+      ],
+      "handed_out": "2026-10-16T20:02:06Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S035-focus": {
+      "lens": "focus",
+      "items": [
+        "Alien Reproduction Vehicle (ARV)"
+      ],
+      "handed_out": "2026-10-16T20:02:06Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S036-accounts": {
+      "lens": "accounts",
+      "items": [
+        "Leonard Stringfield",
+        "Jonathan Weygandt"
+      ],
+      "handed_out": "2026-10-16T20:02:06Z",
+      "ingested": null,
+      "leads": 0
     }
   },
   "leads": [
