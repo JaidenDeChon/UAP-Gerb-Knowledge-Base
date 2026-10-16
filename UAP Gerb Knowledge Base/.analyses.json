@@ -2893,7 +2893,7 @@
       "id": "L0042",
       "slice": "S020-accounts",
       "found_at": "2026-10-16T14:41:44Z",
-      "status": "open",
+      "status": "shelved",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -2960,7 +2960,9 @@
       "weakest_link": "'Wing Commander' may be loose shorthand in Greer's list for a command inside the wing (a squadron or group), or a typist's slip on Greer's side, in which case the finding shrinks to a sloppy label rather than an inflated credential. It is not a slip by Gerb, who quotes the entry verbatim, though his own 'former Wing Commander' gloss is one. Checkable: the 412th TW commander list on edwards.af.mil (Bunch 2006-2008, Thornton from May 2008, Dunlop 2009-2011) and Ed's own records, which Gerb says he has held but which are not public. Ed's identity is withheld, so his actual rank and billets cannot be checked from here.",
       "impact": 4,
       "support": 4,
-      "slip": false
+      "slip": false,
+      "resolved_at": "2026-10-16T14:44:19Z",
+      "reason": "Impact 2-3 after narrowing: the 'Wing Commander at Edwards' label sits in one line of Greer's witness-list entry and in Gerb's opening echo of it; it may be loose shorthand or a rank-style label (RAF Wing Commander = Lt Col, matching Module 3), and no video's argument rests on it, since Gerb's own account of Ed from his records is test director/director of operations of an EW group and lieutenant colonel. The 412th's commanders 2006-2012 (Bunch, Thornton, Dunlop from June 2010) confirm Ed did not command the wing. Not a Gerb slip: he quotes the entry verbatim and the vault already attributes the label to Greer."
     },
     {
       "id": "L0043",
