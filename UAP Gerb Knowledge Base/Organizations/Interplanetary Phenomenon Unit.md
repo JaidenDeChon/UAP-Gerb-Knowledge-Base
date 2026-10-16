@@ -33,9 +33,9 @@ This interpretation does not account for the specific wording of the Army FOIA r
 
 ## Majestic Documents Connection
 
-Two documents allegedly from the IPU appear in the Majestic Documents collection. One is an IPU Field Order dated July 4, 1947, directing a team to a UFO crash site at Roswell. The other is an IPU Report dated July 22, 1947, which details the recovery of multiple craft and names scientists including Dr. J. Robert Oppenheimer and Dr. Detlev Bronk, both of whom are also connected to the Aztec case.
+Two documents allegedly from the IPU appear in the Majestic Documents collection. One is an IPU Field Order dated July 4, 1947, directing a commanding officer to take a counterintelligence team to a UFO crash site and "report to the G2 at Condron Field, New Mexico", which Gerb glosses as "of course Roswell". Condron Field was in fact the airfield of the White Sands Proving Ground (today's [[White Sands Missile Range]]), in southern New Mexico. The other is an IPU Report dated July 22, 1947, which details the recovery of multiple craft and names scientists including Dr. J. Robert Oppenheimer and Dr. Detlev Bronk, both of whom are also connected to the Aztec case.
 
-Thomas Cantwell gave these documents to researcher Timothy Cooper between 1993-1996. They predate [[William Steinman]]'s published theories but mirror many of his conclusions.
+Thomas Cantwell gave these documents to researcher Timothy Cooper: according to Gerb, the field order arrived by UPS between 1993 and 1996, and Cantwell handed Cooper the IPU report in person in July 1995. They predate [[William Steinman]]'s published theories but mirror many of his conclusions.
 
 ## Special Engineer Detachment (SED) Personnel
 
@@ -49,3 +49,6 @@ Drawing on research by Ryan S. Wood and the late Robert Wood, UAP Gerb's investi
 
 - [[Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/summary|The 1948 Aztec, New Mexico UFO Crash Retrieval]]
 - [[Videos/The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1/summary|The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1]]
+- [[Videos/Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/summary|Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
+- [GlobalSecurity.org, "Condron Army Airfield"](https://www.globalsecurity.org/military/facility/condron.htm)
+- [Abandoned & Little-Known Airfields: New Mexico, Alamogordo area](https://airfields-freeman.com/NM/Airfields_NM_Alamagordo.htm)
