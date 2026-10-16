@@ -422,6 +422,50 @@
       "handed_out": "2026-10-16T19:06:04Z",
       "ingested": "2026-10-16T19:12:10Z",
       "leads": 4
+    },
+    "S028-accounts": {
+      "lens": "accounts",
+      "items": [
+        "Luis Elizondo"
+      ],
+      "handed_out": "2026-10-16T19:25:19Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S029-focus": {
+      "lens": "focus",
+      "items": [
+        "Wilson-Davis Memo"
+      ],
+      "handed_out": "2026-10-16T19:25:19Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S030-patterns": {
+      "lens": "patterns",
+      "items": [
+        "Betty and Barney Hill Abduction Incident",
+        "Bluegill Triple Prime UFO Recovery",
+        "Bob Fish Email to John Podesta",
+        "Boscombe Down Incident",
+        "Bruja de Monterrey",
+        "Calvine UFO Photo",
+        "Condon Report Publication",
+        "DOD IRAD Policy Reform",
+        "Dutch Steamship Valentin Hovering Object Sighting",
+        "Environmental Assessment Report on Avery Technical Center",
+        "Fort Salisbury USO Sighting",
+        "Frasier Island USO Sighting",
+        "GAO Report on Army Guard Program",
+        "Gorman Dogfight",
+        "Kamchatka Lake USO Sighting (1970)",
+        "La Joya Airbase UFO Intercept",
+        "MV Marala North Atlantic Sighting",
+        "Manises UFO Incident"
+      ],
+      "handed_out": "2026-10-16T19:25:19Z",
+      "ingested": null,
+      "leads": 0
     }
   },
   "leads": [
