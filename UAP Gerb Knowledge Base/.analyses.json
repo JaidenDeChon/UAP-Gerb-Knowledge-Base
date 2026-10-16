@@ -2240,7 +2240,7 @@
       "id": "L0032",
       "slice": "S014-patterns",
       "found_at": "2026-10-16T14:07:43Z",
-      "status": "footnote-candidate",
+      "status": "footnoted",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -2274,7 +2274,9 @@
       "weakest_link": "It could be a caption error rather than Gerb misspeaking, but either way it's a swapped name with no bearing on the story. It can be checked against the audio.",
       "surprise": 1,
       "support": 5,
-      "impact": 1
+      "impact": 1,
+      "resolved_at": "2026-10-16T14:15:37Z",
+      "footnote": "gerb-weygandt-herrera-swap"
     },
     {
       "id": "L0033",
