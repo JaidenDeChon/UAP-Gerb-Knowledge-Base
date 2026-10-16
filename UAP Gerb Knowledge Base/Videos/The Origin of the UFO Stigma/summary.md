@@ -94,6 +94,14 @@ events:
       - "Hoyt Vandenberg"
       - "Project Grudge"
     cue: 256
+  - date: "1949-08"
+    title: "Grudge report issued"
+    summary: "Grudge's report, Technical Report No. 102-AC 49/15-100 of August 1949, covers incidents 1 to 244, reported up to January 1949, and recommends that the investigation be reduced in scope. Gerb says a full 707-page report of case analysis was published in 1960 and that Grudge's records were updated until 1999."
+    category: document
+    entities:
+      - "Project Grudge Report"
+      - "Project Grudge"
+    cue: 278
   - date: "1951-08"
     title: "Lubbock Lights put down to migrating birds"
     summary: "Four engineering professors in Lubbock, Texas watch repeated flights of 20 to 30 lights in a perfect semicircle. Grudge puts the case down to migrating birds, an explanation the witnesses did not share."
@@ -153,13 +161,6 @@ events:
     entities:
       - "USAF Regulation 200-2"
     cue: 756
-  - date: "1960"
-    title: "Grudge report published"
-    summary: "Though Grudge was officially terminated in 1949, a full 707-page report of its case analysis is published in 1960, and its records are updated until 1999."
-    category: document
-    entities:
-      - "Project Grudge"
-    cue: 278
   - date: "1966-03"
     title: "Dexter, Michigan sighting called swamp gas"
     summary: "Hynek explains the Dexter, Michigan mass sighting as swamp gas, the explanation that most dissatisfied Congressman Gerald Ford."
@@ -261,7 +262,10 @@ Gerb stresses who received Sign's reports: every one had to be sent to the [[Arm
 
 ### Project Grudge
 
-[[Project Grudge]] was commissioned the same year and officially ran only through 1949, yet its records were updated until 1999 and a full 707-page report of case analysis was published in 1960. The Air Force formed it specifically to alleviate public anxiety over UFOs, and it was tasked with explaining sightings away as balloons, conventional aircraft, optical illusions, planets or mass hallucination. Gerb calls this "the first real breadcrumbs" of the government trying to shape public perception.
+[[Project Grudge]] was commissioned the same year and officially ran only through 1949. Gerb says its records were updated until 1999 and that a full 707-page report of case analysis was published in 1960. The [[Project Grudge Report|report]] itself is dated August 1949: it covers incidents 1 to 244, reported up to January 1949, and the National Archives' scan, appendices included, runs to 412 pages. Gerb says the Air Force formed Grudge specifically to alleviate public anxiety over UFOs, and that it was tasked with explaining sightings away as balloons, conventional aircraft, optical illusions, planets or mass hallucination. The report's summary quotes a similar list from the RAND Corporation, one of its consultants, which had found nothing to "seriously controvert simple rational explanations" in terms of balloons, conventional aircraft, planets, meteors, bits of paper, optical illusions, practical jokers and "psychopathological reporters". Its conclusions put the reports down to misidentified conventional objects, "a mild form of mass hysteria", hoaxes and "psychopathological persons", and it recommended that the investigation be reduced in scope. Gerb calls all this "the first real breadcrumbs" of the government trying to shape public perception.
+
+> [!edit] Corrected 16 October 2026
+> This paragraph, the timeline entry and the comparison table used to say as fact that a full 707-page Grudge report was published in 1960 and that Grudge's records were updated until 1999, and that Grudge was tasked with explaining sightings away. Those are Gerb's claims. The report (Technical Report No. 102-AC 49/15-100) is dated August 1949 and the National Archives' scan of it runs to 412 pages; no 1960 edition turned up in the search for a copy.
 
 Gerb's example is the [[Lubbock Lights]]. Four engineering professors in [[Lubbock, Texas]] watched several flights of 20 to 30 lights crossing the sky at great speed in a perfect semicircle. Grudge put the case down to a flock of migrating birds, an explanation Gerb calls unsubstantiated and one the witnesses themselves rejected. Hynek later described Grudge as "less science and more of a public relations campaign".
 
@@ -448,7 +452,7 @@ rows:
   - attribute: "How it ended"
     cells:
       - { text: "Shut by Gen. Hoyt Vandenberg for \"lack of proof\", Gerb says", mark: disputed }
-      - "Terminated 1949; report published 1960"
+      - "Terminated 1949; final report dated August 1949"
       - "Terminated December 1969"
       - "Followed by AFR 200-2"
       - "Endorsed by the National Academy of Sciences"
