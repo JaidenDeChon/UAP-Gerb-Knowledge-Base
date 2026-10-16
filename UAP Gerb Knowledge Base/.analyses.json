@@ -429,8 +429,8 @@
         "Luis Elizondo"
       ],
       "handed_out": "2026-10-16T19:25:19Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-16T19:30:20Z",
+      "leads": 1
     },
     "S029-focus": {
       "lens": "focus",
@@ -438,8 +438,8 @@
         "Wilson-Davis Memo"
       ],
       "handed_out": "2026-10-16T19:25:19Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-16T19:30:20Z",
+      "leads": 2
     },
     "S030-patterns": {
       "lens": "patterns",
@@ -464,8 +464,8 @@
         "Manises UFO Incident"
       ],
       "handed_out": "2026-10-16T19:25:19Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-16T19:30:20Z",
+      "leads": 1
     }
   },
   "leads": [
@@ -3798,6 +3798,270 @@
       "slip": true,
       "resolved_at": "2026-10-16T19:24:39Z",
       "footnote": "gerb-cooper-1980s"
+    },
+    {
+      "id": "L0055",
+      "slice": "S028-accounts",
+      "found_at": "2026-10-16T19:30:20Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "Gerb's ATIP went from an official DoD program to a fake cover in two years",
+      "claim": "Gerb's view of Luis Elizondo and of ATIP changed in stages between January 2024 and June 2026, and he never says so on air. In early 2024 he calls Elizondo the 'former ATIP director' (Wilson Davis memo, FLYBY), counts him as one of four people who confirmed the Wilson-Davis memo, and rebuts Sean Kirkpatrick's charge that the reverse-engineering story is a '2008 conspiracy perpetuated by atip under a small group of individuals' partly by stating that ATIP 'is also a former official UFO investigation program contracted by the dod'. In August 2024 he still treats the two programs as one ('the creation of ASAP atip in 2007'). By June 2025 (SAIC) he holds that 'ATIP was likely a white world cover for more classified programs under OAP', placing ATIP beneath AAWSAP. In September 2025 (Lockheed) he first says he does not trust Elizondo, citing his CIFA contracting role and his changing story. After The Age of Disclosure (November 2025) he calls ATIP 'the fake ATIP cover program' (Hidden Wing, Northrop Vol.2), says it 'wasn't a real program' (NRO), and in Special Access Required Vol.2 (June 2026) says 'ATIP is not OAP', that it was an unfunded informal working group run out of the National Security Council, and that Elizondo 'dug himself into more hot waters by saying that ATIP was a subsap to OAP', which is close to the under-OAP view Gerb himself held a year earlier. He also ends up grouping AARO and Elizondo's ATIP as 'two elements of the legacy program Onion systems to offer disinformation', the same small ATIP circle (Elizondo, Mellon, Puthoff) whose role in a narrative he had called 'blatantly false' when Kirkpatrick alleged it. The post should present this as a change of view driven by new information (the CIFA material, The Age of Disclosure's org chart, Elizondo's sub-SAP remark at the Corbell show), not a gotcha, following the Grusch-and-AARO model.",
+      "entities": [
+        "Luis Elizondo",
+        "AATIP (Advanced Aerospace Threat Identification Program)",
+        "AAWSAP",
+        "Sean Kirkpatrick",
+        "The Age of Disclosure",
+        "National Program Special Management Staff (NPMS)",
+        "Wilson-Davis Memo"
+      ],
+      "videos": [
+        "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs",
+        "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies",
+        "Incredible UFO Footage - FLYBY",
+        "The 1974 Coyame, Mexico UFO Crash",
+        "UFO Legacy Programs - Science Applications International Corporation (SAIC)",
+        "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs",
+        "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers",
+        "The Hidden Wing - US Air Force UFO Reverse Engineering Programs",
+        "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2",
+        "Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs/transcript.md",
+          "quote": "former atip director Lu Alando has both confirmed the Memo's authenticity and once spoke about atip discovering a black program within the dod deeply focused on UFOs but was denied access",
+          "note": "January 2024: Elizondo as ATIP director and as a confirming source for the memo.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies/transcript.md",
+          "quote": "Kirkpatrick alleges that basically the entire reverse engineering program is a 2008 conspiracy perpetuated by atip under a small group of individuals Lou alzando former Senator Harry Reid PhD phys assist Halal put off and Eric Davis and former DEET Christopher melon",
+          "note": "January 2024: Gerb sets out Kirkpatrick's charge against the ATIP circle.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies/transcript.md",
+          "quote": "a tip under Lu alzando which by the way is also a former official UFO investigation program contracted by the dod",
+          "note": "Gerb rebuts Kirkpatrick partly by calling ATIP an official DoD program.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Incredible UFO Footage - FLYBY/transcript.md",
+          "quote": "former atip director Lou alzando once stated there is UFO footage leaked to the public realm that he was shocked had not broken global news",
+          "note": "February 2024: same framing, cited approvingly.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1974 Coyame, Mexico UFO Crash/transcript.md",
+          "quote": "to the creation of ASAP atip in 2007",
+          "note": "August 2024: AAWSAP and ATIP run together as one creation.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UFO Legacy Programs - Science Applications International Corporation (SAIC)/transcript.md",
+          "quote": "And while I maintain ATIP was likely a white world cover for more classified programs under OAP, we will not be discussing the complexities of ATIP versus OAP today.",
+          "note": "June 2025: Gerb places ATIP under OAP (AAWSAP).",
+          "verified": true
+        },
+        {
+          "source": "Videos/Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "These include Luis Alzando, who for years changed his story around his role as director or senior member of ATIP.",
+          "note": "September 2025: first open distrust, tied to the CIFA contracting role. This is the new information Gerb names.",
+          "verified": true
+        },
+        {
+          "source": "Videos/National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers/transcript.md",
+          "quote": "But I do think that Luis Alzando needs to uh kind of make apparent that ATIP wasn't a real program and that it was a cover program under the guise of NSC directives for limited transparency.",
+          "note": "December 2025, after The Age of Disclosure: ATIP no longer a real program.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/transcript.md",
+          "quote": "Outside of his involvement with Lou Alzando with the fake ATIP cover program",
+          "note": "January 2026: 'fake ATIP'.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/transcript.md",
+          "quote": "ATIP is not OAP. ATIP was nothing more than an informal working group that was unfunded.",
+          "note": "June 2026: reverses the Coyame-era pairing and the 'official program' framing.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/transcript.md",
+          "quote": "Lou I I I reckon he kind of dug himself into more hot waters by saying that ATIP was a subsap to OAP.",
+          "note": "Gerb rejects a placement of ATIP under OAP close to the one he himself 'maintained' in June 2025.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/transcript.md",
+          "quote": "I don't think that's true that ATIP was a subsap to the OSAP. Um, ATIP directly operated out of the National Security Council",
+          "note": "His 2026 position: NSC, not OAP.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched every transcript for Elizondo under all caption spellings (Alzando, Alando, Alisando, Lzando, Elzando, Elison, Elizondo) and for ATIP/AATIP/'a tip'/'Advanced Aerospace Threat'. Also searched for self-reference phrases ('I used to', 'I once', 'changed my', 'I was wrong', 'I previously', 'earlier videos') near Elizondo or ATIP. The only hits are 'as I once stated before' (about covering TTSA later) and 'I once again echo this sentiment from Corbel', neither of which concerns his earlier view. Gerb says Elizondo 'changed his story' but never says his own framing changed. Checked whether any later video returns to Kirkpatrick's Scientific American '2008 conspiracy' charge ('scientific american', '2008 conspiracy', 'small group'): it appears only in the January 2024 Kirkpatrick video.",
+      "weakest_link": "Not a slip: the change shows across at least six videos over 2.5 years, so no single misstatement explains it. The weak point is how much of the early framing was Gerb's own view. 'Former ATIP director' may have been an inherited title, and 'official ... contracted by the dod' may have meant AAWSAP (Gerb ran the two together then). So the post should claim a change in how Gerb frames ATIP and Elizondo, not that he once vouched for Elizondo's whole account. The convergence with Kirkpatrick is only partial: Kirkpatrick says the ATIP circle invented a story, while Gerb 2026 says it was partly disclosing a real one. The writer should not overstate that. Everything can be checked from video publication dates and the transcripts. The outside events Gerb reacts to (Age of Disclosure premiere 21 Nov 2025; Elizondo's sub-SAP remark at a Corbell live show) can be dated from public sources.",
+      "impact": 4,
+      "support": 4,
+      "slip": false
+    },
+    {
+      "id": "L0056",
+      "slice": "S029-focus",
+      "found_at": "2026-10-16T19:30:20Z",
+      "status": "footnote-candidate",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "Deutch had left the SRG chair two years before the threat Gerb's first video credits to him",
+      "claim": "In his first video (The Wilson Davis Memo, January 2024) Gerb reads the notes as saying that after Wilson's complaint in mid-1997 'the srg chairman John Deutsch' threatened Wilson's promotion and stars. Deutch chaired SAPOC and its Senior Review Group only as Deputy Secretary of Defense, 11 March 1994 to 10 May 1995, dates Gerb himself gives in the NRO video, and he left government altogether when he stepped down as DCI in December 1996. In mid-1997 the Deputy Secretary (and so the SRG chair) was John P. White, followed by John Hamre from late July 1997. Gerb's later videos (SAIC, NRO, MITRE, Lockheed, Special Access Required Vol.2) only ever place Deutch as chair 'around the time of this restructuring' in 1994, which suggests the notes name Deutch in the 1994 context and the 2024 reading fused that line with the unnamed 1997 chairman. The error is carried into the vault's Wilson-Davis Memo page ('SRG chairman John Deutch (former CIA Director) threatened Wilson'), the Thomas Wilson timeline and the Deutch page (which already notes the date problem). Most likely a footnote on the 2024 summary and the Wilson-Davis Memo page.",
+      "entities": [
+        "John Deutch",
+        "Wilson-Davis Memo",
+        "Thomas Wilson",
+        "SAPOC (Special Access Program Oversight Committee)"
+      ],
+      "videos": [
+        "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs",
+        "UFO Legacy Programs - Science Applications International Corporation (SAIC)",
+        "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs/transcript.md",
+          "quote": "the srg chairman John Deutsch told Wilson if he did not follow their suggestion quote he would not see the director of the DIA promotion he would get an early retirement and lose one to two stars end quote",
+          "note": "Gerb's 2024 reading puts Deutch in the SRG chair at the time of the mid-1997 complaint.",
+          "verified": true
+        },
+        {
+          "source": "Videos/National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers/transcript.md",
+          "quote": "Remember under [music] Perry Sappok reform the depth sect operated at the chair of the Sappok senior review group meaning from 11 March 1994 [music] to 10 May 1995.",
+          "note": "Gerb's own dates for Deutch's chairmanship end in May 1995.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UFO Legacy Programs - Science Applications International Corporation (SAIC)/transcript.md",
+          "quote": "According to VADM Wilson, around the time of this restructuring, the SAP was chaired by Deputy Secretary of Defense the Honorable John Deutsch.",
+          "note": "In the later video the notes' Deutch mention is placed at the 1994 restructuring, not the 1997 threat.",
+          "verified": true
+        },
+        {
+          "source": "People/John Deutch.md",
+          "quote": "The notes date this to 1997. By then Deutch had left the Pentagon (May 1995) and the CIA (December 1996).",
+          "note": "The vault's own research already flags the date gap; the Wilson-Davis Memo page does not.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Grepped all transcripts for deutsch/deutch/duty/doych and for 'john white'/'hamre'. Deutch appears in seven videos; only the 2024 Wilson Davis video ties him to the 1997 threat, and none says he had left the chair (or government) by 1997. No transcript names White or Hamre. Searched Perry/Deutch near left/1996/1997/resign: no hit on their departures.",
+      "weakest_link": "The memo's own wording, which could not be fetched here (archive.org, Scribd and blog copies were blocked). If the notes themselves call Deutch the 1997 SRG chairman, this is not a slip but an anachronism inside the document, a much bigger finding (impact 5, whether the memo holds together). If the notes name Deutch only as the 1994 chair, it is a single misreading by Gerb in his first video, a footnote. One search snippet of a transcribed copy says the threat passage does not name the chairman directly, which favours the slip. Checkable against the annotated transcript at archive.org (annotated_wilson_memo) or the Scribd copy.",
+      "impact": 3,
+      "support": 3,
+      "slip": true
+    },
+    {
+      "id": "L0057",
+      "slice": "S029-focus",
+      "found_at": "2026-10-16T19:30:20Z",
+      "status": "footnote-candidate",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "Secretary Perry had left office before the 1997 search Gerb says he advised",
+      "claim": "Gerb's first video reads the notes as saying Wilson was 'advised by General Marshall Ward and Secretary of Defense Bill Perry' during his April to June 1997 search, and the NRO video repeats that Perry, with Kaminski, Kostelnik and Ward, 'all suggested' where Wilson should look. Perry left office as Secretary of Defense on 23 January 1997, before Greer's April briefing. Gerb's own 2024 reading undercuts the line a minute later: the advisers are referred back to as 'Paul and Mike as mentioned above' (Kaminski and Kostelnik), and Ward is said to have replaced Mike only from June to December 1997, after the search. Perry's role in the notes appears to be the 1994 organisation of the records group ('as organized in '94 by Perry himself'). So the advisers in the notes are most likely Paul and Mike, and Perry and Ward entered Gerb's paraphrase from neighbouring lines. The error is carried into the vault's Wilson-Davis Memo, Bill Perry, Marshal Ward and Thomas Wilson pages. A footnote, not a post; the Ward half matters to Gerb's later SAPCO-gatekeeper argument (Hidden Wing, Special Access Required Vol.2), but that rests on what the memo says about Ward, which needs the memo text.",
+      "entities": [
+        "Bill Perry",
+        "Marshal Ward",
+        "Paul Kaminski",
+        "Wilson-Davis Memo",
+        "Thomas Wilson"
+      ],
+      "videos": [
+        "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs",
+        "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs/transcript.md",
+          "quote": "Wilson was advised by by General Marshall Ward and Secretary of Defense Bill Perry to go through records group files in outat the office of the under secretary of defense for acquisition and Technology",
+          "note": "Gerb's reading names Ward and Secretary Perry as the advisers in April-June 1997.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs/transcript.md",
+          "quote": "from June to December 97 after the meeting with the srg took place Paul and Mike as mentioned above with aat and usat were replaced by aat jacqu gansler and aat Brigadier General ward of the the Air Force",
+          "note": "The same reading refers back to the advisers as Paul and Mike, and brings Ward in only after the search.",
+          "verified": true
+        },
+        {
+          "source": "Videos/National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers/transcript.md",
+          "quote": "according to Wilson, then under secretary of defense and future [music] secretary of defense himself, William J. Harry alongside Paul Kaminsky of Sappok SRG and oustat Mike Costelnik of Sappok SRG and General Michael Ward all suggested that Wilson investigate",
+          "note": "The 2025 video keeps Perry among the 1997 advisers (here as 'then under secretary').",
+          "verified": true
+        },
+        {
+          "source": "People/Bill Perry.md",
+          "quote": "he succeeded Aspin as Secretary of Defense on 3 February 1994, serving until 23 January 1997",
+          "note": "Perry was out of office before the April 1997 briefing.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Grepped all transcripts for 'bill perry'/'william perry' (six videos) and 'marshall ward'/'general ward' (four videos); searched Perry near left/1997/resign. No transcript notes that Perry had left office before Wilson's search or that Ward arrived only after it.",
+      "weakest_link": "Rests on Gerb's paraphrase of a memo whose text could not be fetched here. If the notes really do name Perry as an adviser, it is an anachronism in the document (bigger, but Perry could have advised informally as a former secretary, so still weak). The 'Paul and Mike as mentioned above' line in the same reading makes a paraphrase slip the likelier reading. Checkable against the annotated transcript on archive.org or the Scribd copy.",
+      "impact": 2,
+      "support": 3,
+      "slip": true
+    },
+    {
+      "id": "L0058",
+      "slice": "S030-patterns",
+      "found_at": "2026-10-16T19:30:20Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "The pod in the Safeguard's logs may be Bluegill's own instrument pod",
+      "claim": "In 'US Navy UFO Crash Retrieval & Reverse Engineering Programs' Gerb calls the October 1962 Bluegill Triple Prime 'pod' recovery the Navy's one acknowledged USO retrieval, and builds on it the timing argument that the Deep Submergence Systems Project began two years later (repeated on the DSSP, Craven and NURO pages). His evidence is that the USS Safeguard's logs record a grid search, divers, a net recovery of a 'pod' and a helicopter pickup. But the Thor missiles of Operation Fishbowl, the series Gerb himself places Bluegill Triple Prime in, carried parachute-recovered instrument pods that the test plan expected Navy ships to pick out of the sea; a declassified General Dynamics project report (DTIC) describes these pods on the Star Fish, Blue Gill and King Fish events and says the Blue Gill pods were all recovered. If the Safeguard's 'pod' is one of those, the logs record a routine, planned test recovery, and the case is not an acknowledged UFO retrieval; it rests on the claim of whoever says a craft was downed. The narrow claim is that the log entries Gerb cites fit the test's own instrument-pod recovery, so they do not by themselves acknowledge anything.",
+      "entities": [
+        "Bluegill Triple Prime UFO Recovery",
+        "Harold Malmgren",
+        "Deep Submergence Systems Project (DSSP)",
+        "US Navy",
+        "National Underwater Reconnaissance Office",
+        "John P. Craven"
+      ],
+      "videos": [
+        "US Navy UFO Crash Retrieval & Reverse Engineering Programs"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/US Navy UFO Crash Retrieval & Reverse Engineering Programs/transcript.md",
+          "quote": "And as we move forward in this investigation, it is paramount to recognize the Navy has indeed participated in at least one acknowledged USO retrieval operation. Recall the 1962 bluegill triple prime detonation and subsequent UFO recovery discussed by late presidential adviser Harold Malmgrren. This event took place during Operation Fishbowl, a series of highaltitude nuclear tests.",
+          "note": "Gerb calls it acknowledged, and places it in Operation Fishbowl, whose Thor launches carried recoverable instrument pods.",
+          "verified": true
+        },
+        {
+          "source": "Videos/US Navy UFO Crash Retrieval & Reverse Engineering Programs/transcript.md",
+          "quote": "The downed craft or quote unquote pod was searched for and recovered by the USS Safeguard. Historical logs from the safeguard discuss the vessel alongside others such as the USS Engage steaming to the water crash location, searching in a square grid pattern and employing divers to recover a quote unquote pod. During net recovery of this pod, the safeguard actually lost power and the pod was released for helicopter pickup.",
+          "note": "The whole documentary basis is the word 'pod' in ship logs; nothing in the passage separates it from a planned instrument-pod recovery.",
+          "verified": true
+        },
+        {
+          "source": "Videos/US Navy UFO Crash Retrieval & Reverse Engineering Programs/transcript.md",
+          "quote": "the 1964 deep submergence systems project DSSP which aimed to increase and develop the Navy's deep ocean engineering capabilities for project sand dollar which resulted in the creation of DSRV occurred just 2 years after the October 1962 bluegill triple prime US Navy UFO recovery.",
+          "note": "The DSSP timing argument depends on Bluegill being a real UFO recovery.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for bluegill, blue gill, triple prime, fishbowl, fish bowl, Johnston Island, safeguard, 'instrument pod' and pod near Bluegill: Bluegill/Fishbowl appear only in the US Navy video, where Gerb never mentions Fishbowl's instrument pods or a test-recovery explanation; he says he will explore the case later. No later video returns to it.",
+      "weakest_link": "The deciding fact (Fishbowl Thor launches carried parachute-recovered instrument pods, and the Safeguard's 'pod' is one of them) is not in the vault; it comes from a web search hit on a declassified General Dynamics report on DTIC (ADA995471) which speaks of the Blue Gill flight generally, and that particular snippet may describe the failed earlier Bluegill attempts rather than Triple Prime. The writer must confirm from DTIC or the Operation Dominic DNA history that Triple Prime carried pods and which ship recovered them. Secondary issue: web results credit the downed-UFO argument to Australian intelligence officer Geoff Cruickshank (in an interview with Ross Coulthart), using these same deck logs, not to Malmgren; if Malmgren never discussed Bluegill, Gerb's attribution is itself a likely slip (footnote). Not a Gerb slip as a whole: the issue is the evidence, not a misspoken word.",
+      "impact": 4,
+      "support": 2,
+      "slip": false
     }
   ]
 }
