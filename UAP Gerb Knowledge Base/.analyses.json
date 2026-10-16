@@ -1398,7 +1398,7 @@
       "id": "L0020",
       "slice": "S007-timeline",
       "found_at": "2026-10-16T04:56:41Z",
-      "status": "open",
+      "status": "footnoted",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -1450,7 +1450,9 @@
       "not_said_check": "Searched all transcripts for Hottel spellings (hottel, hotle, hodle, hoddle, hottle, hotel memo) and 'three flying saucers'/'March 22'. Only the Sarbacher, Aztec and Del Rio videos name the memo; the first two date it 22 March 1950, the Del Rio video gives no date beyond 'later this year'. No video notes that the memo predates El Indio.",
       "weakest_link": "'Sent later this year' may be a slip of the tongue (for 'earlier'), in which case the finding is only that the Del Rio argument leans on a memo that predates the crash; the 22 March 1950 date itself is public record (FBI Vault) and easily checked.",
       "surprise": 2,
-      "support": 4
+      "support": 4,
+      "resolved_at": "2026-10-16T05:32:09Z",
+      "footnote": "gerb-hottel-date"
     },
     {
       "id": "L0021",

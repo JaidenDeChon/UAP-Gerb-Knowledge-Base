@@ -42,7 +42,7 @@ The memo's claim that high-powered radar caused the crashes by disrupting contro
 
 ## Later FBI Context
 
-UAP Gerb's video on the [[The 1950s Del Rio, Texas UFO Crashes|1950s Del Rio, Texas UFO Crashes]] sets the memo beside a December 8, 1950 FBI memo to J. Edgar Hoover directing Army intelligence to a state of high alert for "flying disc" information. The video treats both as part of a pattern of FBI attention to crash-retrieval reports in the early Cold War.
+UAP Gerb's video on the [[The 1950s Del Rio, Texas UFO Crashes|1950s Del Rio, Texas UFO Crashes]] sets the memo beside a December 8, 1950 FBI memo to J. Edgar Hoover directing Army intelligence to a state of high alert for "flying disc" information. The video treats both as part of a pattern of FBI attention to crash-retrieval reports in the early Cold War.[^gerb-hottel-date]
 
 ## Release and Public Impact
 
@@ -59,3 +59,5 @@ The Hottel Memo does not prove that any UFOs were recovered. Its significance is
 - [[Videos/Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group/summary|Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group]]
 - [[Videos/The 1950s Del Rio, Texas UFO Crashes/summary|The 1950s Del Rio, Texas UFO Crashes]]
 - [[Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/summary|The 1948 Aztec, New Mexico UFO Crash Retrieval]]
+
+[^gerb-hottel-date]: Gerb says "we do know from the guy hodle memo sent later this year the FBI was in fact discussing crash retrievals and bodies", probably a slip for "earlier": the Hottel memo is dated 22 March 1950, the date Gerb gives himself in his Sarbacher and Aztec videos, nine months before the 6 December alert and the alleged El Indio crash ([The Black Vault](https://www.theblackvault.com/documentarchive/the-guy-hottel-memo-and-the-crashed-flying-saucers-of-new-mexico-march-22-1950/); [Space.com](https://www.space.com/20409-ufo-hottel-memo-fbi.html)). With the order corrected, the memo still shows crash-retrieval talk reaching the FBI in 1950, but as a report of three saucers recovered in New Mexico it can't be about El Indio.

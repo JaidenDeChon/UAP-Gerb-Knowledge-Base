@@ -6,6 +6,16 @@ tags: [analysis]
 
 These are small corrections for places where a video probably misspoke: a gloss, a paraphrase or a detail that doesn't match the record or the clip Gerb plays. Each one is also footnoted where it appears, on the video's summary and on the most relevant page.
 
+## The Hottel memo came before El Indio, not after
+
+2026-10-16
+
+In [[Videos/The 1950s Del Rio, Texas UFO Crashes/summary|the Del Rio video]], after the 6 December 1950 alert and the 8 December FBI memo, Gerb says: "does this FBI memo have to do with the Air Force unidentified craft alert or possibly a crash retrieval we do know from the guy hodle memo sent later this year the FBI was in fact discussing crash retrievals and bodies".
+
+The likely correction: "later" was probably meant as "earlier". The Hottel memo is dated 22 March 1950 ([The Black Vault](https://www.theblackvault.com/documentarchive/the-guy-hottel-memo-and-the-crashed-flying-saucers-of-new-mexico-march-22-1950/); [Space.com](https://www.space.com/20409-ufo-hottel-memo-fbi.html)), and Gerb gives that date himself in [[Videos/Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group/summary|the Sarbacher video]] ("the hotle memo on March 22nd 1950") and in [[Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/summary|the Aztec video]] ("On 22 March 1950, Jay Edgar Hoover received an official memorandum"). That puts it nine months before the alleged El Indio crash. Gerb's point that the FBI was hearing crash-retrieval talk in 1950 still stands, but the memo reports three saucers recovered in New Mexico, so it can't be about El Indio.
+
+Footnoted on [[Videos/The 1950s Del Rio, Texas UFO Crashes/summary|The 1950s Del Rio, Texas UFO Crashes]] and [[Hottel Memo]].
+
 ## Owens joined SAIC after his SAPOC seat, not before
 
 2026-10-16
