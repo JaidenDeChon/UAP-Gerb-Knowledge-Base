@@ -115,8 +115,8 @@
         "1950s"
       ],
       "handed_out": "2026-10-16T04:49:10Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-16T04:56:41Z",
+      "leads": 3
     },
     "S008-patterns": {
       "lens": "patterns",
@@ -141,8 +141,8 @@
         "Project Second Story"
       ],
       "handed_out": "2026-10-16T04:49:10Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-16T04:56:41Z",
+      "leads": 1
     },
     "S009-links": {
       "lens": "links",
@@ -169,8 +169,8 @@
         "Kit Green|TRW"
       ],
       "handed_out": "2026-10-16T04:49:41Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-16T04:56:41Z",
+      "leads": 1
     }
   },
   "leads": [
@@ -1340,6 +1340,305 @@
       "support": 4,
       "resolved_at": "2026-10-16T04:53:24Z",
       "analysis": "Analyses/Gerb went from very skeptical to probably likely on radar downing Roswell.md"
+    },
+    {
+      "id": "L0019",
+      "slice": "S007-timeline",
+      "found_at": "2026-10-16T04:56:41Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "Gerb's two candidates for Ruppelt's 'more complete investigation' share one date",
+      "claim": "In MOON DUST (January 2024) Gerb says that on 24 April 1952 Ruppelt suggested programs parallel to the official investigation were 'conducting a more complete investigation', and offers Project Moon Dust, whose first mention he traces to 1961, as one such program. In USO (April 2024) the same date, 24 April 1952, is the date of the AFOIN-X-SG letter to ATIC forwarding nine submarine-contact reports, and there Gerb says Ruppelt named AFOIN itself (its technical capabilities and collection control branches) as the office conducting the 'more complete investigation' parallel to Blue Book. Gerb never puts the two videos together. Read side by side, his own later video names the parallel investigator Ruppelt meant, an Air Force intelligence office of 1952, which makes a program first documented nine years later an unnecessary candidate, and the identical date suggests the remark and the letter come from the same 1952 paper trail (or that the MOON DUST date was carried over from the letter).",
+      "entities": [
+        "Edward J. Ruppelt",
+        "AFOIN Special Group (AFOIN-X-SG)",
+        "Project Moon Dust",
+        "Project Stork"
+      ],
+      "videos": [
+        "MOON DUST - The Pentagon's Secret UFO Programs",
+        "USO - Unidentified Submerged Objects"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/MOON DUST - The Pentagon's Secret UFO Programs/transcript.md",
+          "quote": "Rupel concluded UFOs had a quote interplanetary explanation on the 24th of April 1952 ruple suggested programs parallel to the official USG investigation where quote conducting a more complete investigation",
+          "note": "MOON DUST dates Ruppelt's remark to 24 April 1952 and names no office.",
+          "verified": true
+        },
+        {
+          "source": "Videos/MOON DUST - The Pentagon's Secret UFO Programs/transcript.md",
+          "quote": "one of these projects could have been an inconspicuous crash retrieval program one that unless you look hard enough you'll never know existed and that of course is Project moondust the first first mention of moondust can be traced back to 1961",
+          "note": "Gerb's candidate for the parallel program is one he first finds in 1961.",
+          "verified": true
+        },
+        {
+          "source": "Videos/USO - Unidentified Submerged Objects/transcript.md",
+          "quote": "next we can look at the 24th of April 1952 where the Air Force technical Intelligence Center is written by afoi n-x SG regarding the possible connection of Submarine contacts",
+          "note": "Same date, now the AFOIN-X-SG letter.",
+          "verified": true
+        },
+        {
+          "source": "Videos/USO - Unidentified Submerged Objects/transcript.md",
+          "quote": "Rupel stated that afo was conducting a more complete investigation of UFOs parallel to Blue Book in the later uncovered Patel's project stor Rupel stated afo's technical capabilities branch and collection control Branch were specific offices doing UFO related work",
+          "note": "Here the same 'more complete investigation' phrase is attributed to Ruppelt about AFOIN, sourced to the Battelle Project Stork papers.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for 'more complete investigation' (only MOON DUST and USO), 'technical capabilities branch'/'collection control' (USO only), '24th of April'/'april 24' (MOON DUST and USO only), AFOIN spellings ('afo', 'afoi n', 'Air Force Office of Intelligence': USO only) and 'moon dust'/'moondust' in USO (absent). MOON DUST never mentions AFOIN, Stork or Battelle; USO never mentions Moon Dust. No video sets the two passages together.",
+      "weakest_link": "Whether Ruppelt's remark really carries the date 24 April 1952 or Gerb borrowed the letter's date; and the MOON DUST wording is hedged ('could have been'), so Gerb never claims Ruppelt meant Moon Dust specifically. Checkable: the CUFON release of the 24 April 1952 AFOIN-X-SG letter and the Project Stork/Ruppelt material it rests on (Ruppelt papers, Battelle Stork memos) would show where the 'more complete investigation' wording and its date come from. Could not confirm the phrase online with a quick search.",
+      "surprise": 3,
+      "support": 3
+    },
+    {
+      "id": "L0020",
+      "slice": "S007-timeline",
+      "found_at": "2026-10-16T04:56:41Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "The Del Rio video puts the Hottel memo after El Indio; Gerb's other videos date it nine months before",
+      "claim": "In The 1950s Del Rio, Texas UFO Crashes (May 2024), after the 6 December 1950 alert and the 8 December 1950 FBI memo, Gerb supports a crash-retrieval reading of the El Indio date by saying 'we do know from the guy hodle memo sent later this year the FBI was in fact discussing crash retrievals and bodies'. In his Sarbacher video (April 2024) and his Aztec video (July 2025) he dates the Hottel memo to 22 March 1950, and both describe it as reporting three saucers recovered in New Mexico. On Gerb's own dating the memo was written nine months before the alleged El Indio crash, so it cannot reflect FBI discussion of El Indio; at most it shows crash-retrieval talk reaching the FBI earlier that year. The vault's Del Rio summary smooths this to 'that same year'.",
+      "entities": [
+        "Hottel Memo",
+        "Guy Hottel",
+        "1950 El Indio UFO Crash",
+        "J. Edgar Hoover"
+      ],
+      "videos": [
+        "The 1950s Del Rio, Texas UFO Crashes",
+        "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group",
+        "The 1948 Aztec, New Mexico UFO Crash Retrieval"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The 1950s Del Rio, Texas UFO Crashes/transcript.md",
+          "quote": "December 8th 1950 then sees a confidential memo directed to Jay Edgar Hoover regarding flying sof ERS and how Army intelligence has been put on high alert for any data whatsoever on these flying discs",
+          "note": "The December memo Gerb is weighing.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1950s Del Rio, Texas UFO Crashes/transcript.md",
+          "quote": "does this FBI memo have to do with the Air Force unidentified craft alert or possibly a crash retrieval we do know from the guy hodle memo sent later this year the FBI was in fact discussing crash retrievals and bodies",
+          "note": "Places the Hottel memo after the December events and uses it as support.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group/transcript.md",
+          "quote": "the hotle memo on March 22nd 1950 FBI agent guy hodle wrote to FBI director J Edgar Hoover relaying information from an Air Force investigator",
+          "note": "Gerb's own date, five weeks before the Del Rio video.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/transcript.md",
+          "quote": "On 22 March 1950, Jay Edgar Hoover received an official memorandum from Washington Special Agent Guy Hodddle concerning information on flying saucers.",
+          "note": "Same date in the 2025 Aztec video.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group/transcript.md",
+          "quote": "this investigator stated three flying saucers had been recovered in New Mexico",
+          "note": "The memo's content is New Mexico, not the Texas-Mexico border.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for Hottel spellings (hottel, hotle, hodle, hoddle, hottle, hotel memo) and 'three flying saucers'/'March 22'. Only the Sarbacher, Aztec and Del Rio videos name the memo; the first two date it 22 March 1950, the Del Rio video gives no date beyond 'later this year'. No video notes that the memo predates El Indio.",
+      "weakest_link": "'Sent later this year' may be a slip of the tongue (for 'earlier'), in which case the finding is only that the Del Rio argument leans on a memo that predates the crash; the 22 March 1950 date itself is public record (FBI Vault) and easily checked.",
+      "surprise": 2,
+      "support": 4
+    },
+    {
+      "id": "L0021",
+      "slice": "S007-timeline",
+      "found_at": "2026-10-16T04:56:41Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "hidden-link",
+      "headline": "O'Donnell's Indian Springs disc and the Kingman team's Indian Springs flight",
+      "claim": "Two accounts Gerb tells in different videos put Indian Springs Air Force Base at the centre of a crash recovery in the same years, and he never sets them side by side. In the Kingman video, Stansel and 15 other AEC specialists from Operation Upshot-Knothole reported to Indian Springs on 21 May 1953 and were flown from there to the crash; Gerb adds Uhouse's claim that the Kingman craft went to Area 51/Groom Lake. In the Sandia video, EG&G manager Alfred O'Donnell told Knapp a recovered disc was kept at Indian Springs until 1955 and then moved to a facility adjacent to Area 51; O'Donnell gave no date, and Knapp (followed by Gerb) assumes Roswell. O'Donnell's page adds that he moved to Las Vegas in 1952 to open EG&G's test-site office, so he was there through Upshot-Knothole. The narrow point: the Kingman retrieval is the one case in Gerb's videos with a documented Indian Springs connection, and it ends where O'Donnell's disc ended, so it is a candidate for O'Donnell's disc that the videos never consider. O'Donnell's 'recovered in New Mexico' and 'live being' cut against it (Kingman is in Arizona and Stansel saw one dead occupant).",
+      "entities": [
+        "Alfred O'Donnell",
+        "Indian Springs Air Force Base",
+        "1953 Kingman, Arizona Crash Retrieval",
+        "Arthur Stansel Jr.",
+        "Bill Uhouse",
+        "EG&G",
+        "Operation Upshot-Knothole"
+      ],
+      "videos": [
+        "The 1953 Kingman, Arizona UFO Crash",
+        "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The 1953 Kingman, Arizona UFO Crash/transcript.md",
+          "quote": "joined by 15 other aec Specialists Warner reported to Indian Springs Air Force Base there he was put on a plane to Phoenix",
+          "note": "The Kingman team staged at Indian Springs in May 1953.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1953 Kingman, Arizona UFO Crash/transcript.md",
+          "quote": "according to U house the craft was taken to Area 51 theeg Grom Lake facility and the dead Pilots were taken to Los Alamos",
+          "note": "Uhouse sends the Kingman craft to Groom Lake, which did not officially exist until 1955.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "O'Donnell claimed in DoD/IC and you can infer EG&G's possession was a flying saucer recovered from New Mexico, date not given. However, to this day Knapp wagers this was the Roswell crash.",
+          "note": "No date; the Roswell identification is Knapp's guess.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "According to O'Donnell, the recovered disc was kept at Indian Springs Air Force Base now called [music] Creech Air Force Base until 1955 where it was transferred to a facility adjacent to Area 51.",
+          "note": "Same base, same end point as the Kingman accounts.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "Allegedly with the recovered [music] disc came a live being.",
+          "note": "Cuts against Kingman.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1953 Kingman, Arizona UFO Crash/transcript.md",
+          "quote": "a tent pitch near the object sheltered the dead remains of the only occupant of The Craft",
+          "note": "Stansel's affidavit: one dead occupant.",
+          "verified": true
+        },
+        {
+          "source": "People/Alfred O'Donnell.md",
+          "quote": "In 1952 he moved to Las Vegas to open the company's office and laboratory there in support of the Nevada Test Site",
+          "note": "Page research, not transcript: O'Donnell was at the test site during Upshot-Knothole.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for 'Indian Springs' (only the Kingman and Sandia videos) and for O'Donnell (Sandia, SAIC, Manhattan Project 2.0; the Northrop hit is 'McDonnell'). None of the O'Donnell passages mentions Kingman, Stansel or Uhouse, and the Kingman video never mentions O'Donnell or EG&G. Gerb discusses O'Donnell's disc only as Roswell (Knapp's view) or in terms of the 1954 Atomic Energy Act.",
+      "weakest_link": "O'Donnell's own words as relayed by Knapp say 'recovered in New Mexico' and 'a live being', both against Kingman, and his later Jacobsen account ties his story to Roswell. The lead survives only as an open question about an undated disc. Checkable through Knapp's 1990s KLAS reports or later interviews (exact wording on place and date), and EG&G's role at Indian Springs during Upshot-Knothole.",
+      "surprise": 3,
+      "support": 2
+    },
+    {
+      "id": "L0022",
+      "slice": "S008-patterns",
+      "found_at": "2026-10-16T04:56:41Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "hidden-link",
+      "headline": "Ruppelt's parallel investigation and Moon Dust share one Air Force intelligence paper trail",
+      "claim": "Gerb uses the same Ruppelt remark in two videos and draws two different conclusions from it, without putting them together. In MOON DUST he dates Ruppelt's remark that programs parallel to the official one were 'conducting a more complete investigation' to 24 April 1952, and offers Project Moon Dust as a candidate for that parallel program. Moon Dust is first documented in a 1961 memo he reads as 'AFC 1e draft policy'. In USO he gives the same remark as Ruppelt naming the Air Force Office of Intelligence (AFOIN), and its technical capabilities and collection control branches, as the offices doing the fuller work. On the same date, 24 April 1952, he places an AFOIN-X-SG letter forwarding nine submarine-UFO reports, and notes that CUFON's 1979 FOIA requests about this 'special group' were denied. The unsaid tie is that 'AFC 1e' is the office symbol AFCIN-1E (the 3 November 1961 AFCIN-1E-0 letter). AFCIN is the later symbol of the same Air Staff intelligence office that was AFOIN in 1952. Copies of a 20 August 1979 Air Force FOIA appeal reply that circulate in UFO-research text archives list the AFCIN-1E-0 Moon Dust letter alongside an AFOIN-X(SG) memo. On that reading, Gerb's 'mysterious special group' and his Moon Dust trail are the same Air Force intelligence directorate seen nine years apart, and their documents came out of the same 1979 FOIA fight. The narrower, safer claim is this: the parallel investigation Ruppelt named (AFOIN) is the organizational predecessor of the office that issued the Moon Dust memo, which Gerb never says. Moon Dust itself cannot be the 1952 parallel program, because it is first documented in 1961.",
+      "entities": [
+        "Edward J. Ruppelt",
+        "Project Moon Dust",
+        "AFOIN Special Group (AFOIN-X-SG)",
+        "USAF 1127th Field Activities Group",
+        "Project Blue Book"
+      ],
+      "videos": [
+        "MOON DUST - The Pentagon's Secret UFO Programs",
+        "USO - Unidentified Submerged Objects"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/MOON DUST - The Pentagon's Secret UFO Programs/transcript.md",
+          "quote": "on the 24th of April 1952 ruple suggested programs parallel to the official USG investigation where quote conducting a more complete investigation",
+          "note": "Gerb dates Ruppelt's parallel-investigation remark to 24 April 1952.",
+          "verified": true
+        },
+        {
+          "source": "Videos/MOON DUST - The Pentagon's Secret UFO Programs/transcript.md",
+          "quote": "one of these projects could have been an inconspicuous crash retrieval program one that unless you look hard enough you'll never know existed and that of course is Project moondust",
+          "note": "In this video Gerb's candidate for the parallel program is Moon Dust.",
+          "verified": true
+        },
+        {
+          "source": "Videos/MOON DUST - The Pentagon's Secret UFO Programs/transcript.md",
+          "quote": "the first first mention of moondust can be traced back to 1961 in a US Air Force document titled AFC 1e draft policy",
+          "note": "Gerb reads the office symbol as 'AFC 1e' and never expands it to AFCIN, the Air Staff intelligence office.",
+          "verified": true
+        },
+        {
+          "source": "Videos/USO - Unidentified Submerged Objects/transcript.md",
+          "quote": "next we can look at the 24th of April 1952 where the Air Force technical Intelligence Center is written by afoi n-x SG regarding the possible connection of Submarine contacts",
+          "note": "The AFOIN-X-SG submarine letter carries the same date, 24 April 1952, that Gerb gives Ruppelt's remark in MOON DUST.",
+          "verified": true
+        },
+        {
+          "source": "Videos/USO - Unidentified Submerged Objects/transcript.md",
+          "quote": "Rupel stated that afo was conducting a more complete investigation of UFOs parallel to Blue Book in the later uncovered Patel's project stor Rupel stated afo's technical capabilities branch and collection control Branch were specific offices doing UFO related work",
+          "note": "Here the same 'more complete investigation' is attributed to AFOIN, with a collection control branch. The 1961 Moon Dust memo is about giving the 1127th collection responsibility.",
+          "verified": true
+        },
+        {
+          "source": "Videos/USO - Unidentified Submerged Objects/transcript.md",
+          "quote": "in 1979 kfon the computer computer UFO Network filed foyer requests for information on the mysterious special group all requests were denied under executive order",
+          "note": "The 1979 FOIA effort Gerb mentions here is the one whose August 1979 Air Force reply, in circulating copies, also partly released the AFCIN-1E-0 Moon Dust letter.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Grepped every transcript for 'afcin', 'afc 1e', 'afoi', 'special group', '1127', 'collection control' and 'moon dust'/'moondust'. AFOIN and the special group appear only in the USO transcript, which never mentions Moon Dust. 'AFC 1e' appears only in MOON DUST and US Special Forces Confession, which never mention AFOIN. Every other 'special group' hit is the NSC 5412 committee. No transcript notes that both documents are dated 24 April 1952 or that AFOIN and AFCIN are the same office. Ruppelt's own vault page flags Gerb's errors about his tenure but not this.",
+      "weakest_link": "Two links come from outside the vault and rest on thin web evidence. (1) That AFOIN (1952) and AFCIN (1961) are the same Air Staff intelligence office under a changed symbol: State Department FRUS abbreviation lists give AFOIN for 1952-54 and AFCIN for 1958-60, but no source found dates the change. An Air Force organizational history would settle it. (2) That the 20 August 1979 FOIA appeal reply lists both the AFCIN-1E-0 letter and an AFOIN-X(SG) memo: seen only in search snippets of reproductions of one CUFON-era text, so it is a single source, and the mirror pages could not be fetched. The shared 24 April 1952 date may also be Gerb mis-dating the Ruppelt remark from the letter he read; the original source of Ruppelt's 'more complete investigation' wording is unidentified. If (1) fails, nothing is left beyond 'Moon Dust postdates the remark'.",
+      "surprise": 3,
+      "support": 2
+    },
+    {
+      "id": "L0023",
+      "slice": "S009-links",
+      "found_at": "2026-10-16T04:56:41Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "hidden-link",
+      "headline": "Owens was already at SAIC, not on SAPOC, when Wilson was turned away",
+      "claim": "In his SAIC video Gerb counts Admiral William A. Owens as one of the six SAPOC figures behind the Wilson-Davis stonewall and calls him a permanent member after the 1994 restructuring, then wagers that SAIC was the contractor working with the Senior Review Group because two of those six were SAIC alumni. Gerb gives no dates for Owens's SAIC service. Owens sat on SAPOC by virtue of being Vice Chairman of the Joint Chiefs (March 1994 to February 1996); he retired from the Navy in 1996 and became SAIC's president, chief operating officer and vice chairman, leaving in June 1998. So during Wilson's May to December 1997 search, the period the notes describe, Owens could not have been on the committee that turned Wilson away; he was a senior executive of the company Gerb names as the contractor. The narrow, unsaid point is the timing: if Gerb's SAIC wager is right, a man who had sat on the oversight body two years earlier was running the contractor side when the SRG sided with the contractor. Even if the wager is wrong, Owens belongs on the contractor side of the 1997 table, not the committee side. The finding is about dates and roles, and does not show that Owens had any part in the Wilson episode.",
+      "entities": [
+        "William A. Owens",
+        "SAIC",
+        "SAPOC (Special Access Program Oversight Committee)",
+        "Thomas Wilson",
+        "Wilson-Davis Memo",
+        "John Deutch",
+        "Jacques Gansler"
+      ],
+      "videos": [
+        "UFO Legacy Programs - Science Applications International Corporation (SAIC)",
+        "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/UFO Legacy Programs - Science Applications International Corporation (SAIC)/transcript.md",
+          "quote": "A permanent SAP member post SAP restructuring is Admiral William A. Owens, former vice chairman of the Joint Chiefs of Staff. Outside of his prestigious naval career and service as senior military assistant to Dick Cheney, Owens additionally served as the CEO for SIC.",
+          "note": "Gerb places Owens on SAPOC and at SAIC but gives no dates for either, and calls him CEO (he was president, COO and vice chairman).",
+          "verified": true
+        },
+        {
+          "source": "Videos/UFO Legacy Programs - Science Applications International Corporation (SAIC)/transcript.md",
+          "quote": "All in all, the SAPO, which was restructured in the early 1990s to serve as a gatekeeping structure for UFO Legacy Programs, according to Wilson, saw two of six personnel as former SIC alumni. This is why I wager the contractor Wilson accused of operating alongside the Sappok SRG for UFO secrecy is in fact SIC.",
+          "note": "Gerb's wager treats Owens as a committee-side figure who had passed through SAIC. The timing puts him at SAIC during 1997 itself.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs/transcript.md",
+          "quote": "Wilson later on then returned to Washington where he did in fact complain the sapo senior review group at the Pentagon the senior review grouper srg sustained the contractor and their access denial",
+          "note": "The SRG decision the notes describe falls in 1997, the year the Wilson Davis video gives for the search, when Owens was off the Joint Staff and at SAIC.",
+          "verified": true
+        },
+        {
+          "source": "People/John Deutch.md",
+          "quote": "The notes date this to 1997. By then Deutch had left the Pentagon (May 1995) and the CIA (December 1996).",
+          "note": "The vault already records the same timing problem for the other SAIC alumnus Gerb counts. Owens is the second of Gerb's 'two of six', and he too had left government by 1997.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Grepped all transcripts for 'owens' (only the SAIC video) and 'vice chairman of the joint' (only the same passage); Owens never appears in the Wilson Davis video. Searched 'Deutsch/Deutch' near '1997', 'no longer', 'had left' and 'CIA director'; no transcript discusses either man's dates against the 1997 episode. The SAIC summary roster says Owens 'went on to lead SAIC', with no year given.",
+      "weakest_link": "Owens's SAIC dates rest on outside sources: a 1998 Nextgov item says he left SAIC in June 1998 as vice chairman and COO, and bios say he joined after retiring from the Navy in 1996. The exact start month, and whether VCJCS was formally a SAPOC member in 1994 to 1996 (Gerb's claim, not the memo's), both need checking against Owens's official Navy biography and the 1994 SAPOC charter or DoD directive. The Wilson-Davis notes never name Owens, so this reorders Gerb's own roster; it says nothing about Owens's conduct.",
+      "surprise": 3,
+      "support": 3
     }
   ]
 }
