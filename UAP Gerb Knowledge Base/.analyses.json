@@ -266,8 +266,8 @@
         "1970s"
       ],
       "handed_out": "2026-10-16T14:16:03Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-16T14:21:29Z",
+      "leads": 1
     },
     "S017-focus": {
       "lens": "focus",
@@ -275,8 +275,8 @@
         "Project Blue Book"
       ],
       "handed_out": "2026-10-16T14:16:03Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-16T14:21:29Z",
+      "leads": 3
     },
     "S018-links": {
       "lens": "links",
@@ -303,7 +303,7 @@
         "Edgar Fouche|McDonnell Douglas"
       ],
       "handed_out": "2026-10-16T14:16:22Z",
-      "ingested": null,
+      "ingested": "2026-10-16T14:21:29Z",
       "leads": 0
     }
   },
@@ -2434,6 +2434,257 @@
       "slip": true,
       "resolved_at": "2026-10-16T14:15:37Z",
       "footnote": "gerb-corso-fort-bliss"
+    },
+    {
+      "id": "L0035",
+      "slice": "S016-timeline",
+      "found_at": "2026-10-16T14:21:29Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "The Glomar Explorer was still on the Atlantic side when RK's craft was said to be pulled from the Pacific",
+      "claim": "In Stringfield's case A7, as Gerb tells it, a San Diego sailor said a Navy destroyer shot down a teardrop craft between Hawaii and the mainland in June 1973, and that the Hughes Glomar Explorer recovered it, shipped it to Hawaii and on to Chicago, where RK says he saw it in a Quonset hut at Great Lakes in September 1973. Gerb treats the Glomar detail as the case's most consequential part. It makes the recovery a NURO operation and raises the question of whether Inman took part. The ship's documented 1973 movements don't allow it. It was built at Sun Shipbuilding in Chester, Pennsylvania, ran sea trials there in spring 1973 and was completed in July 1973. Too wide for the Panama Canal, it then sailed around Cape Horn and first reached Long Beach on 30 September 1973, after RK's sighting. Its capture vehicle was not mated until 1974. Either the Glomar was not the recovery ship, or the story's dates are wrong. If the story moves to 1974, it lands on the K-129 lift itself (July and August 1974) and on RK's last month at Great Lakes. The narrow, defensible finding is this: the RK account's Glomar link, and with it Gerb's NURO and Inman inference, does not fit the ship's record for 1973.",
+      "entities": [
+        "Project Azorian",
+        "National Underwater Reconnaissance Office",
+        "Bobby Ray Inman",
+        "Leonard Stringfield",
+        "Office of Naval Research"
+      ],
+      "videos": [
+        "US Navy UFO Crash Retrieval & Reverse Engineering Programs",
+        "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/US Navy UFO Crash Retrieval & Reverse Engineering Programs/transcript.md",
+          "quote": "In September 1973, while instructor and gunnery school, RK was assigned to guard the premises",
+          "note": "RK's sighting at Great Lakes is dated September 1973.",
+          "verified": true
+        },
+        {
+          "source": "Videos/US Navy UFO Crash Retrieval & Reverse Engineering Programs/transcript.md",
+          "quote": "shot down by the Navy between Hawaii and the mainland in June of 1973",
+          "note": "The sailor dates the shoot-down to June 1973, in the Pacific.",
+          "verified": true
+        },
+        {
+          "source": "Videos/US Navy UFO Crash Retrieval & Reverse Engineering Programs/transcript.md",
+          "quote": "The San Diego sailor claimed the object was retrieved by the Glowar Explorer and shipped to Hawaii and sent stateside and finally to Chicago.",
+          "note": "The Glomar is named as the recovery ship, so the recovery and shipment both fall between June and September 1973.",
+          "verified": true
+        },
+        {
+          "source": "Videos/US Navy UFO Crash Retrieval & Reverse Engineering Programs/transcript.md",
+          "quote": "The claims of the Glowar Explorer retrieving the craft are of significant consequence here.",
+          "note": "Gerb rests the case's significance on the Glomar link (NURO, Navy and CIA DS&T).",
+          "verified": true
+        },
+        {
+          "source": "Videos/US Navy UFO Crash Retrieval & Reverse Engineering Programs/transcript.md",
+          "quote": "However, once again, later in this project, I will bring up an alleged UFO recovery in 1973 conducted by the Glowar in Hawaii.",
+          "note": "Gerb sets the 1973 Glomar recovery beside Inman's time in Hawaii.",
+          "verified": true
+        },
+        {
+          "source": "Videos/US Navy UFO Crash Retrieval & Reverse Engineering Programs/transcript.md",
+          "quote": "Could Inman possibly have been involved in this retrieval in an official capacity?",
+          "note": "The Inman inference depends on the Glomar being in Pacific operation in 1973.",
+          "verified": true
+        },
+        {
+          "source": "Videos/1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt/transcript.md",
+          "quote": "This craft was allegedly shot down via a naval destroyer and picked up in the Pacific Ocean by the National Underwater Reconnaissance Offices Glowar Explorer.",
+          "note": "A second video repeats the Glomar attribution as part of the case.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Grepped all transcripts for Glomar (and the caption spelling 'Glowar'), Great Lakes, Quonset, Cape Horn, Magellan, Sun Shipbuilding, sea trials and Long Beach. The Glomar appears only in the Navy, NRO and Peru/Weygandt videos, and none of them gives the ship's 1973 location or questions whether it could have done a 1973 recovery. Gerb says only that it 'launched in 1972'. The vault pages (Project Azorian, Bobby Ray Inman, Office of Naval Research, NURO) repeat the 1973 Glomar recovery without comment. Outside dates are from a quick web check: the USNI Naval History article 'Inside Project Azorian' (sea trials April 1973, transit around the Horn, arrival at Long Beach Pier E on 30 September 1973) and the ASME landmark brochure (completed July 1973, mobilized via Cape Horn, arrived on the West Coast September 1973). A Maritime Executive piece puts a South America voyage in June 1974, which conflicts, so the writer should confirm against the CIA's declassified Azorian history (NSA EBB 305).",
+      "weakest_link": "The account is third-hand (a sailor to RK to Stringfield to Gerb), so the Glomar detail or the year may simply be the sailor's error. That makes this a finding about the account's internal fit, not proof the event didn't happen. Without the Glomar detail the craft and shoot-down stay unrefuted. They lose only their NURO and Inman link. The sticking point isn't a Gerb slip: Gerb reports the sailor's claim accurately, and the conflict is between the account and the ship's record. Checkable: the CIA's declassified Azorian history (National Security Archive EBB 305), USNI and ASME give the 1973 build, trial and transit dates. Also confirm from Status Report III that Stringfield's text names the Glomar and isn't Gerb's gloss.",
+      "impact": 4,
+      "support": 4,
+      "slip": false
+    },
+    {
+      "id": "L0036",
+      "slice": "S017-focus",
+      "found_at": "2026-10-16T14:21:29Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "pattern",
+      "headline": "The programs Gerb calls parallel to Blue Book report to Blue Book's own office",
+      "claim": "Across many videos Gerb argues that the real UFO study ran beside Project Blue Book and was hidden from it. He cites four channels for this: Battelle's Project Stork, the AFOIN-X-SG 'special group', USAF Regulation 200-2, and Project Moon Dust's 1127th Field Activities Group. On the documents he quotes, each of the four runs into the Air Technical Intelligence Center (ATIC), the Wright-Patterson office that ran Blue Book. (1) ATIC commissioned Stork, and its 1955 product, Special Report 14, was published as 'Project Blue Book Special Report No. 14'. (2) The 24 April 1952 AFOIN-X-SG letter on submarine contacts went to ATIC, addressed to 'Colonel Dunn'. That is very likely Col. Frank Dunn, ATIC's commander and Ruppelt's superior, five weeks after Blue Book was created. (3) Gerb says Regulation 200-2 sent reports 'to ATIC and not Blue Book', but Blue Book was ATIC's UFO project. (4) The 1961 AFCIN-1E draft he uses to introduce Moon Dust gives the 1127th 'collection responsibility' for 'the USAF's established program for investigation of reliably reported UFOs within the United States'. That program was Blue Book, under AFR 200-2. The narrow inference: these four documents do not show a body hidden from Blue Book. They show units that fed Blue Book's chain of command, or that were part of it. Whatever was hidden must be shown by other evidence. This leaves Gerb's wider thesis open (the Lovekin and Shehan claims about a classified section of Blue Book, and the Hynek quotes) but takes away four of its paper-trail supports.",
+      "entities": [
+        "Project Blue Book",
+        "Air Force Technical Intelligence Center",
+        "Project Stork",
+        "Battelle Memorial Institute",
+        "AFOIN Special Group (AFOIN-X-SG)",
+        "USAF Regulation 200-2",
+        "Project Moon Dust",
+        "USAF 1127th Field Activities Group",
+        "Edward J. Ruppelt"
+      ],
+      "videos": [
+        "UFOs in the Private Sector - Battelle Memorial Institute",
+        "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group",
+        "USO - Unidentified Submerged Objects",
+        "The Origin of the UFO Stigma",
+        "The 1953 Kingman, Arizona UFO Crash",
+        "MOON DUST - The Pentagon's Secret UFO Programs"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group/transcript.md",
+          "quote": "atic commission battel for project stor a parallel project to Blue Book not known to the public to investigate UFOs",
+          "note": "Gerb's framing: Stork was ATIC's, and parallel to Blue Book and hidden from the public.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UFOs in the Private Sector - Battelle Memorial Institute/transcript.md",
+          "quote": "Patel had been commissioned around the same time to separately analyze all Air Force UFO cases away from Bluebook or these official panels under Coden name stor",
+          "note": "Stork presented as working away from Blue Book.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UFOs in the Private Sector - Battelle Memorial Institute/transcript.md",
+          "quote": "on the 5th of May 1955 Batel and atic published a comprehensive analysis of 3200 UFO sightings titled Special Report 14",
+          "note": "Stork's output. Its official title is Project Blue Book Special Report No. 14, which Gerb never says. The writer must confirm the title (NARA/NICAP copies).",
+          "verified": true
+        },
+        {
+          "source": "Videos/USO - Unidentified Submerged Objects/transcript.md",
+          "quote": "the 24th of April 1952 where the Air Force technical Intelligence Center is written by afoi n-x SG regarding the possible connection of Submarine contacts this letter addressed to one Colonel Dunn",
+          "note": "The 'special group' letter went to ATIC, to a Colonel Dunn. Col. Frank Dunn commanded ATIC in 1952 (Ruppelt's book), which makes him Blue Book's commanding officer.",
+          "verified": true
+        },
+        {
+          "source": "Videos/USO - Unidentified Submerged Objects/transcript.md",
+          "quote": "Rupel stated that afo was conducting a more complete investigation of UFOs parallel to Blue Book",
+          "note": "Gerb's reason for reading AFOIN-X-SG as a secret parallel group.",
+          "verified": true
+        },
+        {
+          "source": "Videos/USO - Unidentified Submerged Objects/transcript.md",
+          "quote": "this regulation restricted all official UFO Reporting to be sent to atick and not Blue Book",
+          "note": "Regulation 200-2: 'ATIC and not Blue Book', although ATIC housed Blue Book.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Origin of the UFO Stigma/transcript.md",
+          "quote": "this means all confirmed UFO reports were to be sent to the Air Force intelligence and not Bluebook",
+          "note": "The same 200-2 framing in the stigma video. It is repeated in Kingman, Magenta and Knuth, and Gerb says he talks about it 'every video'.",
+          "verified": true
+        },
+        {
+          "source": "Videos/MOON DUST - The Pentagon's Secret UFO Programs/transcript.md",
+          "quote": "this proposal suggests that the USAF 1127 receive collection responsibility duties for the usaf's established program for investigation of reliably reported unidentified flying objects within the United States",
+          "note": "The 'established program' in the 1961 memo is Blue Book's AFR 200-2 program. The memo text reads 'AFR 200-2 delineates 1127th collection responsibilities'.",
+          "verified": true
+        },
+        {
+          "source": "Videos/MOON DUST - The Pentagon's Secret UFO Programs/transcript.md",
+          "quote": "pck additionally said that alongside Blue Book there were other classified programs going on studying UFOs one of these projects could have been an inconspicuous crash retrieval program",
+          "note": "Gerb sets Moon Dust up as one of the classified programs alongside Blue Book.",
+          "verified": true
+        },
+        {
+          "source": "People/Edward J. Ruppelt.md",
+          "quote": "He was assigned to the [[Air Force Technical Intelligence Center|Air Technical Intelligence Center]] (ATIC) at [[Wright-Patterson Air Force Base]] in 1951 and was put in charge of Project Grudge late that year.",
+          "note": "The vault places Blue Book's director inside ATIC.",
+          "verified": true
+        },
+        {
+          "source": "Organizations/Air Force Technical Intelligence Center.md",
+          "quote": "ATIC directed [[Project Blue Book]] through Captain [[Edward J. Ruppelt]] and other commanders.",
+          "note": "The vault's own page: ATIC ran Blue Book.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "I grepped all transcripts for 'colonel dunn', 'frank dunn' and 'col dunn'. The only hit is the USO video, and Dunn is never identified there. I grepped for 'blue book special' and 'bluebook special' and found nothing: Special Report 14 is never called a Blue Book report. I grepped for any phrase putting Blue Book under ATIC or at Wright-Patterson ('run by ATIC', 'under ATIC', 'blue book ... wright/patterson/atic') and found nothing. I read every passage that mentions ATIC and every 200-2 passage (Magenta, Kingman, Stigma, Knuth, Whistleblowers Vol.1, USO). Each frames 200-2 as routing reports away from Blue Book. The MOON DUST transcript mentions Blue Book only twice, and neither passage names the 1961 memo's 'established program' as Blue Book. Gerb never ties the four channels back to Blue Book's own office.",
+      "weakest_link": "Three identity facts sit outside the vault, and all can be checked. (a) Special Report 14's official title is 'Project Blue Book Special Report No. 14'. This is well documented (NARA, NICAP, the Battelle report scans). (b) 'Colonel Dunn' is Col. Frank L. Dunn, ATIC's chief in 1952. Ruppelt's 1956 book names him, but the letter itself (CUFON/Good) should be checked for his first name and office. (c) The 1961 AFCIN-1E-O memo of 3 November 1961 (released 1979; transcriptions on textfiles/sacred-texts) ties the 1127th's UFO duty to AFR 200-2. It was a draft, 'not for action', so it shows intent, not an adopted order. A further caveat: AFR 200-2 did restrict what could be released to the press, so Gerb's broader point that 200-2 kept sightings from the public survives. Only his routing claim, 'not Blue Book', falls. Being routed to ATIC also doesn't prove that nothing was compartmented above ATIC. The claim must stay narrow: these four documents feed Blue Book's chain; they do not prove a hidden body. A single slip can't explain this, because the framing recurs in at least six videos.",
+      "impact": 4,
+      "support": 3,
+      "slip": false
+    },
+    {
+      "id": "L0037",
+      "slice": "S017-focus",
+      "found_at": "2026-10-16T14:21:29Z",
+      "status": "footnote-candidate",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "The Washington flap was July 1952, not December",
+      "claim": "In The Origin of the UFO Stigma, Gerb dates the Washington National Airport sightings to December 1952 and says the witnesses included the pilots of a B-52 bomber. His own Iceberg Level 1 video gives the correct dates, the weekends of 19-20 and 26-27 July 1952. The stigma video then says 'on July of 1952' for what followed, so the order of events comes out reversed. This is a probable slip, not a contradiction in the subject matter. A footnote is enough.",
+      "entities": [
+        "Project Blue Book"
+      ],
+      "videos": [
+        "The Origin of the UFO Stigma",
+        "The Alien and UFO Obscure Oddities Iceberg (Level 1)"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The Origin of the UFO Stigma/transcript.md",
+          "quote": "in December of 1952 one of the most famous Mass UFO sightings in American history occurred over Washington DC our nation's capital",
+          "note": "Wrong month.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Alien and UFO Obscure Oddities Iceberg (Level 1)/transcript.md",
+          "quote": "this Mass sighting of UFOs occurred over the weeks of July 19th to the 20th and July 26th to the 27th of 1952",
+          "note": "Gerb's own correct dating.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "I grepped all transcripts for Washington DC together with 1952, July and December. Only the stigma video says December; Iceberg L1, Whistleblowers Vol.1 and MJ-12 give no conflicting month.",
+      "weakest_link": "This is a single slip by Gerb (a misremembered month), and he gives the right dates elsewhere. The B-52 detail is probably a slip too: the B-52 was not in service in 1952, and the 1952 airborne witnesses were airline crews and F-94 pilots. Easy to check (Ruppelt's book, the 1952 Samford press conference).",
+      "impact": 2,
+      "support": 5,
+      "slip": true
+    },
+    {
+      "id": "L0038",
+      "slice": "S017-focus",
+      "found_at": "2026-10-16T14:21:29Z",
+      "status": "discarded",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "Robertson Panel dated 1973 in the NRO video",
+      "claim": "The NRO video says evidence was presented to the Robertson Panel on '14 to 17 January 1973'. The panel met 14-17 January 1953, the year Gerb gives everywhere else (Special Access Required Vol.2, the stigma video, Kingman). This is a probable slip.",
+      "entities": [
+        "Robertson Panel",
+        "Project Blue Book"
+      ],
+      "videos": [
+        "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers",
+        "The 1953 Kingman, Arizona UFO Crash"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers/transcript.md",
+          "quote": "From the Robertson panel, we can see evidence presented from 14 to 17 January 1973.",
+          "note": "Wrong decade.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1953 Kingman, Arizona UFO Crash/transcript.md",
+          "quote": "the Robertson panel was conducted to quell public interest in UFOs and was commenced in January of 1953",
+          "note": "Gerb's usual, correct date.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "I grepped for 'Robertson panel' across all transcripts. Every other mention puts it in 1953.",
+      "weakest_link": "This is a single slip of the tongue or a caption error ('1953' heard as '1973'). It can be checked against the CIA's Durant report.",
+      "impact": 1,
+      "support": 5,
+      "slip": true,
+      "resolved_at": "2026-10-16T14:21:34Z",
+      "reason": "duplicate of L0025, already footnoted as gerb-robertson-1973"
     }
   ]
 }
