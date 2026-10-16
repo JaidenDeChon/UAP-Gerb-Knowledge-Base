@@ -121,7 +121,7 @@
       "id": "L0002",
       "slice": "S001-links",
       "found_at": "2026-10-16T03:34:34Z",
-      "status": "open",
+      "status": "written",
       "duplicate_of": null,
       "problems": [],
       "kind": "hidden-link",
@@ -175,7 +175,9 @@
       "not_said_check": "Searched all transcripts for LaPlante and caption forms ('LaPlante', 'La Plante', 'Lelant', 'Leelant', 'Leela'): only the MITRE video, which never mentions Ed apart from his Hanscom posting. Searched 'SAF AQ'/'SAFAQ'/'SAF/AQ' with Ed: Hidden Wing and Special Access Required Vol.2 discuss Ed at SAF/AQ but never name LaPlante or any office holder during Ed's tenure. Searched 'Hanscom': the MITRE video ties Ed to MITRE only through Hanscom, so the SAF/AQ overlap is unsaid.",
       "weakest_link": "Dates. Gerb's 2014-2017 tenure and 'dual-hatted 2015-2017' claim are wrong on the public record: the Air Force and Wikipedia give LaPlante's confirmed tenure as 12 February 2014 to 18 November 2015 (he was principal deputy, then acting, from 2013). The overlap with Ed (to 2015) and with FY2013-14 still holds, but it rests on Ed being in SAF/AQ itself rather than a nearby R&D panel, which only Greer's notes and Gerb's reading support.",
       "surprise": 3,
-      "support": 3
+      "support": 3,
+      "resolved_at": "2026-10-16T04:01:30Z",
+      "analysis": "Analyses/The MITRE man who ran SAF-AQ in Ed's last Pentagon years.md"
     },
     {
       "id": "L0003",
