@@ -45,6 +45,69 @@
       "handed_out": "2026-10-16T02:44:42Z",
       "ingested": "2026-10-16T03:34:34Z",
       "leads": 5
+    },
+    "S004-patterns": {
+      "lens": "patterns",
+      "items": [
+        "AATIP (Advanced Aerospace Threat Identification Program)",
+        "AAWSAP",
+        "Alsos Mission",
+        "Aurora Program",
+        "Blackjack Team",
+        "Deep Submergence Systems Project (DSSP)",
+        "Delta Oscar Echo (DOE) Science Team Deployment",
+        "Guardian Angel Program",
+        "Kona Blue",
+        "Manhattan Project",
+        "Missile Test 1802 Data Recovery",
+        "Operation Achse",
+        "Operation Bluefly",
+        "Operation Desert Shield",
+        "Operation Desert Storm",
+        "Operation Laser Strike",
+        "Operation Menu",
+        "Operation Paperclip"
+      ],
+      "handed_out": "2026-10-16T04:18:12Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S005-links": {
+      "lens": "links",
+      "items": [
+        "Glenn Gaffney|Office of the Director of National Intelligence (ODNI)",
+        "Air Force Research Laboratory|Ed (Witness 11063)",
+        "EarthTech|Long Beach, California",
+        "Aztec UFO Crash and Recovery|Phoenix, Arizona",
+        "Gorman Dogfight|Project Sign, Grudge, and Blue Book Operation Period",
+        "Agenzia Stefani|Enrico Fermi",
+        "AATIP (Advanced Aerospace Threat Identification Program)|Defense Support Program (DSP)",
+        "David Grusch|La Jolla, California",
+        "2009 Indonesia UFO Encounter (Herrera)|Joey's Reddit Post - Verifying Michael Herrera's UAP Encounter Part One",
+        "Hal Puthoff|UAP Campaign Plan - Way Forward",
+        "Alan Cranston|Bill Hamilton",
+        "CIA Directorate of Science and Technology|Office of the Director of National Intelligence (ODNI)",
+        "Sandia National Laboratories|UFO Crash Retrieval Operations (JSOC)",
+        "Peru UFO Crash Incident|US Space Command",
+        "Denver, Colorado|Los Angeles, California",
+        "Dawn Meyerriecks|Office of the Director of National Intelligence (ODNI)",
+        "NRO (National Reconnaissance Office)|UFO Working Group",
+        "Arnold House|Ed (Witness 11063)",
+        "Ed (Witness 11063)|Northrop Grumman",
+        "Karl Nell|RA"
+      ],
+      "handed_out": "2026-10-16T04:18:44Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S006-accounts": {
+      "lens": "accounts",
+      "items": [
+        "Roswell Crash"
+      ],
+      "handed_out": "2026-10-16T04:18:44Z",
+      "ingested": null,
+      "leads": 0
     }
   },
   "leads": [
