@@ -6,7 +6,8 @@ import { Button } from '@/components/ui/button'
 import { Popover, PopoverContent, PopoverTrigger } from '@/components/ui/popover'
 import { THEMES, useTheme, type ThemeId } from '~/composables/useTheme'
 
-const props = withDefaults(defineProps<{ variant?: 'icon' | 'block' }>(), {
+// `rail` is the icon button at the foot of the collapsed sidebar: it opens to the right.
+const props = withDefaults(defineProps<{ variant?: 'icon' | 'block' | 'rail' }>(), {
   variant: 'icon',
 })
 
@@ -23,7 +24,8 @@ const DARK = new Set<ThemeId>(['dark', 'dim'])
 
 const currentIcon = computed<Component>(() => THEME_ICON[current.value.id] ?? Sun)
 const align = computed<'start' | 'end'>(() => (props.variant === 'block' ? 'start' : 'end'))
-const side = computed<'top' | 'bottom'>(() => (props.variant === 'block' ? 'top' : 'bottom'))
+const side = computed<'top' | 'bottom' | 'right'>(() =>
+  props.variant === 'block' ? 'top' : props.variant === 'rail' ? 'right' : 'bottom')
 
 function schemeFor(id: ThemeId): 'light' | 'dark' {
   return DARK.has(id) ? 'dark' : 'light'

@@ -6,7 +6,7 @@
  * when; main.css has every rule). Pages hold it with `usePageReady`.
  *
  * It's centred in the visible content area (below the 56px top bar, beside
- * the 280px sidebar from 901px up), fades in after a short delay so a quick
+ * the sidebar from 901px up, at whatever width it's collapsed to), fades in after a short delay so a quick
  * load never flashes it, and leaves by blurring out while the page unblurs
  * in behind it.
  */
