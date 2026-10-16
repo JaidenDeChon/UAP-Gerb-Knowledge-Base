@@ -9,13 +9,13 @@ videos: ["Philip J. Corso - US Army UFO Technology Research & Development", "UFO
 tags: [analysis]
 ---
 
-If you watched Gerb's videos from the first half of 2025, you heard that [[Glenn Gaffney]], head of the CIA's [[CIA Directorate of Science and Technology|Directorate of Science and Technology]] (DS&T), stopped [[Lockheed Martin]] from handing material to [[AAWSAP]] in 2008. In his September 2025 Lockheed video Gerb tells it differently: there were two attempts, a first one in 2008 or 2009 that he links to [[James Clapper]], and a 2011 attempt through [[Kona Blue]] that Gaffney blocked. Gerb never sets the two versions side by side. Gaffney's career settles which one fits. In 2008 he was at the ODNI, not the DS&T.
+If you watched Gerb's videos from the first half of 2025, you heard that [[Glenn Gaffney]], head of the CIA's [[CIA Directorate of Science and Technology|Directorate of Science and Technology]] (DS&T), stopped [[Lockheed Martin]] from handing material to [[AAWSAP]] in 2008. In his September 2025 Lockheed video Gerb tells it differently: there were two attempts, a first one in 2008 or 2009 that he links to [[James Clapper]], and a 2011 attempt through [[Kona Blue]] that Gaffney blocked. Gerb never sets the two versions side by side, but Gaffney's career settles which one fits: in 2008 he worked at the ODNI, not the DS&T.
 
 ## The finding
 
 Gerb's early version, "DS&T head Gaffney blocked the 2008 transfer", can't be right as stated. In 2008 Gaffney was Deputy Director of National Intelligence for Collection at the [[Office of the Director of National Intelligence (ODNI)|ODNI]], and [[Stephanie O'Sullivan]] led the DS&T until she became the CIA's Associate Deputy Director in December 2009. Gaffney's six years at the head of the directorate began only after that. So either the year in those videos is wrong or the post is. Gerb's later account, with Gaffney at the DS&T for the 2011 Kona Blue block, is the one that matches his record.
 
-The finding is limited to that. It doesn't say whether Gaffney blocked anything, or who, if anyone, stopped a 2008 or 2009 attempt.
+The finding goes no further. It doesn't say whether Gaffney blocked anything, or who, if anyone, stopped a 2008 or 2009 attempt.
 
 ## The evidence
 
@@ -35,7 +35,7 @@ The finding is limited to that. It doesn't say whether Gaffney blocked anything,
 - From 2009: Gaffney leads the DS&T for six years, the length he gives in a CBS *Intelligence Matters* interview.
 - 2011: the Kona Blue attempt, which the Burchett document and Gerb's later videos credit Gaffney with killing.
 
-A 2008 block by "DS&T head Gaffney" falls more than a year before he took the job. Even a 2009 attempt, the other year Gerb gives, would almost certainly fall in O'Sullivan's time. Only the 2011 attempt lands in Gaffney's tenure, which is how Gerb tells it from September 2025 on. The early videos look like the two attempts run together, with the first one's date and the second one's villain.
+A 2008 block by "DS&T head Gaffney" falls more than a year before he took the job. Even a 2009 attempt, the other year Gerb gives, would almost certainly fall in O'Sullivan's time. Only the 2011 attempt lands in Gaffney's tenure, which is how Gerb tells it from September 2025 on. The early videos look like the two attempts run together, with the first one's date and the second one's blocker.
 
 This also supports the two-attempt structure behind [[Cardillo held Dempsey's post under Clapper when Kona Blue was blocked]], which takes Gerb's later version as its starting point.
 
@@ -52,7 +52,7 @@ Nothing turned up that points out the clash between Gaffney's career and the 200
 
 ## What would settle it
 
-An ODNI or CIA announcement of Gaffney's move to the DS&T, which would fix his start date. On the other side, a dated record of the first Lockheed offer: the AARO historical report's chronology, or the Liberation Times reporting Gerb draws on. If the first attempt turned out to be in 2010 rather than 2008 or 2009, the early videos would only be off on the year.
+An ODNI or CIA announcement of Gaffney's move to the DS&T would fix his start date. The other half needs a dated record of the first Lockheed offer, such as the AARO historical report's chronology or the Liberation Times reporting Gerb draws on. If the first attempt turned out to be in 2010 rather than 2008 or 2009, the early videos would only be off on the year.
 
 ## Sources
 
