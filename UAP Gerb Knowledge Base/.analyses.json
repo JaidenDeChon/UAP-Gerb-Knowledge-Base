@@ -4102,7 +4102,7 @@
       "id": "L0059",
       "slice": "S031-focus",
       "found_at": "2026-10-16T19:52:50Z",
-      "status": "footnote-candidate",
+      "status": "footnoted",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -4161,7 +4161,9 @@
       "weakest_link": "A single loose gloss in one video could explain it (Gerb may have meant AEC 'Restricted Data' or simply misdescribed a stamp), and his later videos state the correct reading, so this is a footnote, not a post. The stamp itself is known only from Gerb's on-screen document; the DTIC scan (ADB816149) would confirm the marking and whether it reads RESTRICTED or AEC Restricted Data. That Restricted was a US military grade until EO 10501 (effective December 1953) is public record.",
       "impact": 3,
       "support": 4,
-      "slip": true
+      "slip": true,
+      "resolved_at": "2026-10-16T20:01:05Z",
+      "footnote": "gerb-battelle-restricted"
     },
     {
       "id": "L0060",
@@ -4288,7 +4290,7 @@
       "id": "L0062",
       "slice": "S032-timeline",
       "found_at": "2026-10-16T19:52:50Z",
-      "status": "footnote-candidate",
+      "status": "footnoted",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -4328,7 +4330,9 @@
       "weakest_link": "A single slip of 'director' for 'deputy director' explains it entirely. No consequence for the story.",
       "impact": 2,
       "support": 4,
-      "slip": true
+      "slip": true,
+      "resolved_at": "2026-10-16T20:01:06Z",
+      "footnote": "gerb-wilson-dia-1997"
     },
     {
       "id": "L0063",

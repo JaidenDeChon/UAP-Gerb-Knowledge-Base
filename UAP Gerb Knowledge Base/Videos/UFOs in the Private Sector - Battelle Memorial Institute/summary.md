@@ -74,7 +74,7 @@ events:
     cue: 386
   - date: "1949-09"
     title: "Battelle's nitinol progress reports for Wright-Patterson"
-    summary: "Under a Wright-Patterson contract, Battelle's first and second progress reports on titanium-alloy research, covering 1 September to 21 October 1949, focus mostly on nitinol. The work fell under the Atomic Energy Commission and was labelled 'restricted' rather than classified."
+    summary: "Under a Wright-Patterson contract, Battelle's first and second progress reports on titanium-alloy research, covering 1 September to 21 October 1949, focus mostly on nitinol. Gerb says the work fell under the Atomic Energy Commission and was labelled 'restricted' rather than classified."
     category: document
     significance: major
     entities:
@@ -271,7 +271,7 @@ steps:
 ---
 ::
 
-The research, Gerb notes, was an R&D project under the [[Atomic Energy Commission]], and the channel's recurring argument is that UFO records and materials have been deliberately misclassified under the [[Atomic Energy Act of 1954]] as nuclear material. Battelle's report is labelled neither classified, unclassified nor declassified, but "restricted", which Gerb describes as a private-sector standard in which access is strictly need-to-know. David Grusch has said that private industry is used for UFO studies partly because its own legal classification standards cannot be breached even by people with special access program clearances like his. The nitinol studies were not declassified until 2010.
+The research, Gerb notes, was an R&D project under the [[Atomic Energy Commission]], and the channel's recurring argument is that UFO records and materials have been deliberately misclassified under the [[Atomic Energy Act of 1954]] as nuclear material. Battelle's report is labelled neither classified, unclassified nor declassified, but "restricted", which Gerb describes as a private-sector standard in which access is strictly need-to-know.[^gerb-battelle-restricted] David Grusch has said that private industry is used for UFO studies partly because its own legal classification standards cannot be breached even by people with special access program clearances like his. The nitinol studies were not declassified until 2010.
 
 ## EJ Center's Account
 
@@ -395,10 +395,13 @@ entries:
 - A Secret memo of 9 January 1953 by Battelle's [[Howard C. Cross]] proposed that Project Stork help the Air Force reassure the public that the UFO problem was "well under control".
 - Battelle and ATIC's 1955 Special Report 14 concluded that no physical matter had ever been recovered from a UFO, which Gerb says contradicts Battelle's own 1949 work.
 - In 1949 Battelle analysed [[Nitinol (Nickel-Titanium Alloy)|nitinol]] for Wright-Patterson Air Force Base, twelve years before the alloy's official discovery in 1961. Gerb infers that the material came from the 1947 Roswell crash, whose debris Jesse Marcel described as a light metal that kept its shape and which was supposedly shipped to Wright-Patterson.
-- The 1949 research was an [[Atomic Energy Commission]] project labelled "restricted", a private-sector standard that Gerb, citing David Grusch, says even special access program holders cannot breach. It was not declassified until 2010.
+- Gerb says the 1949 research was an [[Atomic Energy Commission]] project labelled "restricted", which he calls a private-sector standard that, citing David Grusch, even special access program holders cannot breach. It was not declassified until 2010.
 - [[EJ Center]], a co-author of the 1949 reports, allegedly told his daughter's boyfriend in 1958 that he had studied "Parts retrieved from a flying saucer". The account reached MUFON in 1992 and was published by [[Irena Scott]] in 1994, sixteen years before the reports were declassified.
 - [[Jacques Vallee|Jacques Vallée]] and [[James Fox]] pointed toward Battelle as the private contractor holding UFO materials on Joe Rogan Experience episode 1574 (4 December 2020).
 - [[Ronald S. Moultrie]], who oversaw AARO, its $1.9 million [[Sand Corp]] contract and the December 2022 denial of crash recoveries, has sat on Battelle's advisory board since 2016 and tried to remove the association from his public record.
+
+> [!edit] Attribution clarified 16 October 2026
+> Earlier versions stated as fact that the 1949 research was an Atomic Energy Commission project and that "restricted" was a private-sector standard. Both are Gerb's reading: the reports' contract, AF 33(038)-3736, is an Air Force one, and Restricted was then a US government grade (see the footnote above).
 
 ## Sources
 
@@ -412,3 +415,5 @@ entries:
 - **Concepts**: [[Nitinol (Nickel-Titanium Alloy)]], [[Shape Memory Alloy]], [[Robertson Panel]], [[Atomic Energy Act of 1954]]
 - **Operations**: [[Project Stork]], [[Project Blue Book]], [[Project Sign]], [[Project Grudge]], [[Manhattan Project]]
 - **Events**: [[Roswell Crash]]
+
+[^gerb-battelle-restricted]: Gerb reads the stamp on the 1949 reports as "essentially this is a private sector classification standard in which only need to know readin access is solely allowed", but Restricted was then the lowest US government security grade, below Confidential, until Eisenhower's Executive Order 10501 abolished it from 15 December 1953, as Gerb himself describes it in later videos ([[Videos/The Majestic-12 Documents With Ryan S. Wood/summary|The Majestic-12 Documents]], [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years]]), so the 2024 reading is probably a loose gloss that his later understanding superseded. The Atomic Energy Commission's "Restricted Data" was a separate category, which Gerb distinguishes in the Majestic-12 video, and the reports' contract, AF 33(038)-3736, is an Air Force one ([CIA reading room, EO 10501 regulation](https://www.cia.gov/readingroom/node/790631); [DTIC ADB816149](https://apps.dtic.mil/sti/pdfs/ADB816149.pdf)).
