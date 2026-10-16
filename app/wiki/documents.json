@@ -30,6 +30,24 @@
       "fetchedFrom": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg919.pdf",
       "retrieved": "2026-10-16"
     },
+    "DIA Tehran UFO Report (1976)": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/3b2bd9a8a1798fd30219881d86d16554e2d27af3d8ab398f0716b451ca9ab5b0.pdf",
+      "sha256": "3b2bd9a8a1798fd30219881d86d16554e2d27af3d8ab398f0716b451ca9ab5b0",
+      "bytes": 11396483,
+      "pages": 6,
+      "ocr": "force-ocr",
+      "sourceSha256": "0dffcf6eba065530d46aab81f016f1cc9151b62da0ddca866c64ba5daf6ec4b1",
+      "ocrRequest": "redo",
+      "thumb": {
+        "src": "/documents/dia-tehran-ufo-report-1976.webp",
+        "width": 320,
+        "height": 411
+      },
+      "thumbPage": 3,
+      "source": "https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/routing_slip_ufo_iran.pdf",
+      "fetchedFrom": "https://web.archive.org/web/20260307120154id_/https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/routing_slip_ufo_iran.pdf",
+      "retrieved": "2026-10-16"
+    },
     "Environmental Assessment Report on Avery Technical Center": {
       "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/2da2f38e5e145e7310d68664b37a29a3e4dc434951760da4bdb169b39a3190e0.pdf",
       "sha256": "2da2f38e5e145e7310d68664b37a29a3e4dc434951760da4bdb169b39a3190e0",
@@ -161,18 +179,18 @@
       "retrieved": "2026-10-16"
     },
     "Kona Blue Documents": {
-      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/627a3c488b0d34e402223fd3f4642b1866d2c18ffd05fd99cab3ea7b25aa5996.pdf",
-      "sha256": "627a3c488b0d34e402223fd3f4642b1866d2c18ffd05fd99cab3ea7b25aa5996",
-      "bytes": 13366953,
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/7fe05b90a25c1d11d0896ed2d20b484a9457907523397fd97f9813e5c6e6c5cd.pdf",
+      "sha256": "7fe05b90a25c1d11d0896ed2d20b484a9457907523397fd97f9813e5c6e6c5cd",
+      "bytes": 13366975,
       "pages": 56,
       "ocr": "skip-text",
       "sourceSha256": "a4c22003873e0364c2c4566b48cbf966d54ef79a90650862b41fb2bd1727e03b",
       "thumb": {
         "src": "/documents/kona-blue-documents.webp",
         "width": 320,
-        "height": 415
+        "height": 248
       },
-      "thumbPage": 1,
+      "thumbPage": 2,
       "source": "https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf",
       "fetchedFrom": "https://web.archive.org/web/20260925144502id_/https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf",
       "retrieved": "2026-10-16"
