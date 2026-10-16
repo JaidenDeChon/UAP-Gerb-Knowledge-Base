@@ -9,11 +9,11 @@ videos: ["The 1948 Aztec, New Mexico UFO Crash Retrieval", "The Majestic-12 Docu
 tags: [analysis]
 ---
 
-Two documents from the Majestic collection claim to come from the [[Interplanetary Phenomenon Unit]]. Their authenticity is disputed. The shorter one is a field order dated 4 July 1947. In his Aztec video Gerb says it sends a counter-intelligence team to report to the G2 at Condron Field, and he adds that Condron Field "is of course Roswell". It isn't. Condron Field is the airfield of White Sands Proving Ground, now [[White Sands Missile Range]], on the far side of the Sacramento Mountains from Roswell. Taken at its word, the order sends its team to White Sands. In other videos Gerb names White Sands as a second 1947 recovery area, but he never connects it to this document.
+Two documents from the Majestic collection claim to come from the [[Interplanetary Phenomenon Unit]]. Their authenticity is disputed. The shorter one is a field order dated 4 July 1947. In his Aztec video Gerb says it sends a counter-intelligence team to report to the G2 at Condron Field, and he adds that Condron Field "is of course Roswell". In fact Condron Field is the airfield of White Sands Proving Ground, now [[White Sands Missile Range]], on the far side of the Sacramento Mountains from Roswell. Taken at its word, the order sends its team to White Sands. In other videos Gerb names White Sands as a second 1947 recovery area, but he never connects it to this document.
 
 ## The finding
 
-As Gerb describes it, the IPU field order names Condron Field as the team's destination. Condron Field is a White Sands airfield, not [[Roswell Army Airfield]]. So the Roswell reading is Gerb's gloss. The document doesn't say it. The finding is about where the document points, and says nothing about whether the document is genuine. A forged order and an authentic one would both name the same airfield.
+As Gerb describes it, the IPU field order names Condron Field as the team's destination. Condron Field is a White Sands airfield, not [[Roswell Army Airfield]]. The identification with Roswell is therefore Gerb's own gloss, and the document doesn't make it. The finding concerns only where the document points. It says nothing about whether the document is genuine, since a forged order and an authentic one would name the same airfield.
 
 ## The evidence
 
@@ -25,14 +25,14 @@ As Gerb describes it, the IPU field order names Condron Field as the team's dest
 
 ## How it fits together
 
-Gerb's wider account of 1947 already has two recovery areas, Roswell and White Sands. The field order names an airfield in the second. Read as written, a 4 July order to report to the G2 at Condron Field fits a White Sands recovery, or at least a team staging at White Sands, better than a Roswell one. Gerb's gloss drops that, and the vault's [[Roswell Crash]] coverage takes on a document that may belong partly to the other story. The "of course Roswell" reading isn't original to Gerb. Similar wording appears in at least one online description of the document, which suggests he repeated an existing gloss rather than checked the name.
+Gerb's wider account of 1947 already has two recovery areas, Roswell and White Sands. The field order names an airfield in the second. Read as written, a 4 July order to report to the G2 at Condron Field fits a White Sands recovery, or at least a team staging at White Sands, better than a Roswell one. Gerb's gloss loses that detail, so the vault's [[Roswell Crash]] coverage takes in a document that may belong partly to the other story. The "of course Roswell" reading isn't original to Gerb. Similar wording appears in at least one online description of the document, which suggests he repeated an existing gloss rather than checked the name.
 
 ## What cuts against it
 
-- **The document text was not seen directly.** The original scans on majesticdocuments.com and the Internet Archive couldn't be opened from here. "Condron Field" rests on Gerb's reading plus two search-result descriptions that agree. If the scan reads differently, the finding goes.
-- **The name may not have existed in July 1947.** One airfield historian, Paul Freeman, finds Condron absent from the September 1947 Roswell sectional chart and first charted, with a paved runway and control tower, in September 1948. An NMSU photo record says the field was named for Max Condron, a wartime target-tow pilot who died on a dirt strip there, so a strip may have existed earlier under some name. Only one source was found on the field's opening date, so this is an open question. If Condron Field postdates July 1947, the order names a place that didn't yet exist under that name. That would be a problem for the document, not support for a White Sands recovery.
-- **A forger could have meant Roswell.** If the order is a 1990s fabrication, its author may simply have picked a wrong airfield name. The order would then point at White Sands by mistake, and the reading tells us about the forger, not about 1947.
-- **Gerb's main point survives.** He uses the order for its date and its team list, not its destination, and the date argument is unaffected.
+- The document text was not seen directly. The original scans on majesticdocuments.com and the Internet Archive couldn't be opened from here. "Condron Field" rests on Gerb's reading plus two search-result descriptions that agree. If the scan reads differently, the finding goes.
+- The name may not have existed in July 1947. One airfield historian, Paul Freeman, finds Condron absent from the September 1947 Roswell sectional chart and first charted, with a paved runway and control tower, in September 1948. An NMSU photo record says the field was named for Max Condron, a wartime target-tow pilot who died on a dirt strip there, so a strip may have existed earlier under some name. Only one source was found on the field's opening date, so this is an open question. If Condron Field postdates July 1947, the order names a place that didn't yet exist under that name. That would count against the document and would give no support to a White Sands recovery.
+- A forger could have meant Roswell. If the order is a 1990s fabrication, its author may simply have picked a wrong airfield name. The order would then point at White Sands by mistake, and the reading would say something about the forger and nothing about 1947.
+- Gerb's main point survives. He uses the order for its date and its team list, not its destination, and the date argument is unaffected.
 
 ## Already known?
 
