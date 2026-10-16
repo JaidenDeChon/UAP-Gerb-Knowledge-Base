@@ -1290,7 +1290,7 @@
       "id": "L0018",
       "slice": "S006-accounts",
       "found_at": "2026-10-16T04:25:10Z",
-      "status": "open",
+      "status": "written",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -1337,7 +1337,9 @@
       "not_said_check": "Grepped all transcripts for 'radar' within 40 characters of 'interfer': hits in the Sarbacher (2024-04, neutral, Carl Howe memo), Corso (2025-01, skeptical), Northrop Grumman (2025-01, neutral 'echoes Corso'), Aztec (2025-07, neutral), Sandia (2025-11), and 80 Years (2026-09) videos, plus Manhattan Project 2.0 (2026-05) via 'triangulated radar arrays'. Searched 'changed my mind', 'change my mind', 'used to be skeptical', 'I was skeptical': no hits. No passage acknowledges the shift.",
       "weakest_link": "The intermediate statements are hedged ('possibly', 'bizarre'), and the 2026 Manhattan quote is about Aztec, not Roswell; only the Jan 2025 and Sept 2026 quotes are clean opposites, and the 80 Years line is in a loose end-of-video section. A shift of opinion over 20 months is ordinary, so the post must be framed as how Gerb's view moved and what it moved with (Kissner), not as a gotcha. Fully checkable from the transcripts and their publication dates.",
       "surprise": 2,
-      "support": 4
+      "support": 4,
+      "resolved_at": "2026-10-16T04:53:24Z",
+      "analysis": "Analyses/Gerb went from very skeptical to probably likely on radar downing Roswell.md"
     }
   ]
 }
