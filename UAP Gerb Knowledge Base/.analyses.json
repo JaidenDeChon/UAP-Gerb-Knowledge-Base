@@ -2278,7 +2278,7 @@
       "id": "L0033",
       "slice": "S015-focus",
       "found_at": "2026-10-16T14:07:43Z",
-      "status": "open",
+      "status": "shelved",
       "duplicate_of": null,
       "problems": [],
       "kind": "pattern",
@@ -2333,7 +2333,9 @@
       "surprise": 4,
       "support": 2,
       "impact": 4,
-      "slip": false
+      "slip": false,
+      "resolved_at": "2026-10-16T14:12:15Z",
+      "reason": "Impact below bar after narrowing: the only unsaid point is that Gerb's aside cites a second, single-source Stringfield account (Ka, 1954) near Roswell; its date, place and base name rest on Gerb's paraphrase of Status Report III, which no web source confirms, so it could run only as speculative, which needs impact 5. The doctrine reading adds little (the Roswell-Aztec link is already made in the Aztec video, and the Roswell base's crew answering a nearby crash is explained by proximity), and the misdated-1947 reading is unverifiable. Revive if the Status Report III text of the Ka case is found."
     },
     {
       "id": "L0034",
