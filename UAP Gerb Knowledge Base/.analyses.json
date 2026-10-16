@@ -1029,7 +1029,7 @@
       "id": "L0015",
       "slice": "S005-links",
       "found_at": "2026-10-16T04:25:10Z",
-      "status": "open",
+      "status": "written",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -1099,7 +1099,9 @@
       "not_said_check": "Grepped all transcripts for Gaffney (and the caption spellings Gaffne, Gafney). Hits were in Corso, Northrop pt1, Navy, Lockheed, NRO, 80 Years and Northrop Vol.2. None mentions 'for collection', 'Deputy Director of National Intelligence' or the ODNI next to Gaffney, and none notes that the 2008 and 2011 datings conflict. The NRO video covers only Gaffney's alleged NURO start. A web search found a 2016 AFIO notice saying that 'in 2008 [Gaffney] was Deputy Director of National Intelligence for Collection', after Mary Margaret Graham (2005-2008). Clapper was USD(I), not DNI, in 2008-09. The Cardillo analysis covers the two-attempt structure but not Gaffney's 2008 post or the dating conflict.",
       "weakest_link": "When Gaffney moved from ODNI to DS&T. Search results confirm the ODNI collection post in 2008 (AFIO) but give no start date for DS&T. The vault's 2009 comes from bios the writer should recheck. If he took DS&T early in 2009 and the first Lockheed attempt was in 2009, not 2008, then the early videos are only off by a year and the finding shrinks to Gerb's date slip. The date of the first attempt is also unverified, coming from Sharp's reporting and the AARO history volume as Gerb remembers them. It can be checked against ODNI and CIA press releases from 2008-2009 and against AARO Historical Report Vol.1 on the Kona Blue chronology.",
       "surprise": 3,
-      "support": 3
+      "support": 3,
+      "resolved_at": "2026-10-16T04:36:15Z",
+      "analysis": "Analyses/Gerb's early videos date Gaffney's block to 2008, before he ran the DS&T.md"
     },
     {
       "id": "L0016",
