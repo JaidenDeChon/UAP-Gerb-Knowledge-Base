@@ -3618,7 +3618,7 @@
       "id": "L0052",
       "slice": "S027-focus",
       "found_at": "2026-10-16T19:12:10Z",
-      "status": "open",
+      "status": "shelved",
       "duplicate_of": null,
       "problems": [],
       "kind": "hidden-link",
@@ -3673,7 +3673,9 @@
       "weakest_link": "Myron is a single witness whose story grew over time (the body on the workbench appears only in 1998), and Stringfield's insider 'Uncle' called Kecksburg a crashed spy plane. 'Navy' could mean any Navy office at Wright-Patterson, not Walker's ARL. And since Gerb already ties Kecksburg to the Navy through Walker, the finding adds independent support rather than a new direction, so the writer should weigh whether that clears impact 4. Checkable only through Stringfield's Status Report VI text (whether Myron's Navy wording is his own) and Stan Gordon's Kecksburg book. Not a slip.",
       "impact": 4,
       "support": 3,
-      "slip": false
+      "slip": false,
+      "resolved_at": "2026-10-16T19:22:11Z",
+      "reason": "Adds a supporting detail to a link Gerb already makes (Kecksburg -> Navy via Walker's ARL, stated in the same video that reports Myron's Navy men); the only tie between Myron's Navy and Walker's lab is the service name, Myron is a single witness whose story grew, and a Navy presence at a large Air Force R&D base needs no special explanation, so impact falls below 4 (speculative would need 5)."
     },
     {
       "id": "L0053",
