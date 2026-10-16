@@ -108,6 +108,69 @@
       "handed_out": "2026-10-16T04:18:44Z",
       "ingested": "2026-10-16T04:25:10Z",
       "leads": 3
+    },
+    "S007-timeline": {
+      "lens": "timeline",
+      "items": [
+        "1950s"
+      ],
+      "handed_out": "2026-10-16T04:49:10Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S008-patterns": {
+      "lens": "patterns",
+      "items": [
+        "Operation Upshot-Knothole",
+        "Operation Zodiac",
+        "Project Alberta",
+        "Project Azorian",
+        "Project Blue Book",
+        "Project Condign",
+        "Project Corona",
+        "Project Grudge",
+        "Project Heaven",
+        "Project Interloper",
+        "Project Magnet",
+        "Project Moon Dust",
+        "Project Outgrowth",
+        "Project Palladium",
+        "Project Pounce",
+        "Project Redlight",
+        "Project Sanddollar",
+        "Project Second Story"
+      ],
+      "handed_out": "2026-10-16T04:49:10Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S009-links": {
+      "lens": "links",
+      "items": [
+        "David Grusch|Office of the Director of National Intelligence (ODNI)",
+        "Aurora Program|Bill Hamilton",
+        "Kecksburg Volunteer Fire Department|Project Blue Book",
+        "Kecksburg Volunteer Fire Department|Stan Gordon",
+        "Aztec UFO Crash and Recovery|Jesse Marcel",
+        "David Grusch|US Space Command",
+        "Eric Davis|Steven Lovekin",
+        "1965 Kecksburg, Pennsylvania Crash Retrieval|Johnson Space Center",
+        "Johnson Space Center|Stan Gordon",
+        "Ed (Witness 11063)|Rodrik Castle",
+        "Enrico Fermi|Gino Cecchini",
+        "Eric Davis|Leslie Kean",
+        "Brad Sorenson|McDonnell Douglas",
+        "Jacques Gansler|William A. Owens",
+        "Eric Davis|Hillary Clinton",
+        "Detlev Bronk|Wright Field Crash Retrieval Meeting",
+        "Kevin Knuth|Lockheed Martin",
+        "Enrico Fermi|SIAI-Marchetti Aircraft Company",
+        "Defense Support Program (DSP)|Sean Kirkpatrick",
+        "Kit Green|TRW"
+      ],
+      "handed_out": "2026-10-16T04:49:41Z",
+      "ingested": null,
+      "leads": 0
     }
   },
   "leads": [
