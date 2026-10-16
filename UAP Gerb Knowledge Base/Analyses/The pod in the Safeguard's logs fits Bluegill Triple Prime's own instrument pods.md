@@ -10,7 +10,7 @@ videos: ["US Navy UFO Crash Retrieval & Reverse Engineering Programs"]
 tags: [analysis]
 ---
 
-In his video on Navy crash retrieval programs, Gerb calls the October 1962 [[Bluegill Triple Prime UFO Recovery|Bluegill Triple Prime recovery]] proof that the [[US Navy]] "has indeed participated in at least one acknowledged USO retrieval operation". The documents he points to are the deck logs of the salvage ship USS Safeguard, which record a search, divers and the recovery of a "pod". What the video leaves out is that Bluegill Triple Prime was meant to put pods in the sea. The Thor missile that carried the warhead also released three instrument pods, each about 1,200 pounds, with heat shields and parachutes, and Navy ships and helicopters were there to pick them up. A pod in a recovery ship's log that morning is what the test plan called for.
+In his video on Navy crash retrieval programs, Gerb calls the October 1962 [[Bluegill Triple Prime UFO Recovery|Bluegill Triple Prime recovery]] proof that the [[US Navy]] "has indeed participated in at least one acknowledged USO retrieval operation". The documents he points to are the deck logs of the salvage ship USS Safeguard, which record a search, divers and the recovery of a "pod". The video leaves out that Bluegill Triple Prime was meant to put pods in the sea. The Thor missile that carried the warhead also released three instrument pods, each about 1,200 pounds, with heat shields and parachutes, and Navy ships and helicopters were there to pick them up. A pod in a recovery ship's log that morning is what the test plan called for.
 
 ## The finding
 
@@ -30,7 +30,7 @@ This post does not show that the Safeguard's pod *was* one of the instrument pod
 
 The test's own record says pods were coming down near Johnston Island that morning, were expected to be found, and were found. The ships in the area were there to find them. Gerb's sequence (a search, divers, a net, a helicopter) is the sequence you would expect for a heavy, parachuted, radioactive canister in open water. Even the word "pod" belongs to the test program, and Gerb puts it in quotation marks himself. Before these entries could count as a Navy acknowledgement, something in them would have to separate the Safeguard's pod from the three the test released. Nothing Gerb quotes does.
 
-That matters beyond this one case. Gerb's DSSP timing argument begins with a "US Navy UFO recovery" in 1962. If the logs only show the test's pods being picked up, the timing argument starts from an alleged recovery, not an acknowledged one.
+The point reaches past this one case, because Gerb's DSSP timing argument begins with a "US Navy UFO recovery" in 1962. If the logs only show the test's pods being picked up, that argument starts from an alleged recovery, not an acknowledged one.
 
 ## What cuts against it
 
