@@ -332,6 +332,50 @@
       "handed_out": "2026-10-16T14:36:13Z",
       "ingested": "2026-10-16T14:41:44Z",
       "leads": 2
+    },
+    "S022-patterns": {
+      "lens": "patterns",
+      "items": [
+        "Borland's Triangular Craft Sighting",
+        "Caribbean Island Cruise Missile Recovery USO Encounter",
+        "Inman-Oechsler Telephone Call",
+        "Lubbock Lights",
+        "Malmstrom Air Force Base UFO Incident",
+        "Rodrik Castle UAP Encounter",
+        "SOL Foundation Symposium",
+        "Sol Foundation 2023 Presentation by Kevin Knuth",
+        "Vandenberg Air Force Base UFO Film Incident",
+        "1984 DSP Indian Ocean Detection",
+        "1984 Indian Point UFO Incident",
+        "1987 HMNZS Southland USO Incident",
+        "1991 North Atlantic USO Retrieval",
+        "1996 Bole, Ireland Crash Retrieval",
+        "2008 Needles UFO Crash Retrieval",
+        "2009 Norwegian Spiral Anomaly",
+        "Ascension Island USO Sighting",
+        "Aurora Texas UFO Crash"
+      ],
+      "handed_out": "2026-10-16T15:02:36Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S023-focus": {
+      "lens": "focus",
+      "items": [
+        "Luis Elizondo"
+      ],
+      "handed_out": "2026-10-16T15:02:36Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S024-timeline": {
+      "lens": "timeline",
+      "items": [
+        "1980s"
+      ],
+      "handed_out": "2026-10-16T15:02:36Z",
+      "ingested": null,
+      "leads": 0
     }
   },
   "leads": [
