@@ -183,7 +183,7 @@
       "id": "L0003",
       "slice": "S001-links",
       "found_at": "2026-10-16T03:34:34Z",
-      "status": "open",
+      "status": "written",
       "duplicate_of": null,
       "problems": [],
       "kind": "hidden-link",
@@ -244,7 +244,9 @@
       "not_said_check": "Searched all transcripts for Cardillo and caption forms ('Cardillo', 'Cardio', 'Cardi', 'Cardo'): Lockheed Martin, NRO and Northrop Grumman & TRW Vol.2. None calls him Dempsey's predecessor, places him under Clapper, or connects his DIA deputy directorship to AAWSAP; the Northrop video links him to O'Sullivan only through the Peraton board. Searched 'Dempsey'/'intelligence integration': 80 Years, Northrop Vol.2 and Manhattan Project 2.0 name Dempsey's post but never Cardillo in it.",
       "weakest_link": "Cardillo's role in blocking the transfer is itself an allegation from Rob Jones's research; and holding the DDNI/II post does not by itself put him in the Kona Blue decision. The 2008-09 attempt is from Gerb's memory ('off the top of my head').",
       "surprise": 3,
-      "support": 3
+      "support": 3,
+      "resolved_at": "2026-10-16T04:07:23Z",
+      "analysis": "Analyses/Cardillo held Dempsey's post under Clapper when Kona Blue was blocked.md"
     },
     {
       "id": "L0004",
