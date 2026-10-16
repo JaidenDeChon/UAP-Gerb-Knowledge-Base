@@ -143,6 +143,41 @@
       "fetchedFrom": "https://www.nicap.org/directives/JANAP-146C%20March%2010,%201954.pdf",
       "retrieved": "2026-10-16"
     },
+    "Kona Blue Documents": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/627a3c488b0d34e402223fd3f4642b1866d2c18ffd05fd99cab3ea7b25aa5996.pdf",
+      "sha256": "627a3c488b0d34e402223fd3f4642b1866d2c18ffd05fd99cab3ea7b25aa5996",
+      "bytes": 13366953,
+      "pages": 56,
+      "ocr": "skip-text",
+      "sourceSha256": "a4c22003873e0364c2c4566b48cbf966d54ef79a90650862b41fb2bd1727e03b",
+      "thumb": {
+        "src": "/documents/kona-blue-documents.webp",
+        "width": 320,
+        "height": 415
+      },
+      "thumbPage": 1,
+      "source": "https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf",
+      "fetchedFrom": "https://web.archive.org/web/20260925144502id_/https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf",
+      "retrieved": "2026-10-16"
+    },
+    "Moon Dust New Zealand Cable (1978)": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/9c98f1dc0b653152ea2a0a322cd3019e5226050971ab78414375af52085e08e0.pdf",
+      "sha256": "9c98f1dc0b653152ea2a0a322cd3019e5226050971ab78414375af52085e08e0",
+      "bytes": 207871,
+      "pages": 5,
+      "ocr": "force-ocr",
+      "sourceSha256": "a4e05d0cc7ab3fb3908f4ae45527927c886f645074b1becb13937c66af540ec1",
+      "ocrRequest": "redo",
+      "thumb": {
+        "src": "/documents/moon-dust-new-zealand-cable-1978.webp",
+        "width": 320,
+        "height": 415
+      },
+      "thumbPage": 1,
+      "source": "https://foia.state.gov/DOCUMENTS/1-FY2012/F-2011-05250/DOC_0C17486302/C17486302.pdf",
+      "fetchedFrom": "https://foia.state.gov/DOCUMENTS/1-FY2012/F-2011-05250/DOC_0C17486302/C17486302.pdf",
+      "retrieved": "2026-10-16"
+    },
     "ODNI Preliminary Assessment (2021)": {
       "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/3b699a825c53aab7816b50ffe0c45d4f424ca43da5eaa421736e529f2ac00ac9.pdf",
       "sha256": "3b699a825c53aab7816b50ffe0c45d4f424ca43da5eaa421736e529f2ac00ac9",

@@ -32,7 +32,7 @@ stats:
 
 In this video Gerb follows the paper trail of [[Project Moon Dust]], a US Air Force program whose official remit was to "locate, recover and deliver descended foreign space vehicles". He presents it as one possible Department of Defense program for retrieving crashed UFOs. The video opens with a clip of [[David Grusch]] describing the intelligence officers who confided in him. Gerb says such programs have gone from conspiracy to "outrageous fact" through witnesses like Grusch and legislation like the [[Schumer Amendment (NDAA)|Schumer amendment]] to the 2024 NDAA. Moon Dust, he argues, is a program whose paper trail can actually be followed.
 
-Gerb makes his case in four parts. He first argues that the official investigations were not the whole story: Captain [[Edward J. Ruppelt]] of [[Project Grudge]], [[Project Sign]] and [[Project Blue Book]], and Blue Book's scientific adviser Dr. [[J. Allen Hynek]], both said parallel classified programs were studying UFOs. He then turns to Moon Dust's own charter. A 1961 Air Force draft policy and a 1967 review of the [[USAF 1127th Field Activities Group]] show it had real collection duties, with a large redacted category listed beside the Soviet and American space debris. The third part is the program's work in the field: a 1961 sighting over Karachi, a crashed disc in Nepal in 1968, a 1976 request to Canada, pressure-vessel fragments in New Zealand in 1978 and the [[1978 Bolivia UFO Crash]], Gerb's "favorite case". Memos were addressed more than once to [[Wright-Patterson Air Force Base]]. Last come the denials. In 1992 the Air Force told Senators [[Jeff Bingaman]] and [[Pete Domenici]] that Moon Dust had never existed, then acknowledged it when shown documents, and in 1994 it said the program's files had been destroyed.
+Gerb makes his case in four parts. He first argues that the official investigations were not the whole story: Captain [[Edward J. Ruppelt]] of [[Project Grudge]], [[Project Sign]] and [[Project Blue Book]], and Blue Book's scientific adviser Dr. [[J. Allen Hynek]], both said parallel classified programs were studying UFOs. He then turns to Moon Dust's own charter. A 1961 Air Force draft policy and a 1967 review of the [[USAF 1127th Field Activities Group]] show it had real collection duties, with a large redacted category listed beside the Soviet and American space debris. The third part is the program's work in the field: a 1961 sighting over Karachi, a crashed disc in Nepal in 1968, a 1976 request to Canada, pressure-vessel fragments in New Zealand in 1978 (the [[Moon Dust New Zealand Cable (1978)]]) and the [[1978 Bolivia UFO Crash]], Gerb's "favorite case". Memos were addressed more than once to [[Wright-Patterson Air Force Base]]. Last come the denials. In 1992 the Air Force told Senators [[Jeff Bingaman]] and [[Pete Domenici]] that Moon Dust had never existed, then acknowledged it when shown documents, and in 1994 it said the program's files had been destroyed.
 
 Gerb explains the denials with the [[Wilson-Davis Memo]], in which Admiral [[Thomas Wilson]] is said to describe special access programs being reorganized in the early 1990s to hide crash retrieval. He calls the years from Blue Book's closure in 1969 to AATIP in 2008 the "Dark Ages", when UFO investigation was officially invisible. He ends by rejecting the view that Moon Dust only ever collected foreign and domestic space vehicles.
 
@@ -153,7 +153,7 @@ events:
   - date: "1978"
     title: "Pressure-vessel fragments in New Zealand"
     cue: 456
-    summary: "Moon Dust investigates space fragments found in New Zealand, described as 'spherical or like a pressure vessel'. Gerb compares the shape to David Fravor's Tic Tac, which Fravor likened to a propane tank or pressure vessel with no inlets or outlets."
+    summary: "Moon Dust investigates space fragments found in New Zealand, which Gerb describes as 'spherical or like a pressure vessel' (the embassy cable says 'spherical, perhaps pressure vessels'). He compares the shape to David Fravor's Tic Tac, which Fravor likened to a propane tank or pressure vessel with no inlets or outlets."
     category: event
     significance: notable
     entities:
@@ -253,7 +253,7 @@ rows:
       - { text: "Three cigar-shaped UFOs in close delta formation", cue: 283 }
       - { text: "A crashed circular metal disc", cue: 316 }
       - { text: "Space-related metals from a non-US \"satellite\"", cue: 379 }
-      - { text: "Fragments \"spherical or like a pressure vessel\"", cue: 459 }
+      - { text: "Fragments \"spherical, perhaps pressure vessels\"", cue: 459 }
       - { text: "A dull metallic cylinder, 12 ft long, crashed into a mountainside", cue: 546 }
   - attribute: "Moon Dust's part"
     cells:
@@ -455,10 +455,13 @@ entries:
 - Moon Dust recorded three cigar-shaped UFOs in delta formation over Karachi on 25 April 1961.
 - In 1968 a crashed circular metal disc in Nepal was monitored; a "Moon Dust" cable to the DIA, the 1127th and Wright-Patterson called a Kathmandu visit a "fishing expedition", and a crashed-satellite cover story followed despite a 100% successful satellite launch rate that year.
 - Moon Dust memos from Nepal (1968) and Canada (1976) were addressed to Wright-Patterson, long alleged to be the storage hub for crash retrievals.
-- Fragments Moon Dust investigated in New Zealand in 1978 were described as "spherical or like a pressure vessel", a shape Gerb compares to David Fravor's Tic Tac.
+- Fragments found in New Zealand in 1978 and reported in a "Moondust" cable were "spherical, perhaps pressure vessels". Gerb, who paraphrases this as "spherical or like a pressure vessel", compares the shape to David Fravor's Tic Tac.
 - On 6 May 1978 a cylinder crashed near El Taire, Bolivia, before thousands of witnesses; two US Air Force officers arrived, Cyrus Vance wrote that the appropriate agencies had been contacted, and Moon Dust received the Bolivian military's film and monitored the situation.
 - In 1992 the Air Force told Senators Bingaman and Domenici that Moon Dust had never existed, then acknowledged it when shown documents; in 1994 it told Domenici the files had been destroyed, which Gerb calls categorically false.
 - Gerb links the denials and alleged destruction of records to the early-1990s reorganization of special access programs described in the Wilson-Davis memo, and calls 1969–2008 the "Dark Ages" of hidden UFO investigation.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions of the New Zealand key claim, timeline entry and comparison table quoted "spherical or like a pressure vessel" as the fragments' recorded description. That is Gerb's paraphrase; the cable, WELLINGTON 06093 of 7 November 1978, says "spherical, perhaps pressure vessels".
 
 ## Sources
 

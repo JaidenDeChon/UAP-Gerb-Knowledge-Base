@@ -29,7 +29,10 @@ A 1976 memo obtained through FOIA shows that Moon Dust asked Canadian officials 
 
 ### 1978 New Zealand Space Fragments
 
-In 1978, Moon Dust investigated space fragments found in New Zealand, described as "spherical or like a pressure vessel." Commander [[David Fravor]] used the same comparison for the [[2004 Nimitz UAP Encounter (Tic Tac)|Tic Tac UAP]] he encountered in 2004, calling it "similar to a propane tank or pressure vessel without any inlets or outlets."
+In November 1978, the US Embassy in Wellington reported two "apparent space fragments" found in farm fields south of Ashburton, on New Zealand's South Island, in a secret cable headed "MOONDUST: NEW ZEALAND" (the [[Moon Dust New Zealand Cable (1978)]]). It described them as "spherical, perhaps pressure vessels", with no identifying marks. New Zealand's Department of Scientific and Industrial Research was examining them, and the embassy asked Washington for guidance. Gerb paraphrases the description as "spherical or like a pressure vessel". Commander [[David Fravor]] used the same comparison for the [[2004 Nimitz UAP Encounter (Tic Tac)|Tic Tac UAP]] he encountered in 2004, calling it "similar to a propane tank or pressure vessel without any inlets or outlets."
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said Moon Dust itself investigated the fragments and quoted "spherical or like a pressure vessel" as their description. That is Gerb's paraphrase. The cable (WELLINGTON 06093, 7 November 1978) says "spherical, perhaps pressure vessels", and it shows New Zealand's DSIR examining the objects while the embassy reported them under the Moon Dust heading.
 
 ### 1978 Bolivia UFO Crash
 
