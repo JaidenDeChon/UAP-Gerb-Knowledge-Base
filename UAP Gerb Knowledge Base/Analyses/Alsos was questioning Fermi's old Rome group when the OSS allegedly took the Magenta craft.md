@@ -9,13 +9,13 @@ videos: ["The 1933 Magenta, Italy UFO Crash", "80 Years of UFO Crash Retrieval a
 tags: [analysis]
 ---
 
-Gerb tells three stories that he never puts together. In his Magenta video, OSS agents take Mussolini's 1933 craft out of Italy in 1944 or 1945. In his 80-year timeline he relays a claim from Marconi's family that [[Enrico Fermi]] led the commission that studied the craft. In his Manhattan Project 2.0 video he presents the [[Alsos Mission]], the Manhattan Project's team for seizing enemy science, as the blueprint for UFO crash retrieval teams. Read together, they meet in one place: Rome in summer 1944, where Alsos and an OSS agent were questioning the physicists of Fermi's old institute.
+Gerb tells three stories that he never puts together. In his Magenta video, OSS agents take Mussolini's 1933 craft out of Italy in 1944 or 1945. In his 80-year timeline he relays a claim from Marconi's family that [[Enrico Fermi]] led the commission that studied the craft. In his Manhattan Project 2.0 video he presents the [[Alsos Mission]], the Manhattan Project's team for seizing enemy science, as the blueprint for UFO crash retrieval teams. Taken together, the three stories point to Rome in summer 1944, where Alsos and an OSS agent were questioning the physicists of Fermi's old institute.
 
 ## The finding
 
 After Rome fell on 4 June 1944, Alsos teams under Colonel Boris Pash moved into the city. OSS agent Moe Berg, who worked alongside them, spent that summer talking to Italian physicists, Edoardo Amaldi and Gian Carlo Wick among them. Both had been members of Fermi's group at the University of Rome. Fermi had been in the United States since January 1939 and moved to Los Alamos in September 1944. So in the year Gerb's sources give for the OSS recovery, the only US team known to be hunting Italian science reported to the program Fermi worked in, and it was questioning his former colleagues.
 
-That is as far as the evidence goes. It does not show that Alsos or Berg ever heard of RS-33 or the craft.
+The evidence stops there. It does not show that Alsos or Berg ever heard of RS-33 or the craft.
 
 ## What cuts against it
 
