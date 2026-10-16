@@ -19,7 +19,10 @@ Drawing on his engineering specialization in blast-effects analysis, Stansel est
 
 [[Bill Uhouse]], a 14-year USMC veteran and mechanical engineer whose service record has been independently verified, claimed separately that a representative from [[Link Aviation]] recruited him in the late 1950s to help build a flying disc simulator modeled on the Kingman craft. Uhouse placed the craft's transport at [[Area 51]] (Groom Lake) and the occupants at [[Los Alamos National Laboratory]]. The simulator allegedly became operational between 1963 and 1964.
 
-In 1997, a pilot approached researcher [[Leonard Stringfield]] at Lunken Airport in Cincinnati, Ohio, and claimed to have been at the crash site. Independently of Stansel, the pilot described the occupants as approximately 4 feet tall, large-eyed and brown-skinned, in silvery metallic suits, which is consistent with Stansel's account.
+After a lecture at Lunken Airport in Cincinnati, Ohio, a pilot approached researcher [[Leonard Stringfield]] and claimed to have been at the crash site. Gerb dates the encounter to 1997,[^gerb-kingman-stringfield-1997] but Stringfield died in December 1994, so it must have come earlier. Independently of Stansel, the pilot described the occupants as approximately 4 feet tall, large-eyed and brown-skinned, in silvery metallic suits, which is consistent with Stansel's account.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions dated the encounter to 1997 as fact. That is the year Gerb gives in the Kingman video, but Stringfield died on 18 December 1994 ([Wikipedia, Leonard H. Stringfield](https://en.wikipedia.org/wiki/Leonard_H._Stringfield)).
 
 ## Institutional Context and Legacy
 
@@ -36,3 +39,5 @@ Three months after the Kingman crash, the USAF issued Regulation 200-2, divertin
 - [[Videos/The 1953 Kingman, Arizona UFO Crash/summary|The 1953 Kingman, Arizona UFO Crash]]
 - [[Videos/Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2/summary|Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2]]
 - [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
+
+[^gerb-kingman-stringfield-1997]: Gerb says "in 1997 Leonard Stringfield a respected UFO researcher was approached by a pilot after a lecture at the lcan airport in Cincinnati Ohio", but Stringfield died on 18 December 1994, so the encounter must have come earlier and the year is probably a slip ([Wikipedia, Leonard H. Stringfield](https://en.wikipedia.org/wiki/Leonard_H._Stringfield); [Mental Floss, "Retrobituaries: Leonard Stringfield"](https://www.mentalfloss.com/history/retrobituaries-leonard-stringfield-ufologist)).

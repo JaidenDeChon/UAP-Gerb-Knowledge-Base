@@ -3480,7 +3480,7 @@
       "id": "L0050",
       "slice": "S025-focus",
       "found_at": "2026-10-16T19:12:10Z",
-      "status": "footnote-candidate",
+      "status": "footnoted",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -3527,7 +3527,9 @@
       "weakest_link": "Mostly a slip by Gerb (a title carried forward from Bush's earlier career, and 1941 for 1946), so it belongs in the footnote queue. Checkable: Bush RDB tenure 30 Sep 1947-14 Oct 1948 (Wikipedia; Physics Today 1948 'Vannevar Bush resigns'); NACA chairmanship Bush 1939-41, Hunsaker 1941-56 (NASA history). The Aztec framing partly follows Sarbacher's own words, so the 1950 'R&D board spearheaded by Bush' wording may be Sarbacher's memory as much as Gerb's.",
       "impact": 2,
       "support": 4,
-      "slip": true
+      "slip": true,
+      "resolved_at": "2026-10-16T19:24:39Z",
+      "footnote": "gerb-sarbacher-bush-chairs"
     },
     {
       "id": "L0051",
@@ -3681,7 +3683,7 @@
       "id": "L0053",
       "slice": "S027-focus",
       "found_at": "2026-10-16T19:12:10Z",
-      "status": "footnote-candidate",
+      "status": "footnoted",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -3706,13 +3708,15 @@
       "weakest_link": "A single slip by Gerb, or a caption error, explains it fully. The true year is not in the vault and needs checking against Stringfield's Status Report text before a footnote gives a corrected year; otherwise the footnote should only say it must predate December 1994.",
       "impact": 2,
       "support": 4,
-      "slip": true
+      "slip": true,
+      "resolved_at": "2026-10-16T19:24:39Z",
+      "footnote": "gerb-kingman-stringfield-1997"
     },
     {
       "id": "L0054",
       "slice": "S027-focus",
       "found_at": "2026-10-16T19:12:10Z",
-      "status": "footnote-candidate",
+      "status": "footnoted",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -3747,7 +3751,9 @@
       "weakest_link": "A single slip explains it, perhaps by conflating Cooper with the 1984 Shandera film drop. Cooper's 1992 start can be checked on majesticdocuments.com (Timothy S. Cooper source page). The Tim Cooper vault page already notes the Peru discrepancy.",
       "impact": 2,
       "support": 4,
-      "slip": true
+      "slip": true,
+      "resolved_at": "2026-10-16T19:24:39Z",
+      "footnote": "gerb-cooper-1980s"
     }
   ]
 }
