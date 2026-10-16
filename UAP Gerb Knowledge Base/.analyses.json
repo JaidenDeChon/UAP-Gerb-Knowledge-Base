@@ -4596,7 +4596,7 @@
       "id": "L0066",
       "slice": "S036-accounts",
       "found_at": "2026-10-16T20:08:07Z",
-      "status": "footnote-candidate",
+      "status": "footnoted",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -4629,7 +4629,9 @@
       "weakest_link": "A single misremembered year explains it completely, so this is a slip. The launch date of 16 November 1996 is public record (NASA NSSDCA). The order of events matters only slightly to Gerb's argument.",
       "impact": 2,
       "support": 5,
-      "slip": true
+      "slip": true,
+      "resolved_at": "2026-10-16T20:18:26Z",
+      "footnote": "gerb-mars96-1996"
     }
   ]
 }
