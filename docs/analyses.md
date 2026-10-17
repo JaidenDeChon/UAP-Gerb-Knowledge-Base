@@ -87,6 +87,7 @@ The headline and the dek are what a viewer sees on the index, so they have to ma
 - **No possessive shorthand.** Not "Gerb's Grusch", "Gerb's ATIP" or "Gerb's Kona Blue theory". Say what you mean: "How Gerb's view of Grusch and AARO changed", "Gerb's theory about why Kona Blue was blocked".
 - **The dek is two or three short sentences,** each with one point: what Gerb or the source says, what the record shows, and why it matters. Spell out or explain every acronym and name a newcomer wouldn't know. No sentence should need rereading.
 - **No compressed verbs or insider phrasing:** "Gerb rests X on Y", "fits", "sits oddly with", "runs back to". Say "Gerb's evidence for X is Y" or "doesn't match".
+- **The opening paragraph follows the same rules.** Set the scene first (who or what this is about, and why it matters), then the specifics, one idea per sentence. Explain each acronym, office, program, document or minor person on first mention in a few plain words. Leave names and dates the opening doesn't need for the evidence section. About 80 to 150 words.
 - Keep it as narrow as the finding, but plainly worded. For an open question, hedge in plain words ("Tom DeLonge's NRO adviser may not have been Luis Elizondo"). Headlines can't end in a question mark, because the headline is the file name.
 
 ```yaml
