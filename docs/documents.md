@@ -21,7 +21,7 @@ doc_kind: memo                  # memo, report, letter, notes, regulation, law, 
 provenance: official            # official | leaked | disputed
 rights: public-domain           # public-domain | open-licence | copyrighted | unclear
 source_url: "https://vault.fbi.gov/…"   # the issuer's own copy, checked by hand
-fetch_url: "https://…/file.pdf" # optional: a direct PDF link when source_url is a landing page
+fetch_url: "https://…/file.pdf" # optional: a direct PDF link when source_url is a landing page, or nara-images (below)
 thumb_page: 2                   # optional: the page to use as the thumbnail (default 1)
 tags:
   - document
@@ -72,15 +72,15 @@ node scripts/fetch-documents.mjs page "Hottel Memo" 2     # render a page to a P
 
 For each document it:
 
-1. Downloads `fetch_url` or `source_url`. If the site refuses, it falls back to the newest Wayback capture of that exact URL and records which copy it used.
+1. Downloads `fetch_url` or `source_url`. If the site refuses, it falls back to the newest Wayback capture of that exact URL and records which copy it used. With `fetch_url: nara-images` and a National Archives catalog record as `source_url`, it downloads the record's page images in order instead, re-encodes each as a 2400px greyscale JPEG at about 220 dpi (NARA's JPEG 2000 masters are far too big to host: 654 MB for Grudge), and binds them into one PDF with `img2pdf`. Use it only when the record has no PDF.
 2. Checks the bytes are a PDF and counts the pages (`pdfinfo`).
 3. Renders the thumbnail page into `app/public/documents/<slug>.webp` (`pdftoppm`, then `cwebp`), at 320px wide, typically 3 to 40 KB.
 4. Uploads the PDF to the public `documents` bucket in the site's Supabase project (`uap-gerb-kb`), named `<sha256>.pdf`. A file never changes under its name, so it's served with a one-year cache.
 5. Records URL, hash, size, page count, thumbnail, source, the copy it fetched from and the date in `app/wiki/documents.json`.
 
-It needs poppler (`pdfinfo`, `pdftoppm`, `pdftotext`), `cwebp` and `ocrmypdf` (`brew install poppler webp ocrmypdf`), and `SUPABASE_URL` plus `SUPABASE_SERVICE_ROLE_KEY` in the environment or in `app/.env.local`, which git ignores. The service-role key can write to the bucket, so it never leaves the machine that runs the script and never reaches the site. Get it from the Supabase dashboard (Project settings → API keys) or with `supabase projects api-keys --project-ref xecbgycxisqdrsswtecs`. `fetch-documents.mjs init` creates the bucket. It has already been run.
+It needs poppler (`pdfinfo`, `pdftoppm`, `pdftotext`), `cwebp` and `ocrmypdf` (`brew install poppler webp ocrmypdf`, plus `img2pdf` and macOS's `sips` for `nara-images`), and `SUPABASE_URL` plus `SUPABASE_SERVICE_ROLE_KEY` in the environment or in `app/.env.local`, which git ignores. The service-role key can write to the bucket, so it never leaves the machine that runs the script and never reaches the site. Get it from the Supabase dashboard (Project settings → API keys) or with `supabase projects api-keys --project-ref xecbgycxisqdrsswtecs`. `fetch-documents.mjs init` creates the bucket. It has already been run.
 
-The bucket's file size limit is 50 MB. Very large collections (Blue Book) should go up as individual case files, not merged volumes.
+The bucket's file size limit is 1000 MB (the project's global limit, under Storage → Settings in the Supabase dashboard, is set to match; it needs the Pro plan). Very large collections (Blue Book) should go up as individual case files, not merged volumes.
 
 PDFs are not in git. The bucket holds the only hosted copy, and `documents.json` holds each file's hash and where it came from, so any file can be fetched again and checked.
 
@@ -169,6 +169,6 @@ For that to work unattended:
 - **The Condon Report** is linked, not hosted: its title page carries the University of Colorado's copyright. Some claims on its page (the RB-47 launching from Carswell, the 600-mile pursuit, a CIA report of the incident) aren't in volume 1 and still need a source.
 - **The Avery Technical Center assessment** is hosted as a federal work, since the Army Corps of Engineers prepared it for the Air Force, with help from a contractor. If that call is ever doubted, set `rights: unclear` and it becomes link-only.
 - **No public copy** is known for the Bechtel tunneling report (catalogued by NTIS as PB-242 777, with no full text online), the Denb Report, SOM 1-01 or the Bowen Manuscript beyond aggregator samples, or the alleged UAPTF report beyond forum reposts.
-- **The Project Grudge report** has a page but no file. NARA (catalog 461456800) serves it only as 412 page images, and every PDF copy found (Wikimedia Commons, 75.6 MB and 126.5 MB) is over the bucket's 50 MB limit. Hosting it needs a higher limit, a split into parts, or a PDF built from NARA's images. Its transcription draft has pages 1 to 10 checked.
+- **The Project Grudge report** is hosted as a PDF bound from NARA's 412 page images (`fetch_url: nara-images`, 119 MB). Its transcription is in progress in the drafts folder.
 - **Pages with no public scan yet:** the 1961 AFCIN-1E-O memo on intelligence team personnel (only CUFON's 1986 retyped text found; the image Gerb shows is a 2016 "enhanced" copy whose host wasn't found), the Willingham affidavit (only Kevin Randle's transcription) and the Stringfield Status Reports (in print, copyrighted).
 - **Documents mentioned without a page yet**, for example: the Congressional Record entries Gerb cites, and Grusch's IG complaint (not public). The daily run's documents phase picks these up as videos mention them.

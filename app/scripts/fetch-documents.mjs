@@ -18,7 +18,11 @@
 // carries a `source_url:` someone has checked is the issuer's own copy of this
 // exact document, and `rights: public-domain` or `rights: open-licence`. A note
 // may add `fetch_url:` for a direct PDF link when `source_url` is a landing
-// page. `fetch`, for each such note:
+// page, or `fetch_url: nara-images` when `source_url` is a National Archives
+// catalog record that has page images and no PDF: the images are downloaded
+// in order, each re-encoded as a 2400px greyscale JPEG (NARA's JPEG 2000
+// masters run to hundreds of MB), and bound into one PDF with `img2pdf`.
+// `fetch`, for each such note:
 //   1. downloads `fetch_url` or `source_url`. When the site refuses scripts (a
 //      403 from a .gov or .mil CDN is common) it asks the Wayback Machine for
 //      the newest capture of that URL and downloads the original bytes from
@@ -49,7 +53,8 @@
 // scripts.
 //
 // Needs poppler (pdfinfo, pdftoppm, pdftotext), cwebp and ocrmypdf
-// (`brew install poppler webp ocrmypdf`), and SUPABASE_URL plus
+// (`brew install poppler webp ocrmypdf`), plus img2pdf and macOS's `sips` for
+// `nara-images`, and SUPABASE_URL plus
 // SUPABASE_SERVICE_ROLE_KEY in the environment or in app/.env.local (never
 // committed). The service-role key can write to storage; it stays on the
 // machine that runs this script and is never sent to the site.
@@ -75,8 +80,12 @@ const USER_AGENT = 'UAPGerbKnowledgeBase-DocumentFetcher/1.0 (https://github.com
 const MIN_INTERVAL_MS = 1100
 const THUMB_WIDTH = 320
 const HOSTABLE = new Set(['public-domain', 'open-licence'])
-/** Supabase's own per-file ceiling on the free plan; raise it with the plan. */
-const MAX_BYTES = 50 * 1024 * 1024
+/** The bucket's per-file limit (the project's global limit is set to match). */
+const MAX_BYTES = 1000 * 1024 * 1024
+/** Long side of a page built from NARA's images: about 220 dpi on a letter page. */
+const NARA_PAGE_PX = 2400
+const NARA_PAGE_DPI = 220
+const NARA_JPEG_QUALITY = 45
 
 /* ------------------------------------------------------------- args -- */
 
@@ -221,7 +230,42 @@ async function waybackCopy(url) {
   return timestamp ? `https://web.archive.org/web/${timestamp}id_/${url}` : null
 }
 
+/**
+ * A PDF bound from the page images of a National Archives catalog record,
+ * in the record's own order. Returns null when the record has no images.
+ */
+async function naraImagesPdf(source) {
+  const naId = /catalog\.archives\.gov\/id\/(\d+)/.exec(source)?.[1]
+  if (!naId) return null
+  const res = await politeFetch(`https://catalog.archives.gov/proxy/records/search?naId=${naId}`)
+  const record = res.ok ? (await res.json())?.body?.hits?.hits?.[0]?._source?.record : null
+  const images = (record?.digitalObjects ?? []).filter(o => /^Image/.test(o.objectType))
+  if (!images.length) return null
+  const work = mkdtempSync(join(tmpdir(), 'nara-'))
+  try {
+    const pages = []
+    for (const [i, image] of images.entries()) {
+      const bytes = await politeFetch(image.objectUrl).then(r => (r.ok ? r.arrayBuffer() : null))
+      if (!bytes) throw new Error(`NARA image ${image.objectFilename} didn't download`)
+      const master = join(work, image.objectFilename)
+      const page = join(work, `${String(i + 1).padStart(4, '0')}.jpg`)
+      writeFileSync(master, Buffer.from(bytes))
+      execFileSync('sips', ['-s', 'format', 'jpeg', '-s', 'formatOptions', String(NARA_JPEG_QUALITY), '-Z', String(NARA_PAGE_PX), master, '--out', page], { stdio: 'ignore' })
+      rmSync(master)
+      pages.push(page)
+      if ((i + 1) % 50 === 0) console.log(`  ${i + 1} of ${images.length} page images`)
+    }
+    const out = join(work, 'bound.pdf')
+    execFileSync('img2pdf', ['--nodate', '--imgsize', `${NARA_PAGE_DPI}dpi`, '--output', out, ...pages])
+    return { bytes: readFileSync(out), from: `${source} (${images.length} page images, re-encoded as JPEG)` }
+  }
+  finally {
+    rmSync(work, { recursive: true, force: true })
+  }
+}
+
 async function fetchPdf(doc) {
+  if (doc.fetchUrl === 'nara-images') return naraImagesPdf(doc.source)
   const url = doc.fetchUrl || doc.source
   const direct = await download(url)
   if (direct) return { bytes: direct, from: url }

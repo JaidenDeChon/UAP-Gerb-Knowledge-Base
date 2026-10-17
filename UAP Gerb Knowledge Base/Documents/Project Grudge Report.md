@@ -10,6 +10,7 @@ doc_kind: report
 provenance: official
 rights: public-domain
 source_url: "https://catalog.archives.gov/id/461456800"
+fetch_url: nara-images
 tags:
   - document
 ---
@@ -33,10 +34,10 @@ His example of Grudge at work, the [[Lubbock Lights]] of August 1951, came two y
 
 ## The copy
 
-The source is the National Archives' scan of the report, from the Project Blue Book administrative files (Record Group 341), catalog entry 461456800. The archives serve it only as 412 separate page images, not as a PDF, so no copy is hosted here yet. Every PDF of the report found online is an aggregator's, and each is over the site's 50 MB limit for a hosted file:
+The source is the National Archives' scan of the report, from the Project Blue Book administrative files (Record Group 341), catalog entry 461456800. The archives serve it only as 412 separate page images, not as a PDF. The copy hosted here binds those images, in the archives' order, into one PDF, with each page re-encoded as a smaller JPEG (the archives' JPEG 2000 masters come to 654 MB) and a text layer added by OCR. The PDFs of the report found online are aggregators' copies, from other scans:
 
-- Wikimedia Commons, "Project GRUDGE Report 1949.pdf", 75.6 MB, which credits NICAP's scans: https://commons.wikimedia.org/wiki/File:Project_GRUDGE_Report_1949.pdf
-- Wikimedia Commons, "Project Grudge Report, 1949.pdf", 126.5 MB, which credits majesticdocuments.com: https://commons.wikimedia.org/wiki/File:Project_Grudge_Report,_1949.pdf
+- Wikimedia Commons, "Project GRUDGE Report 1949.pdf", 413 pages, 75.6 MB, which credits NICAP's scans: https://commons.wikimedia.org/wiki/File:Project_GRUDGE_Report_1949.pdf
+- Wikimedia Commons, "Project Grudge Report, 1949.pdf", 404 pages, 126.5 MB, which credits majesticdocuments.com: https://commons.wikimedia.org/wiki/File:Project_Grudge_Report,_1949.pdf
 - NICAP's copy, split into ten PDFs of 7 to 10 MB: http://www.nicap.org/grudge/grudge_dir.htm
 
 The Air Force Declassification Office released a separate 29-page file of Grudge records in 2011 (AFD-110719-005). It opens with a letter of 4 January 1950 recommending that special project action on "flying saucer" reports be discontinued; the letter refers to the "Project Grudge Technical Report" but isn't the report.
