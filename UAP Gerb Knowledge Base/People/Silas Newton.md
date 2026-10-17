@@ -14,7 +14,7 @@ Silas M. Newton (died 1972) was a Denver-based oil entrepreneur and geophysicist
 
 Gerb gives Newton's date of birth as 19 July 1897; the FBI's published file on him gives his birth year as 1887. Newton earned a bachelor's degree from Baylor University, studied at Yale, and did postgraduate work at the University of Berlin. He became successful in the oil industry through his background as a geophysicist specializing in petroleum detection.
 
-An FBI report of February 1941 described him as a man of good character with a very substantial income. Through his professional contacts Newton came to know [[Leo GeBauer]] and a group of scientists referred to collectively as "Dr. G," from whom he reportedly received information about the Aztec crash and prototypes of oil-finding devices later called "doodlebugs."
+An [[FBI File on Silas Newton|FBI report]] of February 1941 described him as a man of good character with a very substantial income. Through his professional contacts Newton came to know [[Leo GeBauer]] and a group of scientists referred to collectively as "Dr. G," from whom he reportedly received information about the Aztec crash and prototypes of oil-finding devices later called "doodlebugs."
 
 ## Timeline
 
@@ -50,8 +50,8 @@ events:
       - "Air Force Office of Special Investigations"
       - "George Koehler"
   - date: "1950-03-31"
-    title: "FBI letter names him \"Mr. X\""
-    summary: "A letter to J. Edgar Hoover reports that Newton, alias Mr. X, is said to know of a flying disc and recovered bodies."
+    title: "FBI memo names him \"Mr. X\""
+    summary: "A New Orleans field office memo to J. Edgar Hoover passes on a report that Newton, \"also known as a mysterious Mr. X\", claims a disc with eighteen dead three-foot occupants was found on land he leased in the Mojave Desert."
     category: document
     entities:
       - "J. Edgar Hoover"
@@ -63,11 +63,11 @@ events:
     entities:
       - "Frank Scully"
   - date: "1951-04-25"
-    title: "Cahn writes to Hoover about him"
-    summary: "J. P. Cahn tells the FBI director that Newton is preparing \"a hoax or swindle of large proportions\"."
+    title: "California asks Hoover about him"
+    summary: "The California Attorney General's office, in a letter signed by Arthur H. Sherry, tells the FBI director that Newton seems to be engaged in \"a hoax or swindle of large proportions\". Hoover replies on 3 May that the FBI has made no investigation of him. Gerb credits the letter to J. P. Cahn."
     category: document
     entities:
-      - "J. P. Cahn"
+      - "FBI File on Silas Newton"
       - "J. Edgar Hoover"
   - date: "1952-09"
     title: "Cahn's exposé"
@@ -99,6 +99,9 @@ events:
     category: person
 ---
 ::
+
+> [!edit] Corrected 16 October 2026
+> The timeline used to call the 31 March 1950 item a letter and to say J. P. Cahn wrote to Hoover on 25 April 1951. In the FBI file the first is a New Orleans field office memo and the second a letter from the California Attorney General's office, signed by Arthur H. Sherry.
 
 ## On the Record
 
@@ -149,7 +152,7 @@ entries:
     note: "Co-defendant in the 1953 fraud trial; Cahn named him the sole Dr. G, which GeBauer always denied."
   - name: "J. P. Cahn"
     role: "Journalist"
-    note: "Failed to buy the story, wrote to Hoover about Newton, published the 1952 exposé and helped the prosecution."
+    note: "Failed to buy the story, published the 1952 exposé and helped the prosecution. Gerb also credits him with 1951 letters to Hoover that the FBI file shows came from the California Attorney General's office."
   - name: "Herman Flader"
     role: "Investor and complainant"
     note: "The only one of 33 investors to complain; the fraud charges were brought on his behalf."
@@ -158,12 +161,15 @@ entries:
     note: "Helped set up and record the 1950 lecture, and was questioned by AFOSI the next day."
   - name: "Scott and Suzanne Ramsey"
     role: "Researchers and authors"
-    note: "Obtained Newton's FBI file, found his recordings and manuscript, and see the trial as retaliation for the leak."
+    note: "Obtained Newton's FBI files, found his recordings and manuscript, and see the trial as retaliation for the leak."
   - name: "William Steinman"
     role: "Researcher and author"
     note: "Read the trial's court records and argues the prosecution was targeted."
 ---
 ::
+
+> [!edit] Corrected 16 October 2026
+> Cahn's entry used to say he wrote to Hoover about Newton. The 1951 letters Gerb credits to him came from the California Attorney General's office, according to the FBI file.
 
 ## Role in the Aztec Disclosure
 
@@ -175,7 +181,10 @@ Newton then gave [[Frank Scully]] detailed information for *Behind the Flying Sa
 
 ## Government Attention
 
-The lecture drew official interest almost at once. According to Gerb's 2025 video, [[Air Force Office of Special Investigations|AFOSI]] questioned [[George Koehler]] the day after it, and a 31 March 1950 letter to [[J. Edgar Hoover]] reported that Newton, "aka Mr. X," was said to know of a flying disc and recovered bodies. On 30 September 1950 Army CID and the FBI staged a sting in Denver to intercept the sale of photographs of the Aztec saucer. The FBI's files on Newton, 289 pages of which were released to [[Scott and Suzanne Ramsey]] with more than 100 pages withheld, go back to an 18 February 1941 report finding him of good character, with a substantial income and no sign of espionage. In 1951 journalist [[J. P. Cahn]] wrote to Hoover accusing Newton of preparing "a hoax or swindle of large proportions."
+The lecture drew official interest almost at once. According to Gerb's 2025 video, [[Air Force Office of Special Investigations|AFOSI]] questioned [[George Koehler]] the day after it. On 31 March 1950 the FBI's New Orleans office sent [[J. Edgar Hoover]] a memo, subject "Flying Discs", passing on a second-hand report that "a prominent Denver oilman named Silas Newton, also known as a mysterious Mr. X," claimed a disc had been found intact on land he leased in the Mojave Desert, with eighteen three-foot-tall occupants, all dead. On 30 September 1950 Army CID and the FBI staged a sting in Denver to intercept the sale of photographs of the Aztec saucer. The [[FBI File on Silas Newton|FBI's files on Newton]] go back to an 18 February 1941 Denver report, made in an espionage inquiry into someone close to him, finding him of good character, with a very substantial income and no sign of espionage. Gerb says 289 pages of them were released to [[Scott and Suzanne Ramsey]], with more than 100 withheld; the FBI Vault's release has 77. On 25 April 1951 the California Attorney General's office, in a letter signed by Arthur H. Sherry, asked Hoover about Newton, saying he appeared to be engaged in "the perpetration of a hoax or swindle of large proportions." Hoover replied on 3 May that the FBI had made no investigation of Newton bearing on the inquiry. Gerb's video presents these letters as [[J. P. Cahn]]'s.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions called the 31 March 1950 item a letter, and said Cahn wrote to Hoover in 1951 accusing Newton of preparing "a hoax or swindle of large proportions." In the FBI file the 1950 item is a memo from the New Orleans field office, and the April 1951 letter with that phrase came from the California Attorney General's office, signed by Arthur H. Sherry. Cahn is not named in it. Gerb attributes the letters to Cahn.
 
 Cahn's September 1952 article, "The Flying Saucers and the Mysterious Little Men", made two charges against Newton that Gerb's video answers.
 

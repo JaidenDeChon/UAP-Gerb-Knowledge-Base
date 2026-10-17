@@ -41,7 +41,10 @@ The reference to three recovered saucers has led to speculation about whether th
 
 ## Connection to the Aztec Case
 
-UAP Gerb's video on the [[Aztec UFO Crash and Recovery|1948 Aztec, New Mexico crash]] places the memo in the same weeks as the government's first reactions to [[Silas Newton]]'s 8 March 1950 University of Denver lecture on the Aztec story: [[Air Force Office of Special Investigations|AFOSI]]'s questioning of [[George Koehler]], who recorded the lecture, and a 31 March 1950 FBI letter naming Newton as "Mr. X." Until the memo was released in fuller form, many researchers assumed Newton was its ultimate source. Gerb notes that its saucers (three, about 50 feet across) do not match the 99.9-foot Aztec disc, but stresses its claim that radar in New Mexico interfered with the craft, a detail that also recurs in the Aztec accounts.
+UAP Gerb's video on the [[Aztec UFO Crash and Recovery|1948 Aztec, New Mexico crash]] places the memo in the same weeks as the government's first reactions to [[Silas Newton]]'s 8 March 1950 University of Denver lecture on the Aztec story: [[Air Force Office of Special Investigations|AFOSI]]'s questioning of [[George Koehler]], who recorded the lecture, and a 31 March 1950 FBI memo, in the [[FBI File on Silas Newton|FBI's file on Newton]], naming him as "Mr. X." Until the memo was released in fuller form, many researchers assumed Newton was its ultimate source. Gerb notes that its saucers (three, about 50 feet across) do not match the 99.9-foot Aztec disc, but stresses its claim that radar in New Mexico interfered with the craft, a detail that also recurs in the Aztec accounts.
+
+> [!edit] Corrected 16 October 2026
+> This paragraph used to call the 31 March 1950 item a letter. In the FBI's file on Newton it is an office memorandum to Hoover from the New Orleans field office (Gerb calls it a letter).
 
 ## Radar Interference Theory
 

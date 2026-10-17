@@ -230,9 +230,9 @@ events:
       - "Guy Hottel"
       - "J. Edgar Hoover"
   - date: "1950-03-31"
-    title: "FBI letter names Newton as 'Mr. X'"
+    title: "FBI memo names Newton as 'Mr. X'"
     cue: 2832
-    summary: "A 31 March 1950 letter to Hoover reported that Silas Newton, alias Mr. X, was said to have knowledge of a flying disc and recovered bodies, showing the Bureau was tracking Newton within weeks of his lecture."
+    summary: "A 31 March 1950 memo to Hoover from the FBI's New Orleans office reported that Silas Newton, 'also known as a mysterious Mr. X', was said to claim a disc with eighteen dead three-foot occupants had been found on land he leased in the Mojave Desert, showing the Bureau was tracking Newton within weeks of his lecture."
     category: document
     significance: minor
     entities:
@@ -266,12 +266,13 @@ events:
     entities:
       - "Aztec UFO Crash and Recovery"
   - date: "1951-04-25"
-    title: "Cahn writes to J. Edgar Hoover about Newton"
+    title: "Letter to J. Edgar Hoover about Newton"
     cue: 2752
-    summary: "Cahn told the FBI director that Newton had leaked the Aztec story to Scully and was preparing 'a hoax or swindle of large proportions.' Hoover replied by 3 May 1951, which Gerb finds a surprisingly quick response to a newspaper writer."
+    summary: "Gerb says Cahn told the FBI director that Newton had leaked the Aztec story to Scully and was preparing 'a hoax or swindle of large proportions', and finds Hoover's reply by 3 May 1951 a surprisingly quick response to a newspaper writer. In the FBI's file the letter with those words came from the California Attorney General's office, signed by Arthur H. Sherry, and Hoover's reply said the FBI had made no investigation of Newton bearing on the inquiry."
     category: document
     significance: notable
     entities:
+      - "FBI File on Silas Newton"
       - "J. P. Cahn"
       - "J. Edgar Hoover"
       - "Silas Newton"
@@ -511,6 +512,9 @@ events:
 ---
 ::
 
+> [!edit] Corrected 16 October 2026
+> The timeline used to call the 31 March 1950 item a letter and to say Cahn wrote the 25 April 1951 letter to Hoover. In the FBI's file on Newton the first is a memo from the New Orleans field office and the second a letter from the California Attorney General's office.
+
 ## The Crash and the Retrieval
 
 ### New Mexico in 1948
@@ -634,7 +638,7 @@ root:
             - name: George Koehler
               label: "Questioned by AFOSI the next day"
               note: "About Newton, saucers and cube-like radios from the crash."
-            - name: "FBI letter on 'Mr. X'"
+            - name: "FBI memo on 'Mr. X'"
               label: "31 March 1950"
         - name: Frank Scully
           label: "Variety columns 1949; book 1950"
@@ -649,7 +653,8 @@ root:
               label: "Failed to buy the story; exposé 1952"
               children:
                 - name: J. Edgar Hoover
-                  label: "Letters, April–May 1951"
+                  label: "Letters, April–May 1951, per Gerb"
+                  note: "The FBI file has the letters coming from the California Attorney General's office."
                 - name: Herman Flader
                   label: "Complainant found by Cahn"
                   children:
@@ -658,7 +663,10 @@ root:
 ---
 ::
 
-The day after the lecture, AFOSI came to KMYR looking for Koehler and eventually questioned him about Newton, saucers and cube-like radios from the crash. On 30 September 1950, Army CID reported a sting in a Denver hotel bar where CID and the FBI tried to intercept the sale of photographs of the Aztec saucer to a "Mr. Klein" of the *Baltimore Sun*; no such reporter worked there, and the Ramseys were told every further record had been destroyed. The FBI had noted on 31 March 1950 that Newton, "Mr. X," was said to know of a flying disc and bodies. The Ramseys obtained 289 pages on Newton, with more than 100 withheld. The earliest, from 18 February 1941, found him of good character with a substantial income. Gerb also places the 22 March 1950 [[Hottel Memo]] in this window. It relayed an Air Force investigator's report of three 50-foot saucers crewed by three-foot humanoids in metallic cloth, brought down by New Mexico radar. Its source was once assumed to be Newton.
+> [!edit] Corrected 16 October 2026
+> The chart used to call the 31 March 1950 item a letter and to show Cahn's April–May 1951 letters to Hoover as fact. The FBI file has the first as a New Orleans field office memo and the letters as the California Attorney General's.
+
+The day after the lecture, AFOSI came to KMYR looking for Koehler and eventually questioned him about Newton, saucers and cube-like radios from the crash. On 30 September 1950, Army CID reported a sting in a Denver hotel bar where CID and the FBI tried to intercept the sale of photographs of the Aztec saucer to a "Mr. Klein" of the *Baltimore Sun*; no such reporter worked there, and the Ramseys were told every further record had been destroyed. The FBI had noted on 31 March 1950 that Newton, "Mr. X," was said to know of a flying disc and bodies. The Ramseys obtained 289 pages of the [[FBI File on Silas Newton|FBI's files on Newton]] (the FBI Vault's release has 77), with more than 100 withheld. The earliest, from 18 February 1941, found him of good character with a substantial income. Gerb also places the 22 March 1950 [[Hottel Memo]] in this window. It relayed an Air Force investigator's report of three 50-foot saucers crewed by three-foot humanoids in metallic cloth, brought down by New Mexico radar. Its source was once assumed to be Newton.
 
 ### In Newton's own words
 
@@ -673,7 +681,10 @@ Gerb also records a claim he could not verify: former CIA officer and UFO resear
 
 ### J. P. Cahn's campaign
 
-Gerb treats J. P. Cahn as the "hero of the hoax" whose honesty deserves the same scrutiny as Newton's. In 1949 Cahn tried to buy the saucer story from Scully for the *San Francisco Chronicle*, failed, and told his editors the deal had been made anyway. Introduced to Newton at Scully's home, he pursued him to San Francisco and offered $25,000 and 50% royalties if Newton would produce the full roster of Dr. G. By late 1951 he was telling Scully that Newton and Dr. G were about to be arrested, and that Scully would be named in the hoax unless the exposé ran under Scully's name. On 25 April 1951 he wrote to J. Edgar Hoover about Newton, and Hoover replied by 3 May. Cahn's September 1952 article, "The Flying Saucers and the Mysterious Little Men," linked Newton and [[Leo GeBauer|GeBauer]] to oil fraud and made two charges that the video answers:
+Gerb treats J. P. Cahn as the "hero of the hoax" whose honesty deserves the same scrutiny as Newton's. In 1949 Cahn tried to buy the saucer story from Scully for the *San Francisco Chronicle*, failed, and told his editors the deal had been made anyway. Introduced to Newton at Scully's home, he pursued him to San Francisco and offered $25,000 and 50% royalties if Newton would produce the full roster of Dr. G. By late 1951 he was telling Scully that Newton and Dr. G were about to be arrested, and that Scully would be named in the hoax unless the exposé ran under Scully's name. Gerb says that on 25 April 1951 Cahn wrote to J. Edgar Hoover about Newton, and that Hoover replied by 3 May; in the FBI's file, the 25 April letter came from the California Attorney General's office. Cahn's September 1952 article, "The Flying Saucers and the Mysterious Little Men," linked Newton and [[Leo GeBauer|GeBauer]] to oil fraud and made two charges that the video answers:
+
+> [!edit] Attribution clarified 16 October 2026
+> This paragraph used to say as fact that Cahn wrote to Hoover on 25 April 1951. That is Gerb's account. The letter in the FBI's file is from the California Attorney General's office, signed by Arthur H. Sherry, and does not name Cahn.
 
 ::wiki-claim{video="QJxbyu-9Tj0" video-title="The 1948 Aztec, New Mexico UFO Crash Retrieval"}
 ---
@@ -972,11 +983,14 @@ Speaking to camera at the end, Gerb explains why he took up a case he had once d
 - According to Steinman, George C. Marshall mobilised the Interplanetary Phenomenon Unit and Vannevar Bush's scientific team, including Detlev Bronk, John von Neumann, J. Robert Oppenheimer and Carl A. Heiland. Eric Henry Wang joined in November 1949.
 - The craft was allegedly dismantled into a crew cabin and three sections using interlocking keys, trucked to Los Alamos, and held there for over a year. Gerb compares this to Sumner Shapiro's account of craft disassembled in an exact sequence.
 - AFOSI questioned George Koehler the day after Newton's 8 March 1950 lecture, and in September 1950 Army CID and the FBI ran a sting to intercept photographs of the Aztec disc.
-- J. P. Cahn, who had failed to buy the story, named Leo GeBauer as the sole "Dr. G" without evidence, corresponded with J. Edgar Hoover about Newton, found the complainant Herman Flader and assisted the prosecution.
+- J. P. Cahn, who had failed to buy the story, named Leo GeBauer as the sole "Dr. G" without evidence, corresponded with J. Edgar Hoover about Newton (according to Gerb; the FBI file has the 1951 letters coming from California's Attorney General), found the complainant Herman Flader and assisted the prosecution.
 - Newton and GeBauer's 1953 fraud trial relied on a surplus-store stand-in for GeBauer's device while 32 of 33 investors were satisfied. They were convicted but never sentenced, and Gerb and the Ramseys see the trial as retaliation for the leak.
 - Steinman theorised that Carl A. Heiland was the original leaker and a Majestic 12 member who refused to testify against GeBauer. Gerb traces the doodlebug to Geophysical Service Inc.'s wartime magnetic anomaly detection work under Vannevar Bush.
 - Scully's book led Wilbert B. Smith to Robert Sarbacher, who called it "substantially correct" and, indirectly, to Eric A. Walker, who confirmed attending crash-retrieval meetings at Wright-Patterson.
 - The US Army has acknowledged through FOIA that an Interplanetary Phenomenon Unit existed and was disestablished in the late 1950s, with its records surrendered to AFOSI.
+
+> [!edit] Attribution clarified 16 October 2026
+> This list used to say as fact that Cahn corresponded with Hoover about Newton. That is Gerb's account; the 1951 letters in the FBI's file on Newton came from the California Attorney General's office.
 
 ## Sources
 
@@ -987,6 +1001,7 @@ Speaking to camera at the end, Gerb explains why he took up a case he had once d
 - **People**: [[Silas Newton]], [[Leo GeBauer]], [[Frank Scully]], [[J. P. Cahn]], [[Herman Flader]], [[George Koehler]], [[Carl A. Heiland]], [[John Torrence Tate]], [[Eric Henry Wang]], [[William Steinman]], [[Scott and Suzanne Ramsey]], [[Leonard Stringfield]], [[Robert Spencer Carr]], [[Bill Moore]], [[Richard Doty]], [[Valentine Archuleta]], [[Doug Noland]], [[Manuel Sandoval]], [[Ken Farley]], [[George C. Marshall]], [[Vannevar Bush]], [[Detlev Bronk]], [[J. Robert Oppenheimer]], [[John Von Neumann]], [[Robert Sarbacher]], [[Wilbert B. Smith]], [[Eric A. Walker]], [[Arthur Bray]], [[Stanton Friedman]], [[J. Edgar Hoover]], [[Guy Hottel]], [[Andrew Kissner]], [[Bobby Ray Inman]], [[Bob Oechsler]], [[Sumner Shapiro]], [[Edgar Fouche]], [[Philip J. Corso]], [[Arthur Stansel Jr.]], [[James Forrestal]], [[Brad Sparks]], [[Kevin Randle]], [[Tim Cooper]], [[Robert Wood]], [[Ross Coulthart]], [[Jonathan Weygandt]], [[Mark McCandlish]]
 - **Organizations**: [[Interplanetary Phenomenon Unit]], [[Majestic 12]], [[Air Force Office of Special Investigations]], [[Geophysical Service Inc. (GSI)]], [[Los Alamos National Laboratory]], [[Sandia National Laboratories]], [[Atomic Energy Commission]], [[Armed Forces Special Weapons Project (AFSWP)]], [[Research and Development Board]], [[Bureau of Reclamation]]
 - **Locations**: [[Aztec, New Mexico]], [[Durango, Colorado]], [[Cuba, New Mexico]], [[Cedar Hill, New Mexico]], [[Roswell Army Airfield]], [[Kirtland Air Force Base, New Mexico]], [[Wright-Patterson Air Force Base]], [[Edwards Air Force Base]], [[White Sands Missile Range]]
-- **Concepts**: [[Hottel Memo]], [[MJ-12 Documents]], [[Project Twinkle]], [[TR-3B]], [[Strategic Defense Initiative (SDI)]]
+- **Documents**: [[Hottel Memo]], [[FBI File on Silas Newton]]
+- **Concepts**: [[MJ-12 Documents]], [[Project Twinkle]], [[TR-3B]], [[Strategic Defense Initiative (SDI)]]
 - **Operations**: [[Operation Upshot-Knothole]]
 - **Events**: [[Aztec UFO Crash and Recovery]], [[Roswell Crash]], [[1953 Kingman, Arizona Crash Retrieval]], [[1965 Kecksburg, Pennsylvania Crash Retrieval]]
