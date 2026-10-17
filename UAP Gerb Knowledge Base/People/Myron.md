@@ -67,5 +67,5 @@ Whether Myron's body claim is accurate is still debated. His account of the craf
 ## Sources
 
 - [[Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/summary|The 1965 Kecksburg, Pennsylvania UFO Crash]]
-- Leonard Stringfield, *UFO Crash Retrievals: The Inner Sanctum* series
+- Leonard Stringfield, *UFO Crash/Retrievals: The Inner Sanctum*, [[Stringfield Status Reports|Status Report VI]] (1991)
 - Stan Gordon, *Kecksburg: The Untold Story* (1998)

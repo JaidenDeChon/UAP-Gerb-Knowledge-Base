@@ -10,7 +10,7 @@ tags:
   - person
 ---
 
-Leonard H. Stringfield (1920–1994) was an American UFO researcher widely considered the pioneering investigator of UFO crash retrieval cases. Over several decades he collected firsthand witness testimony and published it in a series of *UFO Crash/Retrieval Status Reports* on alleged cases of downed non-human craft recovered by US military and government teams. His work made crash retrievals a distinct area of UFO research. Gerb calls the seven reports "a Bible of sorts" and the best work on crash retrieval operations by any investigator, and draws on them in more than twenty videos.
+Leonard H. Stringfield (1920–1994) was an American UFO researcher widely considered the pioneering investigator of UFO crash retrieval cases. Over several decades he collected firsthand witness testimony and published it in a series of *[[Stringfield Status Reports|UFO Crash/Retrieval Status Reports]]* on alleged cases of downed non-human craft recovered by US military and government teams. His work made crash retrievals a distinct area of UFO research. Gerb calls the seven reports "a Bible of sorts" and the best work on crash retrieval operations by any investigator, and draws on them in more than twenty videos.
 
 ## Career
 
@@ -289,7 +289,10 @@ Between 1985 and 1987, a man named Jeff Morse contacted Stringfield and claimed 
 
 ## Investigation of the Kecksburg Case
 
-Stringfield worked closely with Pennsylvania researcher [[Stan Gordon]] on the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]], one of the most thoroughly documented alleged UAP retrieval cases. Over more than a decade he interviewed the main witnesses and analyzed the evidence, and he covered the case at length in his *UFO Crash Retrieval: The Inner Sanctum* status reports. He also questioned the volunteer fireman [[Jim Romansky]], who told him he knew Russian and that the markings on the object were not Russian.
+Stringfield worked closely with Pennsylvania researcher [[Stan Gordon]] on the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]], one of the most thoroughly documented alleged UAP retrieval cases. Over more than a decade he interviewed the main witnesses and analyzed the evidence, and he covered the case at length in his reports, above all *UFO Crash/Retrievals: The Inner Sanctum*, Status Report VI (1991). He also questioned the volunteer fireman [[Jim Romansky]], who told him he knew Russian and that the markings on the object were not Russian.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions referred to "*UFO Crash Retrieval: The Inner Sanctum* status reports", as if that were the series. *The Inner Sanctum* is the title of Status Report VI alone.
 
 ### Key Witness Interviews
 
@@ -369,4 +372,4 @@ Researchers still build on Leonard Stringfield's careful record of crash retriev
 - [[Videos/UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2/summary|UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2]]
 - [[Videos/US Navy UFO Crash Retrieval & Reverse Engineering Programs/summary|US Navy UFO Crash Retrieval & Reverse Engineering Programs]]
 - [[Videos/UFO Legacy Programs - Northrop Grumman/summary|UFO Legacy Programs - Northrop Grumman]]
-- Leonard Stringfield, *UFO Crash Retrievals: The Inner Sanctum* series
+- Leonard Stringfield, [[Stringfield Status Reports|UFO Crash/Retrieval Status Reports]] I–VII (1978–1994)

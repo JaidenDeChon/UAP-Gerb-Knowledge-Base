@@ -208,7 +208,10 @@ Both projects grew out of Smith's unique position as a go-between, carrying what
 
 ## Later Recognition
 
-In 1983, [[Stanton Friedman]] learned of the memo and tracked down [[Robert Sarbacher]], who confirmed the substance of his earlier disclosures in a recorded conversation. Sarbacher's 1983 letter to [[William Steinman]] independently corroborated the main points Smith had documented more than thirty years earlier. Smith's 1950 meeting notes and Sarbacher's 1983 statements were made independently and decades apart, and their agreement is considered strong evidence that Smith's original account was accurate. Gerb cites the memo in his timeline of crash retrieval programs, in his [[Majestic 12]] history, and against the claims of a former special forces witness, as proof that a highly classified US study of UAP existed by 1950.
+In 1983, [[Stanton Friedman]] learned of the memo and tracked down [[Robert Sarbacher]], who confirmed the substance of his earlier disclosures in a recorded conversation. In his [[Sarbacher Letter|letter of 29 November 1983]] to [[William Steinman]], Sarbacher recalled "the interview with Dr. Brenner of the Canadian Embassy" and wrote that he thought the answers he had given were "the ones you listed", that is, the answers as Steinman had put them to him. Smith's 1950 meeting notes and Sarbacher's 1983 statements are decades apart, and researchers take their agreement as strong evidence that Smith's original account was accurate.
+
+> [!edit] Clarified 16 October 2026
+> Earlier versions said the letter independently corroborated Smith's main points. In the letter Sarbacher confirms the answers as Steinman listed them to him, and remembers his interviewer as "Dr. Brenner of the Canadian Embassy", not Smith. Gerb cites the memo in his timeline of crash retrieval programs, in his [[Majestic 12]] history, and against the claims of a former special forces witness, as proof that a highly classified US study of UAP existed by 1950.
 
 ## Significance
 

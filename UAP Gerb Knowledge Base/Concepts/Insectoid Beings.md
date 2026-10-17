@@ -9,9 +9,12 @@ tags:
 
 ## Sarbacher's Description
 
-In his November 1983 letter to researcher [[William Steinman]], [[Robert Sarbacher]] wrote:
+In his [[Sarbacher Letter|letter of 29 November 1983]] to researcher [[William Steinman]], [[Robert Sarbacher]] wrote:
 
-> "I remember in talking with some of the people at the office that I got the impression these 'aliens' were constructed like certain insects we've observed on Earth, wherein because of the low mass the inertial forces involved in operation of these instruments would be quite low."
+> "I remember in talking with some of the people at the office that I got the impression these 'aliens' were constructed like certain insects we have observed on earth, wherein because of the low mass the inertial forces involved in operation of these instruments would be quite low."
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions quoted the letter as "we've observed on Earth", following Gerb's reading. The letter itself reads "we have observed on earth".
 
 Sarbacher put "aliens" in quotation marks, which suggests he was uncertain whether the beings were extraterrestrial. He was confident about their physical makeup, though: a lightweight build that let them survive extreme acceleration.
 

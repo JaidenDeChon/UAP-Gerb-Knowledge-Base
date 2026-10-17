@@ -34,7 +34,7 @@ Journalist [[J. P. Cahn]], who had failed to buy the story, published "The Flyin
 
 ## Revival
 
-[[Robert Spencer Carr]] reopened the case in October 1974, claiming a senior Air Force source, and Mike McClellan's 1975 article called it a hoax again. Steinman's *UFO Crash at Aztec: A Well Kept Secret* (1986) named the alleged recovery team, and Stringfield's 1991 Status Report VI reproduced a report on a crash near Farmington, New Mexico, with a similar punctured porthole. The Ramseys' *The Aztec UFO Incident* (2015) collected the witness testimony and archival records. Former Navy chief R&D scientist Nat Kobitz reportedly told [[Ross Coulthart]] that Roswell, Aztec and Kingman were all real recoveries.
+[[Robert Spencer Carr]] reopened the case in October 1974, claiming a senior Air Force source, and Mike McClellan's 1975 article called it a hoax again. Steinman's *UFO Crash at Aztec: A Well Kept Secret* (1986) named the alleged recovery team, and Stringfield's 1991 [[Stringfield Status Reports|Status Report VI]] reproduced a report on a crash near Farmington, New Mexico, with a similar punctured porthole. The Ramseys' *The Aztec UFO Incident* (2015) collected the witness testimony and archival records. Former Navy chief R&D scientist Nat Kobitz reportedly told [[Ross Coulthart]] that Roswell, Aztec and Kingman were all real recoveries.
 
 ## Significance in Legacy Program Research
 

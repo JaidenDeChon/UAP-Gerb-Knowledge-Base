@@ -9,7 +9,7 @@ tags:
 
 ## The Stringfield letter (1980)
 
-Gerb traces the first mention of the project to Leonard Stringfield, author of the *Crash Retrieval Status Reports*, as relayed by researcher [[Michael Schratt]]. In a letter dated 5 April 1980, a correspondent identified as "Mr. DL" described a witness called "MH", whose identity Schratt chose not to disclose. MH said he did radio maintenance at the Nevada atomic proving grounds from 1961 to 1963, as well as top-secret radio work for the Air Force, and that he took part in a top-secret operation at Area 51 called Project Red Light.
+Gerb traces the first mention of the project to Leonard Stringfield, author of the *[[Stringfield Status Reports|Crash Retrieval Status Reports]]*, as relayed by researcher [[Michael Schratt]]. In a letter dated 5 April 1980, a correspondent identified as "Mr. DL" described a witness called "MH", whose identity Schratt chose not to disclose. MH said he did radio maintenance at the Nevada atomic proving grounds from 1961 to 1963, as well as top-secret radio work for the Air Force, and that he took part in a top-secret operation at Area 51 called Project Red Light.
 
 According to MH:
 

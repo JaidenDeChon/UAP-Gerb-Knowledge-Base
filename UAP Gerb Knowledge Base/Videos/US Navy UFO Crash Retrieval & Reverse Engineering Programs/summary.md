@@ -694,7 +694,7 @@ Gerb also links the case to three others. The geometric markings recall the hier
 
 ## Craft Held at Naval Installations
 
-If Sharp's sources are right, recovered craft are stored at naval and ONR sites before exploitation. Gerb reviews reported cases, chiefly from Leonard Stringfield's *UFO Crash/Retrieval Status Reports*, which he considers the best crash-retrieval work by any investigator. He sets aside [[China Lake Naval Air Weapons Station|China Lake]] and [[Randy Anderson]]'s account of NSWC Crane, which he has covered before.
+If Sharp's sources are right, recovered craft are stored at naval and ONR sites before exploitation. Gerb reviews reported cases, chiefly from Leonard Stringfield's *[[Stringfield Status Reports|UFO Crash/Retrieval Status Reports]]*, which he considers the best crash-retrieval work by any investigator. He sets aside [[China Lake Naval Air Weapons Station|China Lake]] and [[Randy Anderson]]'s account of NSWC Crane, which he has covered before.
 
 ::wiki-grid{cols=3}
 ::wiki-panel{title="NAS Sunnyvale, California, 1952"}

@@ -485,7 +485,7 @@ With Area 51 and S4 long associated with Bob Lazar, Gerb asks whether other stor
 - In 1990 an Aviation Week article reported 45 sightings of aircraft accelerating from near-hover to supersonic speed over Edwards, George Air Force Base and [[China Lake Naval Air Weapons Station|China Lake]]; one was triangular.
 - In 1998 testimony, Air Force master sergeant Edgar Fouché said that at a defense advanced research facility under the Jet Propulsion Laboratory at Edwards in 1979, a full anti-gravity propulsion system was developed for a secret space fleet. He also said graduates of the Edwards test pilot school flew the TR-3B.
 
-Edwards also appears many times in Leonard Stringfield's *Crash Retrieval Status Reports*. Gerb takes three cases from them.
+Edwards also appears many times in Leonard Stringfield's *[[Stringfield Status Reports|Crash Retrieval Status Reports]]*. Gerb takes three cases from them.
 
 ::wiki-grid{cols=3}
 ::wiki-panel{title="Project Heaven" tone="accent"}

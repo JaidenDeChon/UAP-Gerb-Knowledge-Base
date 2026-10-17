@@ -5,7 +5,7 @@ tags:
   - event
 ---
 
-The 1953 Camp Polk UFO crash retrieval is an alleged crash-landing and recovery of an egg-shaped craft, with one dead and three living occupants, at the US Army's [[Camp Polk, Louisiana]] in July 1953. It is known from a single anonymous witness, "HJ", whose account researcher [[Leonard Stringfield]] published in his 1982 *UFO Crash/Retrieval Status Report III*. Gerb presents it as one of the closest historical parallels to the 1997 [[Peru UFO Crash Incident]].
+The 1953 Camp Polk UFO crash retrieval is an alleged crash-landing and recovery of an egg-shaped craft, with one dead and three living occupants, at the US Army's [[Camp Polk, Louisiana]] in July 1953. It is known from a single anonymous witness, "HJ", whose account researcher [[Leonard Stringfield]] published in his 1982 *[[Stringfield Status Reports|UFO Crash/Retrieval Status Report III]]*. Gerb presents it as one of the closest historical parallels to the 1997 [[Peru UFO Crash Incident]].
 
 ## The witness
 

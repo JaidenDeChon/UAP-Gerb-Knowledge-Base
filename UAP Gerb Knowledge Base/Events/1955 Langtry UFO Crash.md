@@ -55,7 +55,7 @@ Gerb calls this contradiction a "massive issue" for Willingham's credibility. Wi
 
 Researcher [[Kevin Randle]] questioned Willingham's Air Force service record in his book *Crash: When UFOs Fall from the Sky*. The National Personnel Records Service in St. Louis, Missouri, could not provide Willingham's service documents. A catastrophic fire there on July 12, 1973, however, destroyed most records for personnel who served between 1947 and 1963. Co-author Noe Torres claims to have over 50 documents that confirm Willingham's service, but he has not released them publicly.
 
-Willingham's 1965 newspaper account, his 1977 affidavit (obtained by researcher [[Todd Zechel]]) and the 2008 book also disagree in other ways:
+Willingham's 1965 newspaper account, his 1977 [[Willingham Affidavit|affidavit]] (obtained by researcher [[Todd Zechel]]) and the 2008 book also disagree in other ways:
 - The affidavit says Willingham was flying an F-94, while the book says it was an F-86 Sabre.
 - The 1965 article dates the event to 1948, while the book and later sources give 1955.
 

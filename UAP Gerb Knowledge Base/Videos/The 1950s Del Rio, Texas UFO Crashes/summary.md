@@ -215,7 +215,7 @@ events:
   - date: "1965"
     title: "Willingham goes public in a Mechanicsburg newspaper"
     cue: 308
-    summary: "A Pennsylvania weekly in Mechanicsburg asked Civil Air Patrol pilots about UFO encounters and carried Willingham's story. Gerb later calls it the '67 article'. In it, as in the later affidavit, the aircraft is an F-94 and the year 1948."
+    summary: "A Pennsylvania weekly in Mechanicsburg asked Civil Air Patrol pilots about UFO encounters and carried Willingham's story. Gerb later calls it the '67 article'. In it the aircraft is an F-94 and the year 1948. The later affidavit also names the F-94 but gives no year."
     category: document
     significance: notable
     entities:
@@ -240,7 +240,7 @@ events:
   - date: "1977"
     title: "Todd Zechel obtains Willingham's affidavit"
     cue: 333
-    summary: "Twelve years after the newspaper story, researchers found its clippings in NICAP's files, and Todd Zechel tracked Willingham down for a signed affidavit. It has him flying an F-94 in 1948, not an F-86 in 1955. Willingham blamed his Korean War head injury; Gerb says the errors 'hurt Willingham's credibility'."
+    summary: "Twelve years after the newspaper story, researchers found its clippings in NICAP's files, and Todd Zechel tracked Willingham down for a signed affidavit. It starts at Dyess Air Force Base, testing the F-94, and gives no date; the book has an F-86 out of Carswell in 1955. Willingham blamed his Korean War head injury; Gerb says the errors 'hurt Willingham's credibility'."
     category: document
     significance: major
     entities:
@@ -324,7 +324,7 @@ events:
 
 ## Two Cases, One Name
 
-Gerb began expecting to cover a single 1950 event. He had assumed that Willingham's story, the MJ-12 entry and the witness [[William Drager]] all described one crash. Reading *The Other Roswell* convinced him otherwise. The confusion is old. [[Leonard Stringfield]]'s crash-retrieval status reports file Drager's testimony under "Del Rio, Texas, 1950", although Drager is plainly describing Willingham's case. Both stories also use Del Rio as their reference point, although the sites are on opposite sides of it.
+Gerb began expecting to cover a single 1950 event. He had assumed that Willingham's story, the MJ-12 entry and the witness [[William Drager]] all described one crash. Reading *The Other Roswell* convinced him otherwise. The confusion is old. [[Leonard Stringfield]]'s [[Stringfield Status Reports|crash-retrieval status reports]] file Drager's testimony under "Del Rio, Texas, 1950", although Drager is plainly describing Willingham's case. Both stories also use Del Rio as their reference point, although the sites are on opposite sides of it.
 
 ::wiki-compare{video="8S9qdRWSnD8" video-title="The 1950s Del Rio, Texas UFO Crashes"}
 ---
@@ -388,7 +388,10 @@ pins:
 
 Colonel Robert Burton Willingham served in World War II and in Korea, and afterwards in the Air Force Reserve and the Civil Air Patrol. He says a mortar shell in a foxhole wounded him in the leg and head and earned him a Purple Heart. Gerb deliberately writes "claims", because he could not verify the award. [[Kevin Randle]], in *Crash: When UFOs Fall from the Sky*, questions Willingham's Air Force record, since the national personnel records service in St. Louis could not produce it. Gerb points out that a fire in that building on 12 July 1973 destroyed most records for personnel who served between 1947 and 1963. Noe Torres says he holds more than 50 documents proving Willingham's service, but Gerb has not seen them.
 
-The story first appeared in 1965, in a weekly newspaper in Mechanicsburg, Pennsylvania, which asked Civil Air Patrol pilots about UFO encounters. Twelve years later researchers found the clipping in the files of the [[National Investigations Committee on Aerial Phenomena|NICAP]]. [[Todd Zechel]] tracked Willingham down and had him sign an affidavit. Both the article and the 1977 affidavit have him flying an F-94 in 1948. The book has an F-86 Sabre in 1955. Willingham put the difference down to his head injury. Gerb counts it against him: the aircraft and the year "are still very important things to get right", and if they are wrong "the affidavit is pretty much null and void".
+The story first appeared in 1965, in a weekly newspaper in Mechanicsburg, Pennsylvania, which asked Civil Air Patrol pilots about UFO encounters. Twelve years later researchers found the clipping in the files of the [[National Investigations Committee on Aerial Phenomena|NICAP]]. [[Todd Zechel]] tracked Willingham down and had him sign an [[Willingham Affidavit|affidavit]]. Gerb says both the article and the 1977 affidavit have him flying an F-94 in 1948. The affidavit, as [[Kevin Randle]] transcribes it, does name the F-94, at Dyess Air Force Base, but gives no date; the year 1948 is from the article. The book has an F-86 Sabre in 1955. Willingham put the difference down to his head injury. Gerb counts it against him: the aircraft and the year "are still very important things to get right", and if they are wrong "the affidavit is pretty much null and void".
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said, following Gerb, that the 1977 affidavit dates the event to 1948. In Kevin Randle's transcription it gives no date at all; it names the F-94 and Dyess Air Force Base. The 1948 date is in the earlier article.
 
 ### The sighting
 
@@ -438,7 +441,7 @@ caption: "Three versions of Willingham's story, side by side. \"Differs\" marks 
 attributeLabel: "Detail"
 subjects:
   - name: "1965 article and 1977 affidavit"
-    note: "The first public telling, and the sworn statement Todd Zechel obtained"
+    note: "The first public telling, and the sworn statement Todd Zechel obtained. The year is from the article; the affidavit gives none"
   - name: "The Other Roswell (2008)"
     note: "Noe Torres and Ruben Uriarte's book, quoting Willingham"
   - name: "Jeff Rense interview"
@@ -583,7 +586,7 @@ entries:
 - Robert Willingham claimed that in spring 1955, escorting B-47s from Carswell AFB, he saw an object travelling at about 2,000 mph turn 90 degrees, throw off sparks and go down across the Rio Grande from Langtry, Texas; George Smithson and other pilots said in the debrief that they had seen it.
 - Willingham said he and Jack Perkins landed beside the wreck, a disc in about three sections guarded by Mexican soldiers who made no attempt at retrieval, and that a Lieutenant Martinez told him the American Air Force would soon arrive "to clean this all up".
 - Willingham said he took a light, torch-resistant, honeycombed metal fragment that vanished, along with any record of it, at a USMC metallurgy lab in Hagerstown, Maryland; a USAF intelligence general warned him to keep silent.
-- The 1965 article and 1977 affidavit give an F-94 in 1948; *The Other Roswell* gives an F-86 in 1955. Willingham attributes the change to a Korean War head injury.
+- The 1965 article gives an F-94 in 1948, and the 1977 affidavit an F-94 with no date; *The Other Roswell* gives an F-86 in 1955. Willingham attributes the change to a Korean War head injury.
 - *The Other Roswell* quotes Willingham saying he never saw bodies; in a 24 July 2012 Jeff Rense interview he described three to four non-human bodies, and Noe Torres repeated the claim in 2023. Gerb calls this "a massive issue" for Willingham's credibility.
 - A Mexican general reportedly told interpreter William Drager privately that he knew of the crash, then denied it on camera.
 - Gerb separates the cases on four points: the state of the wreckage, Willingham's presence in Korea until 26 December 1950, their locations on opposite sides of Del Rio, and Gerb's dating of DEW radar to 1952.

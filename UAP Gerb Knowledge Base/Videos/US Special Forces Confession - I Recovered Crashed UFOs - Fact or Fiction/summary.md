@@ -408,7 +408,7 @@ The saucer the witness helped recover "had hit the side of a rocky outcropping o
 
 - **Near [[Lima, Peru]], 11 November 1975.** From Stringfield's notes of a March 1978 conversation with one Bob Barry: an unmanned metallic craft 12 feet high and 8 feet across, of apparently non-terrestrial material. By the witness's own typology it may have been an egg or a bell.
 - **Chile, 1978.** From the files of Bob Pratt: an air burst woke all 3,000 people in the area, and afterwards Americans in NASA coveralls questioned witnesses. NASA and the CIA told Pratt they had no data on it.
-- **Argentina, 3 October 1980.** From Stringfield's *Status Report II*: witnesses within 300 metres saw a saucer-shaped fireball, which some said circled before it fell, explode at about 7 p.m. Captain Carlos Lima, head of the Argentine Air Force's space research division, found four circular burned spots 10 to 18 metres across.
+- **Argentina, 3 October 1980.** From Stringfield's *[[Stringfield Status Reports|Status Report II]]*: witnesses within 300 metres saw a saucer-shaped fireball, which some said circled before it fell, explode at about 7 p.m. Captain Carlos Lima, head of the Argentine Air Force's space research division, found four circular burned spots 10 to 18 metres across.
 
 He also mentions the [[Varginha, Brazil|Varginha]] case as a possibility.
 
