@@ -13,7 +13,7 @@ William A. Owens is a retired U.S. Navy admiral who served as Vice Chairman of t
 
 ## Career
 
-Before becoming Vice Chairman, Owens served as senior military assistant to Secretary of Defense [[Dick Cheney]]. After leaving the Navy he joined SAIC; the UAP Gerb video describes him as the company's chief executive.[^gerb-owens-saic-dates]
+Before becoming Vice Chairman, Owens served as senior military assistant to Secretary of Defense [[Dick Cheney]]. He was Vice Chairman of the Joint Chiefs of Staff from 1994 to 1996, which is the period he sat on SAPOC. After retiring from the Navy he joined SAIC in March 1996 as president, chief operating officer and vice chairman, and left in 1998 for the satellite venture Teledesic; the UAP Gerb video describes him as SAIC's chief executive.[^gerb-owens-saic-dates]
 
 ## Alleged role as a gatekeeper
 

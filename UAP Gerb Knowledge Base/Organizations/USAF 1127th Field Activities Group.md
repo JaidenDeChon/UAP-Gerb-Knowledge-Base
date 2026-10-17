@@ -9,7 +9,10 @@ The USAF 1127th Field Activities Group was a United States Air Force intelligenc
 
 ## Operational Authority
 
-Under the 1961 AFOSR-16 Draft Policy, the 1127th USAF Field Activities Group was given collection responsibility for investigating reliably reported unidentified flying objects within the United States. The proposal formalized the group's authority over Moon Dust, which had historically handled such investigations.
+A draft policy memo of 3 November 1961 from the Air Force intelligence office AFCIN-1E (which Gerb reads as "AFC 1e draft policy") proposed giving the 1127th USAF Field Activities Group collection responsibility for investigating reliably reported unidentified flying objects within the United States. Gerb reads the memo as listing Moon Dust as a project that had historically held this duty. In transcriptions of the draft, the UFO investigation program and Moon Dust, whose task was to locate, recover and deliver descended foreign space vehicles, are described in separate paragraphs.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions called the document the "AFOSR-16 Draft Policy" and stated as fact that Moon Dust had historically handled UFO investigations. In the video Gerb calls it the "AFC 1e draft policy" (the AFCIN-1E draft of 3 November 1961), and the link between Moon Dust and UFO investigation is his reading; the draft treats the two separately.
 
 ## Moon Dust Collection Record
 

@@ -250,7 +250,10 @@ This confirmed that NORAD, the military command responsible for aerospace warnin
 
 ## Disclosure of Parallel Classified Programs
 
-Hynek also said that other classified programs were studying UFOs alongside Project Blue Book. This confirmed what Captain [[Edward J. Ruppelt]] had disclosed on April 24, 1952: that programs parallel to the official UFO investigations were "conducting a more complete investigation." Gerb identifies one of these parallel programs as [[Project Moon Dust]], a classified Air Force collection program run under the [[USAF 1127th Field Activities Group]] from at least 1961 through the mid-1990s.
+According to Gerb, Hynek also said that other classified programs were studying UFOs alongside Project Blue Book. Gerb presents this as the same conclusion Captain [[Edward J. Ruppelt]] reached, dating Ruppelt's suggestion to 24 April 1952: that programs parallel to the official UFO investigations were "conducting a more complete investigation." Gerb suggests one of these parallel programs could have been [[Project Moon Dust]], a classified Air Force collection program run under the [[USAF 1127th Field Activities Group]] from at least 1961 through the mid-1990s.
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions stated as fact that Hynek's remark confirmed a disclosure Ruppelt made on 24 April 1952, and that Gerb "identifies" Moon Dust as a parallel program. The date and the link between the two men's remarks come from Gerb's Moon Dust video, where he says Moon Dust "could have been" one of these programs.
 
 In Gerb's reading, Hynek's acknowledgment of these programs suggests he knew Project Blue Book was mainly a public-facing operation, while classified programs handled the actual UFO collection, crash retrieval and technical analysis.
 

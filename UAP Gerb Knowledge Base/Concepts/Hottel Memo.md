@@ -42,7 +42,10 @@ The memo's claim that high-powered radar caused the crashes by disrupting contro
 
 ## Later FBI Context
 
-UAP Gerb's video on the [[The 1950s Del Rio, Texas UFO Crashes|1950s Del Rio, Texas UFO Crashes]] sets the memo beside a December 8, 1950 FBI memo to J. Edgar Hoover directing Army intelligence to a state of high alert for "flying disc" information. The video treats both as part of a pattern of FBI attention to crash-retrieval reports in the early Cold War.[^gerb-hottel-date]
+UAP Gerb's video on the [[The 1950s Del Rio, Texas UFO Crashes|1950s Del Rio, Texas UFO Crashes]] sets the memo beside a confidential December 8, 1950 FBI memo to J. Edgar Hoover reporting that Army intelligence had been put on high alert for any data on flying discs. The video treats both as part of a pattern of FBI attention to crash-retrieval reports in the early Cold War.[^gerb-hottel-date]
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions described the December 1950 memo as "directing" Army intelligence to a state of high alert. Gerb says the memo was "directed to" Hoover and concerned how Army intelligence "has been put on high alert"; an FBI memo to its own director did not order the Army to do anything.
 
 ## Release and Public Impact
 

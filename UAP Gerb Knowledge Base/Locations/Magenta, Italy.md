@@ -27,7 +27,10 @@ Magenta's history as a place is not in dispute. Whether a non-human craft was re
 
 ## Role in the Broader UFO Legacy Program Timeline
 
-In his timeline video "80 Years of UFO Crash Retrieval and Reverse Engineering", Gerb deliberately treats Magenta as a "preliminary entry". It comes 14 years before the US legacy program timeline, which runs from 1947 onward. Gerb cites [[David Grusch]]'s statement in a 2023 News Nation interview that Roswell was not the first crash retrieval. Drawing on the Marconi family's own account, the video describes physicist [[Enrico Fermi]] as the person who actually led the scientific examination of the recovered craft under the [[RS-33 (Gabinetto RS 33)|RS-33]] commission, working alongside [[Guglielmo Marconi]]. The [[1933 Magenta UFO CrashRetrieval|1933 Magenta UFO Crash Retrieval]] event page covers the case in full.
+In his timeline video "80 Years of UFO Crash Retrieval and Reverse Engineering", Gerb deliberately treats Magenta as a "preliminary entry". It comes 14 years before the US legacy program timeline, which runs from 1947 onward. Gerb cites [[David Grusch]]'s statement in a 2023 News Nation interview that Roswell was not the first crash retrieval. Gerb also says that, according to [[Guglielmo Marconi]]'s family, it was physicist [[Enrico Fermi]] who "spearheaded" the [[RS-33 (Gabinetto RS 33)|RS-33]] commission, not Marconi.
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions said the video describes Fermi as having led the scientific examination of the craft, working alongside Marconi. Gerb says only that, according to the Marconi family, Fermi spearheaded RS-33; the claim is the family's as relayed by Gerb. The [[1933 Magenta UFO CrashRetrieval|1933 Magenta UFO Crash Retrieval]] event page covers the case in full.
 
 ## Sources
 

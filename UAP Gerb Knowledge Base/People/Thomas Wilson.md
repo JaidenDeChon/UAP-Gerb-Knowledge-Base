@@ -14,7 +14,10 @@ Vice Admiral Thomas R. Wilson is a retired U.S. Navy intelligence officer who wa
 
 ## Career
 
-Wilson was born in Columbus, Ohio, in 1946 and graduated from Ohio State University in 1968. He served in the [[US Navy]] from 1969 to 2002 as an intelligence officer. His flag posts included Director of Intelligence for U.S. Atlantic Command, Vice Director of Intelligence on the Joint Staff, Associate Director of Central Intelligence for Military Support at the CIA, and Director for Intelligence (J-2) of the Joint Staff, the post he held as a rear admiral in 1997. On 27 July 1999 he became the 13th Director of the DIA, with the rank of vice admiral, and he served until July 2002, retiring from the Navy that year. His awards include the Defense Distinguished Service Medal and the Navy Distinguished Service Medal.
+Wilson was born in Columbus, Ohio, in 1946 and graduated from Ohio State University in 1968. He served in the [[US Navy]] from 1969 to 2002 as an intelligence officer. His flag posts included Director of Intelligence for U.S. Atlantic Command, Vice Director of Intelligence on the Joint Staff, Associate Director of Central Intelligence for Military Support at the CIA, and Director for Intelligence (J-2) of the Joint Staff, the post he held as a rear admiral in 1997; Defense Department photo captions from Operation Allied Force briefings still give him that rank in March and April 1999. On 27 July 1999 he became the 13th Director of the DIA, with the rank of vice admiral, and he served until July 2002, retiring from the Navy that year. His awards include the Defense Distinguished Service Medal and the Navy Distinguished Service Medal.
+
+> [!edit] Clarified 17 October 2026
+> The Wilson-Davis notes, the videos and Mitchell's account call Wilson a vice admiral in 1997, while this paragraph says rear admiral. Pentagon briefing captions from 1999 confirm he was still a rear admiral as J-2, so the vice admiral rank dates from his DIA appointment; the Clinton Library and Wikipedia both number him the DIA's 13th director.
 
 The Wilson-Davis notes, and Gerb when he reads from them, describe his 1997 post as deputy director of the DIA and assistant to the Joint Chiefs of Staff for intelligence (J-2). In two later videos Gerb calls him DIA director in 1997.[^gerb-wilson-dia-1997] Gerb stresses what the post meant: in any ordinary case it carried statutory oversight and regulatory authority over every special access program in the Department of Defense, acknowledged or unacknowledged.
 
@@ -88,7 +91,7 @@ events:
       - "Edgar Mitchell"
   - date: "1997-04"
     title: "The 45-day search"
-    summary: "Advised by General Marshal Ward and Secretary of Defense Bill Perry, he searches a special records group in the acquisition under secretary's office. Four of the seven program managers he calls send him to the same program."
+    summary: "Advised by General Marshal Ward and former Secretary of Defense Bill Perry, he searches a special records group in the acquisition under secretary's office. Four of the seven program managers he calls send him to the same program."
     category: event
     significance: major
     entities:
@@ -216,7 +219,10 @@ entries:
 
 In April 1997, at the request of retired Navy Commander [[Will Miller]], Wilson attended a briefing in a Pentagon conference room where [[Steven Greer]] presented information about UFOs, Roswell and crashed UFOs to Wilson, Miller and Apollo 14 astronaut [[Edgar Mitchell]] (see [[1997 Meeting (Wilson, Miller, Mitchell, Greer, Hughes)]]). Miller later said that DIA Director [[Patrick M. Hughes]] had also requested the briefing and wanted it expedited, and several sources, including researcher Joe Murgia, place [[Steven Lovekin]] there as well. After the briefing, Miller and Wilson spoke privately, and Wilson came away intrigued enough to investigate further. (In *UFO Whistleblowers Vol.1* Gerb dates the briefing to 1998; it is usually dated 1997.)
 
-Wilson then began a 45-day investigation that ran from April to June 1997. General [[Marshal Ward]] and Secretary of Defense [[Bill Perry]] advised him to examine records in OUSD(AT), the Office of the Under Secretary of Defense for Acquisition and Technology (today the [[Under Secretary of Defense for Acquisition and Sustainment (USD A&S)|USD(A&S)]]). Both told him about a "special project records group not belonging to usual special access programs": a special subset of unacknowledged carve-outs and waived programs that, according to the notes, Perry himself had organized in 1994. In *Special Access Required Vol.2* Gerb singles out one detail as the most important in the whole document: the record Wilson found held zero budget information.
+Wilson then began a 45-day investigation that ran from April to June 1997. General [[Marshal Ward]] and former Secretary of Defense [[Bill Perry]], who had left office in January 1997, advised him to examine records in OUSD(AT), the Office of the Under Secretary of Defense for Acquisition and Technology (today the [[Under Secretary of Defense for Acquisition and Sustainment (USD A&S)|USD(A&S)]]). Both told him about a "special project records group not belonging to usual special access programs": a special subset of unacknowledged carve-outs and waived programs that, according to the notes, Perry himself had organized in 1994. In *Special Access Required Vol.2* Gerb singles out one detail as the most important in the whole document: the record Wilson found held zero budget information.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions called Perry Secretary of Defense when he advised Wilson in April–June 1997. Perry left that office on 23 January 1997, and the notes do not give him the title, so he is now described as the former Secretary.
 
 ## Discovery of the Program
 

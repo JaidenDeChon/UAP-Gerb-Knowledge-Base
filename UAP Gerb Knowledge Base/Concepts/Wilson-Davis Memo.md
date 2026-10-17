@@ -19,7 +19,10 @@ Edgar Mitchell, the sixth man to walk on the moon, had long taken a public inter
 
 The events in the memo began in April 1997, when [[Steven Greer]] briefed Vice Admiral Wilson, retired Navy Commander [[Will Miller]], Edgar Mitchell and DIA Director [[Patrick M. Hughes]] in a Pentagon conference room about UFOs, Roswell and crashed UFOs. Afterward, Miller and Wilson spoke privately, and Wilson came away wanting to investigate further.
 
-From April to June 1997, Wilson carried out a 45-day investigation. General [[Marshal Ward]] and Secretary of Defense [[Bill Perry]] advised him to examine records in OUSD(AT), the Office of the Under Secretary of Defense for Acquisition and Technology. Both Ward and Perry told Wilson about a "special project records group not belonging to usual special access programs". This was a special subset of unacknowledged carve-outs and waived programs that Perry himself had organized in 1994.
+From April to June 1997, Wilson carried out a 45-day investigation. General [[Marshal Ward]] and former Secretary of Defense [[Bill Perry]], who had left office in January 1997, advised him to examine records in OUSD(AT), the Office of the Under Secretary of Defense for Acquisition and Technology. Both Ward and Perry told Wilson about a "special project records group not belonging to usual special access programs". This was a special subset of unacknowledged carve-outs and waived programs that Perry himself had organized in 1994.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions called Perry Secretary of Defense when he advised Wilson in 1997. Perry left that office on 23 January 1997, and the notes do not give him the title, so he is now described as the former Secretary.
 
 Wilson found the unusual records group in the index abstracts and called seven program managers. Four of them referred him to the same program, run by three people who called themselves the "[[Watch Committee]]": a security director (former NSA), a program director and a corporate attorney. An aerospace technology contractor active in defense and intelligence, described as "the best one of them," coordinated the program. Based on later whistleblower accounts, the contractor was likely [[Lockheed Martin]].
 

@@ -9,7 +9,7 @@ AFOIN-X-SG is the office symbol on a letter dated April 24, 1952, sent to the US
 
 ## The 1952 Letter
 
-The letter was addressed to a Colonel Dunn and dealt with a possible connection between submarine contacts and flying discs. The nine attached reports are not available.
+The letter was addressed to a Colonel Dunn and dealt with a possible connection between submarine contacts and flying discs. Gerb gives only the surname, but this was probably Colonel Frank Dunn, who headed the Air Technical Intelligence Center from late 1951 and appears in [[Edward J. Ruppelt]]'s accounts as his superior during 1952. The nine attached reports are not available.
 
 ## A Parallel Investigation
 
@@ -20,3 +20,5 @@ In 1979 the Computer UFO Network (CUFON) filed Freedom of Information Act reques
 ## Sources
 
 - [[USO - Unidentified Submerged Objects]]
+- Edward J. Ruppelt, "What Our Air Force Found Out About UFOs", *True* (1954), via NICAP
+- Michael Swords, "Peeking into the Corners of 1952, Part Two", Center for UFO Studies

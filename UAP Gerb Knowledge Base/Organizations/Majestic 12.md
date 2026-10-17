@@ -30,15 +30,23 @@ The Eisenhower Briefing Document names the founding members:
 - MJ-1: Admiral [[Roscoe H. Hillenkoetter]], the first CIA Director and the designated briefing officer for Eisenhower
 - Dr. Vannevar Bush, head of the Office of Scientific Research and Development and a principal architect of the group
 - James Forrestal, Secretary of the Navy and the first Secretary of Defense (died May 22, 1949; replaced by [[Walter Bedell Smith|General Walter B. Smith]])
-- General Nathan Twining, of Air Material Command, who led Project Sign and the Roswell recovery
+- General Nathan Twining, commander of Air Materiel Command, whose September 1947 memo led to [[Project Sign]]; Gerb calls him Sign's leader, and the Eisenhower Briefing Document, as Gerb reads it, has him and Bush overseeing the craft and body recovery at Roswell
 - General Hoyt S. Vandenberg, the second Director of Central Intelligence and Air Force Chief of Staff
 - [[Donald Menzel|Donald H. Menzel]], a Harvard astronomer and NSA/CIA consultant
 - Admiral Sidney W. Souers
 - Gordon Gray
 - Dr. Detlev Bronk, who performed the Roswell autopsies and coined the term "EBE" (Extraterrestrial Biological Entity)
 - Dr. Jerome Hunsaker
-- Dr. Robert Montague
-- General Walter B. Smith, who replaced Forrestal on August 1, 1950; he was Ambassador to the USSR and the second CIA Director
+- General Robert M. Montague
+- Dr. Lloyd V. Berkner
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions left Dr. Lloyd Berkner out of the founding twelve, listed Walter B. Smith as the twelfth member, and called Montague "Dr." The Eisenhower Briefing Document, as Gerb reads it in the Manhattan Project 2.0 video, names Berkner and General Robert Montague among the original twelve; Smith was a later replacement for Forrestal.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said Twining led Project Sign and the Roswell recovery. As Air Materiel Command's commander he sent the 23 September 1947 memo that led to Sign but did not run the project; his Roswell role is a claim of the Eisenhower Briefing Document as Gerb reads it in his Majestic-12 video.
+
+General Walter B. Smith, Ambassador to the USSR and the second CIA Director, was not one of the original twelve. According to the Eisenhower Briefing Document, Forrestal's seat stayed empty after his death until August 1, 1950, when Smith was named his permanent replacement.
 
 Truman's appointment calendar confirms an off-the-record meeting with Walter B. Smith on August 1, 1950, the same date on which, according to the Eisenhower Briefing Document, he replaced Forrestal.
 
@@ -112,7 +120,10 @@ Like all informal NSC meetings with members of relevant expertise, the 5412 Comm
 
 Gerb's *80 Years of UFO Crash Retrieval and Reverse Engineering* traces how the hidden MJ-12 steering group continued on paper through National Security Action Memorandum (NSAM) 303, issued in June 1964 under President Lyndon B. Johnson. NSAM 303 renamed the 5412 Committee's Special Group the "303 Committee," a change the video characterizes as "little more than a name change" made for bookkeeping purposes rather than a substantive reorganization. According to the video, the renamed body went on housing the alleged MJ-12 function within the National Security Council's structure for overseeing covert activities into the subsequent Nixon administration.
 
-In the video's account, the lineage runs from MJ-12 hidden within NSC 10/2 (1947), to its absorption into the 5412 Committee's Special Group (1954), to its renaming as the 303 Committee through NSAM 303 (1964). The video presents this lineage as essentially intact through the "golden era" of the legacy programs. It says the lineage only fractured, and became genuinely difficult to trace, during the Cold War reorganization period, which the video dates from 1978 to 1994. In that period, centralized legacy leadership is alleged to have progressively lost control over program offices, assets, materials and records.
+In the video's account, the lineage runs from MJ-12 hidden within NSC 10/2 (June 1948), to its absorption into the 5412 Committee's Special Group (1954), to its renaming as the 303 Committee through NSAM 303 (1964). The video presents this lineage as essentially intact through the "golden era" of the legacy programs. It says the lineage only fractured, and became genuinely difficult to trace, during the Cold War reorganization period, which the video dates from 1978 to 1994. In that period, centralized legacy leadership is alleged to have progressively lost control over program offices, assets, materials and records.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions dated NSC 10/2 to 1947. Truman approved NSC 10/2 in June 1948, the date Gerb himself gives in the video.
 
 ## Sources
 

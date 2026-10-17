@@ -10,7 +10,10 @@ Project Palladium was a classified CIA program active in the 1960s that used nav
 
 Palladium used clandestine naval assets (submarines and surface vessels) along with airborne electronic countermeasure equipment and balloon decoys to generate realistic UAP signatures in Soviet radar systems. It was designed to serve two purposes at once: to map the precise parameters of Soviet air defenses and to provide a "true picture of how Soviet air defenses perceived UFOs." To do both, the false signatures had to look genuine enough to test Soviet radar operators, which required detailed knowledge of what genuine UAP radar returns looked like.
 
-Palladium did not receive its code name until April 1962, when Dr. Albert Wheelon took over as head of the CIA's Directorate of Science and Technology (DS&T), although the operational concept existed before then.[^gerb-palladium-dst] According to Poteat, only six people knew about Palladium in the 1960s.
+According to Gerb, Palladium did not receive its code name until April 1962, when Dr. Albert Wheelon took over the CIA's scientific intelligence work, although the operational concept existed before then. In 1962 Wheelon became head of the Office of Scientific Intelligence; he became the first head of the Directorate of Science and Technology (DS&T) when it was founded in August 1963.[^gerb-palladium-dst] According to Poteat, only six people knew about Palladium in the 1960s.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said in the page's own voice that Wheelon took over the CIA's DS&T in April 1962. The DS&T did not exist until August 1963; in 1962 Wheelon took over the Office of Scientific Intelligence, and the April 1962 naming comes from Gerb.
 
 ## Majestic-12 Document Connections
 
