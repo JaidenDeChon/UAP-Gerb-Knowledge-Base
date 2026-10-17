@@ -286,7 +286,7 @@ const sizeLabel = computed(() => {
 
     <figcaption v-if="document.source" class="ufo-doc-caption">
       Retrieved {{ file.retrieved }} from <a :href="document.source" target="_blank" rel="noopener noreferrer">{{ sourceHost }}<ExternalLink class="ufo-doc-icon-inline" aria-hidden="true" /></a><template v-if="file.fetchedFrom !== document.source">
-        (via <a :href="file.fetchedFrom" target="_blank" rel="noopener noreferrer">an archived copy</a>)</template>.
+        (via <a :href="file.fetchedFrom" target="_blank" rel="noopener noreferrer">an archived copy</a>)</template><template v-if="file.fromImages">, where it is served as page images. They are bound here into one PDF, each page re-encoded at a smaller size</template>.
       <template v-if="file.ocr">
         The selectable text was added by OCR and may misread the scan<template v-if="document.transcription">; the <NuxtLink :to="document.transcription">transcription</NuxtLink> is checked against the page images</template>.
       </template>

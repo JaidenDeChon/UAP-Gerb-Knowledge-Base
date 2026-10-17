@@ -52,6 +52,11 @@ describe('parseDocumentManifest', () => {
     expect(parseDocumentManifest({ documents: { X: { ...file, ocr: 'force-ocr', sourceSha256: 'b'.repeat(64) } } }).X).toEqual({ ...file, ocr: true })
   })
 
+  it('flags a file bound from page images', () => {
+    expect(parseDocumentManifest({ documents: { X: { ...file, built: 'page-images' } } }).X).toEqual({ ...file, fromImages: true })
+    expect(parseDocumentManifest({ documents: { X: { ...file, built: 'other' } } }).X).toEqual(file)
+  })
+
   it('drops an entry with a missing or malformed field', () => {
     for (const bad of [
       { ...file, sha256: 'nothex' },

@@ -329,7 +329,8 @@
       },
       "thumbPage": 1,
       "source": "https://catalog.archives.gov/id/461456800",
-      "fetchedFrom": "https://catalog.archives.gov/id/461456800 (412 page images, re-encoded as JPEG)",
+      "fetchedFrom": "https://catalog.archives.gov/id/461456800",
+      "built": "page-images",
       "retrieved": "2026-10-17"
     },
     "Recent Sentient Highlights": {

@@ -187,6 +187,8 @@ export interface DocumentFile {
   retrieved: string
   /** The text layer was added by OCR (`ocrmypdf`), so it may hold misreadings. */
   ocr?: boolean
+  /** The source has page images, not a PDF, and this file binds them (re-encoded). */
+  fromImages?: boolean
 }
 
 export interface NoteLinks {

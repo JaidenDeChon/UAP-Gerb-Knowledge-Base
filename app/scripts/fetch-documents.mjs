@@ -257,7 +257,7 @@ async function naraImagesPdf(source) {
     }
     const out = join(work, 'bound.pdf')
     execFileSync('img2pdf', ['--nodate', '--imgsize', `${NARA_PAGE_DPI}dpi`, '--output', out, ...pages])
-    return { bytes: readFileSync(out), from: `${source} (${images.length} page images, re-encoded as JPEG)` }
+    return { bytes: readFileSync(out), from: source, built: 'page-images' }
   }
   finally {
     rmSync(work, { recursive: true, force: true })
@@ -403,7 +403,7 @@ async function fetchOne(doc, manifest) {
   // page) starts from the cached download instead of asking the site again.
   const cached = prior && prior.source === doc.source && resolve(CACHE, `${prior.sourceSha256 ?? prior.sha256}.pdf`)
   const got = cached && existsSync(cached)
-    ? { bytes: readFileSync(cached), from: prior.fetchedFrom }
+    ? { bytes: readFileSync(cached), from: prior.fetchedFrom, built: prior.built }
     : await fetchPdf(doc)
   if (!got) {
     console.warn(`  ! no PDF from ${doc.fetchUrl || doc.source} or the Wayback Machine; skipped`)
@@ -446,6 +446,7 @@ async function fetchOne(doc, manifest) {
     thumbPage: Math.min(doc.thumbPage, pages),
     source: doc.source,
     fetchedFrom: got.from,
+    ...(got.built ? { built: got.built } : {}),
     retrieved: new Date().toISOString().slice(0, 10),
   })
   console.log(`  ✓ ${pages} ${pages === 1 ? 'page' : 'pages'}, ${(bytes.length / 1e3).toFixed(0)} KB, ${sha256.slice(0, 12)}…${ocr ? ` (OCR: ${ocr})` : ''}`)

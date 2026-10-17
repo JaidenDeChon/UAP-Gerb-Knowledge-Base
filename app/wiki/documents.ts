@@ -110,7 +110,7 @@ export function parseDocumentManifest(raw: unknown): Record<string, DocumentFile
     const retrieved = str(e.retrieved)
     if (!title.trim() || !HTTP_RE.test(url) || !SHA_RE.test(sha256) || !bytes || !pages) continue
     if (!THUMB_RE.test(src) || !width || !height || !HTTP_RE.test(fetchedFrom) || !DAY_RE.test(retrieved)) continue
-    out[title.trim()] = { url, sha256, bytes, pages, thumb: { src, width, height }, fetchedFrom, retrieved, ...(str(e.ocr) ? { ocr: true } : {}) }
+    out[title.trim()] = { url, sha256, bytes, pages, thumb: { src, width, height }, fetchedFrom, retrieved, ...(str(e.ocr) ? { ocr: true } : {}), ...(str(e.built) === 'page-images' ? { fromImages: true } : {}) }
   }
   return out
 }
