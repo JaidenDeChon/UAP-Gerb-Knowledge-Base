@@ -497,7 +497,7 @@ Gerb has covered other alleged underground sites before: the 10-storey [[Defense
 
 ## Stringfield's Files
 
-The first true mention of DUMBs and UFOs Gerb can find is a 1955 *Look* article, "Is This the Real Flying Saucer?", about a Canadian company building a saucer. It depicted a facility under a hill with a vertical shaft for saucers to leave by. Rumours did not really pick up again until the 1970s, and the earliest of them sit in Leonard Stringfield's *UFO Crash/Retrieval Status Reports* (1978–1994).
+The first true mention of DUMBs and UFOs Gerb can find is a 1955 *Look* article, "Is This the Real Flying Saucer?", about a Canadian company building a saucer. It depicted a facility under a hill with a vertical shaft for saucers to leave by. Rumours did not really pick up again until the 1970s, and the earliest of them sit in Leonard Stringfield's *[[Stringfield Status Reports|UFO Crash/Retrieval Status Reports]]* (1978–1994).
 
 ::wiki-grid{cols=3}
 ::wiki-panel{title="Fort Hood, Texas: 12 February 1974" tone="accent"}

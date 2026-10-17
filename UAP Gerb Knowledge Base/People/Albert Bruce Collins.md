@@ -7,7 +7,7 @@ tags:
   - person
 ---
 
-Albert Bruce Collins (died December 30, 1990), known in the literature by the pseudonym "Barnabas," was an American who claimed to be a retired metallurgical engineer and government employee. He said that from 1942 through the late 1950s he developed metal alloys for electromagnetic propagation and magnetic field propulsion in an official capacity. UFO researcher [[Tim Cooper]] interviewed him on November 20, 1990, weeks before he died, and [[Leonard Stringfield]] published the account, much of it gathered by Cooper, in his 1991 crash retrieval Status Report VI, *The Inner Sanctum*. Gerb draws on Collins in three videos: for his 1947 sighting of an [[Egg-shaped UAP|egg-shaped craft]], for his claims about agencies studying recovered technology, and for what he said about the origins of the [[NRO (National Reconnaissance Office)|NRO]].
+Albert Bruce Collins (died December 30, 1990), known in the literature by the pseudonym "Barnabas," was an American who claimed to be a retired metallurgical engineer and government employee. He said that from 1942 through the late 1950s he developed metal alloys for electromagnetic propagation and magnetic field propulsion in an official capacity. UFO researcher [[Tim Cooper]] interviewed him on November 20, 1990, weeks before he died, and [[Leonard Stringfield]] published the account, much of it gathered by Cooper, in his 1991 crash retrieval [[Stringfield Status Reports|Status Report VI]], *The Inner Sanctum*. Gerb draws on Collins in three videos: for his 1947 sighting of an [[Egg-shaped UAP|egg-shaped craft]], for his claims about agencies studying recovered technology, and for what he said about the origins of the [[NRO (National Reconnaissance Office)|NRO]].
 
 ## Claimed Observations
 

@@ -44,10 +44,11 @@ events:
     title: "Born in Grundy Center, Iowa"
     category: person
   - date: "1948"
-    title: "Project Sign's interplanetary memo"
-    summary: "Ruppelt later wrote that he saw a 1948 Sign memo concluding that UFOs were of interplanetary origin, and that General Hoyt Vandenberg ordered it destroyed."
+    title: "Project Sign's Estimate of the Situation"
+    summary: "Ruppelt later wrote that in 1948 Project Sign sent up a Top Secret Estimate of the Situation concluding that UFOs were interplanetary, and that General Hoyt Vandenberg rejected it for lack of proof. It was later burned, he says, but he saw one of a few copies that were kept."
     category: document
     entities:
+      - "Project Sign Estimate of the Situation (1948)"
       - "Project Sign"
       - "Hoyt Vandenberg"
   - date: "1948-10-01"
@@ -143,7 +144,7 @@ items:
   - date: "1956"
     kind: book
     title: "The Report on Unidentified Flying Objects"
-    note: "His account of the project. Gerb cites it for the 1948 Project Sign memo on interplanetary origin that, Ruppelt says, General Hoyt Vandenberg ordered destroyed, and for the August 1952 Albuquerque interceptor plan he links to Project Pounce."
+    note: "His account of the project. Gerb cites it for Project Sign's 1948 Estimate of the Situation, which concluded that UFOs were interplanetary and which General Hoyt Vandenberg rejected, and for the August 1952 Albuquerque interceptor plan he links to Project Pounce."
     source: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers"
 ---
 ::
@@ -158,7 +159,7 @@ entries:
     note: "Said, as Ruppelt did, that classified programs were studying UFOs alongside Blue Book."
   - name: "Hoyt Vandenberg"
     role: "Air Force general"
-    note: "Ordered the 1948 Project Sign memo on interplanetary origin destroyed, according to Ruppelt's book."
+    note: "Rejected Project Sign's 1948 Estimate of the Situation for lack of proof, according to Ruppelt's book. Gerb says he also ordered it destroyed."
   - name: "George F. Gorman"
     role: "North Dakota National Guard pilot"
     note: "His 1948 dogfight is one of the three classic incidents Ruppelt said convinced Air Force intelligence."
@@ -178,11 +179,19 @@ entries:
 
 In Gerb's account, Ruppelt concluded as director that UFOs had an "interplanetary explanation", and on 24 April 1952 suggested that programs parallel to the official investigation were "conducting a more complete investigation". Dr. [[J. Allen Hynek]], Blue Book's scientific adviser, likewise said that other classified programs were studying UFOs alongside Blue Book. In *MOON DUST*, Gerb suggests that one of these could have been an inconspicuous crash retrieval program, "one that unless you look hard enough you'll never know existed": [[Project Moon Dust]], first mentioned in a 1961 Air Force draft policy that proposed giving the [[USAF 1127th Field Activities Group]] collection duties for UFOs.
 
+Ruppelt's book doesn't present the interplanetary conclusion as his own. It is the conclusion of Project Sign's 1948 [[Project Sign Estimate of the Situation (1948)|Estimate of the Situation]], written three years before he joined the project (see below).
+
+> [!edit] Clarified 16 October 2026
+> Added to make clear that "Ruppelt concluded as director that UFOs had an 'interplanetary explanation'" is Gerb's account in *MOON DUST*. In Ruppelt's book the conclusion is Project Sign's, in its 1948 Estimate of the Situation.
+
 In his video on unidentified submerged objects, Gerb returns to Ruppelt to identify the sender of a 1952 letter forwarding nine reports of submarine contacts with flying discs. Ruppelt stated that the Air Force Office of Intelligence (AFOIN) was running a more complete UFO investigation parallel to Blue Book, connected to [[Battelle Memorial Institute]]'s later-uncovered [[Project Stork]], and named AFOIN's technical capabilities branch and collection control branch as offices doing UFO work. Gerb concludes that the [[AFOIN Special Group (AFOIN-X-SG)|AFOIN special group]] that sent the letter was likely one of the government's real secret UFO investigation groups. Ruppelt's name also appears in the classified 9 January 1953 Project Stork memo, in which Battelle's Dr. [[Howard C. Cross]] proposed that Stork "assist the Air Force in reassuring the public that everything is well under control with respect to the UFO problem."
 
 ## Project Sign and the Interplanetary Explanation
 
-Ruppelt said that Project Sign endorsed the interplanetary explanation for some of its unexplained sightings. In his 1956 book, as Gerb recounts it, he wrote that he saw a 1948 Sign memo concluding that UFOs were of interplanetary origin, and that General [[Hoyt Vandenberg]], whom Gerb calls "one of the original accused members" of [[Majestic 12|MJ-12]], ordered it destroyed. For Gerb, Ruppelt's words show that before 1953 there was "some sort of transparency" on the subject.
+Ruppelt's book is the main source for the Estimate of the Situation, a Top Secret estimate that Project Sign sent up in the late summer or early autumn of 1948. In his words, "the estimate was that they were interplanetary!" It reached General [[Hoyt Vandenberg]], the Chief of Staff, who "wouldn't buy interplanetary vehicles" because "the report lacked proof". Ruppelt writes that some months later it was declassified and burned, and that "a few copies, one of which I saw, were kept". No copy has been made public, and in 2024 [[AARO]] said it could not verify his account or find the document. Gerb, recounting the book, calls it a 1948 Sign "memo" and says that Vandenberg, whom he calls "one of the original accused members" of [[Majestic 12|MJ-12]], ordered it destroyed. For Gerb, Ruppelt's words show that before 1953 there was "some sort of transparency" on the subject.
+
+> [!edit] Corrected 16 October 2026
+> This section, with the 1948 timeline entry, the note on his book and Vandenberg's roster note, used to say that Ruppelt wrote that Vandenberg ordered a 1948 Sign "memo" destroyed. Ruppelt's book calls it an Estimate of the Situation and says Vandenberg rejected it, but it doesn't say who ordered the copies burned. The destruction order is Gerb's account.
 
 ## The Robertson Panel
 

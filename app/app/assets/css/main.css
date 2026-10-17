@@ -79,6 +79,7 @@
   --graph-cat-events: 265 55% 50%;
   --graph-cat-ops: 178 60% 34%;
   --graph-cat-concepts: 337.4 70.3% 69.6%;
+  --graph-cat-documents: 33 85% 37%;
   --graph-cat-videos: 220 8% 74%;
   --overlay: 222.2 47% 8%;
   --overlay-opacity: 0.45;
@@ -115,6 +116,7 @@
   --graph-cat-events: 265 70% 70%;
   --graph-cat-ops: 178 55% 50%;
   --graph-cat-concepts: 338.2 61.1% 57.6%;
+  --graph-cat-documents: 38 80% 60%;
   --graph-cat-videos: 0 0% 96%;
   --overlay: 0 0% 0%;
   --overlay-opacity: 0.7;
@@ -150,6 +152,7 @@
   --graph-cat-events: 265 60% 67%;
   --graph-cat-ops: 178 48% 48%;
   --graph-cat-concepts: 338.2 61.1% 57.6%;
+  --graph-cat-documents: 38 70% 57%;
   --graph-cat-videos: 0 0% 90%;
   --overlay: 0 0% 0%;
   --overlay-opacity: 0.6;
@@ -185,6 +188,7 @@
   --graph-cat-events: 265 48% 47%;
   --graph-cat-ops: 178 55% 31%;
   --graph-cat-concepts: 337.4 70.3% 69.6%;
+  --graph-cat-documents: 30 80% 34%;
   --graph-cat-videos: 40 12% 70%;
   --overlay: 28 30% 14%;
   --overlay-opacity: 0.4;

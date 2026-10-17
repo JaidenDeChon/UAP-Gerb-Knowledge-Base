@@ -118,3 +118,12 @@ Read this whole file before proposing, and never re-propose an idea already list
 - **Why the kit falls short:** `::wiki-timeline` has no slot for a venue, co-authors, a quote or a source; `::wiki-claim` is for disputes.
 - **Authoring sketch:** see the component doc.
 - **Implementation plan:** done; no dependencies, theme tokens only, kind never shown by icon alone.
+
+### Document page — `::wiki-document`
+
+- **Status:** shipped (2026-10-16). Requested directly by the user ("small ones … when it makes sense to insert them into an article"), so built without a separate proposal round. Built as `WikiDocument.vue` (+ `utils/pdf.ts`), documented in `docs/wiki-components.md`; the hosting pipeline and the full viewer are in `docs/documents.md`. First used in the Lockheed Martin reverse-engineering article (the 1986 GAO count).
+- **Premise:** articles quote and describe memos and reports constantly, and Gerb often shows them on screen, but the kit could only paraphrase them.
+- **What the reader sees:** the page as paper, or a band of it, with a caption naming the document and page and linking to the full viewer. On a phone it's the same at column width.
+- **Why the kit falls short:** `::wiki-figure` wraps static images, which would mean hand-cropped screenshots in git with no link back to the source; `::wiki-record` lists documents but shows none of them.
+- **Authoring sketch:** see the component doc.
+- **Implementation plan:** done. One dependency, `pdfjs-dist` (legacy build), loaded only when a page draws.

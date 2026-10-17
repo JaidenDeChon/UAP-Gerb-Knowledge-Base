@@ -99,12 +99,13 @@ events:
       - "Harry Truman"
       - "Vannevar Bush"
   - date: "1948"
-    title: "Project Sign and the destroyed interplanetary memo"
+    title: "Project Sign and the Estimate of the Situation"
     cue: 7743
-    summary: "The Air Force's first official UFO investigation, Project Sign, began in 1948. Captain Edward J. Ruppelt later wrote that he saw a 1948 Sign memo concluding UFOs were of interplanetary origin, and that General Hoyt Vandenberg ordered it destroyed."
+    summary: "The Air Force's first official UFO investigation, Project Sign, began in 1948. Captain Edward J. Ruppelt later wrote that Sign's 1948 Estimate of the Situation concluded UFOs were interplanetary, that General Hoyt Vandenberg rejected it for lack of proof, and that it was later burned, though he saw one of a few copies kept. Gerb calls it a memo and says Vandenberg ordered it destroyed."
     category: program
     significance: notable
     entities:
+      - "Project Sign Estimate of the Situation (1948)"
       - "Project Sign"
       - "Edward J. Ruppelt"
       - "Hoyt Vandenberg"
@@ -303,7 +304,7 @@ events:
   - date: "2010"
     title: "Kona Blue proposed as a DHS special access program"
     cue: 3057
-    summary: "The video dates Kona Blue, a proposed Department of Homeland Security special access program, to 2010. It was meant to let Lockheed Martin pass UFO materials to AAWSAP, and Gerb uses its two-word name as an example of how a SAP nickname works."
+    summary: "The video dates Kona Blue, a proposed Department of Homeland Security special access program, to 2010; DHS's declassified records show it was approved as a prospective SAP on 11 July 2011. It was meant to let Lockheed Martin pass UFO materials to AAWSAP, and Gerb uses its two-word name as an example of how a SAP nickname works."
     category: program
     significance: minor
     entities:
@@ -437,7 +438,7 @@ The video gives an extended breakdown of the [[Special Access Programs (SAPs)|SA
 
 The term "special access program" was first acknowledged in the 1980s; before that, the equivalents were "black programs," such as the early NRO and Lockheed Skunk Works stealth aircraft. Today SAPs are governed chiefly by Executive Order 13526, which defines a SAP as a program for a specific class of classified information that imposes safeguarding and access requirements beyond those normally required at the same classification level. The intelligence community runs its own equivalent, controlled access programs (CAPs), and the Department of Energy runs its own SAPs under the Atomic Energy Act. Gerb clears up two misconceptions: SAPs are not a way to hide money, and they are not a classification level above top secret. They use the ordinary levels, with tighter access. Well-known examples include the F-117A Nighthawk, B-21 Raider, RQ-180 and Yellow Fruit. Access requires a need-to-know determined by an access approval authority, and read-ins are kept to the minimum needed regardless of rank. Gerb says he knows of a legacy SAP kept so small that a senior scientist also did account management and an industrial security professional also did janitorial work, so that no one else had to be read in.
 
-SAPs nest into umbrellas, compartments and sub-compartments, each grouping similar critical program information. Gerb's examples from Part One are the Polaris submarine program, which housed hidden programs including Sand Dollar, and Yellow Fruit, which housed several classified operations. Names hide information too. A SAP is known by an unclassified two-word nickname, its program identifier (PID), such as Yellow Fruit or [[Kona Blue]], to which the SAP central office may add a classified codeword and control markings such as NOFORN. His example marking is "TS SAR HANGAR BULLY WAIVED": top secret, special access required, the PID, and a waived control. He says whistleblowers have sworn before Congress that legacy SAPs rotate names, possibly monthly, to help trace leaks.
+SAPs nest into umbrellas, compartments and sub-compartments, each grouping similar critical program information. Gerb's examples from Part One are the Polaris submarine program, which housed hidden programs including Sand Dollar, and Yellow Fruit, which housed several classified operations. Names hide information too. A SAP is known by an unclassified two-word nickname, its program identifier (PID), such as Yellow Fruit or [[Kona Blue]], to which the SAP central office may add a classified codeword and control markings such as NOFORN. His example marking is "TS SAR HANGAR BULLY WAIVED": top secret, special access required, the PID, and a waived control. A second example, shown on screen, is the Kona Blue marking with its NOFORN control; "TOP SECRET//KONA BLUE//NOFORN" appears, struck out, across the declassified [[Kona Blue Documents]]. He says whistleblowers have sworn before Congress that legacy SAPs rotate names, possibly monthly, to help trace leaks.
 
 ### Three types
 
@@ -636,7 +637,10 @@ The budget of the Department of Energy's Office of Intelligence and Counterintel
 
 ## Narrative Control and Disinformation
 
-Gerb treats disinformation as the onion's surface layer, used since 1947 to stigmatize the subject and keep the public and lawmakers confused. The official lineage runs from [[Project Sign]] (1948) through [[Project Grudge]] (1949-1951) to [[Project Blue Book]] (1952-1969). Captain [[Edward J. Ruppelt]] wrote that a 1948 Sign memo concluding UFOs were interplanetary was ordered destroyed by General [[Hoyt Vandenberg]], "one of the original accused members" of MJ-12. A 1952 Ruppelt film briefing, *Flying Saucer Talk* (AF-ATIC-film 0352), which Representative [[Eric Burlison]] has named, is held at [[MIT Lincoln Laboratory]], an FFRDC descended from Vannevar Bush's MIT Radiation Laboratory. Gerb asks why it was never handed over to the National Archives. The schism came with the CIA's 1953 [[Robertson Panel]], which he says was given a mandate in advance to play down public concern. The same playbook ran through the 1969 [[Condon Committee]], which [[J. Allen Hynek]] said ignored key evidence, and through [[AARO]].
+Gerb treats disinformation as the onion's surface layer, used since 1947 to stigmatize the subject and keep the public and lawmakers confused. The official lineage runs from [[Project Sign]] (1948) through [[Project Grudge]] (1949-1951) to [[Project Blue Book]] (1952-1969). Gerb cites Captain [[Edward J. Ruppelt]]'s 1956 book for a 1948 Sign "memo" concluding that UFOs were of "interplanetary origin", which he says General [[Hoyt Vandenberg]], "one of the original accused members" of MJ-12, ordered destroyed. Ruppelt calls the document Sign's Top Secret [[Project Sign Estimate of the Situation (1948)|Estimate of the Situation]]. He writes that Vandenberg rejected it because it "lacked proof" and that it was later declassified and burned, with a few copies kept, but he doesn't say who ordered the burning. No copy has been made public. A 1952 Ruppelt film briefing, *Flying Saucer Talk* (AF-ATIC-film 0352), which Representative [[Eric Burlison]] has named, is held at [[MIT Lincoln Laboratory]], an FFRDC descended from Vannevar Bush's MIT Radiation Laboratory. Gerb asks why it was never handed over to the National Archives. The schism came with the CIA's 1953 [[Robertson Panel]], which he says was given a mandate in advance to play down public concern. The same playbook ran through the 1969 [[Condon Committee]], which [[J. Allen Hynek]] said ignored key evidence, and through [[AARO]].
+
+> [!edit] Corrected 16 October 2026
+> This paragraph, and the 1948 timeline entry, used to say that Ruppelt wrote that Vandenberg ordered a 1948 Sign memo destroyed. That is Gerb's reading. Ruppelt's book calls the document an Estimate of the Situation and says Vandenberg rejected it, without saying who ordered the copies burned.
 
 ### AARO and Yankee Blue
 

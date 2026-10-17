@@ -46,14 +46,18 @@ export function buildLinkMap(): Map<string, DirectedLinks> {
 
 /* --------------------------------------------------------------- building -- */
 
+/** Where a Documents note's reading text lives (see docs/documents.md, "Transcriptions"). */
+export const DOCUMENT_TRANSCRIPTIONS = 'Documents/Transcriptions/'
+
 /**
- * Video transcripts stay out of the knowledge graph: they're raw caption
+ * Video transcripts, and the transcriptions of documents, stay out of the knowledge graph: they're raw caption
  * dumps, not curated notes, and as (mostly) unlinked degree-0 nodes they only
  * pad the map with noise. They remain in the sidebar tree and readable as
  * pages — this filter is scoped to the graph payload and its link sidecars.
  */
 function isTranscript(stem: string): boolean {
-  return stem.startsWith('Videos/') && stem.endsWith('/transcript')
+  return (stem.startsWith('Videos/') && stem.endsWith('/transcript'))
+    || stem.startsWith(DOCUMENT_TRANSCRIPTIONS)
 }
 
 function build(): GraphIndex {

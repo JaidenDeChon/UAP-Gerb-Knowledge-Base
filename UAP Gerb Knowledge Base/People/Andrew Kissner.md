@@ -5,10 +5,13 @@ tags:
   - person
 ---
 
-J. Andrew Kissner is described in Gerb's videos as a former New Mexico state legislator. (The captions of Gerb's videos spell his name in many ways, among them "Kner", "Kisner", "Kistner", "Kitchener" and "Knisser".) In the early 1990s he spent years privately interviewing people in the US armed forces, the intelligence community, the Department of Energy and private industry about alleged UFO crash-retrieval and reverse-engineering programs. Gerb calls him "a mini David Grusch prototype". His findings led New Mexico congressman [[Steven Schiff]] to open a General Accounting Office inquiry into the Roswell incident. Its report of 28 July 1995 found that Roswell Army Airfield's outgoing messages for July 1947 had been destroyed without proper authorization. Kissner's 1994 statement is the "estimate of the situation" Gerb uses to close his Cold War era of the legacy programs, and he returns to it in at least eight videos.
+J. Andrew Kissner is described in Gerb's videos as a former New Mexico state legislator. (The captions of Gerb's videos spell his name in many ways, among them "Kner", "Kisner", "Kistner", "Kitchener" and "Knisser".) In the early 1990s he spent years privately interviewing people in the US armed forces, the intelligence community, the Department of Energy and private industry about alleged UFO crash-retrieval and reverse-engineering programs. Gerb calls him "a mini David Grusch prototype". Gerb credits his findings with leading New Mexico congressman [[Steven Schiff]] to open a General Accounting Office inquiry into the Roswell incident. Its report of 28 July 1995, the [[GAO Roswell Report (1995)]], found that Roswell Army Airfield's outgoing messages for the period, July 1947 included, had been destroyed, with no record of who destroyed them or under what authority. Kissner's 1994 statement is the "estimate of the situation" Gerb uses to close his Cold War era of the legacy programs, and he returns to it in at least eight videos.
 
 > [!edit] Attribution clarified 16 October 2026
 > Earlier versions stated as fact that Kissner was a New Mexico state representative. Legislature rosters and obituaries did not confirm it, so it is now attributed to Gerb's videos.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions stated as fact that Kissner's findings led Schiff to the inquiry, and said the report found the messages destroyed "without proper authorization". The link to Kissner is Gerb's account. The report (GAO/NSIAD-95-187) says the disposition form recorded no one, no date and no authority for the destruction; "without proper authority" is Schiff's description, from his statement on the report.
 
 ## The 1994 Estimate of the Situation
 

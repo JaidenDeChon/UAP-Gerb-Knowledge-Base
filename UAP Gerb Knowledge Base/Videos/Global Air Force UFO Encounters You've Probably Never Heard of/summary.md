@@ -138,7 +138,7 @@ Gerb calls it "crucial to note" that the controller at Hector, [[L.D. Jensen]], 
 
 ### The Project Sign investigation
 
-In 1948 UFO investigations belonged to [[Project Sign]], which, Gerb explains, was created after Lieutenant General [[Nathan Twining]] wrote to the Air Force's commanding general that flying discs were "real and not visionary or fictitious". Sign's reports went to the [[Army and Navy Research and Development Board]], the USAF Scientific Advisory Board and, "you guessed it", the [[Atomic Energy Commission]]. Sign interviewed Gorman and other witnesses and tested his Mustang for radiation, and its explanation of the case changed as the investigation went on:
+In 1948 UFO investigations belonged to [[Project Sign]], which, Gerb explains, was created after Lieutenant General [[Nathan Twining]] [[Twining Memo|wrote to the Air Force's commanding general]] that flying discs were "real and not visionary or fictitious". Sign's reports went to the [[Army and Navy Research and Development Board]], the USAF Scientific Advisory Board and, "you guessed it", the [[Atomic Energy Commission]]. Sign interviewed Gorman and other witnesses and tested his Mustang for radiation, and its explanation of the case changed as the investigation went on:
 
 ::wiki-claim{video="6cVe-hdMTCE" video-title="Global Air Force UFO Encounters You've Probably Never Heard of"}
 ---

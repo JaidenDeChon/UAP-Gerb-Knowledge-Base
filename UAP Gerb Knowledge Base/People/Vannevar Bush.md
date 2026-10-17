@@ -216,7 +216,10 @@ After the war, Bush chaired the Joint Research and Development Board, set up in 
 Bush appears in multiple independent lines of UAP testimony and documentation:
 
 - In his November 1950 memo, Smith recorded that his Washington source (Sarbacher) named Bush as the head of the small group studying UFOs within the US government.
-- In his 1983 letter to Steinman, Sarbacher wrote that Bush was "definitely involved" in crash retrieval efforts, alongside [[John Von Neumann]] and [[J. Robert Oppenheimer]].
+- In his [[Sarbacher Letter|1983 letter]] to Steinman, Sarbacher wrote that [[John Von Neumann]] and Bush were "definitely involved", and "I think Dr. Robert Oppenheimer also" ([[J. Robert Oppenheimer]]). He misspelt the name "Vannever" in the same letter whose postscript told Steinman he had Bush's name wrong.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions put Oppenheimer on the same footing as Bush and von Neumann. The letter is less sure of him.
 - In 1990, in three recorded calls with Henry Azadehdel, who wrote as Armen Victorian, [[Eric A. Walker]] confirmed Bush's involvement in the UFO program.
 - Among the [[Majestic 12]] documents, the [[Eisenhower Briefing Document]] names Bush as a member of the team that President Truman tasked with investigating crashed UAP, and says he directed the Roswell craft and body recovery with General Nathan Twining. Gerb notes that Truman, Forrestal and Bush really did meet on 24 September 1947, the date of its memo authorizing "Operation Majestic 12".
 - The [[Bowen Manuscript]], returned through FOIA in 1999, bears marginal notes from about 1962 that Ryan and Robert Wood attribute to Bush, among them "what is Don Menzel doing?" and, beside speculation about American gravity-control craft, "this should not get out".

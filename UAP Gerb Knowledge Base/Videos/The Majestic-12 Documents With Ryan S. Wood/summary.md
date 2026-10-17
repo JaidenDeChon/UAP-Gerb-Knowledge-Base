@@ -204,7 +204,7 @@ events:
   - date: "1961"
     title: "Project Moondust proposed"
     cue: 5183
-    summary: "The US Air Force proposed Project Moondust in 1961, alongside Blue Fly, to 'locate, recover and deliver descended foreign space vehicles'. Wood calls it a recovery organisation mainly for space junk but also for 'down saucers', and the Bowen manuscript carries a handwritten Moondust annotation."
+    summary: "Gerb describes Project Moondust as proposed by the US Air Force in 1961, alongside Blue Fly and Project UFO, to 'locate, recover and deliver descended foreign space vehicles'; the 1961 AFCIN paper he quotes treats all three as already established. Wood calls it a recovery organisation mainly for space junk but also for 'down saucers', and the Bowen manuscript carries a handwritten Moondust annotation."
     category: program
     significance: notable
     entities:
@@ -655,7 +655,10 @@ root:
 
 Cantwheel wrote to Cooper near death from cancer, saying he had served in the Counter Intelligence Corps' [[Interplanetary Phenomenon Unit]] from 1942 to 1958, worked in CIA covert operations in the 1960s, and dealt with the "Majestic community" and the 5412 group. Cooper set out his findings in a five-page affidavit shared with Friedman and Robert Wood. Gerb presents Reddit researcher "Harry is White Hot"'s case that Cantwheel was Boris Tarasoff. Tarasoff was a Russian-born Counter Intelligence Corps officer (1942–1945) trained at Camp Ritchie, Maryland, about 70 miles from Washington, and at the advanced CIC school in Oberammergau, Germany. From 1945 to 1956 he did building maintenance for the American Red Cross in Cleveland, which the researcher suggests was cover for IPU work near [[Wright Field]]. He then served in the CIA from 1956 to 1968. A 1998 CIA release placed Tarasoff, born in 1908, in San Leandro, California, where Cooper believed Cantwheel lived, and he would have been 88 at the time.
 
-The [[Bowen Manuscript]], Vernon Bowen's *Encyclopedia of Flying Saucers*, is one of the few original paper documents. Its ink, dated to about 1962, carries notes the Woods attribute to Bush. The notes include "what is Don Menzel doing?", underlining of passages about insect-like beings (which Gerb links to [[Robert Sarbacher]]'s account) and about Mussolini and Hitler seeing a craft in 1942 (recalling the [[1933 Magenta UFO CrashRetrieval|1933 Magenta case]]), and the word "Moondust". [[Project Moon Dust]], proposed by the Air Force in 1961 with Blue Fly to recover "descended foreign space vehicles", was mainly for space junk but also covered "down saucers", Wood says. Beside a passage asking whether some saucers were secret American craft, the manuscript reads "this should not get out". Wood takes that as evidence of concern about exposing gravity-control work.
+The [[Bowen Manuscript]], Vernon Bowen's *Encyclopedia of Flying Saucers*, is one of the few original paper documents. Its ink, dated to about 1962, carries notes the Woods attribute to Bush. The notes include "what is Don Menzel doing?", underlining of passages about insect-like beings (which Gerb links to [[Robert Sarbacher]]'s account) and about Mussolini and Hitler seeing a craft in 1942 (recalling the [[1933 Magenta UFO CrashRetrieval|1933 Magenta case]]), and the word "Moondust". Gerb describes [[Project Moon Dust]] as proposed by the Air Force in 1961, with Blue Fly, to recover "descended foreign space vehicles". The paper he quotes, the [[AFCIN Intelligence Team Personnel Memo (1961)]], describes Moon Dust and Blue Fly as already established, with an AFCIN procedure for Blue Fly dated February 1960. Moon Dust was mainly for space junk but also covered "down saucers", Wood says. Beside a passage asking whether some saucers were secret American craft, the manuscript reads "this should not get out". Wood takes that as evidence of concern about exposing gravity-control work.
+
+> [!edit] Attribution clarified 16 October 2026
+> Earlier versions stated as fact that the Air Force proposed Moon Dust in 1961 with Blue Fly. That is Gerb's description. The 3 November 1961 AFCIN paper he quotes treats Moon Dust, Blue Fly and the UFO program as existing projects. The timeline entry has been changed to match.
 
 ## The Kennedy thread
 
@@ -697,5 +700,6 @@ Gerb closes by recommending Wood's *Magic Eyes Only*, Friedman's *Top Secret/Maj
 - **Organizations**: [[Majestic 12]], [[Interplanetary Phenomenon Unit]], [[CIA]], [[Atomic Energy Commission]], [[Sandia National Laboratories]], [[Project Sign]], [[Project Blue Book]], [[Condon Committee]], [[Aerospace Corporation]], [[Carlyle Group]], [[EG&G]], [[RAND Corporation]]
 - **Locations**: [[Kirtland Air Force Base, New Mexico]], [[Area 51]], [[Wright-Patterson Air Force Base]], [[Wright Field]], [[Ent Air Force Base, Colorado]]
 - **Concepts**: [[MJ-12 Documents]], [[Eisenhower Briefing Document]], [[Special Operations Manual (SOM 1-01)]], [[Bowen Manuscript]], [[Blue Room]], [[Atomic Energy Act of 1954]], [[UFO Stigma]], [[Robertson Panel]]
+- **Documents**: [[AFCIN Intelligence Team Personnel Memo (1961)]]
 - **Operations**: [[Project Moon Dust]]
 - **Events**: [[Roswell Crash]], [[1950 El Indio UFO Crash]], [[1953 Kingman, Arizona Crash Retrieval]], [[1965 Kecksburg, Pennsylvania Crash Retrieval]], [[1974 Coyame, Mexico UFO Crash Retrieval]], [[1933 Magenta UFO CrashRetrieval]]

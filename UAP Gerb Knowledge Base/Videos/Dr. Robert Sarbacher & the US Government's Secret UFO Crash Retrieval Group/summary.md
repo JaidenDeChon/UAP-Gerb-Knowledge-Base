@@ -41,7 +41,7 @@ stats:
 
 ## Overview
 
-[[Robert Sarbacher]] was a Harvard-trained physicist, a student of [[Einstein|Albert Einstein]] and a consultant to the Department of Defense's [[Research and Development Board]] under the Truman administration. In this video Gerb presents him as a key to the US government's early "feverish obsession" with UFOs and crash retrievals. The video opens on the 1950 memo in which Canadian government radio engineer [[Wilbert B. Smith]] relayed four claims from a Washington source: that flying saucers exist, that the subject is classified even higher than the hydrogen bomb, that a small group headed by [[Vannevar Bush]] is making a concentrated effort to understand them, and that US authorities consider the matter of tremendous significance. The source was Sarbacher, and the memo led directly to Canada's [[Project Magnet]] and [[Project Second Story]].
+[[Robert Sarbacher]] was a Harvard-trained physicist, a student of [[Einstein|Albert Einstein]] and a consultant to the Department of Defense's [[Research and Development Board]] under the Truman administration. In this video Gerb presents him as a key to the US government's early "feverish obsession" with UFOs and crash retrievals. The video opens on the [[Wilbert Smith Memo|1950 memo]] in which Canadian government radio engineer [[Wilbert B. Smith]] relayed four claims from a Washington source: that flying saucers exist, that the subject is classified even higher than the hydrogen bomb, that a small group headed by [[Vannevar Bush]] is making a concentrated effort to understand them, and that US authorities consider the matter of tremendous significance. The source was Sarbacher, and the memo led directly to Canada's [[Project Magnet]] and [[Project Second Story]].
 
 Gerb then follows Sarbacher's account through the decades. Sarbacher's son said his father was asked to build camera-carrying missiles, like those on the V-2, to track UFOs, and the video sets that beside V-2 sightings in the [[Project Twinkle]] report and at [[White Sands Missile Range]]. In 1983, Sarbacher answered twelve questions from researcher [[William Steinman]], naming Bush, [[John Von Neumann]] and [[J. Robert Oppenheimer]] as involved and describing recovered materials that were "extremely light and very tough" and occupants "constructed like certain insects." In a recorded call the same year, [[Stanton Friedman]] got him to recall a meeting at [[Wright Field]] about a crash that was "very likely" in 1947, and of a smug attendee from Philadelphia, later identified as Dr. [[Eric A. Walker]].
 
@@ -200,7 +200,7 @@ events:
   - date: "1983-11"
     title: "Sarbacher's reply to William Steinman"
     cue: 523
-    summary: "Answering twelve questions from William Steinman, Sarbacher said he had no association with the recovery personnel and did not know crash dates, was invited to Research and Development Board discussions but could not attend, and saw reports but no photographs. He named Vannevar Bush, John von Neumann and J. Robert Oppenheimer as involved, and described very light, tough materials and occupants built like insects."
+    summary: "Answering the questions in William Steinman's letters of September and October, Sarbacher said he had no association with the recovery personnel and did not know crash dates, was invited to discussions about the recoveries but could not attend, and saw reports but recalled no photographs. He named Vannevar Bush and John von Neumann as definitely involved and J. Robert Oppenheimer as probably involved, and described very light, tough materials and occupants built like insects."
     category: document
     significance: major
     entities:
@@ -295,17 +295,20 @@ Gerb does not claim this proves Sarbacher photographed UFOs from V-2s, only that
 
 ### Answering William Steinman
 
-In November 1983, UFO researcher [[William Steinman]] wrote to Sarbacher and received what Gerb calls "a truly startling letter" in reply: answers to a series of twelve questions. The letter sets out both what Sarbacher said he knew and what he said he did not.
+In 1983, UFO researcher [[William Steinman]] wrote to Sarbacher, and on 29 November Sarbacher sent what Gerb calls "a truly startling letter" in reply, the [[Sarbacher Letter]]. Gerb describes it as answers to "a series of 12 questions"; the letter itself answers five numbered questions from Steinman's letter of 12 September, and one from his letter of 14 October. It sets out both what Sarbacher said he knew and what he said he did not.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said the letter answered twelve questions, that Sarbacher named Oppenheimer as "definitely" involved, that he was not given access to the meetings, and that he never received photographs. The letter answers five numbered questions, says "I think Dr. Robert Oppenheimer also", says he could not attend because his association with the Board was limited, and says he does not recall receiving photographs.
 
 ::wiki-grid{cols=2}
 ::wiki-panel{title="What he said he did not know"}
 - He had no association with any of the people involved in the recoveries.
 - He did not know the dates of the crash recoveries.
-- He was invited to several R&D board discussions about recoveries but was not given access to attend them in person.
-- He never received photographs of UFOs.
+- He was invited to several discussions about the recoveries but could not attend them, since his association with the Research and Development Board was limited and his own business came first.
+- He did not recall receiving any photographs of UFOs.
 ::
 ::wiki-panel{title="What he said he did know" tone="accent"}
-- Vannevar Bush was definitely involved, alongside John von Neumann and J. Robert Oppenheimer.
+- John von Neumann and Vannevar Bush were definitely involved, and he thought J. Robert Oppenheimer was too.
 - He read official reports in his Pentagon office.
 - Materials reported to come from saucer crashes were extremely light and very tough.
 - The instruments or people operating the craft were also very light, so they could withstand the machines' acceleration and deceleration, and he gathered the "aliens" were built like certain insects.
@@ -410,7 +413,7 @@ root:
           note: "Recovered the memo and Smith's meeting notes from Smith's estate."
     - name: "William Steinman"
       label: "Letter, November 1983"
-      note: "Sarbacher answered twelve questions and named Bush, von Neumann and Oppenheimer."
+      note: "Sarbacher answered Steinman's questions, naming Bush and von Neumann as definitely involved and Oppenheimer as probably."
     - name: "Stanton Friedman"
       label: "Recorded call, 1983"
       note: "Got Sarbacher to describe the Wright Field meeting and a smug attendee from Philadelphia."

@@ -72,6 +72,7 @@ events:
     category: document
     entities:
       - "Nathan Twining"
+      - "Twining Memo"
     cue: 203
   - date: "1948"
     title: "Project Sign begins"
@@ -86,13 +87,21 @@ events:
     cue: 192
   - date: "1949"
     title: "Sign shut down; Project Grudge commissioned"
-    summary: "General Hoyt Vandenberg shuts Sign down for \"lack of proof\". Project Grudge is commissioned the same year; Gerb says it was formed specifically to alleviate public anxiety over UFOs. He calls it the first real breadcrumb of the government trying to alter public perception."
+    summary: "Gerb says General Hoyt Vandenberg shut Sign down for \"lack of proof\". In Ruppelt's account, what Vandenberg rejected for lack of proof was Sign's 1948 Estimate of the Situation, and an order of February 1949 renamed Sign as Grudge. Project Grudge is commissioned the same year; Gerb says it was formed specifically to alleviate public anxiety over UFOs. He calls it the first real breadcrumb of the government trying to alter public perception."
     category: program
     significance: major
     entities:
       - "Hoyt Vandenberg"
       - "Project Grudge"
     cue: 256
+  - date: "1949-08"
+    title: "Grudge report issued"
+    summary: "Grudge's report, Technical Report No. 102-AC 49/15-100 of August 1949, covers incidents 1 to 244, reported up to January 1949, and recommends that the investigation be reduced in scope. Gerb says a full 707-page report of case analysis was published in 1960 and that Grudge's records were updated until 1999."
+    category: document
+    entities:
+      - "Project Grudge Report"
+      - "Project Grudge"
+    cue: 278
   - date: "1951-08"
     title: "Lubbock Lights put down to migrating birds"
     summary: "Four engineering professors in Lubbock, Texas watch repeated flights of 20 to 30 lights in a perfect semicircle. Grudge puts the case down to migrating birds, an explanation the witnesses did not share."
@@ -152,13 +161,6 @@ events:
     entities:
       - "USAF Regulation 200-2"
     cue: 756
-  - date: "1960"
-    title: "Grudge report published"
-    summary: "Though Grudge was officially terminated in 1949, a full 707-page report of its case analysis is published in 1960, and its records are updated until 1999."
-    category: document
-    entities:
-      - "Project Grudge"
-    cue: 278
   - date: "1966-03"
     title: "Dexter, Michigan sighting called swamp gas"
     summary: "Hynek explains the Dexter, Michigan mass sighting as swamp gas, the explanation that most dissatisfied Congressman Gerald Ford."
@@ -251,13 +253,19 @@ Gerb notes that the story could begin with the 1947 Kenneth Arnold sightings or 
 
 ### Project Sign
 
-[[Project Sign]], first named Project Saucer, ran from 1948 to 1949. The video says it was established by USAF General [[Nathan Twining]], whose letter to General George Schulgen of the Army Air Forces asserted that flying discs are "real and not visionary or fictitious". Sign's written report states that some UFO reports present actual objects whose origins cannot be determined. [[Edward J. Ruppelt]], later director of Grudge and Blue Book, said Sign endorsed the interplanetary explanation for some unexplained sightings.
+[[Project Sign]], first named Project Saucer, ran from 1948 to 1949. The video says it was established by USAF General [[Nathan Twining]], whose [[Twining Memo|letter]] to General George Schulgen of the Army Air Forces asserted that flying discs are "real and not visionary or fictitious". Sign's written report states that some UFO reports present actual objects whose origins cannot be determined. [[Edward J. Ruppelt]], later director of Grudge and Blue Book, said Sign endorsed the interplanetary explanation for some unexplained sightings. In his 1956 book he describes a Top Secret [[Project Sign Estimate of the Situation (1948)|Estimate of the Situation]], sent up in 1948, which concluded that UFOs were interplanetary. No copy of it has been made public.
 
-Gerb stresses who received Sign's reports: every one had to be sent to the [[Army and Navy Research and Development Board]], the [[USAF Scientific Advisory Group]] and the [[Atomic Energy Commission]]. He reads this as one more case of an official UFO investigation tracing back to the AEC, parent of today's Department of Energy. General [[Hoyt Vandenberg]] shut Sign down in 1949 for "lack of proof".
+Gerb stresses who received Sign's reports: every one had to be sent to the [[Army and Navy Research and Development Board]], the [[USAF Scientific Advisory Group]] and the [[Atomic Energy Commission]]. He reads this as one more case of an official UFO investigation tracing back to the AEC, parent of today's Department of Energy. Gerb says General [[Hoyt Vandenberg]] shut Sign down in 1949 for "lack of proof". In Ruppelt's account, what Vandenberg rejected for lack of proof was the 1948 Estimate, not the project, and Sign was renamed Grudge by an order of 11 February 1949.
+
+> [!edit] Corrected 16 October 2026
+> This sentence, the 1949 timeline entry, the comparison table and the key claims used to say as fact that Vandenberg shut Sign down in 1949 for "lack of proof". That is Gerb's account. Ruppelt, the only source for Vandenberg's part, says he rejected Sign's 1948 Estimate of the Situation for lack of proof; Sign became Grudge by an order of February 1949 that Ruppelt doesn't credit to Vandenberg.
 
 ### Project Grudge
 
-[[Project Grudge]] was commissioned the same year and officially ran only through 1949, yet its records were updated until 1999 and a full 707-page report of case analysis was published in 1960. The Air Force formed it specifically to alleviate public anxiety over UFOs, and it was tasked with explaining sightings away as balloons, conventional aircraft, optical illusions, planets or mass hallucination. Gerb calls this "the first real breadcrumbs" of the government trying to shape public perception.
+[[Project Grudge]] was commissioned the same year and officially ran only through 1949. Gerb says its records were updated until 1999 and that a full 707-page report of case analysis was published in 1960. The [[Project Grudge Report|report]] itself is dated August 1949: it covers incidents 1 to 244, reported up to January 1949, and the National Archives' scan, appendices included, runs to 412 pages. Gerb says the Air Force formed Grudge specifically to alleviate public anxiety over UFOs, and that it was tasked with explaining sightings away as balloons, conventional aircraft, optical illusions, planets or mass hallucination. The report's summary quotes a similar list from the RAND Corporation, one of its consultants, which had found nothing to "seriously controvert simple rational explanations" in terms of balloons, conventional aircraft, planets, meteors, bits of paper, optical illusions, practical jokers and "psychopathological reporters". Its conclusions put the reports down to misidentified conventional objects, "a mild form of mass hysteria", hoaxes and "psychopathological persons", and it recommended that the investigation be reduced in scope. Gerb calls all this "the first real breadcrumbs" of the government trying to shape public perception.
+
+> [!edit] Corrected 16 October 2026
+> This paragraph, the timeline entry and the comparison table used to say as fact that a full 707-page Grudge report was published in 1960 and that Grudge's records were updated until 1999, and that Grudge was tasked with explaining sightings away. Those are Gerb's claims. The report (Technical Report No. 102-AC 49/15-100) is dated August 1949 and the National Archives' scan of it runs to 412 pages; no 1960 edition turned up in the search for a copy.
 
 Gerb's example is the [[Lubbock Lights]]. Four engineering professors in [[Lubbock, Texas]] watched several flights of 20 to 30 lights crossing the sky at great speed in a perfect semicircle. Grudge put the case down to a flock of migrating birds, an explanation Gerb calls unsubstantiated and one the witnesses themselves rejected. Hynek later described Grudge as "less science and more of a public relations campaign".
 
@@ -443,8 +451,8 @@ rows:
       - { text: "Nothing added to science; 25–30% of cases unexplained", mark: disputed }
   - attribute: "How it ended"
     cells:
-      - "Shut by Gen. Hoyt Vandenberg for \"lack of proof\""
-      - "Terminated 1949; report published 1960"
+      - { text: "Shut by Gen. Hoyt Vandenberg for \"lack of proof\", Gerb says", mark: disputed }
+      - "Terminated 1949; final report dated August 1949"
       - "Terminated December 1969"
       - "Followed by AFR 200-2"
       - "Endorsed by the National Academy of Sciences"
@@ -500,7 +508,7 @@ entries:
 
 - The video treats the reality of unidentified aerial and submerged phenomena as fact, not up for debate, whatever their origin. They exhibit instantaneous acceleration, hypersonic velocity, anti-gravity, low observability and transmedial travel.
 - UFO reports have been documented in about 140 countries, and military and civilian pilots have historically been advised not to report sightings for fear of losing their flight status.
-- Project Sign (1948) concluded that some UFO reports present actual objects of undeterminable origin; its reports were required to go to the Atomic Energy Commission among others; General Vandenberg shut it down for "lack of proof".
+- Project Sign (1948) concluded that some UFO reports present actual objects of undeterminable origin; its reports were required to go to the Atomic Energy Commission among others; General Vandenberg shut it down for "lack of proof" (in Ruppelt's account, Vandenberg's "lack of proof" was his reason for rejecting Sign's 1948 Estimate of the Situation).
 - Project Grudge was formed to alleviate public anxiety by explaining sightings away, and put the Lubbock Lights down to migrating birds against the witnesses' own view; Hynek called it "less science and more of a public relations campaign".
 - Project Blue Book analysed 12,618 reports, 701 unexplained; Hynek said it was not a scientific project and that the Air Force suppressed interesting cases.
 - The Robertson Panel reviewed 23 of 2,331 cases, and its conclusions were predetermined: signatory Thornton Page said the chairman told members to debunk all reports beforehand.

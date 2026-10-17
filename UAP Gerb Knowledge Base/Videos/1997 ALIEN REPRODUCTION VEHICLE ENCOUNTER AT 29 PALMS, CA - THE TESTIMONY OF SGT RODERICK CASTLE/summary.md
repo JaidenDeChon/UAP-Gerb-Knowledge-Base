@@ -328,7 +328,7 @@ events:
   - date: "2017"
     title: "Salvatore Pais's inertial-mass-reduction craft patents"
     cue: 7017
-    summary: "Patents filed by Salvatore Pais out of Naval Air Station Patuxent River (Pax River) around 2017 for an inertial mass reduction craft show a triangle with a large concave centre, which Gerb compares to the concave feature Castle saw on the craft's underside."
+    summary: "Gerb says Salvatore Pais's Navy patent for an inertial mass reduction craft, which he dates to around 2017 and places at Naval Air Station Patuxent River (Pax River), shows a triangle with a large concave centre, like the concave feature Castle saw on the craft's underside. The patent's drawings show a flat triangle and a diamond, with no concave centre."
     category: document
     significance: minor
     entities:
@@ -610,7 +610,10 @@ rows:
 ---
 ::
 
-Gerb adds that [[Naval Air Station Patuxent River|Pax River]] patents by Salvatore Pais (around 2017) for an inertial-mass-reduction craft also show a triangle with a large concave centre.
+Gerb adds that [[Salvatore Pais]]'s [[Naval Air Station Patuxent River|Pax River]] patents for an inertial-mass-reduction craft (around 2017, he thinks) also show a triangle with a large concave centre. The patent, [[Craft Using an Inertial Mass Reduction Device]], was filed in April 2016, published in November 2017 and granted in December 2018. Its two figures are flat outlines of a triangle and a diamond, and neither they nor its text describe a concave centre.
+
+> [!edit] Clarified 16 October 2026
+> Earlier versions gave Gerb's date and description of the patent without comment. The patent itself (US 10,144,532 B2) gives the filing, publication and grant dates and shows no concave centre. The timeline entry above was reworded to match.
 
 ::wiki-grid{cols=2}
 ::wiki-panel{title="Likeliest, in Gerb's view: a TR-3B" tone="accent"}

@@ -5,7 +5,10 @@ tags:
   - location
 ---
 
-**Tehran** is the capital and largest city of Iran. It is where the [[1976 Tehran UFO Incident]] unfolded, one of the most rigorously documented UAP encounters involving military aviators in history. Two Imperial Iranian Air Force F-4 Phantom jets were scrambled to intercept a UAP hovering over the city. Both pilots lost all of their avionics as they approached it, and the main craft apparently released a second object.
+**Tehran** is the capital and largest city of Iran. It is where the [[1976 Tehran UFO Incident]] unfolded, one of the most rigorously documented UAP encounters involving military aviators in history. Two Imperial Iranian Air Force F-4 Phantom jets were scrambled to intercept a UAP hovering over the city. The first lost all its instruments and communications as it approached and turned back. The second lost its weapons control panel and communications when a second object, released by the main craft, came at it. The [[DIA Tehran UFO Report (1976)]] is the official record.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said both pilots lost all of their avionics. The defense attaché's report says only the first F-4 lost all instrumentation; the second lost its weapons control panel and its UHF and interphone communications.
 
 ## UAP Significance
 

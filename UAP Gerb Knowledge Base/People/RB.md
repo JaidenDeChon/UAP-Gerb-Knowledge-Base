@@ -7,7 +7,7 @@ tags:
   - person
 ---
 
-"RB" is the initials used for an anonymous former [[United States Marine Corps]] Corporal who claimed that for two weeks in December 1963 he was one of the guards securing a large metal building on an undisclosed military base that housed a 40-foot, seamless, disc-shaped craft that he came to believe was not of human origin. His account first appeared in [[Leonard Stringfield]]'s *UFO Crash/Retrieval Status Report 5* under the case title "Marine Guards a Disc-Shaped Vehicle, 1963." The fuller version was pieced together decades later by aerospace historian [[Michael Schratt]] from Stringfield's private archives. RB has never gone public or tried to profit from the story, and he has never made sensational claims.
+"RB" is the initials used for an anonymous former [[United States Marine Corps]] Corporal who claimed that for two weeks in December 1963 he was one of the guards securing a large metal building on an undisclosed military base that housed a 40-foot, seamless, disc-shaped craft that he came to believe was not of human origin. His account first appeared in [[Leonard Stringfield]]'s *[[Stringfield Status Reports|UFO Crash/Retrieval Status Report 5]]* under the case title "Marine Guards a Disc-Shaped Vehicle, 1963." The fuller version was pieced together decades later by aerospace historian [[Michael Schratt]] from Stringfield's private archives. RB has never gone public or tried to profit from the story, and he has never made sensational claims.
 
 ## Background
 
