@@ -9,7 +9,10 @@ The Lockheed Martin Advanced Technology Center (ATC) is an advanced research and
 
 ## Zero Point Energy Research
 
-In 1998, astrophysicist [[Bernard Haisch]] and physicist [[Hal Puthoff]] co-authored a paper on the [[Zero Point Energy]] of the quantum vacuum, published under the ATC's name. The paper looked at one or more resonant frequencies that might be tied to interaction with the quantum vacuum, with propulsion in mind. It is published, institutional evidence that Lockheed Martin researched exotic propulsion physics at the ATC, with possible applications to UAP technology. The paper parallels the theoretical framework that inventor [[Salvatore Pais|Sal Pais]] later cited in his 2017 Navy patent for a triangular craft that uses quantum vacuum interactions for anti-gravitational capabilities.
+In 1998, astrophysicist [[Bernard Haisch]] and physicist [[Hal Puthoff]] co-authored a paper on the [[Zero Point Energy]] of the quantum vacuum, published under the ATC's name. The paper looked at one or more resonant frequencies that might be tied to interaction with the quantum vacuum, with propulsion in mind. It is published, institutional evidence that Lockheed Martin researched exotic propulsion physics at the ATC, with possible applications to UAP technology. The paper parallels the ideas in inventor [[Salvatore Pais|Sal Pais]]'s later Navy patent for a triangular craft that uses quantum vacuum interactions for anti-gravitational capabilities, [[Craft Using an Inertial Mass Reduction Device]], published in 2017 and granted in 2018. The patent cites Puthoff's own 2002 paper on the "polarizable vacuum", not this one.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions called it Pais's 2017 patent and said he cited the theoretical framework this paper shares. The patent (US 10,144,532 B2) was granted on 4 December 2018, and of Puthoff's work it cites only the 2002 paper.
 
 ## Kona Blue Connection
 

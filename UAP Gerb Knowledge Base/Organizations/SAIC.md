@@ -149,7 +149,10 @@ SAIC holds very large contracts with [[Sandia National Laboratories]], which has
 
 ### Naval Air Station Pax River
 
-SAIC has extensive contracts with [[Naval Air Station Patuxent River|Naval Air Station Pax River]] in Virginia, Crane's sister facility, where aerospace engineer [[Salvatore Pais]] filed patents for a triangular or diamond-shaped anti-gravity craft that uses quantum vacuum manipulation. Naval Air Enterprise CTO James Sheehy supported the patents, and they were then approved even though Navy colleagues knew nothing of Pais or the programs.
+SAIC has extensive contracts with [[Naval Air Station Patuxent River|Naval Air Station Pax River]] in Maryland, Crane's sister facility, where aerospace engineer [[Salvatore Pais]] filed patents for a triangular or diamond-shaped anti-gravity craft that uses quantum vacuum manipulation. Naval Air Enterprise CTO James Sheehy supported the patents, and they were then approved even though Navy colleagues knew nothing of Pais or the programs.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions placed Pax River in Virginia, as the video does. The base is in St. Mary's County, Maryland; Pais's patent ([[Craft Using an Inertial Mass Reduction Device]]) gives his address as Leonardtown, Maryland.
 
 ## Leadership and Revolving Door
 
