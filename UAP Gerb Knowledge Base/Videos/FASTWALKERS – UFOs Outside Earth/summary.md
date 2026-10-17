@@ -313,7 +313,7 @@ One of them, the old blog *Deb's UFO Research*, illustrates the event in three i
 
 ## The 1976 Tehran printout
 
-The second case is one of Gerb's favourite encounters, the [[1976 Tehran UFO Incident|1976 Tehran overflight]], which he introduces with a clip of an Iranian pilot describing the object jumping ten degrees to his right in an instant. The fast walker link comes from Lee Graham and Ron Regehr, satellite sensor engineers at Aerojet in California. They say a DSP computer printout from the time of the overflight shows the satellite detecting an "anomalous object" in Iranian airspace. After a long, fruitless search that turned up only a declassified paper Regehr often cites, "Now You See It, Now You Don't" by USAF Captain Henry S. Shields, Gerb began to follow the evidence back through dead web pages.
+The second case is one of Gerb's favourite encounters, the [[1976 Tehran UFO Incident|1976 Tehran overflight]], which he introduces with a clip of an Iranian pilot describing the object jumping ten degrees to his right in an instant. (The official record of the night is the [[DIA Tehran UFO Report (1976)|defense attaché's report to the DIA]], which Gerb doesn't show.) The fast walker link comes from Lee Graham and Ron Regehr, satellite sensor engineers at Aerojet in California. They say a DSP computer printout from the time of the overflight shows the satellite detecting an "anomalous object" in Iranian airspace. After a long, fruitless search that turned up only a declassified paper Regehr often cites, "Now You See It, Now You Don't" by USAF Captain Henry S. Shields, Gerb began to follow the evidence back through dead web pages.
 
 ::wiki-chain{video="Tubx-CaAaOs" video-title="FASTWALKERS – UFOs Outside Earth"}
 ---

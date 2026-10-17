@@ -93,6 +93,23 @@
       "fetchedFrom": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/pdf/E9-31418.pdf",
       "retrieved": "2026-10-16"
     },
+    "FBI File on Silas Newton": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/e1b67210646d0457afe85bb93f0778c9d25af06b61c412aee9b7ee2b29356c70.pdf",
+      "sha256": "e1b67210646d0457afe85bb93f0778c9d25af06b61c412aee9b7ee2b29356c70",
+      "bytes": 177492,
+      "pages": 7,
+      "ocr": "skip-text",
+      "sourceSha256": "0c5a9799e5cc041363e6f43bd4fff2f860abaff218b78d4f3da3ccceb56d4fb7",
+      "thumb": {
+        "src": "/documents/fbi-file-on-silas-newton.webp",
+        "width": 320,
+        "height": 415
+      },
+      "thumbPage": 3,
+      "source": "https://vault.fbi.gov/silas-newton",
+      "fetchedFrom": "https://vault.fbi.gov/silas-newton/Silas%20M%20Newton%20Part%2002/at_download/file",
+      "retrieved": "2026-10-16"
+    },
     "GAO Report on Army Guard Program": {
       "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/fbb3814cbf6c71f0f3d15f020b40afd1aa4745754dc39001106ef8854df178b0.pdf",
       "sha256": "fbb3814cbf6c71f0f3d15f020b40afd1aa4745754dc39001106ef8854df178b0",
@@ -227,6 +244,23 @@
       "source": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
       "fetchedFrom": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
       "retrieved": "2026-10-16"
+    },
+    "Project Blue Book Special Report No. 14": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/86c9b939aca847269cfb8050e8d829aaba7d9909eeaba08b0f2e1e852151806e.pdf",
+      "sha256": "86c9b939aca847269cfb8050e8d829aaba7d9909eeaba08b0f2e1e852151806e",
+      "bytes": 24437996,
+      "pages": 312,
+      "ocr": "skip-text",
+      "sourceSha256": "90e05e77fc088c29758c2ddda514c0c12f317e5686ee213d348db2f9da152ee3",
+      "thumb": {
+        "src": "/documents/project-blue-book-special-report-no-14.webp",
+        "width": 320,
+        "height": 412
+      },
+      "thumbPage": 4,
+      "source": "https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf",
+      "fetchedFrom": "https://web.archive.org/web/20260920110831id_/https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf",
+      "retrieved": "2026-10-17"
     },
     "Robertson Panel Report": {
       "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/53c7ba40b9b4cb2cc6139c3ef0b9be9a71110689c75057adadda55715a3f17b0.pdf",
