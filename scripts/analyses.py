@@ -63,7 +63,7 @@ ENTITY_DIRS = ["People", "Organizations", "Operations", "Events", "Locations", "
 PAIR_DIRS = {"People", "Organizations", "Operations", "Events", "Locations"}
 ACCOUNT_DIRS = {"People", "Events", "Operations"}
 PATTERN_DIRS = ["Events", "Operations"]
-KINDS = {"hidden-link", "timeline", "contradiction", "pattern"}
+KINDS = {"hidden-link", "timeline", "contradiction", "change-of-view", "pattern"}
 # Focus every other slice: the most-covered subjects are where findings matter most.
 LENSES = ["focus", "links", "focus", "accounts", "focus", "patterns", "focus", "timeline"]
 
