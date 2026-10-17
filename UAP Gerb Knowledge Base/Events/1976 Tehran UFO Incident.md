@@ -66,3 +66,4 @@ The Tehran incident has been mentioned alongside other cases involving similar c
 
 - [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]
 - [[DIA Tehran UFO Report (1976)]]
+- [[Now You See It, Now You Don't]]
