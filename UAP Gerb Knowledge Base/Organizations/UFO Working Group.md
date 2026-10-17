@@ -18,7 +18,10 @@ According to Corso, as presented in UAP Gerb's video on him, the group originall
 - a supervisor from the [[CIA]]'s Domestic Collection Division
 - a technical team from the [[CIA Directorate of Science and Technology]]
 
-Corso also claimed the group received funding through the US Army's Intelligence and Security Command ([[Army INSCOM]]), which Major General [[Albert Stubblebine]] later commanded from 1981 to 1984.
+Corso also claimed the group received funding through the US Army's Intelligence and Security Command ([[Army INSCOM]]), which Major General [[Albert Stubblebine]] had commanded from 1981 to 1984, a few years before the group's alleged formation.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said Stubblebine "later" commanded INSCOM from 1981 to 1984. His command ended in 1984, before the group's alleged February 1987 formation, so it came earlier, not later.
 
 ## Significance in UAP research
 

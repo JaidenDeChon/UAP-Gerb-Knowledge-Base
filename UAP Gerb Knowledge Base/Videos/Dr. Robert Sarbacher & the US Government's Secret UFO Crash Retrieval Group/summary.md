@@ -271,7 +271,10 @@ In 1950, [[Wilbert B. Smith]], a senior radio engineer with Canada's Department 
 
 According to the video, the memo led directly to Canada's two official UFO investigations: [[Project Magnet]], which studied the possibility of reverse-engineering UFO magnetic propulsion to exploit the Earth's magnetic field, and [[Project Second Story]], which sought to recommend a course of action to the Canadian government. Gerb sees a continuing thread in 2023, when Canadian member of Parliament Larry Maguire wrote to the defence minister about recovered UAP material and Five Eyes retrieval operations.
 
-The source was Sarbacher. He confirmed it himself in 1983, and historian [[Arthur Bray]] found both the Department of Transport memo and Smith's handwritten notes of the meeting in Smith's estate. Two things in the notes catch Gerb's attention. Smith had read [[Frank Scully]]'s 1950 book *Behind the Flying Saucers*, which publicized the alleged 1949 [[Aztec UFO Crash and Recovery|Aztec, New Mexico crash]], and Sarbacher told him its contents were fundamentally correct; Gerb reserves judgment on Aztec. And Sarbacher named Bush, then chairman of the Research and Development Board to which Sarbacher belonged and of the National Advisory Committee for Aeronautics (the forerunner of [[NASA]]), as head of the study group.[^gerb-sarbacher-bush-chairs] The video traces the [[MJ-12 Documents]] themselves back to Bush's joint research and development board, which it says had twelve members, and notes that the alleged "Briefing Document: Operation Majestic 12" names Bush on the team Truman tasked with investigating crashed UAP. Gerb calls the documents a mix of forgeries with some possibly real material spliced in.
+The source was Sarbacher. He confirmed it himself in 1983, and historian [[Arthur Bray]] found both the Department of Transport memo and Smith's handwritten notes of the meeting in Smith's estate. Two things in the notes catch Gerb's attention. Smith had read [[Frank Scully]]'s 1950 book *Behind the Flying Saucers*, which publicized the alleged 1949 [[Aztec UFO Crash and Recovery|Aztec, New Mexico crash]], and Sarbacher told him its contents were fundamentally correct; Gerb reserves judgment on Aztec. And Sarbacher named Bush as head of the study group. Gerb calls Bush the chairman, at the time, of the Research and Development Board to which Sarbacher belonged and of the National Advisory Committee for Aeronautics (the forerunner of [[NASA]]).[^gerb-sarbacher-bush-chairs] The video traces the [[MJ-12 Documents]] themselves back to Bush's joint research and development board, which it says had twelve members, and notes that the alleged "Briefing Document: Operation Majestic 12" names Bush on the team Truman tasked with investigating crashed UAP. Gerb calls the documents a mix of forgeries with some possibly real material spliced in.
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions stated in the page's own voice that Bush chaired both bodies in 1950. He had left the Research and Development Board in October 1948 and NACA in 1941, so the description is now credited to Gerb.
 
 ## Who Was Robert Sarbacher
 
@@ -326,7 +329,7 @@ For Gerb, the most important moment came when Friedman asked who attended the [[
 ---
 entries:
   - name: "Vannevar Bush"
-    role: "Chairman of the Research and Development Board and of NACA"
+    role: "Former chairman of the Research and Development Board (1947–48) and of NACA (1939–41)"
     note: "Named in Smith's 1950 memo as head of the small group studying flying saucers, and again by Sarbacher in 1983 as 'definitely involved'. Walker also confirmed Bush's involvement in 1990."
   - name: "John Von Neumann"
     role: "Mathematician and physicist"

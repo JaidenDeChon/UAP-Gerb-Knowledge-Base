@@ -134,7 +134,7 @@ entries:
     role: "Canadian government radio engineer"
     note: "Met Sarbacher in 1950 and relayed his claims in the memo that started Project Magnet."
   - name: "Vannevar Bush"
-    role: "Chairman of the Research and Development Board"
+    role: "Former chairman of the Research and Development Board (1947–48)"
     note: "Named by Sarbacher in 1950 as head of the small study group, and again in 1983 as 'definitely involved'."
   - name: "William Steinman"
     role: "UFO researcher"

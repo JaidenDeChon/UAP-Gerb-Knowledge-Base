@@ -10,7 +10,10 @@ Pine Gap is a joint United States–Australian intelligence facility located in 
 
 ## Heinman's Role at Pine Gap
 
-[[Everett Heinman]] was the first chief of the ground element at Pine Gap for Program B, a joint CIA and NRO effort to build and operate signals intelligence satellites. Heinman was Deputy Director of the CIA Directorate of Science and Technology (DS&T) from 1979 to 1982, then directed Program B through the NRO from 1982 to 1989. Managing Pine Gap in this period put him where the CIA's most sensitive technical collection programs met.
+[[Everett Heinman]] was the first chief of the ground element at Pine Gap for Program B, a joint CIA and NRO effort to build and operate signals intelligence satellites. Gerb places Heinman in the CIA Directorate of Science and Technology (DS&T) from 1979 to 1982 and at Program B from 1982 to 1989. CIA records and his biographies instead put him in the Directorate of Intelligence before 1982, as Associate Deputy Director for Intelligence, and then show him heading the DS&T and directing NRO Program B together from 1982. Managing Pine Gap in this period put him where the CIA's most sensitive technical collection programs met.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said Heinman was Deputy Director of the DS&T from 1979 to 1982 and then moved to Program B. A November 1982 CIA activity report and his Lafayette College biography show he was Associate Deputy Director for Intelligence before becoming Deputy Director for Science and Technology, a post he held alongside Program B, matching the [[Everett Heinman]] page.
 
 Heinman matters to UAP research because of a 1989 phone call. In it, Admiral [[Bobby Ray Inman]], who had been Director of Naval Intelligence, Director of the NSA and Director of the classified National Underwater Reconnaissance Office, directed NASA mission specialist [[Bob Oechsler]] to Heinman as "the best person to ask" about recovered UAP vehicles being made available for technological research. When Oechsler later met Heinman at CIA headquarters in Langley, Virginia, on August 10, 1989, Heinman denied any knowledge of UFO or UFO legacy programs. In 2022, however, Twitter user RGH_UFOs contacted Heinman to ask about Inman's comments. This time Heinman did not deny involvement; he offered to answer questions and then went silent.
 

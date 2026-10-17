@@ -27,7 +27,10 @@ Satellite sensor technicians [[Lee Graham]] and [[Ron Regehr]] at [[Aerojet]] co
 
 ## Role in Recovery Operations
 
-DSP satellites, managed by the [[NRO (National Reconnaissance Office)|National Reconnaissance Office]], have a documented record of tracking objects for recovery operations. In a 1996–1997 incident, [[NEST (Nuclear Emergency Support Team)|DOE NEST]] used DSP satellite intelligence from US Space Command to track debris from the Russian Mars 96 probe over South America. The incident established a pattern of DSP/NEST coordination for recovery operations.
+DSP satellites, managed by the [[NRO (National Reconnaissance Office)|National Reconnaissance Office]], have a documented record of tracking objects for recovery operations. In November 1996, [[NEST (Nuclear Emergency Support Team)|DOE NEST]] used DSP satellite intelligence from US Space Command to track debris from the Russian Mars 96 probe over South America. The incident established a pattern of DSP/NEST coordination for recovery operations.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions called this a 1996–1997 incident. Mars 96 was launched on 16 November 1996 and fell back to Earth the next day, so the episode belongs to November 1996.
 
 ## Aerospace Corporation Partnership
 

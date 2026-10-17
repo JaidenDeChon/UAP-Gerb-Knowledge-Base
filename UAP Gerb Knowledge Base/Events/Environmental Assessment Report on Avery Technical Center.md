@@ -6,3 +6,7 @@ tags:
 ---
 
 An unclassified July 2012 report titled 'Environmental Assessment of the Continued Exclusive Use of Department of the Army Land Located at US Army Dugway Proving Ground by Members of the US Air Force' gave a good deal of information about Avery Technical Center.
+
+## Sources
+
+- [[Videos/Dugway Proving Ground - UFO Legacy Programs/summary|Dugway Proving Ground - UFO Legacy Programs]]
