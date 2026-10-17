@@ -34,12 +34,13 @@ The Department of State released the cable in full in August 2011, in FOIA case 
 
 In [[Videos/MOON DUST - The Pentagon's Secret UFO Programs/summary|MOON DUST - The Pentagon's Secret UFO Programs]], Gerb shows the New Zealand case as the fourth of five Moon Dust cases abroad. He says Moon Dust "investigates space fragments found in New Zealand described as spherical or like a pressure vessel", and he compares the shape to Commander [[David Fravor]]'s description of the [[2004 Nimitz UAP Encounter (Tic Tac)|Tic Tac]] as "similar to a propane tank or pressure vessel without any inlets or outlets". The cable's own words are "spherical, perhaps pressure vessels". It also describes two objects about 18 cm across, which the embassy and DSIR were trying to identify as satellite debris.
 
-None of the other documents Gerb shows in that video is in these State Department releases. They include the 1961 Air Force intelligence draft policy he calls "AFC 1e draft policy" (a 3 November 1961 AFCIN-1E-O letter that names Moon Dust and Blue Fly), the 1968 Nepal cables and the 1978 Bolivia cables. The 1976 Canadian request he describes, for photos of interest to the Foreign Technology Division and the CIA's Office of Weapons Intelligence, is not among the Ottawa cables in either State Department release. Those cables only follow up an earlier request (STATE 300075), which has not been released.
+None of the other documents Gerb shows in that video is in these State Department releases. They include the 1961 Air Force intelligence draft policy he calls "AFC 1e draft policy" (the [[AFCIN Intelligence Team Personnel Memo (1961)]], a 3 November 1961 AFCIN-1E-O staff paper that names Moon Dust and Blue Fly), the 1968 Nepal cables and the 1978 Bolivia cables. The 1976 Canadian request he describes, for photos of interest to the Foreign Technology Division and the CIA's Office of Weapons Intelligence, is not among the Ottawa cables in either State Department release. Those cables only follow up an earlier request (STATE 300075), which has not been released.
 
 ## Related
 
 - [[Project Moon Dust]]
 - [[Operation Bluefly]]
+- [[AFCIN Intelligence Team Personnel Memo (1961)]]
 - [[USAF 1127th Field Activities Group]]
 - [[Air Force Foreign Technology Division]]
 - [[NASA]]

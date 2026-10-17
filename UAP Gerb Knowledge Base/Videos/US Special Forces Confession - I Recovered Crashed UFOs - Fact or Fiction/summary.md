@@ -319,6 +319,7 @@ Gerb sets each detail beside cases he considers similar:
 | An egg made from one piece of metal | [[Eric Taber]]'s account to AARO of an egg-shaped metallic craft kept at [[Area 51]] in the 1980s (see [[Egg-shaped UAP]]) |
 | A "molten" look | The mother-of-pearl skin on the craft [[Jonathan Weygandt]] says he saw in Peru in 1997 |
 | F-4 Phantoms arriving overhead | [[James McCampbell]]'s June 1986 account to [[Jacques Vallee]] of a Wild Weasel contact who said F-4s carried electromagnetic equipment to detect UAP in Vietnam; Greer witness 10272, who says he installed low-observable radar assemblies on F-4s at Area 51 |
+| Air Force personnel at the site | The Air Force's involvement with UAP since the 1947 [[Roswell Crash]], and the 1961 Air Force intelligence paper Gerb calls the "AFC 1e draft policy" (the [[AFCIN Intelligence Team Personnel Memo (1961)]]), which he says gives Project UFO and [[Project Moon Dust|Moon Dust]] collection duties for UAP and descended foreign space vehicles |
 | Navy personnel at the site | The Navy's long involvement, from [[Rear Admiral Timothy Gallaudet]]'s public statements to the [[Wilson-Davis Memo]], in which Vice Admiral [[Thomas Wilson]] was refused access to the program |
 
 ## Forced Into the Program
@@ -556,5 +557,6 @@ entries:
 - **Organizations**: [[The Infographic Show]], [[Company E, 52nd Infantry (LRP)]], [[BAE Systems]], [[Raytheon]], [[Boeing]], [[Texas Instruments]], [[NASA]], [[US Air Force]], [[US Army]], [[Majestic 12]]
 - **Locations**: [[Bole, Ireland]], [[Lima, Peru]], [[Varginha, Brazil]], [[Wright-Patterson Air Force Base]], [[Area 51]], [[Dugway Proving Ground]]
 - **Concepts**: [[Egg-shaped UAP]], [[Bell or Acorn-Shaped Craft]], [[Live Biologics Protocols]], [[Fabrication Hypothesis]], [[Craft Donation Theory]], [[Rapid Reaction Recovery Unit]], [[Gray Alien Morphology]], [[Wilson-Davis Memo]], [[Blue Room]], [[Fast Walkers]]
+- **Documents**: [[AFCIN Intelligence Team Personnel Memo (1961)]]
 - **Events**: [[1968 Vietnam UAP Crash Retrieval]], [[1996 Bole, Ireland Crash Retrieval]], [[Roswell Crash]], [[1953 Kingman, Arizona Crash Retrieval]], [[1965 Kecksburg, Pennsylvania Crash Retrieval]], [[Malmstrom Air Force Base UFO Incident]], [[1976 Tehran UFO Incident]]
 - **Operations**: [[Operation Menu]], [[Operation Upshot-Knothole]], [[Project Moon Dust]]

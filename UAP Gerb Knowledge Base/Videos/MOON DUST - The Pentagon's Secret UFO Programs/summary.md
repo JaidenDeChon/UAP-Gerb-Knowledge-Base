@@ -96,7 +96,7 @@ events:
   - date: "1961"
     title: "AFCIN-1E draft policy names Moon Dust"
     cue: 178
-    summary: "The earliest known mention of Moon Dust is in this Air Force intelligence draft policy. It proposes that the 1127th Field Activities Group take on collection duties for the USAF's program for investigating 'reliably reported unidentified flying objects' in the United States. It names Moon Dust as the project that historically held this duty, with authority to locate, recover and deliver descended foreign space vehicles."
+    summary: "Gerb calls this Air Force intelligence paper, which he reads as the 'AFC 1e draft policy', the first mention of Moon Dust. In his reading it proposes collection duties for the 1127th Field Activities Group in the USAF's program for investigating 'reliably reported unidentified flying objects', and names Moon Dust as the project that historically held the duty. The paper itself, dated 3 November 1961, is about staffing the 1127th's intelligence teams. It lists UFO investigation, Moon Dust and Blue Fly as existing projects, and a handwritten note calls it an unapproved draft."
     category: document
     significance: major
     entities:
@@ -229,7 +229,10 @@ Ruppelt's own book tells it differently. He took over Grudge in late 1951 and wr
 
 ## Moon Dust's Charter
 
-The first mention of Moon Dust is in a 1961 US Air Force intelligence document that Gerb reads as the "AFC 1e draft policy" (the Air Force's AFCIN-1E memo, dated 3 November 1961). It proposes that the [[USAF 1127th Field Activities Group]] receive collection duties for the USAF's established program for investigating "reliably reported unidentified flying objects" within the United States, and names one project that had historically held that duty: Moon Dust, with authority to "locate, recover and deliver descended foreign space vehicles".
+Gerb traces the first mention of Moon Dust to a 1961 US Air Force intelligence document that he reads as the "AFC 1e draft policy". This is the [[AFCIN Intelligence Team Personnel Memo (1961)]], a staff paper of 3 November 1961 from the office AFCIN-1E-O. As Gerb reads it, the paper proposes that the [[USAF 1127th Field Activities Group]] receive collection duties for the USAF's established program for investigating "reliably reported unidentified flying objects" within the United States. It also names one project that had historically held that duty: Moon Dust, with authority to "locate, recover and deliver descended foreign space vehicles". The paper's own subject is keeping the 1127th's field intelligence teams staffed. It describes the UFO program (whose 1127th collection duties AFR 200-2 already set out), Moon Dust and [[Operation Bluefly|Operation Blue Fly]] as three projects already in place, and it cites an earlier Moon Dust paper, ICGL #4 of 25 April 1961. The copy Gerb shows carries a handwritten note: "This draft proposal was not approved and was not forwarded for action."
+
+> [!edit] Attribution clarified 16 October 2026
+> Earlier versions stated as fact that the 1961 document is the first mention of Moon Dust, and that it proposes collection duties for the 1127th and names Moon Dust as the project that had historically held them. Those are Gerb's readings. The memo shows a staffing paper that treats all three projects as existing, cites an April 1961 Moon Dust paper, and carries a note calling it an unapproved draft. The timeline entry now says the same.
 
 A 1967 review for the Assistant Chief of Staff for Intelligence, detailing the 1127th's functions, shows that Moon Dust was more than a proposal. That year it collected 49 fallen Soviet space objects and 17 US ones, and the tally is followed by a large redacted portion of the memo. So Moon Dust, Gerb concludes, had real collection responsibilities for Soviet, American and *redacted* space vehicles.
 
@@ -455,7 +458,7 @@ entries:
 ## Key Claims
 
 - Edward J. Ruppelt said in April 1952 that programs parallel to the official UFO investigations were "conducting a more complete investigation", and J. Allen Hynek said other classified programs were studying UFOs alongside Blue Book.
-- A 1961 Air Force intelligence draft policy proposed giving the 1127th Field Activities Group collection duties for investigating "reliably reported unidentified flying objects", naming Moon Dust as the project with authority to locate, recover and deliver descended foreign space vehicles.
+- Gerb says a 1961 Air Force intelligence draft policy proposed giving the 1127th Field Activities Group collection duties for investigating "reliably reported unidentified flying objects", naming Moon Dust as the project with authority to locate, recover and deliver descended foreign space vehicles. The paper itself (3 November 1961) concerns staffing the 1127th's intelligence teams and lists UFO investigation, Moon Dust and Blue Fly as existing projects.
 - A 1967 review shows Moon Dust collected 49 Soviet and 17 US space objects that year, followed by a large redacted portion, so its collection duties covered Soviet, American and redacted space vehicles.
 - Moon Dust recorded three cigar-shaped UFOs in delta formation over Karachi on 25 April 1961.
 - In 1968 a crashed circular metal disc in Nepal was monitored; a "Moon Dust" cable to the DIA, the 1127th and Wright-Patterson called a Kathmandu visit a "fishing expedition", and a crashed-satellite cover story followed despite a 100% successful satellite launch rate that year.
@@ -467,6 +470,9 @@ entries:
 
 > [!edit] Corrected 16 October 2026
 > Earlier versions of the New Zealand key claim, timeline entry and comparison table quoted "spherical or like a pressure vessel" as the fragments' recorded description. That is Gerb's paraphrase; the cable, WELLINGTON 06093 of 7 November 1978, says "spherical, perhaps pressure vessels".
+
+> [!edit] Attribution clarified 16 October 2026
+> The key claim about the 1961 draft policy was stated as fact. It is now credited to Gerb, and it notes that the paper itself is about staffing the 1127th's intelligence teams and treats UFO investigation, Moon Dust and Blue Fly as existing projects.
 
 ## Sources
 
@@ -480,3 +486,4 @@ entries:
 - **Events**: [[1978 Bolivia UFO Crash]], [[1968 Nepal Circular Disc Crash]], [[1961 Karachi Pakistan UFO Sighting]], [[Roswell Crash]], [[2004 Nimitz UAP Encounter (Tic Tac)]], [[Schumer Amendment (NDAA)]]
 - **Locations**: [[Wright-Patterson Air Force Base]], [[Bolivia]], [[Shag Harbour, Nova Scotia]]
 - **Concepts**: [[Wilson-Davis Memo]]
+- **Documents**: [[AFCIN Intelligence Team Personnel Memo (1961)]]

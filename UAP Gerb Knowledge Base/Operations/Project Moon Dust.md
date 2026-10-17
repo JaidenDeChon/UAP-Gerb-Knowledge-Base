@@ -5,11 +5,17 @@ tags:
   - operation
 ---
 
-Project Moon Dust (sometimes written "Moondust", and also called Operation Moon Dust) was a classified United States Air Force program whose official task was to locate, recover, and deliver descended foreign space vehicles. Documents obtained through Freedom of Information Act requests show that the program also investigated and collected unidentified flying objects, with field operations running from the early 1960s through at least the mid-1990s. Moon Dust worked under the authority of the [[USAF 1127th Field Activities Group]] and was responsible for collecting Soviet, American, and redacted categories of space vehicles. The Air Force at first denied the program's UFO work, then acknowledged it after US Senators challenged the denial with documents. Files on the 1965 [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg crash]] were associated with this program, and officers from Moon Dust (see [[Moondust Officer]]) were ostensibly the source of classified UAP documents sent to researcher [[Tim Cooper]] through mailbox drops.
+Project Moon Dust (sometimes written "Moondust", and also called Operation Moon Dust) was a classified United States Air Force program whose official task was to locate, recover, and deliver descended foreign space vehicles. Documents obtained through Freedom of Information Act requests show that the program also investigated and collected unidentified flying objects, with field operations running from the early 1960s through at least the mid-1990s. Headquarters USAF set it up as part of its materiel exploitation program, with field teams of the [[USAF 1127th Field Activities Group]] in support, and it was responsible for collecting Soviet, American, and redacted categories of space vehicles. The Air Force at first denied the program's UFO work, then acknowledged it after US Senators challenged the denial with documents. Files on the 1965 [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg crash]] were associated with this program, and officers from Moon Dust (see [[Moondust Officer]]) were ostensibly the source of classified UAP documents sent to researcher [[Tim Cooper]] through mailbox drops.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said Moon Dust worked under the authority of the 1127th Field Activities Group. The 1961 [[AFCIN Intelligence Team Personnel Memo (1961)|AFCIN memo]] says Headquarters USAF established Moon Dust as part of its materiel exploitation program and calls it a Foreign Technology Division project, which the 1127th's intelligence teams supported.
 
 ## Establishment and Authority
 
-Moon Dust is first mentioned officially in a 1961 US Air Force document from the Air Force's intelligence directorate, AFCIN-1E. The document, a draft policy memo dated 3 November 1961 (which Gerb reads as "AFC 1e draft policy"), proposed giving the [[USAF 1127th Field Activities Group]] collection responsibility for investigating reliably reported unidentified flying objects within the United States. The memo lists Moon Dust as a project that had historically held this duty, with authority to "locate, recover, and deliver descended foreign space vehicles."
+The best-known early official record of Moon Dust is a staff paper from the Air Force's intelligence directorate, the [[AFCIN Intelligence Team Personnel Memo (1961)]], dated 3 November 1961 and written in the office AFCIN-1E-O (Gerb reads it as "AFC 1e draft policy"). Its subject is staffing the field intelligence teams of the [[USAF 1127th Field Activities Group]]. It says the teams had peacetime duties in support of three existing projects: UFO investigation, whose 1127th collection responsibilities were set out in AFR 200-2; [[Operation Bluefly|Operation Blue Fly]]; and Moon Dust, which Headquarters USAF had established "to locate, recover and deliver descended foreign space vehicles". It cites an earlier paper for Moon Dust's collection responsibilities, ICGL #4 of 25 April 1961. A handwritten note on one copy says the paper was a draft proposal that "was not approved and was not forwarded for action".
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said the 1961 memo proposed giving the 1127th collection responsibility for UFOs and listed Moon Dust as the project that had historically held that duty, and called it the first official mention of Moon Dust. That is Gerb's reading. The memo is about staffing the 1127th's intelligence teams, describes the UFO program, Moon Dust and Blue Fly as already established, and cites an April 1961 Moon Dust paper (ICGL #4).
 
 A 1967 review for the Assistant Chief of Staff for the Intelligence Community, describing the functions of the 1127th USAF Field Activities Group, confirms that Moon Dust was operational. That year, Moon Dust captured 49 fallen Soviet space objects and 17 US space objects. A large redacted portion of the memo follows, indicating further classified collection categories.
 
@@ -70,9 +76,12 @@ The timing suggests the Air Force may have destroyed Moon Dust files and denied 
 
 Moon Dust is cited with the following programs as part of a wider classified system for collecting UFO material:
 
-- [[Operation Bluefly]]: crash retrieval and rapid response operations
+- [[Operation Bluefly]]: set up, in the words of the 1961 AFCIN memo, "to facilitate expeditious delivery to FTD of Moon Dust or other items of great technical intelligence interest"
 - [[Operation Zodiac]]: a related unacknowledged program
 - [[CIA Office of Global Access]]: alleged to coordinate modern crash retrievals. Journalist [[Christopher Sharp]] has accused the office, which was established in 2003, of conducting foreign UAP crash recovery operations using similar logistics and coordination structures.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions described Operation Bluefly as "crash retrieval and rapid response operations". The 1961 AFCIN memo defines it as a means of delivering Moon Dust and other items of technical intelligence interest to the Foreign Technology Division.
 
 The Moon Dust documents are rare official confirmation that the US Air Force kept active UFO crash retrieval and investigation capabilities well beyond the 1969 closure of [[Project Blue Book]].
 
