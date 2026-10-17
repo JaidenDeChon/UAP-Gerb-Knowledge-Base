@@ -103,6 +103,20 @@ function apply(links: TocLink[] | undefined, cleaned: Map<string, Cleaned>): voi
 }
 
 /**
+ * The id remark-gfm gives the heading of a note's footnotes section. That
+ * heading is the section's label, not a chapter, so it stays out of the TOC:
+ * listed, it would put "Footnotes" in the rail and could tip a short note
+ * over the rail's three-heading threshold.
+ */
+export const FOOTNOTES_HEADING_ID = 'footnote-label'
+
+function dropFootnotesHeading(links: TocLink[]): TocLink[] {
+  return links
+    .filter(link => link.id !== FOOTNOTES_HEADING_ID)
+    .map(link => (link.children ? { ...link, children: dropFootnotesHeading(link.children) } : link))
+}
+
+/**
  * Rewrite `body.toc` labels — and, for headings that embed a component, the
  * heading's id in both `body.value` and `body.toc` — from the heading nodes.
  */
@@ -132,4 +146,5 @@ export function cleanTocLabels(body: TocBody | null | undefined): void {
     cleaned.set(originalId, { text, id })
   }
   apply(body.toc.links, cleaned)
+  body.toc.links = dropFootnotesHeading(body.toc.links)
 }

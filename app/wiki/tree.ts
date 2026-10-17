@@ -7,8 +7,8 @@ const collator = new Intl.Collator(undefined, { numeric: true, sensitivity: 'bas
 const byName = (a: { name: string }, b: { name: string }) => collator.compare(a.name, b.name)
 
 /**
- * The full vault as a folder tree for the sidebar: a leading `Home` note, then
- * one folder per populated category in `CATEGORY_ORDER`. Videos nest one level
+ * The full vault as a folder tree for the sidebar: the app-wide nav rows (Home,
+ * the two maps, the Analyses index), then one folder per populated category in `CATEGORY_ORDER`. Videos nest one level
  * deeper (a folder per video title, each holding `Summary`/`Transcript`).
  */
 export function buildTree(): TreeItem[] {
@@ -35,6 +35,7 @@ export function buildTree(): TreeItem[] {
   if (home) roots.push({ type: 'note', name: 'Home', path: '/' })
   roots.push({ type: 'note', name: 'Site map', path: '/map' })
   roots.push({ type: 'note', name: 'World map', path: '/world' })
+  roots.push({ type: 'note', name: 'Analyses', path: '/analyses' })
 
   for (const category of CATEGORY_ORDER) {
     const bucket = byCategory.get(category)

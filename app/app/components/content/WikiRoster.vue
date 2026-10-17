@@ -9,6 +9,7 @@ import {
   Crosshair,
   FileText,
   House,
+  Lightbulb,
   MapPin,
   Users,
 } from '@lucide/vue'
@@ -42,6 +43,7 @@ const ICONS: Record<string, Component> = {
   'map-pin': MapPin,
   'atom': Atom,
   'clapperboard': Clapperboard,
+  'lightbulb': Lightbulb,
 }
 
 function iconFor(name: string): Component {

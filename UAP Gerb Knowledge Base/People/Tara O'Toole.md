@@ -9,7 +9,10 @@ Tara O'Toole is an American physician and biosecurity specialist who served as U
 
 ## Kona Blue
 
-According to the declassified [[AARO]] history of Kona Blue, O'Toole was briefed on the proposal in May 2011 and established it as a DHS prospective special access program in July 2011; it was terminated in February 2012. A document cleared by the Defense Office of Prepublication and Security Review and entered into the record of the November 2024 House Oversight hearing by Representative [[Tim Burchett]] likewise says she was approached to set up the program, into which Lockheed vice president [[James T. Ryder]] proposed transferring 1950s crash retrieval material. AARO's account says DHS and other agencies shut the proposal down over doubts that the materials were authentic, while UAP Gerb's Lockheed video attributes its end to the CIA's [[Glenn Gaffney]].
+According to the declassified [[AARO]] history of Kona Blue, O'Toole approved the proposal as a DHS prospective special access program in 2011, and it was disapproved about six months later. One online timeline gives the months as May 2011 for her briefing, July 2011 for the approval and February 2012 for the end, but no second source confirms them. A document cleared by the Defense Office of Prepublication and Security Review and entered into the record of the November 2024 House Oversight hearing by Representative [[Tim Burchett]] likewise says she was approached to set up the program, into which Lockheed vice president [[James T. Ryder]] proposed transferring 1950s crash retrieval material. AARO's account says the DHS Deputy Secretary found the justification and supporting information inadequate, and nothing was transferred. Gerb's Lockheed video attributes its end to the CIA's [[Glenn Gaffney]].
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions gave May 2011, July 2011 and February 2012 as AARO's own dates and said AARO blamed doubts about the materials' authenticity. AARO's history gives only 2011 and about six months later, and its stated reason was that the justification was inadequate, so both are corrected.
 
 ## Sources
 

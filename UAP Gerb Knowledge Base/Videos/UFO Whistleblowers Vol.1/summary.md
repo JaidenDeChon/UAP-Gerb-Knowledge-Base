@@ -435,7 +435,7 @@ Lovekin appeared on Steven Greer's 2001 Disclosure Project as "Brigadier General
 ::wiki-panel{title="What supports him"}
 - Joined the Army in 1958 and the Pentagon's radio frequency engineering office
 - Moved to the White House Army Signal Agency in 1959 as a technical specialist, with an above-top-secret clearance, and served under Eisenhower and Kennedy
-- Several independent sources, including researcher Joe Murgia, place him at the briefing with Greer, Edgar Mitchell, Rear Admiral [[Thomas Wilson]] and Commander [[Will Miller]] recorded in the [[Wilson-Davis Memo]]. Wilson himself confirmed the meeting took place. It is [[1997 Meeting (Wilson, Miller, Mitchell, Greer, Hughes)|usually dated 1997]]; the video says 1998
+- Several independent sources, including researcher Joe Murgia, place him at the briefing with Greer, Edgar Mitchell, Rear Admiral [[Thomas Wilson]] and Commander [[Will Miller]] recorded in the [[Wilson-Davis Memo]]. Wilson himself confirmed the meeting took place. It is [[1997 Meeting (Wilson, Miller, Mitchell, Greer, Hughes)|usually dated 1997]]; the video says 1998[^gerb-lovekin-wilson-1998]
 - He links Blue Book to the Air Force's career-ending rules on UFO talk, which Gerb connects to [[USAF Regulation 200-2]]
 ::
 ::wiki-panel{title="What counts against him" tone="accent"}
@@ -589,3 +589,5 @@ entries:
 - **Locations**: [[Roswell, New Mexico]], [[Roswell Army Airfield]], [[Hangar 84]], [[Foster Ranch]], [[White Sands Missile Range]], [[Fort Worth, Texas]], [[Wright Field]], [[Area 51]], [[Magenta, Italy]]
 - **Concepts**: [[Legacy Programs]], [[Wilson-Davis Memo]], [[USAF Regulation 200-2]], [[Crash Retrieval]]
 - **Events**: [[Roswell Crash]], [[1952 UFOs Over Washington DC]], [[1997 Meeting (Wilson, Miller, Mitchell, Greer, Hughes)]]
+
+[^gerb-lovekin-wilson-1998]: Gerb says Lovekin "was also an attendee to the 1998 briefing with Dr Greer Dr Mitchell rear Admiral Thomas Wilson Commander will Miller and others". Gerb himself dates that Pentagon briefing to 1997 in [[Videos/The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs/summary|The Wilson Davis Memo]], as the Wilson-Davis notes do, and researchers place it in April 1997, so 1998 is probably a slip ([The Black Vault: the Admiral Wilson leak](https://www.theblackvault.com/casefiles/the-admiral-wilson-leak-an-analysis/); [Anomaly Archives: Loose Threads](https://anomalyarchives.org/wp-content/uploads/PDF-Loose-Threads.pdf)).

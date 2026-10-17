@@ -497,7 +497,10 @@ root:
 
 Gerb links the report's picture of the CIA to [[Christopher Sharp]]'s reporting that the [[CIA Office of Global Access]] has played a central role in crash retrieval since 2003, working with [[JSOC (Joint Special Operations Command)|JSOC]] among others. One of Sharp's sources calls the office "a facilitator for people to get in and out of countries". Another says the military does the physical retrieval but hands the object "fairly quickly into private hands" because it has to keep too many records. For Gerb, Coyame suggests that parts of the CIA were retrieving craft long before the office existed. In his view the handoff to a private convoy bound for a Lockheed city fits the same pattern, as does the Wikipedia editor Mercy 11's claim that the team was made up of retired servicemen. Sharp's Daily Mail sources also named [[NEST (Nuclear Emergency Support Team)|NEST]] among the teams doing retrievals.
 
-[[Fort Bliss]] may matter beyond this case. [[Philip J. Corso]] wrote in *The Day After Roswell* that debris and bodies from the 1947 [[Roswell Crash]] were shipped there. Gerb knows of few other links besides a handful of Blue Book sightings and flags the base for future research.
+[[Fort Bliss]] may matter beyond this case. Gerb says [[Philip J. Corso]] wrote in *The Day After Roswell* that debris and bodies from the 1947 [[Roswell Crash]] were shipped there.[^gerb-corso-fort-bliss] Gerb knows of few other links besides a handful of Blue Book sightings and flags the base for future research.
+
+> [!edit] Attribution clarified 16 October 2026
+> Earlier versions said, as fact, that Corso wrote that Roswell debris and bodies were shipped to Fort Bliss. That is Gerb's reading; in the book the convoy came from Fort Bliss (see the footnote).
 
 ## What Killed the Mexican Soldiers?
 
@@ -681,3 +684,5 @@ entries:
 - **Concepts**: [[Denb Report]], [[JS (Denb Report Author)]], [[MJ-12 Documents]], [[Special Operations Manual (SOM 1-01)]], [[Crash Retrieval]]
 - **Operations**: [[Operation Laser Strike]], [[AATIP (Advanced Aerospace Threat Identification Program)]]
 - **Events**: [[1974 Coyame, Mexico UFO Crash Retrieval]], [[Peru UFO Crash Incident]], [[Roswell Crash]]
+
+[^gerb-corso-fort-bliss]: Gerb says "according to Corso debris and bodies from the 1947 Roswell crash were shipped to Fort Bliss Texas". In *The Day After Roswell* the crates Corso saw arrive at Fort Riley on 6 July 1947 were logged as coming from Fort Bliss and bound for Wright Field, so "to" is probably a slip for "from" ([archived 1997 review of the book](https://www.geocities.ws/server2/homestead/area51/Shadowlands/6583/roswell014.html)). In the interview played in the Corso video, Corso recalls being told the five trucks came "from an Airfield in in New Mexico".

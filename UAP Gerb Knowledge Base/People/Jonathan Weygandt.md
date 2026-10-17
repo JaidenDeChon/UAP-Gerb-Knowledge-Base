@@ -243,7 +243,7 @@ claims:
 ---
 ::
 
-The craft invites comparison with other egg-shaped accounts, including the [[1953 Camp Polk UFO Crash Retrieval]], [[Albert Bruce Collins]]'s 1947 sighting at Berkeley, and [[Eric Taber]]'s description of a smooth egg-shaped craft at [[Area 51]]. Weygandt is also one of three Marines, with [[Rodrik Castle]] and Michael Herrera, who say they were given an anthrax booster after their encounters.
+The craft invites comparison with other egg-shaped accounts, including the [[1953 Camp Polk UFO Crash Retrieval]], [[Albert Bruce Collins]]'s 1947 sighting at Berkeley, and [[Eric Taber]]'s description of a smooth egg-shaped craft at [[Area 51]]. Weygandt is also one of three Marines, with [[Rodrik Castle]] and Michael Herrera, who say they were given an anthrax booster after their encounters.[^gerb-weygandt-herrera-swap]
 
 ## Comparison with Coyame
 
@@ -255,3 +255,5 @@ Gerb sets Weygandt's account beside the [[1974 Coyame, Mexico UFO Crash Retrieva
 - [[Videos/The Marines Who Got too Close to UFOs/summary|The Marines Who Got too Close to UFOs]]
 - [[Videos/1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE/summary|1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE]]
 - [[Videos/The 1974 Coyame, Mexico UFO Crash/summary|The 1974 Coyame, Mexico UFO Crash]]
+
+[^gerb-weygandt-herrera-swap]: Lining up the three Marine encounters, Gerb says "In Wagant's case, in 2009, the young Marines stumbled upon a clandestine team with tactical vehicles actively loading containers" under an octagonal craft in Sumatra, which is Michael Herrera's account. His next sentence gives Weygandt's own case correctly ("In Wayan's case in 1997", in the Peruvian jungle), so the first name is probably a slip for Herrera.

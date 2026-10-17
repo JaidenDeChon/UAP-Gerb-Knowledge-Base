@@ -69,7 +69,7 @@
   --graph-edge: 215.4 16.3% 46.9%;
   /* Per-category node colors for the graph map: soft red people, olive
      locations, royal-blue orgs, gray MOCs, purple events, teal ops, pink
-     concepts, white videos. Each theme adapts lightness to its surface —
+     concepts, white videos, amber analyses. Each theme adapts lightness to its surface —
      "white" videos render as silver on the light surfaces, where true white
      would vanish into the background. */
   --graph-cat-people: 4 55% 55%;
@@ -80,6 +80,7 @@
   --graph-cat-ops: 178 60% 34%;
   --graph-cat-concepts: 337.4 70.3% 69.6%;
   --graph-cat-videos: 220 8% 74%;
+  --graph-cat-analyses: 36 90% 40%;
   --overlay: 222.2 47% 8%;
   --overlay-opacity: 0.45;
 }
@@ -116,6 +117,7 @@
   --graph-cat-ops: 178 55% 50%;
   --graph-cat-concepts: 338.2 61.1% 57.6%;
   --graph-cat-videos: 0 0% 96%;
+  --graph-cat-analyses: 40 88% 60%;
   --overlay: 0 0% 0%;
   --overlay-opacity: 0.7;
 }
@@ -151,6 +153,7 @@
   --graph-cat-ops: 178 48% 48%;
   --graph-cat-concepts: 338.2 61.1% 57.6%;
   --graph-cat-videos: 0 0% 90%;
+  --graph-cat-analyses: 40 78% 57%;
   --overlay: 0 0% 0%;
   --overlay-opacity: 0.6;
 }
@@ -186,6 +189,7 @@
   --graph-cat-ops: 178 55% 31%;
   --graph-cat-concepts: 337.4 70.3% 69.6%;
   --graph-cat-videos: 40 12% 70%;
+  --graph-cat-analyses: 34 82% 37%;
   --overlay: 28 30% 14%;
   --overlay-opacity: 0.4;
 }

@@ -38,7 +38,10 @@ Elizondo has stated that while he was at AATIP, the program found evidence of a 
 
 ## Legacy and Successor Programs
 
-AATIP's work laid the groundwork for later official UAP investigations, including the [[UAP Task Force]], established in 2020, and the All-domain Anomaly Resolution Office (AARO), created in 2022. Its framework and methods still influence how military and intelligence agencies approach UAP encounters.
+Supporters, Elizondo among them, credit AATIP with laying the groundwork for later official UAP investigations, including the [[UAP Task Force]], established in 2020, and the All-domain Anomaly Resolution Office ([[AARO]]), created in 2022, and say its framework and methods still shape how military and intelligence agencies approach UAP encounters. AARO disputes the premise: its 2024 historical report says AATIP was never an official DoD program, and that after AAWSAP ended the name was used by an informal UAP interest group with no dedicated personnel or budget.
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions stated as fact that AATIP's work laid the groundwork for the UAP Task Force and AARO and still shapes how agencies handle UAP. That is the view of AATIP's supporters; AARO's Historical Record Report, Vol. 1 describes AATIP as an informal, unfunded group rather than a program, so both positions are now attributed.
 
 ## Sources
 

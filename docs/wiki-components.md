@@ -1881,6 +1881,83 @@ title. Videos and maps of content get no list.
 
 ---
 
+## Analyses
+
+`UAP Gerb Knowledge Base/Analyses/` holds blog-style posts, one per file
+(`Analyses/<Headline>.md`), each setting out a connection, coincidence,
+contradiction or pattern that the knowledge base supports but Gerb's videos
+never stated outright. They are inference from the evidence, not established
+fact, and the site labels them that way. The frontmatter schema is fixed:
+
+```yaml
+title: "Two Programs, One Contractor"   # the headline
+date: 2026-10-16                         # publication date, YYYY-MM-DD
+kind: hidden-link                        # hidden-link | timeline | contradiction | change-of-view | pattern
+confidence: moderate                     # strong | moderate | speculative
+novelty: new                             # new | known-elsewhere | partly-known (from a web check)
+dek: "One or two sentences saying what the analysis finds."
+videos: ["<video folder title>", ...]    # the video folders it draws on
+tags: [analysis]
+```
+
+The body is ordinary vault markdown with `[[wikilinks]]` and any of the
+components above, in sections such as `## The finding`, `## The evidence`,
+`## What would change this` and `## Sources`. A value outside its enum is
+dropped rather than shown.
+
+- **The index** (`/analyses`, `pages/analyses/index.vue`) lists every post,
+  newest `date` first, as cards (`components/analysis/AnalysisCard.vue`):
+  kind, confidence and novelty chips, the headline, the dek, the date, and
+  how many videos and entries the post draws on. The data comes from
+  `/api/analyses` (`?limit=N` trims it), baked at build time by
+  `buildAnalyses` in `wiki/analyses.ts` (unit-tested in `analyses.test.ts`).
+  The home page shows the latest two under "Recently processed", and nothing
+  at all while the folder is empty.
+- **The header strip** (`components/wiki/WikiAnalysisStrip.vue`) sits under
+  the title of every post, in place of the fact table: the same three chips
+  (`components/analysis/AnalysisMarks.vue`), the date, and one muted line
+  saying an AI research agent found and wrote the post from the knowledge
+  base and checked it against the transcripts. The `dek:` becomes the page's lead. Confidence shows as a three-step
+  meter (one bar for speculative, three for strong); the labels live in
+  `utils/analysis.ts`.
+
+### Footnotes
+
+Footnotes are small corrections for places where Gerb probably slipped: a
+gloss, a swapped acronym, a wrong year, a paraphrase that drifts from the clip
+he plays. They are not analyses. Each one is a GFM footnote whose label starts
+`gerb-` and is unique across the vault (`[^gerb-condron]`), and it appears in
+two places:
+
+1. On the relevant sentence of the video's `summary.md`:
+   `… the Condron Committee[^gerb-condron] …`, with
+   `[^gerb-condron]: Gerb says "Condron"; the committee is [[Edward Condon]]'s.`
+   at the foot of the note.
+2. As the same footnote on the most relevant entity page.
+
+Keep footnotes out of a note's opening paragraph: that paragraph becomes the
+page's lead, which is plain text, so its marker would be lost.
+
+remark-gfm (on by default in @nuxt/content's markdown pipeline) renders them
+as `<sup><a href="#user-content-fn-gerb-x" id="user-content-fnref-gerb-x"
+data-footnote-ref>1</a></sup>` and, at the end of the body,
+`<section data-footnotes class="footnotes">` holding an
+`<h2 id="footnote-label">Footnotes</h2>` and an `<ol>` of
+`<li id="user-content-fn-gerb-x">…<a data-footnote-backref>↩</a></li>`.
+Footnotes are numbered in order of first reference, whatever their labels.
+`ProseA` passes `#` links through as plain anchors (ids and aria attributes
+kept, no preview, no external-link icon). The wiki page styles the marker
+and the section as small print (scoped CSS in `pages/wiki/[...slug].vue`),
+and `cleanTocLabels` (`wiki/toc.ts`) keeps the `footnote-label` heading out
+of the TOC rail.
+
+Analyses are their own category (`Analyses`, amber, the `lightbulb` glyph).
+`Analyses` is last in `FOLDER_PRIORITY` (`wiki/naming.ts`), so a headline
+that shares an entity's name never takes that entity's bare `[[Name]]`
+links, and analyses get no "Most referenced" list.
+
+---
+
 ## People portraits (`app/scripts/fetch-people-images.mjs`)
 
 Person cards show a photo when one is available: the roster, the person's
@@ -2096,6 +2173,7 @@ The category tint variables, defined per-theme in `main.css`:
 - `--graph-cat-ops`
 - `--graph-cat-concepts`
 - `--graph-cat-videos`
+- `--graph-cat-analyses`
 
 Use `tintFor()` / `timelineTintFor()` (above) rather than referencing these
 variables by name directly — they already handle the fallback case for an

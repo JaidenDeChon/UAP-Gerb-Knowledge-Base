@@ -5,11 +5,14 @@ tags:
   - organization
 ---
 
-The **Interplanetary Phenomenon Unit** (IPU) was reportedly a U.S. Army intelligence unit tasked with UFO crash retrieval and analysis operations in the late 1940s and 1950s. Army FOIA responses confirm that the unit existed, stating it was "disestablished in the late 1950s," though all of its records were allegedly transferred to the U.S. Air Force in conjunction with Project Blue Book.
+The **Interplanetary Phenomenon Unit** (IPU) was reportedly a U.S. Army intelligence unit tasked with UFO crash retrieval and analysis operations in the late 1940s and 1950s. Army FOIA responses confirm that the unit existed, stating it was "disestablished in the late 1950s," and that all of its records were surrendered to the U.S. Air Force Office of Special Investigations (AFOSI) "with Operation Blue Book".
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said the records were "allegedly" transferred to the U.S. Air Force in conjunction with Project Blue Book. The transfer is the Army's own statement, and its 1980 reply, quoted below, names AFOSI as the recipient.
 
 ## Official Acknowledgment
 
-In 1980, researcher Richard Hall filed a FOIA request with the U.S. Army regarding UFO intelligence records. Colonel William Guild, director of Army Counter Intelligence, responded that the IPU "was disestablished in the late 1950s and never reactivated," and that all records were "surrendered to the US Air Force Office of Special Investigations with Operation Blue Book."
+In 1980, researcher Richard Hall filed a FOIA request with the U.S. Army regarding UFO intelligence records. Colonel William Guild, director of Army Counter Intelligence, responded that the IPU "was disestablished in the late 1950s and never reactivated," and that all records were "surrendered to the US Air Force Office of Special Investigations with Operation Blue Book."[^gerb-ipu-records]
 
 Later FOIA requests by [[William Steinman]] (1984) and Timothy Good (1987) received the same response. The Army remembered the unit but said that no records remained. According to Lieutenant Colonel Lance Cornine, the IPU was formed as an "in-house project as an interest item for an assistant chief of staff for intelligence" and "never [had] a unit or formally recognized mission or authority."
 
@@ -33,10 +36,13 @@ This interpretation does not account for the specific wording of the Army FOIA r
 
 ## Majestic Documents Connection
 
-Two documents allegedly from the IPU appear in the Majestic Documents collection. One is an IPU Field Order dated July 4, 1947, directing a commanding officer to take a counterintelligence team to a UFO crash site and "report to the G2 at Condron Field, New Mexico", which Gerb glosses as "of course Roswell". Condron Field was in fact the airfield of the White Sands Proving Ground (today's [[White Sands Missile Range]]), in southern New Mexico. The other is an IPU Report dated July 22, 1947, which details the recovery of multiple craft and names scientists including Dr. J. Robert Oppenheimer and Dr. Detlev Bronk, both of whom are also connected to the Aztec case.
+Two documents allegedly from the IPU appear in the Majestic Documents collection. One is an IPU Field Order dated July 4, 1947, directing a commanding officer to take a counterintelligence team to a UFO crash site and "report to the G2 at Condron Field, New Mexico", which Gerb glosses as "of course Roswell".[^gerb-condron-field] Condron Field was in fact the airfield of the White Sands Proving Ground (today's [[White Sands Missile Range]]), in southern New Mexico. The other is an IPU Report dated July 22, 1947, which, in Gerb's words, "references recovery of multiple fallen objects from 4 to 6th July 1947" and names scientists including Dr. J. Robert Oppenheimer and Dr. Detlev Bronk, both of whom are also connected to the Aztec case.
 
 > [!edit] Attribution clarified 16 October 2026
 > Earlier versions said the field order sent the team to Roswell. The order says "Condron Field, New Mexico", the White Sands Proving Ground airfield; Roswell is Gerb's reading.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said the IPU report details the recovery of multiple craft. Gerb says it refers to "multiple fallen objects", which he thinks possibly points to several Roswell retrievals; in the Majestic-12 video he describes it as covering "the two sites of the crashed disc".
 
 Thomas Cantwell gave these documents to researcher Timothy Cooper: according to Gerb, the field order arrived by UPS between 1993 and 1996, and Cantwell handed Cooper the IPU report in person in July 1995. They predate [[William Steinman]]'s published theories but mirror many of his conclusions.
 
@@ -58,3 +64,6 @@ Drawing on research by Ryan S. Wood and the late Robert Wood, UAP Gerb's investi
 - [[Videos/Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/summary|Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
 - [GlobalSecurity.org, "Condron Army Airfield"](https://www.globalsecurity.org/military/facility/condron.htm)
 - [Abandoned & Little-Known Airfields: New Mexico, Alamogordo area](https://airfields-freeman.com/NM/Airfields_NM_Alamagordo.htm)
+
+[^gerb-condron-field]: Gerb says the field order has the team "report to the G2 at Condrinfield, New Mexico, which is of course Roswell", probably a slip in the gloss: Condron Field was the White Sands range airfield, about 130 miles from Roswell ([WSMR Museum](https://wsmrmuseum.com/2020/09/21/a-brief-history-of-white-sands-proving-ground-1941-1965/5/); [GlobalSecurity](https://www.globalsecurity.org/military/facility/condron.htm)), and one airfield history doesn't find it on charts before 1948 ([Paul Freeman](https://www.airfields-freeman.com/NM/Airfields_NM_Alamagordo.htm)).
+[^gerb-ipu-records]: Gerb's shorthand puts the IPU records with Blue Book ("surrendered to the Air Force in conjunction with Project Blue Book" in the Aztec video, "surrendered to Blue Book" in the Majestic-12 video), but the Army's 1980 reply he reads in the Aztec video names the recipient: "All records pertaining to this unit were surrendered to the US Air Force Office of Special Investigations with Operation Blue Book." He restores AFOSI in the Manhattan Project 2.0 video, and [UFO Explorations](https://www.ufoexplorations.com/us-army-secret-ufo-study) gives the letter the same wording.

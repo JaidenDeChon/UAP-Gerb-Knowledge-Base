@@ -83,6 +83,24 @@ describe('cleanTocLabels', () => {
     expect(b.toc!.links![0]!.text).toBe('Just an aside')
   })
 
+  it('leaves the GFM footnotes heading out of the toc, and on the page', () => {
+    const b: TocBody = {
+      value: [
+        ['h2', { id: 'overview' }, 'Overview'],
+        ['section', { className: ['footnotes'], dataFootnotes: '' }, ['h2', { id: 'footnote-label' }, 'Footnotes']],
+      ],
+      toc: {
+        links: [
+          { id: 'overview', depth: 2, text: 'Overview' },
+          { id: 'footnote-label', depth: 2, text: 'Footnotes' },
+        ],
+      },
+    }
+    cleanTocLabels(b)
+    expect(b.toc!.links!.map(link => link.id)).toEqual(['overview'])
+    expect(((b.value![1] as MinimarkElement)[2] as MinimarkElement)[1].id).toBe('footnote-label')
+  })
+
   it('survives a missing or empty toc', () => {
     expect(() => cleanTocLabels(null)).not.toThrow()
     expect(() => cleanTocLabels({ value: [], toc: { links: [] } })).not.toThrow()

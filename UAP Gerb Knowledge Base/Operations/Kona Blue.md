@@ -5,10 +5,13 @@ tags:
   - program
 ---
 
-Kona Blue was a proposed waived Unacknowledged Special Access Program (USAP) that would have acted as a Department of Homeland Security Science and Technology "catcher's mitt" for recovered non-human craft materials held by [[Lockheed Martin]] since the 1950s. Senator [[Harry Reid]] championed the program as part of the [[AAWSAP]] initiative to bring alleged UAP crash retrieval materials into a government-controlled research framework with Congressional oversight. Kona Blue is documented evidence of an attempt to formally transfer UAP materials from a defense contractor to a government-controlled program. Gerb describes Lockheed's efforts, between 2008 and 2011, to divest the materials to Bigelow Aerospace Advanced Space Studies under the DIA-sponsored AAWSAP program, and says CIA and DNI officials stonewalled them. Kona Blue itself was the second of those attempts, a prospective DHS Science and Technology program that AARO dates from July 2011 to its termination in February 2012.
+Kona Blue was a proposed waived Unacknowledged Special Access Program (USAP) that would have acted as a Department of Homeland Security Science and Technology "catcher's mitt" for recovered non-human craft materials held by [[Lockheed Martin]] since the 1950s. Senator [[Harry Reid]] championed the program as part of the [[AAWSAP]] initiative to bring alleged UAP crash retrieval materials into a government-controlled research framework with Congressional oversight. Kona Blue is documented evidence of an attempt to formally transfer UAP materials from a defense contractor to a government-controlled program. Gerb describes Lockheed's efforts, between 2008 and 2011, to divest the materials to Bigelow Aerospace Advanced Space Studies under the DIA-sponsored AAWSAP program, and says CIA and DNI officials stonewalled them. Kona Blue itself was the second of those attempts, a prospective DHS Science and Technology program approved in 2011 that, according to AARO, the DHS Deputy Secretary disapproved about six months later, after which it was terminated.
 
 > [!edit] Corrected 16 October 2026
 > Earlier versions called Kona Blue a DIA-administered program stonewalled between 2008 and 2011, which contradicted the body of the page. The lead now separates the earlier AAWSAP/BASS attempts, as Gerb describes them, from Kona Blue itself, a DHS S&T proposal that AARO dates from July 2011 to February 2012.
+
+> [!edit] Corrected 17 October 2026
+> The 16 October version gave AARO's dates as July 2011 to February 2012. Published summaries of AARO's Kona Blue history confirm only that the proposal was approved in 2011 and disapproved about six months later; the month-level dates rest on a single secondary timeline, so the lead now gives the verifiable version.
 
 ## Program Structure and Intent
 
@@ -37,9 +40,12 @@ A more formal attempt followed in 2011, using the Kona Blue PAP structure. Docum
 - The materials were described as residing in "a specific facility known to me" (the facility's location was provided to the Inspector General)
 - The materials originated from "crash retrieval materials from the 1950s and other historical operations"
 - Some sources claim the materials included craft hull fragments or the complete [[1953 Kingman, Arizona Crash Retrieval|1953 Kingman, Arizona crash]] vehicle
-- [[Tara O'Toole]], DHS Under Secretary for Science and Technology, was approached to establish the PAP. According to AARO's declassified history, she was briefed in May 2011 and established Kona Blue as a prospective SAP in July 2011, and the program was terminated in February 2012
+- [[Tara O'Toole]], DHS Under Secretary for Science and Technology, was approached to establish the PAP. According to AARO's declassified history, she approved Kona Blue as a prospective SAP in 2011, and about six months later the DHS Deputy Secretary disapproved it and it was terminated. One outside timeline built from AARO's records puts her briefing in May 2011, her approval in July 2011 and the termination in February 2012, but those months could not be confirmed from a second source
 - [[Bigelow Aerospace Advanced Space Studies]] built a 5,000 square foot underground vault specifically to receive and secure the materials. It was 15-20 feet deep, with 3-foot thick walls, ceilings and floors, multiple tunnels, security doors and a steel vault door
 - The vault was designed to be operational by late 2009 or early 2010
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions stated as AARO's account that O'Toole was briefed in May 2011, set up Kona Blue in July 2011 and saw it terminated in February 2012. Summaries of the AARO history confirm only 2011 and "about six months later", so the months are now credited to the single timeline that gives them.
 
 ## Stonewalling by CIA and DNI
 

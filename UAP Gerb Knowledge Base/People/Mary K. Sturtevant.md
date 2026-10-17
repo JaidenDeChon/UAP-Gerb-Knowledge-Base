@@ -1,7 +1,7 @@
 ---
 name: "Mary K. Sturtevant"
 aliases: ["Mary K. Sturdivant", "Mary Sturtevant"]
-role: "Former CIA officer, Senate Intelligence Committee budget director, NSC senior director and NRO deputy director; Lockheed Martin vice president (2006-2021)"
+role: "Former CIA officer, Senate Intelligence Committee budget director, NSC senior director and NRO deputy director; Lockheed Martin vice president (from 2006; end date unconfirmed)"
 active_from: 1985
 active_to: 2021
 tags:
@@ -22,7 +22,10 @@ Little about Sturtevant is online, and Gerb calls her "largely a ghost." He piec
 - She then returned to the CIA as agency comptroller, supporting the Director of Central Intelligence's strategic decisions and bringing information technology into the office's work. In 1999 she was named deputy director of the Clandestine Information Technology Office, a joint venture of the CIA's Directorate of Operations and its [[CIA Directorate of Science and Technology|Directorate of Science and Technology]]. The White House statement says she held senior posts in both directorates and played a key role in developing the CIA's information operations program.
 - In July 2001 she joined the National Security Council under George W. Bush as Special Assistant to the President and Senior Director for Intelligence Programs, an appointment effective 9 July 2001. The White House statement gives her education as a BA in history and Russian area studies from the University of California, Santa Barbara, and an MA in Soviet studies and international economics from the Johns Hopkins School of Advanced International Studies.
 - From 2004 to 2006 she was Deputy Director for National Support at the NRO.
-- From 2006 to 2021 she was at Lockheed Martin, as vice president for government affairs and as vice president for intelligence, joint, and science and technology programs, a role Gerb finds documented from at least 2011 to 2015. Her online footprint largely disappears once she joins Lockheed.
+- From 2006 she was at Lockheed Martin, as vice president for government affairs and as vice president for intelligence, joint, and science and technology programs, a role Gerb finds documented from at least 2011 to 2015. Gerb gives her government affairs post as running from 2006 to 2021 in his Lockheed and Northrop Grumman Vol.2 videos, but as 2006 to 2011 in his NRO video, and no outside source found confirms either end date. Her online footprint largely disappears once she joins Lockheed.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions stated as fact that she was at Lockheed from 2006 to 2021. That end date is Gerb's from two videos, his NRO video says 2011, and no independent source for either was found, so the dates are now credited to him.
 
 ### BDM in Gerb's coverage
 

@@ -19,7 +19,7 @@ After the Army he took a degree at Catawba College in 1964 and a law degree from
 
 Greer's Disclosure Project billed him as "Brigadier General Steven Lovekin." The rank came from the North Carolina State Guard, a volunteer militia with no official military standing. Gerb calls the title an embellishment by Greer, or a credential Greer did not check, and the biggest stain on Lovekin's case.
 
-Several sources, including researcher Joe Murgia, place Lovekin at the briefing with Greer, [[Edgar Mitchell]], Rear Admiral [[Thomas Wilson]] and Commander [[Will Miller]] that is recorded in the [[Wilson-Davis Memo]] (see [[1997 Meeting (Wilson, Miller, Mitchell, Greer, Hughes)]]; Gerb dates it to 1998).
+Several sources, including researcher Joe Murgia, place Lovekin at the briefing with Greer, [[Edgar Mitchell]], Rear Admiral [[Thomas Wilson]] and Commander [[Will Miller]] that is recorded in the [[Wilson-Davis Memo]] (see [[1997 Meeting (Wilson, Miller, Mitchell, Greer, Hughes)]]; Gerb dates it to 1998).[^gerb-lovekin-wilson-1998]
 
 ## Timeline
 
@@ -98,3 +98,5 @@ Gerb returns three times to Lovekin's claim that a classified part of Blue Book 
 - [[Videos/The Majestic-12 Documents With Ryan S. Wood/summary|The Majestic-12 Documents With Ryan S. Wood]]
 - [[Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/summary|The 1965 Kecksburg, Pennsylvania UFO Crash]]
 - [[Videos/Off-World Technologies Division – UAP Technology Reverse Engineering/summary|Off-World Technologies Division – UAP Technology Reverse Engineering]]
+
+[^gerb-lovekin-wilson-1998]: Gerb says Lovekin "was also an attendee to the 1998 briefing with Dr Greer Dr Mitchell rear Admiral Thomas Wilson Commander will Miller and others". Gerb himself dates that Pentagon briefing to 1997 in [[Videos/The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs/summary|The Wilson Davis Memo]], as the Wilson-Davis notes do, and researchers place it in April 1997, so 1998 is probably a slip ([The Black Vault: the Admiral Wilson leak](https://www.theblackvault.com/casefiles/the-admiral-wilson-leak-an-analysis/); [Anomaly Archives: Loose Threads](https://anomalyarchives.org/wp-content/uploads/PDF-Loose-Threads.pdf)).

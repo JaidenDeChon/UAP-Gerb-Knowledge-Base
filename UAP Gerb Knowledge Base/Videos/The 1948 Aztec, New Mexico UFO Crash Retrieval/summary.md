@@ -923,7 +923,7 @@ Steinman traced that man to [[Eric A. Walker]], Penn State president, founder of
 
 The IPU is central to Steinman's reconstruction, so Gerb reviews the evidence for it, drawing on [[Robert Wood]] and Ryan Wood and on researcher Anthony Bragalia.
 
-Richard Hall (1980), Steinman (1984) and Timothy Good (1987) all got the same answer from the Army. An IPU of the scientific and technical branch of the counterintelligence directorate had existed, and was disestablished in the late 1950s. Its records were "surrendered" to AFOSI with Project Blue Book. It was an "in-house project" and interest item for an assistant chief of staff for intelligence, with no formal mission, and is known only through "institutional memory." AFOSI later told CUFON the material had been destroyed, which contradicts the Army's statement that there were no records.
+Richard Hall (1980), Steinman (1984) and Timothy Good (1987) all got the same answer from the Army. An IPU of the scientific and technical branch of the counterintelligence directorate had existed, and was disestablished in the late 1950s. Its records were "surrendered" to AFOSI with Project Blue Book.[^gerb-ipu-records] It was an "in-house project" and interest item for an assistant chief of staff for intelligence, with no formal mission, and is known only through "institutional memory." AFOSI later told CUFON the material had been destroyed, which contradicts the Army's statement that there were no records.
 
 ::wiki-claim{video="QJxbyu-9Tj0" video-title="The 1948 Aztec, New Mexico UFO Crash Retrieval"}
 ---
@@ -949,7 +949,7 @@ responses:
 ---
 ::
 
-Timothy Good and the Woods point higher than MacArthur, to George C. Marshall, whom Steinman says mobilised the IPU for Aztec. Majestic documents include a 4 July 1947 IPU field order and a 22 July 1947 IPU report on Roswell, both delivered to [[Tim Cooper]] in the mid-1990s.
+Timothy Good and the Woods point higher than MacArthur, to George C. Marshall, whom Steinman says mobilised the IPU for Aztec. Majestic documents include a 4 July 1947 IPU field order[^gerb-condron-field] and a 22 July 1947 IPU report on Roswell, both delivered to [[Tim Cooper]] in the mid-1990s.
 
 The 22 July 1947 report, if genuine, closely matches Steinman's Aztec account, which appeared nine years before it surfaced. It describes multiple objects recovered on 4–6 July 1947, a Sandia radiobiological team with an AFSWP security detail, AEC scientists including Oppenheimer, Bronk in charge of autopsies, recovered craft stored at Los Alamos under a Lieutenant General Collins, and Marshall as the only cabinet member who knew. It also mentions three Sandia technicians killed in a containment accident, which Gerb has linked to the 1974 Coyame case. Gerb concludes that the unit existed but its records have been destroyed. He cannot lean on the disputed documents for anything definitive, but the parallels between Roswell and Aztec, eight months apart, are striking.
 
@@ -990,3 +990,7 @@ Speaking to camera at the end, Gerb explains why he took up a case he had once d
 - **Concepts**: [[Hottel Memo]], [[MJ-12 Documents]], [[Project Twinkle]], [[TR-3B]], [[Strategic Defense Initiative (SDI)]]
 - **Operations**: [[Operation Upshot-Knothole]]
 - **Events**: [[Aztec UFO Crash and Recovery]], [[Roswell Crash]], [[1953 Kingman, Arizona Crash Retrieval]], [[1965 Kecksburg, Pennsylvania Crash Retrieval]]
+
+[^gerb-condron-field]: Gerb says the field order has the team "report to the G2 at Condrinfield, New Mexico, which is of course Roswell", probably a slip in the gloss: Condron Field was the White Sands range airfield, about 130 miles from Roswell ([WSMR Museum](https://wsmrmuseum.com/2020/09/21/a-brief-history-of-white-sands-proving-ground-1941-1965/5/); [GlobalSecurity](https://www.globalsecurity.org/military/facility/condron.htm)), and one airfield history doesn't find it on charts before 1948 ([Paul Freeman](https://www.airfields-freeman.com/NM/Airfields_NM_Alamagordo.htm)).
+
+[^gerb-ipu-records]: Gerb's shorthand puts the IPU records with Blue Book ("surrendered to the Air Force in conjunction with Project Blue Book" in the Aztec video, "surrendered to Blue Book" in the Majestic-12 video), but the Army's 1980 reply he reads in the Aztec video names the recipient: "All records pertaining to this unit were surrendered to the US Air Force Office of Special Investigations with Operation Blue Book." He restores AFOSI in the Manhattan Project 2.0 video, and [UFO Explorations](https://www.ufoexplorations.com/us-army-secret-ufo-study) gives the letter the same wording.

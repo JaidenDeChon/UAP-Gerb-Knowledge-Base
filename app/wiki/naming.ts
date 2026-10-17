@@ -13,7 +13,8 @@
 
 /**
  * When a bare `[[Name]]` matches files in several folders, the earlier folder wins.
- * Anything unlisted sorts last.
+ * Anything unlisted sorts last. Analyses come last of all, so a headline that
+ * happens to share an entity's name never takes that entity's links.
  */
 export const FOLDER_PRIORITY = [
   'People',
@@ -24,6 +25,7 @@ export const FOLDER_PRIORITY = [
   'Concepts',
   'MOCs',
   'Videos',
+  'Analyses',
 ]
 
 /** Lowercase and strip diacritics, so `Edgar Fouché` still finds `Edgar Fouche.md`. */

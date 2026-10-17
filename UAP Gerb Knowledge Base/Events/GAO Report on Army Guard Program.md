@@ -6,3 +6,7 @@ tags:
 ---
 
 The General Accounting Office published a report on contracted security at Dugway Proving Ground, titled 'Army's Guard Program Requires Greater Oversight and Reassessment of Acquisition Approach.'
+
+## Sources
+
+- [[Videos/Dugway Proving Ground - UFO Legacy Programs/summary|Dugway Proving Ground - UFO Legacy Programs]]

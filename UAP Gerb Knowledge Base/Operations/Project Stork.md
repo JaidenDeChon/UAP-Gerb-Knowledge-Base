@@ -4,7 +4,10 @@ tags:
   - operation
 ---
 
-Project Stork was a classified UFO investigation program that the [[Air Force Technical Intelligence Center]] (ATIC) contracted to [[Battelle Memorial Institute]] beginning in 1952. It ran in parallel to the publicly acknowledged [[Project Blue Book]], and its purpose was independent, non-public analysis of official UFO sighting reports. Blue Book was mainly a public-facing operation for managing information. Project Stork was a separate analytical track, run by a contractor, with access to all of the Air Force's UFO case files.
+Project Stork was a classified UFO investigation program that the [[Air Force Technical Intelligence Center]] (ATIC) contracted to [[Battelle Memorial Institute]] beginning in 1952. It ran in parallel to the publicly acknowledged [[Project Blue Book]], and its purpose was independent, non-public analysis of official UFO sighting reports. Gerb treats Blue Book as mainly a public-facing operation for managing information, and Project Stork as a separate analytical track, run by a contractor, with access to all of the Air Force's UFO case files.
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions stated in the page's own voice that Blue Book was mainly a public-facing operation for managing information. That is Gerb's characterization, from his videos on Battelle and the origin of the UFO stigma.
 
 ## Origins and Purpose
 
@@ -16,7 +19,7 @@ Dr. [[J. Allen Hynek]] raised the existence of Project Stork when he attempted t
 
 ## Special Report 14
 
-On May 5, 1955, Battelle and ATIC jointly published Special Report 14, a comprehensive analysis of 3,200 UFO sightings. The report concluded that UFOs were not aircraft "beyond human scientific knowledge" because no physical matter had ever been recovered from any UFO sighting. The Computer UFO Network (CUFON) later recovered seven Project Stork status reports and made them available to researchers.
+On May 5, 1955, Battelle and ATIC jointly published Special Report 14 (formally *Project Blue Book Special Report No. 14*), a comprehensive analysis of 3,200 UFO sightings. The report concluded that UFOs were not aircraft "beyond human scientific knowledge" because no physical matter had ever been recovered from any UFO sighting. The Computer UFO Network (CUFON) later recovered seven Project Stork status reports and made them available to researchers.
 
 UAP researchers argue that Special Report 14's conclusion directly contradicts Battelle's own classified 1949 research on [[Nitinol (Nickel-Titanium Alloy)]]. That shape-memory material was analyzed for Wright-Patterson Air Force Base years before the alloy was officially discovered in public, and it is alleged to have come from the 1947 Roswell crash. On this basis, the publication of Special Report 14 is characterized as deliberate disinformation rather than a genuine analytical conclusion.
 

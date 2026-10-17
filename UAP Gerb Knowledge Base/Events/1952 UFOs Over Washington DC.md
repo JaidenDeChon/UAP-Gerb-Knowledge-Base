@@ -9,7 +9,7 @@ The 1952 UFOs Over Washington DC were a series of UFO sightings and radar detect
 
 ## First Wave (July 19–20, 1952)
 
-At 11:40 p.m. on Saturday, July 19, 1952, [[Edward Nugent]], an air traffic controller at Washington National Airport, spotted seven objects on his radar scope. They moved erratically, in ways that did not match any known aircraft. Nugent recognized the anomaly at once and alerted his shift supervisor, Harry Barnes. Other controllers in the radar-equipped control tower visually confirmed bright hovering lights, which departed at high speed when they were observed to approach. More radar scopes at the airport tracked multiple objects across every section of the screen, with tracks passing over the White House and the US Capitol.
+At 11:40 p.m. on Saturday, July 19, 1952,[^gerb-washington-december] [[Edward Nugent]], an air traffic controller at Washington National Airport, spotted seven objects on his radar scope. They moved erratically, in ways that did not match any known aircraft. Nugent recognized the anomaly at once and alerted his shift supervisor, Harry Barnes. Other controllers in the radar-equipped control tower visually confirmed bright hovering lights, which departed at high speed when they were observed to approach. More radar scopes at the airport tracked multiple objects across every section of the screen, with tracks passing over the White House and the US Capitol.
 
 Jets were scrambled from Newcastle Air Force Base in Delaware. They found no objects and returned to base when their fuel ran out. President Truman personally contacted his Air Force aides for an explanation of the intrusion into restricted airspace over the American capital.
 
@@ -32,3 +32,5 @@ The 1952 Washington DC incidents form a direct chain of cause and effect, from d
 ## Sources
 
 - [[Videos/The Alien and UFO Obscure Oddities Iceberg (Level 1)/summary|The Alien and UFO Obscure Oddities Iceberg (Level 1)]]
+
+[^gerb-washington-december]: In [[Videos/The Origin of the UFO Stigma/summary|The Origin of the UFO Stigma]], Gerb says "in December of 1952 one of the most famous Mass UFO sightings in American history occurred over Washington DC" and that witnesses included "the pilots of a B-52 bomber". The sightings fell on the weekends of 19–20 and 26–27 July 1952, the dates he gives himself in [[Videos/The Alien and UFO Obscure Oddities Iceberg (Level 1)/summary|Iceberg (Level 1)]], and the airborne witnesses were airline crews and F-94 interceptor pilots; the B-52 only first flew in April 1952 and entered service in 1955 ([Wikipedia: 1952 Washington, D.C. UFO incident](https://en.wikipedia.org/wiki/1952_Washington,_D.C._UFO_incident); [Wikipedia: B-52](https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress)). "December" is probably a slip, perhaps carried over from the December 1952 Bower–Ruppelt episode he describes later in the same video.

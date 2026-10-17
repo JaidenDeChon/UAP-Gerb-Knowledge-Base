@@ -2,3 +2,6 @@
 # Git history is the durable record; this directory is not.
 .superpowers/
 __pycache__/
+
+# Analysis scouting packets and leads files, passed between scripts/analyses.py and the agents.
+.analysis_inbox/

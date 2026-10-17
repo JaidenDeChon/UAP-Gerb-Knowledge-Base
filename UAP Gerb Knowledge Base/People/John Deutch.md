@@ -59,7 +59,7 @@ rows:
 entries:
   - name: "Thomas Wilson"
     role: "Vice Admiral; later Director of the DIA"
-    note: "According to the Wilson-Davis notes, Deutch warned him in 1997 to drop his attempt to be read into a crash retrieval program."
+    note: "According to Gerb's 2024 reading of the Wilson-Davis notes, Deutch warned him in 1997 to drop his attempt to be read into a crash retrieval program."
   - name: "Bill Perry"
     role: "Deputy Secretary, then Secretary of Defense"
     note: "Restructured SAP oversight in early 1994, just before Deutch succeeded him as Deputy Secretary and SAPOC chair. Gerb notes that Perry also once sat on SAIC's board."
@@ -68,7 +68,7 @@ entries:
     note: "Followed Deutch in the acquisition post and sat on SAPOC as a permanent member. Gerb calls him a lifelong MITRE man."
   - name: "William A. Owens"
     role: "Admiral, Vice Chairman of the Joint Chiefs of Staff"
-    note: "A permanent SAPOC member after the restructuring. He later led SAIC, so counting Deutch, two of the six SAPOC figures Wilson dealt with were SAIC alumni."
+    note: "A permanent SAPOC member after the restructuring. He later led SAIC, so counting Deutch, Gerb has two of six SAPOC members as SAIC alumni."
   - name: "Linton Wells II"
     role: "Permanent Senior Review Group member"
     note: "Another member of the review group Deutch chaired. He was allegedly briefed into MITRE's legacy programs."

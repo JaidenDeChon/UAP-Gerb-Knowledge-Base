@@ -9,7 +9,10 @@ Project Moon Dust (sometimes written "Moondust", and also called Operation Moon 
 
 ## Establishment and Authority
 
-Moon Dust is first mentioned officially in a 1961 US Air Force document from the Air Force's intelligence directorate, AFCIN-1E. The document, a draft policy memo dated 3 November 1961 (which Gerb reads as "AFC 1e draft policy"), proposed giving the [[USAF 1127th Field Activities Group]] collection responsibility for investigating reliably reported unidentified flying objects within the United States. The memo lists Moon Dust as a project that had historically held this duty, with authority to "locate, recover, and deliver descended foreign space vehicles."
+Moon Dust is first mentioned officially in a 1961 US Air Force document from the Air Force's intelligence directorate, AFCIN-1E. The document, a draft policy memo dated 3 November 1961 (which Gerb reads as "AFC 1e draft policy"), proposed giving the [[USAF 1127th Field Activities Group]] collection responsibility for investigating reliably reported unidentified flying objects within the United States. Gerb reads the memo as listing Moon Dust as a project that had historically held this duty, with authority to "locate, recover, and deliver descended foreign space vehicles." In transcriptions of the draft, the UFO investigation program and Moon Dust are described in separate paragraphs, alongside a third project, [[Operation Bluefly|Blue Fly]].
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions stated as fact that the memo lists Moon Dust as having historically held the UFO investigation duty. That is Gerb's reading; published transcriptions of the 3 November 1961 draft give the UFO program and Moon Dust separate paragraphs.
 
 A 1967 review for the Assistant Chief of Staff for the Intelligence Community, describing the functions of the 1127th USAF Field Activities Group, confirms that Moon Dust was operational. That year, Moon Dust captured 49 fallen Soviet space objects and 17 US space objects. A large redacted portion of the memo follows, indicating further classified collection categories.
 
@@ -49,7 +52,10 @@ Several Moon Dust cables and memos were addressed to [[Wright-Patterson Air Forc
 
 ## Parallel Classified Programs
 
-Captain [[Edward J. Ruppelt]], director of [[Project Sign]], [[Project Grudge]], and [[Project Blue Book]], disclosed on April 24, 1952 that programs running parallel to the official USG UFO investigations were "conducting a more complete investigation." Dr. [[J. Allen Hynek]], the scientific advisor to Project Blue Book, independently confirmed that other classified programs were studying UFOs alongside Blue Book. Project Moon Dust was one of these parallel programs. It operated at a higher classification level while the public programs managed perception and information control.
+According to Gerb, Captain [[Edward J. Ruppelt]], who headed the Air Force's UFO investigation at the end of [[Project Grudge]] and then ran [[Project Blue Book]], suggested on 24 April 1952 that programs running parallel to the official USG UFO investigations were "conducting a more complete investigation." Ruppelt joined the Air Technical Intelligence Center in 1951, after [[Project Sign]] had ended, and never directed Sign. Gerb says Dr. [[J. Allen Hynek]], the scientific advisor to Project Blue Book, reached the same conclusion: that other classified programs were studying UFOs alongside Blue Book. Gerb suggests Project Moon Dust could have been one of these parallel programs: "an inconspicuous crash retrieval program, one that unless you look hard enough you'll never know existed."
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions called Ruppelt the director of Project Sign, stated the 24 April 1952 date and Hynek's confirmation in the page's own voice, and said as fact that Moon Dust was one of the parallel programs. Ruppelt joined ATIC in 1951 and led Grudge and then Blue Book, not Sign (Wikipedia, "Edward J. Ruppelt"); the date and the Moon Dust link come from Gerb, who presents the link as a possibility. A sentence saying Moon Dust ran at a higher classification level while the public programs managed perception was removed, as no source for it was found.
 
 ## Air Force Denial and Institutional Cover-Up
 

@@ -15,6 +15,7 @@ export type Category =
   | 'Locations'
   | 'Concepts'
   | 'Videos'
+  | 'Analyses'
 
 /** Order the sidebar and any category listing render in. */
 export const CATEGORY_ORDER: Category[] = [
@@ -26,6 +27,7 @@ export const CATEGORY_ORDER: Category[] = [
   'Locations',
   'Concepts',
   'Videos',
+  'Analyses',
 ]
 
 /** Lucide glyph name per category, used by the sidebar and command palette. */
@@ -39,6 +41,7 @@ export const CATEGORY_ICON: Record<Category, string> = {
   Locations: 'map-pin',
   Concepts: 'atom',
   Videos: 'clapperboard',
+  Analyses: 'lightbulb',
 }
 
 /* ------------------------------------------------------------------ tree -- */
@@ -207,6 +210,36 @@ export interface BakedVideo {
   pub: string | null
 }
 
+/** What an analysis sets out: a link, a sequence, a conflict, a shift in Gerb's view, or a recurrence. */
+export type AnalysisKind = 'hidden-link' | 'timeline' | 'contradiction' | 'change-of-view' | 'pattern'
+/** How far the evidence carries the inference. */
+export type AnalysisConfidence = 'strong' | 'moderate' | 'speculative'
+/** Whether a web check found the connection already public outside Gerb's videos. */
+export type AnalysisNovelty = 'new' | 'known-elsewhere' | 'partly-known'
+
+export const ANALYSIS_KINDS: AnalysisKind[] = ['hidden-link', 'timeline', 'contradiction', 'change-of-view', 'pattern']
+export const ANALYSIS_CONFIDENCES: AnalysisConfidence[] = ['strong', 'moderate', 'speculative']
+export const ANALYSIS_NOVELTIES: AnalysisNovelty[] = ['new', 'known-elsewhere', 'partly-known']
+
+/**
+ * One `Analyses/<Headline>.md` note, as `wiki/analyses.ts` bakes it. Title
+ * comes from the matching `BakedPreview`, path from the `GraphNode`, both
+ * indexed by `i`. A frontmatter value outside its enum bakes as null.
+ */
+export interface BakedAnalysis {
+  /** Index into `GraphPayload.nodes` / `WikiData.previews`. */
+  i: number
+  /** Publication date (`YYYY-MM-DD`), from `date:`. */
+  date: string | null
+  kind: AnalysisKind | null
+  confidence: AnalysisConfidence | null
+  novelty: AnalysisNovelty | null
+  /** The one- or two-sentence finding, from `dek:`. */
+  dek: string
+  /** How many video folders the note lists under `videos:`. */
+  videos: number
+}
+
 export interface WikiData {
   tree: TreeItem[]
   graph: GraphPayload
@@ -214,6 +247,8 @@ export interface WikiData {
   previews: BakedPreview[]
   /** Every video summary, most recently processed first. */
   videos: BakedVideo[]
+  /** Every analysis, newest `date` first. See `wiki/analyses.ts`. */
+  analyses: BakedAnalysis[]
   /** `[lat, lon]` for each note with `coordinates:` frontmatter, keyed by `GraphNode.i`. */
   geo: BakedGeo
   /** Portrait for each People note in `wiki/people-images.json`, keyed by `GraphNode.i`. */
@@ -326,4 +361,22 @@ export interface VideoCard {
   videoId: string | null
   processedAt: string | null
   durationSeconds: number | null
+}
+
+/* -------------------------------------------------------------- analyses -- */
+
+/** An analysis as `/api/analyses` serves it — enough to render a card. */
+export interface AnalysisCard {
+  path: string
+  title: string
+  dek: string
+  /** Publication date, `YYYY-MM-DD`. */
+  date: string | null
+  kind: AnalysisKind | null
+  confidence: AnalysisConfidence | null
+  novelty: AnalysisNovelty | null
+  /** Video folders the analysis draws on. */
+  videoCount: number
+  /** Distinct entries it links to, videos, maps of content and other analyses aside. */
+  entityCount: number
 }

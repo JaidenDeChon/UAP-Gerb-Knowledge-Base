@@ -29,7 +29,10 @@ The program was coordinated by an aerospace technology contractor described as "
 
 ## Denial of Wilson's Access
 
-Despite Wilson's seniority and clearance level, the watch committee, backed by [[SAPOC (Special Access Program Oversight Committee)|SAPOC]], kept refusing him access. When Wilson complained to the SAPOC senior review group at the Pentagon, the group's chairman, [[John Deutch]], threatened him: if he did not drop the matter, "he would not see the Director of DIA promotion, he would get an early retirement, and lose one to two stars."
+Despite Wilson's seniority and clearance level, the watch committee, backed by [[SAPOC (Special Access Program Oversight Committee)|SAPOC]], kept refusing him access. When Wilson complained to the SAPOC senior review group at the Pentagon, the group's chairman threatened him: if he did not drop the matter, "he would not see the Director of DIA promotion, he would get an early retirement, and lose one to two stars." Gerb's 2024 reading of the notes names the chairman as [[John Deutch]].
+
+> [!edit] Attribution clarified 16 October 2026
+> Earlier versions said, as fact, that the group's chairman was John Deutch. Transcribed copies of the notes quoted online leave the chairman unnamed here, and Deutch had left the Deputy Secretary post that chaired the group in May 1995; the name comes from Gerb's reading in his 2024 video.
 
 ## Sources
 

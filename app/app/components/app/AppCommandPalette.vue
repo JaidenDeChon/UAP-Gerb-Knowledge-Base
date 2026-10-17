@@ -12,6 +12,7 @@ import {
   Earth,
   FileText,
   House,
+  Lightbulb,
   MapPin,
   Radar,
   Users,
@@ -70,6 +71,7 @@ const ICONS: Record<string, Component> = {
   'map-pin': MapPin,
   'atom': Atom,
   'clapperboard': Clapperboard,
+  'lightbulb': Lightbulb,
 }
 
 function categoryIcon(category: Category): Component {
@@ -152,7 +154,7 @@ const groups = computed<Group[]>(() => {
 // our own visibility never disagree (which would leave an empty group heading).
 const showMap = computed(() => {
   const q = fold(query.value)
-  return q === '' || 'home'.includes(q) || 'site map (all entries)'.includes(q)
+  return q === '' || 'home'.includes(q) || 'site map (all entries)'.includes(q) || 'analyses (all posts)'.includes(q)
 })
 
 const isEmpty = computed(
@@ -204,6 +206,10 @@ function go(path: string): void {
         <CommandItem value="/world" @select="go('/world')">
           <Earth />
           <span class="flex-1 truncate">World map (all locations)</span>
+        </CommandItem>
+        <CommandItem value="/analyses" @select="go('/analyses')">
+          <Lightbulb />
+          <span class="flex-1 truncate">Analyses (all posts)</span>
         </CommandItem>
       </CommandGroup>
 
