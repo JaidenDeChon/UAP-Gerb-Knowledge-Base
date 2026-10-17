@@ -1,10 +1,10 @@
 ---
-title: "Gerb went from very skeptical to probably likely on radar downing Roswell"
+title: "How Gerb came round to the idea that radar brought down Roswell"
 date: 2026-10-16
-kind: contradiction
+kind: change-of-view
 confidence: moderate
 novelty: new
-dek: "In January 2025 Gerb said he was 'still very skeptical' that radar brought down the 1940s crash craft. By September 2026 he called it 'probably likely' for Roswell. The videos in between show what moved him: the Ramseys' Aztec witnesses first, then Andrew Kissner's statement."
+dek: "In early 2025 Gerb was very skeptical that military radar caused the 1947 Roswell crash. By September 2026 he called it probably likely. Two sources that reached him in between, a book of Aztec crash witness accounts and a statement by researcher Andrew Kissner, seem to be what changed his mind."
 videos: ["Philip J. Corso - US Army UFO Technology Research & Development", "The 1948 Aztec, New Mexico UFO Crash Retrieval", "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs", "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1", "80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline"]
 tags: [analysis]
 ---

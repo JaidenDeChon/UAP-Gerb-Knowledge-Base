@@ -1,10 +1,10 @@
 ---
-title: "Corso's Fort Riley date needs the bodies out of Roswell by 5 July"
+title: "Corso's Fort Riley story needs the Roswell bodies to have left early"
 date: 2026-10-16
 kind: timeline
 confidence: speculative
 novelty: new
-dek: "Corso's crate at Fort Riley on or about 6 July 1947 only works if the Roswell bodies left New Mexico around 5 July, the chronology Gerb gives in UFO Whistleblowers Vol.1. The 7 July date Gerb uses in two other videos leaves no room for it, and the Haut affidavit Gerb reads in the same video still has bodies in Hangar 84 on 8 July."
+dek: "Philip Corso said he saw a body from the Roswell crash in a crate at Fort Riley, Kansas, around 6 July 1947. For that to work, the bodies would have had to leave New Mexico by about 5 July. Gerb gives that early date in one video but 7 July in two others, and an affidavit he reads out has bodies still at Roswell on 8 July."
 videos: ["Philip J. Corso - US Army UFO Technology Research & Development", "UFO Whistleblowers Vol.1", "The Alien and UFO Obscure Oddities Iceberg (Level 2)", "The 1965 Kecksburg, Pennsylvania UFO Crash", "The Majestic-12 Documents With Ryan S. Wood"]
 tags: [analysis]
 ---

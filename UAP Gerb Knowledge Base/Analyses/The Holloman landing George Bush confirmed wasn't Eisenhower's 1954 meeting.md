@@ -1,10 +1,10 @@
 ---
-title: "The Holloman landing Bush confirmed is the film story, not Eisenhower's 1954 deal"
+title: "The Holloman landing George Bush confirmed wasn't Eisenhower's 1954 meeting"
 date: 2026-10-16
 kind: contradiction
 confidence: moderate
 novelty: partly-known
-dek: "Gerb dates the alleged Holloman landing to 1954 in two videos and to 1957 in a third. In the Corso video he ties George H. W. Bush's reported confirmation to the 1954 Eisenhower deal, but in every outside account Bush was talking about the filmed landing, which Eric Davis dates to 1964. That is the story Gerb tells separately in his Dugway video."
+dek: "Gerb links a reported confirmation by former president George H. W. Bush, that a UFO landed at Holloman Air Force Base, to a rumoured 1954 deal between President Eisenhower and non-human visitors. Every outside account says Bush was talking about a different event, a filmed landing usually dated to 1964, which Gerb covers in another video."
 videos: ["UFO Whistleblowers Vol.1", "Philip J. Corso - US Army UFO Technology Research & Development", "UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2", "Dugway Proving Ground - UFO Legacy Programs"]
 tags: [analysis]
 ---

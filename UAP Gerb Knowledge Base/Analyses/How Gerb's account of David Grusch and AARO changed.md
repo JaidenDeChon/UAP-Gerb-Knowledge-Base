@@ -1,10 +1,10 @@
 ---
-title: "Gerb's Grusch went from ignored by AARO to keeping away from it"
+title: "How Gerb's account of David Grusch and AARO changed"
 date: 2026-10-16
-kind: contradiction
+kind: change-of-view
 confidence: moderate
 novelty: partly-known
-dek: "In January 2024 Gerb answered Sean Kirkpatrick by saying Grusch had tried to reach AARO and never heard back. By 2026 Gerb describes a Grusch who didn't trust AARO and didn't talk to it, and defends that choice. The records released in between, which Gerb himself refers to, appear to be what changed."
+dek: "In January 2024 Gerb said David Grusch had tried to talk to AARO, the Pentagon's UFO office, and was ignored. By 2026 he says Grusch stayed away from AARO on purpose because he didn't trust it. Records released in between seem to explain the shift."
 videos: ["The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies", "The Hidden Wing - US Air Force UFO Reverse Engineering Programs", "Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2"]
 tags: [analysis]
 ---

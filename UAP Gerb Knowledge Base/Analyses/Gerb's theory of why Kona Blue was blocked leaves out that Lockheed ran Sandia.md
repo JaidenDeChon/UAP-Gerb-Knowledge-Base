@@ -1,11 +1,11 @@
 ---
-title: "Gerb's Kona Blue custody theory leaves out that Lockheed ran Sandia"
+title: "Gerb's theory of why Kona Blue was blocked leaves out that Lockheed ran Sandia"
 date: 2026-10-16
 kind: hidden-link
 confidence: moderate
 novelty: new
 impact: 4
-dek: "Gerb suggests the CIA killed Lockheed's transfer because the material sat in a corporate warehouse rather than with an FFRDC such as Sandia. For the whole 2008 to 2011 episode, Lockheed Martin was the company running Sandia, which his theory never mentions."
+dek: "Between 2008 and 2011 Lockheed reportedly tried to hand recovered crash material to a government program, and the CIA blocked it. Gerb thinks that's because Lockheed kept the material in a company warehouse instead of at a government-funded lab like Sandia. But for that whole period, Lockheed itself was the company running Sandia."
 videos: ["Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs", "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs", "The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs", "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1"]
 tags: [analysis]
 ---

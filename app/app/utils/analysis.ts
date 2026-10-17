@@ -1,5 +1,5 @@
 import type { Component } from 'vue'
-import { History, Link2, Repeat, Split } from '@lucide/vue'
+import { History, Link2, Repeat, Split, TrendingUp } from '@lucide/vue'
 import {
   ANALYSIS_CONFIDENCES,
   ANALYSIS_KINDS,
@@ -18,6 +18,7 @@ export const KIND_LABEL: Record<AnalysisKind, string> = {
   'hidden-link': 'Hidden link',
   'timeline': 'Timeline',
   'contradiction': 'Contradiction',
+  'change-of-view': 'Change of view',
   'pattern': 'Pattern',
 }
 
@@ -25,6 +26,7 @@ export const KIND_ICON: Record<AnalysisKind, Component> = {
   'hidden-link': Link2,
   'timeline': History,
   'contradiction': Split,
+  'change-of-view': TrendingUp,
   'pattern': Repeat,
 }
 

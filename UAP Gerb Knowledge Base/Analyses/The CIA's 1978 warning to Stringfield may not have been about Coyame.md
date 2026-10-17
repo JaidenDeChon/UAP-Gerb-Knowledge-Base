@@ -1,11 +1,11 @@
 ---
-title: "Stringfield's 1978 paper already had a Mexico crash when the CIA warned him off Mexico"
+title: "The CIA's 1978 warning to Stringfield may not have been about Coyame"
 date: 2026-10-16
 kind: contradiction
 confidence: moderate
 novelty: new
 impact: 4
-dek: "In the Coyame video Gerb counts the CIA's 1978 warning to Leonard Stringfield about Mexico as early support for the 1974 Chihuahua crash. The paper Stringfield gave that week already carried a different Mexican crash, a 1948 recovery near Laredo that came to him through Todd Zechel, so the warning does not point to Coyame."
+dek: "Gerb counts a 1978 CIA warning, telling researcher Leonard Stringfield not to discuss crashes in Mexico, as early support for the 1974 Coyame crash. But the talk Stringfield gave that week already described a different Mexican crash, from 1948. The warning fits that case at least as well."
 videos: ["The 1974 Coyame, Mexico UFO Crash", "The 1950s Del Rio, Texas UFO Crashes"]
 tags: [analysis]
 ---

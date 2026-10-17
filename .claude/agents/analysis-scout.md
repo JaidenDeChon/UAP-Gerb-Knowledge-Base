@@ -15,7 +15,7 @@ Use `GITHUB_WORKSPACE` if it is set, otherwise `git rev-parse --show-toplevel`. 
 
 ## Required reading (every run)
 
-1. `docs/analyses.md`: what counts as a finding, the four kinds, and the discard rules. A lead that the writer would have to discard under those rules is a wasted lead.
+1. `docs/analyses.md`: what counts as a finding, the five kinds, and the discard rules. A lead that the writer would have to discard under those rules is a wasted lead.
 2. `CLAUDE.md`: the presenter is Gerb. Never call him "the host".
 3. The packet file you were given (e.g. `.analysis_inbox/S004-links.packet.md`), in full.
 4. The titles of the analyses already published (`ls "UAP Gerb Knowledge Base/Analyses/"`) and the open leads (`python3 scripts/analyses.py list`), so you don't re-find them.

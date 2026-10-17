@@ -1,10 +1,10 @@
 ---
-title: "Gerb's early videos date Gaffney's block to 2008, before he ran the DS&T"
+title: "Gerb's later account of the CIA blocking Lockheed is the one that fits the record"
 date: 2026-10-16
-kind: contradiction
+kind: change-of-view
 confidence: moderate
 novelty: new
-dek: "Three of Gerb's 2025 videos say Glenn Gaffney, as head of the CIA's science and technology directorate, stopped Lockheed's transfer in 2008. In 2008 Gaffney was at the ODNI, and Stephanie O'Sullivan ran the directorate until December 2009. Gerb's later account, with Gaffney blocking the 2011 Kona Blue attempt, is the one his career fits."
+dek: "Several of Gerb's early 2025 videos say Glenn Gaffney, head of the CIA's science and technology office, stopped Lockheed from handing over crash material in 2008. Gaffney didn't run that office until late 2009. Gerb's later version, with Gaffney blocking a second attempt in 2011, matches his career."
 videos: ["Philip J. Corso - US Army UFO Technology Research & Development", "UFO Legacy Programs - Northrop Grumman", "US Navy UFO Crash Retrieval & Reverse Engineering Programs", "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs", "80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline", "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2"]
 tags: [analysis]
 ---
@@ -37,7 +37,6 @@ The finding goes no further. It doesn't say whether Gaffney blocked anything, or
 
 A 2008 block by "DS&T head Gaffney" falls more than a year before he took the job. Even a 2009 attempt, the other year Gerb gives, would almost certainly fall in O'Sullivan's time. Only the 2011 attempt lands in Gaffney's tenure, which is how Gerb tells it from September 2025 on. The early videos look like the two attempts run together, with the first one's date and the second one's blocker.
 
-This also supports the two-attempt structure behind [[Cardillo held Dempsey's post under Clapper when Kona Blue was blocked]], which takes Gerb's later version as its starting point.
 
 ## What cuts against it
 

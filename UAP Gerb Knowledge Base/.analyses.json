@@ -616,7 +616,7 @@
       "id": "L0002",
       "slice": "S001-links",
       "found_at": "2026-10-16T03:34:34Z",
-      "status": "written",
+      "status": "shelved",
       "duplicate_of": null,
       "problems": [],
       "kind": "hidden-link",
@@ -672,13 +672,13 @@
       "surprise": 3,
       "support": 3,
       "resolved_at": "2026-10-16T04:01:30Z",
-      "analysis": "Analyses/The MITRE man who ran SAF-AQ in Ed's last Pentagon years.md"
+      "reason": "Post removed by the site owner on 2026-10-17: not important enough to publish."
     },
     {
       "id": "L0003",
       "slice": "S001-links",
       "found_at": "2026-10-16T03:34:34Z",
-      "status": "written",
+      "status": "shelved",
       "duplicate_of": null,
       "problems": [],
       "kind": "hidden-link",
@@ -741,7 +741,7 @@
       "surprise": 3,
       "support": 3,
       "resolved_at": "2026-10-16T04:07:23Z",
-      "analysis": "Analyses/Cardillo held Dempsey's post under Clapper when Kona Blue was blocked.md"
+      "reason": "Post removed by the site owner on 2026-10-17: not important enough to publish."
     },
     {
       "id": "L0004",
@@ -803,13 +803,13 @@
       "surprise": 2,
       "support": 4,
       "resolved_at": "2026-10-16T04:24:08Z",
-      "analysis": "Analyses/The Holloman landing Bush confirmed is the film story, not Eisenhower's 1954 deal.md"
+      "analysis": "Analyses/The Holloman landing George Bush confirmed wasn't Eisenhower's 1954 meeting.md"
     },
     {
       "id": "L0005",
       "slice": "S001-links",
       "found_at": "2026-10-16T03:34:34Z",
-      "status": "written",
+      "status": "shelved",
       "duplicate_of": null,
       "problems": [],
       "kind": "hidden-link",
@@ -863,7 +863,7 @@
       "surprise": 3,
       "support": 2,
       "resolved_at": "2026-10-16T05:39:21Z",
-      "analysis": "Analyses/Alsos was questioning Fermi's old Rome group when the OSS allegedly took the Magenta craft.md"
+      "reason": "Post removed by the site owner on 2026-10-17: not important enough to publish."
     },
     {
       "id": "L0006",
@@ -1067,7 +1067,7 @@
       "surprise": 3,
       "support": 3,
       "resolved_at": "2026-10-16T04:11:59Z",
-      "analysis": "Analyses/Gerb's Grusch went from ignored by AARO to keeping away from it.md"
+      "analysis": "Analyses/How Gerb's account of David Grusch and AARO changed.md"
     },
     {
       "id": "L0009",
@@ -1226,13 +1226,13 @@
       "surprise": 3,
       "support": 4,
       "resolved_at": "2026-10-16T03:55:33Z",
-      "analysis": "Analyses/Corso's Fort Riley date needs the bodies out of Roswell by 5 July.md"
+      "analysis": "Analyses/Corso's Fort Riley story needs the Roswell bodies to have left early.md"
     },
     {
       "id": "L0011",
       "slice": "S003-timeline",
       "found_at": "2026-10-16T03:34:34Z",
-      "status": "written",
+      "status": "shelved",
       "duplicate_of": null,
       "problems": [],
       "kind": "hidden-link",
@@ -1300,13 +1300,13 @@
       "surprise": 3,
       "support": 3,
       "resolved_at": "2026-10-16T04:17:20Z",
-      "analysis": "Analyses/Kissner and the IPU report both claim deaths in the 1947 recoveries.md"
+      "reason": "Post removed by the site owner on 2026-10-17: not important enough to publish."
     },
     {
       "id": "L0012",
       "slice": "S003-timeline",
       "found_at": "2026-10-16T03:34:34Z",
-      "status": "written",
+      "status": "shelved",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -1354,7 +1354,7 @@
       "surprise": 2,
       "support": 3,
       "resolved_at": "2026-10-16T05:47:41Z",
-      "analysis": "Analyses/One craft in Hillenkoetter's memo, possibly several in the IPU report.md"
+      "reason": "Post removed by the site owner on 2026-10-17: not important enough to publish."
     },
     {
       "id": "L0013",
@@ -1408,7 +1408,7 @@
       "id": "L0014",
       "slice": "S004-patterns",
       "found_at": "2026-10-16T04:25:10Z",
-      "status": "written",
+      "status": "shelved",
       "duplicate_of": null,
       "problems": [],
       "kind": "hidden-link",
@@ -1463,7 +1463,7 @@
       "surprise": 3,
       "support": 2,
       "resolved_at": "2026-10-16T05:39:21Z",
-      "analysis": "Analyses/Alsos was questioning Fermi's old Rome group when the OSS allegedly took the Magenta craft.md"
+      "reason": "Post removed by the site owner on 2026-10-17: not important enough to publish."
     },
     {
       "id": "L0015",
@@ -1541,7 +1541,7 @@
       "surprise": 3,
       "support": 3,
       "resolved_at": "2026-10-16T04:36:15Z",
-      "analysis": "Analyses/Gerb's early videos date Gaffney's block to 2008, before he ran the DS&T.md"
+      "analysis": "Analyses/Gerb's later account of the CIA blocking Lockheed is the one that fits the record.md"
     },
     {
       "id": "L0016",
@@ -1603,7 +1603,7 @@
       "surprise": 3,
       "support": 4,
       "resolved_at": "2026-10-16T04:30:01Z",
-      "analysis": "Analyses/Corso's Fort Riley date needs the bodies out of Roswell by 5 July.md"
+      "analysis": "Analyses/Corso's Fort Riley story needs the Roswell bodies to have left early.md"
     },
     {
       "id": "L0017",
@@ -1714,7 +1714,7 @@
       "surprise": 2,
       "support": 4,
       "resolved_at": "2026-10-16T04:53:24Z",
-      "analysis": "Analyses/Gerb went from very skeptical to probably likely on radar downing Roswell.md"
+      "analysis": "Analyses/How Gerb came round to the idea that radar brought down Roswell.md"
     },
     {
       "id": "L0019",
@@ -2741,7 +2741,7 @@
       "support": 4,
       "slip": false,
       "resolved_at": "2026-10-16T14:26:26Z",
-      "analysis": "Analyses/The Glomar Explorer wasn't in the Pacific yet when RK's craft was said to be recovered.md"
+      "analysis": "Analyses/The ship said to have recovered a UFO in 1973 wasn't in the Pacific yet.md"
     },
     {
       "id": "L0036",
@@ -2846,7 +2846,7 @@
       "support": 3,
       "slip": false,
       "resolved_at": "2026-10-16T14:34:40Z",
-      "analysis": "Analyses/Gerb's paper trail for a UFO study beside Blue Book runs back to Blue Book's own center.md"
+      "analysis": "Analyses/The documents Gerb uses to show a hidden UFO study all lead back to Blue Book's own office.md"
     },
     {
       "id": "L0037",
@@ -3293,7 +3293,7 @@
       "support": 3,
       "slip": false,
       "resolved_at": "2026-10-16T14:51:57Z",
-      "analysis": "Analyses/Gerb's Kona Blue custody theory leaves out that Lockheed ran Sandia.md"
+      "analysis": "Analyses/Gerb's theory of why Kona Blue was blocked leaves out that Lockheed ran Sandia.md"
     },
     {
       "id": "L0045",
@@ -3414,7 +3414,7 @@
       "support": 3,
       "slip": false,
       "resolved_at": "2026-10-16T15:14:12Z",
-      "analysis": "Analyses/DeLonge's NRO adviser fits McCasland's career better than Elizondo's.md"
+      "analysis": "Analyses/Tom DeLonge's NRO adviser may not have been Luis Elizondo.md"
     },
     {
       "id": "L0047",
@@ -3536,7 +3536,7 @@
       "id": "L0049",
       "slice": "S025-focus",
       "found_at": "2026-10-16T19:12:10Z",
-      "status": "written",
+      "status": "shelved",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -3592,7 +3592,7 @@
       "support": 4,
       "slip": false,
       "resolved_at": "2026-10-16T19:19:57Z",
-      "analysis": "Analyses/The EBE term Corso shares with MJ-12 was public a decade before he used it.md"
+      "reason": "Post removed by the site owner on 2026-10-17: not important enough to publish."
     },
     {
       "id": "L0050",
@@ -3984,7 +3984,7 @@
       "support": 4,
       "slip": false,
       "resolved_at": "2026-10-16T19:40:30Z",
-      "analysis": "Analyses/Gerb's ATIP went from an official DoD program to a cover program in two years.md"
+      "analysis": "Analyses/How Gerb's opinion of AATIP changed between 2024 and 2026.md"
     },
     {
       "id": "L0056",
@@ -4143,7 +4143,7 @@
       "support": 2,
       "slip": false,
       "resolved_at": "2026-10-16T19:34:01Z",
-      "analysis": "Analyses/The pod in the Safeguard's logs fits Bluegill Triple Prime's own instrument pods.md"
+      "analysis": "Analyses/The 1962 Navy recovery Gerb counts as a UFO retrieval may have been a test instrument.md"
     },
     {
       "id": "L0059",
@@ -4590,7 +4590,7 @@
       "support": 2,
       "slip": false,
       "resolved_at": "2026-10-16T20:17:02Z",
-      "analysis": "Analyses/Stringfield's 1978 paper already had a Mexico crash when the CIA warned him off Mexico.md"
+      "analysis": "Analyses/The CIA's 1978 warning to Stringfield may not have been about Coyame.md"
     },
     {
       "id": "L0066",

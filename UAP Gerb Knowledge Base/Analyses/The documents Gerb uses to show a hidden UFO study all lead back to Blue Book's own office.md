@@ -1,11 +1,11 @@
 ---
-title: "Gerb's paper trail for a UFO study beside Blue Book runs back to Blue Book's own center"
+title: "The documents Gerb uses to show a hidden UFO study all lead back to Blue Book's own office"
 date: 2026-10-16
 kind: pattern
 confidence: moderate
 novelty: partly-known
 impact: 4
-dek: "Gerb uses four documents to argue that the real UFO work ran apart from Project Blue Book: Battelle's Project Stork, the AFOIN-X-SG letter, Regulation 200-2 and the 1961 draft that introduces Moon Dust. On their own wording, all four lead into the Air Technical Intelligence Center, the Wright-Patterson office that ran Blue Book. They don't show a channel that went around it."
+dek: "Gerb often argues that Project Blue Book was a public front and the serious UFO work happened somewhere else. The four documents he uses to make that case all lead back to the same Air Force intelligence center that ran Blue Book. That doesn't rule out a hidden program, but these papers don't show one."
 videos: ["UFOs in the Private Sector - Battelle Memorial Institute", "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group", "USO - Unidentified Submerged Objects", "The Origin of the UFO Stigma", "The 1953 Kingman, Arizona UFO Crash", "MOON DUST - The Pentagon's Secret UFO Programs", "UFO Whistleblowers Vol.1", "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction"]
 tags: [analysis]
 ---

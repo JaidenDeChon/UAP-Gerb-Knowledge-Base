@@ -17,13 +17,14 @@ A finding must be all three:
 2. **Supported.** Every fact it rests on is in the vault (a transcript, a summary or an entity page) and, for identifying facts such as dates, employers, ranks and places, checkable online. The *inference* is new; the facts are not.
 3. **Worth a reader's time.** It changes how you read at least one video. "Both men worked in aerospace" or "both incidents happened in the United States" is not a finding. "The program manager Witness A names in 1997 ran the office Witness B says took the material in 1989" is.
 
-### The four kinds
+### The five kinds
 
 | `kind` | What it is | Example shape |
 |---|---|---|
 | `hidden-link` | Two entities that never appear together are tied by a shared person, employer, base, contractor, document or date. | X's employer in video 12 is the contractor Y names in video 31. |
 | `timeline` | Events from different videos that line up in time (and usually place) once they share one timeline. | The week of A's sighting is the week B says a recovery team deployed nearby. |
-| `contradiction` | Sources that disagree on a name, date, place, sequence, number or who said what, in a way a slip can't explain (see "Contradiction or footnote?" below). It also covers a view Gerb has clearly changed across several videos. | One witness puts the landing in 1954 and the filmed account puts it in 1964; the confirmation Gerb ties to one belongs to the other. |
+| `contradiction` | Sources that disagree on a name, date, place, sequence, number or who said what, in a way a slip can't explain (see "Contradiction or footnote?" below). | One witness puts the landing in 1954 and the filmed account puts it in 1964; the confirmation Gerb ties to one belongs to the other. |
+| `change-of-view` | Gerb's own view or account of something shifts across several videos. Frame it as his understanding developing as new information reached him, and name that information where the dates point to it. It's not a contradiction, and never a gotcha. | In 2024 he describes a program as an official Pentagon effort; by 2026, after new interviews and records, he calls it a cover story. |
 | `pattern` | The same mechanism recurring across three or more cases, at least two from different videos. | The same handoff from base security to an outside team, in four crash accounts. |
 
 ### Contradiction or footnote?
@@ -77,11 +78,22 @@ The writer searches the web for each finding and records what it found:
 
 File: `UAP Gerb Knowledge Base/Analyses/<Headline>.md`. The headline is the file name, so keep it short and free of `/ : ? * " < > |`.
 
+### Headline and dek
+
+The headline and the dek are what a viewer sees on the index, so they have to make sense on the first read to someone who hasn't seen the post or the videos it draws on. Write them the way a person would say the finding out loud.
+
+- **One idea, plain words.** Say what was found, not every variable behind it. "The ship said to have recovered a UFO in 1973 wasn't in the Pacific yet" works. "The pod in the Safeguard's logs fits Bluegill Triple Prime's own instrument pods" doesn't: it assumes the reader already knows the ship, the test and the log.
+- **At most two names in a headline,** and only names viewers know (Grusch, Elizondo, Roswell, Lockheed). Leave witness codes, office acronyms, ship names, document numbers and project names a casual viewer won't recognise for the dek or the body, and explain them there.
+- **No possessive shorthand.** Not "Gerb's Grusch", "Gerb's ATIP" or "Gerb's Kona Blue theory". Say what you mean: "How Gerb's view of Grusch and AARO changed", "Gerb's theory about why Kona Blue was blocked".
+- **The dek is two or three short sentences,** each with one point: what Gerb or the source says, what the record shows, and why it matters. Spell out or explain every acronym and name a newcomer wouldn't know. No sentence should need rereading.
+- **No compressed verbs or insider phrasing:** "Gerb rests X on Y", "fits", "sits oddly with", "runs back to". Say "Gerb's evidence for X is Y" or "doesn't match".
+- Keep it as narrow as the finding, but plainly worded. For an open question, hedge in plain words ("Tom DeLonge's NRO adviser may not have been Luis Elizondo"). Headlines can't end in a question mark, because the headline is the file name.
+
 ```yaml
 ---
 title: "<Headline>"
 date: 2026-10-16          # publication date
-kind: hidden-link         # hidden-link | timeline | contradiction | pattern
+kind: hidden-link         # hidden-link | timeline | contradiction | change-of-view | pattern
 confidence: moderate      # strong | moderate | speculative
 novelty: new              # new | partly-known | known-elsewhere
 dek: "One or two plain sentences saying what the analysis finds."

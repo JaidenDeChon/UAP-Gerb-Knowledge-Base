@@ -210,14 +210,14 @@ export interface BakedVideo {
   pub: string | null
 }
 
-/** What an analysis sets out: a link, a sequence, a conflict, or a recurrence. */
-export type AnalysisKind = 'hidden-link' | 'timeline' | 'contradiction' | 'pattern'
+/** What an analysis sets out: a link, a sequence, a conflict, a shift in Gerb's view, or a recurrence. */
+export type AnalysisKind = 'hidden-link' | 'timeline' | 'contradiction' | 'change-of-view' | 'pattern'
 /** How far the evidence carries the inference. */
 export type AnalysisConfidence = 'strong' | 'moderate' | 'speculative'
 /** Whether a web check found the connection already public outside Gerb's videos. */
 export type AnalysisNovelty = 'new' | 'known-elsewhere' | 'partly-known'
 
-export const ANALYSIS_KINDS: AnalysisKind[] = ['hidden-link', 'timeline', 'contradiction', 'pattern']
+export const ANALYSIS_KINDS: AnalysisKind[] = ['hidden-link', 'timeline', 'contradiction', 'change-of-view', 'pattern']
 export const ANALYSIS_CONFIDENCES: AnalysisConfidence[] = ['strong', 'moderate', 'speculative']
 export const ANALYSIS_NOVELTIES: AnalysisNovelty[] = ['new', 'known-elsewhere', 'partly-known']
 

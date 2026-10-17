@@ -1892,7 +1892,7 @@ fact, and the site labels them that way. The frontmatter schema is fixed:
 ```yaml
 title: "Two Programs, One Contractor"   # the headline
 date: 2026-10-16                         # publication date, YYYY-MM-DD
-kind: hidden-link                        # hidden-link | timeline | contradiction | pattern
+kind: hidden-link                        # hidden-link | timeline | contradiction | change-of-view | pattern
 confidence: moderate                     # strong | moderate | speculative
 novelty: new                             # new | known-elsewhere | partly-known (from a web check)
 dek: "One or two sentences saying what the analysis finds."

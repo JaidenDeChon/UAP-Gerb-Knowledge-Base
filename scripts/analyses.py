@@ -394,9 +394,10 @@ def packet_focus(vault: Vault, row: dict) -> str:
     lines = [
         f"Focus subject: {name}, covered by {len(row['videos'])} videos. It's one of the most-referenced",
         "subjects in the vault, so a finding about it matters to more viewers than almost anything else.",
-        "Read its page, then what every video below says about it. Look for all four kinds of finding:",
+        "Read its page, then what every video below says about it. Look for all five kinds of finding:",
         "a hidden link to another well-known subject, a timing that lines up across videos, a contradiction",
-        "between sources (not a slip by Gerb), or a pattern. Only high-impact findings are worth a lead.",
+        "between sources (not a slip by Gerb), a change in Gerb's own view across videos, or a pattern.",
+        "Only high-impact findings are worth a lead.",
         "",
         f"- page: {row['page']}",
     ]

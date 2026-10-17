@@ -1,11 +1,11 @@
 ---
-title: "Gerb's ATIP went from an official DoD program to a cover program in two years"
+title: "How Gerb's opinion of AATIP changed between 2024 and 2026"
 date: 2026-10-16
-kind: contradiction
+kind: change-of-view
 confidence: moderate
 novelty: partly-known
 impact: 4
-dek: "In early 2024 Gerb described ATIP as an official Defense Department UFO program and introduced Luis Elizondo as its former director. By 2026 he calls it a fake cover program run out of the National Security Council. The videos in between show what moved him, but he never tells viewers that his own framing changed."
+dek: "In early 2024 Gerb treated AATIP as a real Pentagon UFO program and Luis Elizondo as its former director. By 2026 he calls it a cover story for secret work run out of the National Security Council. New interviews, a documentary and fresh claims about Elizondo's past seem to be what changed his mind."
 videos: ["The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs", "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies", "Incredible UFO Footage - FLYBY", "The 1974 Coyame, Mexico UFO Crash", "UFO Legacy Programs - Science Applications International Corporation (SAIC)", "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs", "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers", "The Hidden Wing - US Air Force UFO Reverse Engineering Programs", "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2", "Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2"]
 tags: [analysis]
 ---

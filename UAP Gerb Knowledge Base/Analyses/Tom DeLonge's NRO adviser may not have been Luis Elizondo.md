@@ -1,11 +1,11 @@
 ---
-title: "DeLonge's NRO adviser fits McCasland's career better than Elizondo's"
+title: "Tom DeLonge's NRO adviser may not have been Luis Elizondo"
 date: 2026-10-16
 kind: hidden-link
 confidence: moderate
 novelty: new
 impact: 4
-dek: "Gerb names Luis Elizondo as the high-up NRO adviser Tom DeLonge mentioned on Joe Rogan's show in October 2017. Elizondo never worked for the NRO. Of the advisers Gerb lists, the one with an NRO career is Major General Neil McCasland, whose NRO work Gerb describes himself."
+dek: "In 2017 Tom DeLonge said one of his advisers came from high up in the National Reconnaissance Office, the agency that runs America's spy satellites. Gerb believes that adviser was Luis Elizondo, but Elizondo never worked there. Another adviser on Gerb's own list, retired Major General Neil McCasland, did."
 videos: ["National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers", "The Hidden Wing - US Air Force UFO Reverse Engineering Programs", "Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2"]
 tags: [analysis]
 ---

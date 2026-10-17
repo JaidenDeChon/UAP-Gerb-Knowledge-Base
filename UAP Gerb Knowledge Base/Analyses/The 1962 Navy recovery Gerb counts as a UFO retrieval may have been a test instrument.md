@@ -1,11 +1,11 @@
 ---
-title: "The pod in the Safeguard's logs fits Bluegill Triple Prime's own instrument pods"
+title: "The 1962 Navy recovery Gerb counts as a UFO retrieval may have been a test instrument"
 date: 2026-10-16
 kind: contradiction
 confidence: moderate
 novelty: known-elsewhere
 impact: 4
-dek: "Gerb rests the Navy's one acknowledged USO retrieval on ship logs that record the USS Safeguard recovering a pod after Bluegill Triple Prime. The test's own Thor missile released three parachute-recovered instrument pods into that sea, so the word in the logs fits a planned recovery and does not by itself acknowledge anything."
+dek: "Gerb calls a 1962 Navy salvage job, after the Bluegill Triple Prime nuclear test over the Pacific, the Navy's one acknowledged recovery of an underwater UFO. His evidence is a ship's log saying it recovered a pod. But that test dropped instrument pods into the sea by parachute for Navy ships to collect, so the log fits an ordinary recovery."
 videos: ["US Navy UFO Crash Retrieval & Reverse Engineering Programs"]
 tags: [analysis]
 ---

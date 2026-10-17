@@ -1,11 +1,11 @@
 ---
-title: "The Glomar Explorer wasn't in the Pacific yet when RK's craft was said to be recovered"
+title: "The ship said to have recovered a UFO in 1973 wasn't in the Pacific yet"
 date: 2026-10-16
 kind: contradiction
 confidence: moderate
 novelty: new
 impact: 4
-dek: "The Great Lakes account has the Glomar Explorer recovering a downed craft between Hawaii and the mainland in summer 1973, but the ship was still on the Atlantic side then and only reached California on 30 September 1973. That takes away the link Gerb draws from this case to NURO and Bobby Ray Inman."
+dek: "One account Gerb highlights says the CIA's salvage ship, the Glomar Explorer, pulled a downed craft out of the Pacific in June 1973. Ship records show it didn't reach the Pacific until that September. The rest of the story may still be true, but this is the detail that tied the case to the CIA and the Navy."
 videos: ["US Navy UFO Crash Retrieval & Reverse Engineering Programs", "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt"]
 tags: [analysis]
 ---
