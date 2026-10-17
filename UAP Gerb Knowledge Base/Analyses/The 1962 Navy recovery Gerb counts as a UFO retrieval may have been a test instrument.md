@@ -10,11 +10,13 @@ videos: ["US Navy UFO Crash Retrieval & Reverse Engineering Programs"]
 tags: [analysis]
 ---
 
-In his video on Navy crash retrieval programs, Gerb calls the October 1962 [[Bluegill Triple Prime UFO Recovery|Bluegill Triple Prime recovery]] proof that the [[US Navy]] "has indeed participated in at least one acknowledged USO retrieval operation". The documents he points to are the deck logs of the salvage ship USS Safeguard, which record a search, divers and the recovery of a "pod". The video leaves out that Bluegill Triple Prime was meant to put pods in the sea. The Thor missile that carried the warhead also released three instrument pods, each about 1,200 pounds, with heat shields and parachutes, and Navy ships and helicopters were there to pick them up. A pod in a recovery ship's log that morning is what the test plan called for.
+In October 1962 the United States set off a nuclear warhead high above the Pacific as a test. In his video on Navy crash retrieval programs, Gerb says the Navy then pulled a downed craft out of the sea. He calls this the [[Bluegill Triple Prime UFO Recovery|Bluegill Triple Prime recovery]], after the name of the test. To him it proves that the [[US Navy]] "has indeed participated in at least one acknowledged USO retrieval operation". A USO is an unidentified submerged object, a UFO found in or under water. His evidence is the logbook of the USS Safeguard, a Navy salvage ship. The log records a search, divers and the recovery of a "pod".
+
+Gerb doesn't mention that the test was meant to put pods in the sea. The Thor rocket that carried the warhead also released three instrument pods, each weighing about 1,200 pounds. They had heat shields and came down by parachute, and Navy ships and helicopters were there to pick them up. So a pod in a recovery ship's log that morning is what the test plan called for.
 
 ## The finding
 
-The deck-log entries Gerb describes match the routine recovery of the test's own instrument pods. They do not on their own record, or acknowledge, the recovery of an unknown craft. That leaves the UFO reading resting on the people who say a craft came down: [[Harold Malmgren]], and the researcher Geoff Cruickshank, whose study of the logs is the source of the deck-log argument.
+The log entries Gerb describes match the normal recovery of the test's own instrument pods. On their own, they don't record the recovery of an unknown craft, and they don't show the Navy admitting to one. So the case for a UFO now depends on the people who say a craft came down. One is [[Harold Malmgren]], a former presidential adviser. The other is the researcher Geoff Cruickshank. His study of the ship logs is where the logbook argument comes from.
 
 This post does not show that the Safeguard's pod *was* one of the instrument pods. No primary log was read for it. It shows that the logs, as Gerb describes them, can't carry the word "acknowledged". It says nothing about whether Malmgren or Cruickshank are right about a craft.
 
