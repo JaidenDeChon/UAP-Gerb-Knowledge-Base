@@ -33,7 +33,7 @@ The memo is typed on Department of Transport intra-departmental correspondence p
 - **The Defence Research Board.** Mr. Wright, the Defence Research Board's liaison officer at the embassy, urged Smith to see the board's chairman, Dr. Omond Solandt. Smith met Solandt on 20 November. Solandt agreed that the work "should go forward as rapidly as possible" and offered laboratory facilities, equipment and staff, but Smith preferred to keep the project inside the Department of Transport for the time being.
 - **The recommendation.** "It is therefore recommended that a PROJECT be set up within the frame work of this Section to study this problem", part time, at an initial cost of "less than a few hundred dollars", paid from the Radio Standards Lab appropriation. Draft terms of reference were attached. They are not on the copies found online.
 
-The memo does not name Smith's Washington source. The man behind its four claims is identified from Smith's separate handwritten notes of his 15 September 1950 interview with [[Robert Sarbacher]], which record much the same statements, and from Sarbacher's own confirmations in 1983.
+The memo does not name Smith's Washington source. The man behind its four claims is identified from Smith's separate handwritten notes of his 15 September 1950 interview with [[Robert Sarbacher]], which record much the same statements, and from Sarbacher's own confirmations in 1983, in a call with Stanton Friedman and his [[Sarbacher Letter|letter to William Steinman]].
 
 ## Marks on the copies
 
