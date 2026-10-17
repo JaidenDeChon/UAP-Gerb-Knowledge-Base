@@ -11,11 +11,11 @@ tags: [analysis]
 
 *Updated 16 October 2026: added Walter Haut's affidavit, which Gerb reads later in UFO Whistleblowers Vol.1. It has bodies still in Hangar 84 on 8 July, so Gerb's own Roswell account contests the 5 July shipment this post relies on.*
 
-[[Philip J. Corso]] swore he saw a body in a crate at [[Fort Riley, Kansas]] around 6 July 1947, trucked from New Mexico. Gerb gives Roswell dates in four other videos but never sets them beside Corso's, and they don't all leave room for him.
+[[Philip J. Corso]] was an Army officer who later made famous claims about the Roswell crash. He swore that around 6 July 1947 he saw a small, non-human body in a crate at [[Fort Riley, Kansas]], an Army post. He said the crate had come by truck from New Mexico. Gerb talks about Roswell in four other videos, and he gives dates for when the bodies were found and moved. He never checks those dates against Corso's story. When you put them side by side, not all of them leave Corso time to have seen that body.
 
 ## The finding
 
-For Corso's crate to be in Kansas around 6 July, the bodies had to leave the [[Roswell Crash]] area by road about a day earlier. That matches the chronology Gerb gives in UFO Whistleblowers Vol.1 (crash likely 4 July, bodies out of [[Hangar 84]] on 5 July). It doesn't fit the 7 July date Gerb ties to the crash in the Majestic-12 and Kecksburg videos. That video also has bodies in the hangar later. A few minutes after the 5 July shipment, Gerb reads [[Walter Haut]]'s 2002 affidavit, in which Haut sees bodies in the same hangar on the morning of 8 July, and he doesn't compare the two dates. Whether the accounts really contradict each other is still an open question.
+Corso's crate was in Kansas around 6 July. For that to happen, the bodies would have had to leave the [[Roswell Crash]] area by road about a day before. One of Gerb's videos, UFO Whistleblowers Vol.1, gives a timeline that allows this. In it, the crash probably happened on 4 July, and bodies were shipped out of [[Hangar 84]], a hangar at the Roswell base, on 5 July. Two other videos, on the Majestic-12 documents and on the Kecksburg crash, link the Roswell crash to 7 July instead. That date doesn't leave room for Corso's story. UFO Whistleblowers Vol.1 also has bodies in the hangar later on. A few minutes after the 5 July shipment, Gerb reads a 2002 sworn statement by [[Walter Haut]], the Roswell base's press officer. Haut says he saw bodies in the same hangar on the morning of 8 July. Gerb doesn't compare the two dates. Whether the accounts really contradict each other is still an open question.
 
 ## What cuts against it
 

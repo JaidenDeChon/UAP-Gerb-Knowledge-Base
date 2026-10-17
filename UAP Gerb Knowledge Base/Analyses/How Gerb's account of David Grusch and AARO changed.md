@@ -9,11 +9,11 @@ videos: ["The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies"
 tags: [analysis]
 ---
 
-If you watched Gerb's January 2024 video on [[Sean Kirkpatrick]], you came away with one version of why [[David Grusch]] never testified to [[AARO]]: he tried, and the office never answered. Watch the 2026 videos and the story is different. Grusch kept his distance because he didn't trust AARO, and Gerb says that was the right call. Gerb never puts the two versions side by side or says why one replaced the other.
+[[David Grusch]], the whistleblower who told Congress the US has recovered UFOs, never testified to [[AARO]], the Pentagon's UFO office. Gerb has explained why in two different ways. In January 2024 he made a video about [[Sean Kirkpatrick]], AARO's first director. In it he said Grusch tried to reach AARO and never heard back. In the 2026 videos the story is different. Grusch kept away from AARO because he didn't trust it, and Gerb says that was the right call. Gerb never puts the two versions side by side. He also never says why one replaced the other.
 
 ## The finding
 
-Gerb's own description of the Grusch and AARO dispute changed between January 2024 and 2026, from "AARO ignored him" to "he chose not to engage, with good reason". That much is on the record in the transcripts. The likely reason, which is this analysis's inference, is the FOIA release of AARO's records on its attempts to reach Grusch, published by [[The Black Vault]] in April 2024. Gerb mentions that release in *The Hidden Wing* as the context for Grusch "not talking to Arrow". Changing a view when new documents appear is normal, but viewers of the 2024 video were never told that this one had changed.
+Between January 2024 and 2026, Gerb's own description of the dispute changed. It went from "AARO ignored him" to "he chose not to engage, with good reason". The transcripts show that much. This analysis also suggests a likely reason for the change, though that part is inference. In April 2024, [[The Black Vault]], a website that publishes government records obtained through Freedom of Information Act (FOIA) requests, released AARO's records of its attempts to reach Grusch. Gerb mentions that release in his video *The Hidden Wing*, when he explains Grusch "not talking to Arrow". (Arrow is how the captions spell AARO.) Changing a view when new documents appear is normal. But viewers of the 2024 video were never told that this one had changed.
 
 ## The evidence
 
