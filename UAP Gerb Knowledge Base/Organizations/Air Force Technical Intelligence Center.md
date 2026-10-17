@@ -9,7 +9,10 @@ The Air Force Technical Intelligence Center (ATIC) was the main U.S. Air Force o
 
 ## UFO Investigation Role
 
-ATIC directed [[Project Blue Book]] through Captain [[Edward J. Ruppelt]] and other commanders. Alongside Blue Book, ATIC hired [[Battelle Memorial Institute]] in 1952 to set up [[Project Stork]], a classified system for machine-indexing and analyzing official UFO sighting reports. Stork ran outside the public Blue Book structure. In 1955 ATIC and Battelle jointly published Special Report 14, a comprehensive analysis of 3,200 UFO cases, which concluded that no physical UFO material had ever been recovered. UAP researchers argue that this conclusion is contradicted by Battelle's own classified nitinol contract work for [[Wright-Patterson Air Force Base]] in 1949.
+ATIC directed [[Project Blue Book]] through Captain [[Edward J. Ruppelt]] and other commanders. Alongside Blue Book, ATIC hired [[Battelle Memorial Institute]] in 1952 to set up [[Project Stork]], a classified system for machine-indexing and analyzing official UFO sighting reports. Stork ran outside the public Blue Book structure. In 1955 ATIC issued [[Project Blue Book Special Report No. 14]], a statistical analysis of 3,201 UFO cases prepared with an outside panel of scientists, which emphasized that no case it studied had produced valid evidence of physical matter. UAP researchers argue that this conclusion is contradicted by Battelle's own classified nitinol contract work for [[Wright-Patterson Air Force Base]] in 1949.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said ATIC and Battelle jointly published the report, an analysis of 3,200 cases, and that it concluded no physical UFO material had ever been recovered. The report is ATIC's, names no contractor, covers 3,201 cases, and speaks only of the cases it studied.
 
 ## Sources
 

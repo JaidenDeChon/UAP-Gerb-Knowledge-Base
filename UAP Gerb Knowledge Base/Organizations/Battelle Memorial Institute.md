@@ -13,7 +13,10 @@ Battelle's earliest documented link to organized UFO investigation is [[Project 
 
 Project Stork ran alongside Blue Book and analyzed Air Force UFO cases independently, outside the official panel structure. Dr. [[J. Allen Hynek]] tried to discuss it when he testified at the [[Robertson Panel]] in January 1953. The Computer UFO Network (CUFON) later recovered seven Project Stork status reports.
 
-On May 5, 1955, Battelle and ATIC jointly published Special Report 14, a comprehensive analysis of 3,200 UFO sightings. It concluded that UFOs are not aircraft "beyond human scientific knowledge", because no physical matter had ever been recovered from any UFO sighting. UAP researchers, Gerb among them, argue that Battelle's own classified research on [[Nitinol (Nickel-Titanium Alloy)]] in 1949 directly contradicts this conclusion.
+On May 5, 1955, ATIC issued [[Project Blue Book Special Report No. 14]], a statistical analysis of 3,201 UFO cases prepared with "a panel of scientists both in and out of the Air Force". The report does not name Battelle, though Gerb describes it as published by Battelle and ATIC. It found it "highly improbable" that any of the reports represented technology "outside the range of present-day scientific knowledge", and emphasized that there was "a complete lack of any valid evidence consisting of physical matter" in any case it studied. UAP researchers, Gerb among them, argue that Battelle's own research on [[Nitinol (Nickel-Titanium Alloy)]] in 1949 directly contradicts this.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said Battelle and ATIC jointly published the report, which analyzed 3,200 sightings and concluded UFOs were not advanced craft because no physical matter had ever been recovered. The report is ATIC's and names no contractor, covers 3,201 cases, and treats the lack of physical evidence as one point among several rather than the basis of its conclusion.
 
 ## Nitinol Research and the Roswell Connection (1949)
 

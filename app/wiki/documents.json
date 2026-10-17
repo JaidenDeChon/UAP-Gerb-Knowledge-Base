@@ -30,6 +30,23 @@
       "fetchedFrom": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg919.pdf",
       "retrieved": "2026-10-16"
     },
+    "Craft Using an Inertial Mass Reduction Device": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/ca1d3ed880245a67afff5d8bb97fa02875f5f46a15dd63b07d643141ae4bfd8a.pdf",
+      "sha256": "ca1d3ed880245a67afff5d8bb97fa02875f5f46a15dd63b07d643141ae4bfd8a",
+      "bytes": 619421,
+      "pages": 6,
+      "ocr": "skip-text",
+      "sourceSha256": "ffd439f7cece2cf184d7fee9d37b0a6f65a247495a2ea7e6c7247ad5cedce6f7",
+      "thumb": {
+        "src": "/documents/craft-using-an-inertial-mass-reduction-device.webp",
+        "width": 320,
+        "height": 413
+      },
+      "thumbPage": 1,
+      "source": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10144532",
+      "fetchedFrom": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10144532",
+      "retrieved": "2026-10-17"
+    },
     "DIA Tehran UFO Report (1976)": {
       "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/3b2bd9a8a1798fd30219881d86d16554e2d27af3d8ab398f0716b451ca9ab5b0.pdf",
       "sha256": "3b2bd9a8a1798fd30219881d86d16554e2d27af3d8ab398f0716b451ca9ab5b0",
@@ -143,6 +160,24 @@
       "fetchedFrom": "https://web.archive.org/web/20250208205408id_/https://www.gao.gov/assets/nsiad-86-191.pdf",
       "retrieved": "2026-10-16"
     },
+    "GAO Report on Special Access Program Due Process (1993)": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/d6b4a97e1da1ab29f921866b79b485d1bededb3e29deef7ef79b07200bcb9d84.pdf",
+      "sha256": "d6b4a97e1da1ab29f921866b79b485d1bededb3e29deef7ef79b07200bcb9d84",
+      "bytes": 3678347,
+      "pages": 38,
+      "ocr": "force-ocr",
+      "sourceSha256": "b2ba3f1a819f1f09566fe7dbd506d37b1ea8339cc8773b350d6f212115f3e250",
+      "ocrRequest": "redo",
+      "thumb": {
+        "src": "/documents/gao-report-on-special-access-program-due-process-1993.webp",
+        "width": 320,
+        "height": 412
+      },
+      "thumbPage": 1,
+      "source": "https://www.gao.gov/assets/nsiad-93-162.pdf",
+      "fetchedFrom": "https://web.archive.org/web/20261012075249id_/https://www.gao.gov/assets/nsiad-93-162.pdf",
+      "retrieved": "2026-10-17"
+    },
     "GAO Roswell Report (1995)": {
       "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/bd26d91cfc8d72754236c93f51dc455abff93998cca55e881de9e47e13d4f79f.pdf",
       "sha256": "bd26d91cfc8d72754236c93f51dc455abff93998cca55e881de9e47e13d4f79f",
@@ -230,6 +265,24 @@
       "fetchedFrom": "https://foia.state.gov/DOCUMENTS/1-FY2012/F-2011-05250/DOC_0C17486302/C17486302.pdf",
       "retrieved": "2026-10-16"
     },
+    "Now You See It, Now You Don't": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/150324c542237e35328ac29f02bfb655d698422b8ce12155674b3984e98f8922.pdf",
+      "sha256": "150324c542237e35328ac29f02bfb655d698422b8ce12155674b3984e98f8922",
+      "bytes": 5289648,
+      "pages": 3,
+      "ocr": "force-ocr",
+      "sourceSha256": "941ed97ccff210ba7d85bf95296cc6ab996acafb947aa5589a66dd3b2d42eec8",
+      "ocrRequest": "redo",
+      "thumb": {
+        "src": "/documents/now-you-see-it-now-you-don-t.webp",
+        "width": 320,
+        "height": 406
+      },
+      "thumbPage": 1,
+      "source": "https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/now_you_see.pdf",
+      "fetchedFrom": "https://web.archive.org/web/20260523033920id_/https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/now_you_see.pdf",
+      "retrieved": "2026-10-17"
+    },
     "ODNI Preliminary Assessment (2021)": {
       "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/3b699a825c53aab7816b50ffe0c45d4f424ca43da5eaa421736e529f2ac00ac9.pdf",
       "sha256": "3b699a825c53aab7816b50ffe0c45d4f424ca43da5eaa421736e529f2ac00ac9",
@@ -260,6 +313,23 @@
       "thumbPage": 4,
       "source": "https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf",
       "fetchedFrom": "https://web.archive.org/web/20260920110831id_/https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf",
+      "retrieved": "2026-10-17"
+    },
+    "Recent Sentient Highlights": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/ce7937297d99c24ee170ca29c2937b6ca3fbf5b2ffbf056ec5bd35ef6a42ccaa.pdf",
+      "sha256": "ce7937297d99c24ee170ca29c2937b6ca3fbf5b2ffbf056ec5bd35ef6a42ccaa",
+      "bytes": 118334,
+      "pages": 10,
+      "ocr": "skip-text",
+      "sourceSha256": "fd4cea42d97353239babb189dbc24727a1ed1d4d5ef01a6dd5000677889e645a",
+      "thumb": {
+        "src": "/documents/recent-sentient-highlights.webp",
+        "width": 320,
+        "height": 248
+      },
+      "thumbPage": 2,
+      "source": "https://www.nro.gov/Portals/65/documents/foia/declass/ForAll/103122/F-2021-00154_C05136334.pdf",
+      "fetchedFrom": "https://web.archive.org/web/20250201141238id_/https://www.nro.gov/Portals/65/documents/foia/declass/ForAll/103122/F-2021-00154_C05136334.pdf",
       "retrieved": "2026-10-17"
     },
     "Robertson Panel Report": {
