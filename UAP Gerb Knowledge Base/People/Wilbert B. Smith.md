@@ -81,8 +81,8 @@ events:
       - "Frank Scully"
       - "Vannevar Bush"
   - date: "1950-11-21"
-    title: "Memo to the Controller of Telecommunications"
-    summary: "Relays Sarbacher's four claims and asks for an official Canadian study of magnetism as a form of propulsion. It is classified top secret."
+    title: "Geo-Magnetics memo"
+    summary: "Smith's top secret memo to the Controller of Telecommunications. It asks for a project on drawing energy from the Earth's magnetic field and relays four claims from enquiries through the Canadian Embassy in Washington, whose source Gerb identifies as Sarbacher."
     category: document
     significance: major
     entities:
@@ -135,7 +135,7 @@ events:
 
 ::wiki-record
 ---
-caption: "Smith's two 1950 papers. Historian Arthur Bray found both in Smith's estate."
+caption: "Smith's two 1950 papers. Gerb says historian Arthur Bray found both in Smith's estate."
 items:
   - date: "1950-09-15"
     kind: memo
@@ -147,9 +147,9 @@ items:
     source: "The 1948 Aztec, New Mexico UFO Crash Retrieval"
   - date: "1950-11-21"
     kind: memo
-    title: "Memo to the Controller of Telecommunications"
+    title: "Geo-Magnetics memo"
     where: "Department of Transport (Canada)"
-    note: "Asks for Canada's first official UFO investigation, into magnetism as propulsion, and relays four claims from a Washington source. It led to Projects Magnet and Second Story."
+    note: "Addressed to the Controller of Telecommunications. It asks for a project on drawing energy from the Earth's magnetic field and relays four claims from enquiries through the Canadian Embassy in Washington; Gerb describes it as a request to study magnetism as propulsion. It led to Projects Magnet and Second Story."
     quote: "Their modus operandi is unknown but concentrated effort is being made by a small group headed by Dr. Vannevar Bush"
     source: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group"
 ---
@@ -192,7 +192,10 @@ On 15 September 1950 Smith met [[Robert Sarbacher]], a physicist who consulted f
 
 Smith's memo of 21 November 1950 to the Controller of Telecommunications cited these disclosures as grounds for Canada to set up its own UFO investigation. His notes also record that he had read [[Frank Scully]]'s 1950 book *Behind the Flying Saucers* and wanted to know how much of it was fact. Sarbacher replied, "The facts reported in the book are substantially correct." The book had publicized the alleged [[Aztec UFO Crash and Recovery|Aztec, New Mexico crash]], so the reply lent indirect credibility to that controversial case. In 2024 Gerb reserved judgment on Aztec; by his 2025 Aztec video he wagered that the case "likely happened". That video also shows that [[Silas Newton]], Scully's source, admired Smith's work on magnetic propulsion.
 
-Historian [[Arthur Bray]] later uncovered both the 1950 Department of Transport memo and Smith's handwritten meeting notes in Smith's estate. The two documents gave written verification of what Smith claimed to have been told. The memo was classified top secret until 15 September 1969. Gerb notes that its declassification was likely an accidental downgrade rather than a deliberate release. Bray and [[Stanton Friedman]] obtained copies of the document in 1978.
+According to Gerb, historian [[Arthur Bray]] later uncovered both the 1950 Department of Transport memo and Smith's handwritten meeting notes in Smith's estate. The two documents gave written verification of what Smith claimed to have been told. The memo was classified top secret until 15 September 1969, when a handwritten note downgraded it to confidential. Gerb notes that its declassification was likely an accidental downgrade rather than a deliberate release. Bray and [[Stanton Friedman]] obtained copies of the document in 1978; Friedman's copy is annotated as given to him by "Mr. X" in Toronto on 22 October 1978. Smith's papers are now in the Arthur Bray fonds at the University of Ottawa.
+
+> [!edit] Attribution clarified 16 October 2026
+> Earlier versions stated as fact that Bray found the memo in Smith's estate. That is Gerb's account; the copy Friedman received in 1978 is annotated as coming from "Mr. X".
 
 ## Project Magnet and Project Second Story
 
