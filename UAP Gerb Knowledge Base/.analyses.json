@@ -4632,6 +4632,443 @@
       "slip": true,
       "resolved_at": "2026-10-16T20:18:26Z",
       "footnote": "gerb-mars96-1996"
+    },
+    {
+      "id": "L0067",
+      "slice": "S037-record",
+      "found_at": "2026-10-17T15:58:02Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "No spy satellite could have watched the Coyame recovery as it happened in 1974",
+      "claim": "In the 1974 Coyame crash story (the Denb Report), the CIA decides whether to send its recovery team from Fort Bliss partly on 'satellite and reconnaissance aircraft overflight that day', which showed the disc being loaded onto Mexican trucks. Gerb ties that imagery to the NRO's Keyhole satellites 'put into orbit around 1971' and calls it possibly an instance of the classified crash imagery David Grusch has described. But in August 1974 every US imaging satellite was a film-return system (Hexagon/KH-9 from 1971, Gambit/KH-8). Their film came down in capsules caught over the Pacific, weeks or months into a mission. The first satellite able to send imagery in near real time, the KH-11 Kennen, was launched in December 1976, as Gerb himself says in his NRO video, where he also describes Corona's ejected film capsules. So the satellite part of the report can't have fed a decision made within about 24 hours, and the link that makes the case an NRO and Grusch-style imagery case falls away. The aircraft overflights in the same passage (high altitude, then low-level high-speed photo runs) are a different matter: they were possible in 1974 and are what the report's timeline actually needs. Inference: either the report's author attached satellites to the story with a post-1976 picture of what satellites could do, or 'satellite' is loose wording. Either way the satellite-to-NRO step Gerb adds doesn't hold.",
+      "entities": [
+        "1974 Coyame, Mexico UFO Crash Retrieval",
+        "Denb Report",
+        "NRO (National Reconnaissance Office)",
+        "David Grusch",
+        "Noe Torres"
+      ],
+      "videos": [
+        "The 1974 Coyame, Mexico UFO Crash",
+        "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The 1974 Coyame, Mexico UFO Crash/transcript.md",
+          "quote": "satellite and recognizance aircraft overflight that day indicated that both the crash disc and civilian aircraft had been removed from the crash sites and loaded onto flatbed trucks",
+          "note": "Gerb reading the Denb Report: satellite imagery from 'that day' (26 August 1974) feeds the CIA's same-day decision.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1974 Coyame, Mexico UFO Crash/transcript.md",
+          "quote": "high altitude overflights indicated that the Convoy had stopped before reaching any inhabited areas or major roads",
+          "note": "The next step in the timeline, also within about a day, rests on overflights. The whole decision chain runs in hours.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1974 Coyame, Mexico UFO Crash/transcript.md",
+          "quote": "the satellite imagery as discussed by Noah Torres likely came from the fleet of Keyhole spy satellites put into orbit around 1971 these satellites were primarily operated by the nro perhaps this is one instance of Highly classified highres satellite imagery of crashed UAP David grush has referred to",
+          "note": "Gerb's own step: the imagery was NRO Keyhole imagery, the kind Grusch describes. 'Put into orbit around 1971' matches Hexagon (KH-9), a film-return system.",
+          "verified": true
+        },
+        {
+          "source": "Videos/National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers/transcript.md",
+          "quote": "One of the NRO's most desirable tasks was to improve their photo reconnaissance program, allowing IMIT to be transmitted electronically, not literally collected in the air by airplanes.",
+          "note": "In another video Gerb explains that before the KH-11, satellite imagery came back as film capsules caught by aircraft.",
+          "verified": true
+        },
+        {
+          "source": "Videos/National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers/transcript.md",
+          "quote": "And in 1976, they succeeded to accomplish this near realtime photo transfer. In 1976, the NRO launched the Kenon aka KH11 Kenon.",
+          "note": "Gerb dates near-real-time satellite imagery to 1976, two years after Coyame. He never puts this beside the Coyame claim.",
+          "verified": true
+        },
+        {
+          "source": "Videos/National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers/transcript.md",
+          "quote": "Corona was a top secret spy satellite project launched in 1960 before the NRO's creation that took highresolution photos of denied airspace on film and [music] physically ejected capsules to be captured in air by American assets.",
+          "note": "How film-return imagery reached analysts.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched every transcript for keyhole, KH-11/Kennen, Hexagon, KH-9, film capsule/bucket, real-time and Corona. The only discussion of near-real-time imagery and film return is in the NRO video, which never mentions Coyame or the Denb Report. The Coyame video's only satellite remarks are the two quoted, and it never raises timeliness. Checked the vault pages Denb Report, the Coyame event page, the Coyame summary and the NRO page: none connects them. Not in .analyses.json (21 Coyame mentions, none about satellites). Outside record checked by web search: KH-11 first launched December 1976 and was the first electro-optical, near-real-time US imaging satellite (several independent snippets: Wikipedia KH-11, encyclopedia.pub, The Space Review, orbitcodex). Hexagon was film-return, 1971 to 1986, with missions of 124 to 275 days returning film in four or five capsules caught over the Pacific (USAF Museum fact sheet, ClearanceJobs, NewSpace Economy). That's two or more independent sources for each fact.",
+      "weakest_link": "The Denb Report's 'satellite' could be loose wording for any overhead system. If so the finding narrows to Gerb's own step (Keyhole, NRO, Grusch) and not the report. It can't be a slip by Gerb, because he reads the satellite line from the report and then builds the NRO inference on it. Two things might be raised against the finding. First, a still-classified pre-1976 readout capability. None is known publicly, and the NRO history treats the KH-11 as the first. Second, a Gambit or Hexagon capsule recovered by chance at just the right moment. That would still take days, not hours. Some NRO link survives through aircraft: U-2s and A-12/SR-71s had NRO 'Program D' ties, so the claim should be limited to satellites. It can be checked against the declassified NRO histories of Hexagon, Gambit and Kennen and the published 1974 launch records.",
+      "impact": 4,
+      "support": 4,
+      "slip": false
+    },
+    {
+      "id": "L0068",
+      "slice": "S037-record",
+      "found_at": "2026-10-17T15:58:02Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "The Trudeau briefing that ties Corso to George Bush doesn't fit the dates",
+      "claim": "In his Corso video Gerb gives an account from Jacques Vallee's Forbidden Science. George H. W. Bush told Eric Davis that he was briefed on legacy programs by Trudeau 'at the time of the 1968 Mendel Rivers Congressional hearings'. Trudeau said his man Corso had been asked to testify to Congress about alien hardware, and the testimony was squashed. Gerb calls this the only piece outside Corso that links General Arthur Trudeau to UAP. The public record doesn't fit the dates. Mendel Rivers's House Armed Services Committee held its UFO hearing on 5 April 1966, the only one it held. Bush didn't enter Congress until 3 January 1967. In 1968 Bush was in Congress, but there was no Rivers UFO hearing; that year's hearing was the Roush symposium of the House Science and Astronautics Committee in July. Bush, a freshman on Ways and Means, sat on neither committee. And Trudeau had left the Army in 1962 (as Gerb says in the same video) and was running Gulf Oil's research labs. Corso had retired in 1963. So at any date that fits 'the Rivers hearings', Bush wasn't a congressman. At any date when he was, there was no Rivers hearing, and Trudeau and Corso had both been out of the Army for years. The story can't be a briefing from the Army's R&D chief about a serving officer's testimony. At most it was a retired general talking privately to a new congressman. The independent link from Corso's story to Bush and to Congress is weaker than the video presents it.",
+      "entities": [
+        "Philip J. Corso",
+        "Arthur Trudeau",
+        "Eric Davis",
+        "Jacques Vallee"
+      ],
+      "videos": [
+        "Philip J. Corso - US Army UFO Technology Research & Development"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/Philip J. Corso - US Army UFO Technology Research & Development/transcript.md",
+          "quote": "when the two spoke again Bush told Davis he was briefed on Legacy programs by Trudeau at the time of the 1968 Mandel Rivers Congressional hearings the book says Colonel Trudeau however I do think this is a typo referencing General Arthur Trudeau",
+          "note": "The claim and its date. Gerb also notes that the book calls him 'Colonel' Trudeau.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Philip J. Corso - US Army UFO Technology Research & Development/transcript.md",
+          "quote": "Bush senior claimed Trudeau told him his man Corso had been asked to testify before Congress and was able to reveal Rumblings of alien Hardware that had been distributed to Industrial Labs the Corso testimony was squashed as a result of this conversation",
+          "note": "What the briefing is said to have contained.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Philip J. Corso - US Army UFO Technology Research & Development/transcript.md",
+          "quote": "outside of Corso we have only one interesting piece to link the general to UAP let's remember all the way back to Forbidden Science where Dr Eric Davis claimed Bush senior stated he was indeed briefed by Trudeau at the 1968 mendal Rivers Congress Congressional hearings",
+          "note": "Gerb treats this as the one link outside Corso between Trudeau and UAP, and repeats the 1968 Rivers dating.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Philip J. Corso - US Army UFO Technology Research & Development/transcript.md",
+          "quote": "Lieutenant General Trudeau retired in 1962 and the lieutenant colonel followed him shortly in 1963",
+          "note": "Gerb himself has both men out of the Army years before any Rivers-era hearing, but he never sets this beside the briefing.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for 'Rivers'. It appears only in the Corso video's two Bush passages and in an unrelated Herrera interview. Searched for Bush with congress or congressman and found nothing on Bush's House dates. Searched for 'Trudeau': it appears in six videos, and none discusses the timing of the Bush briefing. The vault pages Arthur Trudeau and Philip J. Corso repeat the 1968 Rivers claim without comment. The published Holloman analysis uses the same Bush and Davis conversations from Forbidden Science but doesn't touch Trudeau or Rivers, and .analyses.json has no lead on it. Outside record checked by web search: the Rivers HASC UFO hearing was on 5 April 1966 (govinfo transcript CHRG-89hhrg50066O, Black Vault, project1947: three or more snippets). Bush served in the House from 3 January 1967 to 3 January 1971, on Ways and Means (Wikipedia, Ford Library: two snippets). Trudeau retired in 1962 and then worked at Gulf labs until 1968 (SNAC, Prabook: two snippets).",
+      "weakest_link": "The account reaches us through three retellings: Bush's words, Davis's memory, Vallee's diary and then Gerb's paraphrase. The exact passage in Forbidden Science (probably the Pacific Heights volume) couldn't be checked from here. Any of those steps could have garbled the year or the hearing. Bush could, for instance, have meant the 1968 Roush symposium or a conversation during his 1966 campaign. So the defensible claim is narrow: no reading of 'the 1968 Mendel Rivers hearings' fits Bush being briefed by a serving Trudeau about a serving Corso. A single slip by Gerb, such as 1968 for 1966, doesn't remove the problem: 1966 puts Bush outside Congress, and 1968 has no Rivers hearing. It can be checked against the Forbidden Science text, the HASC and Science and Astronautics hearing records, and Bush's committee assignments. This lead extends the published Holloman post, which uses the same Bush and Davis source, so the writer may fold it into that post.",
+      "impact": 4,
+      "support": 3,
+      "slip": false
+    },
+    {
+      "id": "L0069",
+      "slice": "S038-record",
+      "found_at": "2026-10-17T15:58:02Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "The letter Gerb reads as proof of a Men in Black unit was about an abduction-therapy group run by Stubblebine's wife",
+      "claim": "Edgar Fouche said his source Gerald belonged to TREAT, a 'Tactical Reconnaissance Engineering Assessment Team' that Gerb calls the NSA's Men in Black. Gerb's only outside support for TREAT is a 31 August 1997 letter to Steven Greer accusing Prince Hans-Adam II of Liechtenstein of funding 'TREAT and its [Dr?], who is wed to a former US Army General, ex-head of Army Intelligence and Security Command'. Gerb correctly identifies the general as Albert Stubblebine, but takes the letter's TREAT to be Fouche's unit, and builds on it: TREAT is 'the real life Men In Black housed within US Army INSCOM', Stubblebine is 'the alleged founder of the NSA's Men in Black TREAT', and Stubblebine is 'accused' of 'funding clandestine men in black-type entities'. The public record has a different TREAT that fits every detail of the letter: Treatment and Research of Experienced Anomalous Trauma, a series of conferences on alien-abduction trauma founded in May 1989 by the New York psychiatrist Dr Rima Laibow. Laibow was Stubblebine's wife (the two later co-founded the Natural Solutions Foundation), and an unauthorised biography of Scott Jones lists Laibow's TREAT conferences among the UFO projects Prince Hans-Adam funded. On this reading the letter says the Prince was paying for his friend's wife's abduction-research conferences, not for a covert unit, so it gives no support to Fouche's TREAT and no link between that unit and Stubblebine or INSCOM.",
+      "entities": [
+        "TREAT",
+        "Albert Stubblebine",
+        "Edgar Fouche",
+        "Steven Greer",
+        "Army INSCOM"
+      ],
+      "videos": [
+        "Alien Reproduction Vehicle - TR-3B and the Flying Triangles",
+        "Philip J. Corso - US Army UFO Technology Research & Development",
+        "UFO Legacy Programs - Science Applications International Corporation (SAIC)"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/Alien Reproduction Vehicle - TR-3B and the Flying Triangles/transcript.md",
+          "quote": "treat stands for the Tactical reconnaissance engineering assessment team AKA what we might call the Men in Black I can find only one publicly available mention of treat",
+          "note": "Gerb gives Fouche's expansion of TREAT and says the letter is the only public mention he can find.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Alien Reproduction Vehicle - TR-3B and the Flying Triangles/transcript.md",
+          "quote": "Adam's funding should be focused on his support for treat and it's gr D who is wed to a former US Army General ex- head of Army intelligence and security command end quote the General in question here is US Army General and founder of the US Army intelligence and security command inscom Albert stubblebine",
+          "note": "The letter as Gerb reads it: TREAT has someone (captioned 'gr D', probably 'Dr') married to the ex-INSCOM chief. Laibow, a doctor married to Stubblebine, founded the abduction-trauma TREAT.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Alien Reproduction Vehicle - TR-3B and the Flying Triangles/transcript.md",
+          "quote": "what we can learn here is that quite possibly treat is the real life Men In Black housed within US Army inscom",
+          "note": "The inference Gerb draws from the letter.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Philip J. Corso - US Army UFO Technology Research & Development/transcript.md",
+          "quote": "the alleged founder of the nsa's Men in Black treat tactical reconnaissance engineering assessment team",
+          "note": "In a later video the link has hardened: Stubblebine is called the alleged founder of Fouche's TREAT.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UFO Legacy Programs - Science Applications International Corporation (SAIC)/transcript.md",
+          "quote": "funding clandestine men in blacktype entities",
+          "note": "In the SAIC video this becomes one of the things Stubblebine 'has been accused by numerous individuals' of, alongside Corso's and Greer's claims.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UFO Legacy Programs - Science Applications International Corporation (SAIC)/transcript.md",
+          "quote": "In numerous programs, I have implicated the NSA and UFO legacy program operations from enforcing gatekeeping in the form of Treat or the Tactical Reconnaissance Engineering Assessment Team",
+          "note": "TREAT as a real gatekeeping unit is a recurring part of Gerb's NSA argument.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for laibow/libow/labow/leibow, 'rima', 'anomalous trauma', 'treatment and research', 'post-traumatic': no hits. Searched 'treat' near stubble/inscom/men in black/fouche/gerald: hits only in the ARV, Dugway, Corso and SAIC videos, all treating TREAT as Fouche's unit. Gerb never mentions Laibow, Stubblebine's marriage or the abduction conferences. The vault's TREAT and Stubblebine pages repeat the Men in Black reading.",
+      "weakest_link": "The exact wording of the 1997 letter (Gerb reads 'its gr D'; it may be 'its Dr' or initials) and whether the anonymous writer meant Laibow's conferences; checkable from the letter itself, which Greer published. Outside facts confirmed by web snippets: TREAT = Treatment and Research of Experienced Anomalous Trauma, founded by Laibow, first meeting May 1989 (Baltimore Sun 15 Apr 1992 'Convention a TREAT for the unconventional', plus a UFO research blog: 2 sources); Laibow married to Maj. Gen. Albert Stubblebine (SourceWatch plus a tribute page: 2 sources); Hans-Adam funding Laibow's TREAT conferences (1 secondhand blog citing an unauthorised 2002 Scott Jones biography: single source, moderate at most). Not a slip: Gerb repeats the reading across at least four videos. It remains possible Fouche borrowed or reused an acronym that also existed as a covert unit, but the letter can no longer serve as independent evidence for it.",
+      "impact": 4,
+      "support": 4,
+      "slip": false
+    },
+    {
+      "id": "L0070",
+      "slice": "S038-record",
+      "found_at": "2026-10-17T15:58:02Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "The CIA translator proposed as the MJ-12 leaker 'Cantwheel' doesn't match the career Cantwheel claimed",
+      "claim": "Thomas Cantwheel, the pseudonymous source who gave Tim Cooper the Interplanetary Phenomenon Unit report and field order and many other Majestic documents from 1992, claimed to have served in the CIC's IPU from 1942 to 1958, in the CIC until 1980, and to have retired as a lieutenant colonel; Cooper believed in the mid-1990s that he was living in California in his nineties. In his Ryan Wood video Gerb presents, with approval, Reddit researcher Harry is White Hot's identification of Cantwheel as Boris Tarasoff, the CIA's Russian translator on the 1963 Oswald tapes in Mexico City, citing Tarasoff's CIC service (1942-45), Red Cross job in Cleveland ('likely is a cover story for work on the IPU') and a CIA personal history statement 'released in 1998' showing him 'living in San Leandro California'. Outside records fit a different career: Tarasoff was an enlisted Army Tech 4 when he married in March 1945; a CIA file from about 1955 shows him being considered for a GS-7 intelligence analyst post; HSCA records call him and his wife contract employees at the Mexico City station; and his wife's obituary says the family lived in Mexico City and Guadalajara for 20 years before returning to the US. That is a civilian translator living in Mexico through the years Cantwheel says he was a CIC officer rising to lieutenant colonel. The San Leandro link also looks weaker than Gerb presents: a CIA personal history statement is a hiring form, so the address most likely dates from his 1950s application, not from the 1990s; 1998 is the JFK-records release date. The identification Gerb relays is what ties the IPU documents to a real intelligence officer; the record does not support it.",
+      "entities": [
+        "Thomas Cantwheel",
+        "Tim Cooper",
+        "Interplanetary Phenomenon Unit",
+        "MJ-12 Documents"
+      ],
+      "videos": [
+        "The Majestic-12 Documents With Ryan S. Wood",
+        "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The Majestic-12 Documents With Ryan S. Wood/transcript.md",
+          "quote": "according to kwell he served in the cic until 1980 and worked for CIA covert operations in the 60s and had contacts with the FBI k GB and Gru he claimed to have retired as Lieutenant Colonel",
+          "note": "Cantwheel's claimed career, from Cooper's affidavit.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Majestic-12 Documents With Ryan S. Wood/transcript.md",
+          "quote": "his US Army records from The Counter Intelligence Corps range from 1942 to 1945 where tasov then left the cic to work for the Red Cross in Cleveland Ohio Harry wisely points out this Red Cross work likely is a cover story for work on the ipu",
+          "note": "Gerb endorses the cover-story explanation for the gap between Tarasoff's record and Cantwheel's claims.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Majestic-12 Documents With Ryan S. Wood/transcript.md",
+          "quote": "we can find no obituary for tasov but at the time of this personal history statement titled CIA historical review program released as sanitized released in 1998 just 2 years removed from Cooper's investigation tasov was indeed living in San Leandro California",
+          "note": "Gerb reads the 1998 release stamp as the date of the address. A personal history statement is filled in at hiring (about 1955-56 for Tarasoff).",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Majestic-12 Documents With Ryan S. Wood/transcript.md",
+          "quote": "he believed can't wheel to be living in California and to be in his 9s",
+          "note": "Cooper's 1990s belief that the San Leandro address is matched against.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "given to UFO researcher Timothy Cooper from the enigmatic Thomas Cantwell personally in July of 1995",
+          "note": "Why the identity matters: Cantwheel is the hand-to-hand source of the IPU report Gerb uses across many videos.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for tarasoff/tarasov/tasov/tasarov/taso and cantwheel/cantwell/can wheel/kwell: Tarasoff appears only in the Ryan Wood video; Gerb never mentions his rank, his Mexico years, his wife's obituary, or the date of the personal history statement. No prior lead in .analyses.json concerns the Tarasoff identification (earlier Cantwheel leads were about drop dates and Stringfield).",
+      "weakest_link": "Cantwheel's claimed career could itself be embellished, and the identification's proponents already argue the civilian record is cover, so a mismatch with the public record does not disprove it on its own. The San Leandro point rests on an inference (personal history statements are hiring forms) that needs the document itself (CIA HRP release, JFK collection) to confirm its date. Outside facts: Tech 4 rank in March 1945 and the 20 years in Mexico City and Guadalajara come from one source (Anna Tarasoff's 2018 Dignity Memorial obituary, seen in two separate search snippets of the same page); the GS-7 analyst consideration from one Black Vault JFK document snippet; contract-employee status from Mary Ferrell HSCA interview listings. One search snippet said the obituary gives Boris's death as 1995, which would clash with Cantwheel's in-person handover in July 1995 and Cooper's later belief he was alive, but a second search did not confirm that line, so it is unverified and should not be used without the obituary text. Gerb is relaying a Reddit researcher's theory, though he endorses it.",
+      "impact": 4,
+      "support": 3,
+      "slip": false
+    },
+    {
+      "id": "L0071",
+      "slice": "S039-record",
+      "found_at": "2026-10-17T15:58:02Z",
+      "status": "duplicate",
+      "duplicate_of": "L0068",
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "When George Bush was said to be told about Corso's alien hardware, neither man held office",
+      "claim": "Gerb's main outside support for Corso's general is a story from Jacques Vallee's Forbidden Science: George H. W. Bush told Eric Davis that Trudeau briefed him on legacy programs 'at the time of the 1968 Mandel Rivers Congressional hearings', and that Corso's planned testimony to Congress about alien hardware given to industrial labs was squashed as a result. Gerb treats this as the 'only one interesting piece to link the general to UAP'. The offices don't match. Lt. Gen. Arthur Trudeau retired from the Army in 1962 (Gerb says so himself) and was running Gulf Oil's research labs in Pittsburgh until 1968, so in 1968 he held no government post. L. Mendel Rivers's House Armed Services Committee held its UFO hearing on 5 April 1966, nine months before Bush entered Congress in January 1967. The only 1968 UFO hearing was the July 1968 symposium of a different committee, Science and Astronautics. Bush, a freshman on Ways and Means, sat on neither committee. The 1966 date also matches Corso's own Capitol Hill years (Gerb cites a 1964-65 FBI background check for a House subcommittee post). So if the Rivers hearing is the event, the 'briefing' happened between a retired general turned oil-research executive and a Houston oilman running for Congress. It wasn't an official briefing of a congressman. Gerb knows the 1966 Rivers hearing (Origin of the UFO Stigma) but never sets it against the Bush story. The finding narrows the Bush-Trudeau-Corso link. It doesn't refute it.",
+      "entities": [
+        "Arthur Trudeau",
+        "Philip J. Corso",
+        "Eric Davis",
+        "Jacques Vallee"
+      ],
+      "videos": [
+        "Philip J. Corso - US Army UFO Technology Research & Development",
+        "The Origin of the UFO Stigma"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/Philip J. Corso - US Army UFO Technology Research & Development/transcript.md",
+          "quote": "when the two spoke again Bush told Davis he was briefed on Legacy programs by Trudeau at the time of the 1968 Mandel Rivers Congressional hearings the book says Colonel Trudeau however I do think this is a typo referencing General Arthur Trudeau",
+          "note": "The claim, its date and committee chair, and Gerb's identification of 'Colonel Trudeau' as the general.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Philip J. Corso - US Army UFO Technology Research & Development/transcript.md",
+          "quote": "Bush senior claimed Trudeau told him his man Corso had been asked to testify before Congress and was able to reveal Rumblings of alien Hardware that had been distributed to Industrial Labs the Corso testimony was squashed as a result of this conversation",
+          "note": "What the briefing supposedly did: it stopped Corso testifying to Congress.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Philip J. Corso - US Army UFO Technology Research & Development/transcript.md",
+          "quote": "Lieutenant General Trudeau retired in 1962 and the lieutenant colonel followed him shortly in 1963",
+          "note": "Gerb's own dates: by 1968 Trudeau had been out of uniform six years.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Philip J. Corso - US Army UFO Technology Research & Development/transcript.md",
+          "quote": "outside of Corso we have only one interesting piece to link the general to UAP",
+          "note": "Gerb leans on the Bush story as the sole independent tie between Trudeau and UFOs.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Origin of the UFO Stigma/transcript.md",
+          "quote": "on the 5th of April 1966 Congress held its first closed session on UFOs in a hearing by the house armed services committee",
+          "note": "Gerb knows the Rivers committee's UFO hearing was in April 1966, before Bush was in Congress, but never connects it to the Bush account.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Philip J. Corso - US Army UFO Technology Research & Development/transcript.md",
+          "quote": "a portion of these documents pertained to a 1964-65 FBI background check on Corso for his prospective position on the immigration and National Security subcommittee of the House of Representatives",
+          "note": "Puts Corso on the Hill in the mid-1960s, which fits a 1966 request to testify better than a 1968 one.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Grepped all transcripts for Trudeau/Trudo, Rivers/Mendel/Mendal, Roush, 1966 with hearing/Bush/Congress, Ways and Means, Gulf Research/Gulf Oil. The Bush-Trudeau story appears only in the Corso video. The 1966 Rivers hearing appears only in Origin of the UFO Stigma, with no mention of Bush, Trudeau or Corso. No transcript gives Bush's congressional dates or Trudeau's post-1962 job, and none questions the 1968 date. The Arthur Trudeau vault page states the Gulf job and repeats the 1968 date without comment. Not covered by any lead in .analyses.json or by the Holloman post, which uses a different part of the Bush-Davis conversations.",
+      "weakest_link": "The premise is Gerb's paraphrase of Vallee's journal (Forbidden Science: Pacific Heights), itself Davis's account of what Bush said years later. Two things can't be checked from the vault. First, whether Vallee wrote '1968', 'Mendel Rivers' and 'Colonel Trudeau' exactly. Second, whether 'Colonel Trudeau' is a different, serving officer, which would rescue an official 1968 briefing. A misremembered year in a third-hand account is realistic, and that is exactly the point: either the date or the committee is wrong. It isn't a Gerb slip, since he reports the book faithfully. The record side is checkable: Rivers HASC hearing 5 April 1966 (GPO transcript on govinfo, confirmed by 2+ independent results); 1968 symposium by Science and Astronautics (project1947 SHG); Bush seated January 1967 on Ways and Means (standard congressional biography); Trudeau retired 1962 and headed Gulf Research & Development to 1968 (Wikipedia; LBJ Library bio says 'management consultant', so the Gulf title rests on one snippet). Settle with the Vallee page itself.",
+      "impact": 4,
+      "support": 3,
+      "slip": false
+    },
+    {
+      "id": "L0072",
+      "slice": "S039-record",
+      "found_at": "2026-10-17T15:58:02Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "Gerb's candidate for the man who took Sorenson to see the flux liners was the serving Secretary of Defense",
+      "claim": "Gerb names Frank Carlucci as the most likely candidate for Brad Sorenson's client. That is the man who, on 12 November 1988, took Sorenson from the Norton air show to the classified Plant 42 exhibit of three hovering 'flux liner' alien reproduction vehicles. The identification ties the ARV story to Carlucci's later Carlyle Group (owner of EG&G) and Wackenhut board seats, which Gerb develops across three videos. The description Gerb relays is of a client who was 'a former Secretary of Defense or under Secretary of Defense'. In his 1990 interview with Bill Scott, Sorenson called him 'a gentleman who served within the Carter Administration'. But on 12 November 1988 Carlucci wasn't a former anything. He had been the sitting Secretary of Defense since 23 November 1987 and stayed in office until 20 January 1989. Gerb calls him the '16th US Secretary of Defense succeeded by Dick Cheney' and 'Weinberger's successor' but never notes that he was in office on the day. Either the identification is wrong, or the story is that the serving Defense Secretary passed an industrial designer off as his aide at an investor-style black-budget showing. Gerb never draws out either reading.",
+      "entities": [
+        "Frank Carlucci",
+        "Brad Sorenson",
+        "Mark McCandlish",
+        "Norton Air Force Base Air Show",
+        "Alien Reproduction Vehicle (ARV)",
+        "Carlyle Group"
+      ],
+      "videos": [
+        "Alien Reproduction Vehicle - the Testimony of Mark McCandlish",
+        "1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE",
+        "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/Alien Reproduction Vehicle - the Testimony of Mark McCandlish/transcript.md",
+          "quote": "a short time before the show on November 12th 1988",
+          "note": "The date of the show.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Alien Reproduction Vehicle - the Testimony of Mark McCandlish/transcript.md",
+          "quote": "Brad ultimately attended the air show with one of his clients described as a tall white man with glasses and Italian sounding name wealthy and a former Secretary of Defense or under Secretary of Defense",
+          "note": "The description: a client, and a former official.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Alien Reproduction Vehicle - the Testimony of Mark McCandlish/transcript.md",
+          "quote": "Brad seemingly never gave this man's name or to protect Brad mandish never publicly confirmed this but with high confidence Mark reason this individual was Frank carluchi the 16th US Secretary of Defense succeeded by Dick Cheney",
+          "note": "The identification (speaker attribution in 'Mark reason' is garbled; Gerb elsewhere calls it his own wager).",
+          "verified": true
+        },
+        {
+          "source": "Videos/Alien Reproduction Vehicle - the Testimony of Mark McCandlish/transcript.md",
+          "quote": "he was as Mark stated passed off as an aid for a gentleman who served within the Carter Administration seen as Frank carluchi was deputy director of the CIA for Carter he may still serve as a logical Choice here",
+          "note": "Sorenson's own 1990 description names only Carter-era service, not the Defense Secretary's post he had left 23 months earlier.",
+          "verified": true
+        },
+        {
+          "source": "Videos/1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE/transcript.md",
+          "quote": "One such figure mentioned by Herman was Frank Carluchi, US Secretary of Defense and an individual I wagered may have been alongside Brad Sorenson to the classified section of the 1988 Norton Air Force Base air show",
+          "note": "Gerb's own wager, used to tie Wackenhut's board to the ARV showing.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "After all, Weineberger's successor, Frank Carluchi, has served as a suspect of mine as an attendee to the 1988 Norton Air Force Base air show where the alleged flux liners were displayed.",
+          "note": "Gerb repeats the identification and calls him Weinberger's successor, without noting that he was in office at the time.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Grepped all transcripts for Carlucci/Carluchi (3 videos) and for 'sitting/then/current Secretary of Defense'. No transcript says Carlucci was in office on 12 November 1988 or weighs that against 'former' or 'client'. The vault's Frank Carlucci page notes 'While Carlucci was Secretary of Defense (1987-1989)' as its own research. That is not a transcript, so it is still unsaid on the channel. L0064 (shelved) concerns the B-2 rollout timing at Plant 42, not the client's identity.",
+      "weakest_link": "'Former' may be McCandlish's wording at the time he told the story (2000s), when Carlucci was indeed former. Carlucci was also a former Deputy Secretary of Defense (1981-83) in 1988, which loosely fits 'former ... under Secretary'. No other Italian-named former Defense official fits better, so the lead can't redirect to someone else. It can only show that, on Gerb's own candidate, the serving Defense Secretary was there, which makes the 'client' and 'aide' framing odd. Checkable: Carlucci's tenure (DoD Historical Office, 2+ results agree: 23 Nov 1987 to 20 Jan 1989); his public schedule for Saturday 12 November 1988 (Reagan Library or DoD press records) would confirm or rule him out. It also depends on the speaker of 'Mark reason' and on McCandlish's exact wording, which comes through Gerb's paraphrase.",
+      "impact": 4,
+      "support": 3,
+      "slip": false
+    },
+    {
+      "id": "L0073",
+      "slice": "S040-record",
+      "found_at": "2026-10-17T15:58:02Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "The LeMay commendation for Tim Cooper's father praises print-shop work, not a UFO program",
+      "claim": "Tim Cooper received the largest share of the Majestic documents, including the IPU papers Gerb leans on in his Aztec, Sandia and Coyame videos. In the Majestic-12 video Ryan Wood offers a commendation to Cooper's father, Master Sergeant Harry B. Cooper, as evidence that the family was tied to official UFO work: he calls it a commendation from Curtis LeMay 'for his outstanding work at the USAF UFO program'. Gerb then repeats this in two later videos as LeMay praising Cooper for 'the quote unquote USAF UFO program' (Peru/Weygandt) and 'the quote unquote UFO program' (Kecksburg), counting it among LeMay's 'vast' ties to ufology. But when Wood reads the citation aloud on camera, it describes Cooper as NCO in charge of printing management and of the camera section of the publishing division, Directorate of Administrative Services, HQ Air Defense Command, Ent AFB, 30 September 1957 to 1 June 1963. Nothing read out mentions UFOs; the UFO link is Wood's own inference ('so he was ... looking at photographs of UFOs'). The outside record also cuts against the inference: Air Defense Command's UFO field-investigation unit, the 4602d Air Intelligence Service Squadron, was disbanded in July 1957, before Cooper's tour began, and the February 1958 AFR 200-2 revision handed investigations to base commanders. The narrowed finding: the words Gerb puts in quotation marks as the document's own come from Wood's paraphrase, and the citation as read is for an administrative print and photo-lab job, so it doesn't show that the man whose son received the Majestic drops worked on a UFO program.",
+      "entities": [
+        "Tim Cooper",
+        "Curtis LeMay",
+        "Ryan S. Wood",
+        "Ent Air Force Base, Colorado",
+        "MJ-12 Documents"
+      ],
+      "videos": [
+        "The Majestic-12 Documents With Ryan S. Wood",
+        "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt",
+        "The 1965 Kecksburg, Pennsylvania UFO Crash"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The Majestic-12 Documents With Ryan S. Wood/transcript.md",
+          "quote": "we have a accommodation uh from Curtis lame to Harry B Cooper ER which is the father of Tim Cooper where many of these Majestic documents came and for his outstanding work uh at the US AF um UFO program",
+          "note": "Wood's spoken summary of the document, before he reads it. This is where the 'USAF UFO program' wording comes from.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Majestic-12 Documents With Ryan S. Wood/transcript.md",
+          "quote": "to Harry B Cooper Master Sergeant distinguish himself by m meritorious service is a non-commissioned officer in charge of printing management Brands and non-commissioned officer in charge of camera section publishing division command directorate of administrative Services headquarters air Air Defense command int Air Force Base Colorado from 30 September 57 to 1 June 63",
+          "note": "The citation as Wood reads it aloud: standard commendation wording for an administrative print and camera post. No UFO reference.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Majestic-12 Documents With Ryan S. Wood/transcript.md",
+          "quote": "so he was at in air force bace between 57 and 63 looking at photograph graphs of UFOs and and printing um all sorts of classified documents",
+          "note": "Wood's inference from 'camera section' to UFO photographs; the citation itself doesn't say this.",
+          "verified": true
+        },
+        {
+          "source": "Videos/1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt/transcript.md",
+          "quote": "This letter to Tim Cooper's father from Lame praised Harry B. Cooper for his work on the quote unquote USAF UFO program.",
+          "note": "Gerb repeats Wood's paraphrase as a quotation from the document.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/transcript.md",
+          "quote": "congratulated Harry B Cooper for his work on the quote unquote UFO program",
+          "note": "Gerb again, used as evidence of LeMay's ties to ufology.",
+          "verified": true
+        },
+        {
+          "source": "Locations/Ent Air Force Base, Colorado.md",
+          "quote": "together with the LeMay commendation that explicitly praises his \"outstanding work\" on a USAF UFO program, is direct documentary evidence of a UAP-connected function at Ent Air Force Base",
+          "note": "The vault page has absorbed the paraphrase as the document's content (also a page error, see report).",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for 'Harry B', 'Cooper's father', 'father of Tim Cooper', 'printing', 'camera section', 'publishing division' and 'Ent'. The citation text appears only in the Majestic-12 video, read by Wood; Gerb never comments on what the citation actually covers, and in the Peru and Kecksburg videos repeats only the 'UFO program' wording. No transcript notes that ADC's UFO investigation squadron (4602d AISS) was gone before Cooper's tour. Web: no source found discussing the Cooper commendation's text; a Robert Wood account (slideshare snippet) separately says Harry Cooper ran reprographics at Holloman in the late 1940s and held a certificate for 'UFO research', which may be a different document.",
+      "weakest_link": "Only the part of the citation that Wood reads aloud is in the vault. The image Gerb put on screen may carry a further paragraph (citations usually continue 'During this period...') that could mention UFO material, and the Woods may hold a second, Holloman-era certificate that does use the words; the Peru and Kecksburg remarks could also be Gerb loosely recalling Wood rather than quoting the page. Checkable: the citation image is in the video at the Section 17 / Blue Room segment and Wood offered to supply it; majesticdocuments.com may host it. Whether LeMay himself signed an AF Commendation Medal for an ADC master sergeant is also unverified and is not needed for the claim. The 4602d disbandment date (July 1957) rests on two secondary snippets (Minot B-52 investigation endnotes, mirrored) citing Jacobs, not on a primary record.",
+      "impact": 4,
+      "support": 3,
+      "slip": false
     }
   ]
 }
