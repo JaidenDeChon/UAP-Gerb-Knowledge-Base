@@ -540,6 +540,78 @@
       "handed_out": "2026-10-16T20:02:06Z",
       "ingested": "2026-10-16T20:08:07Z",
       "leads": 2
+    },
+    "S037-documents": {
+      "lens": "documents",
+      "items": [
+        "AARO Historical Report Volume 1"
+      ],
+      "handed_out": "2026-10-18T02:14:28Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S038-documents": {
+      "lens": "documents",
+      "items": [
+        "GAO Roswell Report (1995)"
+      ],
+      "handed_out": "2026-10-18T02:14:32Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S039-documents": {
+      "lens": "documents",
+      "items": [
+        "Robertson Panel Report"
+      ],
+      "handed_out": "2026-10-18T02:14:36Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S040-documents": {
+      "lens": "documents",
+      "items": [
+        "Craft Using an Inertial Mass Reduction Device"
+      ],
+      "handed_out": "2026-10-18T02:14:40Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S041-documents": {
+      "lens": "documents",
+      "items": [
+        "GAO Report on Special Access Contracts (1986)"
+      ],
+      "handed_out": "2026-10-18T02:14:44Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S042-documents": {
+      "lens": "documents",
+      "items": [
+        "GAO Report on Special Access Program Due Process (1993)"
+      ],
+      "handed_out": "2026-10-18T02:14:48Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S043-documents": {
+      "lens": "documents",
+      "items": [
+        "Hottel Memo"
+      ],
+      "handed_out": "2026-10-18T02:14:52Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S044-documents": {
+      "lens": "documents",
+      "items": [
+        "Twining Memo"
+      ],
+      "handed_out": "2026-10-18T02:14:56Z",
+      "ingested": null,
+      "leads": 0
     }
   },
   "leads": [
@@ -5077,5 +5149,6 @@
       "support": 3,
       "slip": false
     }
-  ]
+  ],
+  "turn": 10
 }

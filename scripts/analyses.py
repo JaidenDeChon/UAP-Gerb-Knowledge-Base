@@ -324,8 +324,13 @@ def transcription_of(name: str) -> Path | None:
     return path if path.is_file() else None
 
 
+# Statutes, executive orders and standing regulations: useful reference in other
+# slices, but they rarely hold a smoking gun of their own, so they're swept last.
+STANDING_RULES = re.compile(r"\b(Act of|Executive Order|Amendment|Regulation|JANAP|OPNAV)\b")
+
+
 def document_pages(vault: Vault) -> list[dict]:
-    """Documents pages worth a slice, transcribed first, then the most-mentioned in the videos."""
+    """Documents pages worth a slice: records before standing rules, transcribed first, then the most-mentioned in the videos."""
     texts = {}
     for video, path in vault.summaries.items():
         texts[(video, "summary")] = path.read_text(encoding="utf-8").lower()
@@ -357,7 +362,7 @@ def document_pages(vault: Vault) -> list[dict]:
             "backlinks": sorted(a for a, targets in vault.out.items() if name in targets),
             "videos": {v: mentions[v] for v in sorted(mentions) if mentions[v]},
         })
-    return sorted(rows, key=lambda r: (not r["transcription"], -len(r["videos"]), r["key"]))
+    return sorted(rows, key=lambda r: (bool(STANDING_RULES.search(r["key"])), not r["transcription"], -len(r["videos"]), r["key"]))
 
 
 def focus_subjects(vault: Vault) -> list[dict]:
