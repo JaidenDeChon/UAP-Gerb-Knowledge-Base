@@ -56,7 +56,7 @@ events:
     cue: 134
   - date: "1953"
     title: "USAF Regulation 200-2 implemented"
-    summary: "Gerb says this regulation was brought in to restrict UFO reporting and keep reports from Blue Book, Congress and the public. The declassified Minot report of 1968 was filed under it."
+    summary: "Gerb says this regulation was brought in to restrict UFO reporting and keep reports from Blue Book, Congress and the public. He says the declassified Minot report of 1968 was filed under it, though AFR 80-17 had replaced 200-2 in September 1966."
     category: policy
     entities:
       - "USAF Regulation 200-2"
@@ -95,7 +95,7 @@ events:
     cue: 391
   - date: "1968"
     title: "Minot Air Force Base B-52 encounter"
-    summary: "An egg-shaped object with skin like molten lava kept about 3 miles from a descending B-52, then closed 2 miles in one 3-second radar sweep, which works out to 209 G and Mach 12 (9,200 mph). The case was reported under Regulation 200-2 and never reached the Blue Book files."
+    summary: "An egg-shaped object with skin like molten lava kept about 3 miles from a descending B-52, then closed 2 miles in one 3-second radar sweep, which works out to 209 G and Mach 12 (9,200 mph). Gerb says it was reported under Regulation 200-2 and never reached the Blue Book files, but Blue Book did take the case: Lt. Col. Hector Quintanilla submitted a final case report on 13 November 1968."
     category: event
     significance: major
     entities:
@@ -318,7 +318,10 @@ Knuth next cited a source that was new to Gerb: a 1954 lecture on flying saucers
 
 ### Minot, Japan Airlines and the four cases side by side
 
-Knuth also cited a little-known 1968 encounter at [[Minot Air Force Base, North Dakota|Minot Air Force Base]], a nuclear-weapons base like [[Malmstrom Air Force Base|Malmstrom]]. According to base personnel, an egg-shaped object with skin described as molten lava held about 3 miles off a descending B-52, then closed 2 miles within a single 3-second radar sweep. The lava-like skin reminds Gerb of an egg-shaped crashed craft whose skin showed the [[Mother of Pearl Effect|mother-of-pearl effect]]. He also notes that the declassified report was filed under [[USAF Regulation 200-2]], so the case never reached the [[Project Blue Book]] files or the public despite being a multi-sensor military detection. For the [[1986 Japan Airlines UFO Incident|Japan Airlines]] case, Gerb replays footage from his iceberg series: at about 5 p.m. on 17 November 1986, Captain [[Captain Kenju Terauchi|Kenju Terauchi]] and two crew watched a craft and two smaller lights orbit their 747.
+Knuth also cited a little-known 1968 encounter at [[Minot Air Force Base, North Dakota|Minot Air Force Base]], a nuclear-weapons base like [[Malmstrom Air Force Base|Malmstrom]]. According to base personnel, an egg-shaped object with skin described as molten lava held about 3 miles off a descending B-52, then closed 2 miles within a single 3-second radar sweep. The lava-like skin reminds Gerb of an egg-shaped crashed craft whose skin showed the [[Mother of Pearl Effect|mother-of-pearl effect]]. He also says the declassified report shows the case was filed under [[USAF Regulation 200-2]] and that it never reached the [[Project Blue Book]] files or real public awareness despite being a multi-sensor military detection. In fact AFR 80-17 had superseded AFR 200-2 on 19 September 1966, and Blue Book did take the case: the base investigating officer phoned Blue Book the same day, and Lt. Col. Hector Quintanilla submitted a final case report on 13 November 1968. For the [[1986 Japan Airlines UFO Incident|Japan Airlines]] case, Gerb replays footage from his iceberg series: at about 5 p.m. on 17 November 1986, Captain [[Captain Kenju Terauchi|Kenju Terauchi]] and two crew watched a craft and two smaller lights orbit their 747.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said the Minot case was filed under Regulation 200-2 and so never reached the Blue Book files. AFR 80-17 had replaced 200-2 in 1966, and Blue Book received and closed the case on 13 November 1968, per Thomas Tulien's Minot investigation and Prairie Public's Dakota Datebook.
 
 ::wiki-compare{video="inyw4Vfu7Z0" video-title="The Physics of UFOs– Dr. Kevin Knuth"}
 ---
@@ -367,7 +370,7 @@ rows:
   - attribute: "Afterwards"
     cells:
       - "No explosion, though ~250 Tomahawks' worth of energy was expected"
-      - "Filed under Regulation 200-2; never in the Blue Book files"
+      - "Gerb: filed under Regulation 200-2 and never in Blue Book (Blue Book in fact closed it on 13 Nov 1968)"
       - "Radar held it at ~7.5 mi, changing sides between 12-second sweeps"
       - "All ship power killed and batteries drained"
 ---
@@ -492,16 +495,22 @@ entries:
 - Assuming a mass of 1,000 kg, a tenth of a similarly sized F-18, the manoeuvre needed about 1,100 gigawatts, which Gerb puts at ten times the total nuclear output of the United States.
 - Stopping at sea level should have released energy equal to about 250 Tomahawk cruise missiles, yet no explosion, sonic boom or fireball was observed.
 - Hermann Oberth reported in 1954 more than 50 USAF and US Navy radar measurements of flying saucers at 19 km/s (about 42,000 mph, Mach 55), and wrote that they are spaceships from another solar system that might fly by distorting the gravitational field.
-- At Minot Air Force Base in 1968, an egg-shaped object with molten-lava skin closed 2 miles on a B-52 in one 3-second radar sweep (209 G, Mach 12); the declassified report was filed under Regulation 200-2 and never reached the Blue Book files.
+- At Minot Air Force Base in 1968, an egg-shaped object with molten-lava skin closed 2 miles on a B-52 in one 3-second radar sweep (209 G, Mach 12); Gerb says the declassified report was filed under Regulation 200-2 and never reached the Blue Book files, though AFR 80-17 had replaced 200-2 in 1966 and Blue Book closed the case with a final report on 13 November 1968.
 - Knuth calculates the Japan Airlines Flight 1628 object reached about 269,000 mph while FAA radar held it about 7.5 miles from the 747.
 - UAP luminosities of 2,000 to 30,000 megacandelas, electric fields of about 3 × 10⁶ V/m and magnetic fields of 10¹¹ to 10¹³ A·m² are estimated from photographs and from engine and avionics failures; Knuth suggests the light may be a byproduct of propulsion.
 - In February 1987 a USO 150 by 800 feet closed 20 km on HMNZS Southland in under 30 seconds, passed beneath it and drained the ship's power.
 - Knuth lists eight transmedium cases from before about the Second World War, which Gerb argues rules out foreign adversary technology as the explanation for UAP.
 
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions stated as fact that the 1968 Minot case was filed under Regulation 200-2 and never reached the Blue Book files. That is Gerb's claim: AFR 80-17 superseded AFR 200-2 in September 1966, and Blue Book received the case and issued Quintanilla's final report on 13 November 1968 (Thomas Tulien, "The Investigation of UFO Events at Minot Air Force Base", minotb52ufo.com; Prairie Public, Dakota Datebook, "Minot Missile Base UFO").
+
 ## Sources
 
 - [YouTube](https://www.youtube.com/watch?v=inyw4Vfu7Z0) — UAP Gerb
 - Knuth, K. H., Powell, R. M., & Reali, P. A. (2019). "Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles." *Entropy*, 21(10), 939.
+- Thomas Tulien, "The Investigation of UFO Events at Minot Air Force Base, North Dakota" (minotb52ufo.com; Zenodo record 8331502)
+- Prairie Public NewsRoom, Dakota Datebook, "Minot Missile Base UFO" (2 May 2022)
+- AFR 80-17, 19 September 1966, superseding AFR 200-2 of 20 July 1962 (reproduced in the Condon Report, Appendix B)
 
 ## Related Pages
 

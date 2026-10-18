@@ -5,7 +5,10 @@ tags:
   - organization
 ---
 
-The 412th Test Wing is the U.S. Air Force wing at [[Edwards Air Force Base]], California, that plans, conducts, analyzes and reports on all flight and ground testing of aircraft, weapon systems, software and components, as well as modeling and simulation, for the Air Force. Its mission has three parts: flying operations, maintenance and engineering. It falls under the [[Air Force Test Center]] and therefore under [[Air Force Materiel Command (AFMC)]], and it is one of the Air Force's [[Major Range and Test Facility Bases (MRTFBs)|major range and test facility bases]]. [[Dawn M. Dunlop]] commanded the wing from 2009 to 2012 and was the first woman to lead an Air Force test wing. UAP Gerb's videos often call it the "Edwards 412th Test Wing".
+The 412th Test Wing is the U.S. Air Force wing at [[Edwards Air Force Base]], California, that plans, conducts, analyzes and reports on all flight and ground testing of aircraft, weapon systems, software and components, as well as modeling and simulation, for the Air Force. Its mission has three parts: flying operations, maintenance and engineering. It falls under the [[Air Force Test Center]] and therefore under [[Air Force Materiel Command (AFMC)]], and it is one of the Air Force's [[Major Range and Test Facility Bases (MRTFBs)|major range and test facility bases]]. [[Dawn M. Dunlop]], vice commander from August 2009, commanded the wing from June 2010 to March 2012 and was the first woman to lead an Air Force test wing. UAP Gerb's videos often call it the "Edwards 412th Test Wing".
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said Dunlop commanded the wing from 2009. Her Air Force biography and a June 2010 *Air Force Times* report show she was vice commander from August 2009 and took command in June 2010.
 
 ## In the Hidden Wing thesis
 

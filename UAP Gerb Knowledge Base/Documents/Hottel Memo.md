@@ -12,7 +12,10 @@ tags:
   - document
 ---
 
-The Hottel Memo is a one-page FBI memorandum written on March 22, 1950, by Special Agent in Charge [[Guy Hottel]] of the Washington Field Office and addressed to FBI Director [[J. Edgar Hoover]]. The memo relays a secondhand account from an Air Force investigator claiming that three flying saucers had been recovered in New Mexico, each approximately 50 feet in diameter and occupied by three-foot-tall humanoid figures dressed in metallic suits. It is one of the most frequently cited government documents in UFO research, and it became the most-viewed document in the FBI's online public vault.
+The Hottel Memo is a one-page FBI memorandum dated March 22, 1950, sent from Special Agent in Charge [[Guy Hottel]] of the Washington Field Office to FBI Director [[J. Edgar Hoover]]. It passes on, at several removes, what an unnamed "investigator for the Air Forces" was said to have claimed: that three flying saucers had been recovered in New Mexico, each approximately 50 feet in diameter and occupied by three-foot-tall humanoid figures dressed in metallic suits. The information reached a special agent of the field office from an outside source, who was in turn relaying an informant. It is one of the most frequently cited government documents in UFO research, and it became the most-viewed document in the FBI's online public vault.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said the memo relays a secondhand account from an Air Force investigator. The memo says the information was furnished to a special agent by a redacted source, and the Air Force investigator's story comes from that source's informant.
 
 ## Content of the Memo
 
@@ -21,19 +24,24 @@ The March 22, 1950 memorandum states:
 - Three flying saucers had been recovered in New Mexico.
 - Each craft was described as circular with a raised center, approximately 50 feet in diameter.
 - The craft were occupied by humanoid figures approximately three feet tall, dressed in metallic suits.
-- "According to Mr. [redacted] informant," the discs were found in New Mexico because the government had a very high-powered radar set-up in the area, and the radar was believed to interfere with the saucers' controlling mechanism. Gerb names this source as "Mr. [[Carl Howe]]"; the name is redacted in the released memo, and Gerb does not say where it comes from.
+- According to "Mr. [redacted] informant," the saucers were found in New Mexico because the government had a very high-powered radar set-up in the area, and the radar was believed to interfere with the saucers' controlling mechanism. The redacted name, blacked out in the FBI Vault copy under FOIA exemption b7D, is that of the man who gave the information to the FBI, identified in the 2022 unredacted release as [[Carl Howe|Karl Howe]] (Gerb calls him "Mr. Carl Howe"); the radar explanation is credited to his informant, not to him.
 
 > [!edit] Corrected 17 October 2026
-> This item used to say the memo identifies the source as "Mr. Carl Howe". The name is blacked out on page 2 under FOIA exemption b7D; the name Howe comes from Gerb's narration.
+> Earlier versions said the memo identifies a source named "Mr. Carl Howe" who made the radar claim. In the FBI Vault release the name is blacked out on page 2 under FOIA exemption b7D and appears only in the August 2022 unredacted copy, and the memo credits the radar claim to "Mr. [redacted] informant", that is, Howe's informant.
 
-The memo does not specify the exact location of the recoveries, the date they occurred, or the identity of the Air Force investigator who provided the information. Hottel passed the information on as he received it, without investigating or verifying the claims himself.
+The memo does not specify the exact location of the recoveries, the date they occurred, or the identity of the Air Force investigator. It ends "No further evaluation was attempted by SA [redacted] concerning the above," and its reference line, "RHK:VIM," shows it was dictated by RHK, the initials of the agent who took the information, rather than by Hottel himself.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said Hottel passed the information on as he received it, without investigating it himself. The memo was dictated by RHK, and it is the special agent who took the information, not Hottel, whom it records as making no further evaluation.
 
 ## Source and Chain of Custody
 
-The memo opens, "The following information was furnished to SA [redacted] by [redacted]": a source whose name is redacted gave it to one of the Washington Field Office's Special Agents, also unnamed, and Hottel transmitted it to FBI headquarters. Within that information, the recovery account is credited to "an investigator for the Air Forces", whom Gerb guesses was from the [[Air Force Technical Intelligence Center]] (ATIC), and the radar explanation to a "Mr. [redacted] informant", whom Gerb names as [[Carl Howe]]. Little is known about that source, and his credibility has never been independently established. The memo closes, "No further evaluation was attempted by SA [redacted] concerning the above."
+As released in the FBI Vault, the memo gives the chain only in outline: "The following information was furnished to SA [redacted] by [redacted]." A source whose name is redacted gave it to one of the Washington Field Office's special agents, also unnamed, and Hottel transmitted it to FBI headquarters. Within that information come an Air Force investigator's story and a radar explanation credited to "Mr. [redacted] informant." The Air Force investigator is therefore the informant's account, not a direct source to the FBI. In his Sarbacher video Gerb guesses the investigator came from the [[Air Force Technical Intelligence Center]] (ATIC); the memo itself does not say.
 
 > [!edit] Corrected 17 October 2026
-> This paragraph used to say the Air Force investigator relayed the claims to Hottel and that the ultimate source was Carl Howe. The memo says the information was furnished to a redacted Special Agent by a redacted source, names neither informant, and credits only the radar claim to the "Mr." informant; the ATIC link and the name Howe are Gerb's.
+> Earlier versions said an Air Force investigator relayed the claims to Hottel and that the ultimate source was Carl Howe. The memo says the information was furnished to a redacted special agent by a redacted source, the investigator's story comes from that source's informant, and the ATIC link is Gerb's guess, not the memo's.
+
+An unredacted copy released to [[The Black Vault]] in August 2022 fills in the names. The special agent was Robert H. Kurtzman of the Washington field office, and the man who furnished the information was Karl Howe, a special investigator with the Washington, D.C. Metropolitan Police, who was passing on what his own informant had told him. The informant is still unidentified. Gerb gives the same chain in his Aztec video: the information was "relayed to special agent RH Curtsman by police special investigator Carl How and his unnamed informant." Little is known about Howe beyond his police post, and his informant's credibility has never been independently established.
 
 ## Historical Context
 
@@ -58,7 +66,10 @@ The memo's claim that high-powered radar caused the crashes by disrupting contro
 
 ## Later FBI Context
 
-UAP Gerb's video on the [[The 1950s Del Rio, Texas UFO Crashes|1950s Del Rio, Texas UFO Crashes]] sets the memo beside a December 8, 1950 FBI memo to J. Edgar Hoover directing Army intelligence to a state of high alert for "flying disc" information. The video treats both as part of a pattern of FBI attention to crash-retrieval reports in the early Cold War.
+UAP Gerb's video on the [[The 1950s Del Rio, Texas UFO Crashes|1950s Del Rio, Texas UFO Crashes]] sets the memo beside a confidential December 8, 1950 FBI memo to J. Edgar Hoover reporting that Army intelligence had been put on high alert for any data on flying discs. The video treats both as part of a pattern of FBI attention to crash-retrieval reports in the early Cold War.[^gerb-hottel-date]
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions described the December 1950 memo as "directing" Army intelligence to a state of high alert. Gerb says the memo was "directed to" Hoover and concerned how Army intelligence "has been put on high alert"; an FBI memo to its own director did not order the Army to do anything.
 
 ## Release and Public Impact
 
@@ -75,3 +86,6 @@ The Hottel Memo does not prove that any UFOs were recovered. Its significance is
 - [[Videos/Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group/summary|Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group]]
 - [[Videos/The 1950s Del Rio, Texas UFO Crashes/summary|The 1950s Del Rio, Texas UFO Crashes]]
 - [[Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/summary|The 1948 Aztec, New Mexico UFO Crash Retrieval]]
+- [The Guy Hottel Memo and the Crashed Flying Saucers of New Mexico](https://www.theblackvault.com/documentarchive/the-guy-hottel-memo-and-the-crashed-flying-saucers-of-new-mexico-march-22-1950/), The Black Vault (unredacted release, August 2022)
+
+[^gerb-hottel-date]: Gerb says "we do know from the guy hodle memo sent later this year the FBI was in fact discussing crash retrievals and bodies", probably a slip for "earlier": the Hottel memo is dated 22 March 1950, the date Gerb gives himself in his Sarbacher and Aztec videos, nine months before the 6 December alert and the alleged El Indio crash ([The Black Vault](https://www.theblackvault.com/documentarchive/the-guy-hottel-memo-and-the-crashed-flying-saucers-of-new-mexico-march-22-1950/); [Space.com](https://www.space.com/20409-ufo-hottel-memo-fbi.html)). With the order corrected, the memo still shows crash-retrieval talk reaching the FBI in 1950, but as a report of three saucers recovered in New Mexico it can't be about El Indio.

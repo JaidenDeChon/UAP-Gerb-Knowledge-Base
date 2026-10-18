@@ -6,7 +6,10 @@ tags:
   - person
 ---
 
-Brigadier General Roger M. Ramey was a senior United States Air Force officer who played a central role in the public suppression of the 1947 Roswell incident. He appeared in photographs alongside debris that the Air Force claimed was a weather balloon, and he issued the official press release dismissing the initial "flying disc" report.
+Brigadier General Roger M. Ramey, commander of the Eighth Air Force in 1947, was a United States Army Air Forces officer (the Air Force became a separate service that September) who played a central role in the public suppression of the 1947 Roswell incident. He appeared in photographs alongside debris that the military said was a weather balloon, and at a press conference in Fort Worth he gave the weather-balloon identification that replaced Roswell Army Air Field's "flying disc" press release.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions called him a US Air Force officer who issued the official press release. In July 1947 he served in the Army Air Forces, and the "flying disc" press release came from Roswell Army Air Field; Ramey's contribution was the balloon identification.
 
 ## Roswell Cover-Up
 

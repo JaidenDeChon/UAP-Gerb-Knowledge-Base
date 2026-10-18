@@ -32,7 +32,7 @@ stats:
     label: Estimated weight
     hint: "Judged from the load on the helicopter"
   - value: "UFO 3263"
-    label: Archive file number of the Denb Report
+    label: UFO BBS archive file number
     hint: "The UFO BBS archive's number for the anonymous memo recounting the crash, dated 23 March 1992 and signed only JS"
   - value: "46m"
     label: Video length
@@ -43,7 +43,7 @@ stats:
 
 This video investigates what authors call "Mexico's Roswell": the alleged crash of a disc near [[Coyame, Chihuahua, Mexico|Coyame, Chihuahua]] in August 1974 and its covert recovery by an American team. Gerb opens by noting that crash retrievals are not confined to the United States, citing [[Shag Harbour, Canada|Shag Harbour]] and [[Varginha, Brazil|Varginha]]. He argues that Coyame may give the clearest picture of US recovery protocol of any case. According to the story, US Air Defense radar tracked an object from the Gulf of Mexico into northern Mexico, where it apparently collided with a civilian light aircraft out of El Paso. Mexican soldiers recovered the disc and then died beside their convoy. A [[CIA]]-organised team flying unmarked helicopters from [[Fort Bliss]] then crossed the border, lifted the disc out, blew up the convoy, the bodies and the plane wreckage, and sent the disc by sealed truck to [[Atlanta, Georgia]].
 
-Primary sources are scarce, and Gerb leans on four. The first is the [[Denb Report]], an anonymous memo from "[[JS (Denb Report Author)|JS]]" to "All Deneb Team Members" (Gerb reads it as "all Denb team members"), which he reads in full. The second is [[Noe Torres]] and [[Ruben Uriarte]]'s books *Mexico's Roswell: The Chihuahua UFO Crash* and *The Coyame Incident*. The third is [[Leonard Stringfield]]'s [[Stringfield Status Reports|crash-retrieval status reports]], and the fourth is [[Ryan S. Wood]]'s *Magic Eyes Only*, which rates the case as medium to high in authenticity. Gerb follows each thread: where the report came from, the missing civilian plane, the CIA's role, the unexplained deaths of the Mexican soldiers, and eyewitnesses in Presidio, Texas. He also covers a suspicious 2012 Wikipedia edit that named the recovery team and the dead soldiers, and a Mexican official's 2024 claim to have video of the crash.
+Primary sources are scarce, and Gerb leans on four. The first is the [[Denb Report]], an anonymous memo from "[[JS (Denb Report Author)|JS]]" addressed to "All Deneb Team Members" (Gerb reads it as "all Denb team members"), which he reads in full. The second is [[Noe Torres]] and [[Ruben Uriarte]]'s books *Mexico's Roswell: The Chihuahua UFO Crash* and *The Coyame Incident*. The third is [[Leonard Stringfield]]'s [[Stringfield Status Reports|crash-retrieval status reports]], and the fourth is [[Ryan S. Wood]]'s *Magic Eyes Only*, which rates the case as medium to high in authenticity. Gerb follows each thread: where the report came from, the missing civilian plane, the CIA's role, the unexplained deaths of the Mexican soldiers, and eyewitnesses in Presidio, Texas. He also covers a suspicious 2012 Wikipedia edit that named the recovery team and the dead soldiers, and a Mexican official's 2024 claim to have video of the crash.
 
 > [!edit] Corrected 17 October 2026
 > Earlier versions gave the addressee as "all Denb team members", as Gerb reads it. The text is addressed "To: All Deneb Team Members".
@@ -193,7 +193,7 @@ events:
   - date: "1992-03-23"
     title: "JS issues the Denb Report"
     cue: 152
-    summary: "A memo titled 'Research Findings on the Chihuahua Disc Crash', from JS to 'All Deneb Team Members', was posted on an electronic bulletin board. The UFO BBS archive that preserved it filed it as 'UFO 3263'. It says the notes reached the group only in February 1992."
+    summary: "A memo titled 'Research Findings on the Chihuahua Disc Crash', from JS to 'All Deneb Team Members', was posted on an electronic bulletin board; the UFO BBS archive preserved it as file 'UFO3263'. It says the notes reached the group only in February 1992."
     category: document
     significance: major
     entities:
@@ -458,10 +458,10 @@ The best description in the report is of a disc 16 feet 5 inches across and just
 
 ## Where the Denb Report Came From
 
-The report first appeared in 1992 on an electronic bulletin board. In early summer 1993 paper copies were mailed anonymously to researchers including [[Elaine Douglas]] and [[Nick Redfern]], and Douglas passed the originals to Leonard Stringfield. Gerb compares this with the anonymous mailings that launched the [[MJ-12 Documents]]. The report is dated 23 March 1992 and addressed from JS to "All Deneb Team Members", which Gerb reads as "all Denb team members". Its "File: UFO3263" heading is the file number of the UFO BBS archive that preserved the text; Gerb reads it as a sign that Coyame is one case among many in the group's files. JS says the facts were gathered in 1978 from two eyewitness accounts, illegally copied documentation and a partially destroyed document, by a person since dead, and that they reached "our group" only in February 1992. JS repeatedly admits knowing nothing of the craft's analysis, its final destination or whether it carried bodies. From this Gerb concludes that the author had primary sources but no direct line into the CIA, NORAD or agencies such as the [[NRO (National Reconnaissance Office)|NRO]] or [[NGA]].
+The report first appeared in 1992 on an electronic bulletin board. In early summer 1993 paper copies were mailed anonymously to researchers including [[Elaine Douglas]] and [[Nick Redfern]], and Douglas passed the originals to Leonard Stringfield. Gerb compares this with the anonymous mailings that launched the [[MJ-12 Documents]]. The report is dated 23 March 1992 and addressed from JS to "All Deneb Team Members", which Gerb reads as "all Denb team members". Its "File: UFO3263" heading is the file number of the UFO BBS archive that preserved the text; Gerb reads it as a sign that Coyame is one case among many studied by the group and JS. JS says the facts were gathered in 1978 from two eyewitness accounts, illegally copied documentation and a partially destroyed document, by a person since dead, and that they reached "our group" only in February 1992. JS repeatedly admits knowing nothing of the craft's analysis, its final destination or whether it carried bodies. From this Gerb concludes that the author had primary sources but no direct line into the CIA, NORAD or agencies such as the [[NRO (National Reconnaissance Office)|NRO]] or [[NGA]].
 
 > [!edit] Corrected 17 October 2026
-> Earlier versions gave the addressee as "all Denb team members" and said the "UFO 3263" file number suggests many cases in the group's files. The text addresses the "Deneb Team", and the number belongs to the UFO BBS archive (textfiles.com, ufo/UFOBBS/3000/3263.ufo); the many-cases reading is Gerb's.
+> Earlier versions gave the addressee as "all Denb team members" and said in the page's voice that the "UFO 3263" file number suggests one case among many. The text is addressed "To: All Deneb Team Members", and the number belongs to the UFO BBS archive that preserved it (textfiles.com, ufo/UFOBBS/3000/3263.ufo); the many-cases reading is Gerb's.
 
 Torres and Uriarte suggest "JS" is an acronym for a US government body such as the Joint Staff or Joint Services. Gerb adds his own idea about the [[Denb Team]]. It may have been an internal government study group during what he calls the "dark ages" of UAP, the gap in acknowledged programs between the end of [[Project Blue Book]] in 1969 and [[AATIP (Advanced Aerospace Threat Identification Program)|AATIP]] in 2007. He notes that [[Luis Elizondo]] has said unacknowledged UAP programs ran in the 1980s. The [[UAP Task Force]] is known to have used Top Secret online forums, and Gerb suggests the Denb team could have been intelligence professionals doing the same on early message boards.
 
@@ -510,7 +510,10 @@ root:
 
 Gerb links the report's picture of the CIA to [[Christopher Sharp]]'s reporting that the [[CIA Office of Global Access]] has played a central role in crash retrieval since 2003, working with [[JSOC (Joint Special Operations Command)|JSOC]] among others. One of Sharp's sources calls the office "a facilitator for people to get in and out of countries". Another says the military does the physical retrieval but hands the object "fairly quickly into private hands" because it has to keep too many records. For Gerb, Coyame suggests that parts of the CIA were retrieving craft long before the office existed. In his view the handoff to a private convoy bound for a Lockheed city fits the same pattern, as does the Wikipedia editor Mercy 11's claim that the team was made up of retired servicemen. Sharp's Daily Mail sources also named [[NEST (Nuclear Emergency Support Team)|NEST]] among the teams doing retrievals.
 
-[[Fort Bliss]] may matter beyond this case. [[Philip J. Corso]] wrote in *The Day After Roswell* that debris and bodies from the 1947 [[Roswell Crash]] were shipped there. Gerb knows of few other links besides a handful of Blue Book sightings and flags the base for future research.
+[[Fort Bliss]] may matter beyond this case. Gerb says [[Philip J. Corso]] wrote in *The Day After Roswell* that debris and bodies from the 1947 [[Roswell Crash]] were shipped there.[^gerb-corso-fort-bliss] Gerb knows of few other links besides a handful of Blue Book sightings and flags the base for future research.
+
+> [!edit] Attribution clarified 16 October 2026
+> Earlier versions said, as fact, that Corso wrote that Roswell debris and bodies were shipped to Fort Bliss. That is Gerb's reading; in the book the convoy came from Fort Bliss (see the footnote).
 
 ## What Killed the Mexican Soldiers?
 
@@ -673,7 +676,7 @@ entries:
 - The CIA formed a recovery team so quickly that the report suspects a rehearsed or previously performed operation. The team was staged at Fort Bliss with four unmarked helicopters after Mexico refused American help.
 - The team crossed into Mexico north of Candelaria and lifted the disc out under a Sea Stallion. It destroyed the Mexican vehicles, bodies and plane debris with high explosives, and handed the disc to a sealed truck convoy bound for Atlanta. Unconfirmed reports have it moved on to Wright-Patterson or an unnamed base.
 - The disc was 16 feet 5 inches across, just under 5 feet thick, silver and seamless, weighed about 1,500 pounds, and had a 12-inch hole and a 2-foot dent in its rim.
-- The report was posted to a bulletin board in 1992 by "JS", preserved in the UFO BBS archive as file "UFO 3263", then mailed anonymously to researchers in 1993. Leonard Stringfield, who had heard of the case years earlier and was warned by the CIA in 1978 not to discuss Mexico, judged it authoritatively written.
+- The report, signed "JS", was posted to a bulletin board in 1992 (the UFO BBS archive preserved it as file "UFO3263"), then mailed anonymously to researchers in 1993. Leonard Stringfield, who had heard of the case years earlier and was warned by the CIA in 1978 not to discuss Mexico, judged it authoritatively written.
 
 > [!edit] Corrected 17 October 2026
 > Earlier versions said JS posted the report as file "UFO 3263". The number belongs to the UFO BBS archive that preserved the text (textfiles.com, ufo/UFOBBS/3000/3263.ufo).
@@ -681,6 +684,9 @@ entries:
 - Gerb weighs contamination from the disc, supported by precedents in the MJ-12 First Annual Report and an Interplanetary Phenomenon Unit summary report, against the possibility that the US team killed the Mexican soldiers, and leaves the question open.
 - A 2012 Wikipedia edit by "Mercy 11" named six retired American servicemen and four Mexican soldiers. The editor could not source them, and the page was deleted in 2014. Gerb's record searches neither confirm nor rule out the names.
 - Presidio residents reported a fireball over Mexico and military helicopters returning within a day. In March 2024 Mexican official Jesus Alberto claimed to have video of the crash but has not released it.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said JS posted the report as file "UFO 3263". The number is the file number of the UFO BBS archive that preserved the text (textfiles.com, ufo/UFOBBS/3000/3263.ufo).
 
 ## Sources
 
@@ -699,3 +705,5 @@ entries:
 - **Documents**: [[Denb Report]], [[Special Operations Manual (SOM 1-01)]], [[Stringfield Status Reports]], [[The Day After Roswell]]
 - **Operations**: [[Operation Laser Strike]], [[AATIP (Advanced Aerospace Threat Identification Program)]]
 - **Events**: [[1974 Coyame, Mexico UFO Crash Retrieval]], [[Peru UFO Crash Incident]], [[Roswell Crash]]
+
+[^gerb-corso-fort-bliss]: Gerb says "according to Corso debris and bodies from the 1947 Roswell crash were shipped to Fort Bliss Texas". In *The Day After Roswell* the crates Corso saw arrive at Fort Riley on 6 July 1947 were logged as coming from Fort Bliss and bound for Wright Field, so "to" is probably a slip for "from" ([archived 1997 review of the book](https://www.geocities.ws/server2/homestead/area51/Shadowlands/6583/roswell014.html)). In the interview played in the Corso video, Corso recalls being told the five trucks came "from an Airfield in in New Mexico".

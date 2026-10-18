@@ -21,18 +21,18 @@ Documented cases share a set of recurring physical traits that set USOs apart fr
 
 Official USO documentation is thin partly because of deliberate regulation, not a lack of reports. Two US directives in particular limited how much of a public USO record could build up:
 
-- [[OPNAV 3820]] (23 January 1954) limited the circulation of Navy UFO sightings to the Air Force Technical Intelligence Center, USAF Intelligence and the Director of Naval Intelligence. ATIC also ran [[Project Blue Book]], so the directive did not route reports away from it; Gerb blames OPNAV 3820 and JANAP 146C for how little maritime material Blue Book's files hold.
+- [[OPNAV 3820]] limited the circulation of Navy UFO sightings to the Air Force Technical Intelligence Center, USAF Intelligence and the Director of Naval Intelligence. A.F. Rullán's study of Blue Book's ship reports dates the first OPNAV 3820 instruction to 25 September 1952; Gerb describes a version of 23 January 1954 and says it cites JANAP 146c. ATIC also ran [[Project Blue Book]], so the directive did not route reports away from it. Researchers argue it kept maritime UAP reports in classified intelligence channels, and Gerb blames OPNAV 3820 and JANAP 146C for how little maritime material Blue Book's files hold.
 
 > [!edit] Corrected 17 October 2026
-> Earlier versions dated OPNAV 3820 "1952/1954". The directive is dated 23 January 1954; Gerb gives that date in his first USO video and says 1952 in his USO Case Book video.
+> Earlier versions dated OPNAV 3820 "1952/1954". Rullán ("Blue Book UFO Reports at Sea by Ships", NICAP, 2002) dates the first instruction to 25 September 1952; the 23 January 1954 version and its citation of JANAP 146c are Gerb's, from his first USO video, and he says 1952 in his USO Case Book video.
 
 > [!edit] Corrected 17 October 2026
-> Earlier versions said the directive sent maritime reports into classified channels instead of the public Project Blue Book investigation. Blue Book was an ATIC project, and ATIC is one of the directive's three recipients, so the contrast doesn't hold.
+> Earlier versions said the instruction sent Navy reports into classified channels "instead of" the public Project Blue Book investigation. Blue Book was run by the Air Technical Intelligence Center, one of the directive's three recipients, so the contrast doesn't hold (see the OPNAV 3820 page).
 
-- [[JANAP 146C]] (1954) barred military personnel and civilians from revealing official sighting reports. It placed "all persons aware of the contents or existence" of a CIRVIS or MERINT report under the Communications Act of 1934 and the Espionage Laws (18 U.S. Code 793 and 794), and prohibited "the unauthorized transmission or revelation" of their contents. The directive names no penalties; Gerb says violators faced a prison sentence and a $10,000 fine.
+- [[JANAP 146C]] (1954) barred "all persons aware of the contents or existence" of a CIRVIS or MERINT report, military or civilian, from revealing it. It placed them under the Communications Act of 1934 and the Espionage Laws (18 U.S. Code 793 and 794), and prohibited "the unauthorized transmission or revelation" of a report's contents. The directive names no penalties; Gerb says violators faced a prison sentence and a $10,000 fine.
 
-> [!edit] Attribution clarified 17 October 2026
-> This item used to say the directive carried criminal penalties that included fines and imprisonment, and that the ban covered civilians who had filed reports. JANAP 146(C) (Articles 210a and 308a) cites only the Communications Act of 1934 and 18 U.S.C. 793 and 794 and covers everyone aware of a report; the prison sentence and $10,000 fine are Gerb's, from [[Videos/USO - Unidentified Submerged Objects/summary|USO - Unidentified Submerged Objects]].
+> [!edit] Corrected 17 October 2026
+> This item used to say the ban covered military personnel and only those civilians who had filed official sighting reports, and that the directive carried criminal penalties including fines and imprisonment. JANAP 146(C) (Articles 210a and 308a) covers everyone aware of a report and cites only the Communications Act of 1934 and 18 U.S.C. 793 and 794; the prison sentence and $10,000 fine are Gerb's, from [[Videos/USO - Unidentified Submerged Objects/summary|USO - Unidentified Submerged Objects]].
 
 ::wiki-document
 ---
@@ -46,7 +46,7 @@ caption: "Article 308a, the security rule for MERINT reports from ships: everyon
 ::wiki-document
 ---
 name: "OPNAV 3820"
-caption: "The Chief of Naval Operations' directive requiring Navy \"flying object reports\" to go to the directors of ATIC, USAF Intelligence and Naval Intelligence, citing JANAP 146c as its authority."
+caption: "The Chief of Naval Operations' directive requiring Navy \"flying object reports\" to go to the directors of ATIC, USAF Intelligence and Naval Intelligence; Gerb says it cites JANAP 146c as its authority."
 ---
 ::
 
@@ -81,4 +81,5 @@ UAP researchers and government officials have argued that USOs may be the most s
 
 - [[USO Case Book - Unidentified Submerged Objects Throughout History]]
 - [[USO - Unidentified Submerged Objects]]
+- A.F. Rullán, "Blue Book UFO Reports at Sea by Ships: Analysis of the Blue Book Ship Database" (NICAP, 2002), section 2.4
 - [[Videos/The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs/summary|The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]

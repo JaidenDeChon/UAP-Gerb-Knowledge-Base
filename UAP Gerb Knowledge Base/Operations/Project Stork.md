@@ -4,7 +4,10 @@ tags:
   - operation
 ---
 
-Project Stork was a classified UFO investigation program that the [[Air Force Technical Intelligence Center]] (ATIC) contracted to [[Battelle Memorial Institute]] beginning in 1952. It ran in parallel to the publicly acknowledged [[Project Blue Book]], and its purpose was independent, non-public analysis of official UFO sighting reports. Blue Book was mainly a public-facing operation for managing information. Project Stork was a separate analytical track, run by a contractor, with access to all of the Air Force's UFO case files.
+Project Stork was a classified UFO investigation program that the [[Air Force Technical Intelligence Center]] (ATIC) contracted to [[Battelle Memorial Institute]] beginning in 1952. It ran in parallel to the publicly acknowledged [[Project Blue Book]], and its purpose was independent, non-public analysis of official UFO sighting reports. Gerb treats Blue Book as mainly a public-facing operation for managing information, and Project Stork as a separate analytical track, run by a contractor, with access to all of the Air Force's UFO case files.
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions stated in the page's own voice that Blue Book was mainly a public-facing operation for managing information. That is Gerb's characterization, from his videos on Battelle and the origin of the UFO stigma.
 
 ## Origins and Purpose
 

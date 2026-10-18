@@ -242,7 +242,7 @@ events:
   - date: "2006"
     title: "GAO report on the Army's guard program"
     cue: 2503
-    summary: "A 2006 General Accounting Office report, 'Army's Guard Program Requires Greater Oversight and Reassessment of Acquisition Approach', covers the contract guards the Army hired after 9/11 through sole-source contracts. It shows Dugway used Chenega Integrated Systems."
+    summary: "A 2006 Government Accountability Office report (Gerb calls it the General Accounting Office, the agency's name until July 2004), 'Army's Guard Program Requires Greater Oversight and Reassessment of Acquisition Approach', covers the contract guards the Army hired after 9/11 through sole-source contracts. It shows Dugway used Chenega Integrated Systems."
     category: document
     significance: notable
     entities:

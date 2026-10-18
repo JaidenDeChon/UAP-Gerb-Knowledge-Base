@@ -12,6 +12,7 @@ export const CATEGORY_VAR: Record<Category, string> = {
   Concepts: '--graph-cat-concepts',
   Documents: '--graph-cat-documents',
   Videos: '--graph-cat-videos',
+  Analyses: '--graph-cat-analyses',
 }
 
 /** Category -> its display label, for legends/chips that need one. */
@@ -26,6 +27,7 @@ export const CATEGORY_LABEL: Record<Category, string> = {
   Concepts: 'Concepts',
   Documents: 'Documents',
   Videos: 'Videos',
+  Analyses: 'Analyses',
 }
 
 /** Resolve a category to its `hsl(var(...))` tint, falling back when undefined. */
@@ -92,7 +94,7 @@ export function timelineLabel(category?: string): string {
 /* ============================================================
    Full-strength marks vs. low-alpha surfaces
    ------------------------------------------------------------
-   The 8 graph-cat-* colours were tuned as node fills on the graph
+   The 9 graph-cat-* colours were tuned as node fills on the graph
    canvas, not as tints sitting behind body copy. Used at full
    strength as a card background they read as loud, and for two
    categories (Concepts, Videos) they fail contrast outright against
@@ -108,9 +110,14 @@ export function timelineLabel(category?: string): string {
        not the surface text sits on.
      - `*Surface` / `*SurfaceHover`: low alpha, meant to be composited
        over `--card`. Verified to hold >= 4.5:1 contrast between
-       `--foreground` and the composited surface for all 8 categories
+       `--foreground` and the composited surface for all 9 categories
        x all 4 themes (worst case measured: 6.76:1, dim theme). A
        caller asking for `surface` does not need to think about alpha.
+
+   Analyses (amber, added later) was picked to keep both rules: its
+   surface measures 9.59:1 at worst (dim), and unlike Concepts and
+   Videos its mark clears 3:1 against `--card` in every theme (worst
+   3.50:1, light), so it is safe as an icon or dot on a light card.
    ============================================================ */
 
 /** Alpha for a low-alpha surface tint, safe as a background behind body text. */

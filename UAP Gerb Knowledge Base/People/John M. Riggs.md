@@ -10,7 +10,7 @@ John M. Riggs is a retired United States Army officer. He enlisted in 1965, rose
 
 ## Military Career
 
-Riggs enlisted in the US Army in 1965 and was commissioned as a second lieutenant in 1969 after Infantry Officer Candidate School at Fort Benning. He flew helicopters on a combat tour in Vietnam and earned the Distinguished Flying Cross; Gerb credits him with about 1,000 flight hours. He rose to lieutenant general (three stars), held senior roles that included work with Congress, and was assistant division commander of the 3rd Infantry Division in Germany. In 2004 the Army cited misuse of contractors when it removed him; he lost a star and retired as a major general. Supporters argued the real reason was his public criticism of troop levels for Afghanistan and Iraq. After retiring he worked as an aviation and strategic defense consultant, and in 2006 he joined other retired generals in calling for Defense Secretary Donald Rumsfeld's resignation.
+Riggs enlisted in the US Army in 1965 and was commissioned as a second lieutenant in 1969 after Infantry Officer Candidate School at Fort Benning.[^riggs-commission] He flew helicopters on a combat tour in Vietnam and earned the Distinguished Flying Cross; Gerb credits him with about 1,000 flight hours. He rose to lieutenant general (three stars), held senior roles that included work with Congress, and was assistant division commander of the 3rd Infantry Division in Germany. In 2004 the Army cited misuse of contractors when it removed him; he lost a star and retired as a major general. Supporters argued the real reason was his public criticism of troop levels for Afghanistan and Iraq. After retiring he worked as an aviation and strategic defense consultant, and in 2006 he joined other retired generals in calling for Defense Secretary Donald Rumsfeld's resignation.
 
 ## Alleged UAP Involvement
 
@@ -41,3 +41,5 @@ If either the TB testimony or the whistleblower identification is accurate, Rigg
 
 - [[Videos/US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction/summary|US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction]]
 - [[Videos/Off-World Technologies Division – UAP Technology Reverse Engineering/summary|Off-World Technologies Division – UAP Technology Reverse Engineering]]
+
+[^riggs-commission]: Gerb gives the 1969 commission in his Special Forces video. The date also appears on a plaque honouring Riggs ([Read the Plaque](https://readtheplaque.com/plaque/general-john-m-riggs)), which names Infantry Officer Candidate School at Fort Benning, and in his [Wikipedia](https://en.wikipedia.org/wiki/John_M._Riggs) biography, which gives no citation for it. No official Army biography confirming it was found.

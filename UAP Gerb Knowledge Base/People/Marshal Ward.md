@@ -9,7 +9,10 @@ Herbert Marshal Ward is a retired U.S. Air Force Major General. His final active
 
 ## The Wilson-Davis Memo
 
-According to the [[Wilson-Davis Memo]], Ward and Secretary of Defense [[Bill Perry]] advised Vice Admiral [[Thomas Wilson]] in 1997 to examine records held within the Office of the Under Secretary of Defense for Acquisition and Technology (OUSD(AT)) as part of Wilson's investigation into a crash retrieval and reverse engineering program. Both Ward and Perry reportedly told Wilson of a "special project records group not belonging to usual special access programs": a special subset of unacknowledged carve-outs and waived programs organized in 1994 under Perry's SAP reforms.
+According to the [[Wilson-Davis Memo]], Ward and former Secretary of Defense [[Bill Perry]], who had left office in January 1997, advised Vice Admiral [[Thomas Wilson]] in 1997 to examine records held within the Office of the Under Secretary of Defense for Acquisition and Technology (OUSD(AT)) as part of Wilson's investigation into a crash retrieval and reverse engineering program. Both Ward and Perry reportedly told Wilson of a "special project records group not belonging to usual special access programs": a special subset of unacknowledged carve-outs and waived programs organized in 1994 under Perry's SAP reforms.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions called Perry Secretary of Defense when he advised Wilson in 1997. Perry left that office on 23 January 1997, and the notes do not give him the title, so he is now described as the former Secretary.
 
 ::wiki-document
 ---

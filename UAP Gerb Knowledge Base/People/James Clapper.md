@@ -185,7 +185,7 @@ entries:
 
 In public statements, [[David Grusch]] has tied Clapper to the programs more directly than almost anyone else in the UAP disclosure field. He said: "General Clapper was well aware of the crash retrieval issue, managed the crash retrieval issue, and when he was the DNI, he placed people in critical roles to manage this issue both publicly and I'll just say not publicly as well." Grusch asked Clapper, O'Sullivan, and others "in rooms discussing this issue" to provide greater public leadership.
 
-Within the program portfolio held by the National Security Council (NSC), Clapper is alleged to have provided "top cover" for the AATIP program as a partial transparency initiative, a controlled attempt to speak about the UFO issue "outside the onion". He allegedly did this while also managing the larger, undisclosed legacy portfolio.
+Within the program portfolio held by the National Security Council (NSC), Clapper is alleged to have provided "top cover" for the AATIP program as a partial transparency initiative, a controlled attempt to speak about the UFO issue "outside the onion".[^gerb-clapper-usdi-tenure] He allegedly did this while also managing the larger, undisclosed legacy portfolio.
 
 In Gerb's account Clapper held a role with "remarkably less power" than Cheney, and Gerb counts the loss of that oversight after he left in 2017 as one reason the programs are ungoverned today. He says that at any given time, slightly over two dozen living people have any idea of the full breadth of the siloed UFO programs.
 
@@ -209,3 +209,5 @@ In his Lockheed Martin video Gerb recalls, "off the top of my head", that Clappe
 - [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
 - [[Videos/The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs/summary|The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]
 - [[Videos/Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/summary|Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
+
+[^gerb-clapper-usdi-tenure]: Gerb says Clapper may have given cover to AATIP and Luis Elizondo "in his tenure from 2010 to 2017 as USDI", but 2010 to 2017 were Clapper's years as Director of National Intelligence, as Gerb says elsewhere in the same video; he was Under Secretary of Defense for Intelligence from 2007 to 2010 ([Wikipedia](https://en.wikipedia.org/wiki/James_Clapper); [official biography, via Government Executive](https://cdn.govexec.com/media/syndication/SUMMIT15/Clapper.pdf)). The title is probably a slip for DNI.

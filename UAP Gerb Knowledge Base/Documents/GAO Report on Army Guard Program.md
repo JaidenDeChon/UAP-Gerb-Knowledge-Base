@@ -15,3 +15,7 @@ In April 2006 the Government Accountability Office published GAO-06-284, *Contra
 
 > [!edit] Corrected 16 October 2026
 > Earlier versions called it a General Accounting Office report on contracted security at Dugway. By 2006 the office was the Government Accountability Office, and the report covers the Army's guard program as a whole, with Dugway one entry in a table.
+
+## Sources
+
+- [[Videos/Dugway Proving Ground - UFO Legacy Programs/summary|Dugway Proving Ground - UFO Legacy Programs]]

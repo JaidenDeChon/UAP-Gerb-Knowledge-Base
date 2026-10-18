@@ -177,7 +177,7 @@ entries:
 
 ## Parallel Investigations
 
-In Gerb's account, Ruppelt concluded as director that UFOs had an "interplanetary explanation", and on 24 April 1952 suggested that programs parallel to the official investigation were "conducting a more complete investigation". Dr. [[J. Allen Hynek]], Blue Book's scientific adviser, likewise said that other classified programs were studying UFOs alongside Blue Book. In *MOON DUST*, Gerb suggests that one of these could have been an inconspicuous crash retrieval program, "one that unless you look hard enough you'll never know existed": [[Project Moon Dust]], first mentioned in a 1961 Air Force draft policy that proposed giving the [[USAF 1127th Field Activities Group]] collection duties for UFOs.
+In Gerb's account, Ruppelt concluded as director that UFOs had an "interplanetary explanation", and on 24 April 1952 suggested that programs parallel to the official investigation were "conducting a more complete investigation".[^gerb-ruppelt-date] Dr. [[J. Allen Hynek]], Blue Book's scientific adviser, likewise said that other classified programs were studying UFOs alongside Blue Book. In *MOON DUST*, Gerb suggests that one of these could have been an inconspicuous crash retrieval program, "one that unless you look hard enough you'll never know existed": [[Project Moon Dust]], first mentioned in a 1961 Air Force draft policy that proposed giving the [[USAF 1127th Field Activities Group]] collection duties for UFOs.
 
 Ruppelt's book doesn't present the interplanetary conclusion as his own. It is the conclusion of Project Sign's 1948 [[Project Sign Estimate of the Situation (1948)|Estimate of the Situation]], written three years before he joined the project (see below).
 
@@ -226,3 +226,5 @@ Ruppelt wrote of the 1 October 1948 [[Gorman Dogfight]] over [[Fargo, North Dako
 - [[Videos/National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers/summary|National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers]]
 - [[Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/summary|Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2]]
 - [[Videos/The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs/summary|The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs]]
+
+[^gerb-ruppelt-date]: Gerb says "on the 24th of April 1952 ruple suggested programs parallel to the official USG investigation where quote conducting a more complete investigation", but 24 April 1952 is the date of the AFOIN-X-SG letter on submarine contacts that he reads in [[Videos/USO - Unidentified Submerged Objects/summary|USO]], where he cites the same Ruppelt remark without a date, so the date has probably carried over from the letter. No dated source for the remark was found online.

@@ -4,6 +4,7 @@ import type { WikiPage } from '@/utils/content'
 import { ChevronRight } from '@lucide/vue'
 import { Badge } from '@/components/ui/badge'
 import { Separator } from '@/components/ui/separator'
+import { readAnalysisMeta } from '@/utils/analysis'
 import { firstParagraph, firstSentence, hasTocRail } from '@/utils/content'
 import { warmContentComponents } from '@/utils/warmContentComponents'
 
@@ -81,6 +82,22 @@ const isPerson = computed(() => category.value === 'People')
 const videoTitle = computed(() => (page.value ? videoTitleFromStem(page.value.stem) : null))
 
 /**
+ * An analysis gets a strip under its title (kind, confidence, novelty, date
+ * and what an analysis is) in place of the fact table, and its `dek:` as the
+ * lead. Read from frontmatter, hoisted to a column or left in `meta`.
+ */
+const isAnalysis = computed(() => category.value === 'Analyses')
+function readFrontmatter(key: string): unknown {
+  const note = page.value as unknown as Record<string, unknown> | null
+  const meta = page.value?.meta as Record<string, unknown> | undefined
+  return note?.[key] ?? meta?.[key]
+}
+const analysis = computed(() => {
+  if (!isAnalysis.value || !page.value) return null
+  return readAnalysisMeta(readFrontmatter)
+})
+
+/**
  * A video's summary note gets the feature treatment: the hero title card in
  * place of the plain header + fact table, numbered chapters, a reading
  * progress line, and the local map moved below the body so the page opens
@@ -115,6 +132,7 @@ const CATEGORY_SELF_TAG: Partial<Record<Category, string>> = {
   Videos: 'video',
   Operations: 'operation',
   MOCs: 'moc',
+  Analyses: 'analysis',
 }
 
 const tags = computed<string[]>(() => {
@@ -128,7 +146,11 @@ const article = computed<{ lead: string, doc: WikiPage | null }>(() => {
   if (!page.value) return { lead: '', doc: null }
   // The video hero shows only the lead's first sentence, so a feature page
   // keeps the whole paragraph in its body rather than losing the rest of it.
-  const { lead, value } = splitLead(page.value.body, page.value.description, { keepParagraph: isFeature.value })
+  // An analysis's dek stands in for the lead; its opening paragraph stays put.
+  const dek = analysis.value?.dek
+  const { lead, value } = dek
+    ? splitLead(page.value.body, dek, { keepParagraph: true })
+    : splitLead(page.value.body, page.value.description, { keepParagraph: isFeature.value })
   return { lead, doc: { ...page.value, body: { ...page.value.body, value } } }
 })
 
@@ -236,12 +258,14 @@ const articleClass = computed(() => hasRail.value
               {{ page.title }}
             </h1>
 
+            <WikiAnalysisStrip v-if="analysis" :meta="analysis" />
+
             <p v-if="article.lead" class="mb-7 font-sans text-[20px] leading-[30px] text-muted-foreground">
               {{ article.lead }}
             </p>
           </div>
 
-          <WikiFactTable :page="page" />
+          <WikiFactTable v-if="!isAnalysis" :page="page" />
 
           <WikiTranscriptionLink v-if="noteDocument" :document="noteDocument" />
 
@@ -366,6 +390,57 @@ const articleClass = computed(() => hasRail.value
   letter-spacing: 0.14em;
   line-height: 1;
   color: hsl(var(--primary));
+}
+
+/* GFM footnotes (remark-gfm's markup: see "Footnotes" in
+   docs/wiki-components.md). The marker is a small mono numeral that keeps
+   the line box steady (`line-height: 0` on the <sup>) and takes the global
+   focus ring; its padding widens the tap target a little. */
+.wiki-prose :deep(sup:has(> a[data-footnote-ref])) {
+  line-height: 0;
+}
+.wiki-prose :deep(a[data-footnote-ref]) {
+  margin-inline-start: 1px;
+  padding: 0 2px;
+  border-radius: 3px;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 600;
+}
+/* The section closes the note as small print, like the rail's "On this page"
+   label: a hairline, a mono label and muted 14px notes. remark-gfm marks the
+   label `sr-only`; it is shown here instead, and kept out of the TOC at parse
+   time (wiki/toc.ts). On a feature page it takes no chapter number. */
+.wiki-prose :deep(section[data-footnotes]) {
+  @apply mt-12 border-t border-border pt-5;
+}
+.wiki-prose :deep(section[data-footnotes] > h2) {
+  @apply not-sr-only m-0 mb-3 border-0 p-0 font-mono text-[11px] font-semibold uppercase leading-4 tracking-[0.12em] text-muted-foreground;
+}
+.wiki-prose.is-feature :deep(section[data-footnotes] > h2) {
+  counter-increment: none;
+}
+.wiki-prose.is-feature :deep(section[data-footnotes] > h2)::before {
+  content: none;
+}
+.wiki-prose :deep(section[data-footnotes] ol) {
+  @apply my-0 list-decimal space-y-2 pl-5;
+}
+.wiki-prose :deep(section[data-footnotes] li) {
+  @apply rounded-sm text-[14px] leading-[22px] text-muted-foreground marker:font-mono marker:text-[12px];
+  overflow-wrap: anywhere;
+}
+/* Whichever end of the pair was just jumped to is tinted, so it's found at once. */
+.wiki-prose :deep(section[data-footnotes] li:target),
+.wiki-prose :deep(a[data-footnote-ref]:target) {
+  background: hsl(var(--primary) / 0.12);
+}
+.wiki-prose :deep(a[data-footnote-backref]) {
+  margin-inline-start: 2px;
+  padding: 0 3px;
+  border-radius: 3px;
+  font-family: var(--font-mono);
+  font-variant-emoji: text;
 }
 
 /*

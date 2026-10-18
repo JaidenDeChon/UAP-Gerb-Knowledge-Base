@@ -75,7 +75,10 @@ Willingham put these discrepancies down to memory problems from his Korean War h
 
 ### The Condon Report Case 5
 
-The [[Condon Report]], a 1969 study funded by the Air Force and designed to debunk UFO phenomena, includes a case from September 19, 1957 (Case 5) that also involved an aircraft based at [[Carswell Air Force Base]]. A large, bright fireball that alternated between red and white pursued an RB-47 for over 600 miles. Several radar systems and the aircraft's own electronic countermeasures equipment detected it. When the plane landed, intelligence personnel removed all of the graphic and radar data. The case shows a pattern of UFO encounters involving Carswell-based aircraft, followed by the confiscation of data.
+The [[Condon Report]], a 1969 study funded by the Air Force and designed to debunk UFO phenomena, includes a 1957 RB-47 case (Case 5). Gerb dates it to 19 September 1957 and says it was "also from [[Carswell Air Force Base]]," but the aircraft belonged to the 55th Strategic Reconnaissance Wing at Forbes Air Force Base in Topeka, Kansas, and Blue Book records date the flight to 17 July 1957. A large, bright fireball that alternated between red and white pursued the RB-47 for over 600 miles. Several radar systems and the aircraft's own electronic countermeasures equipment detected it. When the plane landed, intelligence personnel removed all of the graphic and radar data. Gerb sees the case as part of a pattern of UFO encounters involving Carswell-based aircraft, followed by the confiscation of data.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said the Case 5 RB-47 was Carswell-based and flew on 19 September 1957, and stated the Carswell pattern as fact. The aircraft flew from Forbes AFB, Kansas, on 17 July 1957 (The Black Vault, "Project Blue Book: The RB-47 UFO Incident"; Patrick Gross, "RB-47"); the Carswell link and the September date are Gerb's.
 
 ::wiki-document
 ---

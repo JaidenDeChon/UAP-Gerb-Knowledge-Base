@@ -6,11 +6,14 @@ tags:
   - person
 ---
 
-William A. Owens is a retired U.S. Navy admiral who served as Vice Chairman of the Joint Chiefs of Staff in the mid-1990s and then moved into the defense and technology industry, including a senior executive role at [[SAIC]]. In Gerb's reading of the [[Wilson-Davis Memo|Wilson-Davis notes]], Owens was a permanent member of the restructured [[SAPOC (Special Access Program Oversight Committee)|Special Access Program Oversight Committee]] (SAPOC), which allegedly kept Vice Admiral [[Thomas Wilson]] out of a UFO legacy program. He was also one of two SAIC alumni among the six SAPOC figures Wilson dealt with.
+William A. Owens is a retired U.S. Navy admiral who served as Vice Chairman of the Joint Chiefs of Staff in the mid-1990s and then moved into the defense and technology industry, including a senior executive role at [[SAIC]]. In Gerb's reading of the [[Wilson-Davis Memo|Wilson-Davis notes]], Owens was a permanent member of the restructured [[SAPOC (Special Access Program Oversight Committee)|Special Access Program Oversight Committee]] (SAPOC), which allegedly kept Vice Admiral [[Thomas Wilson]] out of a UFO legacy program. Gerb also counts him as one of two SAIC alumni among six SAPOC members.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said Owens was one of the six SAPOC figures Wilson dealt with. Gerb never says Wilson dealt with Owens; he names Kostelnik and Kaminski as the SAPOC members Wilson spoke to.
 
 ## Career
 
-Before becoming Vice Chairman, Owens served as senior military assistant to Secretary of Defense [[Dick Cheney]]. After leaving the Navy he joined SAIC; the UAP Gerb video describes him as the company's chief executive.
+Before becoming Vice Chairman, Owens served as senior military assistant to Secretary of Defense [[Dick Cheney]]. He was Vice Chairman of the Joint Chiefs of Staff from 1994 to 1996, which is the period he sat on SAPOC. After retiring from the Navy he joined SAIC in March 1996 as president, chief operating officer and vice chairman, and left in 1998 for the satellite venture Teledesic; the UAP Gerb video describes him as SAIC's chief executive.[^gerb-owens-saic-dates]
 
 ## Alleged role as a gatekeeper
 
@@ -19,3 +22,5 @@ Gerb's SAIC investigation places Owens on SAPOC after the January 1994 restructu
 ## Sources
 
 - [[Videos/UFO Legacy Programs - Science Applications International Corporation (SAIC)/summary|UFO Legacy Programs - Science Applications International Corporation (SAIC)]]
+
+[^gerb-owens-saic-dates]: Gerb counts Owens among the "former SIC alumni" on SAPOC and says he "served as the CEO for SIC". Owens sat on SAPOC as Vice Chairman of the Joint Chiefs (1994 to 1996, per a [November 1994 DoD bulletin](https://sgp.fas.org/othergov/sapoc.html)) and joined SAIC only after retiring from the Navy in 1996, as president, chief operating officer and vice chairman rather than CEO, leaving in 1998 ([Nextgov, July 1998](https://www.nextgov.com/digital-government/1998/07/intercepts/227594/); [Wipro board biography](https://wipro.com/leadership/william-arthur-owens)).

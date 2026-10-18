@@ -114,7 +114,7 @@ events:
   - date: "1954-01-23"
     title: "Navy issues OPNAV 3820"
     cue: 369
-    summary: "The Office of the Chief of Naval Operations directive required UAP sightings, called 'flying object reports', to go to the directors of ATIC, USAF Intelligence and Naval Intelligence. A copy appears in Donald Keyhoe's The Flying Saucer Conspiracy, and it cites JANAP 146c directly."
+    summary: "The Office of the Chief of Naval Operations directive required UAP sightings, called 'flying object reports', to go to the directors of ATIC, USAF Intelligence and Naval Intelligence. Gerb gives this date and says a copy in Donald Keyhoe's The Flying Saucer Conspiracy cites JANAP 146c directly, though JANAP 146(C) was not issued until 10 March 1954. A.F. Rullán dates the first OPNAV 3820 instruction to 25 September 1952."
     category: policy
     significance: major
     entities:
@@ -290,7 +290,10 @@ Gerb spends some time on who sent the letter. AFOIN was the Air Force Office of 
 
 Gerb argues that three rules, issued within about a year of each other, closed this early record and began what he calls "the slow descent into the dark ages of UFO reporting", the era of swamp gas and weather-balloon explanations.
 
-[[USAF Regulation 200-2]] is the Air Force rule Gerb says he cites in nearly every video. [[OPNAV 3820]] was the Navy's directive from the Office of the Chief of Naval Operations; a copy appears in Donald Keyhoe's *The Flying Saucer Conspiracy*, and it cites JANAP 146c directly. [[JANAP 146c]], the joint Army, Navy and Air Force publication, was the one that also covered sightings at sea. Its penalties came under the Communications Act of 1934 and the espionage laws.
+[[USAF Regulation 200-2]] is the Air Force rule Gerb says he cites in nearly every video. [[OPNAV 3820]] was the Navy's directive from the Office of the Chief of Naval Operations; Gerb dates it to 23 January 1954 and says the copy in Donald Keyhoe's *The Flying Saucer Conspiracy* cites JANAP 146c directly, although JANAP 146(C) is dated 10 March 1954. [[JANAP 146c]], the joint Army, Navy and Air Force publication, was the one that also covered sightings at sea. Its penalties came under the Communications Act of 1934 and the espionage laws.
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions stated as fact that OPNAV 3820 cites JANAP 146c. That is Gerb's reading of Keyhoe's copy, and the January 1954 date he gives predates JANAP 146(C) of 10 March 1954; A.F. Rullán's NICAP study of Blue Book ship reports (2002) dates the first OPNAV 3820 instruction to 25 September 1952.
 
 ::wiki-document
 ---
@@ -316,7 +319,7 @@ subjects:
   - name: "USAF Regulation 200-2"
     note: "Air Force, 1953"
   - name: "OPNAV 3820"
-    note: "Navy, 23 Jan 1954"
+    note: "Navy, 23 Jan 1954 (Gerb's date)"
   - name: "JANAP 146c"
     note: "Joint Army, Navy and Air Force, 1954"
 rows:
@@ -334,7 +337,7 @@ rows:
     cells:
       - ""
       - ""
-      - { text: "Barred from discussing reported sightings; prison and a $10,000 fine", cue: 338 }
+      - { text: "Barred from discussing reported sightings; Gerb cites prison and a $10,000 fine", cue: 338 }
 ---
 ::
 
@@ -494,13 +497,13 @@ entries:
 - Project Interloper (1951), a joint USAF-Navy investigation of aerial and undersea UAP led by Blue Book member Dewey Fett, was run outside FOIA, briefed the CIA in 1953, and never reported to Congress; only three case files survive.
 - A 24 April 1952 letter from AFOIN-X-SG forwarded nine reports of submarine contacts with flying discs, compiled with the Office of Naval Intelligence; Gerb argues AFOIN's special group was a real secret UFO investigation body, and CUFON's 1979 FOIA requests about it were denied on national security grounds.
 - Researcher Leonard Stringfield was told of thousands of ONI UAP reports filed between 1952 and 1956.
-- In Gerb's account, USAF Regulation 200-2 (1953), OPNAV 3820 (23 January 1954) and JANAP 146c (1954) together removed military and maritime sightings from public view; he says 200-2 sent all official reports to ATIC "and not Blue Book". The regulation never mentions Blue Book, and its paragraph 8 still let a base's public information officer release a sighting's location, time, date and description, without the names of witnesses, Air Force comments, intercept details or classified radar data; JANAP 146c explicitly covered waterborne sightings and barred witnesses from discussing them, citing the Communications Act of 1934 and the Espionage Laws. Gerb puts the penalty at prison and a $10,000 fine; the directive names no penalty.
+- In Gerb's account, USAF Regulation 200-2 (1953), OPNAV 3820 (which he dates to 23 January 1954) and JANAP 146c (10 March 1954) together removed military and maritime sightings from public view; he says 200-2 sent all official reports to ATIC "and not Blue Book". The regulation never mentions Blue Book, and its paragraph 8 still let a base's public information officer release a sighting's location, time, date and description, without the names of witnesses, Air Force comments, intercept details or classified radar data; JANAP 146c explicitly covered waterborne sightings and barred witnesses from discussing them, citing the Communications Act of 1934 and the Espionage Laws. Gerb puts the penalty at prison and a $10,000 fine; the directive names no penalty.
 
 > [!edit] Attribution clarified 17 October 2026
-> This item used to give prison and a $10,000 fine as the directive's penalty. JANAP 146(C) cites only the Communications Act of 1934 and 18 U.S.C. 793 and 794; the figures are Gerb's.
+> Earlier versions stated as fact that JANAP 146c threatened witnesses with prison and a $10,000 fine. The figures are Gerb's; the directive (Articles 210 and 308) cites only the Communications Act of 1934 and 18 U.S.C. 793 and 794 and names no penalty.
 
 > [!edit] Attribution clarified 17 October 2026
-> Earlier versions stated as fact that the three rules removed sightings from public view. That is Gerb's account; the item now gives his claim about ATIC and Blue Book as his, and says what Regulation 200-2's own text provides (see its transcription).
+> Earlier versions stated as fact that the three rules removed sightings from public view and dated OPNAV 3820 to 23 January 1954. That is Gerb's account; the item now gives his date and his claim about ATIC and Blue Book as his, dates JANAP 146c from its own text, and says what Regulation 200-2's own text provides (see their transcriptions).
 
 - A source at NARCAP told Jacques Vallée in 1985 that a large collection of UFO and USO files was stored at Norton Air Force Base.
 - A senior naval figure allegedly confirmed to Mark Dantonio that USOs are common and that a program exists to classify and log them.
@@ -515,6 +518,7 @@ entries:
 ## Sources
 
 - [YouTube](https://www.youtube.com/watch?v=U-jrx_giINA) — UAP Gerb
+- A.F. Rullán, "Blue Book UFO Reports at Sea by Ships: Analysis of the Blue Book Ship Database" (NICAP, 2002), nicap.org/navy/bbpdf.pdf
 
 ## Related Pages
 

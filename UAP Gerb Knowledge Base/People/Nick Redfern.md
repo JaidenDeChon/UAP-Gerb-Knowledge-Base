@@ -13,7 +13,7 @@ Nick Redfern is an English-born author and UFO researcher, born in 1964 in Pelsa
 The [[Denb Report]] is an anonymous memo describing the [[1974 Coyame, Mexico UFO Crash Retrieval]]. It is dated 23 March 1992 and addressed from "[[JS (Denb Report Author)|JS]]" to "All Deneb Team Members". It first appeared in 1992 on an electronic bulletin board, and in early summer 1993 paper copies were mailed anonymously to researchers including Redfern and [[Elaine Douglas]]. Douglas passed the originals to [[Leonard Stringfield]], who discussed the report in his [[Stringfield Status Reports|crash-retrieval status reports]]. Gerb compares the anonymous mailing with the way the [[MJ-12 Documents]] surfaced in the 1980s.
 
 > [!edit] Corrected 17 October 2026
-> Earlier versions gave the addressee as "all Denb team members", as Gerb reads it. The text is addressed "To: All Deneb Team Members".
+> Earlier versions gave the addressee as "all Denb team members", as Gerb reads it. The text is addressed "To: All Deneb Team Members" (see [[Denb Report]]).
 
 ::wiki-document
 ---

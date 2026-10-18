@@ -206,7 +206,7 @@ events:
   - date: "1957-09-19"
     title: "RB-47 chased 600 miles by a fireball (Condon Report Case 5)"
     cue: 485
-    summary: "A large fireball alternating red and white followed a Carswell-based USAF RB-47 for more than 600 miles, seen by the crew and tracked by ground radar, the aircraft's radar and its ECM gear at 2,800 megacycles. The report says the light appeared to the pilot to be 'a glowing body as big as a barn'; Gerb reads this as a quote from pilot Lewis D. Chase, whom the report does not name. Intelligence personnel removed the ECM and radar data on landing. Gerb cites it because no record of Willingham's 1955 sighting exists."
+    summary: "In Gerb's account, which he dates to 19 September 1957 and ties to Carswell, a large fireball alternating red and white followed a USAF RB-47 for more than 600 miles, seen by the crew and tracked by ground radar, the aircraft's radar and its ECM gear at 2,800 megacycles, and intelligence personnel removed the data on landing. The published Case 5 dates it only to fall 1957, names no base or crew, says the light appeared to the pilot to be 'a glowing body as big as a barn' (Gerb reads this as a quote from pilot Lewis D. Chase), and concludes the data 'apparently never existed'. Later accounts date the flight to 17 July 1957 from Forbes AFB, Kansas. Gerb cites it because no record of Willingham's 1955 sighting exists."
     category: event
     significance: notable
     entities:
@@ -406,13 +406,16 @@ On a spring day in 1955, Willingham and other F-86 pilots flew out of [[Carswell
 
 No record of the 1955 sighting survives, so Gerb sets it beside three other episodes:
 
-- Case 5 of the Condon Report, from 19 September 1957, describes how a fireball alternating red and white followed a Carswell-based RB-47 for more than 600 miles. The crew saw it, Carswell radar and the aircraft's radar tracked it, and the ECM equipment registered a strong signal at 2,800 megacycles. The report says the light "appeared to the pilot to be a glowing body as big as a barn"; Gerb presents this as a quote from the pilot, Lewis D. Chase, whom the report's narrative does not name. According to the [[Condon Report]], intelligence personnel removed the ECM and radar data on landing. Gerb shows the original CIA report of the incident.
+- Case 5 of the [[Condon Report]], which Gerb dates to 19 September 1957 and calls "also from Carswell Air Force Base". In his telling a fireball alternating red and white followed an RB-47 for more than 600 miles; the crew saw it, "Carswell radar" and the aircraft's radar tracked it, and the ECM equipment registered a strong signal at 2,800 megacycles. He quotes the report's line that the light appeared to the pilot, whom he names as Lewis D. Chase, to be "a glowing body as big as a barn"; the report's narrative does not name the pilot. He says the report detailed how intelligence personnel removed the ECM and radar data on landing, and shows what he calls the original CIA report of the incident.
 
 > [!edit] Corrected 17 October 2026
 > Earlier versions said Chase described the light as "a glowing body as big as a barn". The words are the Condon Report's own narrative (volume 1, Case 5), which does not name the pilot; Gerb introduces them as a quote from Chase.
 
 - On 14 May 1954, about six miles west of Dallas, Marine reserve jets led by Major Charles Scarborough saw 16 objects in groups of four, alternating white and orange. The objects outran the pilots' attempt to box them in.
 - On 18 July 1955, months after the encounter, an unclassified document answered a request from the commander of USAF Security Service in San Antonio for UFO sighting data from the Northeast Air Command and the northwestern United States, specifically from B-47s. Gerb allows this may be coincidence.
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions stated as fact that Condon Case 5 dates from 19 September 1957, involved a Carswell-based RB-47 piloted by Lewis D. Chase, and that intelligence personnel removed its data. The published Case 5 (NCAS online text) dates it only "Fall 1957", says "a B-47", names no base or crew, and records the data removal only as the pilot's disputed recollection, concluding the data "apparently never existed"; later accounts date the flight to 17 July 1957 from Forbes AFB, Kansas.
 
 ### At the wreck
 
@@ -505,7 +508,7 @@ caption: "The disputed MJ-12 briefing paper dated 18 November 1952, which descri
 
 ### 6 December 1950
 
-Gerb calls the date "a key date". At 10:30 am Eastern time that day, a nationwide alert warned of a "large number of unidentified aircraft approaching northeastern US at high altitude", with interceptors being dispatched and "no reason to believe they are friendly". The document counts about 40 signatures at 32,000 feet. [[General Ramey]], the same general as at Roswell, cancelled the alert at 1316 hours. On 8 December a confidential memo to [[J. Edgar Hoover]] about flying saucers said Army intelligence had been put on high alert for any data on flying discs. Gerb asks whether the memo concerns the alert or a crash retrieval. He notes that the [[Hottel Memo]] shows the FBI discussing crash retrievals and bodies the same year. Todd Zechel reportedly obtained a declassified USAF document saying the military recovered a foreign object on 6 or 7 December 1950 and took it to Carswell. Since no proof of that document has been produced, Gerb leaves it out of the case.
+Gerb calls the date "a key date". At 10:30 am Eastern time that day, a nationwide alert warned of a "large number of unidentified aircraft approaching northeastern US at high altitude", with interceptors being dispatched and "no reason to believe they are friendly". The document counts about 40 signatures at 32,000 feet. [[General Ramey]], the same general as at Roswell, cancelled the alert at 1316 hours. On 8 December a confidential memo to [[J. Edgar Hoover]] about flying saucers said Army intelligence had been put on high alert for any data on flying discs. Gerb asks whether the memo concerns the alert or a crash retrieval. He notes that the [[Hottel Memo]] shows the FBI discussing crash retrievals and bodies the same year.[^gerb-hottel-date] Todd Zechel reportedly obtained a declassified USAF document saying the military recovered a foreign object on 6 or 7 December 1950 and took it to Carswell. Since no proof of that document has been produced, Gerb leaves it out of the case.
 
 ## The Sandia Thread
 
@@ -624,3 +627,5 @@ entries:
 - **Documents**: [[Eisenhower Briefing Document]], [[Condon Report]], [[Hottel Memo]], [[Wilson-Davis Memo]], [[Stringfield Status Reports]], [[Willingham Affidavit]]
 - **Events**: [[1950 El Indio UFO Crash]], [[1955 Langtry UFO Crash]]
 - **Operations**: [[Project Moon Dust]]
+
+[^gerb-hottel-date]: Gerb says "we do know from the guy hodle memo sent later this year the FBI was in fact discussing crash retrievals and bodies", probably a slip for "earlier": the Hottel memo is dated 22 March 1950, the date Gerb gives himself in his Sarbacher and Aztec videos, nine months before the 6 December alert and the alleged El Indio crash ([The Black Vault](https://www.theblackvault.com/documentarchive/the-guy-hottel-memo-and-the-crashed-flying-saucers-of-new-mexico-march-22-1950/); [Space.com](https://www.space.com/20409-ufo-hottel-memo-fbi.html)). With the order corrected, the memo still shows crash-retrieval talk reaching the FBI in 1950, but as a report of three saucers recovered in New Mexico it can't be about El Indio.

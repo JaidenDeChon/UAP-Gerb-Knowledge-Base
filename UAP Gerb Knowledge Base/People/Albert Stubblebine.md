@@ -142,7 +142,7 @@ entries:
     note: "Says Stubblebine offered him $2 billion in 1992 to stop his work, and lists him as a witness in his log."
   - name: "Hans Adam II"
     role: "Prince of Liechtenstein"
-    note: "Accused in the 1997 letter to Greer of funding TREAT, the team Gerb links to Stubblebine."
+    note: "Accused in the 1997 letter to Greer of funding TREAT, which Gerb reads as the Men in Black team; he is also reported to have funded Rima Laibow's TREAT abduction conferences."
   - name: "Sumner Shapiro"
     role: "Retired rear admiral"
     note: "Sat on BDM's board in 1989; Gerb names the two as BDM's links to legacy programs."
@@ -171,7 +171,12 @@ Greer also says Stubblebine tried to buy him off. In Greer's account, Stubblebin
 
 ## TREAT Connection
 
-[[Edgar Fouche|Edgar Fouché]] said a man he called Gerald belonged to [[TREAT]], the "Tactical Reconnaissance Engineering Assessment Team", which he likened to the Men in Black. The only other public mention Gerb could find is an anonymous letter to Steven Greer dated 31 August 1997. It accuses Prince [[Hans Adam II]] of Liechtenstein of funding counterintelligence operations on UFOs, and says: "Adam's funding should be focused on his support for TREAT and its GRD, who is wed to a former US Army General, ex-head of Army Intelligence and Security Command." The letter does not name the general; Gerb identifies him as Stubblebine, and reads TREAT as possibly "the real life Men In Black housed within US Army INSCOM".
+[[Edgar Fouche|Edgar Fouché]] said a man he called Gerald belonged to [[TREAT]], the "Tactical Reconnaissance Engineering Assessment Team", which he likened to the Men in Black. The only other public mention Gerb could find is an anonymous letter to Steven Greer dated 31 August 1997, which he takes to be about the same team. It accuses Prince [[Hans Adam II]] of Liechtenstein of funding counterintelligence operations on UFOs, and says: "Adam's funding should be focused on his support for TREAT and its GRD, who is wed to a former US Army General, ex-head of Army Intelligence and Security Command." The letter does not name the general; Gerb identifies him as Stubblebine, and reads TREAT as possibly "the real life Men In Black housed within US Army INSCOM". In a later video he calls Stubblebine "the alleged founder of the nsa's Men in Black treat".
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions presented the 1997 letter as a mention of Fouché's TREAT. That reading is Gerb's; the letter's wording also fits Laibow's abduction-trauma conferences (*Baltimore Sun*, 15 April 1992; ISGP's study of Greer's Disclosure Project).
+
+The letter may refer to a different TREAT. "Treatment and Research of Experienced Anomalous Trauma" was a series of conferences on alien-abduction trauma, founded in May 1989 by the New York psychiatrist Rima Laibow, whom Stubblebine married in the mid-1990s. Prince Hans-Adam is reported to have been the major backer of at least one of them. Gerb doesn't mention this group.
 
 ## Sources
 

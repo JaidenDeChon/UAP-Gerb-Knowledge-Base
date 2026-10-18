@@ -10,6 +10,7 @@ import {
   FileText,
   Folder,
   House,
+  Lightbulb,
   MapPin,
   Radar,
   Users,
@@ -32,6 +33,7 @@ const ICONS: Record<string, Component> = {
   'atom': Atom,
   'file-text': FileText,
   'clapperboard': Clapperboard,
+  'lightbulb': Lightbulb,
 }
 
 /** Icon for a top-level section (People, Events, …). */
@@ -53,12 +55,13 @@ export function folderLabel(item: TreeFolder): string {
   return FOLDER_LABEL[item.id] ?? item.name
 }
 
-// The tree's leading `Home` (`/`), `Site map` (`/map`) and `World map`
-// (`/world`) rows are app-wide nav, not vault content.
+// The tree's leading `Home` (`/`), `Site map` (`/map`), `World map` (`/world`)
+// and `Analyses` (`/analyses`) rows are app-wide nav, not vault content.
 const NAV_ICON: Record<string, Component> = {
   '/': House,
   '/map': Radar,
   '/world': Earth,
+  '/analyses': Lightbulb,
 }
 
 /** Icon for an app-wide nav row, or undefined for an ordinary note. */

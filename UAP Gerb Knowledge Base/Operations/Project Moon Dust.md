@@ -12,11 +12,13 @@ Project Moon Dust (sometimes written "Moondust", and also called Operation Moon 
 
 ## Establishment and Authority
 
-The best-known early official record of Moon Dust is a staff paper from the Air Force's intelligence directorate, the [[AFCIN Intelligence Team Personnel Memo (1961)]], dated 3 November 1961 and written in the office AFCIN-1E-O (Gerb reads it as "AFC 1e draft policy"). Its subject is staffing the field intelligence teams of the [[USAF 1127th Field Activities Group]]. It says the teams had peacetime duties in support of three existing projects: UFO investigation, whose 1127th collection responsibilities were set out in AFR 200-2; [[Operation Bluefly|Operation Blue Fly]]; and Moon Dust, which Headquarters USAF had established "to locate, recover and deliver descended foreign space vehicles". It cites an earlier paper for Moon Dust's collection responsibilities, ICGL #4 of 25 April 1961. A handwritten note on one copy says the paper was a draft proposal that "was not approved and was not forwarded for action".
+The best-known early official record of Moon Dust is a staff paper from the Air Force's intelligence directorate, the [[AFCIN Intelligence Team Personnel Memo (1961)]], dated 3 November 1961 and written in the office AFCIN-1E-O (Gerb reads it as "AFC 1e draft policy"). Its subject is staffing the field intelligence teams of the [[USAF 1127th Field Activities Group]]. It says the teams had peacetime duties in support of three existing projects: UFO investigation, whose 1127th collection responsibilities were set out in AFR 200-2; [[Operation Bluefly|Operation Blue Fly]]; and Moon Dust, which Headquarters USAF had established "to locate, recover and deliver descended foreign space vehicles". It cites an earlier paper for Moon Dust's collection responsibilities, ICGL #4 of 25 April 1961. A handwritten note on one copy says the paper was a draft proposal that "was not approved and was not forwarded for action". Gerb reads the memo as proposing to give the 1127th collection responsibility for reliably reported UFOs within the United States, and as listing Moon Dust as a project that had historically held this duty; the memo itself gives the UFO program and Moon Dust separate paragraphs.
 
 > [!edit] Corrected 16 October 2026
 > Earlier versions said the 1961 memo proposed giving the 1127th collection responsibility for UFOs and listed Moon Dust as the project that had historically held that duty, and called it the first official mention of Moon Dust. That is Gerb's reading. The memo is about staffing the 1127th's intelligence teams, describes the UFO program, Moon Dust and Blue Fly as already established, and cites an April 1961 Moon Dust paper (ICGL #4).
 
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions stated as fact that the memo lists Moon Dust as having historically held the UFO investigation duty. That is Gerb's reading; published transcriptions of the 3 November 1961 draft give the UFO program and Moon Dust separate paragraphs.
 ::wiki-document
 ---
 name: "AFCIN Intelligence Team Personnel Memo (1961)"
@@ -74,7 +76,10 @@ Several Moon Dust cables and memos were addressed to [[Wright-Patterson Air Forc
 
 ## Parallel Classified Programs
 
-Captain [[Edward J. Ruppelt]], director of [[Project Sign]], [[Project Grudge]], and [[Project Blue Book]], disclosed on April 24, 1952 that programs running parallel to the official USG UFO investigations were "conducting a more complete investigation." Dr. [[J. Allen Hynek]], the scientific advisor to Project Blue Book, independently confirmed that other classified programs were studying UFOs alongside Blue Book. Project Moon Dust was one of these parallel programs. It operated at a higher classification level while the public programs managed perception and information control.
+According to Gerb, Captain [[Edward J. Ruppelt]], who headed the Air Force's UFO investigation at the end of [[Project Grudge]] and then ran [[Project Blue Book]], suggested on 24 April 1952 that programs running parallel to the official USG UFO investigations were "conducting a more complete investigation." Ruppelt joined the Air Technical Intelligence Center in 1951, after [[Project Sign]] had ended, and never directed Sign. Gerb says Dr. [[J. Allen Hynek]], the scientific advisor to Project Blue Book, reached the same conclusion: that other classified programs were studying UFOs alongside Blue Book. Gerb suggests Project Moon Dust could have been one of these parallel programs: "an inconspicuous crash retrieval program, one that unless you look hard enough you'll never know existed."
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions called Ruppelt the director of Project Sign, stated the 24 April 1952 date and Hynek's confirmation in the page's own voice, and said as fact that Moon Dust was one of the parallel programs. Ruppelt joined ATIC in 1951 and led Grudge and then Blue Book, not Sign (Wikipedia, "Edward J. Ruppelt"); the date and the Moon Dust link come from Gerb, who presents the link as a possibility. A sentence saying Moon Dust ran at a higher classification level while the public programs managed perception was removed, as no source for it was found.
 
 ## Air Force Denial and Institutional Cover-Up
 

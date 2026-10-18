@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 14669154
       }
+    },
+    {
+      "query": "path:Analyses",
+      "color": {
+        "a": 1,
+        "rgb": 12744714
+      }
     }
   ],
   "collapse-display": false,

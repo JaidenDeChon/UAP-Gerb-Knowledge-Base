@@ -395,7 +395,7 @@ Progress had been "agonizingly slow", with little or no success over years. Part
 
 ### The review group and the threat
 
-Wilson threatened to take the matter to SAPOC. Back in Washington he did, but its senior review group upheld the contractor, and chairman [[John Deutch]] delivered the warning about his career. Between June and December 1997, after the review, the OUSD(AT) officials Wilson had dealt with, "Paul and Mike" ([[Paul Kaminski]] was then Under Secretary), were replaced by [[Jacques Gansler]] and Air Force Brigadier General Ward. In January 1998 Wilson spoke to Gansler and found that someone had read him into the program. Gansler told him "UFOs are real, so-called alien abductions not real", and would say nothing more. The notes end with Davis promising to keep the meeting private and for his personal use only.
+Wilson threatened to take the matter to SAPOC. Back in Washington he did, but its senior review group upheld the contractor, and chairman [[John Deutch]] delivered the warning about his career.[^gerb-deutch-srg-1997] Between June and December 1997, after the review, the OUSD(AT) officials Wilson had dealt with, "Paul and Mike" ([[Paul Kaminski]] was then Under Secretary), were replaced by [[Jacques Gansler]] and Air Force Brigadier General Ward. In January 1998 Wilson spoke to Gansler and found that someone had read him into the program. Gansler told him "UFOs are real, so-called alien abductions not real", and would say nothing more. The notes end with Davis promising to keep the meeting private and for his personal use only.
 
 ## Statements on Authenticity
 
@@ -573,3 +573,5 @@ entries:
 - **Documents**: [[Wilson-Davis Memo]]
 - **Operations**: [[AATIP (Advanced Aerospace Threat Identification Program)]], [[Project Moon Dust]], [[Operation Bluefly]], [[Operation Zodiac]]
 - **Events**: [[1997 Meeting (Wilson, Miller, Mitchell, Greer, Hughes)]], [[Roswell Crash]]
+
+[^gerb-deutch-srg-1997]: Gerb reads the notes as saying "the srg chairman John Deutsch" made the threat; transcribed copies of the notes quoted online give only the "Senior Review Group chairman", unnamed, and Deutch had left the Deputy Secretary of Defense post that chaired the group on 10 May 1995. In mid-1997 the Deputy Secretary was John P. White (to 15 July 1997), followed by John Hamre (DoD Historical Office, Deputy Secretaries of Defense).

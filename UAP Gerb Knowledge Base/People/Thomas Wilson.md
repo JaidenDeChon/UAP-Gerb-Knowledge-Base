@@ -14,9 +14,12 @@ Vice Admiral Thomas R. Wilson is a retired U.S. Navy intelligence officer who wa
 
 ## Career
 
-Wilson was born in Columbus, Ohio, in 1946 and graduated from Ohio State University in 1968. He served in the [[US Navy]] from 1969 to 2002 as an intelligence officer. His flag posts included Director of Intelligence for U.S. Atlantic Command, Vice Director of Intelligence on the Joint Staff, Associate Director of Central Intelligence for Military Support at the CIA, and Director for Intelligence (J-2) of the Joint Staff, the post he held as a rear admiral in 1997. On 27 July 1999 he became the 13th Director of the DIA, with the rank of vice admiral, and he served until July 2002, retiring from the Navy that year. His awards include the Defense Distinguished Service Medal and the Navy Distinguished Service Medal.
+Wilson was born in Columbus, Ohio, in 1946 and graduated from Ohio State University in 1968. He served in the [[US Navy]] from 1969 to 2002 as an intelligence officer. His flag posts included Director of Intelligence for U.S. Atlantic Command, Vice Director of Intelligence on the Joint Staff, Associate Director of Central Intelligence for Military Support at the CIA, and Director for Intelligence (J-2) of the Joint Staff, the post he held as a rear admiral in 1997; Defense Department photo captions from Operation Allied Force briefings still give him that rank in March and April 1999. On 27 July 1999 he became the 13th Director of the DIA, with the rank of vice admiral, and he served until July 2002, retiring from the Navy that year. His awards include the Defense Distinguished Service Medal and the Navy Distinguished Service Medal.
 
-The Wilson-Davis notes, and Gerb when he reads from them, describe his 1997 post as deputy director of the DIA and assistant to the Joint Chiefs of Staff for intelligence (J-2). Gerb stresses what the post meant: in any ordinary case it carried statutory oversight and regulatory authority over every special access program in the Department of Defense, acknowledged or unacknowledged.
+> [!edit] Clarified 17 October 2026
+> The Wilson-Davis notes, the videos and Mitchell's account call Wilson a vice admiral in 1997, while this paragraph says rear admiral. Pentagon briefing captions from 1999 confirm he was still a rear admiral as J-2, so the vice admiral rank dates from his DIA appointment; the Clinton Library and Wikipedia both number him the DIA's 13th director.
+
+The Wilson-Davis notes, and Gerb when he reads from them, describe his 1997 post as deputy director of the DIA and assistant to the Joint Chiefs of Staff for intelligence (J-2). In two later videos Gerb calls him DIA director in 1997.[^gerb-wilson-dia-1997] Gerb stresses what the post meant: in any ordinary case it carried statutory oversight and regulatory authority over every special access program in the Department of Defense, acknowledged or unacknowledged.
 
 ::wiki-affiliations
 ---
@@ -88,7 +91,7 @@ events:
       - "Edgar Mitchell"
   - date: "1997-04"
     title: "The 45-day search"
-    summary: "Advised by General Marshal Ward and Secretary of Defense Bill Perry, he searches a special records group in the acquisition under secretary's office. Four of the seven program managers he calls send him to the same program."
+    summary: "Advised by General Marshal Ward and former Secretary of Defense Bill Perry, he searches a special records group in the acquisition under secretary's office. Four of the seven program managers he calls send him to the same program."
     category: event
     significance: major
     entities:
@@ -104,7 +107,7 @@ events:
       - "Bigot List"
   - date: "1997"
     title: "The review group upholds the refusal"
-    summary: "SAPOC's senior review group sides with the contractor. Its chairman, John Deutch, allegedly warns him that pressing on would cost him promotion to DIA director and one or two stars."
+    summary: "SAPOC's senior review group sides with the contractor. Its chairman (John Deutch, in Gerb's 2024 reading) allegedly warns him that pressing on would cost him promotion to DIA director and one or two stars."
     category: event
     entities:
       - "SAPOC (Special Access Program Oversight Committee)"
@@ -216,11 +219,17 @@ entries:
 
 In April 1997, at the request of retired Navy Commander [[Will Miller]], Wilson attended a briefing in a Pentagon conference room where [[Steven Greer]] presented information about UFOs, Roswell and crashed UFOs to Wilson, Miller and Apollo 14 astronaut [[Edgar Mitchell]] (see [[1997 Meeting (Wilson, Miller, Mitchell, Greer, Hughes)]]). Miller later said that DIA Director [[Patrick M. Hughes]] had also requested the briefing and wanted it expedited, and several sources, including researcher Joe Murgia, place [[Steven Lovekin]] there as well. After the briefing, Miller and Wilson spoke privately, and Wilson came away intrigued enough to investigate further. (In *UFO Whistleblowers Vol.1* Gerb dates the briefing to 1998; it is usually dated 1997.)
 
-Wilson then began a 45-day investigation that ran from April to June 1997. General [[Marshal Ward]] and Secretary of Defense [[Bill Perry]] advised him to examine records in OUSD(AT), the Office of the Under Secretary of Defense for Acquisition and Technology (today the [[Under Secretary of Defense for Acquisition and Sustainment (USD A&S)|USD(A&S)]]). Both told him about a "special project records group not belonging to usual special access programs": a special subset of unacknowledged carve-outs and waived programs that, according to the notes, Perry himself had organized in 1994. In *Special Access Required Vol.2* Gerb singles out one detail as the most important in the whole document: the record Wilson found held zero budget information.
+Wilson then began a 45-day investigation that ran from April to June 1997. General [[Marshal Ward]] and former Secretary of Defense [[Bill Perry]], who had left office in January 1997, advised him to examine records in OUSD(AT), the Office of the Under Secretary of Defense for Acquisition and Technology (today the [[Under Secretary of Defense for Acquisition and Sustainment (USD A&S)|USD(A&S)]]). Both told him about a "special project records group not belonging to usual special access programs": a special subset of unacknowledged carve-outs and waived programs that, according to the notes, Perry himself had organized in 1994. In *Special Access Required Vol.2* Gerb singles out one detail as the most important in the whole document: the record Wilson found held zero budget information.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions called Perry Secretary of Defense when he advised Wilson in April–June 1997. Perry left that office on 23 January 1997, and the notes do not give him the title, so he is now described as the former Secretary.
 
 ## Discovery of the Program
 
-According to the Wilson-Davis memo, Wilson found the unusual records group in the index abstracts and called seven program managers. Four of them referred him to the same program, run by three people who called themselves the "[[Watch Committee]]": a security director (formerly of the NSA), a program director and a corporate attorney. Wilson would not give Davis the compartment's name, calling it a "core secret", but described the project coordinator as an aerospace technology contractor active in defense and intelligence, "the best one of them". In his first video Gerb guessed the contractor was [[Lockheed Martin]]; by 2025 he had come to believe it was [[SAIC]], because two of the SAPOC figures Wilson dealt with were SAIC alumni.
+According to the Wilson-Davis memo, Wilson found the unusual records group in the index abstracts and called seven program managers. Four of them referred him to the same program, run by three people who called themselves the "[[Watch Committee]]": a security director (formerly of the NSA), a program director and a corporate attorney. Wilson would not give Davis the compartment's name, calling it a "core secret", but described the project coordinator as an aerospace technology contractor active in defense and intelligence, "the best one of them". In his first video Gerb guessed the contractor was [[Lockheed Martin]]; by 2025 he had come to believe it was [[SAIC]], because he counts two of the six SAPOC members after the 1994 restructuring, [[John Deutch]] and [[William A. Owens]], as SAIC alumni.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said these were SAPOC figures Wilson dealt with. Gerb never says Wilson dealt with Deutch or Owens; he names Kostelnik and Kaminski as the SAPOC members Wilson spoke to.
 
 At the end of May 1997, Wilson made three calls to the program manager, including a conference call with the security director and corporate attorney. He told them he had read into their program record and wanted to know about their crashed UFO retrieval program. They reacted with confusion and agitation. Invoking his regulatory authority, Wilson demanded a formal briefing, and the overseers agreed to meet him in person.
 
@@ -232,7 +241,10 @@ The committee showed Wilson pages of a [[Bigot List]] dated 1990 to 1993. Every 
 
 ## Denial of Access and Threats
 
-Despite his position and clearance level, the watch committee denied Wilson access because he was not on the bigot list and did not meet their undisclosed special access criteria. Wilson complained to the SAPOC senior review group (SRG) at the Pentagon, but the SRG upheld the contractor's decision to deny him access. The SRG's chairman, [[John Deutch]], threatened that if Wilson did not drop the matter, "he would not see the Director of DIA promotion, he would get an early retirement, and lose one to two stars."
+Despite his position and clearance level, the watch committee denied Wilson access because he was not on the bigot list and did not meet their undisclosed special access criteria. Wilson complained to the SAPOC senior review group (SRG) at the Pentagon, but the SRG upheld the contractor's decision to deny him access. The SRG's chairman threatened that if Wilson did not drop the matter, "he would not see the Director of DIA promotion, he would get an early retirement, and lose one to two stars." Gerb's 2024 reading of the notes names the chairman as [[John Deutch]].
+
+> [!edit] Attribution clarified 16 October 2026
+> Earlier versions said, as fact, that the SRG's chairman was John Deutch. Transcribed copies of the notes quoted online leave the chairman unnamed here, and Deutch had left the Deputy Secretary post that chaired the group in May 1995; the name comes from Gerb's reading in his 2024 video.
 
 In January 1998 Wilson spoke to [[Jacques Gansler]], who had been read into the program. Gansler told him: "UFOs are real, so-called alien abductions not real," and would say nothing more on the topic.
 
@@ -307,3 +319,5 @@ In 2008, before his death, [[Edgar Mitchell]] described the 1997 episode on CNN'
 - [[Videos/UFO Legacy Programs - Science Applications International Corporation (SAIC)/summary|UFO Legacy Programs - Science Applications International Corporation (SAIC)]]
 - [[Videos/Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/summary|Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
 - [[Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/summary|Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2]]
+
+[^gerb-wilson-dia-1997]: Gerb says "1997 saw Vice Admiral and DIA director Thomas Wilson attempt to force a readen into the legacy program portfolio" (and calls him "Dia director and vice admiral" in his Special Forces Confession video), but in 1997 the DIA director was Lt Gen [[Patrick M. Hughes]] (February 1996 to July 1999), and Wilson took the post only on 27 July 1999, so "director" is probably a slip for the deputy-director title Gerb uses for him in his Wilson-Davis video, where the SRG warns Wilson he "would not see the director of the DIA promotion" ([Wikipedia, Director of the Defense Intelligence Agency](https://en.wikipedia.org/wiki/Director_of_the_Defense_Intelligence_Agency); [Wikipedia, Thomas R. Wilson](https://en.wikipedia.org/wiki/Thomas_R._Wilson)).

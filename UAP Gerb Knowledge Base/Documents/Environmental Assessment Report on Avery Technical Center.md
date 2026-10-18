@@ -16,3 +16,7 @@ An unclassified July 2012 report titled 'Environmental Assessment for the Contin
 
 > [!edit] Corrected 16 October 2026
 > Earlier versions gave the title as "Environmental Assessment of the Continued…". The report's cover reads "for".
+
+## Sources
+
+- [[Videos/Dugway Proving Ground - UFO Legacy Programs/summary|Dugway Proving Ground - UFO Legacy Programs]]

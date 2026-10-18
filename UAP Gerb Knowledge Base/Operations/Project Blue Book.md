@@ -11,11 +11,17 @@ Project Blue Book was the best-known official United States Air Force program fo
 
 ## Formation
 
-Blue Book replaced [[Project Grudge]] in 1952 with two tasks: to assess what reported UFOs meant for national security, and to analyze the case data scientifically. Its first director was Captain [[Edward J. Ruppelt]], who had already run both Sign and Grudge.
+Blue Book replaced [[Project Grudge]] in 1952 with two tasks: to assess what reported UFOs meant for national security, and to analyze the case data scientifically. Its first director was Captain [[Edward J. Ruppelt]], who had joined the Air Technical Intelligence Center in 1951 and led the revived Grudge from late that year until it became Blue Book in March 1952.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said Ruppelt had already run both Sign and Grudge. Ruppelt arrived at ATIC in 1951, after Sign had closed, and headed only the revived Grudge before Blue Book (Wikipedia, "Edward J. Ruppelt" and "Project Blue Book").
 
 ## Director Succession
 
-Captain [[Edward J. Ruppelt]] directed Project Blue Book, as he had its predecessors [[Project Sign]] and [[Project Grudge]]. He wrote that the [[Gorman Dogfight]] was one of three classic UFO incidents in 1948 that "proved to Air Force intelligence specialists that UFOs were real." By the 1966 congressional hearing, [[Hector Quintanilla]] was in charge of the program.
+Captain [[Edward J. Ruppelt]] directed Project Blue Book, as he had the revived [[Project Grudge]] before it; he never ran [[Project Sign]]. He wrote that the [[Gorman Dogfight]] was one of three classic UFO incidents in 1948 that "proved to Air Force intelligence specialists that UFOs were real." By the 1966 congressional hearing, [[Hector Quintanilla]] was in charge of the program.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said Ruppelt had directed both of Blue Book's predecessors, Sign and Grudge. He joined ATIC in 1951, after Sign had ended, and led only the late-1951 Grudge.
 
 ## J. Allen Hynek and the Debunking Role
 

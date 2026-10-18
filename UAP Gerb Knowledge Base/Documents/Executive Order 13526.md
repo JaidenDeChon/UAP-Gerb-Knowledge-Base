@@ -33,16 +33,22 @@ The order allows information to be classified if its disclosure could reasonably
 
 ## Pattern Across Decades
 
-Executive Order 13526 dates to 2009, but similar classification claims were made under earlier executive orders:
-- 1979: [[NORAD]] refused to process [[Barry J. Greenwood]] and [[Lawrence Fawcett]]'s UAP tracking request, citing costs of $155,000.
+Executive Order 13526 dates to 2009, but requests for the same tracking data were blocked before it existed, though not always on classification grounds:
+- 1979: [[NORAD]] told [[Barry J. Greenwood]] and [[Lawrence Fawcett]] that their FOIA request for UAP tracking data would take over 18,000 man-hours and cost $155,000, and three years later refused to waive the fees on a follow-up request. This was a refusal on cost and effort, not a classification claim.
 - 2013: NORTHCOM (US Northern Command) cited EO 13526 to keep Fast Walker records classified.
 - 2023: Space Force kept the records classified under the same executive order.
 
-Together these show a consistent policy, across presidential administrations from Reagan to Biden, of protecting space-based UFO detection records.
+Together these show records of space-based UFO detection staying out of public hands across presidential administrations from Carter to Biden, first through fees and later through classification.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions listed the 1979 NORAD refusal as a classification claim and spoke of a policy "from Reagan to Biden". Gerb's transcript says NORAD quoted 18,000 man-hours and $155,000 in fees, so it was a cost refusal, and 1979 fell under Carter.
 
 ## Significance
 
-The repeated use of Executive Order 13526 for Fast Walker data indicates that US military space commands treat this information as among the most sensitive they hold, arguably more protected than many conventional defense programs. The classification has lasted through several administrations and organizational restructurings (Air Force Space Command became Space Force), which suggests the secrecy policy is a permanent part of these institutions.
+The repeated use of Executive Order 13526 for Fast Walker data indicates that US military space commands treat this information as among the most sensitive they hold, arguably more protected than many conventional defense programs. The classification has lasted through several administrations and organizational restructurings (Air Force Space Command became Space Force), which suggests the secrecy has become an entrenched part of these institutions. The order itself, however, does not allow permanent classification: Sec. 1.5(d) says "No information may remain classified indefinitely", and each classification must carry a declassification date or event, normally no more than 25 years out.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions called the secrecy policy permanent. Executive Order 13526, Sec. 1.5(d), says "No information may remain classified indefinitely" (see the transcription).
 
 Because the secrecy rests on an executive order, standard FOIA processes cannot get past it. Congress would need to pass legislation that overrides executive classification authority to force disclosure.
 

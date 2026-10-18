@@ -27,7 +27,10 @@ Edgar Mitchell, the sixth man to walk on the moon, had long taken a public inter
 
 The events in the memo began in April 1997, when [[Steven Greer]] briefed Vice Admiral Wilson, retired Navy Commander [[Will Miller]], Edgar Mitchell and DIA Director [[Patrick M. Hughes]] in a Pentagon conference room about UFOs, Roswell and crashed UFOs. Afterward, Miller and Wilson spoke privately, and Wilson came away wanting to investigate further.
 
-From April to June 1997, Wilson carried out a 45-day investigation. General [[Marshal Ward]] and Secretary of Defense [[Bill Perry]] advised him to examine records in OUSD(AT), the Office of the Under Secretary of Defense for Acquisition and Technology. Both Ward and Perry told Wilson about a "special project records group not belonging to usual special access programs". This was a special subset of unacknowledged carve-outs and waived programs that Perry himself had organized in 1994.
+From April to June 1997, Wilson carried out a 45-day investigation. General [[Marshal Ward]] and former Secretary of Defense [[Bill Perry]], who had left office in January 1997, advised him to examine records in OUSD(AT), the Office of the Under Secretary of Defense for Acquisition and Technology. Both Ward and Perry told Wilson about a "special project records group not belonging to usual special access programs". This was a special subset of unacknowledged carve-outs and waived programs that Perry himself had organized in 1994.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions called Perry Secretary of Defense when he advised Wilson in 1997. Perry left that office on 23 January 1997, and the notes do not give him the title, so he is now described as the former Secretary.
 
 Wilson found the unusual records group in the index abstracts and called seven program managers. Four of them referred him to the same program, run by three people who called themselves the "[[Watch Committee]]": a security director (former NSA), a program director and a corporate attorney. An aerospace technology contractor active in defense and intelligence, described as "the best one of them," coordinated the program. Based on later whistleblower accounts, the contractor was likely [[Lockheed Martin]].
 
@@ -46,7 +49,10 @@ Wilson argued that as Deputy Director of the DIA, as the notes style his post, h
 > [!edit] Attribution clarified 17 October 2026
 > Earlier versions stated Wilson's title and authority as fact. Both are Wilson's argument as the notes record it; his service record gives his 1997 post as Joint Staff J-2.
 
-Wilson complained to the SAPOC senior review group (SRG) at the Pentagon, but the SRG upheld the contractor's access denial and ordered Wilson to drop the matter. SRG chairman [[John Deutch]] (former CIA Director) threatened Wilson that if he did not comply, "he would not see the Director of DIA promotion, he would get an early retirement, and lose one to two stars."
+Wilson complained to the SAPOC senior review group (SRG) at the Pentagon, but the SRG upheld the contractor's access denial and ordered Wilson to drop the matter. The SRG chairman threatened Wilson that if he did not comply, "he would not see the Director of DIA promotion, he would get an early retirement, and lose one to two stars." Gerb's 2024 reading of the notes names the chairman as [[John Deutch]].[^gerb-deutch-srg-1997]
+
+> [!edit] Attribution clarified 16 October 2026
+> Earlier versions said, as fact, that SRG chairman John Deutch (former CIA Director) made the threat. Transcribed copies of the notes quoted online leave the chairman unnamed here, and Deutch had left the Deputy Secretary post that chaired the group in May 1995; the name comes from Gerb's reading in his 2024 video.
 
 Wilson apparently heeded the threat, and he later served as Director of the DIA from 1999 to 2002. In January 1998, he spoke to [[Jacques Gansler]] (Under Secretary of Defense for Acquisition and Technology), who had been read into the program. Gansler told Wilson: "UFOs are real, so-called alien abductions not real," and refused to discuss it further.
 
@@ -98,3 +104,5 @@ The memo's entry into the U.S. Congressional Record in 2022 gave it added instit
 - [[Videos/The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs/summary|The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs]]
 - [[Videos/The 1950s Del Rio, Texas UFO Crashes/summary|The 1950s Del Rio, Texas UFO Crashes]]
 - [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
+
+[^gerb-deutch-srg-1997]: Gerb reads the notes as saying "the srg chairman John Deutsch" made the threat; transcribed copies of the notes quoted online give only the "Senior Review Group chairman", unnamed, and Deutch had left the Deputy Secretary of Defense post that chaired the group on 10 May 1995. In mid-1997 the Deputy Secretary was John P. White (to 15 July 1997), followed by John Hamre (DoD Historical Office, Deputy Secretaries of Defense).

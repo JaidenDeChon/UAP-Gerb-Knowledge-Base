@@ -7,10 +7,13 @@ date_start: 1949
 date_end: 1952
 ---
 
-Project Grudge was the second official United States Air Force program to investigate UFO reports. It replaced the terminated [[Project Sign]] in 1949 and came before [[Project Blue Book]]. Sign had been tasked with genuine investigation and was at first open to the phenomenon. Grudge, by contrast, was explicitly designed to explain UFO sightings away and so ease public anxiety. It was the first institutionalized effort by the US government to use an official-seeming investigation to manage public perception, in place of scientific inquiry. Although Grudge was officially terminated in 1949, it was later revived under Captain [[Edward J. Ruppelt]], who went on to direct Project Blue Book, and it carried the Air Force's UFO investigations into the early 1950s. Its report, the [[Project Grudge Report]], is dated August 1949. Gerb says Grudge's records were updated until 1999 and that a full report was published in 1960.
+Project Grudge was the second official United States Air Force program to investigate UFO reports. It replaced the terminated [[Project Sign]] in 1949 and came before [[Project Blue Book]]. Sign had been tasked with genuine investigation and was at first open to the phenomenon. Grudge, by contrast, was explicitly designed to explain UFO sightings away and so ease public anxiety. It was the first institutionalized effort by the US government to use an official-seeming investigation to manage public perception, in place of scientific inquiry. Although Grudge was officially terminated in 1949, it was later revived under Captain [[Edward J. Ruppelt]], who went on to direct Project Blue Book, and it carried the Air Force's UFO investigations into the early 1950s. Its report, the [[Project Grudge Report]], is dated August 1949. Gerb says Grudge records "were updated up until 1999," featuring "a full published report in 1960."
 
 > [!edit] Corrected 16 October 2026
 > Earlier versions said as fact that Grudge's records were updated until 1999 and that its full report appeared in 1960. Both are Gerb's claims in [[The Origin of the UFO Stigma]]; the report itself, Technical Report No. 102-AC 49/15-100, is dated August 1949.
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions stated as fact that Grudge records were updated until 1999 and that a full report was published in 1960. Both details come from Gerb's video on the origin of the UFO stigma, and no other source for them was found.
 
 ## Mandate and Operations
 
@@ -48,10 +51,13 @@ caption: "The title page: Technical Report No. 102-AC 49/15-100, with Smith and 
 ---
 ::
 
-Gerb says the report ran to 707 pages of case analysis and was published in 1960, and that the records were updated continuously until 1999, long after the program had nominally ended.
+Although the program was officially terminated in 1949, Gerb says the Grudge records were "updated up until 1999," featuring "a full published report in 1960", and that the Grudge report runs to 707 pages of case analysis. If so, the cases kept receiving institutional attention long after the program had nominally ended.
 
 > [!edit] Corrected 16 October 2026
 > Earlier versions said as fact that a full Grudge report of 707 pages was published in 1960 and that the records were updated until 1999. Those are Gerb's figures. The report is dated August 1949 and its National Archives scan runs to 412 pages.
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions stated as fact that a full Grudge report was published in 1960 and that the records were updated continuously until 1999. These are Gerb's statements in his video on the origin of the UFO stigma ("continuously" was not his word), and no other source for them was found.
 
 ## Sources
 

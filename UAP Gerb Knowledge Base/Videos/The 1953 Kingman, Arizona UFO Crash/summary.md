@@ -357,7 +357,7 @@ routes:
 
 ## Other Witnesses
 
-Gerb closes with witnesses who "vary wildly in believability and credibility". After a lecture at Lunken Airport in Cincinnati, Ohio, the respected crash-retrieval researcher [[Leonard Stringfield]] was approached by a pilot who said he had been at the crash site in 1953 and described the recovered biologics much as Stansel had. Gerb dates the encounter to 1997; Stringfield died in December 1994, so it must have come earlier. In 1994 a man codenamed JLD approached Stringfield with similar claims about the crash, but died shortly afterwards.
+Gerb closes with witnesses who "vary wildly in believability and credibility". After a lecture at Lunken Airport in Cincinnati, Ohio, the respected crash-retrieval researcher [[Leonard Stringfield]] was approached by a pilot who said he had been at the crash site in 1953 and described the recovered biologics much as Stansel had. Gerb dates the encounter to 1997;[^gerb-kingman-stringfield-1997] Stringfield died in December 1994, so it must have come earlier. In 1994 a man codenamed JLD approached Stringfield with similar claims about the crash, but died shortly afterwards.
 
 The glaring red flag among these unnamed sources, Gerb says, is [[Judy Wolcott]]. She told researcher [[Don Schmidt]] that her husband, an officer in the Vietnam War, had written to her that he had been present at a crash retrieval at Kingman in which biologics were recovered, and that he had then been killed by the North Vietnamese Army. Author [[Nick Redfern]] found that her story did not add up: her husband had not died in Vietnam, and her own daughter said Judy often lied and made up stories. Whether it was a bid for fame or deliberate disinformation, Gerb says, is unknown, but the falsehood is worth recording.
 
@@ -531,3 +531,5 @@ entries:
 - **Documents**: [[USAF Regulation 200-2]], [[Atomic Energy Act of 1954]]
 - **Operations**: [[Operation Upshot-Knothole]], [[Project Blue Book]], [[Manhattan Project]], [[Operation Paperclip]]
 - **Events**: [[1953 Kingman, Arizona Crash Retrieval]], [[Roswell Crash]]
+
+[^gerb-kingman-stringfield-1997]: Gerb says "in 1997 Leonard Stringfield a respected UFO researcher was approached by a pilot after a lecture at the lcan airport in Cincinnati Ohio", but Stringfield died on 18 December 1994, so the encounter must have come earlier and the year is probably a slip ([Wikipedia, Leonard H. Stringfield](https://en.wikipedia.org/wiki/Leonard_H._Stringfield); [Mental Floss, "Retrobituaries: Leonard Stringfield"](https://www.mentalfloss.com/history/retrobituaries-leonard-stringfield-ufologist)).

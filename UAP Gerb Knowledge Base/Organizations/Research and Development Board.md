@@ -42,7 +42,10 @@ Sarbacher's account suggests that the R&D Board's UAP work was compartmentalized
 
 ## Relationship to Majestic 12
 
-The origin of the [[Majestic 12]] documents can be traced conceptually to the R&D Board's structure. Its precursor, the joint Research and Development Board established in 1941, had 12 members. The [[MJ-12 Documents]], which describe a secret committee that President Truman charged with managing UAP crash retrievals, name [[Vannevar Bush]] as a member. This fits Sarbacher's testimony that Bush headed the small group studying flying saucers within the R&D Board.
+The origin of the [[Majestic 12]] documents can be traced conceptually to the R&D Board's structure. Its precursor was the Joint Research and Development Board, set up in 1946; in his Sarbacher video Gerb dates it to 1941 and says it had 12 members. The [[MJ-12 Documents]], which describe a secret committee that President Truman charged with managing UAP crash retrievals, name [[Vannevar Bush]] as a member. This fits Sarbacher's testimony that Bush headed the small group studying flying saucers within the R&D Board.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said the joint board was established in 1941 and had 12 members, as stated fact. The Joint Research and Development Board was set up in 1946 ([Wikipedia, Vannevar Bush](https://en.wikipedia.org/wiki/Vannevar_Bush)); the 1941 date and the twelve members are Gerb's, from his Sarbacher video.
 
 Many of the MJ-12 documents are considered forgeries. Even so, the alleged MJ-12 group and the R&D Board overlap in structure and personnel, and Sarbacher and [[Eric A. Walker]] each independently confirmed Bush's involvement. Together these suggest that the R&D Board, or a compartmented subset of it, may have been the real-world basis for the MJ-12 story.
 

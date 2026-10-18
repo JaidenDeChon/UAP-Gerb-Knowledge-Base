@@ -20,7 +20,10 @@ In the Coyame incident, a hazmat-equipped team arrived in unmarked military heli
 
 ### Roswell Debris Connection
 
-Colonel [[Philip J. Corso]] mentions Fort Bliss in his book *The Day After Roswell*. According to Corso, debris and bodies from the 1947 [[Roswell Crash]] were shipped to Fort Bliss, Texas, which in his account made the base a historical transfer point for recovered non-human materials.
+Colonel [[Philip J. Corso]] mentions Fort Bliss in his book *The Day After Roswell*. In the Coyame video Gerb says that, according to Corso, debris and bodies from the 1947 [[Roswell Crash]] were shipped to Fort Bliss, Texas.[^gerb-corso-fort-bliss] In the book itself, crates Corso links to Roswell reach [[Fort Riley, Kansas]] from Fort Bliss on their way to Wright Field, which in his account made the base a transfer point for recovered non-human materials.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said that, according to Corso, the Roswell debris and bodies were shipped to Fort Bliss. In *The Day After Roswell* the convoy came from Fort Bliss and was bound for Wright Field (archived 1997 review of the book); the destination was Gerb's probable slip.
 
 ::wiki-document
 ---
@@ -42,3 +45,5 @@ Its place on the US-Mexico border, its airlift capability as a major military in
 - [[Videos/The 1974 Coyame, Mexico UFO Crash/summary|The 1974 Coyame, Mexico UFO Crash]]
 - [[Videos/1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt/summary|1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt]]
 - [[Videos/Philip J. Corso - US Army UFO Technology Research & Development/summary|Philip J. Corso - US Army UFO Technology Research & Development]]
+
+[^gerb-corso-fort-bliss]: Gerb says "according to Corso debris and bodies from the 1947 Roswell crash were shipped to Fort Bliss Texas". In *The Day After Roswell* the crates Corso saw arrive at Fort Riley on 6 July 1947 were logged as coming from Fort Bliss and bound for Wright Field, so "to" is probably a slip for "from" ([archived 1997 review of the book](https://www.geocities.ws/server2/homestead/area51/Shadowlands/6583/roswell014.html)). In the interview played in the Corso video, Corso recalls being told the five trucks came "from an Airfield in in New Mexico".

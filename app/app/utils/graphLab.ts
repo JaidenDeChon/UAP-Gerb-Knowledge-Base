@@ -86,6 +86,7 @@ const CATEGORY_FALLBACK: Record<Category, string> = {
   Concepts: '#e87ba4',
   Documents: '#bc6c0f',
   Videos: '#b7bbc2',
+  Analyses: '#c2780a',
 }
 
 /**
@@ -103,6 +104,7 @@ export const CATEGORY_LEGEND_ORDER: Category[] = [
   'Concepts',
   'Documents',
   'Videos',
+  'Analyses',
 ]
 
 /** Resolve every category's node color from the active theme. Client-only. */

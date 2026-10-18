@@ -26,7 +26,10 @@ NEST's primary authority comes from the [[Atomic Energy Act of 1954]]. Gerb says
 
 NEST is theorized to be the primary scientific and radiological assessment component of UAP crash retrieval task forces. In the 1997 [[Peru UFO Crash Incident]] described by [[Jonathan Weygandt]], approximately 30 DOE personnel in biological containment suits, rain jackets marked "DOE," gas masks, and varying levels of MOPP gear were flown to the crash site of an [[Egg-shaped UAP|egg-shaped craft]] in US Army CH-47 Chinook helicopters within approximately 8–9 hours of the crash. That timeline is consistent with a NEST team leaving [[Sandia National Laboratories]] on Cessna Citation 2 jets (approximately 7.5 hours of flight time over 3,446 miles) and then commandeering CH-47s from [[1st Battalion 228th Aviation Regiment|1-228th Aviation]] under [[Joint Task Force Bravo]] for local transport.
 
-Gerb's analysis demonstrated that in the same year as Weygandt's encounter, NEST considered deploying to Bolivia and Colombia to recover debris from the Russian Mars 96 probe, which carried plutonium-238 generators. That plan was based on intelligence from US Space Command and [[Defense Support Program (DSP)]] satellites. This establishes a provable pattern of NEST deploying to South America on the basis of satellite intelligence, the same mechanism theorized for the Peru crash retrieval.
+Gerb points out that NEST considered deploying to Bolivia and Colombia to recover debris from the Russian Mars 96 probe, which carried plutonium-238 generators and failed in November 1996, a few months before Weygandt's encounter.[^gerb-mars96-1996] That plan was based on intelligence from US Space Command and [[Defense Support Program (DSP)]] satellites. This establishes a provable pattern of NEST deploying to South America on the basis of satellite intelligence, the same mechanism theorized for the Peru crash retrieval.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said Gerb had shown the Mars 96 episode fell in the same year as Weygandt's encounter. Gerb dates it to 1997, but the probe was launched and fell back on 16 to 17 November 1996 (NASA NSSDCA; Wikipedia, Mars 96).
 
 Taken together, the presence of DOE radiological response assets at alleged UAP crash sites, NEST's authority under the Atomic Energy Act, and its established partnerships with the same national laboratories accused of hosting UAP reverse engineering programs make NEST a central node in theories of organized crash retrieval operations.
 
@@ -34,3 +37,5 @@ Taken together, the presence of DOE radiological response assets at alleged UAP 
 
 - [[Videos/1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt/summary|1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt]]
 - [[Videos/National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers/summary|National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers]]
+
+[^gerb-mars96-1996]: Gerb dates the Mars 96 episode "Around 1997" in his Weygandt video and "Around November 1997, just months after" Weygandt's encounter in his Sandia video, but the probe was launched from Baikonur on 16 November 1996 and fell back on 17 November 1996 ([NASA NSSDCA, Mars 96 timeline](https://nssdc.gsfc.nasa.gov/planetary/text/mars96_timeline.txt); [Wikipedia, Mars 96](https://en.wikipedia.org/wiki/Mars_96)), about four months before the March or April 1997 crash, so this is probably a misremembered year.

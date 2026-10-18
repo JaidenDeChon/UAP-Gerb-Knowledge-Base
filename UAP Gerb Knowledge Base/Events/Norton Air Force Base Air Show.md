@@ -5,11 +5,17 @@ tags:
   - event
 ---
 
-The **Norton Air Force Base Air Show** was a public USAF air show held on November 12, 1988, at [[Norton Air Force Base]] in San Bernardino, California, a base that has since closed. The public event was cover for a private, classified aerospace exhibit at [[Air Force Plant 42]] in Palmdale. A small group of senior attendees was covertly taken there, among them the industrial designer and inventor [[Brad Sorenson]]. His account of the exhibit is one of the central pieces of evidence in the [[Alien Reproduction Vehicle (ARV)|Alien Reproduction Vehicle]] disclosure narrative.
+The **Norton Air Force Base Air Show** was, according to aerospace artist [[Mark McCandlish]] and his friend [[Brad Sorenson]], a public USAF air show held on November 12, 1988, at [[Norton Air Force Base]] in San Bernardino, California, a base that has since closed. No outside record of the show has been found. By their account, a small group of senior attendees was covertly taken from the show to a private, classified aerospace exhibit at [[Air Force Plant 42]] in Palmdale, among them Sorenson, an industrial designer and inventor. His account of the exhibit is one of the central pieces of evidence in the [[Alien Reproduction Vehicle (ARV)|Alien Reproduction Vehicle]] disclosure narrative.
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions stated the November 12, 1988 air show as fact and called it "cover for" the Palmdale exhibit. The show, its date and its link to the exhibit come only from McCandlish's retelling of Sorenson's story, as covered in Gerb's videos, and no outside record of the show was found.
 
 ## The Public Air Show and Covert Transfer
 
-Sorenson attended the public Norton air show with a client whom aerospace artist [[Mark McCandlish]] later identified, with high confidence, as [[Frank Carlucci]], then-US Secretary of Defense. During the USAF Thunderbirds flyby, the client escorted Sorenson away from the main public exhibit. Sorenson and roughly 30 other senior figures boarded a military Boeing 727 that flew north from Norton to Air Force Plant 42 in Palmdale, where the classified exhibit was held inside a Skunk Works hangar. He described the others as sharply dressed men aged 45 to 60 and believed they were senior DoD, intelligence community or contracting officials. The only one he recognized by sight was then-Senator [[Alan Cranston]] (D-CA).
+Sorenson attended the public Norton air show with a client whom aerospace artist [[Mark McCandlish]] later identified, with high confidence, as [[Frank Carlucci]], then-US Secretary of Defense. During the USAF Thunderbirds flyby, the client escorted Sorenson away from the main public exhibit. Sorenson, his client and other military personnel and dignitaries boarded a military Boeing 727 that flew north from Norton to Air Force Plant 42 in Palmdale, where the classified exhibit was held inside a Skunk Works hangar. About 30 people were present at the exhibit. He described the others as sharply dressed men aged 45 to 60 and believed they were senior DoD, intelligence community or contracting officials. The only one he recognized by sight was then-Senator [[Alan Cranston]] (D-CA).
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said roughly 30 other senior figures boarded the 727. In the video, the figure of about 30 refers to the people present at the hangar exhibit, not the passengers on the flight.
 
 ## The Classified Exhibit
 

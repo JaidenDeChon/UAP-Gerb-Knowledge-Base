@@ -8,7 +8,10 @@ Bernard Haisch is an American astrophysicist and author who did research for the
 
 ## Research at Lockheed Martin Advanced Technology Center
 
-Haisch co-wrote a paper for the [[Advanced Technology Center (ATC)|Lockheed Martin Advanced Technology Center (ATC)]] with physicist [[Hal Puthoff]] on the Zero Point Energy of the quantum vacuum. The paper examined one or more resonant frequencies that may be associated with quantum vacuum interaction for propulsion, a subject that bears directly on the theory behind non-conventional aerospace propulsion. It is documented, published evidence that Lockheed Martin researched exotic propulsion physics at an institutional level.
+Haisch co-wrote papers with physicist [[Hal Puthoff]] and Alfonso Rueda on the zero-point energy of the quantum vacuum, proposing that inertia is a reaction force from the vacuum's electromagnetic zero-point field. The first appeared in *Physical Review A* in 1994. A follow-up, presented at the 34th AIAA Joint Propulsion Conference in July 1998, reports NASA-funded work carried out at the [[Advanced Technology Center (ATC)|Lockheed Martin Advanced Technology Center (ATC)]] in Palo Alto, where Haisch worked. Gerb dates the Haisch–Puthoff paper to 1998, describes it as written for the ATC, and says it looked at one or more resonant frequencies that may be associated with quantum vacuum interaction for propulsion, which he ties to the theory behind non-conventional aerospace propulsion.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said, without a date, that Haisch and Puthoff wrote the paper "for" the ATC, and called it documented evidence that Lockheed researched exotic propulsion at an institutional level, a claim no source supports. The arXiv record of the July 1998 Haisch–Rueda–Puthoff AIAA paper describes NASA-funded work done at the Lockheed Martin ATC, following their 1994 *Physical Review A* paper; the propulsion reading is now credited to Gerb.
 
 ## "Black Special Access Programs" Essay (2001)
 

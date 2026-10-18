@@ -16,7 +16,10 @@ The AARO Historical Report Volume 1 is an official report by the All-domain Anom
 
 One passage in the report appears to describe Michael Herrera's 2009 Indonesia encounter, although it does not name him directly:
 
-> "An interviewee who is a former U.S. service member said that in 2009, while participating in a humanitarian and security mission in a foreign country, he encountered **U.S. Special Forces** loading containers onto a large **extraterrestrial spacecraft**."
+> "An interviewee who is a former U.S. service member said that in 2009, while participating in a humanitarian and security mission in a foreign country, he encountered **"U.S. Special Forces"** loading containers onto a large **extraterrestrial spacecraft**."
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions dropped the quotation marks the report puts around "U.S. Special Forces" in this sentence. They are restored from the report's text; the bold is this page's emphasis.
 
 Herrera has adamantly stated that this description is factually wrong on two important points:
 
@@ -43,8 +46,11 @@ The report says: "AARO was able to correlate this account with an authentic USG 
 The passage does not fit Herrera for these reasons:
 - Herrera narrowed his encounter to within a couple of days, but he did not know the precise time.
 - He did not know the exact location of the landing zone in Indonesia.
-- The passage says the characteristics "matched closely with the platform's characteristics which was being tested at a military facility".
+- The passage says the characteristics "match closely with the platform's characteristics, which was being tested at a military facility".
 - Herrera's encounter took place in a remote jungle, not at a military facility.
+
+> [!edit] Corrected 17 October 2026
+> The quotation in the third item used to read "matched closely with the platform's characteristics which was being tested". The report says "match closely with the platform's characteristics, which was being tested".
 
 This suggests that the page 32 passage describes a different witness account entirely, while the passage quoted earlier appears to be AARO's summary of Herrera's testimony.
 

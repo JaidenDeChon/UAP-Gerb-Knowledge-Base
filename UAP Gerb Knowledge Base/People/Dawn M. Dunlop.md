@@ -6,7 +6,10 @@ tags:
   - person
 ---
 
-Dawn M. Dunlop is a retired U.S. Air Force major general and test pilot who served from 1988 to 2021. She was among the first American women selected to fly combat aircraft, was the first woman to fly the F-22, and was the first woman to command an Air Force test wing. After serving as vice commander of the [[412th Test Wing]] at [[Edwards Air Force Base]], she commanded it from August 2009 to March 2012. She later commanded the NATO Airborne Early Warning and Control Force (2015-2018) and directed the Department of Defense Special Access Program Central Office (SAPCO) in 2018-2019. In 2019 she left SAPCO amid inspector general investigations into complaints of a toxic work environment. Her final post was Director of Operational Capability Requirements in the Deputy Chief of Staff for Strategy, Integration and Requirements at Headquarters Air Force, and she retired in November 2021.
+Dawn M. Dunlop is a retired U.S. Air Force major general and test pilot who served from 1988 to 2021. She was among the first American women selected to fly combat aircraft, was the first woman to fly the F-22, and was the first woman to command an Air Force test wing. She was vice commander of the [[412th Test Wing]] at [[Edwards Air Force Base]] from August 2009 and took command of it in June 2010, holding it until March 2012. She later commanded the NATO Airborne Early Warning and Control Force (2015-2018) and directed the Department of Defense Special Access Program Central Office (SAPCO) in 2018-2019. In 2019 she left SAPCO amid inspector general investigations into complaints of a toxic work environment. Her final post was Director of Operational Capability Requirements in the Deputy Chief of Staff for Strategy, Integration and Requirements at Headquarters Air Force, and she retired in November 2021.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said she commanded the 412th Test Wing from August 2009. Her Air Force biography and a June 2010 *Air Force Times* report show she arrived as vice commander in August 2009 and took command on 4 June 2010.
 
 ## Role in UAP research
 

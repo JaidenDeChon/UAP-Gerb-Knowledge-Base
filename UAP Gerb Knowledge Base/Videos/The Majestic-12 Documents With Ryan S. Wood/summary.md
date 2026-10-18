@@ -256,7 +256,7 @@ events:
   - date: "1980-09-06"
     title: "FOIA reveals the Interplanetary Phenomenon Unit"
     cue: 1140
-    summary: "Richard Hall's FOIA request of 6 September 1980 revealed the IPU, an unofficial Army unit that studied UFOs, and William Steinman's 1984 request confirmed it. The Army said its records had gone to Project Blue Book; in the 1990s the government said they had been destroyed."
+    summary: "Richard Hall's FOIA request of 6 September 1980 revealed the IPU, an unofficial Army unit that studied UFOs, and William Steinman's 1984 request confirmed it. The Army said its records had gone to the Air Force Office of Special Investigations with Project Blue Book; in the 1990s the government said they had been destroyed."
     category: document
     significance: notable
     entities:
@@ -347,6 +347,9 @@ events:
       - "Majestic 12"
 ---
 ::
+
+> [!edit] Corrected 16 October 2026
+> The 1980 entry used to say the Army sent the IPU records to Project Blue Book, as Gerb puts it in this video. The Army's reply, which Gerb reads in the Aztec video, says they were surrendered to the Air Force Office of Special Investigations with Operation Blue Book.
 
 ## Who the documents name
 
@@ -550,7 +553,7 @@ Wood lays out the evidence that he and his father gathered for SOM 1-01:
 - A witness, Navy yeoman Dale Bailey, alleges he saw the manual in 1976 while helping an admiral destroy classified UFO material; Wood is searching his father's archive for files on him.
 - The Tri-X film the manual arrived on was dated to 1954.
 
-The Woods also rate the Interplanetary Phenomenon Unit (IPU) documents among their highest, because the government acknowledged the unit exists. Richard Hall's FOIA request revealed it on 6 September 1980, and [[William Steinman]] confirmed it in 1984. The Army said its records went to Blue Book, and in the 1990s the government said they had been destroyed. The IPU Field Order of 4 July 1947 asks for an aeronautical engineer and a doctor for a situation the day before. The IPU Report, public from July 1995 and attributed to [[General Samford|John A. Samford]] with approval from CIA director Allen Dulles, gives the Roswell crash time as 23:32 Mountain Standard Time and describes two sites. At the debris field seen by Mac Brazel and Marcel, investigators first suspected a Project Mogul balloon until Los Alamos personnel judged the wreckage "out of this world". The report also describes a radiobiological team and security detail from Sandia, and names Oppenheimer and [[Wernher von Braun]] among the scientists. It mentions bodies apparently dissected "similar to a frog", contamination deaths among Sandia personnel (which Gerb links to the [[1974 Coyame, Mexico UFO Crash Retrieval|1974 Coyame case]]), and says that "some of the recovery operation was shared with representative John F. Kennedy". Gerb adds that the Air Force's 1994 Roswell report blamed Mogul flight 4 of 4 June 1947, a flight he says the project's field operations director's records show was cancelled because of weather.
+The Woods also rate the Interplanetary Phenomenon Unit (IPU) documents among their highest, because the government acknowledged the unit exists. Richard Hall's FOIA request revealed it on 6 September 1980, and [[William Steinman]] confirmed it in 1984. The Army said its records went to Blue Book,[^gerb-ipu-records] and in the 1990s the government said they had been destroyed. The IPU Field Order of 4 July 1947 asks for an aeronautical engineer and a doctor for a situation the day before. The IPU Report, public from July 1995 and attributed to [[General Samford|John A. Samford]] with approval from CIA director Allen Dulles, gives the Roswell crash time as 23:32 Mountain Standard Time and describes two sites. At the debris field seen by Mac Brazel and Marcel, investigators first suspected a Project Mogul balloon until Los Alamos personnel judged the wreckage "out of this world". The report also describes a radiobiological team and security detail from Sandia, and names Oppenheimer and [[Wernher von Braun]] among the scientists. It mentions bodies apparently dissected "similar to a frog", contamination deaths among Sandia personnel (which Gerb links to the [[1974 Coyame, Mexico UFO Crash Retrieval|1974 Coyame case]]), and says that "some of the recovery operation was shared with representative John F. Kennedy". Gerb adds that the Air Force's 1994 Roswell report blamed Mogul flight 4 of 4 June 1947, a flight he says the project's field operations director's records show was cancelled because of weather.
 
 Beyond the leaks, Wood points to documents with the MJ-12 designation in official collections. One is the 1954 Cutler–Twining memo from Robert Cutler of the National Security Council, referring to an "NSC/MJ-12 Special Studies Project", which Wood describes as original onion-skin paper. Another is a Joint Intelligence Objectives Agency memo on a Paperclip project, held at College Park, Maryland, marked "CIA/MJ-12".
 
@@ -721,3 +724,5 @@ Gerb closes by recommending Wood's *Magic Eyes Only*, Friedman's *Top Secret/Maj
 - **Documents**: [[Eisenhower Briefing Document]], [[Special Operations Manual (SOM 1-01)]], [[Bowen Manuscript]], [[Atomic Energy Act of 1954]], [[AFCIN Intelligence Team Personnel Memo (1961)]], [[Twining Memo]]
 - **Operations**: [[Project Moon Dust]]
 - **Events**: [[Roswell Crash]], [[1950 El Indio UFO Crash]], [[1953 Kingman, Arizona Crash Retrieval]], [[1965 Kecksburg, Pennsylvania Crash Retrieval]], [[1974 Coyame, Mexico UFO Crash Retrieval]], [[1933 Magenta UFO CrashRetrieval]]
+
+[^gerb-ipu-records]: Gerb's shorthand puts the IPU records with Blue Book ("surrendered to the Air Force in conjunction with Project Blue Book" in the Aztec video, "surrendered to Blue Book" in the Majestic-12 video), but the Army's 1980 reply he reads in the Aztec video names the recipient: "All records pertaining to this unit were surrendered to the US Air Force Office of Special Investigations with Operation Blue Book." He restores AFOSI in the Manhattan Project 2.0 video, and [UFO Explorations](https://www.ufoexplorations.com/us-army-secret-ufo-study) gives the letter the same wording.

@@ -1,13 +1,16 @@
 ---
 name: "Karl Nell"
-role: "Retired US Army Colonel; former Deputy CTO of Northrop Grumman; DIA Technical Intelligence Operations Officer; UAP disclosure advocate"
+role: "Retired US Army Colonel; former deputy CTO of a $2 billion company (Northrop Grumman, per Gerb); DIA Technical Intelligence Operations Officer; UAP disclosure advocate"
 active_from: 2021
 active_to: 2024
 tags:
   - person
 ---
 
-Karl Nell is a retired United States Army colonel and former [[Defense Intelligence Agency]] (DIA) technical intelligence operations officer who is now one of the most prominent advocates of UAP disclosure with official credentials. He was deputy chief technology officer at [[Northrop Grumman]], ended his Army career as the Army's director supporting the [[UAP Task Force]] (2021–2022), where he worked with [[David Grusch]], and advised Army Futures Command. In June 2023 he publicly backed Grusch's account, and [[Leslie Kean]] has identified him as one of the 40 firsthand witnesses Grusch interviewed. Gerb's coverage centres on his November 2023 [[SOL Foundation Symposium]] talk, a plan for controlled disclosure, and on his May 2024 statement that there is "zero doubt" non-human intelligence exists.
+Karl Nell is a retired United States Army colonel and former [[Defense Intelligence Agency]] (DIA) technical intelligence operations officer who is now one of the most prominent advocates of UAP disclosure with official credentials. In industry he was deputy chief technology officer of a $2 billion company, and his published biographies list Northrop Grumman / TASC among his employers; Gerb says the deputy CTO post was at [[Northrop Grumman]]. He ended his Army career as the Army's director supporting the [[UAP Task Force]] (2021–2022), where he worked with [[David Grusch]], and advised Army Futures Command. In June 2023 he publicly backed Grusch's account, and [[Leslie Kean]] has identified him as one of the 40 firsthand witnesses Grusch interviewed. Gerb's coverage centres on his November 2023 [[SOL Foundation Symposium]] talk, a plan for controlled disclosure, and on his May 2024 statement that there is "zero doubt" non-human intelligence exists.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said, here and in the role line, that Nell was deputy CTO of Northrop Grumman. His own biographies (SALT, Anomaly Archives) describe a deputy CTO post at an unnamed $2 billion company and list "Northrop Grumman / TASC" as an employer (TASC was a Northrop unit from 2001 to 2009), so the Northrop attribution is now credited to Gerb.
 
 ## Military Career
 

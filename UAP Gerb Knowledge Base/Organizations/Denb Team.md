@@ -9,10 +9,10 @@ The **DENB Team** is a mysterious group, or an internal US government investigat
 
 ## Evidence and Hypotheses
 
-The Denb Report is addressed "To: All Deneb Team Members" from [[JS (Denb Report Author)|JS]] and dated March 23, 1992. The copies in circulation carry the heading "File: UFO3263", which is the file number of the UFO BBS archive that preserved the text; Gerb reads it as a sign that the report is one of many UAP cases the DENB Team studied. The report states that the facts were "gathered from two eyewitness accounts, documentation illegally copied, and a partially destroyed document" by a now-deceased person in 1978. The DENB group received the notes and documents in February 1992.
+The Denb Report is addressed "To: All Deneb Team Members" from [[JS (Denb Report Author)|JS]] and dated March 23, 1992; Gerb reads the name as "Denb". The "File: UFO3263" heading on circulating copies is the file number of the UFO BBS archive that preserved the text, not a case number of the team, though Gerb takes it as a sign that the Coyame report is one of many cases the team and JS studied. The report states that the facts were "gathered from two eyewitness accounts, documentation illegally copied, and a partially destroyed document" by a now-deceased person in 1978. The DENB group received the notes and documents in February 1992.
 
 > [!edit] Corrected 17 October 2026
-> Earlier versions gave the addressee as "all Denb team members" and said the "File UFO 3263" label suggests the team studied many cases. The text is addressed "To: All Deneb Team Members", and the number is the file number of the UFO BBS archive that preserved it (textfiles.com, ufo/UFOBBS/3000/3263.ufo); the many-cases reading is Gerb's.
+> Earlier versions gave the addressee as "all Denb team members" and read the "File UFO 3263" label as a sign the team studied many cases. The text is addressed "To: All Deneb Team Members", and the number is the file number of the UFO BBS archive that preserved it (textfiles.com, ufo/UFOBBS/3000/3263.ufo); the many-cases reading is Gerb's.
 
 ::wiki-document
 ---

@@ -1,8 +1,8 @@
 import type { BakedLinks, BakedPortraits, BakedPreview, Category, GraphNode, TopEntries, TopEntry } from '../../shared/types/wiki'
 import { CATEGORY_ORDER } from '../../shared/types/wiki'
 
-/** Kinds that get a list: everything but videos, maps of content and the home page. */
-export const TOP_CATEGORIES: Category[] = CATEGORY_ORDER.filter(c => c !== 'Videos' && c !== 'MOCs')
+/** Kinds that get a list: everything but videos, maps of content, analyses and the home page. */
+export const TOP_CATEGORIES: Category[] = CATEGORY_ORDER.filter(c => c !== 'Videos' && c !== 'MOCs' && c !== 'Analyses')
 
 export interface TopSources {
   nodes: GraphNode[]

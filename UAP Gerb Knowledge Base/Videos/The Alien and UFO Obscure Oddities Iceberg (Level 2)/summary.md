@@ -231,7 +231,7 @@ Gerb plans whole videos on [[Wright-Patterson Air Force Base]], so here he gives
 - the Roswell shipments of 5 July 1947;
 - [[Battelle Memorial Institute|Battelle]]'s metallurgical work of 1949 to 1955;
 - the Afghan landing report of 24 January 1956;
-- [[Barry Goldwater]]'s rebuff by General [[Curtis LeMay]], which Gerb dates to 28 December 1973 (see [[Blue Room]]);
+- [[Barry Goldwater]]'s rebuff by General [[Curtis LeMay]], which Gerb dates to 28 December 1973 (see [[Blue Room]]);[^gerb-goldwater-lemay-date]
 - [[Ben Rich]]'s 1993 remark that "anything that you can imagine we already know how to do";
 - Representative [[Mike Turner]]'s opposition to the 2023 [[Schumer Amendment (NDAA)|Schumer amendment]]. Gerb stresses that Turner represents the district that contains the base.
 
@@ -493,3 +493,5 @@ entries:
 - **Concepts**: [[Robertson Panel]], [[Blue Room]], [[Solar Warden]], [[Legacy Programs]], [[Dyson Sphere]], [[Kardashev Scale]], [[Dysonian SETI (CTI)]], [[Fermi Paradox]], [[Great Filter]], [[Dark Forest Theory]], [[Anunnaki]], [[Ancient Astronaut Theory]], [[Kimbaya Artifacts]], [[Mystery Airship Craze]], [[Indigo Children]], [[Interplanetary Contamination]]
 - **Documents**: [[Condon Report]], [[Schumer Amendment (NDAA)]]
 - **Events**: [[1986 Japan Airlines UFO Incident]], [[Roswell Crash]], [[Aurora Texas UFO Crash]], [[1561 Celestial Phenomenon over Nuremberg]], [[Voronezh UFO Incident]], [[2009 Norwegian Spiral Anomaly]]
+
+[^gerb-goldwater-lemay-date]: Gerb dates LeMay's rebuff to "the 28th of December 1973" in his Level 2 iceberg and says Goldwater "in 1975 was stonewalled" in his Special Forces video, but LeMay stopped being Air Force Chief of Staff in early 1965 (on 1 February 1965, per Gerb's own Kecksburg video), and Goldwater's March 1975 letter puts his attempt "ten or twelve years" earlier, so both later dates are probably slips: 1975 is the year of the interview in which Goldwater told the story, and no source for 28 December 1973 was found ([Curtis LeMay, Wikipedia](https://en.wikipedia.org/wiki/Curtis_LeMay); [Goldwater's 1974 and 1975 letters](https://mirror.cyberbits.eu/textfiles.com/ufo/UFOBBS/2000/2934.ufo)).

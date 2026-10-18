@@ -401,7 +401,7 @@ By the time the team got back to its Quonset hut at 7 a.m., their gunnery sergea
 
 The next day, Castle and only his team were called to medical and given an anthrax "booster", with a rifleman standing nearby, although they had received the vaccine about a year earlier. Gerb finds this anomalous because the Department of Defense's mandate to vaccinate all personnel did not take effect until December 1997. Between the 1991 Gulf War and then, only some troops received the vaccine. When Gerb asked the two other Marines he had interviewed, both said they had been given anthrax boosters straight after their own encounters. Gerb calls it "a data point we simply cannot ignore".
 
-Gerb sets Castle's night beside the two other Marine encounters he has covered, those of [[Jonathan Weygandt]] and [[Michael Herrera]]:
+Gerb sets Castle's night beside the two other Marine encounters he has covered, those of [[Jonathan Weygandt]] and [[Michael Herrera]][^gerb-weygandt-herrera-swap]:
 
 ::wiki-compare{video="ShoUyC1aip0" video-title="1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE"}
 ---
@@ -745,3 +745,5 @@ entries:
 - **Documents**: [[Atomic Energy Act of 1954]], [[Craft Using an Inertial Mass Reduction Device]]
 - **Operations**: [[Project Sanddollar]]
 - **Events**: [[Rodrik Castle UAP Encounter]], [[Hunter Warrior Advanced Warfighting Experiment]], [[Peru UFO Crash Incident]], [[2009 Indonesia UFO Encounter (Herrera)]], [[2004 Nimitz UAP Encounter (Tic Tac)]], [[Norton Air Force Base Air Show]], [[Belgian UFO Wave]], [[Sol Foundation 2023 Presentation by Kevin Knuth]]
+
+[^gerb-weygandt-herrera-swap]: Lining up the three Marine encounters, Gerb says "In Wagant's case, in 2009, the young Marines stumbled upon a clandestine team with tactical vehicles actively loading containers" under an octagonal craft in Sumatra, which is Michael Herrera's account. His next sentence gives Weygandt's own case correctly ("In Wayan's case in 1997", in the Peruvian jungle), so the first name is probably a slip for Herrera.
