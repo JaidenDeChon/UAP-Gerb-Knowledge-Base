@@ -1344,7 +1344,9 @@ Authoring rules:
 ### `::wiki-document`
 
 Source: `app/app/components/content/WikiDocument.vue` (pdf.js loading in
-`app/app/utils/pdf.ts`)
+`app/app/utils/pdf.ts`; transcript dialog in
+`app/app/components/wiki/DocumentTranscriptDialog.vue`; pure helpers in
+`app/app/utils/wikiDocument.ts`)
 
 One page of a primary-source document, set into an article: the page itself,
 or only a band of it, to show the passage under discussion. It answers "what
@@ -1354,21 +1356,45 @@ document needs a page in `Documents/`, hosted through
 
 What it renders:
 
-- **The page, as paper.** White in every theme, with a hairline frame. It
-  draws when the figure comes within 400px of the viewport: pdf.js loads
-  then, in the browser only, and fetches just the byte ranges that page needs.
-  Until then page 1 shows its baked thumbnail; other pages hold their space.
+- **A header.** A "Source document" label, then a **Document page** link to
+  the document's own page in `Documents/` (there even when the article never
+  links it) and, when the document has a transcription, a **Transcript**
+  button. All header controls are at least 44px tall.
+- **The page, as paper.** White in every theme, with a hairline frame. The
+  page links to the full viewer on the document's page at `#page=N`.
+- **Lazy loading.** Nothing heavy loads until the figure comes within 400px of
+  the viewport. Then pdf.js loads, in the browser only, and fetches just the
+  byte ranges that page needs. Until then the page's space is reserved: page 1
+  shows its baked thumbnail (loaded lazily), other pages show faint ghost
+  lines. While pdf.js loads and the page renders, the lines pulse and a
+  "Loading page N…" label sits over them; the figure is `aria-busy` and a
+  visually hidden status says "Loading page N of <title>". The pulse and
+  spinner stop under `prefers-reduced-motion`.
+- **If the page can't be drawn**, a panel takes its place: "Page N couldn't be
+  shown here", with **Open the PDF** (at `#page=N`, new tab), **Open in the
+  viewer** and **Try again**.
+- **The transcript dialog.** The Transcript button opens the transcription in
+  a dialog (`components/wiki/DocumentTranscriptDialog.vue`, on reka-ui's
+  Dialog: focus trap, Escape and outside click to close, page scroll locked,
+  title from the document's name, focus back on the button when closed). The
+  dialog's code and the transcription note load only on first open, with a
+  loading skeleton meanwhile. It renders the note through `ContentRenderer`,
+  so callouts and tables look as they do on the page, and opens scrolled to
+  the `## Page N` section for the widget's page, marked with an accent bar.
+  A **Full page** link goes to the transcription's own page.
 - **A band of it** with `region`. The figure then spans the column, and the
   window shows only that slice of the page.
 - **A caption.** Your text, then the document's title (linking to the page in
-  the full viewer, `#page=N`), "page N of M", issuer and date. The whole figure
-  links to the same place.
+  the full viewer), "page N of M", issuer and date.
 - **Without a hosted file**, for a copyrighted, unclear or unsourced
-  document, a dashed card with the title, issuer and date, your caption and a
-  link to the source.
-- **Accessibility.** The figure link is named "<title>, page N of M. Open in
-  the document viewer". The page image itself is hidden from assistive tech;
-  the viewer has the selectable text. Theme tokens only.
+  document, a dashed card with the same header (Document page link, and the
+  Transcript button if there is a transcription), then the title, issuer and
+  date, your caption and a link to the source.
+- **Accessibility.** The page link is named "<title>, page N of M. Open in
+  the document viewer". The header controls carry the title for screen
+  readers ("Transcript of <title>", "Document page: <title>"). The page
+  image itself is hidden from assistive tech; the viewer and the transcript
+  have the text. Theme tokens only; no horizontal scroll at phone width.
 
 Props (YAML body):
 
