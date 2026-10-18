@@ -614,6 +614,15 @@ That reorganization began on 5 January 1994, when the Deputy Secretary of Defens
 > [!edit] Corrected 16 October 2026
 > Earlier versions said the Army "sometimes complied". The report (GAO/NSIAD-93-162, page 3) says the Army provided due process in the few cases GAO examined, three of six, the other three people having been discharged first, and that the sample was too small to judge overall compliance.
 
+::wiki-document
+---
+name: "GAO Report on Special Access Program Due Process (1993)"
+page: 5
+region: [0.61, 0.85]
+caption: "The report's Results in Brief: the Navy and Air Force did not give the due process DoD Regulation 5200.2-R requires when SAP access is denied or revoked, while the Army did in the few cases GAO examined."
+---
+::
+
 ::wiki-org-chart
 ---
 root:

@@ -35,6 +35,15 @@ In 1953, a year after Blue Book was set up and immediately after the [[Robertson
 
 In May 1955 [[Air Force Technical Intelligence Center|ATIC]] issued [[Project Blue Book Special Report No. 14]], a statistical study of the 3,201 cases in Blue Book's files up to the end of 1952, coded onto IBM punched cards with the help of an outside panel of scientists. The report does not name the panel, which was [[Battelle Memorial Institute]] working under [[Project Stork]]. It found it "highly improbable" that any of the reports represented technology beyond present-day scientific knowledge, and stressed that no case had produced valid evidence of physical matter. In [[Videos/UFOs in the Private Sector - Battelle Memorial Institute/summary|UFOs in the Private Sector - Battelle Memorial Institute]], Gerb sets that finding against Battelle's 1949 work on [[Nitinol (Nickel-Titanium Alloy)|nitinol]] for Wright-Patterson.
 
+::wiki-document
+---
+name: "Project Blue Book Special Report No. 14"
+page: 10
+region: [0.25, 0.53]
+caption: "Special Report No. 14's conclusion that it is \"highly improbable\" the reports represent technology beyond present-day scientific knowledge, and that no case produced valid evidence of physical matter."
+---
+::
+
 ## The 1965 Kecksburg Case
 
 Project Blue Book's handling of the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]] is an example of the dismissive approach it took for much of its later years, which hurt its credibility with serious researchers.

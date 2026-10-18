@@ -19,6 +19,15 @@ Gerb says Grudge's investigators were tasked with attributing UFO sightings to c
 > [!edit] Clarified 16 October 2026
 > Earlier versions credited this list of explanations to Grudge's operating directive. No such directive has been sourced; the list is Gerb's, and the closest wording in the record is RAND's comment quoted in the report's summary.
 
+::wiki-document
+---
+name: "Project Grudge Report"
+page: 7
+region: [0.57, 0.67]
+caption: "The report's summary quoting RAND, which had found nothing to \"seriously controvert simple rational explanations\" of the incidents it considered."
+---
+::
+
 ## Leadership
 
 After its official 1949 termination, Grudge continued in reduced form and was reactivated with Captain Edward J. Ruppelt as director. Under Ruppelt the program was reorganized into Project Blue Book in 1952, and Ruppelt continued as Blue Book's first director.
@@ -30,6 +39,14 @@ The Lubbock Lights case shows how Grudge worked. In Lubbock, Texas, four enginee
 ## Grudge Report
 
 The project's report, "Unidentified Flying Objects – Project GRUDGE" (Technical Report No. 102-AC 49/15-100), is dated August 1949. Its title page names Lt H. W. Smith and G. W. Towles, and it was approved by Lt Col A. J. Hemstreet Jr., chief of the Technical Analysis Division, and, for the Commanding General, by Col Harold E. Watson, chief of the Intelligence Department. It covers incidents 1 to 244, reported up to January 1949, leaves the New Mexico green fireballs aside, and finds that the reports pose "no direct threat to the national security of the United States". It recommended that the investigation be reduced in scope. Its classification was cancelled on 1 August 1952 over Ruppelt's signature. The National Archives' scan, appendices included, runs to 412 pages. See [[Project Grudge Report]].
+
+::wiki-document
+---
+name: "Project Grudge Report"
+page: 2
+caption: "The title page: Technical Report No. 102-AC 49/15-100, with Smith and Towles named, the approvals of Hemstreet and Watson, Ruppelt's 1 August 1952 declassification and a release date of August 1949."
+---
+::
 
 Gerb says the report ran to 707 pages of case analysis and was published in 1960, and that the records were updated continuously until 1999, long after the program had nominally ended.
 

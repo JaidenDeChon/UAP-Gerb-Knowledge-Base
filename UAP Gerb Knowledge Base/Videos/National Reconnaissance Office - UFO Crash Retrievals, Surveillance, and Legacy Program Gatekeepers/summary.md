@@ -609,6 +609,14 @@ Why, Gerb asks, have analysts at the NRO and the NGA (National Geospatial-Intell
 > [!edit] Corrected 16 October 2026
 > Earlier versions called the object tic-tac-shaped, and the timeline said the NRO judged it so. The briefing itself claims only "a rough similarity" to the tic-tac shape and rates its confidence "relatively low"; the tic-tac judgement is Gerb's reading.
 
+::wiki-document
+---
+name: "Recent Sentient Highlights"
+page: 2
+caption: "The NRO briefing's bottom-line slide on the 6 May 2021 Sentient detection, comparing the object to Navy UAP detections and the \"tic tac\" shape."
+---
+::
+
 Gerb believes Sentient, begun in 2010 and built out by 2016, is a primary resource of [[Immaculate Constellation (IMCON)|Immaculate Constellation]], the unacknowledged SAP established in 2017 whose existence whistleblower [[Matt Brown]] reported to Congress in 2024. The [[Immaculate Constellation Report|IMCON report]] describes cases Gerb attributes to NRO overhead infrared collection, including a 210 to 420 foot disc over INDOPACOM that rose out of cloud cover and dived back as if aware it was watched, and a tic-tac over SOUTHCOM whose path the collection systems seemed to know in advance.
 
 > [!important] IMCON is not a legacy program
@@ -770,6 +778,15 @@ Gerb has previously proposed two General Accounting Office (GAO) reports as that
 
 > [!edit] Corrected 16 October 2026
 > Earlier versions dated both GAO reports to 1993. The Lockheed report, *Need for DOD Inspections of Special Access Contracts* (GAO/NSIAD-86-191), is dated 7 August 1986; Gerb dates it to August 1993 in this video. The due-process report (GAO/NSIAD-93-162) is from May 1993. The timeline entry for the Lockheed report was redated to match.
+
+::wiki-document
+---
+name: "GAO Report on Special Access Contracts (1986)"
+page: 3
+region: [0.03, 0.47]
+caption: "The opening of GAO's letter to Secretary of Defense Caspar Weinberger, dated August 7, 1986, recalling its July 24 testimony on Lockheed's control of classified special access documents."
+---
+::
 
 ## Thirteen Gatekeepers
 

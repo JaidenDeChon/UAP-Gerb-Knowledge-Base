@@ -15,7 +15,10 @@ The AEC may have been included because of UFO sightings near nuclear installatio
 
 ## Additional Context
 
-The AEC was linked to [[Avery Technical Center]] through laboratory studies of radiobiological warfare. This indicates that its work extended into classified military research programs beyond its public nuclear energy mission.
+The AEC is linked to [[Avery Technical Center]] at Dugway through the radiological warfare laboratories there, which in the 1950s used spent AEC fuel elements to irradiate food with gamma rays, according to a 2012 environmental assessment ([[Environmental Assessment Report on Avery Technical Center]]). Gerb describes them as "radiobiological warfare laboratories for the Atomic Energy Commission".
+
+> [!edit] Corrected 17 October 2026
+> This paragraph used to say the AEC conducted radiobiological warfare studies at Avery, showing its work extended into classified military research. The assessment says only that Avery's radiological warfare laboratories used spent AEC fuel elements, mainly for dosimetry and food irradiation.
 
 ## Restricted Classification and UAP Material Concealment
 

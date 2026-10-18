@@ -32,7 +32,10 @@ Because the Army and Air Force share this MRTFB structure, researchers have theo
 
 ## Key Facilities
 
-Avery Technical Center is a 40-acre area bordering Michael Army Airfield. It was historically used for radiobiological warfare studies and for handling radioactive materials for the Atomic Energy Commission, and it has an internal rail system for moving radioactive materials. Its main buildings include Test Operations (Building 1010), Classified Storage (Building 1016), Photo Operations and Maintenance (Building 1012), General Storage (Building 1038), and the Avery Tunnel Entrance (Building 102). Although Avery is a major facility, it is conspicuously absent from DPG visitor guides.
+Avery Technical Center is a 40-acre area bordering Michael Army Airfield. Its buildings were designed for radiological studies and the handling of radioactive materials, its radiological warfare laboratories irradiated food with spent fuel elements from the Atomic Energy Commission, and it has an internal rail system for moving radioactive materials. Its main buildings include Test Operations (Building 1010), Classified Storage (Building 1016), Photo Operations and Maintenance (Building 1012), General Storage (Building 1038), and the Avery Tunnel Entrance (Building 1002). Although Avery is a major facility, it is conspicuously absent from DPG visitor guides.
+
+> [!edit] Corrected 17 October 2026
+> This paragraph used to say Avery did radiobiological warfare studies for the Atomic Energy Commission and to number the tunnel entrance 102, as Gerb does in the video. The 2012 environmental assessment ([[Environmental Assessment Report on Avery Technical Center]]) says radiological warfare laboratories using AEC spent fuel, and numbers the tunnel entrance 1002.
 
 Michael Army Airfield is shared between Dugway and Hill Air Force Base's 388th Range Squadron. It is used for aerospace testing, including the Lockheed Martin X-33 hypersonic vehicle program, and lies within the West Desert Test Center.
 

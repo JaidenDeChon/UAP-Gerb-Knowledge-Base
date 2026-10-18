@@ -672,7 +672,19 @@ The legal teeth came from a Truman order. Former New Mexico state representative
 
 Wartime nuclear secrecy began as self-censorship under Bush's Office of Scientific Research and Development, and Groves introduced tiered, need-to-know compartments that prefigure today's SCI and SAPs. The AEC, founded in 1946, kept its own Q and L clearances, and the Atomic Energy Act of 1946 turned Groves' informal "born secret" practice into [[Restricted Data|restricted data]], the only US classification that applies automatically by subject matter. That split US classification into two tracks with different legal bases, declassification rules and oversight: the executive-order system (confidential, secret, top secret, SCI and SAPs, today under [[Executive Order 13526]]), and the statutory Atomic Energy Act system now run by the Department of Energy. So, Gerb says, an executive order by President Trump to release the UFO files would not touch DOE restricted data, and this may be why DOE is "baked into every single layer" of the legacy structure.
 
-The [[Atomic Energy Act of 1954]] is where, in his phrase, the classification "teeth grew into fangs." Grusch, in a clip, notes that the [[Schumer Amendment (NDAA)|Schumer amendment]] "awkwardly calls out" the 1954 act, and that Section 51 defines special nuclear material so vaguely ("anything that gives off a sizable amount of atomic energy") that recovered material could be "transclassified" into a nuclear secret. Section 142 gave statutory authority for what was named transclassified foreign nuclear information (TFNI) in 2010: information moved out of restricted data and handled like national security information, but still exempt from declassification. Gerb notes that TFNI is the exact language in the Schumer legislation, which says legacy programs have misclassified UFO material this way. He also recalls [[Dylan Borland]]'s account of old AEC files, held near the Defense Threat Reduction Agency, concluding some UFOs are extraterrestrial.
+The [[Atomic Energy Act of 1954]] is where, in his phrase, the classification "teeth grew into fangs." Grusch, in a clip, notes that the [[Schumer Amendment (NDAA)|Schumer amendment]] "awkwardly calls out" the 1954 act, and that Section 51 defines special nuclear material so vaguely that recovered material could be "transclassified" into a nuclear secret. Grusch paraphrases the section as covering "anything that gives off a sizable amount of atomic energy"; the 1954 text lets the Atomic Energy Commission declare other material special nuclear material if it finds it "capable of releasing substantial quantities of atomic energy" and the President assents in writing. Section 142 gave statutory authority for what was named transclassified foreign nuclear information (TFNI) in 2010: information moved out of restricted data and handled like national security information, but still exempt from declassification. Gerb notes that TFNI is the exact language in the Schumer legislation, which says legacy programs have misclassified UFO material this way. He also recalls [[Dylan Borland]]'s account of old AEC files, held near the Defense Threat Reduction Agency, concluding some UFOs are extraterrestrial.
+
+> [!edit] Attribution clarified 17 October 2026
+> This paragraph used to give "anything that gives off a sizable amount of atomic energy" as Section 51's definition. That is Grusch's paraphrase in the clip; the Act's own words are "capable of releasing substantial quantities of atomic energy".
+
+::wiki-document
+---
+name: "Atomic Energy Act of 1954"
+page: 11
+region: [0.62, 0.83]
+caption: "Section 51 as enacted: the Commission may declare other material special nuclear material if it finds the material \"capable of releasing substantial quantities of atomic energy\" and the President assents in writing."
+---
+::
 
 That statutory authority, he argues, is what lets DOE and [[National Nuclear Security Administration|NNSA]] special teams act on UFO material. His "complete theory" is that the NNSA, using FFRDCs such as Sandia, Los Alamos, Oak Ridge and Lawrence Livermore, uses three teams for on-site recovery, procurement and transport of recovered UFOs under the guise of the 1954 act:
 
@@ -822,6 +834,15 @@ With the Manhattan Project 2.0's "iron grip" established, Gerb asks how today's 
 ### Eisenhower, Nixon and the Wild West
 
 Eisenhower's EO 10501 created the modern confidential, secret and top secret levels and abolished the fourth "restricted" level (not to be confused with the DOE's restricted data). Program leaders, "quite peeved," layered ad hoc protections on top secret instead, above all top secret codeword read-ons, as seen in the early NRO. This is Gerb's "wild wild west," when the programs could put themselves anywhere, and it bred black programs such as the 1958 Greenbrier congressional bunker. In March 1972, [[Richard Nixon]]'s EO 11652 formally established a special access framework. Gerb imagines legacy leadership, by then inside Nixon's 303 Committee, "jumped with joy." But the spread of special access labels drew a 1973 House Committee on Government Operations report documenting dozens of labels used even by agencies with no classification authority. That exposure to Congress, he argues, was the first real threat. Jimmy Carter's 1977 push toward declassification marks for him the start of the decline, and may be why the programs have not trusted Democratic presidents with read-ons.
+
+::wiki-document
+---
+name: "Executive Order 10501"
+page: 1
+region: [0.46, 0.92]
+caption: "The order's opening in the Federal Register of 10 November 1953 (centre column): Section 1 limits classified defense information to three categories, Top Secret, Secret and Confidential."
+---
+::
 
 ### Reagan, Yellow Fruit and near-exposure
 

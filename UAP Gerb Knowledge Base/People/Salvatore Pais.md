@@ -8,6 +8,14 @@ tags:
 
 Salvatore Cezar Pais is an American aerospace engineer with a PhD in mechanical and aerospace engineering. He worked for the US Navy's Naval Air Warfare Center Aircraft Division at [[Naval Air Station Patuxent River]] in Maryland. He is best known for a series of Navy-assigned patents, among them the "[[Craft Using an Inertial Mass Reduction Device]]," filed in 2016 and granted in 2018 (US 10,144,532), which describes a craft that generates and manipulates fields around itself to reduce its inertial mass. The patents are widely nicknamed the Navy's "UFO patents."
 
+::wiki-document
+---
+name: "Craft Using an Inertial Mass Reduction Device"
+page: 1
+caption: "The patent's front page: US 10,144,532 B2, filed 28 April 2016 and granted 4 December 2018, assigned to the Secretary of the Navy, with the abstract and the triangular craft drawing."
+---
+::
+
 ## The Craft Patent
 
 The patent describes a triangle- or diamond-shaped hybrid aerospace-undersea craft that manipulates electromagnetic fields and the quantum vacuum around its hull to propel itself. Pais has called the underlying mechanism the "Pais Effect," though the term does not appear in the craft patent itself. James Sheehy, NAVAIR's chief technology officer, supported the Navy's application inside NAVAIR, and it was approved after internal review.

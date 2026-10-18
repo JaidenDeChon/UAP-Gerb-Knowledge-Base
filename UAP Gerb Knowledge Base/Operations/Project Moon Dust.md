@@ -40,6 +40,15 @@ In November 1978, the US Embassy in Wellington reported two "apparent space frag
 > [!edit] Corrected 16 October 2026
 > Earlier versions said Moon Dust itself investigated the fragments and quoted "spherical or like a pressure vessel" as their description. That is Gerb's paraphrase. The cable (WELLINGTON 06093, 7 November 1978) says "spherical, perhaps pressure vessels", and it shows New Zealand's DSIR examining the objects while the embassy reported them under the Moon Dust heading.
 
+::wiki-document
+---
+name: "Moon Dust New Zealand Cable (1978)"
+page: 1
+region: [0.17, 0.50]
+caption: "The head of the embassy's cable of 7 November 1978, subject \"MOONDUST: NEW ZEALAND\", and its summary: two space fragments, \"spherical, perhaps pressure vessels\", with no identifying marks."
+---
+::
+
 ### 1978 Bolivia UFO Crash
 
 On May 6, 1978, at 4:15 PM, thousands of people near El Taire, Bolivia saw a cylindrical object crash into a mountainside. The crash caused a sonic boom heard up to 150 miles away and cracked window panes within a radius of 30 miles. Local Army Corporal [[Natalio Ruiz]] saw the UFO fly above his head and said it looked like "a gigantic wine container emitting a trace of white smoke."

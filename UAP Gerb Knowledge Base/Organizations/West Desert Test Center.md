@@ -19,7 +19,10 @@ WDTC includes several important installations at Dugway Proving Ground (DPG).
 
 [[Ditto Technical Center]] is the operational heart of WDTC. It houses range operations, contractor facilities (including Jacobs Solutions), material test facilities, defensive test chambers and the Garrison building, where witness MS was interrogated for six hours after his 2009 encounter at Avery.
 
-Avery Technical Center is a 40-acre restricted facility bordering Michael Army Airfield. It was historically used for radiobiological warfare studies and for handling radioactive materials for the Atomic Energy Commission. Avery has an internal rail system, clean room facilities, classified storage (Building 1016), test operations (Building 1010) and a tunnel entrance (Building 102) that may connect to the alleged DUMB. Although it is a major installation, it is conspicuously absent from DPG visitor guides.
+Avery Technical Center is a 40-acre restricted facility bordering Michael Army Airfield. Its buildings were designed for radiological studies and the handling of radioactive materials, and its radiological warfare laboratories irradiated food with spent fuel elements from the Atomic Energy Commission. Avery has an internal rail system, clean room facilities, classified storage (Building 1016), test operations (Building 1010) and a tunnel entrance (Building 1002) that may connect to the alleged DUMB. Although it is a major installation, it is conspicuously absent from DPG visitor guides.
+
+> [!edit] Corrected 17 October 2026
+> This paragraph used to say Avery did radiobiological warfare studies for the Atomic Energy Commission and to number the tunnel entrance 102, as Gerb does in the video. The 2012 environmental assessment ([[Environmental Assessment Report on Avery Technical Center]]) says radiological warfare laboratories using AEC spent fuel, and numbers the tunnel entrance 1002.
 
 Michael Army Airfield is shared by the Army and the Air Force and is used for aerospace testing, including past support for the Lockheed Martin X-33 hypersonic program. It is operated jointly with Hill Air Force Base's 388th Range Squadron.
 
@@ -75,7 +78,10 @@ Materiel exploitation, meaning clean room operations, laboratory analysis and th
 
 For chemical and materials analysis, WDTC's specialization in chemical and biological defense testing provides cover and infrastructure for studying exotic materials, propulsion chemistry and potentially non-human biologics. The presence of senior DOD chemists like "GP" working in "legacy operations" supports claims of chemistry-intensive UAP materiel analysis.
 
-Underground operations take place in the alleged 1,300-square-mile DUMB beneath Granite Peak. It is reached through Building 102 (Avery Tunnel Entrance), supplied by underground maglev rail connections, and provides secure storage, study and operations space free from overhead observation.
+Underground operations take place in the alleged 1,300-square-mile DUMB beneath Granite Peak. It is reached through Building 1002 (Avery Tunnel Entrance), supplied by underground maglev rail connections, and provides secure storage, study and operations space free from overhead observation.
+
+> [!edit] Corrected 17 October 2026
+> This paragraph used to number the tunnel entrance 102, following Gerb's reading. The 2012 environmental assessment's Table 2-1 numbers it 1002.
 
 For internal transport, Avery's documented rail system for moving radioactive materials may also serve to move craft and materials covertly between surface facilities and underground locations.
 

@@ -129,7 +129,7 @@ events:
   - date: "1950-03-22"
     title: "The Hottel memo"
     cue: 1096
-    summary: "FBI agent Guy Hottel wrote to J. Edgar Hoover that an Air Force investigator had reported three flying saucers recovered in New Mexico: circular, with raised centres, about 50 feet across, and occupied by 3-foot humanoid figures in metallic suits. A Mr. Carl Howe blamed the crashes on high-powered radar interfering with their controls."
+    summary: "FBI agent Guy Hottel wrote to J. Edgar Hoover that an Air Force investigator had reported three flying saucers recovered in New Mexico: circular, with raised centres, about 50 feet across, and occupied by 3-foot humanoid figures in metallic suits. A further informant, whom Gerb names as Mr. Carl Howe (the name is redacted in the released memo), blamed the crashes on high-powered radar interfering with their controls."
     category: document
     significance: major
     entities:
@@ -438,7 +438,19 @@ root:
 
 Most of the video concerns a significant meeting about crash operations, which Sarbacher and Walker both placed at Wright Field around 1950. Gerb ends on a document from the same year. On 22 March 1950, FBI agent [[Guy Hottel]] wrote to Director [[J. Edgar Hoover]] relaying what an Air Force investigator had said. Gerb guesses the investigator came from the [[Air Force Technical Intelligence Center|Air Technical Intelligence Center]] (ATIC). In 1952 ATIC commissioned Battelle for [[Project Stork]], a project run in parallel to Blue Book without the public's knowledge, meant to "assist the Air Force in reassuring the public that everything is well under control."
 
-According to the [[Hottel Memo]], three flying saucers had been recovered in New Mexico. They were circular with raised centres and about 50 feet in diameter, and each was occupied by humanoid figures about 3 feet tall dressed in metallic suits. One [[Carl Howe]] said the discs were found in New Mexico because of high-powered radar there, which likely caused the crashes by interfering with their control mechanisms. Gerb leaves two questions open: whether the memo ties in with the Wright Field retrieval meeting, and whether it describes the [[Roswell Crash]] of three years earlier.
+According to the [[Hottel Memo]], three flying saucers had been recovered in New Mexico. They were circular with raised centres and about 50 feet in diameter, and each was occupied by humanoid figures about 3 feet tall dressed in metallic suits. A further informant said the discs were found in New Mexico because the government had high-powered radar there, which was believed to interfere with their control mechanisms. Gerb names him as "Mr. [[Carl Howe]]", though in the memo as released the name is blacked out ("According to Mr. [redacted] informant"), and the information is recorded as furnished to a Special Agent whose name is also redacted. Gerb leaves two questions open: whether the memo ties in with the Wright Field retrieval meeting, and whether it describes the [[Roswell Crash]] of three years earlier.
+
+> [!edit] Corrected 17 October 2026
+> This paragraph used to say the memo names "one Carl Howe" as the source of the radar claim. The name is redacted in the FBI Vault release (page 2); Howe is Gerb's identification, and the memo says only that the radar "is believed" to interfere with the saucers' controls.
+
+::wiki-document
+---
+name: "Hottel Memo"
+page: 2
+region: [0.24, 0.56]
+caption: "The memo's body: an Air Force investigator's report of three saucers recovered in New Mexico, and an informant's explanation that radar interfered with their controls."
+---
+::
 
 ## Gerb's Closing Thoughts
 

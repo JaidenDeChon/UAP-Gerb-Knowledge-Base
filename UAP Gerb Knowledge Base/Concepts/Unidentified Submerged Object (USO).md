@@ -22,7 +22,10 @@ Documented cases share a set of recurring physical traits that set USOs apart fr
 Official USO documentation is thin partly because of deliberate regulation, not a lack of reports. Two US directives in particular limited how much of a public USO record could build up:
 
 - [[OPNAV 3820]] (1952/1954) limited the circulation of Navy UFO sightings to the Air Force Technical Intelligence Center, USAF Intelligence and the Director of Naval Intelligence. This sent maritime UAP reports into classified channels instead of the public [[Project Blue Book]] investigation.
-- [[JANAP 146C]] (1954) barred military personnel, and civilians who had filed official sighting reports, from discussing those reports in public, under criminal penalties that included fines and imprisonment.
+- [[JANAP 146C]] (1954) barred military personnel and civilians from revealing official sighting reports. It placed "all persons aware of the contents or existence" of a CIRVIS or MERINT report under the Communications Act of 1934 and the Espionage Laws (18 U.S. Code 793 and 794), and prohibited "the unauthorized transmission or revelation" of their contents. The directive names no penalties; Gerb says violators faced a prison sentence and a $10,000 fine.
+
+> [!edit] Attribution clarified 17 October 2026
+> This item used to say the directive carried criminal penalties that included fines and imprisonment, and that the ban covered civilians who had filed reports. JANAP 146(C) (Articles 210a and 308a) cites only the Communications Act of 1934 and 18 U.S.C. 793 and 794 and covers everyone aware of a report; the prison sentence and $10,000 fine are Gerb's, from [[Videos/USO - Unidentified Submerged Objects/summary|USO - Unidentified Submerged Objects]].
 
 As a result of these directives, only 258 of the 13,000+ sightings in Blue Book's 20-year record involved ships, and only 13 of those met the program's own merit standards. The Soviet Union had a parallel system of suppression. After the 1977 Vulga incident, though, [[Fleet Admiral Nikolai Smirnov]] issued a directive making USO reports mandatory for Soviet ships, which in effect created a Soviet version of OPNAV 3820 after the fact.
 

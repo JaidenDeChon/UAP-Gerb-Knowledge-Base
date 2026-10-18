@@ -19,6 +19,15 @@ Several trained military observers watched the UAP for a sustained period, the s
 > [!edit] Corrected 16 October 2026
 > Earlier versions said ground radar confirmed the object. The [[DIA Tehran UFO Report (1976)|attaché's report]] records a radar lock by the second F-4's backseater at 27 nautical miles and no ground radar contact; the tower saw the cylinder-shaped object only after the pilot told it where to look.
 
+::wiki-document
+---
+name: "DIA Tehran UFO Report (1976)"
+page: 4
+region: [0.51, 0.83]
+caption: "The attaché's account: the first F-4 losing all instrumentation and communications at 25 NM, the second F-4's radar lock at 27 NM, and a second object coming out of the first and heading for the jet as the pilot tried to fire an AIM-9."
+---
+::
+
 ## DSP Satellite Detection and Tracking
 
 [[Lee Graham]] and [[Ron Regehr]], satellite sensor technicians at [[Aerojet]] in California, established through their research that United States military [[Defense Support Program (DSP)]] satellites tracked the Tehran UFO Incident. During their investigation they found a computer printout from the time of the Iranian UFO overflight, which confirmed that the DSP satellite had detected an anomalous object in Iranian airspace.

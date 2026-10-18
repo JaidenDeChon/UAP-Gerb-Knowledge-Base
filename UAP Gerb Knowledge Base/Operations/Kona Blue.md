@@ -41,6 +41,14 @@ A more formal attempt followed in 2011, using the Kona Blue PAP structure. Docum
 - [[Bigelow Aerospace Advanced Space Studies]] built a 5,000 square foot underground vault specifically to receive and secure the materials. It was 15-20 feet deep, with 3-foot thick walls, ceilings and floors, multiple tunnels, security doors and a steel vault door
 - The vault was designed to be operational by late 2009 or early 2010
 
+::wiki-document
+---
+name: "Kona Blue Documents"
+page: 36
+caption: "Joel Wall's memo of 11 July 2011 asking Under Secretary Tara O'Toole to approve Kona Blue as a DHS Science & Technology prospective special access program, with her signature on the approval line."
+---
+::
+
 ## Stonewalling by CIA and DNI
 
 Several senior intelligence officials worked together to kill the 2011 Kona Blue transfer:

@@ -440,6 +440,14 @@ The term "special access program" was first acknowledged in the 1980s; before th
 
 SAPs nest into umbrellas, compartments and sub-compartments, each grouping similar critical program information. Gerb's examples from Part One are the Polaris submarine program, which housed hidden programs including Sand Dollar, and Yellow Fruit, which housed several classified operations. Names hide information too. A SAP is known by an unclassified two-word nickname, its program identifier (PID), such as Yellow Fruit or [[Kona Blue]], to which the SAP central office may add a classified codeword and control markings such as NOFORN. His example marking is "TS SAR HANGAR BULLY WAIVED": top secret, special access required, the PID, and a waived control. A second example, shown on screen, is the Kona Blue marking with its NOFORN control; "TOP SECRET//KONA BLUE//NOFORN" appears, struck out, across the declassified [[Kona Blue Documents]]. He says whistleblowers have sworn before Congress that legacy SAPs rotate names, possibly monthly, to help trace leaks.
 
+::wiki-document
+---
+name: "Kona Blue Documents"
+page: 2
+caption: "The title slide of the DHS Kona Blue deck, with the struck-out TOP SECRET//KONA BLUE//NOFORN banner and its \"unacknowledged, waived\" prospective SAP designation."
+---
+::
+
 ### Three types
 
 SAPs fall into three functional categories. Gerb illustrates them with a hypothetical triangular craft, with electrogravitic propulsion and cloaking derived from a non-human vehicle recovered in the American Southwest, flown by the [[Hidden Wing]] at [[Edwards Air Force Base|Edwards AFB]]'s 412th Test Wing and likely built at Air Force Plant 42.
@@ -605,7 +613,10 @@ He links this to [[Hidden Wing]] "Witness Ed," a lieutenant colonel in Air Force
 
 ## Department of Energy SAPs
 
-Gerb argues DOE SAPs are harder still to crack, because DOE's classification authority comes both from Executive Order 13526 and, separately, from the [[Atomic Energy Act of 1954]], a statute not subject to unilateral presidential declassification. Restricted Data, Formerly Restricted Data and a broad reading of "special nuclear material" (Section 51 of the Act: anything giving off "a sizable amount of atomic energy") have, Grusch says, been used to "transclassify" non-human material as nuclear secrets. A DOE SAP can follow DoD rules or DOE's own statutory system, and the second route lets legacy elements in DOE and the [[National Nuclear Security Administration]] hide their work as nuclear secrets. Gerb says the Department of Energy is "baked into every single layer" of the pyramid. Witness Ed described DOE involvement at every level of the Hidden Wing, from daily operations at the Air Force Test Center on the 412th Test Wing up to Air Force acquisition. He promises a dedicated DOE investigation.
+Gerb argues DOE SAPs are harder still to crack, because DOE's classification authority comes both from Executive Order 13526 and, separately, from the [[Atomic Energy Act of 1954]], a statute not subject to unilateral presidential declassification. Restricted Data, Formerly Restricted Data and a broad reading of "special nuclear material" have, Grusch says, been used to "transclassify" non-human material as nuclear secrets. In the clip Gerb plays, Grusch paraphrases Section 51 of the Act as covering "anything that gives off a sizable amount of atomic energy"; the 1954 text lets the Commission add material it finds "capable of releasing substantial quantities of atomic energy", with the President's written assent. A DOE SAP can follow DoD rules or DOE's own statutory system, and the second route lets legacy elements in DOE and the [[National Nuclear Security Administration]] hide their work as nuclear secrets. Gerb says the Department of Energy is "baked into every single layer" of the pyramid. Witness Ed described DOE involvement at every level of the Hidden Wing, from daily operations at the Air Force Test Center on the 412th Test Wing up to Air Force acquisition. He promises a dedicated DOE investigation.
+
+> [!edit] Attribution clarified 17 October 2026
+> This paragraph used to give "a sizable amount of atomic energy" as the wording of Section 51. It is Grusch's paraphrase; the Act says "capable of releasing substantial quantities of atomic energy".
 
 ## Program Protection Agencies
 

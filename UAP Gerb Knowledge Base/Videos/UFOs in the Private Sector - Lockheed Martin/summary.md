@@ -476,6 +476,15 @@ He then returns to the 1998 Haisch and Puthoff paper on zero-point energy, which
 > [!edit] Corrected 16 October 2026
 > Earlier versions said, as fact, that the patent was awarded in 2017. The patent (US 10,144,532 B2) was filed in April 2016, published in November 2017 and granted in December 2018.
 
+::wiki-document
+---
+name: "Craft Using an Inertial Mass Reduction Device"
+page: 1
+region: [0.08, 0.47]
+caption: "The patent's front-page details: filed 28 April 2016, first published 2 November 2017, granted 4 December 2018, and among its references Puthoff's 2002 \"Polarizable-Vacuum (PV) Approach to General Relativity\"."
+---
+::
+
 The last strand is [[Ron Blackburn]], a retired lieutenant colonel of Lockheed Martin Skunk Works and co-founder of an ATIP group at [[BDM International]]. On 22 August 1998, according to the video, he was awarded a patent for technology increasing a moving vehicle's aerodynamic and hydrodynamic efficiency, including a sketch of a disc. Years later he said on a podcast that he had reverse-engineered a way to eliminate sonic booms at high speed by studying videos of disc-shaped craft he had access to. Gerb notes that this matches two of the UAP observables described by [[Luis Elizondo]]: trans-medium travel and supersonic speed without a sonic boom.
 
 ### Lockheed Martin, unit by unit

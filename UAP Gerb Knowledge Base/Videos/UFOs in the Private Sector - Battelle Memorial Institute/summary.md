@@ -246,6 +246,15 @@ On 5 May 1955, Gerb says, Battelle and ATIC published Special Report 14, an anal
 > [!edit] Corrected 16 October 2026
 > Earlier versions said Battelle and ATIC published the report and that it concluded UFOs were not advanced craft because no physical matter had ever been recovered. That is Gerb's account. The report itself, CIA-UAP-015 in the Department of War's 2026 UAP release, is ATIC's, does not name Battelle, and treats the lack of physical evidence as one point among several.
 
+::wiki-document
+---
+name: "Project Blue Book Special Report No. 14"
+page: 10
+region: [0.25, 0.53]
+caption: "The report's summary conclusion: the study was prepared by \"a panel of scientists both in and out of the Air Force\", and \"there has been a complete lack of any valid evidence of physical matter in any case of a reported unidentified aerial object.\""
+---
+::
+
 ## The Nitinol Contract (1949)
 
 In 1949 Wright-Patterson Air Force Base contracted Battelle to research titanium alloys. The first and second progress reports, covering 1 September to 21 October 1949 under a contract whose number Gerb reads as 33-38-3736, concentrate on nitinol, a nickel-titanium alloy officially discovered only in 1961, by Dr. William J. Buehler. Gerb describes its properties. It is superelastic, snapping back to its original shape under high stress with no deformation, and it has shape memory. It is also elastocaloric, heating under mechanical stress and cooling as the stress is removed. The alloy is very hard to make: the composition must be tightly controlled, titanium is highly reactive, and even in the 21st century the alloy needs vacuum arc or vacuum induction remelting. Yet Battelle, he notes, had it in 1949.

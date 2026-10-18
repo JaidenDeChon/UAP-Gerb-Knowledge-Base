@@ -292,6 +292,15 @@ Only the Bolivia case has a longer paper trail than Nepal. A defense intelligenc
 
 The Canadian memo asked for photos on behalf of the USAF [[Air Force Foreign Technology Division|Foreign Technology Division]] at Wright-Patterson and the CIA's Office of Weapons Intelligence. Gerb notes in passing that Canada has historically been open about investigating UFOs and sharing analysis with its Five Eyes partners, a subject he leaves for another video. The New Zealand fragments' shape reminds him of Commander [[David Fravor]]'s [[2004 Nimitz UAP Encounter (Tic Tac)|Tic Tac]], which Fravor likened to a propane tank or pressure vessel with no inlets or outlets.
 
+::wiki-document
+---
+name: "Moon Dust New Zealand Cable (1978)"
+page: 1
+region: [0.17, 0.50]
+caption: "The Wellington cable's summary: both fragments are \"spherical, perhaps pressure vessels\" and bear no identifying marks."
+---
+::
+
 ### The Wright-Patterson connection
 
 Both the Nepal cable and the Canadian memo were addressed to [[Wright-Patterson Air Force Base]], and Gerb asks viewers to notice this. Wright-Patterson, he says (recalling another entry on layer two of his iceberg video), is often seen as the hub where UFO crash retrievals are stored. The [[Roswell Crash|Roswell]] materials were allegedly sent there, and Senator [[Barry Goldwater]] asked Wright-Patterson officials to see the room where "it" was stored, only to be laughed off and told never to ask again.

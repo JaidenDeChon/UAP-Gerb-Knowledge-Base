@@ -116,6 +116,15 @@ For Nell, the Amendment's definitions show that the NDAA was looking specificall
 
 The executive summary routes all UAP data to the National Archives. Nell voices what everyone is thinking: nobody necessarily trusts that this will happen. That is why he values the review board's oversight, which he contrasts with the 1992 JFK records process. Materials, biological evidence of NHI and technologies of unknown origin fall under the Amendment's eminent-domain clause, the federal government's power, as Gerb puts it, to take whatever it wants. Nell sets out arguments for and against using it. Gerb notes that some of the arguments against concern property rights, which points to private corporations holding UAP material.
 
+::wiki-document
+---
+name: "Schumer Amendment (NDAA)"
+page: 6
+region: [0.64, 0.77]
+caption: "The eminent-domain clause as printed in the Congressional Record of 13 July 2023 (right column): the federal government \"shall exercise eminent domain\" over recovered technologies of unknown origin and biological evidence of non-human intelligence held by private persons or entities."
+---
+::
+
 Gerb reports that the Schumer–Rounds amendment was then "watered down and gutted" by opponents of disclosure. He hopes the full bill returns, perhaps in the 2025 NDAA.
 
 ## Controlled or Catastrophic Disclosure

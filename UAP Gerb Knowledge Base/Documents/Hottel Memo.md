@@ -21,13 +21,19 @@ The March 22, 1950 memorandum states:
 - Three flying saucers had been recovered in New Mexico.
 - Each craft was described as circular with a raised center, approximately 50 feet in diameter.
 - The craft were occupied by humanoid figures approximately three feet tall, dressed in metallic suits.
-- According to a source identified as "Mr. [[Carl Howe]]," the discs were found in New Mexico because high-powered radar in the area interfered with the craft's control mechanisms, causing them to crash.
+- "According to Mr. [redacted] informant," the discs were found in New Mexico because the government had a very high-powered radar set-up in the area, and the radar was believed to interfere with the saucers' controlling mechanism. Gerb names this source as "Mr. [[Carl Howe]]"; the name is redacted in the released memo, and Gerb does not say where it comes from.
+
+> [!edit] Corrected 17 October 2026
+> This item used to say the memo identifies the source as "Mr. Carl Howe". The name is blacked out on page 2 under FOIA exemption b7D; the name Howe comes from Gerb's narration.
 
 The memo does not specify the exact location of the recoveries, the date they occurred, or the identity of the Air Force investigator who provided the information. Hottel passed the information on as he received it, without investigating or verifying the claims himself.
 
 ## Source and Chain of Custody
 
-The information in the Hottel Memo originated with an Air Force investigator, believed to be affiliated with the [[Air Force Technical Intelligence Center]] (ATIC). The investigator relayed the claims to Hottel, who in turn transmitted them to FBI headquarters. The ultimate source was Carl Howe, about whom little is known and whose credibility has never been independently established.
+The memo opens, "The following information was furnished to SA [redacted] by [redacted]": a source whose name is redacted gave it to one of the Washington Field Office's Special Agents, also unnamed, and Hottel transmitted it to FBI headquarters. Within that information, the recovery account is credited to "an investigator for the Air Forces", whom Gerb guesses was from the [[Air Force Technical Intelligence Center]] (ATIC), and the radar explanation to a "Mr. [redacted] informant", whom Gerb names as [[Carl Howe]]. Little is known about that source, and his credibility has never been independently established. The memo closes, "No further evaluation was attempted by SA [redacted] concerning the above."
+
+> [!edit] Corrected 17 October 2026
+> This paragraph used to say the Air Force investigator relayed the claims to Hottel and that the ultimate source was Carl Howe. The memo says the information was furnished to a redacted Special Agent by a redacted source, names neither informant, and credits only the radar claim to the "Mr." informant; the ATIC link and the name Howe are Gerb's.
 
 ## Historical Context
 

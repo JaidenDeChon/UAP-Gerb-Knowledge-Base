@@ -16,6 +16,15 @@ GAO did the work from March 1994 to June 1995, and its report, the [[GAO Roswell
 > [!edit] Corrected 16 October 2026
 > Earlier versions said the search took 18 months, that the GAO found the messages destroyed "without proper authorization" and noted they were permanent records that should never have been destroyed, and that *Case Closed* was the Air Force's response to the GAO inquiry. The report (GAO/NSIAD-95-187) gives the review as March 1994 to June 1995 and says only that the disposition form recorded no one, no date and no authority; the other two points are Schiff's, from his statement on the report. The Air Force report GAO was pointed to is the July 1994 one; *Case Closed* followed in 1997.
 
+::wiki-document
+---
+name: "GAO Roswell Report (1995)"
+page: 4
+region: [0.36, 0.64]
+caption: "From the report's Results in Brief: RAAF outgoing messages from October 1946 through December 1949 were destroyed, with no record of who destroyed them, when or under what authority, and the only 1947 records found were the 509th-RAAF history and an FBI teletype."
+---
+::
+
 ## Sources
 
 - [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

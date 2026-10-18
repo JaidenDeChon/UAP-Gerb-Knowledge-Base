@@ -20,6 +20,14 @@ A briefing dated 6 May 2021, [[Recent Sentient Highlights]], which the NRO appro
 > [!edit] Corrected 16 October 2026
 > Earlier versions said the NRO judged the object tic-tac shaped, that the document was released on 2 June 2022 and based on data from 6 May 2021, and that the NRO's UAP Task Force contribution came that year (2022). The briefing itself is dated 6 May 2021 and was approved for release on 2 June 2022. It notes only "a rough similarity" to the tic-tac shape and rates its confidence "relatively low". The ODNI's preliminary assessment, which the NRO contributed to, came out in June 2021.
 
+::wiki-document
+---
+name: "Recent Sentient Highlights"
+page: 2
+caption: "The briefing's bottom-line slide: Sentient's detection of a small object about 78 km southeast of a redacted location at 0038Z on 6 May 2021, its \"rough similarity\" to the tic tac shape, and the \"relatively low\" confidence."
+---
+::
+
 ## UAP Gerb's Thesis
 
 Gerb argues that raw overhead data is encoded into imagery before analysts see it, and that systems such as Sentient likely identify anomalies, such as UFOs or crash sites, and strip them from ordinary analysts' feeds so they go to personnel with higher clearances. He suggests this explains why rank-and-file NRO and NGA analysts have not reported seeing UFOs. He also wonders whether the 2021 Sentient detection is the same tic-tac over US Southern Command that the Immaculate Constellation report describes.

@@ -123,7 +123,7 @@ events:
   - date: "1954"
     title: "JANAP 146c brings waterborne sightings under reporting rules"
     cue: 313
-    summary: "The Joint Army Navy Air Force Publication directive 146c required both airborne and waterborne UFO sightings to be reported through service communications instructions for vital intelligence and maritime intelligence sightings. Civilians and pilots were barred from discussing officially reported sightings under the Communications Act of 1934 and espionage laws, with prison and a $10,000 fine for violators. Gerb dates the 'dark ages of UFO reporting' from these three rules."
+    summary: "The Joint Army Navy Air Force Publication directive 146c required both airborne and waterborne UFO sightings to be reported through service communications instructions for vital intelligence and maritime intelligence sightings. Civilians and pilots were barred from discussing officially reported sightings under the Communications Act of 1934 and espionage laws; Gerb says violators faced prison and a $10,000 fine, though the directive itself names no penalty. Gerb dates the 'dark ages of UFO reporting' from these three rules."
     category: policy
     significance: major
     entities:
@@ -291,6 +291,15 @@ Gerb spends some time on who sent the letter. AFOIN was the Air Force Office of 
 Gerb argues that three rules, issued within about a year of each other, closed this early record and began what he calls "the slow descent into the dark ages of UFO reporting", the era of swamp gas and weather-balloon explanations.
 
 [[USAF Regulation 200-2]] is the Air Force rule Gerb says he cites in nearly every video. [[OPNAV 3820]] was the Navy's directive from the Office of the Chief of Naval Operations; a copy appears in Donald Keyhoe's *The Flying Saucer Conspiracy*, and it cites JANAP 146c directly. [[JANAP 146c]], the joint Army, Navy and Air Force publication, was the one that also covered sightings at sea. Its penalties came under the Communications Act of 1934 and the espionage laws.
+
+::wiki-document
+---
+name: "JANAP 146c"
+page: 15
+region: [0.56, 0.76]
+caption: "JANAP 146(C)'s security section: everyone aware of a CIRVIS report is governed by the Communications Act of 1934 and the Espionage Laws, and unauthorized revelation of its contents is prohibited."
+---
+::
 
 ::wiki-compare{video="U-jrx_giINA" video-title="USO - Unidentified Submerged Objects"}
 ---
@@ -471,7 +480,11 @@ entries:
 - Project Interloper (1951), a joint USAF-Navy investigation of aerial and undersea UAP led by Blue Book member Dewey Fett, was run outside FOIA, briefed the CIA in 1953, and never reported to Congress; only three case files survive.
 - A 24 April 1952 letter from AFOIN-X-SG forwarded nine reports of submarine contacts with flying discs, compiled with the Office of Naval Intelligence; Gerb argues AFOIN's special group was a real secret UFO investigation body, and CUFON's 1979 FOIA requests about it were denied on national security grounds.
 - Researcher Leonard Stringfield was told of thousands of ONI UAP reports filed between 1952 and 1956.
-- USAF Regulation 200-2 (1953), OPNAV 3820 (23 January 1954) and JANAP 146c (1954) together removed military and maritime sightings from public view; JANAP 146c explicitly covered waterborne sightings and barred witnesses from discussing them under threat of prison and a $10,000 fine.
+- USAF Regulation 200-2 (1953), OPNAV 3820 (23 January 1954) and JANAP 146c (1954) together removed military and maritime sightings from public view; JANAP 146c explicitly covered waterborne sightings and barred witnesses from discussing them, citing the Communications Act of 1934 and the Espionage Laws. Gerb puts the penalty at prison and a $10,000 fine; the directive names no penalty.
+
+> [!edit] Attribution clarified 17 October 2026
+> This item used to give prison and a $10,000 fine as the directive's penalty. JANAP 146(C) cites only the Communications Act of 1934 and 18 U.S.C. 793 and 794; the figures are Gerb's.
+
 - A source at NARCAP told Jacques Vallée in 1985 that a large collection of UFO and USO files was stored at Norton Air Force Base.
 - A senior naval figure allegedly confirmed to Mark Dantonio that USOs are common and that a program exists to classify and log them.
 - Oak Shannon's 1985 Advanced Theoretical Working Group notes record Navy intelligence on an underwater UFO hotspot near Golfo San Matías, Argentina.

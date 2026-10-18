@@ -156,7 +156,7 @@ events:
     cue: 600
   - date: "1953-08-26"
     title: "Air Force Regulation 200-2 issued"
-    summary: "The regulation restricts UFO reporting and supersedes the earlier AFL 200-5. Confirmed reports, including those by Air Force personnel, now go to Air Force intelligence instead of Blue Book. Gerb says this kept credible sightings from Congress and the public."
+    summary: "The regulation restricts UFO reporting and supersedes the earlier AFL 200-5. Gerb says confirmed reports, including those by Air Force personnel, now went to Air Force intelligence and not Blue Book, keeping credible sightings from Congress and the public. The regulation names the Air Technical Intelligence Center, which ran Blue Book, as the body responsible for analysis."
     category: policy
     entities:
       - "USAF Regulation 200-2"
@@ -255,6 +255,15 @@ Gerb notes that the story could begin with the 1947 Kenneth Arnold sightings or 
 
 [[Project Sign]], first named Project Saucer, ran from 1948 to 1949. The video says it was established by USAF General [[Nathan Twining]], whose [[Twining Memo|letter]] to General George Schulgen of the Army Air Forces asserted that flying discs are "real and not visionary or fictitious". Sign's written report states that some UFO reports present actual objects whose origins cannot be determined. [[Edward J. Ruppelt]], later director of Grudge and Blue Book, said Sign endorsed the interplanetary explanation for some unexplained sightings. In his 1956 book he describes a Top Secret [[Project Sign Estimate of the Situation (1948)|Estimate of the Situation]], sent up in 1948, which concluded that UFOs were interplanetary. No copy of it has been made public.
 
+::wiki-document
+---
+name: "Twining Memo"
+page: 1
+region: [0.34, 0.83]
+caption: "The opening of Twining's letter to Brig. Gen. George Schulgen, with the opinion that the phenomenon is \"something real and not visionary or fictitious\"."
+---
+::
+
 Gerb stresses who received Sign's reports: every one had to be sent to the [[Army and Navy Research and Development Board]], the [[USAF Scientific Advisory Group]] and the [[Atomic Energy Commission]]. He reads this as one more case of an official UFO investigation tracing back to the AEC, parent of today's Department of Energy. Gerb says General [[Hoyt Vandenberg]] shut Sign down in 1949 for "lack of proof". In Ruppelt's account, what Vandenberg rejected for lack of proof was the 1948 Estimate, not the project, and Sign was renamed Grudge by an order of 11 February 1949.
 
 > [!edit] Corrected 16 October 2026
@@ -312,9 +321,28 @@ responses:
 
 The panel's timing is part of Gerb's case: a month earlier, in December 1952, USAF Colonel Donald L. Bower had forbidden Captain Edward J. Ruppelt from visiting the CIA's Office of Special Investigations to share compelling UFO data. [[Thornton Page]], a signatory, later admitted (in a statement Gerb dates to 3 October 1993) that the chairman had told members in advance to debunk everything put before them.
 
+::wiki-document
+---
+name: "Robertson Panel Report"
+page: 28
+caption: "The page of the panel's report that carries its recommendation to strip UFOs of their \"special status\" and the signatures of all five members, Thornton Page among them."
+---
+::
+
 ### Regulation 200-2
 
-After UFOs had been publicly denounced, the Air Force issued [[USAF Regulation 200-2]] (dated 26 August 1953), which restricted UFO reporting procedures and superseded the earlier AFL 200-5. Under it, all confirmed UFO reports, including those by Air Force personnel, went to Air Force intelligence rather than to Blue Book. Gerb calls this "awfully curious", because it kept the most credible sightings from both Congress and the public while Blue Book remained the public face of the investigation.
+After UFOs had been publicly denounced, the Air Force issued [[USAF Regulation 200-2]] (dated 26 August 1953), which restricted UFO reporting procedures and superseded the earlier AFL 200-5. Gerb reads it as sending all confirmed UFO reports, including those by Air Force personnel, to Air Force intelligence and not to Blue Book. He calls this "awfully curious", because it kept the most credible sightings from both Congress and the public while Blue Book remained the public face of the investigation. The regulation itself does not mention Blue Book: it sends electrical reports to Air Defense Command, the [[Air Force Technical Intelligence Center|Air Technical Intelligence Center]] (ATIC) and the Director of Intelligence at Headquarters USAF, sends all evidence to ATIC, and names ATIC, the Wright-Patterson centre that ran Blue Book, as responsible for analysis.
+
+> [!edit] Attribution clarified 17 October 2026
+> This paragraph used to state as fact that the regulation sent reports to Air Force intelligence rather than to Blue Book. That is Gerb's reading; the regulation (paragraphs 4, 6 and 7) routes reports to ATIC, Blue Book's parent, as well as to Air Defense Command and the Director of Intelligence.
+
+::wiki-document
+---
+name: "USAF Regulation 200-2"
+page: 1
+caption: "The regulation's first page, dated 26 August 1953: paragraph 4 names the Air Technical Intelligence Center at Wright-Patterson as responsible for analysis, and the footnote says it supersedes AFL 200-5."
+---
+::
 
 ## Congress and the Condon Committee (1966-1970)
 
@@ -512,7 +540,11 @@ entries:
 - Project Grudge was formed to alleviate public anxiety by explaining sightings away, and put the Lubbock Lights down to migrating birds against the witnesses' own view; Hynek called it "less science and more of a public relations campaign".
 - Project Blue Book analysed 12,618 reports, 701 unexplained; Hynek said it was not a scientific project and that the Air Force suppressed interesting cases.
 - The Robertson Panel reviewed 23 of 2,331 cases, and its conclusions were predetermined: signatory Thornton Page said the chairman told members to debunk all reports beforehand.
-- Air Force Regulation 200-2 (1953) sent confirmed UFO reports to Air Force intelligence instead of Blue Book, keeping credible sightings from Congress and the public.
+- Air Force Regulation 200-2 (1953), in Gerb's reading, sent confirmed UFO reports to Air Force intelligence instead of Blue Book, keeping credible sightings from Congress and the public. The regulation names ATIC, which ran Blue Book, as the analysing body.
+
+> [!edit] Attribution clarified 17 October 2026
+> This item used to state as fact that the regulation bypassed Blue Book. That is Gerb's reading; the regulation sends reports and evidence to ATIC, Blue Book's parent, among other addressees.
+
 - Blue Book head Hector Quintanilla told Congress in 1966 that there were no unexplained radar cases, which Gerb calls an irrefutable lie, citing Goose Bay (1951), Lakenheath (1956) and Shreveport (1957).
 - Hynek and James McDonald were refused seats on the civilian panel; Edward Condon was chosen instead and paid $313,000.
 - Robert J. Low, allegedly a former CIA man, wrote a 1966 memo describing a "trick" to appear objective while signalling disbelief by studying witnesses rather than the phenomenon.
