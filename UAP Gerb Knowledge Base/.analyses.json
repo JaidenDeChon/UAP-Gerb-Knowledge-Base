@@ -619,7 +619,7 @@
         "DIA Tehran UFO Report (1976)"
       ],
       "handed_out": "2026-10-18T03:03:47Z",
-      "ingested": null,
+      "ingested": "2026-10-18T03:11:49Z",
       "leads": 0
     },
     "S046-documents": {
@@ -628,8 +628,8 @@
         "Kona Blue Documents"
       ],
       "handed_out": "2026-10-18T03:03:51Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-18T03:11:49Z",
+      "leads": 1
     },
     "S047-documents": {
       "lens": "documents",
@@ -637,8 +637,8 @@
         "Environmental Assessment Report on Avery Technical Center"
       ],
       "handed_out": "2026-10-18T03:03:55Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-18T03:11:49Z",
+      "leads": 1
     },
     "S048-documents": {
       "lens": "documents",
@@ -646,8 +646,8 @@
         "FBI File on Silas Newton"
       ],
       "handed_out": "2026-10-18T03:04:01Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-18T03:11:49Z",
+      "leads": 1
     },
     "S049-documents": {
       "lens": "documents",
@@ -655,7 +655,7 @@
         "GAO Report on Army Guard Program"
       ],
       "handed_out": "2026-10-18T03:04:07Z",
-      "ingested": null,
+      "ingested": "2026-10-18T03:11:49Z",
       "leads": 0
     },
     "S050-documents": {
@@ -664,7 +664,7 @@
         "Moon Dust New Zealand Cable (1978)"
       ],
       "handed_out": "2026-10-18T03:04:13Z",
-      "ingested": null,
+      "ingested": "2026-10-18T03:11:49Z",
       "leads": 0
     },
     "S051-documents": {
@@ -673,7 +673,7 @@
         "Now You See It, Now You Don't"
       ],
       "handed_out": "2026-10-18T03:04:18Z",
-      "ingested": null,
+      "ingested": "2026-10-18T03:11:49Z",
       "leads": 0
     },
     "S052-documents": {
@@ -682,7 +682,7 @@
         "ODNI Preliminary Assessment (2021)"
       ],
       "handed_out": "2026-10-18T03:04:24Z",
-      "ingested": null,
+      "ingested": "2026-10-18T03:11:49Z",
       "leads": 0
     },
     "S053-documents": {
@@ -691,8 +691,8 @@
         "Project Grudge Report"
       ],
       "handed_out": "2026-10-18T03:04:29Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-18T03:11:49Z",
+      "leads": 1
     },
     "S054-documents": {
       "lens": "documents",
@@ -700,8 +700,8 @@
         "Recent Sentient Highlights"
       ],
       "handed_out": "2026-10-18T03:04:33Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-18T03:11:49Z",
+      "leads": 1
     },
     "S055-documents": {
       "lens": "documents",
@@ -709,7 +709,7 @@
         "Wilson-Davis Memo"
       ],
       "handed_out": "2026-10-18T03:04:38Z",
-      "ingested": null,
+      "ingested": "2026-10-18T03:11:49Z",
       "leads": 0
     },
     "S056-documents": {
@@ -718,7 +718,7 @@
         "Stringfield Status Reports"
       ],
       "handed_out": "2026-10-18T03:04:44Z",
-      "ingested": null,
+      "ingested": "2026-10-18T03:11:49Z",
       "leads": 0
     },
     "S057-documents": {
@@ -727,7 +727,7 @@
         "Eisenhower Briefing Document"
       ],
       "handed_out": "2026-10-18T03:04:49Z",
-      "ingested": null,
+      "ingested": "2026-10-18T03:11:49Z",
       "leads": 0
     },
     "S058-documents": {
@@ -736,8 +736,8 @@
         "Special Operations Manual (SOM 1-01)"
       ],
       "handed_out": "2026-10-18T03:04:54Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-18T03:11:49Z",
+      "leads": 1
     },
     "S059-documents": {
       "lens": "documents",
@@ -745,8 +745,8 @@
         "Condon Report"
       ],
       "handed_out": "2026-10-18T03:04:58Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-18T03:11:49Z",
+      "leads": 1
     },
     "S060-documents": {
       "lens": "documents",
@@ -754,7 +754,7 @@
         "The Day After Roswell"
       ],
       "handed_out": "2026-10-18T03:05:03Z",
-      "ingested": null,
+      "ingested": "2026-10-18T03:11:49Z",
       "leads": 0
     },
     "S061-documents": {
@@ -763,7 +763,7 @@
         "Wilbert Smith Memo"
       ],
       "handed_out": "2026-10-18T03:05:07Z",
-      "ingested": null,
+      "ingested": "2026-10-18T03:11:49Z",
       "leads": 0
     },
     "S062-documents": {
@@ -772,7 +772,7 @@
         "Immaculate Constellation Report"
       ],
       "handed_out": "2026-10-18T03:05:12Z",
-      "ingested": null,
+      "ingested": "2026-10-18T03:11:49Z",
       "leads": 0
     },
     "S063-documents": {
@@ -781,7 +781,7 @@
         "Sarbacher Letter"
       ],
       "handed_out": "2026-10-18T03:05:16Z",
-      "ingested": null,
+      "ingested": "2026-10-18T03:11:49Z",
       "leads": 0
     },
     "S064-documents": {
@@ -790,8 +790,8 @@
         "AFCIN Intelligence Team Personnel Memo (1961)"
       ],
       "handed_out": "2026-10-18T03:05:21Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-18T03:11:49Z",
+      "leads": 1
     },
     "S065-documents": {
       "lens": "documents",
@@ -799,7 +799,7 @@
         "Project Sign Estimate of the Situation (1948)"
       ],
       "handed_out": "2026-10-18T03:05:26Z",
-      "ingested": null,
+      "ingested": "2026-10-18T03:11:49Z",
       "leads": 0
     },
     "S066-documents": {
@@ -808,7 +808,7 @@
         "Alleged Leaked UAP Task Force Report"
       ],
       "handed_out": "2026-10-18T03:05:34Z",
-      "ingested": null,
+      "ingested": "2026-10-18T03:11:49Z",
       "leads": 0
     },
     "S067-documents": {
@@ -817,7 +817,7 @@
         "Beneath the Surface (Gallaudet White Paper)"
       ],
       "handed_out": "2026-10-18T03:05:39Z",
-      "ingested": null,
+      "ingested": "2026-10-18T03:11:49Z",
       "leads": 0
     },
     "S068-documents": {
@@ -826,8 +826,8 @@
         "Denb Report"
       ],
       "handed_out": "2026-10-18T03:05:44Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-18T03:11:49Z",
+      "leads": 2
     },
     "S069-documents": {
       "lens": "documents",
@@ -835,7 +835,7 @@
         "Project Blue Book Special Report No. 14"
       ],
       "handed_out": "2026-10-18T03:05:49Z",
-      "ingested": null,
+      "ingested": "2026-10-18T03:11:49Z",
       "leads": 0
     },
     "S070-documents": {
@@ -844,7 +844,7 @@
         "UAP Campaign Plan - Way Forward"
       ],
       "handed_out": "2026-10-18T03:05:54Z",
-      "ingested": null,
+      "ingested": "2026-10-18T03:11:49Z",
       "leads": 0
     },
     "S071-documents": {
@@ -853,7 +853,7 @@
         "Willingham Affidavit"
       ],
       "handed_out": "2026-10-18T03:05:58Z",
-      "ingested": null,
+      "ingested": "2026-10-18T03:11:49Z",
       "leads": 0
     },
     "S072-documents": {
@@ -862,8 +862,8 @@
         "Atomic Energy Act of 1954"
       ],
       "handed_out": "2026-10-18T03:06:02Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-18T03:11:49Z",
+      "leads": 1
     },
     "S073-documents": {
       "lens": "documents",
@@ -871,8 +871,8 @@
         "Schumer Amendment (NDAA)"
       ],
       "handed_out": "2026-10-18T03:06:06Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-18T03:11:49Z",
+      "leads": 2
     },
     "S074-documents": {
       "lens": "documents",
@@ -880,8 +880,8 @@
         "USAF Regulation 200-2"
       ],
       "handed_out": "2026-10-18T03:06:10Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-18T03:11:49Z",
+      "leads": 2
     },
     "S075-documents": {
       "lens": "documents",
@@ -889,7 +889,7 @@
         "Executive Order 10501"
       ],
       "handed_out": "2026-10-18T03:06:14Z",
-      "ingested": null,
+      "ingested": "2026-10-18T03:11:49Z",
       "leads": 0
     },
     "S076-documents": {
@@ -898,7 +898,7 @@
         "Executive Order 13526"
       ],
       "handed_out": "2026-10-18T03:06:18Z",
-      "ingested": null,
+      "ingested": "2026-10-18T03:11:49Z",
       "leads": 0
     },
     "S077-documents": {
@@ -907,7 +907,7 @@
         "JANAP 146c"
       ],
       "handed_out": "2026-10-18T03:06:22Z",
-      "ingested": null,
+      "ingested": "2026-10-18T03:11:49Z",
       "leads": 0
     },
     "S078-documents": {
@@ -916,7 +916,7 @@
         "OPNAV 3820"
       ],
       "handed_out": "2026-10-18T03:06:26Z",
-      "ingested": null,
+      "ingested": "2026-10-18T03:11:49Z",
       "leads": 0
     }
   },
@@ -6485,6 +6485,842 @@
       "impact": 4,
       "support": 4,
       "slip": false
+    },
+    {
+      "id": "L0090",
+      "slice": "S046-documents",
+      "found_at": "2026-10-18T03:11:49Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "corroboration",
+      "headline": "DHS's own 2011 Kona Blue papers say the program was meant to reach material held by industry",
+      "claim": "Gerb, following Grusch and an anonymously compiled packet entered at the November 2024 hearing, describes Kona Blue as a 'catcher mitt': a secure special access program built so a contractor (Lockheed) could hand over recovered material at Senator Reid's urging. The Department of Homeland Security's own declassified 2011 records state that mechanism in their own words. The program history Joel Wall prepared on 23 November 2011 says Reid wanted 'to transition the program into a special access program to enable access to data and material held by other government and industry entities'. Under Secretary O'Toole's action memo to the Deputy Secretary says a SAP was proposed because 'there is a body of previous work held by other entities that requires a SAP level classification to access it', and the SAP questionnaire's justification says 'Recovered AAV technology exists in and is accessible only within a SAP construct.' So a contemporaneous official record, which doesn't depend on Grusch or the hearing packet, confirms what Kona Blue was for: a Reid-backed SAP meant to bring material held outside government, including by industry, under one compartment. The records don't name Lockheed and don't show that any such material exists.",
+      "entities": [
+        "Kona Blue Documents",
+        "Kona Blue",
+        "Harry Reid",
+        "Tara O'Toole",
+        "Lockheed Martin",
+        "James T. Ryder",
+        "David Grusch",
+        "AARO Historical Report Volume 1"
+      ],
+      "videos": [
+        "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs",
+        "Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "And the idea was if they made a catcher mitt, a security catcher mitt for this at, you know, most serious sat possible, the contractor and the other government customer, which was the Central Intelligence Agency, um, for that specific locked material.",
+          "note": "Grusch (clip played by Gerb) describes the transfer vehicle; he then says 'Harry Reid's request to get the material transferred to the OSAP program was totally killed'.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "This PAP to act as a catcher mid to secure the materials was to be called Kona Blue.",
+          "note": "Gerb's framing of Kona Blue's purpose.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "Now, I must preface here. The author or compiler of this document package is unknown, but I still find these documents well worth referencing.",
+          "note": "Gerb's documentary evidence for the transfer is the anonymous hearing packet; he never quotes the DHS records' statements of purpose.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Kona Blue Documents (Transcription).md",
+          "quote": "reiterating Senator Reid's desire to transition the program into a special access program to enable access to data and material held by other government and industry entities.",
+          "note": "Page 43, program history prepared by Joel D. Wall, DHS S&T Special Projects Office, 23 Nov 2011, describing the April 2011 briefing that brought the program to DHS.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Kona Blue Documents (Transcription).md",
+          "quote": "A SAP is proposed as we have been informed that there is a body of previous work held by other entities that requires a SAP level classification to access it.",
+          "note": "Page 47, O'Toole's action memo of 28 Nov 2011 to Deputy Secretary Lute recommending full SAP status. 'We have been informed' marks it as what DHS was told by former AATI participants.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Kona Blue Documents (Transcription).md",
+          "quote": "b) Recovered AAV technology exists in and is accessible only within a SAP construct.",
+          "note": "Page 18, the SAP questionnaire's 'Justification for Need' (DHS-003-6-0006/11). Item c) adds 'present location of recovered material'.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/AARO Historical Report Volume 1 (Transcription).md",
+          "quote": "They believed that creating this program under DHS would allow all of the technology and knowledge of these alleged programs to be moved under the KONA BLUE program.",
+          "note": "AARO reads the same purpose from the proposal, but presents it as the advocates' belief and says the material was 'only assumed to exist'.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Grepped all transcripts and summaries for 'industry entities', 'other entities', 'body of previous work', 'Recovered AAV', 'accessible only within', 'contractor-secured' and 'extraordinary security': no hits outside the transcription. Read every Kona Blue passage in the Lockheed Martin video and the Vol.2 video. Gerb cites the declassified deck only for O'Toole's involvement and calls it 'maybe another topic for another day'. No video quotes the DHS records' statement of purpose.",
+      "weakest_link": "Independence and scope. The DHS lines record what the program's advocates (Reid's camp and former AATI/BAASS people) told DHS, the same circle Grusch's account probably comes from, so the record confirms the plan and its stated purpose in 2011, not that any material existed. AARO says it was 'only assumed to exist'. The records never name Lockheed, Ryder, the CIA or a 1950s facility, and 'industry entities' is generic, so the Lockheed-specific part of the story stays unconfirmed. Readings are clean (no brackets in the quoted lines). Checkable on the AARO-hosted PDF, pages 18, 43 and 47.",
+      "impact": 4,
+      "support": 3,
+      "slip": false
+    },
+    {
+      "id": "L0091",
+      "slice": "S047-documents",
+      "found_at": "2026-10-18T03:11:49Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "The report Gerb uses to find Dugway's UFO building lists it as the Air Force squadron's headquarters, and its rail line as a 1950s relic",
+      "claim": "In 'Dugway Proving Ground - UFO Legacy Programs' Gerb uses the July 2012 Air Force environmental assessment to locate the 'ghost building' where the witness MS says he saw a hovering saucer in 2009, betting on building 1010 (Test Operations), and builds his thesis that a joint Army-Air Force program 'utilizes the Avery technical Center's internal rail system to transport non-human craft' into 'unmarked secretive Avery buildings such as the test operations and classified storage buildings'. The report itself, on page 33 (Table 2-1), gives building 1010's current function as 'Operation headquarters for the 388th', a numbered building in the squadron's day-to-day use, while MS describes a building with 'no numbers on it'. On page 30 it describes the rail system as having been built 'for transportation of radioactive material' during the 1950s radiological and food-irradiation work, and says only 'portions of the rails are still visible today', the language of a remnant, not a working line. Gerb presents the rail system in the present tense ('Avery employs an internal rail system') and calls it 'truly massive' for the underground-base thesis. The document Gerb cites as his strongest public-domain support for where the craft was kept therefore describes the chosen building as an office headquarters and the rail system as historical. This does not test MS's account itself, only the documentary support Gerb attaches to it.",
+      "entities": [
+        "Environmental Assessment Report on Avery Technical Center",
+        "MS (Dugway Witness)",
+        "Avery Technical Center",
+        "Dugway Proving Ground",
+        "388th Range Squadron"
+      ],
+      "videos": [
+        "Dugway Proving Ground - UFO Legacy Programs"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/Dugway Proving Ground - UFO Legacy Programs/transcript.md",
+          "quote": "Avery employs an internal rail system for the transportation of radioactive materials this mention of an internal rail system is truly massive as we further on investigate Doug Way's alleged deep underground military base",
+          "note": "Gerb reads the rail system in the present tense and ties it to the underground-base thesis.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Dugway Proving Ground - UFO Legacy Programs/transcript.md",
+          "quote": "however I am willing to bet this experience took place at building 1010 test operations",
+          "note": "Gerb's identification of the building where MS saw the craft.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Dugway Proving Ground - UFO Legacy Programs/transcript.md",
+          "quote": "the clandestine program utilizes the Avery technical Center's internal rail system to transport non-human craft and materials onto unmarked secretive Avery buildings such as the test oper operations and classified storage buildings",
+          "note": "The thesis that rests on the report's description of building 1010 and the rails.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Dugway Proving Ground - UFO Legacy Programs/transcript.md",
+          "quote": "I walked into one that they called the ghost building because it just kind of came out of nowhere uh no numbers on it no nothing",
+          "note": "MS: the building had no number. Building 1010 is a numbered building in the report's table.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Environmental Assessment Report on Avery Technical Center (Transcription).md",
+          "quote": "| 1010 Test Operations | Operation headquarters for the 388th | 1952 |",
+          "note": "Page 33 (report page 10), Table 2-1, 'Buildings Located in the Avery Area, Date Constructed, and Current Usage by the 388th RANS'.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Environmental Assessment Report on Avery Technical Center (Transcription).md",
+          "quote": "The Avery Area was organized around an internal rail system for transportation of radioactive material; portions of the rails are still visible today. The main building, Building 1010, encompassed a radioactive \"hot cell\" which was 10 x 20 x 35 feet (DPG 2001).",
+          "note": "Page 30 (report page 7). The preceding paragraph dates this to the 1950s radiological warfare laboratories (dosimetry, food irradiation); the next says 'Today, Avery is the administrative area'.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for 'Avery', 'headquarters', 'still visible', 'hot cell', 'irradiat' and 'food'. Avery appears in eight transcripts, but only the Dugway video discusses the report; Gerb never mentions that 1010 is the 388th's headquarters, that the rails survive only in portions, or the food-irradiation purpose. The Hidden Wing transcript mentions the Avery area only in passing.",
+      "weakest_link": "The report covers only buildings used by the 388th, and Gerb himself says other unmarked buildings outside the map exist, so he hedges ('willing to bet'); a headquarters building could still contain a secure room, and an environmental assessment would not describe a classified use. 'Portions of the rails are still visible' implies but does not state that the line is disused. Not a slip: it is Gerb's reading of the document. Checkable against the DTIC copy (ADA609358), pages 7 and 10. It undercuts Gerb's inference, not MS's testimony, which caps the impact.",
+      "impact": 4,
+      "support": 4,
+      "slip": false
+    },
+    {
+      "id": "L0092",
+      "slice": "S048-documents",
+      "found_at": "2026-10-18T03:11:49Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "The 1951 letter Gerb credits to Aztec debunker J. P. Cahn came from California's Attorney General",
+      "claim": "In his Aztec video Gerb says journalist J. P. Cahn wrote to J. Edgar Hoover on 25 April 1951, tipping him off that Silas Newton was running 'a hoax or swindle of large proportions', that Hoover replied within a month saying the FBI would determine whether Newton was violating federal statutes, and that Cahn wrote back on 15 May. He uses this to cast Cahn as an operator with unusual access to the FBI director and to argue the Bureau was keen to chase Aztec leads. The FBI file (Part 2) shows the 25 April letter was written by the Office of California Attorney General Edmund G. Brown and signed by chief assistant attorney general Arthur H. Sherry; the 15 May letter is from H. G. Robinson of the state Department of Justice; Cahn is named nowhere. Hoover's actual reply told the state the FBI 'has conducted no investigation of Newton pertinent to your inquiry'; the 'violating any Federal Statutes' wording is an internal instruction to the San Francisco field office. The same file shows OSI in Washington had called Scully's book 'hogwash' in an October 1950 FBI memo. So a state law-enforcement office, independently of Cahn's 1952 exposé, already suspected Newton of a large swindle in April 1951, and the 'odd' speed of Hoover's reply to a newspaperman disappears: he was answering a state Attorney General.",
+      "entities": [
+        "FBI File on Silas Newton",
+        "J. P. Cahn",
+        "Silas Newton",
+        "J. Edgar Hoover",
+        "Aztec UFO Crash and Recovery",
+        "Frank Scully"
+      ],
+      "videos": [
+        "The 1948 Aztec, New Mexico UFO Crash Retrieval"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/transcript.md",
+          "quote": "On 25 April 1951, JP Khan wrote to J. Edgar Hoover, director of the FBI, regarding Silus Newton.",
+          "note": "Gerb attributes the letter to Cahn (captioned 'Khan').",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/transcript.md",
+          "quote": "Now, I find it extremely odd the director of the FBI would find time to reply to a San Francisco Chronicle writer within a month.",
+          "note": "The inference Gerb builds on the attribution.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/FBI File on Silas Newton (Transcription).md",
+          "quote": "Reference is made to your letter dated April 25, 1951, signed by Arthur H. Sherry, Chief Assistant Attorney General, in which you request information concerning Silas M. Newton - No. 835861.",
+          "note": "Page 5. Hoover's reply, addressed to Attorney General Edmund G. Brown; page 3 carries the Attorney General's letterhead and pages 3-4 the letter itself.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/FBI File on Silas Newton (Transcription).md",
+          "quote": "You are advised that the FBI has conducted no investigation of Newton pertinent to your inquiry.",
+          "note": "Page 5. The whole substance of the reply; the 'Federal Statutes' wording Gerb quotes follows as an internal note to the San Francisco office.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/FBI File on Silas Newton (Transcription).md",
+          "quote": "OSI, Washington, D. C., advised the assertions made in the book are \"hogwash\".",
+          "note": "Page 6. Internal FBI summary of a 17 October 1950 Ladd memo; never mentioned in any video.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for Sherry, Edmund G/Pat Brown, attorney general, hogwash: no hits. Only the Aztec transcript names Cahn/Khan with Newton, and it attributes all three letters to Cahn. The vault's document page and the Cahn page already note the misattribution, but no video does.",
+      "weakest_link": "The redacted (b)(7)(C) name on page 3 (the person who told the state the FBI had investigated Newton) could be Cahn, and Gerb may be following the Ramseys' book, which might argue Cahn prompted the state's inquiry; that is checkable against The Aztec Incident and the unredacted FBI release (Parts 1-6 on the FBI Vault). Even so, the letter is the state's, and Hoover's reply denied any investigation. Not a single slip: the attribution runs through three sentences and an argument. Impact is moderate-high: it removes one plank of the case against Cahn but doesn't touch the crash evidence itself.",
+      "impact": 4,
+      "support": 4,
+      "slip": false
+    },
+    {
+      "id": "L0093",
+      "slice": "S053-documents",
+      "found_at": "2026-10-18T03:11:49Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "smoking-gun",
+      "headline": "The 1949 Grudge report asked psychological warfare agencies to help shape its own press release",
+      "claim": "In The Origin of the UFO Stigma, Gerb argues that Project Grudge was set up to alleviate public anxiety and marks it as the first sign of the US government trying to alter public perception of UFOs, but his evidence is J. Allen Hynek's later remark that Grudge was 'less science and more of a public relations campaign'. The August 1949 Grudge report itself (Air Materiel Command Technical Report No. 102-AC 49/15-100) says more. Its recommendations, on page 10, are that the investigation be reduced in scope, that its 'no threat' and 'misinterpretation, mass hysteria, hoaxes, psychopathological persons' conclusions be declassified and released as an official press release, and that the Psychological Warfare Division and other agencies interested in psychological warfare be informed and 'coordinate in and provide further recommendations for public release'. So the program's own final report put the public messaging about UFOs in the hands of psychological warfare planners, four years before the Robertson Panel. Gerb never quotes or mentions these recommendations.",
+      "entities": [
+        "Project Grudge Report",
+        "Project Grudge",
+        "J. Allen Hynek",
+        "Air Materiel Command",
+        "Robertson Panel Report"
+      ],
+      "videos": [
+        "The Origin of the UFO Stigma"
+      ],
+      "evidence": [
+        {
+          "source": "Documents/Transcriptions/Project Grudge Report (Transcription).md",
+          "quote": "2. That Conclusions 1 and 2 of this report, with sufficient supporting data, be declassified and made public in the form of an official press release.",
+          "note": "Page 10, Recommendations. Conclusions 1 and 2 (page 9) are that UFOs pose no direct threat and that reports come from misidentification, 'a mild form of mass hysteria or \"war nerves\"', hoaxers and 'Psychopathological persons'.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Project Grudge Report (Transcription).md",
+          "quote": "3. That psychological Warfare Division and other governmental agencies interested in psychological warfare be informed of the results of this study.",
+          "note": "Page 10, Recommendations.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Project Grudge Report (Transcription).md",
+          "quote": "a. That such agencies coordinate in and provide further recommendations for public release of material as recommended in Para. 2 above.",
+          "note": "Page 10. The psychological warfare agencies are to coordinate the public release itself, not only be briefed.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Project Grudge Report (Transcription).md",
+          "quote": "3. Planned release of unusual aerial objects coupled with the release of related psychological propaganda could cause mass hysteria.",
+          "note": "Page 9, Conclusion 3, followed by 'a. Employment of these methods by or against an enemy would yield similar results.' This is the context for Recommendation 3, and the main thing that cuts against reading it as domestic perception management.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Project Grudge Report (Transcription).md",
+          "quote": "if spurious, this fact should be highlighted and even publicized, to quench enthusiasm for the irresponsible reporting of \"saucers\" and like objects.",
+          "note": "Page 87, Hynek's Appendix B on the Rhodes photographs (Incident #40). Secondary support: the contractor scientist also framed publicity as a way to damp reporting, though in the same passage he urges that the case be reopened.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Origin of the UFO Stigma/transcript.md",
+          "quote": "USAF formed this program specifically intending to alleviate public anxiety over UFOs here we can see the first real breadcrumbs of the USG trying to alter public perception of UFOs",
+          "note": "Gerb's claim about Grudge.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Origin of the UFO Stigma/transcript.md",
+          "quote": "Jay Allen heinik the future Blue Book scientific adviser stated that project Grudge was quote less science and more of a public relations campaign",
+          "note": "Gerb's only evidence for the claim is Hynek's later remark; he says reviewing the Grudge report 'is not the topic of this video'.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for 'psychological warfare', 'psyop', 'press release' and 'Grudge'. 'Psychological warfare' appears only in MJ-12 contexts (Ryan Wood on leaking MJ-12, the 1961 JFK memo) and never with Grudge. The ten transcripts that name Grudge (Origin of the UFO Stigma, Special Access Required Vol.2, MJ-12, Battelle, USO, USO Case Book, etc.) mention it only as a program name or in Gerb's PR framing; none quotes the report's recommendations or conclusions.",
+      "weakest_link": "Context: Recommendation 3 follows Conclusion 3, which warns that an enemy could pair released objects with propaganda to cause mass hysteria, so informing psychological warfare agencies has a defensive rationale, and the report does not say the release should mislead the public. The finding has to be limited to what the words say: the report treated public messaging on UFOs as something for psychological warfare agencies to coordinate. Readings are clean (no bracketed words in the quoted lines); the document is official and checked against NARA's scan. The recommendations are well known in UFO literature (known-elsewhere likely); checkable against NARA catalog 461456800 and the December 1949 Air Force press release.",
+      "impact": 4,
+      "support": 4,
+      "slip": false
+    },
+    {
+      "id": "L0094",
+      "slice": "S054-documents",
+      "found_at": "2026-10-18T03:11:49Z",
+      "status": "footnote-candidate",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "The NRO slide Gerb cites noted only a rough tic-tac likeness, with low confidence",
+      "claim": "In his NRO video Gerb says the NRO 'publicly concluded the image was tic tac shaped' in its 6 May 2021 'Recent Sentient Highlights' briefing. The released slide says only that there is 'a rough similarity to the previously-reported \"tic tac\" shape', states 'Confidence is relatively low in this detection', and notes a coincident high-interest vessel 25 km away that it calls 'possible [sic] merely coincidental'. Gerb's sentence overstates the slide. This reads as a gloss on a document he otherwise quotes accurately, so it is a footnote candidate, not a post.",
+      "entities": [
+        "Recent Sentient Highlights",
+        "NRO Sentient",
+        "NRO (National Reconnaissance Office)"
+      ],
+      "videos": [
+        "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers/transcript.md",
+          "quote": "The NRO publicly concluded the image was tic tac shaped and likely not a sensor artifact or focal plane anomaly.",
+          "note": "Gerb's description.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Recent Sentient Highlights (Transcription).md",
+          "quote": "There is a rough similarity to the previously-reported \"tic tac\" shape",
+          "note": "Page 2, BLUF slide.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Recent Sentient Highlights (Transcription).md",
+          "quote": "Confidence is relatively low in this detection, but the potential linkage to similar phenomenon off of [redacted (b)(1), (b)(3)] may warrant further investigation",
+          "note": "Page 2, last bullet; Gerb doesn't mention the low confidence or the coincident vessel.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched the NRO transcript for 'confidence', 'vessel' and 'coincident' near the Sentient passage; Gerb doesn't mention either qualifier. No other transcript names the briefing.",
+      "weakest_link": "Probably a slip or loose paraphrase by Gerb, and the vault's document page already notes it. The detection itself is a minor thread, so it matters little.",
+      "impact": 2,
+      "support": 5,
+      "slip": true
+    },
+    {
+      "id": "L0095",
+      "slice": "S058-documents",
+      "found_at": "2026-10-18T03:11:49Z",
+      "status": "footnote-candidate",
+      "duplicate_of": null,
+      "problems": [
+        "entities with no page: ['1948 Aztec, New Mexico UFO Crash Retrieval']"
+      ],
+      "kind": "contradiction",
+      "headline": "The small grey bodies Gerb matches to the MJ-12 manual's EBE-1 fit its EBE-2",
+      "claim": "In two videos Gerb says a body description matches the 'EBE 1' (Type 1) of the Majestic-12 Special Operations Manual (SOM 1-01): Corso's Fort Riley body (small enough to be taken for a child, spindly arms, grey) and the Aztec beings (about 40 lb on average). In his own reading of the manual with Ryan Wood, Type 1 is 5 ft to 5 ft 4 in, 80 to 100 lb, with chalky yellow skin, while Type 2 is 'much more of a classic gray', 3 ft 5 in to 4 ft 2 in, 25 to 50 lb, with pale blue-greyish skin. Both descriptions fit Type 2, not Type 1. Most likely a swapped label (1 for 2), repeated in two videos.",
+      "entities": [
+        "Special Operations Manual (SOM 1-01)",
+        "Philip J. Corso",
+        "Extraterrestrial Biological Entity",
+        "1948 Aztec, New Mexico UFO Crash Retrieval"
+      ],
+      "videos": [
+        "Philip J. Corso - US Army UFO Technology Research & Development",
+        "The 1948 Aztec, New Mexico UFO Crash Retrieval",
+        "The Majestic-12 Documents With Ryan S. Wood"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/Philip J. Corso - US Army UFO Technology Research & Development/transcript.md",
+          "quote": "first I thought it was a child cuz it was small then I looked at this head and all right away",
+          "note": "Corso, in the clip Gerb plays, on the Fort Riley body.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Philip J. Corso - US Army UFO Technology Research & Development/transcript.md",
+          "quote": "the arms were spindly the body was gray",
+          "note": "Corso continues: grey body.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Philip J. Corso - US Army UFO Technology Research & Development/transcript.md",
+          "quote": "this manual describes two sets of Ebe Ebe 1 and 2 ebe1 closely matches the description of Corso's observed body",
+          "note": "Gerb's match, to Type 1.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/transcript.md",
+          "quote": "The creatures weighed solely 40 lbs on average with small torsos and thin necks.",
+          "note": "Aztec beings as Gerb describes them.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/transcript.md",
+          "quote": "These creature descriptions sound near identical to that of the EBE1 detailed in the controversial yet provocative 1950s Majestic 12 special operations manual 1",
+          "note": "Gerb's match, again to Type 1.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Majestic-12 Documents With Ryan S. Wood/transcript.md",
+          "quote": "Ebe 1's humanoid they are 5 to 5 4 in tall weighing 80 to 100 lb they have larger more rounded craniums with chalky yellow",
+          "note": "Gerb's own reading of the manual: Type 1 is human-sized and yellowish.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Majestic-12 Documents With Ryan S. Wood/transcript.md",
+          "quote": "the description of the type 2 Ebe will remind you as much more of a classic gray they are humanoid but 3' 5 in to 4' 2 in tall weighing 25 to 50 lb",
+          "note": "Type 2 is the small grey, 25 to 50 lb.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for 'ebe1', 'ebe 1', 'type 1', 'type 2', 'eb1' and 'special operations manual'. The only body-to-type matches are the Corso and Aztec passages, both to EBE1; Gerb never ties either to Type 2.",
+      "weakest_link": "Almost certainly a swapped label by Gerb, so a footnote, not a post. The manual is disputed (provenance: disputed), so nothing here bears on whether the bodies were real; the point is only internal consistency with Gerb's own reading of the manual, checkable in the Wood video.",
+      "impact": 2,
+      "support": 4,
+      "slip": true
+    },
+    {
+      "id": "L0096",
+      "slice": "S059-documents",
+      "found_at": "2026-10-18T03:11:49Z",
+      "status": "footnote-candidate",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "The Condon Report's Case 5 gives no date, base or pilot name for the RB-47 chase",
+      "claim": "In the Del Rio video Gerb says Case 5 of the Condon Report lists an encounter 'from the 19th of September 1957 also from Carswell Air Force Base', quotes the report 'from Pilot Lewis D Chase', and says intelligence personnel removed the ECM and radar data. The published Case 5 (University of Colorado, 1968/69, investigator Craig) dates the event only to 'Early morning, Fall 1957', describes a B-47 without naming its home base or the pilot (just 'a Major'), never mentions Carswell or a 600-mile chase, and reports that while the pilot recalled Wing Intelligence taking the film and wire recordings, the co-pilot and monitoring officer said no data had been recorded and no film or wire was aboard; the study concluded the data 'apparently never existed'. Gerb's specifics come from later accounts of the 17 July 1957 RB-47 case (McDonald's research, Blue Book records), not from the Condon Report, so the Carswell parallel he draws with Willingham does not rest on the document he cites.",
+      "entities": [
+        "Condon Report",
+        "Carswell Air Force Base",
+        "Robert Willingham",
+        "Del Rio, Texas"
+      ],
+      "videos": [
+        "The 1950s Del Rio, Texas UFO Crashes"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The 1950s Del Rio, Texas UFO Crashes/transcript.md",
+          "quote": "case five of the report lists a military UFO encounter from the 19th of September 1957 also from Carswell Air Force Base in Fort Worth",
+          "note": "Gerb attributes the date and the Carswell base to the Condon Report itself.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Condon Report.md",
+          "quote": "Case 5 of the Condon Report documents an encounter it dates 19 September 1957",
+          "note": "The vault page repeats the date as the report's own. The Condon text (files.ncas.org/condon/text/case05.htm) gives 'Early morning, Fall 1957', names no base or pilot, and lists the encounter as over 'South Central United States'; the co-pilot and monitoring officer said 'no data whatsoever had been recorded during the flight'.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for 'Condon' and 'Case 5'/'case five'; only the Del Rio video discusses Case 5, and no video notes that the report gives no date, base or pilot. Checked the Condon Case 5 text online (no transcription in the vault).",
+      "weakest_link": "Very likely a slip of sourcing: Gerb probably merged details from a secondary account of the RB-47 case (which does name Chase and the 2,800 mHz signal) with the Condon citation. The Condon Report has no vault transcription; the reading rests on the NCAS online text of Case 5, checkable against the DTIC copy. Footnote material, not a post.",
+      "impact": 2,
+      "support": 4,
+      "slip": true
+    },
+    {
+      "id": "L0097",
+      "slice": "S064-documents",
+      "found_at": "2026-10-18T03:11:49Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "smoking-gun",
+      "headline": "A 1961 Air Force staff paper names three-man airborne teams to recover UFOs on a quick-reaction basis",
+      "claim": "The 3 November 1961 Headquarters USAF intelligence staff paper 'AFCIN Intelligence Team Personnel' (the 'Betz memo'), in its Discussion section (paragraph 6), says the three peacetime projects the 1127th Field Activities Group's intelligence teams supported (UFO, Moon Dust and Blue Fly) 'involve a potential for employment of qualified field intelligence personnel on a quick reaction basis to recover or perform field exploitation of unidentified flying objects', as well as Soviet/Bloc vehicles. It specifies three-man, parachute-qualified teams (linguist, tech man, ops man) as 'the only such collection capability available to AFCIN', and traces them to the 4602d AISS of 1953, set up to exploit downed enemy 'people, paper, and hardware'. Gerb uses the paper in three videos, but only for its definitions: he reads it as proposing that the 1127th take on UFO 'collection responsibility' and as describing Moon Dust's mandate to recover 'descended foreign space vehicles'. He never quotes the passage that explicitly lists UFOs among the things the teams were to recover, nor the team structure. On the document's own words, Air Force intelligence in 1961 described an existing quick-reaction airborne recovery capability whose stated targets included UFOs, not only Soviet hardware.",
+      "entities": [
+        "AFCIN Intelligence Team Personnel Memo (1961)",
+        "Project Moon Dust",
+        "Operation Bluefly",
+        "USAF 1127th Field Activities Group",
+        "Air Force Foreign Technology Division"
+      ],
+      "videos": [
+        "MOON DUST - The Pentagon's Secret UFO Programs",
+        "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction",
+        "The Majestic-12 Documents With Ryan S. Wood"
+      ],
+      "evidence": [
+        {
+          "source": "Documents/AFCIN Intelligence Team Personnel Memo (1961).md",
+          "quote": "involve a potential for employment of qualified field intelligence personnel on a quick reaction basis to recover or perform field exploitation of unidentified flying objects, or known Soviet/Bloc aerospace vehicles, weapons systems, and/or residual components of such equipment",
+          "note": "Paragraph 6 (Discussion). No transcription is hosted; checked against the CUFON retyped text (1986), which reads the same except for the typo 'componants'.",
+          "verified": true
+        },
+        {
+          "source": "Documents/AFCIN Intelligence Team Personnel Memo (1961).md",
+          "quote": "The teams were \"the only such collection capability available to AFCIN\".",
+          "note": "Paragraph 6; same sentence in the CUFON text. The page also records the three-man airborne structure and the 4602d AISS lineage.",
+          "verified": true
+        },
+        {
+          "source": "Videos/MOON DUST - The Pentagon's Secret UFO Programs/transcript.md",
+          "quote": "this proposal suggests that the USAF 1127 receive collection responsibility duties for the usaf's established program for investigation of reliably reported unidentified flying objects within the United States",
+          "note": "Gerb's reading: collection (reporting) duties, not recovery of UFOs by field teams.",
+          "verified": true
+        },
+        {
+          "source": "Videos/US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction/transcript.md",
+          "quote": "USAF document AFC 1e draft policy which states project UFO and moondust both headquartered out of the Air Force have collection responsibilities for UAP and descended foreign space Vehicles",
+          "note": "Closest Gerb comes; still 'collection responsibilities', with recovery tied only to foreign space vehicles.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for 'field exploitation', 'quick reaction', '4602', 'people, paper', Rosner, Betz: no hit except an unrelated 'quick reaction forces' remark in 80 Years. Read every AFCIN/1127/Bluefly passage (MOON DUST, Special Forces, MJ-12 with Wood, Kecksburg, Wilson-Davis, Corso): none quotes paragraph 6 or says the teams were to recover UFOs. Kecksburg says Moon Dust's 'fellow programs UFO and bluefly' were 'tasked with recovering descended foreign space Vehicles', which is the broad gist, not this passage.",
+      "weakest_link": "The copy Gerb shows carries a handwritten note that 'This draft proposal was not approved and was not forwarded for action'; Stone argued it covers only the staffing recommendation, and the Discussion describes arrangements already in place, but a writer must say the paper is a draft. 'Potential for employment' describes capability, not any actual UFO recovery. No official scan is online; the text rests on the Todd/CUFON retyped copy and Greenwood's 2016 enhanced scan (Randle's book, NICAP, The Black Vault are the checks). The passage is well known among researchers (novelty likely known-elsewhere), but never shown on the channel. Gerb's broad point that Moon Dust is a crash-retrieval program is made; the narrow, document-stated point that UFOs themselves were listed recovery targets for named airborne teams is not.",
+      "impact": 4,
+      "support": 3,
+      "slip": false
+    },
+    {
+      "id": "L0098",
+      "slice": "S068-documents",
+      "found_at": "2026-10-18T03:11:49Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [
+        "entities with no page: ['DENB Team']"
+      ],
+      "kind": "contradiction",
+      "headline": "The group behind the Coyame report also chased an Idaho abduction rumour by knocking on doors",
+      "claim": "In the Coyame video Gerb passes on Noe Torres and Ruben Uriarte's idea that 'JS' stands for Joint Staff or Joint Services, and suggests the 'Denb team' may have been an internal US government group of intelligence professionals using early message boards to discuss crash retrievals. The archived bulletin-board copy of the report (UFO BBS file 3263, textfiles.com) has a second memo in the same format: 'To: All Deneb Team Members / From: JS / Date: 2 Mar 92 / Subject: Research Findings on the Pinehurst \"Abduction\"'. It deals with a 1971 Idaho couple's abduction story that the group heard secondhand in 1983 from an Air Force officer. In 1985 one member, happening to be nearby, questioned long-time residents, failed to find a local newspaper that had closed, later tried and failed to trace the husband in Los Angeles, and judged the case not worth pursuing. The same author and group, three weeks before the Coyame memo, were working like a private research group, chasing hearsay with no records access. That doesn't prove they were civilians, but it weighs against reading the Deneb Team as an intelligence-community body with access to classified files. It also matters for the Coyame report itself: the group's evidence for Coyame came, by its own account, from notes and documents handed to it in February 1992, not from official channels.",
+      "entities": [
+        "Denb Report",
+        "DENB Team",
+        "JS (Denb Report Author)",
+        "1974 Coyame, Mexico UFO Crash Retrieval"
+      ],
+      "videos": [
+        "The 1974 Coyame, Mexico UFO Crash"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The 1974 Coyame, Mexico UFO Crash/transcript.md",
+          "quote": "Noah Torres and Ruben uriarte hypothesized JS is an acronym for a department within the US government such as joint staff or joint Services perhaps the denb team was a name for an internal USG investigation group during the quote unquote dark ages of UAP as I like to call them",
+          "note": "Gerb passes on the government-group hypothesis.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1974 Coyame, Mexico UFO Crash/transcript.md",
+          "quote": "maybe the denb team was a similar group of intelligence Community professionals who used the early internet message boards to discuss Opus gated data on Crash retrieval cases",
+          "note": "Gerb's own extension of it, by analogy with the UAP Task Force's classified forums.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Denb Report.md",
+          "quote": "The \"File: UFO3263\" heading on the copies in circulation is the file number of the UFO BBS archive that preserved the text, not a case number of the [[DENB Team]].",
+          "note": "The vault already identifies the BBS archive copy; the same file holds the Pinehurst memo, which no vault page mentions.",
+          "verified": true
+        },
+        {
+          "source": "http://textfiles.com/ufo/UFOBBS/3000/3263.ufo",
+          "quote": "Subject: Research Findings on the Pinehurst \"Abduction\"",
+          "note": "OUTSIDE THE VAULT (ingest check will not find it). Second memo in the file, headed 'To: All Deneb Team Members / From: JS / Date: 2 Mar 92'. It follows directly after the Coyame text, which breaks off mid-sentence ('nor did').",
+          "verified": false
+        },
+        {
+          "source": "http://textfiles.com/ufo/UFOBBS/3000/3263.ufo",
+          "quote": "In 1985 one of the group happened to be not far from Pinehurst and",
+          "note": "OUTSIDE THE VAULT. Continues: 'decided to investigate. The trail was pretty cold by then. Casual interrogation of long-time residents did, however, reveal two men who remembered the couple'. Also: 'Attempts to locate that paper proved negative', 'Some limited attempts have been made to local John Stacy in the Los Angeles area but have proved negative', 'This case is not considered worthwhile for further investigation.'",
+          "verified": false
+        }
+      ],
+      "not_said_check": "Grepped every transcript and vault page for 'Pinehurst', 'Stacy' (hits only Dennis Stacy in the Del Rio video, unrelated), 'Deneb' and '3263'. No video or page mentions the second memo. Gerb's only discussion of who the group was is the Torres/Uriarte Joint Staff idea plus his own intelligence-community message-board analogy, in the Coyame video; he doesn't draw any conclusion from the BBS file's contents.",
+      "weakest_link": "The document is anonymous and disputed. The BBS compiler may have joined two separate posts, and someone could have imitated the 'JS / Deneb Team' header, though the format, date sequence (2 Mar and 23 Mar 92) and writing style match. Investigating an abduction by door-knocking doesn't rule out government employees acting as a private club; the tip came from an Air Force officer, which a government-group reading could use. So this weakens the intelligence-community hypothesis rather than refuting it. Checkable: the textfiles.com archive and other UFO BBS mirrors; Torres and Uriarte's book may discuss the Pinehurst memo, which would also make it partly known.",
+      "impact": 4,
+      "support": 3,
+      "slip": false
+    },
+    {
+      "id": "L0099",
+      "slice": "S068-documents",
+      "found_at": "2026-10-18T03:11:49Z",
+      "status": "footnote-candidate",
+      "duplicate_of": null,
+      "problems": [
+        "entities with no page: ['DENB Team']"
+      ],
+      "kind": "contradiction",
+      "headline": "The Coyame report's 'file UFO 3263' is a bulletin-board archive number, not a sign of many cases",
+      "claim": "Gerb reads the heading 'File: UFO3263' as showing that the Coyame report was one of many cases studied by the Deneb Team and JS. The number belongs to the UFO BBS archive that preserved the text (textfiles.com, ufo/UFOBBS/3000/3263.ufo), as the vault's Denb Report page already notes. A probable misreading, best handled as a footnote.",
+      "entities": [
+        "Denb Report",
+        "DENB Team"
+      ],
+      "videos": [
+        "The 1974 Coyame, Mexico UFO Crash"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The 1974 Coyame, Mexico UFO Crash/transcript.md",
+          "quote": "what is also interesting to note is the quote file UFO 3263 end quote indicating the coyam report is one of many studied by denb and Js",
+          "note": "Gerb's reading.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Denb Report.md",
+          "quote": "The \"File: UFO3263\" heading on the copies in circulation is the file number of the UFO BBS archive that preserved the text, not a case number of the [[DENB Team]].",
+          "note": "The vault's corrected reading, with the archive path in the edit card.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for '3263'; only the Coyame video, in this one passage.",
+      "weakest_link": "A misreading by Gerb (and probably by his sources) of an archive number: a footnote, not a post. The BBS numbering is checkable on textfiles.com.",
+      "impact": 2,
+      "support": 4,
+      "slip": true
+    },
+    {
+      "id": "L0100",
+      "slice": "S072-documents",
+      "found_at": "2026-10-18T03:11:49Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "The 'ultra vague' nuclear law Grusch cites needs a president's written sign-off and notice to Congress",
+      "claim": "In at least seven videos Gerb plays David Grusch saying that section 51 of the Atomic Energy Act of 1954 defines special nuclear material as 'anything that gives off a sizable amount of atomic energy', and Gerb builds on it the thesis that the Act's statutory system let UFO legacy programs evade presidential and congressional oversight. The Act's text says otherwise. Special nuclear material is plutonium and enriched uranium plus only such other material as the Commission formally determines under section 51 (section 11 t.). Section 51 requires the Commission to find the material capable of releasing substantial quantities of atomic energy and the determination to be in the interest of common defense, requires that 'the President must have expressly assented in writing', and requires the determination and the President's assent to be submitted to Congress's Joint Committee on Atomic Energy, with a thirty-day wait while Congress sits. So either UFO material was formally made special nuclear material, in which case a President signed off in writing and the congressional Joint Committee was told, the opposite of evading them, or it never was, and the 'special nuclear material' route is a loose informal interpretation rather than anything section 51 allows.",
+      "entities": [
+        "Atomic Energy Act of 1954",
+        "David Grusch",
+        "Department of Energy",
+        "Manhattan Project 2.0"
+      ],
+      "videos": [
+        "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1",
+        "Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2",
+        "80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline",
+        "The Hidden Wing - US Air Force UFO Reverse Engineering Programs",
+        "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/transcript.md",
+          "quote": "ultra vague definition of special nuclear material, which is section 51, the Atomic Energy Act 1954, it says anything that gives off a sizable amount of atomic energy. Literally, that's what it says.",
+          "note": "Grusch's Rogan clip as Gerb plays it; the same clip recurs in Manhattan Project 2.0, Special Access Required (twice), 80 Years and Sandia.",
+          "verified": true
+        },
+        {
+          "source": "Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/transcript.md",
+          "quote": "Such a statutory DOE system evades the standard US executive order-based classification system",
+          "note": "Gerb's thesis built on the Act, alongside his naming 1954 'the most crucial year' in legacy program history.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Atomic Energy Act of 1954 (Transcription).md",
+          "quote": "Before making any such determination, the Commission must find that such material is capable of releasing substantial quantities of atomic energy and must find that the determination that such material is special nuclear material is in the interest of the common defense and security, and the President must have expressly assented in writing to the determination.",
+          "note": "Page 11, section 51.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Atomic Energy Act of 1954 (Transcription).md",
+          "quote": "The Commission's determination, together with the assent of the President, shall be submitted to the Joint Committee and a period of thirty days shall elapse while Congress is in session",
+          "note": "Page 11, section 51 continued.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Atomic Energy Act of 1954 (Transcription).md",
+          "quote": "any other material which the Commission, pursuant to the provisions of section 51, determines to be special nuclear material",
+          "note": "Page 6, section 11 t. The definition has no open-ended 'anything' clause.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for 'assent', 'substantial quantities' and 'Joint Committee on Atomic': only hit is a 1950s AEC film clip in Manhattan Project 2.0 noting the AEC 'accounts to the Congress principally through the Joint Committee on Atomic Energy', unrelated to section 51. No video mentions the presidential-assent or congressional-notice requirement; every use of the clip presents section 51 as a vague catch-all.",
+      "weakest_link": "Grusch may mean that programs informally treated material as nuclear-related (for example as Restricted Data about 'production of special nuclear material') without any formal section 51 determination; then the statute isn't wrong so much as misused, and the finding narrows to 'section 51 itself is not vague and could not have been used quietly'. 'Sizable' for 'substantial' is a fair paraphrase and not the point. Not a Gerb slip: it's Grusch's claim, repeated unqualified in seven videos. Checkable: the 1954 text (68 Stat. 919, page 929) and current 42 U.S.C. 2071, which a writer should confirm still requires presidential assent and congressional submission.",
+      "impact": 4,
+      "support": 4,
+      "slip": false
+    },
+    {
+      "id": "L0101",
+      "slice": "S073-documents",
+      "found_at": "2026-10-18T03:11:49Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "hidden-link",
+      "headline": "The Schumer UAP bill names one Air Force office by name: the Office of Special Investigations",
+      "claim": "In its definition of a UAP record, the UAP Disclosure Act of 2023 (Senate amendment SA 797 to the FY2024 NDAA, 13 July 2023) lists every body whose records must be swept into the National Archives collection. It names the Air Force only as \"the Department of the Air Force, specifically the Air Force Office of Special Investigations\". No other department in the list is narrowed down to a single sub-office. Gerb argues at length, in The Hidden Wing (January 2026) and Special Access Required Vol. 2, that AFOSI's Office of Special Projects (AFOSI/PJ, under Terry Phillips and then Lee M. Russ) is one of the most important protection offices for Air Force UFO legacy programs. In Manhattan Project 2.0 Vol. 1 he says the Army's Interplanetary Phenomenon Unit records were handed to AFOSI. He never mentions that the Senate bill singles out AFOSI. The Hidden Wing doesn't mention the bill at all. The inference is narrow: whoever drafted the bill thought AFOSI, rather than the Air Force as a whole, was where UAP records sit. That fits the importance Gerb gives AFOSI, but on its own it doesn't show anything about PJ or about legacy programs.",
+      "entities": [
+        "Schumer Amendment (NDAA)",
+        "Air Force Office of Special Investigations",
+        "Terry Phillips",
+        "Interplanetary Phenomenon Unit"
+      ],
+      "videos": [
+        "The Hidden Wing - US Air Force UFO Reverse Engineering Programs",
+        "Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2",
+        "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1"
+      ],
+      "evidence": [
+        {
+          "source": "Documents/Transcriptions/Schumer Amendment (NDAA) (Transcription).md",
+          "quote": "(E) the Department of the Air Force, specifically the Air Force Office of Special Investigations;",
+          "note": "Page 2, section ___03(22), the definition of 'unidentified anomalous phenomena record'. The entries around it are the Army and the Navy (named whole) and the DoE 'and its progenitors'. No other entry is narrowed to one office.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Schumer Amendment (NDAA) (Transcription).md",
+          "quote": "(C) the Department of the Army;",
+          "note": "Page 2. The Army is listed whole, with no sub-office, which shows the Air Force entry's narrowing is a deliberate choice.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/transcript.md",
+          "quote": "PJ is OSI's office tasked with safeguarding the Air Force's most sensitive [music] and national security imperative top secret research, development, and acquisition programs",
+          "note": "Gerb's view of AFOSI/PJ's role.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/transcript.md",
+          "quote": "outline my argument why these three offices in particular plus AFOSIPJ are some of the most critical legacy program protection features",
+          "note": "Gerb ranks AFOSI/PJ among the most important legacy-program protection offices.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1/transcript.md",
+          "quote": "The IPU records were surrendered [music] to the Air Force AFOSI in conjunction with Project Blue Book",
+          "note": "Gerb's own claim that historical UFO records went to AFOSI. This would explain why a records bill names it.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Grepped all transcripts for AFOSI / 'Office of Special Investigations' / 'air force OSI' within 300 characters of Schumer / UAPDA / 'disclosure act' / legislation / amendment: no hits. The Hidden Wing (45 AFOSI mentions) has zero mentions of Schumer, UAPDA or 'disclosure act'. The phrase 'specifically the Air Force' appears only in the NRO video, about the Elizondo/Davis outline, not the bill. No summary, entity page or analysis quotes item (E).",
+      "weakest_link": "The bill names AFOSI as a record-holder. It doesn't say AFOSI/PJ guards programs, and the drafters may have meant AFOSI's historical UFO-investigation files (Blue Book era, the IPU hand-off, the Doty and Bennewitz affair) rather than modern SAP security. So this supports AFOSI's importance, not Gerb's PJ thesis in particular. It's a draft amendment, never enacted in this form. Checkable from the Congressional Record, page S2954, and the 2024 re-introduction, to see whether item (E) survived. Not a bracketed reading.",
+      "impact": 4,
+      "support": 3,
+      "slip": false
+    },
+    {
+      "id": "L0102",
+      "slice": "S073-documents",
+      "found_at": "2026-10-18T03:11:49Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "hidden-link",
+      "headline": "The Schumer UAP bill itself orders a 'Controlled Disclosure Campaign Plan', the idea Karl Nell presented as his roadmap",
+      "claim": "Gerb presents Karl Nell's November 2023 SOL Foundation talk in two halves: a reading of the Schumer amendment, then Nell's own distinction between 'controlled' disclosure, which 'uses a campaign plan', and 'catastrophic' disclosure, and his phased 'Way Forward: UAP Campaign Plan' with target dates. The amendment's text, submitted four months earlier, defines and requires a 'Controlled Disclosure Campaign Plan'. Under it the Review Board must transmit to the President a 'benchmark-driven plan' setting 'the exact time or specified occurrence' after which each withheld record, recovered technology and piece of NHI biological evidence may be disclosed, and must brief Congress and AARO on it. So the controlled-disclosure campaign plan that Gerb treats as Nell's framework is also the bill's own disclosure mechanism, in the same words. That suggests Nell's thinking and the bill's text share an origin. Nell's official biography says his work 'contributed to enactment' of UAP legislation. Gerb never says the bill contains such a plan.",
+      "entities": [
+        "Schumer Amendment (NDAA)",
+        "Karl Nell",
+        "UAP Campaign Plan - Way Forward",
+        "SOL Foundation Symposium"
+      ],
+      "videos": [
+        "SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure"
+      ],
+      "evidence": [
+        {
+          "source": "Documents/Transcriptions/Schumer Amendment (NDAA) (Transcription).md",
+          "quote": "the Review Board shall create and transmit to the President and to the Archivist a Controlled Disclosure Campaign Plan, with classified appendix, containing—",
+          "note": "Page 6, section ___09(c)(3). It covers records, 'recovered technologies of unknown origin, and biological evidence for non-human intelligence' whose disclosure is postponed.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Schumer Amendment (NDAA) (Transcription).md",
+          "quote": "(B) a benchmark-driven plan, based upon a review of the proceedings and in conformity with the decisions reflected therein, recommending precise requirements for periodic review, downgrading, and declassification as well as the exact time or specified occurrence following which each postponed item may be appropriately disclosed to the public under this title.",
+          "note": "Page 6. A phased, dated release plan, the same shape as Nell's slide with its phase target dates.",
+          "verified": true
+        },
+        {
+          "source": "Videos/SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure/transcript.md",
+          "quote": "n moves on to make the key distinction between control disclosure and catastrophic disclosure this difference being control disclosure uses a campaigned plan",
+          "note": "Gerb gives this as Nell's own distinction and never links it to the bill's section ___09(c)(3).",
+          "verified": true
+        },
+        {
+          "source": "Videos/SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure/transcript.md",
+          "quote": "now we arrive to n's famous slide which partially leaked back in November 2023 titled Way Forward UAP campaign plan lines of effort",
+          "note": "Nell's campaign plan slide.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Grepped all transcripts for 'campaign plan' (only the Nell video) and 'control(led) disclosure' (two hits, both in the Nell video, neither tied to the bill's text). No summary or entity page mentions the bill's Controlled Disclosure Campaign Plan; the Karl Nell page and the campaign-plan document page don't either. A web search found no source saying Nell drafted the bill. His biography says only that his engagements contributed to enacting UAP legislation.",
+      "weakest_link": "Shared vocabulary isn't shared authorship. 'Campaign plan' is standard military planning jargon, and Nell may simply have been describing the bill's own mechanism in his talk. Gerb's narration puts the distinction right after the bill's eminent-domain clause, so Nell may have presented it as the bill's idea, and the full talk would need checking. Without a source naming Nell or his circle as drafters, the claim should stay at 'the bill writes in the same plan Nell champions'. The talk is checkable on the SOL Foundation's video, and drafters' names may be checkable through reporting on Schumer's staff.",
+      "impact": 4,
+      "support": 3,
+      "slip": false
+    },
+    {
+      "id": "L0103",
+      "slice": "S074-documents",
+      "found_at": "2026-10-18T03:11:49Z",
+      "status": "footnote-candidate",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "The 1968 Minot case Gerb says was hidden under Regulation 200-2 came under its successor and went to Blue Book",
+      "claim": "In the Kevin Knuth video Gerb says the declassified report on the 1968 Minot AFB B-52 encounter shows it was reported under Regulation 200-2 and that the case never made it into the Blue Book files, offering it as an example of 200-2 keeping cases from Blue Book and the public. The vault's own page on the regulation says AFR 80-17 replaced 200-2 in September 1966, two years before Minot. Outside records (Thomas Tulien's Minot study, built from the Blue Book case file) say the base's UFO officer reported under AFR 80-17, phoned Project Blue Book, and that Blue Book chief Hector Quintanilla filed a final case report on 13 November 1968. Gerb's one concrete case for 200-2 hiding sightings from Blue Book is a case Blue Book itself investigated.",
+      "entities": [
+        "USAF Regulation 200-2",
+        "Minot Air Force Base, North Dakota",
+        "Project Blue Book",
+        "Kevin Knuth"
+      ],
+      "videos": [
+        "The Physics of UFOs– Dr. Kevin Knuth"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The Physics of UFOs– Dr. Kevin Knuth/transcript.md",
+          "quote": "well the Declassified citing of the manat report shows this case was reported under regulation 200-2 interesting to see how this case never made it into Blue Book files",
+          "note": "Gerb on the 1968 Minot ('manat') case.",
+          "verified": true
+        },
+        {
+          "source": "Documents/USAF Regulation 200-2.md",
+          "quote": "It was replaced by AFR 80-17 in September 1966.",
+          "note": "The vault's own page: 200-2 was no longer in force in 1968.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for 'minot', 'manat', '80-17' and 'Quintanilla' near Minot; only the Knuth video discusses Minot, and no video mentions AFR 80-17 or Blue Book's investigation of the case.",
+      "weakest_link": "Could be a gloss by Gerb on an on-screen document (calling any UFO reporting rule '200-2'), so probably a footnote. The Blue Book filing and AFR 80-17 citation come from outside the vault (minotb52ufo.com, Tulien; Blue Book microfilm on Fold3/NARA) and need checking against the Blue Book case file. The video's summary also states Gerb's 'never reached the Blue Book files' as fact (page error).",
+      "impact": 3,
+      "support": 3,
+      "slip": true
+    },
+    {
+      "id": "L0104",
+      "slice": "S074-documents",
+      "found_at": "2026-10-18T03:11:49Z",
+      "status": "footnote-candidate",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "The 1953 edition of Regulation 200-2 let bases release sighting details; the gag on unexplained sightings came in 1954",
+      "claim": "Gerb repeatedly dates Regulation 200-2 to 1953 and says it kept credible sightings from Congress and the public, and in the Kingman video argues that issuing it three months after the May 1953 crash suggests it was meant to keep a lid on crash retrievals. The 26 August 1953 text (paragraph 8) lets a base's public information officer release a sighting's location, time, date, description, maneuvers, type of physical evidence and intercept attempts, withholding only witnesses' names, Air Force comments, intercept procedures and classified radar data. The rule that for unexplained objects only the fact that ATIC will analyze the data may be released is in the 12 August 1954 reissue (paragraph 9), fifteen months after Kingman. His secrecy reading fits the 1954 edition, not the 1953 one his timing argument depends on.",
+      "entities": [
+        "USAF Regulation 200-2",
+        "1953 Kingman, Arizona Crash Retrieval",
+        "Robertson Panel"
+      ],
+      "videos": [
+        "The Origin of the UFO Stigma",
+        "The 1953 Kingman, Arizona UFO Crash"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The Origin of the UFO Stigma/transcript.md",
+          "quote": "1953 USAF issues regulation 200-2 this piece restricts UFO reporting procedures and supersedes the former AFL 2000-5",
+          "note": "Gerb dates it 1953 (the edition that superseded AFL 200-5).",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Origin of the UFO Stigma/transcript.md",
+          "quote": "this keeps credible sightings from both Congress and the American people",
+          "note": "His conclusion.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The 1953 Kingman, Arizona UFO Crash/transcript.md",
+          "quote": "3 months after the alleged Arizona crash in 1953 the USAF issued regulation 200-2",
+          "note": "The timing argument rests on the August 1953 edition.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/USAF Regulation 200-2 (Transcription).md",
+          "quote": "The reporting officer may furnish the latter all raw information except names of principals, Air Force comments, details of intercept procedures involved, and classified radar data.",
+          "note": "Page 3, paragraph 8, 'Release of Information'. The list that follows allows release of location, time, date, description, maneuvers, type of physical evidence and intercept attempts.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Read every 200-2 passage (Magenta, Kingman, Stigma, Knuth, Whistleblowers Vol.1, USO). Gerb always dates it 1953 and never mentions the 1954 reissue or paragraph 8's release list. L0036 (shelved) covered only the 'not Blue Book' routing claim, and its resolution assumed 200-2 restricted press release without separating the editions.",
+      "weakest_link": "A one-year conflation of two editions of the same regulation, both signed by Twining, so most likely a footnote: Gerb's broad point about restricted public release holds for the 1954 edition (Wikisource text, paragraph 9; checkable). What remains is that the Kingman three-month timing argument lacks the restriction it assumes. The 1954 text is not transcribed in the vault.",
+      "impact": 3,
+      "support": 4,
+      "slip": true
     }
   ],
   "turn": 4
