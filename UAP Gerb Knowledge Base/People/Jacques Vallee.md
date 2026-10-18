@@ -99,7 +99,10 @@ Several of Gerb's videos lean on entries in Vallée's journals:
 
 - A 3 March 2001 entry records [[Eric Davis]] relaying the Zodiac story and describing a ten-volume binder at [[Wright-Patterson Air Force Base]] holding data from the Roswell crash and "a special study done by TRW". Gerb would like Davis to expand on it, though he says his own trust in Davis is "wafer-thin".
 - A 24 September 2004 entry says that Charles Bowsher, Comptroller General from 1981 to 1996, found a crashed-UFO program known to "less than a handful of officials" during a massive audit of classified projects, and considered turning it over for prosecution until "a powerful person in DoD quenched it". In his Lockheed Martin video Gerb wonders whether that person was Secretary of Defense Caspar Weinberger.
-- In *Forbidden Science: Pacific Heights*, Eric Davis asks former president George H. W. Bush whether the material [[Philip J. Corso]] handled could have been Nazi hardware. Bush says that was impossible, and that a conversation with [[Arthur Trudeau]] about Corso's planned testimony at the 1968 Mendel Rivers hearings led to that testimony being squashed.
+- In *Forbidden Science: Pacific Heights*, Eric Davis asks former president George H. W. Bush whether the material [[Philip J. Corso]] handled could have been Nazi hardware. Bush says that was impossible. In a later conversation, he tells Davis that [[Arthur Trudeau]] briefed him on legacy programs "at the time of the 1968 Mandel Rivers Congressional hearings". He says Trudeau told him "his man Corso" had been asked to testify before Congress, and that the testimony was squashed as a result of their conversation.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions put both remarks in one exchange and said Corso's planned testimony was at the 1968 Mendel Rivers hearings. As Gerb reads the book in his Corso video, the Trudeau remark comes in a later conversation, and the hearings only date the briefing; the book doesn't say where Corso was to testify.
 - In June 1986, former Battelle contractor [[James McCampbell]] told Vallée that a Wild Weasel contact said F-4s were fitted with electromagnetic equipment to detect UAP during the Vietnam War. Gerb ties the F-4 detail to the F-4s over the crash in the Infographic Show whistleblower's account.
 
 ## Critic of Corso

@@ -4637,7 +4637,7 @@
       "id": "L0067",
       "slice": "S037-record",
       "found_at": "2026-10-17T15:58:02Z",
-      "status": "open",
+      "status": "written",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -4696,13 +4696,15 @@
       "weakest_link": "The Denb Report's 'satellite' could be loose wording for any overhead system. If so the finding narrows to Gerb's own step (Keyhole, NRO, Grusch) and not the report. It can't be a slip by Gerb, because he reads the satellite line from the report and then builds the NRO inference on it. Two things might be raised against the finding. First, a still-classified pre-1976 readout capability. None is known publicly, and the NRO history treats the KH-11 as the first. Second, a Gambit or Hexagon capsule recovered by chance at just the right moment. That would still take days, not hours. Some NRO link survives through aircraft: U-2s and A-12/SR-71s had NRO 'Program D' ties, so the claim should be limited to satellites. It can be checked against the declassified NRO histories of Hexagon, Gambit and Kennen and the published 1974 launch records.",
       "impact": 4,
       "support": 4,
-      "slip": false
+      "slip": false,
+      "resolved_at": "2026-10-18T00:57:29Z",
+      "analysis": "Analyses/A satellite could have photographed the 1974 Coyame recovery, but it couldn't have sent the pictures back in time.md"
     },
     {
       "id": "L0068",
       "slice": "S037-record",
       "found_at": "2026-10-17T15:58:02Z",
-      "status": "open",
+      "status": "written",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -4747,13 +4749,15 @@
       "weakest_link": "The account reaches us through three retellings: Bush's words, Davis's memory, Vallee's diary and then Gerb's paraphrase. The exact passage in Forbidden Science (probably the Pacific Heights volume) couldn't be checked from here. Any of those steps could have garbled the year or the hearing. Bush could, for instance, have meant the 1968 Roush symposium or a conversation during his 1966 campaign. So the defensible claim is narrow: no reading of 'the 1968 Mendel Rivers hearings' fits Bush being briefed by a serving Trudeau about a serving Corso. A single slip by Gerb, such as 1968 for 1966, doesn't remove the problem: 1966 puts Bush outside Congress, and 1968 has no Rivers hearing. It can be checked against the Forbidden Science text, the HASC and Science and Astronautics hearing records, and Bush's committee assignments. This lead extends the published Holloman post, which uses the same Bush and Davis source, so the writer may fold it into that post.",
       "impact": 4,
       "support": 3,
-      "slip": false
+      "slip": false,
+      "resolved_at": "2026-10-18T00:57:29Z",
+      "analysis": "Analyses/The general behind Corso's story had retired years before he reportedly briefed George Bush.md"
     },
     {
       "id": "L0069",
       "slice": "S038-record",
       "found_at": "2026-10-17T15:58:02Z",
-      "status": "open",
+      "status": "written",
       "duplicate_of": null,
       "problems": [],
       "kind": "contradiction",
@@ -4813,7 +4817,9 @@
       "weakest_link": "The exact wording of the 1997 letter (Gerb reads 'its gr D'; it may be 'its Dr' or initials) and whether the anonymous writer meant Laibow's conferences; checkable from the letter itself, which Greer published. Outside facts confirmed by web snippets: TREAT = Treatment and Research of Experienced Anomalous Trauma, founded by Laibow, first meeting May 1989 (Baltimore Sun 15 Apr 1992 'Convention a TREAT for the unconventional', plus a UFO research blog: 2 sources); Laibow married to Maj. Gen. Albert Stubblebine (SourceWatch plus a tribute page: 2 sources); Hans-Adam funding Laibow's TREAT conferences (1 secondhand blog citing an unauthorised 2002 Scott Jones biography: single source, moderate at most). Not a slip: Gerb repeats the reading across at least four videos. It remains possible Fouche borrowed or reused an acronym that also existed as a covert unit, but the letter can no longer serve as independent evidence for it.",
       "impact": 4,
       "support": 4,
-      "slip": false
+      "slip": false,
+      "resolved_at": "2026-10-18T00:57:29Z",
+      "analysis": "Analyses/The letter Gerb cites for a Men in Black unit is probably about an abduction group run by Stubblebine's wife.md"
     },
     {
       "id": "L0070",
@@ -4877,7 +4883,7 @@
       "id": "L0071",
       "slice": "S039-record",
       "found_at": "2026-10-17T15:58:02Z",
-      "status": "duplicate",
+      "status": "written",
       "duplicate_of": "L0068",
       "problems": [],
       "kind": "contradiction",
@@ -4935,7 +4941,8 @@
       "weakest_link": "The premise is Gerb's paraphrase of Vallee's journal (Forbidden Science: Pacific Heights), itself Davis's account of what Bush said years later. Two things can't be checked from the vault. First, whether Vallee wrote '1968', 'Mendel Rivers' and 'Colonel Trudeau' exactly. Second, whether 'Colonel Trudeau' is a different, serving officer, which would rescue an official 1968 briefing. A misremembered year in a third-hand account is realistic, and that is exactly the point: either the date or the committee is wrong. It isn't a Gerb slip, since he reports the book faithfully. The record side is checkable: Rivers HASC hearing 5 April 1966 (GPO transcript on govinfo, confirmed by 2+ independent results); 1968 symposium by Science and Astronautics (project1947 SHG); Bush seated January 1967 on Ways and Means (standard congressional biography); Trudeau retired 1962 and headed Gulf Research & Development to 1968 (Wikipedia; LBJ Library bio says 'management consultant', so the Gulf title rests on one snippet). Settle with the Vallee page itself.",
       "impact": 4,
       "support": 3,
-      "slip": false
+      "slip": false,
+      "resolved_at": "2026-10-18T00:57:29Z"
     },
     {
       "id": "L0072",

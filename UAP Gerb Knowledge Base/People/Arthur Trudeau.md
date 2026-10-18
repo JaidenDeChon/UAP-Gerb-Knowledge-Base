@@ -152,11 +152,14 @@ Corso stated that the Army treated the threat from non-human intelligence (NHI) 
 
 Gerb notes that Trudeau's Office of the Chief of Research and Development (OCRD) also created the Army Research Office (ARO) in the spring of 1958, two years before the [[U.S. Army Foreign Technology Division]] was established under Corso and only months before the Air Force and Navy founded the [[MITRE Corporation]]. ARO coordinated directly with Navy and Air Force research and development. Gerb presents this as evidence that in the same narrow window after the ten-year anniversary of the 1947 [[Roswell Crash]], the Army ran an aggressive in-house technology-seeding program under Trudeau and [[Philip J. Corso]], while the Air Force and Navy took a comparatively conservative, centralized approach through the newly formed MITRE Corporation.
 
-## Retirement and Briefing of President Bush
+## Retirement and Briefing of George H. W. Bush
 
 Trudeau retired in 1962, and General Dwight E. Beach succeeded him in command of U.S. Army R&D. The [[U.S. Army Foreign Technology Division]] appears to have been dissolved or drastically reorganized soon after Trudeau retired. No public records show the division existing beyond institutional references in Corso's military documents.
 
 According to [[Jacques Vallee]]'s book *Forbidden Science: Pacific Heights*, Dr. [[Eric Davis]] had several conversations about UAP Legacy Programs with George H.W. Bush, the former President and CIA Director. Bush told Davis that Trudeau briefed him on Legacy Programs around the time of the 1968 Mendel Rivers Congressional hearings. Trudeau allegedly told Bush that "his man Corso" had been asked to testify before Congress and was able to reveal "rumblings of alien hardware that had been distributed to industrial labs," but the Corso testimony was squashed as a result of this conversation.
+
+> [!edit] Corrected 17 October 2026
+> The section heading used to call this a briefing of "President Bush". Bush wasn't president, or even in Congress, at the 1966 Rivers UFO hearing, and was a first-term congressman in 1968; see [[The general behind Corso's story had retired years before he reportedly briefed George Bush]].
 
 Davis asked Bush whether Corso could have been mistaken about the material he was handling, and whether it could have been Nazi hardware. Bush replied: "Impossible. The two topics were clearly separated by that time. All German secrets had been processed and filed away. They were not used as cover for anything else."
 
