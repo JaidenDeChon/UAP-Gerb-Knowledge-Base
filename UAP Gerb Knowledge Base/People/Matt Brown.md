@@ -7,7 +7,10 @@ tags:
   - person
 ---
 
-Matthew "Matt" Brown is a former US national security official and UAP whistleblower. He wrote the report describing the alleged [[Immaculate Constellation (IMCON)]] program, an unacknowledged special access program said to collect imagery and other intelligence on UAPs and reproduction vehicles, which journalist Jeremy Corbell delivered to [[US Congress|Congress]] in 2024. Brown later went public on the *Weaponized* podcast of Corbell and [[George Knapp]]. Gerb cites the report on IMCON and its sources, such as [[NRO Sentient]], and counts Brown among the whistleblowers he says he stands with, alongside [[David Grusch]] and [[Dylan Borland]].
+Matthew "Matt" Brown is a former US national security official and UAP whistleblower. He wrote the report describing the alleged [[Immaculate Constellation (IMCON)]] program, an unacknowledged special access program said to collect imagery and other intelligence on UAPs and reproduction vehicles, which journalist [[Michael Shellenberger]] delivered to [[US Congress|Congress]] in November 2024, where Rep. Nancy Mace entered it into the record of the House Oversight UAP hearing; Gerb's NRO video credits Jeremy Corbell with delivering it. Brown later went public on the *Weaponized* podcast of Corbell and [[George Knapp]]. Gerb cites the [[Immaculate Constellation Report|report]] on IMCON, ties it to [[NRO Sentient]], which the report itself doesn't mention, and counts Brown among the whistleblowers he says he stands with, alongside [[David Grusch]] and [[Dylan Borland]].
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said Jeremy Corbell delivered the report to Congress and that it named NRO Sentient. The hearing record has Michael Shellenberger delivering it, and the report mentions neither Sentient nor the NRO; both points come from Gerb's NRO video.
 
 ## Background
 
@@ -24,8 +27,8 @@ items:
     title: "Immaculate Constellation"
     where: "US Congress"
     with:
-      - "Jeremy Corbell"
-    note: "Describes an unacknowledged special access program set up in 2017 to collect imagery intelligence on UAPs and reproduction vehicles. Among its cases are a 210 to 420 foot disc rising out of cloud cover over INDOPACOM, a tic-tac over SOUTHCOM, and silent, enormous black triangles. Names NRO Sentient among IMCON's resources."
+      - "Michael Shellenberger"
+    note: "Describes an unacknowledged special access program set up in 2017 to collect imagery intelligence on UAPs and reproduction vehicles. Among its cases are a 210 to 420 foot disc rising out of cloud cover over INDOPACOM, a tic-tac over SOUTHCOM, and silent, enormous black triangles. Gerb ties it to NRO Sentient, which the report doesn't name."
     source: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers"
   - date: "2025"
     kind: interview
@@ -56,6 +59,13 @@ items:
 ## Immaculate Constellation
 
 According to the report, IMCON was established in 2017 with the primary mission of "collecting imagery intelligence on unidentified aerial phenomena (UAP) and ARV/RV reproduction vehicles". Gerb's NRO video reads the report's cases as products of NRO overhead infrared collection, and he believes that [[NRO Sentient]], begun in 2010 and built out by 2016, is a primary resource of the program. He also notes the report's description of IMCON's holdings as scattered across imagery databases in various organizations and services, which leaves the program's ownership fragmented. In his 80-year timeline Gerb places IMCON's creation within the National Security Council in 2017 and credits Brown and Grusch with confirming that it existed. In the 29 Palms video he cites the report's black triangles over INDOPACOM as an example of reproduction vehicles in the record.
+
+::wiki-document
+---
+name: "Immaculate Constellation Report"
+caption: "The undated, unsigned report on the alleged USAP Immaculate Constellation that Gerb's videos attribute to Brown, entered into the House Oversight hearing record on 13 November 2024."
+---
+::
 
 ## Legacy Security and Whistleblowers
 

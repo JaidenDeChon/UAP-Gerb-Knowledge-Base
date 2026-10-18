@@ -15,6 +15,13 @@ In 2016, WikiLeaks published thousands of emails from Hillary Clinton's presiden
 
 The Fish email disclosed to WikiLeaks stated that "one of the government programs that collects hard data on unidentified flying objects is the USAF [[Defense Support Program (DSP)|DSP]] satellite program." Fish described watching DSP personnel discuss a [[Fast Walkers|Fast Walker]] detection in which an object from deep space made a 30-degree course correction, indicating controlled flight.
 
+::wiki-document
+---
+name: "Bob Fish Email to John Podesta"
+caption: "Bob Fish's email to John Podesta of March 2015, published by WikiLeaks in 2016, naming the USAF DSP satellite program as a collector of hard data on UFOs."
+---
+::
+
 The email is one of the few documented cases in which UAP-related information from a cleared contractor with direct access to classified program personnel reached senior US political leaders and was then made public through a leak, rather than through official disclosure.
 
 ## Significance for UAP Disclosure

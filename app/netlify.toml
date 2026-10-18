@@ -4,3 +4,9 @@
 # must still deploy. Build when either tree changed. Exit 1 = build, 0 = skip.
 [build]
   ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- . '../UAP Gerb Knowledge Base'"
+
+# The Nitro server build holds the whole baked vault in memory and peaks near
+# 3.7 GB, past Node's default heap of about 2 GB, so it dies with "JavaScript
+# heap out of memory". Give it 4 GB.
+[build.environment]
+  NODE_OPTIONS = "--max-old-space-size=4096"

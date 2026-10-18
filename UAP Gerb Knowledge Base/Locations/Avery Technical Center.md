@@ -6,13 +6,31 @@ tags:
   - location
 ---
 
-Avery Technical Center is a 40-acre restricted facility in Dugway Proving Ground's West Desert Test Center in Utah, next to Michael Army Airfield. The US Army runs it jointly with the 388th Range Squadron out of Hill Air Force Base. Avery once carried out radiobiological warfare research for the Atomic Energy Commission, and today it supports chemical-biological defense testing. Although it is a major installation, it is left out of Dugway Proving Ground visitor guides. It has an internal rail system originally designed to carry radioactive materials. Avery became widely discussed in UAP research after witness "MS's" 2009 encounter with an alleged extraterrestrial craft in an unmarked building there.
+Avery Technical Center is a 40-acre restricted facility in Dugway Proving Ground's West Desert Test Center in Utah, next to Michael Army Airfield. The US Army runs it jointly with the 388th Range Squadron out of Hill Air Force Base. Its buildings were designed in the early 1950s for radiological studies, and its radiological warfare laboratories irradiated food with spent fuel elements from the Atomic Energy Commission; today it supports chemical-biological defense testing. Although it is a major installation, it is left out of Dugway Proving Ground visitor guides. It has an internal rail system originally designed to carry radioactive materials. Avery became widely discussed in UAP research after witness "MS's" 2009 encounter with an alleged extraterrestrial craft in an unmarked building there.
+
+> [!edit] Corrected 17 October 2026
+> This paragraph used to say Avery carried out radiobiological warfare research for the Atomic Energy Commission. The 2012 environmental assessment (scan page 30) describes radiological warfare laboratories that used the AEC's spent fuel elements; "radiobiological" and "for the AEC" come from Gerb's narration.
 
 ## History and Official Function
 
-Avery Technical Center was set up for radiological studies and research into handling radioactive material. During the Cold War it housed the Radiobiological Warfare Laboratories for the Atomic Energy Commission. Its main acknowledged function is chemical and biological defense testing and training for Army and Air Force personnel, in particular the 388th Range Squadron from Hill Air Force Base. The squadron uses Avery for air testing and training associated with the southern Utah Test and Training Range.
+Avery Technical Center was set up for radiological studies and research into handling radioactive material. In the 1950s its radiological warfare laboratories were used mainly to study dosimetry and to irradiate food with gamma rays from spent Atomic Energy Commission fuel elements, according to the 2012 assessment. Gerb calls them "radiobiological warfare laboratories for the Atomic Energy Commission". Its main acknowledged function is chemical and biological defense testing and training for Army and Air Force personnel, in particular the 388th Range Squadron from Hill Air Force Base. The squadron uses Avery for air testing and training associated with the southern Utah Test and Training Range.
 
-An unclassified environmental assessment from July 2012, titled "Environmental Assessment of the Continued Exclusive Use of Department of the Army Land Located at US Army Dugway Proving Ground by Members of the US Air Force", describes Avery's structure and operations in detail. It states that Army Test and Evaluation Command personnel and the Air Force's 388th Range Squadron operate the facility jointly.
+> [!edit] Corrected 17 October 2026
+> This paragraph used to say Avery housed the Radiobiological Warfare Laboratories for the Atomic Energy Commission. The assessment says radiological warfare laboratories, with the AEC supplying spent fuel elements; the other wording is Gerb's.
+
+An unclassified environmental assessment from July 2012, titled "Environmental Assessment for the Continued Exclusive Use of Department of the Army Land Located at US Army Dugway Proving Ground by Members of the US Air Force", describes Avery's structure and operations in detail. It states that Army Test and Evaluation Command personnel and the Air Force's 388th Range Squadron operate the facility jointly.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions gave the title as "Environmental Assessment of the Continued…". The report's cover and its DTIC documentation page read "for".
+
+::wiki-document
+---
+name: "Environmental Assessment Report on Avery Technical Center"
+page: 30
+region: [0.24, 0.61]
+caption: "The assessment's \"Avery Area\" entry: about 40 acres, the focus of 388th RANS operations, built in the early 1950s for radiological studies, with radiological warfare laboratories that irradiated food using spent Atomic Energy Commission fuel elements."
+---
+::
 
 ## Infrastructure and Key Buildings
 
@@ -23,7 +41,19 @@ Identified buildings include:
 - Building 1016 (Classified Storage): storage for classified materials and equipment.
 - Building 1012 (Photo Operations and Maintenance): photographic documentation and maintenance work.
 - Building 1038 (General Storage): general-purpose storage.
-- Building 102 (Avery Tunnel Entrance): identified as a tunnel entrance, possibly connecting to the alleged deep underground military base beneath Granite Peak.
+- Building 1002 (Avery Tunnel Entrance): built in 1952 and listed as "not used by the 388th"; possibly connecting to the alleged deep underground military base beneath Granite Peak.
+
+> [!edit] Corrected 17 October 2026
+> This item used to number the tunnel entrance Building 102, as Gerb reads it in the video. Table 2-1 of the 2012 assessment (scan page 33) numbers it 1002.
+
+::wiki-document
+---
+name: "Environmental Assessment Report on Avery Technical Center"
+page: 33
+region: [0.08, 0.78]
+caption: "Table 2-1: the Avery Area's buildings, their current use by the 388th RANS and their construction dates, from 1002 Avery Tunnel Entrance (1952, \"Not used by the 388th\") to 1010 Test Operations and 1016 Classified Storage."
+---
+::
 
 ## Absence from Public Documentation
 
@@ -46,7 +76,10 @@ To MS, the craft appeared to be in the process of being dismantled or studied, w
 
 ## Internal Rail System and Underground Connections
 
-Avery's documented internal rail system was originally designed to transport radioactive materials. It has drawn more interest because of allegations about Dugway's deep underground military base. Building 102 (Avery Tunnel Entrance), together with GP's claims that craft and materials are moved through underground rail connections, suggests that Avery's rail system may be the main way UAP-related materiel travels between surface facilities and the alleged underground complex beneath Granite Peak.
+Avery's documented internal rail system was originally designed to transport radioactive materials. It has drawn more interest because of allegations about Dugway's deep underground military base. Building 1002 (Avery Tunnel Entrance), together with GP's claims that craft and materials are moved through underground rail connections, suggests that Avery's rail system may be the main way UAP-related materiel travels between surface facilities and the alleged underground complex beneath Granite Peak.
+
+> [!edit] Corrected 17 October 2026
+> This paragraph used to call the tunnel entrance Building 102, following Gerb's reading. Table 2-1 of the 2012 assessment (scan page 33) numbers it 1002.
 
 Such a system would let craft, materials and personnel be moved covertly, out of sight from the surface. That fits witness MS's observation of a craft in what appeared to be a staging or study area inside the facility.
 

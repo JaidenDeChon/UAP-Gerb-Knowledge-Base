@@ -55,9 +55,19 @@ Gerb calls this contradiction a "massive issue" for Willingham's credibility. Wi
 
 Researcher [[Kevin Randle]] questioned Willingham's Air Force service record in his book *Crash: When UFOs Fall from the Sky*. The National Personnel Records Service in St. Louis, Missouri, could not provide Willingham's service documents. A catastrophic fire there on July 12, 1973, however, destroyed most records for personnel who served between 1947 and 1963. Co-author Noe Torres claims to have over 50 documents that confirm Willingham's service, but he has not released them publicly.
 
-Willingham's 1965 newspaper account, his 1977 affidavit (obtained by researcher [[Todd Zechel]]) and the 2008 book also disagree in other ways:
+Willingham's 1965 newspaper account, his 1977 [[Willingham Affidavit|affidavit]] (obtained by researcher [[Todd Zechel]]) and the 2008 book also disagree in other ways:
 - The affidavit says Willingham was flying an F-94, while the book says it was an F-86 Sabre.
-- The 1965 article dates the event to 1948, while the book and later sources give 1955.
+- The earlier article dates the event to 1948, while the book and later sources give 1955. Gerb dates that article to 1965 (and elsewhere 1967); [[Kevin Randle]] traces the first published telling, and the 1948 date, to MUFON's *Skylook* in March 1968. The affidavit gives no year.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said "the 1965 article" dates the event to 1948. The 1965 date is Gerb's; Randle finds the 1948 date in *Skylook*, March 1968 (see [[Willingham Affidavit]]).
+
+::wiki-document
+---
+name: "Willingham Affidavit"
+caption: "Robert Willingham's 1977 affidavit for Todd Zechel, known from Kevin Randle's transcription, describing a crash on the Texas–Mexico border."
+---
+::
 
 Willingham put these discrepancies down to memory problems from his Korean War head injury.
 
@@ -66,6 +76,13 @@ Willingham put these discrepancies down to memory problems from his Korean War h
 ### The Condon Report Case 5
 
 The [[Condon Report]], a 1969 study funded by the Air Force and designed to debunk UFO phenomena, includes a case from September 19, 1957 (Case 5) that also involved an aircraft based at [[Carswell Air Force Base]]. A large, bright fireball that alternated between red and white pursued an RB-47 for over 600 miles. Several radar systems and the aircraft's own electronic countermeasures equipment detected it. When the plane landed, intelligence personnel removed all of the graphic and radar data. The case shows a pattern of UFO encounters involving Carswell-based aircraft, followed by the confiscation of data.
+
+::wiki-document
+---
+name: "Condon Report"
+caption: "The University of Colorado's \"Scientific Study of Unidentified Flying Objects\", whose Case 5 is the RB-47 encounter it dates 19 September 1957."
+---
+::
 
 ### USAF Document on B-47 UFO Sightings
 

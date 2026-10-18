@@ -6,11 +6,22 @@ tags:
   - person
 ---
 
-Salvatore Cezar Pais is an American aerospace engineer with a PhD in mechanical and aerospace engineering. He worked for the US Navy's Naval Air Warfare Center Aircraft Division at [[Naval Air Station Patuxent River]] in Maryland. He is best known for a series of Navy-assigned patents, among them the "Craft Using an Inertial Mass Reduction Device," filed in 2016 and granted in 2018 (US 10,144,532), which describes a craft that generates and manipulates fields around itself to reduce its inertial mass. The patents are widely nicknamed the Navy's "UFO patents."
+Salvatore Cezar Pais is an American aerospace engineer with a PhD in mechanical and aerospace engineering. He worked for the US Navy's Naval Air Warfare Center Aircraft Division at [[Naval Air Station Patuxent River]] in Maryland. He is best known for a series of Navy-assigned patents, among them the "[[Craft Using an Inertial Mass Reduction Device]]," filed in 2016 and granted in 2018 (US 10,144,532), which describes a craft that generates and manipulates fields around itself to reduce its inertial mass. The patents are widely nicknamed the Navy's "UFO patents."
+
+::wiki-document
+---
+name: "Craft Using an Inertial Mass Reduction Device"
+page: 1
+caption: "The patent's front page: US 10,144,532 B2, filed 28 April 2016 and granted 4 December 2018, assigned to the Secretary of the Navy, with the abstract and the triangular craft drawing."
+---
+::
 
 ## The Craft Patent
 
-The patent describes a triangle- or diamond-shaped hybrid aerospace-undersea craft that manipulates electromagnetic fields and the quantum vacuum around its hull to propel itself. Pais calls the underlying mechanism the "Pais Effect." James Sheehy, NAVAIR's chief technology officer, supported the Navy's application inside NAVAIR, and it was approved after internal review.
+The patent describes a triangle- or diamond-shaped hybrid aerospace-undersea craft that manipulates electromagnetic fields and the quantum vacuum around its hull to propel itself. Pais has called the underlying mechanism the "Pais Effect," though the term does not appear in the craft patent itself. James Sheehy, NAVAIR's chief technology officer, supported the Navy's application inside NAVAIR, and it was approved after internal review.
+
+> [!edit] Clarified 16 October 2026
+> Earlier versions said Pais calls the craft's mechanism the "Pais Effect" without qualification. The term is not used in the craft patent (US 10,144,532 B2), nor in his electromagnetic field generator (US 10,135,366 B2) or gravitational wave generator (US 10,322,827 B2) patents.
 
 In *[[Off-World Technologies Division – UAP Technology Reverse Engineering]]*, Gerb dates the filing to 2017 at Pax River (the application was published that year) and says the craft design strongly resembles the alleged reverse-engineered [[TR-3B]] triangle craft. Gerb cites [[Ross Coulthart]]'s book *In Plain Sight*, which gives the account of former Navy science and technology official [[Nat Kobitz]]. Kobitz said he made discreet inquiries about the patent at NAVAIR and Pax River and found that none of his Navy colleagues knew anything about Pais or his patents. He is quoted as saying that if anything near a working anti-gravity craft existed, it had been kept very quiet.
 

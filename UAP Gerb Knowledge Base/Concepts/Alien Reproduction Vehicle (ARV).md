@@ -16,7 +16,17 @@ The second is the triangle, the TR-3B and its variants: a pitch-black equilatera
 
 ## Immaculate Constellation Report
 
-The IMCON report, whose historical data went back to 2009, described at least two encounters with triangular ARVs that INDOPACOM collected. In the first, a large equilateral triangle hovered and slowly rotated 500–1,000 meters above the ocean. It had three bright lights at each corner and a horizontal bar of sweeping lights, and collected intelligence confirmed it was a "reproduction craft." In the second, an equilateral ARV triangle the size of a fighter jet hovered less than 200 meters above a vessel. It showed at least two visible lights, plus one obstructed light on the underside.
+The [[Immaculate Constellation Report|IMCON report]] described at least two encounters with triangular ARVs that INDOPACOM collected. In the first, a large equilateral triangle hovered and slowly rotated 500–1,000 meters above the ocean. It had three bright lights at each corner and a horizontal bar of sweeping lights, and collected intelligence confirmed it was a "reproduction craft." In the second, an equilateral ARV triangle the size of a fighter jet hovered less than 200 meters above a vessel. It showed at least two visible lights, plus one obstructed light on the underside.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said the report's historical data went back to 2009, as Gerb says in his black-triangle video. The report gives no date for the triangle footage; its only date range is the 1991 to 2022 span of its HUMINT dataset.
+
+::wiki-document
+---
+name: "Immaculate Constellation Report"
+caption: "The unsigned whistleblower report entered into the congressional record in November 2024, which describes INDOPACOM triangles it calls reproduction craft."
+---
+::
 
 ## Historical Context
 

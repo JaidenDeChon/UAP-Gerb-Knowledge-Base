@@ -206,6 +206,13 @@ The [[MJ-12 Documents]] allege that a secret group called [[Majestic 12]] (MJ-12
 
 The release caused a large controversy among UFO researchers and in the mainstream media. The FBI declared the briefing document bogus, many researchers and government officials have called the MJ-12 documents forgeries, and some specific documents in the set are widely believed to be fabricated. Friedman did much of the archival work on them. In 1989 he went to the National Archives and found several 18 November 1952 briefings for President-elect Eisenhower in Office of the Secretary of Defense files, none mentioning MJ-12 but confirming the date. He also placed [[Roscoe H. Hillenkoetter]], named as the briefing officer, in New York in late 1952 as head of the Third Naval District, not in Korea as critics claimed. Gerb quotes his conclusion: "The Majestic 12 documents problem is complex and extensive. On balance it appears that the EBD, TFM and CTM are almost certainly genuine. The SOM 1-01 memo is very likely genuine."
 
+::wiki-document
+---
+name: "Eisenhower Briefing Document"
+caption: "The disputed MJ-12 briefing paper for President-elect Eisenhower, dated 18 November 1952, which names Hillenkoetter as briefing officer."
+---
+::
+
 Gerb leans on that work. He calls the briefing document "somewhat convincing" because of Friedman's authentication, and recommends Friedman's *Top Secret/Majic* to anyone who wants to look into it. In his video on the [[Del Rio, Texas|Del Rio]] crashes he says the MJ-12 papers "combine a lot of disinformation and factual information similar to what Stanton Friedman claims." [[Tim Cooper]], who received the largest cache of the documents, later shared a five-page affidavit on his source with Friedman and Robert Wood.
 
 ## Roswell and Aztec
@@ -215,6 +222,13 @@ Friedman's 1978 interview with [[Jesse Marcel]] is the moment Gerb's videos use 
 ## Critic of Philip Corso
 
 Friedman was the sharpest critic of [[Philip J. Corso]] and his 1997 book *The Day After Roswell*. Gerb answers each of his points, but notes that Friedman's criticism was aimed at the book, the only source he had at the time; Corso's own manuscript was published later.
+
+::wiki-document
+---
+name: "The Day After Roswell"
+caption: "The 1997 book by Philip J. Corso and William J. Birnes, the only version of Corso's story Friedman had to criticise."
+---
+::
 
 ::wiki-claim{video="_sv0Otxtcn4" video-title="Philip J. Corso - US Army UFO Technology Research & Development"}
 ---

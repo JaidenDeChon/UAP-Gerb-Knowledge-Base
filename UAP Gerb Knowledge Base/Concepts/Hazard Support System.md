@@ -10,6 +10,13 @@ The Hazard Support System is a detection and analysis system built with data fro
 
 In a 2015 email to [[John Podesta]], later made public by [[WikiLeaks]], [[Bob Fish]] cited this line from the 2014 DSP fact sheet as evidence that the DSP program still collects [[Fast Walkers|Fast Walker]] data, 24 years after his first encounter with DSP personnel in the late 1980s. In Fish's reading, the "hazard support system" involves continued analysis of anomalous objects detected by DSP satellites.
 
+::wiki-document
+---
+name: "Bob Fish Email to John Podesta"
+caption: "Bob Fish's email to John Podesta of March 2015, published by WikiLeaks in 2016, naming the USAF DSP satellite program as a collector of hard data on UFOs."
+---
+::
+
 ## Dual-Use Interpretation
 
 The term "hazard support system" has dual-use implications, because it can be read in two ways.

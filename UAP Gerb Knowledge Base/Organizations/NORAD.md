@@ -32,7 +32,7 @@ NORAD has consistently refused to disclose UFO/Fast Walker tracking data:
 
 [[Barry J. Greenwood]] and [[Lawrence Fawcett]] requested UAP tracking data from NORAD. The command replied that fulfilling the request would cost $155,000 (in 1979 dollars, over $500,000 today). A follow-up request for a fee waiver was denied three years later.
 
-### 2013 Request by John Greenwald
+### 2013 Request by John Greenewald
 
 [[John Greenewald]] of [[The Black Vault]] submitted a FOIA request for Fast Walker documentation. US Northern Command (NORAD's parent command) responded that Fast Walker data is "currently and properly classified" under Executive Order 13526 as "critical to National Defense or foreign policy."
 

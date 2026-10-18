@@ -47,7 +47,7 @@ items:
     where: "Advanced Technology Center (ATC)"
     with:
       - "Bernard Haisch"
-    note: "Looks at resonant frequencies that might be used to interact with the quantum vacuum for propulsion. Gerb compares it to Salvatore Pais's 2017 Navy patent."
+    note: "Looks at resonant frequencies that might be used to interact with the quantum vacuum for propulsion. Gerb compares it to Salvatore Pais's Navy craft patent, published in 2017 and granted in 2018."
     source: "UFOs in the Private Sector - Lockheed Martin"
   - date: "2024-02"
     kind: interview
@@ -72,7 +72,19 @@ items:
 
 ## Lockheed Martin Advanced Technology Center Research
 
-Puthoff and astrophysicist [[Bernard Haisch]] published a paper on the [[Zero Point Energy|zero-point energy]] of the quantum vacuum for the Lockheed Martin [[Advanced Technology Center (ATC)|Advanced Technology Center]], which Gerb dates to 1998. It examined resonant frequencies that might be used to interact with the quantum vacuum for propulsion. Gerb calls it "pretty breakthrough stuff" and compares it to the 2017 patent awarded to [[Salvatore Pais]] and the Navy for a triangular craft using specific frequencies to interact with the vacuum. Puthoff was not a Lockheed employee. Ryder, the Advanced Technology Center's later head, worked with Puthoff and [[Eric Davis]] on the Starfire project's science review team after leaving Lockheed, and quoted "my friend Dr. Puthoff" in a 2015 talk (see [[James T. Ryder]]).
+Puthoff and astrophysicist [[Bernard Haisch]] published a paper on the [[Zero Point Energy|zero-point energy]] of the quantum vacuum for the Lockheed Martin [[Advanced Technology Center (ATC)|Advanced Technology Center]], which Gerb dates to 1998. It examined resonant frequencies that might be used to interact with the quantum vacuum for propulsion. Gerb calls it "pretty breakthrough stuff" and compares it to the patent [[Salvatore Pais]] and the Navy were awarded for a triangular craft using specific frequencies to interact with the vacuum, which he dates to 2017. The patent, [[Craft Using an Inertial Mass Reduction Device]], was published in 2017 and granted in December 2018; it cites Puthoff's own 2002 paper on the "polarizable vacuum", not the paper with Haisch. Puthoff was not a Lockheed employee. Ryder, the Advanced Technology Center's later head, worked with Puthoff and [[Eric Davis]] on the Starfire project's science review team after leaving Lockheed, and quoted "my friend Dr. Puthoff" in a 2015 talk (see [[James T. Ryder]]).
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions called it "the 2017 patent awarded to" Pais, as fact. The patent (US 10,144,532 B2) was published in November 2017 and granted on 4 December 2018. The note in the record above was updated to match.
+
+::wiki-document
+---
+name: "Craft Using an Inertial Mass Reduction Device"
+page: 1
+region: [0.08, 0.47]
+caption: "The patent's front page: first published 2 November 2017, granted 4 December 2018, and citing Puthoff's 2002 \"Polarizable-Vacuum (PV) Approach to General Relativity\" among its references."
+---
+::
 
 ## Comments on Kona Blue and Kingman
 
@@ -107,6 +119,13 @@ Former AARO director [[Sean Kirkpatrick]] has alleged that the reverse-engineeri
 ## Wilson-Davis Memo and Will Miller
 
 The 2002 meeting recorded in the [[Wilson-Davis Memo|Wilson-Davis notes]] was set off by a letter from Naval Reserve Commander [[Will Miller]] to Davis and Puthoff. Miller asked for anonymity and offered them a senior official who knew about alien reproduction vehicles, a list of civilian contractors in crash retrieval programs, and a team possibly involved in retrievals.
+
+::wiki-document
+---
+name: "Wilson-Davis Memo"
+caption: "The leaked 15-page notes, dated 16 October 2002, that purport to record Eric Davis's conversation with Vice Admiral Thomas Wilson about a contractor-run crash retrieval program."
+---
+::
 
 ## Aerospace Corporation Identification
 

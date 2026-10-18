@@ -32,7 +32,7 @@ stats:
 
 In this video Gerb follows the paper trail of [[Project Moon Dust]], a US Air Force program whose official remit was to "locate, recover and deliver descended foreign space vehicles". He presents it as one possible Department of Defense program for retrieving crashed UFOs. The video opens with a clip of [[David Grusch]] describing the intelligence officers who confided in him. Gerb says such programs have gone from conspiracy to "outrageous fact" through witnesses like Grusch and legislation like the [[Schumer Amendment (NDAA)|Schumer amendment]] to the 2024 NDAA. Moon Dust, he argues, is a program whose paper trail can actually be followed.
 
-Gerb makes his case in four parts. He first argues that the official investigations were not the whole story: Captain [[Edward J. Ruppelt]] of [[Project Grudge]], [[Project Sign]] and [[Project Blue Book]], and Blue Book's scientific adviser Dr. [[J. Allen Hynek]], both said parallel classified programs were studying UFOs. He then turns to Moon Dust's own charter. A 1961 Air Force draft policy and a 1967 review of the [[USAF 1127th Field Activities Group]] show it had real collection duties, with a large redacted category listed beside the Soviet and American space debris. The third part is the program's work in the field: a 1961 sighting over Karachi, a crashed disc in Nepal in 1968, a 1976 request to Canada, pressure-vessel fragments in New Zealand in 1978 and the [[1978 Bolivia UFO Crash]], Gerb's "favorite case". Memos were addressed more than once to [[Wright-Patterson Air Force Base]]. Last come the denials. In 1992 the Air Force told Senators [[Jeff Bingaman]] and [[Pete Domenici]] that Moon Dust had never existed, then acknowledged it when shown documents, and in 1994 it said the program's files had been destroyed.
+Gerb makes his case in four parts. He first argues that the official investigations were not the whole story: Captain [[Edward J. Ruppelt]] of [[Project Grudge]], [[Project Sign]] and [[Project Blue Book]], and Blue Book's scientific adviser Dr. [[J. Allen Hynek]], both said parallel classified programs were studying UFOs. He then turns to Moon Dust's own charter. A 1961 Air Force draft policy and a 1967 review of the [[USAF 1127th Field Activities Group]] show it had real collection duties, with a large redacted category listed beside the Soviet and American space debris. The third part is the program's work in the field: a 1961 sighting over Karachi, a crashed disc in Nepal in 1968, a 1976 request to Canada, pressure-vessel fragments in New Zealand in 1978 (the [[Moon Dust New Zealand Cable (1978)]]) and the [[1978 Bolivia UFO Crash]], Gerb's "favorite case". Memos were addressed more than once to [[Wright-Patterson Air Force Base]]. Last come the denials. In 1992 the Air Force told Senators [[Jeff Bingaman]] and [[Pete Domenici]] that Moon Dust had never existed, then acknowledged it when shown documents, and in 1994 it said the program's files had been destroyed.
 
 Gerb explains the denials with the [[Wilson-Davis Memo]], in which Admiral [[Thomas Wilson]] is said to describe special access programs being reorganized in the early 1990s to hide crash retrieval. He calls the years from Blue Book's closure in 1969 to AATIP in 2008 the "Dark Ages", when UFO investigation was officially invisible. He ends by rejecting the view that Moon Dust only ever collected foreign and domestic space vehicles.
 
@@ -78,7 +78,7 @@ events:
   - date: "1952-04-24"
     title: "Ruppelt points to parallel programs"
     cue: 126
-    summary: "Having concluded that UFOs had an 'interplanetary explanation', Ruppelt suggested on 24 April 1952 that programs parallel to the official investigation were 'conducting a more complete investigation'. Blue Book's scientific adviser J. Allen Hynek likewise said other classified programs were studying UFOs."
+    summary: "Having, by Gerb's account, concluded that UFOs had an 'interplanetary explanation', Ruppelt suggested on 24 April 1952 that programs parallel to the official investigation were 'conducting a more complete investigation'. Blue Book's scientific adviser J. Allen Hynek likewise said other classified programs were studying UFOs."
     category: document
     significance: major
     entities:
@@ -96,7 +96,7 @@ events:
   - date: "1961"
     title: "AFCIN-1E draft policy names Moon Dust"
     cue: 178
-    summary: "The earliest known mention of Moon Dust is in this Air Force intelligence draft policy. It proposes that the 1127th Field Activities Group take on collection duties for the USAF's program for investigating 'reliably reported unidentified flying objects' in the United States. It names Moon Dust as the project that historically held this duty, with authority to locate, recover and deliver descended foreign space vehicles."
+    summary: "Gerb calls this Air Force intelligence paper, which he reads as the 'AFC 1e draft policy', the first mention of Moon Dust. In his reading it proposes collection duties for the 1127th Field Activities Group in the USAF's program for investigating 'reliably reported unidentified flying objects', and names Moon Dust as the project that historically held the duty. The paper itself, dated 3 November 1961, is about staffing the 1127th's intelligence teams. It lists UFO investigation, Moon Dust and Blue Fly as existing projects, and a handwritten note calls it an unapproved draft."
     category: document
     significance: major
     entities:
@@ -153,7 +153,7 @@ events:
   - date: "1978"
     title: "Pressure-vessel fragments in New Zealand"
     cue: 456
-    summary: "Moon Dust investigates space fragments found in New Zealand, described as 'spherical or like a pressure vessel'. Gerb compares the shape to David Fravor's Tic Tac, which Fravor likened to a propane tank or pressure vessel with no inlets or outlets."
+    summary: "Moon Dust investigates space fragments found in New Zealand, which Gerb describes as 'spherical or like a pressure vessel' (the embassy cable says 'spherical, perhaps pressure vessels'). He compares the shape to David Fravor's Tic Tac, which Fravor likened to a propane tank or pressure vessel with no inlets or outlets."
     category: event
     significance: notable
     entities:
@@ -222,9 +222,31 @@ events:
 
 Gerb begins with the official investigations. By his account, Captain [[Edward J. Ruppelt]] ran the first official US government study of UFOs under [[Project Grudge]] in 1948–1949, and went on to direct [[Project Sign]] and [[Project Blue Book]]. As director, Ruppelt concluded that UFOs had an "interplanetary explanation", and on 24 April 1952 he suggested that programs parallel to the official investigation were "conducting a more complete investigation". Dr. [[J. Allen Hynek]], Blue Book's scientific adviser (whom Gerb covered on layer two of his iceberg video), said the same: alongside Blue Book, other classified programs were studying UFOs. One of them, Gerb suggests, could have been an inconspicuous crash retrieval program that "unless you look hard enough you'll never know existed".
 
+Ruppelt's own book tells it differently. He took over Grudge in late 1951 and wrote about Sign from its files. The interplanetary conclusion he describes is that of Sign's Top Secret [[Project Sign Estimate of the Situation (1948)|Estimate of the Situation]] of 1948, which General [[Hoyt Vandenberg]] rejected for lack of proof. No copy of the Estimate has been made public.
+
+> [!edit] Clarified 16 October 2026
+> The paragraph above gives Gerb's account, in which Ruppelt himself concluded as director that UFOs were interplanetary. This note was added because in Ruppelt's book the conclusion belongs to Project Sign's 1948 Estimate of the Situation, written three years before he joined the project. The timeline entry and Ruppelt's roster note now credit the claim to Gerb.
+
+::wiki-document
+---
+name: "Project Sign Estimate of the Situation (1948)"
+caption: "Project Sign's Top Secret Estimate of the Situation of 1948, known from Edward Ruppelt's account; no copy has been made public."
+---
+::
+
 ## Moon Dust's Charter
 
-The first mention of Moon Dust is in a 1961 US Air Force intelligence document that Gerb reads as the "AFC 1e draft policy" (the Air Force's AFCIN-1E memo, dated 3 November 1961). It proposes that the [[USAF 1127th Field Activities Group]] receive collection duties for the USAF's established program for investigating "reliably reported unidentified flying objects" within the United States, and names one project that had historically held that duty: Moon Dust, with authority to "locate, recover and deliver descended foreign space vehicles".
+Gerb traces the first mention of Moon Dust to a 1961 US Air Force intelligence document that he reads as the "AFC 1e draft policy". This is the [[AFCIN Intelligence Team Personnel Memo (1961)]], a staff paper of 3 November 1961 from the office AFCIN-1E-O. As Gerb reads it, the paper proposes that the [[USAF 1127th Field Activities Group]] receive collection duties for the USAF's established program for investigating "reliably reported unidentified flying objects" within the United States. It also names one project that had historically held that duty: Moon Dust, with authority to "locate, recover and deliver descended foreign space vehicles". The paper's own subject is keeping the 1127th's field intelligence teams staffed. It describes the UFO program (whose 1127th collection duties AFR 200-2 already set out), Moon Dust and [[Operation Bluefly|Operation Blue Fly]] as three projects already in place, and it cites an earlier Moon Dust paper, ICGL #4 of 25 April 1961. The copy Gerb shows carries a handwritten note: "This draft proposal was not approved and was not forwarded for action."
+
+> [!edit] Attribution clarified 16 October 2026
+> Earlier versions stated as fact that the 1961 document is the first mention of Moon Dust, and that it proposes collection duties for the 1127th and names Moon Dust as the project that had historically held them. Those are Gerb's readings. The memo shows a staffing paper that treats all three projects as existing, cites an April 1961 Moon Dust paper, and carries a note calling it an unapproved draft. The timeline entry now says the same.
+
+::wiki-document
+---
+name: "AFCIN Intelligence Team Personnel Memo (1961)"
+caption: "The AFCIN staff paper of 3 November 1961 that Gerb reads as the \"AFC 1e draft policy\": a study of how to keep the 1127th's field intelligence teams staffed."
+---
+::
 
 A 1967 review for the Assistant Chief of Staff for Intelligence, detailing the 1127th's functions, shows that Moon Dust was more than a proposal. That year it collected 49 fallen Soviet space objects and 17 US ones, and the tally is followed by a large redacted portion of the memo. So Moon Dust, Gerb concludes, had real collection responsibilities for Soviet, American and *redacted* space vehicles.
 
@@ -253,7 +275,7 @@ rows:
       - { text: "Three cigar-shaped UFOs in close delta formation", cue: 283 }
       - { text: "A crashed circular metal disc", cue: 316 }
       - { text: "Space-related metals from a non-US \"satellite\"", cue: 379 }
-      - { text: "Fragments \"spherical or like a pressure vessel\"", cue: 459 }
+      - { text: "Fragments \"spherical, perhaps pressure vessels\"", cue: 459 }
       - { text: "A dull metallic cylinder, 12 ft long, crashed into a mountainside", cue: 546 }
   - attribute: "Moon Dust's part"
     cells:
@@ -283,6 +305,15 @@ rows:
 Only the Bolivia case has a longer paper trail than Nepal. A defense intelligence memo tracks the crashed disc. Four months later a State Department cable titled "Moon Dust", sent to the [[Defense Intelligence Agency|DIA]], the 1127th and Wright-Patterson, calls a diplomatic visit to Kathmandu a "fishing expedition for info on space objects". Later cables record the Royal Nepalese Army showing US officers photographs of the objects. Then came a cover story that the object was a crashed satellite, which Gerb sets against [[NORAD]] and [[NASA]] data showing a 100% successful satellite launch rate in 1968. "Unfortunately the trail stops here," he says, because he cannot tell whether US entities recovered the disc. See [[1968 Nepal Circular Disc Crash]].
 
 The Canadian memo asked for photos on behalf of the USAF [[Air Force Foreign Technology Division|Foreign Technology Division]] at Wright-Patterson and the CIA's Office of Weapons Intelligence. Gerb notes in passing that Canada has historically been open about investigating UFOs and sharing analysis with its Five Eyes partners, a subject he leaves for another video. The New Zealand fragments' shape reminds him of Commander [[David Fravor]]'s [[2004 Nimitz UAP Encounter (Tic Tac)|Tic Tac]], which Fravor likened to a propane tank or pressure vessel with no inlets or outlets.
+
+::wiki-document
+---
+name: "Moon Dust New Zealand Cable (1978)"
+page: 1
+region: [0.17, 0.50]
+caption: "The Wellington cable's summary: both fragments are \"spherical, perhaps pressure vessels\" and bear no identifying marks."
+---
+::
 
 ### The Wright-Patterson connection
 
@@ -397,6 +428,13 @@ claims:
 
 Gerb's explanation for the denials comes from his earlier video on the [[Wilson-Davis Memo]]. There, Admiral [[Thomas Wilson]] is said to describe special access programs being reorganized in the early 1990s to hide crash retrieval and reverse engineering inside "SAP-X" compartments, where they would be inaccessible to everybody. The senators asked for Moon Dust's records in the mid-1990s, so Gerb asks whether the denials and the destruction of records followed from that reorganization, and answers: "I think so." He finds it quite plausible that the Air Force destroyed most of Moon Dust's files to hide a UFO crash retrieval program.
 
+::wiki-document
+---
+name: "Wilson-Davis Memo"
+caption: "The leaked 15-page notes, dated 16 October 2002, that purport to record Eric Davis's conversation with Vice Admiral Thomas Wilson about a contractor-run crash retrieval program."
+---
+::
+
 He frames the whole stretch from 1969 to 2008, from Project Blue Book to [[AATIP (Advanced Aerospace Threat Identification Program)|AATIP]], as the "Dark Ages": a completely hidden era of UFO investigation with no official US government investigation group, in which the Air Force kept denying Moon Dust. In his words, "That is where our paper trail ends."
 
 ## Related Programs
@@ -416,7 +454,7 @@ He ends by asking viewers whether Moon Dust was, at least at one point, responsi
 entries:
   - name: "Edward J. Ruppelt"
     role: "US Air Force captain; ran Grudge, Sign and Blue Book"
-    note: "Concluded UFOs had an 'interplanetary explanation' and in April 1952 pointed to parallel programs 'conducting a more complete investigation'."
+    note: "Said by Gerb to have concluded that UFOs had an 'interplanetary explanation'; in April 1952 he pointed to parallel programs 'conducting a more complete investigation'."
   - name: "J. Allen Hynek"
     role: "Scientific adviser to Project Blue Book"
     note: "Said other classified programs were studying UFOs alongside Blue Book."
@@ -450,15 +488,21 @@ entries:
 ## Key Claims
 
 - Edward J. Ruppelt said in April 1952 that programs parallel to the official UFO investigations were "conducting a more complete investigation", and J. Allen Hynek said other classified programs were studying UFOs alongside Blue Book.
-- A 1961 Air Force intelligence draft policy proposed giving the 1127th Field Activities Group collection duties for investigating "reliably reported unidentified flying objects", naming Moon Dust as the project with authority to locate, recover and deliver descended foreign space vehicles.
+- Gerb says a 1961 Air Force intelligence draft policy proposed giving the 1127th Field Activities Group collection duties for investigating "reliably reported unidentified flying objects", naming Moon Dust as the project with authority to locate, recover and deliver descended foreign space vehicles. The paper itself (3 November 1961) concerns staffing the 1127th's intelligence teams and lists UFO investigation, Moon Dust and Blue Fly as existing projects.
 - A 1967 review shows Moon Dust collected 49 Soviet and 17 US space objects that year, followed by a large redacted portion, so its collection duties covered Soviet, American and redacted space vehicles.
 - Moon Dust recorded three cigar-shaped UFOs in delta formation over Karachi on 25 April 1961.
 - In 1968 a crashed circular metal disc in Nepal was monitored; a "Moon Dust" cable to the DIA, the 1127th and Wright-Patterson called a Kathmandu visit a "fishing expedition", and a crashed-satellite cover story followed despite a 100% successful satellite launch rate that year.
 - Moon Dust memos from Nepal (1968) and Canada (1976) were addressed to Wright-Patterson, long alleged to be the storage hub for crash retrievals.
-- Fragments Moon Dust investigated in New Zealand in 1978 were described as "spherical or like a pressure vessel", a shape Gerb compares to David Fravor's Tic Tac.
+- Fragments found in New Zealand in 1978 and reported in a "Moondust" cable were "spherical, perhaps pressure vessels". Gerb, who paraphrases this as "spherical or like a pressure vessel", compares the shape to David Fravor's Tic Tac.
 - On 6 May 1978 a cylinder crashed near El Taire, Bolivia, before thousands of witnesses; two US Air Force officers arrived, Cyrus Vance wrote that the appropriate agencies had been contacted, and Moon Dust received the Bolivian military's film and monitored the situation.
 - In 1992 the Air Force told Senators Bingaman and Domenici that Moon Dust had never existed, then acknowledged it when shown documents; in 1994 it told Domenici the files had been destroyed, which Gerb calls categorically false.
 - Gerb links the denials and alleged destruction of records to the early-1990s reorganization of special access programs described in the Wilson-Davis memo, and calls 1969–2008 the "Dark Ages" of hidden UFO investigation.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions of the New Zealand key claim, timeline entry and comparison table quoted "spherical or like a pressure vessel" as the fragments' recorded description. That is Gerb's paraphrase; the cable, WELLINGTON 06093 of 7 November 1978, says "spherical, perhaps pressure vessels".
+
+> [!edit] Attribution clarified 16 October 2026
+> The key claim about the 1961 draft policy was stated as fact. It is now credited to Gerb, and it notes that the paper itself is about staffing the 1127th's intelligence teams and treats UFO investigation, Moon Dust and Blue Fly as existing projects.
 
 ## Sources
 
@@ -469,6 +513,6 @@ entries:
 - **People**: [[Edward J. Ruppelt]], [[J. Allen Hynek]], [[David Grusch]], [[David Fravor]], [[Barry Goldwater]], [[Natalio Ruiz]], [[Colonel Robert Simmons]], [[John Heise]], [[Cyrus Vance]], [[Jeff Bingaman]], [[Pete Domenici]], [[Thomas Wilson]], [[Tim Burchett]], [[Anna Paulina Luna]], [[Eric Burlison]], [[Representative Moskowitz|Jared Moskowitz]]
 - **Organizations**: [[USAF 1127th Field Activities Group]], [[US Air Force]], [[Defense Intelligence Agency]], [[Air Force Foreign Technology Division]], [[NORAD]], [[NASA]], [[UAP Caucus]], [[CIA Office of Global Access]]
 - **Operations**: [[Project Moon Dust]], [[Project Blue Book]], [[Project Grudge]], [[Project Sign]], [[AATIP (Advanced Aerospace Threat Identification Program)]], [[Operation Bluefly]], [[Operation Zodiac]]
-- **Events**: [[1978 Bolivia UFO Crash]], [[1968 Nepal Circular Disc Crash]], [[1961 Karachi Pakistan UFO Sighting]], [[Roswell Crash]], [[2004 Nimitz UAP Encounter (Tic Tac)]], [[Schumer Amendment (NDAA)]]
+- **Events**: [[1978 Bolivia UFO Crash]], [[1968 Nepal Circular Disc Crash]], [[1961 Karachi Pakistan UFO Sighting]], [[Roswell Crash]], [[2004 Nimitz UAP Encounter (Tic Tac)]]
 - **Locations**: [[Wright-Patterson Air Force Base]], [[Bolivia]], [[Shag Harbour, Nova Scotia]]
-- **Concepts**: [[Wilson-Davis Memo]]
+- **Documents**: [[Schumer Amendment (NDAA)]], [[Wilson-Davis Memo]], [[AFCIN Intelligence Team Personnel Memo (1961)]], [[Moon Dust New Zealand Cable (1978)]], [[Project Sign Estimate of the Situation (1948)]]

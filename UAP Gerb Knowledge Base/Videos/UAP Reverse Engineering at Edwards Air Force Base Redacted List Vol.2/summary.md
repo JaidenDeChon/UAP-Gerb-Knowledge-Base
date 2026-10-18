@@ -485,7 +485,7 @@ With Area 51 and S4 long associated with Bob Lazar, Gerb asks whether other stor
 - In 1990 an Aviation Week article reported 45 sightings of aircraft accelerating from near-hover to supersonic speed over Edwards, George Air Force Base and [[China Lake Naval Air Weapons Station|China Lake]]; one was triangular.
 - In 1998 testimony, Air Force master sergeant Edgar Fouché said that at a defense advanced research facility under the Jet Propulsion Laboratory at Edwards in 1979, a full anti-gravity propulsion system was developed for a secret space fleet. He also said graduates of the Edwards test pilot school flew the TR-3B.
 
-Edwards also appears many times in Leonard Stringfield's *Crash Retrieval Status Reports*. Gerb takes three cases from them.
+Edwards also appears many times in Leonard Stringfield's *[[Stringfield Status Reports|Crash Retrieval Status Reports]]*. Gerb takes three cases from them.
 
 ::wiki-grid{cols=3}
 ::wiki-panel{title="Project Heaven" tone="accent"}
@@ -649,6 +649,7 @@ entries:
 - **People**: [[Ed (Witness 11063)]], [[Steven Greer]], [[Sean Kirkpatrick]], [[Gordon Cooper]], [[Edgar Fouche]], [[Leonard Stringfield]], [[Michael Schratt]], [[Debbie Clayton]], [[Christopher Haave]], [[Catherine Austin Fitts]], [[Thomas Wilson]], [[David Grusch]], [[Dick Cheney]], [[Mark McCandlish]], [[Brad Sorenson]], [[Eric A. Walker]], [[MS (Dugway Witness)]], [[Christopher Sharp]], [[Anna Paulina Luna]], [[Tim Burchett]], [[Nick Cook]], [[Jesse Michels]], [[Bob Lazar]]
 - **Organizations**: [[Disclosure Project]], [[US Air Force]], [[412th Test Wing]], [[Air Force Test Pilot School]], [[Air Force Test Center]], [[Air Force Materiel Command (AFMC)]], [[AARO]], [[Lockheed Martin]], [[Lockheed Martin Skunk Works]], [[Boeing]], [[SAIC]], [[MIT]], [[NGA]], [[Department of Energy]], [[NRO (National Reconnaissance Office)]]
 - **Locations**: [[Edwards Air Force Base]], [[Nellis Air Force Base]], [[Nevada Test and Training Range (NTR)]], [[Area 51]], [[Building 200]], [[Hanscom Air Force Base, Massachusetts]], [[Pentagon]], [[Wright-Patterson Air Force Base]], [[Hangar 6]], [[Norton Air Force Base]], [[Air Force Plant 42]], [[China Lake Naval Air Weapons Station]], [[Helendale]], [[Dugway Proving Ground]]
-- **Concepts**: [[Alien Reproduction Vehicle (ARV)]], [[TR-3B]], [[Zero Point Energy]], [[Biefeld-Brown Effect]], [[Bell or Acorn-Shaped Craft]], [[Hidden Wing]], [[Wilson-Davis Memo]], [[Off-World Technologies Division]]
+- **Concepts**: [[Alien Reproduction Vehicle (ARV)]], [[TR-3B]], [[Zero Point Energy]], [[Biefeld-Brown Effect]], [[Bell or Acorn-Shaped Craft]], [[Hidden Wing]], [[Off-World Technologies Division]]
+- **Documents**: [[Wilson-Davis Memo]], [[Stringfield Status Reports]]
 - **Operations**: [[Project Heaven]], [[Project Redlight]], [[Project Outgrowth]], [[Blackjack Team]]
 - **Events**: [[1965 Kecksburg, Pennsylvania Crash Retrieval]]

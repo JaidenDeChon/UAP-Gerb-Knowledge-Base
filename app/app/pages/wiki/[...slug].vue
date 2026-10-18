@@ -74,6 +74,8 @@ const category = computed<Category>(() =>
 const isTranscript = computed(() => page.value?.stem.endsWith('/transcript') ?? false)
 /** A People note's portrait, from the baked meta (see wiki/portraits.ts). */
 const portrait = computed(() => (category.value === 'People' ? meta.value?.image : undefined))
+/** A Documents note's document and file, from the baked meta (see wiki/documents.ts). */
+const noteDocument = computed(() => (category.value === 'Documents' ? meta.value?.document : undefined))
 /** People pages get the at-a-glance block, their videos and their connections. */
 const isPerson = computed(() => category.value === 'People')
 const videoTitle = computed(() => (page.value ? videoTitleFromStem(page.value.stem) : null))
@@ -108,6 +110,7 @@ const CATEGORY_SELF_TAG: Partial<Record<Category, string>> = {
   Organizations: 'organization',
   Locations: 'location',
   Concepts: 'concept',
+  Documents: 'document',
   Events: 'event',
   Videos: 'video',
   Operations: 'operation',
@@ -239,6 +242,10 @@ const articleClass = computed(() => hasRail.value
           </div>
 
           <WikiFactTable :page="page" />
+
+          <WikiTranscriptionLink v-if="noteDocument" :document="noteDocument" />
+
+          <WikiDocumentViewer v-if="noteDocument" :document="noteDocument" :title="page.title" />
 
           <WikiPersonGlance v-if="isPerson" :page="page" :path="route.path" />
 

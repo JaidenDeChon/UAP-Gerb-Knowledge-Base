@@ -279,7 +279,7 @@ events:
   - date: "2012-07"
     title: "Environmental assessment maps Avery"
     cue: 2258
-    summary: "An unclassified July 2012 environmental assessment of the Air Force's exclusive use of Army land at Dugway describes Avery: 40 acres beside Michael Army Airfield used by the 388th Range Squadron, a radiological past with Atomic Energy Commission labs, an internal rail system for radioactive materials, and buildings including the 102 Avery tunnel entrance, 1010 test operations and 1016 classified storage."
+    summary: "An unclassified July 2012 environmental assessment of the Air Force's exclusive use of Army land at Dugway describes Avery: 40 acres beside Michael Army Airfield used by the 388th Range Squadron, a radiological past with radiological warfare laboratories that irradiated food using spent Atomic Energy Commission fuel elements, an internal rail system for radioactive materials, and buildings including the 1002 Avery tunnel entrance, 1010 test operations and 1016 classified storage."
     category: document
     significance: major
     entities:
@@ -424,10 +424,26 @@ Gerb first suspected the Material Test Facility or the Defensive Test Chamber ju
 
 - It is a 40-acre area bordering Michael Army Airfield, and both are a focus of the 388th Range Squadron from Hill.
 - It served partly for the squadron's air testing and training.
-- Historically it hosted radiological studies and research into handling radioactive material, including the [[Atomic Energy Commission]]'s radiobiological warfare laboratories.
+- Historically it hosted radiological studies and research into handling radioactive material. Gerb describes "radiobiological warfare laboratories for the Atomic Energy Commission"; the assessment calls them radiological warfare laboratories, used in the 1950s to study dosimetry and to irradiate food with spent fuel elements from the [[Atomic Energy Commission]].
+
+> [!edit] Corrected 17 October 2026
+> This item used to say Avery housed the Atomic Energy Commission's radiobiological warfare laboratories. The assessment (page 7 of the report, scan page 30) says "radiological warfare laboratories" and links the AEC only as the source of the spent fuel elements; "radiobiological" is Gerb's word.
+
 - It has an internal rail system for moving radioactive material, which Gerb calls "truly massive" for the underground question.
 
-Aerial views label none of Avery's buildings, unlike Ditto's. The assessment's map shows the 102 Avery tunnel entrance, 1012 photo operations and maintenance, 1038 general storage and 1016 classified storage. Gerb bets MS's encounter took place at building 1010, test operations.
+::wiki-document
+---
+name: "Environmental Assessment Report on Avery Technical Center"
+page: 30
+region: [0.24, 0.61]
+caption: "The assessment's description of the Avery Area: about 40 acres, the focus of the 388th RANS, built for radiological studies with Atomic Energy Commission fuel elements, and organized around an internal rail system for radioactive material, with Building 1010 as its main building."
+---
+::
+
+Aerial views label none of Avery's buildings, unlike Ditto's. The assessment's map and its Table 2-1 list buildings including the 1002 Avery tunnel entrance (built 1952 and "not used by the 388th"), 1012 photo operations and maintenance, 1038 general storage and 1016 classified storage. Gerb bets MS's encounter took place at building 1010, test operations, which the table lists as the 388th's operations headquarters.
+
+> [!edit] Corrected 17 October 2026
+> This paragraph used to call the tunnel entrance building 102, as Gerb reads it in the video. Table 2-1 of the assessment (scan page 33) numbers it 1002.
 
 ### The ghost building
 
@@ -449,6 +465,14 @@ After 9/11 the Army hired private guards through [[Sole Source Arrangement|sole-
 ::wiki-panel{title="Industrial security specialists" tone="accent"}
 This is Gerb's conclusion. Industrial security (INDC) personnel manage risk across the defense industrial base: they oversee the National Industrial Security Program, issue facility clearances, mitigate foreign ownership and protect classified technology. An ATEC security specialist posting for Dugway includes serving as alternate special security officer for sensitive compartmented information (SCI) programs. Guards that close to a saucer, he argues, would be highly cleared specialists like these.
 ::
+::
+
+::wiki-document
+---
+name: "GAO Report on Army Guard Program"
+page: 42
+caption: "Appendix II of the GAO report, listing Army installations with contract security guards: Dugway Proving Grounds is guarded by Chenega Integrated Systems under an ANC 8(a) sole-source contract."
+---
 ::
 
 ### Interrogation and GP
@@ -641,5 +665,6 @@ entries:
 - **Organizations**: [[US Army Test and Evaluation Command (ATEC)]], [[West Desert Test Center]], [[388th Range Squadron]], [[C Martin Company]], [[Battelle Memorial Institute]], [[Wackenhut Services]], [[SAIC]], [[Senate Select Committee on Intelligence]], [[Men in Black]], [[Atomic Energy Commission]], [[Bureau of Reclamation]], [[Los Alamos National Laboratory]], [[Disclosure Project]], [[TRW]], [[AT&T]], [[Majestic 12]], [[SOCOM]], [[NASA]], [[Carlyle Group]]
 - **Locations**: [[Dugway Proving Ground]], [[Avery Technical Center]], [[Ditto Technical Center]], [[Michael Army Airfield]], [[Granite Peak, Dugway]], [[Utah Test and Training Range]], [[Hill Air Force Base]], [[Tooele County, Utah]], [[Salt Lake City, Utah]], [[Kville, Utah]], [[Area 51]], [[Naval Surface Warfare Center Crane]], [[White Sands Missile Range]], [[China Lake Naval Air Weapons Station]], [[Nevada Test and Training Range (NTR)]]
 - **Concepts**: [[Legacy Programs]], [[Major Range and Test Facility Bases (MRTFBs)]], [[Deep Underground Military Bases (DUMBs)]], [[Maglev Underground Transportation]], [[Tunnel Boring Machine (TBM)]], [[Nuclear Subterrene]], [[Alien Reproduction Vehicle (ARV)]], [[TR-3B]], [[Sole Source Arrangement]], [[Federally Funded Research and Development Center (FFRDC)]], [[RDT&E (Research, Development, Test and Evaluation)]], [[Nitinol (Nickel-Titanium Alloy)]]
+- **Documents**: [[Environmental Assessment Report on Avery Technical Center]], [[GAO Report on Army Guard Program]]
 - **Operations**: [[Project Stork]]
-- **Events**: [[1953 Garrison, Utah Crash Retrieval]], [[1953 Kingman, Arizona Crash Retrieval]], [[Roswell Crash]], [[Norton Air Force Base Air Show]], [[Environmental Assessment Report on Avery Technical Center]], [[GAO Report on Army Guard Program]]
+- **Events**: [[1953 Garrison, Utah Crash Retrieval]], [[1953 Kingman, Arizona Crash Retrieval]], [[Roswell Crash]], [[Norton Air Force Base Air Show]]

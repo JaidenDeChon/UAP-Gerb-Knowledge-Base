@@ -375,6 +375,15 @@ claims:
 ---
 ::
 
+::wiki-document
+---
+name: "AARO Historical Report Volume 1"
+page: 29
+region: [0.56, 0.66]
+caption: "What AARO wrote: a former U.S. service member who said that in 2009 he encountered \"U.S. Special Forces\" loading containers onto a large extraterrestrial spacecraft."
+---
+::
+
 ## Coming Forward
 
 Herrera says every Marine present signed an NDA that threatened their lives. He came forward because he thinks people should not be "dying and being threatened" over this, and because others may have had similar experiences. Newly passed whistleblower protections, which in his view made the NDA illegal, gave him a safety net. He has had no legal consequences, only harassment, which he has documented and takes as a sign he is "pissing the right people off". He says he makes no money from this, keeps it apart from his business, and dislikes being public.
@@ -502,6 +511,7 @@ entries:
 - **People**: [[Michael Herrera]], [[Joey Is Not My Name]], [[Sean Kirkpatrick]], [[Steven Greer]], [[The Insider]], [[Richard B. Landolt]], [[David Grusch]], [[Barack Obama]], [[Paul Bennewitz]], [[Richard Doty]], [[Steven Greenstreet]], [[Michael Schratt]]
 - **Organizations**: [[United States Marine Corps]], [[AARO]], [[Senate Select Committee on Intelligence]], [[CIA]], [[Daily Mail]], [[The Black Vault]], [[National Press Club]], [[Boeing]], [[Lockheed Martin]], [[Northrop Grumman]]
 - **Locations**: [[Indonesia]], [[Sumatra, Indonesia]], [[USS Denver]], [[Boulder, Colorado]]
-- **Concepts**: [[Non-Official Cover (NOC)]], [[Pink Assets]], [[Alien Reproduction Vehicle (ARV)]], [[AARO Historical Report Volume 1]]
+- **Concepts**: [[Non-Official Cover (NOC)]], [[Pink Assets]], [[Alien Reproduction Vehicle (ARV)]]
+- **Documents**: [[AARO Historical Report Volume 1]]
 - **Events**: [[2009 Indonesia UFO Encounter (Herrera)]], [[2009 Sumatra Earthquake]]
 - **Videos**: [[Videos/Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)/summary|Michael Herrera: UFO Whistleblower (ft. Joeyisnotmyname)]], [[Videos/The Marines Who Got too Close to UFOs/summary|The Marines Who Got too Close to UFOs]]

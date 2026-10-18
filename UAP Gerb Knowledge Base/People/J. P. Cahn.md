@@ -18,8 +18,19 @@ Gerb's 2025 video on Aztec, drawing on [[Scott and Suzanne Ramsey]]'s research a
 - In 1949, after reading Scully's *Variety* columns, Cahn tried to buy the saucer story for the *Chronicle* with what the video calls a lowball offer. Scully refused, but Cahn reportedly told his editors the deal had gone through.
 - Introduced to Newton at Scully's home, he pursued Newton to San Francisco and offered $25,000 and 50% of royalties if Newton would assemble the full roster of Dr. G.
 - According to a 15 June 1952 letter from Scully to Newton's attorney, Cahn admitted stealing Newton's crash material and replacing it with a slug. By late 1951 he was predicting Newton's arrest and threatening to implicate Scully unless the exposé appeared under Scully's name.
-- On 25 April 1951 he wrote to FBI director [[J. Edgar Hoover]] that Newton had leaked the Aztec story and was preparing "a hoax or swindle of large proportions." Hoover replied within about a week.
+- On 25 April 1951, the video says, he wrote to FBI director [[J. Edgar Hoover]] that Newton had leaked the Aztec story and was preparing "a hoax or swindle of large proportions", and Hoover replied within about a week. The letter in the [[FBI File on Silas Newton|FBI's file on Newton]] that uses those words came from the California Attorney General's office, signed by chief assistant attorney general Arthur H. Sherry, and does not name Cahn. Hoover's reply of 3 May went to the Attorney General.
 - He introduced Flader to the idea that he had been conned, and, according to court records cited by Steinman, assisted the prosecution throughout the 1953 trial.
+
+> [!edit] Corrected 16 October 2026
+> This list used to state as fact that Cahn wrote to Hoover on 25 April 1951. The FBI file shows that letter came from the California Attorney General's office; the claim that Cahn wrote it is Gerb's.
+
+::wiki-document
+---
+name: "FBI File on Silas Newton"
+page: 3
+caption: "The letter of 25 April 1951 to J. Edgar Hoover on the letterhead of California's Office of the Attorney General, ending its first page on the suspicion that Newton is engaged in \"a hoax or swindle of large\" proportions."
+---
+::
 
 The video argues that the pieces Newton carried were replicas, so their testing as aluminium says nothing about the original material. It also says Cahn's identification of GeBauer as the sole Dr. G had no basis, since GeBauer denied it in writing and under oath and Scully described Dr. G as a group of up to eight scientists. [[Leonard Stringfield]] later wrote that he had been taken in by Cahn's work.
 

@@ -8,11 +8,21 @@ tags:
 
 ## The Document
 
-The Denb Report is dated March 23, 1992, and is addressed "to all Denb team members" from "JS." Its designation, "File UFO 3263," suggests it is one of many UAP cases studied by the [[DENB Team]]. The report gives a minute-by-minute operational account of the alleged 1974 crash retrieval. It covers radar tracking data, communications intercepts, the assembly of a CIA recovery team, helicopter flight paths, a description of the disc, and the destruction of the site with high explosives.
+The Denb Report is dated March 23, 1992, and is addressed "To: All Deneb Team Members" from "JS." Its "File: UFO3263" heading is the file number of the UFO BBS archive that preserved the text; Gerb reads it as a sign that the report is one of many UAP cases studied by the [[DENB Team]]. The report gives a minute-by-minute operational account of the alleged 1974 crash retrieval. It covers radar tracking data, communications intercepts, the assembly of a CIA recovery team, helicopter flight paths, a description of the disc, and the destruction of the site with high explosives.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions gave the addressee as "all Denb team members" and said the "File UFO 3263" label suggests the team studied many cases. The text is addressed "To: All Deneb Team Members", and the number is the file number of the UFO BBS archive that preserved it (textfiles.com, ufo/UFOBBS/3000/3263.ufo); the many-cases reading is Gerb's.
 
 The report closes with this statement:
 
 > "The facts that are known have been gathered from two eyewitness accounts, documentation illegally copied, and a partially destroyed document. This was done in 1978 by a person who is now dead. Only in February of this year [1992] did the notes and documents come into the hands of our group."
+
+::wiki-document
+---
+name: "Denb Report"
+caption: "The memo JS signed on 23 March 1992, which sets out a minute-by-minute account of an alleged 1974 disc recovery and says how its facts were gathered."
+---
+::
 
 ## Identity Hypotheses
 

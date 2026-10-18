@@ -1,10 +1,12 @@
 // Relative rather than the `#shared` alias — see the note in ./graph.ts.
-import type { BakedPortraits, BakedPreview, WikiData } from '../shared/types/wiki'
+import type { BakedDocuments, BakedPortraits, BakedPreview, WikiData } from '../shared/types/wiki'
+import { loadDocuments } from './documents'
 import { graphIndex } from './graph'
 import { buildPlaces } from './places'
 import { loadPortraits } from './portraits'
 import { buildPreviews } from './preview'
 import { buildTree } from './tree'
+import { walkVault } from './vault'
 import { buildVideos } from './videos'
 
 /**
@@ -62,9 +64,19 @@ export function bakeWikiData(): WikiData {
     if (portrait) portraits[node.i] = portrait
   })
 
+  // Sparse too: Documents notes, with their file when one is hosted.
+  // Every stem, not just the graph's: transcriptions stay out of the graph.
+  const byDocStem = loadDocuments(walkVault())
+  const documents: BakedDocuments = {}
+  payload.nodes.forEach((node) => {
+    const stem = stemByPath.get(node.p)
+    const document = stem ? byDocStem[stem] : undefined
+    if (document) documents[node.i] = document
+  })
+
   const places = buildPlaces(payload.nodes, geo, node => byPath[node.p]?.locationType)
 
-  return { tree: buildTree(), graph: payload, links: { outgoing, backlinks }, previews, videos: buildVideos(), geo, portraits, places }
+  return { tree: buildTree(), graph: payload, links: { outgoing, backlinks }, previews, videos: buildVideos(), geo, portraits, places, documents }
 }
 
 /**
@@ -86,5 +98,6 @@ export function bakeWikiDataModule(): string {
     'export const geo = data.geo',
     'export const portraits = data.portraits',
     'export const places = data.places',
+    'export const documents = data.documents',
   ].join('\n')
 }

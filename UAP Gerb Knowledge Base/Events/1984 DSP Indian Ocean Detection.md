@@ -27,6 +27,13 @@ Stefula said he had confirmed that the DSP printout for that date "shows an even
 
 Gerb points out how closely the case resembles the fast walker [[Bob Fish]] described in his [[Bob Fish Email to John Podesta|2015 email to John Podesta]]: an object from deep space that passed close to a DSP satellite and changed course, which Fish took as a sign it was under control.
 
+::wiki-document
+---
+name: "Bob Fish Email to John Podesta"
+caption: "Bob Fish's email to John Podesta of March 2015, published by WikiLeaks in 2016, naming the USAF DSP satellite program as a collector of hard data on UFOs."
+---
+::
+
 ## Sources
 
 - [[FASTWALKERS – UFOs Outside Earth]]

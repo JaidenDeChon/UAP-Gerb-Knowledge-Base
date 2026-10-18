@@ -20,7 +20,17 @@ During World War II, Von Neumann worked on the Manhattan Project. He joined [[Lo
 
 ## Involvement in UAP Analysis
 
-In 1983 researcher [[William Steinman]] sent [[Robert Sarbacher]], a physicist who had consulted for the DoD's [[Research and Development Board]] in the early 1950s, twelve questions about crash retrievals. In his reply Sarbacher said he had no association with the people involved in the recoveries and did not know the dates of the crashes. He had been invited to discussions of recoveries at the Research and Development Board but could not attend them, and he saw official reports but no photographs. He nonetheless stated that [[Vannevar Bush]] was "definitely involved", alongside John Von Neumann and [[J. Robert Oppenheimer]]. In Gerb's later reading of the same communications, Sarbacher said he knew Von Neumann was definitely involved in 1940s and 1950s crash retrieval programs and strongly suspected Oppenheimer was too.
+In 1983 researcher [[William Steinman]] sent [[Robert Sarbacher]], a physicist who had consulted for the DoD's [[Research and Development Board]] in the early 1950s, questions about crash retrievals. In his reply of 29 November, the [[Sarbacher Letter]], Sarbacher said he had no association with the people involved in the recoveries and did not know the dates of the crashes. He had been invited to discussions about the recoveries but could not attend them, and he saw official reports but recalled no photographs. Von Neumann comes first in his answer: "John von Neuman was definitely involved. Dr. Vannever Bush was definitely involved, and I think Dr. Robert Oppenheimer also" ([[Vannevar Bush]], [[J. Robert Oppenheimer]]). Gerb's reading in *The Manhattan Project 2.0*, that von Neumann was definitely involved and Oppenheimer strongly suspected, matches the letter.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said Steinman sent twelve questions and that Sarbacher named Bush as definitely involved "alongside" von Neumann and Oppenheimer. The letter answers five numbered questions, names von Neumann and Bush as definitely involved, and says only "I think" of Oppenheimer.
+
+::wiki-document
+---
+name: "Sarbacher Letter"
+caption: "Robert Sarbacher's letter of 29 November 1983 to William Steinman, answering his questions about the recovered flying saucers."
+---
+::
 
 In his 1986 book *UFO Crash at Aztec: A Well-Kept Secret*, Steinman went further and named the scientific team he says Bush led at the 1948 Aztec recovery: [[Detlev Bronk]], Lloyd Berkner, Jerome Hunsaker, [[Carl A. Heiland]], Von Neumann and Oppenheimer. Gerb considers the Aztec case real and praises the book, but faults Steinman for not documenting how he arrived at this roster.
 

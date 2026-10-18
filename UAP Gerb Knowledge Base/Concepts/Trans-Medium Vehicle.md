@@ -24,6 +24,13 @@ Water is approximately 800 times denser than air. A craft that operates efficien
 
 In his 2024 white paper *Beneath the Surface*, [[Rear Admiral Timothy Gallaudet]] argued that confirming trans-medium craft as a real technology would have scientific and strategic implications larger than those of the Scientific Revolution. He has stated this position publicly in interviews with journalist [[Ross Coulthart]].
 
+::wiki-document
+---
+name: "Beneath the Surface (Gallaudet White Paper)"
+caption: "Rear Admiral Gallaudet's 2024 Sol Foundation white paper on trans-medium UAP and unidentified submerged objects."
+---
+::
+
 ## Historical Documentation
 
 Maritime records from before modern aviation document trans-medium behavior:
@@ -38,6 +45,7 @@ Maritime records from before modern aviation document trans-medium behavior:
 - **Concepts**: [[Unidentified Submerged Object (USO)]], [[Maritime Light Wheel]], [[Five UAP Characteristics (AATIP)]]
 - **People**: [[Kevin Knuth]], [[Rear Admiral Timothy Gallaudet]], [[David Fravor]]
 - **Organizations**: [[Sol Foundation]], [[Project Blue Book]]
+- **Documents**: [[Beneath the Surface (Gallaudet White Paper)]]
 
 ## Sources
 

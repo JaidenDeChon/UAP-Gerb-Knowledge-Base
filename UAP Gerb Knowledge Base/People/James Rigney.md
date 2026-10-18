@@ -18,6 +18,13 @@ When Mitchell died unexpectedly in February 2016, his immediate family invited R
 
 Once he was given access to the materials, Rigney copied many documents of interest. One was the 15-page Wilson-Davis memo, which records the alleged October 16, 2002 meeting between Vice Admiral [[Thomas Wilson]] and physicist [[Eric Davis]]. The meeting was about Wilson's 1997 discovery of a crash retrieval program and his being denied access to it.
 
+::wiki-document
+---
+name: "Wilson-Davis Memo"
+caption: "The leaked 15-page notes, dated 16 October 2002, that purport to record Eric Davis's conversation with Vice Admiral Thomas Wilson about a contractor-run crash retrieval program."
+---
+::
+
 Rigney's name became public when he appeared on [[Richard Dolan]]'s podcast to discuss where the memo came from and what it contains. The document has since become one of the most significant pieces of evidence in the modern debate over UAP disclosure, and in 2022 it was entered into the official U.S. Congressional Record.
 
 ## Sources

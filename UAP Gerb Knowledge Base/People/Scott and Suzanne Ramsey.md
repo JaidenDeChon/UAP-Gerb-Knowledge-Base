@@ -17,7 +17,7 @@ Their finds in the archives matter just as much to the case as Gerb tells it:
 
 - In [[Frank Scully]]'s archive they found the recording of [[Silas Newton]]'s 1950 University of Denver lecture, Newton's chalkboard drawings, and his unfinished 1954 autobiography.
 - They found and reproduced the AFOSI interrogation of radio man [[George Koehler]].
-- They pried 289 pages on Newton from the FBI, with more than 100 withheld, and were told that further Army CID records of a 1950 photograph sting had been destroyed.
+- They pried 289 pages on Newton from the FBI, with more than 100 withheld (the [[FBI File on Silas Newton|FBI Vault's own release]] has 77 pages), and were told that further Army CID records of a 1950 photograph sting had been destroyed.
 - They found 1948 [[Bureau of Reclamation]] records of heavy earth-moving equipment, cranes and lowboys in the Aztec area, and hired professionals with no interest in UFOs to reconstruct how the disc could have been moved along the Hart Canyon roads.
 - They report that [[Leo GeBauer]] held senior positions at the AiResearch laboratories around 1946.
 - In July 2011 they studied the papers of physicist [[John Torrence Tate]] at the University of Minnesota. They concluded he was probably one of the "Dr. G" scientists, and found that he had travelled to the Southwest around the time of the crash.

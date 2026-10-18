@@ -11,6 +11,13 @@ Don Berliner is an American UFO researcher and aviation writer who wrote "The Bl
 
 In 1994, while working as a Washington, D.C. aviation reporter, Berliner anonymously received a small green box containing undeveloped 35 mm Tri-X film. He and [[Robert Wood]] developed it in a darkroom and found photographs of the [[Special Operations Manual (SOM 1-01)]], an alleged 1954 [[Majestic 12]] manual titled *Extraterrestrial Entities and Technology, Recovery and Disposal*. The film was later dated to 1954. The delivery method resembled the 1984 film drop of the [[Eisenhower Briefing Document]] to [[Jaime Shandera]], and [[Ryan S. Wood]] has suggested the two may have come from the same source. The manual became one of the most closely studied of the [[MJ-12 Documents]].
 
+::wiki-document
+---
+name: "Special Operations Manual (SOM 1-01)"
+caption: "The disputed MJ-12 manual that reached Berliner as undeveloped 35 mm film in 1994, titled Extraterrestrial Entities and Technology, Recovery and Disposal."
+---
+::
+
 ## Sources
 
 - [[Videos/Alien Reproduction Vehicle - TR-3B and the Flying Triangles/summary|Alien Reproduction Vehicle - TR-3B and the Flying Triangles]]

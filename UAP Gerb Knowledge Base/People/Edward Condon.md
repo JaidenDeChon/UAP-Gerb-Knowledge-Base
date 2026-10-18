@@ -31,6 +31,13 @@ In late 1967, Condon said in a public lecture that he thought the government sho
 
 The [[Condon Report]] was released to the public as a book in 1969. In its conclusions and recommendations Condon wrote: "Our general conclusion is that nothing has come from the study of UFOs in the past 21 years that has added to scientific knowledge." The report recommended that the Air Force end its UFO investigations. McDonald called the report inadequate, and he and Hynek said the committee had ignored key evidence and could not explain 25 to 30 percent of the cases it examined. A clip Gerb plays adds that Condon wrote the summary himself and "completely neglected the contents of the report."
 
+::wiki-document
+---
+name: "Condon Report"
+caption: "The University of Colorado's \"Scientific Study of Unidentified Flying Objects\", whose conclusions and recommendations Condon wrote."
+---
+::
+
 The report received almost universal praise from the news media. *Science*, the journal of the [[American Association for the Advancement of Science]], called it the most thorough investigation of UFOs ever conducted, the [[National Academy of Sciences]] endorsed its methods and its conclusion that formal UFO investigation should end, and the [[American Institute of Aeronautics and Astronautics]] agreed in 1970 that little of value had come from scientific UFO studies. Project Blue Book was terminated in December 1969, and serious UFO research was effectively closed off in academia and government for decades.
 
 ## Sources

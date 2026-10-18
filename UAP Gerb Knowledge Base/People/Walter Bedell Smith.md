@@ -12,6 +12,13 @@ Walter Bedell Smith (1895–1961) was a US Army general who served as [[Dwight D
 
 The video points out that [[Harry Truman]]'s appointment records show an off-the-record meeting with Smith on 1 August 1950, the date the briefing document gives for his appointment. Supporters of the documents cite this match, along with the Truman–Bush–Forrestal meeting of 24 September 1947, as evidence that the author had accurate inside knowledge.
 
+::wiki-document
+---
+name: "Eisenhower Briefing Document"
+caption: "The disputed MJ-12 briefing paper for President-elect Eisenhower, dated 18 November 1952, which names General Walter B. Smith as Forrestal's replacement on 1 August 1950."
+---
+::
+
 ## Sources
 
 - [[Videos/The Majestic-12 Documents With Ryan S. Wood/summary|The Majestic-12 Documents With Ryan S. Wood]]

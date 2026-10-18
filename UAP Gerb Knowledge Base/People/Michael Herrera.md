@@ -271,6 +271,15 @@ In late April 2023, Herrera testified to [[AARO]] (All-domain Anomaly Resolution
 
 Herrera alleges that AARO's Historical Report Volume 1 deliberately misrepresented his testimony. According to him, it falsely attributes two statements to him: that he saw an "extraterrestrial vehicle" and that the operators were "US Special Forces". He adamantly denies saying either, maintains that the omission and distortion were deliberate, and notes that another person who was in the SKIF can corroborate that he never made those statements.
 
+::wiki-document
+---
+name: "AARO Historical Report Volume 1"
+page: 29
+region: [0.56, 0.66]
+caption: "The passage in AARO's report: a former U.S. service member who said that on a 2009 humanitarian and security mission he encountered \"U.S. Special Forces\" loading containers onto a large extraterrestrial spacecraft."
+---
+::
+
 ::wiki-claim{video="4EMO38JUfVE" video-title="Michael Herrera - Insights into UAP Encounter and Black Program Insiders"}
 ---
 caption: "AARO's summary of Herrera's testimony and his answer, from his June 2024 interview with Gerb and Joey Is Not My Name."

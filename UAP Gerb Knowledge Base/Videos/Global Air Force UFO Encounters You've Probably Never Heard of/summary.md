@@ -138,7 +138,10 @@ Gerb calls it "crucial to note" that the controller at Hector, [[L.D. Jensen]], 
 
 ### The Project Sign investigation
 
-In 1948 UFO investigations belonged to [[Project Sign]], which, Gerb explains, was created after Lieutenant General [[Nathan Twining]] wrote to the Air Force's commanding general that flying discs were "real and not visionary or fictitious". Sign's reports went to the [[Army and Navy Research and Development Board]], the USAF Scientific Advisory Board and, "you guessed it", the [[Atomic Energy Commission]]. Sign interviewed Gorman and other witnesses and tested his Mustang for radiation, and its explanation of the case changed as the investigation went on:
+In 1948 UFO investigations belonged to [[Project Sign]], which, Gerb explains, was created after Lieutenant General [[Nathan Twining]] [[Twining Memo|wrote to the Air Force's commanding general]] that flying discs were "real and not visionary or fictitious". He says all Sign reports had to go to the [[Army and Navy Research and Development Board]], the USAF Scientific Advisory Board and, "you guessed it", the [[Atomic Energy Commission]]; the letter itself only recommended sharing the study's data with those bodies and five others (NACA, RAND and NEPA among them). Sign interviewed Gorman and other witnesses and tested his Mustang for radiation, and its explanation of the case changed as the investigation went on:
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said Sign's reports went to these three bodies, as Gerb says in the video. The list is the recommendation in Twining's letter of 23 September 1947 (paragraph 3a), which proposed sharing the study's data with the Army, the Navy, the AEC, the JRDB, the Air Force Scientific Advisory Group, NACA, and the RAND and NEPA projects; it was not a rule for Sign's reports.
 
 ::wiki-claim{video="6cVe-hdMTCE" video-title="Global Air Force UFO Encounters You've Probably Never Heard of"}
 ---
@@ -278,5 +281,6 @@ entries:
 - **People**: Gerb, [[George F. Gorman]], [[L.D. Jensen]], [[Edward J. Ruppelt]], [[Nathan Twining]], [[Tarmo Tukeva]], [[Jouko Kuronen]], [[Oscar Santa Maria Huertas]], [[Magdaleno Castanon]], [[Michael Shermer]], [[David Fravor]]
 - **Organizations**: [[Finnish Air Force]], [[Finnish Defense Force]], [[Peruvian Air Force]], [[Mexican Air Force]], [[DOD Joint Chiefs]], [[Army and Navy Research and Development Board]], [[Atomic Energy Commission]], [[Skeptic Magazine]]
 - **Locations**: [[Fargo, North Dakota, USA]], [[Hector Airport]], [[Pori Airport]], [[Vaasa, Finland]], [[La Joya Airbase, Arequipa, Peru]], [[Campeche, Mexico]], [[San Diego, California, USA]]
+- **Documents**: [[Twining Memo]]
 - **Operations**: [[Project Sign]], [[Project Grudge]], [[Project Blue Book]], [[Project Moon Dust]]
 - **Events**: [[Gorman Dogfight]], [[Pori Airport UFO Incident]], [[La Joya Airbase UFO Intercept]], [[Mexico UFO Incident]], [[1968 Nepal Circular Disc Crash]], [[2004 Nimitz UAP Encounter (Tic Tac)]]

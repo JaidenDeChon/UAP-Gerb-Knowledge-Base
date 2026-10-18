@@ -252,6 +252,13 @@ events:
 
 Nobody knows how Mitchell came to hold the notes. Gerb traces what is known of their route from there. Around 2013, James Rigney befriended a confidential source at a US space conference, someone close to several Apollo astronauts. When Mitchell died unexpectedly in February 2016, his family invited that source to help disperse the estate, much of which was marked for destruction. The source told Rigney about papers referring to UFOs, and Rigney asked for access and copied several documents, the Wilson-Davis notes among them. His name became public when he explained the notes' origin on Richard Dolan's podcast.
 
+::wiki-document
+---
+name: "Wilson-Davis Memo"
+caption: "The leaked 15-page notes, dated 16 October 2002, that purport to record Eric Davis's conversation with Vice Admiral Thomas Wilson about a contractor-run crash retrieval program."
+---
+::
+
 ::wiki-chain{video="yIqkazIZh9I" video-title="The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs"}
 ---
 kind: transmission
@@ -562,6 +569,7 @@ entries:
 - **People**: [[Thomas Wilson]], [[Eric Davis]], [[Edgar Mitchell]], [[Will Miller]], [[Steven Greer]], [[James Rigney]], [[Oak Shannon]], [[Patrick M. Hughes]], [[Marshal Ward]], [[Bill Perry]], [[John Deutch]], [[Paul Kaminski]], [[Jacques Gansler]], [[Chris Mellon]], [[Luis Elizondo]], [[Ross Coulthart]], [[Richard Dolan]], [[Steven Greenstreet]], [[George Knapp]], [[John Greenewald]], [[Hal Puthoff]], [[David Grusch]], [[Harry Reid]], [[Gordon Cooper]], [[Robert Jacobs]], [[Jonathan Weygandt]]
 - **Organizations**: [[Defense Intelligence Agency]], [[SAPOC (Special Access Program Oversight Committee)]], [[National Security Council]], [[EG&G]], [[Lockheed Martin]], [[EarthTech]], [[NASA]], [[US Congress]], [[Majestic 12]]
 - **Locations**: [[Pentagon]], [[Los Alamos National Laboratory]]
-- **Concepts**: [[Wilson-Davis Memo]], [[Watch Committee]], [[Bigot List]], [[Special Access Programs (SAPs)]], [[Waived Unacknowledged Special Access Programs (USAPs)]], [[Alien Reproduction Vehicle (ARV)]]
+- **Concepts**: [[Watch Committee]], [[Bigot List]], [[Special Access Programs (SAPs)]], [[Waived Unacknowledged Special Access Programs (USAPs)]], [[Alien Reproduction Vehicle (ARV)]]
+- **Documents**: [[Wilson-Davis Memo]]
 - **Operations**: [[AATIP (Advanced Aerospace Threat Identification Program)]], [[Project Moon Dust]], [[Operation Bluefly]], [[Operation Zodiac]]
 - **Events**: [[1997 Meeting (Wilson, Miller, Mitchell, Greer, Hughes)]], [[Roswell Crash]]

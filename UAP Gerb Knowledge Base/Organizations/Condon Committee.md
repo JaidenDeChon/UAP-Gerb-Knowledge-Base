@@ -16,6 +16,13 @@ The US Air Force asked for the committee after mounting public criticism of [[Pr
 
 The Condon Report analyzed over 90 UFO cases. Its summary concluded that UFOs were not a scientific problem worth further investigation, but the case-by-case analyses in the full report acknowledged that some cases remained unexplained. Astronomer [[William H. Hartman]], for example, analyzed the [[McMinnville UFO Photographs]] and concluded that they were consistent with a genuine anomalous flying craft. The report's final conclusion still recommended ending further official study.
 
+::wiki-document
+---
+name: "Condon Report"
+caption: "The University of Colorado's \"Scientific Study of Unidentified Flying Objects\", the committee's final report for the Air Force."
+---
+::
+
 ## Criticism and Controversy
 
 The Condon Committee has been widely criticized for bias and predetermined conclusions. Internal memos leaked to Look magazine in 1968 showed project coordinator Robert Low stating before the study began that the project's goal was to reassure the public that UFOs posed no threat, regardless of the evidence. Critics argue that the summary conclusions contradicted the detailed case studies, several of which acknowledged genuinely unexplained phenomena.

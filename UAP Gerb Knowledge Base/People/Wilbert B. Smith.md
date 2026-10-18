@@ -9,7 +9,17 @@ tags:
   - person
 ---
 
-Wilbert Brockhouse Smith was a senior Canadian government radio engineer who worked in the Department of Transport's Broadcast and Measurements Section. In 1950 he wrote two foundational documents in UAP history. One was a set of handwritten notes on a meeting with US physicist and DoD consultant [[Robert Sarbacher]], in which Sarbacher told him that flying saucers were the most highly classified subject in the US government, rated above the hydrogen bomb. The other was a classified memo to the Controller of Telecommunications that relayed those claims and asked permission for Canada to begin an official UFO investigation. Smith then founded and directed [[Project Magnet]], Canada's first official investigation into UAP propulsion, and was a central figure in the Canadian government's early official work on UFOs. Gerb uses his memo as the "estimate of the situation" for 1950: a fixed point from a credible witness of the time against which other claims about the early crash retrieval program can be checked.
+Wilbert Brockhouse Smith was a senior Canadian government radio engineer who worked in the Department of Transport's Broadcast and Measurements Section. In 1950 he wrote two foundational documents in UAP history. One was a set of handwritten notes on a meeting with US physicist and DoD consultant [[Robert Sarbacher]], in which Sarbacher told him that flying saucers were the most highly classified subject in the US government, rated above the hydrogen bomb. The other was a [[Wilbert Smith Memo|top-secret memo]], "Geo-Magnetics", sent to the Controller of Telecommunications on 21 November 1950. It relayed those claims, crediting them to enquiries through the Canadian Embassy staff in Washington, and asked for a small Department of Transport project on drawing energy from the Earth's magnetic field, work Smith tied to the flying saucers. Smith then founded and directed [[Project Magnet]], the project that memo proposed, which became Canada's first official investigation into UFOs and their possible magnetic propulsion, and was a central figure in the Canadian government's early official work on UFOs. Gerb uses his memo as the "estimate of the situation" for 1950: a fixed point from a credible witness of the time against which other claims about the early crash retrieval program can be checked.
+
+> [!edit] Clarified 16 October 2026
+> Earlier versions said the memo asked permission for Canada to begin an official UFO investigation. The memo itself recommends a part-time project within Smith's section to study geo-magnetic energy, which it connects to the saucers, and it attributes the four claims to enquiries through the Canadian Embassy rather than naming a source.
+
+::wiki-document
+---
+name: "Wilbert Smith Memo"
+caption: "Wilbert Smith's top secret Department of Transport memo of 21 November 1950, subject \"Geo-Magnetics\", to the Controller of Telecommunications."
+---
+::
 
 ## Career
 
@@ -78,8 +88,8 @@ events:
       - "Frank Scully"
       - "Vannevar Bush"
   - date: "1950-11-21"
-    title: "Memo to the Controller of Telecommunications"
-    summary: "Relays Sarbacher's four claims and asks for an official Canadian study of magnetism as a form of propulsion. It is classified top secret."
+    title: "Geo-Magnetics memo"
+    summary: "Smith's top secret memo to the Controller of Telecommunications. It asks for a project on drawing energy from the Earth's magnetic field and relays four claims from enquiries through the Canadian Embassy in Washington, whose source Gerb identifies as Sarbacher."
     category: document
     significance: major
     entities:
@@ -132,7 +142,7 @@ events:
 
 ::wiki-record
 ---
-caption: "Smith's two 1950 papers. Historian Arthur Bray found both in Smith's estate."
+caption: "Smith's two 1950 papers. Gerb says historian Arthur Bray found both in Smith's estate."
 items:
   - date: "1950-09-15"
     kind: memo
@@ -144,9 +154,9 @@ items:
     source: "The 1948 Aztec, New Mexico UFO Crash Retrieval"
   - date: "1950-11-21"
     kind: memo
-    title: "Memo to the Controller of Telecommunications"
+    title: "Geo-Magnetics memo"
     where: "Department of Transport (Canada)"
-    note: "Asks for Canada's first official UFO investigation, into magnetism as propulsion, and relays four claims from a Washington source. It led to Projects Magnet and Second Story."
+    note: "Addressed to the Controller of Telecommunications. It asks for a project on drawing energy from the Earth's magnetic field and relays four claims from enquiries through the Canadian Embassy in Washington; Gerb describes it as a request to study magnetism as propulsion. It led to Projects Magnet and Second Story."
     quote: "Their modus operandi is unknown but concentrated effort is being made by a small group headed by Dr. Vannevar Bush"
     source: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group"
 ---
@@ -189,7 +199,10 @@ On 15 September 1950 Smith met [[Robert Sarbacher]], a physicist who consulted f
 
 Smith's memo of 21 November 1950 to the Controller of Telecommunications cited these disclosures as grounds for Canada to set up its own UFO investigation. His notes also record that he had read [[Frank Scully]]'s 1950 book *Behind the Flying Saucers* and wanted to know how much of it was fact. Sarbacher replied, "The facts reported in the book are substantially correct." The book had publicized the alleged [[Aztec UFO Crash and Recovery|Aztec, New Mexico crash]], so the reply lent indirect credibility to that controversial case. In 2024 Gerb reserved judgment on Aztec; by his 2025 Aztec video he wagered that the case "likely happened". That video also shows that [[Silas Newton]], Scully's source, admired Smith's work on magnetic propulsion.
 
-Historian [[Arthur Bray]] later uncovered both the 1950 Department of Transport memo and Smith's handwritten meeting notes in Smith's estate. The two documents gave written verification of what Smith claimed to have been told. The memo was classified top secret until 15 September 1969. Gerb notes that its declassification was likely an accidental downgrade rather than a deliberate release. Bray and [[Stanton Friedman]] obtained copies of the document in 1978.
+According to Gerb, historian [[Arthur Bray]] later uncovered both the 1950 Department of Transport memo and Smith's handwritten meeting notes in Smith's estate. The two documents gave written verification of what Smith claimed to have been told. The memo was classified top secret until 15 September 1969, when a handwritten note downgraded it to confidential. Gerb notes that its declassification was likely an accidental downgrade rather than a deliberate release. Bray and [[Stanton Friedman]] obtained copies of the document in 1978; Friedman's copy is annotated as given to him by "Mr. X" in Toronto on 22 October 1978. Smith's papers are now in the Arthur Bray fonds at the University of Ottawa.
+
+> [!edit] Attribution clarified 16 October 2026
+> Earlier versions stated as fact that Bray found the memo in Smith's estate. That is Gerb's account; the copy Friedman received in 1978 is annotated as coming from "Mr. X".
 
 ## Project Magnet and Project Second Story
 
@@ -202,7 +215,17 @@ Both projects grew out of Smith's unique position as a go-between, carrying what
 
 ## Later Recognition
 
-In 1983, [[Stanton Friedman]] learned of the memo and tracked down [[Robert Sarbacher]], who confirmed the substance of his earlier disclosures in a recorded conversation. Sarbacher's 1983 letter to [[William Steinman]] independently corroborated the main points Smith had documented more than thirty years earlier. Smith's 1950 meeting notes and Sarbacher's 1983 statements were made independently and decades apart, and their agreement is considered strong evidence that Smith's original account was accurate. Gerb cites the memo in his timeline of crash retrieval programs, in his [[Majestic 12]] history, and against the claims of a former special forces witness, as proof that a highly classified US study of UAP existed by 1950.
+In 1983, [[Stanton Friedman]] learned of the memo and tracked down [[Robert Sarbacher]], who confirmed the substance of his earlier disclosures in a recorded conversation. In his [[Sarbacher Letter|letter of 29 November 1983]] to [[William Steinman]], Sarbacher recalled "the interview with Dr. Brenner of the Canadian Embassy" and wrote that he thought the answers he had given were "the ones you listed", that is, the answers as Steinman had put them to him. Smith's 1950 meeting notes and Sarbacher's 1983 statements are decades apart, and researchers take their agreement as strong evidence that Smith's original account was accurate.
+
+> [!edit] Clarified 16 October 2026
+> Earlier versions said the letter independently corroborated Smith's main points. In the letter Sarbacher confirms the answers as Steinman listed them to him, and remembers his interviewer as "Dr. Brenner of the Canadian Embassy", not Smith. Gerb cites the memo in his timeline of crash retrieval programs, in his [[Majestic 12]] history, and against the claims of a former special forces witness, as proof that a highly classified US study of UAP existed by 1950.
+
+::wiki-document
+---
+name: "Sarbacher Letter"
+caption: "Robert Sarbacher's letter of 29 November 1983 to William Steinman, answering his questions about the recovered flying saucers."
+---
+::
 
 ## Significance
 

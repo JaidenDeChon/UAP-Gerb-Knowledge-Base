@@ -609,7 +609,26 @@ Kirkpatrick's career keeps returning to SAIC and to the research centers Gerb li
 
 Gerb assumes viewers know the Wilson-Davis notes, the subject of his first video: notes transcribed by [[Eric Davis]] and leaked from the estate of astronaut Edgar Mitchell, recording a 2002 conversation with Vice Admiral Thomas Wilson, former DIA director, in the parking lot of contractor [[EG&G]] in Nevada. Wilson described finding, but being stonewalled from, UFO recovery and material exploitation programs protected by the DoD's Special Access Program Oversight Committee (SAPOC), its Senior Review Group (SRG) and a large defense contractor. General Michael Ward had told Wilson to look in a special records group in the Office of the Under Secretary of Defense for Acquisition and Technology, holding legacy holdover programs from before the early-1990s SAP restructuring. According to the notes, the UFO programs were reorganized under SAPOC and the SRG after an internal audit almost revealed them.
 
-That reorganization began on 5 January 1994, when the Deputy Secretary of Defense strengthened SAP management and control and established the SRG. Gerb also cites a May 1993 General Accounting Office report finding that the Navy and Air Force did not give due process when SAP access was denied or revoked, while the Army sometimes complied. That fits his view that Army material exploitation programs ran under strict oversight while Navy and Air Force legacy programs ran "far more loosely and out of control". He then maps the committee:
+::wiki-document
+---
+name: "Wilson-Davis Memo"
+caption: "The leaked 15-page notes, dated 16 October 2002, that purport to record Eric Davis's conversation with Vice Admiral Thomas Wilson about a contractor-run crash retrieval program."
+---
+::
+
+That reorganization began on 5 January 1994, when the Deputy Secretary of Defense strengthened SAP management and control and established the SRG. Gerb also cites [[GAO Report on Special Access Program Due Process (1993)|a May 1993 General Accounting Office report]] finding that the Navy and Air Force did not give due process when SAP access was denied or revoked. The Army did give it, in the few cases GAO could examine. That fits his view that Army material exploitation programs ran under strict oversight while Navy and Air Force legacy programs ran "far more loosely and out of control". He then maps the committee:
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said the Army "sometimes complied". The report (GAO/NSIAD-93-162, page 3) says the Army provided due process in the few cases GAO examined, three of six, the other three people having been discharged first, and that the sample was too small to judge overall compliance.
+
+::wiki-document
+---
+name: "GAO Report on Special Access Program Due Process (1993)"
+page: 5
+region: [0.61, 0.85]
+caption: "The report's Results in Brief: the Navy and Air Force did not give the due process DoD Regulation 5200.2-R requires when SAP access is denied or revoked, while the Army did in the few cases GAO examined."
+---
+::
 
 ::wiki-org-chart
 ---
@@ -733,7 +752,7 @@ SAIC's role in SDI was large. From SDI's start in 1983 the Pentagon relied on SA
 
 - Edgar Fouché said in 1998 that the Defense Advanced Research Center (DARC), allegedly underground near Groom Lake, was flush with SDI money in the mid-1980s. He said up to 35% of SDI funding was siphoned to UFO black programs, and that SDI money built the TR-3B, administered by the NRO, NSA and CIA. Gerb adds that a DARC was a real proposal: a declassified 1973 ARPA history shows the Army Ballistic Missile Agency, under [[Wernher von Braun]], was considered for transfer into a Defense Advanced Research Center.
 - Project Brilliant Buzzard, according to stealth aircraft researcher Joseph Jones in 2013, was an SDI-born, Boeing-contracted surveillance program. Its boomerang-shaped craft, with an almost indefinite loiter time, would explain some 25,000 sightings of the [[Hudson Valley UFO Flap|Hudson Valley boomerang]] between 1983 and 1989.
-- The 1989 Moriches Bay case, from [[Leonard Stringfield]]'s 1991 *UFO Crash Retrievals: The Inner Sanctum* (Status Report 6) and the Long Island UFO Network, alleges that a UFO was deliberately shot down off the south shore of Suffolk County, Long Island, on the early morning of 29 September 1989. Gerb flags a separate 1992 Long Island case for later.
+- The 1989 Moriches Bay case, from [[Leonard Stringfield]]'s 1991 *UFO Crash Retrievals: The Inner Sanctum* ([[Stringfield Status Reports|Status Report 6]]) and the Long Island UFO Network, alleges that a UFO was deliberately shot down off the south shore of Suffolk County, Long Island, on the early morning of 29 September 1989. Gerb flags a separate 1992 Long Island case for later.
 
 ::wiki-grid{cols=3}
 ::wiki-panel{title="An Air Force intelligence colonel"}
@@ -915,6 +934,7 @@ He considers the SAIC whistleblowers his most tangible evidence, and names gatek
 - **People**: [[J. Robert Beyster]], [[Bobby Ray Inman]], [[John Deutch]], [[William F. Raborn]], [[William A. Owens]], [[Bill Perry]], [[Paul Kaminski]], [[Linton Wells II]], [[Donald M. Kerr]], [[Sean Kirkpatrick]], [[Ronald S. Moultrie]], [[Michael Herrera]], [[Thomas Wilson]], [[Eric Davis]], [[Will Miller]], [[Steven Greer]], [[Hal Puthoff]], [[Oak Shannon]], [[John B. Alexander]], [[Albert Stubblebine]], [[Steve Wilson]], [[Kevin Randle]], [[Ellen Lord]], [[Catherine Austin Fitts]], [[Richard Dolan]], [[Denise McKenzie]], [[Dick Cheney]], [[Edgar Fouche]], [[Leonard Stringfield]], [[Bob Lazar]], [[George Knapp]], [[Alfred O'Donnell]], [[Jonathan Weygandt]], [[Philip J. Corso]], [[Arthur Trudeau]], [[John P. Craven]], [[Bob Oechsler]], [[Jake Barber]], [[David Grusch]], [[Randy Anderson]], [[Matt Brown]], [[Christopher Sharp]], [[Jesse Michels]], [[Wernher von Braun]]
 - **Organizations**: [[SAIC]], [[Leidos]], [[Decision Science Applications, Inc. (DSAI)]], [[L3 Communications]], [[NSA]], [[AARO]], [[Sand Corp]], [[SAPOC (Special Access Program Oversight Committee)]], [[MITRE Corporation]], [[Battelle Memorial Institute]], [[Oak Ridge National Laboratory]], [[BDM International]], [[EG&G]], [[NEST (Nuclear Emergency Support Team)]], [[Northrop Grumman]], [[Lockheed Martin]], [[Aerospace Corporation]], [[NRO (National Reconnaissance Office)]], [[CIA Directorate of Science and Technology]], [[CIA Office of Global Access]], [[Army INSCOM]], [[JSOC (Joint Special Operations Command)]], [[Los Alamos National Laboratory]], [[Sandia National Laboratories]], [[Air Force Research Laboratory]], [[Naval Surface Warfare Center Crane]], [[Naval Undersea Warfare Center Keyport]], [[Woods Hole Oceanographic Institution]], [[National Underwater Reconnaissance Office]], [[412th Test Wing]], [[U.S. Army Foreign Technology Division]], [[Bell Labs]]
 - **Locations**: [[Naval Air Station Patuxent River]], [[China Lake Naval Air Weapons Station]], [[Edwards Air Force Base]], [[Nevada Test and Training Range (NTR)]], [[Area 51]], [[Kirtland Air Force Base, New Mexico]], [[Nellis Air Force Base]], [[Crystal City, Virginia]]
-- **Concepts**: [[UFO Legacy Program Framework]], [[Independent Research and Development (IRAD)]], [[Strategic Defense Initiative (SDI)]], [[Wilson-Davis Memo]], [[AARO Historical Report Volume 1]], [[Off-World Technologies Division]], [[Project Stargate]], [[Psionics]], [[TR-3B]], [[Alien Reproduction Vehicle (ARV)]], [[Biefeld-Brown Effect]], [[Immaculate Constellation (IMCON)]], [[Majestic 12]]
+- **Concepts**: [[UFO Legacy Program Framework]], [[Independent Research and Development (IRAD)]], [[Strategic Defense Initiative (SDI)]], [[Off-World Technologies Division]], [[Project Stargate]], [[Psionics]], [[TR-3B]], [[Alien Reproduction Vehicle (ARV)]], [[Biefeld-Brown Effect]], [[Immaculate Constellation (IMCON)]], [[Majestic 12]]
+- **Documents**: [[Wilson-Davis Memo]], [[AARO Historical Report Volume 1]], [[GAO Report on Special Access Program Due Process (1993)]], [[Stringfield Status Reports]]
 - **Operations**: [[Project Sanddollar]], [[AATIP (Advanced Aerospace Threat Identification Program)]], [[Kona Blue]]
 - **Events**: [[Hudson Valley UFO Flap]]

@@ -32,7 +32,7 @@ items:
     title: "Signed affidavit"
     with:
       - "Todd Zechel"
-    note: "Obtained by Zechel after the newspaper clippings turned up in NICAP's files. Again an F-94 in 1948; Willingham later blamed his head injury for the errors."
+    note: "Obtained by Zechel after the newspaper clippings turned up in NICAP's files. Again an F-94, here at Dyess Air Force Base, but with no date; Willingham later blamed his head injury for the errors."
     source: "The 1950s Del Rio, Texas UFO Crashes"
   - date: "2008"
     kind: book
@@ -63,7 +63,7 @@ entries:
     note: "Flew with him to the wreck in a 1947 Aeronca Champion but was kept back by the Mexican soldiers. Named only after his death in 2002."
   - name: "Todd Zechel"
     role: "Researcher"
-    note: "Tracked Willingham down through NICAP's files and obtained his 1977 affidavit."
+    note: "Tracked Willingham down through NICAP's files and obtained his 1977 affidavit, which has no date."
   - name: "Noe Torres"
     role: "Co-author of The Other Roswell"
     note: "Interviewed him for the 2008 book, says he holds over 50 documents backing his service, and repeated the bodies claim in 2023."
@@ -104,7 +104,17 @@ The biggest problem for Willingham's credibility is that his written testimony d
 
 ## Public Disclosure History
 
-Willingham first went public in 1965, in a weekly newspaper in Mechanicsburg, Pennsylvania, that asked Civil Air Patrol pilots about their UFO encounters (Gerb later calls it the 1967 article). Twelve years later, after researchers found clippings of the article in the files of the [[National Investigations Committee on Aerial Phenomena]] (NICAP), [[Todd Zechel]] tracked Willingham down and obtained a signed affidavit from him in 1977. Gerb documents at length the inconsistencies between this 1967 article, the 1977 affidavit and the 2008 book *The Other Roswell*.
+Willingham first went public in 1965, in a weekly newspaper in Mechanicsburg, Pennsylvania, that asked Civil Air Patrol pilots about their UFO encounters (Gerb later calls it the 1967 article). Twelve years later, after researchers found clippings of the article in the files of the [[National Investigations Committee on Aerial Phenomena]] (NICAP), [[Todd Zechel]] tracked Willingham down and obtained a signed [[Willingham Affidavit|affidavit]] from him in 1977. As [[Kevin Randle]] transcribes it, the affidavit starts at Dyess Air Force Base, testing the F-94, and gives no date. Randle traces the first published telling to MUFON's *Skylook* in March 1968, the source of the 1948 date. Gerb documents at length the inconsistencies between this 1967 article, the 1977 affidavit and the 2008 book *The Other Roswell*.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said the affidavit, like the article, put the event in 1948. In Kevin Randle's transcription it names Dyess Air Force Base and the F-94 but gives no date. Randle also dates the first published telling to 1968, where Gerb gives 1965 and 1967.
+
+::wiki-document
+---
+name: "Willingham Affidavit"
+caption: "Robert Willingham's 1977 affidavit for Todd Zechel, known from Kevin Randle's transcription, describing a crash on the Texas–Mexico border."
+---
+::
 
 ## Independent Corroboration
 

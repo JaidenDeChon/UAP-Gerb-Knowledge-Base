@@ -115,11 +115,25 @@ When [[Don Berliner]] received the [[Special Operations Manual (SOM 1-01)|Specia
 
 Other details the Woods point to as authentic include the abbreviation "N.Mex" for New Mexico (correct for 1954; "NM" came later), "craft tape" instead of "duct tape" for packaging materials, "screw driver" written as two words, the mention of "down satellites" before Sputnik, and a single typographical error ("desicant" for "desiccant"), consistent with professional government printing. The manual lists a UFOB Identification Guide that was not supplied with it. A typed version later came out through FOIA, and when Wood retyped it to the manual's format, its page numbers matched the table of contents exactly.
 
+::wiki-document
+---
+name: "Special Operations Manual (SOM 1-01)"
+caption: "The disputed MJ-12 manual, said to date from 1954, whose film Wood and Berliner developed and whose authenticity the Woods argue for."
+---
+::
+
 In his book *UFOs: Myths, Conspiracies, and Realities*, [[John B. Alexander]] wrote that Wood told him he believed SOM 1-01 was created in 1954 to be leaked to Soviet spies, so that the Soviets would waste resources on UFO crash recoveries.
 
 ## Bowen Manuscript Authentication
 
 The Woods carried out forensic ink and paper analysis on the [[Bowen Manuscript]] (*Encyclopedia of Flying Saucers*). Vernon Bowen sent his typed history of UFO cases to the Air Force for review in 1960 and never got it back. In 1999 [[Tim Cooper]] obtained the original onion-skin copy through the FOIA office at Fort Meade, Maryland, stamped "Top Secret MAGIC" and annotated by hand in ink. The Woods attribute the marginalia to [[Vannevar Bush]] and date the ink to about 1962.
+
+::wiki-document
+---
+name: "Bowen Manuscript"
+caption: "Vernon Bowen's typed *Encyclopedia of Flying Saucers*, a disputed MJ-12 item stamped Top Secret MAGIC, with handwritten notes the Woods attribute to Vannevar Bush."
+---
+::
 
 ## Early Douglas Aircraft UFO Program
 

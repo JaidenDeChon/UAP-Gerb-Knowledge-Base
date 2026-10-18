@@ -26,6 +26,13 @@ This claim is demonstrably false. Moon Dust documents have since been obtained t
 
 The Air Force's denial and alleged document destruction in the mid-1990s coincided with what Admiral [[Thomas Wilson|Thomas Wilson]] described in the [[Wilson-Davis Memo]] as a reorganization of Special Access Programs in the early 1990s. According to Wilson, crash retrieval and reverse engineering programs were reorganized into deeper compartments (SAP-X structures) to make them inaccessible even to senior intelligence officials.
 
+::wiki-document
+---
+name: "Wilson-Davis Memo"
+caption: "The leaked 15-page notes, dated 16 October 2002, that purport to record Eric Davis's conversation with Vice Admiral Thomas Wilson about a contractor-run crash retrieval program."
+---
+::
+
 The timing suggests the Air Force may have destroyed or reclassified Moon Dust files as part of this broader compartmentalization effort, using the reorganization as cover to deny Congressional access to UAP legacy program documentation.
 
 ## New Mexico Connection

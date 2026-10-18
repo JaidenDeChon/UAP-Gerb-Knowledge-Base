@@ -16,7 +16,17 @@ Leonard Stringfield first became aware of the Blue Berets through multiple sourc
 - Equipped to operate secretly and use diversionary tactics to secure sites and remove evidence without public knowledge
 - Capable of deployment within minutes to hours of a crash event
 
-In his publication *Crash Retrievals of the Third Kind: A Case Study of Alleged UFOs and Occupants in Military Custody*, Stringfield stated that the Blue Berets were a rapid reaction unit, comparable to modern special operations forces but with a highly specialized mission.
+In his 1978 paper *[[Stringfield Status Reports|Retrievals of the Third Kind: A Case Study of Alleged UFOs and Occupants in Military Custody]]*, Stringfield stated that the Blue Berets were a rapid reaction unit, comparable to modern special operations forces but with a highly specialized mission.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions gave the title as *Crash Retrievals of the Third Kind*, as Gerb does. Stringfield's 1978 paper, the first of his Status Reports, is titled *Retrievals of the Third Kind: A Case Study of Alleged UFOs and Occupants in Military Custody*.
+
+::wiki-document
+---
+name: "Stringfield Status Reports"
+caption: "Stringfield's crash-retrieval reports, the first of them his 1978 MUFON paper *Retrievals of the Third Kind*, where he describes the Blue Berets."
+---
+::
 
 ### Witness Accounts from Blue Beret Members
 
@@ -66,5 +76,5 @@ Still, the speed and scale of the military response at Kecksburg, together with 
 
 ## Sources
 
-- Leonard Stringfield, *Crash Retrievals of the Third Kind* and *UFO Crash Retrieval: The Inner Sanctum* series
+- Leonard Stringfield, *Retrievals of the Third Kind* (1978) and *UFO Crash/Retrievals: The Inner Sanctum* (1991), in the [[Stringfield Status Reports|Status Reports]] series
 - [[Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/summary|The 1965 Kecksburg, Pennsylvania UFO Crash]]

@@ -43,7 +43,7 @@ stats:
 
 This video is UAP Gerb's full investigation of the [[Aztec UFO Crash and Recovery|1948 Aztec, New Mexico UFO crash retrieval]], a case Gerb describes as "debunked, labeled as a hoax several times over, but yet still refuses to die." According to the accounts he assembles, on the morning of 25 March 1948 a disc 99.9 feet across came down on a rocky mesa off Hart Canyon Road, about 12 miles northeast of [[Aztec, New Mexico]], only eight months after the [[Roswell Crash]]. Oil-field workers, ranchers and two policemen reached it first and saw small, charred bodies through a punctured porthole before a seasoned military team sealed the site, swore everyone to silence, and spent up to two weeks dismantling the craft and trucking it to [[Los Alamos National Laboratory]]. The video opens on [[Ross Coulthart]]'s account of former Navy chief R&D scientist Nat Kobitz, who reportedly implied that Roswell, Aztec and Kingman were all real recoveries.
 
-Gerb builds the case on six sources: [[Frank Scully]]'s 1950 bestseller *Behind the Flying Saucers*, which introduced the story; [[William Steinman]]'s rare 1986 book *UFO Crash at Aztec: A Well Kept Secret*, which named an alleged recovery team; [[Scott and Suzanne Ramsey]]'s 2015 *The Aztec UFO Incident*, which found and interviewed new witnesses; and [[Leonard Stringfield]]'s *UFO Crash/Retrieval Status Reports*. Against them he weighs the two main debunks: [[J. P. Cahn]]'s 1952 exposé "The Flying Saucers and the Mysterious Little Men" and Mike McClellan's 1975 "The UFO Crash of 1948 Is a Hoax."
+Gerb builds the case on six sources: [[Frank Scully]]'s 1950 bestseller *Behind the Flying Saucers*, which introduced the story; [[William Steinman]]'s rare 1986 book *UFO Crash at Aztec: A Well Kept Secret*, which named an alleged recovery team; [[Scott and Suzanne Ramsey]]'s 2015 *The Aztec UFO Incident*, which found and interviewed new witnesses; and [[Leonard Stringfield]]'s *[[Stringfield Status Reports|UFO Crash/Retrieval Status Reports]]*. Against them he weighs the two main debunks: [[J. P. Cahn]]'s 1952 exposé "The Flying Saucers and the Mysterious Little Men" and Mike McClellan's 1975 "The UFO Crash of 1948 Is a Hoax."
 
 Most of the video re-examines why Aztec came to be called a hoax. Scully's source was the Denver oilman [[Silas Newton]], who never claimed to have been at the site and said he was repeating what a group of scientists, "Dr. G," had told him. Cahn cast Newton's associate [[Leo GeBauer]] as the one and only Dr. G, and the two men's 1953 fraud conviction over an oil-finding "doodlebug" buried the story for decades. Gerb argues, following the Ramseys and Steinman, that the prosecution looks like targeted retaliation for the leak. He points to [[Air Force Office of Special Investigations|AFOSI]] questioning the man who recorded Newton's 1950 lecture, an Army CID and FBI sting to intercept photographs of the disc, and a trial in which 32 of 33 investors were satisfied and the prosecution's expert tested a surplus-store stand-in rather than GeBauer's device. He then tries to name the Dr. G scientists: Denver geophysicist [[Carl A. Heiland]], whom Steinman calls the original leaker and an alleged [[Majestic 12]] member, and wartime magnetic-detection scientists tied to [[Geophysical Service Inc. (GSI)|Geophysical Service Inc.]] and [[Vannevar Bush]]'s wartime research office.
 
@@ -230,9 +230,9 @@ events:
       - "Guy Hottel"
       - "J. Edgar Hoover"
   - date: "1950-03-31"
-    title: "FBI letter names Newton as 'Mr. X'"
+    title: "FBI memo names Newton as 'Mr. X'"
     cue: 2832
-    summary: "A 31 March 1950 letter to Hoover reported that Silas Newton, alias Mr. X, was said to have knowledge of a flying disc and recovered bodies, showing the Bureau was tracking Newton within weeks of his lecture."
+    summary: "A 31 March 1950 memo to Hoover from the FBI's New Orleans office reported that Silas Newton, 'also known as a mysterious Mr. X', was said to claim a disc with eighteen dead three-foot occupants had been found on land he leased in the Mojave Desert, showing the Bureau was tracking Newton within weeks of his lecture."
     category: document
     significance: minor
     entities:
@@ -266,12 +266,13 @@ events:
     entities:
       - "Aztec UFO Crash and Recovery"
   - date: "1951-04-25"
-    title: "Cahn writes to J. Edgar Hoover about Newton"
+    title: "Letter to J. Edgar Hoover about Newton"
     cue: 2752
-    summary: "Cahn told the FBI director that Newton had leaked the Aztec story to Scully and was preparing 'a hoax or swindle of large proportions.' Hoover replied by 3 May 1951, which Gerb finds a surprisingly quick response to a newspaper writer."
+    summary: "Gerb says Cahn told the FBI director that Newton had leaked the Aztec story to Scully and was preparing 'a hoax or swindle of large proportions', and finds Hoover's reply by 3 May 1951 a surprisingly quick response to a newspaper writer. In the FBI's file the letter with those words came from the California Attorney General's office, signed by Arthur H. Sherry, and Hoover's reply said the FBI had made no investigation of Newton bearing on the inquiry."
     category: document
     significance: notable
     entities:
+      - "FBI File on Silas Newton"
       - "J. P. Cahn"
       - "J. Edgar Hoover"
       - "Silas Newton"
@@ -511,6 +512,9 @@ events:
 ---
 ::
 
+> [!edit] Corrected 16 October 2026
+> The timeline used to call the 31 March 1950 item a letter and to say Cahn wrote the 25 April 1951 letter to Hoover. In the FBI's file on Newton the first is a memo from the New Orleans field office and the second a letter from the California Attorney General's office.
+
 ## The Crash and the Retrieval
 
 ### New Mexico in 1948
@@ -634,7 +638,7 @@ root:
             - name: George Koehler
               label: "Questioned by AFOSI the next day"
               note: "About Newton, saucers and cube-like radios from the crash."
-            - name: "FBI letter on 'Mr. X'"
+            - name: "FBI memo on 'Mr. X'"
               label: "31 March 1950"
         - name: Frank Scully
           label: "Variety columns 1949; book 1950"
@@ -649,7 +653,8 @@ root:
               label: "Failed to buy the story; exposé 1952"
               children:
                 - name: J. Edgar Hoover
-                  label: "Letters, April–May 1951"
+                  label: "Letters, April–May 1951, per Gerb"
+                  note: "The FBI file has the letters coming from the California Attorney General's office."
                 - name: Herman Flader
                   label: "Complainant found by Cahn"
                   children:
@@ -658,7 +663,10 @@ root:
 ---
 ::
 
-The day after the lecture, AFOSI came to KMYR looking for Koehler and eventually questioned him about Newton, saucers and cube-like radios from the crash. On 30 September 1950, Army CID reported a sting in a Denver hotel bar where CID and the FBI tried to intercept the sale of photographs of the Aztec saucer to a "Mr. Klein" of the *Baltimore Sun*; no such reporter worked there, and the Ramseys were told every further record had been destroyed. The FBI had noted on 31 March 1950 that Newton, "Mr. X," was said to know of a flying disc and bodies. The Ramseys obtained 289 pages on Newton, with more than 100 withheld. The earliest, from 18 February 1941, found him of good character with a substantial income. Gerb also places the 22 March 1950 [[Hottel Memo]] in this window. It relayed an Air Force investigator's report of three 50-foot saucers crewed by three-foot humanoids in metallic cloth, brought down by New Mexico radar. Its source was once assumed to be Newton.
+> [!edit] Corrected 16 October 2026
+> The chart used to call the 31 March 1950 item a letter and to show Cahn's April–May 1951 letters to Hoover as fact. The FBI file has the first as a New Orleans field office memo and the letters as the California Attorney General's.
+
+The day after the lecture, AFOSI came to KMYR looking for Koehler and eventually questioned him about Newton, saucers and cube-like radios from the crash. On 30 September 1950, Army CID reported a sting in a Denver hotel bar where CID and the FBI tried to intercept the sale of photographs of the Aztec saucer to a "Mr. Klein" of the *Baltimore Sun*; no such reporter worked there, and the Ramseys were told every further record had been destroyed. The FBI had noted on 31 March 1950 that Newton, "Mr. X," was said to know of a flying disc and bodies. The Ramseys obtained 289 pages of the [[FBI File on Silas Newton|FBI's files on Newton]] (the FBI Vault's release has 77), with more than 100 withheld. The earliest, from 18 February 1941, found him of good character with a substantial income. Gerb also places the 22 March 1950 [[Hottel Memo]] in this window. It relayed an Air Force investigator's report of three 50-foot saucers crewed by three-foot humanoids in metallic cloth, brought down by New Mexico radar. Its source was once assumed to be Newton.
 
 ### In Newton's own words
 
@@ -673,7 +681,19 @@ Gerb also records a claim he could not verify: former CIA officer and UFO resear
 
 ### J. P. Cahn's campaign
 
-Gerb treats J. P. Cahn as the "hero of the hoax" whose honesty deserves the same scrutiny as Newton's. In 1949 Cahn tried to buy the saucer story from Scully for the *San Francisco Chronicle*, failed, and told his editors the deal had been made anyway. Introduced to Newton at Scully's home, he pursued him to San Francisco and offered $25,000 and 50% royalties if Newton would produce the full roster of Dr. G. By late 1951 he was telling Scully that Newton and Dr. G were about to be arrested, and that Scully would be named in the hoax unless the exposé ran under Scully's name. On 25 April 1951 he wrote to J. Edgar Hoover about Newton, and Hoover replied by 3 May. Cahn's September 1952 article, "The Flying Saucers and the Mysterious Little Men," linked Newton and [[Leo GeBauer|GeBauer]] to oil fraud and made two charges that the video answers:
+Gerb treats J. P. Cahn as the "hero of the hoax" whose honesty deserves the same scrutiny as Newton's. In 1949 Cahn tried to buy the saucer story from Scully for the *San Francisco Chronicle*, failed, and told his editors the deal had been made anyway. Introduced to Newton at Scully's home, he pursued him to San Francisco and offered $25,000 and 50% royalties if Newton would produce the full roster of Dr. G. By late 1951 he was telling Scully that Newton and Dr. G were about to be arrested, and that Scully would be named in the hoax unless the exposé ran under Scully's name. Gerb says that on 25 April 1951 Cahn wrote to J. Edgar Hoover about Newton, and that Hoover replied by 3 May; in the FBI's file, the 25 April letter came from the California Attorney General's office. Cahn's September 1952 article, "The Flying Saucers and the Mysterious Little Men," linked Newton and [[Leo GeBauer|GeBauer]] to oil fraud and made two charges that the video answers:
+
+> [!edit] Attribution clarified 16 October 2026
+> This paragraph used to say as fact that Cahn wrote to Hoover on 25 April 1951. That is Gerb's account. The letter in the FBI's file is from the California Attorney General's office, signed by Arthur H. Sherry, and does not name Cahn.
+
+::wiki-document
+---
+name: "FBI File on Silas Newton"
+page: 3
+region: [0.03, 0.42]
+caption: "The head of the 25 April 1951 letter to Hoover about Newton, on the letterhead of California's Office of the Attorney General, with Arthur H. Sherry named among its officers."
+---
+::
 
 ::wiki-claim{video="QJxbyu-9Tj0" video-title="The 1948 Aztec, New Mexico UFO Crash Retrieval"}
 ---
@@ -915,7 +935,24 @@ rows:
 
 ## Sarbacher and Walker: Insiders Found Through the Book
 
-Gerb argues that one of the book's most important effects was to expose two insiders. In 1950 [[Wilbert B. Smith]] wrote a top-secret memo to Canada's Department of Transport saying that saucers exist, that the subject was classified higher than the H-bomb, and that a small group under Vannevar Bush was studying them. The memo was downgraded in 1969 and found by [[Arthur Bray]] and [[Stanton Friedman]] in 1978. Smith's source was [[Robert Sarbacher]], a physicist and consultant to Bush's Research and Development Board, whom Smith interviewed on 15 September 1950 precisely to ask how much of Scully's book was true. "The facts reported in the book are substantially correct," Sarbacher replied. Smith went on to lead Canada's Projects Magnet and Second Story. Decades later Sarbacher told Steinman that recovery meetings were held at Wright-Patterson with Bush, von Neumann and Oppenheimer, and that the materials were "extremely light and very tough." He said he had the impression the occupants were "constructed like certain insects." He told Friedman in 1983 that one man had attended every meeting: an RDB member who wrote a book on electrical engineering and headed the electrical engineering department at a university in Pennsylvania.
+Gerb argues that one of the book's most important effects was to expose two insiders. In 1950 [[Wilbert B. Smith]] wrote a [[Wilbert Smith Memo|top-secret memo]] to Canada's Department of Transport saying that saucers exist, that the subject was classified higher than the H-bomb, and that a small group under Vannevar Bush was studying them. The memo was downgraded in 1969 and found by [[Arthur Bray]] and [[Stanton Friedman]] in 1978. Smith's source was [[Robert Sarbacher]], a physicist and consultant to Bush's Research and Development Board, whom Smith interviewed on 15 September 1950 precisely to ask how much of Scully's book was true. "The facts reported in the book are substantially correct," Sarbacher replied. Smith went on to lead Canada's Projects Magnet and Second Story. Decades later, in a [[Sarbacher Letter|1983 letter]] to Steinman, Sarbacher wrote that von Neumann and Bush were "definitely involved" and that he thought Oppenheimer was too, and that the materials were "extremely light and very tough." He said he had the impression the occupants were "constructed like certain insects." Gerb adds that Sarbacher attested the recovery meetings were held at Wright-Patterson; the letter names no place, and the Wright Field meeting comes from Sarbacher's 1983 call with Friedman. He told Friedman in 1983 that one man had attended every meeting: an RDB member who wrote a book on electrical engineering and headed the electrical engineering department at a university in Pennsylvania.
+
+> [!edit] Attribution clarified 16 October 2026
+> Earlier versions said Sarbacher told Steinman the recovery meetings were held at Wright-Patterson with Bush, von Neumann and Oppenheimer. That is Gerb's account; Sarbacher's letter of 29 November 1983 names no place and says only "I think" of Oppenheimer.
+
+::wiki-document
+---
+name: "Wilbert Smith Memo"
+caption: "Wilbert Smith's top secret Department of Transport memo of 21 November 1950, subject \"Geo-Magnetics\", to the Controller of Telecommunications."
+---
+::
+
+::wiki-document
+---
+name: "Sarbacher Letter"
+caption: "Robert Sarbacher's letter of 29 November 1983 to William Steinman, answering his questions about the recovered flying saucers."
+---
+::
 
 Steinman traced that man to [[Eric A. Walker]], Penn State president, founder of its Applied Research Laboratory, and the RDB's executive secretary from 1950 to 1952 (Gerb's Sarbacher and Kecksburg videos say 1950 to 1951). Friedman found an early-1950s Army document on "indoctrination for special intelligence for Mr. Eric Arthur Walker," and Walker later worked on Project Azorian. His replies to Steinman were strange: a cut-up letter reading "Stop. Don't try and find me," then, in a 30 August 1987 phone call, "Yes, I attended meetings concerning that subject matter," along with the admission that he had known of MJ-12 for 40 years. He told Henry Azadehdel he had been at the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg recovery]]. Gerb believes Walker, who joined the Research and Development Board a year after Aztec, knew a great deal about it.
 
@@ -972,11 +1009,14 @@ Speaking to camera at the end, Gerb explains why he took up a case he had once d
 - According to Steinman, George C. Marshall mobilised the Interplanetary Phenomenon Unit and Vannevar Bush's scientific team, including Detlev Bronk, John von Neumann, J. Robert Oppenheimer and Carl A. Heiland. Eric Henry Wang joined in November 1949.
 - The craft was allegedly dismantled into a crew cabin and three sections using interlocking keys, trucked to Los Alamos, and held there for over a year. Gerb compares this to Sumner Shapiro's account of craft disassembled in an exact sequence.
 - AFOSI questioned George Koehler the day after Newton's 8 March 1950 lecture, and in September 1950 Army CID and the FBI ran a sting to intercept photographs of the Aztec disc.
-- J. P. Cahn, who had failed to buy the story, named Leo GeBauer as the sole "Dr. G" without evidence, corresponded with J. Edgar Hoover about Newton, found the complainant Herman Flader and assisted the prosecution.
+- J. P. Cahn, who had failed to buy the story, named Leo GeBauer as the sole "Dr. G" without evidence, corresponded with J. Edgar Hoover about Newton (according to Gerb; the FBI file has the 1951 letters coming from California's Attorney General), found the complainant Herman Flader and assisted the prosecution.
 - Newton and GeBauer's 1953 fraud trial relied on a surplus-store stand-in for GeBauer's device while 32 of 33 investors were satisfied. They were convicted but never sentenced, and Gerb and the Ramseys see the trial as retaliation for the leak.
 - Steinman theorised that Carl A. Heiland was the original leaker and a Majestic 12 member who refused to testify against GeBauer. Gerb traces the doodlebug to Geophysical Service Inc.'s wartime magnetic anomaly detection work under Vannevar Bush.
 - Scully's book led Wilbert B. Smith to Robert Sarbacher, who called it "substantially correct" and, indirectly, to Eric A. Walker, who confirmed attending crash-retrieval meetings at Wright-Patterson.
 - The US Army has acknowledged through FOIA that an Interplanetary Phenomenon Unit existed and was disestablished in the late 1950s, with its records surrendered to AFOSI.
+
+> [!edit] Attribution clarified 16 October 2026
+> This list used to say as fact that Cahn corresponded with Hoover about Newton. That is Gerb's account; the 1951 letters in the FBI's file on Newton came from the California Attorney General's office.
 
 ## Sources
 
@@ -987,6 +1027,7 @@ Speaking to camera at the end, Gerb explains why he took up a case he had once d
 - **People**: [[Silas Newton]], [[Leo GeBauer]], [[Frank Scully]], [[J. P. Cahn]], [[Herman Flader]], [[George Koehler]], [[Carl A. Heiland]], [[John Torrence Tate]], [[Eric Henry Wang]], [[William Steinman]], [[Scott and Suzanne Ramsey]], [[Leonard Stringfield]], [[Robert Spencer Carr]], [[Bill Moore]], [[Richard Doty]], [[Valentine Archuleta]], [[Doug Noland]], [[Manuel Sandoval]], [[Ken Farley]], [[George C. Marshall]], [[Vannevar Bush]], [[Detlev Bronk]], [[J. Robert Oppenheimer]], [[John Von Neumann]], [[Robert Sarbacher]], [[Wilbert B. Smith]], [[Eric A. Walker]], [[Arthur Bray]], [[Stanton Friedman]], [[J. Edgar Hoover]], [[Guy Hottel]], [[Andrew Kissner]], [[Bobby Ray Inman]], [[Bob Oechsler]], [[Sumner Shapiro]], [[Edgar Fouche]], [[Philip J. Corso]], [[Arthur Stansel Jr.]], [[James Forrestal]], [[Brad Sparks]], [[Kevin Randle]], [[Tim Cooper]], [[Robert Wood]], [[Ross Coulthart]], [[Jonathan Weygandt]], [[Mark McCandlish]]
 - **Organizations**: [[Interplanetary Phenomenon Unit]], [[Majestic 12]], [[Air Force Office of Special Investigations]], [[Geophysical Service Inc. (GSI)]], [[Los Alamos National Laboratory]], [[Sandia National Laboratories]], [[Atomic Energy Commission]], [[Armed Forces Special Weapons Project (AFSWP)]], [[Research and Development Board]], [[Bureau of Reclamation]]
 - **Locations**: [[Aztec, New Mexico]], [[Durango, Colorado]], [[Cuba, New Mexico]], [[Cedar Hill, New Mexico]], [[Roswell Army Airfield]], [[Kirtland Air Force Base, New Mexico]], [[Wright-Patterson Air Force Base]], [[Edwards Air Force Base]], [[White Sands Missile Range]]
-- **Concepts**: [[Hottel Memo]], [[MJ-12 Documents]], [[Project Twinkle]], [[TR-3B]], [[Strategic Defense Initiative (SDI)]]
+- **Documents**: [[Hottel Memo]], [[FBI File on Silas Newton]], [[Sarbacher Letter]], [[Stringfield Status Reports]], [[Wilbert Smith Memo]]
+- **Concepts**: [[MJ-12 Documents]], [[Project Twinkle]], [[TR-3B]], [[Strategic Defense Initiative (SDI)]]
 - **Operations**: [[Operation Upshot-Knothole]]
 - **Events**: [[Aztec UFO Crash and Recovery]], [[Roswell Crash]], [[1953 Kingman, Arizona Crash Retrieval]], [[1965 Kecksburg, Pennsylvania Crash Retrieval]]

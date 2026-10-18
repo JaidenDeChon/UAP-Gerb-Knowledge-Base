@@ -503,7 +503,7 @@ entries:
 ## Sources
 
 - [YouTube](https://www.youtube.com/watch?v=9Xk4X41yl2M) — UAP Gerb
-- Gerb recommends [[Ryan S. Wood]]'s *Majic Eyes Only* and Leonard Stringfield's *UFO Crash/Retrieval Status Reports* 1 to 7 as his crash-retrieval references. He names microbiologist Dan Bish and Project Aquarius as possible future subjects.
+- Gerb recommends [[Ryan S. Wood]]'s *Majic Eyes Only* and Leonard Stringfield's *[[Stringfield Status Reports|UFO Crash/Retrieval Status Reports]]* 1 to 7 as his crash-retrieval references. He names microbiologist Dan Bish and Project Aquarius as possible future subjects.
 
 ## Related Pages
 
@@ -511,3 +511,4 @@ entries:
 - **Organizations**: [[US Air Force]], [[United States Marine Corps]], [[Air Force Office of Special Investigations]], [[NASA]], [[Disclosure Project]], [[3af-p (French national aeronautical and astronautical Association UAP division)]], [[MUFON]]
 - **Locations**: [[Wright-Patterson Air Force Base]], [[Cherry Point, North Carolina Marine Corps Air Station]]
 - **Concepts**: [[Blue Room]], [[Color-Coded Security Badges]], [[Seamless Craft Hull]], [[White Taped Circle Restricted Zone]], [[Ooid Cross-Section]], [[Security Oath]], [[Crash Retrieval]]
+- **Documents**: [[Stringfield Status Reports]]

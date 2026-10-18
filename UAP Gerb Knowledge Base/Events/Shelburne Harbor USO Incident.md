@@ -17,6 +17,13 @@ No formal public investigation or official report has been released regarding th
 
 Rear Admiral Gallaudet acknowledged in his white paper that he at first found the account implausible, because occupants repairing a craft on the seabed was a detail he found hard to accept as credible. He stated that later disclosures by US military whistleblowers prompted him to revise his assessment and include the case in his formal white paper on USO research priorities. He was likely referring to the 2023 testimony of figures including David Grusch.
 
+::wiki-document
+---
+name: "Beneath the Surface (Gallaudet White Paper)"
+caption: "Rear Admiral Gallaudet's 2024 Sol Foundation white paper, which includes the 1960 Shelburne Harbor case."
+---
+::
+
 ## Relation to Shag Harbour
 
 Shelburne Harbor is approximately 30 miles northeast of [[Shag Harbour, Nova Scotia]], the site of the better-known 1967 UAP impact into the water. Researchers studying USO patterns in the northwestern Atlantic have noted that a 1960 underwater disc encounter and a 1967 aerial impact event took place within the same 30-mile stretch of coast. Gerb explicitly distinguishes the Shelburne Harbor case from the Shag Harbour incident, noting they are separate events at different locations.

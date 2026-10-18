@@ -9,9 +9,31 @@ The **Project Sign, Grudge, and Blue Book Operation Period** spans 1948 to 1969 
 
 ## Project Sign (1948–1949)
 
-[[Project Sign]] was established in 1948 by Lieutenant General [[Nathan Twining]], whose memo to AAF Commanding General George Lugan asserted that flying discs were "real and not visionary or fictitious." Sign's final written report concluded that some UFO reports presented actual objects of undeterminable origin, and future director [[Edward J. Ruppelt]] stated that Sign endorsed the interplanetary explanation for some unexplained sightings. Sign required all reports to be distributed to the Army and Navy Research and Development Board, the USAF Scientific Advisory Group, and the [[Atomic Energy Commission]]. That distribution list indicates institutional involvement well beyond the Air Force chain of command.
+[[Project Sign]] was set up on 22 January 1948 by the Air Materiel Command's Technical Intelligence Division, following Lieutenant General [[Nathan Twining]]'s [[Twining Memo|letter of 23 September 1947]] to the Commanding General, Army Air Forces, for the attention of Brig. Gen. George Schulgen, which said that "the phenomenon reported is something real and not visionary or fictitious" and recommended a study. Sign's final written report concluded that some UFO reports presented actual objects of undeterminable origin, and future director [[Edward J. Ruppelt]] stated that Sign endorsed the interplanetary explanation for some unexplained sightings. Twining's letter recommended that the study's data go for comment to the Army, the Navy, the [[Atomic Energy Commission]], the JRDB, the Air Force Scientific Advisory Group, NACA, and the RAND and NEPA projects; Gerb reads that list as institutional involvement well beyond the Air Force chain of command.
 
-Sign was shut down in 1949 by General [[Hoyt Vandenberg]], who cited a lack of proof. Sign's positive conclusion, that some UFOs were real and unexplained, was institutionally unacceptable.
+> [!edit] Corrected 16 October 2026
+> Earlier versions said Twining established Sign, through a memo to "AAF Commanding General George Lugan" (a garbled caption name), and that Sign required its reports to go to the Army and Navy Research and Development Board, the Scientific Advisory Group and the AEC. The letter is addressed to the Commanding General, Army Air Forces, attention Brig. Gen. George Schulgen; it only recommended a study, which AMC's Technical Intelligence Division set up on 22 January 1948; and the distribution list is the letter's recommendation.
+
+::wiki-document
+---
+name: "Twining Memo"
+page: 3
+region: [0.23, 0.52]
+caption: "The letter's recommendation: a directive assigning a priority, security classification and code name for a detailed study, with the data made available to the Army, Navy, Atomic Energy Commission, JRDB, Air Force Scientific Advisory Group, NACA, and the RAND and NEPA projects."
+---
+::
+
+According to Ruppelt, in 1948 Sign sent up a Top Secret [[Project Sign Estimate of the Situation (1948)|Estimate of the Situation]] concluding that UFOs were interplanetary, and General [[Hoyt Vandenberg]] rejected it because it "lacked proof". No copy of the Estimate has been made public. Gerb tells this as Vandenberg shutting Sign down in 1949 for lack of proof. By Ruppelt's account, Sign was renamed Grudge by an order of 11 February 1949. Sign's positive conclusion, that some UFOs were real and unexplained, was institutionally unacceptable.
+
+> [!edit] Corrected 16 October 2026
+> This paragraph used to say as fact that Vandenberg shut Sign down in 1949, citing a lack of proof. In Ruppelt's book, the only source for Vandenberg's part, what he rejected for lack of proof was Sign's 1948 Estimate of the Situation. The closure in 1949 for "lack of proof" is Gerb's account.
+
+::wiki-document
+---
+name: "Project Sign Estimate of the Situation (1948)"
+caption: "Project Sign's Top Secret Estimate of the Situation of 1948, known from Edward Ruppelt's account; no copy has been made public."
+---
+::
 
 ## Project Grudge (1949)
 

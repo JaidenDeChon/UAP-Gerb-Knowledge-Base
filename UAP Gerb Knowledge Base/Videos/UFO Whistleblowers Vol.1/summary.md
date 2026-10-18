@@ -587,5 +587,6 @@ entries:
 - **People**: [[Walter Haut]], [[Steven Lovekin]], [[William Blanchard]], [[General Ramey]], [[Jesse Marcel]], [[Jesse Marcel Jr.]], [[Thomas J. DuBose]], [[Arthur McQuitty]], [[Mac Brazel]], [[Dwight D. Eisenhower]], [[John F. Kennedy]], [[Harry Truman]], [[Stanton Friedman]], [[Steven Greer]], [[Grant Cameron]], [[Thomas Wilson]], [[Will Miller]], [[Hector Quintanilla]], [[J. Allen Hynek]], [[General Samford]], [[Eric Taber]], [[David Grusch]], [[David Fravor]], [[Robert Jacobs]], [[Robert Salas]], [[Michael Herrera]], [[Bob Lazar]], [[Mark McCandlish]], [[Bill Uhouse]], [[Boyd Bushman]]
 - **Organizations**: [[509th Bomb Group]], [[White House Army Signaling Agency]], [[Project Blue Book]], [[Disclosure Project]], [[Majestic 12]], [[AARO]], [[CIA]], [[Defense Intelligence Agency]], [[Battelle Memorial Institute]]
 - **Locations**: [[Roswell, New Mexico]], [[Roswell Army Airfield]], [[Hangar 84]], [[Foster Ranch]], [[White Sands Missile Range]], [[Fort Worth, Texas]], [[Wright Field]], [[Area 51]], [[Magenta, Italy]]
-- **Concepts**: [[Legacy Programs]], [[Wilson-Davis Memo]], [[USAF Regulation 200-2]], [[Crash Retrieval]]
+- **Concepts**: [[Legacy Programs]], [[Crash Retrieval]]
+- **Documents**: [[Wilson-Davis Memo]], [[USAF Regulation 200-2]]
 - **Events**: [[Roswell Crash]], [[1952 UFOs Over Washington DC]], [[1997 Meeting (Wilson, Miller, Mitchell, Greer, Hughes)]]

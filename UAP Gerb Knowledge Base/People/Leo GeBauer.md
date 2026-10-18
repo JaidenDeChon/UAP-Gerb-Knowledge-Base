@@ -10,6 +10,8 @@ tags:
 
 **Leo A. GeBauer** (rendered "Gabauer" in the captions of Gerb's video) was a Phoenix-based specialist in magnetics and electronic detection equipment and the business partner of the Denver oilman [[Silas Newton]]. In UFO literature he is known mainly as the man journalist [[J. P. Cahn]] named as "Dr. G", the unnamed scientific source of [[Frank Scully]]'s story of a UFO crash retrieval at Aztec, New Mexico, in 1948. He was also Newton's co-defendant in a 1953 fraud trial over his oil-detecting device, a "doodlebug", which in effect discredited the [[Aztec UFO Crash and Recovery|Aztec case]] for decades. Gerb's coverage of him comes from a single video on Aztec.
 
+The [[FBI File on Silas Newton|FBI's file on Newton]] has a memo of 6 August 1951 noting that the "Leo Gebauer" California officials had asked about might be Leo Julius Arnold Gebauer, convicted in federal court at Tucson, Arizona, in February 1944. The memo recommended pointing the state to that public record of conviction.
+
 ## Background
 
 GeBauer's work centred on electronic and magnetic detection, the kind of technology used to look for oil, gas and water underground and, during World War II, to detect submarines from the air. Researchers [[Scott and Suzanne Ramsey]] found that he held senior positions at the AiResearch laboratories around 1946; Cahn's 1952 article had him calling himself chief of laboratories at AiResearch in Phoenix and Los Angeles during the war.
@@ -30,8 +32,11 @@ The trial ran from 10 November to 29 December 1953. Gerb, following the Ramseys 
 
 - The evidence was dubious. The prosecution's expert, Colorado School of Mines geophysicist Dr. James Meredith, testified that such doodlebugs "couldn't detect submarines, much less oil", but the device he examined was one the district attorney had bought at a war-surplus store as "very similar" to GeBauer's, not GeBauer's own. According to Steinman, Heiland had been asked to testify against the devices first and refused, saying he could not do so with a clear conscience because he and GeBauer had developed them together.
 - Most investors were satisfied. The FBI's own inquiry found that 32 of the 33 investors in Newton and GeBauer's ventures were pleased. Flader was the only complainant, and he was still receiving royalties from Newton's oil wells. He also denied signing the contract that gave him an interest in three of the devices, though eyewitnesses testified that they saw him sign it.
-- Cahn was involved. According to court records, Cahn helped the prosecution throughout the trial, and he had written to [[J. Edgar Hoover]] about Newton in April 1951.
+- Cahn was involved. According to court records, Cahn helped the prosecution throughout the trial. Gerb also says Cahn wrote to [[J. Edgar Hoover]] about Newton in April 1951, but the April 1951 letter in the [[FBI File on Silas Newton|FBI's file on Newton]] came from the California Attorney General's office.
 - Defense evidence was set aside. Ranch owner Horace Steele testified that GeBauer's machine had defined 35 oil wells for him, one of which he sold most of for $1.75 million, and another witness showed photographs of three water wells the device had found.
+
+> [!edit] Corrected 16 October 2026
+> This list used to say Cahn had written to Hoover about Newton in April 1951. The FBI file shows the April 1951 letter was from the California Attorney General's office, signed by Arthur H. Sherry.
 
 Both men were found guilty and faced up to 30 years, but they were never sentenced or fined. Newton agreed to pay $18,000 in court costs, "as though this was a civil case", in Gerb's words. Gerb and the Ramseys see the trial as retaliation for leaking the Aztec story; GeBauer, in this reading, was caught up in it as Newton's partner and a possible link to Dr. G.
 
@@ -55,3 +60,4 @@ The conviction discredited both GeBauer and the Aztec case for decades. Steinman
 - [[J. P. Cahn]]
 - [[Herman Flader]]
 - [[Aztec UFO Crash and Recovery]]
+- [[FBI File on Silas Newton]]

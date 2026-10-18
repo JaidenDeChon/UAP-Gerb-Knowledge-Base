@@ -31,6 +31,15 @@ The Skunk Works compartmentalizes its work, with extreme need-to-know access con
 
 The Skunk Works began at Lockheed's plant in Burbank, California. In 1986 that plant was the subject of General Accounting Office (GAO) reports on the control of classified documents in a major Lockheed special access program. One of them, an August 1986 report to the Secretary of Defense, was titled "Need for DoD inspections of special access contracts". The GAO found that Lockheed had not been doing the required inventories at most of its 53 document control substations. Lockheed's own counts found 1,460 discrepancies among some 40,000 secret and top secret items, and some files were reported destroyed. By 1992 Lockheed had moved all aerospace work out of Burbank, and the division now works mainly from [[Air Force Plant 42]]. UAP Gerb's *Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs* asks whether this audit nearly exposed Lockheed's legacy programs and began the chain of events that led to the 1994 restructuring of special access program oversight described in the [[Wilson-Davis Memo|Wilson-Davis notes]].
 
+::wiki-document
+---
+name: "GAO Report on Special Access Contracts (1986)"
+page: 1
+region: [0.02, 0.50]
+caption: "The cover of GAO/NSIAD-86-191, the General Accounting Office's August 1986 report to the Secretary of Defense, \"Need for DOD Inspections of Special Access Contracts\"."
+---
+::
+
 ## To The Stars Academy
 
 The same video describes the Skunk Works' links to [[To The Stars Academy]] (TTSA). At its 2017 launch, [[Tom DeLonge]] said he had been connected to officials from the CIA, DoD and the Skunk Works. The academy's advisers included Rob Weiss, executive vice president of the Skunk Works, and Steve Justice, a 30-year veteran and former head of Skunk Works advanced programs, who had left TTSA by 2021. Gerb also cites [[Steven Greer]] and [[Ross Coulthart]], who both claim that the 2004 Nimitz Tic Tac was a Skunk Works craft. Greer further claims that man-made electrogravitic craft are tested over diamond markings at the [[Helendale]] range.

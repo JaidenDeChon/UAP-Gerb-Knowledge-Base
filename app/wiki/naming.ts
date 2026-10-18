@@ -22,6 +22,7 @@ export const FOLDER_PRIORITY = [
   'Events',
   'Locations',
   'Concepts',
+  'Documents',
   'MOCs',
   'Videos',
 ]

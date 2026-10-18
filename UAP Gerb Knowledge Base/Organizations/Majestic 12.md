@@ -22,6 +22,13 @@ According to the leaked documents, Majestic 12 had twelve members who reported d
 
 The [[Eisenhower Briefing Document]] states that MJ-12 was established as a "top secret Research and Development/Intelligence operation reporting only to the President of the United States." According to SOM 1-01, as of 1954 the group did not consider non-human intelligence a threat. The manual says the group regarded it as a benign presence, though one with technology far beyond human science.
 
+::wiki-document
+---
+name: "Special Operations Manual (SOM 1-01)"
+caption: "The disputed 1954 manual for \"Majestic 12 units\", which sets out the group's goals of recovering and studying craft and entities of non-terrestrial origin."
+---
+::
+
 ## Original and Subsequent Members
 
 ### Original Twelve (1947)
@@ -30,17 +37,29 @@ The Eisenhower Briefing Document names the founding members:
 - MJ-1: Admiral [[Roscoe H. Hillenkoetter]], the first CIA Director and the designated briefing officer for Eisenhower
 - Dr. Vannevar Bush, head of the Office of Scientific Research and Development and a principal architect of the group
 - James Forrestal, Secretary of the Navy and the first Secretary of Defense (died May 22, 1949; replaced by [[Walter Bedell Smith|General Walter B. Smith]])
-- General Nathan Twining, of Air Material Command, who led Project Sign and the Roswell recovery
+- General Nathan Twining, of Air Material Command, who led Project Sign and who, the document says, organised the analytical effort on the Roswell craft with Bush
 - General Hoyt S. Vandenberg, the second Director of Central Intelligence and Air Force Chief of Staff
 - [[Donald Menzel|Donald H. Menzel]], a Harvard astronomer and NSA/CIA consultant
 - Admiral Sidney W. Souers
 - Gordon Gray
-- Dr. Detlev Bronk, who performed the Roswell autopsies and coined the term "EBE" (Extraterrestrial Biological Entity)
+- Dr. Detlev Bronk, who, the document says, arranged the analysis of the four Roswell bodies, and whose team suggested the term "EBE" (Extraterrestrial Biological Entity)
 - Dr. Jerome Hunsaker
 - Dr. Robert Montague
-- General Walter B. Smith, who replaced Forrestal on August 1, 1950; he was Ambassador to the USSR and the second CIA Director
+- Dr. Lloyd Berkner
+
+The document also names General Walter B. Smith as Forrestal's replacement from August 1, 1950. Smith had been Ambassador to the USSR and was the second director of the CIA (the fourth Director of Central Intelligence).
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said Twining led the Roswell recovery and Bronk performed the Roswell autopsies, listed Smith among the original twelve and left out Lloyd Berkner. The document says Twining and Bush organised the analytical effort and the analysis of the bodies "was arranged by Dr. Bronk", and its twelve include Berkner, with Smith as Forrestal's later replacement. Source: the copy in the FBI Vault's Majestic 12 file, and the member list read out in [[Videos/The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1/summary|The Manhattan Project 2.0]].
 
 Truman's appointment calendar confirms an off-the-record meeting with Walter B. Smith on August 1, 1950, the same date on which, according to the Eisenhower Briefing Document, he replaced Forrestal.
+
+::wiki-document
+---
+name: "Eisenhower Briefing Document"
+caption: "The disputed MJ-12 briefing paper dated 18 November 1952, which lists the group's twelve members and names Smith as Forrestal's replacement on 1 August 1950."
+---
+::
 
 ### Extended Network
 
@@ -66,7 +85,10 @@ On May 22, 1949, James Forrestal fell (or was pushed) from the 13th floor of Bet
 
 ## The 1954 Turning Point
 
-[[Ryan S. Wood]] identifies 1954 as a critical year of transition. SOM 1-01 was created in 1954. The [[Atomic Energy Act of 1954]] established the "restricted data" classification, under which information not created by the government can be born classified. This could have provided a legal framework for reclassifying crashed non-terrestrial materials as "trans-classified foreign nuclear materials" (the same mechanism referenced in the 2024 Schumer UAP disclosure amendment).
+Gerb identifies 1954 as a critical year of transition, and [[Ryan S. Wood]] agrees. SOM 1-01 was created in 1954, and the same year brought the [[Atomic Energy Act of 1954]], which carried forward the "Restricted Data" category first set up by the 1946 Act. Gerb says that under the atomic energy acts, information on atomic energy is "born classified even if not created by USG elements"; the Act's definition covers "all data concerning" atomic weapons and special nuclear material, without saying who created it. In Gerb's theory, the 1954 framework could have provided a legal basis for reclassifying crashed non-terrestrial materials as "transclassified foreign nuclear" information, a term the Schumer UAP disclosure amendment uses.
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions credited the 1954 theory to Wood and said the 1954 Act "established" Restricted Data, under which information not created by the government can be born classified. The theory is Gerb's, which Wood endorses; Restricted Data dates from the 1946 Act; and the point about non-government information is Gerb's reading, not the Act's text.
 
 Most of the leaked documents date from before 1954, and the material from after 1954 has far less detail. This supports the theory that the reclassification "pulled the rug out" from under the Air Force officers running MJ-12 operations and moved control elsewhere, which may have led leakers to preserve records of programs that were being memory-holed. The Fifth Annual Majestic Report, one of the last detailed operational documents, may be the final record made before the reorganization.
 

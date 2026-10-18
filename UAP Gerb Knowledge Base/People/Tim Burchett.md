@@ -75,9 +75,12 @@ items:
 ---
 ::
 
-## Kona Blue Documents
+## The Hearing Packet on Lockheed and Kona Blue
 
-In his Lockheed Martin video, Gerb says that UK journalist [[Christopher Sharp]]'s reporting of two attempts to move crash-retrieval material out of [[Lockheed Martin]] to [[AAWSAP]] "became a reality" in the packet Burchett entered into the record of the November 2024 House Oversight subcommittee hearing on UAP. The second attempt was to run through [[Kona Blue]], a prospective special access program at the Department of Homeland Security. Gerb stresses that the packet's author or compiler is unknown, but still finds the documents worth citing.
+In his Lockheed Martin video, Gerb says that UK journalist [[Christopher Sharp]]'s reporting of two attempts to move crash-retrieval material out of [[Lockheed Martin]] to [[AAWSAP]] "became a reality" in the packet Burchett entered into the record of the November 2024 House Oversight subcommittee hearing on UAP. The second attempt was to run through [[Kona Blue]], a prospective special access program at the Department of Homeland Security. Gerb stresses that the packet's author or compiler is unknown, but still finds the documents worth citing. Burchett's packet is a separate document from the [[Kona Blue Documents]], the Department of Homeland Security's own records on the program, which [[AARO]] posted in April 2024.
+
+> [!edit] Clarified 17 October 2026
+> This section was headed "Kona Blue Documents", the name of DHS's records on the program. It describes Burchett's hearing packet, a different document, and has been retitled.
 
 ## Underwater Craft
 

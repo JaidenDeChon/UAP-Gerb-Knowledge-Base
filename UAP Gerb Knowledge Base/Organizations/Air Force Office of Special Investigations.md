@@ -34,3 +34,4 @@ Gerb is clear that he does not accuse AFOSI as a whole. He believes a specialize
 - [[Lee M. Russ]]
 - [[MITRE Corporation]]
 - [[Office of Naval Intelligence]]
+- [[Hottel Memo]]

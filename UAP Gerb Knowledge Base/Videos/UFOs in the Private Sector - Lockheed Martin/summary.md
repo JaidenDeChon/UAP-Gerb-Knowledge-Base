@@ -105,7 +105,7 @@ events:
   - date: "1986-07-24"
     title: "GAO testimony on Lockheed's document control"
     cue: 1322
-    summary: "Frank C. Conahan, director of the General Accounting Office's National Security and International Affairs Division, testified that Lockheed had a poor control system for classified special access documents, with no oversight from the DoD program office, and that the Defense Investigative Service had been barred from its semiannual inspections. An inventory of 40,000 documents found 1,460 discrepancies; an estimated 46 had been destroyed and 17 transferred out of the company and never found."
+    summary: "GAO testified that Lockheed had a poor control system for classified special access documents, with no oversight from the DoD program office, and that the Defense Investigative Service had not been permitted its semiannual inspections of the carve-out contract. Gerb credits the testimony to Frank C. Conahan, director of GAO's National Security and International Affairs Division; the report that reprints it names Associate Director Martin M. Ferber. An inventory of 40,000 documents found 1,460 discrepancies; among the 224 that Lockheed reported resolved were 46 documents destroyed with receipts reportedly on file and 17 transferred out of the company."
     category: document
     significance: major
     entities:
@@ -471,7 +471,19 @@ claims:
 
 Gerb asks whether any of Lockheed's alleged exotic work, such as anti-gravity or strange propulsion methods, can be confirmed, and follows one line through the company's corporate ancestry. In 1955 physicist [[Lou Whitten]] was recruited by [[George Trimble]], vice president for aviation and advanced propulsion systems at the Glenn L. Martin Company, into its Research Institute for Advanced Studies (RIAS), to help develop anti-gravity. The Glenn L. Martin Company became [[Martin Marietta]], which merged with Lockheed in 1995. In 2013 Whitten said the team had discovered techniques to harness anti-gravity, testing several ideas including an isotope of bismuth, though he did not expand on it. Gerb says journal evidence proves the research took place, and calls the anti-gravity rabbit hole from 1955 onward a subject for another video.
 
-He then returns to the 1998 Haisch and Puthoff paper on zero-point energy, which he explains as the lowest possible energy of a quantized field, the minimum that the vacuum's never-ending fluctuations give every field, and "pretty breakthrough stuff". In 2017 inventor [[Salvatore Pais]] and the Navy were awarded a patent for a similar concept: a triangular craft using specific frequencies to interact with the quantum vacuum and generate anti-gravitic effects.
+He then returns to the 1998 Haisch and Puthoff paper on zero-point energy, which he explains as the lowest possible energy of a quantized field, the minimum that the vacuum's never-ending fluctuations give every field, and "pretty breakthrough stuff". Gerb says that in 2017 inventor [[Salvatore Pais]] and the Navy were awarded a patent for a similar concept: a triangular craft using specific frequencies to interact with the quantum vacuum and generate anti-gravitic effects. The patent, [[Craft Using an Inertial Mass Reduction Device]], was published in 2017 but granted on 4 December 2018, and the Puthoff paper it cites is his own 2002 paper on the "polarizable vacuum", not the paper with Haisch.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said, as fact, that the patent was awarded in 2017. The patent (US 10,144,532 B2) was filed in April 2016, published in November 2017 and granted in December 2018.
+
+::wiki-document
+---
+name: "Craft Using an Inertial Mass Reduction Device"
+page: 1
+region: [0.08, 0.47]
+caption: "The patent's front-page details: filed 28 April 2016, first published 2 November 2017, granted 4 December 2018, and among its references Puthoff's 2002 \"Polarizable-Vacuum (PV) Approach to General Relativity\"."
+---
+::
 
 The last strand is [[Ron Blackburn]], a retired lieutenant colonel of Lockheed Martin Skunk Works and co-founder of an ATIP group at [[BDM International]]. On 22 August 1998, according to the video, he was awarded a patent for technology increasing a moving vehicle's aerodynamic and hydrodynamic efficiency, including a sketch of a disc. Years later he said on a podcast that he had reverse-engineered a way to eliminate sonic booms at high speed by studying videos of disc-shaped craft he had access to. Gerb notes that this matches two of the UAP observables described by [[Luis Elizondo]]: trans-medium travel and supersonic speed without a sonic boom.
 
@@ -539,7 +551,19 @@ root:
 
 Because this is, as Gerb puts it, a UAP Gerb video, he turns to the documents. The first is from the Blue Book era: a 1953 sighting in which Lockheed test pilots and ground crew watched a flying disc with anomalous acceleration characteristics, three of the men swearing to it as testimony. The case was submitted to [[Project Blue Book]] but, curiously, was never listed again.
 
-The second is an audit. Gerb recalls the passage in the [[Wilson-Davis Memo]] in which the watch committee of the black crash retrieval and reverse-engineering program tells Admiral Wilson they were almost outed by an audit. On 24 July 1986, [[Frank Conahan|Frank C. Conahan]], director of the General Accounting Office's National Security and International Affairs Division, testified before a subcommittee on oversight and investigations that Lockheed had a poor control system for classified special access documents and no oversight from the DoD program office, and that the Defense Investigative Service had not been allowed to carry out its semiannual inspections of the contract in question. An inventory of 40,000 documents turned up 1,460 discrepancies; an estimated 46 documents had been destroyed and 17 transferred out of the company and never found. Gerb considers it "extremely suspicious", and a likely candidate for the audit that led the watch committee to reorganize SAP status in the 1990s to hide itself better.
+The second is an audit. Gerb recalls the passage in the [[Wilson-Davis Memo]] in which the watch committee of the black crash retrieval and reverse-engineering program tells Admiral Wilson they were almost outed by an audit. On 24 July 1986, according to Gerb, [[Frank Conahan|Frank C. Conahan]], director of the General Accounting Office's National Security and International Affairs Division, testified before a subcommittee on oversight and investigations that Lockheed had a poor control system for classified special access documents and no oversight from the DoD program office, and that the Defense Investigative Service had not been allowed to carry out its semiannual inspections of the contract in question. (The GAO report that reprints the testimony credits it to Associate Director Martin M. Ferber; Conahan signed the report's covering letter.) An inventory of 40,000 documents turned up 1,460 discrepancies. Gerb says an estimated 46 documents were destroyed and 17 transferred out of the company and never found; the report lists both groups among the 224 discrepancies Lockheed reported resolved, the destructions with receipts reportedly on file. Gerb considers it "extremely suspicious", and a likely candidate for the audit that led the watch committee to reorganize SAP status in the 1990s to hide itself better.
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions stated as fact that Conahan testified and that the 46 destroyed and 17 transferred documents were never found. Both come from Gerb; the report (GAO/NSIAD-86-191, pages 6, 8 and 9) names Ferber as the witness and counts those documents among the resolved cases.
+
+::wiki-document
+---
+name: "GAO Report on Special Access Contracts (1986)"
+page: 8
+region: [0.61, 0.93]
+caption: "GAO's July 1986 testimony as reprinted in the August report: Lockheed reported 1,460 discrepancies among about 40,000 secret and top secret items, and of the 235 it had investigated, 224 documents were accounted for and 11 unresolved."
+---
+::
 
 Two later statements, Gerb argues, show that Lockheed had a hand in special access programs above even DoD oversight. In June 2004, former Assistant Secretary of Housing and Urban Development [[Catherine Austin Fitts]] wrote "The Black Budget of the United States", arguing that a large proportion of the nation's wealth was being illegally diverted into secret, unaccountable channels to support clandestine domestic military R&D. She said Lockheed Martin Information Systems, then one of the IBM subcontractors hired by the Pentagon to manage systems that failed a GAO audit, handled Department of Justice systems and may have data on siphoned DoD funds. And in 2000, Commander [[Will Miller]], the same Miller who appears in the Wilson-Davis memo, told attorney Peter Gersten that senior officials such as a DIA director are isolated from UAP knowledge: the "keepers of the secrets", he said, reside in DoD middle management and in contractors like [[SAIC]], [[Boeing]] and Lockheed, the comptrollers who monitor the flow of money to certain special access programs.
 
@@ -607,7 +631,11 @@ entries:
 - Bernard Haisch said in 2018 that four related unacknowledged programs tracing to a 1947 Truman memorandum were housed in contractors including Lockheed, TRW, Raytheon and the Aerospace Corporation, with budgets "in the $10 billion range and up", and that AATIP was denied access to the crash retrieval program.
 - Edgar Fouché said Lockheed-contracted efforts reverse-engineered triangular craft at a Defense Advanced Research Center beneath Groom Lake; his posting to Detachment 3, AFFTC, is confirmed.
 - Anti-gravity research at the Glenn L. Martin Company's RIAS from 1955, a predecessor of Lockheed Martin, is supported by journal evidence, according to the video.
-- A 1986 GAO audit found 1,460 discrepancies among 40,000 Lockheed classified documents, no DoD program-office oversight of certain special access contracts, 46 documents destroyed and 17 transferred out and never recovered; Gerb links it to the audit in the Wilson-Davis memo.
+- A 1986 GAO audit found 1,460 discrepancies among 40,000 Lockheed classified documents, no DoD program-office oversight of certain special access contracts, and 46 documents destroyed and 17 transferred out (cases Lockheed reported as resolved, though Gerb says the 17 were never found); Gerb links it to the audit in the Wilson-Davis memo.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said the 46 and 17 documents were never recovered. The GAO report (pages 8 and 9) lists them among the 224 resolved cases.
+
 - DoD documents show $80 million planned for an Aurora program in fiscal 1986 and $2.3 billion in 1987; Nick Cook saw a triangular "Astra" on the Skunk Works lineage chart; and the MoD's Project Condign lists the Calvine photo as "Astra / Aurora photos."
 
 ## Sources
@@ -618,7 +646,8 @@ entries:
 
 - **People**: [[Ben Rich]], [[Don Phillips]], [[Boyd Bushman]], [[Bernard Haisch]], [[Hal Puthoff]], [[Edgar Fouche]], [[Harry Reid]], [[David Grusch]], [[Gary Nolan]], [[Jan Harzan]], [[John B. Alexander]], [[Linda Moulton Howe]], [[Nick Cook]], [[Jack Gordon]], [[Lou Whitten]], [[George Trimble]], [[Ron Blackburn]], [[Salvatore Pais]], [[Will Miller]], [[Catherine Austin Fitts]], [[Frank Conahan]], [[Donald Rice]], [[John Greenewald]], [[Mark McCandlish]], [[Steven Greer]], [[Bob Lazar]], [[Luis Elizondo]], [[Wernher von Braun]], [[Harry Truman]]
 - **Organizations**: [[Lockheed Martin]], [[Lockheed Martin Skunk Works]], [[Advanced Technology Center (ATC)]], [[Martin Marietta]], [[Battelle Memorial Institute]], [[CIA]], [[BDM International]], [[MUFON]], [[Disclosure Project]], [[The Black Vault]], [[TRW]], [[Raytheon]], [[Aerospace Corporation]], [[SAIC]], [[Boeing]], [[Sandia National Laboratories]], [[Lawrence Livermore National Laboratory]]
-- **Concepts**: [[Zero Point Energy]], [[TR-3B]], [[Special Access Programs (SAPs)]], [[Wilson-Davis Memo]]
+- **Concepts**: [[Zero Point Energy]], [[TR-3B]], [[Special Access Programs (SAPs)]]
 - **Operations**: [[Aurora Program]], [[AATIP (Advanced Aerospace Threat Identification Program)]], [[Project Blue Book]], [[Project Condign]]
 - **Locations**: [[Area 51]], [[Edwards Air Force Base]], [[Palmdale, California]], [[UCLA (University of California, Los Angeles)]]
+- **Documents**: [[Wilson-Davis Memo]], [[Craft Using an Inertial Mass Reduction Device]], [[GAO Report on Special Access Contracts (1986)]]
 - **Events**: [[Calvine UFO Photo]], [[Belgian UFO Wave]], [[Roswell Crash]], [[1953 Kingman, Arizona Crash Retrieval]]

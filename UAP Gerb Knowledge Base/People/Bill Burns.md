@@ -22,6 +22,13 @@ Several people saw the manuscript before Corso died, including Colonel [[John B.
 
 Gerb also notes the book's too-perfect account of [[Roscoe H. Hillenkoetter|Roscoe Hillenkoetter]] and [[Majestic 12]].
 
+::wiki-document
+---
+name: "The Day After Roswell"
+caption: "The 1997 book Birnes wrote with Philip J. Corso, published by Pocket Books."
+---
+::
+
 ## Alleged Creative Liberties
 
 Corso allegedly had only 24 hours to edit *The Day After Roswell*, which left no oversight of the creative liberties in it. Gerb asks why the subject of a non-fiction book was stripped of all creative control over it. For anyone judging whether Corso is credible, he treats the difference between the two texts as the key: the manuscript is Corso's unfiltered account, while the book carries an unknown amount of dramatization that, in Gerb's view, may be Birnes's. Most criticism of Corso, including Stanton Friedman's, is aimed at the book.

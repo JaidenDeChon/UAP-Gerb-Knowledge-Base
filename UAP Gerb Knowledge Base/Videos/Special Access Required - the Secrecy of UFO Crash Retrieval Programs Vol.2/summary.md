@@ -99,12 +99,13 @@ events:
       - "Harry Truman"
       - "Vannevar Bush"
   - date: "1948"
-    title: "Project Sign and the destroyed interplanetary memo"
+    title: "Project Sign and the Estimate of the Situation"
     cue: 7743
-    summary: "The Air Force's first official UFO investigation, Project Sign, began in 1948. Captain Edward J. Ruppelt later wrote that he saw a 1948 Sign memo concluding UFOs were of interplanetary origin, and that General Hoyt Vandenberg ordered it destroyed."
+    summary: "The Air Force's first official UFO investigation, Project Sign, began in 1948. Captain Edward J. Ruppelt later wrote that Sign's 1948 Estimate of the Situation concluded UFOs were interplanetary, that General Hoyt Vandenberg rejected it for lack of proof, and that it was later burned, though he saw one of a few copies kept. Gerb calls it a memo and says Vandenberg ordered it destroyed."
     category: program
     significance: notable
     entities:
+      - "Project Sign Estimate of the Situation (1948)"
       - "Project Sign"
       - "Edward J. Ruppelt"
       - "Hoyt Vandenberg"
@@ -303,7 +304,7 @@ events:
   - date: "2010"
     title: "Kona Blue proposed as a DHS special access program"
     cue: 3057
-    summary: "The video dates Kona Blue, a proposed Department of Homeland Security special access program, to 2010. It was meant to let Lockheed Martin pass UFO materials to AAWSAP, and Gerb uses its two-word name as an example of how a SAP nickname works."
+    summary: "The video dates Kona Blue, a proposed Department of Homeland Security special access program, to 2010; DHS's declassified records show it was approved as a prospective SAP on 11 July 2011. It was meant to let Lockheed Martin pass UFO materials to AAWSAP, and Gerb uses its two-word name as an example of how a SAP nickname works."
     category: program
     significance: minor
     entities:
@@ -437,7 +438,24 @@ The video gives an extended breakdown of the [[Special Access Programs (SAPs)|SA
 
 The term "special access program" was first acknowledged in the 1980s; before that, the equivalents were "black programs," such as the early NRO and Lockheed Skunk Works stealth aircraft. Today SAPs are governed chiefly by Executive Order 13526, which defines a SAP as a program for a specific class of classified information that imposes safeguarding and access requirements beyond those normally required at the same classification level. The intelligence community runs its own equivalent, controlled access programs (CAPs), and the Department of Energy runs its own SAPs under the Atomic Energy Act. Gerb clears up two misconceptions: SAPs are not a way to hide money, and they are not a classification level above top secret. They use the ordinary levels, with tighter access. Well-known examples include the F-117A Nighthawk, B-21 Raider, RQ-180 and Yellow Fruit. Access requires a need-to-know determined by an access approval authority, and read-ins are kept to the minimum needed regardless of rank. Gerb says he knows of a legacy SAP kept so small that a senior scientist also did account management and an industrial security professional also did janitorial work, so that no one else had to be read in.
 
-SAPs nest into umbrellas, compartments and sub-compartments, each grouping similar critical program information. Gerb's examples from Part One are the Polaris submarine program, which housed hidden programs including Sand Dollar, and Yellow Fruit, which housed several classified operations. Names hide information too. A SAP is known by an unclassified two-word nickname, its program identifier (PID), such as Yellow Fruit or [[Kona Blue]], to which the SAP central office may add a classified codeword and control markings such as NOFORN. His example marking is "TS SAR HANGAR BULLY WAIVED": top secret, special access required, the PID, and a waived control. He says whistleblowers have sworn before Congress that legacy SAPs rotate names, possibly monthly, to help trace leaks.
+::wiki-document
+---
+name: "Executive Order 13526"
+page: 23
+region: [0.87, 0.95]
+caption: "The order's definition, section 6.1 (oo): a special access program imposes safeguarding and access requirements beyond those normally required for information at the same classification level."
+---
+::
+
+SAPs nest into umbrellas, compartments and sub-compartments, each grouping similar critical program information. Gerb's examples from Part One are the Polaris submarine program, which housed hidden programs including Sand Dollar, and Yellow Fruit, which housed several classified operations. Names hide information too. A SAP is known by an unclassified two-word nickname, its program identifier (PID), such as Yellow Fruit or [[Kona Blue]], to which the SAP central office may add a classified codeword and control markings such as NOFORN. His example marking is "TS SAR HANGAR BULLY WAIVED": top secret, special access required, the PID, and a waived control. A second example, shown on screen, is the Kona Blue marking with its NOFORN control; "TOP SECRET//KONA BLUE//NOFORN" appears, struck out, across the declassified [[Kona Blue Documents]]. He says whistleblowers have sworn before Congress that legacy SAPs rotate names, possibly monthly, to help trace leaks.
+
+::wiki-document
+---
+name: "Kona Blue Documents"
+page: 2
+caption: "The title slide of the DHS Kona Blue deck, with the struck-out TOP SECRET//KONA BLUE//NOFORN banner and its \"unacknowledged, waived\" prospective SAP designation."
+---
+::
 
 ### Three types
 
@@ -604,7 +622,19 @@ He links this to [[Hidden Wing]] "Witness Ed," a lieutenant colonel in Air Force
 
 ## Department of Energy SAPs
 
-Gerb argues DOE SAPs are harder still to crack, because DOE's classification authority comes both from Executive Order 13526 and, separately, from the [[Atomic Energy Act of 1954]], a statute not subject to unilateral presidential declassification. Restricted Data, Formerly Restricted Data and a broad reading of "special nuclear material" (Section 51 of the Act: anything giving off "a sizable amount of atomic energy") have, Grusch says, been used to "transclassify" non-human material as nuclear secrets. A DOE SAP can follow DoD rules or DOE's own statutory system, and the second route lets legacy elements in DOE and the [[National Nuclear Security Administration]] hide their work as nuclear secrets. Gerb says the Department of Energy is "baked into every single layer" of the pyramid. Witness Ed described DOE involvement at every level of the Hidden Wing, from daily operations at the Air Force Test Center on the 412th Test Wing up to Air Force acquisition. He promises a dedicated DOE investigation.
+Gerb argues DOE SAPs are harder still to crack, because DOE's classification authority comes both from Executive Order 13526 and, separately, from the [[Atomic Energy Act of 1954]], a statute not subject to unilateral presidential declassification. Restricted Data, Formerly Restricted Data and a broad reading of "special nuclear material" have, Grusch says, been used to "transclassify" non-human material as nuclear secrets. In the clip Gerb plays, Grusch paraphrases Section 51 of the Act as covering "anything that gives off a sizable amount of atomic energy"; the 1954 text lets the Commission add material it finds "capable of releasing substantial quantities of atomic energy", with the President's written assent. A DOE SAP can follow DoD rules or DOE's own statutory system, and the second route lets legacy elements in DOE and the [[National Nuclear Security Administration]] hide their work as nuclear secrets. Gerb says the Department of Energy is "baked into every single layer" of the pyramid. Witness Ed described DOE involvement at every level of the Hidden Wing, from daily operations at the Air Force Test Center on the 412th Test Wing up to Air Force acquisition. He promises a dedicated DOE investigation.
+
+> [!edit] Attribution clarified 17 October 2026
+> This paragraph used to give "a sizable amount of atomic energy" as the wording of Section 51. It is Grusch's paraphrase; the Act says "capable of releasing substantial quantities of atomic energy".
+
+::wiki-document
+---
+name: "Atomic Energy Act of 1954"
+page: 11
+region: [0.62, 0.83]
+caption: "Section 51 as enacted: the Commission may declare other material special nuclear material if it finds the material \"capable of releasing substantial quantities of atomic energy\" and the President assents in writing."
+---
+::
 
 ## Program Protection Agencies
 
@@ -636,7 +666,17 @@ The budget of the Department of Energy's Office of Intelligence and Counterintel
 
 ## Narrative Control and Disinformation
 
-Gerb treats disinformation as the onion's surface layer, used since 1947 to stigmatize the subject and keep the public and lawmakers confused. The official lineage runs from [[Project Sign]] (1948) through [[Project Grudge]] (1949-1951) to [[Project Blue Book]] (1952-1969). Captain [[Edward J. Ruppelt]] wrote that a 1948 Sign memo concluding UFOs were interplanetary was ordered destroyed by General [[Hoyt Vandenberg]], "one of the original accused members" of MJ-12. A 1952 Ruppelt film briefing, *Flying Saucer Talk* (AF-ATIC-film 0352), which Representative [[Eric Burlison]] has named, is held at [[MIT Lincoln Laboratory]], an FFRDC descended from Vannevar Bush's MIT Radiation Laboratory. Gerb asks why it was never handed over to the National Archives. The schism came with the CIA's 1953 [[Robertson Panel]], which he says was given a mandate in advance to play down public concern. The same playbook ran through the 1969 [[Condon Committee]], which [[J. Allen Hynek]] said ignored key evidence, and through [[AARO]].
+Gerb treats disinformation as the onion's surface layer, used since 1947 to stigmatize the subject and keep the public and lawmakers confused. The official lineage runs from [[Project Sign]] (1948) through [[Project Grudge]] (1949-1951) to [[Project Blue Book]] (1952-1969). Gerb cites Captain [[Edward J. Ruppelt]]'s 1956 book for a 1948 Sign "memo" concluding that UFOs were of "interplanetary origin", which he says General [[Hoyt Vandenberg]], "one of the original accused members" of MJ-12, ordered destroyed. Ruppelt calls the document Sign's Top Secret [[Project Sign Estimate of the Situation (1948)|Estimate of the Situation]]. He writes that Vandenberg rejected it because it "lacked proof" and that it was later declassified and burned, with a few copies kept, but he doesn't say who ordered the burning. No copy has been made public. A 1952 Ruppelt film briefing, *Flying Saucer Talk* (AF-ATIC-film 0352), which Representative [[Eric Burlison]] has named, is held at [[MIT Lincoln Laboratory]], an FFRDC descended from Vannevar Bush's MIT Radiation Laboratory. Gerb asks why it was never handed over to the National Archives. The schism came with the CIA's 1953 [[Robertson Panel]], which he says was given a mandate in advance to play down public concern. The same playbook ran through the 1969 [[Condon Committee]], which [[J. Allen Hynek]] said ignored key evidence, and through [[AARO]].
+
+> [!edit] Corrected 16 October 2026
+> This paragraph, and the 1948 timeline entry, used to say that Ruppelt wrote that Vandenberg ordered a 1948 Sign memo destroyed. That is Gerb's reading. Ruppelt's book calls the document an Estimate of the Situation and says Vandenberg rejected it, without saying who ordered the copies burned.
+
+::wiki-document
+---
+name: "Project Sign Estimate of the Situation (1948)"
+caption: "Project Sign's Top Secret Estimate of the Situation of 1948, known from Edward Ruppelt's account; no copy has been made public."
+---
+::
 
 ### AARO and Yankee Blue
 
@@ -798,5 +838,6 @@ entries:
 - **People**: [[David Grusch]], [[Luis Elizondo]], [[James Clapper]], [[Sean Kirkpatrick]], [[Thomas Wilson]], [[Bill Perry]], [[John Deutch]], [[Terry Phillips]], [[Ronald S. Moultrie]], [[Edward C. Aldridge]], [[Peter Highnam]], [[David M. Taylor]], [[Jay Stratton]], [[Matthew Sullivan]], [[Paul Kaminski]], [[William E. MacLure]], [[Lee M. Russ]], [[Matt Brown]], [[Marshal Ward]], [[Doug Wolfe]], [[Susan Gough]], [[Steven Greenstreet]], [[Tom DeLonge]], [[John Podesta]], [[Hal Puthoff]], [[Eric Burlison]], [[Donna D. Shipton]], [[Dawn Meyerriecks]], [[Harry Reid]], [[Dick Cheney]], [[Edward J. Ruppelt]], [[Hoyt Vandenberg]], [[J. Allen Hynek]], [[Michael Herrera]], [[Dylan Borland]], [[Chris Mellon]], [[Steven Greer]], [[John P. Craven]], [[Vannevar Bush]]
 - **Organizations**: [[National Security Council]], [[SAPOC (Special Access Program Oversight Committee)]], [[AARO]], [[DARPA]], [[DARPA Security and Intelligence Directorate (SID)]], [[System High]], [[Air Force Office of Special Investigations]], [[Air Force Life Cycle Management Center (AFLCMC)]], [[Air Force Materiel Command (AFMC)]], [[Office of Intelligence and Counterintelligence]], [[Office of the Under Secretary of Defense for Intelligence and Security (USDINS)]], [[National Nuclear Security Administration]], [[To The Stars Academy]], [[MITRE Corporation]], [[MIT Lincoln Laboratory]], [[Northrop Grumman]], [[Lockheed Martin]], [[E-Systems]], [[CIA Directorate of Science and Technology]], [[Majestic 12]], [[Project Sign]], [[Project Grudge]], [[Project Blue Book]], [[Condon Committee]]
 - **Locations**: [[Edwards Air Force Base]], [[Wright-Patterson Air Force Base]], [[Oak Ridge National Laboratory]], [[Sandia National Laboratories]], [[Lawrence Livermore National Laboratory]]
-- **Concepts**: [[Special Access Programs (SAPs)]], [[Waived Unacknowledged Special Access Programs (USAPs)]], [[Content-Only Special Access Program]], [[Covert Action Program (50 U.S. Code § 3093)]], [[National Program Special Management Staff (NPMS)]], [[Bigot List]], [[Legacy Program Onion Model]], [[Manhattan Project 2.0]], [[Wilson-Davis Memo]], [[Watch Committee]], [[Atomic Energy Act of 1954]], [[Administrative Terrorism]], [[Independent Research and Development (IRAD)]], [[Robertson Panel]], [[Yankee Blue]], [[Hidden Wing]], [[Immaculate Constellation (IMCON)]], [[The Age of Disclosure]]
+- **Concepts**: [[Special Access Programs (SAPs)]], [[Waived Unacknowledged Special Access Programs (USAPs)]], [[Content-Only Special Access Program]], [[Covert Action Program (50 U.S. Code § 3093)]], [[National Program Special Management Staff (NPMS)]], [[Bigot List]], [[Legacy Program Onion Model]], [[Manhattan Project 2.0]], [[Watch Committee]], [[Administrative Terrorism]], [[Independent Research and Development (IRAD)]], [[Robertson Panel]], [[Yankee Blue]], [[Hidden Wing]], [[Immaculate Constellation (IMCON)]], [[The Age of Disclosure]]
+- **Documents**: [[Wilson-Davis Memo]], [[Atomic Energy Act of 1954]], [[Executive Order 10501]], [[Kona Blue Documents]], [[Project Sign Estimate of the Situation (1948)]]
 - **Operations**: [[AAWSAP]], [[AATIP (Advanced Aerospace Threat Identification Program)]], [[Kona Blue]], [[Yellow Fruit]], [[Project Sanddollar]]

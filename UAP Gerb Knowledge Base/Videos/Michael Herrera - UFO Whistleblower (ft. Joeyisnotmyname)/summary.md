@@ -418,6 +418,15 @@ claims:
 
 Gerb calls the [[AARO Historical Report Volume 1]] an "abomination", and says that is why many viewers are interested in Herrera again. The report all but names Herrera as an interviewee who testified that, on a 2009 humanitarian and security mission, he saw US Special Forces loading containers onto a large extraterrestrial spacecraft. Months before the report came out, Herrera had told Joey, with proof, that he had testified to AARO, directly to Dr. [[Sean Kirkpatrick]]. Joey found that vindicating.
 
+::wiki-document
+---
+name: "AARO Historical Report Volume 1"
+page: 29
+region: [0.56, 0.66]
+caption: "The report's unnamed account of a former U.S. service member who, on a 2009 humanitarian and security mission, encountered \"U.S. Special Forces\" loading containers onto a large extraterrestrial spacecraft."
+---
+::
+
 ::wiki-claim{video="6DyTfIV87Ck" video-title="Michael Herrera: UFO Whistleblower (ft. Joeyisnotmyname)"}
 ---
 caption: "AARO's summary of Herrera's testimony, a common misreading of another passage in the report, and the replies in the video."
@@ -525,6 +534,7 @@ entries:
 - **Organizations**: [[AARO]], [[31st Marine Expeditionary Unit]], [[DOPSR (Defense Office of Prepublication and Security Review)]], [[National Press Club]], [[Daily Mail]], [[Department of Energy]], [[NEST (Nuclear Emergency Support Team)]]
 - **Locations**: [[Indonesia]], [[Sumatra, Indonesia]], [[USS Denver]]
 - **Events**: [[2009 Sumatra Earthquake]], [[2009 Indonesia UFO Encounter (Herrera)]]
-- **Concepts**: [[AARO Historical Report Volume 1]], [[Dead Man Switch]], [[EMP-like Weaponry]], [[Crash Retrieval]], [[Psionic Abilities (P3)]], [[Wilson-Davis Memo]], [[Sentinels of Ether]], [[4D Chess on DOPSR]]
+- **Concepts**: [[Dead Man Switch]], [[EMP-like Weaponry]], [[Crash Retrieval]], [[Psionic Abilities (P3)]], [[Sentinels of Ether]], [[4D Chess on DOPSR]]
+- **Documents**: [[AARO Historical Report Volume 1]], [[Wilson-Davis Memo]]
 - **Operations**: [[AATIP (Advanced Aerospace Threat Identification Program)]], [[Project Blue Book]]
 - **Videos**: [[Videos/The Marines Who Got too Close to UFOs/summary|The Marines Who Got too Close to UFOs]], [[Videos/Michael Herrera - Insights into UAP Encounter and Black Program Insiders/summary|Michael Herrera - Insights into UAP Encounter and Black Program Insiders]]

@@ -22,6 +22,13 @@ In the Coyame incident, a hazmat-equipped team arrived in unmarked military heli
 
 Colonel [[Philip J. Corso]] mentions Fort Bliss in his book *The Day After Roswell*. According to Corso, debris and bodies from the 1947 [[Roswell Crash]] were shipped to Fort Bliss, Texas, which in his account made the base a historical transfer point for recovered non-human materials.
 
+::wiki-document
+---
+name: "The Day After Roswell"
+caption: "Corso's 1997 book with William J. Birnes, in which he says debris and bodies from Roswell were shipped to Fort Bliss."
+---
+::
+
 ### El Paso Intelligence Center (EPIC)
 
 Fort Bliss is also the home of the [[El Paso Intelligence Center]] (EPIC), which was established in 1974, the same year as the Coyame incident. EPIC coordinates intelligence gathering along the US-Mexico border and may have been involved in reconnaissance and intelligence on cross-border UAP incidents.

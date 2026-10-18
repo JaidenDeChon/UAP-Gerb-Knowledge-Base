@@ -11,6 +11,13 @@ Herbert Marshal Ward is a retired U.S. Air Force Major General. His final active
 
 According to the [[Wilson-Davis Memo]], Ward and Secretary of Defense [[Bill Perry]] advised Vice Admiral [[Thomas Wilson]] in 1997 to examine records held within the Office of the Under Secretary of Defense for Acquisition and Technology (OUSD(AT)) as part of Wilson's investigation into a crash retrieval and reverse engineering program. Both Ward and Perry reportedly told Wilson of a "special project records group not belonging to usual special access programs": a special subset of unacknowledged carve-outs and waived programs organized in 1994 under Perry's SAP reforms.
 
+::wiki-document
+---
+name: "Wilson-Davis Memo"
+caption: "The leaked 15-page notes, dated 16 October 2002, that purport to record Eric Davis's conversation with Vice Admiral Thomas Wilson about a contractor-run crash retrieval program."
+---
+::
+
 ## Role in UAP Programs
 
 UAP Gerb's *Special Access Required Vol.2* names Ward, along with General Dawn Dunlop, as a former director-level figure within the DoD Special Access Program Central Office (SAPCO) structure. It treats his documented role advising Wilson in 1997 as evidence that Ward had direct knowledge of the crash retrieval program described in the Wilson-Davis notes.

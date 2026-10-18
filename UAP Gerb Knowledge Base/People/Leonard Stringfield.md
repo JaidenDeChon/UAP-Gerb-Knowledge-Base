@@ -10,7 +10,7 @@ tags:
   - person
 ---
 
-Leonard H. Stringfield (1920–1994) was an American UFO researcher widely considered the pioneering investigator of UFO crash retrieval cases. Over several decades he collected firsthand witness testimony and published it in a series of *UFO Crash/Retrieval Status Reports* on alleged cases of downed non-human craft recovered by US military and government teams. His work made crash retrievals a distinct area of UFO research. Gerb calls the seven reports "a Bible of sorts" and the best work on crash retrieval operations by any investigator, and draws on them in more than twenty videos.
+Leonard H. Stringfield (1920–1994) was an American UFO researcher widely considered the pioneering investigator of UFO crash retrieval cases. Over several decades he collected firsthand witness testimony and published it in a series of *[[Stringfield Status Reports|UFO Crash/Retrieval Status Reports]]* on alleged cases of downed non-human craft recovered by US military and government teams. His work made crash retrievals a distinct area of UFO research. Gerb calls the seven reports "a Bible of sorts" and the best work on crash retrieval operations by any investigator, and draws on them in more than twenty videos.
 
 ## Career
 
@@ -275,6 +275,13 @@ Stringfield's status reports, published between 1978 and 1994, compiled testimon
 
 He collected and preserved witness testimony, often from sources who insisted on anonymity, and that method became the basis for the systematic investigation of crash retrieval claims that researchers still carry on.
 
+::wiki-document
+---
+name: "Stringfield Status Reports"
+caption: "Stringfield's seven crash-retrieval reports (1978 to 1994), which record what his informants told him, most of them identified only by initials or pseudonyms."
+---
+::
+
 ## The Blue Berets
 
 Stringfield documented at length an alleged elite rapid-reaction military unit called the [[Blue Berets]], described as a Special Forces team whose job was to respond to UFO crash retrievals. According to Stringfield's sources, the Blue Berets:
@@ -289,7 +296,10 @@ Between 1985 and 1987, a man named Jeff Morse contacted Stringfield and claimed 
 
 ## Investigation of the Kecksburg Case
 
-Stringfield worked closely with Pennsylvania researcher [[Stan Gordon]] on the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]], one of the most thoroughly documented alleged UAP retrieval cases. Over more than a decade he interviewed the main witnesses and analyzed the evidence, and he covered the case at length in his *UFO Crash Retrieval: The Inner Sanctum* status reports. He also questioned the volunteer fireman [[Jim Romansky]], who told him he knew Russian and that the markings on the object were not Russian.
+Stringfield worked closely with Pennsylvania researcher [[Stan Gordon]] on the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]], one of the most thoroughly documented alleged UAP retrieval cases. Over more than a decade he interviewed the main witnesses and analyzed the evidence, and he covered the case at length in his reports, above all *UFO Crash/Retrievals: The Inner Sanctum*, Status Report VI (1991). He also questioned the volunteer fireman [[Jim Romansky]], who told him he knew Russian and that the markings on the object were not Russian.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions referred to "*UFO Crash Retrieval: The Inner Sanctum* status reports", as if that were the series. *The Inner Sanctum* is the title of Status Report VI alone.
 
 ### Key Witness Interviews
 
@@ -339,6 +349,13 @@ In 1994 another person, codenamed JLD, made similar claims about the Kingman cra
 
 Stringfield wrote in 1994 that he had heard of the [[1974 Coyame, Mexico UFO Crash Retrieval|Chihuahua case]] in the late 1970s or early 1980s. He recalled only that a US military team had secretly crossed into Mexico to retrieve the object. He also said that several days before presenting "Retrievals of the Third Kind" at [[MUFON]] in 1978, he was informed "circuitously" by the [[CIA]] that it would be inadvisable to discuss crash information in Mexico or West Germany. When [[Elaine Douglas]] passed him the anonymously mailed [[Denb Report]] in 1993, he judged it "authoritatively written using correct military terminology" and, unlike a hoax, careful to separate hard evidence from speculation. Gerb treats this earlier, independent knowledge as one of the strongest points in the case's favour.
 
+::wiki-document
+---
+name: "Denb Report"
+caption: "The anonymous memo on the Chihuahua disc crash, dated 23 March 1992 and signed \"JS\", that Douglas passed to Stringfield in 1993."
+---
+::
+
 ## The Aztec Case
 
 Stringfield's reports also carried the [[Aztec UFO Crash and Recovery|1948 Aztec, New Mexico crash]]. His interest was revived in 1974 by [[Robert Spencer Carr]], who on 6 February 1982 finally named his Air Force source to him. "When Professor Carr named his source, I sat back dumbfounded," Stringfield wrote. He had been swayed toward seeing the case as a hoax by [[Bill Moore]]'s 1985 MUFON debunk, but [[William Steinman]] asked him that year to write the foreword to his 1986 book *UFO Crash at Aztec*, and Stringfield admitted there that he too had been taken in. By *Status Report V* (1989) he was writing of Aztec alongside Roswell and Kingman, and *Status Report VI* (1991) reproduced a report on "the crash at Farmington" from a new witness.
@@ -369,4 +386,4 @@ Researchers still build on Leonard Stringfield's careful record of crash retriev
 - [[Videos/UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2/summary|UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2]]
 - [[Videos/US Navy UFO Crash Retrieval & Reverse Engineering Programs/summary|US Navy UFO Crash Retrieval & Reverse Engineering Programs]]
 - [[Videos/UFO Legacy Programs - Northrop Grumman/summary|UFO Legacy Programs - Northrop Grumman]]
-- Leonard Stringfield, *UFO Crash Retrievals: The Inner Sanctum* series
+- Leonard Stringfield, [[Stringfield Status Reports|UFO Crash/Retrieval Status Reports]] I–VII (1978–1994)

@@ -9,12 +9,17 @@ Operation Bluefly is an unacknowledged US government program mentioned in the MO
 
 ## Relationship to Project Moondust
 
-Bluefly is described as a program related to [[Project Moon Dust]], which suggests the two had overlapping or complementary missions in UFO crash retrieval and the collection of aerospace objects. Bluefly's specific operational details remain classified or undisclosed. Its grouping with Moon Dust points to similar functions:
+The best-known official definition of Blue Fly is in the [[AFCIN Intelligence Team Personnel Memo (1961)]], an Air Force intelligence staff paper of 3 November 1961: "Operation Blue Fly has been established to facilitate expeditious delivery to FTD of Moon Dust or other items of great technical intelligence interest." The paper says an AFCIN standing operating procedure for Blue Fly operations, dated February 1960, provided for the participation of the [[USAF 1127th Field Activities Group]]. It calls Moon Dust and Blue Fly projects of the [[Air Force Foreign Technology Division]] (FTD). Along with the Air Force's UFO investigation program, these were the three peacetime projects in which the 1127th's field intelligence teams might be used "on a quick reaction basis to recover or perform field exploitation of unidentified flying objects, or known Soviet/Bloc aerospace vehicles, weapons systems, and/or residual components of such equipment". So Blue Fly was the delivery arm for what [[Project Moon Dust]] recovered. It got Moon Dust items and other technical intelligence finds to FTD at Wright-Patterson quickly.
 
-- Recovery of foreign or anomalous aerospace vehicles
-- Coordination with intelligence agencies for material analysis
-- Field operations for crash site assessment and retrieval
-- Technical evaluation of recovered materials
+> [!edit] Corrected 16 October 2026
+> Earlier versions said Bluefly's operational details remained classified or undisclosed, and inferred its functions (recovery, crash-site operations, technical evaluation) only from its grouping with Moon Dust. The 1961 AFCIN memo defines Blue Fly's role, and this paragraph now gives that definition.
+
+::wiki-document
+---
+name: "AFCIN Intelligence Team Personnel Memo (1961)"
+caption: "The Air Force intelligence staff paper of 3 November 1961 on staffing AFCIN's field intelligence teams, which defines Operation Blue Fly as the means of delivering Moon Dust items quickly to FTD."
+---
+::
 
 ## Unacknowledged Program Status
 

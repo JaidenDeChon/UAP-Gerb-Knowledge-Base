@@ -229,6 +229,15 @@ Gerb opens on the terminology. In the US government's usage, "UFO" and "UAP" cov
 
 The video's paper trail begins with refusals. In late 2023 the Space Force, successor to the Air Force's space division, gave John Greenewald a "decisive and final" answer to his many requests on fast and slow walkers: a full denial under FOIA exemption 1, which covers information kept secret under an executive order in the interest of national defense or foreign policy. Ten years earlier, US Northern Command, which oversees NORAD, had answered a similar Greenewald request by saying fast walker documentation is "currently and properly classified" under [[Executive Order 13526]].
 
+::wiki-document
+---
+name: "Executive Order 13526"
+page: 3
+region: [0.13, 0.43]
+caption: "Section 1.4 of the order NORTHCOM cited: information may be classified only if its disclosure could damage the national security and it falls in one of eight categories, such as military plans, weapons systems or operations."
+---
+::
+
 The refusals go back further still. *Clear Intent: The Government Coverup of the UFO Experience* by Barry J. Greenwood and Lawrence Fawcett, which also reproduces a NORAD UAP reporting sheet, records NORAD's 1979 reply to a request for its UAP tracking data: a $155,000 estimate, which Gerb reckons at well over half a million dollars today. Three years later NORAD refused to waive the fees.
 
 ::wiki-compare{video="Tubx-CaAaOs" video-title="FASTWALKERS – UFOs Outside Earth"}
@@ -278,6 +287,13 @@ NORAD's tracking of UFOs goes back further. On 6 January 1967, J. Allen Hynek, s
 
 Gerb calls this the point where the rabbit hole "gets wild". Among the Clinton campaign emails that WikiLeaks published is a [[Bob Fish Email to John Podesta|March 2015 message]] to John Podesta from Bob Fish, program manager in the 1980s and 1990s for several highly classified government advanced communications projects serving the White House and several executive-branch intelligence agencies. Fish, Gerb notes in passing, was vetted by Ross Coulthart. Fish opens with a direct claim: one of the government programs that collects hard data on UFOs is the USAF DSP satellite program.
 
+::wiki-document
+---
+name: "Bob Fish Email to John Podesta"
+caption: "Bob Fish's email to John Podesta of March 2015, published by WikiLeaks in 2016, naming the USAF DSP satellite program as a collector of hard data on UFOs."
+---
+::
+
 Gerb quotes the body of the email in full. Fish was never briefed into DSP, but he met its people as the US prepared for [[Operation Desert Shield]] and [[Operation Desert Storm]], lunching with them in the cafeteria of a highly classified organization in [[El Segundo, California]] that nobody could enter without a [[TSSCI Clearance|TS/SCI clearance]]; this, he wrote, was no lightweight group of gossipers. One day a member of the group, excited, said they had just picked up a fast walker. It had come from deep space, from behind the satellite, and passed the DSP satellite "pretty closely" on its way to Earth. It was very fast, and it made a 30-degree course correction. That, to Fish, ruled out the ballistic free-fall re-entry of a meteorite: the object "was under some sort of control", though there was no way to tell whether it was manned or robotic.
 
 ::wiki-chain{video="Tubx-CaAaOs" video-title="FASTWALKERS – UFOs Outside Earth"}
@@ -313,7 +329,15 @@ One of them, the old blog *Deb's UFO Research*, illustrates the event in three i
 
 ## The 1976 Tehran printout
 
-The second case is one of Gerb's favourite encounters, the [[1976 Tehran UFO Incident|1976 Tehran overflight]], which he introduces with a clip of an Iranian pilot describing the object jumping ten degrees to his right in an instant. The fast walker link comes from Lee Graham and Ron Regehr, satellite sensor engineers at Aerojet in California. They say a DSP computer printout from the time of the overflight shows the satellite detecting an "anomalous object" in Iranian airspace. After a long, fruitless search that turned up only a declassified paper Regehr often cites, "Now You See It, Now You Don't" by USAF Captain Henry S. Shields, Gerb began to follow the evidence back through dead web pages.
+The second case is one of Gerb's favourite encounters, the [[1976 Tehran UFO Incident|1976 Tehran overflight]], which he introduces with a clip of an Iranian pilot describing the object jumping ten degrees to his right in an instant. (The official record of the night is the [[DIA Tehran UFO Report (1976)|defense attaché's report to the DIA]], which Gerb doesn't show.) The fast walker link comes from Lee Graham and Ron Regehr, satellite sensor engineers at Aerojet in California. They say a DSP computer printout from the time of the overflight shows the satellite detecting an "anomalous object" in Iranian airspace. After a long, fruitless search that turned up only a declassified paper Regehr often cites, [[Now You See It, Now You Don't|"Now You See It, Now You Don't"]] by USAF Captain Henry S. Shields, Gerb began to follow the evidence back through dead web pages.
+
+::wiki-document
+---
+name: "Now You See It, Now You Don't"
+page: 1
+caption: "The first page of Captain Shields's article on the Iranian F-4 crews' encounter: its preface, the calls to the command post, and the first F-4 losing all instrumentation at about 25 NM."
+---
+::
 
 ::wiki-chain{video="Tubx-CaAaOs" video-title="FASTWALKERS – UFOs Outside Earth"}
 ---
@@ -512,6 +536,7 @@ entries:
 - **People**: [[John Greenewald]], [[Barry J. Greenwood]], [[Lawrence Fawcett]], [[Richard P. Osedacz]], [[Bradley R. Townsend]], [[J. Allen Hynek]], [[Bob Fish]], [[John Podesta]], [[Ross Coulthart]], [[Tim Schwartz]], [[Joe Stefula]], [[Lee Graham]], [[Ron Regehr]], [[Brad Sparks]], [[Jacques Vallee]], [[Kit Green]], [[Hal Puthoff]], [[Eric Davis]], [[Kristen B. Zimmerman]], [[David Grusch]]
 - **Organizations**: [[NORAD]], [[US Northern Command]], [[US Space Force]], [[Defense Support Program (DSP)]], [[Air Force Foreign Technology Division]], [[Air Force Institute of Technology]], [[Aerospace Corporation]], [[Aerojet]], [[Lockheed Martin]], [[Northrop Grumman]], [[WikiLeaks]], [[The Black Vault]], [[Citizens Against UFO Secrecy (CAUS)]]
 - **Locations**: [[Goddard Space Flight Center]], [[Wright-Patterson Air Force Base]], [[El Segundo, California]], [[Long Beach, California]], [[Tehran, Iran]]
-- **Concepts**: [[Fast Walkers]], [[Slow Walkers]], [[Executive Order 13526]], [[FOIA Evasion via Terminology]], [[DSP Infrared Detection]], [[Hazard Support System]], [[TSSCI Clearance]], [[Strategic Reconnaissance]], [[Spacebound UAP]]
+- **Concepts**: [[Fast Walkers]], [[Slow Walkers]], [[FOIA Evasion via Terminology]], [[DSP Infrared Detection]], [[Hazard Support System]], [[TSSCI Clearance]], [[Strategic Reconnaissance]], [[Spacebound UAP]]
+- **Documents**: [[Executive Order 13526]], [[Bob Fish Email to John Podesta]], [[DIA Tehran UFO Report (1976)]], [[Now You See It, Now You Don't]]
 - **Operations**: [[Project Blue Book]], [[Operation Desert Shield]], [[Operation Desert Storm]]
-- **Events**: [[1976 Tehran UFO Incident]], [[1984 DSP Indian Ocean Detection]], [[Bob Fish Email to John Podesta]]
+- **Events**: [[1976 Tehran UFO Incident]], [[1984 DSP Indian Ocean Detection]]

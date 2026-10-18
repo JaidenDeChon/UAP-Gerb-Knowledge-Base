@@ -23,7 +23,19 @@ In 1949, twelve years before nitinol's official discovery, Wright-Patterson Air 
 
 UAP researchers point to a sequence of events: the Roswell crash in July 1947, the transport of the material to Wright-Patterson, Wright-Patterson's contract with Battelle for nitinol analysis in 1949, and the official "discovery" of nitinol in 1961. They cite it as evidence that nitinol was first identified by analyzing crash-retrieved non-human material, and not through indigenous metallurgical research.
 
-Battelle's 1955 Special Report 14, the comprehensive ATIC analysis of 3,200 UFO sightings, concluded that no physical matter had ever been recovered from any UFO sighting. UAP researchers argue that this conclusion was a deliberate falsehood, given that Battelle's own 1949 contract was almost certainly performed on recovered material.
+ATIC's 1955 [[Project Blue Book Special Report No. 14]], a statistical analysis of 3,201 UFO cases prepared with an outside panel that Gerb identifies as Battelle, emphasized that there was "a complete lack of any valid evidence consisting of physical matter" in any case it studied. UAP researchers argue that this conclusion was a deliberate falsehood, given that Battelle's own 1949 contract was almost certainly performed on recovered material.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions called it Battelle's report, an analysis of 3,200 sightings that concluded no physical matter had ever been recovered from any UFO. The report is ATIC's, names no contractor, covers 3,201 cases, and speaks only of the cases it studied.
+
+::wiki-document
+---
+name: "Project Blue Book Special Report No. 14"
+page: 10
+region: [0.40, 0.54]
+caption: "The report's closing judgment: \"It is emphasized that there has been a complete lack of any valid evidence of physical matter in any case of a reported unidentified aerial object.\""
+---
+::
 
 The nitinol case also shows how the [[Atomic Energy Commission]]'s "restricted" classification standard let private contractors hold classified UAP-related research outside the reach of congressional oversight and standard SAP clearance frameworks. [[David Grusch]] cited this feature of the system in explaining how crash retrieval programs have been concealed.
 

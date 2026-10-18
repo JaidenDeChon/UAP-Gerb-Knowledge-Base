@@ -253,6 +253,7 @@ Gerb's last item is a LinkedIn post by one Anthony Miller about a reception afte
 
 - **People**: [[Sean Kirkpatrick]], [[Ronald S. Moultrie]], [[David Grusch]], [[Luis Elizondo]], [[Chris Mellon]], [[Hal Puthoff]], [[Eric Davis]], [[Harry Reid]], [[Ryan Graves]], [[David Fravor]], [[Ross Coulthart]], [[Susan Gough]], [[Jesse Marcel]], [[Carl Sagan]], [[Jonathan Weygandt]]
 - **Organizations**: [[AARO]], [[UAP Task Force]], [[Sand Corp]], [[Battelle Memorial Institute]], [[Oak Ridge National Laboratory]], [[Department of Defense]], [[Department of Energy]], [[SAPOC (Special Access Program Oversight Committee)]], [[NRO (National Reconnaissance Office)]], [[NGA]]
-- **Concepts**: [[Robertson Panel]], [[Special Access Programs (SAPs)]], [[Wilson-Davis Memo]], [[Atomic Energy Act of 1954]]
+- **Concepts**: [[Robertson Panel]], [[Special Access Programs (SAPs)]]
+- **Documents**: [[Wilson-Davis Memo]], [[Atomic Energy Act of 1954]], [[Schumer Amendment (NDAA)]]
 - **Operations**: [[Project Sign]], [[Project Grudge]], [[Project Blue Book]], [[AATIP (Advanced Aerospace Threat Identification Program)]], [[Project Moon Dust]], [[Manhattan Project]]
-- **Events**: [[Roswell Crash]], [[Schumer Amendment (NDAA)]]
+- **Events**: [[Roswell Crash]]

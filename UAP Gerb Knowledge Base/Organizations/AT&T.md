@@ -13,6 +13,13 @@ In 1949, President Harry Truman handed management of [[Sandia National Laborator
 
 The link to UAP programs comes from the alleged [[Majestic 12]] Eisenhower Briefing Document. It claims that material recovered from a UAP crash near [[El Indio, Texas]] on December 6, 1950, was taken to the Atomic Energy Commission's Sandia facility for study. If material from a non-human craft did reach Sandia in late 1950, AT&T would have been managing the facility at the time. The language of the 2024 National Defense Authorization Act (NDAA) specifically names the Atomic Energy Commission as a body historically used to misclassify and obscure UAP information.
 
+::wiki-document
+---
+name: "Eisenhower Briefing Document"
+caption: "The disputed MJ-12 briefing paper dated 18 November 1952, which describes a 6 December 1950 impact between El Indio and Guerrero and says the remains went to the Atomic Energy Commission's facility at Sandia."
+---
+::
+
 ## Alleged NHI Technology Transfers
 
 Two redacted entries in [[Steven Greer]]'s Disclosure Project witness archive describe alleged ET/NHI technology transfers to AT&T:

@@ -112,6 +112,13 @@ In March 2015, weeks after leaving the White House to lead Hillary Clinton's cam
 
 Fish's email stated that "one of the government programs that collects hard data on unidentified flying objects is the USAF [[Defense Support Program (DSP)|DSP]] satellite program" and described a [[Fast Walkers|Fast Walker]] incident in which a DSP satellite detected an object entering from deep space that made a 30-degree course correction, indicating controlled flight.
 
+::wiki-document
+---
+name: "Bob Fish Email to John Podesta"
+caption: "Bob Fish's email to John Podesta of March 2015, published by WikiLeaks in 2016, naming the USAF DSP satellite program as a collector of hard data on UFOs."
+---
+::
+
 Fish was a cleared contractor with direct access to DSP personnel, and he put the claim on the record to one of the most senior political figures in the United States. Because the campaign kept the email and WikiLeaks later released it, it is one of the few documented cases of UAP-related information reaching the highest levels of US political leadership. Gerb returns to it in his video on the [[Peru UFO Crash Incident|1997 Peru crash]], where he argues that NRO-managed DSP satellites likely gave the retrieval team about an hour's warning.
 
 ## DeLonge's Message About General McCasland

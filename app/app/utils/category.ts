@@ -10,6 +10,7 @@ export const CATEGORY_VAR: Record<Category, string> = {
   Events: '--graph-cat-events',
   Locations: '--graph-cat-locations',
   Concepts: '--graph-cat-concepts',
+  Documents: '--graph-cat-documents',
   Videos: '--graph-cat-videos',
 }
 
@@ -23,6 +24,7 @@ export const CATEGORY_LABEL: Record<Category, string> = {
   Events: 'Events',
   Locations: 'Locations',
   Concepts: 'Concepts',
+  Documents: 'Documents',
   Videos: 'Videos',
 }
 
@@ -42,7 +44,7 @@ export const TIMELINE_TINT: Record<string, string> = {
   program: '--graph-cat-ops',
   person: '--graph-cat-people',
   organization: '--graph-cat-orgs',
-  document: '--graph-cat-concepts',
+  document: '--graph-cat-documents',
   policy: '--graph-cat-mocs',
 }
 

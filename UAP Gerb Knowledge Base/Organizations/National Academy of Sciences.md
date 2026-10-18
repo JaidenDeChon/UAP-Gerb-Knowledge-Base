@@ -11,6 +11,13 @@ The National Academy of Sciences (NAS) is a prestigious American scientific inst
 
 After the Condon Report was released, the NAS formally reviewed the committee's work. It approved the report's methodology, endorsed its conclusions, and agreed with Dr. [[Edward Condon]]'s recommendation that the Air Force and US government end all UFO investigation programs. The NAS gave this endorsement even though the report's own case analyses found 25–30% of the examined cases unexplained, a finding that Condon's summary left out.
 
+::wiki-document
+---
+name: "Condon Report"
+caption: "The University of Colorado's \"Scientific Study of Unidentified Flying Objects\", the report the National Academy of Sciences reviewed in 1969."
+---
+::
+
 The NAS review became the scientific establishment's seal of approval for dismissing UFO research as lacking scientific value. In effect, it closed off mainstream academic inquiry for decades.
 
 ## Sources

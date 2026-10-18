@@ -15,15 +15,38 @@ The panel was assembled amid the UAP Mass Wave of 1952–1954, a surge in public
 The panel reviewed selected Project Blue Book cases and concluded that while some sightings remained unexplained, there was no evidence that UFOs represented extraterrestrial visitors or advanced foreign technology. Its main recommendation, however, was a strategic one: the government should undertake a public campaign to reduce public interest in UFOs. Specifically, the panel recommended:
 
 - Public education programs to "debunk" UFO sightings and promote prosaic explanations
-- Monitoring and potentially controlling civilian UFO research groups
+- Keeping an eye on civilian UFO groups: the panel's comments name the "Civilian Flying Saucer Investigators" (Los Angeles) and the "Aerial Phenomena Research Organization (Wisconsin)" and say such organizations "should be watched" because of their potentially great influence on mass thinking if widespread sightings occurred. The page, faint in the scan, adds that the groups' apparent irresponsibility and possible use for subversive purposes should be kept in mind
+
+> [!edit] Corrected 17 October 2026
+> This item used to say the panel recommended monitoring and potentially controlling civilian UFO groups. The report (Durant's account of the panel's comments, "Unofficial Investigating Groups", scan pages 25 and 26) says only that such groups "should be watched"; it says nothing of controlling them, and the panel's formal report at Tab A does not mention them.
+
 - Using mass media, educators, and opinion leaders to reduce the "aura of mystery" surrounding UFOs
 - Stripping UFO reports of their special status to prevent public fascination
+
+::wiki-document
+---
+name: "Robertson Panel Report"
+page: 28
+caption: "The panel's recommendations: that national security agencies strip UFOs of \"the special status they have been given and the aura of mystery they have unfortunately acquired\", above the five members' signatures."
+---
+::
 
 UAP researchers widely cite this recommendation as the origin of the institutionalized UFO stigma, a deliberate policy to discourage scientific inquiry, public discourse and media coverage of the phenomenon.
 
 ## Connection to Crash Retrievals
 
-The Robertson Panel convened in January 1953, just four months before the alleged [[1953 Kingman, Arizona Crash Retrieval]] in May 1953. Three months after Kingman came [[USAF Regulation 200-2]], which rerouted UFO reports away from public oversight. Researchers argue that the panel's recommendations and this regulation were an institutional response to public sightings and also to the growing problem of managing knowledge about recovered non-human craft. The closeness in time of the Robertson Panel, the Kingman crash and Regulation 200-2 is cited as evidence of a coordinated strategy to centralize control over UAP information and prevent leaks about crash retrieval operations.
+The Robertson Panel convened in January 1953, just four months before the alleged [[1953 Kingman, Arizona Crash Retrieval]] in May 1953. Three months after Kingman came [[USAF Regulation 200-2]], which sent UFO reports to Air Defense Command, the Air Technical Intelligence Center and Air Force intelligence, and limited what a base could tell the public about a sighting to its location, time, date and description, without witnesses' names, Air Force comments, intercept details or classified radar data. Researchers argue that the panel's recommendations and this regulation were an institutional response to public sightings and also to the growing problem of managing knowledge about recovered non-human craft. The closeness in time of the Robertson Panel, the Kingman crash and Regulation 200-2 is cited as evidence of a coordinated strategy to centralize control over UAP information and prevent leaks about crash retrieval operations.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said Regulation 200-2 "rerouted UFO reports away from public oversight". The regulation sets where reports go and, in its paragraph 8, what may be released; it now says what it provides (see its transcription).
+
+::wiki-document
+---
+name: "USAF Regulation 200-2"
+page: 3
+caption: "Paragraph 6c of the regulation lists the addressees for reports (Air Defense Command, ATIC and the Director of Intelligence), and paragraph 8 limits what may be released about a local sighting."
+---
+::
 
 ## Declassification and Legacy
 

@@ -539,7 +539,17 @@ Some believe the object was a Soviet space capsule and the markings Cyrillic, wh
 
 ## The Blue Berets
 
-Gerb treats the blue-bereted airmen as one of the most important threads in the case. In *Crash Retrievals of the Third Kind*, Leonard Stringfield wrote of a rapid-reaction Special Forces unit called the [[Blue Berets]]. Its members were said to be kept at certain bases in a constant state of readiness for downed UFOs and trained to use diversionary tactics to keep the public away. Gerb sets out three candidates for the men seen at Kecksburg.
+Gerb treats the blue-bereted airmen as one of the most important threads in the case. In *[[Stringfield Status Reports|Retrievals of the Third Kind]]* (1978), Leonard Stringfield wrote of a rapid-reaction Special Forces unit called the [[Blue Berets]]. Its members were said to be kept at certain bases in a constant state of readiness for downed UFOs and trained to use diversionary tactics to keep the public away. Gerb sets out three candidates for the men seen at Kecksburg.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions gave the title as *Crash Retrievals of the Third Kind*, as Gerb does. Stringfield's 1978 paper, the first of his Status Reports, is titled *Retrievals of the Third Kind: A Case Study of Alleged UFOs and Occupants in Military Custody*.
+
+::wiki-document
+---
+name: "Stringfield Status Reports"
+caption: "Stringfield's crash-retrieval reports, beginning with the 1978 paper in which he described the Blue Berets."
+---
+::
 
 ::wiki-grid{cols=3}
 ::wiki-panel{title="Stringfield's Blue Berets" tone="accent"}
@@ -869,5 +879,6 @@ entries:
 - **Organizations**: [[Project Blue Book]], [[Blue Berets]], [[NASA]], [[US Navy]], [[Applied Research Laboratory]], [[DOD Joint Chiefs]], [[Research and Development Board]], [[Atomic Energy Commission]], [[Majestic 12]]
 - **Locations**: [[Kecksburg, Pennsylvania]], [[Greensburg, Pennsylvania]], [[Lockbourne Air Force Base, Columbus, Ohio]], [[Wright-Patterson Air Force Base]]
 - **Concepts**: [[Bell or Acorn-Shaped Craft]], [[Cosmos 96]], [[Crash Retrieval]], [[Media Censorship of UAP Events]], [[Die Glocke (The Bell)]], [[Off-World Technologies Division]]
+- **Documents**: [[Stringfield Status Reports]]
 - **Operations**: [[Project Moon Dust]], [[Project Corona]]
 - **Events**: [[1965 Kecksburg, Pennsylvania Crash Retrieval]], [[Object in the Woods Radio Documentary]], [[Roswell Crash]]

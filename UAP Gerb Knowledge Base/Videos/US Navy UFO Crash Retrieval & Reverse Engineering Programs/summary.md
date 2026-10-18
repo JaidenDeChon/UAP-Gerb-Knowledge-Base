@@ -694,7 +694,14 @@ Gerb also links the case to three others. The geometric markings recall the hier
 
 ## Craft Held at Naval Installations
 
-If Sharp's sources are right, recovered craft are stored at naval and ONR sites before exploitation. Gerb reviews reported cases, chiefly from Leonard Stringfield's *UFO Crash/Retrieval Status Reports*, which he considers the best crash-retrieval work by any investigator. He sets aside [[China Lake Naval Air Weapons Station|China Lake]] and [[Randy Anderson]]'s account of NSWC Crane, which he has covered before.
+If Sharp's sources are right, recovered craft are stored at naval and ONR sites before exploitation. Gerb reviews reported cases, chiefly from Leonard Stringfield's *[[Stringfield Status Reports|UFO Crash/Retrieval Status Reports]]*, which he considers the best crash-retrieval work by any investigator. He sets aside [[China Lake Naval Air Weapons Station|China Lake]] and [[Randy Anderson]]'s account of NSWC Crane, which he has covered before.
+
+::wiki-document
+---
+name: "Stringfield Status Reports"
+caption: "Stringfield's seven crash-retrieval reports (1978 to 1994), the source of most of the naval cases below, among them RK's Great Lakes account in Status Report III."
+---
+::
 
 ::wiki-grid{cols=3}
 ::wiki-panel{title="NAS Sunnyvale, California, 1952"}
@@ -882,5 +889,6 @@ entries:
 - **Organizations**: [[US Navy]], [[National Underwater Reconnaissance Office]], [[Navy Special Program]], [[Office of Naval Research]], [[Office of Naval Intelligence]], [[CIA Directorate of Science and Technology]], [[CIA Office of Global Access]], [[NRO (National Reconnaissance Office)]], [[NGA]], [[JSOC (Joint Special Operations Command)]], [[SOCOM]], [[Woods Hole Oceanographic Institution]], [[Naval Surface Warfare Center Crane]], [[Center for Naval Analyses]], [[SAIC]], [[Wackenhut Services]], [[Lockheed Martin]], [[Northrop Grumman]], [[BDM International]], [[Atomic Energy Commission]], [[Majestic 12]], [[RGH UFOs]]
 - **Operations**: [[Project Sanddollar]], [[Deep Submergence Systems Project (DSSP)]], [[Project Azorian]], [[Project Palladium]]
 - **Events**: [[1991 North Atlantic USO Retrieval]], [[Bluegill Triple Prime UFO Recovery]], [[Inman-Oechsler Telephone Call]], [[1965 Kecksburg, Pennsylvania Crash Retrieval]]
-- **Concepts**: [[Deep Submergence Rescue Vehicle (DSRV)]], [[Unidentified Submerged Object (USO)]], [[Special Access Programs (SAPs)]], [[Federally Funded Research and Development Center (FFRDC)]], [[MJ-12 Documents]], [[Off-World Technologies Division]], [[OPNAV 3820]], [[Alien Reproduction Vehicle (ARV)]], [[TR-3B]]
+- **Concepts**: [[Deep Submergence Rescue Vehicle (DSRV)]], [[Unidentified Submerged Object (USO)]], [[Special Access Programs (SAPs)]], [[Federally Funded Research and Development Center (FFRDC)]], [[MJ-12 Documents]], [[Off-World Technologies Division]], [[Alien Reproduction Vehicle (ARV)]], [[TR-3B]]
 - **Locations**: [[Aberdeen, Scotland]], [[Pine Gap, Australia]], [[Wright-Patterson Air Force Base]], [[MCAS Yuma]], [[China Lake Naval Air Weapons Station]], [[Crystal City, Virginia]]
+- **Documents**: [[OPNAV 3820]], [[Schumer Amendment (NDAA)]], [[Stringfield Status Reports]], [[Wilson-Davis Memo]]

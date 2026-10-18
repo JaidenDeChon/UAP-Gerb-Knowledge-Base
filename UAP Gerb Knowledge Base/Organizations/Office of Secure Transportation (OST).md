@@ -17,6 +17,15 @@ The transports are conventional three-axle truck tractors with two-axle trailers
 
 In Gerb's account, the [[Atomic Energy Act of 1954]] lets recovered non-human material be classified as special nuclear material, which in turn lets DOE and NNSA special teams handle it. His theory is that the NNSA, using national laboratories such as Sandia, [[Los Alamos National Laboratory|Los Alamos]], [[Oak Ridge National Laboratory|Oak Ridge]] and [[Lawrence Livermore National Laboratory|Lawrence Livermore]], relies on three teams for recovery, procurement and transport of UFOs: [[DOE Special Response Teams (SRTs)|special response teams]] for security and direct action, NEST for on-site scientific work, and the OST for moving material between sites. Crash retrieval accounts discussed on the channel also name the OST among the organizations involved in moving recovered material.
 
+::wiki-document
+---
+name: "Atomic Energy Act of 1954"
+page: 6
+region: [0.30, 0.40]
+caption: "The Act's definition of special nuclear material, section 11 t: plutonium, enriched uranium and any other material the Commission determines under section 51 to be special nuclear material."
+---
+::
+
 ## Sources
 
 - [[Videos/The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1/summary|The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1]]

@@ -41,7 +41,7 @@ stats:
 
 ## Overview
 
-[[Robert Sarbacher]] was a Harvard-trained physicist, a student of [[Einstein|Albert Einstein]] and a consultant to the Department of Defense's [[Research and Development Board]] under the Truman administration. In this video Gerb presents him as a key to the US government's early "feverish obsession" with UFOs and crash retrievals. The video opens on the 1950 memo in which Canadian government radio engineer [[Wilbert B. Smith]] relayed four claims from a Washington source: that flying saucers exist, that the subject is classified even higher than the hydrogen bomb, that a small group headed by [[Vannevar Bush]] is making a concentrated effort to understand them, and that US authorities consider the matter of tremendous significance. The source was Sarbacher, and the memo led directly to Canada's [[Project Magnet]] and [[Project Second Story]].
+[[Robert Sarbacher]] was a Harvard-trained physicist, a student of [[Einstein|Albert Einstein]] and a consultant to the Department of Defense's [[Research and Development Board]] under the Truman administration. In this video Gerb presents him as a key to the US government's early "feverish obsession" with UFOs and crash retrievals. The video opens on the [[Wilbert Smith Memo|1950 memo]] in which Canadian government radio engineer [[Wilbert B. Smith]] relayed four claims from a Washington source: that flying saucers exist, that the subject is classified even higher than the hydrogen bomb, that a small group headed by [[Vannevar Bush]] is making a concentrated effort to understand them, and that US authorities consider the matter of tremendous significance. The source was Sarbacher, and the memo led directly to Canada's [[Project Magnet]] and [[Project Second Story]].
 
 Gerb then follows Sarbacher's account through the decades. Sarbacher's son said his father was asked to build camera-carrying missiles, like those on the V-2, to track UFOs, and the video sets that beside V-2 sightings in the [[Project Twinkle]] report and at [[White Sands Missile Range]]. In 1983, Sarbacher answered twelve questions from researcher [[William Steinman]], naming Bush, [[John Von Neumann]] and [[J. Robert Oppenheimer]] as involved and describing recovered materials that were "extremely light and very tough" and occupants "constructed like certain insects." In a recorded call the same year, [[Stanton Friedman]] got him to recall a meeting at [[Wright Field]] about a crash that was "very likely" in 1947, and of a smug attendee from Philadelphia, later identified as Dr. [[Eric A. Walker]].
 
@@ -129,7 +129,7 @@ events:
   - date: "1950-03-22"
     title: "The Hottel memo"
     cue: 1096
-    summary: "FBI agent Guy Hottel wrote to J. Edgar Hoover that an Air Force investigator had reported three flying saucers recovered in New Mexico: circular, with raised centres, about 50 feet across, and occupied by 3-foot humanoid figures in metallic suits. A Mr. Carl Howe blamed the crashes on high-powered radar interfering with their controls."
+    summary: "FBI agent Guy Hottel wrote to J. Edgar Hoover that an Air Force investigator had reported three flying saucers recovered in New Mexico: circular, with raised centres, about 50 feet across, and occupied by 3-foot humanoid figures in metallic suits. A further informant, whom Gerb names as Mr. Carl Howe (the name is redacted in the released memo), blamed the crashes on high-powered radar interfering with their controls."
     category: document
     significance: major
     entities:
@@ -200,7 +200,7 @@ events:
   - date: "1983-11"
     title: "Sarbacher's reply to William Steinman"
     cue: 523
-    summary: "Answering twelve questions from William Steinman, Sarbacher said he had no association with the recovery personnel and did not know crash dates, was invited to Research and Development Board discussions but could not attend, and saw reports but no photographs. He named Vannevar Bush, John von Neumann and J. Robert Oppenheimer as involved, and described very light, tough materials and occupants built like insects."
+    summary: "Answering the questions in William Steinman's letters of September and October, Sarbacher said he had no association with the recovery personnel and did not know crash dates, was invited to discussions about the recoveries but could not attend, and saw reports but recalled no photographs. He named Vannevar Bush and John von Neumann as definitely involved and J. Robert Oppenheimer as probably involved, and described very light, tough materials and occupants built like insects."
     category: document
     significance: major
     entities:
@@ -262,12 +262,22 @@ events:
 
 ## The Smith Memo
 
-In 1950, [[Wilbert B. Smith]], a senior radio engineer with Canada's Department of Transport, wrote to the department's Controller of Telecommunications asking that Canada begin its first official investigation into UFOs, focused on magnetism as a form of propulsion. The letter relays four claims from a source within Washington:
+In November 1950, [[Wilbert B. Smith]], a senior radio engineer with Canada's Department of Transport, wrote to the department's Controller of Telecommunications. Gerb describes the memo as asking Canada to begin its first official investigation into UFOs, focused on magnetism as a form of propulsion; the memo itself, headed "Geo-Magnetics", asks for a small project to study drawing energy from the Earth's magnetic field, work Smith tied to the flying saucers. It relays four claims that, it says, came from "discreet enquiries through the Canadian Embassy staff in Washington":
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions stated as fact that the memo asked for an official UFO investigation into magnetic propulsion, and credited its claims to "a source within Washington". Both are Gerb's descriptions; the memo asks for a geo-magnetics project, never mentions propulsion, and credits its information to enquiries through Canadian Embassy staff.
 
 1. The matter is the most highly classified subject in the United States government, rating even higher than the H-bomb.
 2. Flying saucers exist.
 3. Their modus operandi is unknown, but a concentrated effort is being made by a small group headed by Dr. [[Vannevar Bush]].
 4. The entire matter is considered by US authorities to be of tremendous significance.
+
+::wiki-document
+---
+name: "Wilbert Smith Memo"
+caption: "Wilbert Smith's top secret Department of Transport memo of 21 November 1950, subject \"Geo-Magnetics\", to the Controller of Telecommunications."
+---
+::
 
 According to the video, the memo led directly to Canada's two official UFO investigations: [[Project Magnet]], which studied the possibility of reverse-engineering UFO magnetic propulsion to exploit the Earth's magnetic field, and [[Project Second Story]], which sought to recommend a course of action to the Canadian government. Gerb sees a continuing thread in 2023, when Canadian member of Parliament Larry Maguire wrote to the defence minister about recovered UAP material and Five Eyes retrieval operations.
 
@@ -295,17 +305,27 @@ Gerb does not claim this proves Sarbacher photographed UFOs from V-2s, only that
 
 ### Answering William Steinman
 
-In November 1983, UFO researcher [[William Steinman]] wrote to Sarbacher and received what Gerb calls "a truly startling letter" in reply: answers to a series of twelve questions. The letter sets out both what Sarbacher said he knew and what he said he did not.
+In 1983, UFO researcher [[William Steinman]] wrote to Sarbacher, and on 29 November Sarbacher sent what Gerb calls "a truly startling letter" in reply, the [[Sarbacher Letter]]. Gerb describes it as answers to "a series of 12 questions"; the letter itself answers five numbered questions from Steinman's letter of 12 September, and one from his letter of 14 October. It sets out both what Sarbacher said he knew and what he said he did not.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said the letter answered twelve questions, that Sarbacher named Oppenheimer as "definitely" involved, that he was not given access to the meetings, and that he never received photographs. The letter answers five numbered questions, says "I think Dr. Robert Oppenheimer also", says he could not attend because his association with the Board was limited, and says he does not recall receiving photographs.
+
+::wiki-document
+---
+name: "Sarbacher Letter"
+caption: "Robert Sarbacher's letter of 29 November 1983 to William Steinman, answering his questions about the recovered flying saucers."
+---
+::
 
 ::wiki-grid{cols=2}
 ::wiki-panel{title="What he said he did not know"}
 - He had no association with any of the people involved in the recoveries.
 - He did not know the dates of the crash recoveries.
-- He was invited to several R&D board discussions about recoveries but was not given access to attend them in person.
-- He never received photographs of UFOs.
+- He was invited to several discussions about the recoveries but could not attend them, since his association with the Research and Development Board was limited and his own business came first.
+- He did not recall receiving any photographs of UFOs.
 ::
 ::wiki-panel{title="What he said he did know" tone="accent"}
-- Vannevar Bush was definitely involved, alongside John von Neumann and J. Robert Oppenheimer.
+- John von Neumann and Vannevar Bush were definitely involved, and he thought J. Robert Oppenheimer was too.
 - He read official reports in his Pentagon office.
 - Materials reported to come from saucer crashes were extremely light and very tough.
 - The instruments or people operating the craft were also very light, so they could withstand the machines' acceleration and deceleration, and he gathered the "aliens" were built like certain insects.
@@ -410,7 +430,7 @@ root:
           note: "Recovered the memo and Smith's meeting notes from Smith's estate."
     - name: "William Steinman"
       label: "Letter, November 1983"
-      note: "Sarbacher answered twelve questions and named Bush, von Neumann and Oppenheimer."
+      note: "Sarbacher answered Steinman's questions, naming Bush and von Neumann as definitely involved and Oppenheimer as probably."
     - name: "Stanton Friedman"
       label: "Recorded call, 1983"
       note: "Got Sarbacher to describe the Wright Field meeting and a smug attendee from Philadelphia."
@@ -435,7 +455,19 @@ root:
 
 Most of the video concerns a significant meeting about crash operations, which Sarbacher and Walker both placed at Wright Field around 1950. Gerb ends on a document from the same year. On 22 March 1950, FBI agent [[Guy Hottel]] wrote to Director [[J. Edgar Hoover]] relaying what an Air Force investigator had said. Gerb guesses the investigator came from the [[Air Force Technical Intelligence Center|Air Technical Intelligence Center]] (ATIC). In 1952 ATIC commissioned Battelle for [[Project Stork]], a project run in parallel to Blue Book without the public's knowledge, meant to "assist the Air Force in reassuring the public that everything is well under control."
 
-According to the [[Hottel Memo]], three flying saucers had been recovered in New Mexico. They were circular with raised centres and about 50 feet in diameter, and each was occupied by humanoid figures about 3 feet tall dressed in metallic suits. One [[Carl Howe]] said the discs were found in New Mexico because of high-powered radar there, which likely caused the crashes by interfering with their control mechanisms. Gerb leaves two questions open: whether the memo ties in with the Wright Field retrieval meeting, and whether it describes the [[Roswell Crash]] of three years earlier.
+According to the [[Hottel Memo]], three flying saucers had been recovered in New Mexico. They were circular with raised centres and about 50 feet in diameter, and each was occupied by humanoid figures about 3 feet tall dressed in metallic suits. A further informant said the discs were found in New Mexico because the government had high-powered radar there, which was believed to interfere with their control mechanisms. Gerb names him as "Mr. [[Carl Howe]]", though in the memo as released the name is blacked out ("According to Mr. [redacted] informant"), and the information is recorded as furnished to a Special Agent whose name is also redacted. Gerb leaves two questions open: whether the memo ties in with the Wright Field retrieval meeting, and whether it describes the [[Roswell Crash]] of three years earlier.
+
+> [!edit] Corrected 17 October 2026
+> This paragraph used to say the memo names "one Carl Howe" as the source of the radar claim. The name is redacted in the FBI Vault release (page 2); Howe is Gerb's identification, and the memo says only that the radar "is believed" to interfere with the saucers' controls.
+
+::wiki-document
+---
+name: "Hottel Memo"
+page: 2
+region: [0.24, 0.56]
+caption: "The memo's body: an Air Force investigator's report of three saucers recovered in New Mexico, and an informant's explanation that radar interfered with their controls."
+---
+::
 
 ## Gerb's Closing Thoughts
 
@@ -461,6 +493,7 @@ Gerb hears an allusion to Don Quixote in Walker's remark that Steinman was fight
 - **People**: [[Robert Sarbacher]], [[Robert Sarbacher Jr.]], [[Wilbert B. Smith]], [[Vannevar Bush]], [[John Von Neumann]], [[J. Robert Oppenheimer]], [[Eric A. Walker]], [[William Steinman]], [[Stanton Friedman]], [[Arthur Bray]], [[Frank Scully]], [[Guy Hottel]], [[J. Edgar Hoover]], [[Carl Howe]], [[Lloyd Eugene Camp]], [[Robert Jacobs]], [[Andrew Kissner]], [[Einstein]]
 - **Organizations**: [[Research and Development Board]], [[Majestic 12]], [[Battelle Memorial Institute]], [[Air Force Technical Intelligence Center]], [[NASA]]
 - **Locations**: [[Wright Field]], [[White Sands Missile Range]], [[Kecksburg, Pennsylvania]]
-- **Concepts**: [[MJ-12 Documents]], [[Hottel Memo]], [[Project Twinkle]], [[Crash Retrieval]], [[Nitinol (Nickel-Titanium Alloy)]]
+- **Concepts**: [[MJ-12 Documents]], [[Project Twinkle]], [[Crash Retrieval]], [[Nitinol (Nickel-Titanium Alloy)]]
+- **Documents**: [[Hottel Memo]], [[Sarbacher Letter]], [[Wilbert Smith Memo]]
 - **Operations**: [[Project Magnet]], [[Project Second Story]], [[Project Stork]], [[Project Sign]], [[Project Grudge]], [[Project Blue Book]]
 - **Events**: [[Wright Field Crash Retrieval Meeting]], [[Roswell Crash]], [[1965 Kecksburg, Pennsylvania Crash Retrieval]], [[Aztec UFO Crash and Recovery]], [[1978 Bolivia UFO Crash]], [[Lubbock Lights]]

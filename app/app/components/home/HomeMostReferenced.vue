@@ -47,6 +47,7 @@ const ICONS: Partial<Record<Category, Component>> = {
   Events: CalendarClock,
   Locations: MapPin,
   Concepts: Atom,
+  Documents: FileText,
 }
 const iconFor = (category: Category): Component => ICONS[category] ?? FileText
 

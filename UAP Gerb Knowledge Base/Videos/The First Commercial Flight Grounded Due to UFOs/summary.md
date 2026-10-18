@@ -135,7 +135,16 @@ routes:
 
 ## Jammed sensors: a pattern across military encounters
 
-Gerb considers the Mirage's sensor failure more important than the airliner's diversion, because such jamming "has occurred multiple times in public UFO military cases". He cites two other cases. Commander [[David Fravor]], he notes, says the objects (plural) in his 2004 Tic Tac sighting off San Diego actively jammed the radar and sensors of the Navy jets. In the [[1976 Tehran UFO Incident]], the first of two Imperial Iranian Air Force F-4 Phantom IIs sent after an object hovering over Tehran lost all instruments and communications and turned back. Ten minutes later Major [[Parviz Jafari]], flying at Mach 1, saw the object jump 10 degrees to his right from 70 miles away, a distance of some 26 miles, in under a second. As he closed on the apparently diamond-shaped craft, a smaller sphere separated and approached his F-4; when he tried to engage it, his targeting and radio went haywire. He decided to eject if it came within two miles and flew evasive manoeuvres. Once clear, he regained his instruments and contact with command. Gerb calls Tehran one of his favourite encounters and promises a video on air force encounters worldwide (the later [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters]]).
+Gerb considers the Mirage's sensor failure more important than the airliner's diversion, because such jamming "has occurred multiple times in public UFO military cases". He cites two other cases. Commander [[David Fravor]], he notes, says the objects (plural) in his 2004 Tic Tac sighting off San Diego actively jammed the radar and sensors of the Navy jets. In the [[1976 Tehran UFO Incident]], the first of two Imperial Iranian Air Force F-4 Phantom IIs sent after an object hovering over Tehran lost all instruments and communications and turned back, as the [[DIA Tehran UFO Report (1976)|US defense attaché's report to the DIA]] also records. Ten minutes later Major [[Parviz Jafari]], flying at Mach 1, saw the object jump 10 degrees to his right from 70 miles away, a distance of some 26 miles, in under a second. As he closed on the apparently diamond-shaped craft, a smaller sphere separated and approached his F-4; when he tried to engage it, his targeting and radio went haywire. He decided to eject if it came within two miles and flew evasive manoeuvres. Once clear, he regained his instruments and contact with command. Gerb calls Tehran one of his favourite encounters and promises a video on air force encounters worldwide (the later [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters]]).
+
+::wiki-document
+---
+name: "DIA Tehran UFO Report (1976)"
+page: 4
+region: [0.51, 0.58]
+caption: "The attaché's report on the first F-4: at 25 NM it \"lost all instrumentation and communications\", and regained them once it turned away from the object."
+---
+::
 
 ::wiki-compare{video="K_BZkOAw6E0" video-title="The First Commercial Flight Grounded Due to UFOs"}
 ---
@@ -287,3 +296,4 @@ entries:
 - **Locations**: [[Manises Airport, Valencia, Spain]], [[Manises Air Force Base, Spain]], [[Mallorca, Spain]], [[Salzburg, Austria]], [[Las Palmas, Spain]], [[Los Llanos Airbase, Spain]], [[Sagunto, Spain]]
 - **Events**: [[Manises UFO Incident]], [[1976 Tehran UFO Incident]], [[2004 Nimitz UAP Encounter (Tic Tac)]]
 - **Concepts**: [[UFO Stigma]]
+- **Documents**: [[DIA Tehran UFO Report (1976)]]

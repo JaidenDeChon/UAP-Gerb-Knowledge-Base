@@ -44,7 +44,7 @@ items:
     kind: speech
     title: "Symposium talk on UAP disclosure and a campaign plan"
     where: "SOL Foundation Symposium"
-    note: "A 31-minute talk at Stanford reading the Schumer Amendment's definitions, setting controlled against catastrophic disclosure, and laying out a six-phase disclosure plan running to 2034 and beyond. One slide leaked the same month; the recording became viewable in February 2024."
+    note: "A 31-minute talk at Stanford reading the Schumer Amendment's definitions, setting controlled against catastrophic disclosure, and laying out a disclosure plan of five phases, after a Phase 0, running to 2034 and beyond. One slide leaked the same month; the recording became viewable in February 2024."
     source: "SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure"
   - date: "2024-05"
     kind: interview
@@ -91,6 +91,14 @@ Nell went through the main definitions in the Schumer Amendment:
 - Legacy Programs: all federal, state, commercial, academic, and private efforts to collect, exploit, or reverse-engineer UAP or NHI biological evidence
 - Eminent Domain: authority for the federal government to seize UAP materials held by private corporations
 
+::wiki-document
+---
+name: "Schumer Amendment (NDAA)"
+page: 1
+caption: "The amendment's definitions section in the Congressional Record of 13 July 2023, with \"legacy program\" (10) and \"non-human intelligence\" (12) in the middle column and \"prosaic attribution\" (14) and \"unidentified anomalous phenomena\" (21) on the right."
+---
+::
+
 Gerb adds that the Schumer–Rounds amendment was later "watered down and gutted" by opponents of disclosure. He also points out that [[AARO]] is missing from Nell's Phase 0 list of those who shaped the UAP narrative, even though AARO has the official oversight role.
 
 ### Five-Phase Disclosure Roadmap
@@ -107,6 +115,13 @@ Nell's campaign plan works through four channels (public sector, philosophical, 
 | 5 | Indefinite | Interactive integration of NHI and NHI technology with Earth civilization |
 
 The plan marks Phase 3 as the critical threshold for public disclosure. Nell warns that "catastrophic disclosure" (an uncontrolled information dump, possibly by adversaries or NHI) would be more dangerous than managed disclosure.
+
+::wiki-document
+---
+name: "UAP Campaign Plan - Way Forward"
+caption: "Nell's campaign plan as presented at the SOL Foundation symposium in November 2023, with phase targets from January 2024 to October 2034 across four lines of effort."
+---
+::
 
 ### Reasons for Non-Disclosure
 

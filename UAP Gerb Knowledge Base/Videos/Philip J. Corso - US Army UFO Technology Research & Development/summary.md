@@ -402,6 +402,13 @@ Gerb picks out two details:
 
 Gerb treats the difference between Corso's two texts as the key to judging him. Philip Corso Jr. had not planned to publish his father's notes. He did so because his father had hated the bestseller. According to his son, Corso went through the book marking everything he had not said or did not like, and gave up halfway through. Others who saw the manuscript before Corso died, John B. Alexander among them, also noticed sensational details in the book that are not in the manuscript.
 
+::wiki-document
+---
+name: "The Day After Roswell"
+caption: "The 1997 bestseller credited to Philip J. Corso with William J. Birnes, the book Gerb sets aside in favour of Corso's manuscript."
+---
+::
+
 Gerb picks out the differences point by point:
 
 ::wiki-compare{video="_sv0Otxtcn4" video-title="Philip J. Corso - US Army UFO Technology Research & Development"}
@@ -836,5 +843,6 @@ He asks viewers to remember one thing above all: in the 1960s the Army had an R&
 - **Organizations**: [[U.S. Army Foreign Technology Division]], [[Air Force Foreign Technology Division]], [[UFO Working Group]], [[Defense Intelligence Agency]], [[CIA Directorate of Science and Technology]], [[CIA Office of Global Access]], [[Army INSCOM]], [[JSOC (Joint Special Operations Command)]], [[National Security Council]], [[Citizens Against UFO Secrecy (CAUS)]], [[The Black Vault]], [[Bell Labs]], [[Sperry Rand]], [[AT&T]], [[Western Electric]], [[Sandia National Laboratories]], [[MITRE Corporation]], [[NASA]], [[Atomic Energy Commission]], [[Majestic 12]], [[Interplanetary Phenomenon Unit]]
 - **Locations**: [[Fort Riley, Kansas]], [[White Sands Missile Range]], [[Wright-Patterson Air Force Base]], [[Roswell, New Mexico]], [[San Augustine, New Mexico]], [[Naval Surface Warfare Center Crane]]
 - **Concepts**: [[Crash Retrieval]], [[Federally Funded Research and Development Center (FFRDC)]], [[Independent Research and Development (IRAD)]], [[Waived Unacknowledged Special Access Programs (USAPs)]], [[Consciousness-Interactive Technology]]
+- **Documents**: [[The Day After Roswell]]
 - **Operations**: [[Operation Paperclip]], [[Project Moon Dust]], [[Operation Bluefly]]
 - **Events**: [[Roswell Crash]], [[White Sands UAP Close Encounter]], [[1953 Kingman, Arizona Crash Retrieval]], [[1965 Kecksburg, Pennsylvania Crash Retrieval]]

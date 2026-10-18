@@ -276,6 +276,15 @@ responses:
 
 Kirkpatrick consistently uses the terms "alien" or "extraterrestrial" in place of "non-human intelligence (NHI)", the term used in the 2024 NDAA and the Congressional Record under [[Schumer Amendment (NDAA)|Chuck Schumer's amendment]]. Gerb reads this as a deliberate way to sidestep the wording Congress actually uses. Kirkpatrick has also explained the "cube within a sphere" objects that pilots have described to [[Ryan Graves]] as Chinese ball drones, which Gerb compares to the [[Robertson Panel]]'s use of weather balloons and swamp gas as explanations.
 
+::wiki-document
+---
+name: "Schumer Amendment (NDAA)"
+page: 1
+region: [0.79, 0.88]
+caption: "Definition (12) in the Congressional Record of 13 July 2023 (middle column): \"non-human intelligence\" means \"any sentient intelligent non-human lifeform regardless of nature or ultimate origin\"."
+---
+::
+
 ## Role in UAP Programs
 
 Across his videos Gerb accuses Kirkpatrick of deception and of active interference against UAP whistleblowers. In *The Hidden Wing* he calls AARO a whistleblower honeypot rather than a genuine investigative body, and notes that Kirkpatrick went on to the Battelle-managed Oak Ridge laboratory while Moultrie dropped a Battelle advisory-board post from his CV. In *Special Access Required Vol.2* Gerb alleges that Kirkpatrick was partially briefed into the legacy portfolio to limit its exposure, criticizes him and AARO's former deputy director, Tim Phillips, for personal attacks on Grusch, and describes him "emotionally lashing out" through the journalist [[Steven Greenstreet]]. Gerb's NRO and SAIC videos count him, through his NRO, CIA and SAIC years, among the officials he suspects of guarding legacy programs, and a witness known as [[Ed (Witness 11063)|Ed]] of the 412th Test Wing refused to testify to AARO while Kirkpatrick led it. In the SAIC video Gerb also plays a former official who read the transcripts of Kirkpatrick's AARO briefings to Senators Rubio, Warren and Gillibrand and says Kirkpatrick "distorted, downplayed" the big picture.

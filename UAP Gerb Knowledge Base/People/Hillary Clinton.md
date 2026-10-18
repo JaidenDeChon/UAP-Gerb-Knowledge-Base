@@ -19,6 +19,13 @@ When [[David Grusch]] spoke in January 2026 of Obama-era steps to help a particu
 
 Gerb also draws on the campaign emails released by [[WikiLeaks]] in 2016. One of them is the March 2015 message from government contractor [[Bob Fish]] to Podesta stating that "one of the government programs that collects hard data on unidentified flying objects is the USAF DSP satellite program" (see [[Bob Fish Email to John Podesta]] and [[Defense Support Program (DSP)]]).
 
+::wiki-document
+---
+name: "Bob Fish Email to John Podesta"
+caption: "Bob Fish's email to John Podesta of March 2015, published by WikiLeaks in 2016, naming the USAF DSP satellite program as a collector of hard data on UFOs."
+---
+::
+
 ## Sources
 
 - [[Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/summary|Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2]]

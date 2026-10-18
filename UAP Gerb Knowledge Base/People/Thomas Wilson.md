@@ -244,6 +244,13 @@ In *UAP Reverse Engineering at Edwards Air Force Base Redacted List Vol.2*, Gerb
 
 On 16 October 2002, shortly after retiring, Wilson allegedly met physicist [[Eric Davis]] in his car outside the defense contractor [[EG&G]]. [[Oak Shannon]], a former manager of special projects at Los Alamos National Laboratory, had asked Wilson to speak with Davis. Davis, who had been investigating crash retrieval programs, wanted to hear Wilson's account. Wilson set his terms at the start: he would not speak to the press, and if Davis ever broke his trust he would deny the meeting and everything said in it. He then recounted the whole 1997 investigation and the denial of access that followed.
 
+::wiki-document
+---
+name: "Wilson-Davis Memo"
+caption: "The leaked 15-page notes, dated 16 October 2002, that purport to record Eric Davis's conversation with Vice Admiral Thomas Wilson about a contractor-run crash retrieval program."
+---
+::
+
 ## Public Denials
 
 In a 2020 interview with investigative reporter Billy Cox for the Sarasota Herald-Tribune, Wilson flatly denied the events described in the Wilson-Davis memo: "It's all fiction. I wouldn't know Eric Davis if he walked in right now... I'm not saying that sometime somewhere I never met Davis, but I certainly don't know him. I don't remember him, and I definitely did not sit with him in a car for an hour in Las Vegas."
