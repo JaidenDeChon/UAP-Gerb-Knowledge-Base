@@ -6,7 +6,10 @@ tags:
   - location
 ---
 
-Wright Field was a United States Army Air Forces installation near Dayton, Ohio, It was a major center for aeronautical research, development, and testing from 1917 until 1948, when it merged with Patterson Field to form Wright-Patterson Air Force Base. In the late 1940s it was home to the [[Air Force Technical Intelligence Center]] (ATIC), which analyzed foreign aircraft and advanced technologies.
+Wright Field was a United States Army Air Forces installation near Dayton, Ohio, It was a major center for aeronautical research, development, and testing from 1917 until 1948, when it merged with Patterson Field to form Wright-Patterson Air Force Base. Its intelligence department, T-2, analyzed foreign aircraft and advanced technologies, work that passed in 1951 to the [[Air Force Technical Intelligence Center|Air Technical Intelligence Center]] (ATIC) at Wright-Patterson.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said ATIC was at Wright Field in the late 1940s. ATIC was set up in 1951; in the late 1940s the work belonged to the field's T-2 intelligence department.
 
 According to testimony from [[Robert Sarbacher]] and [[Eric A. Walker]], Wright Field hosted classified meetings circa 1949–1950 at which US government scientists, including [[Vannevar Bush]], [[John Von Neumann]], and [[J. Robert Oppenheimer]], discussed recovered UAP craft, materials, and occupants. The meetings are known collectively as the [[Wright Field Crash Retrieval Meeting]].
 
@@ -43,7 +46,10 @@ Wright-Patterson Air Force Base has remained central to UAP research and specula
 
 As the alleged site of the 1949–1950 crash retrieval meetings, Wright Field sits at the origin point of the US government's organized efforts to understand and reverse-engineer recovered non-human technology. The nation's top scientists, people who had built the atomic bomb and shaped postwar defense policy, gathered there, which shows how seriously the US government treated the UAP question during the early Cold War.
 
-Multiple independent sources (Sarbacher, Walker, and [[Wilbert B. Smith]]'s contemporaneous notes) name Wright Field as a hub for UAP discussions. That lends the claim substantial credibility, even though no documentation has been publicly released.
+Multiple independent sources (Sarbacher, Walker, and [[Wilbert B. Smith]]'s contemporaneous notes) name Wright Field as a hub for UAP discussions. That lends the claim substantial credibility. One official record is public: an FBI teletype of 8 July 1947, reprinted in the [[GAO Roswell Report (1995)]], says the Roswell object was being flown to Wright Field by special plane, and that Wright Field had not borne out the weather-balloon identification.
+
+> [!edit] Clarified 17 October 2026
+> Earlier versions said no documentation of Wright Field's role had been released. The 1947 FBI teletype in the GAO report names it as the Roswell object's destination, though it doesn't show what the object was or that it arrived.
 
 ## Sources
 

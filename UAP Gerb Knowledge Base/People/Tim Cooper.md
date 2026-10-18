@@ -7,7 +7,10 @@ tags:
   - person
 ---
 
-Timothy S. Cooper is an American UFO researcher, based in Big Bear Lake, California, who received the largest share of the [[MJ-12 Documents]]. Where Gerb's videos give dates for the drops, most fall in the 1990s, from 1992 to 1999, though the Peru video places them in the 1980s. He was one of the main routes by which these disputed documents became public. He also recorded one of the last interviews with [[Albert Bruce Collins]], the engineer known as "Barnabas", in 1990. His father, USAF Master Sergeant Harry B. Cooper, received a commendation signed by General [[Curtis LeMay]], which [[Ryan S. Wood]] and Gerb describe as praising his work on the "USAF UFO program".
+Timothy S. Cooper is an American UFO researcher, based in Big Bear Lake, California, who received the largest share of the [[MJ-12 Documents]]. Where Gerb's videos give dates for the drops, most fall in the 1990s, from 1992 to 1999, though the Peru video places them in the 1980s. He was one of the main routes by which these disputed documents became public. He also recorded one of the last interviews with [[Albert Bruce Collins]], the engineer known as "Barnabas", in 1990. His father, USAF Master Sergeant Harry B. Cooper, received a commendation signed by General [[Curtis LeMay]], which [[Ryan S. Wood]] describes as praising his work on the "USAF UFO program"; the citation itself, as shown in Gerb's video, praises his service in charge of printing management and a camera section at Air Defense Command headquarters and does not mention UFOs.
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions said Wood and Gerb describe the commendation as praising work on the "USAF UFO program". The phrase is Wood's alone, in Gerb's Ryan Wood video; the citation describes printing-management and camera-section work.
 
 ## Timeline
 

@@ -5402,7 +5402,7 @@
       "id": "L0078",
       "slice": "S038-documents",
       "found_at": "2026-10-18T02:21:32Z",
-      "status": "open",
+      "status": "written",
       "duplicate_of": null,
       "problems": [],
       "kind": "corroboration",
@@ -5475,7 +5475,9 @@
       "weakest_link": "The teletype records what an Eighth Air Force official said on the afternoon of 8 July about a flight in progress or planned; it does not show the object arrived or what it was. The official account (Air Force 1994 report) says Ramey identified the debris as a balloon that evening and the Wright Field flight was cancelled, which would also explain why AMC has no record. 'Had not borne out' means Wright Field had not confirmed the balloon identification, not that it had contradicted it, and the object described (hexagonal disc hung from a 20-foot balloon by cable) itself sounds like a radar reflector. So this confirms the Wright Field destination as stated in 1947, not the custody of exotic material or biologics. The struck-out word is illegible, but 'NOT' and 'BORNE OUT' are clear in the transcription; checkable on page 16 of the GAO PDF and in the FBI Vault. The teletype is well known among researchers (novelty known-elsewhere), but never shown on the channel.",
       "impact": 4,
       "support": 4,
-      "slip": false
+      "slip": false,
+      "resolved_at": "2026-10-18T02:54:12Z",
+      "analysis": "Analyses/A 1947 FBI message says the Roswell object was being flown to Wright Field, which hadn't confirmed it was a balloon.md"
     },
     {
       "id": "L0079",
@@ -5598,7 +5600,7 @@
       "id": "L0081",
       "slice": "S039-documents",
       "found_at": "2026-10-18T02:21:32Z",
-      "status": "open",
+      "status": "written",
       "duplicate_of": null,
       "problems": [],
       "kind": "smoking-gun",
@@ -5671,7 +5673,9 @@
       "weakest_link": "Well known among researchers (the Durant report has been public since the 1970s and the Disney/Godfrey lines are often quoted), so novelty is known-elsewhere; that's still fine for Gerb's audience. In context the program is framed as reducing 'gullibility' and 'susceptibility to clever hostile propaganda', a Cold War rationale, not a stated aim of hiding recovered craft, so the post must not claim it shows concealment of anything beyond public interest. No evidence here that the plan was ever carried out. The key passages (pages 21-24) are clean readings with no bracketed words; checkable on the CIA CREST PDF (CIA-RDP79B00752A000300100010-4).",
       "impact": 4,
       "support": 5,
-      "slip": false
+      "slip": false,
+      "resolved_at": "2026-10-18T02:54:12Z",
+      "analysis": "Analyses/A secret 1953 CIA memo records a proposal to use TV and Disney cartoons to cut public interest in UFOs.md"
     },
     {
       "id": "L0082",

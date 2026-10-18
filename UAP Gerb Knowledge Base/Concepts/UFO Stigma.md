@@ -8,9 +8,15 @@ The UFO Stigma is the cultural and institutional tendency to ridicule, dismiss o
 
 ## Origins and Institutional Engineering
 
-The modern UFO stigma has its institutional origins in the late 1940s and was largely complete by 1969. The [[US Air Force]] ran five successive major programs: [[Project Sign]] (1948–1949), [[Project Grudge]] (1949), [[Project Blue Book]] (1952–1969), the [[Robertson Panel]] (1953) and the [[Condon Committee]] (1966–1968). Each operated in public as a scientific or governmental investigation. According to critics and former participants, each also worked as a disinformation and perception-management apparatus.
+The modern UFO stigma has its institutional origins in the late 1940s and was largely complete by 1969. Five successive major efforts shaped it: the [[US Air Force]]'s [[Project Sign]] (1948–1949), [[Project Grudge]] (1949) and [[Project Blue Book]] (1952–1969), the CIA's [[Robertson Panel]] (1953), and the Air Force-funded [[Condon Committee]] (1966–1968). Each operated in public as a scientific or governmental investigation. According to critics and former participants, each also worked as a disinformation and perception-management apparatus.
 
-[[J. Allen Hynek]] was Blue Book's scientific adviser for its entire operation. He later stated that Grudge was "less science and more of a public relations campaign" and that Blue Book "was not a scientific project." In a 1993 statement, panel signatory [[Thornton Page]] confirmed that the [[Robertson Panel]] had a predetermined mandate to debunk all UFO cases. [[Robert J. Low]]'s internal memo to the Condon Committee outlined a strategy to make the investigation "appear a totally objective study" while telling the scientific community that the researchers held "an almost zero expectation of finding a saucer."
+> [!edit] Corrected 17 October 2026
+> Earlier versions listed the Robertson Panel among five US Air Force programs. The panel was convened by the CIA.
+
+[[J. Allen Hynek]] was Blue Book's scientific adviser for its entire operation. He later stated that Grudge was "less science and more of a public relations campaign" and that Blue Book "was not a scientific project." In a 1993 statement, panel signatory [[Thornton Page]] said Robertson had told members to debunk the reports, which Gerb reads as a predetermined mandate for the [[Robertson Panel]]. [[Robert J. Low]]'s internal memo to the Condon Committee outlined a strategy to make the investigation "appear a totally objective study" while telling the scientific community that the researchers held "an almost zero expectation of finding a saucer."
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions said as fact that Page confirmed a predetermined mandate. That is Page's later statement as Gerb reads it.
 
 ## Mechanisms of the Stigma
 
