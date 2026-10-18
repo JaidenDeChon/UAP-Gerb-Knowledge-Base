@@ -9,7 +9,10 @@ Tara O'Toole is an American physician and biosecurity specialist who served as U
 
 ## Kona Blue
 
-According to the declassified [[AARO]] history of Kona Blue, O'Toole was briefed on the proposal in May 2011 and established it as a DHS prospective special access program in July 2011; it was terminated in February 2012. A document cleared by the Defense Office of Prepublication and Security Review and entered into the record of the November 2024 House Oversight hearing by Representative [[Tim Burchett]] likewise says she was approached to set up the program, into which Lockheed vice president [[James T. Ryder]] proposed transferring 1950s crash retrieval material. AARO's account says DHS and other agencies shut the proposal down over doubts that the materials were authentic, while UAP Gerb's Lockheed video attributes its end to the CIA's [[Glenn Gaffney]].
+According to the declassified [[AARO]] history of Kona Blue, O'Toole was briefed on the proposal in May 2011 and established it as a DHS prospective special access program in July 2011; it was terminated in February 2012. A document cleared by the Defense Office of Prepublication and Security Review and entered into the record of the November 2024 House Oversight hearing by Representative [[Tim Burchett]] likewise says she was approached to set up the program, into which Lockheed vice president [[James T. Ryder]] proposed transferring 1950s crash retrieval material. AARO's report says DHS leadership rejected the proposal "for lacking merit", and DHS's own termination memo records that Deputy Secretary Jane Holl Lute ended it after asking whether its justifications as a SAP, and its budget and personnel requirements, were adequate. Gerb summarizes the official reason as skepticism about the materials' authenticity, and his Lockheed video attributes the program's end to the CIA's [[Glenn Gaffney]].
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said AARO blamed doubts about the materials' authenticity. That is Gerb's summary; AARO's report (page 35) says the proposal lacked merit, and the DHS memos cite its justification, budget and personnel requirements.
 
 ::wiki-document
 ---

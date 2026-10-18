@@ -412,6 +412,7 @@ entries:
 
 > [!edit] Corrected 16 October 2026
 > Earlier versions said Battelle and ATIC's report concluded that no physical matter had ever been recovered from a UFO. The report is ATIC's, names no contractor, and speaks only of the cases it studied.
+
 - In 1949 Battelle analysed [[Nitinol (Nickel-Titanium Alloy)|nitinol]] for Wright-Patterson Air Force Base, twelve years before the alloy's official discovery in 1961. Gerb infers that the material came from the 1947 Roswell crash, whose debris Jesse Marcel described as a light metal that kept its shape and which was supposedly shipped to Wright-Patterson.
 - The 1949 research was an [[Atomic Energy Commission]] project labelled "restricted", a private-sector standard that Gerb, citing David Grusch, says even special access program holders cannot breach. It was not declassified until 2010.
 - [[EJ Center]], a co-author of the 1949 reports, allegedly told his daughter's boyfriend in 1958 that he had studied "Parts retrieved from a flying saucer". The account reached MUFON in 1992 and was published by [[Irena Scott]] in 1994, sixteen years before the reports were declassified.

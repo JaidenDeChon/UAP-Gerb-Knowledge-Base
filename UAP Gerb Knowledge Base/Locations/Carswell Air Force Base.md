@@ -15,7 +15,10 @@ In spring 1955, USAF Reserve Colonel [[Robert Willingham]] and a group of F-86 S
 
 ### 1957 RB-47 Incident
 
-Case 5 of the Condon Report documents a September 19, 1957 incident in which a large bright fireball, alternating red and white, pursued a Carswell-based RB-47 reconnaissance aircraft for over 600 miles. The fireball was picked up at the same time by the plane's radar, by Carswell ground radar, and by the aircraft's own ECM equipment, which registered a signal at 2,800 megacycles. Pilot Lewis D. Chase described it as appearing "as big as a barn" and moving at speeds far beyond those of aircraft. After the plane landed, intelligence personnel removed all ECM graphic and radar data from it.
+Case 5 of the Condon Report documents a September 19, 1957 incident in which a large bright fireball, alternating red and white, pursued a Carswell-based RB-47 reconnaissance aircraft for over 600 miles. The fireball was picked up at the same time by the plane's radar, by Carswell ground radar, and by the aircraft's own ECM equipment, which registered a signal at 2,800 megacycles. In the report's narrative, which does not name the pilot, Lewis D. Chase, the light crossed in front of the plane "at a velocity far higher than airplane speeds" and appeared to the pilot to be "a glowing body as big as a barn". After the plane landed, intelligence personnel removed all ECM graphic and radar data from it.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said Chase described the object as "as big as a barn". The words are the Condon Report's own narrative (volume 1, Case 5), which does not name him; Gerb presents them as a quote from Chase in his Del Rio video.
 
 ::wiki-document
 ---

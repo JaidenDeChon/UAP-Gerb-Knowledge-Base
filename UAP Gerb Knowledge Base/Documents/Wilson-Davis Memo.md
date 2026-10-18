@@ -10,7 +10,10 @@ tags:
   - classified-document
 ---
 
-The **Wilson-Davis Memo** is a 15-page document from the estate of Apollo 14 astronaut [[Edgar Mitchell]]. It passed among a few researchers from late 2018 and appeared online in 2019. It purports to record notes from an October 16, 2002 meeting between astrophysicist Dr. [[Eric Davis]] and Vice Admiral [[Thomas Wilson]], former Deputy Director and Director of the Defense Intelligence Agency. The memo gives an account of Wilson's alleged 1997 discovery of a hidden crash retrieval and reverse engineering program inside an aerospace contractor. As one of the most senior intelligence officials in the U.S. military, he tried to gain access to it, and program managers and Pentagon officials then stonewalled him. If authentic, the memo would be smoking-gun evidence supporting decades of claims that the United States government is actively trying to reverse engineer craft of non-human origin.
+The **Wilson-Davis Memo** is a 15-page document from the estate of Apollo 14 astronaut [[Edgar Mitchell]]. It passed among a few researchers from late 2018 and appeared online in 2019. It purports to record notes from an October 16, 2002 meeting between astrophysicist Dr. [[Eric Davis]] and Vice Admiral [[Thomas Wilson]], Director of the Defense Intelligence Agency from 1999 to 2002. The notes describe his post in 1997 as "Deputy Director DIA/Assistant Joint Chief Of Staff J-2"; his service record gives it as Director for Intelligence (J-2) of the Joint Staff. The memo gives an account of Wilson's alleged 1997 discovery of a hidden crash retrieval and reverse engineering program inside an aerospace contractor. As one of the most senior intelligence officials in the U.S. military, he tried to gain access to it, and program managers and Pentagon officials then stonewalled him. If authentic, the memo would be smoking-gun evidence supporting decades of claims that the United States government is actively trying to reverse engineer craft of non-human origin.
+
+> [!edit] Clarified 17 October 2026
+> Earlier versions called Wilson a former Deputy Director of the DIA without qualification. That is the notes' title for his 1997 post (page 7: "Deputy Director DIA/Assistant Joint Chief Of Staff J-2"); the dates and posts on his own page come from his service record.
 
 ## Provenance and Public Release
 
@@ -38,7 +41,10 @@ According to the memo, the program manager stated they had "a craft, an intact c
 
 ## Denial of Access and Career Threats
 
-As Deputy Director of the DIA, Wilson had statutory oversight and regulatory authority over all DoD special access programs. The watch committee still denied him access, because he was not on the bigot list and did not meet their undisclosed special criteria.
+Wilson argued that as Deputy Director of the DIA, as the notes style his post, he had statutory oversight and regulatory authority over all DoD special access programs. The watch committee still denied him access, because he was not on the bigot list and did not meet their undisclosed special criteria.
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions stated Wilson's title and authority as fact. Both are Wilson's argument as the notes record it; his service record gives his 1997 post as Joint Staff J-2.
 
 Wilson complained to the SAPOC senior review group (SRG) at the Pentagon, but the SRG upheld the contractor's access denial and ordered Wilson to drop the matter. SRG chairman [[John Deutch]] (former CIA Director) threatened Wilson that if he did not comply, "he would not see the Director of DIA promotion, he would get an early retirement, and lose one to two stars."
 

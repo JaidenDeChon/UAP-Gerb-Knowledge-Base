@@ -8,12 +8,18 @@ Project Second Story was an official Canadian government UFO investigation progr
 
 ## Establishment and Authority
 
-Project Second Story was created after [[Wilbert B. Smith]] sent a memo in 1950 to the Controller of Telecommunications at Canada's Department of Transport. In it, Smith passed on what [[Robert Sarbacher]], a US DoD consultant, had confirmed to him: the US government classified the study of flying saucers at a higher level than the hydrogen bomb, and a small group headed by [[Vannevar Bush]] was actively investigating recovered craft.
+Project Second Story was created after [[Wilbert B. Smith]] sent a memo in 1950 to the Controller of Telecommunications at Canada's Department of Transport. In it, Smith passed on what "discreet enquiries through the Canadian Embassy staff in Washington" had told him: the subject of flying saucers was the most highly classified in the US government, rating higher than the hydrogen bomb, and a small group headed by [[Vannevar Bush]] was making a concentrated effort to learn how they worked. The memo names no source. Gerb identifies it as [[Robert Sarbacher]], a US DoD consultant, from Smith's notes of his September 1950 meeting with Sarbacher and Sarbacher's own confirmation in 1983.
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions said the memo passed on what Sarbacher had confirmed and that Bush's group was investigating recovered craft. The memo ([[Wilbert Smith Memo]]) credits its claims to enquiries through Canadian Embassy staff, names no one, and says only that the group was trying to learn the saucers' modus operandi; the link to Sarbacher comes from Smith's notes.
 
 Smith's memo led directly to Canada authorizing two parallel UAP programs:
 
-1. [[Project Magnet]], a scientific investigation into UAP propulsion, directed by Smith.
+1. [[Project Magnet]], a Department of Transport study, directed by Smith, of whether the Earth's magnetic field could be used for propulsion, the principle Smith suspected lay behind the flying saucers.
 2. Project Second Story, an investigation of strategy and policy meant to recommend how the government should respond to the UFO phenomenon.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions called Project Magnet "a scientific investigation into UAP propulsion". Its stated aim, as Smith's memo and the Project Magnet page give it, was to study drawing on the Earth's magnetic field for propulsion.
 
 ::wiki-document
 ---

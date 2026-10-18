@@ -69,7 +69,10 @@ According to the notes, in April 1997 Steven Greer spoke to Wilson, Miller and [
 
 ## The Letter to Davis and Puthoff
 
-The notes open with Wilson saying that [[Oak Shannon|Oke Shannon]] had asked him to speak to Davis about what Davis had told Commander Miller about crashed and retrieved craft. Before that meeting, Miller had written to Davis and [[Hal Puthoff]] offering his contractual services for research into UFO crash retrieval programs inside and outside the U.S. government. He asked to stay anonymous. In the letter Miller claimed to know:
+The notes open with Wilson saying that [[Oak Shannon|Oke Shannon]] had asked him to speak to Davis about what Wilson had told Commander Miller about crashed and retrieved craft. Before that meeting, Miller had written to Davis and [[Hal Puthoff]] offering his contractual services for research into UFO crash retrieval programs inside and outside the U.S. government. He asked to stay anonymous. In the letter Miller claimed to know:
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said Shannon wanted Wilson to discuss what Davis had told Miller. The notes (page 1) record Wilson saying Shannon wanted him to talk to Davis about "what he told Will Miller" in April and June 1997, meaning Wilson's own conversations with Miller.
 
 - specifics on a special team and two key officers focused on crash retrievals (Gerb guesses at programs such as [[Project Moon Dust|Moon Dust]], [[Operation Bluefly|Blue Fly]] or [[Operation Zodiac|Zodiac]]);
 - the name and location of a senior officer with firsthand knowledge of U.S. government [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]] (ARVs);

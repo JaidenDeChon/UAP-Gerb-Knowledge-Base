@@ -25,7 +25,10 @@ caption: "Twining's letter of 23 September 1947, \"AMC Opinion Concerning 'Flyin
 ---
 ::
 
-Sign had a high-level mandate and oversight. All Project Sign reports had to be sent to three major organizations: the [[Army and Navy Research and Development Board]], the [[USAF Scientific Advisory Group]] (the Air Force's civilian scientific advisory body, renamed the USAF Scientific Advisory Board in the late 1940s; the two videos use the two names interchangeably), and the [[Atomic Energy Commission]]. The distribution list shows that concern about UFOs reached across agencies at the highest levels of government and military leadership. It also shows a link to nuclear-adjacent institutions that continued through later programs.
+Gerb says all Project Sign reports had to be sent to three major organizations: the [[Army and Navy Research and Development Board]], the [[USAF Scientific Advisory Group]] (the Air Force's civilian scientific advisory body, renamed the USAF Scientific Advisory Board in the late 1940s; the two videos use the two names interchangeably), and the [[Atomic Energy Commission]]. Those names come from Twining's letter, which recommended that the study's data go for comment to the Army, the Navy, the AEC, the JRDB, the Air Force Scientific Advisory Group, NACA, and the RAND and NEPA projects. Gerb reads that list as concern about UFOs reaching across agencies at the highest levels of government and military leadership, and as a link to nuclear-adjacent institutions that continued through later programs.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said all Sign reports had to be sent to the three bodies. The list is the recommendation in Twining's letter of 23 September 1947 (paragraph 3a), which proposed sharing the study's data with the Army, the Navy, the AEC, the JRDB, the Air Force Scientific Advisory Group, NACA, and the RAND and NEPA projects; it was not a rule for Sign's reports.
 
 ## Gorman Dogfight Investigation
 

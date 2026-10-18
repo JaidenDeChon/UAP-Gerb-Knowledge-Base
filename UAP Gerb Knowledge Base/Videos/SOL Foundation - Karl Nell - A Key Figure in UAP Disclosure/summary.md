@@ -21,7 +21,7 @@ stats:
     hint: "People David Grusch interviewed; Leslie Kean named Nell as one"
   - value: "0–5"
     label: "Phases in Nell's plan"
-    hint: "The six phases of his UAP campaign plan, run across four lines of effort"
+    hint: "Phase 0 and the five phases of his UAP campaign plan, run across four lines of effort"
   - value: 2030
     label: "Public acceptance target"
     hint: "Phase 3 of Nell's plan, due 1 October; he calls it an inflection point"

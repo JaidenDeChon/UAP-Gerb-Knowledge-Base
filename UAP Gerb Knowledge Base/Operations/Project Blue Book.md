@@ -29,7 +29,10 @@ In public, Blue Book presented UFO investigation in a largely dismissive light. 
 
 ## USAF Regulation 200-2
 
-In 1953, a year after Blue Book was set up and immediately after the [[Robertson Panel]]'s mandate to suppress public interest in UFOs, the Air Force issued Regulation 200-2. It restricted reporting procedures so that every confirmed UFO report filed by Air Force personnel went directly to Air Force intelligence instead of to Blue Book. As a result, the most credible sightings bypassed the public investigation and went into classified channels, and the American public and Congress never saw the strongest evidence.
+In 1953, a year after Blue Book was set up and immediately after the [[Robertson Panel]]'s mandate to suppress public interest in UFOs, the Air Force issued Regulation 200-2. Gerb reads it as sending every confirmed UFO report filed by Air Force personnel to Air Force intelligence instead of to Blue Book, so that, in his account, the most credible sightings bypassed the public investigation and went into classified channels, and the American public and Congress never saw the strongest evidence. The regulation itself does not mention Blue Book: it sends electrical reports to Air Defense Command, the Air Technical Intelligence Center (ATIC) and the Director of Intelligence at Headquarters USAF, sends all evidence to ATIC, and names ATIC, the Wright-Patterson centre that ran Blue Book, as responsible for analysis. Its paragraph 8 lets a base's public information officer release a sighting's location, time, date and description, without the names of witnesses, Air Force comments, intercept details or classified radar data.
+
+> [!edit] Attribution clarified 17 October 2026
+> This paragraph used to state as fact that the regulation sent reports to Air Force intelligence rather than to Blue Book, keeping the strongest evidence from the public and Congress. That is Gerb's reading; the regulation (paragraphs 4, 6 and 7) routes reports to ATIC, Blue Book's parent, as well as to Air Defense Command and the Director of Intelligence, and paragraph 8 allows some details to be released (see its transcription).
 
 ::wiki-document
 ---

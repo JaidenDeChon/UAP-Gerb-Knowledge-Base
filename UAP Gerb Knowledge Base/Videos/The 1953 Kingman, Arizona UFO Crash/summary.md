@@ -145,7 +145,7 @@ events:
     cue: 608
   - date: "1953-08"
     title: "USAF Regulation 200-2"
-    summary: "Three months after the crash the Air Force requires all UFO reports to go to Air Force intelligence rather than Project Blue Book. Gerb argues this stove-piped reporting away from Congress and the public, and suspects it was meant to keep a lid on crash retrievals like Kingman."
+    summary: "Three months after the crash the Air Force issues its UFO reporting rule. Gerb says it sent all UFO reports to Air Force intelligence rather than Project Blue Book; the regulation names the Air Technical Intelligence Center, which ran Blue Book, as responsible for analysis. Gerb argues this stove-piped reporting away from Congress and the public, and suspects it was meant to keep a lid on crash retrievals like Kingman."
     category: policy
     significance: major
     entities:
@@ -284,7 +284,10 @@ Records of Wang are hard to find, Gerb says, but his role in special studies app
 
 ## Secrecy Around the Crash
 
-Gerb sets Kingman inside a year in which the government was already tightening its hold on UFO reporting. The [[Robertson Panel]], held to quell public interest in UFOs, began in January 1953, four months before the crash. Three months after it, the Air Force issued [[USAF Regulation 200-2]], which sent all UFO reports to Air Force intelligence rather than [[Project Blue Book]], the official investigation of the day. Gerb argues this stove-piped reporting, so that fewer credible reports reached Congress and the public and the UFO stigma grew. The regulation certainly relates to the Robertson Panel, he says, but it is also quite plausible that it was meant to keep a tight lid on crash retrievals such as Kingman and possibly Roswell.
+Gerb sets Kingman inside a year in which the government was already tightening its hold on UFO reporting. The [[Robertson Panel]], held to quell public interest in UFOs, began in January 1953, four months before the crash. Three months after it, the Air Force issued [[USAF Regulation 200-2]], which Gerb says sent all UFO reports to Air Force intelligence rather than [[Project Blue Book]], the official investigation of the day. The regulation itself never mentions Blue Book: it sends reports to Air Defense Command, the Air Technical Intelligence Center (ATIC) and the Director of Intelligence at Headquarters USAF, and names ATIC, which ran Blue Book, as responsible for analysis. Gerb argues this stove-piped reporting, so that fewer credible reports reached Congress and the public and the UFO stigma grew. The regulation certainly relates to the Robertson Panel, he says, but it is also quite plausible that it was meant to keep a tight lid on crash retrievals such as Kingman and possibly Roswell.
+
+> [!edit] Attribution clarified 17 October 2026
+> This paragraph used to state as fact that the regulation sent reports to Air Force intelligence rather than to Blue Book. That is Gerb's reading; the regulation (paragraphs 4, 6 and 7) routes reports to ATIC, Blue Book's parent, as well as to Air Defense Command and the Director of Intelligence, and its paragraph 8 allows a sighting's location, time, date and description to be released (see its transcription).
 
 ::wiki-document
 ---

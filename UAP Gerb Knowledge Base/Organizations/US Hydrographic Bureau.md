@@ -15,7 +15,10 @@ The Bureau also compiled the maritime data cited in Gerb's survey of historical 
 
 ## Relationship to Later USO Reporting Mechanisms
 
-In the nineteenth and early twentieth centuries, the Hydrographic Bureau collected reports of anomalous sightings at sea informally, before [[OPNAV 3820]] (1952/1954) and [[JANAP 146C]] (1954) imposed formal rules to suppress them. While the Bureau was operating, no legal prohibition kept witnesses from discussing or reporting unusual things they saw at sea. After World War II, a formal system of military classification emerged, and it turned USO reporting from an open question of maritime safety into a classified intelligence category.
+In the nineteenth and early twentieth centuries, the Hydrographic Bureau collected reports of anomalous sightings at sea informally, before [[OPNAV 3820]] (1954) and [[JANAP 146C]] (1954) imposed formal rules to suppress them. While the Bureau was operating, no legal prohibition kept witnesses from discussing or reporting unusual things they saw at sea. After World War II, a formal system of military classification emerged, and it turned USO reporting from an open question of maritime safety into a classified intelligence category.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions dated OPNAV 3820 "1952/1954". The directive is dated 23 January 1954; Gerb gives that date in his first USO video and says 1952 in his USO Case Book video.
 
 ## Sources
 

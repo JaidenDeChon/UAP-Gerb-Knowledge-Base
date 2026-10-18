@@ -257,7 +257,7 @@ events:
   - date: "1950"
     title: "Wilbert Smith's memo names Vannevar Bush"
     cue: 6876
-    summary: "Canadian radio engineer Wilbert B. Smith asked Canada's Department of Transport to study UFOs, relaying a Washington source's claims that the subject was classified higher than the H-bomb and studied by a small group headed by Vannevar Bush. The memo stayed top secret until 1969; Arthur Bray and Stanton Friedman obtained copies in 1978. The source was physicist Robert Sarbacher."
+    summary: "Canadian radio engineer Wilbert B. Smith asked Canada's Department of Transport for a geo-magnetics project, which he tied to the flying saucers, relaying claims gathered through Canadian Embassy staff in Washington that the subject was classified higher than the H-bomb and studied by a small group headed by Vannevar Bush. The memo stayed top secret until 1969; Arthur Bray and Stanton Friedman obtained copies in 1978. The source was physicist Robert Sarbacher."
     category: document
     significance: major
     entities:
@@ -784,7 +784,11 @@ Gerb's second argument is about people: the same individuals, he says, built bot
 
 He gathers four lines of evidence that name Bush as the first man to lead crash retrieval and reverse engineering:
 
-- In a [[Wilbert Smith Memo|1950 memo]], Canadian radio engineer [[Wilbert B. Smith]] asked Canada's Department of Transport to open a UFO study, relaying a Washington source's claims that the subject was classified higher than the H-bomb, that flying saucers exist, and that "a small group headed by Dr. Vannevar Bush" was studying them. The memo stayed top secret until 15 September 1969; [[Arthur Bray]] and [[Stanton Friedman]] obtained copies in 1978. The source was physicist [[Robert Sarbacher]], a consultant to the Research and Development Board.
+- In a [[Wilbert Smith Memo|1950 memo]], Canadian radio engineer [[Wilbert B. Smith]] asked Canada's Department of Transport for a geo-magnetics project (Gerb describes it as a request for Canada's first official UFO investigation), relaying claims gathered through Canadian Embassy staff in Washington that the subject was classified higher than the H-bomb, that flying saucers exist, and that "a small group headed by Dr. Vannevar Bush" was studying them. The memo stayed top secret until 15 September 1969; [[Arthur Bray]] and [[Stanton Friedman]] obtained copies in 1978. The source was physicist [[Robert Sarbacher]], a consultant to the Research and Development Board.
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions said the memo asked Canada to open a UFO study. That is Gerb's description; the memo, headed "Geo-Magnetics", asks for a project on drawing energy from the Earth's magnetic field, which Smith linked to the saucers.
+
 - In 1983, writing to [[William Steinman]] in the [[Sarbacher Letter]], Sarbacher said [[John Von Neumann|John von Neumann]] was definitely involved in 1940s and 1950s crash retrieval and that he strongly suspected Oppenheimer was too. Steinman's interviews with Sarbacher also brought up [[Eric A. Walker]], who admitted attending the 1965 [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg]] crash.
 - Kissner said that recovered vehicles were processed directly under Bush's supervision.
 - Steinman's 1986 book, *UFO Crash at Aztec: A Well-Kept Secret*, argues at length that Bush led the scientific team at the 1948 [[Aztec UFO Crash and Recovery|Aztec, New Mexico retrieval]], alongside alleged MJ-12 members Detlev Bronk, Lloyd Berkner and Jerome Hunsaker, plus Carl A. Hyland, von Neumann and [[J. Robert Oppenheimer]]. Gerb considers Aztec real but says Steinman did not document his sources; he cannot rule out that Steinman drew on the Interplanetary Phenomenon Unit documents before they leaked.
@@ -993,7 +997,11 @@ entries:
 - [[David Grusch]] states the Manhattan Project's secrecy apparatus was deliberately "overlaid" onto the UFO issue because it had worked for the atomic bomb; Gerb dates the Manhattan Project 2.0's formation to 1947–1954.
 - Five Manhattan Project security pillars (compartmentalization, organizational architecture, physical security, classification and information control, and political shield) are alleged to have been carried into the UFO effort, usually in harsher form.
 - According to J. Andrew Kissner, a classified executive order signed by Truman in July 1948 vested custody of recovered technical vehicles in the Atomic Energy Commission and its national laboratories.
-- The [[Atomic Energy Act of 1954]]'s restricted data, special nuclear material (Section 51) and TFNI (Section 142) categories are statutory, so a presidential executive order to release UFO files would not reach material classified under DOE authority. The Schumer legislation says UFO material has been misclassified as TFNI.
+- The [[Atomic Energy Act of 1954]]'s restricted data, special nuclear material (Section 51) and TFNI (Section 142) categories are statutory, so a presidential executive order to release UFO files would not reach material classified under DOE authority. Gerb reads the Schumer legislation as saying UFO material has been misclassified as TFNI; its finding 4 blames Atomic Energy Act exemptions and an "over-broad interpretation" of TFNI for UAP records not being declassified.
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions stated as fact that the Schumer legislation says UFO material was misclassified as TFNI. That is Gerb's reading of finding 4.
+
 - Gerb theorizes that the NNSA uses DOE Special Response Teams, NEST and its NF-MAP program, and the Office of Secure Transportation to recover, analyze and move recovered UFOs under the 1954 act.
 - Truman made the National Security Council the program's coordinator, and Eisenhower hid its control group, Majestic 12, in the NSC 5412 Committee (1954), which continued through Nixon's 303 Committee.
 - [[Vannevar Bush]]'s Research and Development Board (1947–1953) is alleged to have been the scientific hub for early crash retrieval, and Bush to have led the 1948 Aztec recovery team.

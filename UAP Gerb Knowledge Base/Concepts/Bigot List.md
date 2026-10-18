@@ -15,7 +15,10 @@ Unlike a standard security clearance, a place on a bigot list applies to one pro
 
 ## The Wilson-Davis Memo Context
 
-In the [[Wilson-Davis Memo]], Vice Admiral [[Thomas Wilson]], then Deputy Director of the Defense Intelligence Agency, was allegedly shown pages of a bigot list dated 1990 to 1993 for a crash retrieval and reverse engineering program run by an aerospace contractor. According to the memo:
+In the [[Wilson-Davis Memo]], Vice Admiral [[Thomas Wilson]], then Director for Intelligence (J-2) of the Joint Staff, a post the notes call Deputy Director of the Defense Intelligence Agency, was allegedly shown pages of a bigot list dated 1990 to 1993 for a crash retrieval and reverse engineering program run by an aerospace contractor. According to the memo:
+
+> [!edit] Clarified 17 October 2026
+> Earlier versions said Wilson was then Deputy Director of the DIA. That is the notes' title for his post; his service record gives it as Joint Staff J-2.
 
 - All names on the list were civilians: scientists, technicians, engineers, and managers
 - No politicians, White House officials, presidents, congressional members, or their staffers appeared on the list
@@ -29,7 +32,10 @@ caption: "The leaked 15-page notes, dated 16 October 2002, that purport to recor
 ---
 ::
 
-As Deputy Director of DIA, Wilson had statutory oversight and regulatory authority over all DoD special access programs, both acknowledged and unacknowledged. He was still denied access because he was not on the bigot list. The [[Watch Committee]] that oversaw the program told Wilson that membership of the list was decided by special criteria set after a near-exposure incident. Wilson did not meet those criteria, which were not disclosed.
+Wilson argued that as Deputy Director of DIA, as the notes style his post, he had statutory oversight and regulatory authority over all DoD special access programs, both acknowledged and unacknowledged. He was still denied access because he was not on the bigot list. The [[Watch Committee]] that oversaw the program told Wilson that membership of the list was decided by special criteria set after a near-exposure incident. Wilson did not meet those criteria, which were not disclosed.
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions stated Wilson's title and authority as fact. Both are Wilson's argument as the notes record it.
 
 ## "Bigoted" as a SAP Control Marking
 

@@ -4,7 +4,11 @@ tags:
   - concept
 ---
 
-Restricted Data is a category of classified information established by the [[Atomic Energy Act of 1954]] (and its predecessor, the Atomic Energy Act of 1946). It covers nuclear weapons design, production processes, and special nuclear materials. It is the only classification in the United States that applies to information automatically because of its subject matter, with no formal classification review, designation, or stamping, so such information is "born classified." The automatic approach began as an informal wartime practice by [[Leslie Groves]] during the Manhattan Project, when the science of nuclear fission was treated as secret by nature, whatever its formal designation.
+Restricted Data is a category of classified information established by the Atomic Energy Act of 1946 and carried into the [[Atomic Energy Act of 1954]], which defines it today. It covers nuclear weapons design, production processes, and special nuclear materials. It is the only classification in the United States that applies to information automatically because of its subject matter, with no formal classification review, designation, or stamping, so such information is "born classified." The automatic approach began as an informal wartime practice by [[Leslie Groves]] during the Manhattan Project, when the science of nuclear fission was treated as secret by nature, whatever its formal designation.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said the 1954 Act established Restricted Data, with the 1946 Act as its predecessor. The category was created by the 1946 Act; the 1954 Act kept it and defines it in section 11 r.
+
 
 ::wiki-document
 ---
@@ -28,9 +32,15 @@ Restricted Data, by contrast, is established by statute, the Atomic Energy Act p
 
 ## Related Category: Transclassified Foreign Nuclear Information (TFNI)
 
-Section 142 of the [[Atomic Energy Act of 1954]] created Transclassified Foreign Nuclear Information (TFNI), a designation for information about nuclear programs that a foreign government originally classified and that was later incorporated into US classified holdings. TFNI is protected under two frameworks at once, the Atomic Energy Act and the executive order system, and is explicitly exempt from declassification.
+Gerb counts Transclassified Foreign Nuclear Information (TFNI) among the classification standards that came with the [[Atomic Energy Act of 1954]]. The Act's basis for it is section 142 e, which has the Commission and the Director of Central Intelligence remove information about the atomic energy programs of other nations from the Restricted Data category so that it can be "adequately safeguarded as defense information". The name TFNI came later, and the Act says nothing about it being exempt from declassification. TFNI is protected under two frameworks at once, the Atomic Energy Act and the executive order system, and the Schumer amendment describes it as "also exempt from mandatory declassification".
 
-The Schumer UAP disclosure amendment (UAPDA) explicitly states that UFO legacy programs have misclassified UAP materials, data, files, programs, and discoveries as TFNI. That lets non-nuclear materials and programs benefit from the most restrictive statutory classification framework in the US government.
+> [!edit] Corrected 17 October 2026
+> Earlier versions said section 142 "created" TFNI, defined it as information a foreign government had classified, and said it was "explicitly exempt from declassification". Section 142 e only provides for removing other nations' atomic energy information from Restricted Data; the name is later, and the exemption language comes from the Schumer amendment's finding 4, not the Act.
+
+Gerb reads the Schumer UAP disclosure amendment (UAPDA) as saying that UFO legacy programs hid UAP materials, data, files, programs and discoveries as TFNI. The amendment's own finding 4 is narrower: it says UAP records have not been declassified "due in part to exemptions under the Atomic Energy Act of 1954" and "an over-broad interpretation" of TFNI. In Gerb's view, that lets non-nuclear materials and programs benefit from the most restrictive statutory classification framework in the US government.
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions said the amendment "explicitly states" that legacy programs misclassified UAP material as TFNI. That is Gerb's reading; finding 4 blames Atomic Energy Act exemptions and an over-broad interpretation of TFNI for records not being declassified, and names no legacy programs.
 
 ::wiki-document
 ---

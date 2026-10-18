@@ -57,7 +57,7 @@ items:
     kind: paper
     title: "Beneath the Surface: We May Learn More About UAP by Looking in the Ocean"
     where: "Sol Foundation"
-    note: "Calls for USO study to become a national research priority, citing the DoD's \"concerning non-reaction\" to unidentified objects entering US waters and the Tic Tac, Aguadilla and Shelburne Harbor cases."
+    note: "Calls for USO study to become a national research priority, citing what Gerb calls the DoD's \"concerning non-reaction\" to unidentified objects entering US waters, and the Tic Tac, Aguadilla and Shelburne Harbor cases."
     quote: "further study of UAP may lead to discoveries that make those of the Scientific Revolution in the 17th and 18 centuries look like baby steps"
     source: "USO - Unidentified Submerged Objects"
   - date: "2024-11-13"
@@ -85,7 +85,11 @@ Gallaudet's 2024 white paper, published through the Sol Foundation, presents a s
 - The ocean receives far less attention than the sky. Gerb finds the gap starkest in AARO's Historical Report Volume 1, which makes no reference to any USO case or maritime whistleblower account.
 - The paper cites documented cases: the [[2004 Nimitz UAP Encounter (Tic Tac)|2004 Nimitz Tic Tac encounter]], in which the UAP hovered over churning ocean water that suggested a submerged counterpart; the 2013 [[Aguadilla Puerto Rico Trans-Medium UAP Incident|Aguadilla, Puerto Rico incident]], in which a thermal camera recorded an object entering and leaving the Atlantic without significant deceleration and reaching 95 mph underwater; and the 1960 [[Shelburne Harbor USO Incident|Shelburne Harbor, Nova Scotia]] case, in which Royal Canadian Navy divers reportedly observed two disc-shaped craft on the seabed and occupants repairing one of them. Gallaudet writes that he thought the Shelburne story unbelievable until recent US military whistleblower revelations.
 - Gallaudet argues that engineering, materials science and physics "beyond the state-of-the-art" are needed to produce and operate trans-medium objects, and that the knowledge could transform air and maritime transportation, energy generation, agriculture, communication, computing, manufacturing, space travel and defense. In his words, further study could "make those of the Scientific Revolution in the 17th and 18th centuries look like baby steps."
-- The paper treats the DoD's "concerning non-reaction" to unidentified objects entering US water space as a maritime security concern, alongside the scientific questions.
+- The paper treats unidentified objects entering US water space as a maritime security concern, alongside the scientific questions. Gerb sums up its complaint as the DoD's "concerning non-reaction" to them; the phrase is his, not the paper's.
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions gave "concerning non-reaction" as the paper's wording. It is Gerb's, from his USO video (see [[Beneath the Surface (Gallaudet White Paper)]]).
+
 - Drawing on the literature, Gallaudet describes USOs as appearing in multiple forms: luminous orbs, silver and grey discs, triangular and cigar-shaped objects, and large lighted craft observed beneath the sea surface without emerging.
 
 The paper concludes that the study of UAP in the ocean should be made a national research priority, and it calls for action to uncover the "unknown unknowns" associated with UAP and USOs.

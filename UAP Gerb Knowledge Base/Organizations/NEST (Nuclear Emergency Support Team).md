@@ -17,7 +17,10 @@ In February 1997, NEST introduced the Joint Technical Operations (JTO) team. The
 
 ## Primary Authority
 
-NEST's primary authority comes from the [[Atomic Energy Act of 1954]]. The Schumer Rounds legislation identified the same act as the framework used to misclassify UAP data and materials as transclassified foreign nuclear information (TFNI). A 1995 NEST assessment team report noted that NEST laboratory program managers "enjoy a relatively high degree of autonomy and independence" in directing research priorities, a management style rooted in the laboratories' heavy focus on R&D during their formative years.
+NEST's primary authority comes from the [[Atomic Energy Act of 1954]]. Gerb says the Schumer-Rounds legislation labels the same act as a system for misclassifying UAP data and materials as transclassified foreign nuclear information (TFNI). The legislation's finding 4 is narrower: it says UAP records have not been declassified "due in part to exemptions under the Atomic Energy Act of 1954" and "an over-broad interpretation" of TFNI. A 1995 NEST assessment team report noted that NEST laboratory program managers "enjoy a relatively high degree of autonomy and independence" in directing research priorities, a management style rooted in the laboratories' heavy focus on R&D during their formative years.
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions stated as fact that the legislation identified the act as the framework used to misclassify UAP material as TFNI. That is Gerb's reading; the text is in finding 4 of the [[Schumer Amendment (NDAA)]].
 
 ## Alleged UAP Involvement
 

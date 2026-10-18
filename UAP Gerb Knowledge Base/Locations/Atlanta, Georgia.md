@@ -19,7 +19,10 @@ caption: "The anonymous 1992 memo signed \"JS\" that names Atlanta as the destin
 ---
 ::
 
-The Denb Report is an anomalous document first published on electronic bulletin boards in 1992. Researcher [[Leonard Stringfield]] independently corroborated it as "authoritatively written using correct military terminology". The report gives Atlanta as the destination but does not say which facility received the disc. Gerb notes that [[Lockheed Martin]] operates a complex at Air Force Plant 6 in Marietta, less than 30 miles outside Atlanta, where Lockheed says it performs [[Lockheed Martin Skunk Works|Skunk Works]] advanced development. Lockheed did C-130 work there from the 1950s. He also points to the Georgia Nuclear Aircraft Laboratory (Air Force Plant 67), which Lockheed ran. It studied whether nuclear-powered aircraft were feasible until it closed in 1971, and the city of Atlanta acquired it. Unconfirmed reports say the disc later went on to [[Wright-Patterson Air Force Base]] or another unnamed base.
+The Denb Report is an anomalous document first published on electronic bulletin boards in 1992. Researcher [[Leonard Stringfield]], who had heard of the case on his own years earlier, judged it "authoritatively written using correct military terminology". The report gives Atlanta as the destination but does not say which facility received the disc. Gerb notes that [[Lockheed Martin]] operates a complex at Air Force Plant 6 in Marietta, less than 30 miles outside Atlanta, where Lockheed says it performs [[Lockheed Martin Skunk Works|Skunk Works]] advanced development. Lockheed did C-130 work there from the 1950s. He also points to the Georgia Nuclear Aircraft Laboratory (Air Force Plant 67), which Lockheed ran. It studied whether nuclear-powered aircraft were feasible until it closed in 1971, and the city of Atlanta acquired it. Unconfirmed reports say the disc later went on to [[Wright-Patterson Air Force Base]] or another unnamed base.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said Stringfield independently corroborated the report. He judged it well written, "authoritatively written using correct military terminology", and unlike a hoax in separating hard evidence from speculation; he did not corroborate its contents.
 
 ## Implications
 

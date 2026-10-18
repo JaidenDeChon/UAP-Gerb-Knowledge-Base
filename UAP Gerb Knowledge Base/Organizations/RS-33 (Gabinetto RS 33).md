@@ -27,7 +27,10 @@ Internal memorandums bearing the seal of the Kingdom Senate set out a systematic
 8. Notification of the Air Force only with prior RS-33 approval; RS-33 decisions could not be appealed, up to the level of Il Duce himself
 9. Strict exclusion of all other scientific bodies, including pontifical universities, from examining the evidence
 
-These protocols are strikingly similar to the U.S. procedures later codified in [[USAF Regulation 200-2]] in 1953. That regulation also centralized UFO reporting, restricted information sharing with scientific bodies, and kept UAP evidence under strict military control.
+Gerb finds these protocols strikingly similar to the U.S. procedures later codified in [[USAF Regulation 200-2]] in 1953, which in his description also confined UFO reporting to the Air Force and kept cases from scientific bodies and [[Project Blue Book]]. The regulation itself says nothing about scientific bodies and never mentions Blue Book. It sends reports to Air Defense Command, the Air Technical Intelligence Center (ATIC) and the Director of Intelligence at Headquarters USAF, names ATIC, which ran Blue Book, as responsible for analysis, and in its paragraph 8 lets a base release a sighting's location, time, date and description.
+
+> [!edit] Attribution clarified 17 October 2026
+> This paragraph used to state as fact that the regulation restricted information sharing with scientific bodies. That is Gerb's description in his Magenta video; the regulation (paragraphs 4, 6, 7 and 8) routes reports to ATIC, Air Defense Command and the Director of Intelligence and says nothing about scientific bodies (see its transcription).
 
 ## Funding and Infrastructure
 

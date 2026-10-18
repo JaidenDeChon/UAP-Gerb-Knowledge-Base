@@ -44,7 +44,7 @@ items:
     kind: speech
     title: "Symposium talk on UAP disclosure and a campaign plan"
     where: "SOL Foundation Symposium"
-    note: "A 31-minute talk at Stanford reading the Schumer Amendment's definitions, setting controlled against catastrophic disclosure, and laying out a six-phase disclosure plan running to 2034 and beyond. One slide leaked the same month; the recording became viewable in February 2024."
+    note: "A 31-minute talk at Stanford reading the Schumer Amendment's definitions, setting controlled against catastrophic disclosure, and laying out a disclosure plan of five phases, after a Phase 0, running to 2034 and beyond. One slide leaked the same month; the recording became viewable in February 2024."
     source: "SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure"
   - date: "2024-05"
     kind: interview

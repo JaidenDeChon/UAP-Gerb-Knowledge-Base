@@ -29,7 +29,10 @@ The 80 Years timeline video ties this custody chain specifically to the [[Kona B
 
 Stansel's supervisor at [[Wright-Patterson Air Force Base]], Dr. [[Eric Henry Wang]], is independently alleged to have been one of the main directors of UAP reverse engineering from the time of the [[Aztec UFO Crash and Recovery]] onward.
 
-Three months after the Kingman crash, the USAF issued Regulation 200-2, diverting UFO reports to Air Force Intelligence rather than [[Project Blue Book]].
+Three months after the Kingman crash, the USAF issued [[USAF Regulation 200-2|Regulation 200-2]], which Gerb says diverted UFO reports to Air Force Intelligence rather than [[Project Blue Book]]. The regulation itself never mentions Blue Book: it sends reports to Air Defense Command, the Air Technical Intelligence Center (ATIC) and the Director of Intelligence at Headquarters USAF, and names ATIC, which ran Blue Book, as responsible for analysis.
+
+> [!edit] Attribution clarified 17 October 2026
+> This paragraph used to state as fact that the regulation diverted reports to Air Force intelligence rather than to Blue Book. That is Gerb's reading; the regulation (paragraphs 4, 6 and 7) routes reports to ATIC, Blue Book's parent, as well as to Air Defense Command and the Director of Intelligence.
 
 ## Sources
 

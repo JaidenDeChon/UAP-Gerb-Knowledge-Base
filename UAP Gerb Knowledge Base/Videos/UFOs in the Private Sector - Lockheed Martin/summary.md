@@ -105,7 +105,7 @@ events:
   - date: "1986-07-24"
     title: "GAO testimony on Lockheed's document control"
     cue: 1322
-    summary: "Frank C. Conahan, director of the General Accounting Office's National Security and International Affairs Division, testified that Lockheed had a poor control system for classified special access documents, with no oversight from the DoD program office, and that the Defense Investigative Service had been barred from its semiannual inspections. An inventory of 40,000 documents found 1,460 discrepancies; an estimated 46 had been destroyed and 17 transferred out of the company and never found."
+    summary: "GAO testified that Lockheed had a poor control system for classified special access documents, with no oversight from the DoD program office, and that the Defense Investigative Service had not been permitted its semiannual inspections of the carve-out contract. Gerb credits the testimony to Frank C. Conahan, director of GAO's National Security and International Affairs Division; the report that reprints it names Associate Director Martin M. Ferber. An inventory of 40,000 documents found 1,460 discrepancies; among the 224 that Lockheed reported resolved were 46 documents destroyed with receipts reportedly on file and 17 transferred out of the company."
     category: document
     significance: major
     entities:
@@ -551,7 +551,10 @@ root:
 
 Because this is, as Gerb puts it, a UAP Gerb video, he turns to the documents. The first is from the Blue Book era: a 1953 sighting in which Lockheed test pilots and ground crew watched a flying disc with anomalous acceleration characteristics, three of the men swearing to it as testimony. The case was submitted to [[Project Blue Book]] but, curiously, was never listed again.
 
-The second is an audit. Gerb recalls the passage in the [[Wilson-Davis Memo]] in which the watch committee of the black crash retrieval and reverse-engineering program tells Admiral Wilson they were almost outed by an audit. On 24 July 1986, [[Frank Conahan|Frank C. Conahan]], director of the General Accounting Office's National Security and International Affairs Division, testified before a subcommittee on oversight and investigations that Lockheed had a poor control system for classified special access documents and no oversight from the DoD program office, and that the Defense Investigative Service had not been allowed to carry out its semiannual inspections of the contract in question. An inventory of 40,000 documents turned up 1,460 discrepancies; an estimated 46 documents had been destroyed and 17 transferred out of the company and never found. Gerb considers it "extremely suspicious", and a likely candidate for the audit that led the watch committee to reorganize SAP status in the 1990s to hide itself better.
+The second is an audit. Gerb recalls the passage in the [[Wilson-Davis Memo]] in which the watch committee of the black crash retrieval and reverse-engineering program tells Admiral Wilson they were almost outed by an audit. On 24 July 1986, according to Gerb, [[Frank Conahan|Frank C. Conahan]], director of the General Accounting Office's National Security and International Affairs Division, testified before a subcommittee on oversight and investigations that Lockheed had a poor control system for classified special access documents and no oversight from the DoD program office, and that the Defense Investigative Service had not been allowed to carry out its semiannual inspections of the contract in question. (The GAO report that reprints the testimony credits it to Associate Director Martin M. Ferber; Conahan signed the report's covering letter.) An inventory of 40,000 documents turned up 1,460 discrepancies. Gerb says an estimated 46 documents were destroyed and 17 transferred out of the company and never found; the report lists both groups among the 224 discrepancies Lockheed reported resolved, the destructions with receipts reportedly on file. Gerb considers it "extremely suspicious", and a likely candidate for the audit that led the watch committee to reorganize SAP status in the 1990s to hide itself better.
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions stated as fact that Conahan testified and that the 46 destroyed and 17 transferred documents were never found. Both come from Gerb; the report (GAO/NSIAD-86-191, pages 6, 8 and 9) names Ferber as the witness and counts those documents among the resolved cases.
 
 ::wiki-document
 ---
@@ -628,7 +631,11 @@ entries:
 - Bernard Haisch said in 2018 that four related unacknowledged programs tracing to a 1947 Truman memorandum were housed in contractors including Lockheed, TRW, Raytheon and the Aerospace Corporation, with budgets "in the $10 billion range and up", and that AATIP was denied access to the crash retrieval program.
 - Edgar Fouché said Lockheed-contracted efforts reverse-engineered triangular craft at a Defense Advanced Research Center beneath Groom Lake; his posting to Detachment 3, AFFTC, is confirmed.
 - Anti-gravity research at the Glenn L. Martin Company's RIAS from 1955, a predecessor of Lockheed Martin, is supported by journal evidence, according to the video.
-- A 1986 GAO audit found 1,460 discrepancies among 40,000 Lockheed classified documents, no DoD program-office oversight of certain special access contracts, 46 documents destroyed and 17 transferred out and never recovered; Gerb links it to the audit in the Wilson-Davis memo.
+- A 1986 GAO audit found 1,460 discrepancies among 40,000 Lockheed classified documents, no DoD program-office oversight of certain special access contracts, and 46 documents destroyed and 17 transferred out (cases Lockheed reported as resolved, though Gerb says the 17 were never found); Gerb links it to the audit in the Wilson-Davis memo.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said the 46 and 17 documents were never recovered. The GAO report (pages 8 and 9) lists them among the 224 resolved cases.
+
 - DoD documents show $80 million planned for an Aurora program in fiscal 1986 and $2.3 billion in 1987; Nick Cook saw a triangular "Astra" on the Skunk Works lineage chart; and the MoD's Project Condign lists the Calvine photo as "Astra / Aurora photos."
 
 ## Sources

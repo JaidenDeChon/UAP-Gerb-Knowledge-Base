@@ -18,7 +18,10 @@ Avery Technical Center was set up for radiological studies and research into han
 > [!edit] Corrected 17 October 2026
 > This paragraph used to say Avery housed the Radiobiological Warfare Laboratories for the Atomic Energy Commission. The assessment says radiological warfare laboratories, with the AEC supplying spent fuel elements; the other wording is Gerb's.
 
-An unclassified environmental assessment from July 2012, titled "Environmental Assessment of the Continued Exclusive Use of Department of the Army Land Located at US Army Dugway Proving Ground by Members of the US Air Force", describes Avery's structure and operations in detail. It states that Army Test and Evaluation Command personnel and the Air Force's 388th Range Squadron operate the facility jointly.
+An unclassified environmental assessment from July 2012, titled "Environmental Assessment for the Continued Exclusive Use of Department of the Army Land Located at US Army Dugway Proving Ground by Members of the US Air Force", describes Avery's structure and operations in detail. It states that Army Test and Evaluation Command personnel and the Air Force's 388th Range Squadron operate the facility jointly.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions gave the title as "Environmental Assessment of the Continued…". The report's cover and its DTIC documentation page read "for".
 
 ::wiki-document
 ---

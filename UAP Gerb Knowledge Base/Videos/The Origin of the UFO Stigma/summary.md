@@ -76,7 +76,7 @@ events:
     cue: 203
   - date: "1948"
     title: "Project Sign begins"
-    summary: "The first official US government program investigating UFOs. Its written report states that some reports present actual objects of undeterminable origin, and Edward J. Ruppelt later said Sign endorsed the interplanetary explanation for some unexplained cases. Every Sign report had to go to the Army and Navy Research and Development Board, the USAF Scientific Advisory Group and the Atomic Energy Commission."
+    summary: "The first official US government program investigating UFOs. Its written report states that some reports present actual objects of undeterminable origin, and Edward J. Ruppelt later said Sign endorsed the interplanetary explanation for some unexplained cases. Gerb says every Sign report had to go to the Army and Navy Research and Development Board, the USAF Scientific Advisory Group and the Atomic Energy Commission; Twining's 1947 letter recommended sharing the study's data with those bodies and five others."
     category: program
     significance: major
     entities:
@@ -264,10 +264,13 @@ caption: "The opening of Twining's letter to Brig. Gen. George Schulgen, with th
 ---
 ::
 
-Gerb stresses who received Sign's reports: every one had to be sent to the [[Army and Navy Research and Development Board]], the [[USAF Scientific Advisory Group]] and the [[Atomic Energy Commission]]. He reads this as one more case of an official UFO investigation tracing back to the AEC, parent of today's Department of Energy. Gerb says General [[Hoyt Vandenberg]] shut Sign down in 1949 for "lack of proof". In Ruppelt's account, what Vandenberg rejected for lack of proof was the 1948 Estimate, not the project, and Sign was renamed Grudge by an order of 11 February 1949.
+Gerb stresses who received Sign's reports, saying every one had to be sent to the [[Army and Navy Research and Development Board]], the [[USAF Scientific Advisory Group]] and the [[Atomic Energy Commission]]. Those names come from Twining's letter, which recommended that the study's data go for comment to the Army, the Navy, the AEC, the JRDB, the Air Force Scientific Advisory Group, NACA, and the RAND and NEPA projects. He reads this as one more case of an official UFO investigation tracing back to the AEC, parent of today's Department of Energy. Gerb says General [[Hoyt Vandenberg]] shut Sign down in 1949 for "lack of proof". In Ruppelt's account, what Vandenberg rejected for lack of proof was the 1948 Estimate, not the project, and Sign was renamed Grudge by an order of 11 February 1949.
 
 > [!edit] Corrected 16 October 2026
 > This sentence, the 1949 timeline entry, the comparison table and the key claims used to say as fact that Vandenberg shut Sign down in 1949 for "lack of proof". That is Gerb's account. Ruppelt, the only source for Vandenberg's part, says he rejected Sign's 1948 Estimate of the Situation for lack of proof; Sign became Grudge by an order of February 1949 that Ruppelt doesn't credit to Vandenberg.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said every Sign report had to be sent to the three bodies, as Gerb says in the video. The list is the recommendation in Twining's letter of 23 September 1947 (paragraph 3a), which proposed sharing the study's data with the Army, the Navy, the AEC, the JRDB, the Air Force Scientific Advisory Group, NACA, and the RAND and NEPA projects; it was not a rule for Sign's reports.
 
 ### Project Grudge
 

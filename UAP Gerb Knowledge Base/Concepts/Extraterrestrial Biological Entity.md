@@ -10,7 +10,11 @@ Extraterrestrial biological entity, usually shortened to EBE, is a term for the 
 
 The two sources Gerb covers give different origins for the name.
 
-- The [[Eisenhower Briefing Document]], as Gerb reads it with [[Ryan S. Wood]], says Dr. [[Detlev Bronk]] performed autopsies on the Roswell bodies and coined the term.
+- The [[Eisenhower Briefing Document]] says the analysis of the four Roswell bodies was arranged by Dr. [[Detlev Bronk]] and that his team suggested the term. Gerb, reading it with [[Ryan S. Wood]], says Bronk performed the autopsies.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said the document has Bronk performing the autopsies. It says the analysis "was arranged by Dr. Bronk"; the autopsies are Gerb's reading. Source: the copy in the FBI Vault's Majestic 12 file.
+
 - In an interview clip in Gerb's Corso video, Corso says his own team chose the name after concluding the beings were clones.
 
 ## Corso and the Roswell autopsies

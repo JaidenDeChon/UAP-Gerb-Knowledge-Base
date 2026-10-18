@@ -77,7 +77,7 @@ events:
   - date: "1947-07-07"
     title: "Roswell crash opens the Majestic 12 story"
     cue: 527
-    summary: "According to the Eisenhower Briefing Document, the crash northwest of Roswell Army Airfield in July 1947 marked the beginning of MJ-12, with craft and body recovery directed by General Nathan Twining and Dr. Vannevar Bush and autopsies by Dr. Detlev Bronk, who is said to have coined the term EBE (extraterrestrial biological entity). The Interplanetary Phenomenon Unit (IPU) Report later described two landing zones and body parts at the primary site."
+    summary: "According to the Eisenhower Briefing Document, the crash northwest of Roswell Army Airfield in July 1947 marked the beginning of MJ-12, with an analytical effort organised by General Nathan Twining and Dr. Vannevar Bush and an analysis of the bodies arranged by Dr. Detlev Bronk, whose team is said to have coined the term EBE (extraterrestrial biological entity). The Interplanetary Phenomenon Unit (IPU) Report later described two landing zones and body parts at the primary site."
     category: event
     significance: major
     entities:
@@ -195,7 +195,7 @@ events:
   - date: "1960"
     title: "Vernon Bowen submits the Encyclopedia of Flying Saucers"
     cue: 5313
-    summary: "Vernon Bowen sent his typed history of UFO cases up to 1960 to the Air Force for review and never got it back. The manuscript resurfaced 39 years later bearing Top Secret MAGIC stamps and marginalia the Woods attribute to Vannevar Bush."
+    summary: "Vernon Bowen sent his typed history of UFO cases, which covers 1947 to 1954 (Wood describes it as running up to 1960), to the Air Force for review and never got it back. The manuscript resurfaced 39 years later bearing Top Secret MAGIC stamps and marginalia the Woods attribute to Vannevar Bush."
     category: document
     significance: notable
     entities:
@@ -360,13 +360,13 @@ entries:
     note: "Named as the Eisenhower briefing officer. Stanton Friedman placed him in New York as head of the Third Naval District in late 1952, answering critics who said he was in Korea."
   - name: Vannevar Bush
     role: Head of the Office of Scientific Research and Development
-    note: "With Forrestal, recommended MJ-12's creation and directed the Roswell recovery, per the documents. Handwritten notes on the Bowen Manuscript are attributed to him."
+    note: "With Forrestal, recommended MJ-12's creation and, with Twining, organised the analytical effort on the Roswell craft, per the documents. Handwritten notes on the Bowen Manuscript are attributed to him."
   - name: James Forrestal
     role: Secretary of the Navy, first Secretary of Defense
     note: "Co-founder, per the documents. Wood says he favoured openness; he died in a fall from Bethesda Naval Hospital in 1949, a death one document calls 'necessary and regrettable'."
   - name: Nathan Twining
     role: Air Materiel Command; led Project Sign
-    note: "Directed the Roswell craft and body recovery with Bush, per the Eisenhower Briefing Document, and is named in the IPU Report as aiding the operation."
+    note: "Organised the analytical effort on the Roswell craft with Bush, per the Eisenhower Briefing Document, and is named in the IPU Report as aiding the operation."
   - name: Hoyt Vandenberg
     role: Air Force Chief of Staff; head of the Central Intelligence Group
     note: "Named in the IPU Report, alongside Twining, as aiding the Roswell recovery."
@@ -378,7 +378,7 @@ entries:
     note: "Replaced the dead Forrestal on 1 August 1950. Truman's records show an off-the-record meeting with Smith that day."
   - name: Detlev Bronk
     role: Assumed MJ-12 member; physiologist
-    note: "Performed the Roswell autopsies and coined the term EBE (extraterrestrial biological entity), per the briefing document; the IPU Report names Dr. Charles Ethan Ray as his fellow autopsist."
+    note: "Arranged the analysis of the Roswell bodies, and his team suggested the term EBE (extraterrestrial biological entity), per the briefing document. The IPU Report names him as assisting in the autopsy, with Dr. Charles Ethan Ray as his fellow autopsist."
 ---
 ::
 
@@ -692,7 +692,11 @@ Gerb closes by recommending Wood's *Magic Eyes Only*, Friedman's *Top Secret/Maj
 
 - About 3,500 pages of Majestic documents were leaked between 1984 and 1999 from seven different sources, by film, post, mailbox drops and FOIA mailings, according to Ryan S. Wood.
 - Majestic 12 was allegedly set up by a classified executive order of Harry Truman on 24 September 1947, on the recommendation of Vannevar Bush and James Forrestal. Truman's appointment records show a meeting with both men that day, and an off-the-record meeting with Walter B. Smith on 1 August 1950, the date the Eisenhower Briefing Document gives for Smith replacing Forrestal.
-- The Eisenhower Briefing Document (18 November 1952) describes the Roswell recovery directed by Twining and Bush, autopsies by Detlev Bronk, a December 1950 crash near El Indio, Texas, and a disclosure contingency plan, MJ-1949-04P/78, that SOM 1-01 also cites.
+- The Eisenhower Briefing Document (18 November 1952) describes the Roswell recovery, an analytical effort organised by Twining and Bush, an analysis of the bodies arranged by Detlev Bronk, a December 1950 crash near El Indio, Texas, and a disclosure contingency plan, MJ-1949-04P/78, that SOM 1-01 also cites.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said Twining and Bush directed the recovery and Bronk performed the autopsies, as Gerb reads the document in the video. The document says Twining and Bush organised the analytical effort and the analysis of the bodies "was arranged by Dr. Bronk". Source: the copy in the FBI Vault's Majestic 12 file.
+
 - SOM 1-01, allegedly written in 1954 and held at Kirtland Air Force Base, describes four craft types, two EBE types, press-blackout procedures and a "Red Team" for functional craft. Its classification table routes craft to Area 51 S-4, records to Kirtland Building 21, deceased entities to the Wright-Patterson Blue Room and living entities to OPNAV BBS-01.
 - A retired Government Printing Office supervisor identified hot-lead printing artifacts and period-correct typography in SOM 1-01, and the Woods traced men with the control-page initials EWL and JRT to Perimeter Road on Kirtland in the mid-1950s.
 - Navy yeoman Dale Bailey alleges he saw SOM 1-01 in 1976 while helping destroy classified UFO material for an admiral.

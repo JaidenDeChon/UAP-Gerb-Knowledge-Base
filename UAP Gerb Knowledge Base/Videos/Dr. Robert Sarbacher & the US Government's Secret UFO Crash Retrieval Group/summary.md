@@ -262,7 +262,10 @@ events:
 
 ## The Smith Memo
 
-In 1950, [[Wilbert B. Smith]], a senior radio engineer with Canada's Department of Transport, wrote to the department's Controller of Telecommunications asking that Canada begin its first official investigation into UFOs, focused on magnetism as a form of propulsion. The letter relays four claims from a source within Washington:
+In November 1950, [[Wilbert B. Smith]], a senior radio engineer with Canada's Department of Transport, wrote to the department's Controller of Telecommunications. Gerb describes the memo as asking Canada to begin its first official investigation into UFOs, focused on magnetism as a form of propulsion; the memo itself, headed "Geo-Magnetics", asks for a small project to study drawing energy from the Earth's magnetic field, work Smith tied to the flying saucers. It relays four claims that, it says, came from "discreet enquiries through the Canadian Embassy staff in Washington":
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions stated as fact that the memo asked for an official UFO investigation into magnetic propulsion, and credited its claims to "a source within Washington". Both are Gerb's descriptions; the memo asks for a geo-magnetics project, never mentions propulsion, and credits its information to enquiries through Canadian Embassy staff.
 
 1. The matter is the most highly classified subject in the United States government, rating even higher than the H-bomb.
 2. Flying saucers exist.

@@ -5,13 +5,22 @@ tags:
   - organization
 ---
 
-The Atomic Energy Commission (AEC) was a United States government agency established in 1946 to manage the nation's nuclear weapons program and promote peaceful uses of atomic energy. For UFO investigations, it was one of three bodies required to receive every [[Project Sign]] UFO investigation report, along with the [[Army and Navy Research and Development Board]] and the [[USAF Scientific Advisory Group|USAF Scientific Advisory Board]].
+The Atomic Energy Commission (AEC) was a United States government agency established in 1946 to manage the nation's nuclear weapons program and promote peaceful uses of atomic energy. For UFO investigations, Gerb names it as one of three bodies required to receive every [[Project Sign]] report, along with the [[Army and Navy Research and Development Board]] and the [[USAF Scientific Advisory Group|USAF Scientific Advisory Board]]. The AEC is on the list of recipients that Lieutenant General [[Nathan Twining]]'s [[Twining Memo|letter of 23 September 1947]] recommended for the data of a detailed study.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said the AEC was one of three bodies required to receive every Sign report. The list is the recommendation in Twining's letter of 23 September 1947 (paragraph 3a), which proposed sharing the study's data with the Army, the Navy, the AEC, the JRDB, the Air Force Scientific Advisory Group, NACA, and the RAND and NEPA projects; it was not a rule for Sign's reports.
 
 ## Role in Early UFO Investigations
 
-In 1948 the Atomic Energy Commission was made a mandatory recipient of Project Sign reports. That choice indicates high-level government concern that UFO phenomena might be connected to atomic or nuclear capabilities. It suggests that UFO sightings were being evaluated as possible security threats involving nuclear weapons, nuclear facilities or advanced propulsion technologies, as well as aviation anomalies.
+Twining's letter recommended that the study's data be made available to the Atomic Energy Commission, among eight recipients (the Army, the Navy, the AEC, the JRDB, the Air Force Scientific Advisory Group, NACA, and the RAND and NEPA projects); Gerb says the AEC was a mandatory recipient of Sign's reports. The AEC's place on the list may indicate high-level government concern that UFO phenomena might be connected to atomic or nuclear capabilities. It suggests that UFO sightings were being evaluated as possible security threats involving nuclear weapons, nuclear facilities or advanced propulsion technologies, as well as aviation anomalies.
 
-The AEC may have been included because of UFO sightings near nuclear installations, worries about foreign reconnaissance of atomic sites, or interest in advanced propulsion systems that could bear on nuclear technology. Sending all Project Sign findings to the AEC shows how UFO investigation overlapped with national security priorities in the early Cold War.
+> [!edit] Corrected 17 October 2026
+> Earlier versions said the AEC was made a mandatory recipient of Sign reports in 1948. The list is the recommendation in Twining's letter of 23 September 1947 (paragraph 3a), which proposed sharing the study's data with the Army, the Navy, the AEC, the JRDB, the Air Force Scientific Advisory Group, NACA, and the RAND and NEPA projects; it was not a rule for Sign's reports.
+
+The AEC may have been included because of UFO sightings near nuclear installations, worries about foreign reconnaissance of atomic sites, or interest in advanced propulsion systems that could bear on nuclear technology. Its place on the list of recipients shows how UFO investigation overlapped with national security priorities in the early Cold War.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said all Project Sign findings were sent to the AEC. The list is the recommendation in Twining's letter of 23 September 1947 (paragraph 3a), which proposed sharing the study's data with the Army, the Navy, the AEC, the JRDB, the Air Force Scientific Advisory Group, NACA, and the RAND and NEPA projects; it was not a rule for Sign's reports.
 
 ## Additional Context
 

@@ -220,8 +220,13 @@ Bush appears in multiple independent lines of UAP testimony and documentation:
 
 > [!edit] Corrected 16 October 2026
 > Earlier versions put Oppenheimer on the same footing as Bush and von Neumann. The letter is less sure of him.
+
 - In 1990, in three recorded calls with Henry Azadehdel, who wrote as Armen Victorian, [[Eric A. Walker]] confirmed Bush's involvement in the UFO program.
-- Among the [[Majestic 12]] documents, the [[Eisenhower Briefing Document]] names Bush as a member of the team that President Truman tasked with investigating crashed UAP, and says he directed the Roswell craft and body recovery with General Nathan Twining. Gerb notes that Truman, Forrestal and Bush really did meet on 24 September 1947, the date of its memo authorizing "Operation Majestic 12".
+- Among the [[Majestic 12]] documents, the [[Eisenhower Briefing Document]] names Bush as a member of the team that President Truman tasked with investigating crashed UAP, and says that after Roswell he and General Nathan Twining organised the analytical effort on the craft. Gerb notes that Truman, Forrestal and Bush really did meet on 24 September 1947, the date of its memo authorizing "Operation Majestic 12".
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said the document has Bush directing the Roswell craft and body recovery with Twining. It says a covert analytical effort was organised by Twining and Bush, and that the analysis of the bodies was arranged by Detlev Bronk. Source: the copy in the FBI Vault's Majestic 12 file.
+
 - The [[Bowen Manuscript]], returned through FOIA in 1999, bears marginal notes from about 1962 that Ryan and Robert Wood attribute to Bush, among them "what is Don Menzel doing?" and, beside speculation about American gravity-control craft, "this should not get out".
 - In his 1994 statement, which Gerb treats as an "estimate of the situation", former New Mexico state representative [[Andrew Kissner]] said that from 1947 onward, UFOs recovered from Roswell and White Sands were collected, processed and analyzed by teams operating under Bush. Gerb says this independent line of testimony lines up with Sarbacher's disclosures to Smith.
 - [[William Steinman]]'s 1986 book *UFO Crash at Aztec* argues that Bush led the scientific team at the 1948 [[Aztec UFO Crash and Recovery|Aztec, New Mexico retrieval]], alongside [[Detlev Bronk]], von Neumann and Oppenheimer. Gerb considers Aztec real but faults Steinman for not documenting his sources. In his Aztec video Gerb also traces the oil-finding "doodlebug" at the heart of the case to Geophysical Service Inc.'s wartime magnetic submarine-detection work under Bush's OSRD.
