@@ -14,12 +14,18 @@
     python3 scripts/analyses.py resolve ID shelved "<why it falls below the impact bar>"
     python3 scripts/analyses.py signals LENS [N]  # preview a lens's raw signals without handing out a slice
 
-A *slice* is one scout's share of the vault, seen through one of five lenses:
+A *slice* is one scout's share of the vault, seen through one of six lenses:
 
+- documents: one primary document (a page in `Documents/` with a clean
+  transcription, or a substantive page without one), read against the wiki
+  pages it links to and every video whose summary or transcript mentions it.
+  This is where smoking guns and confirmations come from, and where the videos
+  get checked against an outside record. While any document is unswept, every
+  batch opens with one, and it comes up every third slice.
 - focus: one of the most-referenced people, programs or cases, read across
-  every video that covers it. This is the main lens: the subjects viewers care
-  about most have the widest pool of material, and a finding about them matters
-  most. It comes up every other slice.
+  every video that covers it. The subjects viewers care about most have the
+  widest pool of material, and a finding about them matters most. It comes up
+  every third slice (every other slice once the documents are swept).
 
 - links: entity pairs, at least one of them well covered, that share many neighbours in the link graph but never
   link each other, never appear in the same video summary, and are never
@@ -58,14 +64,17 @@ VAULT = ROOT / "UAP Gerb Knowledge Base"
 LEDGER = VAULT / ".analyses.json"
 INBOX = ROOT / ".analysis_inbox"
 
-ENTITY_DIRS = ["People", "Organizations", "Operations", "Events", "Locations", "Concepts"]
+# Documents are entities too: a lead can name one, and a shared document is a link worth finding.
+ENTITY_DIRS = ["People", "Organizations", "Operations", "Events", "Locations", "Concepts", "Documents"]
 # Concepts make good shared neighbours but dull pairs ("Reverse Engineering" touches everything).
 PAIR_DIRS = {"People", "Organizations", "Operations", "Events", "Locations"}
 ACCOUNT_DIRS = {"People", "Events", "Operations"}
 PATTERN_DIRS = ["Events", "Operations"]
-KINDS = {"hidden-link", "timeline", "contradiction", "change-of-view", "pattern"}
-# Focus every other slice: the most-covered subjects are where findings matter most.
-LENSES = ["focus", "links", "focus", "accounts", "focus", "patterns", "focus", "timeline"]
+KINDS = {"smoking-gun", "corroboration", "hidden-link", "timeline", "contradiction", "change-of-view", "pattern"}
+# Documents and focus every third slice each: primary documents and the most-covered subjects are
+# where findings matter most. cmd_next_slices opens each batch on a documents slice while any are left.
+LENSES = ["documents", "focus", "links", "documents", "focus", "accounts",
+          "documents", "focus", "patterns", "documents", "focus", "timeline"]
 
 LINKS_PER_SLICE = 20
 # Only leads with at least this impact reach the writer (see "Publishing bar" in docs/analyses.md).
@@ -81,6 +90,13 @@ DUPLICATE_OVERLAP = 0.75
 ACCOUNTS_PASSAGES_PER_SLICE = 40
 PATTERNS_PER_SLICE = 18
 DECADES = [f"{d}s" for d in range(1940, 2030, 10)]
+TRANSCRIPTIONS = VAULT / "Documents" / "Transcriptions"
+# A document page with no transcription gets a slice only if its own text runs to this many characters.
+DOC_MIN_CHARS = 2500
+# A document's name or alias shorter than this is too likely to match unrelated text in a transcript.
+DOC_NAME_MIN_CHARS = 8
+# A transcription longer than this is searched, not read in full (the Grudge report runs to 350,000).
+DOC_READ_IN_FULL_CHARS = 60000
 # Two names closer than this in a transcript count as Gerb having put them together.
 NEAR_CHARS = 2000
 
@@ -117,6 +133,21 @@ def body(path: Path) -> str:
         if not depth:
             out.append(line)
     return "\n".join(out)
+
+
+def aliases(path: Path) -> list[str]:
+    """The frontmatter `aliases`, in block (`- "x"`) or inline (`["x", "y"]`) form."""
+    m = re.match(r"---\n(.*?)\n---", path.read_text(encoding="utf-8"), re.S)
+    fm = m.group(1) if m else ""
+    block = re.search(r"(?m)^aliases:\s*\n((?:\s+-\s.*\n?)+)", fm + "\n")
+    if block:
+        items = re.findall(r"(?m)^\s+-\s(.*)$", block.group(1))
+    else:
+        inline = re.search(r"(?m)^aliases:\s*\[(.*)\]\s*$", fm)
+        items = re.findall(r'"((?:[^"\\]|\\.)*)"|\'([^\']*)\'', inline.group(1)) if inline else []
+        items = [a or b for a, b in items]
+    unquote = lambda a: a[1:-1] if len(a) > 1 and a[0] == a[-1] and a[0] in "\"'" else a
+    return [unquote(a.strip()).replace('\\"', '"') for a in items if a.strip()]
 
 
 def clean_name(name: str) -> str:
@@ -288,6 +319,47 @@ def pattern_pages(vault: Vault) -> list[dict]:
     return sorted(rows, key=lambda r: (-r["videos"], r["key"]))
 
 
+def transcription_of(name: str) -> Path | None:
+    path = TRANSCRIPTIONS / f"{name} (Transcription).md"
+    return path if path.is_file() else None
+
+
+def document_pages(vault: Vault) -> list[dict]:
+    """Documents pages worth a slice, transcribed first, then the most-mentioned in the videos."""
+    texts = {}
+    for video, path in vault.summaries.items():
+        texts[(video, "summary")] = path.read_text(encoding="utf-8").lower()
+    for video, path in vault.transcripts.items():
+        texts[(video, "transcript")] = path.read_text(encoding="utf-8").lower()
+    rows = []
+    for name, path in vault.entities.items():
+        if vault.folder[name] != "Documents":
+            continue
+        transcription = transcription_of(name)
+        if not transcription and len(body(path).strip()) < DOC_MIN_CHARS:
+            continue
+        # The title, its wikilink stem and its aliases, as a summary or a transcript would say them.
+        spoken = {clean_name(n) for n in [name, *aliases(path)]}
+        patterns = [re.compile(r"\b" + re.escape(n) + r"\b") for n in sorted(spoken) if len(n) >= DOC_NAME_MIN_CHARS]
+        mentions: dict[str, list[str]] = defaultdict(list)
+        for video in vault.videos_of.get(name, set()):
+            mentions[video].append("linked in summary")
+        for (video, part), text in texts.items():
+            hits = sum(len(p.findall(text)) for p in patterns)
+            if hits and not (part == "summary" and mentions[video]):
+                mentions[video].append(f"named in {part} ({hits}x)")
+        rows.append({
+            "key": name,
+            "page": vault.rel(path),
+            "transcription": vault.rel(transcription) if transcription else None,
+            "transcription_chars": len(transcription.read_text(encoding="utf-8")) if transcription else 0,
+            "links": sorted(vault.out[name]),
+            "backlinks": sorted(a for a, targets in vault.out.items() if name in targets),
+            "videos": {v: mentions[v] for v in sorted(mentions) if mentions[v]},
+        })
+    return sorted(rows, key=lambda r: (not r["transcription"], -len(r["videos"]), r["key"]))
+
+
 def focus_subjects(vault: Vault) -> list[dict]:
     """The most-referenced subjects, most-covered first: one per focus slice."""
     rows = [
@@ -332,7 +404,9 @@ def packet_links(vault: Vault, rows: list[dict]) -> str:
     lines = [
         "Each pair below shares neighbours in the link graph, but neither page links the other,",
         "no video summary links both, and no transcript names them within a few paragraphs of",
-        "each other. Find out whether a real connection exists that no video made.",
+        "each other. Find out whether a real connection exists that no video made. A shared",
+        "neighbour in Documents/ is a document both touch: read it (and its transcription in",
+        "Documents/Transcriptions/, if there is one) before deciding the tie is noise.",
         "",
     ]
     for r in rows:
@@ -349,6 +423,9 @@ def packet_accounts(vault: Vault, rows: list[dict]) -> str:
         "Each entry below is covered by three or more videos. Compare what each video, and the",
         "entity page, says about it: names, dates, places, sequence, numbers, who said what.",
         "Disagreements are leads; so are details one video gives that change the meaning of another.",
+        "Where a primary document covers the subject (a page in Documents/ linked from its page,",
+        "with its transcription in Documents/Transcriptions/), check the videos against it too:",
+        "a document that contradicts or confirms what a video says is a lead.",
         "",
     ]
     for r in rows:
@@ -391,17 +468,24 @@ def packet_focus(vault: Vault, row: dict) -> str:
     co = Counter(n for v in row["videos"] for n in vault.entities if v in vault.videos_of[n] and n != name)
     published = [p.stem for p in (VAULT / "Analyses").glob("*.md") if name in p.read_text(encoding="utf-8")] \
         if (VAULT / "Analyses").exists() else []
+    docs = sorted(n for n in vault.adj[name] if vault.folder.get(n) == "Documents")
     lines = [
         f"Focus subject: {name}, covered by {len(row['videos'])} videos. It's one of the most-referenced",
         "subjects in the vault, so a finding about it matters to more viewers than almost anything else.",
-        "Read its page, then what every video below says about it. Look for all five kinds of finding:",
-        "a hidden link to another well-known subject, a timing that lines up across videos, a contradiction",
-        "between sources (not a slip by Gerb), a change in Gerb's own view across videos, or a pattern.",
-        "Only high-impact findings are worth a lead.",
+        "Read its page, then what every video below says about it, then the primary documents listed",
+        "under it. Look for all seven kinds of finding: a smoking gun (a document passage that directly",
+        "shows something significant the videos understate), a corroboration (a document or solid outside",
+        "record confirming a claim the video didn't show confirmed), a hidden link to another well-known",
+        "subject, a timing that lines up across videos, a contradiction between sources (not a slip by",
+        "Gerb), a change in Gerb's own view across videos, or a pattern. Only high-impact findings are",
+        "worth a lead.",
         "",
         f"- page: {row['page']}",
     ]
     lines += [f"- Videos/{v}/summary.md  +  transcript.md" for v in row["videos"]]
+    lines += ["", "## Primary documents linked to or from its page", ""]
+    lines += [f"- {vault.rel(vault.entities[d])}" + (f"  +  {vault.rel(t)}" if (t := transcription_of(d)) else "  (no transcription)")
+              for d in docs] or ["(none; grep Documents/ and Documents/Transcriptions/ for its name before ruling them out)"]
     lines += ["", "## Most often covered alongside it (shared videos)", ""]
     lines += [f"- {n} ({c}) | {vault.rel(vault.entities[n])}" for n, c in co.most_common(15)]
     lines += ["", "## Already published or footnoted about it (don't re-find these)", ""]
@@ -414,10 +498,63 @@ def packet_patterns(rows: list[dict]) -> str:
         "Read every page below in full. Look for a mechanism that repeats across cases that",
         "different videos cover: the same kind of retrieval, cover story, threat, handoff between",
         "agencies, document trail, witness treatment, or anything else that recurs. A pattern",
-        "needs three or more cases, and at least two must come from different videos.",
+        "needs three or more cases, and at least two must come from different videos. Check the",
+        "Documents pages and transcriptions linked from these pages: a mechanism a primary document",
+        "describes or orders (a reporting rule, a recovery team, a cover instruction) is the strongest",
+        "evidence a pattern can have.",
         "",
     ]
     lines.extend(f"- {r['page']}  ({r['videos']} videos)" for r in rows)
+    return "\n".join(lines)
+
+
+def packet_documents(vault: Vault, row: dict) -> str:
+    name = row["key"]
+    published = [p.stem for p in vault.analyses if name in p.read_text(encoding="utf-8")]
+    lines = [
+        f"Document: {name}. A primary document is an outside record: use it as evidence, and use it to",
+        "check what the videos and the wiki say. Read the document's page, then its transcription",
+        "(the clean full text; the page is this vault's description of it and can be wrong), then what",
+        "each video below says about it, then the wiki pages it links to.",
+        "",
+        "Look for all seven kinds of finding, with the emphasis on the first three:",
+        "- smoking-gun: a passage that directly shows something significant (an acknowledged program, a",
+        "  recovery, a transfer, an instruction to conceal, a named official's involvement) that the videos",
+        "  and wiki haven't highlighted or have understated. The quote must carry it on its own words,",
+        "  read in context: read the whole section around it, and the document's date, author and purpose.",
+        "- corroboration: a claim from one of Gerb's videos, or from a witness he covers, that this document",
+        "  independently confirms where the video didn't show that confirmation. Merely consistent is not",
+        "  confirmed: the document has to state the same specific fact, independently of the claimant.",
+        "- contradiction: the document says something different from what a video or the wiki says it says",
+        "  (a date, an author, a figure, a phrase quoted wrongly, a conclusion it doesn't reach). Rule out",
+        "  a slip by Gerb first (see docs/analyses.md).",
+        "- hidden-link, timeline, change-of-view, pattern: as in any other slice.",
+        "",
+        "Quote the transcription verbatim and say which `## Page N` (or section) the quote is on. Square",
+        "brackets in a transcription are the transcriber's ([illegible], [word?], [sic], [redacted]): a lead",
+        "that turns on a bracketed or doubtful reading must say so in weakest_link.",
+        "",
+        f"- page: {row['page']}",
+    ]
+    if row["transcription"]:
+        size = row["transcription_chars"]
+        how = "read it in full" if size <= DOC_READ_IN_FULL_CHARS else \
+            "too long to read whole: read its opening and conclusions, then grep it for the subjects the videos raise"
+        lines.append(f"- transcription: {row['transcription']}  ({size:,} characters; {how})")
+    else:
+        lines.append("- transcription: none. Rely on the page's own quotes, and check any quote you lean on against")
+        lines.append("  the source_url copy (WebFetch) before you score it above impact 3.")
+    lines += ["", "## Videos that mention it", ""]
+    lines += [f"- Videos/{v}/summary.md  +  transcript.md   ({'; '.join(seen)})" for v, seen in row["videos"].items()] \
+        or ["(none found by name; grep the transcripts for its subject, issuer and date before concluding the videos skip it)"]
+    lines += ["", "## Wiki pages it links to", ""]
+    lines += [f"- {vault.rel(vault.entities[n])}" for n in row["links"]] or ["(none)"]
+    lines += ["", "## Wiki pages that link to it", ""]
+    lines += [f"- {vault.rel(vault.entities[n])}" for n in row["backlinks"][:25]] or ["(none)"]
+    if len(row["backlinks"]) > 25:
+        lines.append(f"- ...and {len(row['backlinks']) - 25} more")
+    lines += ["", "## Already published or footnoted about it (don't re-find these)", ""]
+    lines += [f"- {s}" for s in published] or ["(none)"]
     return "\n".join(lines)
 
 
@@ -439,7 +576,9 @@ def cmd_next_slices(k: int) -> None:
     vault, ledger = Vault(), load()
     INBOX.mkdir(exist_ok=True)
     made = []
+    documents = document_pages(vault)
     pools = {
+        "documents": lambda: [r for r in documents if r["key"] not in swept(ledger, "documents")][:1],
         "focus": lambda: [r for r in focus_subjects(vault) if r["key"] not in swept(ledger, "focus")][:1],
         "links": lambda: [r for r in near_misses(vault) if r["key"] not in swept(ledger, "links")][:LINKS_PER_SLICE],
         "accounts": lambda: take_passages([r for r in multi_video(vault) if r["key"] not in swept(ledger, "accounts")]),
@@ -447,7 +586,11 @@ def cmd_next_slices(k: int) -> None:
         "patterns": lambda: [r for r in pattern_pages(vault) if r["key"] not in swept(ledger, "patterns")][:PATTERNS_PER_SLICE],
     }
     exhausted: set[str] = set()
-    turn = len(ledger["slices"])
+    turn = ledger.get("turn", len(ledger["slices"]))
+    # Unswept documents come first: open the batch on the rotation's next documents slot.
+    if pools["documents"]():
+        while LENSES[turn % len(LENSES)] != "documents":
+            turn += 1
     while len(made) < k and len(exhausted) < len(set(LENSES)):
         lens = LENSES[turn % len(LENSES)]
         turn += 1
@@ -458,7 +601,9 @@ def cmd_next_slices(k: int) -> None:
             exhausted.add(lens)
             continue
         slice_id = f"S{len(ledger['slices']) + 1:03d}-{lens}"
-        if lens == "focus":
+        if lens == "documents":
+            items, text = [rows[0]["key"]], packet_documents(vault, rows[0])
+        elif lens == "focus":
             items, text = [rows[0]["key"]], packet_focus(vault, rows[0])
         elif lens == "links":
             items, text = [r["key"] for r in rows], packet_links(vault, rows)
@@ -474,6 +619,7 @@ def cmd_next_slices(k: int) -> None:
         ledger["slices"][slice_id] = {"lens": lens, "items": items, "handed_out": now(), "ingested": None, "leads": 0}
         made.append({"slice": slice_id, "lens": lens, "packet": str(packet.relative_to(ROOT)),
                      "leads_file": f".analysis_inbox/{slice_id}.leads.json", "size_chars": len(text)})
+    ledger["turn"] = turn % len(LENSES)
     save(ledger)
     print(json.dumps(made, indent=2))
     if not made:
@@ -604,6 +750,9 @@ def cmd_status() -> None:
     print(f"analyses published: {len(vault.analyses)}")
     print("leads: " + (", ".join(f"{n} {s}" for s, n in sorted(statuses.items())) or "none"))
     print("slices swept: " + (", ".join(f"{n} {l}" for l, n in sorted(lenses.items())) or "none"))
+    documents = document_pages(vault)
+    left = [r for r in documents if r["key"] not in swept(ledger, "documents")]
+    print(f"documents left to sweep: {len(left)} of {len(documents)}")
     if pending:
         print(f"slices handed out, not ingested: {', '.join(pending)}")
 
@@ -625,6 +774,10 @@ def cmd_signals(lens: str, n: int) -> None:
     elif lens == "focus":
         for r in focus_subjects(vault)[:n]:
             print(f"{len(r['videos']):>3}  {r['name']}")
+    elif lens == "documents":
+        for r in document_pages(vault)[:n]:
+            text = "transcribed" if r["transcription"] else "page only"
+            print(f"{len(r['videos']):>3}  {r['key']}  ({text})")
     else:
         sys.exit(f"lens must be one of {sorted(set(LENSES))}")
 
