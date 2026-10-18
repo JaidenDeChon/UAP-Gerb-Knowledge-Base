@@ -655,6 +655,7 @@ entries:
 - **People**: [[Mark McCandlish]], [[Brad Sorenson]], [[William B. Scott]], [[Frank Carlucci]], [[Alan Cranston]], [[George E. Brown Jr.]], [[Michael Shellenberger]], [[Steven Greer]], [[James Allen]], [[Amy Eskridge]], [[Harvey Williams]], [[Robert D. Morning Star]], [[Rick Price]], [[Marco Rubio]], [[Leonard Stringfield]], [[Michael Schratt]], [[Edgar Fouche|Edgar Fouché]], [[Gary McKinnon]], [[Randy Anderson]], [[Karl Nell]], [[Kevin Knuth]], [[David Fravor]], [[Ronald S. Moultrie]], [[Sean Kirkpatrick]], [[Bob Lazar]], [[T. Townsend Brown]], [[Jesse Michels]], [[Corey Goode]]
 - **Organizations**: [[Aviation Week and Space Technology]], [[Disclosure Project]], [[Carlyle Group]], [[EG&G]], [[Lockheed Martin Skunk Works]], [[Northrop Grumman]], [[Holocron Engineering]], [[412th Test Wing]]
 - **Locations**: [[Norton Air Force Base]], [[Air Force Plant 42]], [[Palmdale, California]], [[Edwards Air Force Base]], [[Nellis Air Force Base]], [[Dugway Proving Ground]]
-- **Concepts**: [[Alien Reproduction Vehicle (ARV)]], [[Immaculate Constellation (IMCON)]], [[Immaculate Constellation Report]], [[Zero Point Energy]], [[Biefeld-Brown Effect]], [[Electrogravitics]], [[TR-3B]], [[Wilson-Davis Memo]]
+- **Concepts**: [[Alien Reproduction Vehicle (ARV)]], [[Immaculate Constellation (IMCON)]], [[Zero Point Energy]], [[Biefeld-Brown Effect]], [[Electrogravitics]], [[TR-3B]]
+- **Documents**: [[Immaculate Constellation Report]], [[Wilson-Davis Memo]]
 - **Operations**: [[Aurora Program]]
 - **Events**: [[Norton Air Force Base Air Show]], [[2004 Nimitz UAP Encounter (Tic Tac)]], [[SOL Foundation Symposium]]

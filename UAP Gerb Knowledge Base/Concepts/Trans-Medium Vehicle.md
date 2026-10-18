@@ -38,6 +38,7 @@ Maritime records from before modern aviation document trans-medium behavior:
 - **Concepts**: [[Unidentified Submerged Object (USO)]], [[Maritime Light Wheel]], [[Five UAP Characteristics (AATIP)]]
 - **People**: [[Kevin Knuth]], [[Rear Admiral Timothy Gallaudet]], [[David Fravor]]
 - **Organizations**: [[Sol Foundation]], [[Project Blue Book]]
+- **Documents**: [[Beneath the Surface (Gallaudet White Paper)]]
 
 ## Sources
 

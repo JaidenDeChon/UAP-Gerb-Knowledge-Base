@@ -42,3 +42,4 @@ On this basis Gerb suggests that work on reverse-engineering non-human technolog
 - [[Salvatore Pais]]
 - [[SAIC]]
 - [[Off-World Technologies Division]]
+- [[Craft Using an Inertial Mass Reduction Device]]

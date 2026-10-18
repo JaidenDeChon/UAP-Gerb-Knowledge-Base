@@ -529,5 +529,6 @@ entries:
 - **Organizations**: [[US Air Force]], [[CIA]], [[Atomic Energy Commission]], [[Army and Navy Research and Development Board]], [[USAF Scientific Advisory Group]], [[Battelle Memorial Institute]], [[Condon Committee]], [[National Investigations Committee on Aerial Phenomena]], [[National Academy of Sciences]], [[American Association for the Advancement of Science]], [[American Institute of Aeronautics and Astronautics]]
 - **Operations**: [[Project Sign]], [[Project Grudge]], [[Project Blue Book]]
 - **Events**: [[1952 UFOs Over Washington DC]], [[Lubbock Lights]], [[Roswell Crash]], [[Condon Report Publication]]
-- **Concepts**: [[UFO Stigma]], [[Robertson Panel]], [[USAF Regulation 200-2]], [[Condon Report]]
+- **Concepts**: [[UFO Stigma]], [[Robertson Panel]]
 - **Locations**: [[Lubbock, Texas]]
+- **Documents**: [[USAF Regulation 200-2]], [[Condon Report]], [[Project Grudge Report]], [[Project Sign Estimate of the Situation (1948)]], [[Robertson Panel Report]], [[Twining Memo]]

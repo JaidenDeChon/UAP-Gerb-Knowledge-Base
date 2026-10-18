@@ -60,3 +60,4 @@ The conviction discredited both GeBauer and the Aztec case for decades. Steinman
 - [[J. P. Cahn]]
 - [[Herman Flader]]
 - [[Aztec UFO Crash and Recovery]]
+- [[FBI File on Silas Newton]]

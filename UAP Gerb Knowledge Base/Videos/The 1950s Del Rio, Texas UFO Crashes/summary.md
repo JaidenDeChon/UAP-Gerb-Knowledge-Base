@@ -602,6 +602,7 @@ entries:
 - **People**: [[Robert Willingham]], [[Jack Perkins]], [[George Smithson]], [[William Drager]], [[Noe Torres]], [[Ruben Uriarte]], [[Todd Zechel]], [[Dennis Stacy]], [[Eric Davis]], [[George Knapp]], [[Jeff Rense]], [[Kevin Randle]], [[Leonard Stringfield]], [[General Ramey]], [[J. Edgar Hoover]], [[Steven Greer]], [[Edgar Fouche]], [[Stanton Friedman]], [[Arthur Stansel Jr.]], [[Harry Truman]]
 - **Organizations**: [[Majestic 12]], [[Sandia National Laboratories]], [[Atomic Energy Commission]], [[AT&T]], [[Lockheed Martin]], [[Battelle Memorial Institute]], [[Disclosure Project]], [[National Investigations Committee on Aerial Phenomena]], [[US Air Force]]
 - **Locations**: [[Del Rio, Texas]], [[Langtry, Texas]], [[El Indio, Texas]], [[Guerrero, Mexico]], [[Carswell Air Force Base]], [[Kirtland Air Force Base, New Mexico]]
-- **Concepts**: [[Crash Retrieval]], [[Eisenhower Briefing Document]], [[MJ-12 Documents]], [[Condon Report]], [[DEW Radar Systems]], [[Hottel Memo]], [[Wilson-Davis Memo]], [[TR-3B]]
+- **Concepts**: [[Crash Retrieval]], [[MJ-12 Documents]], [[DEW Radar Systems]], [[TR-3B]]
+- **Documents**: [[Eisenhower Briefing Document]], [[Condon Report]], [[Hottel Memo]], [[Wilson-Davis Memo]], [[Stringfield Status Reports]], [[Willingham Affidavit]]
 - **Events**: [[1950 El Indio UFO Crash]], [[1955 Langtry UFO Crash]]
 - **Operations**: [[Project Moon Dust]]

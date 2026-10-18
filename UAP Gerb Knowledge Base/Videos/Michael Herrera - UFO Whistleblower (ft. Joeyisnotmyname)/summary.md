@@ -525,6 +525,7 @@ entries:
 - **Organizations**: [[AARO]], [[31st Marine Expeditionary Unit]], [[DOPSR (Defense Office of Prepublication and Security Review)]], [[National Press Club]], [[Daily Mail]], [[Department of Energy]], [[NEST (Nuclear Emergency Support Team)]]
 - **Locations**: [[Indonesia]], [[Sumatra, Indonesia]], [[USS Denver]]
 - **Events**: [[2009 Sumatra Earthquake]], [[2009 Indonesia UFO Encounter (Herrera)]]
-- **Concepts**: [[AARO Historical Report Volume 1]], [[Dead Man Switch]], [[EMP-like Weaponry]], [[Crash Retrieval]], [[Psionic Abilities (P3)]], [[Wilson-Davis Memo]], [[Sentinels of Ether]], [[4D Chess on DOPSR]]
+- **Concepts**: [[Dead Man Switch]], [[EMP-like Weaponry]], [[Crash Retrieval]], [[Psionic Abilities (P3)]], [[Sentinels of Ether]], [[4D Chess on DOPSR]]
+- **Documents**: [[AARO Historical Report Volume 1]], [[Wilson-Davis Memo]]
 - **Operations**: [[AATIP (Advanced Aerospace Threat Identification Program)]], [[Project Blue Book]]
 - **Videos**: [[Videos/The Marines Who Got too Close to UFOs/summary|The Marines Who Got too Close to UFOs]], [[Videos/Michael Herrera - Insights into UAP Encounter and Black Program Insiders/summary|Michael Herrera - Insights into UAP Encounter and Black Program Insiders]]

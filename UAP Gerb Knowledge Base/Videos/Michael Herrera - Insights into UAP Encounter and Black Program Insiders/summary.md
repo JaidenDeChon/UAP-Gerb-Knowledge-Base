@@ -502,6 +502,7 @@ entries:
 - **People**: [[Michael Herrera]], [[Joey Is Not My Name]], [[Sean Kirkpatrick]], [[Steven Greer]], [[The Insider]], [[Richard B. Landolt]], [[David Grusch]], [[Barack Obama]], [[Paul Bennewitz]], [[Richard Doty]], [[Steven Greenstreet]], [[Michael Schratt]]
 - **Organizations**: [[United States Marine Corps]], [[AARO]], [[Senate Select Committee on Intelligence]], [[CIA]], [[Daily Mail]], [[The Black Vault]], [[National Press Club]], [[Boeing]], [[Lockheed Martin]], [[Northrop Grumman]]
 - **Locations**: [[Indonesia]], [[Sumatra, Indonesia]], [[USS Denver]], [[Boulder, Colorado]]
-- **Concepts**: [[Non-Official Cover (NOC)]], [[Pink Assets]], [[Alien Reproduction Vehicle (ARV)]], [[AARO Historical Report Volume 1]]
+- **Concepts**: [[Non-Official Cover (NOC)]], [[Pink Assets]], [[Alien Reproduction Vehicle (ARV)]]
+- **Documents**: [[AARO Historical Report Volume 1]]
 - **Events**: [[2009 Indonesia UFO Encounter (Herrera)]], [[2009 Sumatra Earthquake]]
 - **Videos**: [[Videos/Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)/summary|Michael Herrera: UFO Whistleblower (ft. Joeyisnotmyname)]], [[Videos/The Marines Who Got too Close to UFOs/summary|The Marines Who Got too Close to UFOs]]

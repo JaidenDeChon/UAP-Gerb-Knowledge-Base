@@ -515,6 +515,7 @@ entries:
 - **People**: [[Arthur Stansel Jr.]], [[Fritz Warner]], [[Raymond Fowler]], [[Edward Bushnell Doll]], [[Eric Henry Wang]], [[Vannevar Bush]], [[Victor Schauberger]], [[Richard Geldreich Jr.]], [[Bill Uhouse]], [[Steven Greer]], [[Michael Herrera]], [[Leonard Stringfield]], [[Judy Wolcott]], [[Don Schmidt]], [[Nick Redfern]], [[Jesse Marcel]], [[Stanton Friedman]], [[Robert Jacobs]], [[Robert Salas]], [[Bob Lazar]]
 - **Organizations**: [[Atomic Energy Commission]], [[Air Materiel Command]], [[Office of Naval Research]], [[Research and Development Board]], [[Link Aviation]], [[Disclosure Project]], [[Los Alamos National Laboratory]]
 - **Locations**: [[Kingman, Arizona]], [[Nevada National Security Site (Nevada Test Site)]], [[Frenchman's Flat, Nevada]], [[Indian Springs Air Force Base]], [[Phoenix, Arizona]], [[Wright-Patterson Air Force Base]], [[Wright Field]], [[Kirtland Air Force Base, New Mexico]], [[Area 51]], [[Malmstrom Air Force Base]]
-- **Concepts**: [[Crash Retrieval]], [[UFO-Nuclear Connection]], [[USAF Regulation 200-2]], [[Robertson Panel]], [[Atomic Energy Act of 1954]]
+- **Concepts**: [[Crash Retrieval]], [[UFO-Nuclear Connection]], [[Robertson Panel]]
+- **Documents**: [[USAF Regulation 200-2]], [[Atomic Energy Act of 1954]]
 - **Operations**: [[Operation Upshot-Knothole]], [[Project Blue Book]], [[Manhattan Project]], [[Operation Paperclip]]
 - **Events**: [[1953 Kingman, Arizona Crash Retrieval]], [[Roswell Crash]]

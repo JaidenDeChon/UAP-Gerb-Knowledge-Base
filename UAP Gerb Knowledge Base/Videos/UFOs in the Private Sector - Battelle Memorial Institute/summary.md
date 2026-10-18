@@ -418,6 +418,7 @@ entries:
 - **People**: [[EJ Center]], [[Howard C. Cross]], [[Irena Scott]], [[Ronald S. Moultrie]], [[Sean Kirkpatrick]], [[David Grusch]], [[Jacques Vallee]], [[James Fox]], [[Jesse Marcel]], [[Mac Brazel]], [[General Ramey]], [[J. Allen Hynek]], [[Edward J. Ruppelt]], [[Luis Elizondo]], [[Chris Mellon]], [[Eric Davis]], [[Harry Reid]]
 - **Organizations**: [[Battelle Memorial Institute]], [[Sand Corp]], [[AARO]], [[Office of the Under Secretary of Defense for Intelligence and Security (USDINS)]], [[Air Force Technical Intelligence Center]], [[Atomic Energy Commission]], [[Department of Energy]], [[MUFON]], [[CIA]], [[Los Alamos National Laboratory]], [[Oak Ridge National Laboratory]], [[Lockheed Martin]], [[Carlyle Group]]
 - **Locations**: [[Roswell, New Mexico]], [[Wright-Patterson Air Force Base]], [[Varginha, Brazil]]
-- **Concepts**: [[Nitinol (Nickel-Titanium Alloy)]], [[Shape Memory Alloy]], [[Robertson Panel]], [[Atomic Energy Act of 1954]]
+- **Concepts**: [[Nitinol (Nickel-Titanium Alloy)]], [[Shape Memory Alloy]], [[Robertson Panel]]
+- **Documents**: [[Atomic Energy Act of 1954]], [[Project Blue Book Special Report No. 14]]
 - **Operations**: [[Project Stork]], [[Project Blue Book]], [[Project Sign]], [[Project Grudge]], [[Manhattan Project]]
 - **Events**: [[Roswell Crash]]

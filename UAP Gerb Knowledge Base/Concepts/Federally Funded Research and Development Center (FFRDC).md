@@ -34,5 +34,6 @@ The FFRDCs that Gerb identifies as bearing on UFO legacy program activity includ
 ## Related Pages
 
 - **Organizations**: [[MITRE Corporation]], [[RAND Corporation]], [[Aerospace Corporation]], [[MIT Lincoln Laboratory]]
-- **Concepts**: [[Legacy Program Onion Model]], [[Special Access Programs (SAPs)]], [[Atomic Energy Act of 1954]]
+- **Concepts**: [[Legacy Program Onion Model]], [[Special Access Programs (SAPs)]]
 - **People**: [[Vannevar Bush]]
+- **Documents**: [[Atomic Energy Act of 1954]]

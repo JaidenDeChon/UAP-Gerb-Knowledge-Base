@@ -511,3 +511,4 @@ entries:
 - **Organizations**: [[US Air Force]], [[United States Marine Corps]], [[Air Force Office of Special Investigations]], [[NASA]], [[Disclosure Project]], [[3af-p (French national aeronautical and astronautical Association UAP division)]], [[MUFON]]
 - **Locations**: [[Wright-Patterson Air Force Base]], [[Cherry Point, North Carolina Marine Corps Air Station]]
 - **Concepts**: [[Blue Room]], [[Color-Coded Security Badges]], [[Seamless Craft Hull]], [[White Taped Circle Restricted Zone]], [[Ooid Cross-Section]], [[Security Oath]], [[Crash Retrieval]]
+- **Documents**: [[Stringfield Status Reports]]

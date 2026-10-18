@@ -508,6 +508,7 @@ entries:
 - **People**: [[Kevin Knuth]], [[Robert M. Powell]], [[Peter Reali]], [[Hermann Oberth]], [[Wernher von Braun]], [[David Fravor]], [[Captain Kenju Terauchi]], [[Parviz Jafari]], [[David Barnett]], [[Almiro Baraúna]], [[James McCampbell]], [[Jacques Vallee]], [[Luis Elizondo]], [[Avi Loeb]], [[Karl Nell]], [[David Grusch]], [[Gary Nolan]]
 - **Organizations**: [[University of Albany]], [[University of Minnesota]], [[UAP-X]], [[Galileo Project]], [[Sol Foundation]], [[US Air Force]], [[US Navy]]
 - **Locations**: [[Minot Air Force Base, North Dakota]], [[Malmstrom Air Force Base]], [[Green Bay, Wisconsin]], [[Aguadilla, Puerto Rico]], [[Tehran, Iran]]
-- **Concepts**: [[Five UAP Characteristics (AATIP)]], [[Trans-Medium Vehicle]], [[Unidentified Submerged Object (USO)]], [[USAF Regulation 200-2]], [[Mother of Pearl Effect]]
+- **Concepts**: [[Five UAP Characteristics (AATIP)]], [[Trans-Medium Vehicle]], [[Unidentified Submerged Object (USO)]], [[Mother of Pearl Effect]]
+- **Documents**: [[USAF Regulation 200-2]]
 - **Operations**: [[Operation Paperclip]], [[Project Blue Book]]
 - **Events**: [[Sol Foundation 2023 Presentation by Kevin Knuth]], [[2004 Nimitz UAP Encounter (Tic Tac)]], [[1986 Japan Airlines UFO Incident]], [[1987 HMNZS Southland USO Incident]], [[1976 Tehran UFO Incident]], [[1958 Trindade Island UFO Photographs]], [[Aguadilla Puerto Rico Trans-Medium UAP Incident]]

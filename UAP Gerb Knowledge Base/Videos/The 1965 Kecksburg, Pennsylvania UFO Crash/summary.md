@@ -872,5 +872,6 @@ entries:
 - **Organizations**: [[Project Blue Book]], [[Blue Berets]], [[NASA]], [[US Navy]], [[Applied Research Laboratory]], [[DOD Joint Chiefs]], [[Research and Development Board]], [[Atomic Energy Commission]], [[Majestic 12]]
 - **Locations**: [[Kecksburg, Pennsylvania]], [[Greensburg, Pennsylvania]], [[Lockbourne Air Force Base, Columbus, Ohio]], [[Wright-Patterson Air Force Base]]
 - **Concepts**: [[Bell or Acorn-Shaped Craft]], [[Cosmos 96]], [[Crash Retrieval]], [[Media Censorship of UAP Events]], [[Die Glocke (The Bell)]], [[Off-World Technologies Division]]
+- **Documents**: [[Stringfield Status Reports]]
 - **Operations**: [[Project Moon Dust]], [[Project Corona]]
 - **Events**: [[1965 Kecksburg, Pennsylvania Crash Retrieval]], [[Object in the Woods Radio Documentary]], [[Roswell Crash]]

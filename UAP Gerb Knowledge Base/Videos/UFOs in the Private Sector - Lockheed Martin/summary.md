@@ -621,7 +621,8 @@ entries:
 
 - **People**: [[Ben Rich]], [[Don Phillips]], [[Boyd Bushman]], [[Bernard Haisch]], [[Hal Puthoff]], [[Edgar Fouche]], [[Harry Reid]], [[David Grusch]], [[Gary Nolan]], [[Jan Harzan]], [[John B. Alexander]], [[Linda Moulton Howe]], [[Nick Cook]], [[Jack Gordon]], [[Lou Whitten]], [[George Trimble]], [[Ron Blackburn]], [[Salvatore Pais]], [[Will Miller]], [[Catherine Austin Fitts]], [[Frank Conahan]], [[Donald Rice]], [[John Greenewald]], [[Mark McCandlish]], [[Steven Greer]], [[Bob Lazar]], [[Luis Elizondo]], [[Wernher von Braun]], [[Harry Truman]]
 - **Organizations**: [[Lockheed Martin]], [[Lockheed Martin Skunk Works]], [[Advanced Technology Center (ATC)]], [[Martin Marietta]], [[Battelle Memorial Institute]], [[CIA]], [[BDM International]], [[MUFON]], [[Disclosure Project]], [[The Black Vault]], [[TRW]], [[Raytheon]], [[Aerospace Corporation]], [[SAIC]], [[Boeing]], [[Sandia National Laboratories]], [[Lawrence Livermore National Laboratory]]
-- **Concepts**: [[Zero Point Energy]], [[TR-3B]], [[Special Access Programs (SAPs)]], [[Wilson-Davis Memo]]
+- **Concepts**: [[Zero Point Energy]], [[TR-3B]], [[Special Access Programs (SAPs)]]
 - **Operations**: [[Aurora Program]], [[AATIP (Advanced Aerospace Threat Identification Program)]], [[Project Blue Book]], [[Project Condign]]
 - **Locations**: [[Area 51]], [[Edwards Air Force Base]], [[Palmdale, California]], [[UCLA (University of California, Los Angeles)]]
+- **Documents**: [[Wilson-Davis Memo]], [[Craft Using an Inertial Mass Reduction Device]], [[GAO Report on Special Access Contracts (1986)]]
 - **Events**: [[Calvine UFO Photo]], [[Belgian UFO Wave]], [[Roswell Crash]], [[1953 Kingman, Arizona Crash Retrieval]]

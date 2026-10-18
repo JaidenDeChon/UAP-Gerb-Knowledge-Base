@@ -404,4 +404,5 @@ entries:
 - **Locations**: [[Vandenberg Air Force Base]], [[Big Sur, California]], [[Malmstrom Air Force Base]], [[Roswell, New Mexico]]
 - **Events**: [[Vandenberg Air Force Base UFO Film Incident]], [[Malmstrom Air Force Base UFO Incident]], [[1984 Indian Point UFO Incident]], [[Roswell Crash]]
 - **Operations**: [[Project Blue Book]]
-- **Concepts**: [[UFO Interference with Nuclear Weapons]], [[UFO-Nuclear Connection]], [[Nuclear ICBM Shutdown]], [[Directed Energy Beam]], [[ICBM (Intercontinental Ballistic Missile)]], [[Missile Chaff Decoy]], [[Laser Tracking Strikes]], [[Great Filter]], [[Fermi Paradox]], [[Crash Retrieval]], [[Hudson Valley UFO Flap]], [[Atomic Energy Act of 1954]]
+- **Concepts**: [[UFO Interference with Nuclear Weapons]], [[UFO-Nuclear Connection]], [[Nuclear ICBM Shutdown]], [[Directed Energy Beam]], [[ICBM (Intercontinental Ballistic Missile)]], [[Missile Chaff Decoy]], [[Laser Tracking Strikes]], [[Great Filter]], [[Fermi Paradox]], [[Crash Retrieval]], [[Hudson Valley UFO Flap]]
+- **Documents**: [[Atomic Energy Act of 1954]]

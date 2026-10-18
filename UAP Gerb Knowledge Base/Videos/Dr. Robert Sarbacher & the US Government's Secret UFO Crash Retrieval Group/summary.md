@@ -464,6 +464,7 @@ Gerb hears an allusion to Don Quixote in Walker's remark that Steinman was fight
 - **People**: [[Robert Sarbacher]], [[Robert Sarbacher Jr.]], [[Wilbert B. Smith]], [[Vannevar Bush]], [[John Von Neumann]], [[J. Robert Oppenheimer]], [[Eric A. Walker]], [[William Steinman]], [[Stanton Friedman]], [[Arthur Bray]], [[Frank Scully]], [[Guy Hottel]], [[J. Edgar Hoover]], [[Carl Howe]], [[Lloyd Eugene Camp]], [[Robert Jacobs]], [[Andrew Kissner]], [[Einstein]]
 - **Organizations**: [[Research and Development Board]], [[Majestic 12]], [[Battelle Memorial Institute]], [[Air Force Technical Intelligence Center]], [[NASA]]
 - **Locations**: [[Wright Field]], [[White Sands Missile Range]], [[Kecksburg, Pennsylvania]]
-- **Concepts**: [[MJ-12 Documents]], [[Hottel Memo]], [[Project Twinkle]], [[Crash Retrieval]], [[Nitinol (Nickel-Titanium Alloy)]]
+- **Concepts**: [[MJ-12 Documents]], [[Project Twinkle]], [[Crash Retrieval]], [[Nitinol (Nickel-Titanium Alloy)]]
+- **Documents**: [[Hottel Memo]], [[Sarbacher Letter]], [[Wilbert Smith Memo]]
 - **Operations**: [[Project Magnet]], [[Project Second Story]], [[Project Stork]], [[Project Sign]], [[Project Grudge]], [[Project Blue Book]]
 - **Events**: [[Wright Field Crash Retrieval Meeting]], [[Roswell Crash]], [[1965 Kecksburg, Pennsylvania Crash Retrieval]], [[Aztec UFO Crash and Recovery]], [[1978 Bolivia UFO Crash]], [[Lubbock Lights]]

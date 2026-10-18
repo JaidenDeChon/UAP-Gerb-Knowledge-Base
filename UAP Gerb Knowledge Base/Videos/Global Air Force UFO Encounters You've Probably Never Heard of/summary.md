@@ -278,5 +278,6 @@ entries:
 - **People**: Gerb, [[George F. Gorman]], [[L.D. Jensen]], [[Edward J. Ruppelt]], [[Nathan Twining]], [[Tarmo Tukeva]], [[Jouko Kuronen]], [[Oscar Santa Maria Huertas]], [[Magdaleno Castanon]], [[Michael Shermer]], [[David Fravor]]
 - **Organizations**: [[Finnish Air Force]], [[Finnish Defense Force]], [[Peruvian Air Force]], [[Mexican Air Force]], [[DOD Joint Chiefs]], [[Army and Navy Research and Development Board]], [[Atomic Energy Commission]], [[Skeptic Magazine]]
 - **Locations**: [[Fargo, North Dakota, USA]], [[Hector Airport]], [[Pori Airport]], [[Vaasa, Finland]], [[La Joya Airbase, Arequipa, Peru]], [[Campeche, Mexico]], [[San Diego, California, USA]]
+- **Documents**: [[Twining Memo]]
 - **Operations**: [[Project Sign]], [[Project Grudge]], [[Project Blue Book]], [[Project Moon Dust]]
 - **Events**: [[Gorman Dogfight]], [[Pori Airport UFO Incident]], [[La Joya Airbase UFO Intercept]], [[Mexico UFO Incident]], [[1968 Nepal Circular Disc Crash]], [[2004 Nimitz UAP Encounter (Tic Tac)]]

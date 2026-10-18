@@ -287,3 +287,4 @@ entries:
 - **Locations**: [[Manises Airport, Valencia, Spain]], [[Manises Air Force Base, Spain]], [[Mallorca, Spain]], [[Salzburg, Austria]], [[Las Palmas, Spain]], [[Los Llanos Airbase, Spain]], [[Sagunto, Spain]]
 - **Events**: [[Manises UFO Incident]], [[1976 Tehran UFO Incident]], [[2004 Nimitz UAP Encounter (Tic Tac)]]
 - **Concepts**: [[UFO Stigma]]
+- **Documents**: [[DIA Tehran UFO Report (1976)]]

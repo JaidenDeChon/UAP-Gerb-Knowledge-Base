@@ -678,6 +678,7 @@ entries:
 - **People**: [[Leonard Stringfield]], [[Noe Torres]], [[Ruben Uriarte]], [[Ryan S. Wood]], [[Elaine Douglas]], [[Nick Redfern]], [[Alfonso Salazar]], [[Christopher Sharp]], [[Jesus Alberto]], [[Jonathan Weygandt]], [[Philip J. Corso]], [[David Grusch]], [[Luis Elizondo]], [[Gerald Ford]]
 - **Organizations**: [[CIA]], [[CIA Office of Global Access]], [[Denb Team]], [[NRO (National Reconnaissance Office)]], [[NGA]], [[El Paso Intelligence Center]], [[JSOC (Joint Special Operations Command)]], [[NEST (Nuclear Emergency Support Team)]], [[Sandia National Laboratories]], [[Interplanetary Phenomenon Unit]], [[Majestic 12]], [[MUFON]], [[UAP Caucus]], [[UAP Task Force]], [[Project Blue Book]], [[Lockheed Martin]]
 - **Locations**: [[Coyame, Chihuahua, Mexico]], [[Fort Bliss]], [[Corpus Christi, Texas]], [[Brownsville, Texas]], [[Valentine, Texas]], [[Atlanta, Georgia]], [[Wright-Patterson Air Force Base]], [[Shag Harbour, Canada]], [[Varginha, Brazil]]
-- **Concepts**: [[Denb Report]], [[JS (Denb Report Author)]], [[MJ-12 Documents]], [[Special Operations Manual (SOM 1-01)]], [[Crash Retrieval]]
+- **Concepts**: [[JS (Denb Report Author)]], [[MJ-12 Documents]], [[Crash Retrieval]]
+- **Documents**: [[Denb Report]], [[Special Operations Manual (SOM 1-01)]], [[Stringfield Status Reports]], [[The Day After Roswell]]
 - **Operations**: [[Operation Laser Strike]], [[AATIP (Advanced Aerospace Threat Identification Program)]]
 - **Events**: [[1974 Coyame, Mexico UFO Crash Retrieval]], [[Peru UFO Crash Incident]], [[Roswell Crash]]
