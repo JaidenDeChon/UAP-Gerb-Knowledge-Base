@@ -114,7 +114,7 @@ events:
   - date: "1954-01-23"
     title: "Navy issues OPNAV 3820"
     cue: 369
-    summary: "The Office of the Chief of Naval Operations directive required UAP sightings, called 'flying object reports', to go to the directors of ATIC, USAF Intelligence and Naval Intelligence. A copy appears in Donald Keyhoe's The Flying Saucer Conspiracy, and it cites JANAP 146c directly."
+    summary: "The Office of the Chief of Naval Operations directive required UAP sightings, called 'flying object reports', to go to the directors of ATIC, USAF Intelligence and Naval Intelligence. Gerb gives this date and says a copy in Donald Keyhoe's The Flying Saucer Conspiracy cites JANAP 146c directly, though JANAP 146(C) was not issued until 10 March 1954. A.F. Rullán dates the first OPNAV 3820 instruction to 25 September 1952."
     category: policy
     significance: major
     entities:
@@ -123,7 +123,7 @@ events:
   - date: "1954"
     title: "JANAP 146c brings waterborne sightings under reporting rules"
     cue: 313
-    summary: "The Joint Army Navy Air Force Publication directive 146c required both airborne and waterborne UFO sightings to be reported through service communications instructions for vital intelligence and maritime intelligence sightings. Civilians and pilots were barred from discussing officially reported sightings under the Communications Act of 1934 and espionage laws, with prison and a $10,000 fine for violators. Gerb dates the 'dark ages of UFO reporting' from these three rules."
+    summary: "The Joint Army Navy Air Force Publication directive 146c required both airborne and waterborne UFO sightings to be reported through service communications instructions for vital intelligence and maritime intelligence sightings. Civilians and pilots were barred from discussing officially reported sightings under the Communications Act of 1934 and espionage laws; Gerb says violators faced prison and a $10,000 fine, though the directive itself names no amount. Gerb dates the 'dark ages of UFO reporting' from these three rules."
     category: policy
     significance: major
     entities:
@@ -290,7 +290,10 @@ Gerb spends some time on who sent the letter. AFOIN was the Air Force Office of 
 
 Gerb argues that three rules, issued within about a year of each other, closed this early record and began what he calls "the slow descent into the dark ages of UFO reporting", the era of swamp gas and weather-balloon explanations.
 
-[[USAF Regulation 200-2]] is the Air Force rule Gerb says he cites in nearly every video. [[OPNAV 3820]] was the Navy's directive from the Office of the Chief of Naval Operations; a copy appears in Donald Keyhoe's *The Flying Saucer Conspiracy*, and it cites JANAP 146c directly. [[JANAP 146c]], the joint Army, Navy and Air Force publication, was the one that also covered sightings at sea. Its penalties came under the Communications Act of 1934 and the espionage laws.
+[[USAF Regulation 200-2]] is the Air Force rule Gerb says he cites in nearly every video. [[OPNAV 3820]] was the Navy's directive from the Office of the Chief of Naval Operations; Gerb dates it to 23 January 1954 and says the copy in Donald Keyhoe's *The Flying Saucer Conspiracy* cites JANAP 146c directly, although JANAP 146(C) is dated 10 March 1954. [[JANAP 146c]], the joint Army, Navy and Air Force publication, was the one that also covered sightings at sea. Its penalties came under the Communications Act of 1934 and the espionage laws.
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions stated as fact that OPNAV 3820 cites JANAP 146c. That is Gerb's reading of Keyhoe's copy, and the January 1954 date he gives predates JANAP 146(C) of 10 March 1954; A.F. Rullán's NICAP study of Blue Book ship reports (2002) dates the first OPNAV 3820 instruction to 25 September 1952.
 
 ::wiki-compare{video="U-jrx_giINA" video-title="USO - Unidentified Submerged Objects"}
 ---
@@ -300,7 +303,7 @@ subjects:
   - name: "USAF Regulation 200-2"
     note: "Air Force, 1953"
   - name: "OPNAV 3820"
-    note: "Navy, 23 Jan 1954"
+    note: "Navy, 23 Jan 1954 (Gerb's date)"
   - name: "JANAP 146c"
     note: "Joint Army, Navy and Air Force, 1954"
 rows:
@@ -318,7 +321,7 @@ rows:
     cells:
       - ""
       - ""
-      - { text: "Barred from discussing reported sightings; prison and a $10,000 fine", cue: 338 }
+      - { text: "Barred from discussing reported sightings; Gerb cites prison and a $10,000 fine", cue: 338 }
 ---
 ::
 
@@ -471,7 +474,7 @@ entries:
 - Project Interloper (1951), a joint USAF-Navy investigation of aerial and undersea UAP led by Blue Book member Dewey Fett, was run outside FOIA, briefed the CIA in 1953, and never reported to Congress; only three case files survive.
 - A 24 April 1952 letter from AFOIN-X-SG forwarded nine reports of submarine contacts with flying discs, compiled with the Office of Naval Intelligence; Gerb argues AFOIN's special group was a real secret UFO investigation body, and CUFON's 1979 FOIA requests about it were denied on national security grounds.
 - Researcher Leonard Stringfield was told of thousands of ONI UAP reports filed between 1952 and 1956.
-- USAF Regulation 200-2 (1953), OPNAV 3820 (23 January 1954) and JANAP 146c (1954) together removed military and maritime sightings from public view; JANAP 146c explicitly covered waterborne sightings and barred witnesses from discussing them under threat of prison and a $10,000 fine.
+- USAF Regulation 200-2 (1953), OPNAV 3820 (which Gerb dates to 23 January 1954) and JANAP 146c (10 March 1954) together removed military and maritime sightings from public view; JANAP 146c explicitly covered waterborne sightings and barred witnesses from discussing them, which Gerb says carried prison and a $10,000 fine.
 - A source at NARCAP told Jacques Vallée in 1985 that a large collection of UFO and USO files was stored at Norton Air Force Base.
 - A senior naval figure allegedly confirmed to Mark Dantonio that USOs are common and that a program exists to classify and log them.
 - Oak Shannon's 1985 Advanced Theoretical Working Group notes record Navy intelligence on an underwater UFO hotspot near Golfo San Matías, Argentina.
@@ -482,9 +485,13 @@ entries:
 - Kevin Thomas claimed he saw a black triangle about a kilometre long rise silently from the ocean beside the USS Nimitz in 1991, and was questioned the next day by men in civilian clothes.
 - The March 1971 USS Trepang photographs remain unresolved; Gerb considers the balloon-training explanation undercut by the witnesses' statements and the lack of records, leaving hoax or genuine, and agrees with John Greenewald that the one altered image does not discredit the rest.
 
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions stated as fact that JANAP 146c threatened witnesses with prison and a $10,000 fine. The figure is Gerb's; the directive (Articles 210 and 308) cites the Communications Act of 1934 and 18 U.S.C. 793 and 794 but names no amount.
+
 ## Sources
 
 - [YouTube](https://www.youtube.com/watch?v=U-jrx_giINA) — UAP Gerb
+- A.F. Rullán, "Blue Book UFO Reports at Sea by Ships: Analysis of the Blue Book Ship Database" (NICAP, 2002), nicap.org/navy/bbpdf.pdf
 
 ## Related Pages
 

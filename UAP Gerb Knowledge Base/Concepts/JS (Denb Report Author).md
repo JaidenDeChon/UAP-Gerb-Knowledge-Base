@@ -8,7 +8,10 @@ tags:
 
 ## The Document
 
-The Denb Report is dated March 23, 1992, and is addressed "to all Denb team members" from "JS." Its designation, "File UFO 3263," suggests it is one of many UAP cases studied by the [[DENB Team]]. The report gives a minute-by-minute operational account of the alleged 1974 crash retrieval. It covers radar tracking data, communications intercepts, the assembly of a CIA recovery team, helicopter flight paths, a description of the disc, and the destruction of the site with high explosives.
+The Denb Report is dated March 23, 1992, and is addressed "To: All Deneb Team Members" from "JS." The "File: UFO3263" heading on circulating copies is the file number of the UFO BBS archive that preserved the text; Gerb reads it as a sign that Coyame is one of many cases studied by the [[DENB Team]]. The report gives a minute-by-minute operational account of the alleged 1974 crash retrieval. It covers radar tracking data, communications intercepts, the assembly of a CIA recovery team, helicopter flight paths, a description of the disc, and the destruction of the site with high explosives.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions gave the addressee as "Denb team members" and said "File UFO 3263" suggests one of many cases studied by the team. The text addresses the "Deneb Team", and the number belongs to the UFO BBS archive (textfiles.com, ufo/UFOBBS/3000/3263.ufo); the many-cases reading is Gerb's.
 
 The report closes with this statement:
 
@@ -65,7 +68,7 @@ The report warns that documentation was "illegally copied" and that the original
 - Did JS have direct access to classified documentation, or did JS compile information from secondary sources?
 - Was JS an active intelligence community member in 1992, or a retired or former member?
 - Why was the Coyame case selected for public release via internet message boards?
-- Are there other "File UFO" cases compiled by JS and the DENB Team that have not been released?
+- Did JS and the DENB Team compile or circulate other reports that have not been released?
 - Is JS still alive, and does JS have additional documentation on the Coyame case or other crash retrievals?
 
 Unless JS comes forward or is identified, the authenticity and sourcing of the Denb Report cannot be firmly established.

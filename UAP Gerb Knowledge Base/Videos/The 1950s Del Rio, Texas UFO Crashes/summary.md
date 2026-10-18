@@ -206,7 +206,7 @@ events:
   - date: "1957-09-19"
     title: "RB-47 chased 600 miles by a fireball (Condon Report Case 5)"
     cue: 485
-    summary: "A large fireball alternating red and white followed a Carswell-based USAF RB-47 for more than 600 miles, seen by the crew and tracked by ground radar, the aircraft's radar and its ECM gear at 2,800 megacycles. Pilot Lewis D. Chase described 'a glowing body as big as a barn'. Intelligence personnel removed the ECM and radar data on landing. Gerb cites it because no record of Willingham's 1955 sighting exists."
+    summary: "In Gerb's account, which he dates to 19 September 1957 and ties to Carswell, a large fireball alternating red and white followed a USAF RB-47 for more than 600 miles, seen by the crew and tracked by ground radar, the aircraft's radar and its ECM gear at 2,800 megacycles, and intelligence personnel removed the data on landing. The published Case 5 dates it only to fall 1957, names no base or crew, and concludes the data 'apparently never existed'. Later accounts date the flight to 17 July 1957 from Forbes AFB, Kansas. Gerb cites it because no record of Willingham's 1955 sighting exists."
     category: event
     significance: notable
     entities:
@@ -399,9 +399,12 @@ On a spring day in 1955, Willingham and other F-86 pilots flew out of [[Carswell
 
 No record of the 1955 sighting survives, so Gerb sets it beside three other episodes:
 
-- Case 5 of the Condon Report, from 19 September 1957, describes how a fireball alternating red and white followed a Carswell-based RB-47 for more than 600 miles. The crew saw it, Carswell radar and the aircraft's radar tracked it, and the ECM equipment registered a strong signal at 2,800 megacycles. Pilot Lewis D. Chase said it looked like "a glowing body as big as a barn". According to the [[Condon Report]], intelligence personnel removed the ECM and radar data on landing. Gerb shows the original CIA report of the incident.
+- Case 5 of the [[Condon Report]], which Gerb dates to 19 September 1957 and calls "also from Carswell Air Force Base". In his telling a fireball alternating red and white followed an RB-47 for more than 600 miles; the crew saw it, "Carswell radar" and the aircraft's radar tracked it, and the ECM equipment registered a strong signal at 2,800 megacycles. He quotes the report's line that the light appeared to the pilot, whom he names as Lewis D. Chase, to be "a glowing body as big as a barn", says the report detailed how intelligence personnel removed the ECM and radar data on landing, and shows what he calls the original CIA report of the incident.
 - On 14 May 1954, about six miles west of Dallas, Marine reserve jets led by Major Charles Scarborough saw 16 objects in groups of four, alternating white and orange. The objects outran the pilots' attempt to box them in.
 - On 18 July 1955, months after the encounter, an unclassified document answered a request from the commander of USAF Security Service in San Antonio for UFO sighting data from the Northeast Air Command and the northwestern United States, specifically from B-47s. Gerb allows this may be coincidence.
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions stated as fact that Condon Case 5 dates from 19 September 1957, involved a Carswell-based RB-47 piloted by Lewis D. Chase, and that intelligence personnel removed its data. The published Case 5 (NCAS online text) dates it only "Fall 1957", says "a B-47", names no base or crew, and records the data removal only as the pilot's disputed recollection, concluding the data "apparently never existed"; later accounts date the flight to 17 July 1957 from Forbes AFB, Kansas.
 
 ### At the wreck
 

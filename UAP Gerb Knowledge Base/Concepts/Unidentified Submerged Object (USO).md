@@ -21,8 +21,14 @@ Documented cases share a set of recurring physical traits that set USOs apart fr
 
 Official USO documentation is thin partly because of deliberate regulation, not a lack of reports. Two US directives in particular limited how much of a public USO record could build up:
 
-- [[OPNAV 3820]] (1952/1954) limited the circulation of Navy UFO sightings to the Air Force Technical Intelligence Center, USAF Intelligence and the Director of Naval Intelligence. This sent maritime UAP reports into classified channels instead of the public [[Project Blue Book]] investigation.
-- [[JANAP 146C]] (1954) barred military personnel, and civilians who had filed official sighting reports, from discussing those reports in public, under criminal penalties that included fines and imprisonment.
+- [[OPNAV 3820]] (1952/1954) limited the circulation of Navy UFO sightings to the Air Force Technical Intelligence Center, USAF Intelligence and the Director of Naval Intelligence. Researchers argue this kept maritime UAP reports in classified intelligence channels; Blue Book itself was an Air Technical Intelligence Center project.
+- [[JANAP 146C]] (1954) barred "all persons aware of the contents or existence" of a sighting report, military or civilian, from revealing it, and placed them under the Communications Act of 1934 and the espionage statutes (18 U.S.C. 793 and 794).
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said JANAP 146C's ban covered military personnel and only those civilians who had filed official sighting reports. Articles 210a and 308a extend it to "all persons aware of the contents or existence" of a CIRVIS or MERINT report (see the JANAP 146c transcription).
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said the instruction sent Navy reports to classified channels "instead of" Project Blue Book. Blue Book was run by the Air Technical Intelligence Center, one of the listed recipients, as the OPNAV 3820 page notes.
 
 As a result of these directives, only 258 of the 13,000+ sightings in Blue Book's 20-year record involved ships, and only 13 of those met the program's own merit standards. The Soviet Union had a parallel system of suppression. After the 1977 Vulga incident, though, [[Fleet Admiral Nikolai Smirnov]] issued a directive making USO reports mandatory for Soviet ships, which in effect created a Soviet version of OPNAV 3820 after the fact.
 

@@ -32,16 +32,22 @@ The directive expressly barred all persons aware of the contents or existence of
 JANAP 146c was put in place alongside other regulations, and together they made up the rules under which UAP reports were suppressed:
 
 - [[USAF Regulation 200-2]] (1953) made the Air Technical Intelligence Center (ATIC), the Wright-Patterson center that ran Project Blue Book, responsible for analysing Air Force UFO reports. Researchers argue the arrangement kept the most credible sightings in intelligence channels rather than the public-facing investigation.
-- [[OPNAV 3820]] (January 23, 1954) was the US Navy's directive requiring UAP sightings, which it called "flying object reports", to be sent to the directors of ATIC, USAF Intelligence, and Naval Intelligence. It cites JANAP 146c directly as its authority.
+- [[OPNAV 3820]] was the US Navy's series of UFO reporting instructions, first issued on 25 September 1952 according to A.F. Rullán's study of Blue Book's ship reports. Gerb describes a version of January 23, 1954 that sent UAP sightings, which it called "flying object reports", to the directors of ATIC, USAF Intelligence, and Naval Intelligence, and says it cites JANAP 146c directly; as dated, that version predates JANAP 146(C) of 10 March 1954.
 
 > [!edit] Corrected 16 October 2026
 > Earlier versions said AFR 200-2 sent reports to ATIC "instead of Project Blue Book". Blue Book was an ATIC project; the regulation (26 August 1953, paragraph 4a) names ATIC as the analysing activity. The bypass reading is the researchers'.
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions stated as fact that OPNAV 3820 dates from 23 January 1954 and cites JANAP 146c. Both are Gerb's; this directive's own letter of promulgation is dated 10 March 1954, so the two do not fit, and Rullán (NICAP, 2002) dates the first OPNAV 3820 instruction to 25 September 1952.
 
 These regulations created a closed reporting loop. Military UAP sightings, including maritime USO encounters, went into classified intelligence systems, with no obligation to account for them to the public or disclose them to Congress.
 
 ## Donald Keyhoe's Documentation
 
-Donald Keyhoe's book *The Flying Saucer Conspiracy* includes a copy of OPNAV 3820, which cites JANAP 146c directly. This gives civilian documentation of how the Navy carried out JANAP's reporting requirements.
+According to Gerb, Donald Keyhoe's book *The Flying Saucer Conspiracy* includes a copy of OPNAV 3820, which cites JANAP 146c directly. If the copy is the January 1954 version Gerb dates it to, it predates this edition, which was issued on 10 March 1954, and would have cited an earlier one. Either way, it gives civilian documentation of how the Navy carried out JANAP's reporting requirements.
+
+> [!edit] Clarified 17 October 2026
+> Earlier versions said without qualification that Keyhoe's copy of OPNAV 3820 cites JANAP 146c. That is Gerb's description, and the January 1954 date he gives for OPNAV 3820 is earlier than JANAP 146(C) itself.
 
 ## Significance for USO Research
 
@@ -51,3 +57,4 @@ JANAP 146c matters especially for USO history because it explicitly covered wate
 
 - [[USO - Unidentified Submerged Objects]]
 - [[USO Case Book - Unidentified Submerged Objects Throughout History]]
+- A.F. Rullán, "Blue Book UFO Reports at Sea by Ships: Analysis of the Blue Book Ship Database" (NICAP, 2002), sections 2.3 and 2.4, nicap.org/navy/bbpdf.pdf

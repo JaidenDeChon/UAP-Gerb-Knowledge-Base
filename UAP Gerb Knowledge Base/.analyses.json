@@ -6687,7 +6687,7 @@
       "id": "L0093",
       "slice": "S053-documents",
       "found_at": "2026-10-18T03:11:49Z",
-      "status": "open",
+      "status": "written",
       "duplicate_of": null,
       "problems": [],
       "kind": "smoking-gun",
@@ -6751,7 +6751,9 @@
       "weakest_link": "Context: Recommendation 3 follows Conclusion 3, which warns that an enemy could pair released objects with propaganda to cause mass hysteria, so informing psychological warfare agencies has a defensive rationale, and the report does not say the release should mislead the public. The finding has to be limited to what the words say: the report treated public messaging on UFOs as something for psychological warfare agencies to coordinate. Readings are clean (no bracketed words in the quoted lines); the document is official and checked against NARA's scan. The recommendations are well known in UFO literature (known-elsewhere likely); checkable against NARA catalog 461456800 and the December 1949 Air Force press release.",
       "impact": 4,
       "support": 4,
-      "slip": false
+      "slip": false,
+      "resolved_at": "2026-10-18T03:27:32Z",
+      "analysis": "Analyses/A secret 1953 CIA memo records a proposal to use TV and Disney cartoons to cut public interest in UFOs.md"
     },
     {
       "id": "L0094",
