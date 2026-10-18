@@ -105,7 +105,7 @@ events:
   - date: "1953"
     title: "USAF Regulation 200-2 routes UFO reports to ATIC"
     cue: 357
-    summary: "The Air Force regulation required all official UFO reports to go to the Air Technical Intelligence Center rather than to Project Blue Book. The video counts it as the first of three rules that took maritime and military sightings out of public view."
+    summary: "Gerb says the Air Force regulation restricted all official UFO reporting to the Air Technical Intelligence Center and not Blue Book. The regulation itself sends reports to Air Defense Command, ATIC and Air Force intelligence and names ATIC, Blue Book's parent, for analysis; it never mentions Blue Book. The video counts it as the first of three rules that took maritime and military sightings out of public view."
     category: policy
     significance: notable
     entities:
@@ -480,10 +480,13 @@ entries:
 - Project Interloper (1951), a joint USAF-Navy investigation of aerial and undersea UAP led by Blue Book member Dewey Fett, was run outside FOIA, briefed the CIA in 1953, and never reported to Congress; only three case files survive.
 - A 24 April 1952 letter from AFOIN-X-SG forwarded nine reports of submarine contacts with flying discs, compiled with the Office of Naval Intelligence; Gerb argues AFOIN's special group was a real secret UFO investigation body, and CUFON's 1979 FOIA requests about it were denied on national security grounds.
 - Researcher Leonard Stringfield was told of thousands of ONI UAP reports filed between 1952 and 1956.
-- USAF Regulation 200-2 (1953), OPNAV 3820 (23 January 1954) and JANAP 146c (1954) together removed military and maritime sightings from public view; JANAP 146c explicitly covered waterborne sightings and barred witnesses from discussing them, citing the Communications Act of 1934 and the Espionage Laws. Gerb puts the penalty at prison and a $10,000 fine; the directive names no penalty.
+- In Gerb's account, USAF Regulation 200-2 (1953), OPNAV 3820 (23 January 1954) and JANAP 146c (1954) together removed military and maritime sightings from public view; he says 200-2 sent all official reports to ATIC "and not Blue Book". The regulation never mentions Blue Book, and its paragraph 8 still let a base's public information officer release a sighting's location, time, date and description, without the names of witnesses, Air Force comments, intercept details or classified radar data; JANAP 146c explicitly covered waterborne sightings and barred witnesses from discussing them, citing the Communications Act of 1934 and the Espionage Laws. Gerb puts the penalty at prison and a $10,000 fine; the directive names no penalty.
 
 > [!edit] Attribution clarified 17 October 2026
 > This item used to give prison and a $10,000 fine as the directive's penalty. JANAP 146(C) cites only the Communications Act of 1934 and 18 U.S.C. 793 and 794; the figures are Gerb's.
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions stated as fact that the three rules removed sightings from public view. That is Gerb's account; the item now gives his claim about ATIC and Blue Book as his, and says what Regulation 200-2's own text provides (see its transcription).
 
 - A source at NARCAP told Jacques Vallée in 1985 that a large collection of UFO and USO files was stored at Norton Air Force Base.
 - A senior naval figure allegedly confirmed to Mark Dantonio that USOs are common and that a program exists to classify and log them.

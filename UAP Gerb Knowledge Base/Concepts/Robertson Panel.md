@@ -35,7 +35,10 @@ UAP researchers widely cite this recommendation as the origin of the institution
 
 ## Connection to Crash Retrievals
 
-The Robertson Panel convened in January 1953, just four months before the alleged [[1953 Kingman, Arizona Crash Retrieval]] in May 1953. Three months after Kingman came [[USAF Regulation 200-2]], which rerouted UFO reports away from public oversight. Researchers argue that the panel's recommendations and this regulation were an institutional response to public sightings and also to the growing problem of managing knowledge about recovered non-human craft. The closeness in time of the Robertson Panel, the Kingman crash and Regulation 200-2 is cited as evidence of a coordinated strategy to centralize control over UAP information and prevent leaks about crash retrieval operations.
+The Robertson Panel convened in January 1953, just four months before the alleged [[1953 Kingman, Arizona Crash Retrieval]] in May 1953. Three months after Kingman came [[USAF Regulation 200-2]], which sent UFO reports to Air Defense Command, the Air Technical Intelligence Center and Air Force intelligence, and limited what a base could tell the public about a sighting to its location, time, date and description, without witnesses' names, Air Force comments, intercept details or classified radar data. Researchers argue that the panel's recommendations and this regulation were an institutional response to public sightings and also to the growing problem of managing knowledge about recovered non-human craft. The closeness in time of the Robertson Panel, the Kingman crash and Regulation 200-2 is cited as evidence of a coordinated strategy to centralize control over UAP information and prevent leaks about crash retrieval operations.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said Regulation 200-2 "rerouted UFO reports away from public oversight". The regulation sets where reports go and, in its paragraph 8, what may be released; it now says what it provides (see its transcription).
 
 ## Declassification and Legacy
 
