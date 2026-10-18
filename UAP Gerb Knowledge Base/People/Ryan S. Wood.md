@@ -68,6 +68,13 @@ Wood has developed a weighted system for rating the authenticity of Majestic doc
 
 To trace the document control initials "EWL" (MJ-01) and "JRT" (MJ-04) on the control pages of SOM 1-01, Wood consulted Albuquerque phone books for 1954-1957 and cross-referenced them with National Personnel Records Center files. He found that a Captain Lewis (EWL, as Wood recalls the name) and a man matching "JRT" lived four or five houses apart on Perimeter Road inside [[Kirtland Air Force Base, New Mexico|Kirtland Air Force Base]] at the relevant time. Wood tracked down the JRT, who agreed to meet but denied being the one named in the document, describing himself vaguely as a psychological counselling officer. A private investigator found EWL's family and learned that he had died and was buried in Florida.
 
+::wiki-document
+---
+name: "Special Operations Manual (SOM 1-01)"
+caption: "The disputed MJ-12 manual whose document-control page carries the initials EWL and JRT that Wood set out to trace."
+---
+::
+
 ### Sources and Leakers
 
 Wood traces the leaks through a handful of recipients, the largest cache going to researcher [[Tim Cooper]]. Its main source was the pseudonymous "[[Thomas Cantwheel]]," who, near death from cancer, wrote to Cooper describing a career as a Counter Intelligence Corps officer in the [[Interplanetary Phenomenon Unit]] from 1942 to 1958. In the same video Gerb presents the case made by Reddit researcher "Harry is White Hot" that Cantwheel was Boris Dimitri Tarasoff. Tarasoff was a CIC officer (1942-1945) trained at Camp Ritchie, Maryland, who later worked for the CIA (1956-1968). He served at the Mexico City CIA station in 1963, transcribing surveillance of Soviet compounds including Lee Harvey Oswald traffic, and lived in San Leandro, California, where Cooper believed Cantwheel lived.

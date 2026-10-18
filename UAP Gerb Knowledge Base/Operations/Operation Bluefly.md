@@ -14,6 +14,13 @@ The best-known official definition of Blue Fly is in the [[AFCIN Intelligence Te
 > [!edit] Corrected 16 October 2026
 > Earlier versions said Bluefly's operational details remained classified or undisclosed, and inferred its functions (recovery, crash-site operations, technical evaluation) only from its grouping with Moon Dust. The 1961 AFCIN memo defines Blue Fly's role, and this paragraph now gives that definition.
 
+::wiki-document
+---
+name: "AFCIN Intelligence Team Personnel Memo (1961)"
+caption: "The Air Force intelligence staff paper of 3 November 1961 on staffing AFCIN's field intelligence teams, which defines Operation Blue Fly as the means of delivering Moon Dust items quickly to FTD."
+---
+::
+
 ## Unacknowledged Program Status
 
 [[Project Blue Book]] was publicly acknowledged as the Air Force's official UFO investigation program. Operation Bluefly, by contrast, was a classified or unacknowledged program. That level of classification suggests Bluefly handled operational parts of UFO investigation that needed more security than the public-facing programs.

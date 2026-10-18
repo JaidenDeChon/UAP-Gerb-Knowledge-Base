@@ -95,6 +95,13 @@ Few other documented gatherings had senior intelligence and defense figures disc
 
 Alexander was among those shown Corso's completed manuscript around the time *[[The Day After Roswell]]* came out, and he remarked on sensational details in the book that are missing from the manuscript. Gerb draws on this to argue that the book, written with co-author [[Bill Burns]], added material Corso never wrote. Gerb's own example is a scene in which Corso intimidates the CIA's director of covert operations, which appears in the book but not in the manuscript.
 
+::wiki-document
+---
+name: "The Day After Roswell"
+caption: "The 1997 book by Philip J. Corso and William J. Birnes, which Alexander compared with Corso's manuscript."
+---
+::
+
 In his book *UFOs: Myths, Conspiracies, and Realities*, Alexander wrote that the Army's [[U.S. Army Foreign Technology Division]] under [[Arthur Trudeau]] was formed as Corso stated and then "disappeared shortly after his retirement." His exact words were: "It was learned that the Army foreign technology division was formed as Corso stated and then disappeared shortly after his retirement". The passage supports the division's existence as an institution, although Alexander also notes that there is little public documentation of it.
 
 Corso and Alexander appeared together on Art Bell's *Coast to Coast AM*, where Corso put the division's budget at about $2 billion.
@@ -118,6 +125,13 @@ On July 10, 1986, Alexander wrote to Lockheed Skunk Works director [[Ben Rich]],
 ## Majestic-12 and the Special Operations Manual
 
 In a clip played in Gerb's interview with [[Ryan S. Wood]], Alexander says that [[Majestic 12|MJ-12]] "was real" but "had absolutely nothing to do with UFOs". Gerb recalls elsewhere that Alexander described it as a continuity-of-government type of institution. In *UFOs: Myths, Conspiracies, and Realities*, Alexander wrote that [[Robert Wood]] had told him he believed the [[Special Operations Manual (SOM 1-01)]] was created in 1954 to be leaked to Soviet spies, so that the Soviets would commit resources to crash recoveries. Ryan Wood rejects this.
+
+::wiki-document
+---
+name: "Special Operations Manual (SOM 1-01)"
+caption: "The disputed MJ-12 manual, dated 1954, that, according to Alexander, Robert Wood believed was created to be leaked to Soviet spies."
+---
+::
 
 ::wiki-claim{video="vzB87RJkQVU" video-title="The Majestic-12 Documents [With Ryan S. Wood]"}
 ---

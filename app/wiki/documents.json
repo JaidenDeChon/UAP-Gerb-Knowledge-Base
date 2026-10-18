@@ -316,9 +316,9 @@
       "retrieved": "2026-10-17"
     },
     "Project Grudge Report": {
-      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/4db6e50ba1ce71d1f8b81d40406c00260dedc93ac31fe5dfc421602b63e9ede6.pdf",
-      "sha256": "4db6e50ba1ce71d1f8b81d40406c00260dedc93ac31fe5dfc421602b63e9ede6",
-      "bytes": 119460722,
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/0f17968ef5372d4276138aff3418f456559ea6b7b49a055d1f0ef9a360df2455.pdf",
+      "sha256": "0f17968ef5372d4276138aff3418f456559ea6b7b49a055d1f0ef9a360df2455",
+      "bytes": 119382902,
       "pages": 412,
       "ocr": "skip-text",
       "sourceSha256": "7d5006a7eaeae36a2718ce7b30c02bf3ddfa6fc16fba7438b7d5730805da12a7",
@@ -331,7 +331,7 @@
       "source": "https://catalog.archives.gov/id/461456800",
       "fetchedFrom": "https://catalog.archives.gov/id/461456800",
       "built": "page-images",
-      "retrieved": "2026-10-17"
+      "retrieved": "2026-10-18"
     },
     "Recent Sentient Highlights": {
       "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/ce7937297d99c24ee170ca29c2937b6ca3fbf5b2ffbf056ec5bd35ef6a42ccaa.pdf",

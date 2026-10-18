@@ -11,6 +11,13 @@ General Hoyt S. Vandenberg was the second Chief of Staff of the United States Ai
 > [!edit] Corrected 16 October 2026
 > This paragraph used to say as fact that Vandenberg ended Project Sign in 1949, citing a lack of proof for the interplanetary interpretation. The only source for his part is Ruppelt's 1956 book, which says he rejected Sign's 1948 Estimate of the Situation for lack of proof. Ruppelt doesn't say Vandenberg closed Sign or ordered the Estimate destroyed; those are Gerb's statements.
 
+::wiki-document
+---
+name: "Project Sign Estimate of the Situation (1948)"
+caption: "Project Sign's Top Secret Estimate of the Situation of 1948, known from Edward Ruppelt's account; no copy has been made public."
+---
+::
+
 ## Termination of Project Sign
 
 Lieutenant General [[Nathan Twining]] set up Project Sign in 1948, and it produced a classified report that accepted some UFO sightings as real, unidentified objects. Future [[Project Blue Book]] director Edward J. Ruppelt wrote in 1956 that Sign had gone further in private. In the late summer or early autumn of 1948 it sent up a Top Secret Estimate of the Situation concluding that UFOs were interplanetary. The Estimate reached Vandenberg, who, Ruppelt writes, "wouldn't buy interplanetary vehicles" and sent it back because "the report lacked proof". A group from ATIC went to the Pentagon to argue for it and failed. Some months later, Ruppelt says, it was declassified and burned, with a few copies kept; he doesn't say who ordered that. No copy has been made public, and in 2024 [[AARO]] reported that it could not verify the account or find the document. Sign was renamed [[Project Grudge]] by an order of 11 February 1949.

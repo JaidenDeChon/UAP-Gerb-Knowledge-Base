@@ -8,6 +8,15 @@ tags:
 
 Thornton Leigh Page (1913–1996) was an American astronomer who sat on the [[Robertson Panel]], the CIA-sponsored committee of scientists that met in Washington, D.C. from 14 to 18 January 1953 to review US Air Force UFO case files. He signed the panel's report, which recommended that national security agencies strip UFOs of their "special status". His later account of how the panel was steered is one of the main pieces of evidence cited for the claim that its conclusions were decided in advance.
 
+::wiki-document
+---
+name: "Robertson Panel Report"
+page: 28
+region: [0.34, 0.95]
+caption: "The panel's recommendation to strip UFOs of \"the special status they have been given\", above the five members' signatures, Page's among them for Johns Hopkins University."
+---
+::
+
 ## Career
 
 Born in New Haven, Connecticut, Page took a physics degree at Yale in 1934 and a doctorate in astrophysics at Oxford in 1938. He taught astronomy at the University of Chicago and, from 1958, headed the astronomy department at Wesleyan University. He left Wesleyan in 1971 for the United States Naval Research Laboratory, where he worked until retiring in 1976. He died in Houston in 1996.

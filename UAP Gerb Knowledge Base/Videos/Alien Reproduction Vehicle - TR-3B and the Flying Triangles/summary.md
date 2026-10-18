@@ -413,6 +413,13 @@ The video opens on the [[Immaculate Constellation Report|Immaculate Constellatio
 > [!edit] Corrected 16 October 2026
 > Earlier versions stated as fact that the report's historical data reaches back to 2009. That is Gerb's claim. The report dates none of its imagery cases; its only date range is the 1991 to 2022 span of its HUMINT dataset.
 
+::wiki-document
+---
+name: "Immaculate Constellation Report"
+caption: "The unsigned whistleblower report entered into the congressional record on 13 November 2024, which describes imagery cases including triangles it labels reproduction craft."
+---
+::
+
 ::wiki-compare{video="B7JP0uX0GwY" video-title="Alien Reproduction Vehicle - TR-3B and the Flying Triangles"}
 ---
 caption: "The two triangles seen by US Indo-Pacific Command (INDOPACOM), as described in the Immaculate Constellation report and read out in the video."

@@ -252,6 +252,13 @@ events:
 
 Nobody knows how Mitchell came to hold the notes. Gerb traces what is known of their route from there. Around 2013, James Rigney befriended a confidential source at a US space conference, someone close to several Apollo astronauts. When Mitchell died unexpectedly in February 2016, his family invited that source to help disperse the estate, much of which was marked for destruction. The source told Rigney about papers referring to UFOs, and Rigney asked for access and copied several documents, the Wilson-Davis notes among them. His name became public when he explained the notes' origin on Richard Dolan's podcast.
 
+::wiki-document
+---
+name: "Wilson-Davis Memo"
+caption: "The leaked 15-page notes, dated 16 October 2002, that purport to record Eric Davis's conversation with Vice Admiral Thomas Wilson about a contractor-run crash retrieval program."
+---
+::
+
 ::wiki-chain{video="yIqkazIZh9I" video-title="The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs"}
 ---
 kind: transmission

@@ -22,6 +22,13 @@ The object is a saucer with a protrusion on top, flying tilted. Gerb notes that 
 
 The clip is tied to an [[Alleged Leaked UAP Task Force Report]] that surfaced online in 2021 or 2022. One of its pages is a cockpit communications log in which the two-seat fighter Club 11, directed by an [[AWACS (Airborne Warning and Control System)|AWACS]] and an unidentified controller called BLK, intercepts a bogey closing at 2,820 knots and then finds an object off the starboard wing, "about 10 to 15 ft from the canopy". Gerb argues that the log lines up almost exactly with the Flyby clip. The log belongs to Appendix F, Section 4B, "DoD 1992 through 2017 High Value Witness Interviews". That appendix is cited on a second alleged page, a "Behavioral Data Analysis" of 1,292 cases that names [[M. Harmon]], [[S. McCaron]] and [[K Shakoya]]. If the document is real and the log describes this encounter, the footage would count as "high value witness testimony", which in Gerb's view would make it one of the most crucial pieces of UFO footage ever taken.
 
+::wiki-document
+---
+name: "Alleged Leaked UAP Task Force Report"
+caption: "Disputed pages said to come from a classified UAP Task Force report, which circulated online in 2021 or 2022, including the cockpit communications log of the Club 11 intercept."
+---
+::
+
 ## Official statements on close-range footage
 
 Gerb sets the clip against statements by [[Luis Elizondo]] and [[Chris Mellon]]. In a 2021 GQ interview, Elizondo said that unreleased government footage includes a 23-minute video and one in which an object is 50 feet from the cockpit. Mellon said on *The Joe Rogan Experience* that he had seen footage of a UAP right next to a pilot. Gerb is certain that Mellon was not describing the Flyby clip. He cites both men as evidence that UFOs have been recorded within about 15 metres of aircraft.

@@ -105,7 +105,7 @@ events:
   - date: "1953"
     title: "USAF Regulation 200-2 routes UFO reports to ATIC"
     cue: 357
-    summary: "The Air Force regulation required all official UFO reports to go to the Air Technical Intelligence Center rather than to Project Blue Book. The video counts it as the first of three rules that took maritime and military sightings out of public view."
+    summary: "Gerb says the Air Force regulation restricted all official UFO reporting to the Air Technical Intelligence Center and not Blue Book. The regulation itself sends reports to Air Defense Command, ATIC and Air Force intelligence and names ATIC, Blue Book's parent, for analysis; it never mentions Blue Book. The video counts it as the first of three rules that took maritime and military sightings out of public view."
     category: policy
     significance: notable
     entities:
@@ -123,7 +123,7 @@ events:
   - date: "1954"
     title: "JANAP 146c brings waterborne sightings under reporting rules"
     cue: 313
-    summary: "The Joint Army Navy Air Force Publication directive 146c required both airborne and waterborne UFO sightings to be reported through service communications instructions for vital intelligence and maritime intelligence sightings. Civilians and pilots were barred from discussing officially reported sightings under the Communications Act of 1934 and espionage laws; Gerb says violators faced prison and a $10,000 fine, though the directive itself names no amount. Gerb dates the 'dark ages of UFO reporting' from these three rules."
+    summary: "The Joint Army Navy Air Force Publication directive 146c required both airborne and waterborne UFO sightings to be reported through service communications instructions for vital intelligence and maritime intelligence sightings. Civilians and pilots were barred from discussing officially reported sightings under the Communications Act of 1934 and espionage laws; Gerb says violators faced prison and a $10,000 fine, though the directive itself names no penalty. Gerb dates the 'dark ages of UFO reporting' from these three rules."
     category: policy
     significance: major
     entities:
@@ -295,6 +295,22 @@ Gerb argues that three rules, issued within about a year of each other, closed t
 > [!edit] Attribution clarified 17 October 2026
 > Earlier versions stated as fact that OPNAV 3820 cites JANAP 146c. That is Gerb's reading of Keyhoe's copy, and the January 1954 date he gives predates JANAP 146(C) of 10 March 1954; A.F. Rullán's NICAP study of Blue Book ship reports (2002) dates the first OPNAV 3820 instruction to 25 September 1952.
 
+::wiki-document
+---
+name: "OPNAV 3820"
+caption: "The Navy directive of 23 January 1954 requiring \"flying object reports\" to go to the directors of ATIC, USAF Intelligence and Naval Intelligence, under the authority of JANAP 146c."
+---
+::
+
+::wiki-document
+---
+name: "JANAP 146c"
+page: 15
+region: [0.56, 0.76]
+caption: "JANAP 146(C)'s security section: everyone aware of a CIRVIS report is governed by the Communications Act of 1934 and the Espionage Laws, and unauthorized revelation of its contents is prohibited."
+---
+::
+
 ::wiki-compare{video="U-jrx_giINA" video-title="USO - Unidentified Submerged Objects"}
 ---
 caption: "Three US military reporting rules that, in Gerb's account, closed off the early official record of sightings. Only JANAP 146c named waterborne sightings."
@@ -366,6 +382,13 @@ The paper's three central cases are these:
 - The [[Shelburne Harbor USO Incident|1960 Shelburne Harbor case]]. During a joint US-Canadian minesweeping exercise off [[Shelburne Harbor, Nova Scotia]] (close to, but distinct from, Shag Harbour's 1967 case), Royal Canadian Navy divers reportedly saw two disc-shaped craft on the seabed, with occupants apparently repairing one, and filmed them. Gallaudet writes that he found the story implausible until recent US military whistleblower disclosures.
 
 The paper also lists the range of USO forms in the literature: luminous orbs, silver and grey discs, triangular and cigar-shaped objects, and large lighted craft seen beneath the surface without ever emerging.
+
+::wiki-document
+---
+name: "Beneath the Surface (Gallaudet White Paper)"
+caption: "Rear Admiral Gallaudet's 2024 Sol Foundation white paper, which argues that UAP in the ocean should be made a national research priority."
+---
+::
 
 ## Military USO Encounter Cases
 
@@ -474,7 +497,14 @@ entries:
 - Project Interloper (1951), a joint USAF-Navy investigation of aerial and undersea UAP led by Blue Book member Dewey Fett, was run outside FOIA, briefed the CIA in 1953, and never reported to Congress; only three case files survive.
 - A 24 April 1952 letter from AFOIN-X-SG forwarded nine reports of submarine contacts with flying discs, compiled with the Office of Naval Intelligence; Gerb argues AFOIN's special group was a real secret UFO investigation body, and CUFON's 1979 FOIA requests about it were denied on national security grounds.
 - Researcher Leonard Stringfield was told of thousands of ONI UAP reports filed between 1952 and 1956.
-- USAF Regulation 200-2 (1953), OPNAV 3820 (which Gerb dates to 23 January 1954) and JANAP 146c (10 March 1954) together removed military and maritime sightings from public view; JANAP 146c explicitly covered waterborne sightings and barred witnesses from discussing them, which Gerb says carried prison and a $10,000 fine.
+- In Gerb's account, USAF Regulation 200-2 (1953), OPNAV 3820 (which he dates to 23 January 1954) and JANAP 146c (10 March 1954) together removed military and maritime sightings from public view; he says 200-2 sent all official reports to ATIC "and not Blue Book". The regulation never mentions Blue Book, and its paragraph 8 still let a base's public information officer release a sighting's location, time, date and description, without the names of witnesses, Air Force comments, intercept details or classified radar data; JANAP 146c explicitly covered waterborne sightings and barred witnesses from discussing them, citing the Communications Act of 1934 and the Espionage Laws. Gerb puts the penalty at prison and a $10,000 fine; the directive names no penalty.
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions stated as fact that JANAP 146c threatened witnesses with prison and a $10,000 fine. The figures are Gerb's; the directive (Articles 210 and 308) cites only the Communications Act of 1934 and 18 U.S.C. 793 and 794 and names no penalty.
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions stated as fact that the three rules removed sightings from public view and dated OPNAV 3820 to 23 January 1954. That is Gerb's account; the item now gives his date and his claim about ATIC and Blue Book as his, dates JANAP 146c from its own text, and says what Regulation 200-2's own text provides (see their transcriptions).
+
 - A source at NARCAP told Jacques Vallée in 1985 that a large collection of UFO and USO files was stored at Norton Air Force Base.
 - A senior naval figure allegedly confirmed to Mark Dantonio that USOs are common and that a program exists to classify and log them.
 - Oak Shannon's 1985 Advanced Theoretical Working Group notes record Navy intelligence on an underwater UFO hotspot near Golfo San Matías, Argentina.
@@ -484,9 +514,6 @@ entries:
 - John Bowman saw a Tic Tac-shaped USO from the USS Carl Vinson in 2010 and was told not to file a report.
 - Kevin Thomas claimed he saw a black triangle about a kilometre long rise silently from the ocean beside the USS Nimitz in 1991, and was questioned the next day by men in civilian clothes.
 - The March 1971 USS Trepang photographs remain unresolved; Gerb considers the balloon-training explanation undercut by the witnesses' statements and the lack of records, leaving hoax or genuine, and agrees with John Greenewald that the one altered image does not discredit the rest.
-
-> [!edit] Attribution clarified 17 October 2026
-> Earlier versions stated as fact that JANAP 146c threatened witnesses with prison and a $10,000 fine. The figure is Gerb's; the directive (Articles 210 and 308) cites the Communications Act of 1934 and 18 U.S.C. 793 and 794 but names no amount.
 
 ## Sources
 

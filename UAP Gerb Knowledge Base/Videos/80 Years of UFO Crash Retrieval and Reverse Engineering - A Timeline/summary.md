@@ -174,7 +174,7 @@ events:
   - date: "1954-08"
     title: "Atomic Energy Act of 1954"
     cue: 3043
-    summary: "The Atomic Energy Act of 1954 created two categories set by law, Restricted Data and Special Nuclear Material. They are handled outside the normal classification system of executive orders, and a president cannot declassify them alone. The video argues that this legal framework, run by the Atomic Energy Commission and the Department of Energy (AEC and DOE), became one of the main ways of hiding UFO-related materials and programs."
+    summary: "The Atomic Energy Act of 1954 wrote Special Nuclear Material into law and carried forward Restricted Data, a statutory category since 1946. Both are handled outside the normal classification system of executive orders, and a president cannot declassify them alone. The video argues that this legal framework, run by the Atomic Energy Commission and the Department of Energy (AEC and DOE), became one of the main ways of hiding UFO-related materials and programs."
     category: policy
     significance: major
     entities:
@@ -503,12 +503,29 @@ The video opens with a crash that David Grusch described in a 2023 News Nation i
 
 ### 1947-1954: the "Manhattan Project 2.0"
 
-The video treats the 1947 recoveries at Roswell and White Sands as the real starting point of the legacy programs. Unlike Magenta, it argues, Roswell involved humanoid biological remains and technology that could be understood, and this led the US to decide deliberately on total secrecy. The same month, Truman's National Security Act of 1947 created the Department of Defense, the National Security Council and the CIA. In Gerb's view the act gave UFO secrecy its administrative framework, though not its motive. In June 1948, NSC 10/2 set up the CIA's Office of Policy Coordination and, the video alleges, hid a UFO steering group known as [[Majestic 12]] inside the NSC's oversight of covert activities. Eisenhower's Executive Order 10501 of November 1953 created the modern classification levels of confidential, secret and top secret, and his NSC 5412 of March 1954 formally folded the alleged Majestic 12 group into the "5412 Committee." This period ends in August 1954 with the [[Atomic Energy Act of 1954]]. The act made Restricted Data and Special Nuclear Material classification categories set by law, beyond the reach of the ordinary declassification powers that executive orders give. Gerb calls it the main legal container used to hide UFO programs ever since.
+The video treats the 1947 recoveries at Roswell and White Sands as the real starting point of the legacy programs. Unlike Magenta, it argues, Roswell involved humanoid biological remains and technology that could be understood, and this led the US to decide deliberately on total secrecy. The same month, Truman's National Security Act of 1947 created the Department of Defense, the National Security Council and the CIA. In Gerb's view the act gave UFO secrecy its administrative framework, though not its motive. In June 1948, NSC 10/2 set up the CIA's Office of Policy Coordination and, the video alleges, hid a UFO steering group known as [[Majestic 12]] inside the NSC's oversight of covert activities. Eisenhower's Executive Order 10501 of November 1953 created the modern classification levels of confidential, secret and top secret, and his NSC 5412 of March 1954 formally folded the alleged Majestic 12 group into the "5412 Committee." This period ends in August 1954 with the [[Atomic Energy Act of 1954]]. The act wrote Special Nuclear Material into law and carried forward Restricted Data, a statutory category since the 1946 Act; in Gerb's account these and related categories sit beyond the reach of the ordinary declassification powers that executive orders give. Gerb calls it the main legal container used to hide UFO programs ever since.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said the 1954 Act made Restricted Data a category set by law. The Atomic Energy Act of 1946 already did; the 1954 Act introduced Special Nuclear Material and kept Restricted Data.
 
 Gerb checks this period against a [[Wilbert Smith Memo|memo]] that [[Wilbert B. Smith]] sent to Canada's Department of Transport in November 1950. It passed on claims that flying saucers exist and that a group headed by [[Vannevar Bush]] studies them under secrecy stricter than that around the H-bomb. The memo's source, physicist [[Robert Sarbacher]], spoke to Smith in September 1950, and in a [[Sarbacher Letter|1983 letter]] to [[William Steinman]] he recalled reports that materials from saucer crashes were "extremely light and very tough" and that the "aliens" were built like insects. Gerb reads the letter's account of the materials and crews in full.
 
 > [!edit] Corrected 16 October 2026
 > Earlier versions said Sarbacher described the lightweight materials and insect-like crews "in interviews at the time and later". Gerb ties his account to both the 1950 interview and the 1980s, but the passage he reads is from Sarbacher's letter of 29 November 1983; Smith's 1950 memo does not mention materials or crews.
+
+::wiki-document
+---
+name: "Wilbert Smith Memo"
+caption: "Wilbert Smith's top secret Department of Transport memo of 21 November 1950, subject \"Geo-Magnetics\", to the Controller of Telecommunications."
+---
+::
+
+::wiki-document
+---
+name: "Sarbacher Letter"
+caption: "Robert Sarbacher's letter of 29 November 1983 to William Steinman, answering his questions about the recovered flying saucers."
+---
+::
 
 ### 1953: Kingman as a tracer
 
@@ -593,6 +610,15 @@ The video alleges that in 1994, amid concern about President Clinton's instincts
 
 > [!edit] Corrected 16 October 2026
 > Earlier versions of this paragraph and the timeline entry said the GAO report found the messages destroyed without authorization, and the entry that it found them destroyed "decades earlier". The report (GAO/NSIAD-95-187) says only that the disposition form recorded no one, no date and no authority for the destruction; "without proper authority" and the 40-year estimate are Schiff's, from his statement on the report. The GAO review ran from March 1994, so it was under way before 1995.
+
+::wiki-document
+---
+name: "GAO Roswell Report (1995)"
+page: 4
+region: [0.36, 0.49]
+caption: "The report's finding on the destroyed RAAF records: administrative records and outgoing messages were destroyed, and the disposition form does not say by whom, when or under what authority."
+---
+::
 
 The 21st century brings a faster run of consolidations and near-exposures. Northrop Grumman bought TRW in December 2002, and the [[National Air and Space Intelligence Center (NASIC)|National Air and Space Intelligence Center]] was formed in February 2003. In 2004-2005, prime contractors such as Northrop Grumman allegedly began paying for their own breakaway UFO programs out of Independent Research and Development (IRAD) funds. [[Dick Cheney]] left office in January 2009, and the leadership of the [[James Clapper]] era took over. From 2009 to 2012 an Air Force "Go Public" campaign was conceived within the [[Hidden Wing]] at Edwards Air Force Base and then abandoned. Gerb says the effects of a 2007 briefing embargo at MITRE were fully felt from 2011 onward. Also in 2011, [[James T. Ryder]] of [[Lockheed Martin Space Systems]] attempted the [[Kona Blue]] technology transfer, which allegedly involved Kingman-derived materials and was blocked by CIA officials [[Glenn Gaffney]] and [[Mary K. Sturtevant]]. The [[AATIP (Advanced Aerospace Threat Identification Program)|Advanced Aerospace Threat Identification Program]] (c. 2009/2012-2017) is alleged to have partly served a Clapper-era partial-disclosure initiative linked to [[John Podesta]] and [[To The Stars Academy]]. In 2017 the [[Immaculate Constellation (IMCON)|Immaculate Constellation]] unacknowledged special access program was established; whistleblowers [[Matt Brown]] and David Grusch have confirmed it.
 

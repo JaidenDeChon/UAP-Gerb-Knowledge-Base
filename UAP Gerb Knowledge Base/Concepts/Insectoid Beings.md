@@ -16,6 +16,13 @@ In his [[Sarbacher Letter|letter of 29 November 1983]] to researcher [[William S
 > [!edit] Corrected 16 October 2026
 > Earlier versions quoted the letter as "we've observed on Earth", following Gerb's reading. The letter itself reads "we have observed on earth".
 
+::wiki-document
+---
+name: "Sarbacher Letter"
+caption: "Robert Sarbacher's letter of 29 November 1983 to William Steinman, answering his questions about the recovered flying saucers."
+---
+::
+
 Sarbacher put "aliens" in quotation marks, which suggests he was uncertain whether the beings were extraterrestrial. He was confident about their physical makeup, though: a lightweight build that let them survive extreme acceleration.
 
 He said more in a recorded 1983 conversation with [[Stanton Friedman]]:

@@ -39,6 +39,13 @@ Researchers see the laboratory's dual status, a government-owned FFRDC under pri
 
 The alleged [[Majestic 12]] Eisenhower Briefing Document describes a 6 December 1950 impact between [[El Indio, Texas]] and Guerrero, Mexico, in which a craft travelling at extreme velocity was nearly obliterated ([[1950 El Indio UFO Crash]]). The document states that recovered materials were transported to the "Atomic Energy Commission's Sandia facility" for study. If accurate, this places the El Indio debris at Sandia during AT&T's management of the laboratory (1949-1993). [[Steven Greer]]'s Disclosure Project archives include two redacted witness entries describing ET/NHI technology transfers specifically to AT&T, which some cite as circumstantial support for the chain of custody the document implies.
 
+::wiki-document
+---
+name: "Eisenhower Briefing Document"
+caption: "The disputed MJ-12 briefing paper dated 18 November 1952, which describes a 6 December 1950 impact between El Indio and Guerrero and says the remains went to the Atomic Energy Commission's facility at Sandia."
+---
+::
+
 ## Sources
 
 - [[Videos/Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/summary|Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]

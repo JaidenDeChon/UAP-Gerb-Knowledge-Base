@@ -21,7 +21,7 @@ stats:
     hint: "People David Grusch interviewed; Leslie Kean named Nell as one"
   - value: "0–5"
     label: "Phases in Nell's plan"
-    hint: "The six phases of his UAP campaign plan, run across four lines of effort"
+    hint: "Phase 0 and the five phases of his UAP campaign plan, run across four lines of effort"
   - value: 2030
     label: "Public acceptance target"
     hint: "Phase 3 of Nell's plan, due 1 October; he calls it an inflection point"
@@ -116,6 +116,15 @@ For Nell, the Amendment's definitions show that the NDAA was looking specificall
 
 The executive summary routes all UAP data to the National Archives. Nell voices what everyone is thinking: nobody necessarily trusts that this will happen. That is why he values the review board's oversight, which he contrasts with the 1992 JFK records process. Materials, biological evidence of NHI and technologies of unknown origin fall under the Amendment's eminent-domain clause, the federal government's power, as Gerb puts it, to take whatever it wants. Nell sets out arguments for and against using it. Gerb notes that some of the arguments against concern property rights, which points to private corporations holding UAP material.
 
+::wiki-document
+---
+name: "Schumer Amendment (NDAA)"
+page: 6
+region: [0.64, 0.77]
+caption: "The eminent-domain clause as printed in the Congressional Record of 13 July 2023 (right column): the federal government \"shall exercise eminent domain\" over recovered technologies of unknown origin and biological evidence of non-human intelligence held by private persons or entities."
+---
+::
+
 Gerb reports that the Schumer–Rounds amendment was then "watered down and gutted" by opponents of disclosure. He hopes the full bill returns, perhaps in the 2025 NDAA.
 
 ## Controlled or Catastrophic Disclosure
@@ -181,6 +190,13 @@ If the arms-race claim is true, and Russia or China are close to breakthroughs i
 ## The Way Forward: Nell's Campaign Plan
 
 The slide that partially leaked in November 2023 is titled "Way Forward: UAP Campaign Plan Lines of Effort". Gerb calls it "absurdly perplexing". Its end state is a post-disclosure world with proper oversight restored, catastrophic disclosure avoided and scientific understanding advanced. It gets there through five major phases (plus a Phase 0 already behind it) run across four lines of effort: the public sector, philosophical investigation, scientific research and the private sector.
+
+::wiki-document
+---
+name: "UAP Campaign Plan - Way Forward"
+caption: "Karl Nell's slide \"Way Forward: UAP Campaign Plan Lines of Effort\", shown at the SOL Foundation symposium in November 2023: phases from narrative shaping to an open-ended end state, across four lines of effort."
+---
+::
 
 - **Phase 0**, shaping the narrative, was done successfully by [[AATIP (Advanced Aerospace Threat Identification Program)|AATIP]], the DoD videos, the 2017 *New York Times* article and the UAP Task Force. Gerb points out that [[AARO]] isn't listed and imagines [[Sean Kirkpatrick]] "seething".
 - **Phase 1**, government acceptance, targeted 1 January 2024. Gerb judges it all but complete. It ends with the Schumer legislation: UAP is now largely a bipartisan issue, and "reactive hypothesis generation" is appearing, such as a newly published paper arguing that some UAP are plasma-based pre-life.

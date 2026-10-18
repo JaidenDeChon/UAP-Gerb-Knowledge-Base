@@ -129,7 +129,7 @@ events:
   - date: "1950-03-22"
     title: "The Hottel memo"
     cue: 1096
-    summary: "FBI agent Guy Hottel wrote to J. Edgar Hoover that an Air Force investigator had reported three flying saucers recovered in New Mexico: circular, with raised centres, about 50 feet across, and occupied by 3-foot humanoid figures in metallic suits. A Mr. Carl Howe blamed the crashes on high-powered radar interfering with their controls."
+    summary: "FBI agent Guy Hottel wrote to J. Edgar Hoover that an Air Force investigator had reported three flying saucers recovered in New Mexico: circular, with raised centres, about 50 feet across, and occupied by 3-foot humanoid figures in metallic suits. A further informant, whom Gerb names as Mr. Carl Howe (the name is redacted in the released memo), blamed the crashes on high-powered radar interfering with their controls."
     category: document
     significance: major
     entities:
@@ -262,12 +262,22 @@ events:
 
 ## The Smith Memo
 
-In 1950, [[Wilbert B. Smith]], a senior radio engineer with Canada's Department of Transport, wrote to the department's Controller of Telecommunications asking that Canada begin its first official investigation into UFOs, focused on magnetism as a form of propulsion. The letter relays four claims from a source within Washington:
+In November 1950, [[Wilbert B. Smith]], a senior radio engineer with Canada's Department of Transport, wrote to the department's Controller of Telecommunications. Gerb describes the memo as asking Canada to begin its first official investigation into UFOs, focused on magnetism as a form of propulsion; the memo itself, headed "Geo-Magnetics", asks for a small project to study drawing energy from the Earth's magnetic field, work Smith tied to the flying saucers. It relays four claims that, it says, came from "discreet enquiries through the Canadian Embassy staff in Washington":
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions stated as fact that the memo asked for an official UFO investigation into magnetic propulsion, and credited its claims to "a source within Washington". Both are Gerb's descriptions; the memo asks for a geo-magnetics project, never mentions propulsion, and credits its information to enquiries through Canadian Embassy staff.
 
 1. The matter is the most highly classified subject in the United States government, rating even higher than the H-bomb.
 2. Flying saucers exist.
 3. Their modus operandi is unknown, but a concentrated effort is being made by a small group headed by Dr. [[Vannevar Bush]].
 4. The entire matter is considered by US authorities to be of tremendous significance.
+
+::wiki-document
+---
+name: "Wilbert Smith Memo"
+caption: "Wilbert Smith's top secret Department of Transport memo of 21 November 1950, subject \"Geo-Magnetics\", to the Controller of Telecommunications."
+---
+::
 
 According to the video, the memo led directly to Canada's two official UFO investigations: [[Project Magnet]], which studied the possibility of reverse-engineering UFO magnetic propulsion to exploit the Earth's magnetic field, and [[Project Second Story]], which sought to recommend a course of action to the Canadian government. Gerb sees a continuing thread in 2023, when Canadian member of Parliament Larry Maguire wrote to the defence minister about recovered UAP material and Five Eyes retrieval operations.
 
@@ -302,6 +312,13 @@ In 1983, UFO researcher [[William Steinman]] wrote to Sarbacher, and on 29 Novem
 
 > [!edit] Corrected 16 October 2026
 > Earlier versions said the letter answered twelve questions, that Sarbacher named Oppenheimer as "definitely" involved, that he was not given access to the meetings, and that he never received photographs. The letter answers five numbered questions, says "I think Dr. Robert Oppenheimer also", says he could not attend because his association with the Board was limited, and says he does not recall receiving photographs.
+
+::wiki-document
+---
+name: "Sarbacher Letter"
+caption: "Robert Sarbacher's letter of 29 November 1983 to William Steinman, answering his questions about the recovered flying saucers."
+---
+::
 
 ::wiki-grid{cols=2}
 ::wiki-panel{title="What he said he did not know"}
@@ -441,7 +458,19 @@ root:
 
 Most of the video concerns a significant meeting about crash operations, which Sarbacher and Walker both placed at Wright Field around 1950. Gerb ends on a document from the same year. On 22 March 1950, FBI agent [[Guy Hottel]] wrote to Director [[J. Edgar Hoover]] relaying what an Air Force investigator had said. Gerb guesses the investigator came from the [[Air Force Technical Intelligence Center|Air Technical Intelligence Center]] (ATIC). In 1952 ATIC commissioned Battelle for [[Project Stork]], a project run in parallel to Blue Book without the public's knowledge, meant to "assist the Air Force in reassuring the public that everything is well under control."
 
-According to the [[Hottel Memo]], three flying saucers had been recovered in New Mexico. They were circular with raised centres and about 50 feet in diameter, and each was occupied by humanoid figures about 3 feet tall dressed in metallic suits. One [[Carl Howe]] said the discs were found in New Mexico because of high-powered radar there, which likely caused the crashes by interfering with their control mechanisms. Gerb leaves two questions open: whether the memo ties in with the Wright Field retrieval meeting, and whether it describes the [[Roswell Crash]] of three years earlier.
+According to the [[Hottel Memo]], three flying saucers had been recovered in New Mexico. They were circular with raised centres and about 50 feet in diameter, and each was occupied by humanoid figures about 3 feet tall dressed in metallic suits. A further informant said the discs were found in New Mexico because the government had high-powered radar there, which was believed to interfere with their control mechanisms. Gerb names him as "Mr. [[Carl Howe]]", though in the memo as released the name is blacked out ("According to Mr. [redacted] informant"), and the information is recorded as furnished to a Special Agent whose name is also redacted. Gerb leaves two questions open: whether the memo ties in with the Wright Field retrieval meeting, and whether it describes the [[Roswell Crash]] of three years earlier.
+
+> [!edit] Corrected 17 October 2026
+> This paragraph used to say the memo names "one Carl Howe" as the source of the radar claim. The name is redacted in the FBI Vault release (page 2); Howe is Gerb's identification, and the memo says only that the radar "is believed" to interfere with the saucers' controls.
+
+::wiki-document
+---
+name: "Hottel Memo"
+page: 2
+region: [0.24, 0.56]
+caption: "The memo's body: an Air Force investigator's report of three saucers recovered in New Mexico, and an informant's explanation that radar interfered with their controls."
+---
+::
 
 ## Gerb's Closing Thoughts
 

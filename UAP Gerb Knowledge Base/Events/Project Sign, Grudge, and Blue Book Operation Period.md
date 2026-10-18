@@ -20,10 +20,26 @@ On 23 September 1947 Lieutenant General [[Nathan Twining]] of Air Materiel Comma
 > [!edit] Corrected 17 October 2026
 > Earlier versions said Twining established Sign in 1948 with a memo to "AAF Commanding General George Lugan". The September 1947 memo went to the Commanding General, Army Air Forces, attention Brig. Gen. George Schulgen ("Lugan" is a mishearing in the video captions), and Sign was created by a separate 30 December 1947 directive (Project 1947 transcription of the memo; Wikipedia, "Project Sign").
 
+::wiki-document
+---
+name: "Twining Memo"
+page: 3
+region: [0.23, 0.52]
+caption: "The letter's recommendation: a directive assigning a priority, security classification and code name for a detailed study, with the data made available to the Army, Navy, Atomic Energy Commission, JRDB, Air Force Scientific Advisory Group, NACA, and the RAND and NEPA projects."
+---
+::
+
 According to Ruppelt, in 1948 Sign sent up a Top Secret [[Project Sign Estimate of the Situation (1948)|Estimate of the Situation]] concluding that UFOs were interplanetary, and General [[Hoyt Vandenberg]] rejected it because it "lacked proof". No copy of the Estimate has been made public. Gerb tells this as Vandenberg shutting Sign down in 1949 for lack of proof. By Ruppelt's account, Sign was renamed Grudge by an order of 11 February 1949. Sign's positive conclusion, that some UFOs were real and unexplained, was institutionally unacceptable.
 
 > [!edit] Corrected 16 October 2026
 > This paragraph used to say as fact that Vandenberg shut Sign down in 1949, citing a lack of proof. In Ruppelt's book, the only source for Vandenberg's part, what he rejected for lack of proof was Sign's 1948 Estimate of the Situation. The closure in 1949 for "lack of proof" is Gerb's account.
+
+::wiki-document
+---
+name: "Project Sign Estimate of the Situation (1948)"
+caption: "Project Sign's Top Secret Estimate of the Situation of 1948, known from Edward Ruppelt's account; no copy has been made public."
+---
+::
 
 ## Project Grudge (1949–1952)
 
@@ -45,7 +61,9 @@ The [[Robertson Panel]] (January 1953) and the [[Condon Committee]] (1966–1968
 Gerb argues that classified programs operated alongside the official investigations throughout this period. According to Gerb, Ruppelt suggested on 24 April 1952 that programs parallel to the official investigations were "conducting a more complete investigation," and Hynek reached the same conclusion. Gerb suggests [[Project Moon Dust]], active from at least 1961 under the [[USAF 1127th Field Activities Group]], could have been one such program, collecting UFO material while Blue Book publicly dismissed the phenomena.
 
 > [!edit] Attribution clarified 17 October 2026
-> Earlier versions stated as fact that Ruppelt disclosed parallel programs in 1952, that Hynek independently confirmed it, and that Moon Dust was one of them. These come from Gerb's Moon Dust video, where he gives the date as 24 April 1952 and says Moon Dust "could have been" such a program. When Senators [[Jeff Bingaman]] and [[Pete Domenici]] inquired about Moon Dust in 1992, the Air Force initially denied that it existed. The denial is consistent with the system of suppression built during the Sign–Grudge–Blue Book period.
+> Earlier versions stated as fact that Ruppelt disclosed parallel programs in 1952, that Hynek independently confirmed it, and that Moon Dust was one of them. These come from Gerb's Moon Dust video, where he gives the date as 24 April 1952 and says Moon Dust "could have been" such a program.
+
+When Senators [[Jeff Bingaman]] and [[Pete Domenici]] inquired about Moon Dust in 1992, the Air Force initially denied that it existed. The denial is consistent with the system of suppression built during the Sign–Grudge–Blue Book period.
 
 ## Sources
 

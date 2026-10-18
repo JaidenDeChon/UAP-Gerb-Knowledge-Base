@@ -24,6 +24,15 @@ On May 5, 1955, ATIC issued [[Project Blue Book Special Report No. 14]], the sta
 > [!edit] Corrected 16 October 2026
 > Earlier versions said Battelle and ATIC jointly published the report, which analyzed 3,200 sightings and concluded UFOs were not advanced craft because no physical matter had ever been recovered. The report is ATIC's, names no contractor and covers 3,201 cases, and the missing physical evidence is not the basis of its conclusion.
 
+::wiki-document
+---
+name: "Project Blue Book Special Report No. 14"
+page: 10
+region: [0.25, 0.53]
+caption: "The report's summary conclusion: the study was prepared by \"a panel of scientists both in and out of the Air Force\", and \"there has been a complete lack of any valid evidence of physical matter in any case of a reported unidentified aerial object.\""
+---
+::
+
 UAP researchers argue that Special Report 14's conclusion directly contradicts Battelle's own classified 1949 research on [[Nitinol (Nickel-Titanium Alloy)]]. That shape-memory material was analyzed for Wright-Patterson Air Force Base years before the alloy was officially discovered in public, and it is alleged to have come from the 1947 Roswell crash. On this basis, the publication of Special Report 14 is characterized as deliberate disinformation rather than a genuine analytical conclusion.
 
 ## Significance

@@ -15,6 +15,15 @@ US Northern Command is the parent command of [[NORAD]] (North American Aerospace
 
 In 2013, [[John Greenewald]] of [[The Black Vault]] submitted a FOIA request to US Northern Command for documentation on Fast Walkers, which are objects detected by [[Defense Support Program (DSP)]] satellites as they enter or leave Earth's atmosphere. NORTHCOM replied that Fast Walker documentation is "currently and properly classified" under Executive Order 13526. It said such information is "considered critical to National Defense or foreign policy and is thus controlled by the US government."
 
+::wiki-document
+---
+name: "Executive Order 13526"
+page: 3
+region: [0.13, 0.43]
+caption: "Section 1.4 of the order NORTHCOM cited, listing the categories of information that may be classified, among them military plans, weapons systems or operations."
+---
+::
+
 Although it withheld the Fast Walker documentation as classified, NORTHCOM did release two unclassified research papers:
 1. "Orbit Determination of Sunlit Illuminated Objects Detected by Overhead Platforms" (1989) by [[Richard P. Osedacz]]
 2. "Space-Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors" (2008) by [[Bradley R. Townsend]]

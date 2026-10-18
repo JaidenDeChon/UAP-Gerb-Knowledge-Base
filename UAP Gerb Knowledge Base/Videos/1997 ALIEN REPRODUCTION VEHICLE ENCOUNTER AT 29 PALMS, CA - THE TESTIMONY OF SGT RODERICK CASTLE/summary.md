@@ -615,6 +615,14 @@ Gerb adds that [[Salvatore Pais]]'s [[Naval Air Station Patuxent River|Pax River
 > [!edit] Clarified 16 October 2026
 > Earlier versions gave Gerb's date and description of the patent without comment. The patent itself (US 10,144,532 B2) gives the filing, publication and grant dates and shows no concave centre. The timeline entry above was reworded to match.
 
+::wiki-document
+---
+name: "Craft Using an Inertial Mass Reduction Device"
+page: 2
+caption: "The patent's drawing sheet: FIG-1 shows the craft as a triangle and FIG-2 as a diamond, both drawn as flat outlines."
+---
+::
+
 ::wiki-grid{cols=2}
 ::wiki-panel{title="Likeliest, in Gerb's view: a TR-3B" tone="accent"}
 A triangular alien reproduction vehicle (ARV) run by the Navy and Air Force and based in the R2508 corridor, at Edwards, NAS Lemoore, the Fallon warfare center or perhaps China Lake. Top service pilots would have flown it, and the Navy's Hunter Air adjunct would have brought it into the Hunter Warrior exercise. Gerb favours this because of the physical parallels with Edgar Fouché's description, the craft's departure bearing, and the account of Ed, Gerb's witness at Edwards.

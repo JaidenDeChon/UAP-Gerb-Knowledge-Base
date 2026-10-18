@@ -11,12 +11,30 @@ Lieutenant General Nathan F. Twining was a senior United States Air Force office
 > [!edit] Corrected 16 October 2026
 > Earlier versions said Twining wrote to "Air Force Commanding General George Shugen", a garbling of the video captions. The letter itself is addressed to the Commanding General, Army Air Forces, for the attention of Brig. Gen. George Schulgen of AC/AS-2, and Twining signed it as commanding general of the Air Materiel Command.
 
+::wiki-document
+---
+name: "Twining Memo"
+page: 1
+region: [0.34, 0.83]
+caption: "The letter's first page: dated 23 September 1947, addressed to the Commanding General, Army Air Forces, for the attention of Brig. Gen. George Schulgen, and giving the opinion that the phenomenon is \"something real and not visionary or fictitious\"."
+---
+::
+
 ## Creation of Project Sign
 
 Twining's assertion that flying discs were real gave the Air Force its mandate to set up Project Sign in 1948. His letter recommended that Army Air Forces headquarters order a detailed study with a priority, a security classification and a code name. Sign was set up on 22 January 1948 by AMC's Technical Intelligence Division, under a 30 December 1947 letter from the Air Force's Deputy Chief of Staff, Materiel, to investigate UFO reports systematically. Gerb says every Project Sign report had to be sent to the [[Army and Navy Research and Development Board]], the [[USAF Scientific Advisory Group|USAF Scientific Advisory Board]] and the [[Atomic Energy Commission]]. That list comes from the letter, which recommended sharing the study's data with the Army, the Navy, the AEC, the Joint Research and Development Board, the Air Force Scientific Advisory Group, NACA, and the RAND and NEPA projects. The list shows that the phenomenon concerned officials at a high level and in several agencies at the time.
 
 > [!edit] Corrected 16 October 2026
 > Earlier versions stated as fact that every Sign report had to go to these three bodies. That is Gerb's account; the list comes from the recommendations in Twining's letter of 23 September 1947. The next paragraph also spoke of "Twining's directive", but the letter only recommended a study: Sign's start date and authority come from the Project Sign technical report of February 1949.
+
+::wiki-document
+---
+name: "Twining Memo"
+page: 3
+region: [0.23, 0.69]
+caption: "Twining's recommendation of a coded, classified study whose data would go to the Army, Navy, Atomic Energy Commission, JRDB, Air Force Scientific Advisory Group, NACA, RAND and NEPA, above his signature."
+---
+::
 
 The study Twining recommended treated UFOs as a legitimate subject for military intelligence and scientific analysis instead of dismissing them as misidentifications or hoaxes. It was a significant moment in the government's official handling of UFOs.
 

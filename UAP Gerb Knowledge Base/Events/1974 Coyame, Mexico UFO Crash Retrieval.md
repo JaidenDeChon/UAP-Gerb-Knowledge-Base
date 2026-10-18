@@ -11,6 +11,13 @@ The **1974 Coyame, Mexico UFO Crash Retrieval** is an alleged UAP crash and cove
 
 The Denb Report gives clock times but dates only 25 and 26 August; the later dates follow from its sequence ("that day", "the next morning").
 
+::wiki-document
+---
+name: "Denb Report"
+caption: "The anonymous 1992 memo signed \"JS\" whose clock times this chronology follows, from radar contact on 25 August to the disc's transport north."
+---
+::
+
 ### 25 August 1974, 2207 hours
 US Air Defense radar detected an unknown object approaching US airspace from the Gulf of Mexico at 2,200 knots, bearing 325°, altitude 75,000 feet, on a course to intercept US territory approximately 40 miles southwest of Corpus Christi, Texas.
 

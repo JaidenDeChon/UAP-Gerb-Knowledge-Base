@@ -15,13 +15,23 @@ In spring 1955, USAF Reserve Colonel [[Robert Willingham]] and a group of F-86 S
 
 ### 1957 RB-47 Incident
 
-Gerb cites Case 5 of the [[Condon Report]], which describes a fall 1957 encounter between "a B-47" on an electronic counter-measures training mission and a light that the crew saw, ground radar returned and the aircraft's ECM receiver registered at about 2,800 mHz. In Gerb's telling a large bright fireball, alternating red and white, pursued the RB-47 for over 600 miles. He dates it to 19 September 1957 and places the aircraft at Carswell, but the report names no base or crew, and later accounts identify it as an RB-47 of the 55th Strategic Reconnaissance Wing at Forbes Air Force Base in Topeka, Kansas, and date the flight to 17 July 1957 from Blue Book records. Gerb calls the ground radar "Carswell radar". The report says the light appeared to the pilot, whom Gerb names as Lewis D. Chase, to be "a glowing body as big as a barn", moving "at a velocity far higher than airplane speeds". Gerb says intelligence personnel removed all ECM graphic and radar data after landing; in the report that is the pilot's recollection, disputed by the co-pilot and the monitoring officer, and the study concluded the data "apparently never existed".
+Gerb cites Case 5 of the [[Condon Report]], which describes a fall 1957 encounter between "a B-47" on an electronic counter-measures training mission and a light that the crew saw, ground radar returned and the aircraft's ECM receiver registered at about 2,800 mHz. In Gerb's telling a large bright fireball, alternating red and white, pursued the RB-47 for over 600 miles. He dates it to 19 September 1957 and places the aircraft at Carswell, but the report names no base or crew, and later accounts identify it as an RB-47 of the 55th Strategic Reconnaissance Wing at Forbes Air Force Base in Topeka, Kansas, and date the flight to 17 July 1957 from Blue Book records. Gerb calls the ground radar "Carswell radar". The report's narrative, which does not name the pilot, says the light appeared to the pilot to be "a glowing body as big as a barn", moving "at a velocity far higher than airplane speeds"; Gerb names the pilot as Lewis D. Chase and presents the words as his. Gerb says intelligence personnel removed all ECM graphic and radar data after landing; in the report that is the pilot's recollection, disputed by the co-pilot and the monitoring officer, and the study concluded the data "apparently never existed".
 
 > [!edit] Corrected 17 October 2026
 > Earlier versions described the RB-47 as Carswell-based, tracked by Carswell ground radar, on 19 September 1957. The aircraft flew from Forbes AFB, Kansas, on 17 July 1957 (The Black Vault, "Project Blue Book: The RB-47 UFO Incident"; Patrick Gross, "RB-47"); the Carswell link and the September date are Gerb's.
 
 > [!edit] Attribution clarified 17 October 2026
 > Earlier versions stated as the Condon Report's account that the fireball chased an RB-47 for 600 miles, that Chase described it, and that intelligence personnel removed the data. The published Case 5 (NCAS online text, files.ncas.org/condon/text/case05.htm) says "a B-47", names no crew, gives no distance, and concludes the data apparently never existed; those details are Gerb's or come from later accounts.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said Chase described the object as "as big as a barn". The words are the Condon Report's own narrative (volume 1, Case 5), which does not name him; Gerb presents them as a quote from Chase in his Del Rio video.
+
+::wiki-document
+---
+name: "Condon Report"
+caption: "The University of Colorado's \"Scientific Study of Unidentified Flying Objects\", whose Case 5 is the fall 1957 B-47 encounter Gerb ties to Carswell."
+---
+::
 
 ### El Indio Debris Connection
 

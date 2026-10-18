@@ -16,6 +16,13 @@ El Segundo has (or had) highly classified facilities that support [[Defense Supp
 
 In his 2015 email to [[John Podesta]], made public through [[WikiLeaks]], [[Bob Fish]] described having lunch with DSP personnel "in the cafeteria of a highly classified organization in El Segundo, California" while [[Operation Desert Shield]] and [[Operation Desert Storm]] were being prepared in the late 1980s and early 1990s.
 
+::wiki-document
+---
+name: "Bob Fish Email to John Podesta"
+caption: "Bob Fish's email to John Podesta of March 2015, published by WikiLeaks in 2016, naming the USAF DSP satellite program as a collector of hard data on UFOs."
+---
+::
+
 Fish stressed that "no one could get into the cafeteria without TS/SCI clearance", which meant that everyone present was working on the most sensitive national security programs. There Fish first heard DSP operators discuss detecting a [[Fast Walkers|Fast Walker]] that had entered Earth's atmosphere from deep space and made a 30-degree course correction, a sign of controlled flight.
 
 ## Aerospace Corporation Headquarters

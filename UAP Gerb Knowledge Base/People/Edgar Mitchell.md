@@ -34,6 +34,13 @@ Mitchell described the episode on CNN's *Larry King Live* in 2008, years before 
 
 Mitchell died unexpectedly in February 2016. His family invited a confidential source who had known several Apollo astronauts to help disperse the estate, much of which was marked for destruction. The source told [[James Rigney]] about UFO-related papers among Mitchell's belongings, and Rigney copied several documents, including the Wilson-Davis notes, which researchers saw from late 2018 and which became public in 2019. How Mitchell came to hold the notes is not known. Physicist [[Eric Davis]], who is said to have written them, has confirmed only that they "were leaked out of Ed Mitchell's estate."
 
+::wiki-document
+---
+name: "Wilson-Davis Memo"
+caption: "The leaked 15-page notes, dated 16 October 2002, that purport to record Eric Davis's conversation with Vice Admiral Thomas Wilson about a contractor-run crash retrieval program."
+---
+::
+
 Gerb counts Mitchell, with [[Luis Elizondo|Lou Elizondo]], [[Chris Mellon]] and [[Ross Coulthart]], among those who have attested to the memo's authenticity, and argues that Mitchell "confirmed the meeting before his notes were found in his estate".
 
 ## Sources

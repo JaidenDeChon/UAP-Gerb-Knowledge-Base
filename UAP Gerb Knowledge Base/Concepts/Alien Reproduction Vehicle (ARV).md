@@ -21,6 +21,13 @@ The [[Immaculate Constellation Report|IMCON report]] described at least two enco
 > [!edit] Corrected 16 October 2026
 > Earlier versions said the report's historical data went back to 2009, as Gerb says in his black-triangle video. The report gives no date for the triangle footage; its only date range is the 1991 to 2022 span of its HUMINT dataset.
 
+::wiki-document
+---
+name: "Immaculate Constellation Report"
+caption: "The unsigned whistleblower report entered into the congressional record in November 2024, which describes INDOPACOM triangles it calls reproduction craft."
+---
+::
+
 ## Historical Context
 
 Historical UFO reports show that sightings of triangular craft were rare before 1970 and after 2000 but rose sharply during the 1980s–1990s. [[Project Blue Book]] cataloged only four anomalous triangle sightings in the 1950s. The controversial [[Majestic 12]] document titled Psalm 101, allegedly dated 1954, lists triangular craft alongside saucers, spheres and cigars. It describes an isosceles triangle roughly 300 feet long on its longest side that could reach high speeds and make abrupt maneuvers. Gerb proposes that legacy UFO programs began building triangular ARVs sometime in the 1970s, modeled on recovered non-human triangular craft, and then refined and tested them over military bases from the 1980s through the 2000s.

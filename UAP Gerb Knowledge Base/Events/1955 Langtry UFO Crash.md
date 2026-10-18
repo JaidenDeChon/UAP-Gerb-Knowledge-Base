@@ -57,7 +57,17 @@ Researcher [[Kevin Randle]] questioned Willingham's Air Force service record in 
 
 Willingham's 1965 newspaper account, his 1977 [[Willingham Affidavit|affidavit]] (obtained by researcher [[Todd Zechel]]) and the 2008 book also disagree in other ways:
 - The affidavit says Willingham was flying an F-94, while the book says it was an F-86 Sabre.
-- The 1965 article dates the event to 1948, while the book and later sources give 1955.
+- The earlier article dates the event to 1948, while the book and later sources give 1955. Gerb dates that article to 1965 (and elsewhere 1967); [[Kevin Randle]] traces the first published telling, and the 1948 date, to MUFON's *Skylook* in March 1968. The affidavit gives no year.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said "the 1965 article" dates the event to 1948. The 1965 date is Gerb's; Randle finds the 1948 date in *Skylook*, March 1968 (see [[Willingham Affidavit]]).
+
+::wiki-document
+---
+name: "Willingham Affidavit"
+caption: "Robert Willingham's 1977 affidavit for Todd Zechel, known from Kevin Randle's transcription, describing a crash on the Texas–Mexico border."
+---
+::
 
 Willingham put these discrepancies down to memory problems from his Korean War head injury.
 
@@ -69,6 +79,13 @@ The [[Condon Report]], a 1969 study funded by the Air Force and designed to debu
 
 > [!edit] Corrected 17 October 2026
 > Earlier versions said the Case 5 RB-47 was Carswell-based and flew on 19 September 1957, and stated the Carswell pattern as fact. The aircraft flew from Forbes AFB, Kansas, on 17 July 1957 (The Black Vault, "Project Blue Book: The RB-47 UFO Incident"; Patrick Gross, "RB-47"); the Carswell link and the September date are Gerb's.
+
+::wiki-document
+---
+name: "Condon Report"
+caption: "The University of Colorado's \"Scientific Study of Unidentified Flying Objects\", whose Case 5 is the RB-47 encounter it dates 19 September 1957."
+---
+::
 
 ### USAF Document on B-47 UFO Sightings
 

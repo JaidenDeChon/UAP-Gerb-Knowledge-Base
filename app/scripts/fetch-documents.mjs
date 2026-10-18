@@ -52,8 +52,8 @@
 // check it against. `lookup` helps find a source on a site that refuses
 // scripts.
 //
-// Needs poppler (pdfinfo, pdftoppm, pdftotext), cwebp and ocrmypdf
-// (`brew install poppler webp ocrmypdf`), plus img2pdf and macOS's `sips` for
+// Needs poppler (pdfinfo, pdftoppm, pdftotext), cwebp, ocrmypdf and qpdf
+// (`brew install poppler webp ocrmypdf qpdf`), plus img2pdf and macOS's `sips` for
 // `nara-images`, and SUPABASE_URL plus
 // SUPABASE_SERVICE_ROLE_KEY in the environment or in app/.env.local (never
 // committed). The service-role key can write to storage; it stays on the
@@ -312,6 +312,9 @@ function scannedPages(pdfPath, pages) {
  */
 function runOcr(pdfPath, mode) {
   const out = pdfPath.replace(/\.pdf$/, `.${mode}.pdf`)
+  // The cache is keyed by the source's hash, so an earlier run's output is
+  // the same OCR of the same bytes; long scans take many minutes to redo.
+  if (existsSync(out)) return out
   execFileSync('ocrmypdf', [
     '--quiet',
     `--${mode}`,
@@ -321,6 +324,28 @@ function runOcr(pdfPath, mode) {
     pdfPath,
     out,
   ], { stdio: ['ignore', 'ignore', 'inherit'] })
+  return out
+}
+
+/**
+ * Rewrites the file with `qpdf --object-streams=generate`, which packs the
+ * page dictionaries (and other small objects) into a few compressed object
+ * streams. (Not `--linearize`: qpdf then leaves almost everything outside
+ * object streams.)
+ * pdf.js reads every page's dictionary on opening; in a file bound from
+ * page images each one otherwise sits beside its image, costing a range
+ * request per page (some 420 for the Grudge report). Page images and the
+ * text layer are copied unchanged. Returns the new file's path.
+ */
+function compact(pdfPath) {
+  const out = pdfPath.replace(/\.pdf$/, '.compact.pdf')
+  try {
+    execFileSync('qpdf', ['--object-streams=generate', pdfPath, out], { stdio: ['ignore', 'ignore', 'inherit'] })
+  }
+  catch (err) {
+    // Exit code 3 is qpdf's "succeeded with warnings", common in scans.
+    if (err.status !== 3) throw err
+  }
   return out
 }
 
@@ -423,6 +448,7 @@ async function fetchOne(doc, manifest) {
     console.log(`  running ocrmypdf (${ocr}) on ${pages} ${pages === 1 ? 'page' : 'pages'}…`)
     pdfPath = runOcr(sourcePath, ocr)
   }
+  pdfPath = compact(pdfPath)
   const bytes = readFileSync(pdfPath)
   if (bytes.length > MAX_BYTES) {
     console.warn(`  ! ${(bytes.length / 1e6).toFixed(1)} MB is over the bucket's limit; split it or raise the limit`)

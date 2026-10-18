@@ -123,6 +123,13 @@ Mellon has also confirmed, with the pilots, that part of the Gimbal footage, in 
 
 Gerb names Mellon, with Elizondo, [[Oak Shannon]], [[Ross Coulthart]] and [[Richard Dolan]], among those who have attested to the [[Wilson-Davis Memo]]. At the end of his first video Gerb says he has spoken to Mellon about the memo himself and has "further confidence" in its authenticity.
 
+::wiki-document
+---
+name: "Wilson-Davis Memo"
+caption: "The leaked 15-page notes, dated 16 October 2002, that purport to record Eric Davis's conversation with Vice Admiral Thomas Wilson about a contractor-run crash retrieval program."
+---
+::
+
 ## Role in UAP Programs
 
 On 23 April 2024, Mellon posted partially redacted screenshots on Twitter of a 2020 Signal messaging exchange with an unidentified person. That person claimed their group was making "massive progress" in accessing the UAP crash retrieval portfolio and had deciphered its management structure, security control system, and program ownership. They also mentioned the [[1953 Kingman, Arizona Crash Retrieval|1953 Kingman, Arizona landing]] and a still-classified Secretary of the Air Force memo from the 1950s that is allegedly still in effect. Researcher Alex Catz later counted the characters in the redacted name from the exchange and identified [[Russell E. Wyler]] as the most probable candidate for the senior Air Force official described as gatekeeper for the crash retrieval portfolio; Gerb offers [[William E. MacLure]] as the alternative.

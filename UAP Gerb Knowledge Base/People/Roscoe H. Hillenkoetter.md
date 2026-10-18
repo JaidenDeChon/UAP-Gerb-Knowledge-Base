@@ -14,6 +14,13 @@ Several documents give Hillenkoetter a central role. One is a 19 September 1947 
 
 Critics of the Eisenhower Briefing Document argued that Hillenkoetter was in Korea in late 1952 and could not have given the briefing. [[Stanton Friedman]] established that he was in New York at the time as commander of the Third Naval District, within reach of Washington.
 
+::wiki-document
+---
+name: "Eisenhower Briefing Document"
+caption: "The disputed MJ-12 briefing paper for President-elect Eisenhower, dated 18 November 1952, which names Admiral Hillenkoetter as briefing officer."
+---
+::
+
 ## Sources
 
 - [[Videos/The Majestic-12 Documents With Ryan S. Wood/summary|The Majestic-12 Documents With Ryan S. Wood]]

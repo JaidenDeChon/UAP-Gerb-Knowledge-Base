@@ -609,7 +609,22 @@ Why, Gerb asks, have analysts at the NRO and the NGA (National Geospatial-Intell
 > [!edit] Corrected 16 October 2026
 > Earlier versions called the object tic-tac-shaped, and the timeline said the NRO judged it so. The briefing itself claims only "a rough similarity" to the tic-tac shape and rates its confidence "relatively low"; the tic-tac judgement is Gerb's reading.
 
+::wiki-document
+---
+name: "Recent Sentient Highlights"
+page: 2
+caption: "The NRO briefing's bottom-line slide on the 6 May 2021 Sentient detection, comparing the object to Navy UAP detections and the \"tic tac\" shape."
+---
+::
+
 Gerb believes Sentient, begun in 2010 and built out by 2016, is a primary resource of [[Immaculate Constellation (IMCON)|Immaculate Constellation]], the unacknowledged SAP established in 2017 whose existence whistleblower [[Matt Brown]] reported to Congress in 2024. The [[Immaculate Constellation Report|IMCON report]] describes cases Gerb attributes to NRO overhead infrared collection, including a 210 to 420 foot disc over INDOPACOM that rose out of cloud cover and dived back as if aware it was watched, and a tic-tac over SOUTHCOM whose path the collection systems seemed to know in advance.
+
+::wiki-document
+---
+name: "Immaculate Constellation Report"
+caption: "The unsigned whistleblower report on the alleged USAP Immaculate Constellation, entered into the House Oversight hearing record in November 2024; it names neither Sentient nor the NRO."
+---
+::
 
 > [!important] IMCON is not a legacy program
 > Gerb stresses repeatedly that Immaculate Constellation (IMCON) is not a legacy program. Legacy programs have been siloed since at least 1947 and exist to retrieve, store and exploit non-human technology. IMCON is a reactive surveillance program set up in 2017 to watch non-human craft and reproduction vehicles, possibly to gauge other programs' progress, and he suspects it came out of the National Security Council. The two are siloed from each other inside the same agency, and most NRO staff know of neither. Crash imagery is absent from the IMCON report, which he takes as a sign that such data still flows only to the legacy programs.
@@ -754,6 +769,15 @@ Gerb doubts the truck-mounted cannon but finds three threads worth following:
 - The name: Wilson's "National Reconnaissance Organization" is not the office's real name, but the term appears in 1960s CIA documents from John McCone's tenure and in 1976 newspapers. It either reflects agency usage of the time or shows that Wilson knew the NRO only from the press.
 - Pounce itself: a real Project Pounce appears among the evidence reviewed by the 1953 [[Robertson Panel]][^gerb-robertson-1973]: a Kirtland AFB outline proposed after UFO maneuvers over Albuquerque on 2 August 1952. According to [[Edward J. Ruppelt]], it called for six stripped F-94C interceptors with nose cameras, two of them always on alert, to photograph UFOs. It was shelved only because the aircraft could not be spared. It was an imagery-intelligence mission, Gerb notes, of exactly the kind the NRO would take on nine years later, though how it could have become a retrieval unit remains unclear.
 
+::wiki-document
+---
+name: "Robertson Panel Report"
+page: 29
+region: [0.25, 0.60]
+caption: "Tab B, the evidence presented to the panel: Grudge and Blue Book reports, Project Stork's progress reports, Project Twinkle, and item 6, the \"Outline of Investigation of U.F.O.'s Proposed by Kirtland Air Force Base (Project POUNCE)\"."
+---
+::
+
 Wilson also named a "Jason Society" tasked with the "alien question". Gerb notes that the real JASON advisory group, founded in 1960 and run through MITRE, has worked for the NRO.
 
 ## Derivative Craft for Reconnaissance
@@ -766,10 +790,26 @@ His main witness is [[Edgar Fouche]], who in 1998 described the TR-3B: a triangl
 
 As in most of his investigations, Gerb revisits the [[Wilson-Davis Memo|Wilson-Davis notes]]. These are notes by [[Eric Davis]] of a 2002 conversation in the parking lot of [[EG&G]] with Vice Admiral [[Thomas Wilson]]. Gerb believes their core account is true, despite his public disputes with Davis. In 1997 members of the Special Access Program Oversight Committee (SAPOC), including acquisition under secretary [[Paul Kaminski]], pointed Wilson to a special records group of legacy "holdover" programs in the Office of the Under Secretary of Defense for Acquisition and Technology. He then met the programs' "Watch Committee", which showed him a bigot list dated 1990 and updated in 1993, and on which he recognized names from that same office. The committee refused him access. The memo says the programs were placed under the [[SAPOC (Special Access Program Oversight Committee)|SAP Oversight Committee]]'s Senior Review Group after an internal audit nearly exposed them, part of the reorganization [[Bill Perry]] began on 5 January 1994.
 
+::wiki-document
+---
+name: "Wilson-Davis Memo"
+caption: "The leaked 15-page notes, dated 16 October 2002, that purport to record Eric Davis's conversation with Vice Admiral Thomas Wilson about a contractor-run crash retrieval program."
+---
+::
+
 Gerb has previously proposed two General Accounting Office (GAO) reports as that audit: [[GAO Report on Special Access Program Due Process (1993)|a May 1993 report]] on special access denials, and [[GAO Report on Special Access Contracts (1986)|a report on Lockheed's Burbank plant]] that he dates here to August 1993 but that GAO issued on 7 August 1986. Here he adds a third candidate: the NRO itself. Senate Select Committee on Intelligence scrutiny of the newly declassified office's finances began in 1992, two years before Perry's reorganization. A 10 August 1994 hearing led by Senator Richard Bryan examined a headquarters whose cost had risen from $168 million to $350 million without being reported to Congress. In 1995 Bryan exposed "rampant mismanagement" of carryover funds: unspent money rolled into later years, estimated first at $1.7 billion and then at $3.7 billion. Gerb says people named in the Wilson-Davis notes have told him that carryover appropriations do fund legacy programs, echoing Grusch's testimony on misappropriated funds. He also notes that [[John Deutch]] had been acquisition under secretary during Perry's reorganization and then, as Deputy Secretary of Defense, chaired SAPOC. Later, as Director of Central Intelligence, he forced out the NRO's director and deputy over the surplus, saying he had been "unaware" of it. Gerb calls this a possible conflict of interest. Perry himself had long advised the NRO, chairing the "Perry panel" on Program B's signals-collection systems. The NRO has been exempt from DoD audit-readiness requirements since 2014 and has audited itself since 2009, which Gerb treats with open sarcasm.
 
 > [!edit] Corrected 16 October 2026
 > Earlier versions dated both GAO reports to 1993. The Lockheed report, *Need for DOD Inspections of Special Access Contracts* (GAO/NSIAD-86-191), is dated 7 August 1986; Gerb dates it to August 1993 in this video. The due-process report (GAO/NSIAD-93-162) is from May 1993. The timeline entry for the Lockheed report was redated to match.
+
+::wiki-document
+---
+name: "GAO Report on Special Access Contracts (1986)"
+page: 3
+region: [0.03, 0.47]
+caption: "The opening of GAO's letter to Secretary of Defense Caspar Weinberger, dated August 7, 1986, recalling its July 24 testimony on Lockheed's control of classified special access documents."
+---
+::
 
 ## Thirteen Gatekeepers
 

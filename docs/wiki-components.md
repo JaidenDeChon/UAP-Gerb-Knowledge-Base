@@ -1343,32 +1343,86 @@ Authoring rules:
 
 ### `::wiki-document`
 
-Source: `app/app/components/content/WikiDocument.vue` (pdf.js loading in
-`app/app/utils/pdf.ts`)
+Source: `app/app/components/content/WikiDocument.vue` (the reading frame,
+shared with the document page's viewer, in
+`app/app/components/wiki/DocumentPdfFrame.vue`; pdf.js loading in
+`app/app/utils/pdf.ts`; transcript dialog in
+`app/app/components/wiki/DocumentTranscriptDialog.vue`; pure helpers in
+`app/app/utils/wikiDocument.ts`)
 
-One page of a primary-source document, set into an article: the page itself,
-or only a band of it, to show the passage under discussion. It answers "what
-does the document actually say here?" without sending the reader away. The
+A primary-source document, set into an article and readable there, opened
+at the passage under discussion. It answers "what does the document actually
+say here?" without sending the reader away, and lets them read on. The
 document needs a page in `Documents/`, hosted through
 `scripts/fetch-documents.mjs` (see `docs/documents.md`).
 
 What it renders:
 
-- **The page, as paper.** White in every theme, with a hairline frame. It
-  draws when the figure comes within 400px of the viewport: pdf.js loads
-  then, in the browser only, and fetches just the byte ranges that page needs.
-  Until then page 1 shows its baked thumbnail; other pages hold their space.
-- **A band of it** with `region`. The figure then spans the column, and the
-  window shows only that slice of the page.
-- **A caption.** Your text, then the document's title (linking to the page in
-  the full viewer, `#page=N`), "page N of M", issuer and date. The whole figure
-  links to the same place.
+- **A header.** A "Source document" label, then a **Document page** link to
+  the document's own page in `Documents/` (there even when the article never
+  links it) and, when the document has a transcription, a **Transcript**
+  button. All header controls are at least 44px tall.
+- **The document itself**, in the same frame as the viewer on the document's
+  page (`DocumentPdfFrame`, below): every page, as white paper in every
+  theme, drawn by pdf.js with a selectable text layer; previous/next, a page
+  number field (type a page and press Enter), zoom out/in (50–300%, 100% fits
+  the frame's width), full screen where the browser allows it (not on
+  iPhone), and a **PDF** link that opens the file at the page the reader is
+  on. The frame is `clamp(320px, 66vh, 720px)` tall and scrolls inside.
+- **Where it opens.** At `page`. With `region`, the band sits in view (a
+  little above the middle when it fits the frame, at the top when it's
+  taller) and is outlined: a 2px accent ring with a faint tint, which doesn't
+  cover the text or get in the way of selecting it, and stays put when the
+  reader scrolls away. The page's label says the passage is outlined.
+- **Scrolling hand-over.** Until the reader clicks, taps or tabs into it, the
+  frame doesn't take wheel or touch scrolling, so an article scrolls past it
+  freely (a note at the bottom says "Click the document to scroll it", or
+  "Tap" on touch screens). Once engaged it scrolls, and at either end the
+  scroll passes on to the page. A click or tap anywhere else, or focus moving
+  out of the frame, hands scrolling back. The buttons and page field work
+  either way, and full screen always scrolls.
+- **Lazy loading.** Nothing heavy loads until the figure comes within 600px of
+  the viewport. Then pdf.js loads, in the browser only, and fetches just the
+  byte ranges the pages near the view need. The frame's height and its
+  controls (disabled until it's ready) are there from the first render, so
+  nothing shifts. Until then the opening page's space shows page 1's baked
+  thumbnail (for page 1 without a band) or faint ghost lines; while pdf.js
+  loads they pulse and a "Loading page N…" label sits over them, the frame
+  is `aria-busy` and a visually hidden status says "Loading page N of
+  <title>". The pulse and spinner stop under `prefers-reduced-motion`, and
+  page jumps don't glide.
+- **If the document can't be drawn**, a panel fills the frame: "The document
+  couldn't be displayed here", with **Open the PDF** (at `#page=N`, new tab),
+  **Open in the viewer** (the document's page at `#page=N`) and **Try
+  again**.
+- **The transcript dialog.** The Transcript button opens the transcription in
+  a dialog (`components/wiki/DocumentTranscriptDialog.vue`, on reka-ui's
+  Dialog: focus trap, Escape and outside click to close, page scroll locked,
+  title from the document's name, focus back on the button when closed). The
+  dialog's code and the transcription note load only on first open, with a
+  loading skeleton meanwhile. It renders the note through `ContentRenderer`,
+  so callouts and tables look as they do on the page, and opens scrolled to
+  the `## Page N` section for **the page the reader has scrolled the frame
+  to** (the widget's `page` until they scroll), marked with an accent bar.
+  A **Full page** link goes to the transcription's own page.
+- **A caption.** Your text, then the document's title (linking to the
+  document's page at `#page=N` for the widget's page), "page N of M", issuer
+  and date.
+- **Several on one page.** Each widget has its own state and ids; widgets of
+  the same file share one opened copy of it. Widgets never read or write the
+  address: `#page=N` belongs to the document page's viewer.
 - **Without a hosted file**, for a copyrighted, unclear or unsourced
-  document, a dashed card with the title, issuer and date, your caption and a
-  link to the source.
-- **Accessibility.** The figure link is named "<title>, page N of M. Open in
-  the document viewer". The page image itself is hidden from assistive tech;
-  the viewer has the selectable text. Theme tokens only.
+  document, a dashed card with the same header (Document page link, and the
+  Transcript button if there is a transcription), then the title, issuer and
+  date, your caption and a link to the source.
+- **Accessibility.** The frame is a focusable region named "<title>, the
+  document"; arrow and Page keys scroll it once focused. Each page is a group
+  named "Page N"; the canvas is hidden from assistive tech and the text layer
+  carries the words. The header controls carry the title for screen readers
+  ("Transcript of <title>", "Document page: <title>"). Controls are 44px on
+  touch screens and at phone width, with visible focus rings. Theme tokens
+  only; no horizontal scroll at phone width (a page zoomed past the frame's
+  width scrolls inside the frame).
 
 Props (YAML body):
 
@@ -1742,19 +1796,47 @@ the right fading left under a card-colour text panel once its container is
 
 ### `app/app/components/wiki/WikiDocumentViewer.vue`
 
-The full viewer on a Documents note, under the fact table: every page of the
-hosted PDF in a scrolling frame, a selectable text layer, page and zoom
-controls, a PDF link and a retrieval credit. It's mounted by
-`pages/wiki/[...slug].vue` from the baked `/api/meta` document. Pages draw as
-they scroll within 600px of view and redraw on zoom or resize. It reads
-`#page=N`. See `docs/documents.md`.
+The full viewer on a Documents note, under the fact table: the hosted PDF in
+a `DocumentPdfFrame` (below), under a kicker with its page count and size,
+with a Transcription link in the bar when there is one and a retrieval credit
+beneath. It's mounted by `pages/wiki/[...slug].vue` from the baked
+`/api/meta` document. It's the only frame that reads `#page=N` (`read-hash`),
+and its frame scrolls straight away (not `gated`). See `docs/documents.md`.
+
+### `app/app/components/wiki/DocumentPdfFrame.vue`
+
+The reading frame both the viewer and `::wiki-document` are built on
+(registered as `WikiDocumentPdfFrame`): a bar of controls (previous/next, page
+field, zoom, full screen, PDF link, plus `kicker` and `actions` slots) over a
+scrolling column of pages drawn by pdf.js with a selectable text layer.
+
+- **Drawing.** Every page has a placeholder of the right size (the opening
+  page's, corrected as each page loads; a correction above the view adjusts
+  the scroll so the reader doesn't move). A page draws as it comes within
+  600px of the frame's view, and once it's 2000px away its draw is cancelled
+  and its canvas, text layer and pdf.js page data are freed, so a 412-page
+  report holds a handful of canvases at a time. Canvases are capped at 16
+  megapixels (`canvasScale`), and zoom and resize keep the reader on the same
+  point of the same page.
+- **Props.** `file`, `title`; `start-page` and `band` (where it opens, and
+  the outlined band); `read-hash` (open at `#page=N`; never writes the
+  address); `lazy` (load nothing until within 600px of the viewport, and free
+  every drawn page when 1500px away); `gated` (the scrolling hand-over
+  described under `::wiki-document`); `size` (`page`: `min(78vh, 980px)`;
+  `article`: `clamp(320px, 66vh, 720px)`); `viewer-href` (offered when it
+  fails). `v-model:current` is the page a third of the way down the frame.
 
 ### `app/app/utils/pdf.ts`
 
 `loadPdfjs()` imports pdf.js's legacy build and its worker once per visit.
-`openPdf(url)` shares one loading task per file, with range requests and the
-`/pdfjs/` runtime assets wired in. `drawPage(pdf, n, width)` draws a page to a
-canvas, sharp on dense screens. Shared by the viewer and `::wiki-document`.
+`acquirePdf(url, bytes)` opens a file, or shares the copy another frame on
+the page has open, and returns a handle whose `release()` destroys it when
+the last frame lets go. With the file's length from the manifest it feeds
+pdf.js through a `PDFDataRangeTransport` that makes the `Range` requests
+itself, in chunks of 16 KiB or more: the bucket answers ranges but doesn't
+expose `Accept-Ranges` to scripts, so pdf.js's own loader would download the
+whole file. `canvasScale()` picks the device-pixel ratio for a page's canvas
+within the pixel cap.
 
 ### `app/app/components/wiki/WikiPersonPortrait.vue`
 

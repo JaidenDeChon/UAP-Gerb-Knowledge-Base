@@ -418,6 +418,15 @@ claims:
 
 Gerb calls the [[AARO Historical Report Volume 1]] an "abomination", and says that is why many viewers are interested in Herrera again. The report all but names Herrera as an interviewee who testified that, on a 2009 humanitarian and security mission, he saw US Special Forces loading containers onto a large extraterrestrial spacecraft. Months before the report came out, Herrera had told Joey, with proof, that he had testified to AARO, directly to Dr. [[Sean Kirkpatrick]]. Joey found that vindicating.
 
+::wiki-document
+---
+name: "AARO Historical Report Volume 1"
+page: 29
+region: [0.56, 0.66]
+caption: "The report's unnamed account of a former U.S. service member who, on a 2009 humanitarian and security mission, encountered \"U.S. Special Forces\" loading containers onto a large extraterrestrial spacecraft."
+---
+::
+
 ::wiki-claim{video="6DyTfIV87Ck" video-title="Michael Herrera: UFO Whistleblower (ft. Joeyisnotmyname)"}
 ---
 caption: "AARO's summary of Herrera's testimony, a common misreading of another passage in the report, and the replies in the video."

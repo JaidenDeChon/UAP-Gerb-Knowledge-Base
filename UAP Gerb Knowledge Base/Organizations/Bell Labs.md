@@ -11,6 +11,13 @@ Bell Labs (Bell Telephone Laboratories) is the research and development laborato
 
 [[Philip J. Corso]] named Bell Labs as the largest of the contractors to which the Army's Foreign Technology Division, under General Arthur Trudeau, passed technology from crash retrievals of the late 1940s. *The Day After Roswell* credits Bell Labs' work on the transistor and fiber optics to recovered technology. Gerb treats those specific attributions as embellishment, since both technologies had clear development histories. He prefers the claim in Corso's manuscript *Dawn of a New Age* that recovered technology helped mature human work already under way. He suggests that Bell Labs' large improvements to fiber optics in the 1970s might be one such case. A 1950s report on gravity research also listed Bell Labs, along with General Electric, Sperry Rand, Boeing and the Lockheed Corporation, as working on anti-gravity rigs.
 
+::wiki-document
+---
+name: "The Day After Roswell"
+caption: "Corso's 1997 book with William J. Birnes, which credits the transistor and fiber optics to technology recovered at Roswell."
+---
+::
+
 ## Link to Sandia
 
 When AT&T took over management of [[Sandia National Laboratories]] in 1949 at President [[Harry Truman]]'s request, the laboratory's operations were modelled on Bell Labs. Gerb finds it significant that the national laboratory he regards as central to the UFO legacy programs was built on the pattern of the contractor Corso called the Army's premier partner in exploiting recovered material.

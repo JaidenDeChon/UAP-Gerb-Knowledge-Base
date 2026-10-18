@@ -206,7 +206,7 @@ events:
   - date: "1957-09-19"
     title: "RB-47 chased 600 miles by a fireball (Condon Report Case 5)"
     cue: 485
-    summary: "In Gerb's account, which he dates to 19 September 1957 and ties to Carswell, a large fireball alternating red and white followed a USAF RB-47 for more than 600 miles, seen by the crew and tracked by ground radar, the aircraft's radar and its ECM gear at 2,800 megacycles, and intelligence personnel removed the data on landing. The published Case 5 dates it only to fall 1957, names no base or crew, and concludes the data 'apparently never existed'. Later accounts date the flight to 17 July 1957 from Forbes AFB, Kansas. Gerb cites it because no record of Willingham's 1955 sighting exists."
+    summary: "In Gerb's account, which he dates to 19 September 1957 and ties to Carswell, a large fireball alternating red and white followed a USAF RB-47 for more than 600 miles, seen by the crew and tracked by ground radar, the aircraft's radar and its ECM gear at 2,800 megacycles, and intelligence personnel removed the data on landing. The published Case 5 dates it only to fall 1957, names no base or crew, says the light appeared to the pilot to be 'a glowing body as big as a barn' (Gerb reads this as a quote from pilot Lewis D. Chase), and concludes the data 'apparently never existed'. Later accounts date the flight to 17 July 1957 from Forbes AFB, Kansas. Gerb cites it because no record of Willingham's 1955 sighting exists."
     category: event
     significance: notable
     entities:
@@ -393,13 +393,24 @@ The story first appeared in 1965, in a weekly newspaper in Mechanicsburg, Pennsy
 > [!edit] Corrected 16 October 2026
 > Earlier versions said, following Gerb, that the 1977 affidavit dates the event to 1948. In Kevin Randle's transcription it gives no date at all; it names the F-94 and Dyess Air Force Base. The 1948 date is in the earlier article.
 
+::wiki-document
+---
+name: "Willingham Affidavit"
+caption: "Robert Willingham's 1977 affidavit for Todd Zechel, known from Kevin Randle's transcription, describing a crash on the Texas–Mexico border."
+---
+::
+
 ### The sighting
 
 On a spring day in 1955, Willingham and other F-86 pilots flew out of [[Carswell Air Force Base]] to escort B-47s on the Texas leg of a New York–Texas–Washington State Cold War simulation exercise. His call sign was "Willie Eddie". By radio, the squadron heard that [[DEW Radar Systems|distant early warning radar]] in Canada had picked up fast-moving unknowns heading south toward Texas. A B-47 pilot then reported an unknown on radar coming south from the northwest. Willingham saw "a bright big object, like a star" approach to within 35 to 40 miles. He estimated its speed at 2,000 mph, about four times his F-86's 685 mph, and compared its bright surface to magnesium steel. [[George Smithson]] and other pilots said in the debrief that they had seen it. The object turned 90 degrees toward the Mexican border, gave off "a lot of sparks" and tilted down at about 45 degrees. Willingham wondered whether the sharp turn had damaged its hull.
 
 No record of the 1955 sighting survives, so Gerb sets it beside three other episodes:
 
-- Case 5 of the [[Condon Report]], which Gerb dates to 19 September 1957 and calls "also from Carswell Air Force Base". In his telling a fireball alternating red and white followed an RB-47 for more than 600 miles; the crew saw it, "Carswell radar" and the aircraft's radar tracked it, and the ECM equipment registered a strong signal at 2,800 megacycles. He quotes the report's line that the light appeared to the pilot, whom he names as Lewis D. Chase, to be "a glowing body as big as a barn", says the report detailed how intelligence personnel removed the ECM and radar data on landing, and shows what he calls the original CIA report of the incident.
+- Case 5 of the [[Condon Report]], which Gerb dates to 19 September 1957 and calls "also from Carswell Air Force Base". In his telling a fireball alternating red and white followed an RB-47 for more than 600 miles; the crew saw it, "Carswell radar" and the aircraft's radar tracked it, and the ECM equipment registered a strong signal at 2,800 megacycles. He quotes the report's line that the light appeared to the pilot, whom he names as Lewis D. Chase, to be "a glowing body as big as a barn"; the report's narrative does not name the pilot. He says the report detailed how intelligence personnel removed the ECM and radar data on landing, and shows what he calls the original CIA report of the incident.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said Chase described the light as "a glowing body as big as a barn". The words are the Condon Report's own narrative (volume 1, Case 5), which does not name the pilot; Gerb introduces them as a quote from Chase.
+
 - On 14 May 1954, about six miles west of Dallas, Marine reserve jets led by Major Charles Scarborough saw 16 objects in groups of four, alternating white and orange. The objects outran the pilots' attempt to box them in.
 - On 18 July 1955, months after the encounter, an unclassified document answered a request from the commander of USAF Security Service in San Antonio for UFO sighting data from the Northeast Air Command and the northwestern United States, specifically from B-47s. Gerb allows this may be coincidence.
 
@@ -483,6 +494,13 @@ Gerb rules out poor reporting in the book, since it quotes Willingham directly. 
 ### What the document says
 
 The Eisenhower Briefing Document, which Gerb calls the "alleged 1952 MJ-12 memo", follows its description of Roswell with a second case. On 6 December 1950 an object of similar origin struck the earth at high speed along the El Indio area of the border. It was so nearly obliterated that little was left when the search team arrived. The remains, recovered between El Indio and [[Guerrero, Mexico]], were taken to the Atomic Energy Commission's facility at Sandia, New Mexico, for study. Gerb concedes there "really isn't too much to be found out about this case".
+
+::wiki-document
+---
+name: "Eisenhower Briefing Document"
+caption: "The disputed MJ-12 briefing paper dated 18 November 1952, which describes a 6 December 1950 impact on the border near El Indio, Texas."
+---
+::
 
 ### The witness at El Indio
 

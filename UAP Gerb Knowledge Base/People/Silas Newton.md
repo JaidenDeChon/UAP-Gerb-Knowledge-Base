@@ -186,6 +186,14 @@ The lecture drew official interest almost at once. According to Gerb's 2025 vide
 > [!edit] Corrected 16 October 2026
 > Earlier versions called the 31 March 1950 item a letter, and said Cahn wrote to Hoover in 1951 accusing Newton of preparing "a hoax or swindle of large proportions." In the FBI file the 1950 item is a memo from the New Orleans field office, and the April 1951 letter with that phrase came from the California Attorney General's office, signed by Arthur H. Sherry. Cahn is not named in it. Gerb attributes the letters to Cahn.
 
+::wiki-document
+---
+name: "FBI File on Silas Newton"
+page: 3
+caption: "The California Attorney General's letter of 25 April 1951 to Hoover: Newton is cited as authority for Scully's book, and his record suggests \"a hoax or swindle of large\" proportions."
+---
+::
+
 Cahn's September 1952 article, "The Flying Saucers and the Mysterious Little Men", made two charges against Newton that Gerb's video answers.
 
 ::wiki-claim{video="QJxbyu-9Tj0" video-title="The 1948 Aztec, New Mexico UFO Crash Retrieval"}

@@ -167,6 +167,13 @@ In 1950, Wilbert B. Smith, a senior Canadian government radio engineer, met Sarb
 
 Smith had read [[Frank Scully]]'s 1950 book *Behind the Flying Saucers*, which publicized the alleged [[Aztec UFO Crash and Recovery|Aztec, New Mexico crash]], and asked how much of it was fact. Sarbacher replied, "The facts reported in the book are substantially correct." Smith based a 1950 memo to the Canadian Department of Transport's Controller of Telecommunications on these disclosures. The memo led directly to Canada setting up two official UAP investigations: [[Project Magnet]] and [[Project Second Story]]. Historian [[Arthur Bray]] later found both the Department of Transport memo and Smith's handwritten meeting notes in Smith's estate, which gave documentary corroboration of the meeting.
 
+::wiki-document
+---
+name: "Wilbert Smith Memo"
+caption: "Wilbert Smith's top secret Department of Transport memo of 21 November 1950, subject \"Geo-Magnetics\", to the Controller of Telecommunications."
+---
+::
+
 ## The 1983 Steinman Letter
 
 In letters of 12 September and 14 October 1983, UFO researcher [[William Steinman]] asked Sarbacher for details of his UFO involvement. Sarbacher replied on 29 November 1983 with the [[Sarbacher Letter]], answering the five numbered questions in the first and the closing question of the second:
@@ -181,6 +188,13 @@ In letters of 12 September and 14 October 1983, UFO researcher [[William Steinma
 
 > [!edit] Corrected 16 October 2026
 > Earlier versions said Steinman wrote in November 1983 and that the letter answered twelve questions, that Sarbacher was not given access to the meetings, and that he named Bush, von Neumann and Oppenheimer as all "definitely involved". The letter, dated 29 November, answers questions from Steinman's letters of 12 September and 14 October, says he could not attend because his association with the Board was limited, and says only "I think" of Oppenheimer. Gerb's video gives twelve questions.
+
+::wiki-document
+---
+name: "Sarbacher Letter"
+caption: "Robert Sarbacher's letter of 29 November 1983 to William Steinman, answering his questions about the recovered flying saucers."
+---
+::
 
 Sarbacher added that he still did not know why the subject had been given such a high classification, or why the existence of the devices was denied. Gerb notes that Sarbacher put the word "aliens" in quotation marks, as if unwilling to settle on an origin for the beings, and reads the light, tough materials as Roswell wreckage, pointing to [[Battelle Memorial Institute|Battelle]]'s 1949 work on lightweight shape memory alloys.
 

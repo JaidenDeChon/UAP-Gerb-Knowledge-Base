@@ -257,7 +257,7 @@ events:
   - date: "1950"
     title: "Wilbert Smith's memo names Vannevar Bush"
     cue: 6876
-    summary: "Canadian radio engineer Wilbert B. Smith asked Canada's Department of Transport to study UFOs, relaying a Washington source's claims that the subject was classified higher than the H-bomb and studied by a small group headed by Vannevar Bush. The memo stayed top secret until 1969; Arthur Bray and Stanton Friedman obtained copies in 1978. The source was physicist Robert Sarbacher."
+    summary: "Canadian radio engineer Wilbert B. Smith asked Canada's Department of Transport for a geo-magnetics project, which he tied to the flying saucers, relaying claims gathered through Canadian Embassy staff in Washington that the subject was classified higher than the H-bomb and studied by a small group headed by Vannevar Bush. The memo stayed top secret until 1969; Arthur Bray and Stanton Friedman obtained copies in 1978. The source was physicist Robert Sarbacher."
     category: document
     significance: major
     entities:
@@ -672,7 +672,19 @@ The legal teeth came from a Truman order. Former New Mexico state representative
 
 Wartime nuclear secrecy began as self-censorship under Bush's Office of Scientific Research and Development, and Groves introduced tiered, need-to-know compartments that prefigure today's SCI and SAPs. The AEC, founded in 1946, kept its own Q and L clearances, and the Atomic Energy Act of 1946 turned Groves' informal "born secret" practice into [[Restricted Data|restricted data]], the only US classification that applies automatically by subject matter. That split US classification into two tracks with different legal bases, declassification rules and oversight: the executive-order system (confidential, secret, top secret, SCI and SAPs, today under [[Executive Order 13526]]), and the statutory Atomic Energy Act system now run by the Department of Energy. So, Gerb says, an executive order by President Trump to release the UFO files would not touch DOE restricted data, and this may be why DOE is "baked into every single layer" of the legacy structure.
 
-The [[Atomic Energy Act of 1954]] is where, in his phrase, the classification "teeth grew into fangs." Grusch, in a clip, notes that the [[Schumer Amendment (NDAA)|Schumer amendment]] "awkwardly calls out" the 1954 act, and that Section 51 defines special nuclear material so vaguely ("anything that gives off a sizable amount of atomic energy") that recovered material could be "transclassified" into a nuclear secret. Section 142 gave statutory authority for what was named transclassified foreign nuclear information (TFNI) in 2010: information moved out of restricted data and handled like national security information, but still exempt from declassification. Gerb notes that TFNI is the exact language in the Schumer legislation, which says legacy programs have misclassified UFO material this way. He also recalls [[Dylan Borland]]'s account of old AEC files, held near the Defense Threat Reduction Agency, concluding some UFOs are extraterrestrial.
+The [[Atomic Energy Act of 1954]] is where, in his phrase, the classification "teeth grew into fangs." Grusch, in a clip, notes that the [[Schumer Amendment (NDAA)|Schumer amendment]] "awkwardly calls out" the 1954 act, and that Section 51 defines special nuclear material so vaguely that recovered material could be "transclassified" into a nuclear secret. Grusch paraphrases the section as covering "anything that gives off a sizable amount of atomic energy"; the 1954 text lets the Atomic Energy Commission declare other material special nuclear material if it finds it "capable of releasing substantial quantities of atomic energy" and the President assents in writing. Section 142 gave statutory authority for what was named transclassified foreign nuclear information (TFNI) in 2010: information moved out of restricted data and handled like national security information, but still exempt from declassification. Gerb notes that TFNI is the exact language in the Schumer legislation, which says legacy programs have misclassified UFO material this way. He also recalls [[Dylan Borland]]'s account of old AEC files, held near the Defense Threat Reduction Agency, concluding some UFOs are extraterrestrial.
+
+> [!edit] Attribution clarified 17 October 2026
+> This paragraph used to give "anything that gives off a sizable amount of atomic energy" as Section 51's definition. That is Grusch's paraphrase in the clip; the Act's own words are "capable of releasing substantial quantities of atomic energy".
+
+::wiki-document
+---
+name: "Atomic Energy Act of 1954"
+page: 11
+region: [0.62, 0.83]
+caption: "Section 51 as enacted: the Commission may declare other material special nuclear material if it finds the material \"capable of releasing substantial quantities of atomic energy\" and the President assents in writing."
+---
+::
 
 That statutory authority, he argues, is what lets DOE and [[National Nuclear Security Administration|NNSA]] special teams act on UFO material. His "complete theory" is that the NNSA, using FFRDCs such as Sandia, Los Alamos, Oak Ridge and Lawrence Livermore, uses three teams for on-site recovery, procurement and transport of recovered UFOs under the guise of the 1954 act:
 
@@ -753,6 +765,13 @@ Also called the Special Group, set up by Eisenhower. Its seats are listed below;
 
 Gerb is careful about Majestic 12's documents. He finds the Eisenhower Briefing Document, stamped 18 November 1952 and the first MJ-12 document to leak, "somewhat convincing" because of [[Stanton Friedman]]'s authentication work and its parallels with the real record: Truman, Forrestal and Bush really met on 24 September 1947, the date of the memo authorizing "Operation Majestic 12"; Forrestal died on 22 May 1949; and Truman's calendar shows an off-record meeting with Walter Bedell Smith on 1 August 1950, the day the briefing says Smith replaced him. Gerb does not claim to know whether Truman created the group, but is "quite confident" that "Maj 12" existed under Eisenhower, hidden in the 5412 Committee. He believes it continued through its successors, including Nixon's 303 Committee, until it went "into a black box" or broke apart in the 1980s.
 
+::wiki-document
+---
+name: "Eisenhower Briefing Document"
+caption: "The disputed MJ-12 briefing paper dated 18 November 1952, which dates Operation Majestic 12 to Truman's order of 24 September 1947 and has Smith replacing Forrestal on 1 August 1950."
+---
+::
+
 He adds that an element of the NSC still oversees one crash retrieval portfolio, involving DOE, the Air Force, the [[CIA Directorate of Science and Technology|CIA's Directorate of Science and Technology]] and select contractors and FFRDCs, but that it is not the only portfolio. The 2025 documentary *[[The Age of Disclosure]]*, he says, left the NSC out to protect Clapper, who as Director of National Intelligence from 2010 to 2017 allegedly ran it with deputies [[Stephanie O'Sullivan]] and Michael Dempsey. Grusch is quoted: "General Clapper was well aware of the crash retrieval issue, managed the crash retrieval issue," placing people in critical roles "to manage this issue both publicly and... non-publicly." Gerb adds that Clapper likely gave [[Luis Elizondo]] top cover for AATIP "as a way to talk about the onion outside of the onion." He closes the section with Eisenhower's farewell warning about the military-industrial complex, suggesting that presidential control over the UFO portfolio was already slipping by the end of Eisenhower's term.
 
 ## Key Personnel: Bush and Marshall
@@ -765,7 +784,11 @@ Gerb's second argument is about people: the same individuals, he says, built bot
 
 He gathers four lines of evidence that name Bush as the first man to lead crash retrieval and reverse engineering:
 
-- In a [[Wilbert Smith Memo|1950 memo]], Canadian radio engineer [[Wilbert B. Smith]] asked Canada's Department of Transport to open a UFO study, relaying a Washington source's claims that the subject was classified higher than the H-bomb, that flying saucers exist, and that "a small group headed by Dr. Vannevar Bush" was studying them. The memo stayed top secret until 15 September 1969; [[Arthur Bray]] and [[Stanton Friedman]] obtained copies in 1978. The source was physicist [[Robert Sarbacher]], a consultant to the Research and Development Board.
+- In a [[Wilbert Smith Memo|1950 memo]], Canadian radio engineer [[Wilbert B. Smith]] asked Canada's Department of Transport for a geo-magnetics project (Gerb describes it as a request for Canada's first official UFO investigation), relaying claims gathered through Canadian Embassy staff in Washington that the subject was classified higher than the H-bomb, that flying saucers exist, and that "a small group headed by Dr. Vannevar Bush" was studying them. The memo stayed top secret until 15 September 1969; [[Arthur Bray]] and [[Stanton Friedman]] obtained copies in 1978. The source was physicist [[Robert Sarbacher]], a consultant to the Research and Development Board.
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions said the memo asked Canada to open a UFO study. That is Gerb's description; the memo, headed "Geo-Magnetics", asks for a project on drawing energy from the Earth's magnetic field, which Smith linked to the saucers.
+
 - In 1983, writing to [[William Steinman]] in the [[Sarbacher Letter]], Sarbacher said [[John Von Neumann|John von Neumann]] was definitely involved in 1940s and 1950s crash retrieval and that he strongly suspected Oppenheimer was too. Steinman's interviews with Sarbacher also brought up [[Eric A. Walker]], who admitted attending the 1965 [[1965 Kecksburg, Pennsylvania Crash Retrieval|Kecksburg]] crash.
 - Kissner said that recovered vehicles were processed directly under Bush's supervision.
 - Steinman's 1986 book, *UFO Crash at Aztec: A Well-Kept Secret*, argues at length that Bush led the scientific team at the 1948 [[Aztec UFO Crash and Recovery|Aztec, New Mexico retrieval]], alongside alleged MJ-12 members Detlev Bronk, Lloyd Berkner and Jerome Hunsaker, plus Carl A. Hyland, von Neumann and [[J. Robert Oppenheimer]]. Gerb considers Aztec real but says Steinman did not document his sources; he cannot rule out that Steinman drew on the Interplanetary Phenomenon Unit documents before they leaked.
@@ -823,6 +846,15 @@ With the Manhattan Project 2.0's "iron grip" established, Gerb asks how today's 
 
 Eisenhower's EO 10501 created the modern confidential, secret and top secret levels and abolished the fourth "restricted" level (not to be confused with the DOE's restricted data). Program leaders, "quite peeved," layered ad hoc protections on top secret instead, above all top secret codeword read-ons, as seen in the early NRO. This is Gerb's "wild wild west," when the programs could put themselves anywhere, and it bred black programs such as the 1958 Greenbrier congressional bunker. In March 1972, [[Richard Nixon]]'s EO 11652 formally established a special access framework. Gerb imagines legacy leadership, by then inside Nixon's 303 Committee, "jumped with joy." But the spread of special access labels drew a 1973 House Committee on Government Operations report documenting dozens of labels used even by agencies with no classification authority. That exposure to Congress, he argues, was the first real threat. Jimmy Carter's 1977 push toward declassification marks for him the start of the decline, and may be why the programs have not trusted Democratic presidents with read-ons.
 
+::wiki-document
+---
+name: "Executive Order 10501"
+page: 1
+region: [0.46, 0.92]
+caption: "The order's opening in the Federal Register of 10 November 1953 (centre column): Section 1 limits classified defense information to three categories, Top Secret, Secret and Confidential."
+---
+::
+
 ### Reagan, Yellow Fruit and near-exposure
 
 Until the 1980s the equivalents of SAPs were "black programs," including the Lockheed Skunk Works' F-117A and Northrop's B-2, among which Gerb believes derivative technology found its way into human-made airframes such as the large black triangles often reported. Reagan's 1982 Executive Order 12356 expanded classification but also standardized SAPs and brought them under consistent oversight. Gerb pauses the video to stress that it "effectively ended the days of the legacy program wild, wild west," forcing the programs to find new ways to stay hidden. A 1985 national security decision directive tightened control further, and the Defense Counterintelligence and Security Agency's SAP course notes that SAPs were first publicly acknowledged in the early 1980s.
@@ -832,6 +864,13 @@ The reason was [[Yellow Fruit]] and the Iran-Contra affair. In 1983 a routine Do
 Gerb believes the audit nearly exposed a UFO compartment. SAPs nest as a tier-one umbrella, tier-two compartments and tier-three sub-compartments, and Yellow Fruit was an umbrella with several missions. He compares it to the Navy's [[Project Sanddollar]]: Dr. [[John P. Craven]], chief scientist of the Navy's Special Projects Office, led the 1964 Deep Submergence Systems Project, and in 1965 a naval intelligence officer briefed him into Sanddollar, a program to find and recover items of national security interest from the seafloor. The briefing was so secret that even Craven's staff did not know where he went. Sanddollar sat under several layers of cover programs beneath the Polaris missile program, and Craven's "seventh veil", in which no one could be sure of having reached the innermost compartment, is for Gerb an early statement of the onion. He wagers a UFO program sat under the Yellow Fruit umbrella the way Sanddollar sat under Polaris.
 
 The link to the present runs through the [[Wilson-Davis Memo|Wilson-Davis notes]], which Gerb places at a 2002 meeting between Admiral [[Thomas Wilson]] and [[Eric Davis]] in the parking lot of EG&G. The notes allegedly recount Wilson, using his need-to-know authority, being denied access to a portfolio partly hidden in the acquisition under secretary's office and gatekept by the SAP Oversight Committee's Senior Review Group. The gatekeepers reportedly said they had formed "out of necessity" after "an audit investigation led to them and it wasn't supposed to. Nearly outed." Gerb has doubts about Davis but believes the notes' core facts, and he plays Davis on *American Alchemy* confirming the notes were for internal use. He is "quite confident" that the audit they describe is Yellow Fruit and the mid-1980s DoD audits.
+
+::wiki-document
+---
+name: "Wilson-Davis Memo"
+caption: "The leaked 15-page notes, dated 16 October 2002, that purport to record Eric Davis's conversation with Vice Admiral Thomas Wilson about a contractor-run crash retrieval program."
+---
+::
 
 ### Edward C. Aldridge and SAF/AA
 
@@ -958,7 +997,11 @@ entries:
 - [[David Grusch]] states the Manhattan Project's secrecy apparatus was deliberately "overlaid" onto the UFO issue because it had worked for the atomic bomb; Gerb dates the Manhattan Project 2.0's formation to 1947–1954.
 - Five Manhattan Project security pillars (compartmentalization, organizational architecture, physical security, classification and information control, and political shield) are alleged to have been carried into the UFO effort, usually in harsher form.
 - According to J. Andrew Kissner, a classified executive order signed by Truman in July 1948 vested custody of recovered technical vehicles in the Atomic Energy Commission and its national laboratories.
-- The [[Atomic Energy Act of 1954]]'s restricted data, special nuclear material (Section 51) and TFNI (Section 142) categories are statutory, so a presidential executive order to release UFO files would not reach material classified under DOE authority. The Schumer legislation says UFO material has been misclassified as TFNI.
+- The [[Atomic Energy Act of 1954]]'s restricted data, special nuclear material (Section 51) and TFNI (Section 142) categories are statutory, so a presidential executive order to release UFO files would not reach material classified under DOE authority. Gerb reads the Schumer legislation as saying UFO material has been misclassified as TFNI; its finding 4 blames Atomic Energy Act exemptions and an "over-broad interpretation" of TFNI for UAP records not being declassified.
+
+> [!edit] Attribution clarified 17 October 2026
+> Earlier versions stated as fact that the Schumer legislation says UFO material was misclassified as TFNI. That is Gerb's reading of finding 4.
+
 - Gerb theorizes that the NNSA uses DOE Special Response Teams, NEST and its NF-MAP program, and the Office of Secure Transportation to recover, analyze and move recovered UFOs under the 1954 act.
 - Truman made the National Security Council the program's coordinator, and Eisenhower hid its control group, Majestic 12, in the NSC 5412 Committee (1954), which continued through Nixon's 303 Committee.
 - [[Vannevar Bush]]'s Research and Development Board (1947–1953) is alleged to have been the scientific hub for early crash retrieval, and Bush to have led the 1948 Aztec recovery team.

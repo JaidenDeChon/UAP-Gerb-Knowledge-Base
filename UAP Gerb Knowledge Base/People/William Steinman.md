@@ -101,6 +101,13 @@ Steinman and [[Stanton Friedman]] tracked down Dr. [[Robert Sarbacher]], a physi
 > [!edit] Corrected 16 October 2026
 > Earlier versions said Steinman sent twelve questions and that Sarbacher named Bush, von Neumann and Oppenheimer as all "definitely involved". The letter answers five numbered questions from Steinman's 12 September letter and one from his 14 October letter, and says only "I think" of Oppenheimer.
 
+::wiki-document
+---
+name: "Sarbacher Letter"
+caption: "Robert Sarbacher's letter of 29 November 1983 to William Steinman, answering his questions about the recovered flying saucers."
+---
+::
+
 Steinman traced the one man Sarbacher remembered attending every meeting to [[Eric A. Walker]], former president of Penn State University and executive secretary of the Research and Development Board. Walker's first reply was a cut-up letter typed on the bottom of Steinman's own, reading "Stop. Don't try and find me." Steinman wrote again on 31 May 1984 without an answer, but when he telephoned on 30 August 1987, weeks after the [[MJ-12 Documents]] became public, Walker confirmed attending the crash retrieval meetings at [[Wright Field]] that Sarbacher described (circa 1949–1950). When Steinman raised the Majestic 12 documents, Walker responded: "Yes, I know of MJ-12. I have known of them for 40 years." Walker advised Steinman to drop the subject, stating he was "delving into an area that you can do absolutely nothing about" and that he was "chasing after and fighting with windmills."
 
 ## Significance

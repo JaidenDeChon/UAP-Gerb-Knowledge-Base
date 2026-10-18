@@ -15,15 +15,23 @@ Guy Hottel was a Special Agent in Charge of the FBI's Washington Field Office in
 The March 22, 1950 memo went out under Hottel's name, but the information did not come to him directly. It opens "The following information was furnished to SA [redacted] by [redacted]," and the unredacted copy released in August 2022 names the agent as Robert H. Kurtzman and his source as [[Carl Howe|Karl Howe]], a Washington, D.C. Metropolitan Police special investigator, who was relaying an informant of his own. The story that an "investigator for the Air Forces" had described three recovered saucers is that informant's account. Gerb guesses in his Sarbacher video that the investigator came from the [[Air Force Technical Intelligence Center]] (ATIC); the memo does not say. The memo reports these details:
 
 > [!edit] Corrected 17 October 2026
-> Earlier versions said the memo passed on what an Air Force investigator had told Hottel. The memo says a redacted source furnished the information to a special agent, and the Air Force investigator's story is that source's informant's account ([The Black Vault](https://www.theblackvault.com/documentarchive/the-guy-hottel-memo-and-the-crashed-flying-saucers-of-new-mexico-march-22-1950/)).
+> Earlier versions said the Air Force investigator told Hottel directly and that he was believed to be from ATIC. The memo says a redacted source furnished the information to a special agent, the Air Force investigator's story is that source's informant's account ([The Black Vault](https://www.theblackvault.com/documentarchive/the-guy-hottel-memo-and-the-crashed-flying-saucers-of-new-mexico-march-22-1950/)), and the ATIC link is Gerb's guess.
 
 - Three flying saucers had been recovered.
 - Each craft was circular with a raised center, approximately 50 feet in diameter.
 - The craft were occupied by humanoid figures approximately three feet tall, dressed in metallic suits.
-- According to "Mr. [redacted] informant" (Howe's informant), the saucers were found in New Mexico because a very high-powered government radar set-up in the area was believed to interfere with their controlling mechanism.
+- According to "Mr. [redacted] informant" (Howe's informant), the saucers were found in New Mexico because a very high-powered government radar set-up in the area was believed to interfere with their controlling mechanism. In the FBI Vault copy the name is blacked out under FOIA exemption b7D; Gerb calls the source "Mr. Carl Howe", and the name comes from the 2022 unredacted release.
 
 > [!edit] Corrected 17 October 2026
-> Earlier versions said a source named "Mr. Carl Howe" made the radar claim. The memo credits it to the informant of the redacted source, later identified as Howe.
+> Earlier versions said the memo names a source, "Mr. Carl Howe", who made the radar claim. In the FBI Vault release (page 2) the name is redacted, with exemption b7D marked beside it, and the memo credits the radar claim to the informant of the redacted source, whom the August 2022 unredacted copy identifies as Howe.
+
+::wiki-document
+---
+name: "Hottel Memo"
+page: 2
+caption: "Hottel's memo of 22 March 1950 to the FBI director, with its redactions, file number and receipt stamps."
+---
+::
 
 The memo was addressed to Hoover and is filed in FBI records as a "flying disc" communication. Its reference line, "RHK:VIM," shows it was dictated by RHK, the agent who took the information. Researchers debate whether it refers to the 1947 Roswell crash or to a later, separate recovery. It was written three years after Roswell.
 

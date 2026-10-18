@@ -205,6 +205,13 @@ Gerb searched exhaustively for the names on the page ([[M. Harmon]], [[S. McCaro
 
 If the report is real, and its appendix log details the Flyby footage as "high value witness testimony", Gerb concludes that the clip is one of the most crucial pieces of UFO footage ever taken. Even without the document, he says, the footage remains highly anomalous.
 
+::wiki-document
+---
+name: "Alleged Leaked UAP Task Force Report"
+caption: "Disputed pages said to come from a classified UAP Task Force report, which circulated online in 2021 or 2022: a cockpit communications log from Appendix F, Section 4B, and a \"Behavioral Data Analysis\" page from Section 5."
+---
+::
+
 ## Gerb's Assessment
 
 In a short closing segment, recorded "a little bit disheveled" after training, Gerb describes the video as a break from his documentary-style fact analysis, a piece of speculation in which he still tries to break everything down. He is not a CGI expert and has no background in in-depth video editing. He asks anyone who is to analyse the clip for signs of CGI, clipping, or different frame rates for the object and its surroundings, and to contact him so that the two of them might make a part two. He acknowledges that the footage seems a little too good to be true, but says that at the end of the day nobody knows whether it is, and it very well could be real.

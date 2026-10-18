@@ -275,6 +275,13 @@ Stringfield's status reports, published between 1978 and 1994, compiled testimon
 
 He collected and preserved witness testimony, often from sources who insisted on anonymity, and that method became the basis for the systematic investigation of crash retrieval claims that researchers still carry on.
 
+::wiki-document
+---
+name: "Stringfield Status Reports"
+caption: "Stringfield's seven crash-retrieval reports (1978 to 1994), which record what his informants told him, most of them identified only by initials or pseudonyms."
+---
+::
+
 ## The Blue Berets
 
 Stringfield documented at length an alleged elite rapid-reaction military unit called the [[Blue Berets]], described as a Special Forces team whose job was to respond to UFO crash retrievals. According to Stringfield's sources, the Blue Berets:
@@ -341,6 +348,13 @@ In 1994 another person, codenamed JLD, made similar claims about the Kingman cra
 ## The Chihuahua (Coyame) Case
 
 Stringfield wrote in 1994 that he had heard of the [[1974 Coyame, Mexico UFO Crash Retrieval|Chihuahua case]] in the late 1970s or early 1980s. He recalled only that a US military team had secretly crossed into Mexico to retrieve the object. He also said that several days before presenting "Retrievals of the Third Kind" at [[MUFON]] in 1978, he was informed "circuitously" by the [[CIA]] that it would be inadvisable to discuss crash information in Mexico or West Germany. When [[Elaine Douglas]] passed him the anonymously mailed [[Denb Report]] in 1993, he judged it "authoritatively written using correct military terminology" and, unlike a hoax, careful to separate hard evidence from speculation. Gerb treats this earlier, independent knowledge as one of the strongest points in the case's favour.
+
+::wiki-document
+---
+name: "Denb Report"
+caption: "The anonymous memo on the Chihuahua disc crash, dated 23 March 1992 and signed \"JS\", that Douglas passed to Stringfield in 1993."
+---
+::
 
 ## The Aztec Case
 

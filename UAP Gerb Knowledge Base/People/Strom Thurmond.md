@@ -13,6 +13,13 @@ Thurmond originally wrote a foreword for *The Day After Roswell* that praised Co
 
 When Thurmond learned that the book was really about Roswell, extraterrestrial biological entities and the seeding of alien technology into American industry, he angrily retracted his statements and withdrew the foreword. As a result, the book was reprinted early without Thurmond's endorsement.
 
+::wiki-document
+---
+name: "The Day After Roswell"
+caption: "The 1997 book by Philip J. Corso and William J. Birnes whose first printing carried Thurmond's foreword."
+---
+::
+
 Corso's original manuscript, *Dawn of a New Age*, mentions his relationship with Thurmond but never refers to any advocacy or foreword by the senator. This suggests that co-author [[Bill Burns]] or the publisher arranged the foreword without Corso's full oversight or Thurmond's complete understanding of the book's content.
 
 ## Relationship with Corso

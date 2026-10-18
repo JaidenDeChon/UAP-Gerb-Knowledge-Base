@@ -27,6 +27,13 @@ The Aguadilla footage has a distinctive place among USO evidence for several rea
 
 Rear Admiral Gallaudet cited the Aguadilla incident in his 2024 white paper *Beneath the Surface* as documentary evidence for his argument that USO study should be made a national research priority. The object was close to the [[Puerto Rico Trench]], the Atlantic Ocean's deepest point at approximately 28,000 feet, and this proximity has been noted as a potentially relevant geographic factor.
 
+::wiki-document
+---
+name: "Beneath the Surface (Gallaudet White Paper)"
+caption: "Rear Admiral Gallaudet's 2024 Sol Foundation white paper, which cites the 2013 Aguadilla object among its cases."
+---
+::
+
 ## Sources
 
 - [[USO - Unidentified Submerged Objects]]

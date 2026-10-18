@@ -12,6 +12,13 @@ The clearest documented example comes from [[Bob Fish]]'s 2015 email to [[John P
 
 > "Not only was it going very fast but it **made a 30° course correction turn** which means it did not have a ballistic freefall reentry trajectory that a meteorite might have. So it was under **some sort of control** although whether it was manned or just robotic there's no way to tell."
 
+::wiki-document
+---
+name: "Bob Fish Email to John Podesta"
+caption: "Bob Fish's email to John Podesta of March 2015, published by WikiLeaks in 2016, naming the USAF DSP satellite program as a collector of hard data on UFOs."
+---
+::
+
 The 30-degree course change matters because the objects it might otherwise be taken for all move predictably:
 1. Meteors follow ballistic paths. Natural objects entering the atmosphere are acted on only by gravity and atmospheric drag, so their trajectories are predictable.
 2. Satellites follow orbital mechanics. Man-made spacecraft in orbit move along Keplerian trajectories governed by gravity.

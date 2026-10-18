@@ -13,6 +13,13 @@ On 21 November 1950, Smith sent the Controller of Telecommunications in the Depa
 > [!edit] Corrected 16 October 2026
 > Earlier versions said the memo asked for an official study of UFOs, specifically of magnetism as propulsion, and credited its claims to Smith's Washington contact. The memo asks for a geo-magnetics project and credits the claims to enquiries through the Canadian Embassy staff in Washington; the finding of the notes in Smith's estate is Gerb's account.
 
+::wiki-document
+---
+name: "Wilbert Smith Memo"
+caption: "Wilbert Smith's top secret Department of Transport memo of 21 November 1950, subject \"Geo-Magnetics\", to the Controller of Telecommunications."
+---
+::
+
 According to UAP Gerb, the memo "directly led" to the formation of two Canadian programs: Project Magnet, which studied the possibility of reverse-engineering UFO magnetic propulsion concepts, and its companion [[Project Second Story]], which was to recommend a course of action on UFOs to the Canadian government. Project Magnet was approved in December 1950 with the backing of the Department of Transport's air services leadership.
 
 ## Operations

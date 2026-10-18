@@ -20,6 +20,15 @@ For UAP research, the DOE's most distinctive institutional power is its authorit
 
 As a result, any materials or programs placed under DOE classification through the Atomic Energy Act sit in a fundamentally different legal environment from equivalent programs at the CIA or Department of Defense. Their oversight mechanisms are narrower, and Congress and the public face higher barriers to access.
 
+::wiki-document
+---
+name: "Atomic Energy Act of 1954"
+page: 6
+region: [0.14, 0.24]
+caption: "The Act's definition, section 11 r: Restricted Data means all data concerning the design, manufacture or use of atomic weapons, the production of special nuclear material, or its use to produce energy."
+---
+::
+
 ## Alleged Involvement in UAP Legacy Programs
 
 UAP research cites the DOE, together with the Department of Defense and major defense contractors, as one of the core institutional pillars of the alleged UAP legacy program framework. Several specific roles are attributed to the DOE:

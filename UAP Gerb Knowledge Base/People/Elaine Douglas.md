@@ -11,6 +11,13 @@ Elaine Douglas was an American UFO researcher who was central to preserving and 
 
 In early summer 1993, Douglas received paper copies of the Denb Report in an anonymous mailing. The report is an anomalous document titled "Research Findings on Chihuahua Disc Crash" and dated March 23, 1992. Its author, an individual or entity, is identified only as "[[JS (Denb Report Author)|JS]]". The document first surfaced in 1992 on an electronic bulletin board and was later mailed anonymously to select UFO researchers.
 
+::wiki-document
+---
+name: "Denb Report"
+caption: "The memo Douglas received by anonymous mail: \"Research Findings on Chihuahua Disc Crash\", dated 23 March 1992 and signed \"JS\"."
+---
+::
+
 Douglas shared the original documents with [[Leonard Stringfield]], the pioneering UFO crash retrieval researcher. He reviewed the report and concluded that it was "authoritatively written using correct military terminology" and drew clear distinctions between hard evidence and speculation, traits inconsistent with a hoax.
 
 Douglas ran a website, www.elainedouglas.com, that hosted scans of the original Denb Report and other UAP-related documents. It was an important archive for researchers investigating the Coyame case.

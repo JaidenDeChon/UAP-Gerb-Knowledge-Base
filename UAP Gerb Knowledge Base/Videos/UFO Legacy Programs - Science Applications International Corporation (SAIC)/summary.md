@@ -609,10 +609,26 @@ Kirkpatrick's career keeps returning to SAIC and to the research centers Gerb li
 
 Gerb assumes viewers know the Wilson-Davis notes, the subject of his first video: notes transcribed by [[Eric Davis]] and leaked from the estate of astronaut Edgar Mitchell, recording a 2002 conversation with Vice Admiral Thomas Wilson, former DIA director, in the parking lot of contractor [[EG&G]] in Nevada. Wilson described finding, but being stonewalled from, UFO recovery and material exploitation programs protected by the DoD's Special Access Program Oversight Committee (SAPOC), its Senior Review Group (SRG) and a large defense contractor. General Michael Ward had told Wilson to look in a special records group in the Office of the Under Secretary of Defense for Acquisition and Technology, holding legacy holdover programs from before the early-1990s SAP restructuring. According to the notes, the UFO programs were reorganized under SAPOC and the SRG after an internal audit almost revealed them.
 
+::wiki-document
+---
+name: "Wilson-Davis Memo"
+caption: "The leaked 15-page notes, dated 16 October 2002, that purport to record Eric Davis's conversation with Vice Admiral Thomas Wilson about a contractor-run crash retrieval program."
+---
+::
+
 That reorganization began on 5 January 1994, when the Deputy Secretary of Defense strengthened SAP management and control and established the SRG. Gerb also cites [[GAO Report on Special Access Program Due Process (1993)|a May 1993 General Accounting Office report]] finding that the Navy and Air Force did not give due process when SAP access was denied or revoked. The Army did give it, in the few cases GAO could examine. That fits his view that Army material exploitation programs ran under strict oversight while Navy and Air Force legacy programs ran "far more loosely and out of control". He then maps the committee:
 
 > [!edit] Corrected 16 October 2026
 > Earlier versions said the Army "sometimes complied". The report (GAO/NSIAD-93-162, page 3) says the Army provided due process in the few cases GAO examined, three of six, the other three people having been discharged first, and that the sample was too small to judge overall compliance.
+
+::wiki-document
+---
+name: "GAO Report on Special Access Program Due Process (1993)"
+page: 5
+region: [0.61, 0.85]
+caption: "The report's Results in Brief: the Navy and Air Force did not give the due process DoD Regulation 5200.2-R requires when SAP access is denied or revoked, while the Army did in the few cases GAO examined."
+---
+::
 
 ::wiki-org-chart
 ---

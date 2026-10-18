@@ -32,7 +32,10 @@ stats:
 
 This video is a global historical survey of [[Unidentified Submerged Object (USO)|unidentified submerged object]] sightings, made as a follow-up to UAP Gerb's earlier video [[USO - Unidentified Submerged Objects]]. It argues that credible USO reports span several centuries and the whole world, rather than being a modern American curiosity, and that militaries, merchant navies, scientific institutions and civilians have all recorded them. Gerb works through cases from [[Project Blue Book]], Soviet naval and scientific records, Australian government files and nineteenth-century maritime logs to show that objects with [[Trans-Medium Vehicle|transmedium]] behaviour (leaving and entering the water at speed, hovering just above the surface, submerging without disturbing it) have been reported consistently, whatever the era or nation.
 
-A second thread is how little of this reached the official record. Of the more than 13,000 sightings collected by [[Project Sign]], [[Project Grudge]] and Project Blue Book between 1949 and 1969, only 258 (about 2%) came from ships, only 13 of those met the program's own merit standards for UFO reporting, and only a handful describe USOs. Gerb attributes the gap to the 1952 [[OPNAV 3820]] directive, which restricted Navy UFO reports to three recipients, and to [[JANAP 146c|JANAP 146C]]: "we can thank" the two directives, he says, for how little Blue Book holds.
+A second thread is how little of this reached the official record. Of the more than 13,000 sightings collected by [[Project Sign]], [[Project Grudge]] and Project Blue Book between 1949 and 1969, only 258 (about 2%) came from ships, only 13 of those met the program's own merit standards for UFO reporting, and only a handful describe USOs. Gerb attributes the gap to the Navy's [[OPNAV 3820]] directive (he dates it to 1952; it is dated 23 January 1954), which restricted Navy UFO reports to three recipients, and to [[JANAP 146c|JANAP 146C]]: "we can thank" the two directives, he says, for how little Blue Book holds.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions dated OPNAV 3820 to 1952, as Gerb does in this video. The directive is dated 23 January 1954, the date Gerb gives in [[Videos/USO - Unidentified Submerged Objects/summary|USO - Unidentified Submerged Objects]].
 
 The video moves through four bodies of evidence: Blue Book's ship cases; Soviet cases drawn mainly from [[Paul Stonehill]] and [[Philip Mantle]]'s *Russia's USO Secrets* and [[Jacques Vallee|Jacques Vallée]]'s *UFO Chronicles of the Soviet Union*; Australian government files and civilian reports; and a pre-World War I set of cases from the [[US Hydrographic Bureau]] and the [[Danish Meteorological Institute]], ending with the [[Maritime Light Wheel]], rotating wheels of light seen by crews across the Eastern Hemisphere from 1873 to 1910. Gerb closes by arguing that the same few signatures recur across all of these sources, above all Tic Tac or cigar-shaped objects hovering over the sea or slipping under it without disturbing the water, and that the answers to the UFO phenomenon may lie in the oceans.
 
@@ -42,7 +45,7 @@ The video is organised by source rather than by date. In date order, its cases f
 
 ::wiki-timeline{video="Yn-83KbgRN8" video-title="USO Case Book: Unidentified Submerged Objects Throughout History"}
 ---
-help: "The bar above the list runs from 1873 to 1977, with a coloured mark for each case; taller marks are major ones. Click the bar to jump to a year. Its two shaded stretches are the video's two groups of evidence, ships' logs from the nineteenth and early twentieth centuries and government files from the Cold War. The dashed line marks OPNAV 3820, a 1952 Navy directive. The dark line shows which entry you are reading, and Play from here starts the video there. Click a timestamp to play the video from that moment. The video takes its cases by source rather than by date, so once it is playing, the green line that shows its position jumps back and forth."
+help: "The bar above the list runs from 1873 to 1977, with a coloured mark for each case; taller marks are major ones. Click the bar to jump to a year. Its two shaded stretches are the video's two groups of evidence, ships' logs from the nineteenth and early twentieth centuries and government files from the Cold War. The dashed line marks OPNAV 3820, a 1954 Navy directive. The dark line shows which entry you are reading, and Play from here starts the video there. Click a timestamp to play the video from that moment. The video takes its cases by source rather than by date, so once it is playing, the green line that shows its position jumps back and forth."
 eras:
   - id: steam
     label: "Logs of the Steam Era"
@@ -55,7 +58,7 @@ eras:
     to: 1977
     summary: "Project Blue Book's ship cases, Soviet naval and scientific reports, and Australia's declassified UFO files."
 hinges:
-  - year: 1952
+  - year: 1954
     label: "OPNAV 3820"
 events:
   - date: "1873-03-27"
@@ -157,9 +160,9 @@ events:
     entities:
       - "MV Marala North Atlantic Sighting"
       - "Project Blue Book"
-  - date: "1952"
+  - date: "1954-01-23"
     title: "OPNAV 3820 restricts Navy UFO reporting"
-    summary: "The Navy directive OPNAV 3820 limited Navy UFO sighting reports to the Air Force Technical Intelligence Center, USAF intelligence and the Director of Naval Intelligence. The video blames it, with JANAP 146C, for how few USO cases reached the official record."
+    summary: "The Navy directive OPNAV 3820 limited Navy UFO sighting reports to the Air Force Technical Intelligence Center, USAF intelligence and the Director of Naval Intelligence. Gerb dates it to 1952; the directive is dated 23 January 1954. The video blames it, with JANAP 146C, for how few USO cases reached the official record."
     category: policy
     significance: major
     cue: 28
@@ -269,7 +272,7 @@ The video opens with the numbers: of Blue Book's 13,000-plus sightings, 258 came
 ---
 root:
   name: OPNAV 3820
-  label: 1952 Navy directive
+  label: 1954 Navy directive
   note: "Restricted Navy UFO sighting reports to three recipients. The video blames it, together with JANAP 146C, for how few USO cases reached Blue Book."
   children:
     - name: Air Force Technical Intelligence Center
@@ -278,6 +281,13 @@ root:
       label: Recipient
     - name: Office of Naval Intelligence
       label: "Recipient, via the Director of Naval Intelligence"
+---
+::
+
+::wiki-document
+---
+name: "OPNAV 3820"
+caption: "The Chief of Naval Operations' directive that sent Navy \"flying object reports\" to the directors of ATIC, USAF Intelligence and Naval Intelligence."
 ---
 ::
 
@@ -459,7 +469,11 @@ The 1964 Groote Eylandt lights sent a compass haywire; the 1970 Kamchatka motorb
 
 ## Key Claims
 
-- Of the more than 13,000 sightings collected by Projects Sign, Grudge and Blue Book (1949–1969), 258 came from ships, 13 met Blue Book's merit standards, and a handful describe USOs or transmedium objects; the video attributes the thin record to OPNAV 3820 (1952) and JANAP 146C.
+- Of the more than 13,000 sightings collected by Projects Sign, Grudge and Blue Book (1949–1969), 258 came from ships, 13 met Blue Book's merit standards, and a handful describe USOs or transmedium objects; the video attributes the thin record to OPNAV 3820 (dated 23 January 1954, though Gerb says 1952) and JANAP 146C.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions dated OPNAV 3820 to 1952, as Gerb does in this video. The directive is dated 23 January 1954, the date Gerb gives in [[Videos/USO - Unidentified Submerged Objects/summary|USO - Unidentified Submerged Objects]].
+
 - Blue Book's ship cases split 155 Pacific to 104 Atlantic, which Gerb reads as a possible Pacific hotspot.
 - The MV Marala case (4 August 1950) is one of the few Blue Book ship cases classified as "unidentified."
 - Blue Book's explanations for the SS City of Alako (meteor), Ascension Island (flare, though none was released) and SS Morgantown Victory (Cosmos 33 decay) cases do not fit the reported low trajectory, submergence, hovering and controlled turns.

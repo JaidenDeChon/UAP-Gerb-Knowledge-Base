@@ -224,6 +224,13 @@ The incidents also drew the CIA's interest, and the CIA convened the [[Robertson
 
 Documents circulating since the 1980s, known as the [[MJ-12 Documents|Majestic documents]] or MJ-12 papers, purport to show that Truman authorized a secret panel called [[Majestic 12]] to manage information about recovered extraterrestrial craft and biological material after the 1947 [[Roswell Crash|Roswell incident]]. The [[Eisenhower Briefing Document]], dated 18 November 1952, says Operation Majestic 12 was set up by a classified executive order of Truman on 24 September 1947, on the recommendation of [[Vannevar Bush]] and Secretary of Defense [[James Forrestal]]. Truman's appointment records show a meeting with Forrestal and Bush that day, arranged at Forrestal's suggestion. They also show an off-the-record meeting with [[Walter Bedell Smith]] on 1 August 1950, the date the briefing document gives for Smith replacing Forrestal.
 
+::wiki-document
+---
+name: "Eisenhower Briefing Document"
+caption: "The disputed MJ-12 briefing paper for President-elect Eisenhower, dated 18 November 1952, which says Operation Majestic 12 was set up by Truman's classified executive order of 24 September 1947."
+---
+::
+
 The documents are still contested. Some researchers treat them as authentic or partly authentic, and others argue they are fabrications, with the alleged Truman memorandum at the center of the debate.
 
 ::wiki-claim

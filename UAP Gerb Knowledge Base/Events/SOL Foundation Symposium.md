@@ -14,7 +14,10 @@ Nell's 31-minute talk is the symposium's best-known presentation. One of its sli
 - a close reading of the [[Schumer Amendment (NDAA)|Schumer Amendment]]'s definitions and eminent-domain clause
 - the difference between controlled and catastrophic disclosure
 - reasons for and against non-disclosure
-- the six-phase [[UAP Campaign Plan - Way Forward]]
+- the [[UAP Campaign Plan - Way Forward]], five phases preceded by a Phase 0 of narrative shaping
+
+> [!edit] Clarified 17 October 2026
+> Earlier versions called the plan "six-phase". Gerb describes it as "five major phases", and the slide numbers them 1 to 5 after a Phase 0 covering work already done before 2024.
 
 Two backup slides not shown in the recording, the [[Universal Civilization Development Datum]] and a [[UAP Taxonomy]] of origin hypotheses, were later shared by [[Matthew Pines]].
 

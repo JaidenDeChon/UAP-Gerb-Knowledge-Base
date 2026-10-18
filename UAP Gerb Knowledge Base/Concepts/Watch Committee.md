@@ -11,6 +11,13 @@ The **Watch Committee** is the informal name for a three-person group that, acco
 
 According to Vice Admiral [[Thomas Wilson]]'s account in the Wilson-Davis memo, when he asked about the name "watch committee," the three overseers told him they had formed it "out of necessity to protect themselves after a near-disaster almost blew their cover."
 
+::wiki-document
+---
+name: "Wilson-Davis Memo"
+caption: "The leaked 15-page notes, dated 16 October 2002, that purport to record Eric Davis's conversation with Vice Admiral Thomas Wilson about a contractor-run crash retrieval program."
+---
+::
+
 Wilson gathered that an earlier audit investigation had nearly exposed the program. This led to a struggle with Pentagon officials over how open the program should be, in which money and hiding the program were central issues, and a threat was made to blow the lid off it. The investigator running the audit was eventually briefed on the program and given a tour. Afterwards, a formal agreement was struck with [[SAPOC (Special Access Program Oversight Committee)|SAPOC]] to keep the program from being discovered in future, and the watch committee was set up to enforce the special access criteria.
 
 ## Authority and Access Control

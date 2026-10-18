@@ -19,7 +19,11 @@ The MJ-12 Documents, also called the Majestic documents, are a body of alleged c
 - **IPU Field Order and IPU Report** (public from 1995): documents of the [[Interplanetary Phenomenon Unit]] describing the Roswell recovery, including a claim that part of it was shared with "representative John F. Kennedy".
 - **Cutler–Twining memo** (1954): a memo from Robert Cutler of the National Security Council referring to an "NSC/MJ-12 Special Studies Project", which Wood describes as original onion-skin paper in a Washington archive.
 - **White Hot Report** (1947): the report of the Roswell investigation team, whose mission list includes [[Leslie Groves]], [[J. Robert Oppenheimer]], Theodore von Kármán, James Doolittle and Professor [[Einstein]].
-- **[[Bowen Manuscript]]**: a 1960 UFO encyclopedia returned through FOIA in 1999 with annotations attributed to [[Vannevar Bush]].
+- **[[Bowen Manuscript]]**: Vernon Bowen's typed *Encyclopedia of Flying Saucers*, a history of UFO cases from 1947 to 1954 that he sent to the Air Force for review in 1960, returned through FOIA in 1999 with annotations attributed to [[Vannevar Bush]].
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions called it "a 1960 UFO encyclopedia". The published sample of the manuscript describes it as covering 1947 to 1954 and dates it "1959?"; 1960 is when, by Wood's account, Bowen sent it to the Air Force.
+
 - **The Burned Memo**: a memo from MJ-1 to MJ-2 through MJ-7, allegedly pulled from a fire, saying that "Lancer" ([[John F. Kennedy]]) had made inquiries "which we cannot allow".
 - **The Aquarius document**: brought forward by [[Lee Graham]] and allegedly connected to the Carter administration. Wood places it in his "neutral basket" as "informed fluff" with nothing checkable.
 

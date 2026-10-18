@@ -109,6 +109,13 @@ Willingham first went public in 1965, in a weekly newspaper in Mechanicsburg, Pe
 > [!edit] Corrected 16 October 2026
 > Earlier versions said the affidavit, like the article, put the event in 1948. In Kevin Randle's transcription it names Dyess Air Force Base and the F-94 but gives no date. Randle also dates the first published telling to 1968, where Gerb gives 1965 and 1967.
 
+::wiki-document
+---
+name: "Willingham Affidavit"
+caption: "Robert Willingham's 1977 affidavit for Todd Zechel, known from Kevin Randle's transcription, describing a crash on the Texas–Mexico border."
+---
+::
+
 ## Independent Corroboration
 
 Former USAF member [[William Drager]], who had served as a Spanish interpreter, was hired to help with a Japanese documentary investigating a UFO crash near the Mexican border that involved a colonel. Drager contacted a Mexican general who commanded the border region. In private the general acknowledged knowing about the incident, but on camera during filming he denied it. Drager provided a formal affidavit describing the exchange.

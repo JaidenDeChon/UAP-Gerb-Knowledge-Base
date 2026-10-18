@@ -43,6 +43,13 @@ items:
 
 [[James Rigney]] copied the [[Wilson-Davis Memo]] from the estate of Apollo 14 astronaut [[Edgar Mitchell]] after Mitchell's death in 2016. The notes record Vice Admiral [[Thomas Wilson]]'s alleged discovery in 1997 of a crash retrieval program, and his denial of access to it. Rigney's name became public when he appeared on Dolan's podcast to discuss the memo's origin and contents. Gerb also names Dolan, with [[Chris Mellon]], [[Ross Coulthart]] and [[Luis Elizondo|Lou Elizondo]], among those who have confirmed the document's authenticity. It was entered into the US Congressional Record in 2022.
 
+::wiki-document
+---
+name: "Wilson-Davis Memo"
+caption: "The leaked 15-page notes, dated 16 October 2002, that purport to record Eric Davis's conversation with Vice Admiral Thomas Wilson about a contractor-run crash retrieval program."
+---
+::
+
 ## The Advanced Group Six Leak
 
 In 2021 Dolan read out information leaked to him by a source familiar with the classified [[UAP Task Force]] report presented to Congress. It listed energy pulse, ion, anti-gravity, antimatter, ramjet hydrogen and compressed nuclear propulsion, and advanced uses of exotic elements from recovered non-human technology, in projects controlled by [[DARPA]], managed by a group called "Advanced Group Six" and paid for from black intelligence funds and partly by contractors. Prototypes were said to fly only at [[Area 51]] and Tonopah. Gerb says Dolan is the only researcher he has seen link Tonopah to legacy programs. Because [[Lockheed Martin]] ran [[Sandia National Laboratories]], and through it Tonopah, until 2017, Gerb reads the leak as implying Lockheed's involvement. In his Sandia video he wonders whether the Nevada Test Site's Area 6 is tied to the same programs, and suggests, without offering support, that "Advanced Group Six" takes its name from Area 6.

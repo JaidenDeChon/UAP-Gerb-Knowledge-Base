@@ -170,6 +170,13 @@ On October 16, 2002, Davis met Wilson in Wilson's car outside the defense contra
 
 According to the 15-page memo documenting the meeting, Wilson told Davis the program had "a craft, an intact craft they believed could fly" that was "not of this Earth, not made by man, not by human hands." Wilson said the information was extremely sensitive and told Davis that if Davis ever violated his trust, Wilson would "deny the meeting, deny everything said in the meeting, and would never seek to know more or talk more on this topic without clearance."
 
+::wiki-document
+---
+name: "Wilson-Davis Memo"
+caption: "The leaked 15-page notes, dated 16 October 2002, that purport to record Eric Davis's conversation with Vice Admiral Thomas Wilson about a contractor-run crash retrieval program."
+---
+::
+
 Davis ended the meeting by promising to keep it private, for his personal use only, and never to discuss it without clearance.
 
 ## Public Statements on the Memo

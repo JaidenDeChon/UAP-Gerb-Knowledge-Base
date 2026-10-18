@@ -25,6 +25,13 @@ Colonel [[Philip J. Corso]] mentions Fort Bliss in his book *The Day After Roswe
 > [!edit] Corrected 16 October 2026
 > Earlier versions said that, according to Corso, the Roswell debris and bodies were shipped to Fort Bliss. In *The Day After Roswell* the convoy came from Fort Bliss and was bound for Wright Field (archived 1997 review of the book); the destination was Gerb's probable slip.
 
+::wiki-document
+---
+name: "The Day After Roswell"
+caption: "Corso's 1997 book with William J. Birnes, in which he says debris and bodies from Roswell were shipped to Fort Bliss."
+---
+::
+
 ### El Paso Intelligence Center (EPIC)
 
 Fort Bliss is also the home of the [[El Paso Intelligence Center]] (EPIC), which was established in 1974, the same year as the Coyame incident. EPIC coordinates intelligence gathering along the US-Mexico border and may have been involved in reconnaissance and intelligence on cross-border UAP incidents.

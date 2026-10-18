@@ -375,6 +375,15 @@ claims:
 ---
 ::
 
+::wiki-document
+---
+name: "AARO Historical Report Volume 1"
+page: 29
+region: [0.56, 0.66]
+caption: "What AARO wrote: a former U.S. service member who said that in 2009 he encountered \"U.S. Special Forces\" loading containers onto a large extraterrestrial spacecraft."
+---
+::
+
 ## Coming Forward
 
 Herrera says every Marine present signed an NDA that threatened their lives. He came forward because he thinks people should not be "dying and being threatened" over this, and because others may have had similar experiences. Newly passed whistleblower protections, which in his view made the NDA illegal, gave him a safety net. He has had no legal consequences, only harassment, which he has documented and takes as a sign he is "pissing the right people off". He says he makes no money from this, keeps it apart from his business, and dislikes being public.

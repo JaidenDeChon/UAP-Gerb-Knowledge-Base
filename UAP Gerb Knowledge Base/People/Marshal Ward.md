@@ -14,6 +14,13 @@ According to the [[Wilson-Davis Memo]], Ward and former Secretary of Defense [[B
 > [!edit] Corrected 17 October 2026
 > Earlier versions called Perry Secretary of Defense when he advised Wilson in 1997. Perry left that office on 23 January 1997, and the notes do not give him the title, so he is now described as the former Secretary.
 
+::wiki-document
+---
+name: "Wilson-Davis Memo"
+caption: "The leaked 15-page notes, dated 16 October 2002, that purport to record Eric Davis's conversation with Vice Admiral Thomas Wilson about a contractor-run crash retrieval program."
+---
+::
+
 ## Role in UAP Programs
 
 UAP Gerb's *Special Access Required Vol.2* names Ward, along with General Dawn Dunlop, as a former director-level figure within the DoD Special Access Program Central Office (SAPCO) structure. It treats his documented role advising Wilson in 1997 as evidence that Ward had direct knowledge of the crash retrieval program described in the Wilson-Davis notes.

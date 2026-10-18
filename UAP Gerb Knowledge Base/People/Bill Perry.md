@@ -133,6 +133,13 @@ In April 1997, Vice Admiral Thomas Wilson launched his investigation into UFO cr
 
 According to the Wilson-Davis memo, Ward and Perry both told Wilson of a "special project records group not belonging to usual special access programs". This group was a special subset of the unacknowledged carve-outs and waived programs that sat outside the usual SAP divisions, and Perry himself had organized it in 1994. Wilson also confirmed with Perry, and with an official the notes call Mike, that the contractor he had found was the right one.
 
+::wiki-document
+---
+name: "Wilson-Davis Memo"
+caption: "The leaked 15-page notes, dated 16 October 2002, that purport to record Eric Davis's conversation with Vice Admiral Thomas Wilson about a contractor-run crash retrieval program."
+---
+::
+
 ## Significance
 
 Perry's role matters for several reasons:

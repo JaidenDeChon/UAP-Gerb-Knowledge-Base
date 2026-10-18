@@ -402,6 +402,13 @@ Gerb picks out two details:
 
 Gerb treats the difference between Corso's two texts as the key to judging him. Philip Corso Jr. had not planned to publish his father's notes. He did so because his father had hated the bestseller. According to his son, Corso went through the book marking everything he had not said or did not like, and gave up halfway through. Others who saw the manuscript before Corso died, John B. Alexander among them, also noticed sensational details in the book that are not in the manuscript.
 
+::wiki-document
+---
+name: "The Day After Roswell"
+caption: "The 1997 bestseller credited to Philip J. Corso with William J. Birnes, the book Gerb sets aside in favour of Corso's manuscript."
+---
+::
+
 Gerb picks out the differences point by point:
 
 ::wiki-compare{video="_sv0Otxtcn4" video-title="Philip J. Corso - US Army UFO Technology Research & Development"}

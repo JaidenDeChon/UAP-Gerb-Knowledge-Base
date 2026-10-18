@@ -24,6 +24,14 @@ Gerb's 2025 video on Aztec, drawing on [[Scott and Suzanne Ramsey]]'s research a
 > [!edit] Corrected 16 October 2026
 > This list used to state as fact that Cahn wrote to Hoover on 25 April 1951. The FBI file shows that letter came from the California Attorney General's office; the claim that Cahn wrote it is Gerb's.
 
+::wiki-document
+---
+name: "FBI File on Silas Newton"
+page: 3
+caption: "The letter of 25 April 1951 to J. Edgar Hoover on the letterhead of California's Office of the Attorney General, ending its first page on the suspicion that Newton is engaged in \"a hoax or swindle of large\" proportions."
+---
+::
+
 The video argues that the pieces Newton carried were replicas, so their testing as aluminium says nothing about the original material. It also says Cahn's identification of GeBauer as the sole Dr. G had no basis, since GeBauer denied it in writing and under oath and Scully described Dr. G as a group of up to eight scientists. [[Leonard Stringfield]] later wrote that he had been taken in by Cahn's work.
 
 ## Sources

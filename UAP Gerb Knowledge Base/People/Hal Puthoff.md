@@ -77,6 +77,15 @@ Puthoff and astrophysicist [[Bernard Haisch]] published a paper on the [[Zero Po
 > [!edit] Corrected 16 October 2026
 > Earlier versions called it "the 2017 patent awarded to" Pais, as fact. The patent (US 10,144,532 B2) was published in November 2017 and granted on 4 December 2018. The note in the record above was updated to match.
 
+::wiki-document
+---
+name: "Craft Using an Inertial Mass Reduction Device"
+page: 1
+region: [0.08, 0.47]
+caption: "The patent's front page: first published 2 November 2017, granted 4 December 2018, and citing Puthoff's 2002 \"Polarizable-Vacuum (PV) Approach to General Relativity\" among its references."
+---
+::
+
 ## Comments on Kona Blue and Kingman
 
 Gerb credits Puthoff with indirect confirmation that materials involved in the attempted [[Kona Blue]] technology transfer from Lockheed may trace back to the alleged [[1953 Kingman, Arizona Crash Retrieval|1953 Kingman, Arizona]] UFO crash retrieval. When Gerb brought up a possible Kingman connection with him, Puthoff "gave me a bit of a cheeky look and refused to comment further", which Gerb says gave him even more confidence that the Kona Blue materials came from Kingman. Puthoff has also said that during the Kona Blue saga the [[DHS (Department of Homeland Security)|Department of Homeland Security]] element ran into some of the legacy program gatekeepers.
@@ -110,6 +119,13 @@ Former AARO director [[Sean Kirkpatrick]] has alleged that the reverse-engineeri
 ## Wilson-Davis Memo and Will Miller
 
 The 2002 meeting recorded in the [[Wilson-Davis Memo|Wilson-Davis notes]] was set off by a letter from Naval Reserve Commander [[Will Miller]] to Davis and Puthoff. Miller asked for anonymity and offered them a senior official who knew about alien reproduction vehicles, a list of civilian contractors in crash retrieval programs, and a team possibly involved in retrievals.
+
+::wiki-document
+---
+name: "Wilson-Davis Memo"
+caption: "The leaked 15-page notes, dated 16 October 2002, that purport to record Eric Davis's conversation with Vice Admiral Thomas Wilson about a contractor-run crash retrieval program."
+---
+::
 
 ## Aerospace Corporation Identification
 

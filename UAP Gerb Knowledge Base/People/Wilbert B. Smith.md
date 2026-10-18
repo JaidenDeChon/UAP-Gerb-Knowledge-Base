@@ -14,6 +14,13 @@ Wilbert Brockhouse Smith was a senior Canadian government radio engineer who wor
 > [!edit] Clarified 16 October 2026
 > Earlier versions said the memo asked permission for Canada to begin an official UFO investigation. The memo itself recommends a part-time project within Smith's section to study geo-magnetic energy, which it connects to the saucers, and it attributes the four claims to enquiries through the Canadian Embassy rather than naming a source.
 
+::wiki-document
+---
+name: "Wilbert Smith Memo"
+caption: "Wilbert Smith's top secret Department of Transport memo of 21 November 1950, subject \"Geo-Magnetics\", to the Controller of Telecommunications."
+---
+::
+
 ## Career
 
 Smith was born in 1910 in Lethbridge, Alberta. He took bachelor's and graduate degrees in electrical engineering at the University of British Columbia, finishing his MSc in 1934, and was then chief engineer of the Vancouver radio station CJOR until 1939. That year he joined the federal Department of Transport, where he helped develop Canada's wartime signal-monitoring system and worked on radio wave propagation, ground conductivity, frequency standards and antenna design. In 1957 he became the department's Superintendent of Radio Regulations Engineering, the post he held when he died. His interest in UAP was scientific and institutional. He believed that understanding how flying saucers were propelled, in particular the possibility of exploiting Earth's magnetic field, could lead to revolutionary advances in transportation technology, and his standing within the Canadian government gave him direct access to American scientific officials that an independent researcher would not have had. Project Magnet ran under his direction from December 1950 until it was formally discontinued in 1954, and Smith carried it on without government funding until his death in Ottawa on 27 December 1962.
@@ -212,6 +219,13 @@ In 1983, [[Stanton Friedman]] learned of the memo and tracked down [[Robert Sarb
 
 > [!edit] Clarified 16 October 2026
 > Earlier versions said the letter independently corroborated Smith's main points. In the letter Sarbacher confirms the answers as Steinman listed them to him, and remembers his interviewer as "Dr. Brenner of the Canadian Embassy", not Smith. Gerb cites the memo in his timeline of crash retrieval programs, in his [[Majestic 12]] history, and against the claims of a former special forces witness, as proof that a highly classified US study of UAP existed by 1950.
+
+::wiki-document
+---
+name: "Sarbacher Letter"
+caption: "Robert Sarbacher's letter of 29 November 1983 to William Steinman, answering his questions about the recovered flying saucers."
+---
+::
 
 ## Significance
 

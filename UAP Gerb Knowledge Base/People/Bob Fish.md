@@ -19,6 +19,13 @@ In March 2015, Fish sent a detailed [[Bob Fish Email to John Podesta|email]] to 
 
 In the email, Fish stated unequivocally: "One of the government programs that collects hard data on unidentified flying objects is the USAF DSP satellite program."
 
+::wiki-document
+---
+name: "Bob Fish Email to John Podesta"
+caption: "Bob Fish's email to John Podesta of March 2015, published by WikiLeaks in 2016, naming the USAF DSP satellite program as a collector of hard data on UFOs."
+---
+::
+
 ## The Fast Walker Story
 
 Fish wrote that he was never fully briefed into the [[Defense Support Program (DSP)]] directly, but was introduced to its people as the US prepared for [[Operation Desert Shield]] and [[Operation Desert Storm]]. He sometimes had lunch with a few of them in the cafeteria of a highly classified organization in [[El Segundo, California]]. No one could enter the cafeteria without a TS/SCI clearance, so, in his words, "this was not a lightweight group of gossipers".

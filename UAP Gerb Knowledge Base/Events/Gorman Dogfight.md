@@ -26,7 +26,10 @@ On October 23, 1948, Gorman swore his account into the record. He said he was co
 
 ## The Project Sign Investigation
 
-[[Project Sign]], created after Lieutenant General [[Nathan Twining]] asserted that flying discs were "real and not visionary or fictitious", was then responsible for UFO investigations. Its reports went to the [[Army and Navy Research and Development Board]], the USAF Scientific Advisory Board and the [[Atomic Energy Commission]]. Sign interviewed Gorman and other witnesses and checked his Mustang for radiation. The aircraft was measurably more radioactive than other fighters, and investigators first concluded it had flown close to an "atomic powered object".
+[[Project Sign]], created after Lieutenant General [[Nathan Twining]] asserted that flying discs were "real and not visionary or fictitious", was then responsible for UFO investigations. Gerb says its reports had to go to the [[Army and Navy Research and Development Board]], the USAF Scientific Advisory Board and the [[Atomic Energy Commission]]; Twining's letter only recommended sharing the study's data with those bodies and five others. Sign interviewed Gorman and other witnesses and checked his Mustang for radiation. The aircraft was measurably more radioactive than other fighters, and investigators first concluded it had flown close to an "atomic powered object".
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said Sign's reports went to these three bodies, as Gerb says in the video. The list is the recommendation in Twining's letter of 23 September 1947 (paragraph 3a), which proposed sharing the study's data with the Army, the Navy, the AEC, the JRDB, the Air Force Scientific Advisory Group, NACA, and the RAND and NEPA projects; it was not a rule for Sign's reports.
 
 After further investigation, Sign attributed the radiation to reduced shielding from radiation at 14,000 feet, and concluded that Gorman had chased either a lit weather balloon or Jupiter, which only appeared to perform remarkable feats from his own frame of reference inside the moving Mustang.
 

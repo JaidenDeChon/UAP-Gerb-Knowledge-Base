@@ -11,6 +11,13 @@ Del Rio is a city in Val Verde County, Texas, on the Rio Grande along the US-Mex
 
 The alleged [[Majestic 12]] Eisenhower Briefing Document refers to a UAP impact on December 6, 1950 between El Indio, Texas and Guerrero, Mexico, in which a craft traveling at high speed was reportedly nearly obliterated. The recovered material was described as having been taken to the Atomic Energy Commission's facility at [[Sandia National Laboratories]] in New Mexico. The same day, at 10:30 AM Eastern, a nationwide US alert was called over unidentified aircraft approaching the Northeast at altitude. [[General Ramey]] cancelled it at 1:16 PM. An FBI memo to [[J. Edgar Hoover]] dated December 8, 1950 placed Army intelligence on high alert for flying disc data. See [[El Indio, Texas]].
 
+::wiki-document
+---
+name: "Eisenhower Briefing Document"
+caption: "The disputed MJ-12 briefing paper dated 18 November 1952, which describes a 6 December 1950 impact between El Indio and Guerrero and says the remains went to the Atomic Energy Commission's facility at Sandia."
+---
+::
+
 ## The 1955 Langtry Crash
 
 In spring 1955, USAF Reserve Colonel [[Robert Willingham]] claimed to have witnessed a UAP crash just south of the Rio Grande near [[Langtry, Texas]] while escorting bombers from [[Carswell Air Force Base]]. Several pilots saw the craft, and Distant Early Warning radar in Canada detected it. Willingham and his companion [[Jack Perkins]] flew privately to the crash site in a small aircraft. There they found Mexican soldiers guarding the perimeter while they waited for an American retrieval team. See [[Robert Willingham]].

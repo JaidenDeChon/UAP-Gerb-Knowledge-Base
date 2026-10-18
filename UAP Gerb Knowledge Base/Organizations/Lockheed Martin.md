@@ -106,6 +106,15 @@ A 1986 GAO report exposed critical security failures in Lockheed's carve-out spe
 - Many documents physically destroyed, lost, or unresolved
 - Carve-out contracts operated with minimal DoD oversight
 
+::wiki-document
+---
+name: "GAO Report on Special Access Contracts (1986)"
+page: 8
+region: [0.60, 0.73]
+caption: "GAO's July 1986 testimony as reprinted in the August report: Lockheed had inventoried all 53 document control substations and reported 1,460 discrepancies among about 40,000 secret and top secret items."
+---
+::
+
 UAP researchers theorize that this audit nearly exposed Lockheed's UFO legacy programs. In their theory, it triggered the 1994 reorganization of the Special Access Program Oversight Committee (SAPOC) and the creation of the stricter senior review group (SRG) gatekeeping described in the [[Wilson-Davis Memo|Wilson-Davis notes]].
 
 ## Aerospace Corporation Research Identification

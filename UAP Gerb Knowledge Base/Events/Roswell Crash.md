@@ -9,6 +9,15 @@ The 1947 Roswell Crash was an incident in the summer of 1947 near Roswell, New M
 
 On July 8, 1947, RAAF public information officer Walter Haut issued a press release stating the Army had recovered a "flying disc." Within hours the military walked the announcement back, releasing a new statement that identified the debris as a conventional weather balloon. Decades later, the U.S. Air Force issued reports (1994, 1997) attributing the incident to debris from Project Mogul, a classified balloon-based program designed to detect Soviet nuclear tests. At the request of Representative [[Steven Schiff]], the General Accounting Office searched government records on the crash from March 1994 to June 1995. Its report of 28 July 1995, the [[GAO Roswell Report (1995)]], found only two 1947 records, both describing a radar-tracking balloon, and found that Roswell Army Air Field's outgoing messages from October 1946 through December 1949 had been destroyed with no record of who destroyed them or under what authority.
 
+::wiki-document
+---
+name: "GAO Roswell Report (1995)"
+page: 4
+region: [0.36, 0.64]
+caption: "From the report's Results in Brief: RAAF outgoing messages from October 1946 through December 1949 were destroyed, with no record of who destroyed them, when or under what authority, and the only 1947 records found were the 509th-RAAF history and an FBI teletype."
+---
+::
+
 ## Key Witnesses and Officials
 
 Many military and civilian witnesses have maintained over the decades, against the official explanations, that the recovered material was anomalous and that non-human occupants were present. They include:

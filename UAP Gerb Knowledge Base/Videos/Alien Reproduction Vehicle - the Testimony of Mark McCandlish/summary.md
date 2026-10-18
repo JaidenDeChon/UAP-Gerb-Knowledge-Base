@@ -284,6 +284,13 @@ events:
 
 Gerb opens with the whistleblower report described in Shellenberger's article. It concerns Immaculate Constellation, an unacknowledged special access program said to consolidate UAP observations from both tasked and untasked collection platforms. What caught his eye was the report's conclusion that the program shows an existing capability to "detect, quarantine and transfer" UAP and ARV collection incidents before they circulate in the military intelligence enterprise. UAP, he says, is a grey term, but ARV is not. The video's opening also includes a clip saying that a male staffer in Congressman Brown's office confirmed both the exhibit and its three hovering discs.
 
+::wiki-document
+---
+name: "Immaculate Constellation Report"
+caption: "The unsigned whistleblower report on the alleged USAP Immaculate Constellation, which collects intelligence on UAP and what it calls \"ARV/RV (Reproduction Vehicles)\"."
+---
+::
+
 He poses the questions the video sets out to answer:
 
 - Where did the term come from?

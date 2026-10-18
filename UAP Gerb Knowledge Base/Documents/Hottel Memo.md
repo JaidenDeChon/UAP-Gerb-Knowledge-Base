@@ -24,10 +24,10 @@ The March 22, 1950 memorandum states:
 - Three flying saucers had been recovered in New Mexico.
 - Each craft was described as circular with a raised center, approximately 50 feet in diameter.
 - The craft were occupied by humanoid figures approximately three feet tall, dressed in metallic suits.
-- According to "Mr. [redacted] informant," the saucers were found in New Mexico because the government had a very high-powered radar set-up in the area, and the radar was believed to interfere with the saucers' controlling mechanism. The redacted name is that of the man who gave the information to the FBI, identified in the 2022 unredacted release as [[Carl Howe|Karl Howe]]; the radar explanation is credited to his informant, not to him.
+- According to "Mr. [redacted] informant," the saucers were found in New Mexico because the government had a very high-powered radar set-up in the area, and the radar was believed to interfere with the saucers' controlling mechanism. The redacted name, blacked out in the FBI Vault copy under FOIA exemption b7D, is that of the man who gave the information to the FBI, identified in the 2022 unredacted release as [[Carl Howe|Karl Howe]] (Gerb calls him "Mr. Carl Howe"); the radar explanation is credited to his informant, not to him.
 
 > [!edit] Corrected 17 October 2026
-> Earlier versions said a source named "Mr. Carl Howe" made the radar claim. The memo credits it to "Mr. [redacted] informant", that is, Howe's informant, and the name was redacted in the vault release.
+> Earlier versions said the memo identifies a source named "Mr. Carl Howe" who made the radar claim. In the FBI Vault release the name is blacked out on page 2 under FOIA exemption b7D and appears only in the August 2022 unredacted copy, and the memo credits the radar claim to "Mr. [redacted] informant", that is, Howe's informant.
 
 The memo does not specify the exact location of the recoveries, the date they occurred, or the identity of the Air Force investigator. It ends "No further evaluation was attempted by SA [redacted] concerning the above," and its reference line, "RHK:VIM," shows it was dictated by RHK, the initials of the agent who took the information, rather than by Hottel himself.
 
@@ -36,12 +36,12 @@ The memo does not specify the exact location of the recoveries, the date they oc
 
 ## Source and Chain of Custody
 
-As released in the FBI Vault, the memo gives the chain only in outline: "The following information was furnished to SA [redacted] by [redacted]," followed by an Air Force investigator's story and a radar explanation credited to "Mr. [redacted] informant." The Air Force investigator is therefore the informant's account, not a direct source to the FBI. In his Sarbacher video Gerb guesses the investigator came from the [[Air Force Technical Intelligence Center]] (ATIC); the memo itself does not say.
+As released in the FBI Vault, the memo gives the chain only in outline: "The following information was furnished to SA [redacted] by [redacted]." A source whose name is redacted gave it to one of the Washington Field Office's special agents, also unnamed, and Hottel transmitted it to FBI headquarters. Within that information come an Air Force investigator's story and a radar explanation credited to "Mr. [redacted] informant." The Air Force investigator is therefore the informant's account, not a direct source to the FBI. In his Sarbacher video Gerb guesses the investigator came from the [[Air Force Technical Intelligence Center]] (ATIC); the memo itself does not say.
 
 > [!edit] Corrected 17 October 2026
-> Earlier versions said an Air Force investigator relayed the claims to Hottel and that the ultimate source was Carl Howe. In the memo the investigator's story comes from an informant of the redacted source, and the ATIC link is Gerb's guess, not the memo's.
+> Earlier versions said an Air Force investigator relayed the claims to Hottel and that the ultimate source was Carl Howe. The memo says the information was furnished to a redacted special agent by a redacted source, the investigator's story comes from that source's informant, and the ATIC link is Gerb's guess, not the memo's.
 
-An unredacted copy released to [[The Black Vault]] in August 2022 fills in the names. The special agent was Robert H. Kurtzman of the Washington field office, and the man who furnished the information was Karl Howe, a special investigator with the Washington, D.C. Metropolitan Police, who was passing on what his own informant had told him. The informant is still unidentified. Gerb gives the same chain in his Aztec video: the information was "relayed to special agent RH Curtsman by police special investigator Carl How and his unnamed informant."
+An unredacted copy released to [[The Black Vault]] in August 2022 fills in the names. The special agent was Robert H. Kurtzman of the Washington field office, and the man who furnished the information was Karl Howe, a special investigator with the Washington, D.C. Metropolitan Police, who was passing on what his own informant had told him. The informant is still unidentified. Gerb gives the same chain in his Aztec video: the information was "relayed to special agent RH Curtsman by police special investigator Carl How and his unnamed informant." Little is known about Howe beyond his police post, and his informant's credibility has never been independently established.
 
 ## Historical Context
 

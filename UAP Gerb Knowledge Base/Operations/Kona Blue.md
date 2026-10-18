@@ -43,12 +43,23 @@ A more formal attempt followed in 2011, using the Kona Blue PAP structure. Docum
 - The materials were described as residing in "a specific facility known to me" (the facility's location was provided to the Inspector General)
 - The materials originated from "crash retrieval materials from the 1950s and other historical operations"
 - Some sources claim the materials included craft hull fragments or the complete [[1953 Kingman, Arizona Crash Retrieval|1953 Kingman, Arizona crash]] vehicle
-- [[Tara O'Toole]], DHS Under Secretary for Science and Technology, was approached to establish the PAP. According to AARO's declassified history, she approved Kona Blue as a prospective SAP in 2011, and about six months later the DHS Deputy Secretary disapproved it and it was terminated. One outside timeline built from AARO's records puts her briefing in May 2011, her approval in July 2011 and the termination in February 2012, but those months could not be confirmed from a second source
+- [[Tara O'Toole]], DHS Under Secretary for Science and Technology, was approached to establish the PAP. According to AARO's declassified history, she approved Kona Blue as a prospective SAP in 2011, and about six months later the DHS Deputy Secretary disapproved it and it was terminated. DHS's own records, the [[Kona Blue Documents]], give the months: she was presented with the program in May 2011 and established Kona Blue on 11 July 2011, Deputy Secretary Jane Holl Lute directed its termination after a review on 8 December 2011, and DHS dates the termination 10 February 2012
 - [[Bigelow Aerospace Advanced Space Studies]] built a 5,000 square foot underground vault specifically to receive and secure the materials. It was 15-20 feet deep, with 3-foot thick walls, ceilings and floors, multiple tunnels, security doors and a steel vault door
 - The vault was designed to be operational by late 2009 or early 2010
 
 > [!edit] Corrected 17 October 2026
 > Earlier versions stated as AARO's account that O'Toole was briefed in May 2011, set up Kona Blue in July 2011 and saw it terminated in February 2012. Summaries of the AARO history confirm only 2011 and "about six months later", so the months are now credited to the single timeline that gives them.
+
+> [!edit] Clarified 17 October 2026
+> The months the previous card credited to a single outside timeline are confirmed by the DHS records in the Kona Blue Documents: a May 2011 presentation to O'Toole, Joel Wall's 11 July 2011 memo bearing her approval, Lute's termination decision after the 8 December 2011 review, and DHS's letter giving 10 February 2012 as the termination date.
+
+::wiki-document
+---
+name: "Kona Blue Documents"
+page: 36
+caption: "Joel Wall's memo of 11 July 2011 asking Under Secretary Tara O'Toole to approve Kona Blue as a DHS Science & Technology prospective special access program, with her signature on the approval line."
+---
+::
 
 ## Stonewalling by CIA and DNI
 
@@ -69,10 +80,31 @@ Several senior intelligence officials worked together to kill the 2011 Kona Blue
 
 ## Official Justification for Rejection
 
-In the Lockheed video, Gerb summarizes the official explanation as DHS and the other agencies involved shutting down the proposal "due to skepticism regarding the authenticity of the purported materials". AARO's Historical Record Report, Vol. 1 (March 2024) gives a different reason: the Deputy Secretary of Homeland Security disapproved Kona Blue as a SAP and ordered its immediate termination over concerns about the adequacy of the program's justification and the sufficiency of the information behind the proposal, including personnel and budget requirements. AARO also found that no data or material of any kind was ever transferred to DHS under Kona Blue. DHS's own memos, in the Kona Blue documents, record the same reasons from the 8 December 2011 review, and a 2013 memorandum for the record adds that the Deputy Secretary and the General Counsel decided "the Program as proposed did not require extraordinary security measures". Gerb argues the official explanation contradicts testimony and documents suggesting that high-level stakeholders blocked the transfer to keep control of siloed programs, not because they doubted the materials were authentic.
+In the Lockheed video, Gerb summarizes the official explanation as DHS and the other agencies involved shutting down the proposal "due to skepticism regarding the authenticity of the purported materials". AARO's Historical Record Report, Vol. 1 (March 2024) says only that the prospective SAP "was eventually rejected by DHS leadership for lacking merit", and that "no data or material was transferred to DHS". DHS's own memos, in the Kona Blue documents, give the detail: at the 8 December 2011 review, Deputy Secretary Jane Holl Lute considered whether the justifications for establishing a SAP were adequate and whether required elements of the proposal, including the budget and personnel requirements, were sufficient, and then directed that the PSAP be terminated immediately. A 2013 memorandum for the record adds that the Deputy Secretary and the General Counsel decided "the Program as proposed did not require extraordinary security measures". Gerb argues the official explanation contradicts testimony and documents suggesting that high-level stakeholders blocked the transfer to keep control of siloed programs, not because they doubted the materials were authentic.
 
 > [!edit] Corrected 16 October 2026
 > Earlier versions quoted "skepticism regarding the authenticity" as AARO's stated reason. That wording is Gerb's summary. AARO's Historical Record Report, Vol. 1 cites the program's justification and the information behind the proposal, and is now paraphrased beside it.
+
+> [!edit] Corrected 17 October 2026
+> The card above credits the reasons about the program's justification, personnel and budget to the AARO report. AARO's report (page 35) says only that DHS leadership rejected the program "for lacking merit"; those reasons come from the DHS termination memo of 12 December 2011 in the Kona Blue documents.
+
+::wiki-document
+---
+name: "Kona Blue Documents"
+page: 48
+region: [0.57, 0.84]
+caption: "DHS's termination memo of 12 December 2011, recording that the 8 December review asked whether the justifications for establishing a SAP were adequate."
+---
+::
+
+::wiki-document
+---
+name: "AARO Historical Report Volume 1"
+page: 35
+region: [0.08, 0.57]
+caption: "AARO's account of Kona Blue: the prospective SAP \"was eventually rejected by DHS leadership for lacking merit\", and \"no data or material was transferred to DHS\"."
+---
+::
 
 ## AARO Declassification and Tim Phillips Statements
 

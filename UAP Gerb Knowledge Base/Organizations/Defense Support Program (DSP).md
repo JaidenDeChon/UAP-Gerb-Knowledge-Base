@@ -17,6 +17,13 @@ Besides their stated mission of detecting missiles, DSP satellites have been tra
 
 [[Bob Fish]], a [[US SOUTHCOM|USG]] contractor who managed highly classified government communications systems in the 1980s and 1990s, wrote to Clinton campaign manager [[John Podesta]] in a 2015 email that later came out in the [[WikiLeaks]] leaks of Clinton campaign emails: "One of the government programs that collects hard data on unidentified flying objects is the USAF DSP satellite program."
 
+::wiki-document
+---
+name: "Bob Fish Email to John Podesta"
+caption: "Bob Fish's email to John Podesta of March 2015, published by WikiLeaks in 2016, naming the USAF DSP satellite program as a collector of hard data on UFOs."
+---
+::
+
 Fish described an incident in which DSP personnel detected a [[Fast Walkers|Fast Walker]] that "entered our atmosphere from deep space" and "made a 30° course correction turn," which pointed to controlled flight rather than the ballistic path of a meteor.
 
 ## Notable Detection Cases

@@ -18,6 +18,15 @@ The Manhattan Project 2.0 directly inherited five foundational security pillars 
 
 **Classification and information control:** UFO materials were classified through creative applications of the [[Atomic Energy Act of 1954]], including the "special nuclear material" (Section 51) and "transclassified foreign nuclear information" (TFNI, Section 142) designations. These statutory classifications are born classified, are exempt from normal declassification review and lie beyond the reach of presidential executive orders.
 
+::wiki-document
+---
+name: "Atomic Energy Act of 1954"
+page: 23
+region: [0.59, 0.68]
+caption: "Section 142 e: the Commission removes from Restricted Data the information on other nations' atomic energy programs that it and the Director of Central Intelligence jointly decide can be safeguarded as defense information."
+---
+::
+
 **Political shield/cover:** A UFO control group copying the Manhattan Project's Top Policy Group was set up within the National Security Council, first informally under Truman and then institutionally under Eisenhower's NSC 5412 Committee ("Special Group"). The group was kept as small as possible, left minimal paper trails and worked through informal, unrecorded NSC meetings to avoid documentation.
 
 ## Key Architects

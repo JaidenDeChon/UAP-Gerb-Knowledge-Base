@@ -10,7 +10,11 @@ Extraterrestrial biological entity, usually shortened to EBE, is a term for the 
 
 The two sources Gerb covers give different origins for the name.
 
-- The [[Eisenhower Briefing Document]], as Gerb reads it with [[Ryan S. Wood]], says Dr. [[Detlev Bronk]] performed autopsies on the Roswell bodies and coined the term.
+- The [[Eisenhower Briefing Document]] says the analysis of the four Roswell bodies was arranged by Dr. [[Detlev Bronk]] and that his team suggested the term. Gerb, reading it with [[Ryan S. Wood]], says Bronk performed the autopsies.
+
+> [!edit] Corrected 17 October 2026
+> Earlier versions said the document has Bronk performing the autopsies. It says the analysis "was arranged by Dr. Bronk"; the autopsies are Gerb's reading. Source: the copy in the FBI Vault's Majestic 12 file.
+
 - In an interview clip in Gerb's Corso video, Corso says his own team chose the name after concluding the beings were clones.
 
 ## Corso and the Roswell autopsies
@@ -26,11 +30,25 @@ The [[Special Operations Manual (SOM 1-01)]], an alleged 1954 Majestic 12 manual
 
 The manual also sets packaging and shipping rules for EBEs and states that "loss of EBE life is acceptable". Its classification table sends deceased entities to the [[Blue Room]] at [[Wright-Patterson Air Force Base]].
 
+::wiki-document
+---
+name: "Special Operations Manual (SOM 1-01)"
+caption: "The disputed 1954 MJ-12 manual that describes the two EBE types and how recovered entities were to be handled."
+---
+::
+
 Gerb ties EBE-1 to two other cases. In his Corso video he notes that EBE-1 closely matches the body Corso described at Fort Riley. In his Aztec video he says the bodies described in the 1948 [[Aztec UFO Crash and Recovery|Aztec]] case, with no digestive or reproductive organs and a colourless fluid in place of blood, sound almost identical to EBE-1.
 
 ## Background
 
 The Eisenhower Briefing Document, which reached researchers on a roll of film in December 1984 and is dated 18 November 1952, says Bronk's team suggested "Extra-terrestrial Biological Entities", or "EBEs", as the standard term for the creatures until a more definitive name could be agreed.
+
+::wiki-document
+---
+name: "Eisenhower Briefing Document"
+caption: "The disputed MJ-12 briefing paper for President-elect Eisenhower, dated 18 November 1952, in which Bronk's team suggests the term \"Extra-terrestrial Biological Entities\", or \"EBEs\"."
+---
+::
 
 ## Sources
 

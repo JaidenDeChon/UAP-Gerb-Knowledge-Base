@@ -14,6 +14,13 @@ Oak Shannon is a former manager of special projects at [[Los Alamos National Lab
 
 According to the Wilson-Davis memo, the meeting opened with Wilson bringing up Shannon, who had asked Wilson to speak to Davis about what Wilson had told Commander [[Will Miller]] about crashed or retrieved UFO craft. His involvement suggests he knew of Wilson's 1997 investigation into crash retrieval programs and had stayed in contact with Wilson after the admiral retired from the DIA.
 
+::wiki-document
+---
+name: "Wilson-Davis Memo"
+caption: "The leaked 15-page notes, dated 16 October 2002, that purport to record Eric Davis's conversation with Vice Admiral Thomas Wilson about a contractor-run crash retrieval program."
+---
+::
+
 ## Confirmation of Authenticity
 
 Shannon later confirmed the authenticity of the Wilson-Davis memo in a 2022 interview with Jay Anderson for the Project Unity podcast. Gerb gives his confirmation particular weight for two reasons: he managed special projects at Los Alamos, one of the most sensitive research facilities in the United States, and he was directly involved in setting up the meeting. When the video weighs the memo, it counts Shannon with [[Chris Mellon]], [[Luis Elizondo]], [[Ross Coulthart]] and [[Richard Dolan]] among those who vouch for it.

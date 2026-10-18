@@ -280,6 +280,13 @@ Corso's testimony exists in two primary forms: *The Day After Roswell* (1997), c
 
 *The Day After Roswell* is 130 pages longer than *Dawn of a New Age* and contains sensational details that are not in the original manuscript. Several people who saw the manuscript before Corso's death, including Colonel [[John B. Alexander]], noticed details in the book that the manuscript lacked, such as Corso intimidating a CIA director, or Corso describing the Roswell crash in detail even though he was not there. Senator [[Strom Thurmond]] wrote a foreword for the book but angrily withdrew it when he learned the book centered on UAP, which led to an early reprint.
 
+::wiki-document
+---
+name: "The Day After Roswell"
+caption: "Corso's 1997 book with William J. Birnes, which claims that technology recovered at Roswell was fed into American industry through Army research and development."
+---
+::
+
 ## UFO Working Group and Intelligence Support Activity
 
 Corso claimed to have learned that in February 1987, Colonel Harold E. Phillips of the Defense Intelligence Agency chaired a group called the [[UFO Working Group]]. Its 17 members included one Army general and three Air Force generals, DIA scientists, three NSA officials, a supervisor from the CIA's Domestic Collection Division, and a technical team from the CIA's [[CIA Directorate of Science and Technology|Science and Technology Directorate]]. The working group allegedly received funding from U.S. [[Army INSCOM]] (Intelligence and Security Command) under Major General [[Albert Stubblebine]]'s direction. The Intelligence Support Activity (ISA), founded by INSCOM, was handed over to [[JSOC (Joint Special Operations Command)|JSOC]] in 2003, the same year the [[CIA Office of Global Access]] was created. That office was later accused of acting as a logistics coordinator for UAP crash retrieval operations.

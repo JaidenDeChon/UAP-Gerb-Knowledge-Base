@@ -328,9 +328,21 @@ Among the Pinotti documents is a cover letter, stamped with the Kingdom Senate's
 8. Strictly exclude every other scientific body, including the pontifical university, from collecting or examining reports.
 9. Charge all costs to a set budget heading of the Reale Accademia d'Italia, on written authorization from the RS-33 chief of staff.
 
-Gerb finds points 8 and 9 almost identical to [[USAF Regulation 200-2]] of 1953, which confined UFO reports to the Air Force and higher authorities and kept them from scientific bodies and [[Project Blue Book]]. The protocol as a whole reminds him of the alleged [[Majestic 12]], and he calls the RS-33 an Italian precursor to the body that would arise in the United States in the late 1940s and early 1950s.
+Gerb finds points 8 and 9 almost identical to [[USAF Regulation 200-2]] of 1953, which, as he describes it, confined UFO reports to the Air Force and higher authorities and kept them from scientific bodies and [[Project Blue Book]]. The regulation itself says nothing about scientific bodies and never mentions Blue Book: it sends reports to Air Defense Command, the Air Technical Intelligence Center (ATIC) and the Director of Intelligence at Headquarters USAF, names ATIC, which ran Blue Book, as responsible for analysis, and in its paragraph 8 lets a base release a sighting's location, time, date and description. The protocol as a whole reminds him of the alleged [[Majestic 12]], and he calls the RS-33 an Italian precursor to the body that would arise in the United States in the late 1940s and early 1950s.
+
+> [!edit] Attribution clarified 17 October 2026
+> This paragraph used to state as fact that the regulation kept reports from scientific bodies and from Blue Book. That is Gerb's description; the regulation (paragraphs 4, 6, 7 and 8) routes reports to ATIC, Blue Book's parent, as well as to Air Defense Command and the Director of Intelligence, and says nothing about scientific bodies (see its transcription).
 
 ::wiki-cue{t=751 video="FGiwgyLY7Aw" video-title="The 1933 Magenta, Italy UFO Crash" entry-title="Gerb compares the protocol to USAF Regulation 200-2"}
+::
+
+::wiki-document
+---
+name: "USAF Regulation 200-2"
+page: 3
+region: [0.25, 0.75]
+caption: "The regulation's paragraph 6c, on where reports go (Air Defense Command, ATIC and the Director of Intelligence), and paragraph 8, on what a base may release about a local sighting."
+---
 ::
 
 Gerb also mentions a line of inquiry he leaves to another researcher. It connects Ciano's wife Edda (Mussolini's daughter), Allen W. Dulles, the Ciano diaries and Operation Sunrise, which it treats as a possible front for retrieving the craft from the collapsing fascist state. Gerb does not present it as his own work and hopes to interview the researcher behind it.
