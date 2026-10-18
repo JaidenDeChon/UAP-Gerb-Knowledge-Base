@@ -612,6 +612,312 @@
       "handed_out": "2026-10-18T02:14:56Z",
       "ingested": "2026-10-18T02:21:32Z",
       "leads": 1
+    },
+    "S045-documents": {
+      "lens": "documents",
+      "items": [
+        "DIA Tehran UFO Report (1976)"
+      ],
+      "handed_out": "2026-10-18T03:03:47Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S046-documents": {
+      "lens": "documents",
+      "items": [
+        "Kona Blue Documents"
+      ],
+      "handed_out": "2026-10-18T03:03:51Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S047-documents": {
+      "lens": "documents",
+      "items": [
+        "Environmental Assessment Report on Avery Technical Center"
+      ],
+      "handed_out": "2026-10-18T03:03:55Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S048-documents": {
+      "lens": "documents",
+      "items": [
+        "FBI File on Silas Newton"
+      ],
+      "handed_out": "2026-10-18T03:04:01Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S049-documents": {
+      "lens": "documents",
+      "items": [
+        "GAO Report on Army Guard Program"
+      ],
+      "handed_out": "2026-10-18T03:04:07Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S050-documents": {
+      "lens": "documents",
+      "items": [
+        "Moon Dust New Zealand Cable (1978)"
+      ],
+      "handed_out": "2026-10-18T03:04:13Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S051-documents": {
+      "lens": "documents",
+      "items": [
+        "Now You See It, Now You Don't"
+      ],
+      "handed_out": "2026-10-18T03:04:18Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S052-documents": {
+      "lens": "documents",
+      "items": [
+        "ODNI Preliminary Assessment (2021)"
+      ],
+      "handed_out": "2026-10-18T03:04:24Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S053-documents": {
+      "lens": "documents",
+      "items": [
+        "Project Grudge Report"
+      ],
+      "handed_out": "2026-10-18T03:04:29Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S054-documents": {
+      "lens": "documents",
+      "items": [
+        "Recent Sentient Highlights"
+      ],
+      "handed_out": "2026-10-18T03:04:33Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S055-documents": {
+      "lens": "documents",
+      "items": [
+        "Wilson-Davis Memo"
+      ],
+      "handed_out": "2026-10-18T03:04:38Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S056-documents": {
+      "lens": "documents",
+      "items": [
+        "Stringfield Status Reports"
+      ],
+      "handed_out": "2026-10-18T03:04:44Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S057-documents": {
+      "lens": "documents",
+      "items": [
+        "Eisenhower Briefing Document"
+      ],
+      "handed_out": "2026-10-18T03:04:49Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S058-documents": {
+      "lens": "documents",
+      "items": [
+        "Special Operations Manual (SOM 1-01)"
+      ],
+      "handed_out": "2026-10-18T03:04:54Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S059-documents": {
+      "lens": "documents",
+      "items": [
+        "Condon Report"
+      ],
+      "handed_out": "2026-10-18T03:04:58Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S060-documents": {
+      "lens": "documents",
+      "items": [
+        "The Day After Roswell"
+      ],
+      "handed_out": "2026-10-18T03:05:03Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S061-documents": {
+      "lens": "documents",
+      "items": [
+        "Wilbert Smith Memo"
+      ],
+      "handed_out": "2026-10-18T03:05:07Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S062-documents": {
+      "lens": "documents",
+      "items": [
+        "Immaculate Constellation Report"
+      ],
+      "handed_out": "2026-10-18T03:05:12Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S063-documents": {
+      "lens": "documents",
+      "items": [
+        "Sarbacher Letter"
+      ],
+      "handed_out": "2026-10-18T03:05:16Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S064-documents": {
+      "lens": "documents",
+      "items": [
+        "AFCIN Intelligence Team Personnel Memo (1961)"
+      ],
+      "handed_out": "2026-10-18T03:05:21Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S065-documents": {
+      "lens": "documents",
+      "items": [
+        "Project Sign Estimate of the Situation (1948)"
+      ],
+      "handed_out": "2026-10-18T03:05:26Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S066-documents": {
+      "lens": "documents",
+      "items": [
+        "Alleged Leaked UAP Task Force Report"
+      ],
+      "handed_out": "2026-10-18T03:05:34Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S067-documents": {
+      "lens": "documents",
+      "items": [
+        "Beneath the Surface (Gallaudet White Paper)"
+      ],
+      "handed_out": "2026-10-18T03:05:39Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S068-documents": {
+      "lens": "documents",
+      "items": [
+        "Denb Report"
+      ],
+      "handed_out": "2026-10-18T03:05:44Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S069-documents": {
+      "lens": "documents",
+      "items": [
+        "Project Blue Book Special Report No. 14"
+      ],
+      "handed_out": "2026-10-18T03:05:49Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S070-documents": {
+      "lens": "documents",
+      "items": [
+        "UAP Campaign Plan - Way Forward"
+      ],
+      "handed_out": "2026-10-18T03:05:54Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S071-documents": {
+      "lens": "documents",
+      "items": [
+        "Willingham Affidavit"
+      ],
+      "handed_out": "2026-10-18T03:05:58Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S072-documents": {
+      "lens": "documents",
+      "items": [
+        "Atomic Energy Act of 1954"
+      ],
+      "handed_out": "2026-10-18T03:06:02Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S073-documents": {
+      "lens": "documents",
+      "items": [
+        "Schumer Amendment (NDAA)"
+      ],
+      "handed_out": "2026-10-18T03:06:06Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S074-documents": {
+      "lens": "documents",
+      "items": [
+        "USAF Regulation 200-2"
+      ],
+      "handed_out": "2026-10-18T03:06:10Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S075-documents": {
+      "lens": "documents",
+      "items": [
+        "Executive Order 10501"
+      ],
+      "handed_out": "2026-10-18T03:06:14Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S076-documents": {
+      "lens": "documents",
+      "items": [
+        "Executive Order 13526"
+      ],
+      "handed_out": "2026-10-18T03:06:18Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S077-documents": {
+      "lens": "documents",
+      "items": [
+        "JANAP 146c"
+      ],
+      "handed_out": "2026-10-18T03:06:22Z",
+      "ingested": null,
+      "leads": 0
+    },
+    "S078-documents": {
+      "lens": "documents",
+      "items": [
+        "OPNAV 3820"
+      ],
+      "handed_out": "2026-10-18T03:06:26Z",
+      "ingested": null,
+      "leads": 0
     }
   },
   "leads": [
@@ -6181,5 +6487,5 @@
       "slip": false
     }
   ],
-  "turn": 10
+  "turn": 4
 }
